@@ -1,0 +1,2694 @@
+{
+ "id": "sci.energy.energy-around-us.L3",
+ "title": "Energy: what makes things move, light up, heat up and make sounds",
+ "level": 3,
+ "summary": {
+  "text": "A fan turns, a torch shines, a cooker whistles and dosa batter turns crisp on a hot tawa. Each of these needs energy. Energy is what makes things happen: it makes things move, light up, heat up and make sounds. It is never made by the thing that uses it. It is passed on from somewhere else: from a cell, from the wall socket, from gas, from food or from sunlight. When you drop a marble into atta from higher up, it lands faster and digs a wider crater, because your arm gave it more energy by lifting it higher. Follow almost any energy back, step by step, and you reach the Sun.",
+  "art": "A busy kitchen in a city flat: a ceiling fan turning, a torch shining on a shelf, a pressure cooker whistling with a puff of steam, a dosa on a hot tawa, and morning sunlight coming in at the window, with thin golden arrows linking each one back to the Sun."
+ },
+ "intro": {
+  "hook": "Try three things. Switch on a torch. Clap your hands hard. Hold your palm near, not on, a cup of hot tea. The torch gave light, the clap made a sound, and the tea warmed your hand. What do these three have in common?",
+  "text": "Each one made something happen. Scientists say that whatever makes something happen needs energy. In this unit you go on a hunt for energy in your home. You drop a marble into a tray of atta from different heights to see what more energy does. And you find out where the energy for almost everything around you comes from.",
+  "art": "A child's hand switching on a torch, two hands clapping with little sound lines, and a palm held just above a steaming steel tumbler of tea."
+ },
+ "outcomes": [
+  "I can say what energy is: what is needed to make something move, light up, heat up or make a sound.",
+  "I can find energy at work in my home, and say whether it is making something move, light up, heat up or make a sound.",
+  "I can follow where the energy for a thing came from, step by step, often back to the Sun.",
+  "I can run a fair test that drops a marble into atta from different heights, and explain what the craters show about energy.",
+  "I can explain that energy is never used up: it is passed from one thing to another, and in the end much of it spreads out as heat.",
+  "I can tell how Willem 's Gravesande and Émilie du Châtelet used dents in clay to show that a faster ball carries much more energy."
+ ],
+ "cards_mins": 15,
+ "terms": [
+  {
+   "term": "Energy",
+   "meaning": "What is needed to make something happen: to make it move, light up, heat up or make a sound.",
+   "example": "A ceiling fan needs energy from electricity to turn.",
+   "art": "A ceiling fan turning, with a dotted line from the wall switch to the fan."
+  },
+  {
+   "term": "Movement energy",
+   "meaning": "The energy a thing has because it is moving. Scientists call it kinetic energy. The faster it moves, the more it has.",
+   "example": "A cricket ball bowled fast has more movement energy than one rolled gently.",
+   "art": "A cricket ball flying fast, with speed lines behind it, next to a ball rolling slowly on grass."
+  },
+  {
+   "term": "Stored energy",
+   "meaning": "Energy that is held ready, waiting to make something happen later. Food, a cell, gas, a wound-up toy and a thing lifted up high all have stored energy.",
+   "example": "A coconut high up on a tree has stored energy. When it falls, that energy becomes movement energy.",
+   "art": "A coconut hanging high on a palm tree, with a dotted line down to the ground."
+  },
+  {
+   "term": "Heat",
+   "meaning": "Energy that moves from a warmer thing to a cooler thing. It makes things warmer.",
+   "example": "Heat from the flame moves into the pan and cooks the dosa.",
+   "art": "A dosa on a tawa over a blue gas flame, with wavy lines rising."
+  },
+  {
+   "term": "Light",
+   "meaning": "Energy that travels from things that shine, such as the Sun, a lamp or a screen. It lets us see.",
+   "example": "A torch turns energy from its cells into light.",
+   "art": "A torch shining a beam across a dark room."
+  },
+  {
+   "term": "Sound",
+   "meaning": "Energy carried by vibrations travelling through the air, or through water or solids, to our ears.",
+   "example": "A temple bell vibrates when it is struck, and the sound reaches you across the street.",
+   "art": "A brass temple bell swinging, with curved sound lines spreading out."
+  },
+  {
+   "term": "Vibrate",
+   "meaning": "To move back and forth very fast.",
+   "example": "A stretched rubber band vibrates when you pluck it, and you hear a twang.",
+   "art": "A rubber band stretched between two fingers, blurred where it vibrates."
+  },
+  {
+   "term": "Electricity",
+   "meaning": "A way of carrying energy along wires, from a cell or a power station to the thing that uses it.",
+   "example": "Electricity carries energy from a wind farm in Tamil Nadu to a fan in a flat in Chennai.",
+   "art": "Tall wind turbines on a hill, power lines, and a fan in a flat window."
+  },
+  {
+   "term": "Fuel",
+   "meaning": "Something that is burned to give out heat and light. Wood, cooking gas, kerosene and petrol are fuels.",
+   "example": "Cooking gas (LPG) is the fuel in most city kitchens.",
+   "art": "A gas stove with a blue flame, and a red gas cylinder beside it."
+  },
+  {
+   "term": "Energy transfer",
+   "meaning": "Energy passing from one thing to another. Transfer means moving across.",
+   "example": "When you kick a ball, energy is transferred from your leg to the ball.",
+   "art": "A foot kicking a football, with an arrow from the foot to the ball."
+  },
+  {
+   "term": "Source of energy",
+   "meaning": "Where the energy for something comes from.",
+   "example": "The source of energy for a solar lamp is sunlight.",
+   "art": "A solar garden lamp on a balcony railing, with the Sun shining on its small panel."
+  },
+  {
+   "term": "Solar energy",
+   "meaning": "Energy that comes from the Sun as light and heat. Solar means 'of the Sun'.",
+   "example": "Solar panels on a roof turn sunlight into electricity.",
+   "art": "Blue solar panels on the roof of a block of flats."
+  },
+  {
+   "term": "Joule",
+   "meaning": "The unit scientists use to measure energy, named after James Joule, an English scientist. One joule is about the energy you need to lift a small apple one metre.",
+   "example": "Lifting a 100 gram apple from the floor to a table about 1 metre high takes about 1 joule.",
+   "art": "A hand lifting a small apple from the floor up to a table top, with a 1 metre arrow beside it."
+  },
+  {
+   "term": "Conservation of energy",
+   "meaning": "The rule that energy is never made and never destroyed. It only passes from one thing to another and changes form.",
+   "example": "When a falling marble stops in atta, its movement energy is not lost. It has gone into moving atta, a sound and a tiny bit of warmth.",
+   "art": "A marble sitting in a crater in atta, with three small arrows: one to the thrown atta, one to sound lines, one to a tiny wavy heat line."
+  },
+  {
+   "term": "Crater",
+   "meaning": "A bowl-shaped hole made when something hits a surface.",
+   "example": "The Moon is covered in craters made by rocks from space.",
+   "art": "A round crater in a tray of atta, with white streaks thrown out around it."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "What energy is",
+   "status": "defined",
+   "definition": "Energy is what is needed to make something happen. Anything that moves, lights up, heats up or makes a sound is using energy.",
+   "description": "Scientists usually say energy is what is needed to do work, which means to push or pull something and move it. For us, a simpler way works well: energy is what makes things happen. A still marble on a table does nothing. Lift it and drop it, and it falls, digs a crater and makes a thud. A switched-off bulb is dark. Let electricity reach it, and it lights up and gets warm. You cannot see or hold energy itself. You see what it does.",
+   "examples": [
+    "A child running uses energy from food.",
+    "A mixie grinding chutney uses energy carried by electricity.",
+    "Sunlight warming a balcony floor brings energy from the Sun."
+   ],
+   "perspectives": [],
+   "art": "A row of four pictures: a marble falling, a bulb glowing, a tumbler of water being warmed by the Sun, a bell ringing.",
+   "context": "This card says what energy is. You will see the same idea in every other card of this unit."
+  },
+  {
+   "concept": "Energy shows up in different forms",
+   "status": "defined",
+   "definition": "Energy can be movement energy, heat, light, sound, electrical energy, or stored energy. These are called forms of energy.",
+   "description": "The same energy can change from one form to another. In a torch, stored energy in the cells is carried by electricity to the bulb. The bulb gives out light and a little heat. In your body, stored energy from food becomes movement when you run, and heat that keeps you warm. A falling coconut's stored energy, from being high up, becomes movement energy as it falls. When it hits the ground, there is a thud: some energy has become sound.",
+   "examples": [
+    "Cooker: the gas flame's heat makes steam, and the steam pushes up the whistle and makes a sound.",
+    "Phone: stored energy in the battery becomes light on the screen and sound from the speaker.",
+    "Fan: electrical energy becomes movement energy in the blades."
+   ],
+   "perspectives": [],
+   "art": "A torch drawn open, with labels: cells (stored energy), wire (electricity), bulb (light and a little heat).",
+   "context": "This card is about the different forms energy can take, and how it changes from one to another."
+  },
+  {
+   "concept": "Energy passes from one thing to another",
+   "status": "defined",
+   "definition": "Energy transfer means energy passing from one thing to another. Things do not make energy. They get it from somewhere and pass it on.",
+   "description": "When you throw a ball, energy passes from your arm to the ball. When the ball hits a window, energy passes to the glass, and the glass rattles. When you put a steel tumbler of cold water in the sun, energy passes from sunlight into the water, and the water warms up. Every time something happens, energy is passing from one thing to another.",
+   "examples": [
+    "Your hand gives energy to a spinning top.",
+    "A hot tawa gives energy to the dosa batter.",
+    "Wind gives energy to the blades of a wind turbine."
+   ],
+   "perspectives": [],
+   "art": "A chain of three pictures linked by arrows: a hand spinning a top, a top spinning on the floor, the top slowing and stopping.",
+   "context": "This card is about energy moving from one thing to another every time something happens."
+  },
+  {
+   "concept": "Why a higher drop digs a bigger crater",
+   "status": "defined",
+   "definition": "A thing lifted higher has more stored energy. When it falls, that stored energy becomes movement energy, so it lands faster and can do more.",
+   "description": "To lift a marble, your arm must push it up against the Earth's pull. Lifting it higher takes more energy. That energy is stored in the marble while you hold it up. When you let go, the marble speeds up as it falls. The stored energy becomes movement energy. A marble from 80 centimetres lands about twice as fast as one from 20 centimetres. When it hits the atta, its energy pushes atta aside, makes a thud, and warms the atta very slightly. More energy means a wider crater and a louder thud.",
+   "examples": [
+    "A coconut falling from a tall tree lands much harder than one falling from a short tree.",
+    "A hammer lifted high drives a nail in further than one lifted a little.",
+    "Water falling from high up in a dam spins the turbines that make electricity, as at Idukki in Kerala."
+   ],
+   "perspectives": [],
+   "art": "Three marbles held at 20, 40 and 80 centimetres above a tray of atta, with three craters below getting wider from left to right.",
+   "context": "This card explains what you saw in the Atta Crater Test, where you dropped a marble from three heights."
+  },
+  {
+   "concept": "Energy is never used up",
+   "status": "defined",
+   "definition": "Energy is never made and never destroyed. It only passes on and changes form. This is called the conservation of energy.",
+   "description": "People often say a cell is 'used up' or a child has 'used up' their energy. The energy has not vanished. It has passed on to other things, and much of it has spread out as a little warmth in many places. When the marble stopped in the atta, its movement energy went into moving the atta, the thud and a tiny warming of the atta and the air. Spread-out warmth like this is still energy, but it is very hard to collect and use again. That is why we need new food every day, and why a cell stops working.",
+   "examples": [
+    "After a long game of kabaddi, your energy from food has become movement, sound and warmth, and the warmth has spread into the air.",
+    "A spinning top slows down because its movement energy passes into the floor and the air as a little warmth.",
+    "A torch cell stops lighting the bulb when its stored energy has all been passed on."
+   ],
+   "perspectives": [],
+   "art": "A top spinning, then slowing, then lying still, with tiny wavy heat lines spreading into the floor and the air.",
+   "context": "This card is about a surprising rule: energy is never used up, even when it seems to be."
+  },
+  {
+   "concept": "Where our energy comes from",
+   "status": "defined",
+   "definition": "A source of energy is where the energy for something comes from. Almost all the energy we use on Earth came from the Sun.",
+   "description": "Plants catch sunlight in their leaves and store its energy in the food they make. Your idli, rice and dal came from plants, so their energy is stored sunlight. Milk and eggs come from animals who ate plants. Coal, oil and cooking gas formed over millions of years from plants and tiny sea creatures who grew in sunlight long ago. Wind blows because the Sun warms some places more than others. Rain fills dams because the Sun lifts water into the sky as it evaporates. A few sources do not come from the Sun. Nuclear power stations, like Kudankulam in Tamil Nadu, use energy stored in uranium. Tides come mostly from the Moon's pull. Hot springs get their heat from deep inside the Earth.",
+   "examples": [
+    "A ceiling fan in Chennai may run on electricity from the Muppandal wind farm near Kanyakumari. That wind was moved by the Sun's heat.",
+    "Solar panels at Kochi airport turn sunlight straight into electricity.",
+    "A dosa's energy came from rice and urad dal plants, which caught sunlight in a field."
+   ],
+   "perspectives": [],
+   "art": "The Sun at the top, with arrows down to a rice plant, a wind turbine, a solar panel, a dam and a gas cylinder, and from each one an arrow to a home.",
+   "context": "This card follows energy back to where it came from. Most of the time, the trail ends at the Sun."
+  },
+  {
+   "concept": "Energy in living things",
+   "status": "defined",
+   "definition": "Every living thing needs energy to grow, move, repair their body and stay alive. Plants take it from sunlight. Animals, people, fungi and most microbes take it from food.",
+   "description": "A plant spends the sunlight they catch on growing new leaves, roots, flowers and seeds. A crow at your window spends energy from their food on flying, keeping warm and finding more food. Your body uses energy even while you sleep, to keep your heart beating and keep you warm. A resting child gives out about as much heat as an old 60 watt bulb. Living things choose how to spend their energy. A plant in shade grows taller to reach the light. A plant in the open grows more leaves instead.",
+   "examples": [
+    "A sprouting moong seed lives on the food stored inside them until their first leaves catch sunlight.",
+    "Ants carry food back to their nest to feed the whole colony.",
+    "You feel hungry after running, because your body has passed on a lot of energy."
+   ],
+   "perspectives": [],
+   "art": "A green plant in sunlight, a crow flying with a piece of chapati, and a child eating idli, linked by arrows.",
+   "context": "This card is about how plants, animals and you get and spend energy."
+  },
+  {
+   "concept": "What is energy, really?",
+   "status": "idea",
+   "description": "Scientists can measure energy very exactly, in joules, and they have never found a case where it is made or lost. But what energy is, underneath, nobody can say. The physicist Richard Feynman said in his lectures that in physics today we have no knowledge of what energy is. We only know rules for counting it. Some scientists say energy is just a number that stays the same. Others think of it as something real that flows from thing to thing. This is still an open question.",
+   "examples": [
+    "We count the energy in food in kilocalories, and the energy in electricity in units on the meter bill.",
+    "Albert Einstein showed in 1905 that mass is a form of energy too, so even a still stone holds a huge amount."
+   ],
+   "perspectives": [
+    {
+     "who": "Richard Feynman, physicist",
+     "explanation": "Energy is a number we can work out for any situation, and the total never changes. We do not know what it is, only that the count always comes out the same."
+    },
+    {
+     "who": "Many teachers and engineers",
+     "explanation": "It helps to think of energy as something real that is passed along, like water poured from one pot to the next. This picture works for almost every everyday problem."
+    }
+   ],
+   "art": "A child holding up a glowing question mark between a bulb, a falling marble and a warm cup of tea.",
+   "context": "This card is about a question that scientists still cannot answer: what energy really is."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "Energy is never made or destroyed. It only passes on and changes form.",
+   "evidence": "In the 1840s, James Joule measured that the same amount of work always made the same amount of heat. Since then, every careful measurement has agreed."
+  },
+  {
+   "text": "A moving thing's energy grows much faster than its speed. Twice as fast means about four times as much energy.",
+   "evidence": "Balls dropped into soft clay by Willem 's Gravesande in 1722 made dents that grew this way. Engineers use the same rule today to work out the force of crashes."
+  },
+  {
+   "text": "Almost all the energy used by living things on Earth comes from sunlight.",
+   "evidence": "Plants and tiny sea life make food from sunlight, and every food chain studied starts with them, except a few deep-sea communities around hot vents."
+  },
+  {
+   "text": "When energy changes form, some of it nearly always spreads out as heat.",
+   "evidence": "A bulb, a mixie motor, a running child and a stopping bicycle all get warm. Thermometers show the warming every time."
+  },
+  {
+   "text": "The Sun's energy comes from hydrogen joining into helium in its centre.",
+   "evidence": "Physicists worked this out in the 1920s and 1930s. Tiny particles called neutrinos, made by these reactions, have been caught in detectors on Earth."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Energy gets used up.",
+   "who": "A very common idea, used in everyday talk",
+   "for": "Cells go flat, petrol tanks run empty, and you feel tired after running. It really looks as if the energy is gone.",
+   "against": "The energy has passed on and spread out, mostly as warmth in the air. Careful measurements always find all of it. What is 'used up' is energy in a form that is easy to use.",
+   "status": "rejected",
+   "context": "This card is about a very common idea: that energy gets used up."
+  },
+  {
+   "claim": "Electricity is where our energy comes from.",
+   "who": "A common idea, because we get it from a socket",
+   "for": "Plug in a fan and it runs. Unplug it and it stops. So it seems that the socket is the source.",
+   "against": "Electricity only carries energy along wires. The energy comes from a power station, which got it from coal, gas, wind, sunlight, falling water or uranium.",
+   "status": "rejected",
+   "context": "This card asks whether electricity is a source of energy, or a way of carrying it."
+  },
+  {
+   "claim": "A still thing has no energy.",
+   "who": "A common first idea",
+   "for": "A stone on the floor does nothing, makes no sound and is not hot or bright.",
+   "against": "Lift the stone onto a shelf and it has stored energy, ready to fall. And Einstein showed that the stuff of every thing is itself a huge store of energy. Even a still stone is full of it.",
+   "status": "rejected",
+   "context": "This card asks whether something that is not moving can have energy."
+  },
+  {
+   "claim": "A clever machine could keep running for ever without any energy put in.",
+   "who": "Many inventors over hundreds of years, who built 'perpetual motion' machines",
+   "for": "Wheels with rolling weights and magnets look as if they should keep turning by themselves.",
+   "against": "Every one ever tested has slowed down and stopped. Some of the energy always spreads out as heat through rubbing, so a machine needs new energy to keep going.",
+   "status": "rejected",
+   "context": "This card is about machines that people hoped would run for ever."
+  },
+  {
+   "claim": "The total energy of the whole universe may be exactly zero.",
+   "who": "Edward Tryon, an American physicist, in 1973, and others since",
+   "for": "The energy of all the stuff in the universe might be exactly balanced by the negative energy of gravity pulling it together.",
+   "against": "Energy in a whole, expanding universe is hard to define, and some physicists say the question has no clear meaning.",
+   "status": "debated",
+   "context": "This card is about a big open idea from physics: whether everything adds up to zero."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "When a marble stops in atta, its energy spreads out as a tiny bit of warmth. Is it lost, or is it just hard to find?",
+   "kind": "deep",
+   "hint": "Think about a spoon of sugar stirred into a big pot of water. Is the sugar gone?"
+  },
+  {
+   "q": "Energy can't be seen, only what it does. How do we know it is there at all?",
+   "kind": "deep",
+   "hint": "Think of the wind. You never see the wind itself, only leaves moving and clothes flapping."
+  },
+  {
+   "q": "If almost all your energy came from the Sun, is part of the Sun in you?",
+   "kind": "big",
+   "hint": "Your breakfast grew in sunlight. Then it became you."
+  },
+  {
+   "q": "The Sun will shine for about 5 billion more years. What would happen on Earth if it stopped tomorrow?",
+   "kind": "big",
+   "hint": "Follow the trail: plants, food, wind, rain."
+  },
+  {
+   "q": "A plant in shade spends energy growing tall, and a plant in the open spends their energy on leaves. How does a plant decide?",
+   "kind": "deep",
+   "hint": "Plants sense light and its colour all the time, and change how they grow."
+  }
+ ],
+ "story": {
+  "title": "Where the Pongal Came From",
+  "mins": 10,
+  "read_aloud": true,
+  "note": "Thai Pongal is a real harvest festival of Tamil Nadu, held in mid-January, and it thanks the Sun for the harvest. The milk and rice are boiled until they overflow, and people call out 'Pongalo Pongal!'. Tamil Nadu really gets electricity from wind farms such as Muppandal and from the Kudankulam nuclear power station. Kavya, Arjun, Paati and their flat are made up.",
+  "text": [
+   "It was the morning of Thai Pongal, and the flat on the fourth floor in Chennai smelled of jaggery and cardamom. Paati had drawn a kolam at the door before sunrise. Now a new clay pot sat on the gas stove, full of milk, with a turmeric plant tied around the pot's neck.",
+   "Kavya was ten. Her brother Arjun was six, and he was standing on a stool, too close to the stove. 'Back a step,' said Kavya, and she pulled the stool back. 'The pot gets very hot.'",
+   "'When will it boil over?' asked Arjun. 'Soon,' said Paati. 'The flame is giving its heat to the pot, and the pot is giving it to the milk. When the milk has taken enough, it will rise up.'",
+   "They waited. Tiny bubbles came, then bigger ones. Then the milk climbed up the sides of the pot and spilled over in a white wave. 'Pongalo Pongal!' they all shouted, and Arjun banged a steel plate with a spoon until Paati covered her ears.",
+   "Paati added the rice and the jaggery, and stirred. Arjun watched the flame. 'Akka,' he said, 'where does the fire come from?'",
+   "'From the gas,' said Kavya. 'The red cylinder under the counter is full of it. When it burns, it gives out heat and light.'",
+   "'And where does the gas come from?' Kavya thought. She had read about this in her science book. 'It comes from deep under the ground and the sea. It formed there over millions of years, from tiny living things in old seas. They grew using sunlight. So the gas is sunlight from long, long ago, stored up.'",
+   "Arjun looked at the blue flame as if it might wink at him. 'So the Pongal is cooked by old sunshine?' 'Yes,' said Kavya. 'And the rice in it grew in a field, in this year's sunshine. The plants caught the sunlight in their leaves and stored it in the grains.'",
+   "Arjun jumped off the stool and ran to the window, where the ceiling fan was turning. 'What about the fan? There's no sun in the fan.'",
+   "'The fan runs on electricity,' said Kavya. 'Electricity is like a road. It carries energy from a power station to our flat. Some of Chennai's electricity comes from the giant windmills near Kanyakumari. We saw them from the bus last year, remember?' Arjun nodded. He remembered their slow white arms.",
+   "'And the wind?' 'The Sun warms the land and the sea by different amounts,' said Kavya. 'Warm air rises, and cooler air rushes in to take its place. That rushing air is the wind. So the fan is pushed round by sunshine too, in a roundabout way.'",
+   "Arjun frowned. He liked catching his sister out. 'What about my plate banging? That was me. That wasn't the Sun.'",
+   "Kavya laughed. 'Where did you get the energy to bang it?' Arjun thought. 'From my idli,' he said slowly. 'And the idli came from rice and urad dal. And they grew in...' He stopped. 'In the sunshine,' he said, and he looked almost cross about it.",
+   "Paati turned off the stove and laughed too. 'That is why we say thank you to the Sun today,' she said. 'Pongal is the day we thank the Sun for the harvest. Our grandmothers knew the food came from the Sun. Now your sister tells you the fan does too.'",
+   "Arjun was quiet for a while, watching the sweet pongal steam. 'Is there anything that isn't the Sun?' he asked at last.",
+   "Kavya had to think hard. 'Some of our electricity comes from Kudankulam,' she said. 'That's a nuclear power station. It uses a metal called uranium, which has energy locked inside it. The uranium was made long before the Sun was born, in stars that exploded. So that energy is even older than the Sun.'",
+   "'Then what does the Sun run on?' asked Arjun. 'Hydrogen,' said Kavya. 'In the middle of the Sun, tiny particles of hydrogen are squeezed so hard that they join together. Joining gives out huge amounts of energy. That energy comes out as the light that grew our rice.'",
+   "Arjun took his steel plate and spoon to the window, where the morning sun lay in a bright square on the floor. He held the plate in the sunshine for a moment. Then he banged it once, very hard. 'Thank you, Sun,' he said. 'For the noise.'"
+  ],
+  "epiphany": "Almost everything that happened on Pongal morning, the boiling milk, the turning fan and Arjun's banging, ran on energy that came from the Sun and was passed on, step by step.",
+  "ask": [
+   "Kavya said the gas is 'sunlight from long ago, stored up'. What did she mean?",
+   "Arjun thought the banging was only his own energy. Where did it really come from?",
+   "Which energy in the story did not come from the Sun?",
+   "Pick one thing that happened in your home this morning. Can you follow its energy back to the Sun?"
+  ],
+  "art": [
+   "A clay Pongal pot overflowing with white milk on a gas stove, a turmeric plant tied round the pot's neck, a girl, a small boy and their grandmother cheering.",
+   "A boy at a window of a flat looking at a ceiling fan, with tall white windmills far away on hills in a thought bubble.",
+   "A small boy holding a steel plate in a square of morning sunlight on the floor, about to bang it with a spoon."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "Where Did It Come From? An energy chain card game",
+   "mins": 15,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a card game about energy chains. You link cards from the Sun, through each step, to something that happens at home.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "24 chain cards (print on card and cut out)",
+     "items": [
+      "SUN",
+      "SUN",
+      "SUN",
+      "SUN",
+      "rice plant",
+      "urad dal plant",
+      "sesame plant",
+      "wind blowing",
+      "rain filling a dam",
+      "tiny sea creatures long ago",
+      "idli",
+      "sesame oil",
+      "wind turbine",
+      "water power station",
+      "cooking gas",
+      "electricity in the wires",
+      "electricity in the wires",
+      "you running",
+      "diya flame",
+      "ceiling fan turning",
+      "mixie grinding",
+      "pressure cooker whistling",
+      "URANIUM (a chain without the Sun)",
+      "nuclear power station"
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "Chain score sheet",
+     "items": [
+      "Player",
+      "Chains made",
+      "Cards in chains",
+      "Total"
+     ]
+    }
+   ],
+   "rules": [
+    "Shuffle the cards. Deal 5 to each player. Put the rest face down in a pile. Put one SUN card face up in the middle.",
+    "On your turn, take a card from the pile. If you can, lay down a chain of 3 or more cards that link from a source to something that happens, in order. For example: SUN, rice plant, idli, you running.",
+    "Say each link out loud: 'The rice plant got energy from the Sun. The idli got it from the rice.' If you can't say it, you can't lay it.",
+    "Each card in a laid chain scores 1 point. A chain that ends with something happening (moving, lighting, heating or a sound) scores 2 extra.",
+    "The uranium chain is the only one that does not start with the Sun. It scores 3 extra.",
+    "When the pile runs out, the player with the most points wins.",
+    "Playing alone: lay out all the cards face up. Build as many chains as you can in 10 minutes. Try to use every card."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Cut out the cards. 2. Shuffle and deal 5 to each player. 3. Read the rules out loud.",
+     "say": "Each card is one step in a chain of energy. You build chains from a source to something that happens.",
+     "kid": "Each card is a step. Link the steps from the Sun to something that happens. Say each link out loud.",
+     "context": "This is the first step of the Where Did It Come From card game."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Play until the pile runs out. Check each chain as it is laid: does each step really give energy to the next?",
+     "say": "Read me your chain. Does each card really get its energy from the card before it?",
+     "kid": "Lay a chain when you can. Read it out loud. Does each step get energy from the one before?",
+     "parent": "Good chains: SUN, wind blowing, wind turbine, electricity in the wires, ceiling fan turning. SUN, tiny sea creatures long ago, cooking gas, pressure cooker whistling. SUN, sesame plant, sesame oil, diya flame. URANIUM, nuclear power station, electricity in the wires, mixie grinding."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Add up the scores. Ask which chain was the longest.",
+     "say": "Which was the longest chain in the game? Could we make it even longer?",
+     "kid": "Add up your points. Which chain was the longest?",
+     "check": {
+      "t": "mcq",
+      "q": "Which chain is in the right order?",
+      "options": [
+       "Idli, rice plant, SUN, you running",
+       "SUN, rice plant, idli, you running",
+       "You running, SUN, idli, rice plant"
+      ],
+      "a": 1,
+      "why": "The Sun's light reaches the rice plant, who stores the Sun's energy in their grains. The grain is made into idli. You eat the idli and use its energy to run. Each step gets its energy from the one before."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "Cards laid on a table in a row: SUN, rice plant, idli, a child running, with arrows between them.",
+     "caption": "1. Lay chains of cards from a source to something that happens."
+    },
+    {
+     "art": "Two children and a mother playing cards on a mat, one reading a chain out loud.",
+     "caption": "2. Say each link out loud to score."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Pass the Sunshine",
+   "mins": 15,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a passing game. A ball of yellow paper is the Sun's energy. Each player passes it on, but at every step a little bit spreads out as heat, so the ball gets smaller.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "6 role cards to wear or hold",
+     "items": [
+      "SUN",
+      "RICE PLANT",
+      "IDLI",
+      "CHILD",
+      "MARBLE LIFTED UP",
+      "CRATER IN THE ATTA"
+     ]
+    },
+    {
+     "kind": "board",
+     "title": "For one child alone: a paper board with 6 circles in a row, labelled with the roles, and a bowl at the side marked HEAT",
+     "items": [
+      "6 circles",
+      "1 bowl marked HEAT"
+     ]
+    }
+   ],
+   "rules": [
+    "Make a big ball from 6 sheets of yellow paper crumpled together. This is the Sun's energy.",
+    "Six players stand in a line, each holding a role card, in order from SUN to CRATER IN THE ATTA.",
+    "The SUN passes the ball to the RICE PLANT and says, 'I give you my light.' Each player passes it on and says what they do with the energy.",
+    "At each pass, the receiver tears off one sheet and drops it in the HEAT bowl. This is energy that spreads out as warmth.",
+    "At the end, count: the sheets left in the ball, and the sheets in the HEAT bowl. Add them up.",
+    "Playing alone: move the ball along the circles on the board, tearing off one sheet into the bowl at each step."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Crumple 6 sheets of yellow paper together into one ball. 2. Hand out the role cards and stand in a line.",
+     "say": "This ball is energy from the Sun. We'll pass it along the chain. Watch what happens to it.",
+     "kid": "This yellow ball is the Sun's energy. Stand in your place in the line. Get ready to pass it.",
+     "context": "This is the first step of Pass the Sunshine, a game about how energy passes on and spreads out."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "Pass the ball along. Each receiver says what they do with the energy, tears off one sheet and drops it into the HEAT bowl.",
+     "say": "The rice plant says, 'I store the light in my grains.' Tear off one sheet. That bit spreads out as heat.",
+     "kid": "When you get the ball, say what you do with the energy. Tear off one sheet. Drop it in the HEAT bowl. Pass it on.",
+     "parent": "Lines to suggest: Rice plant: 'I store the light in my grains.' Idli: 'I hold the rice's energy.' Child: 'I eat the idli and lift the marble.' Marble: 'I fall and speed up.' Crater: 'I am atta pushed aside, with a thud.'"
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Count the sheets left in the ball. 2. Count the sheets in the HEAT bowl. 3. Add them.",
+     "say": "The ball got smaller and smaller. But count everything. Is any paper missing?",
+     "kid": "Count the sheets in the ball. Count the sheets in the bowl. Add them. Is any missing?",
+     "check": {
+      "t": "mcq",
+      "q": "The yellow ball got smaller at every step, but no paper was missing at the end. What does this show about energy?",
+      "options": [
+       "Energy gets used up at every step",
+       "Energy is never lost: some of it spreads out as heat at every step",
+       "The Sun makes more energy at every step"
+      ],
+      "a": 1,
+      "why": "At every step, some energy spreads out as heat, so less is left to pass on. But add the heat to what is left, and the total is the same as at the start. This is the conservation of energy. Picking 'used up' is the everyday way of talking. The game shows the energy has only gone somewhere harder to use."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "Six children in a line holding role cards from SUN to CRATER, passing a yellow paper ball.",
+     "caption": "1. Pass the ball of 'sunshine' down the line."
+    },
+    {
+     "art": "A bowl marked HEAT with torn yellow sheets inside, next to a much smaller yellow ball.",
+     "caption": "2. Tear off a sheet at each step. Count everything at the end."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Atta Crater Test: does a higher drop do more?",
+   "mins": 35,
+   "days": 1,
+   "question": "Does a marble dropped from higher up make a wider crater in atta, and a louder thud?",
+   "predict": "Guess first. Will a marble dropped from 80 cm make a wider crater than one dropped from 20 cm? How much wider: a little, twice as wide, or four times as wide? Why do you think so?",
+   "fair_test": "Use the same marble, the same tray of atta and the same way of letting go. Only the height changes. Smooth the atta flat before every drop. Drop 3 times from each height, because one try can be a fluke.",
+   "results_table": [
+    "Height of the drop",
+    "Crater width, try 1 (cm)",
+    "Try 2 (cm)",
+    "Try 3 (cm)",
+    "The thud: soft, medium or loud?"
+   ],
+   "materials": [
+    {
+     "item": "a wide container at least 4 cm deep and about 25 cm across: a big plastic tub, a cake tin, or a deep steel tray",
+     "qty": 1
+    },
+    {
+     "item": "atta, rava or maida, enough to fill the container 3 to 4 cm deep (about half a kilo)",
+     "qty": 1
+    },
+    {
+     "item": "a dark powder to dust on top: a spoon of ragi flour, cocoa, or a pinch of haldi",
+     "qty": 1
+    },
+    {
+     "item": "a glass marble (goli). A small round lime works too.",
+     "qty": 1,
+     "buy": "b-marbles"
+    },
+    {
+     "item": "a ruler, 30 cm long, and a measuring tape or a second ruler",
+     "qty": 1
+    },
+    {
+     "item": "a tea strainer, a spoon and old newspaper",
+     "qty": 1
+    }
+   ],
+   "safety": "Do it on the floor, on newspaper. Drop the marble, never throw it. Haldi stains clothes. Keep marbles away from children under 3, who may swallow them.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 35,
+     "what": "Drop a marble into atta 3 times each from 20, 40 and 80 cm. Measure each crater. Lift a water bottle low and high and feel the difference."
+    }
+   ],
+   "record": "Fill in the table. Draw one crater from each height, from above, at its real size.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Spread newspaper on the floor and put the container on it. 2. Pour in atta about 3 cm deep. 3. Shake it gently from side to side, then smooth the top with the ruler. 4. Sprinkle a thin dusting of ragi flour over the top through the tea strainer.",
+     "say": "We are going to drop a marble into this atta from different heights. The dark dusting on top will show us where the atta is thrown.",
+     "kid": "Pour the atta into the tub. Make the top flat with a ruler. Shake a thin dark dusting on top. Now it is ready.",
+     "parent": "Use old atta, or atta you will later use for play dough, because the marble and the dark powder go into it. A layer of 3 cm or more matters: if it is too thin, the marble hits the bottom and the craters stop growing. Ragi flour on white atta shows the thrown atta best.",
+     "context": "This is the first step of the Atta Crater Test. Here you get a tray of atta ready for dropping a marble into it."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Show your child the marble and the three heights on the ruler: 20 cm, 40 cm and 80 cm. Ask for a guess and a reason, and write both down.",
+     "say": "We will drop the marble from 20, 40 and 80 centimetres. Which crater will be widest? Will it be a little wider, or much wider? Why do you think so?",
+     "kid": "You will drop the marble from three heights. Which crater will be widest? How much wider? Say why you think so.",
+     "ask": [
+      {
+       "q": "What do you think will happen, and why?",
+       "good": [
+        "The highest drop will make the biggest crater, because it falls faster.",
+        "Four times the height might make it four times as wide.",
+        "It will be louder from higher up."
+       ]
+      }
+     ],
+     "parent": "Accept any guess with a reason. Many children guess that four times the height will make a crater four times as wide. Don't correct it now: the atta will answer it."
+    },
+    {
+     "id": "s3",
+     "mins": 7,
+     "do": "1. Stand the ruler upright on the atta. 2. Hold the marble with its bottom at the 20 cm mark. 3. Open your fingers and let it fall. Do not throw it. 4. Listen to the thud. 5. Lift the marble out with a spoon. 6. Measure the hole from edge to edge, not the dark splash lines. 7. Smooth and dust again. Do 3 drops.",
+     "say": "Let it drop, don't push it. Then measure across the hole, from one edge to the other. We smooth the atta every time, so each drop starts the same.",
+     "kid": "Hold the marble at 20 cm. Let go. Don't throw! Listen to the thud. Take the marble out with a spoon. Measure across the hole. Smooth it and do it again. Three drops.",
+     "parent": "Hold a ruler just above the crater, not pressing into it, to measure. Read to the nearest half centimetre. The three widths may differ by half a centimetre or so. That's normal, and is why we drop three times."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Do 3 more drops from 40 cm, measuring and smoothing each time, in the same way.",
+     "say": "Now from twice as high. Watch the dark dusting. Does more atta get thrown?",
+     "kid": "Now drop from 40 cm, three times. Measure each hole. Is it wider? Is the thud louder?"
+    },
+    {
+     "id": "s5",
+     "mins": 6,
+     "do": "1. Do 3 more drops from 80 cm. 2. The child may need to stand while a grown-up holds the tape. 3. Measure and smooth each time.",
+     "say": "Now from 80 centimetres. That is four times as high as the first drop. Look at the crater, and at the white streaks of atta thrown out.",
+     "kid": "Now drop from 80 cm, three times. Stand up if you need to. Measure each hole. Look at the white streaks too.",
+     "check": {
+      "t": "mcq",
+      "q": "The marble from 80 cm made a wider crater and a louder thud than from 20 cm. Why?",
+      "options": [
+       "It was a heavier marble",
+       "It landed faster, so it carried more energy",
+       "The atta was softer the second time"
+      ],
+      "a": 1,
+      "why": "It was the same marble in the same atta. The only change was the height. Dropped from higher, it sped up for longer and landed faster, so it had more movement energy to push the atta aside and make a sound. Picking 'softer atta' is a good thought about a fair test. That is why we smoothed the atta the same way every time."
+     },
+     "parent": "From 80 cm the crater is wider and the dark dust is thrown further. But it is usually far less than four times as wide as the 20 cm crater. In our tries it was less than twice as wide. Talk about this in the next steps."
+    },
+    {
+     "id": "s6",
+     "mins": 4,
+     "do": "1. Give your child a full 1 litre water bottle. 2. Ask them to lift it from the floor to their knee 10 times. 3. Rest. 4. Then from the floor to above their head 10 times. 5. Ask which tired their arm more.",
+     "say": "Where did the marble's extra energy come from? Let's find out with this bottle. Lift it low ten times, then high ten times.",
+     "kid": "Lift the bottle from the floor to your knee, ten times. Rest. Now lift it from the floor to above your head, ten times. Which was harder work?",
+     "ask": [
+      {
+       "q": "Which lifting was harder? What does that tell you about the marble?",
+       "good": [
+        "Lifting high was harder, so it took more energy.",
+        "When I lifted the marble higher, I gave it more energy, and that energy made the bigger crater."
+       ]
+      }
+     ],
+     "parent": "The marble is too light to feel the difference, so the bottle stands in for it. Lifting higher takes more energy from your muscles. That energy is stored in the lifted thing, and comes out when it falls."
+    },
+    {
+     "id": "s7",
+     "mins": 5,
+     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a marble dropped from higher has more energy when it lands. What I saw: from 20 cm the crater was about 4 and a half cm wide, and from 80 cm about 6 and a half cm, with a louder thud. Why: lifting it higher took more energy from my arm. The marble stored that energy and it became movement as it fell. When it landed, the energy pushed atta aside and made the sound. Ask: why was the crater not four times as wide? A good guess is that a wider crater has to move much more atta."
+    }
+   ],
+   "context": "In this experiment you drop a marble into atta from three heights and measure the craters. You find out what extra energy does, and where it came from.",
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example results",
+    "cols": [
+     "Height",
+     "Try 1",
+     "Try 2",
+     "Try 3",
+     "Thud"
+    ],
+    "rows": [
+     [
+      "20 cm",
+      "4.5 cm",
+      "4.5 cm",
+      "5 cm",
+      "soft"
+     ],
+     [
+      "40 cm",
+      "5.5 cm",
+      "5 cm",
+      "5.5 cm",
+      "medium"
+     ],
+     [
+      "80 cm",
+      "6.5 cm",
+      "6.5 cm",
+      "7 cm",
+      "loud"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "A wide plastic tub on newspaper on the floor, filled with flat white atta dusted with dark ragi flour.",
+     "caption": "1. Fill a tub with atta and dust the top."
+    },
+    {
+     "art": "A child holding a marble beside an upright ruler at the 20 cm mark, above the tub.",
+     "caption": "2. Hold the marble at the height on the ruler. Let it drop."
+    },
+    {
+     "art": "A ruler held just above a round crater in the atta, with dark-dusted atta and white streaks around it.",
+     "caption": "3. Measure across the hole, edge to edge."
+    },
+    {
+     "art": "Three craters side by side in atta, labelled 20 cm, 40 cm and 80 cm, getting wider from left to right.",
+     "caption": "4. Compare the craters from the three heights."
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "Sunshine in a Tumbler",
+   "mins": 25,
+   "days": 1,
+   "question": "Does water in sunshine get warmer than the same water in the shade?",
+   "predict": "Guess first. After one hour, which tumbler of water will feel warmer: the one in the sun or the one in the shade? Will you be able to feel the difference with your finger? Why do you think so?",
+   "fair_test": "Use two tumblers that are the same, with the same amount of water from the same tap, poured at the same time. Put both in the same room or balcony, one in direct sunshine and one in the shade. Only the sunshine changes.",
+   "results_table": [
+    "Tumbler",
+    "Feel at the start (cool, same, warm)",
+    "Feel after 1 hour",
+    "Thermometer reading, if you have one"
+   ],
+   "materials": [
+    {
+     "item": "two steel tumblers that are the same",
+     "qty": 2
+    },
+    {
+     "item": "tap water, one cup in each tumbler",
+     "qty": 1
+    },
+    {
+     "item": "a sunny windowsill or balcony, and a shady spot nearby",
+     "qty": 1
+    },
+    {
+     "item": "a kitchen or aquarium thermometer, if you have one (a fever thermometer will not work)",
+     "qty": 1,
+     "buy": "b-thermometer"
+    },
+    {
+     "item": "a clock or phone timer",
+     "qty": 1
+    }
+   ],
+   "safety": "Never look straight at the Sun. Keep the tumblers where they won't fall off the windowsill.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Set up two tumblers of water, one in sunshine and one in shade. After 1 hour, feel and compare them."
+    }
+   ],
+   "record": "Fill in the table. Draw the two tumblers, with the Sun's rays reaching one of them.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Fill both tumblers with one cup of tap water each. 2. Ask your child to dip a finger in each. They should feel the same. 3. Ask for a guess and a reason.",
+     "say": "These two tumblers are the same, with the same water. We'll put one in the sun and one in the shade. What will happen after an hour, and why?",
+     "kid": "Dip a finger in each tumbler. Do they feel the same? Now guess. Which one will be warmer after an hour? Why?",
+     "ask": [
+      {
+       "q": "What do you think will happen, and why?",
+       "good": [
+        "The sunny one will be warmer, because the Sun gives heat.",
+        "Both will warm up a little, but the sunny one more."
+       ]
+      }
+     ],
+     "context": "This is the first step of Sunshine in a Tumbler. You set up two tumblers of the same water to see what sunshine does."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Put one tumbler where direct sunshine falls on it. 2. Put the other in the shade, in the same room or balcony. 3. Set a timer for 1 hour.",
+     "say": "One in the sun, one in the shade. Now we wait an hour.",
+     "kid": "Put one tumbler in the sunshine. Put the other in the shade. Set a timer for one hour.",
+     "parent": "Choose a time when sunshine falls on the spot for the whole hour: check where the Sun's patch moves. If the day is cloudy, try another day. The difference is easy to feel on a sunny day.",
+     "wait": "Leave both tumblers for 1 hour."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "1. After an hour, bring the two tumblers side by side. 2. Your child dips one finger in each at the same time. 3. If you have a thermometer, put it in each for one minute and read it.",
+     "say": "Now feel them both at once, one finger in each. Which is warmer?",
+     "kid": "Put one finger in each tumbler at the same time. Which one is warmer? Write it down.",
+     "check": {
+      "t": "mcq",
+      "q": "The tumbler in the sunshine got warmer. Where did that energy come from?",
+      "options": [
+       "From the steel tumbler itself",
+       "From sunlight, which carries energy from the Sun",
+       "From the cold water"
+      ],
+      "a": 1,
+      "why": "Sunlight carries energy all the way from the Sun, in about eight minutes. When the light lands on the tumbler and the water, its energy becomes heat. Picking 'the steel tumbler' is a natural guess, because the tumbler feels warm. But the tumbler in the shade did not warm up the same way, so the energy came with the sunshine."
+     },
+     "parent": "On a sunny day, the water in the sun is usually several degrees warmer after an hour. You can feel it clearly with both fingers in at once."
+    },
+    {
+     "id": "s4",
+     "mins": 6,
+     "do": "Ask your child to say or write three short sentences: what I think, what I saw, and why.",
+     "say": "Tell me three things. What do you think now? What did you feel that shows it? Why did it happen?",
+     "kid": "Say or write three things. What I think. What I felt. Why.",
+     "parent": "A good answer: What I think: sunlight carries energy. What I saw: after an hour, the water in the sun felt warmer than the water in the shade. Why: the Sun's light landed on the tumbler and the water, and its energy turned into heat."
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "Talk about one more thing. Ask: on a hot afternoon, why does the balcony floor in the sun burn your feet, while the shady part does not?",
+     "say": "The same thing happens to the balcony floor. Why is the sunny part so hot under your feet?",
+     "kid": "Think of the balcony floor in the afternoon. Why is the sunny part hot under your feet?",
+     "ask": [
+      {
+       "q": "Why is the sunny floor hot?",
+       "good": [
+        "Sunlight lands on it and its energy turns into heat.",
+        "The shady part gets less sunlight, so less energy."
+       ]
+      }
+     ]
+    }
+   ],
+   "context": "In this experiment you put one tumbler of water in sunshine and another in the shade. After an hour you feel which is warmer, to see that sunlight carries energy.",
+   "setup": [
+    {
+     "art": "Two identical steel tumblers of water, one on a sunny windowsill with sun rays, one on a shady shelf nearby.",
+     "caption": "1. One tumbler in the sun, one in the shade."
+    },
+    {
+     "art": "A clock showing one hour passing between two tumblers.",
+     "caption": "2. Wait one hour."
+    },
+    {
+     "art": "A child with one finger dipped in each tumbler at the same time.",
+     "caption": "3. Feel both at once. Which is warmer?"
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "What Made It Happen? A home hunt",
+   "mins": 10,
+   "days": 1,
+   "materials": [
+    {
+     "item": "paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Look, don't touch: never touch the stove, the iron, plugs or switches with wet hands.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Find 8 things in the flat that are moving, lighting up, heating up or making a sound, and say where each one's energy comes from."
+    }
+   ],
+   "record": "A table with three columns: the thing, what it does (moves, lights up, heats up or makes a sound), and where its energy comes from.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Ask your child what a fan, a torch and a running child have in common. Wait for their ideas before saying anything.",
+     "say": "A fan, a torch and you, running. What do the three have in common? Have a think.",
+     "kid": "Think of a fan, a torch and you, running. What is the same about all three?",
+     "ask": [
+      {
+       "q": "What is the same about them?",
+       "good": [
+        "They all do something.",
+        "They all need power, or electricity, or food.",
+        "They all use energy."
+       ]
+      }
+     ],
+     "parent": "If your child says 'energy', ask what they mean. If not, say: 'Each one makes something happen. Whatever makes something happen needs energy.'",
+     "context": "This is the first step of a home hunt. You find things that move, light up, heat up or make a sound, and ask where their energy comes from."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Walk round the flat together for five minutes. Find 8 things that are moving, lighting up, heating up or making a sound. Write each one in the table.",
+     "say": "Let's find eight things that are moving, lighting up, heating up or making a sound. For each one, ask: where does its energy come from?",
+     "kid": "Walk round your home. Find 8 things that move, light up, heat up or make a sound. Write them down. Where does each one get its energy?",
+     "parent": "Good finds: the fan (electricity), the fridge humming (electricity), a clock ticking (a cell), the stove flame (gas), a phone screen (battery), sunlight on the floor (the Sun), a crow calling (food), a sibling running (food)."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Look at the table together. Sort the energy sources: wall socket, cells or battery, gas, food, sunlight.",
+     "say": "Look at our sources. How many came from the wall socket? How many from food? Which source came up most?",
+     "kid": "Look at where the energy came from. Wall socket, cell, gas, food or sunlight? Which came up most?",
+     "check": {
+      "t": "mcq",
+      "q": "A clock on the wall ticks all day, with no wire to a socket. Where does its energy come from?",
+      "options": [
+       "From the wall it hangs on",
+       "From a cell inside it",
+       "From the ticking"
+      ],
+      "a": 1,
+      "why": "A wall clock has a cell, a small battery, inside it. The cell has stored energy, which keeps the hands moving and makes the tick. Picking 'the wall' comes from seeing the clock hang there. But the wall only holds it up."
+     }
+    }
+   ],
+   "context": "This is a quick hunt to start the unit. You find things at home that are using energy, and ask where their energy comes from.",
+   "setup": [
+    {
+     "art": "A child with a clipboard looking up at a turning ceiling fan in a flat.",
+     "caption": "1. Walk round your home and look for energy at work."
+    },
+    {
+     "art": "A child's table drawn on paper: fan, electricity; clock, cell; stove flame, gas; crow, food.",
+     "caption": "2. Write each thing and where its energy comes from."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Follow It Back to the Sun",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a large sheet of paper, or the back of an old calendar",
+     "qty": 1
+    },
+    {
+     "item": "coloured pencils or crayons",
+     "qty": 1
+    }
+   ],
+   "safety": "None.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Pick three things from breakfast or the home hunt. Draw the chain of where each one's energy came from, back to the Sun."
+    }
+   ],
+   "record": "A poster with three energy chains, each ending at the Sun, or at something else if it really does.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Draw a big yellow Sun at the top of the paper. 2. At the bottom, draw your child eating breakfast. 3. Ask: where did the energy in your breakfast come from? Draw each step upwards, with arrows.",
+     "say": "You ran around this morning on energy from breakfast. Where did the breakfast get it? And before that?",
+     "kid": "Draw the Sun at the top. Draw yourself eating breakfast at the bottom. Where did your breakfast get its energy? Draw each step with an arrow.",
+     "ask": [
+      {
+       "q": "Where did the idli's energy come from?",
+       "good": [
+        "From rice and urad dal.",
+        "From the plants, which grew in sunlight."
+       ]
+      }
+     ],
+     "context": "This is the first step of Follow It Back to the Sun. You draw a chain of arrows from something you used today back to where its energy began."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "Draw two more chains: one for the ceiling fan, and one for the gas flame. Help with the steps your child doesn't know.",
+     "say": "Now the fan. It runs on electricity. Where does a power station get its energy? Wind? Coal? Falling water? And where did those get it?",
+     "kid": "Now draw a chain for the fan. Then one for the gas flame. Ask a grown-up when you get stuck.",
+     "parent": "Fan: fan, electricity, power station, wind (moved by the Sun warming the land and sea) or coal (ancient plants that grew in sunlight) or falling water (lifted into clouds by the Sun's heat). Gas flame: flame, cooking gas, oil and gas underground, tiny sea creatures from millions of years ago, sunlight. If your electricity company uses nuclear power, that chain ends at uranium, not the Sun."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "Look at the whole poster. Ask: which chain was longest? Did any chain not end at the Sun?",
+     "say": "Look at all three chains. Do they all end at the Sun? Which one was the longest?",
+     "kid": "Look at all your chains. Do they all end at the Sun? Which is the longest?",
+     "check": {
+      "t": "mcq",
+      "q": "Which of these does NOT get its energy from the Sun?",
+      "options": [
+       "A dosa",
+       "A wind turbine",
+       "A nuclear power station"
+      ],
+      "a": 2,
+      "why": "A nuclear power station, like Kudankulam in Tamil Nadu, uses energy stored in uranium. That uranium was made in stars that exploded before the Sun was born. A dosa's energy came from rice and urad dal plants that grew in sunlight. Wind blows because the Sun warms some places more than others."
+     }
+    }
+   ],
+   "context": "In this activity you draw energy chains that follow where things got their energy, step by step, usually back to the Sun.",
+   "setup": [
+    {
+     "art": "A big sheet of paper with a yellow Sun at the top and a child eating idli at the bottom, with arrows through a rice plant between them.",
+     "caption": "1. Draw the Sun at the top and yourself at the bottom. Link them with arrows."
+    },
+    {
+     "art": "A poster with three chains of arrows from the Sun: one to idli, one through a wind turbine to a fan, one through ancient sea creatures to a gas flame.",
+     "caption": "2. Draw chains for the fan and the gas flame too."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "The Spinning Paper Snake",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a sheet of thin paper, about the size of a page in a notebook",
+     "qty": 1
+    },
+    {
+     "item": "scissors, a pencil and a steel lid or bowl to draw a circle",
+     "qty": 1
+    },
+    {
+     "item": "thread, about 30 cm long, and a needle or a pin",
+     "qty": 1
+    },
+    {
+     "item": "a lit diya or a tea-light candle, on a steel plate",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up lights the diya and holds the snake. Keep the paper at least 20 cm above the flame, never lower. Tie back long hair and keep dupattas away. Put the diya on a steel plate, away from curtains.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Cut a paper spiral, hang it on a thread, and hold it high above a diya flame. Watch it spin."
+    }
+   ],
+   "record": "Draw the snake above the diya. Add arrows showing which way the warm air went.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "1. Draw round a lid to make a circle about 12 cm across. 2. Draw a spiral inside it, from the edge to the middle, with lines about 1 cm apart. 3. Cut the circle out, then cut along the spiral line. 4. Push the thread through the middle with a needle, and knot it underneath.",
+     "say": "Let's make a paper snake. Cut carefully along the spiral line, round and round, to the middle.",
+     "kid": "Draw a circle. Draw a spiral inside it, round and round to the middle. Cut it out along the spiral. Now it hangs like a snake.",
+     "adult": true,
+     "parent": "A grown-up pushes the needle through. Thin paper turns more easily than thick card.",
+     "context": "This is the first step of the Spinning Paper Snake. You make a paper spiral that will spin above a flame without anyone touching it."
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "Hold the snake by its thread, away from the flame. Ask your child to guess what will happen when you hold it high above the diya, and why.",
+     "say": "Nobody will touch the snake. What do you think will happen when I hold it high above the diya? Why?",
+     "kid": "Nobody will touch the snake. What will it do above the diya? Why do you think so?",
+     "ask": [
+      {
+       "q": "What will the snake do?",
+       "good": [
+        "It will spin.",
+        "It will move, because hot air goes up.",
+        "Nothing, because nothing is touching it."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. A grown-up lights the diya. 2. The grown-up holds the snake by its thread, at least 20 cm above the flame. 3. Wait 10 seconds and watch.",
+     "say": "Watch the snake. Nobody is touching it. What is making it turn?",
+     "kid": "Watch the snake. Keep your hands back. Is it turning? What is pushing it?",
+     "adult": true,
+     "check": {
+      "t": "mcq",
+      "q": "Nobody touched the paper snake, but it spun above the diya. What made it spin?",
+      "options": [
+       "The flame's light pushed it",
+       "Air warmed by the flame rose up and pushed on the spiral",
+       "The thread twisted by itself"
+      ],
+      "a": 1,
+      "why": "The flame heats the air above it. Warm air rises, and as it rushes up past the slanted spiral, it pushes it round. So heat from the flame became movement. Picking 'the thread twisted' is a careful thought. Test it: hold the snake away from the flame, and it soon stops."
+     },
+     "parent": "If it doesn't turn, check that the spiral hangs open and is not stuck together, and hold it a little nearer the middle of the warm air, but never closer than 20 cm."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "Blow out the diya. Talk about where the energy came from and went.",
+     "say": "The diya's oil had stored energy. The flame turned it into heat and light. The heat moved the air, and the air moved the snake. Where did the oil get its energy?",
+     "kid": "The oil had stored energy. The flame made heat and light. The hot air moved the snake. Where did the oil get its energy?",
+     "ask": [
+      {
+       "q": "Where did the oil's energy come from?",
+       "good": [
+        "From sesame or groundnut seeds, which were pressed to make the oil.",
+        "From the sunlight that the plant caught."
+       ]
+      }
+     ]
+    }
+   ],
+   "context": "In this activity you see heat turn into movement. A paper spiral spins above a diya, though nothing touches it.",
+   "setup": [
+    {
+     "art": "A paper circle with a spiral drawn on it and scissors cutting along the line.",
+     "caption": "1. Cut a paper circle into a spiral."
+    },
+    {
+     "art": "A grown-up holding a paper spiral by a thread high above a lit diya on a steel plate, with curved arrows of rising warm air.",
+     "caption": "2. A grown-up holds it high above a diya. Watch it spin."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Energy Charades",
+   "mins": 10,
+   "days": 1,
+   "materials": [
+    {
+     "item": "12 small slips of paper with things written on them (see the list)",
+     "qty": 12
+    },
+    {
+     "item": "a bowl to draw them from",
+     "qty": 1
+    }
+   ],
+   "safety": "Clear a space so nobody bumps into furniture.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Act out things that use energy. Others guess the thing, what it does, and where its energy comes from."
+    }
+   ],
+   "record": "Keep a tally of how many each player guessed right.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Write one thing on each of 12 slips. 2. Use these: ceiling fan, cooker whistle, torch, temple bell, mixie, firefly. 3. And these: solar panel, auto rickshaw, a crow flying, sparkler, windmill, sleeping cat. 4. Fold the slips.",
+     "say": "You'll act out a thing without speaking. We guess what it is, what it does, and where its energy comes from.",
+     "kid": "Pick a slip. Don't show anyone. Act it out with no words. Can they guess it?",
+     "context": "This is the first step of Energy Charades, an acting game about things that use energy."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "Take turns. To score, a guesser must say three things: what the thing is, what it does (moves, lights up, heats up or makes a sound), and where its energy comes from.",
+     "say": "To get the point, say what it is, what it does, and where its energy comes from.",
+     "kid": "Guess what it is. Say what it does. Say where its energy comes from. Three things for a point!",
+     "parent": "The sleeping cat is a good one to argue about. She is still using energy from her food, to breathe, keep her heart beating and stay warm. A firefly makes light from energy in their food. A sparkler turns stored energy into light, heat and sound."
+    }
+   ],
+   "context": "This is an acting game. One player acts out something that uses energy, and the others guess it and say where its energy comes from.",
+   "setup": [
+    {
+     "art": "A child standing with arms out, spinning slowly like a ceiling fan, while a parent and sibling guess.",
+     "caption": "1. Act out the thing on your slip, with no words."
+    },
+    {
+     "art": "A child calling out an answer with three fingers held up.",
+     "caption": "2. Guess the thing, what it does and where its energy comes from."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "Our Family's Energy Day",
+   "mins": 45,
+   "days": 2,
+   "materials": [
+    {
+     "item": "a notebook and pencil",
+     "qty": 1
+    },
+    {
+     "item": "a large sheet of paper and coloured pens",
+     "qty": 1
+    }
+   ],
+   "safety": "Look, don't touch: switches, plugs and the stove are for grown-ups.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "From morning to bedtime, write down each time energy made something happen at home, and where it came from."
+    },
+    {
+     "day": 2,
+     "mins": 25,
+     "what": "Make a poster of the day. Count the sources. Find one way your family could waste less energy."
+    }
+   ],
+   "record": "The energy diary for one day, and a poster with a tally of sources.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 20,
+     "do": "Through the day, whenever your child notices energy at work, they write the time, the thing, and its source. Aim for at least 15 entries by bedtime.",
+     "say": "Today you're our energy detective. Every time energy makes something happen, write down the time, the thing, and where the energy came from.",
+     "kid": "You are the energy detective today. When something moves, lights up, heats up or makes a sound, write it down. Write the time and where the energy came from.",
+     "parent": "Remind your child at meals and after school. Include living things: people walking, the crow at the window, the potted plant in the sun.",
+     "context": "This is the first day of Our Family's Energy Day, a 2-day project. You keep a diary of energy at work in your home."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "wait": "Do this the next day.",
+     "do": "1. Read the diary together. 2. Make a tally of the sources: wall socket, cells, gas, food, sunlight, other. 3. Draw a bar for each on the poster.",
+     "say": "Let's count. Which source did our family use most often yesterday?",
+     "kid": "Read your diary. Count each source with tally marks. Draw a bar for each one.",
+     "check": {
+      "t": "mcq",
+      "q": "Most entries in the diary came from the wall socket. What does the wall socket really give us?",
+      "options": [
+       "Energy made inside the wall",
+       "Electricity that carries energy from a power station",
+       "Energy from the wires themselves"
+      ],
+      "a": 1,
+      "why": "The socket is the end of a long road. Electricity carries energy from a power station, which got it from coal, gas, wind, sunlight, falling water or uranium. Picking 'made inside the wall' is natural, because that's where it seems to come from. But a wall stores no energy."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "Ask: which of these did we leave on when nobody needed it? Choose one change for the family to try for a week.",
+     "say": "Was any energy passed on for nothing? A fan in an empty room, a light in the day? Let's choose one change to try this week.",
+     "kid": "Did anything run when nobody needed it? Pick one change for your family to try this week."
+    }
+   ],
+   "context": "In this 2-day project you keep a diary of every time energy is at work in your home. Then you count the sources and make a poster.",
+   "setup": [
+    {
+     "art": "A child writing in a notebook beside a kitchen clock, with a pressure cooker whistling in the background.",
+     "caption": "1. Day 1: write down every time energy makes something happen."
+    },
+    {
+     "art": "A poster with a bar chart of energy sources: wall socket, cells, gas, food, sunlight.",
+     "caption": "2. Day 2: count the sources and draw a bar chart."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "The Chain Reaction Bell",
+   "mins": 30,
+   "problem": "Build a chain of things where one small push from your finger passes energy along, step by step, until a steel spoon rings a steel tumbler at the end.",
+   "constraints": [
+    "You may touch only the first thing in the chain.",
+    "The chain must have at least 4 steps.",
+    "Use only things from home."
+   ],
+   "materials": [
+    "books, dominoes or playing cards standing on their edges",
+    "a ruler or a strip of card to make a ramp",
+    "a marble or a toy car",
+    "a steel spoon and a steel tumbler",
+    "thread and tape"
+   ],
+   "general": [
+    "Stand books or dominoes in a line, so each one knocks the next.",
+    "Let the last domino push a marble down a ruler ramp.",
+    "Have the marble knock over a pencil standing up, which falls onto the spoon."
+   ],
+   "creative": [
+    "Hang the spoon from a thread taped to a table edge, so it swings into the tumbler when it is knocked.",
+    "Use a toy car rolling off a stack of books instead of a marble.",
+    "Put a lifted book at one step, so it falls and adds its own stored energy to the chain."
+   ],
+   "your_turn": "Now design your own chain. Draw it first, with an arrow for each step. Then build it. Did the bell ring? Which step lost the most energy?",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Stand 10 books or dominoes in a line, a little apart. Tip the first one with a finger. Watch the energy travel.",
+     "say": "One small push, and the energy is passed along. Each falling book gives energy to the next.",
+     "kid": "Stand the books in a line. Push the first one gently. Watch them all fall. One push did all that!",
+     "context": "This is the first step of the Chain Reaction Bell challenge. You see how a push can pass along a line of falling things."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Draw a plan for a chain of at least 4 steps that ends with the spoon ringing the tumbler.",
+     "say": "Draw your plan first. What gives energy to what? Draw an arrow for each step.",
+     "kid": "Draw your chain on paper. Draw an arrow for each step. The last step rings the tumbler."
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "do": "Build the chain and test it. When a step fails, change it and test again.",
+     "say": "If it stops halfway, look at the step where it stopped. Did that step get too little energy?",
+     "kid": "Build it. Push the first thing. Did it ring? If not, find where it stopped. Fix that step. Try again.",
+     "parent": "Chains nearly always fail a few times. That's the fun. Steps with a fall in them, like a domino tipping or a marble rolling down a ramp, add energy from the height. Steps that slide on a cloth lose energy fast."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Ask: where did the energy for the bell come from? Was it only your push?",
+     "say": "Was the ring made only by your finger? What else gave energy to the chain?",
+     "kid": "Was the ring only from your push? Where else did energy come from?",
+     "check": {
+      "t": "mcq",
+      "q": "Rukmini's chain has a book that falls off a table onto a marble. Her finger's push was tiny, but the marble shot off fast. Where did the extra energy come from?",
+      "options": [
+       "From the marble",
+       "From the falling book, which had stored energy because it was lifted up on the table",
+       "From nowhere, because chains make energy"
+      ],
+      "a": 1,
+      "why": "The book was on the table, so it had stored energy from being high up. When it fell, that energy became movement and passed to the marble. Someone lifted the book onto the table earlier, so the energy came from their arm. A chain never makes energy. It can only pass on energy that was already stored in it."
+     }
+    }
+   ],
+   "context": "This is a design challenge. You build a chain of falling and rolling things that passes energy along until a bell rings.",
+   "setup": [
+    {
+     "art": "A line of standing books on a floor, the first one tipping over under a child's finger.",
+     "caption": "1. One push sets off a line of falling books."
+    },
+    {
+     "art": "A chain of books, a ruler ramp, a marble, a pencil and a steel spoon swinging into a steel tumbler.",
+     "caption": "2. Build a chain that ends by ringing a tumbler."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "The Soft Landing",
+   "mins": 25,
+   "problem": "A marble dropped from 80 cm onto a steel plate lands with a loud clang. Design a landing pad from home things that makes the quietest sound, and stops the marble without letting it bounce away.",
+   "constraints": [
+    "Drop the marble from 80 cm every time.",
+    "The pad must fit on a steel plate.",
+    "Use only things from home, and put them back afterwards."
+   ],
+   "materials": [
+    "a marble and a steel plate",
+    "a ruler or measuring tape",
+    "cloths, a folded towel, cotton wool, a sponge, a pillow cover, a bowl of rice or rava"
+   ],
+   "general": [
+    "A folded towel squashes as the marble lands.",
+    "Cotton wool or a sponge squashes even more.",
+    "A bowl of rice or rava lets the marble dig in, like the atta."
+   ],
+   "creative": [
+    "Stretch a cloth loosely over a bowl, like a hammock, so it sags and slows the marble.",
+    "Use a few layers: a cloth, then cotton, then rice.",
+    "Try a tray of water. Is it quiet? Where does the energy go?"
+   ],
+   "your_turn": "Now invent your own landing pad. Test it 3 times. Is it quieter than all the others? Explain where the marble's energy went.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "Drop the marble from 80 cm onto the bare steel plate. Listen to the clang, and watch it bounce.",
+     "say": "Hear that clang? The marble's movement energy went into sound and a bounce. Can we make it go somewhere quieter?",
+     "kid": "Drop the marble onto the steel plate. Listen. Clang! Watch it bounce. Now let's make it quiet.",
+     "context": "This is the first step of the Soft Landing challenge. You hear how loud a marble is on steel, then try to make a quieter landing."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "Try at least 4 different pads, 3 drops each. Rank them from loudest to quietest.",
+     "say": "Test each pad three times from the same height. Which is quietest? Which stops the marble dead?",
+     "kid": "Test each pad three times from 80 cm. Listen. Which is quietest? Write them in order.",
+     "parent": "Soft, squashy pads are quietest. The marble's movement energy goes into squashing the pad, and ends as a tiny warming. Hard pads send it back as sound and a bounce."
+    },
+    {
+     "id": "s3",
+     "mins": 7,
+     "do": "Build your own best pad from what you learned, and test it.",
+     "say": "Now design your own best pad. Why do you think it will be quietest?",
+     "kid": "Make your own pad. Test it three times. Is it the quietest?",
+     "check": {
+      "t": "mcq",
+      "q": "Nandini drops a marble onto a folded towel. It lands with almost no sound and doesn't bounce. Where did the marble's movement energy go?",
+      "options": [
+       "It disappeared",
+       "Into squashing the towel, ending as a tiny bit of warmth",
+       "Back into Nandini's hand"
+      ],
+      "a": 1,
+      "why": "Energy is never destroyed. The towel's threads bent and rubbed as the marble pushed into them. That squashing took the marble's energy and turned it into a tiny bit of warmth, too small to feel. On steel, more of it came out as sound and a bounce."
+     }
+    }
+   ],
+   "context": "This is a design challenge. You make a landing pad that stops a falling marble as quietly as possible.",
+   "setup": [
+    {
+     "art": "A marble bouncing off a steel plate with big 'CLANG' sound lines.",
+     "caption": "1. Drop the marble on bare steel. Hear the clang."
+    },
+    {
+     "art": "Four pads in a row on steel plates: a folded towel, cotton wool, a sponge, and a bowl of rice.",
+     "caption": "2. Test different pads. Which is quietest?"
+    }
+   ]
+  }
+ ],
+ "videos": [
+  {
+   "title": "Energy | The Dr. Binocs Show",
+   "channel": "Peekaboo Kidz",
+   "youtube": "Q0LBegPWzrg",
+   "mins": 4,
+   "why": "A short cartoon for children on what energy is and the forms it takes, from an Indian channel.",
+   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'Energy | The Dr. Binocs Show | Educational Videos For Kids', channel Peekaboo Kidz). Not watched from here: a parent should preview it and check its length."
+  },
+  {
+   "title": "The Power of Sunlight!",
+   "channel": "SciShow Kids",
+   "youtube": "0Qmgdz9E47s",
+   "mins": 4,
+   "why": "A science project for children showing that sunlight carries energy, which fits Sunshine in a Tumbler.",
+   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'The Power of Sunlight! | Science Project for Kids', channel SciShow Kids). Not watched from here: a parent should preview it and check its length."
+  },
+  {
+   "title": "World's Most Asked Questions: What Is Energy?",
+   "channel": "SciShow",
+   "youtube": "CW0_S5YpYVo",
+   "mins": 5,
+   "why": "For the parent and curious older children: what scientists mean by energy, and why it is hard to say what it really is.",
+   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'World's Most Asked Questions: What Is Energy?', channel SciShow). Not watched from here: a parent should preview it and check its length."
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "What is energy?",
+   "opts": [
+    "What is needed to make things happen",
+    "A kind of food",
+    "Another word for electricity",
+    "A strong push"
+   ],
+   "a": 0,
+   "why": "Energy is what is needed to make something move, light up, heat up or make a sound. Electricity and food carry energy, but they are not energy itself.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these is NOT an example of energy at work?",
+   "opts": [
+    "A fan turning",
+    "A lamp shining",
+    "A drawing lying in a drawer",
+    "A bell ringing"
+   ],
+   "a": 2,
+   "why": "The drawing in the drawer is not moving, lighting up, heating up or making a sound. The others are all energy at work.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Kavya's mixie grinds chutney and hums. Which forms of energy come out of it?",
+   "opts": [
+    "Only movement",
+    "Movement, sound and a little heat",
+    "Only sound",
+    "Light and movement"
+   ],
+   "a": 1,
+   "why": "The blades move, the motor hums and the mixie gets a little warm. One machine often passes energy on in more than one form.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Lakshmi lies in bed with a torch. The torch's energy came from",
+   "opts": [
+    "the torch's bulb",
+    "the cells inside the torch",
+    "the light switch on the wall",
+    "Lakshmi's eyes"
+   ],
+   "a": 1,
+   "why": "The cells hold stored energy. The bulb changes it into light.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Where did the energy in a plate of rice and sambar first come from?",
+   "opts": [
+    "The stove",
+    "The Sun",
+    "The plate",
+    "The shop"
+   ],
+   "a": 1,
+   "why": "Rice and dal plants caught sunlight and stored its energy in their grains. The stove only heated the food.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Wind turbines at Muppandal turn in the wind. What makes the wind blow?",
+   "opts": [
+    "The turbines",
+    "The Sun warming some places more than others",
+    "The sea pushing the air",
+    "The Moon"
+   ],
+   "a": 1,
+   "why": "The Sun warms the land and the sea by different amounts. Warm air rises and cooler air moves in. That moving air is the wind.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Meenakshi drops a marble into atta from 20 cm and then from 80 cm. Which change made the second crater wider?",
+   "opts": [
+    "The marble was heavier",
+    "The marble landed faster, with more energy",
+    "The atta was different",
+    "She threw it"
+   ],
+   "a": 1,
+   "why": "In a fair test only the height changes. From higher up, the marble lands faster, with more movement energy, so it digs a wider crater.",
+   "outcome": 3,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "In the Atta Crater Test, why do we drop the marble 3 times from each height?",
+   "opts": [
+    "To make the atta flatter",
+    "Because one try can be a fluke",
+    "To make the crater deeper",
+    "To tire the marble"
+   ],
+   "a": 1,
+   "why": "Results change a little each time. Three tries show what usually happens.",
+   "outcome": 3,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "Where did the energy of the falling marble come from?",
+   "opts": [
+    "From the atta",
+    "From the arm that lifted it up",
+    "From the ruler",
+    "From nowhere"
+   ],
+   "a": 1,
+   "why": "Lifting the marble took energy from the arm. That energy was stored in the lifted marble and became movement as it fell.",
+   "outcome": 3,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "A spinning top slows down and stops. What happened to its movement energy?",
+   "opts": [
+    "It was destroyed",
+    "It passed into the floor and the air as a little warmth",
+    "It went back into the hand",
+    "It stayed in the top"
+   ],
+   "a": 1,
+   "why": "Energy is never destroyed. Rubbing on the floor and the air passed it on as a tiny bit of warmth.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Which sentence is true?",
+   "opts": [
+    "Energy can be made from nothing",
+    "Energy is never made or destroyed, only passed on",
+    "Energy is always destroyed in the end",
+    "Only living things have energy"
+   ],
+   "a": 1,
+   "why": "This is the conservation of energy. Every careful measurement agrees with it.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Willem 's Gravesande, a Dutch scientist, dropped brass balls into soft clay in 1722. A ball that landed twice as fast made a dent",
+   "opts": [
+    "half as deep",
+    "twice as deep",
+    "about four times as deep",
+    "the same depth"
+   ],
+   "a": 2,
+   "why": "Twice as fast gave about four times the dent. This showed that a moving thing's energy grows much faster than its speed.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Émilie du Châtelet was a French scientist. What did she do with 's Gravesande's results?",
+   "opts": [
+    "She explained in her physics book that they showed a faster ball carries much more energy",
+    "She proved they were wrong",
+    "She built the first wind turbine",
+    "She discovered uranium"
+   ],
+   "a": 0,
+   "why": "In her book of 1740, she explained that the clay dents agreed with Gottfried Leibniz: twice the speed means four times the effect.",
+   "outcome": 5
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Energy Detective (core)",
+   "tier": "core",
+   "mins": 20,
+   "items": [
+    {
+     "t": "sort",
+     "p": "Kavya, a girl in Class 3 in Madurai, looks around her kitchen. Sort each thing by what its energy is doing.",
+     "cats": [
+      "Making it move",
+      "Making light",
+      "Making heat",
+      "Making sound"
+     ],
+     "items": [
+      [
+       "the mixie blades spinning",
+       "Making it move"
+      ],
+      [
+       "the tubelight",
+       "Making light"
+      ],
+      [
+       "the tawa on the flame",
+       "Making heat"
+      ],
+      [
+       "the cooker whistle",
+       "Making sound"
+      ],
+      [
+       "the ceiling fan",
+       "Making it move"
+      ],
+      [
+       "the phone screen",
+       "Making light"
+      ],
+      [
+       "the iron box",
+       "Making heat"
+      ],
+      [
+       "the doorbell",
+       "Making sound"
+      ]
+     ],
+     "a": "see items",
+     "why": "Each thing is sorted by its main job. Many do more than one: the mixie also hums, and the tubelight also gets a little warm. A strong answer notices that one thing can pass its energy on in more than one form."
+    },
+    {
+     "t": "fill",
+     "p": "Energy is what is needed to make something ____.",
+     "a": [
+      "happen"
+     ],
+     "why": "Anything that moves, lights up, heats up or makes a sound needs energy. 'Work' and 'move' are also fine answers, if the child explains them."
+    },
+    {
+     "t": "mcq",
+     "p": "Divya switches on a torch in the dark. Where does the torch get its energy?",
+     "opts": [
+      "From the bulb",
+      "From the cells inside it",
+      "From the dark",
+      "From her hand"
+     ],
+     "a": 1,
+     "why": "The cells, often called batteries, hold stored energy. Electricity carries it to the bulb, which gives out light. Picking 'the bulb' is common, because that is where the light appears. But the bulb only changes the energy into light."
+    },
+    {
+     "t": "truefalse",
+     "p": "Lakshmi says, 'A ball sitting still on a high shelf has no energy, because it is not moving.' Is she right?",
+     "a": false,
+     "why": "False. A ball high on a shelf has stored energy, because it was lifted up. If it falls, that stored energy becomes movement energy. A strong answer says what would happen if the ball fell."
+    },
+    {
+     "t": "match",
+     "p": "Match each thing to the source of its energy.",
+     "pairs": [
+      [
+       "a crow flying",
+       "the food the crow ate"
+      ],
+      [
+       "a solar lamp",
+       "sunlight"
+      ],
+      [
+       "a ceiling fan",
+       "electricity from a power station"
+      ],
+      [
+       "a gas stove flame",
+       "cooking gas"
+      ],
+      [
+       "a wall clock",
+       "a cell inside it"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Every thing gets its energy from somewhere. A strong answer could also say where the crow's food got the energy: from plants, and so from the Sun."
+    },
+    {
+     "t": "mcq",
+     "p": "Meenakshi drops the same marble into atta, first from 20 cm and then from 80 cm. What will she see?",
+     "opts": [
+      "The 80 cm crater is wider",
+      "Both craters are the same",
+      "The 20 cm crater is wider",
+      "There is no crater from 80 cm"
+     ],
+     "a": 0,
+     "why": "From higher up, the marble lands faster and carries more movement energy. That energy pushes more atta aside, so the crater is wider. This is what the Atta Crater Test showed.",
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "In the Atta Crater Test, why did the marble from 80 cm make a louder thud than the marble from 20 cm?",
+     "lines": 3,
+     "a": "It fell from higher, so it was moving faster when it landed. It had more movement energy, so more of its energy became sound.",
+     "why": "A strong answer links three things: the height, the speed when it landed, and the energy that became sound.",
+     "how": "e1"
+    },
+    {
+     "t": "order",
+     "p": "Put the energy chain for a ceiling fan in order, starting at the Sun.",
+     "items": [
+      "the ceiling fan turns",
+      "the Sun warms the land and sea",
+      "electricity carries the energy along wires",
+      "the wind turns a wind turbine"
+     ],
+     "a": [
+      "the Sun warms the land and sea",
+      "the wind turns a wind turbine",
+      "electricity carries the energy along wires",
+      "the ceiling fan turns"
+     ],
+     "why": "The Sun's heat makes the wind. The wind turns the turbine, which makes electricity. Electricity carries the energy to the fan. A strong answer could add that some fans get their energy from coal or water instead."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a torch. Show with arrows where the energy starts, where it travels, and what it turns into.",
+     "a": "Arrows from the cells, along the wire or metal strip, to the bulb, with light coming out and a little heat.",
+     "why": "A strong drawing starts the energy in the cells, not the bulb, and shows that the bulb gives out light and a little heat.",
+     "art": "A blank outline of a torch."
+    },
+    {
+     "t": "odd",
+     "p": "Three of these get their energy from food. Which one is the odd one out?",
+     "opts": [
+      "A running child",
+      "A flying crow",
+      "A solar panel",
+      "An ant carrying sugar"
+     ],
+     "a": 2,
+     "why": "A solar panel gets its energy straight from sunlight. The child, the crow and the ant all get their energy from food. That food got its energy from sunlight too, a step further back."
+    },
+    {
+     "t": "mcq",
+     "p": "Sneha puts one tumbler of water in the sun and one in the shade. After an hour, the sunny one is warmer. Why?",
+     "opts": [
+      "Sunlight carries energy, which turned into heat in the water",
+      "The sunny tumbler had more water",
+      "Shade makes water colder by adding cold"
+     ],
+     "a": 0,
+     "why": "Sunlight carries energy from the Sun. When it lands on the water and the tumbler, it turns into heat. Shade does not add cold. It just lets less sunlight in.",
+     "how": "e2"
+    },
+    {
+     "t": "write",
+     "p": "Arjun says, 'My energy is my own. It doesn't come from anywhere.' Write two sentences to tell him where his energy came from.",
+     "lines": 3,
+     "a": "Your energy came from the food you ate, like idli or rice. That food got its energy from plants, which caught it from sunlight.",
+     "why": "A strong answer goes back at least two steps: from Arjun to food, and from food to plants or the Sun."
+    },
+    {
+     "t": "perspective",
+     "p": "Two friends in Kochi argue after a game of football. They are both very tired.",
+     "views": [
+      {
+       "who": "Anjali, aged 9",
+       "says": "We used up all our energy. It's gone."
+      },
+      {
+       "who": "Revathi, aged 8",
+       "says": "Energy can never be used up. It just went somewhere else."
+      }
+     ],
+     "ask": "Which friend do you agree with? Use what you know about where energy goes. Then say one thing the other friend has right.",
+     "lines": 5,
+     "a": "A strong answer agrees with Revathi that energy is never destroyed: it passed into the ball, sounds, and mostly warmth spreading into the air. It gives Anjali her due: the energy is gone from their bodies, in a form they can't use again, so they need to eat and rest.",
+     "why": "Both friends see part of the truth. Scientists agree with Revathi about the total. Anjali is right about what she feels: the useful energy in her body is lower."
+    },
+    {
+     "t": "label",
+     "p": "Label the drawing of a pressure cooker on a gas stove with these words: fuel, heat, steam pushes the whistle, sound.",
+     "a": "fuel on the gas cylinder, heat at the flame, steam pushes the whistle at the top, sound beside the whistle.",
+     "why": "A strong answer follows the energy in order: from the fuel, to heat, to steam pushing the whistle up, to the sound.",
+     "art": "A pressure cooker on a gas stove with a gas cylinder underneath, with four blank labels."
+    },
+    {
+     "t": "mcq",
+     "p": "Farhan, a boy in Hyderabad, says, 'Electricity is a source of energy, like the Sun.' What is a better way to say it?",
+     "opts": [
+      "Electricity carries energy from a power station to our homes",
+      "Electricity is made inside the switch",
+      "Electricity is a kind of fuel we burn"
+     ],
+     "a": 0,
+     "why": "Electricity carries energy along wires. The energy came from a power station, which got it from coal, gas, wind, sunlight, falling water or uranium."
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Energy on the Move (stretch)",
+   "tier": "stretch",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Priya drops a marble into atta from 20 cm, then from 80 cm, four times as high. The second crater is",
+     "opts": [
+      "exactly four times as wide",
+      "wider, but much less than four times as wide",
+      "exactly the same width",
+      "narrower"
+     ],
+     "a": 1,
+     "why": "The higher drop gives the marble more energy, so the crater is wider. But a crater twice as wide must push aside much more atta than twice as much. So the width grows much more slowly than the height. In made-up results, 4.5 cm grew to only about 6.5 cm.",
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "In the Atta Crater Test, we smoothed the atta and used the same marble every time. Why did that matter?",
+     "lines": 3,
+     "a": "So that the only thing that changed was the height. Then any difference in the craters must come from the height.",
+     "why": "A strong answer uses the idea of a fair test: change one thing, keep everything else the same.",
+     "how": "e1"
+    },
+    {
+     "t": "truefalse",
+     "p": "When a spinning top slows down and stops, its energy has been destroyed.",
+     "a": false,
+     "why": "False. The top's movement energy passed into the floor and the air through rubbing, as a tiny bit of warmth. Energy is never destroyed, only passed on."
+    },
+    {
+     "t": "order",
+     "p": "A coconut falls from a tall tree and lands with a thud. Put what happens to the energy in order.",
+     "items": [
+      "the coconut lands, and the energy becomes sound and pushes the soil",
+      "the coconut speeds up as it falls",
+      "the coconut hangs high up with stored energy",
+      "the coconut lets go of the tree"
+     ],
+     "a": [
+      "the coconut hangs high up with stored energy",
+      "the coconut lets go of the tree",
+      "the coconut speeds up as it falls",
+      "the coconut lands, and the energy becomes sound and pushes the soil"
+     ],
+     "why": "Stored energy from height becomes movement energy as the coconut speeds up. When it lands, the energy passes into sound, the moving soil and a little warmth."
+    },
+    {
+     "t": "write",
+     "p": "A sleeping cat is not moving, lighting up or making a sound. Is she using energy? Explain.",
+     "lines": 3,
+     "a": "Yes. She is breathing, her heart is beating, and her body stays warm. All of that uses energy from her food.",
+     "why": "A strong answer names at least one thing inside the cat's body that needs energy, such as her heartbeat or keeping warm."
+    },
+    {
+     "t": "mcq",
+     "p": "In the Spinning Paper Snake activity, a paper spiral turns above a lit diya. Which energy change makes it turn?",
+     "opts": [
+      "Sound into movement",
+      "Heat into movement",
+      "Light into sound",
+      "Movement into heat"
+     ],
+     "a": 1,
+     "why": "The flame heats the air. Warm air rises and pushes on the spiral, so heat energy becomes movement energy.",
+     "how": "a3"
+    },
+    {
+     "t": "match",
+     "p": "Match each energy change to where it happens.",
+     "pairs": [
+      [
+       "electrical energy into movement",
+       "a mixie"
+      ],
+      [
+       "stored energy in food into movement",
+       "you cycling"
+      ],
+      [
+       "light into heat",
+       "a balcony floor in the sun"
+      ],
+      [
+       "movement into sound",
+       "a marble landing on a steel plate"
+      ],
+      [
+       "stored energy in gas into heat",
+       "a stove flame"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "In each case, energy changes from one form to another. A strong answer could also name the heat that nearly always comes out too."
+    },
+    {
+     "t": "fill",
+     "p": "The rule that energy is never made and never destroyed is called the ____ of energy.",
+     "a": [
+      "conservation"
+     ],
+     "why": "Conservation means keeping. The total amount of energy is always kept the same."
+    },
+    {
+     "t": "draw",
+     "p": "Draw an energy chain from the Sun to a lit diya. Draw at least 4 steps, with an arrow between each.",
+     "a": "For example: the Sun, a sesame or groundnut plant, oil pressed from the seeds, the diya flame giving light and heat.",
+     "why": "A strong drawing has steps in the right order, and each step really gets its energy from the step before.",
+     "art": "A blank strip with 4 empty boxes and arrows between them."
+    },
+    {
+     "t": "odd",
+     "p": "Three of these energy sources came from the Sun. Which one is the odd one out?",
+     "opts": [
+      "Wind",
+      "Coal",
+      "Uranium",
+      "Falling water in a dam"
+     ],
+     "a": 2,
+     "why": "Uranium was made in stars before the Sun was born. Wind is moved by the Sun's heat, coal came from ancient plants that grew in sunlight, and the Sun's heat lifted the water into the clouds before it fell as rain."
+    },
+    {
+     "t": "perspective",
+     "p": "Two cousins in Mysuru argue about a ball on a high shelf.",
+     "views": [
+      {
+       "who": "Tanvi, aged 9",
+       "says": "The ball has energy right now. It's stored, ready to fall."
+      },
+      {
+       "who": "Ishaan, aged 8",
+       "says": "The ball has no energy until it falls. Energy only shows when something happens."
+      }
+     ],
+     "ask": "Which cousin do you agree with? Use the Atta Crater Test or the water bottle lift as evidence. Then say what the other cousin has right.",
+     "lines": 5,
+     "a": "A strong answer sides with Tanvi: lifting the ball took energy, which is stored, and it comes out when it falls, as in the atta craters. It gives Ishaan his due: we only see energy when something happens, and nothing shows while the ball sits still.",
+     "why": "Scientists call Tanvi's idea stored energy, or potential energy. Ishaan is right that we notice energy only by what it does."
+    },
+    {
+     "t": "mcq",
+     "p": "Nandini's mother gives her two bulbs that give the same light. One gets very hot and one stays only a little warm. Which one passes less energy on as heat?",
+     "opts": [
+      "The one that gets very hot",
+      "The one that stays only a little warm",
+      "Both pass on the same heat"
+     ],
+     "a": 1,
+     "why": "Both make the same light, but the hot one also passes a lot of energy on as heat. The cooler one, usually an LED, turns more of its energy into light. So it needs less electricity for the same light."
+    },
+    {
+     "t": "write",
+     "p": "A rock falls in the hills and starts a small landslide that knocks down many more rocks. Where did all that energy come from?",
+     "lines": 4,
+     "a": "Each rock had stored energy from being high up on the hill. The first rock started the fall, but each rock brought its own stored energy as it fell.",
+     "why": "A strong answer sees that the first rock did not give all the energy. Like the falling book in the Chain Reaction Bell, every lifted thing brings its own stored energy."
+    },
+    {
+     "t": "label",
+     "p": "Label the energy changes in a phone: battery, light from the screen, sound from the speaker, heat.",
+     "a": "battery at the bottom, light at the screen, sound at the speaker, heat where the phone feels warm on its back.",
+     "why": "A strong answer starts the energy in the battery and shows it leaving as light, sound and heat.",
+     "art": "A drawing of a phone, front and back, with four blank labels."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these by where their energy came from.",
+     "cats": [
+      "From the Sun",
+      "Not from the Sun"
+     ],
+     "items": [
+      [
+       "idli",
+       "From the Sun"
+      ],
+      [
+       "a wind turbine",
+       "From the Sun"
+      ],
+      [
+       "a nuclear power station",
+       "Not from the Sun"
+      ],
+      [
+       "cooking gas",
+       "From the Sun"
+      ],
+      [
+       "a hot spring deep in the Earth",
+       "Not from the Sun"
+      ],
+      [
+       "a solar lamp",
+       "From the Sun"
+      ]
+     ],
+     "a": "see items",
+     "why": "Food, wind and gas all trace back to sunlight. Nuclear power uses uranium, and hot springs get heat from deep inside the Earth. A strong answer can explain one 'from the Sun' chain."
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Energy Thinker (challenge)",
+   "tier": "challenge",
+   "mins": 30,
+   "items": [
+    {
+     "t": "write",
+     "p": "In 1722, Willem 's Gravesande dropped brass balls into soft clay. A ball that landed twice as fast made a dent about four times as deep. Why was that a surprise to people at the time?",
+     "lines": 4,
+     "a": "Many scientists thought a ball twice as fast would hit twice as hard. The dent four times as deep showed that a faster ball carries much more energy than they thought.",
+     "why": "A strong answer names the old idea (twice as fast, twice as hard) and says what the dents showed instead."
+    },
+    {
+     "t": "perspective",
+     "p": "Scientists in Europe argued about this for many years in the 1700s.",
+     "views": [
+      {
+       "who": "Followers of René Descartes",
+       "says": "What a moving ball carries is its weight times its speed. Twice as fast, twice as much."
+      },
+      {
+       "who": "Émilie du Châtelet, a French scientist",
+       "says": "The clay dents show that what a moving ball carries is weight times speed times speed. Twice as fast, four times as much."
+      }
+     ],
+     "ask": "Which side do the clay dents support? Then say what the other side had right.",
+     "lines": 6,
+     "a": "The dents support du Châtelet: twice the speed gave four times the dent. But the other side was not simply wrong. Weight times speed is also a real quantity, which scientists now call momentum. It tells how hard a thing is to stop in a given time. Both sides were measuring something true, but different.",
+     "why": "This was a real argument. A strong answer uses the evidence for du Châtelet, and also sees that the Descartes side had found a different true quantity."
+    },
+    {
+     "t": "mcq",
+     "p": "Kavya drops a marble from 20 cm. To make it land twice as fast, from what height should she drop it?",
+     "opts": [
+      "40 cm",
+      "80 cm",
+      "60 cm",
+      "20 cm, but throw it"
+     ],
+     "a": 1,
+     "why": "To land twice as fast, a falling thing must fall from four times the height. 4 times 20 cm is 80 cm. This is because energy grows with speed times speed. Twice the speed needs four times the energy, and four times the energy needs four times the height."
+    },
+    {
+     "t": "write",
+     "p": "We say a cell is 'used up' when the torch stops working. Explain what really happened to its energy.",
+     "lines": 4,
+     "a": "The energy was carried by electricity to the bulb. The bulb turned it into light and a little heat. The light landed on walls and turned into warmth. So the energy spread out into the room as a tiny bit of warmth. It is still there, but too spread out to use.",
+     "why": "A strong answer follows the energy step by step until it spreads out as warmth, and says why spread-out warmth is hard to use again."
+    },
+    {
+     "t": "truefalse",
+     "p": "A clever enough machine could keep running for ever without any new energy.",
+     "a": false,
+     "why": "False. Every real machine passes some energy on as heat through rubbing, so it slows down unless new energy is put in. Many inventors have tried for hundreds of years, and none has worked."
+    },
+    {
+     "t": "draw",
+     "p": "Design a machine that uses falling water to ring a bell. Draw it, and label where the energy starts and every change it goes through.",
+     "a": "For example: a bottle of water on a high shelf, a pipe, a small paper wheel turned by the falling water, a string on the wheel that pulls a spoon against a tumbler. Labels: stored energy from height, movement, sound.",
+     "why": "A strong design starts with water high up, uses its fall to turn or push something, and ends in sound. Labels follow the energy in order.",
+     "art": "A blank page with a bell drawn at the bottom right."
+    },
+    {
+     "t": "mcq",
+     "p": "A resting child gives out about as much heat as an old 60 watt bulb. Where does this heat come from?",
+     "opts": [
+      "From the air around the child",
+      "From the energy in the food the child ate",
+      "From the bed",
+      "From the Sun shining on the child right now"
+     ],
+     "a": 1,
+     "why": "Your body uses energy from food all the time, even while resting, to keep your heart beating and your body working. Much of it comes out as heat. That is why a room full of people gets warm."
+    },
+    {
+     "t": "write",
+     "p": "Revathi says, 'Since energy is never destroyed, we don't need to save electricity.' What would you tell her?",
+     "lines": 4,
+     "a": "The total energy stays the same, but after we use it, it is spread out as warmth that we can't use again. Making new electricity often means burning coal or building power stations. So saving electricity means needing less of that.",
+     "why": "A strong answer separates the total amount of energy, which never changes, from useful energy, which runs down."
+    },
+    {
+     "t": "match",
+     "p": "Match each Indian power station to the source of its energy.",
+     "pairs": [
+      [
+       "Muppandal, Tamil Nadu",
+       "wind"
+      ],
+      [
+       "Idukki, Kerala",
+       "falling water"
+      ],
+      [
+       "Kudankulam, Tamil Nadu",
+       "uranium"
+      ],
+      [
+       "Pavagada, Karnataka",
+       "sunlight"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Muppandal has hundreds of wind turbines, Idukki uses water stored behind a dam, Kudankulam is a nuclear power station, and Pavagada is a huge solar park. All but Kudankulam trace back to the Sun."
+    },
+    {
+     "t": "order",
+     "p": "Put these in order, from the one that gives most of its energy as light to the one that gives the least. All three use the same electricity.",
+     "items": [
+      "an old filament bulb",
+      "an LED bulb",
+      "an electric heater"
+     ],
+     "a": [
+      "an LED bulb",
+      "an old filament bulb",
+      "an electric heater"
+     ],
+     "why": "An LED turns much of its energy into light. An old filament bulb turns only a small part into light and most into heat. A heater is made to turn nearly all of it into heat, with only a little red glow."
+    },
+    {
+     "t": "label",
+     "p": "Label the parts of a falling marble's journey: stored energy, speeding up, movement energy at the bottom, crater and sound.",
+     "a": "stored energy at the top where it is held, speeding up along the fall, movement energy just before it lands, crater and sound at the atta.",
+     "why": "A strong answer follows the energy from stored, to movement, to the crater and sound.",
+     "art": "A marble at three points on a dotted line from a hand down to a tray of atta, with four blank labels.",
+     "how": "e1"
+    },
+    {
+     "t": "fill",
+     "p": "The unit scientists use to measure energy is called the ____. It is about the energy needed to lift a small apple one metre.",
+     "a": [
+      "joule"
+     ],
+     "why": "The joule is named after James Joule, who measured how work makes heat in the 1840s."
+    },
+    {
+     "t": "write",
+     "p": "The Sun will one day run out of hydrogen to join into helium. What would happen on Earth if the Sun stopped shining? Follow at least two energy chains.",
+     "lines": 5,
+     "a": "Plants could not make food, so animals and people would run out of food. Without the Sun's heat, there would be no wind and no rain filling the dams. The Earth would get very cold.",
+     "why": "A strong answer follows at least two chains, such as food and wind or rain, and sees how much depends on sunlight. (The Sun has billions of years left.)"
+    },
+    {
+     "t": "sort",
+     "p": "Sort these by whether the energy is stored or happening now.",
+     "cats": [
+      "Stored energy",
+      "Energy happening now"
+     ],
+     "items": [
+      [
+       "a full gas cylinder",
+       "Stored energy"
+      ],
+      [
+       "a cooker whistling",
+       "Energy happening now"
+      ],
+      [
+       "a charged phone switched off",
+       "Stored energy"
+      ],
+      [
+       "a coconut high on the tree",
+       "Stored energy"
+      ],
+      [
+       "a marble falling",
+       "Energy happening now"
+      ],
+      [
+       "a sunbeam on the floor",
+       "Energy happening now"
+      ]
+     ],
+     "a": "see items",
+     "why": "Stored energy waits until something lets it out. Moving, sounding, lighting and heating are energy happening now. A strong answer could say what would let each stored one out."
+    },
+    {
+     "t": "mcq",
+     "p": "Ishita runs up four floors of stairs in her building in Pune. At the top she feels hot and out of breath. Why does she feel hot?",
+     "opts": [
+      "The stairs were hot",
+      "Her muscles passed on energy from her food, and much of it came out as heat",
+      "Running makes cold air leave her body",
+      "The building's lift was off"
+     ],
+     "a": 1,
+     "why": "Her muscles used energy from her food to lift her up four floors. Much of that energy came out as heat, as it nearly always does when energy changes form. That is why she feels hot. Picking 'cold air leaves her body' mixes up heat and cold: heat is the energy that moves, not cold."
+    }
+   ]
+  }
+ ],
+ "applications": [
+  "Power stations turn wind, falling water, sunlight, coal, gas or uranium into electricity for homes.",
+  "Engineers work out how much energy a moving car or train carries, to design brakes and crash barriers.",
+  "Doctors and dieticians measure the energy in food, to help people eat enough.",
+  "Solar panels on roofs and at airports, such as Kochi, turn sunlight into electricity.",
+  "LED bulbs are used to give the same light with less energy wasted as heat.",
+  "Builders use energy stored in a lifted weight: a pile driver drops a heavy block to hammer posts into the ground."
+ ],
+ "spotted": [
+  {
+   "text": "Rows of tall wind turbines at Muppandal and Aralvaimozhi, near Kanyakumari, turning in the wind that blows through the hills.",
+   "art": "White wind turbines on brown hills near Kanyakumari, with a bus on the road below."
+  },
+  {
+   "text": "Blue solar panels on the roofs of flats, schools and temples, and on the big solar fields at Cochin airport.",
+   "art": "Solar panels on a flat roof with a water tank, and coconut palms behind."
+  },
+  {
+   "text": "The pressure cooker whistle in almost every Indian kitchen: heat makes steam, and steam pushes up the whistle.",
+   "art": "A pressure cooker on a stove with a puff of steam lifting its whistle."
+  },
+  {
+   "text": "Dams like Idukki in Kerala, where water falling from high up spins turbines to make electricity.",
+   "art": "A tall curved dam between green hills, with water rushing out at its foot."
+  },
+  {
+   "text": "Your own warm hands on a cold morning, warmed by the energy from your breakfast.",
+   "art": "A child cupping their warm hands around their face on a misty morning."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "What is energy, really?",
+   "why_open": "Scientists can count it very exactly and it always adds up, but nobody can say what it is underneath."
+  },
+  {
+   "q": "What is dark energy?",
+   "why_open": "The universe is spreading out faster and faster. Scientists call whatever is causing this 'dark energy', but nobody knows what it is."
+  },
+  {
+   "q": "Does the whole universe add up to zero energy?",
+   "why_open": "Some physicists think the energy of all the stuff is balanced by gravity. Others say the question has no clear answer."
+  },
+  {
+   "q": "How can we store sunlight cheaply for the night?",
+   "why_open": "Batteries work but cost a lot. Scientists are testing new batteries, pumped water and making fuels from sunlight."
+  }
+ ],
+ "ask_kids": [
+  "What made something happen in the kitchen this morning? Where did its energy come from?",
+  "Is the energy from your lunch still in you? Where will it go?",
+  "Why do you think the cooker whistles only after the stove has been on for a while?",
+  "Can you find something in this room that has stored energy, ready to do something?",
+  "If you lift your school bag onto a high shelf, where is the energy you used?",
+  "What would happen to the crow outside if they couldn't find food for a day?"
+ ],
+ "jokes": [
+  {
+   "j": "Why did the marble do so well at school?",
+   "a": "It always dropped in with lots of energy."
+  },
+  {
+   "j": "What did the battery say to the torch?",
+   "a": "I've got your back, but I won't last for ever."
+  },
+  {
+   "j": "Why did the Sun never go to college?",
+   "a": "It already had millions of degrees."
+  },
+  {
+   "j": "What did one ceiling fan say to the other?",
+   "a": "Stop going round in circles."
+  },
+  {
+   "j": "Why was the cooker whistle so loud?",
+   "a": "It had a lot of steam to let off."
+  },
+  {
+   "j": "Why did the idli feel proud?",
+   "a": "It was full of stored sunshine."
+  },
+  {
+   "j": "What do you call a tired wind turbine?",
+   "a": "A fan who needs a breather."
+  },
+  {
+   "j": "Why did the top stop spinning?",
+   "a": "It got tired of going nowhere."
+  },
+  {
+   "j": "How does the Sun say goodbye?",
+   "a": "It doesn't. It just keeps beaming."
+  },
+  {
+   "j": "Why did the energy refuse to leave the party?",
+   "a": "Because it can never be destroyed."
+  },
+  {
+   "j": "What is a bulb's favourite subject?",
+   "a": "Light reading."
+  },
+  {
+   "j": "Why did the coconut get nervous on the tree?",
+   "a": "It had too much stored energy and was scared to let go."
+  },
+  {
+   "j": "What did the atta say to the marble?",
+   "a": "You've made quite an impression on me."
+  },
+  {
+   "j": "Why did the crow eat breakfast before flying?",
+   "a": "No food, no flight!"
+  },
+  {
+   "j": "What did the solar panel say on a cloudy day?",
+   "a": "I'm not feeling very bright today."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "In the Atta Crater Test, Kavya's three craters from 20 cm were 4 cm, 5 cm and 6 cm wide. What was the average width?",
+   "answer": "5 cm.",
+   "explain": "Add the three widths: 4 + 5 + 6 = 15 cm. Share 15 among 3 tries: 15 divided by 3 is 5. So the average width is 5 cm. The average is one number that stands for all three tries.",
+   "math_unit": "math.division.sharing-and-grouping.L3",
+   "how": "e1",
+   "why_maths": "Each drop gives a slightly different crater. The average gives one fair number for each height, so we can compare heights.",
+   "context": "This is about the Atta Crater Test, where you drop a marble into atta from different heights and measure the craters."
+  },
+  {
+   "problem": "Kavya dropped the marble from 20 cm, 40 cm and 80 cm. What is the pattern in the heights? What would the next height be?",
+   "answer": "Each height is double the one before. The next would be 160 cm.",
+   "explain": "20 doubled is 40. 40 doubled is 80. 80 doubled is 160. 160 cm is taller than most grown-ups, so a grown-up would need to stand on a stool.",
+   "math_unit": "math.patterns.number-patterns.L3",
+   "how": "e1",
+   "why_maths": "Doubling the height each time makes the change in the craters easier to see than adding a little each time.",
+   "context": "This is about the three drop heights in the Atta Crater Test."
+  },
+  {
+   "problem": "Here are made-up results: from 20 cm the crater was 4.5 cm wide, and from 80 cm it was 6.5 cm wide. The height went up 4 times. Did the width go up 4 times? How much wider was it?",
+   "answer": "No. It was only 2 cm wider, much less than 4 times.",
+   "explain": "4 times 4.5 cm would be 18 cm. The real crater was 6.5 cm. 6.5 minus 4.5 is 2, so it was 2 cm wider. The marble had 4 times the energy, but a wider crater must move much more atta. So the width grows slowly.",
+   "math_unit": "math.number-sense.comparing-ordering.L3",
+   "how": "e1",
+   "why_maths": "Comparing the change in height with the change in width shows a surprise: four times the energy does not mean four times the width.",
+   "chart": {
+    "type": "bar",
+    "title": "Made-up crater widths",
+    "x": "Height of the drop",
+    "y": "Crater width (cm)",
+    "data": [
+     {
+      "label": "20 cm",
+      "value": 4.5,
+      "emoji": "⚪"
+     },
+     {
+      "label": "40 cm",
+      "value": 5.5,
+      "emoji": "⚪"
+     },
+     {
+      "label": "80 cm",
+      "value": 6.5,
+      "emoji": "⚪"
+     }
+    ]
+   },
+   "context": "This is about the Atta Crater Test. The numbers are made up, but are like what families find."
+  },
+  {
+   "problem": "Lifting a 100 gram apple 1 metre takes about 1 joule. How many joules does it take to lift 5 such apples 1 metre? What about lifting 1 apple 3 metres?",
+   "answer": "About 5 joules, and about 3 joules.",
+   "explain": "Each apple lifted 1 metre takes about 1 joule, so 5 apples take 5 times as much: 5 joules. One apple lifted 3 metres is like 3 lifts of 1 metre each: 3 joules. More weight or more height means more energy.",
+   "math_unit": "math.multiplication.equal-groups.L3",
+   "why_maths": "Energy can be counted. Multiplying shows that lifting more, or higher, stores more energy, as in the bottle lift.",
+   "context": "This is about the joule, the unit scientists use to measure energy."
+  },
+  {
+   "problem": "In Pass the Sunshine, the yellow ball started with 6 sheets. One sheet was torn off into the HEAT bowl at each of the 5 passes. How many sheets were left in the ball? How many in the bowl? How many altogether?",
+   "answer": "1 sheet in the ball, 5 in the bowl, 6 altogether.",
+   "explain": "6 sheets minus 5 torn off leaves 1. The bowl has 5. 1 + 5 = 6, the same as at the start. Nothing was lost: it was only moved to the bowl.",
+   "math_unit": "math.addition-subtraction.word-problems.L3",
+   "how": "g2",
+   "why_maths": "Adding the two parts back together checks the big idea of the game: the total energy stays the same.",
+   "context": "This is about the game Pass the Sunshine, where a ball of yellow paper is passed along an energy chain."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.energy.L3",
+  "title": "Where Did It Come From?",
+  "note": "Topic-level song for Energy L3"
+ },
+ "links": [
+  {
+   "title": "PhET Energy Forms and Changes",
+   "url": "https://phet.colorado.edu/en/simulations/energy-forms-and-changes",
+   "kind": "simulation",
+   "why": "A free online simulation. Heat water with a burner, the Sun or a bicycle, and watch the energy change from one form to another."
+  },
+  {
+   "title": "PhET Energy Skate Park: Basics",
+   "url": "https://phet.colorado.edu/en/simulations/energy-skate-park-basics",
+   "kind": "simulation",
+   "why": "A free simulation. A skater rolls up and down a ramp, and bars show stored energy turning into movement energy and back."
+  },
+  {
+   "title": "Visvesvaraya Industrial and Technological Museum",
+   "url": "https://www.vismuseum.gov.in/",
+   "kind": "place",
+   "where": "Bengaluru",
+   "why": "A large science museum with an engine hall and hands-on science galleries, good for seeing machines that turn one form of energy into another."
+  },
+  {
+   "title": "Birla Industrial and Technological Museum",
+   "url": "https://www.bitm.gov.in/",
+   "kind": "place",
+   "where": "Kolkata",
+   "why": "A large science museum with hands-on galleries on science and engineering."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-marbles",
+   "item": "A small bag of glass marbles (golis)",
+   "kind": "material",
+   "why": "Marbles are round, smooth and all about the same size, so they make neat craters. A small round lime works if you have none.",
+   "url": "https://www.amazon.in/s?k=glass+marbles+kids",
+   "used_in": [
+    "e1",
+    "c1",
+    "c2"
+   ]
+  },
+  {
+   "id": "b-thermometer",
+   "item": "A kitchen or aquarium thermometer",
+   "kind": "tool",
+   "why": "Optional. Shows how many degrees warmer the sunny water is. A fever thermometer only reads from about 35 degrees, so it won't work.",
+   "url": "https://www.amazon.in/s?k=kitchen+thermometer+digital",
+   "used_in": [
+    "e2"
+   ]
+  }
+ ],
+ "warmup": [
+  {
+   "q": "What is energy?",
+   "a": "What is needed to make something happen: move, light up, heat up or make a sound."
+  },
+  {
+   "q": "Name one form of energy.",
+   "a": "Movement, light, heat, sound, electrical or stored energy."
+  },
+  {
+   "q": "Where does a torch get its energy?",
+   "a": "From the cells inside it."
+  },
+  {
+   "q": "Where did the energy in your breakfast first come from?",
+   "a": "From the Sun, caught by plants."
+  },
+  {
+   "q": "Which makes a wider crater in atta: a marble dropped from 20 cm or from 80 cm?",
+   "a": "From 80 cm."
+  },
+  {
+   "q": "Is energy ever destroyed?",
+   "a": "No. It only passes on and changes form."
+  },
+  {
+   "q": "What makes the wind blow?",
+   "a": "The Sun warming some places more than others."
+  },
+  {
+   "q": "What is the unit for measuring energy?",
+   "a": "The joule."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "a1",
+   "story",
+   "e1",
+   "big_questions",
+   "cards",
+   "g2",
+   "c1"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "e1",
+   "summary",
+   "terms",
+   "explanations",
+   "story",
+   "a2",
+   "g1",
+   "videos",
+   "ws-core",
+   "e2",
+   "a3",
+   "g2",
+   "agreed",
+   "challenging",
+   "a4",
+   "p1",
+   "ws-stretch",
+   "c1",
+   "c2",
+   "big_questions",
+   "ws-challenge",
+   "open_questions",
+   "quiz"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "a2",
+   "e2",
+   "g2",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "ideas/by_topic/energy.md: Grade concept grid for Energy, Grade 1 ('Energy is what makes things move, warm, light up. Running, shining, and heating all need energy') and Grade 2 ('Energy changes form: food to motion, battery to light, sunlight to plant growth'; 'nothing comes from nothing; change is a trade'; conservation; 'perpetual toys still slow down')",
+   "ideas/by_topic/energy.md: stored energy activities (lift a weight and drop it, roll a toy car down books), chain reaction ideas (domino cascades, mousetrap chains), and the history list ('Heat is motion of particles, not a substance'; '1st Law: energy is conserved')",
+   "ideas/by_topic/energy.md: Energy balance of Earth row (sunlight warming jars and windowsills), used for Sunshine in a Tumbler"
+  ],
+  "science": [
+   "Leibniz, Brevis demonstratio erroris memorabilis Cartesii, Acta Eruditorum, 1686 (vis viva, against Descartes's quantity of motion)",
+   "'s Gravesande, Essai d'une nouvelle théorie du choc des corps, 1722 (balls dropped into clay)",
+   "du Châtelet, Institutions de physique, 1740 (vis viva and the clay experiments)",
+   "Young, A Course of Lectures on Natural Philosophy and the Mechanical Arts, 1807 (the word 'energy')",
+   "Joule, 'On the mechanical equivalent of heat', Philosophical Transactions of the Royal Society, 1850",
+   "Feynman, Leighton and Sands, The Feynman Lectures on Physics, Volume 1, Chapter 4, 1963 ('we have no knowledge of what energy is')",
+   "Uehara, Ambroso, Ojha and Durian, 'Low-speed impact craters in loose granular media', Physical Review Letters 90, 2003 (crater width grows slowly with drop height)",
+   "Bethe, 'Energy production in stars', Physical Review 55, 1939",
+   "Tryon, 'Is the Universe a Vacuum Fluctuation?', Nature 246, 1973"
+  ]
+ },
+ "roots": {
+  "context": "We have learned that energy makes things happen, and that it is passed on from one thing to another. Now we ask what energy tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "The marble dropped from higher dug a wider crater and made a louder thud. The extra energy came from your arm, which lifted it higher. Your arm's energy came from food, and the food's energy from sunlight. So that crater in the atta was dug, step by step, with sunlight.",
+   "habit": "We speak of moving, lighting, heating and sounding as separate happenings, and we think each thing makes its own energy. But nothing makes the energy it uses. It is passed on from somewhere else, and you can follow it back, step by step.",
+   "evidence": "From 80 cm the marble made a wider crater and a louder thud than from 20 cm. Lifting the water bottle above your head ten times tired your arm more than lifting it to your knee. More energy went in when you lifted higher, and more came out in the crater and the sound."
+  },
+  "three": {
+   "who_am_i": "Every move you make, and the warmth of your body, runs on energy from your food. That energy was sunlight caught by plants.",
+   "what_is_life": "A plant catches sunlight and stores the Sun's energy in food. Every animal, you too, lives on that store, passed from one living thing to the next.",
+   "what_is_this_world": "Wind, rain, rivers and the food on your plate are all moved by the Sun's energy. Almost everything that happens on Earth starts with sunlight."
+  },
+  "thread": "Moving, lighting, heating and sounding look like four different things. Underneath, they are one thing, energy, showing up in four ways. It is never made fresh by the thing that uses it. It passes from the Sun to a leaf, to a grain, to your arm, to a falling marble, to a thud, and the total never changes. So all the different happenings of a day are one supply of energy, passed from hand to hand.",
+  "teachings": [
+   {
+    "source": "Taittiriya Upanishad 3.2 (Bhrigu Valli)",
+    "teaching": "Bhrigu asks his father Varuna what the source of all things is. His first answer is food: from food beings are born, by food they live, and into food they go when they die.",
+    "link": "Your running, your warmth and the marble you lifted all ran on energy from food. When you die, your body becomes food for other living things, and the energy passes on again."
+   },
+   {
+    "source": "Heraclitus, fragment 90 (Diels-Kranz numbering), about 500 BCE",
+    "teaching": "All things are an exchange for fire, and fire for all things, as goods are exchanged for gold and gold for goods.",
+    "link": "Energy works like that gold. Sunlight is exchanged for rice, rice for movement, movement for a crater and a sound. The form changes, but the amount is kept."
+   },
+   {
+    "source": "Thich Nhat Hanh, The Heart of Understanding, 1988",
+    "teaching": "Look deeply into a sheet of paper and you can see the sunshine in it. Without sunshine, the tree could not grow, and there would be no paper.",
+    "link": "Look deeply at the atta in your tray, or the idli on your plate, and you can see the sunshine in them too. The wheat and the rice grew from it."
+   }
+  ],
+  "science": [
+   {
+    "text": "Energy is never made or destroyed. It only passes on and changes form. This is the conservation of energy.",
+    "status": "settled"
+   },
+   {
+    "text": "Almost all the energy used by life on Earth comes from the Sun, caught by plants and tiny sea life. A few deep-sea communities live on chemical energy from inside the Earth instead.",
+    "status": "settled"
+   },
+   {
+    "text": "What energy is, underneath, nobody can say. Richard Feynman said that we have no knowledge of what energy is, only rules for counting it.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "Many physicists",
+   "view": "Energy is a number that scientists work out, and it stays the same when nothing gets in or out. Saying that sunlight dug the crater is a pleasant way of telling the story, but the number itself tells us nothing about meaning or oneness. It is simply a useful tool for predicting what will happen."
+  },
+  "practice": {
+   "title": "Sunshine in my hand",
+   "mins": 3,
+   "say": "Let's sit by a sunny window. Hold one palm in the sunshine and close your eyes. Feel it slowly warm up. That light left the Sun about eight minutes ago. Now put that hand on your chest. Feel your own warmth and your heartbeat. That warmth came from your breakfast, which grew in sunshine. Breathe in slowly, and out slowly, three times.",
+   "kid": "Sit by a sunny window. Hold your palm in the sunshine. Close your eyes. Feel it get warm. That light left the Sun eight minutes ago. Now put your hand on your chest. Feel your warmth and your heartbeat. That warmth came from your food. Breathe in and out slowly, three times."
+  },
+  "ask": [
+   "If almost all your energy came from the Sun, is part of the Sun in you?",
+   "When the marble stopped in the atta, its energy spread out as a tiny bit of warmth. Is it lost, or only harder to find?",
+   "A plant decides how to spend the sunlight they catch: on roots, leaves or seeds. How does your body decide how to spend your energy?"
+  ],
+  "art": "A golden line of light running from the Sun to a rice field, to a plate of idli, to a child's arm lifting a marble, to a crater in a tray of atta."
+ },
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. Changes made: the atta must be at least 3 cm deep, or a marble from 80 cm hits the bottom and the craters stop growing, so the materials ask for a container 4 cm deep and about half a kilo of atta. A dusting of ragi flour, cocoa or haldi on top makes the thrown atta and the crater edge easy to see and measure. The child measures the hole, not the splash lines, with a ruler held just above it. The crater from four times the height is wider but usually far less than four times as wide, so the unit says so and turns it into a question instead of promising a big jump. A marble is too light for a child to feel the extra effort of lifting higher, so a 1 litre water bottle lift was added. Sunshine in a Tumbler needs direct sun for a full hour: the step says to check where the sunny patch moves, and to try another day if it is cloudy. A fever thermometer only reads from about 35 degrees, so it is ruled out. The paper snake needs a diya or tea light, a grown-up, and at least 20 cm between flame and paper. Both games work for one child alone. Marbles are a choking risk for children under 3. Timings were checked step by step. The spine fits about 85 minutes.",
+ "how_we_found_out": {
+  "story": "In the 1600s, scientists argued about what a moving ball carries with it. René Descartes, a French thinker, said it was the ball's size times its speed. So a ball moving twice as fast should hit twice as hard. In 1686, Gottfried Leibniz, a German thinker, disagreed. He said it was the ball's weight times its speed times its speed again. Then twice as fast would hit four times as hard. In 1722, Willem 's Gravesande, a Dutch scientist, tested it. He dropped brass balls into soft clay from different heights and measured the dents. A ball that landed twice as fast did not make a dent twice as deep. It made a dent about four times as deep. Émilie du Châtelet, a French scientist, saw what this meant. In her physics book of 1740, she explained that the clay dents agreed with Leibniz. Her book was read and argued about across Europe. In 1807, Thomas Young, an English scientist, began to call this quantity energy. Your Atta Crater Test is a small copy of the clay test.",
+  "who": "Willem 's Gravesande, a Dutch scientist, and Émilie du Châtelet, a French scientist, testing an idea of Gottfried Leibniz",
+  "when": "1686 (Leibniz's idea), 1722 (the clay test) and 1740 (du Châtelet's book)",
+  "wrong_idea": "Many scientists, following Descartes, thought a ball moving twice as fast carries twice as much and hits twice as hard. The clay dents showed that twice as fast does about four times as much."
+ }
+}

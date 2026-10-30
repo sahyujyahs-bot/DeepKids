@@ -153,7 +153,7 @@
      "title": "The woman who measured the weather",
      "mins": 8,
      "ref": "v1",
-     "do": "Tell voice v1: 'Anna Mani grew up in Kerala about 100 years ago. She loved reading and wanted to be a scientist at a time when few women were allowed to. She worked in C. V. Raman's lab in Bengaluru, and wrote five research papers, but she was never given her doctor's degree because she had no master's degree. She went on to the India Meteorological Department, the government office that forecasts weather. There she built instruments that measure wind, sunshine and rain, so that forecasts could be made from good measurements.' Say: 'Weather forecasts say things like 70 percent chance of rain. That means: on days like this one, it rained on about 7 out of 10.' Ask v1's question."
+     "do": "Tell voice v1: 'Anna Mani grew up in Kerala about 100 years ago. She loved reading and wanted to be a scientist at a time when few women were allowed to. She worked in C. V. Raman's lab in Bengaluru, and wrote five research papers, but she was never given her doctor's degree because she had no master's degree. She went on to the India Meteorological Department, the government office that forecasts weather. There she built instruments that measure wind, sunshine and ozone, so that forecasts could be made from good measurements.' Say: 'Weather forecasts say things like 70 percent chance of rain. That means: on days like this one, it rained on about 7 out of 10.' Ask v1's question."
     }
    ],
    "need": [
@@ -186,7 +186,7 @@
      "title": "A doctor who studied dice",
      "mins": 8,
      "ref": "v3",
-     "do": "Show a die (from a ludo or snakes and ladders set). Ask: 'How many faces does it have?' (6.) 'How many have a six?' (1.) 'So what is the chance of rolling a six?' (1 in 6.) Then tell voice v3, Gerolamo Cardano, the Italian doctor who worked out dice chances by counting the ways, about 470 years ago. Ask v3's question."
+     "do": "Show a die (from a ludo or snakes and ladders set). Ask: 'How many faces does it have?' (6.) 'How many have a six?' (1.) 'So what is the chance of rolling a six?' (1 in 6.) Then tell voice v3, Gerolamo Cardano, the Italian doctor who worked out dice chances by counting the ways, about 460 years ago. Ask v3's question."
     },
     {
      "kind": "think",
@@ -220,7 +220,7 @@
      "title": "The lucky charm test",
      "mins": 15,
      "ref": "e3",
-     "do": "Do Experiment e3. Ask: 'Do you have something lucky, like a favourite pencil or a toy?' Let them choose it. Ask: 'Do you think holding it will give you more heads?' Write the guess. Your child holds the charm in the other hand and tosses the coin 20 times. Tally heads. Then put the charm in another room and toss 20 times again. Tally heads. Compare. Ask: 'Was there a big difference? Could a small difference be just chance, like the streaks we saw on Day 2?' Say: 'To find out if something is a cause, we test it with and without, many times. Scientists call the 'without' test the comparison.'"
+     "do": "Do Experiment e3. Ask: 'Do you have something lucky, like a favourite pencil or a toy?' Let them choose it. Ask: 'Do you think holding it will give you more heads?' Write the guess. Your child holds the charm in the other hand and tosses the coin 20 times. Tally heads. Then put the charm in another room and toss 20 times again. Tally heads. Compare. Ask: 'Was there a big difference? Could a small difference be just chance, like the streaks we saw on Day 2?' Say: 'To find out if something is a cause, we test it with and without, many times. Scientists call the test without the charm the control.'"
     },
     {
      "kind": "ws",
@@ -253,20 +253,20 @@
      "title": "Colour in hot and cold water",
      "mins": 15,
      "ref": "e4",
-     "do": "Do Experiment e4. Fill one clear glass with cold water from the tap. A grown-up fills a second clear glass with hot water (hot to touch, not boiling). Let both stand still for one minute. Ask: 'If I drop a pinch of colour in each without stirring, what will happen? Which will spread faster?' Drop a small pinch of kesari food colour (or one drop of ink) into the middle of each at the same moment. Do not stir. Watch for 5 minutes and draw both glasses at 1 minute and at 5 minutes. Say: 'The colour is made of very tiny pieces. They spread out by themselves, from where there are many to where there are few. This is called diffusion. In hot water the tiny pieces move faster, and the water swirls more, so it spreads faster.' Then ask: 'Can we make the colour gather back into one spot?' (No. Stirring only spreads it more.)"
+     "do": "Do Experiment e4. Fill one clear glass with cold water from the tap. A grown-up fills a second clear glass with hot water (hot to touch, not boiling). Let both stand still for one minute. Ask: 'If I drop a pinch of colour in each without stirring, what will happen? Which will spread faster?' Drop one drop of ink or liquid food colour (or a tiny pinch of kesari powder) into the middle of each at the same moment. Do not stir. Watch for 5 minutes and draw both glasses at 1 minute and at 5 minutes. Say: 'The colour is made of very tiny pieces. They spread out by themselves, from where there are many to where there are few. This is called diffusion. In hot water the tiny pieces move faster, and the water swirls more, so it spreads faster.' Then ask: 'Can we make the colour gather back into one spot?' (No. Stirring only spreads it more.)"
     },
     {
      "kind": "act",
      "title": "Smell across the room",
      "mins": 6,
-     "do": "Your child stands in the far corner of the room with eyes closed. In the opposite corner, crush 2 elaichi pods between your fingers, or open a jar of jasmine oil or coffee powder. Your child raises a hand when they first smell it. Count the seconds. Say: 'Tiny pieces from the elaichi spread through the air until they reached your nose. That is diffusion in air. Moving air carries them faster.'"
+     "do": "Your child stands in the far corner of the room with eyes closed. In the opposite corner, spray perfume once, or crush 4 elaichi pods between your fingers. Your child raises a hand when they first smell it. Count the seconds. If nothing reaches them in 3 minutes, they take two steps closer. Say: 'Tiny pieces of the smell spread through the air until they reached your nose. That is diffusion in air. Moving air carries them faster.'"
     },
     {
      "kind": "talk",
      "title": "The man who counted the ways",
      "mins": 10,
      "ref": "v2",
-     "do": "Tell voice v2, Ludwig Boltzmann. Say it simply: 'He said everything is made of tiny pieces called atoms, always jiggling. If the pieces of colour move about at random, there are only a few ways for them to stay bunched in one spot, and a huge number of ways to be spread all through the water. So they nearly always end up spread out.' Scientists call how mixed and spread out things are entropy. Left alone, entropy goes up. Ask v2's question."
+     "do": "Tell voice v2, Ludwig Boltzmann. Say it simply: 'He said everything is made of tiny pieces called atoms, always jiggling. If the pieces of colour move about at random, there are only a few ways for them to stay bunched in one spot, and a huge number of ways to be spread all through the water. So they nearly always end up spread out.' Say: 'Scientists call how mixed and spread out things are entropy. Left alone, entropy goes up.' Ask v2's question."
     }
    ],
    "need": [
@@ -274,7 +274,7 @@
     "cold water and hot water",
     "kesari food colour or ink",
     "paper and crayons",
-    "2 elaichi pods, or jasmine oil or coffee powder",
+    "perfume, or 4 elaichi pods",
     "a clock or phone timer"
    ]
   },
@@ -294,7 +294,7 @@
      "title": "The rice and dal jar",
      "mins": 14,
      "ref": "a2",
-     "do": "Do Activity a2. In a clear jar or bottle, pour half a cup of rice, then half a cup of toor dal on top: two neat layers. Close the lid tightly. Ask: 'If you shake it, will it mix? If you keep shaking, will it ever go back into two layers?' Your child shakes 10 times and looks, then 50 more times and looks. (Mixed, and it never goes back.) Now tip one spoonful onto a plate and time how long it takes to sort that one spoonful into a rice heap and a dal heap with fingers. Say: 'Mixing took a few seconds and happened by itself. Sorting takes minutes and needs your work. There are very few ways to be in two neat layers, and a huge number of ways to be mixed.'"
+     "do": "Do Activity a2. In a clear jar or bottle big enough to stay half empty, pour half a cup of rice, then half a cup of toor dal on top: two neat layers. Close the lid tightly. Ask: 'If you shake it, will it mix? If you keep shaking, will it ever go back into two layers?' Your child shakes 10 times and looks, then 50 more times and looks. (Mixed, and it never goes back.) Now tip one spoonful onto a plate and time how long it takes to sort that one spoonful into a rice heap and a dal heap with fingers. Say: 'Mixing took a few seconds of shaking, with no plan at all. Sorting takes minutes and needs your work. There are very few ways to be in two neat layers, and a huge number of ways to be mixed.'"
     },
     {
      "kind": "talk",
@@ -310,7 +310,7 @@
     }
    ],
    "need": [
-    "a clear jar or bottle with a lid",
+    "a clear jar or bottle with a lid, big enough to stay half empty",
     "half a cup of rice",
     "half a cup of toor dal",
     "a spoon and a plate",
@@ -334,13 +334,13 @@
      "title": "Notebook dominoes",
      "mins": 12,
      "ref": "a3",
-     "do": "Do Activity a3. Stand 10 to 15 notebooks or thin books upright in a line on the floor, each about a palm-width from the next. Ask: 'If I push the first one, what will happen to the last one?' Your child pushes the first. Say: 'The push was the cause. Each book falling was an effect, and each effect became the cause of the next fall. This is called a chain reaction.' Now take out one book from the middle and try again. Ask: 'Why did it stop?' (The chain was broken: no book to pass on the push.) Try a gap of two palms, then half a palm, and see which work."
+     "do": "Do Activity a3. Stand 10 to 15 stiff notebooks or thin hardback books upright in a line on the floor, each about a palm-width from the next. Ask: 'If I push the first one, what will happen to the last one?' Your child pushes the first. Say: 'The push was the cause. Each book falling was an effect, and each effect became the cause of the next fall. This is called a chain reaction.' Now take out one book from the middle and try again. Ask: 'Why did it stop?' (The chain was broken: no book to pass on the push.) Try a gap of two palms, then half a palm, and see which work."
     },
     {
      "kind": "talk",
      "title": "Loops and delays",
      "mins": 7,
-     "do": "Draw a circle with four stops: seed, tree, fruit, seed. Ask: 'Which comes first?' (Each one causes the next, so it goes round and round. This is a loop.) Then ask: 'If you plant a mango seed today, when will you eat a mango from that tree?' (Not for years: a mango tree grown from seed usually takes 5 or more years to fruit.) Say: 'Sometimes the effect comes long after the cause. That is a delay. Tiny causes can also add up: a tap dripping one drop a second can fill a bucket in a day or two.'"
+     "do": "Draw a circle with four stops: seed, tree, fruit, seed. Ask: 'Which comes first?' (Each one causes the next, so it goes round and round. This is a loop.) Then ask: 'If you plant a mango seed today, when will you eat a mango from that tree?' (Not for years: a mango tree grown from seed usually takes 5 or more years to fruit.) Say: 'Sometimes the effect comes long after the cause. That is a delay. Tiny causes can also add up: a tap dripping one drop a second can fill a bucket in a few days.'"
     },
     {
      "kind": "outdoor",
@@ -616,7 +616,7 @@
      [
       {
        "t": "mcq",
-       "p": "Farhan stands 12 notebooks in a row and pushes the first one. The row stops falling at the sixth. What is the most likely cause?",
+       "p": "Fathima stands 12 notebooks in a row and pushes the first one. The row stops falling at the sixth. What is the most likely cause?",
        "opts": [
         "The gap after the sixth was too big",
         "The notebooks were tired",
@@ -888,7 +888,7 @@
     "2 clear glasses, or 2 clear plastic bottles with tops cut off by a grown-up",
     "cold tap water",
     "hot water from a kettle or geyser (hot to touch, not boiling)",
-    "a small pinch of kesari food colour, or ink",
+    "ink or liquid food colour, or a tiny pinch of kesari powder",
     "paper and crayons",
     "a timer"
    ],
@@ -896,12 +896,12 @@
     "Fill one glass with cold water.",
     "A grown-up fills the other glass with hot water.",
     "Let both stand still for one minute so the water stops moving.",
-    "Drop a small pinch of colour into the middle of each glass at the same moment. Do not stir.",
+    "Drop one drop of ink or food colour into the middle of each glass at the same moment. Do not stir.",
     "Watch for 5 minutes. Draw both glasses at 1 minute and at 5 minutes.",
     "Leave the cold glass for an hour and look again."
    ],
    "predict": "Ask: 'Will the colour stay in one spot? Which glass will turn coloured first?'",
-   "observe": "In the hot glass the colour swirls and spreads through most of the water in a few minutes. In the cold glass it sinks and spreads slowly. After an hour, the cold glass is evenly coloured too. Neither ever gathers back into a spot.",
+   "observe": "In the hot glass the colour swirls and spreads through most of the water in a few minutes. In the cold glass it sinks and spreads slowly. After an hour, the colour has spread much further in the cold glass too. Neither ever gathers back into a spot.",
    "why": "Water and colour are made of very tiny pieces that are always moving and bumping. The colour pieces spread out from where there are many to where there are few. This is diffusion. In hot water the tiny pieces move faster, and warm water also swirls more, so the colour spreads faster. There are only a few ways for the colour to stay in one spot and a huge number of ways to be spread out, so it spreads and stays spread.",
    "safety": "Only a grown-up pours the hot water. Use water that is hot, not boiling, and keep the glass on a flat table away from the edge.",
    "time": "15 min + a look after an hour"
@@ -935,7 +935,7 @@
    "day": 6,
    "mins": 14,
    "need": [
-    "a clear jar or bottle with a lid",
+    "a clear jar or bottle with a lid, big enough to stay half empty",
     "half a cup of rice",
     "half a cup of toor dal",
     "a spoon and a plate",
@@ -983,7 +983,7 @@
     "Come back after 20 minutes to an hour.",
     "Look for a line of ants between the sugar and a crack or corner.",
     "Draw the trail.",
-    "Put a finger across the trail for a moment (without hurting any ant) and watch how they find the way again.",
+    "Wipe a finger once across the trail, a little away from any ant, to rub off the scent. Watch the ants stop, search, and find the way again.",
     "If no ants come, leave the plate overnight and look in the morning."
    ],
    "outcome": "A drawing of an ant trail, and the idea that order can appear when each being follows a simple rule, with no plan and no leader."
@@ -1073,7 +1073,7 @@
    "Bee and flower both gain: move on 2",
    "Holding a lucky charm? Toss a coin. Either way, stay: charms don't change coins",
    "Kolam rule: go round the dot and come home. Move on 1",
-   "Two to go: SURE or CHANCE?",
+   "Nearly home: SURE or CHANCE?",
    "HOME"
   ]
  },

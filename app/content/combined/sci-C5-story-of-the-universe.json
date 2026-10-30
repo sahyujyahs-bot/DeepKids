@@ -4,7 +4,7 @@
  "subj": "sci",
  "level": 5,
  "n": "story-of-the-universe",
- "title": "The story of the universe: how we measure its age, its growth and what it is made of",
+ "title": "The story of the universe: how we know its age and what it is made of",
  "source": "DeepKids Combined, The Deep End: a DeepKids topic from the founder's notebook (the grids on the expansion of the universe, the cosmic microwave background, the cosmic web, gravitational lensing and types of galaxies). No board teaches it at this class. No textbook needed.",
  "summary": "A galaxy's light carries a barcode, and the barcode tells how fast the galaxy is moving away. Your child reads light's barcode with an old CD, measures redshift on paper strips, and uses the Hubble-Lemaître law to work out the age of the universe from distances and speeds. They see why far lights look dim, meet the live argument over how fast the universe grows, and learn how exploding stars showed the growth is speeding up. Last, they see why the young universe was a fog, how tiny ripples grew into the cosmic web, and why the hydrogen in a tumbler of water is almost 13.8 billion years old.",
  "builds_on": "In the Class 3 lesson on the story of the universe, your child met galaxies, used a balloon to see that space is growing, heard about the Big Bang and its afterglow, and found hidden weight the way Vera Rubin found dark matter. This rung puts numbers on all of it: speeds from redshift, distances from standard candles, the age from dividing one by the other, and the recipe of the universe. In secondary school physics your child will meet the Doppler effect, nuclear fusion and Einstein's relativity, which explain these results more fully.",
@@ -276,7 +276,7 @@
      "kind": "warmup",
      "title": "The weak problem in our sums",
      "mins": 4,
-     "do": "Ask: 'Yesterday I told you how far Galaxy A is. Who measured that, and how?' Let your child think. Say: 'Speeds are easy to measure from redshift. Distances are the hard part. Today we see how astronomers measure them.'"
+     "do": "Ask: 'Yesterday we got distances from the Hubble-Lemaître law. But to find that law, someone first had to measure how far galaxies are. How could they?' Let your child think. Say: 'Speeds are easy to measure from redshift. Distances are the hard part. Today we see how astronomers measure them.'"
     },
     {
      "kind": "act",
@@ -386,7 +386,7 @@
      "title": "Torch through fog",
      "mins": 12,
      "ref": "e3",
-     "do": "Do Experiment e3. Ask the guess question first. After it, say: 'For 380,000 years after the Big Bang, free electrons scattered light the way the milk does. Then the universe cooled to below 3,000 degrees Celsius, electrons joined protons to make atoms, and light could travel straight. That light is the cosmic microwave background, the afterglow you met in Class 3.'"
+     "do": "Do Experiment e3. Ask the guess question first. After it, say: 'For 380,000 years after the Big Bang, free electrons scattered light the way the milk does. Then the universe cooled to about 2,700 degrees Celsius, electrons joined protons to make atoms, and light could travel straight. That light is the cosmic microwave background, the afterglow you met in Class 3.'"
     },
     {
      "kind": "talk",
@@ -600,7 +600,7 @@
         "a tube light",
         "a CFL bulb",
         "a candle flame",
-        "an orange sodium street lamp"
+        "a white LED bulb"
        ],
        "cats": [
         "a smooth band of colours",
@@ -741,7 +741,7 @@
       },
       {
        "t": "write",
-       "p": "Scientists disagree about how fast the universe is growing today. Adam Riess and his team says: 'Our ladder of Cepheids and supernovae gives about 73. We have checked it many ways. Something may be missing from our idea of the early universe.' Wendy Freedman and her team says: 'Our measurements with the James Webb Space Telescope, using other kinds of stars too, give about 70. The gap may be smaller than it looks.' The Planck team says: 'The ripples in the afterglow, read with the standard model of the universe, give about 67.' Which view do you lean towards? What new measurement would change your mind? Then answer back from another side.",
+       "p": "Scientists disagree about how fast the universe is growing today. Adam Riess and his team say: 'Our ladder of Cepheids and supernovae gives about 73. We have checked it many ways. Something may be missing from our idea of the early universe.' Wendy Freedman and her team say: 'Our measurements with the James Webb Space Telescope, using other kinds of stars too, give about 70. The gap may be smaller than it looks.' The Planck team says: 'The ripples in the afterglow, read with the standard model of the universe, give about 67.' Which view do you lean towards? What new measurement would change your mind? Then answer back from another side.",
        "lines": 5,
        "a": "A strong answer picks one view and names its evidence (the distance ladder, or the afterglow). It says what could settle it, for example a third method that uses neither, and answers back fairly from another side."
       }
@@ -1045,7 +1045,7 @@
     "Look at the grid: a few big heaps and many empty squares.",
     "Blow gently through the straw into the soapy water to make a heap of foam. Look at it closely: thin walls meet in lines, around empty bubbles."
    ],
-   "outcome": "Your child sees that tiny starting differences, with a pull towards whatever is bigger, grow into big clumps and empty spaces. The grain rule is simpler than gravity, which pulls from every distance, so it makes heaps rather than threads."
+   "outcome": "Your child sees that tiny starting differences, with a pull towards whatever is bigger, grow into big clumps and empty spaces. The grain rule is much simpler than gravity, so it makes heaps, not the walls and threads of the real cosmic web."
   },
   {
    "id": "a5",
@@ -1060,7 +1060,7 @@
     "Parts: Gravity and a far galaxy. The grown-up plays Gravity, standing on the line. The child is the galaxy, holding the other end of the dupatta, close to Gravity.",
     "Scene 1, the young universe. The galaxy walks backwards away from Gravity, because space is growing. Gravity pulls the dupatta firmly. The galaxy slows down. Gravity says: 'You are close. I can hold you back.'",
     "Scene 2, billions of years later. The galaxy is much farther away. Gravity's pull is gentle now, because gravity gets weaker with distance. The galaxy still walks backwards, slowly.",
-    "Scene 3, about 5 billion years ago. The child becomes Dark Energy too, and says: 'I come with space itself. The more space there is, the more of me there is.' The galaxy starts walking backwards faster and faster. Gravity lets go of the dupatta.",
+    "Scene 3, about 5 billion years ago. The galaxy now speaks for Dark Energy and says: 'I come with space itself. The more space there is, the more of me there is.' The galaxy walks backwards faster and faster. Gravity still pulls, but too gently to slow the galaxy down.",
     "Swap parts and act it again."
    ],
    "outcome": "Your child can explain why the growth of the universe slowed at first and then sped up."
@@ -1077,7 +1077,7 @@
     "3 small plates"
    ],
    "steps": [
-    "Mix all 100 grains in one bowl. Say: 'This bowl is everything in the universe.'",
+    "Mix all 100 grains in one heap. Say: 'This heap is everything in the universe.'",
     "Your child sorts them onto three plates. Rice: dark energy, 68 out of 100. Moong: dark matter, 27 out of 100. Rajma: ordinary matter, the stuff of stars, planets, air and us, 5 out of 100.",
     "Say: 'Most of the ordinary matter is thin gas between the stars and galaxies. All the stars and planets together are less than one of these 5 rajma.'",
     "Ask: 'What fraction of the universe do scientists really understand?'"
@@ -1303,7 +1303,7 @@
    "At first I was not an atom at all. In the first second after the Big Bang, I was a single proton, a tiny speck with a positive electric charge. Everything was packed close together and was hotter than the middle of any star. Space was growing fast, and it cooled as it grew.",
    "In the first few minutes, many protons near me were squeezed together and fused into helium. I was not. I stayed alone, a plain hydrogen nucleus. About three of every four parts of the new matter stayed hydrogen, like me.",
    "Then came a long, strange time. The universe was a glowing fog. Electrons raced about everywhere, and light could not travel in a straight line. Light bumped into an electron, bounced off, and bumped into another. I could not hold on to an electron either. Each time one came near, a flash of light knocked it away. It was bright everywhere, but nothing could be seen. This went on for 380,000 years.",
-   "As space stretched, the light grew weaker, and the fog cooled to below 3,000 degrees Celsius. One day an electron came close to me, and no light was strong enough to knock it off. It settled around me. At last I was a whole atom. All over the universe, at almost the same time, the same thing happened. With the electrons held inside atoms, the light had nothing left to bump into. It went off in straight lines in every direction, and the fog was gone.",
+   "As space stretched, the light grew weaker, and the fog cooled to about 2,700 degrees Celsius. One day an electron came close to me, and no light was strong enough to knock it off. It settled around me. At last I was a whole atom. All over the universe, at almost the same time, the same thing happened. With the electrons held inside atoms, the light had nothing left to bump into. It went off in straight lines in every direction, and the fog was gone.",
    "I did not see where the light went. For more than a hundred million years there was only dark. No stars had been born yet. I drifted in a thin gas of hydrogen and helium. But the gas was not perfectly even. Where it was a tiny bit thicker, gravity pulled a tiny bit harder. The thick places pulled in more gas and became thicker still. I was pulled along with them, slowly, into a long thread of gas.",
    "Then the first stars lit up. One of them formed near me, a huge star many times heavier than the Sun. Deep inside, hydrogen atoms like me were being fused into helium, and then into carbon and oxygen. I was afraid. In that heat I would stop being hydrogen. But I stayed outside, in the cold gas. The star lived only a few million years. Then it exploded and threw its new atoms out into space. One oxygen atom from that star drifted close to me.",
    "Billions of years passed. Our gas became part of a great spiral galaxy, the Milky Way. In a cold, dark cloud, the oxygen atom, another hydrogen atom and I joined together as a molecule of water. We froze onto a speck of dust as a tiny grain of ice. Then the cloud began to fall inward. Most of the gas fell into the middle and became a new star, the Sun. If I had fallen there, the Sun would have fused me long ago. Our ice grain stayed out in the spinning disc around it, where planets were forming. We became part of the Earth, 4.6 billion years ago.",

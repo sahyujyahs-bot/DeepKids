@@ -109,7 +109,7 @@
      "kind": "talk",
      "title": "Zeros that people chose",
      "mins": 9,
-     "do": "Ask: 'In a lift, what does 0 or G mean?' (The ground floor.) 'Is the ground floor the lowest floor?' (No. Many buildings have a basement, B1, below it.) Say: 'Some zeros are just a starting point that people chose. 0 metres means sea level. 0 °C is where water freezes. In 1742, Anders Celsius first made his scale the other way up, with 0 for boiling and 100 for freezing. Others turned it round after he died.' Ask: 'Our calendar goes from 1 BCE straight to 1 CE. Why do you think it has no year zero?' Good answer: 'The calendar was made in Europe before zero reached Europe.' That is true: it was worked out in 525 CE."
+     "do": "Ask: 'In a lift, what does 0 or G mean?' (The ground floor.) 'Is the ground floor the lowest floor?' (No. Many buildings have a basement, B1, below it.) Say: 'Some zeros are just a starting point that people chose. 0 metres means sea level. 0 °C is where water freezes. In 1742, Anders Celsius first made his scale the other way up, with 0 for boiling and 100 for freezing. Others turned it round after he died.' Ask: 'Our calendar goes from 1 BCE straight to 1 CE. Why do you think it has no year zero?' Good answer: 'The calendar was made in Europe before zero reached Europe.' Say: 'That is right. The years were first counted this way in Rome in 525 CE.'"
     },
     {
      "kind": "act",
@@ -191,7 +191,7 @@
      "kind": "warmup",
      "title": "Back to the pump",
      "mins": 4,
-     "do": "Ask: 'In the story, Saroja akka said nothing can pull water. What did she say pushes it up the pipe?' Good answer: 'The air pressing on the water.' Ask: 'Do you believe her? How could we test it?' Let your child suggest a test."
+     "do": "Ask: 'In the story, Saroja akka said empty space cannot pull water. What did she say pushes it up the pipe?' Good answer: 'The air pressing on the water.' Ask: 'Do you believe her? How could we test it?' Let your child suggest a test."
     },
     {
      "kind": "exp",
@@ -221,7 +221,7 @@
     }
    ],
    "need": [
-    "a small plastic water bottle with a narrow neck",
+    "a steel or glass bottle with a narrow neck, not a soft plastic one, which squashes when you suck",
     "a drinking straw",
     "a lump of atta dough the size of a lemon",
     "a pencil",
@@ -393,7 +393,7 @@
     }
    ],
    "need": [
-    "4 identical books or notebooks",
+    "4 identical books with stiff covers",
     "a table with a straight edge",
     "a ruler",
     "2 sheets of A4 paper, or old newspaper",
@@ -932,7 +932,7 @@
    "day": 3,
    "question": "When you drink through a straw, does the empty space pull the drink up, or does the air push it?",
    "need": [
-    "a small plastic water bottle with a narrow neck",
+    "a steel or glass bottle with a narrow neck, not a soft plastic one, which squashes when you suck",
     "a drinking straw",
     "a lump of stiff atta dough the size of a lemon",
     "a pencil",
@@ -942,9 +942,9 @@
     "a sink or a tray"
    ],
    "steps": [
-    "Fill the plastic bottle with water right to the very top.",
+    "Fill the bottle with water right to the very top.",
     "Put the straw in, about halfway down the bottle.",
-    "Press the dough all round the straw and over the mouth of the bottle, so no air can get in. Press it hard against the glass of the neck and round the straw.",
+    "Press the dough all round the straw and over the mouth of the bottle, so no air can get in. Press it hard against the neck and round the straw.",
     "Your child tries to drink through the straw. If water comes easily, the seal is leaking. Press the dough tighter and try again.",
     "Now poke a hole in the dough with the pencil, beside the straw. Your child tries to drink again.",
     "Over the sink, fill the tumbler with water to the brim. Slide the card over the top so there are no bubbles.",
@@ -953,7 +953,7 @@
    "predict": "Ask before each part: 'Will the water come up the straw when the bottle is sealed? Why?' and 'When you let go of the card, will the water pour out? Why?'",
    "observe": "With the bottle sealed, you get a sip at most, then nothing, however hard you suck. As soon as the hole is poked, the water comes up easily. The card stays on the upside-down tumbler, holding the water in, often for a minute or more.",
    "why": "Sucking only makes the space in your mouth emptier, so the air in it presses less. The air outside presses down on the water in an open bottle and pushes it up the straw into the emptier space. When the bottle is sealed, no air can press on the water, so nothing pushes it up. Under the card, the air presses up on the card harder than the water presses down, so the card stays. The air above each square centimetre presses with about the same force as a 1-kilogram weight.",
-   "safety": "A grown-up handles the glass tumbler. Do the card part over a sink or tray. Wipe up spills so nobody slips.",
+   "safety": "A grown-up handles the glass bottle and the glass tumbler. Do the card part over a sink or tray. Wipe up spills so nobody slips.",
    "time": "15 min"
   },
   {
@@ -962,7 +962,7 @@
    "day": 7,
    "question": "Can a stack of books lean so far that the top book is completely past the edge of the table?",
    "need": [
-    "4 identical books or notebooks",
+    "4 identical books with stiff covers",
     "a table with a straight edge",
     "a ruler",
     "a pencil and paper"
@@ -973,7 +973,7 @@
     "Hold the two books together. Put them on book 3 so book 2 sticks out by a quarter of a book past book 3.",
     "Hold the three books together. Put them on book 4 so book 3 sticks out by a sixth past book 4.",
     "Put the whole stack on the table so book 4 sticks out by an eighth past the table edge.",
-    "If the stack tips, slide each book back by a few millimetres and try again.",
+    "If the stack tips, slide each book back by 1 or 2 millimetres, no more, because the whole stack has only 1 cm to spare and try again.",
     "Your child crouches and looks along the edge of the table."
    ],
    "predict": "Ask your child to guess first: 'Can the top book be completely past the table edge without falling? Why do you think so?'",
@@ -1284,7 +1284,7 @@
   },
   {
    "q": "A black hole is a cosmic vacuum cleaner that sucks in everything near it. True?",
-   "hint": "Far from a black hole, its gravity is the same as any other object with the same mass. If the Sun were swapped for a black hole of the same mass, the Earth would keep going round in the same orbit. Only things that come very close fall in. And a black hole does not suck, just as a straw does not. Ask: why do you think people tell this story?"
+   "hint": "Far from a black hole, its gravity is the same as any other object with the same mass. If the Sun were swapped for a black hole of the same mass, the Earth would keep going round in the same orbit. Only things that come very close fall in. A black hole attracts things with gravity, like the Sun does. Nothing about it sucks. Ask: why do you think people tell this story?"
   },
   {
    "q": "Space is a perfect, empty nothing. True?",
@@ -1360,13 +1360,13 @@
    "That evening Amma walked to the panchayat tank, two kilometres away, with one pot on her head and one on her hip. She did it twice. She came back the second time after dark, and she did not talk while she ate.",
    "Beside our pump is the old well, with its broken wall, the one nobody has used since the pump came. In the morning I took the long string that holds up our jasmine creeper. I borrowed Amma's tailor's tape and tied a knot in the string at every metre. Then I tied a stone to the end and lowered it into the well until I heard it plop. When I pulled it up, the string was wet at the bottom. I counted the dry knots above the wet part. There were nine.",
    "'The water is still there,' I told Amma. 'Nine metres down. The well has not dried up. The pump is just being lazy.'",
-   "'Then the pump is weak,' said Murugan. 'We need a stronger man to pump it.'",
+   "'Then the pump is weak, Kani,' said Murugan. 'We need a stronger man to pump it.'",
    "On the third day the panchayat sent Saroja akka, the pump mechanic. She came on a blue moped with a sack of pipes tied on behind. She had grease up to her elbows and a pencil behind her ear. She listened to my nine knots without laughing. Then she pumped the handle once, felt how easily it went down, and nodded as if the pump had told her something.",
-   "She took her own plastic water bottle from the moped. She filled it right to the top from Chitra akka's pot, pushed in a straw she had saved from a juice shop, and pressed a lump of grease round the straw to close the mouth of the bottle tight.",
+   "She took her own steel water bottle from the moped. She filled it right to the top from Chitra akka's pot, pushed in a straw she had saved from a juice shop, and pressed a lump of grease round the straw to close the mouth of the bottle tight.",
    "'Drink,' she said to Murugan.",
    "Murugan sucked until his cheeks went flat. His eyes went wide. Not a drop came up.",
    "Saroja akka poked a small hole in the grease with her pencil. 'Again.' This time the water shot up the straw so fast that Murugan choked and laughed at the same time.",
-   "'Your mouth never pulled that water,' she said. 'Nothing can pull water. When you suck, you only make the space inside your mouth emptier. All the time, the air is pressing down on the water in the bottle. It pushes the water up into the empty space. Shut the air out, and there is nothing to push.'",
+   "'Your mouth never pulled that water,' she said. 'Empty space cannot pull water. When you suck, you only make the space inside your mouth emptier. All the time, the air is pressing down on the water in the bottle. It pushes the water up into the empty space. Shut the air out, and there is nothing to push.'",
    "She pointed up at the white sky. 'All the air above us is heavy. It presses on everything: on you, on the roofs, on the water down in that well. Your pump only makes an empty space at the top of its pipe. The air presses on the water underground and pushes it up the pipe to fill the space.'",
    "'So why does it not push now?' I asked.",
    "'The air can push water up a pipe only so high. In a perfect pipe, with a perfectly empty space at the top, about ten metres. Not a finger more. And no pump is perfect. An old one like this gives up at about seven metres.'",

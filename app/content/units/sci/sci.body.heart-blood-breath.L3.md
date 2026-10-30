@@ -601,7 +601,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 7. (sort) Sort these. Do they make your heart beat FASTER or SLOWER?  
    **Answer:** running a race → Faster; sleeping → Slower; being scared by a loud bang → Faster; slow breathing in for 4, out for 6 → Slower; climbing stairs → Faster; sitting and reading → Slower. *Why:* Moving hard and feeling scared or excited speed the heart up. Rest, sleep and slow breathing slow it down.
 8. (match) Match each part to its job.  
-   **Answer:** Heart → pumps blood; Lungs → let oxygen into the blood; Diaphragm → tightens and moves down to help you breathe in; Windpipe → carries air down to the lungs; Arteries → carry blood away from the heart. *Why:* Each part has one main job in moving blood and air. They only work as a team.
+   **Answer:** Heart → pumps blood; Lungs → let oxygen into the blood; Diaphragm → tightens and moves down to help you breathe in; Windpipe → carries air down to the lungs; Blood → carries oxygen and food to every cell. *Why:* Each part has one main job in moving blood and air. They only work as a team.
 9. (mcq) Why should you feel your pulse with your fingers, not your thumb?  
    Options: Your thumb has its own pulse, which can confuse you / Thumbs are too short / Thumbs cannot feel anything  
    **Answer:** Your thumb has its own pulse, which can confuse you. *Why:* Your thumb has an artery in it with its own pulse. You might count your own thumb's beat instead of the wrist's. Fingers work better.
@@ -618,7 +618,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 15. (mcq) Your heart keeps beating even when you are fast asleep. Why does it need to?  
    Options: Every part of you still needs oxygen while you sleep / So you can dream / To keep the bed warm / It doesn't. It stops at night.  
    **Answer:** Every part of you still needs oxygen while you sleep. *Why:* Your cells keep working all night: your brain, your gut, your growing bones. They all need oxygen and food, so the heart keeps pumping. It only slows down a little.
-16. (truefalse) Smoke from a fire, a cigarette or burning rubbish can harm your lungs, even if you only breathe it in near other people.  
+16. (truefalse) Smoke from a fire, a cigarette or burning rubbish can harm your lungs, even if you are not the one smoking and only breathe in smoke from someone near you.  
    **Answer:** True. *Why:* True. Smoke carries tiny bits that get stuck deep in the air sacs. They make it harder for oxygen to get into the blood. That is why we stay away from smoke.
 ### Two Circles and a Great Swap (stretch) (stretch, 16 questions)
 1. (mcq) A drop of blood leaves the right side of your heart. Where does it go first?  
@@ -648,8 +648,8 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
    **Answer:** Red blood cells → carry oxygen; White blood cells → fight germs; Platelets → stick together to plug a cut; Plasma → the watery part that carries food and waste. *Why:* Blood looks like one red liquid, but it is a crowd of different parts, each with a job.
 11. (write) In the story about Helen Taussig, a children's heart doctor, the blue babies turned pink after the operation. Why did they turn pink?  
    **Answer:** The new pipe sent more blood to the lungs. In the lungs, the blood picked up oxygen and turned bright red. So the babies' lips turned pink.. *Why:* Blood only picks up oxygen when it goes through the lungs. A strong answer says that more blood reached the lungs, not that the babies got more blood.
-12. (write) Your heart and your breathing both speed up when you exercise. Why must they speed up together?  
-   **Answer:** The lungs bring oxygen into the blood, and the heart pushes that blood to the muscles. If only one sped up, the muscles would still not get enough oxygen.. *Why:* A strong answer explains the two jobs and why each needs the other.
+12. (write) Blood goes from the heart to the lungs, then back to the heart, and only then out to the body. Why do you think it comes back to the heart in between, instead of going straight on from the lungs to the body?  
+   **Answer:** Squeezing through the tiny tubes in the lungs slows the blood down and takes away its push. So it comes back to the heart, and the strong left side gives it a second, harder push to reach the head and the toes.. *Why:* This is why we have two circles. A strong answer says the blood loses its push in the lungs and needs a fresh push from the heart to get all round the body.
 13. (mcq) Octopuses have blue blood. Why?  
    Options: They carry oxygen with copper instead of iron / They live in blue water / Their blood is cold / They eat blue food  
    **Answer:** They carry oxygen with copper instead of iron. *Why:* Our red cells carry oxygen with iron, which looks red. Octopus blood carries oxygen with copper, which looks blue. Picking 'blue water' usually means thinking colour comes from where an animal lives.
@@ -658,7 +658,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 15. (perspective) Is the heart where our feelings live? Three people disagree.  
    **Answer:** A strong answer picks a view and gives evidence, such as 'when I breathed slowly, my heart slowed and I felt calmer, so the body and the feeling are linked'. It then admits a fair point from another side.. *Why:* Scientists agree the brain makes thoughts and feelings. New studies show the heart and brain keep sending messages to each other. So Kavya's feeling is real, even if the feeling is made in the brain.
 16. (sort) Sort these. Does blood carry them TO your cells, or AWAY from your cells?  
-   **Answer:** oxygen → To the cells; sugar from food → To the cells; carbon dioxide → Away from the cells; water to drink → To the cells; waste that the kidneys clean out → Away from the cells. *Why:* Blood is a delivery service that goes both ways. It brings oxygen, food and water to every cell, and takes waste away to the lungs and kidneys.
+   **Answer:** oxygen → To the cells; sugar from food → To the cells; carbon dioxide → Away from the cells; water → To the cells; waste that the kidneys clean out → Away from the cells. *Why:* Blood is a delivery service that goes both ways. It brings oxygen, food and water to every cell, and takes waste away to the lungs and kidneys.
 ### Heart Puzzles and Big Ideas (challenge) (challenge, 16 questions)
 1. (mcq) In 1628, William Harvey, an English doctor, did a sum. A heart pumps out more blood in an hour than the weight of a whole person. What did this prove?  
    Options: The same blood must go round again and again / The liver makes lots of blood / People drink a lot of water / Blood is very light  

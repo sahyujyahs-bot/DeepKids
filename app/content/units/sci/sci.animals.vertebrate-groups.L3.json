@@ -2259,7 +2259,7 @@
       "Because frogs cannot walk on land"
      ],
      "a": 0,
-     "why": "Frog eggs are wrapped in jelly, with no shell. In dry air the jelly dries out, as in the egg in the air test. Picking 'cannot walk on land' is wrong, because adult frogs hop about on land.",
+     "why": "Frog eggs are wrapped in jelly, with no shell. In dry air the jelly dries out, as in the Egg in the Air test. Picking 'cannot walk on land' is wrong, because adult frogs hop about on land.",
      "how": "e3"
     },
     {
@@ -2444,12 +2444,11 @@
      "p": "Put these in order, from the animal that looks after their babies least to most.",
      "items": [
       "rohu fish",
-      "frog",
       "house sparrow",
       "elephant"
      ],
      "a": "order shown",
-     "why": "The rohu leaves lakhs of eggs. The frog leaves her jelly eggs. The sparrow warms and feeds a few chicks for weeks. The elephant mother cares for one calf for years."
+     "why": "The rohu lays lakhs of eggs and swims away. Sparrow parents warm and feed a few chicks for a few weeks. An elephant mother, with the other females of her herd, cares for one calf for years."
     },
     {
      "t": "truefalse",
@@ -2502,7 +2501,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Every group has parents that care for their young, in very different ways."
+     "why": "Every group has parents who care for their young, in very different ways."
     },
     {
      "t": "fill",
@@ -2622,7 +2621,7 @@
       "Warm blood"
      ],
      "a": 1,
-     "why": "C.G. Farmer and Kent Sanders found that air flows one way through alligator lungs, as in birds. Birds and crocodiles are close cousins."
+     "why": "Colleen Farmer and Kent Sanders found that air flows one way through alligator lungs, as in birds. Birds and crocodiles are close cousins."
     },
     {
      "t": "write",
@@ -2679,9 +2678,9 @@
     },
     {
      "t": "draw",
-     "p": "Draw the sun and draw arrows to show two paths its warmth takes: one straight to a basking lizard, and one through plants and food to a warm cow.",
-     "a": "One arrow from the sun to the lizard. Another from the sun to grass, then from the grass to the cow.",
-     "why": "Both animals are warmed by the sun, by different paths."
+     "p": "A mother bird sits on her eggs on a cold, windy night. Draw her from the side, cut in half. Label how her body heat reaches the eggs, and what stops the heat escaping.",
+     "a": "The mother's belly touching the eggs, with a bare patch of skin there, labelled 'her heat goes into the eggs'. Fluffed feathers around her and the nest under the eggs, labelled 'trapped still air keeps the heat in'.",
+     "why": "Eggs cannot make their own heat, so the mother lends them hers. Many birds grow a bare 'brood patch' on the belly, so warm skin touches the eggs. Feathers and the nest trap still air, just like the sock in the Fur Coat Test."
     },
     {
      "t": "truefalse",
@@ -2750,14 +2749,14 @@
   },
   {
    "t": "mcq",
-   "p": "It is a cold winter morning, before the sun is up. Which animal will be quick and busy?",
+   "p": "All day, a garden lizard moves from a sunny wall into the shade, and back again. Why?",
    "opts": [
-    "A house sparrow",
-    "A garden lizard",
-    "Both, the same"
+    "To stay not too cold and not too hot, because they take their heat from outside",
+    "To look for food in two places",
+    "Because they are scared of the sun"
    ],
    "a": 0,
-   "why": "The sparrow makes their own heat from food, so they are warm even on a cold morning. The lizard takes heat from outside, so they stay cold and slow until the sun warms them.",
+   "why": "A lizard cannot make or lose heat on purpose the way a sparrow can. So they move: into the sun to warm up, into the shade before they get too hot. Their behaviour does the job that a mammal's or a bird's body does inside.",
    "outcome": 2
   },
   {

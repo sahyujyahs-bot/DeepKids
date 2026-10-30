@@ -4,7 +4,7 @@
  "subj": "sci",
  "level": 5,
  "n": "the-very-small",
- "title": "The very small: fields, quarks and quantum chance",
+ "title": "The very small: particles as ripples in fields",
  "source": "DeepKids Combined, The Deep End: a DeepKids topic from the founder's notebook (Grade 5 grid: particles as ripples in fields, the Standard Model, the Higgs field, entanglement, matter and antimatter, dark matter and string theory). No board teaches it at this class, so there are no board subtopics to cover. No textbook needed.",
  "summary": "Shake a skipping rope tied to a window grill, and it makes one loop, then two, then three, but never two and a half. Your child finds out that electrons, light and quarks behave in the same way: they are the smallest ripples in fields that fill all of space. They build protons from quarks with charges in thirds, see light spread like a wave through a piece of cloth, and toss coins to see how pure chance in each atom gives a steady pattern in many. They meet entangled pairs, the Higgs field and the surprise that most of their own mass is the energy of moving quarks. Last, they meet the big unknowns: dark matter, the missing antimatter and whether strings lie deeper down.",
  "builds_on": "In Class 3 (The very small) your child cut paper towards a single atom, found the tiny nucleus with rolling marbles, drew electron clouds with pencil dots, saw salt turn a flame yellow and met antimatter. Class 4 (Matter and particles) used particles to explain solids, liquids, gases, diffusion and density. This rung goes inside the proton and underneath the particles: fields, quarks, waves, chance, entanglement, mass, and the open questions at the edge of physics. Later school years go on to atomic structure, chemical bonding and nuclear physics.",
@@ -161,13 +161,13 @@
      "kind": "talk",
      "title": "The electron as a standing wave",
      "mins": 10,
-     "do": "Say: 'In 1924, Louis de Broglie in France said an electron is also a wave. In 1926, Erwin Schrödinger in Austria wrote the maths for it. Inside an atom, the electron's wave must fit around the nucleus, like the rope between your hand and the grill. Only whole patterns fit. Each pattern has its own energy. So the energies come in steps, and so the colours are exact.' Ask: 'Why does a sodium street light glow one exact yellow, and not a mix of every colour?' Good answer: 'Only certain wave patterns fit in a sodium atom, so only certain drops in energy happen.'"
+     "do": "Say: 'In 1924, Louis de Broglie in France said an electron is also a wave. In 1926, the Austrian physicist Erwin Schrödinger wrote the maths for it. Inside an atom, the electron's wave must fit around the nucleus, like the rope between your hand and the grill. Only whole patterns fit. Each pattern has its own energy. So the energies come in steps, and so the colours are exact.' Ask: 'Why does a sodium street light glow one exact yellow, and not a mix of every colour?' Good answer: 'Only certain wave patterns fit in a sodium atom, so only certain drops in energy happen.'"
     },
     {
      "kind": "think",
      "title": "A veena string",
      "mins": 5,
-     "do": "If you have a veena, a guitar or a toy string instrument, pluck a string, then touch it lightly at the exact middle and pluck again. The note jumps up to a higher note. Otherwise, stretch a rubber band over an open box and do the same. Ask: 'Why does touching the middle change the note?' (Only patterns with a still point there can happen now, the two-loop pattern.) Read the veena player's perspective together."
+     "do": "If you have a veena, a guitar or a toy string instrument, pluck a string, then touch it lightly at the exact middle and pluck again. The note jumps up to a higher note. Otherwise, stretch a rubber band over an open box and do the same. Ask: 'Why does touching the middle change the note?' (Only patterns with a still point there can happen now, the two-loop pattern.) Then read the veena player's view together."
     }
    ],
    "need": [
@@ -391,8 +391,9 @@
    "need": [
     "a mirror",
     "paper and a pencil",
+    "a top, or a coin to spin",
     "a soft sock with another sock rolled up inside it, tied to 1 metre of string",
-    "an open space with nothing breakable nearby",
+    "an open space with nothing breakable nearby, and the ceiling fan switched off",
     "Worksheet ws2, printed"
    ],
    "prep": []
@@ -469,7 +470,7 @@
      "kind": "think",
      "title": "One big question",
      "mins": 5,
-     "do": "Ask one question from the big questions list: 'If you are made of ripples in fields that fill all of space, where do you end and the rest of the world begin?' Let your child think aloud. There is no single right answer. Write their answer at the bottom of the particle wall."
+     "do": "Ask one question from the big questions list: 'If you are made of ripples in fields that fill all of space, where do you end, and where does the rest of the world begin?' Let your child think aloud. There is no single right answer. Write their answer at the bottom of the particle wall."
     }
    ],
    "need": [
@@ -635,7 +636,7 @@
       },
       {
        "t": "mcq",
-       "p": "Kavya and Farhan each get one entangled photon. Farhan is in Kochi and Kavya is in Delhi. Can Farhan use his photon to send Kavya a message?",
+       "p": "Kavya and Farhan each get one photon from an entangled pair. Farhan is in Kochi and Kavya is in Delhi. Can Farhan use his photon to send Kavya a message?",
        "opts": [
         "No. His result is random, so he cannot choose what Kavya sees.",
         "Yes, faster than light.",
@@ -815,7 +816,7 @@
      [
       {
        "t": "write",
-       "p": "Wu did the experiment that proved Lee and Yang's idea, but only Lee and Yang won the Nobel Prize. Who do you think should get credit for a discovery: the person with the idea, the person who tests it, or both? Give a reason.",
+       "p": "Two physicists, Tsung-Dao Lee and Chen-Ning Yang, had the idea that the weak force can tell left from right. Chien-Shiung Wu did the experiment that proved it. Only Lee and Yang won the Nobel Prize. Who do you think should get credit for a discovery: the person with the idea, the person who tests it, or both? Give a reason.",
        "lines": 4
       },
       {
@@ -977,7 +978,8 @@
    "mins": 5,
    "need": [
     "a mirror",
-    "paper and a pencil"
+    "paper and a pencil",
+    "a top, or a coin to spin"
    ],
    "steps": [
     "Your child writes their name in big letters and holds it up to the mirror.",
@@ -993,10 +995,10 @@
    "mins": 8,
    "need": [
     "a soft sock with another sock rolled up inside it, tied to 1 metre of string",
-    "an open space with nothing breakable nearby"
+    "an open space with nothing breakable nearby, and the ceiling fan switched off"
    ],
    "steps": [
-    "Your child holds the end of the string and swings the sock in a flat circle above their head, slowly.",
+    "Switch off the ceiling fan. Your child holds the end of the string and swings the sock in a flat circle above their head, slowly.",
     "Now they swing it faster. Ask: 'Do you have to pull harder or more gently on the string to keep it going round?'",
     "Swing it fast and let go of the string, outdoors or on a soft bed, away from people. Watch the sock fly off in a straight line.",
     "Say: 'Your pull on the string is like gravity in a galaxy. The faster a star goes round, the stronger the pull needed to hold it in.'"
@@ -1204,7 +1206,7 @@
   ]
  },
  "big": [
-  "If you are made of ripples in fields that fill all of space, where do you end and the rest of the world begin?",
+  "If you are made of ripples in fields that fill all of space, where do you end, and where does the rest of the world begin?",
   "If nothing decides when an atom breaks down, can anything in the universe be completely predicted?",
   "Most of the matter in the universe is dark matter, which we cannot see. What else might be all around us that we have not noticed?",
   "If matter and antimatter had been made in exactly equal amounts, there would be nothing but light. Why is there something rather than nothing?",
@@ -1231,7 +1233,7 @@
   },
   {
    "who": "A veena player in Thanjavur",
-   "view": "When she touches a string lightly at its exact middle and plucks it, the note jumps to a higher one. Only the patterns with a still point there can ring. Musicians call these harmonics. They have used them for centuries, long before anyone knew an electron in an atom behaves the same way. Ask: is music a kind of physics, or is physics a kind of music?"
+   "view": "When she touches a string lightly at its exact middle and plucks it, the note jumps to a higher one. Only the patterns with a still point there can ring. Musicians call these harmonics. String players knew these patterns for centuries before anyone found that an electron in an atom follows the same rule. Ask: on what other instrument could you find the same rule?"
   },
   {
    "who": "An engineer building a quantum computer",
@@ -1387,7 +1389,7 @@
    "'What are they hunting?' I asked him.",
    "'Something from the sky,' he said. 'One of them told me. A tiny piece of matter called a neutrino. It is made high up in the air, and it goes through everything. Through rock, through the whole Earth, through you.' He shook his head. 'But if it comes from the sky, why build the machine at the bottom of a mine? I asked him twice. I still don't understand.'",
    "I did not understand either. If you want to catch something that falls from the sky, you look on a roof, or in a field. I told my friend Revathi, and she laughed so much that she had to sit down.",
-   "Then the monsoon came. One afternoon Amma and I were in the back room when the rain began. It came down on the tin sheet like a thousand drums. I could not hear Amma speak. I could not hear the dog outside, or the crows, or the pressure cooker. Then the rain stopped all at once, and the room was very quiet.",
+   "Then the monsoon came. One afternoon Amma and I were in the back room when the rain began. It came down on the tin sheet like a thousand drums. I could not hear Amma speak. I could not hear the dog outside, or the crows. Then the rain stopped all at once, and the room was very quiet.",
    "In the quiet I heard a small sound. Tik. Tik. It was one drop, falling from a crack in the sheet into Amma's brass pot. I had never noticed that crack before. All through the rain it had been dripping, and I had not heard it, because the drumming was too loud.",
    "I sat very still. I thought about the drop, and the roof, and the machine at the bottom of the mine. Then I thought I knew.",
    "That night Appa came home late and sat on the step to take off his boots. I sat next to him.",
@@ -1403,7 +1405,7 @@
    "'Nobody saw it,' said Appa. 'They saw the track it made. A line on their machine, going sideways through the rock. Nothing falling from above could come in that way. Only a neutrino.'",
    "The next time it rained, I sat in the back room with Amma's brass pot and waited for it to stop. When the drumming ended, I listened. Tik. I held my hand out over the pot. Somewhere in my fingers, too small to feel, a neutrino was going straight through, on its way down past Appa's mine and out the other side of the world."
   ],
-  "epiphany": "For the parent: the turn is the single drop heard when the rain stops. The narrator, Selvi, cannot see why anyone would look for something from the sky at the bottom of a mine. The tin roof shows her, and she explains it to her father, that a faint signal can only be heard when the loud ones are shut out. Two kilometres of rock stops almost every other particle, while neutrinos pass through. What is real: in 1965, scientists from the Tata Institute of Fundamental Research in Bombay, Osaka City University in Japan and Durham University in England detected neutrinos made in the atmosphere, using detectors about 2.3 kilometres deep in the Kolar Gold Fields in Karnataka. They saw tracks of muons travelling nearly sideways, which only neutrinos hitting nearby rock could make. A team in a South African mine reported the same kind of result a few weeks later. Many miners at Kolar were Tamil. What is imagined: Selvi, her family, the tin roof and every conversation.",
+  "epiphany": "For the parent: the turn is the single drop heard when the rain stops. The narrator, Selvi, cannot see why anyone would look for something from the sky at the bottom of a mine. The tin roof shows her, and she explains it to her father, that a faint signal can only be heard when the loud ones are shut out. Two kilometres of rock stops almost every other particle, while neutrinos pass through. What is real: in 1965, scientists from the Tata Institute of Fundamental Research in Bombay, Osaka City University in Japan and Durham University in England detected neutrinos made in the atmosphere, using detectors about 2.3 kilometres deep in the Kolar Gold Fields in Karnataka. They saw tracks of muons travelling nearly sideways, which only neutrinos hitting nearby rock could make. A team in a South African mine reported the same kind of result at about the same time. Many miners at Kolar were Tamil. What is imagined: Selvi, her family, the tin roof and every conversation.",
   "ask": [
    "At first, why did nobody in the story understand why the machine was at the bottom of the mine?",
    "Why could the girl hear the drop only after the rain stopped?",

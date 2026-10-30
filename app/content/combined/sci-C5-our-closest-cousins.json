@@ -4,7 +4,7 @@
  "subj": "sci",
  "level": 5,
  "n": "our-closest-cousins",
- "title": "Our closest cousins: the apes, monkeys and lorises, and how they live, think and feel",
+ "title": "Our closest cousins: how apes and monkeys make tools, learn and feel",
  "source": "DeepKids Combined, a DeepKids-only topic that no board covers. Class 5: the primate family (lorises, monkeys, small apes and great apes), how apes differ from monkeys, how each primate's body solves their own problems, tool making, culture, long childhoods, memory and self-recognition, plant medicine, feelings, gestures and songs, the ape-language debate, cooperation, fighting, making up and fairness, India's primates, threats and protection, and whether great apes should have rights. No textbook needed.",
  "summary": "In 1960 a chimpanzee at Gombe, in Tanzania, stripped the leaves off a grass stem and used the stem to fish termites out of their mound. Until then, scientists said only humans made tools. Your child fishes jam out of a bottle with three kinds of stick, takes the number-memory test that a young chimpanzee called Ayumu passed better than university students, cracks groundnuts with a stone the way chimpanzees crack nuts, and talks with gestures alone. They meet chimpanzees, bonobos, gorillas, orangutans, the hoolock gibbons of Assam, and the macaques, langurs and lorises of India, each with their own problems and their own ways of solving them. They weigh real debates: can apes learn language, do monkeys care about fairness, and should great apes have rights?",
  "subconcepts": [
@@ -24,7 +24,7 @@
   "threats and protection: forests cut down, Silent Valley, Valparai, and the mountain gorillas who came back",
   "should great apes have rights? The idea of a non-human person"
  ],
- "builds_on": "Class 5 'Where humans came from' showed that humans are primates and great apes, and that humans and chimpanzees share a common ancestor who lived about 6 to 7 million years ago. Class 3 'Animal minds' met the mirror test and Jane Goodall's tool-using chimpanzees. This rung turns from our own past to our living cousins: who they are, how each one's body solves their problems, and what they make, learn, remember, feel and say. Later classes take up animal behaviour, ecology and conservation in more detail.",
+ "builds_on": "Class 2 'Our closest cousins' met the great apes, India's monkeys, termite fishing, Ayumu's number game, the mirror test and the gibbon duet. Class 5 'Where humans came from' showed that humans are primates and great apes, and that humans and chimpanzees share a common ancestor who lived about 6 to 7 million years ago. Class 3 'Animal minds' met the mirror test and Jane Goodall's tool-using chimpanzees. This rung turns from our own past to our living cousins: who they are, how each one's body solves their problems, and what they make, learn, remember, feel and say. Later classes take up animal behaviour, ecology and conservation in more detail.",
  "goals": [
   "By the end your child can sort primates into lorises, monkeys, small apes and great apes, and say how to tell an ape from a monkey.",
   "By the end your child can explain, for at least four primates, what problem their body solves and how.",
@@ -91,9 +91,9 @@
    "steps": [
     {
      "kind": "warmup",
-     "title": "Remember: we are primates",
+     "title": "Remember: our cousins from Class 2",
      "mins": 7,
-     "do": "Ask these and wait for answers. 'From the lesson on where humans came from: what group of animals do humans belong to?' (Primates.) 'Name two things you share with other primates.' (Gripping hands, nails instead of claws, eyes that face forward, a long childhood.) 'Did humans come from chimpanzees?' (No. We are cousins with a shared ancestor.) Then ask: 'Have you seen monkeys near our home, at a temple, or on a trip? What were they doing?' Write the title 'Our closest cousins' at the top of a big sheet and write down everything your child already knows or wonders about apes and monkeys. Keep the sheet for the last day."
+     "do": "Ask these and wait for answers. 'In Class 2 you met our closest cousins. Who are the great apes?' (Chimpanzees, bonobos, gorillas, orangutans and humans.) 'Did humans come from chimpanzees?' (No. We are cousins with a shared ancestor who lived about 6 to 7 million years ago.) 'You fished honey out of a bottle with a curry-leaf stalk. Which ape fishes like that, and for what?' (Chimpanzees, for termites.) 'Name two things you share with other primates.' (Gripping hands, nails instead of claws, eyes that face forward, a long childhood.) Then ask: 'Have you seen monkeys near our home, at a temple, or on a trip? What were they doing?' Write the title 'Our closest cousins' at the top of a big sheet and write down everything your child already knows or wonders about apes and monkeys. Keep the sheet for the last day."
     },
     {
      "kind": "talk",
@@ -106,7 +106,7 @@
      "title": "The Ayumu memory test",
      "mins": 17,
      "ref": "e1",
-     "do": "Do Experiment e1. First ask: 'A young chimpanzee and some university students took the same memory test. Who do you think did better? Why?' Write down the guess. Play the five rounds. Then say: 'In 2007, Sana Inoue and Tetsuro Matsuzawa, at Kyoto University in Japan, showed the numbers 1 to 9 on a touch screen to a young chimpanzee named Ayumu. The numbers were covered by white squares after a fraction of a second. Ayumu touched the squares in the right order. When the numbers were shown for the shortest time, he did better than the students.' Ask: 'Does this mean chimpanzees are cleverer than people?' Let your child think, then say: 'Later, some people who practised for a long time did as well as Ayumu. It shows that a chimpanzee can be very good at a kind of memory we are not used to.'"
+     "do": "Do Experiment e1. First ask: 'A young chimpanzee and some university students took the same memory test. Who do you think did better? Why?' Write down the guess. In Class 2 you looked for a count of three. Now you get only one count, and up to 9 numbers. Do all the sheets. Then say: 'In 2007, Sana Inoue and Tetsuro Matsuzawa, at Kyoto University in Japan, showed the numbers 1 to 9 on a touch screen to a young chimpanzee named Ayumu. The numbers were covered by white squares after a fraction of a second. Ayumu touched the squares in the right order. When the numbers were shown for the shortest time, he did better than the students.' Ask: 'Does this mean chimpanzees are cleverer than people?' Let your child think, then say: 'Later, some people who practised for a long time did as well as Ayumu. It shows that a chimpanzee can be very good at a kind of memory we are not used to.'"
     },
     {
      "kind": "do",
@@ -117,14 +117,12 @@
    ],
    "need": [
     "a big sheet of paper",
-    "18 small squares of paper, each about 5 centimetres across",
-    "a thick bath towel",
-    "5 sheets of A4 paper and a stapler",
+    "8 sheets of plain paper for Experiment e1, and 5 sheets of A4 paper and a stapler for the field guide",
     "a pen and coloured pencils"
    ],
    "prep": [
     {
-     "task": "Write the numbers 1 to 9 on paper squares, twice over, for Experiment e1",
+     "task": "Write the numbers on 6 sheets for Experiment e1: three sheets with 1 to 5, two with 1 to 7, one with 1 to 9, each in different places",
      "when": "morning"
     }
    ]
@@ -225,14 +223,14 @@
      "kind": "talk",
      "title": "Play, laughter and grief",
      "mins": 12,
-     "do": "Gently tickle your child under the arm until they laugh. Ask: 'Can apes laugh?' Wait for a guess. Then say: 'Young apes laugh when they are tickled or chased. Their laugh is a breathy panting sound, and they make a relaxed open-mouthed play face. In 2009, Marina Davila Ross recorded tickled young orangutans, gorillas, chimpanzees, bonobos and human babies. The more closely two kinds are related, the more alike their laughs sound.' Then say, gently: 'Jane Goodall knew an old chimpanzee mother called Flo and her son Flint, who was about 8. When Flo died in 1972, Flint stopped eating and stayed near the place where she had died. He died about a month later.' Ask: 'What do you think Flint was feeling? How could a scientist know?' (We cannot see inside his mind, but his behaviour was like that of a person in deep grief.) Say: 'Other chimpanzee mothers have been seen carrying a dead baby for days.'"
+     "do": "Gently tickle your child under the arm until they laugh. Ask: 'Can apes laugh?' Wait for a guess. Then say: 'Young apes laugh when they are tickled or chased. Their laugh is a breathy panting sound, and they make a relaxed open-mouthed play face. In 2009, Marina Davila Ross recorded tickled young orangutans, gorillas, chimpanzees, bonobos and human babies. The more closely two kinds are related, the more alike their laughs sound.' Then say, gently: 'Jane Goodall knew an old chimpanzee mother called Flo and her son Flint, who was about 8. When Flo died in 1972, Flint stopped eating and stayed near the place where she had died. He died about three weeks later.' Ask: 'What do you think Flint was feeling? How could a scientist know?' (We cannot see inside his mind, but his behaviour was like that of a person in deep grief.) Say: 'Other chimpanzee mothers have been seen carrying a dead baby for days.'"
     },
     {
      "kind": "act",
      "title": "Talking without words",
      "mins": 15,
      "ref": "a2",
-     "do": "Do Activity a2. Afterwards ask: 'Which messages were easiest to guess? Which were hardest?' Then say: 'Catherine Hobaiter studies wild chimpanzees in Uganda. With her team, she has recorded dozens of gestures that chimpanzees use with each other, each with a meaning. Holding out a hand, palm up, asks for some food. A loud scratch on one's own arm asks a friend to groom you there. In 2018, Kirsty Graham and Catherine Hobaiter showed people videos of chimpanzee and bonobo gestures. People guessed the meanings correctly more often than by chance.' Ask: 'Why might people understand ape gestures without being taught?' (We may have inherited some gestures from our shared ancestor.)"
+     "do": "Do Activity a2. Afterwards ask: 'Which messages were easiest to guess? Which were hardest?' Then say: 'Catherine Hobaiter studies wild chimpanzees in Uganda. With her team, she has recorded dozens of gestures that chimpanzees use with each other, each with a meaning. Holding out a hand, palm up, asks for some food. A loud scratch on one's own arm asks a friend to groom you there. In 2023, Kirsty Graham and Catherine Hobaiter showed people videos of chimpanzee and bonobo gestures. People guessed the meanings correctly more often than by chance.' Ask: 'Why might people understand ape gestures without being taught?' (We may have inherited some gestures from our shared ancestor.)"
     },
     {
      "kind": "act",
@@ -309,7 +307,7 @@
      "kind": "talk",
      "title": "The gentle giants",
      "mins": 12,
-     "do": "Ask: 'What do you think a gorilla eats?' Wait. Then say: 'Gorillas are the biggest primates. A big male, called a silverback because of the silver hair on his back, can weigh more than two grown men. Mountain gorillas eat mostly leaves, stems and shoots.' Ask: 'Leaves give little energy for each mouthful. So what problem does a gorilla have?' (They must eat a huge amount.) Say: 'So gorillas spend much of the day eating and resting, and they have a big belly with a long gut where bacteria help break down the leaves. They walk on their knuckles and sleep in nests.' Then say: 'In 1967, Dian Fossey set up a research camp, Karisoke, in the mountains of Rwanda. She showed that gorillas live calmly in family groups, and that the chest-beating in films is mostly a display to warn others. She fought hunters who set traps in the forest, and in 1985 she was killed in her hut. Nobody knows for sure who killed her. In 1981 there were only about 250 mountain gorillas in those mountains. Thanks to protection, there are more than 1,000 mountain gorillas today.' Ask: 'Why do you think films show gorillas as monsters?'"
+     "do": "Ask: 'What do you think a gorilla eats?' Wait. Then say: 'Gorillas are the biggest primates. A big male, called a silverback because of the silver hair on his back, can weigh more than two grown men. Mountain gorillas eat mostly leaves, stems and shoots.' Ask: 'Leaves give little energy for each mouthful. So what problem does a gorilla have?' (They must eat a huge amount.) Say: 'So gorillas spend much of the day eating and resting, and they have a big belly with a long gut where bacteria help break down the leaves. They walk on their knuckles and sleep in nests.' Then say: 'In 1967, Dian Fossey set up a research camp, Karisoke, in the mountains of Rwanda. She showed that gorillas live calmly in family groups, and that the chest-beating in films is mostly a display to warn others. She fought hunters who set traps in the forest, and in 1985 she was killed in her hut. Nobody knows for sure who killed her. In 1981 there were only about 250 mountain gorillas in those mountains. Thanks to protection, there are about 600 there today, and more than 1,000 mountain gorillas in all.' Ask: 'Why do you think films show gorillas as monsters?'"
     },
     {
      "kind": "act",
@@ -382,7 +380,7 @@
      "kind": "talk",
      "title": "Forests and the people who saved them",
      "mins": 12,
-     "do": "Say: 'About 6 in every 10 kinds of primates are in danger of dying out. The main reason is that their forests are being cut down for farms, mines, roads and plantations, such as the oil palm plantations that have replaced large areas of orangutan forest.' Then say: 'In the 1970s, a dam was planned in Silent Valley, a rainforest in Kerala, home to lion-tailed macaques. Scientists, teachers and writers, among them the Malayalam poet Sugathakumari, campaigned to save the forest. The lion-tailed macaque became the symbol of the campaign. In 1984 the dam was dropped and Silent Valley became a national park.' Say: 'Near Valparai, in Tamil Nadu, lion-tailed macaques live in small patches of rainforest between tea estates. Scientists from the Nature Conservation Foundation, among them Divya Mudappa, have worked with estate workers to replant rainforest trees.' Ask: 'Who pays the cost of saving a forest, and who gets the benefit?' Let your child think about the farmers, the city people who use the electricity, and the macaques."
+     "do": "Say: 'About 6 in every 10 kinds of primates are in danger of dying out. The main reason is that their forests are being cut down for farms, mines, roads and plantations, such as the oil palm plantations that have replaced large areas of orangutan forest.' Then say: 'In the 1970s, a dam was planned in Silent Valley, a rainforest in Kerala, home to lion-tailed macaques. Scientists, teachers and writers, among them the Malayalam poet Sugathakumari, campaigned to save the forest. The lion-tailed macaque became the symbol of the campaign. In 1983 the dam was dropped, and in 1984 Silent Valley became a national park.' Say: 'Near Valparai, in Tamil Nadu, lion-tailed macaques live in small patches of rainforest between tea estates. Scientists from the Nature Conservation Foundation, among them Divya Mudappa, have worked with the tea estates to replant rainforest trees.' Ask: 'Who pays the cost of saving a forest, and who gets the benefit?' Let your child think about the farmers, the city people who use the electricity, and the macaques."
     },
     {
      "kind": "talk",
@@ -811,7 +809,7 @@
       },
       {
        "t": "mcq",
-       "p": "In 1981 there were about 250 mountain gorillas in the Virunga mountains. Today there are more than 1,000. What does this show?",
+       "p": "In 1981 there were about 250 mountain gorillas in the Virunga mountains of Rwanda, Uganda and Congo. Today there are about 600 there. What does this show?",
        "opts": [
         "Protecting animals and their forest can work.",
         "Mountain gorillas are no longer in any danger.",
@@ -826,7 +824,7 @@
      [
       {
        "t": "write",
-       "p": "Meenakshi says: 'Great apes think and feel, so they should never be kept in cages.' Farhan says: 'Good zoos and sanctuaries can keep apes safe when their forest is gone.' Their grandmother says: 'Save the forest first, and then nobody needs a cage.' Pick one view and give your reasons. Then answer back from one of the other views.",
+       "p": "Meenakshi says: 'Great apes think and feel, so they should never be kept in cages.' Nandini says: 'Good zoos and sanctuaries can keep apes safe when their forest is gone.' Their grandmother says: 'Save the forest first, and then nobody needs a cage.' Pick one view and give your reasons. Then answer back from one of the other views.",
        "lines": 6,
        "a": "A strong answer picks a view and uses evidence from the lesson (apes grieve, remember and learn culture from their group, forests are being cut down, Sandra the orangutan was moved to a sanctuary). It then fairly gives another view's best point. There is no single right answer."
       },
@@ -858,21 +856,18 @@
    "day": 1,
    "question": "How well can you remember where numbers were, after seeing them for one second?",
    "need": [
-    "18 small squares of paper with the numbers 1 to 9 written on them (two sets)",
-    "a table",
-    "a thick bath towel",
-    "a pencil and paper"
+    "8 sheets of plain paper, all the same size",
+    "a pen and a pencil"
    ],
    "steps": [
-    "Your child turns away. A grown-up puts 5 number squares (1 to 5) face up in random places on the table, spread apart.",
-    "The grown-up says 'Look!'. Your child turns and looks while the grown-up counts 'one'. Then the grown-up quickly covers the whole table with the towel.",
-    "Your child taps the towel where they think 1 was, then 2, then 3, in order. After each tap, the grown-up lifts that corner to check. Stop at the first mistake.",
-    "Write down how many your child got right in order.",
-    "Play 5 rounds. Change the places each time. If it is too easy, use 7 numbers, then 9.",
-    "Swap: your child lays out the numbers, and the grown-up takes the test."
+    "Before you start, a grown-up writes the numbers 1 to 5 in random places on a sheet, spread apart. Make three sheets like this, each with different places. Make two more sheets with 1 to 7, and one with 1 to 9.",
+    "Your child turns away. The grown-up holds up a sheet. The grown-up says 'Look!', counts 'one', and turns the sheet face down on the table.",
+    "On a blank sheet, your child writes each number where they think it was, starting with 1.",
+    "Put the two sheets side by side. Count how many numbers are in about the right place, within two finger-widths. Write down the score.",
+    "Do this with each sheet: three with 5 numbers, then the 7s, then the 9. Then swap: your child holds up the sheets, and the grown-up takes the test."
    ],
    "predict": "Ask: 'How many numbers in a row do you think you can remember after one second? Who will do better, you or the grown-up?'",
-   "observe": "Most people remember 3 to 5 numbers in order after one second, and do worse with 7 or 9. Note whether practice over 5 rounds helps.",
+   "observe": "Expect a few mistakes with 5 numbers, and many more with 7 or 9. Notice whether the scores get better with practice.",
    "why": "Ayumu saw the numbers for even less time, less than a quarter of a second, on a screen, and still touched the squares in order. Remembering a whole picture at a glance is a kind of memory chimpanzees are very good at. It may help them in the forest, for example to remember where fruit hangs in a tree. Some scientists later found that people with a lot of practice can do as well, so the test shows how important practice is when we compare animals.",
    "safety": "",
    "time": "15 min"
@@ -1014,7 +1009,7 @@
   {
    "id": "v2",
    "who": "Francine Patterson and Koko the gorilla, Sue Savage-Rumbaugh and Kanzi the bonobo, and Herbert Terrace and Nim Chimpsky the chimpanzee, United States",
-   "idea": "From the 1970s, Patterson taught a gorilla named Koko many signs from American Sign Language and said Koko used them to talk about feelings. Savage-Rumbaugh worked with a bonobo named Kanzi, who learned to use a keyboard of picture symbols by watching his mother's lessons. In a 1993 study, Kanzi understood many spoken English requests he had never heard before, about as well as a two-year-old girl tested the same way.",
+   "idea": "From the 1970s, Patterson taught a gorilla named Koko many signs from American Sign Language and said Koko used them to talk about feelings. Savage-Rumbaugh worked with a bonobo named Kanzi, who learned to use a keyboard of picture symbols by watching his adoptive mother's lessons. In a 1993 study, Kanzi understood many spoken English requests he had never heard before, about as well as a two-year-old girl tested the same way.",
    "then": "In 1979, Herbert Terrace studied videos of his own chimpanzee, Nim Chimpsky, who had learned many signs. He concluded that Nim mostly copied his teachers' signs to get rewards, and did not put signs together into sentences with new meanings. Many scientists became doubtful about ape language studies after that.",
    "now": "Debated. Most scientists agree that great apes can learn hundreds of signs or symbols and can combine some of them. Most think they do not show the full grammar of a human language. Others say the tests are unfair, because apes raised by people are not learning in their own way, and that wild apes' own gestures and calls are rich in meaning.",
    "status": "debated",
@@ -1069,7 +1064,7 @@
   },
   {
    "q": "Why are many primates in danger, and what is one place where people saved them?",
-   "a": "Their forests are being cut down for farms, mines, roads and plantations. Silent Valley in Kerala became a national park in 1984 after a campaign to save the lion-tailed macaques' forest. Mountain gorillas grew from about 250 to more than 1,000 with protection."
+   "a": "Their forests are being cut down for farms, mines, roads and plantations. Silent Valley in Kerala became a national park in 1984 after a campaign to save the lion-tailed macaques' forest. With protection, the mountain gorillas of the Virunga mountains grew from about 250 in 1981 to about 600 today."
   },
   {
    "q": "Name one thing scientists still argue about or don't know.",
@@ -1109,7 +1104,7 @@
   ],
   "cards": [
    {
-    "front": "I am a great ape. I live alone high in the rainforest trees of Borneo and Sumatra, and I build a new nest every night. Who am I?",
+    "front": "I am a great ape. I live mostly alone, high in the rainforest trees of Borneo and Sumatra, and I build a new nest every night. Who am I?",
     "back": "an orangutan"
    },
    {
@@ -1293,7 +1288,7 @@
    "No crunch. Only sweetness.",
    "I did it again with the next potato, and the next. Dip, rub, bite. Dip, rub, bite.",
    "My playmate was a young male, a little older than me. He sat on the bank and watched me for days. Then one morning he carried his potato to the stream too. He dipped it and rubbed it, clumsily at first. He bit it. He looked at me.",
-   "After him, another young one came. Then my brother. We were children, and children watch other children all the time. We copied each other's games, and now we copied the stream.",
+   "After him, another young one came, and then another. We were children, and children watch other children all the time. We copied each other's games, and now we copied the stream.",
    "My mother watched too. She was a grown female with a baby of her own to care for. She was busy, and she knew how things were done. She had eaten sandy food all her life. But she sat near me at the stream, day after day. I did not show her. I did not take her hand. I only washed my potatoes, as I always did.",
    "And then one day she did it too.",
    "My mother learned it from me. I was her child, and she learned from me.",

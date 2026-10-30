@@ -120,14 +120,14 @@
      "kind": "exp",
      "title": "Two handprints",
      "mins": 12,
-     "do": "Do experiment e2. Your child puts the left hand flat on a paper and you draw round it. Then draw round the right hand on a second paper. Cut both out. Ask first: 'Will the two hands match if we put one on top of the other?' Lay them both palm side up, thumbs the same way. They do not match: the thumbs point opposite ways. Now flip one over. Ask: 'Now?' Good answer: now they nearly match. Say: 'Your two hands are a pair. One is the other one flipped, like the two halves of the paint butterfly. We call that a mirror image.'",
+     "do": "Do experiment e2. Your child puts the left hand flat on a paper and you draw round it. Then draw round the right hand on a second paper. Cut both out. Ask first: 'Will the two hands match if we put one on top of the other?' Lay both cut-outs drawn side up, one on top of the other. They do not match: the thumbs point opposite ways. Now flip one over. Ask: 'Now?' Good answer: now they nearly match. Say: 'Your two hands are a pair. One is the other one flipped, like the two halves of the paint butterfly. We call that a mirror image.'",
      "ref": "e2"
     },
     {
      "kind": "talk",
      "title": "Why an ant has two matching sides",
      "mins": 8,
-     "do": "Look at ants on the kitchen floor or near a window, or at a picture of an ant. Ask: 'Where does an ant want to go?' Good answer: straight to food, and back home. Say: 'An ant walks head first. She has three legs on her left side and three on her right side. Both sides push the same, so she goes straight.' Ask: 'What would happen if one side had long legs and the other side had short legs?' Good answer: she would go round in circles. Say: 'Crows, dogs, fish and people also move head first, and all of us have two matching sides.'"
+     "do": "Look at ants on the kitchen floor or near a window, or at a picture of an ant. Ask: 'Where does an ant need to go?' Good answer: straight to food, and back home. Say: 'An ant walks head first. She has three legs on her left side and three on her right side. Both sides push the same, so she goes straight.' Ask: 'What would happen if one side had long legs and the other side had short legs?' Good answer: she would go round in circles. Say: 'Crows, dogs, fish and people also move head first, and all of us have two matching sides.'"
     },
     {
      "kind": "act",
@@ -166,7 +166,7 @@
      "kind": "act",
      "title": "Finish the half rangoli",
      "mins": 10,
-     "do": "Do activity a2. On a dark paper or a steel plate, draw half a simple flower rangoli with chalk or rice flour, up to a straight middle line. Your child finishes the other half. Say: 'Look at my half first. Each petal on my side needs a partner on your side, the same size, at the same distance from the middle, turning the other way, just like Meenu did.' Ask afterwards: 'Is it exactly the same? Where is it different?' Any small difference is fine. Take a photo for the symmetry book.",
+     "do": "Do activity a2. On a dark paper or a steel plate, draw half a simple flower rangoli with chalk or rice flour, up to a straight middle line. Your child finishes the other half. Say: 'Look at my half first. Each petal on my side needs a partner on your side. Make it the same size and the same distance from the middle line. Turn it the other way, just like Meenu did.' Ask afterwards: 'Is it exactly the same? Where is it different?' Any small difference is fine. Take a photo for the symmetry book.",
      "ref": "a2"
     }
    ],
@@ -228,25 +228,25 @@
      "kind": "act",
      "title": "Turning things hunt",
      "mins": 14,
-     "do": "Do activity a3. Give your child a flower (from the puja plate, the market or a picture) and ask them to count the petals. Hold it facing them and turn it slowly. Ask first: 'Will it look the same before you have turned it all the way round?' Good answer: yes, each time a petal moves into the place where the last petal was. Then look at the ceiling fan (switched off), a steel plate with a pattern, and the Ashoka Chakra on a flag or a coin picture. Say: 'These shapes have their parts arranged around a middle, so they look the same when you turn them a little. Most ceiling fans have 3 blades. The Ashoka Chakra has 24 spokes.' Your child draws a flower with five petals around a middle.",
+     "do": "Do activity a3. Give your child a flower with five petals, such as a hibiscus or a periwinkle (nithyakalyani), or a picture of one. Ask them to count the petals. Hold it facing them and turn it slowly. Ask first: 'Will it look the same before you have turned it all the way round?' Good answer: yes, each time a petal moves into the place where the last petal was. Then look at the ceiling fan (switched off), a steel plate with a pattern, and the Ashoka Chakra on the national flag, or a picture of it. Say: 'These shapes have their parts arranged around a middle, so they look the same when you turn them a little. Most ceiling fans have 3 blades. The Ashoka Chakra has 24 spokes.' Your child draws a flower with five petals around a middle.",
      "ref": "a3"
     },
     {
      "kind": "talk",
      "title": "A starfish has no front",
      "mins": 8,
-     "do": "Show a picture of a starfish. Say: 'Scientists call her a sea star, because she is not a fish. She has no bones and no fins.' Ask: 'How many arms?' (Most have five.) Say: 'A starfish moves slowly over rocks in the sea. Food can be on any side of her. Her arms go all round her middle, so she can reach in every direction. She does not need a front.' Ask: 'An ant runs straight to food. A starfish reaches all round. Which body would you like, and why?' Many starfish can grow back an arm they lose."
+     "do": "Show a picture of a starfish. Say: 'Scientists call her a sea star, because she is not a fish. She has no backbone and no fins.' Ask: 'How many arms?' (Most have five.) Say: 'A starfish moves slowly over rocks in the sea. Food can be on any side of her. Her arms go all round her middle, so she can reach in every direction. She does not need a front.' Ask: 'An ant runs straight to food. A starfish reaches all round. Which body would you like, and why?' Many starfish can grow back an arm they lose."
     },
     {
      "kind": "talk",
      "title": "The snowflake farmer",
      "mins": 8,
-     "do": "Tell your child about voice v1, Wilson Bentley, who photographed snowflakes. If you can, show his snowflake photos in a book or on a phone. Ask: 'How many arms does each snowflake have?' (Six.) Say: 'A snowflake has six arms because of how water freezes. Tiny bits of water join together in rings of six.' Then ask the voice question.",
+     "do": "Tell your child about voice v1, Wilson Bentley, who photographed snowflakes. If you can, show his snowflake photos in a book or on a phone. Ask: 'How many arms does each snowflake have?' (Six.) Say: 'A snowflake has six arms because of how water freezes. Tiny particles of water, too small to see, join together in rings of six.' Then ask the voice question.",
      "ref": "v1"
     }
    ],
    "need": [
-    "a flower, or a picture of one",
+    "a flower with five petals, or a picture of one",
     "a picture of a starfish",
     "pictures of snowflakes, if you can find them",
     "paper and crayons"
@@ -323,7 +323,8 @@
     "the printed Pattern Path board",
     "a die",
     "a counter for each player",
-    "worksheet ws2"
+    "worksheet ws2",
+    "a mirror"
    ]
   },
   {
@@ -396,7 +397,7 @@
        "t": "sort",
        "p": "Are the two halves the same?",
        "items": [
-        "a butterfly",
+        "the paint butterfly you made",
         "the letter A",
         "a heart shape",
         "the letter F",
@@ -655,7 +656,7 @@
          "five arms around a middle"
         ],
         [
-         "A flower needs bees to find her.",
+         "A flower must be easy for bees to find.",
          "bright petals in a pattern"
         ]
        ]
@@ -735,7 +736,7 @@
     "Your child puts the left hand flat on a paper, fingers spread. Draw round it.",
     "Do the same with the right hand on the second paper.",
     "Cut out both hand shapes.",
-    "Lay both shapes the same way up and put one on top of the other.",
+    "Lay both shapes drawn side up and put one on top of the other.",
     "Now flip one shape over and put it on top again."
    ],
    "predict": "Ask: 'Will the two hands match when we put one on top of the other?'",
@@ -833,7 +834,7 @@
    "day": 5,
    "mins": 14,
    "need": [
-    "a flower, or a picture of one",
+    "a flower with five petals, such as a hibiscus, or a picture of one",
     "a steel plate with a pattern",
     "a picture of the Ashoka Chakra",
     "paper and crayons"
@@ -898,7 +899,7 @@
   },
   {
    "id": "v2",
-   "who": "Gift Siromoney, Rani Siromoney and Kamala Krithivasan, computer scientists in Chennai",
+   "who": "Gift Siromoney, Rani Siromoney and Kamala Krithivasan, scientists in Chennai who worked on mathematics and computers",
    "idea": "In the 1970s, these three scientists studied kolams drawn in Tamil Nadu. They showed that many kolam patterns follow exact rules, of the same kind that computer scientists use to describe pictures and languages.",
    "then": "Kolams were mostly seen as women's daily art, not as mathematics. Their work showed that the patterns hold real mathematical rules.",
    "now": "Mathematicians and computer scientists around the world still study kolams. The rules were found in kolams that women had drawn from memory, and taught to their daughters, for hundreds of years.",
@@ -951,7 +952,7 @@
   "rules": [
    "Put all counters on START. Take turns to roll the die and move.",
    "If you land on a task square, do the task. The other players check it.",
-   "If you land on a forward or back square, do what it says.",
+   "If you land on a forward, back or miss-a-turn square, do what it says.",
    "The first player to reach HOME wins. Then everyone claps the winner's favourite pattern together."
   ],
   "squares": [
@@ -968,7 +969,7 @@
    "Make your face the same on both sides. Now make it different.",
    "Name a thing that looks the same when you turn it.",
    "Bees build six-sided cells: go forward 2.",
-   "Hold the mirror on a letter on this board. Does it still look right?",
+   "Hold the mirror down the middle of the H in HOME. Does it still look right?",
    "Make a pattern with your hands. The next player says what comes next.",
    "Your two hands are a pair: hold them up and flip one.",
    "The rain washed half your kolam away: go back 2.",
@@ -991,7 +992,7 @@
   },
   {
    "q": "People say 'A starfish is a fish.'",
-   "hint": "A starfish is not a fish. She has no bones, no fins and no gills like a fish, and she walks on hundreds of tiny tube feet. Scientists prefer to call her a sea star. Ask: why do you think people gave her a name with 'fish' in it?"
+   "hint": "A starfish is not a fish. She has no backbone, no fins and no gills like a fish, and she walks on hundreds of tiny tube feet. Scientists prefer to call her a sea star. Ask: why do you think people gave her a name with 'fish' in it?"
   },
   {
    "q": "People say 'Bees measure their hexagons like clever builders.'",
@@ -1050,7 +1051,7 @@
    "Then one morning, in the rainy weeks of November, Amma's phone rings very early. Amma is a nurse. \"They need me at the hospital now,\" she says. She has drawn only half the kolam. One side of the flower lies on the floor, up to the line of dots in the middle. The other side is bare grey floor. Amma ties Meenu's hair, kisses her forehead and runs for the bus.",
    "Appa comes out with his coffee tumbler. He looks down at the half flower. \"Oh no,\" he says. \"Your Amma's kolam is only half done. I don't know how to draw kolams. Shall we sweep it away?\"",
    "\"No!\" says Meenu. She kneels down and stares at the half. I stare too, from my railing. I want to help, but a crow can only say kaa. So I say it, loudly, and I stretch out both my wings to shake off the rain.",
-   "That week I was growing new feathers. A crow does not lose her big wing feathers all at once. She loses them in pairs, one from each wing, so the two wings stay the same and she can still fly straight. Meenu looks up. She sees my two wings, each with one feather missing in the same place.",
+   "That week I am growing new feathers. A crow does not lose her big wing feathers all at once. She loses them in pairs, one from each wing, so the two wings stay the same and she can still fly straight. Meenu looks up. She sees my two wings, each with one feather missing in the same place.",
    "\"Kaaki,\" she says slowly, \"your wings are like Amma's kolam.\" Then she puts her two hands flat on the floor, thumbs touching at the line of dots. Her left hand lies on the half that Amma drew. Her right hand lies on the bare half. Her right hand is just like her left hand, only flipped. Meenu's eyes go wide.",
    "She counts. On Amma's side, there are four dots from the middle to the edge. So she will need four dots on her side too, at the same distances. Amma's top petal curls up and to the left. So her top petal must curl up and to the right.",
    "\"Appa,\" says Meenu, \"you put the dots. I will tell you where. Count with me.\" Appa puts down his tumbler. He kneels on the wet floor in his office trousers. \"One, two, three, four,\" says Meenu, and Appa presses a dot of flour at each count. Then Meenu takes the bowl and draws the curls herself. She keeps looking back at Amma's half, petal by petal, and flips each one in her head before she draws it.",
@@ -1061,7 +1062,7 @@
    "Amma bends down and touches the fat petal with one finger. \"This one is bigger than mine,\" she says.",
    "\"Yes,\" says Meenu.",
    "\"Good,\" says Amma. \"Now I can tell which half is yours.\"",
-   "The next morning I came at the same time, as I always do. There was a whole kolam on the floor, and the two halves almost matched. And on my railing, someone had left a small pinch of rice, just for me."
+   "The next morning I come at the same time, as I always do. There is a whole kolam on the floor, and the two halves almost match. And on my railing, someone has left a small pinch of rice, just for me."
   ],
   "epiphany": "For the parent: the turn comes when Meenu sees Kaaki's two matching wings, each missing a feather in the same place, and then lays her own two hands on the kolam. She understands Amma's words: the missing half is the drawn half, flipped. A symmetrical shape holds the plan for its own missing half. The crow also shows a pattern in time: she comes at the same time each day because the kolam is drawn at the same time each day. The fat petal shows that hand-made and living things are never exactly symmetrical.",
   "ask": [

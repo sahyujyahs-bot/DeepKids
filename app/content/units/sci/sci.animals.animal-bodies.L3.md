@@ -652,19 +652,19 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
    **Answer:** A strong answer picks one idea and gives evidence, for example that worms breathe through damp skin. It plans a fair test, for example drumming on damp soil with no rain to see if worms come up. It also says what is good about another idea.. *Why:* Scientists still argue about this, and more than one reason may be true. Testing one idea at a time is how they find out.
 13. (write) In the story 'The Fish in the Palm Tree', Selvi's grandmother keeps climbing perch in a pot of wet mud and wet leaves. The fish live for days. Why must the mud stay damp, even for a fish that breathes air?  
    **Answer:** The climbing perch gulps air, but oxygen still has to pass through a thin, damp surface into the blood. If the fish dries out, their gills and labyrinth organ stop working, and they cannot breathe.. *Why:* Every breathing surface must be damp, because oxygen has to dissolve in water before it can pass into blood.
-14. (mcq) Why do mammals like dolphins and whales store extra oxygen in their blood and muscles?  
-   Options: So they can stay underwater longer while hunting / To make them float / To keep their skin wet  
-   **Answer:** So they can stay underwater longer while hunting. *Why:* Diving animals can't breathe underwater. Extra stored oxygen lets them hunt for longer before coming up. Some deep-diving whales stay down for over an hour.
+14. (mcq) When you hold your breath, the need to breathe grows stronger and stronger. What mostly causes that strong need?  
+   Options: Carbon dioxide building up in your blood / Your lungs running completely out of oxygen / Your nose getting dry  
+   **Answer:** Carbon dioxide building up in your blood. *Why:* Your body watches carbon dioxide most closely. Long before your blood runs low on oxygen, rising carbon dioxide makes you want to breathe. Picking 'out of oxygen' is a natural guess, but your blood still holds plenty of oxygen when the need begins.
 15. (truefalse) A crab who walks on the beach breathes with gills.  
    **Answer:** True. *Why:* True. Crabs breathe with gills, even on land. They keep their gills damp inside a covered space on each side of their body. If the gills dry out, the crab cannot breathe.
 ### Breathing and finding food: big thinking (challenge, 15 questions)
-1. (write) Lungs, gills and frog skin look very different. Write three things they all have in common.  
-   **Answer:** They are thin. They are damp. They have lots of surface, and blood flows just underneath.. *Why:* All breathing surfaces work the same way: oxygen passes through a thin, wet wall into blood.
+1. (write) A plastic bag is very thin, but dry. A thick wet towel is damp, but not thin. Would either make a good breathing part for an animal? Explain, using what lungs, gills and frog skin all have in common.  
+   **Answer:** Neither would work well. A breathing part must be thin, damp, have lots of surface and have blood flowing just underneath. The plastic bag is dry and has no blood, and the towel is too thick for oxygen to pass through quickly.. *Why:* Oxygen must dissolve in a wet layer and then pass through a very thin wall into blood. A strong answer names all the shared features and shows which one each object is missing.
 2. (mcq) Water holds about 30 times less oxygen than air. What would you expect a fish to do in warm, still water with even less oxygen?  
    Options: Move their gill covers faster, or come to the surface / Stop breathing to save oxygen / Sleep until the water gets better  
    **Answer:** Move their gill covers faster, or come to the surface. *Why:* With less oxygen in the water, a fish must push more water over their gills, so they pump faster. Some fish come to the surface, where the water has a little more oxygen. Picking 'stop breathing' would be fatal. Every cell needs a steady supply.
-3. (truefalse) The oxygen you breathe was put into the air by plants and tiny sea algae.  
-   **Answer:** True. *Why:* True. Plants and algae make oxygen when they make food from sunlight. Scientists think about half of the oxygen made each year comes from tiny algae in the sea.
+3. (truefalse) Gram for gram, a mouse uses more oxygen than an elephant.  
+   **Answer:** True. *Why:* True. A small body loses heat fast, so a mouse burns food quickly to stay warm. Each gram of mouse uses many times more oxygen than each gram of elephant. That is why a mouse breathes so fast.
 4. (perspective) Scientists have argued about where lungs came from.  
    **Answer:** A strong answer picks a side and names evidence, for example that some old kinds of fish alive today, like lungfish, have lungs and gulp air in muddy water. It explains why Darwin's idea seemed sensible: both are air bags in the body. It says that new evidence can change scientists' minds.. *Why:* Darwin's idea was reasonable for his time. Studies of living fish and fossils now point the other way. Science changes when evidence changes.
 5. (write) Bar-headed geese fly over the Himalayas, where each breath of air holds much less oxygen. Predict two things about their bodies that would help them get enough oxygen.  
@@ -692,7 +692,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 14. (write) In the limewater test, your breath turned the water milky. The carbon dioxide in your breath was made in your cells. Where did the carbon in it come from?  
    **Answer:** From my food. My cells used oxygen to break down the food for energy. The carbon in the food came out as carbon dioxide, and I breathed it out.. *Why:* Respiration turns food and oxygen into energy, carbon dioxide and water. So part of every meal leaves the body in the breath.
 15. (match) Match each animal's problem to the body part or trick that solves it.  
-   **Answer:** climbing perch, in warm water with little oxygen → a labyrinth organ to breathe gulped air; Cuvier's beaked whale, with no air for hours → oxygen stored in blood and muscles; earthworm, living in soil → thin, damp skin that takes in oxygen; grasshopper, whose muscles need air → air pipes that reach every part of the body. *Why:* Each body solves the same problem, getting oxygen to the cells, in a way that fits where the animal lives.
+   **Answer:** mudskipper, a fish who spends hours out on the mud → water kept inside big gill chambers, and damp skin that takes in oxygen; diving bell spider, who lives under water → a bubble of air held under water, like a tiny tent; earthworm, living in soil → thin, damp skin that takes in oxygen; grasshopper, whose muscles need air → air pipes that reach every part of the body. *Why:* Each body solves the same problem, getting oxygen to the cells, in a way that fits where the animal lives.
 
 ## Videos
 - **How Do Fish Breathe? Animal Science for Kids** (SciShow Kids, 3 min) id `zj5v3n6Nlm8`: A short, clear video for children on how gills take oxygen out of water. *Check:* Found by YouTube search for 'how do fish breathe gills'. Title and channel checked automatically. A parent may still preview it.

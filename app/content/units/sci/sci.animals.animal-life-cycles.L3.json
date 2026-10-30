@@ -853,29 +853,28 @@
    "mins": 20,
    "items": [
     {
-     "t": "order",
-     "p": "Put the stages of a butterfly in order, starting at the beginning: butterfly, caterpillar, egg, chrysalis.",
-     "items": [
-      "egg",
-      "caterpillar",
-      "chrysalis",
-      "butterfly"
+     "t": "mcq",
+     "p": "A big caterpillar on a curry leaf plant stops eating, hangs very still from a twig and holds on with silk. Predict: what is about to happen?",
+     "opts": [
+      "Their skin splits, and a chrysalis forms underneath",
+      "They are about to die of hunger",
+      "They will lay eggs",
+      "They are asleep and will wake up as the same caterpillar"
      ],
-     "a": "order shown",
-     "why": "A butterfly lays an egg. A caterpillar hatches and eats. They make a chrysalis. A butterfly comes out. Then they lay eggs, and the cycle starts again.",
-     "art": "Four small pictures in a row: egg, caterpillar, chrysalis, butterfly."
+     "a": 0,
+     "why": "A caterpillar stops eating and hangs still just before the chrysalis stage. Inside, the body gets ready to be rebuilt into a butterfly. Picking 'lay eggs' is a mix-up. Only the adult butterfly lays eggs."
     },
     {
      "t": "order",
-     "p": "Put the stages of a frog in order: froglet, frogspawn, adult frog, tadpole.",
+     "p": "Put the stages of a mosquito in order: flying adult, tumbler, egg, wriggler.",
      "items": [
-      "frogspawn",
-      "tadpole",
-      "froglet",
-      "adult frog"
+      "egg",
+      "wriggler",
+      "tumbler",
+      "flying adult"
      ],
      "a": "order shown",
-     "why": "Frogspawn hatches into tadpoles. Tadpoles grow legs and become froglets. Froglets lose their tails and become frogs."
+     "why": "A mosquito lays eggs on still water. Wrigglers hatch and eat. Each wriggler becomes a tumbler, which is the pupa. A flying adult comes out of the tumbler. The first three stages all live in water."
     },
     {
      "t": "write",
@@ -948,11 +947,9 @@
     },
     {
      "t": "truefalse",
-     "p": "A tadpole's tail falls off when they become a frog.",
+     "p": "A small butterfly is a young one, who will grow bigger.",
      "a": false,
-     "why": "False. The tail gets shorter a little each day. Its cells are broken down and the body uses the material to build the frog. Nothing drops off.",
-     "how": "e3",
-     "context": "Tadpole Watch is a six-week monsoon experiment. You keep a few tadpoles in pond water and measure their tails every second day."
+     "why": "False. A butterfly does not grow at all after coming out of the chrysalis. All the growing happens in the caterpillar stage. A small butterfly is a grown-up of a small kind, or one who had less food as a caterpillar."
     },
     {
      "t": "mcq",
@@ -980,9 +977,9 @@
     },
     {
      "t": "draw",
-     "p": "Draw the life cycle of a frog as a circle. Draw and label four stages, with arrows between them.",
-     "a": "Frogspawn, then a tadpole, then a froglet with legs and a short tail, then an adult frog, with an arrow back to frogspawn.",
-     "why": "A life cycle is drawn as a circle, because the adult frog lays frogspawn and the cycle starts again.",
+     "p": "Draw the life cycle of a hen as a circle, with arrows between the stages. Then write one way it is different from a frog's life cycle.",
+     "a": "Egg, chick, young hen, adult hen, with an arrow back to the egg. A strong answer says the chick already looks like a small hen, while a tadpole looks nothing like a frog.",
+     "why": "A life cycle is drawn as a circle, because the adult hen lays eggs and the cycle starts again. A hen has no metamorphosis.",
      "art": "An empty circle with four boxes on it and arrows between them."
     },
     {
@@ -1254,12 +1251,12 @@
       },
       {
        "who": "A butterfly scientist",
-       "says": "Raising one is fine if you give them fresh leaves of their own plant, keep the cage clean, and let the butterfly go where you found her."
+       "says": "Raising one is fine if you give them fresh leaves of their own plant, keep the cage clean, and let the butterfly go where you found the caterpillar."
       }
      ],
      "ask": "What would you do? Pick a side and give a reason. Then answer back from another side.",
      "lines": 5,
-     "a": "A strong answer picks a side with a reason, for example that a cage protects the caterpillar, or that they are safest on their own plant and no handling. It then answers back fairly from another side, for example that wild caterpillars face wasps and birds.",
+     "a": "A strong answer picks a side with a reason, for example that a cage protects the caterpillar from wasps, or that they are safest on their own plant with no handling. It then answers back fairly from another side, for example that wild caterpillars face wasps and birds, or that a cage needs fresh leaves every day.",
      "why": "This is a real trade-off. Raising a caterpillar teaches a lot and keeps them safe from predators, but it needs care every day. Watching them on the plant needs no cage but you may miss stages."
     },
     {
@@ -1368,9 +1365,9 @@
     },
     {
      "t": "truefalse",
-     "p": "All the atoms in a butterfly's body are brand new and have never been part of anything else.",
+     "p": "For most of their life, a cicada is a winged adult singing in the trees.",
      "a": false,
-     "why": "False. The caterpillar built their body from leaves, and the leaves were built from air, water and soil. Atoms go round and round, through plants, animals, soil and air."
+     "why": "False. A cicada spends years under the ground as a young nymph, sucking juice from roots. Some cicadas stay down there for 13 or even 17 years. Then they climb up, moult, and live as singing adults for only a few weeks. The adult is the short last stage, not the whole life."
     },
     {
      "t": "truefalse",
@@ -1437,10 +1434,10 @@
     },
     {
      "t": "write",
-     "p": "In the story 'Where the Tails Go', Kavya thought her tadpoles were sick. Her friend Farida's notebook showed something else. Why are written records useful in science?",
-     "lines": 3,
-     "a": "Memory can trick us, and worry can make us see things. The notebook showed the tail shrinking a little each day, not snapping. That pattern told them it was being taken back in.",
-     "why": "Scientists measure and write things down, so that they can see patterns they would otherwise miss."
+     "p": "The axolotl is a kind of salamander from Mexico. Most axolotls keep their gills and tail and live in water all their life, yet they grow up and lay eggs. Does an axolotl still have a life cycle? Use what you know about hormones to explain why they stay in their water form.",
+     "lines": 4,
+     "a": "Yes. An axolotl still goes from egg to young to adult who lays eggs, and round again. They skip the big change because their body does not start metamorphosis, like a tadpole with too little thyroid hormone. Scientists have found that giving an axolotl that hormone can make them change into a land form.",
+     "why": "A life cycle means the adult makes new young, not that the body must change shape. A strong answer links the missing change to the hormone signal."
     },
     {
      "t": "write",

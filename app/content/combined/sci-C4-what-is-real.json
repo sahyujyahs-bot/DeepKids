@@ -87,7 +87,7 @@
      "kind": "talk",
      "title": "Real for everyone, or real for me?",
      "mins": 10,
-     "do": "Write two headings on paper: 'Real for everyone' and 'Real for me'. Read out each thing and let your child place it, with a reason: the length of this table, a toothache, the taste of rasam, a rainbow, how hot the water in the tap is, feeling scared in the dark, a ₹100 note, the colour of a red hibiscus. Ask about the hard ones. 'A rainbow: can two people point at the same rainbow?' (Each person sees their own rainbow, because it depends on where you stand, but anyone can photograph one.) 'The ₹100 note: is the paper real? Is its value real?' (The paper is real for everyone. Its value is real because many people agree on it.) 'Red: is my red the same as your red?' (We both call it red, but nobody can check what it looks like inside another person.) Say: 'Scientists call real-for-everyone objective. They call real-for-me subjective. A toothache is subjective, but it is still real.'"
+     "do": "Write two headings on paper: 'Real for everyone' and 'Real for me'. Read out each thing and let your child place it, with a reason: the length of this table, a toothache, the taste of rasam, a rainbow, how hot the water in the tap is, feeling scared in the dark, a ₹100 note. Ask about the hard ones. 'A rainbow: can two people point at the same rainbow?' (Each person sees their own rainbow, because it depends on where you stand, but anyone can photograph one.) 'The ₹100 note: is the paper real? Is its value real?' (The paper is real for everyone. Its value is real because many people agree on it.) Say: 'Scientists call real-for-everyone objective. They call real-for-me subjective. A toothache is subjective, but it is still real.'"
     },
     {
      "kind": "exp",
@@ -166,7 +166,7 @@
      "kind": "warmup",
      "title": "Only ever a film",
      "mins": 5,
-     "do": "Ask: 'Imagine you had lived your whole life in one room, watching only a screen. You never saw a real tree, only trees on the screen. Would you know what a tree is?' Let your child argue. Good answers: 'I would know what a tree looks like, but not how it smells or feels', or 'I would think the flat picture is all a tree is.' Say: 'A thinker in Greece called Plato asked a question like this nearly 2,400 years ago. We will act out his story now.' (This is voice v1.)",
+     "do": "Ask: 'Imagine you had lived your whole life in one room, watching only a screen. You never saw a real tree, only trees on the screen. Would you know what a tree is?' Let your child argue. Good answers: 'I would know what a tree looks like, but not how it smells or feels', or 'I would think the flat picture is all a tree is.' Say: 'A thinker in Greece called Plato asked a question like this nearly 2,400 years ago. We will act out his story now.'",
      "ref": "v1"
     },
     {
@@ -192,7 +192,7 @@
    "need": [
     "a torch",
     "a white wall or a white bedsheet hung up",
-    "card, scissors and sticks or pencils to make cut-out shapes",
+    "card, scissors, sticky tape and sticks or pencils to make cut-out shapes",
     "a few small objects: a cup, a spoon, a toy animal"
    ]
   },
@@ -211,7 +211,7 @@
      "kind": "talk",
      "title": "Laws are patterns many people check",
      "mins": 10,
-     "do": "Say: 'A law of nature is a pattern that always happens, however many times and whoever checks it. Things fall when you let go. Water boils at 100 degrees Celsius at the seashore in Chennai, and at a lower temperature high up in the mountains, because the air pushes down on it less there. People in Kochi, Kolkata and Kenya get the same answer.' Ask: 'Is a law of nature real for everyone or real for me?' (Real for everyone.) 'Is a law a thing you can hold?' (No. It is a pattern in how things behave.) Say: 'So some real things are not objects at all. A pattern that never fails is real too.' Your child writes one law they know on a new page of the project book."
+     "do": "Say: 'A law of nature is a pattern that always happens, however many times and whoever checks it. Things fall when you let go. Water boils at 100 degrees Celsius at the seashore in Chennai, and at a lower temperature high up in the mountains, because the air pushes down on it less there. People in Kochi, Kolkata and Mumbai get the same answer.' Ask: 'Is a law of nature real for everyone or real for me?' (Real for everyone.) 'Is a law a thing you can hold?' (No. It is a pattern in how things behave.) Say: 'So some real things are not objects at all. A pattern that never fails is real too.' Your child writes one law they know on a new page of the project book."
     },
     {
      "kind": "exp",
@@ -255,7 +255,7 @@
      "kind": "talk",
      "title": "Inside an atom",
      "mins": 12,
-     "do": "Say: 'Everything is made of atoms. They are far too small to see. An atom has a tiny centre called the nucleus. If an atom were as big as a cricket stadium, the nucleus would be about the size of a mustard seed in the middle of the ground. Yet almost all the atom's weight is in that seed. The rest of the stadium is filled by electrons, tiny particles that are spread out around the nucleus like a cloud.' Act it: your child stands in the middle of the room as the nucleus, holding one mustard seed. You walk round and round the edges of the room, fast, as the electron cloud. Ask: 'If atoms are mostly cloud, why doesn't my hand go through the table?' (The electron clouds of the atoms in your hand and the table push each other away very strongly when they come close.) Say: 'So solid does not mean packed full. It means the atoms push back.'"
+     "do": "Say: 'Everything is made of atoms. They are far too small to see. An atom has a tiny centre called the nucleus. If an atom were as big as a cricket stadium, the nucleus would be about the size of a mustard seed in the middle of the ground. Yet almost all the atom's weight is in that seed. The rest of the stadium is filled by electrons, tiny particles that are spread out around the nucleus like a cloud.' Act it: your child stands in the middle of the room as the nucleus, holding one mustard seed. You walk round and round the edges of the room, fast, as the electron cloud. Ask: 'If atoms are mostly cloud, why doesn't my hand go through the table?' (The electron clouds of the atoms in your hand and the table push each other away very strongly when they come close.) Say: 'So a table is mostly empty space, yet it feels solid because its atoms push back hard.'"
     },
     {
      "kind": "exp",
@@ -305,14 +305,14 @@
      "kind": "talk",
      "title": "What is it like to be a bat?",
      "mins": 12,
-     "do": "Tell voice v3: 'In 1974 a philosopher called Thomas Nagel wrote about bats. Bats find their way in the dark by making high squeaks and listening to the echoes. Nagel said we can learn everything about how a bat's ears and brain work, and still not know what it is like to be a bat.' Then add: 'An Indian scientist, Obaid Siddiqi, studied how fruit flies taste and smell. He found flies with changed genes that could no longer taste or smell certain things. He also set up a famous science centre in Bengaluru. Work like his tells us which genes and nerves a fly uses to taste. It doesn't tell us what sugar tastes like to a fly.' Ask: 'Do you think a fly tastes sugar as sweet, the way you do?' (Nobody knows. Any answer with a reason is fair.)",
+     "do": "Tell voice v3: 'In 1974 a philosopher called Thomas Nagel wrote about bats. Many bats find their way in the dark by making high squeaks and listening to the echoes. Nagel said we can learn everything about how a bat's ears and brain work, and still not know what it is like to be a bat.' Then add: 'An Indian scientist, Obaid Siddiqi, studied how fruit flies taste and smell. He found flies with changed genes that could no longer taste or smell certain things. He also set up the National Centre for Biological Sciences in Bengaluru. Work like his tells us which genes and nerves a fly uses to taste. It doesn't tell us what sugar tastes like to a fly.' Ask: 'Do you think a fly tastes sugar as sweet, the way you do?' (Nobody knows. Any answer with a reason is fair.)",
      "ref": "v3"
     },
     {
      "kind": "think",
      "title": "Lights that tell the truth, and lights that lie",
      "mins": 8,
-     "do": "Say: 'Fireflies make their own light. Making light in a living body is called bioluminescence. A firefly does not need a torch. In some kinds of firefly, the male flashes a pattern in the dark, and a female of the same kind flashes back to show where she is.' Ask: 'What problem does the flashing solve?' (Finding each other in the dark.) Then: 'In America, a scientist called James Lloyd found that females of one kind of firefly copy the answer flash of a different kind. The male of that kind flies down to meet a mate, and she eats him.' Ask: 'Was the flash he saw real?' (The light was real. The message it seemed to give was false.) Your child writes in the project book: 'A real signal can carry a false message.'"
+     "do": "Say: 'Fireflies make their own light. Making light in a living body is called bioluminescence. In some kinds of firefly, the male flashes a pattern in the dark, and a female of the same kind flashes back to show where she is.' Ask: 'What problem does the flashing solve?' (Finding each other in the dark.) Then: 'In America, a scientist called James Lloyd found that females of one kind of firefly copy the answer flash of a different kind. The male of that kind flies down to meet a mate, and she eats him.' Ask: 'Was the flash he saw real?' (The light was real. The message it seemed to give was false.) Your child writes in the project book: 'A real signal can carry a false message.'"
     },
     {
      "kind": "ws",
@@ -349,7 +349,7 @@
      "kind": "exp",
      "title": "The ant trail",
      "mins": 13,
-     "do": "Do Experiment e4. While you watch, ask: 'Which ant is the boss?' (None that we can see.) After you wipe a finger across the trail, ask: 'What did the ants do at the gap?' (They stopped and wandered, then found the trail again.) Say: 'Ants leave a smell on the ground as they walk back from food. Other ants follow it. Nobody plans the trail. A scientist called Deborah Gordon has studied ant colonies in the desert for over 30 years. She found that no ant gives orders, not even the queen, who only lays eggs. The colony decides, but no single ant does.'",
+     "do": "Do Experiment e4. While you watch, ask: 'Which ant is the boss?' (None that we can see.) After you wipe a gap in the trail, ask: 'What did the ants do at the gap?' (They stopped and wandered, then found the trail again.) Say: 'Ants leave a smell on the ground as they walk back from food. Other ants follow it. Nobody plans the trail. A scientist called Deborah Gordon has studied ant colonies in the desert for over 30 years. She found that no ant gives orders, not even the queen, who only lays eggs. The colony decides, but no single ant does.'",
      "ref": "e4"
     },
     {
@@ -363,7 +363,7 @@
      "kind": "talk",
      "title": "Where does awareness come from?",
      "mins": 17,
-     "do": "Say: 'Some scientists think awareness is like the ant trail. They think it emerges when enough brain cells work together, and that simple things have none. Others disagree. One scientist, Giulio Tononi, says awareness depends on how much the parts of a thing share and join up their information. Many scientists argue about his idea.' Tell voice v4. Then say: 'Here is what the evidence points to. Every living thing senses, responds and keeps itself going. A single cell with no brain finds food and swims away from harm. Everything has some inside of its own, of its own kind. Many scientists say instead that only things with a brain, or only some animals, are aware.' Then: 'Awareness can also be switched off and on. In deep sleep, and when a doctor gives an anaesthetic before an operation, a person is not aware. Doctors have used anaesthetics since the 1840s, and they still don't fully know how they switch awareness off. In a study published in 2018, scientists gave an anaesthetic to a touch-me-not plant and a Venus flytrap, and both stopped moving when touched, until it wore off.' Ask: 'What do you think: does awareness need a brain?' Let your child give a reason and write it in the project book.",
+     "do": "Say: 'Some scientists think awareness is like the ant trail. They think it emerges when enough brain cells work together, and that simple things have none. Others disagree. One scientist, Giulio Tononi, says awareness depends on how much the parts of a thing share and join up their information. Many scientists argue about his idea.' Tell voice v4. Then say: 'Every living thing senses, responds and keeps themselves going. A single cell with no brain finds food and swims away from harm. Everything has an inside of its own kind. Many scientists disagree. They say only things with a brain, or only some animals, are aware.' Then: 'Awareness can also be switched off and on. In deep sleep, and when a doctor gives an anaesthetic before an operation, a person is not aware. Doctors have used anaesthetics since the 1840s, and they still don't fully know how they switch awareness off. In a study published in 2018, scientists gave an anaesthetic to a touch-me-not plant and a Venus flytrap, and both stopped moving when touched, until it wore off.' Ask: 'What do you think: does awareness need a brain?' Let your child give a reason and write it in the project book.",
      "ref": "v4"
     }
    ],
@@ -388,7 +388,7 @@
      "kind": "warmup",
      "title": "What can't you doubt?",
      "mins": 5,
-     "do": "Say: 'About 380 years ago, a French thinker called René Descartes tried to doubt everything. Maybe his eyes were fooling him. Maybe he was dreaming.' Ask: 'Is there anything you can't doubt?' Let your child try. Then say: 'Descartes decided that even while he was doubting, he was the one doing the doubting. He wrote: I think, therefore I am.'"
+     "do": "Say: 'Almost 400 years ago, a French thinker called René Descartes tried to doubt everything. Maybe his eyes were fooling him. Maybe he was dreaming.' Ask: 'Is there anything you can't doubt?' Let your child try. Then say: 'Descartes decided that even while he was doubting, he was the one doing the doubting. He wrote: I think, therefore I am.'"
     },
     {
      "kind": "talk",
@@ -645,7 +645,7 @@
        "t": "write",
        "p": "Two views. A physicist says: 'The table is mostly empty space.' A carpenter says: 'The table is solid wood.' Pick one, give your reason, then say one thing the other person gets right.",
        "lines": 5,
-       "a": "A strong answer uses the atom model (a tiny nucleus with an electron cloud) and the knock test. It sees that both describe the same table at different zooms: solid means the atoms push back, not that the space is packed full."
+       "a": "A strong answer uses the atom model (a tiny nucleus with an electron cloud) and the knock test. It sees that both describe the same table at different zooms: the table is mostly empty space, and it feels solid because its atoms push back hard."
       }
      ]
     ]
@@ -710,7 +710,7 @@
       },
       {
        "t": "write",
-       "p": "Two views. Lakshmi says: 'Awareness only comes from a big brain.' Nila says: 'Everything has some inside of its own.' Pick one, give one piece of evidence for it, then answer back from the other side.",
+       "p": "Two views. Lakshmi says: 'Only animals with a brain can be aware.' Nila says: 'Everything has some inside of its own.' Pick one, give one piece of evidence for it, then answer back from the other side.",
        "lines": 6,
        "a": "A strong answer uses evidence such as the ant trail, single cells finding food, plants stopping under anaesthetic, or people losing awareness in deep sleep. It argues one side and then answers fairly from the other."
       },
@@ -823,7 +823,7 @@
     "In the morning, put the sugar on the paper near a place where you have seen ants.",
     "Later, watch for 5 minutes. Count the ants on the paper and on the way to it.",
     "Look closely: do the ants walk in a line? Do ants going towards the sugar touch ants coming back?",
-    "With a damp finger, wipe a short gap across the line, about two fingers wide.",
+    "With the damp cloth, wipe a short gap across the line, about two fingers wide.",
     "Watch for 3 minutes. What do the ants do at the gap?",
     "When you finish, put the sugar in the bin and wipe the place clean."
    ],
@@ -880,7 +880,7 @@
    "need": [
     "a torch",
     "a white wall or a white bedsheet hung up",
-    "card, scissors and pencils or sticks",
+    "card, scissors, sticky tape and pencils or sticks",
     "a few small objects: a cup, a spoon, a toy animal"
    ],
    "steps": [
@@ -1007,7 +1007,7 @@
   },
   {
    "q": "'Solid things are packed full of stuff.'",
-   "hint": "An atom's weight is almost all in a tiny nucleus, and electrons spread like a cloud around it. A table feels solid because the electron clouds push back hard, not because the space is packed. So what does 'solid' really mean?"
+   "hint": "An atom's weight is almost all in a tiny nucleus, and electrons spread like a cloud around it. A table feels solid because the electron clouds push back hard. So what does 'solid' really mean?"
   }
  ],
  "perspectives": [
@@ -1094,7 +1094,7 @@
    "Kannan looked at the cloth. My shadow was running now, with Rama's shadow behind it. \"Is that why it gets bigger and smaller?\"",
    "\"That's Appa moving it nearer the lamp,\" she said. \"Watch. Now it'll go big.\" And I did.",
    "He laughed. Then he went quiet again. \"Revathi. If the deer is Appa's hand, what is Appa?\"",
-   "She didn't answer. She looked up. Above the playhouse roof the sky was full of stars, and over the temple wall the big festival lamp was burning, and somewhere beyond all of it there was the thing that made the stars.",
+   "She didn't answer. She looked up. Above the playhouse roof the sky was full of stars, and over the temple wall the big festival lamp was burning.",
    "On the cloth, Rama's arrow found me. Maricha fell and shouted in Rama's voice, and Sita, hearing it, sent Lakshmana away. Then Ravana came.",
    "Revathi knew it was leather. She knew it was her father's hands and a lamp in a coconut shell. When Sita was carried away, she cried anyway. Kannan held her arm.",
    "After the show, when the lamps were put out and I was laid back in my box, I heard her ask her father a question.",
@@ -1112,7 +1112,7 @@
  "ideas": [
   {
    "idea": "What you see is built by your brain.",
-   "more": "The blind spot test shows the brain filling a gap without telling you. Flipbooks and perspective drawings show it joining and judging what the eyes catch. Seeing is real, but it is your brain's picture, not a window."
+   "more": "The blind spot test shows the brain filling a gap without telling you. Flipbooks and perspective drawings show it joining and judging what the eyes catch. What you see is real, but it is a picture your brain makes from signals."
   },
   {
    "idea": "Real comes in more than one kind.",
@@ -1120,7 +1120,7 @@
   },
   {
    "idea": "Zoom in, and solid things change.",
-   "more": "A table is wood, then fibres, then atoms, each a tiny heavy nucleus with a cloud of electrons. Solid means the atoms push back, not that the space is packed full."
+   "more": "A table is wood, then fibres, then atoms, each a tiny heavy nucleus with a cloud of electrons. A table feels solid because its atoms push back hard when other atoms come close."
   },
   {
    "idea": "Many simple parts can act as one.",

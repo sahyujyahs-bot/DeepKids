@@ -36,11 +36,11 @@
  "words": [
   [
    "electron",
-   "a tiny particle with a negative charge, found in every atom; electrons moving through a wire make an electric current"
+   "a tiny particle with a negative charge, found in every atom. Electrons moving through a wire make an electric current"
   ],
   [
    "electric charge",
-   "what electrons and some other particles carry; opposite charges attract each other and the same charges repel"
+   "what electrons and some other particles carry. Opposite charges attract each other and the same charges repel"
   ],
   [
    "current",
@@ -52,11 +52,11 @@
   ],
   [
    "cell and battery",
-   "a cell stores energy in chemicals and pushes current round a circuit; two or more cells joined together make a battery"
+   "a cell stores energy in chemicals and pushes current round a circuit. Two or more cells joined together make a battery"
   ],
   [
    "volt",
-   "the unit that says how hard a cell or supply pushes; an AA cell is 1.5 volts, the wall socket in India is 230 volts"
+   "the unit that says how hard a cell or supply pushes. An AA cell is 1.5 volts, and the wall socket in India is 230 volts"
   ],
   [
    "conductor",
@@ -68,7 +68,7 @@
   ],
   [
    "resistance",
-   "how much a material holds back the current; a long, thin pencil lead has more resistance than a copper wire"
+   "how much a material holds back the current. A long, thin pencil lead has more resistance than a copper wire"
   ],
   [
    "switch",
@@ -76,11 +76,11 @@
   ],
   [
    "short circuit",
-   "a path with almost no resistance straight from one end of a supply to the other; the current gets very large and the wires get hot"
+   "a path with almost no resistance straight from one end of a supply to the other. The current gets very large and the wires get hot"
   ],
   [
    "earth wire, fuse and MCB",
-   "safety parts at home: the earth wire carries leaked electricity into the ground; a fuse melts and an MCB switches off when too much current flows"
+   "safety parts at home: the earth wire carries leaked electricity into the ground. A fuse melts and an MCB switches off when too much current flows"
   ]
  ],
  "day_mins": 45,
@@ -94,7 +94,7 @@
      "kind": "warmup",
      "title": "What we know from Class 2",
      "mins": 8,
-     "do": "Ask: 'Name three things at home that use electricity from the wall, and three that run on cells.' (Fan, fridge, mixer; torch, TV remote, wall clock.) Ask: 'What did you need to make a bulb light?' (A cell, a bulb and wires joined in a complete loop.) Ask: 'What is our first safety rule?' (We experiment only with cells. Never with wall sockets, plugs or chargers.) Write the rule at the top of a fresh notebook page. Say: 'This year we find out what is actually moving in the wire, and why the wall socket can kill but a cell cannot.'"
+     "do": "Ask: 'Name three things at home that use electricity from the wall, and three that run on cells.' (From the wall: fan, fridge, mixie. On cells: torch, TV remote, wall clock.) Ask: 'What did you need to make a bulb light?' (A cell, a bulb and wires joined in a complete loop.) Ask: 'What is our first safety rule?' (We experiment only with cells. Never with wall sockets, plugs or chargers.) Write the rule at the top of a fresh notebook page. Say: 'This year we find out what is actually moving in the wire, and why the wall socket can kill but a cell cannot.'"
     },
     {
      "kind": "exp",
@@ -113,7 +113,7 @@
      "kind": "think",
      "title": "Draw it the way scientists do",
      "mins": 10,
-     "do": "Show your child four circuit symbols and draw them in the notebook. A cell: a long thin line and a short thick line side by side; the long line is the + end. A bulb: a circle with a cross inside. A wire: a straight line. A switch: a gap with a short line tilted up from one side. Say: 'Scientists everywhere use these symbols, so anyone can read a circuit diagram.' Your child draws today's circuit as a diagram, with straight lines and square corners. Ask: 'Why use symbols and not drawings of the real things?' (They are quick, and they are the same in every country.)"
+     "do": "Show your child four circuit symbols and draw them in the notebook. A cell: a long thin line and a short thick line side by side. The long line is the + end. A bulb: a circle with a cross inside. A wire: a straight line. A switch: a gap with a short line tilted up from one side. Say: 'Scientists everywhere use these symbols, so anyone can read a circuit diagram.' Your child draws today's circuit as a diagram, with straight lines and square corners. Ask: 'Why use symbols and not drawings of the real things?' (They are quick, and they are the same in every country.)"
     }
    ],
    "need": [
@@ -126,7 +126,7 @@
    ],
    "prep": [
     {
-     "task": "Buy a school circuit kit from a stationery or electrical shop, or online: 3 single AA cell holders, 3 torch bulbs marked 2.5 V with holders, 8 wires with crocodile clips, 1 red LED, a pack of fresh AA cells, a 9 volt battery with a snap connector, and a packet of 0.5 mm pencil leads",
+     "task": "Buy a school circuit kit from a stationery or electrical shop, or online: 3 single AA cell holders, 3 torch bulbs marked 2.5 V with holders, 8 wires with crocodile clips, a pack of fresh AA cells, a 9 volt battery with a snap connector, and a packet of 0.5 mm pencil leads",
      "when": "1 week before"
     }
    ]
@@ -186,7 +186,7 @@
      "kind": "think",
      "title": "Living in muddy water",
      "mins": 13,
-     "do": "Say: 'In the muddy rivers of South America lives a long fish called the electric eel. The water is so cloudy that eyes are little use, and the eel's eyesight is poor. So how do they find their way and their food?' Let your child guess. Then say: 'Special cells in their body work like many small cells joined together. They send out weak electric pulses all the time and sense how the pulses change near rocks, plants and fish. That lets them find things in the dark water. When they hunt, they send out a strong shock of more than 500 volts, which makes the fish near them twitch and freeze.' Ask: 'Why can an eel's shock reach a fish without touching it?' (River water has salts and conducts, so the water carries the current to the fish.) Ask: 'Electric eels come up to gulp air. Why might their electricity work less well out of water?'"
+     "do": "Say: 'In the muddy rivers of South America lives a long fish called the electric eel. The water is so cloudy that eyes are little use, and the eel's eyesight is poor. So how do they find their way and their food?' Let your child guess. Then say: 'Their body has thousands of special cells called electrocytes, lined up in rows. Each makes a tiny voltage, and together they add up, like battery cells joined in a line. They send out weak electric pulses all the time and sense how the pulses change near rocks, plants and fish. That lets them find things in the dark water. When they hunt, they send out a strong shock of more than 500 volts, which makes the fish near them twitch and freeze.' Ask: 'Why can an eel's shock reach a fish without touching it?' (River water has salts and conducts, so the water carries the current to the fish.)"
     }
    ],
    "need": [
@@ -214,7 +214,7 @@
      "kind": "talk",
      "title": "1.5 volts and 230 volts",
      "mins": 10,
-     "do": "Show an AA cell and point to '1.5 V' on it. Say: 'A volt measures how hard a supply pushes the current. This cell pushes with 1.5 volts. That is far too weak to push current through dry skin, so it is safe to hold. The sockets in Indian homes push with 230 volts. That is strong enough to push current through a person's body, and it can kill.' Ask: 'How many AA cells would make 230 volts?' (Help them: 230 divided by 1.5 is about 153 cells.) Say: 'The mains comes from a power station, along wires on tall towers, through a meter, and into the wires inside our walls.'"
+     "do": "Show an AA cell and point to '1.5 V' on it. Say: 'A volt measures how hard a supply pushes the current. This cell pushes with 1.5 volts. That is far too weak to push a harmful current through your skin, so it is safe to hold. The sockets in Indian homes push with 230 volts. That is strong enough to push current through a person's body, and it can kill.' Ask: 'How many AA cells would make 230 volts?' (Help them: 230 divided by 1.5 is about 153 cells.) Say: 'The mains comes from a power station, along wires on tall towers, through a meter, and into the wires inside our walls.'"
     },
     {
      "kind": "do",
@@ -378,7 +378,7 @@
      "kind": "talk",
      "title": "DC or AC?",
      "mins": 10,
-     "do": "Tell your child about voice v4, Thomas Edison and Nikola Tesla. Say: 'A cell gives direct current, DC, which flows one way round. The socket gives alternating current, AC, which changes direction 50 times every second in India.' Ask the voice question. Then read the challenge about who invented the light bulb, and ask: 'Why do some names get remembered and others forgotten?'",
+     "do": "Tell your child about voice v4, Thomas Edison and Nikola Tesla. Say: 'A cell gives direct current, DC, which flows one way round. The socket gives alternating current, AC, which flows back and forth 50 times every second in India.' Ask the voice question. Then read the challenge about who invented the light bulb, and ask: 'Why do some names get remembered and others forgotten?'",
      "ref": "v4"
     },
     {
@@ -601,7 +601,7 @@
       },
       {
        "t": "write",
-       "p": "Arjun slides a crocodile clip along a pencil lead in his circuit. As the clips get further apart, the bulb gets dimmer. Explain why, using the word 'resistance'.",
+       "p": "Divya slides a crocodile clip along a pencil lead in his circuit. As the clips get further apart, the bulb gets dimmer. Explain why, using the word 'resistance'.",
        "lines": 3
       },
       {
@@ -1124,7 +1124,7 @@
    },
    {
     "front": "Safe or not? Holding an AA cell",
-    "back": "Safe: 1.5 volts can't push current through dry skin."
+    "back": "Safe: 1.5 volts is far too weak to push a harmful current through dry skin."
    },
    {
     "front": "Safe or not? Poking a hairpin into a socket",
@@ -1220,7 +1220,7 @@
   },
   {
    "who": "A lineworker of the electricity board",
-   "view": "Lineworkers climb poles in heat and rain to fix the wires that light our homes. They switch off the line, check it is dead, and use rubber gloves and insulated tools before they touch anything. Ask: who is it in your area who fixes the line after a storm, and have you ever thanked them?"
+   "view": "Lineworkers climb poles in heat and rain to fix the wires that light our homes. They switch off the line, check it is dead, and use rubber gloves and insulated tools before they touch anything. Ask: who fixes the line in your area after a storm? Have you ever thanked them?"
   },
   {
    "who": "A farmer who pumps water at night",
@@ -1231,7 +1231,7 @@
   {
    "id": "v1",
    "who": "Stephen Gray (1666–1736), England",
-   "idea": "Gray was a dyer of cloth who did science in his spare time. In 1729, he charged a glass tube by rubbing it, and found that the charge could travel along a long, damp thread to an ivory ball at the far end, which then attracted bits of feather. With his friend Granville Wheler, he sent charge along threads hundreds of feet long. When the thread was hung on loops of silk, the charge reached the end. When it was hung on brass wire, the charge leaked away. He had found that some materials carry electricity and others don't: conductors and insulators.",
+   "idea": "Gray was a dyer of cloth who did science in his spare time. In 1729, he charged a glass tube by rubbing it, and found that the charge could travel along a long, damp thread to an ivory ball at the far end, which then attracted light bits of brass leaf. With his friend Granville Wheler, he sent charge along threads hundreds of feet long. When the thread was hung on loops of silk, the charge reached the end. When it was hung on brass wire, the charge leaked away. He had found that some materials carry electricity and others don't: conductors and insulators.",
    "then": "Gray was poor, had little schooling, and lived on charity in his old age. But his experiments were reported to the Royal Society in London, which gave him its Copley Medal, its highest prize, in 1731, the first time it was awarded, and again in 1732.",
    "now": "Accepted. Gray's discovery that electricity flows through some materials and not others is the basis of every wire and every switch.",
    "status": "accepted",
@@ -1263,7 +1263,7 @@
    "who": "Thomas Edison (1847–1931) and Nikola Tesla (1856–1943), United States",
    "idea": "In the 1880s, Edison's company built power stations that sent direct current (DC), which flows one way only, like the current from a cell. Tesla invented a motor that runs on alternating current (AC), which changes direction many times a second. George Westinghouse's company bought Tesla's patents. AC can easily be raised to a very high voltage with a machine called a transformer, sent a long way along thin wires, and then lowered again for homes.",
    "then": "This was called the war of the currents. Edison's side warned loudly that high-voltage AC was deadly. AC won: it lit the 1893 world's fair in Chicago, and in 1895 a power station at Niagara Falls began sending AC to factories and, from 1896, to the city of Buffalo.",
-   "now": "Both are used. Homes in India get AC at 230 volts, changing direction 50 times a second. Phones, torches and solar panels use DC. Some very long power lines in India now carry high-voltage DC, such as the line from Raigarh in Chhattisgarh to Pugalur in Tamil Nadu.",
+   "now": "Both are used. Homes in India get AC at 230 volts, flowing back and forth 50 times a second. Phones, torches and solar panels use DC. Some very long power lines in India now carry high-voltage DC, such as the line from Raigarh in Chhattisgarh to Pugalur in Tamil Nadu.",
    "status": "accepted",
    "ask": "Edison was right that high-voltage AC is dangerous, and Tesla was right that it travels far. Can a side be right about something and still lose the argument?",
    "day": 8
@@ -1302,7 +1302,7 @@
    "title": "Electric Universe",
    "author": "David Bodanis",
    "for": "parent reads",
-   "age": "adult; read short parts aloud",
+   "age": "adult, read short parts aloud",
    "why": "Lively true stories of the people who discovered electricity, for the parent to share."
   }
  ],
@@ -1353,7 +1353,7 @@
    "Kittu lowered the rod. 'But the crow sits on it,' he said, pointing at me. 'She's fine.'",
    "'The crow touches only the wire,' said Sravani. 'Nothing joins her to the ground. You would be holding the wire with one end of a steel rod while you stand on a wet floor. You would be the path. You would be the bulb.'",
    "Kittu looked at the rod as if it might bite him. Then he had another idea. 'A wooden stick, then. Wood is an insulator. You said so.'",
-   "Sravani opened her mouth, and then closed it. 'Dry wood is,' she said slowly. 'But I don't know if that stick is dry all the way through. And our cell was only one and a half volts. These wires push much harder than the sockets at home. We tested our things on a cell. We don't test on a power line.'",
+   "Sravani opened her mouth, and then closed it. 'Dry wood is,' she said slowly. 'But I don't know if that stick is dry all the way through. And our cell was only one and a half volts. These wires push at least as hard as the sockets at home, often harder. We tested our things on a cell. We don't test on a power line.'",
    "She took the spool from Kittu and cut the string with her mother's scissors. The string fell away from the kite, and the kite stayed hanging on my wire.",
    "That afternoon, their mother called the electricity office. A lineworker came on a scooter, a woman named Padma with a coil of rope and a long yellow pole made of fibreglass, a material that does not conduct. She looked up at the kite. She looked at the bucket still standing by the terrace wall. 'Who stopped him?' she asked. Kittu pointed at his sister.",
    "Padma asked the office to switch the line off. For ten minutes, the whole lane went quiet. The fans stopped in every flat. The tea stall's radio went silent. The temple's speaker stopped in the middle of a song. Padma tested the wire to make sure it was dead, then hooked the kite down with her pole. It was torn in two places. She gave it to Kittu anyway.",
@@ -1386,13 +1386,13 @@
   },
   {
    "idea": "How things are joined changes what they do.",
-   "more": "The same three bulbs glow dimly in one loop and brightly side by side. Homes are wired side by side, in parallel, so each light gets the full push and works on its own."
+   "more": "The same bulbs glow dimly in one loop and brightly side by side. Homes are wired side by side, in parallel, so each light gets the full push and works on its own."
   }
  ],
  "unknowns": [
   "How exactly does lightning start inside a cloud? The electric charge measured inside storm clouds seems too weak to start a spark on its own, and scientists are still testing ideas about what sets it off.",
   "Can we make a wire that carries current with no resistance at room temperature? Some materials, called superconductors, do this only when very cold. Nobody has yet made one that works in ordinary conditions.",
   "How do the tiny electrical signals in the brain become thoughts, feelings and the experience of seeing? Scientists can record the signals, but nobody knows the whole answer.",
-  "How many animals sense electric charge in the air? Scientists found that bees and some spiders do it only in the 2010s, and scientists are still finding out how they use it."
+  "How many animals sense electric charge in the air? Scientists found only in the 2010s that bees and some spiders can do this. They are still finding out how these animals use it."
  ]
 }

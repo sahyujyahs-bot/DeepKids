@@ -187,7 +187,7 @@
      "title": "Rosemary and Peter Grant count finch beaks",
      "mins": 11,
      "ref": "v1",
-     "do": "Tell the true story in Voice v1. Show a photo of a medium ground finch on a phone. Say: 'On a tiny island called Daphne Major, Rosemary and Peter Grant measured the beak of nearly every finch.' Ask: 'In the drought of 1977, the small seeds ran out. Only big, hard seeds were left. Which finches do you think survived?' (The ones with bigger, stronger beaks.) Say: 'The next year, the young finches had slightly bigger beaks, on average, like their parents. Nobody chose. The drought did.' Say: 'Scientists call this natural selection.' Ask the question in the voice."
+     "do": "Tell the true story in Voice v1. Show a photo of a medium ground finch on a phone. Say: 'On a tiny island called Daphne Major, Rosemary and Peter Grant measured the beak of nearly every finch.' Ask: 'In the drought of 1977, the small seeds ran out. Only big, hard seeds were left. Which finches do you think survived?' (The ones with bigger, stronger beaks.) Say: 'The next year, the young finches had slightly bigger beaks, on average, like their parents. Nobody chose this. The drought decided which birds lived.' Say: 'Scientists call this natural selection.' Ask the question in the voice."
     }
    ],
    "need": [
@@ -197,13 +197,13 @@
     "a steel plate",
     "2 handfuls of whole moong",
     "20 groundnuts in their shells",
-    "a lump of atta dough the size of a lemon",
+    "a lump of atta dough the size of an orange",
     "a phone timer",
     "a phone to show a photo"
    ],
    "prep": [
     {
-     "task": "Knead a small lump of atta dough, about the size of a lemon",
+     "task": "Knead a firm lump of atta dough, about the size of an orange",
      "when": "morning"
     }
    ]
@@ -231,7 +231,7 @@
      "title": "Wallace and Darwin",
      "mins": 8,
      "ref": "v2",
-     "do": "Tell the story in Voice v2. Say: 'Alfred Russel Wallace left school when he was about 13. He paid for his journeys by collecting beetles and birds to sell.' Show the Malay Archipelago on a map on a phone, east of India. Ask: 'Wallace and Charles Darwin had the same idea, on opposite sides of the world. Who should get the credit?' Listen to the reasons. Say: 'Today most books say Darwin. But their idea was first read out to scientists in both their names, in 1858.' Ask the question in the voice."
+     "do": "Tell the story in Voice v2. Say: 'Alfred Russel Wallace left school when he was about 13. He paid for his journeys by collecting beetles and birds to sell.' Show the Malay Archipelago on a map on a phone, south-east of India. Ask: 'Wallace and Charles Darwin had the same idea, on opposite sides of the world. Who should get the credit?' Listen to the reasons. Say: 'Today most books say Darwin. But their idea was first read out to scientists in both their names, in 1858.' Ask the question in the voice."
     },
     {
      "kind": "ws",
@@ -285,7 +285,7 @@
      "kind": "think",
      "title": "Who chose?",
      "mins": 6,
-     "do": "Ask: 'In the finch story, who chose which birds had young?' (Nobody. The drought decided who survived.) Ask: 'With the cauliflower, who chose?' (Farmers.) Say: 'All dogs, from a pug to an Indian pariah dog, come from wolves. Dogs come from wolves that began living alongside people more than 15,000 years ago.' Say: 'Farmers in India have grown thousands of kinds of rice, such as Mappillai Samba in Tamil Nadu, Navara in Kerala and Gobindobhog in Bengal. Each one was made by farmers choosing seeds, year after year.' Your child adds a drawing of a cauliflower to the tree of life chart."
+     "do": "Ask: 'In the finch story, who chose which birds had young?' (Nobody. The drought decided who survived.) Ask: 'With the cauliflower, who chose?' (Farmers.) Say: 'All dogs, from a pug to an Indian pariah dog, come from wolves that began living alongside people more than 15,000 years ago. People chose which dogs had puppies.' Say: 'Farmers in India have grown thousands of kinds of rice, such as Mappillai Samba in Tamil Nadu, Navara in Kerala and Gobindobhog in Bengal. Each one was made by farmers choosing seeds, year after year.' Your child adds a drawing of a cauliflower to the tree of life chart."
     }
    ],
    "need": [
@@ -374,7 +374,7 @@
      "kind": "think",
      "title": "Most kinds are gone",
      "mins": 8,
-     "do": "Say: 'Scientists think that almost all the kinds of living things that ever lived are now extinct. Dinosaurs, ichthyosaurs, and millions of others.' Say: 'Near Ariyalur in Tamil Nadu, people find fossil shells of sea animals called ammonites. That land was under the sea long ago.' Ask: 'Why might a kind of animal die out?' Good answers: the place changed, the food ran out, it got too hot or too cold, a new hunter came. Ask: 'Remember the beak test? What happens to a kind of bird if no bird has a beak that fits the new food?' (They may all die, and the species becomes extinct.)"
+     "do": "Say: 'Scientists think that almost all the kinds of living things that ever lived are now extinct: the dinosaurs that could not fly, the ichthyosaurs, and millions of others.' Say: 'Near Ariyalur in Tamil Nadu, people find fossil shells of sea animals called ammonites. That land was under the sea long ago.' Ask: 'Why might a kind of animal die out?' Good answers: the place changed, the food ran out, it got too hot or too cold, a new hunter came. Ask: 'Remember the beak test? What happens to a kind of bird if no bird has a beak that fits the new food?' (They may all die, and the species becomes extinct.)"
     }
    ],
    "need": [
@@ -813,7 +813,7 @@
     "a steel plate",
     "2 handfuls of whole moong",
     "20 groundnuts in their shells",
-    "a lump of atta dough the size of a lemon",
+    "a lump of atta dough the size of an orange",
     "a phone timer"
    ],
    "steps": [
@@ -821,8 +821,8 @@
     "Each bird holds their beak in one hand only. Put the other hand behind your back.",
     "Start the timer for 20 seconds. Both birds pick up food with their beaks and drop it into their own katori. Only one beakful at a time.",
     "Stop. Look at both katoris. Count the groundnuts. Look at the moong pile and say which is bigger.",
-    "Round 2, a drought. The moong is all eaten. Flatten the dough on the plate. Push 10 groundnuts deep into it, so only the top of each one shows.",
-    "Start the timer for 20 seconds again. Both birds try to get the groundnuts out with their beaks.",
+    "Round 2, a drought. The moong is all eaten. Press the dough into a thick round on the plate, about 3 cm high. Stand 10 groundnuts in it and push them deep, so only the top of each one shows.",
+    "Start the timer for 20 seconds again. Both birds try to get the groundnuts out with their beaks. Beaks may pick or scoop, but not dig into the dough.",
     "Count the groundnuts in each katori. Then swap beaks and do Round 2 once more."
    ],
    "predict": "Ask your child to guess first: 'In Round 1, which beak will get more moong? Which will get more groundnuts? In Round 2, which bird will eat?' Ask why.",
@@ -848,7 +848,7 @@
     "Your child turns away. Scatter 10 newspaper moths and 10 white moths all over the newspaper.",
     "Your child is a hungry bird. Start the timer for 10 seconds. They pick up as many moths as they can, one at a time.",
     "Stop. Count the moths still on the newspaper: how many newspaper moths, how many white moths? Write it down.",
-    "Each moth that survived has one baby. Your child turns away again, and you add one new moth of the same kind for each survivor. Put the eaten moths aside.",
+    "Each moth that survived has one baby. Your child turns away again, and you add one new moth of the same kind for each survivor. Use the eaten moths, or spare squares, as the babies.",
     "Do this for 3 rounds. Write down the numbers after each round.",
     "If there is time, spread a plain white bedsheet, scatter 10 of each again, and do one round."
    ],
@@ -1076,12 +1076,12 @@
   },
   {
    "id": "v2",
-   "who": "Alfred Russel Wallace (1823–1913) and Charles Darwin (1809–1882), English naturalists",
+   "who": "Alfred Russel Wallace (1823–1913) and Charles Darwin (1809–1882), British naturalists",
    "idea": "Darwin had been working on the idea of natural selection for about 20 years without publishing it. In 1858 Wallace, who was collecting animals in the islands of the Malay Archipelago, sent Darwin a letter with the same idea. Their two papers were read out together to scientists in London on 1 July 1858. Darwin published 'On the Origin of Species' the next year.",
    "then": "Wallace was poor and had left school young. He earned his living by selling the animals he collected. Darwin was rich and well known, and his book made his name famous. Many people were angry at the idea that humans are related to other animals.",
    "now": "Natural selection is accepted by scientists everywhere. Darwin usually gets most of the credit. Wallace himself was generous: he called his own book on the idea 'Darwinism'. Many scientists today say the two should be named together.",
    "status": "accepted",
-   "ask": "Darwin had the idea first but kept it to himself. Wallace wrote it down on his own and sent it. Who do you think should get the credit, and why?",
+   "ask": "Darwin had the idea first but had not published it. Wallace wrote it down on his own and sent it. Who do you think should get the credit, and why?",
    "day": 4
   },
   {
@@ -1124,7 +1124,7 @@
    "I watched them grow. When their beaks hardened, I looked at them closely. They were thick and heavy, like mine. Like their mother's. 'You eat like stones falling,' I told them, and I was proud.",
    "The two-legged animals caught my chicks in their soft nets and measured their beaks. They wrote the numbers in their book. Then they turned back the pages to the year before the drought, and compared.",
    "One of them, the woman, looked at the numbers for a long time. Then she said something to the man, and they both smiled. I do not understand their language. But I think they had seen something that nobody can see in one bird or in one day.",
-   "Most of the finches on the island now have thicker beaks than the finches before the drought. Nobody chose this. None of us tried to change our beaks. The rain stopped, the hard seeds stayed, and the birds who could crack them lived to have chicks.",
+   "On average, the finches on the island now have thicker beaks than the finches before the drought. Nobody chose this. None of us tried to change our beaks. The rain stopped, the hard seeds stayed, and the birds who could crack them lived to have chicks.",
    "Sometimes, when the tiny seeds are thick on the ground, I watch a young finch with a thin, neat beak picking them up three at a time. I think of my sister. And I wonder what the next drought, or the next flood, will ask of us."
   ],
   "epiphany": "For the parent: the narrator does not survive because he is better, braver or more hard-working than his sister. He survives because he happened to be born with a thick beak, and the drought left only hard seeds. His chicks inherit his beak, so the whole island's finches change. The turn is when the scientists compare the numbers: evolution is seen not in one bird but in many birds over generations. The last line hints that a different change in the weather could favour thin beaks. This is based on the real drought of 1977 on Daphne Major, studied by Rosemary and Peter Grant.",

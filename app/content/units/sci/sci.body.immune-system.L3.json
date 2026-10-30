@@ -1054,34 +1054,14 @@
     },
     {
      "t": "mcq",
-     "p": "Remember the sticky nose test, with a sticky tape card and a smooth tape card by the window? In one family's test, the sticky card held 42 specks and the smooth card held 6. What does this show?",
+     "p": "Dust tickles the inside of Farida's nose, and she sneezes. What is the sneeze doing for her?",
      "opts": [
-      "Smooth cards make dust disappear",
-      "Sticky surfaces, like mucus, trap much more dust",
-      "Dust only lands on sticky things",
-      "The test was not fair"
+      "Pulling more dust deep into her chest",
+      "Blowing the dust and germs, caught in mucus, out of her nose",
+      "Warming up her nose"
      ],
      "a": 1,
-     "why": "Both cards were in the same place for the same time. Only stickiness changed, so stickiness must trap more dust. Dust lands on the smooth card too, but most of it falls off when the card is tapped.",
-     "how": "e3",
-     "chart": {
-      "type": "bar",
-      "title": "Dust specks caught in one day (example numbers)",
-      "x": "Card",
-      "y": "Number of specks",
-      "data": [
-       {
-        "label": "Sticky card",
-        "value": 42,
-        "emoji": "🍯"
-       },
-       {
-        "label": "Smooth card",
-        "value": 6,
-        "emoji": "📄"
-       }
-      ]
-     }
+     "why": "A sneeze is the nose's wall at work. The mucus catches dust and germs, and the sneeze blasts them out. A strong answer says what is thrown out and why it helps."
     },
     {
      "t": "write",
@@ -1469,12 +1449,11 @@
     },
     {
      "t": "fill",
-     "p": "Celsus, a Roman writer, said inflammation has four signs: redness, heat, swelling and ____.",
+     "p": "Sometimes the immune system fights something harmless, like pollen or dust, as if it were a germ. This is called an ____.",
      "a": [
-      "pain",
-      "soreness"
+      "allergy"
      ],
-     "why": "Pain comes partly because swelling presses on nerves. Celsus wrote this about 2,000 years ago, and doctors still use his list."
+     "why": "An allergy is the defenders making a mistake: sneezing, itching or a rash against something that would never hurt you. Scientists still argue about why allergies have become more common."
     },
     {
      "t": "sort",

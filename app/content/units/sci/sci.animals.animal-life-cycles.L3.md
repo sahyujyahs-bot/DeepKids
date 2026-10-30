@@ -666,10 +666,11 @@ She thought that she should write to Farida about it. She thought that when she 
 
 ## Worksheets
 ### Life Cycle Detective (core) (core, 15 questions)
-1. (order) Put the stages of a butterfly in order, starting at the beginning: butterfly, caterpillar, egg, chrysalis.  
-   **Answer:** order shown. *Why:* A butterfly lays an egg. A caterpillar hatches and eats. They make a chrysalis. A butterfly comes out. Then they lay eggs, and the cycle starts again.
-2. (order) Put the stages of a frog in order: froglet, frogspawn, adult frog, tadpole.  
-   **Answer:** order shown. *Why:* Frogspawn hatches into tadpoles. Tadpoles grow legs and become froglets. Froglets lose their tails and become frogs.
+1. (mcq) A big caterpillar on a curry leaf plant stops eating, hangs very still from a twig and holds on with silk. Predict: what is about to happen?  
+   Options: Their skin splits, and a chrysalis forms underneath / They are about to die of hunger / They will lay eggs / They are asleep and will wake up as the same caterpillar  
+   **Answer:** Their skin splits, and a chrysalis forms underneath. *Why:* A caterpillar stops eating and hangs still just before the chrysalis stage. Inside, the body gets ready to be rebuilt into a butterfly. Picking 'lay eggs' is a mix-up. Only the adult butterfly lays eggs.
+2. (order) Put the stages of a mosquito in order: flying adult, tumbler, egg, wriggler.  
+   **Answer:** order shown. *Why:* A mosquito lays eggs on still water. Wrigglers hatch and eat. Each wriggler becomes a tumbler, which is the pupa. A flying adult comes out of the tumbler. The first three stages all live in water.
 3. (write) Why do we draw a life cycle as a circle, and not as a straight line?  
    **Answer:** Because the adult makes new eggs or babies, and they go through the same stages again. A frog lays frogspawn, the frogspawn becomes tadpoles, and the tadpoles grow into frogs who lay frogspawn.. *Why:* A life cycle has no end point. Each adult starts the next round, so the stages go round and round.
 4. (mcq) Which stage of a butterfly does most of the eating?  
@@ -681,16 +682,16 @@ She thought that she should write to Farida about it. She thought that when she 
    **Answer:** hen → Look like small adults; frog → Change shape completely; cow → Look like small adults; butterfly → Change shape completely; mosquito → Change shape completely; dog → Look like small adults. *Why:* Chicks, calves and puppies look like small versions of their parents. Tadpoles, caterpillars and mosquito wrigglers look nothing like their parents, and go through metamorphosis.
 7. (truefalse) A butterfly comes out of a cocoon.  
    **Answer:** False. *Why:* False. A butterfly comes out of a chrysalis, which is the pupa's own hard skin. A cocoon is a silk case that a moth caterpillar spins around themself.
-8. (truefalse) A tadpole's tail falls off when they become a frog.  
-   **Answer:** False. *Why:* False. The tail gets shorter a little each day. Its cells are broken down and the body uses the material to build the frog. Nothing drops off.
+8. (truefalse) A small butterfly is a young one, who will grow bigger.  
+   **Answer:** False. *Why:* False. A butterfly does not grow at all after coming out of the chrysalis. All the growing happens in the caterpillar stage. A small butterfly is a grown-up of a small kind, or one who had less food as a caterpillar.
 9. (mcq) In the eggshell bubbles experiment, bubbles came out of an egg in very hot water. What does this tell us?  
    Options: The shell has tiny holes that let air through / The egg was cooking / The shell is made of air  
    **Answer:** The shell has tiny holes that let air through. *Why:* The hot water warmed the air inside the egg. Warm air takes up more space, so it pushed out through thousands of tiny holes in the shell. A growing chick breathes through the same holes. Picking 'the egg was cooking' is a natural guess, because bubbles often mean boiling. But the water was not boiling, and the bubbles came from the shell.
 10. (mcq) A tadpole has a tail and gills. A frog has legs and lungs. Why must a tadpole change before living on land?  
    Options: Gills work only in water, and a tail cannot hop. Lungs and legs suit life on land / The tadpole gets bored of the water / Frogs cannot swim, so they must leave the water  
    **Answer:** Gills work only in water, and a tail cannot hop. Lungs and legs suit life on land. *Why:* Each body suits a place. Gills take oxygen from water but collapse in air, and a tail is for swimming. Lungs breathe air, and legs hop and climb. Picking 'frogs cannot swim' is wrong, because frogs swim very well.
-11. (draw) Draw the life cycle of a frog as a circle. Draw and label four stages, with arrows between them.  
-   **Answer:** Frogspawn, then a tadpole, then a froglet with legs and a short tail, then an adult frog, with an arrow back to frogspawn.. *Why:* A life cycle is drawn as a circle, because the adult frog lays frogspawn and the cycle starts again.
+11. (draw) Draw the life cycle of a hen as a circle, with arrows between the stages. Then write one way it is different from a frog's life cycle.  
+   **Answer:** Egg, chick, young hen, adult hen, with an arrow back to the egg. A strong answer says the chick already looks like a small hen, while a tadpole looks nothing like a frog.. *Why:* A life cycle is drawn as a circle, because the adult hen lays eggs and the cycle starts again. A hen has no metamorphosis.
 12. (write) Your friend Nila says, 'A caterpillar and a butterfly are two different animals.' What would you tell her?  
    **Answer:** They are the same animal at two different stages of their life. The caterpillar makes a chrysalis, and their body is rebuilt into the butterfly. They even have the same genes.. *Why:* Metamorphosis changes the body, but it is one animal all the way through. Scientists check this with genes, which match exactly.
 13. (write) In the Wriggler Check, you looked for mosquito babies in still water at home. Why does tipping out the water in a flowerpot tray stop mosquitoes?  
@@ -732,7 +733,7 @@ She thought that she should write to Farida about it. She thought that when she 
 13. (write) A tadpole's thyroid makes the hormone that starts the change into a frog. Predict: what would happen to a tadpole whose body could not make this hormone? Why?  
    **Answer:** The tadpole would never become a frog. With no hormone, there is no message to start the change. Scientists have found that such tadpoles keep growing and stay tadpoles, sometimes becoming very big.. *Why:* A hormone is the signal that starts metamorphosis. Without the signal, the body carries on as it is.
 14. (perspective) Lakshmi found a lime butterfly caterpillar on the curry leaf plant on her balcony. Her family has different ideas.  
-   **Answer:** A strong answer picks a side with a reason, for example that a cage protects the caterpillar, or that they are safest on their own plant and no handling. It then answers back fairly from another side, for example that wild caterpillars face wasps and birds.. *Why:* This is a real trade-off. Raising a caterpillar teaches a lot and keeps them safe from predators, but it needs care every day. Watching them on the plant needs no cage but you may miss stages.
+   **Answer:** A strong answer picks a side with a reason, for example that a cage protects the caterpillar from wasps, or that they are safest on their own plant with no handling. It then answers back fairly from another side, for example that wild caterpillars face wasps and birds, or that a cage needs fresh leaves every day.. *Why:* This is a real trade-off. Raising a caterpillar teaches a lot and keeps them safe from predators, but it needs care every day. Watching them on the plant needs no cage but you may miss stages.
 15. (draw) Draw the life cycle of a grasshopper and of a butterfly side by side. Circle the stage that the grasshopper does not have.  
    **Answer:** Grasshopper: egg, nymph, adult. Butterfly: egg, caterpillar, chrysalis, butterfly. The chrysalis, or pupa, is circled.. *Why:* A grasshopper nymph grows a little more like an adult at each moult, so they need no pupa. A caterpillar looks nothing like a butterfly, so the body is rebuilt inside a chrysalis.
 ### Big Changes, Big Questions (challenge) (challenge, 15 questions)
@@ -750,8 +751,8 @@ She thought that she should write to Farida about it. She thought that when she 
 5. (mcq) Some bush frogs in the Western Ghats lay their eggs on wet leaves, far from any pond. Predict: what hatches from these eggs?  
    Options: A tiny froglet. The tadpole stage happens inside the egg / A tadpole, who then crawls to a pond / Nothing, because frog eggs must be in water  
    **Answer:** A tiny froglet. The tadpole stage happens inside the egg. *Why:* These bush frogs skip the free-swimming tadpole. The young grows through the tadpole stage inside the egg, and a tiny froglet hatches. Picking 'nothing' is a fair first guess, because most frog eggs need ponds.
-6. (truefalse) All the atoms in a butterfly's body are brand new and have never been part of anything else.  
-   **Answer:** False. *Why:* False. The caterpillar built their body from leaves, and the leaves were built from air, water and soil. Atoms go round and round, through plants, animals, soil and air.
+6. (truefalse) For most of their life, a cicada is a winged adult singing in the trees.  
+   **Answer:** False. *Why:* False. A cicada spends years under the ground as a young nymph, sucking juice from roots. Some cicadas stay down there for 13 or even 17 years. Then they climb up, moult, and live as singing adults for only a few weeks. The adult is the short last stage, not the whole life.
 7. (truefalse) Your thyroid makes a hormone of the same kind as a tadpole's.  
    **Answer:** True. *Why:* True. Your thyroid makes the same kind of hormone. It helps you grow and use energy. It needs iodine, which is why salt in India has iodine added.
 8. (fill) The small groups of cells inside a caterpillar that wait, then grow into wings, legs and eyes, are called ____ discs.  
@@ -765,8 +766,8 @@ She thought that she should write to Farida about it. She thought that when she 
    **Answer:** Lots of eggs: even if most are eaten, a few will survive, and the parent doesn't need to stay. Fewer eggs with care: each chick has a much better chance, because the hen keeps them warm and safe.. *Why:* Both ways work, in different lives. Scientists compare these two ways: many young with no care, or a few young with lots of care.
 12. (perspective) Silk is made from the cocoons of silk moths. Usually the pupa inside is killed, so the thread stays in one long piece. People see this in different ways.  
    **Answer:** A strong answer gives a clear view with a reason, for example the moth's life or the weavers' work. It fairly states what the other side has right. There is no single right answer.. *Why:* This is a question about fairness, not a fact. Both sides have real reasons, and a good answer weighs them.
-13. (write) In the story 'Where the Tails Go', Kavya thought her tadpoles were sick. Her friend Farida's notebook showed something else. Why are written records useful in science?  
-   **Answer:** Memory can trick us, and worry can make us see things. The notebook showed the tail shrinking a little each day, not snapping. That pattern told them it was being taken back in.. *Why:* Scientists measure and write things down, so that they can see patterns they would otherwise miss.
+13. (write) The axolotl is a kind of salamander from Mexico. Most axolotls keep their gills and tail and live in water all their life, yet they grow up and lay eggs. Does an axolotl still have a life cycle? Use what you know about hormones to explain why they stay in their water form.  
+   **Answer:** Yes. An axolotl still goes from egg to young to adult who lays eggs, and round again. They skip the big change because their body does not start metamorphosis, like a tadpole with too little thyroid hormone. Scientists have found that giving an axolotl that hormone can make them change into a land form.. *Why:* A life cycle means the adult makes new young, not that the body must change shape. A strong answer links the missing change to the hormone signal.
 14. (write) Your body is slowly rebuilt from the food you eat. Is the rice you ate today going to be part of you? Explain.  
    **Answer:** Yes. My body breaks down food and uses some of it to build new cells, like skin, blood and muscle. So some of today's rice will become part of me.. *Why:* Like a tadpole using their tail, or a chick using their yolk, your body takes food apart and builds with the pieces. Every living thing does this.
 15. (draw) Draw a waiting group of cells inside a caterpillar. Then draw what they become inside the chrysalis.  

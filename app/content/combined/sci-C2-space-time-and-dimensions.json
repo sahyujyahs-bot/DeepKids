@@ -6,7 +6,7 @@
  "n": "space-time-and-dimensions",
  "title": "Space and time: where things are and when things happen",
  "source": "DeepKids Combined, The Deep End. A pure DeepKids topic built from the founder's Grade 2 concept grids ('Space', 'Time', 'Dimensions', 'Twin paradox', 'Time travel' and 'Worm hole'). No board teaches it at primary level, so there are no board subtopics to cover. No textbook needed.",
- "summary": "An 'empty' tumbler pushed into water keeps a tissue dry, because even empty space is full of air. Your child finds out that everything takes up room, that space has three directions, and that three numbers can find any spot in a room. They see that a shadow is flat while a ball is solid, and why the round Earth looks flat. Then they turn to time. They guess a minute with their eyes shut, make a floating bowl clock and a swinging string clock, and learn that days, months and years come from the Earth and Moon moving. Last, they find that every event has a where and a when, that noon comes at different times in different places, and that even very exact clocks do not all tick at the same speed.",
+ "summary": "An 'empty' tumbler pushed into water keeps a tissue dry, because the tumbler is full of air. Your child finds out that everything takes up room, that space has three directions, and that three numbers can find any spot in a room. They see that a shadow is flat while a ball is solid, and why the round Earth looks flat. Then they turn to time. They guess a minute with their eyes shut, make a floating bowl clock and a swinging string clock, and learn that days, months and years come from the Earth and Moon moving. Last, they find that every event has a where and a when, that noon comes at different times in different places, and that even very exact clocks do not all tick at the same speed.",
  "builds_on": "This is the first rung of this Deep End topic. It uses what children know from Class 1 about directions, shapes and the parts of a day, and from the Class 2 lesson on day, night and shadows. Class 4 goes much further: Einstein's idea that mass bends space and time, why moving clocks run slow, the twin paradox, and what scientists think about time travel and wormholes.",
  "goals": [
   "By the end your child can show that air takes up space, and that every object has a volume: the room it takes up.",
@@ -286,7 +286,7 @@
      "kind": "talk",
      "title": "Seconds, minutes and hours",
      "mins": 6,
-     "do": "Clap slowly, once each second, saying 'one-and, two-and, three-and'. Say: 'Each clap is about one second. 60 seconds make one minute. 60 minutes make one hour.' Ask your child to guess, then time, how long it takes to put on their chappals (a few seconds), to brush their teeth (about 2 minutes) and to watch a film (about 2 hours). Ask: 'What takes about one day?' (From one sunrise to the next.)"
+     "do": "Clap slowly, once each second, saying 'one-and, two-and, three-and'. Say: 'Each clap is about one second. 60 seconds make one minute. 60 minutes make one hour.' Ask your child to guess how long it takes to put on their chappals, then time it (a few seconds). Ask them to guess how long brushing teeth takes (about 2 minutes) and a film (about 2 hours). Ask: 'What takes about one day?' (From one sunrise to the next.)"
     },
     {
      "kind": "read",
@@ -317,14 +317,14 @@
      "title": "A year is one trip round the Sun",
      "mins": 12,
      "ref": "a6",
-     "do": "Do Activity a6. Put a chair in the middle of the room: it is the Sun. Your child is the Earth. Ask them to spin round once on the spot. Say: 'One spin of the Earth is called a rotation. It takes about 24 hours: one day.' Now they walk slowly once round the chair. Say: 'One whole trip round the Sun is called a revolution. It takes about 365 days: one year.' Then open a calendar. Count the months. Find February: this year it has 28 days. Say: 'The trip really takes 365 and a quarter days. Four quarters make a whole day, so every fourth year February gets a 29th day. That is a leap year. 2028 will be one.' Ask: 'Which takes about a month?' (The Moon going from full Moon to full Moon, about 29 and a half days.)"
+     "do": "Do Activity a6. Put a chair in the middle of the room: it is the Sun. Your child is the Earth. Ask them to spin round once on the spot. Say: 'One spin of the Earth is called a rotation. It takes about 24 hours: one day.' Now they walk slowly once round the chair. Say: 'One whole trip round the Sun is called a revolution. It takes about 365 days: one year.' Then open a calendar. Count the months. Find February. In most years it has 28 days. Say: 'The trip really takes 365 and a quarter days. Four quarters make a whole day, so every fourth year February gets a 29th day. That is a leap year, like 2024 and 2028.' Ask: 'Which takes about a month?' (The Moon going from full Moon to full Moon, about 29 and a half days.)"
     },
     {
      "kind": "exp",
      "title": "Make a nazhigai bowl",
      "mins": 14,
      "ref": "e2",
-     "do": "Do Experiment e2. You make the hole: push a drawing pin through the very middle of the bottom of a plastic cup, then take it out. Fill a bucket with water. Put one coin in the cup. Ask first: 'If we float this cup, what will happen? How long will it take?' Your child gently floats the cup, and you start a timer. Water creeps in through the hole and the cup slowly sinks. Stop the timer when it goes under. Write down the time. Empty the cup and do it again. Ask: 'Did it take about the same time both times?' (Usually yes, within a few seconds.) Say: 'Because it takes the same time every try, we can use it as a clock. Ponni's copper bowl in the story worked the same way.'"
+     "do": "Do Experiment e2. You make the hole: push a drawing pin through the very middle of the bottom of a plastic cup, then take it out. Fill a bucket with water. Put one coin in the cup. Ask first: 'If we float this cup, what will happen? How long will it take?' Your child gently floats the cup, and you start a timer. Water creeps in through the hole and the cup slowly sinks. Stop the timer when it goes under. Write down the time. Empty the cup and do it again. If one try takes more than 6 minutes, do the second try later in the day. Ask: 'Did it take about the same time both times?' (Usually yes, within a few seconds.) Say: 'Because it takes the same time every try, we can use it as a clock. Ponni's copper bowl in the story worked the same way.'"
     },
     {
      "kind": "talk",
@@ -374,7 +374,7 @@
      "title": "Henrietta and the blinking stars",
      "mins": 8,
      "ref": "v1",
-     "do": "Tell voice v1: 'About 115 years ago, Henrietta Leavitt worked at an observatory in America. Her job was to look at photos of stars and note how bright they were. She was paid little, and was not allowed to choose her own research. She noticed that some stars get brighter and dimmer with a steady beat, like a slow pendulum. She found that the slower a star's beat, the brighter that star really is. That let astronomers work out how far away stars are.' Say: 'A rhythm in time told us a distance in space.' Ask v1's question."
+     "do": "Tell voice v1: 'About 115 years ago, Henrietta Leavitt worked at an observatory in America. Her job was to look at photos of stars and note how bright they were. She was paid little, and was not allowed to choose her own research. She noticed that some stars get brighter and dimmer with a steady beat, like a slow pendulum. She found that the slower a star's beat, the brighter that star really is. That let astronomers work out how far away stars are.' Say: 'So timing a star's beat told astronomers how far away the star is.' Ask v1's question."
     }
    ],
    "need": [
@@ -448,7 +448,7 @@
      "kind": "talk",
      "title": "Seeing the past",
      "mins": 6,
-     "do": "Say: 'Light is the fastest thing there is, but even light takes time to travel. Light from the Moon takes about one second to reach us. Light from the Sun takes about 8 minutes. Never look straight at the Sun, it hurts your eyes. Light from some stars has travelled for thousands of years.' Ask: 'When you look at a star tonight, are you seeing it as it is now, or as it was long ago?' (As it was when the light left it.) Say: 'Looking far away is looking back in time.'"
+     "do": "Say: 'Light is the fastest thing there is, but even light takes time to travel. Light from the Moon takes about one second to reach us. Light from the Sun takes about 8 minutes. Never look straight at the Sun. It can hurt your eyes. Light from some stars has travelled for thousands of years.' Ask: 'When you look at a star tonight, are you seeing it as it is now, or as it was long ago?' (As it was when the light left it.) Say: 'So the farther away a star is, the older the light we see from it.'"
     },
     {
      "kind": "act",
@@ -483,7 +483,7 @@
      "kind": "review",
      "title": "The finished time diary",
      "mins": 4,
-     "do": "Your child draws the moong one last time. Lay all the pages out in order. Ask: 'How can you tell which page came first without reading the dates?' (The seeds are smallest on the first page.) Say: 'Change shows us the order of time.'"
+     "do": "Your child draws the moong one last time. Lay all the pages out in order. Ask: 'How can you tell which page came first without reading the dates?' (The seeds are smallest on the first page.) Say: 'We can tell the order of the days from how the seedlings changed.'"
     },
     {
      "kind": "ws",
@@ -759,7 +759,7 @@
       },
       {
        "t": "mcq",
-       "p": "Where does the Sun rise first?",
+       "p": "In India, where does the Sun rise first?",
        "opts": [
         "Arunachal Pradesh, in the far east of India",
         "Kutch, in the far west of India",
@@ -769,7 +769,7 @@
       },
       {
        "t": "write",
-       "p": "Ponni texts her friend: 'Meet me on Saturday.' What is missing? Write a better message.",
+       "p": "Revathi texts her friend: 'Meet me on Saturday.' What is missing? Write a better message.",
        "lines": 2
       }
      ]
@@ -863,7 +863,7 @@
    ],
    "predict": "Ask: 'Will the tissue get wet? Why do you think so?'",
    "observe": "The tissue stays dry when the tumbler goes in straight. When you tip it, a bubble of air escapes and water rushes in.",
-   "why": "The tumbler was full of air. Air is matter: it takes up space. While the air was trapped, the water could not fill that space, so it stopped near the mouth of the tumbler and the tissue stayed dry. When the tumbler tipped, the air escaped as a bubble and the water took its place.",
+   "why": "The tumbler was full of air. Air is made of matter, like water and stone, so it takes up space. While the air was trapped, the water could not fill that space, so it stopped near the mouth of the tumbler and the tissue stayed dry. When the tumbler tipped, the air escaped as a bubble and the water took its place.",
    "safety": "Wipe up spilled water so nobody slips.",
    "time": "10 min"
   },
@@ -1125,7 +1125,7 @@
    "who": "Henrietta Swan Leavitt (1868–1921), USA",
    "idea": "Working at the Harvard College Observatory, she measured the brightness of stars on photographic plates. She found that some stars, now called Cepheid variables, brighten and dim with a steady beat, and that the slower the beat, the brighter the star really is. She published this in 1912. It gave astronomers a way to measure how far away stars and galaxies are.",
    "then": "She was one of the women hired to do measurements, paid a small wage by the hour, and not free to choose her own research. Her finding was used by others, and she got little public credit in her lifetime.",
-   "now": "Her rule is still used to measure distances in space. Edwin Hubble used it in the 1920s to show that some fuzzy patches in the sky are other galaxies far beyond our own. A Swedish mathematician wrote to her in 1925 hoping to nominate her for a Nobel Prize, not knowing she had died.",
+   "now": "Her rule is still used to measure distances in space. Edwin Hubble used it in the 1920s to show that some fuzzy patches in the sky are other galaxies far beyond our own. A few years after her death, a Swedish mathematician wrote to her hoping to nominate her for a Nobel Prize, not knowing she had died.",
    "status": "accepted",
    "ask": "Henrietta's finding helped other astronomers become famous. Who do you think should get the credit for a discovery: the person who found the rule, or the people who used it?",
    "day": 7
@@ -1240,13 +1240,13 @@
   },
   {
    "q": "'Outer space is completely empty.'",
-   "hint": "Space between the stars has far fewer bits of matter than air, but not none. There are scattered atoms and dust, and light from stars crosses it all the time. Whether space with truly nothing in it can exist is still argued. What is the emptiest place you can think of on Earth? Is anything in it?"
+   "hint": "Space between the stars has far fewer atoms than air, but it is not completely empty. There are scattered atoms and dust, and light from stars crosses it all the time. Whether space with truly nothing in it can exist is still argued. What is the emptiest place you can think of on Earth? Is anything in it?"
   }
  ],
  "perspectives": [
   {
    "who": "A Tamil timekeeper of long ago",
-   "view": "Counted the day in nazhigai of 24 minutes, sixty from sunrise to sunrise, using a copper bowl that sank in water. Many Tamil almanacs still count hours from sunrise. Ask: is it better to start the day at sunrise or at midnight? Why?"
+   "view": "They counted the day in nazhigai of 24 minutes, sixty from sunrise to sunrise, using a copper bowl that sank in water. Many Tamil almanacs still count hours from sunrise. Ask: is it better to start the day at sunrise or at midnight? Why?"
   },
   {
    "who": "A tea-garden worker in Assam",
@@ -1258,7 +1258,7 @@
   },
   {
    "who": "An ant walking on the floor",
-   "view": "Mostly lives on surfaces, going forward, back, left and right. She can climb a wall but does not jump high like you. Ask: does an ant live in the same space as you, or does her space feel different?"
+   "view": "She mostly lives on surfaces, going forward, back, left and right. She can climb a wall but does not jump high like you. Ask: does an ant live in the same space as you, or does her space feel different?"
   }
  ],
  "books": [

@@ -2209,8 +2209,8 @@
        "carries air down to the lungs"
       ],
       [
-       "Arteries",
-       "carry blood away from the heart"
+       "Blood",
+       "carries oxygen and food to every cell"
       ]
      ],
      "a": "pairs as given",
@@ -2296,7 +2296,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Smoke from a fire, a cigarette or burning rubbish can harm your lungs, even if you only breathe it in near other people.",
+     "p": "Smoke from a fire, a cigarette or burning rubbish can harm your lungs, even if you are not the one smoking and only breathe in smoke from someone near you.",
      "a": true,
      "why": "True. Smoke carries tiny bits that get stuck deep in the air sacs. They make it harder for oxygen to get into the blood. That is why we stay away from smoke."
     }
@@ -2442,10 +2442,10 @@
     },
     {
      "t": "write",
-     "p": "Your heart and your breathing both speed up when you exercise. Why must they speed up together?",
-     "lines": 3,
-     "a": "The lungs bring oxygen into the blood, and the heart pushes that blood to the muscles. If only one sped up, the muscles would still not get enough oxygen.",
-     "why": "A strong answer explains the two jobs and why each needs the other."
+     "p": "Blood goes from the heart to the lungs, then back to the heart, and only then out to the body. Why do you think it comes back to the heart in between, instead of going straight on from the lungs to the body?",
+     "lines": 4,
+     "a": "Squeezing through the tiny tubes in the lungs slows the blood down and takes away its push. So it comes back to the heart, and the strong left side gives it a second, harder push to reach the head and the toes.",
+     "why": "This is why we have two circles. A strong answer says the blood loses its push in the lungs and needs a fresh push from the heart to get all round the body."
     },
     {
      "t": "mcq",
@@ -2510,7 +2510,7 @@
        "Away from the cells"
       ],
       [
-       "water to drink",
+       "water",
        "To the cells"
       ],
       [

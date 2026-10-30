@@ -4,10 +4,10 @@
  "subj": "sci",
  "level": 5,
  "n": "food-and-a-balanced-diet",
- "title": "Food and health: hidden hunger, deficiency diseases and cheap ways to eat well",
+ "title": "Food and health: how a full stomach can still be missing a nutrient",
  "source": "DeepKids Combined. Covers Cambridge Stage 5 Unit 4.2 'Balanced diets' and NIOS Level C Lesson 12 'Food and Health' (deficiency diseases and how to prevent them, when to take extra care with food, cheap nutritious foods, storing food). No textbook needed.",
  "summary": "A child can eat until they are full and still be short of one nutrient. Doctors call this hidden hunger. Your child finds out what happens to the eyes, blood, bones and thyroid when vitamin A, iron, folate, vitamin D, calcium or iodine is missing, and why kwashiorkor and pellagra puzzled doctors for years. They test how their own eyes adjust to the dark, watch idli batter rise, find out which way of storing bread stops mould, read a food label for energy, and plan cheap tiffins that give the body everything.",
- "builds_on": "In Class 1 your child sorted everyday foods and treats. In Class 3 they named the nutrients, tested foods for starch, fat and vitamin C, built a balanced plate, and heard how James Lind cured scurvy with oranges and lemons. This rung goes deeper into each deficiency disease, the tiny amounts some nutrients are needed in, energy and food labels, who needs extra care, cheap ways to make food richer, and how storing food stops microbes spoiling it. The Class 5 digestion rung follows the food through the body.",
+ "builds_on": "In Class 1 your child sorted everyday foods and treats. In Class 3 they named the nutrients, tested foods for starch, fat and vitamin C, built a balanced plate, and heard how James Lind cured scurvy with oranges and lemons. In Class 4 they burned a peanut to see food energy, read kilocalories on labels, built proteins from paper pieces to see why rice and dal work together, learned that vitamin C helps and tea blocks iron, and set curd to watch microbes make food. This rung goes deeper into each deficiency disease, the tiny amounts some nutrients are needed in, energy and food labels, who needs extra care, cheap ways to make food richer, and how storing food stops microbes spoiling it. The Class 5 digestion rung follows the food through the body.",
  "goals": [
   "By the end your child can explain hidden hunger: a full stomach can still be missing a nutrient.",
   "By the end your child can name what goes wrong without vitamin A, iron, folate, vitamin D, calcium, iodine and protein, and name Indian foods that prevent each.",
@@ -99,9 +99,9 @@
    "steps": [
     {
      "kind": "warmup",
-     "title": "Remember Class 3",
+     "title": "Remember Classes 3 and 4",
      "mins": 5,
-     "do": "Ask: 'In Class 3 we heard about sailors in 1747 who had plenty to eat but still got ill. What was missing, and which food cured them?' Good answer: 'Vitamin C. The two sailors given oranges and a lemon got better.' Then ask: 'Name the five kinds of nutrients.' Good answer: 'Carbohydrates, proteins, fats, vitamins and minerals, plus fibre and water.' Say: 'This week we find out what happens when each one is missing, and how families fix it without spending much.'"
+     "do": "Ask: 'In Class 3 we heard about sailors in 1747 who had plenty to eat but still got ill. What was missing, and which food cured them?' Good answer: 'Vitamin C. The two sailors given oranges and a lemon got better.' Ask: 'In Class 4 you built protein chains from rice pieces and dal pieces. Why did both together build more?' Good answer: 'Each had building blocks the other was short of.' Say: 'This week we find out what happens when each nutrient is missing, and how families fix it without spending much.'"
     },
     {
      "kind": "read",
@@ -166,14 +166,14 @@
      "kind": "talk",
      "title": "Iron, haemoglobin and anaemia",
      "mins": 10,
-     "do": "Say: 'Your blood is red because of haemoglobin, in your red blood cells. Haemoglobin carries oxygen from your lungs to every part of you, and each haemoglobin has iron at its heart. With too little iron, the blood carries less oxygen. A person feels tired, gets breathless on the stairs, and looks pale. This is anaemia. In India about two in every three young children have it.' Ask: 'Which foods give iron?' Good answers: 'bajra, ragi, rajma, chana, green leafy vegetables, eggs, meat and fish.' Then say: 'The body takes in iron from plant foods better when you eat vitamin C with it, such as lemon on your dal. Tea or coffee with the meal does the opposite, so drink them an hour later.' Your child adds 'blood: iron, bajra and rajma, with lemon' to the outline."
+     "do": "Say: 'Your blood is red because of haemoglobin, in your red blood cells. Haemoglobin carries oxygen from your lungs to every part of you, and each haemoglobin has iron at its heart. With too little iron, the blood carries less oxygen. A person feels tired, gets breathless on the stairs, and looks pale. This is anaemia. In India about two in every three young children have it.' Ask: 'Which foods give iron?' Good answers: 'bajra, ragi, rajma, chana, green leafy vegetables, eggs, meat and fish.' Then say: 'You met this in Class 4. The body takes in iron from plant foods better when you eat vitamin C with it, such as lemon on your dal. Tea or coffee with the meal does the opposite, so drink them an hour later.' Your child adds 'blood: iron, bajra and rajma, with lemon' to the outline."
     },
     {
      "kind": "talk",
      "title": "Lucy Wills in Bombay",
      "mins": 7,
      "ref": "v1",
-     "do": "Tell your child Voice v1: in 1928 a British woman doctor, Lucy Wills, went to Bombay to find out why so many pregnant women working in the textile mills had a serious anaemia. She found that a cheap yeast spread cured it. The thing in the yeast was later named folate, or folic acid, from 'folium', the Latin word for leaf, because green leaves are full of it. Ask the voice question. Your child adds 'folate: green leaves and dal' to the blood on the outline."
+     "do": "Tell your child Voice v1: in 1928 a British woman doctor, Lucy Wills, went to Bombay to find out why so many pregnant women working in the textile mills had a serious anaemia. She found that a cheap yeast spread cured it. The nutrient in the yeast was later named folate, or folic acid, from 'folium', the Latin word for leaf, because green leaves are full of it. Ask the voice question. Your child adds 'folate: green leaves and dal' to the blood on the outline."
     }
    ],
    "need": [
@@ -191,7 +191,7 @@
      "kind": "warmup",
      "title": "What is a bone made of?",
      "mins": 5,
-     "do": "Your child presses their shin and their ear. Ask: 'Why is one hard and one bendy?' Good answer: 'The shin is bone, and the ear is soft.' Say: 'Bone is a living frame with a hard mineral packed into it, made mostly of calcium. Children's bones are still growing, so they need calcium every day.' Ask: 'Which foods give calcium?' Good answers: 'milk, curd, ragi, sesame, green leafy vegetables, small fish eaten with their bones.'"
+     "do": "Your child presses their shin and their ear. Ask: 'Why is one hard and one bendy?' Good answer: 'The shin is bone. The ear is cartilage, a softer tissue that bends.' Say: 'Bone is a living frame with a hard mineral packed into it, made mostly of calcium. Children's bones are still growing, so they need calcium every day.' Ask: 'Which foods give calcium?' Good answers: 'milk, curd, ragi, sesame, green leafy vegetables, small fish eaten with their bones.'"
     },
     {
      "kind": "talk",
@@ -209,7 +209,7 @@
      "kind": "think",
      "title": "Why so little?",
      "mins": 6,
-     "do": "Remind your child of the two grains of salt from Day 1, the weight of a day's iodine. Say: 'A grown-up needs about 150 micrograms of iodine a day.' Ask: 'Over 70 years, how much is that?' Work it out together on paper: 150 × 365 is about 55,000 micrograms a year, or 55 milligrams. 55 × 70 is about 3,850 milligrams, which is less than 4 grams. Say: 'That is less than a teaspoon of iodine in a whole life. Without that teaspoon, spread over every day, the brain and body cannot grow properly.'"
+     "do": "Remind your child of the two grains of salt from Day 1, the weight of a day's iodine. Say: 'A grown-up needs about 150 micrograms of iodine a day.' Ask: 'Over 70 years, how much is that?' Work it out together on paper: 150 × 365 is about 55,000 micrograms a year, or 55 milligrams. 55 × 70 is about 3,850 milligrams, which is less than 4 grams. Say: 'That is less than a teaspoon of iodine in a whole life. But the body needs a little of it every day, or the thyroid cannot do its work.'"
     },
     {
      "kind": "exp",
@@ -277,8 +277,8 @@
      "when": "morning"
     },
     {
-     "task": "Wash and soak half a cup of whole green moong in plenty of water, for Day 5's sprouts",
-     "when": "night before"
+     "task": "Wash and soak half a cup of whole green moong in plenty of water. At night, drain it and tie it in a damp cloth, for Day 5's sprouts",
+     "when": "morning"
     }
    ]
   },
@@ -292,32 +292,31 @@
      "title": "Did the batter rise?",
      "mins": 12,
      "ref": "e3",
-     "do": "Finish Experiment e3. Last night you ground the soaked urad dal and rice into a thick batter, poured it into a clear glass and put a rubber band at its top. Your child measures how far the batter has risen above the band with a ruler, and looks at the bubbles through the glass. Ask: 'Nobody added anything. Where did the bubbles come from?' Good answer: 'Something living in the batter made gas.' Say: 'Bacteria and yeasts from the dal, the rice and the air fed on the batter overnight and made carbon dioxide gas. This is fermentation. It makes idlis soft. Studies also show it raises some B vitamins and makes some minerals easier for the body to take in.' Use the batter for dosas at the next meal."
+     "do": "Finish Experiment e3. Last night you ground the soaked urad dal and rice into a thick batter, poured it into a clear glass and put a rubber band at its top. Your child measures how far the batter has risen above the band with a ruler, and looks at the bubbles through the glass. Ask: 'Nobody added anything. Where did the bubbles come from?' Good answer: 'Something living in the batter made gas.' Say: 'In Class 4 you set curd and heard how batter ferments. Now you have measured it. Bacteria and yeasts from the dal, the rice and the air fed on the batter overnight and made carbon dioxide gas. This is fermentation. It makes idlis soft. Studies also show it raises some B vitamins and makes some minerals easier for the body to take in.' Use the batter for dosas at the next meal."
     },
     {
      "kind": "talk",
      "title": "Cereal with pulse",
      "mins": 8,
-     "do": "Say: 'Rice and wheat have little of one amino acid, called lysine. Dals have little of another, called methionine. Eaten together, each fills the other's gap, so the body can build more of its own protein.' Ask: 'Which meals in our kitchen join a cereal and a pulse?' Good answers: 'idli and dosa (rice and urad), dal-chawal, sambar rice, rajma-chawal, pongal (rice and moong), khichdi, roti and dal.' Say: 'Families worked this out long before anyone knew about amino acids.'"
+     "do": "Say: 'In Class 4 your paper chains showed that rice and dal build more protein together. Here is why. Rice and wheat have little of one amino acid, called lysine. Dals have little of another, called methionine. Eaten together, each fills the other's gap, so the body can build more of its own protein.' Ask: 'Which meals in our kitchen join a cereal and a pulse?' Good answers: 'idli and dosa (rice and urad), dal-chawal, sambar rice, rajma-chawal, pongal (rice and moong), khichdi, roti and dal.' Say: 'Families worked this out long before anyone knew about amino acids.'"
     },
     {
      "kind": "do",
      "title": "Sprouts with lemon",
      "mins": 10,
-     "do": "Drain the moong soaked last night, rinse it, and look at the tiny white tails. Say: 'A seed has a problem. It must grow a root and a shoot before it has leaves to make food. So it turns its stored starch into sugar, and makes new vitamins, including vitamin C, which the dry seed hardly has.' Your child mixes a cup of sprouts with chopped tomato, a squeeze of lemon and a pinch of salt. Ask: 'Why add lemon?' Good answer: 'The vitamin C helps the body take in the iron in the moong.' Wrap the rest of the moong in a damp cloth to sprout more for tomorrow."
+     "do": "Open the cloth of moong you soaked yesterday, rinse the seeds, and look at the tiny white tails. Say: 'A seed has a problem. They must grow a root and a shoot before they have leaves to make food. So they turn their stored starch into sugar, and make new vitamins, including vitamin C, which the dry seed hardly has.' Your child mixes a cup of sprouts with chopped tomato, a squeeze of lemon and a pinch of salt. Ask: 'Why add lemon?' Good answer: 'The vitamin C helps the body take in the iron in the moong.'"
     },
     {
      "kind": "act",
      "title": "Who needs what?",
      "mins": 15,
      "ref": "a3",
-     "do": "Do Activity a3. Your child reads five family cards (Ammamma aged 70, Aunt Revathi who is pregnant, baby Nila aged 8 months, cousin Fathima aged 14, and Uncle Arjun getting over a fever) and writes one change to each person's meals, with the nutrient it gives. Good answers: Ammamma needs calcium, vitamin D from morning sun and soft protein. Revathi needs iron, folate, iodine and calcium. Nila needs soft mashed foods such as dal rice alongside breast milk. Fathima needs iron because she is growing fast and may have started periods. Arjun needs plenty of water, and soft food with protein to mend."
+     "do": "Do Activity a3. Your child reads five family cards (Ammamma aged 70, Aunt Revathi who is pregnant, baby Nila aged 8 months, cousin Fathima aged 14, and Uncle Arjun getting over a fever) and writes one change to each person's meals, with the nutrient it gives. Good answers: Ammamma needs calcium, vitamin D from morning sun and soft protein. Revathi needs iron, folate, iodine and calcium. Nila needs soft mashed foods such as dal rice alongside breast milk. Fathima needs iron because she is growing fast and loses some blood in her periods each month. Arjun needs plenty of water, and soft food with protein to mend."
     }
    ],
    "need": [
     "a clear glass, a rubber band and a ruler",
-    "the soaked moong from last night, a tomato, a lemon and salt",
-    "a thin damp cloth",
+    "the sprouting moong, a tomato, a lemon and salt",
     "the five family cards from Activity a3"
    ],
    "prep": [
@@ -344,7 +343,7 @@
      "title": "Joseph Goldberger and pellagra",
      "mins": 10,
      "ref": "v3",
-     "do": "Tell your child Voice v3. In the southern United States a hundred years ago, thousands of poor people who ate mostly maize got sore red skin, upset stomachs and confused minds. This was pellagra. Most doctors thought a germ caused it. Joseph Goldberger showed that a better diet cured it, and he, his wife Mary and friends took material from patients into their own bodies to show it did not spread. Say: 'The missing nutrient, niacin, was found in 1937. In Mexico, people had eaten maize for thousands of years without much pellagra. They soak and cook the maize with lime before grinding it, and that frees the niacin.' Ask the voice question."
+     "do": "Tell your child Voice v3. In the southern United States a hundred years ago, thousands of poor people who ate mostly maize got sore red skin, upset stomachs and confused minds. This was pellagra. Most doctors thought a germ caused it. Joseph Goldberger showed that a better diet cured it, and he, his wife Mary and friends took material from patients into their own bodies to show it did not spread. Say: 'The missing nutrient, niacin, was found in 1937. In Mexico, people had eaten maize for thousands of years without much pellagra. They soak and cook the maize with lime before grinding it. This lime is not the fruit. It is chuna, the white paste used in paan. It frees the niacin in the maize.' Ask the voice question."
     },
     {
      "kind": "talk",
@@ -572,7 +571,7 @@
       },
       {
        "t": "write",
-       "p": "Thenmozhi's grandmother cooks drumstick leaves every week 'for the eyes'. Thenmozhi's grandmother says: 'My mother taught me this. Children who eat these greens see well at dusk.' Thenmozhi's cousin Divya says: 'That is just an old saying. Eyes are about glasses and screens, not leaves.' Who do you agree with? Use what you found this week. Then answer back from the other side.",
+       "p": "Thenmozhi, a girl of 10, lives with her grandmother, who cooks drumstick leaves every week 'for the eyes'. Her grandmother says: 'My mother taught me this. Children who eat these greens see well at dusk.' Her cousin Divya says: 'That is just an old saying. Eyes are about glasses and screens, not leaves.' Who do you agree with? Use what you found this week. Then answer back from the other side.",
        "lines": 5,
        "a": "A strong answer uses evidence: drumstick leaves are full of carotene, the body turns carotene into vitamin A, and vitamin A is needed to see in dim light. It may also grant Divya a fair point: an old saying is not proof by itself, and greens cannot fix short sight, which needs glasses."
       }
@@ -591,11 +590,11 @@
      [
       {
        "t": "mcq",
-       "p": "Lakshmi eats ragi roti and palak with a cup of tea. What would help her body take in more of the iron?",
+       "p": "Lakshmi, a girl in Class 5, has anaemia. Which tiffin would help her blood most?",
        "opts": [
-        "squeeze lemon on the palak and drink the tea an hour later",
-        "add more sugar to the tea",
-        "eat the palak raw and cold"
+        "bajra roti with chana and a slice of guava",
+        "white bread with jam",
+        "rice with a cup of tea"
        ],
        "a": 0
       },
@@ -788,7 +787,7 @@
       },
       {
        "t": "write",
-       "p": "Cooks in Mexico soak maize in lime water before grinding it, and people who ate maize this way rarely got pellagra. How can a cooking habit work before anyone knows about vitamins?",
+       "p": "Cooks in Mexico soak maize in lime water (water with chuna, not lemon) before grinding it, and people who ate maize this way rarely got pellagra. How can a cooking habit work before anyone knows about vitamins?",
        "lines": 4
       },
       {
@@ -1096,7 +1095,7 @@
   ]
  },
  "big": [
-  "The carotene in a papaya becomes part of your eye. Where does the papaya end and you begin?",
+  "The carotene a papaya plant made becomes part of your eye. Which other parts of you were first made by plants or animals?",
   "India grows a lot of food, yet many children are short of iron. Is that a problem of growing, of sharing, or of knowing?",
   "Grandmothers cooked drumstick leaves 'for the eyes' long before anyone named vitamin A. What else might old kitchens know that science has not yet tested?",
   "Is a vitamin pill as good as the food the vitamin came from? What might a food have that a pill does not?",
@@ -1113,7 +1112,7 @@
   },
   {
    "q": "If you eat enough to feel full, you get all the nutrients you need.",
-   "hint": "Hidden hunger shows this is not true. Somu in the story ate rice and saaru until he was full, and still lost his vitamin A. Pellagra hit families who had plenty of maize. Being full tells you about energy, not about micronutrients. Ask: what does feeling full actually measure?"
+   "hint": "Hidden hunger shows this is not true. Somu in the story ate rice and saaru until he was full, and still ran short of vitamin A. Pellagra hit families who had plenty of maize. Being full tells you about energy, not about micronutrients. Ask: what does feeling full actually measure?"
   }
  ],
  "perspectives": [
@@ -1160,7 +1159,7 @@
    "who": "Joseph Goldberger (1874–1929), a doctor in the United States Public Health Service",
    "idea": "From 1914 he studied pellagra, which was killing thousands of poor people in the southern United States who ate mostly maize. He showed that adding milk, meat and vegetables cured and prevented it, and that a poor diet could cause it. In 1916 he, his wife Mary and several colleagues took material from pellagra patients into their own bodies, and none of them got pellagra.",
    "then": "Many doctors believed pellagra was caused by a germ, and many leaders in the South did not want to hear that it came from poverty and poor wages. His idea was resisted for years.",
-   "now": "He was right. In 1937 the missing nutrient was found to be niacin, a B vitamin. In Mexico and Central America, people cook maize with lime, a method called nixtamalisation, which frees the niacin in the maize. That is why people there ate maize for thousands of years with much less pellagra.",
+   "now": "He was right. In 1937 the missing nutrient was found to be niacin, a B vitamin. In Mexico and Central America, people cook maize with lime (chuna, not the fruit), a method called nixtamalisation, which frees the niacin in the maize. That is why people there ate maize for thousands of years with much less pellagra.",
    "status": "accepted",
    "ask": "Why might people prefer to blame a germ than a poor diet? What would each answer ask them to change?",
    "day": 6
@@ -1171,7 +1170,7 @@
   "text": [
    "The summer the storm knocked down our papaya tree, my brother Somu began to trip over the doorstep.",
    "I am Kaveri, and I was ten that year. We lived at the edge of a village near Mandya, where the sugarcane grows taller than my father. Our house had a mud yard, a well, a jasmine bush that my mother watered every evening, and a papaya tree that gave more fruit than we could eat. All through the hot months Amma cut a papaya every few days. Somu, who was six and fought about every other food, ate the soft orange pieces until his chin was sticky.",
-   "Then one night in May the wind came. In the morning the papaya tree lay across the yard with its roots in the air. The same week my uncle cut down the old drumstick tree behind the cowshed, because its branches had grown brittle and one had nearly fallen on the cow. The rains were late that year. The amaranth and the greens in our little kitchen bed dried into brown strings. We ate ragi mudde and saaru, rice and huli, day after day. Nobody went hungry. Somu's belly was round and full.",
+   "Then one night in May the wind came. In the morning the papaya tree lay across the yard with their roots in the air. The same week my uncle cut down the old drumstick tree behind the cowshed, because their branches had grown brittle and one had nearly fallen on the cow. The rains were late that year. The amaranth and the greens in our little kitchen bed dried into brown strings. We ate ragi mudde and saaru, rice and huli, day after day. Nobody went hungry. Somu's belly was round and full.",
    "In July, Somu began to be afraid of the evening.",
    "In the day he was the same Somu. He could find a glass bead in the dust at noon. He could see a kite from the far end of the field before I could. But when the sky turned grey and the lamps were lit, he stopped playing. He stood still in the yard with his hands out, like someone in a game of blind man's buff. He walked into the cow. He fell over the doorstep and cut his lip.",
    "Ajji said it was the evil eye. Amma said he was being naughty to get carried. Appa said he would grow out of it.",

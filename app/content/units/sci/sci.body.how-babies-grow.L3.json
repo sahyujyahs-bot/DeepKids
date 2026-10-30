@@ -2183,9 +2183,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Every person, adopted or not, began as one cell and grew in a womb.",
+     "p": "Before birth, a baby swallows some of the water around them in the womb.",
      "a": true,
-     "why": "True. Families are made in many ways, by birth, by adoption, by grandparents and more. Every family is a real family. And every person began life the same way."
+     "why": "True. The baby swallows a little of the warm water, again and again. This is practice for swallowing milk after birth. A strong answer knows the baby does many things in the womb: kick, hiccup, suck their thumb and swallow."
     }
    ]
   },
@@ -2258,7 +2258,7 @@
        "Reaches the baby"
       ],
       [
-       "what the mother is thinking",
+       "the colour of the mother's sari",
        "Does not reach the baby"
       ],
       [
@@ -2267,7 +2267,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Anything carried in the blood can pass the thin wall in the placenta. This is why doctors ask pregnant mothers to eat well and check every medicine. Thoughts and pictures are not in the blood."
+     "why": "Anything carried in the blood can pass the thin wall in the placenta. This is why doctors ask pregnant mothers to eat well and check every medicine. A colour or a picture is not in the blood, so it cannot reach the baby."
     },
     {
      "t": "mcq",
@@ -2294,7 +2294,7 @@
       ],
       [
        "Human",
-       "about 270 days"
+       "about 280 days"
       ],
       [
        "Indian elephant",
@@ -2483,7 +2483,7 @@
      "t": "write",
      "p": "Challenge the belief. Many people say a pregnant mother must 'eat for two', so she should eat twice as much. Doctors say she needs only a little more, about one extra small meal a day, and only in the last six months. Think about how big the baby is. Who do you think is right, and why?",
      "lines": 4,
-     "a": "The doctors. The baby is tiny for most of the nine months, smaller than a banana at 20 weeks. Even at birth, a baby weighs about 3 kilograms, far less than the mother. So the baby needs only a little extra food. What matters more is good food: dal, vegetables, milk, eggs or fish.",
+     "a": "The doctors. The baby is tiny for most of the nine months, only about the size of a banana at 20 weeks. Even at birth, a baby weighs about 3 kilograms, far less than the mother. So the baby needs only a little extra food. What matters more is good food: dal, vegetables, milk, eggs or fish.",
      "why": "A strong answer uses a size from the unit (rice-sized, banana-sized, about 3 kilograms at birth) to show the baby needs far less food than a grown-up. It may add that the food must be good, because it reaches the baby through the placenta."
     },
     {

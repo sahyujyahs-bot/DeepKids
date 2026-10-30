@@ -211,27 +211,27 @@ About 4 and a half billion years ago, one cloud of gas and dust pulled itself to
 - *big:* Is there anyone out there, on a planet round another sun? If there is, what might they wonder about? (hint: Scientists have found more than 6,000 planets round other stars. Nobody knows yet if anything lives on them.)
 
 ## Story: The Lamp That Looked Like a Star
-*Sai, Karthik, Mr Fernandes, the lighthouse and the night at sea are made up. Real lighthouses do flash in their own patterns, so sailors can tell them apart, and their lights can be seen from about 30 kilometres away or more.*
+*Sai, Karthik, Mrs Fernandes, the lighthouse and the night at sea are made up. Real lighthouses do flash in their own patterns, so sailors can tell them apart, and their lights can be seen from about 30 kilometres away or more.*
 
-Sai was nine, and she had been inside the lighthouse. That made her different from her cousin Karthik, who was eleven and knew everything. The lighthouse stood on the black rocks at the end of the bay, striped red and white. One hot afternoon in May, the keeper, Mr Fernandes, let her climb all one hundred and twelve steps to the top.
+Sai was nine, and she had been inside the lighthouse. That made her different from her cousin Karthik, who was eleven and knew everything. The lighthouse stood on the black rocks at the end of the bay, striped red and white. One hot afternoon in May, the keeper, Mrs Fernandes, let her climb all one hundred and twelve steps to the top.
 
-At the top was the lamp. Sai had expected something like the lantern in their kitchen. Instead there was a giant glass beehive, taller than her father, made of rings and rings of thick, curved glass. In the middle sat a bulb as fat as a coconut. 'The glass gathers the light into a beam,' said Mr Fernandes. 'The whole thing turns. The boats see two quick flashes, then darkness, then two flashes again. Every lighthouse on this coast has its own pattern, so the sailors know which one they are looking at.'
+At the top was the lamp. Sai had expected something like the lantern in their kitchen. Instead there was a giant glass beehive, taller than her father, made of rings and rings of thick, curved glass. In the middle sat a bulb as fat as a coconut. 'The glass gathers the light into a beam,' said Mrs Fernandes. 'The whole thing turns. The boats see two quick flashes, then darkness, then two flashes again. Every lighthouse on this coast has its own pattern, so the sailors know which one they are looking at.'
 
 'Can the boats see it from very far?' Sai asked.
 
-'Thirty kilometres and more,' he said. Then he tapped the great glass. 'But from out there, it does not look like this. From out there, my lamp looks like one small star sitting on the edge of the sea.'
+'Thirty kilometres and more,' she said. Then she tapped the great glass. 'But from out there, it does not look like this. From out there, my lamp looks like one small star sitting on the edge of the sea.'
 
-Sai did not believe him. Nothing that big could ever look that small.
+Sai did not believe her. Nothing that big could ever look that small.
 
 That evening on the roof, Karthik explained the sky to her. 'The Sun is the king,' he said. 'It is the biggest fire there is. The stars are its little sparks. They are tiny, like the sparks from Amma's wood stove.' Sai looked up. The stars did look like sparks. But she remembered the beehive of glass, and she said nothing.
 
-In the last week before the monsoon, the sea was flat and the fish came close. Sai's father let both children come out on the boat for one night, to help with the nets. Her uncle came too. They left at dusk with a lantern swinging at the front. Behind them, the lighthouse began to wink. Two flashes and darkness. Two flashes and darkness. It grew smaller and smaller as the land slid away.
+In the last week before the monsoon, the sea was flat and the fish came close. Sai's father let both children come out on the boat for one night, to help with the nets. Her aunt came too. They left at dusk with a lantern swinging at the front. Behind them, the lighthouse began to wink. Two flashes and darkness. Two flashes and darkness. It grew smaller and smaller as the land slid away.
 
 They fished until the sky was thick with stars. Sai hauled at the net until her arms ached, and silver mackerel jumped and slapped in the bottom of the boat. Her hands smelled of salt. She was so busy that she did not notice the haze creeping out from the shore, low and grey, while the sky above stayed clear.
 
 Then the engine coughed, and stopped.
 
-The sudden quiet was enormous. Her father and her uncle bent over the engine with a torch, muttering. The boat rocked and turned slowly in the current. By the time the engine spluttered back to life, nobody could say which way they were facing. The haze had swallowed the coast. There were no village lights, no lights of the road. There was only black water all around, and stars.
+The sudden quiet was enormous. Her father and her aunt bent over the engine with a torch, muttering. The boat rocked and turned slowly in the current. By the time the engine spluttered back to life, nobody could say which way they were facing. The haze had swallowed the coast. There were no village lights, no lights of the road. There was only black water all around, and stars.
 
 'Look for the lighthouse,' said her father. 'Everyone look.'
 
@@ -239,7 +239,7 @@ Karthik stood up and stared hard into the dark, turning all the way round. 'It's
 
 Sai stared too. She was looking for something huge, something like the glass beehive. There was nothing like that anywhere. Her stomach went cold.
 
-Then she heard Mr Fernandes in her head. From out there, my lamp looks like one small star.
+Then she heard Mrs Fernandes in her head. From out there, my lamp looks like one small star.
 
 Sai stopped looking for something big. She looked low, along the very edge of the sea, where the stars came down to meet the water. There were dozens of little lights there. Most of them shivered and twinkled in the thick air near the water. She looked at each one in turn, slowly, counting. One star. Another star. Then one tiny light, no brighter than the others, went out. It came back twice, quick, quick, and went dark again.
 
@@ -253,7 +253,7 @@ All the way home, the little star grew. It became a bright point, then a glare, 
 
 The next night, Sai and Karthik lay on the roof again. Karthik was quiet for a long time. 'How did you know?' he said at last.
 
-'Mr Fernandes said his lamp would look like a star,' said Sai. 'And it did. A lamp taller than Appa, and it looked like a star.'
+'Mrs Fernandes said her lamp would look like a star,' said Sai. 'And it did. A lamp taller than Appa, and it looked like a star.'
 
 She looked up at the sky, at all those tiny sparks. A new thought came to her, so big that it made her sit up. If the lamp looked like a star from thirty kilometres, what would a whole Sun look like, from very, very far away?
 
@@ -265,7 +265,7 @@ Karthik opened his mouth to say something about sparks. Then he closed it again.
 - Ask: How did Sai tell the lighthouse apart from the stars low over the sea?
 - Ask: Karthik said the stars are tiny sparks. What would Sai say to him now?
 - Ask: At the end, Sai wonders about a girl on another planet looking at our Sun. What do you think that girl would see?
-- Ask: Mr Fernandes told Sai something she did not believe at first. Have you ever learned something true that seemed impossible?
+- Ask: Mrs Fernandes told Sai something she did not believe at first. Have you ever learned something true that seemed impossible?
 
 ## Games
 ### g1 · Light Source or Reflector? (20 min)
@@ -605,22 +605,21 @@ Karthik opened his mouth to say something about sparks. Then he closed it again.
   - Think: Baby sea turtles hatch at night and crawl towards the brightest light, which used to be the sea. What happens near a bright beach road?
 
 ## Worksheets
-### Sky Detective (core) (core, 16 questions)
-1. (mcq) Which of these makes its own light?  
-   Options: The Moon / The Sun / Venus / A mirror  
-   **Answer:** The Sun. *Why:* The Sun is a star, and stars make their own light. Picking the Moon is very common, because it looks so bright at night. But the Moon only reflects sunlight. Venus is a planet, also lit by the Sun. A mirror only reflects light.
+### Sky Detective (core) (core, 15 questions)
+1. (sort) Sort these. Does each one make its own light, or shine with reflected light?  
+   **Answer:** the Sun → Makes its own light; the Moon → Shines with reflected light; a star → Makes its own light; Jupiter → Shines with reflected light; a firefly → Makes its own light; a steel plate in torchlight → Shines with reflected light. *Why:* Stars, including the Sun, and fireflies make light. The Moon, planets like Jupiter and a steel plate only reflect light that falls on them.
 2. (mcq) What is the Sun?  
    Options: A planet / A star / The biggest moon / A fire of burning coal  
    **Answer:** A star. *Why:* The Sun is a star, the nearest one to us. Picking 'a fire of burning coal' is a sensible guess, because it is hot and bright. But a coal Sun would have burnt out long ago. The Sun shines by fusion, atoms joining together.
 3. (fill) The Moon goes round the ____.  
    **Answer:** ['Earth', 'earth', 'the Earth']. *Why:* The Moon is the Earth's satellite. It goes round the Earth about once a month.
-4. (sort) Sort these. Does each one make its own light, or shine with reflected light?  
-   **Answer:** the Sun → Makes its own light; the Moon → Shines with reflected light; a star → Makes its own light; Jupiter → Shines with reflected light; a firefly → Makes its own light; a steel plate in torchlight → Shines with reflected light. *Why:* Stars, including the Sun, and fireflies make light. The Moon, planets like Jupiter and a steel plate only reflect light that falls on them.
-5. (truefalse) Stars are tiny sparks, much smaller than the Moon.  
+4. (truefalse) Stars are tiny sparks, much smaller than the Moon.  
    **Answer:** False. *Why:* False. Stars are suns, and many are bigger than our Sun. They look tiny only because they are so far away.
-6. (mcq) In the near lamp, far lamp test, what happened to the torch as it moved far away?  
+5. (mcq) In the near lamp, far lamp test, what happened to the torch as it moved far away?  
    Options: It looked smaller and dimmer / It looked bigger / It went out / It changed colour  
    **Answer:** It looked smaller and dimmer. *Why:* The torch did not change at all. Its light spread out over the long distance, so less reached your eye. Picking 'it went out' usually means the far dot was so faint it was hard to see. Look carefully: it is still there, just small.
+6. (write) In the near lamp, far lamp test, your helper walked 40 steps away. Predict what the torch would look like at 100 steps. What does this tell you about a star that looks like a faint dot?  
+   **Answer:** At 100 steps the torch would look even smaller and fainter, maybe just a tiny dot. But it would still be the same torch. So a star that looks like a faint dot could be a huge, bright sun that is very far away.. *Why:* A strong answer predicts smaller and dimmer, says the torch itself did not change, and carries the idea over to stars: how small a light looks depends on how far away it is, not only on how big it is.
 7. (mcq) Why does the Sun look so much bigger than other stars?  
    Options: It is the biggest star in the universe / It is much nearer to us / It is on fire / The other stars are switched off in the day  
    **Answer:** It is much nearer to us. *Why:* The Sun is our nearest star. Other stars are hundreds of thousands of times further away. Picking 'the biggest star' is a common guess. In fact many stars are far bigger than the Sun.
@@ -631,36 +630,33 @@ Karthik opened his mouth to say something about sparks. Then he closed it again.
    **Answer:** A planet. *Why:* Planets usually shine steadily, while stars twinkle. A bright steady dot in the west after sunset is very often Venus. Picking 'a star' is natural, because people call Venus the evening star. But it is a planet.
 10. (fill) The word planet comes from an old Greek word that means ____.  
    **Answer:** ['wanderer']. *Why:* Planets slowly wander among the stars from night to night, so people long ago called them wanderers.
-11. (truefalse) The Earth is a planet.  
-   **Answer:** True. *Why:* True. The Earth is one of the eight planets going round the Sun. It is the third one out from the Sun.
+11. (write) Divya says, 'The Moon is a small star, because it shines at night.' Use what you saw in the Own Light or Reflected Light test to explain her mistake.  
+   **Answer:** In the dark, the steel plate and the ball vanished, but the torch did not. The plate and the ball only shone when the torch lit them. The Moon is like the ball: it only shines because sunlight falls on it. A star makes its own light, like the torch.. *Why:* A strong answer uses the test as evidence: things that make light can be seen in the dark, things that reflect light cannot. Shining at night does not make something a star. What matters is where its light comes from.
 12. (mcq) Why can't we see stars in the daytime?  
    Options: They go away in the day / The sunlit sky is too bright / Stars only shine at night / Clouds always cover them  
    **Answer:** The sunlit sky is too bright. *Why:* The stars are still there in the day, shining as always. Sunlight lights up our air, which drowns out their faint light. Picking 'stars only shine at night' is very common. Stars shine all the time. We just cannot see them against the bright sky.
 13. (order) Put these in order, from NEAREST to us to FURTHEST: the Sun, the Moon, the Andromeda galaxy, the nearest star after the Sun.  
    **Answer:** order shown. *Why:* Light from the Moon takes about 1 second to reach us. From the Sun, about 8 minutes. From the nearest other star, about 4 years. From the Andromeda galaxy, about 2 and a half million years.
-14. (write) Your friend says the Moon makes its own light. What would you tell them? Use the word reflect.  
-   **Answer:** The Moon does not make its own light. Sunlight hits the Moon and it reflects the light back to us. That is why we only see the part of the Moon that faces the Sun.. *Why:* A good answer says the light comes from the Sun and bounces off the Moon.
-15. (draw) Draw the Sun, the Earth and the Moon. Draw arrows to show where the Moon's light comes from and where it goes.  
+14. (draw) Draw the Sun, the Earth and the Moon. Draw arrows to show where the Moon's light comes from and where it goes.  
    **Answer:** An arrow from the Sun to the Moon, and another arrow from the Moon to the Earth.. *Why:* Moonlight starts at the Sun, bounces off the Moon and then reaches our eyes on Earth.
-16. (write) Never look straight at the Sun. Write how you can look at the Sun safely.  
+15. (write) Never look straight at the Sun. Write how you can look at the Sun safely.  
    **Answer:** Stand with my back to the Sun. Let sunlight go through a tiny pinhole in a card. Look at the small bright circle it makes on white paper. That circle is a picture of the Sun.. *Why:* A pinhole viewer lets you see a picture of the Sun without looking at the Sun itself. Looking at the Sun, even for a short time or through sunglasses, can hurt your eyes for ever.
 ### Lights in the Sky (stretch) (stretch, 16 questions)
-1. (mcq) Look at the chart. A helper walked away with a torch. Each time, Meera gave the torch a brightness score from 5 (dazzling) to 1 (just a faint dot). At which distance did the torch look dimmest?  
+1. (mcq) Look at the chart. A helper walked away with a torch. Each time, Meera, aged 9, gave the torch a brightness score from 5 (dazzling) to 1 (just a faint dot). At which distance did the torch look dimmest?  
    Options: 2 steps / 10 steps / 20 steps / 40 steps  
    **Answer:** 40 steps. *Why:* At 40 steps the torch scored 1, the lowest. It was the same torch every time. Only the distance changed. Picking 2 steps usually means the chart was read upside down. A taller bar here means brighter, not dimmer.
 2. (mcq) The Sun is about 109 times as wide as the Earth. In the kitchen model, the Earth is a peppercorn. How big should the Sun be?  
    Options: About the size of a football / Another peppercorn / About the size of a lemon / As big as a house  
    **Answer:** About the size of a football. *Why:* A peppercorn is about 2 millimetres wide. 109 peppercorns in a row make about 22 centimetres, about as wide as a football. Picking a lemon is a common guess, because the Sun looks small in the sky. But a lemon is only about 30 peppercorns wide.
-3. (fill) Sunlight takes about ____ minutes to reach the Earth.  
-   **Answer:** ['8', 'eight']. *Why:* The Sun is about 15 crore kilometres away. Light, travelling about 3 lakh kilometres each second, takes about 8 minutes to cover that.
+3. (fill) Sunlight takes about 8 minutes to reach the Earth. If the Sun suddenly stopped shining, we would keep seeing it for about ____ minutes.  
+   **Answer:** ['8', 'eight']. *Why:* The light that already left the Sun would still be on its way to us. It takes about 8 minutes to cross the 15 crore kilometres, so we would see the Sun for about 8 more minutes. A strong answer explains that we always see the Sun as it was 8 minutes ago.
 4. (mcq) Light from the nearest star after the Sun takes about how long to reach us?  
    Options: About 4 years / About 8 minutes / About 1 second / About 1 day  
    **Answer:** About 4 years. *Why:* The nearest star after the Sun is about 4 light-years away, so its light takes about 4 years. Picking 8 minutes mixes it up with the Sun, which is our nearest star of all.
 5. (sort) Sort these. Does each one go round the Sun, or round a planet?  
    **Answer:** the Earth → Goes round the Sun; the Moon → Goes round a planet; Mars → Goes round the Sun; Ganymede, one of Jupiter's moons → Goes round a planet; Venus → Goes round the Sun; Titan, Saturn's biggest moon → Goes round a planet. *Why:* Planets go round the Sun. Moons go round planets. Of course, moons travel round the Sun too, carried along with their planet.
-6. (mcq) Why do stars twinkle?  
-   Options: They switch on and off very fast / Our moving air shakes their tiny point of light / They spin round and round / They are running out of light  
-   **Answer:** Our moving air shakes their tiny point of light. *Why:* The twinkle happens in our air, not in the star. Moving warm and cool air bends the star's thin beam this way and that. Picking 'switch on and off' is a very common idea, because it really does look like flickering. But astronauts above the air see stars shining steadily.
+6. (write) Stars low down near the horizon twinkle much more than stars high overhead. Twinkling is caused by moving air bending starlight. Explain why stars near the horizon twinkle more.  
+   **Answer:** Light from a star low down passes through much more air to reach me than light from a star overhead. More air means more moving warm and cool patches to bend the light, so it twinkles more.. *Why:* A strong answer uses the cause of twinkling, moving air, and adds the key fact: a star near the horizon is seen through a much thicker slice of air. This is also why astronauts above the air see no twinkling at all.
 7. (truefalse) From space, astronauts see the stars shining steadily, without twinkling.  
    **Answer:** True. *Why:* True. Above the air, there is nothing to shake the starlight, so stars do not twinkle.
 8. (mcq) What makes the Sun shine?  
@@ -668,9 +664,8 @@ Karthik opened his mouth to say something about sparks. Then he closed it again.
    **Answer:** Hydrogen joining up to make helium, deep inside it. *Why:* Deep in the Sun, hydrogen atoms are squeezed so hard they join into helium, and that gives out huge energy. This is called fusion. Picking 'reflecting light from other stars' mixes the Sun up with the Moon, which only reflects light. The Sun is a light source.
 9. (fill) Stars are made mostly of hydrogen and ____.  
    **Answer:** ['helium']. *Why:* Cecilia Payne found this in 1925 by reading the lines in starlight. The Sun is about three quarters hydrogen and one quarter helium.
-10. (mcq) Cecilia Payne found that stars are mostly hydrogen. A famous astronomer told her it was impossible. What happened next?  
-   Options: She was right, and a few years later other scientists agreed / She was wrong, and stars are made of rock / Nobody ever checked / She was given a big prize straight away  
-   **Answer:** She was right, and a few years later other scientists agreed. *Why:* Within four years, the famous astronomer, Henry Norris Russell, agreed with her, and for years he was often given the credit. Picking 'a big prize straight away' is a hopeful guess. In real life, her work took a long time to be fully credited.
+10. (perspective) Pluto was called the ninth planet for 76 years. In 2006, astronomers voted to call Pluto a dwarf planet instead. People still argue about it.  
+   **Answer:** A strong answer takes a side with a clear reason. For example, against: the rule of clearing the path keeps the list short and clear, and Ananya is right that Eris is about as big as Pluto. Or for: Pluto is round, has moons and weather, like the planets. It then admits a fair point from another side.. *Why:* This is a real argument about how to sort things, not about facts. Everyone agrees on what Pluto is like. They disagree about where to draw the line for the word 'planet'.
 11. (match) Match each star colour to how hot that star is.  
    **Answer:** Blue-white → hottest; Yellow-white, like the Sun → in the middle; Orange-red → coolest. *Why:* Like a blacksmith's iron, which glows red, then orange, then white as it gets hotter, a star's colour shows its heat.
 12. (mcq) Venus is the brightest dot in the evening sky, after the Moon. Why is it so bright?  
@@ -680,52 +675,50 @@ Karthik opened his mouth to say something about sparks. Then he closed it again.
    Options: A picture of the Sun, made by sunlight through the tiny hole / A shadow of the card / The Moon / Just a hole in the paper  
    **Answer:** A picture of the Sun, made by sunlight through the tiny hole. *Why:* Light from every part of the Sun passes through the pinhole and lands on the paper, making a small round picture of the Sun. If a cloud passes, you see it cross the circle. Picking 'a shadow' is a common idea. But a shadow is dark, and this circle is bright.
 14. (write) Karthik says stars are tiny sparks. Use the lighthouse lamp from the story to explain why they might be giant suns.  
-   **Answer:** The lighthouse lamp was taller than Sai's father. But from far out at sea it looked like a small star. So a light can be huge and still look tiny if it is very far away. The stars could be giant suns, very, very far away.. *Why:* A good answer links looking small to being far away, not to being small.
+   **Answer:** The lighthouse lamp was taller than Sai's father. But from far out at sea it looked like a small star. So a light can be huge and still look tiny if it is very far away. The stars could be giant suns, very, very far away.. *Why:* A strong answer uses the story as evidence: the lamp was huge, yet looked like a small star from far out at sea. It then links looking small to being far away, not to being small.
 15. (write) The Moon's ground is as dark grey as an old tar road. So why does the Moon look so bright at night?  
    **Answer:** The Moon is in strong sunlight, and the sky around it is black. Even a dark grey thing looks bright when sunlight falls on it and everything around it is darker.. *Why:* Brightness depends on what is around a thing. A grey road in sunshine looks bright next to a dark tunnel.
 16. (draw) Draw the Sun with three planets going round it. Then draw one moon going round one of the planets. Label each one.  
    **Answer:** The Sun in the middle, three planets on round paths around it, and a small moon on a small path round one planet, all labelled.. *Why:* Planets go round the Sun. Moons go round planets.
 ### Atoms from Stars and Big Ideas (challenge) (challenge, 16 questions)
-1. (mcq) The Sun is about 400 times wider than the Moon. It is also about 400 times further away. What does this mean?  
-   Options: They look about the same size in our sky / The Sun looks 400 times bigger / The Moon looks 400 times bigger / They are really the same size  
-   **Answer:** They look about the same size in our sky. *Why:* Being 400 times bigger but also 400 times further away cancels out. So the Moon can just cover the Sun in a total eclipse. Picking 'really the same size' means looking the same was mixed up with being the same.
+1. (truefalse) The Sun and the Moon look about the same size in our sky because they really are about the same size.  
+   **Answer:** False. *Why:* False. The Sun is about 400 times wider than the Moon, but it is also about 400 times further away. The two cancel out, so they look the same size. That is why the Moon can just cover the Sun in a total eclipse.
 2. (truefalse) The iron in your blood was made inside stars.  
    **Answer:** True. *Why:* True. Iron is made deep inside big stars. When those stars exploded, long before the Sun was born, they scattered it into space. Some of it ended up in the Earth, in food and in you.
-3. (mcq) Imagine you lived on a planet going round a very faraway star. What would our Sun look like from there?  
-   Options: One small point of light, a star / A huge bright ball / You could not see it at all, because the Sun only shines on Earth / A moon  
-   **Answer:** One small point of light, a star. *Why:* From very far away, our Sun would look like one more star in the sky. Picking 'only shines on Earth' is a common idea. But the Sun sends light out in every direction, across the whole galaxy.
-4. (fill) A planet going round a star other than the Sun is called an ____.  
-   **Answer:** ['exoplanet']. *Why:* Exo means outside. Exoplanets are planets outside our solar system. More than 6,000 have been found.
-5. (fill) A ____ is the distance light travels in one year.  
+3. (write) In 1995, Michel Mayor and Didier Queloz found the first planet going round a star like the Sun. They never saw the planet. They saw the star wobble a tiny bit, back and forth. How could a planet you cannot see make its star wobble?  
+   **Answer:** The planet and the star pull on each other with gravity. As the planet goes round, it tugs the star a little towards it, first one way and then the other. So the star wobbles in time with the planet going round.. *Why:* A strong answer uses gravity working both ways: the star pulls the planet, and the planet pulls the star. The wobble repeats every time the planet goes round. Mayor and Queloz won a Nobel Prize for this in 2019.
+4. (fill) A ____ is the distance light travels in one year.  
    **Answer:** ['light-year', 'light year']. *Why:* A light-year is a distance, not a time, even though it has 'year' in its name.
-6. (mcq) A star is 500 light-years away. When did the light you see tonight leave it?  
+5. (mcq) A star is 500 light-years away. When did the light you see tonight leave it?  
    Options: About 500 years ago / Tonight / About 500 seconds ago / It never left. The star is right here  
    **Answer:** About 500 years ago. *Why:* A light-year is how far light goes in a year. So light from 500 light-years away has been travelling for about 500 years. Picking 'tonight' is very natural, because the starlight seems to arrive instantly. But even light needs time to cross such a distance.
-7. (mcq) Why can't the Sun be a giant fire of burning coal?  
+6. (mcq) Why can't the Sun be a giant fire of burning coal?  
    Options: A coal Sun would have burnt out in a few thousand years, but the Earth is billions of years old / Coal is too heavy to float in space / Coal burns blue, and the Sun is white / There is no reason, it could be coal  
    **Answer:** A coal Sun would have burnt out in a few thousand years, but the Earth is billions of years old. *Why:* Even a Sun-sized ball of coal would burn out in a few thousand years. Fire also needs oxygen from air, and space has none. Picking 'too heavy to float' is a common idea. But the Sun does not need to float. Its own gravity holds it together. The Sun shines by fusion.
-8. (order) Put these in order of size, SMALLEST first: the Earth, the Sun, the Moon, Betelgeuse (a giant red star), Jupiter.  
+7. (order) Put these in order of size, SMALLEST first: the Earth, the Sun, the Moon, Betelgeuse (a giant red star), Jupiter.  
    **Answer:** order shown. *Why:* The Moon is about a quarter as wide as the Earth. Jupiter is about 11 times as wide as the Earth. The Sun is about 109 times as wide. Betelgeuse is hundreds of times as wide as the Sun.
-9. (mcq) In old Indian astronomy, the Sun and the Moon were counted among the nine grahas, along with five planets. How do scientists sort them today?  
+8. (mcq) In old Indian astronomy, the Sun and the Moon were counted among the nine grahas, along with five planets. How do scientists sort them today?  
    Options: The Sun is a star, the Moon is a moon, and the five are planets / All seven are planets / All seven are stars / The Sun and the Moon are both planets  
    **Answer:** The Sun is a star, the Moon is a moon, and the five are planets. *Why:* Ancient sky-watchers grouped together everything that moved against the stars. Today we sort by what things are: the Sun makes its own light, the Moon goes round the Earth, and the planets go round the Sun. Picking 'all seven are planets' follows the old grouping. That grouping was about how they move, not what they are.
-10. (mcq) In 1995, Michel Mayor and Didier Queloz found something new. What was it?  
-   Options: The first planet going round a star like the Sun / A new moon of Jupiter / That the Sun is a star / The first star  
-   **Answer:** The first planet going round a star like the Sun. *Why:* They saw a star wobbling slightly as an unseen planet tugged on it. They won a Nobel Prize in 2019. Picking 'that the Sun is a star' mixes it up with a much older discovery.
-11. (mcq) How do scientists know what stars are made of, without ever going there?  
+9. (mcq) How do scientists know what stars are made of, without ever going there?  
    Options: They split starlight into colours and read the dark lines in it / Space rocks bring pieces of stars to Earth / They guess / Astronauts have visited stars  
    **Answer:** They split starlight into colours and read the dark lines in it. *Why:* Each kind of atom leaves its own pattern of lines in starlight, like a fingerprint. Picking 'astronauts have visited stars' is a common idea. No person or spacecraft has ever reached another star. The nearest would take tens of thousands of years with today's rockets.
-12. (write) Is our Sun an ordinary star, or a special one? Give one reason for each side. Then say what you think.  
-   **Answer:** Ordinary: there are billions of stars like it, and it is not the biggest or hottest. Special: it is brighter than about 9 out of 10 stars, and it is the only star we know with life near it. What I think, with a reason.. *Why:* There is no single right answer. A good answer gives a reason for each side.
-13. (write) Imagine one day with no Sun at all. Write three things that would change, and say why.  
+10. (write) Is our Sun an ordinary star, or a special one? Give one reason for each side. Then say what you think.  
+   **Answer:** A strong answer gives a reason for each side, then decides. Ordinary: there are billions of stars like it, and it is not the biggest or hottest. Special: it is brighter than about 9 out of 10 stars, and it is the only star we know with life near it.. *Why:* There is no single right answer. What makes an answer strong is a real reason on each side and a clear choice at the end.
+11. (write) Imagine one day with no Sun at all. Write three things that would change, and say why.  
    **Answer:** For example: it would be dark, because there would be no light to bounce off things. It would get very cold, because the Sun warms the Earth. Plants could not make food, so animals and people would go hungry. The Moon would vanish too, because it shines only with sunlight.. *Why:* A good answer links each change to light or heat from the Sun. Noticing that the Moon would disappear shows real understanding.
-14. (write) Vera Rubin found that stars at the edges of galaxies move too fast. With only the matter we can see, the galaxies should fly apart. What might this tell us?  
+12. (write) Vera Rubin found that stars at the edges of galaxies move too fast. With only the matter we can see, the galaxies should fly apart. What might this tell us?  
    **Answer:** Maybe there is extra matter we cannot see, called dark matter, whose gravity holds the stars in. Or maybe gravity works a bit differently over huge distances. Scientists are still testing both ideas.. *Why:* A good answer gives at least one idea and says that it is not yet known for sure.
-15. (write) Who should decide how bright our streetlights are at night? Think about drivers, birds, baby turtles, sleeping people and stargazers.  
-   **Answer:** Any thoughtful answer that weighs more than one side. For example: drivers and walkers need light to be safe, but light shining up into the sky is wasted. Baby turtles and birds can get lost in bright lights. Maybe lights could shine down only, and the town could decide together.. *Why:* This links the science to fairness. There is no single right answer. A good answer thinks about more than one kind of living thing.
-16. (mcq) Moonlight falls on your face. When did that light leave the Sun?  
+13. (perspective) Bright streetlights help people at night, but they also light up the sky. On Chennai's beaches, baby sea turtles hatch at night and should crawl towards the sea.  
+   **Answer:** A strong answer picks a side with a reason, for example that light shining up into the sky helps no one on the road. It then looks for a fix that helps more than one person, like lamps that shine only downwards, dimmer orange lights near the beach in the hatching months, or lights that switch off late at night.. *Why:* This is a real trade-off. Light keeps people safe, but light that goes up or sideways hides the stars and confuses turtles and birds. Lamps that point down give drivers the light they need, with much less glow in the sky.
+14. (mcq) Moonlight falls on your face. When did that light leave the Sun?  
    Options: About 8 minutes ago / About 1 month ago / It did not come from the Sun. It was made on the Moon / At the very start of the universe  
    **Answer:** About 8 minutes ago. *Why:* Sunlight takes about 8 minutes to reach the Moon, and just over 1 more second to reflect down to you. Picking 'made on the Moon' means the Moon is still being thought of as a light source. It only reflects the Sun's light.
+15. (write) Sirius looks like the brightest star in our night sky. Betelgeuse is a giant red star that gives out thousands of times more light than Sirius. Use the near lamp, far lamp test to explain why Sirius still looks brighter to us.  
+   **Answer:** Sirius is much nearer to us than Betelgeuse. In the test, the same torch looked dimmer the further away it went. Betelgeuse is so much further away that most of its light spreads out before it reaches us, so it looks dimmer than Sirius.. *Why:* A strong answer separates how much light a star gives out from how bright it looks. Sirius is about 9 light-years away. Betelgeuse is hundreds of light-years away. Distance wins.
+16. (mcq) Imagine you lived on a planet going round a very faraway star. What would our Sun look like from there?  
+   Options: One small point of light, a star / A huge bright ball / You could not see it at all, because the Sun only shines on Earth / A moon  
+   **Answer:** One small point of light, a star. *Why:* From very far away, our Sun would look like one more star in the sky. Picking 'only shines on Earth' is a common idea. But the Sun sends light out in every direction, across the whole galaxy.
 
 ## Videos
 - **Star Size Comparison 1 (HD)** (morn1415, 4 min) id `HEheh1BH34Q`: Starts with the Moon and the planets, then the Sun, then stars far bigger than the Sun, all drawn to scale. There are no words, only music, so a child can watch and talk about it. *Check:* Id checked with YouTube's oEmbed service: the title and channel match. Length is approximate. A parent should preview it, because a few of the giant stars' sizes have been measured again since it was made.
@@ -733,7 +726,7 @@ Karthik opened his mouth to say something about sparks. Then he closed it again.
 - **Carl Sagan's Pale Blue Dot OFFICIAL** (carlsagandotcom, 4 min) id `GO5FwsblpT8`: For the parent and older children. In 1990 the Voyager 1 spacecraft looked back and photographed the Earth as a tiny dot in a sunbeam. From far enough away, our whole world is a speck, just as every star is a sun seen from far away. *Check:* Id checked with YouTube's oEmbed service: the title and the channel, the official Carl Sagan channel, match. The words are thoughtful and slow, best watched together. Length is approximate.
 
 ## Quiz
-1. (mcq) Which of these makes its own light?  
+1. (mcq) Which of these lights in the night sky makes its own light?  
    Options: A star / The Moon / A planet  
    **Answer:** A star. *Why:* Stars, including the Sun, make their own light. Picking the Moon is very common, because it is so bright at night. But the Moon and the planets only reflect sunlight.
 2. (mcq) What is the Moon?  
@@ -748,18 +741,18 @@ Karthik opened his mouth to say something about sparks. Then he closed it again.
 5. (mcq) A bright dot in the evening sky shines steadily, without twinkling. Over a week, it moves a little past the stars around it. What is it?  
    Options: A planet / A star / A cloud  
    **Answer:** A planet. *Why:* Planets usually shine steadily, and they wander among the stars. Picking 'a star' is natural, because planets look like bright stars. But stars twinkle, and they keep their places in their patterns.
-6. (mcq) Why do stars twinkle?  
-   Options: Our moving air shakes their light / They flash on and off / They are about to go out  
-   **Answer:** Our moving air shakes their light. *Why:* The twinkle is made in our air. Above the air, astronauts see stars shine steadily. Picking 'flash on and off' is very natural, because that is just what it looks like.
+6. (mcq) Where does a star's twinkle happen?  
+   Options: In our moving air / Inside the star / In your eye  
+   **Answer:** In our moving air. *Why:* The twinkle is made in our air, which bends the thin beam of starlight this way and that. Above the air, astronauts see stars shine steadily. Picking 'inside the star' is natural, because that is just what it looks like.
 7. (mcq) Which of these is a planet?  
    Options: The Earth / The Sun / The Moon  
    **Answer:** The Earth. *Why:* The Earth is one of the eight planets going round the Sun. Picking the Moon is a common mix-up. The Moon goes round the Earth, so it is a moon. The Sun is a star.
 8. (mcq) What keeps the Earth going round the Sun?  
    Options: The Sun's gravity / Wind blowing in space / The Moon pushing it  
    **Answer:** The Sun's gravity. *Why:* The Earth is always moving forwards, and the Sun's gravity keeps bending its path into a loop. Picking 'wind' is a creative guess, but space has no air, so there is no wind.
-9. (mcq) What makes the Sun shine?  
-   Options: Hydrogen joining to make helium deep inside it, called fusion / Burning coal / Reflecting light from the Moon  
-   **Answer:** Hydrogen joining to make helium deep inside it, called fusion. *Why:* Deep in the Sun, hydrogen atoms join into helium and give out huge energy. Picking 'burning coal' is a sensible guess, because the Sun looks like a fire. But a coal Sun would have burnt out in a few thousand years.
+9. (mcq) Deep inside the Sun, hydrogen joins up to make helium and gives out huge energy. What is this called?  
+   Options: Fusion / Burning / Reflecting  
+   **Answer:** Fusion. *Why:* Fusion means atoms joining together. It is what makes the Sun and every star shine. Picking 'burning' is a sensible guess, because the Sun looks like a fire. But burning needs oxygen, and a burning Sun would have gone out long ago.
 10. (mcq) What are stars made of, mostly?  
    Options: Hydrogen and helium / Rock and iron, like the Earth / Fire  
    **Answer:** Hydrogen and helium. *Why:* Cecilia Payne found this in 1925. Picking 'rock and iron, like the Earth' is exactly what most astronomers believed before her. That is why her result surprised them.

@@ -273,7 +273,7 @@
    "description": "A single cell has no brain and no nerves. Yet scientists have watched single cells sense, choose and remember. A bacterium called E. coli swims towards sugar. They do this by remembering, for a few seconds, how much sugar they sensed before. If there is more now, they keep swimming. If there is less, they tumble and try a new direction. In an experiment, scientists squirted tiny specks at a trumpet-shaped single cell called Stentor, about one millimetre long. They tried one way to escape, then another, and then swam away. A yellow slime mould, which is one giant cell, found the shortest path through a maze. Scientists agree on what these cells do. They argue about whether to call it thinking.",
    "examples": [
     "E. coli bacteria swim towards food by comparing now with a few seconds ago.",
-    "Stentor tried bending away, then closing up, then swimming off when specks kept landing on it.",
+    "Stentor tried bending away, then closing up, then swimming off when specks kept landing on them.",
     "A slime mould in Japan joined oat flakes in a pattern much like Tokyo's railway map."
    ],
    "perspectives": [
@@ -442,7 +442,7 @@
   "read_aloud": true,
   "note": "The Foldscope paper microscope is real, and Stentor is a real single cell about a millimetre long. Scientists have watched Stentor bend away, reverse their hairs, shrink and swim off when specks land on them (Jennings 1902, Dexter and others 2019), though not every Stentor does these in the same order. Kavya, Rohan, the school and the temple tank are made up.",
   "text": [
-   "The microscope came in a brown envelope, flat as a chapati. Kavya's teacher had handed one to every child in Class 3, and said only this: 'Look at everything. Then look again.'",
+   "The microscope came in a brown envelope, flat as a chapati. Kavya's teacher, Mrs Nair, had handed one to every child in Class 3. She said only this: 'Look at everything. Then look again.'",
    "Kavya's cousin Rohan was staying with them for the summer holidays. He was twelve, and he knew things. He watched her press out the paper pieces along their dotted lines. 'A paper microscope,' he said. 'Next they'll give you a paper aeroplane and call it a rocket.'",
    "Kavya did not answer. She folded the stiff blue card, tab into slot, the way the picture showed. She pushed the tiny glass bead of a lens into its hole. When she held it up to the window, it was hardly bigger than her palm.",
    "That evening her mother was chopping onions for sambar. Kavya begged one thin, wet layer. From the inside of it she peeled a skin so fine she could see her fingers through it. She laid it on a glass slide, added a drop of water, and slid it in. Then she put her eye almost against the bead and turned towards the tube light.",
@@ -1930,13 +1930,13 @@
      "t": "mcq",
      "p": "What is a cell?",
      "opts": [
-      "The smallest living piece of a living thing",
       "A tiny stone inside living things",
+      "The smallest living piece of a living thing",
       "A room in a house",
       "A kind of battery"
      ],
-     "a": 0,
-     "why": "A cell is the smallest piece of a living thing that is alive on their own. Picking 'battery' happens because we also say 'cell' for batteries. It is the same word with a different meaning. Picking 'a tiny stone' usually means thinking cells are dead building blocks, but each cell is alive.",
+     "a": 1,
+     "why": "A cell is the smallest piece of a living thing that is alive on their own. We also say 'cell' for a battery. It is the same word with a different meaning. 'A tiny stone' means thinking cells are dead building blocks, but each cell is alive.",
      "art": "A single cell drawn big, next to a battery with a question mark."
     },
     {
@@ -1944,12 +1944,12 @@
      "p": "Which of these is made of cells?",
      "opts": [
       "A steel spoon",
-      "A mango leaf",
       "A glass marble",
+      "A mango leaf",
       "A plastic bucket"
      ],
-     "a": 1,
-     "why": "A mango leaf is part of a living tree, so it is made of cells. Steel, glass and plastic were never alive, so they have no cells. Picking 'plastic' sometimes happens because plastic is made from oil, which came from ancient life. But plastic itself has no cells."
+     "a": 2,
+     "why": "A mango leaf is part of a living tree, so it is made of cells. Steel, glass and plastic were never alive, so they have no cells. Plastic is made from oil, which came from ancient life, but plastic itself has no cells."
     },
     {
      "t": "truefalse",
@@ -1961,47 +1961,39 @@
      "t": "truefalse",
      "p": "You can see most cells with just your eyes.",
      "a": false,
-     "why": "False. Most cells are too small to see without a lens. A few, like a cotton fibre or a tomato cell, are big enough to almost see."
-    },
-    {
-     "t": "fill",
-     "p": "Robert Hooke looked at cork and called the little boxes he saw ____.",
-     "a": [
-      "cells"
-     ],
-     "why": "Hooke named them cells in 1665, from a Latin word for a small room."
+     "why": "False. Most cells are too small to see without a lens. A few, like a cotton fibre or a tomato pulp cell, are big enough to almost see."
     },
     {
      "t": "mcq",
      "p": "The onion skin looked like long boxes side by side. Why do onion cells have straight edges?",
      "opts": [
-      "They have a stiff cell wall",
       "They are frozen",
+      "They have a stiff cell wall",
       "They are made of glass",
       "The stain makes them straight"
      ],
-     "a": 0,
-     "why": "Plant cells have a stiff wall outside their membrane. The walls give them straight, box-like edges. Picking 'the stain' usually means thinking the colour changed the cell's shape. The stain only makes the walls easier to see.",
+     "a": 1,
+     "why": "Plant cells have a stiff wall outside their membrane. The walls give them straight, box-like edges. The stain does not change the shape. It only makes the walls easier to see.",
      "context": "Remember the onion skin experiment, where you peeled the thin skin from inside an onion and looked at it with a magnifier?",
      "how": "e1"
     },
     {
      "t": "mcq",
-     "p": "Your cheek cells looked like flat, floppy fried eggs. Why are they not boxes?",
+     "p": "Your cheek cells looked like flat, floppy fried eggs. Why are they not boxes like onion cells?",
      "opts": [
-      "Animal cells have no stiff wall",
       "They were squashed by your teeth",
       "They are not real cells",
+      "Animal cells have no stiff wall",
       "They are dead stones"
      ],
-     "a": 0,
-     "why": "Animal cells, like yours, have a thin membrane but no stiff wall. So they are soft and roundish. Picking 'squashed by teeth' usually means thinking all cells start as boxes.",
+     "a": 2,
+     "why": "Animal cells, like yours, have a thin membrane but no stiff wall. So they are soft and roundish. Your teeth did not squash them: cheek cells are this shape even before they come off.",
      "context": "Remember the cheek cell experiment, where you scraped the inside of your cheek and looked at the cells?",
      "how": "e2"
     },
     {
      "t": "match",
-     "p": "Match each tool to what it can show.",
+     "p": "Match each tool to something it can show.",
      "pairs": [
       [
        "Your eyes alone",
@@ -2025,7 +2017,7 @@
     },
     {
      "t": "sort",
-     "p": "Sort these. Made of living cells now, cells that were once alive, or never made of cells?",
+     "p": "Sort these. Made of living cells now, made of cells that were once alive, or never made of cells?",
      "cats": [
       "Living cells now",
       "Cells once alive",
@@ -2064,13 +2056,13 @@
      "t": "mcq",
      "p": "Where do new cells come from?",
      "opts": [
-      "From cells splitting into two",
       "From mud and dust",
       "From the air",
+      "From cells splitting into two",
       "From food turning into cells by itself"
      ],
-     "a": 0,
-     "why": "Every new cell comes from a cell splitting into two. Picking 'mud and dust' is the old idea of spontaneous generation, which careful experiments showed is not true. Food gives cells what they need to split, but food alone never becomes a cell."
+     "a": 2,
+     "why": "Every new cell comes from a cell splitting into two. 'Mud and dust' is the old idea that life can appear by itself, and careful experiments showed it is not true. Food gives cells what they need to split, but food alone never becomes a cell."
     },
     {
      "t": "fill",
@@ -2097,7 +2089,7 @@
       "a bacterium"
      ],
      "a": "order shown",
-     "why": "A big ant is about 1 centimetre. A mustard seed is about 1 millimetre. An onion cell is about a tenth of a millimetre. A bacterium is about a thousandth of a millimetre."
+     "why": "A big ant is about 1 centimetre long. A mustard seed is about 1 millimetre across. An onion cell is about a tenth of a millimetre. A bacterium is about a thousandth of a millimetre."
     },
     {
      "t": "draw",
@@ -2113,7 +2105,7 @@
      "p": "Why did we need a magnifier to see onion cells? Use the word 'small' or 'tiny'.",
      "lines": 3,
      "a": "Onion cells are too small for our eyes alone. Each is about a tenth of a millimetre wide. A lens bends light so they look bigger and we can see them.",
-     "why": "Cells are tiny. Lenses make them look bigger by bending light.",
+     "why": "A strong answer says how small a cell is, and that a lens makes the cell look bigger by bending light.",
      "context": "Remember the onion skin experiment, where you peeled the thin skin from inside an onion and looked at it with a magnifier?",
      "how": "e1"
     },
@@ -2121,10 +2113,17 @@
      "t": "write",
      "p": "Name one way your cheek cells and onion cells are alike, and one way they are different.",
      "lines": 3,
-     "a": "Alike: both are cells and both have a nucleus, a dark dot. Different: onion cells are stiff boxes with walls, cheek cells are soft and roundish with no wall.",
-     "why": "Comparing cells helps us see what all cells share and how plant and animal cells differ.",
+     "a": "Alike: both are cells and both have a nucleus, a dark dot. Different: onion cells are stiff boxes with walls, and cheek cells are soft and roundish with no wall.",
+     "why": "Comparing cells shows what all cells share, and how plant and animal cells differ.",
      "context": "Remember the cheek cell experiment, where you scraped the inside of your cheek and looked at the cells?",
      "how": "e2"
+    },
+    {
+     "t": "write",
+     "p": "Meera, a girl in Class 3, says: 'An elephant is huge, so their cells must be huge too.' Is she right? Explain.",
+     "lines": 3,
+     "a": "No. Most cells in an elephant are about the same size as the cells in an ant or in you. An elephant is bigger because they have far, far more cells, not bigger ones.",
+     "why": "This is a very common first guess. A strong answer says that big living things have more cells, not bigger cells."
     }
    ]
   },
@@ -2136,113 +2135,81 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Asha set three bowls of warm milk overnight. Bowl A had a spoon of curd. Bowl B had nothing. Bowl C had a spoon of curd that was boiled first. Only bowl A set. What is the best explanation?",
+     "p": "Asha set three bowls of warm milk overnight. Bowl A had a spoon of curd. Bowl B had nothing added. Bowl C had a spoon of curd that was boiled first. Only bowl A set. What is the best explanation?",
      "opts": [
-      "Living bacteria in the curd split again and again, and only bowl A had living bacteria",
       "Curd is heavy, so it makes milk thick",
+      "Living bacteria in the curd split again and again, and only bowl A had living bacteria",
       "Milk always turns into curd by itself overnight",
       "Boiling made the curd too sour"
      ],
-     "a": 0,
-     "why": "Cells come only from living cells. The curd in bowl A held living bacteria, which multiplied in the warm milk. Boiling killed the bacteria in bowl C, and bowl B had none added. Picking 'milk turns into curd by itself' is like the old idea of spontaneous generation: bowl B shows it does not.",
+     "a": 1,
+     "why": "Cells come only from living cells. The curd in bowl A held living bacteria, who multiplied in the warm milk. Boiling killed the bacteria in bowl C, and bowl B had none added. Bowl B also shows that milk does not turn into curd by itself.",
      "context": "Remember the curd bowls experiment, where you set three bowls of warm milk overnight?",
      "how": "e3"
     },
     {
      "t": "mcq",
-     "p": "A bacterium swims, and the sugar smell gets weaker. What do they do next?",
+     "p": "In Run and Tumble, a bacterium swims along and the smell of sugar gets weaker. What do they do next?",
      "opts": [
-      "Tumbles and tries a new direction",
-      "Keeps swimming the same way",
-      "Grows eyes",
-      "Stops for ever"
+      "Keep swimming the same way",
+      "Tumble and try a new direction",
+      "Grow eyes",
+      "Stop for ever"
      ],
-     "a": 0,
-     "why": "A bacterium compares what they smell now with a few seconds ago. If the smell is getting weaker, they tumble and try another way. Picking 'keeps swimming' misses the clever part: they remember and compare.",
+     "a": 1,
+     "why": "A bacterium compares what they smell now with a few seconds ago. If the smell is getting weaker, they tumble and try another way. 'Keep swimming' misses the clever part: they remember and compare.",
      "context": "Remember Run and Tumble, the game where you played a bacterium finding food with your eyes shut?",
      "how": "g2"
     },
     {
      "t": "truefalse",
-     "p": "A slime mould is one giant cell, and they can find the shortest path through a maze.",
+     "p": "A slime mould can be one giant cell, and a slime mould can find the shortest path through a maze.",
      "a": true,
-     "why": "True. In 2000, Toshiyuki Nakagaki and his team put a slime mould in a maze with food at two ends. They ended up as one tube along the shortest path."
+     "why": "True. In 2000, Toshiyuki Nakagaki and his team put a slime mould in a maze with food at two ends. In the end the slime mould lay as one tube along the shortest path between the two foods."
     },
     {
      "t": "mcq",
      "p": "Which of these is a single cell?",
      "opts": [
-      "One cotton fibre",
       "A whole leaf",
+      "One cotton fibre",
       "A cockroach",
       "A strand of spider web"
      ],
-     "a": 0,
-     "why": "Each cotton fibre grows from one cell on the cotton seed. A leaf and a cockroach are made of many cells. Spider silk is made by cells but is not a cell itself. Picking 'a whole leaf' usually means thinking anything thin and flat is one cell."
-    },
-    {
-     "t": "fill",
-     "p": "Leeuwenhoek called the tiny creatures he saw in water 'animal____'.",
-     "a": [
-      "cules"
-     ],
-     "why": "He called them animalcules, meaning little animals. Many of them were single cells."
-    },
-    {
-     "t": "match",
-     "p": "Match each scientist to what they found.",
-     "pairs": [
-      [
-       "Robert Hooke",
-       "named cells, from looking at cork"
-      ],
-      [
-       "Antonie van Leeuwenhoek",
-       "first saw living single cells in water"
-      ],
-      [
-       "Schleiden and Schwann",
-       "said all plants and animals are made of cells"
-      ],
-      [
-       "Robert Remak",
-       "showed new cells come from cells splitting"
-      ]
-     ],
-     "a": "pairs as given",
-     "why": "Cell theory was built by many people, one finding at a time."
+     "a": 1,
+     "why": "Each cotton fibre grows from one cell on the cotton seed. A leaf and a cockroach are made of many cells. Spider silk is made by cells but is not a cell itself. Being thin and flat does not make something one cell."
     },
     {
      "t": "mcq",
-     "p": "Why do cheek cells keep coming off inside your mouth?",
+     "p": "Why do cheek cells keep coming off inside your mouth, yet your cheek never wears through?",
      "opts": [
-      "Your mouth sheds old cells and grows new ones all the time",
-      "You are falling apart",
+      "Your mouth sheds old cells and makes new ones all the time",
+      "You are slowly falling apart",
       "Cheek cells are not alive",
-      "Food scrapes off cells that never grow back"
+      "The cells that come off are put back by your tongue"
      ],
      "a": 0,
-     "why": "The lining of your mouth is always shedding old cells and making new ones from below. Picking 'never grow back' usually means not knowing that cells come from cells splitting, so the body can replace them.",
+     "why": "The lining of your mouth is always shedding old cells, and cells below keep splitting to make new ones. That is why a gentle scrape does not hurt, and why the lining never runs out.",
      "context": "Remember the cheek cell experiment, where you scraped the inside of your cheek and looked at the cells?",
      "how": "e2"
     },
     {
      "t": "truefalse",
-     "p": "A grown-up's body is made of about 30 trillion cells.",
-     "a": true,
-     "why": "True. A careful count in 2016 found about 30 trillion human cells in a grown-up. A child has fewer, but still many trillions."
+     "p": "A cut on your knee heals because new skin is made out of nothing.",
+     "a": false,
+     "why": "False. The skin cells around the cut split again and again, and the new cells fill the gap. Every new cell comes from a cell."
     },
     {
      "t": "mcq",
-     "p": "A tiny round water drop magnified letters more than a big flat drop. Why?",
+     "p": "A tiny round water drop made the newspaper letters look bigger than a wide flat drop did. Why?",
      "opts": [
-      "It is more curved, so it bends light more",
       "It has more water",
       "It is colder",
+      "It is more curved, so it bends light more",
       "Small things always look bigger"
      ],
-     "a": 0,
-     "why": "The more curved a lens is, the more it bends light, and the bigger things look. Picking 'more water' usually means thinking bigger lenses always magnify more.",
+     "a": 2,
+     "why": "The more curved a lens is, the more it bends light, and the bigger things look. Many people guess a bigger lens always magnifies more. Here the smaller, rounder drop won.",
      "context": "Remember making a water-drop magnifier on clear plastic over newspaper?",
      "how": "a2"
     },
@@ -2283,53 +2250,91 @@
      "why": "Yeast, bacteria and amoebas are each one cell. Mushrooms, worms and plants are made of many cells working together."
     },
     {
-     "t": "mcq",
-     "p": "Your brain thinks. What is your brain made of?",
-     "opts": [
-      "Cells called neurons, and other cells",
-      "Electricity only",
-      "One giant cell",
-      "Nothing alive"
+     "t": "fill",
+     "p": "Your brain thinks. It is made of about 86 billion nerve cells called ____, and many helper cells.",
+     "a": [
+      "neurons",
+      "neuron",
+      "nerve cells"
      ],
-     "a": 0,
-     "why": "Your brain is made of about 86 billion neurons and many helper cells. Thinking happens when these cells pass signals. Picking 'electricity only' is half right: signals are tiny flows of charged particles, but they happen in living cells."
+     "why": "Neurons pass tiny signals to each other. Thinking happens when billions of these cells signal together. So even your thoughts happen in living cells."
+    },
+    {
+     "t": "mcq",
+     "p": "Which is the fairest way to compare three magnifiers?",
+     "opts": [
+      "Use a new onion for each magnifier",
+      "Use the same onion skin and the same light for every magnifier",
+      "Use the best light for the weakest magnifier",
+      "Look for a different time with each one"
+     ],
+     "a": 1,
+     "why": "To be fair, change only one thing: the magnifier. Keep the onion skin, the light and the looking time the same. Otherwise you do not know which change made the difference.",
+     "context": "Remember the onion skin experiment, where you peeled the thin skin from inside an onion and looked at it with a magnifier?",
+     "how": "e1"
     },
     {
      "t": "write",
-     "p": "Rohan said cells are like bricks that don't do anything. Give one example from this unit that shows a cell doing something.",
+     "p": "In the story, Kavya's cousin Rohan said cells are like bricks that don't do anything. Give one example from this unit that shows a cell doing something.",
      "lines": 3,
-     "a": "A Stentor cell bent away, reversed their hairs, shrank and swam off when specks landed on them. Or: a bacterium swims towards food by comparing smells. Or: a slime mould found the shortest path in a maze.",
-     "why": "Cells are alive. They sense and respond, unlike bricks."
+     "a": "A Stentor cell bent away, reversed their hairs, shrank and swam off when chalk specks landed on them. Or: a bacterium swims towards food by comparing smells. Or: a slime mould found the shortest path in a maze.",
+     "why": "A strong answer gives a real example and says what the cell did. Bricks do nothing. Cells sense and respond."
     },
     {
      "t": "write",
-     "p": "What is the difference between a wooden spoon and a living tree? Use the word 'cells'.",
-     "lines": 3,
-     "a": "Both are made of cells. The tree's cells are alive: they take in food, grow and split. The spoon's cells are dead; only their walls are left, so it cannot grow.",
-     "why": "Being made of cells is not the same as being alive now."
+     "p": "A dry bean seed and a small pebble both look dead. How could you test which one has living cells?",
+     "lines": 4,
+     "a": "Put both on wet cotton or in damp soil, side by side, for a few days. The bean will swell and send out a root, because their cells are alive and start to split. The pebble will not change. A dry seed's cells are alive but resting.",
+     "why": "A strong answer uses a fair test: same water, same place, same time. Growing is a sign of living cells, because cells grow by splitting."
+    },
+    {
+     "t": "write",
+     "p": "Sometimes bowl B, with no curd added, sets a little after two days. Does that prove that bacteria can appear in milk from nothing? What else could explain it?",
+     "lines": 4,
+     "a": "No. A few bacteria could have come in from the air, the bowl, the spoon or the milk itself if it was not boiled. Given two days, those few bacteria split again and again until there were enough to set the milk. To check, you could boil the milk and the bowl, cover it, and try again.",
+     "why": "A strong answer looks for where living bacteria could have come from, and suggests a test. People once believed life appeared by itself for exactly this kind of reason.",
+     "context": "Remember the curd bowls experiment, where you set three bowls of warm milk overnight?",
+     "how": "e3"
     },
     {
      "t": "draw",
      "p": "Draw a size ladder with 4 steps: you, a big ant, a mustard seed and an onion cell. Write how big each is.",
-     "a": "You: about 1 metre. Big ant: about 1 cm. Mustard seed: about 1 mm. Onion cell: about one tenth of a millimetre.",
+     "a": "You: about 1 metre. Big ant: about 1 centimetre. Mustard seed: about 1 millimetre. Onion cell: about one tenth of a millimetre.",
      "why": "Drawing the ladder shows how many times smaller each step is.",
      "art": "Four empty boxes going down like stairs.",
      "context": "Remember the Size Ladder, where each step was 10 times smaller than the one before?",
      "how": "a3"
     },
     {
-     "t": "mcq",
-     "p": "Which is the fairest way to compare magnifiers on onion skin?",
-     "opts": [
-      "Use the same onion skin and the same light for every magnifier",
-      "Use a new onion for each magnifier",
-      "Use the best light for the weakest magnifier",
-      "Look for a different time with each one"
+     "t": "perspective",
+     "p": "Three people are arguing about what a cell is most like.",
+     "views": [
+      {
+       "who": "Rohan, Kavya's 12-year-old cousin in the story",
+       "says": "A cell is like a brick. Living things are built out of them, the way a house is built out of bricks."
+      },
+      {
+       "who": "A scientist who studies the chemicals inside cells",
+       "says": "A cell is like a tiny busy factory. Thousands of chemical jobs go on inside, all following the rules of chemistry."
+      },
+      {
+       "who": "Kavya, who watched a Stentor in the story",
+       "says": "A cell is like a tiny living being. A Stentor senses specks, tries one thing, then another, and swims away."
+      }
      ],
-     "a": 0,
-     "why": "To be fair, change only one thing: the magnifier. Keep the onion skin, the light and the looking time the same. Otherwise you don't know which change made the difference.",
-     "context": "Remember the onion skin experiment, where you peeled the thin skin from inside an onion and looked at it with a magnifier?",
-     "how": "e1"
+     "ask": "Which comparison do you think fits best? Give a reason from something you saw or read in this unit. Then say what one of the others gets right.",
+     "lines": 5,
+     "a": "A strong answer picks a comparison and backs it, for example: Kavya, because the Stentor tried four different responses, which bricks never do. It then gives another side its due, for example: Rohan is right that onion cells fit together like bricks to build the onion.",
+     "why": "Each comparison catches something true. Cells do build bodies, do run on chemistry, and do sense and respond. A brick catches the least, because a brick is not alive."
+    },
+    {
+     "t": "write",
+     "p": "You look at a drop of curd with your water-drop magnifier and see no bacteria at all. Does that mean there are none? Explain.",
+     "lines": 3,
+     "a": "No. A bacterium is about a thousandth of a millimetre, about 100 times smaller than an onion cell. A water-drop magnifier is far too weak to show them. We know they are there because a spoon of curd sets new milk.",
+     "why": "A strong answer uses size, and evidence from the curd bowls. Not seeing something is not proof it is not there.",
+     "context": "Remember the Size Ladder, where each step was 10 times smaller than the one before?",
+     "how": "a3"
     }
    ]
   },
@@ -2341,59 +2346,59 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Before Remak and Virchow, some scientists thought new cells formed out of a kind of liquid, like crystals forming in salty water. What evidence shows they were wrong?",
+     "p": "In the 1830s, Theodor Schwann thought new cells formed out of a clear liquid, the way crystals form in salty water. What evidence showed he was wrong?",
      "opts": [
-      "Under the microscope, new cells are seen forming when one cell splits into two",
       "Cells are too small to see",
+      "Under the microscope, new cells were seen forming when one cell split into two",
       "Crystals are alive",
       "Salt water has cells in it"
      ],
-     "a": 0,
-     "why": "Remak watched cells divide in growing chick eggs and showed that new cells come from old ones. Nobody has ever seen a cell form from liquid. Picking 'crystals are alive' mixes up growing by adding on the outside with growing from inside."
+     "a": 1,
+     "why": "Robert Remak watched cells divide in growing chick eggs and showed that new cells come from old ones. Nobody has ever seen a cell form from liquid. A crystal grows by adding pieces on its outside. A cell grows from inside, and then splits."
     },
     {
      "t": "write",
      "p": "Why do you think cells are so small? Why isn't an elephant one giant cell?",
      "lines": 4,
      "a": "Food and air get into a cell through their membrane, their thin skin. In a tiny cell, everything inside is close to the membrane, so food reaches it fast. In a giant cell, the middle would be too far away to get food in time. So big living things are made of many small cells.",
-     "why": "A small cell has a lot of membrane compared with their inside. This is one reason scientists give, though a few giant cells, like slime moulds, find clever ways around it."
+     "why": "A strong answer links size to how far food and air must travel inside. A few giant cells, like slime moulds, find clever ways around this."
     },
     {
      "t": "mcq",
-     "p": "A slime mould crossed a bridge covered in a harmless bitter taste. At first they went slowly. After a few days, they crossed quickly. What does this show?",
+     "p": "A slime mould had to cross a bridge covered in a harmless bitter taste to reach food. At first they crossed slowly. After a few days, they crossed quickly. What does this show?",
      "opts": [
-      "They learned to ignore something harmless, a simple kind of memory",
       "They grew a brain",
       "They got tired",
+      "They learned to ignore something harmless, a simple kind of memory",
       "The taste disappeared by itself"
      ],
-     "a": 0,
-     "why": "In 2016, Romain Boisseau, David Vogel and Audrey Dussutour showed slime moulds 'got used to' a harmless bitter taste. Getting used to something is called habituation. It is one of the simplest kinds of learning. Picking 'grew a brain' is not possible: they stayed one cell."
+     "a": 2,
+     "why": "In 2016, Romain Boisseau, David Vogel and Audrey Dussutour showed slime moulds get used to a harmless bitter taste. Getting used to something is called habituation. It is one of the simplest kinds of learning. They could not have grown a brain: they stayed one cell."
     },
     {
      "t": "truefalse",
      "p": "Scientists agree that a bacterium thinks in the same way you do.",
      "a": false,
-     "why": "False. Scientists agree on what bacteria do: sense, choose and remember for a few seconds. They argue about whether to call it thinking, and nobody knows yet what a bacterium feels."
+     "why": "False. Scientists agree on what bacteria do: they sense, choose and remember for a few seconds. They argue about whether to call it thinking, and nobody knows yet what a bacterium feels."
     },
     {
      "t": "write",
-     "p": "Leeuwenhoek had no university degree. People doubted him. What did he do so others would believe him? What would you do?",
+     "p": "Antonie van Leeuwenhoek was a cloth-seller in Delft with no university degree. People doubted the tiny creatures he said he saw. What did he do so others would believe him? What would you do?",
      "lines": 4,
-     "a": "He wrote very careful descriptions and drawings, repeated his looks many times, and sent signed letters from respected people who had seen the creatures too. Later the Royal Society saw them for itself. I would show others how to repeat my test.",
-     "why": "Science trusts things that other people can check for themselves."
+     "a": "He wrote very careful descriptions and drawings, looked again many times, and sent signed letters from respected people who had seen the creatures too. Later the Royal Society saw them for themselves. I would show other people how to repeat my test, so they could see it with their own eyes.",
+     "why": "Science trusts things that other people can check for themselves. A strong answer says how others could repeat what he saw."
     },
     {
      "t": "mcq",
-     "p": "Which is the best evidence that curd has living cells in it?",
+     "p": "A spoon of curd sets warm milk in about 8 hours in summer. In a cold winter kitchen it takes much longer. Why?",
      "opts": [
-      "A spoon of it turns warm milk into curd, but a boiled spoon of it does not",
-      "It is white",
-      "It is cold from the fridge",
-      "It tastes sour"
+      "Winter milk has no bacteria",
+      "Curd bacteria split more slowly when they are cold",
+      "Cold milk is too thick",
+      "Bacteria sleep only in winter"
      ],
-     "a": 0,
-     "why": "Living cells multiply, and heat kills them. Curd sets new milk only while its bacteria are alive. Being white, cold or sour does not show life by itself.",
+     "a": 1,
+     "why": "Living cells do their work faster when they are warm, up to a point. In the cold, the curd bacteria split more slowly, so they take longer to become enough to set the milk. This is why many families keep the curd bowl in a warm corner in winter.",
      "context": "Remember the curd bowls experiment, where you set three bowls of warm milk overnight?",
      "how": "e3"
     },
@@ -2402,81 +2407,96 @@
      "p": "You began as one single cell. Write two things that must have happened for that one cell to become you.",
      "lines": 3,
      "a": "The cell split into two, then four, then many, again and again. The new cells became different kinds: skin, blood, bone and nerve cells.",
-     "why": "Growing means cells splitting and cells becoming different kinds."
+     "why": "Growing means cells splitting, and cells becoming different kinds. A strong answer names both."
     },
     {
      "t": "mcq",
-     "p": "Which statement is an idea that scientists are still testing, not a settled fact?",
+     "p": "Which of these is an idea that scientists are still testing, not a settled fact?",
      "opts": [
-      "The first cells began as tiny fatty bubbles holding molecules that could copy themselves",
       "All living things are made of cells",
       "New cells come from cells",
+      "The first cells began as tiny fatty bubbles holding molecules that could copy themselves",
       "Plant cells have walls"
      ],
-     "a": 0,
+     "a": 2,
      "why": "How the first cell began is still an open question. The fatty-bubble idea is one of the best guesses. The other three have been checked by millions of observations."
     },
     {
-     "t": "fill",
-     "p": "The brain scientist who counted the neurons in the human brain, about 86 billion, is Suzana Herculano-____.",
-     "a": [
-      "Houzel"
-     ],
-     "why": "Suzana Herculano-Houzel, a Brazilian scientist, and her team counted brain cells in 2009, using a method her lab had invented."
-    },
-    {
      "t": "mcq",
-     "p": "A Stentor cell has no brain. When specks fell on them, they bent away, then reversed their hairs, then shrank, then swam off. Which answer best describes this?",
+     "p": "In the story, Kavya dropped chalk specks onto a Stentor, a trumpet-shaped single cell with no brain. They bent away, then reversed their hairs, then shrank, then swam off. Which answer best describes this?",
      "opts": [
-      "Trying different responses, one after another",
-      "Doing exactly one thing for ever",
       "Being pushed by the water",
+      "Doing exactly one thing for ever",
+      "Trying different responses, one after another",
       "Sleeping"
      ],
-     "a": 0,
-     "why": "Stentor tried a series of different responses. In 2019, scientists filmed this again and found most Stentors did try different things, though not always in the same order. Picking 'pushed by the water' would not explain why they changed what they did.",
-     "context": "Remember the story of Kavya, who dropped chalk specks onto a trumpet-shaped Stentor cell?"
+     "a": 2,
+     "why": "Stentor tried a series of different responses. In 2019, scientists repeated this experiment and found that most Stentors did try different things, though not always in the same order. Being pushed by the water would not explain why they changed what they did."
+    },
+    {
+     "t": "perspective",
+     "p": "Scientists watch a bacterium smell food, remember for a few seconds and turn towards the food. They disagree about what to call it.",
+     "views": [
+      {
+       "who": "Some biologists",
+       "says": "Sensing, remembering and choosing is a simple kind of thinking. So a bacterium thinks, in a very small way."
+      },
+      {
+       "who": "Some brain scientists",
+       "says": "Thinking needs a brain made of many nerve cells. A bacterium only reacts, like a switch."
+      },
+      {
+       "who": "Some philosophers",
+       "says": "We can see what a cell does, but not what it is like to be that cell. So we cannot know yet whether a bacterium thinks."
+      }
+     ],
+     "ask": "Which view do you agree with most? Give a reason from Run and Tumble or the Stentor story. Then say what one of the others would say back to you.",
+     "lines": 6,
+     "a": "A strong answer picks a view and uses evidence, for example: the bacterium in Run and Tumble had to remember the smell a moment ago and compare, which is more than a switch does. It then answers back fairly, for example from the brain scientists: a thermostat also senses and acts, and nobody says it thinks.",
+     "why": "This is a real, open argument. Everyone agrees on what the bacterium does. They disagree about the word 'thinking'. Listen for evidence, not for one right answer.",
+     "context": "Remember Run and Tumble, the game where you played a bacterium finding food with your eyes shut?",
+     "how": "g2"
     },
     {
      "t": "write",
-     "p": "Think of a thermostat, the switch that turns off a water heater when it is hot. It senses heat and acts. Is it thinking? How is it different from a bacterium?",
+     "p": "A thermostat is the switch that turns off a water heater when the water is hot. It senses heat and acts. How is it different from a bacterium who senses food?",
      "lines": 4,
-     "a": "A thermostat senses and acts, but it was built by people, does not eat, grow or make more of itself, and does exactly one thing. A bacterium is alive, compares now with before, and makes more bacteria. Whether either 'thinks' depends on what we mean by thinking.",
-     "why": "There is no single right answer. Good answers compare carefully."
+     "a": "A thermostat was built by people, does not eat, grow or make more of itself, and always does the same one thing. A bacterium is alive, takes in food, compares now with a moment ago, and splits to make more bacteria.",
+     "why": "A strong answer compares carefully and names more than one difference. Whether either one 'thinks' depends on what we mean by thinking."
     },
     {
      "t": "order",
-     "p": "Put these discoveries in time order, earliest first: all animals are made of cells (Schwann), Hooke names cells, every cell comes from a cell (Remak and Virchow), Leeuwenhoek sees living single cells.",
+     "p": "Put these discoveries in time order, earliest first.",
      "items": [
-      "Hooke names cells",
+      "Hooke names cells, from looking at cork",
       "Leeuwenhoek sees living single cells",
-      "all animals are made of cells (Schwann)",
-      "every cell comes from a cell (Remak and Virchow)"
+      "Schwann says all animals are made of cells",
+      "Remak and Virchow say every cell comes from a cell"
      ],
      "a": "order shown",
-     "why": "Hooke 1665, Leeuwenhoek 1674, Schwann 1839, Remak and Virchow in the 1850s. Science builds step by step."
+     "why": "Hooke 1665, Leeuwenhoek 1674, Schwann 1839, Remak and Virchow in the 1850s. Each step was built on the ones before."
     },
     {
      "t": "truefalse",
      "p": "Your body has about as many bacteria cells as human cells.",
      "a": true,
-     "why": "True. A careful 2016 count found roughly one bacterium for each human cell. The old saying of ten bacteria for each human cell was wrong."
+     "why": "True. A careful count in 2016 found roughly one bacterium for each human cell. The old saying, ten bacteria for each human cell, was wrong. Many books still repeat it."
     },
     {
      "t": "draw",
-     "p": "Draw a model of a bacterium finding food by run and tumble. Use arrows for the runs and spirals for the tumbles.",
-     "a": "Straight arrows that keep going when they head towards the food, and spirals then new arrows when they turn away, ending at the food.",
-     "why": "A model drawing shows the hidden steps: run, check, keep or tumble.",
+     "p": "Draw a bacterium finding food by run and tumble. Use straight arrows for the runs and little spirals for the tumbles.",
+     "a": "Straight arrows that keep going when they head towards the food, and spirals followed by new arrows when they turn away, ending at the food.",
+     "why": "A model drawing shows the hidden steps: run, check the smell, then keep going or tumble.",
      "art": "A blank page with a dot of food in one corner and a tiny bacterium in the other.",
-     "context": "Remember Run and Tumble, the game where you played a bacterium?",
+     "context": "Remember Run and Tumble, the game where you played a bacterium finding food with your eyes shut?",
      "how": "g2"
     },
     {
      "t": "write",
-     "p": "Your brain is made of cells, and single cells can sense, choose and remember. So where do you think thinking began?",
+     "p": "If every cell comes from a cell, where did the very first cell come from? Say what scientists know, and what they do not know yet.",
      "lines": 4,
-     "a": "Maybe thinking began with single cells sensing food and danger, billions of years ago. Brains came much later and are made of many cells signalling together. Scientists still argue about what to call thinking.",
-     "why": "This is an open question. A good answer uses evidence from the unit."
+     "a": "Scientists know that every cell alive today came from an older cell, in a line going back about 3.5 to 4 billion years. They do not know yet how the very first cell began. One idea is that tiny fatty bubbles trapped molecules that could copy themselves. It is still being tested.",
+     "why": "A strong answer separates what is settled (cells from cells) from what is still open (the very first cell). It is honest about not knowing."
     }
    ]
   }
@@ -2484,54 +2504,52 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "What is a cell?",
+   "p": "What is the smallest piece of a living thing that is alive by itself?",
    "opts": [
-    "The smallest piece of a living thing that is alive on their own",
-    "A tiny piece of rock",
-    "A battery",
-    "A drop of water"
+    "An atom",
+    "A cell",
+    "A drop of blood"
    ],
-   "a": 0,
-   "why": "A cell is the smallest living piece of a living thing. Picking 'battery' mixes up two meanings of the word 'cell'.",
+   "a": 1,
+   "why": "A cell is the smallest living piece of a living thing. An atom is far smaller, but an atom is not alive. A drop of blood holds millions of cells.",
    "outcome": 0
   },
   {
    "t": "mcq",
    "p": "Which is NOT made of cells?",
    "opts": [
-    "A glass marble",
     "A neem leaf",
     "Your skin",
+    "A glass marble",
     "A mushroom"
    ],
-   "a": 0,
-   "why": "Glass was never alive, so it has no cells. The leaf, your skin and the mushroom are parts of living things. Picking 'mushroom' usually means thinking mushrooms are not alive, but they are fungi, made of cells.",
+   "a": 2,
+   "why": "Glass was never alive, so it has no cells. The leaf, your skin and the mushroom are parts of living things. Mushrooms are fungi, and fungi are made of cells.",
    "outcome": 1
   },
   {
    "t": "mcq",
-   "p": "Where do new cells come from?",
+   "p": "Every cell in your body came from…",
    "opts": [
-    "Cells splitting into two",
-    "Mud",
-    "Air",
-    "Sunlight"
+    "the food you ate, turning into cells by itself",
+    "another cell that split in two",
+    "the air you breathe"
    ],
-   "a": 0,
-   "why": "Every cell comes from a cell. Picking 'mud' is the old, disproved idea of spontaneous generation.",
+   "a": 1,
+   "why": "Every cell comes from a cell. You began as one cell, which split again and again. Food gives cells what they need to grow and split, but food never becomes a cell by itself.",
    "outcome": 1
   },
   {
    "t": "mcq",
    "p": "The thin skin from inside an onion looked like long boxes under the magnifier. What were the boxes?",
    "opts": [
-    "Onion cells",
     "Air bubbles",
+    "Onion cells",
     "Scratches",
     "Dust"
    ],
-   "a": 0,
-   "why": "The boxes are cells, fitted together like bricks. Bubbles are round with thick dark edges.",
+   "a": 1,
+   "why": "The boxes are cells, fitted together like bricks. Air bubbles are round, with thick dark edges.",
    "outcome": 2,
    "context": "Remember the onion skin experiment, where you peeled the thin skin from inside an onion and looked at it with a magnifier?",
    "how": "e1"
@@ -2546,22 +2564,35 @@
     "Skin cells glow"
    ],
    "a": 0,
-   "why": "Light must pass through the sample for us to see the cells clearly. A thick slice has many layers piled up and blocks the light. Picking 'no cells' is wrong: the whole onion is made of cells.",
+   "why": "Light must pass through the sample for us to see the cells clearly. A thick slice has many layers piled up, and they block the light. The whole onion is made of cells.",
    "outcome": 2,
    "context": "Remember the onion skin experiment, where you peeled the thin skin from inside an onion and looked at it with a magnifier?",
    "how": "e1"
   },
   {
    "t": "mcq",
+   "p": "How do you make a water-drop magnifier?",
+   "opts": [
+    "Fill a bucket with water and look in",
+    "Put one small drop of water on clear plastic, and hold it just above what you want to see",
+    "Freeze a drop of water"
+   ],
+   "a": 1,
+   "why": "A small round drop bends light like a lens, so things under it look bigger. The smaller and rounder the drop, the more it magnifies.",
+   "outcome": 2,
+   "how": "a2"
+  },
+  {
+   "t": "mcq",
    "p": "How are cheek cells different from onion cells?",
    "opts": [
-    "Cheek cells have no stiff wall, so they are floppy and roundish",
     "Cheek cells are boxes too",
+    "Cheek cells have no stiff wall, so they are floppy and roundish",
     "Cheek cells are not alive",
     "Cheek cells have no nucleus"
    ],
-   "a": 0,
-   "why": "Animal cells have no cell wall. Both kinds have a nucleus. Picking 'no nucleus' usually means the stain was too faint to show it.",
+   "a": 1,
+   "why": "Animal cells have no cell wall. Both kinds have a nucleus. If you could not see the nucleus, the stain was probably too faint.",
    "outcome": 3,
    "context": "Remember the cheek cell experiment, where you scraped the inside of your cheek and looked at the cells?",
    "how": "e2"
@@ -2570,97 +2601,80 @@
    "t": "mcq",
    "p": "A cotton kurta is made of…",
    "opts": [
-    "cells that were once alive",
     "living cells",
+    "cells that were once alive",
     "something that was never made of cells",
     "tiny bacteria"
    ],
-   "a": 0,
-   "why": "Cotton fibres are long single cells from a cotton plant. They are dead now. Picking 'never cells' usually means thinking cloth was never alive.",
+   "a": 1,
+   "why": "Cotton fibres are long single cells from a cotton plant. They are dead now. Cloth was never alive itself, but its fibres were once living cells.",
    "outcome": 4
   },
   {
    "t": "mcq",
    "p": "A mustard seed is about 1 millimetre across. An onion cell is about a tenth of a millimetre. About how many onion cells fit across a mustard seed?",
    "opts": [
-    "10",
     "1",
+    "10",
     "100",
     "1,000"
    ],
-   "a": 0,
-   "why": "A tenth of a millimetre, ten times over, makes one millimetre. So about 10. Picking 1,000 is closer to the number of bacteria that would fit.",
+   "a": 1,
+   "why": "A tenth of a millimetre, ten times over, makes one millimetre. So about 10. About 1,000 bacteria would fit across the seed.",
    "outcome": 5,
    "how": "a3",
-   "context": "Remember the Size Ladder, where each step was 10 times smaller?"
+   "context": "Remember the Size Ladder, where each step was 10 times smaller than the one before?"
   },
   {
    "t": "mcq",
-   "p": "A bacterium finds food by…",
+   "p": "How does a bacterium, with no eyes, find food?",
    "opts": [
-    "comparing the smell now with a few seconds ago, and turning if it gets weaker",
-    "seeing it with their eyes",
-    "asking other bacteria for a map",
-    "waiting for food to come"
+    "They see it with tiny eyes",
+    "They compare the smell now with a few seconds ago, and turn if it is getting weaker",
+    "They ask other bacteria for a map",
+    "They wait for food to come"
    ],
-   "a": 0,
-   "why": "A bacterium has no eyes. They remember for a few seconds and compare. Picking 'eyes' gives them parts they don't have.",
+   "a": 1,
+   "why": "A bacterium has no eyes. They remember the smell for a few seconds and compare. If it is getting stronger, they keep going. If weaker, they tumble and try another way.",
    "outcome": 6,
    "how": "g2",
-   "context": "Remember Run and Tumble, the game where you played a bacterium?"
+   "context": "Remember Run and Tumble, the game where you played a bacterium finding food with your eyes shut?"
   },
   {
    "t": "mcq",
-   "p": "Do scientists agree that single cells think?",
+   "p": "A slime mould was put in a maze with food at two ends. What did the slime mould do?",
    "opts": [
-    "No. They agree on what cells do, but argue about calling it thinking",
-    "Yes, all scientists say cells think like us",
-    "Yes, because cells have tiny brains",
-    "No, because cells never do anything"
+    "Stayed in one place",
+    "Ate the walls of the maze",
+    "Ended up as one tube along the shortest path between the two foods"
    ],
-   "a": 0,
-   "why": "Cells sense, choose and remember a little. Whether that counts as thinking is debated. Picking 'cells never do anything' ignores what bacteria, Stentor and slime moulds do.",
+   "a": 2,
+   "why": "In 2000, Toshiyuki Nakagaki and his team found that the slime mould pulled back from dead ends and kept the shortest path. One cell with no brain solved the maze.",
    "outcome": 6
   },
   {
    "t": "mcq",
    "p": "Who first saw living single cells, in a drop of lake water, in 1674?",
    "opts": [
-    "Antonie van Leeuwenhoek, a cloth-seller in Delft",
     "Isaac Newton",
     "Robert Hooke",
+    "Antonie van Leeuwenhoek, a cloth-seller in Delft",
     "Charles Darwin"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Leeuwenhoek made his own tiny lenses. Hooke named cells earlier, but he looked at dead cork.",
    "outcome": 1
   },
   {
    "t": "mcq",
-   "p": "Which is the best way to make a fair test of three magnifiers?",
+   "p": "Why does boiled curd not turn warm milk into curd?",
    "opts": [
-    "Look at the same onion skin, in the same light, with each one",
-    "Use a different onion each time",
-    "Look at onion with one and cheek with another",
-    "Use the strongest light only for the best one"
+    "Boiling killed the curd bacteria, so there were no living cells to multiply",
+    "Boiled curd is too thick",
+    "Boiled curd stays hot for ever"
    ],
    "a": 0,
-   "why": "Change only the magnifier, keep everything else the same. Then any difference comes from the magnifier.",
-   "outcome": 2,
-   "how": "e1",
-   "context": "Remember the onion skin experiment, where you peeled the thin skin from inside an onion and looked at it with a magnifier?"
-  },
-  {
-   "t": "mcq",
-   "p": "Bowl A of warm milk had a spoon of curd. Bowl C had a spoon of curd that was boiled first. Only bowl A set. Why?",
-   "opts": [
-    "The heat killed the curd bacteria, so there were no living cells to multiply",
-    "Boiled curd is too hot for ever",
-    "Bowl C needed more milk",
-    "Curd sets only in the morning"
-   ],
-   "a": 0,
-   "why": "New cells come only from living cells. The living bacteria in bowl A split again and again and set the milk. In bowl C, boiling had killed them. Picking 'too hot for ever' misses that the curd had cooled before it went in.",
+   "why": "New cells come only from living cells. Boiling kills the curd bacteria. Even after the curd cools down, there are no living bacteria left to split and set the milk.",
    "outcome": 7,
    "context": "Remember the curd bowls experiment, where you set three bowls of warm milk overnight?",
    "how": "e3"

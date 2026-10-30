@@ -4,10 +4,10 @@
  "subj": "sci",
  "level": 4,
  "n": "food-and-a-balanced-diet",
- "title": "Food for health: where its energy comes from, and how food builds and protects us",
+ "title": "Food for health: where food energy comes from, and how food builds and protects the body",
  "source": "DeepKids Combined. Covers NCERT Class 4 Chapter 5 'Food for Health' (a food festival, balanced food with energy-giving, body-building and protective foods, and traditional foods). No textbook needed.",
  "summary": "A peanut held in a candle flame keeps burning by itself for about a minute. The energy in that flame came from sunlight, caught by a peanut plant months ago. Your child burns foods to see the energy stored in them, reads kilocalories on labels, builds proteins with paper pieces to see why rice and dal work better together, finds out why plants make the vitamins and colours we eat, sets curd to watch microbes make food, and runs a family food festival of traditional dishes from across India.",
- "builds_on": "In Class 3 your child named the nutrients, tested foods for starch, fat and vitamin C, learned go, grow and glow foods, the balanced plate, deficiency illnesses, sugar and salt, and food safety. In Class 4 they go deeper into each food group: how food energy comes from the Sun and is released by respiration, the kilocalorie, how proteins are built from amino acids, why grains and pulses are eaten together, why plants make vitamins and colours, how microbes make curd and idli, cooking methods, millets and regional foods. In Class 5 they study deficiency diseases in detail, cheap nutritious foods, storing food and the structure of the digestive system.",
+ "builds_on": "In Class 3 your child named the nutrients, tested foods for starch, fat and vitamin C, learned go, grow and glow foods, the balanced plate, deficiency illnesses, sugar and salt, and food safety. In Class 4 they go deeper into each food group: how food energy comes from the Sun and is released by respiration, the kilocalorie, how proteins are built from amino acids, why grains and pulses are eaten together, why plants make vitamins and colours, how microbes make curd and idli, cooking methods, millets and regional foods. In Class 5 they study deficiency diseases in detail, cheap ways to eat well, and how storing food keeps it safe.",
  "goals": [
   "By the end your child can explain that the energy in food was first caught from sunlight by plants, and that our cells release it with oxygen.",
   "By the end your child can read the kilocalories on a food label and explain why fatty foods hold the most energy.",
@@ -106,7 +106,7 @@
      "kind": "talk",
      "title": "Where did the rice get its energy?",
      "mins": 8,
-     "do": "Put a spoon of uncooked rice in your child's hand. Ask: 'This rice will give you energy. Where did the rice get that energy?' Wait for a guess and a reason. Good answers: 'From the soil', 'From the Sun'. Then say: 'A rice plant's leaves take in air and water, and use sunlight to make sugar. This is called photosynthesis. The plant packs the sugar into her seeds as starch, to feed her seedlings. When you eat the rice, you take that stored sunlight.' Ask: 'Can you think of any food whose energy did not start with a plant?' Help them check meat, milk and eggs: the animal ate plants. Good conclusion: 'Almost all of it began as sunlight caught by plants.'"
+     "do": "Put a spoon of uncooked rice in your child's hand. Ask: 'This rice will give you energy. Where did the rice get that energy?' Wait for a guess and a reason. Good answers: 'From the soil', 'From the Sun'. Then say: 'A rice plant's leaves take in air and water, and use sunlight to make sugar. This is called photosynthesis. The plant packs the sugar into her seeds as starch, to feed her seedlings. When you eat the rice, your body uses that stored energy.' Ask: 'Can you think of any food whose energy did not start with a plant?' Help them check meat, milk and eggs: the animal ate plants. Good conclusion: 'Almost all of it began as sunlight caught by plants.'"
     },
     {
      "kind": "act",
@@ -119,7 +119,7 @@
      "kind": "talk",
      "title": "Energy even when you are still",
      "mins": 7,
-     "do": "Ask: 'Do you use energy when you are fast asleep?' Wait for an answer. Say: 'Yes. Your heart beats all night, you keep breathing, your body stays at about 37 degrees, and your brain keeps working. In a grown-up the brain uses about a fifth of the body's resting energy. In a young child the brain uses even more.' Ask: 'Your cells grow and mend while you sleep too. Where does the stuff for that come from?' Good answer: 'From food.' Say: 'That is the second job. We come to it on Day 3.'"
+     "do": "Ask: 'Do you use energy when you are fast asleep?' Wait for an answer. Say: 'Yes. Your heart beats all night, you keep breathing, your body stays at about 37 degrees, and your brain keeps working. In a grown-up the brain uses about a fifth of the body's resting energy. In a young child the brain uses even more.' Ask: 'Your cells grow and mend while you sleep too. What do your cells build the new parts from?' Good answer: 'From food.' Say: 'That is the second job. We come to it on Day 3.'"
     },
     {
      "kind": "think",
@@ -261,7 +261,7 @@
      "kind": "talk",
      "title": "Iron and its partner",
      "mins": 8,
-     "do": "Say: 'Iron is a mineral. Your blood uses it to carry oxygen to every cell. Palak, ragi, dal, jaggery and eggs have iron.' Ask: 'If the blood has too little iron, what do you think happens?' Good answer: 'Less oxygen reaches the cells, so you feel tired.' Say: 'That is called anaemia. In India, more than half of all women have it.' Then say: 'The iron in plant food is hard for the gut to take in. Vitamin C changes it into a form the gut takes in more easily. So a squeeze of lemon on dal, or a guava after lunch, helps. Tea and coffee with a meal do the opposite. They hold on to the iron so less gets in.' Ask: 'In your home, who eats last? Do they get the dal and the vegetables?' Listen without judging."
+     "do": "Say: 'Iron is a mineral. Your blood uses it to carry oxygen to every cell. Palak, ragi, dal, jaggery and eggs have iron.' Ask: 'If the blood has too little iron, what do you think happens?' Good answer: 'Less oxygen reaches the cells, so you feel tired.' Say: 'That is called anaemia. A national survey found that more than half of women in India have it.' Then say: 'The iron in plant food is hard for the gut to take in. Vitamin C changes it into a form the gut takes in more easily. So a squeeze of lemon on dal, or a guava after lunch, helps. Tea and coffee with a meal do the opposite. They hold on to the iron so less gets in.' Ask: 'In your home, who eats last? Do they get the dal and the vegetables?' Listen without judging."
     },
     {
      "kind": "exp",
@@ -304,7 +304,7 @@
     },
     {
      "kind": "talk",
-     "title": "Batter is alive",
+     "title": "Living microbes in the batter",
      "mins": 8,
      "do": "Say: 'This is called fermentation. Bacteria and yeasts feed on the sugars in food and change it. In curd, bacteria turn milk sugar into an acid, which makes the milk thick and sour. In idli batter, bacteria and yeasts give off a gas, and the bubbles make the batter rise.' Ask: 'Why might people have fermented food long before fridges?' Good answer: 'Sour, fermented food keeps longer, because the acid stops many harmful germs growing.' Say: 'Studies also find that fermenting batter raises some B vitamins and makes it easier to digest. Dosa, appam, dhokla, idli, curd, buttermilk and kanji are all fermented foods.'"
     },
@@ -586,7 +586,7 @@
       },
       {
        "t": "write",
-       "p": "A ripe papaya turns orange and soft. How does this colour help the papaya tree?",
+       "p": "A ripe papaya turns orange and soft. How does this colour help the papaya plant?",
        "lines": 3
       }
      ]
@@ -703,7 +703,7 @@
      [
       {
        "t": "write",
-       "p": "A school is planning its free lunch for children. Three people give their views. Dr Revathi, a nutrition scientist says: 'Serve dal and an egg every day. Many children here are short of protein and iron.' Mrs Gupta, a parent says: 'My family does not eat eggs. Give peanuts, milk or sprouted moong instead, so every child can eat the same food.' Selvi, a ragi farmer says: 'Serve ragi and local vegetables. They grow here with little water, and farmers nearby would sell to the school.' Pick one view and argue for it, using what you learned about protein, iron, millets and partners. Then answer back from one of the other sides.",
+       "p": "A school is planning its free lunch for children. Three people give their views. Dr Revathi, a nutrition scientist, says: 'Serve dal and an egg every day. Many children here are short of protein and iron.' Mrs Gupta, a parent, says: 'My family does not eat eggs. Give peanuts, milk or sprouted moong instead, so every child can eat the same food.' Selvi, a ragi farmer, says: 'Serve ragi and local vegetables. They grow here with little water, and farmers nearby would sell to the school.' Pick one view and argue for it, using what you learned about protein, iron, millets and partners. Then answer back from one of the other sides.",
        "lines": 5,
        "a": "A strong answer uses facts from this rung (grain and pulse partners, ragi's calcium, vitamin C with iron, millets needing little water) and then fairly states what the other side gets right."
       },
@@ -827,7 +827,7 @@
      [
       {
        "t": "write",
-       "p": "When did people begin to cook? Three people disagree. Richard Wrangham, a scientist who studies chimpanzees and human evolution says: 'About 1.8 million years ago our ancestors got smaller teeth, smaller guts and bigger brains. Cooked food explains this best.' An archaeologist says: 'Show me the hearths. Clear signs of fire in the ground are much later than that.' Priya, a raw-food cook says: 'Raw fruit and vegetables keep more vitamin C than cooked ones, so cooking is not always better.' Which view do you find strongest, and why? Then say what the other two get right.",
+       "p": "When did people begin to cook? Three people disagree. Richard Wrangham, a scientist who studies chimpanzees and human evolution, says: 'About 1.8 million years ago our ancestors got smaller teeth, smaller guts and bigger brains. Cooked food explains this best.' An archaeologist says: 'Show me the hearths. Clear signs of fire in the ground are much later than that.' Priya, a raw-food cook, says: 'Raw fruit and vegetables keep more vitamin C than cooked ones, so cooking is not always better.' Which view do you find strongest, and why? Then say what the other two get right.",
        "lines": 5,
        "a": "A strong answer separates the two questions (when cooking began, and whether cooking is good), uses evidence (bones and teeth against hearths in the ground), and admits what is still unknown."
       },
@@ -900,7 +900,7 @@
    "predict": "Ask your child to guess first: 'Which bowls will turn into curd? Why do you think so?'",
    "observe": "Bowl A sets thick, smells sour and does not run when tipped. Bowl B is still runny milk. Bowl C is still runny milk. If bowl A has not set, the milk may have been too hot or too cold, so try again with milk that feels warm on the wrist.",
    "why": "Curd is made by living bacteria from the starter. They feed on the sugar in milk, called lactose, and turn it into an acid, called lactic acid. The acid makes the milk's protein clump together, so the milk sets thick and tastes sour. Boiling the milk killed the bacteria that were in it, so bowl C had almost no bacteria to start with. In bowl B the bacteria were there, but in the cold they worked too slowly to change the milk. Kavya's batter in the story was like bowl B: it had living microbes, but they were too cold.",
-   "safety": "A grown-up boils and cools the milk. Bowl A is ordinary curd and can be eaten. Throw away bowl C if it was left out for more than a day.",
+   "safety": "A grown-up boils and cools the milk. Bowl A is ordinary curd and can be eaten. Throw away bowl C, because milk left warm for hours can grow harmful germs.",
    "time": "12 min, then 6 to 12 hours of waiting, then 10 min"
   },
   {
@@ -979,7 +979,7 @@
     "Round 1: your child builds as many chains as they can from the rice bag only. They can build 1, because there is only 1 red. Count the pieces left over.",
     "Round 2: put everything back. Build from the dal bag only. They can build 1, because there is only 1 green.",
     "Round 3: first ask for a guess. Then build from both bags together. Now there are 5 green and 5 red, so they can build 5 chains.",
-    "Say: 'The numbers here are made up to make the idea easy to see. In real food the gap is smaller. Leftover amino acids are not stored for building. The body uses them for energy.'"
+    "Say: 'The numbers here are made up to make the idea easy to see. In real food the gap is smaller. The body cannot store spare amino acids for long, so it uses them for energy.'"
    ],
    "outcome": "Three rounds of chains (1, 1 and 5), and a child who can explain why grains and pulses together build more protein than either alone. Real names: rice is short of lysine, and dal is short of methionine."
   },
@@ -1080,7 +1080,7 @@
   ]
  },
  "big": [
-  "Almost all the energy in your body began as sunlight caught by a plant. In what sense are you running on sunlight?",
+  "Almost all the energy in your body began as sunlight caught by a plant. Can you trace the energy in your breakfast back to the Sun, step by step?",
   "Your proteins were built from amino acids taken from dal, rice, milk and microbes. When does food stop being food and start being you?",
   "Bacteria and yeasts make our curd and idli, and bacteria in pulse roots help make our dal. Who should get credit for a meal?",
   "India grew much more rice and wheat after the 1960s, and much less millet. Is growing more food always the best answer to hunger?",
@@ -1093,7 +1093,7 @@
   },
   {
    "q": "People often say fat is bad for you. Is that how scientists see it?",
-   "hint": "Every cell in your body has a skin made largely of fats, your brain is rich in fats, and some vitamins, such as vitamin A, need fat to be taken in. Too much energy from any food, eaten for years, can lead to illness. Scientists still argue about which kinds of fat are best. Ask: why might 'fat is bad' be too simple a rule?"
+   "hint": "Every cell in your body has an outer layer, called the cell membrane, made largely of fats, your brain is rich in fats, and some vitamins, such as vitamin A, need fat to be taken in. Too much energy from any food, eaten for years, can lead to illness. Scientists still argue about which kinds of fat are best. Ask: why might 'fat is bad' be too simple a rule?"
   },
   {
    "q": "Some advertisements call millets a new 'superfood'. Are they new, and what does 'superfood' mean?",
@@ -1163,7 +1163,7 @@
  "story": {
   "title": "Batter for Amma",
   "text": [
-   "In December, Amma worked nights at the hospital in Mysuru. She left at eight in the evening in her blue uniform and came home at seven in the morning, when the milk packets thumped onto our doorstep. I was ten. My brother Arjun was seven. Farida Aunty from the flat next door kept her door open a crack at night, so she could hear us.",
+   "In December, Amma worked nights at the hospital in Mysuru. She left at eight in the evening in her blue uniform and came home at seven in the morning, when the milk packets thumped onto our doorstep. My name is Kavya, and I was ten. My brother Arjun was seven. Farida Aunty from the flat next door kept her door open a crack at night, so she could hear us.",
    "Every Saturday that I could remember, Amma had soaked rice and urad dal, ground them into batter, and left it overnight. On Sunday we ate idli. That December she said, 'No idli this month. I'm too tired to grind.' She said it lightly, but she looked at the empty batter vessel on the shelf for a long time.",
    "So Arjun and I made a plan. On Friday morning, before she woke, I measured four cups of idli rice into one bowl and one cup of urad dal into another, the way she did, and covered them with water. In the evening, after she left, Farida Aunty came over to work the mixie, because Amma did not let us use it alone. I scraped the thick white batter into the big steel vessel and stirred in the salt with my hand. I marked the level on the outside with a strip of tape. Then I covered it with a plate and went to sleep feeling very grown up.",
    "On Saturday morning the batter had not moved. It sat exactly at the tape, flat and heavy. It smelled of wet rice and nothing else. When Amma's batter was ready on Sundays, it smelled sharp, like curd, and it puffed up above the tape like a cushion. Mine looked like wet cement.",

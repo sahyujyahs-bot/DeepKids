@@ -6,7 +6,7 @@
  "n": "how-we-know",
  "title": "How we fool ourselves, and how science catches it",
  "source": "DeepKids Combined, The Deep End: a DeepKids topic from the founder's Grade 5 concept grid (Fringe Science: healthy frontier work is bold, testable and ethical; unhealthy fringe is untestable or promises energy from nothing; reproducibility, open data and adversarial collaboration; conservation laws survive every test so far), with the Grade 4 ideas of updating belief, pre-registration and the replication crisis. No board teaches it at this class, so there are no board subtopics to cover. No textbook needed.",
- "summary": "A horse in Berlin seemed to do sums, and a committee of experts found no trick. The answer was in the faces of the people asking. Your child finds out how honest people fool themselves without meaning to, and the tools science uses to catch it. They play Clever Hans, try a famous puzzle that shows we look only for a yes, find a 'lucky snack' by rolling a die, and then see the luck vanish when they write their prediction down first. They update a guess bean by bean, watch a bouncing ball that never climbs higher, and learn why no machine can run forever. They meet N-rays, which many scientists 'saw' though they were not there, and the faster-than-light result that turned out to be a loose cable. They also meet Jocelyn Bell Burnell and Katalin Karikó, who were right and kept checking.",
+ "summary": "A horse in Berlin seemed to do sums, and a committee of experts found no trick. In fact Hans was reading the faces of the people asking. Your child finds out how honest people fool themselves without meaning to, and the tools science uses to catch it. They play Clever Hans, try a famous puzzle that shows we look only for a yes, find a 'lucky snack' by rolling a die, and then see the luck vanish when they write their prediction down first. They update a guess bean by bean, watch a bouncing ball that never climbs higher, and learn why no machine can run forever. They meet N-rays, which many scientists 'saw' though they were not there, and the faster-than-light result that turned out to be a loose cable. They also meet Jocelyn Bell Burnell and Katalin Karikó, who were right and kept checking.",
  "builds_on": "Class 1: notice, test fairly, repeat, and ask 'Says who? How do they know? Who's missing?'. Class 3: a claim must be able to be shown wrong, controls, blind tests, replication, peer review, extraordinary claims, cold fusion and plate tectonics. This rung adds the ways our own minds bend results (confirmation bias, the experimenter effect, chance in small tests), the tools that catch them (double-blind trials, pre-registration, larger samples, open data, rivals testing together), updating how sure you are, why perpetual-motion machines fail, how strange results are checked, and the difference between bold frontier science and unhealthy fringe.",
  "subconcepts": [
   "confirmation bias: looking only for evidence that agrees with us",
@@ -104,7 +104,7 @@
      "kind": "exp",
      "title": "Play Clever Hans",
      "mins": 18,
-     "do": "Do Experiment e3. Your child is Hans, and you are the asker. You secretly pick a number card from 1 to 5. Your child taps a spoon slowly on the table and stops when they think they have reached your number, by watching only your face and body. Do 10 tries where you look at the card, then 10 where the card stays face down and you don't know the number. Ask before you start: 'Will you do better when I know the number? Why?' Count the right answers in each round. Then swap: you are Hans.",
+     "do": "Do Experiment e3. Your child is Hans and you are the asker. Ask before you start: 'Will you get more right when I know the number? Why?' Do round 1 (you know the number) and round 2 (you don't), 10 tries each, and count the right answers. Then swap: you are Hans.",
      "ref": "e3"
     },
     {
@@ -167,7 +167,7 @@
      "kind": "exp",
      "title": "Which snack brings sixes?",
      "mins": 20,
-     "do": "Do Experiment e1, part 1. Write ten snack names on slips: idli, dosa, vada, murukku, payasam, banana, upma, poha, samosa, laddu. For each snack, your child says its name, rolls a die 6 times and counts the sixes. Record them in a table. Ask before you start: 'If no snack is really lucky, how many sixes should each one get in 6 rolls, on average?' Good answer: 'One, because a six comes up about one time in six.' Circle the snack with the most sixes. Say: 'This is our lucky snack. Or is it?' Keep the table for Day 4.",
+     "do": "Do Experiment e1, part 1: ten snack slips, 6 rolls of the die for each snack, and the sixes counted in a table. Ask before you start: 'If no snack is really lucky, how many sixes should each one get in 6 rolls, on average?' Good answer: 'One, because a six comes up about one time in six.' Circle the snack with the most sixes. Say: 'This is our lucky snack. Or is it?' Keep the table for Day 4.",
      "ref": "e1"
     },
     {
@@ -278,7 +278,7 @@
      "kind": "exp",
      "title": "The ball that never climbs higher",
      "mins": 18,
-     "do": "Do Experiment e2. Stick a measuring tape or paper strip marked every 10 cm on the wall. Drop a rubber ball from 100 cm and film it on a phone (slow motion if the phone has it). Pause the video at the top of each bounce and write the heights. Then the key and the nose: tape a thread to the top of a door frame so a steel key hangs at your child's nose. Your child holds the key to their nose, lets go without pushing, and stands still. Ask before each: 'Will it come back higher than where it started?' It never does.",
+     "do": "Do Experiment e2. First the ball: drop it from 100 cm beside the marked strip, film it, and pause the video at the top of each bounce to read the heights. Then the key: hang it from the door frame on the thread. Your child stands beside it, pulls the key to touch their nose with the thread straight, lets go without pushing, and stands still. Ask before each: 'Will it come back higher than where it started?' It never does.",
      "ref": "e2"
     },
     {
@@ -319,7 +319,7 @@
      "kind": "talk",
      "title": "Faster than light?",
      "mins": 10,
-     "do": "Say: 'Neutrinos are tiny particles that pass through almost everything, even the whole Earth. Indian scientists caught some deep in the Kolar Gold Fields mines in Karnataka in 1965. In 2011 a team called OPERA sent neutrinos from Switzerland to a lab under a mountain in Italy, about 730 km away. They seemed to arrive about 60 billionths of a second faster than light. Nothing is supposed to go faster than light.' Ask: 'What should the team do?' Wait for ideas. Then say: 'They published their numbers and asked everyone to look for their mistake. In 2012 they found it: a loose cable in their timing system.' Ask: 'Was the team foolish or careful?' Good answer: 'Careful. They didn't claim a discovery. They asked others to check, and they found their own mistake.'"
+     "do": "Say: 'Neutrinos are tiny particles that pass through almost everything, even the whole Earth. In 1965 Indian, Japanese and British scientists caught some deep in the Kolar Gold Fields mines in Karnataka. In 2011 a team called OPERA sent neutrinos from Switzerland to a lab under a mountain in Italy, about 730 km away. They seemed to arrive about 60 billionths of a second faster than light. Nothing is supposed to go faster than light.' Ask: 'What should the team do?' Wait for ideas. Then say: 'They published their numbers and asked everyone to look for their mistake. In 2012 they found it: a loose cable in their timing system.' Ask: 'Was the team foolish or careful?' Good answer: 'Careful. They didn't claim a discovery. They asked others to check, and they found their own mistake.'"
     },
     {
      "kind": "talk",
@@ -355,7 +355,7 @@
      "kind": "do",
      "title": "Two rivals, one plan",
      "mins": 15,
-     "do": "Do Activity a4. Two family members who disagree make one paper plane each, the same in every way except that one has its wingtips folded up. Before any throw, the two rivals write one plan together: who throws, from where, how many throws (at least 5 each), how to measure (in floor tiles or steps), and what result would change each person's mind. Then test, and record every throw. Say: 'Scientists call this adversarial collaboration. Rivals agree on the test first, so the loser can't say the test was unfair.'",
+     "do": "Do Activity a4. Two family members who disagree about whether folding the wingtips up makes a plane fly further make one paper plane each, the same in every way except that one has its wingtips folded up. Before any throw, the two rivals write one plan together: who throws, from where, how many throws (at least 5 each), how to measure (in floor tiles or steps), and what result would change each person's mind. Then test, and record every throw. Say: 'Scientists call this adversarial collaboration. Rivals agree on the test first, so the loser can't say the test was unfair.'",
      "ref": "a4"
     },
     {
@@ -538,7 +538,7 @@
       },
       {
        "t": "write",
-       "p": "Meenakshi tests ten hair oils, finds that one seems to make hair grow faster, and reports only that one. What mistake is this, and what should she do next?",
+       "p": "Meenakshi, a hairdresser in Madurai, tests ten hair oils, finds that one seems to make hair grow faster, and reports only that one. What mistake is this, and what should she do next?",
        "lines": 3
       },
       {
@@ -662,7 +662,7 @@
       },
       {
        "t": "write",
-       "p": "Farhana's uncle says his new tonic made his cough go in a week. Plan a fair test of the tonic. What is the placebo, who must not know who got what, and how many people would you test?",
+       "p": "Farhana, a girl in Class 5, says her uncle's new tonic made his cough go away in a week. Plan a fair test of the tonic. What is the placebo, who must not know who got what, and how many people would you test?",
        "lines": 5
       },
       {
@@ -672,7 +672,7 @@
       },
       {
        "t": "write",
-       "p": "Two views. Divya says: 'Scientists should ignore wild ideas, because most are wrong.' Arjun says: 'Scientists should test every wild idea, because some are right.' Pick one side, give a reason from this week, then say what the other side would answer.",
+       "p": "Divya and Arjun, two Class 5 children, disagree. Divya says: 'Scientists should ignore wild ideas, because most are wrong.' Arjun says: 'Scientists should test every wild idea, because some are right.' Pick one side, give a reason from this week, then say what the other side would answer.",
        "lines": 5
       }
      ]
@@ -817,11 +817,11 @@
     "Hold the ball beside the 100 cm mark and let it drop without pushing. Film it on the phone, in slow motion if you can.",
     "Pause the video at the top of the first, second and third bounces. Write each height.",
     "Tie the key to one end of the thread. Tape the other end firmly to the top of a door frame, so the key hangs level with your child's nose.",
-    "Your child stands still, holds the key against their nose, and lets go without pushing.",
-    "Watch the key swing away and back. Your child must not lean forward."
+    "Your child stands beside the hanging key, pulls it to touch the tip of their nose with the thread straight, and lets go without pushing.",
+    "Watch the key swing away and back. Your child must keep their head still and not lean forward."
    ],
    "predict": "Ask: 'Will the ball ever bounce higher than 100 cm? Will the key come back and hit your nose?'",
-   "observe": "Each bounce is lower than the one before, for example 70 cm, then 50 cm, then 35 cm (a tennis ball and a hard floor give different numbers). The key swings back close to the nose but stops just short, and each swing is a little smaller.",
+   "observe": "Each bounce is lower than the one before, for example 70 cm, then 50 cm, then 35 cm for a bouncy rubber ball. A tennis ball bounces lower, about half the height each time. The key swings back close to the nose but stops just short, and each swing is a little smaller.",
    "why": "When the ball is held up, it has stored energy because of its height. As it falls, this becomes movement energy. At each bounce some energy turns into heat (the ball and floor warm very slightly) and sound (you hear the bounce), so less is left to lift the ball again. The key loses a little energy to the air on every swing. This is conservation of energy: energy is never made from nothing and never destroyed, only changed from one form to another. No experiment has ever broken this law. A machine that runs forever with no energy put in would have to break it, so it cannot work.",
    "safety": "Use a light key, not anything heavy. Your child must let go and not push the key, and must stay still. Keep the ball away from glass.",
    "time": "18 min"
@@ -846,7 +846,7 @@
    ],
    "predict": "Ask: 'In which round will Hans get more right? Why? Guessing alone would give about 2 right out of 10.'",
    "observe": "In round 1 many children get more than 2 right, because the asker relaxes or looks up a little when the right tap comes. In round 2 they get about 2 right, which is what guessing gives. If your child gets few right in both rounds, that is fine: the real Hans had years of practice. Try again with you as Hans, watching your child's face.",
-   "why": "In 1907 the psychologist Oskar Pfungst showed that Hans stopped tapping when the asker's head and body relaxed very slightly. The askers did not know they were doing it. When the asker did not know the answer, or Hans could not see the asker, Hans could not answer. This is the experimenter effect. It is why careful tests are double-blind: the person measuring must not know the answer either.",
+   "why": "In 1904 the psychologist Oskar Pfungst showed that Hans stopped tapping when the asker's head and body relaxed very slightly. The askers did not know they were doing it. When the asker did not know the answer, or Hans could not see the asker, Hans could not answer. This is the experimenter effect. It is why careful tests are double-blind: the person measuring must not know the answer either.",
    "safety": "",
    "time": "18 min"
   }
@@ -917,7 +917,7 @@
     "paper and pencil"
    ],
    "steps": [
-    "Two family members who disagree each make the same paper plane. One then folds its wingtips up by 1 cm.",
+    "Two family members who disagree about whether folded-up wingtips help a plane fly further each make the same paper plane. One then folds its wingtips up by 1 cm.",
     "Before any throw, they write one plan together: who throws, from which tile or line, how many throws (at least 5 each), and how to measure the distance.",
     "Each rival writes one sentence: 'I will change my mind if…'.",
     "Do the throws exactly as planned and record every one.",
@@ -961,7 +961,7 @@
    "id": "v4",
    "who": "The Reproducibility Project: Psychology (2015), led by Brian Nosek, USA",
    "idea": "About 270 scientists repeated 100 published psychology experiments as closely as they could. In the original papers, almost all the experiments had found a clear effect. In the repeats, only about a third did.",
-   "then": "The result shocked many scientists and started what is called the replication crisis. Some said many published findings were flukes, made by small samples and by choosing the best results. Others said the repeats were not always exact copies, so some failures were unfair.",
+   "then": "The result shocked many scientists and made the replication crisis widely known. Some said many published findings were flukes, made by small samples and by choosing the best results. Others said the repeats were not always exact copies, so some failures were unfair.",
    "now": "Scientists still argue about how big the problem is, and it differs from one field to another. But many changes followed: more pre-registration, larger samples, sharing data openly, and journals that agree to publish a study based on its plan, before the results are known.",
    "status": "debated",
    "ask": "If only a third of the results came out the same, does that mean science is broken, or that science is working because it checked itself? What would you need to know to decide?",
@@ -1164,13 +1164,13 @@
    "I lived in a courtyard behind tall grey houses. My teacher was Herr von Osten, an old man who had once taught mathematics to boys. He had a white beard and a wide hat, and his pockets were always full of carrots and bread. He believed that a horse could learn the way a child learns. Every day, for years, he stood in front of me with a blackboard and a voice that never got tired.",
    "'Hans,' he would say, 'what is three and two?' And I would tap my right front hoof on the stones. One, two, three, four, five. Then I would stop, and a carrot would come.",
    "I learned to tap for sums, for the date, for the number of people in a hat. People shouted questions over the courtyard wall, and I tapped, and they gasped, and the newspapers wrote that a horse in Berlin could think like a schoolboy.",
-   "I liked the crowds. I liked the carrots more. But what I liked most was the moment just before I stopped. It is hard to explain. The courtyard would go still in a particular way, and I would feel the answer arrive. Not in my head. Somewhere out there, in front of me. I always knew when to stop. Stopping was the easy part.",
+   "I liked the crowds. I liked the carrots more. But what I liked most was the moment just before I stopped. It is hard to explain. The courtyard would go still in a particular way, and I would feel the answer arrive, not in my head but somewhere in front of me. I always knew when to stop. Stopping was the easy part.",
    "Some people said Herr von Osten was a cheat, sending me secret signals. That made him furious. He was the most honest man I ever knew. So in 1904 a committee came to watch: a professor, a man from the zoo, a circus trainer who knew every trick horses could be taught, and others in dark coats with notebooks. They watched Herr von Osten's hands. They watched his feet. They asked me questions themselves while he stood far away. I still knew when to stop. They wrote that there was no trick that they could find. Herr von Osten was so happy that he fed me a whole loaf.",
    "Then a young man came, quieter than the others. His name was Oskar Pfungst. He did not watch Herr von Osten. He watched me, and he wrote down everything, even the boring parts.",
    "His questions were strange. Sometimes he whispered a number into my ear while someone else whispered another, so that no person in the courtyard knew the total. Sometimes the person asking stood behind a screen. Once they put large leather blinkers beside my eyes, so that I could not see who was asking, and I turned my head and turned it again, trying to see past them.",
    "Those days were the worst days. I tapped, and tapped, and waited for the answer to arrive, and it did not arrive. The courtyard never went still in the right way. I tapped on and on, past ten, past twenty, until my leg ached, and the people in coats wrote in their notebooks and did not clap.",
    "On the other days, when the person asking knew the answer and stood where I could see them, I was clever again.",
-   "Herr Pfungst stood in front of me one afternoon with a number in his head. I began to tap. As I came close, I saw what I always saw: his head lifted, very slightly, like a leaf when the wind stops. His shoulders loosened. His breath went out. I stopped. He laughed, a surprised laugh, and then he did it again with a new number, and this time he tried very hard to keep his head still. He couldn't. Neither could anyone. The answer was never in my head. It was in yours.",
+   "Herr Pfungst stood in front of me one afternoon with a number in his head. I began to tap. As I came close, I saw what I always saw: his head lifted, very slightly, like a leaf when the wind stops. His shoulders loosened. His breath went out. I stopped. He laughed, a surprised laugh, and then he did it again with a new number, and this time he tried very hard to keep his head still. He couldn't. Neither could anyone. The answer was never in my head. It was in the faces of the people asking me.",
    "Herr Pfungst wrote a book about me. He said that I could not count at all. He said that every person who asked me a question, even the experts, even the circus trainer, had told me the answer with their own body, without knowing it.",
    "Herr von Osten did not believe him. He said Hans was clever and that was the end of it. I don't think he was lying. I think he had wanted it so much, for so long, that he could not see what was in front of him. People do that, even the most careful ones.",
    "And here is what nobody wrote in the newspapers. I could not do sums, but I could read the tiniest lift of a head, a breath let go, a shoulder that softened, from across a courtyard full of noise. The professors could not do that. They could not even see themselves doing it.",

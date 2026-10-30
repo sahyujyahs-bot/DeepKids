@@ -216,7 +216,7 @@ Then he did a thing I thought was foolish. He poured a little rainwater from the
 
 When I came back, his face had changed. He did not speak. He only moved aside and pointed at the lens.
 
-I bent and looked. The brown lumps were swelling, the way a dried pea swells in a pot. One of them stretched and pushed out a tail, like a tiny telescope sliding open. At their front, two little wheels began to turn, spinning and spinning, pulling the water towards their mouth. Then another lump woke. Then another. Soon the drop was full of them, whirling about like boys let out of school.
+I bent and looked. The brown lumps were swelling, the way a dried pea swells in a pot. One of them stretched and pushed out a tail, like a tiny telescope sliding open. At their front, two little wheels began to turn, spinning and spinning, pulling the water towards their mouth. Then another lump woke. Then another. Soon the drop was full of them, whirling about like children let out of school.
 
 "They were dead," I whispered. "Weeks in the sun. Dry as pepper. They were dead, and the water has made them alive again."
 
@@ -464,7 +464,7 @@ In the morning my father found me standing at the window.
 - **record:** Draw everything that moves. If you find a water bear, count their legs and draw how they walk.
 - **schedule:** day 1: Collect a small clump of dry moss. Put the clump in a bowl of water overnight. (10 min); day 2: Squeeze the moss water onto a dark plate. Search for tiny eight-legged animals with a lens or a phone microscope. (15 min)
 - **s1 (10 min) · grown-up needed**  
-  *Parent does:* With your child, find a wall, tree or roof with moss on it. Take one thumb-sized clump. At home, put the clump in a bowl of water overnight.  
+  *Parent does:* With your child, find moss growing on a wall, a tree trunk or a roof. Take one thumb-sized clump. At home, put the clump in a bowl of water overnight.  
   *Parent says:* This moss is dry, and so are any water bears living there. They have curled into tiny dry balls called tuns. If we give them water tonight, they may wake up by tomorrow.  
   *Child mode:* Find some dry moss with a grown-up. Take a small clump. Put the clump in water overnight. Any water bears in there may wake up.
   - Wait: Leave it overnight.
@@ -598,125 +598,118 @@ In the morning my father found me standing at the window.
 
 ## Worksheets
 ### Tricky Case Detective (core) (core, 16 questions)
-1. (mcq) Scientists use many signs to decide if something is alive. Which of these is NOT enough on its own?  
-   Options: Being made of cells / Moving / Passing on instructions to their young / Getting energy from food  
-   **Answer:** Moving. *Why:* Moving alone tells us nothing. Rivers, clouds and cars move, and they are not alive. Being made of cells and passing on instructions are the two signs non-living things find hardest to fake.
-2. (mcq) A candle flame moves, grows, uses wax and air, and gives off smoke. Why is it not alive?  
-   Options: It is too hot / It has no cells, and a new flame carries no instructions from the old one / It is too small / It does not move  
-   **Answer:** It has no cells, and a new flame carries no instructions from the old one. *Why:* Fire does many things living things do. But it has no cells and passes on no instructions. Picking 'too hot' mixes up temperature with life. Some living things live in hot springs.
-3. (fill) When the grown-up covered the candle with a glass, the flame went out. The ____ under the glass had run low.  
-   **Answer:** ['oxygen']. *Why:* A flame needs oxygen, a gas in the air. So do we. Under the glass, the flame used up some of the oxygen. When too little was left, it went out.
-4. (mcq) Remember the sleeping seeds experiment, with seeds and pebbles on wet cotton? What happened to the pebbles?  
-   Options: They grew roots / Nothing. They stayed the same / They melted / They became seeds  
-   **Answer:** Nothing. They stayed the same. *Why:* The pebbles stayed the same, because they are not alive. Only the seeds grew. The pebbles show that water alone does not make things grow.
-5. (mcq) A dry moong seed in the kitchen jar does nothing for a year. What is the seed?  
-   Options: Dead / Alive but resting, which is called dormant / A kind of pebble / Once-living  
-   **Answer:** Alive but resting, which is called dormant. *Why:* A dry seed is dormant. Their life processes have slowed nearly to a stop. Give them water and warmth, and they wake. Picking 'once-living' mixes the seed up with a dry leaf or wood, which can never grow again.
-6. (fill) Alive but resting, with life almost stopped, is called ____.  
-   **Answer:** ['dormant']. *Why:* Dormant means alive but resting. Seeds, dried yeast and dried water bears can all be dormant.
-7. (mcq) What is a water bear?  
-   Options: A small brown bear that lives near water / A tiny eight-legged animal that lives in damp moss / A kind of fish / A virus  
-   **Answer:** A tiny eight-legged animal that lives in damp moss. *Why:* A water bear, or tardigrade, is a tiny animal about half a millimetre long. They have eight stubby legs and live in damp moss. Their name comes from the way they waddle like a bear.
-8. (truefalse) A dried-up water bear, curled into a tun, can wake up again when they get water.  
-   **Answer:** True. *Why:* True. A tun is a water bear's resting form. When water comes back, they uncurl and walk again. Some have woken after about 30 years frozen.
-9. (mcq) How does a salt crystal grow?  
-   Options: From inside, using food / By adding more salt onto its outside / By having baby crystals / By breathing  
-   **Answer:** By adding more salt onto its outside. *Why:* A crystal grows only by stacking more of the same particles onto its outside. Living things grow from inside, by turning food into new parts.
-10. (mcq) Where can a virus make copies of themselves?  
-   Options: Anywhere, even on a table / Only inside a living cell / Only in water / Only in the air  
-   **Answer:** Only inside a living cell. *Why:* A virus can only make copies inside a living cell. On a table or in the air they make no copies. That is why scientists argue about whether viruses are alive.
-11. (truefalse) Scientists all agree that viruses are alive.  
-   **Answer:** False. *Why:* False. Scientists still argue. Some say viruses are not alive, because they do nothing alone. Others say they are a kind of life, because they carry instructions, make copies and evolve.
-12. (mcq) A robot vacuum cleaner senses walls and moves by itself. What is it?  
-   Options: Alive, because it senses and moves / Not alive, because it has no cells, does not grow and cannot make young / Once alive / Dormant  
-   **Answer:** Not alive, because it has no cells, does not grow and cannot make young. *Why:* A robot follows instructions people wrote. It has no cells, does not take in food and cannot build a baby robot. Picking 'alive' means counting two signs and forgetting all the others.
-13. (sort) Sort these into Alive, Not alive and Once alive.  
-   **Answer:** a dry karamani seed → Alive; a candle flame → Not alive; a wooden spoon → Once alive; a salt crystal → Not alive; dried yeast → Alive; a cotton shirt → Once alive; a toy robot → Not alive; a mushroom → Alive. *Why:* The seed, yeast and mushroom are alive, even if resting. Fire, crystals and robots are not alive. Wood and cotton came from plants that were alive, so they are once alive.
-14. (match) Match each tricky case to the reason it is tricky.  
-   **Answer:** Fire → It grows and makes new fires, but has no cells; A crystal → It grows, but only by adding on outside; A dry seed → They do nothing, but they are alive; A virus → They make copies, but only inside a cell; A robot → It moves and senses, but has no cells. *Why:* Each tricky case passes some tests of life and fails others. That is what makes it tricky.
-15. (write) In the balloon test, only the bottles with yeast made gas. Write three sentences: what you think about dried yeast, what you saw, and why.  
-   **Answer:** What I think: dried yeast is alive but resting. What I saw: the balloon on the warm yeast bottle grew, but the bottle without yeast made no gas. Why: the yeast woke up in warm sugar water, ate the sugar and gave off carbon dioxide.. *Why:* This is claim, evidence and reasoning. Any answer with all three parts, using what was seen, is good.
-16. (write) Your friend says: 'Fire is alive, because it eats, breathes and grows.' What would you tell your friend?  
-   **Answer:** Fire does do some of those things. But it has no cells, and a new fire gets no instructions from the old one. So scientists say it is not alive.. *Why:* A good answer agrees with what is true in the friend's idea, then names the missing signs.
-### Tricky Case Detective (stretch) (stretch, 15 questions)
-1. (mcq) Fire and your cells both join fuel with oxygen. What is the big difference?  
-   Options: Cells do it slowly, step by step, and under control. Fire does it all at once / Fire uses no oxygen / Cells make light / There is no difference  
-   **Answer:** Cells do it slowly, step by step, and under control. Fire does it all at once. *Why:* Both give off energy, carbon dioxide and water. A cell does it so slowly and carefully that they stay warm but never burn. Picking 'no difference' forgets that cells have instructions controlling every step.
-2. (mcq) Lavoisier, a French scientist about 240 years ago, compared breathing to what?  
-   Options: A slow burning / A river / A crystal / A song  
-   **Answer:** A slow burning. *Why:* Lavoisier showed that breathing is like a slow, gentle burning. His wife, Marie-Anne Paulze Lavoisier, drew his experiments and wrote up his results.
-3. (mcq) A mule eats, grows and breathes, but almost never has babies. Are they alive?  
-   Options: No, because living things must make young / Yes. They are made of cells and do all the other life processes / Only half alive / They are dormant  
-   **Answer:** Yes. They are made of cells and do all the other life processes. *Why:* Making young is a sign for a kind of living thing, not for every single one. Mules, worker bees and many people never have young, and they are fully alive.
-4. (mcq) In the 1990s a NASA group suggested a working definition of life. What did it say?  
-   Options: Life is anything that moves / Life is a chemical system that keeps itself going and can evolve / Life is anything green / Life is anything with a brain  
-   **Answer:** Life is a chemical system that keeps itself going and can evolve. *Why:* The NASA working definition says life keeps itself going and can evolve over generations. It was written to help search for life on other planets. It is a tool, not a final answer.
-5. (fill) A water bear's dry, curled-up resting form is called a ____.  
-   **Answer:** ['tun']. *Why:* A tun is a water bear with their legs pulled in and almost all their water gone. Their life nearly stops until water returns.
-6. (mcq) In 2007 scientists sent dried water bears into space, outside a spacecraft. What happened?  
-   Options: They all exploded / Many survived, and later had babies / They turned into crystals / They grew huge  
-   **Answer:** Many survived, and later had babies. *Why:* Many dried water bears survived the vacuum of space and some survived strong sunlight too. Back on Earth, they woke and later laid eggs. This shows how deeply they can rest.
-7. (mcq) Why do we get a new flu vaccine most years?  
-   Options: Because the old vaccine goes bad / Because flu viruses change over time, so the vaccine must change too / Because viruses are animals / Because vaccines are made of crystals  
-   **Answer:** Because flu viruses change over time, so the vaccine must change too. *Why:* Flu viruses change a little every time they are copied. Over a year, they change enough that last year's vaccine may not match. This changing is evolution, one reason some scientists call viruses a kind of life.
-8. (truefalse) Esther Lederberg discovered a virus that can hide inside bacteria for many generations.  
-   **Answer:** True. *Why:* True. In 1951 she discovered the virus lambda, which slips their instructions into a bacterium's own instructions and hides there. She got far less credit than her husband, who won a Nobel Prize.
-9. (mcq) Your hair grows every week, but cutting it does not hurt. Why?  
-   Options: Hair grows too slowly to feel / The part of the hair you cut is made of dead cells. It is pushed out by living cells at the root / Hair is a crystal / Hair is a virus  
-   **Answer:** The part of the hair you cut is made of dead cells. It is pushed out by living cells at the root. *Why:* The hair you see is made of dead cells. Living cells in your skin, at the root, make new hair and push it out. So the hair you cut was made by living cells, but is no longer alive itself. Growing slowly has nothing to do with it.
-10. (mcq) In 1668, Francesco Redi covered jars of meat with cloth. No maggots appeared. What did this show?  
-   Options: Maggots grow from cloth / Maggots come from eggs laid by flies, not from the meat itself / Meat is alive / Cloth is alive  
-   **Answer:** Maggots come from eggs laid by flies, not from the meat itself. *Why:* When flies could not reach the meat, no maggots came. So maggots come from flies' eggs. Living things only come from other living things.
-11. (mcq) Which of these is the best evidence that a dry seed is alive?  
-   Options: They are hard / They are brown / Given water and warmth, they send out a root, but a pebble never does / They are small  
-   **Answer:** Given water and warmth, they send out a root, but a pebble never does. *Why:* The comparison with the pebble is what makes the evidence strong. Both get water. Only the seed grows. That is why the sleeping seeds experiment uses a pebble plate.
-12. (order) Put the steps of a virus making copies in order.  
-   **Answer:** [0, 1, 2, 3, 4]. *Why:* A virus makes no copies until they reach a cell. Then the cell does all the work of making copies.
-13. (sort) Which signs of life does a candle flame show? Sort them.  
-   **Answer:** moves → The flame shows this; uses fuel → The flame shows this; gives off waste → The flame shows this; grows → The flame shows this; made of cells → The flame does not show this; passes on instructions → The flame does not show this. *Why:* Fire shows many signs, but never cells or instructions. That is why it is not alive.
-14. (write) Why do we put a pebble plate next to the seeds in the sleeping seeds experiment? Write two sentences.  
-   **Answer:** The pebbles get water too, so we can check that water alone does not make things grow. When the seeds grow and the pebbles don't, we know something inside the seed made the difference.. *Why:* A comparison like this is called a control. It is what makes a test fair.
-15. (write) Write one way a dry seed and a dried water bear are the same, and one way they are different.  
-   **Answer:** Same: both are alive but resting, and both wake up with water. Different: the seed is a plant and grows roots and leaves, but the water bear is an animal and walks.. *Why:* Any true likeness and difference is good. Dormancy is the big likeness.
+1. (mcq) Many people think that anything that moves by itself must be alive. Which of these moves, but is not alive?  
+   Options: An ant carrying a crumb / A crow flying to the window / A bean shoot bending towards the light / A river flowing down a hill  
+   **Answer:** A river flowing down a hill. *Why:* A river moves only because water flows downhill. The ant, the crow and the bean shoot move because of what goes on inside their own living cells. A strong answer says that moving alone does not show life, because non-living things move too.
+2. (mcq) In the candle trial, one candle flame lit a second candle. Why is that not the same as a hen having a chick?  
+   Options: The new flame is smaller than the old one / Flames are too hot to have young / The new flame is a different colour / The chick gets a copy of the hen's instructions from her cells. The new flame gets no instructions at all  
+   **Answer:** The chick gets a copy of the hen's instructions from her cells. The new flame gets no instructions at all. *Why:* Every living thing passes a copy of their instructions, inside their cells, to their young. A flame has no cells and no instructions. Any spark would light the second candle just as well. Picking 'too hot' mixes up heat with life.
+3. (fill) In the candle trial, a glass tumbler went over the flame and the flame went out. The flame had used up much of the ____ in the air under the glass.  
+   **Answer:** ['oxygen']. *Why:* A flame needs oxygen, a gas in the air. So do your cells. Under the glass no new air could come in, so the flame went out. A strong answer names oxygen, not just 'air'.
+4. (mcq) In the sleeping seeds experiment, plate 3 had dry seeds on dry cotton all week. Then you gave them water. What do you predict will happen over the next day or two?  
+   Options: Nothing, because the dry seeds died during the week / The seeds turn hard like pebbles / Green leaves appear the same evening / The seeds swell up, and soon a small root pushes out  
+   **Answer:** The seeds swell up, and soon a small root pushes out. *Why:* The dry seeds were dormant, not dead. Water wakes them. They swell first, then the root comes out, often by the next day in a warm room. Picking 'they died' is the most common first guess, and plate 3 shows it is wrong.
+5. (fill) A seed that is alive but resting, with their life processes almost stopped, is called ____.  
+   **Answer:** ['dormant']. *Why:* Dormant means alive but resting. A dry seed, dried yeast and a dried water bear can all be dormant. Water and warmth wake them.
+6. (sort) Sort these into Alive, Not alive and Once alive. Be careful: some living things are resting.  
+   **Answer:** a packet of dried yeast → Alive; a coconut shell → Once alive; a matchstick flame → Not alive; sugar crystals → Not alive; a sprouting moong seed → Alive; an old newspaper → Once alive; a battery toy car → Not alive; a dried water bear in moss → Alive. *Why:* The yeast, the seed and the water bear are alive, even when resting. Paper and coconut shell came from living plants, so they are once alive. The flame, the crystals and the toy were never part of a living thing. A strong sorter does not put the resting yeast or water bear under Once alive.
+7. (match) Each tricky case needs a test to show the truth about it. Match each case to the best test.  
+   **Answer:** A dry seed → Give them water and wait for a root; Dried yeast → Add warm sugar water and watch a balloon; A salt crystal → Look at how the crystal grows: only on the outside; A candle flame → Look for cells and for instructions passed on; A virus → See whether they can make copies outside a cell. *Why:* Each test checks the sign of life that the tricky case seems to have, or seems to lack. A good tester picks the test that could prove them wrong.
+8. (truefalse) A dry seed that has sat in a kitchen jar for a whole year must be dead, because they have not grown at all.  
+   **Answer:** False. *Why:* False. A dry seed is dormant. Plate 3 in the sleeping seeds experiment showed this: dry seeds did nothing all week, then grew once they got water.
+9. (mcq) In the crystal garden, salt crystals grew bigger on the thread in the salty jar. Where did the new salt come from?  
+   Options: From the salty water around the thread. The salt stuck onto the outside of the crystals / From food the crystals ate / From inside the crystals, which made new salt / From the cotton thread itself  
+   **Answer:** From the salty water around the thread. The salt stuck onto the outside of the crystals. *Why:* A crystal grows only by more of the same salt stacking onto their outside. The plain water jar grew nothing, because it had no salt in it. A seedling grows differently: their cells turn food into new parts from inside.
+10. (truefalse) A cold virus left on a table for a day cannot make any copies of themselves there.  
+   **Answer:** True. *Why:* True. A virus can only make copies inside a living cell. On a table they do nothing at all. That is one reason scientists argue about whether viruses are alive.
+11. (mcq) Ishita, a girl in Class 3, says: 'My robot vacuum cleaner is alive. It senses the wall and moves away from it.' What has Ishita forgotten?  
+   Options: Robots are too noisy to be alive / Living things show many signs together, like being made of cells, growing from inside and making young / Moving is never a sign of life / Living things must be green  
+   **Answer:** Living things show many signs together, like being made of cells, growing from inside and making young. *Why:* Sensing and moving are only two signs. The robot has no cells, takes in no food, does not grow and cannot make a young robot. Picking 'moving is never a sign of life' goes too far: living things do move. Moving is just not enough on its own.
+12. (order) What happens inside the yeast bottle in the balloon test? Put these in order.  
+   **Answer:** [0, 1, 2, 3, 4]. *Why:* The yeast were dormant in the packet. Water and warmth woke them. Feeding on sugar, they gave off carbon dioxide as waste, and that gas blew up the balloon.
+13. (write) Look back at your balloon test. Is dried yeast alive? Write three sentences: what you think, what you saw in the bottles, and why.  
+   **Answer:** What I think: dried yeast is alive, but resting. What I saw: the balloon on the warm yeast bottle grew, the cold yeast bottle was slow, and the bottle with no yeast stayed flat. Why: the yeast woke in the warm sugar water, fed on the sugar and gave off gas. Sugar water alone made no gas.. *Why:* A strong answer has all three parts: a claim, real results from the bottles, and a reason. The best answers use the no-yeast bottle as proof that the gas came from the yeast.
+14. (write) Meena, who is 9, hears her little brother Karthik say: 'Fire is alive. It eats wood, breathes air and grows.' What should Meena tell him?  
+   **Answer:** Meena could say: 'You are right that fire uses fuel and air and grows. But fire has no cells. A new flame gets no instructions from the old one. Living things have both, so fire is not alive.'. *Why:* A strong answer agrees with what is true in Karthik's idea first, then names the signs fire lacks: cells and passed-on instructions.
+15. (draw) Draw the three plates from the sleeping seeds experiment as they looked on the last day, before you watered plate 3. Label the plate that shows water alone does not make things grow.  
+   **Answer:** Plate 1: seeds with long white roots. Plate 2: pebbles on wet cotton, just the same as on day 1, labelled 'water alone does not make things grow'. Plate 3: dry seeds on dry cotton, unchanged.. *Why:* A strong drawing shows the difference between plates 1 and 2 clearly, and labels plate 2, the pebbles, as the comparison.
+16. (perspective) Riya, a girl in Class 4, and her family are arguing about the robot vacuum cleaner that cleans their floor.  
+   **Answer:** A strong answer picks a side and uses the signs of life. For Paati: a robot has no cells and does not grow from inside. For Arjun: some scientists who study 'artificial life' think the same. Answering back, a strong answer might say Riya is right that the robot senses and moves, but 'hungry' is only a word for a low battery.. *Why:* Scientists really do disagree about whether a machine could ever be alive. There is no single right answer. A strong answer names signs of life and is fair to the other side.
+### Tricky Case Detective (stretch) (stretch, 16 questions)
+1. (mcq) Your fingernails keep growing, but cutting them does not hurt. Which is the best reason?  
+   Options: The part you cut is made of dead cells. Living cells at the base of the nail make it and push it out / Nails grow too slowly for you to feel / Nails are a kind of crystal / Nails are made of the food you ate  
+   **Answer:** The part you cut is made of dead cells. Living cells at the base of the nail make it and push it out. *Why:* Something can grow without the part you see being alive. The nail you cut is dead, but living cells under your skin keep making new nail. A strong answer explains where the living cells are.
+2. (mcq) Fire and your cells both join fuel with oxygen. Both give out energy, carbon dioxide and water. Predict: what would happen if your cells did this as fast as a flame does?  
+   Options: Nothing would change / You would grow faster and stay healthy / Your body would get burning hot and be badly harmed / You would never need to eat again  
+   **Answer:** Your body would get burning hot and be badly harmed. *Why:* Your cells release energy in many small, controlled steps, so you stay warm but never burn. A flame releases it all at once. Speed and control are the big difference.
+3. (mcq) A mule is the young of a horse and a donkey. Mules eat, grow and breathe, but almost never have young. Nila, a girl in Class 4, says this means mules are not alive. What is wrong with her idea?  
+   Options: Nothing. Mules are not alive / Making young is something a kind of living thing does, not every single one. Mules do all the other life processes / Mules have young all the time / Mules are dormant, so they only look alive  
+   **Answer:** Making young is something a kind of living thing does, not every single one. Mules do all the other life processes. *Why:* Mules, worker bees and many people never have young, and they are fully alive. Their bodies are made of cells and do all the other life processes. A strong answer explains that the 'makes young' sign belongs to a kind of living thing.
+4. (fill) When a water bear dries out, they pull in their legs and curl into a dry, resting ball. This ball is called a ____.  
+   **Answer:** ['tun']. *Why:* A tun is a water bear with nearly all their water gone. Their life processes almost stop until water comes back.
+5. (truefalse) If you put a dried, curled-up water bear into a drop of water, they may uncurl and walk again within a few hours.  
+   **Answer:** True. *Why:* True. Water wakes a tun. In minutes to hours the water bear soaks up water, uncurls and walks. Some have woken after about 30 years frozen.
+6. (mcq) Flu viruses change a little each time they are copied. Predict: what will happen to this year's flu vaccine in a year or two?  
+   Options: It will work better every year / The viruses will stop changing because of it / It may not protect people as well, because the flu viruses will have changed / It will turn into a virus  
+   **Answer:** It may not protect people as well, because the flu viruses will have changed. *Why:* This slow change over many copies is called evolution. It is why there is a new flu vaccine most years. Evolving is one reason some scientists call viruses a kind of life.
+7. (mcq) Lakshmi, a girl in Class 4, tried the balloon test with just one bottle: yeast, sugar and warm water. The balloon filled up. She says this proves the yeast is alive. Why is her test not strong enough yet?  
+   Options: She used too much sugar / Balloons always fill up by themselves / She has no bottle without yeast to compare with, so the gas might have come from the sugar water alone / She should have used cold water instead  
+   **Answer:** She has no bottle without yeast to compare with, so the gas might have come from the sugar water alone. *Why:* A comparison, called a control, is what makes a test convincing. Only a bottle with sugar and warm water but no yeast can show that the gas came from the yeast.
+8. (sort) Some things can make more of themselves on their own. Others can only make copies inside a living cell. Sort these.  
+   **Answer:** a flu virus → Can only make copies inside a living cell; yeast → Can make more of themselves on their own; the bacteria in curd → Can make more of themselves on their own; a cold virus → Can only make copies inside a living cell; the chickenpox virus → Can only make copies inside a living cell; a moong plant → Can make more of themselves on their own. *Why:* Yeast, bacteria and plants are made of cells, and their own cells make the copies. A virus has no cells, so they need a living cell to do the work.
+9. (match) Match each result from this unit to what it shows.  
+   **Answer:** Seeds grew but pebbles did not, on the same wet cotton → Something inside the seed made the difference; Only the bottles with yeast blew up a balloon → The gas came from the yeast; The cold yeast bottle was slow → Cold slows living things down; Salt crystals grew only in the salty jar → The crystals' new salt came from the water; The flame went out under the glass → A flame needs oxygen from the air. *Why:* Each result answers one question because of the comparison in the test. A strong answer can say which comparison made each result clear.
+10. (write) In the crystal garden, a second thread hung in a jar of plain water. What did that jar show, and why did the test need it?  
+   **Answer:** The plain water thread grew no crystals at all. So the crystals did not come from the thread or from water. They came from the salt in the salty water. Without that jar, you could not be sure.. *Why:* A strong answer says what happened in the plain jar and explains that it is the comparison, like the pebble plate.
+11. (write) Curd forms when tiny living bacteria feed on warm milk. Plan a test to show that a spoon of curd has something alive in it. Say what you would compare it with.  
+   **Answer:** Warm two cups of milk. Stir a spoon of curd into one cup. Leave the other cup plain. Cover both and leave them overnight in a warm place. If only the cup with curd sets thick, something in the curd changed the milk. For a stronger test, add a third cup with curd that was boiled first, to kill the bacteria.. *Why:* A strong plan changes only one thing, has a cup without curd as the comparison, and says what result would convince you. The boiled-curd cup is a bonus.
+12. (write) Gowri, a girl in Class 5, says: 'A virus is just like a dry seed. Both do nothing until they get what they need.' Write one way she is right and one way she is wrong.  
+   **Answer:** She is right that both do nothing for a long time, until the right thing comes along: water for the seed, a living cell for the virus. She is wrong because the seed has their own cells and stored food, and grows by themselves. A virus has no cells, and the cell they get into does all the work.. *Why:* A strong answer gives one real likeness and one real difference, and the difference is about cells.
+13. (perspective) Scientists still argue about whether viruses are alive. Here are three real views.  
+   **Answer:** A strong answer picks a side and backs it with facts: copies, evolution and the flu vaccine for 'yes', or doing nothing on a table for 'no'. Answering back, it admits the best point of the other side.. *Why:* This is a real, unsettled argument. There is no single right answer. A strong answer uses evidence, not just feelings.
+14. (mcq) Many people think the fridge kills the germs on food. Why does food really last longer in the fridge?  
+   Options: The cold kills every germ on the food / Food stops being once alive in the cold / The cold slows down the tiny living things that spoil food / The fridge light is off  
+   **Answer:** The cold slows down the tiny living things that spoil food. *Why:* Cold slows living things down, just like the cold yeast bottle in the balloon test. Most germs are not killed. They wake up again when the food warms.
+15. (truefalse) A dead moong seed and a dormant moong seed can look exactly the same.  
+   **Answer:** True. *Why:* True. You cannot tell by looking. Only water shows the difference: the dormant seed sprouts, and the dead one never does.
+16. (draw) Draw a virus outside a cell, and the same virus inside a cell. Under each drawing, write what the virus can do there.  
+   **Answer:** Outside: a virus drifting on their own, labelled 'does nothing, makes no copies'. Inside: a cell full of new viruses, labelled 'the cell reads the virus's instructions and builds copies'.. *Why:* A strong drawing shows that the cell does the work of copying, not the virus.
 ### Tricky Case Detective (challenge) (challenge, 15 questions)
-1. (mcq) Most viruses are much smaller than bacteria. What do scientists need to see them?  
-   Options: A hand lens / An electron microscope / A telescope / Nothing, they are easy to see  
-   **Answer:** An electron microscope. *Why:* Most viruses are too small even for a school microscope. An electron microscope uses electrons instead of light, so it can show much smaller things.
-2. (mcq) In 2003, French scientists described the mimivirus. What was surprising about this virus?  
-   Options: They were so big they were first mistaken for a bacterium / They were made of metal / They glowed in the dark / They could fly  
-   **Answer:** They were so big they were first mistaken for a bacterium. *Why:* The mimivirus is a giant virus, with far more genes than other viruses. Later, scientists even found a smaller virus that attacks them. Giant viruses made the argument about whether viruses are alive even harder.
-3. (mcq) About 8 out of every 100 parts of your own instructions came from where?  
-   Options: From the Sun / From viruses that hid inside our ancestors long ago / From food / From rocks  
-   **Answer:** From viruses that hid inside our ancestors long ago. *Why:* Long ago, some viruses hid their instructions inside our ancestors' cells, and the hidden pieces were copied down the generations. Some of these pieces now do useful jobs in our bodies.
-4. (mcq) Schrödinger said living things are special because they keep themselves in order using energy. Which non-living thing also does a little of this?  
-   Options: A stone / A candle flame, which keeps its shape while wax and air flow through it / A spoon / A salt crystal in a jar  
-   **Answer:** A candle flame, which keeps its shape while wax and air flow through it. *Why:* A flame keeps its shape while new fuel and air flow through it all the time, a bit like a living thing. This is exactly why fire is such a tricky case. A stone keeps its shape without anything flowing through it.
-5. (mcq) A lotus seed found in a dry lake bed in China was about 1,300 years old. What happened when scientists gave the seed water?  
-   Options: Nothing / They turned to dust / They sprouted and grew / They became a crystal  
-   **Answer:** They sprouted and grew. *Why:* The seed had been dormant for about 1,300 years, and they still grew. Their cells had stayed alive, only resting, all that time.
-6. (truefalse) In 1828, Friedrich Wöhler made urea, a chemical from living bodies, out of non-living chemicals. This helped show there is no special 'life force' in the chemicals of living things.  
-   **Answer:** True. *Why:* True. Wöhler's work helped show that the chemicals in living things are ordinary chemicals, made of ordinary atoms.
-7. (mcq) In 2020 scientists built 'xenobots' from frog cells. Why are they a puzzle?  
-   Options: They are made of living cells, but they were designed by people, like machines / They are made of metal / They are giant frogs / They are crystals  
-   **Answer:** They are made of living cells, but they were designed by people, like machines. *Why:* Xenobots are living cells arranged by people into a new shape. They move, and some even gathered loose cells into new xenobots. So are they living things or machines? They blur the line.
-8. (mcq) A rock from Mars, found in Antarctica, was once said to hold tiny fossils of Martian life. What do most scientists think now?  
-   Options: It definitely holds Martian life / Ordinary non-living chemistry could have made the shapes, so it is not good evidence / It is a dinosaur bone / It came from the Moon  
-   **Answer:** Ordinary non-living chemistry could have made the shapes, so it is not good evidence. *Why:* The tiny shapes in the rock, called ALH84001, could be made without life. Most scientists were not convinced. Big claims need strong evidence.
-9. (mcq) Which is the best reason the line between alive and not alive is fuzzy?  
-   Options: Scientists are not clever enough / Tricky cases like viruses and dormant seeds have some signs of life but not others, and every definition has a case that breaks it / Everything is alive / Nothing is alive  
-   **Answer:** Tricky cases like viruses and dormant seeds have some signs of life but not others, and every definition has a case that breaks it. *Why:* Every definition so far has a tricky case. That does not mean anything goes. Fire, rocks and robots are clearly not alive, and trees clearly are. The fuzziness is at the edge.
-10. (fill) J.C. Bose, a scientist in Kolkata, wrote a book in 1902 called 'Response in the Living and ____'.  
-   **Answer:** ['Non-Living']. *Why:* Bose measured responses in plants and even in metals, and he felt there was no sharp break between living and non-living. Most scientists today agree with his plant measurements, but not with all his ideas.
-11. (order) Put the sleeping seed's waking-up in order.  
-   **Answer:** [0, 1, 2, 3, 4]. *Why:* Water is the signal. The seed swells, their cells wake up and use stored food, then the root comes first and the shoot after.
-12. (match) Match each scientist to what they found.  
-   **Answer:** Esther Lederberg → A virus that hides inside bacteria; Francesco Redi → Maggots come from flies' eggs; J.C. Bose → Plants send electrical signals; Antonie van Leeuwenhoek → Gutter dust held tiny animals that woke in water; Antoine Lavoisier → Breathing is like a slow burning. *Why:* Each of these people moved the line between living and non-living, or showed where it really is.
-13. (write) Is a virus alive? Write what you think, and give one reason for and one reason against.  
-   **Answer:** Any view is fine with good reasons. For: a virus carries instructions, makes copies and evolves. Against: they have no cells and can do nothing outside a living cell.. *Why:* Scientists still argue about this. A strong answer gives both sides before choosing.
-14. (write) Design a test to find out whether something in a spoon of Mars soil is alive. Say how your test avoids being fooled by ordinary chemistry.  
-   **Answer:** Add warm sugar water and cover with a balloon to catch any gas. Do the same with soil that has been heated strongly, as a comparison. Heat kills living things. So if gas comes only from the unheated soil, something living may be there. But heat can change some chemicals too, so the robot needs more than one test, such as looking for cells.. *Why:* A good test has a comparison, like the pebble plate, the no-yeast bottle or the heated soil.
-15. (write) Some sages say the same life runs through everything. Most scientists say life is a special arrangement of ordinary atoms. Write what you think, and why.  
-   **Answer:** Any thoughtful answer is good. For example: 'I think living things are made of the same atoms as everything else, so maybe we are not so separate. But only some things are arranged to be alive.'. *Why:* This is an open question. There is no single right answer, only well-argued ones.
+1. (perspective) A dried water bear, called a tun, can lie for years with almost nothing going on inside. Is the tun alive?  
+   **Answer:** A strong answer uses evidence. For 'alive': tuns wake up when watered, and dead ones never do. For Keilin: nothing measurable is happening, so 'alive' does not quite fit. For the doctor: the rule for people may not fit a water bear. Answering back, it admits the best point of another view.. *Why:* Scientists really do use all three ways of talking about tuns. There is no single right answer.
+2. (perspective) Where is the line between living and non-living? Three people answer.  
+   **Answer:** A strong answer tries the view on real cases. The biologists' rule puts the dry seed in, but struggles with the virus, who has no cells. The NASA rule fits viruses better, because they evolve. Bose's view explains why the cases are tricky at all, but does not tell you where to stop.. *Why:* There is no single right answer. A strong answer tests each view on cases rather than just choosing one.
+3. (mcq) A candle flame keeps the same shape, even though new wax and air flow into it all the time. Which of these is like that too?  
+   Options: A stone lying on the ground / A salt crystal in a jar / You: the food, water and air in your body keep changing, but you stay you / A steel spoon in a drawer  
+   **Answer:** You: the food, water and air in your body keep changing, but you stay you. *Why:* A flame and a living body both keep their shape while new stuff flows through them. Erwin Schrödinger, a physicist, wrote about this in 1944. It is exactly why fire is such a tricky case. A stone keeps its shape with nothing flowing through it.
+4. (mcq) A robot on Mars adds sugar water to a spoon of soil, and gas comes out. Then the robot heats a second spoon of the same soil very hot first. Gas still comes out. What is the best conclusion?  
+   Options: There is definitely life in the soil / The gas probably comes from ordinary chemistry, because the heat would have killed any living things / Heating soil creates life / The robot must be broken  
+   **Answer:** The gas probably comes from ordinary chemistry, because the heat would have killed any living things. *Why:* Heat kills living things, but most chemical reactions still happen. If the heated soil gives gas too, life did not make it. A strong answer explains why the heated soil is the comparison.
+5. (mcq) A lotus seed found in a dry lake bed in China was about 1,300 years old. Given water, the seed sprouted. What does this tell us?  
+   Options: The seed came back from the dead / Water can make anything alive / Lotus seeds are not really seeds / A dormant seed's cells can stay alive, resting, for a very long time  
+   **Answer:** A dormant seed's cells can stay alive, resting, for a very long time. *Why:* The seed was never dead. Their cells were alive but resting for about 1,300 years. Picking 'came back from the dead' is a common first guess, but dead things never wake. Dormant ones do.
+6. (truefalse) Living things are made of special atoms that are never found in rocks, air or water.  
+   **Answer:** False. *Why:* False. Living things are made of the same atoms as everything else: carbon, oxygen, hydrogen, nitrogen and others. In 1828, Friedrich Wöhler, a German chemist, made urea, a chemical from living bodies, out of non-living chemicals. What makes life special is how the atoms are arranged and kept busy.
+7. (mcq) Some scientists once said that tiny shapes inside a rock from Mars were fossils of Martian life. Most scientists were not convinced. Why?  
+   Options: Rocks from Mars cannot hold anything / Mars is too far away to study / Ordinary non-living chemistry can make shapes like these, so the shapes alone are not strong evidence / Scientists do not want to find life on Mars  
+   **Answer:** Ordinary non-living chemistry can make shapes like these, so the shapes alone are not strong evidence. *Why:* The rock, called ALH84001, was found in Antarctica. Its shapes could be made without life. Big claims need strong evidence, and a shape is easy to be fooled by.
+8. (sort) A robot is testing Mars soil for life. Sort these results: is each one strong evidence of life, or could ordinary chemistry fool you?  
+   **Answer:** gas comes out when sugar water is added → Could be ordinary chemistry; the gas stops when the soil is heated first → Stronger evidence of life; tiny cells are seen splitting into two → Stronger evidence of life; the soil changes colour → Could be ordinary chemistry; the gas doubles again and again, as if something is multiplying → Stronger evidence of life; the soil fizzes for a minute, then stops → Could be ordinary chemistry. *Why:* Strong evidence is hard for chemistry to fake: cells, multiplying, and a result that heat switches off. Fizzing, colour change and a single burst of gas can all happen without life.
+9. (match) Every simple definition of life has a tricky case. Match each definition to the case that causes trouble for it.  
+   **Answer:** 'Living things make young' → A mule; 'Living things are always using energy' → A dry seed in a jar; 'Anything that grows, uses fuel and gives off waste is alive' → A candle flame; 'Anything that carries instructions and makes copies is alive' → A virus; 'Anything that senses and moves by itself is alive' → A robot vacuum cleaner. *Why:* Each case either breaks a rule while being alive, or fits a rule while not being alive. That is why scientists use many signs together.
+10. (truefalse) About 8 out of every 100 parts of your own instructions, your DNA, came from viruses that hid inside your ancestors' cells long ago.  
+   **Answer:** True. *Why:* True. Long ago, some viruses slipped their instructions into the cells of our ancestors. Those pieces were copied down the generations. Some now do useful jobs in our bodies. So the line between viruses and us is blurry too.
+11. (mcq) In the story 'The Dust in the Gutter', Maria's tiny wheel-animals dried out and woke again and again. Predict: if you dried out a moong seedling with a long root and green leaves, then watered them, would they wake like a dry seed?  
+   Options: Yes, every plant can dry out and wake again / Yes, but only in the dark / No. A sprouted seedling is busy and full of water, so drying out usually kills them / They would turn back into a seed  
+   **Answer:** No. A sprouted seedling is busy and full of water, so drying out usually kills them. *Why:* A seed gets ready to dry out before they leave the plant. Once they sprout, their cells are busy and lose that power. Being dormant is a special skill, not something every living thing can do.
+12. (write) Imagine a robot that could find its own food, repair itself and build copies of itself from scraps. Would that robot be alive? Use at least two signs of life in your answer.  
+   **Answer:** Any reasoned answer. For example: 'It would show feeding, growing back and making copies, which are signs of life. But it would still have no cells, and its instructions came from people. I think it would be a new kind of thing, close to alive.'. *Why:* A strong answer tests the robot against several signs, says which it now passes and which it still fails, then gives a verdict.
+13. (write) Design a test, with things from home, to find out whether pot soil holds tiny living things. Say what you would compare it with, and what result would convince you.  
+   **Answer:** Put a spoon of pot soil in a cup with warm sugar water and stretch a balloon over it. Do the same with a spoon of the same soil that a grown-up has baked hot in a pan, then cooled. If the fresh soil makes gas slowly over a day and the baked soil does not, something living was in it. One fizz at the start would not convince me.. *Why:* A strong test has a comparison that kills living things but leaves the chemicals, like baking. It also says what result would count, and what would not.
+14. (write) Antoine Lavoisier, a French scientist in the 1780s, said that breathing is a slow burning. Give one way he was right, and one way your cells are different from a flame.  
+   **Answer:** He was right that both join fuel with oxygen and give out carbon dioxide, water and heat. But a flame does it all at once and has no cells. My cells do it in many small, controlled steps, with instructions controlling each one.. *Why:* A strong answer names what is the same, the chemistry, and what is different: speed, control and instructions.
+15. (draw) Draw a long line. Write 'clearly alive' at one end and 'clearly not alive' at the other. Place these on it: a tree, a dry seed, a tun, a virus, a candle flame, a robot, a stone. Next to the two hardest ones, write why you put them there.  
+   **Answer:** For example: tree and dry seed near 'alive', tun close by, virus in the middle, flame and robot near 'not alive', stone at the end. The virus and the tun are often the hardest.. *Why:* There is no single right drawing. A strong answer gives a reason for each hard case, using the signs of life each case shows and lacks.
 
 ## Videos
 - **What Is Life? Is Death Real?** (Kurzgesagt – In a Nutshell, 9 min) id `QOCaacO8wus`: For the parent and curious older children. A beautifully animated look at why life is hard to define, with viruses and other edge cases. *Check:* Title and channel checked on YouTube (oEmbed), October 2026. A parent may still preview it.
@@ -724,42 +717,43 @@ In the morning my father found me standing at the window.
 - **What's a Virus? Science For Kids** (National Science Foundation News, 5 min) id `0sYXv3jWpHg`: To show, with animation, what the virus act-out shows: a virus getting into a cell, and the cell making copies. *Check:* Title and channel checked on YouTube (oEmbed), October 2026. Length not checked. A parent may still preview it.
 
 ## Quiz
-1. (mcq) Which sign alone tells us that something is alive?  
-   Options: Moving / Growing / None of them alone. We need to look at many signs together / Being warm  
-   **Answer:** None of them alone. We need to look at many signs together. *Why:* No single sign is enough. Fire moves and grows. Crystals grow. A dry seed does neither, yet is alive. Picking 'moving' or 'growing' is the most common trap.
-2. (mcq) Why is fire not alive?  
-   Options: It is too hot / It has no cells, and passes on no instructions / It does not move / It does not need air  
-   **Answer:** It has no cells, and passes on no instructions. *Why:* Fire moves, grows, uses fuel and air, and makes waste. But it has no cells and passes on no instructions.
-3. (mcq) How is a growing crystal different from a growing seedling?  
-   Options: The crystal adds on outside. The seedling grows from inside using food / The crystal grows faster / There is no difference / The seedling is made of salt  
-   **Answer:** The crystal adds on outside. The seedling grows from inside using food. *Why:* A crystal stacks more particles on its outside. A seedling builds new parts from inside their cells. Picking 'no difference' treats any growing as a sign of life.
-4. (mcq) What is a dormant seed?  
-   Options: A dead seed / A seed that is alive but resting / A seed made of plastic / A seed that has already grown  
-   **Answer:** A seed that is alive but resting. *Why:* Dormant means alive but resting. Picking 'dead' is the most common first answer. But a dead seed never wakes, and a dormant one does.
-5. (mcq) What does a dried-up water bear need to wake up?  
-   Options: Food / Water / Sunlight / A loud noise  
-   **Answer:** Water. *Why:* Water wakes a tun. The water bear soaks it up, uncurls and walks again.
-6. (mcq) In the sleeping seeds experiment, seeds and pebbles both sat on wet cotton. Only the seeds grew. What does this show?  
-   Options: Water makes anything grow / Something inside the seed, not just the water, made them grow / Pebbles are dormant / Cotton is alive  
-   **Answer:** Something inside the seed, not just the water, made them grow. *Why:* The pebbles are the comparison. They got the same water and did not change. So the seed's own life made the difference. Picking 'water makes anything grow' ignores the pebble plate.
-7. (mcq) What does a virus need to make copies of themselves?  
-   Options: Sunlight / A living cell / A crystal / Nothing at all  
-   **Answer:** A living cell. *Why:* A virus can only make copies inside a living cell, using the cell's parts and energy. Outside a cell, they make no copies.
-8. (mcq) Do all scientists agree about whether viruses are alive?  
-   Options: Yes, they are alive / Yes, they are not alive / No, scientists still argue / Nobody has ever asked  
-   **Answer:** No, scientists still argue. *Why:* Scientists still disagree. Viruses make copies and evolve, but do nothing outside a cell. Both 'yes' answers pretend the question is settled.
-9. (mcq) A robot senses a wall and turns away. Why is it still not alive?  
-   Options: It has no cells, does not grow or take in food, and cannot make young / It is not green / It is too slow / It has wheels  
-   **Answer:** It has no cells, does not grow or take in food, and cannot make young. *Why:* A robot follows instructions people wrote. Sensing and moving are only two of the signs. Picking 'not green' confuses being a plant with being alive.
-10. (mcq) In the balloon test, why did one bottle have warm sugar water but no yeast?  
-   Options: To make it fair, as a comparison, to show sugar water alone makes no gas / Because we ran out of yeast / To grow crystals / To feed the balloon  
-   **Answer:** To make it fair, as a comparison, to show sugar water alone makes no gas. *Why:* The no-yeast bottle is the comparison. It shows that the gas came from the yeast, not from the sugar water.
-11. (mcq) Who decides exactly where the line between alive and not alive goes?  
-   Options: Nature has one sharp line that everyone can see / People do, with definitions, and they still argue about the edge / Only robots / Nobody, because nothing is alive  
-   **Answer:** People do, with definitions, and they still argue about the edge. *Why:* Nature gives us real differences, like cells and instructions. But the exact edge, where viruses and dormant things sit, is drawn by people, and scientists still argue about it.
-12. (mcq) Do scientists know exactly how the first living thing began?  
-   Options: Yes, it is fully known / No. They have ideas and experiments, but nobody knows for sure / Life has always been here / It came from a crystal, everyone agrees  
-   **Answer:** No. They have ideas and experiments, but nobody knows for sure. *Why:* Nobody knows yet. Miller and Urey made some building blocks of life from gases in 1952, and there are ideas like the RNA idea, but the question is still open.
+1. (mcq) Ammu, a girl in Class 3, has a pebble and a dry moong seed. Both look still. Which test would show her which one is alive?  
+   Options: Weigh them on a scale / Compare their colours / Put both on wet cotton for a few days and see which one grows a root / Tap them and listen  
+   **Answer:** Put both on wet cotton for a few days and see which one grows a root. *Why:* Only a living seed can grow when given water. The pebble is the comparison. Weight, colour and sound tell you nothing about life.
+2. (mcq) A cloud moves, grows bigger and splits into smaller clouds. Which sign of life does a cloud NOT have?  
+   Options: Being made of cells / Moving / Growing bigger / Splitting into more  
+   **Answer:** Being made of cells. *Why:* A cloud is tiny drops of water pushed by the wind. It moves, grows and splits, but has no cells and passes on no instructions.
+3. (mcq) Sugar crystals can grow on a thread hung in thick sugar syrup. Is a growing sugar crystal alive?  
+   Options: Yes, because the crystal grows / No. The crystal grows only by sugar sticking onto the outside / Yes, because sugar is food / Only while the crystal is growing  
+   **Answer:** No. The crystal grows only by sugar sticking onto the outside. *Why:* Living things grow from inside, by turning food into new parts. A crystal only adds on outside, just like the salt crystals in the crystal garden.
+4. (mcq) Your cells and a candle flame both join fuel with oxygen to release energy. Why don't you catch fire?  
+   Options: Your cells release the energy slowly, in many small controlled steps / There is no oxygen inside you / Your body is too wet to burn / Food is not a fuel  
+   **Answer:** Your cells release the energy slowly, in many small controlled steps. *Why:* Both use the same chemistry. The difference is speed and control. Your cells release a little energy at a time, so you stay warm and never burn.
+5. (truefalse) A dried water bear can stay alive for years with almost no water in their body.  
+   **Answer:** True. *Why:* True. A dried water bear, called a tun, is dormant. When water comes back, they uncurl and walk again.
+6. (mcq) Dried yeast in a packet looks like sand. In the balloon test, the bottles with yeast filled their balloons with gas. What does this show about the yeast in the packet?  
+   Options: The yeast in the packet were dead / The packet itself makes gas / The yeast were alive but dormant, and woke up in the warm sugar water / Sand makes gas in water  
+   **Answer:** The yeast were alive but dormant, and woke up in the warm sugar water. *Why:* Dormant means alive but resting. The yeast fed on the sugar and gave off gas. The bottle without yeast made none.
+7. (mcq) A cold virus lands on a doorknob. What can the virus do there?  
+   Options: Nothing much. A virus cannot feed, grow or make copies until they get inside a living cell / Make copies all over the doorknob / Grow bigger by eating the metal / Lay eggs  
+   **Answer:** Nothing much. A virus cannot feed, grow or make copies until they get inside a living cell. *Why:* A virus does nothing on their own. Only inside a living cell can they make copies, and even then the cell does the work. This is why hand washing helps: it removes viruses before they reach your cells.
+8. (mcq) Why do scientists still argue about whether viruses are alive?  
+   Options: Nobody has ever seen a virus / Viruses carry instructions and evolve, but do nothing at all outside a living cell / Viruses are bigger than animals / Viruses are made of salt  
+   **Answer:** Viruses carry instructions and evolve, but do nothing at all outside a living cell. *Why:* Viruses have some signs of life and lack others. That is why they sit right on the edge. Scientists have seen them, using electron microscopes.
+9. (mcq) A talking toy says hello when you clap and flaps its paper wings. Which is the best reason the talking toy is not alive?  
+   Options: It has no cells, takes in no food, does not grow and cannot make young / It is too small / It only says one word / It was bought in a shop  
+   **Answer:** It has no cells, takes in no food, does not grow and cannot make young. *Why:* The toy senses a clap and moves, but those are only two signs. A real bird does all the signs of life together.
+10. (mcq) Tanvi, a girl in Class 4, wants to test whether dry chana from the kitchen is alive. She puts chana on wet cotton. What should she put on a second plate to make her test fair?  
+   Options: Beads or pebbles of the same size on wet cotton, to see if water alone changes anything / More chana on a plate with no cotton / Nothing, one plate is enough / Chana fried in oil  
+   **Answer:** Beads or pebbles of the same size on wet cotton, to see if water alone changes anything. *Why:* The second plate is the comparison. Both plates get the same water. If only the chana grows, the chana's own life made the difference, just like the pebble plate in the sleeping seeds experiment.
+11. (mcq) In claim, evidence and reasoning, the evidence is what you saw. Which of these is evidence from the balloon test?  
+   Options: I think yeast is alive / Living things feed and give off waste / Bakers use yeast to make bread / The balloon on the warm yeast bottle grew big, but the balloon on the bottle without yeast stayed flat  
+   **Answer:** The balloon on the warm yeast bottle grew big, but the balloon on the bottle without yeast stayed flat. *Why:* Evidence is a result you saw or measured. 'I think yeast is alive' is the claim. 'Living things feed and give off waste' is the reasoning.
+12. (mcq) Why is it so hard to draw one sharp line between alive and not alive?  
+   Options: Some cases, like viruses and tuns, show some signs of life but not others / Scientists have never tried to draw it / Living things keep changing colour / Every case is easy once you look closely  
+   **Answer:** Some cases, like viruses and tuns, show some signs of life but not others. *Why:* Most things are clearly on one side: trees are alive and stones are not. The hard part is the edge, where viruses and dormant things sit.
+13. (truefalse) Scientists have made some of the building blocks of life from gases in a lab, but nobody yet knows how the first living thing began.  
+   **Answer:** True. *Why:* True. In 1952, Stanley Miller and Harold Urey made some building blocks of life from gases and sparks. But how the first living thing began is still an open question.
 
 ## Applications
 - Farmers and seed banks store seeds dry and cool, so they stay dormant and alive for years.
@@ -786,7 +780,7 @@ In the morning my father found me standing at the window.
 ## Open questions
 - **Are viruses alive?** It depends on how you define life. Viruses do some things living things do but not others, and scientists have not agreed on a definition.
 - **How did the first living thing come from non-living chemicals?** It happened about 4 billion years ago and left no clear traces. Experiments have made some building blocks, but no one has made life from scratch.
-- **Is a dried water bear alive while it is dry, or is it in a third state?** Their life processes are so slow they are very hard to measure. Scientists argue about whether anything at all is happening inside.
+- **Is a dried water bear alive while they are dry, or is it in a third state?** Their life processes are so slow they are very hard to measure. Scientists argue about whether anything at all is happening inside.
 - **Is there life on other planets or moons, like Mars, Europa or Enceladus?** We have only one example of life, on Earth. Missions are searching, but nothing has been found for sure yet.
 - **Could a machine or a computer program ever be alive?** Some programs copy themselves and change, and some machines can repair themselves. Whether that counts as life depends on whether life must be made of cells and chemistry.
 - **How long can a seed stay dormant and still wake?** Seeds of about 1,300 years old have grown. Nobody knows the true limit, and different seeds are very different.
@@ -868,7 +862,7 @@ What Makes a Thing Alive? (sci.what-is-life.L3): Topic-level song
 - How does a crystal grow? → By adding more of the same salt onto its outside.
 - Name two signs of life a robot does NOT have. → Any two: cells, growing, taking in food, making young, passing on instructions.
 - What gas did the yeast make in the balloon test? → Carbon dioxide, the same gas you breathe out.
-- Is a mule alive, even though it almost never has babies? → Yes. They are made of cells and do all the other life processes.
+- Is a mule alive, even though they almost never have babies? → Yes. They are made of cells and do all the other life processes.
 - Do scientists agree on whether viruses are alive? → No. They still argue.
 
 ## Plan

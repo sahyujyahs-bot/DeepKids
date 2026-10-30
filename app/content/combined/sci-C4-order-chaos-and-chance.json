@@ -4,7 +4,7 @@
  "subj": "sci",
  "level": 4,
  "n": "order-chaos-and-chance",
- "title": "Order, chaos and chance: why things mix, spread and can't be fully predicted",
+ "title": "Order, chaos and chance: why things mix by themselves and the future can't be fully known",
  "source": "DeepKids Combined, The Deep End. A DeepKids topic that no board teaches at this class: counting arrangements and entropy, heat flow and the arrow of time, random walks, crystals and quasicrystals, probability with two dice, half-life, and chaos in weather. No textbook needed.",
  "summary": "Four coins can land in 16 different ways, and only one of them is all heads. That simple count explains why a jar of rice and dal mixes but never sorts itself, why hot rasam cools but never warms up by itself, and why a film of a breaking egg looks wrong when it runs backwards. Your child melts ice on steel and on wood, grows salt crystals, and draws a random walk with a die. They find out why 7 is the commonest total with two dice, how a heap of coins can show the half-life of atoms, and why a weather forecast for three weeks ahead cannot be trusted, even though the weather follows exact rules.",
  "builds_on": "In the Class 2 rung, children learned the words certain, likely, unlikely and impossible. They tossed coins, tested a lucky charm, saw colour spread faster in hot water, and found that a rice and dal jar mixes but won't un-mix. They saw that making order takes energy, and watched ants build a trail nobody planned. This rung counts the ways things can be arranged to explain why mixing and cooling happen by themselves (entropy). It adds the arrow of time, random walks, crystals, two-dice totals, half-life and chaos. Class 5 goes further into how life builds order from sunlight, and how ecosystems and weather balance order and chaos.",
@@ -113,7 +113,7 @@
      "kind": "talk",
      "title": "The word entropy",
      "mins": 10,
-     "do": "Say: 'With 10 coins there are 1,024 ways to land. Only 1 of them is all heads. But 252 of them are exactly 5 heads and 5 tails.' Write 1 and 252 side by side. Ask: 'Now think of the rice and dal jar. It has thousands of grains. How many ways are there for them to sit in two neat layers? How many ways mixed?' Good answer: 'Very few neat ways, and so many mixed ways you can't count them.' Say: 'Scientists have a word for this: entropy. Entropy is a measure of how many ways the tiny particles of something can be arranged. Mixed things have more ways, so they have higher entropy. Shaking picks a new arrangement at random each time. Nearly every arrangement is a mixed one, so the jar stays mixed.' Say: 'The scientist Ludwig Boltzmann worked this out about 150 years ago. His idea is carved on his grave in Vienna.'"
+     "do": "Say: 'With 10 coins there are 1,024 ways to land. Only 1 of them is all heads. But 252 of them are exactly 5 heads and 5 tails.' Write 1 and 252 side by side. Ask: 'Now think of the rice and dal jar. It has thousands of grains. How many ways are there for them to sit in two neat layers? How many ways mixed?' Good answer: 'Very few neat ways, and so many mixed ways you can't count them.' Say: 'Scientists have a word for this: entropy. Entropy is a measure of how many ways the tiny particles of something can be arranged. Mixed things have more ways, so they have higher entropy. Shaking picks a new arrangement at random each time. Nearly every arrangement is a mixed one, so the jar stays mixed.' Say: 'The scientist Ludwig Boltzmann worked this out about 150 years ago. His formula for entropy is carved on his gravestone in Vienna.'"
     },
     {
      "kind": "review",
@@ -192,7 +192,7 @@
      "kind": "act",
      "title": "The random walk",
      "mins": 16,
-     "do": "Do Activity a2. Your child puts a dot in the middle of a page of squared paper and rolls a die to choose each step: 1 up, 2 down, 3 left, 4 right, 5 or 6 roll again. They draw 30 steps. Then someone else in the family draws their own walk from a dot of a different colour. Ask: 'Did the two walks go the same way?' (No.) 'Did either walk come back to the start and stay there?' (No.) Say: 'Each particle of smoke or of food colour is bumped this way and that by air or water particles, like your die choosing steps. Nobody pushes them outwards. But random steps carry them further and further from where they started. That is diffusion.' Then say: 'In 1827 a Scottish scientist, Robert Brown, saw tiny specks from pollen grains jiggling in water under a microscope. In 1905, Albert Einstein explained that water particles were bumping them. Experiments by Jean Perrin a few years later showed he was right, and helped prove that atoms are real.'",
+     "do": "Do Activity a2. Your child puts a dot in the middle of a page of squared paper and rolls a die to choose each step: 1 up, 2 down, 3 left, 4 right, 5 or 6 roll again. They draw 30 steps. Then someone else in the family draws their own walk from a dot of a different colour. Ask: 'Did the two walks go the same way?' (No.) 'How many squares from the start did each walk end?' (Usually a few squares, in different directions.) Say: 'Each particle of smoke or of food colour is bumped this way and that by air or water particles, like your die choosing steps. Nobody pushes them outwards. But random steps carry them further and further from where they started. That is diffusion.' Then say: 'In 1827 a Scottish scientist, Robert Brown, saw tiny specks from pollen grains jiggling in water under a microscope. In 1905, Albert Einstein explained that water particles were bumping them. Experiments by Jean Perrin a few years later showed he was right, and helped prove that atoms are real.'",
      "ref": "a2"
     },
     {
@@ -239,14 +239,14 @@
      "kind": "act",
      "title": "Real tosses or made-up tosses?",
      "mins": 18,
-     "do": "Do Activity a3. Leave the room. Your child writes two lists of 50 H and T. For one list they really toss a coin 50 times. For the other they make up 50 tosses in their head, trying to make it look random. They don't tell you which is which. Come back, look for the longest run of the same letter in each list, and guess which list is real. The real list usually has a run of 5 or more, like HHHHH. The made-up list usually switches too often and has no long runs. Ask: 'Why do people's made-up lists have so few long runs?' Good answer: 'We think a run looks like a pattern, so we switch. But a real coin doesn't care.'",
+     "do": "Do Activity a3. Leave the room. Your child writes two lists of 50 H and T. For one list they really toss a coin 50 times. For the other they make up 50 tosses in their head, trying to make it look random. They don't tell you which is which. Come back, look for the longest run of the same letter in each list, and guess which list is real. The real list usually has a run of 5 or more, like HHHHH. The made-up list usually switches too often and has no long runs. Ask: 'Why do people's made-up lists have so few long runs?' Good answer: 'We think a run looks like a pattern, so we switch. But real tosses don't avoid runs.'",
      "ref": "a3"
     },
     {
      "kind": "talk",
      "title": "Chance has no memory",
      "mins": 8,
-     "do": "Say: 'In Class 2 we said each toss starts fresh. A coin has no memory. Now let us see what that means for runs.' Say: 'If you need a 1 on a die, you have a 1 in 6 chance each throw. If you throw 15 times, how often will you get no 1 at all?' Let your child guess. Say: 'It happens to about 1 in every 15 people who try. So if 15 people play, one of them will probably wait that long. It is not bad luck sticking to that person. It is just a run.' Ask: 'Why might people call that person unlucky?' Good answer: 'They notice the long wait and forget that it had to happen to someone.'"
+     "do": "Say: 'In Class 2 we said each toss starts fresh: earlier tosses don't change the next one. Now let us see what that means for runs.' Say: 'If you need a 1 on a die, you have a 1 in 6 chance each throw. If you throw 15 times, how often will you get no 1 at all?' Let your child guess. Say: 'It happens to about 1 in every 15 people who try. So if 15 people play, one of them will probably wait that long. It is not bad luck sticking to that person. It is just a run.' Ask: 'Why might people call that person unlucky?' Good answer: 'They notice the long wait and forget that it had to happen to someone.'"
     },
     {
      "kind": "read",
@@ -276,7 +276,7 @@
      "kind": "warmup",
      "title": "Back to the story",
      "mins": 5,
-     "do": "Ask: 'In the story, why did Meenakshi stop believing the die hated her?' Good answer: 'Her tally showed long waits for a 1 happen by chance, to anyone. Then Arun had a long wait too.' Ask: 'What did she mean when she said the die doesn't know who is holding it?' (It can't remember or choose. Every throw is fresh.)"
+     "do": "Ask: 'In the story, why did Meenakshi stop believing the die hated her?' Good answer: 'Her tally showed long waits for a 1 happen by chance, to anyone. Then Arun had a long wait too.' Ask: 'Periyamma said every throw starts new. What did she mean?' (Earlier throws don't change the next one, whoever is throwing.)"
     },
     {
      "kind": "act",
@@ -302,7 +302,7 @@
      "kind": "talk",
      "title": "The crystal that was impossible",
      "mins": 8,
-     "do": "Tell Voice v1 in your own words: Dan Shechtman's crystal pattern that repeated in a way the textbooks said was impossible, how he was asked to leave his research group, and how he won the Nobel Prize 29 years later. Ask the voice's question: 'Everyone said Shechtman was wrong. What made him keep going, and what made the others change their minds in the end?' Good answer: 'He trusted what he saw and checked it many times. Other scientists made the same crystals and saw the same pattern.'",
+     "do": "Tell Voice v1 in your own words: Dan Shechtman's crystal pattern that the textbooks said was impossible, because it never repeats exactly, how he was asked to leave his research group, and how he won the Nobel Prize 29 years later. Ask the voice's question: 'Everyone said Shechtman was wrong. What made him keep going, and what made the others change their minds in the end?' Good answer: 'He trusted what he saw and checked it many times. Other scientists made the same crystals and saw the same pattern.'",
      "ref": "v1"
     }
    ],
@@ -333,16 +333,16 @@
     },
     {
      "kind": "talk",
-     "title": "The woman who found energy inside atoms",
+     "title": "The woman who found rays coming from inside atoms",
      "mins": 8,
-     "do": "Tell Voice v2 in your own words: Marie Curie found that the rays from uranium come from inside the atoms themselves, named this radioactivity, and almost did not get the credit. Ask the voice's question: 'The prize committee nearly left Marie Curie out, even though the work was hers. How could you make sure the right person gets the credit for a discovery?' Good answers: 'Look at who did the experiments and wrote the notebooks.' 'Ask the people who worked with them.'",
+     "do": "Tell Voice v2 in your own words: Marie Curie found that the rays from uranium come from inside the atoms themselves, named this radioactivity, and almost did not get the credit. Ask the voice's question: 'The prize committee nearly left Marie Curie out, even though much of the work was hers. How could you make sure the right person gets the credit for a discovery?' Good answers: 'Look at who did the experiments and wrote the notebooks.' 'Ask the people who worked with them.'",
      "ref": "v2"
     },
     {
      "kind": "talk",
      "title": "Chance inside living things",
      "mins": 6,
-     "do": "Say: 'Every time one of your cells divides, it copies its DNA, the long instructions inside it. The copying is very careful, but now and then a small mistake happens by chance. These changes are called mutations.' Say: 'Each baby is born with a few dozen small changes in their DNA that neither parent had. Most do nothing at all. A few change something, and over very long times, those chance changes are where new kinds of plants and animals come from.' Ask: 'Is that like the coins, or like the dice table?' Good answer: 'Like the coins. You can't say which bit of DNA will change, but you can say roughly how many changes there will be.'"
+     "do": "Say: 'Every time one of your cells divides, they copy their DNA, the long instructions inside them. The copying is very careful, but now and then a small mistake happens by chance. These changes are called mutations.' Say: 'Each baby is born with a few dozen small changes in their DNA that neither parent had. Most do nothing at all. A few change something. Over very long times, these chance changes, and which living things survive, give rise to new kinds of plants and animals.' Ask: 'Is that like the coins, or like the dice table?' Good answer: 'Like the coins. You can't say which bit of DNA will change, but you can say roughly how many changes there will be.'"
     },
     {
      "kind": "ws",
@@ -422,13 +422,13 @@
      "kind": "talk",
      "title": "Umbrellas and colds",
      "mins": 9,
-     "do": "Say: 'In July, shops in Bengaluru sell more umbrellas. In July, more people also catch colds.' Ask: 'Do umbrellas cause colds?' Let your child think. Good answer: 'No. The rainy season causes both. People buy umbrellas for the rain, and colds spread more in the rainy months.' Say: 'When two things happen together by chance, or because of a third thing, without one causing the other, it is a coincidence.' Ask: 'How could you test whether one thing really causes another?' Good answer: 'Change only that one thing, keep everything else the same, and try it many times.' Ask your child to think of one more pair of things that happen together without one causing the other."
+     "do": "Say: 'In July, shops in Mumbai sell more umbrellas. In July, more people also catch colds.' Ask: 'Do umbrellas cause colds?' Let your child think. Good answer: 'No. The rainy season causes both. People buy umbrellas for the rain, and colds spread more in the rainy months.' Say: 'Two things can happen together without one causing the other. Sometimes a third thing, like the rain, causes both. Sometimes it is pure chance, and then we call it a coincidence.' Ask: 'How could you test whether one thing really causes another?' Good answer: 'Change only that one thing, keep everything else the same, and try it many times.' Ask your child to think of one more pair of things that happen together without one causing the other."
     },
     {
      "kind": "talk",
      "title": "When both sides gain",
      "mins": 6,
-     "do": "Say: 'In a game of chess, if one player wins, the other loses. A game like that is called zero-sum: one side's gain is the other side's loss.' Ask: 'When a bee visits a flower, who gains?' Good answer: 'Both. The bee gets nectar, and the flower's pollen is carried to another flower.' Ask: 'When you teach a friend a song, do you lose the song?' (No. Now you both have it.) Say: 'Energy is a bit like a zero-sum total, because it is never made or lost. But living things share and trade in many ways where both sides gain.'"
+     "do": "Say: 'In a game of chess, if one player wins, the other loses. A game like that is called zero-sum: one side's gain is the other side's loss.' Ask: 'When a bee visits a flower, who gains?' Good answer: 'Both. The bee gets nectar, and the flower's pollen is carried to another flower.' Ask: 'When you teach a friend a song, do you lose the song?' (No. Now you both have it.) Say: 'Living things share and trade in many ways where both sides gain.'"
     },
     {
      "kind": "game",
@@ -514,7 +514,7 @@
      [
       {
        "t": "mcq",
-       "p": "Kavya tosses 4 coins at once. Which result is she most likely to get?",
+       "p": "Kavya, a girl in Class 4, tosses 4 coins at once. Which result is she most likely to get?",
        "opts": [
         "2 heads and 2 tails",
         "4 heads",
@@ -532,7 +532,7 @@
       },
       {
        "t": "mcq",
-       "p": "Lakshmi puts one ice cube on a steel plate and one on a wooden board. Which melts first?",
+       "p": "Lakshmi, a girl of nine, puts one ice cube on a steel plate and one on a wooden board. Which melts first?",
        "opts": [
         "The one on the steel plate",
         "The one on the wooden board",
@@ -565,7 +565,7 @@
      [
       {
        "t": "mcq",
-       "p": "Farhan has rolled a die 12 times and got no 6. What is his chance of a 6 on the next roll?",
+       "p": "Farhan, a boy in Class 4, has rolled a die 12 times and got no 6. What is his chance of a 6 on the next roll?",
        "opts": [
         "Still 1 in 6",
         "More than 1 in 6, because a 6 is due",
@@ -605,7 +605,7 @@
       },
       {
        "t": "mcq",
-       "p": "Revathi puts 32 coins in a box, shakes it and takes out every coin showing heads. About how many coins are left?",
+       "p": "Revathi, a girl of ten, puts 32 coins in a box, shakes it and takes out every coin showing heads. About how many coins are left?",
        "opts": [
         "about 16",
         "about 30",
@@ -647,7 +647,7 @@
      [
       {
        "t": "mcq",
-       "p": "Meenakshi tosses 10 coins at once. Which result is she most likely to get?",
+       "p": "Meenakshi, a girl of nine, tosses 10 coins at once. Which result is she most likely to get?",
        "opts": [
         "5 heads and 5 tails",
         "10 heads",
@@ -665,14 +665,14 @@
       },
       {
        "t": "fill",
-       "p": "Two things that happen together, without one causing the other, are a ____.",
+       "p": "Two things that happen together just by chance, without one causing the other, are a ____.",
        "a": [
         "coincidence"
        ]
       },
       {
        "t": "mcq",
-       "p": "Ammu and her brother Bala throw two dice again and again. Ammu wins a point when the total is 7. Bala wins a point when the total is 2 or 12. Who will usually win more points?",
+       "p": "Ammu, a girl of eight, and her brother Bala throw two dice again and again. Ammu wins a point when the total is 7. Bala wins a point when the total is 2 or 12. Who will usually win more points?",
        "opts": [
         "Ammu, because 7 can be made in 6 ways",
         "Bala, because he has two totals",
@@ -709,7 +709,7 @@
      [
       {
        "t": "mcq",
-       "p": "Tara and Ravi play the doubling game. Tara starts at 13 and Ravi at 14. Each doubles their number, and takes away 100 if it goes over 100. What happens after 8 steps?",
+       "p": "Two sisters, Tara and Nila, play the doubling game. Tara starts at 13 and Nila at 14. Each doubles their number, and takes away 100 if it goes over 100. What happens after 8 steps?",
        "opts": [
         "Their numbers are very far apart",
         "Their numbers are still 1 apart",
@@ -763,7 +763,7 @@
       },
       {
        "t": "write",
-       "p": "In July, more umbrellas are sold, and more people catch colds. Selvi says umbrellas cause colds. What is really going on?",
+       "p": "In July, more umbrellas are sold, and more people catch colds. Ishita, a girl in Class 4, says umbrellas cause colds. What is really going on?",
        "lines": 3
       }
      ]
@@ -810,9 +810,9 @@
        "t": "mcq",
        "p": "Hot filter coffee is left on the table in a room. After two hours, what is true?",
        "opts": [
-        "The coffee is the same temperature as the room",
-        "The coffee is colder than the room",
-        "The coffee is still hotter than the room, and the room is cold"
+        "It has cooled to about the temperature of the room",
+        "It is much colder than the room",
+        "It is still much hotter than the room"
        ],
        "a": 0
       },
@@ -868,7 +868,7 @@
       },
       {
        "t": "write",
-       "p": "Meenakshi says the air conditioner 'makes cold'. Explain where the heat from the room goes, and why the street outside gets a little warmer.",
+       "p": "Meenakshi, a girl of nine, says the air conditioner 'makes cold'. Explain where the heat from the room goes, and why the street outside gets a little warmer.",
        "lines": 4
       },
       {
@@ -961,7 +961,7 @@
    ],
    "predict": "Ask your child to guess first: 'How many coins will be left after the first shake? After the second? How many shakes until none are left?'",
    "observe": "The numbers go roughly 32, 16, 8, 4, 2, 1, 0, but never exactly. The second game gives slightly different numbers, with the same halving pattern. It usually takes about 5 to 8 shakes to empty the box.",
-   "why": "Each coin has an even chance of landing heads, and no coin knows what the others did. You can never say which coin goes next. But with many coins, about half go each shake. Radioactive atoms behave the same way. Each atom breaks down at a random moment, and nothing we know of decides when. But in a big lump, half the atoms break down in a fixed time, called the half-life. Carbon-14, found in all living things, has a half-life of about 5,730 years. Scientists use it to find the age of old wood and bones.",
+   "why": "Each coin has an even chance of landing heads, whatever the other coins do. You can never say which coin goes next. But with many coins, about half go each shake. Radioactive atoms behave the same way. Each atom breaks down at a random moment, and nothing we know of decides when. But in a big lump, half the atoms break down in a fixed time, called the half-life. Carbon-14, found in all living things, has a half-life of about 5,730 years. Scientists use it to find the age of old wood and bones.",
    "safety": "None.",
    "time": "16 min"
   }
@@ -1094,7 +1094,7 @@
     "The rule: double your number. If the answer is more than 100, take away 100.",
     "Each player writes their new number. Do 8 steps.",
     "Write the two lists side by side and find the difference at each step.",
-    "Try again with 50 and 51, if there is time."
+    "Try again with 20 and 21, if there is time."
    ],
    "outcome": "Two lists that start 1 apart and end far apart (28 and 84 after 8 steps), showing how a tiny difference grows under exact rules."
   }
@@ -1114,10 +1114,10 @@
    "id": "v2",
    "who": "Marie Curie (1867–1934), born in Poland, worked in France",
    "idea": "In 1898 Marie Curie found that the rays given out by uranium depend only on how much uranium there is, not on what it is mixed with. So the rays must come from inside the atoms themselves. She named this radioactivity. With her husband Pierre, she found two new elements, polonium and radium.",
-   "then": "The Nobel committee at first planned to give the 1903 Physics Prize only to Pierre Curie and Henri Becquerel. Pierre insisted that Marie be included, and she was. Later, Ernest Rutherford and Frederick Soddy showed that radioactive atoms break down at random, and that each kind has a fixed half-life.",
+   "then": "The Nobel committee at first planned to give the 1903 Physics Prize only to Pierre Curie and Henri Becquerel. Pierre insisted that Marie be included, and she was. Later, Ernest Rutherford and Frederick Soddy showed that radioactive atoms break down into other kinds of atoms, and Rutherford found that each kind halves in a fixed time, its half-life.",
    "now": "Accepted. Marie Curie won a second Nobel Prize, in Chemistry, in 1911. She is still the only person to win Nobel Prizes in two different sciences. Radioactivity is used to date old objects and to treat cancer.",
    "status": "accepted",
-   "ask": "The prize committee nearly left Marie Curie out, even though the work was hers. How could you make sure the right person gets the credit for a discovery?",
+   "ask": "The prize committee nearly left Marie Curie out, even though much of the work was hers. How could you make sure the right person gets the credit for a discovery?",
    "day": 6
   },
   {
@@ -1135,7 +1135,7 @@
    "who": "Pierre-Simon Laplace (1749–1827), France",
    "idea": "In 1814 Laplace wrote that a mind that knew every force in nature and the position of every particle could work out the whole future and the whole past exactly. To that mind, nothing would be uncertain. He used probability only because we don't know enough.",
    "then": "For more than a hundred years, many scientists agreed that the universe runs like clockwork, and that chance is only our lack of knowledge.",
-   "now": "Chaos shows that even with exact rules, you would need to know every starting number perfectly, which is impossible in practice. Experiments on atoms suggest some events, like when an atom breaks down, are truly random. In Class 2 you heard that Einstein disagreed with this, and Niels Bohr did not. Scientists and philosophers still argue about whether the universe is fully decided in advance.",
+   "now": "Chaos shows that even with exact rules, you would need to know every starting number perfectly, which is impossible in practice. Experiments on atoms suggest some events, like when an atom breaks down, are truly random. In Class 2 you heard that Einstein thought nothing is truly random, while Niels Bohr thought some tiny events have no cause that decides them. Scientists and philosophers still argue about whether the universe is fully decided in advance.",
    "status": "debated",
    "ask": "If someone could know everything about the world today, could they know what you will choose to eat tomorrow? What would they need to know?",
    "day": 7
@@ -1270,7 +1270,7 @@
     "back": "A came first. Water particles escape into the air and spread out (evaporation)."
    },
    {
-    "front": "A: a sharp new clay pot. B: a clay pot with a crack running across it.",
+    "front": "A: a new clay pot. B: the same pot with a crack running across it.",
     "back": "A came first. A crack grows but never heals by itself."
    }
   ]
@@ -1289,24 +1289,24 @@
    "She did not laugh. She took the spare die from the box of games, tore a page from her notebook, and drew six columns on it, numbered 1 to 6. 'Throw it a hundred times,' she said. 'Make a mark under each number. And every time you get a 1, write down how many throws you waited for it.'",
    "So I sat on the cool verandah floor and threw. The drums from the temple came in waves. A bat flew in and out under the tiles. My columns grew. After a hundred throws, the 1 column had 17 marks, and the 6 column had 15. They were nearly the same as the others. The die did not seem to hate any number.",
    "Then I looked at my list of waits. 2. 7. 1. 4. 12. 3. 6. And near the bottom of the page: 16. I had waited sixteen throws for a 1, alone on the verandah, with nobody counting and nobody laughing.",
-   "I showed Periyamma. She looked at the list for a long time. 'If many people each wait for a 1,' she said, 'about one in every fifteen will wait fifteen throws or more. It has to happen to somebody. Tonight it happened to you twice. The die doesn't remember. Every throw starts new.'",
+   "I showed Periyamma. She looked at the list for a long time. 'If many people each wait for a 1,' she said, 'about one in every fifteen will throw fifteen times without getting a 1. It has to happen to somebody. Tonight it happened to you twice. Earlier throws don't change the next one. Every throw starts new.'",
    "'Then why did they think I was unlucky?'",
    "'Because nobody counts the short waits,' she said. 'Only the long ones.'",
    "I went back inside. They were starting the third game. Arun picked up the die to throw for me, and I said, 'No, it's my turn,' and took it.",
    "I got a 1 on my third throw. Nobody cheered, because nobody had been counting. That was what I liked about it.",
    "Then it was Arun's turn. He threw a 5. Then a 3. Then a 6, a 6, a 4. He threw harder, as if that would help. Divya started to count, 'Six, seven,' and Arun's ears went red. At eleven, Priya said, in a very small voice, 'Maybe the die doesn't like Arun.'",
    "I held out my notebook page with the hundred marks and the list of waits. 'Look,' I said. 'Sixteen. I waited sixteen on the verandah. It's not you. It's just a long wait.'",
-   "Arun looked at the page. He looked at the die in his hand. Then he gave it a little shake next to his ear, the way you would shake a box to hear if something is inside, and said, 'It's empty. Nothing in there to remember anybody.'",
+   "Arun looked at the page. He looked at the die in his hand. Then he gave it a little shake next to his ear, the way you would shake a box to hear if something is inside, and said, 'Every throw is new. Even for me.'",
    "He threw. It was a 4. Nobody laughed. He threw again, and it was a 1, and he put his coin on the board without saying anything, and Divya moved her coin up a ladder, and outside the drums went on.",
    "We played until the sky over the gopuram turned grey. When the grown-ups came back from the temple, Periyamma looked at the board, then at my notebook page lying beside it, and gave me a small nod. In the morning, Priya asked me to teach her how to make the columns."
   ],
-  "epiphany": "For the parent: the story turns when Meenakshi's own tally shows that a 16-throw wait happened to her even when nobody was watching. Long waits are a normal part of real chance, and a die has no memory. The second turn is when Arun gets a long wait too, and Meenakshi uses what she found to stand with him instead of laughing back. 'Luck' was a story people told about a run of chance. The tally replaced the story with evidence.",
+  "epiphany": "For the parent: the story turns when Meenakshi's own tally shows that a 16-throw wait happened to her even when nobody was watching. Long waits are a normal part of real chance, and earlier throws don't change the next one. The second turn is when Arun gets a long wait too, and Meenakshi uses what she found to stand with him instead of laughing back. 'Luck' was a story people told about a run of chance. The tally replaced the story with evidence.",
   "ask": [
    "Why did Periyamma ask Meenakshi to throw the die a hundred times, instead of just telling her it was fair?",
    "What did Periyamma mean by 'nobody counts the short waits'?",
    "Why did Meenakshi like it that nobody cheered when she got her 1?",
    "When Arun had a long wait, Meenakshi could have laughed at him. Why do you think she showed him her notebook instead?",
-   "Arun shook the die and said it was empty. What did he mean?"
+   "Arun shook the die and said, 'Every throw is new. Even for me.' What did he mean?"
   ]
  },
  "ideas": [
@@ -1331,7 +1331,7 @@
   "How far ahead can weather ever be forecast? Most scientists think about two weeks for single days, but nobody knows the exact limit, or whether better data could push it further.",
   "Almost all the laws of physics work the same forwards and backwards in time. So why do we remember the past and not the future? Scientists link it to entropy, but they still argue about the full answer.",
   "Will the universe one day spread out so evenly that nothing more can happen? Some scientists think so, but nobody knows for sure how the universe will end.",
-  "Only a few natural quasicrystals have ever been found, in pieces of a meteorite. How did they form, and are there more out there? Scientists are still searching."
+  "Natural quasicrystals have been found in only a few places, such as grains of a meteorite from Russia. How did they form, and are there more out there? Scientists are still searching."
  ],
  "big": [
   "If the whole universe is slowly getting more mixed, how did stars, planets and living things become so ordered?",

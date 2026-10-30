@@ -11,7 +11,7 @@
 2. I can measure a plant's height in centimetres and millimetres, at the same time each day. I can write it in a results table.
 3. I can show my results in a bar chart and write a conclusion: what I think, what I saw, and why.
 4. I can read a plant's clues, like tall and pale, wilting, or yellow with soggy soil, and say which need is missing.
-5. I can explain that more is not always better. Too much water, too much heat or too much cold harms a plant, and each kind of plant has its own 'just right'.
+5. I can explain that more is not always better. Too much water, too much heat or too much cold harms a plant, and each kind of plant has their own 'just right'.
 6. I can give big examples. Plants sense light and warmth with special molecules. People grow plants in space. Scientists still have open questions about how plants sense warmth.
 
 ## Terms
@@ -76,7 +76,7 @@ Inside every living cell, tiny helpers called enzymes do the work of growing. Th
 - e.g. Moong sprouts in a fridge hardly grow. Moved to a warm room, they start growing again.
 - e.g. In a hot May afternoon, many balcony plants droop, and then recover in the cool evening.
 - e.g. In the Himalayas, many plants only grow in the short warm summer.
-### Each kind of plant has its own just right · *defined*
+### Each kind of plant has their own just right · *defined*
 **Definition:** Every kind of plant needs light, water and warmth, but each needs different amounts. These depend on the place their wild ancestors came from.
 
 A cactus and a fern need very different amounts of water. A cactus lives in dry, sunny places and stores water in their fat stem. Water them every day and they rot. A fern lives in damp, shady places. Put them in full summer sun and their leaves burn. Indian farmers know this well. Wheat is sown at the start of the cool winter, and rice at the start of the hot, wet monsoon. Each crop is planted when the weather is just right for it.
@@ -140,7 +140,7 @@ Many people say their plants grow better when they talk or sing to them. Some bo
 - Plants need light, water, air, suitable warmth and minerals to grow well. *How we know:* Farmers and gardeners have seen this for thousands of years. Scientists have tested each need with fair tests, taking it away and keeping everything else the same.
 - Seedlings grown in the dark grow tall, thin and pale, and die when their stored food runs out. *How we know:* Anyone can repeat the light test with moong in a week. The pale colour is because plants make chlorophyll only in light.
 - Roots need air. Waterlogged soil harms most plants. *How we know:* Roots kept in soaked soil turn brown and rot. Some plants do live in water, like rice, lotus and the mangroves of the Sundarbans. They have special air channels or breathing roots that carry air down.
-- Plants grow faster when warm and slower when cold, and each kind of plant has its own best range of temperature. *How we know:* Growth has been measured at different temperatures in many experiments. Farmers sow each crop in the season that suits it.
+- Plants grow faster when warm and slower when cold, and each kind of plant has their own best range of temperature. *How we know:* Growth has been measured at different temperatures in many experiments. Farmers sow each crop in the season that suits it.
 - We can only trust a test of what plants need if it changes one thing and uses more than one plant. *How we know:* When scientists repeat careful fair tests in different places, they get the same answers. Unfair tests give answers that do not repeat.
 
 ## How we found out
@@ -203,17 +203,17 @@ A moong seed holds the start of a plant: a tiny root, a tiny shoot and a store o
 - *big:* A plant cannot tell us in words what they need. How can we listen to something that does not use words? (hint: A plant doctor reads clues: drooping, yellow, leaning. A baby cannot use words either. How do people find out what a baby needs?)
 
 ## Story: A Stripe of Sun
-*Zoya, Nana, Ramanathan Mama, Arjun and the contest are made up. What happens to Zoya's moong is real: you can see it in this unit's light test.*
+*Zoya, Nani, Rukmini Mami, Arjun and the contest are made up. What happens to Zoya's moong is real: you can see it in this unit's light test.*
 
 In Zoya's lane in Triplicane, in Chennai, the buildings stood very close together. Neighbours could pass a bowl of kesari from one balcony to the next without leaning. Sunlight reached the lane for only about an hour each day. At eleven o'clock a thin yellow stripe slid down the wall opposite Zoya's window. For a while it touched the outer edge of the iron grille around her window. Then it was gone before lunch.
 
-In the May holidays, Ramanathan Mama from the ground floor made an announcement on the staircase. Every child in the building would get a paper cup of soil and five moong beans from his own kitchen. In two weeks there would be judging, right there on the landing. 'The tallest plant wins,' he said. He held up a mango so ripe that it smelt like a festival. 'A Malgova, from Salem. One.'
+In the May holidays, Rukmini Mami from the ground floor made an announcement on the staircase. Every child in the building would get a paper cup of soil and five moong beans from her own kitchen. In two weeks there would be judging, right there on the landing. 'The tallest plant wins,' she said. She held up a mango so ripe that it smelt like a festival. 'A Malgova, from Salem. One.'
 
-Arjun from the fourth floor carried his cup up to the terrace, where the sun beat down all day long. Kavitha's mother put hers on the kitchen window, next to the pressure cooker. Zoya put hers on her own windowsill, between Nana's spectacles case and a jar of buttons, facing the wall.
+Arjun from the fourth floor carried his cup up to the terrace, where the sun beat down all day long. Kavitha's mother put hers on the kitchen window, next to the pressure cooker. Zoya put hers on her own windowsill, between Nani's spectacles case and a jar of buttons, facing the wall.
 
 On the third day, two pale loops pushed up through Zoya's soil, like the handles of tiny bags. By the fifth day the loops had straightened and shot up past the rim of the cup. Zoya measured them every evening with her school ruler, from the soil to the very top. She wrote the numbers on the back of an old calendar. Four centimetres. Seven. Ten and a half.
 
-Every evening she climbed to the terrace to look at Arjun's cup. His plants were short. They were hardly past the rim. 'Mine is winning,' she told Nana, who sat by the window every afternoon doing the crossword. 'Hm,' said Nana. That was what he said when he did not agree, but wanted you to find out for yourself.
+Every evening she climbed to the terrace to look at Arjun's cup. His plants were short. They were hardly past the rim. 'Mine is winning,' she told Nani, who sat by the window every afternoon doing the crossword. 'Hm,' said Nani. That was what she said when she did not agree, but wanted you to find out for yourself.
 
 Arjun's moong was short, but the plants were thick, and dark green. Each stem held up two round leaves, open flat like hands waiting for something to be put into them. Zoya's moong was tall, but the plants were a pale, washed-out yellow-green. Their leaves were small and only half open. And every stem leaned the same way, towards the window, as if they were listening for a voice outside.
 
@@ -223,15 +223,15 @@ At eleven o'clock the stripe of sun arrived on the wall opposite. Zoya was sitti
 
 Zoya looked at her calendar of numbers. Four, seven, ten and a half, fourteen, eighteen. They did not look like winning numbers any more. They looked like someone running. Running and running down a long dark corridor towards a door far away, spending everything they had. Each moong bean had carried a little food inside, enough to get started. Arjun's plants had spent theirs on opening green leaves, and then the sun had fed them. Hers had never found enough sun. So they had spent every crumb on getting taller.
 
-Zoya went into the kitchen and came back with Ammi's biggest steel thali, the one kept for guests. She leaned out to the edge of the grille, where the stripe of sun touched it, and tilted the thali. A bright, wobbly circle of light landed on the windowsill. It slid across the buttons, and onto the cup. 'Ammi will want that back by dinner,' said Nana, without looking up. But he put down his pen and held the thali steady while she tied it to the grille with string.
+Zoya went into the kitchen and came back with Ammi's biggest steel thali, the one kept for guests. She leaned out to the edge of the grille, where the stripe of sun touched it, and tilted the thali. A bright, wobbly circle of light landed on the windowsill. It slid across the buttons, and onto the cup. 'Ammi will want that back by dinner,' said Nani, without looking up. But she put down her pen and held the thali steady while Zoya tied it to the grille with string.
 
 That afternoon, Zoya sowed five more moong in a second cup and set it where the circle of light fell. Every day at eleven she turned the thali a little, to follow the sun. It was like turning the pages of a slow book.
 
-On judging day, eleven cups stood in a row on the landing. Ramanathan Mama walked along them with his tailor's tape. Zoya's first cup was still the tallest, even propped on their pencil: nineteen centimetres. Arjun's was nine. Kavitha's had got too hot next to the cooker and given up. 'Zoya!' said Ramanathan Mama, and held out the mango.
+On judging day, eleven cups stood in a row on the landing. Rukmini Mami walked along them with her tailor's tape. Zoya's first cup was still the tallest, even propped on their pencil: nineteen centimetres. Arjun's was nine. Kavitha's had got too hot next to the cooker and given up. 'Zoya!' said Rukmini Mami, and held out the mango.
 
 Zoya did not take it. Her face was burning. 'They are tall because they are hungry,' she said. Everyone looked at her. She tried again. 'This is not the best plant. This is the plant that was looking hardest. Arjun's is the one that found what they were looking for.'
 
-Ramanathan Mama looked at the yellow plant leaning on their pencil for a long time. Then he looked at Arjun's, short and green and stubborn. He rolled up his tape. 'Then next year,' he said slowly, 'I will need a better ruler.'
+Rukmini Mami looked at the yellow plant leaning on their pencil for a long time. Then she looked at Arjun's, short and green and stubborn. She rolled up her tape. 'Then next year,' she said slowly, 'I will need a better ruler.'
 
 Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chins. But Zoya hardly tasted her slice. She was thinking of the second cup on her windowsill downstairs. Its plants were only as tall as her little finger. They were green as a parrot. And they were leaning, every one of them, towards an old steel thali full of sun.
 
@@ -240,7 +240,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 - Ask: Zoya's moong grew the tallest. Why weren't they the healthiest?
 - Ask: Which way were all Zoya's plants leaning? What were they looking for?
 - Ask: How did the steel thali help the second cup of moong?
-- Ask: Ramanathan Mama said he would need 'a better ruler' next year. What else could he measure, to find the healthiest plant?
+- Ask: Rukmini Mami said she would need 'a better ruler' next year. What else could she measure, to find the healthiest plant?
 - Ask: Have you ever won, or lost, because of the wrong kind of measuring? For example, the most marks but not the best understanding?
 
 ## Games
@@ -278,7 +278,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   - Think: Which cards were about too little of something? Which were about too much?
 ### g2 · Fair or Unfair? (20 min)
 - **rules:** Shuffle the 16 test cards and put them face down.; One player reads a test card out loud.; Everyone holds up a paddle at the same time: FAIR or UNFAIR.; If it is unfair, the first player to name the extra thing that changed wins a token.; A second token goes to anyone who says how to fix the test, so only one thing changes.; After all the cards, the player with the most tokens is the Chief Fair Tester.
-- **Printable cards: 16 test cards to cut out:** Ravi puts one moong cup in the sun and one in a cupboard. He waters both with 2 spoons a day.; Meena puts one moong cup in the sun and one in a cupboard. She forgets to water the cupboard cup.; Sam tests if plants need water. He uses a tiny seedling with no water and a big plant with water.; Aisha grows 3 cups with water every day and 3 cups with no water, all on the same windowsill.; Karthik puts methi in the fridge and moong in a warm room to see if warmth matters.; Kavya puts 10 sprouts in the fridge, 10 in a cupboard and 10 on top of the fridge, all in closed dark boxes.; Tara measures her light cup in the morning and her dark cup at night.; Joseph measures every cup at 6 o'clock every evening, from the soil to the top of the tallest seedling.; Zara tests soil from the garden against soil from a shop. She also uses a bigger pot for the shop soil.; Nithin grows one seed in the sun and one seed in the shade, then says the sun is better.; Ananya uses the same spoon to water every cup, and fills it to the brim each time.; Vishnu tests music on his plants. The music plant is in his bedroom window. The quiet plant is in the bathroom.; Leela tests green cellophane and clear cellophane over two cups. Both cups are the same, side by side.; Omar waters his sunny plant with tap water and his shady plant with fridge water.; Priya plants the same moong seeds in the same soil, in the same cups, and only changes how much water.; Anand tests warmth with one box in the fridge and one box on a sunny windowsill without a lid.
+- **Printable cards: 16 test cards to cut out:** Revathi puts one moong cup in the sun and one in a cupboard. She waters both with 2 spoons a day.; Meena puts one moong cup in the sun and one in a cupboard. She forgets to water the cupboard cup.; Shalini tests if plants need water. She uses a tiny seedling with no water and a big plant with water.; Aisha grows 3 cups with water every day and 3 cups with no water, all on the same windowsill.; Karthik puts methi in the fridge and moong in a warm room to see if warmth matters.; Kavya puts 10 sprouts in the fridge, 10 in a cupboard and 10 on top of the fridge, all in closed dark boxes.; Tara measures her light cup in the morning and her dark cup at night.; Josna measures every cup at 6 o'clock every evening, from the soil to the top of the tallest seedling.; Zara tests soil from the garden against soil from a shop. She also uses a bigger pot for the shop soil.; Nithin grows one seed in the sun and one seed in the shade, then says the sun is better.; Ananya uses the same spoon to water every cup, and fills it to the brim each time.; Vaishnavi tests music on her plants. The music plant is in her bedroom window. The quiet plant is in the bathroom.; Leela tests green cellophane and clear cellophane over two cups. Both cups are the same, side by side.; Omar waters his sunny plant with tap water and his shady plant with fridge water.; Priya plants the same moong seeds in the same soil, in the same cups, and only changes how much water.; Anjali tests warmth with one box in the fridge and one box on a sunny windowsill without a lid.
 - **Printable cards: Two paddles to hold up:** FAIR ✅; UNFAIR ❌
 - **Printable tokens: 20 magnifying-glass tokens:** 🔍
 - **s1 (2 min)**  
@@ -294,7 +294,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   *Parent does:* 1. Take turns reading the cards. 2. Everyone holds up a paddle together. 3. Give tokens for naming the extra change, and for a good fix.  
   *Parent says:* Paddles up! If it's unfair, what else changed? How would you fix it?  
   *Child mode:* Paddles up! If it is unfair, say what else changed. Then say how to fix it.
-  - Note: The fair ones are Ravi, Aisha, Kavya, Joseph, Ananya, Leela and Priya. The unfair ones are these. Meena changed water too. Sam changed plant size. Karthik changed the kind of seed. Tara changed the time of measuring. Zara changed pot size. Nithin used only one seed each, so it could be a fluke. Vishnu changed light and warmth. Omar changed water temperature. Anand changed light and the lid as well as warmth. Nithin's test is a good one to argue about. Only one seed is not exactly unfair, but it cannot be trusted.
+  - Note: The fair ones are Revathi, Aisha, Kavya, Josna, Ananya, Leela and Priya. The unfair ones are these. Meena changed water too. Shalini changed plant size. Karthik changed the kind of seed. Tara changed the time of measuring. Zara changed pot size. Nithin used only one seed each, so the result could be a fluke. Vaishnavi changed light and warmth. Omar changed water temperature. Anjali changed light and the lid as well as warmth. Nithin's test is a good one to argue about. Only one seed is not exactly unfair, but it cannot be trusted.
 - **s4 (3 min)**  
   *Parent does:* Finish with the scoring, then ask the closing question.  
   *Parent says:* Why do scientists care so much about changing only one thing?  
@@ -716,137 +716,121 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   - Think: The buried clay pot idea is very old. Why do you think people kept using it for so long?
 
 ## Worksheets
-### What a Plant Needs (core) (core, 17 questions)
-1. (mcq) Which of these does a plant NOT need to grow well?  
-   Options: Light / Water / Air / Darkness all day  
-   **Answer:** Darkness all day. *Why:* Plants need light, water, air, warmth and minerals. A seedling kept in the dark all day grows pale and weak. Picking 'air' usually means forgetting that roots and leaves breathe. Plants need air too.
-2. (fill) A test where you change only one thing and keep everything else the same is called a ____ test.  
-   **Answer:** ['fair']. *Why:* In a fair test, only one thing is different, so you know what caused the result.
-3. (mcq) Look at the chart. The dark seedlings were taller. What else did you notice about them?  
-   Options: They were greener / They were pale, thin and floppy / They had more leaves  
-   **Answer:** They were pale, thin and floppy. *Why:* In the dark, seedlings stretch tall to find light. They cannot make their green colour or food, so they are pale and weak. Picking 'greener' means thinking taller must be healthier.
-4. (mcq) In the light test, what is the one thing we change?  
-   Options: The kind of seed / The light / The amount of water / The soil  
-   **Answer:** The light. *Why:* We change only the light. Everything else, like the seeds, soil and water, stays the same. Picking 'water' is a common slip. If water changed too, we couldn't tell which one made the difference.
-5. (truefalse) If you forget to water the dark cup in the light test, the test is still fair.  
-   **Answer:** False. *Why:* False. Then two things are different: light and water. You could not tell which one caused the result.
-6. (mcq) Look at the chart. Which group grew best?  
-   Options: NONE / JUST RIGHT / SOAKED  
-   **Answer:** JUST RIGHT. *Why:* The JUST RIGHT group was tallest, at 13 cm. Picking SOAKED usually means thinking more water is always better. But soaked roots cannot breathe.
-7. (mcq) Why did the SOAKED seedlings turn yellow?  
-   Options: They had too little water / Their roots could not get air, so they started to rot / They had too much light  
-   **Answer:** Their roots could not get air, so they started to rot. *Why:* Soaked soil has no air spaces left. Roots need air to breathe, so they rot. Picking 'too little water' is a mix-up: a yellow plant in soggy soil has too much water, not too little.
-8. (fill) When a plant droops and goes floppy because of too little water, we say the plant ____.  
-   **Answer:** ['wilts', 'wilted', 'is wilting']. *Why:* A wilting plant's cells are going soft, like balloons losing air.
-9. (mcq) Look at the chart. Where did the sprouts grow least?  
-   Options: Fridge / Cupboard / Warm spot  
-   **Answer:** Fridge. *Why:* In the cold fridge, the sprouts hardly grew: only 1 cm for all 5 together. Cold slows down the work of growing. Picking 'warm spot' means picking the tallest bar instead of the shortest.
-10. (mcq) Why did we cover all three bowls in the warmth test with plates?  
-   Options: To keep flies away / Because the fridge is dark, so all the bowls must be dark too / To keep them warm  
-   **Answer:** Because the fridge is dark, so all the bowls must be dark too. *Why:* The inside of a fridge is dark. If only the fridge bowl was dark, light would change as well as warmth. Covering all three keeps light the same. Picking 'to keep them warm' misses that the plates are about light, not warmth.
-11. (match) Match each plant clue to the need that is missing.  
-   **Answer:** Tall, pale and leaning → light; Drooping, with dry soil → water; Yellow, with soggy soil → air for the roots; Roots coming out of the hole → space. *Why:* A plant's look tells you which need is missing. Leaning and pale means light. Drooping in dry soil means water. Yellow in soggy soil means the roots have no air. Roots out of the hole means they need a bigger pot.
-12. (sort) Sort these. Is it good care or bad care for a tulsi plant?  
-   **Answer:** putting them on a sunny balcony → Good care; watering when the top of the soil is dry → Good care; standing the pot in a full bucket of water → Bad care; keeping them in a dark cupboard → Bad care; using a pot with a hole in the bottom → Good care; watering them five times a day → Bad care. *Why:* Good care gives each need in the right amount. Too much water and too little light both harm a plant.
-13. (mcq) A moong seedling is 3 cm tall on Monday and 5 cm tall on Wednesday. How much did they grow?  
-   Options: 8 cm / 2 cm / 5 cm  
-   **Answer:** 2 cm. *Why:* 5 take away 3 is 2. So they grew 2 cm. Picking 8 means adding the two heights instead of finding the difference. Picking 5 gives their height, not their growth.
-14. (truefalse) When you measure a seedling, the 0 on the ruler goes at the soil.  
-   **Answer:** True. *Why:* True. A plant's height is measured from the soil to their highest point.
-15. (write) Why do we test 3 cups of seedlings in the light and 3 in the dark, instead of just 1 of each?  
-   **Answer:** Because one cup could be a fluke. For example, it might have bad seeds. With 3 cups we can see if they all do the same thing, and use the middle one.. *Why:* Repeating a test makes the result more trustworthy.
-16. (write) Name three things a plant needs. For each one, say what happens if it gets too little.  
-   **Answer:** Light: they grow tall, pale and weak. Water: they wilt and dry up. Warmth: they grow very slowly. Any three needs with a correct result are right.. *Why:* A good answer names a need and its effect, using what was seen in the tests.
-17. (draw) Draw two seedlings: one grown in the light and one grown in the dark. Label the differences.  
-   **Answer:** The light seedling is short, thick and green, with open leaves. The dark seedling is tall, thin, pale yellow and bent, with tiny closed leaves.. *Why:* Drawing the differences shows that height is not the same as health.
-### Fair Tests and Plant Clues (stretch) (stretch, 17 questions)
+### What a Plant Needs (core) (core, 16 questions)
+1. (mcq) Lakshmi keeps a cup of moong seedlings under an upside-down cardboard box for a week. She waters them just like her other cup. What will they look like when she lifts the box?  
+   Options: Short and dark green / Tall, thin and pale yellow, with small folded leaves / Exactly the same as the seedlings in the light  
+   **Answer:** Tall, thin and pale yellow, with small folded leaves. *Why:* In the dark, a seedling spends their stored food on stretching up to find light. They cannot make green chlorophyll without light, so they stay pale. Picking 'short and dark green' means guessing that the dark only slows a plant down. In fact the dark makes them grow taller, but weaker.
+2. (write) Many people think the tallest plant is the healthiest. In the light test, the dark seedlings grew tallest. Why were they not the healthiest?  
+   **Answer:** They were tall only because they were stretching to find light. They were pale, thin and floppy, with small folded leaves, and some fell over. The short seedlings in the light were green, with open leaves and strong stems.. *Why:* A strong answer uses what the child saw: colour, leaves and stem, not only height. Height alone can fool you.
+3. (fill) A test where you change only one thing and keep everything else the same is called a ____ test.  
+   **Answer:** ['fair']. *Why:* In a fair test only one thing is different, so you know that this one thing caused the result.
+4. (mcq) Look at the chart from the water test. The SOAKED cups got the most water. Why did they grow less than the JUST RIGHT cups?  
+   Options: They had too little water / Their soil was full of water, so the roots could not get air / They got too much light  
+   **Answer:** Their soil was full of water, so the roots could not get air. *Why:* Wet soil still has tiny air spaces. Soaked soil has none, because water fills them all. Roots need air, so they start to rot. Picking 'too little water' is a mix-up: these cups had the most water of all.
+5. (sort) Sort these. Is each one good care or bad care for a tulsi plant?  
+   **Answer:** putting them on a sunny balcony → Good care; watering when the top of the soil feels dry → Good care; standing the pot in a bucket full of water → Bad care; keeping them in a dark cupboard → Bad care; using a pot with a hole in the bottom → Good care; watering them five times a day → Bad care. *Why:* Good care gives each need in the right amount. Too much water and too little light both harm a plant. A hole in the pot lets extra water run out, so the roots keep their air.
+6. (match) Each plant is showing a clue. Match the clue to the need that is missing.  
+   **Answer:** Tall, pale and leaning → light; Drooping, with dry soil → water; Yellow, with soggy soil → air for the roots; Roots coming out of the hole → space. *Why:* A plant's look tells you which need is missing. Pale and leaning means too little light. Drooping in dry soil means too little water. Yellow in soggy soil means the roots have no air. Roots out of the hole means they need a bigger pot.
+7. (mcq) Nandini keeps one bowl of moong sprouts in the fridge and one in a kitchen cupboard. Both are covered with plates. After 3 days, which sprouts will have grown more?  
+   Options: The fridge sprouts / The cupboard sprouts / Both the same  
+   **Answer:** The cupboard sprouts. *Why:* Cold slows down the work of growing. The fridge is about 5 °C and a kitchen cupboard is about 27 °C, so the cupboard sprouts grow much more. Picking 'both the same' means thinking that only light and water matter.
+8. (write) In the warmth test, the fridge is dark inside. Why do we cover the cupboard bowl and the warm bowl with plates too?  
+   **Answer:** So all three bowls are in the dark. Then the only thing that is different is how warm they are. If only the fridge bowl was dark, both light and warmth would change, and we could not tell which one made the difference.. *Why:* A strong answer says the plates keep the light the same, so warmth is the only thing that changes.
+9. (draw) Draw two seedlings: one grown in the light and one grown in the dark. Label three differences.  
+   **Answer:** The light seedling is short, thick and green, with open leaves. The dark seedling is tall, thin and pale yellow, bent over, with tiny folded leaves.. *Why:* A strong drawing labels colour, leaves and stem, not only height.
+10. (perspective) It is May in Chennai. Lakshmi, her grandmother and her mother disagree about how to water the tulsi plant on their sunny balcony.  
+   **Answer:** A strong answer picks a side and backs it with evidence. Lakshmi's finger test works in every season, and the SOAKED cups showed that too much water harms roots. A strong answer also gives others their due. Paati is right that a pot in the Chennai sun may really need water twice a day. Amma's saucer is fine if it is emptied, but kept full it soaks the soil like the SOAKED cups.. *Why:* There is a real trade-off. Too little water and too much water both harm a plant, and the right amount changes with the weather. Checking the soil is a way to find the right amount each day.
+11. (mcq) Farida measures her moong seedling from the rim of the cup, not from the soil. What goes wrong?  
+   Options: Her numbers are too small, because she misses the part of the stem inside the cup / Her numbers are too big / Nothing goes wrong  
+   **Answer:** Her numbers are too small, because she misses the part of the stem inside the cup. *Why:* The soil is lower than the rim. Measuring from the rim leaves out the bottom of the stem, so every height is too small. A plant's height is measured from the soil to their highest point.
+12. (fill) When a plant droops and goes floppy because they have too little water, we say the plant ____.  
+   **Answer:** ['wilts', 'wilted', 'is wilting']. *Why:* A plant's cells are firm when full of water, like a blown-up balloon. Without water they go soft, and the plant droops.
+13. (mcq) Revathi grows one cup of moong in the light and one cup in the dark. Her teacher says she should grow 3 cups of each. Why?  
+   Options: One cup can be a fluke, for example if the seeds in it were bad / Three cups are easier to water / One cup is not fair to the seeds  
+   **Answer:** One cup can be a fluke, for example if the seeds in it were bad. *Why:* If one cup does something odd, you cannot tell whether it was the light or just bad luck. With 3 cups you can see if they all do the same thing. Then you use the middle result.
+14. (truefalse) A plant's roots need air, as well as water.  
+   **Answer:** True. *Why:* True. Roots breathe in air from the tiny spaces in the soil. That is why the SOAKED cups, with no air spaces left, turned yellow and rotted.
+15. (truefalse) A plant can grow without any soil, if their roots get water and minerals.  
+   **Answer:** True. *Why:* True. A money plant grows in a jar of water. Plants need what the soil gives them, water and minerals, not the soil itself.
+16. (write) Your plant is drooping and their soil is dry. Your friend's plant is also drooping, but their soil is wet and smells bad. Should you both water your plants? Explain.  
+   **Answer:** I should water mine, because dry soil means they are short of water. My friend should not. Wet, smelly soil means the roots have too much water and no air, and they are starting to rot. My friend should let the soil dry out and check that the pot has a hole.. *Why:* The same clue, drooping, can have two opposite causes. A strong answer looks at the soil before deciding.
+### Fair Tests and Plant Clues (stretch) (stretch, 16 questions)
 1. (mcq) Kavya wants to test if plants need light. Which test is fair?  
-   Options: One pot in the sun with water, one pot in a cupboard with no water / Two pots of the same seedlings and soil, both watered the same, one in the sun and one in a cupboard / A big plant in the sun and a tiny plant in the cupboard  
+   Options: One pot in the sun with water, and one pot in a cupboard with no water / Two pots of the same seedlings and soil, both watered the same, one in the sun and one in a cupboard / A big plant in the sun and a tiny plant in the cupboard  
    **Answer:** Two pots of the same seedlings and soil, both watered the same, one in the sun and one in a cupboard. *Why:* Only the light is different in this test. Picking the first one means missing that water changed too. Picking the third means missing that the plants were different sizes.
-2. (mcq) Look at the chart. The dark seedlings were 14 cm and the light ones were 8 cm. How much taller were the dark ones?  
-   Options: 22 cm / 6 cm / 14 cm  
-   **Answer:** 6 cm. *Why:* 14 take away 8 is 6. So the dark seedlings were 6 cm taller. Picking 22 means adding instead of finding the difference.
-3. (mcq) Joseph measured three cups in the light: 8 cm, 9 cm and 8 cm. What is the middle value?  
+2. (mcq) Rice plants stand in water in flooded fields. Why don't their roots rot, like our soaked moong?  
+   Options: Rice roots don't need air / Rice plants have air channels that carry air down to their roots / The water in rice fields is special  
+   **Answer:** Rice plants have air channels that carry air down to their roots. *Why:* Rice, lotus and mangroves all have ways to get air down to their roots. Moong does not. 'Rice roots don't need air' is a common guess, but all roots need air. Rice plants have their own air pipes.
+3. (mcq) Selvi waters her cactus every day, like her other plants. After a few weeks, the cactus stem goes soft and black at the bottom. What happened?  
+   Options: The cactus got too little water / The roots rotted from too much water, because a cactus needs very little / The cactus needed more sun  
+   **Answer:** The roots rotted from too much water, because a cactus needs very little. *Why:* A cactus comes from dry places and needs only a little water. Daily watering drowns their roots. Picking 'too little water' means using one rule for every plant. Each kind of plant has their own just right.
+4. (write) Plan a fair test to find out if methi grows better in sunlight or in a shady corner. Say what you will change, what you will keep the same, and what you will measure.  
+   **Answer:** I will change only the place: 3 cups of methi in the sun and 3 cups in the shade. I will keep the same seeds, soil, cups and water. Every two days I will measure the tallest seedling in each cup and count the green leaves.. *Why:* A strong plan names one thing to change, several things to keep the same, and what to measure. It uses more than one cup in each place.
+5. (draw) Draw a bar chart of the water test results: NONE 5 cm, JUST RIGHT 13 cm, SOAKED 8 cm. Label the bottom line and the side line.  
+   **Answer:** Three bars. NONE is 5 squares tall, JUST RIGHT is 13 and SOAKED is 8. The bottom line says 'Group' and the side line says 'Height (cm)'.. *Why:* A bar chart shows at a glance which group grew best.
+6. (mcq) Usha says: 'My plant grows well because I talk to them every day.' What is the best question to ask her?  
+   Options: What do you say to your plant? / Do you also water and check that plant more than your other plants? / Is it a big plant?  
+   **Answer:** Do you also water and check that plant more than your other plants?. *Why:* Talking to a plant usually comes with more care, so more than one thing changes. Picking 'what do you say' takes it for granted that talking is the cause, before anyone has tested it.
+7. (sort) Is this a need that a plant has, or something they can live without?  
+   **Answer:** light → A need; soil itself → Can live without; water → A need; music → Can live without; air for their roots → A need; minerals → A need. *Why:* Plants need light, water, air and minerals. They do not need soil itself, only what it gives them. Music has not been shown to help plants grow.
+8. (mcq) Josna measured her three cups in the light: 8 cm, 9 cm and 8 cm. What is the middle value?  
    Options: 8 cm / 9 cm / 25 cm  
    **Answer:** 8 cm. *Why:* Put them in order: 8, 8, 9. The middle one is 8. Picking 25 means adding them all up. The middle value is one of the numbers, not their total.
-4. (mcq) A yellow dark-grown seedling is put back on the windowsill. What usually happens in a day or two?  
-   Options: They turn green / They die at once / They stay yellow for ever  
-   **Answer:** They turn green. *Why:* In the light, the seedling starts making green chlorophyll. Picking 'dies at once' underestimates how quickly plants respond. They only die if they stay in the dark until their stored food runs out.
-5. (mcq) Rice grows standing in water in flooded fields. Why don't the rice plants drown, like our soaked moong?  
-   Options: Rice doesn't need air / Rice has air channels that carry air down to their roots / The water in rice fields is special  
-   **Answer:** Rice has air channels that carry air down to their roots. *Why:* Rice, lotus and mangroves all have ways to get air down to their roots. Moong does not. Picking 'rice doesn't need air' is a common guess. But all roots need air. Rice plants just have their own pipes for it.
-6. (mcq) Look at the chart. The fridge sprouts were then moved into the warm room. What most likely happened?  
-   Options: They stayed the same, because they were dead / They started growing again / They grew backwards  
-   **Answer:** They started growing again. *Why:* Cold slows growth down but does not kill moong sprouts quickly. In the warm, their helper molecules speed up again. Picking 'they were dead' mixes up 'not growing' with 'dead'.
-7. (truefalse) The hotter it is, the faster a plant always grows.  
-   **Answer:** False. *Why:* False. Warmth speeds growth up only to a point. Too much heat makes a plant lose water fast, and very high heat harms their helper molecules.
-8. (mcq) Wheat is sown in winter in Punjab. Rice is sown at the start of the monsoon. Why?  
-   Options: Farmers like to keep busy / Each crop has its own just-right warmth and water / Wheat seeds are only sold in winter  
-   **Answer:** Each crop has its own just-right warmth and water. *Why:* Wheat grows best in cool weather, and rice needs warmth and lots of water. Farmers match each crop to its season. Picking a reason about selling or being busy misses that it is about what each plant needs.
-9. (sort) Is this a need a plant has, or something they can live without?  
-   **Answer:** light → A need; soil itself → Can live without; water → A need; music → Can live without; air for their roots → A need; minerals → A need. *Why:* Plants need light, water, air and minerals. They do not need soil itself, only what it gives. A money plant grows in a jar of water. Music has not been shown to help.
-10. (fill) Growing plants with their roots in water mixed with minerals, and no soil, is called ____.  
+9. (mcq) In Ooty, high up in the Nilgiri hills, farmers grow lots of carrots and cabbages. In hot Chennai, few people grow them. Why?  
+   Options: Ooty soil is the only soil carrots like / Carrots and cabbages grow best in cool weather, and Ooty is cool because it is high up / Chennai has no water for farms  
+   **Answer:** Carrots and cabbages grow best in cool weather, and Ooty is cool because it is high up. *Why:* Each kind of plant has their own just-right warmth. High places are cooler, so the Nilgiris suit cool-weather crops. Picking 'soil' misses that warmth is one of a plant's needs.
+10. (perspective) In the story, Rukmini Mami promised a mango to the child with the tallest moong. Zoya's moong was the tallest, but pale and falling over. Arjun's was short and dark green.  
+   **Answer:** A strong answer picks a side and uses evidence: the dark seedlings in the light test were tallest but pale and weak, just like Zoya's. It also gives the others their due. Rukmini Mami is right that changing a rule at the end is unfair to everyone who followed it. Kavitha's idea fixes the problem for next year.. *Why:* There is a real trade-off here. A rule everyone agreed to matters. But the rule measured the wrong thing, because height alone does not show health.
+11. (write) Meera's money plant sits in a dark corner of the hall. The plant grows long, thin stems with small leaves far apart. Which need is in short supply? What would you change?  
+   **Answer:** Light is in short supply. The plant is stretching towards light, like the dark seedlings. I would move the plant near a bright window, or bounce light onto them with a mirror or a steel plate, like Zoya's thali.. *Why:* Long, thin stems with leaves far apart are the clue of too little light. A strong answer names the need and gives a cure that adds light.
+12. (truefalse) Moong sprouts kept in a fridge for 3 days are dead and will never grow again.  
+   **Answer:** False. *Why:* False. Cold slows the sprouts down, but 3 days in a fridge does not kill them. Back in a warm room they start growing again. 'Not growing' is not the same as 'dead'.
+13. (truefalse) A pale yellow seedling from the dark turns green within a day or two after being put in the light.  
+   **Answer:** True. *Why:* True. In the light, the seedling starts making green chlorophyll. They only die if they stay in the dark until their stored food runs out.
+14. (fill) Growing plants with their roots in water mixed with minerals, and no soil, is called ____.  
    **Answer:** ['hydroponics']. *Why:* Hydroponic farms grow lettuce and herbs this way, on rooftops and even in space.
-11. (mcq) Zoya's moong grew very tall but pale, with folded leaves, in a dim window. What was their shortest plank, the need in shortest supply?  
-   Options: Water / Light / Warmth  
-   **Answer:** Light. *Why:* Tall, pale and leaning are the clues of too little light. Picking 'water' is common, but a thirsty plant droops in dry soil. They do not grow tall and pale.
-12. (mcq) Someone says: 'My plant grows well because I talk to them.' What is the best question to ask?  
-   Options: What do you say to them? / Did you also water and check them more than your other plants? / Is the plant a big one?  
-   **Answer:** Did you also water and check them more than your other plants?. *Why:* Talking usually comes with more care, so more than one thing changes. That makes it an unfair test. Picking 'what do you say' assumes talking is the cause before testing it.
-13. (order) Put the steps of the light test in order.  
-   **Answer:** order shown. *Why:* First you set up the cups. Then you change the one thing. Then you care for them all the same way and measure. Last, you show and explain your results.
-14. (mcq) A cactus is watered every day and their stem goes soft and black. What happened?  
-   Options: They got too little water / Their roots rotted from too much water, because a cactus needs very little / They needed more sun  
-   **Answer:** Their roots rotted from too much water, because a cactus needs very little. *Why:* A cactus comes from dry places and needs only a little water. Daily watering drowns their roots. Picking 'too little water' means using one rule for every plant. Each plant has their own just right.
-15. (write) Ramanathan Mama said the tallest plant would win. In the story, why was that a bad way to choose the healthiest plant? What would you measure instead?  
-   **Answer:** The tallest plant was tall because they were starving for light and stretching. They were pale and weak. I would also count the green leaves, look at the colour, and check if the stem is strong.. *Why:* Height alone can be misleading. Good scientists choose what to measure carefully.
-16. (write) Plan a fair test to find out if methi grows better in sunlight or in a shady corner. Say what you will change, what you will keep the same, and what you will measure.  
-   **Answer:** I will change only the place: one group of methi cups in the sun and one in the shade. I will keep the same seeds, soil, cups and water. I will measure the height of the tallest seedling in each cup every two days, and count the green leaves.. *Why:* A good plan names one thing to change, several things to keep the same, and one thing to measure.
-17. (draw) Draw a bar chart for these heights: NONE 5 cm, JUST RIGHT 13 cm, SOAKED 8 cm. Label the bottom line and the side line.  
-   **Answer:** Three bars. NONE is 5 squares tall, JUST RIGHT 13 squares and SOAKED 8 squares. The bottom line says 'Group' and the side line says 'Height (cm)'.. *Why:* A bar chart shows at a glance which group grew best.
-### Just Right, Deep Down and in Space (challenge) (challenge, 17 questions)
-1. (mcq) In the warmth test, the warm spot at 33 °C gave the most growth. Could you say that moong grows best at the hottest place possible?  
-   Options: Yes, the hotter the better / No. We only tested three temperatures. Above a certain point, heat harms plants / Yes, because the warm bar was tallest  
-   **Answer:** No. We only tested three temperatures. Above a certain point, heat harms plants. *Why:* We did not test hotter places, so we cannot say what happens there. Other experiments show that great heat harms plants. Picking 'the hotter the better' stretches the result beyond what was tested. Good scientists only claim what their test showed.
-2. (mcq) Under green cellophane, seedlings often grow taller and paler, as in dim light. Why?  
-   Options: Green is a cold colour / Leaves use red and blue light most and bounce back much of the green, so they get less of the light they use / Green cellophane is poisonous  
-   **Answer:** Leaves use red and blue light most and bounce back much of the green, so they get less of the light they use. *Why:* A leaf looks green because it reflects more green light than other colours. So green light is the colour it uses least. Picking 'cold colour' mixes up how colours feel to us with what plants use.
-3. (mcq) A plant in a dark corner gets extra fertiliser but grows no better. What does this show?  
-   Options: Fertiliser never works / Their growth was held back by their scarcest need, light, so more minerals did not help / The plant was dead  
-   **Answer:** Their growth was held back by their scarcest need, light, so more minerals did not help. *Why:* This is the idea of the shortest plank. Extra of one need does not help if another need is in short supply. Picking 'fertiliser never works' stretches one result to every case.
-4. (mcq) Who first published the idea that a plant grows only as well as their scarcest need allows?  
-   Options: Justus von Liebig, in about 1840 / Carl Sprengel, in 1828 / Jagadish Chandra Bose, in 1920  
-   **Answer:** Carl Sprengel, in 1828. *Why:* Carl Sprengel published it in 1828. Liebig made it famous later, so it was often called Liebig's law. Picking Liebig is what many old textbooks say.
-5. (mcq) A seedling under a box senses that it is dark. What do they use to sense light?  
-   Options: Their eyes / Special light-sensing molecules called photoreceptors, such as phytochrome / They can't sense light at all  
-   **Answer:** Special light-sensing molecules called photoreceptors, such as phytochrome. *Why:* Plants have no eyes, but special molecules flip like switches in light. Picking 'can't sense light' misses that seedlings clearly change how they grow in the dark.
-6. (truefalse) Scientists have found that one light-sensing molecule in plants, phytochrome B, also changes faster when it is warm.  
-   **Answer:** True. *Why:* True. In 2016, two teams found that phytochrome B also acts like a thermometer. Plants seem to have other warmth sensors too, and scientists are still working out how they all fit together.
-7. (mcq) Cotton sprouted on the far side of the Moon in January 2019, inside a sealed can on the Chang'e 4 spacecraft. Why did the experiment end soon after?  
-   Options: The cotton was eaten / The freezing Moon night came, and it got far too cold / There was too much water  
-   **Answer:** The freezing Moon night came, and it got far too cold. *Why:* A night on the Moon lasts about two Earth weeks and is extremely cold. Warmth is a need. Picking 'too much water' misses that the big problem on the Moon is the cold.
-8. (mcq) Plants on the International Space Station grow under pink-purple lamps. Why those colours?  
-   Options: They look nice in photos / They are mostly red and blue, the colours of light plants use most / Plants in space prefer dark colours  
-   **Answer:** They are mostly red and blue, the colours of light plants use most. *Why:* The lamps are mostly red and blue, the colours leaves use most, with a little green so that people can see the plants well. Picking 'they look nice' misses that the colour was chosen for the plants.
-9. (mcq) Why does warmth make a sprout grow faster, deep down?  
-   Options: Warm molecules move faster and bump into each other more, so the plant's helper molecules work faster / Heat is a kind of food / Warmth makes the sprout lighter  
-   **Answer:** Warm molecules move faster and bump into each other more, so the plant's helper molecules work faster. *Why:* Temperature tells how fast molecules move. Faster movement means more bumps each second, so the work of growing goes faster. Picking 'heat is food' mixes up warmth with food. The sprout's food is stored in the seed.
-10. (mcq) Why can very great heat harm a plant, even if they have water?  
-   Options: Their helper molecules unfold and stop working, like egg white turning solid when cooked / Heat makes the plant too heavy / Heat turns the leaves into sugar  
-   **Answer:** Their helper molecules unfold and stop working, like egg white turning solid when cooked. *Why:* Enzymes are folded into special shapes. Too much heat shakes them out of shape, and they stop working. Heat does not make a plant heavier, so 'too heavy' cannot be the reason.
-11. (match) Match each person to what they found out about plants and their needs.  
-   **Answer:** Jagadish Chandra Bose → built the crescograph, which showed growth changing from minute to minute; Carl Sprengel → first published the idea of the scarcest need, in 1828; Julius Sachs and Wilhelm Knop → grew plants in mineral water with no soil, in the 1860s; Heidi Appel and Rex Cocroft → found plants respond to the vibrations of caterpillars chewing. *Why:* Each of these scientists tested an idea about what plants need or sense.
-12. (truefalse) A plant that is talked to every day and grows well proves that talking helps plants grow.  
-   **Answer:** False. *Why:* False. The talked-to plant probably also got more care and checking. Only a fair test, with the same care for both groups, could show it.
-13. (write) Bose's growth magnifier made the plant's growth look 4 times bigger. The pointer moved 20 millimetres in 10 hours. How much did the plant grow in those 10 hours, and how much in one hour?  
-   **Answer:** 20 divided by 4 is 5. So the plant grew 5 millimetres in 10 hours. 5 shared between 10 hours is half a millimetre each hour.. *Why:* Divide the pointer's movement by how much the lever magnifies, then share it between the hours.
-14. (write) In the light test, we kept some seedlings in the dark until they were weak. Is that fair to the seedlings? Give one reason for and one reason against.  
-   **Answer:** For: we learnt something important about plants. We put the dark seedlings back in the light at the end, and most of them turned green. Against: we made living things suffer on purpose. Any answer with a reason on each side is good.. *Why:* There is no single right answer. The point is to think about both sides.
-15. (write) Astronauts plan to grow food on the Moon. List what the plants need, and say where the astronauts could get each one.  
-   **Answer:** Light: from the Sun in the long Moon day, or from lamps. Water: brought from Earth, or from ice found near the Moon's poles. Air: made and pumped in a sealed greenhouse. Warmth: heaters and insulation, because Moon nights are freezing. Minerals: from Moon soil with extra added.. *Why:* A good answer covers every need from this unit, and notices that Earth gives most of them for free.
-16. (write) A friend's fern on a sunny terrace has brown, crispy edges, and a friend's cactus in a dark bathroom is pale and leaning. Give each one a diagnosis and a cure.  
-   **Answer:** The fern has too much sun and heat. Move the fern to a shadier, cooler place and keep them damp. The cactus has too little light. Move them to a sunny window and water them only a little.. *Why:* Each kind of plant has its own just right. The same place can be too much for one plant and too little for another.
-17. (draw) Draw the shortest-plank bucket for Zoya's moong in the dim window. Label each plank with a need, and make the shortest plank the need that held the moong back.  
+15. (order) Put the steps of the light test in order.  
+   **Answer:** order shown. *Why:* First you set up the cups. Then you change the one thing. Then you care for them all the same way, and measure. Last, you show and explain your results.
+16. (write) Kalai goes away for 10 days in May. She stands her tulsi pot in a bucket full of water, so the soil will not dry out. Predict what she finds when she comes back. What would work better?  
+   **Answer:** The soil will be soaked for 10 days, so the roots get no air. The tulsi will probably have yellow leaves and rotting roots, like the SOAKED cups. A better idea is a slow drip: a bottle with a tiny hole in the cap, upside down in the soil, or a wet cotton string from a jar of water into the pot.. *Why:* A strong answer uses the water test to predict, and gives a way to give a little water at a time.
+### Just Right, Deep Down and in Space (challenge) (challenge, 16 questions)
+1. (mcq) In the warmth test, the warm spot at 33 °C gave the most growth. Can you say that moong grows best in the hottest place possible?  
+   Options: Yes, the hotter the better / No. We only tested three temperatures, and above a certain point heat harms plants / Yes, because the warm bar was the tallest  
+   **Answer:** No. We only tested three temperatures, and above a certain point heat harms plants. *Why:* We did not test hotter places, so we cannot say what happens there. Other experiments show that great heat harms plants. Good scientists claim only what their test showed.
+2. (mcq) Under green see-through cellophane, seedlings often grow taller and paler, as if they were in dim light. Why?  
+   Options: Green is a cold colour / Leaves use red and blue light most, and bounce back much of the green, so they get little of the light they use / Green cellophane is poisonous  
+   **Answer:** Leaves use red and blue light most, and bounce back much of the green, so they get little of the light they use. *Why:* A leaf looks green because it reflects more green light than other colours. So green is the colour a leaf uses least. Picking 'cold colour' mixes up how colours feel to us with what plants use.
+3. (mcq) Deepa's plant stands in a dark corner. She gives the plant extra fertiliser, but they grow no better. What does this show?  
+   Options: Fertiliser never works / Light was the need in shortest supply, so more minerals could not help / The plant was dead  
+   **Answer:** Light was the need in shortest supply, so more minerals could not help. *Why:* This is the idea of the shortest plank. Extra of one need does not help if another need is in short supply. Picking 'fertiliser never works' stretches one result to every case.
+4. (perspective) Long ago, two scientists asked what a plant's body is made from.  
+   **Answer:** A strong answer weighs the evidence. Van Helmont's numbers are striking: the soil hardly changed, so the tree's weight cannot have come from the soil. Woodward's test is fairer, because he compared different waters side by side. Both were partly right. Plants take in a lot of water, and they need minerals from the soil. But both missed the air: most of a plant's dry body is built from a gas in the air, using light.. *Why:* Each scientist had real evidence. Van Helmont was right that the soil gives very little weight. Woodward was right that the soil gives something plants need. Neither of them knew that plants build their bodies mostly from the air.
+5. (mcq) In the light test, what shows that seedlings can sense light, even though they have no eyes?  
+   Options: The seedlings in the dark grew in a different way: tall, pale, with folded leaves / The seedlings in the dark were wetter / Nothing shows it  
+   **Answer:** The seedlings in the dark grew in a different way: tall, pale, with folded leaves. *Why:* The dark seedlings changed how they grew, so they must have sensed the dark. Plants sense light with special molecules called photoreceptors, which change when light falls on them.
+6. (truefalse) Scientists have found that phytochrome B, a light-sensing molecule in plants, also changes faster when it is warm.  
+   **Answer:** True. *Why:* True. In 2016, two teams of scientists found that phytochrome B also works like a thermometer. Plants seem to have other warmth sensors too, and scientists are still working out how they all fit together.
+7. (mcq) In January 2019, cotton seeds sprouted on the far side of the Moon, inside a sealed can on the Chinese spacecraft Chang'e 4. Why did the experiment end after only a few days?  
+   Options: The cotton was eaten / The long, freezing Moon night came, and it got far too cold / There was too much water  
+   **Answer:** The long, freezing Moon night came, and it got far too cold. *Why:* A night on the Moon lasts about two Earth weeks and is extremely cold. Warmth is one of a plant's needs. Picking 'too much water' misses that the big problem on the Moon is the cold.
+8. (mcq) Why does warmth make a sprout grow faster?  
+   Options: Warm molecules move faster and bump into each other more often, so the work of growing goes faster / Heat is a kind of food for the sprout / Warmth makes the sprout lighter  
+   **Answer:** Warm molecules move faster and bump into each other more often, so the work of growing goes faster. *Why:* Temperature tells how fast molecules are moving. Faster molecules meet more often, so the plant's helper molecules, called enzymes, work faster. Picking 'heat is food' mixes up warmth with food. The sprout's food is stored in the seed.
+9. (truefalse) Very great heat can harm a plant, even when they have plenty of water.  
+   **Answer:** True. *Why:* True. Enzymes, the plant's helper molecules, are folded into special shapes. Too much heat shakes them out of shape, like egg white turning solid when cooked. Then they stop working.
+10. (match) More is not always better. Match each 'too much' to what it does to a plant.  
+   **Answer:** Too much water → the roots get no air and start to rot; Too much heat → the plant loses water fast and their enzymes stop working; Too much fertiliser → the salty soil draws water out of the roots; Too little light → the plant grows tall, pale and weak. *Why:* Every need has a just-right amount. Too little and too much can both harm a plant.
+11. (write) Ishita says: 'If a little fertiliser is good for my plant, a lot must be even better.' What would you tell her? How could she test her idea fairly?  
+   **Answer:** More is not always better. Too much fertiliser makes the soil salty, and that can damage roots. To test it, she could grow 3 cups with no fertiliser, 3 with a little and 3 with a lot. Everything else stays the same: seeds, soil, light and water. Then she measures and compares after two weeks.. *Why:* A strong answer challenges the 'more is better' idea and plans a test with three amounts, like the water test.
+12. (write) Bose's growth magnifier makes a plant's growth look 4 times bigger. The pointer moved 20 millimetres in 10 hours. How much did the plant really grow in those 10 hours? How much is that in one hour?  
+   **Answer:** 20 divided by 4 is 5. So the plant grew 5 millimetres in 10 hours. 5 millimetres shared between 10 hours is half a millimetre each hour.. *Why:* Divide the pointer's movement by how much the lever magnifies. Then share it between the hours.
+13. (write) In the light test, we kept some seedlings in the dark until they were weak. Was that fair to the seedlings? Give one reason for and one reason against.  
+   **Answer:** For: we learnt something important about what plants need, and we put the dark seedlings back in the light at the end, so most of them turned green. Against: we made living beings struggle on purpose. Any answer with a real reason on each side is good.. *Why:* There is no single right answer. The point is to weigh both sides.
+14. (write) Astronauts plan to grow food on the Moon. List what the plants will need, and say where the astronauts could get each one.  
+   **Answer:** Light: from the Sun during the long Moon day, or from lamps. Water: brought from Earth, or made from ice near the Moon's poles. Air: made and pumped into a sealed greenhouse. Warmth: heaters and covers, because Moon nights are freezing. Minerals: from Moon soil, with extra added.. *Why:* A strong answer covers every need from this unit, and notices that Earth gives most of them for free.
+15. (write) Sumathi's fern on a sunny terrace has brown, crispy edges. Her cactus in a dark bathroom is pale and leaning. What is wrong with each plant? What would you do?  
+   **Answer:** The fern is getting too much sun and heat. Move the fern to a shady, cooler place and keep their soil damp. The cactus is getting too little light. Move the cactus to a sunny window, and water them only a little.. *Why:* Each kind of plant has their own just right. The same place can be too much for one plant and too little for another.
+16. (draw) Draw the shortest-plank bucket for Zoya's moong in the dim window. Label each plank with a need. Make the shortest plank the need that held the moong back.  
    **Answer:** A bucket with planks for light, water, air, warmth and minerals. The light plank is the shortest, and water spills out over it.. *Why:* Zoya's moong had water, air, warmth and soil, but very little light. So light was their shortest plank.
 
 ## Videos
@@ -857,7 +841,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 ## Quiz
 1. (mcq) Which list shows what a plant needs to grow well?  
    Options: Light, water, air, warmth and minerals / Only soil and water / Darkness, water and soil  
-   **Answer:** Light, water, air, warmth and minerals. *Why:* Plants need light, water, air, warmth and minerals. Picking 'only soil and water' leaves out light, which plants use to make food.
+   **Answer:** Light, water, air, warmth and minerals. *Why:* Plants need light, water, air, warmth and minerals. Picking 'only soil and water' leaves out light, which plants use to make food, and air for their roots and leaves.
 2. (mcq) What makes a test fair?  
    Options: You change everything at once / You change only one thing and keep everything else the same / You test only one plant  
    **Answer:** You change only one thing and keep everything else the same. *Why:* Changing only one thing tells you what caused the result. Picking 'test only one plant' misses that one plant can be a fluke.
@@ -894,12 +878,12 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 13. (mcq) How does a seedling in the dark sense that it is dark?  
    Options: With tiny eyes on their leaves / With special light-sensing molecules, such as phytochrome / They cannot sense light  
    **Answer:** With special light-sensing molecules, such as phytochrome. *Why:* Plants have photoreceptor molecules that change in light. Picking 'eyes' gives plants an animal body part they don't have.
-14. (mcq) Astronauts on the International Space Station ate lettuce they had grown there. When?  
-   Options: In August 2015 / In 1969, on the Moon / Nobody has grown food in space  
-   **Answer:** In August 2015. *Why:* The Veggie garden grew red lettuce that astronauts ate in August 2015. Picking 1969 mixes it up with the first Moon landing.
-15. (mcq) Who built the crescograph, a machine that showed a plant growing minute by minute?  
-   Options: Jagadish Chandra Bose, in India / Isaac Newton, in England / Nobody, it is a story  
-   **Answer:** Jagadish Chandra Bose, in India. *Why:* Bose built it in Kolkata. Picking Newton is a guess based on a famous name.
+14. (mcq) Astronauts grow lettuce on the International Space Station, far from the Sun's light through a window. Which need do the station's pink-purple lamps give the plants?  
+   Options: Light / Water / Minerals  
+   **Answer:** Light. *Why:* The lamps give light, mostly red and blue, the colours leaves use most. Water and minerals come from a pillow of soil-like material. Picking 'water' mixes up what a lamp gives with what a watering can gives.
+15. (mcq) Jagadish Chandra Bose built the crescograph, a machine that made a plant's growth look thousands of times bigger. What did it show?  
+   Options: That a plant's growth speeds up and slows down from minute to minute / That plants never grow at night / That plants grow only when someone is watching  
+   **Answer:** That a plant's growth speeds up and slows down from minute to minute. *Why:* Bose saw a plant's growth change within minutes, for example when they were touched or warmed. Plants respond to what is around them all the time. Picking 'never at night' is wrong: plants grow at night too.
 
 ## Applications
 - Farmers sow each crop in the season whose warmth and rain suit it. Rabi wheat is sown in winter, and kharif rice in the monsoon.

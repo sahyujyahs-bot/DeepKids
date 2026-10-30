@@ -209,7 +209,7 @@
    "concept": "How water reaches your tap",
    "status": "defined",
    "definition": "City water is taken from a river, lake or groundwater, cleaned at a treatment plant, then pumped through pipes to homes. Overhead tanks let gravity push it down to the taps.",
-   "description": "In most cities, water travels a long way. First it is taken from a river, a lake or a reservoir. Then it goes to a treatment plant, a place that cleans it. There the water sits still in big tanks, so mud sinks. It is passed through beds of sand and gravel, which catch smaller bits. A tiny amount of chlorine is added to kill germs. Then pumps push the clean water through pipes under the roads. In many buildings, a motor lifts it to an overhead tank on the roof. From there, gravity pulls it down the pipes to your tap. In a village, a borewell pump may lift groundwater straight into a tank.",
+   "description": "In most cities, water travels a long way. First it is taken from a river, a lake or a reservoir. Then it goes to a treatment plant, a place that cleans the water. There the water sits still in big tanks, so mud sinks. It is passed through beds of sand and gravel, which catch smaller bits. A tiny amount of chlorine is added to kill germs. Then pumps push the clean water through pipes under the roads. In many buildings, a motor lifts it to an overhead tank on the roof. From there, gravity pulls it down the pipes to your tap. In a village, a borewell pump may lift groundwater straight into a tank.",
    "examples": [
     "The overhead tank on your roof uses gravity. Water flows down from it, so taps work even when the motor is off.",
     "If a tap upstairs is weaker than one downstairs, it is because the water has less height to fall.",
@@ -639,28 +639,28 @@
   "title": "The Sweetest Water in London",
   "mins": 12,
   "read_aloud": true,
-  "note": "Real: the Broad Street pump and its famous water, the cholera outbreak of 1854, Mrs Susannah Eley in Hampstead who had the pump's water brought to her and died of cholera, her niece from Islington, the brewery workers and the workhouse with their own wells, Dr John Snow's questions and map, and the pump handle taken off on 8 September 1854. In real life, Snow learned about Mrs Eley from one of her sons. Tom, the carter Mr Pike, and their talk with Snow are made up.",
+  "note": "Real: the Broad Street pump and its famous water, the cholera outbreak of 1854, Mrs Susannah Eley in Hampstead who had the pump's water brought to her and died of cholera, her niece from Islington, the brewery workers and the workhouse with their own wells, Dr John Snow's questions and map, and the pump handle taken off on 8 September 1854. In real life, Snow learned about Mrs Eley from one of her sons. Tilly, the carter Mrs Pike, and their talk with Snow are made up.",
   "text": [
    "In the summer of 1854, the best water in London came out of a pump on Broad Street. Everybody said so. It was cold even in August. It was as clear as a window. People walked past two other pumps just to fill their jugs there.",
-   "Tom was nine, and that pump was his job. Every morning he pumped the long iron handle until a big stone bottle was full. He pushed the cork in tight and lifted the bottle onto Mr Pike's cart. Then he rode beside Mr Pike, out of the crowded streets and up the long green hill to Hampstead.",
-   "In Hampstead, in a quiet house with roses by the door, lived old Mrs Eley. Her sons ran a factory on Broad Street. She had moved away to the fresh air of the hill, but she would drink no water except Broad Street water. 'Hampstead water tastes of nothing,' she told Tom, every single morning. 'Broad Street water tastes of something.' Then she gave him a biscuit.",
+   "Tilly was nine, and that pump was her job. Every morning she pumped the long iron handle until a big stone bottle was full. She pushed the cork in tight and lifted the bottle onto Mrs Pike's cart. Then she rode beside Mrs Pike, out of the crowded streets and up the long green hill to Hampstead.",
+   "In Hampstead, in a quiet house with roses by the door, lived old Mrs Eley. Her sons ran a factory on Broad Street. She had moved away to the fresh air of the hill, but she would drink no water except Broad Street water. 'Hampstead water tastes of nothing,' she told Tilly, every single morning. 'Broad Street water tastes of something.' Then she gave her a biscuit.",
    "At the end of August, a terrible illness came to Broad Street. It was called cholera. It came fast, with a burning thirst and a sickness of the stomach. Some people who were well at breakfast were dead by night. The church bell rang and rang. Families piled their chairs onto carts and fled.",
-   "The doctors said it came from bad air. Soho smelled of drains, horses and rubbish, and in those days most people thought illness floated in on a stink. Tom's mother tied a cloth soaked in vinegar over his nose. 'Breathe through that,' she said, 'and don't you dare stop for anybody.'",
-   "So Tom did not stop. He pumped the bottle full and rode up the hill, where the air smelled of roses and cut grass. Up there, nobody had cholera. Up there, Tom felt safe.",
-   "On Thursday he left the bottle at Mrs Eley's door, as always. Her niece was visiting from Islington, and she waved at him from the window with a glass in her hand.",
-   "On Saturday, the curtains of the house were closed. Mr Pike took off his hat and spoke to the maid. When he climbed back onto the cart, his face was grey. 'Cholera,' he said quietly. 'Both of them. The old lady, and the niece.'",
-   "Tom could not understand it. All the way down the hill, he kept thinking. The bad air of Soho could not have floated all the way up here. The wind had been blowing the other way all week. Nobody else on the hill was ill. What had travelled from Broad Street to that house with the roses?",
-   "Then he looked down at his feet. In the straw of the cart sat the empty stone bottle, the one he had filled on Thursday.",
-   "Tom felt sick. He had carried that bottle himself, every single day.",
-   "That afternoon, Tom saw a thin, serious man walking slowly along Broad Street. He had a notebook. He was knocking on doors, and at every door he asked the same strange question. 'Where did this family get its water?' People said he was Dr Snow, and that he was a bit odd. Everybody knew it was the air.",
-   "Tom ran after him. His words came out in a tumble: the bottle, the cart, the hill, the roses, the old lady, the niece with the glass at the window.",
-   "Dr Snow stopped writing. He looked at Tom for a long moment. 'Hampstead,' he said. 'Fresh air, and no cholera. And the only thing from Broad Street in that house was the water.' He wrote it down very carefully. 'Do you know the brewery on this street?' he asked. 'Seventy men work there. Not one has fallen ill. They drink beer, and the brewery has its own well. The workhouse round the corner has hundreds of people and its own well too. Hardly any of them are sick.'",
-   "'But the pump water is the best in London,' said Tom. 'Everyone says so. It's so clear.'",
+   "The doctors said it came from bad air. Soho smelled of drains, horses and rubbish, and in those days most people thought illness floated in on a stink. Tilly's mother tied a cloth soaked in vinegar over her nose. 'Breathe through that,' she said, 'and don't you dare stop for anybody.'",
+   "So Tilly did not stop. She pumped the bottle full and rode up the hill, where the air smelled of roses and cut grass. Up there, nobody had cholera. Up there, Tilly felt safe.",
+   "On Thursday she left the bottle at Mrs Eley's door, as always. Mrs Eley's niece was visiting from Islington, and she waved at Tilly from the window with a glass in her hand.",
+   "On Saturday, the curtains of the house were closed. Mrs Pike took off her hat and spoke to the maid. When she climbed back onto the cart, her face was grey. 'Cholera,' she said quietly. 'Both of them. The old lady, and the niece.'",
+   "Tilly could not understand it. All the way down the hill, she kept thinking. The bad air of Soho could not have floated all the way up here. The wind had been blowing the other way all week. Nobody else on the hill was ill. What had travelled from Broad Street to that house with the roses?",
+   "Then she looked down at her feet. In the straw of the cart sat the empty stone bottle, the one she had filled on Thursday.",
+   "Tilly felt sick. She had carried that bottle herself, every single day.",
+   "That afternoon, Tilly saw a thin, serious man walking slowly along Broad Street. He had a notebook. He was knocking on doors, and at every door he asked the same strange question. 'Where did this family get its water?' People said he was Dr Snow, and that he was a bit odd. Everybody knew it was the air.",
+   "Tilly ran after him. Her words came out in a tumble: the bottle, the cart, the hill, the roses, the old lady, the niece with the glass at the window.",
+   "Dr Snow stopped writing. He looked at Tilly for a long moment. 'Hampstead,' he said. 'Fresh air, and no cholera. And the only thing from Broad Street in that house was the water.' He wrote it down very carefully. 'Do you know the brewery on this street?' he asked. 'Seventy men work there. Not one has fallen ill. They drink beer, and the brewery has its own well. The workhouse round the corner has hundreds of people and its own well too. Hardly any of them are sick.'",
+   "'But the pump water is the best in London,' said Tilly. 'Everyone says so. It's so clear.'",
    "'Yes,' said Dr Snow. 'It is very clear.' He closed his notebook. 'Whatever is making people ill is far too small to see. So we cannot ask our eyes. We have to ask the water where it went, and who drank it.'",
    "That evening, Dr Snow went to the men who looked after the parish. He showed them his notes. On 8 September, they agreed to take the handle off the Broad Street pump.",
-   "People grumbled. They had to walk further, to a pump whose water was warmer and tasted of nothing. The next morning, Tom stood beside the pump with no handle. A girl came along with an empty jug, frowning. He pointed her down the road to the other pump.",
-   "'That water doesn't taste nice,' she said.",
-   "'No,' said Tom. 'It doesn't.' And he walked with her, carrying the jug.",
+   "People grumbled. They had to walk further, to a pump whose water was warmer and tasted of nothing. The next morning, Tilly stood beside the pump with no handle. A small boy came along with an empty jug, frowning. She pointed him down the road to the other pump.",
+   "'That water doesn't taste nice,' he said.",
+   "'No,' said Tilly. 'It doesn't.' And she walked with him, carrying the jug.",
    "Later, Dr Snow drew a map of the streets. He put a little black bar for each person who had died. The bars piled up thickly round the Broad Street pump, like iron filings round a magnet. A young priest called Henry Whitehead, who at first thought Snow was wrong, went from house to house checking. In the end he found that a sick baby's nappies had been washed into a leaking pit right next to the well.",
    "Today, on that same street in London, there is a copy of the old pump. It has no handle."
   ],
@@ -674,10 +674,10 @@
   ],
   "art": [
    "A busy London street in 1854 with an iron pump, people queuing with jugs, sunlight glinting on clear water.",
-   "Tom and Mr Pike on a horse cart going up a green hill to a house with roses, a stone bottle in the straw.",
-   "Tom staring at the empty stone bottle in the cart, the hill behind him.",
-   "Dr Snow with his notebook at a door, Tom running up to him.",
-   "The pump with no handle, Tom walking beside a girl carrying her jug.",
+   "Tilly and Mrs Pike on a horse cart going up a green hill to a house with roses, a stone bottle in the straw.",
+   "Tilly staring at the empty stone bottle in the cart, the hill behind her.",
+   "Dr Snow with his notebook at a door, Tilly running up to him.",
+   "The pump with no handle, Tilly walking beside a small boy, carrying his jug.",
    "An old street map with small black bars clustered around a pump."
   ]
  },
@@ -926,7 +926,7 @@
        ]
       }
      ],
-     "parent": "Good placements. DRINK IT: the sealed bottle, the working purifier, the boiled and covered water, and the matka filled with boiled water. MAKE IT SAFE FIRST: the stream, the untested handpump and the hotel tap. Also the settled river water, the rainwater left out, the street ice and the stepwell. NEVER: the puddle, the sea water, the arsenic well, the fluoride borewell, the fish tank the bucket with the insect and the garden hose. Old water sits in a hose and in a fish tank, and germs grow in it. Boiling does not remove salt, arsenic or fluoride. City tap water depends on your city. Many families boil or purify it to be sure. The sunny bottle is tricky. Sunlight can kill many germs. But it needs a clean, clear bottle in strong sun for about six hours."
+     "parent": "Good placements. DRINK IT: the sealed bottle, the working purifier, the boiled and covered water, and the matka filled with boiled water. MAKE IT SAFE FIRST: the stream, the untested handpump and the hotel tap. Also the settled river water, the rainwater left out, the street ice and the stepwell. NEVER: the puddle, the sea water, the arsenic well, the fluoride borewell, the fish tank the bucket with the insect and the garden hose. Old water sits in a hose and in a fish tank, and germs grow in the old water. Boiling does not remove salt, arsenic or fluoride. City tap water depends on your city. Many families boil or purify it to be sure. The sunny bottle is tricky. Sunlight can kill many germs. But it needs a clean, clear bottle in strong sun for about six hours."
     },
     {
      "id": "s4",
@@ -970,7 +970,7 @@
       "In the sea"
      ],
      "a": 1,
-     "why": "Rain fills rivers, lakes and the ground. Taps and tanks only pass water on. Picking the tap or the tank means stopping the trail too early. The sea is salty, so we can't drink it without removing the salt.",
+     "why": "Rain fills rivers, lakes and the ground. Taps and tanks only pass water on. Picking the tap or the tank means stopping the trail too early. The sea is salty, so we cannot drink it without removing the salt.",
      "art": "A rain cloud above a river, a lake and a well."
     },
     {
@@ -984,14 +984,16 @@
     },
     {
      "t": "mcq",
-     "p": "Rain falls on a cement road. What happens to most of it?",
+     "p": "In Rain on Four Grounds, you pour the same mug of water on a pot of soil, a tray of sand and a tile. Guess first: where will most of the water run off?",
      "opts": [
-      "It soaks in",
-      "It runs off into the drain",
-      "It turns into soil"
+      "The sand",
+      "The soil",
+      "The tile"
      ],
-     "a": 1,
-     "why": "Cement has no gaps for water to soak into. So it runs off into drains, or sits in a puddle and evaporates. Picking 'soaks in' means picturing the road like soil."
+     "a": 2,
+     "why": "A tile has no gaps for water to go into, so the water runs off its edges. Sand and soil have gaps between their grains, so water soaks in. Sand soaks it up fastest, because its gaps are biggest.",
+     "context": "This question is about Rain on Four Grounds, where you poured the same mug of 'rain' on different kinds of ground and watched where it went.",
+     "how": "e1"
     },
     {
      "t": "sort",
@@ -1027,7 +1029,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Soil, sand, grass and forests have gaps for water to trickle into. Roads, roofs and tiles have none."
+     "why": "Soil, sand, grass and forest floors have gaps for water to trickle into. Roads, roofs and tiles have none."
     },
     {
      "t": "match",
@@ -1055,48 +1057,38 @@
     },
     {
      "t": "truefalse",
-     "p": "A tap makes water.",
+     "p": "Most of the water in a well fell straight into it as rain.",
      "a": false,
-     "why": "False. A tap only lets out water that is already in the pipe. The water comes from a tank, a river, a lake or the ground."
-    },
-    {
-     "t": "fill",
-     "p": "When a puddle dries up in the sun, its water ____ into the air as an invisible gas.",
-     "a": [
-      "evaporates",
-      "evaporated"
-     ],
-     "why": "Evaporation turns liquid water into water vapour, an invisible gas. The water is not destroyed. It is in the air."
+     "why": "False, though it is a common picture. Almost all of it seeps in from the groundwater around the well. That water soaked into the land, sometimes far away and long ago."
     },
     {
      "t": "mcq",
      "p": "Why does water in a clay matka stay cool?",
      "opts": [
-      "Water seeps through the clay and evaporates, taking heat away",
       "Clay is made of something cold",
       "The matka keeps the sunlight out",
+      "Water seeps through the clay and evaporates, taking heat away",
       "The water inside slowly turns to ice"
      ],
-     "a": 0,
-     "why": "Evaporating water carries heat away, so the water inside cools. Picking 'clay is cold' is common. But a dry clay pot left in the sun gets hot like anything else. Picking 'keeps sunlight out' is partly true of any covered pot, but it does not explain why a matka is cooler than a steel pot."
+     "a": 2,
+     "why": "Evaporating water carries heat away, so the water inside cools. 'Clay is cold' is a common guess. But a dry clay pot left in the sun gets hot like anything else. Any covered pot keeps sunlight out, but that does not explain why a matka is cooler than a steel pot."
     },
     {
      "t": "mcq",
-     "p": "Which of these is a way people stored water long ago in India?",
+     "p": "Old stepwells in India have long stone stairs going down to the water. Why were the stairs built?",
      "opts": [
-      "A stepwell",
-      "A plastic bottle",
-      "A fridge",
-      "An RO purifier"
+      "So people could reach the water even when its level fell in the dry season",
+      "Only to make the well look beautiful",
+      "To make the water cold"
      ],
      "a": 0,
-     "why": "Stepwells were built in India more than a thousand years ago. People walked down the steps to reach the water. Plastic bottles, fridges and RO purifiers are all modern."
+     "why": "In the dry months the groundwater level falls, and the water in the well sinks lower. The stairs let people walk down to it, however low it went. Many stepwells are also beautiful, but the stairs were built for reaching the water."
     },
     {
      "t": "truefalse",
      "p": "If water looks clear, it is always safe to drink.",
      "a": false,
-     "why": "False. Germs are too small to see. Salt, arsenic and fluoride can be dissolved and invisible. Clear water can still be unsafe."
+     "why": "False. Germs are too small to see. Salt, arsenic and fluoride can be dissolved in water and stay invisible. Clear water can still be unsafe."
     },
     {
      "t": "mcq",
@@ -1108,17 +1100,16 @@
       "Putting it in a steel tumbler"
      ],
      "a": 2,
-     "why": "Boiling kills germs. Settling and a cloth remove bits you can see, but germs are too small to be caught that way. Picking 'cloth' often means thinking of germs as tiny dirt bits that get stuck. Most slip right through."
+     "why": "Boiling kills germs. Settling and a cloth remove bits you can see, but germs are far too small to be caught that way. Most slip right through the cloth."
     },
     {
      "t": "fill",
-     "p": "A unit for measuring how much liquid something holds is the ____. A big water bottle often holds 1 of them.",
+     "p": "A bucket holds about 15 litres. Kavitha uses 2 full buckets of water for her bath. She uses ____ litres.",
      "a": [
-      "litre",
-      "liter",
-      "litres"
+      "30",
+      "thirty"
      ],
-     "why": "A litre is a unit of capacity. A bucket often holds about 15 litres."
+     "why": "2 lots of 15 litres is 15 + 15 = 30 litres. A litre is a unit for how much liquid something holds. A big water bottle often holds 1 litre."
     },
     {
      "t": "mcq",
@@ -1130,21 +1121,30 @@
       "Washing clothes"
      ],
      "a": 2,
-     "why": "Each person drinks only about 2 or 3 litres a day. Bathing, flushing and washing use far more. Picking drinking as a big one is common, because drinking is what we think of first."
+     "why": "Each person drinks only about 2 or 3 litres a day. Bathing, flushing and washing use far more. Many people guess drinking is a big one, because drinking is what we think of first."
     },
     {
      "t": "write",
-     "p": "Draw or write the journey of the water in your home, from its source to your tap. Use arrows.",
+     "p": "Write the journey of the water in your home, from where it really begins to your tap. Use arrows between the steps.",
      "lines": 4,
-     "a": "Any journey with a real source and real steps. For example: rain filled the river, the river went to a treatment plant, pipes took it to our sump, the motor lifted it to the overhead tank, and it came down to our tap.",
-     "why": "A good answer starts at a real source, such as a river, a lake or a borewell, and follows each step to the tap."
+     "a": "Any journey with a real source and real steps. For example: rain filled the river → the river water went to a treatment plant → pipes took the water to our sump → the motor lifted it to the overhead tank → it came down to our tap.",
+     "why": "A strong answer starts at a real source, such as a river, a lake or a borewell, and follows each step to the tap.",
+     "context": "This question is about Follow the Pipe, where you traced your home's water backwards from the tap.",
+     "how": "a1"
+    },
+    {
+     "t": "write",
+     "p": "Anu, a girl in Class 2, says: 'Our water comes from the overhead tank, so we will never run out.' What has she missed?",
+     "lines": 3,
+     "a": "The tank does not make water. It is filled by a motor from a sump, a borewell or the city pipe. If the river, the lake or the groundwater runs low, the tank stays empty too.",
+     "why": "A strong answer follows the water back past the tank to its real source, and says that the source can run low."
     },
     {
      "t": "write",
      "p": "Name two places in your home or street where you could catch or save rain. Say how.",
      "lines": 3,
-     "a": "Any two sensible ideas. For example: put a bucket under the drainpipe to water plants, or leave a patch of soil unpaved so rain can soak in.",
-     "why": "Catching rain from roofs, and leaving soil open so rain soaks in, both save water."
+     "a": "Any two sensible ideas. For example: put a bucket under the drainpipe to water the plants, or leave a patch of soil unpaved so rain can soak in.",
+     "why": "Catching rain from roofs, and leaving soil open so rain soaks in, both save water. A strong answer says how each idea would work."
     },
     {
      "t": "draw",
@@ -1163,14 +1163,14 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Look at the chart. Which container kept the water coolest?",
+     "p": "Look at the chart from the Cool Matka Test. Which container kept the water coolest?",
      "opts": [
       "The steel bottle",
       "The bottle in a wet cloth",
       "The clay matka"
      ],
      "a": 2,
-     "why": "The matka's bar is shortest, at 24 °C. Shorter means cooler on this chart. Picking the steel bottle usually means reading the tallest bar as best. Here a taller bar means warmer water.",
+     "why": "The matka's bar is the shortest, at 24 °C. On this chart a shorter bar means cooler water. Picking the steel bottle usually means reading the tallest bar as the best.",
      "context": "This question is about the Cool Matka Test. You filled a clay matka, a steel bottle and a steel bottle wrapped in a wet cloth with the same water, and measured them after 4 hours in the shade.",
      "chart": {
       "type": "bar",
@@ -1199,7 +1199,7 @@
     },
     {
      "t": "fill",
-     "p": "All three started at 30 °C. After 4 hours, the matka water was 24 °C. It cooled by ____ degrees.",
+     "p": "In the Cool Matka Test, all three started at 30 °C. After 4 hours, the matka water was 24 °C. It cooled by ____ degrees.",
      "a": [
       "6",
       "six"
@@ -1233,14 +1233,151 @@
     },
     {
      "t": "mcq",
-     "p": "Look at the chart. Which job used the most water?",
+     "p": "On a hot, dry day the matka water is cool. On a sticky, humid day in the monsoon, it is hardly cooler than the room. Why?",
      "opts": [
-      "Bathing",
-      "The toilet",
-      "Drinking",
-      "Washing clothes"
+      "The clay gets wet from the rain",
+      "Water evaporates slowly when the air is already full of water vapour",
+      "Matkas only work in summer"
+     ],
+     "a": 1,
+     "why": "The matka cools because water evaporates from its outside. Humid air already holds a lot of vapour, so evaporation is slow, and less heat is carried away. This is also why wet clothes dry slowly in the monsoon.",
+     "context": "This question is about the Cool Matka Test. You filled a clay matka, a steel bottle and a steel bottle wrapped in a wet cloth with the same water, and measured them after 4 hours in the shade.",
+     "how": "e3"
+    },
+    {
+     "t": "mcq",
+     "p": "In the jar well, the water level fell after 10 pumps. Then you covered the soil with plastic and poured more rain on top. What happened?",
+     "opts": [
+      "The level rose a lot",
+      "The level did not rise, because the rain could not soak in",
+      "The jar overflowed"
+     ],
+     "a": 1,
+     "why": "The plastic stopped the rain soaking down, just like cement over real ground. So nothing refilled the groundwater. Picking 'rose a lot' means thinking rain reaches the well whatever covers the ground.",
+     "context": "This question is about A Well in a Jar. You built layers of gravel, sand and soil in a clear jar, with a straw as a well, and poured in 'rain'.",
+     "how": "e2"
+    },
+    {
+     "t": "sort",
+     "p": "What does each way of cleaning water do? Sort them.",
+     "cats": [
+      "Removes bits you can see",
+      "Kills germs"
+     ],
+     "items": [
+      [
+       "settling",
+       "Removes bits you can see"
+      ],
+      [
+       "a cloth filter",
+       "Removes bits you can see"
+      ],
+      [
+       "boiling",
+       "Kills germs"
+      ],
+      [
+       "chlorine",
+       "Kills germs"
+      ],
+      [
+       "a sand filter",
+       "Removes bits you can see"
+      ],
+      [
+       "strong sunlight on a clear bottle for 6 hours",
+       "Kills germs"
+      ]
+     ],
+     "a": "see items",
+     "why": "Settling and filters catch bits that are big enough to sink or get stuck. Boiling, chlorine and strong sunlight kill germs."
+    },
+    {
+     "t": "truefalse",
+     "p": "Boiling sea water makes it safe to drink.",
+     "a": false,
+     "why": "False. Boiling kills germs, but the salt stays dissolved. If you boil sea water until it is all gone, the salt is left in the pot."
+    },
+    {
+     "t": "mcq",
+     "p": "Why does a city with lots of roads and buildings often flood in heavy rain?",
+     "opts": [
+      "Cities get more rain than villages",
+      "Buildings make rain",
+      "Rain cannot soak into cement and tar, so it all runs off at once"
+     ],
+     "a": 2,
+     "why": "Hard ground has no gaps, so the rain runs off all at once and overfills the drains. Cities usually do not get more rain than villages. The difference is the ground, not the sky."
+    },
+    {
+     "t": "match",
+     "p": "Match each water store to what it is.",
+     "pairs": [
+      [
+       "Tanka",
+       "a covered underground tank in the Thar desert"
+      ],
+      [
+       "Stepwell",
+       "a deep well with stairs down to the water"
+      ],
+      [
+       "Matka",
+       "a clay pot that keeps drinking water cool"
+      ],
+      [
+       "Overhead tank",
+       "a tank on a roof that sends water down the pipes"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "These are ways Indian homes and villages store water, old and new."
+    },
+    {
+     "t": "fill",
+     "p": "A tap drips 50 millilitres in 10 minutes. One hour has 6 lots of 10 minutes. So in one hour it drips ____ millilitres.",
+     "a": [
+      "300"
+     ],
+     "why": "6 lots of 50 is 6 × 50 = 300 millilitres. That is more than a full tumbler of water every hour.",
+     "context": "This question is about Drip Detective, where you caught a dripping tap's water in a cup for exactly 10 minutes.",
+     "how": "a4"
+    },
+    {
+     "t": "mcq",
+     "p": "Two neighbours share the same groundwater. One digs a much deeper borewell and pumps all day. What might happen?",
+     "opts": [
+      "The other neighbour's shallow well may go dry",
+      "Nothing, because groundwater never runs out",
+      "It will rain more"
      ],
      "a": 0,
+     "why": "The groundwater under the land is shared. Pumping a lot lowers the water level for everyone, so shallow wells dry first. Groundwater is not endless. It only refills as fast as rain soaks in."
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of a city water treatment plant in order.",
+     "items": [
+      "Take water from a river or lake",
+      "Let it sit still so mud sinks",
+      "Pass it through sand and gravel",
+      "Add a tiny amount of chlorine",
+      "Pump it through pipes to homes"
+     ],
+     "a": "order shown",
+     "why": "First the water is collected. Then heavy bits settle, smaller bits are filtered out, germs are killed with chlorine, and only then is it sent to homes."
+    },
+    {
+     "t": "mcq",
+     "p": "Look at the chart from a Family Water Count. Which job used the most water?",
+     "opts": [
+      "Drinking",
+      "The toilet",
+      "Bathing",
+      "Washing clothes"
+     ],
+     "a": 2,
      "why": "Bathing has the tallest bar, at 150 litres. The toilet is second, at 120 litres. Picking drinking means guessing from what we think matters most, not reading the chart.",
      "context": "This question is about the Family Water Count. A family put a tally mark on a chart every time they used water for one day, then worked out the litres.",
      "chart": {
@@ -1284,159 +1421,51 @@
      "how": "a3"
     },
     {
-     "t": "mcq",
-     "p": "In the jar well, the water level fell after 10 pumps. Then you covered the soil with plastic and poured more rain. What happened?",
-     "opts": [
-      "The level rose a lot",
-      "The level did not rise, because the rain could not soak in",
-      "The jar overflowed"
+     "t": "perspective",
+     "p": "In a village near Kolar, in Karnataka, the wells are drying up. Three people disagree about what to do.",
+     "views": [
+      {
+       "who": "Selvi, a farmer with a deep borewell",
+       "says": "I need to pump every day to water my crops. If I stop, my family has no money."
+      },
+      {
+       "who": "Pushpa, whose old open well in the same village has gone dry",
+       "says": "Deep borewells are taking the water we all share. Pumping should have a limit."
+      },
+      {
+       "who": "A groundwater scientist",
+       "says": "Pumping is fine only if it is no faster than rain refills the ground. Ponds and pits that catch rain help everyone."
+      }
      ],
-     "a": 1,
-     "why": "The plastic stopped the rain soaking down, just like cement over real ground. So nothing refilled the groundwater. Picking 'rose a lot' means thinking rain reaches the well whatever is on top.",
+     "ask": "Pick the person you agree with most. Use what you saw in A Well in a Jar to back your choice. Then say what one of the others would say back.",
+     "lines": 5,
+     "a": "A strong answer picks a side and uses the jar well as evidence: pumping lowered the water for the whole jar, not just near the straw. It answers back fairly from another side, for example Selvi: a limit must still let farmers earn a living.",
+     "why": "This is a real problem in many parts of India. Groundwater is shared, but each farmer needs it. There is no single right answer, so listen for evidence and fairness.",
      "context": "This question is about A Well in a Jar. You built layers of gravel, sand and soil in a clear jar, with a straw as a well, and poured in 'rain'.",
      "how": "e2"
     },
     {
-     "t": "sort",
-     "p": "Which kind of thing in water does each way of cleaning remove?",
-     "cats": [
-      "Removes bits you can see",
-      "Kills germs"
-     ],
-     "items": [
-      [
-       "settling",
-       "Removes bits you can see"
-      ],
-      [
-       "a cloth filter",
-       "Removes bits you can see"
-      ],
-      [
-       "boiling",
-       "Kills germs"
-      ],
-      [
-       "chlorine",
-       "Kills germs"
-      ],
-      [
-       "a sand filter",
-       "Removes bits you can see"
-      ],
-      [
-       "strong sunlight on a clear bottle for 6 hours",
-       "Kills germs"
-      ]
-     ],
-     "a": "see items",
-     "why": "Settling and filters catch bits that are big enough to sink or get stuck. Boiling, chlorine and strong sunlight kill germs."
-    },
-    {
-     "t": "truefalse",
-     "p": "Boiling sea water makes it safe to drink.",
-     "a": false,
-     "why": "False. Boiling kills germs, but the salt stays dissolved. If you boil sea water dry, the salt is left in the pot."
-    },
-    {
-     "t": "mcq",
-     "p": "Why does a city with lots of roads and buildings often flood in heavy rain?",
-     "opts": [
-      "Rain cannot soak into cement and tar, so it all runs off at once",
-      "Cities get more rain than villages",
-      "Buildings make rain"
-     ],
-     "a": 0,
-     "why": "Hard ground has no gaps. So rain runs off all at once and fills the drains. Picking 'cities get more rain' is usually not true. The difference is the ground, not the sky."
-    },
-    {
-     "t": "match",
-     "p": "Match each water store to where it is used.",
-     "pairs": [
-      [
-       "Tanka",
-       "a covered underground tank in the Thar desert"
-      ],
-      [
-       "Stepwell",
-       "a deep well with stairs down to the water"
-      ],
-      [
-       "Matka",
-       "a clay pot that keeps drinking water cool"
-      ],
-      [
-       "Overhead tank",
-       "a tank on a roof that sends water down the pipes"
-      ]
-     ],
-     "a": "pairs as given",
-     "why": "These are ways Indian homes and villages store water, old and new."
-    },
-    {
-     "t": "fill",
-     "p": "A tap drips 50 millilitres in 10 minutes. One hour has 6 lots of 10 minutes. So in one hour it drips ____ millilitres.",
-     "a": [
-      "300"
-     ],
-     "why": "6 lots of 50 is 6 × 50 = 300 millilitres.",
-     "context": "This question is about Drip Detective, where you caught a dripping tap's water in a cup for exactly 10 minutes.",
-     "how": "a4"
-    },
-    {
-     "t": "mcq",
-     "p": "Two neighbours share the same groundwater. One digs a much deeper borewell and pumps all day. What might happen?",
-     "opts": [
-      "The other neighbour's shallow well may go dry",
-      "Nothing, because groundwater never runs out",
-      "It will rain more"
-     ],
-     "a": 0,
-     "why": "Groundwater under the land is shared. Pumping a lot lowers the water level for everyone, so shallow wells dry first. Picking 'never runs out' means thinking groundwater is endless. It only refills as fast as rain soaks in."
-    },
-    {
-     "t": "truefalse",
-     "p": "Most of the water in a well fell straight into it as rain.",
-     "a": false,
-     "why": "False. Almost all of it seeps in from the groundwater around it. That water soaked into the land, sometimes far away and long ago."
-    },
-    {
-     "t": "mcq",
-     "p": "In 1854, John Snow showed that cholera in London spread through…",
-     "opts": [
-      "bad smells in the air",
-      "water from one pump",
-      "hot weather"
-     ],
-     "a": 1,
-     "why": "Snow showed that people who drank Broad Street pump water got cholera, even a widow who lived far away in fresh air. Picking 'bad smells' is what most doctors believed then. It was wrong."
-    },
-    {
-     "t": "order",
-     "p": "Put the steps of a city water treatment plant in order.",
-     "items": [
-      "Take water from a river or lake",
-      "Let it sit still so mud sinks",
-      "Pass it through sand and gravel",
-      "Add a tiny amount of chlorine",
-      "Pump it through pipes to homes"
-     ],
-     "a": "order shown",
-     "why": "First the water is collected. Then heavy bits settle, smaller bits are filtered out, germs are killed with chlorine, and only then is it sent to homes."
+     "t": "write",
+     "p": "Your friend Divya says, 'Our well water is crystal clear, so we don't need to test it.' What would you tell her?",
+     "lines": 3,
+     "a": "Clear water can still carry germs, and dissolved things like arsenic or too much fluoride. These have no colour, and often no taste. Only a test can show if the water is safe.",
+     "why": "A strong answer explains that the dangerous things in water can be invisible, and suggests a test."
     },
     {
      "t": "write",
-     "p": "Your friend says, 'Our well water is crystal clear, so we don't need to test it.' What would you tell them?",
+     "p": "In the Invisible Ring, even the tap water left a faint ring on the dark plate. Does that mean the tap water is unsafe? Explain.",
      "lines": 3,
-     "a": "Clear water can still carry germs, and dissolved things like arsenic or too much fluoride. They have no colour or taste. Only a test can show if it is safe.",
-     "why": "A good answer explains that the dangerous things in water can be invisible, and suggests testing."
+     "a": "Not by itself. The ring shows that the tap water has some dissolved minerals, such as calcium. Small amounts of these are normal and harmless. The ring tells you something is dissolved, but not what it is or whether it is harmful. Only a proper test can tell that.",
+     "why": "A strong answer separates 'something is dissolved' from 'something harmful is dissolved'. Almost all water has some minerals in it.",
+     "context": "This question is about The Invisible Ring, where you dried spoonfuls of clear-looking water on a dark plate and looked at what was left.",
+     "how": "e4"
     },
     {
      "t": "write",
      "p": "Choose one job that uses lots of water in your home. Write two ways your family could use less for that job.",
      "lines": 3,
      "a": "For example, bathing: use a bucket instead of a shower, and turn off the tap while soaping. Any two real ideas are good.",
-     "why": "Small daily changes in big water jobs save the most water."
+     "why": "Small daily changes in the biggest water jobs save the most water. A strong answer picks a big job, not drinking."
     }
    ]
   },
@@ -1450,67 +1479,59 @@
      "t": "mcq",
      "p": "Glass A is plain water. Glass B has salt dissolved in it. They look the same. How could you tell them apart without tasting?",
      "opts": [
-      "Dry a spoonful of each on a dark plate and see what is left",
       "Look at them very hard",
+      "Dry a spoonful of each on a dark plate and see what is left",
       "Smell them"
      ],
-     "a": 0,
-     "why": "When the water evaporates, the dissolved salt is left behind as a white ring. Looking or smelling won't work, because dissolved salt is invisible and has no smell.",
-     "context": "This question is about The Invisible Ring, where you dried spoonfuls of clear-looking water on a dark plate.",
+     "a": 1,
+     "why": "When the water evaporates, the dissolved salt is left behind as a white ring. Looking or smelling will not work, because dissolved salt is invisible and has no smell.",
+     "context": "This question is about The Invisible Ring, where you dried spoonfuls of clear-looking water on a dark plate and looked at what was left.",
      "how": "e4"
     },
     {
      "t": "mcq",
-     "p": "A village well dried up after the hills above it were cleared of forest and became bare and hard. Why?",
+     "p": "A village well dried up after the forest on the hills above it was cut down. The hills became bare and hard. Why did the well dry up?",
      "opts": [
-      "Rain ran off the bare hills before it could soak in and refill the groundwater",
       "The well was dug too deep",
-      "Trees drink all the rain, so cutting them should help"
+      "Rain ran off the bare hills before it could soak in and refill the groundwater",
+      "Trees drink all the rain, so cutting them should have helped"
      ],
-     "a": 0,
-     "why": "Forest floors slow rain down and let it soak in. Bare, hard ground makes it run away. So less water refilled the ground. Picking 'trees drink all the rain' is partly true, as trees do use water. But forests help far more rain soak in than they use."
+     "a": 1,
+     "why": "Forest floors slow rain down and let it soak in. Bare, hard ground makes it run away. So less water refilled the ground. Trees do use water, but forests help far more rain soak in than they use."
     },
     {
      "t": "mcq",
      "p": "Water from a well has arsenic in it. A family boils it before drinking. Is it now safe?",
      "opts": [
       "Yes, boiling makes all water safe",
-      "No, boiling kills germs but does not remove arsenic",
+      "No. Boiling kills germs but does not remove arsenic.",
       "Yes, if they boil it for an hour"
      ],
      "a": 1,
-     "why": "Arsenic is dissolved, like salt. Boiling leaves it behind, and can even make it a little stronger as some water boils away. Picking 'boil it longer' means thinking more boiling fixes everything."
+     "why": "Arsenic is dissolved, like salt. Boiling leaves it behind, and can even make it a little stronger as some water boils away. More boiling does not fix everything."
     },
     {
      "t": "fill",
-     "p": "1 millimetre of rain on 1 square metre of roof gives 1 litre. So 20 millimetres of rain on 1 square metre gives ____ litres.",
+     "p": "1 millimetre of rain on 1 square metre of roof gives 1 litre of water. A roof is 50 square metres. 20 millimetres of rain falls on it. The roof can catch ____ litres.",
      "a": [
-      "20",
-      "twenty"
+      "1000",
+      "1,000",
+      "one thousand"
      ],
-     "why": "Each millimetre gives 1 litre on each square metre. 20 millimetres give 20 litres."
+     "why": "Each square metre gives 20 litres, because 20 millimetres fell. 50 square metres give 50 × 20 = 1,000 litres. That is enough to fill about 66 buckets.",
+     "context": "This question is about Catch the Rain, where you built a model house that catches rain from its roof.",
+     "how": "p1"
     },
     {
      "t": "mcq",
-     "p": "Scientists measured groundwater under north-west India using two satellites. What did the satellites actually measure?",
+     "p": "Scientists measured the groundwater under north-west India using two satellites. What did the satellites actually measure?",
      "opts": [
-      "Tiny changes in the pull of gravity",
       "Photographs of underground lakes",
+      "Tiny changes in the pull of gravity",
       "The temperature of the soil"
      ],
-     "a": 0,
-     "why": "Water is heavy, so it pulls with a tiny bit of gravity. When groundwater is pumped out, the pull gets slightly weaker, and the satellites feel it. Picking 'photographs' means thinking satellites can see under the ground. They can't. Groundwater is also not mostly in lakes."
-    },
-    {
-     "t": "mcq",
-     "p": "Why does salt dissolve in water but oil does not?",
-     "opts": [
-      "Water molecules have tiny electric charges that pull salt apart, but they cannot grip oil",
-      "Oil is heavier than water",
-      "Salt is smaller than oil"
-     ],
-     "a": 0,
-     "why": "Water molecules have tiny electric charges at their ends, and opposite charges attract. So they pull salt apart into tiny pieces. Oil molecules have no charged ends, so water cannot grip them. Picking 'oil is heavier' is wrong. Oil is lighter than water, which is why it floats."
+     "a": 1,
+     "why": "Water is heavy, so it adds a tiny bit to the Earth's pull of gravity. When groundwater is pumped out, the pull gets slightly weaker, and the satellites feel it. Satellites cannot see under the ground. Groundwater is also not mostly in lakes."
     },
     {
      "t": "truefalse",
@@ -1519,19 +1540,8 @@
      "why": "True, scientists think. A 2014 study worked out that up to half of Earth's water may have formed as ice in space before the Sun was born. It is a strong idea, but not yet proved."
     },
     {
-     "t": "mcq",
-     "p": "In 2009, scientists found signs of water in the dust of the Moon. Which mission's data did they use?",
-     "opts": [
-      "India's Chandrayaan-1",
-      "A mission to Mars",
-      "A telescope on Earth"
-     ],
-     "a": 0,
-     "why": "India's first Moon mission, Chandrayaan-1, carried an instrument from NASA that found the signs of water in the Moon's dust."
-    },
-    {
      "t": "order",
-     "p": "Put these in order, from the most rain in a year to the least.",
+     "p": "Put these places in order, from the most rain in a year to the least.",
      "items": [
       "Mawsynram, Meghalaya",
       "Mumbai",
@@ -1539,65 +1549,121 @@
       "Jaisalmer, Thar desert"
      ],
      "a": "order shown",
-     "why": "Mawsynram gets nearly 12 metres. Mumbai gets about 2 metres. Delhi about 80 centimetres. Jaisalmer about 20 centimetres."
+     "why": "Mawsynram gets nearly 12 metres. Mumbai gets about 2 metres. Delhi gets about 80 centimetres. Jaisalmer gets about 20 centimetres."
+    },
+    {
+     "t": "write",
+     "p": "Sohra, also called Cherrapunji, in Meghalaya, is one of the wettest places on Earth. Yet in winter many families there run short of drinking water. How can that be?",
+     "lines": 4,
+     "a": "Almost all the rain falls in a few monsoon months. The hills are steep and much of the land is bare rock or thin soil, so the rain runs off fast instead of soaking in. Little is stored in tanks or in the ground. So in the dry winter months the springs and streams run low.",
+     "why": "A strong answer says that how much rain falls matters less than whether it soaks in or is stored. It challenges the idea that lots of rain always means lots of water."
     },
     {
      "t": "mcq",
-     "p": "John Snow was a doctor in London in 1854. He learned that a widow in Hampstead drank water carried from the Broad Street pump, and died of cholera. Nobody else near her had cholera. Why was this strong evidence?",
+     "p": "John Snow was a doctor in London in 1854. A widow in Hampstead, far away on a hill, drank water brought from the Broad Street pump, and died of cholera. Nobody else near her was ill. Why was this strong evidence?",
      "opts": [
-      "She shared none of Soho's air, only its water, so the water must carry the illness",
       "She was old",
-      "Hampstead had bad air"
+      "Hampstead had bad air",
+      "She shared none of the Broad Street air, only its water, so the water must carry the illness"
      ],
-     "a": 0,
-     "why": "If cholera came from bad air, she should have been safe on the fresh hill. The one thing from Broad Street in her house was the water. Picking 'she was old' does not explain why nobody else around her got ill."
+     "a": 2,
+     "why": "If cholera came from bad air, she should have been safe on the fresh hill. The one thing from Broad Street in her house was the water. 'She was old' does not explain why nobody else around her got ill."
     },
     {
-     "t": "fill",
-     "p": "Your kidneys clean your body's fluids. An adult's kidneys clean about ____ litres of fluid every day.",
-     "a": [
-      "180"
+     "t": "sort",
+     "p": "A family boils all their drinking water. Which problems does boiling fix, and which does it not fix?",
+     "cats": [
+      "Boiling fixes it",
+      "Boiling does not fix it"
      ],
-     "why": "About 180 litres a day. The body keeps most of it and sends out the waste as urine."
+     "items": [
+      [
+       "cholera germs",
+       "Boiling fixes it"
+      ],
+      [
+       "arsenic from a deep well",
+       "Boiling does not fix it"
+      ],
+      [
+       "germs from a dirty pond",
+       "Boiling fixes it"
+      ],
+      [
+       "too much fluoride",
+       "Boiling does not fix it"
+      ],
+      [
+       "salt from the sea",
+       "Boiling does not fix it"
+      ],
+      [
+       "worm eggs",
+       "Boiling fixes it"
+      ]
+     ],
+     "a": "see items",
+     "why": "Boiling kills living things such as germs and worm eggs. It cannot remove things that are dissolved, such as arsenic, fluoride and salt. Those stay in the pot when water boils away."
+    },
+    {
+     "t": "perspective",
+     "p": "A city must decide how people should pay for water.",
+     "views": [
+      {
+       "who": "Revathi, who runs a tea stall in Madurai",
+       "says": "Water should be free. Nobody should go thirsty because they are poor."
+      },
+      {
+       "who": "An engineer at the city water board",
+       "says": "If water is free, people waste it, and there is no money to fix the leaking pipes."
+      },
+      {
+       "who": "Jaya, a mother in a village that gets water by tanker",
+       "says": "Give every family a little water free each day, and make people pay for more than that."
+      }
+     ],
+     "ask": "Which idea do you agree with most? Give a reason. Then think of the poorest family in the city: what would happen to them under each idea?",
+     "lines": 5,
+     "a": "A strong answer picks a side and gives a real reason, then looks at the poorest family under each idea. For example: free water helps the poor family but may leave the pipes leaking, so they might get dirty water. Paying for everything may leave them thirsty. Some Indian cities already give a little free water to every home and charge for more.",
+     "why": "There is no single right answer. This is a real choice that cities make. Listen for reasons and for thinking about fairness."
     },
     {
      "t": "write",
      "p": "A village pond is used by farmers, buffaloes, frogs, birds and children who swim. In a dry summer there isn't enough for everyone. Who should decide how it is shared, and how? Give reasons.",
      "lines": 5,
-     "a": "There is no single right answer. A strong answer names who should decide, such as the whole village together, and gives fair reasons. It thinks about animals and people who cannot speak for themselves.",
+     "a": "There is no single right answer. A strong answer names who should decide, such as the whole village together, and gives fair reasons. It remembers the animals and the people who cannot speak for themselves.",
      "why": "This is a real problem in many villages. Listen for reasons and fairness, not one answer."
-    },
-    {
-     "t": "write",
-     "p": "Some people say water should be free for everyone. Others say people should pay, so they don't waste it. What do you think? What would happen to a poor family in each case?",
-     "lines": 5,
-     "a": "Any thoughtful answer that looks at both sides. For example: a little water free for everyone, so nobody goes thirsty, and paying for extra, so nobody wastes it.",
-     "why": "Good answers weigh both sides and think about the poorest family."
     },
     {
      "t": "write",
      "p": "Design a fair test to find out whether a matka cools water better in a breezy place or a still place. What will you keep the same? What will you change?",
      "lines": 4,
-     "a": "Use two matkas of the same size, filled with the same water at the same time. Put one in a breeze and one in still air, both in the shade. Measure both after the same time. Change only the breeze.",
+     "a": "Use two matkas of the same size and clay, filled with the same water at the same time. Put one in a breeze and one in still air, both in the shade. Measure both after the same time. Change only the breeze.",
      "why": "A fair test changes only one thing. Everything else stays the same, so you know the breeze made the difference."
     },
     {
      "t": "draw",
-     "p": "Draw the journey of one water molecule over a very long time. Show at least five places it has been, from a star to your glass.",
-     "a": "Any drawing with a sensible order, such as: made in space, an icy comet or rock, the sea, a cloud, rain, a river, groundwater, a tree, a dinosaur, a well, your glass.",
+     "p": "Draw the journey of one water molecule over a very long time. Show at least five places it has been, from space to your glass.",
+     "a": "Any drawing with a sensible order, such as: ice in space, an icy comet or rock, the sea, a cloud, rain, a river, groundwater, a tree, a dinosaur, a well, your glass.",
      "why": "Water goes round and round for billions of years. It is never new and never used up.",
      "art": "A big empty swirl with a star at one end and a glass at the other."
     },
     {
      "t": "mcq",
-     "p": "In 2019, Chennai's main lakes nearly dried up. What did the city do to get water?",
+     "p": "In 2019, Chennai's main lakes nearly dried up. How did the city get water?",
      "opts": [
       "Trains carried water from Jolarpettai, more than 200 kilometres away",
       "It waited for snow",
-      "It used the sea water just as it was"
+      "It used sea water just as it was"
      ],
      "a": 0,
-     "why": "Special trains carried millions of litres of water to Chennai. Sea water can't be drunk without removing the salt, which needs special plants and lots of electricity."
+     "why": "Special trains carried millions of litres of water to Chennai every day. Sea water cannot be drunk until the salt is removed, which needs special plants and lots of electricity."
+    },
+    {
+     "t": "truefalse",
+     "p": "Many people say India is short of water mainly because it does not rain enough. Is that true?",
+     "a": false,
+     "why": "False. India gets a lot of rain, but mostly in a few months. In many places more groundwater is pumped out than rain puts back, and rain on hard ground runs away to the sea. Saving and soaking in rain matters as much as how much falls."
     }
    ]
   }
@@ -3306,27 +3372,26 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Where does the water in your kitchen tap really come from?",
+   "p": "Which of these only stores water and passes it on, but is not where the water really comes from?",
    "opts": [
-    "The tap makes it",
-    "A river, a lake or groundwater, all filled by rain",
-    "The overhead tank makes it",
-    "The pipes make it"
+    "A river",
+    "An overhead tank",
+    "Groundwater"
    ],
    "a": 1,
-   "why": "Taps, tanks and pipes only hold and pass on water. The real source is a river, a lake or groundwater. Picking the tank means stopping the trail too early.",
+   "why": "An overhead tank is filled by a motor from a sump, a borewell or a pipe. Rivers and groundwater are real sources, filled by rain.",
    "outcome": 0
   },
   {
    "t": "mcq",
-   "p": "What is groundwater?",
+   "p": "What is groundwater mostly like?",
    "opts": [
-    "Rain that soaked in and fills tiny gaps between soil and rock",
+    "Rain held in tiny gaps between grains of soil and rock, like water in a sponge",
     "A big underground lake under every city",
-    "Water lying on the ground in puddles"
+    "Water lying in puddles on the ground"
    ],
    "a": 0,
-   "why": "Groundwater fills tiny gaps, like water in a sponge. Picking 'a big lake' is a very common picture, but it is mostly wrong. Puddles are on top of the ground, not in it.",
+   "why": "Groundwater fills tiny gaps, like water in a sponge. 'A big lake' is a very common picture, but it is mostly wrong. Puddles are on top of the ground, not in it.",
    "outcome": 2
   },
   {
@@ -3351,33 +3416,33 @@
     "Leaving it alone"
    ],
    "a": 1,
-   "why": "Pumping takes water out of the gaps, so the level falls. Only rain soaking down refills it. Picking 'more rain' is the opposite of what happens.",
+   "why": "Pumping takes water out of the gaps, so the level falls. Only rain soaking down refills it.",
    "outcome": 2,
    "context": "This question is about A Well in a Jar. You built layers of gravel, sand and soil in a clear jar, with a straw as a well, and poured in 'rain'.",
    "how": "e2"
   },
   {
    "t": "mcq",
-   "p": "Why does a matka keep water cool?",
+   "p": "To keep water cool, why must a matka be plain clay, with no shiny coating?",
    "opts": [
-    "Clay is a cold material",
-    "Water seeps through the clay and evaporates, taking heat away",
-    "The matka is heavy"
+    "Water must seep through tiny holes in the clay and evaporate on the outside",
+    "A shiny coating makes the pot heavy",
+    "A shiny coating makes the water salty"
    ],
-   "a": 1,
-   "why": "Evaporating water carries heat away. Picking 'clay is cold' is common. But a dry clay pot left in the sun gets just as hot as anything else.",
+   "a": 0,
+   "why": "The cooling comes from water evaporating on the outside of the pot. A shiny glaze blocks the tiny holes, so no water seeps out, and the pot stays as warm as a steel one.",
    "outcome": 3
   },
   {
    "t": "mcq",
-   "p": "What is a stepwell?",
+   "p": "What is a tanka, used in the Thar desert?",
    "opts": [
-    "A well with stone stairs down to the water, so people could reach it as the level fell",
-    "A pump with a step to stand on",
-    "A well that has dried up"
+    "A kind of hand pump",
+    "A covered underground tank that stores rainwater",
+    "A water truck"
    ],
-   "a": 0,
-   "why": "Stepwells, like Rani ki Vav in Gujarat and Chand Baori in Rajasthan, let people walk down to the water even in the dry season.",
+   "a": 1,
+   "why": "A tanka collects rain from a roof or a sloping yard and keeps it under the ground, covered, so it stays cool and clean for the dry months.",
    "outcome": 3
   },
   {
@@ -3385,11 +3450,11 @@
    "p": "A glass of water is perfectly clear and tastes sweet. Is it safe to drink?",
    "opts": [
     "Yes, clear water is always safe",
-    "Not for certain. It could carry germs or dissolved poisons that we cannot see",
+    "Not for certain. It could carry germs or dissolved poisons that we cannot see.",
     "Only if it is cold"
    ],
    "a": 1,
-   "why": "Germs and dissolved substances like arsenic are invisible. The Broad Street pump in 1854 had clear, sweet water that spread cholera. Picking 'clear is always safe' trusts our eyes too much.",
+   "why": "Germs and dissolved substances like arsenic are invisible. The Broad Street pump in 1854 had clear, sweet water that spread cholera.",
    "outcome": 4
   },
   {
@@ -3401,7 +3466,7 @@
     "Add salt"
    ],
    "a": 1,
-   "why": "Settling and cloth remove the mud you can see. Germs slip through. Boiling or a proper purifier kills them. Picking 'nothing' means thinking clear means clean.",
+   "why": "Settling and a cloth remove the mud you can see. Germs slip through. Boiling or a proper purifier kills them.",
    "outcome": 4
   },
   {
@@ -3413,74 +3478,32 @@
     "Neither: boiling removes everything"
    ],
    "a": 1,
-   "why": "Boiling kills germs. But dissolved substances like salt, arsenic and fluoride stay behind. Picking 'boiling removes everything' is a very common belief.",
+   "why": "Boiling kills germs. But dissolved substances like salt, arsenic and fluoride stay behind. 'Boiling removes everything' is a very common belief.",
    "outcome": 4
   },
   {
    "t": "mcq",
-   "p": "Look at the chart from a family water count. Which job used the most water?",
+   "p": "About how much water does one person drink in a day?",
    "opts": [
-    "Drinking",
-    "Bathing",
-    "Cleaning the floor"
+    "About 2 or 3 litres",
+    "About 20 litres",
+    "About 200 litres"
    ],
-   "a": 1,
-   "why": "Bathing has the tallest bar, at 150 litres. Drinking has the shortest. Most of a home's water is used for washing and flushing.",
-   "outcome": 5,
-   "context": "This question is about the Family Water Count. A family put a tally mark on a chart every time they used water for one day, then worked out the litres.",
-   "chart": {
-    "type": "bar",
-    "title": "Made-up example: one family's water in one day",
-    "x": "Job",
-    "y": "Litres",
-    "data": [
-     {
-      "label": "Bathing",
-      "value": 150,
-      "emoji": "🪣"
-     },
-     {
-      "label": "Toilet",
-      "value": 120,
-      "emoji": "🚽"
-     },
-     {
-      "label": "Washing clothes",
-      "value": 80,
-      "emoji": "👕"
-     },
-     {
-      "label": "Dishes and cooking",
-      "value": 60,
-      "emoji": "🍳"
-     },
-     {
-      "label": "Cleaning the floor",
-      "value": 20,
-      "emoji": "🧹"
-     },
-     {
-      "label": "Drinking",
-      "value": 10,
-      "emoji": "🥛"
-     }
-    ]
-   },
-   "how": "a3"
+   "a": 0,
+   "why": "Each person drinks only about 2 or 3 litres a day. Most of a home's water goes on bathing, flushing and washing.",
+   "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "A dripping tap fills a cup with 50 millilitres in 10 minutes. How much does it waste in one hour?",
+   "p": "A bucket holds 15 litres. A family uses 10 buckets of water in a day. How many litres is that?",
    "opts": [
-    "50 millilitres",
-    "300 millilitres",
-    "60 millilitres"
+    "25 litres",
+    "150 litres",
+    "1,500 litres"
    ],
    "a": 1,
-   "why": "One hour is 6 lots of 10 minutes. 6 × 50 = 300 millilitres. Picking 60 means adding instead of multiplying.",
-   "outcome": 5,
-   "context": "This question is about Drip Detective, where you caught a dripping tap's water for exactly 10 minutes.",
-   "how": "a4"
+   "why": "10 lots of 15 is 10 × 15 = 150 litres. Picking 25 means adding instead of multiplying.",
+   "outcome": 5
   },
   {
    "t": "mcq",
@@ -3491,18 +3514,18 @@
     "The water sinks too deep to be found"
    ],
    "a": 0,
-   "why": "When pumping is faster than refilling, the water level falls. India pumps more groundwater than any other country. Picking 'it never rains' is wrong. India gets a lot of rain, but unevenly.",
+   "why": "When pumping is faster than refilling, the water level falls. India pumps more groundwater than any other country. India gets a lot of rain, but unevenly.",
    "outcome": 6
   },
   {
    "t": "mcq",
    "p": "In homes without a tap, who usually does most of the water-carrying?",
    "opts": [
-    "Women and girls",
     "Grandfathers",
+    "Women and girls",
     "Nobody, water is delivered"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Around the world, women and girls do most of the water-fetching in homes without water nearby. A tap at home gives them hours back every day.",
    "outcome": 6
   },
@@ -3515,18 +3538,18 @@
     "last monsoon"
    ],
    "a": 1,
-   "why": "Hydrogen atoms were made in the Big Bang, about 13.8 billion years ago. The water itself goes round and round, so it is very old. Picking 'last monsoon' mixes up when the rain fell with when its atoms were made.",
+   "why": "Hydrogen atoms were made in the Big Bang, about 13.8 billion years ago. The water itself goes round and round, so it is very old. 'Last monsoon' mixes up when the rain fell with when its atoms were made.",
    "outcome": 7
   },
   {
    "t": "mcq",
-   "p": "In 2009, data from India's Chandrayaan-1 mission showed that…",
+   "p": "In 2009, data from India's Chandrayaan-1 Moon mission showed that…",
    "opts": [
-    "there is a trace of water in the Moon's dust",
     "the Moon has rivers",
+    "there is a trace of water in the Moon's dust",
     "the Moon is made of ice"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Chandrayaan-1 carried an instrument that found a thin trace of water in the Moon's dust. The Moon has no rivers, but its dark polar craters hold ice.",
    "outcome": 7
   }

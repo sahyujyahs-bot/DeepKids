@@ -127,7 +127,7 @@
      "kind": "talk",
      "title": "One big family",
      "mins": 8,
-     "do": "Say: 'Tall people and short people, babies and grown-ups: our bodies are all built on the same plan.' Ask: 'Why might all people be built the same way?' Listen to the guess. Then say: 'All people alive today are one kind of living thing, called human beings. Long, long ago, we all had the same great-great-great grandparents. So every person in the world is a far-away cousin.' Ask: 'Is a dog built on a plan a bit like ours?' (Yes: two eyes, a nose, a mouth, a heart, bones inside.) Glue the strings for your child onto a page of the family book."
+     "do": "Say: 'Tall people and short people, babies and grown-ups: our bodies are all built on the same plan.' Ask: 'Why might all people be built the same way?' Listen to the guess. Then say: 'All people alive today are one kind of living thing, called human beings. Long, long ago, all of us came from the same small group of people. So every person in the world is a far-away cousin.' Ask: 'Is a dog built on a plan a bit like ours?' (Yes: two eyes, a nose, a mouth, a heart, bones inside.) Glue the strings for your child onto a page of the family book."
     }
    ],
    "need": [
@@ -153,7 +153,7 @@
      "kind": "act",
      "title": "My self-portrait and my name",
      "mins": 14,
-     "do": "Do Activity a1. Your child looks in a mirror and draws their own face, as carefully as they can: the shape of the eyes, the hair, any mole or dimple. Then ask a grown-up why they chose your child's name and what it means. Write the name and its meaning under the picture. Ask: 'Does anyone else in the world look exactly like this drawing?' (No.) Say: 'Even identical twins, who came from one tiny egg, are not exactly the same. Their fingerprints are different, and they like different things.'",
+     "do": "Do Activity a1. Your child looks in a mirror and draws their own face, as carefully as they can: the shape of the eyes, the hair, any mole or dimple. Then ask a grown-up why they chose your child's name and what it means. Write the name and its meaning under the picture. Ask: 'Does anyone else in the world look exactly like this drawing?' (No.) Say: 'Even identical twins, who came from one tiny egg, are not exactly the same. Their fingerprints are different, and they can like different things.'",
      "ref": "a1"
     },
     {
@@ -228,14 +228,14 @@
      "kind": "talk",
      "title": "Every tiger is different",
      "mins": 8,
-     "do": "Show a picture of a tiger in a book or on a phone. Ask: 'Do all tigers look the same?' Let your child guess. Then tell voice v2: Ullas Karanth, a scientist in Karnataka, put cameras in the forest that take a photo when an animal walks past. He found that no two tigers have the same stripes, so he could tell each tiger apart and count them. Ask: 'Can you find something that makes each crow or each pigeon at the window different?' (Look together for a day or two: a bent feather, a limp, a different colour.)",
+     "do": "Show a picture of a tiger in a book or on a phone. Ask: 'Do all tigers look the same?' Let your child guess. Then tell voice v2: Ullas Karanth, a scientist in Karnataka, put cameras in the forest that take a photo when an animal walks past. No two tigers have the same stripes, so from the photos he could tell each tiger apart and count them. Ask: 'Can you find something that makes each crow or each pigeon at the window different?' (Look together for a day or two: a bent feather, a limp, a different colour.)",
      "ref": "v2"
     },
     {
      "kind": "talk",
      "title": "Names, not numbers",
      "mins": 10,
-     "do": "Tell voice v1: Jane Goodall went to a forest in Tanzania in 1960 to watch chimpanzees. She gave each chimpanzee a name, like David Greybeard, and saw that each one had their own way of behaving. Some scientists said she should use numbers, not names. Ask: 'Why do you think she wanted to use names?' Let your child answer. Then ask: 'Is a chimpanzee more like a person or more like a stone? Why?' Good answers: like a person, because they eat, play, feel, have a family and know each other.",
+     "do": "Tell voice v1: Jane Goodall went to a forest in Tanzania in 1960 to watch chimpanzees. She gave each chimpanzee a name, like David Greybeard, and saw that each one had their own way of behaving. Some scientists said she should use numbers, not names. Ask: 'Why do you think she wanted to use names?' Let your child answer. Then ask: 'What can a chimpanzee do that you can do too?' Good answers: eat, play, feel happy or sad, look after their family, know each other.",
      "ref": "v1"
     }
    ],
@@ -370,7 +370,7 @@
         "favourite food",
         "height",
         "needs sleep",
-        "hair",
+        "length of hair",
         "has a heart"
        ],
        "cats": [
@@ -510,7 +510,7 @@
        "items": [
         "who is at the door",
         "what a story book says",
-        "if the tea is hot",
+        "if a cup of tea is hot",
         "if a flower is jasmine"
        ],
        "cats": [
@@ -590,7 +590,7 @@
      [
       {
        "t": "mcq",
-       "p": "A man is 150 cm tall. About how long is his arm span?",
+       "p": "Meena's aunt is 150 cm tall. About how long is her arm span?",
        "opts": [
         "about 150 cm",
         "about 50 cm",
@@ -600,7 +600,7 @@
       },
       {
        "t": "mcq",
-       "p": "In Kavya's family, Amma, Appa and Kavya are right-handed. Kavya's baby cousin is left-handed. Which is true?",
+       "p": "In Meenakshi's family, Amma, Appa and Meenakshi are right-handed. Meenakshi's baby cousin is left-handed. Which is true?",
        "opts": [
         "Both ways are normal. They are just different.",
         "Left-handed is wrong.",
@@ -687,7 +687,7 @@
    ],
    "predict": "Ask your child to guess first: 'Will your arm span be longer than your height, shorter, or about the same? Why do you think so?'",
    "observe": "For each person, the two strings are about the same length. They may differ by a few centimetres. A tall person has long strings and a short person has short strings, but the pair matches for each person.",
-   "why": "People are different sizes, but all human bodies grow on the same plan. As a body grows taller, the arms grow longer too, so arm span stays close to height. Tailors and doctors use patterns like this, because they are true for nearly everyone.",
+   "why": "People are different sizes, but all human bodies grow on the same plan. As a body grows taller, the arms grow longer too, so arm span stays close to height. Doctors use this pattern to work out the height of someone who cannot stand up.",
    "safety": "A grown-up uses the scissors.",
    "time": "18 min"
   },
@@ -865,7 +865,7 @@
     "back": "an elephant"
    },
    {
-    "front": "1. I am a person. 2. I am the same height as my arm span. 3. I am reading this card to you.",
+    "front": "1. I am a person. 2. My arm span is about the same as my height. 3. I am reading this card to you.",
     "back": "the grown-up reading the card"
    },
    {
@@ -877,7 +877,7 @@
     "back": "identical twins"
    },
    {
-    "front": "1. I live in a forest in Tanzania. 2. A scientist named Jane Goodall gave me a name. 3. I use grass stems to catch termites.",
+    "front": "1. I live in a forest in Tanzania. 2. A scientist named Jane Goodall gave names to animals like me. 3. I use grass stems to catch termites.",
     "back": "a chimpanzee"
    },
    {
@@ -941,7 +941,7 @@
  "perspectives": [
   {
    "who": "a tailor in Madurai",
-   "view": "A tailor measures every customer, because no two people are the same size. But she also knows patterns, like arm span being close to height, that hold for nearly everyone. Which helps her more, the sameness or the differences?"
+   "view": "A tailor measures every customer, because no two people are the same size. But every blouse she sews has two sleeves and a neck, because every body has the same shape. Which helps her more, the sameness or the differences?"
   },
   {
    "who": "a doctor",
@@ -1087,7 +1087,7 @@
    "'I won't,' said Kavya. 'Now I know what you look like. And I know what you are like. Those are not the same thing.'",
    "In the morning, Amma came in and looked under the bed, the way she always does. Kavya leaned over the side and waved at me. Amma looked where she was waving and saw only dust.",
    "'Who are you waving at?' asked Amma.",
-   "'My friend,' said Kavya. 'He has horns. And he is scared of the pressure cooker, just like Thambi.'"
+   "'My friend,' said Kavya. 'He has horns. And he is scared of the pressure cooker, just like my little brother.'"
   ],
   "epiphany": "For the parent: the visitor looks completely different from Kavya, with horns, fur and claws. The story turns when Kavya sees his hands shaking and finds he is scared too. After that she notices how alike they are: two eyes, ten fingers, hungry at night, scared of being alone. What someone looks like does not tell you what they are like inside, and the feelings inside are often the same.",
   "ask": [
@@ -1101,7 +1101,7 @@
  "ideas": [
   {
    "idea": "Every person is built on the same plan and needs the same things.",
-   "more": "Two eyes, a heart, bones inside, and the need for air, water, food, sleep and care are true for every person in the world. Show it with the arm span strings: different sizes, the same pattern. All people alive today are one kind of being, and far back in time we share the same great-great-grandparents."
+   "more": "Two eyes, a heart, bones inside, and the need for air, water, food, sleep and care are true for every person in the world. Show it with the arm span strings: different sizes, the same pattern. All people alive today are one kind of being, and far back in time we all come from the same small group of people."
   },
   {
    "idea": "No two people, and no two tigers, are exactly alike.",
@@ -1113,7 +1113,7 @@
   }
  ],
  "unknowns": [
-  "Why are about 1 in 10 people left-handed? Genes play a small part, and so does what happens before birth, but nobody fully knows.",
+  "Why are about 1 in 10 people left-handed? Genes play a small part, but nobody fully knows.",
   "Animals clearly have feelings. Nobody knows yet whether a dog's happiness feels to the dog the way our happiness feels to us.",
   "How much do we like a taste because of our body, and how much because of what we grew up eating? Scientists are still finding out."
  ]

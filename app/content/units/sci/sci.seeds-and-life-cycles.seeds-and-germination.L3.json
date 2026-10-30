@@ -144,7 +144,7 @@
    ],
    "perspectives": [],
    "art": "A big labelled drawing of a split bean: the seed coat peeling away, the two fat halves of the food store, and the tiny baby plant with their root and two small folded leaves.",
-   "context": "This card explains the main idea of the first half of the unit: what a seed is, and its three parts."
+   "context": "This card explains the main idea of the first half of the unit: what a seed is, and their three parts."
   },
   {
    "concept": "Two kinds of food store: beans and grains",
@@ -305,7 +305,7 @@
    "perspectives": [
     {
      "who": "Most seed scientists",
-     "explanation": "Old seeds slowly get damaged inside, a little more each year. Dry and cold slow this down. Every kind of seed has its own limit."
+     "explanation": "Old seeds slowly get damaged inside, a little more each year. Dry and cold slow this down. Every kind of seed has their own limit."
     },
     {
      "who": "Some scientists",
@@ -854,17 +854,12 @@
    "mins": 20,
    "items": [
     {
-     "t": "mcq",
-     "p": "What are the three main parts of a seed?",
-     "opts": [
-      "Seed coat, baby plant and food store",
-      "Root, stem and flower",
-      "Skin, juice and stone",
-      "Leaf, fruit and bark"
-     ],
-     "a": 0,
-     "why": "Every seed has a coat outside, a tiny baby plant inside, and a store of food for them. Picking 'root, stem and flower' mixes up a seed with a grown plant. Those parts grow later.",
-     "art": "A split bean with three labels."
+     "t": "draw",
+     "p": "Draw a seed opened in half. Label the seed coat, the baby plant and the food store.",
+     "a": "A bean shape split open, with the coat peeling off, two large halves labelled 'food store' and a tiny plant at one edge labelled 'baby plant'.",
+     "why": "Every seed has these three parts.",
+     "art": "An empty outline of a bean.",
+     "how": "a1"
     },
     {
      "t": "fill",
@@ -889,19 +884,6 @@
     },
     {
      "t": "mcq",
-     "p": "What do most seeds need to sprout?",
-     "opts": [
-      "Water, warmth and air",
-      "Sunlight, soil and water",
-      "Only water",
-      "Soil and fertiliser"
-     ],
-     "a": 0,
-     "why": "Water wakes the seed, warmth makes the changes inside them go faster, and air lets them breathe. Picking 'sunlight and soil' is the most common mistake. A seed has their own food, so they do not need them to start.",
-     "how": "e1"
-    },
-    {
-     "t": "mcq",
      "p": "In the five-cup test, you put 10 moong seeds in each of 5 cups: dry, damp, damp in the fridge, under water with oil on top, and damp in the light. In which cup did the most seeds sprout?",
      "opts": [
       "Dry",
@@ -915,10 +897,12 @@
      "context": "In the five-cup test, you put 10 moong seeds in each of 5 cups: dry, damp, damp in the fridge, under water with oil on top, and damp in the light."
     },
     {
-     "t": "truefalse",
-     "p": "Moong seeds can sprout in a dark cupboard.",
-     "a": true,
-     "why": "True. A seed carries their own food, so they do not need light to sprout. In the five-cup test, the cup in the dark did as well as the cup in the light.",
+     "t": "write",
+     "p": "Many people think seeds need sunlight to sprout, because plants need light. Use the five-cup test to say whether this is right.",
+     "lines": 3,
+     "a": "It is not right for moong. The damp cup in the dark sprouted just as well as the damp cup in the light. A seed carries their own food, so they do not need light to start. The seedling needs light later, once the food runs out.",
+     "why": "A strong answer uses the two damp cups as evidence: they were the same except for light, and both sprouted.",
+     "context": "In the five-cup test, you put 10 moong seeds in each of 5 cups: dry, damp, damp in the fridge, under water with oil on top, and damp in the light.",
      "how": "e1"
     },
     {
@@ -987,15 +971,27 @@
      "how": "a2"
     },
     {
-     "t": "mcq",
-     "p": "A seed is put in a cup full of water, right up to the top. What usually happens?",
-     "opts": [
-      "They sprout best, because they have the most water",
-      "They do badly, because they cannot get enough air",
-      "They turn into a plant overnight"
+     "t": "perspective",
+     "p": "In the story, a rat keeps chewing the bundle of sprouting moong. Noor, her mother and her brother each have a plan.",
+     "views": [
+      {
+       "who": "Noor, aged 9, at first",
+       "says": "Seal the moong in the dabba with water and a heavy lid. No rat can get in."
+      },
+      {
+       "who": "Ammi, Noor's mother",
+       "says": "Tie the moong loosely in a cloth and hang it from a nail. The seeds need air."
+      },
+      {
+       "who": "Faiz, Noor's brother, aged 13",
+       "says": "Drain the moong and keep them in a steel tin with holes punched in the lid."
+      }
      ],
-     "a": 1,
-     "why": "Seeds need air to breathe. Under water there is very little air, so most seeds do badly or rot. Picking 'sprouts best' means thinking more water is always better. Rice is an exception."
+     "ask": "Which plan would you choose? Give a reason from what a seed needs. Then say one thing another plan gets right.",
+     "lines": 5,
+     "a": "A strong answer uses what seeds need: water, warmth and air. Noor's first plan keeps the rat out, but the seeds under water cannot breathe, so they go sour. Ammi's cloth gives the most air, but a rat can reach it. Faiz's tin keeps the rat out and lets some air in, if the seeds are drained first. A strong answer gives each plan its due.",
+     "why": "There is a real trade-off between keeping a rat out and letting air in. In the story, Noor solved both by hanging a strainer above the bundle, like an umbrella.",
+     "context": "In the story The Warm Bundle, Noor's mother sells sprouts from a cart in Chennai. She soaks moong, then ties them loosely in a cloth and hangs it from a nail. While she is away, Noor seals the moong under water in a dabba to keep a rat out, and they go sour."
     },
     {
      "t": "mcq",
@@ -1010,10 +1006,12 @@
     },
     {
      "t": "write",
-     "p": "Your friend says, 'Dry seeds in a jar are dead.' What would you tell them? Give one piece of evidence.",
-     "lines": 3,
-     "a": "Dry seeds are alive, but asleep. My evidence: when we soaked moong from a jar, most of them sprouted in two days. Boiled seeds never sprout, so the jar seeds must have been alive.",
-     "why": "A good answer says the seeds are alive but resting, and gives evidence, such as the seeds sprouting once they got water."
+     "p": "Think of your own five-cup test. Which cup surprised you most? Say what you guessed, what you saw, and what it shows.",
+     "lines": 4,
+     "a": "Any honest answer with all three parts. For example: I guessed the cup under water would sprout best, because it had the most water. But hardly any seeds sprouted there. This shows that seeds need air as well as water.",
+     "why": "A strong answer compares the guess with the result, and says what a seed needs.",
+     "context": "In the five-cup test, you put 10 moong seeds in each of 5 cups: dry, damp, damp in the fridge, under water with oil on top, and damp in the light.",
+     "how": "e1"
     },
     {
      "t": "order",
@@ -1029,14 +1027,6 @@
      "why": "First the seed drinks and swells, which splits the coat. The root comes first, then the shoot. Leaves open last, once the shoot reaches the light."
     },
     {
-     "t": "draw",
-     "p": "Draw a seed opened in half. Label the seed coat, the baby plant and the food store.",
-     "a": "A bean shape split open, with the coat peeling off, two large halves labelled 'food store' and a tiny plant at one edge labelled 'baby plant'.",
-     "why": "Every seed has these three parts.",
-     "art": "An empty outline of a bean.",
-     "how": "a1"
-    },
-    {
      "t": "mcq",
      "p": "Why do we put 10 seeds in each cup, not just 1?",
      "opts": [
@@ -1047,6 +1037,19 @@
      "a": 0,
      "why": "Some seeds don't sprout even when everything is right. If we used only one, a single dead seed could fool us. With 10, one dead seed matters much less.",
      "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "Kavya sows a moong seed in a pot of dry soil on a sunny windowsill. She never waters the pot. Will the seed sprout? Explain.",
+     "lines": 3,
+     "a": "No. The seed has warmth and air, and sunlight, but no water. Water is what wakes a seed up. Sunlight does not help a seed start, because the seed has their own food.",
+     "why": "A strong answer names the missing need, water, and says that the sun does not make up for it."
+    },
+    {
+     "t": "truefalse",
+     "p": "A seed that swells up in water must be alive.",
+     "a": false,
+     "why": "False. A boiled seed swells up in water too, like a sponge, but never sprouts. Swelling is only the seed soaking up water. Sprouting a root shows that a seed is alive."
     }
    ]
   },
@@ -1056,19 +1059,6 @@
    "tier": "stretch",
    "mins": 25,
    "items": [
-    {
-     "t": "mcq",
-     "p": "A heap of sprouting moong in a cloth gets warm. Why?",
-     "opts": [
-      "The seeds are breathing, and breathing makes a little heat",
-      "The cloth is made of wool",
-      "The water is hot",
-      "The seeds are rotting"
-     ],
-     "a": 0,
-     "why": "Sprouting seeds use oxygen to get energy from their food, and some energy comes out as heat. Picking 'rotting' is a good guess, because rotting things do warm up. But healthy sprouts warm up too, and boiled seeds do not.",
-     "how": "e2"
-    },
     {
      "t": "mcq",
      "p": "In the warm flask test, why did we use boiled seeds in the second flask?",
@@ -1110,15 +1100,11 @@
      "how": "e3"
     },
     {
-     "t": "mcq",
-     "p": "Your seeds on damp cotton in the fridge hardly sprouted. Then you moved them to the kitchen shelf. What will most likely happen?",
-     "opts": [
-      "They will start to sprout, because cold only made them wait",
-      "Nothing, because the cold killed them",
-      "They will turn into ice"
-     ],
-     "a": 0,
-     "why": "Cold slows the changes inside a seed, but usually does not kill them. Once they are warm, they wake up. Picking 'the cold killed them' is a common guess. Try it and see.",
+     "t": "truefalse",
+     "p": "Moong seeds that hardly sprouted in the fridge are dead.",
+     "a": false,
+     "why": "False. Cold slows the changes inside a seed, but usually does not kill them. Move the fridge cup to a warm kitchen shelf, and most of the seeds sprout within a day or two.",
+     "context": "In the five-cup test, you put 10 moong seeds in each of 5 cups: dry, damp, damp in the fridge, under water with oil on top, and damp in the light.",
      "how": "e1"
     },
     {
@@ -1184,22 +1170,22 @@
     },
     {
      "t": "write",
-     "p": "Noor's mother hung her moong in a loose cloth bundle, not in a closed tin. Why is that better for sprouting? Use the word air in your answer.",
-     "lines": 3,
-     "a": "In a loose cloth, air can reach every seed, so the seeds can breathe. In a closed tin full of water, they get very little air and go sour.",
-     "why": "A good answer says that seeds need air to breathe, and a loose cloth lets air in.",
-     "context": "In the story The Warm Bundle, Noor's mother makes sprouts for her cart. She soaks moong, then ties them loosely in a cloth and hangs it from a nail."
+     "p": "Arif feels his bundle of sprouting moong getting warm. He says, 'They must be rotting.' How could you test whether he is right?",
+     "lines": 4,
+     "a": "Set up two heaps the same way: one of live sprouting moong and one of boiled moong. Put a thermometer in each. For the first day, the live heap gets warm and the boiled heap stays cool. The live sprouts also smell fresh and grow tails. So the warmth comes from seeds breathing, not from rotting.",
+     "why": "A strong answer plans a fair test with boiled seeds, so the only difference is whether the seeds are alive.",
+     "how": "e2"
     },
     {
      "t": "mcq",
-     "p": "A big rajma bean and a tiny banyan seed. Which grows into the bigger plant?",
+     "p": "Hema sows one moong seed 1 cm deep in a tall bucket of soil, and another 30 cm deep. Which one is more likely to reach the light?",
      "opts": [
-      "The banyan seed, which grows into a giant tree",
-      "The rajma, because their seed is bigger",
-      "They grow the same size"
+      "The shallow seed, because the deep seed's food store may run out before their shoot reaches the light",
+      "The deep seed, because they have more soil around them",
+      "Both the same"
      ],
      "a": 0,
-     "why": "The size of a seed does not tell you the size of the plant. A tiny banyan seed can become a huge tree. The plant builds themselves mostly from air and water, using sunlight, over many years."
+     "why": "Underground there is no light, so the seedling lives only on the food in their seed. A moong seed has only a little food. From 30 cm down, the shoot may use it all up before reaching the light. Picking 'more soil' is a common guess, but a seed does not need soil to start."
     },
     {
      "t": "draw",
@@ -1220,6 +1206,35 @@
      "p": "Old seeds from Beal's bottles, buried in 1879, still sprouted in 2021.",
      "a": true,
      "why": "True. More than 140 years later, some of the seeds sprouted. Seeds buried in the ground can stay alive for a very long time."
+    },
+    {
+     "t": "perspective",
+     "p": "Valli and her neighbours want to sow rajma beans in pots. They give different advice about soaking the seeds first.",
+     "views": [
+      {
+       "who": "Valli, who grows vegetables on her terrace",
+       "says": "Soak the beans in water overnight before sowing. They sprout a day or two sooner."
+      },
+      {
+       "who": "Rao Aunty, from next door",
+       "says": "Never soak them. Soaked beans in cold, wet soil often rot."
+      },
+      {
+       "who": "Selvi, aged 10",
+       "says": "Soak them for only a few hours. Then sow them in soil that is damp, not soggy."
+      }
+     ],
+     "ask": "Whose advice would you follow? Give a reason from what a seed needs. Then say one thing another person has right.",
+     "lines": 5,
+     "a": "A strong answer uses what seeds need. Soaking gives the seed water early, so they wake sooner, as Valli says. But a seed also needs air, and soggy soil leaves no air, so Rao Aunty's worry is real. Selvi's plan gives water without drowning the seed. A strong answer picks one and admits what another gets right.",
+     "why": "There is a real trade-off. Water wakes a seed, but too much water and too little air make the seed rot. The best plan depends on how wet and cold the soil is."
+    },
+    {
+     "t": "write",
+     "p": "Simran, in Delhi, soaks moong on a cold December night. The next evening they still have no tails. Suggest two ways to help them sprout, and say why each one works.",
+     "lines": 4,
+     "a": "Move the bundle somewhere warmer, for example near the kitchen stove but not on it, because warmth makes the changes inside a seed go faster. Wrap the cloth in a towel, because the seeds' own warmth from breathing stays in. Keep the seeds damp, and keep air around them.",
+     "why": "A strong answer names warmth as the missing need, and keeps water and air too."
     }
    ]
   },
@@ -1272,41 +1287,26 @@
      "why": "A tiny seed has only a little food. If they sprouted deep underground, they might run out before reaching the light. So waiting for light keeps them safe. In 1952, scientists in the United States showed that red light is what wakes these seeds."
     },
     {
-     "t": "match",
-     "p": "Match each scientist to what they found.",
-     "pairs": [
-      [
-       "William James Beal, 1879",
-       "buried bottles of seeds to see how long they live"
-      ],
-      [
-       "Elaine Solowey and Sarah Sallon, 2005",
-       "grew a date palm from a 2,000-year-old seed"
-      ],
-      [
-       "Leslie Paleg and Hiroshi Yomo, 1960",
-       "found the message a baby plant sends to their food store"
-      ],
-      [
-       "Gavin Flematti and team, 2004",
-       "found the chemical in smoke that wakes some seeds"
-      ]
+     "t": "perspective",
+     "p": "People disagree about whether a dry seed in a jar is alive.",
+     "views": [
+      {
+       "who": "A biologist, a scientist who studies living beings",
+       "says": "A dry seed is alive but dormant, which means resting. They breathe very, very slowly, and they sprout when they get water. A boiled seed never does."
+      },
+      {
+       "who": "A philosopher, someone who thinks about big questions",
+       "says": "A dry seed does not grow, move or eat. Maybe life has almost stopped in them, and they sit between alive and not alive."
+      },
+      {
+       "who": "Noor, aged 9",
+       "says": "A seed in a jar is like me asleep. I am not doing much, but I am still alive."
+      }
      ],
-     "a": "pairs as given",
-     "why": "Each of these scientists helped us understand how seeds wait and wake."
-    },
-    {
-     "t": "truefalse",
-     "p": "In 2019, a cotton seed sprouted on the Moon inside China's Chang'e 4 lander.",
-     "a": true,
-     "why": "True. They sprouted in a sealed box with water, air and soil, then died when the freezing lunar night came. It had water and air, but not enough warmth."
-    },
-    {
-     "t": "write",
-     "p": "Is a dry seed in a jar alive? Give one reason to say yes, and one reason someone might say no.",
-     "lines": 4,
-     "a": "Yes: they are still breathing very slowly, and they sprout when we add water, unlike a boiled seed. Someone might say no: they do not grow, move or seem to eat.",
-     "why": "There is no single right answer. Scientists mostly say they are alive but dormant. What counts is a reason on each side."
+     "ask": "What do you think? Pick a side and give your evidence from this unit. Then answer back from another side.",
+     "lines": 6,
+     "a": "A strong answer uses evidence. For alive: dry seeds from a jar sprouted when soaked, but boiled seeds never did, so something in the jar seeds was still alive. Against: a dry seed shows almost none of the signs of life. A strong answer then gives the other side its due, for example that sleep is a good comparison, but a seed can stay like this for years.",
+     "why": "Most biologists say a dry seed is alive but dormant. Because they do so little, people still discuss where life begins and ends. There is no single right answer here."
     },
     {
      "t": "mcq",
@@ -1319,13 +1319,6 @@
      "a": 0,
      "why": "Boiled seeds are dead, but bacteria can feed on them. Bacteria breathe, so they make warmth too. That is why we stop the warm flask test after 2 days.",
      "how": "e2"
-    },
-    {
-     "t": "write",
-     "p": "Why do you think seed banks keep seeds dry and very cold?",
-     "lines": 3,
-     "a": "Dry and cold slow everything inside the seed down, so the seed uses their food very slowly and stays asleep. Then they can stay alive for many years, until someone needs it.",
-     "why": "Warmth and water wake a seed. Taking them away keeps them asleep."
     },
     {
      "t": "odd",
@@ -1378,6 +1371,44 @@
      "lines": 4,
      "a": "To sprout: water, warmth and air, inside a sealed box or base. Later: light for the leaves to make food, and minerals, like those in soil or plant food.",
      "why": "A seed needs water, warmth and air to wake. A seedling needs light once their own food store runs out."
+    },
+    {
+     "t": "write",
+     "p": "A banyan seed is about as small as a mustard seed, with only a tiny store of food. Yet the seed can grow into a giant tree. Where does the rest of the tree come from?",
+     "lines": 4,
+     "a": "The seed's food only feeds the seedling for the first few days. After that, the young banyan's green leaves make food from carbon dioxide in the air and water from the soil, using sunlight. Over many years, the tree builds their whole body that way.",
+     "why": "A strong answer says the seed's food is only a start, and the tree is built mostly from air and water, using sunlight."
+    },
+    {
+     "t": "mcq",
+     "p": "In parts of Australia and South Africa, some seeds sprout only after they meet smoke from a bush fire. Why might a seed wait for a fire?",
+     "opts": [
+      "After a fire, the ground is open and sunny, with fewer big plants taking the light and water",
+      "Fire makes the seed warm enough to sprout",
+      "Smoke is food for seeds"
+     ],
+     "a": 0,
+     "why": "A fire clears away big plants, so a seedling that sprouts just after gets light, water and room. In 2004, scientists found the chemical in smoke that wakes these seeds. Picking 'fire makes the seed warm' is a sensible guess, but it is a chemical in the smoke, not the heat, that wakes them."
+    },
+    {
+     "t": "fill",
+     "p": "A seed packet says that 40 of every 50 seeds sprouted in the company's test. That is ____ out of every 10 seeds.",
+     "a": [
+      "8",
+      "eight"
+     ],
+     "why": "50 is 5 lots of 10. 40 shared into 5 lots is 8. So 8 out of every 10 seeds sprouted. Sowing 10 seeds, you should expect about 8 seedlings."
+    },
+    {
+     "t": "order",
+     "p": "Put these ways of storing seeds in order, from the one that keeps seeds alive longest to the one that keeps them alive for the shortest time.",
+     "items": [
+      "Dry, in a sealed jar in a freezer",
+      "Dry, in a sealed jar on a kitchen shelf",
+      "Damp, in an open sack in a warm corner"
+     ],
+     "a": "order shown",
+     "why": "Water and warmth wake a seed and make them use up their food. Dry and cold keep the seed resting for the longest. That is why seed banks keep seeds dry and frozen."
     }
    ]
   }
@@ -2954,14 +2985,14 @@
   },
   {
    "t": "mcq",
-   "p": "Do scientists agree that a dry seed is alive?",
+   "p": "The Svalbard Global Seed Vault in Norway keeps seeds from all over the world at about minus 18 degrees Celsius. Why so cold?",
    "opts": [
-    "Most say yes, alive but asleep. Some say life almost stops in them, and philosophers still argue about what 'alive' means.",
-    "Yes, and there is nothing more to say",
-    "No, everyone agrees they are dead"
+    "Cold slows everything inside a seed, so they use their food very slowly and stay alive longer",
+    "Cold makes the seeds sprout faster later",
+    "Seeds grow best in snow"
    ],
    "a": 0,
-   "why": "Most biologists call a dry seed dormant: alive, but asleep. Because they do so little, some scientists and thinkers say it sits between alive and not alive. This is still discussed.",
+   "why": "Warmth and water wake a seed and make them use up their food. Dry and cold keep them resting. Scientists still do not know how long seeds kept like this can live. Picking 'sprout faster' mixes up storing seeds with sprouting them.",
    "outcome": 6
   }
  ],

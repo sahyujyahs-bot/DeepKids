@@ -653,85 +653,80 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
 
 ## Worksheets
 ### Round and Round: the plant life cycle (core) (core, 16 questions)
-1. (order) Put these stages of a moong plant's life in order, starting with the seed: flower, seedling, seed, pod, grown plant.  
-   **Answer:** order shown. *Why:* A seed sprouts into a seedling. The seedling grows into a grown plant. The plant makes flowers, and each flower can grow into a pod full of new seeds.
-2. (mcq) Why is it called a life CYCLE?  
-   Options: Because plants grow fast, like a bicycle / Because the new seeds start the same stages again, so it goes round in a circle / Because it happens once and then stops / Because plants move in circles to follow the Sun  
-   **Answer:** Because the new seeds start the same stages again, so it goes round in a circle. *Why:* The last stage, new seeds, is also the first stage of the next plant. So it goes round. Picking 'happens once and then stops' usually means thinking of one plant only. One plant does die, but their seeds carry on the cycle.
-3. (fill) A fruit grows from a ____.  
-   **Answer:** ['flower']. *Why:* After pollen reaches the middle of the flower, its petals fall and its base swells into the fruit.
-4. (mcq) Which part of a flower swells up to become the fruit?  
+1. (order) A moong plant's life goes round in a circle. Put these stages in order, starting with the flower.  
+   **Answer:** order shown. *Why:* The flower grows into a pod. The pod holds seeds. A seed sprouts into a seedling, and the seedling grows into a grown plant, which makes flowers again. A cycle can start at any stage.
+2. (write) Saranya says a plant's life is a straight line, from a seed to the day the plant dies. Her friend Malar says it is a circle. Who is right? Explain.  
+   **Answer:** Both have a point, but Malar is closer. One plant's life does end when they die. But before they die, they make seeds, and each seed can grow into a new plant that goes through the same stages. So the stages go round and round.. *Why:* A strong answer agrees that one plant dies, and then explains that their seeds carry the stages on. That is why it is called a life cycle.
+3. (mcq) Which part of a flower swells up to become the fruit?  
    Options: The petals / The base in the very middle of the flower / The green stalk / The leaves around it  
    **Answer:** The base in the very middle of the flower. *Why:* The swollen base in the middle of the flower holds tiny seed-starts. It grows into the fruit, and the seed-starts become seeds. Picking 'the petals' is a common idea, because petals are the biggest, brightest part. But the petals fall off. The fruit grows from the middle.
-5. (sort) To a scientist, which of these are fruits? Sort them.  
+4. (sort) To a scientist, which of these are fruits? Sort them.  
    **Answer:** tomato → Fruit (grew from a flower, holds seeds); bhindi → Fruit (grew from a flower, holds seeds); potato → Not a fruit; green chilli → Fruit (grew from a flower, holds seeds); carrot → Not a fruit; pea pod → Fruit (grew from a flower, holds seeds); palak leaf → Not a fruit. *Why:* A fruit grows from a flower and holds seeds. Tomatoes, bhindi, chillies and pea pods all have seeds inside. A potato is a swollen stem, a carrot is a root and palak is a leaf.
-6. (truefalse) The green star on top of a tomato was part of the tomato's flower.  
-   **Answer:** True. *Why:* True. The green star is made of the sepals, the small green leaves that wrapped the flower bud. They stay on while the fruit grows.
-7. (mcq) What is a seedling?  
-   Options: A very young plant that has just come out of their seed / A seed that has not been planted / A plant that is about to flower / A dead plant  
-   **Answer:** A very young plant that has just come out of their seed. *Why:* A seedling has just sprouted, with a tiny root, a short stem and their first leaves. Picking 'a seed that has not been planted' mixes up the seed and the seedling. The seedling comes after the seed wakes up.
-8. (match) Match each stage to what happens in it.  
-   **Answer:** Seed → waits, then sprouts when they get water, warmth and air; Seedling → pushes up their first leaves; Grown plant → makes food in their leaves and gets big; Flower → gets pollen in its middle; Fruit → swells and holds new seeds. *Why:* Each stage has its own job. Together they make the whole circle.
-9. (mcq) Where does a growing plant get most of their food?  
-   Options: They eat soil through their roots / Their green leaves make food from air and water, using sunlight / From the seed, for their whole life / From rain only  
-   **Answer:** Their green leaves make food from air and water, using sunlight. *Why:* Green leaves make sugar from carbon dioxide and water, using sunlight. This is called photosynthesis. Picking 'eats soil' is a very common idea. But the soil gives only water and small amounts of minerals. Picking 'from the seed' is true only for the first few days.
-10. (fill) A plant that goes through their whole life cycle in one year or less, then dies, is called an ____.  
-   **Answer:** ['annual']. *Why:* Moong, rice and marigold are annuals. Plants that live for many years are called perennials.
-11. (truefalse) Every new plant must grow from a seed.  
-   **Answer:** False. *Why:* False. Potatoes grow from their eyes, onions from bulbs, money plants from cuttings and bananas from shoots at the base of the old plant.
-12. (mcq) You tag a bhindi flower with a thread. Six days later, what will you most likely find on that spot?  
+5. (fill) Moving pollen from one flower to the middle of another flower is called ____.  
+   **Answer:** ['pollination']. *Why:* Bees, butterflies, birds and the wind move pollen. Without pollination, most flowers fall off without making a fruit.
+6. (mcq) You tag a bhindi flower with a thread. Six days later, what will you most likely find on that spot?  
    Options: The same flower, still open / A young bhindi pod / A new leaf / Nothing at all  
    **Answer:** A young bhindi pod. *Why:* A bhindi flower opens for one morning. Then its petals fall and its base grows into a pod, about a finger long after five or six days. Picking 'the same flower' means thinking flowers last a long time. Many last only a day. Some tagged flowers do fall off with no pod, which is normal.
-13. (draw) Draw the life cycle of a moong plant as a circle with arrows. Label each stage.  
-   **Answer:** A circle with five or six stages joined by arrows: seed, seedling, grown plant, flower, pod, and back to seed.. *Why:* A good drawing joins the last stage back to the first one. That is what makes it a cycle.
-14. (mcq) Why do many plants make sweet, juicy fruits?  
+7. (match) Match each stage to what happens in it.  
+   **Answer:** Seed → waits, then sprouts when they get water, warmth and air; Seedling → pushes up their first leaves; Grown plant → makes food in their leaves and gets big; Flower → gets pollen in its middle; Fruit → swells and holds new seeds. *Why:* Each stage has its own job. Together they make the whole circle.
+8. (truefalse) A seedling's very first food comes from inside the seed.  
+   **Answer:** True. *Why:* True. A seed carries a store of food for the baby plant. Once their green leaves open, the seedling starts making their own food from air and water, using sunlight.
+9. (fill) A plant that goes through their whole life cycle in one year or less, then dies, is called an ____.  
+   **Answer:** ['annual']. *Why:* Moong, rice and marigold are annuals. Plants that live for many years are called perennials.
+10. (mcq) Why do many plants make sweet, juicy fruits?  
    Options: So that the plant has something to eat / To make the plant heavier / So that people can sell them / So that animals eat them and carry the seeds far away  
    **Answer:** So that animals eat them and carry the seeds far away. *Why:* Animals eat the fruit and drop or spit out the seeds somewhere else, where the new plant has more room. Picking 'so people can sell them' puts us at the centre. Plants made fruits for millions of years before there were people.
-15. (write) Name one fruit you ate this week. Where were its seeds? What part of its flower could you see on it?  
+11. (write) Name one fruit you ate this week. Where were its seeds? What part of its flower could you see on it?  
    **Answer:** Any honest answer. For example: I ate a tomato. Its seeds were in jelly in the middle. The green star on top was left from its flower.. *Why:* Linking a real fruit to its seeds and its flower shows the child sees the life cycle in everyday food.
-16. (draw) Draw a pumpkin flower from the back. Show the tiny pumpkin behind the petals.  
-   **Answer:** A yellow flower with a small green ball where it joins its stalk.. *Why:* Female pumpkin flowers have a tiny baby pumpkin behind them, even before pollen arrives.
+12. (draw) Draw the life cycle of a moong plant as a circle with arrows. Label each stage.  
+   **Answer:** A circle with five or six stages joined by arrows: seed, seedling, grown plant, flower, pod, and back to seed.. *Why:* A good drawing joins the last stage back to the first one. That is what makes it a cycle.
+13. (perspective) Gowri's family grows bhindi in a pot on their balcony. They disagree about when to pick the bhindi.  
+   **Answer:** A strong answer picks a plan and explains it with the life cycle. For example: pick most pods young to eat, as Amma and Gowri say, but leave two or three to ripen for seeds, as Paati says. It explains that a ripe pod holds the seeds that start the next cycle.. *Why:* There is a real trade-off. Young pods are best to eat, and picking them often makes the plant keep flowering. But only a pod left to ripen gives seeds for next year.
+14. (mcq) Thenmozhi finds a pumpkin flower with no tiny green ball behind the petals. Will this flower turn into a pumpkin?  
+   Options: Yes, if a bee visits / No. It is a male flower: it makes pollen, but no fruit / Yes, every flower becomes a fruit  
+   **Answer:** No. It is a male flower: it makes pollen, but no fruit. *Why:* A pumpkin plant has two kinds of flower. The female flower has a tiny green pumpkin behind the petals. The male flower has none, and only makes pollen. Picking 'if a bee visits' misses that there is nothing in this flower to grow into a pumpkin.
+15. (draw) Cut a tomato across the middle. Draw what you see. Label the seeds, and the green star on top. What was the green star before the fruit grew?  
+   **Answer:** A circle with seeds in jelly, in two or more parts. The green star is labelled 'sepals'. They wrapped the flower bud before it opened.. *Why:* The tomato's seeds and their green star both show that the fruit was once a flower.
+16. (write) Look at one plant in your home or on your street today. Which stage of their life cycle are they in? What clues tell you?  
+   **Answer:** Any honest answer with a clue. For example: the tulsi on our balcony is a grown plant that is flowering, because they have thin purple flower spikes. Some spikes are dry and brown, so they may have seeds.. *Why:* A strong answer names a stage and gives a clue the child really saw.
 ### Watching Plants Change (stretch) (stretch, 16 questions)
 1. (mcq) Look at the chart of a tagged bhindi pod. On which day was it 6 centimetres long?  
    Options: Day 2 / Day 4 / Day 6 / Day 0  
    **Answer:** Day 4. *Why:* Find 6 on the side of the chart, then follow it across to the line. The line reaches 6 above Day 4. Picking Day 6 usually means reading the last day instead of the matching point.
 2. (fill) The bhindi pod was 2 cm long on day 2 and 10 cm long on day 6. It grew ____ cm in those 4 days.  
    **Answer:** ['8', 'eight']. *Why:* 10 take away 2 is 8. So it grew 8 cm in 4 days. That is about 2 cm a day.
-3. (mcq) You tagged 5 flowers on a chilli plant. After a week, only 3 had become baby chillies. The other 2 fell off. What does this mean?  
-   Options: The experiment went wrong / Not every flower becomes a fruit. Some fall, often when pollen does not reach them, or when the plant is too hot or short of water. / The plant is dying / Chillies only make fruit at night  
-   **Answer:** Not every flower becomes a fruit. Some fall, often when pollen does not reach them, or when the plant is too hot or short of water.. *Why:* Plants make more flowers than they can turn into fruit. Some flowers do not get pollen, and some drop in very hot or dry weather. Picking 'the experiment went wrong' is a common worry. But a flower falling off is a real result, and worth writing down.
-4. (mcq) Look at the chart of five pea pods. How many peas did Pod 4 have?  
-   Options: 6 / 7 / 8 / 5  
-   **Answer:** 8. *Why:* Pod 4's bar reaches up to 8. Picking 6 usually means reading the bar next to it.
-5. (fill) Altogether, the five pea pods had 6 + 7 + 5 + 8 + 6 = ____ peas.  
+3. (write) Ammu tagged 10 brinjal flowers in a very hot week in May. Only 2 became brinjals. Her friend Farhan tagged 10 brinjal flowers in cool December, and 7 became brinjals. Give a reason for the difference.  
+   **Answer:** In great heat, many plants drop their flowers, and pollen can stop working. Fewer insects may visit in the hottest hours too. In cool December the plant was not stressed, so more flowers got pollen and grew into fruits.. *Why:* A strong answer links the season to the flower falling, and knows that a flower must get pollen to become a fruit.
+4. (fill) Altogether, the five pea pods had 6 + 7 + 5 + 8 + 6 = ____ peas.  
    **Answer:** ['32', 'thirty-two']. *Why:* 6 + 7 = 13. 13 + 5 = 18. 18 + 8 = 26. 26 + 6 = 32.
-6. (mcq) A moong plant makes 20 pods. Each pod has about 10 seeds. About how many seeds does one plant give you?  
+5. (mcq) A moong plant makes 20 pods. Each pod has about 10 seeds. About how many seeds does one plant give you?  
    Options: 30 / 200 / 20 / 10  
    **Answer:** 200. *Why:* 20 lots of 10 is 200. So one seed can give back about 200. Picking 30 means adding 20 and 10 instead of multiplying. There are 20 pods, and each one has 10 seeds.
-7. (order) Put these in order, from the shortest life cycle to the longest: mango, moong, neelakurinji, rice.  
+6. (order) Put these in order, from the shortest life cycle to the longest: mango, moong, neelakurinji, rice.  
    **Answer:** order shown. *Why:* Moong takes 2 to 3 months, rice about 4 months, a mango tree 5 to 8 years before their first fruit, and neelakurinji 12 years to flower.
-8. (mcq) In the 1600s, van Helmont grew a willow tree in a pot for five years. The tree gained about 75 kilograms. The soil lost only about 60 grams. Where did most of the tree come from?  
-   Options: From the soil / From water and carbon dioxide in the air / From the pot / From fertiliser  
-   **Answer:** From water and carbon dioxide in the air. *Why:* The soil hardly changed, so the tree did not come from soil. We now know it was built from water and carbon dioxide from the air, using sunlight. Picking 'from the soil' is what nearly everyone expects, and it is exactly what this test disproved.
-9. (mcq) You put leaf circles in a glass of water with a pinch of baking soda. One glass is in bright light, one in a dark cupboard. Look at the chart. Why did the circles in the light float?  
-   Options: The light made them lighter / The leaves made oxygen gas while making food, and the bubbles lifted them / The water got hot and boiled / The dark glass had more water  
-   **Answer:** The leaves made oxygen gas while making food, and the bubbles lifted them. *Why:* In light, leaves make sugar and give out oxygen. Tiny bubbles of oxygen gather inside the leaf circles, and lift them up. In the dark, no food is made, so they stay down. Picking 'the light made them lighter' is a fair guess. But light does not make anything lighter. It gives the leaf the energy to make oxygen.
-10. (match) Match each plant to how a new plant can grow without a seed.  
+7. (write) In the 1600s, van Helmont grew a willow tree in a pot for five years. The tree gained about 74 kilograms. The soil lost only about 57 grams. What does this show? What did van Helmont himself get wrong?  
+   **Answer:** It shows that the tree's body did not come from the soil, because the soil hardly changed. Van Helmont decided the tree was made from water alone. He missed the air. Most of a tree's dry body is built from carbon dioxide in the air, joined with water using sunlight.. *Why:* A strong answer uses the numbers as evidence, then says that water was only part of the answer. Most people today still guess 'the soil'.
+8. (mcq) Indu does the Floating Leaves test again, but forgets the pinch of baking soda. In bright light, hardly any leaf circles float. Why?  
+   Options: Baking soda gives the water carbon dioxide, which the leaf needs to make food and oxygen / Baking soda makes leaves lighter / The water was too cold  
+   **Answer:** Baking soda gives the water carbon dioxide, which the leaf needs to make food and oxygen. *Why:* To make food, a leaf needs carbon dioxide as well as light. Baking soda gives off carbon dioxide into the water. Without it, the leaf can make very little oxygen, so few bubbles lift the circles. Picking 'makes leaves lighter' misses that the bubbles are what lift them.
+9. (match) Match each plant to how a new plant can grow without a seed.  
    **Answer:** Potato → from the eyes on the potato; Onion → from the bulb's bottom in water or soil; Money plant → from a stem cutting in water; Banana → from a shoot at the base of the old plant; Patharchatta (Bryophyllum) → from baby plants on the edges of their leaves. *Why:* Each of these grows a copy of themselves from one of their own parts. A new plant grown this way is a clone of their parent.
-11. (truefalse) A moong plant dies after their pods ripen.  
+10. (truefalse) A moong plant dies after their pods ripen.  
    **Answer:** True. *Why:* True. Moong is an annual. They finish their life cycle in two to three months. Their seeds carry the cycle on.
-12. (mcq) Why do farmers in Réunion and in Kerala move vanilla pollen by hand?  
+11. (mcq) Why do farmers in Réunion and in Kerala move vanilla pollen by hand?  
    Options: It makes the pods sweeter / Hand-moving is a religious custom / The insect that carries vanilla pollen in Mexico does not live there / Vanilla flowers have no pollen  
    **Answer:** The insect that carries vanilla pollen in Mexico does not live there. *Why:* In Mexico, certain bees are thought to push past the little flap inside the vanilla flower. Those bees do not live in other countries. So people do the bees' job with a thin stick and a thumb. Picking 'no pollen' misses the point of the story: the pollen was always there, hidden behind the flap.
-13. (write) A green chilli plant in a pot makes lots of flowers, but no chillies. Give two reasons why that might happen, and one thing to try.  
+12. (write) A green chilli plant in a pot makes lots of flowers, but no chillies. Give two reasons why that might happen, and one thing to try.  
    **Answer:** For example: no insects visit the balcony, so pollen does not reach the flowers. Or it is too hot, or the pot dried out. I could gently shake the flowers in the morning, or move pollen with a soft brush, and water them regularly.. *Why:* A flower needs pollen to become a fruit, and a plant drops flowers when they are stressed by heat or thirst.
-14. (mcq) Which of these plants flower only once in their whole life, and then die?  
+13. (mcq) Which of these plants flower only once in their whole life, and then die?  
    Options: Mango / Neem / The bamboo in Mizoram that flowers after about 48 years / Rose  
    **Answer:** The bamboo in Mizoram that flowers after about 48 years. *Why:* That bamboo grows for about 48 years, flowers once, makes their seeds and dies. Mango, neem and rose are perennials that flower again and again. Picking mango may come from knowing mango trees take years to fruit. But once they start, they fruit every year.
-15. (write) Write the life cycle of a mango tree as a short story, in 5 sentences. Start with a ripe mango falling to the ground.  
+14. (write) Write the life cycle of a mango tree as a short story, in 5 sentences. Start with a ripe mango falling to the ground.  
    **Answer:** For example: A ripe mango fell to the ground. A monkey ate it and dropped the stone far away. In the rains the stone sprouted into a seedling with red leaves. After six years the seedling was a big tree and made tiny flowers. The flowers turned into mangoes, with new stones inside.. *Why:* Starting with the fruit shows the child understands that a cycle can start at any stage.
-16. (draw) Draw a tomato and label the green star. Then draw the flower it came from.  
-   **Answer:** A tomato with its green star of sepals on top, and a small yellow star-shaped flower with green sepals behind its petals.. *Why:* The sepals that wrapped the flower bud stay on as the tomato grows.
+15. (perspective) The neem tree outside Shanthi's building drops hundreds of fruits every year. Almost none of them grow into new trees.  
+   **Answer:** A strong answer picks a side with evidence. For Shanthi: each fruit costs the tree food to make, and most never grow. For the grandmother: the fruits feed birds, and their atoms go back to the soil for other plants. For the botanist: most seeds fail, so a tree that makes many seeds is more likely to have a few young trees. A strong answer then gives another side its due.. *Why:* This is a real trade-off. Fruits cost a tree a lot to make, but most seeds never find a good place to grow. Many plants make huge numbers of seeds, and the fruits that don't grow still feed other living beings.
+16. (draw) Draw a bar chart of how long these plants take to go from sowing a seed to their first new seeds: moong 3 months, rice 4 months, tomato 4 months, papaya 10 months. Label the bottom line and the side line.  
+   **Answer:** Four bars. Moong 3 squares, rice 4, tomato 4, papaya 10. The bottom line says 'Plant' and the side line says 'Months'.. *Why:* A bar chart shows at a glance that papaya takes much longer than the others. The times are rounded, and real plants vary with the weather.
 ### Life Cycle Puzzles and Big Ideas (challenge) (challenge, 16 questions)
 1. (mcq) In 1938, scientists flashed a light in the middle of the night on plants that flower when nights are long. The plants did not flower. What does this tell us?  
    Options: The light made the night warmer / The plants were measuring the length of the dark night, and the light broke it into two short nights / The light hurt the plants / Plants cannot see light  
@@ -739,41 +734,38 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
 2. (mcq) A mango tree with very sweet mangoes is growing in your garden. You plant one of their mango stones. Will the new tree have exactly the same sweet mangoes?  
    Options: Yes, always / Not always, because the seed got some of their instructions from the pollen of another tree / No, mango stones never grow / Only if you water them with sugar  
    **Answer:** Not always, because the seed got some of their instructions from the pollen of another tree. *Why:* Each seed gets instructions from both parents, so they can be a little different. That is why farmers grow their best mangoes by joining a twig of the sweet tree onto a young tree. This makes a copy. Picking 'yes, always' is a natural guess, since a mango seed always grows a mango tree. But the mangoes on the new tree can be different.
-3. (truefalse) Scientists know exactly how bamboo counts 48 years before flowering.  
-   **Answer:** False. *Why:* False. It is an open question. Nobody has found the bamboo's clock.
-4. (mcq) When a big tree burns, only a small heap of ash is left. Where did the rest of the tree go?  
-   Options: Back into the air, as carbon dioxide and water vapour / It vanished completely / Down into the soil / It all turned into the ash  
-   **Answer:** Back into the air, as carbon dioxide and water vapour. *Why:* Burning turns the tree's carbon and water back into gases. The tree was built mostly from air and water, and fire sends it back there. The ash is the small part that came from the soil. Picking 'vanished completely' usually means thinking matter can disappear. It cannot. It changes form.
-5. (mcq) Chillies are hot to mice but not to birds. How does this help the chilli plant?  
+3. (write) When a big tree burns, only a small heap of ash is left. Where did the rest of the tree go? What does this tell you about what the tree was made of?  
+   **Answer:** Most of the tree went back into the air, as carbon dioxide and water vapour. The ash is the small part that came from the soil, the minerals. This shows the tree was built mostly from air and water, and burning sends it back there.. *Why:* A strong answer says the wood did not vanish. The wood changed into gases. Matter cannot disappear. It changes form.
+4. (mcq) Chillies are hot to mice but not to birds. How does this help the chilli plant?  
    Options: Birds like spicy food / Mice spread the seeds better / It does not help at all / Mice chew up the seeds, but birds swallow them whole and drop them far away  
    **Answer:** Mice chew up the seeds, but birds swallow them whole and drop them far away. *Why:* In 2001, scientists found that the heat keeps away mammals, which chew the seeds. The hot taste does not burn birds, so they eat the chillies and carry the seeds far away. Picking 'birds like spicy food' misses the point. Birds do not taste the burn at all.
-6. (write) Moong is an annual: they live one season, make seeds and die. A mango tree can live for a hundred years or more. Which is the better way to live? Give one good reason for each.  
-   **Answer:** A balanced answer. For example: moong is quick, so they can make lots of seeds before the dry season comes. A mango tree takes years to start, but then they give fruit every year and grow big and strong.. *Why:* There is no single right answer. Both ways work, in different places and seasons.
-7. (fill) Neelakurinji bloomed near Munnar in 2018. They bloom every 12 years. Their next two blooms should be in ____ and ____.  
+5. (perspective) Plants live their lives in very different ways. Imagine three of them could speak.  
+   **Answer:** A strong answer uses the life cycle. For moong: the plant finishes before the dry season, and the dry seeds wait safely for the rain. For mango: deep roots can reach water, and a big tree survives many dry seasons. A strong answer then gives another way its due. For bamboo, flowering all together makes so many seeds that animals cannot eat them all. Scientists think this may be why.. *Why:* Every way works somewhere. A short life suits a short wet season. A long life suits a plant that can survive bad years. The bamboo's reason is still being studied.
+6. (fill) Neelakurinji bloomed near Munnar in 2018. They bloom every 12 years. Their next two blooms should be in ____ and ____.  
    **Answer:** ['2030 and 2042', '2030, 2042']. *Why:* 2018 + 12 = 2030. 2030 + 12 = 2042.
-8. (mcq) In the 1950s, a disease wiped out most of the world's favourite banana, the Gros Michel. Why did it spread through so many farms?  
+7. (mcq) In the 1950s, a disease wiped out most of the world's favourite banana, the Gros Michel. Why did it spread through so many farms?  
    Options: There was too much rain / Bananas are always weak / All the plants were copies of each other, so they all had the same weakness / The bananas were too ripe  
    **Answer:** All the plants were copies of each other, so they all had the same weakness. *Why:* Bananas are grown from shoots, so the plants are clones. A disease that can harm one can harm them all. Picking 'too much rain' is a sensible guess about plant diseases. But the real problem was that there was no difference between the plants.
-9. (mcq) Which of these plants has no flowers and no seeds at all?  
-   Options: A cactus / A fern / A mango tree / Rice  
-   **Answer:** A fern. *Why:* Ferns spread by spores, a fine dust made under their leaves. Ferns are older than flowering plants. Picking cactus is a common idea, because cactus flowers are rare to see. But cactuses do have flowers and fruits.
-10. (write) Your food comes from plants. Plants are built mostly from air. Explain, step by step, how some of the air could end up in your body.  
+8. (truefalse) Every kind of plant makes flowers and seeds.  
+   **Answer:** False. *Why:* False. Ferns and mosses have no flowers and no seeds. Ferns spread by spores, a fine dust made under their leaves. Ferns are much older than flowering plants.
+9. (write) Your food comes from plants. Plants are built mostly from air. Explain, step by step, how some of the air could end up in your body.  
    **Answer:** A rice leaf takes in carbon dioxide from the air. It uses sunlight to make sugar, and stores some as starch in the rice grain. The rice is ground into batter and steamed into an idli. I eat the idli, and my body uses the carbon in it to build itself.. *Why:* This follows a carbon atom through photosynthesis and food. It is a real path that carbon atoms take every day.
-11. (mcq) In the story, Edmond saw a pumpkin flower that had been dusted with pollen grow into a pumpkin, and one left alone shrivel. What was the one thing that was different between them?  
-   Options: Pollen reached the middle of one flower and not the other / One got more sunlight / One was older / One was on a different plant  
-   **Answer:** Pollen reached the middle of one flower and not the other. *Why:* Both were female flowers, which the story calls mother flowers, on the same patch. Only one had pollen pressed into its middle. That was the one thing changed, like a fair test. Picking 'more sunlight' means looking for a difference the story does not show.
-12. (mcq) In the Be Edmond experiment, you cover one pumpkin flower with a bag and add no pollen. It shrivels. You cover another with a bag and add pollen by hand. It grows. Why do you cover BOTH with bags?  
+10. (mcq) In the Be Edmond experiment, you cover one pumpkin flower with a bag and add no pollen. It shrivels. You cover another with a bag and add pollen by hand. It grows. Why do you cover BOTH with bags?  
    Options: To keep them warm / To hide them from people / Because bags make fruits grow / So that the bag is the same for both, and only the pollen is different  
    **Answer:** So that the bag is the same for both, and only the pollen is different. *Why:* In a fair test, only one thing changes. If only one flower had a bag, you could not tell whether the bag or the pollen made the difference. Picking 'bags make fruits grow' is the opposite of what the bagged, unpollinated flower shows.
-13. (write) Is a seed a new plant, or the old plant carrying on? Give one reason for each answer.  
+11. (write) Is a seed a new plant, or the old plant carrying on? Give one reason for each answer.  
    **Answer:** A balanced answer. For example: they are new, because they are a separate living thing and may be a bit different from their parent. They are the old plant carrying on, because they carry copied instructions and were fed with their parent's food.. *Why:* Scientists and thinkers answer this in different ways. What counts is a reason for each side.
-14. (mcq) In 1982, small thale cress plants on a space station flowered and made seeds. Why was that important?  
+12. (mcq) In 1982, small thale cress plants on a space station flowered and made seeds. Why was that important?  
    Options: It showed plants grow better in space / It showed seeds can fly / It showed a plant can go round their whole life cycle in space / It showed plants do not need water  
    **Answer:** It showed a plant can go round their whole life cycle in space. *Why:* People living far from Earth will need plants that can make new seeds there, again and again. Picking 'plants grow better in space' is not what was found. Growing plants in space is hard.
-15. (write) Charles Darwin called the fast spread of flowering plants 'an abominable mystery'. Give two ideas scientists have for why flowering plants spread so fast.  
+13. (write) Charles Darwin called the fast spread of flowering plants 'an abominable mystery'. Give two ideas scientists have for why flowering plants spread so fast.  
    **Answer:** Any two of these. Flowers changed together with the insects and birds that move their pollen. Flowering plants finish their life cycles quickly. Fruits let animals carry seeds far away. Changes in the climate helped them.. *Why:* Scientists still argue about this. A good answer gives two different ideas.
-16. (draw) Draw the life cycle of a moong plant inside a bigger circle that shows where their atoms come from and go to: air, water, soil, and decomposers.  
+14. (draw) Draw the life cycle of a moong plant inside a bigger circle that shows where their atoms come from and go to: air, water, soil, and decomposers.  
    **Answer:** An inner circle of seed, seedling, plant, flower, pod and seed. Around it, arrows from the air and the soil into the plant, and arrows from the dead plant through decomposers back to the air and soil.. *Why:* A plant's life cycle sits inside a bigger cycle of atoms going round through air, soil and living things.
+15. (truefalse) Big trees grow from big seeds, and small plants grow from small seeds.  
+   **Answer:** False. *Why:* False. A banyan tree, one of the biggest trees in India, grows from a seed about as small as a mustard seed. A coconut is a huge seed, but a coconut palm is far smaller than a big banyan. Seed size does not tell you how big the plant will be.
+16. (sort) Sort these. Did each one need pollen to reach a flower first?  
+   **Answer:** a mango → Needed pollen first; a new potato plant from an eye → No pollen needed; a pumpkin → Needed pollen first; a money plant from a cutting → No pollen needed; a pea pod full of peas → Needed pollen first; a banana shoot at the base of the old plant → No pollen needed. *Why:* A fruit with seeds grows only after pollen reaches a flower. A new plant grown from a part of the old plant, like an eye, a cutting or a shoot, needs no flower and no pollen.
 
 ## Videos
 - **Growing Sweet Snap Pea Time Lapse - Seed To Pod (60 Days)** (eLapse, 3 min) id `UGFxz6iuvb8`: A pea plant filmed over about 60 days, from seed to pods. It shows a whole life cycle in a few minutes: sprouting, growing, flowering and pods. *Check:* Id found by YouTube search. Title and channel checked automatically through YouTube's oEmbed. The length is a guess and the video was not watched from here, so a parent should preview it.
@@ -892,7 +884,7 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
 - How do plants talk to each other? *Through the grapevine.*
 - Why was the seedling so polite? *They always turned over a new leaf.*
 - Why did the plant keep going round in a circle? *They were on a life cycle!*
-- Why did the farmer plant his money? *He wanted it to grow.*
+- Why did the farmer plant her money? *She wanted it to grow.*
 - Why did the brinjal wear a green cap? *To remember the flower it used to be.*
 - What did one pea say to the other? *We make a great pod-cast.*
 - Why do flowers never get lost? *They always know their roots.*

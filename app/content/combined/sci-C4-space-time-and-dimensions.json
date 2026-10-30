@@ -6,7 +6,7 @@
  "n": "space-time-and-dimensions",
  "title": "Space, time and dimensions: how speed and gravity change time",
  "source": "DeepKids Combined, a Deep End topic from the DeepKids notebook. No board teaches it at Class 4, so there are no board subtopics to cover. No textbook needed.",
- "summary": "A clock on a fast plane ticks a little slower than a clock on the ground, and a clock on a high shelf ticks a little faster than one on the floor. Your child finds that every event needs four numbers, three for where and one for when. They build a cube's shadow to picture a fourth dimension, draw a light clock, and work out why phone maps would go wrong without Einstein's relativity. They see how gravity bends light, why time runs only one way, and what is known and unknown about time travel and wormholes.",
+ "summary": "A clock on a fast plane ticks a little slower than a clock on the ground, and a clock on a high shelf ticks a little faster than one on the floor. Your child finds that every event needs four numbers, three for where and one for when. They make a straw cube and study its shadow to picture a fourth dimension, draw a light clock, and work out why phone maps would go wrong without Einstein's relativity. They see how gravity bends light, why time runs only one way, and what is known and unknown about time travel and wormholes.",
  "builds_on": "In Class 2 (Day, night and rhythms of nature) your child learned that our day comes from the Earth's spin and our year from its trip round the Sun. In Class 3 (Gravity) they modelled gravity on a bedsheet and heard Einstein's idea that mass bends space. If they did the Class 2 lesson on space, time and dimensions, Day 1 recalls it. This rung goes much further: spacetime, the speed of light, slow clocks, curved spacetime and the arrow of time. In secondary school physics they will meet the maths of relativity.",
  "goals": [
   "By the end your child can say what a dimension is, and fix any place in a room with three measurements and any event with four.",
@@ -113,7 +113,7 @@
      "kind": "talk",
      "title": "The fourth number",
      "mins": 7,
-     "do": "Say: 'Something that happens at one place at one moment is called an event. A ball landing is an event. A bell ringing is an event. To say where an event is, we need three numbers. To say when, we need a fourth.' Ask: 'Is the fourth number a direction, like the other three?' Let them think. Say: 'In 1908, Einstein's old teacher Hermann Minkowski said space and time should be thought of as one thing. We call it spacetime. Your race diagram was a small piece of it.' Ask: 'Name two events from your morning, with where and when.'"
+     "do": "Say: 'Something that happens at one place at one moment is called an event. A ball landing is an event. A bell ringing is an event. To say where an event is, we need three numbers. To say when, we need a fourth.' Ask: 'Is the fourth number a direction, like the other three?' Let them think. Say: 'Not one you can point to. But every event needs it, just as it needs the other three.' Then say: 'In 1908, Einstein's old teacher Hermann Minkowski said space and time should be thought of as one thing. We call it spacetime. Your race diagram was a small piece of it.' Ask: 'Name two events from your morning, with where and when.'"
     },
     {
      "kind": "do",
@@ -145,14 +145,14 @@
      "kind": "act",
      "title": "A visitor to Flatland",
      "mins": 12,
-     "do": "Do Activity a2. Say: 'In 1884 a teacher in London, Edwin Abbott, wrote a book called Flatland about flat beings who live on a sheet of paper. They have length and width but no height.' You cut a carrot into round slices, keeping them in order. Your child lies on the floor with one eye at floor level, pretending to be a Flatlander. You push the slices across the floor one by one, from the tip to the thick end. Ask: 'What does the Flatlander see?' (First a dot, then circles that get bigger and bigger.) Ask: 'Could the Flatlander ever see the whole carrot at once?' (No, only one slice at a time.)",
+     "do": "Do Activity a2. Say: 'In 1884 a teacher in London, Edwin Abbott, wrote a book called Flatland about flat beings who live on a sheet of paper. They have length and width but no height.' Lay a sheet of paper on the floor: this is Flatland. You cut a carrot into round slices, keeping them in order. Put the slices on the paper one at a time, from the tip to the thick end, taking each away before the next. Ask: 'Looking from above, what part of the carrot is in Flatland each time?' (First a dot, then circles that get bigger.) Then your child lies with one cheek on the floor, eye level with the paper, while you do it again. Ask: 'What does a Flatlander see?' (Only the edge: a short line that gets longer. She would have to walk round it to learn it is a circle.) Ask: 'Could the Flatlander ever see the whole carrot at once?' (No, only one slice at a time.)",
      "ref": "a2"
     },
     {
      "kind": "act",
      "title": "The shadow of a cube",
      "mins": 14,
-     "do": "Do Activity a3. Your child builds a cube from 12 straws or matchsticks joined by 8 small balls of atta dough or clay. In a dark room, shine a torch on it so its shadow falls on a wall. Turn it slowly. Ask: 'The cube has three dimensions. How many does its shadow have?' (Two.) Find the angle where the shadow is a small square inside a big square, with the corners joined. Then draw that shape. Say: 'Mathematicians have worked out what a four-dimensional cube would look like. They call it a tesseract. Its shadow in our world looks like a small cube inside a big cube, with the corners joined.' Draw it for your child, one dimension up from their wall shadow.",
+     "do": "Do Activity a3. Your child builds a cube from 12 straws or matchsticks joined by 8 small balls of atta dough or clay. In a dark room, hold a torch close to the cube, pointing straight at one face, so its shadow falls on a wall. Turn it slowly. Ask: 'The cube has three dimensions. How many does its shadow have?' (Two.) Find the angle where the shadow is a small square inside a big square, with the corners joined. Then draw that shape. Say: 'Mathematicians have worked out what a four-dimensional cube would look like. They call it a tesseract. Its shadow in our world looks like a small cube inside a big cube, with the corners joined.' Draw it for your child, one dimension up from their wall shadow.",
      "ref": "a3"
     },
     {
@@ -240,7 +240,7 @@
      "kind": "talk",
      "title": "Real clocks on real planes",
      "mins": 6,
-     "do": "Say: 'Remember the clocks that flew round the world? In 1971 two scientists, Joseph Hafele and Richard Keating, flew very accurate atomic clocks right round the world on ordinary passenger planes. When they came back, the clocks no longer matched the clocks left on the ground. The difference was a few hundred billionths of a second, close to what Einstein predicted.' Then say: 'The astronaut Scott Kelly spent 340 days on the space station while his twin brother Mark stayed on Earth. Scott came back younger than if he had stayed, but by less than a hundredth of a second.' Ask: 'Why is the difference so tiny?' (The plane and the space station are very slow compared with light.)"
+     "do": "Say: 'Remember the clocks that flew round the world? In 1971 two scientists, Joseph Hafele and Richard Keating, flew very accurate atomic clocks right round the world on ordinary passenger planes. When they came back, the clocks no longer matched the clocks left on the ground. The difference was between about 60 and 270 billionths of a second, depending on the direction flown, close to what Einstein predicted.' Then say: 'The astronaut Scott Kelly spent 340 days on the space station while his twin brother Mark stayed on Earth. Scott came back younger than if he had stayed, but by less than a hundredth of a second.' Ask: 'Why is the difference so tiny?' (The plane and the space station are very slow compared with light.)"
     },
     {
      "kind": "do",
@@ -330,13 +330,13 @@
      "kind": "talk",
      "title": "33 centimetres",
      "mins": 7,
-     "do": "Say: 'In 2010, scientists in America built two of the most accurate clocks ever made. They lifted one by 33 centimetres, about the height of a school bag, and it ticked faster than the lower one. The difference was tiny, but they could measure it.' Ask: 'Your feet are lower than your head. Which is older at the end of a day?' (The head, by a tiny amount.) Say: 'If you lived your whole life on the top floor of a 30-storey building, you would age about 30 millionths of a second more than someone on the ground floor. Too small to notice, but real.'"
+     "do": "Say: 'In 2010, scientists in America built two of the most accurate clocks ever made. They lifted one by 33 centimetres, about the height of a school bag, and it ticked faster than the lower one. The difference was tiny, but they could measure it.' Ask: 'Your feet are lower than your head. Which is older at the end of a day?' (The head, by a tiny amount.) Say: 'If you lived your whole life on the top floor of a 30-storey building, you would age about 25 millionths of a second more in 80 years than someone on the ground floor. Too small to notice, but real.'"
     },
     {
      "kind": "do",
      "title": "Maths: why your phone needs Einstein",
      "mins": 12,
-     "do": "Say: 'A phone finds where it is using signals from satellites about 20,000 km up. America's system is called GPS, and India has its own, called NavIC. Each satellite carries atomic clocks. The phone works out how far away each satellite is from how long its signal took to arrive.' Then give the numbers: 'Up there, gravity is weaker, so the clocks gain about 45 millionths of a second a day. They also move fast, so they lose about 7 millionths a day.' Ask: 'What is the total change each day?' (45 - 7 = 38 millionths of a second fast.) 'Signals travel 3,00,000 km in a second, so in one millionth of a second they travel 0.3 km. How far wrong would the phone be after one day?' (38 × 0.3 = about 11 km.) Ask: 'What would happen to an auto driver using the map?' Say: 'So the satellite clocks are set to tick slightly slow before launch, and the system corrects them all the time.'"
+     "do": "Say: 'A phone finds where it is using signals from satellites. America's system is called GPS, and its satellites are about 20,000 km up. India has its own system, called NavIC. Each satellite carries atomic clocks. The phone works out how far away each satellite is from how long its signal took to arrive.' Then give the numbers for GPS: 'Up there, gravity is weaker, so the clocks gain about 45 millionths of a second a day. They also move fast, so they lose about 7 millionths a day.' Ask: 'What is the total change each day?' (45 - 7 = 38 millionths of a second fast.) 'Signals travel 3,00,000 km in a second, so in one millionth of a second they travel 0.3 km. How far wrong would the phone be after one day?' (38 × 0.3 = about 11 km.) Ask: 'What would happen to an auto driver using the map?' Say: 'So the satellite clocks are set to tick slightly slow before launch, and the system corrects them all the time.'"
     },
     {
      "kind": "talk",
@@ -387,7 +387,7 @@
      "kind": "exp",
      "title": "Catch the ruler",
      "mins": 14,
-     "do": "Do Experiment e4. Hold a 30 cm ruler hanging down, with the zero end at the bottom. Your child holds finger and thumb open just below it, not touching. Without warning, let go. They catch it as fast as they can. Read the number at the top of their fingers. Do 5 tries each, for your child and for you. Use the table in the experiment to turn centimetres into seconds. Ask: 'How long did it take your brain to notice and act?' (Usually between one tenth and one quarter of a second.) Say: 'Signals from your eyes take time to reach your brain and be understood. So the now you feel is always a little behind the world, just as starlight is behind the stars.'",
+     "do": "Do Experiment e4. Hold a 30 cm ruler hanging down, with the zero end at the bottom. Your child holds finger and thumb open just below it, not touching. Without warning, let go. They catch it as fast as they can. Read the number at the top of their fingers. Do 5 tries each, for your child and for you. Use the table in the experiment to turn centimetres into seconds. Ask: 'How long did it take your brain to notice and act?' (Usually between about one seventh and one quarter of a second.) Say: 'Signals from your eyes take time to reach your brain and be understood. So the now you feel is always a little behind the world, just as starlight is behind the stars.'",
      "ref": "e4"
     },
     {
@@ -400,7 +400,7 @@
      "kind": "act",
      "title": "Breathing time",
      "mins": 7,
-     "do": "Sit together on the floor. Breathe in slowly for a count of 4 and out for a count of 6, ten times. Then clap a steady beat together, first slow, then twice as fast. Ask: 'The clock moved the same amount. Did both feel the same?' Let your child describe it."
+     "do": "Sit together on the floor. Breathe in slowly for a count of 4 and out for a count of 6, five times. Then, while you watch a stopwatch, clap together slowly for 30 seconds. Rest, then clap twice as fast for 30 seconds. Ask: 'Both took 30 seconds by the clock. Did they feel the same length? Which felt longer?' Let your child describe it."
     }
    ],
    "need": [
@@ -524,7 +524,7 @@
       },
       {
        "t": "mcq",
-       "p": "On a spacetime diagram, Kavya's worldline goes straight up for a whole hour. What was she doing?",
+       "p": "Kavya, a girl in Class 4, draws a spacetime diagram of her day. Her worldline goes straight up for a whole hour. What was she doing?",
        "opts": [
         "running fast",
         "staying in one place",
@@ -541,7 +541,7 @@
       },
       {
        "t": "write",
-       "p": "Kavya says, 'Meet me at the bus stop.' Why might her friend not find her?",
+       "p": "Kavya, a girl in Class 4, tells her friend, 'Meet me at the bus stop.' What has she left out, so that her friend may not find her?",
        "lines": 2
       }
      ]
@@ -660,7 +660,7 @@
       },
       {
        "t": "mcq",
-       "p": "Lakshmi keeps one atomic clock on the floor and one on top of a cupboard for a year. Which shows more time passed?",
+       "p": "Lakshmi, a scientist, keeps one atomic clock on the floor and one on top of a cupboard for a year. Which shows more time passed?",
        "opts": [
         "the one on the floor",
         "the one on the cupboard",
@@ -704,7 +704,7 @@
         "a glass breaking",
         "a swing going back and forth",
         "ink spreading in water",
-        "a pendulum swinging once",
+        "two marbles hitting each other and bouncing apart",
         "a candle burning down",
         "a dosa getting cooked"
        ],
@@ -734,7 +734,7 @@
      [
       {
        "t": "mcq",
-       "p": "Mohan says: 'Muons live about 2 millionths of a second. Even light goes only about 660 m in that time. So no muon from 15 km up can reach the ground.' What is wrong?",
+       "p": "Mohan, a boy in Class 5, says: 'Muons live about 2 millionths of a second. Even light goes only about 660 m in that time. So no muon from 15 km up can reach the ground.' What is wrong?",
        "opts": [
         "nothing, he is right",
         "muons move so fast that their clocks tick slowly, so they last long enough",
@@ -744,7 +744,7 @@
       },
       {
        "t": "write",
-       "p": "Meena says: 'From my rocket, it was Thenmozhi on Earth who moved fast. So she should be younger.' Why does Meena still come back younger?",
+       "p": "Twin sisters: Meena flew to a star and back very fast, and Thenmozhi stayed on Earth. Meena says: 'From my rocket, it was Thenmozhi on Earth who moved fast. So she should be younger.' Why does Meena still come back younger?",
        "lines": 4
       },
       {
@@ -972,9 +972,9 @@
    ],
    "steps": [
     "The grown-up cuts the carrot into 8 round slices, keeping them in order from the tip to the top.",
-    "Your child lies on the floor with one cheek on the floor, so their eye is at floor level. They are a Flatlander.",
-    "Slide the slices across the floor towards them one at a time, tip first.",
-    "Your child says what they see each time: a dot, a small circle, a bigger circle.",
+    "Lay a sheet of paper on the floor. This is Flatland.",
+    "Put the slices on the paper one at a time, tip first, taking each away before the next. Your child looks from above and says what is in Flatland each time: a dot, a small circle, a bigger circle.",
+    "Your child lies with one cheek on the floor, eye level with the paper. They are a Flatlander. Do it again. Now each slice looks like a short line that gets longer.",
     "Then show them the whole carrot. Ask what a Flatlander could never see."
    ],
    "outcome": "Your child understands that a flat being would see a 3D object only as changing flat slices, one after another in time. In the same way, if there were a fourth dimension of space, we might see only slices of it."
@@ -994,7 +994,7 @@
     "Make a square from 4 straws with a dough ball at each corner.",
     "Make a second square the same way.",
     "Join the two squares with 4 more straws standing upright, to make a cube.",
-    "In a dark room, shine the torch on the cube so its shadow falls on the wall.",
+    "In a dark room, hold the torch close to the cube, pointing straight at one face, so its shadow falls on the wall.",
     "Turn the cube slowly. Find the shadow that looks like a small square inside a big square, with corners joined.",
     "Draw that shadow. Then the grown-up draws the tesseract shadow: a small cube inside a big cube, with the 8 corners joined."
    ],
@@ -1069,7 +1069,7 @@
    "On a 'Question' square, another player asks a question about this week. Give an answer and a reason. If both are right, move on 2.",
    "Follow the instructions on the other squares.",
    "The wormhole square needs exotic matter. There is no exotic matter in this game, because nobody has ever found any. So you stay where you are.",
-   "The first player to reach HOME, BACK ON EARTH must explain why they are younger than the players still travelling. (They moved fastest.)"
+   "The first player to reach HOME, BACK ON EARTH wins, and explains why GPS satellites must correct their clocks."
   ],
   "squares": [
    "EARTH (start)",
@@ -1165,8 +1165,8 @@
    "id": "v3",
    "who": "Amal Kumar Raychaudhuri (1923–2005), Kolkata, India",
    "idea": "Working in Kolkata, he published an equation in 1955 that describes how a group of moving particles is squeezed together by gravity in curved spacetime. It is now called the Raychaudhuri equation.",
-   "then": "Few physicists in India worked on Einstein's gravity at the time. The importance of his equation became clear about ten years later, Roger Penrose and Stephen Hawking used results like his to show that black holes and the beginning of the universe must contain points where spacetime ends, called singularities.",
-   "now": "The Raychaudhuri equation is taught in relativity courses around the world. Roger Penrose won the Nobel Prize in 2020 for work that built on such ideas. He also taught physics for many years at Presidency College in Kolkata.",
+   "then": "Few physicists in India worked on Einstein's gravity at the time. The importance of his equation became clear about ten years later. Roger Penrose and Stephen Hawking used results like his to show that black holes and the beginning of the universe must contain points where spacetime ends, called singularities.",
+   "now": "The Raychaudhuri equation is taught in relativity courses around the world. Roger Penrose won the Nobel Prize in 2020 for work that built on such ideas. Raychaudhuri also taught physics for many years at Presidency College in Kolkata.",
    "status": "accepted",
    "ask": "Raychaudhuri worked on a question that few people around him studied. Why might it be worth working on something others are not interested in?",
    "day": 6

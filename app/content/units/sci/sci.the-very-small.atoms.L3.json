@@ -879,72 +879,76 @@
    "mins": 20,
    "items": [
     {
-     "t": "mcq",
-     "p": "What is everything around you made of, deep down?",
-     "opts": [
-      "Tiny particles called atoms",
-      "Only the things you can see",
-      "Air",
-      "Nothing at all"
+     "t": "write",
+     "p": "Lakshmi, a girl in Class 4, cuts a 24 cm strip of paper in half, again and again. After 8 cuts, the piece is too small to cut. Her little brother says, \"Now you have one atom!\" Explain to him why he is wrong.",
+     "lines": 3,
+     "a": "The last piece is about 1 millimetre long. You can still see it and pick it up, so it is far bigger than an atom. It still has millions of atoms across it. To get a piece only one atom wide, you would have to halve it about 31 times, so 23 more cuts.",
+     "why": "A strong answer says the piece can still be seen, and that it would take about 23 more halvings to reach one atom.",
+     "context": "This question is about the paper-cutting experiment. You cut a 24 cm strip of paper in half, then cut one half in half, again and again.",
+     "how": "e1"
+    },
+    {
+     "t": "sort",
+     "p": "Sort these. Is each one made of atoms, or is it light or the lack of light?",
+     "cats": [
+      "Made of atoms",
+      "Light, or the lack of light"
      ],
-     "a": 0,
-     "why": "Everything, from stones to air to you, is made of atoms. Picking 'only the things you can see' is a natural idea, because atoms are far too small to see. Picking 'air' misses that air is itself made of atoms.",
-     "art": "A stone, a leaf and a child, each with a zoomed circle of tiny dots."
+     "items": [
+      [
+       "steam from a pressure cooker",
+       "Made of atoms"
+      ],
+      [
+       "a shadow on the wall",
+       "Light, or the lack of light"
+      ],
+      [
+       "the smell of jasmine flowers",
+       "Made of atoms"
+      ],
+      [
+       "sunlight on the floor",
+       "Light, or the lack of light"
+      ],
+      [
+       "a steel tumbler",
+       "Made of atoms"
+      ],
+      [
+       "your own hair",
+       "Made of atoms"
+      ],
+      [
+       "a rainbow",
+       "Light, or the lack of light"
+      ]
+     ],
+     "a": "see items",
+     "why": "Steam, a smell, steel and hair are all matter, so they are made of atoms. A smell is tiny molecules reaching your nose. Sunlight and a rainbow are light, which is not made of atoms. A shadow is just a place where light is blocked."
     },
     {
      "t": "truefalse",
-     "p": "You can see a single atom with an ordinary magnifying glass.",
+     "p": "A grain of salt is made of only a few atoms.",
      "a": false,
-     "why": "False. An atom is about one ten-millionth of a millimetre across. A magnifying glass makes things only a few times bigger. Even a strong school microscope cannot show single atoms."
-    },
-    {
-     "t": "fill",
-     "p": "The tiny particles that everything you can touch is made of are called ____.",
-     "a": [
-      "atoms",
-      "atom"
-     ],
-     "why": "Atoms are the building blocks of all matter."
-    },
-    {
-     "t": "mcq",
-     "p": "You cut a 24 cm strip of paper in half. How long is one piece?",
-     "opts": [
-      "12 cm",
-      "24 cm",
-      "6 cm",
-      "48 cm"
-     ],
-     "a": 0,
-     "why": "Half of 24 is 12, because 12 + 12 = 24. Picking 48 usually means doubling instead of halving. Picking 6 means cutting twice.",
-     "context": "This question is about the paper-cutting experiment. You cut a 24 cm strip of paper in half, then cut one half in half, again and again.",
-     "how": "e1"
-    },
-    {
-     "t": "mcq",
-     "p": "In the paper-cutting experiment, why did you have to stop after about 8 cuts?",
-     "opts": [
-      "The piece got too small to hold and cut with scissors",
-      "We had reached a single atom",
-      "Paper cannot be cut any more after 8 cuts",
-      "The scissors stopped working"
-     ],
-     "a": 0,
-     "why": "The piece was about 1 millimetre long, too small for fingers and scissors. You were still about 23 cuts away from a piece one atom wide. Picking 'we reached an atom' is very common. The last piece still had millions of atoms across it.",
-     "context": "This question is about the paper-cutting experiment. You cut a 24 cm strip of paper in half, then cut one half in half, again and again.",
-     "how": "e1"
+     "why": "False. One grain of salt has more than a billion billion atoms in it. Atoms are so small that even the tiniest thing you can see is made of a huge number of them."
     },
     {
      "t": "order",
-     "p": "Put these in order, from BIGGEST to SMALLEST: an atom, an ant, a grain of salt, an elephant.",
+     "p": "Put these things in order of size, from BIGGEST to SMALLEST.",
      "items": [
-      "an elephant",
-      "an ant",
-      "a grain of salt",
+      "a coconut",
+      "a grain of rice",
+      "the width of a hair",
       "an atom"
      ],
-     "a": "order shown",
-     "why": "An elephant is about 3 metres tall, an ant about 4 millimetres, a grain of salt about a third of a millimetre. An atom is millions of times smaller than the salt grain."
+     "a": [
+      "a coconut",
+      "a grain of rice",
+      "the width of a hair",
+      "an atom"
+     ],
+     "why": "A coconut is about 15 cm across, a grain of rice about 6 millimetres long, and a hair about a tenth of a millimetre wide. An atom is about a million times thinner than the hair."
     },
     {
      "t": "match",
@@ -973,106 +977,40 @@
     },
     {
      "t": "mcq",
-     "p": "Where is nearly all of an atom's weight?",
+     "p": "Imagine one atom blown up to the size of the Chepauk cricket stadium in Chennai. How big would the nucleus be?",
      "opts": [
-      "In the tiny centre, the nucleus",
-      "Spread evenly through the atom",
-      "In the electrons",
-      "Nowhere, atoms weigh nothing"
-     ],
-     "a": 0,
-     "why": "Protons and neutrons are about 1,800 times heavier than electrons, and they are all in the nucleus. Picking 'in the electrons' often comes from pictures where electrons are drawn big. They are actually very light."
-    },
-    {
-     "t": "truefalse",
-     "p": "An atom is almost all empty space.",
-     "a": true,
-     "why": "True. The nucleus is tens of thousands of times smaller across than the atom. The electrons are tiny too, spread out as a cloud. So almost all of the atom is empty space."
-    },
-    {
-     "t": "mcq",
-     "p": "If an atom were as big as a cricket ground, how big would its nucleus be?",
-     "opts": [
-      "About as big as a peppercorn",
+      "About as big as a peppercorn on the pitch",
       "About as big as a cricket ball",
-      "As big as the pitch",
-      "As big as the whole ground"
+      "About as big as the pitch",
+      "About as big as the whole stadium"
      ],
      "a": 0,
-     "why": "The nucleus is tiny compared with the atom, like a peppercorn on the middle stump. Picking 'a cricket ball' is a very common guess. Even that is far too big. It shows how hard it is to imagine how empty atoms are."
+     "why": "The nucleus is tens of thousands of times smaller across than the atom. In a stadium-sized atom, it would be a peppercorn. Most people guess a cricket ball, and even that is far too big. This shows how empty an atom is."
     },
     {
      "t": "mcq",
-     "p": "Scientists draw an electron as a cloud. What does the cloud show?",
+     "p": "Hari's old school book shows an atom as a big ball in the middle, with electrons the same size going round it on neat rings. What is wrong with the picture?",
      "opts": [
-      "Where the electron is likely to be found",
-      "That electrons are soft and fluffy like cotton",
-      "Lots of electrons stuck together",
-      "Smoke coming out of the atom"
+      "The nucleus should be far, far smaller, and the electrons should be drawn as a cloud, not as balls on rings",
+      "Nothing. It is a correct picture",
+      "The electrons should be inside the nucleus"
      ],
      "a": 0,
-     "why": "The cloud is a picture of chances: thick where the electron is often found, thin where it is rarely found. Picking 'soft and fluffy' takes the picture too literally. An electron is not made of fluff."
+     "why": "In a real atom, the nucleus is tiny compared with the atom. Electrons do not travel on tracks. Scientists can only say where an electron is likely to be found, so they draw a cloud. The ring picture is from 1913 and is still in many books."
     },
     {
      "t": "truefalse",
-     "p": "Electrons go round the centre of an atom on neat tracks, like planets round the Sun.",
-     "a": false,
-     "why": "False. That picture was drawn in 1913 and is still in many books. But quantum physics shows electrons have no tracks. We can only say where they are likely to be."
-    },
-    {
-     "t": "sort",
-     "p": "Sort these. Is each one made of atoms, or not made of atoms?",
-     "cats": [
-      "Made of atoms",
-      "Not made of atoms"
-     ],
-     "items": [
-      [
-       "the air",
-       "Made of atoms"
-      ],
-      [
-       "a gold ring",
-       "Made of atoms"
-      ],
-      [
-       "the smell of filter coffee",
-       "Made of atoms"
-      ],
-      [
-       "a shadow",
-       "Not made of atoms"
-      ],
-      [
-       "sunlight",
-       "Not made of atoms"
-      ],
-      [
-       "your breath",
-       "Made of atoms"
-      ]
-     ],
-     "a": "see items",
-     "why": "Air, gold, breath and smells are matter, so they are made of atoms. A smell is tiny molecules reaching your nose. A shadow is just a place where light is blocked. Sunlight is light, which is not made of atoms."
-    },
-    {
-     "t": "mcq",
-     "p": "In physics, what is an 'observer'?",
-     "opts": [
-      "Anything that measures, like a detector, a screen or even light",
-      "Only a person who is watching",
-      "Only a scientist",
-      "Only a camera"
-     ],
-     "a": 0,
-     "why": "In physics, an observer is anything that measures, so anything that a particle bumps into. Picking 'only a person' is the most common mix-up. Experiments work the same way with no person watching."
+     "p": "Most of an atom is empty space.",
+     "a": true,
+     "why": "True. The nucleus is tiny, and the electrons are tiny too, spread out as a cloud. Almost all of the atom has nothing solid in it."
     },
     {
      "t": "write",
-     "p": "Your friend says, 'Air is nothing.' What would you tell them? Give one way to prove it.",
-     "lines": 3,
-     "a": "Air is made of tiny particles called molecules, too small to see. One proof: push a dry tissue into a glass, turn it upside down and push it into water. The tissue stays dry, because air fills the glass.",
-     "why": "Any correct test that shows air takes up space, pushes or carries smells is a good answer."
+     "p": "Ammu, a girl in Class 3, says, \"A steel tumbler is hard and solid, so it cannot be mostly empty space.\" How would you answer her? Use the magnet activity if you did it.",
+     "lines": 4,
+     "a": "The atoms in the tumbler really are mostly empty space. It feels hard because the electrons in my fingers and the electrons in the steel push each other away before they meet. It is like two magnets pushing apart before they touch. That push is what I feel as hard.",
+     "why": "A strong answer agrees that atoms are mostly empty, and explains what makes things feel solid: electrons pushing each other away.",
+     "how": "a4"
     },
     {
      "t": "draw",
@@ -1080,6 +1018,72 @@
      "a": "A very small dot in the middle labelled nucleus, with a soft, dotty cloud around it labelled electron cloud, thicker near the middle.",
      "why": "The nucleus is tiny and in the middle. Electrons are drawn as a cloud, not as balls on rings.",
      "art": "An empty square with a tiny dot in the middle."
+    },
+    {
+     "t": "fill",
+     "p": "The tiny, heavy centre of an atom is called the ____.",
+     "a": [
+      "nucleus"
+     ],
+     "why": "Ernest Rutherford named the nucleus in 1911. It holds the protons and neutrons, and nearly all of the atom's weight."
+    },
+    {
+     "t": "mcq",
+     "p": "In the Pencil Dots activity, Sowmya closed her eyes and tried to dot a target 50 times. Most dots landed near the target, and fewer further out. How is her dot picture like the way scientists draw an electron?",
+     "opts": [
+      "Each dot is like one place where the electron was found, and the thick part shows where it is most likely to be",
+      "Each dot is a real electron",
+      "The dots show that electrons are soft and fluffy"
+     ],
+     "a": 0,
+     "why": "Scientists cannot follow an electron along a path. They can only say how likely it is to be found in each place. Many findings together make a cloud, thick where the electron is often found and thin where it is rarely found.",
+     "context": "This question is about the pencil-dot activity. You close your eyes and try to dot a target 50 times, then look at where the dots landed.",
+     "how": "a1"
+    },
+    {
+     "t": "truefalse",
+     "p": "Electrons go round the centre of an atom on neat tracks, like planets round the Sun.",
+     "a": false,
+     "why": "False. That picture was drawn in 1913, and it is still in many books and logos. Experiments show that electrons have no tracks. We can only say where they are likely to be."
+    },
+    {
+     "t": "mcq",
+     "p": "Nithya's grandmother fries mustard seeds in the kitchen. A minute later, Nithya smells them in the bedroom. What travelled to her nose?",
+     "opts": [
+      "Molecules from the hot seeds and oil, far too small to see",
+      "Nothing. A smell is just an idea in the head",
+      "Light from the frying pan"
+     ],
+     "a": 0,
+     "why": "Heat makes molecules float off the seeds and the oil. They spread through the air, bumping into air molecules, until some reach Nithya's nose. You can only smell something when its molecules arrive.",
+     "context": "This question is like the Smell Race, where you wait to smell something opened at the far end of a room.",
+     "how": "a5"
+    },
+    {
+     "t": "perspective",
+     "p": "Two sisters, Meera and Nila, look at a drop of water on a steel plate.",
+     "views": [
+      {
+       "who": "Meera, aged 10",
+       "says": "If I split the drop again and again, I will reach a smallest piece of water. That piece cannot be split and still be water."
+      },
+      {
+       "who": "Nila, aged 8",
+       "says": "Water looks smooth all the way through. I think you could split it smaller and smaller forever."
+      }
+     ],
+     "ask": "Which sister do you agree with? Give evidence from this unit. Then say why the other sister's idea made sense.",
+     "lines": 5,
+     "a": "A strong answer sides with Meera, using evidence: colour spreading by itself in still water shows tiny moving molecules, and today's microscopes can picture single atoms. It is fair to Nila: water really does look smooth, and great thinkers such as Aristotle believed this for about 2,000 years. A very strong answer adds that the smallest piece of water, a molecule, can be split into hydrogen and oxygen atoms, but then it is no longer water.",
+     "why": "Both ideas were argued over for a very long time. The evidence from the last 200 years shows that water is made of tiny molecules."
+    },
+    {
+     "t": "write",
+     "p": "Look at a photo in a newspaper through a magnifying glass. What do you see? How is this like the way things are made of atoms? Give one way it is different.",
+     "lines": 4,
+     "a": "Close up, the photo is made of tiny dots of ink. From far away it looks smooth. In the same way, a steel tumbler looks smooth, but it is made of tiny atoms. It is different because I can see the ink dots with a magnifying glass, but atoms are far too small to see, even with a microscope.",
+     "why": "A strong answer says what the child saw, makes the link to atoms, and names a difference.",
+     "how": "a3"
     }
    ]
   },
@@ -1091,244 +1095,196 @@
    "items": [
     {
      "t": "mcq",
-     "p": "In the marble test, a single battery was hidden under the card. Most of the marbles went straight through. Why?",
+     "p": "In the marble test, Vani hides a big steel bowl under the card instead of a small battery. Before she rolls, what should she predict?",
      "opts": [
-      "The battery was small, and most of the space under the card was empty",
-      "The marbles were too fast to stop",
-      "The card stopped them",
-      "The battery pulled them through"
+      "Many more marbles will turn aside or come back, because the bowl fills much more of the space",
+      "All the marbles will go straight through, just like with the battery",
+      "None of the marbles will come out"
      ],
      "a": 0,
-     "why": "Most marbles missed the small battery, because most of the space was empty. The same thing happened with gold atoms in 1909. Picking 'too fast to stop' misses why a few did come back: they hit the battery.",
+     "why": "The bowl takes up much more of the space under the card, so more marbles hit it. With a small battery, most marbles miss. In real gold, nearly all alpha particles went straight through, so the thing they hit must be tiny, like the battery.",
      "context": "This question is about the marble test. You hide something under a card held up on four tumblers, then roll marbles under it and watch where they come out.",
-     "how": "e2",
-     "chart": {
-      "type": "bar",
-      "title": "Made-up example: what happened to 20 marbles when one battery was hidden",
-      "x": "What the marble did",
-      "y": "Number of marbles",
-      "data": [
-       {
-        "label": "Went straight through",
-        "value": 18,
-        "emoji": "➡️"
-       },
-       {
-        "label": "Turned aside",
-        "value": 1,
-        "emoji": "↗️"
-       },
-       {
-        "label": "Came back",
-        "value": 1,
-        "emoji": "↩️"
-       }
-      ]
-     }
+     "how": "e2"
     },
     {
-     "t": "mcq",
-     "p": "In 1909, Geiger and Marsden fired alpha particles at thin metal. What surprised everyone?",
-     "opts": [
-      "A few bounced straight back",
-      "They all went straight through",
-      "The metal melted",
-      "None went through at all"
-     ],
-     "a": 0,
-     "why": "Everyone expected them all to go through, because atoms were pictured as soft puddings. About 1 in 8,000 bounced back. So each atom must have a tiny, heavy centre. Picking 'they all went straight through' is what scientists expected, but not what they saw."
-    },
-    {
-     "t": "fill",
-     "p": "The tiny, heavy centre of an atom is called the ____.",
-     "a": [
-      "nucleus"
-     ],
-     "why": "Ernest Rutherford named it in 1911. It holds the protons and neutrons."
-    },
-    {
-     "t": "mcq",
-     "p": "In the colour test, which glass did the colour spread through faster, and why?",
-     "opts": [
-      "The hot one, because hot water moves more",
-      "The cold one, because cold water is heavier",
-      "Both the same, because it is the same colour",
-      "Neither, colour only spreads if you stir"
-     ],
-     "a": 0,
-     "why": "Hot water stirs itself: warm water rises and cooler water sinks. Its molecules also move faster. Picking 'only if you stir' is a common idea, but the test shows the colour spreads with nobody stirring.",
-     "context": "This question is about the colour test. You put one drop of food colour into a glass of hot water and a glass of cold water, without stirring.",
-     "how": "e3"
+     "t": "write",
+     "p": "In 1909, most scientists pictured an atom as a soft ball, with its plus charge spread evenly all through it. Then Hans Geiger and Ernest Marsden saw a few alpha particles bounce straight back from thin metal foil. Why did this prove the soft-ball picture wrong?",
+     "lines": 4,
+     "a": "Alpha particles are fast and heavy. A soft ball with its charge spread out could only nudge them a little. To throw one straight back, the atom needs something tiny, heavy and packed tight. So each atom must have a tiny, heavy centre, the nucleus.",
+     "why": "A strong answer explains why a soft, spread-out atom could not throw an alpha particle back, and what must be there instead."
     },
     {
      "t": "truefalse",
-     "p": "In the colour test, the colour spread in the cold glass too, even though nobody stirred it.",
-     "a": true,
-     "why": "True. It spread more slowly, but it still spread. Water is never perfectly still, and its molecules are always moving, even in cold water.",
+     "p": "Hans Geiger and Ernest Marsden looked through their microscope and saw single atoms.",
+     "a": false,
+     "why": "False. They could not see atoms. They saw tiny flashes of light on a screen, each one made when an alpha particle hit it. By counting where the flashes appeared, they worked out what the alpha particles had hit."
+    },
+    {
+     "t": "mcq",
+     "p": "Swathi puts one drop of food colour into a glass of hot water and one drop into a glass of ice-cold water, at the same moment. She does not stir. What will she see after five minutes?",
+     "opts": [
+      "The colour has spread much further in the hot water",
+      "The colour has spread much further in the cold water",
+      "The colour has not spread in either glass, because nobody stirred",
+      "Both glasses look the same"
+     ],
+     "a": 0,
+     "why": "Water molecules are always moving, and in hot water they move faster. They knock the colour around and spread it. Many people think colour only spreads if you stir, but the test shows it spreads with nobody stirring.",
+     "context": "This question is about the colour test. You put one drop of food colour into a glass of hot water and a glass of cold water, without stirring.",
+     "how": "e3"
+    },
+    {
+     "t": "write",
+     "p": "In the colour test, the colour spread slowly in the cold glass too, even though nobody stirred it and the water looked still. Why did it spread at all?",
+     "lines": 3,
+     "a": "The water only looks still. Its molecules are moving all the time, even in cold water. They keep bumping into the colour and pushing it about, so it slowly spreads through the glass.",
+     "why": "A strong answer says that molecules are always moving, even when the water looks still.",
      "context": "This question is about the colour test. You put one drop of food colour into a glass of hot water and a glass of cold water, without stirring.",
      "how": "e3"
     },
     {
      "t": "mcq",
-     "p": "A grown-up squeezes an orange peel at one end of a room. Soon you smell it at the other end. What reached your nose?",
+     "p": "In 1827, Robert Brown, a Scottish scientist, saw tiny specks from pollen jiggling in water under his microscope. At first he wondered if they were alive. Then he saw specks of crushed glass jiggle in just the same way. What did that tell him?",
      "opts": [
-      "Molecules from the orange, too small to see",
-      "Nothing, a smell is just an idea",
-      "Light from the orange",
-      "The sound of squeezing"
+      "The jiggling was not caused by life. Something in the water was knocking the specks about",
+      "Glass is alive",
+      "His microscope was shaking"
      ],
      "a": 0,
-     "why": "Molecules float off the orange and the air carries them to your nose. Picking 'nothing' is a common idea, because smells are invisible. But you can only smell something when its molecules arrive.",
-     "context": "This question is about the Smell Race, where everyone stands still in a room and waits to smell an orange peel.",
-     "how": "a5"
+     "why": "Crushed glass is not alive, so life could not explain the jiggling. In 1905, Albert Einstein explained it: invisible water molecules keep bumping the specks from all sides. This jiggling is called Brownian motion."
     },
     {
-     "t": "mcq",
-     "p": "In the pencil-dot activity, where did most dots land?",
-     "opts": [
-      "Near the target, and fewer further away",
-      "Evenly all over the paper",
-      "Only far from the target",
-      "All on the target"
+     "t": "perspective",
+     "p": "Around 1900, some famous scientists argued about whether atoms are real.",
+     "views": [
+      {
+       "who": "Wilhelm Ostwald, a chemist",
+       "says": "Nobody has ever seen an atom. Science should talk only about what we can measure, like heat and energy."
+      },
+      {
+       "who": "Jean Perrin, a physicist, in 1908",
+       "says": "I measured how tiny specks jiggle in water. My numbers only make sense if invisible molecules are bumping them. So atoms are real."
+      }
      ],
-     "a": 0,
-     "why": "Most dots land near the target, and they thin out further away. That makes a cloud, like the picture of an electron. Picking 'all on the target' would need perfect aim with your eyes closed.",
-     "context": "This question is about the pencil-dot activity. You close your eyes and try to dot a target 50 times, then count the dots in rings around it.",
-     "how": "a1",
-     "chart": {
-      "type": "bar",
-      "title": "Made-up example: where 50 pencil dots landed",
-      "x": "Ring",
-      "y": "Number of dots",
-      "note": "The inner ring is also the smallest ring. So the dots are packed most tightly near the target.",
-      "data": [
-       {
-        "label": "Inner ring",
-        "value": 24,
-        "emoji": "🎯"
-       },
-       {
-        "label": "Middle ring",
-        "value": 17,
-        "emoji": "⭕"
-       },
-       {
-        "label": "Outer ring",
-        "value": 9,
-        "emoji": "⚪"
-       }
-      ]
-     }
+     "ask": "Which scientist do you side with? Give your evidence. Then say what the other scientist had right.",
+     "lines": 5,
+     "a": "A strong answer sides with Perrin and gives his evidence: his measurements of jiggling specks matched what atoms would do. It is fair to Ostwald: he was right that a big idea needs evidence, and in 1900 there was not enough. A very strong answer adds that Ostwald changed his mind once the evidence came, which is what a good scientist does.",
+     "why": "This was a real argument. The evidence from jiggling specks settled it, and today single atoms can even be pictured."
     },
     {
      "t": "match",
-     "p": "Match each scientist to what they found.",
+     "p": "Each model in this unit stands for something real. Match each model to what it stands for.",
      "pairs": [
       [
-       "J.J. Thomson, 1897",
-       "found the electron"
+       "The small battery in the marble test",
+       "the tiny nucleus of an atom"
       ],
       [
-       "Hans Geiger and Ernest Marsden, 1909",
-       "saw alpha particles bounce back from metal foil"
+       "The rolled marbles",
+       "the alpha particles fired at gold"
       ],
       [
-       "Ernest Rutherford, 1911",
-       "explained the tiny, heavy nucleus"
+       "The dots in Pencil Dots",
+       "places where an electron was found"
       ],
       [
-       "James Chadwick, 1932",
-       "found the neutron"
+       "A mustard seed in the middle of a park",
+       "a nucleus inside a huge, empty atom"
+      ],
+      [
+       "Two magnets pushing apart",
+       "electrons pushing each other away"
       ]
      ],
      "a": "pairs as given",
-     "why": "Over 35 years, these scientists opened up the atom, one part at a time.",
-     "context": "This question is about the scientists who found the parts of the atom."
+     "why": "A model is a pretend version that helps us think about something we cannot see. Knowing what each part stands for helps you use the model well."
     },
     {
      "t": "mcq",
-     "p": "If atoms are almost all empty space, why does a table feel solid?",
+     "p": "A pot of rasam boils over onto the gas flame, and the flame flashes bright yellow. Why?",
      "opts": [
-      "The electrons in your hand and the table push each other away",
-      "The atoms are packed with no gaps",
-      "Tables are sticky",
-      "Gravity pushes up from the table"
+      "Heat lifts electrons in the sodium atoms of the salt up an energy step. When they drop back, they give out yellow light",
+      "The salt is burning like wood",
+      "Rasam is yellow, so the flame turns yellow"
      ],
      "a": 0,
-     "why": "Electrons all have a minus charge, so they push each other away. A quantum rule also stops them squeezing together. Picking 'no gaps' is the old idea of atoms as hard balls."
-    },
-    {
-     "t": "mcq",
-     "p": "A grown-up sprinkles salt on a gas flame and it flashes yellow. Why?",
-     "opts": [
-      "Electrons in sodium atoms drop down an energy step and give out yellow light",
-      "Salt burns like wood",
-      "The flame gets hotter",
-      "Salt is yellow inside"
-     ],
-     "a": 0,
-     "why": "Heat lifts electrons up an energy step, and when they drop back each gives out light of one exact colour. Picking 'salt burns' is a sensible guess, but the salt is not burning. Its atoms are glowing.",
+     "why": "The salt in rasam is made of sodium and chlorine. Heat lifts the sodium atoms' electrons up an energy step, and when each one drops back, it gives out light of one exact colour: yellow. Street lamps that glow orange-yellow use the same atoms.",
      "context": "This question is about the salt-flame activity, where a grown-up sprinkles a pinch of salt on a gas flame.",
      "how": "a6"
     },
     {
      "t": "truefalse",
-     "p": "An electron in an atom can only have certain amounts of energy, like standing on the steps of a staircase, never in between.",
-     "a": true,
-     "why": "True. These steps are called energy levels. It is one of the ways the very small does not behave like a ball rolling down a ramp, which can stop anywhere.",
+     "p": "An electron in an atom can have any amount of energy at all, like a ball that can stop anywhere on a ramp.",
+     "a": false,
+     "why": "False. An electron can only have certain amounts of energy, like standing on the steps of a staircase, never in between. These steps are called energy levels. This is one way the very small does not behave like the things we see.",
      "context": "This question is about the staircase game, where you act as an electron jumping up and down steps.",
      "how": "a6"
     },
     {
      "t": "order",
-     "p": "Put these in order, from BIGGEST to SMALLEST: a proton, an atom, a quark, a nucleus.",
+     "p": "Each of these fits inside the one before. Put them in order, from BIGGEST to SMALLEST.",
      "items": [
       "an atom",
       "a nucleus",
       "a proton",
       "a quark"
      ],
-     "a": "order shown",
+     "a": [
+      "an atom",
+      "a nucleus",
+      "a proton",
+      "a quark"
+     ],
      "why": "The nucleus is inside the atom, protons are inside the nucleus, and quarks are inside protons. Nobody has measured any size for a quark at all.",
      "context": "An atom has a tiny, heavy centre called the nucleus, made of protons and neutrons. Electrons are found around it."
     },
     {
+     "t": "fill",
+     "p": "Each kind of atom has its own number of ____ in its nucleus. Carbon has 6, oxygen has 8 and gold has 79.",
+     "a": [
+      "protons",
+      "proton"
+     ],
+     "why": "The number of protons decides what kind of atom it is. An atom with 6 protons is always carbon, and an atom with 79 is always gold."
+    },
+    {
+     "t": "write",
+     "p": "Kanada in India and Democritus in Greece had no microscopes. Yet more than 2,000 years ago, both decided that everything is made of tiny pieces. Give one everyday clue that could have led them to this idea, and say how it points to tiny pieces.",
+     "lines": 3,
+     "a": "Sugar disappears when you stir it into water, but the water still tastes sweet. So the sugar must still be there, broken into pieces too small to see. Another clue: the smell of cooking spreads through a house, so something too small to see must travel through the air.",
+     "why": "A strong answer gives a real clue and explains why it suggests tiny, invisible pieces.",
+     "context": "Kanada was a thinker in ancient India, and Democritus a thinker in ancient Greece."
+    },
+    {
      "t": "mcq",
-     "p": "The word 'atom' comes from an old Greek word. What does it mean?",
+     "p": "How do scientists make pictures of single atoms today?",
      "opts": [
-      "Uncuttable",
-      "Tiny",
-      "Ball",
-      "Everything"
+      "A super-sharp needle tip feels the surface, bump by bump",
+      "With a very strong magnifying glass",
+      "With X-ray glasses"
      ],
      "a": 0,
-     "why": "Democritus thought atoms could not be cut. We now know they can be split into smaller parts. Picking 'tiny' is a good guess, because atoms are tiny, but the word was about cutting."
-    },
-    {
-     "t": "write",
-     "p": "Kanada in India and Democritus in Greece both thought everything is made of tiny particles. Neither had a microscope. How might they have come up with the idea?",
-     "lines": 3,
-     "a": "For example: they might have noticed that sugar disappears in water but can still be tasted, or that stone steps wear away bit by bit. They thought about cutting things smaller and smaller, and decided there must be a smallest piece.",
-     "why": "Any answer that uses everyday clues and careful thinking is good. They worked by reasoning, not by experiments.",
-     "context": "Kanada was a thinker in ancient India, and Democritus a thinker in ancient Greece. Both lived more than 2,000 years ago."
-    },
-    {
-     "t": "write",
-     "p": "Finish the marble test like a scientist. Write what you think, what you saw, and why.",
-     "lines": 4,
-     "a": "What I think: the small hidden thing took up only a tiny part of the space under the card. What I saw: with the battery, 18 of 20 marbles went straight through and only 1 came back. Why: most marbles missed it, because most of the space was empty, like a gold atom.",
-     "why": "A good answer has all three parts: a claim, evidence with numbers, and a reason.",
-     "context": "This question is about the marble test. You hide something under a card held up on four tumblers, then roll marbles under it and watch where they come out.",
-     "how": "e2"
+     "why": "The scanning tunnelling microscope, built in 1981 by Gerd Binnig and Heinrich Rohrer, feels a surface with a tip only one atom wide. A computer turns the bumps into a picture. Light cannot show single atoms, because light waves are much bigger than atoms."
     },
     {
      "t": "draw",
      "p": "Draw the card from the marble test, seen from above. Draw the battery as a dot. Draw arrows for 6 marbles: 5 going straight through and 1 bouncing back off the battery.",
-     "a": "A square with a small dot. Five straight arrows crossing it without touching the dot. One arrow hitting the dot and turning back.",
-     "why": "This is just what Rutherford pictured for alpha particles passing through gold atoms.",
+     "a": "A square with a small dot. Five straight arrows cross it without touching the dot. One arrow hits the dot and turns back.",
+     "why": "This is just what Rutherford pictured for alpha particles passing through gold atoms: most miss the tiny nucleus, and a rare one hits it head on.",
+     "art": "An empty square outline seen from above.",
      "context": "This question is about the marble test. You hide something under a card held up on four tumblers, then roll marbles under it and watch where they come out.",
-     "how": "e2",
-     "art": "An empty square outline seen from above."
+     "how": "e2"
+    },
+    {
+     "t": "mcq",
+     "p": "Divya says, \"The carbon atoms in a living leaf must be a different, living kind of carbon from the carbon in a pencil tip.\" Is she right?",
+     "opts": [
+      "No. Both are exactly the same kind of atom, with 6 protons each",
+      "Yes. Atoms in living things are a special kind",
+      "Yes, because a leaf is green and a pencil tip is grey"
+     ],
+     "a": 0,
+     "why": "Every carbon atom has 6 protons, wherever it is. What makes a leaf different from a pencil tip is how the atoms are joined together, not a different kind of carbon. A leaf's carbon came from the air, and one day it may become part of a pencil, a person or a cloud."
     }
    ]
   },
@@ -1340,7 +1296,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "About how many times would you have to halve a 24 cm strip to get a sliver only one atom wide?",
+     "p": "Each cut halves the strip. About how many halvings would it take to turn a 24 cm strip into a sliver only one atom wide?",
      "opts": [
       "About 31 times",
       "About 8 times",
@@ -1397,16 +1353,26 @@
      }
     },
     {
-     "t": "mcq",
-     "p": "Some people say quantum physics proves that our minds create the world. What do physicists say?",
-     "opts": [
-      "No. In physics, an observer is anything that measures, and experiments work with no person watching.",
-      "Yes. Nothing exists unless a person looks at it.",
-      "Yes, but only for big things like tables",
-      "Nobody has ever tested it"
+     "t": "perspective",
+     "p": "People argue about what 'observing' means in quantum physics, the science of the very small.",
+     "views": [
+      {
+       "who": "A character in a film",
+       "says": "Quantum physics proves that nothing is real until a person looks at it."
+      },
+      {
+       "who": "A physicist",
+       "says": "In physics, an observer is anything that measures, like a detector, a screen or even air molecules. Experiments give the same results with no person in the room."
+      },
+      {
+       "who": "A philosopher",
+       "says": "Physicists agree on the results, but they still argue about what an electron is doing between measurements. So there is still a real puzzle here."
+      }
      ],
-     "a": 0,
-     "why": "A detector, a screen or air molecules all count as measuring. Experiments give the same results whether or not a person is in the room. Picking 'nothing exists unless a person looks' comes from mixing up the physics word 'observer' with its everyday meaning."
+     "ask": "Which view do you agree with most? Give a reason. Then say what one of the other views gets right.",
+     "lines": 5,
+     "a": "A strong answer knows that the film character mixes up the physics word 'observer' with its everyday meaning, because experiments work with no person watching. It may still side with the philosopher, because the question of what happens between measurements really is open. A strong answer gives a reason and is fair to another view.",
+     "why": "The physicist's point is settled: a measurement does not need a person. The philosopher's point is also true: physicists still disagree about what the electron is like between measurements."
     },
     {
      "t": "truefalse",
@@ -1427,18 +1393,6 @@
      "why": "Nearly all of an atom is empty, and nearly all its weight is in the tiny nucleus. Squeeze out the emptiness, and the whole human race would fit in a sugar cube. It would still weigh about 500 million tonnes. Picking 'a house' is already a huge squeeze, but not nearly enough."
     },
     {
-     "t": "mcq",
-     "p": "How do scientists make pictures of single atoms today?",
-     "opts": [
-      "A super-sharp needle tip feels the surface, bump by bump",
-      "A very strong magnifying glass",
-      "X-ray glasses",
-      "By guessing"
-     ],
-     "a": 0,
-     "why": "The scanning tunnelling microscope, built in 1981 by Gerd Binnig and Heinrich Rohrer, feels a surface with a tip only one atom wide. Picking 'a very strong magnifying glass' is natural, but light waves are thousands of times longer than an atom is wide, so they cannot show single atoms."
-    },
-    {
      "t": "fill",
      "p": "Protons and neutrons are each made mainly of three even smaller particles called ____.",
      "a": [
@@ -1449,27 +1403,14 @@
     },
     {
      "t": "mcq",
-     "p": "Why can nobody know exactly where an electron is and exactly how fast it is going, at the same moment?",
+     "p": "Ritu, a girl in Class 5, says, \"One day, better microscopes will show exactly where an electron is and exactly how fast it is going, both at once.\" What would a physicist tell her?",
      "opts": [
-      "It is a rule of nature in quantum physics, not just a problem with our tools",
-      "Our tools are not good enough yet, and better tools will fix it",
-      "Electrons are invisible",
-      "Electrons move too fast to film"
+      "No tool can ever do this. An electron does not have an exact place and an exact speed at the same time",
+      "She is right. Our tools just need to get better",
+      "Electrons are invisible, so we can never measure them at all"
      ],
      "a": 0,
-     "why": "Werner Heisenberg showed this in 1927. Measuring always means bumping, but the rule goes deeper than that: an electron does not have an exact place and an exact speed together. Picking 'better tools will fix it' is the most common idea. Physicists have tested this, and it is part of how nature works."
-    },
-    {
-     "t": "mcq",
-     "p": "What is an electron doing between measurements, when nothing is bumping it?",
-     "opts": [
-      "Scientists still argue about this",
-      "Going round on a track",
-      "Sitting still on the nucleus",
-      "It disappears and is made again"
-     ],
-     "a": 0,
-     "why": "Physicists agree on the maths and on the results of every experiment. They disagree about what is really happening in between. Picking 'going round on a track' is the old planet picture, which experiments have ruled out."
+     "why": "Werner Heisenberg showed this in 1927. It is a rule of nature, not a problem with our tools. Electrons can be measured, but the more exactly we know where one is, the less exactly we can know its speed."
     },
     {
      "t": "match",
@@ -1500,15 +1441,14 @@
     },
     {
      "t": "mcq",
-     "p": "Bibha Chowdhuri and D.M. Bose caught tracks of tiny particles from space on photographic plates. Where did they take their plates?",
+     "p": "Bibha Chowdhuri and D.M. Bose carried photographic plates up mountains near Darjeeling, to catch the tracks of tiny particles coming from space. Why did they go up mountains?",
      "opts": [
-      "Up mountains near Darjeeling",
-      "To Antarctica",
-      "Under the sea",
-      "To the Moon"
+      "There is less air above a mountain to stop the particles, so more of them reach the plates",
+      "Mountains are closer to the Sun",
+      "The cold air makes the particles glow"
      ],
      "a": 0,
-     "why": "High mountains get more of these particles, because there is less air above to stop them. Their work, from 1939 to 1942, was an early step in finding mesons. Picking 'the Moon' is fun, but nobody went there until 1969.",
+     "why": "The particles come from space and crash into the air. High up, there is less air above, so more particles get through. Their work, from 1939 to 1942, was an early step in finding particles called mesons.",
      "context": "Cosmic rays are fast particles from space that hit the air and make showers of other particles."
     },
     {
@@ -1526,25 +1466,26 @@
      "why": "Any thoughtful answer is good. Scientists themselves say empty space is never perfectly empty."
     },
     {
-     "t": "mcq",
-     "p": "Why can't we say for sure whether Kanada or Democritus had the idea of atoms first?",
-     "opts": [
-      "Nobody knows when Kanada lived. Scholars guess between about 600 and 200 years before the Common Era.",
-      "Democritus never existed",
-      "They both had microscopes",
-      "Kanada lived only 100 years ago"
-     ],
-     "a": 0,
-     "why": "Democritus lived about 2,400 years ago, and his dates are fairly well known. Kanada's dates are not. So who was first is uncertain. Picking 'they had microscopes' misses that both worked only by thinking."
+     "t": "write",
+     "p": "Who had the idea of atoms first, Kanada in India or Democritus in Greece? Explain why nobody can say for sure. Then say whether you think it matters who was first.",
+     "lines": 4,
+     "a": "Democritus lived about 2,400 years ago, and his dates are fairly well known. Nobody knows exactly when Kanada lived. Scholars guess somewhere between about 600 and 200 years before the Common Era. So nobody can say who was first. I think it matters less than the idea itself, because both reached it by careful thinking, on their own.",
+     "why": "A strong answer explains that Kanada's dates are uncertain, then gives an opinion with a reason.",
+     "context": "Kanada was a thinker in ancient India, and Democritus a thinker in ancient Greece."
+    },
+    {
+     "t": "truefalse",
+     "p": "Some of the atoms in your body were once part of other living beings, such as plants and animals.",
+     "a": true,
+     "why": "True. Atoms are not used up. The carbon in the rice you eat was taken from the air by the rice plant. When you breathe out, some of those atoms go back into the air, and a plant may take them in again."
     },
     {
      "t": "write",
-     "p": "Plan a fair test to find out whether colour spreads faster in hot water than in cold water. What will you keep the same?",
+     "p": "Plan a test to find out whether a smell spreads faster through a warm room or a cool room. Say what you will change, what you will keep the same, and what you will measure.",
      "lines": 4,
-     "a": "Use two glasses of the same size with the same amount of water. Wait until both are still. Add one drop to each at the same moment. Don't stir. Keep everything the same except how warm the water is.",
-     "why": "A fair test changes only one thing, here the warmth of the water, and keeps everything else the same.",
-     "context": "This question is about the colour test. You put one drop of food colour into a glass of hot water and a glass of cold water, without stirring.",
-     "how": "e3"
+     "a": "I will change only how warm the room is. I will keep the same smell, for example a cut orange peel, the same distance from the person, and the same person sniffing. I will measure the time, in seconds, from opening the peel to the person raising a hand. I will try each room three times, because one try can be a fluke.",
+     "why": "A strong answer changes one thing, keeps the rest the same, measures time, and repeats the test.",
+     "how": "a5"
     },
     {
      "t": "draw",
@@ -1552,6 +1493,17 @@
      "a": "Six circles, each a closer zoom: a hand, skin, a cell, a molecule of joined balls, an atom drawn as a cloud with a dot, and the dot opened to show protons and neutrons.",
      "why": "Each circle is many times smaller than the one before. The atom should be a cloud, and the nucleus a tiny ball of protons and neutrons.",
      "art": "Six empty circles in a row, getting smaller."
+    },
+    {
+     "t": "mcq",
+     "p": "Light waves are thousands of times longer than an atom is wide. What does this tell you about seeing an atom with light?",
+     "opts": [
+      "Light waves are too big to show the shape of a single atom, so no light microscope can show one",
+      "With a brighter light, you could see one",
+      "Atoms are dark, so light cannot find them"
+     ],
+     "a": 0,
+     "why": "To show the shape of something, light waves must be smaller than it. Atoms are far smaller than light waves, so even the best light microscope cannot show one. That is why scientists use needle-tip microscopes instead."
     }
    ]
   }
@@ -2211,7 +2163,7 @@
      "say": "This mustard seed is the nucleus, the centre of our atom. Remember, it holds nearly all the atom's weight.",
      "kid": "This mustard seed is the nucleus. It is the centre of your atom. It holds nearly all the atom's weight.",
      "adult": true,
-     "context": "This is the first step of the Mustard-Seed Atom. You make a model of an atom as big as a park, with a mustard seed at its centre."
+     "context": "This is the first step of the Mustard-Seed Atom. You make a model of an atom as big as a park, with a mustard seed in the middle."
     },
     {
      "id": "s2",
@@ -2706,7 +2658,7 @@
      "do": "1. Label the parts. 2. Ask your child to say what the model gets wrong. 3. Your child explains the model to someone else in the family.",
      "say": "Every model is wrong somewhere. If our nucleus were this size, how big would the real cloud be?",
      "kid": "Label your model. Then think: what does it get wrong? Explain your atom to someone at home.",
-     "parent": "Good answers: the nucleus is far too big for the cloud. If this bean nucleus were real, its electron cloud would be about a kilometre across. Real atoms have no colours. The electrons are not cotton.",
+     "parent": "Good answers: the nucleus is far too big for the cloud. If this bean were a real nucleus, the electron cloud around it would be about a kilometre across. Real atoms have no colours. The electrons are not cotton.",
      "think": "Scientists use models they know are not quite right. Why might a wrong model still be useful?"
     }
    ],
@@ -2941,15 +2893,16 @@
   },
   {
    "t": "mcq",
-   "p": "In the paper-cutting experiment, the piece became too small to cut after about 8 cuts. Had you reached an atom?",
+   "p": "In the paper-cutting experiment, each cut halves the strip. A strip starts at 24 cm long. How long is it after 3 cuts?",
    "opts": [
-    "Yes",
-    "No, you were still about 23 cuts away",
-    "No, you could never reach one"
+    "3 cm",
+    "6 cm",
+    "8 cm",
+    "12 cm"
    ],
-   "a": 1,
+   "a": 0,
+   "why": "24 halved is 12. 12 halved is 6. 6 halved is 3. So after 3 cuts, the strip is 3 cm long. Picking 8 means dividing 24 by 3, but each cut halves the strip.",
    "outcome": 1,
-   "why": "To get a piece one atom wide from a 24 cm strip takes about 31 halvings. So 8 cuts still leaves about 23 to go. Picking 'yes' is very common, because the last piece looks so tiny. It still had millions of atoms across it.",
    "context": "This question is about the paper-cutting experiment. You cut a 24 cm strip of paper in half, then cut one half in half, again and again.",
    "how": "e1"
   },
@@ -2979,15 +2932,15 @@
   },
   {
    "t": "mcq",
-   "p": "What decides whether an atom is carbon, gold or oxygen?",
+   "p": "Which part of an atom is by far the lightest?",
    "opts": [
-    "How many protons it has",
-    "Its colour",
-    "How fast it moves"
+    "The electron",
+    "The proton",
+    "The neutron"
    ],
    "a": 0,
-   "outcome": 2,
-   "why": "Carbon has 6 protons, oxygen 8 and gold 79. Picking 'its colour' is a sensible guess, because gold looks golden. But single atoms have no colour of their own like that."
+   "why": "A proton or a neutron is about 1,800 times heavier than an electron. So nearly all of an atom's weight is in the nucleus. Many pictures draw electrons big, but they are very light.",
+   "outcome": 2
   },
   {
    "t": "mcq",
@@ -3003,17 +2956,15 @@
   },
   {
    "t": "mcq",
-   "p": "In the marble test with a tiny battery hidden, most marbles went straight through and one came back. What is the battery like in a real atom?",
+   "p": "Why did Ernest Rutherford decide that the nucleus must be very heavy?",
    "opts": [
-    "The nucleus",
-    "An electron",
-    "The empty space"
+    "It could throw a fast alpha particle straight back",
+    "Gold is a heavy metal",
+    "It was big enough to see"
    ],
    "a": 0,
-   "outcome": 3,
-   "why": "The small, hard battery is like the tiny, heavy nucleus. Most marbles missed it, as most alpha particles missed the nucleus. Picking 'an electron' is a fair guess, but electrons are far too light to throw back an alpha particle.",
-   "context": "This question is about the marble test. You hide something under a card held up on four tumblers, then roll marbles under it and watch where they come out.",
-   "how": "e2"
+   "why": "A fast, heavy alpha particle can only be thrown straight back by something heavier and packed tight. A light thing would simply be knocked out of the way. Nobody could see the nucleus, so the bounce was the evidence.",
+   "outcome": 3
   },
   {
    "t": "mcq",
@@ -3029,17 +2980,15 @@
   },
   {
    "t": "mcq",
-   "p": "In the pencil-dot activity, 50 dots made a cloud, thickest near the target. What is that cloud like?",
+   "p": "Why do scientists draw an electron as a cloud, and not as a dot?",
    "opts": [
-    "An electron cloud: one dot is like one measurement",
-    "A real electron",
-    "A nucleus"
+    "They can only say how likely the electron is to be found in each place",
+    "Electrons are made of mist",
+    "Electrons are too big to draw as a dot"
    ],
    "a": 0,
-   "outcome": 4,
-   "why": "Each dot is one 'finding'. Many findings make a cloud of chances, just like the picture of an electron. Picking 'a real electron' takes the model too literally. The dots are a picture of chances.",
-   "context": "This question is about the pencil-dot activity. You close your eyes and try to dot a target 50 times, then count the dots in rings around it.",
-   "how": "a1"
+   "why": "An electron does not follow a path that anyone can trace. Scientists can only work out the chances of finding it in each place. The cloud is a picture of those chances: thick where it is often found, thin where it is rarely found.",
+   "outcome": 4
   },
   {
    "t": "mcq",
@@ -3055,39 +3004,39 @@
   },
   {
    "t": "mcq",
-   "p": "Does quantum physics prove that our minds make the world real?",
+   "p": "Which of these is a way the very small behaves differently from a cricket ball?",
    "opts": [
-    "No, it does not",
-    "Yes, it does",
-    "Only for big things like tables"
+    "An electron in an atom can only have certain amounts of energy, never amounts in between",
+    "An electron falls when you drop it",
+    "An electron can be caught in a hand"
    ],
    "a": 0,
-   "outcome": 5,
-   "why": "Physicists still argue about what measurement means. But none of the main ideas needs a person watching, and experiments work without anyone watching. Picking 'yes' is understandable, because some films and books say so. They mix up the physics word 'observer' with its everyday meaning."
+   "why": "A cricket ball can roll at any speed and stop anywhere. An electron in an atom can only have certain amounts of energy, like standing on steps. The very small follows rules that the things we see do not.",
+   "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "How did scientists first become sure that atoms are real?",
+   "p": "Which of these is evidence that atoms are real?",
    "opts": [
-    "From what atoms do, like jiggling tiny specks in water",
-    "Someone saw one with their eyes",
-    "Kanada told them"
+    "Scientists can make pictures of single atoms with needle-tip microscopes",
+    "Atoms are written about in old books",
+    "Many people believe in atoms"
    ],
    "a": 0,
-   "outcome": 6,
-   "why": "Einstein in 1905 and Perrin in 1908 showed that tiny specks jiggle because invisible molecules bump them. Picking 'Kanada told them' misses that an idea needs evidence. Kanada's idea was brilliant, but proof came over 2,000 years later."
+   "why": "Evidence is something that can be tested or seen. Pictures of single atoms, and the way tiny specks jiggle in water, are evidence. Old books and many believers are not, because people can believe things that are wrong.",
+   "outcome": 6
   },
   {
    "t": "mcq",
-   "p": "Which of these do scientists still NOT know?",
+   "p": "Which of these is still an open question for scientists?",
    "opts": [
-    "What an electron is doing between measurements",
-    "Whether atoms exist",
-    "Whether atoms have a nucleus"
+    "What an electron is doing when nothing is measuring it",
+    "Whether everything is made of atoms",
+    "Whether an atom has a nucleus"
    ],
    "a": 0,
-   "outcome": 6,
-   "why": "Atoms and nuclei are settled science. What happens between measurements is still argued over. Picking 'whether atoms exist' was a fair question in 1900, but it was settled by 1908."
+   "why": "That atoms exist, and that they have a nucleus, is settled science. What an electron is like between measurements is still argued over. Bohr, Bohm and Everett each had a different idea.",
+   "outcome": 6
   }
  ],
  "applications": [

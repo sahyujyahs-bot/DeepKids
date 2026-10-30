@@ -8,10 +8,10 @@
  "title": "Electricity: what it does, where it comes from and how to stay safe",
  "source": "DeepKids Combined. Covers Cambridge Stage 2 Unit 6: where we use electricity (6.1), keeping safe with electricity (6.2) and making circuits (6.3). No textbook needed.",
  "summary": "When the power goes off, the fan, the lights and the fridge all stop at once, but the torch still works. Your child finds out why: some things get electricity from the wall, which comes along wires from a power station, and some carry their own cells. They learn why mains electricity can hurt a person and the safety rules that keep us safe, each with its reason. Then they open a torch, light a bulb with a circuit of their own, find out why a gap stops it, and make a paper clip switch for a shoebox room. They also see a balloon make tiny sparks, find out that lightning is a giant spark, and learn that their own nerves and heart run on electrical signals.",
- "builds_on": "This is the first rung on electricity. Class 1 'Materials and their properties' sorted things by what they are made of, which helps here when we test metal and plastic. Class 3 'Magnets' shows that a moving magnet is how a power station makes electricity. Class 4 comes back to electricity with conductors and insulators, whether water conducts, how switches work inside appliances, and what happens when you add more cells or bulbs to a circuit.",
+ "builds_on": "This is the first rung on electricity. Class 1 'Materials and their properties' sorted things by what they are made of, which helps here when we test metal and plastic. Class 3 'Magnets' finds magnets inside the motors of fans and mixies. Class 4 comes back to electricity with conductors and insulators, whether water conducts, how switches work inside appliances, and what happens when you add more cells or bulbs to a circuit.",
  "subconcepts": [
   "electricity makes light, sound, heat, cold and movement",
-  "appliances, and the wire and plug that mean mains electricity",
+  "appliances, and the wire to the wall that means mains electricity",
   "mains electricity comes from a power station along wires",
   "power stations make electricity from coal, falling water, wind and sunlight",
   "cells (batteries): small, safe stores of electricity",
@@ -107,7 +107,7 @@
      "kind": "talk",
      "title": "Wall or cell?",
      "mins": 8,
-     "do": "Go back over the chart. For each thing, ask: 'Does it have a wire and a plug, or does it have cells inside?' Your child puts a W next to the wall things and a C next to the cell things. Say: 'Things with a wire and a plug use mains electricity. It comes from the socket in the wall. Mains electricity is very strong. Only grown-ups plug in, unplug or move these things. Things with cells carry their own small store of electricity. That is why the torch worked in the power cut.' Ask: 'Which has a C and a W?' (A phone: it has a battery, and it charges from the wall.)"
+     "do": "Go back over the chart. For each thing, ask: 'Does it get electricity through a wire from the wall, or does it have cells inside?' Your child puts a W next to the wall things and a C next to the cell things. Say: 'Things with a wire to the wall use mains electricity. It comes from the socket in the wall. Mains electricity is very strong. Only grown-ups plug in, unplug or move these things. Things with cells carry their own small store of electricity. That is why the torch worked in the power cut.' Ask: 'Which has a C and a W?' (A phone: it has a battery, and it charges from the wall.)"
     },
     {
      "kind": "think",
@@ -155,7 +155,7 @@
      "kind": "act",
      "title": "Which cell goes where?",
      "mins": 9,
-     "do": "Do Activity a2. Collect the cells in your home on a tray, and the things they go in. Your child matches each cell to its thing. Then hold up a button cell (from a watch or a car key). Say: 'This small round cell is dangerous for babies. If a baby swallows one, it can burn the inside of the food pipe in about two hours. So we keep button cells high up and in a closed box. If a child swallows one, we go to a hospital at once.' Say: 'Never open, bite or burn any cell. Used cells go to an e-waste box, not the dustbin.'",
+     "do": "Do Activity a2. Collect the cells in your home on a tray, and the things they go in. Your child matches each cell to its thing. Then hold up a button cell (from a watch or a car key). Say: 'This small round cell is dangerous for babies. If a baby swallows one, it can burn the inside of the food pipe in as little as two hours. So we keep button cells high up and in a closed box. If a child swallows one, we go to a hospital at once.' Say: 'Never open, bite or burn any cell. Used cells go to an e-waste box, not the dustbin.'",
      "ref": "a2"
     },
     {
@@ -180,13 +180,13 @@
      "kind": "warmup",
      "title": "Strong and weak",
      "mins": 4,
-     "do": "Show an AA cell. Say: 'This cell gives a small push to electricity, called 1.5 volts. You cannot feel it, even if you touch both ends.' Point at a wall socket without touching it. Say: 'The socket gives 230 volts. That is about 150 times as strong.' Ask: 'Which one do you think can hurt a person?' (The socket.)"
+     "do": "Show an AA cell. Say: 'This cell gives electricity a small push. We measure the push in volts. This cell gives 1.5 volts. You cannot feel it, even if you touch both ends.' Point at a wall socket without touching it. Say: 'The socket gives 230 volts. That is about 150 times as strong.' Ask: 'Which one do you think can hurt a person?' (The socket.)"
     },
     {
      "kind": "talk",
      "title": "Your body can become a path",
      "mins": 8,
-     "do": "Ask: 'What do you think happens if a person touches a bare wire from the wall?' Listen to the answer. Then say: 'Electricity flows wherever it can find a path. Your body is mostly water with salt in it, and salty water lets electricity through. So mains electricity can flow into your hand, through your body and out through your feet into the floor. This is called an electric shock. It can burn you and stop your heart.' Ask: 'Why are wires covered in plastic?' (Plastic does not let electricity through, so it keeps the electricity inside the wire.) Ask: 'Why are wet hands more dangerous than dry hands?' (Dry skin slows electricity down a lot. Wet skin lets it through much more easily.)"
+     "do": "Ask: 'What do you think happens if a person touches a bare wire from the wall?' Listen to the answer. Then say: 'Electricity flows wherever it can find a path. Your body is mostly water with salt in it, and salty water lets electricity through. So mains electricity can flow into your hand, through your body and out through your feet into the floor. This is called an electric shock. It can burn you and stop your heart.' Ask: 'Why are wires covered in plastic?' (Plastic does not let electricity through, so it keeps the electricity inside the wire.) Ask: 'Why are wet hands more dangerous than dry hands?' (Dry skin lets only a little electricity through. Wet skin lets much more through.)"
     },
     {
      "kind": "act",
@@ -283,7 +283,7 @@
    "need": [
     "the circuit kit: a holder for two AA cells with two wires, two AA cells, a 2.5 V torch bulb in a bulb holder, and two more wires",
     "a long string or a dupatta tied in a loop",
-    "a steel spoon, a coin, a steel key, a strip of aluminium foil, a plastic ruler, a rubber eraser, a wooden ice-cream stick, a sheet of paper and a cotton handkerchief",
+    "a steel spoon, a coin, a metal key, a strip of aluminium foil, a plastic ruler, a rubber eraser, a wooden ice-cream stick, a sheet of paper and a cotton handkerchief",
     "two plates",
     "worksheet ws1"
    ]
@@ -322,7 +322,7 @@
    "need": [
     "the story",
     "the circuit kit: a holder for two AA cells with two wires, two AA cells, a 2.5 V torch bulb in a bulb holder, and two more wires",
-    "two drawing pins, a plain steel paper clip and a 10 cm square of thick cardboard",
+    "two metal drawing pins, a plain steel paper clip and a 10 cm square of thick cardboard",
     "a plastic straw"
    ]
   },
@@ -382,7 +382,7 @@
      "kind": "exp",
      "title": "The balloon and the paper bits",
      "mins": 11,
-     "do": "Do Experiment e3. First ask: 'Will a balloon pick up paper bits by itself? What if we rub it on your hair first?' Write down the guess. Your child tries both. Then switch off the lights and rub the balloon fast on a woollen sweater, holding it near a steel spoon. Listen and watch for tiny crackles. Say: 'Rubbing moves tiny bits of electricity, called charge, from your hair to the balloon. This is static electricity. It stays on the balloon until it can jump off as a spark.'",
+     "do": "Do Experiment e3. First ask: 'Will a balloon pick up paper bits by itself? What if we rub it on your hair first?' Write down the guess. Your child tries both. Then switch off the lights and rub the balloon fast on a woollen sweater, holding it near a steel spoon. Listen and watch for tiny crackles. Say: 'Rubbing moves a tiny amount of electric charge from your hair onto the balloon. This is static electricity. It stays on the balloon until it can jump off as a spark.'",
      "ref": "e3"
     },
     {
@@ -402,7 +402,7 @@
      "kind": "think",
      "title": "The electric eel's problem",
      "mins": 6,
-     "do": "Say: 'The electric eel lives in muddy rivers in South America. In muddy water it is hard to see, and the fish they hunt are quick.' Ask: 'If you lived in muddy water and wanted to catch a fish, what would help you?' Listen. Then say: 'Electric eels make weak electric pulses to feel where things are around them, even in the dark. When they find a fish, they give a strong shock of more than 600 volts. The fish cannot move for a moment, and the eel eats them.' Ask: 'Why does the eel not need sharp eyes?'"
+     "do": "Say: 'Electric eels live in muddy rivers in South America. In muddy water they cannot see far, and the fish they hunt are quick.' Ask: 'If you lived in muddy water and wanted to catch a fish, what would help you?' Listen. Then say: 'Electric eels make weak electric pulses to feel where things are around them, even in the dark. When they find a fish, they give a strong shock of more than 600 volts. The fish cannot move for a moment, and the eel eats them.' Ask: 'Why does the eel not need sharp eyes?'"
     }
    ],
    "need": [
@@ -477,7 +477,7 @@
         "watch"
        ],
        "cats": [
-        "mains (wire and plug)",
+        "mains (wire to the wall)",
         "cells"
        ]
       },
@@ -553,7 +553,7 @@
      [
       {
        "t": "mcq",
-       "p": "Divya joins one wire from the cells to the bulb. The bulb does not light. Why?",
+       "p": "Divya builds a circuit. She joins only one wire from the cells to the bulb. The bulb does not light. Why?",
        "opts": [
         "There is no path back to the cells",
         "The cells are too big",
@@ -787,7 +787,7 @@
        "t": "write",
        "p": "Pick a side. Swati's school is choosing what to teach Class 2 about electricity. A teacher says: 'Children this young should only learn the safety rules. Building circuits is for older children.' A parent who is an electrician says: 'Children who build a safe circuit with cells understand why the rules matter. Then they remember them.' Which side do you agree with? Use something you did this week as your reason. Then answer back from the other side.",
        "lines": 4,
-       "a": "A strong answer picks a side, uses evidence from the week (for example: 'I saw the bulb go out when there was a gap, so I know why a crow on one wire is safe'), and gives the other side fairly, such as 'small children might try with a socket instead of cells'."
+       "a": "A strong answer picks a side, uses evidence from the week (for example: 'I saw that electricity flows only round a complete path, so I know why my body must never become the path'), and gives the other side fairly, such as 'small children might try with a socket instead of cells'."
       },
       {
        "t": "write",
@@ -835,11 +835,11 @@
    "question": "Which things let electricity through, and which do not?",
    "need": [
     "the circuit kit: a holder for two AA cells with two wires, two AA cells, a 2.5 V torch bulb in a bulb holder, and two more wires",
-    "a steel spoon, a coin, a steel key, a strip of aluminium foil, a plastic ruler, a rubber eraser, a wooden ice-cream stick, a sheet of paper and a cotton handkerchief",
+    "a steel spoon, a coin, a metal key, a strip of aluminium foil, a plastic ruler, a rubber eraser, a wooden ice-cream stick, a sheet of paper and a cotton handkerchief",
     "two plates labelled 'lights' and 'does not light'"
    ],
    "steps": [
-    "Make the circuit from e1. Then unclip one wire from the bulb holder so there is a gap with two free wire ends.",
+    "Make the circuit from e1. Then unclip one wire from the bulb holder. Join a spare wire to that side of the bulb holder. Now there are two free wire ends with a gap between them.",
     "Touch the two free ends together. The bulb lights. This checks the circuit works.",
     "Your child picks up the first thing and guesses whether the bulb will light.",
     "Press both free wire ends onto the thing, a little apart. Watch the bulb.",
@@ -847,7 +847,7 @@
     "Test every thing the same way."
    ],
    "predict": "For each thing, ask: 'Will the bulb light with this in the gap? Why do you think so?'",
-   "observe": "The spoon, coin, key and foil light the bulb. The ruler, eraser, wooden stick, paper and handkerchief do not.",
+   "observe": "The spoon, coin, key and foil light the bulb. If a metal thing does not light it, rub off any paint or dirt and press the wire ends harder. The ruler, eraser, wooden stick, paper and handkerchief do not.",
    "why": "Metals let electricity flow through them easily. They are called conductors. Plastic, rubber, wood, paper and cloth do not let electricity through. They are called insulators. This is why wires have copper inside, to carry the electricity, and plastic outside, to keep it in.",
    "safety": "Use only the AA cells. Never test anything with a wall socket. A grown-up stays close.",
    "time": "14 min"
@@ -872,8 +872,8 @@
     "Switch off the lights. Rub the balloon hard on the woollen sweater, then bring it close to the steel spoon. Listen and watch for a tiny crackle or spark."
    ],
    "predict": "Ask your child to guess first: 'Will the balloon pick up the paper bits before we rub it? After we rub it?'",
-   "observe": "Before rubbing, nothing happens. After rubbing, the paper bits jump up and stick to the balloon, and hair lifts towards it. In the dark you may hear a small crackle near the spoon. On a damp, rainy day it may hardly work. Then try in a room with a fan or air conditioner running, or on a dry morning.",
-   "why": "Everything is made of tiny particles that carry electric charge. Rubbing moves some charge from the hair onto the balloon. The charge stays on the balloon, so it is called static electricity, which means electricity that stays still. The charged balloon attracts the paper bits. When the charge jumps to the spoon, it makes a tiny spark. Damp air lets the charge leak away, so it works best on dry days. Lightning is the same kind of spark, millions of times bigger.",
+   "observe": "Before rubbing, nothing happens. After rubbing, the paper bits jump up and stick to the balloon, and hair lifts towards it. In the dark you may hear a small crackle near the spoon. On a damp, rainy day it may hardly work. Then try in an air-conditioned room, or on a drier day.",
+   "why": "Everything is made of tiny particles, and some of them carry electric charge. Rubbing moves some charge from the hair onto the balloon. The charge stays on the balloon, so it is called static electricity, which means electricity that stays still. The charged balloon attracts the paper bits. When the charge jumps to the spoon, it makes a tiny spark. Damp air lets the charge leak away, so it works best on dry days. Lightning is the same kind of spark, millions of times bigger.",
    "safety": "Keep balloon pieces away from small children, as they can choke on them. Do not do this near a TV, laptop or phone.",
    "time": "11 min"
   }
@@ -977,7 +977,7 @@
    "mins": 15,
    "need": [
     "the circuit kit: a holder for two AA cells with two wires, two AA cells, a 2.5 V torch bulb in a bulb holder, and two more wires",
-    "two drawing pins",
+    "two metal drawing pins",
     "a plain steel paper clip (not plastic-coated)",
     "a piece of thick cardboard about 10 cm square"
    ],
@@ -1040,7 +1040,7 @@
    "You tell a grown-up about a cracked wire. Move ahead 2.",
    "Question: what does a switch do? (It opens and closes a gap in the circuit.)",
    "Thunder! Run inside a building. Move ahead 1.",
-   "You stand under a lonely tree in a storm. Go back 3.",
+   "You stand under a tree standing alone in a storm. Go back 3.",
    "Question: what makes a rubbed balloon pick up paper bits? (Static electricity.)",
    "You put the button cell in a closed box, high up. Move ahead 1.",
    "Question: what carries signals from your brain to your fingers? (Your nerves.)",
@@ -1064,7 +1064,7 @@
   },
   {
    "q": "People say lightning never strikes the same place twice. Is that true?",
-   "hint": "No. Lightning often strikes tall things, and it can strike the same tall building many times in one year. The Empire State Building in New York is struck about 20 times a year. Ask: why might tall things get struck more often? What does that tell you about standing under a tall, lonely tree?"
+   "hint": "No. Lightning often strikes tall things, and it can strike the same tall building many times in one year. The Empire State Building in New York is struck about 20 times a year. Ask: why might tall things get struck more often? What does that tell you about standing under a tall tree that stands alone?"
   },
   {
    "q": "Many books say Thomas Edison invented the light bulb. Is that the whole story?",
@@ -1082,7 +1082,7 @@
   },
   {
    "who": "a crow on the wire outside your window",
-   "view": "To them, a power line is just a good perch: high up, safe from cats, with a wide view of the street. They know to sit on one wire only. The wires were put there by people, for people. What would the crow say about all the wires across her sky?"
+   "view": "To them, a power line is just a good perch: high up, safe from cats, with a wide view of the street. They know to sit on one wire only. The wires were put there by people, for people. What would the crow say about all the wires across their sky?"
   },
   {
    "who": "a family living next to a coal power station",
@@ -1094,7 +1094,7 @@
    "id": "v1",
    "who": "Michael Faraday (1791–1867), England, scientist",
    "idea": "Faraday was the son of a blacksmith and left school at about 13. He worked for a bookbinder and read the science books he was binding. He went to public science lectures by Humphry Davy, wrote them up neatly and sent them to Davy, asking for a job. He became Davy's assistant. In 1821 he made a wire spin round a magnet using electricity, the first simple electric motor. In 1831 he found that moving a magnet near a coil of wire makes electricity flow in the wire.",
-   "then": "Some people looked down on him because he was poor and had little schooling, and he knew little mathematics. Others, like Davy at first, saw how good he was at experiments.",
+   "then": "Some people looked down on him because he was poor and had little schooling. He also knew little mathematics. Others, like Davy at first, saw how good he was at experiments.",
    "now": "His findings are accepted and used everywhere. Every power station that spins magnets inside coils of wire, and every electric motor in a fan or a mixie, works on what he found.",
    "status": "accepted",
    "ask": "Faraday did not have much schooling. What helped him become a great scientist?",
@@ -1162,7 +1162,7 @@
   },
   {
    "q": "Why can mains electricity hurt you, when an AA cell cannot?",
-   "a": "Mains electricity is about 150 times as strong. It can flow through your body into the floor, which is an electric shock. An AA cell gives too small a push to flow through you."
+   "a": "Mains electricity is about 150 times as strong. It can flow through your body into the floor, which is an electric shock. An AA cell gives too small a push to send enough electricity through you to hurt."
   },
   {
    "q": "Say three safety rules and the reason for each one.",
@@ -1238,6 +1238,6 @@
  "unknowns": [
   "What exactly starts a flash of lightning inside a cloud? Scientists can measure the electricity in storm clouds, but they still argue about how the first spark begins.",
   "When you rub a balloon on your hair, why does the charge move from the hair to the balloon and not the other way? Scientists know which materials usually win, but they still do not fully understand why rubbing moves charge.",
-  "How did fish like the electric eel first come to make electricity? Scientists know their electric organs grew from muscle cells, and that this happened several times in different fish, but not every step of how."
+  "How did fish like the electric eel first come to make electricity? Scientists know that most electric organs grew from muscle cells, and that this happened several times in different fish, but not every step of how."
  ]
 }

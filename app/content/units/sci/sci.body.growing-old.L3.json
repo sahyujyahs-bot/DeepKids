@@ -1189,15 +1189,15 @@
     },
     {
      "t": "mcq",
-     "p": "Grandma's outer skin was made in the last few weeks. The middle of her eye lens was made before she was born. What does this show?",
+     "p": "Two twin sisters are 60 years old. They have the same genes. One sister worked outdoors in the hot sun all her life without a hat. The other worked indoors. Whose face most likely has more wrinkles, and why?",
      "opts": [
-      "One body has parts of many different ages",
-      "Skin is never replaced",
-      "The eye lens is replaced every week",
-      "Grandma's body is all new"
+      "The sister who worked in the sun, because sunlight slowly breaks down the springy threads in skin",
+      "The indoor sister, because skin needs sun to stay smooth",
+      "Both exactly the same, because twins have the same genes",
+      "Neither, because wrinkles come only from smiling"
      ],
      "a": 0,
-     "why": "Skin is replaced again and again, but the lens keeps its oldest cells all life. So one body holds parts that are a few weeks old and parts older than the person's birthday."
+     "why": "The twins have the same genes, so the difference must come from how they lived. Strong sunlight damages collagen and elastin, the springy threads you tested in the snap-back skin test. So a hat and shade help skin age more slowly. Picking 'same genes' forgets that genes are not the whole story."
     },
     {
      "t": "fill",
@@ -1411,15 +1411,15 @@
     },
     {
      "t": "mcq",
-     "p": "Here are made-up near point results: 8 cm at age 8, 10 cm at 20, 25 cm at 45, 60 cm at 65. Meera, a girl in Class 4, says, 'So the lens only starts to stiffen at 45.' What is wrong with her idea?",
+     "p": "Astronauts who spend six months floating in space come back with weaker bones, a little like older people's bones. In space, their legs carry no weight. What does this suggest?",
      "opts": [
-      "The distance already grew from 8 to 10 cm by age 20. The lens stiffens all life, slowly at first.",
-      "Nothing. The lens is soft until 45.",
-      "The lens gets softer after 45",
-      "The numbers show nothing about the lens"
+      "Bones stay strong when they carry weight and are used, so walking and exercise help bones at any age",
+      "Space air is bad for bones",
+      "Astronauts get old very fast",
+      "Only age can make bones weaker"
      ],
      "a": 0,
-     "why": "The near point moves out a little every year. The change is small at first, so people notice it only in their forties, when small print starts to blur at a normal reading distance."
+     "why": "Bones are living and are rebuilt all the time. When they carry weight, the body keeps them strong. With no weight to carry, the body takes some of their hard minerals away. So weak bones in old age are partly about less use, and walking, skipping and lifting help."
     },
     {
      "t": "mcq",

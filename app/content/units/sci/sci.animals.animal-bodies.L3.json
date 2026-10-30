@@ -1172,14 +1172,14 @@
     },
     {
      "t": "mcq",
-     "p": "Why do mammals like dolphins and whales store extra oxygen in their blood and muscles?",
+     "p": "When you hold your breath, the need to breathe grows stronger and stronger. What mostly causes that strong need?",
      "opts": [
-      "So they can stay underwater longer while hunting",
-      "To make them float",
-      "To keep their skin wet"
+      "Carbon dioxide building up in your blood",
+      "Your lungs running completely out of oxygen",
+      "Your nose getting dry"
      ],
      "a": 0,
-     "why": "Diving animals can't breathe underwater. Extra stored oxygen lets them hunt for longer before coming up. Some deep-diving whales stay down for over an hour."
+     "why": "Your body watches carbon dioxide most closely. Long before your blood runs low on oxygen, rising carbon dioxide makes you want to breathe. Picking 'out of oxygen' is a natural guess, but your blood still holds plenty of oxygen when the need begins."
     },
     {
      "t": "truefalse",
@@ -1197,10 +1197,10 @@
    "items": [
     {
      "t": "write",
-     "p": "Lungs, gills and frog skin look very different. Write three things they all have in common.",
+     "p": "A plastic bag is very thin, but dry. A thick wet towel is damp, but not thin. Would either make a good breathing part for an animal? Explain, using what lungs, gills and frog skin all have in common.",
      "lines": 4,
-     "a": "They are thin. They are damp. They have lots of surface, and blood flows just underneath.",
-     "why": "All breathing surfaces work the same way: oxygen passes through a thin, wet wall into blood."
+     "a": "Neither would work well. A breathing part must be thin, damp, have lots of surface and have blood flowing just underneath. The plastic bag is dry and has no blood, and the towel is too thick for oxygen to pass through quickly.",
+     "why": "Oxygen must dissolve in a wet layer and then pass through a very thin wall into blood. A strong answer names all the shared features and shows which one each object is missing."
     },
     {
      "t": "mcq",
@@ -1215,9 +1215,9 @@
     },
     {
      "t": "truefalse",
-     "p": "The oxygen you breathe was put into the air by plants and tiny sea algae.",
+     "p": "Gram for gram, a mouse uses more oxygen than an elephant.",
      "a": true,
-     "why": "True. Plants and algae make oxygen when they make food from sunlight. Scientists think about half of the oxygen made each year comes from tiny algae in the sea."
+     "why": "True. A small body loses heat fast, so a mouse burns food quickly to stay warm. Each gram of mouse uses many times more oxygen than each gram of elephant. That is why a mouse breathes so fast."
     },
     {
      "t": "perspective",
@@ -1360,12 +1360,12 @@
      "p": "Match each animal's problem to the body part or trick that solves it.",
      "pairs": [
       [
-       "climbing perch, in warm water with little oxygen",
-       "a labyrinth organ to breathe gulped air"
+       "mudskipper, a fish who spends hours out on the mud",
+       "water kept inside big gill chambers, and damp skin that takes in oxygen"
       ],
       [
-       "Cuvier's beaked whale, with no air for hours",
-       "oxygen stored in blood and muscles"
+       "diving bell spider, who lives under water",
+       "a bubble of air held under water, like a tiny tent"
       ],
       [
        "earthworm, living in soil",

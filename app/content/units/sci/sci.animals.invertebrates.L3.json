@@ -960,9 +960,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Most kinds of animal in the world have no backbone.",
-     "a": true,
-     "why": "True. About 95 out of every 100 named kinds of animal are invertebrates. Insects alone are about one million kinds."
+     "p": "An animal with no backbone has no skeleton of any kind.",
+     "a": "False",
+     "why": "False, though many people think so. A crab and an ant wear a skeleton on the outside, as armour. A snail makes a shell. An earthworm uses liquid held tight by muscles, a water skeleton. Only a few, like the jellyfish, lean on the sea instead."
     },
     {
      "t": "mcq",
@@ -1126,7 +1126,7 @@
       "Other snails build it"
      ],
      "a": 1,
-     "why": "A snail's mantle, a thin layer of their body, makes the shell from calcium carbonate and adds it to the open edge as the snail grows. Picking 'finds an empty one' mixes it up with hermit crabs, which really do borrow shells."
+     "why": "A snail's mantle, a thin layer of their body, makes the shell from calcium carbonate and adds it to the open edge as the snail grows. Picking 'finds an empty one' mixes it up with hermit crabs, who really do borrow shells."
     },
     {
      "t": "match",
@@ -1164,7 +1164,7 @@
      "t": "truefalse",
      "p": "If you cut an earthworm in two, you always get two worms.",
      "a": false,
-     "why": "False. An earthworm cut in two usually dies. Sometimes the front part can grow a new tail. The back part cannot grow a new head."
+     "why": "False. An earthworm cut in two usually dies. Sometimes the front part can grow a new tail. The back part usually cannot grow a new head."
     },
     {
      "t": "mcq",
@@ -1286,9 +1286,9 @@
     },
     {
      "t": "truefalse",
-     "p": "A hermit crab makes their own shell, like a snail does.",
-     "a": false,
-     "why": "False. A hermit crab has a soft back end, so they move into an empty snail shell. When they grow too big, they look for a bigger one. A snail is different. Their body makes the shell and adds to it as they grow."
+     "p": "A butterfly with small wings will grow into a butterfly with big wings.",
+     "a": "False",
+     "why": "False. A butterfly, like other insects, grows only by moulting, because their armour cannot stretch. Once an insect has grown-up wings, they stop moulting, so they stop growing. A small butterfly is simply a small butterfly. All the growing happened when they were a caterpillar."
     }
    ],
    "context": "This worksheet goes further: molluscs, arthropods, starfish and jellyfish, and what our experiments showed."
@@ -1315,7 +1315,7 @@
      "t": "write",
      "p": "Some people say 'invertebrate' is not a real group of animals. What do they mean? Use an example.",
      "lines": 4,
-     "a": "They mean that 'invertebrate' just means 'not a vertebrate'. It is like sorting people into 'my family' and 'everyone else'. For example, a starfish is a closer cousin of ours than of a snail, but both are called invertebrates.",
+     "a": "They mean that 'invertebrate' just means 'not a vertebrate'. It is like sorting people into 'my family' and 'everyone else'. For example, a starfish is a closer cousin to us than to a snail, yet both the starfish and the snail are called invertebrates.",
      "why": "A real group of animals shares one ancestor that no outsider shares. Invertebrates include many separate branches."
     },
     {
@@ -1384,7 +1384,7 @@
     },
     {
      "t": "perspective",
-     "p": "Some fishermen drop live crabs into boiling water to cook them. People disagree about whether this hurts the crab.",
+     "p": "Many cooks drop live crabs into boiling water. People disagree about whether this hurts the crab, and what to do about it.",
      "views": [
       {
        "who": "Scientists who study crabs and octopuses",
@@ -1395,8 +1395,8 @@
        "says": "All of this might be reflexes and simple learning. We cannot yet measure a feeling from the outside. We should wait for better tests."
       },
       {
-       "who": "A cook in Kochi",
-       "says": "People have cooked crabs this way for a very long time. It is quick."
+       "who": "Sarala, a cook in Kochi",
+       "says": "Crabs feed many families here, and boiling is quick. A small kitchen has no special machine to stun crabs first. If nobody is sure crabs feel pain, why make cooking harder and costlier?"
       }
      ],
      "ask": "Which view do you agree with most, and why? Then answer back from one of the other sides.",

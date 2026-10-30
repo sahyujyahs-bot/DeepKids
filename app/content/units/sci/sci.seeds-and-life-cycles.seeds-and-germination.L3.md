@@ -101,7 +101,7 @@ Most seeds drown under water. Rice comes from wet, flooded places, and their see
 A dry, cool seed can stay alive for a long time, but nobody knows the longest. In 1879, a scientist in the United States, William James Beal, buried bottles of seeds in sand. Every 20 years or so, someone digs one up and plants the seeds. In 2021, more than 140 years later, some seeds still sprouted. Sacred lotus seeds about 1,300 years old have sprouted in China. In 2005, Elaine Solowey grew a date palm in Israel from a seed about 2,000 years old. The seed came from the ruins of an ancient fort called Masada. She worked with a doctor, Sarah Sallon, and the tree was named Methuselah. Most seeds do not last nearly this long. Scientists are still finding out what lets some seeds wait for centuries.
 - e.g. Moong from the kitchen usually sprouts well for a year or two, then fewer seeds sprout each year.
 - e.g. Seeds last much longer when they are kept dry and cold. That is why seed banks keep them in freezers.
-- **Most seed scientists:** Old seeds slowly get damaged inside, a little more each year. Dry and cold slow this down. Every kind of seed has its own limit.
+- **Most seed scientists:** Old seeds slowly get damaged inside, a little more each year. Dry and cold slow this down. Every kind of seed has their own limit.
 - **Some scientists:** A few seeds may be far better at repairing themselves than we know. The real limit could be thousands of years. Nobody has had time to test it.
 ### Is a dry seed alive? · *debated*
 A dry seed does not grow, move or seem to eat. They breathe so slowly that it is very hard to measure. Yet add water, and they wake up. So is a dry seed alive the whole time, or do they come back to life? Scientists and thinkers answer this in different ways. The question matters, because it tests what we mean by 'alive'.
@@ -602,86 +602,83 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
 
 ## Worksheets
 ### Seed Detective (core) (core, 16 questions)
-1. (mcq) What are the three main parts of a seed?  
-   Options: Seed coat, baby plant and food store / Root, stem and flower / Skin, juice and stone / Leaf, fruit and bark  
-   **Answer:** Seed coat, baby plant and food store. *Why:* Every seed has a coat outside, a tiny baby plant inside, and a store of food for them. Picking 'root, stem and flower' mixes up a seed with a grown plant. Those parts grow later.
+1. (draw) Draw a seed opened in half. Label the seed coat, the baby plant and the food store.  
+   **Answer:** A bean shape split open, with the coat peeling off, two large halves labelled 'food store' and a tiny plant at one edge labelled 'baby plant'.. *Why:* Every seed has these three parts.
 2. (fill) The tough outer skin of a seed is called the seed ____.  
    **Answer:** ['coat']. *Why:* The seed coat protects the baby plant and keeps them dry until it is time to grow.
 3. (mcq) You split a soaked bean in two. What is the tiny thing at one edge, with a little root and two small leaves?  
    Options: The baby plant / A worm / The food store / A bit of the coat  
    **Answer:** The baby plant. *Why:* That is the baby plant, which scientists call the embryo. They were already inside before you soaked the seed. Picking 'food store' is close, but the food store is the two big halves around them.
-4. (mcq) What do most seeds need to sprout?  
-   Options: Water, warmth and air / Sunlight, soil and water / Only water / Soil and fertiliser  
-   **Answer:** Water, warmth and air. *Why:* Water wakes the seed, warmth makes the changes inside them go faster, and air lets them breathe. Picking 'sunlight and soil' is the most common mistake. A seed has their own food, so they do not need them to start.
-5. (mcq) In the five-cup test, you put 10 moong seeds in each of 5 cups: dry, damp, damp in the fridge, under water with oil on top, and damp in the light. In which cup did the most seeds sprout?  
+4. (mcq) In the five-cup test, you put 10 moong seeds in each of 5 cups: dry, damp, damp in the fridge, under water with oil on top, and damp in the light. In which cup did the most seeds sprout?  
    Options: Dry / Damp and warm / In the fridge / Under water with oil  
    **Answer:** Damp and warm. *Why:* The damp, warm cup had water, warmth and air together. Picking 'under water' usually means thinking more water is always better. Those seeds could not get enough air.
-6. (truefalse) Moong seeds can sprout in a dark cupboard.  
-   **Answer:** True. *Why:* True. A seed carries their own food, so they do not need light to sprout. In the five-cup test, the cup in the dark did as well as the cup in the light.
-7. (truefalse) Seeds need soil before they can sprout.  
+5. (write) Many people think seeds need sunlight to sprout, because plants need light. Use the five-cup test to say whether this is right.  
+   **Answer:** It is not right for moong. The damp cup in the dark sprouted just as well as the damp cup in the light. A seed carries their own food, so they do not need light to start. The seedling needs light later, once the food runs out.. *Why:* A strong answer uses the two damp cups as evidence: they were the same except for light, and both sprouted.
+6. (truefalse) Seeds need soil before they can sprout.  
    **Answer:** False. *Why:* False. Seeds sprout on wet cotton, cloth or paper. Soil helps later, by holding water and the plant's roots.
-8. (mcq) Which part comes out of a sprouting seed first?  
+7. (mcq) Which part comes out of a sprouting seed first?  
    Options: The root / The leaves / The flower / The fruit  
    **Answer:** The root. *Why:* The root comes out first, so the seedling can hold on and drink. Picking 'leaves' is common, because leaves are what we see first above the soil.
-9. (fill) A seed waking up and starting to grow is called ____.  
+8. (fill) A seed waking up and starting to grow is called ____.  
    **Answer:** ['germination', 'sprouting']. *Why:* Germination is the scientists' word for a seed sprouting.
-10. (sort) Sort these. Could they still sprout, or not?  
+9. (sort) Sort these. Could they still sprout, or not?  
    **Answer:** whole moong → Could sprout; split moong dal → Could not sprout; raw peanut → Could sprout; roasted peanut → Could not sprout; rajma → Could sprout; popped popcorn → Could not sprout. *Why:* A seed can sprout only if their baby plant is whole and alive. Splitting the dal loses the baby plant. Roasting and popping kill them.
-11. (mcq) A seed is put in a cup full of water, right up to the top. What usually happens?  
-   Options: They sprout best, because they have the most water / They do badly, because they cannot get enough air / They turn into a plant overnight  
-   **Answer:** They do badly, because they cannot get enough air. *Why:* Seeds need air to breathe. Under water there is very little air, so most seeds do badly or rot. Picking 'sprouts best' means thinking more water is always better. Rice is an exception.
-12. (mcq) Why does a bean seed have two fat halves full of food?  
+10. (perspective) In the story, a rat keeps chewing the bundle of sprouting moong. Noor, her mother and her brother each have a plan.  
+   **Answer:** A strong answer uses what seeds need: water, warmth and air. Noor's first plan keeps the rat out, but the seeds under water cannot breathe, so they go sour. Ammi's cloth gives the most air, but a rat can reach it. Faiz's tin keeps the rat out and lets some air in, if the seeds are drained first. A strong answer gives each plan its due.. *Why:* There is a real trade-off between keeping a rat out and letting air in. In the story, Noor solved both by hanging a strainer above the bundle, like an umbrella.
+11. (mcq) Why does a bean seed have two fat halves full of food?  
    Options: To feed the baby plant until their leaves can make food / To make the seed heavy so they don't blow away / So animals can eat them  
    **Answer:** To feed the baby plant until their leaves can make food. *Why:* The food store feeds the baby plant while they are still underground, with no light. Animals do eat seeds, but that is not why the seed has food. The food is for the baby plant.
-13. (write) Your friend says, 'Dry seeds in a jar are dead.' What would you tell them? Give one piece of evidence.  
-   **Answer:** Dry seeds are alive, but asleep. My evidence: when we soaked moong from a jar, most of them sprouted in two days. Boiled seeds never sprout, so the jar seeds must have been alive.. *Why:* A good answer says the seeds are alive but resting, and gives evidence, such as the seeds sprouting once they got water.
-14. (order) Put these in order, from first to last, as a bean sprouts.  
+12. (write) Think of your own five-cup test. Which cup surprised you most? Say what you guessed, what you saw, and what it shows.  
+   **Answer:** Any honest answer with all three parts. For example: I guessed the cup under water would sprout best, because it had the most water. But hardly any seeds sprouted there. This shows that seeds need air as well as water.. *Why:* A strong answer compares the guess with the result, and says what a seed needs.
+13. (order) Put these in order, from first to last, as a bean sprouts.  
    **Answer:** order shown. *Why:* First the seed drinks and swells, which splits the coat. The root comes first, then the shoot. Leaves open last, once the shoot reaches the light.
-15. (draw) Draw a seed opened in half. Label the seed coat, the baby plant and the food store.  
-   **Answer:** A bean shape split open, with the coat peeling off, two large halves labelled 'food store' and a tiny plant at one edge labelled 'baby plant'.. *Why:* Every seed has these three parts.
-16. (mcq) Why do we put 10 seeds in each cup, not just 1?  
+14. (mcq) Why do we put 10 seeds in each cup, not just 1?  
    Options: Because one seed might be dead, and 10 give a fairer answer / Because seeds get lonely / Because 10 is a lucky number  
    **Answer:** Because one seed might be dead, and 10 give a fairer answer. *Why:* Some seeds don't sprout even when everything is right. If we used only one, a single dead seed could fool us. With 10, one dead seed matters much less.
-### How Seeds Wake Up (stretch) (stretch, 15 questions)
-1. (mcq) A heap of sprouting moong in a cloth gets warm. Why?  
-   Options: The seeds are breathing, and breathing makes a little heat / The cloth is made of wool / The water is hot / The seeds are rotting  
-   **Answer:** The seeds are breathing, and breathing makes a little heat. *Why:* Sprouting seeds use oxygen to get energy from their food, and some energy comes out as heat. Picking 'rotting' is a good guess, because rotting things do warm up. But healthy sprouts warm up too, and boiled seeds do not.
-2. (mcq) In the warm flask test, why did we use boiled seeds in the second flask?  
+15. (write) Kavya sows a moong seed in a pot of dry soil on a sunny windowsill. She never waters the pot. Will the seed sprout? Explain.  
+   **Answer:** No. The seed has warmth and air, and sunlight, but no water. Water is what wakes a seed up. Sunlight does not help a seed start, because the seed has their own food.. *Why:* A strong answer names the missing need, water, and says that the sun does not make up for it.
+16. (truefalse) A seed that swells up in water must be alive.  
+   **Answer:** False. *Why:* False. A boiled seed swells up in water too, like a sponge, but never sprouts. Swelling is only the seed soaking up water. Sprouting a root shows that a seed is alive.
+### How Seeds Wake Up (stretch) (stretch, 16 questions)
+1. (mcq) In the warm flask test, why did we use boiled seeds in the second flask?  
    Options: So the only difference between the flasks was whether the seeds were alive / To cook them for dinner / Because boiled seeds sprout faster  
    **Answer:** So the only difference between the flasks was whether the seeds were alive. *Why:* A fair test changes only one thing. Both flasks had the same wet seeds, but only one lot was alive. So any difference in warmth must come from being alive. Picking 'sprout faster' is wrong. Boiled seeds never sprout.
-3. (fill) The gas in the air that sprouting seeds need to breathe is called ____.  
+2. (fill) The gas in the air that sprouting seeds need to breathe is called ____.  
    **Answer:** ['oxygen']. *Why:* Seeds, like us, use oxygen from the air to get energy from food.
-4. (mcq) In the swelling test, 50 grams of dry chana weighed about 100 grams after soaking. How many times heavier were they?  
+3. (mcq) In the swelling test, 50 grams of dry chana weighed about 100 grams after soaking. How many times heavier were they?  
    Options: 2 times / 50 times / 100 times / They weighed the same  
    **Answer:** 2 times. *Why:* 100 is 2 lots of 50. So the soaked chana was 2 times as heavy. The extra 50 grams is water inside the seeds.
-5. (truefalse) A jar packed with dry chana and water can push its lid off overnight.  
+4. (truefalse) A jar packed with dry chana and water can push its lid off overnight.  
    **Answer:** True. *Why:* True. Swelling seeds push very hard as they soak up water. That is why we use a plastic cup, never glass.
-6. (mcq) Your seeds on damp cotton in the fridge hardly sprouted. Then you moved them to the kitchen shelf. What will most likely happen?  
-   Options: They will start to sprout, because cold only made them wait / Nothing, because the cold killed them / They will turn into ice  
-   **Answer:** They will start to sprout, because cold only made them wait. *Why:* Cold slows the changes inside a seed, but usually does not kill them. Once they are warm, they wake up. Picking 'the cold killed them' is a common guess. Try it and see.
-7. (match) Match each cup in the five-cup test to what it was missing.  
+5. (truefalse) Moong seeds that hardly sprouted in the fridge are dead.  
+   **Answer:** False. *Why:* False. Cold slows the changes inside a seed, but usually does not kill them. Move the fridge cup to a warm kitchen shelf, and most of the seeds sprout within a day or two.
+6. (match) Match each cup in the five-cup test to what it was missing.  
    **Answer:** Dry cup → water; Fridge cup → warmth; Under water with oil → air; Damp cup in the light → nothing missing, it had extra light. *Why:* Each cup was different from the damp, warm cup in just one way. That way we can tell what each thing does.
-8. (mcq) A root always grows down, even if the seed is upside down. How does the root know which way is down?  
+7. (mcq) A root always grows down, even if the seed is upside down. How does the root know which way is down?  
    Options: Its tip feels gravity, using tiny heavy grains that settle at the bottom of its cells / It can see the ground / It follows the smell of soil / It doesn't know, it just grows any way  
    **Answer:** Its tip feels gravity, using tiny heavy grains that settle at the bottom of its cells. *Why:* Cells in the root tip hold tiny heavy grains of starch. They sink to the bottom, like sand in a bottle, so the root can tell which way is down. Picking 'see' is not right. A root has no eyes, and it turns down even in a dark jar.
-9. (mcq) Why do sprouts taste a little sweet?  
+8. (mcq) Why do sprouts taste a little sweet?  
    Options: The seed has turned some of their starch into sugar / Someone added sugar / The water was sweet  
    **Answer:** The seed has turned some of their starch into sugar. *Why:* As a seed sprouts, enzymes, helpers made by their cells, cut starch into sugar the baby plant can use. That's why ragi malt is made from sprouted ragi.
-10. (mcq) Rice seeds are unusual. What can they do that most seeds can't?  
+9. (mcq) Rice seeds are unusual. What can they do that most seeds can't?  
    Options: Start to sprout under water, sending a shoot up like a snorkel / Sprout without any water / Sprout in a freezer  
    **Answer:** Start to sprout under water, sending a shoot up like a snorkel. *Why:* Rice comes from wet places. Under water, their first shoot grows up to the air like a snorkel, so air can reach the rest of the seedling. Most seeds would drown.
-11. (write) Noor's mother hung her moong in a loose cloth bundle, not in a closed tin. Why is that better for sprouting? Use the word air in your answer.  
-   **Answer:** In a loose cloth, air can reach every seed, so the seeds can breathe. In a closed tin full of water, they get very little air and go sour.. *Why:* A good answer says that seeds need air to breathe, and a loose cloth lets air in.
-12. (mcq) A big rajma bean and a tiny banyan seed. Which grows into the bigger plant?  
-   Options: The banyan seed, which grows into a giant tree / The rajma, because their seed is bigger / They grow the same size  
-   **Answer:** The banyan seed, which grows into a giant tree. *Why:* The size of a seed does not tell you the size of the plant. A tiny banyan seed can become a huge tree. The plant builds themselves mostly from air and water, using sunlight, over many years.
-13. (draw) Draw the seed window jar after 5 days. Show 3 seeds that started in different ways, with their roots and shoots.  
+10. (write) Arif feels his bundle of sprouting moong getting warm. He says, 'They must be rotting.' How could you test whether he is right?  
+   **Answer:** Set up two heaps the same way: one of live sprouting moong and one of boiled moong. Put a thermometer in each. For the first day, the live heap gets warm and the boiled heap stays cool. The live sprouts also smell fresh and grow tails. So the warmth comes from seeds breathing, not from rotting.. *Why:* A strong answer plans a fair test with boiled seeds, so the only difference is whether the seeds are alive.
+11. (mcq) Hema sows one moong seed 1 cm deep in a tall bucket of soil, and another 30 cm deep. Which one is more likely to reach the light?  
+   Options: The shallow seed, because the deep seed's food store may run out before their shoot reaches the light / The deep seed, because they have more soil around them / Both the same  
+   **Answer:** The shallow seed, because the deep seed's food store may run out before their shoot reaches the light. *Why:* Underground there is no light, so the seedling lives only on the food in their seed. A moong seed has only a little food. From 30 cm down, the shoot may use it all up before reaching the light. Picking 'more soil' is a common guess, but a seed does not need soil to start.
+12. (draw) Draw the seed window jar after 5 days. Show 3 seeds that started in different ways, with their roots and shoots.  
    **Answer:** Three seeds, each with a root curving down and a shoot curving up, whichever way the seed was placed.. *Why:* Roots grow towards gravity and shoots grow away from it.
-14. (write) Plan a fair test to find out if methi seeds need warmth to sprout. What will you change? What will you keep the same?  
+13. (write) Plan a fair test to find out if methi seeds need warmth to sprout. What will you change? What will you keep the same?  
    **Answer:** I will change only the warmth: one cup in the fridge and one on the kitchen shelf. I will keep the same: the number of methi seeds, the same cotton, the same amount of water, and both cups dark.. *Why:* A good fair test changes just one thing and keeps everything else the same. Keeping both cups dark matters, because the fridge is dark.
-15. (truefalse) Old seeds from Beal's bottles, buried in 1879, still sprouted in 2021.  
+14. (truefalse) Old seeds from Beal's bottles, buried in 1879, still sprouted in 2021.  
    **Answer:** True. *Why:* True. More than 140 years later, some of the seeds sprouted. Seeds buried in the ground can stay alive for a very long time.
-### Seed Puzzles and Big Ideas (challenge) (challenge, 15 questions)
+15. (perspective) Valli and her neighbours want to sow rajma beans in pots. They give different advice about soaking the seeds first.  
+   **Answer:** A strong answer uses what seeds need. Soaking gives the seed water early, so they wake sooner, as Valli says. But a seed also needs air, and soggy soil leaves no air, so Rao Aunty's worry is real. Selvi's plan gives water without drowning the seed. A strong answer picks one and admits what another gets right.. *Why:* There is a real trade-off. Water wakes a seed, but too much water and too little air make the seed rot. The best plan depends on how wet and cold the soil is.
+16. (write) Simran, in Delhi, soaks moong on a cold December night. The next evening they still have no tails. Suggest two ways to help them sprout, and say why each one works.  
+   **Answer:** Move the bundle somewhere warmer, for example near the kitchen stove but not on it, because warmth makes the changes inside a seed go faster. Wrap the cloth in a towel, because the seeds' own warmth from breathing stays in. Keep the seeds damp, and keep air around them.. *Why:* A strong answer names warmth as the missing need, and keeps water and air too.
+### Seed Puzzles and Big Ideas (challenge) (challenge, 16 questions)
 1. (mcq) Deep down, where did the energy in a seed's food store come from?  
    Options: From sunlight, captured by the parent plant's leaves / From the soil / From the water the seed drinks / From the seed coat  
    **Answer:** From sunlight, captured by the parent plant's leaves. *Why:* The parent plant used the energy of sunlight to make starch from air and water, and packed it into the seed. Picking 'soil' is a very old idea. Soil gives a plant water and small amounts of minerals, but not their food energy.
@@ -693,31 +690,34 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
 4. (mcq) Some small lettuce seeds will sprout only if light reaches them. Why might a tiny seed wait for light?  
    Options: Light tells them they are near the surface, so their small food store won't run out before they reach the sun / Light gives them food straight away / Light makes them heavier  
    **Answer:** Light tells them they are near the surface, so their small food store won't run out before they reach the sun. *Why:* A tiny seed has only a little food. If they sprouted deep underground, they might run out before reaching the light. So waiting for light keeps them safe. In 1952, scientists in the United States showed that red light is what wakes these seeds.
-5. (match) Match each scientist to what they found.  
-   **Answer:** William James Beal, 1879 → buried bottles of seeds to see how long they live; Elaine Solowey and Sarah Sallon, 2005 → grew a date palm from a 2,000-year-old seed; Leslie Paleg and Hiroshi Yomo, 1960 → found the message a baby plant sends to their food store; Gavin Flematti and team, 2004 → found the chemical in smoke that wakes some seeds. *Why:* Each of these scientists helped us understand how seeds wait and wake.
-6. (truefalse) In 2019, a cotton seed sprouted on the Moon inside China's Chang'e 4 lander.  
-   **Answer:** True. *Why:* True. They sprouted in a sealed box with water, air and soil, then died when the freezing lunar night came. It had water and air, but not enough warmth.
-7. (write) Is a dry seed in a jar alive? Give one reason to say yes, and one reason someone might say no.  
-   **Answer:** Yes: they are still breathing very slowly, and they sprout when we add water, unlike a boiled seed. Someone might say no: they do not grow, move or seem to eat.. *Why:* There is no single right answer. Scientists mostly say they are alive but dormant. What counts is a reason on each side.
-8. (mcq) A heap of sprouting seeds warms up. A heap of boiled seeds stays cool for a day, then starts to warm and smell. Why does the boiled heap start to warm?  
+5. (perspective) People disagree about whether a dry seed in a jar is alive.  
+   **Answer:** A strong answer uses evidence. For alive: dry seeds from a jar sprouted when soaked, but boiled seeds never did, so something in the jar seeds was still alive. Against: a dry seed shows almost none of the signs of life. A strong answer then gives the other side its due, for example that sleep is a good comparison, but a seed can stay like this for years.. *Why:* Most biologists say a dry seed is alive but dormant. Because they do so little, people still discuss where life begins and ends. There is no single right answer here.
+6. (mcq) A heap of sprouting seeds warms up. A heap of boiled seeds stays cool for a day, then starts to warm and smell. Why does the boiled heap start to warm?  
    Options: Tiny living things called bacteria start feeding on it, and they breathe too / The boiled seeds come back to life / The sun shines on it  
    **Answer:** Tiny living things called bacteria start feeding on it, and they breathe too. *Why:* Boiled seeds are dead, but bacteria can feed on them. Bacteria breathe, so they make warmth too. That is why we stop the warm flask test after 2 days.
-9. (write) Why do you think seed banks keep seeds dry and very cold?  
-   **Answer:** Dry and cold slow everything inside the seed down, so the seed uses their food very slowly and stays asleep. Then they can stay alive for many years, until someone needs it.. *Why:* Warmth and water wake a seed. Taking them away keeps them asleep.
-10. (odd) Which one is the odd one out? Rajma, chana, moong, potato.  
+7. (odd) Which one is the odd one out? Rajma, chana, moong, potato.  
    Options: Rajma / Chana / Moong / Potato  
    **Answer:** 3. *Why:* Rajma, chana and moong are seeds, each with a baby plant inside. A potato is a swollen underground stem. It can grow new plants, but it is not a seed.
-11. (mcq) Rahibai Soma Popere, a farmer in Maharashtra, saves the seeds of many old local kinds of crops. Why does keeping many kinds matter?  
+8. (mcq) Rahibai Soma Popere, a farmer in Maharashtra, saves the seeds of many old local kinds of crops. Why does keeping many kinds matter?  
    Options: If a disease or drought kills one kind, other kinds may survive / Old seeds always taste better / It makes the seeds sprout faster  
    **Answer:** If a disease or drought kills one kind, other kinds may survive. *Why:* Different kinds of the same crop cope with different problems. If every farmer grew just one kind, one disease could wipe out the whole harvest. For this work, she was given the Padma Shri in 2020.
-12. (write) A farmer stores seed paddy in a damp, warm corner of the house. Next season, very few seeds sprout. What went wrong?  
+9. (write) A farmer stores seed paddy in a damp, warm corner of the house. Next season, very few seeds sprout. What went wrong?  
    **Answer:** Damp and warmth woke the seeds up too early, or made them use up their food and spoil while stored. Seeds keep best when dry and cool.. *Why:* Water and warmth wake seeds. In storage, we want them to stay asleep.
-13. (draw) Invent a seed for a desert where it rains only once every few years. Draw them and label two features that help them wait and then sprout fast.  
+10. (draw) Invent a seed for a desert where it rains only once every few years. Draw them and label two features that help them wait and then sprout fast.  
    **Answer:** Any thoughtful design, for example: a very hard waterproof coat so they can wait for years, a coat that only softens after lots of rain, a big food store so the root can grow fast and deep.. *Why:* Real desert seeds do things like these. Many wait in the sand until a big rain, then sprout and flower in a few weeks.
-14. (write) In the story The Warm Bundle, Noor remembered the bundle being warm. How did that clue help her save the sprouts?  
+11. (write) In the story The Warm Bundle, Noor remembered the bundle being warm. How did that clue help her save the sprouts?  
    **Answer:** Ammi said the warmth came from the seeds breathing. So Noor realised the seeds needed air. In the closed dabba under water, they could not breathe. She drained them and hung them in a loose cloth so air could reach them.. *Why:* The warmth showed that sprouting seeds breathe. Breathing needs air.
-15. (write) Astronauts on the Moon want to grow beans. List what they must give the seeds to sprout, and what the young plants will need later.  
+12. (write) Astronauts on the Moon want to grow beans. List what they must give the seeds to sprout, and what the young plants will need later.  
    **Answer:** To sprout: water, warmth and air, inside a sealed box or base. Later: light for the leaves to make food, and minerals, like those in soil or plant food.. *Why:* A seed needs water, warmth and air to wake. A seedling needs light once their own food store runs out.
+13. (write) A banyan seed is about as small as a mustard seed, with only a tiny store of food. Yet the seed can grow into a giant tree. Where does the rest of the tree come from?  
+   **Answer:** The seed's food only feeds the seedling for the first few days. After that, the young banyan's green leaves make food from carbon dioxide in the air and water from the soil, using sunlight. Over many years, the tree builds their whole body that way.. *Why:* A strong answer says the seed's food is only a start, and the tree is built mostly from air and water, using sunlight.
+14. (mcq) In parts of Australia and South Africa, some seeds sprout only after they meet smoke from a bush fire. Why might a seed wait for a fire?  
+   Options: After a fire, the ground is open and sunny, with fewer big plants taking the light and water / Fire makes the seed warm enough to sprout / Smoke is food for seeds  
+   **Answer:** After a fire, the ground is open and sunny, with fewer big plants taking the light and water. *Why:* A fire clears away big plants, so a seedling that sprouts just after gets light, water and room. In 2004, scientists found the chemical in smoke that wakes these seeds. Picking 'fire makes the seed warm' is a sensible guess, but it is a chemical in the smoke, not the heat, that wakes them.
+15. (fill) A seed packet says that 40 of every 50 seeds sprouted in the company's test. That is ____ out of every 10 seeds.  
+   **Answer:** ['8', 'eight']. *Why:* 50 is 5 lots of 10. 40 shared into 5 lots is 8. So 8 out of every 10 seeds sprouted. Sowing 10 seeds, you should expect about 8 seedlings.
+16. (order) Put these ways of storing seeds in order, from the one that keeps seeds alive longest to the one that keeps them alive for the shortest time.  
+   **Answer:** order shown. *Why:* Water and warmth wake a seed and make them use up their food. Dry and cold keep the seed resting for the longest. That is why seed banks keep seeds dry and frozen.
 
 ## Videos
 - **Bean Time-Lapse - 25 days | Soil cross section** (GPhase, 3 min) id `w77zPAtVTuI`: A bean sprouting in soil, filmed from the side over 25 days. You can watch the root come out first and grow down, the hooked shoot push up and the seed leaves open. *Check:* Id checked automatically through YouTube's oEmbed: the title and channel match. A parent should still preview it, as it has music and no talking.
@@ -767,9 +767,9 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
 14. (mcq) How long can a seed stay alive?  
    Options: It depends on the seed. Some last a year or two, and a few have sprouted after hundreds of years. Nobody knows the limit. / Only one week / For ever, always / Exactly 100 years  
    **Answer:** It depends on the seed. Some last a year or two, and a few have sprouted after hundreds of years. Nobody knows the limit.. *Why:* A date palm seed about 2,000 years old sprouted in 2005. Most seeds last far less. Scientists still do not know the longest a seed can live.
-15. (mcq) Do scientists agree that a dry seed is alive?  
-   Options: Most say yes, alive but asleep. Some say life almost stops in them, and philosophers still argue about what 'alive' means. / Yes, and there is nothing more to say / No, everyone agrees they are dead  
-   **Answer:** Most say yes, alive but asleep. Some say life almost stops in them, and philosophers still argue about what 'alive' means.. *Why:* Most biologists call a dry seed dormant: alive, but asleep. Because they do so little, some scientists and thinkers say it sits between alive and not alive. This is still discussed.
+15. (mcq) The Svalbard Global Seed Vault in Norway keeps seeds from all over the world at about minus 18 degrees Celsius. Why so cold?  
+   Options: Cold slows everything inside a seed, so they use their food very slowly and stay alive longer / Cold makes the seeds sprout faster later / Seeds grow best in snow  
+   **Answer:** Cold slows everything inside a seed, so they use their food very slowly and stay alive longer. *Why:* Warmth and water wake a seed and make them use up their food. Dry and cold keep them resting. Scientists still do not know how long seeds kept like this can live. Picking 'sprout faster' mixes up storing seeds with sprouting them.
 
 ## Applications
 - Farmers soak and sprout seed, like paddy, before sowing, so they come up quickly and evenly.

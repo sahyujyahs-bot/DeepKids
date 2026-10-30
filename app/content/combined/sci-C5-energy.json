@@ -4,7 +4,7 @@
  "subj": "sci",
  "level": 5,
  "n": "energy",
- "title": "Energy: where it comes from, where it goes, and why it is never lost",
+ "title": "Energy: where it comes from and where it goes",
  "source": "DeepKids Combined. Covers NCERT Class 5 Chapter 7 'Energy: How Things Work' (energy in everyday life, forms of energy at home and in society, how energy makes things work, clean and efficient energy) and NIOS Level 5 Lesson 10 'Sources of Energy and their Importance' (why we need energy, sources and kinds of energy, alternative sources, saving energy). It goes further into kinetic and stored energy, conservation of energy, heat from friction, efficiency, food energy and ATP, the Sun behind food chains and fuels, how a power station works, and watts and units. No textbook needed.",
  "summary": "A bottle swinging on a string never comes back as high as where it started. So where did the missing energy go? Your child finds out that energy is never made or destroyed. It swaps between moving and stored, and in the end it spreads out as heat. They drop a lime into flour from different heights, warm a coin by rubbing it, burn a cashew to see the energy stored in food, and melt ice on black and white cloth. They spin a pinwheel with steam the way a power station spins its turbine, read the watts on every appliance at home, and make a family energy plan. Along the way they follow almost all of it back to the Sun.",
  "builds_on": "In Class 4 your child found energy around them, drew energy chains, saw a fan change electrical energy into movement and sound, and learned that a cooling cup of chai does not lose its energy but passes it to the air. They followed energy along food chains from plants to animals. This rung asks how much and why: why moving energy grows so fast with speed, why every change wastes some energy as heat, where food, fuel and electricity get their energy from, and how to measure and save it. Later classes go on to work and power with numbers, heat engines, the electromagnetic spectrum, and how stars make energy by fusion.",
@@ -112,7 +112,7 @@
      "kind": "exp",
      "title": "The bottle that will not hit your nose",
      "mins": 15,
-     "do": "Do Experiment e1. A grown-up goes first, to show it is safe. Ask before your child tries: 'If I let go of the bottle at my nose without pushing, will it hit me when it swings back? Why?' Write the guess. Then your child stands against the wall, holds the bottle touching their nose, and lets go without pushing. Ask: 'Where was the bottle fastest? Where did it stop for a moment?' Good answers: 'Fastest at the bottom. It stopped at each end.' Ask: 'Why did it not come back to my nose?' Good answer: 'It lost a little energy each swing, pushing the air and rubbing at the knot.' Count how many swings until it nearly stops.",
+     "do": "Do Experiment e1. In Class 4 your child did this nose test with a bag of rice. This time, look closely at where the bottle is fastest, and count the swings. A grown-up goes first, to show it is safe. Ask before your child tries: 'If I let go of the bottle at my nose without pushing, will it hit me when it swings back? Why?' Write the guess. Then your child stands against the wall, holds the bottle touching their nose, and lets go without pushing. Ask: 'Where was the bottle fastest? Where did it stop for a moment?' Good answers: 'Fastest at the bottom. It stopped at each end.' Ask: 'Why did it not come back to my nose?' Good answer: 'It lost a little energy each swing, pushing the air and rubbing at the knot.' Count how many swings until it nearly stops.",
      "ref": "e1"
     },
     {
@@ -150,14 +150,14 @@
      "kind": "exp",
      "title": "Dents in the flour",
      "mins": 17,
-     "do": "Do Experiment e2. Ask first: 'If I drop the lime from twice as high, will the dent be the same, twice as deep, or something else? Why?' Write the guess. Drop from each height three times and smooth the flour each time. Your child measures each dent with a marked toothpick and writes it in a table. Ask: 'What happened as the height went up?' Most children find the dent gets deeper each time. Say: 'The higher you lift it, the more stored energy it has. As it falls, that becomes kinetic energy, and the flour shows how much it had.'",
+     "do": "Do Experiment e2. Ask first: 'If I drop the lime from twice as high, will the dent be the same, twice as deep, or something else? Why?' Write the guess. Drop from each height three times and smooth the flour each time. Your child measures how wide each dent is with a ruler and writes it in a table. Ask: 'What happened as the height went up?' Most children find the dent gets wider each time. Say: 'The higher you lift it, the more stored energy it has. As it falls, that becomes kinetic energy, and the flour shows how much it had.'",
      "ref": "e2"
     },
     {
      "kind": "talk",
      "title": "Twice as fast, four times the energy",
      "mins": 7,
-     "do": "Say: 'About 300 years ago a Dutch scientist, Willem 's Gravesande, dropped metal balls into soft clay, just as we dropped the lime into flour. He found that a ball moving twice as fast made a dent about four times as big. A French scientist, Émilie du Châtelet, used his results in her 1740 book on physics. She argued that the energy of a moving thing grows with its speed times its speed. She was right, and many men of her time were wrong.' Ask: 'A scooter going at 60 km per hour is twice as fast as one going at 30. How much more kinetic energy does it have?' (Four times as much.) Ask: 'Why do you think speed limits near schools are so low?' Good answer: 'A small rise in speed makes a much bigger crash.'"
+     "do": "Say: 'About 300 years ago a Dutch scientist, Willem 's Gravesande, dropped metal balls into soft clay, just as we dropped the lime into flour. He found that a ball moving twice as fast made a dent about four times as big. A French scientist, Émilie du Châtelet, used his results in her 1740 book on physics. She argued that the energy of a moving thing grows with its speed times its speed. Many scientists of her time disagreed, but later experiments showed she was right.' Ask: 'A scooter going at 60 km per hour is twice as fast as one going at 30. How much more kinetic energy does it have?' (Four times as much.) Ask: 'Why do you think speed limits near schools are so low?' Good answer: 'A small rise in speed makes a much bigger crash.'"
     },
     {
      "kind": "act",
@@ -179,14 +179,7 @@
     "about 500 g of atta or maida",
     "a lime (nimbu) or a marble",
     "a ruler or measuring tape",
-    "3 toothpicks and a pen",
     "the Energy notebook"
-   ],
-   "prep": [
-    {
-     "task": "Make a mark every half centimetre on 3 toothpicks with a pen, starting from the tip",
-     "when": "night before"
-    }
    ]
   },
   {
@@ -204,14 +197,14 @@
      "kind": "exp",
      "title": "Rubbing makes heat",
      "mins": 10,
-     "do": "Do Experiment e3. Ask first: 'If I rub this coin hard on my jeans for 30 seconds, will it feel the same, colder or warmer?' After each test, your child touches the coin to their cheek or lip and says what they feel. Ask: 'The coin was not near a flame. Where did the heat come from?' Good answer: 'From the movement of my hand.' Say: 'When two surfaces rub, the grip between them is called friction. Friction turns kinetic energy into thermal energy, the energy of heat.'",
+     "do": "Do Experiment e3. Say: 'In Class 4 you rubbed your hands to warm them. Today we test a coin and an eraser too.' Ask first: 'If I rub this coin hard on my jeans for 30 seconds, will it feel the same, colder or warmer?' After each test, your child touches the coin to their cheek and says what they feel. Ask: 'The coin was not near a flame. Where did the heat come from?' Good answer: 'From the movement of my hand.' Say: 'When two surfaces rub, the grip between them is called friction. Friction turns kinetic energy into thermal energy, the energy of heat.'",
      "ref": "e3"
     },
     {
      "kind": "talk",
-     "title": "The ship's doctor and the red blood",
+     "title": "Mayer's idea and Joule's measurement",
      "mins": 10,
-     "do": "Tell your child the story in Voice v1 in your own words: Robert Mayer, a young German doctor, noticed in the heat of Java that sailors' blood was brighter red. Say: 'He worked out that the body burns less food to keep warm in hot places. From this he came to a huge idea: heat, movement and the energy in food are forms of one thing, and it is never lost.' Say that Rumford had already found that boring a cannon made heat that could boil water, and that Joule later measured it. Ask the question in v1: 'Mayer had the idea first, but Joule did the careful measuring. Who should get the credit?'",
+     "do": "Ask: 'In Class 4 you met Robert Mayer, the ship's doctor who saw the sailors' bright red blood. What big idea did he have?' Good answer: 'Heat, movement and the energy in food are forms of one thing, and it is never lost.' Say: 'Mayer had the idea, but no careful measurement. In England, James Joule let a falling weight turn a paddle wheel in water. The water got very slightly warmer. Joule measured how much heat each fall made, and it was always the same.' Ask the question in v1: 'Mayer had the idea first, but Joule did the careful measuring. Who should get the credit?'",
      "ref": "v1"
     },
     {
@@ -264,7 +257,7 @@
      "kind": "talk",
      "title": "Subbarow and the energy coin of the cell",
      "mins": 8,
-     "do": "Tell your child Voice v3 in your own words: Yellapragada Subbarow from Andhra Pradesh found a chemical called ATP in muscle in 1929. Say: 'Every cell takes energy from food and stores it in tiny packets of ATP. Then it spends the ATP wherever work is needed: to make a muscle pull, a heart beat or a brain think. Every living being uses ATP: you, the crow outside, the tulsi plant and the bacteria in curd.' Ask your child to breathe out onto a cold steel plate. Ask: 'What do you see?' (Mist.) Say: 'Your breath carries out water and carbon dioxide, made when your cells used food and oxygen.' Ask the question in v3.",
+     "do": "Tell your child Voice v3 in your own words. Say: 'In Class 4 you met Yellapragada Subbarow from Andhra Pradesh. With Cyrus Fiske, he found a chemical called ATP in muscle in 1929. Every cell takes energy from food and stores it in tiny packets of ATP. Then it spends the ATP wherever work is needed: to make a muscle pull, a heart beat or a brain think. Every living being uses ATP: you, the crow outside, the tulsi plant and the bacteria in curd.' Ask your child to breathe out onto a cold steel plate. Ask: 'What do you see?' (Mist, which is water from your breath.) Say: 'Your breath also carries out carbon dioxide. Your cells made it when they used food and oxygen.' Ask the question in v3.",
      "ref": "v3"
     },
     {
@@ -300,20 +293,20 @@
      "kind": "exp",
      "title": "Set up: ice on black and white cloth",
      "mins": 5,
-     "do": "Set up Experiment e5 in a sunny spot. Ask first: 'Which ice cube will melt first, the one on black cloth or the one on white? Why?' Write the guess and the time. You will check it in about 15 minutes.",
+     "do": "Set up Experiment e5 in a sunny spot. Say: 'In Class 4 you felt a black and a white cloth in the sun. Today we measure the difference with ice.' Ask first: 'Which ice cube will melt first, the one on black cloth or the one on white? Why?' Write the guess and the time. You will check it in about 15 minutes.",
      "ref": "e5"
     },
     {
      "kind": "talk",
      "title": "Plants catch sunlight, and most of it does not pass on",
      "mins": 8,
-     "do": "Say: 'A leaf uses sunlight to join water and carbon dioxide into sugar. This is called photosynthesis. The sugar stores the Sun's energy. Most plants store only about 1 or 2 of every 100 parts of the sunlight that lands on their leaves.' Ask: 'A goat eats grass. Does all the grass's energy become goat?' Let them guess. Say: 'No. The goat uses most of it to walk, breathe and keep warm, and it leaves the goat as heat. On average only about a tenth passes on to the next eater.' Ask: 'So why are there many more goats than tigers in a forest?' Good answer: 'Tigers eat goats, and only a little of the goats' energy reaches the tigers.'"
+     "do": "Say: 'A leaf uses sunlight to join water and carbon dioxide into sugar. This is called photosynthesis. The sugar stores the Sun's energy. Most plants store only about 1 or 2 of every 100 parts of the sunlight that lands on their leaves.' Ask: 'A deer eats grass. Does all the grass's energy become deer?' Let them guess. Say: 'No. The deer uses most of it to walk, breathe and keep warm, and it leaves the deer as heat. On average only about a tenth passes on to the next eater.' Ask: 'So why are there many more deer than tigers in a forest?' Good answer: 'Tigers eat deer, and only a little of the deer's energy reaches the tigers.'"
     },
     {
      "kind": "act",
      "title": "The energy relay",
      "mins": 14,
-     "do": "Do Activity a4. Your child and family act out the chain Sun, grass, goat, tiger. At every handover, the giver cuts off most of the wool and drops it on the floor, saying 'heat'. Ask at the end: 'How much wool did the tiger get? Where is the rest?' Good answer: 'A tiny piece. The rest is on the floor, spread out as heat.' Then go back to the story's question in the Energy notebook: 'Ponni says nothing in the blue flame was new.' Ask your child to add to their answer. A strong answer follows the energy from the Sun to the grass, to Ponni, to the tiny beings in the tank, to the flame.",
+     "do": "Do Activity a4. Your child and family act out the chain Sun, grass, deer, tiger. At every handover, the giver cuts off most of the wool and drops it on the floor, saying 'heat'. Ask at the end: 'How much wool did the tiger get? Where is the rest?' Good answer: 'A tiny piece. The rest is on the floor, spread out as heat.' Then go back to the story's question in the Energy notebook: 'Ponni says nothing in the blue flame was new.' Ask your child to add to their answer. A strong answer follows the energy from the Sun to the grass, to Ponni, to the tiny beings in the tank, to the flame.",
      "ref": "a4"
     },
     {
@@ -337,7 +330,7 @@
     "2 steel plates",
     "a sunny windowsill or balcony",
     "a ball of wool and scissors",
-    "4 paper labels: SUN, GRASS, GOAT, TIGER"
+    "4 paper labels: SUN, GRASS, DEER, TIGER"
    ],
    "prep": [
     {
@@ -414,7 +407,7 @@
      "kind": "warmup",
      "title": "Remember",
      "mins": 3,
-     "do": "Ask: 'Yesterday steam spun a turbine. In a coal power station, what share of the coal's energy becomes electricity?' Good answer: 'About a third. The rest is lost as heat.' Say: 'So every unit we save at home saves about three units' worth of coal.'"
+     "do": "Ask: 'Yesterday steam spun a turbine. In a coal power station, what share of the coal's energy becomes electricity?' Good answer: 'About a third. The rest is lost as heat.' Say: 'So for every unit of electricity we save at home, the power station burns about three units' worth of coal less.'"
     },
     {
      "kind": "act",
@@ -776,7 +769,7 @@
       },
       {
        "t": "write",
-       "p": "Ritu says, 'India should build more coal power stations, because coal works day and night.' Fatima says, 'India should build more solar parks, because sunlight never runs out.' Pick the side you agree with more and give two reasons. Then write one thing the other person is right about.",
+       "p": "Kavya says, 'India should build more coal power stations, because coal works day and night.' Fatima says, 'India should build more solar parks, because sunlight never runs out.' Pick the side you agree with more and give two reasons. Then write one thing the other person is right about.",
        "lines": 5
       }
      ]
@@ -880,7 +873,7 @@
       },
       {
        "t": "write",
-       "p": "Three people talk about cooking in a village. Selvi cooks on firewood: 'The wood is free, but the smoke hurts my eyes.' Anjali runs a biogas plant: 'Cow dung gives gas and good manure, but the plant costs money to build.' Kamala sells LPG cylinders: 'Gas is clean in the kitchen, but every cylinder costs money and comes from far away.' Which would you choose for a family near Thanjavur with two cows? Give your reasons. Then say what the person you did not choose would say back.",
+       "p": "Three people talk about cooking in a village. Valli cooks on firewood: 'The wood is free, but the smoke hurts my eyes.' Anjali runs a biogas plant: 'Cow dung gives gas and good manure, but the plant costs money to build.' Kamala sells LPG cylinders: 'Gas is clean in the kitchen, but every cylinder costs money and comes from far away.' Which would you choose for a family near Thanjavur with two cows? Give your reasons. Then say what the person you did not choose would say back.",
        "lines": 5
       }
      ]
@@ -922,19 +915,18 @@
     "a thali or a tray with a rim",
     "about 500 g of atta or maida",
     "a lime (nimbu) or a marble",
-    "a ruler or measuring tape",
-    "3 toothpicks marked every half centimetre"
+    "a ruler or measuring tape"
    ],
    "steps": [
     "Spread the flour in the thali about 3 cm deep. Shake it gently so the top is smooth and flat.",
     "Hold the lime 20 cm above the flour, measured with the ruler. Let it drop. Lift it out carefully.",
-    "Push a marked toothpick straight down into the flour at the edge of the dent and read how deep the dent is. Write it down.",
+    "Lay the ruler across the dent and read how wide it is, from edge to edge. Write it down.",
     "Smooth the flour and drop from 20 cm two more times.",
     "Now do the same three times from 40 cm, and three times from 80 cm.",
     "Find the middle value for each height and make a table."
    ],
    "predict": "Ask your child to guess first: 'If I drop the lime from twice as high, will the dent be the same, twice as deep, or something else?'",
-   "observe": "The dent gets deeper and wider as the height goes up. The dent from 80 cm is clearly bigger than the dent from 20 cm. The three tries from one height are close but not exactly the same.",
+   "observe": "The dent gets wider and deeper as the height goes up. The dent from 80 cm is clearly bigger than the dent from 20 cm. The three tries from one height are close but not exactly the same.",
    "why": "Lifting the lime higher gives it more stored energy. As it falls, this becomes kinetic energy, so it hits the flour faster. The lime uses that energy to push the flour aside, so more energy makes a bigger dent. We drop three times from each height because one try can be a fluke.",
    "safety": "Do it on the floor on a newspaper, so spilt flour is easy to clean. Use the flour afterwards only if it stayed clean.",
    "time": "17 min"
@@ -985,7 +977,7 @@
     "The grown-up holds the spoon of water in the tongs a little above the flame for about 30 seconds. Look at the water."
    ],
    "predict": "Ask your child to guess first: 'Will a cashew burn on its own, without the candle? For how long?'",
-   "observe": "The cashew catches fire and keeps burning on its own with a yellow, smoky flame, often for a minute or more. The water in the spoon gets warm and may start to steam. A black, burnt lump is left.",
+   "observe": "The cashew catches fire and keeps burning on its own with a yellow, smoky flame, often for half a minute or more. The water in the spoon gets warm and may start to steam. A black, burnt lump is left.",
    "why": "A cashew is full of oil and starch, which hold chemical energy that the cashew tree stored from sunlight. Burning joins these chemicals with oxygen from the air, and the stored energy comes out fast as heat and light. Your body uses the same stored energy, but your cells join food with oxygen slowly, in small steps, so you get warm, not on fire.",
    "safety": "A grown-up does all the lighting and holding. Keep hair, sleeves, paper and curtains away, and keep a cup of water nearby. Do not do this if anyone at home has a nut allergy. Do not eat the burnt nut.",
    "time": "12 min"
@@ -1054,7 +1046,7 @@
     "Draw three columns in the notebook: HEIGHT, STRETCH and CHEMICAL.",
     "Walk through every room with your child, and onto the balcony.",
     "For each thing that holds energy ready to use, ask: 'How is the energy stored? In its height, in a stretch or squeeze, or in its chemicals?' Write it in the right column.",
-    "Look for: the water tank on the roof, a book on a high shelf, a clothes peg's spring, a rubber band, a pressure cooker's gasket, food in the kitchen, the gas cylinder, a matchbox, a torch cell, a phone battery.",
+    "Look for: the water tank on the roof, a book on a high shelf, a clothes peg's spring, a rubber band, food in the kitchen, the gas cylinder, a matchbox, a torch cell, a phone battery.",
     "Circle the one that you think holds the most energy."
    ],
    "outcome": "A list of at least seven stored energy sources in three columns. Most families find chemical energy is the biggest group: food, fuel and batteries."
@@ -1102,15 +1094,15 @@
    "need": [
     "a ball of wool",
     "scissors",
-    "4 paper labels: SUN, GRASS, GOAT, TIGER",
+    "4 paper labels: SUN, GRASS, DEER, TIGER",
     "string or tape to wear the labels"
    ],
    "steps": [
     "Each person wears a label. If you have only two people, each plays two parts.",
     "The SUN pulls out a long piece of wool, about as long as the room, and cuts it off. This is the energy.",
     "The SUN gives it to GRASS. GRASS cuts off most of it, drops that on the floor and says 'heat'. GRASS keeps only a short piece, about one tenth.",
-    "GRASS gives the short piece to GOAT. GOAT cuts off most of it, drops it and says 'heat', and keeps one tenth.",
-    "GOAT gives what is left to TIGER, who holds it up.",
+    "GRASS gives the short piece to DEER. DEER cuts off most of it, drops it and says 'heat', and keeps one tenth.",
+    "DEER gives what is left to TIGER, who holds it up.",
     "Everyone looks at the floor and at the tiger's tiny piece. Then lay all the pieces end to end. Is the wool all still there?"
    ],
    "outcome": "The tiger ends with a tiny piece, but laid end to end, all the wool is still there. Your child sees both ideas at once: no energy is lost, but most of it spreads out as heat at every step and cannot be passed on."
@@ -1211,7 +1203,7 @@
    "You touched a switch with wet hands. Go back 3.",
    "Which energy source does not start with the Sun?",
    "Why does a phone charger get warm?",
-   "Who first said that energy is never lost?",
+   "Which ship's doctor said that energy is never lost?",
    "HOME"
   ]
  },
@@ -1247,7 +1239,7 @@
   },
   {
    "who": "A tulsi plant on a balcony",
-   "view": "Her problem is that she cannot walk to find food. Her leaves solve it: they catch sunlight and build sugar from air and water. Plants were living on sunlight for hundreds of millions of years before people made the first solar panel. Ask: we call our solar panels clever. What would a plant say about them?"
+   "view": "Their problem is that they cannot walk to find food. Their leaves solve it: they catch sunlight and build sugar from air and water. Plants were living on sunlight for hundreds of millions of years before people made the first solar panel. Ask: we call our solar panels clever. What would a plant say about them?"
   },
   {
    "who": "A woman who collects coal near Jharia, Jharkhand",
@@ -1262,7 +1254,7 @@
   {
    "id": "v1",
    "who": "Julius Robert Mayer (1814–1878), Germany, and James Prescott Joule (1818–1889), England",
-   "idea": "In 1840 Mayer was a young doctor on a Dutch ship to Java, in what is now Indonesia. When he let blood from sick sailors, the blood in their veins was a brighter red than he expected. He reasoned that in a hot place the body needs to burn less food to stay warm, so less oxygen is used up. From this he came to a huge idea: heat, movement and the energy in food are forms of one thing that is never made or lost. He published it in 1842. Earlier, in 1798, Benjamin Thompson (Count Rumford) had seen that boring the inside of a cannon made enough heat to boil water. From 1843 Joule, the son of a brewer in England, measured it carefully: falling weights turned a paddle wheel in water and made the water slightly warmer.",
+   "idea": "In 1840 Mayer was a young doctor on a Dutch ship to Java, in what is now Indonesia. When he let blood from sick sailors, the blood in their veins was a brighter red than he expected. He reasoned that in a hot place the body needs to burn less food to stay warm, so less oxygen is used up. From this he came to a huge idea: heat, movement and the energy in food are forms of one thing that is never made or lost. He published it in 1842. Earlier, in 1798, Benjamin Thompson (Count Rumford) had seen that boring the inside of a cannon made enough heat to boil water. In the 1840s Joule, the son of a brewer in England, measured it carefully: falling weights turned a paddle wheel in water and made the water slightly warmer.",
    "then": "A leading physics journal turned down Mayer's first paper. Many scientists gave the credit to Joule instead, because his measurements were careful and he was part of the British scientific world. Mayer became deeply unhappy and ill. Later in his life his work was recognised, and in 1871 the Royal Society in London gave him its Copley Medal.",
    "now": "Accepted. Conservation of energy is one of the most tested laws in all of science. Historians now give credit to several people who reached the idea in the 1840s, Mayer and Joule among them.",
    "status": "accepted",
@@ -1274,7 +1266,7 @@
    "who": "Eunice Newton Foote (1819–1888), USA",
    "idea": "In 1856 Foote put thermometers inside glass cylinders filled with different gases and set them in the sunshine. The cylinder of carbon dioxide got the hottest and stayed hot the longest. She wrote that if the air held more of this gas, the Earth would be warmer.",
    "then": "Her paper was read at a meeting of American scientists in 1856, but by a man, Joseph Henry, not by her. It was printed and then mostly forgotten. From 1859, John Tyndall in London measured much more exactly how carbon dioxide and water vapour hold in heat, and for over 150 years he got the credit for the discovery.",
-   "now": "Accepted. Carbon dioxide does trap heat, which is the greenhouse effect. Foote's work was found again by researchers around 2010, and she is now named as one of the first to see it. Her simple test could not separate sunlight from the heat given off by the warm glass, which Tyndall's experiments could.",
+   "now": "Accepted. Carbon dioxide does trap heat, which is the greenhouse effect. Foote's work was found again by researchers around 2010, and she is now named as one of the first to see it. Her simple test could not show exactly which kind of heat the gas held in. Tyndall's experiments could.",
    "status": "accepted",
    "ask": "Foote was first, but Tyndall's experiments were more exact. Why do you think her name was forgotten for so long?",
    "day": 5
@@ -1286,7 +1278,7 @@
    "then": "For many years, books gave more credit to Lohmann and to the scientists who came after. Subbarow went on to lead research at a medicine company, where his team made methotrexate, a cancer medicine still used today, and an early antibiotic. He died at 53, and he is still not well known, even in India.",
    "now": "Accepted. ATP is used by every known living being, from bacteria to people, to carry energy inside cells. Subbarow is now remembered as one of its discoverers.",
    "status": "accepted",
-   "ask": "Two scientists in two countries found ATP in the same year. How do you think the world decides whose name to remember?",
+   "ask": "ATP is used by bacteria, plants and people alike. What does that tell you about how living beings are related?",
    "day": 4
   },
   {
@@ -1319,7 +1311,7 @@
    "A few days later, in the evening, Amudha struck a match and held it to the new steel burner. There was a soft sound, like someone breathing out. Then a ring of blue flame stood up, steady and quiet. There was no smoke at all.",
    "Kayal laughed and clapped her hands. Amudha put the rice on. Murugan came in, looked at the flame for a long time, and said nothing, which for him is a great deal.",
    "That night I lay in my shed and thought about it. All day I had eaten grass in the sun. The grass had grown in that same sun. Every blade had caught the light and used it to build their own bodies. I had eaten those bodies. Some of what I ate became me. Some of it kept me warm on cold nights and moved my legs along the canal bank. What I could not use, I passed on. The tiny beings in the dark had taken what was left and let it out as gas. And now that gas was a blue flame under a pot of rice.",
-   "Nothing in that flame was new. It was the sunlight that had warmed my back that morning, passed along from the grass, to me, to the tiny beings, to the pot.",
+   "Nothing in that flame was new. It was sunlight, caught by the grass and passed along, from the grass, to me, to the tiny beings, to the pot.",
    "After that, the kitchen stayed clear. Amudha did not walk for sticks any more. In the afternoons she sat with Kayal over her school books. The thick slurry that flowed out of the far side of the tank went onto the vegetable patch, and the brinjals grew fat and shiny.",
    "One night, about a month later, I noticed that the coughing had stopped. The house was quiet. I lay in the dark and listened to the quiet for a long time."
   ],
@@ -1409,7 +1401,7 @@
    "a": "Burning coal boils water. The steam spins a turbine, and the turbine turns a generator, where magnets spin inside coils of wire to make electricity. Only about a third of the coal's energy becomes electricity. The rest is lost as heat."
   },
   {
-   "q": "How many units does a 2000-watt geyser use in 30 minutes, and name two ways your family can save electricity.",
+   "q": "How many units does a 2000-watt geyser use in 30 minutes? Then name two ways your family can save electricity.",
    "a": "2000 watts for half an hour is 1000 watt-hours, which is 1 unit. Good ways to save: switch off fans and lights in empty rooms, use LED bulbs, set the AC a few degrees warmer, switch the geyser off when the water is hot, and dry clothes in the sun."
   }
  ]

@@ -152,7 +152,7 @@
      "kind": "exp",
      "title": "The ramp test",
      "mins": 20,
-     "do": "Do experiment e1. Make a ramp from a tray or a big hardbound book resting on one book. Mark a start line at the top with a bindi or a bit of tape. Ask: 'If we make the ramp higher, will the ball roll further across the floor, less far, or the same? Why do you think so?' Write the prediction down. Your child lets the ball go from the start line, without pushing, three times at one book, three times at two books and three times at three books. You mark where it stops each time and they measure from the bottom of the ramp with a ruler or by counting tiles. Ask: 'What did we change? What did we keep the same?' (We changed only the height. We kept the same ball, the same start line, the same floor, and we never pushed.) Ask: 'Do the results support your prediction?' Say: 'Higher up, the ball had more stored energy because of its height. As it rolled down, that energy turned into movement energy, so it went faster and further.'",
+     "do": "Do experiment e1. Make a ramp from a tray or a big hardbound book resting on one book. Put the bottom of the ramp on a durrie or a folded bedsheet, so the ball stops within a few metres. Mark a start line at the top with a bindi or a bit of tape. Ask: 'If we make the ramp higher, will the ball roll further across the floor, less far, or the same? Why do you think so?' Write the prediction down. Your child lets the ball go from the start line, without pushing, three times at one book, three times at two books and three times at three books. You mark where it stops each time and they measure from the bottom of the ramp with a ruler or by counting tiles. Ask: 'What did we change? What did we keep the same?' (We changed only the height. We kept the same ball, the same start line, the same floor, and we never pushed.) Ask: 'Do the results support your prediction?' Say: 'Higher up, the ball had more stored energy because of its height. As it rolled down, that energy turned into movement energy, so it went faster and further.'",
      "ref": "e1"
     },
     {
@@ -238,9 +238,9 @@
     },
     {
      "kind": "think",
-     "title": "Is heat a liquid? Rumford's cannons",
+     "title": "Is heat a fluid? Rumford's cannons",
      "mins": 10,
-     "do": "Read voice v1 aloud to your child, about the caloric idea and Count Rumford's cannon test. Ask the voice question. Then ask: 'When you rubbed your hands, where did the heat come from, if heat is a liquid stored inside things?' (It can't have been stored, because I could keep rubbing and keep getting warm. It came from the movement of my hands.) Ask: 'Lavoisier was one of the greatest chemists who ever lived, and he was wrong about heat. What does that tell us?' (Even great scientists can be wrong. A test can show it.)",
+     "do": "Read voice v1 aloud to your child, about the caloric idea and Count Rumford's cannon test. Ask the voice question. Then ask: 'When you rubbed your hands, where did the heat come from, if heat is a fluid stored inside things?' (It can't have been stored, because I could keep rubbing and keep getting warm. It came from the movement of my hands.) Ask: 'Lavoisier was one of the greatest chemists who ever lived, and he was wrong about heat. What does that tell us?' (Even great scientists can be wrong. A test can show it.)",
      "ref": "v1"
     },
     {
@@ -291,7 +291,7 @@
      "kind": "talk",
      "title": "Where the energy begins",
      "mins": 8,
-     "do": "Ask: 'Where does the energy in sunlight come from?' (From the Sun.) Say: 'Sunlight takes about 8 minutes to travel from the Sun to the Earth. It brings light and heat.' Then trace these with your child, one step at a time. Rice: the rice plant used sunlight to make food, and we eat the rice. Wind: the Sun warms some places more than others, warm air rises and cooler air rushes in, and that is wind. Rain: the Sun's heat makes water evaporate from the sea, it rises and falls as rain. Coal and petrol: they formed from plants and tiny sea creatures that lived hundreds of millions of years ago, and those plants grew with sunlight. Ask: 'So where did the energy in the gas cylinder first come from?' (From the Sun, long ago.)"
+     "do": "Ask: 'Where does the energy in sunlight come from?' (From the Sun.) Say: 'Sunlight takes about 8 minutes to travel from the Sun to the Earth. It brings light and heat.' Then trace these with your child, one step at a time. Rice: the rice plant used sunlight to make food, and we eat the rice. Wind: the Sun warms some places more than others, warm air rises and cooler air rushes in, and that is wind. Rain: the Sun's heat makes water evaporate from the sea, it rises and falls as rain. Coal formed from plants, and petrol from tiny sea creatures, that lived millions of years ago. Those plants, and the tiny sea plants the creatures ate, grew with sunlight. Ask: 'So where did the energy in the gas cylinder first come from?' (From the Sun, long ago.)"
     },
     {
      "kind": "ws",
@@ -374,7 +374,7 @@
      "kind": "act",
      "title": "Rice-grain food chain",
      "mins": 12,
-     "do": "Do activity a3. Your child draws a food chain across a sheet: Sun → grass → grasshopper → frog → snake → eagle, with an arrow pointing from each food to its eater. Ask: 'What does the arrow show?' (The direction the energy goes, from the food to the eater.) Then count 100 rice grains onto the grass. Say: 'The grasshopper uses most of the energy from grass just to live: to move, breathe and grow. Only about a tenth passes on to the frog who eats the grasshopper.' Your child moves 10 grains to the grasshopper, then 1 grain to the frog. Ask: 'How much is left for the snake?' (Only a tenth of one grain.) Ask: 'So why are there many grasshoppers, but very few eagles?' (Each link has much less energy than the one below, so there is only enough for a few eagles.)",
+     "do": "Do activity a3. Your child draws a food chain across a sheet: Sun → grass → grasshopper → frog → snake → eagle, with an arrow pointing from each food to its eater. Ask: 'What does the arrow show?' (The direction the energy goes, from the food to the eater.) Then count 100 rice grains onto the grass. Say: 'Each being uses most of their energy just to live: to move, breathe and grow. Only about a tenth passes on to whoever eats them.' Your child moves 10 grains to the grasshopper, then 1 grain to the frog. Ask: 'How much is left for the snake?' (Only a tenth of one grain.) Ask: 'So why are there many grasshoppers, but very few eagles?' (Each link has much less energy than the one below, so there is only enough for a few eagles.)",
      "ref": "a3"
     },
     {
@@ -388,7 +388,7 @@
      "kind": "think",
      "title": "SubbaRow and the energy in every cell",
      "mins": 10,
-     "do": "Say: 'Your body is made of tiny living units called cells. Each cell gets energy from food in a careful way, by passing it into a small chemical called ATP. Then ATP gives the energy to whatever needs it: a muscle pulling, a nerve sending a message.' Tell your child about voice v3, Yellapragada SubbaRow from Andhra Pradesh, one of the two teams that found ATP. Ask the voice question. Then ask: 'Plants, mushrooms, ants, crows and people all use ATP. What does that tell us about living beings?' (We all get energy in the same way, so we are all related.)",
+     "do": "Say: 'Your body is made of tiny living units called cells. Each cell gets energy from food in a careful way, by passing it into a small chemical called ATP. Then ATP gives the energy to whatever needs it: a muscle pulling, a nerve sending a message.' Tell your child about voice v3, Yellapragada SubbaRow from Andhra Pradesh, one of the two teams that found ATP. Ask the voice question. Then ask: 'Plants, mushrooms, ants, crows and people all use ATP. What does that tell us about living beings?' (We all use the same chemical to carry energy. This is one sign that all living beings are related.)",
      "ref": "v3"
     }
    ],
@@ -406,7 +406,7 @@
      "kind": "act",
      "title": "Read the electricity bill",
      "mins": 18,
-     "do": "Do activity a4. Take out your latest electricity bill. Together, find the name of the electricity company, the units used and the amount in rupees. Say: 'One unit is one kilowatt-hour. It is the energy a 1000-watt iron uses in one hour.' Then say: 'Most electricity is made in power stations. In most of them a fuel or moving water spins a big wheel called a turbine, joined to a machine called a generator, which changes movement into electrical energy.' Tell your child: 'Most of India's electricity is still made by burning coal, though solar and wind power are growing fast. Some comes from dams, from nuclear power and from gas.' Ask them to draw the energy chain for one source, for example: Sun → ancient plants → coal → burning → steam → turbine → generator → wires → our fan.",
+     "do": "Do activity a4. Take out your latest electricity bill. Together, find the name of the electricity company, the units used and the amount in rupees. Say: 'One unit is one kilowatt-hour. It is the energy a 1000-watt iron uses in one hour.' Then say: 'Most electricity is made in power stations. In most of them, steam from burning fuel, or moving water, spins a big wheel called a turbine. The turbine turns a machine called a generator, which changes movement into electrical energy.' Tell your child: 'Most of India's electricity is still made by burning coal, though solar and wind power are growing fast. Some comes from dams, from nuclear power and from gas.' Ask them to draw the energy chain for one source, for example: Sun → ancient plants → coal → burning → steam → turbine → generator → wires → our fan.",
      "ref": "a4"
     },
     {
@@ -719,7 +719,7 @@
       },
       {
        "t": "write",
-       "p": "Farhan's family in Hyderabad must choose how to cook dal every day. Farhan's mother says: 'An LPG gas stove is best. It is quick and the flame is easy to control. But the gas is a fossil fuel that adds carbon dioxide to the air.' Lakshmi, a neighbour says: 'A solar cooker is best. Sunlight is free and makes no smoke. But it is slow and does not work at night or on cloudy days.' Farhan's aunt says: 'An induction stove is best. There is no flame in the kitchen. But most of the electricity is made by burning coal far away.' Which way of cooking would you choose? Give your reasons, using what you know about where the energy comes from. Then answer back from one of the other people's point of view.",
+       "p": "Farhan's family in Hyderabad must choose how to cook dal every day. Farhan's mother says: 'An LPG gas stove is best. It is quick and the flame is easy to control. But the gas is a fossil fuel that adds carbon dioxide to the air.' Lakshmi, a neighbour, says: 'A solar cooker is best. Sunlight is free and makes no smoke. But it is slow and does not work at night or on cloudy days.' Farhan's aunt says: 'An induction stove is best. There is no flame in the kitchen. But most of the electricity is made by burning coal far away.' Which way of cooking would you choose? Give your reasons, using what you know about where the energy comes from. Then answer back from one of the other people's point of view.",
        "lines": 5,
        "a": "A strong answer picks one way and uses energy ideas to back it: where the energy first came from (the Sun for solar, ancient plants for gas and most coal), what is wasted, and what harm it does. It then argues fairly for another view, for example that a solar cooker can't cook dinner after dark."
       }
@@ -788,7 +788,7 @@
      [
       {
        "t": "write",
-       "p": "Count Rumford saw that boring a cannon kept making heat for as long as the horses kept turning the drill. Why did this make him doubt that heat is a liquid stored inside the metal?",
+       "p": "Count Rumford saw that boring a cannon kept making heat for as long as the horses kept turning the drill. Why did this make him doubt that heat is a fluid stored inside the metal?",
        "lines": 4
       },
       {
@@ -812,7 +812,7 @@
      [
       {
        "t": "write",
-       "p": "In the 1840s, three people in Europe worked out that energy is never made or destroyed. Who should get the credit? A friend of Julius Robert Mayer, a German doctor says: 'Mayer said it first, in 1842, and even worked out how much heat a certain amount of movement makes. He was ignored because he was young and unknown.' A friend of James Joule, an English brewer's son says: 'Joule did careful tests for years, measuring how much the water warmed when a falling weight turned paddles in it. Without measurements, an idea is only a guess.' A friend of Hermann von Helmholtz, a German doctor and physicist says: 'Helmholtz showed in 1847, using mathematics, that the rule works everywhere: in machines, in heat, in electricity and in living bodies.' Who do you think deserves the most credit? Give your reasons. Then answer back from one of the other friends' point of view.",
+       "p": "In the 1840s, three people in Europe worked out that energy is never made or destroyed. Who should get the credit? A friend of Julius Robert Mayer, a German doctor, says: 'Mayer said it first, in 1842, and even worked out how much heat a certain amount of movement makes. He was ignored because he was young and unknown.' A friend of James Joule, an English brewer's son, says: 'Joule did careful tests for years, measuring how much the water warmed when a falling weight turned paddles in it. Without measurements, an idea is only a guess.' A friend of Hermann von Helmholtz, a German doctor and physicist, says: 'Helmholtz showed in 1847, using mathematics, that the rule works everywhere: in machines, in heat, in electricity and in living bodies.' Who do you think deserves the most credit? Give your reasons. Then answer back from one of the other friends' point of view.",
        "lines": 5,
        "a": "A strong answer says what each person really added: the first idea (Mayer), the careful measurements (Joule) and the proof that it holds everywhere (Helmholtz). It notices that Mayer was overlooked at first, and may argue the credit should be shared."
       },
@@ -845,7 +845,7 @@
     "a ruler or measuring tape"
    ],
    "steps": [
-    "Rest one end of the tray on one book, on a smooth floor. Mark a start line near the top.",
+    "Rest one end of the tray on one book. Spread a durrie or a folded bedsheet at the bottom, so the ball stops within a few metres. Mark a start line near the top.",
     "Hold the ball on the start line and let go. Don't push.",
     "Mark where the ball stops and measure from the bottom of the ramp.",
     "Do it three times, then add a second book and a third book, three tries each.",
@@ -853,7 +853,7 @@
    ],
    "predict": "Ask your child to guess first: 'If the ramp is higher, will the ball roll further, less far, or the same distance? Why?'",
    "observe": "The higher the ramp, the further the ball rolls. The three tries at one height are close but not exactly the same.",
-   "why": "A ball held up high has stored energy because of its height. As it rolls down, the stored energy changes into movement energy. From higher up there is more stored energy, so the ball moves faster at the bottom and rolls further. It slows and stops because the floor and the air take its movement energy away little by little, as tiny amounts of heat and sound. We try three times because one try can be a fluke.",
+   "why": "A ball held up high has stored energy because of its height. As it rolls down, the stored energy changes into movement energy. From higher up there is more stored energy, so the ball moves faster at the bottom and rolls further. It slows and stops because the cloth and the air take its movement energy away little by little, as tiny amounts of heat and sound. We try three times because one try can be a fluke.",
    "safety": "Use a ball or marble on the floor, away from the stairs. Small children must not put marbles in their mouths.",
    "time": "20 min"
   },
@@ -1033,9 +1033,9 @@
   {
    "id": "v1",
    "who": "Antoine Lavoisier (1743–1794) and Marie-Anne Paulze Lavoisier (1758–1836), France, and Count Rumford (Benjamin Thompson, 1753–1814), born in America, working in Bavaria",
-   "idea": "In the late 1700s, the great French chemist Antoine Lavoisier and many others thought heat was an invisible, weightless liquid called 'caloric', which flowed out of hot things into cold ones. His wife Marie-Anne worked beside him. She recorded his experiments, drew the pictures for his famous chemistry book of 1789, and translated science papers from English for him. In 1798, Count Rumford was in charge of making cannons in Munich. Horses turned a blunt drill to hollow out a cannon, and the metal got very hot. Rumford put the cannon in water, and after about two and a half hours of drilling the water boiled. The heat kept coming for as long as the horses kept working. He argued that heat can't be a liquid stored in the metal, because it never ran out. He said heat comes from movement.",
+   "idea": "In the late 1700s, the great French chemist Antoine Lavoisier and many others thought heat was an invisible, weightless fluid called 'caloric'. A fluid is something that flows, like water or air. They thought caloric flowed out of hot things into cold ones. His wife Marie-Anne worked beside him. She recorded his experiments, drew the pictures for his famous chemistry book of 1789, and translated science papers from English for him. In 1798, Count Rumford was in charge of making cannons in Munich. Horses turned a blunt drill to hollow out a cannon, and the metal got very hot. Rumford put the cannon in water, and after about two and a half hours of drilling the water boiled. The heat kept coming for as long as the horses kept working. He argued that heat can't be a fluid stored in the metal, because it never ran out. He said heat comes from movement.",
    "then": "Many scientists kept the caloric idea for decades, because it explained a lot, such as heat flowing from hot to cold. In 1805 Rumford married Marie-Anne Lavoisier, after Antoine had been executed in the French Revolution, though the marriage was unhappy and did not last.",
-   "now": "Rejected. By the 1850s scientists agreed that heat is not a liquid. It is energy: the jiggling of the tiny particles that everything is made of. Lavoisier's other work, on burning and on what substances are made of, is still the base of chemistry, and Marie-Anne is now remembered as part of it.",
+   "now": "Rejected. By the 1850s scientists agreed that heat is not a fluid. It is energy: the jiggling of the tiny particles that everything is made of. Lavoisier's other work, on burning and on what substances are made of, is still the base of chemistry, and Marie-Anne is now remembered as part of it.",
    "status": "rejected",
    "ask": "The caloric idea explained many things and was believed by great scientists. What one result made Rumford doubt it? What would you need to see before you gave up an idea you believed?",
    "day": 4
@@ -1232,15 +1232,15 @@
    },
    {
     "front": "Where did the energy in coal first come from?",
-    "back": "From the Sun. Coal formed from plants that grew in sunlight hundreds of millions of years ago."
+    "back": "From the Sun. Coal formed from plants that grew in sunlight millions of years ago."
    }
   ]
  },
  "big": [
   "If energy is never made or destroyed, where was the energy in your body before you were born?",
-  "Nearly all the energy in your food came from the Sun. In what way are you made of sunlight, and in what way are you not?",
+  "Nearly all the energy in your food came from the Sun. Did the stuff your body is built from also come from the Sun? Where did it come from?",
   "Plants catch sunlight and every animal lives on what plants make. Who depends more on whom: people on plants, or plants on people?",
-  "Coal holds sunlight from hundreds of millions of years ago, and we are burning it in a few hundred years. Is that using it well? Who should decide?",
+  "Coal holds energy from sunlight that fell millions of years ago, and we are burning it in a few hundred years. Is that using it well? Who should decide?",
   "Nobody knows what energy really is, only what it does. Can we understand something we can't see, only by what it does?"
  ],
  "challenge": [
@@ -1295,7 +1295,7 @@
    "author": "William Kamkwamba and Bryan Mealer",
    "for": "read together",
    "age": "5–9",
-   "why": "The true story of a boy in Malawi who built a windmill from scrap to bring electricity to his family's farm."
+   "why": "The true story of a boy in Malawi who built a windmill from scrap to bring electricity to his family's home."
   },
   {
    "title": "Why Should I Save Energy?",
@@ -1328,7 +1328,7 @@
    "Chitra answered. 'The rice plant made their food in the sunlight. The energy in every grain was sunlight first.'",
    "Kavya sat up straight. 'So I'm grinding with sunlight.' She pointed at the kitchen. 'And the wet grinder? Where does the electricity come from?'",
    "Her father thought. 'Some of it from the power stations at Ennore, on the coast. They burn coal there.'",
-   "'Mrs Iyer at school said coal is made of plants that died a very long time ago,' said Kavya. 'Hundreds of millions of years ago. Before the dinosaurs.' She looked at me, and then at the kitchen, and then at her own arms. 'So the machine grinds with very old sunlight, and I grind with new sunlight. It's the same thing, passed along.'",
+   "'Mrs Iyer at school said coal is made of plants that died a very long time ago,' said Kavya. 'Millions of years ago.' She looked at me, and then at the kitchen, and then at her own arms. 'So the machine grinds with very old sunlight, and I grind with new sunlight. It's the same thing, passed along.'",
    "Her father laughed. 'You're teaching me now.'",
    "'You should listen,' said Chitra.",
    "Kavya picked up the kuzhavi's handle again. She went slower now, and steadier, the way the old women used to. I felt the batter turning smooth against my sides, and the warmth of her hands on the stone.",

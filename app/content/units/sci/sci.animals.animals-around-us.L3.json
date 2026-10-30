@@ -2143,10 +2143,10 @@
     },
     {
      "t": "write",
-     "p": "Why do we watch an animal on many days, not just once?",
+     "p": "Every habit helps an animal with something they need: food, safety, rest, or keeping cool. Pick one habit you have seen, and say which need it helps with, and how.",
      "lines": 3,
-     "a": "One watch shows only what the animal did that one time. Watching on many days shows what they usually do. Then we can find their habits, and one odd day cannot fool us.",
-     "why": "A strong answer says that a habit is a pattern, and a pattern only shows up after many watches."
+     "a": "For example: crows rest in the shade at noon. This helps them keep cool, because noon is the hottest time, and resting saves water and energy.",
+     "why": "A strong answer names a real habit, picks the need it serves, and explains the link. Habits are not random: they follow food, heat and danger."
     },
     {
      "t": "perspective",
@@ -2442,7 +2442,7 @@
      "views": [
       {
        "who": "Many people",
-       "says": "Mobile phone towers are killing the sparrows."
+       "says": "Sparrows began to vanish around the same years that mobile phone towers went up. So the towers must be killing them."
       },
       {
        "who": "One group of bird scientists",
@@ -2455,7 +2455,7 @@
      ],
      "ask": "Which idea has the best evidence, do you think? Give a reason. Then say what you could test or count to check one of the other ideas.",
      "lines": 5,
-     "a": "A strong answer weighs evidence. Studies have not found strong evidence that towers harm sparrows. Nest boxes in new buildings often bring sparrows back, which supports the nesting idea. Counting insects near busy and empty nests could test the food idea. Both scientists' ideas may be true together.",
+     "a": "A strong answer weighs evidence. Two things happening in the same years does not prove one caused the other, and studies have not found strong evidence that towers harm sparrows. Nest boxes in new buildings often bring sparrows back, which supports the nesting idea. Counting insects near busy and empty nests could test the food idea. Both scientists' ideas may be true together.",
      "why": "This is still debated. A good answer does not just repeat a popular idea. It asks what evidence there is, and how to get more."
     },
     {
@@ -2468,7 +2468,7 @@
       },
       {
        "who": "Vidya Athreya, a real scientist who studies leopards near people",
-       "says": "Leopards that were caught and moved often came back, or got into more trouble in the new place. Clear the rubbish that feeds stray dogs, keep lights on, and keep children in after dark."
+       "says": "Leopards who were caught and moved often came back, or got into more trouble in the new place. Clear the rubbish that feeds stray dogs, keep lights on, and keep children in after dark."
       },
       {
        "who": "A Warli woman whose family has lived beside the forest for generations",

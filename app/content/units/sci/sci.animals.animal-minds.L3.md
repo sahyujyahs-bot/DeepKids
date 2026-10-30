@@ -609,24 +609,24 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 14. (perspective) Meenakshi's dog Rani has chewed a chappal. Rani's head is low and her ears are back. People explain this look in different ways.  
    **Answer:** A strong answer picks a side and uses evidence, for example Horowitz's test, or what the child has seen dogs do. It also admits a fair point from another side, for example that the dog clearly feels something, even if we do not know exactly what.. *Why:* Scientists agree that dogs feel fear and worry. Whether they feel guilt, which means knowing they broke a rule, is still argued about.
 15. (match) Match each animal to what scientists saw them do.  
-   **Answer:** New Caledonian crow → bent a wire into a hook; Chimpanzee → fished for termites with a grass stem; Rook → dropped stones to raise water; Dog → followed a pointing finger. *Why:* Each of these was found in careful tests or long watching by scientists.
+   **Answer:** New Caledonian crow → bent a wire into a hook; Egyptian vulture → threw stones to crack an ostrich egg; Rook → dropped stones to raise water; Dog → followed a pointing finger. *Why:* Each of these was found in careful tests or long watching by scientists.
 ### Testing Animal Minds (stretch) (stretch, 15 questions)
-1. (mcq) In the Clever Hans test, the guesser got 8 out of 10 when the helper knew, and 3 out of 10 when the helper did not know. What does this show?  
-   Options: The guesser is magic / The helper's face gave clues without meaning to / 3 cups is too many / The coin was lucky  
-   **Answer:** The helper's face gave clues without meaning to. *Why:* When the helper knew, tiny face changes gave clues. Without them, the guesser was only lucky about 1 time in 3. Picking 'lucky coin' misses that the only thing changed was whether the helper knew.
-2. (fill) With 3 cups, a lucky guess is right about 1 time in ____.  
-   **Answer:** ['3', 'three']. *Why:* There are 3 cups and one coin, so a random pick is right about 1 time in 3. In 10 tries, that is about 3 right.
+1. (mcq) Look at the chart. The guesser got 8 out of 10 when the helper knew, and 3 out of 10 when the helper did not know. What does the blind round tell us?  
+   Options: 3 out of 10 is about what lucky guessing gives with 3 cups, so without face clues the guesser had no other way to know / The guesser was having a bad day / The guesser can see through cups / The blind round is not needed  
+   **Answer:** 3 out of 10 is about what lucky guessing gives with 3 cups, so without face clues the guesser had no other way to know. *Why:* With 3 cups, a lucky guess is right about 1 time in 3, which is about 3 in 10. In the blind round the guesser did no better than luck. So the 8 out of 10 must have come from the helper's face. Picking 'bad day' is possible once, but repeating the test would show the same pattern.
+2. (fill) Learning by trying again and again, and keeping what works, is called trial and ____.  
+   **Answer:** ['error']. *Why:* Trial and error. A cat in a puzzle box tries many things, and gets faster each time at the one that opens the door.
 3. (truefalse) A bigger brain always means a cleverer animal.  
    **Answer:** False. *Why:* Elephants and whales have bigger brains than us. Crows have small brains packed with neurons, and they make tools. What matters is more than size.
 4. (match) Match each scientist to what they found.  
    **Answer:** Jane Goodall → chimpanzees make tools from grass stems; Oskar Pfungst → Clever Hans was reading faces; Nicola Clayton → jays remember what, where and when; Anindita Bhadra → many street dogs in India follow pointing. *Why:* Each of these scientists watched or tested animals carefully. Jane Goodall, Nicola Clayton and Anindita Bhadra are women who changed how we see animal minds.
 5. (sort) Sort these. Is it LEARNING, MEMORY, PLAY or TOOL USE?  
-   **Answer:** a jay finding seeds they hid months ago → Memory; a bumblebee rolling a ball for no reward → Play; a sea otter cracking a shell on a stone → Tool use; a dog getting faster at a puzzle feeder → Learning; a chimpanzee fishing termites with a stem → Tool use; goats leaping and twisting in a field → Play. *Why:* Learning changes what an animal does, memory keeps it, play is for fun, and tool use means using an outside object for a job.
+   **Answer:** a jay finding seeds they hid months ago → Memory; a bumblebee rolling a ball for no reward → Play; a sea otter cracking a shell on a stone → Tool use; a dog getting faster at a puzzle feeder → Learning; a dolphin carrying a sea sponge on their nose to dig in the sand → Tool use; goats leaping and twisting in a field → Play. *Why:* Learning changes what an animal does, memory keeps it, play is for fun, and tool use means using an outside object for a job.
 6. (write) In Crow Friends, the first crow came after 22 minutes on day 1, and after only 3 minutes on day 7. Give two possible reasons. Then say how you could find out which reason is right.  
    **Answer:** For example: the crows learned that the place and the person were safe, or more crows simply found out about the food. To tell, I could keep everything the same but wear a different cap, or put the rice out at a new place.. *Why:* A changing number can have more than one cause. A fair test changes one thing at a time to find out which cause matters.
-7. (mcq) In the Crow Friends project, what would be a fair test of whether crows know your cap?  
-   Options: Change the time and the place and the cap / Keep the time and place the same, and wear a different cap / Stop feeding them  
-   **Answer:** Keep the time and place the same, and wear a different cap. *Why:* In a fair test, you change only one thing. If the crows act differently with a new cap, the cap mattered. Changing everything at once makes it impossible to tell which change mattered.
+7. (mcq) Nicola Clayton's team let a scrub jay hide food while another jay watched. Later, when she was alone, the hider dug up her food and hid it again somewhere new. Why might she do this?  
+   Options: The watcher might steal it, so she moved it where the watcher had not seen / She forgot where she put it / Jays always move their food twice / She wanted the exercise  
+   **Answer:** The watcher might steal it, so she moved it where the watcher had not seen. *Why:* Jays who had been watched moved their food much more often than jays who hid alone. This suggests a jay can keep track of who saw what. Jays who had stolen food themselves did this the most. Picking 'forgot' cannot be right, because she went straight to her hiding places.
 8. (write) Clever Hans could not do sums. Was he clever? Give your reason.  
    **Answer:** Any reasoned answer, for example: yes, because he could read tiny face changes that people did not even know they made.. *Why:* Reading faces is a real skill. The story shows animals can be clever in ways we do not think to test.
 9. (mcq) An octopus has about two thirds of their neurons in their arms. What does this mean?  
@@ -647,23 +647,22 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
    Options: The dog gets a small reward for each step closer, so they learn step by step / The dog is born knowing how to roll over / The dog learns by being told the whole action in words  
    **Answer:** The dog gets a small reward for each step closer, so they learn step by step. *Why:* Animal trainers reward each small step, like lying down, then rolling to one side, then all the way over. The learner in the game did the same with claps. Picking 'born knowing' mixes learning up with instinct.
 ### Minds, Brains and Big Puzzles (challenge) (challenge, 15 questions)
-1. (mcq) Neurons pass signals using charged atoms of which substances?  
-   Options: Sodium and potassium, like in salt and bananas / Iron and copper, like in wires / Sugar and flour  
-   **Answer:** Sodium and potassium, like in salt and bananas. *Why:* Neuron signals are made by charged sodium and potassium atoms moving in and out of the cell. Picking 'iron and copper' comes from thinking of electric wires, but the brain's electricity is carried by salts in water.
+1. (write) People say 'bird brain' to mean someone is silly. Using what you learned about crows and jays in this unit, is that fair? Give two pieces of evidence.  
+   **Answer:** Not fair. For example: Betty the crow bent a wire into a hook, crows remember a human face for years, and jays remember where they hid food. A crow's small brain is packed tightly with neurons.. *Why:* The saying comes from the idea that a small brain must be a simple one. A strong answer gives real tests from the unit, not just an opinion.
 2. (fill) Your brain has about 86 ____ neurons.  
    **Answer:** ['billion']. *Why:* About 86 billion. Suzana Herculano-Houzel and her team counted them by dissolving brains into a soup and counting the cell centres.
 3. (mcq) Our last shared ancestor with octopuses lived more than 500 million years ago, and was a small worm-like animal. What does this suggest?  
    Options: Clever minds grew more than once, on different branches of life / Octopuses are our close cousins / Octopuses copied humans  
-   **Answer:** Clever minds grew more than once, on different branches of life. *Why:* Octopuses and crows became clever on very different branches from us. So minds may have grown up at least twice. Picking 'close cousins' misses how long ago we split.
+   **Answer:** Clever minds grew more than once, on different branches of life. *Why:* Octopuses became clever on a very different branch of life from us. So clever minds may have grown up more than once. Picking 'close cousins' misses how long ago we split.
 4. (perspective) Thinkers have disagreed for hundreds of years about whether animals feel.  
    **Answer:** A strong answer picks a side and gives evidence, for example a scared dog's tucked tail, or bumblebees rolling balls for no reward. It answers back fairly, for example that we cannot see feelings directly, only what animals do.. *Why:* Most scientists today agree that mammals and birds feel, and many think other animals do too. How to test feelings is still argued about.
-5. (mcq) Why might the mirror test be unfair to dogs?  
+5. (mcq) In the mirror test, a mark is put on an animal where they can see it only in a mirror. If they touch the mark, they seem to know the mirror shows themselves. Why might this test be unfair to dogs?  
    Options: Dogs live mainly by smell, so a test for eyes may miss what they know / Dogs are too big for mirrors / Dogs hate mirrors  
    **Answer:** Dogs live mainly by smell, so a test for eyes may miss what they know. *Why:* Alexandra Horowitz showed dogs know their own smell. A test that suits one animal's senses may not suit another's. Picking 'too big' misses the real problem: the test uses sight.
-6. (truefalse) A bumblebee rolled balls even when there was no food reward.  
-   **Answer:** True. *Why:* Scientists in London found this in 2022. Young bees rolled balls the most. It looks a lot like play.
-7. (match) Match each tool to its user.  
-   **Answer:** stone thrown at an ostrich egg → Egyptian vulture; stem for termites → chimpanzee; twig hook for grubs → New Caledonian crow; stone for cracking shellfish → sea otter. *Why:* Tool use has been found in many very different animals, not just apes.
+6. (truefalse) A goldfish remembers things for only three seconds.  
+   **Answer:** False. *Why:* False. Goldfish have been trained to push a lever or swim to a colour for food, and they still remembered months later. The three-second story is a popular saying, not a test result.
+7. (sort) Sort these. Can scientists see and measure it now, or can we only guess at it for now?  
+   **Answer:** how fast a crow solves a puzzle → Can measure; how long a jay remembers a hiding place → Can measure; whether a dog follows pointing → Can measure; what it feels like to be a bat → Can only guess, for now; whether a bee enjoys rolling a ball → Can only guess, for now; what a fish feels when hooked → Can only guess, for now. *Why:* We can measure what animals do. What they feel inside cannot yet be measured, only guessed from what they do. That is why feelings in animals are still argued about.
 8. (mcq) Sarah Jelbert and her team gave New Caledonian crows a choice. A treat floated in a tube of water, and another treat sat on top of a tube of sand. The crows could drop stones into either tube. Which did the crows choose more often?  
    Options: The water tube, because stones raise water but not sand / The sand tube, because sand is easier to see / Both tubes the same  
    **Answer:** The water tube, because stones raise water but not sand. *Why:* Dropping stones into water raises the water, and the treat comes up. Sand does not rise in the same way. The crows chose the water tube more often, so they seemed to understand what the stones would do.
@@ -677,7 +676,7 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
    **Answer:** Pigeons can learn general patterns, not just single pictures. *Why:* The pigeons sorted new paintings correctly, so they had learned a pattern of style. Picking 'love art' is fun, but the test measured learning, not liking.
 12. (truefalse) Most children pass the mirror test by about age two.  
    **Answer:** True. *Why:* Babies younger than about 18 months usually do not touch the mark. By about two years old, most do.
-13. (write) Your friend Tanvi says her parrot can count to three. Design a blind test to check. What must be true about the person asking the questions?  
+13. (write) Your friend Selvi says her parrot can count to three. Design a blind test to check. What must be true about the person asking the questions?  
    **Answer:** For example: put 1, 2 or 3 groundnuts under a cloth, and let someone who did not see how many count out the answer with the parrot. The person asking must not know the answer, so they cannot give clues by mistake, as with Clever Hans.. *Why:* In a blind test, nobody near the animal knows the answer. Then any right answers must come from the animal.
 14. (draw) Draw what you think is happening inside a crow's brain as they bend a wire. Show neurons passing a signal.  
    **Answer:** A crow's head with many tiny neurons joined by lines, with sparks or arrows moving along them.. *Why:* In a brain, every thought comes with neurons passing tiny electric signals to each other. Drawing a model helps us picture what we cannot see.
@@ -708,9 +707,9 @@ Hans lowered his head and blew warm air into her hands. Then he waited, the way 
 6. (mcq) Scientists showed dogs photos of human faces. What could the dogs learn to tell apart?  
    Options: Happy faces and angry faces / Old photos and new photos / Nothing at all  
    **Answer:** Happy faces and angry faces. *Why:* In 2015, dogs in Vienna learned to tell happy from angry faces, even of strangers.
-7. (mcq) In the thirsty crow test, why must we fill the glass to the same starting line each time?  
-   Options: To make it a fair test / To save water / Because crows like full glasses  
-   **Answer:** To make it a fair test. *Why:* If the water starts at different levels, we cannot compare the counts. Change only one thing at a time.
+7. (mcq) In the Crow Friends project, what would be a fair test of whether crows know your cap?  
+   Options: Change the time and the place and the cap / Keep the time and place the same, and wear a different cap / Stop feeding them  
+   **Answer:** Keep the time and place the same, and wear a different cap. *Why:* In a fair test, you change only one thing. If the crows act differently with a new cap, the cap mattered. Changing everything at once makes it impossible to tell which change mattered.
 8. (mcq) Clever Hans got sums wrong when the asker did not know the answer. Why?  
    Options: He was tired / He could no longer read the answer from the asker's face / The sums were harder  
    **Answer:** He could no longer read the answer from the asker's face. *Why:* Hans read tiny relaxations in the asker's face. With no answer to give away, he had no clue. This is why scientists use blind tests.

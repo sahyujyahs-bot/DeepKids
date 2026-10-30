@@ -1099,10 +1099,6 @@
      "p": "Match each guard to what it keeps out.",
      "pairs": [
       [
-       "Eyebrows",
-       "sweat and rain running into the eyes"
-      ],
-      [
        "Earwax",
        "dust and tiny insects in the ear"
       ],
@@ -1222,10 +1218,10 @@
     },
     {
      "t": "draw",
-     "p": "Draw a cut-away of an ear. Show the funnel, the ear canal, the wax and the eardrum. Draw an arrow for which way the wax moves.",
-     "how": "a6",
-     "a": "Funnel on the outside, a tube going in, wax in the tube, the eardrum at the end, an arrow pointing outwards.",
-     "why": "Wax moves outwards, helped by the jaw moving. That is why ears mostly clean themselves."
+     "p": "Draw yourself after running on a hot day. Show where the sweat comes out of your skin. Draw arrows to show what happens to your body's heat as the sweat dries.",
+     "a": "Drops of sweat on the forehead, face and arms, coming out of tiny holes called pores. Arrows show heat leaving the skin as the sweat dries into the air.",
+     "why": "Sweating is one of the skin's jobs. Drying sweat takes heat away with it, so the skin cools. A strong drawing shows sweat coming from the skin itself and heat leaving as it dries.",
+     "art": "An empty outline of a child in running clothes, with a sun in the corner."
     },
     {
      "t": "write",
@@ -1344,8 +1340,8 @@
      "p": "Some old Indian books describe cleaning teeth with neem twigs. Fluoride toothpaste is newer. Some people say old ways are always best, and some say new ways are always best. How could you find out which cleans better?",
      "lines": 4,
      "how": "e3",
-     "a": "A fair test: some people use twigs and some use fluoride toothpaste for weeks, with everything else the same, and a dentist counts holes and germs. At home, I could coat one eggshell with neem paste and one with toothpaste, and put both in vinegar.",
-     "why": "Scientists test old and new ways fairly, instead of trusting what is old or what is new. A strong answer changes only one thing."
+     "a": "A fair test: some people use twigs and some use fluoride toothpaste for weeks, with everything else the same, and a dentist counts holes and germs. At home, I could coat one eggshell with neem paste and one with toothpaste, and put both in vinegar. That only tests protection from acid, not from germs.",
+     "why": "Scientists test old and new ways fairly, instead of trusting what is old or what is new. A strong answer changes only one thing, and says what its test can and cannot show."
     },
     {
      "t": "write",
@@ -2792,15 +2788,15 @@
   },
   {
    "t": "mcq",
-   "p": "Which external organ helps you both breathe and smell?",
+   "p": "Anjali has a cold, and her nose is blocked. Her favourite dosa suddenly tastes dull. Why?",
    "opts": [
-    "The nose",
-    "The ears",
-    "The eyes",
-    "The feet"
+    "Much of what we call taste is really smell, and her blocked nose can't smell the food",
+    "Colds make the dosa go bad",
+    "Her tongue has stopped working for ever",
+    "Dosa only tastes good on sunny days"
    ],
    "a": 0,
-   "why": "The nose takes in air and smells. Its hairs and mucus also trap dust.",
+   "why": "The tongue tastes only sweet, salty, sour, bitter and savoury. The nose picks up all the rest of the flavour. External organs work as a team, so when one is blocked, another seems to stop working too.",
    "outcome": 0
   },
   {

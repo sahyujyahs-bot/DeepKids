@@ -101,7 +101,7 @@
      "kind": "outdoor",
      "title": "Watch the ants eat",
      "mins": 10,
-     "do": "Put 4 grains of sugar and 4 grains of raw rice on a small piece of paper, near a place where you have seen ants: the edge of a kitchen counter, a balcony or a window sill. Ask first: 'Which will the ants find first, sugar or rice? Why?' Watch together for 10 minutes. Ants usually find the sugar first and carry it away. Say: 'Ants carry food back to their nest and share it with the other ants.' Then point to a potted plant. Ask: 'Does the plant eat?' Say: 'Plants make their own food inside their leaves, using sunlight, air and water. Ants, crows, cows and people cannot. We have to eat.' If no ants come, look out of the window for a crow or a pigeon looking for food, and talk about what they eat."
+     "do": "Put a pinch of sugar and a few grains of raw rice on a small piece of paper, near a place where you have seen ants: the edge of a kitchen counter, a balcony or a window sill. Ask first: 'Which will the ants find first, sugar or rice? Why?' Watch together for 5 minutes, and look again at the end of the lesson. Ants usually find the sugar first and carry it away. Say: 'Ants carry food back to their nest and share it with the other ants.' Then point to a potted plant. Ask: 'Does the plant eat?' Say: 'Plants make their own food inside their leaves, using sunlight, air and water. Ants, crows, cows and people cannot. We have to eat.' If no ants come, look out of the window for a crow or a pigeon looking for food, and talk about what they eat."
     },
     {
      "kind": "do",
@@ -118,7 +118,7 @@
    ],
    "need": [
     "a baby photo of your child or a small old shirt",
-    "a few grains of sugar and raw rice",
+    "a pinch of sugar and a few grains of raw rice",
     "a small piece of paper",
     "soap and water",
     "six sheets of paper, a stapler, crayons"
@@ -153,7 +153,7 @@
      "kind": "talk",
      "title": "M. S. Swaminathan and the farmers",
      "mins": 8,
-     "do": "Tell your child about Voice v1. Say: 'About sixty years ago, India could not grow enough grain. Many families went hungry. A scientist named M. S. Swaminathan, born in Kumbakonam in Tamil Nadu, worked with farmers to grow new kinds of wheat and rice that gave much more grain. Soon India grew enough to feed its people.' Ask: 'Who did the work in the fields?' (The farmers, many of them women.) Say: 'He got many prizes. The millions of farmers who grew the grain did not get prizes, but without them there would be no food.' Ask the voice question.",
+     "do": "Tell your child about Voice v1. Say: 'About sixty years ago, India could not grow enough grain. Many families went hungry. A scientist named M. S. Swaminathan, born in Kumbakonam in Tamil Nadu, worked with farmers to grow new kinds of wheat and rice that gave much more grain. Soon India grew enough to feed its people.' Ask: 'Who did the work in the fields?' (The farmers, many of them women.) Ask the voice question.",
      "ref": "v1"
     }
    ],
@@ -171,7 +171,7 @@
      "kind": "warmup",
      "title": "The plant plate",
      "mins": 3,
-     "do": "Ask: 'Yesterday, which plate had the most food on it?' (The plant plate.) Ask: 'A plant has roots, a stem, leaves, flowers, fruits and seeds. Which part do you think we eat?' Let them guess. Say: 'Let us find out. The answer may surprise you.'"
+     "do": "Ask: 'Yesterday, which plate had the most food on it?' (The plant plate.) Ask: 'A plant has roots, a stem, leaves, flowers, fruits and seeds. Which part do you think we eat?' Let them guess. Say: 'Let us find out.'"
     },
     {
      "kind": "act",
@@ -215,7 +215,7 @@
      "kind": "exp",
      "title": "Water in your breath",
      "mins": 12,
-     "do": "Do Experiment e1. First ask: 'When you breathe out on a cold mirror, what will you see? Why?' Write down the guess. Then your child breathes slowly onto a mirror, or onto a steel plate kept in the fridge for 10 minutes. A misty patch appears and then fades. Rub a finger on it: it is a little wet. Ask: 'Where did the water come from?' (From inside me, in my breath.) Then feel the forehead after jumping 20 times: a little sweat. Lick the back of your hand after a hot day, or after the jumps: sweat tastes a little salty.",
+     "do": "Do Experiment e1. First ask: 'When you breathe out on a cold mirror, what will you see? Why?' Write down the guess. Then your child breathes slowly onto a mirror, or onto a steel plate kept in the fridge for 10 minutes. A misty patch appears and then fades. Rub a finger on it: it is a little wet. Ask: 'Where did the water come from?' (From inside me, in my breath.) Then your child jumps 20 times and feels their forehead. It may be a little damp with sweat, which also carries water out of the body.",
      "ref": "e1"
     },
     {
@@ -226,9 +226,9 @@
     },
     {
      "kind": "do",
-     "title": "My water bottle chart",
+     "title": "My water glasses chart",
      "mins": 7,
-     "do": "Draw six empty glasses in a row on a page of the food book. Each time your child drinks a glass of water today and tomorrow, they colour one glass blue. Say: 'Most children your age need about five or six glasses of water and other drinks a day, and more on hot days or after playing.' Drink one glass together now, and colour the first glass."
+     "do": "Draw six empty glasses in a row on a page of the food book. Each time your child drinks a glass of water today, they colour one glass blue. Say: 'Most children your age need about five or six glasses of water and other drinks a day, and more on hot days or after playing.' Drink one glass together now, and colour the first glass."
     }
    ],
    "need": [
@@ -392,7 +392,7 @@
      "kind": "talk",
      "title": "Clara Davis and the babies",
      "mins": 7,
-     "do": "Tell your child about Voice v3. Say: 'About a hundred years ago, a children's doctor in America named Clara Davis let some babies choose their own food. At every meal they were offered many plain foods, like milk, fruit, vegetables, grains, eggs and meat. Some days a baby ate only bananas. But over weeks, each baby ate a good mix and grew well.' Ask: 'There were no sweets or chips on the table. Would the babies have chosen so well if there were?' Ask the voice question.",
+     "do": "Tell your child about Voice v3. Say: 'About a hundred years ago, a children's doctor in America named Clara Davis let some babies choose their own food. At every meal they were offered many plain foods, like milk, fruit, vegetables, grains, eggs and meat. Some days a baby ate a lot of just one food. But over weeks, each baby ate a good mix and grew well.' Ask: 'There were no sweets or chips on the table. Would the babies have chosen so well if there were?' Ask the voice question.",
      "ref": "v3"
     },
     {
@@ -506,7 +506,7 @@
       },
       {
        "t": "mcq",
-       "p": "Farhan has played football for an hour. He is hot and thirsty. Which drink is best for him?",
+       "p": "Farhan, a boy in Class 1, has played football for an hour. He is hot and thirsty. Which drink is best for him?",
        "opts": [
         "a glass of water",
         "a bottle of cola",
@@ -589,7 +589,7 @@
      [
       {
        "t": "mcq",
-       "p": "Kavya stirs a spoon of sugar into a glass of water. Soon she cannot see the sugar. Where is it?",
+       "p": "Kavya, a girl in Class 1, stirs a spoon of sugar into a glass of water. Soon she cannot see the sugar. Where is it?",
        "opts": [
         "still in the water, broken into pieces too tiny to see",
         "gone, because it turned into air",
@@ -621,7 +621,7 @@
      [
       {
        "t": "write",
-       "p": "It is Onam. Divya's grandmother has made a big pot of payasam, a sweet made with milk, rice and jaggery. Divya's grandmother says: 'Payasam is part of our festival. We cook it together and share it with everyone.' Divya's dentist says: 'Sugar feeds the germs on your teeth. Too much sweet food makes holes in them.' Who do you agree with? Can they both be right? Use what you saw in the eggshell test. Then say what the other person would answer back.",
+       "p": "It is Onam. Divya, a girl in Class 1, has a grandmother who made payasam, a sweet of milk, rice and jaggery. Grandmother says: 'Payasam is part of our festival, and we share it.' Divya's dentist says: 'Sugar feeds the germs that make holes in teeth.' Who do you agree with? Can they both be right? Use the eggshell test. Then say what the other person would answer.",
        "lines": 3,
        "a": "A strong answer sees that both have a point: a sweet on a festival is a treat to share, and sugar every day harms teeth. It may say Divya can enjoy payasam on Onam, then rinse her mouth and brush at night."
       },
@@ -662,7 +662,7 @@
       },
       {
        "t": "mcq",
-       "p": "Lakshmi eats her lunch very fast. Afterwards her tummy feels too full and uncomfortable. What could she try next time?",
+       "p": "Lakshmi, a girl in Class 1, eats her lunch very fast. Afterwards her tummy feels too full and uncomfortable. What could she try next time?",
        "opts": [
         "Eat slowly, so her tummy has time to tell her brain it is full.",
         "Eat even faster.",
@@ -728,7 +728,7 @@
      [
       {
        "t": "write",
-       "p": "About a hundred years ago, a doctor named Clara Davis let some babies choose their own food from many plain foods. Over many weeks they chose a good mix. Gita, a girl in Class 1 says: 'If I could pick anything, my body would choose what it needs, just like those babies.' Gita's mother says: 'Those babies could only choose healthy foods. If jalebi and chips were on the table, would they still choose well?' Who do you agree with? What test could you do to find out? Then say what the other person would answer back.",
+       "p": "About a hundred years ago, a doctor named Clara Davis let some babies choose their own food from many plain foods. Over many weeks they chose a good mix. Gita, a girl in Class 1, says: 'If I could pick anything, my body would choose what it needs, like those babies.' Her mother says: 'Those babies only had healthy foods to choose from. Would they choose well if jalebi and chips were there too?' Who do you agree with? How could you find out? Then say what the other person would answer.",
        "lines": 3,
        "a": "A strong answer picks a side and gives a reason, and notices that the babies had no sweets or chips to choose from. A very strong answer suggests a fair test, such as offering the same babies plain foods and sweets, and says it would be hard to do kindly."
       },
@@ -767,7 +767,7 @@
    ],
    "predict": "Ask your child to guess first: 'When you breathe out on a cold mirror, what will you see? Why do you think so?'",
    "observe": "A misty patch appears where the breath touched the mirror, then fades in a few seconds. The finger feels a little wet. After jumping, the forehead may be damp with sweat.",
-   "why": "The air you breathe out carries water from inside your body, as a gas too fine to see. When it touches the cold mirror, the water gas cools and turns back into tiny drops, which we see as mist. You breathe out water all day and all night. You also lose water when you sweat and when you go to the toilet. That is why you need to drink every day.",
+   "why": "The air you breathe out carries water from inside your body, as water vapour, a gas you cannot see. When it touches the cold mirror, the vapour cools and turns back into tiny drops, which we see as mist. This is called condensation. You breathe out water all day and all night. You also lose water when you sweat and when you go to the toilet. That is why you need to drink every day.",
    "safety": "If you use a steel plate from the fridge, take it out after 10 minutes, before it gets too cold to hold. Do not use the freezer.",
    "time": "12 min"
   },
@@ -969,7 +969,7 @@
    "You sip a sweet drink all morning. Go back 2.",
    "Question: why is water the best drink?",
    "You help to shell peas for dinner. Move on 2.",
-   "Question: tomato, bhindi or brinjal: which one is not a fruit? (All three are fruits!)",
+   "Question: why is a tomato called a fruit?",
    "You brush your teeth at bedtime. Move on 1.",
    "You eat your lunch very fast and get a tummy ache. Go back 1.",
    "Question: say one thing a farmer does to grow rice.",
@@ -1126,7 +1126,7 @@
    "In the evening she said to Selvi, 'Sundari is eating festival food every day. An elephant's body is made for plants: grass, leaves, branches and bark. In the forest, elephants walk and eat plants for most of the day and part of the night.'",
    "'But she loves the sweets,' said Selvi.",
    "'Everyone loves sweets,' said Dr. Revathi. 'That is why it is hard to stop.'",
-   "So when the hot months came, they took me on a long, bumpy ride in a truck to a camp in the forest by a river. I smelled the other elephants before I saw them. There were dozens of us, all temple elephants, all a little too heavy.",
+   "So one cool season, they took me on a long, bumpy ride in a truck to a camp in the forest by a river. I smelled the other elephants before I saw them. There were dozens of us, all temple elephants, all a little too heavy.",
    "In the forest there were no rice balls. There were no bananas on plates. There was tall grass, and bamboo, and leafy branches piled high.",
    "I sulked. I stood under a tree and did not eat. Selvi sat beside me and did not make me.",
    "An old elephant named Kamakshi walked past. She wrapped her trunk around a clump of grass and pulled it up, roots and all. She knocked the soil off against her knee, thump, thump, and put the grass in her mouth. She chewed slowly, looking at nothing, and then she pulled up another clump.",

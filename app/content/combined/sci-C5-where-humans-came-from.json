@@ -4,9 +4,9 @@
  "subj": "sci",
  "level": 5,
  "n": "where-humans-came-from",
- "title": "Where humans came from: fossils, footprints, tools and DNA",
+ "title": "Where humans came from, and how we know",
  "source": "DeepKids Combined, a DeepKids-only topic that no board covers. Class 5: humans as primates and great apes, the common ancestor with chimpanzees, hominins as a branching bush, walking upright before big brains (Lucy and the Laetoli footprints), how fossils are dated, the first stone tools, Homo erectus and fire, Homo sapiens in Africa, the spread to India (Attirampakkam, Jwalapuram, Bhimbetka), Neanderthals and Denisovans, DNA as a record, one human species, and evolution that has not stopped. No textbook needed.",
- "summary": "Chimpanzees did not turn into people. Humans and chimpanzees are cousins who share an ancestor who lived about 6 to 7 million years ago. Your child tapes down their thumbs to find out what a primate hand can do, makes their own footprints and compares them with footprints left in volcanic ash 3.66 million years ago, pours out the brain sizes of Lucy, Homo erectus and themselves in water, and lays a 7-metre time string along the flat. They meet the stone tools found near Chennai and in Kurnool, the other kinds of humans who lived at the same time as our ancestors, and the Neanderthal DNA that many people still carry. They weigh real debates: why our ancestors stood up, who made the tools under the Toba volcano's ash, and whether hunting or sharing made us human.",
+ "summary": "Chimpanzees did not turn into people. Humans and chimpanzees are cousins who share an ancestor who lived about 6 to 7 million years ago. Your child times two ways of picking up rice grains to find out what a precision grip is, works out their height from their own footprint and compares it with footprints left in volcanic ash 3.66 million years ago, works out how much of the body's energy a big brain uses, and lays a 7-metre time string along the flat. They meet the stone tools found near Chennai and in Kurnool, the other kinds of humans who lived at the same time as our ancestors, and the Neanderthal DNA that many people still carry. They weigh real debates: why our ancestors stood up, who made the tools under the Toba volcano's ash, and whether hunting or sharing made us human.",
  "subconcepts": [
   "humans are primates and great apes: gripping hands, nails, a thumb that meets the fingertips, and two forward-facing eyes",
   "a common ancestor: humans and chimpanzees are cousins who split about 6 to 7 million years ago, and neither came from the other",
@@ -24,7 +24,7 @@
   "one human species: skin colour and sunlight, and how alike all people are",
   "evolution has not stopped: digesting milk as an adult"
  ],
- "builds_on": "Class 4 'Where humans came from': humans are animals and primates, apes are our cousins, and the first humans lived in Africa. Class 5 'How life began' showed that every cell carries DNA and that mitochondria come only from the mother. This rung asks how we know: fossils, footprints, ash layers, stone tools and DNA from bones. It goes into the human bush, the spread to India, the other kinds of humans, and the real debates. Later classes take up genetics, natural selection and early history in more detail.",
+ "builds_on": "Class 4 'Where humans came from' covered humans as primates, the ancestor we share with chimpanzees, natural selection, Lucy and the Laetoli footprints, the taped-thumb test, the first tools, brain sizes, other kinds of humans and the walk to India. Class 5 'How life began' showed that every cell carries DNA and that mitochondria come only from the mother. This rung asks how we know: fossils, footprints, ash layers, stone tools and DNA from bones. It goes into the human bush, the spread to India, the other kinds of humans, and the real debates. Later classes take up genetics, natural selection and early history in more detail.",
  "goals": [
   "By the end your child can name the features humans share with other primates and explain what 'common ancestor' means, so they can say why humans did not come from chimpanzees.",
   "By the end your child can explain what Lucy and the Laetoli footprints show: our ancestors walked upright millions of years before their brains grew big.",
@@ -93,13 +93,13 @@
      "kind": "warmup",
      "title": "Remember Class 4",
      "mins": 7,
-     "do": "Ask these and wait for answers. 'Are humans animals?' (Yes. We breathe, eat, grow and have babies, like other animals.) 'Which animals are our closest cousins?' (Apes, especially chimpanzees.) 'Where did the first humans live?' (In Africa.) 'From the Class 5 lesson on how life began: who did your mitochondria come from?' (Only from your mother.) Then take a big sheet and write at the top: 'Where did humans come from, and how do we know?' Write down every idea your child has, without correcting. Keep the sheet for the last day."
+     "do": "Ask these and wait for answers. 'In Class 4 you taped your thumb down. Which jobs got hardest?' (Picking up a coin and doing buttons, because they need the thumb.) 'Did humans come from chimpanzees?' (No. We share an ancestor, so we are cousins.) 'Who was Lucy?' (A hominin who lived about 3.2 million years ago. She walked upright but had a small brain.) 'From the Class 5 lesson on how life began: who did your mitochondria come from?' (Only from your mother.) Then take a big sheet and write at the top: 'Where did humans come from, and how do we know?' Write down every idea your child has, without correcting. Keep the sheet for the last day."
     },
     {
      "kind": "exp",
-     "title": "The taped-thumb test",
+     "title": "Tip to tip: the precision grip",
      "mins": 15,
-     "do": "Do Experiment e1 together. First ask: 'Which of these jobs do you think will be hardest without your thumb: buttoning a shirt, picking up a coin, writing your name, or peeling a banana? Why?' Write the guess down. Time each job with the thumb free, then with the thumb taped. Then ask: 'What does your thumb do that your fingers cannot?' (It turns to meet the tips of the fingers, so you can pinch and hold small things firmly.) Say: 'This thumb that meets the fingertips is called an opposable thumb. Other primates have gripping hands too, and ours is especially good at fine work.'",
+     "do": "Do Experiment e1 together. First ask: 'Will it be faster to pick up rice grains with the tips of your thumb and finger, or with your thumb pressed against the side of your finger? Why?' Write the guess down. After the test, ask: 'Which grip dropped fewer grains?' (Usually tip to tip.) Say: 'Pressing the tip of the thumb against the tip of a finger is called a precision grip. Your thumb is long and can turn across the palm to do it. A thumb like this is called an opposable thumb. A chimpanzee's thumb is short compared with their fingers. So chimpanzees often hold small things in a side pinch, as you did in the second try.'",
      "ref": "e1"
     },
     {
@@ -118,10 +118,8 @@
    ],
    "need": [
     "a big sheet of paper",
-    "paper tape or cello tape",
-    "a shirt with buttons",
-    "a 1-rupee coin",
-    "a banana",
+    "20 grains of raw rice and a steel plate",
+    "a small katori or cup",
     "a pencil and paper",
     "2 pencils",
     "a phone or clock with a seconds hand"
@@ -136,7 +134,7 @@
      "kind": "warmup",
      "title": "Thumbs and eyes",
      "mins": 5,
-     "do": "Ask: 'Yesterday, which job was hardest with a taped thumb?' and 'Why could you touch the pencil tips easily with two eyes open?' (The two eyes together judge distance.) Ask: 'Name three features you share with a chimpanzee.' (Gripping hands, nails, forward-facing eyes, no tail, a long childhood.)"
+     "do": "Ask: 'Yesterday, which grip picked up rice faster, and why?' (Tip to tip, because your long thumb meets the fingertip.) and 'Why could you touch the pencil tips easily with two eyes open?' (The two eyes together judge distance.) Ask: 'Name three features you share with a chimpanzee.' (Gripping hands, nails, forward-facing eyes, no tail, a long childhood.)"
     },
     {
      "kind": "talk",
@@ -148,7 +146,7 @@
      "kind": "act",
      "title": "The 7-metre time string",
      "mins": 20,
-     "do": "Do Activity a1. Your child lays the string along a corridor or across two rooms and sticks on the labels. When they reach the end, ask: 'How long is the bit of string since our own species, Homo sapiens, appeared?' (30 centimetres out of 7 metres.) 'And since people began farming?' (About 1 centimetre.) Ask: 'What does this tell you about how new we are?'",
+     "do": "Do Activity a1. In Class 4 the time string was 3.5 metres. This one is 7 metres, so the newer events have more room. Your child lays the string along a corridor or across two rooms and sticks on the labels. When they reach the end, ask: 'How long is the bit of string since our own species, Homo sapiens, appeared?' (30 centimetres out of 7 metres.) 'And since people began farming?' (About 1 centimetre.) Ask: 'What does this tell you about how new we are?'",
      "ref": "a1"
     },
     {
@@ -161,13 +159,13 @@
    "need": [
     "a ball of string or thin rope at least 7 metres long (or newspaper strips taped end to end)",
     "a measuring tape or a 30-centimetre ruler",
-    "15 small paper labels and tape",
+    "17 small paper labels and tape",
     "a pen",
     "a big sheet of paper for the project"
    ],
    "prep": [
     {
-     "task": "Cut and write the 15 labels for the time string (Activity a1)",
+     "task": "Cut and write the 17 labels for the time string (Activity a1)",
      "when": "morning"
     }
    ]
@@ -181,13 +179,13 @@
      "kind": "talk",
      "title": "Lucy",
      "mins": 12,
-     "do": "Ask first: 'Which came first in our ancestors: walking on two legs, or a big brain? Why do you think so?' Wait for a guess and a reason. Then say: 'In 1974, in Ethiopia, Donald Johanson and his student Tom Gray found many pieces of one skeleton. She lived about 3.2 million years ago. The team named her Lucy, after a song they played in camp. In Ethiopia she is also called Dinkinesh, which means \"you are marvellous\" in Amharic. She belongs to a kind of hominin called Australopithecus afarensis.' Say: 'Lucy was only a little over 1 metre tall. Her brain was about the size of a chimpanzee's. But her hip and knee bones are shaped for walking upright. Walking on two legs is called being bipedal.' Ask: 'So which came first?' (Walking upright. Big brains came much later.) Your child adds a 'Lucy' card to the project bush."
+     "do": "Ask first: 'Which came first in our ancestors: walking on two legs, or a big brain? Why do you think so?' Wait for a guess and a reason. Then say: 'You met Lucy in Class 4. Here is more about her. In 1974, in Ethiopia, Donald Johanson and a student, Tom Gray, found many pieces of one skeleton. She lived about 3.2 million years ago. The team named her Lucy, after a song they played in camp. In Ethiopia she is also called Dinkinesh, which means \"you are marvellous\" in Amharic. She belongs to a kind of hominin called Australopithecus afarensis.' Say: 'Lucy was only a little over 1 metre tall. Her brain was about the size of a chimpanzee's. But her hip and knee bones are shaped for walking upright. Walking on two legs is called being bipedal.' Ask: 'So which came first?' (Walking upright. Big brains came much later.) Your child adds a 'Lucy' card to the project bush."
     },
     {
      "kind": "exp",
      "title": "Your footprints and the Laetoli footprints",
      "mins": 18,
-     "do": "Say: 'In 1978, a team led by Mary Leakey found footprints at Laetoli, in Tanzania. Two or three hominins had walked across wet volcanic ash about 3.66 million years ago. The ash set hard like cement, and later ash covered it.' Then do Experiment e3. Ask your child to guess first: 'How many times longer is your height than your foot?' After measuring, look at the prints together. Ask: 'Where is your big toe: in line with the other toes, or sticking out to the side like a thumb?' (In line.) Say: 'A chimpanzee's big toe sticks out to the side, for gripping branches. In the Laetoli prints, the big toe is in line with the others, like yours. So those hominins walked upright, as you do.'",
+     "do": "Say: 'In 1978, a team led by Mary Leakey found footprints at Laetoli, in Tanzania. Two or three hominins had walked across wet volcanic ash about 3.66 million years ago. The ash set hard like cement, and later ash covered it.' In Class 4 you looked at the shape of your wet footprint. Today you use footprints as evidence, the way scientists use the Laetoli prints to work out how tall those hominins were. Do Experiment e3. Ask your child to guess first: 'How many times longer is your height than your foot?' After measuring, look at the prints together. Ask: 'Where is your big toe: in line with the other toes, or sticking out to the side like a thumb?' (In line.) Say: 'A chimpanzee's big toe sticks out to the side, for gripping branches. In the Laetoli prints, the big toe is in line with the others, like yours. So those hominins walked upright, as you do.'",
      "ref": "e3"
     },
     {
@@ -233,7 +231,7 @@
      "kind": "talk",
      "title": "The first stone tools",
      "mins": 10,
-     "do": "Say: 'In 1960, Jane Goodall watched a chimpanzee at Gombe, in Tanzania, strip the leaves off a grass stem and poke it into a termite mound to fish out termites. Scientists had thought only humans made tools. She had no university degree yet when she began.' Ask: 'So is tool-making something only humans do?' (No.) Then say: 'The oldest stone tools found so far are from Lomekwi, in Kenya, about 3.3 million years old. Someone struck stones together to knock off sharp flakes. They are older than any known bones of our own group, Homo, so we don't know for sure who made them.' Ask: 'Why would a sharp stone flake matter so much?' (It can cut meat off bones, cut plants and scrape skins, things teeth and nails cannot do well.)"
+     "do": "Say: 'In Class 4 you heard how Jane Goodall, in 1960, watched a chimpanzee at Gombe, in Tanzania, fish termites out of a mound with a grass stem. He first stripped the leaves off the stem, so he was making a tool, not just using one.' Ask: 'So is tool-making something only humans do?' (No.) Then say: 'The oldest stone tools found so far are from Lomekwi, in Kenya, about 3.3 million years old. Someone struck stones together to knock off sharp flakes. They are older than any known bones of our own group, Homo, so we don't know for sure who made them.' Ask: 'Why would a sharp stone flake matter so much?' (It can cut meat off bones, cut plants and scrape skins, things teeth and nails cannot do well.)"
     },
     {
      "kind": "think",
@@ -252,20 +250,20 @@
   {
    "n": 5,
    "title": "Bigger brains, fire and sharing",
-   "goal": "Compare brain sizes, meet Homo erectus and the hand axes found near Chennai, test sweat cooling, and weigh whether hunting or sharing made us human.",
+   "goal": "Find out what a big brain costs, meet Homo erectus and the hand axes found near Chennai, test sweat cooling, and weigh whether hunting or sharing made us human.",
    "steps": [
     {
      "kind": "exp",
-     "title": "Brain sizes in water",
+     "title": "Feeding a big brain",
      "mins": 12,
-     "do": "Do Experiment e4. Ask first: 'How much bigger do you think your brain is than Lucy's?' After pouring, line up the three amounts and ask: 'When did the big jump happen?' (After Lucy, with Homo erectus and later humans.) Say: 'A bigger brain needs a lot of food. Your brain is about one-fiftieth of your body weight but uses about one-fifth of your energy.'",
+     "do": "Do Experiment e4. Ask first: 'Out of 20 groundnuts, how many do you think the human brain uses? Why?' Say: 'In Class 4 you poured brain sizes into bottles. Your brain is about 3 times as big as Lucy's. Today we find out what a big brain costs.' After the test, ask: 'What problem comes with a bigger brain?' (It needs much more food, every day.)",
      "ref": "e4"
     },
     {
      "kind": "talk",
      "title": "Homo erectus, the long walker",
      "mins": 12,
-     "do": "Say: 'About 1.9 million years ago, a new kind of human appears in Africa: Homo erectus. Their legs were long and their body was shaped much like ours. They were the first kind of human known to live outside Africa: in Georgia by about 1.8 million years ago, and later in China and Java.' Then say: 'In 1863, a British geologist, Robert Bruce Foote, found a stone hand axe at Pallavaram, in Chennai. It was one of the first such tools ever found in India. Later, at Attirampakkam, about 60 kilometres from Chennai, a team led by the archaeologist Shanti Pappu dated hand axes to about 1.5 million years ago. No bones were found there, but these tools are the kind Homo erectus made.' Then say: 'Fire: burnt bones and plant ash about 1 million years old have been found in Wonderwerk Cave, in South Africa. Fireplaces become common from about 400,000 years ago. Cooking makes food softer and easier to digest. The scientist Richard Wrangham thinks cooking helped brains grow bigger. Others say the dates do not fit well. This is still argued about.'"
+     "do": "Say: 'About 1.9 million years ago, a new kind of human appears in Africa: Homo erectus. Their legs were long and their body was shaped much like ours. Their brains were about twice the size of Lucy's. The oldest human bones found outside Africa are from Dmanisi, in Georgia, about 1.8 million years old. Homo erectus later lived in China and Java too.' Then say: 'Remember from Class 4: in 1863, a British geologist, Robert Bruce Foote, found a stone hand axe at Pallavaram, in Chennai. It was one of the first such tools ever found in India. Later, at Attirampakkam, about 60 kilometres from Chennai, a team led by the archaeologist Shanti Pappu dated hand axes to about 1.5 million years ago. No bones were found there, but these tools are the kind Homo erectus made.' Then say: 'Fire: burnt bones and plant ash about 1 million years old have been found in Wonderwerk Cave, in South Africa. Fireplaces become common from about 400,000 years ago. Cooking makes food softer and easier to digest. In Class 4 you heard Richard Wrangham's idea that cooking helped brains grow bigger. Others say the dates do not fit well. This is still argued about.'"
     },
     {
      "kind": "exp",
@@ -283,10 +281,11 @@
     }
    ],
    "need": [
-    "a measuring jug, or a 1-litre bottle and a 500 millilitre bottle",
-    "3 clear glasses or bottles",
-    "water",
+    "20 groundnuts, raisins or small biscuits on a plate",
+    "2 small katoris or bowls",
+    "labels and a pen",
     "a cotton handkerchief",
+    "a cup of water",
     "a newspaper or notebook to fan with"
    ]
   },
@@ -299,7 +298,7 @@
      "kind": "talk",
      "title": "Homo sapiens in Africa",
      "mins": 10,
-     "do": "Say: 'Our own species is called Homo sapiens. The oldest fossils of Homo sapiens found so far are from Jebel Irhoud, in Morocco, about 300,000 years old. They were published in 2017.' Ask: 'How is your skull different from Lucy's?' (Rounder, with a big brain case, a flat face and a chin.) Feel your chins together. Say: 'Homo sapiens is the only kind of hominin with a real chin. Nobody knows for sure why.' Then say: 'For most of our history, about 250,000 years, our species lived only in Africa. DNA studies point to a main move out of Africa somewhere between about 70,000 and 50,000 years ago.' Ask: 'Do you think one family walked all the way from Africa to India?' Wait. Then say: 'No. Each generation lived a little further along the coast or river than their parents. Nobody walked the whole way.' Ask: 'If the edge of where people lived moved 1 kilometre each year, how long would it take to go about 8,000 kilometres?' (8,000 years.) Your child adds a 'Homo sapiens' card to the project bush."
+     "do": "Say: 'Our own species is called Homo sapiens. The oldest fossils of Homo sapiens found so far are from Jebel Irhoud, in Morocco, about 300,000 years old. They were published in 2017.' Ask: 'How is your skull different from Lucy's?' (Rounder, with a big brain case, a flat face and a chin.) Feel your chins together. Say: 'Homo sapiens is the only kind of hominin with a real chin. Nobody knows for sure why.' Then say: 'For more than 200,000 years, our species lived mostly in Africa. A few early groups left, but they left few descendants. DNA studies point to a main move out of Africa somewhere between about 70,000 and 50,000 years ago.' Ask: 'Do you think one family walked all the way from Africa to India?' Wait. Then say: 'No. Each generation lived a little further along the coast or river than their parents. Nobody walked the whole way.' Ask: 'If the edge of where people lived moved 1 kilometre each year, how long would it take to go about 8,000 kilometres?' (8,000 years.) Your child adds a 'Homo sapiens' card to the project bush."
     },
     {
      "kind": "talk",
@@ -337,7 +336,7 @@
      "kind": "talk",
      "title": "We were not alone",
      "mins": 12,
-     "do": "Say: 'Until about 40,000 years ago, our ancestors shared the world with other kinds of humans.' Tell them about four, one at a time, and let your child add a card for each to the project bush. 'Neanderthals lived in Europe and western Asia from about 400,000 to about 40,000 years ago. They were strong and short, with brains as big as ours or bigger. They made fine stone tools, used fire, and buried some of their dead.' 'Denisovans are known mostly from DNA in a little finger bone and a few teeth, found in Denisova Cave in Siberia, in Russia. The DNA was read in 2010.' 'Homo floresiensis lived on the island of Flores, in Indonesia. They were about 1 metre tall and lived there until about 50,000 years ago.' 'Homo naledi was found in the Rising Star cave in South Africa. The way into the chamber was less than 20 centimetres wide, so six women scientists, all slim and skilled at climbing, squeezed in to dig out the bones. Homo naledi lived between about 335,000 and 236,000 years ago, with a small brain, at the same time as early Homo sapiens in Africa.' Ask: 'Why do you think we are the only kind of human left?' Say: 'Nobody knows. Scientists think climate changes, small numbers, competition, disease and mixing with our ancestors may all have played a part.'"
+     "do": "Say: 'Until at least 40,000 years ago, our ancestors shared the world with other kinds of humans.' Tell them about four, one at a time, and let your child add a card for each to the project bush. 'Neanderthals lived in Europe and western Asia from about 400,000 to about 40,000 years ago. They were strong and short, with brains as big as ours or bigger. They made fine stone tools, used fire, and buried some of their dead.' 'Denisovans are known mostly from DNA. It was first read in 2010, from a little finger bone found in Denisova Cave in Siberia, in Russia. A few teeth, jawbones and a skull found since then are thought to be Denisovan.' 'Homo floresiensis lived on the island of Flores, in Indonesia. They were about 1 metre tall and lived there until about 50,000 years ago.' 'Homo naledi was found in the Rising Star cave in South Africa. The way into the chamber was less than 20 centimetres wide. So six slim women scientists, skilled at climbing, squeezed in to dig out the bones. Homo naledi had a small brain. They lived between about 335,000 and 236,000 years ago, at the same time as early Homo sapiens in Africa.' Ask: 'Why do you think we are the only kind of human left?' Say: 'Nobody knows. Scientists think climate changes, small numbers, competition, disease and mixing with our ancestors may all have played a part.'"
     },
     {
      "kind": "talk",
@@ -350,14 +349,14 @@
      "kind": "act",
      "title": "Rice and dal: what we carry",
      "mins": 10,
-     "do": "Do Activity a3. When the plate is done, ask: 'Can you find the 2 dal grains quickly?' (Not easily. They are a small part, but they are there.) Ask: 'What does the mothers' chain tell you?' (Everyone's mitochondrial DNA traces back, mother to mother, to women in Africa.)",
+     "do": "Do Activity a3. When the plate is done, ask: 'Out of 100 grains, how many are dal?' (2.) 'So is this person a Neanderthal?' (No. A small part of their DNA came from Neanderthal ancestors, long ago.) Ask: 'What does the mothers' chain tell you?' (Everyone's mitochondrial DNA traces back, mother to mother, to women in Africa.)",
      "ref": "a3"
     },
     {
      "kind": "ws",
      "title": "Stretch worksheet",
      "mins": 15,
-     "do": "Do Worksheet ws2 (stretch). It asks your child to use ash dates, brain sizes, the sweat test and the long walk on new questions. For the maths question, let them work it out on paper and explain their working aloud.",
+     "do": "Do Worksheet ws2 (stretch). It asks your child to use ash dates, brain energy, the sweat test and the journey to India on new questions. For the maths question, let them work it out on paper and explain their working aloud.",
      "ref": "ws2"
     }
    ],
@@ -378,7 +377,7 @@
      "kind": "talk",
      "title": "Skin and sunlight",
      "mins": 10,
-     "do": "Ask: 'Why do you think people have different skin colours?' Wait for ideas. Then say: 'Skin colour comes mostly from a dark pigment called melanin. Strong sunlight has ultraviolet light, which can damage skin and break down a vitamin called folate that the body needs, especially for babies growing inside their mothers. Melanin protects against it. But skin also uses a little ultraviolet light to make vitamin D. In places with weak sunlight, lighter skin makes vitamin D more easily.' Say: 'The anthropologist Nina Jablonski has studied this for many years. So people whose ancestors lived for a long time in strong sunlight usually have darker skin, and those whose ancestors lived far from the equator usually have lighter skin.' Then say: 'Any two people in the world share about 99.9 percent of their DNA. There is more variety in DNA among people in Africa than among everyone else in the world put together, because our species lived in Africa the longest.' Ask: 'So does skin colour tell you much about a person?' (No. It tells you a little about the sunlight their ancestors lived in.)"
+     "do": "Ask: 'In Class 4 you found out why skin colours differ. Can you explain it?' Wait for the answer. (Melanin, a dark pigment, protects against strong ultraviolet light, which breaks down a vitamin called folate. Where sunlight is weak, lighter skin makes vitamin D more easily.) Say: 'So skin colour follows the sunlight where a person's ancestors lived for a long time. The anthropologist Nina Jablonski worked much of this out.' Then say: 'Any two people in the world share about 99.9 percent of their DNA. There is more variety in DNA among people in Africa than among everyone else in the world put together. That is because our species lived in Africa the longest, and only some groups left.' Ask: 'So does skin colour tell you much about how closely two people are related?' (Very little. Two people with the same skin colour can be distant relatives.)"
     },
     {
      "kind": "talk",
@@ -405,7 +404,7 @@
     "red soil or geru (red ochre powder) mixed with water",
     "a little turmeric paste",
     "charcoal or a burnt matchstick",
-    "a cotton bud or a small sponge",
+    "2 or 3 cotton buds",
     "old newspaper to cover the floor"
    ],
    "prep": [
@@ -417,12 +416,12 @@
   },
   {
    "n": 9,
-   "title": "The long walk, and teach it back",
+   "title": "The coast road, and teach it back",
    "goal": "Play the long-walk game, try the challenge worksheet, finish the human bush and teach it.",
    "steps": [
     {
      "kind": "game",
-     "title": "The Long Walk",
+     "title": "The Coast Road",
      "mins": 15,
      "do": "Play the board game g1. Everyone plays together as bands moving from East Africa to India. Bands help each other when one is stuck. At the end, ask: 'How many turns did it take? Did any one band walk the whole way in real life?' (No. It took many generations.)",
      "ref": "g1"
@@ -577,7 +576,7 @@
      [
       {
        "t": "write",
-       "p": "Farhan asks: 'If humans came from apes, why are there still apes?' Answer him using the words 'common ancestor'.",
+       "p": "Nandini asks: 'If humans came from apes, why are there still apes?' Answer her using the words 'common ancestor'.",
        "lines": 3,
        "a": "A strong answer says humans did not come from today's apes. Humans and chimpanzees share a common ancestor, like cousins who share grandparents. Both lines kept evolving for about 7 million years, so both are still here."
       },
@@ -589,7 +588,7 @@
       },
       {
        "t": "write",
-       "p": "Scientists still argue about why our ancestors began walking on two legs. Kavya says: 'Walking upright freed their hands to carry food and babies.' Arjun says: 'Walking upright uses less energy when you walk long distances between patches of food.' Lakshmi says: 'Standing tall let them see over tall grass.' Pick one view and give a reason for it. Then answer back from one of the other views.",
+       "p": "Scientists still argue about why our ancestors began walking on two legs. Kavya says: 'Walking upright freed their hands to carry food and babies.' Divya says: 'Walking upright uses less energy when you walk long distances between patches of food.' Lakshmi says: 'Standing tall let them see over tall grass.' Pick one view and give a reason for it. Then answer back from one of the other views.",
        "lines": 5,
        "a": "A strong answer picks one view, gives evidence (for example, the bent-knee walk made thighs work harder, or Lucy still had climbing arms), then fairly states what another view would say back. There is no single right answer. Nobody knows why bipedalism began, and the evidence fits more than one idea."
       }
@@ -625,7 +624,7 @@
       },
       {
        "t": "mcq",
-       "p": "In the water test, the brain sizes were about 450 millilitres for Lucy and 1,350 millilitres for a person today. Which is closest to the brain size of Homo erectus?",
+       "p": "Lucy's brain was about 450 millilitres. A person's brain today is about 1,350 millilitres. Homo erectus came in between. Which is closest to the brain size of Homo erectus?",
        "opts": [
         "about 400 millilitres",
         "about 900 millilitres",
@@ -721,7 +720,7 @@
       },
       {
        "t": "write",
-       "p": "What made humans human: hunting, or gathering and sharing? Many scientists at the 1966 'Man the Hunter' meeting says: 'Men hunting big animals together needed planning, tools and teamwork, and that made us human.' Sally Slocum, anthropologist, 1975 says: 'Gathering and sharing plant food, and carrying and caring for babies, mattered just as much. Slings to carry babies and food may have been among the first tools.' Kristen Hawkes, anthropologist says: 'Grandmothers who gathered food for their grandchildren let mothers have more babies, and that helped humans live longer.' Which view do you find strongest? Give a reason. Then answer back from another view.",
+       "p": "What made humans human: hunting, or gathering and sharing? At a famous 1966 meeting called 'Man the Hunter', many scientists said: 'Men hunting big animals together needed planning, tools and teamwork, and that made us human.' In 1975 the anthropologist Sally Slocum said: 'Gathering and sharing plant food, and carrying and caring for babies, mattered just as much. Slings to carry babies and food may have been among the first tools.' The anthropologist Kristen Hawkes says: 'Grandmothers who gathered food for their grandchildren let mothers have more babies, and that helped humans live longer.' Which view do you find strongest? Give a reason. Then answer back from another view.",
        "lines": 5,
        "a": "A strong answer gives evidence (for example, among the Hadza of Tanzania much of the food is gathered and shared, and grandmothers gather a lot), and fairly states another view. It may say that hunting, gathering and sharing all mattered. This is a real debate about how cooperation and competition shaped us, and about whose work got noticed."
       }
@@ -867,28 +866,26 @@
  "experiments": [
   {
    "id": "e1",
-   "title": "The taped-thumb test",
+   "title": "Tip to tip: the precision grip",
    "day": 1,
-   "question": "What does a thumb that can meet the fingertips let a primate do?",
+   "question": "Why does a thumb that meets the fingertips help with fine work?",
    "need": [
-    "paper tape or cello tape",
-    "a shirt with buttons",
-    "a 1-rupee coin on a flat table",
-    "a pencil and paper",
-    "a banana",
-    "a phone or clock with a seconds hand"
+    "20 grains of raw rice on a steel plate",
+    "a small katori or cup",
+    "a phone or clock with a seconds hand",
+    "a pencil and paper"
    ],
    "steps": [
-    "Make a table with four rows: button the shirt, pick up the coin, write your name, peel the banana. Make two columns: 'thumb free' and 'thumb taped'.",
-    "With the thumb free, do each job while a grown-up times it. Write down the seconds.",
-    "A grown-up tapes the thumb of the hand you write with flat against the side of the hand. Wrap the tape loosely, not tight.",
-    "Do each job again with the thumb taped. Write down the seconds. If a job takes more than 2 minutes, stop and write 'more than 2 minutes'.",
-    "Take the tape off. Compare the two columns."
+    "Put 20 rice grains on the plate, with the empty katori next to it.",
+    "Grip 1, tip to tip: pick up one grain at a time between the tip of your thumb and the tip of your first finger. Drop it in the katori. A grown-up times how long all 20 take. Count any grains you drop.",
+    "Pour the grains back onto the plate.",
+    "Grip 2, side pinch: pick up each grain between the flat pad of your thumb and the side of your first finger, near the nail. Keep your fingertips off the grain. Time it and count the drops again.",
+    "Do each grip twice, because one try can be a fluke. Write all the times and drops in a table."
    ],
-   "predict": "Ask: 'Which job will be hardest without your thumb? Why?'",
-   "observe": "Most jobs take much longer with the thumb taped. Picking up a coin and buttoning are usually the hardest, because they need a pinch between thumb and fingertips. Peeling a banana is often possible with the fingers alone, but slow.",
-   "why": "Your thumb can turn across the palm to press against the tip of each finger. This is called an opposable thumb. It lets you pinch and hold small things firmly, which is called a precision grip. Other primates have gripping hands too. A chimpanzee's thumb is shorter compared with their fingers, so their pinch is less precise. Making and using small stone tools needs a good precision grip.",
-   "safety": "Tape loosely and take it off after the test. Peel the tape off slowly.",
+   "predict": "Ask: 'Which grip will be faster, and why?'",
+   "observe": "Tip to tip is usually faster, with fewer dropped grains. The side pinch works, but the grains slip more.",
+   "why": "Your thumb is long and can turn across the palm until its tip presses against the tip of each finger. This is called an opposable thumb, and the tip-to-tip hold is called a precision grip. It lets you hold tiny things firmly and turn them. A chimpanzee's thumb is short compared with their fingers, so chimpanzees often hold small things in a side pinch. Making and using small stone tools needs a good precision grip.",
+   "safety": "Raw rice is safe to handle. Keep grains away from the nose and ears.",
    "time": "15 min"
   },
   {
@@ -929,7 +926,7 @@
     "Walk normally along the newspaper. Then dry your feet.",
     "Quickly, before the prints dry, draw around one clear footprint with a pencil.",
     "Measure the footprint from heel to the tip of the longest toe, in centimetres. Measure your height against a wall.",
-    "Measure the length of one step: from the heel of one print to the heel of the next print of the same foot.",
+    "Measure one stride: from the heel of one print to the heel of the next print of the same foot.",
     "Divide your height by your foot length. Write down the answer.",
     "Look closely at one print. Is the big toe in line with the other toes or out to the side? Where is the print deepest?"
    ],
@@ -941,26 +938,25 @@
   },
   {
    "id": "e4",
-   "title": "Brain sizes in water",
+   "title": "Feeding a big brain",
    "day": 5,
-   "question": "How much did brains grow in the human story?",
+   "question": "How much of a body's energy does a big brain use?",
    "need": [
-    "a measuring jug, or a 1-litre bottle and a 500 millilitre bottle",
-    "3 clear glasses or bottles big enough to hold the water",
-    "water",
+    "20 groundnuts, raisins or small biscuits on a plate",
+    "2 small katoris or bowls",
     "labels and a pen"
    ],
    "steps": [
-    "Label three containers: 'Lucy', 'Homo erectus' and 'Me'.",
-    "Pour 450 millilitres of water into 'Lucy'. This is about Lucy's brain size, and about the size of a chimpanzee's brain. Without a jug: fill the 500 millilitre bottle and pour a little away, until it is about nine-tenths full.",
-    "Pour 900 millilitres into 'Homo erectus'. Without a jug: fill the 1-litre bottle nine-tenths full. Brains of Homo erectus ranged from about 600 to 1,100 millilitres.",
-    "Pour 1,350 millilitres into 'Me'. Without a jug: one full 1-litre bottle and a 500 millilitre bottle about two-thirds full.",
-    "Line them up in order and compare."
+    "Say: 'These 20 groundnuts stand for all the energy a grown-up's body uses in a day while resting.'",
+    "Label the two katoris 'Human brain' and 'Chimpanzee brain'.",
+    "A human brain uses about 1 part in 5 of the body's resting energy. 1 part in 5 of 20 is 4. Put 4 groundnuts in 'Human brain'.",
+    "In chimpanzees and most other primates, the brain uses about 1 part in 10 or less. 1 part in 10 of 20 is 2. Put 2 groundnuts in 'Chimpanzee brain'.",
+    "Now think about weight. A grown-up's brain is only about 1 part in 50 of their body weight. Ask: 'The brain is 1 part in 50 of the body, but uses 1 part in 5 of the energy. Is it a cheap part or a costly part?'"
    ],
-   "predict": "Ask: 'How many times bigger do you think your brain is than Lucy's?'",
-   "observe": "The 'Me' amount is about three times the 'Lucy' amount. The biggest jump is between Lucy and Homo erectus, and then again to us.",
-   "why": "Brain size is measured as the space inside the skull, in millilitres. A grown-up human brain is about 1,350 millilitres on average, about 3 times Lucy's. Neanderthal brains were about as big or a little bigger. A bigger brain needs a lot of energy: your brain is about one-fiftieth of your body weight but uses about one-fifth of the energy you get from food. So bigger brains needed better food, such as meat, cooked food, and food shared by the group. Brain size is not everything: the small-brained Homo naledi and Homo floresiensis still survived for a long time.",
-   "safety": "Pour over a sink or a tray. Mop up spills so nobody slips.",
+   "predict": "Ask: 'Out of 20 groundnuts, how many do you think the human brain uses?'",
+   "observe": "The human brain's katori has 4 groundnuts, twice the chimpanzee's 2, even though the brain is a small part of the body's weight.",
+   "why": "Brain cells use energy all the time, even during sleep. A grown-up human brain is about 1,350 millilitres, about 3 times the size of Lucy's. It is about one-fiftieth of the body's weight but uses about one-fifth of its resting energy. So bigger brains needed more and better food, such as meat, fat from bones, cooked food, and food shared by the group. Brain size is not everything: the small-brained Homo naledi and Homo floresiensis still survived for a long time.",
+   "safety": "Check for nut allergies first. Use raisins or biscuits if anyone is allergic. Eat the groundnuts afterwards only if nobody is allergic.",
    "time": "12 min"
   },
   {
@@ -982,7 +978,7 @@
    "predict": "Ask: 'Which arm will feel cooler when we fan them: the wet one or the dry one? Why?'",
    "observe": "The arm with the damp cloth feels clearly cooler, especially while it is being fanned.",
    "why": "When water evaporates, it takes heat away with it. Fanning speeds up evaporation. Sweat works the same way. Humans have millions of sweat glands and very fine body hair, so sweat evaporates easily from the skin. This lets humans keep cool while walking or running for a long time in the heat. Many other mammals cool down mainly by panting. Scientists still argue about why our ancestors lost their thick fur.",
-   "safety": "",
+   "safety": "Use water at room temperature.",
    "time": "8 min"
   }
  ],
@@ -995,17 +991,17 @@
    "need": [
     "a ball of string or thin rope at least 7 metres long (or newspaper strips taped end to end)",
     "a measuring tape or a 30-centimetre ruler",
-    "15 small paper labels and tape",
+    "17 small paper labels and tape",
     "a pen"
    ],
    "steps": [
     "On this string, 1 metre stands for 1 million years. So 1 centimetre stands for 10,000 years.",
     "Lay the string straight along a corridor or across two rooms. One end is 'Today'. Stick a label there.",
-    "Measure from the 'Today' end and stick on each label: 7 metres, 'Toumaï, one of the oldest known hominins, Chad'. 4 metres 40 centimetres, 'Ardi, Ethiopia'. 3 metres 66 centimetres, 'Laetoli footprints'. 3 metres 30 centimetres, 'first known stone tools, Lomekwi'. 3 metres 20 centimetres, 'Lucy'.",
+    "Measure from the 'Today' end and stick on each label: 7 metres, 'Toumaï, possibly the oldest known hominin, Chad'. 4 metres 40 centimetres, 'Ardi, Ethiopia'. 3 metres 66 centimetres, 'Laetoli footprints'. 3 metres 30 centimetres, 'first known stone tools, Lomekwi'. 3 metres 20 centimetres, 'Lucy'.",
     "Then: 1 metre 90 centimetres, 'Homo erectus appears'. 1 metre 80 centimetres, 'Homo erectus in Georgia, outside Africa'. 1 metre 50 centimetres, 'hand axes at Attirampakkam, near Chennai'. 1 metre, 'burnt bones and ash in Wonderwerk Cave'.",
     "Then: 30 centimetres, 'Homo sapiens at Jebel Irhoud, Morocco'. 7 and a half centimetres, 'Toba volcano erupts'. About 6 centimetres, 'main move out of Africa (between 7 and 5 centimetres)'. 4 centimetres, 'last Neanderthals'.",
     "Last: 1 centimetre, 'farming begins'. Half a centimetre, 'first writing'. At the very end, a label: 'You'. Your whole life is far thinner than a hair on this string.",
-    "Walk slowly from the 7-metre end to 'Today'. Count your steps to the 30-centimetre mark, and compare."
+    "Walk slowly from the 7-metre end to 'Today', counting your steps. Then look at the last 30 centimetres, the whole time of Homo sapiens. It is shorter than one of your steps."
    ],
    "outcome": "A time string the child has walked, showing that hominins have existed for about 7 million years, and that our own species is only the last 30 centimetres."
   },
@@ -1019,17 +1015,16 @@
     "red soil or geru (red ochre powder) mixed with water",
     "a little turmeric paste",
     "charcoal or a burnt matchstick",
-    "a cotton bud or a small sponge",
+    "2 or 3 cotton buds",
     "old newspaper to cover the floor"
    ],
    "steps": [
     "Crumple the brown paper, then flatten it, so it looks a little like rock.",
-    "Put one hand flat on the paper. Dab the red paint all around your hand with the sponge. Lift your hand. You have a hand stencil, like those found in caves in many parts of the world.",
-    "With a cotton bud and red paint, draw an animal you have seen, using simple lines, the way the Bhimbetka painters did.",
+    "Bhimbetka painters often filled the bodies of animals with lines and patterns. With a cotton bud and red paint, draw the outline of an animal you have seen, such as a cow, a dog or a deer. Fill their body with straight lines or a criss-cross pattern.",
     "Add people with stick bodies, dancing or walking in a line, with charcoal.",
     "Add a few spots of turmeric yellow. Let it dry."
    ],
-   "outcome": "A 'rock painting' with a hand stencil, an animal and people, made with the same kinds of colours early painters used: red earth, charcoal and yellow."
+   "outcome": "A 'rock painting' with a patterned animal and people, made with the same kinds of colours early painters used: red earth, charcoal and yellow."
   },
   {
    "id": "a3",
@@ -1091,7 +1086,7 @@
    "now": "Debated. No human bones have been found at Jwalapuram, so nobody knows for sure who made the tools. Some scientists think there were several moves out of Africa, and that early ones left few or no descendants.",
    "status": "debated",
    "day": 6,
-   "ask": "Stone tools without bones are like footprints without a face. What would you need to find at Jwalapuram to know who made the tools?"
+   "ask": "No bones have been found with the tools at Jwalapuram. What would you need to find there to know who made them?"
   }
  ],
  "check": [
@@ -1113,7 +1108,7 @@
   },
   {
    "q": "How did people come to India?",
-   "a": "Slowly, over many generations, mostly along the coasts from Africa. Each generation lived a little further on. Earlier kinds of humans, such as the makers of the Attirampakkam hand axes, were in India long before Homo sapiens."
+   "a": "Slowly, over many generations, from Africa, probably partly along the coasts. Each generation lived a little further on. Earlier kinds of humans, such as the makers of the Attirampakkam hand axes, were in India long before Homo sapiens."
   },
   {
    "q": "Name two other kinds of humans and one thing we know about each.",
@@ -1145,7 +1140,7 @@
  },
  "game": {
   "id": "g1",
-  "title": "The Long Walk",
+  "title": "The Coast Road",
   "kind": "board",
   "players": "2–4",
   "need": [
@@ -1156,7 +1151,7 @@
   "rules": [
    "Each player is a small band of people. Everyone starts on START, in East Africa.",
    "Take turns to roll the die and move that many squares. Read the square aloud and do what it says.",
-   "This is a game you play together. If your band must miss a turn and another band is on the same square or the one behind, they can share food with you: you both skip nothing.",
+   "This is a game you play together. If your band must miss a turn, and another band is on the same square or the one just behind, they can share food with you. Then you do not miss the turn.",
    "When a band reaches HOME, they keep rolling and give their moves to any band still walking.",
    "The game ends when every band reaches HOME. Count the turns together. Say: 'Each turn is many years. No one person walked the whole way.'"
   ],
@@ -1176,7 +1171,7 @@
    "The coast of what is now Pakistan. Mangroves full of crabs.",
    "A wide river with fresh water! Roll again.",
    "The coast of what is now Gujarat. Move forward 1.",
-   "Volcanic ash falls from the sky and covers the plants. Miss a turn.",
+   "A long dry season. The grass turns brown. Miss a turn.",
    "Forests on the Western Ghats coast, full of fruit. Move forward 2.",
    "A tiger is near. Climb a tree and wait. Go back 1.",
    "Good stone for tools by a river in the Kurnool hills. Roll again.",
@@ -1321,7 +1316,7 @@
   },
   {
    "idea": "Our ancestors stood up long before they got big brains.",
-   "more": "Lucy and the Laetoli footprints show upright walking more than 3 million years ago, with brains the size of a chimpanzee's. The big growth of the brain came later, along with stone tools, fire, cooking and sharing."
+   "more": "Lucy and the Laetoli footprints show upright walking more than 3 million years ago, with brains the size of a chimpanzee's. The big growth of the brain came later, along with better stone tools, fire, cooking and sharing."
   },
   {
    "idea": "All people alive today are one young family from Africa, with a little of other humans mixed in.",
@@ -1332,6 +1327,6 @@
   "Why did our ancestors begin walking on two legs? There are several ideas, and the evidence fits more than one.",
   "When did Homo sapiens first reach India, and who made the stone tools below the Toba ash at Jwalapuram? Without bones or DNA from that layer, nobody knows.",
   "Why are we the only kind of human left? Climate, small numbers, competition, disease and mixing may all have played a part.",
-  "Who were the Denisovans? We have their DNA, which many living people carry, but only a few bones and teeth, so we hardly know what they looked like."
+  "Who were the Denisovans? We have their DNA, which many living people carry, but only a few bones, so we know little about what they looked like or how they lived."
  ]
 }

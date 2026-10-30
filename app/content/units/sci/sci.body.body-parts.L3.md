@@ -707,7 +707,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
    Options: The egg that had toothpaste on it / The plain egg / Both feel exactly the same / Neither, both shells disappear  
    **Answer:** The egg that had toothpaste on it. *Why:* Fluoride in toothpaste makes the outside of the shell harder for acid to dissolve, so it usually bubbles less and stays smoother. That is how toothpaste helps protect tooth enamel.
 7. (match) Match each guard to what it keeps out.  
-   **Answer:** Eyebrows → sweat and rain running into the eyes; Earwax → dust and tiny insects in the ear; Nose hairs and mucus → dust and germs in the air you breathe; Thick skin on the soles → sharp stones and hot ground; Nails → knocks to the soft fingertips. *Why:* Every external organ has guards. Many, like wax and mucus, look like dirt, but they keep us safe.
+   **Answer:** Earwax → dust and tiny insects in the ear; Nose hairs and mucus → dust and germs in the air you breathe; Thick skin on the soles → sharp stones and hot ground; Nails → knocks to the soft fingertips. *Why:* Every external organ has guards. Many, like wax and mucus, look like dirt, but they keep us safe.
 8. (sort) Sort these into DEAD CELLS and LIVING CELLS.  
    **Answer:** the hair you can see → Dead cells; the root of a hair, under the skin → Living cells; the white tip of a fingernail → Dead cells; the flakes on the sticky tape → Dead cells; the skin under a scab, making new skin → Living cells; the skin at the base of a nail, making new nail → Living cells. *Why:* Living cells at the roots keep making new cells. These get pushed out, harden and die. So what we see on the outside is mostly dead, and the living part is hidden underneath.
 9. (write) In the eyebrow test, the water dripped above your eyebrow ran off to the side. Why do you think eyebrows are curved? What might happen on a hot, sweaty day without them?  
@@ -722,8 +722,8 @@ Many years later, the government gave her uncle a reward and an honour for his w
 13. (mcq) Anjali walks barefoot on wet soil near a drain. What is the main health reason she should wear chappals?  
    Options: Tiny hookworms in damp, dirty soil can get in through bare skin / Chappals make her taller / Bare feet make her run slower / Feet look nicer in chappals  
    **Answer:** Tiny hookworms in damp, dirty soil can get in through bare skin. *Why:* Young hookworms live in damp, dirty soil and can get in through the skin of bare feet. Chappals also protect from glass and hot roads.
-14. (draw) Draw a cut-away of an ear. Show the funnel, the ear canal, the wax and the eardrum. Draw an arrow for which way the wax moves.  
-   **Answer:** Funnel on the outside, a tube going in, wax in the tube, the eardrum at the end, an arrow pointing outwards.. *Why:* Wax moves outwards, helped by the jaw moving. That is why ears mostly clean themselves.
+14. (draw) Draw yourself after running on a hot day. Show where the sweat comes out of your skin. Draw arrows to show what happens to your body's heat as the sweat dries.  
+   **Answer:** Drops of sweat on the forehead, face and arms, coming out of tiny holes called pores. Arrows show heat leaving the skin as the sweat dries into the air.. *Why:* Sweating is one of the skin's jobs. Drying sweat takes heat away with it, so the skin cools. A strong drawing shows sweat coming from the skin itself and heat leaving as it dries.
 15. (write) In the trusted hand activity, you drew five grown-ups you trust. Why is it better to have five trusted grown-ups, not just one?  
    **Answer:** If one grown-up is busy, away or does not listen, I still have others to tell. Also, if the person doing wrong is someone I know, I need someone else to go to.. *Why:* A strong answer knows that a child must keep telling until someone helps.
 16. (fill) Along each fingertip ridge are tiny holes that let out sweat. So whenever we touch something, we leave our ____ behind.  
@@ -748,7 +748,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
 8. (draw) Design a new guard for one body part. Label what it does and how it works.  
    **Answer:** Any creative design with a clear job. For example: ear flaps that close in loud places, like a hippo's ears closing under water.. *Why:* Good designs copy what real guards do: trap, steer away, wash out or shut.
 9. (write) Some old Indian books describe cleaning teeth with neem twigs. Fluoride toothpaste is newer. Some people say old ways are always best, and some say new ways are always best. How could you find out which cleans better?  
-   **Answer:** A fair test: some people use twigs and some use fluoride toothpaste for weeks, with everything else the same, and a dentist counts holes and germs. At home, I could coat one eggshell with neem paste and one with toothpaste, and put both in vinegar.. *Why:* Scientists test old and new ways fairly, instead of trusting what is old or what is new. A strong answer changes only one thing.
+   **Answer:** A fair test: some people use twigs and some use fluoride toothpaste for weeks, with everything else the same, and a dentist counts holes and germs. At home, I could coat one eggshell with neem paste and one with toothpaste, and put both in vinegar. That only tests protection from acid, not from germs.. *Why:* Scientists test old and new ways fairly, instead of trusting what is old or what is new. A strong answer changes only one thing, and says what its test can and cannot show.
 10. (write) Your aunt's friend visits and wants a hug. You don't feel like hugging. Your mother says you can say no politely and wave instead. Why is it good that you get to choose?  
    **Answer:** My body belongs to me, even when I am small. Choosing a wave instead of a hug is polite and still keeps my body mine. Practising small 'no's makes it easier to say no to a touch that feels wrong.. *Why:* A strong answer knows that a child's body belongs to the child, and that saying no politely is not rude.
 11. (mcq) After a sunburn, skin often peels a few days later. Why does this happen?  
@@ -777,9 +777,9 @@ Many years later, the government gave her uncle a reward and an honour for his w
 1. (mcq) Kavya looks at herself in the mirror. Which organ can she see?  
    Options: Skin / Heart / Lungs / Stomach  
    **Answer:** Skin. *Why:* Skin is an external organ, on the outside, and it is the biggest one. The heart, lungs and stomach are internal organs, inside the body.
-2. (mcq) Which external organ helps you both breathe and smell?  
-   Options: The nose / The ears / The eyes / The feet  
-   **Answer:** The nose. *Why:* The nose takes in air and smells. Its hairs and mucus also trap dust.
+2. (mcq) Anjali has a cold, and her nose is blocked. Her favourite dosa suddenly tastes dull. Why?  
+   Options: Much of what we call taste is really smell, and her blocked nose can't smell the food / Colds make the dosa go bad / Her tongue has stopped working for ever / Dosa only tastes good on sunny days  
+   **Answer:** Much of what we call taste is really smell, and her blocked nose can't smell the food. *Why:* The tongue tastes only sweet, salty, sour, bitter and savoury. The nose picks up all the rest of the flavour. External organs work as a team, so when one is blocked, another seems to stop working too.
 3. (mcq) Revathi bathes every day, but her ears still make yellow wax. What does that show?  
    Options: Wax is a guard the ear makes on purpose, not a sign of dirt / Her ears are very dirty / She is not washing properly / Wax only grows in dirty ears  
    **Answer:** Wax is a guard the ear makes on purpose, not a sign of dirt. *Why:* Clean ears make wax too. Wax traps dust and germs and moves out by itself. Picking 'very dirty' is the most common idea, and it is wrong.

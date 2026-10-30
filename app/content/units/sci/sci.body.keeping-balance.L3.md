@@ -561,9 +561,9 @@ People think that keeping cool means holding on to cold. It does not. I have nev
    **Answer:** ['homeostasis']. *Why:* Homeostasis means 'staying the same'. Your warmth, your water and your saltiness are all kept just right, even when the weather changes.
 6. (match) A feedback loop has parts that notice, decide and act. Match each part of the sweating loop to its job.  
    **Answer:** Sensors in the skin and blood → notice that you are getting hot; The hypothalamus in the brain → decides to cool you down; Sweat glands → act by making sweat; Drying sweat → carries heat away from the skin. *Why:* Something notices, something decides and something acts. Then the loop checks again, and stops when you are just right.
-7. (mcq) Janani, a girl in Class 4, is waiting for the school bus on a cold morning. Her arms and jaw start to shake. What is her body doing?  
-   Options: Cooling her down / Shaking because she is scared / Working her muscles fast to make heat  
-   **Answer:** Working her muscles fast to make heat. *Why:* This is shivering. Working muscles make heat, so shaking fast warms her up. Picking 'cooling down' mixes up shivering with sweating.
+7. (mcq) Vikram, a boy in Class 4, is waiting for the school bus on a cold morning. His arms and jaw start to shake. What is his body doing?  
+   Options: Cooling him down / Shaking because he is scared / Working his muscles fast to make heat  
+   **Answer:** Working his muscles fast to make heat. *Why:* This is shivering. Working muscles make heat, so shaking fast warms him up. Picking 'cooling down' mixes up shivering with sweating.
 8. (truefalse) A clay matka keeps water cool because clay is a cold material.  
    **Answer:** False. *Why:* False. Many people believe this. A dry clay pot left in the sun gets very hot. A wet matka stays cool because water seeps through tiny holes and dries on the outside, carrying heat away, just like sweat.
 9. (order) Put the sweating loop in order.  
@@ -633,8 +633,8 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 3. (mcq) Some scientists say the body mostly predicts what it will need, not only reacts. Which is an example of predicting?  
    Options: You shiver after you are already cold / Your mouth waters when you smell food cooking / You sweat after you are already hot / You pull your hand from a hot pan after it hurts  
    **Answer:** Your mouth waters when you smell food cooking. *Why:* A watering mouth gets ready for food before it arrives. The other three happen after the change. This idea is called allostasis, and scientists still argue how important it is.
-4. (fill) In the sweaty tumbler test, the wet cloth tumbler went from 40 to 31 degrees. The dry cloth tumbler went from 40 to 37 degrees. The wet one dropped ____ degrees and the dry one dropped ____ degrees.  
-   **Answer:** ['9', '3']. *Why:* 40 take away 31 is 9. 40 take away 37 is 3. The wet one cooled 3 times as much.
+4. (truefalse) Drinking far more water than you need, many litres in a short time, is always safe, because water is good for you.  
+   **Answer:** False. *Why:* False. The body keeps its water and salt just right. Too much water in a short time makes the blood too watery, and that can make a person very ill. A strong answer says 'just right' matters both ways: too little and too much.
 5. (mcq) A person who is very hot has stopped sweating and has hot, dry skin. They are confused. What should happen?  
    Options: Give them a blanket / Tell them to run to cool down / Get them into shade, cool them with water, and call a doctor straight away / Wait and see  
    **Answer:** Get them into shade, cool them with water, and call a doctor straight away. *Why:* Hot, dry skin and confusion can be signs of heatstroke. The body's cooling has stopped working. This needs a doctor fast. Shade and wet cloths help while you wait.
@@ -657,8 +657,8 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 13. (mcq) A lotus flower can keep itself at about 30 to 35 degrees on a cool night. What does this tell us?  
    Options: Lotus flowers have fur / Some plants can do a kind of warmth homeostasis too / Plants are animals / The pond is boiling  
    **Answer:** Some plants can do a kind of warmth homeostasis too. *Why:* Scientists measured sacred lotus flowers in 1996 and found they keep themselves warm. Balance-keeping is not only for animals.
-14. (write) In the story The Pot That Sweats, the clay matka says, 'I stay cool because I let a little go.' How is your body like the matka?  
-   **Answer:** My body lets a little water out as sweat. When the sweat dries, it takes heat from my skin. So, like the matka, I cool down by losing a little water.. *Why:* Sweat cools you the same way the matka cools its water: water evaporates from the outside and carries heat away.
+14. (write) A fridge and your body both keep things just right. Name one way they are alike, and one way they are different.  
+   **Answer:** Alike: both notice a change, decide and act, then check again, to stay near a set number. Different: the fridge can only cool, but my body can cool down and also warm up. My body makes its own heat from food, and it keeps many things right, like water and saltiness, not just warmth.. *Why:* A strong answer names the feedback loop (notice, decide, act, check again) as the likeness, and gives a real difference, such as the body warming as well as cooling, or keeping water and salt right too.
 15. (write) Challenge the belief. Many people say a hot cup of tea on a hot day cools you down. Others say it can only make you hotter. Use what you know about sweat to explain how both could be partly right. Does the weather, dry or humid, change your answer?  
    **Answer:** The hot tea adds a little heat to my inside. But it also makes me sweat more. On a dry day, the extra sweat dries fast and takes away more heat than the tea added, so I may end up cooler. On a humid day, the sweat cannot dry well, so the tea may just make me hotter.. *Why:* A strong answer weighs both: the heat the tea adds, and the cooling from extra sweat. It sees that the answer depends on whether the sweat can dry. A small study in 2012 found this in cyclists.
 16. (truefalse) A healthy body keeps its temperature at exactly the same number all day long.  
@@ -682,9 +682,9 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 4. (mcq) Lakshmi is shivering after a swim. What is the shivering doing for her?  
    Options: Cooling her down / Making her sweat / Making heat with fast-working muscles  
    **Answer:** Making heat with fast-working muscles. *Why:* Shivering is muscles shaking fast. Working muscles make heat, so shivering warms her up.
-5. (mcq) After a long game of cricket in the sun, Farzana feels thirsty. Why?  
-   Options: She lost water in sweat, her blood got a little saltier, and her brain noticed / Her tummy is empty / The sun dried her mouth from the outside  
-   **Answer:** She lost water in sweat, her blood got a little saltier, and her brain noticed. *Why:* Sweat takes water out of the body. The blood gets a little too salty, and the hypothalamus makes her feel thirsty. Picking 'tummy is empty' mixes up thirst with hunger.
+5. (mcq) After a long game of cricket in the sun, Imran feels thirsty. Why?  
+   Options: He lost water in sweat, his blood got a little saltier, and his brain noticed / Her tummy is empty / The sun dried her mouth from the outside  
+   **Answer:** He lost water in sweat, his blood got a little saltier, and his brain noticed. *Why:* Sweat takes water out of the body. The blood gets a little too salty, and the hypothalamus makes him feel thirsty. Picking 'tummy is empty' mixes up thirst with hunger.
 6. (mcq) Dark yellow pee usually means…  
    Options: You drank too much water / You need to drink more water / You are very cold / You ate too much sugar  
    **Answer:** You need to drink more water. *Why:* When you are low on water, your kidneys save it, so your pee is smaller in amount and darker. Picking 'drank too much' is the opposite: lots of water makes pee pale.

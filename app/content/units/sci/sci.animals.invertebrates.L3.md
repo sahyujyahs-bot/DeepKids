@@ -718,8 +718,8 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
    **Answer:** Earthworm → water held tight inside; Snail → a shell they make themself; Crab → hard armour on the outside; Jellyfish → the sea holds them up. *Why:* Animals without backbones hold their shape in different ways. Worms use water, snails grow a shell, crabs wear armour, and jellyfish are held up by the water around them.
 6. (truefalse) A starfish is a kind of fish, because 'fish' is in their name.  
    **Answer:** False. *Why:* False. A starfish has no backbone, no fins and no gills like a fish. A name can fool you. Scientists often say 'sea star' instead. A jellyfish is not a fish either.
-7. (truefalse) Most kinds of animal in the world have no backbone.  
-   **Answer:** True. *Why:* True. About 95 out of every 100 named kinds of animal are invertebrates. Insects alone are about one million kinds.
+7. (truefalse) An animal with no backbone has no skeleton of any kind.  
+   **Answer:** False. *Why:* False, though many people think so. A crab and an ant wear a skeleton on the outside, as armour. A snail makes a shell. An earthworm uses liquid held tight by muscles, a water skeleton. Only a few, like the jellyfish, lean on the sea instead.
 8. (mcq) Kavya finds a small animal on her balcony plant. They have 6 legs and a body in 3 parts. Which group are they in?  
    Options: Insects / Arachnids, like spiders / Crabs and prawns / Centipedes  
    **Answer:** Insects. *Why:* 6 legs and 3 body parts, a head, a middle and a back end, means an insect. Ants, ladybirds and aphids on plants are all insects. Spiders have 8 legs, and crabs have 10.
@@ -754,13 +754,13 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
    **Answer:** order shown. *Why:* Earthworm 0, ant 6, spider 8, crab 10.
 5. (mcq) How does a snail get their shell?  
    Options: They find an empty one / Their body makes it and adds to it as they grow / They are born with a full-size shell / Other snails build it  
-   **Answer:** Their body makes it and adds to it as they grow. *Why:* A snail's mantle, a thin layer of their body, makes the shell from calcium carbonate and adds it to the open edge as the snail grows. Picking 'finds an empty one' mixes it up with hermit crabs, which really do borrow shells.
+   **Answer:** Their body makes it and adds to it as they grow. *Why:* A snail's mantle, a thin layer of their body, makes the shell from calcium carbonate and adds it to the open edge as the snail grows. Picking 'finds an empty one' mixes it up with hermit crabs, who really do borrow shells.
 6. (match) Match each starfish part to what it does.  
    **Answer:** Tube feet → walking and gripping; Mouth underneath → eating; Eye at each arm tip → seeing light, dark and rough shapes; Ring of nerves → sending messages, with no brain. *Why:* A starfish has no brain. A ring of nerves around their mouth and a nerve in each arm carry their messages.
 7. (write) A jellyfish lying on the sand looks like a flat blob. In the sea, the same jellyfish is round and spread out. Explain the difference. Use what you saw in Jellyfish in a Bottle.  
    **Answer:** A jellyfish is mostly water, with no bones, no shell and no armour. In the sea, the water around them holds their body up and in shape. On the sand nothing holds them up, so they flop flat, like the plastic bag jellyfish lifted out of the bottle.. *Why:* A strong answer says the jellyfish has no skeleton, and that the sea itself does the job of holding them in shape.
 8. (truefalse) If you cut an earthworm in two, you always get two worms.  
-   **Answer:** False. *Why:* False. An earthworm cut in two usually dies. Sometimes the front part can grow a new tail. The back part cannot grow a new head.
+   **Answer:** False. *Why:* False. An earthworm cut in two usually dies. Sometimes the front part can grow a new tail. The back part usually cannot grow a new head.
 9. (mcq) Remember the Armour Tubes experiment? You stood three paper columns of one shape under a board, round tubes, square tubes or zigzags, and added books until they crumpled. Which shape held the most?  
    Options: The zigzags / The round tubes / The square tubes / All the same  
    **Answer:** The round tubes. *Why:* The round tubes held the most. A tube spreads the weight evenly all the way round, so it is strong without being heavy. Insect and crab legs are tubes of armour for the same reason.
@@ -775,14 +775,14 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
    **Answer:** My bones are alive inside me, with blood in them, so they can grow. A crab's armour is a hard outer layer that cannot stretch or grow, so the crab has to make a new one.. *Why:* Bones are living tissue that grows. An exoskeleton is a hardened outer layer, so it must be shed.
 14. (draw) Draw a starfish from underneath. Show their mouth and the tube feet on each arm.  
    **Answer:** Five arms around a middle, a mouth in the centre, and rows of small dots or bubbles along each arm for tube feet.. *Why:* A starfish's mouth is in the middle of their underside, and their tube feet run in grooves along each arm.
-15. (truefalse) A hermit crab makes their own shell, like a snail does.  
-   **Answer:** False. *Why:* False. A hermit crab has a soft back end, so they move into an empty snail shell. When they grow too big, they look for a bigger one. A snail is different. Their body makes the shell and adds to it as they grow.
+15. (truefalse) A butterfly with small wings will grow into a butterfly with big wings.  
+   **Answer:** False. *Why:* False. A butterfly, like other insects, grows only by moulting, because their armour cannot stretch. Once an insect has grown-up wings, they stop moulting, so they stop growing. A small butterfly is simply a small butterfly. All the growing happened when they were a caterpillar.
 ### The Great Family Tree (challenge) (challenge, 15 questions)
 1. (mcq) A starfish and a snail both have no backbone. Which one is a closer cousin of yours?  
    Options: The snail / The starfish / Neither, both are equally far / Both are closer to you than a fish  
    **Answer:** The starfish. *Why:* Starfish and sea urchins are on the same big branch of the animal family tree as vertebrates. Snails are on a different branch. Picking 'equally far' is the natural guess, because both have no backbone. But 'no backbone' is not a family. It is everything outside our branch.
 2. (write) Some people say 'invertebrate' is not a real group of animals. What do they mean? Use an example.  
-   **Answer:** They mean that 'invertebrate' just means 'not a vertebrate'. It is like sorting people into 'my family' and 'everyone else'. For example, a starfish is a closer cousin of ours than of a snail, but both are called invertebrates.. *Why:* A real group of animals shares one ancestor that no outsider shares. Invertebrates include many separate branches.
+   **Answer:** They mean that 'invertebrate' just means 'not a vertebrate'. It is like sorting people into 'my family' and 'everyone else'. For example, a starfish is a closer cousin to us than to a snail, yet both the starfish and the snail are called invertebrates.. *Why:* A real group of animals shares one ancestor that no outsider shares. Invertebrates include many separate branches.
 3. (perspective) About 300 million years ago, there were insects with wings about 70 cm across. Today, most land insects are shorter than your little finger. Scientists argue about why.  
    **Answer:** A strong answer picks an idea and gives a reason. For example, insects raised in extra oxygen grow a little bigger, which supports the air idea. It also says what would change the answer, such as finding giant insects from a time when the air had little oxygen. It may say more than one idea can be true.. *Why:* This is still argued about, and each idea has some evidence. A good answer uses evidence and stays open.
 4. (mcq) Many white stones, like marble, began as something alive. What?  
@@ -795,7 +795,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
    **Answer:** The water holds up their heavy bodies.. *Why:* In water, a heavy soft body is held up, so the animal does not need a strong frame. On land, a big soft body would sag, and armour would get too heavy. You saw the same thing with Jellyfish in a Bottle.
 7. (write) In one family's Many Small Suckers test, one sucker held 3 cups of rice. Four suckers held 11 cups, not 12. Give a reason why four did not hold exactly four times as much.  
    **Answer:** Some suckers may have been pressed on less well, or pulled at an angle, so they did not share the load equally. When the weakest one popped, the others had to carry more, and they popped too.. *Why:* In a real test things are never perfect. A strong answer gives a reason from how the test was done, not 'the rice got heavier'.
-8. (perspective) Some fishermen drop live crabs into boiling water to cook them. People disagree about whether this hurts the crab.  
+8. (perspective) Many cooks drop live crabs into boiling water. People disagree about whether this hurts the crab, and what to do about it.  
    **Answer:** A strong answer uses the evidence, such as the hermit crab test where crabs left a poor shell sooner than a good one after a small shock. It answers back fairly, for example: 'The second group is right that we cannot see a feeling from outside. But if we are not sure, being gentle costs us little.' Since 2022 a law in the United Kingdom protects crabs as animals that feel.. *Why:* This is a real argument among scientists and cooks. A good answer weighs evidence and is fair to each side.
 9. (mcq) In 1668 Francesco Redi put meat in open jars and in jars covered with cloth. Maggots appeared only on the meat in the open jars. What did this show?  
    Options: Maggots grow from meat by themselves / Maggots come from eggs laid by flies / Cloth makes maggots / Meat goes bad only in open jars  

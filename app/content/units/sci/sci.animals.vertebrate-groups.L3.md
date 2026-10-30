@@ -623,7 +623,7 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
    **Answer:** Dog → pants with their tongue out; Buffalo → lies in mud or water; Elephant → flaps their big ears; Person → sweats; Lizard → moves into shade. *Why:* Each animal has their own way. Drying water carries heat away in sweat, panting and wet mud. Elephants cool their blood in their ears. Lizards simply move out of the sun.
 9. (mcq) Why do frogs lay their eggs in water?  
    Options: Because frog eggs have no shell and would dry out in air / Because the water keeps them warm / Because frogs cannot walk on land  
-   **Answer:** Because frog eggs have no shell and would dry out in air. *Why:* Frog eggs are wrapped in jelly, with no shell. In dry air the jelly dries out, as in the egg in the air test. Picking 'cannot walk on land' is wrong, because adult frogs hop about on land.
+   **Answer:** Because frog eggs have no shell and would dry out in air. *Why:* Frog eggs are wrapped in jelly, with no shell. In dry air the jelly dries out, as in the Egg in the Air test. Picking 'cannot walk on land' is wrong, because adult frogs hop about on land.
 10. (perspective) In the Thar desert, food is hard to find, the days are very hot and the winter nights are freezing. Two friends argue about which kind of animal has the better life there.  
    **Answer:** A strong answer picks a side with a reason, such as 'making your own heat burns lots of food, and desert food is scarce.' It also gives the other side fairly: the gerbil can stay busy on a cold night, when the lizard cannot.. *Why:* Each way of keeping warm has a cost and a gain. Neither is simply better. A good answer weighs both.
 11. (mcq) Which animal feeds their babies milk?  
@@ -656,7 +656,7 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
    Options: Wet wool has no trapped air, and drying water carries heat away / Water is always cold / The sock was too small  
    **Answer:** Wet wool has no trapped air, and drying water carries heat away. *Why:* Wet fur or wool loses its trapped air, and the water drying off takes heat with it. That is why a wet dog shivers.
 7. (order) Put these in order, from the animal that looks after their babies least to most.  
-   **Answer:** order shown. *Why:* The rohu leaves lakhs of eggs. The frog leaves her jelly eggs. The sparrow warms and feeds a few chicks for weeks. The elephant mother cares for one calf for years.
+   **Answer:** order shown. *Why:* The rohu lays lakhs of eggs and swims away. Sparrow parents warm and feed a few chicks for a few weeks. An elephant mother, with the other females of her herd, cares for one calf for years.
 8. (truefalse) In olive ridley turtles, warmer nests give more female babies.  
    **Answer:** True. *Why:* True. In many turtles, the warmth of the sand decides whether a baby is male or female.
 9. (mcq) Which animal is a mammal that lays eggs?  
@@ -666,7 +666,7 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
    Options: It has more skin for its size, so heat escapes faster / Small things are always colder / The water inside is different  
    **Answer:** It has more skin for its size, so heat escapes faster. *Why:* A small body has lots of surface for its size, so heat leaks out fast. That is why tiny birds and mice must eat so often.
 11. (match) Match the animal parent to what they do.  
-   **Answer:** Mugger crocodile mother → carries her hatchlings in her mouth; Emperor penguin father → holds the egg on his feet; Great hornbill mother → seals herself in a tree hole with her eggs; Pigeon parents → feed chicks crop milk. *Why:* Every group has parents that care for their young, in very different ways.
+   **Answer:** Mugger crocodile mother → carries her hatchlings in her mouth; Emperor penguin father → holds the egg on his feet; Great hornbill mother → seals herself in a tree hole with her eggs; Pigeon parents → feed chicks crop milk. *Why:* Every group has parents who care for their young, in very different ways.
 12. (fill) Lying in the sun to warm up is called ____.  
    **Answer:** ['basking']. *Why:* Lizards, snakes, crocodiles and turtles bask to warm their bodies.
 13. (write) A pigeon looks fat and round on a winter morning. Explain why.  
@@ -693,7 +693,7 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
    **Answer:** order shown. *Why:* Fish came first, more than 500 million years ago. Some fish gave rise to four-legged animals like amphibians. Then came animals with shelled eggs, the ancestors of reptiles and mammals. Birds came later, from dinosaurs.
 7. (mcq) Alligators were found in 2010 to share something with birds. What?  
    Options: Feathers / Air flowing one way through their lungs / Warm blood  
-   **Answer:** Air flowing one way through their lungs. *Why:* C.G. Farmer and Kent Sanders found that air flows one way through alligator lungs, as in birds. Birds and crocodiles are close cousins.
+   **Answer:** Air flowing one way through their lungs. *Why:* Colleen Farmer and Kent Sanders found that air flows one way through alligator lungs, as in birds. Birds and crocodiles are close cousins.
 8. (write) Kavya says: 'My sweater makes heat. That is why I feel warm when I put it on.' What is wrong with her idea? How could the Fur Coat Test show it?  
    **Answer:** The sweater makes no heat. It traps still air, which holds in the heat that Kavya's body makes. In the Fur Coat Test, the wrapped bottle still cooled, only more slowly. A sweater on a chair, or wrapped round a bottle of cold water, never gets warm.. *Why:* A strong answer says the heat comes from the body, and the wool only slows it leaving. It uses the test as evidence.
 9. (write) A rohu lays lakhs of eggs. An elephant has one calf every few years. Why might each way work?  
@@ -705,8 +705,8 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
 12. (mcq) In 1774, Charles Blagden and George Fordyce sat in a room heated far above the boiling point of water. Eggs left in the room cooked hard. But the two men came out well, dripping with sweat. What does this show?  
    Options: A body that makes its own heat also works to stay cool, for example by sweating. / The room thermometer was broken. / People cannot get hot at all. / Eggs cook more easily than people because eggs are smaller.  
    **Answer:** A body that makes its own heat also works to stay cool, for example by sweating.. *Why:* Before this, many people thought a body heats up like a stone in the sun. But a living body keeps its own warmth steady. Sweat drying on the skin carries heat away. A stone, or an egg, cannot do that.
-13. (draw) Draw the sun and draw arrows to show two paths its warmth takes: one straight to a basking lizard, and one through plants and food to a warm cow.  
-   **Answer:** One arrow from the sun to the lizard. Another from the sun to grass, then from the grass to the cow.. *Why:* Both animals are warmed by the sun, by different paths.
+13. (draw) A mother bird sits on her eggs on a cold, windy night. Draw her from the side, cut in half. Label how her body heat reaches the eggs, and what stops the heat escaping.  
+   **Answer:** The mother's belly touching the eggs, with a bare patch of skin there, labelled 'her heat goes into the eggs'. Fluffed feathers around her and the nest under the eggs, labelled 'trapped still air keeps the heat in'.. *Why:* Eggs cannot make their own heat, so the mother lends them hers. Many birds grow a bare 'brood patch' on the belly, so warm skin touches the eggs. Feathers and the nest trap still air, just like the sock in the Fur Coat Test.
 14. (truefalse) Some snakes, such as Russell's viper, give birth to live babies instead of laying eggs.  
    **Answer:** True. *Why:* True. The eggs hatch inside the mother, and the babies are born alive.
 15. (write) Your body makes heat from food all the time, and that heat keeps leaving you. Where does it go? Say what you think.  
@@ -730,9 +730,9 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
 4. (mcq) Which animal breathes only with gills, all their life?  
    Options: A rohu fish / A frog / A dolphin  
    **Answer:** A rohu fish. *Why:* A rohu has gills from egg to old age. A frog has gills only as a tadpole, then lungs and damp skin. A dolphin has lungs.
-5. (mcq) It is a cold winter morning, before the sun is up. Which animal will be quick and busy?  
-   Options: A house sparrow / A garden lizard / Both, the same  
-   **Answer:** A house sparrow. *Why:* The sparrow makes their own heat from food, so they are warm even on a cold morning. The lizard takes heat from outside, so they stay cold and slow until the sun warms them.
+5. (mcq) All day, a garden lizard moves from a sunny wall into the shade, and back again. Why?  
+   Options: To stay not too cold and not too hot, because they take their heat from outside / To look for food in two places / Because they are scared of the sun  
+   **Answer:** To stay not too cold and not too hot, because they take their heat from outside. *Why:* A lizard cannot make or lose heat on purpose the way a sparrow can. So they move: into the sun to warm up, into the shade before they get too hot. Their behaviour does the job that a mammal's or a bird's body does inside.
 6. (mcq) Why does a lizard lie on a sunny wall in the morning?  
    Options: To dry their skin / To warm up, because they take their heat from outside / To hide from birds  
    **Answer:** To warm up, because they take their heat from outside. *Why:* Lizards take their warmth from the sun. Until they are warm, their muscles are slow. Picking 'to hide' is unlikely, since a sunny wall is easy to see.

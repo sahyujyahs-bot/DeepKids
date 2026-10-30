@@ -927,14 +927,14 @@
     },
     {
      "t": "mcq",
-     "p": "Janani, a girl in Class 4, is waiting for the school bus on a cold morning. Her arms and jaw start to shake. What is her body doing?",
+     "p": "Vikram, a boy in Class 4, is waiting for the school bus on a cold morning. His arms and jaw start to shake. What is his body doing?",
      "opts": [
-      "Cooling her down",
-      "Shaking because she is scared",
-      "Working her muscles fast to make heat"
+      "Cooling him down",
+      "Shaking because he is scared",
+      "Working his muscles fast to make heat"
      ],
      "a": 2,
-     "why": "This is shivering. Working muscles make heat, so shaking fast warms her up. Picking 'cooling down' mixes up shivering with sweating."
+     "why": "This is shivering. Working muscles make heat, so shaking fast warms him up. Picking 'cooling down' mixes up shivering with sweating."
     },
     {
      "t": "truefalse",
@@ -1293,14 +1293,10 @@
      "why": "A watering mouth gets ready for food before it arrives. The other three happen after the change. This idea is called allostasis, and scientists still argue how important it is."
     },
     {
-     "t": "fill",
-     "p": "In the sweaty tumbler test, the wet cloth tumbler went from 40 to 31 degrees. The dry cloth tumbler went from 40 to 37 degrees. The wet one dropped ____ degrees and the dry one dropped ____ degrees.",
-     "a": [
-      "9",
-      "3"
-     ],
-     "why": "40 take away 31 is 9. 40 take away 37 is 3. The wet one cooled 3 times as much.",
-     "how": "e1"
+     "t": "truefalse",
+     "p": "Drinking far more water than you need, many litres in a short time, is always safe, because water is good for you.",
+     "a": false,
+     "why": "False. The body keeps its water and salt just right. Too much water in a short time makes the blood too watery, and that can make a person very ill. A strong answer says 'just right' matters both ways: too little and too much."
     },
     {
      "t": "mcq",
@@ -1402,10 +1398,10 @@
     },
     {
      "t": "write",
-     "p": "In the story The Pot That Sweats, the clay matka says, 'I stay cool because I let a little go.' How is your body like the matka?",
-     "lines": 3,
-     "a": "My body lets a little water out as sweat. When the sweat dries, it takes heat from my skin. So, like the matka, I cool down by losing a little water.",
-     "why": "Sweat cools you the same way the matka cools its water: water evaporates from the outside and carries heat away."
+     "p": "A fridge and your body both keep things just right. Name one way they are alike, and one way they are different.",
+     "lines": 4,
+     "a": "Alike: both notice a change, decide and act, then check again, to stay near a set number. Different: the fridge can only cool, but my body can cool down and also warm up. My body makes its own heat from food, and it keeps many things right, like water and saltiness, not just warmth.",
+     "why": "A strong answer names the feedback loop (notice, decide, act, check again) as the likeness, and gives a real difference, such as the body warming as well as cooling, or keeping water and salt right too."
     },
     {
      "t": "write",
@@ -2642,14 +2638,14 @@
   },
   {
    "t": "mcq",
-   "p": "After a long game of cricket in the sun, Farzana feels thirsty. Why?",
+   "p": "After a long game of cricket in the sun, Imran feels thirsty. Why?",
    "opts": [
-    "She lost water in sweat, her blood got a little saltier, and her brain noticed",
+    "He lost water in sweat, his blood got a little saltier, and his brain noticed",
     "Her tummy is empty",
     "The sun dried her mouth from the outside"
    ],
    "a": 0,
-   "why": "Sweat takes water out of the body. The blood gets a little too salty, and the hypothalamus makes her feel thirsty. Picking 'tummy is empty' mixes up thirst with hunger.",
+   "why": "Sweat takes water out of the body. The blood gets a little too salty, and the hypothalamus makes him feel thirsty. Picking 'tummy is empty' mixes up thirst with hunger.",
    "outcome": 2
   },
   {
