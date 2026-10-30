@@ -6155,8 +6155,9 @@ body {
 .rsopen img {
   width: 100%;
   aspect-ratio: 16 / 10;
-  object-fit: cover;
-  background: var(--sunk);
+  object-fit: contain;
+  background: #fff;
+  border-bottom: 1px solid var(--line);
 }
 .rsbody {
   display: grid;
@@ -6185,7 +6186,8 @@ body {
 .rstop img {
   width: 100%;
   max-height: 220px;
-  object-fit: cover;
+  object-fit: contain;
+  background: #fff;
   border-radius: var(--r-lg);
 }
 .rstop h2 {
@@ -6211,6 +6213,7 @@ body {
 .rsflash {
   display: grid;
   gap: 10px;
+  margin-bottom: 80px;
   min-height: 260px;
   align-content: start;
   border-top: 5px solid var(--peri);
