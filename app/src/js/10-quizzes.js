@@ -319,8 +319,16 @@ function quizPool(s, focus) {
   const w = (q) => (M[q.id]?.r === 0 ? 0 : g[q.k] === "not" ? 1 : !M[q.id] ? 2 : 3);
   return B.slice().sort((a, b) => w(a) - w(b));
 }
+// before any lesson is done: the level quiz, to check each subject's class (the same one as in set-up)
+function lvqOffer() {
+  const L = S.subjects.filter(fxHasPQ),
+    r = ui.lvqDone;
+  if (!L.length) return "";
+  return `<section class="card"><b style="font:600 17px var(--display)">Check ${esc(S.child || "your child")}'s level</b><p class="sm">A 2-minute quiz per subject. It finds the class your child is at now, so the plan starts in the right place.</p>${r ? `<p class="sm"><b>${SUBJ[r.s]}: Class ${r.lvl}.</b> ${r.lvl === S.levels[r.s] ? "That's the class the plan already uses." : `The plan uses Class ${S.levels[r.s]}.`}</p>${r.lvl !== S.levels[r.s] ? `<button class="btn sm" data-act="lvqset" data-s="${r.s}" data-l="${r.lvl}">Use Class ${r.lvl} for ${SUBJ[r.s]}</button>` : ""}` : ""}<div class="row">${L.map((s) => `<button class="btn soft sm" data-act="lvq" data-s="${s}">${SUBJ[s]}</button>`).join("")}</div></section>`;
+}
 function quizzView() {
   document.getElementById("sheetTitle").textContent = "Quick quiz";
+  if (ui.lvq) return lvqCard(ui.lvq, 'data-act="lvqa" data-v');
   if (ui.qrun) return quizRunView();
   if (ui.qzv) return quizPastView();
   const Z = (ui.qz = ui.qz || { s: "all", by: "n", n: 10, m: 10, focus: "mix" }),
@@ -335,7 +343,7 @@ function quizzView() {
     <span class="eyebrow">How long</span>${seg("by", ["n", "m"], (v) => (v === "n" ? "Number of questions" : "Minutes"))}${Z.by === "n" ? seg("n", [5, 10, 15, 20], (v) => v + " questions") : seg("m", [5, 10, 15, 20], (v) => v + " min")}
     <span class="eyebrow">Which questions</span>${seg("focus", ["mix", "not", "even"], (v) => ({ mix: "Weak spots first", not: "Only not grasped", even: "Everything" })[v])}
     <button class="btn accent" data-act="qzstart" ${cnt(Z.s) ? "" : "disabled"}>Start the quiz</button>
-    ${!U.length ? `<p class="xs muted">Do a lesson or two first. Questions come from lessons you've done.</p>` : !cnt(Z.s) ? `<p class="xs muted">No questions yet for this choice.</p>` : ""}</section>
+    ${!U.length ? `<p class="xs muted">Do a lesson or two first. Questions come from lessons you've done.</p>` : !cnt(Z.s) ? `<p class="xs muted">No questions yet for this choice.</p>` : ""}</section>${!U.length ? lvqOffer() : ""}
    ${noBank.length ? `<section class="card"><b>${noBank.map((s) => SUBJ[s]).join(", ")}: no questions yet</b><p class="xs muted">These chapters don't have quiz questions in DeepKids yet.</p>${SAMPLE ? `<button class="btn soft sm" data-act="qgen" ${ui.qgen ? "disabled" : ""}>${ui.qgen ? "Writing questions…" : "Write questions with Claude"}</button>` : `<p class="xs muted">With DeepKids Plus, Claude writes questions for them.</p>`}</section>` : ""}
    <section class="card"><div class="sech"><b style="font:600 17px var(--display)">How it's sticking</b><button class="link" data-act="rfset">Lists and refresher settings</button></div><div class="row">${["not", "grasped", "mastered"].map((g) => `<span class="pill mg-${g}">${MGN[g]} · ${L[g].length}</span>`).join("")}</div></section>
    ${

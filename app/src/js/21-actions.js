@@ -203,6 +203,36 @@ function onAct(e) {
       openSheet({ mode: "swap", s: b.dataset.s });
       break;
     }
+    case "lvq": {
+      ui.lvq = lvqNew(b.dataset.s, S.levels[b.dataset.s] || 3);
+      ui.lvqDone = null;
+      sfx("flip");
+      renderSheet(true);
+      break;
+    }
+    case "lvqa": {
+      if (b.dataset.v === "stop") ui.lvq = null;
+      else {
+        const lvl = lvqStep(ui.lvq, b.dataset.v === "1");
+        if (lvl) {
+          ui.lvqDone = { s: ui.lvq.s, lvl };
+          ui.lvq = null;
+        }
+      }
+      sfx("tap");
+      renderSheet(true);
+      break;
+    }
+    case "lvqset": {
+      S.levels = { ...S.levels, [b.dataset.s]: +b.dataset.l };
+      ui.lvqDone = null;
+      _sess = null;
+      sfx("ok");
+      toast(`${SUBJ[b.dataset.s]} now plans from Class ${b.dataset.l}`);
+      commit();
+      renderSheet();
+      break;
+    }
     case "catchup": {
       const s = b.dataset.s,
         ks = b.dataset.ks.split("~");

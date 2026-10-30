@@ -931,7 +931,7 @@ document.addEventListener(
       e.preventDefault();
       e.stopPropagation();
       const s = qz.dataset.obquiz;
-      ob.quiz = { s, l: d.levels[s] || obCls(d), i: 0, n: 0, k: 0, best: 0, low: 6 };
+      ob.quiz = lvqNew(s, d.levels[s] || obCls(d));
       render();
       return;
     }
@@ -946,25 +946,11 @@ document.addEventListener(
         render();
         return;
       }
-      if (v === "1") Q.k++;
-      Q.i++;
-      Q.n++;
-      if (Q.i < 3) {
+      const lvl = lvqStep(Q, v === "1");
+      if (!lvl) {
         render();
         return;
       }
-      const passed = Q.k >= 2;
-      if (passed) Q.best = Math.max(Q.best, Q.l);
-      else Q.low = Math.min(Q.low, Q.l);
-      const next = passed ? Q.l + 1 : Q.l - 1;
-      if (next >= 1 && next <= 5 && next < Q.low && next > Q.best && Q.n < 12) {
-        Q.l = next;
-        Q.i = 0;
-        Q.k = 0;
-        render();
-        return;
-      }
-      const lvl = Math.max(1, Q.best || Math.max(1, Q.low - 1));
       d.levels[Q.s] = lvl;
       d.picked = { ...(d.picked || {}), [Q.s]: 1 };
       ob.quiz = null;

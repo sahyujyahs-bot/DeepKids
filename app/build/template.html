@@ -12425,8 +12425,16 @@ function quizPool(s, focus) {
   const w = (q) => (M[q.id]?.r === 0 ? 0 : g[q.k] === "not" ? 1 : !M[q.id] ? 2 : 3);
   return B.slice().sort((a, b) => w(a) - w(b));
 }
+// before any lesson is done: the level quiz, to check each subject's class (the same one as in set-up)
+function lvqOffer() {
+  const L = S.subjects.filter(fxHasPQ),
+    r = ui.lvqDone;
+  if (!L.length) return "";
+  return `<section class="card"><b style="font:600 17px var(--display)">Check ${esc(S.child || "your child")}'s level</b><p class="sm">A 2-minute quiz per subject. It finds the class your child is at now, so the plan starts in the right place.</p>${r ? `<p class="sm"><b>${SUBJ[r.s]}: Class ${r.lvl}.</b> ${r.lvl === S.levels[r.s] ? "That's the class the plan already uses." : `The plan uses Class ${S.levels[r.s]}.`}</p>${r.lvl !== S.levels[r.s] ? `<button class="btn sm" data-act="lvqset" data-s="${r.s}" data-l="${r.lvl}">Use Class ${r.lvl} for ${SUBJ[r.s]}</button>` : ""}` : ""}<div class="row">${L.map((s) => `<button class="btn soft sm" data-act="lvq" data-s="${s}">${SUBJ[s]}</button>`).join("")}</div></section>`;
+}
 function quizzView() {
   document.getElementById("sheetTitle").textContent = "Quick quiz";
+  if (ui.lvq) return lvqCard(ui.lvq, 'data-act="lvqa" data-v');
   if (ui.qrun) return quizRunView();
   if (ui.qzv) return quizPastView();
   const Z = (ui.qz = ui.qz || { s: "all", by: "n", n: 10, m: 10, focus: "mix" }),
@@ -12441,7 +12449,7 @@ function quizzView() {
     <span class="eyebrow">How long</span>${seg("by", ["n", "m"], (v) => (v === "n" ? "Number of questions" : "Minutes"))}${Z.by === "n" ? seg("n", [5, 10, 15, 20], (v) => v + " questions") : seg("m", [5, 10, 15, 20], (v) => v + " min")}
     <span class="eyebrow">Which questions</span>${seg("focus", ["mix", "not", "even"], (v) => ({ mix: "Weak spots first", not: "Only not grasped", even: "Everything" })[v])}
     <button class="btn accent" data-act="qzstart" ${cnt(Z.s) ? "" : "disabled"}>Start the quiz</button>
-    ${!U.length ? `<p class="xs muted">Do a lesson or two first. Questions come from lessons you've done.</p>` : !cnt(Z.s) ? `<p class="xs muted">No questions yet for this choice.</p>` : ""}</section>
+    ${!U.length ? `<p class="xs muted">Do a lesson or two first. Questions come from lessons you've done.</p>` : !cnt(Z.s) ? `<p class="xs muted">No questions yet for this choice.</p>` : ""}</section>${!U.length ? lvqOffer() : ""}
    ${noBank.length ? `<section class="card"><b>${noBank.map((s) => SUBJ[s]).join(", ")}: no questions yet</b><p class="xs muted">These chapters don't have quiz questions in DeepKids yet.</p>${SAMPLE ? `<button class="btn soft sm" data-act="qgen" ${ui.qgen ? "disabled" : ""}>${ui.qgen ? "Writing questions…" : "Write questions with Claude"}</button>` : `<p class="xs muted">With DeepKids Plus, Claude writes questions for them.</p>`}</section>` : ""}
    <section class="card"><div class="sech"><b style="font:600 17px var(--display)">How it's sticking</b><button class="link" data-act="rfset">Lists and refresher settings</button></div><div class="row">${["not", "grasped", "mastered"].map((g) => `<span class="pill mg-${g}">${MGN[g]} · ${L[g].length}</span>`).join("")}</div></section>
    ${
@@ -20099,14 +20107,36 @@ function fxPQ(s, l) {
     return [q.q, q.a];
   });
 }
+/* The level quiz: three questions at a class; two right moves up a class, fewer moves down, until the level is found.
+   Used in set-up and in Quick quiz before any lesson is done. */
+const lvqNew = (s, l) => ({ s, l, i: 0, n: 0, k: 0, best: 0, low: 6 });
+function lvqCard(Q, attr) {
+  const q = fxPQ(Q.s, Q.l)[Q.i];
+  return `<h1>${SUBJ[Q.s]} level quiz</h1><p class="muted">Question ${Q.n + 1}. Ask it out loud. Show the answer only after your child has tried.</p><div class="card"><p style="font-size:20px"><b>${esc(q[0])}</b></p><details><summary class="link">Show the answer</summary><p>${esc(q[1])}</p></details></div><div class="row"><button class="btn" ${attr}="1">They knew it</button><button class="btn soft" ${attr}="0">Not yet</button></div><button class="link" ${attr}="stop">Stop the quiz</button>`;
+}
+// one answer in; returns the level once it is found, else 0
+function lvqStep(Q, knew) {
+  if (knew) Q.k++;
+  Q.i++;
+  Q.n++;
+  if (Q.i < 3) return 0;
+  const passed = Q.k >= 2;
+  if (passed) Q.best = Math.max(Q.best, Q.l);
+  else Q.low = Math.min(Q.low, Q.l);
+  const next = passed ? Q.l + 1 : Q.l - 1;
+  if (next >= 1 && next <= 5 && next < Q.low && next > Q.best && Q.n < 12) {
+    Q.l = next;
+    Q.i = 0;
+    Q.k = 0;
+    return 0;
+  }
+  return Math.max(1, Q.best || Math.max(1, Q.low - 1));
+}
 const fxHasPQ = (s) => [1, 2, 3, 4, 5].every((l) => fxPQ(s, l).length);
 const fxObNav = (back, label) =>
   `<div class="row" style="justify-content:space-between">${back ? `<button class="btn soft" data-ob="back">Back</button>` : "<span></span>"}<button class="btn" data-ob="next">${label}</button></div>`;
 function fxObQuiz() {
-  const Q = ob.quiz,
-    L = fxPQ(Q.s, Q.l),
-    q = L[Q.i];
-  return `<div class="ob">${fxObBar(3)}<h1>${SUBJ[Q.s]} quiz</h1><p class="muted">Question ${Q.n + 1}. Ask it out loud. Show the answer only after your child has tried.</p><div class="card"><p style="font-size:20px"><b>${esc(q[0])}</b></p><details><summary class="link">Show the answer</summary><p>${esc(q[1])}</p></details></div><div class="row"><button class="btn" data-obqa="1">They knew it</button><button class="btn soft" data-obqa="0">Not yet</button></div><button class="link" data-obqa="stop">Stop the quiz</button></div>`;
+  return `<div class="ob">${fxObBar(3)}${lvqCard(ob.quiz, "data-obqa")}</div>`;
 }
 const FXINTRO = [
   [
@@ -21887,6 +21917,36 @@ function onAct(e) {
     case "swap": {
       sfx("flip");
       openSheet({ mode: "swap", s: b.dataset.s });
+      break;
+    }
+    case "lvq": {
+      ui.lvq = lvqNew(b.dataset.s, S.levels[b.dataset.s] || 3);
+      ui.lvqDone = null;
+      sfx("flip");
+      renderSheet(true);
+      break;
+    }
+    case "lvqa": {
+      if (b.dataset.v === "stop") ui.lvq = null;
+      else {
+        const lvl = lvqStep(ui.lvq, b.dataset.v === "1");
+        if (lvl) {
+          ui.lvqDone = { s: ui.lvq.s, lvl };
+          ui.lvq = null;
+        }
+      }
+      sfx("tap");
+      renderSheet(true);
+      break;
+    }
+    case "lvqset": {
+      S.levels = { ...S.levels, [b.dataset.s]: +b.dataset.l };
+      ui.lvqDone = null;
+      _sess = null;
+      sfx("ok");
+      toast(`${SUBJ[b.dataset.s]} now plans from Class ${b.dataset.l}`);
+      commit();
+      renderSheet();
       break;
     }
     case "catchup": {
@@ -25159,7 +25219,7 @@ document.addEventListener(
       e.preventDefault();
       e.stopPropagation();
       const s = qz.dataset.obquiz;
-      ob.quiz = { s, l: d.levels[s] || obCls(d), i: 0, n: 0, k: 0, best: 0, low: 6 };
+      ob.quiz = lvqNew(s, d.levels[s] || obCls(d));
       render();
       return;
     }
@@ -25174,25 +25234,11 @@ document.addEventListener(
         render();
         return;
       }
-      if (v === "1") Q.k++;
-      Q.i++;
-      Q.n++;
-      if (Q.i < 3) {
+      const lvl = lvqStep(Q, v === "1");
+      if (!lvl) {
         render();
         return;
       }
-      const passed = Q.k >= 2;
-      if (passed) Q.best = Math.max(Q.best, Q.l);
-      else Q.low = Math.min(Q.low, Q.l);
-      const next = passed ? Q.l + 1 : Q.l - 1;
-      if (next >= 1 && next <= 5 && next < Q.low && next > Q.best && Q.n < 12) {
-        Q.l = next;
-        Q.i = 0;
-        Q.k = 0;
-        render();
-        return;
-      }
-      const lvl = Math.max(1, Q.best || Math.max(1, Q.low - 1));
       d.levels[Q.s] = lvl;
       d.picked = { ...(d.picked || {}), [Q.s]: 1 };
       ob.quiz = null;

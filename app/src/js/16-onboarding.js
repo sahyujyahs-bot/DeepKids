@@ -280,14 +280,36 @@ function fxPQ(s, l) {
     return [q.q, q.a];
   });
 }
+/* The level quiz: three questions at a class; two right moves up a class, fewer moves down, until the level is found.
+   Used in set-up and in Quick quiz before any lesson is done. */
+const lvqNew = (s, l) => ({ s, l, i: 0, n: 0, k: 0, best: 0, low: 6 });
+function lvqCard(Q, attr) {
+  const q = fxPQ(Q.s, Q.l)[Q.i];
+  return `<h1>${SUBJ[Q.s]} level quiz</h1><p class="muted">Question ${Q.n + 1}. Ask it out loud. Show the answer only after your child has tried.</p><div class="card"><p style="font-size:20px"><b>${esc(q[0])}</b></p><details><summary class="link">Show the answer</summary><p>${esc(q[1])}</p></details></div><div class="row"><button class="btn" ${attr}="1">They knew it</button><button class="btn soft" ${attr}="0">Not yet</button></div><button class="link" ${attr}="stop">Stop the quiz</button>`;
+}
+// one answer in; returns the level once it is found, else 0
+function lvqStep(Q, knew) {
+  if (knew) Q.k++;
+  Q.i++;
+  Q.n++;
+  if (Q.i < 3) return 0;
+  const passed = Q.k >= 2;
+  if (passed) Q.best = Math.max(Q.best, Q.l);
+  else Q.low = Math.min(Q.low, Q.l);
+  const next = passed ? Q.l + 1 : Q.l - 1;
+  if (next >= 1 && next <= 5 && next < Q.low && next > Q.best && Q.n < 12) {
+    Q.l = next;
+    Q.i = 0;
+    Q.k = 0;
+    return 0;
+  }
+  return Math.max(1, Q.best || Math.max(1, Q.low - 1));
+}
 const fxHasPQ = (s) => [1, 2, 3, 4, 5].every((l) => fxPQ(s, l).length);
 const fxObNav = (back, label) =>
   `<div class="row" style="justify-content:space-between">${back ? `<button class="btn soft" data-ob="back">Back</button>` : "<span></span>"}<button class="btn" data-ob="next">${label}</button></div>`;
 function fxObQuiz() {
-  const Q = ob.quiz,
-    L = fxPQ(Q.s, Q.l),
-    q = L[Q.i];
-  return `<div class="ob">${fxObBar(3)}<h1>${SUBJ[Q.s]} quiz</h1><p class="muted">Question ${Q.n + 1}. Ask it out loud. Show the answer only after your child has tried.</p><div class="card"><p style="font-size:20px"><b>${esc(q[0])}</b></p><details><summary class="link">Show the answer</summary><p>${esc(q[1])}</p></details></div><div class="row"><button class="btn" data-obqa="1">They knew it</button><button class="btn soft" data-obqa="0">Not yet</button></div><button class="link" data-obqa="stop">Stop the quiz</button></div>`;
+  return `<div class="ob">${fxObBar(3)}${lvqCard(ob.quiz, "data-obqa")}</div>`;
 }
 const FXINTRO = [
   [
