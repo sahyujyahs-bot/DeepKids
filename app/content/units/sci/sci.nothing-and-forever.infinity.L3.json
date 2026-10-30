@@ -1,0 +1,2384 @@
+{
+ "id": "sci.nothing-and-forever.infinity.L3",
+ "title": "Infinity: why the numbers never end",
+ "level": 3,
+ "summary": {
+  "text": "Whatever number you say, someone can always say one more. So there is no biggest number. The counting numbers go on without end, and the word for 'without end' is infinity. Infinity is not a number you can count to, because counting never finishes. Very big things, such as the grains of rice in a sack or the hairs on your head, are not infinite. They are huge, but they can be counted. In this unit you time yourself counting, count the rice in a cup, and find out how a person can be sure of something they can never finish.",
+  "art": "A child on a balcony in a city flat at dusk, saying numbers out loud, with a long line of numbers growing bigger and bigger and running off into the sky with an arrow at the end."
+ },
+ "intro": {
+  "hook": "Try this with a grown-up. You say the biggest number you can think of. Then the grown-up says one more. Try again with an even bigger number. Can you ever win?",
+  "text": "However big your number is, the grown-up can always add one. Children all over the world discover this game. Mathematicians say it shows something true: there is no biggest number. The numbers go on for ever, and we call this infinity. In this unit you find out how long counting really takes, why nobody can count to the end, and why infinity is not a number at all.",
+  "art": "A girl and her grandmother on a sofa, the girl holding up a paper with a huge number written on it, and the grandmother holding up the same number with '+ 1' added at the end."
+ },
+ "outcomes": [
+  "I can explain why there is no biggest number: any number plus one is a bigger number.",
+  "I can say that infinity means 'without end', and explain why it is not a number you can count to.",
+  "I can time how long counting takes, and use my results to explain why nobody can count to the end of the numbers.",
+  "I can estimate a very big number, such as the grains of rice in a cup, and tell 'very many' apart from 'infinite'.",
+  "I can read and say big numbers using thousands, lakhs and crores, and I know some old Indian names for big numbers.",
+  "I can tell the story of Archimedes and the grains of sand, and say what people still do not know about infinity in the real world."
+ ],
+ "cards_mins": 15,
+ "terms": [
+  {
+   "term": "Counting numbers",
+   "meaning": "The counting numbers are the numbers we use to count things: 1, 2, 3, 4 and so on. Each one is one more than the number before it.",
+   "example": "You count the idlis on a plate: 1, 2, 3, 4. Those are counting numbers.",
+   "art": "A plate of four idlis, each with a small number 1 to 4 beside it."
+  },
+  {
+   "term": "Infinity",
+   "meaning": "Infinity means without end. We say the counting numbers go on to infinity, because they never stop. Infinity is not a counting number.",
+   "example": "You can keep adding 1 for ever and never reach a last number. That never-ending is what infinity means.",
+   "art": "A long road of numbered milestones, 1, 2, 3, 4, running towards the horizon with no end in sight."
+  },
+  {
+   "term": "Infinite",
+   "meaning": "Something is infinite if it has no end at all. However much of it you count or measure, there is always more.",
+   "example": "The counting numbers are infinite. The grains of sand on Marina Beach are not: there are a huge number, but it is a number.",
+   "art": "Two pictures side by side: a beach with sand, labelled 'very many', and a line of numbers with an arrow, labelled 'infinite'."
+  },
+  {
+   "term": "Finite",
+   "meaning": "Finite means it has an end. A finite amount can be counted or measured, even if it would take a very long time.",
+   "example": "The rice in a 5-kilogram bag is finite. You could count every grain if you had many days.",
+   "art": "A full bag of rice with a small heap of grains next to it, grouped in tens."
+  },
+  {
+   "term": "The infinity sign",
+   "meaning": "This is the sign for infinity: ∞. It looks like the number 8 lying on its side. An English mathematician, John Wallis, first used it in 1655.",
+   "example": "In a maths book you might see 1, 2, 3, … ∞. It means the numbers go on without end.",
+   "art": "The infinity sign drawn large in one smooth loop, with a small 8 standing up beside it for comparison."
+  },
+  {
+   "term": "Estimate",
+   "meaning": "To estimate is to work out a good guess of a number, without counting every single one. You count a small part, then work out the whole.",
+   "example": "Count the grains in one teaspoon of rice. Then count how many teaspoons fill a cup. Now you can estimate the grains in the cup.",
+   "art": "A teaspoon of rice tipped onto a plate, with grains pushed into little groups of ten."
+  },
+  {
+   "term": "Lakh and crore",
+   "meaning": "These are Indian names for big numbers. One lakh is a hundred thousand: 1,00,000. One crore is a hundred lakh: 1,00,00,000.",
+   "example": "A big city such as Chennai has about one crore people living in it and around it.",
+   "art": "A place-value chart with the columns labelled thousands, lakhs and crores, and a 1 followed by zeros written under them."
+  },
+  {
+   "term": "Number line",
+   "meaning": "A number line is a straight line with numbers marked on it in order, evenly spaced. An arrow at the end shows that the numbers go on.",
+   "example": "A ruler is a short number line. A number line drawn in a maths book has an arrow, because it never really stops.",
+   "art": "A number line from 0 to 10 with an arrow at the right end, and a small question mark beyond the arrow."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "There is no biggest number",
+   "status": "defined",
+   "definition": "There is no biggest counting number. For any number, adding one gives a bigger number. So the counting numbers never end.",
+   "description": "Think of the biggest number you can. Now add one. The new number is bigger, so the first one was not the biggest after all. This works for every number, however huge. A crore plus one is bigger than a crore. A crore crore plus one is bigger than a crore crore. Because the rule works every time, nobody needs to check every number to be sure. One simple rule tells us the numbers have no end. Mathematicians call a short argument like this a proof.",
+   "examples": [
+    "99 is followed by 100, 999 by 1,000, and 99,999 by 1,00,000.",
+    "If a friend says 'a crore is the biggest number', you can answer 'a crore and one'.",
+    "You can make a number bigger by writing one more digit at the end: 7, 77, 777, 7,777."
+   ],
+   "perspectives": [],
+   "art": "A staircase of numbers going up, 1, 10, 100, 1,000, with a child standing on the top step and another step always appearing above her.",
+   "context": "This card explains why the counting numbers never stop. It is the main idea of the unit."
+  },
+  {
+   "concept": "Infinity is not a number you can count to",
+   "status": "defined",
+   "definition": "Infinity means without end. It is not one of the counting numbers, so you can never reach it by counting.",
+   "description": "Many children think infinity is the biggest number, waiting far away at the end of the counting. But the counting has no end, so there is nowhere for infinity to wait. If infinity were a counting number, then infinity plus one would be bigger, and that does not work. So infinity is a word for the never-ending, not a place on the number line. In maths books the sign ∞ is used to say 'the numbers go on'. Much later, mathematicians found careful ways to compare different endless collections. You can meet those ideas in Class 5.",
+   "examples": [
+    "Counting 1, 2, 3, … and reaching infinity is impossible, because there is always a next number.",
+    "Saying 'infinity plus one' does not give a new number, because infinity was never a counting number.",
+    "A shopkeeper can sell you a crore grains of rice, but never an infinite number of grains."
+   ],
+   "perspectives": [],
+   "art": "A long number line with numbers getting smaller and smaller as they run into the distance, and the infinity sign floating above the whole line, not sitting on it.",
+   "context": "This card explains why infinity is not a number at the end of the counting. Many grown-ups find this surprising too."
+  },
+  {
+   "concept": "Very many is still finite",
+   "status": "defined",
+   "definition": "A collection is finite if it can be counted to the end, even if the count takes a very long time. Something infinite can never be counted to the end.",
+   "description": "People often say 'there are infinite stars' or 'infinite grains of sand'. They mean very many. But the grains of rice in a cup can be counted. So can the hairs on your head, which are usually about one lakh. Even the grains of sand on all the beaches of the Earth are a number, though nobody knows it exactly. You can estimate such numbers. Count a small part, then work out how many parts make the whole. Estimating shows that a pile you thought was endless has an end.",
+   "examples": [
+    "A cup of raw rice holds several thousand grains.",
+    "Most people have about one lakh hairs on their head.",
+    "The stars you can see on a dark night without a telescope number a few thousand, not infinity."
+   ],
+   "perspectives": [],
+   "art": "A heap of rice on a steel plate being split into small groups, with a big number written on a slate beside it.",
+   "context": "This card is about the difference between a very big number and infinity. It goes with the rice-counting experiment."
+  },
+  {
+   "concept": "Is anything in the real world infinite?",
+   "status": "debated",
+   "definition": "",
+   "description": "The numbers are infinite. But is there anything infinite that you could touch or see? Nobody knows. Scientists can see only part of the universe, because light from further away has not had time to reach us. Space may go on for ever. Or it may be finite, curving round like the surface of a ball, which has no edge but is not endless. Measurements so far show that space is very close to flat. That fits an endless universe, but it also fits a finite one that is far bigger than the part we see.",
+   "examples": [
+    "The part of the universe we can see has an edge, set by how far light has travelled since the universe began.",
+    "An ant walking on a football never reaches an edge, yet the football is not infinite.",
+    "Nobody has found anything in nature that has been measured to be infinite."
+   ],
+   "perspectives": [
+    {
+     "who": "Some cosmologists",
+     "explanation": "Space is flat as far as we can measure, and a flat space with no edge would go on for ever. So the universe may well be infinite."
+    },
+    {
+     "who": "Other cosmologists",
+     "explanation": "Space could curve back on itself very gently, like a huge ball. Then it would be finite but with no edge. Our measurements cannot yet tell these apart."
+    },
+    {
+     "who": "Some mathematicians and philosophers",
+     "explanation": "Infinity is a tool for thinking about numbers. Real things may always be finite, however big."
+    }
+   ],
+   "art": "An ant walking on a football that has no edge, next to a picture of stars fading into darkness, with a question mark between them.",
+   "context": "This card is about a question nobody can answer yet: is space itself endless?"
+  },
+  {
+   "concept": "How can we be sure of something we can never finish?",
+   "status": "idea",
+   "definition": "",
+   "description": "Nobody has ever counted all the numbers, and nobody ever will. Yet every mathematician agrees that they never end. We know it from a rule that works every time: add one, and you get a bigger number. People cannot check every case, but they can be sure the rule never fails. This is one of the oldest ideas in maths. Thinkers still discuss what it means that a short life can be sure of something endless.",
+   "examples": [
+    "You never counted past a few hundred, but you are sure there is a number after a crore crore.",
+    "An old Greek thinker, Aristotle, said infinity is something you can always go further into, but never finish.",
+    "Jain thinkers in ancient India sorted numbers into countable, uncountable and infinite."
+   ],
+   "perspectives": [
+    {
+     "who": "Most mathematicians",
+     "explanation": "The plus-one rule is a proof. Once a proof is found, the question is settled for ever."
+    },
+    {
+     "who": "Aristotle, in his book Physics",
+     "explanation": "Infinity is never complete. You can always take one more step, but you never hold all the steps at once."
+    }
+   ],
+   "art": "A child holding up one finger, with a line of numbers flowing out from it into the distance.",
+   "context": "This card asks how anyone can know the numbers never end, since nobody can count them all."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "There is no biggest counting number. Every number has a next number.",
+   "evidence": "Adding one to any number gives a bigger number. Mathematicians accept this as a proof, and nobody has ever found a number that breaks it."
+  },
+  {
+   "text": "Infinity is not one of the counting numbers.",
+   "evidence": "If infinity were a counting number, infinity plus one would be a bigger counting number. That cannot be, so infinity is not one of them."
+  },
+  {
+   "text": "Counting to even one million takes a person many weeks.",
+   "evidence": "In 2007, Jeremy Harper in the United States counted out loud from 1 to 1,000,000. It took him 89 days, counting about 16 hours a day."
+  },
+  {
+   "text": "Huge collections, such as the grains of sand on the Earth, are finite.",
+   "evidence": "Their size can be estimated by counting a small part and multiplying. Archimedes did this for sand about 2,200 years ago."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Infinity is the biggest number.",
+   "who": "A very common idea, among children and many grown-ups",
+   "for": "People say 'infinity' when they want to win the biggest-number game, and it sounds bigger than any number.",
+   "against": "If infinity were the biggest number, infinity plus one would be bigger still. Infinity is the name for the numbers never ending. It is not a number at their end.",
+   "status": "rejected",
+   "context": "This card is about the most common mistake people make about infinity."
+  },
+  {
+   "claim": "There are infinitely many grains of sand on a beach.",
+   "who": "A common saying, and the view Archimedes argued against about 2,200 years ago",
+   "for": "There are far too many grains to count, and new sand keeps arriving with the waves.",
+   "against": "Each grain takes up some space, and a beach has a size. So the number of grains is huge but finite. Archimedes showed that even sand filling the whole universe, as he pictured it, would be fewer than a 1 followed by 63 zeros.",
+   "status": "rejected",
+   "context": "This card is about the idea that very many things must be infinite."
+  },
+  {
+   "claim": "The universe goes on for ever.",
+   "who": "Some cosmologists",
+   "for": "Measurements show space is very nearly flat, and flat space with no edge would be infinite.",
+   "against": "We can see only part of the universe. Space might curve back gently and be finite, with no edge, like the surface of a ball.",
+   "status": "debated",
+   "context": "This card is about whether space itself is infinite. Nobody knows yet."
+  },
+  {
+   "claim": "Very large numbers that nobody could ever write down do not really exist.",
+   "who": "A small group of mathematicians called ultrafinitists",
+   "for": "No person or computer could ever write out a number with more digits than there are atoms in the universe. Perhaps such a number is only a name.",
+   "against": "Most mathematicians say the plus-one rule makes every number real in maths, whether or not anyone writes it down.",
+   "status": "minority",
+   "context": "This card is about a small group of mathematicians who doubt that endless numbers exist."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "If you can never count to infinity, how do you know the numbers never end?",
+   "kind": "deep",
+   "hint": "Think about the plus-one game. Did you need to check every number to know you would always win?"
+  },
+  {
+   "q": "Is anything you can touch infinite, or are only ideas infinite?",
+   "kind": "big",
+   "hint": "Think of the rice in the cup and the hairs on your head. Can you think of anything that might have no end?"
+  },
+  {
+   "q": "Why does counting get slower as the numbers get bigger?",
+   "kind": "deep",
+   "hint": "Say 'seven' and then 'one lakh twenty-three thousand four hundred and fifty-seven'. Which takes longer, and why?"
+  },
+  {
+   "q": "If time had no beginning, how long ago would yesterday be from the start?",
+   "kind": "big",
+   "hint": "Nobody knows whether time had a beginning. Think about what 'no start' would mean for counting days backwards."
+  },
+  {
+   "q": "Is infinity something people found, like a new star, or something people made, like a game?",
+   "kind": "big",
+   "hint": "Mathematicians argue about this. Think about the plus-one rule. Did someone invent it, or was it always true?"
+  }
+ ],
+ "story": {
+  "title": "The Last Number",
+  "mins": 12,
+  "read_aloud": true,
+  "note": "Kavya, Arjun and their grandmother are made up. Jeremy Harper's count to one million in 2007 (89 days) is real, and so is Archimedes' book The Sand Reckoner.",
+  "text": [
+   "It was the morning of Pongal in Madurai. The new clay pot sat on the stove on the balcony, and the milk inside was just starting to rise. Kavya, who was nine, was drawing a kolam by the door. Her cousin Arjun, who was seven, was sitting on the step and talking, as usual.",
+   "'I know the biggest number in the world,' Arjun said. 'It's a crore.'",
+   "'A crore and one,' said Kavya, without looking up from her kolam.",
+   "Arjun frowned. 'Then a crore crore.'",
+   "'A crore crore and one.'",
+   "'That's not fair!' said Arjun. 'You just add one every time.'",
+   "'Yes,' said Kavya. 'And I can always add one. So I always win.'",
+   "Arjun thought hard. Then he smiled a big smile. 'Infinity,' he said. 'Infinity is the biggest number. You can't add one to infinity.'",
+   "Their grandmother, Paati, was stirring the rice into the pot. She had taught maths at a girls' school in Madurai for thirty years. She put down the spoon.",
+   "'Arjun,' she said, 'let us test your idea. If infinity is a number, you can count to it. Start counting, and tell me when you get there.'",
+   "Arjun laughed and began. 'One, two, three, four…' He went fast at first. By fifty he was slower. By ninety-nine he took a breath. 'One hundred,' he said. 'One hundred and one.'",
+   "'Keep going,' said Paati.",
+   "At three hundred and seventy-two, Arjun stopped. 'My mouth is tired,' he said. 'And the numbers are getting longer. Three hundred and seventy-two takes much longer to say than four.'",
+   "'That is true,' said Paati. 'A man in America once counted out loud all the way to ten lakh. He counted for sixteen hours every day. It took him eighty-nine days.'",
+   "Arjun's eyes went wide. 'Eighty-nine days! But then he got to the end?'",
+   "'He got to ten lakh,' said Paati. 'Then what comes next?'",
+   "Arjun thought. 'Ten lakh and one.'",
+   "'So was ten lakh the end?'",
+   "'No,' said Arjun slowly. 'There's always a next one.'",
+   "Kavya put down her chalk. 'So nobody can ever count to infinity,' she said. 'Not even if they count for their whole life.'",
+   "'Then infinity isn't a number at all?' asked Arjun.",
+   "Paati smiled. 'Infinity is the word for this: the numbers never stop. It is not a number sitting at the end, because there is no end. Every number you can name has a next one.'",
+   "The milk in the pot was rising now. Kavya picked up the bag of rice that was left over. 'Paati, are there infinity grains of rice in this bag?'",
+   "'What do you think?' asked Paati.",
+   "Arjun said 'yes' at the same moment that Kavya said 'no'.",
+   "'Let us find out,' said Paati. She tipped one teaspoon of rice onto a steel plate. 'Count these, in groups of ten.'",
+   "Arjun and Kavya pushed the grains into little heaps. There were nineteen heaps of ten, and a few grains left over. 'About two hundred,' said Kavya.",
+   "'And how many teaspoons are in this bag?' asked Paati.",
+   "They did not count the whole bag. They filled a steel tumbler, one teaspoon at a time, and it took forty teaspoons. Then they found that the bag held about ten tumblers.",
+   "Kavya worked it out on the floor in chalk, next to her kolam. 'Two hundred grains in a teaspoon. Forty teaspoons in a tumbler. That is eight thousand grains in a tumbler. Ten tumblers is eighty thousand grains.'",
+   "'Eighty thousand!' said Arjun. 'That's almost a lakh!'",
+   "'A lot,' said Paati. 'But is it infinite?'",
+   "'No,' said Arjun. 'It's a number. We found it.'",
+   "'Very many is not the same as infinite,' said Paati. 'Long ago in Sicily, a Greek thinker called Archimedes heard people say the grains of sand were infinite. He worked out how many grains of sand would fill the whole universe, as people pictured it then. It was a huge number, but still a number. A very big pile still has an end. Only the numbers themselves go on for ever.'",
+   "Just then the milk foamed up and spilled over the side of the pot. Everyone shouted 'Pongalo Pongal!' as the family always did when the pot overflowed.",
+   "Arjun watched the foam running down. 'Paati,' he said, 'if nobody can count to the end, how do you know there is no end?'",
+   "Paati put an arm around him. 'Because of the rule you found,' she said. 'Add one, and you get a bigger number. That works every single time. You don't have to count for ever to know it. You only have to understand the rule.'",
+   "Arjun sat very still. Then he said, 'So my head is small, but I know something that never ends.'",
+   "'Yes,' said Paati. 'That is the most surprising thing of all.'"
+  ],
+  "epiphany": "For the parent: Arjun first thinks infinity is the biggest number, waiting at the end of the count. Counting out loud shows him two things: the numbers get longer and slower to say, and every number has a next one. So the count can never finish, and infinity is the name for that never-ending, not a number at the end. The rice shows the other half of the idea: a pile that feels endless can be estimated and has an end. At the close, Arjun sees that he knows the numbers never end without counting them all, because of the plus-one rule.",
+  "ask": [
+   "Why did Kavya always win the biggest-number game?",
+   "Why did Arjun get slower as he counted?",
+   "Did the bag of rice have infinitely many grains? How did they find out?",
+   "How does Paati know the numbers never end, if nobody has counted them all?"
+  ],
+  "art": [
+   "A balcony in Madurai on Pongal morning: a clay pot on a stove, a girl drawing a kolam by the door, and a younger boy sitting on the step talking.",
+   "A grandmother in a cotton saree stirring the pot while a boy counts on his fingers, his face tired.",
+   "Two children on the floor pushing grains of rice on a steel plate into little heaps of ten, with chalk sums next to a kolam.",
+   "The pot foaming over, the family cheering, and the boy looking up at his grandmother with a thoughtful face."
+  ]
+ },
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Does Counting Get Slower? Time yourself with small and big numbers",
+   "mins": 30,
+   "days": 1,
+   "question": "Does it take longer to say 20 big numbers than 20 small ones? Could anyone ever count to the end of the numbers?",
+   "predict": "Guess first. Will saying the numbers 1 to 20 take the same time as saying 351 to 370, or 1,23,451 to 1,23,470? Which list will be slowest, and why do you think so?",
+   "fair_test": "Every list has exactly 20 numbers. The same person reads all three lists, in the same room, at a normal speaking speed, saying every word. Each list is read twice, because one try can be a fluke.",
+   "results_table": [
+    "List",
+    "Try 1 (seconds)",
+    "Try 2 (seconds)",
+    "Which try was faster?"
+   ],
+   "materials": [
+    {
+     "item": "a phone with a stopwatch, or a clock with a seconds hand",
+     "qty": 1
+    },
+    {
+     "item": "a sheet of paper and a pen, for the three lists of numbers",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and pencil, for the results table",
+     "qty": 1
+    }
+   ],
+   "safety": "No safety problems. Take a sip of water between lists if your mouth gets dry.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 30,
+     "what": "Write three lists of 20 numbers. Read each list aloud twice while someone times it. Compare the times and work out how long counting to ten lakh would take."
+    }
+   ],
+   "record": "Fill in the table. Then draw a bar for each list's faster try, so you can see which list was slowest.",
+   "context": "In this experiment you read three lists of 20 numbers aloud, small, middle and big, and time each one. You find out whether bigger numbers take longer to say, and what that means for counting for ever.",
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example results",
+    "cols": [
+     "List",
+     "Try 1",
+     "Try 2",
+     "Faster try"
+    ],
+    "rows": [
+     [
+      "1 to 20",
+      "9 seconds",
+      "8 seconds",
+      "Try 2"
+     ],
+     [
+      "351 to 370",
+      "24 seconds",
+      "22 seconds",
+      "Try 2"
+     ],
+     [
+      "1,23,451 to 1,23,470",
+      "50 seconds",
+      "46 seconds",
+      "Try 2"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "A sheet of paper with three lists of 20 numbers written in digits: 1 to 20, 351 to 370, and 1,23,451 to 1,23,470.",
+     "caption": "1. A grown-up writes three lists of 20 numbers."
+    },
+    {
+     "art": "A child reading numbers aloud from the sheet while a parent holds a phone stopwatch.",
+     "caption": "2. Read each list aloud while someone times you."
+    },
+    {
+     "art": "A results table on paper with three rows and two tries each, and the times in seconds getting bigger down the table.",
+     "caption": "3. Write each time in the table and compare."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Write three lists of numbers in digits, one under the other. 2. List A: 1 to 20. 3. List B: 351 to 370. 4. List C: 1,23,451 to 1,23,470.",
+     "say": "I am writing three lists of numbers. Each list has exactly 20 numbers. Let's see if they all take the same time to say.",
+     "kid": "Ask a grown-up to write three lists. Each list has 20 numbers. List A is small. List C is very big.",
+     "parent": "Write the numbers in digits, with the Indian commas: 1,23,451. Before you start, practise saying one number from list C together: 'one lakh twenty-three thousand four hundred and fifty-one'. Your child reads every number in full, with no shortcuts like 'fifty-two, fifty-three'."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Point to the three lists. 2. Ask for a guess and a reason before any timing. 3. Write the guess at the top of the page.",
+     "say": "Before we start, what do you think? Will all three lists take the same time? Which will be slowest, and why?",
+     "kid": "Guess first. Will all three lists take the same time? Which will be slowest? Why do you think so? Write your guess.",
+     "ask": [
+      {
+       "q": "Which list do you think will be slowest, and why?",
+       "good": [
+        "List C, because the numbers have more words in them.",
+        "They will all be the same, because each list has 20 numbers. (A fair guess to test.)"
+       ]
+      }
+     ],
+     "parent": "Don't say what you expect. Any guess with a reason is a good start."
+    },
+    {
+     "id": "s3",
+     "mins": 8,
+     "do": "1. Say 'Go' and start the stopwatch. 2. Your child reads list A aloud, every number in full. 3. Stop the watch at the last number. 4. Write the seconds. 5. Do the same for lists B and C.",
+     "say": "Ready? Read list A out loud. Say every number properly. I'll stop the watch when you finish.",
+     "kid": "When the grown-up says go, read list A out loud. Say every number in full. Then do list B, then list C.",
+     "parent": "Help with any number your child gets stuck on in list C, and let them carry on. Record the time even if there was a stumble. A sip of water between lists helps."
+    },
+    {
+     "id": "s4",
+     "mins": 6,
+     "do": "1. Read all three lists a second time, in the same order. 2. Time each one again. 3. Write the times in the Try 2 column.",
+     "say": "Now let's do each list once more. One try can be a fluke, so a second try makes our result stronger.",
+     "kid": "Read each list again while the grown-up times you. Write the new times in the table.",
+     "check": {
+      "t": "mcq",
+      "q": "Why do we read each list twice?",
+      "options": [
+       "Because one try can be a fluke",
+       "To make the lists longer",
+       "Because the stopwatch needs it"
+      ],
+      "a": 0,
+      "why": "A stumble or a cough can change one time. If both tries show the same pattern, we can trust the result more."
+     }
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "do": "1. Look at the table together. 2. Ask what the times show. 3. Ask for the child's claim, evidence and reasoning.",
+     "say": "What do your times show? Which list was slowest? Why do you think it took longer?",
+     "kid": "Look at your times. Which list was slowest? Why do you think so? Say it in one sentence.",
+     "ask": [
+      {
+       "q": "Why did list C take longer, even though it had the same number of numbers?",
+       "good": [
+        "Each big number has more words to say.",
+        "'One lakh twenty-three thousand four hundred and fifty-one' is much longer than 'one'."
+       ]
+      }
+     ],
+     "parent": "Most children find list C takes four to six times as long as list A. If your child's times are close, ask them to check they said every word of list C."
+    },
+    {
+     "id": "s6",
+     "mins": 4,
+     "do": "1. Tell your child about Jeremy Harper. 2. Ask what number comes after ten lakh. 3. Ask whether anyone could finish counting.",
+     "say": "In 2007, a man called Jeremy Harper counted out loud from 1 to ten lakh. He counted 16 hours a day. It took him 89 days. What number comes after ten lakh? Could anyone ever count to the end?",
+     "kid": "A man once counted to ten lakh. It took him 89 days. What comes after ten lakh? Could anyone count to the end?",
+     "ask": [
+      {
+       "q": "Could anyone ever count to the very last number?",
+       "good": [
+        "No, because every number has a next number.",
+        "No. The numbers get longer and slower to say, and they never stop."
+       ]
+      }
+     ],
+     "think": "You stopped counting after a few minutes. How can you be sure the numbers go on after you stop?"
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "How Many Grains of Rice in a Cup? Very many, or infinite?",
+   "mins": 30,
+   "days": 1,
+   "question": "Is the number of rice grains in a cup so big that it is infinite, or can we find it?",
+   "predict": "Guess first. How many grains of rice are in one steel tumbler: about a hundred, about a thousand, about ten thousand, or infinitely many? Why do you think so?",
+   "fair_test": "Use the same teaspoon every time, filled level, not heaped. Count two separate teaspoons and use the middle of the two counts, because one spoonful can be a fluke.",
+   "results_table": [
+    "What we counted",
+    "Number"
+   ],
+   "materials": [
+    {
+     "item": "raw rice, any kind, about 2 cups",
+     "qty": 1
+    },
+    {
+     "item": "a teaspoon",
+     "qty": 1
+    },
+    {
+     "item": "a steel tumbler or a cup",
+     "qty": 1
+    },
+    {
+     "item": "a steel plate or a tray, to count on",
+     "qty": 1
+    },
+    {
+     "item": "a big bowl, to tip the counted rice back into",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep raw rice away from children under 3, who might put grains in their nose or mouth. Wash and cook the rice afterwards, so nothing is wasted.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 30,
+     "what": "Count the grains in two level teaspoons of rice. Count how many teaspoons fill a tumbler. Work out the grains in the tumbler."
+    }
+   ],
+   "record": "Write the number of grains in each teaspoon, the number of teaspoons in the tumbler, and your estimate for the whole tumbler. Write your first guess next to it.",
+   "context": "In this experiment you estimate how many grains of rice fill a tumbler. You count a small part, then work out the whole, and find out whether 'too many to count' really means infinite.",
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example results",
+    "cols": [
+     "What we counted",
+     "Number"
+    ],
+    "rows": [
+     [
+      "Grains in teaspoon 1",
+      "196"
+     ],
+     [
+      "Grains in teaspoon 2",
+      "210"
+     ],
+     [
+      "Grains in one teaspoon (middle)",
+      "about 200"
+     ],
+     [
+      "Teaspoons to fill the tumbler",
+      "40"
+     ],
+     [
+      "Grains in the tumbler",
+      "about 8,000"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "A level teaspoon of raw rice being tipped onto a steel plate.",
+     "caption": "1. Tip one level teaspoon of rice onto a plate."
+    },
+    {
+     "art": "Grains of rice on a steel plate pushed into small heaps of ten, with a finger moving one grain.",
+     "caption": "2. Push the grains into heaps of ten and count the heaps."
+    },
+    {
+     "art": "A steel tumbler being filled with rice one teaspoon at a time, with tally marks on a paper beside it.",
+     "caption": "3. Fill a tumbler by teaspoons, and count the spoons."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Show the tumbler full of rice. 2. Ask for a guess and a reason. 3. Write the guess down.",
+     "say": "How many grains of rice do you think fill this tumbler? Is it so many that it is infinite? Why do you think so?",
+     "kid": "Look at a tumbler full of rice. How many grains are in it? Is it infinite? Write your guess and your reason.",
+     "ask": [
+      {
+       "q": "Is the rice in the tumbler infinite? Why or why not?",
+       "good": [
+        "No, the tumbler is full, so it has an end.",
+        "Yes, because there are too many to count. (A common first guess. Test it.)"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "1. Fill a teaspoon with rice and level it with a finger. 2. Tip it onto the plate. 3. Your child pushes the grains into heaps of ten. 4. Count the heaps and the grains left over.",
+     "say": "Counting one by one is slow and easy to lose track of. Heaps of ten make it quicker. Then we count the heaps.",
+     "kid": "Tip one level teaspoon onto the plate. Push the grains into heaps of ten. Count the heaps. Count the leftover grains.",
+     "parent": "A level teaspoon of raw rice usually holds between 150 and 250 grains, depending on the rice. Short grains such as ponni rice give more than long basmati grains. Any number is fine. A toothpick helps to move single grains."
+    },
+    {
+     "id": "s3",
+     "mins": 7,
+     "do": "1. Tip the counted rice into the big bowl. 2. Count a second level teaspoon the same way. 3. Write both numbers and pick a number in the middle.",
+     "say": "Let's count one more spoonful. If the two numbers are close, our count is good.",
+     "kid": "Count a second teaspoon the same way. Are the two numbers close? Pick a number in the middle.",
+     "check": {
+      "t": "mcq",
+      "q": "Teaspoon 1 had 190 grains. Teaspoon 2 had 210 grains. Which number is in the middle?",
+      "options": [
+       "200",
+       "400",
+       "20"
+      ],
+      "a": 0,
+      "why": "200 is halfway between 190 and 210. Using the middle number evens out a spoon that was a little too full or a little too empty."
+     }
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "1. Fill the empty tumbler with rice, one level teaspoon at a time. 2. Your child makes a tally mark for each spoonful.",
+     "say": "Now we don't count the grains. We count the spoonfuls. Make one tally mark for every spoon.",
+     "kid": "Fill the tumbler one level spoon at a time. Make one tally mark for each spoon. How many spoons?",
+     "parent": "A 200 millilitre tumbler takes about 40 level teaspoons. Yours may take more or fewer."
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "1. Work out the grains in the tumbler together, by adding the teaspoon number again and again, or by multiplying. 2. Compare it with the first guess.",
+     "say": "If one spoon holds 200 grains and the tumbler holds 40 spoons, how many grains are in the tumbler? Was your guess close? Is the rice infinite?",
+     "kid": "One spoon has about 200 grains. The tumbler has about 40 spoons. How many grains is that? Is it infinite?",
+     "ask": [
+      {
+       "q": "Was the rice in the tumbler infinite?",
+       "good": [
+        "No. It was several thousand grains. That is a lot, but it is a number.",
+        "No, because we could count it."
+       ]
+      }
+     ],
+     "parent": "200 times 40 is 8,000. You can do it as 2 times 4 is 8, then add the zeros. Most children guess too low or say 'infinite'. Both are useful starts."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "One More Than You: the biggest-number game",
+   "mins": 8,
+   "days": 1,
+   "materials": [
+    {
+     "item": "nothing, or a paper and pen to write the numbers",
+     "qty": 1
+    }
+   ],
+   "safety": "No safety problems.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 8,
+     "what": "Take turns saying a big number. The other person says one more. Then swap. Talk about who can win."
+    }
+   ],
+   "record": "Write the biggest number anyone said, and the number that beat it.",
+   "context": "This is a quick game to start the unit. One person says a big number and the other always says one more. You find out whether anyone can say the biggest number.",
+   "setup": [
+    {
+     "art": "A girl holding up a paper with '1 crore' written on it.",
+     "caption": "1. You say or write the biggest number you can."
+    },
+    {
+     "art": "A grandmother holding up the same paper with 'and 1' added at the end.",
+     "caption": "2. The other player says one more."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Ask your child to say the biggest number they know. 2. Say that number plus one. 3. Repeat three or four times.",
+     "say": "Tell me the biggest number you can think of. I bet I can say a bigger one.",
+     "kid": "Say the biggest number you know. The grown-up will try to beat it.",
+     "parent": "Always answer with their number 'and one'. If your child says 'infinity', say 'Let's come back to infinity soon' and ask for a number instead."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Swap roles: you say a big number and your child adds one. 2. Try a huge one, such as 'a crore crore'.",
+     "say": "Now it's your turn to beat me. A crore crore. Can you say a bigger one?",
+     "kid": "Now you beat the grown-up. Whatever number they say, say one more.",
+     "check": {
+      "t": "mcq",
+      "q": "In this game, can the person who goes first ever win?",
+      "options": [
+       "No, because the other player can always add one",
+       "Yes, if they say a crore",
+       "Yes, if they say it very fast"
+      ],
+      "a": 0,
+      "why": "Any number plus one is a bigger number. So whoever answers second can always win. That means there is no biggest number."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Ask what the game shows.",
+     "say": "Is there a biggest number? How do you know?",
+     "kid": "Is there a biggest number? How do you know? Say your reason.",
+     "ask": [
+      {
+       "q": "Is there a biggest number?",
+       "good": [
+        "No, because you can always add one.",
+        "No. Every number has a bigger one after it."
+       ]
+      }
+     ],
+     "think": "If you say 'infinity', can the other player add one? Keep this question for later."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "The Old Indian Ladder of Big Numbers",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a long strip of paper, about 60 cm, made by taping two A4 sheets end to end",
+     "qty": 1
+    },
+    {
+     "item": "a pencil and a ruler",
+     "qty": 1
+    }
+   ],
+   "safety": "No safety problems.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Draw a ladder of 13 steps. Write one old Sanskrit number name and its number on each step. Ask what comes after the top."
+    }
+   ],
+   "record": "Keep the ladder on the wall. Add a step at the top with your own name for the next number.",
+   "context": "In this activity you make a ladder of number names from the Yajurveda, one of India's oldest books. Each step is ten times the step below. You see that even the top step has a next one.",
+   "setup": [
+    {
+     "art": "A long paper strip on the floor with 13 steps drawn on it, like a ladder, each labelled with a Sanskrit name.",
+     "caption": "1. Draw 13 steps on a long paper strip."
+    },
+    {
+     "art": "A child writing '1,000' next to the word 'sahasra' on one of the steps.",
+     "caption": "2. Write the name and the number on each step."
+    },
+    {
+     "art": "The finished ladder taped on a wall, with a blank step drawn above the top and a question mark on it.",
+     "caption": "3. Draw one more step above the top."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Draw 13 steps on the strip with the ruler. 2. Explain that each step is ten times the step below.",
+     "say": "Long ago, the Yajurveda listed names for numbers. Each name is ten times the one before. Let's make a ladder of them.",
+     "kid": "Draw 13 steps on the strip. Each step will be ten times the step below."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "1. Write the names from the bottom step up. 2. Use this list: eka 1, dasha 10, shata 100, sahasra 1,000, ayuta 10,000. 3. Then niyuta 1,00,000, prayuta 10,00,000, arbuda 1,00,00,000. 4. Then nyarbuda, samudra, madhya, anta and parardha.",
+     "say": "Each time we go up a step, we write one more zero. Niyuta is one lakh. Arbuda is one crore. The top step, parardha, is a 1 followed by 12 zeros.",
+     "kid": "Write each name and number on a step. Add one more zero each time you go up.",
+     "parent": "This list is in the Yajurveda (Vajasaneyi Samhita 17.2). Most translations give parardha as a 1 with 12 zeros. Some later books give these names slightly different values, so don't worry about small differences you may read."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Draw one empty step above parardha. 2. Ask what number goes there, and whether the ladder could stop.",
+     "say": "What number would go on the next step? Could anyone ever draw the top step of this ladder?",
+     "kid": "Draw one more step on top. What number goes there? Can the ladder ever stop?",
+     "ask": [
+      {
+       "q": "Does the ladder of numbers ever end?",
+       "good": [
+        "No. You can always add a zero and make a new step.",
+        "No. Names run out, but numbers don't."
+       ]
+      }
+     ],
+     "think": "The old list stops at parardha. Did the numbers stop there, or only the names?"
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Walk the Number Line Across Your Room",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "about 20 small pieces of paper",
+     "qty": 20
+    },
+    {
+     "item": "a pen",
+     "qty": 1
+    },
+    {
+     "item": "a little tape, or a floor with tiles",
+     "qty": 1
+    }
+   ],
+   "safety": "Clear the floor first so nobody trips.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Lay numbered papers in a line across the floor. Walk along them to the wall. Talk about where the numbers go next."
+    }
+   ],
+   "record": "Draw your room from above, with the paper line and an arrow going out through the wall.",
+   "context": "In this activity you make a number line on the floor and walk along it. When you reach the wall, you think about where the numbers would go next.",
+   "setup": [
+    {
+     "art": "A row of small paper squares numbered 0 to 15 laid across a tiled floor of a small room, ending at a wall.",
+     "caption": "1. Lay numbered papers in a straight line, one step apart."
+    },
+    {
+     "art": "A child standing on the last paper next to the wall, pointing at the wall.",
+     "caption": "2. Walk along the line, saying each number, until the wall stops you."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "1. Write 0, 1, 2, 3 and so on, one number on each paper. 2. Lay them in a straight line across the floor, one small step apart, up to the wall.",
+     "say": "Let's make a number line on the floor. One paper for each number, one step apart, all the way to the wall.",
+     "kid": "Write one number on each paper. Lay them in a line, one step apart. Go right up to the wall.",
+     "parent": "If you have floor tiles, one tile for each number works well. A small room gives about 10 to 15 numbers."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "Your child walks along the line from 0, saying each number, until the wall stops them.",
+     "say": "Walk along the line and say each number. Stop when you reach the wall.",
+     "kid": "Walk from 0. Say each number as you step on it. Stop at the wall."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Ask where the line would go if the wall were not there.",
+     "say": "The wall stopped you. Did it stop the numbers? If we knocked down every wall in Chennai, where would the line end?",
+     "kid": "The wall stopped you. Did the wall stop the numbers? Where would the line end?",
+     "ask": [
+      {
+       "q": "Where does the number line end?",
+       "good": [
+        "It doesn't. The numbers go on even after the wall.",
+        "Only the room ends. The numbers keep going."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "Why does a number line in a maths book have an arrow at the end?",
+      "options": [
+       "To show the numbers go on for ever",
+       "To show where the page ends",
+       "To point to the biggest number"
+      ],
+      "a": 0,
+      "why": "The arrow means 'and so on, for ever'. The page ends, but the numbers do not."
+     }
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "One Line, Never Lifted: the infinity sign and a sikku kolam",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "chalk or rice flour for the floor, or a pencil and paper",
+     "qty": 1
+    }
+   ],
+   "safety": "If you draw on the floor, choose a dry spot where nobody will slip on the flour.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Draw the infinity sign in one stroke. Draw a simple sikku kolam, a kolam made of one line that loops around dots. Trace both with a finger again and again."
+    }
+   ],
+   "record": "Draw your loop in your notebook. Write one sentence on how a loop is different from the numbers.",
+   "context": "In this activity you draw the infinity sign and a sikku kolam, which is made of one line that never stops. You trace them round and round, and compare a loop with the never-ending numbers.",
+   "setup": [
+    {
+     "art": "A hand drawing the infinity sign in one smooth stroke without lifting the chalk.",
+     "caption": "1. Draw the infinity sign without lifting your hand."
+    },
+    {
+     "art": "A simple sikku kolam on a floor: one white line looping around a 3 by 3 grid of dots and joining back to where it began.",
+     "caption": "2. Draw a small sikku kolam: one line looping round the dots."
+    },
+    {
+     "art": "A child's finger tracing the kolam line, with arrows showing it goes round and round.",
+     "caption": "3. Trace the line again and again with a finger."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Show the sign ∞. 2. Your child draws it in one stroke, then traces it round three times without stopping.",
+     "say": "This is the sign for infinity. An English mathematician, John Wallis, first used it in 1655. Can you draw it without lifting your hand?",
+     "kid": "Draw this sign: ∞. Don't lift your hand. Now trace it round three times."
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "do": "1. Make a grid of 3 rows of 3 dots. 2. Draw one line that curves around the dots and joins back to its start.",
+     "say": "A sikku kolam is drawn with lines that loop around the dots and close up. You can trace the line round and round and never reach an end.",
+     "kid": "Make 3 rows of 3 dots. Draw one curvy line around them. Join it back to where you started.",
+     "parent": "If the full pattern is hard, any single closed loop around the dots is fine. Many families in Tamil Nadu draw sikku kolams every morning, so a grandmother or neighbour may show you one."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "Ask whether the loop is infinite like the numbers.",
+     "say": "You can trace the kolam line for ever. But is the line itself infinite? Could you measure it with a thread?",
+     "kid": "You can go round the loop for ever. But could you measure the line with a thread? Is it infinite?",
+     "ask": [
+      {
+       "q": "Is the kolam line infinite like the numbers?",
+       "good": [
+        "No. It has a length you can measure. You just go round the same line again.",
+        "The going round never ends, but the line is finite."
+       ]
+      }
+     ],
+     "parent": "This is a subtle idea. The path has no end, because it joins up, but it has a fixed length. The numbers are different: you never come back to the start, and there is always a new number."
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "Very Many or Infinite? A sorting hunt at home",
+   "mins": 12,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a paper folded in half, with 'very many' on one side and 'never ends' on the other",
+     "qty": 1
+    },
+    {
+     "item": "a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "No safety problems.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Find things at home that seem endless. Sort them into 'very many' and 'never ends'."
+    }
+   ],
+   "record": "Keep your sorted list. Put a star next to anything you are not sure about.",
+   "context": "In this activity you look for things at home that seem to go on for ever, such as grains of salt or hairs on a head. You sort them into 'very many' and 'never ends'.",
+   "setup": [
+    {
+     "art": "A paper folded in half on a table, one side labelled 'very many' and the other 'never ends'.",
+     "caption": "1. Fold a paper and label the two sides."
+    },
+    {
+     "art": "A child holding a salt jar and looking at a hairbrush, with a pencil behind her ear.",
+     "caption": "2. Hunt around the home and write each thing on one side."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 7,
+     "do": "1. Walk around the home together. 2. Your child names things that seem endless. 3. They write each one on a side of the paper.",
+     "say": "Let's find things that seem to go on for ever. Salt in the jar? Hairs on your head? Drops in the water tank? Write each one down.",
+     "kid": "Walk around the home. Find things that seem endless. Write each one on the side you think is right.",
+     "parent": "Good things to find: grains of salt or sugar, hairs on a head, threads in a towel, drops of water in a bucket, leaves on a plant, the numbers on a clock going round, the numbers themselves."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Go through the list and ask, for each thing, 'Could someone count it to the end, if they had enough time?'",
+     "say": "Could someone count the hairs on your head, if they had a whole week? Then is it 'very many' or 'never ends'?",
+     "kid": "For each thing, ask: could someone count it if they had lots of time? If yes, it is 'very many'.",
+     "ask": [
+      {
+       "q": "Which things are really in 'never ends'?",
+       "good": [
+        "Only the numbers. Everything at home can be counted, given time.",
+        "The numbers, and maybe space, but nobody knows about space."
+       ]
+      }
+     ],
+     "parent": "Most people have about one lakh hairs on their head. Children often put stars, sand and the sea in 'never ends'. Each of these is a huge number, but a number."
+    }
+   ]
+  }
+ ],
+ "games": [
+  {
+   "id": "g1",
+   "title": "Make It Bigger: the digit card game",
+   "mins": 20,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a card game with digit cards. Players arrange their cards to make the biggest number they can. Each round everyone gets one more card, and you see that one more digit beats any number.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "40 digit cards to cut out: four of each digit",
+     "items": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "A score sheet with 5 rounds",
+     "items": [
+      "Round 1: 2 cards each",
+      "Round 2: 3 cards each",
+      "Round 3: 4 cards each",
+      "Round 4: 5 cards each",
+      "Round 5: 6 cards each",
+      "Write each player's number and say it aloud"
+     ]
+    }
+   ],
+   "rules": [
+    "Shuffle the cards face down.",
+    "In round 1, each player takes 2 cards. In each new round, each player takes one more card than before.",
+    "Arrange your cards to make the biggest number you can. Say it out loud.",
+    "The biggest number wins the round and scores one point.",
+    "When you play alone, play against a 'ghost' player: draw the ghost's cards too, and make both numbers.",
+    "After 5 rounds, the player with most points wins."
+   ],
+   "setup": [
+    {
+     "art": "Forty small paper cards with digits 0 to 9 spread on a table, with scissors beside them.",
+     "caption": "1. Cut out the digit cards and shuffle them face down."
+    },
+    {
+     "art": "Two children each holding a row of digit cards making numbers, such as 96 and 851.",
+     "caption": "2. Make the biggest number with your cards and say it aloud."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Cut out the cards and shuffle them. 2. Each player takes 2 cards. 3. Each player makes the biggest number they can.",
+     "say": "Each of us has 2 cards. Make the biggest number you can. Which way round should the digits go?",
+     "kid": "Take 2 cards. Make the biggest number you can. Put the bigger digit first.",
+     "check": {
+      "t": "mcq",
+      "q": "You have the cards 3 and 8. What is the biggest number you can make?",
+      "options": [
+       "83",
+       "38",
+       "11"
+      ],
+      "a": 0,
+      "why": "The first digit is worth tens, so put the bigger digit first. 83 is eight tens and three ones. 38 is only three tens and eight ones."
+     }
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "Play rounds 2, 3 and 4, with one more card each round. Say each number aloud and write it on the score sheet.",
+     "say": "Now we each get one more card. Make your number and say it out loud. Who wins this round?",
+     "kid": "Each round you get one more card. Make the biggest number. Say it out loud. Write it down.",
+     "parent": "With 5 cards your child will need to say numbers in the ten-thousands, such as 'ninety-eight thousand seven hundred and sixty-five'. Help them with the place names if needed."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Play round 5 with 6 cards. 2. Then ask: could a small number with 7 digits beat the biggest 6-digit number?",
+     "say": "Your biggest 6-digit number is 9,99,999 at most. Could the smallest 7-digit number, 10,00,000, beat it?",
+     "kid": "The biggest 6-digit number is 9,99,999. Is 10,00,000 bigger? What does one more digit do?",
+     "ask": [
+      {
+       "q": "What does adding one more digit do to the biggest number you can make?",
+       "good": [
+        "It always makes a bigger number possible.",
+        "Any 7-digit number is bigger than every 6-digit number."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "Ask how many cards you would need to make the biggest number of all.",
+     "say": "If we kept playing with more and more cards, would anyone ever make the biggest number of all?",
+     "kid": "Imagine you kept getting more cards. Could you make the biggest number of all?",
+     "ask": [
+      {
+       "q": "Could anyone make the biggest number of all?",
+       "good": [
+        "No. One more card would always make a bigger one.",
+        "No, because there is no biggest number."
+       ]
+      }
+     ],
+     "think": "Every round had a winner, but the game could never have a 'biggest number ever' winner. Why?"
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "The Thousand Dots Book: what a thousand, a lakh and a crore look like",
+   "mins": 45,
+   "days": 3,
+   "materials": [
+    {
+     "item": "10 sheets of paper, A4 or notebook pages",
+     "qty": 10
+    },
+    {
+     "item": "a felt pen or a pencil with a blunt tip",
+     "qty": 1
+    },
+    {
+     "item": "a ruler",
+     "qty": 1
+    },
+    {
+     "item": "a stapler or a thread to tie the pages",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up uses the stapler.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Draw a 10 by 10 grid on each of 3 pages and put a dot in every square: 300 dots."
+    },
+    {
+     "day": 2,
+     "mins": 15,
+     "what": "Fill 4 more pages, or more if you can. Count the dots so far."
+    },
+    {
+     "day": 3,
+     "mins": 15,
+     "what": "Finish all 10 pages: 1,000 dots. Staple them into a book. Work out how many books would make a lakh, and a crore."
+    }
+   ],
+   "record": "On the cover, write 'One thousand dots'. On the back, write how many books a lakh would need, and how many a crore would need.",
+   "context": "In this 3-day project you fill 10 pages with 100 dots each, to see what 1,000 really looks like. Then you work out how big a lakh and a crore would be.",
+   "setup": [
+    {
+     "art": "A notebook page with a 10 by 10 grid drawn in pencil and a dot in every square.",
+     "caption": "1. Draw a 10 by 10 grid and dot every square: 100 dots."
+    },
+    {
+     "art": "A pile of 10 dotted pages being stapled together into a thin book.",
+     "caption": "2. Make 10 pages and staple them into a book of 1,000 dots."
+    },
+    {
+     "art": "One thin dotted book next to a tall imaginary stack of 100 books reaching a child's shoulder, labelled 'one lakh'.",
+     "caption": "3. Work out how many books a lakh would need."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 15,
+     "do": "1. Rule a grid of 10 rows and 10 columns on a page, each square about 2 cm. 2. Your child puts one dot in every square. 3. Fill 3 pages.",
+     "say": "Each page will have exactly 100 dots: 10 rows of 10. Ten pages will make a thousand.",
+     "kid": "Draw 10 rows of 10 squares. Put one dot in each square. That is 100 dots. Do 3 pages today.",
+     "parent": "Dots are faster than numbers, so this stays fun. If your child gets tired, stop and continue tomorrow."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "Fill 4 more pages. Count the dots so far by counting the pages in hundreds.",
+     "say": "How many dots do we have now? Count the pages in hundreds: one hundred, two hundred…",
+     "kid": "Fill 4 more pages. Count your pages in hundreds. How many dots so far?",
+     "wait": "Day 2",
+     "think": "How long did one page take? How long would a thousand pages take?"
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "do": "1. Finish the 10 pages and staple them. 2. Work out how many books make a lakh and a crore.",
+     "say": "This book has a thousand dots. A lakh is a hundred thousand. How many books is that? A crore is a hundred lakh. How many books then?",
+     "kid": "Your book has 1,000 dots. How many books make a lakh? How many make a crore?",
+     "adult": true,
+     "wait": "Day 3",
+     "ask": [
+      {
+       "q": "How many thousand-dot books make one crore?",
+       "good": [
+        "10,000 books. A lakh is 100 books, and a crore is 100 lakh, so 100 times 100."
+       ]
+      }
+     ],
+     "parent": "A lakh needs 100 books, and a crore needs 10,000. Your child will likely be amazed. Then ask: is a crore the end of the numbers?"
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "The Biggest Number on a Postcard",
+   "mins": 20,
+   "problem": "You have one small card, the size of a postcard, and 5 minutes. Write the biggest number you can on it, so that someone else can understand exactly what number it is.",
+   "constraints": [
+    "Use only one side of one card, about the size of your hand.",
+    "You have 5 minutes.",
+    "Another person must be able to understand what number you wrote."
+   ],
+   "materials": [
+    "a postcard-sized piece of card or paper",
+    "a pencil",
+    "a timer on a phone"
+   ],
+   "general": [
+    "Write as many 9s as fit, as small as you can.",
+    "Write 'one crore crore crore' and repeat the word 'crore' as many times as fit.",
+    "Write a number, then the word 'zeros': 'a 1 followed by a thousand zeros' is short to write but huge."
+   ],
+   "creative": [
+    "Invent a new name, such as 'Kavya's number', and write what it means on the card.",
+    "Write '9 times itself, 9 times over', which is a huge number written in a few words.",
+    "Write 'the number of rice grains in a crore tumblers', and show how to work it out."
+   ],
+   "your_turn": "Now make your own card. Then swap with a grown-up or a friend. Whose number is bigger? Could the other person always make a bigger one by adding one?",
+   "context": "This is a design challenge. You try to write the biggest number you can on one small card, then see whether someone can always beat it.",
+   "setup": [
+    {
+     "art": "A small blank card, a pencil and a phone timer showing 5 minutes.",
+     "caption": "1. Take one small card and set a timer for 5 minutes."
+    },
+    {
+     "art": "Two cards side by side: one covered in tiny 9s, one with the words 'a 1 followed by a thousand zeros'.",
+     "caption": "2. Write your biggest number, then compare cards."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Explain the challenge and the rules.",
+     "say": "You have one small card and five minutes. Write the biggest number you can, so that I can understand it.",
+     "kid": "You have one card and 5 minutes. Write the biggest number you can. Someone must understand it."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "Start the timer. Both of you make a card.",
+     "say": "Ready, go. I'm making a card too.",
+     "kid": "Go! Write your biggest number. Think of clever ways to make it short but huge."
+    },
+    {
+     "id": "s3",
+     "mins": 7,
+     "do": "1. Swap cards. 2. Work out together whose number is bigger. 3. Each of you tries to beat the other's card in one line.",
+     "say": "Whose number is bigger? Now can you beat my card by writing just one more thing on it?",
+     "kid": "Swap cards. Whose number is bigger? Can you beat the other card with one more line?",
+     "ask": [
+      {
+       "q": "Could you always beat the other card?",
+       "good": [
+        "Yes. I can write 'plus one', or 'times ten', or add a word.",
+        "Yes, because there is no biggest number."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Talk about the clever ways people found.",
+     "say": "Long ago, Archimedes invented new names to write giant numbers. Which of our ideas was the cleverest way to write a huge number in a few words?",
+     "kid": "Which idea made the biggest number with the fewest words? Why does it work?",
+     "think": "However clever your card is, someone can add one. What does that tell you about the biggest number?"
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Is There a Biggest Number? (core)",
+   "tier": "core",
+   "mins": 20,
+   "items": [
+    {
+     "t": "truefalse",
+     "p": "Arjun, a boy in Class 2, says, 'A crore is the biggest number.' Is he right?",
+     "a": false,
+     "why": "False. A crore and one is bigger than a crore. Any number plus one is bigger, so there is no biggest number. A strong answer names a number bigger than a crore."
+    },
+    {
+     "t": "mcq",
+     "p": "Meenakshi, a girl in Class 3, says the biggest number she knows. Her mother always answers with that number plus one. Who will win in the end?",
+     "opts": [
+      "Her mother, because she can always add one",
+      "Meenakshi, if she says a very big number",
+      "Nobody can say who wins"
+     ],
+     "a": 0,
+     "why": "Whoever adds one can always beat the other number. So the mother always wins. That is why there is no biggest number."
+    },
+    {
+     "t": "fill",
+     "p": "The word for 'without end' is ____.",
+     "a": [
+      "infinity"
+     ],
+     "why": "Infinity means without end. The counting numbers go on to infinity, because they never stop."
+    },
+    {
+     "t": "mcq",
+     "p": "Which sign means infinity?",
+     "opts": [
+      "∞",
+      "8",
+      "+",
+      "0"
+     ],
+     "a": 0,
+     "why": "The infinity sign, ∞, looks like an 8 lying on its side. John Wallis first used it in 1655. A standing 8 is just the number eight."
+    },
+    {
+     "t": "match",
+     "p": "Match each word to what it means.",
+     "pairs": [
+      [
+       "Infinite",
+       "has no end at all"
+      ],
+      [
+       "Finite",
+       "has an end, and can be counted"
+      ],
+      [
+       "Estimate",
+       "a good guess worked out from a small count"
+      ],
+      [
+       "Lakh",
+       "one hundred thousand, 1,00,000"
+      ],
+      [
+       "Crore",
+       "one hundred lakh, 1,00,00,000"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "These words come up all through the unit. A strong answer can also give an example of each, such as 'the rice in a cup is finite'."
+    },
+    {
+     "t": "truefalse",
+     "p": "In the counting test, reading 1,23,451 to 1,23,470 out loud takes longer than reading 1 to 20.",
+     "a": true,
+     "why": "True. Both lists have 20 numbers, but each big number has many more words to say. A strong answer gives the times from your own test.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "Lakshmi counts 200 grains of rice in one teaspoon. A tumbler holds 40 teaspoons. About how many grains are in the tumbler?",
+     "opts": [
+      "About 8,000",
+      "About 240",
+      "Infinitely many",
+      "About 40"
+     ],
+     "a": 0,
+     "why": "200 grains in each of 40 spoons is 200 times 40, which is 8,000. That is a lot, but it is a number. Choosing 'infinitely many' mixes up very many with endless.",
+     "how": "e2"
+    },
+    {
+     "t": "write",
+     "p": "Kavya, a girl in Class 3, says, 'Infinity is the biggest number of all.' Explain what is wrong with her idea.",
+     "lines": 3,
+     "a": "If infinity were the biggest number, you could add one and get a bigger number. That can't happen to the biggest one. So infinity is not a number at the end. It is the word for the numbers never ending.",
+     "why": "A strong answer uses the plus-one idea to show that there cannot be a biggest number, so infinity cannot be one."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these into 'very many, but finite' and 'never ends'.",
+     "cats": [
+      "Very many, but finite",
+      "Never ends"
+     ],
+     "items": [
+      [
+       "the hairs on your head",
+       "Very many, but finite"
+      ],
+      [
+       "the grains of rice in a 5 kg bag",
+       "Very many, but finite"
+      ],
+      [
+       "the counting numbers",
+       "Never ends"
+      ],
+      [
+       "the people in India",
+       "Very many, but finite"
+      ],
+      [
+       "the grains of sand on Marina Beach",
+       "Very many, but finite"
+      ],
+      [
+       "the numbers on a number line with an arrow",
+       "Never ends"
+      ]
+     ],
+     "a": "see items",
+     "why": "Hairs, rice, people and sand can all be counted, given enough time, so they are finite. The counting numbers never end. A strong answer says why sand is finite: each grain takes up space, and the beach has a size."
+    },
+    {
+     "t": "order",
+     "p": "Put these numbers in order, from smallest to biggest.",
+     "items": [
+      "one crore",
+      "one thousand",
+      "one lakh",
+      "ten"
+     ],
+     "a": [
+      "ten",
+      "one thousand",
+      "one lakh",
+      "one crore"
+     ],
+     "why": "Ten is 10. One thousand is 1,000. One lakh is 1,00,000. One crore is 1,00,00,000. Each has more zeros than the one before."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a number line from 0 to 10. Show, with one mark, that the numbers go on after 10.",
+     "a": "A straight line with 0 to 10 evenly spaced, and an arrow at the end after 10.",
+     "why": "The arrow shows the numbers go on for ever. A strong drawing has the numbers evenly spaced and the arrow pointing away from 0.",
+     "art": "A blank strip with a ruler drawn beside it."
+    },
+    {
+     "t": "write",
+     "p": "Use your own times from the counting test. Why could nobody ever count to the end of the numbers?",
+     "lines": 4,
+     "a": "My list of big numbers took much longer than my list of small numbers. Bigger numbers keep getting longer to say. And every number has a next one, so the counting can never finish.",
+     "why": "A strong answer uses the child's own evidence (the times) and the plus-one idea together.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "The Yajurveda has a list of number names that ends with 'parardha', a 1 followed by 12 zeros. What comes after parardha?",
+     "opts": [
+      "Parardha plus one, and many more numbers",
+      "Nothing, because parardha is the end",
+      "Infinity, the next number"
+     ],
+     "a": 0,
+     "why": "The old list of names stops at parardha, but the numbers do not. You can always add one or another zero. Infinity is not the next number."
+    },
+    {
+     "t": "label",
+     "p": "Here is a picture of a sheet with three lists from the counting test. Label each list 'fastest', 'middle' or 'slowest'.",
+     "labels": [
+      "1 to 20",
+      "351 to 370",
+      "1,23,451 to 1,23,470"
+     ],
+     "a": [
+      "1 to 20: fastest",
+      "351 to 370: middle",
+      "1,23,451 to 1,23,470: slowest"
+     ],
+     "why": "The more words a number has, the longer it takes to say. A strong answer says 'one' has one word and 'one lakh twenty-three thousand four hundred and fifty-one' has nine.",
+     "how": "e1",
+     "art": "A sheet of paper with three short columns of numbers and an empty label box next to each."
+    },
+    {
+     "t": "perspective",
+     "p": "Two sisters in Kochi look at a sack of rice in a shop.",
+     "views": [
+      {
+       "who": "Divya, aged 9",
+       "says": "There are infinitely many grains in that sack. Nobody could ever count them."
+      },
+      {
+       "who": "Anu, aged 7",
+       "says": "There are a lot, but not infinitely many. If we counted a spoonful, we could work it out."
+      }
+     ],
+     "ask": "Which sister do you agree with? Use what you found in the rice test. Then say one thing the other sister has right.",
+     "lines": 5,
+     "a": "A strong answer agrees with Anu, using the rice test: a spoonful had about 200 grains, so a sack holds a big number that can be estimated. It also sees what Divya has right: counting every grain one by one would take a very long time.",
+     "why": "This question asks the child to use evidence and to tell 'very many' apart from 'infinite', while being fair to the other view.",
+     "how": "e2"
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Very Many or Infinite? (stretch)",
+   "tier": "stretch",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Farhan, a boy in Class 4, says 'infinity plus one'. What do mathematicians say about this?",
+     "opts": [
+      "Infinity is not a counting number, so adding one does not give a new counting number",
+      "It is a number one bigger than infinity",
+      "It is the same as 2"
+     ],
+     "a": 0,
+     "why": "Infinity is not a counting number, so you can't add one to it the way you add one to 5. Infinity plus one is still endless. In Class 5 you meet the careful way mathematicians compare endless collections."
+    },
+    {
+     "t": "truefalse",
+     "p": "If you counted all day, every day, for your whole life, you would reach the last number.",
+     "a": false,
+     "why": "False. Every number you reach has a next number. Jeremy Harper took 89 days just to reach ten lakh, and the numbers go on far beyond that. A strong answer gives a reason, not just 'false'."
+    },
+    {
+     "t": "write",
+     "p": "Nobody has ever counted all the numbers. So how can we be sure there is no biggest number?",
+     "lines": 4,
+     "a": "We know from a rule that works every time: any number plus one is a bigger number. We don't need to check every number, because the rule never fails.",
+     "why": "A strong answer explains that a rule, or a proof, can tell us about every number without counting them all."
+    },
+    {
+     "t": "mcq",
+     "p": "Revathi times herself. She says 20 small numbers in 10 seconds, and 20 big numbers in 40 seconds. How many times as long did the big numbers take?",
+     "opts": [
+      "4 times as long",
+      "30 times as long",
+      "2 times as long"
+     ],
+     "a": 0,
+     "why": "40 divided by 10 is 4. So the big numbers took 4 times as long. Check: 10 + 10 + 10 + 10 = 40.",
+     "how": "e1"
+    },
+    {
+     "t": "fill",
+     "p": "One lakh is the same as one hundred ____.",
+     "a": [
+      "thousand"
+     ],
+     "why": "One lakh is 1,00,000, which is one hundred thousand. In the international way of writing, it is 100,000."
+    },
+    {
+     "t": "odd",
+     "p": "Three of these are finite. Which one is the odd one out?",
+     "opts": [
+      "The counting numbers",
+      "The stars you can see on a dark night",
+      "The grains in a sack of rice",
+      "The people in Hyderabad"
+     ],
+     "a": 0,
+     "why": "The stars you can see, the grains of rice and the people in Hyderabad can all be counted, given enough time. The counting numbers never end."
+    },
+    {
+     "t": "write",
+     "p": "Sneha, a girl in Class 3, says a sikku kolam line is infinite, because you can trace it round and round for ever. Is the line infinite? Explain.",
+     "lines": 3,
+     "a": "The line is not infinite. You can measure it with a thread. Tracing it never ends because it joins up, so you go round the same line again. The numbers are different: each new number is new, and you never come back to the start.",
+     "why": "A strong answer separates a path you can go round for ever from a thing that has no end.",
+     "how": "a4"
+    },
+    {
+     "t": "mcq",
+     "p": "Archimedes, a Greek thinker who lived about 2,200 years ago, heard people say that the grains of sand were infinite. What did he show?",
+     "opts": [
+      "The grains of sand can be given a number, even if it is huge",
+      "The grains of sand really are infinite",
+      "Sand is too small to count"
+     ],
+     "a": 0,
+     "why": "Archimedes worked out that the grains of sand needed to fill the whole universe, as he pictured it, would be fewer than a 1 followed by 63 zeros. That is huge, but it is a number."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a picture that shows the difference between 'very many' and 'infinite'.",
+     "a": "For example: a heap of rice labelled 'very many', and a number line with an arrow labelled 'infinite'.",
+     "why": "A strong drawing shows something that has an end, even if it is big, next to something that never ends.",
+     "art": "A blank box split into two halves."
+    },
+    {
+     "t": "truefalse",
+     "p": "The numbers on a clock go 1 to 12 and then start again. So a clock shows that numbers are infinite.",
+     "a": false,
+     "why": "False. A clock repeats the same 12 numbers. It never shows a new number after 12. The counting numbers are different: every number is new, and there is always a next one."
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of the rice estimate in order.",
+     "items": [
+      "Multiply the grains in a spoon by the number of spoons",
+      "Count how many spoons fill the tumbler",
+      "Count the grains in one level teaspoon",
+      "Compare the answer with your first guess"
+     ],
+     "a": [
+      "Count the grains in one level teaspoon",
+      "Count how many spoons fill the tumbler",
+      "Multiply the grains in a spoon by the number of spoons",
+      "Compare the answer with your first guess"
+     ],
+     "why": "First count a small part, then count how many parts make the whole, then multiply. Comparing with your guess shows how good the guess was.",
+     "how": "e2"
+    },
+    {
+     "t": "perspective",
+     "p": "Two scientists talk about space, the huge emptiness that holds all the stars.",
+     "views": [
+      {
+       "who": "A cosmologist from Bengaluru",
+       "says": "Space is flat as far as we can measure. A flat space with no edge would go on for ever. So space may be infinite."
+      },
+      {
+       "who": "A cosmologist from Pune",
+       "says": "Space could curve back on itself very gently, like the outside of a huge ball. Then it has no edge, but it is not infinite."
+      }
+     ],
+     "ask": "Which idea do you find more likely, and why? What would you need to find out to know for sure?",
+     "lines": 5,
+     "a": "Either view is fine with a reason. A strong answer sees that nobody knows yet, that we can see only part of the universe, and suggests what to measure, such as whether space curves.",
+     "why": "This is a real open question. The child practises weighing two views when the evidence can't yet decide."
+    },
+    {
+     "t": "mcq",
+     "p": "Jeremy Harper counted out loud to 10,00,000 in 89 days. About how many numbers did he count each day?",
+     "opts": [
+      "About 11,000",
+      "About 100",
+      "About 10,00,000"
+     ],
+     "a": 0,
+     "why": "10,00,000 divided by 89 is about 11,236. So he counted a little over eleven thousand numbers each day, in about 16 hours."
+    },
+    {
+     "t": "label",
+     "p": "Here is the old ladder of Indian number names. Label the step for one lakh and the step for one crore.",
+     "labels": [
+      "sahasra",
+      "ayuta",
+      "niyuta",
+      "prayuta",
+      "arbuda"
+     ],
+     "a": [
+      "niyuta: one lakh, 1,00,000",
+      "arbuda: one crore, 1,00,00,000"
+     ],
+     "why": "Each step is ten times the step below. Sahasra is a thousand, ayuta ten thousand, niyuta a lakh, prayuta ten lakh, and arbuda a crore.",
+     "how": "a2",
+     "art": "A ladder with five steps, each with a Sanskrit name written on it and an empty label box beside it."
+    },
+    {
+     "t": "write",
+     "p": "Write one question about infinity that nobody knows the answer to yet. Say why it is hard to answer.",
+     "lines": 3,
+     "a": "For example: 'Does space go on for ever?' It is hard because we can see only part of the universe. Light from further away has not reached us yet.",
+     "why": "A strong answer picks a real open question and gives a true reason why it is still open."
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Thinking About the Endless (challenge)",
+   "tier": "challenge",
+   "mins": 30,
+   "items": [
+    {
+     "t": "write",
+     "p": "If infinity were a counting number, what would 'infinity plus one' be? Explain why this shows infinity is not a counting number.",
+     "lines": 4,
+     "a": "It would be a bigger counting number than infinity. But infinity was supposed to be past all of them. That doesn't work, so infinity can't be a counting number.",
+     "why": "A strong answer follows the argument step by step and finds where it breaks."
+    },
+    {
+     "t": "mcq",
+     "p": "Pooja's counting times were: 1 to 20 took 9 seconds, 351 to 370 took 23 seconds, 1,23,451 to 1,23,470 took 48 seconds. What do you predict for 98,76,541 to 98,76,560?",
+     "opts": [
+      "Even longer than 48 seconds",
+      "About 9 seconds",
+      "Exactly 23 seconds"
+     ],
+     "a": 0,
+     "why": "Bigger numbers have more words, such as 'ninety-eight lakh seventy-six thousand five hundred and forty-one'. So the time keeps growing. This is why counting gets slower and slower.",
+     "how": "e1"
+    },
+    {
+     "t": "perspective",
+     "p": "Three people argue about a very big number that nobody could ever write out.",
+     "views": [
+      {
+       "who": "Malini, a maths teacher in Madurai",
+       "says": "Every number is real in maths, even if nobody writes it. The plus-one rule makes them all."
+      },
+      {
+       "who": "Ravi, a computer engineer",
+       "says": "A number with more digits than there are atoms in the universe can never be written. Maybe it is only a name, not a real number."
+      },
+      {
+       "who": "Aristotle, the Greek thinker",
+       "says": "You can always go one step further, but you never hold all the numbers at once. Infinity is never finished."
+      }
+     ],
+     "ask": "Whose view do you agree with most? Give a reason. Then say one thing another person has right.",
+     "lines": 6,
+     "a": "Any view with a reason. A strong answer might side with Malini because the rule works every time, while granting Ravi that some numbers can never be written, or Aristotle that nobody can hold infinity all at once.",
+     "why": "This is a real disagreement among mathematicians and philosophers. The child weighs three serious views, not a wrong one."
+    },
+    {
+     "t": "write",
+     "p": "Archimedes said the grains of sand that would fill the universe are fewer than a 1 followed by 63 zeros. Why was this an important thing to show?",
+     "lines": 4,
+     "a": "People thought sand was infinite. Archimedes showed that even a huge amount of sand has a number. So 'too many to count' is not the same as 'infinite'.",
+     "why": "A strong answer says what people believed before, and what changed after Archimedes showed it."
+    },
+    {
+     "t": "mcq",
+     "p": "A shop has 25 sacks of rice. Each sack holds about 10 lakh grains. About how many grains are in the shop?",
+     "opts": [
+      "About 2 crore 50 lakh",
+      "Infinitely many",
+      "About 25 lakh"
+     ],
+     "a": 0,
+     "why": "25 times 10 lakh is 250 lakh. 100 lakh is one crore, so 250 lakh is 2 crore 50 lakh. A huge number, but it is a number."
+    },
+    {
+     "t": "truefalse",
+     "p": "Something can go on for ever and still have a measured length.",
+     "a": true,
+     "why": "True. A circle or a sikku kolam line can be traced round for ever, but its length can be measured. Going round for ever is not the same as having no end in size.",
+     "how": "a4"
+    },
+    {
+     "t": "draw",
+     "p": "Draw a cartoon in three boxes: someone tries to count to infinity, and what happens.",
+     "a": "For example: box 1, a girl starts '1, 2, 3'. Box 2, she is tired at '1,23,451'. Box 3, she sees the numbers still going on past the edge of the picture.",
+     "why": "A strong cartoon shows that the counting gets slower and never ends.",
+     "art": "Three empty boxes in a row."
+    },
+    {
+     "t": "fill",
+     "p": "A number line has an ____ at its end, to show that the numbers go on.",
+     "a": [
+      "arrow"
+     ],
+     "why": "The arrow means the numbers go on for ever. The page ends, but the numbers do not."
+    },
+    {
+     "t": "write",
+     "p": "Your rice test gave a number for one tumbler. Explain how you could estimate the grains in a 25 kg sack without counting every grain.",
+     "lines": 4,
+     "a": "Find how many tumblers fill the sack, or weigh one tumbler of rice and see how many tumblers make 25 kg. Then multiply the grains in one tumbler by that number.",
+     "why": "A strong answer uses the same idea as the experiment: count a small part, find how many parts make the whole, and multiply.",
+     "how": "e2"
+    },
+    {
+     "t": "odd",
+     "p": "Three of these ideas are about something finite. Which one is about something infinite?",
+     "opts": [
+      "There is always a number after the one you just said",
+      "A crore is a very big number",
+      "Most people have about one lakh hairs on their head",
+      "A tumbler holds about 8,000 grains of rice"
+     ],
+     "a": 0,
+     "why": "'There is always a next number' means the numbers never end. A crore, a lakh of hairs and 8,000 grains are all huge but finite."
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these is a question nobody can answer yet?",
+     "opts": [
+      "Does space go on for ever?",
+      "Is there a biggest counting number?",
+      "How many digits does one crore have?"
+     ],
+     "a": 0,
+     "why": "Nobody knows whether space is infinite. But we do know there is no biggest counting number, and that one crore, 1,00,00,000, has 8 digits."
+    },
+    {
+     "t": "truefalse",
+     "p": "Jain thinkers in ancient India sorted numbers into three kinds: countable, uncountable and infinite.",
+     "a": true,
+     "why": "True. The Jain book called the Anuyogadvara Sutra sorts numbers this way. It shows that people in India thought carefully about infinity long ago."
+    },
+    {
+     "t": "match",
+     "p": "Match each person to what they are known for.",
+     "pairs": [
+      [
+       "Archimedes",
+       "showed the grains of sand have a number"
+      ],
+      [
+       "John Wallis",
+       "first used the sign ∞ in 1655"
+      ],
+      [
+       "Jeremy Harper",
+       "counted out loud to ten lakh in 89 days"
+      ],
+      [
+       "Aristotle",
+       "said infinity is never finished"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each of these people helped us think about very big numbers and infinity in a different way."
+    },
+    {
+     "t": "write",
+     "p": "Your head is small, and your life is not endless. Yet you know the numbers never end. How is that possible?",
+     "lines": 4,
+     "a": "Because of a rule I understand: any number plus one is bigger. I don't need to count them all. A rule can tell me about every number at once.",
+     "why": "There is no single right answer. A strong answer uses the plus-one rule and thinks about what it means to know something without seeing all of it."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these sentences into 'true' and 'not true'.",
+     "cats": [
+      "True",
+      "Not true"
+     ],
+     "items": [
+      [
+       "Infinity is the biggest number.",
+       "Not true"
+      ],
+      [
+       "There is no biggest counting number.",
+       "True"
+      ],
+      [
+       "A beach has infinitely many grains of sand.",
+       "Not true"
+      ],
+      [
+       "Counting gets slower as numbers get longer.",
+       "True"
+      ],
+      [
+       "You can reach infinity if you count fast enough.",
+       "Not true"
+      ],
+      [
+       "A crore crore is a finite number.",
+       "True"
+      ]
+     ],
+     "a": "see items",
+     "why": "Infinity is not a number you can reach, a beach has a finite number of grains, and a crore crore is a huge but finite number. The numbers have no biggest one, and big numbers take longer to say."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "Nila, a girl in Class 3, says, 'There is no biggest number.' Why is she right?",
+   "opts": [
+    "Any number plus one is a bigger number",
+    "Big numbers are too hard to say",
+    "Nobody has counted that far yet"
+   ],
+   "a": 0,
+   "why": "Whatever number you choose, adding one gives a bigger one. So there can never be a biggest. 'Too hard to say' is about people, not about numbers.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "What does infinity mean?",
+   "opts": [
+    "Without end",
+    "The biggest number",
+    "A crore crore",
+    "Zero"
+   ],
+   "a": 0,
+   "why": "Infinity means without end. Choosing 'the biggest number' is the most common mistake. If infinity were a number, you could add one to it.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Can anyone count to infinity?",
+   "opts": [
+    "No, because there is always a next number",
+    "Yes, if they count very fast",
+    "Yes, if they count for a whole year"
+   ],
+   "a": 0,
+   "why": "Every number has a next number, so the counting never finishes. Counting fast or for a long time only gets you to a bigger number.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "In the counting test, 20 small numbers and 20 big numbers were read aloud. Which list took longer?",
+   "opts": [
+    "The big numbers, because each one has more words",
+    "The small numbers",
+    "Both took exactly the same time"
+   ],
+   "a": 0,
+   "why": "'One lakh twenty-three thousand four hundred and fifty-one' takes much longer to say than 'one'. That is why counting gets slower as the numbers get bigger.",
+   "outcome": 2,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "Jeremy Harper counted out loud from 1 to ten lakh. About how long did it take him?",
+   "opts": [
+    "89 days",
+    "1 hour",
+    "1 day"
+   ],
+   "a": 0,
+   "why": "It took him 89 days, counting about 16 hours a day, in 2007. Even ten lakh is very far, and the numbers go on much further.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Selvi, a girl in Chennai, counts about 200 grains of rice in a teaspoon. A tumbler holds 40 teaspoons. What does this tell her?",
+   "opts": [
+    "The tumbler holds about 8,000 grains, a big but finite number",
+    "The tumbler holds infinitely many grains",
+    "The tumbler holds 240 grains"
+   ],
+   "a": 0,
+   "why": "200 times 40 is 8,000. That is a lot, but it is a number. Choosing 'infinitely many' mixes up very many with endless.",
+   "outcome": 3,
+   "how": "e2"
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these is infinite?",
+   "opts": [
+    "The counting numbers",
+    "The grains of sand on a beach",
+    "The hairs on your head",
+    "The stars you can see at night"
+   ],
+   "a": 0,
+   "why": "The counting numbers never end. Sand, hairs and the stars you can see are all huge but finite numbers.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "How do you write one lakh in digits?",
+   "opts": [
+    "1,00,000",
+    "1,000",
+    "1,00,00,000"
+   ],
+   "a": 0,
+   "why": "One lakh is a hundred thousand: 1,00,000. 1,000 is one thousand, and 1,00,00,000 is one crore.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "The Yajurveda's old list of number names ends with parardha. Does that mean the numbers end there?",
+   "opts": [
+    "No. The names stop, but you can always add one",
+    "Yes. Parardha is the last number",
+    "Yes. After parardha comes infinity"
+   ],
+   "a": 0,
+   "why": "The list of names ends, but the numbers do not. Parardha plus one is a bigger number, and so on for ever.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Long ago, some people said the grains of sand were infinite. What did Archimedes, a Greek thinker, show?",
+   "opts": [
+    "The sand has a number, even if it is huge",
+    "The sand really is infinite",
+    "Sand can't be counted at all"
+   ],
+   "a": 0,
+   "why": "Archimedes showed that even sand filling the universe, as he pictured it, would be fewer than a 1 followed by 63 zeros. A huge number is still a number.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Which question about infinity does nobody know the answer to yet?",
+   "opts": [
+    "Does space go on for ever?",
+    "Is there a biggest number?",
+    "Is a crore bigger than a lakh?"
+   ],
+   "a": 0,
+   "why": "Nobody knows yet whether space is infinite. But we do know there is no biggest number, and that a crore is a hundred lakh.",
+   "outcome": 5
+  }
+ ],
+ "videos": [
+  {
+   "title": "Infinity is bigger than you think - Numberphile",
+   "channel": "Numberphile",
+   "youtube": "elvOZm0d4H0",
+   "mins": 8,
+   "why": "For the parent and curious older children: a mathematician explains with pen and paper why infinity is not a number, and goes on to the idea that some infinities are bigger than others.",
+   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'Infinity is bigger than you think - Numberphile', channel Numberphile). Not watched from here: a parent should preview it and check its length. The second half (bigger infinities) is Class 5 material."
+  },
+  {
+   "title": "Infinity isn't a number. It's something much weirder.",
+   "channel": "Be Smart",
+   "youtube": "IqU9onfl5eA",
+   "mins": 10,
+   "why": "For the parent: a lively explainer of why infinity is an idea about never ending, not a number.",
+   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'Infinity isn’t a number. It's something much weirder.', channel Be Smart). Not watched from here: a parent should preview it and check its length."
+  },
+  {
+   "title": "How Long Does it Take to Count to 1 Million?",
+   "channel": "Math with Mr. J",
+   "youtube": "ljT8wNiCG7g",
+   "mins": 5,
+   "why": "For the child, after the counting test: a teacher works out how long counting to a million would take.",
+   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'How Long Does it Take to Count to 1 Million? | Counting to 1,000,000 | Math with Mr. J', channel Math with Mr. J). Not watched from here: a parent should preview it and check its length."
+  }
+ ],
+ "applications": [
+  "Computer programmers must stop programs from looping for ever. Radia Perlman's Spanning Tree Protocol stops data from going round network loops without end.",
+  "Mathematicians use the plus-one idea to prove facts about every number at once, without checking them one by one.",
+  "Scientists estimate huge numbers, such as the fish in a lake or the stars in a galaxy, by counting a small part and multiplying.",
+  "Astronomers measure whether space curves, to find out whether the universe could be infinite."
+ ],
+ "spotted": [
+  {
+   "text": "The arrow at the end of a number line in a maths textbook.",
+   "art": "An open maths textbook with a number line ending in an arrow."
+  },
+  {
+   "text": "A sikku kolam at a doorway in Chennai, drawn as one line that loops round and joins up.",
+   "art": "A white looping sikku kolam in front of a house door at dawn."
+  },
+  {
+   "text": "The ∞ sign on a shop sign, a bangle design or a necklace.",
+   "art": "A gold bangle with an infinity-shaped clasp."
+  },
+  {
+   "text": "A sack of rice at the kirana shop: very many grains, but a finite number.",
+   "art": "Open sacks of rice in a small grocery shop, with a steel scoop."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "Does space go on for ever?",
+   "why_open": "We can see only part of the universe, because light from further away has not reached us yet. Space looks flat, which fits an endless universe, but a finite one that is far bigger than we see would look the same."
+  },
+  {
+   "q": "Did time have a beginning, and will it go on for ever?",
+   "why_open": "The universe began expanding about 13.8 billion years ago, but scientists do not agree on whether anything came before that, or whether time will last for ever."
+  },
+  {
+   "q": "Are numbers discovered or invented?",
+   "why_open": "Mathematicians and philosophers have argued about this for over 2,000 years. Some say numbers exist on their own, and we find them. Others say people made them up as a tool."
+  }
+ ],
+ "ask_kids": [
+  "What is the biggest number you can think of? Can I beat it?",
+  "Do you think there are infinitely many grains of salt in the jar? How could we find out?",
+  "How long do you think it would take to count to a lakh?",
+  "Is there anything at home that you think might go on for ever?",
+  "If the numbers never end, where do you think they go?"
+ ],
+ "jokes": [
+  {
+   "j": "Why did the boy stop counting at a crore?",
+   "a": "His mouth said, 'One more and I quit!'"
+  },
+  {
+   "j": "What did the number 1 say to the number 2?",
+   "a": "Don't worry, there is always someone bigger."
+  },
+  {
+   "j": "Why is the infinity sign never late?",
+   "a": "It never has to finish."
+  },
+  {
+   "j": "Why did the number line bring a suitcase?",
+   "a": "It had a very long way to go."
+  },
+  {
+   "j": "Why was 6 afraid of 7?",
+   "a": "Because 7, 8, 9."
+  },
+  {
+   "j": "What did 0 say to 8?",
+   "a": "Nice belt!"
+  },
+  {
+   "j": "How many grains of rice are in an empty tumbler?",
+   "a": "Zero. Counting them was quick."
+  },
+  {
+   "j": "Why did the 8 lie down?",
+   "a": "It wanted to be infinity for a while."
+  },
+  {
+   "j": "What do you call a number that never stops walking?",
+   "a": "A roamin' numeral."
+  },
+  {
+   "j": "Why did the student count to infinity on the bus?",
+   "a": "She heard it was a long ride."
+  },
+  {
+   "j": "What is a mathematician's favourite dessert?",
+   "a": "Pi, which goes on for ever."
+  },
+  {
+   "j": "Why did the crore feel small?",
+   "a": "It met a crore crore."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "In the counting test, Revathi read 20 small numbers in 10 seconds and 20 big numbers in 40 seconds. How many times as long did the big numbers take?",
+   "answer": "4 times as long.",
+   "explain": "The big numbers took 40 seconds and the small ones took 10. 40 divided by 10 is 4. Check: 10 + 10 + 10 + 10 = 40.",
+   "math_unit": "math.division.sharing-and-grouping.L3",
+   "context": "This is about the counting test, where you timed yourself reading 20 small numbers and 20 big numbers aloud.",
+   "how": "e1",
+   "chart": {
+    "type": "bar",
+    "title": "Seconds to read 20 numbers",
+    "x": "List",
+    "y": "Seconds",
+    "data": [
+     {
+      "label": "1 to 20",
+      "value": 10,
+      "emoji": "🔢"
+     },
+     {
+      "label": "1,23,451 to 1,23,470",
+      "value": 40,
+      "emoji": "🔢"
+     }
+    ]
+   },
+   "why_maths": "Dividing one time by the other tells us how many times slower the big numbers are, so we can predict how slow counting gets."
+  },
+  {
+   "problem": "Lakshmi found 200 grains in one teaspoon of rice. Her tumbler held 40 teaspoons. How many grains are in 5 tumblers?",
+   "answer": "40,000 grains.",
+   "explain": "One tumbler is 200 times 40, which is 8,000 grains. Five tumblers is 8,000 times 5, which is 40,000. That is a lot of rice, but it is still a finite number.",
+   "math_unit": "math.multiplication.equal-groups.L3",
+   "context": "This is about the rice test, where you counted the grains in a teaspoon and the teaspoons in a tumbler.",
+   "how": "e2",
+   "why_maths": "Multiplying lets us find a huge number from a small count, without counting every grain."
+  },
+  {
+   "problem": "Jeremy Harper counted to 10,00,000 in 89 days. If he had kept going at the same speed, about how many days would it take him to count to one crore?",
+   "answer": "About 890 days, which is nearly two and a half years. In fact it would take longer, because the numbers get longer to say.",
+   "explain": "One crore is 10 times ten lakh. 89 times 10 is 890 days. But each number above ten lakh has more words, so the real time would be more than 890 days.",
+   "math_unit": "math.number-sense.infinity.L3",
+   "context": "This is about Jeremy Harper, who counted out loud from 1 to ten lakh in 2007.",
+   "why_maths": "A quick multiplication shows how much longer each new step of counting takes, and the counting test shows why the real answer is even bigger."
+  },
+  {
+   "problem": "In the Make It Bigger game, the biggest number you can make with 3 cards is 999. The smallest number with 4 cards is 1,000. Which is bigger, and by how much?",
+   "answer": "1,000 is bigger, by 1.",
+   "explain": "1,000 minus 999 is 1. So the smallest 4-digit number is just one more than the biggest 3-digit number. One more digit always beats every number with fewer digits.",
+   "math_unit": "math.number-sense.place-value.L3",
+   "context": "This is about the Make It Bigger card game, where each round you get one more digit card.",
+   "how": "g1",
+   "why_maths": "Comparing these two numbers shows why adding a digit always makes a bigger number possible, so there is no biggest number."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.nothing-and-forever.L3",
+  "title": "One More, One More",
+  "note": "Topic-level song for Nothing and forever L3"
+ },
+ "links": [
+  {
+   "title": "Maths Is Fun: Infinity",
+   "url": "https://www.mathsisfun.com/numbers/infinity.html",
+   "kind": "interactive",
+   "why": "A short, clear page for parents on what infinity is and why it is not a number."
+  },
+  {
+   "title": "Maths Is Fun: Count to a Billion",
+   "url": "https://mathsisfun.com/activity/count-billion.html",
+   "kind": "interactive",
+   "why": "Works out how long it would take to count to a billion, to compare with the counting test."
+  },
+  {
+   "title": "Visvesvaraya Industrial and Technological Museum, Bengaluru",
+   "url": "https://www.vismuseum.gov.in/",
+   "kind": "place",
+   "where": "Bengaluru",
+   "why": "A large science museum with hands-on galleries. Check what is on show before you go."
+  }
+ ],
+ "buy": [],
+ "warmup": [
+  {
+   "q": "What is one more than 9,99,999?",
+   "a": "10,00,000, which is ten lakh."
+  },
+  {
+   "q": "Is there a biggest number?",
+   "a": "No. Any number plus one is bigger."
+  },
+  {
+   "q": "What does infinity mean?",
+   "a": "Without end."
+  },
+  {
+   "q": "Is infinity a number you can count to?",
+   "a": "No. The counting never finishes."
+  },
+  {
+   "q": "Are there infinitely many grains of rice in a sack?",
+   "a": "No. There are very many, but it is a number."
+  },
+  {
+   "q": "How many zeros are in one lakh?",
+   "a": "Five: 1,00,000."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "a1",
+   "story",
+   "e1",
+   "e2",
+   "big_questions",
+   "cards",
+   "g1"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "story",
+   "summary",
+   "terms",
+   "e2",
+   "videos",
+   "ws-core",
+   "g1",
+   "a2",
+   "a3",
+   "agreed",
+   "challenging",
+   "a5",
+   "a4",
+   "p1",
+   "ws-stretch",
+   "c1",
+   "big_questions",
+   "ws-challenge",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "e2",
+   "g1",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "ideas/by_topic/nothing-and-forever.md: Grade concept grid for Zero and Infinity ('Infinity means never-ending: numbers that go on forever'; debated 'Can infinity be reached or just imagined?'; 'Is space infinite or curved and finite?'), used for the counting test, the explanations and the open question on space",
+   "ideas/by_topic/nothing-and-forever.md: SCI Cards for Madhava of Sangamagrama, Georg Cantor and Radia Perlman (infinite loops in networks, used in applications); Cantor's bigger infinities kept for the Class 5 unit",
+   "Prerequisite unit sci.nothing-and-forever.zero.L3 (zero and Brahmagupta are left to that unit)"
+  ],
+  "science": [
+   "Archimedes, The Sand Reckoner (Psammites), about 3rd century BCE, addressed to King Gelon of Syracuse: 'There are some, King Gelon, who think that the number of the sand is infinite in multitude'; bound of fewer than 10^63 grains (T. L. Heath translation)",
+   "Euclid, Elements, Book IX, Proposition 20 (there are more primes than any given number), background to the plus-one idea",
+   "Aristotle, Physics, Book III, chapters 4 to 8 (the potential infinite)",
+   "John Wallis, De sectionibus conicis, 1655 (first use of the sign ∞)",
+   "Yajurveda, Vajasaneyi Samhita 17.2 (number names from eka to parardha, 10^12); see Kak, 'Early record of divisibility and primality', arXiv 0904.1154",
+   "Anuyogadvara Sutra (Jain), classification of numbers as countable (sankhyata), uncountable (asankhyata) and infinite (ananta); edition not checked directly",
+   "Guinness World Records, 'Highest number counted out loud': Jeremy Harper, 1 to 1,000,000, 18 June to 14 September 2007",
+   "Planck Collaboration, Astronomy and Astrophysics 641, A6, 2020 (space is flat within measurement limits; age of the universe 13.8 billion years)"
+  ]
+ },
+ "roots": {
+  "context": "We have learned that the numbers never end, and that infinity is the word for this never-ending. Now we ask what that tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "Saying 20 big numbers took you longer than saying 20 small ones, and soon you had to stop. Yet you know the numbers never run out. You know it from one rule: any number plus one is a bigger number. So a mind can be sure of something endless without ever seeing all of it.",
+   "habit": "We think knowing a thing means seeing or counting all of it, and we picture infinity as a very big number far away. But nobody can count all the numbers, and still everyone who understands the plus-one rule can be sure they never stop.",
+   "evidence": "The stopwatch showed that bigger numbers take longer to say, and Jeremy Harper needed 89 days to reach ten lakh. The counting can never finish. Yet the plus-one rule shows, in a moment, that there is always a next number."
+  },
+  "three": {
+   "who_am_i": "You are someone who can count only a little way, yet can understand that the numbers never end.",
+   "what_is_life": "A life has a length you can count in days. Within it, you can still think about the endless.",
+   "what_is_this_world": "The world is full of very big numbers: grains, hairs, stars. Whether anything in it is truly infinite, nobody knows yet."
+  },
+  "thread": "The counting numbers begin with one. Add one, and you have two. Add one again, and again, and every counting number appears, without end. So one plain rule, used over and over, gives numbers without end. In the same way, the many things of the world come from a few simple beginnings, repeated and combined.",
+  "teachings": [
+   {
+    "source": "Isha Upanishad, opening verse (also Brihadaranyaka Upanishad 5.1.1)",
+    "teaching": "That is whole, this is whole. From the whole, the whole comes out. Take the whole from the whole, and the whole remains.",
+    "link": "The numbers behave like this. Take away the first hundred numbers, and the numbers that are left still never end."
+   },
+   {
+    "source": "Anuyogadvara Sutra, a Jain text",
+    "teaching": "Numbers are of three kinds: countable, uncountable and infinite.",
+    "link": "Jain thinkers drew the same line this unit draws: the grains in a tumbler are countable, however many there are, and the numbers themselves are infinite."
+   },
+   {
+    "source": "Aristotle, Physics, Book III",
+    "teaching": "The infinite is that beyond which there is always something more. It is never complete.",
+    "link": "This is the plus-one rule. However far you count, there is always more, and the counting is never complete."
+   }
+  ],
+  "science": [
+   {
+    "text": "There is no largest counting number: any number plus one is larger. Mathematicians accept this as proved.",
+    "status": "settled"
+   },
+   {
+    "text": "Whether space goes on for ever is not known. It is very nearly flat, which fits an infinite universe, but also a very large finite one.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "Ultrafinitists, a small group of mathematicians",
+   "view": "A rule that can never be carried out to the end tells us about the rule, not about an endless thing. Numbers too big for anyone to ever write may not really exist, so nothing endless is known at all."
+  },
+  "practice": {
+   "title": "Count your breaths, then begin again",
+   "mins": 3,
+   "say": "Let's sit still and close our eyes. Breathe in and out slowly. Count each out-breath, from one to ten. At ten, start again at one. Your breaths will go on all day without you counting them. Now open your eyes. Did your breathing stop when the counting stopped?",
+   "kid": "Sit still and close your eyes. Breathe out slowly and count: one. Count each breath out, up to ten. Then start again at one. Do this three times. Open your eyes. Did your breathing stop when your counting stopped?"
+  },
+  "ask": [
+   "How can a small head be sure of something that never ends?",
+   "If you could live for ever, would you ever finish counting?",
+   "Do you think anything you can touch is infinite? Why or why not?"
+  ],
+  "art": "A child sitting cross-legged by a window at night, eyes closed, with a faint line of numbers drifting out of the window and on past the city lights."
+ },
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. The counting test uses lists from 351 and from 1,23,451, because round numbers such as 1,00,001 ('one lakh and one') are quick to say and would hide the pattern. The parent writes the lists, because few children of 8 can read 1,23,451 alone, and the step says to practise one number first. Times vary, but list C almost always takes four or more times as long as list A. The rice test needs about 2 cups of raw rice and a level teaspoon. Counts vary with the kind of rice (short grains give more), so the step gives a range and accepts any number. The thousand-dots project is split into 3 days of 15 minutes, because 1,000 dots in one sitting is tiring. The sikku kolam step accepts any single closed loop, since full sikku patterns take practice. Nothing needs to be bought. The spine fits about 85 minutes: intro 2, a1 8, e1 30, explanations about 15, roots about 15, quiz about 11.",
+ "how_we_found_out": {
+  "story": "For thousands of years, people said that the grains of sand were infinite. In many languages, 'as many as the sand' meant 'too many to number'. About 2,200 years ago, Archimedes, a Greek thinker who lived in Syracuse in Sicily, decided to test this idea. He wrote a short book for King Gelon, called The Sand Reckoner. It begins: 'There are some, King Gelon, who think that the number of the sand is infinite.' Archimedes guessed how many grains fit inside a poppy seed. Then he worked out how many poppy seeds would fill a finger-width, a stadium, the Earth, and at last the whole universe, as people pictured it then. The Greek number names stopped at a myriad, which is ten thousand. So Archimedes invented new names for bigger and bigger numbers. His answer was that fewer than a 1 followed by 63 zeros grains of sand would fill the universe. That is a huge number, but it is a number. Archimedes showed that 'too many to count' is not the same as infinite. Only the numbers themselves have no end.",
+  "who": "Archimedes of Syracuse, a Greek mathematician",
+  "when": "About 3rd century BCE, in his book The Sand Reckoner",
+  "wrong_idea": "People believed the grains of sand were infinite. Archimedes showed that even the sand needed to fill the universe, as he pictured it, could be given a number: fewer than a 1 followed by 63 zeros."
+ }
+}
