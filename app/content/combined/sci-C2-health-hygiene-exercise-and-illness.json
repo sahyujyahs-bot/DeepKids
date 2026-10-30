@@ -4,9 +4,9 @@
  "subj": "sci",
  "level": 2,
  "n": "health-hygiene-exercise-and-illness",
- "title": "Keeping healthy: food, germs, moving and teeth",
+ "title": "Staying healthy: what keeps a growing body well",
  "source": "DeepKids Combined. Covers Cambridge Stage 2 Biology Unit 4.4 'Keeping healthy' (healthy eating, germs and being ill, exercise, keeping clean) and Unit 4.5 'Teeth' (types of teeth, looking after teeth, sugar and teeth). No textbook needed.",
- "summary": "Your child finds out that the food they eat becomes their body, so a varied plate matters; that germs are real living things too small to see, and that soap and water break them up; that exercise makes the heart, a muscle, stronger; and that we get only two sets of teeth in a whole life. They meet the friendly microbes that live inside us, the doctor who was laughed at for asking doctors to wash their hands, and the scientist who found out what really makes holes in teeth.",
+ "summary": "Every new bit of a growing child is built from food and water. Your child finds out why a plate needs many kinds of food. They see how germs spread from hand to hand, and why soap cleans better than water alone. They feel their own heart beat faster after jumping, and learn that the heart is a muscle that exercise makes stronger. They learn the three kinds of teeth, and that people get only two sets in a whole life. They meet the friendly microbes that live inside us, the doctor who was laughed at for asking doctors to wash their hands, and the dentist who found out what really makes holes in teeth.",
  "builds_on": "This is the first rung of the health ladder. It links back to 'Living and non-living' (Class 1: living things feed, grow and get rid of waste). Class 3 adds hygiene of every outer organ, yoga, sleep and feelings; Class 4 adds medicines, vaccines and the journey of our food; Class 5 adds how diseases spread and how whole towns stop them.",
  "goals": [
   "By the end your child can explain that what we eat becomes our body, and choose a plate with many kinds of food.",
@@ -21,7 +21,7 @@
   "water: why the body needs it",
   "germs are tiny living things (bacteria and viruses)",
   "how germs spread: hands, sneezes, food and water",
-  "soap breaks germs' oily coats; washing for 20 seconds",
+  "soap lifts germs off the skin; washing for 20 seconds",
   "most microbes are friendly: the microbes in our gut",
   "exercise: muscles and the heart get stronger",
   "heartbeat and breathing speed up when we move",
@@ -78,21 +78,21 @@
   ],
   [
    "fluoride",
-   "something added to toothpaste that makes enamel harder"
+   "something added to toothpaste that helps enamel stand up to acid"
   ]
  ],
  "day_mins": 35,
  "days": [
   {
    "n": 1,
-   "title": "You are made of your dinners",
+   "title": "Food becomes your body",
    "goal": "Find out that food becomes our body, and hear the story.",
    "steps": [
     {
      "kind": "warmup",
      "title": "How did you get so big?",
      "mins": 8,
-     "do": "Show your child a baby photo of themselves, or measure them against a door frame where you marked them last year. Ask: 'You were tiny once. Now you are big. Where did all the new you come from? What is your new arm made of?' Let them guess. Then say: 'Every bit of new you was built from food and water: the dal, the rice, the milk, the banana. The food you eat becomes your bones, your skin and your blood.' Ask: 'So if you ate only biscuits, what would your body have to build itself from?' (Only biscuits, which don't have the right building stuff.)"
+     "do": "Show your child a baby photo of themselves, or measure them against a door frame where you marked them last year. Ask: 'You were tiny once. Now you are big. Where did all the new you come from? What is your new arm made of?' Let them guess. Then say: 'Every bit of new you was built from food and water: the rice, the sambar, the milk, the banana. The food you eat becomes your bones, your skin and your blood.' Ask: 'If you ate only biscuits, what would your body have to build itself from?' (Only biscuits, which have very little of what bones and muscles are made from.)"
     },
     {
      "kind": "talk",
@@ -104,13 +104,13 @@
      "kind": "read",
      "title": "Story: The Tooth Who Held the Door",
      "mins": 12,
-     "do": "Read the story aloud (Story tab). Then ask the story questions. Don't explain the ending; let your child wonder about it."
+     "do": "Read the story aloud (Story tab). It is told by a milk tooth. Then ask the story questions. Don't explain the ending; let your child wonder about it."
     },
     {
      "kind": "do",
      "title": "Wobbly tooth check",
      "mins": 5,
-     "do": "Look in a mirror together. Your child counts their teeth, top and bottom, and wiggles each gently with a clean finger. Are any wobbly? Any gaps? Say: 'These are your milk teeth. Under them, your grown-up teeth are already waiting, like in the story.'"
+     "do": "Look in a mirror together. Your child counts their teeth, top and bottom, and wiggles each gently with a clean finger. Are any wobbly? Any gaps? Say: 'These are your milk teeth. Under them, your adult teeth are already growing, like in the story.'"
     }
    ],
    "need": [
@@ -134,7 +134,7 @@
      "kind": "talk",
      "title": "Three jobs food does",
      "mins": 10,
-     "do": "Explain with real foods on the table: 'Some foods are energy foods. They are like fuel for running and thinking: rice, roti, potato, poha, banana. Some are body-building foods. They help build muscles and mend cuts: dal, eggs, paneer, milk, chana, fish. Some are protective foods. They help keep you well and your eyes, skin and gums healthy: fruit and vegetables, like carrot, palak, amla, guava.' Ask: 'Which job does curd do?' (Body-building, and it also has friendly bacteria.) 'Can one food do everything?' (No, so we need many kinds.) Say: 'Sugar and oily snacks give quick energy but almost nothing to build with. They are a little-bit food.'"
+     "do": "First ask: 'What do you think food does for your body?' Listen. Then explain with real foods on the table: 'Some foods are energy foods. They give you energy to run and think: rice, idli, ragi, roti, potato, banana. Some are body-building foods. They help build muscles and mend cuts: dal, eggs, paneer, milk, chana, fish. Some are protective foods. They help keep you well and keep your eyes, skin and gums healthy: fruit and vegetables, like carrot, drumstick leaves, amla, guava.' Ask: 'Which job does curd do?' (Body-building. It also has friendly bacteria.) 'Can one food do everything?' (No, so we need many kinds.) Say: 'Sweets and fried snacks give quick energy but almost nothing to build with. Eat them only a little.' Then ask: 'What is the one drink your body needs every day?' (Water.) Say: 'Water carries food around your body, cools you as sweat, and carries waste out as urine.'"
     },
     {
      "kind": "act",
@@ -152,7 +152,7 @@
     }
    ],
    "need": [
-    "real foods from the kitchen or food pictures cut from packets",
+    "real foods from the kitchen, or food pictures cut from packets",
     "a steel thali",
     "worksheet ws1"
    ]
@@ -170,34 +170,34 @@
     },
     {
      "kind": "exp",
-     "title": "Haldi germs",
+     "title": "Turmeric germs",
      "mins": 10,
-     "do": "Do Experiment e1 with turmeric 'germs' and three kinds of washing.",
+     "do": "Do Experiment e1 with turmeric 'germs' and two kinds of washing.",
      "ref": "e1"
     },
     {
      "kind": "talk",
      "title": "The doctor who said wash your hands",
      "mins": 8,
-     "do": "Tell the story in voice v1 in your own words: about 180 years ago in Vienna, Dr Ignaz Semmelweis saw that mothers died more often in the ward where doctors worked. He made the doctors wash their hands, and far fewer mothers died. But many doctors were angry and would not believe him. Ask the voice question. Then finish Worksheet ws1 section B.",
+     "do": "Tell the story in voice v1 in your own words. About 180 years ago in Vienna, Dr Ignaz Semmelweis saw that more mothers died after giving birth in the ward where doctors worked. He made the doctors wash their hands, and far fewer mothers died. But many doctors were angry and would not believe him. Ask the voice question. Then finish Worksheet ws1 section B.",
      "ref": "v1"
     },
     {
      "kind": "act",
      "title": "Drama: the germ and the soap",
      "mins": 5,
-     "do": "Act it out. One person is a germ, clinging to a hand (another person's arm) with an oily grip. The other is Soap: one hand grabs the oil, the other hand grabs Water, and together they pull the germ off and wash it away down the drain. Swap roles. Then ask: 'Why couldn't Water alone pull the germ off?' (Water slides off oil; soap holds on to both.) Children who act it remember the idea far better than ones who are told."
+     "do": "Act it out. One person is a germ, holding on to a hand (another person's arm) with an oily grip. The other is Soap: one hand holds the oil, the other hand holds Water, and together they pull the germ off and wash it down the drain. Swap roles. Then ask: 'Why couldn't Water alone pull the germ off?' (Water slides off oil. Soap holds on to both.)"
     },
     {
      "kind": "exp",
      "title": "Start the bread test",
      "mins": 7,
-     "do": "Start Experiment e2: one slice of bread touched with unwashed hands, one with washed hands, one not touched. You will check it on Days 5, 6 and 7.",
+     "do": "Start Experiment e2: one slice of bread touched with unwashed hands, one with washed hands, one not touched. You will look at them on Days 5, 6 and 7.",
      "ref": "e2"
     }
    ],
    "need": [
-    "turmeric (haldi) and a few drops of cooking oil",
+    "turmeric (manjal) and a few drops of cooking oil",
     "soap, water, a towel",
     "3 slices of bread and 3 zip bags or steel tiffins with lids",
     "a marker"
@@ -218,7 +218,7 @@
      "kind": "talk",
      "title": "The crowd inside you",
      "mins": 8,
-     "do": "Say: 'Not all microbes are germs. Your gut, the long tube where food goes, has trillions of friendly bacteria living in it. They help break down food, make some vitamins and keep bad germs out by taking up the space.' Show a bowl of curd: 'Curd is milk changed by friendly bacteria. Idli and dosa batter rises because of friendly microbes too.' Ask: 'So are all germs bad? Are all microbes germs?' (No and no.) Ask: 'If you are full of bacteria, are you one living thing or a crowd?' Let them think; there's no single right answer."
+     "do": "Ask: 'Do you think all microbes make us ill?' Listen. Then say: 'No. Your gut, the long tube where food goes, has trillions of friendly bacteria living in it. They help break down food, make some vitamins, and keep harmful germs out by taking up the space.' Show a bowl of curd: 'Curd is milk changed by friendly bacteria. Idli batter rises overnight because of friendly microbes too.' Ask: 'So are all microbes germs?' (No. Germs are the few kinds that make us ill.) Ask: 'If you are full of bacteria, are you one living thing or a crowd?' Let them think. There is no single right answer."
     },
     {
      "kind": "exp",
@@ -231,13 +231,13 @@
      "kind": "do",
      "title": "Can you move just one toe?",
      "mins": 4,
-     "do": "Try the DeepKids body challenge. Sitting still: move only your right big toe, nothing else. Now move only your right eyebrow. Now, without moving your head, look up towards the point between your eyebrows for 5 seconds. Then breathe out as slowly as you can and time it (breathing out slowly is safe; never hold the breath for long, and never in water). Ask: 'Was it easy to move just one part? Who was in charge of your toe?' Say: 'Your brain sends messages along nerves to each muscle. Practice makes the messages more exact.'"
+     "do": "Sit still. Move only your right big toe, nothing else. Now move only your right eyebrow. Now wiggle only your little finger. Ask: 'Was it easy to move just one part? Who was in charge of your toe?' Say: 'Your brain sends messages along thin threads called nerves to each muscle. With practice, the brain gets better at moving just one muscle.'"
     },
     {
      "kind": "talk",
      "title": "Why the body needs rest and sleep",
      "mins": 6,
-     "do": "Ask: 'After the jumping, what did your body want?' (To rest, breathe, drink water.) Say: 'Exercise makes muscles a little tired. While you rest and sleep, your body mends them and makes them a bit stronger than before. That's why children need about 9 to 12 hours of sleep a night.' Ask your child to count how many hours they slept last night (bedtime to waking). Ask: 'What happens to you the next day when you sleep too little?' (Grumpy, tired, can't think well.) Then sweat: 'Why do we sweat when we run?' (Sweat cools the skin as it dries. That is why we wash after exercise.)"
+     "do": "Ask: 'After the jumping, what did your body want?' (To rest, breathe, drink water.) Say: 'Exercise makes muscles a little tired. While you rest and sleep, your body mends them and makes them a bit stronger than before. Children your age need about 9 to 12 hours of sleep a night.' Ask your child to count how many hours they slept last night, from bedtime to waking. Ask: 'What happens to you the next day when you sleep too little?' (Grumpy, tired, can't think well.) Then ask: 'Why do we sweat when we run?' (Sweat cools the skin as it dries. Washing afterwards takes the sweat and dirt off.)"
     }
    ],
    "need": [
@@ -262,28 +262,28 @@
      "kind": "do",
      "title": "Three kinds of teeth",
      "mins": 11,
-     "do": "With a mirror, your child finds: incisors (the flat, sharp front teeth, for biting), canines (the pointed ones at the corners, for gripping and tearing) and molars (the wide, bumpy back teeth, for grinding). Give a slice of apple, a piece of roti and a few roasted chana. Your child bites the apple (incisors), tears the roti (canines and incisors), crunches the chana (molars). Ask: 'Try grinding chana with only your front teeth. What happens?' (It's very hard: each tooth has a shape for its job.)"
+     "do": "With a mirror, your child finds the incisors (the flat, sharp front teeth, for biting), the canines (the pointed ones at the corners, for gripping and tearing) and the molars (the wide, bumpy back teeth, for grinding). Give a slice of guava or apple, a piece of dosa or roti, and a few roasted chana. Your child bites the guava (incisors), tears the dosa (canines and incisors) and crunches the chana (molars). Ask: 'Try grinding chana with only your front teeth. What happens?' (It's very hard. Each kind of tooth has a shape for its job.)"
     },
     {
      "kind": "talk",
      "title": "Whose teeth are these?",
      "mins": 10,
-     "do": "Show pictures (in a book or on a phone) of a cow's teeth, a tiger's teeth and an elephant's molar. Ask: 'Who eats grass? Who eats meat? How can you tell?' Good answers: the cow has wide flat grinding teeth for chewing grass all day; the tiger has huge canines for gripping and sharp back teeth for slicing meat. Tell them: 'An elephant grows six sets of big molars in its life, one after another. A shark keeps growing new teeth all its life. Humans get only two sets: milk teeth and adult teeth.' Ask: 'Which animal would you rather be, for teeth? Why?' Do Worksheet ws2 section A.",
+     "do": "Show pictures (in a book or on a phone) of a cow's teeth, a tiger's teeth and an elephant's molar. Ask: 'Who eats grass? Who eats meat? How can you tell?' Good answers: the cow has wide, flat molars for chewing grass all day. The tiger has huge canines for gripping and sharp back teeth for slicing meat. Tell them: 'An elephant grows six sets of big molars in her life, one after another, because grinding plants wears them down. A shark keeps growing new teeth all their life. People get only two sets: milk teeth and adult teeth.' Ask: 'Which animal would you rather be, for teeth? Why?' Do Worksheet ws2 section A.",
      "ref": "ws2"
     },
     {
      "kind": "exp",
      "title": "Start the eggshell test",
      "mins": 10,
-     "do": "Start Experiment e4: an egg in vinegar and an egg in water. Eggshell is made of much the same stuff as tooth enamel, so it shows what acid does.",
+     "do": "Start Experiment e4: an egg in vinegar and an egg in water. Eggshell, like tooth enamel, is a hard mineral made with calcium, and acid can dissolve both. So the egg shows what acid does.",
      "ref": "e4"
     }
    ],
    "need": [
     "a mirror",
-    "an apple slice, a roti, roasted chana",
+    "a slice of guava or apple, a piece of dosa or roti, roasted chana",
     "pictures of cow, tiger and elephant teeth",
-    "2 raw eggs, 2 glasses, white vinegar, water",
+    "2 raw eggs (or 2 seashells or marble chips), 2 glasses, white vinegar, water",
     "worksheet ws2"
    ]
   },
@@ -296,27 +296,27 @@
      "kind": "warmup",
      "title": "Eggshell results",
      "mins": 7,
-     "do": "Look at the eggs from Experiment e4. Lift each out with a spoon. Ask: 'What happened to the shell in vinegar?' (It has bubbles, it went soft or disappeared.) 'In water?' (No change.) Say: 'Vinegar is an acid. And there is acid in your mouth too. Tiny bacteria in your mouth love sugar. When they eat it, they make acid, and the acid slowly eats into enamel, like the vinegar ate the shell.'",
+     "do": "Look at the eggs from Experiment e4. Lift each out with a spoon. Ask: 'What happened to the shell in vinegar?' (It bubbled, and it went thin and soft or disappeared.) 'In water?' (No change.) Say: 'Vinegar is an acid. There is acid in your mouth too. Tiny bacteria on your teeth feed on sugar. When they eat it, they make acid, and the acid slowly dissolves enamel, the way the vinegar dissolved the shell.'",
      "ref": "e4"
     },
     {
      "kind": "talk",
      "title": "The tooth worm that wasn't there",
      "mins": 8,
-     "do": "Tell voice v2: for thousands of years, people in many countries believed a 'tooth worm' bored holes in teeth. In 1890, Willoughby Miller showed that the real cause was mouth bacteria making acid from sugar and starch. Ask the voice question.",
+     "do": "Tell voice v2. For thousands of years, people in many countries believed a 'tooth worm' made holes in teeth. In 1890, a dentist called Willoughby Miller showed that the real cause was mouth bacteria making acid from sugar and starch. Ask the voice question.",
      "ref": "v2"
     },
     {
      "kind": "do",
      "title": "Find the plaque",
      "mins": 10,
-     "do": "Plaque is the sticky, almost invisible layer of bacteria on teeth. Before brushing tonight, your child runs their tongue over their teeth and feels the fuzzy coat. If you can get disclosing tablets from a chemist, chew one and look: the plaque turns pink. Otherwise eat a few jamuns or a beetroot slice and look in the mirror: the stain sticks to the plaque. Then brush for 2 full minutes (make up a brushing song together, one verse for top teeth and one for bottom, sung twice) with a pea-sized blob of fluoride toothpaste: small circles on the outsides, the insides, and back-and-forth on the chewing tops. Look again. Ask: 'Where was the plaque hiding?' (Near the gums and between teeth.)"
+     "do": "Plaque is the sticky, almost invisible layer of bacteria on teeth. Before brushing, your child runs their tongue over their teeth and feels the fuzzy coat. If you can get disclosing tablets from a chemist, chew one and look in the mirror: the plaque turns pink. Then brush for 2 full minutes with a pea-sized blob of fluoride toothpaste: small circles on the outsides and insides, and back and forth on the chewing tops. Make up a brushing song together, one verse for the top teeth and one for the bottom, and sing it twice. Then your child feels with their tongue again: the teeth feel smooth. Ask: 'Where was the plaque hiding?' (Near the gums and between the teeth.)"
     },
     {
      "kind": "talk",
      "title": "Datun: an old way",
      "mins": 5,
-     "do": "Tell voice v3: in India, people have cleaned teeth with a neem or babool twig, chewed into a brush, for over two thousand years. Ask the voice question.",
+     "do": "Tell voice v3. In India, people have cleaned their teeth with a twig of neem or babool, chewed into a soft brush, for over two thousand years. An old Tamil saying goes 'Aalum velum pallukku uruthi': banyan and babool twigs keep teeth strong. Ask the voice question.",
      "ref": "v3"
     },
     {
@@ -331,7 +331,7 @@
     "the eggs from yesterday",
     "a spoon",
     "toothbrush and fluoride toothpaste",
-    "disclosing tablets, or jamun or beetroot",
+    "disclosing tablets (if you can get them)",
     "a timer"
    ]
   },
@@ -344,7 +344,7 @@
      "kind": "warmup",
      "title": "Bread verdict",
      "mins": 5,
-     "do": "Open nothing; just look at the bread bags (e2) through the plastic. Which slice has the most mould? Ask: 'What does that tell you about our hands?' Then throw the bags away without opening them and wash hands.",
+     "do": "Don't open the bags. Look at the bread (e2) through the plastic. Which slice has the most mould? Ask: 'What does that tell you about our hands?' Then throw the bags away without opening them, and wash hands.",
      "ref": "e2"
     },
     {
@@ -358,13 +358,13 @@
      "kind": "do",
      "title": "Project: my healthy-body book",
      "mins": 10,
-     "do": "Finish the project: a little folded book with one page for each thing we found out (food, germs, soap, friendly microbes, heart, sleep, teeth, sugar). Your child draws and writes one sentence per page."
+     "do": "Make the project: a little folded book with one page for each thing we found out (food, germs and soap, friendly microbes, heart, sleep, teeth, sugar, brushing). Your child draws one quick picture and writes one sentence on each page. They can colour the pictures later."
     },
     {
      "kind": "check",
      "title": "Teach it back",
      "mins": 8,
-     "do": "Your child teaches another family member how to wash hands properly and how to brush, and explains why. Then ask the check questions. Instead of labels like 'good boy' or 'clever girl', ask what they noticed and what surprised them; they are not their marks, and they can always look again."
+     "do": "Your child teaches another family member how to wash hands properly and how to brush, and explains why. Then ask the check questions. Instead of praise like 'good boy' or 'clever girl', ask what they noticed and what surprised them."
     }
    ],
    "need": [
@@ -391,12 +391,12 @@
         "rice",
         "dal",
         "guava",
-        "roti",
+        "idli",
         "paneer",
         "carrot",
         "banana",
         "egg",
-        "palak"
+        "drumstick leaves"
        ],
        "cats": [
         "energy food",
@@ -434,7 +434,7 @@
       },
       {
        "t": "write",
-       "p": "Your friend eats only chips for a week. What might happen to her body, and why?",
+       "p": "Your friend Kavya eats only chips for a week. What might happen to her body, and why?",
        "lines": 3
       }
      ]
@@ -478,7 +478,7 @@
       },
       {
        "t": "write",
-       "p": "In the haldi experiment, why did soap work better than water alone?",
+       "p": "In the turmeric experiment, why did soap clean better than water alone?",
        "lines": 3
       }
      ]
@@ -514,7 +514,7 @@
       },
       {
        "t": "mcq",
-       "p": "A cow chews grass all day. Which teeth does it need most?",
+       "p": "A cow chews grass all day. Which teeth does she need most?",
        "opts": [
         "long canines",
         "wide flat molars",
@@ -689,27 +689,27 @@
  "experiments": [
   {
    "id": "e1",
-   "title": "Haldi germs",
+   "title": "Turmeric germs",
    "day": 3,
    "question": "How do germs spread from hand to hand, and what really cleans them off?",
    "need": [
-    "a pinch of turmeric (haldi)",
+    "a pinch of turmeric (manjal)",
     "a few drops of cooking oil",
     "soap",
     "a bucket or tap of water",
     "a towel"
    ],
    "steps": [
-    "Rub a few drops of oil over your child's palms, then sprinkle a pinch of haldi on and rub it in. Say: 'These are pretend germs. Germs on real hands stick in the skin's oils, just like this.'",
+    "Rub a few drops of oil over your child's palms. Sprinkle a pinch of turmeric on and rub it in. Say: 'These are pretend germs. Real germs stick in the skin's oils, just like this.'",
     "Your child shakes your hand, touches a door handle, a spoon and a toy. Look at how the yellow has spread to everything.",
     "Now wash one hand only with water for 5 seconds. Look.",
-    "Wash the other hand with soap for 20 seconds (sing 'Happy Birthday' twice): palms, backs, between the fingers, thumbs, and under the nails. Rinse. Compare the hands.",
+    "Wash the other hand with soap for 20 seconds (sing 'Happy Birthday' twice): palms, backs, between the fingers, thumbs and under the nails. Rinse. Compare the two hands.",
     "Wipe the door handle and spoon with soap and water too."
    ],
    "predict": "Ask: 'Which will clean better: water alone, or soap? Will anything be left?'",
-   "observe": "Water alone leaves most of the yellow; soap removes nearly all. The yellow hides longest between fingers, under nails and in skin creases.",
-   "why": "Germs sit in the thin layer of oil on our skin, and water slides off oil. Soap is made of tiny particles with one end that grabs oil and one end that grabs water, so it lifts the oil and the germs away into the water. Soap can also break open the oily coat that some viruses wear, which destroys them. Haldi is only a pretend germ: real germs are far too small to see.",
-   "safety": "Haldi stains clothes yellow, so wear old clothes. Keep it away from eyes.",
+   "observe": "Water alone leaves most of the yellow powder. Soap removes far more. The powder stays longest between the fingers, under the nails and in skin creases. A faint yellow colour may stay on both hands, because turmeric dyes skin. Look at the powder, not the faint colour.",
+   "why": "Germs sit in the thin layer of oil on our skin, and water slides off oil. Soap is made of tiny particles with one end that sticks to oil and one end that sticks to water. So soap lifts the oil, and the germs in it, into the water. Soap can also break open the oily coat that some viruses have, which destroys them. Turmeric is only a pretend germ. Real germs are far too small to see.",
+   "safety": "Turmeric stains clothes yellow, so wear old clothes. Keep it away from the eyes.",
    "time": "15 min"
   },
   {
@@ -725,14 +725,14 @@
    ],
    "steps": [
     "Label the bags 'dirty hands', 'clean hands' and 'not touched'.",
-    "Using tongs or the bag itself, put one slice straight into 'not touched' and seal it.",
+    "Using a spoon or the bag itself, put one slice straight into 'not touched' without touching it, and seal it.",
     "Before washing, your child rubs both hands all over the second slice. Seal it in 'dirty hands'.",
     "Your child washes hands with soap for 20 seconds, dries them, and rubs the third slice. Seal it in 'clean hands'.",
-    "Keep all three in the same warm, dark place. Look on Days 5, 6 and 7 without opening the bags, and draw them."
+    "Sprinkle a few drops of water inside each bag, because mould grows faster on damp bread. Keep all three in the same warm, dark place. Look on Days 5, 6 and 7 without opening the bags, and draw them. If there is no mould yet, keep looking for a few more days."
    ],
    "predict": "Ask: 'Which slice will grow spots first? Why?'",
-   "observe": "Spots of mould, often green, black or white, appear first and most on the 'dirty hands' slice.",
-   "why": "Mould is a fungus, a living thing. Its tiny spores were carried on unwashed hands, and some bacteria too. On warm, damp bread with food to eat, they grew until we could see them. Washing removed most of them. The untouched slice may still grow a little mould because spores float in the air everywhere.",
+   "observe": "Spots of mould, often green, black or white, usually appear first and most on the 'dirty hands' slice. Bread with preservatives can take a week or more.",
+   "why": "Mould is a fungus, a living thing. Their tiny seeds, called spores, were carried on unwashed hands, along with some bacteria. On warm, damp bread with food to eat, they grew until we could see them. Washing removed most of them. The untouched slice may still grow a little mould, because spores float in the air everywhere.",
    "safety": "Never open the bags: mould spores can make people with asthma or allergies ill. Throw the sealed bags away at the end and wash hands.",
    "time": "10 min + checks over 4 days"
   },
@@ -746,16 +746,16 @@
     "paper and pencil"
    ],
    "steps": [
-    "Your child sits still for 2 minutes. Find the pulse: two fingers on the inside of the wrist below the thumb, or a hand flat on the left of the chest. Count beats for 15 seconds; you can multiply by 4 later, or just compare 15-second counts.",
+    "Your child sits still for 2 minutes. Find the pulse: two fingers on the inside of the wrist below the thumb, or a hand flat on the chest, a little to the left. Count the beats for 15 seconds. Just compare the 15-second counts.",
     "Count breaths for 15 seconds too (watch the tummy rise).",
     "Now jump, skip or run on the spot for 1 minute.",
-    "Count heartbeats and breaths for 15 seconds again. Feel the skin: warm? sweaty?",
+    "Count heartbeats and breaths for 15 seconds again. Feel the skin. Is it warm? Sweaty?",
     "Rest for 2 minutes and count again.",
     "Record all three in a table: Resting, Just after exercise, After resting."
    ],
    "predict": "Ask: 'Will your heart beat faster, slower or the same after jumping? Why?'",
    "observe": "Heartbeat and breathing are much faster just after exercise and slow down again with rest.",
-   "why": "Moving muscles need more oxygen and food. The heart is a muscle that pumps blood carrying oxygen and food to every part of the body, so when the leg muscles work hard, the heart pumps faster and you breathe faster to take in more oxygen. Exercising most days makes the heart muscle stronger, so it can push more blood with each beat.",
+   "why": "Working muscles need more oxygen and food. The heart is a muscle that pumps blood, and blood carries oxygen and food to every part of the body. So when the leg muscles work hard, the heart pumps faster, and you breathe faster to take in more oxygen. Exercising most days makes the heart muscle stronger, so it pushes more blood with each beat.",
    "safety": "Stop if your child feels dizzy or unwell. A child with asthma or a heart condition should follow their doctor's advice.",
    "time": "15 min"
   },
@@ -765,20 +765,20 @@
    "day": 5,
    "question": "What can acid do to something hard like tooth enamel?",
    "need": [
-    "2 raw eggs",
+    "2 raw eggs (if your family does not use eggs, 2 clean seashells or marble chips)",
     "2 glasses",
     "white vinegar",
     "water"
    ],
    "steps": [
-    "Put one egg gently in a glass and cover it with vinegar.",
+    "Put one egg gently in a glass and cover it with vinegar. (A seashell or a marble chip works the same way, a little more slowly.)",
     "Put the other in a glass of water.",
-    "Look after 10 minutes: tiny bubbles on the vinegar egg?",
+    "Look after 10 minutes. Are there tiny bubbles on the egg in vinegar?",
     "Leave both overnight, then lift them out with a spoon tomorrow and feel the shells."
    ],
    "predict": "Ask: 'What will happen to each shell by tomorrow?'",
-   "observe": "The vinegar egg fizzes and its shell becomes thin, soft or disappears, leaving a rubbery egg. The water egg doesn't change.",
-   "why": "Eggshell is made mostly of calcium carbonate, a mineral. Acid dissolves it, giving off bubbles of a gas called carbon dioxide. Tooth enamel is a different calcium mineral, but acid dissolves it too, only more slowly. In the mouth, bacteria in plaque eat sugar and make acid right on the tooth. Every sugary snack gives them a fresh meal, and the acid can last about half an hour, so sipping sweet drinks all day is worse than having a sweet once. Saliva and fluoride help enamel repair tiny early damage.",
+   "observe": "The egg in vinegar fizzes. By the next day, its shell has become thin and soft or has gone, leaving a rubbery egg. The egg in water doesn't change.",
+   "why": "Eggshell is made mostly of calcium carbonate, a mineral. Acid dissolves it, giving off bubbles of a gas called carbon dioxide. Tooth enamel is a different calcium mineral, but acid dissolves it too, more slowly. In the mouth, bacteria in plaque eat sugar and make acid right on the tooth. Each sugary snack gives them a fresh meal, and the acid can last about half an hour. So sipping a sweet drink all afternoon is worse than having one sweet after lunch. Saliva and fluoride help enamel mend tiny early damage.",
    "safety": "Don't eat the eggs afterwards. Wash hands after touching raw egg.",
    "time": "10 min + overnight"
   }
@@ -807,7 +807,6 @@
  "project": {
   "title": "My healthy-body book",
   "days": [
-   6,
    7
   ],
   "steps": [
@@ -837,7 +836,7 @@
   ],
   "squares": [
    "START",
-   "Ate dal, rice and sabzi: go 2",
+   "Ate rice, sambar and poriyal: go 2",
    "?",
    "Sneezed into your hand: back 2",
    "Washed hands for 20 seconds: go 3",
@@ -868,17 +867,17 @@
    "who": "Ignaz Semmelweis (1818–1865), Hungary, working in Vienna",
    "idea": "In 1847 Semmelweis noticed that many more mothers died of fever after giving birth in the hospital ward where doctors and students worked than in the ward run by midwives. The doctors often came straight from cutting up dead bodies. He made them wash their hands in a chlorine solution before touching mothers, and deaths fell sharply.",
    "then": "Many senior doctors rejected his idea. Germs had not yet been discovered, he could not explain why washing worked, and some were offended at the idea that their own hands caused deaths. He lost his job in Vienna.",
-   "now": "About twenty years after his death, Louis Pasteur, Robert Koch and others proved that germs cause many diseases. Semmelweis was right. Handwashing is now one of the most important ways to stop disease in every hospital. The midwives' ward had already shown the difference; their skill is often left out of the story.",
+   "now": "Within about twenty years of his death, Louis Pasteur, Robert Koch and others showed that germs cause many diseases. Semmelweis was right. Handwashing is now one of the most important ways to stop disease in every hospital.",
    "status": "accepted",
    "ask": "Semmelweis had good numbers but couldn't explain why washing worked. Should doctors have tried it anyway? What would have convinced you?",
    "day": 3
   },
   {
    "id": "v2",
-   "who": "Willoughby D. Miller (1853–1907), American dentist working in Berlin",
+   "who": "Willoughby D. Miller (1853–1907), an American dentist working in Berlin",
    "idea": "For thousands of years, people in Babylon, India, China and Europe believed that a 'tooth worm' made holes in teeth. In 1890 Miller published 'The Micro-organisms of the Human Mouth'. He showed that bacteria living on teeth turn sugars and starch into acid, and that the acid dissolves enamel.",
    "then": "His idea was built on Pasteur and Koch's new germ science and was widely taken up by dentists.",
-   "now": "Scientists today agree that tooth decay is caused by acid from plaque bacteria (such as one called Streptococcus mutans) feeding on sugar, with diet, saliva and fluoride all playing a part. Nobody has ever found a tooth worm. Some people still think a hole is 'just bad luck'.",
+   "now": "Scientists today agree that tooth decay is caused by acid from plaque bacteria feeding on sugar, with diet, saliva and fluoride all playing a part. Nobody has ever found a tooth worm.",
    "status": "accepted",
    "ask": "People believed in the tooth worm for thousands of years. Why do you think nobody checked? How could you check?",
    "day": 6
@@ -886,9 +885,9 @@
   {
    "id": "v3",
    "who": "Datun in the Sushruta Samhita (ancient India), and dentists today",
-   "idea": "The Sushruta Samhita, an ancient Indian book of medicine and surgery, describes cleaning the teeth every morning by chewing a fresh twig from bitter or astringent trees, such as neem, into a soft brush. People across India, Africa and the Middle East still use chewing sticks: neem, babool, and the miswak tree.",
+   "idea": "The Sushruta Samhita, an ancient Indian book of medicine and surgery, describes cleaning the teeth every morning by chewing a fresh twig from bitter trees, such as neem, into a soft brush. An old Tamil saying, 'Aalum velum pallukku uruthi', means that twigs of the banyan (aal) and the babool (vel) keep teeth strong. People across India, Africa and the Middle East still use chewing sticks: neem, babool and the miswak tree.",
    "then": "For a long time, many European-trained doctors in India dismissed datun as old-fashioned.",
-   "now": "Some modern studies have found that a chewing stick used carefully can remove plaque about as well as a toothbrush, and neem has substances that slow some bacteria. But a twig carries no fluoride, which strongly protects enamel, and it is easy to use badly. Dentists today mostly recommend a brush with fluoride toothpaste; some say datun is fine as well. The question is still being studied.",
+   "now": "Some modern studies have found that a chewing stick, used carefully, can remove plaque about as well as a toothbrush, and neem has substances that slow some bacteria. But a twig carries no fluoride, which strongly protects enamel, and it is easy to use badly. Most dentists today recommend a brush with fluoride toothpaste. The question is still being studied.",
    "status": "debated",
    "ask": "How would you design a fair test of datun against a toothbrush? What would you measure?",
    "day": 6
@@ -897,38 +896,38 @@
  "story": {
   "title": "The Tooth Who Held the Door",
   "text": [
-   "I am a milk tooth. I live in the bottom row of Meher's mouth, right at the front, between two other milk teeth called Left and Right. I have lived here for six years, which is the whole of my life and most of Meher's.",
-   "I came in when Meher was a baby. I remember the first thing I ever bit: a cold slice of cucumber from her Nani's kitchen in Lucknow. Meher dribbled and laughed and the whole family clapped, as if I had done something clever. I was very proud.",
-   "My job is biting. I am an incisor, flat and sharp. When Meher eats an apple, I go in first. When she eats a guava, I go in first. Behind me, at the back, live the molars, wide and bumpy, who do the grinding. The oldest molar is called Chakki, because he grinds like a flour mill. Chakki has a small brown hole in his top. He got it the year Meher's uncle came from Dubai with a whole suitcase of toffees, and Meher kept one in her cheek every afternoon for a month.",
-   "\"The tiny ones did it,\" Chakki told me once. He meant the bacteria. Millions of them live in our mouth, too small to see. Most of them are quiet neighbours. But a few kinds love sugar more than anything, and when they eat it, they spit out acid. The acid is very small and very patient. It ate a door in Chakki's roof.",
+   "I am a milk tooth. I live in the bottom row of Meenu's mouth, right at the front, between two other milk teeth called Left and Right. I have lived here for six years, which is the whole of my life and most of Meenu's.",
+   "I came in when Meenu was a baby. I remember the first thing I ever bit: a cold slice of cucumber from her Paati's kitchen in Madurai. Meenu dribbled and laughed and the whole family clapped, as if I had done something clever. I was very proud.",
+   "My job is biting. I am an incisor, flat and sharp. When Meenu eats an apple, I go in first. When she eats a guava, I go in first. Behind me, at the back, live the molars, wide and bumpy, who do the grinding. The oldest molar is called Aatukal, after the heavy stone that grinds idli batter. Aatukal has a small brown hole in his top. He got it the year Meenu's uncle came from Dubai with a whole suitcase of toffees, and Meenu kept one in her cheek every afternoon for a month.",
+   "\"The tiny ones did it,\" Aatukal told me once. He meant the bacteria. Millions of them live in our mouth, too small to see. Most of them are quiet neighbours. But a few kinds feed on sugar, and when they eat it, they make acid. The acid works very slowly. Over many afternoons, it made a hole in the top of Aatukal.",
    "\"Doesn't it hurt?\" I asked.",
-   "\"Sometimes,\" said Chakki. \"When she drinks something cold.\"",
+   "\"Sometimes,\" said Aatukal. \"When she drinks something cold.\"",
    "This year, something strange started to happen to me. I began to feel a knocking underneath. Very slow, very gentle. Tap. Then nothing for days. Then tap again.",
-   "\"Who's there?\" I called down into the gum. Nobody answered. But the knocking went on, and slowly I began to feel loose. I wobbled when Meher ate. I wobbled when she talked. Meher started wiggling me with her tongue all day long, and I did not like it at all.",
-   "I asked Chakki what was happening. Chakki was quiet for a while.",
+   "\"Who's there?\" I called down into the gum. Nobody answered. But the knocking went on, and slowly I began to feel loose. I wobbled when Meenu ate. I wobbled when she talked. Meenu started wiggling me with her tongue all day long, and I did not like it at all.",
+   "I asked Aatukal what was happening. Aatukal was quiet for a while.",
    "\"That,\" he said at last, \"is the one who comes after you.\"",
    "I didn't understand. I had thought I would be here for ever.",
-   "\"Under every one of us,\" said Chakki, \"there's a bigger tooth, growing in the dark. A grown-up tooth. It has been there for years, waiting. Now it's ready, and it's pushing up. As it pushes, your root is melting away to let it through. Soon you'll fall out, and it will take your place.\"",
+   "\"Under every one of us,\" said Aatukal, \"there's a bigger tooth, growing in the dark. A grown-up tooth. It has been there for years, waiting. Now it's ready, and it's pushing up. As it pushes, your root is slowly dissolving to let it through. Soon you'll fall out, and it will take your place.\"",
    "I felt very small then. Six years of biting cucumbers and apples and guavas, and now I was just going to be pushed out by someone I'd never even met.",
-   "That night Meher's mother looked in her mouth with a torch. \"Wobbly!\" she said. \"Your first one.\" And then she said something I have thought about ever since. \"Meher, the new tooth under there is a forever tooth. It has to last you seventy years, eighty, ninety. There's no third one coming after it. So we look after it.\"",
+   "That night Meenu's mother looked in her mouth with a torch. \"Wobbly!\" she said. \"Your first one.\" And then she said something I have thought about ever since. \"Meenu, the new tooth under there is a forever tooth. It has to last you seventy years, eighty, ninety. There's no third one coming after it. So we look after it.\"",
    "No third one. I lay awake thinking about that, if a tooth can lie awake.",
-   "The new tooth would never be pushed out. It would bite Meher's apples when she was a teenager and a grown-up woman and a grandmother. Nothing would come up underneath to take its place. If the tiny ones ate a door in its roof, there would be no new tooth to fix it.",
+   "The new tooth would never be pushed out. It would bite Meenu's apples when she was a teenager and a grown-up woman and a grandmother. Nothing would come up underneath to take its place. If the tiny ones made a hole in it, there would be no new tooth to take over.",
    "And then I understood what I had been doing all these years. I hadn't only been biting. I had been holding the place. If I had fallen out too early, the teeth beside me would have leaned into the gap, and the forever tooth would have come up crooked, or not had room to come up at all. Every year I stood here, I was keeping a door open for someone I had never met.",
-   "\"Chakki,\" I whispered. \"I was holding the door.\"",
-   "\"We all are,\" said Chakki. \"That's what milk teeth are for.\"",
+   "\"Aatukal,\" I whispered. \"I was holding the door.\"",
+   "\"We all are,\" said Aatukal. \"That's what milk teeth are for.\"",
    "The knocking came again from below. Tap. This time I didn't mind it.",
    "\"Come up,\" I said to the one in the dark. \"It's a good mouth. She likes apples. Watch out for toffees.\"",
-   "I fell out on a Tuesday, into a piece of roti. Meher held me up to the window and the light came right through me. Then she ran to show her mother, and her mother wrapped me in a twist of paper and put me in a little steel box.",
-   "From inside the box I can't see much. But the evenings now sound different. There is the sound of the tap running, and the scrub, scrub, scrub of the brush, and Meher's mother counting, \"One minute… two minutes… done.\"",
-   "And down in the front of Meher's mouth, in the place I kept for six years, a small white edge is showing, with little bumps along its top like a new saw. It is bigger than I was. It looks surprised to be there.",
+   "I fell out on a Tuesday, into a piece of dosa. Meenu held me up to the window to look at me. Then she ran to show her mother, and her mother wrapped me in a twist of paper and put me in a little steel box.",
+   "From inside the box I can't see much. But the evenings now sound different. There is the sound of the tap running, and the scrub, scrub, scrub of the brush, and Meenu's mother counting, \"One minute… two minutes… done.\"",
+   "And down in the front of Meenu's mouth, in the place I kept for six years, a small white edge is showing, with little bumps along its top like a new saw. It is bigger than I was. It looks surprised to be there.",
    "Somebody held the door for it. It doesn't know that yet."
   ],
-  "epiphany": "We get only two sets of teeth: milk teeth hold the space and guide the adult teeth, which must last a lifetime because nothing replaces them. The turn is the milk tooth realising it was 'holding the door'. Chakki's brown hole quietly shows the other key idea: sugar-loving mouth bacteria make acid that eats into enamel. Underneath, there's something about doing your part for someone who comes after you.",
+  "epiphany": "We get only two sets of teeth. Milk teeth hold the space and guide the adult teeth, which must last a lifetime because nothing replaces them. The turn is the milk tooth realising it was 'holding the door'. Aatukal's brown hole shows the other key idea: mouth bacteria feed on sugar and make acid that dissolves enamel.",
   "ask": [
    "What was the knocking under the milk tooth?",
-   "Why did Meher's mother say the new tooth was a 'forever tooth'?",
+   "Why did Meenu's mother say the new tooth was a 'forever tooth'?",
    "What does 'holding the door' mean for a milk tooth? What would happen if it fell out too early?",
-   "How did Chakki get his hole? Who are 'the tiny ones'?",
+   "How did Aatukal get his hole? Who are 'the tiny ones'?",
    "Does anyone in your life hold the door for you?"
   ]
  },
@@ -938,8 +937,8 @@
    "more": "Every new bit of a growing child, from bones to blood, is made of what they eat and drink. Mark your child's height on a door frame each birthday: all that growth was dal, rice, milk and vegetables, turned into a person."
   },
   {
-   "idea": "You are never alone: you are a walking city of microbes.",
-   "more": "Trillions of bacteria live in and on each of us, roughly as many as our own cells. Most help us. Germs are only a few troublesome kinds. Curd, idli and dosa are made by friendly microbes."
+   "idea": "Trillions of microbes live in and on you.",
+   "more": "Trillions of bacteria live in and on each of us, roughly as many as our own cells. Most help us. Germs are only a few harmful kinds. Curd and idli batter are made by friendly microbes."
   },
   {
    "idea": "Some things in your body are replaced, and some are not.",
@@ -952,7 +951,7 @@
   "Could we one day grow a third set of teeth? Scientists are studying the genes that stop human teeth after two sets; some animals, like sharks and crocodiles, replace teeth all their lives. Nobody can do it in humans yet."
  ],
  "big": [
-  "If you're made of the food you eat, were you once a field of rice?",
+  "The rice you ate last week is now part of your body. Where was that rice a year ago?",
   "Are you one living thing, or a crowd of living things?",
   "Is a 'germ' bad, or just doing what it needs to live?",
   "Why might people not believe something true when they can't see it?",
@@ -975,7 +974,7 @@
  "perspectives": [
   {
    "who": "Your skin and your immune system",
-   "view": "Every living cell, from the very first ones billions of years ago, has had a skin of sorts, a membrane that keeps 'me' in and 'not me' out. Your skin and your germ-fighting cells still do that job. Ask: where do 'you' stop and the world begin, if the food on your plate becomes you tomorrow?"
+   "view": "Every living cell has a thin skin called a membrane. It keeps the inside of the cell in and most of the outside out. Your skin does the same job for your whole body, and your germ-fighting cells guard what gets past it. Ask: the dal you eat today becomes part of you tomorrow. When does it stop being dal and start being you?"
   },
   {
    "who": "A cow",
@@ -1027,11 +1026,11 @@
   },
   {
    "q": "What are germs, and how do they get into our bodies?",
-   "a": "Tiny living things too small to see; through the mouth, nose and eyes, from hands, sneezes, dirty food and water."
+   "a": "Tiny living things too small to see. They get in through the mouth, nose and eyes, from hands, sneezes, dirty food and dirty water."
   },
   {
    "q": "Why does soap clean better than water alone?",
-   "a": "Germs stick in skin oil; soap grabs the oil and lifts it and the germs away into the water."
+   "a": "Germs stick in skin oil. Soap holds on to the oil and lifts it, and the germs, into the water."
   },
   {
    "q": "What happened to your heartbeat after jumping, and why?",
@@ -1043,11 +1042,11 @@
   },
   {
    "q": "How do sugar and bacteria make holes in teeth?",
-   "a": "Plaque bacteria eat sugar and make acid, which dissolves enamel."
+   "a": "Plaque bacteria eat sugar and make acid. The acid dissolves enamel."
   },
   {
    "q": "Why must we look after adult teeth so carefully?",
-   "a": "We get only two sets; adult teeth must last a lifetime and won't be replaced."
+   "a": "We get only two sets. Adult teeth must last a whole life, and nothing replaces them."
   }
  ]
 }

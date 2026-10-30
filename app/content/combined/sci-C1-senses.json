@@ -5,9 +5,9 @@
  "level": 1,
  "n": "senses",
  "day_mins": 30,
- "title": "Our senses: how we find out about the world, and how other animals find out differently",
+ "title": "Our senses: how we find out about the world",
  "source": "DeepKids Combined. Covers Cambridge Stage 1 Biology Unit 3.4 'Our fantastic senses' (the five senses and their organs) and Physics Unit 6.2 'Our ears' (hearing, protecting our ears, catching quiet sounds). No textbook needed.",
- "summary": "Your child finds out that everything they know about the world comes in through their senses: eyes, ears, nose, tongue and skin. They test how cupped ears catch quiet sounds, why food tastes of nothing with a pinched nose, how warm water can feel hot and cold at the same time, and how pictures can fool the eyes. Then they meet animals that live in completely different sense-worlds (a dog's world of smells, a bat's world of echoes, a fly that tastes with its feet) and find that people have more than five senses.",
+ "summary": "Everything we know about the world comes in through our senses. Your child names the five sense organs: eyes, ears, nose, tongue and skin. They test how cupped hands help the ears catch a quiet sound, and why an apple tastes like a potato with the nose pinched. They find that the same water can feel warm and cool at once, and that pictures can fool the eyes. Then they meet animals who sense the world differently: a dog who follows smells, bats who find food by echoes, and flies who taste with their feet. Last, they find that people have more than five senses.",
  "builds_on": "This is the first rung. In Class 3 your child comes back to the senses: how each sense organ works, taste buds and the five tastes, the eye and the blind spot, the senses beyond five (balance, body position, pain, temperature), and the senses of other animals, including ones we do not have at all.",
  "subconcepts": [
   "a sense is a way of finding out about the world",
@@ -20,7 +20,7 @@
   "senses keep us safe",
   "senses can be tricked: illusions",
   "more than five senses: balance, hunger, knowing where your body is",
-  "animals live in different sense-worlds",
+  "animals sense the world in different ways",
   "people who cannot see or hear use their other senses in clever ways"
  ],
  "goals": [
@@ -46,7 +46,7 @@
   ],
   [
    "smell",
-   "to sense tiny bits of things floating in the air, with our nose"
+   "to sense, with our nose, tiny specks of a thing that float in the air, too small to see"
   ],
   [
    "taste",
@@ -58,7 +58,7 @@
   ],
   [
    "loud",
-   "a big sound that can hurt our ears if it is too close or too long"
+   "a strong sound, which can hurt our ears if it is too close or goes on too long"
   ],
   [
    "quiet",
@@ -83,20 +83,20 @@
      "kind": "warmup",
      "title": "Eyes shut, ears open",
      "mins": 6,
-     "do": "Ask your child to sit very still with eyes shut for one whole minute and count the sounds they hear on their fingers. Then ask: 'What did you hear? Where was it?' (a fan, a crow, a pressure cooker, traffic). Then: 'How did you know it was a crow without seeing it?' (with my ears). Say: 'The ways we find out about the world are called our senses.'"
+     "do": "Ask your child to sit very still with eyes shut for one whole minute and count the sounds they hear on their fingers. Then ask: 'What did you hear? Where was it?' (a fan, a crow, a pressure cooker, traffic). Then ask: 'How did you know it was a crow without seeing it?' (with my ears). Say: 'The ways our body finds out about the world are called our senses.'"
     },
     {
      "kind": "outdoor",
      "title": "Sense walk",
      "mins": 14,
-     "do": "Do Activity a1. Walk slowly round your building, garden or street for ten minutes with a chart of five columns: eyes, ears, nose, tongue, skin. Stop at five places and ask at each: 'What can you see? Hear? Smell? Feel?' (bark of a tree, a hot wall, the smell of frying from a shop, the wind). For taste, wait till you are home and taste a slice of lemon or a pinch of jaggery. Write or draw one thing in each column.",
+     "do": "Do Activity a1. Take a sheet with five columns: eyes, ears, nose, tongue, skin. Walk slowly round your building, corridor or street for ten minutes. Stop at five places. At each one, ask: 'What can you see? What can you hear? What can you smell? What can you feel?' (a crow on a wire, a scooter horn, sambar cooking in a neighbour's flat, a warm wall, the wind). For taste, wait till you are home, then taste a slice of lemon or a pinch of jaggery. Write or draw one thing in each column.",
      "ref": "a1"
     },
     {
      "kind": "talk",
      "title": "Five organs",
      "mins": 10,
-     "do": "At home, ask your child to point to each sense organ as you name it: eyes (see), ears (hear), nose (smell), tongue (taste), skin (touch). Ask: 'Which one is the biggest?' (the skin, it covers all of you). Then ask a puzzling question and really listen: 'If you had no senses at all, how would you know anything about the world?' Then: 'Is a dream real? You see and hear things in a dream, but your eyes are shut.' No right answer; let your child wonder."
+     "do": "At home, name each sense organ and ask your child to point to it: eyes (see), ears (hear), nose (smell), tongue (taste), skin (touch). Ask: 'Which one is the biggest?' (the skin, because it covers all of you). Then ask: 'If you had no senses at all, how would you know anything about the world?' Listen to the answer. Then ask: 'In a dream you see and hear things, but your eyes are shut. Is a dream real?' There is no right answer. Let your child think about it."
     }
    ],
    "need": [
@@ -113,25 +113,25 @@
      "kind": "warmup",
      "title": "Feel a sound",
      "mins": 5,
-     "do": "Ask your child to hum with a hand on their throat. 'What do you feel?' (buzzing, shaking). Say: 'All sounds are made by something shaking very fast. The shake travels through the air into your ear, and your ear tells your brain.' Ask them to point inside their ear (gently, not poking): 'The sound goes in here, to a thin skin called the eardrum, which shakes too.'"
+     "do": "Ask your child to hum with a hand on their throat. Ask: 'What do you feel?' (buzzing, shaking). Say: 'Every sound is made by something shaking back and forth very fast. This shaking is called vibration. The vibration travels through the air into your ear. Deep inside is a thin skin called the eardrum. It vibrates too, and your ear sends a message to your brain.' Ask your child to touch the opening of their ear gently, without poking inside."
     },
     {
      "kind": "exp",
      "title": "Bigger ears",
      "mins": 13,
-     "do": "Do Experiment e1. Sit across the room. You whisper words softly or tick a clock. Your child listens with normal ears, then with hands cupped behind the ears, then with a paper cone held to one ear. Each time, move back one step until they cannot hear it any more. Mark the floor with a book where they stopped hearing. Ask: 'Which ears heard furthest? Why?' (the cones and cupped hands catch more sound and send it into the ear).",
+     "do": "Do Experiment e1. Your child stands near you, facing you, with eyes shut. Play a soft, steady sound on a phone at low volume. Ask first: 'Will cupped hands help you hear from further away? Why do you think so?' Your child steps slowly backwards until they cannot hear the sound, and you put a book on the floor at that spot. Repeat with hands cupped behind the ears. Then repeat with the narrow end of a paper cone held at one ear and the wide end pointing at the phone. Ask: 'Which way heard furthest? Why?' (the cone and the cupped hands catch more sound and send it into the ear).",
      "ref": "e1"
     },
     {
      "kind": "talk",
      "title": "Loud sounds and quiet ones",
      "mins": 12,
-     "do": "Ask: 'Which sounds are too loud?' (firecrackers in Diwali, a DJ speaker at a wedding, a drill). Show how to protect ears: put fingers over the flaps of the ears (pressing the little flap in front), or move away. Say: 'Very loud sounds can hurt the tiny hairs deep in your ear, and they do not grow back. That is why some people wear ear defenders, and why we never shout right into someone's ear.' Then tell your child about voice v2: the bats that 'see' with their ears. Ask its question.",
+     "do": "Ask: 'Which sounds are too loud?' (firecrackers at Diwali, a big speaker at a wedding, a drill). Show how to protect the ears: press the little flap in front of each ear hole over the hole, or cover the ears with your hands, and move away. Say: 'Deep in your ear are tiny hairs that sense sound. Very loud sounds can damage them, and they do not grow back. That is why we never shout into someone's ear.' Then tell your child about voice v2, the bats who find their way in the dark by listening. Ask the voice question.",
      "ref": "v2"
     }
    ],
    "need": [
-    "a whisper, or a ticking clock",
+    "a phone that can play a soft, steady sound",
     "two sheets of paper rolled into cones",
     "a book to mark the floor"
    ]
@@ -139,26 +139,26 @@
   {
    "n": 3,
    "title": "Smell and taste",
-   "goal": "Discover that taste needs smell, and that a fly tastes with its feet.",
+   "goal": "Discover that taste needs smell, and that flies taste with their feet.",
    "steps": [
     {
      "kind": "warmup",
      "title": "Smell jars",
      "mins": 6,
-     "do": "Put a little of four smelly things into four steel cups and cover each with a cloth: jeera, a crushed tulsi or mint leaf, a piece of orange peel and coffee or tea. Your child sniffs each with eyes shut and guesses. Ask: 'How did you know without seeing?' Say: 'Tiny, tiny bits of the jeera float off into the air and up your nose. Your nose catches them.'"
+     "do": "Put a little of four things with a strong smell into four steel cups, and cover each cup with a cloth: jeera, a crushed curry leaf, a piece of orange peel, and coffee powder or tea leaves. Your child sniffs each one with eyes shut and guesses. Ask: 'How did you know without seeing?' Say: 'Tiny specks of the jeera, too small to see, float off into the air and up your nose. Your nose senses them.'"
     },
     {
      "kind": "exp",
      "title": "The pinched-nose test",
      "mins": 12,
-     "do": "Do Experiment e2. Blindfold your child (or eyes shut). Give them a small cube of apple and a small cube of raw potato or cucumber with their nose pinched, one at a time. Ask: 'Which is which?' Then let go of the nose and try again. Ask: 'What changed?' (with the nose open, the apple tasted of apple).",
+     "do": "Do Experiment e2. An adult cuts an apple and a raw potato into small cubes of the same size. Your child shuts their eyes and pinches their nose. Ask first: 'Will you be able to tell the apple from the potato? Why?' Give one cube at a time to chew, and ask: 'Which is which?' Then your child lets go of the nose and tries both again. Ask: 'What changed?' (with the nose open, the apple tasted of apple).",
      "ref": "e2"
     },
     {
      "kind": "talk",
-     "title": "A fly tastes with its feet",
+     "title": "Flies taste with their feet",
      "mins": 6,
-     "do": "Tell your child about voice v3, Obaid Siddiqi, and the fruit flies who taste with their feet. Ask: 'If you tasted with your feet, what would walking on the kitchen floor be like?'",
+     "do": "Tell your child about voice v3, Obaid Siddiqi and Veronica Rodrigues, two scientists who studied fruit flies. Flies taste with their feet. Ask: 'If you tasted with your feet, what would walking on the kitchen floor be like?'",
      "ref": "v3"
     },
     {
@@ -170,27 +170,27 @@
     }
    ],
    "need": [
-    "four steel cups, cloths, jeera, a tulsi or mint leaf, orange peel, coffee or tea",
-    "an apple, a raw potato or cucumber, a cloth for a blindfold",
+    "four steel cups, cloths, jeera, a curry leaf, orange peel, coffee powder or tea leaves",
+    "an apple, a raw potato, a cloth for a blindfold if your child likes",
     "worksheet ws1"
    ]
   },
   {
    "n": 4,
    "title": "Touch, and the story",
-   "goal": "Explore touch all over the skin, trick it with water, and hear the story of a dog who sees with his nose.",
+   "goal": "Explore touch, trick it with water, and read the story of a dog who finds a lost girl by smell.",
    "steps": [
     {
      "kind": "do",
      "title": "Feely bag",
      "mins": 7,
-     "do": "Put six things in a cloth bag without your child seeing: a smooth steel spoon, a rough stone, a soft toy, a prickly pinecone or comb, a bit of cotton wool, a cold coin. Your child feels each one inside the bag and says two touch words for it ('cold and smooth', 'soft and squashy') before guessing."
+     "do": "Put six things in a cloth bag without your child seeing: a smooth steel spoon, a rough scrub pad, a soft toy, a comb, a ball of cotton wool and a coin. Your child feels each one inside the bag and says two touch words for it ('cold and smooth', 'soft and squashy') before guessing what it is."
     },
     {
      "kind": "exp",
      "title": "Hot and cold at once",
      "mins": 8,
-     "do": "Do Experiment e3: three bowls, one cold with ice, one warm (like a bath, not hot), one in between. One hand in cold, one in warm for one minute, then both into the middle bowl. Ask: 'Is the middle water hot or cold?' (it feels warm to one hand and cool to the other at the same time). Say: 'Your skin tells you about change, not the exact temperature. Your senses can be tricked.'",
+     "do": "Do Experiment e3. Fill three bowls: one with cold water and ice, one with warm water (like a bath, not hot), and one with tap water. Put the tap water in the middle. Your child puts one hand in the cold bowl and one in the warm bowl for one minute. Ask first: 'When both hands go into the middle bowl, will the water feel the same to both?' Then both hands go into the middle bowl. Ask: 'Is the middle water warm or cold?' (it feels warm to one hand and cool to the other, at the same time). Say: 'Your skin tells you how much warmer or colder something is than before. So your sense of touch can be tricked.'",
      "ref": "e3"
     },
     {
@@ -215,25 +215,25 @@
      "kind": "warmup",
      "title": "Same or different?",
      "mins": 5,
-     "do": "Draw two lines of exactly the same length on paper, one with arrow heads pointing in (<-->) and one with arrow tails pointing out (>--<). Ask: 'Which line is longer?' Most people say the second. Measure them with a ruler or a strip of paper together: the same! Say: 'Your eyes were tricked. That is called an illusion.'"
+     "do": "Draw two lines, each exactly 10 cm long, one above the other. Put arrowheads at both ends of the top line, like this: <——>. Put open tails at both ends of the bottom line, like this: >——<. Ask: 'Which line is longer?' Most people say the bottom one. Measure both lines with a ruler together. They are the same. Say: 'Your eyes were tricked. When our senses tell us something that is not true, it is called an illusion.'"
     },
     {
      "kind": "act",
      "title": "Illusion journal page",
      "mins": 12,
-     "do": "Do Activity a2, the journal page 'Optical illusions'. Your child stares at a red dot drawn on white paper for 30 slow counts, then looks at a blank white wall: a greenish-blue ghost dot appears. Then make the 'bird in a cage' card: a bird on one side of a card, a cage on the other, taped to a pencil and spun between the hands. In the observation box they draw what they saw and write 'What my eyes said' and 'What was really there'.",
+     "do": "Do Activity a2, the illusions journal page. Your child stares at a red dot on white paper for 30 slow counts, then looks at a white wall. A blue-green dot appears that is not really there. Then make the bird-in-a-cage card: draw a bird on one side of a card and a cage on the other, tape the card to a pencil, and spin the pencil fast between your palms. The bird seems to sit inside the cage. In the journal, your child draws what they saw and writes 'What my eyes said' and 'What was really there'.",
      "ref": "a2"
     },
     {
      "kind": "game",
      "title": "Which Sense? card game",
      "mins": 13,
-     "do": "Play the card game g1. Each card describes something that happens (a pressure cooker whistles, mango juice, a hot tawa); players say which sense they would use first, and for the 'hidden sense' cards, which sense that is not one of the five.",
+     "do": "Play the card game g1. Each card names something that happens (a pressure cooker whistles, mango juice, a hot tawa). Players say which sense they would use first. For some cards the answer is a sense that is not one of the five.",
      "ref": "g1"
     }
    ],
    "need": [
-    "paper, a red crayon, a ruler",
+    "paper, a thick red sketch pen or crayon, a ruler",
     "card, a pencil and tape",
     "the printed cards"
    ]
@@ -247,7 +247,7 @@
      "kind": "warmup",
      "title": "Stand like a crane",
      "mins": 7,
-     "do": "Your child stands on one foot like a crane (or the yoga tree pose, hands together) and you count how long they can stay up. Then try again with eyes shut. Ask: 'Which was harder? Which sense were you using to stay up?' Say: 'Deep inside your ears is a balance sense: tiny tubes of liquid that tell your brain if you are tipping. Your eyes help too. And without looking, you know where your arms and legs are: touch your nose with your eyes shut! That is another sense. So we have more than five.' Ask: 'Can you feel when you are hungry or need the toilet? Is that a sense too?'"
+     "do": "Your child stands on one foot like a crane (or in the yoga tree pose, hands together) while you count. Then they try again with eyes shut. Ask: 'Which was harder? What helped you stay up?' Say: 'Deep inside your ears are tiny tubes of liquid. They tell your brain if you are tipping over. This is your sense of balance, and your eyes help it.' Then ask your child to shut their eyes and touch their nose. Say: 'You knew where your hand was without looking. That is another sense. So we have more than five.' Ask: 'You can feel when you are hungry. Is that a sense too?'"
     },
     {
      "kind": "talk",
@@ -260,7 +260,7 @@
      "kind": "talk",
      "title": "Helen and the water",
      "mins": 7,
-     "do": "Tell your child about voice v4, Helen Keller and Anne Sullivan. Then let your child try spelling into your palm: you draw a letter on their palm with your finger, eyes shut, and they guess it. Ask the voice question.",
+     "do": "Tell your child about voice v4, Helen Keller and her teacher Anne Sullivan. Then try spelling on the palm: with your child's eyes shut, draw a letter on their palm with your finger, and they guess the letter. Ask the voice question.",
      "ref": "v4"
     },
     {
@@ -292,7 +292,7 @@
      "kind": "think",
      "title": "Big question",
      "mins": 5,
-     "do": "Ask: 'Bhulu lives in a world of smells. You live in a world of colours. Who lives in the real world?' Listen. Then: 'Is the world as it really is the same as the world as we sense it?'"
+     "do": "Ask: 'Bhulu, the dog in the story, knows the world mostly by smell. You know it mostly by sight. Which of you knows the real world?' Listen. Then ask: 'Is the world as we sense it the whole world?'"
     },
     {
      "kind": "check",
@@ -356,11 +356,11 @@
       },
       {
        "t": "mcq",
-       "p": "Which sense tells you the tawa is hot without touching it?",
+       "p": "The tawa is hot. Which sense tells you this without touching it?",
        "opts": [
-        "seeing smoke, or feeling heat on your skin",
+        "touch: your skin feels the heat from it",
         "taste",
-        "smell only"
+        "hearing"
        ],
        "a": 0
       },
@@ -415,7 +415,7 @@
       },
       {
        "t": "write",
-       "p": "Why did the apple taste like the potato when your nose was pinched?",
+       "p": "In the pinched-nose test, why did the apple taste like the potato?",
        "lines": 2
       }
      ]
@@ -433,7 +433,7 @@
      [
       {
        "t": "match",
-       "p": "Match the animal to its super sense.",
+       "p": "Match each animal to their special sense.",
        "pairs": [
         [
          "dog",
@@ -445,21 +445,21 @@
         ],
         [
          "fly",
-         "tastes with its feet"
+         "tastes with their feet"
         ],
         [
          "owl",
-         "hears a mouse under leaves"
+         "hears a mouse moving under leaves"
         ]
        ]
       },
       {
        "t": "mcq",
-       "p": "A dog knows Tuktuki in a new dress because…",
+       "p": "In the story, Bhulu the dog finds Tuktuki in a crowd, in a new dress, in the dark. How does he know it is her?",
        "opts": [
         "he smells her",
         "he reads her name",
-        "he sees her shoes"
+        "he sees her face"
        ],
        "a": 0
       },
@@ -486,11 +486,11 @@
      [
       {
        "t": "mcq",
-       "p": "After a hand in cold water, the in-between water feels…",
+       "p": "In the three-bowl test, one hand was in icy water for a minute. Then it went into the middle bowl. How did the middle water feel to that hand?",
        "opts": [
         "warm",
         "cold",
-        "nothing"
+        "it felt nothing"
        ],
        "a": 0
       },
@@ -526,7 +526,7 @@
       },
       {
        "t": "write",
-       "p": "If you were a bat, what would your bedroom 'look' like to you?",
+       "p": "Bats find their way by listening to echoes. If you were a bat, how would you find your way round your bedroom in the dark?",
        "lines": 3
       }
      ]
@@ -544,11 +544,11 @@
      [
       {
        "t": "mcq",
-       "p": "Which line was longer in the arrow picture?",
+       "p": "Remember the two lines, one like <——> and one like >——<? Which was longer when you measured them?",
        "opts": [
-        "the first",
-        "the second",
-        "they were the same"
+        "the one like <——>",
+        "the one like >——<",
+        "they were the same length"
        ],
        "a": 2
       },
@@ -576,11 +576,11 @@
        "t": "sort",
        "p": "Which sense warns us first?",
        "items": [
-        "smoke from burning toast",
-        "a car horn behind you",
+        "smoke from a dosa burning on the tawa",
+        "a scooter horn behind you",
         "a sharp thorn",
-        "sour, bad curd",
-        "a bright flash"
+        "a sip of milk that tastes sour",
+        "a bright flash of lightning"
        ],
        "cats": [
         "smell",
@@ -614,7 +614,7 @@
      [
       {
        "t": "write",
-       "p": "A dog lives in a world of smells. You live in a world of colours. Whose world is the real one? Why?",
+       "p": "A dog knows the world mostly by smell. You know it mostly by sight. Whose world is the real one? Why?",
        "lines": 3
       },
       {
@@ -635,20 +635,20 @@
    "question": "Can we catch more sound with bigger ears?",
    "need": [
     "a quiet room",
-    "a ticking clock or a soft whisper",
+    "a phone playing a soft, steady sound at low volume",
     "two sheets of paper rolled into cones and taped",
     "a book to mark the floor"
    ],
    "steps": [
-    "Your child stands across the room facing away from you.",
-    "Whisper a word or hold the ticking clock. They step backwards towards the far wall until they can no longer hear it. Mark the spot with a book.",
+    "Your child stands near you, facing you, with eyes shut.",
+    "Play the soft sound. Your child steps slowly backwards until they cannot hear it. Mark the spot with a book.",
     "Repeat with hands cupped behind the ears.",
-    "Repeat with the narrow end of a paper cone held gently at the opening of one ear (never inside).",
-    "Compare the marks."
+    "Repeat with the narrow end of a paper cone held gently at the opening of one ear (never inside), and the wide end pointing at the sound.",
+    "Compare the marks. If the room is too small to lose the sound, turn the volume lower and start again."
    ],
    "predict": "Ask: 'Will cupped hands and cones help you hear further away?'",
    "observe": "With cupped hands or cones your child can usually hear the sound from further away.",
-   "why": "Sound spreads out from where it is made, so it gets weaker the further it travels. Our outer ears are shaped to catch sound and send it in. Cupped hands and cones make a bigger catcher, like the big ears of a fennec fox or an elephant, so more of the sound goes into the ear.",
+   "why": "Sound spreads out from where it is made, so it gets weaker the further it travels. The outer ear is shaped to catch sound and send it in. Cupped hands and a cone make a bigger catcher, so more sound goes into the ear. A fennec fox hunts insects at night in the desert. Her huge ears help her hear them moving.",
    "safety": "Never push anything into the ear. Never shout into a cone held to someone's ear.",
    "time": "13 min"
   },
@@ -659,20 +659,20 @@
    "question": "Does smell help us taste?",
    "need": [
     "small cubes of apple",
-    "small cubes of raw potato or cucumber",
+    "small cubes of raw potato",
     "a blindfold",
     "water to sip"
    ],
    "steps": [
-    "Peel and cut the apple and potato into same-size cubes so they look and feel alike.",
+    "An adult peels and cuts the apple and the potato into cubes of the same size, so they look and feel alike.",
     "Your child closes their eyes or wears a blindfold and pinches their nose.",
     "Put a cube in their mouth. They chew and guess.",
     "Sip water. Try the other cube.",
     "Repeat both without pinching the nose."
    ],
    "predict": "Ask: 'Will you be able to tell the apple from the potato with your nose pinched?'",
-   "observe": "With the nose pinched, many children cannot tell the difference, or find both just a bit sweet and crunchy. With the nose open, the apple flavour comes back.",
-   "why": "The tongue can only tell a few tastes, like sweet, sour, salty and bitter. Most of what we call flavour is really smell: as we chew, smells go up the back of the throat into the nose. Pinching the nose stops the air moving, so the smell cannot get there.",
+   "observe": "With the nose pinched, many children cannot tell the two apart, or find both just crunchy and a little sweet. With the nose open, the apple flavour comes back.",
+   "why": "The tongue senses only a few tastes, such as sweet, sour, salty and bitter. Most of what we call flavour is really smell. As we chew, smells rise from the back of the mouth into the nose. Pinching the nose stops air flowing through it, so the smell cannot reach the part of the nose that senses it.",
    "safety": "Check for food allergies first. An adult does the cutting.",
    "time": "12 min"
   },
@@ -685,10 +685,10 @@
     "three bowls",
     "cold water with ice",
     "warm water (bath warm, not hot)",
-    "water at room temperature"
+    "tap water"
    ],
    "steps": [
-    "Put the three bowls in a row: cold, room temperature, warm.",
+    "Put the three bowls in a row: cold, tap water, warm.",
     "An adult checks the warm water with an elbow: it must be comfortable, never hot.",
     "Your child puts the left hand in the cold bowl and the right hand in the warm bowl for one minute.",
     "Then both hands go into the middle bowl together.",
@@ -696,7 +696,7 @@
    ],
    "predict": "Ask: 'When both hands go in the middle bowl, will it feel the same to both?'",
    "observe": "The middle water feels warm to the hand that was in cold water, and cool to the hand that was in warm water, at the same time.",
-   "why": "The touch-nerves for hot and cold in our skin get used to whatever they are in, and then mostly report changes. The hand that was cold finds the middle water warmer than before; the warm hand finds it cooler. Our senses tell us about differences, not exact numbers. This is why a thermometer is useful.",
+   "why": "Nerves in the skin sense warmth and cold. They get used to whatever they are in, and then mostly sense changes. The hand that was cold finds the middle water warmer than before. The hand that was warm finds it cooler. So our skin tells us about differences, not exact temperatures. That is why we use a thermometer.",
    "safety": "Use only warm water, never hot. An adult checks the temperature first.",
    "time": "8 min"
   }
@@ -727,15 +727,15 @@
    "mins": 12,
    "need": [
     "white paper",
-    "a red crayon",
+    "a thick red sketch pen or crayon",
     "a small card, a pencil, tape",
     "a ruler"
    ],
    "steps": [
     "Colour a thick red dot in the middle of a white sheet.",
-    "Stare at it for 30 slow counts without moving the eyes, then look at a white wall. Draw the ghost dot you see.",
-    "Draw a bird on one side of a small card and an empty cage on the other, upside down to each other.",
-    "Tape the card to a pencil and spin the pencil fast between your palms: the bird appears inside the cage.",
+    "Stare at the dot for 30 slow counts without moving your eyes. Then look at a white wall, and draw the dot you see there.",
+    "Draw a bird on one side of a small card and an empty cage on the other. Draw both the right way up.",
+    "Tape the card to the top of a pencil. Roll the pencil fast between your palms. The bird seems to sit inside the cage.",
     "In an 'observation box' write or draw: what my eyes said, and what was really there."
    ],
    "outcome": "A journal page with two illusions and an observation box comparing what the eyes said with what was really there."
@@ -805,7 +805,7 @@
     "back": "eyes"
    },
    {
-    "front": "Somebody is frying pakoras next door",
+    "front": "Somebody is frying vadas next door",
     "back": "nose"
    },
    {
@@ -814,7 +814,7 @@
    },
    {
     "front": "The tawa is hot",
-    "back": "skin (feeling heat, without touching)"
+    "back": "skin (you feel the heat without touching)"
    },
    {
     "front": "You spin round and round and feel dizzy",
@@ -829,7 +829,7 @@
     "back": "hidden: knowing where your body is"
    },
    {
-    "front": "Smoke from burning toast",
+    "front": "Smoke from a burning dosa",
     "back": "nose"
    },
    {
@@ -841,7 +841,7 @@
     "back": "skin"
    },
    {
-    "front": "Bitter karela",
+    "front": "Bitter pavakkai (bitter gourd)",
     "back": "tongue"
    },
    {
@@ -871,7 +871,7 @@
   ]
  },
  "big": [
-  "Bhulu lives in a world of smells and you live in a world of colours. Who lives in the real world?",
+  "Bhulu the dog knows the world mostly by smell, and you know it mostly by sight. Which of you knows the real world?",
   "If you close your eyes, are the colours still there?",
   "A dream feels real while you are in it. How do you know you are awake now?",
   "Is anything real if nobody can sense it?",
@@ -888,25 +888,25 @@
   },
   {
    "q": "People are the best at sensing the world.",
-   "hint": "Dogs smell things we cannot, bats find insects in the dark by echoes, eagles see further, snakes sense heat, and many birds see colours we cannot. We are good at some things, not best at all. Ask: which animal would you say has the best senses, and best for what?"
+   "hint": "Dogs smell things we cannot. Bats find insects in the dark by echoes. Eagles see further than we do. Some snakes sense the heat of their prey. Many birds see colours we cannot. People are good at some things, not best at all. Ask: which animal has the best senses, and best for what?"
   }
  ],
  "perspectives": [
   {
    "who": "A street dog",
-   "view": "To a dog, every lamppost is a newspaper of smells telling who passed by, when, and whether they were happy or scared. Ask: what would your street 'say' if you could read it with your nose?"
+   "view": "To a street dog, every lamppost carries smells that tell who passed by and when. Ask: what would your street tell you if you could read it with your nose?"
   },
   {
    "who": "A child who is deaf and signs",
    "view": "Many deaf people use sign language, a full language of hands, face and body, as rich as speech. Indian Sign Language is used by deaf people across India. Ask: could you learn to say hello and thank you in sign language?"
   },
   {
-   "who": "A mother who cooks by smell",
-   "view": "Many cooks in Indian kitchens know when the onions are ready, when the tadka is right and when the milk is about to boil over without looking, by smell and sound. Ask: which cooking sounds and smells do you know?"
+   "who": "A mother who cooks by smell and sound",
+   "view": "Many cooks know without looking when the mustard seeds in the tadka have popped, when the onions are ready, and when the milk is about to boil over. They use smell and sound. Ask: which cooking sounds and smells do you know?"
   },
   {
    "who": "A honeybee",
-   "view": "A bee sees ultraviolet light that we cannot, and many flowers have ultraviolet patterns that point to the nectar, like landing lights. Ask: what if the flowers you see are only half the picture?"
+   "view": "A bee sees ultraviolet light, which we cannot see. Many flowers have ultraviolet patterns that lead bees to the nectar. Ask: what might a flower look like to a bee?"
   }
  ],
  "voices": [
@@ -915,7 +915,7 @@
    "who": "Aristotle (384–322 BCE), Greece, and scientists today",
    "idea": "Aristotle wrote that humans have five senses: sight, hearing, smell, taste and touch. People have repeated this list ever since.",
    "then": "For about 2,000 years most people accepted the five senses.",
-   "now": "Scientists now know of many more: balance (in the inner ear), body position, hot and cold, pain, hunger, thirst and others. They still argue about how many there are, from about a dozen to over thirty, because it depends on whether you count, for example, hot and cold as one sense or two.",
+   "now": "Scientists now count many more: balance (in the inner ear), knowing where your body is, hot and cold, pain, hunger, thirst and others. They still argue about the exact number. Some count about ten, some more than thirty, depending on whether, for example, hot and cold count as one sense or two.",
    "status": "debated",
    "ask": "What would something have to do for you to call it a sense?",
    "day": 6
@@ -923,19 +923,19 @@
   {
    "id": "v2",
    "who": "Lazzaro Spallanzani (1729–1799), Italy, Louis Jurine (1751–1819), Switzerland, and Donald Griffin (1915–2003), USA",
-   "idea": "In the 1790s Spallanzani found that bats with covered eyes could still fly in the dark without bumping into strings across a room. Jurine then found that bats with their ears blocked crashed into things. So bats 'see' with their ears. But nobody could hear any sound coming from them.",
+   "idea": "In the 1790s Lazzaro Spallanzani found that bats who could not see still flew in the dark without bumping into threads hung across a room. Louis Jurine then found that bats with their ears blocked crashed into things. So bats find their way with their ears. But nobody could hear any sound coming from them.",
    "then": "Many scientists laughed at the idea of seeing with ears. The famous naturalist Georges Cuvier said bats must be using touch, through their wings.",
-   "now": "In 1938 Donald Griffin used a special microphone and heard what humans cannot: bats make very high squeaks and listen for the echoes. He called it echolocation. Spallanzani and Jurine had been right for over 140 years.",
+   "now": "In 1938 Donald Griffin used a special microphone and found what humans cannot hear: bats make very high squeaks and listen for the echoes. He later named this echolocation. Spallanzani and Jurine had been right for over 140 years.",
    "status": "accepted",
    "ask": "Spallanzani and Jurine could not hear the bats' sounds, but they were right anyway. How can you know something is there if you cannot sense it?",
    "day": 2
   },
   {
    "id": "v3",
-   "who": "Obaid Siddiqi (1932–2013), India",
-   "idea": "Obaid Siddiqi, born in Basti, Uttar Pradesh, studied tiny fruit flies to find which genes let animals taste and smell. Fruit flies have taste sensors on their feet, as well as their mouths, so a fly tastes the banana as soon as it lands on it. His team found flies with changed genes that could not taste or smell certain things, which showed which genes do the job.",
-   "then": "Many people thought flies were too simple to teach us about senses. He showed that the same kinds of genes work in flies and in people.",
-   "now": "Fruit flies are still one of the most important animals for studying senses and brains. Siddiqi also founded the National Centre for Biological Sciences (NCBS) in Bengaluru, one of India's leading biology institutes.",
+   "who": "Obaid Siddiqi (1932–2013) and Veronica Rodrigues, India",
+   "idea": "Obaid Siddiqi and his student Veronica Rodrigues studied fruit flies in Mumbai to find which genes let animals taste and smell. Fruit flies have taste sensors on their feet as well as their mouths. So a fly tastes a banana as soon as they land on it. The team found flies with changed genes who could not taste or smell certain things. This showed which genes do the job.",
+   "then": "Many people thought a tiny fly could teach us little about senses.",
+   "now": "Fruit flies are still used all over the world to study senses and brains. Siddiqi was the first director of the National Centre for Biological Sciences (NCBS) in Bengaluru, where Rodrigues also worked.",
    "status": "accepted",
    "ask": "Why might a tiny fly teach us something true about our own tongues?",
    "day": 3
@@ -945,7 +945,7 @@
    "who": "Helen Keller (1880–1968) and Anne Sullivan (1866–1936), USA",
    "idea": "Helen Keller became deaf and blind from an illness when she was a baby. When she was six, a teacher called Anne Sullivan began spelling words into her hand with her fingers. One day in 1887, at a water pump, Anne pumped cold water over one of Helen's hands and spelt W-A-T-E-R into the other. Helen suddenly understood that the finger shapes were the name of the cool thing running over her hand.",
    "then": "Many people believed that a child who could neither see nor hear could not learn language at all.",
-   "now": "Helen learnt to read Braille, to write, and to speak, went to university and wrote books. Anne Sullivan, who was nearly blind herself and had grown up very poor in an orphanage, is often remembered only as 'Helen's teacher', though she worked out how to teach her.",
+   "now": "Helen learnt to read Braille, to write and to speak. She went to university and wrote books. Anne Sullivan was nearly blind herself and had grown up very poor in a poorhouse. She worked out how to teach Helen, yet she is often remembered only as 'Helen's teacher'.",
    "status": "accepted",
    "ask": "Helen learnt 'water' through touch. Do you think she knew water as well as you do? Better in some ways?",
    "day": 6
@@ -984,19 +984,19 @@
  "check": [
   {
    "q": "Name the five sense organs and what each one senses.",
-   "a": "Eyes see, ears hear, nose smells, tongue tastes, skin feels touch (and hot and cold)."
+   "a": "Eyes see, ears hear, the nose smells, the tongue tastes, and the skin feels touch, hot and cold."
   },
   {
    "q": "How can you catch a quiet sound? How can you protect your ears from a loud one?",
-   "a": "Cup hands behind the ears or use a cone; cover the ears and move away from loud sounds."
+   "a": "Cup your hands behind your ears or use a paper cone to catch a quiet sound. Cover your ears and move away from a loud one."
   },
   {
    "q": "Why does food taste different with a pinched nose?",
-   "a": "Much of the flavour is really smell, and the smell cannot reach the nose when it is pinched."
+   "a": "Much of what we call flavour is really smell. With the nose pinched, the smell cannot get into the nose."
   },
   {
    "q": "Tell me one way our senses can be tricked.",
-   "a": "For example the arrow lines that look different but are the same, the ghost dot, or the middle bowl feeling hot and cold."
+   "a": "For example, the two arrow lines that look different but are the same length, the ghost dot, or the middle bowl feeling warm and cool at once."
   },
   {
    "q": "Name a sense that is not one of the five.",
@@ -1004,14 +1004,14 @@
   },
   {
    "q": "How does a bat find insects in the dark?",
-   "a": "It makes high squeaks and listens for the echoes (echolocation)."
+   "a": "Bats make very high squeaks and listen for the echoes. This is called echolocation."
   }
  ],
  "story": {
   "title": "Bhulu and the Smell of Tuktuki",
   "text": [
    "My name is Bhulu. The humans gave it to me. It means something like 'the one who forgets', which is unfair, because I forget nothing. I am a dog of Ballygunge, in Kolkata, brown with a white tip on my tail and a torn left ear from a fight I did not start, and I know every smell between the sweet shop and the tram line.",
-   "You live in a world of colours. I live in a world of smells. When I walk down our lane in the morning, my nose reads it like a newspaper. The milkman passed at five, his cycle smelling of rubber and cows. The cat from number twelve sat on that wall for a long time, feeling cross. The fish-seller's basket dripped here, and here, and here. A new puppy went by, frightened, holding its mother's tail. I can smell who was here yesterday. I can smell whether they were happy.",
+   "You live in a world of colours. I live in a world of smells. When I walk down our lane in the morning, my nose reads it like a newspaper. The milkman passed at five, his cycle smelling of rubber and cows. The cat from number twelve sat on that wall for a long time, feeling cross. The fish-seller's basket dripped here, and here, and here. A new puppy went by, frightened, keeping close to his mother. I can smell who was here yesterday. I can smell whether they were happy.",
    "And every afternoon at four, I can smell Tuktuki.",
    "Tuktuki is five, and she lives on the second floor of the yellow house. She smells of coconut oil in her hair, of Marie biscuits, of the soap her grandmother buys from the market, and of something underneath all that which is only Tuktuki and nobody else in the whole world. Every afternoon she comes down with half a biscuit hidden in her fist, and she squats and holds it out, and I take it very gently, so as not to touch her fingers with my teeth. Then she strokes my torn ear and says, “Poor Bhulu,” though it does not hurt any more.",
    "In autumn, the city goes mad with Durga Puja. Huge bamboo pandals go up on every corner, with goddesses inside taller than houses, and for five nights the streets are full of drums and lights and more people than there are smells. It is the hardest week of the year for a dog's nose. Incense, frying luchis, flowers by the cartload, the sweat of a hundred thousand people, the smoke of the dhunuchi dance. My nose is so full I can barely think.",
@@ -1031,7 +1031,7 @@
    "She held on to my neck, and I walked her out from under the table, very slowly, through the river of people, following my own path back. I heard the grandmother before I saw her, and the grandmother heard Tuktuki before she saw her, and then there was a great deal of noise and crying and hugging, and somebody gave me a whole packet of Marie biscuits, which I did not deserve but ate anyway.",
    "Now, every afternoon at four, Tuktuki comes down with a biscuit and strokes my ear. Sometimes she shuts her eyes and sniffs the air very hard, and says, “Bhulu, what can you smell?” And I wish I could tell her: everything. Everything that was ever here."
   ],
-  "epiphany": "Different animals live in different sense-worlds. Bhulu cannot recognise Tuktuki by sight in her festival clothes and in the dark, but he can follow her smell trail through a crowd; Tuktuki cannot see Bhulu either, but she knows him by touch, by his torn ear. The turn is the moment under the table when neither can see and both still know each other. Each sense builds its own world, and none of them is the whole world.",
+  "epiphany": "Different animals know the world through different senses. In festival clothes and in the dark, Bhulu cannot recognise Tuktuki by sight, but he follows her smell through the crowd. Tuktuki cannot see Bhulu either, but she knows him by touch, by his torn ear. The turn is the moment under the table when neither can see and both still know each other.",
   "ask": [
    "How did Bhulu find Tuktuki in a crowd of thousands?",
    "Why did Bhulu not know Tuktuki by looking at her?",
@@ -1046,8 +1046,8 @@
    "more": "Colours, music, the taste of mango and your mother's voice all arrive as signals from your sense organs to your brain, which puts them together into the world you experience."
   },
   {
-   "idea": "Every animal lives in its own sense-world.",
-   "more": "A dog lives in smells, a bat in echoes, a bee in colours we cannot see, a fly tastes with its feet. None of them, and not us either, senses the whole world."
+   "idea": "Every animal senses the world in their own way.",
+   "more": "A dog knows the world through smells, a bat through echoes, and a bee through colours we cannot see. A fly tastes with their feet. No animal, and no person, senses everything."
   },
   {
    "idea": "Senses can be tricked, and we have more than five.",

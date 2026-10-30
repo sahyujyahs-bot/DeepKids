@@ -4,9 +4,9 @@
  "subj": "sci",
  "level": 4,
  "n": "health-hygiene-exercise-and-illness",
- "title": "From field to body: food, gratitude, germs, vaccines and medicines",
+ "title": "How food reaches us, and how the body fights germs",
  "source": "DeepKids Combined. Covers NCERT Class 4 Chapter 6 'Happy and Healthy Living' (journey of a grain and gratitude; not wasting food; mindful eating, exercise and rest; a safe environment) and Cambridge Stage 4 Biology Unit 1.5 'Medicines and infectious diseases' (taking medicines safely; germs and infectious diseases; vaccination past and present). No textbook needed.",
- "summary": "Your child follows a grain of rice from soil to stomach, thanking every living thing and person along the way, and finds out that digestion begins with chewing. They count the food their family wastes and ask how much is enough. Then they meet the body's defences against infectious diseases, learn how a vaccine teaches the body to remember a germ, run a model of how vaccines protect a whole community, and learn to use medicines safely. The heroes include an enslaved African man in Boston, the inoculators of Bengal, a Chinese scientist who searched old texts for a cure, and the 'Mouldy Mary' who found a better penicillin on a market melon.",
+ "summary": "A single meal needs soil, rain, sun, earthworms, farmers, millers, drivers and cooks. Your child follows a grain of rice from the field to the stomach, and finds that digestion begins in the mouth. They count the food their family throws away and ask how much is enough. Then they learn how the body defends itself against germs, how a vaccine teaches the body to recognise a germ, and how vaccines protect even people who are not vaccinated. They learn to use medicines safely. They meet an enslaved African man in Boston, the inoculators of Bengal, a Chinese scientist who searched old books for a malaria cure, and 'Mouldy Mary', who found a better penicillin mould on a market melon.",
  "builds_on": "Class 2: food builds the body, germs and soap, heartbeat and exercise, teeth. Class 3: caring for every outer organ, clean surroundings, three kinds of fitness, rest and sleep, my body belongs to me. Here: the journey of food and digestion, food waste, the immune system, vaccines and medicines. Class 5 goes on to how particular diseases spread (water, air, mosquitoes), non-infectious diseases, and how towns and countries stop epidemics.",
  "goals": [
   "By the end your child can tell the journey of a grain from seed to plate and name the living things and people it depends on.",
@@ -92,31 +92,31 @@
      "kind": "warmup",
      "title": "What we know so far",
      "mins": 6,
-     "do": "Ask: 'Over the last two years, what have we found out about keeping healthy?' Good answers: food becomes our body; soap washes germs off; muscles get stronger when we rest and sleep; we have two sets of teeth; skin, eyes, ears and nose protect themselves; my body belongs to me. Ask: 'What's one question you still have about health?' Write it down; see if this rung answers it."
+     "do": "Ask: 'In Class 2 and Class 3, what did we find out about keeping healthy?' Good answers: food becomes our body. Soap washes germs off. The heart beats faster when we exercise. Muscles get stronger while we rest and sleep. We get two sets of teeth. Skin, eyes, ears and nose each protect themselves. My body belongs to me. Ask: 'What is one question you still have about health?' Write it down, and see if this lesson answers it."
     },
     {
      "kind": "talk",
      "title": "Where did this rice come from?",
      "mins": 15,
-     "do": "Put a spoonful of uncooked rice (or wheat) in your child's palm. Ask: 'How many people and living things had to help, for this to be in your hand?' Then tell the journey, asking at each step 'What does it need here?': a seed kept from last year's crop is sown in soil; it needs water (rain or canal), sunlight, air and nutrients from the soil; earthworms and tiny soil microbes keep the soil alive; the farmer ploughs, sows, transplants (for rice), weeds and watches; it ripens and is harvested; threshing separates grain from stalk; husking and milling take off the outer skin; it's packed, carried by truck, sold by a shopkeeper, bought, washed and cooked. Ask: 'Which step was hardest work? Who did it?' (Often the women who transplant rice seedlings by hand, bent over in the water.) Ask: 'Who gets paid least along this journey?'"
+     "do": "Put a spoonful of uncooked rice in your child's palm. Ask: 'How many people and living things had to help, for this rice to be in your hand?' Let them guess. Then tell the journey, asking at each step 'What does the plant need here?'. A seed, kept from last year's crop or bought, is sown in a nursery bed. The young plants need water from rain or a canal, sunlight, air and nutrients from the soil. Earthworms and tiny soil microbes keep the soil healthy. The farmer ploughs, transplants the seedlings into flooded fields, weeds and watches. The rice ripens and is harvested. Threshing separates the grain from the stalk. Milling takes off the outer husk. The rice is packed, carried by truck, sold by a shopkeeper, bought, washed and cooked. Say: 'In Tamil Nadu, much of the rice grows in the Cauvery delta, around Thanjavur.' Ask: 'Which step was the hardest work? Who did it?' (Often the women who transplant the seedlings by hand, bent over in the water.) Ask: 'Who do you think is paid least along this journey?'"
     },
     {
      "kind": "act",
      "title": "Thank-you chain",
      "mins": 14,
-     "do": "Start Activity a1: a paper chain with one link for each living thing or person on the grain's journey.",
+     "do": "Start Activity a1: a paper chain with one link for each living thing or person on the rice's journey.",
      "ref": "a1"
     },
     {
      "kind": "talk",
      "title": "Start the food-waste count",
      "mins": 10,
-     "do": "Explain the project: for 6 days, collect all the food your family throws away (scraped plates, spoiled leftovers, peels) in a separate container and weigh it each night on a kitchen scale, or count bowls. Peels and bones go in one column ('couldn't eat'), and leftovers and spoiled food in another ('could have eaten'). Set it up now and do tonight's count.",
+     "do": "Explain the project. For 6 nights, your family puts all the food it throws away in a separate container and weighs it on a kitchen scale, or counts it in bowls. Peels, seeds and bones go in one column, 'couldn't be eaten'. Leftovers and spoiled food go in another, 'could have been eaten'. Set it up now and do tonight's count.",
      "ref": "e2"
     }
    ],
    "need": [
-    "a spoonful of uncooked rice or wheat",
+    "a spoonful of uncooked rice",
     "strips of coloured paper, glue or a stapler",
     "a container for food scraps",
     "a kitchen scale (or a bowl to count with)"
@@ -136,27 +136,27 @@
     {
      "kind": "exp",
      "title": "The sweet roti test",
-     "mins": 20,
-     "do": "Do Experiment e1: chew a piece of plain roti or rice for a long time and notice the taste change, then do the iodine test.",
+     "mins": 22,
+     "do": "Do Experiment e1. Set up the two cups first. While they wait, your child chews a piece of plain roti or rice for a long time and notices the taste change. Then add the iodine.",
      "ref": "e1"
     },
     {
      "kind": "do",
      "title": "The one-raisin meal",
      "mins": 12,
-     "do": "Give your child one raisin (or a piece of jaggery, or one grape). Say: 'We're going to eat this as if it's the first one you've ever seen.' Look at it for 30 seconds: colour, wrinkles. Smell it. Put it in the mouth without chewing for 20 seconds: what happens? (Saliva comes.) Chew very slowly, 20 times, noticing the taste change. Swallow and feel where it goes. Ask: 'Was that different from how you usually eat?' Say: 'Eating slowly, noticing taste and stopping when you're full is called mindful eating.'"
+     "do": "Give your child one raisin, or one grape, or a small piece of jaggery (vellam). Say: 'We're going to eat this as if it's the first one you've ever seen.' Look at it for 30 seconds: the colour, the wrinkles. Smell it. Put it in the mouth without chewing for 20 seconds. Ask: 'What happens?' (Saliva comes.) Chew very slowly, 20 times, noticing the taste. Swallow and feel where it goes. Ask: 'Was that different from how you usually eat?' Say: 'Eating slowly, noticing the taste and stopping when you're full is called mindful eating.'"
     },
     {
      "kind": "talk",
      "title": "How do you know you're full?",
-     "mins": 9,
-     "do": "Say: 'Your stomach stretches as it fills, and it sends messages to your brain. Those messages take a while, often around 20 minutes, which is why someone who eats very fast can eat too much before the message arrives.' Ask: 'Do you eat in front of a screen? Do you notice when you're full then?' Ask: 'Are there children who never get to feel full? Why?' (Yes: in India and the world many people don't have enough food, even though the world grows enough for everyone. This is a question about sharing, not about growing more.)"
+     "mins": 7,
+     "do": "Ask: 'How do you know when you're full?' Listen. Say: 'Your stomach stretches as it fills, and it sends messages to your brain. Those messages can take 20 minutes or so. So someone who eats very fast can eat too much before the message arrives.' Ask: 'Do you notice when you're full if you eat in front of a screen?' Ask: 'Are there children who never get to feel full? Why?' (Yes. In India and the world many people don't have enough food, even though the world grows enough for everyone. So hunger is about how food is shared, not only about how much is grown.)"
     }
    ],
    "need": [
-    "plain roti or cooked rice",
+    "plain roti or cooked rice, and the starchy water (kanji) from cooking rice",
     "a raisin, grape or piece of jaggery",
-    "tincture of iodine or Betadine (from a chemist), two small cups, a dropper or spoon"
+    "tincture of iodine or povidone-iodine antiseptic (from a chemist), two small cups, a spoon, a bowl of warm water"
    ]
   },
   {
@@ -174,13 +174,13 @@
      "kind": "talk",
      "title": "Where does wasted food go?",
      "mins": 12,
-     "do": "Ask: 'When we throw food away, where does it go?' Follow it: the bin, the truck, the landfill dump. Say: 'In a big heap without air, rotting food makes a gas called methane that warms the planet. And all the water, soil, work and fuel that grew it were wasted too.' Show the thank-you chain: 'If we waste this rice, we waste every link.' Then: 'In a compost pit, with air, worms and microbes turn scraps back into soil, closing the circle.' Ask: 'Which of our waste could go to compost? Which could have been eaten?' Say: 'The UN estimated in 2021 that an average home in India wastes about 50 kg of food per person each year.' Ask: 'Is that more or less than you weigh?'"
+     "do": "Ask: 'When we throw food away, where does it go?' Follow it: the bin, the truck, the dump. Say: 'In a big heap without air, rotting food makes a gas called methane, which warms the planet. And all the water, soil, work and fuel that grew the food were wasted too.' Show the thank-you chain: 'If we waste this rice, we waste every link.' Then: 'In a compost bin, with air, worms and microbes turn scraps back into soil.' Ask: 'Which of our waste could go to compost? Which could have been eaten?' Say: 'The United Nations worked out in 2021 that homes in India throw away about 50 kg of food per person each year.' Ask: 'Is that more or less than you weigh?'"
     },
     {
      "kind": "talk",
      "title": "Do smaller plates make us eat less?",
      "mins": 12,
-     "do": "Tell voice v4: a famous scientist said smaller plates trick people into eating less. Later, other scientists found serious problems in his data and many of his papers were withdrawn. Ask the voice question.",
+     "do": "Tell voice v4. A famous food scientist said that smaller plates trick people into eating less. Later, other scientists found serious mistakes in his numbers, and many of his papers were withdrawn. Ask the voice question.",
      "ref": "v4"
     },
     {
@@ -212,25 +212,25 @@
      "kind": "talk",
      "title": "Infectious diseases",
      "mins": 9,
-     "do": "Say: 'An infectious disease is an illness caused by germs that can spread from one person, animal or thing to another.' Name four kinds of germs: bacteria (can cause typhoid, cholera, TB), viruses (colds, flu, chickenpox, measles, COVID-19), fungi (ringworm, athlete's foot), and tiny parasites (the one that causes malaria, carried by mosquitoes). Ask: 'Which ways can germs travel?' (Air from coughs and sneezes, dirty hands, dirty water and food, insect bites, touching.) Ask: 'Is a cold infectious? Is a broken leg?' (Yes; no.)"
+     "do": "Say: 'An infectious disease is an illness caused by germs that can spread from one living being to another.' Name four kinds of germs: bacteria (they can cause typhoid, cholera and TB), viruses (colds, flu, chickenpox, measles, COVID-19), fungi (ringworm) and tiny parasites (like the one that causes malaria, carried by mosquitoes). Ask: 'How can germs travel?' (Through the air from coughs and sneezes, on dirty hands, in dirty water and food, by insect bites, by touching.) Ask: 'Is a cold infectious? Is a broken leg?' (Yes. No.)"
     },
     {
      "kind": "talk",
      "title": "The body's walls and soldiers",
      "mins": 11,
-     "do": "Draw a castle on paper. The walls: skin (unbroken skin keeps germs out; that's why we clean cuts), mucus and nose hairs (trap germs), tears and saliva (wash and kill some germs), and stomach acid (kills many germs in food). If germs get past the walls, the soldiers come: white blood cells in the blood find germs and destroy them. Fever is part of the fight: a warmer body makes it harder for many germs to grow. Say: 'Your immune system's first job is telling self from not-self: this is me, that is not me. Every living cell, back to the first cells, has kept itself in and the outside out.' Then the important part: 'After a fight, some white blood cells remember that germ. If it comes again, they recognise it at once and destroy it before you get ill. That's called immunity.' Ask: 'Why do most people get chickenpox only once?' (The body remembers it.)"
+     "do": "Draw a castle on paper. Say: 'Your body has walls.' Draw them: skin (unbroken skin keeps germs out, which is why we clean cuts), mucus and nose hairs (they trap germs), tears and saliva (they wash away and kill some germs), and stomach acid (it kills many germs in food). Say: 'If germs get past the walls, the soldiers come.' Draw white blood cells: they travel in the blood, find germs and destroy them. All these defences together are called the immune system. Say: 'Fever is part of the fight. A warmer body makes it harder for many germs to grow.' Then ask: 'Why do most people get chickenpox only once?' Let your child guess. Say: 'After a fight, some white blood cells remember that germ. If it comes again, they recognise it at once and destroy it before you get ill. That is called immunity.'"
     },
     {
      "kind": "game",
      "title": "Castle tag",
      "mins": 4,
-     "do": "A quick physical game, indoors or outside: one or two players are germs trying to touch a cushion (the body). The others are the defences: a wall line that can only shuffle sideways (skin), and one fast white blood cell who tags germs out. Play two rounds; in the second round the white blood cell already 'knows' the germs and starts right next to them (memory). Ask: 'Why was round two easier?'"
+     "do": "A quick chasing game. The parent is a germ who tries to touch a cushion (the body). The child is a white blood cell who tags the germ before they reach it. If more people play, some stand in a line as the skin wall and can only shuffle sideways. Play two rounds. In the second round, the white blood cell already 'knows' the germ and starts right next to them, like immunity. Ask: 'Why was round two easier?'"
     },
     {
      "kind": "read",
      "title": "Story: The Tikadar Comes in Spring",
      "mins": 17,
-     "do": "Read the story aloud (Story tab). Ask the story questions. Ask especially: 'Why didn't Bindu and Mohan fall ill in the summer?' Don't answer for them; tomorrow's lesson will."
+     "do": "Read the story aloud (Story tab). It is told by Bindu, a girl in a Bengal village long ago. Ask the story questions. Ask especially: 'Why didn't Bindu and her brother Mohan fall ill in the summer?' Don't answer for them. Tomorrow's lesson will."
     }
    ],
    "need": [
@@ -246,20 +246,20 @@
      "kind": "warmup",
      "title": "Waste count and story recap",
      "mins": 5,
-     "do": "Add last night's waste numbers. Then ask: 'What did the tikadar do to Bindu's arm? Why did it protect her?' (Gave her a small, controlled dose of smallpox so her body learned to beat it and remembered.)"
+     "do": "Add last night's waste numbers. Then ask: 'In the story, what did the tikadar do to Bindu's arm? Why did it protect her?' (He gave her a small dose of smallpox on purpose, so her body learned to beat it and remembered it.)"
     },
     {
      "kind": "talk",
      "title": "From variolation to vaccines",
      "mins": 13,
-     "do": "Tell voice v1: people in India, China, Africa and Turkey protected themselves against smallpox by variolation for centuries before Edward Jenner. Onesimus, an enslaved African man, taught it in Boston; Lady Mary Wortley Montagu brought it to England from Turkey. Jenner found a safer way using cowpox in 1796. Say: 'A vaccine shows the body a harmless form or a piece of a germ, so the white blood cells learn it and remember it, without you getting ill.' Then: 'Smallpox was wiped out completely from the Earth; the last natural case was in 1977. Polio: India's last case was a little girl in West Bengal in 2011. That was done by millions of vaccinators and health workers going door to door.' About 2,000 years ago, the Charaka Samhita, an Indian medical text, already had a word for the body's power to resist disease: vyadhikshamatva. Ask the voice question.",
+     "do": "Tell voice v1. For centuries, people in India, China, Africa and Turkey protected themselves against smallpox by variolation, a small dose of smallpox on purpose. Onesimus, an enslaved African man, told people in Boston about it. Lady Mary Wortley Montagu brought it to England from Turkey. In 1796, Edward Jenner found a safer way, using a mild cow disease called cowpox. Say: 'A vaccine shows the body a harmless form or a piece of a germ. The white blood cells learn it and remember it, without you getting ill.' Then: 'Smallpox was wiped out from the whole Earth. The last natural case was in 1977. India's last case of polio was a little girl in West Bengal in 2011. Millions of health workers going door to door made that happen.' Ask the voice question.",
      "ref": "v1"
     },
     {
      "kind": "exp",
      "title": "How vaccines protect everyone",
      "mins": 17,
-     "do": "Do Experiment e3, the model town with dice. Before each round, your child predicts how many of the 25 will fall ill and writes it down. After all three rounds, ask: 'Which round protected the unvaccinated people best? Why?' (Round 2: the vaccinated people broke the chains.)",
+     "do": "Do Experiment e3, the model town with dice. Before each round, your child guesses how many of the 25 people will fall ill and writes it down. After all three rounds, ask: 'Which round protected the unvaccinated people best? Why?' (Round 2. The vaccinated people broke the chains.)",
      "ref": "e3"
     },
     {
@@ -299,7 +299,7 @@
      "kind": "talk",
      "title": "Antibiotics and the mould on the melon",
      "mins": 15,
-     "do": "Say: 'Antibiotics are medicines that kill bacteria or stop them growing. They do nothing to viruses, so they don't cure a cold or the flu.' Tell voice v3: Alexander Fleming noticed in 1928 that a mould killed bacteria; years later Howard Florey, Ernst Chain, Norman Heatley and their team made it into a medicine, and a lab worker, Mary Hunt, found a mouldy melon whose mould made far more penicillin. Ask the voice question. Then explain resistance: 'If antibiotics are used when they're not needed, or a course is stopped too early, the few toughest bacteria survive and multiply, and the medicine stops working for everyone. Doctors call this antibiotic resistance, and it's one of the biggest worries in medicine today.' If time, draw a bacterium (a living cell with a wall and its own machinery) next to a virus (a much smaller coat around instructions, with no machinery of its own), and ask: 'What can an antibiotic attack in the virus?' (Nothing.)",
+     "do": "Ask: 'Will an antibiotic cure a cold?' Listen. Say: 'Antibiotics are medicines that kill bacteria or stop them growing. They do nothing to viruses, so they don't cure a cold or the flu.' Tell voice v3. In 1928 Alexander Fleming noticed that a mould killed bacteria. Ten years later, Howard Florey, Ernst Chain, Norman Heatley and their team made it into a medicine, penicillin. A lab worker, Mary Hunt, found a mouldy melon whose mould made far more penicillin. Ask the voice question. Then explain resistance: 'When antibiotics are used and they are not needed, most bacteria die, but a few tough ones survive and multiply. Then the medicine stops working on them. Doctors call this antibiotic resistance. It is one of the biggest worries in medicine today. So take antibiotics only when a doctor says, exactly as the doctor says.' If there is time, draw a bacterium (a living cell with a wall and their own machinery) next to a virus (a much smaller coat around instructions, with no machinery of their own). Ask: 'What can an antibiotic attack in the virus?' (Nothing.)",
      "ref": "v3"
     },
     {
@@ -330,20 +330,20 @@
      "kind": "talk",
      "title": "The scientist who read old books",
      "mins": 13,
-     "do": "Tell voice v2: Tu Youyou searched more than 2,000 old Chinese recipes for fever and found one using sweet wormwood. Her team got a medicine, artemisinin, that has saved millions from malaria. Ask the voice question. Say: 'Many medicines started in plants: aspirin's ancestor came from willow bark, and Indian healers have used tulsi, neem and haldi for centuries. But a plant being natural doesn't mean it works or is safe. The only way to know is a fair test.'",
+     "do": "Tell voice v2. Tu Youyou searched more than 2,000 old Chinese recipes for fever and found one using a plant called sweet wormwood. Her team made a medicine, artemisinin, that has saved millions of people from malaria. Ask the voice question. Say: 'Many medicines started in plants. Aspirin was first made from a substance found in willow bark. Indian healers have used tulsi, neem and turmeric for centuries. But a plant being natural doesn't mean it works or is safe. The only way to know is a fair test.'",
      "ref": "v2"
     },
     {
      "kind": "think",
      "title": "Design a fair test",
      "mins": 12,
-     "do": "Ask: 'Imagine someone says: drinking a special tea cures colds. How could we find out?' Help your child plan: you need many people with colds; split them into two groups by chance; one group drinks the tea, the other drinks a tea that looks and tastes the same but has nothing special (a 'placebo'); nobody knows who got which; count how fast each group gets better. Ask: 'Why must nobody know which tea they got?' (People who expect to feel better often do feel better a little; this is called the placebo effect.) 'Why many people, not just one?' (Colds get better by themselves anyway.)"
+     "do": "Ask: 'Someone says drinking a special tea cures colds. How could we find out if that is true?' Let your child suggest ideas first. Then plan it together. You need many people with colds. Split them into two groups by chance, for example by tossing a coin. One group drinks the tea. The other drinks a tea that looks and tastes the same but has nothing special in it, called a placebo. Nobody knows who got which. Count how fast each group gets better. Ask: 'Why must nobody know which tea they got?' (People who expect to feel better often do feel a little better. This is called the placebo effect.) 'Why many people, not just one?' (Colds get better by themselves anyway, and one person can be a fluke.)"
     },
     {
      "kind": "talk",
      "title": "Safe places, safe choices",
      "mins": 15,
-     "do": "Ask your child to walk you, in words, from home to the nearest park or shop: 'Where is it safe to play? Where is it not?' (Not on roads, near open drains, building sites, live wires or deep water.) Recall last year's safety hand: 'Who are your trusted adults?' Add: 'If someone is being hurt, bullied or made scared, at home, in the lane or online, telling a trusted adult is not telling tales; it's keeping people safe.' Then do Worksheet ws3 section A (challenge).",
+     "do": "Ask your child to walk you, in words, from home to the nearest park or shop: 'Where is it safe to play? Where is it not?' (Not on roads, or near open drains, building sites, loose wires or deep water.) Say: 'Last year you named five trusted adults, one for each finger. Who are they?' Add: 'If someone is being hurt, bullied or scared, at home, in the street or online, telling a trusted adult is not telling tales. It keeps people safe.' Then do Worksheet ws3 section A (challenge).",
      "ref": "ws3"
     }
    ],
@@ -361,7 +361,7 @@
      "kind": "think",
      "title": "Finish the challenge",
      "mins": 8,
-     "do": "Finish Worksheet ws3 section B. Discuss the written answers: accept any well-reasoned answer, and ask 'What evidence would change your mind?'",
+     "do": "Finish Worksheet ws3 section B. Talk about the written answers. Accept any well-reasoned answer, and ask: 'What evidence would change your mind?'",
      "ref": "ws3"
     },
     {
@@ -404,7 +404,7 @@
      [
       {
        "t": "sort",
-       "p": "Put these in the order they happen. Sort each into the right part of the journey.",
+       "p": "Sort the steps of the rice's journey: does each one happen in the field, or after the field?",
        "items": [
         "sowing the seed",
         "transplanting seedlings",
@@ -421,7 +421,7 @@
       },
       {
        "t": "match",
-       "p": "Match the helper to its job.",
+       "p": "Match each helper to the job they do.",
        "pairs": [
         [
          "earthworm",
@@ -450,7 +450,7 @@
       },
       {
        "t": "write",
-       "p": "Choose one link of your thank-you chain. What would happen to your dinner if that link was missing?",
+       "p": "Choose one link of your thank-you chain. What would happen to your dinner if that link were missing?",
        "lines": 3
       }
      ]
@@ -490,10 +490,10 @@
        "p": "Which foods in our waste could have been eaten?",
        "items": [
         "banana peel",
-        "leftover dal",
+        "leftover sambar",
         "stale roti",
         "chicken bones",
-        "rotten tomato",
+        "mango seed",
         "rice scraped off a plate"
        ],
        "cats": [
@@ -610,7 +610,7 @@
       },
       {
        "t": "write",
-       "p": "A baby is too young for a vaccine. How can other people help protect her?",
+       "p": "Baby Anu is 3 months old, too young for the measles vaccine. How can other people help protect her?",
        "lines": 3
       },
       {
@@ -728,24 +728,25 @@
    "day": 2,
    "question": "Does digestion begin before food reaches the stomach?",
    "need": [
-    "a small piece of plain roti or a spoonful of plain cooked rice",
-    "tincture of iodine or Betadine (a few drops)",
+    "a small piece of plain roti",
+    "3 spoons of the starchy water (kanji) poured off cooking rice, cooled",
+    "tincture of iodine or povidone-iodine antiseptic from a chemist (a few drops)",
     "two small steel or glass cups",
-    "a little water",
+    "a bowl of warm water, about as warm as a bath",
     "a spoon"
    ],
    "steps": [
-    "Your child chews a piece of plain roti for at least 2 minutes without swallowing, noticing the taste every 30 seconds.",
-    "Ask: 'Has the taste changed?' (Most people find it turns slightly sweet.)",
-    "Now the test (a grown-up handles the iodine). Mash a little rice in a few spoons of water in each cup.",
-    "Your child spits a little saliva into one cup and stirs. The other cup gets plain water instead. Leave both 10 minutes.",
-    "A grown-up adds 2 drops of iodine to each cup. Iodine turns blue-black when there's starch."
+    "Put about one spoon of kanji in each cup and add one spoon of plain water to each.",
+    "Your child spits about a spoonful of saliva into one cup, a little at a time, and stirs. The other cup gets one more spoon of plain water instead. Stand both cups in the bowl of warm water for 15 minutes, because saliva works best at body warmth.",
+    "While you wait, your child chews a piece of plain roti for at least 2 minutes without swallowing, noticing the taste every 30 seconds. Ask: 'Has the taste changed?' (Most people find it turns slightly sweet.)",
+    "After 15 minutes, a grown-up adds 2 drops of iodine to each cup and stirs. Iodine turns blue-black when there is starch.",
+    "Compare the two cups. If both are equally dark, add more saliva to the first cup and wait 10 minutes more."
    ],
    "predict": "Ask: 'Which cup will turn darker? Why?'",
-   "observe": "The roti tastes sweeter after long chewing. The plain-water cup turns dark blue-black; the saliva cup is often lighter or brownish, because some starch has gone.",
-   "why": "Rice and roti are full of starch, long chains of sugar joined together, which don't taste sweet. Saliva contains an enzyme called amylase that cuts starch into smaller sugars, which do taste sweet. So digestion begins in the mouth. Iodine shows starch by turning blue-black; less colour means less starch is left. Chewing well also breaks food into small pieces so the stomach and gut can digest it more easily.",
+   "observe": "The roti tastes sweeter after long chewing. The cup with plain water turns dark blue-black. The cup with saliva is lighter, or brownish, because some of the starch has gone.",
+   "why": "Rice and roti are full of starch, which is made of long chains of sugar joined together. Starch does not taste sweet. Saliva contains an enzyme called amylase. An enzyme is a substance in the body that speeds up a change. Amylase cuts starch into smaller sugars, which do taste sweet. So digestion begins in the mouth. Iodine shows starch by turning blue-black, so less colour means less starch is left. Chewing well also breaks food into small pieces, so the stomach and gut can digest it more easily.",
    "safety": "Iodine is poisonous to swallow and stains: a grown-up handles it, and nobody eats anything from the test cups. Throw them away and wash the cups.",
-   "time": "20 min"
+   "time": "22 min"
   },
   {
    "id": "e3",
@@ -761,14 +762,14 @@
    "steps": [
     "Lay the 25 coins in a 5×5 square. Each coin is a person in the town.",
     "Round 1, nobody vaccinated: put a mark next to the middle coin; it's ill. Each turn, for each ill person, roll the die for each neighbour (up, down, left, right): 1 to 4 means the neighbour catches it. Ill people get better after one turn and can't catch it again. Keep going until nobody is ill. Count how many got ill.",
-    "Round 2, most vaccinated: turn 18 coins face down (vaccinated: they can't catch it). Keep the middle coin face up and ill, plus 6 others face up. Play again the same way. Count how many unvaccinated people got ill.",
-    "Round 3, try with only half vaccinated.",
+    "Round 2, most vaccinated: turn 18 coins face down, spread across the square. They are vaccinated and can't catch it. Keep the middle coin face up and ill, and 6 others face up. Play again the same way. Count how many unvaccinated people got ill.",
+    "Round 3, half vaccinated: turn 12 coins face down, spread out, and play again.",
     "Compare the three counts."
    ],
    "predict": "Ask: 'In round 2, will the unvaccinated people get ill? How many?'",
    "observe": "With nobody vaccinated, the disease usually spreads through most of the town. With most vaccinated, it usually dies out quickly, and many unvaccinated people never catch it, because it can't reach them.",
-   "why": "A germ needs a chain of people to travel along. Vaccinated people break the chain. When enough people are protected, the germ can't find new people to infect, so it dies out, even for babies, the very old and the ill who can't have some vaccines. This is called herd immunity or community protection. It is something everyone shares: no one can own it alone. The model is simple; real diseases spread differently, and how many people need vaccinating depends on the disease (for measles, about 19 in every 20).",
-   "safety": "",
+   "why": "A germ needs a chain of people to travel along. Vaccinated people break the chain. When enough people are protected, the germ can't find new people to infect, so it dies out. This protects babies, very old people and ill people who can't have some vaccines. It is called herd immunity, or community protection. The model is simple. Real diseases spread differently, and how many people need vaccinating depends on the disease. For measles, it is about 19 in every 20.",
+   "safety": "No safety worries: this is a game with coins and a die.",
    "time": "20 min"
   },
   {
@@ -790,7 +791,7 @@
    ],
    "predict": "Ask: 'Will we waste more on some days than others? Will counting change how much we waste?'",
    "observe": "Most families find more 'could have been eaten' waste than they expected, and many find it drops once they start counting.",
-   "why": "Measuring something often changes how people behave, because they start to notice. Scientists have to watch out for this in experiments too. Food waste matters because every grain carries the water, soil, work and fuel that grew it; wasted food that rots in a dump without air makes methane, a gas that warms the planet.",
+   "why": "Measuring something often changes how people behave, because they start to notice it. Scientists have to watch out for this in experiments too. Food waste matters because every grain carries the water, soil, work and fuel that grew it. Food that rots in a dump without air makes methane, a gas that warms the planet.",
    "safety": "Wash hands after handling scraps.",
    "time": "5 min a night for 6 nights"
   }
@@ -807,9 +808,9 @@
     "a pen"
    ],
    "steps": [
-    "On each strip, your child writes or draws one link in the grain's journey: soil, rain, sun, earthworm, soil microbes, the seed saved last year, the farmer, the women who transplant seedlings, the bullock or tractor, the thresher, the mill worker, the truck driver, the shopkeeper, the person who cooked.",
+    "On each strip, your child writes or draws one link in the rice's journey: soil, rain, sun, earthworms, soil microbes, the seed, the farmer, the women who transplant seedlings, the bullock or tractor, the thresher, the mill worker, the truck driver, the shopkeeper, the person who cooked.",
     "Join the strips into a chain in order.",
-    "Add any others they think of: the bee (for crops that need pollinating), the person who mended the road.",
+    "Add any others they think of: the bees that pollinate other crops, the person who mended the road.",
     "Hang it near where you eat.",
     "Before one meal each day this week, someone touches the chain and thanks one link out loud."
    ],
@@ -827,7 +828,7 @@
    "steps": [
     "A grown-up takes out the medicines; your child does not touch pills or open bottles.",
     "Read each label together: the medicine's name, what it's for, the dose (how much, how often, for which age), and the expiry date.",
-    "Sort them: still in date, expired. A grown-up puts expired ones aside to return to a chemist, not in the bin or a drain.",
+    "Sort them: still in date, or expired. A grown-up puts the expired ones aside. Ask your chemist if they take back old medicines. Never pour medicines down a drain.",
     "Make a rule card with your child: 1. Medicines only from a grown-up I trust. 2. The right dose, never more. 3. Never someone else's medicine. 4. Medicines are not sweets, even if they taste sweet.",
     "Check that medicines are stored high up and away from small children."
    ],
@@ -844,7 +845,7 @@
    "steps": [
     "Look at the card together. Find the names of the vaccines your child had and when: for example BCG (against TB), polio drops, measles-rubella, and others.",
     "For each, ask: 'What disease does this protect against?'",
-    "Ask: 'Who gave you these? Where?' (A nurse, an ANM, a doctor, at a clinic or anganwadi.)",
+    "Ask: 'Who gave you these? Where?' (A nurse, an ANM (auxiliary nurse midwife), or a doctor, at a clinic, a hospital or an anganwadi.)",
     "Count how many diseases your child is protected against."
    ],
    "outcome": "Your child knows which diseases their own body has been trained to remember."
@@ -936,7 +937,7 @@
    },
    {
     "front": "Name two rules for medicines.",
-    "back": "Only from a trusted grown-up; right dose; never someone else's; not sweets; check the expiry date."
+    "back": "Any two: only from a trusted grown-up, the right dose, never someone else's, medicines are not sweets, check the expiry date."
    },
    {
     "front": "Why must nobody know who got the placebo in a fair test?",
@@ -961,7 +962,7 @@
    "id": "v1",
    "who": "Onesimus (17th–18th century), West Africa and Boston; Lady Mary Wortley Montagu (1689–1762), England; the tikadars of Bengal; and Edward Jenner (1749–1823), England",
    "idea": "Long before vaccines, people in India, China, the Ottoman Empire and many parts of Africa protected themselves against smallpox by variolation: putting a little material from a smallpox sore into a small cut, which usually gave a mild illness and lifelong protection. In Bengal, travelling inoculators called tikadars did this every spring; British doctors wrote about it in the 1760s. Onesimus, an enslaved West African man, told the minister Cotton Mather that he had been inoculated as a child in Africa; in the 1721 Boston smallpox epidemic, Mather and a doctor, Zabdiel Boylston, tried it and far fewer inoculated people died. That same year, Lady Mary Wortley Montagu, who had seen it in Turkey, had her daughter inoculated in London. In 1796, Edward Jenner showed that cowpox, a mild cattle disease, could protect against smallpox much more safely. The word vaccine comes from 'vacca', Latin for cow.",
-   "then": "In Boston, many doctors and citizens were furious; a bomb was thrown into Mather's house. Many refused to believe that an enslaved African could teach them medicine. Jenner's method was also doubted and mocked at first, but spread quickly.",
+   "then": "In Boston, many doctors and citizens were furious. Someone threw a lit bomb through Mather's window, but it did not go off. Many refused to believe that an enslaved African could teach them medicine. Jenner's method was also doubted and mocked at first, but it spread quickly.",
    "now": "Jenner's work led to all vaccines and is honoured everywhere. Historians now also stress the African, Asian and women's knowledge that came before him, which was often left out of the story. Smallpox was declared wiped out by the World Health Organization in 1980; it is the only human disease ever eradicated.",
    "status": "accepted",
    "ask": "The usual story starts with Jenner. Where do you think the story should start, and why?",
@@ -974,7 +975,7 @@
    "then": "For decades she was little known, even in China. She had no doctorate, had never studied abroad, and the project was secret and credited to the whole team.",
    "now": "In 2015 she won the Nobel Prize in Physiology or Medicine, the first Chinese woman to win a Nobel in science. Artemisinin medicines have saved millions of lives, many of them children in Africa and Asia. Some scientists who worked on the same project have argued that others deserved a share of the credit. Malaria parasites in some places are now becoming resistant to it.",
    "status": "accepted",
-   "ask": "Tu used a 1,600-year-old recipe, but tested it carefully. Is old knowledge more like a map or a proof?",
+   "ask": "Tu Youyou found the idea in a 1,600-year-old book, but she still tested it carefully. Why wasn't the old book enough on its own?",
    "day": 7
   },
   {
@@ -992,7 +993,7 @@
    "who": "Brian Wansink (born 1960), Cornell University, USA",
    "idea": "Wansink was a famous food scientist who reported that people eat less from smaller plates, eat more from bottomless soup bowls, and can be nudged into healthy eating with tricks. His findings were widely used in schools and diet advice.",
    "then": "From 2016, other scientists checked his papers and found many errors and impossible numbers. He had written a blog post describing how his team kept analysing data until they found something interesting.",
-   "now": "By 2019, Cornell found he had committed academic misconduct, and he resigned. Many of his papers were retracted (withdrawn). Whether plate size really changes how much people eat is still debated; some careful studies find a small effect and others find none. His specific results are rejected.",
+   "now": "In 2018, Cornell University found that he had committed academic misconduct, and he resigned. Many of his papers were retracted, which means withdrawn. Whether plate size really changes how much people eat is still debated. Some careful studies find a small effect and others find none. His own results are rejected.",
    "status": "rejected",
    "ask": "A famous scientist from a top university was wrong. How did other scientists find out? What does that tell you about how science checks itself?",
    "day": 3
@@ -1001,7 +1002,7 @@
  "story": {
   "title": "The Tikadar Comes in Spring",
   "text": [
-   "In the year my brother Mohan turned six, the tikadar came to our village in the spring, as he did every spring, walking from the north with a cloth bag on his shoulder and the dust of a hundred villages on his feet. This was a long time ago, in Bengal, before anyone had heard of vaccines. I was eight. I remember it as clearly as yesterday.",
+   "My name is Bindu. In the year my brother Mohan turned six, the tikadar came to our village in the spring, as he did every spring, walking from the north with a cloth bag on his shoulder and the dust of a hundred villages on his feet. This was a long time ago, in Bengal, before anyone had heard of vaccines. I was eight. I remember it as clearly as yesterday.",
    "We children ran to see him. He was a thin, quiet man with a sacred thread across his chest and a small silver box he kept tied at his waist. The grown-ups spoke to him with respect, and with something else too. I didn't know the word for it then. Now I would say fear.",
    "Everyone knew why he came. Every few summers, when the heat was at its worst, the smallpox came too. Ma Shitala's visit, the old women called it. It came in through one door and went out through many. It covered children in sores, and it took some of them, and it left others with faces marked for ever, and some who lived could not see afterwards. Our neighbour's boy, Haru, had marks like rain on dust all over his cheeks from the summer I was four.",
    "The tikadar sat under the banyan tree and the mothers brought their children one by one.",
@@ -1026,7 +1027,7 @@
    "I am an old woman now, as I tell you this. They say that in England a doctor has found a gentler way, using a sickness from cows, and that it is coming here. I hope it does. I hope one day no mother ever has to stand at the edge of a crowd and choose between two fears.",
    "But I still have the little round scars on my arm. Sometimes I touch them and think of the summer the sickness walked past me, and the thin man under the banyan tree who taught my body to remember."
   ],
-  "epiphany": "Immunity: the body remembers a germ it has met and beaten, so a small, controlled meeting (variolation, and later vaccination) protects against the real disease. The turn is Bindu and Mohan nursing Bela without falling ill: 'It doesn't know us.' 'We know it.' Underneath: the old, real Indian knowledge of the tikadars, a mother's hard choice between two risks, and protection that spreads from one family to the next.",
+  "epiphany": "Immunity: the body remembers a germ it has met and beaten, so a small, controlled meeting with it (variolation, and later vaccination) protects against the real disease. The turn is Bindu and Mohan nursing Bela without falling ill: 'It doesn't know us.' 'We know it.' The story also shows the real Indian knowledge of the tikadars, a mother's hard choice between two risks, and protection passing from one family to the next.",
   "ask": [
    "What did the tikadar actually do to the children's arms?",
    "Why was Bindu's mother afraid of the tika? Was she right to be afraid?",
@@ -1041,12 +1042,12 @@
    "more": "Soil microbes, earthworms, rain, the sun, farmers, transplanters, millers, drivers and cooks. Use the thank-you chain. Nobody grows their own dinner alone."
   },
   {
-   "idea": "Your body remembers, and it knows 'me' from 'not me'.",
-   "more": "The immune system's deepest skill is telling self from not-self, a skill every living cell has had in some form since the first cell membranes. After beating a germ, some white blood cells remember it for years. Vaccines use this memory: they teach the body to recognise a germ without the danger of the full disease."
+   "idea": "Your immune system remembers germs it has beaten.",
+   "more": "After beating a germ, some white blood cells remember it, often for years. Vaccines use this memory: they teach the body to recognise a germ without the danger of the full disease."
   },
   {
    "idea": "Some protection is shared, not owned.",
-   "more": "When enough people are vaccinated, a germ can't travel, so babies and ill people who can't be vaccinated are protected too. Health can be a commons, like clean air."
+   "more": "When enough people are vaccinated, a germ can't travel from person to person. So babies and ill people who can't be vaccinated are protected too. Everyone shares this protection, like clean air."
   }
  ],
  "unknowns": [
@@ -1077,20 +1078,20 @@
  ],
  "perspectives": [
   {
-   "who": "A rice farmer in Punjab or Bengal",
-   "view": "A farmer may spend four months growing rice, risking drought, flood and pests, and get only a small share of what you pay in the shop. Ask: what would be a fair share? What would change if everyone knew their farmer's name?"
+   "who": "A rice farmer in the Cauvery delta, Tamil Nadu",
+   "view": "A farmer may spend four months growing rice, risking drought, floods and pests, and often gets only part of what you pay in the shop. Ask: what would be a fair share? What would change if everyone knew their farmer's name?"
   },
   {
    "who": "An earthworm",
-   "view": "An earthworm eats dead leaves and soil, and leaves behind rich castings that feed the plants that become your food. It never sees a single grain. Ask: should we thank living things that don't know they're helping?"
+   "view": "An earthworm eats dead leaves and soil, and leaves behind rich droppings called castings that feed plants. Earthworms help grow your food, though they never eat a grain of it. Ask: how could your family look after the earthworms that help grow your food?"
   },
   {
    "who": "A germ",
-   "view": "A bacterium isn't trying to hurt you. It's trying to eat, grow and make more of itself, like every living thing. You just happen to be a good place to do it. Ask: does thinking of a germ this way change how you feel about it?"
+   "view": "A bacterium that makes you ill is not trying to hurt you. Bacteria are trying to eat, grow and make more of themselves, like every living thing. Your warm body, full of food, happens to be a good place to do it. Ask: does thinking of a germ this way change how you feel about them?"
   },
   {
    "who": "Gagandeep Kang, Indian vaccine scientist",
-   "view": "Kang found that some vaccines made for rich countries worked less well in Indian children, whose guts face more infections. She helped test Rotavac, an affordable vaccine made in India against rotavirus, a germ that causes deadly diarrhoea in babies; it is now in India's national programme. In 2019 she became the first Indian woman elected a Fellow of the Royal Society. Ask: why might a medicine work differently in different places?"
+   "view": "Kang, working at the Christian Medical College in Vellore, Tamil Nadu, found that some vaccines made for rich countries worked less well in Indian children, whose guts face more infections. She helped test Rotavac, an affordable vaccine made in India against rotavirus, a germ that causes deadly diarrhoea in babies. It is now in India's national vaccine programme. In 2019 she became the first Indian woman elected a Fellow of the Royal Society, a famous group of scientists in Britain. Ask: why might a medicine work differently in different places?"
   },
   {
    "who": "ASHA workers, ANMs and polio vaccinators",
@@ -1130,11 +1131,11 @@
  "check": [
   {
    "q": "Tell the journey of a grain in five steps, and name two living helpers.",
-   "a": "e.g. sowing, growing, harvesting, threshing, milling; earthworms, soil microbes, the farmer."
+   "a": "For example: sowing, growing, harvesting, threshing, milling. Two living helpers: earthworms and soil microbes, or the farmer."
   },
   {
    "q": "Why does a roti taste sweet after long chewing?",
-   "a": "Saliva has an enzyme that turns starch into sugar: digestion starts in the mouth."
+   "a": "Saliva has an enzyme, amylase, that turns starch into sugar. Digestion starts in the mouth."
   },
   {
    "q": "What did our food-waste count show, and what will we change?",
@@ -1154,7 +1155,7 @@
   },
   {
    "q": "Why shouldn't you take antibiotics for a cold?",
-   "a": "Colds are caused by viruses and antibiotics only work on bacteria; misuse causes resistance."
+   "a": "Colds are caused by viruses, and antibiotics only work on bacteria. Using antibiotics when they are not needed helps resistant bacteria spread."
   },
   {
    "q": "Who else, apart from Jenner, should be remembered for protecting people from smallpox?",
