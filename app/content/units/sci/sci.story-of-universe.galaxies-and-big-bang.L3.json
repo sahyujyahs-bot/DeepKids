@@ -17,7 +17,7 @@
   "I can explain why galaxies moving away from us does not mean we are at the centre of the universe.",
   "I can say what the Big Bang was, and give two clues that the universe had a hot beginning.",
   "I can explain why we see a far galaxy as it was long ago, not as it is now.",
-  "I can tell how Henrietta Leavitt and Edwin Hubble found that the Milky Way is one galaxy among many.",
+  "I can tell how scientists found that the universe is growing and had a hot beginning, and which old idea this showed was wrong.",
   "I can say what scientists still do not know, such as what came before the Big Bang."
  ],
  "cards_mins": 15,
@@ -242,12 +242,12 @@
  ],
  "challenging": [
   {
-   "claim": "The Milky Way is the whole universe. The spiral smudges seen in telescopes are small clouds of gas inside it.",
-   "who": "Harlow Shapley and many astronomers, in a famous debate with Heber Curtis in 1920",
-   "for": "Nobody could measure how far the spiral smudges were. The Milky Way seemed huge, and one astronomer, Adriaan van Maanen, wrongly claimed he had seen the smudges spin, which would mean they were small and close.",
-   "against": "In 1923, Hubble found a Cepheid star in Andromeda and showed it is far outside the Milky Way. Van Maanen's measurements turned out to be mistakes.",
+   "claim": "If the universe is getting bigger, it must be growing into some empty space outside it.",
+   "who": "Many people, when they first hear that the universe is expanding",
+   "for": "Everything we see growing, like a balloon or a rising idli, grows into the room around it.",
+   "against": "The expanding universe means that the distances between galaxies grow. It does not need anything outside. On the balloon model, only the rubber skin stands for space, and the bindis can never leave it. Nobody has found any sign of an outside, and the main theory of gravity describes stretching without one.",
    "status": "rejected",
-   "context": "This card is about an idea most astronomers held about a hundred years ago."
+   "context": "This card is about a common picture of the expanding universe."
   },
   {
    "claim": "The universe has always existed and looks the same at all times. As galaxies move apart, new matter quietly appears to fill the gaps. This is called the steady state theory.",
@@ -307,48 +307,50 @@
   }
  ],
  "story": {
-  "title": "The Smudge over the Javadi Hills",
+  "title": "The Letter in Ammamma's Trunk",
   "mins": 12,
   "read_aloud": true,
-  "note": "Kavya, Arjun, Periamma Meenakshi and their family are made up. The Javadi Hills in Tamil Nadu are real. The Vainu Bappu Observatory at Kavalur was built there because the skies are dark. The way to find Andromeda in the story is the usual one: from the corner of the Great Square of Pegasus, two stars along, then up. Andromeda can be seen with the eyes alone only from a dark place, on evenings from about October to January. For the parent: Kavya learns that the faint smudge is a whole galaxy, and that its light is so old that she is seeing the galaxy's past. Then she uses a balloon to show her father that galaxies moving away from us does not put us at the centre.",
+  "note": "Kavya, Arjun, Periamma Meenakshi and their family are made up. Bhogi is the first day of Pongal, when families in Tamil Nadu clear out old things. The Vainu Bappu Observatory at Kavalur is real. The light times in the story are real: just over 1 second for the Moon, about 8 minutes for the Sun, about 2.5 million years for the Andromeda galaxy, and more than 13 billion years for the furthest galaxies seen. For the parent: Kavya learns that a letter, like light from a star, shows how things were when it was sent, not how they are now. Then she uses a balloon to show her father that galaxies moving away from us does not put us at the centre.",
   "text": [
-   "In the Deepavali holidays, Kavya and her little brother Arjun went to stay with their Periamma, their mother's elder sister, in the Javadi Hills. Periamma Meenakshi was an astronomer. The village was small, and at night the only lights were a few lamps in windows. Above the hills, the sky was crowded with stars.",
-   "On the second night, Periamma spread a mat on the flat roof. Appa came up too, carrying a flask of hot coffee. 'Tonight I want to show you something very far away,' said Periamma. 'First, let your eyes get used to the dark. No phones.'",
-   "They lay on the mat and waited. Arjun counted stars and lost count. After a while, Periamma pointed high up towards the north-east. 'Do you see a big square of four stars? Like a box with no lid?' Kavya found it. 'Now go to the corner on the left. From there, follow a line of two bright stars further along. At the second one, turn and look up a little. Look slightly to one side of the spot, not straight at it.'",
-   "Kavya looked, and looked to the side, and there it was. A faint grey smudge, like a thumbprint on a window. 'It's a tiny cloud,' said Arjun.",
-   "'Watch it,' said Periamma. 'Does it blow away like a cloud?' They watched. Real clouds drifted past and went. The smudge stayed in its place among the stars. 'That is the Andromeda galaxy,' said Periamma. 'It is not a cloud, and it is not one star. It is a whole galaxy, a giant group of about a trillion stars. It is the furthest thing you can see with your eyes alone.'",
-   "'A trillion stars, and it looks like a smudge?' said Kavya.",
-   "'It is very far away,' said Periamma. 'So far that its light takes about two and a half million years to reach us. The light going into your eye right now set off from Andromeda two and a half million years ago.'",
-   "Kavya thought about this. 'Were there people then?'",
-   "'Not people like us,' said Periamma. 'There were early relatives of humans in Africa, and some were starting to make stone tools. When that light set off, nobody on Earth could have looked up and wondered about it. It has been travelling all that time, and tonight it has landed in your eye.'",
-   "'So I'm not seeing Andromeda now,' said Kavya slowly. 'I'm seeing it as it was, a very long time ago.'",
-   "'Yes,' said Periamma. 'Every time you look far, you look back in time. The Moon you see is just over one second old. The Sun is about eight minutes old. Andromeda is two and a half million years old. The furthest galaxies that big telescopes see are pictures from when the universe was very young.'",
-   "Appa poured the coffee. 'I read that all the galaxies are rushing away from us,' he said. 'So we must be right in the middle of everything. That makes us quite special.'",
-   "'Andromeda is one of the few coming closer,' said Periamma. 'Gravity pulls our two galaxies together. But it is true that almost all the far galaxies are moving away from us, and the further they are, the faster they go.' She smiled at Kavya. 'Is your Appa right? Are we in the middle?'",
-   "Kavya did not know. She lay awake for a long time that night, thinking about it.",
-   "The next morning there was a village fair, and Arjun came home with a red balloon. Kavya had an idea. She borrowed Amma's packet of bindis and stuck six of them on the balloon, while it was still small. She called one of them 'Milky Way'.",
+   "On the morning of Bhogi, the first day of Pongal, Kavya's family in Madurai cleared out the old things in the house. Kavya and her little brother Arjun were given Ammamma's tin trunk to sort. It was full of old saris, school certificates and bundles of letters tied with string.",
+   "One envelope had a picture of a telescope drawn on the back. Kavya opened it. 'Dear Amma,' it said. 'Today I used the big telescope at Kavalur for the first time. I saw a galaxy so far away that its light left it before there were any people on Earth. I am nineteen, and I have never been so happy. Your Meenakshi.'",
+   "'This is from Periamma!' said Kavya. Periamma Meenakshi was her mother's elder sister, and she was an astronomer. She had come for Pongal, and she was in the kitchen, stirring the payasam.",
+   "Kavya ran in with the letter. Periamma laughed when she saw it. 'I wrote that twenty years ago,' she said. 'Look at my handwriting. I was so young.'",
+   "'But in the letter you're nineteen,' said Arjun, who was six. 'You're not nineteen now.'",
+   "'That's right,' said Periamma. 'A letter tells you how things were when it was written. By the time you read it, things have changed.' She stopped stirring and looked at Kavya. 'Light from the sky is like that too.'",
+   "That evening, the family went up to the terrace. The city lights were bright, so only a few stars showed. The Moon was rising over the temple towers.",
+   "'Light is the fastest thing there is,' said Periamma. 'But it still takes time to travel. The moonlight on your face left the Moon just over one second ago. Sunlight takes about eight minutes to get here. So you always see the Sun as it was eight minutes ago.'",
+   "'Like a letter that took eight minutes to arrive,' said Kavya.",
+   "'Exactly. And the further away something is, the older its letter. The Andromeda galaxy is so far away that its light takes two and a half million years to reach us. The galaxy I saw at Kavalur, in my letter, was further still. The furthest galaxies that big telescopes see today sent their light more than thirteen billion years ago, when the universe was very young.'",
+   "Kavya thought about this. 'So if you look far enough, you could see the beginning?'",
+   "'Almost,' said Periamma. 'The oldest light of all is a very faint glow. It comes from every direction in the sky, left over from when the whole universe was packed together and hot. Our eyes can't see it, but radio telescopes can.'",
+   "'Where did the beginning happen?' asked Kavya. 'Over there?' She pointed at the sky beyond the temple towers.",
+   "'Everywhere,' said Periamma. 'Including right here on this terrace.' Kavya frowned. That did not make sense at all.",
+   "Appa came up with a tray of coffee. 'I read that all the galaxies are rushing away from us,' he said. 'So we must be right in the middle of everything. That makes us quite special.'",
+   "Periamma smiled at Kavya. 'Is your Appa right? Are we in the middle?' Kavya did not know. She lay awake that night, thinking about it.",
+   "The next day was Pongal. While the rice boiled over in the new pot, and everyone shouted 'Pongalo Pongal!', Arjun came back from the market with a red balloon. Kavya had an idea. She borrowed Amma's packet of bindis and stuck six of them on the balloon while it was still small. She called one of them 'Milky Way'.",
    "'Appa, blow it up, please,' she said. Appa blew. The balloon grew, and the bindis spread apart. 'Look at Milky Way,' said Kavya. 'All the other bindis moved away from it. The far ones moved most.'",
    "'So Milky Way is the centre,' said Appa.",
    "'Now look from this one,' said Kavya, and put her finger on a different bindi. 'All the others moved away from this one too. And from this one. Every bindi sees the others go away. None of them is the centre.'",
    "Appa turned the balloon round and round in his hands. 'So if I lived on any of these bindis, I would think I was in the middle,' he said. 'And so would everyone else.'",
-   "'And look,' said Kavya. 'The bindis didn't get bigger. Only the rubber between them stretched. Periamma says galaxies don't stretch either. It's the space between them.'",
-   "Periamma had been listening from the doorway. 'That is exactly what astronomers found,' she said. 'Your Appa's idea was what many people thought at first. You have just shown him why it isn't so.'",
-   "That night, Kavya went up to the roof again. She found the square, the corner, the two stars, and the faint smudge. Somewhere in that smudge, she thought, there might be someone looking back at the Milky Way. And from there, our galaxy would seem to be in the middle too."
+   "'And the bindis didn't get bigger,' said Kavya. 'Only the rubber between them stretched. Periamma says galaxies don't stretch either. It's the space between them.'",
+   "Then she understood what Periamma had said on the terrace. If she let the air out, all the bindis would come back together, every one of them. None of them had started somewhere else. 'When the universe was small, every place was squeezed together,' she said slowly. 'So the beginning happened everywhere. Here too.'",
+   "Periamma had been listening from the doorway. 'That is exactly what astronomers found,' she said. 'You have just explained it better than my letter did.'"
   ],
-  "epiphany": "Kavya realises two things. The faint smudge of Andromeda is a whole galaxy, and because its light is so old, she is seeing its past, not its present. And galaxies moving away from us does not put us at the centre, because from every bindi on her balloon, the others moved away.",
+  "epiphany": "Kavya realises that light from far away is like an old letter: it shows how things were when it was sent. Then, with the balloon, she sees that galaxies moving away from us does not put us at the centre, and that when the universe was small, every place was squeezed together, so the beginning happened everywhere, here too.",
   "ask": [
-   "Why did Periamma tell Kavya to look slightly to one side of the smudge?",
-   "How did they know the smudge was not a cloud?",
-   "Kavya said she was not seeing Andromeda now. What did she mean?",
+   "Arjun said Periamma was not nineteen any more. Why was the letter still about a nineteen-year-old?",
+   "How is sunlight like a letter that takes eight minutes to arrive?",
    "Appa thought we must be in the middle of everything. How did Kavya show him what the balloon says?",
-   "Why didn't the bindis get bigger when the balloon grew? What does that tell us about galaxies?"
+   "Why didn't the bindis get bigger when the balloon grew?",
+   "What did Kavya mean when she said the beginning happened 'here too'?"
   ],
   "art": [
-   "A family lying on a mat on a flat village roof at night, with hills behind and a sky crowded with stars.",
-   "A big square of four stars high in the sky, with a line of two stars from its corner and a faint grey smudge above them.",
-   "Kavya looking up at the smudge, with a long dotted line of light reaching her eye from far away.",
-   "Kavya pointing at bindis on a red balloon while her father holds the balloon and turns it in his hands.",
-   "Kavya alone on the roof at night, looking at the faint smudge, imagining someone far away looking back."
+   "Two children kneeling by an open tin trunk full of old saris and letters on Bhogi morning, one holding an envelope with a telescope drawn on it.",
+   "A woman stirring payasam in a kitchen, laughing as she reads an old letter, while two children watch.",
+   "A family on a city terrace at evening, with temple towers and a rising Moon, and dotted lines of light reaching their faces.",
+   "A girl pointing at bindis on a red balloon while her father holds it and turns it in his hands, with a pongal pot boiling over behind them.",
+   "The girl letting the air out of the balloon, the bindis drawing close together, and her aunt watching from a doorway."
   ]
  },
  "games": [
@@ -704,7 +706,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Show your child the four galaxy pictures in the app. 2. Ask the guess question below. 3. Wait for a guess and a reason.",
+     "do": "1. Show your child the three spiral galaxy pictures in the app. 2. Ask the guess question below. 3. Wait for a guess and a reason.",
      "say": "A spiral galaxy is a flat spinning disc. What shape would it look like if we saw it from the side? Would a ball of stars change shape? Why do you think so?",
      "kid": "A spiral galaxy is a flat disc. What would it look like from the side? Guess. Say why.",
      "ask": [
@@ -798,12 +800,16 @@
  "activities": [
   {
    "id": "a1",
-   "title": "First Look: four galaxies, four shapes",
-   "mins": 10,
+   "title": "A Grain of Sand of Sky: count the galaxies in one tiny patch",
+   "mins": 12,
    "days": 1,
    "materials": [
     {
-     "item": "the four galaxy pictures in the app: the Pinwheel, the Sombrero, M87 and the Large Magellanic Cloud",
+     "item": "the Webb telescope's First Deep Field picture in the app, with a grid of 10 boxes drawn over it",
+     "qty": 1
+    },
+    {
+     "item": "a grain of rice or rava",
      "qty": 1
     },
     {
@@ -815,70 +821,81 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 10,
-     "what": "Look at four galaxies. Say what you notice and what you wonder. Sort them by shape."
+     "mins": 12,
+     "what": "Look at a picture of a tiny patch of sky. Count the galaxies in one box, and work out about how many are in the whole picture."
     }
    ],
-   "record": "Draw the four galaxies quickly, and write one thing you wonder about them.",
+   "record": "Your count for one box, your total for the picture, and one thing you wonder.",
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
-     "do": "1. Show the four pictures. Do not say what they are yet. 2. Ask what your child notices, and what they wonder.",
-     "say": "Look at these four pictures. What do you notice about them? What do you wonder?",
-     "kid": "Look at the four pictures. What do you notice? What do you wonder?",
+     "mins": 3,
+     "do": "1. Show the deep field picture. Do not say what it is yet. 2. Ask what your child notices, and what they wonder.",
+     "say": "Look at this picture of the sky. What do you notice? What do you wonder?",
+     "kid": "Look at this picture of the sky. What do you notice? What do you wonder?",
      "ask": [
       {
        "q": "What do you notice?",
        "good": [
-        "One has curly arms.",
-        "One is a smooth oval.",
-        "One has no shape at all.",
-        "They are all made of lots of dots of light."
+        "Lots of smudges of different shapes.",
+        "Some are spirals and some are just blobs.",
+        "A few bright ones have spikes."
        ]
       }
      ],
      "parent": "Write down what your child wonders. The rest of the unit may answer it.",
-     "context": "This is the first step of the First Look activity. You look at four real galaxies before learning about them."
+     "context": "This is the first step of the Grain of Sand activity. You look at a real photo of a tiny patch of sky before learning about it."
     },
     {
      "id": "s2",
      "mins": 3,
-     "do": "Tell your child what the pictures are. Each one is a whole galaxy, made of billions of stars.",
-     "say": "Each of these is a galaxy, a huge group of billions of stars. Each little dot of light you see is many stars together. Our Sun lives in a galaxy too, called the Milky Way.",
-     "kid": "Each picture is a galaxy. A galaxy is billions of stars together. Our Sun is in one too.",
-     "parent": "The Pinwheel is a spiral seen from the top. The Sombrero is a spiral seen nearly from the side. M87 is a giant elliptical galaxy. The Large Magellanic Cloud is a small irregular galaxy."
+     "do": "1. Tell your child what the picture is. 2. Your child holds a grain of rice at arm's length and looks at the sky past it.",
+     "say": "Almost every smudge here is a whole galaxy, with billions of stars. The bright ones with spikes are stars in our own galaxy. The whole picture shows a piece of sky about as big as a grain of sand held at arm's length.",
+     "kid": "Each smudge is a galaxy. Hold up a rice grain at arm's length. The picture is a piece of sky that small.",
+     "parent": "NASA describes this picture, taken by the Webb telescope in 2022, as covering a piece of sky about the size of a grain of sand held at arm's length. A grain of rice is a little bigger, which is fine for the idea."
     },
     {
      "id": "s3",
-     "mins": 3,
-     "do": "Ask your child to sort the four into groups by shape, and give each group a name.",
-     "say": "Put them into groups by their shape. What would you call each group?",
-     "kid": "Sort them by shape. Give each group a name.",
+     "mins": 4,
+     "do": "1. Your child counts the galaxies in one box of the grid, leaving out the stars with spikes. 2. They multiply by 10 for the whole picture.",
+     "say": "Count the galaxies in just this one box. Don't count the bright ones with spikes. Now there are 10 boxes. About how many galaxies in the whole picture?",
+     "kid": "Count the galaxies in one box. Skip the spiky stars. Now times 10.",
      "check": {
       "t": "mcq",
-      "q": "Which picture has no clear shape?",
+      "q": "Why do we count one box and multiply by 10?",
       "options": [
-       "The Pinwheel",
-       "M87",
-       "The Large Magellanic Cloud"
+       "Because counting every galaxy would take too long",
+       "Because the other boxes are empty",
+       "Because galaxies only live in one box"
       ],
-      "a": 2,
-      "why": "The Large Magellanic Cloud is an irregular galaxy, with no clear shape. The Pinwheel has spiral arms, and M87 is a smooth oval."
+      "a": 0,
+      "why": "Counting one box and multiplying gives a good guess, called an estimate, much faster. It works if the galaxies are spread fairly evenly. Astronomers count galaxies this way too."
      }
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Ask about the smallest, faintest, reddest smudges.",
+     "say": "Some smudges are tiny, faint and red. Why do you think they look like that?",
+     "kid": "Some smudges are tiny, faint and red. Why do you think so?",
+     "parent": "Accept any guess now. The tiny red ones are mostly the furthest away. Their light set off billions of years ago, and on the way it was stretched towards red by the expanding universe. The unit comes back to this."
     }
    ],
    "setup": [
     {
-     "art": "Four galaxy photos laid out on a table: a face-on spiral, an edge-on spiral with a dark band, a smooth yellow oval and a patchy shapeless cloud of stars.",
-     "caption": "1. Look at four galaxies."
+     "art": "A dark picture full of small galaxy smudges of many shapes and colours, with a few bright stars with spikes, and a grid of 10 boxes drawn over it.",
+     "caption": "1. Look at the deep field picture."
     },
     {
-     "art": "A child's hands sorting the four photos into groups, with labels written on scraps of paper.",
-     "caption": "2. Sort them by shape."
+     "art": "A child holding a grain of rice between finger and thumb at arm's length, against the night sky.",
+     "caption": "2. The whole picture is a piece of sky that small."
+    },
+    {
+     "art": "A child's finger pointing into one box of the grid, with tally marks on paper beside the picture.",
+     "caption": "3. Count one box, then multiply by 10."
     }
    ],
-   "context": "This is the First Look activity. You look at four real galaxies and sort them by shape."
+   "context": "This is the Grain of Sand activity. You count galaxies in a real photo of a tiny patch of sky."
   },
   {
    "id": "a2",
@@ -1509,27 +1526,27 @@
   },
   {
    "t": "mcq",
-   "p": "Before 1923, what did many astronomers think the faint spiral smudges in their telescopes were?",
+   "p": "In 1965, Arno Penzias and Robert Wilson heard a faint hiss in their radio antenna. They cleaned out pigeon droppings, but the hiss stayed. What was the hiss?",
    "opts": [
-    "Clouds of gas inside our Milky Way",
-    "Other galaxies",
-    "Planets",
-    "Comets"
+    "A faint glow left over from the hot early universe",
+    "Radio from a nearby city",
+    "The sound of the Sun",
+    "Pigeons nesting in the antenna"
    ],
    "a": 0,
-   "why": "Many thought the Milky Way was the whole universe, and the smudges were clouds inside it. Hubble's measurement of Andromeda in 1923 showed they are other galaxies.",
+   "why": "The hiss came from every direction, day and night. It was the leftover glow from when the whole universe was hot, which Ralph Alpher and Robert Herman had predicted in 1948.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "Henrietta Leavitt's discovery let Edwin Hubble measure how far away Andromeda is. What had she found?",
+   "p": "In 1927, a Belgian physicist and priest said that a growing universe must once have been tiny and hot. Who was he?",
    "opts": [
-    "How long a blinking star takes to blink tells you how bright it really is",
-    "How to build a giant telescope",
-    "That Andromeda is coming towards us"
+    "Georges Lemaître",
+    "Albert Einstein",
+    "Fred Hoyle"
    ],
    "a": 0,
-   "why": "Knowing how bright a star really is, and how faint it looks, tells you how far away it is. Hubble used her rule on a blinking star in Andromeda.",
+   "why": "Georges Lemaître said this first. Einstein thought at first that the universe stays the same size. Fred Hoyle never accepted a beginning.",
    "outcome": 5
   },
   {
@@ -1838,10 +1855,10 @@
     },
     {
      "t": "write",
-     "p": "In 1923, Edwin Hubble found one of Henrietta Leavitt's blinking stars in the Andromeda 'nebula'. It blinked slowly but looked very faint. Why did that show that Andromeda is not part of the Milky Way?",
+     "p": "In 1948, Fred Hoyle said the universe never changes: as galaxies move apart, new matter quietly appears to fill the gaps. Why could his idea not explain the faint glow found in 1965?",
      "lines": 4,
-     "a": "A slow blink meant the star was really very bright. But it looked very faint. A very bright star only looks faint if it is very far away. It was much further away than the edge of the Milky Way, so Andromeda had to be a separate galaxy.",
-     "why": "A strong answer links three steps: slow blink, really bright, looks faint, so very far."
+     "a": "The glow is light left over from a time when the whole universe was hot and packed together. In Hoyle's universe there never was such a time, because it was always the same. So there would be nothing to leave a glow behind.",
+     "why": "A strong answer says what the glow is left over from, and why a never-changing universe has no such time."
     },
     {
      "t": "truefalse",
@@ -1917,7 +1934,7 @@
       ],
       [
        "Edwin Hubble",
-       "that Andromeda is a galaxy far outside the Milky Way"
+       "that far galaxies move away from us faster than near ones"
       ],
       [
        "Georges Lemaître",
@@ -1929,7 +1946,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Each step needed the one before. Hubble could only measure Andromeda's distance because of Leavitt's rule."
+     "why": "Each step needed the one before. Hubble could measure how far away galaxies are because of Leavitt's rule."
     },
     {
      "t": "write",
@@ -1952,21 +1969,21 @@
     },
     {
      "t": "perspective",
-     "p": "In 1920, two astronomers held a famous debate. Nobody could yet measure how far away the spiral smudges in telescopes were.",
+     "p": "In the 1950s, before the faint glow was found, astronomers argued about whether the universe had a beginning. Both sides knew that galaxies are moving apart.",
      "views": [
       {
-       "who": "Harlow Shapley",
-       "says": "The Milky Way is huge, and it is the whole universe. The spiral smudges are small clouds inside it."
+       "who": "Georges Lemaître, a Belgian physicist",
+       "says": "If galaxies are moving apart now, they were closer in the past. Go back far enough and everything was packed together and hot. The universe had a beginning."
       },
       {
-       "who": "Heber Curtis",
-       "says": "The spiral smudges are other galaxies like ours, very far away."
+       "who": "Fred Hoyle, a British astronomer",
+       "says": "Galaxies move apart, but new matter keeps appearing in the gaps, so the universe always looks the same. It needs no beginning."
       }
      ],
-     "ask": "Who would you have agreed with in 1920, before anyone could measure the distance? Give a reason. Then say what Hubble found in 1923, and who it showed was right.",
+     "ask": "Who would you have agreed with in the 1950s, before 1965? Give a reason. Then say what was found in 1965, and which side it helped.",
      "lines": 5,
-     "a": "Either side can be argued in 1920. Shapley had measured that the Milky Way is very big, and a colleague claimed to have seen the smudges spin. Curtis noticed that exploding stars in the smudges looked very faint, as if far away. In 1923 Hubble found a Cepheid in Andromeda and showed it is far outside the Milky Way, so Curtis was right about this.",
-     "why": "This was a real debate between careful scientists. It was settled by a new measurement, made possible by Henrietta Leavitt's work."
+     "a": "Either side can be argued before 1965. Lemaître's idea follows simply from running the stretching backwards. Hoyle's idea avoids a beginning, which many people found hard to accept, and nobody had seen new matter appear, but nobody could have seen so little. In 1965, Penzias and Wilson found the faint glow left from a hot beginning, which helped Lemaître's side.",
+     "why": "This was a real debate between careful scientists. It was settled by a new measurement, not by who argued better."
     },
     {
      "t": "write",
@@ -2546,8 +2563,8 @@
  },
  "sources": {
   "founder": [
-   "ideas/by_topic/story-of-the-universe.md, grade grid 'Expansion of the universe': 'Stretching a rubber band, dots move apart' and 'Rising bread, raisins spread as dough expands' (the Bindi Balloon experiment, the Stretch the Elastic activity and the No Centre challenge); 'No special center, we're not the middle' (the deep truth); 'Nearby friends (like Andromeda) can still move toward us' (the expanding universe card)",
-   "ideas/by_topic/story-of-the-universe.md, grade grid 'Types of galaxies': 'Galaxies are cities of stars. Some look like pinwheels (spiral), some like smooth balls (elliptical), some messy (irregular)' and 'Color tells age (blue = young, red = old)' (the First Look activity, the shapes card and the Old Light game)",
+   "ideas/by_topic/story-of-the-universe.md, grade grid 'Expansion of the universe': 'Stretching a rubber band, dots move apart' and 'Rising bread, raisins spread as dough expands' (the Bindi Balloon experiment, the Stretch the Elastic activity and the No Centre challenge). 'No special center, we're not the middle' (the deep truth). 'Nearby friends (like Andromeda) can still move toward us' (the expanding universe card)",
+   "ideas/by_topic/story-of-the-universe.md, grade grid 'Types of galaxies': 'Galaxies are cities of stars. Some look like pinwheels (spiral), some like smooth balls (elliptical), some messy (irregular)' and 'Color tells age (blue = young, red = old)' (the Tilt the Spiral experiment, the shapes card and the Old Light game)",
    "ideas/by_topic/story-of-the-universe.md, grade grid 'Cosmic microwave background': 'The past leaves fingerprints' (the leftover glow card)"
   ],
   "science": [
@@ -2629,9 +2646,9 @@
  },
  "playtest": "Every experiment, activity, game, project and challenge was walked through as if in a city flat, with the materials listed. The Bindi Balloon was thought through with a standard round party balloon: about 12 cm across when half blown and about 24 cm when nearly full, so gaps of 3, 6 and 9 cm on the fat middle become roughly 6, 12 and 18 cm, a difference a child can measure with thread and a ruler. Bindis are used instead of pen dots because they stay the same size while the rubber stretches, like galaxies. The steps say to keep the bindis away from the neck, where the rubber stretches less, and what to do if the balloon bursts. Tilt the Spiral uses a paper plate and an orange, and the edge-on view is checked by holding the plate at the child's eye height. Stretch the Elastic says that cheap elastic may stretch unevenly, so close results are good enough. Finding Andromeda needs a dark sky, so it is outside the spine and marked for a trip away from city lights. Galaxy Zoo needs a grown-up and the internet, so it is outside the spine too.",
  "how_we_found_out": {
-  "story": "About a hundred years ago, most astronomers thought our Milky Way was the whole universe. The faint spiral smudges seen in telescopes, called spiral nebulae, were thought to be small clouds inside it. Nobody could tell, because nobody could measure how far away they were. Henrietta Swan Leavitt found the way. She worked at Harvard College Observatory in the United States, measuring stars on thousands of glass photographs. She studied Cepheids, stars that get brighter and dimmer in a steady rhythm. In 1912 she showed that the slower a Cepheid blinks, the brighter it really is. So timing its blinks tells you its real brightness, and how faint it looks tells you how far away it is. Leavitt died in 1921. Two years later, Edwin Hubble found a Cepheid in the Andromeda nebula with a big telescope at Mount Wilson in California. Leavitt's rule showed it was far outside the Milky Way. Andromeda was a whole galaxy of its own. In 1929, Hubble showed that far galaxies are moving away from us, the faster the further they are. Georges Lemaître had worked this out in 1927, and he said the universe must once have been tiny and hot.",
-  "who": "Henrietta Swan Leavitt, an American astronomer, Edwin Hubble, an American astronomer, and Georges Lemaître, a Belgian physicist and priest",
-  "when": "1912 (Leavitt's rule), 1923 (Andromeda's distance), 1927 and 1929 (the expanding universe)",
-  "wrong_idea": "Most astronomers thought the Milky Way was the whole universe, and that the spiral smudges were clouds inside it. A Cepheid star in Andromeda, measured with Leavitt's rule, showed Andromeda was a separate galaxy far outside ours."
+  "story": "In 1917, Albert Einstein used his new theory of gravity to describe the whole universe. Like almost everyone then, he thought the universe had always been the same size. His equations said it should grow or shrink, so he added an extra part to hold it still. In 1927, Georges Lemaître, a Belgian physicist and priest, showed that the equations allowed a growing universe, and that measured galaxy speeds suggested it really was growing. In 1929, Edwin Hubble showed that far galaxies move away faster than near ones. Lemaître said that a growing universe must once have been tiny and hot. Many astronomers disliked the idea of a beginning. In 1948, Fred Hoyle, Hermann Bondi and Thomas Gold said new matter keeps appearing as galaxies move apart, so the universe never really changes. The same year, Ralph Alpher and Robert Herman worked out that a hot beginning would leave a faint glow everywhere. In 1965, Arno Penzias and Robert Wilson found a hiss in their radio antenna that came from every direction. They even cleaned pigeon droppings out of the antenna, but the hiss stayed. It was the leftover glow, and the never-changing universe could not explain it.",
+  "who": "Georges Lemaître, a Belgian physicist and priest, Edwin Hubble, an American astronomer, and Arno Penzias and Robert Wilson, American radio astronomers. Albert Einstein and Fred Hoyle held the older idea.",
+  "when": "1917 (Einstein's still universe), 1927 and 1929 (the growing universe), 1948 (the steady state idea and the predicted glow), 1965 (the glow is found)",
+  "wrong_idea": "Most scientists, Einstein among them at first, thought the universe had always existed and stayed the same. The steady state idea kept this even after galaxies were found to move apart. The leftover glow, found in 1965, showed the universe really had a hot beginning."
  }
 }
