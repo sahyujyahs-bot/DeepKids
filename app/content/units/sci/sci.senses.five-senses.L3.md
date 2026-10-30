@@ -947,7 +947,7 @@ The World Comes In (sci.senses.L3): Topic-level song
 
 ## Links
 - [Neuroscience for Kids](https://faculty.washington.edu/chudler/neurok.html) · interactive: A free website by a brain scientist, Eric Chudler, with simple experiments and games about every sense.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum in San Francisco. Search for afterimages, hearing and touch. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum in San Francisco. Search for afterimages, hearing and touch.
 - [National Science Centre](https://nscd.gov.in) · place · New Delhi: A big science museum with galleries about the human body and the senses.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with many hands-on exhibits, including illusions that fool your senses.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum with galleries on the human body, sound and light.

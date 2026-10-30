@@ -1011,7 +1011,7 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 ## Links
 - [PhET Energy Forms and Changes](https://phet.colorado.edu/en/simulations/energy-forms-and-changes) · simulation: A free online game. Heat blocks of iron, brick and water, and watch heat flow between them at different speeds. A good follow-up to the feely bag test of warm and cold things.
 - [PhET Density](https://phet.colorado.edu/en/simulations/density) · simulation: A free online game. Drop blocks of different materials into water and see which float. Change the mass and the size and see what changes.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum in San Francisco. Search for materials, light and heat. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum in San Francisco. Search for materials, light and heat.
 - [Science Buddies](https://www.sciencebuddies.org/) · interactive: Step-by-step project ideas, including tests of paper strength and absorbency, for older children.
 - [The Institute of Making, University College London](https://www.instituteofmaking.org.uk/) · interactive: A real university library of materials, started by materials scientist Mark Miodownik. The website shows some of the strange and wonderful materials inside.
 - [The Materials Project](https://materialsproject.org/) · interactive: A free database where scientists store computed properties of tens of thousands of materials. For curious older children and parents, to see how scientists guess properties before making a material.

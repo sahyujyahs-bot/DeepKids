@@ -427,7 +427,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
   *Parent does:* 1. Stand face to face. 2. One person leads with slow moves: lifting a hand, tilting the head, touching an ear. 3. The other copies, like a mirror. 4. Swap after one minute.  
   *Parent says:* You are my mirror. Whatever I do, you do, at the same time. Go slowly, so the mirror can keep up.  
   *Child mode:* Face your partner. They move slowly. You copy, like a mirror. Then swap.
-  - Note: This is from the founder's notes: children love the mimic game. Keep it slow and silent. Then ask the question in the next step.
+  - Note: Keep it slow and silent. Then ask the question in the next step.
 - **s2 (5 min)**  
   *Parent does:* Raise your right hand. Watch which hand the mirror twin raises.  
   *Parent says:* I raised my right hand. Which hand did you raise? Is it on the same side of the room as mine?  
@@ -517,7 +517,7 @@ The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the
   *Parent does:* 1. Hold a hand mirror facing the wall mirror, a little apart. 2. Put a small toy or a lit torch between them. 3. Your child peeks over the edge and counts the copies.  
   *Parent says:* Count the images. Keep going as far as you can. The longer you count, the better!  
   *Child mode:* Hold a mirror facing the big mirror. Peek over the top. Count the images. How far can you go?
-  - Note: This is the founder's 'infinite reflections' game. Make it a race: who can count the most?
+  - Note: Make it a race: who can count the most?
 - **s2 (5 min)**  
   *Parent does:* Look closely at the farthest images.  
   *Parent says:* Are the far images as bright as the near ones? What colour are they?  

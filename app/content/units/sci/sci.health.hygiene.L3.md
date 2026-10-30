@@ -785,7 +785,7 @@ Clean, Strong and Happy (sci.health.L3): Topic-level song
 - [World Health Organization: hand hygiene](https://www.who.int/) · interactive: The WHO's pages show the steps of hand-washing in pictures. Search the site for 'hand hygiene'.
 - [Global Handwashing Partnership](https://globalhandwashing.org/) · interactive: The group behind Global Handwashing Day, every 15 October. It has ideas and posters for families and schools.
 - [Learn.Genetics: Cell Size and Scale](https://learn.genetics.utah.edu/content/cells/scale/) · interactive: A free slider that zooms from a grain of rice down to a bacterium and a virus. It shows just how small germs are.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free hands-on activities from a science museum in San Francisco. Search for soap and bubbles. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free hands-on activities from a science museum in San Francisco. Search for soap and bubbles.
 - [Swachh Bharat Mission](https://swachhbharatmission.gov.in/) · interactive: India's mission, begun in 2014, to build toilets and keep towns clean. Look at the pictures of what changed.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits. Look for exhibits about the human body and health.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum. Look for its galleries on biology and the human body.

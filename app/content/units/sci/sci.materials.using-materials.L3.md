@@ -844,7 +844,7 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 
 ## Links
 - [National Innovation Foundation India](https://nif.org.in) · interactive: India's foundation for grassroots inventors, people like the potter Mansukhbhai Prajapati, who made the Mitticool clay fridge. Search its site for inventions made from everyday materials.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for heat, insulation and materials. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for heat, insulation and materials.
 - [Science Buddies](https://www.sciencebuddies.org/) · interactive: Step-by-step science project ideas, including insulation and packaging projects, for older children.
 - [Institute of Making](https://www.instituteofmaking.org.uk) · interactive: A materials library in London started by the scientist Mark Miodownik. Its website shows strange and wonderful materials and what they are used for.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum with galleries on engines, metals and machines. Look for which materials each machine uses, and why.

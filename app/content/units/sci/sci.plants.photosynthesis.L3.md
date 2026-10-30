@@ -938,7 +938,7 @@ Green and Growing (sci.plants.L3): Topic-level song for Plants L3
 - [NASA Earth Observatory](https://earthobservatory.nasa.gov/) · interactive: Satellite pictures of the green of the land and the sea. Search for chlorophyll or phytoplankton to see photosynthesis from space.
 - [NASA Climate Kids](https://climatekids.nasa.gov/) · interactive: Short, child-friendly pages about the carbon cycle, plants and the air.
 - [Science Buddies](https://www.sciencebuddies.org/) · interactive: Step-by-step projects, including the floating leaf disc experiment. Search for leaf disk.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum. On the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum. On the DeepKids list of STEM websites.
 - [Acharya Jagadish Chandra Bose Indian Botanic Garden]() · place · Howrah, near Kolkata: A huge old botanic garden, home of the Great Banyan tree. Ask: what is this giant tree made of?
 - [Lalbagh Botanical Garden]() · place · Bengaluru: Old trees from many countries and a glasshouse. Look for leaves of every shape catching the light.
 - [Bose Institute](https://www.jcbose.ac.in/) · place · Kolkata: The research institute founded by Jagadish Chandra Bose, who measured plants with great care and wrote a book on photosynthesis in 1924. It has a museum about his work.

@@ -922,8 +922,8 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
 Green and Growing (sci.plants.L3): Topic-level song for Plants L3
 
 ## Links
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for plants, capillary action and surface tension. It is on the founder's list of STEM websites.
-- [Science Buddies](https://www.sciencebuddies.org/) · interactive: Step-by-step science project ideas, including coloured flowers and transpiration projects, for older children. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for plants, capillary action and surface tension.
+- [Science Buddies](https://www.sciencebuddies.org/) · interactive: Step-by-step science project ideas, including coloured flowers and transpiration projects, for older children.
 - [BBC Bitesize](https://www.bbc.co.uk/bitesize) · interactive: Short, clear pages and clips for primary children. Search for 'how plants take in water'.
 - [Royal Botanic Gardens, Kew](https://www.kew.org/) · interactive: The website of a great plant science garden in London, with articles on how plants work and why forests matter.
 - [Acharya Jagadish Chandra Bose Indian Botanic Garden](https://bsi.gov.in/) · place · Howrah, near Kolkata: Home of the Great Banyan, a tree over 250 years old. Their hanging roots became hundreds of trunks, each one carrying water up. The garden is looked after by the Botanical Survey of India.

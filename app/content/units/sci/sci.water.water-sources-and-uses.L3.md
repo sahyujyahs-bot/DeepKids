@@ -942,7 +942,7 @@ Where the Water Goes (sci.water.L3): Topic-level song for Water L3
 - [USGS Water Science School](https://www.usgs.gov/special-topics/water-science-school) · interactive: Clear pages and pictures about groundwater, wells and the water cycle, from the United States' science agency.
 - [NASA GRACE mission](https://grace.jpl.nasa.gov) · interactive: About the twin satellites that weighed the world's water with gravity, including India's groundwater.
 - [Centre for Science and Environment](https://www.cseindia.org) · interactive: An Indian group that has written a lot about rainwater harvesting, and about old ways of storing water. It is also the publisher of a well-known book on India's traditional water systems, 'Dying Wisdom'.
-- [Exploratorium Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum. Search for water. It is on the founder's list of STEM websites.
+- [Exploratorium Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum. Search for water.
 - [Rani ki Vav, the Queen's Stepwell](https://whc.unesco.org) · place · Patan, Gujarat: A stepwell built nearly 1,000 years ago under Queen Udayamati, with seven levels of carved stone. It is a UNESCO World Heritage Site. Search the UNESCO site for Rani-ki-Vav.
 - [Chand Baori stepwell]() · place · Abhaneri, near Jaipur, Rajasthan: One of the deepest stepwells in India, with about 3,500 steps in a zigzag pattern.
 - [Agrasen ki Baoli]() · place · New Delhi: An old stepwell right in the middle of the city, near Connaught Place.

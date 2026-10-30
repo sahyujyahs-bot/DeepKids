@@ -1,6 +1,9 @@
 {
  "key": "combined|sci|3|gravity",
- "board": "combined", "subj": "sci", "level": 3, "n": "gravity",
+ "board": "combined",
+ "subj": "sci",
+ "level": 3,
+ "n": "gravity",
  "title": "Gravity: every object attracts every other object",
  "source": "DeepKids Combined rung, built on the DeepKids founder's gravity notes and Escape Gravity force cards. No board teaches gravity on its own at Class 3; this rung prepares for Cambridge Stage 5 (gravity, normal forces, satellites). No textbook needed.",
  "summary": "You are pulling the Earth right now, and the Earth is pulling you. Every object attracts every other object. Bigger objects pull harder, and the pull gets weaker with distance. Your child finds out that the ground pushes them up all day (the normal force), and that a bathroom scale measures that push, not gravity. They learn that astronauts float because they are falling, not because gravity has gone. They model gravity with a bedsheet, find the point where two pulls cancel, find their centre of gravity, and meet the Moon's pull on the sea.",
@@ -31,182 +34,1126 @@
   "By the end your child can name an Indian thinker and a forgotten English scientist who wrote about gravity before Newton, and say what each really claimed."
  ],
  "words": [
-  ["gravity", "the force by which every object attracts every other object"],
-  ["mass", "how much stuff something is made of"],
-  ["normal force", "the push back from a surface you press on; it comes from atoms pushing apart"],
-  ["atom", "one of the tiny bits that everything is made of, far too small to see"],
-  ["model", "a simple thing we make to help us think about something real"],
-  ["space-time", "the space all around us, together with time; Einstein showed it can curve"],
-  ["Lagrange point", "a place between two pulling bodies where their pulls cancel"],
-  ["centre of gravity", "the point where all of an object's weight seems to act"],
-  ["free fall", "falling with nothing holding you up, so you feel weightless"],
-  ["orbit", "the path of something that keeps falling round another body and missing it"],
-  ["tide", "the rise and fall of the sea, mostly caused by the Moon's pull"],
-  ["gravitas", "the quiet weight a person can have, from the Latin word gravis, heavy"]
+  [
+   "gravity",
+   "the force by which every object attracts every other object"
+  ],
+  [
+   "mass",
+   "how much stuff something is made of"
+  ],
+  [
+   "normal force",
+   "the push back from a surface you press on; it comes from atoms pushing apart"
+  ],
+  [
+   "atom",
+   "one of the tiny bits that everything is made of, far too small to see"
+  ],
+  [
+   "model",
+   "a simple thing we make to help us think about something real"
+  ],
+  [
+   "space-time",
+   "the space all around us, together with time; Einstein showed it can curve"
+  ],
+  [
+   "Lagrange point",
+   "a place between two pulling bodies where their pulls cancel"
+  ],
+  [
+   "centre of gravity",
+   "the point where all of an object's weight seems to act"
+  ],
+  [
+   "free fall",
+   "falling with nothing holding you up, so you feel weightless"
+  ],
+  [
+   "orbit",
+   "the path of something that keeps falling round another body and missing it"
+  ],
+  [
+   "tide",
+   "the rise and fall of the sea, mostly caused by the Moon's pull"
+  ],
+  [
+   "gravitas",
+   "the quiet weight a person can have, from the Latin word gravis, heavy"
+  ]
  ],
  "day_mins": 40,
  "days": [
-  {"n": 1, "title": "Which way is down?", "goal": "Recall what we know about falling, hear the story, and find out that down means towards the middle of the Earth.",
+  {
+   "n": 1,
+   "title": "Which way is down?",
+   "goal": "Recall what we know about falling, hear the story, and find out that down means towards the middle of the Earth.",
    "steps": [
-    {"kind": "warmup", "title": "What do we already know?", "mins": 6, "do": "Ask: 'What pulls a mango down from a tree?' (The Earth's pull, gravity.) 'Do heavy things fall faster than light ones?' (No, not without air: a scrunched paper ball and a coin land together.) 'What's your mass, and what's your weight?' (Mass is how much of you; weight is how hard the Earth pulls you.) Drop a spoon, a ball and a leaf to remind them, and ask: 'Which one did the air slow down?'"},
-    {"kind": "read", "title": "Story: The Dust That Fell for Four Billion Years", "mins": 12, "do": "Read the story aloud. Don't explain it. Ask two story questions: 'Why did the dust keep going in a straight line for so long?' and 'The dust said nobody was pulling it. What do you think it meant?' Accept any answers; you'll come back to them on Day 3."},
-    {"kind": "do", "title": "How high can you jump?", "mins": 10, "do": "Stick a strip of paper on a wall. Your child jumps and touches it as high as they can; mark the spot. Ask: 'Why can't you jump higher? What brought you down?' (The Earth's pull.) Then set a puzzle: 'Make this pencil float in the air, all by itself, using nothing else at all.' Let them try for two minutes. Ask: 'Why is it impossible?' (Nothing is holding it up, so gravity always wins.) 'How do birds and balloons do it?' (They push on the air, and the air pushes them up. They haven't escaped gravity.)"},
-    {"kind": "think", "title": "People all round the ball", "mins": 12, "do": "Draw a big circle for the Earth. Draw a child standing on top (India), one at the bottom (Chile or Argentina), one on each side. Ask: 'Why doesn't the child at the bottom fall off?' Many children think they would. Draw an arrow from each child pointing to the centre of the circle. Say: 'Down doesn't mean the bottom of the page. Down means towards the middle of the Earth. For people in Chile, down is nearly the opposite way from ours, and they stand as easily as we do.' Ask: 'If you dug a hole straight down from here, where would you come out?' (In the Pacific Ocean, west of South America. Nobody could really dig so deep.)"}
-   ], "need": ["a spoon, a ball, a leaf, a paper ball and a coin", "a strip of paper and tape", "a pencil", "a big sheet of paper"]},
-  {"n": 2, "title": "Everything pulls everything", "goal": "Build the space blanket and find out that bigger things pull more and far things pull less.",
+    {
+     "kind": "warmup",
+     "title": "What do we already know?",
+     "mins": 6,
+     "do": "Ask: 'What pulls a mango down from a tree?' (The Earth's pull, gravity.) 'Do heavy things fall faster than light ones?' (No, not without air: a scrunched paper ball and a coin land together.) 'What's your mass, and what's your weight?' (Mass is how much of you; weight is how hard the Earth pulls you.) Drop a spoon, a ball and a leaf to remind them, and ask: 'Which one did the air slow down?'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Dust That Fell for Four Billion Years",
+     "mins": 12,
+     "do": "Read the story aloud. Don't explain it. Ask two story questions: 'Why did the dust keep going in a straight line for so long?' and 'The dust said nobody was pulling it. What do you think it meant?' Accept any answers; you'll come back to them on Day 3."
+    },
+    {
+     "kind": "do",
+     "title": "How high can you jump?",
+     "mins": 10,
+     "do": "Stick a strip of paper on a wall. Your child jumps and touches it as high as they can; mark the spot. Ask: 'Why can't you jump higher? What brought you down?' (The Earth's pull.) Then set a puzzle: 'Make this pencil float in the air, all by itself, using nothing else at all.' Let them try for two minutes. Ask: 'Why is it impossible?' (Nothing is holding it up, so gravity always wins.) 'How do birds and balloons do it?' (They push on the air, and the air pushes them up. They haven't escaped gravity.)"
+    },
+    {
+     "kind": "think",
+     "title": "People all round the ball",
+     "mins": 12,
+     "do": "Draw a big circle for the Earth. Draw a child standing on top (India), one at the bottom (Chile or Argentina), one on each side. Ask: 'Why doesn't the child at the bottom fall off?' Many children think they would. Draw an arrow from each child pointing to the centre of the circle. Say: 'Down doesn't mean the bottom of the page. Down means towards the middle of the Earth. For people in Chile, down is nearly the opposite way from ours, and they stand as easily as we do.' Ask: 'If you dug a hole straight down from here, where would you come out?' (In the Pacific Ocean, west of South America. Nobody could really dig so deep.)"
+    }
+   ],
+   "need": [
+    "a spoon, a ball, a leaf, a paper ball and a coin",
+    "a strip of paper and tape",
+    "a pencil",
+    "a big sheet of paper"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Everything pulls everything",
+   "goal": "Build the space blanket and find out that bigger things pull more and far things pull less.",
    "steps": [
-    {"kind": "warmup", "title": "Who pulls whom?", "mins": 5, "do": "Say pairs, and your child says who pulls whom: the Earth and you? (Both pull each other.) You and the Moon? (Both.) You and your sister? (Both, a tiny bit!) Say: 'Every object attracts every other object. Attract means pulls towards itself. You are pulling the Earth right now. The Earth hardly moves because it is so much bigger than you.'"},
-    {"kind": "exp", "title": "The space blanket", "mins": 20, "do": "Do Experiment e1. Four people hold a bedsheet stretched flat. Place a heavy ball in the middle and watch the dent. Roll marbles past it: near ones curve in and fall towards it, far ones barely bend. Then add a second, lighter ball and two equal balls. Ask: 'Which ball makes the deepest dent? Which marbles got caught?' (The heavy ball; the ones that came close.)", "ref": "e1"},
-    {"kind": "talk", "title": "Einstein's idea, and what's wrong with our blanket", "mins": 10, "do": "Talk about voice v3. Say: 'Einstein said heavy things bend the space around them, like the ball bends the sheet, and other things roll along the bend. That is what we feel as falling.' Then ask the hard question: 'What made the ball sink into the sheet in the first place?' (Earth's gravity! So the blanket uses gravity to explain gravity.) 'Is real space flat like a sheet?' (No, it's all around us in every direction, so the dent goes in all directions at once, towards the centre.) Say: 'A model helps us think, but it is never the real thing.'", "ref": "v3"},
-    {"kind": "act", "title": "Earth and Moon dance", "mins": 5, "do": "Put on slow music. Hold both your child's hands, and both lean back a little. Turn slowly round together, like the Earth and the Moon. Ask: 'Who moved in the bigger circle?' (The child. The heavier person moves in a smaller circle.) Say: 'The Earth and the Moon do the same. Both go round a point between them. That point is inside the Earth, because the Earth is so much heavier.'"}
-   ], "need": ["a bedsheet", "four people (or tie two corners to chairs)", "a heavy ball (cricket ball, orange, or steel ball) and a lighter ball", "marbles", "music"]},
-  {"n": 3, "title": "Gravity uses no energy", "goal": "Find out that gravity takes no effort, and find the point where two pulls cancel.",
+    {
+     "kind": "warmup",
+     "title": "Who pulls whom?",
+     "mins": 5,
+     "do": "Say pairs, and your child says who pulls whom: the Earth and you? (Both pull each other.) You and the Moon? (Both.) You and your sister? (Both, a tiny bit!) Say: 'Every object attracts every other object. Attract means pulls towards itself. You are pulling the Earth right now. The Earth hardly moves because it is so much bigger than you.'"
+    },
+    {
+     "kind": "exp",
+     "title": "The space blanket",
+     "mins": 20,
+     "do": "Do Experiment e1. Four people hold a bedsheet stretched flat. Place a heavy ball in the middle and watch the dent. Roll marbles past it: near ones curve in and fall towards it, far ones barely bend. Then add a second, lighter ball and two equal balls. Ask: 'Which ball makes the deepest dent? Which marbles got caught?' (The heavy ball; the ones that came close.)",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "Einstein's idea, and what's wrong with our blanket",
+     "mins": 10,
+     "do": "Talk about voice v3. Say: 'Einstein said heavy things bend the space around them, like the ball bends the sheet, and other things roll along the bend. That is what we feel as falling.' Then ask the hard question: 'What made the ball sink into the sheet in the first place?' (Earth's gravity! So the blanket uses gravity to explain gravity.) 'Is real space flat like a sheet?' (No, it's all around us in every direction, so the dent goes in all directions at once, towards the centre.) Say: 'A model helps us think, but it is never the real thing.'",
+     "ref": "v3"
+    },
+    {
+     "kind": "act",
+     "title": "Earth and Moon dance",
+     "mins": 5,
+     "do": "Put on slow music. Hold both your child's hands, and both lean back a little. Turn slowly round together, like the Earth and the Moon. Ask: 'Who moved in the bigger circle?' (The child. The heavier person moves in a smaller circle.) Say: 'The Earth and the Moon do the same. Both go round a point between them. That point is inside the Earth, because the Earth is so much heavier.'"
+    }
+   ],
+   "need": [
+    "a bedsheet",
+    "four people (or tie two corners to chairs)",
+    "a heavy ball (cricket ball, orange, or steel ball) and a lighter ball",
+    "marbles",
+    "music"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Gravity uses no energy",
+   "goal": "Find out that gravity takes no effort, and find the point where two pulls cancel.",
    "steps": [
-    {"kind": "act", "title": "Tug of war: who gets tired?", "mins": 10, "do": "Play a slow tug of war with a thin towel for one full minute. Ask: 'Are your arms tired? Did pulling use up your energy?' (Yes.) Then ask: 'The Earth has held the Moon for more than four billion years. Is the Earth tired? Is it using up energy?' (No.) Say: 'Gravity is not like a tug of war. The Earth uses up no energy to hold the Moon. Einstein explained it like this: a big mass bends the space around it, and things move along the bend, like the marbles on our sheet. That is what the dust in the story meant when it said nobody was pulling it.'"},
-    {"kind": "exp", "title": "Find the Lagrange point", "mins": 15, "do": "Do Experiment e2: your child stands between two people, the 'planets', who pull gently on towels tied loosely to the child's wrists. Each planet pulls harder when the child is nearer, like gravity. Find the place where the pulls cancel. Then one planet pulls harder at every distance (a bigger planet). Find the new still point. Ask: 'Is the still point nearer the big planet or the small one?' (Nearer the small one.)", "ref": "e2"},
-    {"kind": "do", "title": "The still point on the blanket", "mins": 8, "do": "Hold the sheet again with two balls on it, a heavy one and a light one, a little apart. Try to place a marble on the ridge between the two dents so it doesn't roll either way. Ask: 'Is it easy to keep it there?' (No, it slips off with the smallest nudge.) Say: 'Scientists send spacecraft to points like this between the Sun and the Earth. They called them Lagrange points, after the mathematician Joseph-Louis Lagrange.'"},
-    {"kind": "review", "title": "Back to the story", "mins": 7, "do": "Reread the paragraph of the story where the dust says nobody is pulling it. Ask: 'Now what do you think it meant?' Then ask: 'If the Earth isn't doing anything, why do you fall when you trip?' (You move along the bend in space until the ground stops you.)"}
-   ], "need": ["two thin cotton towels (thorthu) or dupattas", "two grown-ups or older children", "the bedsheet, two balls and a marble"]},
-  {"n": 4, "title": "Why don't we fall through the floor?", "goal": "Discover the normal force: the ground's atoms push back, and the scale measures that push.",
+    {
+     "kind": "act",
+     "title": "Tug of war: who gets tired?",
+     "mins": 10,
+     "do": "Play a slow tug of war with a thin towel for one full minute. Ask: 'Are your arms tired? Did pulling use up your energy?' (Yes.) Then ask: 'The Earth has held the Moon for more than four billion years. Is the Earth tired? Is it using up energy?' (No.) Say: 'Gravity is not like a tug of war. The Earth uses up no energy to hold the Moon. Einstein explained it like this: a big mass bends the space around it, and things move along the bend, like the marbles on our sheet. That is what the dust in the story meant when it said nobody was pulling it.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Find the Lagrange point",
+     "mins": 15,
+     "do": "Do Experiment e2: your child stands between two people, the 'planets', who pull gently on towels tied loosely to the child's wrists. Each planet pulls harder when the child is nearer, like gravity. Find the place where the pulls cancel. Then one planet pulls harder at every distance (a bigger planet). Find the new still point. Ask: 'Is the still point nearer the big planet or the small one?' (Nearer the small one.)",
+     "ref": "e2"
+    },
+    {
+     "kind": "do",
+     "title": "The still point on the blanket",
+     "mins": 8,
+     "do": "Hold the sheet again with two balls on it, a heavy one and a light one, a little apart. Try to place a marble on the ridge between the two dents so it doesn't roll either way. Ask: 'Is it easy to keep it there?' (No, it slips off with the smallest nudge.) Say: 'Scientists send spacecraft to points like this between the Sun and the Earth. They called them Lagrange points, after the mathematician Joseph-Louis Lagrange.'"
+    },
+    {
+     "kind": "review",
+     "title": "Back to the story",
+     "mins": 7,
+     "do": "Reread the paragraph of the story where the dust says nobody is pulling it. Ask: 'Now what do you think it meant?' Then ask: 'If the Earth isn't doing anything, why do you fall when you trip?' (You move along the bend in space until the ground stops you.)"
+    }
+   ],
+   "need": [
+    "two thin cotton towels (thorthu) or dupattas",
+    "two grown-ups or older children",
+    "the bedsheet, two balls and a marble"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Why don't we fall through the floor?",
+   "goal": "Discover the normal force: the ground's atoms push back, and the scale measures that push.",
    "steps": [
-    {"kind": "warmup", "title": "Push the wall, the cushion, the water", "mins": 5, "do": "Your child presses a hand on a wall, a cushion and the water in a bucket. Ask: 'Which one did your hand go into? Which one stopped it?' Say: 'When your atoms come close to the wall's atoms, they push each other apart. The wall's atoms are packed tight, so they push back hard. That push is called the normal force.'"},
-    {"kind": "act", "title": "Catch a falling friend", "mins": 8, "do": "Do Activity a1: your child stands with their back to you, stiff as a plank, and falls back a short way into your hands. Ask: 'When I caught you, what did my hands do?' (They pushed me up.) 'Without my hands, where would you have gone?' (Down to the floor, and the floor would have stopped me.) Swap roles only as step 5 of the activity says.", "ref": "a1"},
-    {"kind": "exp", "title": "What does a scale measure?", "mins": 15, "do": "Do Experiment e3 with a bathroom scale: stand still, lift one leg, push down on a table, bend the knees fast, and hold a heavy bag. Ask after each: 'Did you get heavier or lighter? Did the amount of you change?' (No!) Say: 'The scale cannot feel gravity. It feels how hard you press on it and pushes back the same. That's the normal force, and that's the number it shows.'", "ref": "e3"},
-    {"kind": "talk", "title": "A planet with no ground", "mins": 12, "do": "Ask: 'What if there were no ground? Where would you fall to?' (Towards the centre of the Earth.) Say: 'Jupiter is a giant ball of gas. There's no ground at all to stand on, so you would keep sinking into thicker, hotter gas.' Draw two pictures: a child on the Earth with two equal arrows (gravity down, ground pushes up), and a child sinking into Jupiter with a big down arrow and only a small push up from the gas. Ask: 'Which picture is balanced?'"}
-   ], "need": ["a bucket of water", "a cushion", "a bathroom scale", "a heavy bag"]},
-  {"n": 5, "title": "Floating and falling", "goal": "Find out that falling together feels like floating, and that the Moon and the space station are always falling.",
+    {
+     "kind": "warmup",
+     "title": "Push the wall, the cushion, the water",
+     "mins": 5,
+     "do": "Your child presses a hand on a wall, a cushion and the water in a bucket. Ask: 'Which one did your hand go into? Which one stopped it?' Say: 'When your atoms come close to the wall's atoms, they push each other apart. The wall's atoms are packed tight, so they push back hard. That push is called the normal force.'"
+    },
+    {
+     "kind": "act",
+     "title": "Catch a falling friend",
+     "mins": 8,
+     "do": "Do Activity a1: your child stands with their back to you, stiff as a plank, and falls back a short way into your hands. Ask: 'When I caught you, what did my hands do?' (They pushed me up.) 'Without my hands, where would you have gone?' (Down to the floor, and the floor would have stopped me.) Swap roles only as step 5 of the activity says.",
+     "ref": "a1"
+    },
+    {
+     "kind": "exp",
+     "title": "What does a scale measure?",
+     "mins": 15,
+     "do": "Do Experiment e3 with a bathroom scale: stand still, lift one leg, push down on a table, bend the knees fast, and hold a heavy bag. Ask after each: 'Did you get heavier or lighter? Did the amount of you change?' (No!) Say: 'The scale cannot feel gravity. It feels how hard you press on it and pushes back the same. That's the normal force, and that's the number it shows.'",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "A planet with no ground",
+     "mins": 12,
+     "do": "Ask: 'What if there were no ground? Where would you fall to?' (Towards the centre of the Earth.) Say: 'Jupiter is a giant ball of gas. There's no ground at all to stand on, so you would keep sinking into thicker, hotter gas.' Draw two pictures: a child on the Earth with two equal arrows (gravity down, ground pushes up), and a child sinking into Jupiter with a big down arrow and only a small push up from the gas. Ask: 'Which picture is balanced?'"
+    }
+   ],
+   "need": [
+    "a bucket of water",
+    "a cushion",
+    "a bathroom scale",
+    "a heavy bag"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Floating and falling",
+   "goal": "Find out that falling together feels like floating, and that the Moon and the space station are always falling.",
    "steps": [
-    {"kind": "exp", "title": "The falling bottle", "mins": 13, "do": "Do Experiment e4 in the bathroom over a bucket: a bottle with holes squirts water; drop it and the squirting stops while it falls. Ask: 'Why did the water stop squirting?' (The water and the bottle fall together, so the water isn't pressing on the holes.) Say: 'Things that fall together don't push on each other. They feel weightless.'", "ref": "e4"},
-    {"kind": "talk", "title": "Why astronauts float", "mins": 12, "do": "Show a picture or short video of astronauts floating in the International Space Station. Ask: 'Is there no gravity up there?' Most people say no gravity. Say: 'The station is only about 400 km up. Gravity there is still about nine tenths as strong as here. The astronauts float because the station and everything in it are falling together, like our bottle. So the floor never pushes on their feet. No normal force, so they feel weightless.' Ask: 'Then why doesn't the station hit the ground?' (Keep this question for the next step.) Read the Kalpana Chawla perspective aloud."},
-    {"kind": "exp", "title": "Falling round and missing", "mins": 15, "do": "Do Experiment e5: whirl a soft sock-ball on a string round your head (in a clear room with the fan off, away from people), then a hula hoop round your waist. Ask: 'What's pulling the ball in?' (The string.) 'What happens if I let go?' (It flies off in a straight line.) Say: 'For the Moon and the space station, gravity is the string. They are moving sideways very fast, the station about 7.7 km every second, and as they fall, the round Earth curves away under them. So they fall all the time and keep missing. That's an orbit.'", "ref": "e5"}
-   ], "need": ["a plastic bottle, a pin or nail to make holes (grown-up), water, a bucket or outdoor space", "a photo or video of astronauts on the ISS", "a soft ball in a sock tied to a string", "a hula hoop if you have one"]},
-  {"n": 6, "title": "Centre of gravity and balance", "goal": "Find the centre of gravity of things and of your own body.",
+    {
+     "kind": "exp",
+     "title": "The falling bottle",
+     "mins": 13,
+     "do": "Do Experiment e4 in the bathroom over a bucket: a bottle with holes squirts water; drop it and the squirting stops while it falls. Ask: 'Why did the water stop squirting?' (The water and the bottle fall together, so the water isn't pressing on the holes.) Say: 'Things that fall together don't push on each other. They feel weightless.'",
+     "ref": "e4"
+    },
+    {
+     "kind": "talk",
+     "title": "Why astronauts float",
+     "mins": 12,
+     "do": "Show a picture or short video of astronauts floating in the International Space Station. Ask: 'Is there no gravity up there?' Most people say no gravity. Say: 'The station is only about 400 km up. Gravity there is still about nine tenths as strong as here. The astronauts float because the station and everything in it are falling together, like our bottle. So the floor never pushes on their feet. No normal force, so they feel weightless.' Ask: 'Then why doesn't the station hit the ground?' (Keep this question for the next step.) Read the Kalpana Chawla perspective aloud."
+    },
+    {
+     "kind": "exp",
+     "title": "Falling round and missing",
+     "mins": 15,
+     "do": "Do Experiment e5: whirl a soft sock-ball on a string round your head (in a clear room with the fan off, away from people), then a hula hoop round your waist. Ask: 'What's pulling the ball in?' (The string.) 'What happens if I let go?' (It flies off in a straight line.) Say: 'For the Moon and the space station, gravity is the string. They are moving sideways very fast, the station about 7.7 km every second, and as they fall, the round Earth curves away under them. So they fall all the time and keep missing. That's an orbit.'",
+     "ref": "e5"
+    }
+   ],
+   "need": [
+    "a plastic bottle, a pin or nail to make holes (grown-up), water, a bucket or outdoor space",
+    "a photo or video of astronauts on the ISS",
+    "a soft ball in a sock tied to a string",
+    "a hula hoop if you have one"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Centre of gravity and balance",
+   "goal": "Find the centre of gravity of things and of your own body.",
    "steps": [
-    {"kind": "warmup", "title": "Tree pose", "mins": 6, "do": "Your child stands in tree pose (vrikshasana), then in a one-leg 'aeroplane' with arms out. Ask: 'Where must your weight be to stay up?' (Right above the foot on the ground.) Say: 'All your weight acts as if it is at one point, your centre of gravity. You balance when that point is right above what holds you up.'"},
-    {"kind": "act", "title": "The balancing bird", "mins": 14, "do": "Do Activity a2: cut out a card bird, tape a coin under each wingtip, and balance it by its beak on a fingertip. Ask: 'Why doesn't it fall forwards?' (The coins pull the centre of gravity down and back, right under the beak.)", "ref": "a2"},
-    {"kind": "do", "title": "The chair challenge", "mins": 8, "do": "Your child sits on a chair with their back straight against it and feet flat, arms folded. Ask them to stand up without leaning forward or moving their feet under the chair. (They can't!) Ask: 'Why not?' (Your centre of gravity is over the chair, not over your feet. You have to lean forward to bring it over your feet.) Try with a grown-up too."},
-    {"kind": "ws", "title": "Stretch worksheet", "mins": 12, "do": "Do Worksheet ws2: force diagrams for standing, floating, falling and orbiting, the scale puzzles and the balancing questions.", "ref": "ws2"}
-   ], "need": ["thin card, scissors, two ₹1 coins, tape", "a straight-backed chair", "worksheet ws2"]},
-  {"n": 7, "title": "The Moon and the sea, and the oldest ideas", "goal": "Meet the Moon's pull on the sea, weigh up old ideas about gravity, and play Escape Gravity.",
+    {
+     "kind": "warmup",
+     "title": "Tree pose",
+     "mins": 6,
+     "do": "Your child stands in tree pose (vrikshasana), then in a one-leg 'aeroplane' with arms out. Ask: 'Where must your weight be to stay up?' (Right above the foot on the ground.) Say: 'All your weight acts as if it is at one point, your centre of gravity. You balance when that point is right above what holds you up.'"
+    },
+    {
+     "kind": "act",
+     "title": "The balancing bird",
+     "mins": 14,
+     "do": "Do Activity a2: cut out a card bird, tape a coin under each wingtip, and balance it by its beak on a fingertip. Ask: 'Why doesn't it fall forwards?' (The coins pull the centre of gravity down and back, right under the beak.)",
+     "ref": "a2"
+    },
+    {
+     "kind": "do",
+     "title": "The chair challenge",
+     "mins": 8,
+     "do": "Your child sits on a chair with their back straight against it and feet flat, arms folded. Ask them to stand up without leaning forward or moving their feet under the chair. (They can't!) Ask: 'Why not?' (Your centre of gravity is over the chair, not over your feet. You have to lean forward to bring it over your feet.) Try with a grown-up too."
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 12,
+     "do": "Do Worksheet ws2: force diagrams for standing, floating, falling and orbiting, the scale puzzles and the balancing questions.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "thin card, scissors, two ₹1 coins, tape",
+    "a straight-backed chair",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "The Moon and the sea, and the oldest ideas",
+   "goal": "Meet the Moon's pull on the sea, weigh up old ideas about gravity, and play Escape Gravity.",
    "steps": [
-    {"kind": "talk", "title": "The breathing sea", "mins": 8, "do": "Ask: 'Have you seen the sea come up the beach and go back, at Marina Beach in Chennai or Fort Kochi?' Say: 'The Moon pulls on the Earth's seas. The side of the Earth facing the Moon is pulled a bit more, so the sea there bulges. There is a second bulge on the far side. So most beaches get two high tides and two low tides each day, about 50 minutes later each day, following the Moon.' Read the 'fisherfolk' perspective and ask its question."},
-    {"kind": "talk", "title": "Gurutva and gravitas", "mins": 10, "do": "Talk about voice v1 (Brahmagupta and Bhaskara) and voice v2 (Hooke and Newton). Then play with words: the Latin gravis means heavy and gives us gravity, gravitas and grief; the Sanskrit guru also means heavy, and gurutva means heaviness. Language experts think both words grew from one very old word for heavy. Ask: 'Why might a teacher be called a guru, a heavy one? What does it mean when a person has gravitas?'", "ref": "v1"},
-    {"kind": "think", "title": "Who said it first?", "mins": 7, "do": "Use voice v2. Ask: 'Hooke wrote to Newton that gravity weakens with distance. Newton did the mathematics. Who should get the credit?' Let your child argue both sides, then ask the voice's question.", "ref": "v2"},
-    {"kind": "game", "title": "Escape Gravity", "mins": 15, "do": "Play the Escape Gravity board game (g1). Before you start, each player earns two force cards by doing physical challenges from the rules (catch a falling friend, tree pose, a paper parachute, a balloon push). Use the cards to resist the gravity events on the board.", "ref": "g1"}
-   ], "need": ["the printed Escape Gravity board, force cards, a die and counters", "a thin towel, a balloon, paper"]},
-  {"n": 8, "title": "The gravity show: teach it back", "goal": "Check what we know, put on a gravity show, and think about what nobody knows.",
+    {
+     "kind": "talk",
+     "title": "The breathing sea",
+     "mins": 8,
+     "do": "Ask: 'Have you seen the sea come up the beach and go back, at Marina Beach in Chennai or Fort Kochi?' Say: 'The Moon pulls on the Earth's seas. The side of the Earth facing the Moon is pulled a bit more, so the sea there bulges. There is a second bulge on the far side. So most beaches get two high tides and two low tides each day, about 50 minutes later each day, following the Moon.' Read the 'fisherfolk' perspective and ask its question."
+    },
+    {
+     "kind": "talk",
+     "title": "Gurutva and gravitas",
+     "mins": 10,
+     "do": "Talk about voice v1 (Brahmagupta and Bhaskara) and voice v2 (Hooke and Newton). Then play with words: the Latin gravis means heavy and gives us gravity, gravitas and grief; the Sanskrit guru also means heavy, and gurutva means heaviness. Language experts think both words grew from one very old word for heavy. Ask: 'Why might a teacher be called a guru, a heavy one? What does it mean when a person has gravitas?'",
+     "ref": "v1"
+    },
+    {
+     "kind": "think",
+     "title": "Who said it first?",
+     "mins": 7,
+     "do": "Use voice v2. Ask: 'Hooke wrote to Newton that gravity weakens with distance. Newton did the mathematics. Who should get the credit?' Let your child argue both sides, then ask the voice's question.",
+     "ref": "v2"
+    },
+    {
+     "kind": "game",
+     "title": "Escape Gravity",
+     "mins": 15,
+     "do": "Play the Escape Gravity board game (g1). Before you start, each player earns two force cards by doing physical challenges from the rules (catch a falling friend, tree pose, a paper parachute, a balloon push). Use the cards to resist the gravity events on the board.",
+     "ref": "g1"
+    }
+   ],
+   "need": [
+    "the printed Escape Gravity board, force cards, a die and counters",
+    "a thin towel, a balloon, paper"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "The gravity show: teach it back",
+   "goal": "Check what we know, put on a gravity show, and think about what nobody knows.",
    "steps": [
-    {"kind": "ws", "title": "Core worksheet", "mins": 10, "do": "Do Worksheet ws1. Your child builds each force diagram and says each 'why' answer aloud before writing it.", "ref": "ws1"},
-    {"kind": "think", "title": "Challenge puzzles", "mins": 8, "do": "Do three items from Worksheet ws3 together, including the fridge-magnet puzzle. Ask: 'Why can a tiny magnet hold a paper clip up against the pull of the whole Earth?' Say: 'Gravity is by far the weakest force we know. Why it is so weak is one of the great unsolved questions.'", "ref": "ws3"},
-    {"kind": "check", "title": "The gravity show", "mins": 22, "do": "Your child puts on the project show for the family: the falling bottle, the space blanket, the balancing bird, the Lagrange tug and the scale trick, explaining each. Then ask the check questions as audience members. Finish with a poem of four lines that they write or say, from the point of view of a raindrop falling to Earth."}
-   ], "need": ["worksheets ws1 and ws3", "everything from the show: bottle, sheet, balls, bird, towels, scale"]}
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 10,
+     "do": "Do Worksheet ws1. Your child builds each force diagram and says each 'why' answer aloud before writing it.",
+     "ref": "ws1"
+    },
+    {
+     "kind": "think",
+     "title": "Challenge puzzles",
+     "mins": 8,
+     "do": "Do three items from Worksheet ws3 together, including the fridge-magnet puzzle. Ask: 'Why can a tiny magnet hold a paper clip up against the pull of the whole Earth?' Say: 'Gravity is by far the weakest force we know. Why it is so weak is one of the great unsolved questions.'",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "The gravity show",
+     "mins": 22,
+     "do": "Your child puts on the project show for the family: the falling bottle, the space blanket, the balancing bird, the Lagrange tug and the scale trick, explaining each. Then ask the check questions as audience members. Finish with a poem of four lines that they write or say, from the point of view of a raindrop falling to Earth."
+    }
+   ],
+   "need": [
+    "worksheets ws1 and ws3",
+    "everything from the show: bottle, sheet, balls, bird, towels, scale"
+   ]
+  }
  ],
  "worksheets": [
-  {"id": "ws1", "tier": "core", "title": "Gravity everywhere", "day": 8, "sections": [
-   ["A. Pulls", [
-    {"t": "mcq", "p": "Who is pulling whom?", "opts": ["only the Earth pulls you", "you and the Earth pull each other", "nobody pulls anybody"], "a": 1},
-    {"t": "mcq", "p": "Which pulls you hardest?", "opts": ["the Moon", "the Earth", "your friend"], "a": 1},
-    {"t": "fill", "p": "The further away something is, the ____ its pull.", "a": ["weaker", "smaller", "less"]},
-    {"t": "mcq", "p": "A child is standing in Chile, on the other side of the Earth. Which way is down for her?", "opts": ["towards the middle of the Earth", "towards India", "towards space"], "a": 0}]],
-   ["B. Pushes back", [
-    {"t": "forces", "p": "You stand still on the floor. Show both forces on you.", "obj": "a child standing on the floor", "options": ["gravity", "ground pushes up", "air resistance", "upthrust"], "a": [{"name": "gravity", "dir": "down", "size": "equal"}, {"name": "ground pushes up", "dir": "up", "size": "equal"}]},
-    {"t": "forces", "p": "A child floats on her back in a pool. Show both forces.", "obj": "a child floating in a pool", "options": ["gravity", "ground pushes up", "upthrust", "friction"], "a": [{"name": "gravity", "dir": "down", "size": "equal"}, {"name": "upthrust", "dir": "up", "size": "equal"}]},
-    {"t": "match", "p": "Match each word to its meaning.", "pairs": [["normal force", "the push back of a surface"], ["centre of gravity", "where all the weight seems to act"], ["orbit", "falling round and always missing"], ["free fall", "falling with nothing holding you up"], ["tide", "the sea rising and falling with the Moon"]]},
-    {"t": "mcq", "p": "What does a bathroom scale really measure?", "opts": ["how hard gravity pulls you", "how hard you press on it", "how tall you are"], "a": 1}]],
-   ["C. Why?", [
-    {"t": "write", "p": "Why don't you fall through the floor into the middle of the Earth?", "lines": 2},
-    {"t": "write", "p": "Astronauts float in the space station. Is there no gravity there? Explain.", "lines": 3}]]]},
-  {"id": "ws2", "tier": "stretch", "title": "Falling, floating and balancing", "day": 6, "sections": [
-   ["A. Force diagrams", [
-    {"t": "forces", "p": "An astronaut floats inside the space station as it orbits. Show the force on the astronaut. (Careful: is the floor pushing?)", "obj": "an astronaut floating in the ISS", "options": ["gravity", "floor pushes up", "air resistance", "upthrust"], "a": [{"name": "gravity", "dir": "down"}]},
-    {"t": "forces", "p": "Kavya stands between two friends. They pull her with towels, one to each side, just as hard as each other. Show both pulls.", "obj": "a child at the still point between two pulls", "options": ["pull", "gravity", "push", "friction"], "a": [{"name": "pull", "dir": "left", "size": "equal"}, {"name": "pull", "dir": "right", "size": "equal"}]},
-    {"t": "forces", "p": "A trampoline launches a jumper upwards. Show the two forces at the bottom of the bounce.", "obj": "a jumper at the bottom of a trampoline bounce", "options": ["gravity", "trampoline pushes up", "friction", "upthrust"], "a": [{"name": "trampoline pushes up", "dir": "up", "size": "big"}, {"name": "gravity", "dir": "down", "size": "small"}]}]],
-   ["B. Scale puzzles", [
-    {"t": "sort", "p": "Does the scale reading go up, go down or stay the same (once you're still)?", "items": ["you hold a heavy bag", "you push down on a table beside you", "you stand on one leg", "you stand still on both feet", "you take off your shoes"], "cats": ["goes up", "goes down", "stays the same"]},
-    {"t": "mcq", "p": "In the bathroom-scale test, you stood on one leg. The reading wobbled and then came back. Why?", "opts": ["you got lighter", "you pressed on the scale with the same weight, just through one foot", "the scale broke"], "a": 1}]],
-   ["C. Balance and orbits", [
-    {"t": "mcq", "p": "Why couldn't you stand up from the chair without leaning forward?", "opts": ["your legs are weak", "your centre of gravity was over the chair, not over your feet", "the chair pulled you"], "a": 1},
-    {"t": "fill", "p": "If the string breaks, the whirling ball flies off in a ____ line.", "a": ["straight"]},
-    {"t": "write", "p": "The balancing bird has coins under its wingtips. Why does it balance on its beak?", "lines": 2},
-    {"t": "write", "p": "Why did the water stop squirting out of the bottle while it was falling?", "lines": 2}]]]},
-  {"id": "ws3", "tier": "challenge", "title": "Big gravity puzzles", "day": 8, "sections": [
-   ["A. Think hard", [
-    {"t": "write", "p": "A fridge magnet holds a paper clip up against the pull of the whole Earth. What does that tell you about how strong gravity is?", "lines": 3},
-    {"t": "write", "p": "Our space blanket used the Earth's gravity to make the dent. Why is that a problem for explaining gravity? Can you think of a better model?", "lines": 3},
-    {"t": "write", "p": "If you were floating in empty space, with no planets or stars anywhere near, could you swim to change direction? Why or why not?", "lines": 3},
-    {"t": "mcq", "p": "Two planets pull on a spacecraft. One is much bigger. Where is the point where their pulls cancel?", "opts": ["exactly in the middle", "nearer the smaller planet", "nearer the bigger planet"], "a": 1}]],
-   ["B. Tricky questions", [
-    {"t": "mcq", "p": "The Earth has held the Moon in orbit for billions of years. Is it using up energy to do it?", "opts": ["yes, a lot", "no, gravity uses up no energy", "yes, that's why the Earth is hot"], "a": 1},
-    {"t": "mcq", "p": "Which Indian astronomer wrote, about 1,000 years before Newton, that the Earth attracts things to it?", "opts": ["Brahmagupta", "Archimedes", "Euclid"], "a": 0},
-    {"t": "forces", "p": "The Moon is to the right of the Earth. Which way does the Earth's gravity pull the Moon?", "obj": "the Moon in orbit, to the right of the Earth", "options": ["gravity", "push", "friction", "air resistance"], "a": [{"name": "gravity", "dir": "left"}]},
-    {"t": "mcq", "p": "Most beaches get how many high tides in about a day?", "opts": ["one", "two", "ten"], "a": 1}]]]}
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Gravity everywhere",
+   "day": 8,
+   "sections": [
+    [
+     "A. Pulls",
+     [
+      {
+       "t": "mcq",
+       "p": "Who is pulling whom?",
+       "opts": [
+        "only the Earth pulls you",
+        "you and the Earth pull each other",
+        "nobody pulls anybody"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Which pulls you hardest?",
+       "opts": [
+        "the Moon",
+        "the Earth",
+        "your friend"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "The further away something is, the ____ its pull.",
+       "a": [
+        "weaker",
+        "smaller",
+        "less"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A child is standing in Chile, on the other side of the Earth. Which way is down for her?",
+       "opts": [
+        "towards the middle of the Earth",
+        "towards India",
+        "towards space"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Pushes back",
+     [
+      {
+       "t": "forces",
+       "p": "You stand still on the floor. Show both forces on you.",
+       "obj": "a child standing on the floor",
+       "options": [
+        "gravity",
+        "ground pushes up",
+        "air resistance",
+        "upthrust"
+       ],
+       "a": [
+        {
+         "name": "gravity",
+         "dir": "down",
+         "size": "equal"
+        },
+        {
+         "name": "ground pushes up",
+         "dir": "up",
+         "size": "equal"
+        }
+       ]
+      },
+      {
+       "t": "forces",
+       "p": "A child floats on her back in a pool. Show both forces.",
+       "obj": "a child floating in a pool",
+       "options": [
+        "gravity",
+        "ground pushes up",
+        "upthrust",
+        "friction"
+       ],
+       "a": [
+        {
+         "name": "gravity",
+         "dir": "down",
+         "size": "equal"
+        },
+        {
+         "name": "upthrust",
+         "dir": "up",
+         "size": "equal"
+        }
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each word to its meaning.",
+       "pairs": [
+        [
+         "normal force",
+         "the push back of a surface"
+        ],
+        [
+         "centre of gravity",
+         "where all the weight seems to act"
+        ],
+        [
+         "orbit",
+         "falling round and always missing"
+        ],
+        [
+         "free fall",
+         "falling with nothing holding you up"
+        ],
+        [
+         "tide",
+         "the sea rising and falling with the Moon"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "What does a bathroom scale really measure?",
+       "opts": [
+        "how hard gravity pulls you",
+        "how hard you press on it",
+        "how tall you are"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Why?",
+     [
+      {
+       "t": "write",
+       "p": "Why don't you fall through the floor into the middle of the Earth?",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Astronauts float in the space station. Is there no gravity there? Explain.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Falling, floating and balancing",
+   "day": 6,
+   "sections": [
+    [
+     "A. Force diagrams",
+     [
+      {
+       "t": "forces",
+       "p": "An astronaut floats inside the space station as it orbits. Show the force on the astronaut. (Careful: is the floor pushing?)",
+       "obj": "an astronaut floating in the ISS",
+       "options": [
+        "gravity",
+        "floor pushes up",
+        "air resistance",
+        "upthrust"
+       ],
+       "a": [
+        {
+         "name": "gravity",
+         "dir": "down"
+        }
+       ]
+      },
+      {
+       "t": "forces",
+       "p": "Kavya stands between two friends. They pull her with towels, one to each side, just as hard as each other. Show both pulls.",
+       "obj": "a child at the still point between two pulls",
+       "options": [
+        "pull",
+        "gravity",
+        "push",
+        "friction"
+       ],
+       "a": [
+        {
+         "name": "pull",
+         "dir": "left",
+         "size": "equal"
+        },
+        {
+         "name": "pull",
+         "dir": "right",
+         "size": "equal"
+        }
+       ]
+      },
+      {
+       "t": "forces",
+       "p": "A trampoline launches a jumper upwards. Show the two forces at the bottom of the bounce.",
+       "obj": "a jumper at the bottom of a trampoline bounce",
+       "options": [
+        "gravity",
+        "trampoline pushes up",
+        "friction",
+        "upthrust"
+       ],
+       "a": [
+        {
+         "name": "trampoline pushes up",
+         "dir": "up",
+         "size": "big"
+        },
+        {
+         "name": "gravity",
+         "dir": "down",
+         "size": "small"
+        }
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Scale puzzles",
+     [
+      {
+       "t": "sort",
+       "p": "Does the scale reading go up, go down or stay the same (once you're still)?",
+       "items": [
+        "you hold a heavy bag",
+        "you push down on a table beside you",
+        "you stand on one leg",
+        "you stand still on both feet",
+        "you take off your shoes"
+       ],
+       "cats": [
+        "goes up",
+        "goes down",
+        "stays the same"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In the bathroom-scale test, you stood on one leg. The reading wobbled and then came back. Why?",
+       "opts": [
+        "you got lighter",
+        "you pressed on the scale with the same weight, just through one foot",
+        "the scale broke"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Balance and orbits",
+     [
+      {
+       "t": "mcq",
+       "p": "Why couldn't you stand up from the chair without leaning forward?",
+       "opts": [
+        "your legs are weak",
+        "your centre of gravity was over the chair, not over your feet",
+        "the chair pulled you"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "If the string breaks, the whirling ball flies off in a ____ line.",
+       "a": [
+        "straight"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "The balancing bird has coins under its wingtips. Why does it balance on its beak?",
+       "lines": 2
+      },
+      {
+       "t": "write",
+       "p": "Why did the water stop squirting out of the bottle while it was falling?",
+       "lines": 2
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Big gravity puzzles",
+   "day": 8,
+   "sections": [
+    [
+     "A. Think hard",
+     [
+      {
+       "t": "write",
+       "p": "A fridge magnet holds a paper clip up against the pull of the whole Earth. What does that tell you about how strong gravity is?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Our space blanket used the Earth's gravity to make the dent. Why is that a problem for explaining gravity? Can you think of a better model?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "If you were floating in empty space, with no planets or stars anywhere near, could you swim to change direction? Why or why not?",
+       "lines": 3
+      },
+      {
+       "t": "mcq",
+       "p": "Two planets pull on a spacecraft. One is much bigger. Where is the point where their pulls cancel?",
+       "opts": [
+        "exactly in the middle",
+        "nearer the smaller planet",
+        "nearer the bigger planet"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Tricky questions",
+     [
+      {
+       "t": "mcq",
+       "p": "The Earth has held the Moon in orbit for billions of years. Is it using up energy to do it?",
+       "opts": [
+        "yes, a lot",
+        "no, gravity uses up no energy",
+        "yes, that's why the Earth is hot"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Which Indian astronomer wrote, about 1,000 years before Newton, that the Earth attracts things to it?",
+       "opts": [
+        "Brahmagupta",
+        "Archimedes",
+        "Euclid"
+       ],
+       "a": 0
+      },
+      {
+       "t": "forces",
+       "p": "The Moon is to the right of the Earth. Which way does the Earth's gravity pull the Moon?",
+       "obj": "the Moon in orbit, to the right of the Earth",
+       "options": [
+        "gravity",
+        "push",
+        "friction",
+        "air resistance"
+       ],
+       "a": [
+        {
+         "name": "gravity",
+         "dir": "left"
+        }
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Most beaches get how many high tides in about a day?",
+       "opts": [
+        "one",
+        "two",
+        "ten"
+       ],
+       "a": 1
+      }
+     ]
+    ]
+   ]
+  }
  ],
  "experiments": [
-  {"id": "e1", "title": "The space blanket", "day": 2, "question": "Can a bent sheet help us picture how gravity works?", "need": ["a bedsheet", "four people to hold the corners, or two people and two chairs", "a heavy ball (cricket ball, steel ball or orange)", "a lighter ball (tennis or plastic)", "6–10 marbles"], "steps": ["Hold the sheet stretched flat and tight at waist height.", "Roll a marble across: it goes straight.", "Put the heavy ball in the middle. Look at the dent.", "Roll marbles past the ball, some close and some far away. Watch their paths.", "Add the lighter ball nearby. Which dent is deeper? Which ball do marbles fall towards?", "Try two equal balls: do they roll towards each other?", "Roll a marble fast and sideways round the heavy ball: can you make it circle once or twice before it falls in?"], "predict": "Ask: 'What will a marble do when it rolls near the heavy ball?'", "observe": "The dents, and the paths the marbles take near and far from each ball.", "why": "Einstein showed that mass bends space and time around it, and things moving nearby follow the bend; that is what we feel as gravity. The sheet is a model: heavier balls make deeper dents (bigger mass, bigger pull), and marbles far away hardly bend (pull gets weaker with distance). A fast sideways marble can circle before it falls, like a planet in orbit. But the model has limits: real space bends in every direction at once, not just downwards, and the sheet only dents because the Earth's gravity pulls the ball down.", "safety": "Use a soft ball if younger children are nearby; keep marbles away from toddlers.", "time": "20 min"},
-  {"id": "e2", "title": "Find the Lagrange point", "day": 3, "question": "Is there a place between two pulls where you don't get pulled either way?", "need": ["two thin towels", "two grown-ups or older children", "chalk or a string on the floor to mark the spots"], "steps": ["Your child stands between two 'planets', each holding a towel tied loosely round one of the child's wrists.", "Each planet pulls harder when the child comes nearer and more gently when the child moves away, like gravity. Both planets follow the same rule. The child finds the spot where the pulls cancel. Mark it.", "Now one planet pulls harder at every distance (a bigger planet). Where is the new still spot? Mark it.", "Measure: is the new spot nearer the strong planet or the weak one?", "Try giving the child a tiny nudge at the still spot. Do they stay or drift off?"], "predict": "Ask: 'When one planet pulls harder, will the still point move towards it or away from it?'", "observe": "The still point for equal pulls and for unequal pulls.", "why": "Where two pulls are equal and opposite they cancel, so the child stays put. When one pulls harder, the still point moves nearer the weaker one, because you must be closer to it for its pull to match. In space, gravity from the Sun and the Earth together makes special still points called Lagrange points. A spacecraft parked near one keeps the same position compared with the Earth, but it needs small nudges to stay, just as our child drifted with a nudge.", "safety": "Pull gently and slowly; never yank. Tie the towels loosely so they slip off easily.", "time": "15 min"},
-  {"id": "e3", "title": "What does a scale measure?", "day": 4, "question": "Does a bathroom scale measure gravity, or something else?", "need": ["a bathroom scale (dial or digital)", "a table or kitchen counter next to it", "a heavy bag"], "steps": ["Stand still on the scale. Write the reading.", "Lift one leg and stand still. Write the reading once it settles.", "Stand on both feet and press down hard on the table with your hands. Write the reading.", "Bend your knees quickly and watch the number as you go down and up.", "Hold the heavy bag. Write the reading.", "If you can, stand on the scale in a lift (elevator) as it starts going up and as it starts going down."], "predict": "Ask before each: 'Will the number go up, go down or stay the same?'", "observe": "How the reading changes, and whether your body changed.", "why": "Gravity pulls you the same all the time. The scale can only feel how hard you press on it, and it pushes back up equally: the normal force. On one leg you press just as hard (once you're still), so it reads the same. Pressing on the table lets the table take some of your weight, so the scale reads less. When you bend fast, the number drops as you go down, then jumps up as you stop. A lift starting up also makes you press harder for a moment, so it reads more. What you feel as your weight is really the push of whatever is holding you up.", "safety": "Hold on to the table when bending; step on and off the scale carefully.", "time": "15 min"},
-  {"id": "e4", "title": "The falling bottle", "day": 5, "question": "What happens to water squirting from a bottle when the bottle falls?", "need": ["an empty plastic bottle", "a pin or thin nail (grown-up only)", "water", "a bucket"], "steps": ["A grown-up makes two or three small holes near the bottom of the bottle.", "Cover the holes with fingers and fill the bottle with water.", "Stand in the bathroom and hold it up high over the bucket. Uncover the holes: water squirts out.", "Now let go of the bottle while it's squirting, and watch closely as it falls.", "Repeat, filming it on a phone in slow motion if you can."], "predict": "Ask: 'Will the water keep squirting while the bottle falls?'", "observe": "The squirting stops while the bottle is falling.", "why": "When the bottle is held, the water is pushed down by gravity onto the bottle, and squeezes out of the holes. When the bottle is dropped, the water and the bottle fall together at the same rate, so the water no longer presses on the bottle and stops squirting. This is free fall: things falling together don't push on each other, so they feel weightless. It's exactly why astronauts float in the space station.", "safety": "A grown-up makes the holes. Do it in the bathroom over a bucket. Wipe up spills so nobody slips.", "time": "13 min"},
-  {"id": "e5", "title": "Falling round and missing", "day": 5, "question": "How can something keep falling and never land?", "need": ["a soft ball in an old sock, tied to a 1 m string", "a clear space, indoors or out", "a hula hoop (optional)"], "steps": ["In a clear space away from people and windows, with the ceiling fan off, a grown-up whirls the sock-ball round in a flat circle above their head.", "Your child watches: which way is the string pulling the ball? (In towards the hand.)", "The grown-up lets go at one moment. Which way does the ball fly?", "Try whirling slower: what happens to the circle?", "Your child keeps a hula hoop spinning round their waist and feels which way they must push it."], "predict": "Ask: 'When I let go, will the ball fly straight out from my hand, or along the way it was going?'", "observe": "The ball flies off in a straight line along the direction it was moving, not straight outwards.", "why": "A moving thing goes in a straight line unless something pulls it sideways. The string pulls the ball in towards the centre all the time, so its path bends into a circle. For the Moon and the space station, gravity is the string. They are moving sideways so fast that while they fall towards the Earth, the round Earth curves away underneath them, so they keep falling and keep missing. That's an orbit. The space station goes round the Earth about sixteen times a day.", "safety": "Only a grown-up whirls the ball, with everyone well back and the fan off. Use a soft ball in a sock.", "time": "15 min"}
+  {
+   "id": "e1",
+   "title": "The space blanket",
+   "day": 2,
+   "question": "Can a bent sheet help us picture how gravity works?",
+   "need": [
+    "a bedsheet",
+    "four people to hold the corners, or two people and two chairs",
+    "a heavy ball (cricket ball, steel ball or orange)",
+    "a lighter ball (tennis or plastic)",
+    "6–10 marbles"
+   ],
+   "steps": [
+    "Hold the sheet stretched flat and tight at waist height.",
+    "Roll a marble across: it goes straight.",
+    "Put the heavy ball in the middle. Look at the dent.",
+    "Roll marbles past the ball, some close and some far away. Watch their paths.",
+    "Add the lighter ball nearby. Which dent is deeper? Which ball do marbles fall towards?",
+    "Try two equal balls: do they roll towards each other?",
+    "Roll a marble fast and sideways round the heavy ball: can you make it circle once or twice before it falls in?"
+   ],
+   "predict": "Ask: 'What will a marble do when it rolls near the heavy ball?'",
+   "observe": "The dents, and the paths the marbles take near and far from each ball.",
+   "why": "Einstein showed that mass bends space and time around it, and things moving nearby follow the bend; that is what we feel as gravity. The sheet is a model: heavier balls make deeper dents (bigger mass, bigger pull), and marbles far away hardly bend (pull gets weaker with distance). A fast sideways marble can circle before it falls, like a planet in orbit. But the model has limits: real space bends in every direction at once, not just downwards, and the sheet only dents because the Earth's gravity pulls the ball down.",
+   "safety": "Use a soft ball if younger children are nearby; keep marbles away from toddlers.",
+   "time": "20 min"
+  },
+  {
+   "id": "e2",
+   "title": "Find the Lagrange point",
+   "day": 3,
+   "question": "Is there a place between two pulls where you don't get pulled either way?",
+   "need": [
+    "two thin towels",
+    "two grown-ups or older children",
+    "chalk or a string on the floor to mark the spots"
+   ],
+   "steps": [
+    "Your child stands between two 'planets', each holding a towel tied loosely round one of the child's wrists.",
+    "Each planet pulls harder when the child comes nearer and more gently when the child moves away, like gravity. Both planets follow the same rule. The child finds the spot where the pulls cancel. Mark it.",
+    "Now one planet pulls harder at every distance (a bigger planet). Where is the new still spot? Mark it.",
+    "Measure: is the new spot nearer the strong planet or the weak one?",
+    "Try giving the child a tiny nudge at the still spot. Do they stay or drift off?"
+   ],
+   "predict": "Ask: 'When one planet pulls harder, will the still point move towards it or away from it?'",
+   "observe": "The still point for equal pulls and for unequal pulls.",
+   "why": "Where two pulls are equal and opposite they cancel, so the child stays put. When one pulls harder, the still point moves nearer the weaker one, because you must be closer to it for its pull to match. In space, gravity from the Sun and the Earth together makes special still points called Lagrange points. A spacecraft parked near one keeps the same position compared with the Earth, but it needs small nudges to stay, just as our child drifted with a nudge.",
+   "safety": "Pull gently and slowly; never yank. Tie the towels loosely so they slip off easily.",
+   "time": "15 min"
+  },
+  {
+   "id": "e3",
+   "title": "What does a scale measure?",
+   "day": 4,
+   "question": "Does a bathroom scale measure gravity, or something else?",
+   "need": [
+    "a bathroom scale (dial or digital)",
+    "a table or kitchen counter next to it",
+    "a heavy bag"
+   ],
+   "steps": [
+    "Stand still on the scale. Write the reading.",
+    "Lift one leg and stand still. Write the reading once it settles.",
+    "Stand on both feet and press down hard on the table with your hands. Write the reading.",
+    "Bend your knees quickly and watch the number as you go down and up.",
+    "Hold the heavy bag. Write the reading.",
+    "If you can, stand on the scale in a lift (elevator) as it starts going up and as it starts going down."
+   ],
+   "predict": "Ask before each: 'Will the number go up, go down or stay the same?'",
+   "observe": "How the reading changes, and whether your body changed.",
+   "why": "Gravity pulls you the same all the time. The scale can only feel how hard you press on it, and it pushes back up equally: the normal force. On one leg you press just as hard (once you're still), so it reads the same. Pressing on the table lets the table take some of your weight, so the scale reads less. When you bend fast, the number drops as you go down, then jumps up as you stop. A lift starting up also makes you press harder for a moment, so it reads more. What you feel as your weight is really the push of whatever is holding you up.",
+   "safety": "Hold on to the table when bending; step on and off the scale carefully.",
+   "time": "15 min"
+  },
+  {
+   "id": "e4",
+   "title": "The falling bottle",
+   "day": 5,
+   "question": "What happens to water squirting from a bottle when the bottle falls?",
+   "need": [
+    "an empty plastic bottle",
+    "a pin or thin nail (grown-up only)",
+    "water",
+    "a bucket"
+   ],
+   "steps": [
+    "A grown-up makes two or three small holes near the bottom of the bottle.",
+    "Cover the holes with fingers and fill the bottle with water.",
+    "Stand in the bathroom and hold it up high over the bucket. Uncover the holes: water squirts out.",
+    "Now let go of the bottle while it's squirting, and watch closely as it falls.",
+    "Repeat, filming it on a phone in slow motion if you can."
+   ],
+   "predict": "Ask: 'Will the water keep squirting while the bottle falls?'",
+   "observe": "The squirting stops while the bottle is falling.",
+   "why": "When the bottle is held, the water is pushed down by gravity onto the bottle, and squeezes out of the holes. When the bottle is dropped, the water and the bottle fall together at the same rate, so the water no longer presses on the bottle and stops squirting. This is free fall: things falling together don't push on each other, so they feel weightless. It's exactly why astronauts float in the space station.",
+   "safety": "A grown-up makes the holes. Do it in the bathroom over a bucket. Wipe up spills so nobody slips.",
+   "time": "13 min"
+  },
+  {
+   "id": "e5",
+   "title": "Falling round and missing",
+   "day": 5,
+   "question": "How can something keep falling and never land?",
+   "need": [
+    "a soft ball in an old sock, tied to a 1 m string",
+    "a clear space, indoors or out",
+    "a hula hoop (optional)"
+   ],
+   "steps": [
+    "In a clear space away from people and windows, with the ceiling fan off, a grown-up whirls the sock-ball round in a flat circle above their head.",
+    "Your child watches: which way is the string pulling the ball? (In towards the hand.)",
+    "The grown-up lets go at one moment. Which way does the ball fly?",
+    "Try whirling slower: what happens to the circle?",
+    "Your child keeps a hula hoop spinning round their waist and feels which way they must push it."
+   ],
+   "predict": "Ask: 'When I let go, will the ball fly straight out from my hand, or along the way it was going?'",
+   "observe": "The ball flies off in a straight line along the direction it was moving, not straight outwards.",
+   "why": "A moving thing goes in a straight line unless something pulls it sideways. The string pulls the ball in towards the centre all the time, so its path bends into a circle. For the Moon and the space station, gravity is the string. They are moving sideways so fast that while they fall towards the Earth, the round Earth curves away underneath them, so they keep falling and keep missing. That's an orbit. The space station goes round the Earth about sixteen times a day.",
+   "safety": "Only a grown-up whirls the ball, with everyone well back and the fan off. Use a soft ball in a sock.",
+   "time": "15 min"
+  }
  ],
  "activities": [
-  {"id": "a1", "title": "Catch a falling friend", "day": 4, "mins": 8, "need": ["a soft floor or a mattress", "a cushion"], "steps": ["The catcher (a grown-up first) stands behind the faller, feet apart, hands up and ready, very close.", "The faller stands straight and stiff, arms crossed, and leans back a very short way, about a hand's width, into the catcher's hands.", "The catcher pushes them back up to standing.", "Slowly try a little further, never more than the catcher can easily hold.", "Swap roles only if the child can safely catch: a child catches a small sibling or a doll, or a grown-up falls only a few centimetres with a cushion behind."], "outcome": "Your child feels gravity pulling a body and the normal force from hands holding it up, and earns a Normal Force card for the Escape Gravity game."},
-  {"id": "a2", "title": "The balancing bird", "day": 6, "mins": 14, "need": ["thin card", "a pencil and scissors", "two ₹1 coins", "tape", "crayons"], "steps": ["Draw a bird with wide wings that sweep forward, with the beak in the middle between the wingtips, about 15 cm across.", "Cut it out and colour it.", "Try to balance it on a fingertip by its beak: it falls.", "Tape a coin under each wingtip, just in front of the beak.", "Balance it on the beak again: it balances, and even rocks gently without falling.", "Try it on the tip of a pencil or a bottle cap."], "outcome": "A balancing bird, and a child who can explain that the coins move the centre of gravity right under the beak."}
+  {
+   "id": "a1",
+   "title": "Catch a falling friend",
+   "day": 4,
+   "mins": 8,
+   "need": [
+    "a soft floor or a mattress",
+    "a cushion"
+   ],
+   "steps": [
+    "The catcher (a grown-up first) stands behind the faller, feet apart, hands up and ready, very close.",
+    "The faller stands straight and stiff, arms crossed, and leans back a very short way, about a hand's width, into the catcher's hands.",
+    "The catcher pushes them back up to standing.",
+    "Slowly try a little further, never more than the catcher can easily hold.",
+    "Swap roles only if the child can safely catch: a child catches a small sibling or a doll, or a grown-up falls only a few centimetres with a cushion behind."
+   ],
+   "outcome": "Your child feels gravity pulling a body and the normal force from hands holding it up, and earns a Normal Force card for the Escape Gravity game."
+  },
+  {
+   "id": "a2",
+   "title": "The balancing bird",
+   "day": 6,
+   "mins": 14,
+   "need": [
+    "thin card",
+    "a pencil and scissors",
+    "two ₹1 coins",
+    "tape",
+    "crayons"
+   ],
+   "steps": [
+    "Draw a bird with wide wings that sweep forward, with the beak in the middle between the wingtips, about 15 cm across.",
+    "Cut it out and colour it.",
+    "Try to balance it on a fingertip by its beak: it falls.",
+    "Tape a coin under each wingtip, just in front of the beak.",
+    "Balance it on the beak again: it balances, and even rocks gently without falling.",
+    "Try it on the tip of a pencil or a bottle cap."
+   ],
+   "outcome": "A balancing bird, and a child who can explain that the coins move the centre of gravity right under the beak."
+  }
  ],
- "project": {"title": "The family gravity show", "days": [7, 8], "steps": ["Choose five demonstrations from this rung: the falling bottle, the space blanket, the Lagrange tug, the scale trick, the balancing bird, the chair challenge.", "Make a poster with a title and a drawing for each, with force arrows.", "Practise saying one sentence of explanation for each.", "Invite the family and put on the show, asking the audience to predict before each one.", "End with one question nobody knows the answer to."], "outcome": "A gravity show and poster, explained by your child to the family."},
- "game": {"id": "g1", "title": "Escape Gravity", "kind": "board", "players": "2–4", "need": ["a die", "a counter for each player", "the force cards (cut out: Normal Force, Buoyancy, Sideways Speed, Spring Push, Balance, Air Resistance, Thrust, Neutral Pull, Air Lift)"],
-  "rules": ["Before starting, each player earns two force cards by doing challenges: catch a falling friend (Normal Force), hold tree pose for 20 seconds (Balance), drop a paper parachute (Air Resistance), let go of a blown-up balloon (Thrust), a tug of war that ends in a draw (Neutral Pull), spin a hula hoop or a ball on a string (Sideways Speed), bounce a ball (Spring Push), float a paper boat (Buoyancy), keep a feather up by blowing (Air Lift).", "Roll the die and move towards SPACE.", "If you land on a gravity event, you must go back as it says, unless you play a force card that fits and explain how it fights gravity.", "On a star square, do any challenge to earn a new card.", "The first to reach SPACE escapes gravity, and must say why gravity will still be pulling them there."],
-  "squares": ["EARTH (start)", "★ Earn a card", "Dragstorm: thick air holds you back, back 1 (Thrust beats it)", "Slick ground: you slip, back 2 (Normal Force beats it)", "Weight surge: carry a heavy load, miss a turn (Spring Push beats it)", "★ Earn a card", "Ground grip: forward 1", "Lagrange drift: two pulls cancel, stay put a turn (Sideways Speed beats it)", "Heavy air pocket: back 1 (Air Lift beats it)", "Wobble: you lose your balance, back 2 (Balance beats it)", "★ Earn a card", "Splashdown: you fall into the sea, back 2 (Buoyancy beats it)", "Gravitas well: a wise person's words pull you in, listen to one fact and move on", "Free fall: you float for a moment, forward 2", "Fast fall: you fall too fast, back 2 (Air Resistance beats it)", "★ Earn a card", "Moon's pull: the tide lifts you, forward 1", "Black hole surge: back 3 (only Sideways Speed beats it)", "Tug of war: back 1 (Neutral Pull beats it)", "Orbit! You're falling and missing, forward 2", "SPACE"]},
- "big": ["If the Earth uses up no energy to hold the Moon, what is gravity?", "If you were floating alone in empty space, would you ever stop?", "Why is gravity so weak that a fridge magnet can beat the whole Earth?", "Is the Earth pulling you, or are you both falling towards each other?", "What gives a person gravitas? Can a child have it?"],
+ "project": {
+  "title": "The family gravity show",
+  "days": [
+   7,
+   8
+  ],
+  "steps": [
+   "Choose five demonstrations from this rung: the falling bottle, the space blanket, the Lagrange tug, the scale trick, the balancing bird, the chair challenge.",
+   "Make a poster with a title and a drawing for each, with force arrows.",
+   "Practise saying one sentence of explanation for each.",
+   "Invite the family and put on the show, asking the audience to predict before each one.",
+   "End with one question nobody knows the answer to."
+  ],
+  "outcome": "A gravity show and poster, explained by your child to the family."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Escape Gravity",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "a die",
+   "a counter for each player",
+   "the force cards (cut out: Normal Force, Buoyancy, Sideways Speed, Spring Push, Balance, Air Resistance, Thrust, Neutral Pull, Air Lift)"
+  ],
+  "rules": [
+   "Before starting, each player earns two force cards by doing challenges: catch a falling friend (Normal Force), hold tree pose for 20 seconds (Balance), drop a paper parachute (Air Resistance), let go of a blown-up balloon (Thrust), a tug of war that ends in a draw (Neutral Pull), spin a hula hoop or a ball on a string (Sideways Speed), bounce a ball (Spring Push), float a paper boat (Buoyancy), keep a feather up by blowing (Air Lift).",
+   "Roll the die and move towards SPACE.",
+   "If you land on a gravity event, you must go back as it says, unless you play a force card that fits and explain how it fights gravity.",
+   "On a star square, do any challenge to earn a new card.",
+   "The first to reach SPACE escapes gravity, and must say why gravity will still be pulling them there."
+  ],
+  "squares": [
+   "EARTH (start)",
+   "★ Earn a card",
+   "Dragstorm: thick air holds you back, back 1 (Thrust beats it)",
+   "Slick ground: you slip, back 2 (Normal Force beats it)",
+   "Weight surge: carry a heavy load, miss a turn (Spring Push beats it)",
+   "★ Earn a card",
+   "Ground grip: forward 1",
+   "Lagrange drift: two pulls cancel, stay put a turn (Sideways Speed beats it)",
+   "Heavy air pocket: back 1 (Air Lift beats it)",
+   "Wobble: you lose your balance, back 2 (Balance beats it)",
+   "★ Earn a card",
+   "Splashdown: you fall into the sea, back 2 (Buoyancy beats it)",
+   "Gravitas well: a wise person's words pull you in, listen to one fact and move on",
+   "Free fall: you float for a moment, forward 2",
+   "Fast fall: you fall too fast, back 2 (Air Resistance beats it)",
+   "★ Earn a card",
+   "Moon's pull: the tide lifts you, forward 1",
+   "Black hole surge: back 3 (only Sideways Speed beats it)",
+   "Tug of war: back 1 (Neutral Pull beats it)",
+   "Orbit! You're falling and missing, forward 2",
+   "SPACE"
+  ]
+ },
+ "big": [
+  "If the Earth uses up no energy to hold the Moon, what is gravity?",
+  "If you were floating alone in empty space, would you ever stop?",
+  "Why is gravity so weak that a fridge magnet can beat the whole Earth?",
+  "Is the Earth pulling you, or are you both falling towards each other?",
+  "What gives a person gravitas? Can a child have it?"
+ ],
  "challenge": [
-  {"q": "People say there's no gravity in space, which is why astronauts float. Is that true?", "hint": "At the height of the space station, about 400 km up, gravity is still about 90% as strong as on the ground. Astronauts float because they and their station are falling together all the time (free fall), so no floor pushes on them. Far from every star and planet, gravity would get very weak, but it never quite reaches zero anywhere."},
-  {"q": "A famous story says Newton discovered gravity when an apple fell on his head. Who really first thought about gravity?", "hint": "People everywhere had noticed things fall. Indian astronomers such as Brahmagupta (628 CE) and Bhaskara II (12th century) wrote that the Earth attracts bodies. Robert Hooke wrote to Newton that the pull weakens with distance. Newton's great work was the mathematics showing that the same pull holds the Moon in orbit. And the apple probably never hit his head. Ask: why do stories often give all the credit to one person?"},
-  {"q": "'Heavy people feel gravity more strongly, so they fall faster.' True?", "hint": "Gravity does pull a heavier person harder, but a heavier person also needs a bigger pull to speed up by the same amount. The two balance exactly, so everyone falls at the same rate (air aside). That surprising fact is what led Einstein to his idea of curved space."}
+  {
+   "q": "People say there's no gravity in space, which is why astronauts float. Is that true?",
+   "hint": "At the height of the space station, about 400 km up, gravity is still about 90% as strong as on the ground. Astronauts float because they and their station are falling together all the time (free fall), so no floor pushes on them. Far from every star and planet, gravity would get very weak, but it never quite reaches zero anywhere."
+  },
+  {
+   "q": "A famous story says Newton discovered gravity when an apple fell on his head. Who really first thought about gravity?",
+   "hint": "People everywhere had noticed things fall. Indian astronomers such as Brahmagupta (628 CE) and Bhaskara II (12th century) wrote that the Earth attracts bodies. Robert Hooke wrote to Newton that the pull weakens with distance. Newton's great work was the mathematics showing that the same pull holds the Moon in orbit. And the apple probably never hit his head. Ask: why do stories often give all the credit to one person?"
+  },
+  {
+   "q": "'Heavy people feel gravity more strongly, so they fall faster.' True?",
+   "hint": "Gravity does pull a heavier person harder, but a heavier person also needs a bigger pull to speed up by the same amount. The two balance exactly, so everyone falls at the same rate (air aside). That surprising fact is what led Einstein to his idea of curved space."
+  }
  ],
  "perspectives": [
-  {"who": "Fisherfolk on India's coasts", "view": "Fishing families in Kerala, Tamil Nadu, Odisha and Gujarat have known the tides for centuries. They plan when to set out and come home by the Moon. Ask: who knew about the Moon's pull on the sea first, scientists or fishers?"},
-  {"who": "Kalpana Chawla (1962–2003), astronaut from Karnal, Haryana", "view": "Kalpana Chawla grew up in Karnal, studied aeronautical engineering at Punjab Engineering College, and became the first woman of Indian origin to fly in space, in 1997. In orbit she floated, falling round the Earth with her crew. Ask: what do you think the Earth looks like from a place where you are always falling and never landing?"},
-  {"who": "A tree", "view": "A tree needs its leaves up in the light and its roots down in wet soil. So it must know which way is down, even underground in the dark. The tips of its roots sense gravity and grow downwards, and its stem grows upwards. Ask: does gravity make life harder for a tree, or help it, or both?"},
-  {"who": "A grain of space dust", "view": "Tonnes of tiny dust grains from space fall onto the Earth every day. Some of it lands on your roof. Ask: what would you need to find a speck of space dust yourself?"}
+  {
+   "who": "Fisherfolk on India's coasts",
+   "view": "Fishing families in Kerala, Tamil Nadu, Odisha and Gujarat have known the tides for centuries. They plan when to set out and come home by the Moon. Ask: who knew about the Moon's pull on the sea first, scientists or fishers?"
+  },
+  {
+   "who": "Kalpana Chawla (1962–2003), astronaut from Karnal, Haryana",
+   "view": "Kalpana Chawla grew up in Karnal, studied aeronautical engineering at Punjab Engineering College, and became the first woman of Indian origin to fly in space, in 1997. In orbit she floated, falling round the Earth with her crew. Ask: what do you think the Earth looks like from a place where you are always falling and never landing?"
+  },
+  {
+   "who": "A tree",
+   "view": "A tree needs its leaves up in the light and its roots down in wet soil. So it must know which way is down, even underground in the dark. The tips of its roots sense gravity and grow downwards, and its stem grows upwards. Ask: does gravity make life harder for a tree, or help it, or both?"
+  },
+  {
+   "who": "A grain of space dust",
+   "view": "Tonnes of tiny dust grains from space fall onto the Earth every day. Some of it lands on your roof. Ask: what would you need to find a speck of space dust yourself?"
+  }
  ],
  "voices": [
-  {"id": "v1", "who": "Brahmagupta (598–668 CE) and Bhaskara II (1114–1185 CE), India", "idea": "In his Brahmasphutasiddhanta (628 CE), Brahmagupta wrote that bodies fall towards the Earth because it is the nature of the Earth to attract them, just as it is the nature of water to flow. Centuries later Bhaskara II, in his Siddhanta Shiromani, wrote of the Earth's power of attraction (gurutvakarshana) holding things to it.", "then": "Their works were studied by astronomers across India and the Islamic world; the Persian scholar al-Biruni discussed Brahmagupta's views in the 11th century.", "now": "Historians agree they clearly described the Earth attracting bodies. They debate how much this anticipated Newton: neither gave a law of how the pull changes with distance, or showed that the same pull holds the Moon in its orbit. Some modern claims go further than the old texts and should be checked.", "status": "debated", "ask": "Brahmagupta said the Earth attracts things. Newton said every mass attracts every other and worked out by how much. Is noticing a pull the same as discovering a law? Who deserves the credit, and for what?", "day": 7},
-  {"id": "v2", "who": "Robert Hooke (1635–1703) and Isaac Newton (1643–1727), England", "idea": "In letters to Newton in 1679–1680, Hooke suggested that the planets move as they do because of a pull towards the Sun that weakens with the square of the distance (twice as far, a quarter of the pull). Newton worked out the mathematics and published the law of universal gravitation in his Principia in 1687.", "then": "Hooke felt Newton had taken his idea without credit and said so. Newton was furious and removed some mentions of Hooke from his book. Newton later became president of the Royal Society, after Hooke died.", "now": "Historians agree Hooke suggested the inverse-square idea and that Newton did the mathematical proof that made it a law; they still argue over how much credit each deserves. Newton was brilliant, and he also fought hard over credit with Hooke, Flamsteed and Leibniz. Hooke, poor-born and endlessly inventive, is far less remembered.", "status": "debated", "ask": "If one person has an idea and another proves it, who discovered it? Should a law be named after one person or two?", "day": 7},
-  {"id": "v3", "who": "Albert Einstein (1879–1955), and the 1919 eclipse expeditions", "idea": "In 1915 Einstein published his general theory of relativity: mass and energy bend space and time, and things move along the bends. What we feel as the pull of gravity is really falling along curved space-time.", "then": "Few believed it at first. In 1919, expeditions led by Arthur Eddington and Frank Dyson photographed stars near the Sun during a total eclipse and found their light had been bent by the Sun's gravity by about the amount Einstein predicted.", "now": "Accepted, and tested many times since, including by GPS satellites whose clocks must be corrected for it and by the detection of gravitational waves in 2015. But it doesn't fit with quantum physics, the science of the very small, and nobody yet knows how to join them.", "status": "accepted", "ask": "Our blanket is a model of Einstein's idea. What did the model get right, and what did it get wrong? How could scientists test an idea they can't see?", "day": 2}
+  {
+   "id": "v1",
+   "who": "Brahmagupta (598–668 CE) and Bhaskara II (1114–1185 CE), India",
+   "idea": "In his Brahmasphutasiddhanta (628 CE), Brahmagupta wrote that bodies fall towards the Earth because it is the nature of the Earth to attract them, just as it is the nature of water to flow. Centuries later Bhaskara II, in his Siddhanta Shiromani, wrote of the Earth's power of attraction (gurutvakarshana) holding things to it.",
+   "then": "Their works were studied by astronomers across India and the Islamic world; the Persian scholar al-Biruni discussed Brahmagupta's views in the 11th century.",
+   "now": "Historians agree they clearly described the Earth attracting bodies. They debate how much this anticipated Newton: neither gave a law of how the pull changes with distance, or showed that the same pull holds the Moon in its orbit. Some modern claims go further than the old texts and should be checked.",
+   "status": "debated",
+   "ask": "Brahmagupta said the Earth attracts things. Newton said every mass attracts every other and worked out by how much. Is noticing a pull the same as discovering a law? Who deserves the credit, and for what?",
+   "day": 7
+  },
+  {
+   "id": "v2",
+   "who": "Robert Hooke (1635–1703) and Isaac Newton (1643–1727), England",
+   "idea": "In letters to Newton in 1679–1680, Hooke suggested that the planets move as they do because of a pull towards the Sun that weakens with the square of the distance (twice as far, a quarter of the pull). Newton worked out the mathematics and published the law of universal gravitation in his Principia in 1687.",
+   "then": "Hooke felt Newton had taken his idea without credit and said so. Newton was furious and removed some mentions of Hooke from his book. Newton later became president of the Royal Society, after Hooke died.",
+   "now": "Historians agree Hooke suggested the inverse-square idea and that Newton did the mathematical proof that made it a law; they still argue over how much credit each deserves. Newton was brilliant, and he also fought hard over credit with Hooke, Flamsteed and Leibniz. Hooke, poor-born and endlessly inventive, is far less remembered.",
+   "status": "debated",
+   "ask": "If one person has an idea and another proves it, who discovered it? Should a law be named after one person or two?",
+   "day": 7
+  },
+  {
+   "id": "v3",
+   "who": "Albert Einstein (1879–1955), and the 1919 eclipse expeditions",
+   "idea": "In 1915 Einstein published his general theory of relativity: mass and energy bend space and time, and things move along the bends. What we feel as the pull of gravity is really falling along curved space-time.",
+   "then": "Few believed it at first. In 1919, expeditions led by Arthur Eddington and Frank Dyson photographed stars near the Sun during a total eclipse and found their light had been bent by the Sun's gravity by about the amount Einstein predicted.",
+   "now": "Accepted, and tested many times since, including by GPS satellites whose clocks must be corrected for it and by the detection of gravitational waves in 2015. But it doesn't fit with quantum physics, the science of the very small, and nobody yet knows how to join them.",
+   "status": "accepted",
+   "ask": "Our blanket is a model of Einstein's idea. What did the model get right, and what did it get wrong? How could scientists test an idea they can't see?",
+   "day": 2
+  }
  ],
  "books": [
-  {"title": "Gravity", "author": "Jason Chin", "for": "read together", "age": "4–8", "why": "A beautiful picture book about what would happen if gravity stopped, and what it holds together."},
-  {"title": "I Fall Down", "author": "Vicki Cobb", "for": "read together", "age": "4–8", "why": "Simple home experiments with falling things, in the same spirit as this rung."},
-  {"title": "Mae Among the Stars", "author": "Roda Ahmed", "for": "read together", "age": "4–8", "why": "The true story of Mae Jemison, the first African-American woman in space, who was told to choose an easier dream."}
+  {
+   "title": "Gravity",
+   "author": "Jason Chin",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A beautiful picture book about what would happen if gravity stopped, and what it holds together."
+  },
+  {
+   "title": "I Fall Down",
+   "author": "Vicki Cobb",
+   "for": "read together",
+   "age": "4–8",
+   "why": "Simple home experiments with falling things, in the same spirit as this rung."
+  },
+  {
+   "title": "Mae Among the Stars",
+   "author": "Roda Ahmed",
+   "for": "read together",
+   "age": "4–8",
+   "why": "The true story of Mae Jemison, the first African-American woman in space, who was told to choose an easier dream."
+  }
  ],
  "check": [
-  {"q": "Who pulls whom, you or the Earth?", "a": "Both. Every object attracts every other object. The Earth hardly moves because it is so much bigger."},
-  {"q": "Which way is down for a child in Chile?", "a": "Towards the centre of the Earth, just as for us."},
-  {"q": "Why don't you fall through the floor?", "a": "The floor's atoms push back on yours. This push is the normal force, and it is equal to your weight."},
-  {"q": "What does a bathroom scale really measure?", "a": "How hard you press on it (the push back), not gravity itself."},
-  {"q": "Why do astronauts float in the space station?", "a": "They and the station are falling together, so nothing pushes on them. Gravity there is still about 90% as strong."},
-  {"q": "Why doesn't the Moon fall onto the Earth?", "a": "It is moving sideways so fast that it keeps falling and keeps missing the Earth. This is an orbit."},
-  {"q": "Where is the still point between two unequal pulls?", "a": "Nearer the weaker pull."},
-  {"q": "Why does the balancing bird balance on its beak?", "a": "The coins put its centre of gravity right under the beak."}
+  {
+   "q": "Who pulls whom, you or the Earth?",
+   "a": "Both. Every object attracts every other object. The Earth hardly moves because it is so much bigger."
+  },
+  {
+   "q": "Which way is down for a child in Chile?",
+   "a": "Towards the centre of the Earth, just as for us."
+  },
+  {
+   "q": "Why don't you fall through the floor?",
+   "a": "The floor's atoms push back on yours. This push is the normal force, and it is equal to your weight."
+  },
+  {
+   "q": "What does a bathroom scale really measure?",
+   "a": "How hard you press on it (the push back), not gravity itself."
+  },
+  {
+   "q": "Why do astronauts float in the space station?",
+   "a": "They and the station are falling together, so nothing pushes on them. Gravity there is still about 90% as strong."
+  },
+  {
+   "q": "Why doesn't the Moon fall onto the Earth?",
+   "a": "It is moving sideways so fast that it keeps falling and keeps missing the Earth. This is an orbit."
+  },
+  {
+   "q": "Where is the still point between two unequal pulls?",
+   "a": "Nearer the weaker pull."
+  },
+  {
+   "q": "Why does the balancing bird balance on its beak?",
+   "a": "The coins put its centre of gravity right under the beak."
+  }
  ],
- "story": {"title": "The Dust That Fell for Four Billion Years", "text": [
-  "I am a speck of dust. You could not see me unless you had very good eyes and a very good magnifying glass, and even then you might think I was nothing. But I am older than the Earth's oceans, older than its mountains, older than the first living thing. I was made when the Sun was young, in the cloud of stuff that was left over after the Sun and the planets had formed.",
-  "For a very long time I drifted. Nothing touched me. There was nothing near enough to touch. I moved in a straight line, at the same speed, in the same direction, and I could not change it. If I had had arms I could have waved them, but waving would not have helped. To turn, you need something to push against, and there was nothing. So I went on, and on, and on, and I thought that this was simply what being was: going straight, alone, for ever.",
-  "And yet, even then, I was not entirely alone. Every speck of me, small as I was, was tugging very gently at every other thing in the universe: at the Sun, at far-off stars, at grains like me a hundred thousand kilometres away. And they were tugging at me. Nobody ever told me. I could not feel it, the pulls were so faint. But they were there, the way a song is there in a room even when you are not listening.",
-  "Then, one day (though I did not have days), something enormous came near. It was blue and white and round, and it was so heavy that the space around it was bent, the way a sheet sags under a sleeping cat. I did not decide anything. I did not choose. I simply found that the straight line I had always followed was no longer straight. It curved, and curved more, towards the blue thing. I was falling.",
-  "Here is the strangest part, and I want you to understand it. Nobody was pulling me. The Earth was not straining or puffing or reaching out with arms. It did not get tired. It just was, and because it was, the space around it was bent, and because the space was bent, I fell along the bend. The Earth did not spend anything to bring me home. And I, tiny as I was, bent the space around me too, a little, so that the whole huge Earth leaned towards me by an amount far too small for anyone to measure. We fell towards each other. It was only that I did most of the falling.",
-  "The air caught me first. I had never felt anything before, and suddenly there was a roaring, a heat, a push against my face, millions of tiny bits of air pushing back on my tiny bits. I slowed. I glowed for a moment, I think. Then I was drifting again, but downwards now, through cold white cloud, over green hills in a place the people below call Meghalaya, the home of the clouds.",
-  "In the cloud a little water gathered around me, as water gathers around a seed. I became the heart of a raindrop. And then I fell the last part of the way with millions of other raindrops, all of us falling together at the same steady speed, pattering onto a tin roof in a town called Shillong, and running down the roof into a gutter, where I lay in the dark among leaves and grit.",
-  "This was the first time in four billion years that I had stopped. The ground under me pushed up exactly as hard as I pressed down. Its atoms and my atoms leaned against each other, and nobody moved. After all that falling, it felt like being held.",
-  "A few weeks later a girl called Iba climbed up with a bucket to clean the gutter. Her uncle, who had read about such things, had told her that tiny bits of space land on every roof in the world, and that some of them are made of iron. So she swept the gutter mud into a tray, and when it was dry she passed a magnet over it in a plastic bag, and picked out the specks that jumped up to it. Under her uncle's microscope most of them were rust and road dust. But one was different. It was a perfect tiny ball, shiny and dark, with a pattern on it like frost.",
-  "\"Where did you come from?\" Iba whispered.",
-  "I could not answer. But she held me on the tip of her finger for a long time, looking, and I lay there, pressed gently down onto her skin, and her skin pushed gently back. Somewhere far below us, the Earth was holding us both, and we were holding it."],
+ "story": {
+  "title": "The Dust That Fell for Four Billion Years",
+  "text": [
+   "I am a speck of dust. You could not see me unless you had very good eyes and a very good magnifying glass, and even then you might think I was nothing. But I am older than the Earth's oceans, older than its mountains, older than the first living thing. I was made when the Sun was young, in the cloud of stuff that was left over after the Sun and the planets had formed.",
+   "For a very long time I drifted. Nothing touched me. There was nothing near enough to touch. I moved in a straight line, at the same speed, in the same direction, and I could not change it. If I had had arms I could have waved them, but waving would not have helped. To turn, you need something to push against, and there was nothing. So I went on, and on, and on, and I thought that this was simply what being was: going straight, alone, for ever.",
+   "And yet, even then, I was not entirely alone. Every speck of me, small as I was, was tugging very gently at every other thing in the universe: at the Sun, at far-off stars, at grains like me a hundred thousand kilometres away. And they were tugging at me. Nobody ever told me. I could not feel it, the pulls were so faint. But they were there, the way a song is there in a room even when you are not listening.",
+   "Then, one day (though I did not have days), something enormous came near. It was blue and white and round, and it was so heavy that the space around it was bent, the way a sheet sags under a sleeping cat. I did not decide anything. I did not choose. I simply found that the straight line I had always followed was no longer straight. It curved, and curved more, towards the blue thing. I was falling.",
+   "Here is the strangest part, and I want you to understand it. Nobody was pulling me. The Earth was not straining or puffing or reaching out with arms. It did not get tired. It just was, and because it was, the space around it was bent, and because the space was bent, I fell along the bend. The Earth did not spend anything to bring me home. And I, tiny as I was, bent the space around me too, a little, so that the whole huge Earth leaned towards me by an amount far too small for anyone to measure. We fell towards each other. It was only that I did most of the falling.",
+   "The air caught me first. I had never felt anything before, and suddenly there was a roaring, a heat, a push against my face, millions of tiny bits of air pushing back on my tiny bits. I slowed. I glowed for a moment, I think. Then I was drifting again, but downwards now, through cold white cloud, over green hills in a place the people below call Meghalaya, the home of the clouds.",
+   "In the cloud a little water gathered around me, as water gathers around a seed. I became the heart of a raindrop. And then I fell the last part of the way with millions of other raindrops, all of us falling together at the same steady speed, pattering onto a tin roof in a town called Shillong, and running down the roof into a gutter, where I lay in the dark among leaves and grit.",
+   "This was the first time in four billion years that I had stopped. The ground under me pushed up exactly as hard as I pressed down. Its atoms and my atoms leaned against each other, and nobody moved. After all that falling, it felt like being held.",
+   "A few weeks later a girl called Iba climbed up with a bucket to clean the gutter. Her uncle, who had read about such things, had told her that tiny bits of space land on every roof in the world, and that some of them are made of iron. So she swept the gutter mud into a tray, and when it was dry she passed a magnet over it in a plastic bag, and picked out the specks that jumped up to it. Under her uncle's microscope most of them were rust and road dust. But one was different. It was a perfect tiny ball, shiny and dark, with a pattern on it like frost.",
+   "\"Where did you come from?\" Iba whispered.",
+   "I could not answer. But she held me on the tip of her finger for a long time, looking, and I lay there, pressed gently down onto her skin, and her skin pushed gently back. Somewhere far below us, the Earth was holding us both, and we were holding it."
+  ],
   "epiphany": "Everything pulls everything; in empty space a thing goes straight for ever; falling is following the bend that mass makes in space, so nobody is actually doing any pulling; the Earth and the dust fall towards each other, the bigger one moving far less; the ground holds you with a push back (the normal force). The turn is the dust saying 'nobody was pulling me', and the last line, where pulling becomes holding. Underneath: we are made of the same old stuff as space, and space keeps falling onto us. (Tonnes of space dust really do land on the Earth every day, and amateur scientists have found micrometeorites in roof gutters using magnets.)",
-  "ask": ["Why did the dust go in a straight line for so long? Why couldn't it turn by waving?", "The dust said nobody was pulling it. What did it mean?", "Did the Earth move towards the dust at all? Why didn't anyone notice?", "What stopped the dust falling at last? What did it feel like?", "Iba used a magnet to find the space dust. Why did a magnet work?"]},
+  "ask": [
+   "Why did the dust go in a straight line for so long? Why couldn't it turn by waving?",
+   "The dust said nobody was pulling it. What did it mean?",
+   "Did the Earth move towards the dust at all? Why didn't anyone notice?",
+   "What stopped the dust falling at last? What did it feel like?",
+   "Iba used a magnet to find the space dust. Why did a magnet work?"
+  ]
+ },
  "ideas": [
-  {"idea": "Every object attracts every other object, however far apart they are.", "more": "Every speck of matter pulls on every other speck in the universe, however faint the pull. You are pulling the Earth, the Moon and the farthest star right now, and they are pulling you."},
-  {"idea": "Gravity uses up no energy.", "more": "Gravity uses up no effort. A tug of war tires you out; the Earth has held the Moon for billions of years and isn't tired. Einstein's picture: mass bends space, and things fall along the bend."},
-  {"idea": "What you feel as your weight is the ground holding you.", "more": "Gravity pulls you all the time, but you only feel it through a push back: the floor, a chair, the water, a friend's hands. Take the push away by falling, and you feel weightless, even though gravity is still there."},
-  {"idea": "The Moon stays up because it is always falling and missing the Earth.", "more": "The Moon and the space station are falling all the time, but they move sideways so fast that the round Earth curves away beneath them. An orbit is a fall that never ends."}
+  {
+   "idea": "Every object attracts every other object, however far apart they are.",
+   "more": "Every speck of matter pulls on every other speck in the universe, however faint the pull. You are pulling the Earth, the Moon and the farthest star right now, and they are pulling you."
+  },
+  {
+   "idea": "Gravity uses up no energy.",
+   "more": "Gravity uses up no effort. A tug of war tires you out; the Earth has held the Moon for billions of years and isn't tired. Einstein's picture: mass bends space, and things fall along the bend."
+  },
+  {
+   "idea": "What you feel as your weight is the ground holding you.",
+   "more": "Gravity pulls you all the time, but you only feel it through a push back: the floor, a chair, the water, a friend's hands. Take the push away by falling, and you feel weightless, even though gravity is still there."
+  },
+  {
+   "idea": "The Moon stays up because it is always falling and missing the Earth.",
+   "more": "The Moon and the space station are falling all the time, but they move sideways so fast that the round Earth curves away beneath them. An orbit is a fall that never ends."
+  }
  ],
  "unknowns": [
   "What is gravity really? Einstein's curved space-time describes it beautifully, but it doesn't fit with quantum physics, the rules of the very small. Some scientists think there is a tiny particle of gravity (a graviton); some think gravity comes out of something deeper. Nobody knows.",

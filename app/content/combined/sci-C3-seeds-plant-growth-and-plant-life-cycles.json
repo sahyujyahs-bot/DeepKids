@@ -1,6 +1,9 @@
 {
  "key": "combined|sci|3|seeds-plant-growth-and-plant-life-cycles",
- "board": "combined", "subj": "sci", "level": 3, "n": "seeds-plant-growth-and-plant-life-cycles",
+ "board": "combined",
+ "subj": "sci",
+ "level": 3,
+ "n": "seeds-plant-growth-and-plant-life-cycles",
  "title": "How temperature changes the way seeds sprout and plants grow",
  "source": "DeepKids Combined. Covers Cambridge Stage 3 Biology, Plant growth and temperature (Unit 1.4): plants grow at different rates at different temperatures, measuring temperature, fair tests, results tables, bar charts and conclusions. Goes wider: seasons and crops, greenhouses, seed vaults, how fast plants grow, and a warming world. No textbook needed.",
  "summary": "Seeds sprout faster when warm, but too much heat harms them. Your child tests this with moong seeds in the fridge, in a room and in a warm spot. They read a thermometer, measure growth, draw a bar chart and write a conclusion. Then they find out why farmers sow each crop in its own season, build a bottle greenhouse, and learn how cold keeps seeds alive for decades.",
@@ -14,17 +17,50 @@
   "By the end your child can say how a greenhouse and a seed vault use temperature, and give one way a warming world is changing plants."
  ],
  "words": [
-  ["temperature", "how hot or cold something is"],
-  ["thermometer", "a tool that measures temperature"],
-  ["degrees Celsius (°C)", "the unit we measure temperature in. Water freezes at 0 °C and boils at 100 °C"],
-  ["germination", "a seed waking up and starting to grow"],
-  ["growth rate", "how fast something grows, like how many millimetres a day"],
-  ["fair test", "a test where only one thing is changed and everything else is kept the same"],
-  ["results table", "a table where you write down what you measured"],
-  ["bar chart", "a picture of results with bars. The taller the bar, the bigger the number"],
-  ["conclusion", "what your results tell you, said in a sentence"],
-  ["greenhouse", "a see-through house for plants that traps the Sun's warmth"],
-  ["kharif and rabi", "India's two main crop seasons: kharif sown with the monsoon rains, rabi sown in the cool winter"]
+  [
+   "temperature",
+   "how hot or cold something is"
+  ],
+  [
+   "thermometer",
+   "a tool that measures temperature"
+  ],
+  [
+   "degrees Celsius (°C)",
+   "the unit we measure temperature in. Water freezes at 0 °C and boils at 100 °C"
+  ],
+  [
+   "germination",
+   "a seed waking up and starting to grow"
+  ],
+  [
+   "growth rate",
+   "how fast something grows, like how many millimetres a day"
+  ],
+  [
+   "fair test",
+   "a test where only one thing is changed and everything else is kept the same"
+  ],
+  [
+   "results table",
+   "a table where you write down what you measured"
+  ],
+  [
+   "bar chart",
+   "a picture of results with bars. The taller the bar, the bigger the number"
+  ],
+  [
+   "conclusion",
+   "what your results tell you, said in a sentence"
+  ],
+  [
+   "greenhouse",
+   "a see-through house for plants that traps the Sun's warmth"
+  ],
+  [
+   "kharif and rabi",
+   "India's two main crop seasons: kharif sown with the monsoon rains, rabi sown in the cool winter"
+  ]
  ],
  "subconcepts": [
   "temperature and the thermometer (°C)",
@@ -43,149 +79,923 @@
  ],
  "day_mins": 40,
  "days": [
-  {"n": 1, "title": "Does warmth wake a seed?", "goal": "Recall what seeds need, meet temperature, and start the fair test.",
+  {
+   "n": 1,
+   "title": "Does warmth wake a seed?",
+   "goal": "Recall what seeds need, meet temperature, and start the fair test.",
    "steps": [
-    {"kind": "warmup", "title": "Remember the three cups", "mins": 5, "do": "Recall Class 1 quickly. Ask: 'What did the DRY, DAMP and DROWNED cups of moong teach us?' (Seeds need water to wake, and air too.) 'Which part came out first?' (The root, growing down.) Then ask the new question: 'Farmers don't sow wheat in May, even if they water it. Why not?' Let your child guess. Say: 'Today we test something we didn't test before: warmth.'"},
-    {"kind": "talk", "title": "Hot and cold, in numbers", "mins": 10, "do": "Show a thermometer (a room or kitchen thermometer, or a digital one). Explain: 'Temperature is how hot or cold something is. We measure it in degrees Celsius, written °C. Ice melts at 0 °C. A nice room is about 25 °C. Your body is about 37 °C. Water boils at 100 °C.' Let your child read the thermometer in three places: the room, a glass of tap water, a glass of water from the fridge. If you have no thermometer, use the weather on a phone for the room, and tell them a fridge is about 4 °C."},
-    {"kind": "exp", "title": "Set up the three-temperature test", "mins": 20, "do": "Do Experiment e1: three identical boxes of 20 moong seeds on damp cotton, one in the fridge, one in a cupboard in the room, and one in a warm spot. Ask your child: 'What are we changing?' (Only the temperature.) 'What must we keep the same?' (The same seeds, same number, same cotton, same water, and all in the dark, because the fridge is dark.) Your child writes a prediction for each box.", "ref": "e1"},
-    {"kind": "review", "title": "Make the table", "mins": 5, "do": "Your child rules a results table in a notebook: three columns (fridge, room, warm spot) and rows for Day 1 to Day 5, to count how many seeds have a root. Write the temperature of each place at the top of its column."}
+    {
+     "kind": "warmup",
+     "title": "Remember the three cups",
+     "mins": 5,
+     "do": "Recall Class 1 quickly. Ask: 'What did the DRY, DAMP and DROWNED cups of moong teach us?' (Seeds need water to wake, and air too.) 'Which part came out first?' (The root, growing down.) Then ask the new question: 'Farmers don't sow wheat in May, even if they water it. Why not?' Let your child guess. Say: 'Today we test something we didn't test before: warmth.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Hot and cold, in numbers",
+     "mins": 10,
+     "do": "Show a thermometer (a room or kitchen thermometer, or a digital one). Explain: 'Temperature is how hot or cold something is. We measure it in degrees Celsius, written °C. Ice melts at 0 °C. A nice room is about 25 °C. Your body is about 37 °C. Water boils at 100 °C.' Let your child read the thermometer in three places: the room, a glass of tap water, a glass of water from the fridge. If you have no thermometer, use the weather on a phone for the room, and tell them a fridge is about 4 °C."
+    },
+    {
+     "kind": "exp",
+     "title": "Set up the three-temperature test",
+     "mins": 20,
+     "do": "Do Experiment e1: three identical boxes of 20 moong seeds on damp cotton, one in the fridge, one in a cupboard in the room, and one in a warm spot. Ask your child: 'What are we changing?' (Only the temperature.) 'What must we keep the same?' (The same seeds, same number, same cotton, same water, and all in the dark, because the fridge is dark.) Your child writes a prediction for each box.",
+     "ref": "e1"
+    },
+    {
+     "kind": "review",
+     "title": "Make the table",
+     "mins": 5,
+     "do": "Your child rules a results table in a notebook: three columns (fridge, room, warm spot) and rows for Day 1 to Day 5, to count how many seeds have a root. Write the temperature of each place at the top of its column."
+    }
    ],
-   "need": ["a thermometer if you have one", "60 moong seeds", "3 identical small boxes or katoris with lids or plates on top", "cotton wool", "a measuring spoon", "a notebook and ruler"],
-   "prep": [{"task": "Find three places at home with different temperatures: the fridge (not the freezer), a cupboard in a living room, and a warm spot such as the top of the fridge at the back, a cupboard above the stove (well away from the flame) or beside a water heater", "when": "morning"}]},
-  {"n": 2, "title": "A story from the roof of the world", "goal": "Meet the story, then learn to measure seedlings like a scientist.",
+   "need": [
+    "a thermometer if you have one",
+    "60 moong seeds",
+    "3 identical small boxes or katoris with lids or plates on top",
+    "cotton wool",
+    "a measuring spoon",
+    "a notebook and ruler"
+   ],
+   "prep": [
+    {
+     "task": "Find three places at home with different temperatures: the fridge (not the freezer), a cupboard in a living room, and a warm spot such as the top of the fridge at the back, a cupboard above the stove (well away from the flame) or beside a water heater",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "A story from the roof of the world",
+   "goal": "Meet the story, then learn to measure seedlings like a scientist.",
    "steps": [
-    {"kind": "read", "title": "Story: The Glass Field", "mins": 12, "do": "Read the story aloud. Don't explain it. Ask the story's questions. Ask especially: 'Why did the seedlings inside the glass field droop on the hot afternoon? What did Abi-le do?'"},
-    {"kind": "review", "title": "First count", "mins": 8, "do": "Open the three boxes of Experiment e1 for a minute each. Count the seeds with a root and write the numbers in the table. Add a spoon of water if any cotton is drying, the same amount in every box. Ask: 'Which box is ahead so far?'"},
-    {"kind": "do", "title": "How to measure a seedling", "mins": 12, "do": "Practise on sprouted moong from the kitchen or the room box. Show your child how to lay a sprout along a ruler, start at 0, and read the length in millimetres (the tiny lines) and centimetres. Measure 5 sprouts and write them down. Ask: 'They are all different. How could we say how long the sprouts in one box are, in one number?' Show how to find the middle one when you line them up from shortest to longest, or add them up and share them out (an average). Say: 'Scientists measure many, not one, because one could be unusual.'"},
-    {"kind": "talk", "title": "Why test many seeds?", "mins": 8, "do": "Ask: 'If only one seed sprouted in the fridge, and none in the room, would that prove the fridge is best?' (No: one seed could be odd. That's why we use 20 in each box, and scientists repeat tests.) Then ask: 'What else, apart from temperature, could make one box grow faster? How did we stop that?'"}
+    {
+     "kind": "read",
+     "title": "Story: The Glass Field",
+     "mins": 12,
+     "do": "Read the story aloud. Don't explain it. Ask the story's questions. Ask especially: 'Why did the seedlings inside the glass field droop on the hot afternoon? What did Abi-le do?'"
+    },
+    {
+     "kind": "review",
+     "title": "First count",
+     "mins": 8,
+     "do": "Open the three boxes of Experiment e1 for a minute each. Count the seeds with a root and write the numbers in the table. Add a spoon of water if any cotton is drying, the same amount in every box. Ask: 'Which box is ahead so far?'"
+    },
+    {
+     "kind": "do",
+     "title": "How to measure a seedling",
+     "mins": 12,
+     "do": "Practise on sprouted moong from the kitchen or the room box. Show your child how to lay a sprout along a ruler, start at 0, and read the length in millimetres (the tiny lines) and centimetres. Measure 5 sprouts and write them down. Ask: 'They are all different. How could we say how long the sprouts in one box are, in one number?' Show how to find the middle one when you line them up from shortest to longest, or add them up and share them out (an average). Say: 'Scientists measure many, not one, because one could be unusual.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Why test many seeds?",
+     "mins": 8,
+     "do": "Ask: 'If only one seed sprouted in the fridge, and none in the room, would that prove the fridge is best?' (No: one seed could be odd. That's why we use 20 in each box, and scientists repeat tests.) Then ask: 'What else, apart from temperature, could make one box grow faster? How did we stop that?'"
+    }
    ],
-   "need": ["the three boxes", "a ruler with millimetres", "a few kitchen moong sprouts", "the notebook"]},
-  {"n": 3, "title": "How fast does a plant grow?", "goal": "Measure growth rate, and meet the machine that watched plants grow every second.",
+   "need": [
+    "the three boxes",
+    "a ruler with millimetres",
+    "a few kitchen moong sprouts",
+    "the notebook"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "How fast does a plant grow?",
+   "goal": "Measure growth rate, and meet the machine that watched plants grow every second.",
    "steps": [
-    {"kind": "review", "title": "Count and measure", "mins": 8, "do": "Count the seeds with roots in each box of Experiment e1 and write the numbers. Measure the 5 longest roots in each box and write the middle one. Ask: 'Is the fridge box doing anything at all?'"},
-    {"kind": "act", "title": "Pen-line growth tracker", "mins": 12, "do": "Do Activity a1: choose a fast-growing plant (a bean or gourd climber, a money plant tip, or the seedling pots from the plants rung). With a soft pen, put a tiny dot on the stem and another at the tip, or tie a thread at the tip's height on a stick beside it. Measure from the dot to the tip and write it with the time. You'll measure again every day to find the growth rate in millimetres per day.", "ref": "a1"},
-    {"kind": "talk", "title": "J.C. Bose's crescograph", "mins": 12, "do": "Tell your child about voice v1. Say: 'Plants grow too slowly for our eyes, but not too slowly for Bose's machine. It made a plant's growth look ten thousand times bigger, and showed that growth speeds up and slows down from minute to minute, with warmth, light, touch, even a drop of poison.' Ask: 'If you could watch a plant grow every second, what would you test first?' Then ask the voice's question.", "ref": "v1"},
-    {"kind": "think", "title": "Fastest and slowest", "mins": 8, "do": "Tell your child: 'Some bamboos can grow more than half a metre in a day. Some desert plants grow a few millimetres in a year.' Ask: 'Why might a plant grow slowly on purpose?' (Where there is little water, warmth or food, growing fast would use everything up. Slow and steady can survive.) 'Is faster always better?'"}
+    {
+     "kind": "review",
+     "title": "Count and measure",
+     "mins": 8,
+     "do": "Count the seeds with roots in each box of Experiment e1 and write the numbers. Measure the 5 longest roots in each box and write the middle one. Ask: 'Is the fridge box doing anything at all?'"
+    },
+    {
+     "kind": "act",
+     "title": "Pen-line growth tracker",
+     "mins": 12,
+     "do": "Do Activity a1: choose a fast-growing plant (a bean or gourd climber, a money plant tip, or the seedling pots from the plants rung). With a soft pen, put a tiny dot on the stem and another at the tip, or tie a thread at the tip's height on a stick beside it. Measure from the dot to the tip and write it with the time. You'll measure again every day to find the growth rate in millimetres per day.",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "J.C. Bose's crescograph",
+     "mins": 12,
+     "do": "Tell your child about voice v1. Say: 'Plants grow too slowly for our eyes, but not too slowly for Bose's machine. It made a plant's growth look ten thousand times bigger, and showed that growth speeds up and slows down from minute to minute, with warmth, light, touch, even a drop of poison.' Ask: 'If you could watch a plant grow every second, what would you test first?' Then ask the voice's question.",
+     "ref": "v1"
+    },
+    {
+     "kind": "think",
+     "title": "Fastest and slowest",
+     "mins": 8,
+     "do": "Tell your child: 'Some bamboos can grow more than half a metre in a day. Some desert plants grow a few millimetres in a year.' Ask: 'Why might a plant grow slowly on purpose?' (Where there is little water, warmth or food, growing fast would use everything up. Slow and steady can survive.) 'Is faster always better?'"
+    }
    ],
-   "need": ["the three boxes", "a ruler", "a growing plant", "a soft pen or thread and a stick"]},
-  {"n": 4, "title": "Monsoon crops and winter crops", "goal": "See how farmers match crops to temperature and season.",
+   "need": [
+    "the three boxes",
+    "a ruler",
+    "a growing plant",
+    "a soft pen or thread and a stick"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Monsoon crops and winter crops",
+   "goal": "See how farmers match crops to temperature and season.",
    "steps": [
-    {"kind": "review", "title": "Count and measure", "mins": 6, "do": "Count and measure Experiment e1 again and write it in the table. Measure the pen-line plant. Ask: 'How many millimetres did it grow since yesterday?'"},
-    {"kind": "act", "title": "The crop calendar", "mins": 14, "do": "Do Activity a2: draw a year as a circle of 12 months. Mark the monsoon months (about June to September) and the cool winter months (about November to February). Your child sorts crop cards onto it: rice, ragi, maize, cotton, groundnut and soybean are kharif crops, sown when the monsoon comes, warm and wet. Wheat, mustard, chana and barley are rabi crops, sown in the cool, dry winter and harvested in spring. Ask: 'Why don't farmers sow wheat in the monsoon?' (Wheat grows best in cool weather. In heat it makes small grains.) 'Why rice in the monsoon?' (It loves warmth and lots of water.)", "ref": "a2"},
-    {"kind": "talk", "title": "Ask someone who grows food", "mins": 8, "do": "Phone or visit someone who grows food: a farmer in the family, a gardener at a plant nursery, or the vegetable seller (who knows which vegetables come in which season). Ask them: 'What do you plant in the cold months and what in the hot months? What happens if you sow at the wrong time?' Your child writes one thing they learned."},
-    {"kind": "ws", "title": "Hot, cold and growing", "mins": 12, "do": "Do Worksheet ws1. Your child answers on their own. Help only with reading. Check the bar chart question together.", "ref": "ws1"}
+    {
+     "kind": "review",
+     "title": "Count and measure",
+     "mins": 6,
+     "do": "Count and measure Experiment e1 again and write it in the table. Measure the pen-line plant. Ask: 'How many millimetres did it grow since yesterday?'"
+    },
+    {
+     "kind": "act",
+     "title": "The crop calendar",
+     "mins": 14,
+     "do": "Do Activity a2: draw a year as a circle of 12 months. Mark the monsoon months (about June to September) and the cool winter months (about November to February). Your child sorts crop cards onto it: rice, ragi, maize, cotton, groundnut and soybean are kharif crops, sown when the monsoon comes, warm and wet. Wheat, mustard, chana and barley are rabi crops, sown in the cool, dry winter and harvested in spring. Ask: 'Why don't farmers sow wheat in the monsoon?' (Wheat grows best in cool weather. In heat it makes small grains.) 'Why rice in the monsoon?' (It loves warmth and lots of water.)",
+     "ref": "a2"
+    },
+    {
+     "kind": "talk",
+     "title": "Ask someone who grows food",
+     "mins": 8,
+     "do": "Phone or visit someone who grows food: a farmer in the family, a gardener at a plant nursery, or the vegetable seller (who knows which vegetables come in which season). Ask them: 'What do you plant in the cold months and what in the hot months? What happens if you sow at the wrong time?' Your child writes one thing they learned."
+    },
+    {
+     "kind": "ws",
+     "title": "Hot, cold and growing",
+     "mins": 12,
+     "do": "Do Worksheet ws1. Your child answers on their own. Help only with reading. Check the bar chart question together.",
+     "ref": "ws1"
+    }
    ],
-   "need": ["the three boxes", "a big sheet of paper, crayons", "crop cards or pictures (or real grains: rice, ragi, groundnut, wheat, chana, mustard)", "worksheet ws1"]},
-  {"n": 5, "title": "Greenhouses and seed vaults", "goal": "See how people trap warmth to grow plants, and use cold to keep seeds asleep.",
+   "need": [
+    "the three boxes",
+    "a big sheet of paper, crayons",
+    "crop cards or pictures (or real grains: rice, ragi, groundnut, wheat, chana, mustard)",
+    "worksheet ws1"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Greenhouses and seed vaults",
+   "goal": "See how people trap warmth to grow plants, and use cold to keep seeds asleep.",
    "steps": [
-    {"kind": "exp", "title": "Bottle greenhouse", "mins": 15, "do": "Set up Experiment e2: cut a big plastic bottle in half and put the top half over one of two identical pots of seedlings (or two patches of sown methi). Leave the cap off for air. Put both pots side by side in the sun. Put a thermometer under the bottle and one beside it, or feel the air inside with your hand after an hour. Ask: 'Why do you think it is warmer inside?' (Sunlight comes in through the clear plastic and warms the soil and air, and the plastic stops the warm air blowing away.)", "ref": "e2"},
-    {"kind": "review", "title": "Count and measure", "mins": 7, "do": "Count and measure Experiment e1 and write it in the table. Then take the fridge box out and leave it in the room next to the room box for the rest of the test. Ask: 'Are the fridge seeds dead, or just asleep? What will happen now?'"},
-    {"kind": "read", "title": "The coldest library in the world", "mins": 12, "do": "Read this aloud: 'On an island called Svalbard, close to the North Pole, there is a tunnel dug deep into a frozen mountain. Inside, at about minus 18 °C, sit more than a million packets of seeds from almost every country, including India: rice, wheat, chana, millets. It is called the Svalbard Global Seed Vault, and it opened in 2008. The cold keeps the seeds asleep, breathing so slowly that many can stay alive for decades or longer. In 2015, scientists in Syria, whose own seed bank was caught in a war, became the first to take seeds back out of the vault and grow them again.' Ask: 'Why keep seeds so cold?' (Cold slows down the chemistry inside the seed, so its stored food lasts much longer.) 'Who do these seeds belong to?'"},
-    {"kind": "think", "title": "Too hot inside?", "mins": 6, "do": "Remember the story. Ask: 'In the glass field, why did Abi-le open the flaps at midday?' (It got too hot.) 'What might happen in our bottle greenhouse on a very hot afternoon?' Decide together: if the pot is in hot sun at midday, lift the bottle off."}
+    {
+     "kind": "exp",
+     "title": "Bottle greenhouse",
+     "mins": 15,
+     "do": "Set up Experiment e2: cut a big plastic bottle in half and put the top half over one of two identical pots of seedlings (or two patches of sown methi). Leave the cap off for air. Put both pots side by side in the sun. Put a thermometer under the bottle and one beside it, or feel the air inside with your hand after an hour. Ask: 'Why do you think it is warmer inside?' (Sunlight comes in through the clear plastic and warms the soil and air, and the plastic stops the warm air blowing away.)",
+     "ref": "e2"
+    },
+    {
+     "kind": "review",
+     "title": "Count and measure",
+     "mins": 7,
+     "do": "Count and measure Experiment e1 and write it in the table. Then take the fridge box out and leave it in the room next to the room box for the rest of the test. Ask: 'Are the fridge seeds dead, or just asleep? What will happen now?'"
+    },
+    {
+     "kind": "read",
+     "title": "The coldest library in the world",
+     "mins": 12,
+     "do": "Read this aloud: 'On an island called Svalbard, close to the North Pole, there is a tunnel dug deep into a frozen mountain. Inside, at about minus 18 °C, sit more than a million packets of seeds from almost every country, including India: rice, wheat, chana, millets. It is called the Svalbard Global Seed Vault, and it opened in 2008. The cold keeps the seeds asleep, breathing so slowly that many can stay alive for decades or longer. In 2015, scientists in Syria, whose own seed bank was caught in a war, became the first to take seeds back out of the vault and grow them again.' Ask: 'Why keep seeds so cold?' (Cold slows down the chemistry inside the seed, so its stored food lasts much longer.) 'Who do these seeds belong to?'"
+    },
+    {
+     "kind": "think",
+     "title": "Too hot inside?",
+     "mins": 6,
+     "do": "Remember the story. Ask: 'In the glass field, why did Abi-le open the flaps at midday?' (It got too hot.) 'What might happen in our bottle greenhouse on a very hot afternoon?' Decide together: if the pot is in hot sun at midday, lift the bottle off."
+    }
    ],
-   "need": ["a big clear plastic bottle (a grown-up cuts it)", "two identical pots of seedlings or sown methi", "a thermometer if you have one", "the three boxes"]},
-  {"n": 6, "title": "Results: our table, our chart, our conclusion", "goal": "Finish the fair test and turn results into a bar chart and a conclusion.",
+   "need": [
+    "a big clear plastic bottle (a grown-up cuts it)",
+    "two identical pots of seedlings or sown methi",
+    "a thermometer if you have one",
+    "the three boxes"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Results: our table, our chart, our conclusion",
+   "goal": "Finish the fair test and turn results into a bar chart and a conclusion.",
    "steps": [
-    {"kind": "review", "title": "Final count", "mins": 8, "do": "Do the last count and measurement of Experiment e1. Look at the fridge seeds that have spent a day or two in the room: have they started to sprout? (Usually yes: the cold slowed them, it didn't kill them.)"},
-    {"kind": "do", "title": "Draw the bar chart", "mins": 12, "do": "On squared paper, your child draws a bar chart of the Day 4 or Day 5 count: one bar each for fridge, room and warm spot, the height showing how many seeds had sprouted. Help them label both axes ('place and temperature' along the bottom, 'number of seeds sprouted' up the side) and write a title. Ask: 'Which bar is tallest? Is the warm spot always the winner?'"},
-    {"kind": "think", "title": "Our conclusion", "mins": 8, "do": "Your child writes a conclusion in one or two sentences, starting 'Our results show that…'. A good one: 'Our results show that moong seeds sprouted fastest in the warm spot and the room, and very slowly in the fridge. Cold slows seeds down.' Then ask: 'What if we had a box at 50 °C? Would it be even faster?' (No: too hot cooks and dries the baby plant, and growth stops. Each plant has its own best range. For moong it is warm, for wheat it is cooler.) Draw the 'too cold, just right, too hot' hill shape together."},
-    {"kind": "ws", "title": "New cases", "mins": 12, "do": "Do Worksheet ws2. It asks your child to use the idea of a best temperature on new plants and new results.", "ref": "ws2"}
+    {
+     "kind": "review",
+     "title": "Final count",
+     "mins": 8,
+     "do": "Do the last count and measurement of Experiment e1. Look at the fridge seeds that have spent a day or two in the room: have they started to sprout? (Usually yes: the cold slowed them, it didn't kill them.)"
+    },
+    {
+     "kind": "do",
+     "title": "Draw the bar chart",
+     "mins": 12,
+     "do": "On squared paper, your child draws a bar chart of the Day 4 or Day 5 count: one bar each for fridge, room and warm spot, the height showing how many seeds had sprouted. Help them label both axes ('place and temperature' along the bottom, 'number of seeds sprouted' up the side) and write a title. Ask: 'Which bar is tallest? Is the warm spot always the winner?'"
+    },
+    {
+     "kind": "think",
+     "title": "Our conclusion",
+     "mins": 8,
+     "do": "Your child writes a conclusion in one or two sentences, starting 'Our results show that…'. A good one: 'Our results show that moong seeds sprouted fastest in the warm spot and the room, and very slowly in the fridge. Cold slows seeds down.' Then ask: 'What if we had a box at 50 °C? Would it be even faster?' (No: too hot cooks and dries the baby plant, and growth stops. Each plant has its own best range. For moong it is warm, for wheat it is cooler.) Draw the 'too cold, just right, too hot' hill shape together."
+    },
+    {
+     "kind": "ws",
+     "title": "New cases",
+     "mins": 12,
+     "do": "Do Worksheet ws2. It asks your child to use the idea of a best temperature on new plants and new results.",
+     "ref": "ws2"
+    }
    ],
-   "need": ["the three boxes", "squared paper, ruler and crayons", "worksheet ws2"]},
-  {"n": 7, "title": "A warming world", "goal": "Feel how plants cool a street, and weigh up how warming is changing plants.",
+   "need": [
+    "the three boxes",
+    "squared paper, ruler and crayons",
+    "worksheet ws2"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "A warming world",
+   "goal": "Feel how plants cool a street, and weigh up how warming is changing plants.",
    "steps": [
-    {"kind": "outdoor", "title": "Shade and sun walk", "mins": 12, "do": "Do Activity a3 at midday or early afternoon: find a big tree. Measure or feel the temperature of the ground and the air in full sun, then under the tree, then on bare concrete or a road. Your child records each. Ask: 'Why is it cooler under the tree?' (Shade blocks the Sun, and the leaves give out water vapour, which cools the air, the way sweat cools you.)", "ref": "a3"},
-    {"kind": "talk", "title": "The 1,200-year-old flower diary", "mins": 10, "do": "Tell your child about voice v2: in Kyoto, Japan, people wrote down the day the cherry trees bloomed for about 1,200 years, and in 2021 they bloomed earlier than ever recorded. Ask: 'Why would warmer springs make flowers come earlier?' (Warmth speeds up growth, like our warm box.) 'Who kept this record? Were they scientists?' (Mostly not: court officials, poets and monks. Their diaries became science.)", "ref": "v2"},
-    {"kind": "think", "title": "Good or bad for plants?", "mins": 12, "do": "Talk about voice v3. Set out two sides on paper. Side A: 'More carbon dioxide and warmth help many plants grow. Satellites show the Earth getting greener.' Side B: 'Heat waves shrivel crops. In March 2022 a sudden heat wave made India's wheat grains small.' Ask your child to put one finger on each side: 'Which do you think matters more? What would you want to know before deciding?'", "ref": "v3"},
-    {"kind": "review", "title": "Greenhouse check", "mins": 6, "do": "Look at the bottle greenhouse from Experiment e2. Measure the tallest seedling under the bottle and outside. Ask: 'Did the warmer pot grow faster? Was anything else different between the pots?' (Moisture: the bottle also keeps water in. That's a second change, so the test isn't perfectly fair.)"}
+    {
+     "kind": "outdoor",
+     "title": "Shade and sun walk",
+     "mins": 12,
+     "do": "Do Activity a3 at midday or early afternoon: find a big tree. Measure or feel the temperature of the ground and the air in full sun, then under the tree, then on bare concrete or a road. Your child records each. Ask: 'Why is it cooler under the tree?' (Shade blocks the Sun, and the leaves give out water vapour, which cools the air, the way sweat cools you.)",
+     "ref": "a3"
+    },
+    {
+     "kind": "talk",
+     "title": "The 1,200-year-old flower diary",
+     "mins": 10,
+     "do": "Tell your child about voice v2: in Kyoto, Japan, people wrote down the day the cherry trees bloomed for about 1,200 years, and in 2021 they bloomed earlier than ever recorded. Ask: 'Why would warmer springs make flowers come earlier?' (Warmth speeds up growth, like our warm box.) 'Who kept this record? Were they scientists?' (Mostly not: court officials, poets and monks. Their diaries became science.)",
+     "ref": "v2"
+    },
+    {
+     "kind": "think",
+     "title": "Good or bad for plants?",
+     "mins": 12,
+     "do": "Talk about voice v3. Set out two sides on paper. Side A: 'More carbon dioxide and warmth help many plants grow. Satellites show the Earth getting greener.' Side B: 'Heat waves shrivel crops. In March 2022 a sudden heat wave made India's wheat grains small.' Ask your child to put one finger on each side: 'Which do you think matters more? What would you want to know before deciding?'",
+     "ref": "v3"
+    },
+    {
+     "kind": "review",
+     "title": "Greenhouse check",
+     "mins": 6,
+     "do": "Look at the bottle greenhouse from Experiment e2. Measure the tallest seedling under the bottle and outside. Ask: 'Did the warmer pot grow faster? Was anything else different between the pots?' (Moisture: the bottle also keeps water in. That's a second change, so the test isn't perfectly fair.)"
+    }
    ],
-   "need": ["a thermometer if you have one", "a notebook", "the bottle greenhouse pots"]},
-  {"n": 8, "title": "Play, check and teach it back", "goal": "Use everything to explain how temperature changes growth.",
+   "need": [
+    "a thermometer if you have one",
+    "a notebook",
+    "the bottle greenhouse pots"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Play, check and teach it back",
+   "goal": "Use everything to explain how temperature changes growth.",
    "steps": [
-    {"kind": "game", "title": "Too Hot, Too Cold, Just Right", "mins": 12, "do": "Play the card game (g1). For each card, the player says whether the plant or seed is too cold, just right or too hot, and why.", "ref": "g1"},
-    {"kind": "do", "title": "Project report", "mins": 10, "do": "Your child finishes the project poster: the question, the fair test, the table, the bar chart and the conclusion. They add one thing they would change if they did it again (for example, more places, more seeds, measuring the temperature every day)."},
-    {"kind": "check", "title": "Teach it back", "mins": 10, "do": "Your child presents the poster to the family and explains: how to read a thermometer, what the test showed, why too hot is bad as well as too cold, why wheat is a winter crop, and what a seed vault is. Then ask the check questions."},
-    {"kind": "ws", "title": "Think like a plant scientist", "mins": 8, "do": "Start Worksheet ws3. Finish it another day if needed. The written questions are worth slow thinking.", "ref": "ws3"}
+    {
+     "kind": "game",
+     "title": "Too Hot, Too Cold, Just Right",
+     "mins": 12,
+     "do": "Play the card game (g1). For each card, the player says whether the plant or seed is too cold, just right or too hot, and why.",
+     "ref": "g1"
+    },
+    {
+     "kind": "do",
+     "title": "Project report",
+     "mins": 10,
+     "do": "Your child finishes the project poster: the question, the fair test, the table, the bar chart and the conclusion. They add one thing they would change if they did it again (for example, more places, more seeds, measuring the temperature every day)."
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 10,
+     "do": "Your child presents the poster to the family and explains: how to read a thermometer, what the test showed, why too hot is bad as well as too cold, why wheat is a winter crop, and what a seed vault is. Then ask the check questions."
+    },
+    {
+     "kind": "ws",
+     "title": "Think like a plant scientist",
+     "mins": 8,
+     "do": "Start Worksheet ws3. Finish it another day if needed. The written questions are worth slow thinking.",
+     "ref": "ws3"
+    }
    ],
-   "need": ["the printed cards", "the poster", "worksheet ws3"]}
+   "need": [
+    "the printed cards",
+    "the poster",
+    "worksheet ws3"
+   ]
+  }
  ],
  "worksheets": [
-  {"id": "ws1", "tier": "core", "title": "Hot, cold and growing", "day": 4, "sections": [
-   ["A. Temperature", [
-    {"t": "mcq", "p": "What does a thermometer measure?", "opts": ["how heavy something is", "how hot or cold something is", "how tall a plant is"], "a": 1},
-    {"t": "fill", "p": "We measure temperature in degrees ____.", "a": ["Celsius", "celsius", "C"]},
-    {"t": "match", "p": "Match the temperature to the place.", "pairs": [["about 4 °C", "inside a fridge"], ["about 25 °C", "a comfortable room"], ["about 37 °C", "inside your body"], ["100 °C", "boiling water"], ["0 °C", "melting ice"]]}]],
-   ["B. Our fair test", [
-    {"t": "mcq", "p": "In our seed test, what did we change?", "opts": ["the number of seeds", "the temperature", "the amount of water"], "a": 1},
-    {"t": "sort", "p": "In our test, did we change it or keep it the same?", "items": ["temperature", "kind of seed", "number of seeds", "amount of water", "darkness", "kind of cotton"], "cats": ["changed", "kept the same"]},
-    {"t": "mcq", "p": "Where did the seeds sprout most slowly?", "opts": ["in the fridge", "in the room", "in the warm spot"], "a": 0}]],
-   ["C. Crops and seasons", [
-    {"t": "sort", "p": "Is it sown with the monsoon (kharif) or in the cool winter (rabi)?", "items": ["rice", "wheat", "mustard", "cotton", "chana", "maize"], "cats": ["kharif (monsoon)", "rabi (winter)"]},
-    {"t": "write", "p": "Why did we keep all three boxes in the dark, even the ones outside the fridge?", "lines": 3},
-    {"t": "write", "p": "Why do farmers sow wheat in winter and not in the monsoon?", "lines": 2}]]]},
-  {"id": "ws2", "tier": "stretch", "title": "Just right for whom?", "day": 6, "sections": [
-   ["A. Read the results", [
-    {"t": "table", "p": "Meenakshi, a girl in Class 3, tested 20 methi seeds at each of four temperatures. Copy her results and draw a bar chart on squared paper.", "cols": ["Temperature", "Seeds sprouted after 4 days"], "rows": 4, "prefill": ["5 °C: 2", "15 °C: 9", "25 °C: 18", "40 °C: 6"]},
-    {"t": "mcq", "p": "From Meenakshi's results, at which temperature did methi sprout best?", "opts": ["5 °C", "15 °C", "25 °C", "40 °C"], "a": 2},
-    {"t": "mcq", "p": "What do Meenakshi's results at 40 °C show?", "opts": ["hotter is always better", "too hot is bad for sprouting too", "methi likes the fridge"], "a": 1},
-    {"t": "fill", "p": "Each kind of plant has its own best ____ range for growing.", "a": ["temperature"]}]],
-   ["B. Use the idea", [
-    {"t": "match", "p": "Match the plant to where it grows best.", "pairs": [["apple tree", "cool hills like Himachal"], ["coconut palm", "warm coasts like Kerala"], ["date palm", "hot deserts"], ["wheat", "cool winters on the plains"], ["rice", "warm, wet fields like the Kaveri delta in Tamil Nadu"]]},
-    {"t": "mcq", "p": "Why are seeds stored in the Svalbard vault at about minus 18 °C?", "opts": ["to kill insects only", "cold slows the seed down so it stays alive much longer", "so they sprout faster"], "a": 1},
-    {"t": "mcq", "p": "Our bottle greenhouse was warmer inside because…", "opts": ["the plastic makes heat by itself", "sunlight warms the inside and the plastic stops the warm air escaping", "the soil is different"], "a": 1}]],
-   ["C. Explain", [
-    {"t": "write", "p": "Meenakshi says: 'My test shows methi grows best at 25 °C.' Her friend Farhan says: 'You only tested once.' Who is right? How could Meenakshi be more sure?", "lines": 3},
-    {"t": "write", "p": "The fridge seeds sprouted when we moved them into the room. What does that tell us about what cold does to seeds?", "lines": 2}]]]},
-  {"id": "ws3", "tier": "challenge", "title": "Think like a plant scientist", "day": 8, "sections": [
-   ["A. Puzzles", [
-    {"t": "write", "p": "Our bottle greenhouse grew faster. But the bottle kept water in as well as warmth. How could you design a test that changes only the warmth?", "lines": 3},
-    {"t": "write", "p": "In March 2022 a heat wave arrived just as India's wheat was filling its grains. Use what you know about 'too hot' to explain why the harvest was smaller.", "lines": 3},
-    {"t": "write", "p": "The Kyoto flower diary was written by court officials, poets and monks, not scientists. Can it still be good evidence? What might make it less trustworthy?", "lines": 3}]],
-   ["B. Choose", [
-    {"t": "mcq", "p": "A seed packet says 'Sow when the soil is warm.' A farmer in Ladakh sows in a trench greenhouse in March. Why?", "opts": ["to keep goats out only", "the ground outside is still too cold for seeds to sprout", "because seeds need darkness"], "a": 1},
-    {"t": "mcq", "p": "A street with big trees is often several degrees cooler than a bare road nearby. Which is the best reason?", "opts": ["trees are made of ice", "shade blocks sunlight and leaves give out water vapour that cools the air", "trees eat heat"], "a": 1},
-    {"t": "mcq", "p": "Which question can our three-box test NOT answer?", "opts": ["Do moong seeds sprout faster when warm?", "Does cold slow moong seeds down?", "Which temperature is best for wheat?"], "a": 2}]],
-   ["C. Sort", [
-    {"t": "sort", "p": "Is this using cold or warmth to help plants or seeds?", "items": ["seed vault", "greenhouse", "storing seeds in a fridge", "bottle over a seedling", "trench greenhouse in Ladakh", "keeping grain in a cool, dry store"], "cats": ["using cold", "using warmth"]},
-    {"t": "match", "p": "Match the claim to the honest verdict.", "pairs": [["More carbon dioxide helps many plants grow", "true for many plants, if water and nutrients are enough"], ["Heat waves can harm crops", "true: too hot stops growth"], ["A warmer world is simply good for plants", "debated: it helps some places and harms others"]]}]]]}
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Hot, cold and growing",
+   "day": 4,
+   "sections": [
+    [
+     "A. Temperature",
+     [
+      {
+       "t": "mcq",
+       "p": "What does a thermometer measure?",
+       "opts": [
+        "how heavy something is",
+        "how hot or cold something is",
+        "how tall a plant is"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "We measure temperature in degrees ____.",
+       "a": [
+        "Celsius",
+        "celsius",
+        "C"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match the temperature to the place.",
+       "pairs": [
+        [
+         "about 4 °C",
+         "inside a fridge"
+        ],
+        [
+         "about 25 °C",
+         "a comfortable room"
+        ],
+        [
+         "about 37 °C",
+         "inside your body"
+        ],
+        [
+         "100 °C",
+         "boiling water"
+        ],
+        [
+         "0 °C",
+         "melting ice"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Our fair test",
+     [
+      {
+       "t": "mcq",
+       "p": "In our seed test, what did we change?",
+       "opts": [
+        "the number of seeds",
+        "the temperature",
+        "the amount of water"
+       ],
+       "a": 1
+      },
+      {
+       "t": "sort",
+       "p": "In our test, did we change it or keep it the same?",
+       "items": [
+        "temperature",
+        "kind of seed",
+        "number of seeds",
+        "amount of water",
+        "darkness",
+        "kind of cotton"
+       ],
+       "cats": [
+        "changed",
+        "kept the same"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Where did the seeds sprout most slowly?",
+       "opts": [
+        "in the fridge",
+        "in the room",
+        "in the warm spot"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Crops and seasons",
+     [
+      {
+       "t": "sort",
+       "p": "Is it sown with the monsoon (kharif) or in the cool winter (rabi)?",
+       "items": [
+        "rice",
+        "wheat",
+        "mustard",
+        "cotton",
+        "chana",
+        "maize"
+       ],
+       "cats": [
+        "kharif (monsoon)",
+        "rabi (winter)"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Why did we keep all three boxes in the dark, even the ones outside the fridge?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Why do farmers sow wheat in winter and not in the monsoon?",
+       "lines": 2
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Just right for whom?",
+   "day": 6,
+   "sections": [
+    [
+     "A. Read the results",
+     [
+      {
+       "t": "table",
+       "p": "Meenakshi, a girl in Class 3, tested 20 methi seeds at each of four temperatures. Copy her results and draw a bar chart on squared paper.",
+       "cols": [
+        "Temperature",
+        "Seeds sprouted after 4 days"
+       ],
+       "rows": 4,
+       "prefill": [
+        "5 °C: 2",
+        "15 °C: 9",
+        "25 °C: 18",
+        "40 °C: 6"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "From Meenakshi's results, at which temperature did methi sprout best?",
+       "opts": [
+        "5 °C",
+        "15 °C",
+        "25 °C",
+        "40 °C"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "p": "What do Meenakshi's results at 40 °C show?",
+       "opts": [
+        "hotter is always better",
+        "too hot is bad for sprouting too",
+        "methi likes the fridge"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "Each kind of plant has its own best ____ range for growing.",
+       "a": [
+        "temperature"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Use the idea",
+     [
+      {
+       "t": "match",
+       "p": "Match the plant to where it grows best.",
+       "pairs": [
+        [
+         "apple tree",
+         "cool hills like Himachal"
+        ],
+        [
+         "coconut palm",
+         "warm coasts like Kerala"
+        ],
+        [
+         "date palm",
+         "hot deserts"
+        ],
+        [
+         "wheat",
+         "cool winters on the plains"
+        ],
+        [
+         "rice",
+         "warm, wet fields like the Kaveri delta in Tamil Nadu"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Why are seeds stored in the Svalbard vault at about minus 18 °C?",
+       "opts": [
+        "to kill insects only",
+        "cold slows the seed down so it stays alive much longer",
+        "so they sprout faster"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Our bottle greenhouse was warmer inside because…",
+       "opts": [
+        "the plastic makes heat by itself",
+        "sunlight warms the inside and the plastic stops the warm air escaping",
+        "the soil is different"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "Meenakshi says: 'My test shows methi grows best at 25 °C.' Her friend Farhan says: 'You only tested once.' Who is right? How could Meenakshi be more sure?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "The fridge seeds sprouted when we moved them into the room. What does that tell us about what cold does to seeds?",
+       "lines": 2
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Think like a plant scientist",
+   "day": 8,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "write",
+       "p": "Our bottle greenhouse grew faster. But the bottle kept water in as well as warmth. How could you design a test that changes only the warmth?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "In March 2022 a heat wave arrived just as India's wheat was filling its grains. Use what you know about 'too hot' to explain why the harvest was smaller.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "The Kyoto flower diary was written by court officials, poets and monks, not scientists. Can it still be good evidence? What might make it less trustworthy?",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "B. Choose",
+     [
+      {
+       "t": "mcq",
+       "p": "A seed packet says 'Sow when the soil is warm.' A farmer in Ladakh sows in a trench greenhouse in March. Why?",
+       "opts": [
+        "to keep goats out only",
+        "the ground outside is still too cold for seeds to sprout",
+        "because seeds need darkness"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "A street with big trees is often several degrees cooler than a bare road nearby. Which is the best reason?",
+       "opts": [
+        "trees are made of ice",
+        "shade blocks sunlight and leaves give out water vapour that cools the air",
+        "trees eat heat"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Which question can our three-box test NOT answer?",
+       "opts": [
+        "Do moong seeds sprout faster when warm?",
+        "Does cold slow moong seeds down?",
+        "Which temperature is best for wheat?"
+       ],
+       "a": 2
+      }
+     ]
+    ],
+    [
+     "C. Sort",
+     [
+      {
+       "t": "sort",
+       "p": "Is this using cold or warmth to help plants or seeds?",
+       "items": [
+        "seed vault",
+        "greenhouse",
+        "storing seeds in a fridge",
+        "bottle over a seedling",
+        "trench greenhouse in Ladakh",
+        "keeping grain in a cool, dry store"
+       ],
+       "cats": [
+        "using cold",
+        "using warmth"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match the claim to the honest verdict.",
+       "pairs": [
+        [
+         "More carbon dioxide helps many plants grow",
+         "true for many plants, if water and nutrients are enough"
+        ],
+        [
+         "Heat waves can harm crops",
+         "true: too hot stops growth"
+        ],
+        [
+         "A warmer world is simply good for plants",
+         "debated: it helps some places and harms others"
+        ]
+       ]
+      }
+     ]
+    ]
+   ]
+  }
  ],
  "experiments": [
-  {"id": "e1", "title": "The three-temperature test", "day": 1, "question": "Do seeds sprout faster when it is warm or when it is cold?", "need": ["60 moong seeds (or methi)", "3 identical small boxes or katoris with a plate or lid on top", "cotton wool", "a measuring spoon and water", "a thermometer if you have one", "a notebook"], "steps": ["Put the same amount of cotton in each box and wet each with exactly 4 spoons of water.", "Count 20 seeds onto the cotton in each box.", "Cover each box so it is dark inside (the fridge is dark, so the others must be too).", "Put one box in the fridge (not the freezer), one in a cupboard in a room, and one in a warm spot.", "Write down the temperature of each place if you can.", "Every day for 4–5 days, count the seeds with a root and measure the 5 longest roots in each box. Add the same small amount of water to each if they dry.", "On Day 5, move the fridge box into the room and watch for two more days."], "predict": "Ask your child to predict, for each box, how many seeds will sprout by Day 4 and whose roots will be longest.", "observe": "Number of seeds sprouted each day, and root length, in each box. Then whether the fridge seeds sprout once warmed.", "why": "Inside a seed, the baby plant uses its stored food with the help of chemicals called enzymes. These work faster when warm and very slowly when cold, so warm seeds sprout and grow faster and cold seeds wait. Cold does not kill most seeds. It slows them, which is why they sprout when moved into the warm. But very high temperatures damage the living cells and dry the seed out, so growth stops. Each kind of plant has its own best range, suited to where and when it grows.", "safety": "Never use the oven, the stove top or a flame as the warm spot. A warm cupboard or the top of the fridge is enough. Don't eat seeds from the test.", "time": "20 min + 5–7 days"},
-  {"id": "e2", "title": "Bottle greenhouse", "day": 5, "question": "Does trapping warmth make seedlings grow faster?", "need": ["a large clear plastic bottle", "two identical pots of young seedlings, or two pots sown with methi on the same day", "a thermometer if you have one", "a ruler"], "steps": ["A grown-up cuts the bottle in half. Keep the top half and take off the cap.", "Put the bottle over one pot, pushing it gently into the soil. Leave the other pot uncovered.", "Stand both pots side by side in a sunny place and water them the same.", "After an hour, compare the temperature inside the bottle and beside it (or feel the air).", "Measure the tallest seedling in each pot every two days for a week.", "On very hot afternoons, lift the bottle off so the seedlings don't cook."], "predict": "Ask: 'Which pot will grow faster? Could the bottle ever be bad for the plant?'", "observe": "The temperature inside and outside the bottle, and the height of the seedlings.", "why": "Sunlight passes through the clear plastic and warms the soil and air inside. The plastic stops the warm air from blowing away, so it stays warmer. In cool weather this speeds up growth. The bottle also keeps moisture in, so two things change, not one: a good thing to notice. In hot sun, a closed greenhouse can get too hot and harm the plants, which is why real greenhouses have vents.", "safety": "A grown-up cuts the bottle. Cut edges can be sharp, so tape them.", "time": "15 min + 1 week"}
+  {
+   "id": "e1",
+   "title": "The three-temperature test",
+   "day": 1,
+   "question": "Do seeds sprout faster when it is warm or when it is cold?",
+   "need": [
+    "60 moong seeds (or methi)",
+    "3 identical small boxes or katoris with a plate or lid on top",
+    "cotton wool",
+    "a measuring spoon and water",
+    "a thermometer if you have one",
+    "a notebook"
+   ],
+   "steps": [
+    "Put the same amount of cotton in each box and wet each with exactly 4 spoons of water.",
+    "Count 20 seeds onto the cotton in each box.",
+    "Cover each box so it is dark inside (the fridge is dark, so the others must be too).",
+    "Put one box in the fridge (not the freezer), one in a cupboard in a room, and one in a warm spot.",
+    "Write down the temperature of each place if you can.",
+    "Every day for 4–5 days, count the seeds with a root and measure the 5 longest roots in each box. Add the same small amount of water to each if they dry.",
+    "On Day 5, move the fridge box into the room and watch for two more days."
+   ],
+   "predict": "Ask your child to predict, for each box, how many seeds will sprout by Day 4 and whose roots will be longest.",
+   "observe": "Number of seeds sprouted each day, and root length, in each box. Then whether the fridge seeds sprout once warmed.",
+   "why": "Inside a seed, the baby plant uses its stored food with the help of chemicals called enzymes. These work faster when warm and very slowly when cold, so warm seeds sprout and grow faster and cold seeds wait. Cold does not kill most seeds. It slows them, which is why they sprout when moved into the warm. But very high temperatures damage the living cells and dry the seed out, so growth stops. Each kind of plant has its own best range, suited to where and when it grows.",
+   "safety": "Never use the oven, the stove top or a flame as the warm spot. A warm cupboard or the top of the fridge is enough. Don't eat seeds from the test.",
+   "time": "20 min + 5–7 days"
+  },
+  {
+   "id": "e2",
+   "title": "Bottle greenhouse",
+   "day": 5,
+   "question": "Does trapping warmth make seedlings grow faster?",
+   "need": [
+    "a large clear plastic bottle",
+    "two identical pots of young seedlings, or two pots sown with methi on the same day",
+    "a thermometer if you have one",
+    "a ruler"
+   ],
+   "steps": [
+    "A grown-up cuts the bottle in half. Keep the top half and take off the cap.",
+    "Put the bottle over one pot, pushing it gently into the soil. Leave the other pot uncovered.",
+    "Stand both pots side by side in a sunny place and water them the same.",
+    "After an hour, compare the temperature inside the bottle and beside it (or feel the air).",
+    "Measure the tallest seedling in each pot every two days for a week.",
+    "On very hot afternoons, lift the bottle off so the seedlings don't cook."
+   ],
+   "predict": "Ask: 'Which pot will grow faster? Could the bottle ever be bad for the plant?'",
+   "observe": "The temperature inside and outside the bottle, and the height of the seedlings.",
+   "why": "Sunlight passes through the clear plastic and warms the soil and air inside. The plastic stops the warm air from blowing away, so it stays warmer. In cool weather this speeds up growth. The bottle also keeps moisture in, so two things change, not one: a good thing to notice. In hot sun, a closed greenhouse can get too hot and harm the plants, which is why real greenhouses have vents.",
+   "safety": "A grown-up cuts the bottle. Cut edges can be sharp, so tape them.",
+   "time": "15 min + 1 week"
+  }
  ],
  "activities": [
-  {"id": "a1", "title": "Pen-line growth tracker", "day": 3, "mins": 12, "need": ["a fast-growing plant (bean or gourd climber, money plant, or a seedling)", "a soft pen or a thread and a stick", "a ruler", "a notebook"], "steps": ["Mark a small dot on the stem with a soft pen, or push a stick into the soil beside the plant.", "Measure from the dot (or from the soil) to the very tip. Write the length, the date and the time.", "Measure again at the same time every day for 5 days.", "Work out how much it grew each day by taking yesterday's length from today's.", "Write the temperature each day too, and look: did it grow more on warmer days?"], "outcome": "A five-day record of growth in millimetres per day."},
-  {"id": "a2", "title": "The crop calendar", "day": 4, "mins": 14, "need": ["a big sheet of paper", "crayons", "pictures or real grains of rice, ragi, maize, groundnut, cotton, wheat, mustard, chana"], "steps": ["Draw a big circle and divide it into 12 months.", "Colour the monsoon months (about June to September) blue and the cool winter months (about November to February) light green.", "Place each crop where it is sown: kharif crops (rice, ragi, maize, cotton, groundnut, soybean) at the start of the monsoon. Rabi crops (wheat, mustard, chana, barley) at the start of winter.", "Draw an arrow from sowing to harvest for two crops.", "Write one sentence: 'Wheat is sown in winter because…'"], "outcome": "A year-circle showing how Indian farmers match crops to warmth and rain."},
-  {"id": "a3", "title": "Shade and sun walk", "day": 7, "mins": 12, "need": ["a thermometer if you have one (otherwise your hand)", "a notebook", "a big tree, a sunny open patch and a stretch of concrete or road"], "steps": ["At midday, put the thermometer (or your palm) on the ground in full sun for a minute. Record it.", "Do the same on concrete or road in the sun.", "Do the same in the deep shade under the tree.", "Feel the air at face height in each place too.", "Rank the three places from hottest to coolest."], "outcome": "Three temperatures (or hand-feel rankings) showing that trees cool the ground and air around them."}
+  {
+   "id": "a1",
+   "title": "Pen-line growth tracker",
+   "day": 3,
+   "mins": 12,
+   "need": [
+    "a fast-growing plant (bean or gourd climber, money plant, or a seedling)",
+    "a soft pen or a thread and a stick",
+    "a ruler",
+    "a notebook"
+   ],
+   "steps": [
+    "Mark a small dot on the stem with a soft pen, or push a stick into the soil beside the plant.",
+    "Measure from the dot (or from the soil) to the very tip. Write the length, the date and the time.",
+    "Measure again at the same time every day for 5 days.",
+    "Work out how much it grew each day by taking yesterday's length from today's.",
+    "Write the temperature each day too, and look: did it grow more on warmer days?"
+   ],
+   "outcome": "A five-day record of growth in millimetres per day."
+  },
+  {
+   "id": "a2",
+   "title": "The crop calendar",
+   "day": 4,
+   "mins": 14,
+   "need": [
+    "a big sheet of paper",
+    "crayons",
+    "pictures or real grains of rice, ragi, maize, groundnut, cotton, wheat, mustard, chana"
+   ],
+   "steps": [
+    "Draw a big circle and divide it into 12 months.",
+    "Colour the monsoon months (about June to September) blue and the cool winter months (about November to February) light green.",
+    "Place each crop where it is sown: kharif crops (rice, ragi, maize, cotton, groundnut, soybean) at the start of the monsoon. Rabi crops (wheat, mustard, chana, barley) at the start of winter.",
+    "Draw an arrow from sowing to harvest for two crops.",
+    "Write one sentence: 'Wheat is sown in winter because…'"
+   ],
+   "outcome": "A year-circle showing how Indian farmers match crops to warmth and rain."
+  },
+  {
+   "id": "a3",
+   "title": "Shade and sun walk",
+   "day": 7,
+   "mins": 12,
+   "need": [
+    "a thermometer if you have one (otherwise your hand)",
+    "a notebook",
+    "a big tree, a sunny open patch and a stretch of concrete or road"
+   ],
+   "steps": [
+    "At midday, put the thermometer (or your palm) on the ground in full sun for a minute. Record it.",
+    "Do the same on concrete or road in the sun.",
+    "Do the same in the deep shade under the tree.",
+    "Feel the air at face height in each place too.",
+    "Rank the three places from hottest to coolest."
+   ],
+   "outcome": "Three temperatures (or hand-feel rankings) showing that trees cool the ground and air around them."
+  }
  ],
- "project": {"title": "Our temperature investigation poster", "days": [1, 6, 8], "steps": ["Write the question at the top: 'Do seeds sprout faster when warm or cold?'", "Draw the three boxes and write what was changed and what was kept the same.", "Copy the results table neatly.", "Stick in the bar chart.", "Write the conclusion: 'Our results show that…'", "Add 'If we did it again, we would…'"], "outcome": "A one-page scientific poster of a real fair test, with a table, a bar chart and a conclusion."},
- "game": {"id": "g1", "title": "Too Hot, Too Cold, Just Right", "kind": "cards", "players": "2–4", "need": ["scissors", "three slips of paper labelled TOO COLD, JUST RIGHT, TOO HOT"], "rules": ["Cut out the cards and shuffle them. Lay the three label slips in a row.", "Take turns to read a card aloud and place it under TOO COLD, JUST RIGHT or TOO HOT, saying why.", "Another player turns it over to check. If you were right, keep the card.", "Job cards: when you pick one, do what it says.", "The player with the most cards at the end wins."],
+ "project": {
+  "title": "Our temperature investigation poster",
+  "days": [
+   1,
+   6,
+   8
+  ],
+  "steps": [
+   "Write the question at the top: 'Do seeds sprout faster when warm or cold?'",
+   "Draw the three boxes and write what was changed and what was kept the same.",
+   "Copy the results table neatly.",
+   "Stick in the bar chart.",
+   "Write the conclusion: 'Our results show that…'",
+   "Add 'If we did it again, we would…'"
+  ],
+  "outcome": "A one-page scientific poster of a real fair test, with a table, a bar chart and a conclusion."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Too Hot, Too Cold, Just Right",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "scissors",
+   "three slips of paper labelled TOO COLD, JUST RIGHT, TOO HOT"
+  ],
+  "rules": [
+   "Cut out the cards and shuffle them. Lay the three label slips in a row.",
+   "Take turns to read a card aloud and place it under TOO COLD, JUST RIGHT or TOO HOT, saying why.",
+   "Another player turns it over to check. If you were right, keep the card.",
+   "Job cards: when you pick one, do what it says.",
+   "The player with the most cards at the end wins."
+  ],
   "cards": [
-   {"front": "Moong seeds in the fridge at 4 °C", "back": "Too cold: they wait and sprout very slowly"},
-   {"front": "Moong seeds in a room at 28 °C", "back": "Just right: they sprout in a day or two"},
-   {"front": "Seeds left in a closed car in Chennai in May, at 60 °C", "back": "Too hot: the baby plants are damaged"},
-   {"front": "Wheat sown in November in Punjab", "back": "Just right: wheat likes cool winters"},
-   {"front": "Wheat filling its grains in a March heat wave", "back": "Too hot: the grains stay small"},
-   {"front": "Ragi sown in Karnataka when the monsoon comes", "back": "Just right: ragi is a kharif crop that likes warm, rainy weather"},
-   {"front": "Rice planted in Ladakh in January", "back": "Too cold: the water is ice!"},
-   {"front": "Seeds in the Svalbard vault at minus 18 °C", "back": "Too cold to sprout, and that's the point: they sleep safely for decades"},
-   {"front": "Tomato seedlings in a trench greenhouse in Ladakh in April", "back": "Just right: the greenhouse traps warmth"},
-   {"front": "The same greenhouse at 2 p.m. with all the flaps shut", "back": "Too hot: open the vents!"},
-   {"front": "An apple tree planted in Chennai", "back": "Too hot: apples need cold winters"},
-   {"front": "A coconut palm planted in Shimla", "back": "Too cold: coconuts need warm coasts"},
-   {"front": "A date palm in the Thar desert", "back": "Just right: it loves heat"},
-   {"front": "Mustard sown in October in Rajasthan", "back": "Just right: a rabi crop"},
-   {"front": "Methi sown in cool December weather in Hyderabad", "back": "Just right: methi likes cool weather"},
-   {"front": "A tulsi left outside in a Himalayan frost", "back": "Too cold: tulsi is a warm-weather plant"},
-   {"front": "Cherry trees in Kyoto in a warm spring", "back": "They bloom earlier than in the old diaries"},
-   {"front": "Seeds stored in a cool, dry tin", "back": "Just right for storing: they stay asleep longer"},
-   {"front": "A seedling on a hot concrete balcony at noon", "back": "Too hot: move it into shade or water it in the evening"},
-   {"front": "Moong sprouting under a neem tree in June", "back": "Just right: warm, and shaded from the worst heat"},
-   {"job": true, "front": "JOB: Read the thermometer in the room and say the number in °C"},
-   {"job": true, "front": "JOB: Name one kharif and one rabi crop"},
-   {"job": true, "front": "JOB: Say what a fair test is, in one sentence"},
-   {"job": true, "front": "JOB: Draw the 'too cold, just right, too hot' hill in the air with your finger"}
-  ]},
+   {
+    "front": "Moong seeds in the fridge at 4 °C",
+    "back": "Too cold: they wait and sprout very slowly"
+   },
+   {
+    "front": "Moong seeds in a room at 28 °C",
+    "back": "Just right: they sprout in a day or two"
+   },
+   {
+    "front": "Seeds left in a closed car in Chennai in May, at 60 °C",
+    "back": "Too hot: the baby plants are damaged"
+   },
+   {
+    "front": "Wheat sown in November in Punjab",
+    "back": "Just right: wheat likes cool winters"
+   },
+   {
+    "front": "Wheat filling its grains in a March heat wave",
+    "back": "Too hot: the grains stay small"
+   },
+   {
+    "front": "Ragi sown in Karnataka when the monsoon comes",
+    "back": "Just right: ragi is a kharif crop that likes warm, rainy weather"
+   },
+   {
+    "front": "Rice planted in Ladakh in January",
+    "back": "Too cold: the water is ice!"
+   },
+   {
+    "front": "Seeds in the Svalbard vault at minus 18 °C",
+    "back": "Too cold to sprout, and that's the point: they sleep safely for decades"
+   },
+   {
+    "front": "Tomato seedlings in a trench greenhouse in Ladakh in April",
+    "back": "Just right: the greenhouse traps warmth"
+   },
+   {
+    "front": "The same greenhouse at 2 p.m. with all the flaps shut",
+    "back": "Too hot: open the vents!"
+   },
+   {
+    "front": "An apple tree planted in Chennai",
+    "back": "Too hot: apples need cold winters"
+   },
+   {
+    "front": "A coconut palm planted in Shimla",
+    "back": "Too cold: coconuts need warm coasts"
+   },
+   {
+    "front": "A date palm in the Thar desert",
+    "back": "Just right: it loves heat"
+   },
+   {
+    "front": "Mustard sown in October in Rajasthan",
+    "back": "Just right: a rabi crop"
+   },
+   {
+    "front": "Methi sown in cool December weather in Hyderabad",
+    "back": "Just right: methi likes cool weather"
+   },
+   {
+    "front": "A tulsi left outside in a Himalayan frost",
+    "back": "Too cold: tulsi is a warm-weather plant"
+   },
+   {
+    "front": "Cherry trees in Kyoto in a warm spring",
+    "back": "They bloom earlier than in the old diaries"
+   },
+   {
+    "front": "Seeds stored in a cool, dry tin",
+    "back": "Just right for storing: they stay asleep longer"
+   },
+   {
+    "front": "A seedling on a hot concrete balcony at noon",
+    "back": "Too hot: move it into shade or water it in the evening"
+   },
+   {
+    "front": "Moong sprouting under a neem tree in June",
+    "back": "Just right: warm, and shaded from the worst heat"
+   },
+   {
+    "job": true,
+    "front": "JOB: Read the thermometer in the room and say the number in °C"
+   },
+   {
+    "job": true,
+    "front": "JOB: Name one kharif and one rabi crop"
+   },
+   {
+    "job": true,
+    "front": "JOB: Say what a fair test is, in one sentence"
+   },
+   {
+    "job": true,
+    "front": "JOB: Draw the 'too cold, just right, too hot' hill in the air with your finger"
+   }
+  ]
+ },
  "big": [
   "Is faster growing always better?",
   "If the world keeps warming, which plants will win and which will lose? Who decides what we grow then?",
@@ -194,51 +1004,118 @@
   "Plants can't move to a cooler place. What can they do instead?"
  ],
  "challenge": [
-  {"q": "Plants love heat, so the hotter it is, the faster they grow. True?", "hint": "Only up to a point. Our warm box beat the fridge, but every plant has a best range. Above it, growth slows and stops, and very high heat damages the living cells. A heat wave in March 2022 cut India's wheat harvest. Ask: what is 'just right' for wheat, and for rice?"},
-  {"q": "Seeds in a fridge or a freezer vault are dead.", "hint": "No: cold slows them down, so their stored food lasts longer. Our fridge seeds sprouted once warmed. The Svalbard vault keeps seeds at about minus 18 °C so they can last decades. (Some seeds, like mango and many rainforest seeds, can't survive drying and freezing. Scientists are still working out how to store them.)"},
-  {"q": "A warmer world with more carbon dioxide is good for plants, because plants use carbon dioxide.", "hint": "Partly. Many plants do grow more with extra carbon dioxide, and satellites show the Earth greening. But droughts, floods and heat waves can wipe out those gains, and pests may spread. The honest answer depends on the place and the plant, and scientists are still measuring it."}
+  {
+   "q": "Plants love heat, so the hotter it is, the faster they grow. True?",
+   "hint": "Only up to a point. Our warm box beat the fridge, but every plant has a best range. Above it, growth slows and stops, and very high heat damages the living cells. A heat wave in March 2022 cut India's wheat harvest. Ask: what is 'just right' for wheat, and for rice?"
+  },
+  {
+   "q": "Seeds in a fridge or a freezer vault are dead.",
+   "hint": "No: cold slows them down, so their stored food lasts longer. Our fridge seeds sprouted once warmed. The Svalbard vault keeps seeds at about minus 18 °C so they can last decades. (Some seeds, like mango and many rainforest seeds, can't survive drying and freezing. Scientists are still working out how to store them.)"
+  },
+  {
+   "q": "A warmer world with more carbon dioxide is good for plants, because plants use carbon dioxide.",
+   "hint": "Partly. Many plants do grow more with extra carbon dioxide, and satellites show the Earth greening. But droughts, floods and heat waves can wipe out those gains, and pests may spread. The honest answer depends on the place and the plant, and scientists are still measuring it."
+  }
  ],
  "perspectives": [
-  {"who": "A farmer in Ladakh", "view": "At 3,500 metres, the growing season is short and the nights are freezing even in spring. Farmers sow barley and peas when the snow melts, and many grow vegetables in sunken 'trench' greenhouses dug into the ground and roofed with plastic. Ask: if your summer were only four months long, what would you plant first?"},
-  {"who": "A wheat farmer in Punjab", "view": "Wheat is sown in November and needs a cool spell while its grains fill in February and March. A few hot days at the wrong moment can cost months of work. Ask: what can a farmer do about the weather, and what can't they do?"},
-  {"who": "An old rain tree on a Bengaluru road", "view": "A rain tree shades the road, and its leaves give out water vapour that cools the air. To a city planner it may be in the way of a wider road. Ask: what is shade worth? Who pays if the tree is cut?"},
-  {"who": "A seed in the Svalbard vault", "view": "It sleeps in the dark at minus 18 °C, far from the field where it was grown, waiting for a day when people might need it. Ask: whose seed is it, the farmers' who bred it, the country's, or everyone's?"}
+  {
+   "who": "A farmer in Ladakh",
+   "view": "At 3,500 metres, the growing season is short and the nights are freezing even in spring. Farmers sow barley and peas when the snow melts, and many grow vegetables in sunken 'trench' greenhouses dug into the ground and roofed with plastic. Ask: if your summer were only four months long, what would you plant first?"
+  },
+  {
+   "who": "A wheat farmer in Punjab",
+   "view": "Wheat is sown in November and needs a cool spell while its grains fill in February and March. A few hot days at the wrong moment can cost months of work. Ask: what can a farmer do about the weather, and what can't they do?"
+  },
+  {
+   "who": "An old rain tree on a Bengaluru road",
+   "view": "A rain tree shades the road, and its leaves give out water vapour that cools the air. To a city planner it may be in the way of a wider road. Ask: what is shade worth? Who pays if the tree is cut?"
+  },
+  {
+   "who": "A seed in the Svalbard vault",
+   "view": "It sleeps in the dark at minus 18 °C, far from the field where it was grown, waiting for a day when people might need it. Ask: whose seed is it, the farmers' who bred it, the country's, or everyone's?"
+  }
  ],
  "voices": [
-  {"id": "v1", "who": "Jagadish Chandra Bose (1858–1937), Kolkata, India", "idea": "Bose built the crescograph, a machine of tiny levers and clockwork that magnified a plant's growth around ten thousand times and recorded it on smoked glass. It showed that growth is not steady: it speeds up and slows down from minute to minute, with warmth, light, touch and chemicals.", "then": "Some scientists in Europe doubted his results and his talk of plant 'responses' like animals'. He demonstrated his instruments in London, and in 1920 he was elected a Fellow of the Royal Society.", "now": "His measurements of growth and response are accepted, and he is honoured as a founder of plant physiology and of Indian science. He also showed that plants sense touch, heat and injury and send signals through their bodies. Some scientists still keep the word 'feel' for animals with nerves.", "status": "accepted", "ask": "Bose's machine let people see what was too slow for eyes. What else happens too slowly for us to notice? How could you make it visible?", "day": 3},
-  {"id": "v2", "who": "Yasuyuki Aono, Osaka Prefecture University, Japan, and the people of Kyoto who kept the record", "idea": "Aono gathered the dates when Kyoto's cherry trees reached full bloom, from court diaries, poems and temple records going back to the 9th century, making one of the longest records of nature on Earth. It shows bloom dates getting earlier in modern times as springs warm. In 2021 the trees peaked on 26 March, the earliest in about 1,200 years of records.", "then": "For centuries, the dates were written for festivals and poetry, not for science. Nobody knew they would one day be evidence.", "now": "Scientists accept that warmer springs make many plants flower earlier around the world. The Kyoto record is used as evidence of warming, alongside thermometers. It reminds us that people who weren't called scientists made the data.", "status": "accepted", "ask": "What could you write down every year, starting now, that a scientist in 300 years might thank you for?", "day": 7},
-  {"id": "v3", "who": "The greening debate: Chi Chen, Ranga Myneni and colleagues (2019), and crop scientists studying heat", "idea": "Using satellites, Chen, Myneni and colleagues reported in 2019 that the Earth has become greener since the early 2000s, and that China (by planting trees) and India (by farming more intensively) led the greening. Extra carbon dioxide in the air also helps many plants grow. Other scientists point out that heat waves and droughts cut harvests: in March 2022, an early heat wave shrank India's wheat grains, and the government stopped wheat exports that May.", "then": "Some people used greening to argue that more carbon dioxide is simply good for plants.", "now": "Both findings are real. Most scientists say the gains from greening do not cancel out the harm from heat, drought and floods for food and forests, but how the balance works out differs from place to place, and it is still being studied.", "status": "debated", "ask": "If one place gets greener and another loses its harvest, can you add them up and call it 'good' or 'bad'? Who should decide?", "day": 7}
+  {
+   "id": "v1",
+   "who": "Jagadish Chandra Bose (1858–1937), Kolkata, India",
+   "idea": "Bose built the crescograph, a machine of tiny levers and clockwork that magnified a plant's growth around ten thousand times and recorded it on smoked glass. It showed that growth is not steady: it speeds up and slows down from minute to minute, with warmth, light, touch and chemicals.",
+   "then": "Some scientists in Europe doubted his results and his talk of plant 'responses' like animals'. He demonstrated his instruments in London, and in 1920 he was elected a Fellow of the Royal Society.",
+   "now": "His measurements of growth and response are accepted, and he is honoured as a founder of plant physiology and of Indian science. He also showed that plants sense touch, heat and injury and send signals through their bodies. Some scientists still keep the word 'feel' for animals with nerves.",
+   "status": "accepted",
+   "ask": "Bose's machine let people see what was too slow for eyes. What else happens too slowly for us to notice? How could you make it visible?",
+   "day": 3
+  },
+  {
+   "id": "v2",
+   "who": "Yasuyuki Aono, Osaka Prefecture University, Japan, and the people of Kyoto who kept the record",
+   "idea": "Aono gathered the dates when Kyoto's cherry trees reached full bloom, from court diaries, poems and temple records going back to the 9th century, making one of the longest records of nature on Earth. It shows bloom dates getting earlier in modern times as springs warm. In 2021 the trees peaked on 26 March, the earliest in about 1,200 years of records.",
+   "then": "For centuries, the dates were written for festivals and poetry, not for science. Nobody knew they would one day be evidence.",
+   "now": "Scientists accept that warmer springs make many plants flower earlier around the world. The Kyoto record is used as evidence of warming, alongside thermometers. It reminds us that people who weren't called scientists made the data.",
+   "status": "accepted",
+   "ask": "What could you write down every year, starting now, that a scientist in 300 years might thank you for?",
+   "day": 7
+  },
+  {
+   "id": "v3",
+   "who": "The greening debate: Chi Chen, Ranga Myneni and colleagues (2019), and crop scientists studying heat",
+   "idea": "Using satellites, Chen, Myneni and colleagues reported in 2019 that the Earth has become greener since the early 2000s, and that China (by planting trees) and India (by farming more intensively) led the greening. Extra carbon dioxide in the air also helps many plants grow. Other scientists point out that heat waves and droughts cut harvests: in March 2022, an early heat wave shrank India's wheat grains, and the government stopped wheat exports that May.",
+   "then": "Some people used greening to argue that more carbon dioxide is simply good for plants.",
+   "now": "Both findings are real. Most scientists say the gains from greening do not cancel out the harm from heat, drought and floods for food and forests, but how the balance works out differs from place to place, and it is still being studied.",
+   "status": "debated",
+   "ask": "If one place gets greener and another loses its harvest, can you add them up and call it 'good' or 'bad'? Who should decide?",
+   "day": 7
+  }
  ],
- "story": {"title": "The Glass Field", "text": [
-  "In the village where I live, above the Indus in Ladakh, winter is not a season. It is a country. It arrives in October and it stays until April, and while it is here the river freezes at its edges, the taps freeze in the night, and the mountains around us turn the colour of milk.",
-  "My name is Dolma. I was nine the winter my brother Stanzin came home from his college in Bengaluru with a paper packet of tomato seeds.",
-  "\"Tomatoes,\" said our grandmother, whom we call Abi-le, turning the packet over in her hands as though it might bite. \"Here?\"",
-  "\"Here,\" said Stanzin. \"Fresh tomatoes in June. You'll see.\"",
-  "In our village we grow barley, and peas, and a few turnips, in the short summer when the snow has gone. Tomatoes come up the long road from the plains in trucks, if the pass is open, and they arrive tired and expensive. I had never seen a tomato plant in my life.",
-  "In March, when the sun was getting stronger but the ground was still frozen hard as a pot, Stanzin and I planted the seeds. We filled two trays with soil from the store. One tray we put on the windowsill of the kitchen, where the stove kept the room warm. The other I wanted to put outside, on the flat roof, \"to see what happens\", Stanzin said, because he liked experiments.",
-  "The seeds in the kitchen woke up in five days. I was the one who saw them first: tiny bent green necks pushing up out of the soil, pulling their two seed leaves behind them like children dragging their schoolbags. By the tenth day they were standing straight, and I could count their leaves.",
-  "The tray on the roof did nothing. Day after day I climbed up the ladder to look at it, and day after day it was the same flat brown square of soil, sometimes with a skin of frost on it in the morning.",
-  "\"They're dead,\" I said. \"The cold killed them.\"",
-  "\"Maybe,\" said Stanzin. \"Or maybe they're waiting.\"",
-  "By April, the kitchen seedlings were tall and thin and leaning hard towards the window, and Abi-le said they were too crowded, and too weak, and would fall over if they were put outside. \"Too much warm,\" she said, \"not enough sky.\" So Stanzin did the thing he had been planning all along. He and our neighbours dug a long pit in the field behind the house, as deep as I am tall, and they built low mud walls along its edges and stretched a sheet of thick clear plastic over the top, tied down with stones. A field under glass, sunk into the earth. A trench greenhouse.",
-  "On the first sunny morning, I climbed down into it and gasped. Outside, the wind off the mountains made my ears ache. Inside, it was like stepping into a different month. The air was soft and still, and the sun came through the plastic and lay on the soil like a warm hand. Stanzin had hung a thermometer from a nail. Outside it said 2 degrees. Inside it said 22.",
-  "We moved the seedlings in. We moved the roof tray in too, the one with nothing in it, because Stanzin said, \"Why not.\"",
-  "And here is what happened, and why I am telling you this story.",
-  "Three days later, the roof tray had come alive. All over it, little green necks were bending up out of the soil. The seeds had not been dead at all. They had been lying in the frozen soil all those weeks, holding still, holding their packed lunches, waiting for the warmth to tell them it was safe.",
-  "I was so happy I told everyone in the village, even people who did not care about tomatoes.",
-  "Then came the afternoon I will not forget. It was the first truly hot day of spring, bright and windless, and Stanzin had gone to Leh, and I was at school, and nobody opened the flaps at the ends of the greenhouse. When I came home, Abi-le was already climbing down into the pit, faster than I had ever seen her move. The air inside was thick and heavy, like the air above a cooking pot. The thermometer said 41. And the tomato seedlings, every one of them, had flopped over, their leaves hanging down like wet cloth.",
-  "Abi-le tore open the flaps at both ends. Cold mountain air came pouring through. She filled a bucket from the channel and sprinkled the soil, and then she sat down on the mud step and said nothing for a long time, and so did I.",
-  "\"I thought warm was good,\" I said at last, in a small voice.",
-  "\"Warm is good,\" said Abi-le. \"Too warm is not. Too cold, they sleep. Too hot, they suffer. You have to find the middle, and the middle is different for every plant. For barley it is one place. For these red things from the plains it is another. Even for you and me.\"",
-  "By evening, most of the seedlings had lifted their heads again. Two did not. After that, I opened the flaps every morning before school and closed them every evening before the cold came down, and I checked the thermometer the way some people check the sky.",
-  "In June, as Stanzin had promised, there were tomatoes. Small ones, sour and very red. Abi-le ate one slowly and said it was too sour, and then she ate another.",
-  "This year I have my own packet of seeds. I keep it in the coolest corner of the storeroom, in a tin, to keep them asleep until it is time. I know now what the cold does, and what the warmth does, and what too much does. I am waiting for March."],
+ "story": {
+  "title": "The Glass Field",
+  "text": [
+   "In the village where I live, above the Indus in Ladakh, winter is not a season. It is a country. It arrives in October and it stays until April, and while it is here the river freezes at its edges, the taps freeze in the night, and the mountains around us turn the colour of milk.",
+   "My name is Dolma. I was nine the winter my brother Stanzin came home from his college in Bengaluru with a paper packet of tomato seeds.",
+   "\"Tomatoes,\" said our grandmother, whom we call Abi-le, turning the packet over in her hands as though it might bite. \"Here?\"",
+   "\"Here,\" said Stanzin. \"Fresh tomatoes in June. You'll see.\"",
+   "In our village we grow barley, and peas, and a few turnips, in the short summer when the snow has gone. Tomatoes come up the long road from the plains in trucks, if the pass is open, and they arrive tired and expensive. I had never seen a tomato plant in my life.",
+   "In March, when the sun was getting stronger but the ground was still frozen hard as a pot, Stanzin and I planted the seeds. We filled two trays with soil from the store. One tray we put on the windowsill of the kitchen, where the stove kept the room warm. The other I wanted to put outside, on the flat roof, \"to see what happens\", Stanzin said, because he liked experiments.",
+   "The seeds in the kitchen woke up in five days. I was the one who saw them first: tiny bent green necks pushing up out of the soil, pulling their two seed leaves behind them like children dragging their schoolbags. By the tenth day they were standing straight, and I could count their leaves.",
+   "The tray on the roof did nothing. Day after day I climbed up the ladder to look at it, and day after day it was the same flat brown square of soil, sometimes with a skin of frost on it in the morning.",
+   "\"They're dead,\" I said. \"The cold killed them.\"",
+   "\"Maybe,\" said Stanzin. \"Or maybe they're waiting.\"",
+   "By April, the kitchen seedlings were tall and thin and leaning hard towards the window, and Abi-le said they were too crowded, and too weak, and would fall over if they were put outside. \"Too much warm,\" she said, \"not enough sky.\" So Stanzin did the thing he had been planning all along. He and our neighbours dug a long pit in the field behind the house, as deep as I am tall, and they built low mud walls along its edges and stretched a sheet of thick clear plastic over the top, tied down with stones. A field under glass, sunk into the earth. A trench greenhouse.",
+   "On the first sunny morning, I climbed down into it and gasped. Outside, the wind off the mountains made my ears ache. Inside, it was like stepping into a different month. The air was soft and still, and the sun came through the plastic and lay on the soil like a warm hand. Stanzin had hung a thermometer from a nail. Outside it said 2 degrees. Inside it said 22.",
+   "We moved the seedlings in. We moved the roof tray in too, the one with nothing in it, because Stanzin said, \"Why not.\"",
+   "And here is what happened, and why I am telling you this story.",
+   "Three days later, the roof tray had come alive. All over it, little green necks were bending up out of the soil. The seeds had not been dead at all. They had been lying in the frozen soil all those weeks, holding still, holding their packed lunches, waiting for the warmth to tell them it was safe.",
+   "I was so happy I told everyone in the village, even people who did not care about tomatoes.",
+   "Then came the afternoon I will not forget. It was the first truly hot day of spring, bright and windless, and Stanzin had gone to Leh, and I was at school, and nobody opened the flaps at the ends of the greenhouse. When I came home, Abi-le was already climbing down into the pit, faster than I had ever seen her move. The air inside was thick and heavy, like the air above a cooking pot. The thermometer said 41. And the tomato seedlings, every one of them, had flopped over, their leaves hanging down like wet cloth.",
+   "Abi-le tore open the flaps at both ends. Cold mountain air came pouring through. She filled a bucket from the channel and sprinkled the soil, and then she sat down on the mud step and said nothing for a long time, and so did I.",
+   "\"I thought warm was good,\" I said at last, in a small voice.",
+   "\"Warm is good,\" said Abi-le. \"Too warm is not. Too cold, they sleep. Too hot, they suffer. You have to find the middle, and the middle is different for every plant. For barley it is one place. For these red things from the plains it is another. Even for you and me.\"",
+   "By evening, most of the seedlings had lifted their heads again. Two did not. After that, I opened the flaps every morning before school and closed them every evening before the cold came down, and I checked the thermometer the way some people check the sky.",
+   "In June, as Stanzin had promised, there were tomatoes. Small ones, sour and very red. Abi-le ate one slowly and said it was too sour, and then she ate another.",
+   "This year I have my own packet of seeds. I keep it in the coolest corner of the storeroom, in a tin, to keep them asleep until it is time. I know now what the cold does, and what the warmth does, and what too much does. I am waiting for March."
+  ],
   "epiphany": "Temperature controls how fast seeds sprout and plants grow: cold slows seeds down and keeps them waiting (the roof tray wasn't dead, only asleep), warmth wakes and speeds them, and too much heat makes them suffer. Every plant has its own 'just right' range. There are two turns: the 'dead' roof tray sprouting once it is warmed, and the seedlings collapsing in the overheated greenhouse. Dolma ends by using cold on purpose to keep her seeds asleep. Underneath: Abi-le's knowledge, gained by living there, and the idea of 'enough' rather than 'more'.",
-  "ask": ["Why did the seeds in the kitchen sprout first?", "Were the seeds on the roof dead? How did Dolma find out?", "Why did the seedlings flop over on the hot afternoon? What did Abi-le do?", "What did Abi-le mean by 'You have to find the middle'?", "Why does Dolma keep her new seeds in the coolest corner?"]},
+  "ask": [
+   "Why did the seeds in the kitchen sprout first?",
+   "Were the seeds on the roof dead? How did Dolma find out?",
+   "Why did the seedlings flop over on the hot afternoon? What did Abi-le do?",
+   "What did Abi-le mean by 'You have to find the middle'?",
+   "Why does Dolma keep her new seeds in the coolest corner?"
+  ]
+ },
  "ideas": [
-  {"idea": "Too cold, just right, too hot: every living thing has its range.", "more": "Seeds and plants grow faster as it warms, up to a best temperature, then slower, then they stop. The hill shape is the same for moong, wheat, fish and you. Only the numbers differ. Draw the hill with your child and put plants on it."},
-  {"idea": "Cold slows seeds down. It does not kill them.", "more": "Cold slows the chemistry of life, so seeds use up their stored food more slowly. That's why the fridge seeds sprouted once warmed, why seed vaults are freezing, and why Dolma's roof tray came alive."},
-  {"idea": "Plants and temperature change each other.", "more": "Warmth changes how plants grow and when they flower. Plants in turn cool the air with their shade and the water vapour their leaves give out. A city with trees is cooler than a city of concrete."}
+  {
+   "idea": "Too cold, just right, too hot: every living thing has its range.",
+   "more": "Seeds and plants grow faster as it warms, up to a best temperature, then slower, then they stop. The hill shape is the same for moong, wheat, fish and you. Only the numbers differ. Draw the hill with your child and put plants on it."
+  },
+  {
+   "idea": "Cold slows seeds down. It does not kill them.",
+   "more": "Cold slows the chemistry of life, so seeds use up their stored food more slowly. That's why the fridge seeds sprouted once warmed, why seed vaults are freezing, and why Dolma's roof tray came alive."
+  },
+  {
+   "idea": "Plants and temperature change each other.",
+   "more": "Warmth changes how plants grow and when they flower. Plants in turn cool the air with their shade and the water vapour their leaves give out. A city with trees is cooler than a city of concrete."
+  }
  ],
  "unknowns": [
   "How exactly does a plant feel warmth? In 2016 scientists found that one of the proteins plants use to sense light also senses temperature, which was a surprise. How all the plant's warmth sensors work together is still being worked out.",
@@ -246,18 +1123,60 @@
   "Why do some seeds, like those of many Himalayan plants, refuse to sprout until they have felt a long cold winter? Scientists understand part of how a seed 'counts' the cold, but not all of it."
  ],
  "books": [
-  {"title": "Up in the Garden and Down in the Dirt", "author": "Kate Messner, illustrated by Christopher Silas Neal", "for": "read together", "age": "4–8", "why": "A garden through the seasons, above and below the soil: how the year's warmth and cold shape what grows."},
-  {"title": "The Curious Garden", "author": "Peter Brown", "for": "read together", "age": "4–8", "why": "A boy tends a struggling garden on an old railway line until it spreads through a grey city. Good for talking about how plants change a city, including cooling it."},
-  {"title": "Lab Girl", "author": "Hope Jahren", "for": "parent reads", "age": "adult (read the seed chapters aloud)", "why": "A plant scientist's memoir, with beautiful short chapters on seeds waiting for the right moment and how plants grow. Pick a page or two to read aloud."}
+  {
+   "title": "Up in the Garden and Down in the Dirt",
+   "author": "Kate Messner, illustrated by Christopher Silas Neal",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A garden through the seasons, above and below the soil: how the year's warmth and cold shape what grows."
+  },
+  {
+   "title": "The Curious Garden",
+   "author": "Peter Brown",
+   "for": "read together",
+   "age": "4–8",
+   "why": "A boy tends a struggling garden on an old railway line until it spreads through a grey city. Good for talking about how plants change a city, including cooling it."
+  },
+  {
+   "title": "Lab Girl",
+   "author": "Hope Jahren",
+   "for": "parent reads",
+   "age": "adult (read the seed chapters aloud)",
+   "why": "A plant scientist's memoir, with beautiful short chapters on seeds waiting for the right moment and how plants grow. Pick a page or two to read aloud."
+  }
  ],
  "check": [
-  {"q": "What does a thermometer measure, and in what unit?", "a": "How hot or cold something is, in degrees Celsius (°C)."},
-  {"q": "In our test, where did the seeds sprout fastest and slowest?", "a": "Fastest in the warm spot or room, slowest in the fridge (your results may vary. The reasons matter)."},
-  {"q": "What did we keep the same, and why?", "a": "The kind and number of seeds, the water, the cotton and the darkness, so only temperature changed and the test was fair."},
-  {"q": "Is hotter always better for plants? Explain.", "a": "No. Growth speeds up only to a best temperature. Too hot slows and stops it and damages the plant."},
-  {"q": "Why is wheat sown in winter and rice in the monsoon?", "a": "Wheat grows best in cool weather (a rabi crop). Rice needs warmth and lots of water (a kharif crop)."},
-  {"q": "How does a greenhouse help plants grow?", "a": "Sunlight comes in through the clear cover and warms the inside. The cover stops the warm air escaping."},
-  {"q": "Why are seeds stored in very cold vaults?", "a": "Cold slows the seeds down so they stay alive much longer, ready to be grown when needed."},
-  {"q": "Why is it cooler under a tree?", "a": "Its shade blocks sunlight and its leaves give out water vapour, which cools the air."}
+  {
+   "q": "What does a thermometer measure, and in what unit?",
+   "a": "How hot or cold something is, in degrees Celsius (°C)."
+  },
+  {
+   "q": "In our test, where did the seeds sprout fastest and slowest?",
+   "a": "Fastest in the warm spot or room, slowest in the fridge (your results may vary. The reasons matter)."
+  },
+  {
+   "q": "What did we keep the same, and why?",
+   "a": "The kind and number of seeds, the water, the cotton and the darkness, so only temperature changed and the test was fair."
+  },
+  {
+   "q": "Is hotter always better for plants? Explain.",
+   "a": "No. Growth speeds up only to a best temperature. Too hot slows and stops it and damages the plant."
+  },
+  {
+   "q": "Why is wheat sown in winter and rice in the monsoon?",
+   "a": "Wheat grows best in cool weather (a rabi crop). Rice needs warmth and lots of water (a kharif crop)."
+  },
+  {
+   "q": "How does a greenhouse help plants grow?",
+   "a": "Sunlight comes in through the clear cover and warms the inside. The cover stops the warm air escaping."
+  },
+  {
+   "q": "Why are seeds stored in very cold vaults?",
+   "a": "Cold slows the seeds down so they stay alive much longer, ready to be grown when needed."
+  },
+  {
+   "q": "Why is it cooler under a tree?",
+   "a": "Its shade blocks sunlight and its leaves give out water vapour, which cools the air."
+  }
  ]
 }

@@ -871,7 +871,7 @@ Follow the Light (sci.light.L3): Topic-level song
 - [A pack of glow sticks, same colour and size](https://www.amazon.in/s?k=glow+sticks) (material): Used for the glow stick test, the cold light test, the Snap! activity and the deep sea theatre. Used in e1, e2, a1, a5. 
 - [Glow-in-the-dark stars](https://www.amazon.in/s?k=glow+in+the+dark+stars) (material): Used to compare stored light with living light, and as fireflies in the Light the Path challenge. Used in e3, c2. 
 - [Glow-in-the-dark paint](https://www.amazon.in/s?k=glow+in+the+dark+paint) (material): Paints the light spots on creatures in the Shoebox Deep Sea and the creature challenge. Used in a3, c1. 
-- [Glow: Animals with Their Own Night-Lights, by W. H. Beck (2015)](https://www.amazon.in/s?k=Glow+Animals+with+Their+Own+Night-Lights+Beck) (book): A beautiful photo book of glowing animals for children. Recommended in the founder's notes. Used in a3, g2. Read a few pages after the Deep Dark Sea game, then use the photos to make the shoebox creatures.
+- [Glow: Animals with Their Own Night-Lights, by W. H. Beck (2015)](https://www.amazon.in/s?k=Glow+Animals+with+Their+Own+Night-Lights+Beck) (book): A beautiful photo book of glowing animals for children. Recommended in the DeepKids notes. Used in a3, g2. Read a few pages after the Deep Dark Sea game, then use the photos to make the shoebox creatures.
 - [Silent Sparks: The Wondrous World of Fireflies, by Sara Lewis (2016)](https://www.amazon.in/s?k=Silent+Sparks+Sara+Lewis) (book): For the parent. A firefly scientist explains flashing, tricksters and how to protect fireflies. Used in g1, p1. The parent reads a chapter before the night walk or the firefly count.
 
 ## Warm-up

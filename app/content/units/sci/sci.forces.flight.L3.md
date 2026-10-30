@@ -509,7 +509,7 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
   *Parent does:* 1. Sit down together. 2. Each person puts a small feather or a scrap of tissue on their palm. 3. Breathe in slowly through the nose. 4. Breathe out very gently through the mouth, so the feather just trembles but does not blow away.  
   *Parent says:* Breathe in slowly. Now breathe out so gently that the feather only trembles. You are the wind now.  
   *Child mode:* Put a feather on your hand. Breathe in slowly. Breathe out so gently the feather only trembles. You are the wind!
-  - Note: This is a calming breath, adapted from the founder's 'wind breath' idea. Five slow breaths is plenty.
+  - Note: This is a calming breath, adapted from the DeepKids 'wind breath' idea. Five slow breaths is plenty.
 - **s3 (2 min)**  
   *Parent does:* End the dance by asking which flyer each person liked being most.  
   *Parent says:* Which flyer did you like being most? Why?  
@@ -858,7 +858,7 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [NASA Glenn Research Center (search for its Beginner's Guide to Aeronautics)](https://www.grc.nasa.gov) · interactive: NASA's pages for students and teachers on lift, drag and wings. They include a page explaining why the 'equal transit time' idea is wrong. Best for the parent.
 - [NASA Science (search for the Ingenuity Mars Helicopter)](https://science.nasa.gov) · interactive: Photos and films of the first powered flight on another planet.
 - [Smithsonian National Air and Space Museum](https://airandspace.si.edu) · interactive: The museum that keeps the Wright brothers' 1903 Flyer. Its website has photos and stories from the history of flight.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities. Search for paper planes, kites and air. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities. Search for paper planes, kites and air.
 - [Bird Count India](https://birdcount.in) · interactive: A group that helps families count and record birds across India. Good for the Bird Watch activity.
 - [HAL Heritage Centre and Aerospace Museum](https://hal-india.co.in) · place · Bengaluru: A museum with real aircraft, engines and helicopters made in India.
 - [Indian Air Force Museum, Palam]() · place · New Delhi: Old and new planes of the Indian Air Force, up close. Check opening days before you go.

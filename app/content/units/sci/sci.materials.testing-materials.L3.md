@@ -1030,7 +1030,7 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 
 ## Links
 - [Bureau of Indian Standards](https://www.bis.gov.in) · interactive: The official home of the ISI mark. For the parent: see which products in India must be tested before they are sold.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco.
 - [Science Buddies](https://www.sciencebuddies.org/) · interactive: Step-by-step project ideas, including materials tests like paper towel absorbency, with tips on fair testing.
 - [BBC Bitesize](https://www.bbc.co.uk/bitesize) · interactive: Free short lessons and games. Search for 'materials' and 'fair test' in the primary science section.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum full of engines and machines. Look for the materials used in each, and think how they were tested.

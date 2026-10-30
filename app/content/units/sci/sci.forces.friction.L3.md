@@ -831,7 +831,7 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 - The Moon moves about 4 cm further from Earth every year. About how far will it move in 80 years, a long human lifetime? Give your answer in metres and centimetres. **About 320 cm, which is 3 metres and 20 centimetres.**. Each year adds 4 cm. In 80 years, that is 80 lots of 4 cm. 4 × 80 = 320 cm. 100 cm make 1 metre, so 300 cm is 3 metres. That leaves 20 cm. So the answer is 3 metres and 20 centimetres. The real speed is a little less, about 3.8 cm a year. We rounded it to 4 cm to make the sum easier. (queues `math.multiplication.equal-groups.L3`)
 
 ## Song
-Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3, to write with the founder's gravity song as the model.
+Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3, to write with the DeepKids gravity song as the model.
 
 ## Links
 - [PhET Forces and Motion Basics, the Friction screen](https://phet.colorado.edu/en/simulations/forces-and-motion-basics) · simulation: A free online game. Push a box, change the friction, and watch the arrows that show the forces.
@@ -840,7 +840,7 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3, to write wi
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with many hands-on exhibits. Look for the ones about forces and machines.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with galleries about machines and engines.
 - [A playground slide, a carrom board and a cycle repair shop near you]() · place · anywhere: You will find friction everywhere nearby. At a cycle repair shop, ask why the chain needs oil, but the brakes must never get oily.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum in San Francisco. Search for friction and forces. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum in San Francisco. Search for friction and forces.
 - [The Physics Aviary](https://www.thephysicsaviary.com/) · simulation: Free physics games and simulations, including things sliding down ramps.
 - [myPhysicsLab](https://www.myphysicslab.com/) · simulation: Free online simulations of blocks, springs and crashes. You can switch friction on and off.
 - [Science Buddies](https://www.sciencebuddies.org/) · interactive: Step-by-step science project ideas, including friction projects, for older children.

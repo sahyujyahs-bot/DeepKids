@@ -651,7 +651,7 @@
     "Score the ring the light lands in. More bounces is harder, so points in round 3 count double.",
     "Never let the beam shine into anyone's eyes. If it does, that round scores zero."
    ],
-   "context": "Bounce Relay is a team game. Players hold mirrors and pass a torch beam from one mirror to the next until it lands on a target. It comes from the founder's idea of a relay where each step must bounce light with a mirror.",
+   "context": "Bounce Relay is a team game. Players hold mirrors and pass a torch beam from one mirror to the next until it lands on a target. It comes from the DeepKids idea of a relay where each step must bounce light with a mirror.",
    "setup": [
     {
      "art": "A torch on a pile of books in a dim room, its beam hitting a mirror held by one child, then bouncing to a second child's mirror, then onto a paper target on the wall.",
@@ -1840,7 +1840,7 @@
      "do": "1. Stand face to face. 2. One person leads with slow moves: lifting a hand, tilting the head, touching an ear. 3. The other copies, like a mirror. 4. Swap after one minute.",
      "say": "You are my mirror. Whatever I do, you do, at the same time. Go slowly, so the mirror can keep up.",
      "kid": "Face your partner. They move slowly. You copy, like a mirror. Then swap.",
-     "parent": "This is from the founder's notes: children love the mimic game. Keep it slow and silent. Then ask the question in the next step.",
+     "parent": "Keep it slow and silent. Then ask the question in the next step.",
      "context": "This is the first step of Mirror Twins, a copying game where one person acts as the other's mirror."
     },
     {
@@ -2216,7 +2216,7 @@
     }
    ],
    "record": "Write the biggest number of images you could count. Draw how the far ones looked.",
-   "context": "In the Endless Corridor you hold two mirrors face to face and look at the images going on and on. It comes from the founder's Zero and Infinity game.",
+   "context": "In the Endless Corridor you hold two mirrors face to face and look at the images going on and on. It comes from the DeepKids Zero and Infinity game.",
    "setup": [
     {
      "art": "A child holding a hand mirror facing a wall mirror, with a long tunnel of smaller and smaller copies of the mirror stretching away.",
@@ -2234,7 +2234,7 @@
      "do": "1. Hold a hand mirror facing the wall mirror, a little apart. 2. Put a small toy or a lit torch between them. 3. Your child peeks over the edge and counts the copies.",
      "say": "Count the images. Keep going as far as you can. The longer you count, the better!",
      "kid": "Hold a mirror facing the big mirror. Peek over the top. Count the images. How far can you go?",
-     "parent": "This is the founder's 'infinite reflections' game. Make it a race: who can count the most?",
+     "parent": "Make it a race: who can count the most?",
      "context": "This is the first step of the Endless Corridor. You hold two mirrors face to face and count the images."
     },
     {
@@ -2283,7 +2283,7 @@
     }
    ],
    "record": "Keep the drawing. Write one line under it: 'This is me, inside.'",
-   "context": "In this art activity you look at your face in a mirror, then draw yourself as you feel inside. It is from the founder's activity list.",
+   "context": "In this art activity you look at your face in a mirror, then draw yourself as you feel inside.",
    "setup": [
     {
      "art": "A child gazing quietly into a mirror on a table, crayons beside them.",
@@ -2338,7 +2338,7 @@
     }
    ],
    "record": "Draw the path of the ball, and the path of a child acting as light, as V shapes.",
-   "context": "In this act-it-out activity, children pretend to be light and reflect off a wall like a mirror. It comes from the founder's idea of miming light bouncing between mirrors.",
+   "context": "In this act-it-out activity, children pretend to be light and reflect off a wall like a mirror. It comes from the DeepKids idea of miming light bouncing between mirrors.",
    "setup": [
     {
      "art": "A child rolling a soft ball at an angle towards a wall, and the ball bouncing away at the same angle.",

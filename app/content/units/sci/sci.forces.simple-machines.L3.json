@@ -2566,7 +2566,7 @@
        ]
       }
      ],
-     "parent": "This step follows the founder's Balancing Act worksheet. At higher levels, the game asks for the mass of a mystery object, and to predict which way the plank will tip. The rule is mass times distance on each side."
+     "parent": "This step follows the DeepKids Balancing Act worksheet. At higher levels, the game asks for the mass of a mystery object, and to predict which way the plank will tip. The rule is mass times distance on each side."
     },
     {
      "id": "s3",
@@ -3914,7 +3914,7 @@
    "title": "Exploratorium: Science Snacks",
    "url": "https://www.exploratorium.edu/snacks",
    "kind": "interactive",
-   "why": "Free, tested hands-on activities from a famous science museum in San Francisco. It is on the founder's list of STEM websites."
+   "why": "Free, tested hands-on activities from a famous science museum in San Francisco."
   },
   {
    "title": "Visvesvaraya Industrial and Technological Museum",

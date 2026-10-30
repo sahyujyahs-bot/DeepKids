@@ -876,7 +876,7 @@ Tiny Magnets, All in Line (sci.magnets.L3): Topic-level song for Magnets L3
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum with galleries on electricity, motors and magnets.
 - [Science City](https://www.sciencecitykolkata.org.in) · place · Kolkata: A large science centre with space and Earth science galleries.
 - [Rushikulya olive ridley nesting beach]() · place · Ganjam district, Odisha: In some years, thousands of olive ridley turtles come ashore here to nest, usually between February and April. Watch only with the forest department's guidance, and never disturb the turtles or their nests.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for magnets and compasses. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for magnets and compasses.
 - [NOAA Space Weather: Aurora forecast](https://www.swpc.noaa.gov/products/aurora-30-minute-forecast) · interactive: A live map of where auroras are glowing right now, made by watching the Sun and the Earth's magnetic field.
 
 ## Things to buy

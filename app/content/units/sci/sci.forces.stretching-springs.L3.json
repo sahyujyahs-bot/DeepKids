@@ -2747,7 +2747,7 @@
      "do": "1. Lay the strip flat. 2. Draw 5 dots, 1 cm apart. Label them A, B, C, D and E.",
      "say": "Each dot is a galaxy, a giant family of stars. Dot A is our galaxy, the Milky Way.",
      "kid": "Draw 5 dots, 1 cm apart. Each dot is a galaxy. Dot A is our home.",
-     "context": "This is the first step of Rubber Band Galaxies. The universe is slowly stretching. A rubber strip with dots on it shows how. This is one of the founder's ideas."
+     "context": "This is the first step of Rubber Band Galaxies. The universe is slowly stretching. A rubber strip with dots on it shows how."
     },
     {
      "id": "s2",
@@ -2874,7 +2874,7 @@
      "do": "1. Stretch the four bands round the box, over the opening. 2. Slide a pencil under the bands at each end.",
      "say": "Let's build a guitar from springs. Each band is a spring that we will pluck.",
      "kid": "Put 4 bands round the box. Slide a pencil under them at each end. Now you have a guitar!",
-     "context": "This is the first step of the Rubber Band Orchestra, one of the founder's ideas. A plucked rubber band springs back and forth very fast. That makes a sound."
+     "context": "This is the first step of the Rubber Band Orchestra, one of the DeepKids ideas. A plucked rubber band springs back and forth very fast. That makes a sound."
     },
     {
      "id": "s2",
@@ -3226,7 +3226,7 @@
      "do": "Build the basic catapult with your child, using the usual design.",
      "say": "Let's build the usual catapult first. Look at the arm when it's done. What do you think will fling the ball, and why?",
      "kid": "Build the catapult. Tie the stack. Push it between two sticks. Tape on the cap.",
-     "context": "This is the first step of the Catapult Challenge. You build a catapult from ice-cream sticks and rubber bands, and aim at a bowl. Building a catapult is one of the founder's ideas.",
+     "context": "This is the first step of the Catapult Challenge. You build a catapult from ice-cream sticks and rubber bands, and aim at a bowl. Building a catapult is one of the DeepKids ideas.",
      "parent": "Building it is the slowest part. If the bands keep slipping, wrap them twice."
     },
     {
@@ -4026,7 +4026,7 @@
    "title": "Exploratorium: Science Snacks",
    "url": "https://www.exploratorium.edu/snacks",
    "kind": "interactive",
-   "why": "Free, tested hands-on activities from a science museum in San Francisco. Search for rubber bands and springs. It is on the founder's list of STEM websites."
+   "why": "Free, tested hands-on activities from a science museum in San Francisco. Search for rubber bands and springs."
   },
   {
    "title": "LIGO Lab",

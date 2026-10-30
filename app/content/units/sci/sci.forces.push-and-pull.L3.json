@@ -3651,7 +3651,7 @@
    "title": "Exploratorium: Science Snacks",
    "url": "https://www.exploratorium.edu/snacks",
    "kind": "interactive",
-   "why": "Free, tested hands-on activities from a science museum in San Francisco. Search for forces. It is on the founder's list of STEM websites."
+   "why": "Free, tested hands-on activities from a science museum in San Francisco. Search for forces."
   },
   {
    "title": "Nehru Science Centre",
@@ -3753,7 +3753,7 @@
    "id": "b-book1",
    "item": "Motion: Push and Pull, Fast and Slow, by Darlene R. Stille",
    "kind": "book",
-   "why": "A picture book about pushes, pulls and motion, on the founder's reading list.",
+   "why": "A picture book about pushes, pulls and motion.",
    "url": "https://www.amazon.in/s?k=Motion+Push+and+Pull+Fast+and+Slow+Darlene+Stille",
    "used_in": [
     "g2"
@@ -3764,7 +3764,7 @@
    "id": "b-book2",
    "item": "Newton and Me, by Lynne Mayer",
    "kind": "book",
-   "why": "A picture book in which a boy and his dog discover Newton's laws of motion at play. It is on the founder's reading list.",
+   "why": "A picture book in which a boy and his dog discover Newton's laws of motion at play.",
    "url": "https://www.amazon.in/s?k=Newton+and+Me+Lynne+Mayer",
    "used_in": [
     "e1"

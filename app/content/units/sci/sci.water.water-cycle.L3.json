@@ -3613,7 +3613,7 @@
    "title": "Exploratorium Science Snacks",
    "url": "https://www.exploratorium.edu/snacks",
    "kind": "interactive",
-   "why": "Free, tested hands-on activities from a famous science museum. Search for clouds and evaporation. It is on the founder's list of STEM websites."
+   "why": "Free, tested hands-on activities from a famous science museum. Search for clouds and evaporation."
   },
   {
    "title": "Indian Institute of Tropical Meteorology",
@@ -3722,7 +3722,7 @@
    "id": "b-book1",
    "item": "The Cloud Book, by Tomie dePaola",
    "kind": "book",
-   "why": "A picture book about the main kinds of clouds, what they tell us about the weather, and old sayings about clouds to test. It is on the founder's list.",
+   "why": "A picture book about the main kinds of clouds, what they tell us about the weather, and old sayings about clouds to test.",
    "url": "https://www.amazon.in/s?k=The+Cloud+Book+Tomie+dePaola",
    "used_in": [
     "a3"

@@ -932,7 +932,7 @@
      "think": "The carbon in your body has been in leaves, animals and air many times before. Who might it have belonged to?"
     }
    ],
-   "context": "This is a running game based on the founder's 'photon relay' idea. Players pass light from the Sun to leaves, and sugar from leaves to animals. It shows that energy comes from the Sun and carbon goes round and round.",
+   "context": "This is a running game based on the DeepKids 'photon relay' idea. Players pass light from the Sun to leaves, and sugar from leaves to animals. It shows that energy comes from the Sun and carbon goes round and round.",
    "setup": [
     {
      "art": "Children in a big room wearing paper role cards: a sun at one end, two leaves in the middle with a basket of black paper balls, and animals waiting in a line.",
@@ -2557,7 +2557,7 @@
      "do": "1. Explain the colours: black is carbon, red is oxygen, white is hydrogen. 2. Build 6 carbon dioxide molecules: one black ball with a red ball on each side. 3. Build 6 water molecules: one red ball with two white balls. 4. Put them all on the IN plate.",
      "say": "These are models of the molecules a leaf takes in. Carbon dioxide from the air, and water from the roots. Real ones are far too small to see.",
      "kid": "Black is carbon. Red is oxygen. White is hydrogen. Make 6 carbon dioxides: red, black, red. Make 6 waters: white, red, white.",
-     "context": "This is the first step of Build a Sugar, based on the founder's building-block game. You build models of carbon dioxide and water, then rebuild them into sugar, the way a leaf does."
+     "context": "This is the first step of Build a Sugar, based on the DeepKids building-block game. You build models of carbon dioxide and water, then rebuild them into sugar, the way a leaf does."
     },
     {
      "id": "s2",
@@ -2723,7 +2723,7 @@
      "do": "1. One dancer is a SUNBEAM, with the yellow cloth. 2. The others are LEAVES, with the green cloth, curled up on the floor. 3. The room is dim. It is night.",
      "say": "It's night. The leaves are resting and only breathing gently. They can't make any food without light.",
      "kid": "Curl up small. You are a leaf at night. Breathe slowly. You can't cook food in the dark.",
-     "context": "This is the first step of the Sunbeam Dance, from the founder's dance ideas. One dancer is sunlight. The others are leaves, waking up to make food."
+     "context": "This is the first step of the Sunbeam Dance, from the DeepKids dance ideas. One dancer is sunlight. The others are leaves, waking up to make food."
     },
     {
      "id": "s2",
@@ -3832,7 +3832,7 @@
    "title": "Exploratorium: Science Snacks",
    "url": "https://www.exploratorium.edu/snacks",
    "kind": "interactive",
-   "why": "Free, tested hands-on activities from a famous science museum. On the founder's list of STEM websites."
+   "why": "Free, tested hands-on activities from a famous science museum. On the DeepKids list of STEM websites."
   },
   {
    "title": "Acharya Jagadish Chandra Bose Indian Botanic Garden",

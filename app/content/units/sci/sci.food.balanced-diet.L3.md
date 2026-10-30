@@ -859,7 +859,7 @@ Sunlight on My Plate (sci.food.L3): Topic-level song
 - [ICMR-National Institute of Nutrition, Hyderabad](https://www.nin.res.in) · interactive: India's national nutrition institute. It publishes the Dietary Guidelines for Indians, including the 'My Plate for the Day'.
 - [Eat Right India (FSSAI)](https://eatrightindia.gov.in) · interactive: India's food safety authority's site on healthy eating, with simple guides for families and schools.
 - [The Nutrition Source: Healthy Eating Plate (Harvard)](https://nutritionsource.hsph.harvard.edu) · interactive: A clear plate model from Harvard's school of public health, to compare with India's plate.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free hands-on activities from a science museum in San Francisco. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free hands-on activities from a science museum in San Francisco.
 - [Science City, Kolkata](https://www.sciencecitykolkata.org.in) · place · Kolkata: A large science centre with galleries on the human body and life.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum with galleries on biology and the human body.
 - [A weekly poriyal market or a millet shop near you]() · place · Your own town or city: Go early with a grown-up. Count how many kinds of leaves, vegetables and grains you can find, and ask the sellers where they grew.

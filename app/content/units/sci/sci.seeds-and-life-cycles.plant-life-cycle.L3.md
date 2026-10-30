@@ -952,7 +952,7 @@ Seed to Seed Again (sci.seeds-and-life-cycles.L3): Topic-level song for Seeds, g
 
 ## Sources
 - DeepKids V0.1 weekly journeys, week 7.0 'Let grow and grow': grow a plant from seed and see them 'through the rest of his life', name them, water them, record their progress, and write a mourning note if they die. Taken past the first leaves, which the sibling unit covers, to a whole seed-to-seed cycle in Kitchen to Kitchen.
-- Founder sheets, Time row: 'Time Detective: give kids shuffled event cards (caterpillar to butterfly, baby to adult, seed to tree)', marked in the founder's review as 'sequencing works well'. Used as the Time Detective game.
+- Founder sheets, Time row: 'Time Detective: give kids shuffled event cards (caterpillar to butterfly, baby to adult, seed to tree)', marked in the DeepKids review as 'sequencing works well'. Used as the Time Detective game.
 - Founder sheets, Particles row: the building block game, rebuild a house into a human, then into a plant, marked 'brilliant metaphor'. Used in the idea that a plant is built from the same atoms that go round through air, soil and living things.
 - Founder sheets, Sun row: 'Plant is our food. What is plant's food?' Used in the explanation that leaves make food from air and water using sunlight, and in Floating Leaves.
 - Founder sheets, Biology rows: nature walk and leaf detective album. Used in the Life Cycle Hunt and Adopt a Tree.

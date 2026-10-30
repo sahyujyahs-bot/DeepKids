@@ -964,7 +964,7 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 - [Ptable](https://ptable.com) · interactive: A free periodic table that you can sort by many rules, such as state, colour or when it was found. This is sorting with a button.
 - [Stellarium Web](https://stellarium-web.org) · simulation: A free planetarium in your browser. Look for Betelgeuse and Rigel, and see the red and blue-white colours.
 - [CS Unplugged](https://www.csunplugged.org) · interactive: Free activities that teach computer ideas without a computer. Look for sorting networks and the Twenty Guesses game.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum in San Francisco. Search for materials and sorting. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum in San Francisco. Search for materials and sorting.
 - [Nehru Planetarium](https://nehruplanetarium.org/) · place · New Delhi: Sky shows about stars and the Moon. Good for the part of this unit about sorting stars by colour.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits about materials and matter.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big museum of machines and metals. Look for how metals are made and sorted.

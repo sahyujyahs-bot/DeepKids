@@ -890,7 +890,7 @@ Sunlight on My Plate (sci.food.L3): Topic-level song
 - [NOAA Ocean Exploration](https://oceanexplorer.noaa.gov) · interactive: Photos and videos from deep-sea dives, including hydrothermal vents and the life around them.
 - [Woods Hole Oceanographic Institution](https://www.whoi.edu) · interactive: The scientists who run Alvin, the submarine that found vent life in 1977. Look for their pages on hydrothermal vents.
 - [StoryWeaver by Pratham Books](https://storyweaver.org.in) · interactive: Free children's picture books in many Indian languages. Search for food, farms, seeds and bees.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free hands-on activities from a famous science museum. It is on the founder's list of STEM websites. Search for seeds and plants.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free hands-on activities from a famous science museum. Search for seeds and plants.
 - [M. S. Swaminathan Research Foundation](https://www.mssrf.org) · place · Chennai: The research centre M. S. Swaminathan founded, which works with small farmers and keeps old local crops alive.
 - [Amul dairy, Anand](https://amul.com) · place · Anand, Gujarat: One of the world's biggest milk co-operatives, owned by farmers. It has offered visits to see how milk becomes butter, ghee and paneer. Check before you go.
 - [Spices Board India](https://www.indianspices.com) · interactive: The website of India's Spices Board, with information about India's spices and the places where they grow.

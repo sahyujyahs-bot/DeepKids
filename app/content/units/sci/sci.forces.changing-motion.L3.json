@@ -3740,7 +3740,7 @@
    "title": "Exploratorium: Science Snacks",
    "url": "https://www.exploratorium.edu/snacks",
    "kind": "interactive",
-   "why": "Free, tested hands-on activities from a famous science museum. Search for forces and materials. It is on the founder's list of STEM websites."
+   "why": "Free, tested hands-on activities from a famous science museum. Search for forces and materials."
   },
   {
    "title": "Science Buddies",
@@ -3849,7 +3849,7 @@
    "id": "b-book1",
    "item": "Forces Make Things Move, by Kimberly Brubaker Bradley (Let's-Read-and-Find-Out Science)",
    "kind": "book",
-   "why": "A clear picture book about forces changing how things move, for ages 5 to 9. It is on the founder's reading list.",
+   "why": "A clear picture book about forces changing how things move, for ages 5 to 9.",
    "url": "https://www.amazon.in/s?k=Forces+Make+Things+Move+Kimberly+Brubaker+Bradley",
    "used_in": [
     "g2"

@@ -487,7 +487,7 @@ That night, under the stars, the whole village ate together round the fires of U
   *Parent says:* Before each level, tell me your plan. Did you change your thinking?  
   *Child mode:* Play Level 1. Write your score. Did you need a new idea? Then try Level 2, 3 and 4.
   - Ask: What makes Level 2 harder than Level 1? (good: The weights are different, so I have to move them.; I have to think about distance as well as weight.)
-  - Note: This step follows the founder's Balancing Act worksheet. At higher levels, the game asks for the mass of a mystery object, and to predict which way the plank will tip. The rule is mass times distance on each side.
+  - Note: This step follows the DeepKids Balancing Act worksheet. At higher levels, the game asks for the mass of a mystery object, and to predict which way the plank will tip. The rule is mass times distance on each side.
 - **s3 (7 min)**  
   *Parent does:* Try the mystery objects: use the game to find the mass of an unknown object.  
   *Parent says:* How can a see-saw tell you how heavy something is? Let's find the mystery mass.  
@@ -913,7 +913,7 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [Arvind Gupta Toys](https://www.arvindguptatoys.com/) · interactive: Free films and instructions for science toys made from scrap, from a great Indian toy maker. Search for levers, balancing toys and wheels.
 - [StoryWeaver](https://storyweaver.org.in/) · interactive: Free illustrated picture books from Pratham Books, in many Indian languages. Search for 'Ammachi's Amazing Machines'.
 - [Oak National Academy: Forces including simple machines](https://www.thenational.academy/pupils/programmes/science-primary-year-5/units/forces-including-simple-machines/lessons) · interactive: Free online lessons, including levers, pulleys and gears, for when your child is ready for more.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum in San Francisco. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum in San Francisco.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum full of engines and machines. Look for levers, wheels and gears inside the big machines.
 - [National Science Centre](https://www.nscd.gov.in) · place · New Delhi: A science centre with hands-on galleries. Look for exhibits on machines and how things work.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with a science park of hands-on exhibits, many of them about forces and machines.

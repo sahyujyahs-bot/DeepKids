@@ -887,7 +887,7 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 ## Links
 - [PhET Forces and Motion: Basics](https://phet.colorado.edu/en/simulations/forces-and-motion-basics) · simulation: A free online game. Push things and see how forces change their speed and direction.
 - [PhET simulations (all)](https://phet.colorado.edu/) · simulation: Free science games from the University of Colorado. Look for ones about forces, springs and the Earth.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum. Search for forces and materials. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum. Search for forces and materials.
 - [Science Buddies](https://www.sciencebuddies.org/) · interactive: Step-by-step projects, including egg drops and paper bridges, for older children.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: Machines, engines and materials. Look for beams, springs and things built to bend without breaking.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits about forces and materials.
@@ -902,7 +902,7 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [30 cm ruler and a measuring tape](https://www.amazon.in/s?k=30+cm+ruler+and+measuring+tape) (tool): For measuring flat patches, wet prints and your height. Used in e1, e3, a2, p1. 
 - [Tennis ball (or a rubber ball)](https://www.amazon.in/s?k=tennis+ball) (tool): Bounces and leaves a wet print in the wet ball prints test. A tennis ball's fuzz holds water, so its print is clearest. Used in e3, g2. 
 - [Long kitchen sponges](https://www.amazon.in/s?k=kitchen+sponge) (material): Draw lines on one and bend it to see inside a bend. Also springs back in the drop test. Used in a2, e2. 
-- [Forces Make Things Move, by Kimberly Brubaker Bradley (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=Forces+Make+Things+Move+Kimberly+Brubaker+Bradley) (book): A clear picture book about forces changing how things move, for ages 5 to 9. It is on the founder's reading list. Used in g2. If bought, read it before the Six Things a Force Can Do game. Its pages can replace the 'Forces change speed and direction' card.
+- [Forces Make Things Move, by Kimberly Brubaker Bradley (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=Forces+Make+Things+Move+Kimberly+Brubaker+Bradley) (book): A clear picture book about forces changing how things move, for ages 5 to 9. Used in g2. If bought, read it before the Six Things a Force Can Do game. Its pages can replace the 'Forces change speed and direction' card.
 - [The Way Things Work Now, by David Macaulay](https://www.amazon.in/s?k=The+Way+Things+Work+Now+David+Macaulay) (book): A big, funny picture book showing how machines and structures work, including springs, beams and arches. Good for curious older children and parents. Used in c1. If bought, look at its pages on beams and arches after the paper bridge challenge.
 - [Low-power red laser pointer, the kind used for talks](https://www.amazon.in/s?k=red+laser+pointer) (tool): Only for the table-bending activity, and only a grown-up uses it. It turns a tiny bend in the table into a dot moving on the wall. Used in a5. 
 

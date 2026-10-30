@@ -787,7 +787,7 @@
    "title": "Escape Gravity",
    "mins": 25,
    "players": "2 to 4 players, or one child against a grown-up",
-   "context": "This is the founder's board game. Players race from the Earth to Space. Gravity events pull them back, and force cards, earned by doing small challenges, help them fight back.",
+   "context": "Players race from the Earth to Space. Gravity events pull them back, and force cards, earned by doing small challenges, help them fight back.",
    "printables": [
     {
      "kind": "board",
@@ -883,7 +883,7 @@
      "do": "1. Lay out the board. 2. Shuffle the force cards and challenge cards into two piles. 3. Each player does two challenge cards and takes the force cards they earn.",
      "say": "We're going to race from the Earth into space. Gravity will try to pull us back. To fight it, we need force cards. You earn them by doing small challenges.",
      "kid": "Lay out the board. Do two challenge cards. Each one earns you a force card. You will need them to fight gravity!",
-     "context": "This is the first step of Escape Gravity, the founder's board game. Players race from the Earth to Space, and use force cards to fight gravity's pull."
+     "context": "This is the first step of Escape Gravity. Players race from the Earth to Space, and use force cards to fight gravity's pull."
     },
     {
      "id": "s2",
@@ -974,7 +974,7 @@
    "title": "Pull Cards: who pulls hardest?",
    "mins": 20,
    "players": "2 to 4 players",
-   "context": "This is a card game made from the founder's element cards. Each card is a thing in the universe, from a dust speck to a giant black hole. Its mass and energy are shown as arrows. Players compare pulls and guess what would happen to a person there.",
+   "context": "This is a card game made from element cards. Each card is a thing in the universe, from a dust speck to a giant black hole. Its mass and energy are shown as arrows. Players compare pulls and guess what would happen to a person there.",
    "printables": [
     {
      "kind": "cards",

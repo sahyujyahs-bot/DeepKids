@@ -837,7 +837,7 @@ What Makes a Thing Alive? (sci.what-is-life.L3): Topic-level song
 ## Links
 - [NASA Astrobiology](https://astrobiology.nasa.gov) · interactive: For the parent. NASA's site about the search for life beyond Earth, and how scientists decide what counts as life.
 - [Conway's Game of Life (Play Game of Life)](https://playgameoflife.com) · simulation: A free grid game from 1970 where simple dots seem to 'live', 'die' and 'make copies'. A good way to ask: is a pattern alive?
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for yeast, seeds and crystals. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for yeast, seeds and crystals.
 - [Crop Trust](https://www.croptrust.org) · interactive: For the parent. The group that helps run the Svalbard Global Seed Vault, where seeds from around the world are kept dormant and safe.
 - [Bose Institute](https://www.jcbose.ac.in) · place · Kolkata: The research institute J.C. Bose founded in 1917. It has a museum with his instruments for measuring plant responses.
 - [Science City](https://www.sciencecitykolkata.org.in) · place · Kolkata: A big science centre with galleries about life and evolution.

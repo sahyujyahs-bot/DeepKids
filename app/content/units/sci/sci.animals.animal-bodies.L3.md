@@ -828,7 +828,7 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 ## Links
 - [iNaturalist](https://www.inaturalist.org) · interactive: A free app and website. Photograph any animal you find, and people around the world help name them. Good for frogs, fish and insects.
 - [Bombay Natural History Society](https://www.bnhs.org) · interactive: India's old nature society, with nature walks and programmes for children in many cities.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free hands-on science activities from a famous science museum. Search for breathing and lungs. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free hands-on science activities from a famous science museum. Search for breathing and lungs.
 - [Science Buddies](https://www.sciencebuddies.org/) · interactive: Step-by-step project ideas, including ones on breathing, lungs and animal senses, for older children.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits about the human body and life.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum. Look for the galleries about the human body and biology.

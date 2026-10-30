@@ -921,8 +921,8 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 - [PhET Build an Atom](https://phet.colorado.edu/en/simulations/build-an-atom) · simulation: A free online game. Build atoms from tiny parts and see which element you have made. Good after Same Beads, Different Things.
 - [Ptable: the interactive periodic table](https://ptable.com) · interactive: Every element, with pictures and uses. Find carbon, iron, oxygen and gold, the stars of this unit.
 - [NASA Space Place](https://spaceplace.nasa.gov) · interactive: Children's pages from NASA about stars, how they shine, and how they die.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. It is on the founder's list of STEM websites.
-- [Science Buddies](https://www.sciencebuddies.org/) · interactive: Step-by-step project ideas, including making paper and natural dyes. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco.
+- [Science Buddies](https://www.sciencebuddies.org/) · interactive: Step-by-step project ideas, including making paper and natural dyes.
 - [Calico Museum of Textiles](https://www.calicomuseum.org) · place · Ahmedabad: One of the great textile museums of the world. See old Indian cotton, silk and dyed cloth. Visits must be booked ahead.
 - [Sabarmati Ashram](https://www.gandhiashramsabarmati.org) · place · Ahmedabad: Where the Salt March began in 1930. See Gandhi's charkha and learn about khadi.
 - [National Salt Satyagraha Memorial]() · place · Dandi, Gujarat: A memorial on the shore where the Salt March ended, with statues of the marchers and solar salt pans you can see.

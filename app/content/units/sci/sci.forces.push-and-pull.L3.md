@@ -917,7 +917,7 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [PhET Forces and Motion Basics: the Net Force screen](https://phet.colorado.edu/en/simulations/forces-and-motion-basics) · simulation: A free online tug of war. Add pullers to each side, and watch the force arrows add up and the cart move.
 - [PhET Balloons and Static Electricity](https://phet.colorado.edu/en/simulations/balloons-and-static-electricity) · simulation: A free online game. Rub a balloon on a sweater and watch it pull on a wall from a distance.
 - [NASA Space Place](https://spaceplace.nasa.gov) · interactive: Free pages and games for children about rockets, comets and how things move in space.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for forces. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for forces.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with many hands-on exhibits about forces, motion and machines.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum with engines, machines and a space gallery. Look for pushes and pulls everywhere.
 - [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with galleries on motion, machines and engines.
@@ -930,8 +930,8 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 - [Paper drinking straws](https://www.amazon.in/s?k=paper+straws) (material): Used for the balloon rocket track, blowing the ball and the balloon car. Used in e2, e3, p1. 
 - [Ping-pong balls](https://www.amazon.in/s?k=table+tennis+balls) (material): Light balls that are easy to push with your breath, for Blow the Ball and Move It Without Touching. Used in e3, c1. 
 - [Bar magnets for children (a pair)](https://www.amazon.in/s?k=bar+magnet+kids) (tool): Shows a pull from far away, and two magnets pushing apart. Used in a4, c1. Used again in the magnets units.
-- [Motion: Push and Pull, Fast and Slow, by Darlene R. Stille](https://www.amazon.in/s?k=Motion+Push+and+Pull+Fast+and+Slow+Darlene+Stille) (book): A picture book about pushes, pulls and motion, on the founder's reading list. Used in g2. If bought, read it on day 1 after the story, before Force charades.
-- [Newton and Me, by Lynne Mayer](https://www.amazon.in/s?k=Newton+and+Me+Lynne+Mayer) (book): A picture book in which a boy and his dog discover Newton's laws of motion at play. It is on the founder's reading list. Used in e1. If bought, read it on the Push the Wall day. Ask which pages show a push getting a push back.
+- [Motion: Push and Pull, Fast and Slow, by Darlene R. Stille](https://www.amazon.in/s?k=Motion+Push+and+Pull+Fast+and+Slow+Darlene+Stille) (book): A picture book about pushes, pulls and motion. Used in g2. If bought, read it on day 1 after the story, before Force charades.
+- [Newton and Me, by Lynne Mayer](https://www.amazon.in/s?k=Newton+and+Me+Lynne+Mayer) (book): A picture book in which a boy and his dog discover Newton's laws of motion at play. Used in e1. If bought, read it on the Push the Wall day. Ask which pages show a push getting a push back.
 
 ## Warm-up
 - A push or a pull: opening a drawer? → A pull.

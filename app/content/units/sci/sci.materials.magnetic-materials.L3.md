@@ -941,7 +941,7 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 
 ## Links
 - [PhET Magnets and Electromagnets](https://phet.colorado.edu/en/simulations/magnets-and-electromagnets) · simulation: A free online simulation. Move a magnet and a compass, and see the invisible magnetic field around the magnet.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum in San Francisco. Search for magnets. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum in San Francisco. Search for magnets.
 - [The Physics Aviary](https://www.thephysicsaviary.com/) · simulation: Free physics games and simulations. Look for the ones about magnets and forces.
 - [Science Buddies](https://www.sciencebuddies.org/) · interactive: Step-by-step science project ideas, including magnet projects, for older children.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum full of machines and engines. Look for the exhibits on metals, steel and magnets.

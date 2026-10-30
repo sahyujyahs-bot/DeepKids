@@ -876,7 +876,7 @@ Look Close, Then Make (sci.making-things.L3): Topic-level song
 ## Links
 - [AskNature](https://asknature.org) · interactive: A free library from the Biomimicry Institute. Search a problem, like 'stay cool' or 'stick', and see how living things solve it.
 - [The Biomimicry Institute](https://biomimicry.org) · interactive: The organisation founded with Janine Benyus. It has stories of real inventions and a design challenge for young people.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum in San Francisco. Search for water drops and surface tension. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum in San Francisco. Search for water drops and surface tension.
 - [Science Buddies](https://www.sciencebuddies.org/) · interactive: Step-by-step science and engineering project ideas, including biomimicry projects, for older children.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum full of machines and inventions. Ask which ones copied ideas from nature.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with many hands-on exhibits about how things are made and how they work.

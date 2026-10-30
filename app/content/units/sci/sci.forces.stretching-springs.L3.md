@@ -965,7 +965,7 @@ Push, Pull, Hold On (sci.forces.L3): Topic-level song for Forces L3
 ## Links
 - [PhET Hooke's Law](https://phet.colorado.edu/en/simulations/hookes-law) · simulation: A free online game. Pull a spring, change how stiff it is, and see how far it stretches.
 - [PhET Masses and Springs](https://phet.colorado.edu/en/simulations/masses-and-springs) · simulation: A free online game. Hang weights on springs, watch them bounce, and see the energy move.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for rubber bands and springs. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for rubber bands and springs.
 - [LIGO Lab](https://www.ligo.caltech.edu) · interactive: The home of the instruments that caught the first gravitational wave, with pictures and sounds.
 - [Science Buddies](https://www.sciencebuddies.org/) · interactive: Step-by-step science project ideas, including rubber band and spring projects, for older children.
 - [Rubber Board of India](https://rubberboard.gov.in) · place · Kottayam: The Rubber Board and its research institute are in Kottayam, Kerala, among rubber plantations. Ask about visits, or see rubber tapping on nearby estates.

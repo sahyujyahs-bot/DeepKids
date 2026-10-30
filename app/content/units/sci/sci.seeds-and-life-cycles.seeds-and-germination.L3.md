@@ -721,7 +721,7 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
 
 ## Videos
 - **Bean Time-Lapse - 25 days | Soil cross section** (GPhase, 3 min) id `w77zPAtVTuI`: A bean sprouting in soil, filmed from the side over 25 days. You can watch the root come out first and grow down, the hooked shoot push up and the seed leaves open. *Check:* Id checked automatically through YouTube's oEmbed: the title and channel match. A parent should still preview it, as it has music and no talking.
-- **Plant Life Cycle - Learning Life Cycle - Videos For Kids And Toddlers** (SuperKidzo Tv, 4 min) id `ib5uiLMM2wY`: A simple look at how a plant grows from a seed, made for the youngest viewers. *Check:* Id from the founder's notes. Title and channel checked automatically through YouTube's oEmbed. It is made for very young children, so older children may prefer the bean time-lapse.
+- **Plant Life Cycle - Learning Life Cycle - Videos For Kids And Toddlers** (SuperKidzo Tv, 4 min) id `ib5uiLMM2wY`: A simple look at how a plant grows from a seed, made for the youngest viewers. *Check:* Id from the DeepKids notes. Title and channel checked automatically through YouTube's oEmbed. It is made for very young children, so older children may prefer the bean time-lapse.
 - **Runner bean germination time-lapse, below the ground (Neil Bromhall)** (Neil Bromhall, 2 min) id `WAwhoXG062I`: Neil Bromhall's famous time-lapses show seeds swelling, splitting their coats and sending out roots, filmed over weeks. *Check:* Found by YouTube search: "Time-lapse Phaseolus Runner Bean. Hypogeal germination" by Neil Bromhall. Title checked automatically; a parent may still preview it.
 
 ## Quiz
