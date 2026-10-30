@@ -1,116 +1,116 @@
 {
-  "id": "india-groundwater-comeback",
-  "title": "Can satellites tell if India's underground water is coming back?",
-  "blurb": "Two satellites that feel Earth's pull showed India losing water under the ground. But in parts of the west and south, it is coming back.",
-  "topics": [
-    "sci.water.water-sources-and-uses.L3",
-    "sci.water.water-cycle.L3",
-    "sci.gravity.weight-and-mass.L3"
-  ],
-  "tags": [
-    "water",
-    "India",
-    "satellites",
-    "farming"
-  ],
+ "id": "india-groundwater-comeback",
+ "title": "Can satellites tell if India's underground water is coming back?",
+ "blurb": "Two satellites that feel Earth's pull showed India losing water under the ground. But in parts of the west and south, it is coming back.",
+ "topics": [
+  "sci.water.water-sources-and-uses.L3",
+  "sci.water.water-cycle.L3",
+  "sci.gravity.weight-and-mass.L3"
+ ],
+ "tags": [
+  "water",
+  "India",
+  "satellites",
+  "farming"
+ ],
+ "year": 2017,
+ "mins": 6,
+ "cover": {
+  "src": "media/research/india-groundwater-comeback-1.jpg",
+  "alt": "A drawing of the twin GRACE Follow-On satellites, which carry on GRACE's work, flying one behind the other above the Earth.",
+  "credit": "NASA/JPL-Caltech (illustration, public domain)"
+ },
+ "source": {
+  "name": "NASA Earth Observatory",
+  "title": "Groundwater Gains in India",
+  "authors": "Kathryn Hansen, NASA Earth Observatory",
   "year": 2017,
-  "mins": 6,
-  "cover": {
-    "src": "media/research/india-groundwater-comeback-1.jpg",
-    "alt": "A drawing of the twin GRACE Follow-On satellites, which carry on GRACE's work, flying one behind the other above the Earth.",
-    "credit": "NASA/JPL-Caltech (illustration, public domain)"
+  "url": "https://science.nasa.gov/earth/earth-observatory/groundwater-gains-in-india-91008/",
+  "license": "Public domain (US government work)"
+ },
+ "original": {
+  "title": "Groundwater rejuvenation in parts of India influenced by water-policy change implementation",
+  "authors": "Soumendra N. Bhanja, Abhijit Mukherjee, Matthew Rodell and others",
+  "journal": "Scientific Reports",
+  "year": 2017,
+  "url": "https://doi.org/10.1038/s41598-017-07058-2"
+ },
+ "cards": [
+  {
+   "k": "q",
+   "t": "The question",
+   "b": "Much of India's drinking and farm water comes from groundwater, water stored deep under the ground. Farmers pump it up with wells. In 2011, India pumped out about a quarter of all the groundwater used in the world. Is this water running out? And can good rules help it come back?",
+   "img": {
+    "src": "media/research/india-groundwater-comeback-3.jpg",
+    "alt": "A coloured map of South Asia, with deep red over north India showing where the most water was lost between 2002 and 2015.",
+    "credit": "NASA/JPL-Caltech (public domain)"
+   }
   },
-  "source": {
-    "name": "NASA Earth Observatory",
-    "title": "Groundwater Gains in India",
-    "authors": "Kathryn Hansen, NASA Earth Observatory",
-    "year": 2017,
-    "url": "https://science.nasa.gov/earth/earth-observatory/groundwater-gains-in-india-91008/",
-    "license": "Public domain (US government work)"
+  {
+   "k": "who",
+   "t": "Who found out",
+   "b": "Soumendra Bhanja and Abhijit Mukherjee of the Indian Institute of Technology Kharagpur led the study, with Matthew Rodell of NASA's Goddard Space Flight Center. Soumendra was also a visiting scientist at NASA. In 2009, Matthew Rodell's team had used two satellites called GRACE to show north India losing groundwater fast. This new study, using the same satellites, came out in 2017."
   },
-  "original": {
-    "title": "Groundwater rejuvenation in parts of India influenced by water-policy change implementation",
-    "authors": "Soumendra N. Bhanja, Abhijit Mukherjee, Matthew Rodell and others",
-    "journal": "Scientific Reports",
-    "year": 2017,
-    "url": "https://doi.org/10.1038/s41598-017-07058-2"
+  {
+   "k": "how",
+   "t": "How they found out",
+   "b": "The two GRACE satellites flew one behind the other, about 200 km apart. Gravity is the pull of the Earth on everything near it. Water is heavy, so where there is more water under the ground, gravity pulls a tiny bit harder. That changes the distance between the satellites, by less than the width of a hair. The team used these changes, plus well records, from 2003 to 2014."
   },
-  "cards": [
+  {
+   "k": "found",
+   "t": "What they found",
+   "b": "In the north and east of India, groundwater kept going down. But in parts of the west and south, it came back. Gujarat and Andhra Pradesh gained water, after losing it in earlier years. Rain did not explain it. Gujarat even got less rain. Instead, these states had changed how they used power and water for farms.",
+   "img": {
+    "src": "media/research/india-groundwater-comeback-2.jpg",
+    "alt": "A map of India in brown and blue squares. Brown in the north shows water lost, blue in the west and south shows water gained.",
+    "credit": "NASA Earth Observatory/Joshua Stevens, using data from Bhanja and others (public domain)"
+   }
+  },
+  {
+   "k": "sure",
+   "t": "How sure are they?",
+   "b": "Satellites and wells both showed the same pattern, which makes the result stronger. But the satellites see big areas, not single villages. The link to new rules is the scientists' best explanation, not a proven cause. Less power used for farm pumps, and training for farmers, happened at the same time as the gains."
+  },
+  {
+   "k": "why",
+   "t": "Why it matters",
+   "b": "Groundwater can take a very long time to fill up again. This study gives hope. It suggests that careful rules about pumping, and irrigation with more river and canal water, can help groundwater recover. North and east India still lose water, so they may learn from the west and south."
+  },
+  {
+   "k": "try",
+   "t": "Try it at home",
+   "b": "Groundwater soaks into the ground slowly. Try it. Fill one steel tumbler with dry sand and another with small pebbles. Slowly pour the same small amount of water on each. In which tumbler does the water sink in faster? Water stored in the gaps between grains is like groundwater. Pumping it out is quick, but rain soaking back in is slow. That is why groundwater takes so long to come back."
+  },
+  {
+   "k": "think",
+   "t": "Think about it",
+   "b": "Imagine a farmer who needs lots of water to grow rice and feed her family. But pumping too much leaves less for her grandchildren. Should each farmer decide how much to pump? Or should there be rules for everyone? What would be fair for her, and for the future?"
+  },
+  {
+   "k": "words",
+   "t": "New words",
+   "words": [
     {
-      "k": "q",
-      "t": "The question",
-      "b": "Much of India's drinking and farm water comes from groundwater, water stored deep under the ground. Farmers pump it up with wells. In 2011, India pumped out about a quarter of all the groundwater used in the world. Is this water running out? And can good rules help it come back?",
-      "img": {
-        "src": "media/research/india-groundwater-comeback-3.jpg",
-        "alt": "A coloured map of South Asia, with deep red over north India showing where the most water was lost between 2002 and 2015.",
-        "credit": "NASA/JPL-Caltech (public domain)"
-      }
+     "w": "groundwater",
+     "m": "water stored in soil and rock deep under the ground"
     },
     {
-      "k": "who",
-      "t": "Who found out",
-      "b": "Soumendra Bhanja and Abhijit Mukherjee of the Indian Institute of Technology Kharagpur led the study, with Matthew Rodell of NASA's Goddard Space Flight Center. Soumendra was also a visiting scientist at NASA. In 2009, Matthew Rodell's team had used the same satellites to show north India losing groundwater fast. This new study came out in 2017."
+     "w": "gravity",
+     "m": "the pull that makes things fall and holds us to the Earth"
     },
     {
-      "k": "how",
-      "t": "How they found out",
-      "b": "The GRACE mission had two satellites, flying one behind the other, about 200 km apart. Water is heavy. Where there is more water under the ground, gravity pulls a tiny bit harder. That pull changes the distance between the satellites, by less than the width of a hair. The team used these changes, plus well records, from 2003 to 2014."
+     "w": "satellite",
+     "m": "a machine that goes round the Earth in space"
     },
     {
-      "k": "found",
-      "t": "What they found",
-      "b": "In the north and east of India, groundwater kept going down. But in parts of the west and south, it came back. Gujarat and Andhra Pradesh gained water, after losing it in earlier years. Rain did not explain it. Gujarat even got less rain. Instead, these states had changed how they used power and water for farms.",
-      "img": {
-        "src": "media/research/india-groundwater-comeback-2.jpg",
-        "alt": "A map of India in brown and blue squares. Brown in the north shows water lost, blue in the west and south shows water gained.",
-        "credit": "NASA Earth Observatory/Joshua Stevens, using data from Bhanja and others (public domain)"
-      }
+     "w": "aquifer",
+     "m": "a layer of rock or sand under the ground that holds water"
     },
     {
-      "k": "sure",
-      "t": "How sure are they?",
-      "b": "Satellites and wells both showed the same pattern, which makes the result stronger. But the satellites see big areas, not single villages. The link to new rules is the scientists' best explanation, not a proven cause. Less power used for farm pumps and training for farmers happened at the same time as the gains."
-    },
-    {
-      "k": "why",
-      "t": "Why it matters",
-      "b": "Groundwater can take a very long time to fill up again. This study gives hope. It suggests that careful rules about pumping, and irrigation with more river and canal water, can help groundwater recover. North and east India still lose water, so they may learn from the west and south."
-    },
-    {
-      "k": "try",
-      "t": "Try it at home",
-      "b": "Groundwater soaks into the ground slowly. Try it. Vaishnavi fills a steel tumbler with dry sand and another with small pebbles. She pours half a cup of water on each, slowly. In which tumbler does the water sink in faster? Now think: is it quicker to pump water out, or for rain to soak back in?"
-    },
-    {
-      "k": "think",
-      "t": "Think about it",
-      "b": "A farmer may need lots of water today to grow crops and feed her family. But pumping too much leaves less for her grandchildren. Should each farmer decide how much to pump? Or should there be rules for everyone? Kalpana's family farms rice. What would be fair for her, and for the future?"
-    },
-    {
-      "k": "words",
-      "t": "New words",
-      "words": [
-        {
-          "w": "groundwater",
-          "m": "water stored in soil and rock deep under the ground"
-        },
-        {
-          "w": "gravity",
-          "m": "the pull that makes things fall and holds us to the Earth"
-        },
-        {
-          "w": "satellite",
-          "m": "a machine that goes round the Earth in space"
-        },
-        {
-          "w": "aquifer",
-          "m": "a layer of rock or sand under the ground that holds water"
-        },
-        {
-          "w": "irrigation",
-          "m": "bringing water to fields so crops can grow"
-        }
-      ]
+     "w": "irrigation",
+     "m": "bringing water to fields so crops can grow"
     }
-  ]
+   ]
+  }
+ ]
 }

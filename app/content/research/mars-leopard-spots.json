@@ -1,116 +1,117 @@
 {
-  "id": "mars-leopard-spots",
-  "title": "Did tiny living things once live on Mars?",
-  "blurb": "A Mars rover found a rock with leopard spots. The spots could be a sign of ancient life, or not. Scientists explain how they will decide.",
-  "topics": [
-    "sci.sky.life-beyond-earth.L3",
-    "sci.what-is-life.signs-of-life.L3",
-    "sci.sky.exploring-space.L3"
-  ],
-  "tags": [
-    "Mars",
-    "life",
-    "rocks",
-    "rover"
-  ],
+ "id": "mars-leopard-spots",
+ "title": "Did tiny living things once live on Mars?",
+ "blurb": "A Mars rover found a rock with leopard spots. The spots could be a sign of ancient life, or not. Scientists explain how they will decide.",
+ "topics": [
+  "sci.sky.life-beyond-earth.L3",
+  "sci.what-is-life.signs-of-life.L3",
+  "sci.sky.exploring-space.L3"
+ ],
+ "tags": [
+  "Mars",
+  "life",
+  "rocks",
+  "rover"
+ ],
+ "year": 2025,
+ "mins": 7,
+ "cover": {
+  "src": "media/research/mars-leopard-spots-1.jpg",
+  "alt": "A close-up of a reddish rock on Mars covered in small pale spots with dark rims, like a leopard's coat.",
+  "credit": "NASA/JPL-Caltech/MSSS (public domain)"
+ },
+ "source": {
+  "name": "NASA",
+  "title": "NASA Says Mars Rover Discovered Potential Biosignature Last Year",
+  "authors": "NASA",
   "year": 2025,
-  "mins": 7,
-  "cover": {
-    "src": "media/research/mars-leopard-spots-1.jpg",
-    "alt": "A close-up of a reddish rock on Mars covered in small pale spots with dark rims, like a leopard's coat.",
+  "url": "https://www.nasa.gov/news-release/nasa-says-mars-rover-discovered-potential-biosignature-last-year/",
+  "license": "Public domain (US government work)"
+ },
+ "original": {
+  "title": "Redox-driven mineral and organic associations in Jezero Crater, Mars",
+  "authors": "Joel A. Hurowitz and others",
+  "journal": "Nature",
+  "year": 2025,
+  "url": "https://doi.org/10.1038/s41586-025-09413-0"
+ },
+ "cards": [
+  {
+   "k": "q",
+   "t": "The question",
+   "b": "Billions of years ago, Mars had rivers and lakes. On Earth, wherever there is water, there are microbes, tiny living things too small to see. Did microbes ever live on Mars too? NASA sent a robot car called Perseverance to Mars. It is looking for clues in old Martian rocks."
+  },
+  {
+   "k": "who",
+   "t": "Who found out",
+   "b": "Joel Hurowitz of Stony Brook University in New York led the study. He worked with a big team of Perseverance scientists. Katie Stack Morgan is the rover's project scientist at NASA's Jet Propulsion Laboratory. The rover found the rock in July 2024. The team published the study in September 2025."
+  },
+  {
+   "k": "how",
+   "t": "How they found out",
+   "b": "Perseverance drove into an old dry river valley, about 400 metres wide. There it found an arrowhead-shaped rock, about one metre long, with spots like a leopard's. The team named it Cheyava Falls. Tools on the rover's arm shone X-rays and laser light on the rock, to find out what it is made of. Then the rover drilled out a core and kept it.",
+   "img": {
+    "src": "media/research/mars-leopard-spots-2.jpg",
+    "alt": "A selfie of the Perseverance rover on Mars, a six-wheeled robot with a tall mast, next to rocks.",
     "credit": "NASA/JPL-Caltech/MSSS (public domain)"
+   }
   },
-  "source": {
-    "name": "NASA",
-    "title": "NASA Says Mars Rover Discovered Potential Biosignature Last Year",
-    "authors": "NASA",
-    "year": 2025,
-    "url": "https://www.nasa.gov/news-release/nasa-says-mars-rover-discovered-potential-biosignature-last-year/",
-    "license": "Public domain (US government work)"
+  {
+   "k": "found",
+   "t": "What they found",
+   "b": "The rock is made of mud and clay, which keep old signs of life well on Earth. It holds carbon, sulfur, phosphorus and rust. Its spots contain two minerals with iron in them, vivianite and greigite. On Earth, these often form where microbes feed on mud. So the spots are a possible sign of life, called a biosignature.",
+   "img": {
+    "src": "media/research/mars-leopard-spots-3.jpg",
+    "alt": "A colour map over a close-up of the rock, with purple and pink patches showing where special minerals are.",
+    "credit": "NASA/JPL-Caltech (public domain)"
+   }
   },
-  "original": {
-    "title": "Redox-driven mineral and organic associations in Jezero Crater, Mars",
-    "authors": "Joel A. Hurowitz and others",
-    "journal": "Nature",
-    "year": 2025,
-    "url": "https://doi.org/10.1038/s41586-025-09413-0"
+  {
+   "k": "sure",
+   "t": "How sure are they?",
+   "b": "Not sure at all, and they say so. The same minerals can form without life, for example when rock gets very hot or acidic. This rock shows no signs of that, but the team cannot rule it out. To be sure, scientists would need to study the drilled sample in labs on Earth."
   },
-  "cards": [
+  {
+   "k": "why",
+   "t": "Why it matters",
+   "b": "This is the closest anyone has come to finding signs of life on Mars. It is also a surprise, because this rock is younger than scientists expected. Mars may have been a good home for life for longer than they thought. The sample is one of 27 rock cores the rover has collected."
+  },
+  {
+   "k": "try",
+   "t": "Try it at home",
+   "b": "Scientists look for clues that something was alive. Practise on bread. Ask a grown-up to leave a slice in a closed box for a few days. Look at it with a magnifying glass. Are there fuzzy spots? Mould is alive. What clues tell you so? Perseverance's team did the same with the rock's spots: they looked for clues, and called them a possible sign, not proof.",
+   "note": "Do not touch or sniff the mould. Throw the bread away afterwards."
+  },
+  {
+   "k": "think",
+   "t": "Think about it",
+   "b": "Scientists say big claims need very strong proof. So they call the spots a possible sign, not proof. Is it better to wait for proof before telling people? Or should scientists share exciting clues early, and say they might be wrong? Which side are you on?"
+  },
+  {
+   "k": "words",
+   "t": "New words",
+   "words": [
     {
-      "k": "q",
-      "t": "The question",
-      "b": "Billions of years ago, Mars had rivers and lakes. On Earth, wherever there is water, there are microbes, tiny living things too small to see. Did microbes ever live on Mars too? NASA's Perseverance rover is looking for clues in old Martian rocks."
+     "w": "microbe",
+     "m": "a living thing too small to see without a microscope"
     },
     {
-      "k": "who",
-      "t": "Who found out",
-      "b": "Joel Hurowitz of Stony Brook University in New York led the study. He worked with a big team of Perseverance scientists. Katie Stack Morgan is the rover's project scientist at NASA's Jet Propulsion Laboratory. The rover found the rock in July 2024. The team published the study in September 2025."
+     "w": "biosignature",
+     "m": "a clue in rocks or air that something may once have been alive"
     },
     {
-      "k": "how",
-      "t": "How they found out",
-      "b": "Perseverance drove into an old dry river valley, about 400 metres wide. There it found an arrowhead-shaped rock, about one metre long. The team named the rock Cheyava Falls. Tools on the rover's arm shone X-rays and laser light on the rock, to find out what it is made of. Then the rover drilled out a core and kept it.",
-      "img": {
-        "src": "media/research/mars-leopard-spots-2.jpg",
-        "alt": "A selfie of the Perseverance rover on Mars, a six-wheeled robot with a tall mast, next to rocks.",
-        "credit": "NASA/JPL-Caltech/MSSS (public domain)"
-      }
+     "w": "mineral",
+     "m": "a natural solid that rocks are made of"
     },
     {
-      "k": "found",
-      "t": "What they found",
-      "b": "The rock is made of mud and clay, which keep old signs of life well on Earth. It holds carbon, sulfur, phosphorus and rust. Its spots contain two iron minerals, vivianite and greigite. On Earth, these often form where microbes feed on mud. So the spots are a possible sign of life, called a biosignature.",
-      "img": {
-        "src": "media/research/mars-leopard-spots-3.jpg",
-        "alt": "A colour map over a close-up of the rock, with purple and pink patches showing where special minerals are.",
-        "credit": "NASA/JPL-Caltech (public domain)"
-      }
+     "w": "core",
+     "m": "a long, thin piece of rock drilled out of a bigger rock"
     },
     {
-      "k": "sure",
-      "t": "How sure are they?",
-      "b": "Not sure at all, and they say so. The same minerals can form without life, for example when rock gets very hot or acidic. This rock shows no signs of that, but the team cannot rule it out. To be sure, scientists would need to study the drilled sample in labs on Earth."
-    },
-    {
-      "k": "why",
-      "t": "Why it matters",
-      "b": "This is the closest anyone has come to finding signs of life on Mars. It is also a surprise, because this rock is younger than scientists expected. Mars may have been a good home for life for longer than they thought. The sample is one of 27 rock cores the rover has collected."
-    },
-    {
-      "k": "try",
-      "t": "Try it at home",
-      "b": "Scientists look for clues that something was alive. Ask a parent for a slice of bread left in a closed box for a few days. Divya looks at it with a magnifying glass, without touching or smelling it. Are there fuzzy spots? Mould is alive. What clues tell her that? Throw it away after."
-    },
-    {
-      "k": "think",
-      "t": "Think about it",
-      "b": "Scientists say big claims need very strong proof. So they call the spots a possible sign, not proof. Is it better to wait for proof before telling people? Or should scientists share exciting clues early, and say they might be wrong? Priya and her mother disagree. Which side are you on?"
-    },
-    {
-      "k": "words",
-      "t": "New words",
-      "words": [
-        {
-          "w": "microbe",
-          "m": "a living thing too small to see without a microscope"
-        },
-        {
-          "w": "biosignature",
-          "m": "a clue in rocks or air that something may once have been alive"
-        },
-        {
-          "w": "mineral",
-          "m": "a natural solid that rocks are made of"
-        },
-        {
-          "w": "core",
-          "m": "a long, thin piece of rock drilled out of a bigger rock"
-        },
-        {
-          "w": "rover",
-          "m": "a robot car that drives around on another planet"
-        }
-      ]
+     "w": "rover",
+     "m": "a robot car that drives around on another planet"
     }
-  ]
+   ]
+  }
+ ]
 }

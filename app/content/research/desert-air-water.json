@@ -1,116 +1,116 @@
 {
-  "id": "desert-air-water",
-  "title": "Can we pull drinking water out of dry desert air?",
-  "blurb": "Scientists from MIT and UC Berkeley built a small box that soaks up water from desert air at night and lets the Sun squeeze it out by day, with no electricity.",
-  "topics": [
-    "sci.water.water-sources-and-uses.L3",
-    "sci.states.evaporation-and-condensation.L3",
-    "sci.energy.energy-around-us.L3"
-  ],
-  "tags": [
-    "water",
-    "desert",
-    "Sun",
-    "inventions"
-  ],
+ "id": "desert-air-water",
+ "title": "Can we pull drinking water out of dry desert air?",
+ "blurb": "Scientists from MIT and UC Berkeley built a small box that soaks up water from desert air at night and lets the Sun squeeze it out by day, with no electricity.",
+ "topics": [
+  "sci.water.water-sources-and-uses.L3",
+  "sci.states.evaporation-and-condensation.L3",
+  "sci.energy.energy-around-us.L3"
+ ],
+ "tags": [
+  "water",
+  "desert",
+  "Sun",
+  "inventions"
+ ],
+ "year": 2018,
+ "mins": 6,
+ "cover": {
+  "src": "media/research/desert-air-water-1.jpg",
+  "alt": "The water harvester on a metal rooftop in Arizona, with a lens to focus sunlight, a camera on a stand and a sunlight meter.",
+  "credit": "Figure 2a, Kim et al., Nature Communications 2018, CC BY 4.0"
+ },
+ "source": {
+  "name": "Nature Communications (research paper)",
+  "title": "Adsorption-based atmospheric water harvesting device for arid climates",
+  "authors": "Hyunho Kim, Sameer R. Rao, Eugene A. Kapustin, Lin Zhao, Sungwoo Yang, Omar M. Yaghi, Evelyn N. Wang",
   "year": 2018,
-  "mins": 6,
-  "cover": {
-    "src": "media/research/desert-air-water-1.jpg",
-    "alt": "The water harvester on a metal rooftop in Arizona, with a lens to focus sunlight, a camera on a stand and a sunlight meter.",
-    "credit": "Figure 2a, Kim et al., Nature Communications 2018, CC BY 4.0"
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5864962/",
+  "license": "facts retold in our own words"
+ },
+ "original": {
+  "title": "Adsorption-based atmospheric water harvesting device for arid climates",
+  "authors": "Kim, H., Rao, S. R., Kapustin, E. A., Zhao, L., Yang, S., Yaghi, O. M., and Wang, E. N.",
+  "journal": "Nature Communications",
+  "year": 2018,
+  "url": "https://doi.org/10.1038/s41467-018-03162-7"
+ },
+ "cards": [
+  {
+   "k": "q",
+   "t": "The question",
+   "b": "Even desert air holds a little water, as an invisible gas called water vapour. Machines that cool air to make water need lots of electricity, and they hardly work when the air is very dry. Could a simple box catch water from dry desert air, using only sunshine?"
   },
-  "source": {
-    "name": "Nature Communications (research paper)",
-    "title": "Adsorption-based atmospheric water harvesting device for arid climates",
-    "authors": "Hyunho Kim, Sameer R. Rao, Eugene A. Kapustin, Lin Zhao, Sungwoo Yang, Omar M. Yaghi, Evelyn N. Wang",
-    "year": 2018,
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5864962/",
-    "license": "facts retold in our own words"
+  {
+   "k": "who",
+   "t": "Who found out",
+   "b": "Evelyn Wang leads a lab at MIT, the Massachusetts Institute of Technology, in the United States. Omar Yaghi is a chemist at the University of California, Berkeley, who invents new materials. Hyunho Kim, Sameer Rao, Eugene Kapustin, Lin Zhao and Sungwoo Yang worked with them. Together they published this work in 2018."
   },
-  "original": {
-    "title": "Adsorption-based atmospheric water harvesting device for arid climates",
-    "authors": "Kim, H., Rao, S. R., Kapustin, E. A., Zhao, L., Yang, S., Yaghi, O. M., and Wang, E. N.",
-    "journal": "Nature Communications",
-    "year": 2018,
-    "url": "https://doi.org/10.1038/s41467-018-03162-7"
+  {
+   "k": "how",
+   "t": "How they found out",
+   "b": "The box holds a special powder called MOF-801, packed in a thin layer. MOF stands for metal-organic framework. The powder is full of tiny holes that grab water vapour from the air, like a sponge. At night the box is open, and the powder soaks up water. By day the box is shut. Sunshine heats the powder, the water escapes, and it collects as drops on a cool metal plate.",
+   "img": {
+    "src": "media/research/desert-air-water-2.jpg",
+    "alt": "A cut-away drawing of the harvester. On the night side, air flows in and the powder soaks up water. On the day side, sunlight heats the powder and water drops form below.",
+    "credit": "Figure 1a, Kim et al., Nature Communications 2018, CC BY 4.0"
+   }
   },
-  "cards": [
+  {
+   "k": "found",
+   "t": "What they found",
+   "b": "They tested the box on a rooftop in Tempe, Arizona, a hot desert city, five times in one week in May 2017. The air was very dry. Even so, when the Sun heated the powder, drops of water formed inside the box. With a lens to focus more sunlight, they worked out that one kilogram of the powder could give about a quarter of a litre of water a day.",
+   "img": {
+    "src": "media/research/desert-air-water-3.jpg",
+    "alt": "Close-up photos of the inside of the harvester at midday, covered in many small water drops.",
+    "credit": "Figure 3d, Kim et al., Nature Communications 2018, CC BY 4.0"
+   }
+  },
+  {
+   "k": "sure",
+   "t": "How sure are they?",
+   "b": "The test box was tiny. The powder layer was only 5 centimetres across and held about 3 grams of powder. That made too little water to measure in a jug. So the team used a computer, checked against earlier tests, to work out how much water it made. They also checked that the powder did not get into the water."
+  },
+  {
+   "k": "why",
+   "t": "Why it matters",
+   "b": "Many people live in dry places with little clean water, like parts of Rajasthan and Kutch. A harvester that needs no electricity or pipes could one day help them. The idea now needs bigger boxes and cheaper powders. The night sky also helped: the box cooled a little by sending heat up into the clear sky."
+  },
+  {
+   "k": "try",
+   "t": "Try it at home",
+   "b": "Catch water from the air. Put a few ice cubes in a dry steel tumbler and wait ten minutes. Drops appear on the outside. They did not leak out. The cold steel cooled the air touching it, and the invisible water vapour turned back into water. The scientists' box also pulls water from the air, but with a powder instead of cold. Try it on a humid day and a dry day. When do more drops form?"
+  },
+  {
+   "k": "think",
+   "t": "Think about it",
+   "b": "This box uses the Sun's heat and the cool night, with no electricity at all. Should we spend more on new machines like this, or on fixing old pipes and saving rainwater, which we already know how to do? Which would help your town more?"
+  },
+  {
+   "k": "words",
+   "t": "New words",
+   "words": [
     {
-      "k": "q",
-      "t": "The question",
-      "b": "Even desert air holds a little water, as an invisible gas called water vapour. Machines that cool air to make water need lots of electricity, and they hardly work when the air is very dry. Could a simple box catch water from dry desert air, using only sunshine?"
+     "w": "water vapour",
+     "m": "water as an invisible gas mixed into the air"
     },
     {
-      "k": "who",
-      "t": "Who found out",
-      "b": "Evelyn Wang leads a lab at MIT, the Massachusetts Institute of Technology, in the United States. Omar Yaghi is a chemist at the University of California, Berkeley, who invents new materials. Hyunho Kim, Sameer Rao, Eugene Kapustin, Lin Zhao and Sungwoo Yang worked with them. They published in 2018."
+     "w": "condense",
+     "m": "when water vapour cools and turns back into liquid drops"
     },
     {
-      "k": "how",
-      "t": "How they found out",
-      "b": "The box holds a special powder called MOF-801, packed into a thin layer. The powder is full of tiny holes that grab water from the air, like a sponge. At night the box is open, and the powder soaks up water. By day the box is shut. Sunshine heats the powder, the water escapes, and it collects as drops on a cool metal plate.",
-      "img": {
-        "src": "media/research/desert-air-water-2.jpg",
-        "alt": "A cut-away drawing of the harvester. On the night side, air flows in and the powder soaks up water. On the day side, sunlight heats the powder and water drops form below.",
-        "credit": "Figure 1a, Kim et al., Nature Communications 2018, CC BY 4.0"
-      }
+     "w": "MOF",
+     "m": "short for metal-organic framework, a powder full of tiny holes that can trap water"
     },
     {
-      "k": "found",
-      "t": "What they found",
-      "b": "They tested the box on a rooftop in Tempe, Arizona, a hot desert city, five times in one week in May 2017. The air was very dry. Even so, when the Sun heated the powder, drops of water formed inside the box. With a lens to focus more sunlight, they worked out that one kilogram of the powder could give about a quarter of a litre of water a day.",
-      "img": {
-        "src": "media/research/desert-air-water-3.jpg",
-        "alt": "Close-up photos of the inside of the harvester at midday, covered in many small water drops.",
-        "credit": "Figure 3d, Kim et al., Nature Communications 2018, CC BY 4.0"
-      }
+     "w": "humidity",
+     "m": "how much water vapour there is in the air"
     },
     {
-      "k": "sure",
-      "t": "How sure are they?",
-      "b": "The test box was tiny. The powder layer was only 5 centimetres across and held about 3 grams of powder. That made too little water to measure in a jug. So the team used a computer, checked against earlier tests, to work out how much water it made. They also checked that the powder did not get into the water."
-    },
-    {
-      "k": "why",
-      "t": "Why it matters",
-      "b": "Many people live in dry places with little clean water, like parts of Rajasthan and Kutch. A harvester that needs no electricity or pipes could one day help them. The idea now needs bigger boxes and cheaper powders. The night sky also helped: the box cooled a little by sending heat up into the clear sky."
-    },
-    {
-      "k": "try",
-      "t": "Try it at home",
-      "b": "Catch water from the air. Revathi puts ice cubes into a dry steel tumbler and waits ten minutes. Drops appear on the outside. Where did they come from? The cold metal turned water vapour from the air back into water. Try it on a humid day and on a dry day. When do more drops form?"
-    },
-    {
-      "k": "think",
-      "t": "Think about it",
-      "b": "This box uses the Sun's heat and the cool night, with no electricity at all. Should we spend more on new machines like this, or on fixing old pipes and saving rainwater, which we already know how to do? Which would help your town more?"
-    },
-    {
-      "k": "words",
-      "t": "New words",
-      "words": [
-        {
-          "w": "water vapour",
-          "m": "water as an invisible gas mixed into the air"
-        },
-        {
-          "w": "condense",
-          "m": "when water vapour cools and turns back into liquid drops"
-        },
-        {
-          "w": "MOF",
-          "m": "short for metal-organic framework, a powder full of tiny holes that can trap water"
-        },
-        {
-          "w": "humidity",
-          "m": "how much water vapour there is in the air"
-        },
-        {
-          "w": "arid",
-          "m": "very dry, with very little rain"
-        }
-      ]
+     "w": "arid",
+     "m": "very dry, with very little rain"
     }
-  ]
+   ]
+  }
+ ]
 }

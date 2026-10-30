@@ -1,116 +1,116 @@
 {
-  "id": "yellowballs-star-birth",
-  "title": "What are the yellow balls volunteers spotted in space pictures?",
-  "blurb": "People at home searching space photos noticed small yellow blobs. Astronomers think they are a young stage of star nurseries that no one had picked out before.",
-  "topics": [
-    "sci.sky.stars.L3",
-    "sci.sky.sun-moon-stars.L3",
-    "sci.light.colour.L3"
-  ],
-  "tags": [
-    "stars",
-    "citizen science",
-    "telescopes",
-    "colour"
-  ],
+ "id": "yellowballs-star-birth",
+ "title": "What are the yellow balls volunteers spotted in space pictures?",
+ "blurb": "People at home searching space photos noticed small yellow blobs. Astronomers think they are a young stage of star nurseries that no one had picked out before.",
+ "topics": [
+  "sci.sky.stars.L3",
+  "sci.sky.sun-moon-stars.L3",
+  "sci.light.colour.L3"
+ ],
+ "tags": [
+  "stars",
+  "citizen science",
+  "telescopes",
+  "colour"
+ ],
+ "year": 2015,
+ "mins": 6,
+ "cover": {
+  "src": "media/research/yellowballs-star-birth-1.jpg",
+  "alt": "An infrared picture of part of the Milky Way in blue, green and red, with a small colour wheel",
+  "credit": "Figure 2, Wolf-Chase and Kerton, Frontiers for Young Minds, CC BY 4.0 (image: NASA/JPL-Caltech/Univ. of Wisconsin)"
+ },
+ "source": {
+  "name": "Frontiers for Young Minds",
+  "title": "What Do “Yellowballs” have to Do with the Birth of New Stars?",
+  "authors": "Grace Wolf-Chase, Charles Kerton",
   "year": 2015,
-  "mins": 6,
-  "cover": {
-    "src": "media/research/yellowballs-star-birth-1.jpg",
-    "alt": "An infrared picture of part of the Milky Way in blue, green and red, with a small colour wheel",
-    "credit": "Figure 2, Wolf-Chase and Kerton, Frontiers for Young Minds, CC BY 4.0 (image: NASA/JPL-Caltech/Univ. of Wisconsin)"
+  "url": "https://kids.frontiersin.org/articles/10.3389/frym.2015.00016",
+  "license": "CC BY 4.0"
+ },
+ "original": {
+  "title": "The Milky Way Project: what are yellowballs?",
+  "authors": "C. R. Kerton, G. Wolf-Chase, K. Arvidsson, C. J. Lintott, R. J. Simpson",
+  "journal": "The Astrophysical Journal",
+  "year": 2015,
+  "url": "https://doi.org/10.1088/0004-637X/799/2/153"
+ },
+ "cards": [
+  {
+   "k": "q",
+   "t": "The question",
+   "b": "Stars are born inside cold, dusty clouds in space. The dust hides them from ordinary telescopes. Infrared light, which our eyes cannot see, can pass through the dust. A space telescope took hundreds of thousands of infrared pictures of our galaxy. That is far too many for a few scientists to check. Who could look at them all?"
   },
-  "source": {
-    "name": "Frontiers for Young Minds",
-    "title": "What Do “Yellowballs” have to Do with the Birth of New Stars?",
-    "authors": "Grace Wolf-Chase, Charles Kerton",
-    "year": 2015,
-    "url": "https://kids.frontiersin.org/articles/10.3389/frym.2015.00016",
-    "license": "CC BY 4.0"
+  {
+   "k": "who",
+   "t": "Who found out",
+   "b": "Grace Wolf-Chase is an astronomer at the Adler Planetarium in Chicago. Charles Kerton teaches and does research at Iowa State University. They work on the Milky Way Project, where volunteers search space pictures on the Zooniverse website, a place where anyone can help with real research. These volunteers are called citizen scientists. The paper about yellowballs came out in 2015."
   },
-  "original": {
-    "title": "The Milky Way Project: what are yellowballs?",
-    "authors": "C. R. Kerton, G. Wolf-Chase, K. Arvidsson, C. J. Lintott, R. J. Simpson",
-    "journal": "The Astrophysical Journal",
-    "year": 2015,
-    "url": "https://doi.org/10.1088/0004-637X/799/2/153"
+  {
+   "k": "how",
+   "t": "How they found out",
+   "b": "The pictures came from the Spitzer Space Telescope. Infrared light is invisible, so a computer turned it into colours we can see: blue, green and red. Volunteers were asked to mark bubbles: red rings with green rims, blown by big young stars. While doing this, some volunteers noticed small, round yellow blobs and asked about them. So the scientists asked everyone to mark those too.",
+   "img": {
+    "src": "media/research/yellowballs-star-birth-2.jpg",
+    "alt": "Three pictures in a row: a dark cloud with a red dot, a yellowball, and a large red bubble with a green rim",
+    "credit": "Figure 3, Wolf-Chase and Kerton, Frontiers for Young Minds, CC BY 4.0 (image: NASA/JPL-Caltech)"
+   }
   },
-  "cards": [
+  {
+   "k": "found",
+   "t": "What they found",
+   "b": "Volunteers helped build a list of about 1,000 yellowballs. In these pictures, yellow appears where red and green overlap. The scientists think yellowballs are young star nurseries, places where many stars are being born. They are about 100,000 years old. Most are bigger than our solar system, and each may be making dozens or even hundreds of stars. Over about a million years, a yellowball grows into a bubble."
+  },
+  {
+   "k": "sure",
+   "t": "How sure are they?",
+   "b": "This is the scientists' best explanation, called a hypothesis. It fits the colours and the sizes, but it still needs testing. Now there is a list of about 1,000 yellowballs. Astronomers can use it to plan new observations, and see how yellowballs really change into star nurseries."
+  },
+  {
+   "k": "why",
+   "t": "Why it matters",
+   "b": "Our Sun and Earth probably formed in a crowded star nursery like the Orion nebula, about five billion years ago. So learning how young star clusters grow helps us understand where we came from. It also shows that curious people anywhere can help real science.",
+   "img": {
+    "src": "media/research/yellowballs-star-birth-3.jpg",
+    "alt": "The Orion nebula seen by the Hubble Space Telescope, with zoomed-in boxes showing new planetary systems forming",
+    "credit": "Figure 4, Wolf-Chase and Kerton, Frontiers for Young Minds, CC BY 4.0 (image: NASA, ESA, M. Robberto, the HST Orion Treasury Project Team and L. Ricci)"
+   }
+  },
+  {
+   "k": "try",
+   "t": "Try it at home",
+   "b": "Make yellow from red and green light. In a dark room, cover one phone torch with red cellophane. Ask someone to cover another with green cellophane. Shine both at a white wall so the two spots overlap. What colour appears where they meet? In the space pictures, a computer colours some light red and some green. Where they overlap, we see yellow. That is why the yellowballs look yellow."
+  },
+  {
+   "k": "think",
+   "t": "Think about it",
+   "b": "The volunteers who spotted yellowballs were not trained astronomers. They just noticed something odd and asked about it. Should scientists always listen when ordinary people notice something strange? Or could that waste their time? What odd thing have you noticed lately?"
+  },
+  {
+   "k": "words",
+   "t": "New words",
+   "words": [
     {
-      "k": "q",
-      "t": "The question",
-      "b": "Stars are born inside cold, dusty clouds in space. The dust hides them from ordinary telescopes. Infrared light, which our eyes cannot see, can pass through the dust. A space telescope took hundreds of thousands of infrared pictures of our galaxy. That is far too many for a few scientists to check. Who could look at them all?"
+     "w": "infrared light",
+     "m": "light our eyes cannot see, which can pass through dust in space"
     },
     {
-      "k": "who",
-      "t": "Who found out",
-      "b": "Grace Wolf-Chase is an astronomer at the Adler Planetarium in Chicago. Charles Kerton teaches and does research at Iowa State University. They work on the Milky Way Project, where volunteers search space pictures on the Zooniverse website. These volunteers are called citizen scientists. The paper about yellowballs came out in 2015."
+     "w": "citizen scientist",
+     "m": "anyone who helps with a real science project"
     },
     {
-      "k": "how",
-      "t": "How they found out",
-      "b": "The pictures came from the Spitzer Space Telescope. A computer turned the invisible infrared colours into blue, green and red. Volunteers were asked to mark bubbles: red rings with green rims, blown by big young stars. While doing this, some volunteers noticed small, round yellow blobs and asked about them. So the scientists asked everyone to mark those too.",
-      "img": {
-        "src": "media/research/yellowballs-star-birth-2.jpg",
-        "alt": "Three pictures in a row: a dark cloud with a red dot, a yellowball, and a large red bubble with a green rim",
-        "credit": "Figure 3, Wolf-Chase and Kerton, Frontiers for Young Minds, CC BY 4.0 (image: NASA/JPL-Caltech)"
-      }
+     "w": "nebula",
+     "m": "a huge cloud of gas and dust in space"
     },
     {
-      "k": "found",
-      "t": "What they found",
-      "b": "Volunteers helped build a list of about 1,000 yellowballs. In these pictures, yellow appears where red and green overlap. The scientists think yellowballs are young bubbles, about 100,000 years old. Most are bigger than our solar system, and each may be making dozens or even hundreds of stars. Over about a million years, a yellowball grows into a bubble."
+     "w": "protostar",
+     "m": "a baby star that is still growing as gravity pulls gas and dust together"
     },
     {
-      "k": "sure",
-      "t": "How sure are they?",
-      "b": "This is the scientists' best explanation, called a hypothesis. It fits the colours and the sizes, but it still needs testing. Now there is a list of about 1,000 yellowballs. Astronomers can use it to plan new observations, and see how yellowballs really change into star nurseries."
-    },
-    {
-      "k": "why",
-      "t": "Why it matters",
-      "b": "Our Sun and Earth probably formed in a crowded star nursery like the Orion nebula, about five billion years ago. So learning how young star clusters grow helps us understand where we came from. It also shows that curious people anywhere can help real science.",
-      "img": {
-        "src": "media/research/yellowballs-star-birth-3.jpg",
-        "alt": "The Orion nebula seen by the Hubble Space Telescope, with zoomed-in boxes showing new planetary systems forming",
-        "credit": "Figure 4, Wolf-Chase and Kerton, Frontiers for Young Minds, CC BY 4.0 (image: NASA, ESA, M. Robberto, the HST Orion Treasury Project Team and L. Ricci)"
-      }
-    },
-    {
-      "k": "try",
-      "t": "Try it at home",
-      "b": "Make yellow from red and green light. In a dark room, Ananya covers one phone torch with red cellophane. Her mother covers another with green cellophane. They shine both at a white wall so the two spots overlap. What colour appears where they meet? That is why the yellowballs look yellow in the pictures."
-    },
-    {
-      "k": "think",
-      "t": "Think about it",
-      "b": "The volunteers who spotted yellowballs were not trained astronomers. They just noticed something odd and asked about it. Should scientists always listen when ordinary people notice something strange? Or could that waste their time? What odd thing have you noticed lately?"
-    },
-    {
-      "k": "words",
-      "t": "New words",
-      "words": [
-        {
-          "w": "infrared light",
-          "m": "light our eyes cannot see, which can pass through dust in space"
-        },
-        {
-          "w": "citizen scientist",
-          "m": "anyone who helps with a real science project"
-        },
-        {
-          "w": "nebula",
-          "m": "a huge cloud of gas and dust in space"
-        },
-        {
-          "w": "protostar",
-          "m": "a baby star that is still growing as gravity pulls gas and dust together"
-        },
-        {
-          "w": "hypothesis",
-          "m": "a scientist's best guess, which can be tested"
-        }
-      ]
+     "w": "hypothesis",
+     "m": "a scientist's best guess, which can be tested"
     }
-  ]
+   ]
+  }
+ ]
 }

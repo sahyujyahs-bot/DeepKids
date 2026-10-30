@@ -1,116 +1,118 @@
 {
-  "id": "stingless-bee-guards",
-  "title": "How do bee guards know who belongs in their nest?",
-  "blurb": "At the door of a stingless bee nest, guard bees check every visitor's smell. Scientists in Brazil tested how strict the guards are.",
-  "topics": [
-    "sci.animals.invertebrates.L3",
-    "sci.animals.animal-minds.L3",
-    "sci.senses.more-senses.L3"
-  ],
-  "tags": [
-    "bees",
-    "smell",
-    "insects",
-    "teamwork"
-  ],
+ "id": "stingless-bee-guards",
+ "title": "How do bee guards know who belongs in their nest?",
+ "blurb": "At the door of a stingless bee nest, guard bees check every visitor's smell. Scientists in Brazil tested how strict the guards are.",
+ "topics": [
+  "sci.animals.invertebrates.L3",
+  "sci.animals.animal-minds.L3",
+  "sci.senses.more-senses.L3"
+ ],
+ "tags": [
+  "bees",
+  "smell",
+  "insects",
+  "teamwork"
+ ],
+ "year": 2024,
+ "mins": 6,
+ "cover": {
+  "src": "media/research/stingless-bee-guards-1.jpg",
+  "alt": "Drawings of insects talking: honeybees dancing, ants following a scent trail, and wasps with different face marks.",
+  "credit": "Figure 1, Carvalho da Silva et al., Frontiers for Young Minds, CC BY 4.0"
+ },
+ "source": {
+  "name": "Frontiers for Young Minds",
+  "title": "Nature’s Tiny Gatekeepers: How Stingless Bees Keep Enemies Out",
+  "authors": "Rafael Carvalho da Silva, Jaqueline Eterna, Ricardo Caliari Oliveira, Cintia Akemi Oi and Fabio Santos do Nascimento",
+  "year": 2025,
+  "url": "https://kids.frontiersin.org/articles/10.3389/frym.2025.1513391",
+  "license": "CC BY 4.0"
+ },
+ "original": {
+  "title": "Nestmate recognition in two Melipona stingless bee species: the effect of cuticular chemical profiles and colony distance",
+  "authors": "Batista, J. E., da Silva, R. C., do Nascimento, D. L., Oliveira, R. C., Oi, C. A., and do Nascimento, F. S.",
+  "journal": "Journal of Insect Behavior",
   "year": 2024,
-  "mins": 6,
-  "cover": {
+  "url": "https://doi.org/10.1007/s10905-024-09852-z"
+ },
+ "cards": [
+  {
+   "k": "q",
+   "t": "The question",
+   "b": "Bees, ants and wasps live in big families called colonies. A stranger might steal food or harm the young. So many bee nests have guard bees at the door. The guards cannot recognise faces the way we do. So how do they tell a nestmate from a stranger?"
+  },
+  {
+   "k": "who",
+   "t": "Who found out",
+   "b": "Rafael Carvalho da Silva, Jaqueline Eterna, Fabio Santos do Nascimento and their team study social insects in Brazil. Rafael works with wasps, bees and ants. Jaqueline studies how social bees behave. They studied Brazilian stingless bees, which have no sting and bite instead, and published the study in 2024."
+  },
+  {
+   "k": "how",
+   "t": "How they found out",
+   "b": "The team studied two kinds of stingless bee from Brazil, called uruçu and mandaçaia. Their nests were moved into wooden boxes in a lab. At each nest door, the team set up meetings between a guard and a returning food-collecting bee. Some visitors came from that nest. Others came from different nests. A bite meant the guard rejected the visitor. A touch with the antennae, the feelers on a bee's head, meant accepted."
+  },
+  {
+   "k": "found",
+   "t": "What they found",
+   "b": "Uruçu guards were strict. They let in 84 out of 100 nestmates, but only 42 out of 100 strangers. Strangers from nearby nests got in more often. Mandaçaia guards were much less fussy. They let in 49 out of 100 nestmates and 42 out of 100 strangers. For them, distance made no difference.",
+   "img": {
+    "src": "media/research/stingless-bee-guards-2.jpg",
+    "alt": "Bar graphs comparing how many nestmates and strangers the guards let in, for uruçu bees and mandaçaia bees.",
+    "credit": "Figure 3, Carvalho da Silva et al., Frontiers for Young Minds, CC BY 4.0"
+   }
+  },
+  {
+   "k": "sure",
+   "t": "How sure are they?",
+   "b": "This is one study of two kinds of bee, kept in a lab. The bees check each other by smell. Their bodies are coated in chemicals that work like an ID card. The mandaçaia nests stood closer together, so the team thinks they may smell alike. That idea still needs testing."
+  },
+  {
+   "k": "why",
+   "t": "Why it matters",
+   "b": "Knowing who belongs helps a colony share work and food safely. Social insects pass messages in many ways. Honeybees dance, ants leave scent trails, and some wasps know each other by face marks. This study shows that different kinds of bee follow different rules about outsiders.",
+   "img": {
     "src": "media/research/stingless-bee-guards-1.jpg",
     "alt": "Drawings of insects talking: honeybees dancing, ants following a scent trail, and wasps with different face marks.",
     "credit": "Figure 1, Carvalho da Silva et al., Frontiers for Young Minds, CC BY 4.0"
+   },
+   "note": "Stingless bees have long been kept by native people in the Americas."
   },
-  "source": {
-    "name": "Frontiers for Young Minds",
-    "title": "Nature’s Tiny Gatekeepers: How Stingless Bees Keep Enemies Out",
-    "authors": "Rafael Carvalho da Silva, Jaqueline Eterna, Ricardo Caliari Oliveira, Cintia Akemi Oi and Fabio Santos do Nascimento",
-    "year": 2025,
-    "url": "https://kids.frontiersin.org/articles/10.3389/frym.2025.1513391",
-    "license": "CC BY 4.0"
+  {
+   "k": "try",
+   "t": "Try it at home",
+   "b": "Ants also tell family from strangers by touch and smell, so you can watch something like the bee guards. Put a few grains of sugar near an ant trail in the kitchen. When ants come, watch two ants meet, using a magnifying glass. Do they touch feelers? Do they stop, or walk on? Count how many meetings you see in five minutes.",
+   "note": "Watch without touching the ants. Some ants bite."
   },
-  "original": {
-    "title": "Nestmate recognition in two Melipona stingless bee species: the effect of cuticular chemical profiles and colony distance",
-    "authors": "Batista, J. E., da Silva, R. C., do Nascimento, D. L., Oliveira, R. C., Oi, C. A., and do Nascimento, F. S.",
-    "journal": "Journal of Insect Behavior",
-    "year": 2024,
-    "url": "https://doi.org/10.1007/s10905-024-09852-z"
+  {
+   "k": "think",
+   "t": "Think about it",
+   "b": "Uruçu guards were strict and mandaçaia guards were easy-going. Strict guards keep out thieves, but sometimes turn away their own family. Easy-going guards welcome family, but let some strangers in too. If you were a bee, which kind of guard would you want at your door? Why?"
   },
-  "cards": [
+  {
+   "k": "words",
+   "t": "New words",
+   "words": [
     {
-      "k": "q",
-      "t": "The question",
-      "b": "Bees, ants and wasps live in big families called colonies. A stranger might steal food or harm the young. So many bee nests have guard bees at the door. The guards cannot recognise faces the way we do. So how do they tell a nestmate from a stranger?"
+     "w": "colony",
+     "m": "a big family of insects that live and work together"
     },
     {
-      "k": "who",
-      "t": "Who found out",
-      "b": "Rafael Carvalho da Silva, Jaqueline Eterna, Fabio Santos do Nascimento and their team study social insects. Rafael works with wasps, bees and ants. Jaqueline studies how social bees behave, and did her doctorate in Brazil. The team studied Brazilian stingless bees and published the study in 2024."
+     "w": "nestmate",
+     "m": "a bee or ant from the same nest"
     },
     {
-      "k": "how",
-      "t": "How they found out",
-      "b": "The team studied two stingless bees from Brazil, called uruçu and mandaçaia. Their nests were moved into wooden boxes in a lab. At each nest door, the team set up meetings between guards and returning food-collecting bees. Some visitors came from that nest. Others came from different nests. A bite meant rejected. A touch with the antennae meant accepted."
+     "w": "antennae",
+     "m": "the two feelers on an insect’s head, used to touch and smell"
     },
     {
-      "k": "found",
-      "t": "What they found",
-      "b": "Uruçu guards were strict. They let in 84 out of 100 nestmates, but only 42 out of 100 strangers. Strangers from nearby nests got in more often. Mandaçaia guards were much less fussy. They let in 49 out of 100 nestmates and 42 out of 100 strangers. For them, distance made no difference.",
-      "img": {
-        "src": "media/research/stingless-bee-guards-2.jpg",
-        "alt": "Bar graphs comparing how many nestmates and strangers the guards let in, for uruçu bees and mandaçaia bees.",
-        "credit": "Figure 3, Carvalho da Silva et al., Frontiers for Young Minds, CC BY 4.0"
-      }
+     "w": "forager",
+     "m": "an insect that goes out to collect food for the colony"
     },
     {
-      "k": "sure",
-      "t": "How sure are they?",
-      "b": "This is one study of two kinds of bee, kept in a lab. The bees check each other by smell. Their bodies are coated in chemicals that work like an ID card. The mandaçaia nests stood closer together, so the team thinks they may smell alike. That idea still needs testing."
-    },
-    {
-      "k": "why",
-      "t": "Why it matters",
-      "b": "Knowing who belongs helps a colony share work and food safely. Social insects pass messages in many ways. Honeybees dance, ants leave scent trails, and some wasps know each other by face marks. This study shows that different kinds of bee follow different rules about outsiders. Stingless bees have long been kept by native people in the Americas.",
-      "img": {
-        "src": "media/research/stingless-bee-guards-1.jpg",
-        "alt": "Drawings of insects talking: honeybees dancing, ants following a scent trail, and wasps with different face marks.",
-        "credit": "Figure 1, Carvalho da Silva et al., Frontiers for Young Minds, CC BY 4.0"
-      }
-    },
-    {
-      "k": "try",
-      "t": "Try it at home",
-      "b": "Ants also check each other by touch and smell. Priya puts a few grains of sugar near an ant trail in the kitchen. When ants come, she watches two ants meet, using a magnifying glass. Do they touch antennae? Do they stop, or walk on? She counts how many meetings she sees in five minutes."
-    },
-    {
-      "k": "think",
-      "t": "Think about it",
-      "b": "Uruçu guards were strict and mandaçaia guards were easy-going. Strict guards keep out thieves, but sometimes turn away their own family. Easy-going guards welcome family, but let some strangers in too. If you were a bee, which kind of guard would you want at your door? Why?"
-    },
-    {
-      "k": "words",
-      "t": "New words",
-      "words": [
-        {
-          "w": "colony",
-          "m": "a big family of insects that live and work together"
-        },
-        {
-          "w": "nestmate",
-          "m": "a bee or ant from the same nest"
-        },
-        {
-          "w": "antennae",
-          "m": "the two feelers on an insect’s head, used to touch and smell"
-        },
-        {
-          "w": "forager",
-          "m": "an insect that goes out to collect food for the colony"
-        },
-        {
-          "w": "stingless bee",
-          "m": "a kind of bee that has no sting and bites instead"
-        }
-      ]
+     "w": "stingless bee",
+     "m": "a kind of bee that has no sting and bites instead"
     }
-  ]
+   ]
+  }
+ ]
 }

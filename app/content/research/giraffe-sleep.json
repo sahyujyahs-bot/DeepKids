@@ -1,116 +1,116 @@
 {
-  "id": "giraffe-sleep",
-  "title": "How do giraffes sleep?",
-  "blurb": "Wild giraffes in Namibia get only 20 to 30 minutes of deep sleep a night, in tiny naps, while other giraffes keep watch.",
-  "topics": [
-    "sci.health.exercise-and-rest.L3",
-    "sci.habitats.adaptations.L3",
-    "sci.animals.animal-bodies.L3"
-  ],
-  "tags": [
-    "giraffes",
-    "sleep",
-    "Africa",
-    "night"
-  ],
+ "id": "giraffe-sleep",
+ "title": "How do giraffes sleep?",
+ "blurb": "Wild giraffes in Namibia get only 20 to 30 minutes of deep sleep a night, in tiny naps, while other giraffes keep watch.",
+ "topics": [
+  "sci.health.exercise-and-rest.L3",
+  "sci.habitats.adaptations.L3",
+  "sci.animals.animal-bodies.L3"
+ ],
+ "tags": [
+  "giraffes",
+  "sleep",
+  "Africa",
+  "night"
+ ],
+ "year": 2020,
+ "mins": 5,
+ "cover": {
+  "src": "media/research/giraffe-sleep-1.jpg",
+  "alt": "A young giraffe lying down in a zoo, with the long neck curved back and the head resting on a back leg.",
+  "credit": "Figure 2, Burger and Dierkes, Frontiers for Young Minds, CC BY 4.0"
+ },
+ "source": {
+  "name": "Frontiers for Young Minds",
+  "title": "Big Mama Is Watching You: A Bedtime Story About How Giraffes Sleep",
+  "authors": "Anna Lena Burger and Paul W. Dierkes",
+  "year": 2023,
+  "url": "https://kids.frontiersin.org/articles/10.3389/frym.2023.1086538",
+  "license": "CC BY 4.0"
+ },
+ "original": {
+  "title": "Nightly selection of resting sites and group behavior reveal antipredator strategies in giraffe",
+  "authors": "Burger, A. L., Fennessy, J., Fennessy, S., and Dierkes, P. W.",
+  "journal": "Ecology and Evolution",
   "year": 2020,
-  "mins": 5,
-  "cover": {
-    "src": "media/research/giraffe-sleep-1.jpg",
-    "alt": "A young giraffe lying down in a zoo, with the long neck curved back and the head resting on a back leg.",
-    "credit": "Figure 2, Burger and Dierkes, Frontiers for Young Minds, CC BY 4.0"
+  "url": "https://doi.org/10.1002/ece3.6106"
+ },
+ "cards": [
+  {
+   "k": "q",
+   "t": "The question",
+   "b": "Giraffes have very long necks for reaching leaves high in trees. But a long neck is hard to rest. Lions hunt giraffes, and a giraffe in deep sleep cannot get up quickly. So how do wild giraffes sleep, and how do they stay safe while they sleep?"
   },
-  "source": {
-    "name": "Frontiers for Young Minds",
-    "title": "Big Mama Is Watching You: A Bedtime Story About How Giraffes Sleep",
-    "authors": "Anna Lena Burger and Paul W. Dierkes",
-    "year": 2023,
-    "url": "https://kids.frontiersin.org/articles/10.3389/frym.2023.1086538",
-    "license": "CC BY 4.0"
+  {
+   "k": "who",
+   "t": "Who found out",
+   "b": "Anna Lena Burger and Paul Dierkes study animal behaviour at Goethe University Frankfurt in Germany. Anna studies what wild and zoo animals do at night. With their team, they were the first to describe how wild giraffes sleep, in Namibia in Africa. They published the study in 2020."
   },
-  "original": {
-    "title": "Nightly selection of resting sites and group behavior reveal antipredator strategies in giraffe",
-    "authors": "Burger, A. L., Fennessy, J., Fennessy, S., and Dierkes, P. W.",
-    "journal": "Ecology and Evolution",
-    "year": 2020,
-    "url": "https://doi.org/10.1002/ece3.6106"
+  {
+   "k": "how",
+   "t": "How they found out",
+   "b": "Giraffes run from the smallest danger, so the team watched quietly from a car, because cars do not scare giraffes. At night they used thermal cameras, which see warmth instead of light. A warm giraffe glows against the cool ground. Later the team studied the videos second by second, to see who was eating, standing, lying or sleeping.",
+   "img": {
+    "src": "media/research/giraffe-sleep-2.jpg",
+    "alt": "A thermal camera on a tablet, and a night picture where giraffes glow white against a dark background.",
+    "credit": "Figure 1, Burger and Dierkes, Frontiers for Young Minds, CC BY 4.0"
+   }
   },
-  "cards": [
+  {
+   "k": "found",
+   "t": "What they found",
+   "b": "In deep sleep, called REM sleep, a giraffe lies down and rests their head on a back leg. Each nap lasts only 2 to 4 minutes. In a whole night, a giraffe spends just 20 to 30 minutes in REM sleep. The naps come mostly after dark and before sunrise. Young giraffes sleep more than older ones.",
+   "img": {
+    "src": "media/research/giraffe-sleep-3.jpg",
+    "alt": "A drawing of a day and a night for giraffes, with eating in the day and short rest and sleep times at night.",
+    "credit": "Figure 3, Burger and Dierkes, Frontiers for Young Minds, CC BY 4.0"
+   }
+  },
+  {
+   "k": "sure",
+   "t": "How sure are they?",
+   "b": "This was careful night watching of wild giraffes in one country. Scientists have two ideas about why giraffes sleep so little. First, giraffes must get up often to eat. Second, deep sleep is dangerous, because a lying giraffe is slow to stand up if a lion comes. Both ideas may be true together."
+  },
+  {
+   "k": "why",
+   "t": "Why it matters",
+   "b": "Usually only one giraffe in a group lies in the deep-sleep position at a time. When that giraffe wakes, another lies down. The others stand nearby and keep watch. Wild giraffes are becoming fewer because their homes are being destroyed. Knowing how they sleep, and what disturbs them, helps people protect them."
+  },
+  {
+   "k": "try",
+   "t": "Try it at home",
+   "b": "Tonight, notice where each person in your family sleeps. What helps each one feel safe? A closed door, a night lamp, someone close by? In the morning, ask everyone how many times they woke up. Who slept the longest? Young giraffes sleep more than older ones. Does the youngest person in your family sleep the most?"
+  },
+  {
+   "k": "think",
+   "t": "Think about it",
+   "b": "Giraffes take turns. Some sleep while others watch. People do this too. Night guards, nurses and parents of new babies stay awake so others can rest. Is it fair that some must stay awake for everyone else? How would you share the job of keeping watch in your family?"
+  },
+  {
+   "k": "words",
+   "t": "New words",
+   "words": [
     {
-      "k": "q",
-      "t": "The question",
-      "b": "Giraffes have very long necks for reaching leaves high in trees. But a long neck is hard to rest. Lions hunt giraffes, and a giraffe in deep sleep cannot get up quickly. So how do wild giraffes sleep, and how do they stay safe while they sleep?"
+     "w": "REM sleep",
+     "m": "deep sleep when the muscles go floppy and, in people, when we dream"
     },
     {
-      "k": "who",
-      "t": "Who found out",
-      "b": "Anna Lena Burger and Paul Dierkes study animal behaviour at Goethe University Frankfurt in Germany. Anna studies what wild and zoo animals do at night. With their team, they were the first to describe how wild giraffes sleep, in Namibia in Africa. They published the study in 2020."
+     "w": "thermal camera",
+     "m": "a camera that sees warmth instead of light"
     },
     {
-      "k": "how",
-      "t": "How they found out",
-      "b": "Giraffes run from the smallest danger, so the team watched quietly from a car, because cars do not scare giraffes. At night they used thermal cameras, which see warmth instead of light. A warm giraffe glows against the cool ground. Later the team studied the videos second by second, to see who was eating, standing, lying or sleeping.",
-      "img": {
-        "src": "media/research/giraffe-sleep-2.jpg",
-        "alt": "A thermal camera on a tablet, and a night picture where giraffes glow white against a dark background.",
-        "credit": "Figure 1, Burger and Dierkes, Frontiers for Young Minds, CC BY 4.0"
-      }
+     "w": "predator",
+     "m": "an animal that hunts other animals for food, like a lion"
     },
     {
-      "k": "found",
-      "t": "What they found",
-      "b": "In deep sleep, called REM sleep, a giraffe lies down and rests their head on a back leg. Each nap lasts only 2 to 4 minutes. In a whole night, a giraffe spends just 20 to 30 minutes in REM sleep. The naps come mostly after dark and before sunrise. Young giraffes sleep more than older ones.",
-      "img": {
-        "src": "media/research/giraffe-sleep-3.jpg",
-        "alt": "A drawing of a day and a night for giraffes, with eating in the day and short rest and sleep times at night.",
-        "credit": "Figure 3, Burger and Dierkes, Frontiers for Young Minds, CC BY 4.0"
-      }
+     "w": "circadian rhythm",
+     "m": "the body's daily clock that tells us when to be active and when to rest"
     },
     {
-      "k": "sure",
-      "t": "How sure are they?",
-      "b": "This was careful night watching of wild giraffes in one country. Scientists have two ideas about why giraffes sleep so little. First, giraffes must get up often to eat. Second, deep sleep is dangerous, because a lying giraffe is slow to stand up if a lion comes. Both ideas may be true together."
-    },
-    {
-      "k": "why",
-      "t": "Why it matters",
-      "b": "Usually only one giraffe in a group lies in the deep-sleep position at a time. When that giraffe wakes, another lies down. The others stand nearby and keep watch. Wild giraffes are becoming fewer because their homes are being destroyed. Knowing how they sleep, and what disturbs them, helps people protect them."
-    },
-    {
-      "k": "try",
-      "t": "Try it at home",
-      "b": "Tonight, Divya notices where each person in her family sleeps. What helps them feel safe? A closed door, a night lamp, someone close by? In the morning she asks everyone how many times they woke up. Who slept the longest? Did the youngest person sleep the most, like young giraffes?"
-    },
-    {
-      "k": "think",
-      "t": "Think about it",
-      "b": "Giraffes take turns. Some sleep while others watch. People do this too. Night guards, nurses and parents of new babies stay awake so others can rest. Is it fair that some must stay awake for everyone else? How would you share the job of keeping watch in your family?"
-    },
-    {
-      "k": "words",
-      "t": "New words",
-      "words": [
-        {
-          "w": "REM sleep",
-          "m": "deep sleep when the muscles go floppy and, in people, when we dream"
-        },
-        {
-          "w": "thermal camera",
-          "m": "a camera that sees warmth instead of light"
-        },
-        {
-          "w": "predator",
-          "m": "an animal that hunts other animals for food, like a lion"
-        },
-        {
-          "w": "circadian rhythm",
-          "m": "the body's daily clock that tells us when to be active and when to rest"
-        },
-        {
-          "w": "savanna",
-          "m": "wide grassland with bushes and some trees, where giraffes live"
-        }
-      ]
+     "w": "savanna",
+     "m": "wide grassland with bushes and some trees, where giraffes live"
     }
-  ]
+   ]
+  }
+ ]
 }

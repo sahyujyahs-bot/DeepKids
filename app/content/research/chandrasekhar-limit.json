@@ -1,115 +1,115 @@
 {
-  "id": "chandrasekhar-limit",
-  "title": "How heavy can a dead star be?",
-  "blurb": "A young physicist from Madras, Subrahmanyan Chandrasekhar, worked out that a white dwarf star cannot be more than about 1.4 times as heavy as the Sun.",
-  "topics": [
-    "sci.sky.stars.L3",
-    "sci.gravity.weight-and-mass.L3",
-    "sci.sky.sun-moon-stars.L3"
-  ],
-  "tags": [
-    "stars",
-    "white dwarfs",
-    "India",
-    "gravity"
-  ],
+ "id": "chandrasekhar-limit",
+ "title": "How heavy can a dead star be?",
+ "blurb": "A young physicist from Madras, Subrahmanyan Chandrasekhar, worked out that a white dwarf star cannot be more than about 1.4 times as heavy as the Sun.",
+ "topics": [
+  "sci.sky.stars.L3",
+  "sci.gravity.weight-and-mass.L3",
+  "sci.sky.sun-moon-stars.L3"
+ ],
+ "tags": [
+  "stars",
+  "white dwarfs",
+  "India",
+  "gravity"
+ ],
+ "year": 1931,
+ "mins": 6,
+ "cover": {
+  "src": "media/research/chandrasekhar-limit-1.jpg",
+  "alt": "Hubble Space Telescope close-ups of a star cluster, with blue circles around faint white dwarf stars",
+  "credit": "NASA and H. Richer (University of British Columbia), Hubble Space Telescope, public domain"
+ },
+ "source": {
+  "name": "Chandra X-ray Center, NASA",
+  "title": "Subrahmanyan Chandrasekhar: The Man Behind The Name",
+  "authors": "Chandra X-ray Center",
+  "url": "https://chandra.harvard.edu/about/chandra.html",
+  "license": "facts retold in our own words"
+ },
+ "original": {
+  "title": "The Maximum Mass of Ideal White Dwarfs",
+  "authors": "S. Chandrasekhar",
+  "journal": "The Astrophysical Journal",
   "year": 1931,
-  "mins": 6,
-  "cover": {
-    "src": "media/research/chandrasekhar-limit-1.jpg",
-    "alt": "Hubble Space Telescope close-ups of a star cluster, with blue circles around faint white dwarf stars",
-    "credit": "NASA and H. Richer (University of British Columbia), Hubble Space Telescope, public domain"
+  "url": "https://doi.org/10.1086/143324"
+ },
+ "cards": [
+  {
+   "k": "q",
+   "t": "The question",
+   "b": "A star like our Sun shines by using up fuel at her centre. When the fuel runs out, the star collapses into a small, very dense star called a white dwarf. Inside, tiny particles called electrons are packed tightly together and push against being squeezed. That push holds the star up. But can it hold up a star of any weight, however heavy?"
   },
-  "source": {
-    "name": "Chandra X-ray Center, NASA",
-    "title": "Subrahmanyan Chandrasekhar: The Man Behind The Name",
-    "authors": "Chandra X-ray Center",
-    "url": "https://chandra.harvard.edu/about/chandra.html",
-    "license": "facts retold in our own words"
+  {
+   "k": "who",
+   "t": "Who found out",
+   "b": "Subrahmanyan Chandrasekhar was born in Lahore in 1910 and grew up in Madras, now Chennai. He studied physics at Presidency College in Madras. In 1930 he went to the University of Cambridge in England. In 1931, while still in his early twenties, he published papers on white dwarf stars.",
+   "img": {
+    "src": "media/research/chandrasekhar-limit-3.jpg",
+    "alt": "A drawing of NASA's Chandra X-ray Observatory in space, which was named after Chandrasekhar",
+    "credit": "NASA/CXC, public domain"
+   }
   },
-  "original": {
-    "title": "The Maximum Mass of Ideal White Dwarfs",
-    "authors": "S. Chandrasekhar",
-    "journal": "The Astrophysical Journal",
-    "year": 1931,
-    "url": "https://doi.org/10.1086/143324"
+  {
+   "k": "how",
+   "t": "How he found out",
+   "b": "Chandrasekhar did not use a telescope. He used maths and two big ideas of physics. Relativity explains how things behave when they move very fast. Quantum mechanics explains how very tiny things, like electrons, behave. Putting the two together, he worked out how the electrons' push changes as a white dwarf gets heavier."
   },
-  "cards": [
+  {
+   "k": "found",
+   "t": "What he found",
+   "b": "The electrons' push has a limit. Mass is how much stuff something is made of. If a white dwarf has more than about 1.4 times the mass of the Sun, the push cannot hold it up, and it collapses. This is now called the Chandrasekhar limit. So stars much heavier than the Sun cannot end as white dwarfs. They must end another way, by exploding or becoming black holes."
+  },
+  {
+   "k": "sure",
+   "t": "How sure are they?",
+   "b": "Today the limit is basic to much of astronomy. But at first, people argued about it. In January 1935, the famous astronomer Arthur Eddington strongly disagreed with Chandrasekhar. Some questions are still open. Astronomers believe a white dwarf pushed past the limit blows up, but what pushes it over is still a mystery."
+  },
+  {
+   "k": "why",
+   "t": "Why it matters",
+   "b": "A supernova is a huge explosion of a star. A white dwarf pushed past the limit blows up as a kind called Type Ia. These explosions shine with a brightness astronomers can predict, so they use them to measure how fast the universe is growing. That led to the discovery of dark energy. In 1983 Chandrasekhar shared the Nobel Prize in Physics for his work on how stars are built and change.",
+   "img": {
+    "src": "media/research/chandrasekhar-limit-2.jpg",
+    "alt": "The glowing remains of a Type Ia supernova in the Large Magellanic Cloud, photographed by Hubble",
+    "credit": "NASA, ESA (Hubble Space Telescope), public domain"
+   }
+  },
+  {
+   "k": "try",
+   "t": "Try it at home",
+   "b": "Feel packed things push back. Fill a steel tumbler loosely with cotton wool and press it down with your palm. At first it squashes easily. As it packs tighter, it pushes back harder. Your palm is like the star's own weight pressing in. In a white dwarf, the packed electrons push back and hold the star up. Past about 1.4 Suns, even that push is not enough."
+  },
+  {
+   "k": "think",
+   "t": "Think about it",
+   "b": "Chandrasekhar was in his twenties when a famous older scientist argued against his idea. Today his limit is used everywhere in astronomy. When an expert disagrees with you, how do you decide whether to change your mind or keep going? What would help you check?"
+  },
+  {
+   "k": "words",
+   "t": "New words",
+   "words": [
     {
-      "k": "q",
-      "t": "The question",
-      "b": "When a star like the Sun runs out of fuel at its centre, it collapses. It squeezes into a small, very dense star called a white dwarf. A white dwarf holds itself up with a push from its tightly packed electrons. But can that push hold up any star, however heavy it is?"
+     "w": "white dwarf",
+     "m": "the small, very dense star left when a star like the Sun runs out of fuel"
     },
     {
-      "k": "who",
-      "t": "Who found out",
-      "b": "Subrahmanyan Chandrasekhar was born in Lahore in 1910 and grew up in Madras, now Chennai. He studied physics at Presidency College in Madras. In 1930 he went to the University of Cambridge in England. In 1931, while still in his early twenties, he published papers on white dwarf stars.",
-      "img": {
-        "src": "media/research/chandrasekhar-limit-3.jpg",
-        "alt": "A drawing of NASA's Chandra X-ray Observatory in space, which was named after Chandrasekhar",
-        "credit": "NASA/CXC, public domain"
-      }
+     "w": "mass",
+     "m": "how much stuff something is made of"
     },
     {
-      "k": "how",
-      "t": "How he found out",
-      "b": "Chandrasekhar did not need a telescope for this. He used maths. He combined two big ideas of physics. One is relativity, which explains very fast things. The other is quantum mechanics, which explains very tiny things. With them he worked out what happens to the electrons' push inside a white dwarf as the star gets heavier."
+     "w": "electron",
+     "m": "a tiny particle found in every atom"
     },
     {
-      "k": "found",
-      "t": "What he found",
-      "b": "The electrons' push can only do so much. Suppose a white dwarf is heavier than about 1.4 times the mass of the Sun. Then the push cannot hold it up, and it collapses. This is now called the Chandrasekhar limit. It means that stars much heavier than the Sun cannot end as white dwarfs. They must explode or become black holes."
+     "w": "Chandrasekhar limit",
+     "m": "the heaviest a white dwarf can be, about 1.4 times the mass of the Sun"
     },
     {
-      "k": "sure",
-      "t": "How sure are they?",
-      "b": "Today the limit is basic to much of astronomy. But at first it was argued over. In January 1935, the famous astronomer Arthur Eddington clashed with Chandrasekhar about it. Some questions are still open. Astronomers believe a white dwarf pushed over the limit blows up, but what pushes it over is still a mystery."
-    },
-    {
-      "k": "why",
-      "t": "Why it matters",
-      "b": "When a white dwarf blows up, it makes a Type Ia supernova. These explosions shine with a brightness astronomers can predict, so they use them to measure how the universe is growing. That led to the discovery of dark energy. In 1983 Chandrasekhar shared the Nobel Prize in Physics for his work on how stars are built and change.",
-      "img": {
-        "src": "media/research/chandrasekhar-limit-2.jpg",
-        "alt": "The glowing remains of a Type Ia supernova in the Large Magellanic Cloud, photographed by Hubble",
-        "credit": "NASA, ESA (Hubble Space Telescope), public domain"
-      }
-    },
-    {
-      "k": "try",
-      "t": "Try it at home",
-      "b": "Feel packed things push back. Revathi fills a steel tumbler loosely with cotton wool and presses it down with her palm. At first it squashes easily. As it packs tighter, it pushes back harder. A white dwarf is packed so tightly that its electrons push back. Above about 1.4 Suns, even that push is not enough."
-    },
-    {
-      "k": "think",
-      "t": "Think about it",
-      "b": "Chandrasekhar was in his twenties when a famous older scientist argued against his idea. Today his limit is used everywhere in astronomy. When an expert disagrees with you, how do you decide whether to change your mind or keep going? What would help you check?"
-    },
-    {
-      "k": "words",
-      "t": "New words",
-      "words": [
-        {
-          "w": "white dwarf",
-          "m": "the small, very dense star left when a star like the Sun runs out of fuel"
-        },
-        {
-          "w": "mass",
-          "m": "how much stuff something is made of"
-        },
-        {
-          "w": "electron",
-          "m": "a tiny particle found in every atom"
-        },
-        {
-          "w": "Chandrasekhar limit",
-          "m": "the heaviest a white dwarf can be, about 1.4 times the mass of the Sun"
-        },
-        {
-          "w": "supernova",
-          "m": "a huge explosion of a star"
-        }
-      ]
+     "w": "supernova",
+     "m": "a huge explosion of a star"
     }
-  ]
+   ]
+  }
+ ]
 }

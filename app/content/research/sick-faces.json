@@ -1,121 +1,121 @@
 {
-  "id": "sick-faces",
-  "title": "Can you tell someone is sick just by looking at their face?",
-  "blurb": "Scientists showed children photos of the same people when ill and when well. By age 8 or 9, most children could spot the sick face.",
-  "topics": [
-    "sci.health.hygiene.L3",
-    "sci.microorganisms.germs.L3",
-    "sci.senses.perception.L3"
-  ],
-  "tags": [
-    "faces",
-    "germs",
-    "health",
-    "children"
-  ],
+ "id": "sick-faces",
+ "title": "Can you tell someone is sick just by looking at their face?",
+ "blurb": "Scientists showed children photos of the same people when ill and when well. By age 8 or 9, most children could spot the sick face.",
+ "topics": [
+  "sci.health.hygiene.L3",
+  "sci.microorganisms.germs.L3",
+  "sci.senses.perception.L3"
+ ],
+ "tags": [
+  "faces",
+  "germs",
+  "health",
+  "children"
+ ],
+ "year": 2024,
+ "mins": 5,
+ "cover": {
+  "src": "media/research/sick-faces-2.jpg",
+  "alt": "Pairs of photos of the same person, once when ill and once when well, used in the doctor game and the dinner game.",
+  "credit": "Figure 1, Leung et al., Frontiers for Young Minds, CC BY 4.0"
+ },
+ "source": {
+  "name": "Frontiers for Young Minds",
+  "title": "Infection Detection: Children Avoid Sick Faces",
+  "authors": "Tiffany S. Leung, Guangyu Zeng, Sarah E. Maylott, Shantalle N. Martinez, Krisztina V. Jakobsen and Elizabeth A. Simpson",
   "year": 2024,
-  "mins": 5,
-  "cover": {
+  "url": "https://kids.frontiersin.org/articles/10.3389/frym.2024.1268913",
+  "license": "CC BY 4.0"
+ },
+ "original": {
+  "title": "Infection detection in faces: children's development of pathogen avoidance",
+  "authors": "Leung, T. S., Zeng, G., Maylott, S. E., Martinez, S. N., Jakobsen, K. V., and Simpson, E. A.",
+  "journal": "Child Development",
+  "year": 2024,
+  "url": "https://doi.org/10.1111/cdev.13983"
+ },
+ "cards": [
+  {
+   "k": "q",
+   "t": "The question",
+   "b": "Germs can pass from a sick person to you if you get too close. Grown-ups can often tell someone is ill just by looking at their face. Can children do this too? And at what age do children start to keep away from people who look sick?"
+  },
+  {
+   "k": "who",
+   "t": "Who found out",
+   "b": "Tiffany Leung, Elizabeth Simpson and their team study how babies and children learn about other people. Faces are a big part of that. They worked in the Social Cognition Lab at the University of Miami in the United States. They published this study in 2024."
+  },
+  {
+   "k": "how",
+   "t": "How they found out",
+   "b": "22 people photographed their face while ill with a cold, flu or COVID-19. Later, each took another photo when well. The team showed the two photos of one person side by side to young children, older children and adults, and called them twins. In the doctor game, they asked which twin was sick. In the dinner game, they asked which twin to sit next to.",
+   "img": {
     "src": "media/research/sick-faces-2.jpg",
     "alt": "Pairs of photos of the same person, once when ill and once when well, used in the doctor game and the dinner game.",
     "credit": "Figure 1, Leung et al., Frontiers for Young Minds, CC BY 4.0"
+   }
   },
-  "source": {
-    "name": "Frontiers for Young Minds",
-    "title": "Infection Detection: Children Avoid Sick Faces",
-    "authors": "Tiffany S. Leung, Guangyu Zeng, Sarah E. Maylott, Shantalle N. Martinez, Krisztina V. Jakobsen and Elizabeth A. Simpson",
-    "year": 2024,
-    "url": "https://kids.frontiersin.org/articles/10.3389/frym.2024.1268913",
-    "license": "CC BY 4.0"
+  {
+   "k": "found",
+   "t": "What they found",
+   "b": "Just guessing is right half the time. In the doctor game, 8 to 9-year-olds were right 63 times out of 100, and adults 75 times. In the dinner game, both groups mostly chose the healthy twin. Most 4 to 5-year-olds were close to guessing. But a few were very good, and one young child beat every adult.",
+   "img": {
+    "src": "media/research/sick-faces-3.jpg",
+    "alt": "Two graphs of scores for young children, older children and adults, with a dotted line at the score you would get by guessing.",
+    "credit": "Figure 2, Leung et al., Frontiers for Young Minds, CC BY 4.0"
+   }
   },
-  "original": {
-    "title": "Infection detection in faces: children's development of pathogen avoidance",
-    "authors": "Leung, T. S., Zeng, G., Maylott, S. E., Martinez, S. N., Jakobsen, K. V., and Simpson, E. A.",
-    "journal": "Child Development",
-    "year": 2024,
-    "url": "https://doi.org/10.1111/cdev.13983"
+  {
+   "k": "sure",
+   "t": "How sure are they?",
+   "b": "This study used photos, not real people, and only 22 faces. It shows the skill grows with age, but not exactly why. Maybe older children know more about germs. Maybe they understand other people better. Earlier studies with pretend sick people found something similar: older children kept away more than younger ones."
   },
-  "cards": [
+  {
+   "k": "why",
+   "t": "Why it matters",
+   "b": "Staying a little apart from sick people helps stop germs spreading. Many young children cannot yet spot sickness, so parents and older brothers and sisters can help them. Washing hands before eating and not sharing drinks also keep germs away. You can still wave hello to a sick friend from a little distance."
+  },
+  {
+   "k": "try",
+   "t": "Try it at home",
+   "b": "Play the doctor game yourselves. The photos with this card show the same people twice. One row shows them when healthy, and the other row when sick. Guess which row is sick, and say why. Tired eyes? A red nose? A frown? Everyone in the family should guess before you read on. The sick faces are in the bottom row.",
+   "img": {
+    "src": "media/research/sick-faces-1.jpg",
+    "alt": "Two rows of face photos of the same people: the top row when healthy and the bottom row when sick.",
+    "credit": "Figure 3, Leung et al., Frontiers for Young Minds, CC BY 4.0"
+   }
+  },
+  {
+   "k": "think",
+   "t": "Think about it",
+   "b": "Your body gives you a 'yuck' feeling near things that might make you ill. That feeling can protect you. But it can also make someone who is ill feel left out and lonely. How can you keep safe from germs and still be kind to a friend who is sick?"
+  },
+  {
+   "k": "words",
+   "t": "New words",
+   "words": [
     {
-      "k": "q",
-      "t": "The question",
-      "b": "Germs can pass from a sick person to you if you get too close. Grown-ups can often tell someone is ill just by looking at their face. Can children do this too? And at what age do children start to keep away from people who look sick?"
+     "w": "germ",
+     "m": "a living being too small to see that can make you ill"
     },
     {
-      "k": "who",
-      "t": "Who found out",
-      "b": "Tiffany Leung, Elizabeth Simpson and their team study how babies and children learn about other people. Faces are a big part of that. They worked in the Social Cognition Lab at the University of Miami in the United States. They published this study in 2024."
+     "w": "infection",
+     "m": "when germs get into the body and make it unwell"
     },
     {
-      "k": "how",
-      "t": "How they found out",
-      "b": "22 people photographed their face while ill with a cold, flu or COVID-19. Later, each took another photo when well. The team showed the two photos side by side to young children, older children and adults, and called them twins. In the doctor game, they asked which twin was sick. In the dinner game, they asked which twin to sit next to.",
-      "img": {
-        "src": "media/research/sick-faces-2.jpg",
-        "alt": "Pairs of photos of the same person, once when ill and once when well, used in the doctor game and the dinner game.",
-        "credit": "Figure 1, Leung et al., Frontiers for Young Minds, CC BY 4.0"
-      }
+     "w": "sickness avoidance",
+     "m": "keeping away from people or things that might make you ill"
     },
     {
-      "k": "found",
-      "t": "What they found",
-      "b": "Just guessing is right half the time. In the doctor game, 8 to 9-year-olds were right 63 times out of 100, and adults 75 times. In the dinner game, both groups mostly chose the healthy twin. Most 4 to 5-year-olds were close to guessing. But a few were very good, and one young child beat every adult.",
-      "img": {
-        "src": "media/research/sick-faces-3.jpg",
-        "alt": "Two graphs of scores for young children, older children and adults, with a dotted line at the score you would get by guessing.",
-        "credit": "Figure 2, Leung et al., Frontiers for Young Minds, CC BY 4.0"
-      }
+     "w": "participant",
+     "m": "a person who takes part in a study"
     },
     {
-      "k": "sure",
-      "t": "How sure are they?",
-      "b": "This study used photos, not real people, and only 22 faces. It shows the skill grows with age, but not exactly why. Maybe older children know more about germs. Maybe they understand other people better. Earlier studies with pretend sick people found something similar: older children kept away more than younger ones."
-    },
-    {
-      "k": "why",
-      "t": "Why it matters",
-      "b": "Staying a little apart from sick people helps stop germs spreading. Many young children cannot yet spot sickness, so parents and older brothers and sisters can help them. Washing hands before eating and not sharing drinks also keep germs away. You can still wave hello to a sick friend from a little distance."
-    },
-    {
-      "k": "try",
-      "t": "Try it at home",
-      "b": "Look at the photos with this card. One row shows people when healthy. The other row shows the same people when sick. Anjali guesses which row is sick and says why. Tired eyes? A red nose? A frown? Then her family guesses. Say the answer only after everyone has guessed: the sick faces are in the bottom row.",
-      "img": {
-        "src": "media/research/sick-faces-1.jpg",
-        "alt": "Two rows of face photos of the same people: the top row when healthy and the bottom row when sick.",
-        "credit": "Figure 3, Leung et al., Frontiers for Young Minds, CC BY 4.0"
-      }
-    },
-    {
-      "k": "think",
-      "t": "Think about it",
-      "b": "Your body gives you a 'yuck' feeling near things that might make you ill. That feeling can protect you. But it can also make someone who is ill feel left out and lonely. How can you keep safe from germs and still be kind to a friend who is sick?"
-    },
-    {
-      "k": "words",
-      "t": "New words",
-      "words": [
-        {
-          "w": "germ",
-          "m": "a living being too small to see that can make you ill"
-        },
-        {
-          "w": "infection",
-          "m": "when germs get into the body and make it unwell"
-        },
-        {
-          "w": "sickness avoidance",
-          "m": "keeping away from people or things that might make you ill"
-        },
-        {
-          "w": "participant",
-          "m": "a person who takes part in a study"
-        },
-        {
-          "w": "accurate",
-          "m": "correct, or close to the right answer"
-        }
-      ]
+     "w": "accurate",
+     "m": "correct, or close to the right answer"
     }
-  ]
+   ]
+  }
+ ]
 }

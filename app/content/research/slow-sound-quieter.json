@@ -1,116 +1,116 @@
 {
-  "id": "slow-sound-quieter",
-  "title": "Can slowing down sound make the world quieter?",
-  "blurb": "Low, rumbling noise is hard to cancel. Mathematicians designed a 3D-printed material that halves the speed of sound, so a noise canceller can be half the size.",
-  "topics": [
-    "sci.sound.waves.L3",
-    "sci.sound.sources-of-sound.L3",
-    "sci.sound.hearing.L3"
-  ],
-  "tags": [
-    "sound",
-    "noise",
-    "waves",
-    "materials"
-  ],
+ "id": "slow-sound-quieter",
+ "title": "Can slowing down sound make the world quieter?",
+ "blurb": "Low, rumbling noise is hard to cancel. Mathematicians designed a 3D-printed material that halves the speed of sound, so a noise canceller can be half the size.",
+ "topics": [
+  "sci.sound.waves.L3",
+  "sci.sound.sources-of-sound.L3",
+  "sci.sound.hearing.L3"
+ ],
+ "tags": [
+  "sound",
+  "noise",
+  "waves",
+  "materials"
+ ],
+ "year": 2018,
+ "mins": 6,
+ "cover": {
+  "src": "media/research/slow-sound-quieter-1.jpg",
+  "alt": "Diagrams of sound waves: wavelength and amplitude, two waves adding up, and two waves cancelling out",
+  "credit": "Figure 1, Parnell, Rowley and Curati, Frontiers for Young Minds, CC BY 4.0"
+ },
+ "source": {
+  "name": "Frontiers for Young Minds",
+  "title": "Tackling Noise Pollution With Slow Sound",
+  "authors": "William J. Parnell, William D. Rowley, Naomi R. M. Curati",
+  "year": 2021,
+  "url": "https://kids.frontiersin.org/articles/10.3389/frym.2021.703592",
+  "license": "CC BY 4.0"
+ },
+ "original": {
+  "title": "Deepening subwavelength acoustic resonance via metamaterials with universal broadband elliptical microstructure",
+  "authors": "W. D. Rowley, W. J. Parnell, I. D. Abrahams, S. R. Voisey, J. Lamb, N. Etaix",
+  "journal": "Applied Physics Letters",
   "year": 2018,
-  "mins": 6,
-  "cover": {
-    "src": "media/research/slow-sound-quieter-1.jpg",
-    "alt": "Diagrams of sound waves: wavelength and amplitude, two waves adding up, and two waves cancelling out",
-    "credit": "Figure 1, Parnell, Rowley and Curati, Frontiers for Young Minds, CC BY 4.0"
+  "url": "https://doi.org/10.1063/1.5022197"
+ },
+ "cards": [
+  {
+   "k": "q",
+   "t": "The question",
+   "b": "Engines and fans make noise that can harm our health. Sound travels as waves, and one way to cancel noise is a side pipe cut to the right length. But low, rumbling sounds have very long waves, as long as 17 metres. A pipe made for them would be huge. Could a much smaller pipe do the same job?"
   },
-  "source": {
-    "name": "Frontiers for Young Minds",
-    "title": "Tackling Noise Pollution With Slow Sound",
-    "authors": "William J. Parnell, William D. Rowley, Naomi R. M. Curati",
-    "year": 2021,
-    "url": "https://kids.frontiersin.org/articles/10.3389/frym.2021.703592",
-    "license": "CC BY 4.0"
+  {
+   "k": "who",
+   "t": "Who found out",
+   "b": "William Parnell is a professor of applied mathematics at the University of Manchester in England. William Rowley did his PhD in that group, on designing materials that change how we hear sounds. They published this work with colleagues in 2018. Naomi Curati, who shares the group's science with the public, helped write it for kids."
   },
-  "original": {
-    "title": "Deepening subwavelength acoustic resonance via metamaterials with universal broadband elliptical microstructure",
-    "authors": "W. D. Rowley, W. J. Parnell, I. D. Abrahams, S. R. Voisey, J. Lamb, N. Etaix",
-    "journal": "Applied Physics Letters",
-    "year": 2018,
-    "url": "https://doi.org/10.1063/1.5022197"
+  {
+   "k": "how",
+   "t": "How they found out",
+   "b": "A side pipe called a quarter-wavelength resonator works like this. Sound goes in, bounces back, and meets the incoming sound out of step, so the two cancel. The pipe must be one quarter as long as the sound wave. To get around this, the team used maths to design a metamaterial, a material whose shape gives it unusual powers. They 3D-printed 4 cm side pipes with thin ovals stacked inside, and tested them.",
+   "img": {
+    "src": "media/research/slow-sound-quieter-2.jpg",
+    "alt": "Three drawings of a pipe: sound travels along, some goes into a side branch, and the reflected sound cancels the rest",
+    "credit": "Figure 2, Parnell, Rowley and Curati, Frontiers for Young Minds, CC BY 4.0"
+   }
   },
-  "cards": [
+  {
+   "k": "found",
+   "t": "What they found",
+   "b": "The ovals made sound travel at about half its normal speed, so the waves inside were shorter. A normal 4 cm pipe cancelled sound at 2,000 hertz. Hertz counts waves per second, and fewer means a lower pitch. The metamaterial pipes, the same length, cancelled sound at 1,000 hertz. The best one cut the noise by 5 decibels, a measure of loudness. That is like moving from 100 metres away to 180 metres away.",
+   "img": {
+    "src": "media/research/slow-sound-quieter-3.jpg",
+    "alt": "Photos of the three 3D-printed side pipes and a graph of how much each one reduced sound at different pitches",
+    "credit": "Figure 3, Parnell, Rowley and Curati, Frontiers for Young Minds, CC BY 4.0"
+   }
+  },
+  {
+   "k": "sure",
+   "t": "How sure are they?",
+   "b": "Both metamaterial pipes did exactly what the maths predicted, which is a good sign. But these were small lab tests. The best new pipe cut its sound by 5 decibels. The normal pipe cut its own sound by about 10. Making real parts for engines and fans is still to come."
+  },
+  {
+   "k": "why",
+   "t": "Why it matters",
+   "b": "Noise is more than annoying. In Europe, aircraft noise has harmed the learning of about 12,500 schoolchildren. Noise also leads to around 12,000 early deaths there each year, from stress-related heart disease. Smaller noise cancellers save space and material, and can reach lower, rumbling sounds."
+  },
+  {
+   "k": "try",
+   "t": "Try it at home",
+   "b": "Watch waves add and cancel. Fill a wide steel thali with water and let it go still. Tap the water gently with one finger, while another person taps from the opposite side at the same time. Ripples spread out and meet. In some places the bumps grow bigger. In other places they flatten out. Sound waves add and cancel in the same way, and the side pipe uses this to cancel noise."
+  },
+  {
+   "k": "think",
+   "t": "Think about it",
+   "b": "Some sounds we love, like birdsong and music. Some we don't, like traffic and drills. If you could switch off one sound in your street forever, which would you choose? Would anyone else miss it?"
+  },
+  {
+   "k": "words",
+   "t": "New words",
+   "words": [
     {
-      "k": "q",
-      "t": "The question",
-      "b": "Engines and fans make noise that can harm our health. Some noise can be cancelled by a side pipe that sends the sound back on itself. But low, rumbling sounds have very long waves, as long as 17 metres. A pipe to cancel them would be huge. Could a much smaller pipe do the same job?"
+     "w": "wavelength",
+     "m": "the length of one sound wave, from one bump to the next"
     },
     {
-      "k": "who",
-      "t": "Who found out",
-      "b": "William Parnell is a professor of applied mathematics at the University of Manchester in England. William Rowley did his PhD in that group, on designing materials that change how we hear sounds. They published this work with colleagues in 2018. Naomi Curati, who shares the group's science with the public, helped write it for kids."
+     "w": "frequency",
+     "m": "how many waves pass each second, measured in hertz; high frequency means a high pitch"
     },
     {
-      "k": "how",
-      "t": "How they found out",
-      "b": "A quarter-wavelength resonator is a side pipe. Sound goes in, bounces back, and meets the incoming sound out of step, so the two cancel. It must be one quarter as long as the sound wave. The team used maths to design a metamaterial, a material whose shape gives it unusual powers. They 3D-printed 4 cm side pipes with thin ovals stacked inside, and tested them.",
-      "img": {
-        "src": "media/research/slow-sound-quieter-2.jpg",
-        "alt": "Three drawings of a pipe: sound travels along, some goes into a side branch, and the reflected sound cancels the rest",
-        "credit": "Figure 2, Parnell, Rowley and Curati, Frontiers for Young Minds, CC BY 4.0"
-      }
+     "w": "decibel",
+     "m": "a unit for how loud a sound is"
     },
     {
-      "k": "found",
-      "t": "What they found",
-      "b": "The ovals made sound travel at about half its normal speed. A normal pipe 4 cm long cancelled sound at 2,000 hertz. The metamaterial pipes, the same length, cancelled sound at 1,000 hertz, a lower pitch. The best one cut the noise by 5 decibels. That is like moving from 100 metres away from a noise to 180 metres away.",
-      "img": {
-        "src": "media/research/slow-sound-quieter-3.jpg",
-        "alt": "Photos of the three 3D-printed side pipes and a graph of how much each one reduced sound at different pitches",
-        "credit": "Figure 3, Parnell, Rowley and Curati, Frontiers for Young Minds, CC BY 4.0"
-      }
+     "w": "interference",
+     "m": "what happens when two waves meet: they can add up or cancel out"
     },
     {
-      "k": "sure",
-      "t": "How sure are they?",
-      "b": "Both metamaterial pipes did exactly what the maths predicted, which is a good sign. But these were small lab tests. The best new pipe cut its sound by 5 decibels. The normal pipe cut its own sound by about 10. Making real parts for engines and fans is still to come."
-    },
-    {
-      "k": "why",
-      "t": "Why it matters",
-      "b": "Noise is more than annoying. In Europe, aircraft noise has harmed the learning of about 12,500 schoolchildren. Noise also leads to around 12,000 early deaths there each year, from stress-related heart disease. Smaller noise cancellers save space and material, and can reach lower, rumbling sounds."
-    },
-    {
-      "k": "try",
-      "t": "Try it at home",
-      "b": "Watch waves add and cancel. Sneha fills a wide steel thali with water. She and her mother each tap the water gently with one finger, at the same time, from opposite sides. Watch where the ripples meet. In some places the bumps grow bigger. In other places they flatten out. Sound waves add and cancel like this too."
-    },
-    {
-      "k": "think",
-      "t": "Think about it",
-      "b": "Some sounds we love, like birdsong and music. Some we don't, like traffic and drills. If you could switch off one sound in your street forever, which would you choose? Would anyone else miss it?"
-    },
-    {
-      "k": "words",
-      "t": "New words",
-      "words": [
-        {
-          "w": "wavelength",
-          "m": "the length of one sound wave, from one bump to the next"
-        },
-        {
-          "w": "frequency",
-          "m": "how many waves pass each second, measured in hertz; high frequency means a high pitch"
-        },
-        {
-          "w": "decibel",
-          "m": "a unit for how loud a sound is"
-        },
-        {
-          "w": "interference",
-          "m": "what happens when two waves meet: they can add up or cancel out"
-        },
-        {
-          "w": "metamaterial",
-          "m": "a material whose special shape gives it powers ordinary materials don't have"
-        }
-      ]
+     "w": "metamaterial",
+     "m": "a material whose special shape gives it powers ordinary materials don't have"
     }
-  ]
+   ]
+  }
+ ]
 }

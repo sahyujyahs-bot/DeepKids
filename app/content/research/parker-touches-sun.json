@@ -1,116 +1,116 @@
 {
-  "id": "parker-touches-sun",
-  "title": "Has a spacecraft ever touched the Sun?",
-  "blurb": "In 2021, NASA's Parker Solar Probe flew into the Sun's outer air, the corona, for the first time. Here is how scientists knew it was inside.",
-  "topics": [
-    "sci.sky.the-sun.L3",
-    "sci.energy.heat.L3",
-    "sci.magnets.poles.L3"
-  ],
-  "tags": [
-    "Sun",
-    "spacecraft",
-    "heat",
-    "space"
-  ],
+ "id": "parker-touches-sun",
+ "title": "Has a spacecraft ever touched the Sun?",
+ "blurb": "In 2021, NASA's Parker Solar Probe flew into the Sun's outer air, the corona, for the first time. Here is how scientists knew it was inside.",
+ "topics": [
+  "sci.sky.the-sun.L3",
+  "sci.energy.heat.L3",
+  "sci.magnets.poles.L3"
+ ],
+ "tags": [
+  "Sun",
+  "spacecraft",
+  "heat",
+  "space"
+ ],
+ "year": 2021,
+ "mins": 6,
+ "cover": {
+  "src": "media/research/parker-touches-sun-1.jpg",
+  "alt": "A drawing of a small spacecraft with a heat shield flying close to the glowing, orange surface of the Sun.",
+  "credit": "NASA Goddard Space Flight Center/Joy Ng (illustration, public domain)"
+ },
+ "source": {
+  "name": "NASA",
+  "title": "NASA Enters the Solar Atmosphere for the First Time, Bringing New Discoveries",
+  "authors": "Mara Johnson-Groh, NASA Goddard Space Flight Center",
   "year": 2021,
-  "mins": 6,
-  "cover": {
-    "src": "media/research/parker-touches-sun-1.jpg",
-    "alt": "A drawing of a small spacecraft with a heat shield flying close to the glowing, orange surface of the Sun.",
-    "credit": "NASA Goddard Space Flight Center/Joy Ng (illustration, public domain)"
+  "url": "https://www.nasa.gov/solar-system/nasa-enters-the-solar-atmosphere-for-the-first-time-bringing-new-discoveries/",
+  "license": "Public domain (US government work)"
+ },
+ "original": {
+  "title": "Parker Solar Probe Enters the Magnetically Dominated Solar Corona",
+  "authors": "J. C. Kasper, K. G. Klein and others",
+  "journal": "Physical Review Letters",
+  "year": 2021,
+  "url": "https://doi.org/10.1103/PhysRevLett.127.255101"
+ },
+ "cards": [
+  {
+   "k": "q",
+   "t": "The question",
+   "b": "The Sun has no solid ground. Instead, it has a huge, very hot outer layer called the corona. Far out, the corona turns into the solar wind, a stream of tiny bits that blows all the way to Earth. Where does the corona end? And could a spacecraft fly inside it?"
   },
-  "source": {
-    "name": "NASA",
-    "title": "NASA Enters the Solar Atmosphere for the First Time, Bringing New Discoveries",
-    "authors": "Mara Johnson-Groh, NASA Goddard Space Flight Center",
-    "year": 2021,
-    "url": "https://www.nasa.gov/solar-system/nasa-enters-the-solar-atmosphere-for-the-first-time-bringing-new-discoveries/",
-    "license": "Public domain (US government work)"
+  {
+   "k": "who",
+   "t": "Who found out",
+   "b": "NASA's Parker Solar Probe is a spacecraft built and flown by the Johns Hopkins Applied Physics Laboratory. Justin Kasper of the University of Michigan led the study about entering the corona. Nour Raouafi is the mission's project scientist. Nicola Fox led NASA's Sun science team. The results came out in December 2021."
   },
-  "original": {
-    "title": "Parker Solar Probe Enters the Magnetically Dominated Solar Corona",
-    "authors": "J. C. Kasper, K. G. Klein and others",
-    "journal": "Physical Review Letters",
-    "year": 2021,
-    "url": "https://doi.org/10.1103/PhysRevLett.127.255101"
+  {
+   "k": "how",
+   "t": "How they found out",
+   "b": "Parker launched in 2018. It loops round the Sun again and again, coming a little closer each time. A thick heat shield protects it. It carries tools that measure the tiny bits flying past and the Sun's magnetic field, the space around the Sun where its magnetic pull is felt. Scientists knew the corona's edge is where that magnetic field becomes strong enough to steer all those tiny bits.",
+   "img": {
+    "src": "media/research/parker-touches-sun-2.jpg",
+    "alt": "Black and white pictures from the spacecraft's camera, showing bright streaks of the Sun's outer air flowing past.",
+    "credit": "NASA/Johns Hopkins APL/Naval Research Laboratory (public domain)"
+   }
   },
-  "cards": [
+  {
+   "k": "found",
+   "t": "What they found",
+   "b": "On 28 April 2021, Parker felt the change. It was about 13 million kilometres above the Sun's surface. The magnetic field took over, so the probe was inside the corona. It went in and out several times. So the edge is not a smooth ball. It is wrinkly, with spikes and valleys. Parker even flew through streamers, bright streams of material rising from the Sun.",
+   "img": {
+    "src": "media/research/parker-touches-sun-3.jpg",
+    "alt": "A total solar eclipse: the Moon covers the Sun, and a white glowing crown of light, the corona, spreads around it.",
+    "credit": "NASA/Carla Thomas (public domain)"
+   }
+  },
+  {
+   "k": "sure",
+   "t": "How sure are they?",
+   "b": "Three kinds of measurements agreed: the magnetic field, the tiny bits, and the pictures. So the scientists are confident Parker was inside the corona. But the first visit lasted only a few hours. The edge moves as the Sun gets more or less active, so they need many more passes to map it."
+  },
+  {
+   "k": "why",
+   "t": "Why it matters",
+   "b": "Scientists still do not know why the corona is millions of degrees hot, much hotter than the Sun's surface. Being inside it helps them find out. It also helps them understand the solar wind and solar storms, which can damage satellites and disturb phones and power lines on Earth."
+  },
+  {
+   "k": "try",
+   "t": "Try it at home",
+   "b": "The corona is faint, so we only see it during a total eclipse, when the Moon blocks the bright Sun. Make a small eclipse. In a dark room, shine a torch at a wall. Hold a coin right in front of the torch glass, so it blocks the middle. The wall shows a dark disc with a glow around the edge, like the corona around the Moon-covered Sun."
+  },
+  {
+   "k": "think",
+   "t": "Think about it",
+   "b": "Parker was sent where no person could ever survive. Robots can go to the hottest and coldest places for us. Is learning about a place through a robot as good as going there yourself? Or does something get lost? What do you think?"
+  },
+  {
+   "k": "words",
+   "t": "New words",
+   "words": [
     {
-      "k": "q",
-      "t": "The question",
-      "b": "The Sun has no solid ground. Instead, it has a huge, very hot outer layer called the corona. Far out, the corona turns into the solar wind, a stream of tiny bits that blows all the way to Earth. Where does the corona end? And could a spacecraft fly inside it?"
+     "w": "corona",
+     "m": "the Sun's huge, very hot outer layer, seen as a glowing crown in an eclipse"
     },
     {
-      "k": "who",
-      "t": "Who found out",
-      "b": "NASA's Parker Solar Probe was built and flown by the Johns Hopkins Applied Physics Laboratory. Justin Kasper of the University of Michigan led the study about entering the corona. Nour Raouafi is the mission's project scientist. Nicola Fox led NASA's Sun science team. The results came out in December 2021."
+     "w": "solar wind",
+     "m": "a stream of tiny bits that blows out from the Sun across space"
     },
     {
-      "k": "how",
-      "t": "How they found out",
-      "b": "Parker launched in 2018. It loops round the Sun again and again, coming a little closer each time. A thick heat shield protects it. It carries tools that measure tiny bits flying past and the Sun's magnetic field. Scientists knew the corona's edge is where the magnetic field becomes strong enough to steer all those tiny bits.",
-      "img": {
-        "src": "media/research/parker-touches-sun-2.jpg",
-        "alt": "Black and white pictures from the spacecraft's camera, showing bright streaks of the Sun's outer air flowing past.",
-        "credit": "NASA/Johns Hopkins APL/Naval Research Laboratory (public domain)"
-      }
+     "w": "magnetic field",
+     "m": "the space around a magnet, or the Sun, where its magnetic pull is felt"
     },
     {
-      "k": "found",
-      "t": "What they found",
-      "b": "On 28 April 2021, Parker felt the change. It was about 13 million kilometres above the Sun's surface. The magnetic field took over, so the probe was inside the corona. It went in and out several times. So the edge is not a smooth ball. It is wrinkly, with spikes and valleys. Parker even flew past bright streamers.",
-      "img": {
-        "src": "media/research/parker-touches-sun-3.jpg",
-        "alt": "A total solar eclipse: the Moon covers the Sun, and a white glowing crown of light, the corona, spreads around it.",
-        "credit": "NASA/Carla Thomas (public domain)"
-      }
+     "w": "heat shield",
+     "m": "a thick cover that protects a spacecraft from great heat"
     },
     {
-      "k": "sure",
-      "t": "How sure are they?",
-      "b": "Three kinds of measurements agreed: the magnetic field, the tiny bits, and the pictures. So the scientists are confident Parker was inside the corona. But the first visit lasted only a few hours. The edge moves as the Sun gets more or less active, so they need many more passes to map it."
-    },
-    {
-      "k": "why",
-      "t": "Why it matters",
-      "b": "Scientists still do not know why the corona is millions of degrees hot, much hotter than the Sun's surface. Being inside it helps them find out. It also helps them understand the solar wind and solar storms, which can damage satellites and disturb phones and power lines on Earth."
-    },
-    {
-      "k": "try",
-      "t": "Try it at home",
-      "b": "During a total eclipse, the Moon hides the bright Sun and you can see the corona. Make a small eclipse. In a dark room, Revathi shines a torch at a wall. Then she holds a coin in front of the torch, so it just covers the bulb. Can she see light glowing round the edges? Never look at the real Sun."
-    },
-    {
-      "k": "think",
-      "t": "Think about it",
-      "b": "Parker was sent where no person could ever survive. Robots can go to the hottest and coldest places for us. Is learning about a place through a robot as good as going there yourself? Or does something get lost? Nandini says robots are enough. Her cousin wants to go in person. What do you think?"
-    },
-    {
-      "k": "words",
-      "t": "New words",
-      "words": [
-        {
-          "w": "corona",
-          "m": "the Sun's huge, very hot outer layer, seen as a glowing crown in an eclipse"
-        },
-        {
-          "w": "solar wind",
-          "m": "a stream of tiny bits that blows out from the Sun across space"
-        },
-        {
-          "w": "magnetic field",
-          "m": "the space around a magnet, or the Sun, where its magnetic pull is felt"
-        },
-        {
-          "w": "heat shield",
-          "m": "a thick cover that protects a spacecraft from great heat"
-        },
-        {
-          "w": "eclipse",
-          "m": "when the Moon passes in front of the Sun and blocks its light"
-        }
-      ]
+     "w": "eclipse",
+     "m": "when the Moon passes in front of the Sun and blocks its light"
     }
-  ]
+   ]
+  }
+ ]
 }

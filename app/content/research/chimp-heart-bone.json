@@ -1,116 +1,116 @@
 {
-  "id": "chimp-heart-bone",
-  "title": "Do chimpanzees have a bone in their heart?",
-  "blurb": "Scientists scanning chimpanzee hearts found something nobody had seen before: a tiny bone, about 7 millimetres long.",
-  "topics": [
-    "sci.body.heart-blood-breath.L3",
-    "sci.body.organs-inside.L3",
-    "sci.animals.vertebrate-groups.L3"
-  ],
-  "tags": [
-    "chimpanzees",
-    "heart",
-    "bones",
-    "discovery"
-  ],
+ "id": "chimp-heart-bone",
+ "title": "Do chimpanzees have a bone in their heart?",
+ "blurb": "Scientists scanning chimpanzee hearts found something nobody had seen before: a tiny bone, about 7 millimetres long.",
+ "topics": [
+  "sci.body.heart-blood-breath.L3",
+  "sci.body.organs-inside.L3",
+  "sci.animals.vertebrate-groups.L3"
+ ],
+ "tags": [
+  "chimpanzees",
+  "heart",
+  "bones",
+  "discovery"
+ ],
+ "year": 2020,
+ "mins": 5,
+ "cover": {
+  "src": "media/research/chimp-heart-bone-1.jpg",
+  "alt": "Drawings of a chimpanzee, a chimpanzee heart, and the tiny heart bone found inside.",
+  "credit": "Figure 1, Sturrock et al., Frontiers for Young Minds, CC BY 4.0"
+ },
+ "source": {
+  "name": "Frontiers for Young Minds",
+  "title": "Discovery Of A Bone In Chimpanzee Hearts",
+  "authors": "Craig J. Sturrock, Kelly Stanford, Sophie Moittie, Kerstin Baiker, Sharon Redrobe and Catrin Sian Rutland",
+  "year": 2022,
+  "url": "https://kids.frontiersin.org/articles/10.3389/frym.2021.592105",
+  "license": "CC BY 4.0"
+ },
+ "original": {
+  "title": "Discovery of os cordis in the cardiac skeleton of chimpanzees (Pan troglodytes)",
+  "authors": "Moittié, S., Baiker, K., Strong, V., Cousins, E., White, K., Liptovszky, M., et al.",
+  "journal": "Scientific Reports",
   "year": 2020,
-  "mins": 5,
-  "cover": {
-    "src": "media/research/chimp-heart-bone-1.jpg",
-    "alt": "Drawings of a chimpanzee, a chimpanzee heart, and the tiny heart bone found inside.",
-    "credit": "Figure 1, Sturrock et al., Frontiers for Young Minds, CC BY 4.0"
+  "url": "https://doi.org/10.1038/s41598-020-66345-7"
+ },
+ "cards": [
+  {
+   "k": "q",
+   "t": "The question",
+   "b": "Chimpanzees are our closest living relatives. Like people, chimps can get heart disease, and some die from it. Scientists wanted to understand what goes wrong inside a sick chimp heart. When they looked closely, they found something they never expected. What was hiding inside?"
   },
-  "source": {
-    "name": "Frontiers for Young Minds",
-    "title": "Discovery Of A Bone In Chimpanzee Hearts",
-    "authors": "Craig J. Sturrock, Kelly Stanford, Sophie Moittie, Kerstin Baiker, Sharon Redrobe and Catrin Sian Rutland",
-    "year": 2022,
-    "url": "https://kids.frontiersin.org/articles/10.3389/frym.2021.592105",
-    "license": "CC BY 4.0"
+  {
+   "k": "who",
+   "t": "Who found out",
+   "b": "Sophie Moittié is a vet, an animal doctor. She worked with Craig Sturrock, Catrin Rutland and others from the University of Nottingham and Twycross Zoo in England, and from the Ape Heart Project, which works on heart disease in apes. Craig is an expert in X-ray scanning. Together they studied the hearts of 16 chimpanzees and published in 2020."
   },
-  "original": {
-    "title": "Discovery of os cordis in the cardiac skeleton of chimpanzees (Pan troglodytes)",
-    "authors": "Moittié, S., Baiker, K., Strong, V., Cousins, E., White, K., Liptovszky, M., et al.",
-    "journal": "Scientific Reports",
-    "year": 2020,
-    "url": "https://doi.org/10.1038/s41598-020-66345-7"
+  {
+   "k": "how",
+   "t": "How they found out",
+   "b": "The team put each heart in a micro-CT scanner, a machine that takes X-ray pictures. X-rays pass through soft parts but are stopped by bone, so bone shows up white. The heart turned slowly while a camera took hundreds of pictures from every side. A computer joined them into a 3D picture. The team also cut very thin slices of heart, coloured them with stains and looked under a microscope.",
+   "img": {
+    "src": "media/research/chimp-heart-bone-2.jpg",
+    "alt": "Cartoons of the two methods: a heart in an X-ray scanner, and thin slices of heart under a microscope.",
+    "credit": "Figure 2, Sturrock et al., Frontiers for Young Minds, CC BY 4.0"
+   }
   },
-  "cards": [
+  {
+   "k": "found",
+   "t": "What they found",
+   "b": "Three of the 16 chimps had a small bone in their heart. It is called the os cordis, which means heart bone. One was about 7 millimetres long. Both males and females, young and old, had one. None of the chimps with healthy hearts had one, only chimps with serious heart disease. Cartilage, a soft, bendy tissue like the inside of your ear, surrounded the bones.",
+   "img": {
+    "src": "media/research/chimp-heart-bone-3.jpg",
+    "alt": "Coloured scan of the heart bone showing how thick each part is, and a microscope picture of the bone cells.",
+    "credit": "Figure 3, Sturrock et al., Frontiers for Young Minds, CC BY 4.0"
+   }
+  },
+  {
+   "k": "sure",
+   "t": "How sure are they?",
+   "b": "Only 16 chimp hearts were studied. Nobody yet knows why the heart bone grows. The bone might help the heart's electric signals, or block them. Long strain on the heart might cause the bone to form. The bone might cause the disease, or try to help. The cartilage hints that the bone grows from cartilage."
+  },
+  {
+   "k": "why",
+   "t": "Why it matters",
+   "b": "Heart bones are common in cows and water buffalo, and are found in some sheep, goats, camels and otters. Most animals do not have one. Days after this study came out, other scientists reported bone cells in some human hearts. Finding a new bone is rare. It makes us wonder what else is hidden inside bodies, even ours."
+  },
+  {
+   "k": "try",
+   "t": "Try it at home",
+   "b": "Find a heartbeat. Press your ear gently to the left side of a family member's chest, where the heart sits, and listen for a steady thud. That is the heart muscle squeezing. A chimp's heart is built much like yours. Count the beats in 15 seconds, then multiply by 4 to get beats per minute. Then swap places. Whose heart beats faster?"
+  },
+  {
+   "k": "think",
+   "t": "Think about it",
+   "b": "The heart bone was found because scientists were trying to understand sick chimps. They were not looking for a new bone at all. Many discoveries happen by surprise like this. Is it better for scientists to hunt for one exact answer, or to look closely and see what turns up? Why do you think so?"
+  },
+  {
+   "k": "words",
+   "t": "New words",
+   "words": [
     {
-      "k": "q",
-      "t": "The question",
-      "b": "Chimpanzees are our closest living relatives. Like people, chimps can get heart disease, and some die from it. Scientists wanted to understand what goes wrong inside a sick chimp heart. When they looked closely, they found something they never expected. What was hiding inside?"
+     "w": "os cordis",
+     "m": "a small bone found inside the heart of some animals"
     },
     {
-      "k": "who",
-      "t": "Who found out",
-      "b": "Sophie Moittié is a vet. She worked with Craig Sturrock, Catrin Rutland and others. The team came from the University of Nottingham, Twycross Zoo and the Ape Heart Project in England. Craig is an expert in X-ray scanning. Together they studied the hearts of 16 chimpanzees. They published their discovery in 2020."
+     "w": "X-ray",
+     "m": "a kind of light that passes through soft body parts and shows bones as white"
     },
     {
-      "k": "how",
-      "t": "How they found out",
-      "b": "The team put each chimp heart in a micro-CT scanner. The heart turned slowly while a camera took hundreds of X-ray pictures from every side. A computer joined them into a 3D picture. Bone shows up white on X-rays. The team also cut very thin slices of heart, coloured them with stains and looked under a microscope.",
-      "img": {
-        "src": "media/research/chimp-heart-bone-2.jpg",
-        "alt": "Cartoons of the two methods: a heart in an X-ray scanner, and thin slices of heart under a microscope.",
-        "credit": "Figure 2, Sturrock et al., Frontiers for Young Minds, CC BY 4.0"
-      }
+     "w": "micro-CT scanner",
+     "m": "a machine that takes many X-ray pictures to make a detailed 3D picture"
     },
     {
-      "k": "found",
-      "t": "What they found",
-      "b": "Three of the 16 chimps had a small bone in their heart, called the os cordis, which means heart bone. One bone was about 7 millimetres long. Males and females had one, young and old. None of the chimps with healthy hearts had one, only chimps with serious heart disease. Soft cartilage surrounded the bones.",
-      "img": {
-        "src": "media/research/chimp-heart-bone-3.jpg",
-        "alt": "Coloured scan of the heart bone showing how thick each part is, and a microscope picture of the bone cells.",
-        "credit": "Figure 3, Sturrock et al., Frontiers for Young Minds, CC BY 4.0"
-      }
+     "w": "cartilage",
+     "m": "a tough, bendy tissue, like the inside of your ear"
     },
     {
-      "k": "sure",
-      "t": "How sure are they?",
-      "b": "Only 16 chimp hearts were studied. Nobody yet knows why the heart bone grows. The bone might help the heart's electric signals, or block them. Long strain on the heart might cause the bone to form. The bone might cause the disease, or try to help. The cartilage hints that the bone grows from cartilage."
-    },
-    {
-      "k": "why",
-      "t": "Why it matters",
-      "b": "Heart bones are common in cows and water buffalo, and are found in some sheep, goats, camels and otters. Most animals do not have one. Days after this study came out, other scientists reported bone cells in some human hearts. Finding a new bone is rare. It makes us wonder what else is hidden inside bodies, even ours."
-    },
-    {
-      "k": "try",
-      "t": "Try it at home",
-      "b": "Your heart sits in your chest, a little to the left. Nandini presses her ear gently on the left side of her mother's chest and listens for the beat. She counts the beats for 15 seconds. Then she multiplies by 4 to get beats per minute. Then they swap. Whose heart beats faster?"
-    },
-    {
-      "k": "think",
-      "t": "Think about it",
-      "b": "The heart bone was found because scientists were trying to understand sick chimps. They were not looking for a new bone at all. Many discoveries happen by surprise like this. Is it better for scientists to hunt for one exact answer, or to look closely and see what turns up? Why do you think so?"
-    },
-    {
-      "k": "words",
-      "t": "New words",
-      "words": [
-        {
-          "w": "os cordis",
-          "m": "a small bone found inside the heart of some animals"
-        },
-        {
-          "w": "X-ray",
-          "m": "a kind of light that passes through soft body parts and shows bones as white"
-        },
-        {
-          "w": "micro-CT scanner",
-          "m": "a machine that takes many X-ray pictures to make a detailed 3D picture"
-        },
-        {
-          "w": "cartilage",
-          "m": "a tough, bendy tissue, like the inside of your ear"
-        },
-        {
-          "w": "relative",
-          "m": "family, close or distant, who shares ancestors with you"
-        }
-      ]
+     "w": "relative",
+     "m": "family, close or distant, who shares ancestors with you"
     }
-  ]
+   ]
+  }
+ ]
 }
