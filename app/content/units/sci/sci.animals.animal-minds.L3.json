@@ -2377,6 +2377,27 @@
      "lines": 3,
      "a": "Any true example, for example: a crow bent a wire into a hook, and scientists saw it in a test. Or: a dog follows a pointing finger, which was shown in careful tests. Or: a bumblebee learned to pull a string to reach a flower.",
      "why": "Each of these was seen in careful tests or long watching, not just told as a story."
+    },
+    {
+     "t": "fill",
+     "p": "Keeping what you learned, so you can use it later, is called ____.",
+     "a": [
+      "memory"
+     ],
+     "why": "Memory is keeping what you learned. A jay that finds seeds months later is using memory."
+    },
+    {
+     "t": "truefalse",
+     "p": "A puppy that bows with the front legs down and the tail up is asking to play.",
+     "a": true,
+     "why": "The play bow means 'let's play, this is not a real fight'."
+    },
+    {
+     "t": "write",
+     "p": "Choose a honeybee, a crow or a dog. Tell one clever thing they can do, and how scientists know.",
+     "lines": 3,
+     "a": "Any true example, for example: a crow bent a wire into a hook, and scientists saw it in a test. Or: a dog follows a pointing finger, which was shown in careful tests. Or: a bumblebee learned to pull a string to reach a flower.",
+     "why": "Each of these was seen in careful tests or long watching, not just told as a story."
     }
    ]
   },
@@ -2662,6 +2683,40 @@
      "why": "A good test changes one thing at a time and watches what the animal chooses.",
      "how": "e1",
      "context": "In the Thirsty Crow Test, rooks dropped stones into a tube of water to reach a floating worm, and chose big stones first."
+    },
+    {
+     "t": "match",
+     "p": "Match each scientist to what they found.",
+     "pairs": [
+      [
+       "Ivan Pavlov",
+       "dogs learned to drool at a sound that came before food"
+      ],
+      [
+       "Edward Thorndike",
+       "cats in puzzle boxes escaped a little faster each time"
+      ],
+      [
+       "Wolfgang Kohler",
+       "a chimpanzee fitted two short sticks into one long one"
+      ],
+      [
+       "Gordon Burghardt",
+       "wrote down clear signs that tell play from other things animals do"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each of these scientists found out something about how animals learn, solve problems or play.",
+     "context": "This question is about four more scientists from this unit who studied animal behaviour."
+    },
+    {
+     "t": "write",
+     "p": "Rooks chose big stones first in the tube of water. The rooks cannot tell us why. What else could you test to find out if they understood what the stones do?",
+     "lines": 3,
+     "a": "For example: give them a choice between a sinking stone and a floating piece of thermocol, and see which they pick. If they pick sinking things again and again, they probably understand what sinks.",
+     "why": "A good test changes one thing at a time and watches what the animal chooses.",
+     "how": "e1",
+     "context": "In the Thirsty Crow Test, rooks dropped stones into a tube of water to reach a floating worm, and chose big stones first."
     }
    ]
   },
@@ -2844,6 +2899,25 @@
      "lines": 3,
      "a": "For example: that the crocodiles put sticks on their snouts mainly in the nesting season, and that birds come to take the sticks. Seeing it many times, and ruling out another reason, would help.",
      "why": "A claim about a clever animal is stronger when the same thing is seen again and again, and a simpler reason is ruled out."
+    },
+    {
+     "t": "mcq",
+     "p": "Wolf pups raised by people follow a pointing finger less well than dog puppies do. But wolves raised very closely with people can learn it. What does this suggest?",
+     "opts": [
+      "Both being born ready and growing up with people matter",
+      "Wolves cannot learn anything",
+      "Dogs do not need to learn it at all"
+     ],
+     "a": 0,
+     "why": "If dogs were only born ready, wolves could not learn it. If it were only learning, wolves would do as well as dogs. Many scientists think both matter.",
+     "context": "This question is about why dogs are so good at reading people."
+    },
+    {
+     "t": "write",
+     "p": "Some scientists think mugger crocodiles in India balance sticks on their snouts in the nesting season, to trick birds looking for twigs. Others are not sure. What would you need to see to be sure?",
+     "lines": 3,
+     "a": "For example: that the crocodiles put sticks on their snouts mainly in the nesting season, and that birds come to take the sticks. Seeing it many times, and ruling out another reason, would help.",
+     "why": "A claim about a clever animal is stronger when the same thing is seen again and again, and a simpler reason is ruled out."
     }
    ]
   }
@@ -2864,6 +2938,14 @@
    "mins": 2,
    "why": "Shows a crow dropping stones into a tube of water to raise a floating treat, as in the thirsty crow test.",
    "check": "Title and channel checked with YouTube's oEmbed: \"Causal understanding of water displacement by a crow\" by PLOS Media, from Jelbert and others, PLoS ONE 2014. The old link was a cartoon. A parent may still preview it."
+  },
+  {
+   "title": "Chimpanzee tool use: fishing for termites",
+   "channel": "Jane Goodall Institute USA",
+   "youtube": "kSuJpww6P9I",
+   "mins": 3,
+   "why": "Shows chimpanzees poking a stem into a termite mound and pulling out termites, as Jane Goodall first saw in 1960.",
+   "check": "Title and channel checked with YouTube's oEmbed: \"Chimpanzee Tool Use - Fishing for Termites\" by Dr. Jane Goodall & the Jane Goodall Institute USA. A parent may still preview it."
   },
   {
    "title": "Chimpanzee tool use: fishing for termites",

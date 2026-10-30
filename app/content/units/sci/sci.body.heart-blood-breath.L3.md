@@ -231,7 +231,7 @@ Soon parents were carrying blue children to Baltimore from all over the country,
 
 Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere under your hand, two loops of blood are turning, one through your lungs and one through the rest of you. Helen Taussig could not hear that sound. She did not need to. She knew where the blood had to go.
 
-**For the parent:** For the parent: the blue was not about a weak heart or too little blood. It was about where the blood went. Blood only picks up oxygen when it passes through the lungs. Send more blood through the lungs, and the child turns pink. This is the whole idea of the unit: two loops, one through the air and one through the body. The story also quietly asks who gets credit, and shows that there is more than one way to listen.
+**For the parent:** For the parent: the blue was not about a weak heart or too little blood. It was about where the blood went. Blood only picks up oxygen when it passes through the lungs. Send more blood through the lungs, and the child turns pink. This is the whole idea of the unit: two loops, one through the air and one through the body.
 
 - Ask: Why were the babies blue? Where was their blood not going?
 - Ask: Why did a new pipe to the lungs turn Eileen pink?
@@ -241,51 +241,51 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 
 ## Games
 ### g1 · The Great Circle: a red blood cell board game (25 min)
-- **rules:** Each player is a red blood cell. Put all the counters on HEART, RIGHT SIDE.; Take turns. Roll a dice and move forward. Arrows show the way. You can never go backwards, because valves stop you.; When you pass through the lungs, pick up 2 oxygen tokens and drop all your carbon dioxide tokens there.; When you pass a body stop, like the brain or the legs, drop 1 oxygen token there and pick up 1 carbon dioxide token. Each oxygen you deliver scores 1 point.; If you land on a card square, take a body card and do what it says.; You can carry at most 4 oxygen tokens, the way a real red cell can carry only so much.; When every player has gone round the circle 3 times, count your points. The most oxygen delivered wins.
-- **Printable board: The Great Circle board: a figure-of-eight path of 24 squares:** HEART, RIGHT SIDE (start); Lungs: pick up oxygen; HEART, LEFT SIDE; Brain stop; Leg muscles stop; Tummy stop: pick up food; Back to the heart; Valve door squares: you may only go forward
-- **Printable tokens: Tokens to cut out:** 20 oxygen tokens marked O; 20 carbon dioxide tokens marked CO2; 10 food tokens marked with an idli; 4 red blood cell counters, one for each player
-- **Printable cards: 20 body cards to cut out:** You are running! Move 2 extra squares.; You are asleep. Move only 1 square this turn.; Smoky air near a burning rubbish heap. At the lungs this time, pick up only 1 oxygen.; Deep breath in the fresh air of a park. Pick up 1 extra oxygen at the lungs.; A valve snapped shut behind you. Lub-dub! You cannot go backwards.; The leg muscles are working hard. Drop 1 extra oxygen there if you have it.; You scraped your knee. A platelet helps plug it. Miss one turn while it heals.; Climbing stairs to the third floor. Move 2 extra squares.; You are sitting and reading. Your heart is calm. Move as normal.; Scared by a barking dog! Your heart speeds up. Move 2 extra squares.; Slow breathing time. Move 1 square, then take a slow breath with everyone.; Brain needs oxygen to think. Drop 1 oxygen at the brain if you pass it.; Lunch time! Pick up 1 food token at the tummy stop.; Long road to the toes. Stay where you are this turn.; QUESTION: Which side of the heart sends blood to the lungs? Answer right, move 2.; QUESTION: What gas do the leg muscles give you to carry away? Answer right, move 2.; QUESTION: What makes the lub-dub sound? Answer right, move 2.; QUESTION: Where does your blood pick up oxygen? Answer right, move 2.; QUESTION: Why do you breathe faster when you run? Answer right, move 2.; QUESTION: Name one way to keep your lungs healthy. Answer right, move 2.
+- **rules:** Each player is a red blood cell. Put all the counters on square 1, HEART, RIGHT SIDE. You need a dice. No dice? Write 1 to 6 on six scraps of paper, put them in a cup and draw one each turn.; Take turns. Roll the dice and move your counter forward round the path, in order from square 1 to 14, then back to 1. You can never go backwards.; A STOP square always stops you. If your roll would take you past a STOP, land on it and end your move there.; At a body STOP (brain, arms, tummy, legs), give 1 oxygen token back to the pile and write 1 point for yourself on paper. If you also carry a food token, give it back too. That oxygen and food together score 3 points instead of 1, because cells need both to make energy. Then pick up 1 carbon dioxide token. If you have no oxygen to give, that part of the body goes without, so you score nothing and pick up no carbon dioxide.; You carry at most 4 oxygen tokens and 1 food token. If a pile runs out, use pebbles or paper scraps.; On a card square, take the top body card and do what it says. Then put it at the bottom of the pile. A QUESTION card is read to you by another player, who looks at the back. A wrong answer costs nothing.; 'Roll again' means roll and move straight away. Do only what the square where you end up says.; The game ends when one player finishes 2 laps. Everyone else finishes that round, so all players have the same number of turns. The most points wins. If points are equal, the players share the win.
+- **Printable board: The Great Circle board: a figure-of-eight path of 14 squares:** 1. HEART, RIGHT SIDE. Start and finish. Each time you land on or pass this square, you finish one lap.; 2. CARD SQUARE. Take the top body card and do what it says.; 3. LUNGS (STOP). Drop all your carbon dioxide tokens. Pick up oxygen tokens until you carry 4.; 4. CARD SQUARE. Take the top body card and do what it says.; 5. HEART, LEFT SIDE. The heart squeezes you out to the body. Roll again and move on.; 6. BRAIN (STOP). Give 1 oxygen to the brain, if you have one. Pick up 1 carbon dioxide.; 7. CARD SQUARE. Take the top body card and do what it says.; 8. ARM MUSCLES (STOP). Give 1 oxygen to the arms, if you have one. Pick up 1 carbon dioxide.; 9. TUMMY (STOP). Give 1 oxygen to the tummy, if you have one. Pick up 1 carbon dioxide. Then pick up 1 food token, if you carry none.; 10. CARD SQUARE. Take the top body card and do what it says.; 11. LEG MUSCLES (STOP). Give 1 oxygen to the legs, if you have one. Pick up 1 carbon dioxide.; 12. CARD SQUARE. Take the top body card and do what it says.; 13. BIG VEIN. Blood from the legs flows home. Roll again and move on.; 14. VALVE. Say 'lub-dub' out loud. Then take the top body card and do what it says.
+- **Printable tokens: Tokens to cut out:** 20 oxygen tokens marked O; 20 carbon dioxide tokens marked CO2; 10 food tokens marked with an idli; 4 red blood cell counters, one for each player. Use coins or buttons if you prefer.
+- **Printable cards: 18 body cards to cut out:** You are running! Your heart pumps faster. Move 2 extra squares.; A barking dog scares you! Your heart speeds up. Move 2 extra squares.; You climb the stairs to the third floor. Your muscles want oxygen. Move 2 extra squares.; You are asleep and your heart is slow. On your next turn, move only 1 square.; Slow breathing time. Breathe in for 4 and out for 6 with everyone. Then take 1 oxygen token, if you carry fewer than 4.; Smoky air near a burning rubbish heap. The next time you reach the lungs, pick up oxygen only until you carry 2.; Deep breath in the fresh air of a park. Take 1 oxygen token now, if you carry fewer than 4.; Lub-dub! The valves keep blood moving the right way. Roll again and move on.; The leg muscles are working hard. The next time you reach the legs, give 2 oxygen instead of 1, if you have them.; The brain is thinking hard. The next time you reach the brain, give 2 oxygen instead of 1, if you have them.; You scraped your knee. Platelets plug the cut while it heals. Miss your next turn.; Lunch time! Take 1 food token, if you carry none.; QUESTION: Which side of the heart sends blood to the lungs? Answer right and move 2 extra squares. (back: The right side. The left side sends blood out to the body.); QUESTION: Which gas do your cells make and your blood carries away? Answer right and move 2 extra squares. (back: Carbon dioxide. You breathe it out.); QUESTION: What makes the lub-dub sound? Answer right and move 2 extra squares. (back: The heart's valves, the little flap doors, snapping shut.); QUESTION: Where does your blood pick up oxygen? Answer right and move 2 extra squares. (back: In the lungs, in the tiny air sacs.); QUESTION: Why do you breathe faster when you run? Answer right and move 2 extra squares. (back: Your muscles need more oxygen, so you breathe faster to bring it in.); QUESTION: Name one way to keep your lungs healthy. Answer right and move 2 extra squares. (back: Stay away from smoke, or run and play every day.)
 - **s1 (3 min)**  
-  *Parent does:* 1. Lay the board on the floor. 2. Put the tokens in three piles. 3. Shuffle the body cards. 4. Everyone puts their red cell counter on HEART, RIGHT SIDE.  
+  *Parent does:* 1. Lay the board on a table or the floor. 2. Put the tokens in three piles. 3. Shuffle the body cards and put them face down. 4. Find a dice. 5. Everyone puts their red cell counter on HEART, RIGHT SIDE.  
   *Parent says:* In this game, you are a red blood cell. Your job is to carry oxygen from the lungs to every part of the body. The heart pushes you round and round.  
   *Child mode:* You are a red blood cell! Put your counter on the right side of the heart. Your job is to carry oxygen to the body.
 - **s2 (4 min)**  
-  *Parent does:* Play the first trip slowly together. Follow one counter from the heart to the lungs and back.  
-  *Parent says:* Look. From the right side of the heart, we go first to the lungs. Pick up two oxygen tokens here. Then back to the heart, the left side. Now the heart pushes us out to the body.  
-  *Child mode:* Move from the heart to the lungs. Pick up 2 oxygen. Then go back to the heart. Then out to the body!
+  *Parent does:* Play the first trip slowly together. Follow one counter from the heart to the lungs, fill up with oxygen, and go on to the body.  
+  *Parent says:* Look. From the right side of the heart, we go to the lungs. Fill up with oxygen tokens here, up to four. Then the left side of the heart pushes us out to the body.  
+  *Child mode:* Move from the heart to the lungs. Pick up oxygen until you have 4. Then the heart pushes you out to the body!
   - Check: In The Great Circle, you are a red blood cell leaving the right side of the heart. Where do you go first? → **To the lungs, to pick up oxygen**
 - **s3 (12 min)**  
-  *Parent does:* 1. Take turns rolling and moving. 2. Pick up and drop tokens as the rules say. 3. Read body cards out loud and do what they say.  
-  *Parent says:* Every time you drop oxygen at a body stop, tell us what that part will do with it.  
-  *Child mode:* Take turns. Roll and move. Drop oxygen at the brain and legs. Pick up carbon dioxide. Read the cards out loud.
+  *Parent does:* 1. Take turns rolling and moving. 2. Pick up and give back tokens as the squares say. 3. On a card square, read the card out loud and do what it says. 4. Play until one player has finished 2 laps.  
+  *Parent says:* Every time you give oxygen to a body part, tell us what that part will do with it.  
+  *Child mode:* Take turns. Roll and move. Give oxygen to the brain, arms, tummy and legs. Pick up carbon dioxide. Read the cards out loud.
   - Ask: Why do you drop your carbon dioxide at the lungs? (good: So we can breathe it out.; Because the lungs swap it for oxygen.)
-  - Note: Good answers when dropping oxygen: the leg muscles use it to get energy for running, the brain uses it to think. When a player drops carbon dioxide at the lungs, ask: 'What happens to it now?' (We breathe it out.)
+  - Note: Good answers when giving oxygen: the leg muscles use it to get energy for running, the brain uses it to think. When a player gives up carbon dioxide at the lungs, ask: 'What happens to it now?' (We breathe it out.) Two players take about 10 minutes; with four, let the game run to the end of the round.
 - **s4 (3 min)**  
-  *Parent does:* When a 'You are running!' or 'Scared!' card comes up, stop and do it for real. Run on the spot for 20 seconds and feel your heart.  
+  *Parent does:* When a 'You are running!' card or a 'barking dog' card comes up, stop. Run on the spot for 20 seconds and feel your heart.  
   *Parent says:* This card says we're running. Let's all run on the spot for 20 seconds. Now feel your heart. Is it pushing you round faster?  
   *Child mode:* Run on the spot for 20 seconds. Feel your heart. It pushes the blood round faster when you run.
   - Check: The 'You are running!' card lets you move extra squares. Why is that like real life? → **When you run, the heart pumps faster, so blood goes round faster**
 - **s5 (3 min)**  
-  *Parent does:* 1. Count everyone's points. 2. Then talk about the game.  
-  *Parent says:* Count your oxygen points. Now think. In real life, your red blood cells go round about once every minute. How many trips would that be in a day?  
+  *Parent does:* 1. Add up everyone's points. 2. Then talk about the game.  
+  *Parent says:* Count your points. Now think. In real life, a red blood cell goes round the body about once a minute. How many trips would that be in a day?  
   *Child mode:* Count your points. Who delivered the most oxygen? Real red cells go round about once a minute, all day long!
   - Think: A real red blood cell goes round the body more than a thousand times a day, for about four months. Then a new one takes their place. Is the you of today made of the same blood as the you of last year?
 ### g2 · Chalk Heart Relay (20 min)
-- **rules:** Draw a big figure of eight on the ground with chalk, or lay it out on the floor with a long old sari or string. Mark a heart where the loops cross, lungs at the top loop and a body basket at the bottom loop.; Put a pile of scrunched-up paper balls at the lungs. These are oxygen.; Players are red blood cells. Each trip, they pick up 2 oxygen balls at the lungs, go back through the heart and drop them in the body basket.; They must always go the same way round, through the heart in the middle each time.; The caller draws a card every minute. The card says how fast to move.; Count how many balls reach the body basket in each minute. Write it on the score sheet.
+- **rules:** Draw a big figure of eight on the ground with chalk, or lay it out with string or a long old sari. Mark a heart where the loops cross, lungs at the top loop and a body basket at the bottom loop.; Put a pile of 40 scrunched-up paper balls at the lungs. These are oxygen.; The runners are red blood cells. Each trip, a runner picks up 2 oxygen balls at the lungs, runs through the heart and drops them in the body basket. Then the runner goes back to the lungs through the heart.; The caller draws a card every minute and reads it out. The card says how fast to move, or how many balls to carry. If a card says 1 ball or 3 balls, carry that many on every trip that minute.; At the end of each minute, the caller counts the balls in the basket and writes the number on the score sheet. Then the balls go back to the lungs.; Play 5 minutes (5 cards). Then look at the score sheet together. No one wins. The aim is to see how the speed of the heart changes how much oxygen reaches the body.
 - **Printable cards: 10 caller cards:** SLEEPING: walk slowly on tiptoe; SITTING AND READING: walk normally; WALKING TO THE SHOP: walk fast; PLAYING CRICKET: jog; RUNNING A RACE: run; SCARED BY A DOG: run; SLOW BREATHING: stop and take 3 slow breaths, then walk; CLIMBING STAIRS: jog; SMOKY AIR: carry only 1 ball this trip; FRESH AIR IN A PARK: carry 3 balls this trip
-- **Printable score sheet: Deliveries in 1 minute:** Caller card; Number of oxygen balls delivered in 1 minute
+- **Printable score sheet: Deliveries in 1 minute:** Minute 1. Caller card: ____________ Balls in the basket: ____; Minute 2. Caller card: ____________ Balls in the basket: ____; Minute 3. Caller card: ____________ Balls in the basket: ____; Minute 4. Caller card: ____________ Balls in the basket: ____; Minute 5. Caller card: ____________ Balls in the basket: ____
 - **s1 (5 min)**  
-  *Parent does:* 1. Draw the figure of eight with chalk, or lay it out with an old sari or string, big enough to run round. 2. Mark the heart, lungs and body basket. 3. Make 30 paper balls.  
+  *Parent does:* 1. Draw the figure of eight with chalk, or lay it out with string or an old sari, big enough to run round. 2. Mark the heart, lungs and body basket. 3. Make 40 paper balls. 4. Make the caller cards and the score sheet.  
   *Parent says:* Today you are red blood cells. This chalk shape is the path your blood takes. Top loop, the lungs. Bottom loop, the body. Every trip goes through the heart in the middle.  
   *Child mode:* You are a red blood cell! The top loop goes to the lungs. The bottom loop goes to the body. Always go through the heart in the middle.
 - **s2 (10 min)**  
-  *Parent does:* 1. Draw a caller card. 2. Everyone moves at that speed for one minute. 3. Count the balls in the basket and write it down. 4. Empty the basket back at the lungs. 5. Do 4 or 5 cards.  
+  *Parent does:* 1. The caller draws a card and reads it out. 2. Everyone moves that way for one minute. 3. The caller counts the balls in the basket and writes the number down. 4. Put the balls back at the lungs. 5. Do 5 cards.  
   *Parent says:* Card says: sleeping. Tiptoe round, slowly. Count! Next card: running a race! Go!  
-  *Child mode:* Listen to the card. Move at that speed. Carry 2 oxygen balls each trip. After one minute, count the balls in the basket.
+  *Child mode:* Listen to the card. Move the way it says. Carry 2 oxygen balls each trip, unless the card says otherwise. After one minute, the caller counts the balls in the basket.
   - Check: In the Chalk Heart Relay, more oxygen reached the body basket during the 'running a race' minute than the 'sleeping' minute. Why? → **The red blood cells went round faster, like blood does when the heart beats faster**
 - **s3 (5 min)**  
   *Parent does:* Compare the score sheet numbers. Then feel your own pulses.  
-  *Parent says:* Look at our numbers. Running delivered the most. Now feel your own pulse after all that running. Your real heart did the same thing as our game.  
+  *Parent says:* Look at our numbers. Running delivered the most. Now feel your own pulse after all that running. Your real heart does the same thing as our game.  
   *Child mode:* Look at the numbers. Which minute delivered the most oxygen? Now feel your real pulse. Is it fast?
   - Think: Your heart speeds up even when you feel scared, sitting still. Why might your body get ready to run before you even move?
 
@@ -294,7 +294,6 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 - **question:** Does jumping make my heart beat faster? And how quickly does it slow down again?
 - **predict:** Before you start, guess. How many times will your heart beat in one minute while you sit still? Will it go up or down after one minute of jumping? Why do you think so? Write your guesses down.
 - **fair test:** To make it fair, count the same way every time. Use the same fingers on the same wrist, and count for exactly 30 seconds with a clock. Sit still for 2 minutes before the first count, so your heart is really resting. When resting, count 2 times, because one count can be a mistake. Just after jumping, count only once, because the heart starts slowing straight away.
-- **safety:** If your child has a heart condition or asthma, ask your doctor before the jumping part. Stop at once if anyone feels dizzy, sick or has chest pain. Jump on a mat, not a slippery floor.
 - **record:** Fill in the table. Then draw a bar chart, with one bar for each time you counted. Make each bar as tall as the beats in one minute.
 - **results table:** When we counted | Count 1: beats in 30 seconds | Count 2: beats in 30 seconds | Bigger of the two, doubled: beats in 1 minute
 - **s1 (5 min)**  
@@ -333,14 +332,14 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 ### e2 · The Milky Breath: is breathed-out air different? (25 min, 2 days)
 - **question:** Is the air I breathe out the same as the air in the room?
 - **predict:** Before you test, guess. Air goes into you and comes out again. Do you think it comes out the same, or changed? What might be different, and why do you think so?
-- **fair test:** To make it fair, use two glasses with the same amount of limewater. Push room air through one and breathed-out air through the other, for the same time. Only the kind of air changes.
+- **fair test:** To make it fair, use two glasses with the same amount of limewater. Push about the same amount of air through each: room air through one, breathed-out air through the other. Only the kind of air changes.
 - **safety:** Only a grown-up handles the chuna. It can sting eyes and skin, so never taste it. Wash hands after touching it. Never drink limewater. When blowing through the straw, only blow out. Never suck up.
 - **record:** Draw the two glasses after one minute. Write what was different. Then write what you think, what you saw, and why.
 - **results table:** Glass | What air went in | What it looked like after 1 minute
-- **schedule:** day 1: A grown-up makes the limewater and leaves it covered overnight to settle. Do the cold plate breath test. (10 min); day 2: Pour off the clear limewater. Push room air through one glass and blow your breath through the other. Compare. (15 min)
+- **schedule:** day 1: A grown-up makes the limewater and leaves it covered overnight to settle. Do the cold plate breath test while you wait. (10 min); day 2: Pour off the clear limewater. Push room air through one glass and blow your breath through the other. Compare. (15 min)
 - **s1 (5 min)**  
-  *Parent does:* 1. Take the steel plate out of the fridge. 2. Ask your child to breathe out slowly onto it from close up. 3. Look at the mist.  
-  *Parent says:* Breathe out onto this cold plate. What do you see? What do you think that mist is?  
+  *Parent does:* 1. Put the steel plate in the fridge for 10 minutes (or a bowl of ice water for the plate to sit on). 2. Take it out. 3. Ask your child to breathe out slowly onto it from close up. 4. Look at the mist.  
+  *Parent says:* This plate has been in the fridge. Breathe out onto it. What do you see? What do you think that mist is?  
   *Child mode:* Breathe out onto the cold plate. Do you see a mist? What do you think it is?
   - Ask: Where did the water come from? (good: From inside me.; From my lungs.; From my breath.)
   - Note: Let your child guess first. Breath carries water as an invisible gas, called water vapour. On the cold steel it turns back into tiny drops of water. That is the mist.
@@ -351,10 +350,10 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   - Note: Chuna is slaked lime, which is calcium hydroxide. It is mildly caustic, so keep it away from eyes and wash your hands. Settled limewater looks like clear water. Only the clear top part is used. If the water is still cloudy in the morning, pour it through a clean cotton cloth.
   - Wait: Leave it overnight to settle.
 - **s3 (8 min) · grown-up needed**  
-  *Parent does:* 1. Carefully pour the clear limewater off the top into two glasses, the same amount in each. 2. Push one straw into the mouth of the empty bottle and press a little atta dough round it, so no air leaks. 3. Put the end of that straw in the first glass and squeeze the bottle. Lift the straw out before you let go, so the bottle fills with room air, not limewater. Do this 20 times. 4. Your child blows gently through the second straw into the second glass for about one minute, taking breaths in through the nose.  
+  *Parent does:* 1. Carefully pour the clear limewater off the top into two glasses, the same amount in each. 2. Push one straw into the mouth of the empty 500 ml bottle. Press a little atta dough round it, so no air leaks. 3. Put the end of that straw in the first glass and squeeze the bottle. Lift the straw out before you let go, so the bottle fills with room air, not limewater. Do this 20 to 30 times. 4. Your child blows gently through the second straw into the second glass for about one minute, taking breaths in through the nose.  
   *Parent says:* In this glass we push ordinary room air. In this glass you blow your breath out. Blow gently, only out, never suck. Watch both glasses.  
   *Child mode:* Watch the two glasses. The grown-up pushes room air into one. You blow gently into the other. Only blow out. Never suck.
-  - Note: The breath glass usually turns milky within a minute. The room-air glass stays clear, or goes cloudy only very slowly, because room air has very little carbon dioxide. If your child keeps blowing for several minutes, the milky water can slowly turn clear again. That is normal, so stop once it is milky.
+  - Note: The breath glass usually turns milky within a minute. The room-air glass stays clear, or goes slightly cloudy only after a long time, because room air has very little carbon dioxide. If your child keeps blowing for several minutes, the milky water can slowly turn clear again. That is normal, so stop once it is milky.
   - Check: The glass you breathed into turned milky. The room-air glass stayed clear. What does that tell us? → **Breathed-out air has more carbon dioxide than room air**
 - **s4 (3 min)**  
   *Parent does:* Ask your child where the carbon dioxide came from.  
@@ -369,9 +368,9 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the air I breathe out is different from room air. What I saw: my breath turned limewater milky, but room air did not, and my breath fogged the cold plate. Why: my body uses oxygen and makes carbon dioxide and water, and I breathe them out.
 ### e3 · How Big Is One Breath? The upside-down bottle (35 min)
 - **question:** How much air do I push out in one ordinary breath? And in my biggest breath?
-- **predict:** Before you test, guess. Will one ordinary breath fill a small cup, a big bottle or a bucket? Will your biggest breath be bigger than a grown-up's? Why do you think so?
+- **predict:** Before you test, guess. Will one ordinary breath fill a small cup, a big bottle or a bucket? Will a grown-up's biggest breath be bigger than yours? Why do you think so?
 - **fair test:** To make it fair, everyone uses the same bottle and blows out through the same kind of tube. Each person has their own tube, to keep it clean. Do each kind of breath 2 times, because one try can be a fluke.
-- **safety:** Each person uses their own tube. Wipe up spilled water, so nobody slips. Stop if anyone feels dizzy from big breaths, and sit down.
+- **safety:** Each person uses their own tube. Stop if anyone feels dizzy from big breaths, and sit down.
 - **record:** Fill in the table. Draw a bar chart with one bar for each person's biggest breath.
 - **results table:** Person | Ordinary breath out (ml) | Biggest breath out, try 1 (ml) | Biggest breath out, try 2 (ml)
 - **s1 (8 min)**  
@@ -390,12 +389,12 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   *Child mode:* Breathe out one normal breath into the tube. Read the line. Then take your biggest breath. Blow it all out. Read the line again.
   - Note: An ordinary breath for an 8-year-old is often 150 to 300 ml. The biggest breath out may be 1,000 to 2,000 ml. A grown-up's biggest breath is usually bigger than the bottle. If the bottle fills with air, write 'more than 2,000 ml'.
   - Check: An ordinary breath out pushed the water down to the 200 ml line. Your biggest breath reached 1,500 ml. Which is true? → **You use only a small part of your lungs in an ordinary breath**
-- **s4 (6 min)**  
-  *Parent does:* Test other family members with their own tubes. Make a bar chart of everyone's biggest breath.  
-  *Parent says:* Now let's test the family. Everyone gets their own tube. Who do you think has the biggest breath?  
-  *Child mode:* Test your family. Each person uses their own tube. Draw a bar for each person's biggest breath.
+- **s4 (8 min)**  
+  *Parent does:* Test other people at home, if you have them, each with their own tube. Make a bar chart of everyone's biggest breath.  
+  *Parent says:* Now let's test everyone who wants to try. Everyone gets their own tube. Who do you think has the biggest breath?  
+  *Child mode:* Test other people at home. Each person uses their own tube. Draw a bar for each person's biggest breath.
   - Think: Singers and shehnai players train to make long, steady breaths out. How might a big breath help them?
-- **s5 (4 min)**  
+- **s5 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. First, what you think now. Next, what you saw. Last, why you think it happened.
@@ -403,7 +402,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 
 ## Activities
 ### a1 · Laennec's Paper Tube: make a stethoscope (15 min)
-- **safety:** Never put the tube inside anyone's ear. Hold it just at the opening. Never shout or tap into it.
+- **safety:** Never put the tube inside anyone's ear. Hold it just at the opening.
 - **record:** Write the sound you heard in letters, like 'lub-dub'. Draw where on the chest it was loudest.
 - **s1 (3 min)**  
   *Parent does:* Tell the story of the first stethoscope.  
@@ -419,6 +418,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   *Parent does:* 1. Push the plastic tube onto the funnel spout. 2. Hold the funnel flat on the chest. 3. Your child holds the open end of the tube at the opening of their ear. 4. Try different places on the chest. 5. Then listen to the chest while the grown-up breathes in deeply.  
   *Parent says:* Now the funnel. It catches more sound. Move it around. Where is the heartbeat loudest? Now listen while I take a deep breath.  
   *Child mode:* Hold the tube end at your ear. Do not push it in. Move the funnel around. Where is the heartbeat loudest? Listen to a deep breath too.
+  - Note: No plastic tube? Roll a second paper tube, about 40 cm long, and tape it to the funnel spout. The sound is a little quieter but still clear.
   - Check: Why does the funnel stethoscope sound louder than just your ear in the air? → **The funnel catches the sound from a wide patch and the tube carries it to your ear**
   - Think: Helen Taussig could hardly hear, so she felt heartbeats with her fingers. Can you feel one with your hand flat on someone's chest?
 - **s4 (2 min)**  
@@ -445,7 +445,6 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   *Child mode:* Hand on your tummy. Breathe in as you pull down. Breathe out as you push up. Can you feel your own breathing muscle?
   - Think: In what ways is the model not like a real chest? Real lungs have ribs around them, and there are two of them.
 ### a3 · Squeeze Like a Heart (10 min)
-- **safety:** Stop if your hand hurts.
 - **record:** Write how many squeezes you managed, and how your hand felt after one minute.
 - **s1 (5 min)**  
   *Parent does:* 1. Give your child the ball. 2. Watch the clock. 3. Say 'squeeze' once every second for one minute, while they squeeze hard each time.  
@@ -459,14 +458,14 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   - Check: Your hand got tired after one minute of squeezing. Why doesn't your heart get tired the same way? → **Heart muscle is special: it rests between every beat and has lots of blood bringing it oxygen**
   - Think: Your heart beats more than 100,000 times a day. How many times has it beaten since you woke up today?
 ### a4 · The Pulse Watcher: see your heartbeat (10 min)
-- **safety:** Use a toothpick with a blunted tip. Do not use a match with a head on it.
+- **safety:** Keep the pointed end of the toothpick away from eyes and skin.
 - **record:** Draw your wrist with the pulse watcher on it. Write how many ticks you counted in 30 seconds.
 - **s1 (5 min)**  
   *Parent does:* 1. Rest your child's arm flat on a table, palm up. 2. Find the pulse. 3. Press the dough ball gently onto that spot. 4. Stand the toothpick straight up in it. 5. Keep the arm very still.  
   *Parent says:* Watch the toothpick. Every little tick is your heart pushing blood into the artery under it.  
   *Child mode:* Rest your arm on the table, palm up. Put the dough ball on your pulse. Stand the toothpick in it. Keep still. Watch it tick!
   - Ask: Is the ticking steady, like a clock? (good: Yes, mostly.; It goes a bit faster sometimes.)
-  - Note: It may take a few tries to find the right spot. Move the dough a little if the toothpick does not tick. A longer stick, like a broom straw, shows the tick more clearly.
+  - Note: It may take a few tries to find the right spot. Move the dough a little if the toothpick does not tick. A longer stick, like a broom straw, shows the tick more clearly. On some wrists the tick is too small to see. If so, just feel the pulse with your fingers and skip the toothpick.
 - **s2 (5 min)**  
   *Parent does:* 1. Count the ticks for 30 seconds. 2. Then ask your child to take a slow, deep breath in, and watch. 3. Then a long slow breath out.  
   *Parent says:* Count the ticks for 30 seconds. Now breathe in slowly and watch. Now breathe out slowly. Do the ticks change?  
@@ -474,15 +473,14 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   - Check: The toothpick ticks once every heartbeat. What is making it move? → **The artery under the skin bulging each time the heart pushes blood**
   - Think: Many people's heart speeds up a tiny bit on the breath in, and slows a tiny bit on the breath out. Did yours?
 ### a5 · Cooling Cloud: slow breath, slow heart (10 min)
-- **safety:** Breathe gently. If your child feels dizzy, stop and breathe normally.
 - **record:** Write your pulse before and after the slow breathing. Draw how you felt before and after.
 - **s1 (3 min)**  
   *Parent does:* 1. Sit together on the floor. 2. Count your child's pulse for 30 seconds and write it down.  
   *Parent says:* First, let's count your pulse as it is now.  
   *Child mode:* Sit down. Count your pulse for 30 seconds. Write it down.
 - **s2 (4 min)**  
-  *Parent does:* 1. Ask your child to put one hand on their belly. 2. Count slowly: in 2, 3, 4. Out, 2, 3, 4, 5, 6. 3. Do this ten times.  
-  *Parent says:* Hand on your belly. Breathe in through your nose, 2, 3, 4. Feel your belly rise like a cloud. Now blow out slowly through your mouth, like cooling hot soup, 2, 3, 4, 5, 6.  
+  *Parent does:* 1. Ask your child to put one hand on their belly. 2. Count slowly: breathe in, 1, 2, 3, 4. Breathe out, 1, 2, 3, 4, 5, 6. 3. Do this ten times.  
+  *Parent says:* Hand on your belly. Breathe in through your nose, 1, 2, 3, 4. Feel your belly rise like a cloud. Now blow out slowly through your mouth, like cooling hot soup, 1, 2, 3, 4, 5, 6.  
   *Child mode:* Hand on your belly. Breathe in for 4. Feel it rise. Blow out slowly for 6, like cooling hot soup. Do it ten times.
   - Note: This is the 'Cooling Cloud' breath. The long breath out is the important part. It gently slows the heart through a nerve that runs from the brain to the heart.
 - **s3 (3 min)**  
@@ -498,33 +496,32 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   *Parent does:* 1. Pour kidney beans into the jar until it is a little less than half full. 2. Add one white chickpea. 3. Sprinkle in a pinch of sesame seeds. 4. Pour in the pale yellow water until the jar is nearly full.  
   *Parent says:* Blood looks like just a red liquid. But it's really a crowd of tiny things floating in a yellow liquid. Let's build it. The yellow water is plasma. The kidney beans are red blood cells. The single chickpea is a white blood cell. The sesame seeds are platelets.  
   *Child mode:* Pour lots of kidney beans into the jar. They are red blood cells. Add one chickpea. That is a white blood cell. Sprinkle a few sesame seeds. They are platelets. Pour in yellow water. That is plasma.
-  - Note: In real blood, a little under half is red cells and a little over half is plasma. For every 600 to 700 red cells, there is about one white cell, so there is only one chickpea. There is about one platelet for every 20 red cells, so about 20 sesame seeds suit a cup of kidney beans.
+  - Note: In real blood, a little under half is red cells and a little over half is plasma. For every 600 to 700 red cells, there is about one white cell, so there is only one chickpea. There is about one platelet for every 20 red cells, so about 20 sesame seeds suit a cup of kidney beans. In this model only the numbers match real blood: a real white cell is bigger than a red cell, but a chickpea is smaller than a kidney bean.
 - **s2 (5 min)**  
   *Parent does:* Go through the job of each part.  
   *Parent says:* The red cells carry oxygen. The plasma carries food and water. The white cell fights germs. The platelets stick together to plug a cut.  
   *Child mode:* Red cells carry oxygen. Plasma carries food and water. White cells fight germs. Platelets plug cuts.
   - Check: Why are there so many kidney beans and only one chickpea in our blood jar? → **Blood has hundreds of red cells for every white cell**
 - **s3 (4 min)**  
-  *Parent does:* Stir the jar, then leave it still for a minute. Watch the beans sink.  
-  *Parent says:* Look. The beans sink to the bottom and the yellow water stays on top. Real blood does this too. In a hospital, blood is kept in a tube with a medicine that stops it clotting. Left standing for a few hours, its red cells sink and the yellow plasma stays on top.  
-  *Child mode:* Stir the jar and leave it still. Watch the beans sink. Blood in a tube does this too.
+  *Parent does:* Stir the jar, then leave it still for a minute. Watch the beans drop to the bottom.  
+  *Parent says:* Look. The beans drop to the bottom at once and the yellow water stays on top. Real blood does this too, but much more slowly. In a hospital, blood is kept in a tube with a medicine that stops it clotting. Left standing for a few hours, its red cells sink and the yellow plasma stays on top.  
+  *Child mode:* Stir the jar and leave it still. Watch the beans drop. Blood in a tube does this too, but it takes hours.
   - Think: Why do you think your blood doesn't settle like this inside you?
 
 ## Projects
 ### p1 · Our Family Heart Map (60 min, 3 days)
-- **safety:** Only count pulses of people who say yes. Grandparents and anyone with a heart condition should not do the stair part.
 - **record:** Make a table of each person's name, age, resting pulse, pulse after stairs, and breaths per minute. Then draw a bar chart poster.
-- **schedule:** day 1: Count the resting pulse and breaths per minute of everyone at home who agrees. Write their ages. (20 min); day 2: Count pulses again after climbing one floor of stairs or walking fast for 2 minutes, for those who can. Count a sleeping person's breaths. (15 min); day 3: Make a big bar chart poster of everyone's resting pulse. Look for a pattern with age. Share it at dinner. (25 min)
+- **schedule:** day 1: Count the resting pulse and breaths per minute of everyone at home who agrees. Write their ages. (20 min); day 2: Count pulses again after climbing one floor of stairs or walking fast for 2 minutes, for those who can and want to. Count a sleeping person's breaths. (15 min); day 3: Make a big bar chart poster of everyone's resting pulse. Look for a pattern with age. Share it at dinner. (25 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Make a table with columns: name, age, resting pulse, pulse after stairs, breaths per minute. 2. For each person who agrees, let them sit for 2 minutes. 3. Your child counts their pulse for 30 seconds and doubles it. 4. Then count their breaths for one minute by watching their chest. Do not tell them you are counting breaths, because people breathe differently when they know they are watched.  
   *Parent says:* You're going to be the family's heart doctor. Ask each person politely if you may count their pulse. Then sit them down for two minutes first.  
   *Child mode:* Ask each person if you may count their pulse. Let them sit for 2 minutes. Count for 30 seconds. Double it. Write it down.
   - Note: Typical resting pulses: a baby may be 100 to 160, a child 70 to 110, a grown-up 60 to 100. Very fit people can be lower. A breath is one rise and one fall of the chest.
 - **s2 (15 min)**  
-  *Parent does:* 1. Those who can, climb one floor of stairs or walk fast for 2 minutes. 2. Count their pulse straight after. 3. At bedtime, quietly count a sleeping person's breaths for one minute.  
+  *Parent does:* 1. Those who can and want to, climb one floor of stairs or walk fast for 2 minutes. 2. Count their pulse straight after. 3. At bedtime, quietly count a sleeping person's breaths for one minute.  
   *Parent says:* Today we see how much each heart speeds up. And tonight, let's count someone's breathing while they sleep.  
   *Child mode:* Count pulses again after stairs. Tonight, quietly count a sleeping person's breaths for one minute.
-  - Check: Your little brother breathes 24 times a minute asleep. Your mother breathes 14 times. What is the most likely reason? → **Younger, smaller people usually breathe faster**
+  - Check: A toddler breathes 24 times a minute asleep. A grown-up breathes 14 times a minute asleep. What is the most likely reason? → **Younger, smaller people usually breathe faster**
   - Wait: Do this on the second day.
 - **s3 (25 min)**  
   *Parent does:* 1. Draw a bar chart poster with one bar for each person's resting pulse. 2. Put the people in order of age. 3. Look for a pattern. 4. Share the poster at dinner and ask everyone what they notice.  
@@ -579,46 +576,42 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
   *Parent does:* Read the usual and creative ideas, then build a new design and test it.  
   *Parent says:* Here are some other ideas. Can you invent a better one and beat your best score?  
   *Child mode:* Look at the other ideas. Invent your own. Can it beat your best score?
-  - Think: Helen Taussig felt heartbeats with her fingers instead of her ears. Could you design a tool for someone who cannot hear?
+  - Think: A doctor who cannot hear well still needs to know about the heart. What could they use instead of their ears?
 
 ## Worksheets
-### Heart and Breath Detective (core) (core, 16 questions)
-1. (mcq) Farhan, a boy in Class 3, says, 'My heart is on the left side of my chest, because I feel it beat there.' His sister Meenakshi says it is nearer the middle. Who is right?  
+### Heart and Breath Detective (core) (core, 15 questions)
+1. (mcq) Farhan, a boy in Class 3, says, 'My heart is on the left side of my chest, because I feel it beat there.' His sister Meenakshi, a girl in Class 4, says it is nearer the middle. Who is right?  
    Options: Meenakshi. The heart sits in the middle, tipped a little, so the strongest beat is felt on the left. / Farhan. The whole heart is on the left side. / Neither. The heart is on the right side. / Neither. The heart is in the tummy.  
    **Answer:** Meenakshi. The heart sits in the middle, tipped a little, so the strongest beat is felt on the left.. *Why:* The heart sits in the middle of the chest, between the two lungs. Its bottom tip points to the left, and that is where the beat feels strongest. That is why so many people think the whole heart is on the left.
 2. (fill) Blood goes away from the heart in tubes called ____. It comes back in tubes called ____.  
    **Answer:** ['arteries', 'veins']. *Why:* Arteries carry blood away from the heart. Veins carry it back. A way to remember: Artery and Away both start with A.
 3. (write) Why do you breathe faster when you run? Use the word oxygen in your answer.  
    **Answer:** When I run, my muscles work hard. They need more oxygen to get energy from food. So I breathe faster to get more oxygen in, and my heart beats faster to carry it to my muscles.. *Why:* A strong answer links the muscles' need for oxygen to both faster breathing and a faster heart.
-4. (truefalse) Your lungs have their own muscles that suck air in.  
-   **Answer:** False. *Why:* False. Many people think we suck air in. But lungs cannot move by themselves. The diaphragm under them tightens and moves down to make room, and the air outside pushes in.
-5. (mcq) A girl looks at the veins on her wrist. She says, 'The blood in my veins is blue. It turns red when it touches air.' What is wrong with her idea?  
-   Options: Blood is always red. Blood in veins is darker red, and veins only look blue through skin. / Nothing. Blood in veins is blue. / Blood is green until it leaves the body / Veins have no blood in them  
-   **Answer:** Blood is always red. Blood in veins is darker red, and veins only look blue through skin.. *Why:* Blood coming back to the heart has given away some oxygen, so it is darker red, like beetroot juice. Light shining through skin makes the veins look blue. Blood taken from a vein at a clinic is dark red, even before air touches it.
-6. (mcq) In the jumping heart experiment, Kavya, a girl in Class 3, counted 40 beats in 30 seconds while sitting still. How many is that in one minute?  
-   Options: 40 / 80 / 70 / 20  
-   **Answer:** 80. *Why:* One minute is two lots of 30 seconds, so double 40. 40 + 40 = 80. Picking 20 usually means halving instead of doubling.
-7. (sort) Sort these. Do they make your heart beat FASTER or SLOWER?  
-   **Answer:** running a race → Faster; sleeping → Slower; being scared by a loud bang → Faster; slow breathing in for 4, out for 6 → Slower; climbing stairs → Faster; sitting and reading → Slower. *Why:* Moving hard and feeling scared or excited speed the heart up. Rest, sleep and slow breathing slow it down.
-8. (match) Match each part to its job.  
+4. (sort) Sort these. Compared with sitting still, do they make your heart beat FASTER or SLOWER?  
+   **Answer:** running a race → Faster; sleeping → Slower; being scared by a loud bang → Faster; slow breathing in for 4, out for 6 → Slower; climbing stairs → Faster; lying down and resting → Slower. *Why:* Moving hard and feeling scared or excited speed the heart up. Rest, sleep and slow breathing slow it down.
+5. (match) Match each part to its job.  
    **Answer:** Heart → pumps blood; Lungs → let oxygen into the blood; Diaphragm → tightens and moves down to help you breathe in; Windpipe → carries air down to the lungs; Blood → carries oxygen and food to every cell. *Why:* Each part has one main job in moving blood and air. They only work as a team.
-9. (mcq) Why should you feel your pulse with your fingers, not your thumb?  
-   Options: Your thumb has its own pulse, which can confuse you / Thumbs are too short / Thumbs cannot feel anything  
+6. (fill) The two bottom chambers of the heart, which squeeze blood out, are called ____.  
+   **Answer:** ['ventricles']. *Why:* The two top chambers, the atria, take blood in. The two bottom chambers, the ventricles, squeeze it out.
+7. (mcq) Why should you feel your pulse with your fingers, not your thumb?  
+   Options: Your thumb has its own pulse, which can confuse you / Thumbs are too short / Thumbs are too big to press on a wrist  
    **Answer:** Your thumb has its own pulse, which can confuse you. *Why:* Your thumb has an artery in it with its own pulse. You might count your own thumb's beat instead of the wrist's. Fingers work better.
-10. (draw) Draw a heart in the middle of a body outline. Draw red arrows to show blood going out to the head, the arms and the legs, and coming back.  
+8. (draw) Draw a heart in the middle of a body outline. Draw red arrows to show blood going out to the head, the arms and the legs, and coming back.  
    **Answer:** Arrows go out from the heart to the head, arms and legs, and other arrows come back to the heart, making loops.. *Why:* Blood always goes out from the heart and comes back to it. That is why it is called circulation, from the word circle.
-11. (label) Label the picture: windpipe, lungs, diaphragm, heart.  
+9. (label) Label the picture: windpipe, lungs, diaphragm, heart.  
    **Answer:** The windpipe is the tube at the top. The two lungs are on each side. The heart is between them, in the middle. The diaphragm is the dome muscle underneath.. *Why:* The heart sits between the lungs. The diaphragm is under them both. The windpipe carries air down to the lungs.
-12. (perspective) Is it bad for a child to run until they are out of breath? Three people give different answers.  
+10. (truefalse) Blood leaves your heart, goes round your body and comes back to your heart again. It is the same blood going round and round.  
+   **Answer:** True. *Why:* True. Blood does not get used up. It drops off oxygen and food, picks up waste, and comes back to the heart to be sent round again.
+11. (perspective) Is it bad for a child to run until they are out of breath? Three people give different answers.  
    **Answer:** A strong answer picks a side and uses evidence, such as 'my pulse went up to 140 after jumping, but it came back down within two minutes'. It then admits a fair point, for example that the grandmother is right to want rest when something feels wrong.. *Why:* Doctors agree that exercise is good for a healthy heart, and that a heart that speeds up and then slows down is working well. The grandmother's worry is a kind one, and the teacher's rule of listening to your body fits both views.
-13. (write) In the jumping heart experiment, your pulse was fast just after jumping. Then you rested for 2 minutes. What happened to your pulse? Why do you think so?  
+12. (write) In the jumping heart experiment, your pulse was fast just after jumping. Then you rested for 2 minutes. What happened to your pulse? Why do you think so?  
    **Answer:** For example: it went from 140 back down to 95. My muscles stopped working hard, so they needed less oxygen. So my heart did not need to pump so fast.. *Why:* A strong answer uses the child's own numbers and explains the slowing down by the muscles needing less oxygen.
-14. (fill) We breathe in a gas called ____. We breathe out more of a gas called ____.  
+13. (fill) We breathe in a gas called ____. We breathe out more of a gas called ____.  
    **Answer:** ['oxygen', 'carbon dioxide']. *Why:* We take in oxygen, which every cell needs. We breathe out carbon dioxide, the waste gas that cells make.
-15. (mcq) Your heart keeps beating even when you are fast asleep. Why does it need to?  
+14. (mcq) Your heart keeps beating even when you are fast asleep. Why does it need to?  
    Options: Every part of you still needs oxygen while you sleep / So you can dream / To keep the bed warm / It doesn't. It stops at night.  
    **Answer:** Every part of you still needs oxygen while you sleep. *Why:* Your cells keep working all night: your brain, your gut, your growing bones. They all need oxygen and food, so the heart keeps pumping. It only slows down a little.
-16. (truefalse) Smoke from a fire, a cigarette or burning rubbish can harm your lungs, even if you are not the one smoking and only breathe in smoke from someone near you.  
+15. (truefalse) Smoke from a fire, a cigarette or burning rubbish can harm your lungs, even if you are not the one smoking and only breathe in smoke from someone near you.  
    **Answer:** True. *Why:* True. Smoke carries tiny bits that get stuck deep in the air sacs. They make it harder for oxygen to get into the blood. That is why we stay away from smoke.
 ### Two Circles and a Great Swap (stretch) (stretch, 16 questions)
 1. (mcq) A drop of blood leaves the right side of your heart. Where does it go first?  
@@ -696,13 +689,13 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
    **Answer:** Count each time twice, because one count can be a mistake. Sit the same way the whole time, and rest first so the pulse is steady. Also try sitting for the same time with ordinary breathing, to see if just sitting slows the heart too.. *Why:* A strong answer repeats the counts, keeps everything else the same, and compares with ordinary breathing, so she knows it was the slow breathing that made the difference.
 15. (write) A person loses a lot of blood in an accident. Predict what happens to their heartbeat and breathing. Explain why.  
    **Answer:** Both speed up. With less blood, less oxygen reaches the cells in each beat. So the heart beats faster to move the blood that is left more often, and breathing gets faster to fill it with oxygen.. *Why:* A strong answer uses the idea that the body must keep oxygen reaching every cell, and links that to both the heart and the lungs.
-16. (write) In the jumping heart experiment, Revathi, a girl in Class 4, had a pulse of 80 sitting, 140 just after jumping, and 95 after 2 minutes of rest. Her mother's was 70, 120, then 72. Whose heart got back to resting faster? What might that tell you?  
+16. (write) In the jumping heart experiment, Revathi, a girl in Class 3, had a pulse of 80 sitting, 140 just after jumping, and 95 after 2 minutes of rest. Her mother's was 70, 120, then 72. Whose heart got back to resting faster? What might that tell you?  
    **Answer:** Her mother's. It came back to 72, only 2 above her start. Revathi's was still 15 above hers. A heart that slows down quickly after exercise is often a fit, strong heart. Or her mother may have jumped less hard.. *Why:* A strong answer compares each person with their own starting number, not with each other, and gives a possible reason, including that the test may not have been the same for both.
 
 ## Videos
-- **How the heart actually pumps blood** (TED-Ed, 5 min) id `ruM4Xxhx32U`: A clear animation of the four chambers of the heart, the valves and the two loops of blood. Good for the parent and older children. *Check:* Found by YouTube search: "How the heart actually pumps blood - Edmond Hui" by TED-Ed. Title checked automatically; a parent may still preview it.
-- **How do lungs work?** (TED-Ed, 5 min) id `8NUxvJS-_0k`: Shows the diaphragm, the branching tubes and the air sacs, and how oxygen passes into the blood. *Check:* Found by YouTube search: "How do lungs work? - Emma Bryce" by TED-Ed. Title checked automatically; a parent may still preview it.
-- **Operation Ouch: the heart** (Operation Ouch (CBBC), 6 min) id `DB5HxSPGVp0`: Two doctors, who are twins, show the heart and pulse with fun experiments made for children. *Check:* Found by YouTube search: "Operation Ouch - The Heart | Amazing Body Facts for Kids" by Operation Ouch. Title checked automatically; a parent may still preview it.
+- **How the heart actually pumps blood** (TED-Ed, 5 min) id `ruM4Xxhx32U`: A clear animation of the four chambers of the heart, the valves and the two loops of blood. Good for the parent and older children. *Check:* A parent may still preview it first.
+- **How do lungs work?** (TED-Ed, 5 min) id `8NUxvJS-_0k`: Shows the diaphragm, the branching tubes and the air sacs, and how oxygen passes into the blood. *Check:* A parent may still preview it first.
+- **Operation Ouch: the heart** (Operation Ouch (CBBC), 6 min) id `DB5HxSPGVp0`: Two doctors, who are twins, show the heart and pulse with fun experiments made for children. *Check:* A parent may still preview it first.
 
 ## Quiz
 1. (mcq) What is the heart?  
@@ -711,46 +704,43 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 2. (mcq) Where does blood go after it leaves the heart?  
    Options: Round the body and back to the heart / Out of the body / Into the stomach to be used up / It stays in the heart  
    **Answer:** Round the body and back to the heart. *Why:* Blood goes round in a loop and always comes back to the heart. Picking 'used up' was Galen's old idea, which William Harvey showed was wrong.
-3. (mcq) Meenakshi, a girl in Class 3, counted her pulse for 15 seconds and got 22 beats. About how many beats is that in one minute?  
+3. (mcq) Nandini, a girl in Class 3, counted her pulse for 15 seconds and got 22 beats. About how many beats is that in one minute?  
    Options: 88 / 44 / 22 / 37  
    **Answer:** 88. *Why:* One minute is four lots of 15 seconds. 22 + 22 + 22 + 22 = 88. Picking 44 means doubling, which gives only 30 seconds.
-4. (mcq) In the jumping heart experiment, when was the pulse fastest?  
-   Options: Sitting still / Just after jumping / After 2 minutes of rest  
-   **Answer:** Just after jumping. *Why:* Just after jumping, the muscles needed the most oxygen, so the heart beat fastest. Picking 'after rest' usually means thinking the heart keeps speeding up after you stop. It starts slowing straight away.
-5. (mcq) Why do we count the pulse two times?  
+4. (mcq) Why do we count the pulse two times?  
    Options: Because one count can be a mistake / Because we have two wrists / To make the heart beat faster / Because it is the rule  
    **Answer:** Because one count can be a mistake. *Why:* Anyone can lose count once. Two counts that agree make us more sure. Picking 'two wrists' is a funny guess, but we count on the same wrist both times.
-6. (mcq) What happens when your diaphragm tightens and moves down?  
+5. (mcq) What happens when your diaphragm tightens and moves down?  
    Options: Your chest gets bigger and air flows into your lungs / Air is pushed out / Your heart stops / Food goes down  
    **Answer:** Your chest gets bigger and air flows into your lungs. *Why:* When the diaphragm moves down, it makes room in your chest, and air pushes in to fill it. Picking 'air is pushed out' is the opposite: that happens when it relaxes and goes up.
-7. (mcq) How do you breathe out?  
+6. (mcq) How do you breathe out?  
    Options: The diaphragm relaxes and moves up, the chest gets smaller, and air is pushed out / The lungs suck the air out / The heart blows the air out / Air leaks out through the skin  
    **Answer:** The diaphragm relaxes and moves up, the chest gets smaller, and air is pushed out. *Why:* When the diaphragm relaxes, it goes back up like a dome. The chest gets smaller, and the air inside is squeezed out. Lungs do not move by themselves.
-8. (mcq) A girl cut her knee. After a few minutes it stopped bleeding. Which part of her blood did that?  
+7. (mcq) A girl cut her knee. After a few minutes it stopped bleeding. Which part of her blood did that?  
    Options: Platelets, which stick together to plug the cut / Red blood cells, which carry oxygen / Plasma, the watery part / Oxygen  
    **Answer:** Platelets, which stick together to plug the cut. *Why:* Platelets are tiny pieces that stick together at a cut and help make a scab. Red blood cells carry oxygen. Plasma carries food and waste.
-9. (mcq) Blood from a clinic is left standing in a tube. A yellow, watery part rises to the top. What is it?  
+8. (mcq) Blood from a clinic is left standing in a tube. A yellow, watery part rises to the top. What is it?  
    Options: Plasma, which carries food, water and waste / Oxygen / White blood cells / Fat from food  
    **Answer:** Plasma, which carries food, water and waste. *Why:* Plasma is the yellow, watery part of blood. The red cells are heavier and sink. Plasma carries food, water and waste round the body.
-10. (mcq) You feel scared, and your heart starts pounding even though you are sitting still. Why?  
+9. (mcq) You feel scared, and your heart starts pounding even though you are sitting still. Why?  
    Options: Your body is getting ready to run, just in case / Your heart is broken / You forgot to breathe / Sitting makes the heart fast  
    **Answer:** Your body is getting ready to run, just in case. *Why:* Fear gets the body ready for action. The heart speeds up to send more oxygen to the muscles. Picking 'heart is broken' comes from words like 'heartbroken', but a pounding heart is healthy.
-11. (mcq) Which is the best way to calm a fast heart?  
+10. (mcq) Which is the best way to calm a fast heart?  
    Options: Slow breathing, with a long breath out / Holding your breath as long as you can / Running faster / Shouting  
    **Answer:** Slow breathing, with a long breath out. *Why:* A long, slow breath out sends a calming message to the heart. Holding your breath as long as you can is not a good idea. It can make you feel worse.
-12. (mcq) Which of these is good for your heart and lungs?  
+11. (mcq) Which of these is good for your heart and lungs?  
    Options: Playing and running every day / Breathing smoke / Sitting all day / Never getting out of breath  
    **Answer:** Playing and running every day. *Why:* Exercise makes the heart and lungs strong. Smoke harms them. Getting out of breath while playing is good for you.
-13. (mcq) Who showed in 1628 that blood goes round and round the body?  
+12. (mcq) Who showed in 1628 that blood goes round and round the body?  
    Options: William Harvey / Galen / René Laennec / Aristotle  
    **Answer:** William Harvey. *Why:* William Harvey counted, measured and tested, and showed that blood circulates. Galen believed blood was made and used up. Laennec invented the stethoscope much later, in 1816.
-14. (mcq) Ibn al-Nafis, a doctor in Cairo about 780 years ago, said something new. What was it?  
+13. (mcq) Ibn al-Nafis, a doctor in Cairo about 780 years ago, said something new. What was it?  
    Options: Blood goes from the heart to the lungs and back / The heart is where we think / Blood is blue / The lungs pump blood  
    **Answer:** Blood goes from the heart to the lungs and back. *Why:* He said blood goes from the right side of the heart, through the lungs, to the left side. He was right, centuries before others.
-15. (mcq) You breathe out carbon dioxide. Where might it go next?  
+14. (mcq) You breathe out carbon dioxide. Where might it go next?  
    Options: Into a plant, who takes in carbon dioxide through their leaves to make food in sunlight / Back into your lungs for ever / Into the ground, where it turns to stone / Nowhere. It disappears.  
    **Answer:** Into a plant, who takes in carbon dioxide through their leaves to make food in sunlight. *Why:* Plants take in carbon dioxide and use it, with sunlight and water, to make their food. They give out oxygen, which people and animals breathe in. So we share air with plants.
-16. (mcq) Where does most of the oxygen in the air come from?  
+15. (mcq) Where does most of the oxygen in the air come from?  
    Options: Plants on land and tiny algae in the sea / Cars / Our lungs / Rocks  
    **Answer:** Plants on land and tiny algae in the sea. *Why:* Plants and tiny algae in the sea give out oxygen when they make food in sunlight. Scientists estimate about half comes from the sea. Our lungs only take oxygen in.
 
@@ -796,8 +786,8 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 - Where did the breath you just breathed out go?
 - Who made the oxygen you are breathing at this table?
 - Why do you think you yawn when you are tired?
-- Your heart is about the size of your fist. Whose fist is biggest at home? Whose heart is biggest?
-- When we climbed those stairs, what did your heart and breath do?
+- Your heart is about the size of your fist. Is a grown-up's heart bigger than yours? How could you guess?
+- After you climb a flight of stairs, what do your heart and breath do?
 - Can you breathe so slowly that a feather in front of your nose does not move?
 - Why do you think a doctor listens to your back as well as your chest?
 - If you could shrink and ride a red blood cell, where would you go first?
@@ -805,26 +795,15 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 
 ## Jokes
 - Why did the heart go to school? *It wanted to learn something by heart.*
-- What did one lung say to the other? *We should stick together, we're a good pair.*
-- Why did the red blood cell never get lost? *It always went round in circles.*
 - What music does a heart like best? *Anything with a good beat.*
-- Why was the doctor's stethoscope so calm? *It always knew how to listen.*
 - Why did the vein feel left out? *Everyone said it looked a bit blue.*
 - What do you call a sneezing heart? *A heart-choo.*
 - Why did the diaphragm go to the party? *It wanted to take a breather.*
-- What did the heart say to the valve? *Don't let me down. And don't let me back!*
 - Why did the lungs win the singing contest? *They had the best air time.*
 - What did the heart say after the race? *I'm feeling really pumped!*
-- Why did the oxygen go to the lungs? *It heard the blood was giving free rides.*
 - Why did the pulse go to the wrist? *It wanted to be handy.*
-- What is a heart's favourite game? *Pump-and-seek.*
-- Why was the windpipe so organised? *It kept everything in rings.*
-- What did the blood say after one minute? *Back again! Did you miss me?*
-- Why did the carbon dioxide leave the party early? *It knew it was being breathed out.*
-- Why did the platelet become a builder? *It was good at patching things up.*
-- What do lungs do on holiday? *They take a deep breath and relax.*
+- Why did the platelet become a builder? *Platelets are good at patching things up.*
 - Why did the heart refuse to play cards? *It didn't want to skip a beat.*
-- Why did the air sac love its job? *Every day was a breath of fresh air.*
 
 ## Connected maths
 - In the jumping heart experiment, Meera, a girl in Class 3, counted 42 heartbeats in 30 seconds while sitting still. How many heartbeats is that in one minute? **84 heartbeats in one minute.**. One minute is 60 seconds. That is two lots of 30 seconds. So Meera's heart beat 42 times, and then 42 times again. 42 + 42 = 84. Another way: 40 + 40 = 80, and 2 + 2 = 4, so 84. (queues `math.multiplication.equal-groups.L3`)
@@ -850,13 +829,12 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A hands-on science centre. Phone ahead to ask about exhibits on health and the human body.
 
 ## Things to buy
-- [A simple digital stopwatch](https://www.amazon.in/s?k=digital+stopwatch) (tool): For counting pulses and breaths for exactly 30 seconds or one minute. A phone works too. Used in e1, a3, a5, p1. Used again in Time units and in Forces L3 for timing.
+- [A simple digital stopwatch](https://www.amazon.in/s?k=digital+stopwatch) (tool): For counting pulses and breaths for exactly 30 seconds or one minute. A phone works too. Used in e1, a3, a5, p1. 
 - [Clear plastic tubing, about 2 metres, 6 to 10 mm wide, sold at hardware and aquarium shops](https://www.amazon.in/s?k=clear+pvc+tube+8mm) (material): Cut into pieces of about 50 cm. For the funnel stethoscope, the stethoscope challenge and the upside-down bottle breath test. Used in a1, c2, e3. 
 - [A packet of balloons](https://www.amazon.in/s?k=balloons+pack) (material): For the bottle lung model and for valve flaps in the one-way pump challenge. Used in a2, c1. 
-- [A 1-litre measuring jug with millilitre marks](https://www.amazon.in/s?k=measuring+jug+1+litre) (tool): For marking the bottle in the breath test, every 100 ml. Used in e3. Used again in capacity units in maths.
-- [A real stethoscope for children](https://www.amazon.in/s?k=stethoscope+for+kids) (tool): Hearing a heartbeat clearly through a real stethoscope is a thrill, and lets you compare it with your home-made ones. Used in a1, c2. 
-- [Hear Your Heart, by Paul Showers (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=Hear+Your+Heart+Paul+Showers) (book): A gentle picture book on the heartbeat, the pulse and listening with a tube. Used in a1. Read it aloud on the day of the stethoscope activity.
-- [The Heart: Our Circulatory System, by Seymour Simon](https://www.amazon.in/s?k=Seymour+Simon+The+Heart) (book): Big, real photographs of the heart and blood, with clear text for curious older children. Used in g1. Read a few pages after playing The Great Circle, to see real pictures of what the game shows.
+- [A 1-litre measuring jug with millilitre marks](https://www.amazon.in/s?k=measuring+jug+1+litre) (tool): For marking the bottle in the breath test, every 100 ml. Used in e3. 
+- [Hear Your Heart, by Paul Showers (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=Hear+Your+Heart+Paul+Showers) (book): A gentle picture book on the heartbeat, the pulse and listening with a tube. Used in a1. 
+- [The Heart: Our Circulatory System, by Seymour Simon](https://www.amazon.in/s?k=Seymour+Simon+The+Heart) (book): Big, real photographs of the heart and blood, with clear text for curious older children. Used in g1. 
 
 ## Warm-up
 - Your heart is about the size of your ____. → Fist.
@@ -866,7 +844,6 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - What muscle under your lungs helps you breathe in? → The diaphragm.
 - What makes the lub-dub sound? → The heart's valves, its little flap doors, snapping shut.
 - True or false: blood in your veins is blue. → False. Blood is always red. It is darker red in veins.
-- You counted 45 beats in 30 seconds. How many in a minute? → 90. Double 45.
 - What do red blood cells carry? → Oxygen.
 - Who showed in 1628 that blood goes round and round? → William Harvey.
 - Where in your lungs does oxygen pass into your blood? → In the tiny air sacs, called alveoli.

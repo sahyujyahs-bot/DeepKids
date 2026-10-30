@@ -32,7 +32,7 @@
 - **Birth**: The moment the baby comes out of the mother's body into the world. *e.g.* Most babies are born after about nine months, or 40 weeks.
 - **Contraction**: When the muscles of the womb squeeze tight and then relax. Contractions slowly push the baby out at birth. *e.g.* It is a bit like squeezing toothpaste out of a tube, slowly, many times.
 - **Caesarean birth**: A way of being born where doctors carefully open the mother's tummy and womb and lift the baby out. It is said 'si-zair-ee-an'. *e.g.* About one in five babies in India is born this way. It is just as much a birth as any other.
-- **Newborn**: A baby in their first few weeks after birth. *e.g.* A newborn sees best things about 20 to 30 centimetres away. That is the distance to the face of the person holding them.
+- **Newborn**: A baby in their first few weeks after birth. *e.g.* A newborn sees things best at about 20 to 30 centimetres away. That is the distance to the face of the person holding them.
 - **Premature**: Born early, before about 37 weeks. Premature babies often need extra warmth and care in hospital. *e.g.* A premature baby may sleep in a warm, see-through box called an incubator.
 - **Adoption**: When a child grows up in a family that did not give birth to them, and becomes part of that family for ever. *e.g.* An adopted child grew in one mother's womb. They are loved and raised by their adoptive family.
 - **DNA**: The instruction book inside every cell. It tells the cell how to grow and what to do. *e.g.* Half your DNA came from the egg cell and half from the sperm cell.
@@ -60,7 +60,7 @@ At first, all the cells look the same. Then they begin to change. Each cell has 
 - e.g. Nerve cells grow long thin arms to carry messages.
 - e.g. Red blood cells are flat discs, thinner in the middle. This shape helps them carry oxygen and squeeze through tiny tubes.
 ### The womb: the baby's first home · *defined*
-**Definition:** The womb is a stretchy bag of strong muscle inside the mother's tummy, below her stomach. The baby grows inside it for about nine months.
+**Definition:** The womb is a stretchy bag of strong muscle inside the mother's tummy, below her stomach. The baby grows inside the womb for about nine months.
 
 Before a baby, the womb is about the size of a small pear. As the baby grows, the womb stretches and stretches. By the end it can hold a baby about 50 centimetres long. Inside the womb, the baby floats in a bag of warm water. It is dark, warm and full of sounds, like the mother's heartbeat and her voice. The womb is made of muscle, so at birth it can squeeze to push the baby out.
 - e.g. Before a baby, the womb is the size of a small pear. By the end, it is bigger than a football.
@@ -84,7 +84,7 @@ A growing baby is soft, and their mother walks, bends and sometimes bumps into t
 **Definition:** A human baby usually grows in the womb for about 40 weeks, which is about nine months. Doctors split this time into three parts of about three months each.
 
 In the first three months, the body parts form. By about six weeks a tiny heart is beating. By twelve weeks the baby is about as long as your finger and has tiny fingers and toes. In the middle three months, the baby grows and moves. Fingerprints form, and the baby starts to hear sounds. In the last three months, the baby gets much bigger and fatter. Their lungs get ready to breathe air. By birth, a baby is usually about 50 centimetres long and weighs about 3 kilograms. Doctors count the 40 weeks from about two weeks before the first cell is made, so the baby really grows for about 38 weeks.
-- e.g. At 8 weeks: about the size of a raspberry.
+- e.g. At 8 weeks: about the size of a grape.
 - e.g. At 20 weeks, halfway: about as long as a banana, from head to bottom.
 - e.g. At 40 weeks: about as heavy as a small watermelon.
 ### What an unborn baby can do · *defined*
@@ -111,7 +111,7 @@ Before birth, the lungs are filled with fluid, not air. At birth, the baby breat
 ### A newborn and the people who care for them · *defined*
 **Definition:** A human newborn cannot walk, feed themself or even hold up their own head. They need grown-ups to feed them, keep them warm and keep them safe for many years.
 
-A calf can stand within an hour of being born. A human baby takes about a year to walk. Their brain is only about a quarter of its grown-up size, and it keeps growing fast after birth. A newborn sees best things about 20 to 30 centimetres away. That is the distance to the face of the person holding them. Babies stay warm and calm when held skin to skin. Families are made in many ways. A baby may be raised by the parents who gave birth to them, by an adoptive family, by grandparents or by others who love them.
+A calf can stand within an hour of being born. A human baby takes about a year to walk. Their brain is only about a quarter of their grown-up size, and it keeps growing fast after birth. A newborn sees things best at about 20 to 30 centimetres away. That is the distance to the face of the person holding them. Babies stay warm and calm when held skin to skin. Families are made in many ways. A baby may be raised by the parents who gave birth to them, by an adoptive family, by grandparents or by others who love them.
 - e.g. Holding a tiny early baby against a grown-up's bare chest keeps them warm. This is called kangaroo care.
 - e.g. A newborn grabs your finger tightly if you put it in their palm.
 - e.g. Adopted children grew in a womb like everyone else, and were welcomed into the family that raises them.
@@ -123,8 +123,8 @@ Scientists know that cells send each other chemical messages. A cell can tell wh
 ### Why human babies are born so helpless · *debated*
 Human babies are born less ready than many animal babies. Scientists argue about why. Here are the two main ideas.
 - e.g. A foal walks within hours. A human baby walks at about one year.
-- e.g. A human newborn's brain is about a quarter of its grown-up size.
-- e.g. A chimpanzee newborn's brain is about two fifths of its grown-up size.
+- e.g. A human newborn's brain is about a quarter of their grown-up size.
+- e.g. A chimpanzee newborn's brain is about two fifths of their grown-up size.
 - **The 'tight squeeze' idea (Sherwood Washburn, 1960):** People walk on two legs, so the bones around the mother's hips are narrow. A baby with a bigger head could not get out. So babies are born early, before their heads get too big.
 - **The 'energy' idea (Holly Dunsworth and others, 2012):** A mother's body can only make so much energy each day. By nine months, the growing baby needs almost as much as her body can give. So the baby is born when feeding them from inside gets too hard.
 - **Many scientists today:** Both reasons may matter, and maybe others too. Scientists are still collecting evidence.
@@ -148,7 +148,7 @@ Human babies are born less ready than many animal babies. Scientists argue about
   For: People noticed babies with marks or unusual features, and looked for a reason.  
   Against: Thoughts and sights do not travel to the baby. Only things in the mother's blood, like food, medicine and some germs, reach the baby. Birthmarks and features come from how cells grow, not from what the mother saw.
 - **The baby's blood and the mother's blood mix together freely.** (Many people think this, and some old books said it.; *rejected*)  
-  For: Food and oxygen get from the mother to the baby, so it seems the blood must mix.  
+  For: Food and oxygen get from the mother to the baby, so the blood seems to mix.  
   Against: The two bloods stay mostly apart, separated by a very thin wall in the placenta. Things pass through the wall. Babies can even have a different blood group from their mothers.
 - **A few of the baby's cells stay in the mother's body for years after the birth.** (Diana Bianchi and her team, USA, 1996, and many scientists since.; *accepted*)  
   For: They found cells from sons in their mothers' blood up to 27 years after birth. Such cells have been found in many parts of mothers' bodies.  
@@ -171,7 +171,7 @@ We have been learning how a baby grows from one cell into a whole person. Now we
 You began as one cell, made from a cell of each parent. That one cell became trillions of cells of many kinds: skin, bone, heart and brain. All of them were built from food your mother ate, and that food came from plants, soil, rain and sunlight. So each new person is built from many other lives: the plants, the farmers who grew them, and the mother who carried the baby.
 
 - **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to split a tiny banyan seed. 'What do you see?' 'Nothing at all.' 'From that tiny thing you cannot see, this huge banyan tree grows.' (You began as one cell, too small to see. Everything you are now grew out of that one cell.)
-- **Thich Nhat Hanh, the idea of 'interbeing':** Look deeply at a sheet of paper and you can see the cloud, the rain and the tree in it. Nothing exists all by itself. (A baby is built from their mother's meals. In them are the farmer's rice, the rain and the sun.)
+- **Thich Nhat Hanh, the idea of 'interbeing':** Look deeply at a sheet of paper and you can see the cloud, the rain and the tree in the paper. Nothing exists all by itself. (A baby is built from their mother's meals. In them are the farmer's rice, the rain and the sun.)
 - Science (settled): Every cell in your body came from one first cell, and almost every one has the same DNA.
 - Science (open): A few cells from a baby can live on in the mother's body for decades. What they do is not yet known.
 - Other view, Many biologists, and the Charvaka thinkers of ancient India: A baby is the result of cells, chemistry and food. Nothing more is needed to explain them, and there is no deeper oneness behind it.
@@ -260,13 +260,13 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 
 ## Games
 ### g1 · Forty Weeks: the race to be born (20 min)
-- **rules:** Everyone starts on square 1, as one cell.; Take turns to roll the die and move that many weeks.; If you land on a STAR square, read out what is happening that week. Then take a GROW card and do what it says.; If you roll a 6, take a WONDER card. Answer it right to win a heart token.; The first player to reach square 40 is born! They take a big first breath and shout 'Hello, world!'; Keep playing until everyone is born. The player with the most heart tokens wins the WONDER prize.
-- **Printable board: The 40-week track:** Square 1: one cell; Square 2: the cell splits into 2, then 4, then 8; Square 6: STAR. The heart starts beating; Square 8: STAR. Size of a raspberry; Square 12: STAR. Fingers and toes; Square 16: STAR. Fingerprints forming; Square 20: STAR. Halfway! Size of a banana; Square 24: STAR. Hearing sounds; Square 28: STAR. Eyes open; Square 32: STAR. Getting chubby; Square 36: STAR. Head turns down, ready; Square 40: BIRTH! First breath
-- **Printable cards: GROW cards (read when you land on a star):** The placenta sends you extra food. Move forward 2.; Your mother drinks plenty of water and rests. Move forward 1.; Your cells split again and again. Move forward 2.; You get hiccups. Stay where you are and hiccup three times.; You kick! Your mother feels it. Move forward 1.; Your lungs practise breathing movements. Move forward 1.; You suck your thumb. Show everyone how.; A loud drum outside makes you jump. Move back 1.; You hear your mother singing. Move forward 1.; Your mother eats rice, sambar and vegetables. Move forward 2.; Your mother sees a doctor for a check-up. Move forward 1.; You stretch and turn a somersault. Move forward 1.
-- **Printable cards: WONDER cards (answer to win a heart token):** How does a baby in the womb get oxygen? (Through the cord, from the mother's blood.); What does the water around the baby do? (It cushions, keeps warm and lets the baby move.); What was everyone at the very start? (One cell.); What is left when the cord falls off? (The belly button.); About how many weeks does a baby grow in the womb? (About 40.); Name one thing a baby can do in the womb. (Kick, suck their thumb, hiccup, hear, swallow.); Why can't a baby breathe air in the womb? (They are in water, and there is no air there.); What does a cell do to make more cells? (The cell splits in two.)
-- **Printable tokens: 12 heart tokens:** ❤️
+- **rules:** Everyone puts a button on square 1, as one cell.; Take turns to roll the die and move that many squares.; If you land on a STAR square, the player on your left reads out what is happening that week. Then you take a GROW card and do what it says. A GROW card never makes you take another card.; If you roll a 6, move 6 squares, then the player on your left reads you a WONDER card. Answer it right to win a heart token. If you are not right, they read you the answer from the back. No token.; When a pile of cards runs out, shuffle the used cards and use them again. If the heart tokens run out, keep score on paper.; Reach or pass square 40 and you are born! Take a big first breath and shout 'Hello, world!' You stop rolling.; Keep playing until everyone is born. The player with the most heart tokens wins. If it is a tie, share the win.
+- **Printable board: The 40-week track (40 squares):** Square 1: one cell; Square 2: the cell splits into 2, then 4, then 8; Square 3: Still tiny. The ball of cells settles into the wall of the womb; Square 4: The first layers of cells form; Square 5: The brain and spine start to form; Square 6: STAR. The heart starts beating; Square 7: Arms and legs start as tiny buds; Square 8: STAR. Size of a grape; Square 9: Now called a foetus; Square 10: Moving a little, too small a movement for the mother to notice; Square 11: The face takes shape: eyes, nose and mouth; Square 12: STAR. Fingers and toes; Square 13: The middle three months begin; Square 14: Rest. The baby grows and moves; Square 15: Rest. The bones are getting harder; Square 16: STAR. Fingerprints forming; Square 17: Fat starts to form under the skin; Square 18: The mother may feel the first kicks; Square 19: Swallowing the warm water; Square 20: STAR. Halfway! Size of a banana; Square 21: Kicking and stretching; Square 22: Eyebrows and eyelids are forming; Square 23: Hiccups the mother may feel as a gentle tap; Square 24: STAR. Hearing sounds; Square 25: Practising breathing movements in the water; Square 26: Jumping at loud sounds; Square 27: Rest. Sleeping and waking in turns; Square 28: STAR. Eyes open; Square 29: Growing much bigger; Square 30: About 40 centimetres long; Square 31: The lungs are getting ready for air; Square 32: STAR. Getting chubby; Square 33: The skull bones are still soft and not joined; Square 34: Rest. Fat keeps building up under the skin; Square 35: Rest. The baby fills most of the womb; Square 36: STAR. Head turns down, ready; Square 37: Not early any more. Nearly ready; Square 38: Most babies are born between 37 and 42 weeks; Square 39: Rest. Nearly time; Square 40: BIRTH! First breath
+- **Printable cards: 12 GROW cards (take one when you land on a star):** The placenta sends you extra food. Move forward 2.; Your mother drinks plenty of water and rests. Move forward 1.; Your cells split again and again. Move forward 2.; You get hiccups. Stay where you are and hiccup three times.; You kick! Your mother feels it. Move forward 1.; Your lungs practise breathing movements. Move forward 1.; You suck your thumb. Show everyone how.; A loud drum outside makes you jump. Move back 1.; You hear your mother singing. Move forward 1.; Your mother eats rice, sambar and vegetables. Move forward 2.; Your mother sees a doctor for a check-up. Move forward 1.; You stretch and turn a somersault. Move forward 1.
+- **Printable cards: 8 WONDER cards (question on the front, answer on the back):** How does a baby in the womb get oxygen? (back: Through the cord, from the mother's blood.); What does the water around the baby do? (back: It cushions, keeps warm and lets the baby move.); What was everyone at the very start? (back: One cell.); What is left when the cord falls off? (back: The belly button.); About how many weeks does a baby grow in the womb? (back: About 40.); Name one thing a baby can do in the womb. (back: Kick, suck their thumb, hiccup, hear, swallow.); Why can't a baby breathe air in the womb? (back: They are in water, and there is no air there.); What does a cell do to make more cells? (back: The cell splits in two.)
+- **Printable tokens: 12 heart tokens:** Heart token; Heart token; Heart token; Heart token; Heart token; Heart token; Heart token; Heart token; Heart token; Heart token; Heart token; Heart token
 - **s1 (3 min)**  
-  *Parent does:* 1. Lay out the track. 2. Put the GROW and WONDER piles face down. 3. Give each player a button as a counter, on square 1.  
+  *Parent does:* 1. Lay out the track. 2. Put the GROW and WONDER piles face down. 3. Give each player a button as a counter, on square 1. 4. Keep the hearts in a pile.  
   *Parent says:* Each square is one week of growing in the womb. We all start as one tiny cell on square 1. Let's see who gets born first.  
   *Child mode:* Put your button on square 1. That is you, as one tiny cell. Each square is one week.
 - **s2 (3 min)**  
@@ -275,25 +275,25 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   *Child mode:* Look at square 6. The heart starts beating there. Put your hand on your chest. Feel yours beat.
   - Check: At about six weeks, how big is the growing baby? → **About as small as a grain of rice**
 - **s3 (10 min)**  
-  *Parent does:* 1. Take turns to roll and move. 2. Read the STAR squares aloud. 3. Do the GROW cards. 4. Ask WONDER questions on a 6.  
+  *Parent does:* 1. Take turns to roll and move. 2. On a STAR, read the square aloud and take a GROW card. 3. On a 6, ask a WONDER question.  
   *Parent says:* Remember, when you land on a star, read out what is happening to the baby that week.  
   *Child mode:* Roll and move. Land on a star? Read it out. Then take a GROW card.
   - Ask: Why does the GROW card say 'move forward' when the mother eats well? (good: Her food goes to the baby through the cord.; The baby needs food to grow.)
 - **s4 (4 min)**  
-  *Parent does:* When a player reaches square 40, everyone takes a big breath with them. Finish the game. Count heart tokens.  
+  *Parent does:* When a player reaches square 40, everyone takes a big breath with them. Finish the game. Count the heart tokens.  
   *Parent says:* Square 40 is birth. Before birth, the baby's lungs were full of fluid. Now, for the first time, air rushes in. Let's all take that first breath together.  
   *Child mode:* You reached square 40. You are born! Take a big first breath. Shout 'Hello, world!'
   - Check: Game moment: you are born on square 40. What does the baby do first? → **Breathes air for the first time**
   - Think: What do you think the very first breath felt like?
 ### g2 · Who Waits Longest? Animal baby cards (15 min)
-- **rules:** Shuffle the cards and share them out face down.; Each player turns over their top card at the same time.; The animal whose baby grows longest inside their mother wins both cards.; If two cards are close, the winner must say the difference in days.; When the cards run out, the player with the most cards wins.
-- **Printable cards: 12 animal cards (days growing inside the mother, rounded):** House mouse: about 20 days; Rabbit: about 31 days; Dog: about 63 days; Cat: about 65 days; Pig: about 114 days; Goat: about 150 days; Human: about 270 days; Cow: about 280 days; Horse: about 340 days; Camel: about 390 days; Giraffe: about 450 days; Indian elephant: about 650 days
+- **rules:** Shuffle the cards and share them out face down.; Each player turns over their top card at the same time.; The card with the most days wins both cards. The winner puts them in a pile.; The winner says about how many more days their card has. A good guess is fine.; When all the cards are played, the player with the biggest pile wins. If the piles are equal, shuffle and play again.
+- **Printable cards: 12 animal cards (days a baby grows inside the mother, rounded):** Giraffe: about 450 days; Pig: about 114 days; Cow: about 280 days; Rabbit: about 31 days; Indian elephant: about 650 days; Human: about 270 days; Cat: about 65 days; Camel: about 390 days; House mouse: about 20 days; Horse: about 340 days; Dog: about 63 days; Goat: about 150 days
 - **s1 (3 min)**  
-  *Parent does:* 1. Shuffle the 12 cards. 2. Share them out. 3. Show your child the human card first.  
+  *Parent does:* 1. Spread the 12 cards face up and find the human card. 2. Shuffle them and share them out face down.  
   *Parent says:* A human baby grows inside their mother for about 270 days. Let's see which animals wait longer, and which wait less.  
-  *Child mode:* Find the human card. 270 days! Now let's see who waits longer.
+  *Child mode:* Find the human card. 270 days! Then we shuffle and share the cards.
 - **s2 (8 min)**  
-  *Parent does:* Play the game. When cards are close, ask for the difference.  
+  *Parent does:* Play the game. After each round, ask the winner how many more days their card has.  
   *Parent says:* Who wins this round? How many more days is that?  
   *Child mode:* Turn your top card over. Longest wait wins. How many days more?
   - Check: Game moment: your elephant card meets a mouse card. Who wins? → **The elephant, about 650 days**
@@ -311,7 +311,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 - **fair test:** To make it fair, keep everything the same except the water. Use two jars of the same size with lids. Use eggs of the same size. Shake each jar the same way, the same number of times. Count the shakes out loud.
 - **safety:** Use plastic jars, not glass. Shake over a tray. Wash hands with soap after touching raw eggs.
 - **record:** Fill in the table. Then write three sentences. My claim is... My evidence is... My reasoning is...
-- **results table:** Jar | What I guessed | After 5 gentle shakes | After 5 harder shakes | Cracked: yes or no
+- **results table:** Jar | What I guessed | After 5 gentle shakes | After 5 harder shakes (or "cracked already") | Cracked: yes or no
 - **s1 (3 min)**  
   *Parent does:* 1. Put the two jars on a tray. 2. Ask your child to guess what will happen to each egg when shaken.  
   *Parent says:* Here is a pretend baby, a raw egg. Before birth, a real baby floats in water in the womb. Let's find out if water protects them. What do you think will happen?  
@@ -323,10 +323,10 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   *Child mode:* Put one egg in the empty jar. Fill the other jar to the very top with water. Put the egg in. Close both lids tight.
   - Note: Filling to the very top matters. An air gap lets the egg bang about. Help with raw eggs over the tray.
 - **s3 (5 min)**  
-  *Parent does:* 1. Shake the empty jar gently, 5 times, side to side. 2. Look at the egg. 3. Do the same with the water jar. 4. If neither cracked, repeat both with 5 harder shakes.  
+  *Parent does:* 1. Shake the empty jar gently, 5 times, side to side. 2. Look at the egg. 3. Do the same with the water jar. 4. If neither cracked, repeat both with 5 harder shakes. If an egg has cracked, stop shaking that jar.  
   *Parent says:* We shake both jars exactly the same way, 5 times each. Count with me. That keeps the test fair.  
   *Child mode:* Shake the empty jar 5 times. Count out loud. Look at the egg. Now shake the water jar the same way.
-  - Note: The egg in the empty jar usually cracks after a few firm shakes. The egg in the full water jar usually stays whole. If both crack, you shook too hard, so try again more gently. With banana pieces, the one in the empty jar gets squashed and bruised against the sides. The one in water keeps its shape.
+  - Note: The egg in the empty jar usually cracks after a few firm shakes. The egg in the full water jar usually stays whole. Plastic jars are soft, so the result is not certain. If neither cracks, that is a real result: listen instead. The egg bangs against the jar in the empty one, and hardly knocks in the full one. If both crack, you shook too hard, so try again more gently. With banana pieces, the one in the empty jar gets squashed and bruised against the sides. The one in water keeps its shape.
 - **s4 (4 min)**  
   *Parent does:* Look at both eggs. Fill in the results table together.  
   *Parent says:* Which egg cracked? Let's write it down. Then we'll work out why.  
@@ -339,26 +339,25 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   - Ask: What is your claim, evidence and reasoning? (good: Claim: water protects the egg. Evidence: the egg in water did not crack, but the egg in the empty jar did. Reasoning: water spreads out the bump, like the water around a baby in the womb.)
   - Think: A real baby is not in a hard jar, but in a soft womb inside a body. What other things protect the baby?
 ### e2 · Hearing Through Water: what does a baby hear? (15 min)
-- **question:** Which sounds get through water best: a low hum, a high whistle or a whisper?
-- **predict:** Guess first. Through a bag of water, which sound will you hear most clearly: a low hum, a high whistle or a whisper? Why do you think so?
-- **fair test:** Keep everything the same except the sound. The same person makes each sound, about as loud each time, from the same place. Try each sound with no bag, and then with the bag of water.
-- **safety:** Check the bag does not leak before putting it near your ear. Keep it over a towel.
+- **question:** Which sound gets through water better: a low hum or a high hum?
+- **predict:** Guess first. Through a bag of water, which will you hear more clearly: a low hum, or a high, squeaky hum? Why do you think so?
+- **fair test:** Keep everything the same except the pitch. The same person hums both sounds, at the same loudness, from the same place. Try each hum with no bag, and then with the bag of water.
 - **record:** Fill in the table. Then write: My claim is... My evidence is... My reasoning is...
-- **results table:** Sound | With no bag: clear, muffled or silent | Through the water bag: clear, muffled or silent
+- **results table:** Hum | With no bag: clear, muffled or silent | Through the water bag: clear, muffled or silent
 - **s1 (3 min)**  
   *Parent does:* 1. Fill the bag almost full with water. 2. Twist the top and close it tight with a rubber band. 3. Check over a towel that it does not leak.  
   *Parent says:* A baby in the womb is in water, inside their mother's body. Let's find out what sounds reach them.  
   *Child mode:* Fill the bag with water. Close it tight with a rubber band. Check it does not drip.
 - **s2 (6 min)**  
-  *Parent does:* 1. Stand one step behind your child. 2. Hum low, then whistle high, then whisper, with no bag. 3. Repeat with the bag pressed on one ear and the other ear covered.  
-  *Parent says:* I will make three sounds. First with nothing on your ear. Then through the water. Tell me which come through.  
-  *Child mode:* Listen with no bag. Then hold the water bag on your ear. Cover your other ear. Which sounds get through?
-  - Note: Low hums usually come through the water best. High whistles and whispers get muffled or lost. Scientists think a baby in the womb hears something like this: low sounds such as voices and the heartbeat, muffled. Your hand over the other ear does not block all sound, so compare the two tries rather than expecting silence.
+  *Parent does:* 1. Stand one step behind your child. 2. Hum low, then hum high (a squeaky hum), both at the same loudness, with no bag. 3. Repeat with the bag pressed on one ear and the other ear covered.  
+  *Parent says:* I will make two hums. First with nothing on your ear. Then through the water. Tell me which comes through better.  
+  *Child mode:* Listen with no bag. Then hold the water bag on your ear. Cover your other ear. Which hum gets through better?
+  - Note: Everything will sound muffled through the bag, and the difference between the low and the high hum may be small. The low hum usually comes through a little better. Scientists think a baby in the womb hears something like this: low sounds such as voices and the heartbeat, muffled. Your hand over the other ear does not block all sound, so compare the two tries rather than expecting silence.
 - **s3 (3 min)**  
   *Parent does:* Fill in the table together.  
-  *Parent says:* Which sound came through best? Which was hardest to hear?  
-  *Child mode:* Which sound came through best? Write it in your table.
-  - Check: In the Hearing Through Water test, which sound usually comes through the water bag best? → **A low hum**
+  *Parent says:* Which hum came through better?  
+  *Child mode:* Which hum came through better? Write it in your table.
+  - Check: In the Hearing Through Water test, which hum usually comes through the water bag better? → **The low hum**
 - **s4 (3 min)**  
   *Parent does:* Help your child say a claim, evidence and reasoning.  
   *Parent says:* So what might a baby in the womb hear? Tell me your claim, your evidence and your reasoning.  
@@ -373,18 +372,18 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 - **record:** Fill in the table. If you have a thermometer, draw a bar chart of the temperatures after 20 minutes. Then write a claim, evidence and reasoning.
 - **results table:** Pretend baby | Start (warm, a bit warm or cool) | After 10 minutes | After 20 minutes
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* 1. Warm water in a pan and mix it with cold water until it feels comfortably warm on your wrist. 2. Fill three small bottles from the same jug. 3. Close the lids. 4. Let your child feel that they are all the same. 5. Keep all three in the same room, under the fan if it is on.  
+  *Parent does:* 1. Warm water in a pan and mix it with cold water until it feels comfortably warm on your wrist. 2. Fill three small bottles from the same jug. 3. Close the lids. 4. Let your child feel that they are all the same. 5. Keep all three in the same room, with the fan switched off.  
   *Parent says:* These three bottles are pretend babies. They all start equally warm. A tiny newborn loses heat fast. Let's test which way keeps a pretend baby warm.  
   *Child mode:* Feel all three bottles. They are all the same warm. These are pretend babies.
 - **s2 (3 min)**  
-  *Parent does:* 1. Stand one bottle alone on the table. 2. Wrap one in a towel. 3. A grown-up tucks the third against their chest, under a dupatta or shirt.  
+  *Parent does:* 1. Stand one bottle alone on the table. 2. Wrap one in a towel. 3. A grown-up wraps the third in the other towel and tucks it against their chest, under a dupatta or shirt.  
   *Parent says:* Holding a baby on a grown-up's bare chest, under a cloth, is called kangaroo care. Doctors in Bogotá, in Colombia, started it in 1978, to keep early babies warm.  
   *Child mode:* One bottle stays alone. One gets wrapped. One goes on a grown-up's chest, under a cloth.
 - **s3 (17 min)**  
-  *Parent does:* 1. Set a timer for 10 minutes. 2. Feel each bottle against your cheek, or use a thermometer. 3. Write it down. 4. Do it again at 20 minutes.  
+  *Parent does:* 1. Start a timer for 10 minutes as soon as the three bottles are in place. 2. Feel each bottle against your cheek, or use a thermometer. 3. Write it down. 4. Do it again at 20 minutes.  
   *Parent says:* While we wait, think about this. Why might a person's body be good at keeping a baby warm?  
   *Child mode:* Wait 10 minutes. Feel each bottle on your cheek. Write it down. Wait 10 more minutes. Do it again.
-  - Note: On a hot day the room is nearly as warm as the bottles, so the differences are small. A thermometer shows them better than a cheek. Under a running fan, the bottle left alone cools fastest.
+  - Note: Keep the fan off, so the air moves the same way around all three bottles. On a hot day the room is nearly as warm as the bottles, so the differences are small. A cheek does not notice small differences, so a thermometer gives a much more honest result. Without one, treat what you feel as a rough guess.
   - Wait: Check after 10 minutes, then after 20 minutes.
 - **s4 (5 min)**  
   *Parent does:* Compare the bottles. Help your child say a claim, evidence and reasoning.  
@@ -395,7 +394,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 ## Activities
 ### a1 · One Cell to Many: the dough doubling (15 min)
 - **safety:** If you use atta dough, wash your hands before and after. Do not eat raw dough.
-- **record:** Draw your rows of dough balls: 1, 2, 4, 8, 16, 32. Write how many there are in each row.
+- **record:** Draw your rows of dough balls: 1, 2, 4, 8, 16. Write how many there are in each row.
 - **s1 (2 min)**  
   *Parent does:* 1. Give your child one ball of dough on a plate. 2. Tell them it is the first cell.  
   *Parent says:* You began as one tiny cell, much smaller than this dough. Let's pretend this ball is that cell. What do you think happens next?  
@@ -418,16 +417,15 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   - Ask: All these balls came from one. So why are some yellow and some flat now? (good: They changed into different kinds.; Cells read different instructions.; They become skin or bone or blood.)
   - Think: Every real cell has the same instruction book. How do you think each cell knows which page to read?
 ### a2 · How Big Was I? The growing fruit line (20 min)
-- **safety:** None needed.
 - **record:** Your marked paper strip, with each week labelled and a fruit drawn beside it.
 - **s1 (4 min)**  
   *Parent does:* 1. Lay the strip flat. 2. Mark 0 at one end.  
   *Parent says:* Let's find out how big you were before you were born. We start at 0, when you were one cell, smaller than a dot.  
   *Child mode:* Put the strip on the floor. Mark 0 at one end. That is you as one cell.
 - **s2 (8 min)**  
-  *Parent does:* Measure from 0 and mark each length. Write the week beside it: 8 weeks, 2 cm. 12 weeks, 6 cm. 20 weeks, 25 cm. 30 weeks, 40 cm. 40 weeks, 50 cm. These are lengths from head to heel, rounded.  
+  *Parent does:* Measure from 0 and mark each length. Write the week beside it: 8 weeks, 2 cm. 12 weeks, 6 cm. 20 weeks, 25 cm. 30 weeks, 40 cm. 40 weeks, 50 cm. These are lengths from head to heel, rounded. Put a fruit by the first four marks. Use a grape at 8 weeks, a lemon at 12, a banana at 20 and a papaya at 30. The 40 week mark shows a newborn's length.  
   *Parent says:* At 8 weeks, a baby is about as long as a grape. Halfway, at 20 weeks, a little shorter than a 30 centimetre ruler. At birth, about as long as this strip.  
-  *Child mode:* Measure and mark each week. 8 weeks is 2 centimetres. 40 weeks is 50 centimetres. Put a fruit by each mark.
+  *Child mode:* Measure and mark each week. 8 weeks is 2 centimetres. 40 weeks is 50 centimetres. Put a fruit by each of the first four marks.
   - Note: These lengths are rounded and vary from baby to baby. They are close enough to show the pattern. Most of the growing in length happens in the middle and the last months.
 - **s3 (4 min)**  
   *Parent does:* Ask your child to look at the gaps between the marks.  
@@ -440,7 +438,6 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   *Child mode:* Lie down by the strip. A grown-up measures you. How many newborn lengths tall are you?
   - Think: You were once smaller than a dot. What made all of you?
 ### a3 · Prints From Before You Were Born (15 min)
-- **safety:** Use washable ink. Wash hands afterwards.
 - **record:** A page of family fingerprints, each labelled with the person's name and the pattern type.
 - **s1 (5 min)**  
   *Parent does:* 1. Each person presses a thumb on the ink pad, then on paper. No ink pad? Scribble hard with a soft pencil on paper. Rub the thumb on it. Press clear tape on the thumb, then stick the tape on white paper. 2. Write their name under it.  
@@ -458,7 +455,6 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   - Check: When were your fingerprints made? → **Before you were born, at about four months in the womb**
   - Think: What else on your body is a mark from before you were born?
 ### a4 · My Arrival Story: asking my family (15 min)
-- **safety:** None needed.
 - **record:** Three things you learned about your arrival, written or drawn.
 - **s1 (3 min)**  
   *Parent does:* 1. Choose a quiet time. 2. Look at the questions together first.  
@@ -499,7 +495,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   *Parent does:* 1. Your child holds the folded bag flat in front of their eyes. 2. You hold your face about 25 centimetres away, about one ruler. 3. Then step back across the room.  
   *Parent says:* A newborn baby sees blurry, a bit like through this bag. Can you see my face better close up or far away?  
   *Child mode:* Hold the bag in front of your eyes. Look at a face close up. Then far away.
-  - Note: Things close to the bag look clearer than things far away, so your face should look clearer close up. If everything looks like fog, use one layer instead of two.
+  - Note: Things close to you look clearer than things far away, so your face should look clearer close up. This is only a rough model: the face looks bigger when it is close, so you can make out more of it. A real newborn's eyes are blurry for another reason, because they cannot focus well yet. If everything looks like fog, use one layer instead of two.
 - **s2 (3 min)**  
   *Parent does:* Ask which was clearer.  
   *Parent says:* When was my face clearer, close or far?  
@@ -509,15 +505,14 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   *Parent does:* Talk about why this might help a baby.  
   *Parent says:* Why might it be useful for a baby to see faces close up best?  
   *Child mode:* Why might a baby need to see faces close up?
-  - Ask: Why might it help? (good: It sees the face of whoever holds it.; It learns faces first.; The faraway things don't matter yet.)
+  - Ask: Why might it help? (good: They see the face of whoever holds them.; They learn faces first.; The faraway things don't matter yet.)
 
 ## Projects
 ### p1 · The Forty-Week Scroll (60 min, 3 days)
-- **safety:** None needed.
 - **record:** Your finished scroll, and a photo of you explaining it.
 - **schedule:** day 1: Mark 40 weeks along the scroll, 5 centimetres each. Draw weeks 1 to 12. (20 min); day 2: Draw weeks 13 to 28: kicking, fingerprints, hearing. (20 min); day 3: Draw weeks 29 to 40 and birth. Show the scroll to someone and explain it. (20 min)
 - **s1 (20 min)**  
-  *Parent does:* 1. Mark 40 weeks along the scroll, 5 centimetres apart. 2. Draw week 1, one cell. 3. Week 2, a ball of cells. 4. Week 6, a beating heart. 5. Week 8, a raspberry-sized embryo. 6. Week 12, fingers and toes.  
+  *Parent does:* 1. Mark 40 weeks along the scroll, 5 centimetres apart. 2. Draw week 1, one cell. 3. Week 2, a ball of cells. 4. Week 6, a beating heart. 5. Week 8, a grape-sized embryo. 6. Week 12, fingers and toes.  
   *Parent says:* In the first three months, all the main body parts form. The baby is still very small. Let's draw the baby.  
   *Child mode:* Mark 40 weeks. Draw one cell at week 1. Draw a heart at week 6. Draw fingers at week 12.
 - **s2 (20 min)**  
@@ -535,22 +530,23 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 
 ## Challenges
 ### c1 · The Egg-Baby Carrier (30 min)
-- **problem:** Design a carrier that keeps a raw egg 'baby' safe and warm while you walk up and down the stairs twice.
+- **problem:** Design a carrier that keeps a raw egg 'baby' safe while you walk up and down the stairs twice.
+- **safety:** Wash your hands with soap after touching a raw egg.
 - **your turn:** Now design your own carrier. Draw it first. Then build it, test it on the stairs, and check the egg. What would you change?
 - **constraints:** You can only use things from home.; The carrier must be small enough to hold in one hand.; You must be able to look at the egg without taking it out.
-- **general:** Pad the egg all round with cotton or cloth, so it cannot bang the sides.; Put the egg in a small wide-mouthed jar or dabba filled to the top with water, like a baby in the womb.; Wrap the carrier in a cloth to keep the warmth in.
+- **general:** Pad the egg all round with cotton or cloth, so the egg cannot bang the sides.; Put the egg in a small wide-mouthed jar or dabba filled to the top with water, like a baby in the womb.; Wrap the carrier in a cloth for more padding, but leave a gap so you can still see the egg.
 - **creative:** Make a bag within a bag, like the womb inside the mother's tummy.; Hang the egg in the middle of a box on stretchy rubber bands, so it bounces gently.; Use a ball of soft dough around the egg, like a thick cushion.
 - **s1 (5 min)**  
   *Parent does:* Talk about how the womb keeps a baby safe.  
   *Parent says:* A baby in the womb is protected by water, by the soft womb, and by the mother's body around them. How can we use those ideas?  
   *Child mode:* How does the womb keep a baby safe? Use those ideas for your egg.
-  - Ask: What protects a baby in the womb? (good: The water around it.; The soft, stretchy womb.; The mother's body and tummy muscles.)
+  - Ask: What protects a baby in the womb? (good: The water around the baby.; The soft, stretchy womb.; The mother's body and tummy muscles.)
 - **s2 (15 min)**  
   *Parent does:* Your child draws a design, then builds it.  
   *Parent says:* Draw it first. Then build it. Remember, it has to fit in one hand.  
   *Child mode:* Draw your carrier. Then build it.
 - **s3 (10 min) · grown-up needed**  
-  *Parent does:* Walk up and down the stairs twice with the carrier. Check the egg.  
+  *Parent does:* Walk up and down the stairs twice with the carrier. No stairs? Step up and down a low, steady stool twice instead. Check the egg.  
   *Parent says:* Let's test it. Walk carefully, but normally. Then check.  
   *Child mode:* Walk the stairs twice. Then look at the egg. Is it whole?
   - Check: Your egg cracked in a carrier with just one layer of paper. What would most likely help? → **Fill the space around the egg with water or soft padding**
@@ -559,7 +555,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 - **your turn:** Now design your own sling. Draw it, tie it with a grown-up, and walk around the room. Does the head stay up? Is the face clear?
 - **constraints:** Use only one long piece of cloth and, if you like, a safety pin a grown-up closes.; The doll's head must not flop backwards.; The doll's face must be visible, not covered.
 - **general:** Tie the cloth across one shoulder and the opposite hip, like a sash.; Hold the doll upright against the chest, tummy to tummy.; Pull a fold of cloth up behind the doll's head.
-- **creative:** Look at how grandmothers and village women in India carry babies on their hip or back with a sari.; Make a pocket in the cloth for the doll's bottom, like a kangaroo's pouch.; Add a rolled towel as a head cushion.
+- **creative:** Look at photos of how people in India carry babies on the hip or back with a sari.; Make a pocket in the cloth for the doll's bottom, like a kangaroo's pouch.; Add a rolled towel as a head cushion.
 - **s1 (5 min)**  
   *Parent does:* Hold the doll and let its head flop. Talk about newborn necks.  
   *Parent says:* A newborn's head is big and heavy, and their neck muscles are still weak. So a grown-up always holds the head. A good sling must do that too.  
@@ -580,8 +576,8 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 1. (mcq) Ammu, a girl in Class 3, says a baby starts as a tiny, ready-made person who just gets bigger. Is she right?  
    Options: Yes. The tiny person is just too small to see. / No. A baby starts as one cell, and the body parts form step by step. / Yes, but only for big babies.  
    **Answer:** No. A baby starts as one cell, and the body parts form step by step.. *Why:* A strong answer says 'no'. Every person began as one cell, with no body parts at all. The heart, the hands and the eyes formed one after another. Scientists believed in the tiny ready-made person about 300 years ago, until they watched eggs grow day by day.
-2. (fill) In the dough activity, you split one ball into two. Then you split every ball again. After 3 rounds of splitting, you have ____ balls.  
-   **Answer:** ['8', 'eight']. *Why:* 1 ball becomes 2, then 4, then 8. Every ball splits each round, so the number doubles each time. A strong answer counts the balls, not the rounds.
+2. (fill) The warm water around a baby in the womb is called ____ fluid.  
+   **Answer:** ['amniotic']. *Why:* The baby floats in amniotic fluid. It cushions bumps, keeps the baby warm and lets the baby move.
 3. (write) Skin cells and heart cells all came from the same first cell. They have the same DNA, the same instruction book. So why are they so different?  
    **Answer:** Each kind of cell reads different pages of the same instruction book. A cell that reads the 'heart' pages becomes a heart cell and beats. A cell that reads the 'skin' pages becomes skin.. *Why:* A strong answer says the instructions are the same, but each cell uses a different part of them. Saying 'they have different DNA' is a common mistake. Almost every cell in your body has the same DNA.
 4. (match) Four parts keep a baby safe and fed in the womb. Match each part to its job.  
@@ -606,11 +602,11 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
    Options: The baby is asleep / The cord has no nerves, so cutting it causes no pain / Doctors cut it very fast  
    **Answer:** The cord has no nerves, so cutting it causes no pain. *Why:* Nerves are what carry the feeling of pain. The cord has none, so cutting it does not hurt. The baby no longer needs the cord, because they now breathe air.
 13. (perspective) Three friends argue about which part matters most for a baby in the womb.  
-   **Answer:** A strong answer picks one part and gives a reason, for example that the baby dies without oxygen in minutes. Then it admits another friend's fair point, for example that the placenta is useless without the cord. It may notice that the parts only work together.. *Why:* There is no single winner. The placenta, the cord and the water each do a job the others cannot. A baby needs all three.
+   **Answer:** A strong answer picks one part and gives a reason, for example that the baby cannot live without the oxygen the placenta brings. Then it admits another friend's fair point, for example that the placenta is useless without the cord. It may notice that the parts only work together.. *Why:* There is no single winner. The placenta, the cord and the water each do a job the others cannot. A baby needs all three.
 14. (draw) Draw a baby in the womb. Label the womb, the water, the cord and the placenta.  
    **Answer:** A curled baby inside a round womb, with water all round them, and a cord from the baby's tummy to a round placenta on the womb wall.. *Why:* A strong drawing joins the cord at the baby's tummy, not their mouth, and puts the placenta on the wall of the womb.
 15. (write) In Keep the Baby Warm, three bottles of warm water were pretend babies. One lay alone, one was wrapped in a cloth, and one was held on a grown-up's chest under a cloth. Which stayed warmest? Use what you felt to say why.  
-   **Answer:** The bottle on the chest stayed warmest. The person's body is always warm, so it kept giving heat to the bottle. The cloth held the heat in. The bottle alone lost heat to the air.. *Why:* A strong answer says what the child felt on their cheek, then the reason: a warm body keeps adding heat. This is why holding a tiny baby skin to skin helps.
+   **Answer:** The bottle on the chest stayed warmest. A person's body is warmer than the room, so the bottle cooled more slowly against it. The cloth held the heat in. The bottle alone lost heat to the air.. *Why:* A strong answer says what the child felt on their cheek, then the reason: a warm body and a cloth slow the cooling. This is why holding a tiny baby skin to skin helps.
 16. (truefalse) Before birth, a baby swallows some of the water around them in the womb.  
    **Answer:** True. *Why:* True. The baby swallows a little of the warm water, again and again. This is practice for swallowing milk after birth. A strong answer knows the baby does many things in the womb: kick, hiccup, suck their thumb and swallow.
 ### Inside the Womb (stretch) (stretch, 16 questions)
@@ -619,22 +615,22 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 2. (mcq) A mother has blood group O. Her new baby girl has blood group B. How can the baby have a different blood group from the mother she grew inside?  
    Options: The baby's blood changed at birth / In the placenta, the two bloods stay apart, with a thin wall between them / The doctor gave the baby new blood  
    **Answer:** In the placenta, the two bloods stay apart, with a thin wall between them. *Why:* Many people think the two bloods mix. They do not. Food and oxygen pass through a very thin wall, but the bloods stay mostly apart. So the baby can have their own blood group.
-3. (write) Predict. A woman who is going to have a baby sings a low lullaby. Then she blows a high whistle on a toy. Which will the baby in her womb hear more clearly? Use your Hearing Through Water test.  
-   **Answer:** The low lullaby. In my test, the low hum came through the bag of water clearly, but the high whistle sounded muffled. The baby is surrounded by water and the mother's body, so low sounds reach them best.. *Why:* A strong answer makes a prediction, then backs it with what the child heard through the water bag.
+3. (write) Predict. A woman who is going to have a baby hums a low lullaby. Then she hums a high, squeaky tune, just as loud. Which will the baby in her womb hear more clearly? Use your Hearing Through Water test.  
+   **Answer:** The low lullaby. In my test, the low hum came through the bag of water more clearly, but the high hum sounded more muffled. The baby is surrounded by water and the mother's body, so low sounds reach them best.. *Why:* A strong answer makes a prediction, then backs it with what the child heard through the water bag.
 4. (truefalse) If a pregnant mother looks at a rabbit every day, her baby may be born with long ears.  
    **Answer:** False. *Why:* False. This is an old belief. Thoughts and sights do not travel to the baby. Only things carried in the mother's blood reach the baby. How the baby looks comes from their DNA and how their cells grow.
 5. (sort) Sort these. Can it reach the baby through the mother's blood, or not?  
-   **Answer:** food the mother eats → Reaches the baby; oxygen the mother breathes in → Reaches the baby; some medicines → Reaches the baby; some germs → Reaches the baby; the colour of the mother's sari → Does not reach the baby; a picture the mother looks at → Does not reach the baby. *Why:* Anything carried in the blood can pass the thin wall in the placenta. This is why doctors ask pregnant mothers to eat well and check every medicine. A colour or a picture is not in the blood, so it cannot reach the baby.
+   **Answer:** food the mother eats → Reaches the baby; oxygen the mother breathes in → Reaches the baby; some medicines → Reaches the baby; some germs → Reaches the baby; the colour of the mother's sari → Does not reach the baby; a picture the mother looks at → Does not reach the baby. *Why:* Anything carried in the blood can pass the thin wall in the placenta. This is why doctors ask pregnant mothers to eat well and check every medicine. A colour or a picture is not in the blood, so neither can reach the baby.
 6. (mcq) A newborn's skull bones are not joined yet. They have soft gaps between them. How does this help?  
    Options: The head can change shape a little to squeeze out at birth, and the brain has room to grow / It lets the baby hear better / It keeps the head cool  
    **Answer:** The head can change shape a little to squeeze out at birth, and the brain has room to grow. *Why:* The soft gaps let the head squeeze safely through at birth. They also leave room for the brain, which grows fast after birth. The bones join up over the first two years.
 7. (match) Bigger animals usually grow longer inside their mother. Match each animal to about how long the baby grows before birth.  
-   **Answer:** Mouse → about 20 days; Dog → about 63 days; Human → about 280 days; Indian elephant → about 650 days. *Why:* A mouse baby is born in about three weeks, and an elephant baby in almost two years. A strong match puts the days in order of the animals' size.
+   **Answer:** Mouse → about 20 days; Dog → about 63 days; Human → about 270 days; Indian elephant → about 650 days. *Why:* A mouse baby is born in about three weeks, and an elephant baby in almost two years. A strong match puts the days in order of the animals' size.
 8. (write) Find the mistake. Arjun, a boy in Class 4, says, 'A baby in the womb lives in silence, all alone in the dark.' What is right and what is wrong?  
    **Answer:** It is right that the womb is dark. It is wrong that it is silent. The baby hears the mother's heartbeat, her tummy rumbling and her voice. The baby also moves, kicks and sucks their thumb.. *Why:* A strong answer agrees with the part that is true, then corrects the part that is wrong with a fact from the unit.
 9. (perspective) Some babies are born very early and very small. Two people disagree about the best way to keep such a baby warm.  
-   **Answer:** A strong answer uses the test: the bottle on the chest stayed warm because a body keeps making heat. It then admits the other side's point, for example that a very sick baby may need the machines and close watching of an incubator.. *Why:* Both are used in real hospitals. Kangaroo care was started in Bogotá, in Colombia, in 1978. Doctors found it keeps many small babies warm and well. Very sick babies may still need an incubator.
-10. (fill) A newborn sees most clearly things about 20 to 30 ____ away. That is about the distance to the face of the person holding them.  
+   **Answer:** A strong answer uses the test: the bottle on the chest stayed warm because a person's body is warmer than the room. It then admits the other side's point, for example that a very sick baby may need the machines and close watching of an incubator.. *Why:* Both are used in real hospitals. Kangaroo care was started in Bogotá, in Colombia, in 1978. Doctors found it keeps many small babies warm and well. Very sick babies may still need an incubator.
+10. (fill) A newborn sees most clearly at about 20 to 30 ____ away. That is about the distance to the face of the person holding them.  
    **Answer:** ['centimetres', 'cm']. *Why:* About 20 to 30 centimetres. You tested this with a plastic bag in front of your eyes. A face close up was clearer than a face far away.
 11. (mcq) Shalini, a girl in Class 4, was born by caesarean birth. What does that mean?  
    Options: She was born later than other babies / She did not grow in a womb / Doctors lifted her out through a careful cut in her mother's tummy and womb  
@@ -644,7 +640,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 13. (label) Label four places on this newborn: the lungs, the belly button, the soft spot on the head and a fingertip. Then write one fact next to each.  
    **Answer:** ['lungs: fill with air for the first time at birth', 'belly button: where the cord joined', 'soft spot: the skull bones are not joined yet', 'fingertip: fingerprints formed months before birth']. *Why:* Each label is a clue that the baby lived somewhere else before birth: in water, fed through a cord, and growing for months.
 14. (draw) Draw a line on a long strip of paper from 0 weeks to 40 weeks. Mark where the heart starts to beat, where fingers form, where hearing starts, and birth.  
-   **Answer:** A line with marks at about 6 weeks for the heart, about 12 weeks for fingers, about 26 weeks for hearing, and 40 weeks for birth.. *Why:* A strong drawing spaces the marks fairly. The heart and fingers come early, in the first three months. Hearing comes in the middle. Most of the growing in size happens near the end.
+   **Answer:** A line with marks at about 6 weeks for the heart, about 12 weeks for fingers, about 24 weeks for hearing, and 40 weeks for birth.. *Why:* A strong drawing spaces the marks fairly. The heart and fingers come early, in the first three months. Hearing comes in the middle. Most of the growing in size happens near the end.
 15. (truefalse) In the first five days, the ball of cells gets bigger with every split.  
    **Answer:** False. *Why:* False. This surprises most people. For the first five days, each split makes smaller cells, and the ball stays the same size. The ball only grows once it settles into the womb wall and gets food from the mother.
 16. (write) Twins can grow in the same womb at the same time, with the same DNA. Yet their fingerprints are different. Why might that be?  
@@ -701,7 +697,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
    Options: Half of a cell / A dead piece of the old cell / A whole living cell with the same DNA  
    **Answer:** A whole living cell with the same DNA. *Why:* Each new cell is whole and alive, with a full copy of the instructions. Later, cells read different parts of them and become different kinds.
 4. (mcq) Predict. A pregnant woman cooks every day on a smoky wood fire. Could the smoke matter for her baby in the womb?  
-   Options: No. The baby is safe inside the womb, away from the air / Yes. Smoke goes into the mother's blood from her lungs, and some of it can pass through the placenta to the baby / Only if the baby can smell it  
+   Options: No. The baby is safe inside the womb, away from the air / Yes. Smoke goes into the mother's blood from her lungs, and some of it can pass through the placenta to the baby / Only if the baby can smell the smoke  
    **Answer:** Yes. Smoke goes into the mother's blood from her lungs, and some of it can pass through the placenta to the baby. *Why:* Anything in the mother's blood can pass through the thin wall in the placenta. Some harmful things from smoke get into her blood, so they can reach the baby. This is why a clean stove or good air is better for a pregnant woman. Picking 'safe inside the womb' forgets that the baby is fed from the mother's blood.
 5. (mcq) Why does a baby in the womb hear their mother's voice best?  
    Options: Her voice travels through her own body to the baby / The womb has a little window / Babies can only hear high sounds  
@@ -780,25 +776,12 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 ## Jokes
 - Why did the baby cell go to maths class? *To learn how to divide.*
 - What did the cell say to their twin after splitting? *I'm beside myself!*
-- Why was the baby so good at swimming? *It practised for nine months.*
-- What is a belly button's favourite music? *Navel-ty songs.*
-- Why did the foetus refuse to come out? *It said the rent was free.*
-- What did the newborn say after their first breath? *Wow, air is a big deal!*
-- Why do babies never tell secrets in the womb? *The walls have ears, and so do they.*
+- Why was the baby so good at swimming? *They practised for nine months.*
 - What do you call a baby who loves hiccups? *A hic-cupcake.*
-- Why did the elephant mother take so long? *She wanted her baby to be big news.*
-- What did one cell say to the other? *Let's split, and stay friends.*
-- Why was the newborn so calm at the doctor's? *It scored a ten on its very first test.*
-- What do you call two cells that keep doubling? *A growing family.*
-- Why did the baby kick so much? *It was practising for the football team.*
-- What did the placenta say to the baby? *Dinner is served, through the tube.*
-- Why did the fingerprint never change? *It was already perfect.*
-- What is a newborn's favourite game? *Peek-a-boo, because it can only see your face up close.*
-- Why did the cell bring a ruler? *It wanted to measure how much it had grown.*
-- What did the womb say on the last day? *Time to squeeze you out into the world.*
-- Why are babies great at sleeping? *They had nine months of practice.*
-- What did the baby say to the cord? *Thanks for the food, I'll see you at the belly button.*
-- Why did the mouse's baby arrive so fast? *It only had 20 days to pack.*
+- Why did the baby kick so much? *The football team was waiting.*
+- Why did the baby mouse arrive so fast? *There were only 20 days to pack.*
+- Why did the baby stay in the womb so long? *The rent was free and the water was warm.*
+- What did the thumb say to the ink pad? *You always leave me with a good impression.*
 
 ## Connected maths
 - Remember the dough doubling, where one ball split into 2, then 4, then 8? If you keep going, how many balls after 6 rounds of splitting? **64 balls.**. Each round doubles the number. 1, then 2, 4, 8, 16, 32, 64. That is 6 rounds. So there are 64 balls. (queues `math.patterns.number-patterns.L3`)
@@ -821,10 +804,9 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 
 ## Things to buy
 - [Washable ink pad](https://www.amazon.in/s?k=washable+ink+pad+kids) (material): For making clear fingerprints in Prints From Before You Were Born. Used in a3. 
-- [Magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): To see the loops and whorls of fingerprints. Used in a3. Used again in many science units, from insects to materials.
-- [Kitchen or digital thermometer](https://www.amazon.in/s?k=digital+kitchen+thermometer) (tool): To measure how warm each pretend baby stays in Keep the Baby Warm. Used in e3. Used again in heat and weather units.
+- [Magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): To see the loops and whorls of fingerprints. Used in a3. 
+- [Kitchen or digital thermometer](https://www.amazon.in/s?k=digital+kitchen+thermometer) (tool): To measure how warm each pretend baby stays in Keep the Baby Warm. Used in e3. 
 - [Soft measuring tape, 150 centimetres](https://www.amazon.in/s?k=measuring+tape+150+cm) (tool): For marking baby lengths and measuring your own height. Used in a2. 
-- [A picture book about how babies grow, for young children](https://www.amazon.in/s?k=picture+book+how+babies+grow+children) (book): To read together after the unit. Choose one that shows many kinds of families. Used in p1. Read it on day 3 of the Forty-Week Scroll, and compare its pictures with your scroll.
 
 ## Warm-up
 - Every person began as one ____. → Cell.
@@ -834,7 +816,7 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - About how many weeks does a baby grow? → About 40 weeks, or nine months.
 - 1, 2, 4, 8... what comes next? → 16. Cells double each time they split.
 - What is your belly button? → The mark where your cord once joined you.
-- What does a newborn do first? → It breathes air for the first time.
+- What does a newborn do first? → They breathe air for the first time.
 - When did your fingerprints form? → Before you were born, at about four months in the womb.
 - Which baby grows longest: mouse, human or elephant? → The elephant, about 650 days.
 

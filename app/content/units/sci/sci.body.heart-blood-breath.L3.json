@@ -507,7 +507,7 @@
    "Soon parents were carrying blue children to Baltimore from all over the country, and then from other countries. Helen felt each small chest with her fingers and decided who could be helped. Vivien trained the surgeons who learned the operation. For many years his name was not written on the papers about it. Much later, in 1976, the university gave him an honorary doctor's degree. His painting now hangs on its walls.",
    "Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere under your hand, two loops of blood are turning, one through your lungs and one through the rest of you. Helen Taussig could not hear that sound. She did not need to. She knew where the blood had to go."
   ],
-  "epiphany": "For the parent: the blue was not about a weak heart or too little blood. It was about where the blood went. Blood only picks up oxygen when it passes through the lungs. Send more blood through the lungs, and the child turns pink. This is the whole idea of the unit: two loops, one through the air and one through the body. The story also quietly asks who gets credit, and shows that there is more than one way to listen.",
+  "epiphany": "For the parent: the blue was not about a weak heart or too little blood. It was about where the blood went. Blood only picks up oxygen when it passes through the lungs. Send more blood through the lungs, and the child turns pink. This is the whole idea of the unit: two loops, one through the air and one through the body.",
   "ask": [
    "Why were the babies blue? Where was their blood not going?",
    "Why did a new pipe to the lungs turn Eileen pink?",
@@ -553,7 +553,6 @@
      "qty": 1
     }
    ],
-   "safety": "If your child has a heart condition or asthma, ask your doctor before the jumping part. Stop at once if anyone feels dizzy, sick or has chest pain. Jump on a mat, not a slippery floor.",
    "schedule": [
     {
      "day": 1,
@@ -744,7 +743,7 @@
    "days": 2,
    "question": "Is the air I breathe out the same as the air in the room?",
    "predict": "Before you test, guess. Air goes into you and comes out again. Do you think it comes out the same, or changed? What might be different, and why do you think so?",
-   "fair_test": "To make it fair, use two glasses with the same amount of limewater. Push room air through one and breathed-out air through the other, for the same time. Only the kind of air changes.",
+   "fair_test": "To make it fair, use two glasses with the same amount of limewater. Push about the same amount of air through each: room air through one, breathed-out air through the other. Only the kind of air changes.",
    "results_table": [
     "Glass",
     "What air went in",
@@ -764,11 +763,11 @@
      "qty": 2
     },
     {
-     "item": "an empty plastic bottle and a little atta dough, to push room air through a straw",
+     "item": "an empty 500 ml plastic bottle and a little atta dough, to push room air through a straw",
      "qty": 1
     },
     {
-     "item": "a steel plate kept in the fridge for 10 minutes",
+     "item": "a steel plate",
      "qty": 1
     }
    ],
@@ -777,7 +776,7 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "A grown-up makes the limewater and leaves it covered overnight to settle. Do the cold plate breath test."
+     "what": "A grown-up makes the limewater and leaves it covered overnight to settle. Do the cold plate breath test while you wait."
     },
     {
      "day": 2,
@@ -805,8 +804,8 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Take the steel plate out of the fridge. 2. Ask your child to breathe out slowly onto it from close up. 3. Look at the mist.",
-     "say": "Breathe out onto this cold plate. What do you see? What do you think that mist is?",
+     "do": "1. Put the steel plate in the fridge for 10 minutes (or a bowl of ice water for the plate to sit on). 2. Take it out. 3. Ask your child to breathe out slowly onto it from close up. 4. Look at the mist.",
+     "say": "This plate has been in the fridge. Breathe out onto it. What do you see? What do you think that mist is?",
      "kid": "Breathe out onto the cold plate. Do you see a mist? What do you think it is?",
      "ask": [
       {
@@ -834,11 +833,11 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Carefully pour the clear limewater off the top into two glasses, the same amount in each. 2. Push one straw into the mouth of the empty bottle and press a little atta dough round it, so no air leaks. 3. Put the end of that straw in the first glass and squeeze the bottle. Lift the straw out before you let go, so the bottle fills with room air, not limewater. Do this 20 times. 4. Your child blows gently through the second straw into the second glass for about one minute, taking breaths in through the nose.",
+     "do": "1. Carefully pour the clear limewater off the top into two glasses, the same amount in each. 2. Push one straw into the mouth of the empty 500 ml bottle. Press a little atta dough round it, so no air leaks. 3. Put the end of that straw in the first glass and squeeze the bottle. Lift the straw out before you let go, so the bottle fills with room air, not limewater. Do this 20 to 30 times. 4. Your child blows gently through the second straw into the second glass for about one minute, taking breaths in through the nose.",
      "say": "In this glass we push ordinary room air. In this glass you blow your breath out. Blow gently, only out, never suck. Watch both glasses.",
      "kid": "Watch the two glasses. The grown-up pushes room air into one. You blow gently into the other. Only blow out. Never suck.",
      "adult": true,
-     "parent": "The breath glass usually turns milky within a minute. The room-air glass stays clear, or goes cloudy only very slowly, because room air has very little carbon dioxide. If your child keeps blowing for several minutes, the milky water can slowly turn clear again. That is normal, so stop once it is milky.",
+     "parent": "The breath glass usually turns milky within a minute. The room-air glass stays clear, or goes slightly cloudy only after a long time, because room air has very little carbon dioxide. If your child keeps blowing for several minutes, the milky water can slowly turn clear again. That is normal, so stop once it is milky.",
      "check": {
       "t": "mcq",
       "q": "The glass you breathed into turned milky. The room-air glass stayed clear. What does that tell us?",
@@ -885,7 +884,7 @@
    "mins": 35,
    "days": 1,
    "question": "How much air do I push out in one ordinary breath? And in my biggest breath?",
-   "predict": "Before you test, guess. Will one ordinary breath fill a small cup, a big bottle or a bucket? Will your biggest breath be bigger than a grown-up's? Why do you think so?",
+   "predict": "Before you test, guess. Will one ordinary breath fill a small cup, a big bottle or a bucket? Will a grown-up's biggest breath be bigger than yours? Why do you think so?",
    "fair_test": "To make it fair, everyone uses the same bottle and blows out through the same kind of tube. Each person has their own tube, to keep it clean. Do each kind of breath 2 times, because one try can be a fluke.",
    "results_table": [
     "Person",
@@ -912,17 +911,17 @@
      "qty": 1
     },
     {
-     "item": "a bendy plastic tube, about 50 cm long, one for each person",
+     "item": "a bendy plastic tube, about 50 cm long, one for each person who tests (the same tube can be washed and reused by one person)",
      "qty": 3,
      "buy": "b-tube"
     }
    ],
-   "safety": "Each person uses their own tube. Wipe up spilled water, so nobody slips. Stop if anyone feels dizzy from big breaths, and sit down.",
+   "safety": "Each person uses their own tube. Stop if anyone feels dizzy from big breaths, and sit down.",
    "schedule": [
     {
      "day": 1,
      "mins": 35,
-     "what": "Mark the bottle every 100 ml. Fill it and turn it upside down in the bucket. Blow ordinary and biggest breaths. Read the air space. Compare with the family."
+     "what": "Mark the bottle every 100 ml. Fill it and turn it upside down in the bucket. Blow ordinary and biggest breaths. Read the air space. Compare with other people at home, if you can."
     }
    ],
    "record": "Fill in the table. Draw a bar chart with one bar for each person's biggest breath.",
@@ -940,14 +939,14 @@
       "emoji": "🧒"
      },
      {
-      "label": "Brother, age 10",
+      "label": "Child, age 10",
       "value": 1800,
-      "emoji": "👦"
+      "emoji": "🧒"
      },
      {
-      "label": "Mother (filled the bottle)",
+      "label": "Grown-up (filled the bottle)",
       "value": 2000,
-      "emoji": "👩"
+      "emoji": "🧑"
      }
     ]
    },
@@ -1023,15 +1022,15 @@
     },
     {
      "id": "s4",
-     "mins": 6,
-     "do": "Test other family members with their own tubes. Make a bar chart of everyone's biggest breath.",
-     "say": "Now let's test the family. Everyone gets their own tube. Who do you think has the biggest breath?",
-     "kid": "Test your family. Each person uses their own tube. Draw a bar for each person's biggest breath.",
+     "mins": 8,
+     "do": "Test other people at home, if you have them, each with their own tube. Make a bar chart of everyone's biggest breath.",
+     "say": "Now let's test everyone who wants to try. Everyone gets their own tube. Who do you think has the biggest breath?",
+     "kid": "Test other people at home. Each person uses their own tube. Draw a bar for each person's biggest breath.",
      "think": "Singers and shehnai players train to make long, steady breaths out. How might a big breath help them?"
     },
     {
      "id": "s5",
-     "mins": 4,
+     "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. First, what you think now. Next, what you saw. Last, why you think it happened.",
@@ -1061,7 +1060,7 @@
      "buy": "b-tube"
     }
    ],
-   "safety": "Never put the tube inside anyone's ear. Hold it just at the opening. Never shout or tap into it.",
+   "safety": "Never put the tube inside anyone's ear. Hold it just at the opening.",
    "schedule": [
     {
      "day": 1,
@@ -1129,7 +1128,8 @@
       "a": 0,
       "why": "Sound from the heart spreads out through the chest. The wide funnel catches it from a big patch, and the tube carries it straight to your ear without spreading out again. Picking 'makes new sounds' usually means thinking the tool adds the sound. It only collects it."
      },
-     "think": "Helen Taussig could hardly hear, so she felt heartbeats with her fingers. Can you feel one with your hand flat on someone's chest?"
+     "think": "Helen Taussig could hardly hear, so she felt heartbeats with her fingers. Can you feel one with your hand flat on someone's chest?",
+     "parent": "No plastic tube? Roll a second paper tube, about 40 cm long, and tape it to the funnel spout. The sound is a little quieter but still clear."
     },
     {
      "id": "s4",
@@ -1251,7 +1251,6 @@
      "buy": "b-timer"
     }
    ],
-   "safety": "Stop if your hand hurts.",
    "schedule": [
     {
      "day": 1,
@@ -1327,11 +1326,11 @@
      "qty": 1
     },
     {
-     "item": "a toothpick or a matchstick with its head cut off",
+     "item": "a toothpick",
      "qty": 1
     }
    ],
-   "safety": "Use a toothpick with a blunted tip. Do not use a match with a head on it.",
+   "safety": "Keep the pointed end of the toothpick away from eyes and skin.",
    "schedule": [
     {
      "day": 1,
@@ -1362,7 +1361,7 @@
      "do": "1. Rest your child's arm flat on a table, palm up. 2. Find the pulse. 3. Press the dough ball gently onto that spot. 4. Stand the toothpick straight up in it. 5. Keep the arm very still.",
      "say": "Watch the toothpick. Every little tick is your heart pushing blood into the artery under it.",
      "kid": "Rest your arm on the table, palm up. Put the dough ball on your pulse. Stand the toothpick in it. Keep still. Watch it tick!",
-     "parent": "It may take a few tries to find the right spot. Move the dough a little if the toothpick does not tick. A longer stick, like a broom straw, shows the tick more clearly.",
+     "parent": "It may take a few tries to find the right spot. Move the dough a little if the toothpick does not tick. A longer stick, like a broom straw, shows the tick more clearly. On some wrists the tick is too small to see. If so, just feel the pulse with your fingers and skip the toothpick.",
      "ask": [
       {
        "q": "Is the ticking steady, like a clock?",
@@ -1411,7 +1410,6 @@
      "qty": 1
     }
    ],
-   "safety": "Breathe gently. If your child feels dizzy, stop and breathe normally.",
    "schedule": [
     {
      "day": 1,
@@ -1447,8 +1445,8 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Ask your child to put one hand on their belly. 2. Count slowly: in 2, 3, 4. Out, 2, 3, 4, 5, 6. 3. Do this ten times.",
-     "say": "Hand on your belly. Breathe in through your nose, 2, 3, 4. Feel your belly rise like a cloud. Now blow out slowly through your mouth, like cooling hot soup, 2, 3, 4, 5, 6.",
+     "do": "1. Ask your child to put one hand on their belly. 2. Count slowly: breathe in, 1, 2, 3, 4. Breathe out, 1, 2, 3, 4, 5, 6. 3. Do this ten times.",
+     "say": "Hand on your belly. Breathe in through your nose, 1, 2, 3, 4. Feel your belly rise like a cloud. Now blow out slowly through your mouth, like cooling hot soup, 1, 2, 3, 4, 5, 6.",
      "kid": "Hand on your belly. Breathe in for 4. Feel it rise. Blow out slowly for 6, like cooling hot soup. Do it ten times.",
      "parent": "This is the 'Cooling Cloud' breath. The long breath out is the important part. It gently slows the heart through a nerve that runs from the brain to the heart."
     },
@@ -1531,7 +1529,7 @@
      "do": "1. Pour kidney beans into the jar until it is a little less than half full. 2. Add one white chickpea. 3. Sprinkle in a pinch of sesame seeds. 4. Pour in the pale yellow water until the jar is nearly full.",
      "say": "Blood looks like just a red liquid. But it's really a crowd of tiny things floating in a yellow liquid. Let's build it. The yellow water is plasma. The kidney beans are red blood cells. The single chickpea is a white blood cell. The sesame seeds are platelets.",
      "kid": "Pour lots of kidney beans into the jar. They are red blood cells. Add one chickpea. That is a white blood cell. Sprinkle a few sesame seeds. They are platelets. Pour in yellow water. That is plasma.",
-     "parent": "In real blood, a little under half is red cells and a little over half is plasma. For every 600 to 700 red cells, there is about one white cell, so there is only one chickpea. There is about one platelet for every 20 red cells, so about 20 sesame seeds suit a cup of kidney beans.",
+     "parent": "In real blood, a little under half is red cells and a little over half is plasma. For every 600 to 700 red cells, there is about one white cell, so there is only one chickpea. There is about one platelet for every 20 red cells, so about 20 sesame seeds suit a cup of kidney beans. In this model only the numbers match real blood: a real white cell is bigger than a red cell, but a chickpea is smaller than a kidney bean.",
      "context": "This is the jar of blood activity. You make a model of blood from yellow water, kidney beans, one chickpea and sesame seeds."
     },
     {
@@ -1555,9 +1553,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Stir the jar, then leave it still for a minute. Watch the beans sink.",
-     "say": "Look. The beans sink to the bottom and the yellow water stays on top. Real blood does this too. In a hospital, blood is kept in a tube with a medicine that stops it clotting. Left standing for a few hours, its red cells sink and the yellow plasma stays on top.",
-     "kid": "Stir the jar and leave it still. Watch the beans sink. Blood in a tube does this too.",
+     "do": "Stir the jar, then leave it still for a minute. Watch the beans drop to the bottom.",
+     "say": "Look. The beans drop to the bottom at once and the yellow water stays on top. Real blood does this too, but much more slowly. In a hospital, blood is kept in a tube with a medicine that stops it clotting. Left standing for a few hours, its red cells sink and the yellow plasma stays on top.",
+     "kid": "Stir the jar and leave it still. Watch the beans drop. Blood in a tube does this too, but it takes hours.",
      "think": "Why do you think your blood doesn't settle like this inside you?"
     }
    ]
@@ -1568,20 +1566,26 @@
    "id": "g1",
    "title": "The Great Circle: a red blood cell board game",
    "mins": 25,
-   "players": "2 to 4 players, or one child playing against the app",
+   "players": "2 to 4 players",
    "printables": [
     {
      "kind": "board",
-     "title": "The Great Circle board: a figure-of-eight path of 24 squares",
+     "title": "The Great Circle board: a figure-of-eight path of 14 squares",
      "items": [
-      "HEART, RIGHT SIDE (start)",
-      "Lungs: pick up oxygen",
-      "HEART, LEFT SIDE",
-      "Brain stop",
-      "Leg muscles stop",
-      "Tummy stop: pick up food",
-      "Back to the heart",
-      "Valve door squares: you may only go forward"
+      "1. HEART, RIGHT SIDE. Start and finish. Each time you land on or pass this square, you finish one lap.",
+      "2. CARD SQUARE. Take the top body card and do what it says.",
+      "3. LUNGS (STOP). Drop all your carbon dioxide tokens. Pick up oxygen tokens until you carry 4.",
+      "4. CARD SQUARE. Take the top body card and do what it says.",
+      "5. HEART, LEFT SIDE. The heart squeezes you out to the body. Roll again and move on.",
+      "6. BRAIN (STOP). Give 1 oxygen to the brain, if you have one. Pick up 1 carbon dioxide.",
+      "7. CARD SQUARE. Take the top body card and do what it says.",
+      "8. ARM MUSCLES (STOP). Give 1 oxygen to the arms, if you have one. Pick up 1 carbon dioxide.",
+      "9. TUMMY (STOP). Give 1 oxygen to the tummy, if you have one. Pick up 1 carbon dioxide. Then pick up 1 food token, if you carry none.",
+      "10. CARD SQUARE. Take the top body card and do what it says.",
+      "11. LEG MUSCLES (STOP). Give 1 oxygen to the legs, if you have one. Pick up 1 carbon dioxide.",
+      "12. CARD SQUARE. Take the top body card and do what it says.",
+      "13. BIG VEIN. Blood from the legs flows home. Roll again and move on.",
+      "14. VALVE. Say 'lub-dub' out loud. Then take the top body card and do what it says."
      ]
     },
     {
@@ -1591,65 +1595,82 @@
       "20 oxygen tokens marked O",
       "20 carbon dioxide tokens marked CO2",
       "10 food tokens marked with an idli",
-      "4 red blood cell counters, one for each player"
+      "4 red blood cell counters, one for each player. Use coins or buttons if you prefer."
      ]
     },
     {
      "kind": "cards",
-     "title": "20 body cards to cut out",
+     "title": "18 body cards to cut out",
      "items": [
-      "You are running! Move 2 extra squares.",
-      "You are asleep. Move only 1 square this turn.",
-      "Smoky air near a burning rubbish heap. At the lungs this time, pick up only 1 oxygen.",
-      "Deep breath in the fresh air of a park. Pick up 1 extra oxygen at the lungs.",
-      "A valve snapped shut behind you. Lub-dub! You cannot go backwards.",
-      "The leg muscles are working hard. Drop 1 extra oxygen there if you have it.",
-      "You scraped your knee. A platelet helps plug it. Miss one turn while it heals.",
-      "Climbing stairs to the third floor. Move 2 extra squares.",
-      "You are sitting and reading. Your heart is calm. Move as normal.",
-      "Scared by a barking dog! Your heart speeds up. Move 2 extra squares.",
-      "Slow breathing time. Move 1 square, then take a slow breath with everyone.",
-      "Brain needs oxygen to think. Drop 1 oxygen at the brain if you pass it.",
-      "Lunch time! Pick up 1 food token at the tummy stop.",
-      "Long road to the toes. Stay where you are this turn.",
-      "QUESTION: Which side of the heart sends blood to the lungs? Answer right, move 2.",
-      "QUESTION: What gas do the leg muscles give you to carry away? Answer right, move 2.",
-      "QUESTION: What makes the lub-dub sound? Answer right, move 2.",
-      "QUESTION: Where does your blood pick up oxygen? Answer right, move 2.",
-      "QUESTION: Why do you breathe faster when you run? Answer right, move 2.",
-      "QUESTION: Name one way to keep your lungs healthy. Answer right, move 2."
+      "You are running! Your heart pumps faster. Move 2 extra squares.",
+      "A barking dog scares you! Your heart speeds up. Move 2 extra squares.",
+      "You climb the stairs to the third floor. Your muscles want oxygen. Move 2 extra squares.",
+      "You are asleep and your heart is slow. On your next turn, move only 1 square.",
+      "Slow breathing time. Breathe in for 4 and out for 6 with everyone. Then take 1 oxygen token, if you carry fewer than 4.",
+      "Smoky air near a burning rubbish heap. The next time you reach the lungs, pick up oxygen only until you carry 2.",
+      "Deep breath in the fresh air of a park. Take 1 oxygen token now, if you carry fewer than 4.",
+      "Lub-dub! The valves keep blood moving the right way. Roll again and move on.",
+      "The leg muscles are working hard. The next time you reach the legs, give 2 oxygen instead of 1, if you have them.",
+      "The brain is thinking hard. The next time you reach the brain, give 2 oxygen instead of 1, if you have them.",
+      "You scraped your knee. Platelets plug the cut while it heals. Miss your next turn.",
+      "Lunch time! Take 1 food token, if you carry none.",
+      {
+       "f": "QUESTION: Which side of the heart sends blood to the lungs? Answer right and move 2 extra squares.",
+       "b": "The right side. The left side sends blood out to the body."
+      },
+      {
+       "f": "QUESTION: Which gas do your cells make and your blood carries away? Answer right and move 2 extra squares.",
+       "b": "Carbon dioxide. You breathe it out."
+      },
+      {
+       "f": "QUESTION: What makes the lub-dub sound? Answer right and move 2 extra squares.",
+       "b": "The heart's valves, the little flap doors, snapping shut."
+      },
+      {
+       "f": "QUESTION: Where does your blood pick up oxygen? Answer right and move 2 extra squares.",
+       "b": "In the lungs, in the tiny air sacs."
+      },
+      {
+       "f": "QUESTION: Why do you breathe faster when you run? Answer right and move 2 extra squares.",
+       "b": "Your muscles need more oxygen, so you breathe faster to bring it in."
+      },
+      {
+       "f": "QUESTION: Name one way to keep your lungs healthy. Answer right and move 2 extra squares.",
+       "b": "Stay away from smoke, or run and play every day."
+      }
      ]
     }
    ],
    "rules": [
-    "Each player is a red blood cell. Put all the counters on HEART, RIGHT SIDE.",
-    "Take turns. Roll a dice and move forward. Arrows show the way. You can never go backwards, because valves stop you.",
-    "When you pass through the lungs, pick up 2 oxygen tokens and drop all your carbon dioxide tokens there.",
-    "When you pass a body stop, like the brain or the legs, drop 1 oxygen token there and pick up 1 carbon dioxide token. Each oxygen you deliver scores 1 point.",
-    "If you land on a card square, take a body card and do what it says.",
-    "You can carry at most 4 oxygen tokens, the way a real red cell can carry only so much.",
-    "When every player has gone round the circle 3 times, count your points. The most oxygen delivered wins."
+    "Each player is a red blood cell. Put all the counters on square 1, HEART, RIGHT SIDE. You need a dice. No dice? Write 1 to 6 on six scraps of paper, put them in a cup and draw one each turn.",
+    "Take turns. Roll the dice and move your counter forward round the path, in order from square 1 to 14, then back to 1. You can never go backwards.",
+    "A STOP square always stops you. If your roll would take you past a STOP, land on it and end your move there.",
+    "At a body STOP (brain, arms, tummy, legs), give 1 oxygen token back to the pile and write 1 point for yourself on paper. If you also carry a food token, give it back too. That oxygen and food together score 3 points instead of 1, because cells need both to make energy. Then pick up 1 carbon dioxide token. If you have no oxygen to give, that part of the body goes without, so you score nothing and pick up no carbon dioxide.",
+    "You carry at most 4 oxygen tokens and 1 food token. If a pile runs out, use pebbles or paper scraps.",
+    "On a card square, take the top body card and do what it says. Then put it at the bottom of the pile. A QUESTION card is read to you by another player, who looks at the back. A wrong answer costs nothing.",
+    "'Roll again' means roll and move straight away. Do only what the square where you end up says.",
+    "The game ends when one player finishes 2 laps. Everyone else finishes that round, so all players have the same number of turns. The most points wins. If points are equal, the players share the win."
    ],
-   "context": "The Great Circle is a board game where each player is a red blood cell. You carry oxygen from the lungs to the body, and carry carbon dioxide back.",
+   "context": "The Great Circle is a board game where each player is a red blood cell. You pick up oxygen at the lungs, give it to the body, and carry carbon dioxide back.",
    "setup": [
     {
-     "art": "A printed figure-of-eight board on the floor, a heart in the middle, pink lungs at the top loop and body stops on the bottom loop.",
-     "caption": "1. Lay out the board. Put the red cell counters on the right side of the heart."
+     "art": "A printed board of 14 squares in a figure-of-eight path on the floor, with the heart where the loops meet, the lungs on the top loop and body stops on the bottom loop.",
+     "caption": "1. Put the board down. Put every counter on HEART, RIGHT SIDE."
     },
     {
      "art": "Small paper tokens in three piles: O for oxygen, CO2 for carbon dioxide, and little rotis for food.",
      "caption": "2. Make three piles of tokens."
     },
     {
-     "art": "A child moving a red counter past the lungs and picking up two O tokens.",
-     "caption": "3. Roll, move, pick up oxygen at the lungs and drop it at body stops."
+     "art": "A child moving a red counter onto the lungs square and picking up O tokens.",
+     "caption": "3. Roll, move, pick up oxygen at the lungs and give it to the body stops."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay the board on the floor. 2. Put the tokens in three piles. 3. Shuffle the body cards. 4. Everyone puts their red cell counter on HEART, RIGHT SIDE.",
+     "do": "1. Lay the board on a table or the floor. 2. Put the tokens in three piles. 3. Shuffle the body cards and put them face down. 4. Find a dice. 5. Everyone puts their red cell counter on HEART, RIGHT SIDE.",
      "say": "In this game, you are a red blood cell. Your job is to carry oxygen from the lungs to every part of the body. The heart pushes you round and round.",
      "kid": "You are a red blood cell! Put your counter on the right side of the heart. Your job is to carry oxygen to the body.",
      "context": "This is the first step of The Great Circle, a board game where you play a red blood cell. Here you set up the board."
@@ -1657,9 +1678,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Play the first trip slowly together. Follow one counter from the heart to the lungs and back.",
-     "say": "Look. From the right side of the heart, we go first to the lungs. Pick up two oxygen tokens here. Then back to the heart, the left side. Now the heart pushes us out to the body.",
-     "kid": "Move from the heart to the lungs. Pick up 2 oxygen. Then go back to the heart. Then out to the body!",
+     "do": "Play the first trip slowly together. Follow one counter from the heart to the lungs, fill up with oxygen, and go on to the body.",
+     "say": "Look. From the right side of the heart, we go to the lungs. Fill up with oxygen tokens here, up to four. Then the left side of the heart pushes us out to the body.",
+     "kid": "Move from the heart to the lungs. Pick up oxygen until you have 4. Then the heart pushes you out to the body!",
      "check": {
       "t": "mcq",
       "q": "In The Great Circle, you are a red blood cell leaving the right side of the heart. Where do you go first?",
@@ -1675,10 +1696,10 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Take turns rolling and moving. 2. Pick up and drop tokens as the rules say. 3. Read body cards out loud and do what they say.",
-     "say": "Every time you drop oxygen at a body stop, tell us what that part will do with it.",
-     "kid": "Take turns. Roll and move. Drop oxygen at the brain and legs. Pick up carbon dioxide. Read the cards out loud.",
-     "parent": "Good answers when dropping oxygen: the leg muscles use it to get energy for running, the brain uses it to think. When a player drops carbon dioxide at the lungs, ask: 'What happens to it now?' (We breathe it out.)",
+     "do": "1. Take turns rolling and moving. 2. Pick up and give back tokens as the squares say. 3. On a card square, read the card out loud and do what it says. 4. Play until one player has finished 2 laps.",
+     "say": "Every time you give oxygen to a body part, tell us what that part will do with it.",
+     "kid": "Take turns. Roll and move. Give oxygen to the brain, arms, tummy and legs. Pick up carbon dioxide. Read the cards out loud.",
+     "parent": "Good answers when giving oxygen: the leg muscles use it to get energy for running, the brain uses it to think. When a player gives up carbon dioxide at the lungs, ask: 'What happens to it now?' (We breathe it out.) Two players take about 10 minutes; with four, let the game run to the end of the round.",
      "ask": [
       {
        "q": "Why do you drop your carbon dioxide at the lungs?",
@@ -1692,7 +1713,7 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "When a 'You are running!' or 'Scared!' card comes up, stop and do it for real. Run on the spot for 20 seconds and feel your heart.",
+     "do": "When a 'You are running!' card or a 'barking dog' card comes up, stop. Run on the spot for 20 seconds and feel your heart.",
      "say": "This card says we're running. Let's all run on the spot for 20 seconds. Now feel your heart. Is it pushing you round faster?",
      "kid": "Run on the spot for 20 seconds. Feel your heart. It pushes the blood round faster when you run.",
      "check": {
@@ -1710,8 +1731,8 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "1. Count everyone's points. 2. Then talk about the game.",
-     "say": "Count your oxygen points. Now think. In real life, your red blood cells go round about once every minute. How many trips would that be in a day?",
+     "do": "1. Add up everyone's points. 2. Then talk about the game.",
+     "say": "Count your points. Now think. In real life, a red blood cell goes round the body about once a minute. How many trips would that be in a day?",
      "kid": "Count your points. Who delivered the most oxygen? Real red cells go round about once a minute, all day long!",
      "think": "A real red blood cell goes round the body more than a thousand times a day, for about four months. Then a new one takes their place. Is the you of today made of the same blood as the you of last year?"
     }
@@ -1721,7 +1742,7 @@
    "id": "g2",
    "title": "Chalk Heart Relay",
    "mins": 20,
-   "players": "2 to 6 players, in a courtyard, a building corridor or a big room",
+   "players": "2 to 6 players. One person is the caller and counts. A parent can do this. Everyone else runs.",
    "printables": [
     {
      "kind": "cards",
@@ -1743,18 +1764,21 @@
      "kind": "score sheet",
      "title": "Deliveries in 1 minute",
      "items": [
-      "Caller card",
-      "Number of oxygen balls delivered in 1 minute"
+      "Minute 1. Caller card: ____________ Balls in the basket: ____",
+      "Minute 2. Caller card: ____________ Balls in the basket: ____",
+      "Minute 3. Caller card: ____________ Balls in the basket: ____",
+      "Minute 4. Caller card: ____________ Balls in the basket: ____",
+      "Minute 5. Caller card: ____________ Balls in the basket: ____"
      ]
     }
    ],
    "rules": [
-    "Draw a big figure of eight on the ground with chalk, or lay it out on the floor with a long old sari or string. Mark a heart where the loops cross, lungs at the top loop and a body basket at the bottom loop.",
-    "Put a pile of scrunched-up paper balls at the lungs. These are oxygen.",
-    "Players are red blood cells. Each trip, they pick up 2 oxygen balls at the lungs, go back through the heart and drop them in the body basket.",
-    "They must always go the same way round, through the heart in the middle each time.",
-    "The caller draws a card every minute. The card says how fast to move.",
-    "Count how many balls reach the body basket in each minute. Write it on the score sheet."
+    "Draw a big figure of eight on the ground with chalk, or lay it out with string or a long old sari. Mark a heart where the loops cross, lungs at the top loop and a body basket at the bottom loop.",
+    "Put a pile of 40 scrunched-up paper balls at the lungs. These are oxygen.",
+    "The runners are red blood cells. Each trip, a runner picks up 2 oxygen balls at the lungs, runs through the heart and drops them in the body basket. Then the runner goes back to the lungs through the heart.",
+    "The caller draws a card every minute and reads it out. The card says how fast to move, or how many balls to carry. If a card says 1 ball or 3 balls, carry that many on every trip that minute.",
+    "At the end of each minute, the caller counts the balls in the basket and writes the number on the score sheet. Then the balls go back to the lungs.",
+    "Play 5 minutes (5 cards). Then look at the score sheet together. No one wins. The aim is to see how the speed of the heart changes how much oxygen reaches the body."
    ],
    "context": "The Chalk Heart Relay is a running game where children are red blood cells. They carry paper oxygen balls round a chalk figure of eight, from the lungs to the body, as fast as the body needs.",
    "setup": [
@@ -1775,7 +1799,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Draw the figure of eight with chalk, or lay it out with an old sari or string, big enough to run round. 2. Mark the heart, lungs and body basket. 3. Make 30 paper balls.",
+     "do": "1. Draw the figure of eight with chalk, or lay it out with string or an old sari, big enough to run round. 2. Mark the heart, lungs and body basket. 3. Make 40 paper balls. 4. Make the caller cards and the score sheet.",
      "say": "Today you are red blood cells. This chalk shape is the path your blood takes. Top loop, the lungs. Bottom loop, the body. Every trip goes through the heart in the middle.",
      "kid": "You are a red blood cell! The top loop goes to the lungs. The bottom loop goes to the body. Always go through the heart in the middle.",
      "context": "This is the first step of the Chalk Heart Relay, a running game about blood carrying oxygen. Here you draw the path."
@@ -1783,9 +1807,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Draw a caller card. 2. Everyone moves at that speed for one minute. 3. Count the balls in the basket and write it down. 4. Empty the basket back at the lungs. 5. Do 4 or 5 cards.",
+     "do": "1. The caller draws a card and reads it out. 2. Everyone moves that way for one minute. 3. The caller counts the balls in the basket and writes the number down. 4. Put the balls back at the lungs. 5. Do 5 cards.",
      "say": "Card says: sleeping. Tiptoe round, slowly. Count! Next card: running a race! Go!",
-     "kid": "Listen to the card. Move at that speed. Carry 2 oxygen balls each trip. After one minute, count the balls in the basket.",
+     "kid": "Listen to the card. Move the way it says. Carry 2 oxygen balls each trip, unless the card says otherwise. After one minute, the caller counts the balls in the basket.",
      "check": {
       "t": "mcq",
       "q": "In the Chalk Heart Relay, more oxygen reached the body basket during the 'running a race' minute than the 'sleeping' minute. Why?",
@@ -1802,7 +1826,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Compare the score sheet numbers. Then feel your own pulses.",
-     "say": "Look at our numbers. Running delivered the most. Now feel your own pulse after all that running. Your real heart did the same thing as our game.",
+     "say": "Look at our numbers. Running delivered the most. Now feel your own pulse after all that running. Your real heart does the same thing as our game.",
      "kid": "Look at the numbers. Which minute delivered the most oxygen? Now feel your real pulse. Is it fast?",
      "think": "Your heart speeds up even when you feel scared, sitting still. Why might your body get ready to run before you even move?"
     }
@@ -1824,13 +1848,8 @@
     {
      "item": "a big sheet of chart paper and colour pencils",
      "qty": 1
-    },
-    {
-     "item": "the funnel stethoscope from the stethoscope activity, if you made it",
-     "qty": 1
     }
    ],
-   "safety": "Only count pulses of people who say yes. Grandparents and anyone with a heart condition should not do the stair part.",
    "schedule": [
     {
      "day": 1,
@@ -1840,7 +1859,7 @@
     {
      "day": 2,
      "mins": 15,
-     "what": "Count pulses again after climbing one floor of stairs or walking fast for 2 minutes, for those who can. Count a sleeping person's breaths."
+     "what": "Count pulses again after climbing one floor of stairs or walking fast for 2 minutes, for those who can and want to. Count a sleeping person's breaths."
     },
     {
      "day": 3,
@@ -1852,11 +1871,11 @@
    "context": "In this 3-day project, you measure the heartbeats and breathing of everyone in your home. Then you make a poster that shows whose heart beats fastest and look for a pattern.",
    "setup": [
     {
-     "art": "A child gently holding a grandmother's wrist, counting, with a notebook open beside them.",
+     "art": "A child gently holding a family member's wrist, counting, with a notebook open beside them.",
      "caption": "1. Count each person's pulse for 30 seconds, sitting still. Double it."
     },
     {
-     "art": "A child watching a sleeping younger brother's chest rise and fall, counting on fingers.",
+     "art": "A child watching a sleeping family member's chest rise and fall, counting on fingers.",
      "caption": "2. Count breaths in one minute by watching a chest rise and fall."
     },
     {
@@ -1877,20 +1896,20 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Those who can, climb one floor of stairs or walk fast for 2 minutes. 2. Count their pulse straight after. 3. At bedtime, quietly count a sleeping person's breaths for one minute.",
+     "do": "1. Those who can and want to, climb one floor of stairs or walk fast for 2 minutes. 2. Count their pulse straight after. 3. At bedtime, quietly count a sleeping person's breaths for one minute.",
      "say": "Today we see how much each heart speeds up. And tonight, let's count someone's breathing while they sleep.",
      "kid": "Count pulses again after stairs. Tonight, quietly count a sleeping person's breaths for one minute.",
      "wait": "Do this on the second day.",
      "check": {
       "t": "mcq",
-      "q": "Your little brother breathes 24 times a minute asleep. Your mother breathes 14 times. What is the most likely reason?",
+      "q": "A toddler breathes 24 times a minute asleep. A grown-up breathes 14 times a minute asleep. What is the most likely reason?",
       "options": [
        "Younger, smaller people usually breathe faster",
-       "Your brother is ill",
-       "Your mother is holding her breath"
+       "The toddler is ill",
+       "The grown-up is holding their breath"
       ],
       "a": 0,
-      "why": "Smaller bodies usually breathe faster and have faster hearts, like the mouse and the elephant. A child breathing 24 times a minute asleep is normal. Picking 'ill' is a worry many people have, but a faster rate in a child is usual."
+      "why": "Smaller bodies usually breathe faster and have faster hearts, like the mouse and the elephant. A toddler breathing 24 times a minute asleep is normal. Picking 'ill' is a worry many people have, but a faster rate in a child is usual."
      }
     },
     {
@@ -2080,7 +2099,7 @@
      "do": "Read the usual and creative ideas, then build a new design and test it.",
      "say": "Here are some other ideas. Can you invent a better one and beat your best score?",
      "kid": "Look at the other ideas. Invent your own. Can it beat your best score?",
-     "think": "Helen Taussig felt heartbeats with her fingers instead of her ears. Could you design a tool for someone who cannot hear?"
+     "think": "A doctor who cannot hear well still needs to know about the heart. What could they use instead of their ears?"
     }
    ]
   }
@@ -2094,7 +2113,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Farhan, a boy in Class 3, says, 'My heart is on the left side of my chest, because I feel it beat there.' His sister Meenakshi says it is nearer the middle. Who is right?",
+     "p": "Farhan, a boy in Class 3, says, 'My heart is on the left side of my chest, because I feel it beat there.' His sister Meenakshi, a girl in Class 4, says it is nearer the middle. Who is right?",
      "opts": [
       "Meenakshi. The heart sits in the middle, tipped a little, so the strongest beat is felt on the left.",
       "Farhan. The whole heart is on the left side.",
@@ -2121,40 +2140,8 @@
      "why": "A strong answer links the muscles' need for oxygen to both faster breathing and a faster heart."
     },
     {
-     "t": "truefalse",
-     "p": "Your lungs have their own muscles that suck air in.",
-     "a": false,
-     "why": "False. Many people think we suck air in. But lungs cannot move by themselves. The diaphragm under them tightens and moves down to make room, and the air outside pushes in."
-    },
-    {
-     "t": "mcq",
-     "p": "A girl looks at the veins on her wrist. She says, 'The blood in my veins is blue. It turns red when it touches air.' What is wrong with her idea?",
-     "opts": [
-      "Blood is always red. Blood in veins is darker red, and veins only look blue through skin.",
-      "Nothing. Blood in veins is blue.",
-      "Blood is green until it leaves the body",
-      "Veins have no blood in them"
-     ],
-     "a": 0,
-     "why": "Blood coming back to the heart has given away some oxygen, so it is darker red, like beetroot juice. Light shining through skin makes the veins look blue. Blood taken from a vein at a clinic is dark red, even before air touches it."
-    },
-    {
-     "t": "mcq",
-     "p": "In the jumping heart experiment, Kavya, a girl in Class 3, counted 40 beats in 30 seconds while sitting still. How many is that in one minute?",
-     "how": "e1",
-     "context": "This question is about the jumping heart experiment. You count your pulse at your wrist while sitting still, just after one minute of jumping, and after resting.",
-     "opts": [
-      "40",
-      "80",
-      "70",
-      "20"
-     ],
-     "a": 1,
-     "why": "One minute is two lots of 30 seconds, so double 40. 40 + 40 = 80. Picking 20 usually means halving instead of doubling."
-    },
-    {
      "t": "sort",
-     "p": "Sort these. Do they make your heart beat FASTER or SLOWER?",
+     "p": "Sort these. Compared with sitting still, do they make your heart beat FASTER or SLOWER?",
      "cats": [
       "Faster",
       "Slower"
@@ -2181,7 +2168,7 @@
        "Faster"
       ],
       [
-       "sitting and reading",
+       "lying down and resting",
        "Slower"
       ]
      ],
@@ -2217,12 +2204,20 @@
      "why": "Each part has one main job in moving blood and air. They only work as a team."
     },
     {
+     "t": "fill",
+     "p": "The two bottom chambers of the heart, which squeeze blood out, are called ____.",
+     "a": [
+      "ventricles"
+     ],
+     "why": "The two top chambers, the atria, take blood in. The two bottom chambers, the ventricles, squeeze it out."
+    },
+    {
      "t": "mcq",
      "p": "Why should you feel your pulse with your fingers, not your thumb?",
      "opts": [
       "Your thumb has its own pulse, which can confuse you",
       "Thumbs are too short",
-      "Thumbs cannot feel anything"
+      "Thumbs are too big to press on a wrist"
      ],
      "a": 0,
      "why": "Your thumb has an artery in it with its own pulse. You might count your own thumb's beat instead of the wrist's. Fingers work better."
@@ -2242,6 +2237,12 @@
      "art": "An outline of a chest with a ringed tube, two lungs, a heart between them and a dome muscle below, with four blank label lines."
     },
     {
+     "t": "truefalse",
+     "p": "Blood leaves your heart, goes round your body and comes back to your heart again. It is the same blood going round and round.",
+     "why": "True. Blood does not get used up. It drops off oxygen and food, picks up waste, and comes back to the heart to be sent round again.",
+     "a": true
+    },
+    {
      "t": "perspective",
      "p": "Is it bad for a child to run until they are out of breath? Three people give different answers.",
      "views": [
@@ -2250,7 +2251,7 @@
        "says": "Don't run so much. You will tire out your heart."
       },
       {
-       "who": "Dr Revathi, a children's doctor in Madurai",
+       "who": "Dr Kalpana, a children's doctor in Madurai",
        "says": "Getting out of breath while playing makes the heart and lungs stronger."
       },
       {
@@ -2709,7 +2710,7 @@
     },
     {
      "t": "write",
-     "p": "In the jumping heart experiment, Revathi, a girl in Class 4, had a pulse of 80 sitting, 140 just after jumping, and 95 after 2 minutes of rest. Her mother's was 70, 120, then 72. Whose heart got back to resting faster? What might that tell you?",
+     "p": "In the jumping heart experiment, Revathi, a girl in Class 3, had a pulse of 80 sitting, 140 just after jumping, and 95 after 2 minutes of rest. Her mother's was 70, 120, then 72. Whose heart got back to resting faster? What might that tell you?",
      "lines": 4,
      "how": "e1",
      "context": "This question is about the jumping heart experiment. You count your pulse at your wrist while sitting still, just after one minute of jumping, and after resting.",
@@ -2748,7 +2749,7 @@
   },
   {
    "t": "mcq",
-   "p": "Meenakshi, a girl in Class 3, counted her pulse for 15 seconds and got 22 beats. About how many beats is that in one minute?",
+   "p": "Nandini, a girl in Class 3, counted her pulse for 15 seconds and got 22 beats. About how many beats is that in one minute?",
    "opts": [
     "88",
     "44",
@@ -2757,20 +2758,6 @@
    ],
    "a": 0,
    "why": "One minute is four lots of 15 seconds. 22 + 22 + 22 + 22 = 88. Picking 44 means doubling, which gives only 30 seconds.",
-   "outcome": 1,
-   "how": "e1",
-   "context": "This question is about the jumping heart experiment. You count your pulse at your wrist while sitting still, just after one minute of jumping, and after resting."
-  },
-  {
-   "t": "mcq",
-   "p": "In the jumping heart experiment, when was the pulse fastest?",
-   "opts": [
-    "Sitting still",
-    "Just after jumping",
-    "After 2 minutes of rest"
-   ],
-   "a": 1,
-   "why": "Just after jumping, the muscles needed the most oxygen, so the heart beat fastest. Picking 'after rest' usually means thinking the heart keeps speeding up after you stop. It starts slowing straight away.",
    "outcome": 1,
    "how": "e1",
    "context": "This question is about the jumping heart experiment. You count your pulse at your wrist while sitting still, just after one minute of jumping, and after resting."
@@ -3010,7 +2997,7 @@
    "youtube": "ruM4Xxhx32U",
    "mins": 5,
    "why": "A clear animation of the four chambers of the heart, the valves and the two loops of blood. Good for the parent and older children.",
-   "check": "Found by YouTube search: \"How the heart actually pumps blood - Edmond Hui\" by TED-Ed. Title checked automatically; a parent may still preview it."
+   "check": "A parent may still preview it first."
   },
   {
    "title": "How do lungs work?",
@@ -3018,7 +3005,7 @@
    "youtube": "8NUxvJS-_0k",
    "mins": 5,
    "why": "Shows the diaphragm, the branching tubes and the air sacs, and how oxygen passes into the blood.",
-   "check": "Found by YouTube search: \"How do lungs work? - Emma Bryce\" by TED-Ed. Title checked automatically; a parent may still preview it."
+   "check": "A parent may still preview it first."
   },
   {
    "title": "Operation Ouch: the heart",
@@ -3026,7 +3013,7 @@
    "youtube": "DB5HxSPGVp0",
    "mins": 6,
    "why": "Two doctors, who are twins, show the heart and pulse with fun experiments made for children.",
-   "check": "Found by YouTube search: \"Operation Ouch - The Heart | Amazing Body Facts for Kids\" by Operation Ouch. Title checked automatically; a parent may still preview it."
+   "check": "A parent may still preview it first."
   }
  ],
  "applications": [
@@ -3122,8 +3109,8 @@
   "Where did the breath you just breathed out go?",
   "Who made the oxygen you are breathing at this table?",
   "Why do you think you yawn when you are tired?",
-  "Your heart is about the size of your fist. Whose fist is biggest at home? Whose heart is biggest?",
-  "When we climbed those stairs, what did your heart and breath do?",
+  "Your heart is about the size of your fist. Is a grown-up's heart bigger than yours? How could you guess?",
+  "After you climb a flight of stairs, what do your heart and breath do?",
   "Can you breathe so slowly that a feather in front of your nose does not move?",
   "Why do you think a doctor listens to your back as well as your chest?",
   "If you could shrink and ride a red blood cell, where would you go first?",
@@ -3135,20 +3122,8 @@
    "a": "It wanted to learn something by heart."
   },
   {
-   "j": "What did one lung say to the other?",
-   "a": "We should stick together, we're a good pair."
-  },
-  {
-   "j": "Why did the red blood cell never get lost?",
-   "a": "It always went round in circles."
-  },
-  {
    "j": "What music does a heart like best?",
    "a": "Anything with a good beat."
-  },
-  {
-   "j": "Why was the doctor's stethoscope so calm?",
-   "a": "It always knew how to listen."
   },
   {
    "j": "Why did the vein feel left out?",
@@ -3163,10 +3138,6 @@
    "a": "It wanted to take a breather."
   },
   {
-   "j": "What did the heart say to the valve?",
-   "a": "Don't let me down. And don't let me back!"
-  },
-  {
    "j": "Why did the lungs win the singing contest?",
    "a": "They had the best air time."
   },
@@ -3175,44 +3146,16 @@
    "a": "I'm feeling really pumped!"
   },
   {
-   "j": "Why did the oxygen go to the lungs?",
-   "a": "It heard the blood was giving free rides."
-  },
-  {
    "j": "Why did the pulse go to the wrist?",
    "a": "It wanted to be handy."
   },
   {
-   "j": "What is a heart's favourite game?",
-   "a": "Pump-and-seek."
-  },
-  {
-   "j": "Why was the windpipe so organised?",
-   "a": "It kept everything in rings."
-  },
-  {
-   "j": "What did the blood say after one minute?",
-   "a": "Back again! Did you miss me?"
-  },
-  {
-   "j": "Why did the carbon dioxide leave the party early?",
-   "a": "It knew it was being breathed out."
-  },
-  {
    "j": "Why did the platelet become a builder?",
-   "a": "It was good at patching things up."
-  },
-  {
-   "j": "What do lungs do on holiday?",
-   "a": "They take a deep breath and relax."
+   "a": "Platelets are good at patching things up."
   },
   {
    "j": "Why did the heart refuse to play cards?",
    "a": "It didn't want to skip a beat."
-  },
-  {
-   "j": "Why did the air sac love its job?",
-   "a": "Every day was a breath of fresh air."
   }
  ],
  "song": {
@@ -3304,8 +3247,7 @@
     "a3",
     "a5",
     "p1"
-   ],
-   "plan": "Used again in Time units and in Forces L3 for timing."
+   ]
   },
   {
    "id": "b-tube",
@@ -3338,18 +3280,6 @@
    "url": "https://www.amazon.in/s?k=measuring+jug+1+litre",
    "used_in": [
     "e3"
-   ],
-   "plan": "Used again in capacity units in maths."
-  },
-  {
-   "id": "b-steth",
-   "item": "A real stethoscope for children",
-   "kind": "tool",
-   "why": "Hearing a heartbeat clearly through a real stethoscope is a thrill, and lets you compare it with your home-made ones.",
-   "url": "https://www.amazon.in/s?k=stethoscope+for+kids",
-   "used_in": [
-    "a1",
-    "c2"
    ]
   },
   {
@@ -3360,8 +3290,7 @@
    "url": "https://www.amazon.in/s?k=Hear+Your+Heart+Paul+Showers",
    "used_in": [
     "a1"
-   ],
-   "plan": "Read it aloud on the day of the stethoscope activity."
+   ]
   },
   {
    "id": "b-book2",
@@ -3371,8 +3300,7 @@
    "url": "https://www.amazon.in/s?k=Seymour+Simon+The+Heart",
    "used_in": [
     "g1"
-   ],
-   "plan": "Read a few pages after playing The Great Circle, to see real pictures of what the game shows."
+   ]
   }
  ],
  "warmup": [
@@ -3403,10 +3331,6 @@
   {
    "q": "True or false: blood in your veins is blue.",
    "a": "False. Blood is always red. It is darker red in veins."
-  },
-  {
-   "q": "You counted 45 beats in 30 seconds. How many in a minute?",
-   "a": "90. Double 45."
   },
   {
    "q": "What do red blood cells carry?",

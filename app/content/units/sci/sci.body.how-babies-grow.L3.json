@@ -122,7 +122,7 @@
   {
    "term": "Newborn",
    "meaning": "A baby in their first few weeks after birth.",
-   "example": "A newborn sees best things about 20 to 30 centimetres away. That is the distance to the face of the person holding them.",
+   "example": "A newborn sees things best at about 20 to 30 centimetres away. That is the distance to the face of the person holding them.",
    "art": "A newborn looking up at a grown-up's face, with a dotted line showing the short distance between them."
   },
   {
@@ -190,7 +190,7 @@
   {
    "concept": "The womb: the baby's first home",
    "status": "defined",
-   "definition": "The womb is a stretchy bag of strong muscle inside the mother's tummy, below her stomach. The baby grows inside it for about nine months.",
+   "definition": "The womb is a stretchy bag of strong muscle inside the mother's tummy, below her stomach. The baby grows inside the womb for about nine months.",
    "description": "Before a baby, the womb is about the size of a small pear. As the baby grows, the womb stretches and stretches. By the end it can hold a baby about 50 centimetres long. Inside the womb, the baby floats in a bag of warm water. It is dark, warm and full of sounds, like the mother's heartbeat and her voice. The womb is made of muscle, so at birth it can squeeze to push the baby out.",
    "examples": [
     "Before a baby, the womb is the size of a small pear. By the end, it is bigger than a football.",
@@ -235,12 +235,12 @@
    "definition": "A human baby usually grows in the womb for about 40 weeks, which is about nine months. Doctors split this time into three parts of about three months each.",
    "description": "In the first three months, the body parts form. By about six weeks a tiny heart is beating. By twelve weeks the baby is about as long as your finger and has tiny fingers and toes. In the middle three months, the baby grows and moves. Fingerprints form, and the baby starts to hear sounds. In the last three months, the baby gets much bigger and fatter. Their lungs get ready to breathe air. By birth, a baby is usually about 50 centimetres long and weighs about 3 kilograms. Doctors count the 40 weeks from about two weeks before the first cell is made, so the baby really grows for about 38 weeks.",
    "examples": [
-    "At 8 weeks: about the size of a raspberry.",
+    "At 8 weeks: about the size of a grape.",
     "At 20 weeks, halfway: about as long as a banana, from head to bottom.",
     "At 40 weeks: about as heavy as a small watermelon."
    ],
    "perspectives": [],
-   "art": "A row of fruits growing in size, a raspberry, a lemon, a banana, a papaya and a small watermelon, each with the week number under it.",
+   "art": "A row of fruits growing in size, a grape, a lemon, a banana, a papaya and a small watermelon, each with the week number under it.",
    "context": "How long does a baby grow in the womb, and what happens when? This card gives the timeline."
   },
   {
@@ -289,7 +289,7 @@
    "concept": "A newborn and the people who care for them",
    "status": "defined",
    "definition": "A human newborn cannot walk, feed themself or even hold up their own head. They need grown-ups to feed them, keep them warm and keep them safe for many years.",
-   "description": "A calf can stand within an hour of being born. A human baby takes about a year to walk. Their brain is only about a quarter of its grown-up size, and it keeps growing fast after birth. A newborn sees best things about 20 to 30 centimetres away. That is the distance to the face of the person holding them. Babies stay warm and calm when held skin to skin. Families are made in many ways. A baby may be raised by the parents who gave birth to them, by an adoptive family, by grandparents or by others who love them.",
+   "description": "A calf can stand within an hour of being born. A human baby takes about a year to walk. Their brain is only about a quarter of their grown-up size, and it keeps growing fast after birth. A newborn sees things best at about 20 to 30 centimetres away. That is the distance to the face of the person holding them. Babies stay warm and calm when held skin to skin. Families are made in many ways. A baby may be raised by the parents who gave birth to them, by an adoptive family, by grandparents or by others who love them.",
    "examples": [
     "Holding a tiny early baby against a grown-up's bare chest keeps them warm. This is called kangaroo care.",
     "A newborn grabs your finger tightly if you put it in their palm.",
@@ -297,7 +297,7 @@
    ],
    "perspectives": [],
    "art": "A grandfather holding a tiny baby skin to skin on his chest, the baby's hand wrapped around his finger.",
-   "context": "What does a newborn baby need, and who gives it? This card explains."
+   "context": "What does a newborn baby need, and who gives them what they need? This card explains."
   },
   {
    "concept": "How each cell knows what to become",
@@ -318,8 +318,8 @@
    "description": "Human babies are born less ready than many animal babies. Scientists argue about why. Here are the two main ideas.",
    "examples": [
     "A foal walks within hours. A human baby walks at about one year.",
-    "A human newborn's brain is about a quarter of its grown-up size.",
-    "A chimpanzee newborn's brain is about two fifths of its grown-up size."
+    "A human newborn's brain is about a quarter of their grown-up size.",
+    "A chimpanzee newborn's brain is about two fifths of their grown-up size."
    ],
    "perspectives": [
     {
@@ -381,7 +381,7 @@
   {
    "claim": "The baby's blood and the mother's blood mix together freely.",
    "who": "Many people think this, and some old books said it.",
-   "for": "Food and oxygen get from the mother to the baby, so it seems the blood must mix.",
+   "for": "Food and oxygen get from the mother to the baby, so the blood seems to mix.",
    "against": "The two bloods stay mostly apart, separated by a very thin wall in the placenta. Things pass through the wall. Babies can even have a different blood group from their mothers.",
    "status": "rejected",
    "context": "This card is about whether a mother's blood and her baby's blood mix."
@@ -511,7 +511,7 @@
    "id": "g1",
    "title": "Forty Weeks: the race to be born",
    "mins": 20,
-   "players": "2 to 4 players, or one child playing against the app",
+   "players": "2 to 4 players",
    "context": "This is a board game about growing in the womb. Each square is one week. You move from one cell to birth, and learn what happens on the way.",
    "setup": [
     {
@@ -519,8 +519,8 @@
      "caption": "1. Draw a winding track of 40 squares. Square 1 is one cell. Square 40 is birth."
     },
     {
-     "art": "Small piles of folded paper cards marked GROW and WONDER beside a die and four coloured buttons used as counters.",
-     "caption": "2. Cut out the GROW and WONDER cards. Put them in two piles."
+     "art": "Small piles of folded paper cards marked GROW and WONDER beside a die, a few paper hearts and four coloured buttons used as counters.",
+     "caption": "2. Cut out the 12 GROW cards, the 8 WONDER cards and 12 heart tokens. Put the two piles of cards face down."
     },
     {
      "art": "A child moving a button counter along the track and reading a card aloud.",
@@ -530,25 +530,53 @@
    "printables": [
     {
      "kind": "board",
-     "title": "The 40-week track",
+     "title": "The 40-week track (40 squares)",
      "items": [
       "Square 1: one cell",
       "Square 2: the cell splits into 2, then 4, then 8",
+      "Square 3: Still tiny. The ball of cells settles into the wall of the womb",
+      "Square 4: The first layers of cells form",
+      "Square 5: The brain and spine start to form",
       "Square 6: STAR. The heart starts beating",
-      "Square 8: STAR. Size of a raspberry",
+      "Square 7: Arms and legs start as tiny buds",
+      "Square 8: STAR. Size of a grape",
+      "Square 9: Now called a foetus",
+      "Square 10: Moving a little, too small a movement for the mother to notice",
+      "Square 11: The face takes shape: eyes, nose and mouth",
       "Square 12: STAR. Fingers and toes",
+      "Square 13: The middle three months begin",
+      "Square 14: Rest. The baby grows and moves",
+      "Square 15: Rest. The bones are getting harder",
       "Square 16: STAR. Fingerprints forming",
+      "Square 17: Fat starts to form under the skin",
+      "Square 18: The mother may feel the first kicks",
+      "Square 19: Swallowing the warm water",
       "Square 20: STAR. Halfway! Size of a banana",
+      "Square 21: Kicking and stretching",
+      "Square 22: Eyebrows and eyelids are forming",
+      "Square 23: Hiccups the mother may feel as a gentle tap",
       "Square 24: STAR. Hearing sounds",
+      "Square 25: Practising breathing movements in the water",
+      "Square 26: Jumping at loud sounds",
+      "Square 27: Rest. Sleeping and waking in turns",
       "Square 28: STAR. Eyes open",
+      "Square 29: Growing much bigger",
+      "Square 30: About 40 centimetres long",
+      "Square 31: The lungs are getting ready for air",
       "Square 32: STAR. Getting chubby",
+      "Square 33: The skull bones are still soft and not joined",
+      "Square 34: Rest. Fat keeps building up under the skin",
+      "Square 35: Rest. The baby fills most of the womb",
       "Square 36: STAR. Head turns down, ready",
+      "Square 37: Not early any more. Nearly ready",
+      "Square 38: Most babies are born between 37 and 42 weeks",
+      "Square 39: Rest. Nearly time",
       "Square 40: BIRTH! First breath"
      ]
     },
     {
      "kind": "cards",
-     "title": "GROW cards (read when you land on a star)",
+     "title": "12 GROW cards (take one when you land on a star)",
      "items": [
       "The placenta sends you extra food. Move forward 2.",
       "Your mother drinks plenty of water and rests. Move forward 1.",
@@ -566,39 +594,75 @@
     },
     {
      "kind": "cards",
-     "title": "WONDER cards (answer to win a heart token)",
+     "title": "8 WONDER cards (question on the front, answer on the back)",
      "items": [
-      "How does a baby in the womb get oxygen? (Through the cord, from the mother's blood.)",
-      "What does the water around the baby do? (It cushions, keeps warm and lets the baby move.)",
-      "What was everyone at the very start? (One cell.)",
-      "What is left when the cord falls off? (The belly button.)",
-      "About how many weeks does a baby grow in the womb? (About 40.)",
-      "Name one thing a baby can do in the womb. (Kick, suck their thumb, hiccup, hear, swallow.)",
-      "Why can't a baby breathe air in the womb? (They are in water, and there is no air there.)",
-      "What does a cell do to make more cells? (The cell splits in two.)"
+      {
+       "f": "How does a baby in the womb get oxygen?",
+       "b": "Through the cord, from the mother's blood."
+      },
+      {
+       "f": "What does the water around the baby do?",
+       "b": "It cushions, keeps warm and lets the baby move."
+      },
+      {
+       "f": "What was everyone at the very start?",
+       "b": "One cell."
+      },
+      {
+       "f": "What is left when the cord falls off?",
+       "b": "The belly button."
+      },
+      {
+       "f": "About how many weeks does a baby grow in the womb?",
+       "b": "About 40."
+      },
+      {
+       "f": "Name one thing a baby can do in the womb.",
+       "b": "Kick, suck their thumb, hiccup, hear, swallow."
+      },
+      {
+       "f": "Why can't a baby breathe air in the womb?",
+       "b": "They are in water, and there is no air there."
+      },
+      {
+       "f": "What does a cell do to make more cells?",
+       "b": "The cell splits in two."
+      }
      ]
     },
     {
      "kind": "tokens",
      "title": "12 heart tokens",
      "items": [
-      "❤️"
+      "Heart token",
+      "Heart token",
+      "Heart token",
+      "Heart token",
+      "Heart token",
+      "Heart token",
+      "Heart token",
+      "Heart token",
+      "Heart token",
+      "Heart token",
+      "Heart token",
+      "Heart token"
      ]
     }
    ],
    "rules": [
-    "Everyone starts on square 1, as one cell.",
-    "Take turns to roll the die and move that many weeks.",
-    "If you land on a STAR square, read out what is happening that week. Then take a GROW card and do what it says.",
-    "If you roll a 6, take a WONDER card. Answer it right to win a heart token.",
-    "The first player to reach square 40 is born! They take a big first breath and shout 'Hello, world!'",
-    "Keep playing until everyone is born. The player with the most heart tokens wins the WONDER prize."
+    "Everyone puts a button on square 1, as one cell.",
+    "Take turns to roll the die and move that many squares.",
+    "If you land on a STAR square, the player on your left reads out what is happening that week. Then you take a GROW card and do what it says. A GROW card never makes you take another card.",
+    "If you roll a 6, move 6 squares, then the player on your left reads you a WONDER card. Answer it right to win a heart token. If you are not right, they read you the answer from the back. No token.",
+    "When a pile of cards runs out, shuffle the used cards and use them again. If the heart tokens run out, keep score on paper.",
+    "Reach or pass square 40 and you are born! Take a big first breath and shout 'Hello, world!' You stop rolling.",
+    "Keep playing until everyone is born. The player with the most heart tokens wins. If it is a tie, share the win."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay out the track. 2. Put the GROW and WONDER piles face down. 3. Give each player a button as a counter, on square 1.",
+     "do": "1. Lay out the track. 2. Put the GROW and WONDER piles face down. 3. Give each player a button as a counter, on square 1. 4. Keep the hearts in a pile.",
      "say": "Each square is one week of growing in the womb. We all start as one tiny cell on square 1. Let's see who gets born first.",
      "kid": "Put your button on square 1. That is you, as one tiny cell. Each square is one week.",
      "context": "This is the first step of Forty Weeks. You set up a board game where each square is one week of growing in the womb."
@@ -625,7 +689,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Take turns to roll and move. 2. Read the STAR squares aloud. 3. Do the GROW cards. 4. Ask WONDER questions on a 6.",
+     "do": "1. Take turns to roll and move. 2. On a STAR, read the square aloud and take a GROW card. 3. On a 6, ask a WONDER question.",
      "say": "Remember, when you land on a star, read out what is happening to the baby that week.",
      "kid": "Roll and move. Land on a star? Read it out. Then take a GROW card.",
      "ask": [
@@ -642,7 +706,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "When a player reaches square 40, everyone takes a big breath with them. Finish the game. Count heart tokens.",
+     "do": "When a player reaches square 40, everyone takes a big breath with them. Finish the game. Count the heart tokens.",
      "say": "Square 40 is birth. Before birth, the baby's lungs were full of fluid. Now, for the first time, air rushes in. Let's all take that first breath together.",
      "kid": "You reached square 40. You are born! Take a big first breath. Shout 'Hello, world!'",
      "think": "What do you think the very first breath felt like?",
@@ -652,7 +716,7 @@
       "options": [
        "Breathes air for the first time",
        "Eats a big meal",
-       "Walks to its mother"
+       "Walks to their mother"
       ],
       "a": 0,
       "why": "The first thing a newborn does is breathe air. Before birth their oxygen came through the cord. Eating comes a little later, and walking takes about a year."
@@ -669,8 +733,8 @@
    "context": "This is a card game comparing how long different animal babies grow inside their mothers before birth. It is like the game of trumps: the longest wait wins.",
    "setup": [
     {
-     "art": "Twelve hand-drawn cards, each with an animal picture and a number of days written large.",
-     "caption": "1. Make 12 animal cards. Write the days each baby grows inside their mother."
+     "art": "Twelve hand-drawn cards, each with an animal name and a number of days written large.",
+     "caption": "1. Make 12 animal cards. On each, write the animal's name and, big, the days a baby grows inside the mother. Draw the animal if you like."
     },
     {
      "art": "Two children each holding a fan of cards, one laying an elephant card on top of a mouse card.",
@@ -680,43 +744,43 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "12 animal cards (days growing inside the mother, rounded)",
+     "title": "12 animal cards (days a baby grows inside the mother, rounded)",
      "items": [
-      "House mouse: about 20 days",
-      "Rabbit: about 31 days",
-      "Dog: about 63 days",
-      "Cat: about 65 days",
-      "Pig: about 114 days",
-      "Goat: about 150 days",
-      "Human: about 270 days",
-      "Cow: about 280 days",
-      "Horse: about 340 days",
-      "Camel: about 390 days",
       "Giraffe: about 450 days",
-      "Indian elephant: about 650 days"
+      "Pig: about 114 days",
+      "Cow: about 280 days",
+      "Rabbit: about 31 days",
+      "Indian elephant: about 650 days",
+      "Human: about 270 days",
+      "Cat: about 65 days",
+      "Camel: about 390 days",
+      "House mouse: about 20 days",
+      "Horse: about 340 days",
+      "Dog: about 63 days",
+      "Goat: about 150 days"
      ]
     }
    ],
    "rules": [
     "Shuffle the cards and share them out face down.",
     "Each player turns over their top card at the same time.",
-    "The animal whose baby grows longest inside their mother wins both cards.",
-    "If two cards are close, the winner must say the difference in days.",
-    "When the cards run out, the player with the most cards wins."
+    "The card with the most days wins both cards. The winner puts them in a pile.",
+    "The winner says about how many more days their card has. A good guess is fine.",
+    "When all the cards are played, the player with the biggest pile wins. If the piles are equal, shuffle and play again."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Shuffle the 12 cards. 2. Share them out. 3. Show your child the human card first.",
+     "do": "1. Spread the 12 cards face up and find the human card. 2. Shuffle them and share them out face down.",
      "say": "A human baby grows inside their mother for about 270 days. Let's see which animals wait longer, and which wait less.",
-     "kid": "Find the human card. 270 days! Now let's see who waits longer.",
+     "kid": "Find the human card. 270 days! Then we shuffle and share the cards.",
      "context": "This is the first step of Who Waits Longest?, a card game comparing how long animal babies grow before birth."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "Play the game. When cards are close, ask for the difference.",
+     "do": "Play the game. After each round, ask the winner how many more days their card has.",
      "say": "Who wins this round? How many more days is that?",
      "kid": "Turn your top card over. Longest wait wins. How many days more?",
      "check": {
@@ -767,7 +831,7 @@
     "Jar",
     "What I guessed",
     "After 5 gentle shakes",
-    "After 5 harder shakes",
+    "After 5 harder shakes (or \"cracked already\")",
     "Cracked: yes or no"
    ],
    "materials": [
@@ -843,10 +907,10 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Shake the empty jar gently, 5 times, side to side. 2. Look at the egg. 3. Do the same with the water jar. 4. If neither cracked, repeat both with 5 harder shakes.",
+     "do": "1. Shake the empty jar gently, 5 times, side to side. 2. Look at the egg. 3. Do the same with the water jar. 4. If neither cracked, repeat both with 5 harder shakes. If an egg has cracked, stop shaking that jar.",
      "say": "We shake both jars exactly the same way, 5 times each. Count with me. That keeps the test fair.",
      "kid": "Shake the empty jar 5 times. Count out loud. Look at the egg. Now shake the water jar the same way.",
-     "parent": "The egg in the empty jar usually cracks after a few firm shakes. The egg in the full water jar usually stays whole. If both crack, you shook too hard, so try again more gently. With banana pieces, the one in the empty jar gets squashed and bruised against the sides. The one in water keeps its shape.",
+     "parent": "The egg in the empty jar usually cracks after a few firm shakes. The egg in the full water jar usually stays whole. Plastic jars are soft, so the result is not certain. If neither cracks, that is a real result: listen instead. The egg bangs against the jar in the empty one, and hardly knocks in the full one. If both crack, you shook too hard, so try again more gently. With banana pieces, the one in the empty jar gets squashed and bruised against the sides. The one in water keeps its shape.",
      "context": "This is the testing step of the Floating Safe experiment. You shake both jars the same way and look at the eggs."
     },
     {
@@ -892,11 +956,11 @@
    "title": "Hearing Through Water: what does a baby hear?",
    "mins": 15,
    "days": 1,
-   "question": "Which sounds get through water best: a low hum, a high whistle or a whisper?",
-   "predict": "Guess first. Through a bag of water, which sound will you hear most clearly: a low hum, a high whistle or a whisper? Why do you think so?",
-   "fair_test": "Keep everything the same except the sound. The same person makes each sound, about as loud each time, from the same place. Try each sound with no bag, and then with the bag of water.",
+   "question": "Which sound gets through water better: a low hum or a high hum?",
+   "predict": "Guess first. Through a bag of water, which will you hear more clearly: a low hum, or a high, squeaky hum? Why do you think so?",
+   "fair_test": "Keep everything the same except the pitch. The same person hums both sounds, at the same loudness, from the same place. Try each hum with no bag, and then with the bag of water.",
    "results_table": [
-    "Sound",
+    "Hum",
     "With no bag: clear, muffled or silent",
     "Through the water bag: clear, muffled or silent"
    ],
@@ -918,12 +982,11 @@
      "qty": 1
     }
    ],
-   "safety": "Check the bag does not leak before putting it near your ear. Keep it over a towel.",
    "schedule": [
     {
      "day": 1,
      "mins": 15,
-     "what": "Make three sounds. Listen with and without the water bag. Write down which sounds get through."
+     "what": "Hum low, then hum high. Listen with and without the water bag. Write down which hum gets through better."
     }
    ],
    "record": "Fill in the table. Then write: My claim is... My evidence is... My reasoning is...",
@@ -935,11 +998,11 @@
     },
     {
      "art": "A grown-up humming with closed lips, standing one step behind the child.",
-     "caption": "2. A grown-up hums, whistles, then whispers, one step away."
+     "caption": "2. A grown-up hums low, then hums high, at the same loudness, one step away."
     },
     {
-     "art": "A child cupping a hand over the other ear and listening carefully, with three sound symbols drawn: low, high and whisper.",
-     "caption": "3. Cover your other ear. Which sounds get through?"
+     "art": "A child cupping a hand over the other ear and listening carefully, with two sound symbols drawn: low and high.",
+     "caption": "3. Cover your other ear. Which hum gets through better?"
     }
    ],
    "flow": [
@@ -954,30 +1017,30 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Stand one step behind your child. 2. Hum low, then whistle high, then whisper, with no bag. 3. Repeat with the bag pressed on one ear and the other ear covered.",
-     "say": "I will make three sounds. First with nothing on your ear. Then through the water. Tell me which come through.",
-     "kid": "Listen with no bag. Then hold the water bag on your ear. Cover your other ear. Which sounds get through?",
-     "parent": "Low hums usually come through the water best. High whistles and whispers get muffled or lost. Scientists think a baby in the womb hears something like this: low sounds such as voices and the heartbeat, muffled. Your hand over the other ear does not block all sound, so compare the two tries rather than expecting silence.",
+     "do": "1. Stand one step behind your child. 2. Hum low, then hum high (a squeaky hum), both at the same loudness, with no bag. 3. Repeat with the bag pressed on one ear and the other ear covered.",
+     "say": "I will make two hums. First with nothing on your ear. Then through the water. Tell me which comes through better.",
+     "kid": "Listen with no bag. Then hold the water bag on your ear. Cover your other ear. Which hum gets through better?",
+     "parent": "Everything will sound muffled through the bag, and the difference between the low and the high hum may be small. The low hum usually comes through a little better. Scientists think a baby in the womb hears something like this: low sounds such as voices and the heartbeat, muffled. Your hand over the other ear does not block all sound, so compare the two tries rather than expecting silence.",
      "context": "This is the listening step of Hearing Through Water. A grown-up makes three sounds, and you listen with and without a bag of water."
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "Fill in the table together.",
-     "say": "Which sound came through best? Which was hardest to hear?",
-     "kid": "Which sound came through best? Write it in your table.",
+     "say": "Which hum came through better?",
+     "kid": "Which hum came through better? Write it in your table.",
      "check": {
       "t": "mcq",
-      "q": "In the Hearing Through Water test, which sound usually comes through the water bag best?",
+      "q": "In the Hearing Through Water test, which hum usually comes through the water bag better?",
       "options": [
-       "A low hum",
-       "A high whistle",
-       "A whisper"
+       "The low hum",
+       "The high hum",
+       "Both come through the same"
       ],
       "a": 0,
-      "why": "Low sounds travel through water and bodies better than high sounds. This is why an unborn baby hears low sounds, like voices and the heartbeat, best. Picking the whistle often means thinking 'loud and sharp' gets through. But high sounds get muffled more."
+      "why": "Low sounds travel through water and bodies better than high sounds. This is why an unborn baby hears low sounds, like voices and the heartbeat, best. Picking the high hum often means thinking sharp sounds carry further. But high sounds get muffled more."
      },
-     "context": "This is the results step of Hearing Through Water. You listened to a hum, a whistle and a whisper through a bag of water."
+     "context": "This is the results step of Hearing Through Water. You listened to a low hum and a high hum through a bag of water."
     },
     {
      "id": "s4",
@@ -1084,7 +1147,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Warm water in a pan and mix it with cold water until it feels comfortably warm on your wrist. 2. Fill three small bottles from the same jug. 3. Close the lids. 4. Let your child feel that they are all the same. 5. Keep all three in the same room, under the fan if it is on.",
+     "do": "1. Warm water in a pan and mix it with cold water until it feels comfortably warm on your wrist. 2. Fill three small bottles from the same jug. 3. Close the lids. 4. Let your child feel that they are all the same. 5. Keep all three in the same room, with the fan switched off.",
      "say": "These three bottles are pretend babies. They all start equally warm. A tiny newborn loses heat fast. Let's test which way keeps a pretend baby warm.",
      "kid": "Feel all three bottles. They are all the same warm. These are pretend babies.",
      "adult": true,
@@ -1093,7 +1156,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Stand one bottle alone on the table. 2. Wrap one in a towel. 3. A grown-up tucks the third against their chest, under a dupatta or shirt.",
+     "do": "1. Stand one bottle alone on the table. 2. Wrap one in a towel. 3. A grown-up wraps the third in the other towel and tucks it against their chest, under a dupatta or shirt.",
      "say": "Holding a baby on a grown-up's bare chest, under a cloth, is called kangaroo care. Doctors in Bogotá, in Colombia, started it in 1978, to keep early babies warm.",
      "kid": "One bottle stays alone. One gets wrapped. One goes on a grown-up's chest, under a cloth.",
      "context": "This is the setting-up step of Keep the Baby Warm. Each pretend baby is kept a different way."
@@ -1101,12 +1164,12 @@
     {
      "id": "s3",
      "mins": 17,
-     "do": "1. Set a timer for 10 minutes. 2. Feel each bottle against your cheek, or use a thermometer. 3. Write it down. 4. Do it again at 20 minutes.",
+     "do": "1. Start a timer for 10 minutes as soon as the three bottles are in place. 2. Feel each bottle against your cheek, or use a thermometer. 3. Write it down. 4. Do it again at 20 minutes.",
      "say": "While we wait, think about this. Why might a person's body be good at keeping a baby warm?",
      "kid": "Wait 10 minutes. Feel each bottle on your cheek. Write it down. Wait 10 more minutes. Do it again.",
      "wait": "Check after 10 minutes, then after 20 minutes.",
      "context": "This is the waiting and measuring step of Keep the Baby Warm. You check the three pretend babies after 10 and 20 minutes.",
-     "parent": "On a hot day the room is nearly as warm as the bottles, so the differences are small. A thermometer shows them better than a cheek. Under a running fan, the bottle left alone cools fastest."
+     "parent": "Keep the fan off, so the air moves the same way around all three bottles. On a hot day the room is nearly as warm as the bottles, so the differences are small. A cheek does not notice small differences, so a thermometer gives a much more honest result. Without one, treat what you feel as a rough guess."
     },
     {
      "id": "s4",
@@ -1123,7 +1186,7 @@
        "They all cool the same"
       ],
       "a": 0,
-      "why": "Inside, a person's body stays at about 37 degrees, so the chest keeps giving heat to the bottle. The cloth holds the heat in. Picking the bottle alone often means thinking the air keeps it warm. But air carries heat away. This is why kangaroo care helps tiny babies."
+      "why": "A person's body, at about 37 degrees, is warmer than the room, so the bottle cools more slowly against a chest. The cloth holds the heat in. Picking the bottle alone often means thinking the air keeps it warm. But air carries heat away. This is why kangaroo care helps tiny babies."
      },
      "context": "This is the last step of Keep the Baby Warm. Three bottles of warm water were kept alone, wrapped, or on a chest, and checked after 20 minutes."
     }
@@ -1155,10 +1218,10 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Split one dough ball into 2, 4, 8, 16 and 32. Count. Then colour some to show cells becoming different kinds."
+     "what": "Split one dough ball into 2, 4, 8 and 16. Count. Then colour some to show cells becoming different kinds."
     }
    ],
-   "record": "Draw your rows of dough balls: 1, 2, 4, 8, 16, 32. Write how many there are in each row.",
+   "record": "Draw your rows of dough balls: 1, 2, 4, 8, 16. Write how many there are in each row.",
    "context": "This activity uses a ball of dough as a pretend first cell. You split it again and again, to see how one cell becomes many, and how quickly the number grows.",
    "setup": [
     {
@@ -1266,7 +1329,6 @@
      "qty": 4
     }
    ],
-   "safety": "None needed.",
    "schedule": [
     {
      "day": 1,
@@ -1302,9 +1364,9 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Measure from 0 and mark each length. Write the week beside it: 8 weeks, 2 cm. 12 weeks, 6 cm. 20 weeks, 25 cm. 30 weeks, 40 cm. 40 weeks, 50 cm. These are lengths from head to heel, rounded.",
+     "do": "Measure from 0 and mark each length. Write the week beside it: 8 weeks, 2 cm. 12 weeks, 6 cm. 20 weeks, 25 cm. 30 weeks, 40 cm. 40 weeks, 50 cm. These are lengths from head to heel, rounded. Put a fruit by the first four marks. Use a grape at 8 weeks, a lemon at 12, a banana at 20 and a papaya at 30. The 40 week mark shows a newborn's length.",
      "say": "At 8 weeks, a baby is about as long as a grape. Halfway, at 20 weeks, a little shorter than a 30 centimetre ruler. At birth, about as long as this strip.",
-     "kid": "Measure and mark each week. 8 weeks is 2 centimetres. 40 weeks is 50 centimetres. Put a fruit by each mark.",
+     "kid": "Measure and mark each week. 8 weeks is 2 centimetres. 40 weeks is 50 centimetres. Put a fruit by each of the first four marks.",
      "parent": "These lengths are rounded and vary from baby to baby. They are close enough to show the pattern. Most of the growing in length happens in the middle and the last months.",
      "context": "This is the measuring step of How Big Was I?. You mark how long a baby is at 8, 12, 20, 30 and 40 weeks."
     },
@@ -1345,7 +1407,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "an ink pad, or a soft pencil rubbed thickly on paper",
+     "item": "a washable ink pad, or a soft pencil rubbed thickly on paper",
      "qty": 1,
      "buy": "b-inkpad"
     },
@@ -1363,7 +1425,6 @@
      "qty": 1
     }
    ],
-   "safety": "Use washable ink. Wash hands afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -1450,7 +1511,6 @@
      "qty": 1
     }
    ],
-   "safety": "None needed.",
    "schedule": [
     {
      "day": 1,
@@ -1525,7 +1585,7 @@
      "qty": 1
     },
     {
-     "item": "a small toy or a clay baby",
+     "item": "a small plastic toy or doll that can get wet",
      "qty": 1
     },
     {
@@ -1538,6 +1598,14 @@
     },
     {
      "item": "water",
+     "qty": 1
+    },
+    {
+     "item": "a rubber band",
+     "qty": 1
+    },
+    {
+     "item": "paper and tape, for labels",
      "qty": 1
     }
    ],
@@ -1557,7 +1625,7 @@
      "caption": "1. A grown-up cuts the top off a bottle and tapes the edge."
     },
     {
-     "art": "A small clay baby tied to a string, the other end of the string tied to a red cloth circle.",
+     "art": "A small plastic toy baby tied to a string, the other end of the string tied to a red cloth circle.",
      "caption": "2. Tie a string to the toy baby and to a red cloth placenta."
     },
     {
@@ -1600,7 +1668,7 @@
        "A rope that pulls the baby out"
       ],
       "a": 0,
-      "why": "The string stands for the umbilical cord. It joins the baby to the placenta, and carries food and oxygen to the baby. Picking 'a rope to pull it out' mixes it up with birth. At birth, the womb squeezes the baby out. The cord does not pull."
+      "why": "The string stands for the umbilical cord. It joins the baby to the placenta, and carries food and oxygen to the baby. Picking 'a rope that pulls the baby out' confuses the cord with birth. At birth, the womb squeezes the baby out. The cord does not pull."
      },
      "context": "This is the labelling step of Womb in a Bottle. A toy baby floats in a bag of water, tied by a string to a red cloth circle."
     }
@@ -1613,7 +1681,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a clear polythene bag, folded flat into two layers (or a sheet of butter paper)",
+     "item": "a clear polythene bag, folded flat into two layers (a sheet of butter paper also works)",
      "qty": 1
     },
     {
@@ -1637,7 +1705,7 @@
    "context": "A newborn sees the world blurry, and best at about 20 to 30 centimetres. This activity uses a folded clear plastic bag to give you a blurry view like a newborn's.",
    "setup": [
     {
-     "art": "A child holding a folded clear plastic bag flat in front of her eyes, looking at her mother's face.",
+     "art": "A child holding a folded clear plastic bag flat in front of their eyes, looking at a grown-up's face.",
      "caption": "1. Hold the folded bag flat in front of your eyes."
     },
     {
@@ -1653,7 +1721,7 @@
      "say": "A newborn baby sees blurry, a bit like through this bag. Can you see my face better close up or far away?",
      "kid": "Hold the bag in front of your eyes. Look at a face close up. Then far away.",
      "context": "This is the first step of Newborn Eyes. You look through a folded clear bag to see the world blurry, the way a newborn does.",
-     "parent": "Things close to the bag look clearer than things far away, so your face should look clearer close up. If everything looks like fog, use one layer instead of two."
+     "parent": "Things close to you look clearer than things far away, so your face should look clearer close up. This is only a rough model: the face looks bigger when it is close, so you can make out more of it. A real newborn's eyes are blurry for another reason, because they cannot focus well yet. If everything looks like fog, use one layer instead of two."
     },
     {
      "id": "s2",
@@ -1684,8 +1752,8 @@
       {
        "q": "Why might it help?",
        "good": [
-        "It sees the face of whoever holds it.",
-        "It learns faces first.",
+        "They see the face of whoever holds them.",
+        "They learn faces first.",
         "The faraway things don't matter yet."
        ]
       }
@@ -1719,7 +1787,6 @@
      "qty": 1
     }
    ],
-   "safety": "None needed.",
    "schedule": [
     {
      "day": 1,
@@ -1749,7 +1816,7 @@
      "caption": "2. Draw what happens in each part of the 40 weeks."
     },
     {
-     "art": "A child holding up a long scroll for a grandmother to see, pointing at the newborn at the end.",
+     "art": "A child holding up a long scroll for a family member to see, pointing at the newborn at the end.",
      "caption": "3. Show your finished scroll to someone, and explain it."
     }
    ],
@@ -1757,7 +1824,7 @@
     {
      "id": "s1",
      "mins": 20,
-     "do": "1. Mark 40 weeks along the scroll, 5 centimetres apart. 2. Draw week 1, one cell. 3. Week 2, a ball of cells. 4. Week 6, a beating heart. 5. Week 8, a raspberry-sized embryo. 6. Week 12, fingers and toes.",
+     "do": "1. Mark 40 weeks along the scroll, 5 centimetres apart. 2. Draw week 1, one cell. 3. Week 2, a ball of cells. 4. Week 6, a beating heart. 5. Week 8, a grape-sized embryo. 6. Week 12, fingers and toes.",
      "say": "In the first three months, all the main body parts form. The baby is still very small. Let's draw the baby.",
      "kid": "Mark 40 weeks. Draw one cell at week 1. Draw a heart at week 6. Draw fingers at week 12.",
      "context": "This is day 1 of the Forty-Week Scroll project. You mark the 40 weeks and draw the first three months of growing."
@@ -1807,7 +1874,7 @@
    "id": "c1",
    "title": "The Egg-Baby Carrier",
    "mins": 30,
-   "problem": "Design a carrier that keeps a raw egg 'baby' safe and warm while you walk up and down the stairs twice.",
+   "problem": "Design a carrier that keeps a raw egg 'baby' safe while you walk up and down the stairs twice.",
    "constraints": [
     "You can only use things from home.",
     "The carrier must be small enough to hold in one hand.",
@@ -1820,9 +1887,9 @@
     "tape and string"
    ],
    "general": [
-    "Pad the egg all round with cotton or cloth, so it cannot bang the sides.",
+    "Pad the egg all round with cotton or cloth, so the egg cannot bang the sides.",
     "Put the egg in a small wide-mouthed jar or dabba filled to the top with water, like a baby in the womb.",
-    "Wrap the carrier in a cloth to keep the warmth in."
+    "Wrap the carrier in a cloth for more padding, but leave a gap so you can still see the egg."
    ],
    "creative": [
     "Make a bag within a bag, like the womb inside the mother's tummy.",
@@ -1830,15 +1897,15 @@
     "Use a ball of soft dough around the egg, like a thick cushion."
    ],
    "your_turn": "Now design your own carrier. Draw it first. Then build it, test it on the stairs, and check the egg. What would you change?",
-   "context": "This is a design challenge. You build a carrier that keeps a raw egg safe and warm, using ideas from how the womb protects a baby.",
+   "context": "This is a design challenge. You build a carrier that keeps a raw egg safe, using ideas from how the womb protects a baby.",
    "setup": [
     {
      "art": "A raw egg next to a pile of home materials: cotton, a plastic bottle, cloth, rubber bands and a small box.",
      "caption": "1. Collect your materials and a raw egg."
     },
     {
-     "art": "A child holding a small wide-mouthed jar filled with water, an egg resting inside, the jar wrapped in a cloth.",
-     "caption": "2. Build a carrier that cushions and warms the egg."
+     "art": "A child holding a small wide-mouthed jar filled with water, an egg resting inside, the jar wrapped loosely in a cloth.",
+     "caption": "2. Build a carrier that cushions the egg."
     },
     {
      "art": "A child walking carefully down stairs holding the carrier, a grown-up watching.",
@@ -1856,7 +1923,7 @@
       {
        "q": "What protects a baby in the womb?",
        "good": [
-        "The water around it.",
+        "The water around the baby.",
         "The soft, stretchy womb.",
         "The mother's body and tummy muscles."
        ]
@@ -1875,7 +1942,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Walk up and down the stairs twice with the carrier. Check the egg.",
+     "do": "Walk up and down the stairs twice with the carrier. No stairs? Step up and down a low, steady stool twice instead. Check the egg.",
      "say": "Let's test it. Walk carefully, but normally. Then check.",
      "kid": "Walk the stairs twice. Then look at the egg. Is it whole?",
      "adult": true,
@@ -1888,11 +1955,12 @@
        "Hold the box more loosely"
       ],
       "a": 0,
-      "why": "Water or padding all around spreads out each bump, just like the water around a baby in the womb. Thinner paper gives less protection. Holding more loosely lets it swing and bang more."
+      "why": "Water or padding all around spreads out each bump, just like the water around a baby in the womb. Thinner paper gives less protection. Holding more loosely lets the egg swing and bang more."
      },
      "context": "This is the testing step of the Egg-Baby Carrier challenge. You carry your egg on the stairs and check it."
     }
-   ]
+   ],
+   "safety": "Wash your hands with soap after touching a raw egg."
   },
   {
    "id": "c2",
@@ -1915,7 +1983,7 @@
     "Pull a fold of cloth up behind the doll's head."
    ],
    "creative": [
-    "Look at how grandmothers and village women in India carry babies on their hip or back with a sari.",
+    "Look at photos of how people in India carry babies on the hip or back with a sari.",
     "Make a pocket in the cloth for the doll's bottom, like a kangaroo's pouch.",
     "Add a rolled towel as a head cushion."
    ],
@@ -1997,13 +2065,11 @@
     },
     {
      "t": "fill",
-     "p": "In the dough activity, you split one ball into two. Then you split every ball again. After 3 rounds of splitting, you have ____ balls.",
+     "p": "The warm water around a baby in the womb is called ____ fluid.",
      "a": [
-      "8",
-      "eight"
+      "amniotic"
      ],
-     "why": "1 ball becomes 2, then 4, then 8. Every ball splits each round, so the number doubles each time. A strong answer counts the balls, not the rounds.",
-     "how": "a1"
+     "why": "The baby floats in amniotic fluid. It cushions bumps, keeps the baby warm and lets the baby move."
     },
     {
      "t": "write",
@@ -2162,7 +2228,7 @@
      ],
      "ask": "Which part do you think matters most? Give a reason from this unit. Then say one thing another friend has right.",
      "lines": 5,
-     "a": "A strong answer picks one part and gives a reason, for example that the baby dies without oxygen in minutes. Then it admits another friend's fair point, for example that the placenta is useless without the cord. It may notice that the parts only work together.",
+     "a": "A strong answer picks one part and gives a reason, for example that the baby cannot live without the oxygen the placenta brings. Then it admits another friend's fair point, for example that the placenta is useless without the cord. It may notice that the parts only work together.",
      "why": "There is no single winner. The placenta, the cord and the water each do a job the others cannot. A baby needs all three."
     },
     {
@@ -2177,8 +2243,8 @@
      "t": "write",
      "p": "In Keep the Baby Warm, three bottles of warm water were pretend babies. One lay alone, one was wrapped in a cloth, and one was held on a grown-up's chest under a cloth. Which stayed warmest? Use what you felt to say why.",
      "lines": 3,
-     "a": "The bottle on the chest stayed warmest. The person's body is always warm, so it kept giving heat to the bottle. The cloth held the heat in. The bottle alone lost heat to the air.",
-     "why": "A strong answer says what the child felt on their cheek, then the reason: a warm body keeps adding heat. This is why holding a tiny baby skin to skin helps.",
+     "a": "The bottle on the chest stayed warmest. A person's body is warmer than the room, so the bottle cooled more slowly against it. The cloth held the heat in. The bottle alone lost heat to the air.",
+     "why": "A strong answer says what the child felt on their cheek, then the reason: a warm body and a cloth slow the cooling. This is why holding a tiny baby skin to skin helps.",
      "how": "e3"
     },
     {
@@ -2221,9 +2287,9 @@
     },
     {
      "t": "write",
-     "p": "Predict. A woman who is going to have a baby sings a low lullaby. Then she blows a high whistle on a toy. Which will the baby in her womb hear more clearly? Use your Hearing Through Water test.",
+     "p": "Predict. A woman who is going to have a baby hums a low lullaby. Then she hums a high, squeaky tune, just as loud. Which will the baby in her womb hear more clearly? Use your Hearing Through Water test.",
      "lines": 3,
-     "a": "The low lullaby. In my test, the low hum came through the bag of water clearly, but the high whistle sounded muffled. The baby is surrounded by water and the mother's body, so low sounds reach them best.",
+     "a": "The low lullaby. In my test, the low hum came through the bag of water more clearly, but the high hum sounded more muffled. The baby is surrounded by water and the mother's body, so low sounds reach them best.",
      "why": "A strong answer makes a prediction, then backs it with what the child heard through the water bag.",
      "how": "e2"
     },
@@ -2267,7 +2333,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Anything carried in the blood can pass the thin wall in the placenta. This is why doctors ask pregnant mothers to eat well and check every medicine. A colour or a picture is not in the blood, so it cannot reach the baby."
+     "why": "Anything carried in the blood can pass the thin wall in the placenta. This is why doctors ask pregnant mothers to eat well and check every medicine. A colour or a picture is not in the blood, so neither can reach the baby."
     },
     {
      "t": "mcq",
@@ -2294,7 +2360,7 @@
       ],
       [
        "Human",
-       "about 280 days"
+       "about 270 days"
       ],
       [
        "Indian elephant",
@@ -2327,13 +2393,13 @@
      ],
      "ask": "Which would you choose for a small, early baby? Give a reason from the Keep the Baby Warm test. Then say one thing the other side gets right.",
      "lines": 5,
-     "a": "A strong answer uses the test: the bottle on the chest stayed warm because a body keeps making heat. It then admits the other side's point, for example that a very sick baby may need the machines and close watching of an incubator.",
+     "a": "A strong answer uses the test: the bottle on the chest stayed warm because a person's body is warmer than the room. It then admits the other side's point, for example that a very sick baby may need the machines and close watching of an incubator.",
      "why": "Both are used in real hospitals. Kangaroo care was started in Bogotá, in Colombia, in 1978. Doctors found it keeps many small babies warm and well. Very sick babies may still need an incubator.",
      "how": "e3"
     },
     {
      "t": "fill",
-     "p": "A newborn sees most clearly things about 20 to 30 ____ away. That is about the distance to the face of the person holding them.",
+     "p": "A newborn sees most clearly at about 20 to 30 ____ away. That is about the distance to the face of the person holding them.",
      "a": [
       "centimetres",
       "cm"
@@ -2374,7 +2440,7 @@
     {
      "t": "draw",
      "p": "Draw a line on a long strip of paper from 0 weeks to 40 weeks. Mark where the heart starts to beat, where fingers form, where hearing starts, and birth.",
-     "a": "A line with marks at about 6 weeks for the heart, about 12 weeks for fingers, about 26 weeks for hearing, and 40 weeks for birth.",
+     "a": "A line with marks at about 6 weeks for the heart, about 12 weeks for fingers, about 24 weeks for hearing, and 40 weeks for birth.",
      "why": "A strong drawing spaces the marks fairly. The heart and fingers come early, in the first three months. Hearing comes in the middle. Most of the growing in size happens near the end.",
      "how": "a2"
     },
@@ -2546,7 +2612,7 @@
      "items": [
       "the first cell",
       "a grain of rice, the baby's size at about 6 weeks",
-      "a raspberry, the size at about 8 weeks",
+      "a grape, the size at about 8 weeks",
       "a banana, the size at about 20 weeks",
       "a newborn, about 50 centimetres long"
      ],
@@ -2641,7 +2707,7 @@
    "opts": [
     "No. The baby is safe inside the womb, away from the air",
     "Yes. Smoke goes into the mother's blood from her lungs, and some of it can pass through the placenta to the baby",
-    "Only if the baby can smell it"
+    "Only if the baby can smell the smoke"
    ],
    "a": 1,
    "why": "Anything in the mother's blood can pass through the thin wall in the placenta. Some harmful things from smoke get into her blood, so they can reach the baby. This is why a clean stove or good air is better for a pregnant woman. Picking 'safe inside the womb' forgets that the baby is fed from the mother's blood.",
@@ -2891,79 +2957,27 @@
   },
   {
    "j": "Why was the baby so good at swimming?",
-   "a": "It practised for nine months."
-  },
-  {
-   "j": "What is a belly button's favourite music?",
-   "a": "Navel-ty songs."
-  },
-  {
-   "j": "Why did the foetus refuse to come out?",
-   "a": "It said the rent was free."
-  },
-  {
-   "j": "What did the newborn say after their first breath?",
-   "a": "Wow, air is a big deal!"
-  },
-  {
-   "j": "Why do babies never tell secrets in the womb?",
-   "a": "The walls have ears, and so do they."
+   "a": "They practised for nine months."
   },
   {
    "j": "What do you call a baby who loves hiccups?",
    "a": "A hic-cupcake."
   },
   {
-   "j": "Why did the elephant mother take so long?",
-   "a": "She wanted her baby to be big news."
-  },
-  {
-   "j": "What did one cell say to the other?",
-   "a": "Let's split, and stay friends."
-  },
-  {
-   "j": "Why was the newborn so calm at the doctor's?",
-   "a": "It scored a ten on its very first test."
-  },
-  {
-   "j": "What do you call two cells that keep doubling?",
-   "a": "A growing family."
-  },
-  {
    "j": "Why did the baby kick so much?",
-   "a": "It was practising for the football team."
+   "a": "The football team was waiting."
   },
   {
-   "j": "What did the placenta say to the baby?",
-   "a": "Dinner is served, through the tube."
+   "j": "Why did the baby mouse arrive so fast?",
+   "a": "There were only 20 days to pack."
   },
   {
-   "j": "Why did the fingerprint never change?",
-   "a": "It was already perfect."
+   "j": "Why did the baby stay in the womb so long?",
+   "a": "The rent was free and the water was warm."
   },
   {
-   "j": "What is a newborn's favourite game?",
-   "a": "Peek-a-boo, because it can only see your face up close."
-  },
-  {
-   "j": "Why did the cell bring a ruler?",
-   "a": "It wanted to measure how much it had grown."
-  },
-  {
-   "j": "What did the womb say on the last day?",
-   "a": "Time to squeeze you out into the world."
-  },
-  {
-   "j": "Why are babies great at sleeping?",
-   "a": "They had nine months of practice."
-  },
-  {
-   "j": "What did the baby say to the cord?",
-   "a": "Thanks for the food, I'll see you at the belly button."
-  },
-  {
-   "j": "Why did the mouse's baby arrive so fast?",
-   "a": "It only had 20 days to pack."
+   "j": "What did the thumb say to the ink pad?",
+   "a": "You always leave me with a good impression."
   }
  ],
  "maths": [
@@ -3135,8 +3149,7 @@
    "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
    "used_in": [
     "a3"
-   ],
-   "plan": "Used again in many science units, from insects to materials."
+   ]
   },
   {
    "id": "b-thermo",
@@ -3146,8 +3159,7 @@
    "url": "https://www.amazon.in/s?k=digital+kitchen+thermometer",
    "used_in": [
     "e3"
-   ],
-   "plan": "Used again in heat and weather units."
+   ]
   },
   {
    "id": "b-tape",
@@ -3158,17 +3170,6 @@
    "used_in": [
     "a2"
    ]
-  },
-  {
-   "id": "b-book",
-   "item": "A picture book about how babies grow, for young children",
-   "kind": "book",
-   "why": "To read together after the unit. Choose one that shows many kinds of families.",
-   "url": "https://www.amazon.in/s?k=picture+book+how+babies+grow+children",
-   "used_in": [
-    "p1"
-   ],
-   "plan": "Read it on day 3 of the Forty-Week Scroll, and compare its pictures with your scroll."
   }
  ],
  "warmup": [
@@ -3202,7 +3203,7 @@
   },
   {
    "q": "What does a newborn do first?",
-   "a": "It breathes air for the first time."
+   "a": "They breathe air for the first time."
   },
   {
    "q": "When did your fingerprints form?",
@@ -3314,7 +3315,7 @@
    },
    {
     "source": "Thich Nhat Hanh, the idea of 'interbeing'",
-    "teaching": "Look deeply at a sheet of paper and you can see the cloud, the rain and the tree in it. Nothing exists all by itself.",
+    "teaching": "Look deeply at a sheet of paper and you can see the cloud, the rain and the tree in the paper. Nothing exists all by itself.",
     "link": "A baby is built from their mother's meals. In them are the farmer's rice, the rain and the sun."
    }
   ],
