@@ -1004,7 +1004,7 @@
     },
     {
      "t": "write",
-     "p": "Divya says, 'The Moon is a small star, because it shines at night.' Use what you saw in the Own Light or Reflected Light test to explain her mistake.",
+     "p": "Divya, a girl in Class 3, says, 'The Moon is a small star, because it shines at night.' Use what you saw in the Own Light or Reflected Light test to explain her mistake.",
      "how": "e2",
      "context": "In the Own Light or Reflected Light test, you put a steel plate, a white ball and a torch on a table, make the room dark, and see which things you can still see.",
      "lines": 4,
@@ -1275,7 +1275,7 @@
     },
     {
      "t": "write",
-     "p": "Karthik says stars are tiny sparks. Use the lighthouse lamp from the story to explain why they might be giant suns.",
+     "p": "Karthik, a boy in Class 4, says stars are tiny sparks. Use the lighthouse lamp from the story to explain why they might be giant suns.",
      "lines": 4,
      "a": "The lighthouse lamp was taller than Sai's father. But from far out at sea it looked like a small star. So a light can be huge and still look tiny if it is very far away. The stars could be giant suns, very, very far away.",
      "why": "A strong answer uses the story as evidence: the lamp was huge, yet looked like a small star from far out at sea. It then links looking small to being far away, not to being small.",
@@ -3070,7 +3070,7 @@
  ],
  "maths": [
   {
-   "problem": "In the near lamp, far lamp test, Meera gave the torch a brightness score at four distances: 2 steps scored 5, 10 steps scored 4, 20 steps scored 2, and 40 steps scored 1. Draw a bar chart of these scores. Then answer: between which two distances did the score drop the most?",
+   "problem": "In the near lamp, far lamp test, Meera, a girl aged 9, gave the torch a brightness score at four distances: 2 steps scored 5, 10 steps scored 4, 20 steps scored 2, and 40 steps scored 1. Draw a bar chart of these scores. Then answer: between which two distances did the score drop the most?",
    "answer": "Between 10 steps and 20 steps, where the score dropped by 2. Here is the bar chart.",
    "explain": "Draw one bar for each distance, as tall as its score. Then find each drop. From 2 to 10 steps, the score went from 5 to 4, a drop of 1. From 10 to 20 steps, it went from 4 to 2, a drop of 2. From 20 to 40 steps, it went from 2 to 1, a drop of 1. The biggest drop is 2, between 10 and 20 steps.",
    "math_unit": "math.data.bar-charts.L3",

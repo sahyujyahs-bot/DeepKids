@@ -624,7 +624,7 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
 9. (mcq) Why do frogs lay their eggs in water?  
    Options: Because frog eggs have no shell and would dry out in air / Because the water keeps them warm / Because frogs cannot walk on land  
    **Answer:** Because frog eggs have no shell and would dry out in air. *Why:* Frog eggs are wrapped in jelly, with no shell. In dry air the jelly dries out, as in the Egg in the Air test. Picking 'cannot walk on land' is wrong, because adult frogs hop about on land.
-10. (perspective) In the Thar desert, food is hard to find, the days are very hot and the winter nights are freezing. Two friends argue about which kind of animal has the better life there.  
+10. (perspective) In the Thar desert, food is hard to find, the days are very hot and the winter nights are freezing. Two friends, Meera and Farida, argue about which kind of animal has the better life there.  
    **Answer:** A strong answer picks a side with a reason, such as 'making your own heat burns lots of food, and desert food is scarce.' It also gives the other side fairly: the gerbil can stay busy on a cold night, when the lizard cannot.. *Why:* Each way of keeping warm has a cost and a gain. Neither is simply better. A good answer weighs both.
 11. (mcq) Which animal feeds their babies milk?  
    Options: Hen / Goat / Cobra / Rohu  
@@ -694,7 +694,7 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
 7. (mcq) Alligators were found in 2010 to share something with birds. What?  
    Options: Feathers / Air flowing one way through their lungs / Warm blood  
    **Answer:** Air flowing one way through their lungs. *Why:* Colleen Farmer and Kent Sanders found that air flows one way through alligator lungs, as in birds. Birds and crocodiles are close cousins.
-8. (write) Kavya says: 'My sweater makes heat. That is why I feel warm when I put it on.' What is wrong with her idea? How could the Fur Coat Test show it?  
+8. (write) Kavya, a girl in your class, says: 'My sweater makes heat. That is why I feel warm when I put it on.' What is wrong with her idea? How could the Fur Coat Test show it?  
    **Answer:** The sweater makes no heat. It traps still air, which holds in the heat that Kavya's body makes. In the Fur Coat Test, the wrapped bottle still cooled, only more slowly. A sweater on a chair, or wrapped round a bottle of cold water, never gets warm.. *Why:* A strong answer says the heat comes from the body, and the wool only slows it leaving. It uses the test as evidence.
 9. (write) A rohu lays lakhs of eggs. An elephant has one calf every few years. Why might each way work?  
    **Answer:** Most rohu eggs are eaten, but there are so many that a few survive. The elephant has one calf, but cares for them for years, so they are very likely to survive.. *Why:* A good answer sees the trade: many young with no care, or few young with lots of care.

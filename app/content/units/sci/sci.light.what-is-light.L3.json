@@ -880,7 +880,7 @@
     },
     {
      "t": "mcq",
-     "p": "On a sunny day, Meenakshi's shadow on the floor has sharp edges. What does this show about how light travels?",
+     "p": "On a sunny day, a girl's shadow on the floor has sharp edges. What does this show about how light travels?",
      "opts": [
       "Light travels in straight lines, so it cannot curl round her body",
       "Light travels in curves round her body",
@@ -903,7 +903,7 @@
     },
     {
      "t": "count",
-     "p": "Lakshmi sees a flash of lightning. She counts 6 seconds before she hears the thunder. About how many kilometres away was the lightning?",
+     "p": "A girl sees a flash of lightning. She counts 6 seconds before she hears the thunder. About how many kilometres away was the lightning?",
      "a": 2,
      "why": "Sound travels about 1 kilometre every 3 seconds. The light arrived almost at once. 6 seconds divided by 3 is 2. So the lightning was about 2 kilometres away.",
      "how": "e1"
@@ -935,7 +935,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Glow Star Test, Lakshmi shone a red phone screen on a glow star for 2 minutes. Then she shone a blue screen on it for 30 seconds. Which one made the star glow?",
+     "p": "In the Glow Star Test, Lakshmi, a girl in Class 4, shone a red phone screen on a glow star for 2 minutes. Then she shone a blue screen on it for 30 seconds. Which one made the star glow?",
      "opts": [
       "The red screen, because it shone for longer",
       "The blue screen",
@@ -1007,7 +1007,7 @@
     },
     {
      "t": "write",
-     "p": "Divya says, 'When I watch the sunrise, I am seeing the Sun exactly as it is at this moment.' What is not quite right about this?",
+     "p": "Divya, a girl in Class 4, says, 'When I watch the sunrise, I am seeing the Sun exactly as it is at this moment.' What is not quite right about this?",
      "lines": 3,
      "a": "The light I see left the Sun about 8 minutes ago. So I am seeing the Sun as it was 8 minutes ago, not as it is now. The Sun has moved on and changed a tiny bit since then.",
      "why": "A strong answer finds the mistake (seeing now) and uses the 8-minute trip to correct it."
@@ -1261,7 +1261,7 @@
     },
     {
      "t": "mcq",
-     "p": "Thenmozhi is an astronaut on Mars. She sends a radio message home. Radio travels at the speed of light, and the trip takes 12 minutes. When does her family hear her?",
+     "p": "An astronaut is on Mars. She sends a radio message home. Radio travels at the speed of light, and the trip takes 12 minutes. When does her family hear her?",
      "opts": [
       "At the same moment she speaks",
       "12 minutes after she speaks",
@@ -2872,7 +2872,7 @@
   },
   {
    "t": "mcq",
-   "p": "Arjun learns that moonlight takes about 1 second to reach us, and sunlight about 8 minutes. What does this tell him?",
+   "p": "A boy learns that moonlight takes about 1 second to reach us, and sunlight about 8 minutes. What does this tell him?",
    "opts": [
     "The Sun is much further away than the Moon",
     "Moonlight travels faster than sunlight",

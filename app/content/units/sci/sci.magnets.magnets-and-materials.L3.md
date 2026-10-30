@@ -617,26 +617,26 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 ### Magnet Detective (core) (core, 16 questions)
 1. (sort) Kavya, a girl in Class 3 in Madurai, empties her pencil box and her mother's sewing tin onto the table. Sort each thing: will a magnet attract it?  
    **Answer:** a steel safety pin → Attracted; a brass key → Not attracted; aluminium foil → Not attracted; an iron nail → Attracted; a copper wire → Not attracted; a steel paper clip → Attracted; a rubber eraser → Not attracted; a steel sewing needle → Attracted. *Why:* The pin, nail, clip and needle are attracted, because they are iron or steel, and steel is mostly iron. Brass, aluminium and copper are metals too, but they have no iron, nickel or cobalt in them. Rubber is not a metal at all. A strong answer sorts by what the thing is made of, not by whether it is shiny or hard.
-2. (truefalse) Meenakshi says, 'Every metal sticks to a magnet.' Is she right?  
+2. (truefalse) A friend says, 'Every metal sticks to a magnet.' Is your friend right?  
    **Answer:** False. *Why:* False. Copper, brass, aluminium, gold and silver are all metals, and a magnet does not attract any of them. A magnet attracts iron, most steel, nickel and cobalt. A strong answer names one metal that does not stick, such as a brass key.
-3. (mcq) Lakshmi puts a steel pin on the table and lays a page of her notebook over it. She slides a magnet around on top of the page. What will the pin do?  
+3. (mcq) A girl puts a steel pin on the table and lays a page of her notebook over it. She slides a magnet around on top of the page. What will the pin do?  
    Options: Follow the magnet around under the page / Stay still, because the paper blocks the magnet / Stick to the paper and stay there / Jump off the table  
    **Answer:** Follow the magnet around under the page. *Why:* The magnet's force acts through paper, cloth, wood and even your hand. So the pin follows the magnet under the page. Many people guess the paper blocks it. Try it and see.
 4. (write) A magnet can move a pin without touching it. Explain how. Use the words 'magnetic field' in your answer.  
    **Answer:** Every magnet has a magnetic field around it. This is the space where its force acts. When the pin is inside the magnetic field, the magnet attracts it, even across a gap.. *Why:* A strong answer says that the force acts across the space around the magnet, the magnetic field, so nothing has to touch.
 5. (draw) Draw a bar magnet that has been rolled in a heap of paper clips. Show where the clips cling. Label the north pole and the south pole.  
    **Answer:** Bunches of clips at the two ends, labelled north and south, and few or none in the middle.. *Why:* A magnet's force is strongest at its two ends, the poles. A strong drawing shows that clearly, with the middle almost bare.
-6. (mcq) Anjali slides two ring magnets onto a pencil. They snap together. She takes the top one off, turns it over and slides it back on. What happens now?  
+6. (mcq) A girl slides two ring magnets onto a pencil. They snap together. She takes the top one off, turns it over and slides it back on. What happens now?  
    Options: They snap together even harder / The top magnet floats above the bottom one / Both magnets stop being magnets / Nothing changes  
    **Answer:** The top magnet floats above the bottom one. *Why:* Turning the top magnet over puts the same kind of pole face to face, for example north facing north. Poles that are the same repel each other, so the top magnet floats. A strong answer says which poles now face each other.
 7. (fill) When two magnets push each other away, we say they ____ each other.  
    **Answer:** ['repel']. *Why:* Repel means push away. Two north poles, or two south poles, repel each other. A north pole and a south pole attract each other.
-8. (mcq) Revathi strokes a sewing needle 50 times with a magnet, always the same way. Now the needle picks up a pin. What changed inside the needle?  
+8. (mcq) A girl strokes a sewing needle 50 times with a magnet, always the same way. Now the needle picks up a pin. What changed inside the needle?  
    Options: Some iron moved from the magnet into the needle / The needle became heavier / The tiny magnets inside the needle now point the same way / The needle became hotter  
    **Answer:** The tiny magnets inside the needle now point the same way. *Why:* Nothing passes from the magnet into the needle. The stroking turns the needle's own tiny magnets to point the same way, so their forces add up. A strong answer uses the words 'tiny magnets' and 'line up'.
 9. (truefalse) A needle compass still points north and south inside a closed room with no windows.  
    **Answer:** True. *Why:* True. The compass is turned by the Earth's magnetic field, which passes through walls. It does not need the Sun or the stars. Many people guess that a compass needs to 'see' the sky.
-10. (mcq) Arjun floats his needle compass in a steel bowl. The needle keeps swinging to the side of the bowl instead of pointing north. What is the best fix?  
+10. (mcq) A girl floats her needle compass in a steel bowl. The needle keeps swinging to the side of the bowl instead of pointing north. What is the best fix?  
    Options: Stroke the needle 100 more times / Add salt to the water / Use hot water / Use a plastic or glass bowl instead  
    **Answer:** Use a plastic or glass bowl instead. *Why:* Some steel bowls are magnetic, so the bowl attracts the needle to its edge. A plastic or glass bowl is not magnetic, so only the Earth's magnetic field turns the needle. A strong answer says what was pulling the needle the wrong way.
 11. (odd) A magnet attracts three of these metals. Which one is the odd one out?  
@@ -644,7 +644,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
    **Answer:** 0. *Why:* Iron, nickel and cobalt are the three magnetic metals. Aluminium is a metal too, but a magnet does not attract it. That is why a magnet cannot pick up a cold drink can made of aluminium.
 12. (match) Match each word to what it means.  
    **Answer:** Attract → to pull something towards you; Repel → to push something away; Pole → an end of a magnet, where its force is strongest; Magnetic field → the space around a magnet where its force acts; Compass → a magnet that can turn freely and points north and south. *Why:* These five words come up all through the unit. A strong answer could also give an example of each.
-13. (mcq) Farhan wants to find out which of his two magnets is stronger, using a paper clip chain. Which of these would make his test unfair?  
+13. (mcq) A girl wants to find out which of her two magnets is stronger, using a paper clip chain. Which of these would make her test unfair?  
    Options: Using the same kind of clips for both magnets / Using big clips for one magnet and small clips for the other / Counting the clips carefully / Testing each magnet three times  
    **Answer:** Using big clips for one magnet and small clips for the other. *Why:* In a fair test, only one thing changes: the magnet. Small clips are lighter, so a magnet could hold more of them. Then we could not tell if the magnet or the clips made the difference.
 14. (perspective) Two sisters in Chennai have a big flat fridge magnet and a tiny round magnet. They argue about which one is stronger.  
@@ -663,12 +663,12 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
    **Answer:** False. *Why:* False. Nothing passes from the magnet to the needle. The stroking only lines up the needle's own tiny magnets. One magnet can magnetise hundreds of needles and stay just as strong.
 4. (write) In the heating test, a magnetised needle was heated until it glowed red. After it cooled, it no longer picked up a pin. Hema, aged 10, says, 'It can never be a magnet again.' Is she right? Say what you would do to find out.  
    **Answer:** I think she is wrong. The heat shook the tiny magnets out of line, but the needle is still steel. I would stroke it 50 times with a magnet, always the same way, and then see if it picks up a pin again.. *Why:* A strong answer explains what the heat did, and gives a test that could prove Hema right or wrong. In the activity, the needle becomes a magnet again after stroking.
-5. (order) Sangeetha holds a magnet at different distances from a pin. Put these in order, from where the magnet's force on the pin is weakest to where it is strongest.  
+5. (order) A girl holds a magnet at different distances from a pin. Put these in order, from where the magnet's force on the pin is weakest to where it is strongest.  
    **Answer:** ['Magnet 10 centimetres away', 'Magnet 4 centimetres away', 'Magnet 1 centimetre away', 'Magnet touching the pin']. *Why:* A magnet's force gets weaker very quickly as you move it away. That is why the pin only jumps up when the magnet is close.
-6. (mcq) Lakshmi does the paper clip chain test three times with each magnet. Fridge magnet: 1, 1, 2. Ceramic magnet: 4, 5, 4. Bar magnet: 6, 2, 6. Which result looks odd, and what should she do?  
+6. (mcq) A girl does the paper clip chain test three times with each magnet. Fridge magnet: 1, 1, 2. Ceramic magnet: 4, 5, 4. Bar magnet: 6, 2, 6. Which result looks odd, and what should she do?  
    Options: The fridge magnet's 2. She should ignore the fridge magnet / The ceramic magnet's 5. She should start again / Nothing looks odd / The bar magnet's 2. She should check the clips and try that magnet again  
    **Answer:** The bar magnet's 2. She should check the clips and try that magnet again. *Why:* The bar magnet held 6 clips twice, so 2 is very different. Maybe a clip was bent or the chain was knocked. Testing again shows whether 2 was a fluke. This is why we test each magnet three times.
-7. (mcq) Priya holds a compass next to a steel almirah, and the needle swings towards it. Why?  
+7. (mcq) A girl holds a compass next to a steel almirah, and the needle swings towards it. Why?  
    Options: The almirah's iron attracts the needle, which is a magnet / Compasses only work outdoors / The almirah is cold / The almirah has its own north pole for the Earth  
    **Answer:** The almirah's iron attracts the needle, which is a magnet. *Why:* A compass needle is a magnet, and a magnet and iron attract each other. The iron in the almirah turns the needle towards it, just as the iron pot did in the story 'The Iron Fish'. Move the compass far away and it points north again.
 8. (fill) The temperature at which a magnet stops being a magnet is called the ____ point.  
@@ -708,7 +708,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 7. (mcq) Mars has almost no magnetic field around the whole planet. Why do many scientists think Mars lost much of its air?  
    Options: Without a magnetic field to steer it away, the Sun's solar wind stripped the air away / The air all froze into ice caps / The Moon pulled it off / Mars is too far from the Sun to have air  
    **Answer:** Without a magnetic field to steer it away, the Sun's solar wind stripped the air away. *Why:* The Earth's magnetic field steers the solar wind, the Sun's stream of tiny charged particles, around our planet. Mars lost its field long ago, so the solar wind slowly stripped its air. Some air froze into the ice caps, but not most of it.
-8. (mcq) Sangeetha snaps a bar magnet in half. What does she get?  
+8. (mcq) A girl snaps a bar magnet in half. What does she get?  
    Options: One piece that is only a north pole and one that is only a south pole / Two smaller magnets, each with a north pole and a south pole / Two pieces that are not magnets at all / One magnet and one piece that is not a magnet  
    **Answer:** Two smaller magnets, each with a north pole and a south pole. *Why:* Most people guess that one half would be only a north pole and the other only a south pole. But the tiny magnets inside are still lined up in each half, so each half is a whole magnet with two poles. You can test this with a cheap broken fridge magnet.
 9. (mcq) In 1904, the magnetic observatory in Colaba, Bombay, moved to Alibag, a quiet town across the bay. Electric trams were coming to Bombay. Why did the scientists move?  
@@ -719,7 +719,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 11. (mcq) The Earth's magnetic north pole moves about 40 kilometres a year. How far might it move in 10 years?  
    Options: 4 kilometres / 40 kilometres / 4,000 kilometres / 400 kilometres  
    **Answer:** 400 kilometres. *Why:* 40 kilometres each year, for 10 years, is 40 times 10, which is 400 kilometres. That is why maps that show compass directions are updated every few years.
-12. (write) Arjun says, 'A magnet attracts iron because iron is heavy and magnets are strong.' What is wrong with his idea? Describe a test that would show it.  
+12. (write) A friend says, 'A magnet attracts iron because iron is heavy and magnets are strong.' What is wrong with this idea? Describe a test that would show it.  
    **Answer:** Weight is not what matters. A light steel pin is attracted, but a heavy brass diya is not. I would hold a magnet near a tiny pin and a heavy brass vessel. The pin jumps to the magnet and the brass does not move.. *Why:* A strong answer says that what the thing is made of matters, not how heavy it is, and gives a test with a light iron thing and a heavy thing that is not iron.
 13. (draw) Draw the Earth cut in half. Label the crust, the liquid outer core and the solid inner core. Draw curved magnetic field lines around the outside.  
    **Answer:** A thin crust, a thick rocky middle, a liquid outer core and a solid inner core, with curved field lines looping from one pole round to the other.. *Why:* This shows where the Earth's magnetic field is made, in the moving liquid outer core, and its shape. Inge Lehmann, a Danish scientist, showed in 1936 that the inner core is solid.
@@ -736,7 +736,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 - **How quantum mechanics help birds find their way** (Nature (nature video), 5 min) id `0SPD2r0xV8k`: From the journal Nature: the idea that robins sense the Earth's magnetic field with their eyes, and why it is still being tested. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'How quantum mechanics help birds find their way', channel nature video). Not watched from here: a parent should preview it and check its length.
 
 ## Quiz
-1. (mcq) Rani's brass diya and her iron kadai are both made of metal. A magnet attracts the kadai but not the diya. Why?  
+1. (mcq) A brass diya and an iron kadai are both made of metal. A magnet attracts the kadai but not the diya. Why?  
    Options: The diya is too heavy / Brass has no iron, nickel or cobalt in it / The diya is too shiny / The kadai is warmer  
    **Answer:** Brass has no iron, nickel or cobalt in it. *Why:* A magnet attracts only metals with iron, nickel or cobalt in them. Brass is made of copper and zinc, so a magnet does not attract it. Picking 'too heavy' or 'too shiny' means thinking about how a thing looks, not what it is made of.
 2. (mcq) Some steel pins fell into a box of brass buttons. What is the quickest way to get the pins out?  
@@ -748,7 +748,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 4. (mcq) A floating magnetised needle always turns to point north and south. Why?  
    Options: The Pole Star attracts it / The Earth's magnetic field turns it / Water flows towards the north / The bowl is magnetic  
    **Answer:** The Earth's magnetic field turns it. *Why:* The needle is a magnet, and the Earth's magnetic field turns it to line up north and south. Picking the Pole Star comes from an old idea. Stars have no effect on compasses, and a compass works in a closed room.
-5. (mcq) Meera does the paper clip chain test. Her magnet holds 5 clips on the first try. Why should she test it two more times?  
+5. (mcq) A girl does the paper clip chain test. Her magnet holds 5 clips on the first try. Why should she test it two more times?  
    Options: The magnet gets stronger each time / One try can be a fluke, for example if a clip is bent or the chain is knocked / Three is a lucky number / To tire the magnet out  
    **Answer:** One try can be a fluke, for example if a clip is bent or the chain is knocked. *Why:* One result can be wrong by bad luck. If three tries give about the same number, she can trust it. If one try is very different, she knows to look for what went wrong. Picking 'gets stronger each time' means thinking testing changes the magnet. It does not.
 6. (mcq) In a fair test of which magnet is strongest, what should stay the same?  

@@ -629,20 +629,20 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 
 ## Worksheets
 ### Waste Detective (core) (core, 16 questions)
-1. (write) Kavya's family buys a new plastic bottle of water every day. Her mother says, "That is fine, because we give the bottles for recycling." Kavya thinks they should fill a steel bottle at home instead. Explain why Kavya's plan is better. Use the word energy or materials.  
+1. (write) Kavya, a girl in Class 4, and her family buy a new plastic bottle of water every day. Her mother says, "That is fine, because we give the bottles for recycling." Kavya thinks they should fill a steel bottle at home instead. Explain why Kavya's plan is better. Use the word energy or materials.  
    **Answer:** Kavya's plan means no new bottle is made at all, so no plastic, oil or energy is used to make one. Recycling still needs trucks, washing, shredding and melting, which all use energy. And many bottles never reach a factory. A steel bottle can be used for years.. *Why:* A strong answer says that reducing stops the waste being made, while recycling still uses energy and materials. That is why reduce comes first.
 2. (match) Match each action to its R.  
    **Answer:** Take a steel dabba to the shop for loose dal → Reduce; Use an old sari as a curtain → Reuse; Get the mixie's broken blade fixed → Repair; Sell old newspapers to the kabadiwala → Recycle. *Why:* Reduce stops the waste being made. Reuse uses a thing again. Repair mends it so it works again. Recycle breaks it down into material for something new.
 3. (sort) Sort these things. Will each one rot in damp soil within a few months, or not?  
    **Answer:** a mango peel → Rots within a few months; a steel spoon → Does not rot; curry leaves → Rots within a few months; a glass bangle → Does not rot; a paper bag → Rots within a few months; a toothpaste tube → Does not rot; a plastic straw → Does not rot. *Why:* Things that were once part of a living plant, like peels, leaves and paper, are food for soil microbes, so they rot. Steel, glass and plastic are not food for them. Steel may slowly rust, but it does not rot.
-4. (mcq) Before the rot jar test, Divya makes a prediction. Which thing should she expect to look most changed after two weeks?  
+4. (mcq) Before the rot jar test, A girl makes a prediction. Which thing should she expect to look most changed after two weeks?  
    Options: The banana peel / The newspaper / The cotton cloth / The milk packet  
    **Answer:** The banana peel. *Why:* A banana peel is soft, wet and was alive only days ago, so microbes start on it quickly. Paper and cotton rot too, but more slowly, because their fibres are tough. The milk packet is plastic, and microbes have almost no enzymes for it.
 5. (truefalse) When plastic breaks into tiny pieces, it has rotted away.  
    **Answer:** False. *Why:* False. Tiny pieces of plastic are still plastic. They are called microplastics, and they spread into soil, water and animals.
 6. (truefalse) Burning garbage makes it disappear completely.  
    **Answer:** False. *Why:* False. Burning turns garbage into smoke, gases and ash. Atoms are never destroyed.
-7. (mcq) Pooja says, "Plastic does not rot because it is buried too deep for the microbes to reach." What is wrong with her idea?  
+7. (mcq) Pooja, a girl in Class 4, says, "Plastic does not rot because it is buried too deep for the microbes to reach." What is wrong with her idea?  
    Options: Plastic lying on top of the soil does not rot either. The real reason is that almost no microbe has an enzyme that fits plastic / Nothing. Pooja is right / Plastic rots quickly if it is buried deep enough  
    **Answer:** Plastic lying on top of the soil does not rot either. The real reason is that almost no microbe has an enzyme that fits plastic. *Why:* A peel buried at the same depth does rot, so depth is not the reason. Microbes can only eat what their enzymes fit, and their enzymes fit peels, not plastic. Plastic left in the sun cracks into pieces, but it still does not rot.
 8. (fill) Dark, crumbly soil made from rotted peels and leaves is called ____.  
@@ -659,15 +659,15 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
    **Answer:** An old cotton T-shirt is now a duster. Before, it was a shirt. So we did not have to buy a new duster. A biscuit tin now holds buttons. Before, it held biscuits. So we did not need a new box.. *Why:* A strong answer gives two real examples and sees that each reuse means one new thing does not have to be made.
 13. (draw) Draw what you saw in your jars after two weeks: the peel, the paper, the cloth and the milk packet.  
    **Answer:** A drawing showing the peel dark and soft or partly gone, the paper soft or torn, the cloth stained, and the milk packet unchanged.. *Why:* Drawing what you really saw is how scientists record. Yours may look different, and that is fine.
-14. (perspective) Lakshmi's family is deciding what to do with their old newspapers.  
+14. (perspective) Lakshmi, a girl aged 9, and her family are deciding what to do with their old newspapers.  
    **Answer:** A strong answer weighs real trade-offs. Recycling saves trees but still uses trucks, water and energy at the mill. Reusing keeps the paper useful for longer, and it can still be recycled later. Reducing comes first in the order of the Rs, but a phone also uses electricity and is hard to recycle. A strong answer picks one plan, gives a reason, and is fair to another.. *Why:* There is no single right answer. Each plan avoids some waste, and each has a cost.
-15. (mcq) Meena has a bundle of old newspapers, an empty oil tin, a broken plastic bucket and a bag of vegetable peels. Which ONE will the kabadiwala not buy?  
+15. (mcq) A woman has a bundle of old newspapers, an empty oil tin, a broken plastic bucket and a bag of vegetable peels. Which ONE will the kabadiwala not buy?  
    Options: The vegetable peels / The newspapers / The oil tin / The plastic bucket  
    **Answer:** The vegetable peels. *Why:* A kabadiwala buys things that factories can remake: paper, metal and hard plastic. He sells them on to dealers. Peels cannot be remade in a factory. They belong in a compost pot, where microbes turn them into soil.
 16. (truefalse) Paper rots in soil because it is made from wood, which was once part of a living tree.  
    **Answer:** True. *Why:* True. Paper is made of fibres from wood. Soil microbes have been feeding on wood for millions of years, so they have enzymes that fit it. That is why paper rots, though more slowly than a peel.
 ### Following Our Waste (stretch) (stretch, 16 questions)
-1. (mcq) In the rot jar test, Anu puts the peel jar on a sunny windowsill and the milk-packet jar in a cool cupboard. Why is this not a fair test?  
+1. (mcq) In the rot jar test, A girl puts the peel jar on a sunny windowsill and the milk-packet jar in a cool cupboard. Why is this not a fair test?  
    Options: She changed two things at once, the material and the place, so she cannot tell which one made the difference / The jars are not the same colour / The milk packet should be in the sun too, so that it rots  
    **Answer:** She changed two things at once, the material and the place, so she cannot tell which one made the difference. *Why:* In a fair test, only one thing changes. Here the material and the warmth are both different. If the peel rots faster, nobody can tell whether the material or the warm sun caused it.
 2. (mcq) Look at the made-up results. The newspaper and the cotton cloth both scored 4 on day 14. What does this tell you?  
@@ -683,7 +683,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 6. (mcq) Why have microbes had trouble learning to eat plastic?  
    Options: Plastic is poisonous to all life / Most plastic has existed for less than 75 years, too short for most microbes to evolve the right enzymes / Microbes don't like the colour / Plastic is too hard to see  
    **Answer:** Most plastic has existed for less than 75 years, too short for most microbes to evolve the right enzymes. *Why:* Microbes evolved enzymes for leaves, wood and bones over hundreds of millions of years. Plastic is very new. In 2016, scientists found one bacterium that eats bottle plastic, so life is starting to find ways. Picking 'poisonous' is a common belief, but microbes can live on plastic surfaces without eating them.
-7. (write) Sangeetha's building puts peels, paper and plastic all together in one bag. Why does most of it end up in the dump, even the paper that could have been recycled?  
+7. (write) One building puts peels, paper and plastic all together in one bag. Why does most of it end up in the dump, even the paper that could have been recycled?  
    **Answer:** Once wet peels are mixed in, the paper gets soggy and dirty, and a paper mill cannot use it. Sorting a smelly mixed bag by hand is slow and unpleasant, so most mixed waste is simply dumped. If the building kept wet and dry waste apart, the paper would stay clean and could be sold.. *Why:* A strong answer explains that mixing spoils the dry waste and makes sorting hard, so sorting at home is what makes recycling possible.
 8. (fill) Deep inside a big dump, wet waste rots with no air. This makes a gas that can catch fire and warms the planet. The gas is called ____.  
    **Answer:** ['methane']. *Why:* Methane is made when wet waste rots without air. It causes dump fires and warms the planet. When peels are composted with air, the microbes make far less methane.
@@ -721,7 +721,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
    **Answer:** True. *Why:* True. Scientists found these bacteria in 2016 near a recycling plant in Sakai, Japan. Living beings often turn up where their food is. Over the years, some microbes there had found a way to feed on PET.
 7. (truefalse) Glass is made from sand, so a glass bottle thrown in the dump soon turns back into sand.  
    **Answer:** False. *Why:* False. No microbe can feed on glass, so glass does not rot. It can break into sharp pieces, but each piece is still glass. Only waves rolling it on a beach for many years slowly wear it smooth. Being made from something natural does not mean a thing goes back to nature quickly.
-8. (write) Kamla asked the officer, 'Cleared away where?' Explain the science behind her question.  
+8. (write) In the story, Kamla asked the officer, 'Cleared away where?' Explain the science behind her question.  
    **Answer:** Glass and tile don't rot, because no microbes can eat them, and their atoms are never destroyed. So taking them away would only move them to the dump, where they would stay for hundreds of years. In the garden, the same pieces were useful and beautiful.. *Why:* Her question works because there is no away. Things only move or change form.
 9. (mcq) Half of a city's waste is wet waste. If every home composted its wet waste, about how much less would go to the dump?  
    Options: None / About half / All of it / About a tenth  
@@ -739,7 +739,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
    **Answer:** A refillable steel or glass jar that the shop fills from a big tin. Or a paper packet lined with a thin coat that compost microbes can eat.. *Why:* Real engineers are working on this problem. Any idea that keeps chips dry and can be reused, recycled or composted is a good answer.
 15. (write) Waste is sometimes called 'matter out of place'. Give one example of something that is waste in one place and useful in another.  
    **Answer:** Cow dung is waste on a road, but fuel and fertiliser in a village. A broken bangle is waste in a dustbin, but art in Nek Chand's garden.. *Why:* The saying is old. The thinker Mary Douglas made it famous in 1966. Any real example where place changes usefulness is right.
-16. (mcq) Fathima's family in Kochi puts all their peels into a compost pot. After three months, the compost weighs much less than all the peels that went in. Atoms are never destroyed, so where did the missing weight go?  
+16. (mcq) A family in Kochi puts all their peels into a compost pot. After three months, the compost weighs much less than all the peels that went in. Atoms are never destroyed, so where did the missing weight go?  
    Options: Into the air, as carbon dioxide gas and water vapour given off by the microbes as they fed / It disappeared / Into the pot itself  
    **Answer:** Into the air, as carbon dioxide gas and water vapour given off by the microbes as they fed. *Why:* As microbes feed on peels, they breathe out carbon dioxide and give off water, just as we do. These float away as gas and vapour. The atoms are not destroyed. They have moved into the air, and plants can take them in again.
 
@@ -767,7 +767,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 6. (mcq) A wooden spoon and a plastic spoon are buried side by side in damp soil. After a year, the wooden spoon is soft and crumbling, but the plastic spoon looks the same. Why?  
    Options: Soil microbes have enzymes that fit wood, but almost none that fit plastic / The plastic spoon was buried deeper / The wooden spoon was older  
    **Answer:** Soil microbes have enzymes that fit wood, but almost none that fit plastic. *Why:* Microbes have fed on wood for millions of years, so they have enzymes that fit it. Plastic is new, and almost no microbe has an enzyme for plastic. Both spoons were in the same soil, so the material made the difference.
-7. (mcq) Nandini bakes a tray of damp soil in a hot oven, so that every microbe in the soil dies. When it cools, she buries a banana peel in it and seals the jar. What will happen to the peel?  
+7. (mcq) A girl bakes a tray of damp soil in a hot oven, so that every microbe in the soil dies. When it cools, she buries a banana peel in it and seals the jar. What will happen to the peel?  
    Options: It will hardly rot, because there are no microbes to feed on it / It will rot faster, because the soil is warm / It will rot just as fast as in garden soil  
    **Answer:** It will hardly rot, because there are no microbes to feed on it. *Why:* Rotting is microbes feeding. With no microbes, the peel stays almost whole for a long time. Picking 'just as fast' means thinking the soil itself does the rotting. This is how people keep food from rotting: heating and sealing it, as in a jar of pickle or a sealed tin.
 8. (mcq) Why should a family keep wet waste and dry waste in separate bins?  

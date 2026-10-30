@@ -1240,10 +1240,10 @@
     },
     {
      "t": "mcq",
-     "p": "Anjali sorts a heap of things by the rule 'Is it big?'. Her friend Kavya uses the same rule on the same heap and gets different groups. What is the best fix?",
+     "p": "A girl sorts a heap of things by the rule 'Is it big?'. Her friend uses the same rule on the same heap and gets different groups. What is the best fix?",
      "opts": [
       "Change the rule to 'Is it longer than my hand?'",
-      "Let Anjali decide, because she started",
+      "Let the first girl decide, because she started",
       "Sort the heap again by the same rule",
       "Use a bigger heap"
      ],
@@ -1364,7 +1364,7 @@
     },
     {
      "t": "mcq",
-     "p": "Revathi hangs a steel tumbler and a plastic tumbler of the same shape from threads. She taps each one with a pencil. Which will ring for longer?",
+     "p": "A girl hangs a steel tumbler and a plastic tumbler of the same shape from threads. She taps each one with a pencil. Which will ring for longer?",
      "opts": [
       "The steel tumbler",
       "The plastic tumbler",
@@ -1377,7 +1377,7 @@
     },
     {
      "t": "mcq",
-     "p": "Gowri has a heap of old clothes to give away. Some will go to a baby, and some to grown-ups. Which rule fits this job?",
+     "p": "A family has a heap of old clothes to give away. Some will go to a baby, and some to grown-ups. Which rule fits this job?",
      "opts": [
       "Is it small enough for a baby?",
       "Is it red?",
@@ -1501,7 +1501,7 @@
     },
     {
      "t": "mcq",
-     "p": "Zainab writes a key with the question 'Is it shiny or hard?'. Why is this a bad question for a key?",
+     "p": "A girl writes a key with the question 'Is it shiny or hard?'. Why is this a bad question for a key?",
      "opts": [
       "It asks two things at once, so a thing that is shiny but soft has no clear yes or no",
       "It is too short",
@@ -1621,7 +1621,7 @@
     },
     {
      "t": "mcq",
-     "p": "Priya draws a Venn diagram with two circles, 'Metal' and 'Shiny'. She puts a glass marble in the overlap. What is her mistake?",
+     "p": "A girl draws a Venn diagram with two circles, 'Metal' and 'Shiny'. She puts a glass marble in the overlap. What is her mistake?",
      "opts": [
       "Glass is not a metal, so the marble goes in the Shiny circle only",
       "Glass is not shiny, so it goes outside both",
@@ -1704,7 +1704,7 @@
     },
     {
      "t": "write",
-     "p": "Thatha sorted the metal by colour and Hema sorted it by sound. Why did the bell sing only after the second sort?",
+     "p": "In the story The Bell That Would Not Sing, Thatha sorted the metal by colour and Hema sorted it by sound. Why did the bell sing only after the second sort?",
      "lines": 4,
      "a": "Colour showed what the metal looked like, but not what it would sound like. A bell needs bell metal, which rings. Hema's sort used the property the bell needed.",
      "why": "The rule must fit the job. A bell is for sound, so sorting by sound fits.",
@@ -3515,7 +3515,7 @@
   },
   {
    "t": "mcq",
-   "p": "Nila says, 'A steel spoon is in the metal group, so it cannot also be in the shiny group.' Is she right?",
+   "p": "A friend says, 'A steel spoon is in the metal group, so it cannot also be in the shiny group.' Is she right?",
    "opts": [
     "No. Each rule asks a different question, so the spoon can be in both",
     "Yes. A thing can only be in one group",
@@ -3614,7 +3614,7 @@
   },
   {
    "t": "mcq",
-   "p": "Bhavani sorts the laundry before washing: white clothes in one bucket, coloured clothes in another. What is the job of this sort?",
+   "p": "A woman sorts the laundry before washing: white clothes in one bucket, coloured clothes in another. What is the job of this sort?",
    "opts": [
     "To stop dye from coloured clothes staining the white ones",
     "To make the buckets equally heavy",

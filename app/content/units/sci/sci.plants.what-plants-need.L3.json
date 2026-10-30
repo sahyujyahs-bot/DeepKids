@@ -811,67 +811,67 @@
      "title": "16 test cards to cut out (the answer is on the back)",
      "items": [
       {
-       "f": "Revathi puts one moong cup in the sun and one in a cupboard. She waters both with 2 spoons a day.",
+       "f": "A girl puts one moong cup in the sun and one in a cupboard. She waters both with 2 spoons a day.",
        "b": "FAIR. Only the light changes."
       },
       {
-       "f": "Meena puts one moong cup in the sun and one in a cupboard. She forgets to water the cupboard cup.",
+       "f": "A girl puts one moong cup in the sun and one in a cupboard. She forgets to water the cupboard cup.",
        "b": "UNFAIR. Water changed too. Fix: water both cups the same."
       },
       {
-       "f": "Shalini tests if plants need water. She uses a tiny seedling with no water and a big plant with water.",
+       "f": "A girl tests if plants need water. She uses a tiny seedling with no water and a big plant with water.",
        "b": "UNFAIR. The size of the plant changed. Fix: use two seedlings of the same size."
       },
       {
-       "f": "Aisha grows 3 cups with water every day and 3 cups with no water, all on the same windowsill.",
+       "f": "A girl grows 3 cups with water every day and 3 cups with no water, all on the same windowsill.",
        "b": "FAIR. Only the water changes."
       },
       {
-       "f": "Karthik puts methi in the fridge and moong in a warm room to see if warmth matters.",
+       "f": "A boy puts methi in the fridge and moong in a warm room to see if warmth matters.",
        "b": "UNFAIR. The kind of seed changed. Fix: use the same seed in both."
       },
       {
-       "f": "Kavya puts 10 sprouts in the fridge, 10 in a cupboard and 10 on top of the fridge, all in closed dark boxes.",
+       "f": "A girl puts 10 sprouts in the fridge, 10 in a cupboard and 10 on top of the fridge, all in closed dark boxes.",
        "b": "FAIR. Only the warmth changes."
       },
       {
-       "f": "Tara measures her light cup in the morning and her dark cup at night.",
+       "f": "A girl measures her light cup in the morning and her dark cup at night.",
        "b": "UNFAIR. The time of measuring changed. Fix: measure both cups at the same time."
       },
       {
-       "f": "Josna measures every cup at 6 o'clock every evening, from the soil to the top of the tallest seedling.",
+       "f": "A girl measures every cup at 6 o'clock every evening, from the soil to the top of the tallest seedling.",
        "b": "FAIR. Every cup is measured the same way, at the same time."
       },
       {
-       "f": "Zara tests soil from the garden against soil from a shop. She also uses a bigger pot for the shop soil.",
+       "f": "A girl tests soil from the garden against soil from a shop. She also uses a bigger pot for the shop soil.",
        "b": "UNFAIR. The pot size changed. Fix: use the same size of pot."
       },
       {
-       "f": "Nithin grows one seed in the sun and one seed in the shade, then says the sun is better.",
+       "f": "A boy grows one seed in the sun and one seed in the shade, then says the sun is better.",
        "b": "NOT TO BE TRUSTED. Only one seed in each place, so the result could be a fluke. Fix: use many seeds in each place."
       },
       {
-       "f": "Ananya uses the same spoon to water every cup, and fills it to the brim each time.",
+       "f": "A girl uses the same spoon to water every cup, and fills it to the brim each time.",
        "b": "FAIR. Every cup gets the same water."
       },
       {
-       "f": "Vaishnavi tests music on her plants. The music plant is in her bedroom window. The quiet plant is in the bathroom.",
+       "f": "A girl tests music on her plants. The music plant is in her bedroom window. The quiet plant is in the bathroom.",
        "b": "UNFAIR. The light and the warmth changed too. Fix: put both plants in the same place."
       },
       {
-       "f": "Leela tests green cellophane and clear cellophane over two cups. Both cups are the same, side by side.",
+       "f": "A girl tests green cellophane and clear cellophane over two cups. Both cups are the same, side by side.",
        "b": "FAIR. Only the colour of the cellophane changes."
       },
       {
-       "f": "Omar waters his sunny plant with tap water and his shady plant with fridge water.",
+       "f": "A boy waters his sunny plant with tap water and his shady plant with fridge water.",
        "b": "UNFAIR. The water temperature changed too. Fix: use tap water for both."
       },
       {
-       "f": "Priya plants the same moong seeds in the same soil, in the same cups, and only changes how much water.",
+       "f": "A girl plants the same moong seeds in the same soil, in the same cups, and only changes how much water.",
        "b": "FAIR. Only the amount of water changes."
       },
       {
-       "f": "Anjali tests warmth with one box in the fridge and one box on a sunny windowsill without a lid.",
+       "f": "A girl tests warmth with one box in the fridge and one box on a sunny windowsill without a lid.",
        "b": "UNFAIR. The light and the lid changed too. Fix: give both boxes a lid and the same light."
       }
      ]
@@ -912,18 +912,18 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Read the card about Meena together as a practice round.",
-     "say": "Meena puts one moong cup in the sun and one in a cupboard. She forgets to water the cupboard cup. Fair or unfair?",
-     "kid": "Meena puts one cup in the sun and one in a cupboard. She forgets to water the cupboard cup. Fair or unfair?",
+     "do": "Read the card about the forgotten watering together as a practice round.",
+     "say": "A girl puts one moong cup in the sun and one in a cupboard. She forgets to water the cupboard cup. Fair or unfair?",
+     "kid": "A girl puts one cup in the sun and one in a cupboard. She forgets to water the cupboard cup. Fair or unfair?",
      "check": {
       "t": "mcq",
-      "q": "Meena puts one cup in the sun and one in a cupboard. She forgets to water the cupboard cup. Is it a fair test of light?",
+      "q": "A girl puts one cup in the sun and one in a cupboard. She forgets to water the cupboard cup. Is it a fair test of light?",
       "options": [
        "Fair, because she changed the light",
        "Unfair, because the light and the water both changed"
       ],
       "a": 1,
-      "why": "Two things changed: light and water. If the cupboard seedlings die, Meena cannot tell which one caused it. To fix it, she waters both cups the same. Picking 'fair' usually means noticing the thing that was changed on purpose, but not the thing that changed by accident."
+      "why": "Two things changed: light and water. If the cupboard seedlings die, she cannot tell which one caused it. To fix it, she waters both cups the same. Picking 'fair' usually means noticing the thing that was changed on purpose, but not the thing that changed by accident."
      }
     },
     {
@@ -932,7 +932,7 @@
      "do": "1. Take turns reading the cards. 2. Everyone holds up a paddle together. 3. Give tokens for naming the extra change, and for a good fix.",
      "say": "Paddles up! If it's unfair, what else changed? How would you fix it?",
      "kid": "Paddles up! If it is unfair, say what else changed. Then say how to fix it.",
-     "parent": "The fair ones are Revathi, Aisha, Kavya, Josna, Ananya, Leela and Priya. The unfair ones are these. Meena changed water too. Shalini changed plant size. Karthik changed the kind of seed. Tara changed the time of measuring. Zara changed pot size. Nithin used only one seed each, so the result could be a fluke. Vaishnavi changed light and warmth. Omar changed water temperature. Anjali changed light and the lid as well as warmth. Nithin's test is a good one to argue about. Only one seed is not exactly unfair, but it cannot be trusted."
+     "parent": "The fair ones are the cards where only one thing changes: the cups both watered, 3 cups with water and 3 without, the three places for the sprouts, measuring every cup at the same time, the same spoon for every cup, the two cellophanes, and only the amount of water. The unfair ones are these. The forgotten watering changed water too. The tiny seedling against the big plant changed plant size. Methi against moong changed the kind of seed. Morning against night changed the time of measuring. The bigger pot changed pot size. The one seed in the sun and one in the shade used only one seed each, so the result could be a fluke. The music test changed light and warmth. The fridge water changed water temperature. The box without a lid changed light and the lid as well as warmth. The one-seed test is a good one to argue about. Only one seed is not exactly unfair, but it cannot be trusted."
     },
     {
      "id": "s4",
@@ -978,7 +978,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Lakshmi keeps a cup of moong seedlings under an upside-down cardboard box for a week. She waters them just like her other cup. What will they look like when she lifts the box?",
+     "p": "A girl keeps a cup of moong seedlings under an upside-down cardboard box for a week. She waters them just like her other cup. What will they look like when she lifts the box?",
      "opts": [
       "Short and dark green",
       "Tall, thin and pale yellow, with small folded leaves",
@@ -1122,7 +1122,7 @@
     },
     {
      "t": "mcq",
-     "p": "Nandini keeps one bowl of moong sprouts in the fridge and one in a kitchen cupboard. Both are covered with plates. After 3 days, which sprouts will have grown more?",
+     "p": "A girl keeps one bowl of moong sprouts in the fridge and one in a kitchen cupboard. Both are covered with plates. After 3 days, which sprouts will have grown more?",
      "opts": [
       "The fridge sprouts",
       "Both the same",
@@ -1153,7 +1153,7 @@
     },
     {
      "t": "perspective",
-     "p": "It is May in Chennai. Lakshmi, her grandmother and her mother disagree about how to water the tulsi plant on their sunny balcony.",
+     "p": "It is May in Chennai. Lakshmi, a girl of 8, her grandmother and her mother disagree about how to water the tulsi plant on their sunny balcony.",
      "views": [
       {
        "who": "Paati, the grandmother",
@@ -1175,7 +1175,7 @@
     },
     {
      "t": "mcq",
-     "p": "Farida measures her moong seedling from the rim of the cup, not from the soil. What goes wrong?",
+     "p": "A girl measures her moong seedling from the rim of the cup, not from the soil. What goes wrong?",
      "opts": [
       "Her numbers are too big",
       "Her numbers are too small, because she misses the part of the stem inside the cup",
@@ -1196,7 +1196,7 @@
     },
     {
      "t": "mcq",
-     "p": "Revathi grows one cup of moong in the light and one cup in the dark. Her teacher says she should grow 3 cups of each. Why?",
+     "p": "A girl grows one cup of moong in the light and one cup in the dark. Her teacher says she should grow 3 cups of each. Why?",
      "opts": [
       "One cup can be a fluke, for example if the seeds in it were bad",
       "Three cups are easier to water",
@@ -1236,7 +1236,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Kavya wants to test if plants need light. Which test is fair?",
+     "p": "You want to test if plants need light. Which test is fair?",
      "opts": [
       "One pot in the sun with water, and one pot in a cupboard with no water",
       "A big plant in the sun and a tiny plant in the cupboard",
@@ -1258,7 +1258,7 @@
     },
     {
      "t": "mcq",
-     "p": "Selvan waters his cactus every day, like his other plants. After a few weeks, the cactus stem goes soft and black at the bottom. What happened?",
+     "p": "A boy waters his cactus every day, like his other plants. After a few weeks, the cactus stem goes soft and black at the bottom. What happened?",
      "opts": [
       "The roots rotted from too much water, because a cactus needs very little",
       "The cactus got too little water",
@@ -1285,7 +1285,7 @@
     },
     {
      "t": "mcq",
-     "p": "Usha says: 'My plant grows well because I talk to them every day.' What is the best question to ask her?",
+     "p": "Usha, a girl in Class 4, says: 'My plant grows well because I talk to them every day.' What is the best question to ask her?",
      "opts": [
       "What do you say to your plant?",
       "Is it a big plant?",
@@ -1332,7 +1332,7 @@
     },
     {
      "t": "mcq",
-     "p": "Karthik measured his three cups in the light: 8 cm, 9 cm and 8 cm. What is the middle value?",
+     "p": "You measured your three cups in the light: 8 cm, 9 cm and 8 cm. What is the middle value?",
      "opts": [
       "9 cm",
       "8 cm",
@@ -1448,7 +1448,7 @@
     },
     {
      "t": "write",
-     "p": "Kalai goes away for 10 days in May. She stands her tulsi pot in a bucket full of water, so the soil will not dry out. Predict what she finds when she comes back. What would work better?",
+     "p": "A girl goes away for 10 days in May. She stands her tulsi pot in a bucket full of water, so the soil will not dry out. Predict what she finds when she comes back. What would work better?",
      "lines": 4,
      "a": "The soil will be soaked for 10 days, so the roots get no air. The tulsi will probably have yellow leaves and rotting roots, like the SOAKED cups. A better idea is a slow drip: a bottle with a tiny hole in the cap, upside down in the soil, or a wet cotton string from a jar of water into the pot.",
      "why": "A strong answer uses the water test to predict, and gives a way to give a little water at a time.",
@@ -1513,7 +1513,7 @@
     },
     {
      "t": "mcq",
-     "p": "Deepa's plant stands in a dark corner. She gives the plant extra fertiliser, but they grow no better. What does this show?",
+     "p": "A plant stands in a dark corner. A girl gives the plant extra fertiliser, but they grow no better. What does this show?",
      "opts": [
       "Light was the need in shortest supply, so more minerals could not help",
       "Fertiliser never works",
@@ -1614,7 +1614,7 @@
     },
     {
      "t": "write",
-     "p": "Ishita says: 'If a little fertiliser is good for my plant, a lot must be even better.' What would you tell her? How could she test her idea fairly?",
+     "p": "Ishita, a girl in Class 4, says: 'If a little fertiliser is good for my plant, a lot must be even better.' What would you tell her? How could she test her idea fairly?",
      "lines": 4,
      "a": "More is not always better. Too much fertiliser makes the soil salty, and that can damage roots. To test it, she could grow 3 cups with no fertiliser, 3 with a little and 3 with a lot. Everything else stays the same: seeds, soil, light and water. Then she measures and compares after two weeks.",
      "why": "A strong answer challenges the 'more is better' idea and plans a test with three amounts, like the water test."
@@ -1645,7 +1645,7 @@
     },
     {
      "t": "write",
-     "p": "Sumathi's fern on a sunny terrace has brown, crispy edges. Her cactus in a dark bathroom is pale and leaning. What is wrong with each plant? What would you do?",
+     "p": "A fern on a sunny terrace has brown, crispy edges. A cactus in a dark bathroom is pale and leaning. What is wrong with each plant? What would you do?",
      "lines": 4,
      "a": "The fern is getting too much sun and heat. Move the fern to a shady, cooler place and keep their soil damp. The cactus is getting too little light. Move the cactus to a sunny window, and water them only a little.",
      "why": "Each kind of plant has their own just right. The same place can be too much for one plant and too little for another."
@@ -3722,7 +3722,7 @@
   },
   {
    "t": "mcq",
-   "p": "Jaya measures her moong seedlings at 7 in the morning one day, and at 9 at night the next day. Why is it better to measure at the same time every day?",
+   "p": "A girl measures her moong seedlings at 7 in the morning one day, and at 9 at night the next day. Why is it better to measure at the same time every day?",
    "opts": [
     "Plants grow only in the morning",
     "Rulers are easier to read in the morning",
@@ -3792,7 +3792,7 @@
   },
   {
    "t": "mcq",
-   "p": "It is the monsoon in Kochi, with weeks of thick grey cloud. Anu's seedlings on a windowsill get water and warmth, but they grow slowly and lean towards the glass. Which need is in short supply?",
+   "p": "It is the monsoon in Kochi, with weeks of thick grey cloud. Seedlings on a windowsill get water and warmth, but they grow slowly and lean towards the glass. Which need is in short supply?",
    "opts": [
     "Water",
     "Light",
@@ -3804,11 +3804,11 @@
   },
   {
    "t": "mcq",
-   "p": "Anjali's tulsi has lived in the same small pot of soil for three years. She gets good light and the right amount of water. But her new leaves are small and pale. What might help?",
+   "p": "A tulsi has lived in the same small pot of soil for three years. The tulsi gets good light and the right amount of water. But the new leaves are small and pale. What might help?",
    "opts": [
     "Fresh soil or a little compost, because the old soil's minerals are used up",
-    "Moving her to a dark corner",
-    "Watering her twice as much"
+    "Moving the tulsi to a dark corner",
+    "Watering the tulsi twice as much"
    ],
    "a": 0,
    "why": "Each year the roots take minerals out of the soil, and in a small pot nothing puts them back. Pale, small new leaves are a clue that minerals are short. Picking 'twice as much water' would soak the soil and take away the roots' air.",

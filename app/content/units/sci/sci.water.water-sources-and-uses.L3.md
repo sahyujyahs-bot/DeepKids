@@ -706,7 +706,7 @@ Today, on that same street in London, there is a copy of the old pump. It has no
 10. (mcq) Which way kills germs in water?  
    Options: Leaving it to settle / Pouring it through a cloth / Boiling it until big bubbles roll / Putting it in a steel tumbler  
    **Answer:** Boiling it until big bubbles roll. *Why:* Boiling kills germs. Settling and a cloth remove bits you can see, but germs are far too small to be caught that way. Most slip right through the cloth.
-11. (fill) A bucket holds about 15 litres. Kavitha uses 2 full buckets of water for her bath. She uses ____ litres.  
+11. (fill) A bucket holds about 15 litres. A girl uses 2 full buckets of water for her bath. She uses ____ litres.  
    **Answer:** ['30', 'thirty']. *Why:* 2 lots of 15 litres is 15 + 15 = 30 litres. A litre is a unit for how much liquid something holds. A big water bottle often holds 1 litre.
 12. (mcq) In most homes, which job uses the least water each day?  
    Options: Bathing / Flushing the toilet / Drinking / Washing clothes  
@@ -752,7 +752,7 @@ Today, on that same street in London, there is a copy of the old pump. It has no
    **Answer:** Bathing. *Why:* Bathing has the tallest bar, at 150 litres. The toilet is second, at 120 litres. Picking drinking means guessing from what we think matters most, not reading the chart.
 13. (perspective) In a village near Kolar, in Karnataka, the wells are drying up. Three people disagree about what to do.  
    **Answer:** A strong answer picks a side and uses the jar well as evidence: pumping lowered the water for the whole jar, not just near the straw. It answers back fairly from another side, for example Selvi: a limit must still let farmers earn a living.. *Why:* This is a real problem in many parts of India. Groundwater is shared, but each farmer needs it. There is no single right answer, so listen for evidence and fairness.
-14. (write) Arjun's family boils their drinking water every morning. Then they keep it in an open bucket on the floor and dip a tumbler in to drink. By evening, is the water still safe? What would you tell him to change?  
+14. (write) A family boils their drinking water every morning. Then they keep it in an open bucket on the floor and dip a tumbler in to drink. By evening, is the water still safe? What would you tell them to change?  
    **Answer:** It may not be safe any more. Germs can get back in from dust, flies, and hands or tumblers dipped into the bucket. Keep the boiled water covered, up off the floor, and pour it out with a ladle or a tap instead of dipping in.. *Why:* A strong answer sees that boiling only kills the germs that are there at that moment. Germs can come back in, so clean water must also be stored safely.
 15. (write) In the Invisible Ring, even the tap water left a faint ring on the dark plate. Does that mean the tap water is unsafe? Explain.  
    **Answer:** Not by itself. The ring shows that the tap water has some dissolved minerals, such as calcium. Small amounts of these are normal and harmless. The ring tells you something is dissolved, but not what it is or whether it is harmful. Only a proper test can tell that.. *Why:* A strong answer separates 'something is dissolved' from 'something harmful is dissolved'. Almost all water has some minerals in it.
@@ -831,10 +831,10 @@ Today, on that same street in London, there is a copy of the old pump. It has no
 9. (mcq) Why does muddy water come out clearer after it trickles through a thick layer of sand?  
    Options: The bits of mud get stuck in the tiny gaps between the sand grains, and the water slips through / The sand turns the mud into water / The sand kills all the germs  
    **Answer:** The bits of mud get stuck in the tiny gaps between the sand grains, and the water slips through. *Why:* Sand grains have tiny gaps between them, like the ground that holds groundwater. Water fits through, but most bits of mud do not. A sand filter does not kill germs, so the water must still be boiled or purified.
-10. (mcq) Meenakshi counted her family's water on a Sunday, when everyone was home and all the clothes were washed. Why might one Sunday not show how much they usually use?  
+10. (mcq) A girl counted her family's water on a Sunday, when everyone was home and all the clothes were washed. Why might one Sunday not show how much they usually use?  
    Options: Different days use different amounts, so it is better to count on a few days / Water is heavier on Sundays / Tally marks only work on school days  
    **Answer:** Different days use different amounts, so it is better to count on a few days. *Why:* One day can be unusual. Counting on a few different days and comparing gives a fairer picture of what a family usually uses.
-11. (mcq) A shower uses about 10 litres of water each minute. Kavya's shower takes 8 minutes. A bucket bath uses one 15-litre bucket. How much water does the bucket bath save?  
+11. (mcq) A shower uses about 10 litres of water each minute. A girl's shower takes 8 minutes. A bucket bath uses one 15-litre bucket. How much water does the bucket bath save?  
    Options: 65 litres / 80 litres / 7 litres  
    **Answer:** 65 litres. *Why:* The shower uses 8 × 10 = 80 litres. The bucket uses 15 litres. 80 − 15 = 65 litres saved. Picking 80 means forgetting that the bucket bath uses some water too.
 12. (mcq) Why do wells and borewells in many parts of India go dry?  

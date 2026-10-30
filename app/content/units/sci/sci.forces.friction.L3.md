@@ -353,7 +353,7 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Now say or write three things. What do I think? What did I see? Why did it happen?
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: lots of pages laid together are almost impossible to pull apart. What I saw: with 10 pages they pulled apart easily, but with all the pages I couldn't do it. Why: every page adds a little friction, and pulling squeezes them tighter.
-### e3 · Pour the Water Like Hapu (30 min)
+### e3 · Pour the Water on the Sand (30 min)
 - **question:** Does wet sand make a sledge easier to pull? How much water is best?
 - **predict:** Guess first. Will dry sand, damp sand or soaked sand be easiest to pull a loaded box across? Why do you think so?
 - **fair test:** Keep everything the same except the sand. Use the same box, with the same load inside, and pull it the same distance. Measure the pull with a forcemeter. If you have no forcemeter, tie a rubber band to the string and measure how far it stretches with a ruler.
@@ -371,13 +371,13 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
   - Ask: What did the sand do in front of the box? (good: It piled up in front.; It made a little hill.)
 - **s3 (7 min) · grown-up needed**  
   *Parent does:* 1. Sprinkle water on the sand, one spoon at a time. Mix it in well after each spoon, so all the sand gets damp. 2. Stop when all the sand has just turned darker, but is not wet or muddy. Smooth the top. 3. Pull the box again and read the forcemeter.  
-  *Parent says:* Now we'll pour like Hapu, the water-pourer in our story. Just enough to darken the sand, but not enough to make mud.  
-  *Child mode:* Now be Hapu, the water-pourer! Sprinkle one spoon of water at a time. Stop when the sand turns darker. Not muddy! Pull again. Is it easier?
+  *Parent says:* Now we'll pour like the water-pourer in our story. Just enough to darken the sand, but not enough to make mud.  
+  *Child mode:* Now be the water-pourer! Sprinkle one spoon of water at a time. Stop when the sand turns darker. Not muddy! Pull again. Is it easier?
   - Note: If you see little difference between dry and damp sand, put a heavier load in the box and pull more slowly. Damp sand should feel firm, like sand for building a sandcastle.
 - **s4 (6 min)**  
   *Parent does:* 1. Pour in lots more water, until the sand is soaked and muddy. 2. Pull the box again and read the forcemeter.  
-  *Parent says:* Now let's do what Mery, Hapu's daughter in the story, did on her first try. She poured far too much water.  
-  *Child mode:* Now pour lots of water, like Mery in the story. She poured too much at first! Pull again. What happens?
+  *Parent says:* Now let's do what the water-pourer's daughter in the story did on her first try. She poured far too much water.  
+  *Child mode:* Now pour lots of water, like the girl in the story. She poured too much at first! Pull again. What happens?
   - Check: Which sand was easiest to pull the box across? → **Just-damp sand**
 - **s5 (3 min)**  
   *Parent does:* Put the three results side by side and compare them.  
@@ -617,7 +617,7 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 16. (perspective) Lakshmi's family in Madurai is choosing new tiles for the kitchen floor. They do not agree.  
    **Answer:** A strong answer picks a tile and explains it with friction: rough tiles give more friction, so feet grip even when the floor is wet. Smooth tiles give less friction, so they are slippery but easy to clean. It answers back fairly, and may suggest a middle way, such as rough tiles near the sink or a rubber mat.. *Why:* Both are right about something. Less friction makes cleaning easy, and more friction keeps people safe. Real homes weigh this up, often with a mat where the floor gets wet.
 ### Friction in the Real World (stretch) (stretch, 16 questions)
-1. (mcq) Meenakshi pulls a box of books across the floor with a forcemeter. The full box needs 8 newtons. The half-empty box needs 4 newtons. Look at the pictures. Why does the full box need more pull?  
+1. (mcq) A girl pulls a box of books across the floor with a forcemeter. The full box needs 8 newtons. The half-empty box needs 4 newtons. Look at the pictures. Why does the full box need more pull?  
    Options: The full box presses down harder, so there is more friction / The half-empty box is smoother underneath / The full box is bigger, so more of it touches the floor / The floor changed  
    **Answer:** The full box presses down harder, so there is more friction. *Why:* The full box is heavier, so it presses on the floor harder. Pressing harder gives more friction. 8 newtons is twice 4 newtons. Picking 'more of it touches' is a very common idea. But it is the same box, with the same bottom on the floor. Only how hard it presses has changed.
 2. (mcq) In the slope test, a shoe started to slide when the raised end of the board was 16 cm high. A sock slid when the end was only 8 cm high. Look at the chart. Which grips better?  

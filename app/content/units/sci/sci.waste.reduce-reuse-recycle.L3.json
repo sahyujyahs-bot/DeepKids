@@ -879,7 +879,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Kavya's family buys a new plastic bottle of water every day. Her mother says, \"That is fine, because we give the bottles for recycling.\" Kavya thinks they should fill a steel bottle at home instead. Explain why Kavya's plan is better. Use the word energy or materials.",
+     "p": "Kavya, a girl in Class 4, and her family buy a new plastic bottle of water every day. Her mother says, \"That is fine, because we give the bottles for recycling.\" Kavya thinks they should fill a steel bottle at home instead. Explain why Kavya's plan is better. Use the word energy or materials.",
      "lines": 4,
      "a": "Kavya's plan means no new bottle is made at all, so no plastic, oil or energy is used to make one. Recycling still needs trucks, washing, shredding and melting, which all use energy. And many bottles never reach a factory. A steel bottle can be used for years.",
      "why": "A strong answer says that reducing stops the waste being made, while recycling still uses energy and materials. That is why reduce comes first."
@@ -950,7 +950,7 @@
     },
     {
      "t": "mcq",
-     "p": "Before the rot jar test, Divya makes a prediction. Which thing should she expect to look most changed after two weeks?",
+     "p": "Before the rot jar test, A girl makes a prediction. Which thing should she expect to look most changed after two weeks?",
      "opts": [
       "The banana peel",
       "The newspaper",
@@ -976,7 +976,7 @@
     },
     {
      "t": "mcq",
-     "p": "Pooja says, \"Plastic does not rot because it is buried too deep for the microbes to reach.\" What is wrong with her idea?",
+     "p": "Pooja, a girl in Class 4, says, \"Plastic does not rot because it is buried too deep for the microbes to reach.\" What is wrong with her idea?",
      "opts": [
       "Plastic lying on top of the soil does not rot either. The real reason is that almost no microbe has an enzyme that fits plastic",
       "Nothing. Pooja is right",
@@ -1041,7 +1041,7 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi's family is deciding what to do with their old newspapers.",
+     "p": "Lakshmi, a girl aged 9, and her family are deciding what to do with their old newspapers.",
      "views": [
       {
        "who": "Lakshmi, aged 9",
@@ -1063,7 +1063,7 @@
     },
     {
      "t": "mcq",
-     "p": "Meena has a bundle of old newspapers, an empty oil tin, a broken plastic bucket and a bag of vegetable peels. Which ONE will the kabadiwala not buy?",
+     "p": "A woman has a bundle of old newspapers, an empty oil tin, a broken plastic bucket and a bag of vegetable peels. Which ONE will the kabadiwala not buy?",
      "opts": [
       "The vegetable peels",
       "The newspapers",
@@ -1089,7 +1089,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "In the rot jar test, Anu puts the peel jar on a sunny windowsill and the milk-packet jar in a cool cupboard. Why is this not a fair test?",
+     "p": "In the rot jar test, A girl puts the peel jar on a sunny windowsill and the milk-packet jar in a cool cupboard. Why is this not a fair test?",
      "opts": [
       "She changed two things at once, the material and the place, so she cannot tell which one made the difference",
       "The jars are not the same colour",
@@ -1183,7 +1183,7 @@
     },
     {
      "t": "write",
-     "p": "Sangeetha's building puts peels, paper and plastic all together in one bag. Why does most of it end up in the dump, even the paper that could have been recycled?",
+     "p": "One building puts peels, paper and plastic all together in one bag. Why does most of it end up in the dump, even the paper that could have been recycled?",
      "lines": 3,
      "a": "Once wet peels are mixed in, the paper gets soggy and dirty, and a paper mill cannot use it. Sorting a smelly mixed bag by hand is slow and unpleasant, so most mixed waste is simply dumped. If the building kept wet and dry waste apart, the paper would stay clean and could be sold.",
      "why": "A strong answer explains that mixing spoils the dry waste and makes sorting hard, so sorting at home is what makes recycling possible."
@@ -1414,7 +1414,7 @@
     },
     {
      "t": "write",
-     "p": "Kamla asked the officer, 'Cleared away where?' Explain the science behind her question.",
+     "p": "In the story, Kamla asked the officer, 'Cleared away where?' Explain the science behind her question.",
      "lines": 4,
      "a": "Glass and tile don't rot, because no microbes can eat them, and their atoms are never destroyed. So taking them away would only move them to the dump, where they would stay for hundreds of years. In the garden, the same pieces were useful and beautiful.",
      "why": "Her question works because there is no away. Things only move or change form.",
@@ -1480,7 +1480,7 @@
     },
     {
      "t": "mcq",
-     "p": "Fathima's family in Kochi puts all their peels into a compost pot. After three months, the compost weighs much less than all the peels that went in. Atoms are never destroyed, so where did the missing weight go?",
+     "p": "A family in Kochi puts all their peels into a compost pot. After three months, the compost weighs much less than all the peels that went in. Atoms are never destroyed, so where did the missing weight go?",
      "opts": [
       "Into the air, as carbon dioxide gas and water vapour given off by the microbes as they fed",
       "It disappeared",
@@ -2937,7 +2937,7 @@
   },
   {
    "t": "mcq",
-   "p": "Nandini bakes a tray of damp soil in a hot oven, so that every microbe in the soil dies. When it cools, she buries a banana peel in it and seals the jar. What will happen to the peel?",
+   "p": "A girl bakes a tray of damp soil in a hot oven, so that every microbe in the soil dies. When it cools, she buries a banana peel in it and seals the jar. What will happen to the peel?",
    "opts": [
     "It will hardly rot, because there are no microbes to feed on it",
     "It will rot faster, because the soil is warm",

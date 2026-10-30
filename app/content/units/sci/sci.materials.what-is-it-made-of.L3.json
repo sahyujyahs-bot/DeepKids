@@ -2503,7 +2503,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Revathi drops an old brown clay flower pot and it breaks into small pieces. What are the pieces made of?",
+     "p": "An old brown clay flower pot is dropped and breaks into small pieces. What are the pieces made of?",
      "opts": [
       "Baked clay",
       "Flower pot",
@@ -2584,7 +2584,7 @@
     },
     {
      "t": "mcq",
-     "p": "Divya says, 'A wooden table is natural, because wood is natural.' What has she forgotten?",
+     "p": "A girl says, 'A wooden table is natural, because wood is natural.' What has she forgotten?",
      "opts": [
       "A carpenter cut and joined the wood, so the table was made by people",
       "Wood is not really natural",
@@ -2640,7 +2640,7 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya puts a plate of sea water and a plate of rainwater in the sun. What will be left on each plate when it is dry?",
+     "p": "A plate of sea water and a plate of rainwater are put in the sun. What will be left on each plate when it is dry?",
      "opts": [
       "Salt on the sea water plate, and almost nothing on the rainwater plate",
       "Salt on both plates",
@@ -2763,7 +2763,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the paper experiment, Arjun mixed dried grass into one sheet. That sheet was rougher and tore more easily. How can he be sure the grass caused this?",
+     "p": "In the paper experiment, a boy mixed dried grass into one sheet. That sheet was rougher and tore more easily. How can he be sure the grass caused this?",
      "opts": [
       "Use the same amount of pulp, press and dry both sheets the same way, and change only the grass",
       "Make the grass sheet bigger",
@@ -2777,7 +2777,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi heats two cups of the same milk. She adds 1 teaspoon of vinegar to one and 4 teaspoons to the other. What will she probably see?",
+     "p": "A girl heats two cups of the same milk. She adds 1 teaspoon of vinegar to one and 4 teaspoons to the other. What will she probably see?",
      "opts": [
       "More lumps in the cup with 4 teaspoons",
       "More lumps in the cup with 1 teaspoon",
@@ -3103,7 +3103,7 @@
     },
     {
      "t": "mcq",
-     "p": "Divya says, 'Natural things are always safe, and things made by people are always harmful.' Which pair shows she is wrong both ways?",
+     "p": "A girl says, 'Natural things are always safe, and things made by people are always harmful.' Which pair shows she is wrong both ways?",
      "opts": [
       "Snake venom is natural and harmful. A steel spoon is made by people and safe.",
       "Honey is natural and safe. Plastic waste is made by people and harmful.",
@@ -3194,7 +3194,7 @@
   },
   {
    "t": "mcq",
-   "p": "Ammu traces her woollen shawl back to nature. Which step comes first?",
+   "p": "A girl traces her woollen shawl back to nature. Which step comes first?",
    "opts": [
     "A sheep grows a coat of wool",
     "The wool is spun into yarn",
@@ -3622,7 +3622,7 @@
    "why_maths": "Salt makers need to know how much salt their pans will give. Multiplying the salt in one litre by the number of litres tells them, without waiting for the sun."
   },
   {
-   "problem": "On the Three-Heap Walk, Meenakshi found 7 once-living things, 4 never-living things and 5 things made by people. Draw a bar chart. How many things did she find altogether? How many were natural?",
+   "problem": "On the Three-Heap Walk, a girl found 7 once-living things, 4 never-living things and 5 things made by people. Draw a bar chart. How many things did she find altogether? How many were natural?",
    "answer": "16 things altogether. 11 were natural.",
    "explain": "Altogether: 7 + 4 + 5 = 16. The natural things are the once-living and the never-living ones: 7 + 4 = 11. The bar chart has three bars: 7, 4 and 5 tall.",
    "math_unit": "math.data.bar-charts.L3",
@@ -3630,7 +3630,7 @@
    "how": "a2",
    "answer_chart": {
     "type": "bar",
-    "title": "Meenakshi's three heaps",
+    "title": "Three heaps",
     "x": "Heap",
     "y": "Number of things",
     "data": [

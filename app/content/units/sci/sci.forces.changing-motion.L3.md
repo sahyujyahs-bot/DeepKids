@@ -693,7 +693,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
    **Answer:** Straight on, in the direction it was moving. *Why:* With no string pulling it inwards, nothing turns it any more. So it flies off in a straight line. Picking 'keeps going round' is a very common idea. But going round needs a pull inwards all the time.
 10. (write) Ananya, a girl in Class 4, says, 'A steel table is so hard that pressing it changes nothing at all.' What would you tell her? Describe the evidence from the laser and mirror activity.  
    **Answer:** A strong answer says that every push changes a thing's shape a little, even steel. It describes the evidence: a laser dot bounced off a mirror on the table moves when someone presses the table, so the table must have bent. It says the bend is too small to see with our eyes.. *Why:* Hard things change shape too, only by tiny amounts. The laser makes the tiny bend big enough to see.
-11. (write) Divya drops a clay ball and a rubber ball from the same height onto the floor. Both squash when they land. Only the rubber ball comes back up. Explain why.  
+11. (write) You drop a clay ball and a rubber ball from the same height onto the floor. Both squash when they land. Only the rubber ball comes back up. Explain why.  
    **Answer:** A strong answer says that both balls squash, but the rubber ball is elastic. It springs back into shape, and that pushes on the floor, so the floor pushes it back up. The clay is plastic. It stays squashed, so nothing pushes it up again.. *Why:* A bounce is a squash and a spring back. Without the spring back, there is no bounce.
 12. (order) Put these in order, from EASIEST to change the shape of by hand, to HARDEST: a stone, a rubber eraser, a steel spoon, dough.  
    **Answer:** order shown. *Why:* Dough squashes with a light press. A rubber eraser needs a firm squeeze. A steel spoon needs a strong push to bend. A stone hardly changes at all by hand.
@@ -704,7 +704,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
    **Answer:** left hand pushes right, right hand pushes left, gravity down. *Why:* Each hand pushes inwards, towards the dough. Two pushes towards each other make a squash. Gravity also pulls the dough down.
 15. (draw) Design a sandal sole that can bend when you walk but never snaps. Label which parts squash and which parts stretch when it bends.  
    **Answer:** Any thoughtful design. The top of the bend is squashed and the bottom is stretched, or the other way round when it bends the other way. Soft rubber, or grooves across the sole, help it bend.. *Why:* A bend squashes one side and stretches the other.
-16. (perspective) Selvi in Madurai must post a glass bottle of homemade pickle to her aunt in Pune. Her friends each suggest a way to pack it.  
+16. (perspective) A girl in Madurai must post a glass bottle of homemade pickle to her aunt in Pune. Her friends each suggest a way to pack it.  
    **Answer:** A strong answer picks a way and explains it with shape changes. Squashing material makes a bump stop more slowly, so the push on the glass is smaller. It answers back fairly, for example that a stiff box stops sharp corners poking in, or that newspaper works only once because it stays squashed. The best answers may mix two ways.. *Why:* Each way is used for real. Stiff boxes spread out a push, bubble wrap springs back for many bumps, and crumpled paper is cheap but works only once. This is the same thinking as the Save the Egg challenge.
 ### From Atoms to Mountains (challenge) (challenge, 16 questions)
 1. (mcq) Deep down, why does a steel ruler spring back after a small bend?  
@@ -752,7 +752,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 - **How the Himalayas were made** (The Infinite Madness, 5 min) id `QLmiNnbETqE`: Shows the Indian plate pushing into Asia and folding rock into mountains. *Check:* Found by YouTube search: "The Birth of the Himalayas: A Geological Journey | How the Himalayas formed  #continentaldrift #vfx" by The Infinite Madness. Title checked automatically; a parent may still preview it. It uses computer animation, so a parent should check it shows the Indian plate moving north into Asia.
 
 ## Quiz
-1. (mcq) Meena bends a bamboo stick into a bow for a game. Which shape change is this?  
+1. (mcq) A girl bends a bamboo stick into a bow for a game. Which shape change is this?  
    Options: A bend / A squash / A twist  
    **Answer:** A bend. *Why:* The stick curves, so it is a bend. Picking 'squash' is close, because the inside of a bend is squashed. But the whole stick is bending.
 2. (mcq) Which of these is a stretch?  
@@ -767,7 +767,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 5. (mcq) In the clay drop test, what should you change?  
    Options: Only the drop height / The height and the size of the ball / Everything  
    **Answer:** Only the drop height. *Why:* A fair test changes only one thing. Picking 'height and size' means two things change at once, so you can't tell which one mattered.
-6. (mcq) In her clay drop test, Divya's 40 cm patch came out wider than her 80 cm patch. What is the best thing to do next?  
+6. (mcq) In your clay drop test, the 40 cm patch came out wider than the 80 cm patch. What is the best thing to do next?  
    Options: Repeat each drop three times and compare / Cross out the 80 cm result / Decide that height makes no difference  
    **Answer:** Repeat each drop three times and compare. *Why:* One odd result can be a fluke, for example a ball that was a little bigger. Repeating each drop shows the real pattern. Picking 'cross it out' hides a result you don't like, which is not fair science.
 7. (mcq) When you bend your finger, what happens to the skin on the back of your knuckle?  

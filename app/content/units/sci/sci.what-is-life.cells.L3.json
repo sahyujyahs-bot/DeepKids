@@ -2135,7 +2135,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Asha set three bowls of warm milk overnight. Bowl A had a spoon of curd. Bowl B had nothing added. Bowl C had a spoon of curd that was boiled first. Only bowl A set. What is the best explanation?",
+     "p": "Asha, a girl in Class 3, set three bowls of warm milk overnight. Bowl A had a spoon of curd. Bowl B had nothing added. Bowl C had a spoon of curd that was boiled first. Only bowl A set. What is the best explanation?",
      "opts": [
       "Curd is heavy, so it makes milk thick",
       "Living bacteria in the curd split again and again, and only bowl A had living bacteria",
@@ -2862,7 +2862,7 @@
  ],
  "maths": [
   {
-   "problem": "In a phone photo of onion skin, Meera counted 10 cells side by side across 1 millimetre. How many cells would fit side by side across 1 centimetre? Remember, 1 centimetre is 10 millimetres.",
+   "problem": "In a phone photo of onion skin, Meera, a girl in Class 4, counted 10 cells side by side across 1 millimetre. How many cells would fit side by side across 1 centimetre? Remember, 1 centimetre is 10 millimetres.",
    "answer": "100 cells.",
    "explain": "10 cells fit across 1 millimetre. 1 centimetre is 10 millimetres. So it is 10 groups of 10 cells. 10 times 10 is 100. So about 100 onion cells fit across 1 centimetre.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -2898,7 +2898,7 @@
    "why_maths": "A number like 30 trillion is too big to picture. Turning it into time helps us feel how many cells we are made of."
   },
   {
-   "problem": "In the Run and Tumble game, Farhan took 12 runs to find the lemon. Each run was 3 steps. How many steps did Farhan walk in all?",
+   "problem": "In the Run and Tumble game, Farhan, a boy in Class 3, took 12 runs to find the lemon. Each run was 3 steps. How many steps did Farhan walk in all?",
    "answer": "36 steps.",
    "explain": "Farhan took 12 runs of 3 steps each. 12 times 3 is 36. So Farhan walked 36 steps, even though the lemon was much closer in a straight line. That is how a bacterium moves: lots of small tries.",
    "math_unit": "math.multiplication.multiplication-facts.L3",

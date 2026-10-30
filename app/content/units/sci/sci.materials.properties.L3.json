@@ -986,7 +986,7 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya leaves a steel spoon and a wooden spoon standing in a pot of hot rasam. After two minutes she touches the top of each handle. What will she feel?",
+     "p": "A girl leaves a steel spoon and a wooden spoon standing in a pot of hot rasam. After two minutes she touches the top of each handle. What will she feel?",
      "opts": [
       "The steel handle is hot, the wooden one is only warm",
       "Both are equally hot",
@@ -1018,7 +1018,7 @@
     },
     {
      "t": "mcq",
-     "p": "Divya says, 'My pencil is made of wood. So wood is one of its properties.' What is her mistake?",
+     "p": "Divya, a girl in Class 3, says, 'My pencil is made of wood. So wood is one of its properties.' What is her mistake?",
      "opts": [
       "Wood is the material. A property would be a word like light or easy to sharpen",
       "There is no mistake",
@@ -1037,7 +1037,7 @@
     },
     {
      "t": "perspective",
-     "p": "Lakshmi needs a new water bottle for school. Three people in her family give advice.",
+     "p": "Lakshmi, a girl in Class 3, needs a new water bottle for school. Three people in her family give advice.",
      "views": [
       {
        "who": "Lakshmi, in Class 3",
@@ -1059,7 +1059,7 @@
     },
     {
      "t": "mcq",
-     "p": "Revathi pushes three strips over the edge of a table, the same length each: a steel ruler, a plastic ruler and a strip of cotton cloth. Which tip will droop the most?",
+     "p": "You push three strips over the edge of a table, the same length each: a steel ruler, a plastic ruler and a strip of cotton cloth. Which tip will droop the most?",
      "opts": [
       "The cloth",
       "The steel ruler",
@@ -1094,7 +1094,7 @@
     },
     {
      "t": "mcq",
-     "p": "Rani wants a cover for her notebook that will not be spoiled when she walks home in the rain. Which property matters most?",
+     "p": "A girl wants a cover for her notebook that will not be spoiled when she walks home in the rain. Which property matters most?",
      "opts": [
       "Waterproof",
       "Absorbent",
@@ -1139,7 +1139,7 @@
     },
     {
      "t": "write",
-     "p": "Malini rolls a sheet of kitchen foil into a tight ball and drops it into a bucket of water. It sinks. Then she flattens the same foil into a little boat. What do you predict will happen, and why?",
+     "p": "A girl rolls a sheet of kitchen foil into a tight ball and drops it into a bucket of water. It sinks. Then she flattens the same foil into a little boat. What do you predict will happen, and why?",
      "lines": 4,
      "a": "The boat floats. A strong answer says the material is the same, but the shape has changed. The boat is hollow and full of air, so all together it is less tightly packed than the water it pushes aside. The ball is solid foil, which is more tightly packed than water.",
      "why": "Sinking and floating depend on the object's shape as well as its material. This is why a steel ship floats."
@@ -1328,7 +1328,7 @@
     },
     {
      "t": "mcq",
-     "p": "Nisha tests a dry newspaper strip at noon and a damp cotton thread at dawn. The thread holds more. She says, 'Damp makes things stronger.' What is wrong with her test?",
+     "p": "Nisha, a girl in Class 4, tests a dry newspaper strip at noon and a damp cotton thread at dawn. The thread holds more. She says, 'Damp makes things stronger.' What is wrong with her test?",
      "opts": [
       "She changed two things at once: the material and the dampness",
       "Nothing, it is a fair test",
@@ -1545,7 +1545,7 @@
     },
     {
      "t": "mcq",
-     "p": "Ishaan says, 'Rubber is a good material and glass is a bad one.' Which reply is best?",
+     "p": "A classmate says, 'Rubber is a good material and glass is a bad one.' Which reply is best?",
      "opts": [
       "Each is good for some jobs: rubber for a tyre, glass for spectacles",
       "He is right, because glass breaks",
@@ -3637,7 +3637,7 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Lakshmi writes four words about her steel tumbler. Which one is NOT a property of steel?",
+   "p": "A girl writes four words about her steel tumbler. Which one is NOT a property of steel?",
    "opts": [
     "Bought in Madurai",
     "Shiny",
@@ -4124,7 +4124,7 @@
    "why_maths": "Saying 'less than a quarter as strong' tells us how much water changed the paper. Finding a quarter is the maths that turns 'weaker' into a number."
   },
   {
-   "problem": "Arjun tested 12 things in the Kitchen Float Lab. 7 floated. How many sank? Of the 7 that floated, 3 were wooden. How many floaters were not wooden?",
+   "problem": "You tested 12 things in the Kitchen Float Lab. 7 floated. How many sank? Of the 7 that floated, 3 were wooden. How many floaters were not wooden?",
    "answer": "5 sank, and 4 floaters were not wooden.",
    "explain": "12 things in all, and 7 floated. 12 take away 7 leaves 5 that sank. Of the 7 floaters, 3 were wooden. 7 take away 3 leaves 4 floaters that were not wooden. You can check: 7 + 5 = 12, and 3 + 4 = 7.",
    "math_unit": "math.data.sorting-and-tallies.L3",

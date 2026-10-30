@@ -672,30 +672,30 @@
      "kind": "cards",
      "title": "24 test cards to cut out",
      "items": [
-      "Kavya tests two cloths. She pours 1 spoon of water on the cotton and 1 spoon on the wool.",
-      "Arjun pours 1 spoon of water on the cotton and 3 spoons on the plastic.",
-      "Meenakshi tests three papers. Each strip is 2 cm wide and 15 cm long.",
-      "Kamala's toilet paper strip is 2 cm wide. Her kitchen towel strip is 4 cm wide.",
-      "Ayesha adds one-rupee coins to every bag, one at a time.",
-      "Keerthi adds one-rupee coins to the first bag and five-rupee coins to the second.",
-      "Sara times every cloth for exactly 1 minute.",
-      "Ishita leaves the cotton for 1 minute and the plastic for 10 minutes.",
-      "Nila hangs every rubber band from the same hook.",
-      "Vidya tests the thin band with 10 coins and the thick band with 20 coins, then says the thick band stretches more.",
-      "Lakshmi dips every paper strip 1 cm into the water.",
-      "Vaishali dips the kitchen towel 1 cm into the water and the newspaper 4 cm.",
-      "Leela tests each paper three times and writes down every try.",
-      "Farhan tests each paper once and keeps only the result he likes best.",
-      "Ammu uses fresh water from the same jug for every cloth.",
-      "Jyothi tests the cotton outside in the hot sun and the wool inside in the shade.",
-      "Priya drops every coin gently into the bag.",
-      "Sunita drops some coins gently and throws some in hard.",
-      "Revathi measures every band with the same ruler, from the bottom of the hook.",
-      "Radha measures one band from the hook and one from the top of the bag.",
-      "FIX IT: Make this fair. A test pours 2 spoons on cotton and 5 spoons on plastic.",
-      "FIX IT: Make this fair. A test uses a dry strip of tissue and a wet strip of kitchen towel.",
-      "FIX IT: Make this fair. A test times the first towel for 1 minute and the second for 5 minutes.",
-      "FIX IT: Make this fair. A test hangs one band from a hook and one from a nail that bends."
+      "1. A girl tests two cloths. She pours 1 spoon of water on the cotton and 1 spoon on the wool.",
+      "2. A boy pours 1 spoon of water on the cotton and 3 spoons on the plastic.",
+      "3. A girl tests three papers. Each strip is 2 cm wide and 15 cm long.",
+      "4. A girl's toilet paper strip is 2 cm wide. Her kitchen towel strip is 4 cm wide.",
+      "5. A girl adds one-rupee coins to every bag, one at a time.",
+      "6. A girl adds one-rupee coins to the first bag and five-rupee coins to the second.",
+      "7. A girl times every cloth for exactly 1 minute.",
+      "8. A girl leaves the cotton for 1 minute and the plastic for 10 minutes.",
+      "9. A girl hangs every rubber band from the same hook.",
+      "10. A girl tests the thin band with 10 coins and the thick band with 20 coins, then says the thick band stretches more.",
+      "11. A girl dips every paper strip 1 cm into the water.",
+      "12. A girl dips the kitchen towel 1 cm into the water and the newspaper 4 cm.",
+      "13. A girl tests each paper three times and writes down every try.",
+      "14. A boy tests each paper once and keeps only the result he likes best.",
+      "15. A girl uses fresh water from the same jug for every cloth.",
+      "16. A girl tests the cotton outside in the hot sun and the wool inside in the shade.",
+      "17. A girl drops every coin gently into the bag.",
+      "18. A girl drops some coins gently and throws some in hard.",
+      "19. A girl measures every band with the same ruler, from the bottom of the hook.",
+      "20. A girl measures one band from the hook and one from the top of the bag.",
+      "21. FIX IT: Make this fair. A test pours 2 spoons on cotton and 5 spoons on plastic.",
+      "22. FIX IT: Make this fair. A test uses a dry strip of tissue and a wet strip of kitchen towel.",
+      "23. FIX IT: Make this fair. A test times the first towel for 1 minute and the second for 5 minutes.",
+      "24. FIX IT: Make this fair. A test hangs one band from a hook and one from a nail that bends."
      ]
     },
     {
@@ -734,9 +734,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Find the card about Arjun, who pours 1 spoon on the cotton and 3 spoons on the plastic. Play it together as a practice round.",
-     "say": "Let's practise. Arjun pours 1 spoon of water on the cotton and 3 spoons on the plastic. More water comes through the plastic. Is his test fair?",
-     "kid": "Practice card. Arjun pours 1 spoon on cotton. He pours 3 spoons on plastic. Is that fair? Tap your answer.",
+     "do": "Find card 2, about a boy who pours 1 spoon on the cotton and 3 spoons on the plastic. Play it together as a practice round.",
+     "say": "Let's practise. A boy pours 1 spoon of water on the cotton and 3 spoons on the plastic. More water comes through the plastic. Is his test fair?",
+     "kid": "Practice card. A boy pours 1 spoon on cotton. He pours 3 spoons on plastic. Is that fair? Tap your answer.",
      "ask": [
       {
        "q": "What else changed, besides the material?",
@@ -748,7 +748,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Arjun poured 1 spoon on the cotton and 3 spoons on the plastic. Is the test fair?",
+      "q": "A boy poured 1 spoon on the cotton and 3 spoons on the plastic. Is the test fair?",
       "options": [
        "Fair, because he tested two materials",
        "Unfair, because the amount of water changed too"
@@ -763,7 +763,7 @@
      "do": "1. Take turns drawing a card and reading it out. 2. The player puts it on FAIR or UNFAIR. 3. For UNFAIR cards, they say what else changed. 4. Give one token for each correct answer.",
      "say": "Read your card. Is it fair? If it isn't, tell us the sneaky thing that changed.",
      "kid": "Take turns. Read your card. FAIR or UNFAIR? If it is unfair, say what else changed. Win a token!",
-     "parent": "Fair cards: Kavya, Meenakshi, Ayesha, Sara, Nila, Lakshmi, Leela, Ammu, Priya and Revathi. The unfair cards, and the sneaky change in each: Arjun, the amount of water. Kamala, the strip width. Keerthi, the kind of coin. Ishita, the time. Vidya, the number of coins. Vaishali, how deep the strip dips. Farhan, one try and picking results. Jyothi, sun and shade. Sunita, how the coins are dropped. Radha, where she measured from. Farhan's card is a good one to talk about. Keeping only the result you like is unfair to the truth."
+     "parent": "Fair cards: 1, 3, 5, 7, 9, 11, 13, 15, 17 and 19. The unfair cards, and the sneaky change in each: Card 2, the amount of water. Card 4, the strip width. Card 6, the kind of coin. Card 8, the time. Card 10, the number of coins. Card 12, how deep the strip dips. Card 14, one try and picking results. Card 16, sun and shade. Card 18, how the coins are dropped. Card 20, where the band was measured from. Card 14 is a good one to talk about. Keeping only the result you like is unfair to the truth."
     },
     {
      "id": "s4",
@@ -788,7 +788,7 @@
      "do": "1. Count the tokens to find the winner. 2. Look at the UNFAIR pile together and sort it by what changed.",
      "say": "Look at the unfair pile. What sneaky changes come up most often? Amounts, times or sizes?",
      "kid": "Count your tokens. Who won? Look at the unfair pile. Which sneaky change came up most?",
-     "think": "Farhan kept only the result he liked. Is that worse than changing the water by mistake? Why?"
+     "think": "On card 14, the boy kept only the result he liked. Is that worse than changing the water by mistake? Why?"
     }
    ],
    "context": "This is a card game about fair tests of materials. Each card describes a test that a child did. Players judge whether only the material changed, or whether something else sneaked in.",
@@ -1104,7 +1104,7 @@
     },
     {
      "t": "write",
-     "p": "Before the strip strength test, Thenmozhi guesses that newspaper will hold more coins than toilet paper, 'because newspaper feels stiffer'. The newspaper does hold more. Does the test show that she was right about the reason? Explain.",
+     "p": "Before the strip strength test, a girl guesses that newspaper will hold more coins than toilet paper, 'because newspaper feels stiffer'. The newspaper does hold more. Does the test show that she was right about the reason? Explain.",
      "lines": 4,
      "a": "A strong answer says the test shows that newspaper held more coins, but not why. Newspaper and toilet paper are different in many ways, such as thickness and how tightly the fibres are pressed, so stiffness is only one possible reason. To check the reason, she would need a new test that changes only stiffness.",
      "why": "A result can agree with a guess and still not prove the reason behind it. A fair test tells you what happened. Finding out why may need another test.",
@@ -1122,7 +1122,7 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya wants to know which cloth makes the best umbrella patch. Her family has different ideas about how to find out.",
+     "p": "Kavya, a girl in Class 3, wants to know which cloth makes the best umbrella patch. Her family has different ideas about how to find out.",
      "views": [
       {
        "who": "Kavya, in Class 3",
@@ -1167,7 +1167,7 @@
     },
     {
      "t": "mcq",
-     "p": "Meera wants to find out which paper makes the strongest strip: toilet paper, newspaper or kitchen towel. What must she keep the same?",
+     "p": "A girl wants to find out which paper makes the strongest strip: toilet paper, newspaper or kitchen towel. What must she keep the same?",
      "opts": [
       "The size of each strip, the kind of coin and the way she adds the coins",
       "The kind of paper",
@@ -1468,7 +1468,7 @@
     },
     {
      "t": "mcq",
-     "p": "Sowmya cuts two strips from the same napkin, both 2 cm wide. One is 10 cm long and one is 20 cm long. What do you predict?",
+     "p": "A girl cuts two strips from the same napkin, both 2 cm wide. One is 10 cm long and one is 20 cm long. What do you predict?",
      "opts": [
       "They hold about the same, but the long one may hold a little less",
       "The long one holds twice as many coins",
@@ -1482,7 +1482,7 @@
     },
     {
      "t": "mcq",
-     "p": "Look at the chart. Facial tissue held 30 coins and the paper napkin held 25. Sneha says, 'Tissue is much stronger.' What would make her more sure?",
+     "p": "Look at the chart. Facial tissue held 30 coins and the paper napkin held 25. Sneha, a girl in Class 3, says, 'Tissue is much stronger.' What would make her more sure?",
      "opts": [
       "Repeat each test three times and see whether the tissue still wins every time",
       "Nothing, 5 coins is a big gap",

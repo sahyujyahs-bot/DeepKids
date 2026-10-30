@@ -657,14 +657,14 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Their seeds ca
 4. (mcq) A potato grows under the ground. Which part of the plant is a potato?  
    Options: A root / An underground stem / A seed / A leaf  
    **Answer:** An underground stem. *Why:* A potato is a fat underground stem. Its 'eyes' are buds that can grow shoots, and only stems have buds. 'Root' is a very natural first guess, because a potato grows underground. But true roots, like radishes, have no eyes.
-5. (write) Farhan says, "Paneer comes from a cow, not from a plant. So paneer has nothing to do with plants." What has he missed?  
+5. (write) Farhan, a boy in Class 3, says, "Paneer comes from a cow, not from a plant. So paneer has nothing to do with plants." What has he missed?  
    **Answer:** He has missed the step before the cow. The cow made the milk from the grass and fodder she ate. Grass is a plant that grew using sunlight. So paneer is plant food that passed through a cow.. *Why:* A strong answer goes one step further back than the animal, to what the animal ate.
 6. (truefalse) A mushroom is a kind of plant.  
    **Answer:** False. *Why:* False. A mushroom is a fungus. Fungi have no green leaves and do not make food from sunlight. They feed on dead wood and leaves. Fungi are a separate kind of living being.
 7. (mcq) In the Milk to Curd test, which katori set into thick curd by morning?  
    Options: Milk with curd added, kept warm / Milk with nothing added, kept warm / Milk with curd added, kept in the fridge  
    **Answer:** Milk with curd added, kept warm. *Why:* The curd bacteria need to be added, and they need warmth to work. If you picked 'nothing added', you may think milk sets by itself. If you picked 'the fridge', remember that cold slows the bacteria down.
-8. (write) Revathi finds mushrooms growing on a damp log in a dark corner of the garden. A tulsi plant kept in a dark cupboard turns pale and weak. Why can the mushrooms grow in the dark when the tulsi cannot?  
+8. (write) A girl finds mushrooms growing on a damp log in a dark corner of the garden. A tulsi plant kept in a dark cupboard turns pale and weak. Why can the mushrooms grow in the dark when the tulsi cannot?  
    **Answer:** The tulsi is a plant and makes her food from air and water using sunlight, so in the dark she cannot make new food. Mushrooms are fungi. They do not make food from light. They feed on the dead wood of the log, so they can grow in the dark.. *Why:* A strong answer says how each one gets food: the plant makes it with light, the fungus takes it from dead things.
 9. (fill) Milk turns into curd because of tiny living beings called ____.  
    **Answer:** ['bacteria', 'microbes']. *Why:* Bacteria from a spoon of old curd feed on the sugar in warm milk. They make an acid that turns the milk thick and sour.

@@ -251,20 +251,20 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
   - Think: Is a switch a gap, or a bridge? Or both?
 ### g2 · Safe or Danger? a quick sorting game (10 min)
 - **rules:** Each player has a green SAFE card and a red DANGER card.; A grown-up reads a situation card aloud. Everyone holds up SAFE or DANGER at the same time.; Each player who is right scores 1 point. Say why, and score 1 more point.; Playing alone, read each card yourself and check the answer in the brackets.; After 16 cards, the most points wins.
-- **Printable cards: 16 situation cards:** Meenakshi tests a steel spoon with an AA cell and a bulb. (Safe); Farhan pushes a hairpin into a wall socket. (Danger); Lakshmi switches on the fan with wet hands after a bath. (Danger); Arjun's mother switches off the socket before pulling out the plug. (Safe); A kite is stuck on a power line, and Ranjani climbs up to get it. (Danger); Kavya tells a grown-up that the iron's wire has cracked plastic. (Safe); Anand pulls the mixer plug out by its wire. (Danger); A baby plays with a button cell from a watch. (Danger); Priya touches both ends of an AA cell with her dry fingers. (Safe); Rahul puts four plugs into one extension board for the heater, the iron, the mixer and the kettle. (Danger); Divya keeps the radio far away from the bath bucket. (Safe); Sanjay opens up an old cell to see what is inside. (Danger); Nila waits for her mother to plug in the phone charger. (Safe); Joseph touches a fallen electric wire on the road after the rain. (Danger); Aisha joins the two ends of a cell with just foil, and it gets hot. (Danger); Vikram stays indoors when there is lightning. (Safe)
+- **Printable cards: 16 situation cards:** A girl tests a steel spoon with an AA cell and a bulb. (Safe); A boy pushes a hairpin into a wall socket. (Danger); A girl switches on the fan with wet hands after a bath. (Danger); A mother switches off the socket before pulling out the plug. (Safe); A kite is stuck on a power line, and a girl climbs up to get it. (Danger); A girl tells a grown-up that the iron's wire has cracked plastic. (Safe); A man pulls the mixer plug out by its wire. (Danger); A baby plays with a button cell from a watch. (Danger); A girl touches both ends of an AA cell with her dry fingers. (Safe); A boy puts four plugs into one extension board for the heater, the iron, the mixer and the kettle. (Danger); A girl keeps the radio far away from the bath bucket. (Safe); A boy opens up an old cell to see what is inside. (Danger); A girl waits for her mother to plug in the phone charger. (Safe); A man touches a fallen electric wire on the road after the rain. (Danger); A girl joins the two ends of a cell with just foil, and it gets hot. (Danger); A woman stays indoors when there is lightning. (Safe)
 - **Printable cards: One green SAFE card and one red DANGER card for each player:** SAFE; DANGER
 - **s1 (2 min)**  
   *Parent does:* Hand out the cards and read the first situation.  
-  *Parent says:* Listen carefully. Then hold up green for safe or red for danger. Meenakshi tests a steel spoon with an AA cell and a bulb.  
+  *Parent says:* Listen carefully. Then hold up green for safe or red for danger. A girl tests a steel spoon with an AA cell and a bulb.  
   *Child mode:* Hold up green for safe. Red for danger. Ready?
 - **s2 (6 min)**  
   *Parent does:* Read the cards one at a time. After each one, ask for the reason.  
   *Parent says:* Why is that dangerous? What could happen?  
   *Child mode:* Safe or danger? Hold up your card. Then say why.
-  - Check: Lakshmi switches on the fan with wet hands after her bath. Safe or danger? → **Danger, because water lets electricity through her skin much more easily**
+  - Check: A girl switches on the fan with wet hands after her bath. Safe or danger? → **Danger, because water lets electricity through her skin much more easily**
 - **s3 (2 min)**  
   *Parent does:* Talk about the AA cell card.  
-  *Parent says:* Priya touched both ends of an AA cell, and that was safe. But a wall socket is never safe. What is the difference?  
+  *Parent says:* A girl touched both ends of an AA cell, and that was safe. But a wall socket is never safe. What is the difference?  
   *Child mode:* An AA cell is safe to touch. A socket is not. Why?
   - Note: An AA cell pushes at 1.5 volts, too weakly to push enough electricity through dry skin for you to notice. A wall socket in India pushes at 230 volts, about 150 times as hard. That is strong enough to push electricity through a body.
 
@@ -485,7 +485,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
   *Child mode:* Make a room in a shoebox. Draw a plan. Where do the bulb, switch and cell go?
 - **s2 (25 min) · grown-up needed**  
   *Parent does:* 1. Make a small hole in the roof and push the bulb holder's wires through. 2. Fix the switch on the outside wall with tape. 3. Join the cell, the switch and the bulb in one loop. 4. Test it, find any gaps and fix them.  
-  *Parent says:* Now we follow the plan. If it doesn't light, we hunt for the gap, the way Kavya did with the torch.  
+  *Parent says:* Now we follow the plan. If it doesn't light, we hunt for the gap, the way Kavya did with the torch in the story.  
   *Child mode:* Fix the bulb in the roof. Put the switch outside. Join the loop. Does it light?
   - Note: Most problems are loose joins. Twist bare wire ends together tightly and wrap them in tape. If the light is dim and your bulb is marked 2.5 V, join a second cell in a row, plus to minus. A 1.5 V bulb may burn out on two cells.
   - Check: Your shoebox light does not come on when you close the switch. What do you check first? → **Follow the loop with your finger and look for a loose join or gap**
@@ -541,7 +541,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
    **Answer:** The fan has a wire going into the wall, so it uses mains electricity. The torch has no wire. It has cells inside, behind a little cap or door. So they get their electricity in different ways.. *Why:* A strong answer names what you can see: a wire and a plug for mains, a cell door for cells.
 3. (write) Grown-ups tell children never to plug in or pull out plugs. Give the reason behind this rule, not just the rule.  
    **Answer:** A wall socket in India is 230 volts. That is a strong enough push to send electricity through a person's body and badly hurt or kill them. Fingers can slip onto the metal pins while a plug is going in or coming out, so grown-ups do it.. *Why:* A strong answer gives the number, 230 volts, and says what can go wrong: fingers touching the metal pins.
-4. (mcq) Divya joins a wire from the top of a cell to the tip of a bulb. She joins a second wire from the bottom of the cell to the tip of the bulb too. The bulb stays dark. What went wrong?  
+4. (mcq) A girl joins a wire from the top of a cell to the tip of a bulb. She joins a second wire from the bottom of the cell to the tip of the bulb too. The bulb stays dark. What went wrong?  
    Options: Both wires touch the same place on the bulb, so the electricity does not go through the bulb / Her wires are too short / The cell is upside down  
    **Answer:** Both wires touch the same place on the bulb, so the electricity does not go through the bulb. *Why:* A bulb has two metal contacts: the tip at the bottom and the metal side. The electricity must go in at one and out at the other, through the thin wire inside the bulb. With both wires on the tip, it never passes through the bulb.
 5. (draw) Draw a cell, a bulb and two wires joined so that the bulb lights. Then draw arrows to show the path of the electricity, all the way round.  
@@ -559,7 +559,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
    **Answer:** ['gap', 'break']. *Why:* When a switch is off, there is a gap and the loop is broken. When it is on, the gap closes and the loop is complete.
 11. (match) Match each word to what it means.  
    **Answer:** Cell → pushes electricity round a circuit; Circuit → a complete loop for electricity; Conductor → a material that lets electricity through; Insulator → a material that stops electricity; Switch → opens and closes a gap in a circuit. *Why:* These five words come up all through the unit. Knowing them makes the rest easier to explain.
-12. (write) Shalini's lamp wire has a crack in the plastic, and shiny copper shows through. Why is this dangerous? What should she do?  
+12. (write) A lamp wire has a crack in the plastic, and shiny copper shows through. Why is this dangerous? What should you do?  
    **Answer:** The copper is a conductor and carries electricity from the wall, at 230 volts. The plastic was the insulator that kept it away from hands. Now a finger could touch the copper and get a shock. She should not touch it, and should tell a grown-up, who switches off and unplugs the lamp.. *Why:* A strong answer says what the copper does, what the plastic was doing, and what to do: don't touch, tell a grown-up.
 13. (mcq) A bulb in a circuit is lit. Where does the electricity go after it has passed through the bulb?  
    Options: It stays inside the bulb and is used up / It carries on along the wire, back to the cell / It leaks out into the air as light  
@@ -569,7 +569,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 15. (write) A doorbell rings only while you press the button. What happens inside the button when you press it, and when you let go?  
    **Answer:** When I press, two metal parts inside touch, so the loop is complete and the bell rings. When I let go, a spring pushes them apart. Now there is a gap of air, the loop is broken, and the bell stops.. *Why:* A strong answer uses the idea of a gap: touching metal closes the loop, a gap of air breaks it.
 ### Inside the Wire (stretch) (stretch, 16 questions)
-1. (mcq) Arjun makes a loop with a wire 2 metres long, as long as a door is tall. She closes the gap. When does the bulb light?  
+1. (mcq) You make a loop with a wire 2 metres long, as long as a door is tall. You close the gap. When does the bulb light?  
    Options: At once / After about a second / After about a minute  
    **Answer:** At once. *Why:* The bulb lights at once. The tiny moving bits called electrons are already in the wire all the way round. The cell pushes them all at the same moment, so none has to travel from the cell to the bulb first.
 2. (write) When you push a cycle pedal, the back wheel turns at once, even though each link of the chain moves slowly. How is a circuit like a cycle chain?  
@@ -579,7 +579,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 4. (mcq) In the two-cell test, you join two cells in a row, both facing the same way, with one bulb. What does the bulb do?  
    Options: It is brighter than with one cell / It is dimmer than with one cell / It is the same as with one cell  
    **Answer:** It is brighter than with one cell. *Why:* Two cells in a row, facing the same way, push together. That is 3 volts instead of 1.5 volts, so more electricity flows and the bulb is brighter.
-5. (mcq) Ishita puts two cells into a torch. One goes in bump first, the other flat end first. The torch stays dark. What is really wrong?  
+5. (mcq) A girl puts two cells into a torch. One goes in bump first, the other flat end first. The torch stays dark. What is really wrong?  
    Options: The two cells push against each other, so their pushes cancel / The torch is broken / One of the cells must be flat  
    **Answer:** The two cells push against each other, so their pushes cancel. *Why:* Each cell pushes one way round the loop. Turned round, the second cell pushes back just as hard, so there is no push at all. Turning it round fixes it. Before blaming the torch, check which way the cells face.
 6. (fill) A wire joined straight from one end of a cell to the other, with nothing else in the loop, is called a ____ circuit.  
@@ -627,10 +627,10 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
    **Answer:** ['the socket', 'one pin of the plug', 'one wire in the cable', 'the heating coil inside the iron', 'the other wire in the cable', 'the other pin, back into the socket']. *Why:* An iron is one big loop, like a torch. The electricity goes out through one pin and wire, through the coil that gets hot, and back through the other wire and pin.
 8. (write) Your friend says, "A cell is like a water tank full of electricity, and the bulb drinks it up." What would you tell her? Use evidence from your experiments.  
    **Answer:** I would tell her the electricity is not drunk up. It goes round the loop and back to the cell. My evidence is that a gap after the bulb puts it out, just like a gap before it. What a cell runs out of is the energy in its chemicals.. *Why:* A strong answer corrects the idea and backs it with a result from the gap test.
-9. (mcq) Before testing anything, Swati touches the two loose wire ends of her circuit tester together, and the bulb lights. Why is this a good first step?  
+9. (mcq) Before testing anything, you touch the two loose wire ends of your circuit tester together, and the bulb lights. Why is this a good first step?  
    Options: It shows the tester works, so a dark bulb later means the thing is an insulator, not that the tester is broken / It charges the cell / It warms up the bulb so it lights faster  
    **Answer:** It shows the tester works, so a dark bulb later means the thing is an insulator, not that the tester is broken. *Why:* A dark bulb could mean two things: the thing is an insulator, or the tester itself has a gap or a flat cell. Checking that the tester lights on its own rules out the second. A good scientist checks the tool before trusting a result.
-10. (mcq) In a steady hand game, the bulb lights when the wand touches the foil path. Sunitha covers the start of the path with tape, so she can rest the wand there. Why does this work?  
+10. (mcq) In a steady hand game, the bulb lights when the wand touches the foil path. You cover the start of the path with tape, so you can rest the wand there. Why does this work?  
    Options: Tape is an insulator, so touching it leaves a gap / Tape makes the cell weaker / Tape is a conductor  
    **Answer:** Tape is an insulator, so touching it leaves a gap. *Why:* The wand and the path are the two sides of a gap. Touching metal to metal closes it. Tape is an insulator, so the gap stays open and the bulb stays dark.
 11. (draw) Design a steady hand game. Draw the foil path, the wand, the cell and the bulb, and mark where the gap is.  
@@ -669,7 +669,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 6. (mcq) Which of these is a conductor?  
    Options: A wooden ice-cream stick / A plastic ruler / A steel spoon / A glass bangle  
    **Answer:** A steel spoon. *Why:* Steel is a metal, and metals are conductors, so the spoon lights the bulb in a circuit tester. Wood, plastic and glass are insulators.
-7. (mcq) Meenakshi tests a paper clip with a pink plastic coat. The bulb does not light. Why?  
+7. (mcq) A girl tests a paper clip with a pink plastic coat. The bulb does not light. Why?  
    Options: Steel is an insulator / The plastic coat is an insulator, so the electricity cannot reach the steel / Pink things never conduct  
    **Answer:** The plastic coat is an insulator, so the electricity cannot reach the steel. *Why:* The steel inside conducts, but the wire ends touch only plastic. Scrape the plastic off each end, and the bulb lights. Colour has nothing to do with it.
 8. (mcq) Why are electric wires made of copper covered in plastic?  
@@ -749,9 +749,9 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 
 ## Connected maths
 - A wall socket in India pushes at 230 volts. An AA cell pushes at 1.5 volts. Two AA cells in a row push at 3 volts. How many AA cells in a row would push as hard as 30 volts? **20 cells.**. Each cell adds 1.5 volts. Two cells make 3 volts. 30 is 10 lots of 3. So 10 lots of 2 cells, which is 20 cells. Check: 20 times 1.5 is 30. (queues `math.multiplication.equal-groups.L3`)
-- In the Conductor Test, Arjun tested 12 things. 5 lit the bulb brightly, 1 lit it very dimly, and the rest did not light it. How many did not light it? What fraction of the things lit the bulb at all? **6 did not light it. Half of the things lit the bulb at all.**. 5 + 1 = 6 lit the bulb. 12 - 6 = 6 did not. 6 out of 12 is the same as 1 out of 2, which is a half. (queues `math.fractions.fractions-of-a-whole.L3`)
+- In the Conductor Test, you tested 12 things. 5 lit the bulb brightly, 1 lit it very dimly, and the rest did not light it. How many did not light it? What fraction of the things lit the bulb at all? **6 did not light it. Half of the things lit the bulb at all.**. 5 + 1 = 6 lit the bulb. 12 - 6 = 6 did not. 6 out of 12 is the same as 1 out of 2, which is a half. (queues `math.fractions.fractions-of-a-whole.L3`)
 - A wall clock uses one AA cell for about 12 months. A TV remote uses two AA cells, and they last about 6 months. How many cells does each use in 2 years? **The clock uses 2 cells. The remote uses 8 cells.**. The clock needs 1 cell every 12 months. 2 years is 24 months, so 2 cells. The remote needs 2 cells every 6 months. 24 months is 4 lots of 6, so 4 times 2 is 8 cells. (queues `math.multiplication.equal-groups.L3`)
-- Kavya builds a loop with 4 wires, a bulb and a cell. She can make a gap at any one join. The loop has 6 joins. If she makes a gap at a different join each time, how many times will the bulb go out? **6 times, once for every join.**. A gap anywhere in the loop stops the bulb. There are 6 joins, so all 6 gaps stop it. This is a reasoning problem: the answer comes from knowing the rule, not from counting. (queues `math.logic.puzzles.L3`)
+- You build a loop with 4 wires, a bulb and a cell. You can make a gap at any one join. The loop has 6 joins. If you make a gap at a different join each time, how many times will the bulb go out? **6 times, once for every join.**. A gap anywhere in the loop stops the bulb. There are 6 joins, so all 6 gaps stop it. This is a reasoning problem: the answer comes from knowing the rule, not from counting. (queues `math.logic.puzzles.L3`)
 - Each electron in a wire moves about 1 millimetre in 10 seconds. How long would one electron take to travel round a loop of wire 1 metre long? A metre is 1000 millimetres. **About 10,000 seconds, which is nearly 3 hours.**. 1000 millimetres, at 1 millimetre every 10 seconds, takes 1000 times 10 = 10,000 seconds. An hour is 3600 seconds, so that is nearly 3 hours. Yet the bulb lights at once, because all the electrons start moving together. (queues `math.time.duration.L3`)
 
 ## Song

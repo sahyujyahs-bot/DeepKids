@@ -830,28 +830,28 @@
    "items": [
     {
      "t": "order",
-     "p": "Put these people in order of their life stage, from the earliest stage to the latest: Paati, who is 72. Baby Nila, who is 6 months old. Arjun, who is 15. Kavya, who is 8. Amma, who is 38.",
+     "p": "Put these people in order of their life stage, from the earliest stage to the latest: A grandmother who is 72. A baby who is 6 months old. A boy who is 15. A girl who is 8. A mother who is 38.",
      "items": [
-      "Baby Nila, 6 months: baby",
-      "Kavya, 8: child",
-      "Arjun, 15: teenager",
-      "Amma, 38: adult",
-      "Paati, 72: older adult"
+      "Baby, 6 months: baby",
+      "Girl, 8: child",
+      "Boy, 15: teenager",
+      "Mother, 38: adult",
+      "Grandmother, 72: older adult"
      ],
      "a": "order shown",
      "why": "Every person goes through the same stages in the same order: baby, child, teenager, adult, older adult. Nobody skips one. A strong answer also names the stage of each person."
     },
     {
      "t": "mcq",
-     "p": "Kavya is 8. She thinks children her age grow faster than anyone. A baby grows from about 50 cm to about 75 cm in their first year. An 8-year-old grows about 6 cm in a year. Who grows fastest?",
+     "p": "A girl is 8. She thinks children her age grow faster than anyone. A baby grows from about 50 cm to about 75 cm in their first year. An 8-year-old grows about 6 cm in a year. Who grows fastest?",
      "opts": [
       "The baby, by about 25 cm in one year",
-      "Kavya, because she is older and bigger",
+      "The 8-year-old, because she is older and bigger",
       "They grow at the same speed",
       "Nobody grows after they are born"
      ],
      "a": 0,
-     "why": "75 take away 50 is 25 cm in one year. That is about four times what an 8-year-old grows. The first year is the fastest growing of a whole life. Kavya's guess is a common one, because children can see themselves growing out of clothes."
+     "why": "75 take away 50 is 25 cm in one year. That is about four times what an 8-year-old grows. The first year is the fastest growing of a whole life. The girl's guess is a common one, because children can see themselves growing out of clothes."
     },
     {
      "t": "mcq",
@@ -867,7 +867,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi Paati's hair has turned grey. Her granddaughter Meenakshi says, 'Paati's black hairs turned white.' What really happened?",
+     "p": "A grandmother's hair has turned grey. Her granddaughter says, 'Paati's black hairs turned white.' What really happened?",
      "opts": [
       "Her black hairs stayed black. The cells at the roots stopped making colour, so new hairs grew in white.",
       "Her black hairs slowly turned white from the tip down",
@@ -896,10 +896,10 @@
     },
     {
      "t": "mcq",
-     "p": "Before the near point test, Divya made a guess. She thought her mother, who is 46, would read the tiny card closer than Divya could. 'Grown-ups read more, so their eyes are better at it,' she said. What did the test most likely show?",
+     "p": "Before the near point test, a girl made a guess. She thought her mother, who is 46, would read the tiny card closer than she could. 'Grown-ups read more, so their eyes are better at it,' she said. What did the test most likely show?",
      "how": "e2",
      "opts": [
-      "Divya read it closer. Her mother had to hold it further away, because her lens is stiffer.",
+      "The girl read it closer. Her mother had to hold it further away, because her lens is stiffer.",
       "Her mother read it closer, because she reads more",
       "They both read it at exactly the same distance",
       "Neither could read it at all"
@@ -1050,7 +1050,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "In the near point test, Revathi, aged 9, read the card at 8 cm. Her mother, aged 38, read it at 15 cm. Her grandmother, aged 68, needed 60 cm. What pattern do you see?",
+     "p": "In the near point test, a girl aged 9 read the card at 8 cm. Her mother, aged 38, read it at 15 cm. Her grandmother, aged 68, needed 60 cm. What pattern do you see?",
      "how": "e2",
      "opts": [
       "The older the person, the further away they must hold small print",
@@ -1063,15 +1063,15 @@
     },
     {
      "t": "write",
-     "p": "Revathi's teacher is 25 years old. She did the same near point test. Where do you predict her result fits among Revathi's family: 8 cm at 9, 15 cm at 38, 60 cm at 68? Explain your guess.",
+     "p": "The girl's teacher is 25 years old. She did the same near point test. Where do you predict her result fits among the girl's family: 8 cm at 9, 15 cm at 38, 60 cm at 68? Explain your guess.",
      "lines": 3,
      "how": "e2",
-     "a": "For example: about 10 to 12 cm, between Revathi and her mother. The teacher is older than Revathi, so her lens is a bit stiffer. But she is younger than the mother, so it is softer than hers.",
+     "a": "For example: about 10 to 12 cm, between the girl and her mother. The teacher is older than the girl, so her lens is a bit stiffer. But she is younger than the mother, so it is softer than hers.",
      "why": "A strong answer uses the pattern to place the new person in order of age, and gives the lens as the reason. Any guess between 8 and 15 cm with that reason is good."
     },
     {
      "t": "mcq",
-     "p": "In the high sound test, Anjali, aged 8, heard the 15,000 hertz beep. Her Thatha, aged 70, heard only up to 8,000. Anjali said, 'Thatha wasn't listening properly.' What is a better explanation?",
+     "p": "In the high sound test, a girl aged 8 heard the 15,000 hertz beep. Her Thatha, aged 70, heard only up to 8,000. The girl said, 'Thatha wasn't listening properly.' What is a better explanation?",
      "how": "e3",
      "opts": [
       "The hair cells for very high sounds wear out first with age",
@@ -1084,7 +1084,7 @@
     },
     {
      "t": "write",
-     "p": "In the high sound test, everyone hears the beeps from the same speaker, at the same volume and distance. Why does that matter? What could go wrong if Thatha sat further away than Anjali?",
+     "p": "In the high sound test, everyone hears the beeps from the same speaker, at the same volume and distance. Why does that matter? What could go wrong if Thatha sat further away than the girl?",
      "lines": 3,
      "how": "e3",
      "a": "Only age should be different, so we know age caused the result. If Thatha sat further away, the beep would be quieter for him. Then we could not tell if he missed it because of his age or because of the distance.",
@@ -1147,12 +1147,12 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi Paati slipped on a wet bathroom floor and broke her wrist. Her granddaughter Kavya slipped on the same floor last week and was not hurt. What is the most likely reason?",
+     "p": "A grandmother slipped on a wet bathroom floor and broke her wrist. Her granddaughter slipped on the same floor last week and was not hurt. What is the most likely reason?",
      "opts": [
       "Bones lose some hard minerals with age, so they break more easily",
-      "Kavya is lucky and Paati is not",
+      "The girl is lucky and the grandmother is not",
       "Children's bones are made of rubber",
-      "Paati fell from much higher up"
+      "The grandmother fell from much higher up"
      ],
      "a": 0,
      "why": "Older bones slowly lose some of their hard minerals, so the same fall can break them. That is why a rubber mat and a handrail in the bathroom help elders."
@@ -1162,7 +1162,7 @@
      "p": "Can worry turn hair grey? Three people give different answers.",
      "views": [
       {
-       "who": "Meenakshi's Paati",
+       "who": "A grandmother",
        "says": "My hair went grey in the year my husband was very ill. The worry did it."
       },
       {
@@ -1176,7 +1176,7 @@
      ],
      "ask": "Which view do you think is closest to the truth? Give a reason. Then say what another person has right.",
      "lines": 5,
-     "a": "A strong answer picks a view and gives evidence, such as the mouse study, or the fact that grown hair cannot change colour. It then admits a fair point from another side. For example, Paati's new hairs may really have grown in grey sooner because of stress.",
+     "a": "A strong answer picks a view and gives evidence, such as the mouse study, or the fact that grown hair cannot change colour. It then admits a fair point from another side. For example, the grandmother's new hairs may really have grown in grey sooner because of stress.",
      "why": "This is still being studied. Stress used up pigment cells in mice, but more studies in humans are needed. The views fit together more than they first seem: stress may make new hairs grow in grey sooner, but old hairs do not change."
     },
     {
@@ -1299,7 +1299,7 @@
        "says": "Ageing is not one illness. It is many slow changes at once, so one cure is unlikely."
       },
       {
-       "who": "Kavya's Ammamma, aged 80",
+       "who": "A grandmother, aged 80",
        "says": "I don't want to live for ever. I want to stay well and busy for the years I have."
       }
      ],
@@ -2635,7 +2635,7 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Arjun is 15, and he is growing very fast. Which life stage is he in, and which stage comes next?",
+   "p": "A boy is 15, and he is growing very fast. Which life stage is he in, and which stage comes next?",
    "opts": [
     "Teenager, then adult",
     "Child, then teenager",
@@ -2661,7 +2661,7 @@
   },
   {
    "t": "mcq",
-   "p": "Meenakshi's mother is 45. She has started holding her phone far away to read messages. What would help her read up close?",
+   "p": "A mother is 45. She has started holding her phone far away to read messages. What would help her read up close?",
    "opts": [
     "Reading glasses, which do the extra bending her stiff lens cannot do",
     "Longer arms",
@@ -2674,11 +2674,11 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya's Paati often misses what little children say. But she hears Thatha's deep voice easily. Why?",
+   "p": "A grandmother often misses what little children say. But she hears her husband's deep voice easily. Why?",
    "opts": [
     "Children's voices are high, and the hair cells for high sounds wear out first",
     "Children speak too fast",
-    "Paati likes Thatha more",
+    "She likes her husband more",
     "Deep voices are always louder"
    ],
    "a": 0,
@@ -2751,11 +2751,11 @@
   },
   {
    "t": "mcq",
-   "p": "Lakshmi Paati is 75. She can't run fast any more. But she finishes the newspaper word puzzle quicker than anyone in the house. What does this show?",
+   "p": "A grandmother is 75. She can't run fast any more. But she finishes the newspaper word puzzle quicker than anyone in the house. What does this show?",
    "opts": [
     "Some abilities slow down with age, while knowing words can keep growing",
     "Running and puzzles are the same skill",
-    "Paati is not really old",
+    "She is not really old",
     "Word puzzles get easier every year"
    ],
    "a": 0,
@@ -2777,7 +2777,7 @@
   },
   {
    "t": "mcq",
-   "p": "Revathi's Paati is 68. She wants to get up from a chair more easily. What is most likely to help?",
+   "p": "A grandmother is 68. She wants to get up from a chair more easily. What is most likely to help?",
    "opts": [
     "Standing up and sitting down slowly, a few times every day, to build leg muscles",
     "Staying sitting as much as she can, to rest her legs",

@@ -794,7 +794,7 @@
     },
     {
      "t": "mcq",
-     "p": "Arjun wants the pencil in his glass of water to look as straight as possible. Where should he put his eye?",
+     "p": "A girl wants the pencil in her glass of water to look as straight as possible. Where should she put her eye?",
      "opts": [
       "Low down at the side, looking at a slant",
       "Straight above the glass, looking down along the pencil",
@@ -821,7 +821,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi puts a coin in an empty cup and moves her head back until the rim just hides the coin. She keeps her head still while her sister slowly pours in water. What will Lakshmi see?",
+     "p": "A girl puts a coin in an empty cup and moves her head back until the rim just hides the coin. She keeps her head still while her sister slowly pours in water. What will she see?",
      "opts": [
       "Nothing changes. The coin stays hidden.",
       "The coin comes into view over the rim.",
@@ -869,7 +869,7 @@
     },
     {
      "t": "mcq",
-     "p": "Divya puts two drops of water on a clear ruler lying on a newspaper. One is a tiny round drop. One is a big flat puddle. Which drop will make the letters look bigger?",
+     "p": "A girl puts two drops of water on a clear ruler lying on a newspaper. One is a tiny round drop. One is a big flat puddle. Which drop will make the letters look bigger?",
      "opts": [
       "The big flat puddle, because it has more water",
       "The tiny round drop, because it is more curved",
@@ -1003,7 +1003,7 @@
     },
     {
      "t": "mcq",
-     "p": "Revathi shines a torch straight down into a bucket of water, at a right angle to the surface. What does the beam do as it goes into the water?",
+     "p": "A girl shines a torch straight down into a bucket of water, at a right angle to the surface. What does the beam do as it goes into the water?",
      "opts": [
       "It bends a lot",
       "It goes on straight, only a little slower",
@@ -1021,7 +1021,7 @@
     },
     {
      "t": "mcq",
-     "p": "Selvi stands on the bank of a pond with a net. She sees a fish at a slant through the water. Where should she aim the net?",
+     "p": "A girl stands on the bank of a pond with a net. She sees a fish at a slant through the water. Where should she aim the net?",
      "opts": [
       "Exactly at the fish she sees",
       "A little below where the fish seems to be",
@@ -1036,7 +1036,7 @@
      "p": "Three hunters catch fish that they see through the water. Each has a different way to deal with the bend in the light.",
      "views": [
       {
-       "who": "Selvi's grandmother, who fishes from the ghat steps",
+       "who": "A grandmother who fishes from the ghat steps",
        "says": "Stand on the bank and aim lower than the fish seems to be. Your hands learn how much, with practice."
       },
       {
@@ -1129,7 +1129,7 @@
     },
     {
      "t": "mcq",
-     "p": "Swathi holds a magnifying glass just above a page and keeps her eye well back. She slowly lifts the lens higher. At first the words look bigger. What happens if she lifts it much further?",
+     "p": "A girl holds a magnifying glass just above a page and keeps her eye well back. She slowly lifts the lens higher. At first the words look bigger. What happens if she lifts it much further?",
      "opts": [
       "The words keep getting bigger and bigger",
       "The words go blurry, then look smaller and upside down",
@@ -2721,7 +2721,7 @@
   },
   {
    "t": "mcq",
-   "p": "Meera sees a coin at the bottom of a bucket of water. She reaches in for it, but her hand has to go deeper than she expected. Why?",
+   "p": "A girl sees a coin at the bottom of a bucket of water. She reaches in for it, but her hand has to go deeper than she expected. Why?",
    "opts": [
     "Light from the coin bends as it leaves the water, so the coin looks higher than it really is",
     "The water pushed the coin down while she reached",
@@ -2733,7 +2733,7 @@
   },
   {
    "t": "mcq",
-   "p": "Thenmozhi wants her water-drop test to be fair. Which one thing should she change from drop to drop?",
+   "p": "A girl wants her water-drop test to be fair. Which one thing should she change from drop to drop?",
    "opts": [
     "The size of the drop",
     "The newspaper",
@@ -2746,7 +2746,7 @@
   },
   {
    "t": "mcq",
-   "p": "Remember the water-drop test on a clear ruler over a newspaper. Divya leaves a round drop there, and it slowly dries and gets flatter. What happens to the letters under it?",
+   "p": "Remember the water-drop test on a clear ruler over a newspaper. A girl leaves a round drop there, and it slowly dries and gets flatter. What happens to the letters under it?",
    "opts": [
     "They look bigger and bigger",
     "They look less and less big",
@@ -2759,7 +2759,7 @@
   },
   {
    "t": "mcq",
-   "p": "Karthik looks at a grain of salt through a magnifying glass. Then he looks at it through a flat piece of window glass. How does the grain look through the flat glass?",
+   "p": "A girl looks at a grain of salt through a magnifying glass. Then she looks at it through a flat piece of window glass. How does the grain look through the flat glass?",
    "opts": [
     "Just as big as through the magnifying glass",
     "About its normal size",
@@ -3024,7 +3024,7 @@
  ],
  "maths": [
   {
-   "problem": "In the water-drop test, Kavya looked at a newspaper letter 2 millimetres tall. Through the tiny drop, it looked as tall as 4 millimetres on the ruler beside it. How many times taller did the drop make the letter look?",
+   "problem": "In the water-drop test, a girl looked at a newspaper letter 2 millimetres tall. Through the tiny drop, it looked as tall as 4 millimetres on the ruler beside it. How many times taller did the drop make the letter look?",
    "answer": "2 times taller.",
    "explain": "The letter is really 2 millimetres tall. Through the drop, it looked 4 millimetres tall. 4 divided by 2 is 2. So the drop made the letter look 2 times taller. You can check: 2 + 2 = 4. The letter itself is still 2 millimetres tall.",
    "math_unit": "math.division.sharing-and-grouping.L3",
@@ -3083,7 +3083,7 @@
    "why_maths": "Fractions let us work out how much the water fools our eyes, which can keep us safe."
   },
   {
-   "problem": "In Spear the Coin, Kavya hit the coin 1 time out of 5 when she aimed at the coin's picture. After she learned to look from straight above, she hit it 4 times out of 5. How many more hits did she get?",
+   "problem": "In Spear the Coin, a girl hit the coin 1 time out of 5 when she aimed at the coin's picture. After she learned to look from straight above, she hit it 4 times out of 5. How many more hits did she get?",
    "answer": "3 more hits.",
    "explain": "She got 4 hits the second time and 1 hit the first time. 4 take away 1 is 3. So she got 3 more hits, out of the same 5 tries.",
    "math_unit": "math.addition-subtraction.word-problems.L3",

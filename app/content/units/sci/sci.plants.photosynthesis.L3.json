@@ -1003,7 +1003,7 @@
     },
     {
      "t": "mcq",
-     "p": "Arjun says, 'Plants take in oxygen to make their food, just like we do.' What has he mixed up?",
+     "p": "Arjun, a boy in Class 3, says, 'Plants take in oxygen to make their food, just like we do.' What has he mixed up?",
      "opts": [
       "To make food, a leaf takes in carbon dioxide and gives out oxygen",
       "Plants do not make food at all",
@@ -1015,7 +1015,7 @@
     },
     {
      "t": "mcq",
-     "p": "Meenakshi puts sunk spinach discs in baking-soda water, and leaves the cup in a dark cupboard for 25 minutes. What will she see?",
+     "p": "A girl puts sunk spinach discs in baking-soda water, and leaves the cup in a dark cupboard for 25 minutes. What will she see?",
      "opts": [
       "The discs stay at the bottom",
       "The discs all float up",
@@ -1089,7 +1089,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi moves a lamp from 40 cm away to 10 cm away from a water plant. What happens to the bubbles?",
+     "p": "A girl moves a lamp from 40 cm away to 10 cm away from a water plant. What happens to the bubbles?",
      "opts": [
       "More bubbles come, because the light is brighter",
       "Fewer bubbles come, because the plant gets too hot",
@@ -1119,7 +1119,7 @@
     },
     {
      "t": "perspective",
-     "p": "Kavya's family in Chennai argue about keeping potted plants in the bedroom at night.",
+     "p": "Kavya, a girl aged 9, and her family in Chennai argue about keeping potted plants in the bedroom at night.",
      "views": [
       {
        "who": "Paati, Kavya's grandmother",
@@ -3081,7 +3081,7 @@
      "kid": "Try each idea one at a time. Time how long until all 10 float. Write each time down.",
      "check": {
       "t": "mcq",
-      "q": "Kavya put her cup in brighter light AND added more baking soda at the same time. Her discs floated faster. What can she say?",
+      "q": "A girl put her cup in brighter light AND added more baking soda at the same time. Her discs floated faster. What can she say?",
       "options": [
        "Something helped, but she can't tell which change did it",
        "Brighter light is the reason",
@@ -3228,7 +3228,7 @@
   },
   {
    "t": "mcq",
-   "p": "Divya drops iodine on a slice of raw potato and on a spoon of sugar. The potato turns blue-black. The sugar stays brown. What does this show?",
+   "p": "A girl drops iodine on a slice of raw potato and on a spoon of sugar. The potato turns blue-black. The sugar stays brown. What does this show?",
    "opts": [
     "The potato has starch in it, and the sugar does not",
     "The sugar has more starch than the potato",

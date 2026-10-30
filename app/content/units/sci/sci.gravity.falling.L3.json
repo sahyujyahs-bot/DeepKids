@@ -993,7 +993,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Many people think gravity pulls only on heavy things. Kavya lets go of a feather, and the feather drifts slowly down. What does that show?",
+     "p": "Many people think gravity pulls only on heavy things. A girl lets go of a feather, and the feather drifts slowly down. What does that show?",
      "opts": [
       "Gravity pulls the feather too. The air just slows the feather down",
       "Gravity does not pull feathers. The wind pushes them down",
@@ -1026,7 +1026,7 @@
     },
     {
      "t": "mcq",
-     "p": "Before the Drop Race, Meenakshi holds a full water bottle and an almost empty one. The full one feels much heavier. She lets them fall together from the same height. What should she expect to hear?",
+     "p": "Before the Drop Race, a girl holds a full water bottle and an almost empty one. The full one feels much heavier. She lets them fall together from the same height. What should she expect to hear?",
      "opts": [
       "One thud, because they land together",
       "Two thuds: the full bottle first",
@@ -1049,7 +1049,7 @@
     },
     {
      "t": "mcq",
-     "p": "Divya drops a flat sheet of paper and a crumpled sheet of the same paper together. The crumpled one lands first. What was different about the two sheets?",
+     "p": "A girl drops a flat sheet of paper and a crumpled sheet of the same paper together. The crumpled one lands first. What was different about the two sheets?",
      "opts": [
       "Only their shape. The air pushed much less on the crumpled ball",
       "The crumpled one was heavier",
@@ -1148,7 +1148,7 @@
     },
     {
      "t": "mcq",
-     "p": "Anjali drops a ball from a balcony. When is the ball moving fastest?",
+     "p": "A girl drops a ball from a balcony. When is the ball moving fastest?",
      "opts": [
       "Just before it lands",
       "Just after she lets go",
@@ -1218,7 +1218,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Look at these Parachute Test results. Priya says, 'The bigger the parachute, the slower it falls.' Do the results agree with her?",
+     "p": "Look at these Parachute Test results. A friend says, 'The bigger the parachute, the slower it falls.' Do the results agree with her?",
      "opts": [
       "Yes. Each bigger parachute took longer to fall",
       "No. The small one was slowest",
@@ -1355,14 +1355,14 @@
     },
     {
      "t": "mcq",
-     "p": "In the Falling Ruler test, Sowmya catches the ruler after it falls 10 cm. Her brother Karthik catches it after 20 cm. Karthik says, 'I win, my number is bigger.' Who was really quicker?",
+     "p": "In the Falling Ruler test, a girl catches the ruler after it falls 10 cm. Her brother catches it after 20 cm. He says, 'I win, my number is bigger.' Who was really quicker?",
      "opts": [
-      "Sowmya, because the ruler had less time to fall before she caught it",
-      "Karthik, because his number is bigger",
+      "The girl, because the ruler had less time to fall before she caught it",
+      "Her brother, because his number is bigger",
       "Neither, because the ruler falls differently each time"
      ],
      "a": 0,
-     "why": "A falling ruler keeps speeding up, so a bigger number means more time passed before the catch. Sowmya stopped it sooner. Karthik's mistake is thinking a bigger number is always better.",
+     "why": "A falling ruler keeps speeding up, so a bigger number means more time passed before the catch. The girl stopped it sooner. Her brother's mistake is thinking a bigger number is always better.",
      "how": "e4",
      "context": "In the Falling Ruler test, a helper drops a ruler between your open fingers, without warning. You read the number where you caught it."
     },
@@ -1448,15 +1448,15 @@
      "p": "In the Egg Lander challenge, an egg in a lander is dropped from about 2 metres. Three friends in Mysuru each have a plan to keep the egg safe.",
      "views": [
       {
-       "who": "Kavya",
+       "who": "Kavya, one friend",
        "says": "Use the biggest parachute you can make. It catches the most air, so the lander falls slowest."
       },
       {
-       "who": "Farzana",
+       "who": "Farzana, another friend",
        "says": "Forget the parachute. Pack lots of crumpled paper and straws round the egg, so the landing is soft."
       },
       {
-       "who": "Selvi",
+       "who": "Selvi, the third friend",
        "says": "Use a small parachute and a little padding. A big parachute can tip over and land the egg on its side."
       }
      ],
@@ -3939,14 +3939,14 @@
    "why_maths": "Galileo found that falling follows a number pattern. Spotting the pattern lets you predict where the marble will be before it gets there, which is what scientists love to do."
   },
   {
-   "problem": "Kavya jumped three times. Her jumps were 22 cm, 27 cm and 25 cm high. Look at the chart. What was her best jump? How much higher was it than her lowest jump?",
+   "problem": "A girl jumped three times. Her jumps were 22 cm, 27 cm and 25 cm high. Look at the chart. What was her best jump? How much higher was it than her lowest jump?",
    "answer": "Her best jump was 27 cm. It was 5 cm higher than her lowest jump.",
    "explain": "Put the jumps in order: 22, 25, 27. The biggest is 27 cm. The smallest is 22 cm. 27 take away 22 is 5. So the best jump was 5 cm higher.",
    "math_unit": "math.length.standard-units-length.L3",
    "context": "In How High Can You Jump?, you mark how high you can reach on a paper strip on the wall. Then you jump and touch it, and measure each jump from the reaching mark.",
    "chart": {
     "type": "bar",
-    "title": "Kavya's three jumps, measured from her reaching mark",
+    "title": "Three jumps, measured from her reaching mark",
     "x": "Jump",
     "y": "Height of the jump (cm)",
     "data": [

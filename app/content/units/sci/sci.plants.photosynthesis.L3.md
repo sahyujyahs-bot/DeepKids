@@ -668,7 +668,7 @@ Next summer, she thought, a little bit of me will be a mango.
   *Parent says:* Try one idea at a time. If we change two things together, we won't know which one worked.  
   *Child mode:* Try each idea one at a time. Time how long until all 10 float. Write each time down.
   - Note: Brighter light and a little more baking soda usually help the most. Very hot water damages the leaf, so keep it only slightly warm. Some leaves, like thick waxy ones, are hard to sink in the syringe.
-  - Check: Kavya put her cup in brighter light AND added more baking soda at the same time. Her discs floated faster. What can she say? → **Something helped, but she can't tell which change did it**
+  - Check: A girl put her cup in brighter light AND added more baking soda at the same time. Her discs floated faster. What can she say? → **Something helped, but she can't tell which change did it**
 - **s4 (5 min)**  
   *Parent does:* Compare all the times. Read the usual and creative solutions together.  
   *Parent says:* Which change helped most? Here are some other ideas. Is there one you'd like to try?  
@@ -681,10 +681,10 @@ Next summer, she thought, a little bit of me will be a mango.
    **Answer:** sunlight → Goes into the leaf; water → Goes into the leaf; carbon dioxide → Goes into the leaf; sugar → Made and kept in the plant; starch → Made and kept in the plant; oxygen → Goes out into the air. *Why:* Light, water and carbon dioxide go in. The plant makes sugar, and stores some of it as starch. Oxygen is left over and goes out. A strong answer does not put oxygen and carbon dioxide the wrong way round.
 2. (fill) The green colouring in leaves that catches sunlight is called ____.  
    **Answer:** ['chlorophyll']. *Why:* Chlorophyll catches the energy in sunlight. The leaf uses that energy to make food.
-3. (mcq) Arjun says, 'Plants take in oxygen to make their food, just like we do.' What has he mixed up?  
+3. (mcq) Arjun, a boy in Class 3, says, 'Plants take in oxygen to make their food, just like we do.' What has he mixed up?  
    Options: To make food, a leaf takes in carbon dioxide and gives out oxygen / Plants do not make food at all / Plants take in smoke / Nothing, he is right  
    **Answer:** To make food, a leaf takes in carbon dioxide and gives out oxygen. *Why:* Photosynthesis takes in carbon dioxide and gives out oxygen. Arjun is half right about one thing: plants also use a little oxygen all the time to get energy from their sugar, as we do. A strong answer separates making food from using it.
-4. (mcq) Meenakshi puts sunk spinach discs in baking-soda water, and leaves the cup in a dark cupboard for 25 minutes. What will she see?  
+4. (mcq) A girl puts sunk spinach discs in baking-soda water, and leaves the cup in a dark cupboard for 25 minutes. What will she see?  
    Options: The discs stay at the bottom / The discs all float up / The discs turn blue-black / The water turns milky  
    **Answer:** The discs stay at the bottom. *Why:* In the dark, the leaf cannot make food, so it makes no oxygen. With no bubbles, the discs stay sunk. Picking 'all float up' means thinking carbon dioxide alone is enough. The leaf needs light as well.
 5. (truefalse) Plants grow big because they suck food up out of the soil.  
@@ -698,14 +698,14 @@ Next summer, she thought, a little bit of me will be a mango.
    **Answer:** A strong answer says not quite. Fertiliser gives minerals, which a plant needs in small amounts, a bit like vitamins. The plant's real food is sugar, which the leaves make from carbon dioxide and water, using sunlight.. *Why:* Many people call fertiliser 'plant food'. The answer should say what fertiliser does and where the real food is made.
 9. (fill) Carbon dioxide gets into a leaf through tiny holes, mostly on the underside. These holes are called ____.  
    **Answer:** ['stomata', 'stoma']. *Why:* Stomata open to let carbon dioxide in and oxygen out. They close when the plant is short of water.
-10. (mcq) Lakshmi moves a lamp from 40 cm away to 10 cm away from a water plant. What happens to the bubbles?  
+10. (mcq) A girl moves a lamp from 40 cm away to 10 cm away from a water plant. What happens to the bubbles?  
    Options: More bubbles come, because the light is brighter / Fewer bubbles come, because the plant gets too hot / The bubbles stop / Nothing changes  
    **Answer:** More bubbles come, because the light is brighter. *Why:* Brighter light gives the plant more energy, so they make food and oxygen faster. Picking 'too hot' is a careful thought, which is why the lamp should be an LED that stays cool. A strong answer links light to how fast oxygen is made.
 11. (write) After the Rising Leaf Discs, write three sentences. What did you guess before? What did you see? Why do you think it happened?  
    **Answer:** For example: I guessed the discs in the dark would float too. I saw all 10 discs float in the sunny baking-soda cup, and none in the other two. I think the leaf needs light and carbon dioxide to make oxygen, and the oxygen bubbles lifted the discs.. *Why:* A strong answer is honest about the guess, gives what was seen with a number, and gives a reason using light and carbon dioxide.
 12. (draw) Draw a leaf. Draw arrows for what goes in and what comes out. Then draw where the sugar goes.  
    **Answer:** Arrows in for sunlight, water and carbon dioxide. An arrow out for oxygen. An arrow from the leaf down the stem to the roots, fruit or a growing tip, labelled sugar.. *Why:* A strong drawing shows the sugar staying inside the plant, because the plant uses it to live and grow.
-13. (perspective) Kavya's family in Chennai argue about keeping potted plants in the bedroom at night.  
+13. (perspective) Kavya, a girl aged 9, and her family in Chennai argue about keeping potted plants in the bedroom at night.  
    **Answer:** Any choice can be strong. A strong answer uses the science, for example: in the dark a plant only respires, but a few pots use far less oxygen than one sleeping person, so Paati's worry is very small. In the day they give out oxygen, but too little to change a room much, so Kavya's reason is small too. Then it is fair to another side, for example: Amma is right that mosquitoes are a real problem.. *Why:* Paati is right that plants give out carbon dioxide at night. Kavya is right that they give out oxygen in the day. The amounts in a bedroom are small either way, so other things, like mosquitoes or how the plants make you feel, can decide it. There is no single right answer.
 14. (truefalse) A leaf can make food only while light falls on it.  
    **Answer:** True. *Why:* True. Light gives the energy to join carbon dioxide and water into sugar. In the dark, the leaf stops making food, though the plant keeps using the food already made.
@@ -810,7 +810,7 @@ Next summer, she thought, a little bit of me will be a mango.
 4. (mcq) Look at the chart. Which cup made oxygen?  
    Options: Light and baking soda / Dark and baking soda / Light and plain water / None of them  
    **Answer:** Light and baking soda. *Why:* Only the cup with light and carbon dioxide made oxygen, so only its discs floated. Picking 'light and plain water' misses the carbon dioxide. Plain water has almost none.
-5. (mcq) Divya drops iodine on a slice of raw potato and on a spoon of sugar. The potato turns blue-black. The sugar stays brown. What does this show?  
+5. (mcq) A girl drops iodine on a slice of raw potato and on a spoon of sugar. The potato turns blue-black. The sugar stays brown. What does this show?  
    Options: The potato has starch in it, and the sugar does not / The sugar has more starch than the potato / Iodine only works on cold foods / Both have the same amount of starch  
    **Answer:** The potato has starch in it, and the sugar does not. *Why:* Iodine turns blue-black only on starch. Sugar is what leaves make first, and plants join sugars into starch to store them. So sugar itself stays brown. Picking 'sugar has more starch' mixes up the two.
 6. (mcq) A leaf with a paper star on it is tested with iodine. Where will it stay pale?  

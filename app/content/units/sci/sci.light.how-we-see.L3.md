@@ -731,9 +731,9 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
 - **Camera or eye: Which sees better?** (TED-Ed, 5 min) id `OGqAM2Mykng`: For the parent: how the eye compares with a camera, including the retina, the rods and cones and the blind spot. *Check:* Found by YouTube search: "Camera or eye: Which sees better? - Michael Mauser" by TED-Ed. Title checked automatically; a parent may still preview it.
 
 ## Quiz
-1. (mcq) Nithya sits in a dark cinema hall. The film ends and the screen goes black. She cannot see her friend in the next seat. Why not?  
-   Options: No light is bouncing off her friend into her eyes / Her eyes have stopped working / Her friend has become see-through  
-   **Answer:** No light is bouncing off her friend into her eyes. *Why:* Her friend is still there, and Nithya's eyes are fine. But with the screen dark, no light lands on her friend, so none bounces into Nithya's eyes. Picking 'her eyes stopped working' forgets that eyes need light to catch.
+1. (mcq) You sit in a dark cinema hall. The film ends and the screen goes black. You cannot see your friend in the next seat. Why not?  
+   Options: No light is bouncing off your friend into your eyes / Your eyes have stopped working / Your friend has become see-through  
+   **Answer:** No light is bouncing off your friend into your eyes. *Why:* Your friend is still there, and your eyes are fine. But with the screen dark, no light lands on your friend, so none bounces into your eyes. Picking 'your eyes stopped working' forgets that eyes need light to catch.
 2. (mcq) Which of these is a light source?  
    Options: A glowing firefly / A shiny steel tumbler / The full Moon  
    **Answer:** A glowing firefly. *Why:* A firefly makes their own light. A steel tumbler only shines because light bounces off it. The full Moon is a rock lit by the Sun. Picking the Moon is very common, because it looks so bright.

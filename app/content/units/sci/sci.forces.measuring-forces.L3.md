@@ -369,7 +369,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   *Parent does:* 1. Put the notebook about 30 cm from the table edge. 2. Tape one end of the string to the middle of its front edge. 3. Run the string straight over the table edge. 4. Tie the other end to the cup's handle, so the cup hangs about 10 cm below the edge. 5. Put a cushion on the floor under the cup.  
   *Parent says:* Today the coins will do the pulling, and we will count them. Our unit of pull is one coin. Scientists named their unit after a person. What shall we call ours?  
   *Child mode:* Tape the string to the notebook. Hang the cup over the table edge. Put a cushion underneath. Your unit is one coin. Give it a name!
-  - Note: The cup and string must be light. If the notebook slides before any coins go in, the cup is too heavy. Use a lighter cup, or a heavier notebook. Children love naming the unit after themselves, for example '1 Lakshmi'. Use the name all through the test.
+  - Note: The cup and string must be light. If the notebook slides before any coins go in, the cup is too heavy. Use a lighter cup, or a heavier notebook. Children love naming the unit after themselves. Let your child choose the name, and use it all through the test.
 - **s3 (3 min)**  
   *Parent does:* 1. Ask your child for two guesses, each with a reason. 2. Write both in the table. 3. Do not say whether they are right.  
   *Parent says:* How many coins do you think one notebook will need? Why? And two notebooks stacked: the same, a few more, or twice as many? Why do you think so?  
@@ -747,11 +747,11 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 6. (mcq) Look at the forcemeter. Each small mark is half a newton. How hard is it being pulled?  
    Options: 3 newtons / 3 and a half newtons / 4 newtons / 35 newtons  
    **Answer:** 3 and a half newtons. *Why:* The pointer is on the small mark halfway between 3 and 4. Half a newton past 3 is 3 and a half newtons. Picking 3 or 4 means the small marks were not counted. Picking 35 means the 3 and the 5 were read as one number.
-7. (mcq) Divya hangs nothing on her forcemeter. Its pointer sits on 1, not on 0. What will happen if she uses it like this?  
+7. (mcq) A forcemeter has nothing hanging on it. Its pointer sits on 1, not on 0. What will happen if you use it like this?  
    Options: Every reading will be 1 newton too big / Every reading will still be right / Every reading will be 1 newton too small / The spring will snap  
    **Answer:** Every reading will be 1 newton too big. *Why:* The pointer has a 1 newton head start before anything is hooked on. So every pull will show 1 newton more than it really is. That is why you check the zero first. Picking 'still right' means the zero was thought not to matter.
-8. (truefalse) Ammu pushes hard on a wall, and the wall does not move. So Ammu's push was zero newtons.  
-   **Answer:** False. *Why:* False. In the balloon test, the balloon squashed most against the wall, even though the wall did not move. A force can act without making anything move. Here the wall pushed back on Ammu just as hard.
+8. (truefalse) A girl pushes hard on a wall, and the wall does not move. So her push was zero newtons.  
+   **Answer:** False. *Why:* False. In the balloon test, the balloon squashed most against the wall, even though the wall did not move. A force can act without making anything move. Here the wall pushed back on her just as hard.
 9. (write) Why does a forcemeter's pointer move further for a bigger pull? Use the word spring in your answer.  
    **Answer:** Inside the forcemeter is a spring, and the pointer is fixed to it. A bigger pull stretches the spring further, so the pointer slides further down the scale.. *Why:* A strong answer joins three things: the pull, the stretch of the spring, and the pointer moving with the spring. Twice the pull gives about twice the stretch.
 10. (sort) Sort these. Does each one pull down on your hand with about 1 newton or about 10 newtons?  
@@ -773,10 +773,10 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 ### Read It, Check It (stretch) (stretch, 16 questions)
 1. (write) In the water-pull activity, you started a notebook sliding with water instead of coins. Why can your cousin in Kochi repeat a water test exactly, but not a coin test?  
    **Answer:** Her coins may be different from mine, so her 'coin' would be a different size. But 100 millilitres of water is the same everywhere. Anyone with a measuring jug can pour exactly the same amount.. *Why:* A strong answer says that a shared unit must be the same for everyone, and that water measured in a jug is the same in every home.
-2. (mcq) Lakshmi's forcemeter shows 1 newton with nothing on its hook. With her school bag hooked on, it shows 9 newtons. How hard does the bag really pull?  
+2. (mcq) A forcemeter shows 1 newton with nothing on its hook. With a school bag hooked on, it shows 9 newtons. How hard does the bag really pull?  
    Options: 9 newtons / 10 newtons / 8 newtons / 1 newton  
    **Answer:** 8 newtons. *Why:* The pointer started 1 newton too far down. So take that 1 away: 9 take away 1 is 8 newtons. Picking 9 means the zero was not checked. Picking 10 means the 1 was added instead of taken away.
-3. (mcq) Thanvi wants to measure how hard a full suitcase pulls. It pulls with about 200 newtons. Which forcemeter should she use?  
+3. (mcq) You want to measure how hard a full suitcase pulls. It pulls with about 200 newtons. Which forcemeter should you use?  
    Options: One that shows 0 to 10 newtons / One that shows 0 to 50 newtons / One that shows 0 to 500 newtons / Any of them, they all work the same  
    **Answer:** One that shows 0 to 500 newtons. *Why:* A forcemeter can only show pulls inside its range. A 200 newton pull would stretch a 0 to 10 or 0 to 50 forcemeter past its end, and could spoil the spring for good. Picking 'any of them' means the range was not thought about.
 4. (mcq) On this forcemeter, the numbers go 0, 10, 20, 30 and so on. There are 5 small gaps between each number. What does each small gap stand for?  
@@ -789,10 +789,10 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
    **Answer:** 1 newton. *Why:* One sixth of 6 is 1. So the forcemeter would show about 1 newton. Picking 36 means multiplying by 6 instead of sharing by 6. Picking 0 means the Moon was thought to have no gravity. It does, but less.
 7. (write) In the bathroom scale test, the number dipped when you bent your knees quickly. Did you get lighter for a moment? What does the scale really measure?  
    **Answer:** No. My body did not lose anything. As I dropped, my feet pushed less on the scale, so the number dipped. The scale measures how hard I push down on it, and then shows that push as kilograms.. *Why:* A strong answer separates two things: how much of me there is, which stayed the same, and how hard I pushed, which changed.
-8. (mcq) Revathi stands still on a bathroom scale, holding a heavy bag at her waist. Then she lifts the bag high above her head and holds it there, still. Once she is still again, what does the scale show?  
+8. (mcq) You stand still on a bathroom scale, holding a heavy bag at your waist. Then you lift the bag high above your head and hold it there, still. Once you are still again, what does the scale show?  
    Options: More than before / Less than before / The same as before  
    **Answer:** The same as before. *Why:* Wherever she holds the bag, its pull goes down through her arms and body into the scale. So once she is still, the number is the same. While she is lifting the bag, the number jumps up for a moment, because she pushes down to push the bag up. Many people guess 'less', because the bag is further from the scale.
-9. (fill) Shalini measures a pull of about 1 newton with a forcemeter that shows 0 to 500 newtons. The pointer hardly moves. To read this pull well, she should use a forcemeter with a ____ range.  
+9. (fill) You measure a pull of about 1 newton with a forcemeter that shows 0 to 500 newtons. The pointer hardly moves. To read this pull well, you should use a forcemeter with a ____ range.  
    **Answer:** ['smaller', 'small', 'lower', 'low']. *Why:* A forcemeter built for big pulls has a stiff spring, so a small pull hardly stretches it and the reading is hard to see. A forcemeter with a small range, like 0 to 5 newtons, has a softer spring that stretches well for small pulls. Pick the range that fits the pull: not too small, and not too big.
 10. (mcq) Nila, a girl in Class 4, hooks her forcemeter to her uncle's and they pull. Nila says, 'My uncle is stronger, so his forcemeter will show more.' What is wrong with her idea?  
    Options: Nothing. The stronger person's forcemeter shows more / Both forcemeters always show the same, because each pull comes with an equal pull back / The weaker person's forcemeter shows more / Two forcemeters can't be hooked together  
@@ -873,7 +873,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 6. (mcq) On this forcemeter, the numbers go 0, 5, 10, 15, 20. Each small mark is 1 newton. What is the reading?  
    Options: 13 newtons / 3 newtons / 15 newtons  
    **Answer:** 13 newtons. *Why:* The pointer is 3 small marks past 10, and each mark is 1 newton, so it reads 13 newtons. Picking 3 means only the small marks were counted. Picking 15 means the reading was rounded to the nearest number.
-7. (mcq) Ravi reads a forcemeter from far below, looking up at the pointer. What can go wrong?  
+7. (mcq) A boy reads a forcemeter from far below, looking up at the pointer. What can go wrong?  
    Options: The pointer looks shifted, so he may read the wrong mark / The spring stretches more / Nothing can go wrong  
    **Answer:** The pointer looks shifted, so he may read the wrong mark. *Why:* Looking from below or above makes the pointer seem to sit on a different mark. Reading with your eyes level with the pointer gives the true reading.
 8. (mcq) Why does a forcemeter use a spring, and not a stiff steel rod?  
@@ -885,10 +885,10 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 10. (mcq) Before the coin test, you guessed how many coins you would need, and said why. Why say a reason, not just a number?  
    Options: So after the test you can see whether your reason was right / To make the test take longer / Because a reason changes the result  
    **Answer:** So after the test you can see whether your reason was right. *Why:* A guess with a reason can be checked. If the result surprises you, your reason was wrong somewhere, and you learn what to think again.
-11. (mcq) Pooja tests two notebooks. She slides the thin one on a smooth table, and the thick one on a rough mat. What is unfair about her test?  
+11. (mcq) A girl tests two notebooks. She slides the thin one on a smooth table, and the thick one on a rough mat. What is unfair about her test?  
    Options: She changed two things at once, so she can't tell which one made the difference / Nothing is unfair / She should use more coins  
-   **Answer:** She changed two things at once, so she can't tell which one made the difference. *Why:* In a fair test, you change only one thing. Pooja changed the notebook and the surface, so if the numbers differ, she can't say why.
-12. (mcq) On the Moon, Asha lifts a box of books with a mass of 6 kilograms. How does lifting it feel, compared with on Earth?  
+   **Answer:** She changed two things at once, so she can't tell which one made the difference. *Why:* In a fair test, you change only one thing. She changed the notebook and the surface, so if the numbers differ, she can't say why.
+12. (mcq) On the Moon, you lift a box of books with a mass of 6 kilograms. How does lifting it feel, compared with on Earth?  
    Options: About as easy as lifting 1 kilogram on Earth, because the Moon pulls it less / Just the same, because it is still 6 kilograms / She can't lift it, because there is no gravity on the Moon  
    **Answer:** About as easy as lifting 1 kilogram on Earth, because the Moon pulls it less. *Why:* The Moon pulls about one sixth as hard, so the box pulls down on her hands about as hard as 1 kilogram does on Earth. Its mass is still 6 kilograms: no book has gone. Picking 'just the same' mixes up mass and weight. Picking 'no gravity' forgets that the Moon does pull, just less.
 13. (mcq) On the Moon, a bathroom scale shows a 30 kilogram girl as about 5 kilograms. Did she lose 25 kilograms of her body?  

@@ -807,19 +807,19 @@
      "kind": "cards",
      "title": "13 case cards to cut out",
      "items": [
-      "Meenakshi says: The spoon stuck to the magnet. So the spoon has iron in it.",
-      "Imran says: The key did not stick. So it is made of brass.",
-      "Kavya says: The tumbler did not stick. So it is not made of steel.",
-      "Karthik says: The coin did not stick. So it is real silver.",
-      "Lakshmi says: The foil ball did not stick. So my magnet must be broken.",
-      "Ayesha says: The nail stuck. So all metals stick.",
-      "Kabir says: The pin stuck. So the pin is not made of gold.",
-      "Revathi says: The magnet stuck to my tin can. So the can is made of tin.",
-      "Ravi says: The toy car stuck to the magnet. So the whole car is made of iron.",
-      "Sana says: The bottom of my steel pot stuck. So the bottom has a magnetic metal in it.",
-      "Joseph says: The magnet moved a clip through a plate. So the plate is magnetic.",
-      "Divya says: My ring did not stick. So it is pure gold.",
-      "Nila says: A frog floated in a very strong magnet. So a frog is magnetic like iron."
+      "1. A classmate says: The spoon stuck to the magnet. So the spoon has iron in it.",
+      "2. A classmate says: The key did not stick. So it is made of brass.",
+      "3. A classmate says: The tumbler did not stick. So it is not made of steel.",
+      "4. A classmate says: The coin did not stick. So it is real silver.",
+      "5. A classmate says: The foil ball did not stick. So my magnet must be broken.",
+      "6. A classmate says: The nail stuck. So all metals stick.",
+      "7. A classmate says: The pin stuck. So the pin is not made of gold.",
+      "8. A classmate says: The magnet stuck to my tin can. So the can is made of tin.",
+      "9. A classmate says: The toy car stuck to the magnet. So the whole car is made of iron.",
+      "10. A classmate says: The bottom of my steel pot stuck. So the bottom has a magnetic metal in it.",
+      "11. A classmate says: The magnet moved a clip through a plate. So the plate is magnetic.",
+      "12. A classmate says: My ring did not stick. So it is pure gold.",
+      "13. A classmate says: A frog floated in a very strong magnet. So a frog is magnetic like iron."
      ]
     },
     {
@@ -861,9 +861,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Read the practice case: 'Meenakshi says: the spoon stuck to the magnet. So the spoon has iron in it.' Let everyone raise a paddle.",
-     "say": "Practice case. Meenakshi says the spoon stuck, so it has iron in it. What is your verdict?",
-     "kid": "Practice case. Meenakshi says the spoon stuck, so it has iron in it. Proved, not proved, or wrong?",
+     "do": "Read the practice case: 'A classmate says: the spoon stuck to the magnet. So the spoon has iron in it.' Let everyone raise a paddle.",
+     "say": "Practice case. A classmate says the spoon stuck, so it has iron in it. What is your verdict?",
+     "kid": "Practice case. A classmate says the spoon stuck, so it has iron in it. Proved, not proved, or wrong?",
      "ask": [
       {
        "q": "Why is it proved?",
@@ -875,7 +875,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "The spoon stuck to the magnet. Meenakshi says the spoon has iron in it. Is that proved, not proved, or wrong?",
+      "q": "The spoon stuck to the magnet. A classmate says the spoon has iron in it. Is that proved, not proved, or wrong?",
       "options": [
        "Proved",
        "Not proved",
@@ -891,10 +891,10 @@
      "do": "Play the cases one by one. Let each lawyer give a reason before the judge decides. Write each verdict on the court record.",
      "say": "Take a case. Read it. Raise your paddle. Say why in one sentence. Then the judge decides.",
      "kid": "Take turns as judge. Read a case. Everyone raises a paddle and says why. The judge decides.",
-     "parent": "Verdicts: Meenakshi PROVED. Imran NOT PROVED, because aluminium and copper do not stick either. Kavya WRONG, because some steels do not stick. Karthik NOT PROVED, because brass and aluminium do not stick either. Lakshmi WRONG, because foil is not magnetic, so it never sticks. Test the magnet on a nail to check it. Ayesha WRONG, because one nail does not tell us about other metals. Kabir PROVED. Revathi WRONG, because tin is not magnetic. The can is steel with a thin coat of tin. Ravi NOT PROVED, because the car may be plastic with a steel axle. Sana PROVED for the bottom. Joseph WRONG, because a magnet's force acts through non-magnetic plates. Divya NOT PROVED, because silver, brass and aluminium do not stick either. Nila WRONG, because a magnet repels a frog very weakly. It does not attract them like iron.",
+     "parent": "Verdicts: Card 1 PROVED. Card 2 NOT PROVED, because aluminium and copper do not stick either. Card 3 WRONG, because some steels do not stick. Card 4 NOT PROVED, because brass and aluminium do not stick either. Card 5 WRONG, because foil is not magnetic, so it never sticks. Test the magnet on a nail to check it. Card 6 WRONG, because one nail does not tell us about other metals. Card 7 PROVED. Card 8 WRONG, because tin is not magnetic. The can is steel with a thin coat of tin. Card 9 NOT PROVED, because the car may be plastic with a steel axle. Card 10 PROVED for the bottom. Card 11 WRONG, because a magnet's force acts through non-magnetic plates. Card 12 NOT PROVED, because silver, brass and aluminium do not stick either. Card 13 WRONG, because a magnet repels a frog very weakly. It does not attract them like iron.",
      "ask": [
       {
-       "q": "Why is Imran's case not proved?",
+       "q": "Why is card 2 not proved?",
        "good": [
         "Brass does not stick, but aluminium and copper do not stick either.",
         "A no from a magnet cannot tell us what a thing is."
@@ -1006,7 +1006,7 @@
     },
     {
      "t": "mcq",
-     "p": "Before testing, Lakshmi guesses that a magnet will pick up a tiny piece of aluminium foil, because the foil is so light. What will happen?",
+     "p": "Before testing, a girl guesses that a magnet will pick up a tiny piece of aluminium foil, because the foil is so light. What will happen?",
      "opts": [
       "The foil will not move, because aluminium is not magnetic, however light it is",
       "The foil will jump up, because it is light",
@@ -1160,7 +1160,7 @@
     },
     {
      "t": "mcq",
-     "p": "Swathi puts a magnet in a plastic bag and drags it through sand from the beach. Tiny black grains cling to the bag. What can she say?",
+     "p": "A girl puts a magnet in a plastic bag and drags it through sand from the beach. Tiny black grains cling to the bag. What can she say?",
      "opts": [
       "The black grains are gold",
       "The black grains are plastic",
@@ -1255,7 +1255,7 @@
     },
     {
      "t": "mcq",
-     "p": "In Through the Paper, the bar magnet worked through 30 sheets, and the small fridge magnet worked through 10. Kavitha says, 'So the bar magnet is exactly 3 times as strong.' What is the best answer?",
+     "p": "In Through the Paper, the bar magnet worked through 30 sheets, and the small fridge magnet worked through 10. Kavitha, a girl in Class 4, says, 'So the bar magnet is exactly 3 times as strong.' What is the best answer?",
      "opts": [
       "Yes, 30 is 3 times 10, so it is exactly 3 times as strong",
       "No, the fridge magnet is stronger",
@@ -3189,7 +3189,7 @@
    "id": "c2",
    "title": "The Cupboard Door Puzzle",
    "mins": 30,
-   "problem": "Sunil's fridge magnet holds a drawing on the fridge, but it falls off the wooden cupboard door right beside it. Make a magnet stay on a wooden or plastic board, without screws or nails.",
+   "problem": "A fridge magnet holds a drawing on the fridge, but it falls off the wooden cupboard door right beside it. Make a magnet stay on a wooden or plastic board, without screws or nails.",
    "constraints": [
     "You may not use nails, screws or glue on the magnet.",
     "The board is wood or plastic, so a magnet will not stick to it as it is.",
@@ -3317,7 +3317,7 @@
   },
   {
    "t": "mcq",
-   "p": "Malini predicts that a brass diya will stick to a magnet. She tests it and it does not. What should she do?",
+   "p": "A girl predicts that a brass diya will stick to a magnet. She tests it and it does not. What should she do?",
    "opts": [
     "Test again until it sticks",
     "Say the magnet is broken",
@@ -3410,7 +3410,7 @@
   },
   {
    "t": "mcq",
-   "p": "Pooja finds that the bottom of her steel pan sticks to a magnet, but its sides do not. What is the best explanation?",
+   "p": "A girl finds that the bottom of her steel pan sticks to a magnet, but its sides do not. What is the best explanation?",
    "opts": [
     "The sides are plastic",
     "Magnets only stick to the bottoms of things",
@@ -3436,7 +3436,7 @@
   },
   {
    "t": "mcq",
-   "p": "Revathi puts a pin on her open palm and holds a magnet under her hand. When she moves the magnet, the pin moves too. What does this show?",
+   "p": "A girl puts a pin on her open palm and holds a magnet under her hand. When she moves the magnet, the pin moves too. What does this show?",
    "opts": [
     "Her hand is magnetic",
     "The magnetic force acts through her hand",
@@ -3850,7 +3850,7 @@
    "why_maths": "A ruler only helps if you can read it. Reading the small marks turns a stack of paper into a number you can compare."
   },
   {
-   "problem": "A kabadiwala pays 25 rupees for each kilogram of iron scrap. This price is made up. Hema sells 4 kilograms of iron scrap that she sorted with a magnet. How many rupees does she get?",
+   "problem": "A kabadiwala pays 25 rupees for each kilogram of iron scrap. This price is made up. A woman sells 4 kilograms of iron scrap that she sorted with a magnet. How many rupees does she get?",
    "answer": "100 rupees.",
    "explain": "She gets 25 rupees for each of 4 kilograms. That is 4 groups of 25. 25 and 25 is 50. 50 and 25 is 75. 75 and 25 is 100. So she gets 100 rupees.",
    "math_unit": "math.money.money-in-life.L3",

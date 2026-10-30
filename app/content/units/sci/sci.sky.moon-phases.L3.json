@@ -898,7 +898,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Lakshmi is 8. She says the Moon glows by itself, like a bulb. Which clue best shows she is wrong?",
+     "p": "A girl says the Moon glows by itself, like a bulb. Which clue best shows she is wrong?",
      "opts": [
       "On Amavasya the Moon is still in the sky, but we cannot see it at all",
       "The Moon is very far away",
@@ -1098,7 +1098,7 @@
     },
     {
      "t": "write",
-     "p": "Priya says, 'The full Moon is so bright because it is closest to the Sun then.' Use the ball and lamp experiment to explain her mistake.",
+     "p": "A friend says, 'The full Moon is so bright because it is closest to the Sun then.' Use the ball and lamp experiment to explain her mistake.",
      "how": "e1",
      "context": "This question is about the ball and lamp experiment. A lamp is the Sun, a pale ball on a pencil is the Moon, and your head is the Earth. You turn slowly and watch the ball's lit part.",
      "lines": 4,
@@ -1115,7 +1115,7 @@
    "items": [
     {
      "t": "write",
-     "p": "Arjun says, 'The Moon does not spin, because we always see the same face.' Use what you found when you walked round the chair to show him why he is wrong.",
+     "p": "A friend says, 'The Moon does not spin, because we always see the same face.' Use what you found when you walked round the chair to show him why he is wrong.",
      "how": "a1",
      "context": "In this activity you walk round a chair as if you were the Moon, always facing the chair, which is the Earth.",
      "lines": 4,
@@ -1283,7 +1283,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lalitha wants to see the Moon high in the sky in the late afternoon, while it is still daylight. Which Moon should she look for?",
+     "p": "A girl wants to see the Moon high in the sky in the late afternoon, while it is still daylight. Which Moon should she look for?",
      "opts": [
       "The full Moon",
       "A growing half Moon",
@@ -1442,7 +1442,7 @@
     },
     {
      "t": "write",
-     "p": "Kavya says, 'In a solar eclipse, the Earth's shadow falls on the Sun.' What is wrong with this? Explain what really happens.",
+     "p": "A friend says, 'In a solar eclipse, the Earth's shadow falls on the Sun.' What is wrong with this? Explain what really happens.",
      "lines": 4,
      "a": "Nothing can throw a shadow on the Sun, because the Sun makes its own light. In a solar eclipse, the Moon passes between the Sun and the Earth. The Moon blocks the sunlight, and the Moon's shadow falls on a small part of the Earth.",
      "why": "A strong answer says which body is in the middle (the Moon) and where the shadow falls (on the Earth). It may add that this only happens at new Moon, when the Moon is between us and the Sun."
@@ -2819,7 +2819,7 @@
   },
   {
    "t": "mcq",
-   "p": "Meera says, 'There is no lunar eclipse most months because the Earth's shadow is too short to reach the Moon.' What is wrong with her idea?",
+   "p": "A friend says, 'There is no lunar eclipse most months because the Earth's shadow is too short to reach the Moon.' What is wrong with her idea?",
    "opts": [
     "The shadow does reach that far. The Moon's tilted path usually takes it just above or below the shadow",
     "Nothing. She is right",

@@ -592,10 +592,10 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
    **Answer:** When I run, my muscles work hard. They need more oxygen to get energy from food. So I breathe faster to get more oxygen in, and my heart beats faster to carry it to my muscles.. *Why:* A strong answer links the muscles' need for oxygen to both faster breathing and a faster heart.
 4. (truefalse) Your lungs have their own muscles that suck air in.  
    **Answer:** False. *Why:* False. Many people think we suck air in. But lungs cannot move by themselves. The diaphragm under them tightens and moves down to make room, and the air outside pushes in.
-5. (mcq) Lakshmi looks at the veins on her wrist. She says, 'The blood in my veins is blue. It turns red when it touches air.' What is wrong with her idea?  
+5. (mcq) A girl looks at the veins on her wrist. She says, 'The blood in my veins is blue. It turns red when it touches air.' What is wrong with her idea?  
    Options: Blood is always red. Blood in veins is darker red, and veins only look blue through skin. / Nothing. Blood in veins is blue. / Blood is green until it leaves the body / Veins have no blood in them  
    **Answer:** Blood is always red. Blood in veins is darker red, and veins only look blue through skin.. *Why:* Blood coming back to the heart has given away some oxygen, so it is darker red, like beetroot juice. Light shining through skin makes the veins look blue. Blood taken from a vein at a clinic is dark red, even before air touches it.
-6. (mcq) In the jumping heart experiment, Kavya counted 40 beats in 30 seconds while sitting still. How many is that in one minute?  
+6. (mcq) In the jumping heart experiment, Kavya, a girl in Class 3, counted 40 beats in 30 seconds while sitting still. How many is that in one minute?  
    Options: 40 / 80 / 70 / 20  
    **Answer:** 80. *Why:* One minute is two lots of 30 seconds, so double 40. 40 + 40 = 80. Picking 20 usually means halving instead of doubling.
 7. (sort) Sort these. Do they make your heart beat FASTER or SLOWER?  
@@ -610,7 +610,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 11. (label) Label the picture: windpipe, lungs, diaphragm, heart.  
    **Answer:** The windpipe is the tube at the top. The two lungs are on each side. The heart is between them, in the middle. The diaphragm is the dome muscle underneath.. *Why:* The heart sits between the lungs. The diaphragm is under them both. The windpipe carries air down to the lungs.
 12. (perspective) Is it bad for a child to run until they are out of breath? Three people give different answers.  
-   **Answer:** A strong answer picks a side and uses evidence, such as 'my pulse went up to 140 after jumping, but it came back down within two minutes'. It then admits a fair point, for example that Paati is right to want rest when something feels wrong.. *Why:* Doctors agree that exercise is good for a healthy heart, and that a heart that speeds up and then slows down is working well. Paati's worry is a kind one, and the teacher's rule of listening to your body fits both views.
+   **Answer:** A strong answer picks a side and uses evidence, such as 'my pulse went up to 140 after jumping, but it came back down within two minutes'. It then admits a fair point, for example that the grandmother is right to want rest when something feels wrong.. *Why:* Doctors agree that exercise is good for a healthy heart, and that a heart that speeds up and then slows down is working well. The grandmother's worry is a kind one, and the teacher's rule of listening to your body fits both views.
 13. (write) In the jumping heart experiment, your pulse was fast just after jumping. Then you rested for 2 minutes. What happened to your pulse? Why do you think so?  
    **Answer:** For example: it went from 140 back down to 95. My muscles stopped working hard, so they needed less oxygen. So my heart did not need to pump so fast.. *Why:* A strong answer uses the child's own numbers and explains the slowing down by the muscles needing less oxygen.
 14. (fill) We breathe in a gas called ____. We breathe out more of a gas called ____.  
@@ -626,14 +626,14 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
    **Answer:** To the lungs. *Why:* The right side of the heart sends blood to the lungs to pick up oxygen. It comes back to the left side, which sends it to the body. Picking 'brain' or 'toes' usually means picturing just one loop.
 2. (write) The wall of the left side of the heart is much thicker than the right. Explain why.  
    **Answer:** The left side has to push blood all round the body, to the head and down to the toes. The right side only pushes it a short way, to the lungs next door. A bigger job needs a stronger muscle.. *Why:* A strong answer compares the two journeys and links a longer push to a thicker muscle.
-3. (mcq) Divya pushes room air through one glass of limewater with a pump. She blows her breath through another. Before she starts, her friend Arjun says, 'The room-air glass will go milky, because room air has more oxygen.' What will happen?  
+3. (mcq) Divya, a girl in Class 4, pushes room air through one glass of limewater with a pump. She blows her breath through another. Before she starts, her friend Arjun says, 'The room-air glass will go milky, because room air has more oxygen.' What will happen?  
    Options: Only the breath glass goes milky, because breath has much more carbon dioxide / Only the room-air glass goes milky, because of the oxygen / Both stay clear / Both go milky at the same speed  
    **Answer:** Only the breath glass goes milky, because breath has much more carbon dioxide. *Why:* Limewater goes milky with carbon dioxide, not oxygen. Your cells make carbon dioxide, and you breathe it out. Breathed-out air has about 100 times more carbon dioxide than room air. Arjun is right that room air has more oxygen, but oxygen does not turn limewater milky.
 4. (truefalse) The air you breathe out has no oxygen left in it.  
    **Answer:** False. *Why:* False. Breathed-out air still has about 16 parts oxygen in every 100. You only use a little from each breath. That is why a rescue breath can help someone.
 5. (order) Put the path of air in order, from outside your body to your blood.  
    **Answer:** order shown. *Why:* Air goes in through the nose, down the windpipe, along branching tubes, into the tiny air sacs. Then oxygen passes into the blood.
-6. (mcq) In the upside-down bottle experiment, Revathi's ordinary breath pushed out about 300 ml of air. Her mother's pushed out about 500 ml. Revathi says, 'So my lungs are worse.' What is a better explanation?  
+6. (mcq) In the upside-down bottle experiment, the ordinary breath of Revathi, a girl in Class 3, pushed out about 300 ml of air. Her mother's pushed out about 500 ml. Revathi says, 'So my lungs are worse.' What is a better explanation?  
    Options: Revathi's body is smaller, so her lungs are smaller and she needs less air in each breath / Revathi was not trying / Her mother has three lungs / Adults breathe out water instead of air  
    **Answer:** Revathi's body is smaller, so her lungs are smaller and she needs less air in each breath. *Why:* A smaller body has smaller lungs and needs less air with each breath. Children also take more breaths each minute than grown-ups. So a smaller breath is not a worse one.
 7. (fill) Every cell uses ____ to break up food and get energy out. This is called respiration.  
@@ -692,11 +692,11 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 13. (mcq) Why can't we breathe on the Moon, even with strong lungs?  
    Options: There is no air there to push into our lungs / The Moon is too cold / The Moon is too bright / Our diaphragm stops working  
    **Answer:** There is no air there to push into our lungs. *Why:* Breathing in works because outside air pushes in when the diaphragm makes room. On the Moon there is no air at all, so nothing can push in. Astronauts take their own air with them.
-14. (write) Kavya wants to test if slow breathing calms the heart, like in the Cooling Cloud activity. Her brother says, 'Just count your pulse once before and once after.' How could Kavya make her test fairer and more sure?  
+14. (write) Kavya, a girl in Class 4, wants to test if slow breathing calms the heart, like in the Cooling Cloud activity. Her brother says, 'Just count your pulse once before and once after.' How could Kavya make her test fairer and more sure?  
    **Answer:** Count each time twice, because one count can be a mistake. Sit the same way the whole time, and rest first so the pulse is steady. Also try sitting for the same time with ordinary breathing, to see if just sitting slows the heart too.. *Why:* A strong answer repeats the counts, keeps everything else the same, and compares with ordinary breathing, so she knows it was the slow breathing that made the difference.
 15. (write) A person loses a lot of blood in an accident. Predict what happens to their heartbeat and breathing. Explain why.  
    **Answer:** Both speed up. With less blood, less oxygen reaches the cells in each beat. So the heart beats faster to move the blood that is left more often, and breathing gets faster to fill it with oxygen.. *Why:* A strong answer uses the idea that the body must keep oxygen reaching every cell, and links that to both the heart and the lungs.
-16. (write) In the jumping heart experiment, Revathi's pulse was 80 sitting, 140 just after jumping, and 95 after 2 minutes of rest. Her mother's was 70, 120, then 72. Whose heart got back to resting faster? What might that tell you?  
+16. (write) In the jumping heart experiment, Revathi, a girl in Class 4, had a pulse of 80 sitting, 140 just after jumping, and 95 after 2 minutes of rest. Her mother's was 70, 120, then 72. Whose heart got back to resting faster? What might that tell you?  
    **Answer:** Her mother's. It came back to 72, only 2 above her start. Revathi's was still 15 above hers. A heart that slows down quickly after exercise is often a fit, strong heart. Or her mother may have jumped less hard.. *Why:* A strong answer compares each person with their own starting number, not with each other, and gives a possible reason, including that the test may not have been the same for both.
 
 ## Videos
@@ -711,7 +711,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 2. (mcq) Where does blood go after it leaves the heart?  
    Options: Round the body and back to the heart / Out of the body / Into the stomach to be used up / It stays in the heart  
    **Answer:** Round the body and back to the heart. *Why:* Blood goes round in a loop and always comes back to the heart. Picking 'used up' was Galen's old idea, which William Harvey showed was wrong.
-3. (mcq) Meenakshi counted her pulse for 15 seconds and got 22 beats. About how many beats is that in one minute?  
+3. (mcq) Meenakshi, a girl in Class 3, counted her pulse for 15 seconds and got 22 beats. About how many beats is that in one minute?  
    Options: 88 / 44 / 22 / 37  
    **Answer:** 88. *Why:* One minute is four lots of 15 seconds. 22 + 22 + 22 + 22 = 88. Picking 44 means doubling, which gives only 30 seconds.
 4. (mcq) In the jumping heart experiment, when was the pulse fastest?  
@@ -726,7 +726,7 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 7. (mcq) How do you breathe out?  
    Options: The diaphragm relaxes and moves up, the chest gets smaller, and air is pushed out / The lungs suck the air out / The heart blows the air out / Air leaks out through the skin  
    **Answer:** The diaphragm relaxes and moves up, the chest gets smaller, and air is pushed out. *Why:* When the diaphragm relaxes, it goes back up like a dome. The chest gets smaller, and the air inside is squeezed out. Lungs do not move by themselves.
-8. (mcq) Lakshmi cut her knee. After a few minutes it stopped bleeding. Which part of her blood did that?  
+8. (mcq) A girl cut her knee. After a few minutes it stopped bleeding. Which part of her blood did that?  
    Options: Platelets, which stick together to plug the cut / Red blood cells, which carry oxygen / Plasma, the watery part / Oxygen  
    **Answer:** Platelets, which stick together to plug the cut. *Why:* Platelets are tiny pieces that stick together at a cut and help make a scab. Red blood cells carry oxygen. Plasma carries food and waste.
 9. (mcq) Blood from a clinic is left standing in a tube. A yellow, watery part rises to the top. What is it?  
@@ -827,9 +827,9 @@ Put your fingers flat on your own chest now. Wait. Feel the push. Somewhere unde
 - Why did the air sac love its job? *Every day was a breath of fresh air.*
 
 ## Connected maths
-- In the jumping heart experiment, Meera counted 42 heartbeats in 30 seconds while sitting still. How many heartbeats is that in one minute? **84 heartbeats in one minute.**. One minute is 60 seconds. That is two lots of 30 seconds. So Meera's heart beat 42 times, and then 42 times again. 42 + 42 = 84. Another way: 40 + 40 = 80, and 2 + 2 = 4, so 84. (queues `math.multiplication.equal-groups.L3`)
+- In the jumping heart experiment, Meera, a girl in Class 3, counted 42 heartbeats in 30 seconds while sitting still. How many heartbeats is that in one minute? **84 heartbeats in one minute.**. One minute is 60 seconds. That is two lots of 30 seconds. So Meera's heart beat 42 times, and then 42 times again. 42 + 42 = 84. Another way: 40 + 40 = 80, and 2 + 2 = 4, so 84. (queues `math.multiplication.equal-groups.L3`)
 - Look at the bar chart from the jumping heart experiment. Sitting still, the heart beat 88 times a minute. Just after jumping, it beat 148 times a minute. How many more beats a minute was that? **60 more beats a minute.**. We take the smaller number away from the bigger one. 148 take away 88. First take away 80: 148 - 80 = 68. Then take away 8 more: 68 - 8 = 60. So jumping added 60 beats a minute. Check: 88 + 60 = 148. (queues `math.data.bar-charts.L3`)
-- In the upside-down bottle experiment, Meenakshi's ordinary breath out pushed out 250 ml of air. Her biggest breath out pushed out 1,500 ml. How many ordinary breaths would fit into her biggest breath? **6 ordinary breaths.**. We want to know how many lots of 250 make 1,500. Count up: 250, 500, 750, 1,000, 1,250, 1,500. That is 6 jumps. So her biggest breath was 6 times her ordinary one. (queues `math.division.sharing-and-grouping.L3`)
+- In the upside-down bottle experiment, Meenakshi, a girl in Class 4, breathed out 250 ml of air in an ordinary breath. Her biggest breath out pushed out 1,500 ml. How many ordinary breaths would fit into her biggest breath? **6 ordinary breaths.**. We want to know how many lots of 250 make 1,500. Count up: 250, 500, 750, 1,000, 1,250, 1,500. That is 6 jumps. So her biggest breath was 6 times her ordinary one. (queues `math.division.sharing-and-grouping.L3`)
 - A child's heart pushes out about 40 ml of blood with each beat. That is about 8 teaspoons. A child has about 2,000 ml of blood in all. How many heartbeats does it take to push out 2,000 ml? **50 heartbeats, which is less than one minute.**. 10 beats push out 10 lots of 40 ml. That is 400 ml. 2,000 ml is 5 lots of 400 ml. So it takes 5 lots of 10 beats. That is 50 beats. A child's heart beats about 90 times a minute, so 50 beats takes well under a minute. This is the kind of sum William Harvey did. The heart pushes out all your blood in less than a minute. So the same blood must go round and round. (queues `math.multiplication.multiplication-facts.L3`)
 - In the squeeze like a heart activity, you squeezed a ball 60 times in one minute. A child's heart beats faster, about 100 times a minute. How many heartbeats is that in one hour? **About 6,000 heartbeats in one hour.**. There are 60 minutes in an hour. Each minute has about 100 heartbeats. 60 lots of 100 is 6,000. So a child's heart beats about 6,000 times every hour, day and night. In one day that is more than 100,000 beats. (queues `math.number-sense.place-value.L3`)
 

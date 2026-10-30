@@ -583,7 +583,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 15. (mcq) Your skin is the first to feel the heat. But which part of you decides to start sweating?  
    Options: Your skin itself / A small part of your brain called the hypothalamus / Your sweat  
    **Answer:** A small part of your brain called the hypothalamus. *Why:* The hypothalamus is about the size of an almond, deep inside the brain. Sensors send it messages. It compares your warmth with 'just right' and sends the order. The sweat glands only carry it out.
-16. (write) Predict. Meera runs on the spot for 2 minutes. Her face feels very hot. Will the thermometer under her arm show a big jump, like 5 degrees, or only a small one? Why?  
+16. (write) Predict. A girl runs on the spot for 2 minutes. Her face feels very hot. Will the thermometer under her arm show a big jump, like 5 degrees, or only a small one? Why?  
    **Answer:** Only a small one, less than a degree. Running makes extra heat, but her body gets rid of it fast. Warm blood goes to her skin, which is why her face feels hot, and she sweats. So the inside stays close to 37 degrees.. *Why:* A strong answer predicts a small change and explains it with the cooling tricks: blood to the skin and sweat. It notices that a hot face does not mean a hot inside. The My Steady Inside test checks this.
 ### Balance Keepers (stretch) (stretch, 16 questions)
 1. (mcq) A sweaty child sits in a closed, humid room. Why do they still feel hot?  
@@ -622,7 +622,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
    **Answer:** Lift the tiny hairs to trap a layer of warm air. *Why:* Goosebumps are tiny muscles pulling each hair upright. In a furry animal, like a cat, this traps a thick blanket of still, warm air. Our body does the same thing, even though our hairs are thin.
 15. (fill) The 'just right' number the body tries to stay at is called the ____ point.  
    **Answer:** ['set']. *Why:* The set point is like the number on an AC remote.
-16. (write) Predict. Kavitha comes out of a cool classroom into the noon sun to play kho-kho. Name two things her body will do in the next 10 minutes. Say how each one helps.  
+16. (write) Predict. A girl comes out of a cool classroom into the noon sun to play kho-kho. Name two things her body will do in the next 10 minutes. Say how each one helps.  
    **Answer:** She will sweat, and as the sweat dries it will carry heat away. Her cheeks will go red, because more warm blood flows near the skin to let heat out. She may also feel thirsty, because sweat takes water out of her.. *Why:* A strong answer names two real cooling tricks and says how each one works. Each trick is part of a loop: notice, decide, act.
 ### Hot Days and Big Questions (challenge) (challenge, 16 questions)
 1. (mcq) Remember the matka test, where a clay pot and a steel pot stood side by side with the same water? On which day would the matka cool its water best?  
@@ -679,11 +679,11 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 3. (mcq) After a bath, you stand wet in front of a fan and feel chilly. Why?  
    Options: The water on your skin dries and carries heat away / The fan makes cold air inside itself / Bath water is always colder than the air  
    **Answer:** The water on your skin dries and carries heat away. *Why:* The fan does not make cold air. It helps the water on your skin dry, and drying takes heat from you. Sweat cools you in the same way.
-4. (mcq) Lakshmi is shivering after a swim. What is the shivering doing for her?  
+4. (mcq) A girl is shivering after a swim. What is the shivering doing for her?  
    Options: Cooling her down / Making her sweat / Making heat with fast-working muscles  
    **Answer:** Making heat with fast-working muscles. *Why:* Shivering is muscles shaking fast. Working muscles make heat, so shivering warms her up.
-5. (mcq) After a long game of cricket in the sun, Imran feels thirsty. Why?  
-   Options: He lost water in sweat, his blood got a little saltier, and his brain noticed / Her tummy is empty / The sun dried her mouth from the outside  
+5. (mcq) After a long game of cricket in the sun, a boy feels thirsty. Why?  
+   Options: He lost water in sweat, his blood got a little saltier, and his brain noticed / His tummy is empty / The sun dried his mouth from the outside  
    **Answer:** He lost water in sweat, his blood got a little saltier, and his brain noticed. *Why:* Sweat takes water out of the body. The blood gets a little too salty, and the hypothalamus makes him feel thirsty. Picking 'tummy is empty' mixes up thirst with hunger.
 6. (mcq) Dark yellow pee usually means…  
    Options: You drank too much water / You need to drink more water / You are very cold / You ate too much sugar  

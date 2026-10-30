@@ -736,7 +736,7 @@ He lay very still and listened. The room was not empty after all. It never had b
    **Answer:** They are the same kind of electric signal, but they arrive at different parts of the brain. *Why:* No light or sound reaches the brain. Every sense sends the same kind of electric signal. The brain knows which is which by where it arrives. Picking 'one is light' is the most common idea, and it is the surprise of this unit.
 2. (order) Sound has reached the cochlea, the snail-shaped part deep in your ear. Put what happens next in order: the tufts on the hair cells bend, the nerve carries the signal to the brain, the liquid in the cochlea ripples, tiny gates in the hair cells open.  
    **Answer:** order shown. *Why:* The shaking makes the liquid ripple. The ripples bend the tufts on top of the hair cells. Bending opens tiny gates, and the cell makes an electric signal. The nerve carries it to the brain.
-3. (write) Revathi is 10. She plays music on earphones at full volume for hours every day. Loud sound can break the hair cells in the cochlea, and in people they do not grow back. What could happen to her hearing? What would you tell her?  
+3. (write) A girl of 10 She plays music on earphones at full volume for hours every day. Loud sound can break the hair cells in the cochlea, and in people they do not grow back. What could happen to her hearing? What would you tell her?  
    **Answer:** Over time she could lose some of her hearing, and it would not come back, because broken hair cells do not grow again in people. I would tell her to turn the volume down and take breaks.. *Why:* A strong answer links cause and effect: loud sound breaks hair cells, and lost hair cells mean lost hearing for good. Birds can grow new hair cells, and scientists are studying how, but people cannot yet.
 4. (mcq) Chilli feels 'hot' in your mouth. What is really happening?  
    Options: The chilli is really very hot / A chemical in chilli opens the gates of the nerve endings that warn of burning / Chilli is a sixth basic taste / Chilli makes your tongue bigger  
@@ -824,7 +824,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 4. (mcq) Your friend calls your name from your left side. How does your brain know the sound came from the left?  
    Options: Your left ear is the better ear / The sound reaches your left ear a tiny bit sooner and louder / Your brain guesses / You hear twice as much with two ears  
    **Answer:** The sound reaches your left ear a tiny bit sooner and louder. *Why:* The brain compares the two ears. The nearer ear hears the sound a little sooner and a little louder. Picking 'twice as much' misses that the clue is the difference between the ears.
-5. (mcq) Arjun has hard wax packed deep in his ear canal, and he hears less in that ear. Why?  
+5. (mcq) A girl has hard wax packed deep in her ear canal, and she hears less in that ear. Why?  
    Options: Less of the shaking air reaches his eardrum, so the eardrum shakes less / The wax eats the sound / His cochlea has stopped working / Wax makes sounds louder  
    **Answer:** Less of the shaking air reaches his eardrum, so the eardrum shakes less. *Why:* Sound has to travel down the ear canal and shake the eardrum. A plug of wax gets in the way. When a doctor clears the wax, his hearing comes back, because nothing deeper was harmed. Picking 'cochlea stopped' skips the first steps of the path.
 6. (mcq) A Braille reader reads with her fingertips, not with the back of her hand. Why?  

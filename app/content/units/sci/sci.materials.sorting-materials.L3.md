@@ -697,8 +697,8 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
    **Answer:** The glass bangle. It is not a metal, but it is shiny. A strong answer says the bangle stayed the same. Only the question changed, and each rule asks about a different property.. *Why:* One thing can belong to many groups, because each rule asks one question about it.
 4. (fill) A good sorting rule has a clear yes or no ____.  
    **Answer:** ['answer']. *Why:* A good rule gives a clear answer, yes or no, and the same answer whoever asks.
-5. (mcq) Anjali sorts a heap of things by the rule 'Is it big?'. Her friend Kavya uses the same rule on the same heap and gets different groups. What is the best fix?  
-   Options: Change the rule to 'Is it longer than my hand?' / Let Anjali decide, because she started / Sort the heap again by the same rule / Use a bigger heap  
+5. (mcq) A girl sorts a heap of things by the rule 'Is it big?'. Her friend uses the same rule on the same heap and gets different groups. What is the best fix?  
+   Options: Change the rule to 'Is it longer than my hand?' / Let the first girl decide, because she started / Sort the heap again by the same rule / Use a bigger heap  
    **Answer:** Change the rule to 'Is it longer than my hand?'. *Why:* 'Big' has no clear line, so two people answer differently. 'Longer than my hand' can be checked, so everyone gets the same answer. Sorting again by the same unclear rule will give the same muddle.
 6. (truefalse) If a thing does not fit any group, the best thing to do is throw it away.  
    **Answer:** False. *Why:* False. A thing that does not fit is useful. It may mean the rule is not clear, or that a new group is needed. Scientists have made new groups because of tricky things.
@@ -719,10 +719,10 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
    **Answer:** Two overlapping circles. A tomato or a red ball in the overlap. A red book in Red only. A coin in Round only. A pencil outside.. *Why:* A Venn diagram needs overlapping circles, labels and things placed by both rules.
 13. (perspective) Amma asks three girls to sort the kitchen drawer so that things are easy to find. Each girl has a different rule.  
    **Answer:** A strong answer ties the rule to the job: finding things quickly. Many children choose Farida's rule, because you look for a thing by what you need it for. It then gives a fair point for another rule, for example that Meena's rule is best for recycling, or that Swathi's rule helps you see everything at once.. *Why:* There is no single right way to sort. The best rule is the one that fits the job, and a different job needs a different rule.
-14. (mcq) Revathi hangs a steel tumbler and a plastic tumbler of the same shape from threads. She taps each one with a pencil. Which will ring for longer?  
+14. (mcq) A girl hangs a steel tumbler and a plastic tumbler of the same shape from threads. She taps each one with a pencil. Which will ring for longer?  
    Options: The steel tumbler / The plastic tumbler / Both the same, because the shape is the same  
    **Answer:** The steel tumbler. *Why:* Steel rings for a long time when tapped. Plastic gives a short, dull tap. The shape is the same, so the difference comes from the material. Picking 'both the same' trusts the shape and forgets the material.
-15. (mcq) Gowri has a heap of old clothes to give away. Some will go to a baby, and some to grown-ups. Which rule fits this job?  
+15. (mcq) A family has a heap of old clothes to give away. Some will go to a baby, and some to grown-ups. Which rule fits this job?  
    Options: Is it small enough for a baby? / Is it red? / Is it cotton? / Is it folded?  
    **Answer:** Is it small enough for a baby?. *Why:* The job is to send each piece of clothing to someone it fits, so the rule must be about size. Colour and cloth are real rules, but they do not help with this job.
 16. (truefalse) If two things look almost the same, they must be made of the same material.  
@@ -738,7 +738,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 4. (mcq) Key A asks 'Is it hard?' first and then splits each half again. Key B asks about one thing at a time. For eight things, which key never needs more than three questions?  
    Options: Key A / Key B / Both  
    **Answer:** Key A. *Why:* Key A halves the group each time: 8, 4, 2, 1. So it needs at most three questions. Key B can need seven. Picking Key B usually means counting the lucky first guess and forgetting the unlucky ones.
-5. (mcq) Zainab writes a key with the question 'Is it shiny or hard?'. Why is this a bad question for a key?  
+5. (mcq) A girl writes a key with the question 'Is it shiny or hard?'. Why is this a bad question for a key?  
    Options: It asks two things at once, so a thing that is shiny but soft has no clear yes or no / It is too short / A key may only ask about colour / Nothing is wrong with it  
    **Answer:** It asks two things at once, so a thing that is shiny but soft has no clear yes or no. *Why:* Each question in a key must ask about one property, so every thing gets one clear answer. A foil ball is shiny but soft: is that a yes or a no? Splitting it into 'Is it shiny?' and then 'Is it hard?' fixes the key.
 6. (truefalse) Rice pours like water, so rice is a liquid.  
@@ -756,7 +756,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
    **Answer:** steel paper clips from rice → Magnet; small stones from big stones → Sieve; light husk from heavy grain → Wind; plastic caps that float from stones that sink → Bowl of water. *Why:* Each tool uses a different rule. A magnet picks out certain metals. A sieve sorts by size. Wind sorts by weight. Water sorts by whether a thing floats.
 12. (write) Look back at your own One Heap, Three Rules results. Which thing changed group most often across your three rules? Why do you think that thing moved so much?  
    **Answer:** A strong answer names a real thing from the child's own sort and the groups it landed in. For example, the glass bangle was hard, shiny and not metal, so it was with the steel spoon in two sorts and away from it in the third. It explains that the thing has a mix of properties that the rules split differently.. *Why:* Using your own results is evidence. Things with an unusual mix of properties move the most.
-13. (mcq) Priya draws a Venn diagram with two circles, 'Metal' and 'Shiny'. She puts a glass marble in the overlap. What is her mistake?  
+13. (mcq) A girl draws a Venn diagram with two circles, 'Metal' and 'Shiny'. She puts a glass marble in the overlap. What is her mistake?  
    Options: Glass is not a metal, so the marble goes in the Shiny circle only / Glass is not shiny, so it goes outside both / There is no mistake / A marble cannot go in a Venn diagram  
    **Answer:** Glass is not a metal, so the marble goes in the Shiny circle only. *Why:* The overlap is only for things that fit both rules. The marble is shiny, but it is glass, not metal. Picking 'no mistake' is common, because shiny things often look like metal.
 14. (mcq) A school library puts its books in groups by subject: stories, science, history. Why not sort them by the colour of the cover?  
@@ -777,7 +777,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
    **Answer:** The program was taught with too few faces like theirs. *Why:* A program learns its rules from the examples it is given. If most examples look one way, it works best for them. Joy Buolamwini and Timnit Gebru showed this in 2018. It is a lesson in who is left out when the rule is built.
 4. (write) A pile does not change a rock. But a label can change how people treat a person. Why should we be careful when we sort people?  
    **Answer:** A person has many parts to them, and one rule hides most of them. People can feel hurt or left out. A sort can also be used unfairly.. *Why:* Good answers say that people belong to many groups at once, and that a single rule hides the rest. They may also mention fairness or feelings.
-5. (write) Thatha sorted the metal by colour and Hema sorted it by sound. Why did the bell sing only after the second sort?  
+5. (write) In the story The Bell That Would Not Sing, Thatha sorted the metal by colour and Hema sorted it by sound. Why did the bell sing only after the second sort?  
    **Answer:** Colour showed what the metal looked like, but not what it would sound like. A bell needs bell metal, which rings. Hema's sort used the property the bell needed.. *Why:* The rule must fit the job. A bell is for sound, so sorting by sound fits.
 6. (mcq) Twenty good yes or no questions can tell apart more than a million things. Why?  
    Options: Each good question halves the possibilities, and twenty halvings take more than a million things down to one / Each question adds a hundred / Twenty is a magic number / The questions are very long  
@@ -821,7 +821,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 3. (mcq) A brick is hard and dull. We sort by hard or soft, then by shiny or dull. What happens to the brick?  
    Options: It goes in the hard group, then in the dull group / It goes in the hard group both times / It goes in the soft group  
    **Answer:** It goes in the hard group, then in the dull group. *Why:* The same brick lands in a different named group each time, because each rule asks a different question. Picking 'hard both times' usually means the second rule was ignored.
-4. (mcq) Nila says, 'A steel spoon is in the metal group, so it cannot also be in the shiny group.' Is she right?  
+4. (mcq) A friend says, 'A steel spoon is in the metal group, so it cannot also be in the shiny group.' Is she right?  
    Options: No. Each rule asks a different question, so the spoon can be in both / Yes. A thing can only be in one group / Yes, because shiny is not a rule  
    **Answer:** No. Each rule asks a different question, so the spoon can be in both. *Why:* The spoon is metal and shiny and hard. Each rule asks a different question about it, so it belongs to a group under each rule. Picking 'only one group' is a common idea, but it holds only inside one sort.
 5. (mcq) A candle is hard, but a fingernail can mark it. What is the best way to settle where it goes?  
@@ -845,7 +845,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 11. (mcq) Selvi is a kabadiwala. She buys old things and sells them on. She keeps paper, glass and iron in separate piles. Why?  
    Options: Each material is recycled in its own way / She likes colours / It looks tidy  
    **Answer:** Each material is recycled in its own way. *Why:* The sort has a job: selling each material to a different buyer. Picking 'it looks tidy' misses the purpose.
-12. (mcq) Bhavani sorts the laundry before washing: white clothes in one bucket, coloured clothes in another. What is the job of this sort?  
+12. (mcq) A woman sorts the laundry before washing: white clothes in one bucket, coloured clothes in another. What is the job of this sort?  
    Options: To stop dye from coloured clothes staining the white ones / To make the buckets equally heavy / Because white clothes are a different material / To make the clothes dry faster  
    **Answer:** To stop dye from coloured clothes staining the white ones. *Why:* Some coloured cloth lets out dye in water, and the dye can stain white cloth. So the rule is colour, because that is what the job needs. Sorting by material would not help here: a white shirt and a red shirt can both be cotton.
 13. (mcq) Why did Mendeleev leave gaps in his table?  

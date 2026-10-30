@@ -2589,7 +2589,7 @@
     },
     {
      "t": "write",
-     "p": "Revathi keeps her tulsi plant on a sunny balcony. Her cousin keeps the same kind of plant in a dark bathroom with no window. Predict which plant will do better after a month, and explain using the needs of a habitat.",
+     "p": "A girl keeps her tulsi plant on a sunny balcony. Her cousin keeps the same kind of plant in a dark bathroom with no window. Predict which plant will do better after a month, and explain using the needs of a habitat.",
      "lines": 4,
      "a": "A strong answer predicts that the balcony plant will grow better. It says that plants use sunlight to make their own food, so the dark bathroom does not meet that need. It may add that the bathroom plant will grow pale, thin stems that lean towards any light.",
      "why": "Light is part of a plant's habitat, because plants make their food from sunlight, air and water."
@@ -2795,7 +2795,7 @@
     },
     {
      "t": "mcq",
-     "p": "Mitali's grandmother says: 'All bacteria are dirty. We should kill every one of them with strong soap.' A grown-up's body has about as many bacteria living in and on them as human cells. What is the best answer to Mitali's grandmother?",
+     "p": "A grandmother says: 'All bacteria are dirty. We should kill every one of them with strong soap.' A grown-up's body has about as many bacteria living in and on them as human cells. What is the best answer to her?",
      "opts": [
       "Most of those bacteria are harmless or helpful, and they help keep harmful germs out",
       "She is right: all bacteria make us ill",

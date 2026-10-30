@@ -657,14 +657,14 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
    **Answer:** A cyclist squeezes her brakes → slowed it down; A bowler throws a cricket ball → started it moving; A fielder catches the ball → stopped it; A girl kicks a rolling ball sideways → changed its direction. *Why:* Forces start things moving, stop them, speed them up, slow them down and turn them. Without a force, a moving thing would carry on just as it was.
 4. (fill) Any push or pull is called a ____.  
    **Answer:** ['force']. *Why:* A force is a push or a pull. Every force acts in a direction.
-5. (mcq) Gauri draws two arrows on a box. One arrow is short and one is long. What does the long arrow tell you?  
+5. (mcq) Two arrows are drawn on a box. One arrow is short and one is long. What does the long arrow tell you?  
    Options: That push is bigger / That push is slower / That push comes from further away / Nothing. Arrows only show direction  
    **Answer:** That push is bigger. *Why:* A force arrow shows two things: the way the force points, and how big it is. A longer arrow means a bigger force. Picking 'only direction' misses the size.
-6. (mcq) Rani sits on a towel on a smooth floor, facing a wall. She pushes the wall hard with her feet. Predict: which way will she move?  
+6. (mcq) A girl sits on a towel on a smooth floor, facing a wall. She pushes the wall hard with her feet. Predict: which way will she move?  
    Options: Towards the wall / Away from the wall / She will not move / Straight up  
    **Answer:** Away from the wall. *Why:* The wall pushes back on her, just as hard, so she slides away from it. Many people guess 'she will not move', because the wall is not alive and cannot push. But every push comes with a push back.
-7. (write) Rani was the one who pushed. So why did she slide away from the wall? Use the words push and back in your answer.  
-   **Answer:** When Rani pushed the wall, the wall pushed her back just as hard. That push back moved her away. The wall did not move, because it is fixed to the house.. *Why:* A strong answer says that forces come in pairs: her push on the wall, and the wall's push back on her.
+7. (write) The girl was the one who pushed. So why did she slide away from the wall? Use the words push and back in your answer.  
+   **Answer:** When the girl pushed the wall, the wall pushed her back just as hard. That push back moved her away. The wall did not move, because it is fixed to the house.. *Why:* A strong answer says that forces come in pairs: her push on the wall, and the wall's push back on her.
 8. (truefalse) A steel tumbler standing still on a shelf has no forces acting on it.  
    **Answer:** False. *Why:* False. Gravity pulls the tumbler down, and the shelf pushes it up just as hard. The two forces are balanced, so the tumbler stays still. In the bending ruler activity, you saw a ruler sag under a load, which shows it was pushing up.
 9. (forces) A mango hangs still from its stalk on a tree. Show the forces on the mango with arrows.  
@@ -680,7 +680,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
    **Answer:** The rope folds up and the ball stays where it is. *Why:* A rope can only pull. When you push it, it just folds up, like the rope in the story The Rope That Could Only Pull. To use a rope, you must pull, so you would have to loop it round the ball and pull from the other side.
 13. (draw) Draw a girl pulling a toy cart along with a string. Draw an arrow for the pull on the cart. Make the arrow start on the cart.  
    **Answer:** An arrow starting on the cart and pointing along the string, towards the girl.. *Why:* A strong drawing starts the arrow on the cart, because the cart is what the force acts on. It points the way the pull goes, along the string.
-14. (perspective) Kayal, her brother Arun and their grandmother are arguing about turning a tap on.  
+14. (perspective) A girl, her brother and their grandmother are arguing about turning a tap on.  
    **Answer:** Each has a real point. Where the fingers press on one side of the handle, that is a push. Where they hook round and drag the other side, that is a pull. The grandmother is right that a twist is special: it turns the handle round instead of moving it along. A strong answer notices that a twist is often a push on one side and a pull on the other, at the same time.. *Why:* A strong answer uses a real tap or lid, says which part of the hand pushes and which pulls, and gives fair credit to another view. There is no single right answer.
 15. (write) Think about your morning. Name one thing a force started moving, and one thing a force stopped. Say what pushed or pulled each one.  
    **Answer:** For example: I started the tap water by turning the tap, a push and a pull together. My hand stopped a rolling pencil by pushing against it.. *Why:* A strong answer names a real start and a real stop, and says which push or pull did each one.
@@ -696,7 +696,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
    **Answer:** It moves right, pushed by 10 newtons. *Why:* Opposite pushes work against each other. 30 take away 20 is 10. The bigger push points right, so the cupboard is pushed right with 10 newtons. In real life, friction with the floor might still stop it moving.
 3. (fill) Two forces are the same size and point opposite ways, so they cancel out. We call them ____ forces.  
    **Answer:** ['balanced']. *Why:* Balanced forces cancel each other out, so nothing about the motion changes. A thing at rest stays at rest.
-4. (write) Selvi flicks a carrom coin with the same strength two times. First she aims it at the top pocket, then at the left pocket. What stays the same about her flick, and what changes? Why does the coin go somewhere different?  
+4. (write) A girl flicks a carrom coin with the same strength two times. First she aims it at the top pocket, then at the left pocket. What stays the same about her flick, and what changes? Why does the coin go somewhere different?  
    **Answer:** The size of the flick stays the same, because she flicks equally hard. The direction changes. A force pushes a thing the way the force points, so a new direction sends the coin somewhere new.. *Why:* A strong answer separates the two parts of a force: its size and its direction. Changing only the direction is enough to change the result.
 5. (mcq) You blow on a ping-pong ball from the bottom of a tray. At the same moment, a friend blows on it from the left side, just as hard. Which way does the ball go?  
    Options: Straight up the tray / Straight to the right / Slantwise, towards the top right corner / It does not move  
@@ -717,7 +717,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 11. (forces) A girl drags a sack of rice to the right across the floor with a rope. Show the forces on the sack with arrows.  
    Options: rope pulls / friction / gravity / floor pushes up / magnet pull  
    **Answer:** rope pulls right, friction left, gravity down, floor pushes up up. *Why:* The rope pulls right. Friction works against the sliding, so it points left. Gravity pulls down, and the floor pushes up. There is no magnet here.
-12. (forces) Revathi hangs still from a bar in the park, holding on with both hands. Show the forces on Revathi with arrows.  
+12. (forces) A girl hangs still from a bar in the park, holding on with both hands. Show the forces on the girl with arrows.  
    Options: gravity / bar holds her up / push from behind / friction  
    **Answer:** gravity down, bar holds her up up. *Why:* Gravity pulls her down. The bar pulls her up through her hands and arms, just as hard, so she stays still. Nobody is pushing her, so there is no push from behind.
 13. (match) Match each thing to the force that moves it.  
@@ -777,7 +777,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 1. (mcq) Which of these is a force?  
    Options: A magnet pulling a pin / The colour of a ball / The length of a rope  
    **Answer:** A magnet pulling a pin. *Why:* A force is a push or a pull, and the magnet pulls. A colour or a length is something you can describe, but it does not push or pull anything.
-2. (mcq) Shreya squeezes half a lemon over her rice. Is her squeeze a push or a pull?  
+2. (mcq) A girl squeezes half a lemon over her rice. Is her squeeze a push or a pull?  
    Options: A push, from both sides / A pull / Neither  
    **Answer:** A push, from both sides. *Why:* Her fingers press on the lemon from both sides, so it is a push. Picking 'neither' means a squeeze was not seen as a force. But the juice comes out because she pushes.
 3. (mcq) A rolling ball reaches a rough doormat and stops. What stopped it?  

@@ -954,7 +954,7 @@
     },
     {
      "t": "write",
-     "p": "Lakshmi presses the left side of her chest and feels her heartbeat strongest there. She says, 'So my heart is on the left.' Why does the beat feel strongest there, if the heart is in the middle?",
+     "p": "A girl presses the left side of her chest and feels her heartbeat strongest there. She says, 'So my heart is on the left.' Why does the beat feel strongest there, if the heart is in the middle?",
      "lines": 3,
      "a": "The heart is in the middle, but its pointy bottom end tips to the left. That end squeezes hard and taps the chest wall on the left side. So the beat feels strongest there, even though most of the heart is in the middle.",
      "why": "A strong answer separates where the heart is from where you feel it. Feeling something in one place does not always tell you where all of it is."
@@ -1063,7 +1063,7 @@
     },
     {
      "t": "mcq",
-     "p": "Divya runs up the stairs to her flat on the fourth floor. At the top her heart is thumping and she is breathing fast. Why?",
+     "p": "A girl runs up the stairs to her flat on the fourth floor. At the top her heart is thumping and she is breathing fast. Why?",
      "opts": [
       "Her leg muscles need more oxygen, so her heart and lungs work faster to bring it",
       "Her stomach is hungry",
@@ -1157,7 +1157,7 @@
     },
     {
      "t": "write",
-     "p": "Swathi says, 'Chewing does not matter. The stomach does all the work.' Use the squish bag test and the mishri test to show what she has missed.",
+     "p": "A friend says, 'Chewing does not matter. The stomach does all the work.' Use the squish bag test and the mishri test to show what your friend has missed.",
      "lines": 4,
      "a": "Chewing breaks food into small bits before it reaches the stomach. In the mishri test, small bits disappeared faster than a whole lump, because more of them touched the water. So chewed food gives the stomach juices more surface to work on. The stomach then squeezes it, like the squish bag. Both steps help.",
      "why": "A strong answer finds the mistake and uses evidence from both tests. Chewing and churning are a team."
@@ -1243,7 +1243,7 @@
     },
     {
      "t": "write",
-     "p": "Riya holds her breath under water in a swimming pool. After about half a minute she has to come up and breathe, even though she wants to stay down. Which organ makes her breathe again, and why?",
+     "p": "A girl holds her breath under water in a swimming pool. After about half a minute she has to come up and breathe, even though she wants to stay down. Which organ makes her breathe again, and why?",
      "lines": 4,
      "a": "Her brain. While she holds her breath, her cells keep using oxygen and making a waste gas called carbon dioxide. The waste gas builds up in her blood. Her brain senses it and sends strong messages to her diaphragm to breathe. That is why she cannot hold her breath for ever.",
      "why": "A strong answer names the brain and says what it notices: waste gas building up in the blood. Breathing is controlled by the brain, even while we are busy with something else."
@@ -2257,7 +2257,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Make the four signs. Your child is the BRAIN, sitting on a chair. You are the HEART. Toys are LUNGS and STOMACH.",
-     "say": "You are the Brain Mayor. You get messages and send orders. I am the heart. I drum the beat. Teddy is the lungs. Dolly is the stomach.",
+     "say": "You are the Brain Mayor. You get messages and send orders. I am the heart. I drum the beat. Pick a toy to be the lungs and another toy to be the stomach.",
      "kid": "You are the brain. You get messages and give orders. Who is the heart? Who are the lungs and stomach?",
      "context": "This is the first step of the Body Council, a drama game where family members act as organs."
     },
@@ -2844,7 +2844,7 @@
   },
   {
    "t": "mcq",
-   "p": "Malini laughs while eating a murukku, and a crumb goes 'down the wrong way'. She coughs hard. Where did the crumb go, and why does she cough?",
+   "p": "A girl laughs while eating a murukku, and a crumb goes 'down the wrong way'. She coughs hard. Where did the crumb go, and why does she cough?",
    "opts": [
     "Into her windpipe, which leads to the lungs, so the cough blasts it back out",
     "Into her stomach too early",
@@ -2909,7 +2909,7 @@
   },
   {
    "t": "mcq",
-   "p": "Before a big race, Ishita's tummy feels fluttery and her heart thumps. Which is the best explanation?",
+   "p": "Before a big race, your tummy feels fluttery and your heart thumps. Which is the best explanation?",
    "opts": [
     "Her brain sends 'get ready' messages along nerves to her gut as well as her heart",
     "Her stomach has moved up into her chest",

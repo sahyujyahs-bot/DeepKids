@@ -715,7 +715,7 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
    **Answer:** The feather is once alive. The feather was part of a living crow, but no longer grows. *Why:* A feather grew on a living bird, so the feather is once alive. On the balcony, the feather does none of the signs of life. The crow, flying off somewhere, is still alive.
 15. (truefalse) A flower picked from a plant is still alive for a while.  
    **Answer:** True. *Why:* True. A freshly picked flower still takes in water and respires for a few days. Then the flower slowly dies, because they can no longer get food and water from the plant.
-16. (mcq) Kavya turns a sprouting moong seed upside down, so the root points up. Predict what the root will do over the next day.  
+16. (mcq) A girl turns a sprouting moong seed upside down, so the root points up. Predict what the root will do over the next day.  
    Options: Keep growing upwards / Stop growing for ever / Bend round and grow downwards again / Fall off the seed  
    **Answer:** Bend round and grow downwards again. *Why:* Roots sense gravity and grow down, wherever the seed is facing. This is sensing and movement at the same time.
 ### Where Is the Line? (challenge) (challenge, 16 questions)

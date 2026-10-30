@@ -661,7 +661,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 
 ## Worksheets
 ### Material Detective (core) (core, 16 questions)
-1. (mcq) Revathi drops an old brown clay flower pot and it breaks into small pieces. What are the pieces made of?  
+1. (mcq) An old brown clay flower pot is dropped and breaks into small pieces. What are the pieces made of?  
    Options: Baked clay / Flower pot / Small pots / Soil and seeds  
    **Answer:** Baked clay. *Why:* The flower pot is the object. Baked clay is the material, what it is made of. Breaking an object changes its shape, not its material. A strong answer names the material, not the object's name.
 2. (sort) On the Three-Heap Walk, you sort what you find into three heaps. Sort these.  
@@ -670,7 +670,7 @@ She did not sell it. She gave a pinch to everyone who passed.
    **Answer:** False. *Why:* False. A factory always starts with something from nature: sand, wood, oil, ore or cotton. It changes that material. It never makes material out of nothing. A strong answer names what one factory starts with.
 4. (match) Match each made thing to the raw material it started as.  
    **Answer:** a steel spoon → iron ore dug from the ground; a newspaper → wood from trees; a brick → clay; a coir rope → the husk of a coconut. *Why:* Every made thing can be traced back to something from nature. Coir comes from the hairy outside of a coconut.
-5. (mcq) Divya says, 'A wooden table is natural, because wood is natural.' What has she forgotten?  
+5. (mcq) A girl says, 'A wooden table is natural, because wood is natural.' What has she forgotten?  
    Options: A carpenter cut and joined the wood, so the table was made by people / Wood is not really natural / Tables grow on trees / Nothing, she is right  
    **Answer:** A carpenter cut and joined the wood, so the table was made by people. *Why:* The material, wood, is natural. But people made the table from it. A strong answer looks at both the material and what people did to it.
 6. (fill) A natural material before people change it, like cotton fluff or iron ore, is called a ____ material.  
@@ -682,7 +682,7 @@ She did not sell it. She gave a pinch to everyone who passed.
    **Answer:** For example: my steel plate. A factory pressed it from a sheet of steel. The steel was made from iron melted out of iron ore. The iron ore was dug out of the ground.. *Why:* A strong answer ends in nature, a plant, an animal, the ground, the sea or the air, and each step is a real change people made.
 9. (order) Put the steps of making a clay diya in order.  
    **Answer:** order shown. *Why:* The clay is hidden in the soil. People separate it, shape it, dry it, then bake it. A strong answer puts drying before baking, because wet clay cracks in the fire.
-10. (mcq) Kavya puts a plate of sea water and a plate of rainwater in the sun. What will be left on each plate when it is dry?  
+10. (mcq) A plate of sea water and a plate of rainwater are put in the sun. What will be left on each plate when it is dry?  
    Options: Salt on the sea water plate, and almost nothing on the rainwater plate / Salt on both plates / Nothing on either plate / Sugar on the rainwater plate  
    **Answer:** Salt on the sea water plate, and almost nothing on the rainwater plate. *Why:* The salt was hidden in the sea water from the start. Rainwater has almost no salt. The sun takes only the water away. Picking 'salt on both' means thinking the sun makes salt. It only leaves behind what was already there.
 11. (write) In the story, Kashi first thought salt was made in a building with chimneys and machines. What did she see at the stone hollow that changed her mind?  
@@ -704,10 +704,10 @@ She did not sell it. She gave a pinch to everyone who passed.
    **Answer:** Sooner than the plate in still shade, because moving air helps water leave. *Why:* Moving air carries away the water that has gone into the air, so more can leave. But the fan does not warm it like the sun. So it would dry sooner than the plate in still shade. Whether it beats the sunny plate is harder to say, so you would test it. A strong answer is a reasoned guess, then a test.
 2. (write) In the paper experiment, you looked closely at the torn edge of a newspaper. What did you see? What does it tell you paper is made of?  
    **Answer:** A strong answer says the torn edge was hairy, with tiny threads sticking out. These are plant fibres, usually from trees. So paper is a flat mat of tangled plant fibres.. *Why:* The child's own look is the evidence. The answer should link what they saw to the plant the paper came from.
-3. (mcq) In the paper experiment, Arjun mixed dried grass into one sheet. That sheet was rougher and tore more easily. How can he be sure the grass caused this?  
+3. (mcq) In the paper experiment, a boy mixed dried grass into one sheet. That sheet was rougher and tore more easily. How can he be sure the grass caused this?  
    Options: Use the same amount of pulp, press and dry both sheets the same way, and change only the grass / Make the grass sheet bigger / Dry the grass sheet in the sun and the other in the shade / Make only one sheet  
    **Answer:** Use the same amount of pulp, press and dry both sheets the same way, and change only the grass. *Why:* In a fair test, only one thing changes. If the sheets were pressed or dried differently, that could cause the roughness instead. A strong answer names what stays the same.
-4. (mcq) Lakshmi heats two cups of the same milk. She adds 1 teaspoon of vinegar to one and 4 teaspoons to the other. What will she probably see?  
+4. (mcq) A girl heats two cups of the same milk. She adds 1 teaspoon of vinegar to one and 4 teaspoons to the other. What will she probably see?  
    Options: More lumps in the cup with 4 teaspoons / More lumps in the cup with 1 teaspoon / The same lumps in both / No lumps in either  
    **Answer:** More lumps in the cup with 4 teaspoons. *Why:* Vinegar makes the casein in milk come together into lumps. More vinegar makes more of it come together, up to a point. A strong answer links the amount of vinegar to the amount of lumps.
 5. (sort) Sort these by where their material came from.  
@@ -765,7 +765,7 @@ She did not sell it. She gave a pinch to everyone who passed.
    **Answer:** Made materials are now mixing into the Earth itself. *Why:* The rock, called plastiglomerate, is part natural and part made. A strong answer says our made materials do not disappear. They end up in the land and the sea.
 11. (write) In 1897, factory indigo began to be sold, much cheaper than plant indigo. Imagine you are an indigo farmer in Bihar who was forced to grow it. Would you be glad? What might worry you?  
    **Answer:** A strong answer gives both sides. Glad: I would no longer be forced to grow indigo, and could grow food for my family. Worried: people who earned money from making plant indigo would lose their work.. *Why:* A made copy of a natural material changes the lives of the people who grew it. There is no single right answer.
-12. (mcq) Divya says, 'Natural things are always safe, and things made by people are always harmful.' Which pair shows she is wrong both ways?  
+12. (mcq) A girl says, 'Natural things are always safe, and things made by people are always harmful.' Which pair shows she is wrong both ways?  
    Options: Snake venom is natural and harmful. A steel spoon is made by people and safe. / Honey is natural and safe. Plastic waste is made by people and harmful. / A neem leaf is natural. A brick is made by people. / Rain is natural and safe.  
    **Answer:** Snake venom is natural and harmful. A steel spoon is made by people and safe.. *Why:* Venom is natural but can kill. A steel spoon was made by people and is safe to eat with. Picking honey and plastic agrees with Divya instead of testing her rule. A strong answer judges each material by what it does, not by where it came from.
 13. (draw) Draw the journey of one iron atom in four pictures: made inside a star, thrown into space, part of the young Earth, and now in your steel kadai.  
@@ -786,7 +786,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 1. (mcq) A tumbler can be made of steel, glass or plastic. Steel, glass and plastic are…  
    Options: Objects / Materials / Sources / Atoms  
    **Answer:** Materials. *Why:* They are materials, what objects are made of. Picking 'objects' mixes up the thing and what it is made of.
-2. (mcq) Ammu traces her woollen shawl back to nature. Which step comes first?  
+2. (mcq) A girl traces her woollen shawl back to nature. Which step comes first?  
    Options: A sheep grows a coat of wool / The wool is spun into yarn / The yarn is knitted into a shawl / The shawl is sold in a shop  
    **Answer:** A sheep grows a coat of wool. *Why:* The journey starts with the sheep, who grows the wool. Then people cut it, spin it and knit it. Picking 'sold in a shop' starts at the end of the journey instead of in nature.
 3. (mcq) Glass is made mostly from…  
@@ -909,7 +909,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 
 ## Connected maths
 - One litre of sea water has about 35 grams of salt hidden in it. A salt maker dries 4 litres in a pan. About how much salt does she get? **About 140 grams.**. Each litre gives 35 grams. 4 litres is 4 lots of 35 grams. 35 + 35 = 70. 70 + 70 = 140. So 4 × 35 = 140 grams. That is about half a cup of salt. (queues `math.multiplication.equal-groups.L3`)
-- On the Three-Heap Walk, Meenakshi found 7 once-living things, 4 never-living things and 5 things made by people. Draw a bar chart. How many things did she find altogether? How many were natural? **16 things altogether. 11 were natural.**. Altogether: 7 + 4 + 5 = 16. The natural things are the once-living and the never-living ones: 7 + 4 = 11. The bar chart has three bars: 7, 4 and 5 tall. (queues `math.data.bar-charts.L3`)
+- On the Three-Heap Walk, a girl found 7 once-living things, 4 never-living things and 5 things made by people. Draw a bar chart. How many things did she find altogether? How many were natural? **16 things altogether. 11 were natural.**. Altogether: 7 + 4 + 5 = 16. The natural things are the once-living and the never-living ones: 7 + 4 = 11. The bar chart has three bars: 7, 4 and 5 tall. (queues `math.data.bar-charts.L3`)
 - Your wet clay diya weighed 120 grams. After 2 days of drying, it weighed 95 grams. How much water went into the air? **25 grams of water.**. The clay did not go anywhere. Only the water left. So the water is the difference: 120 − 95 = 25 grams. Check: 95 + 25 = 120. (queues `math.weight-capacity.weight.L3`)
 - Bakelite, the first plastic made completely from chemicals, was invented in 1907. Galalith, the milk plastic, was invented in 1897. How many years apart were they? How many years ago was Bakelite invented, if this year is 2026? **10 years apart. Bakelite was invented 119 years ago.**. 1907 − 1897 = 10 years. For the second part: 2026 − 1907. From 1907 to 2007 is 100 years. From 2007 to 2026 is 19 more. 100 + 19 = 119 years. (queues `math.addition-subtraction.word-problems.L3`)
 - You spun a cotton thread 10 centimetres long in 1 minute. If you kept spinning at the same speed, how long would your thread be after 5 minutes? After 10 minutes? **50 centimetres after 5 minutes. 100 centimetres, which is 1 metre, after 10 minutes.**. Each minute adds 10 cm. After 5 minutes: 5 × 10 = 50 cm. After 10 minutes: 10 × 10 = 100 cm. 100 cm is 1 metre. A cotton sari is woven from many kilometres of thread, so hand spinning takes a very long time. (queues `math.multiplication.equal-groups.L3`)

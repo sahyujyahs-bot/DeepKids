@@ -1104,7 +1104,7 @@
     },
     {
      "t": "fill",
-     "p": "A bucket holds about 15 litres. Kavitha uses 2 full buckets of water for her bath. She uses ____ litres.",
+     "p": "A bucket holds about 15 litres. A girl uses 2 full buckets of water for her bath. She uses ____ litres.",
      "a": [
       "30",
       "thirty"
@@ -1446,7 +1446,7 @@
     },
     {
      "t": "write",
-     "p": "Arjun's family boils their drinking water every morning. Then they keep it in an open bucket on the floor and dip a tumbler in to drink. By evening, is the water still safe? What would you tell him to change?",
+     "p": "A family boils their drinking water every morning. Then they keep it in an open bucket on the floor and dip a tumbler in to drink. By evening, is the water still safe? What would you tell them to change?",
      "lines": 4,
      "a": "It may not be safe any more. Germs can get back in from dust, flies, and hands or tumblers dipped into the bucket. Keep the boiled water covered, up off the floor, and pour it out with a ladle or a tap instead of dipping in.",
      "why": "A strong answer sees that boiling only kills the germs that are there at that moment. Germs can come back in, so clean water must also be stored safely."
@@ -3483,7 +3483,7 @@
   },
   {
    "t": "mcq",
-   "p": "Meenakshi counted her family's water on a Sunday, when everyone was home and all the clothes were washed. Why might one Sunday not show how much they usually use?",
+   "p": "A girl counted her family's water on a Sunday, when everyone was home and all the clothes were washed. Why might one Sunday not show how much they usually use?",
    "opts": [
     "Different days use different amounts, so it is better to count on a few days",
     "Water is heavier on Sundays",
@@ -3495,7 +3495,7 @@
   },
   {
    "t": "mcq",
-   "p": "A shower uses about 10 litres of water each minute. Kavya's shower takes 8 minutes. A bucket bath uses one 15-litre bucket. How much water does the bucket bath save?",
+   "p": "A shower uses about 10 litres of water each minute. A girl's shower takes 8 minutes. A bucket bath uses one 15-litre bucket. How much water does the bucket bath save?",
    "opts": [
     "65 litres",
     "80 litres",

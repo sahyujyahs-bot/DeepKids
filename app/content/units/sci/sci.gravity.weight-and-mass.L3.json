@@ -2525,7 +2525,7 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya hangs 100 grams of rice on a forcemeter, and it reads about 1 newton. 200 grams reads about 2 newtons. What should 500 grams read?",
+     "p": "A girl hangs 100 grams of rice on a forcemeter, and it reads about 1 newton. 200 grams reads about 2 newtons. What should 500 grams read?",
      "opts": [
       "About 5 newtons",
       "About 3 newtons",
@@ -2539,7 +2539,7 @@
     },
     {
      "t": "write",
-     "p": "Lakshmi reads the forcemeter while the bag on it is still bouncing up and down. Why might her number be wrong? What should she do?",
+     "p": "A girl reads the forcemeter while the bag on it is still bouncing up and down. Why might her number be wrong? What should she do?",
      "lines": 3,
      "a": "A strong answer says that while the bag bounces, the spring pulls up sometimes more and sometimes less than gravity pulls down. So the pointer swings. She should wait until the bag hangs still, then read the scale with her eyes level with the pointer.",
      "why": "Only when the bag is still does the spring pull up exactly as hard as gravity pulls down. Then the reading is the weight.",
@@ -2591,7 +2591,7 @@
     },
     {
      "t": "mcq",
-     "p": "Meenakshi stands on a steel stool. Gravity pulls her down. Why doesn't she sink into the stool?",
+     "p": "A girl stands on a steel stool. Gravity pulls her down. Why doesn't she sink into the stool?",
      "opts": [
       "The stool pushes up on her just as hard as she presses down",
       "Gravity does not pull people indoors",
@@ -2610,7 +2610,7 @@
     },
     {
      "t": "mcq",
-     "p": "Divya hangs a stone on a forcemeter. It reads 3 newtons in the air. She lowers it all the way under water. What do you predict it will read?",
+     "p": "A girl hangs a stone on a forcemeter. It reads 3 newtons in the air. She lowers it all the way under water. What do you predict it will read?",
      "opts": [
       "Less than 3 newtons",
       "More than 3 newtons",
@@ -2994,7 +2994,7 @@
     },
     {
      "t": "mcq",
-     "p": "Selvi stands with one foot on each of two bathroom scales. Both read 15 kilograms. She lifts her left foot. What does the right scale read now?",
+     "p": "A girl stands with one foot on each of two bathroom scales. Both read 15 kilograms. She lifts her left foot. What does the right scale read now?",
      "opts": [
       "About 30 kilograms",
       "About 15 kilograms",
@@ -3007,7 +3007,7 @@
     },
     {
      "t": "write",
-     "p": "Sowmya stands on two bathroom scales, one foot on each. One reads 14 kilograms and the other reads 16. Her brother says the scales must be broken, because they do not match. Is he right? Explain.",
+     "p": "Sowmya, a girl in Class 4, stands on two bathroom scales, one foot on each. One reads 14 kilograms and the other reads 16. Her brother says the scales must be broken, because they do not match. Is he right? Explain.",
      "lines": 4,
      "a": "A strong answer says no. Sowmya is probably leaning a little to one side, so one foot presses harder. The total, 30 kilograms, is what she weighs. Leaning moves her weight between the scales, but the total stays the same.",
      "why": "Each scale shows how hard it is pushing up. Together they hold up all of her.",
@@ -3364,7 +3364,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya's school bag has a mass of 3 kilograms. What do the 3 kilograms tell you?",
+   "p": "A school bag has a mass of 3 kilograms. What do the 3 kilograms tell you?",
    "opts": [
     "How much matter is in the bag",
     "How hard the Earth pulls the bag",
@@ -3436,7 +3436,7 @@
   },
   {
    "t": "mcq",
-   "p": "Lakshmi pulls a full bucket up from a well. It feels easy while it is still under the water, then suddenly heavy as it comes out. Why?",
+   "p": "A girl pulls a full bucket up from a well. It feels easy while it is still under the water, then suddenly heavy as it comes out. Why?",
    "opts": [
     "Under the water, the water pushes up on the bucket",
     "The bucket loses some water as it rises",

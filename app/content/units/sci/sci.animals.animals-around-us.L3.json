@@ -2054,7 +2054,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Kavya sees a pigeon on her window ledge at 4 pm today. Can she write 'Sitting on the ledge at 4 pm is this pigeon's habit'?",
+     "p": "A girl sees a pigeon on her window ledge at 4 pm today. Can she write 'Sitting on the ledge at 4 pm is this pigeon's habit'?",
      "opts": [
       "Yes, because she saw it happen.",
       "Not yet. She needs to see it happen again on many days.",
@@ -2062,7 +2062,7 @@
       "No, because pigeons do not have habits."
      ],
      "a": 1,
-     "why": "A habit is something done again and again. One sighting shows only one afternoon. If Kavya sees the pigeon there at about 4 pm on most days of a week, then she can call it a habit. Picking 'yes, she saw it' mixes up one event with a pattern."
+     "why": "A habit is something done again and again. One sighting shows only one afternoon. If she sees the pigeon there at about 4 pm on most days of a week, then she can call it a habit. Picking 'yes, she saw it' mixes up one event with a pattern."
     },
     {
      "t": "mcq",
@@ -2222,7 +2222,7 @@
     },
     {
      "t": "perspective",
-     "p": "Two pigeons have started a nest on the air-conditioner box outside Meenakshi's flat.",
+     "p": "Meenakshi, a girl in Class 3, lives in a flat. Two pigeons have started a nest on the air-conditioner box outside it.",
      "views": [
       {
        "who": "Meenakshi's mother",
@@ -2271,7 +2271,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Lakshmi did the Busy Times test on just one rainy morning. Only 2 birds came to the bowl. She wrote 'Birds do not drink in the morning.' What is wrong with that?",
+     "p": "A girl did the Busy Times test on just one rainy morning. Only 2 birds came to the bowl. She wrote 'Birds do not drink in the morning.' What is wrong with that?",
      "opts": [
       "Nothing. She saw it herself.",
       "One rainy day can be unusual. She should count on more days.",
@@ -2306,7 +2306,7 @@
     },
     {
      "t": "write",
-     "p": "Divya wipes a short piece of an ant trail with a wet cloth. What will the ants do in the first minute? What will they do after 5 minutes? Explain why.",
+     "p": "A girl wipes a short piece of an ant trail with a wet cloth. What will the ants do in the first minute? What will they do after 5 minutes? Explain why.",
      "lines": 4,
      "a": "In the first minute, ants reaching the wiped piece will stop, turn and wander, because the smell trail is gone. After about 5 minutes, a few ants will have found their way across and laid new smell, so the line will be back.",
      "why": "A strong answer predicts both times and says why: ants follow a smell trail that other ants lay, and the trail comes back once ants walk over the gap again.",
@@ -2380,7 +2380,7 @@
     },
     {
      "t": "perspective",
-     "p": "Farhan's Paati, his grandmother, throws cooked rice to the street crows every morning.",
+     "p": "A grandmother, Paati, throws cooked rice to the street crows every morning.",
      "views": [
       {
        "who": "Paati",
@@ -2777,7 +2777,7 @@
   },
   {
    "t": "mcq",
-   "p": "Meenakshi watched a squirrel for 10 minutes at 7 am every day for a week. On 6 of the 7 days, the squirrel ate from the guava tree. What is the best claim?",
+   "p": "A girl watched a squirrel for 10 minutes at 7 am every day for a week. On 6 of the 7 days, the squirrel ate from the guava tree. What is the best claim?",
    "opts": [
     "The squirrel often eats guavas in the early morning.",
     "The squirrel eats nothing but guavas.",

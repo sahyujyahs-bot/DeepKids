@@ -659,7 +659,7 @@ That night, under the stars, the whole village ate together round the fires of U
    **Answer:** The long ramp, but you must push for a longer way. *Why:* A longer ramp to the same height needs a smaller push, but over a longer distance. Picking 'no catch' means the machine was thought to give something for nothing. No machine does.
 9. (write) In the ramp test, you pulled a loaded toy truck up to the same height on different ramps. Before you started, which ramp did you guess would stretch the rubber band least? Why? What did the test show?  
    **Answer:** For example: I guessed the long gentle ramp, because a slope you can walk up easily feels less hard. The test showed the long ramp stretched the band least, and lifting straight up stretched it most.. *Why:* A strong answer gives the guess, the reason, and the real result, and says whether the guess was right.
-10. (mcq) Divya needs to move a heavy box of books across the floor. Which way is easiest?  
+10. (mcq) A girl needs to move a heavy box of books across the floor. Which way is easiest?  
    Options: Rolling it on round pencils / Dragging it along the floor / Lifting and carrying it  
    **Answer:** Rolling it on round pencils. *Why:* Rollers touch the floor at only a few thin lines, so there is much less rubbing, called friction. Picking 'dragging' means only the box's weight was counted. How it touches the floor matters too.
 11. (fill) A doorknob is a big wheel fixed to a thin rod. This simple machine is called a wheel and ____.  
@@ -735,7 +735,7 @@ That night, under the stars, the whole village ate together round the fires of U
    **Answer:** The bucket weighs just the same. The pulley only lets you pull down instead of up. *Why:* A single fixed pulley changes the direction of your pull, not its size. Pulling down is easier, because you can use your own weight. To need a smaller pull, you must use more pulleys together, and then you pull a longer length of rope.
 7. (perspective) Who should get the credit for the lever? Here are three views.  
    **Answer:** Each view has truth in it. The textbook is wrong that he discovered it, because people used levers long before. The historian is right about who invented and used it, often women working a dhenki and farmers at a shaduf, whose names were not written down. The scientist is right that proving the rule mattered. A strong answer might share the credit.. *Why:* A strong answer separates using an idea, inventing it and explaining it, and gives a reason for where the credit should go.
-8. (fill) Thangam lifts a bucket that pulls down with 20 newtons, using two pulleys. Now she needs only 10 newtons of pull. To raise the bucket 1 metre, she must pull ____ metres of rope.  
+8. (fill) A girl lifts a bucket that pulls down with 20 newtons, using two pulleys. Now she needs only 10 newtons of pull. To raise the bucket 1 metre, she must pull ____ metres of rope.  
    **Answer:** ['2', 'two']. *Why:* Half the pull means twice the distance. 20 newtons for 1 metre is the same as 10 newtons for 2 metres. Pulleys, like every machine, never give something for nothing. Picking half a metre means the trade was thought to go both ways at once.
 9. (mcq) A screw is a ramp wrapped round a rod. Why does a screw grip wood so strongly?  
    Options: Many turns of a small push move it in only a little, with a big force / It is sharp / It is made of iron / It is glued  
@@ -751,7 +751,7 @@ That night, under the stars, the whole village ate together round the fires of U
    **Answer:** Archimedes is right about the rule: weight times distance must match, so a far-out push can balance a huge load. Sunita is right about the real world: no material is that stiff, there is nowhere to stand, and the trade of a small push for a long distance makes the distance impossibly long.. *Why:* A strong answer uses the rule, and also the trade of push for distance. It sees that the idea is right while the plan is impossible.
 14. (write) A wheelbarrow carries a heavy load of bricks. Where are its fulcrum, load and effort? Why is it easier than carrying the bricks?  
    **Answer:** The fulcrum is the wheel. The load is the bricks in the middle. The effort is my hands lifting the handles. My hands are further from the wheel than the bricks, so I lift with a smaller force. The wheel also rolls instead of dragging.. *Why:* A wheelbarrow is a lever with the load in the middle, and it has a wheel, so it uses two simple machines.
-15. (write) Lavanya wants to crack a hard walnut with a nutcracker. Should she put the nut close to the hinge, or near the tips of the handles? Explain using fulcrum, load and effort.  
+15. (write) A girl wants to crack a hard walnut with a nutcracker. Should she put the nut close to the hinge, or near the tips of the handles? Explain using fulcrum, load and effort.  
    **Answer:** Close to the hinge. The hinge is the fulcrum, the nut is the load, and her hand at the end of the handles is the effort. With the nut near the fulcrum and her hand far away, a small squeeze becomes a big crush on the nut. Near the tips, her hand and the nut would be almost the same distance from the hinge, so there is no gain.. *Why:* A strong answer names the three parts, and uses the lever rule: the further the effort is from the fulcrum compared with the load, the smaller the push needed.
 16. (draw) Draw your own design for a machine that lifts a bucket of water from a well, using at least two simple machines. Label each one.  
    **Answer:** Any design using two or more simple machines, labelled. For example: a lever like a shaduf with a stone counterweight, and a pulley wheel.. *Why:* Real machines often combine simple machines.
@@ -780,7 +780,7 @@ That night, under the stars, the whole village ate together round the fires of U
 6. (mcq) 1 coin sits 8 cm from the pencil on a ruler see-saw. How far away must 4 coins sit, on the other side, to balance it?  
    Options: 2 cm / 8 cm / 32 cm  
    **Answer:** 2 cm. *Why:* 1 times 8 is 8, and 4 times 2 is 8. The heavier side sits closer in. Picking 8 cm matches the place but forgets the weight. Picking 32 cm moves the heavy side further out instead of closer in.
-7. (mcq) Instead of the steps, Kamala pushes her grandmother's wheelchair up a long, gentle ramp. What does the ramp cost her?  
+7. (mcq) Instead of the steps, A girl pushes her grandmother's wheelchair up a long, gentle ramp. What does the ramp cost her?  
    Options: She must push for a longer way / She needs a bigger push / Nothing at all  
    **Answer:** She must push for a longer way. *Why:* A ramp trades a smaller push for a longer distance. Picking 'nothing at all' means the machine was thought to give something for nothing.
 8. (mcq) A knife is a wedge. Why does a sharp knife cut more easily than a blunt one?  
@@ -798,7 +798,7 @@ That night, under the stars, the whole village ate together round the fires of U
 12. (mcq) These are made-up results from the ramp test. Which way of going up needed the smallest pull?  
    Options: Lifted straight up / Short, steep ramp / Long, gentle ramp  
    **Answer:** Long, gentle ramp. *Why:* The shortest bar is the long, gentle ramp, so it needed the smallest pull. Picking 'straight up' may mean the tallest bar was read as the best. Here a taller bar means more pull.
-13. (mcq) Tara lifts a rock with a long crowbar. Her push is only one tenth as big as the rock's weight. The rock rises 1 cm. How far does her hand move down?  
+13. (mcq) A girl lifts a rock with a long crowbar. Her push is only one tenth as big as the rock's weight. The rock rises 1 cm. How far does her hand move down?  
    Options: About 10 cm / About 1 cm / About one tenth of a centimetre  
    **Answer:** About 10 cm. *Why:* A machine trades push for distance. One tenth of the push means about ten times the distance, so her hand moves about 10 cm. Picking 1 cm means she was thought to get a smaller push for free.
 14. (mcq) A long spanner and a short spanner turn the same tight nut. Which needs the smaller push, and what is the catch?  

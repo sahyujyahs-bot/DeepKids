@@ -685,7 +685,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
    **Answer:** We have a body clock that keeps a rough rhythm of sleeping and waking. But without daylight to reset it, it drifts, so he lost count of the days.. *Why:* Body clocks run close to 24 hours. Daylight resets them each morning. Without it, they slowly drift.
 15. (draw) Draw the Earth from above the North Pole as a circle. Draw an arrow showing which way it spins. Draw the Sun on the left. Mark where it is sunrise.  
    **Answer:** The arrow goes anticlockwise. The Sun is on the left. Sunrise is on the edge where places are just turning from the dark side into the light.. *Why:* Seen from above the North Pole, the Earth turns anticlockwise. Sunrise happens on the edge turning towards the Sun.
-16. (write) Pooja says, 'When it is noon in Chennai, it is noon everywhere on Earth.' Use the torch and ball to show what she has missed.  
+16. (write) A friend says, 'When it is noon in Chennai, it is noon everywhere on Earth.' Use the torch and ball to show what she has missed.  
    **Answer:** Noon is when your place faces the Sun most directly. On the ball, only one line of places faces the torch straight on at a time. Places to the east have already passed their noon. Places to the west have not reached it. On the far side of the ball, it is midnight.. *Why:* A strong answer finds the mistake and uses the model: noon moves round the Earth as it spins, just like sunrise does.
 ### Puzzles of the Spinning Earth (challenge) (challenge, 16 questions)
 1. (mcq) A star rises above a rooftop at 9:00 tonight. When will it rise above the same rooftop tomorrow?  
@@ -736,7 +736,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 1. (mcq) Right now it is night in Chennai. What is the Sun doing?  
    Options: Still shining, on the side of the Earth that faces it / Switched off until morning / Hiding behind the Moon / Resting behind the hills  
    **Answer:** Still shining, on the side of the Earth that faces it. *Why:* The Sun never stops shining. Chennai has simply turned away from it. On the other side of the Earth, it is daytime.
-2. (mcq) Nithya says, 'At night, we are in the Earth's own shadow.' Is she right?  
+2. (mcq) A girl says, 'At night, we are in the Earth's own shadow.' Is she right?  
    Options: Yes. Night is when our place is on the far side of the Earth, which the Earth itself shades from the Sun / No. Night is the Moon's shadow / No. Night is when clouds cover the Sun / No. Shadows only happen in the day  
    **Answer:** Yes. Night is when our place is on the far side of the Earth, which the Earth itself shades from the Sun. *Why:* The Earth blocks sunlight from reaching its far side, just as the ball shades its back from the torch. So the night half of the Earth is in the Earth's own shadow. Picking 'the Moon's shadow' gives the Moon a job it does not do.
 3. (mcq) In the torch and ball experiment, the torch stays still. What makes a dot on the ball go from day into night?  
@@ -771,7 +771,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 13. (mcq) Why do we use a model, like a torch and a ball, to understand day and night?  
    Options: We are tiny and stand on the Earth, so we cannot see it turn from where we are / Because the real Sun is switched off at night / Because the Earth is flat / Because models are always more correct than the real thing  
    **Answer:** We are tiny and stand on the Earth, so we cannot see it turn from where we are. *Why:* From the ground, it looks as if the Sun moves and the Earth stands still. A model lets us look from outside, the way an astronaut would, and see the turning. Picking 'models are always more correct' goes too far: a model is only useful if it matches what we see.
-14. (mcq) Roja's aunt flies from Chennai to New York, on the other side of the world. For a few days she feels sleepy at lunchtime and wide awake at night. Why?  
+14. (mcq) A woman flies from Chennai to New York, on the other side of the world. For a few days she feels sleepy at lunchtime and wide awake at night. Why?  
    Options: Her body clock is still on Chennai time / The air on the plane made her tired / New York has no proper night / She ate too much  
    **Answer:** Her body clock is still on Chennai time. *Why:* Lunchtime in New York is night-time in Chennai. Her body clock keeps home time until a few days of New York daylight reset it. This is called jet lag.
 15. (mcq) A touch-me-not plant was kept in a dark cupboard. Their leaves still opened and closed each day. What does this show?  

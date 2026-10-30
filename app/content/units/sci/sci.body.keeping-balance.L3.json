@@ -1030,7 +1030,7 @@
     },
     {
      "t": "write",
-     "p": "Predict. Meera runs on the spot for 2 minutes. Her face feels very hot. Will the thermometer under her arm show a big jump, like 5 degrees, or only a small one? Why?",
+     "p": "Predict. A girl runs on the spot for 2 minutes. Her face feels very hot. Will the thermometer under her arm show a big jump, like 5 degrees, or only a small one? Why?",
      "lines": 3,
      "a": "Only a small one, less than a degree. Running makes extra heat, but her body gets rid of it fast. Warm blood goes to her skin, which is why her face feels hot, and she sweats. So the inside stays close to 37 degrees.",
      "why": "A strong answer predicts a small change and explains it with the cooling tricks: blood to the skin and sweat. It notices that a hot face does not mean a hot inside. The My Steady Inside test checks this.",
@@ -1195,7 +1195,7 @@
      "p": "People disagree about how much water a child should drink each day.",
      "views": [
       {
-       "who": "A poster at Nandhini's school",
+       "who": "A poster at a school",
        "says": "Drink 8 glasses of water every day, thirsty or not."
       },
       {
@@ -1247,7 +1247,7 @@
     },
     {
      "t": "write",
-     "p": "Predict. Kavitha comes out of a cool classroom into the noon sun to play kho-kho. Name two things her body will do in the next 10 minutes. Say how each one helps.",
+     "p": "Predict. A girl comes out of a cool classroom into the noon sun to play kho-kho. Name two things her body will do in the next 10 minutes. Say how each one helps.",
      "lines": 3,
      "a": "She will sweat, and as the sweat dries it will carry heat away. Her cheeks will go red, because more warm blood flows near the skin to let heat out. She may also feel thirsty, because sweat takes water out of her.",
      "why": "A strong answer names two real cooling tricks and says how each one works. Each trick is part of a loop: notice, decide, act."
@@ -2626,7 +2626,7 @@
   },
   {
    "t": "mcq",
-   "p": "Lakshmi is shivering after a swim. What is the shivering doing for her?",
+   "p": "A girl is shivering after a swim. What is the shivering doing for her?",
    "opts": [
     "Cooling her down",
     "Making her sweat",
@@ -2638,11 +2638,11 @@
   },
   {
    "t": "mcq",
-   "p": "After a long game of cricket in the sun, Imran feels thirsty. Why?",
+   "p": "After a long game of cricket in the sun, a boy feels thirsty. Why?",
    "opts": [
     "He lost water in sweat, his blood got a little saltier, and his brain noticed",
-    "Her tummy is empty",
-    "The sun dried her mouth from the outside"
+    "His tummy is empty",
+    "The sun dried his mouth from the outside"
    ],
    "a": 0,
    "why": "Sweat takes water out of the body. The blood gets a little too salty, and the hypothalamus makes him feel thirsty. Picking 'tummy is empty' mixes up thirst with hunger.",

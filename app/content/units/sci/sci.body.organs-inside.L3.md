@@ -542,7 +542,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 - **record:** Draw one scene as a comic strip with four boxes.
 - **s1 (3 min)**  
   *Parent does:* Make the four signs. Your child is the BRAIN, sitting on a chair. You are the HEART. Toys are LUNGS and STOMACH.  
-  *Parent says:* You are the Brain Mayor. You get messages and send orders. I am the heart. I drum the beat. Teddy is the lungs. Dolly is the stomach.  
+  *Parent says:* You are the Brain Mayor. You get messages and send orders. I am the heart. I drum the beat. Pick a toy to be the lungs and another toy to be the stomach.  
   *Child mode:* You are the brain. You get messages and give orders. Who is the heart? Who are the lungs and stomach?
 - **s2 (4 min)**  
   *Parent does:* Act out 'A dog barks suddenly'. The brain hears it and orders the heart to drum faster and the lungs to breathe faster. The stomach stops for a while.  
@@ -685,7 +685,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 2. (mcq) Put your hand where you think your heart is. Most people put it far over on the left. Where is the heart really?  
    Options: Far over on the left, under the arm / In the middle of the chest, behind the breastbone, tipped a little to the left / Low in the belly / Just under the neck  
    **Answer:** In the middle of the chest, behind the breastbone, tipped a little to the left. *Why:* The heart sits in the middle of the chest, behind the flat breastbone. Only its pointy bottom end tips to the left. That is why so many people guess 'far left'.
-3. (write) Lakshmi presses the left side of her chest and feels her heartbeat strongest there. She says, 'So my heart is on the left.' Why does the beat feel strongest there, if the heart is in the middle?  
+3. (write) A girl presses the left side of her chest and feels her heartbeat strongest there. She says, 'So my heart is on the left.' Why does the beat feel strongest there, if the heart is in the middle?  
    **Answer:** The heart is in the middle, but its pointy bottom end tips to the left. That end squeezes hard and taps the chest wall on the left side. So the beat feels strongest there, even though most of the heart is in the middle.. *Why:* A strong answer separates where the heart is from where you feel it. Feeling something in one place does not always tell you where all of it is.
 4. (fill) The hard bony box that keeps your brain safe is called the ____.  
    **Answer:** ['skull']. *Why:* The skull works like a helmet. It is hard so a bump does not reach the soft brain inside.
@@ -702,7 +702,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
    **Answer:** The egg in the empty jar. *Why:* The egg in the empty jar banged against the hard sides and cracked. The water slowed the other egg down, so it moved with the jar. A strong answer says what was seen, not only which jar.
 10. (write) Your brain floats in a clear liquid inside your skull. Use what you saw in the egg in the jar test to explain how that liquid helps.  
    **Answer:** In the empty jar, the egg crashed into the hard sides and cracked. In the jar of water, the water cushioned the egg, so it did not hit the sides hard. The liquid around my brain does the same. When I jump or bump my head, it stops my brain banging against my skull.. *Why:* A strong answer uses the test as evidence: what happened in each jar, then how the brain is like the egg.
-11. (mcq) Divya runs up the stairs to her flat on the fourth floor. At the top her heart is thumping and she is breathing fast. Why?  
+11. (mcq) A girl runs up the stairs to her flat on the fourth floor. At the top her heart is thumping and she is breathing fast. Why?  
    Options: Her leg muscles need more oxygen, so her heart and lungs work faster to bring it / Her stomach is hungry / Her brain has gone to sleep / She is cold  
    **Answer:** Her leg muscles need more oxygen, so her heart and lungs work faster to bring it. *Why:* Climbing makes the leg muscles work hard, so they need more oxygen. The lungs breathe faster to take in more. The heart beats faster to carry it in the blood. The brain sends the messages that speed them both up.
 12. (fill) When you breathe in, the air goes down your windpipe and into your two ____.  
@@ -724,7 +724,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 3. (mcq) In the squish bag test, the squished biscuit broke up faster. What does the squishing in your real stomach?  
    Options: The stomach's muscle walls / Your teeth / Your ribs / Your lungs pressing on it  
    **Answer:** The stomach's muscle walls. *Why:* The stomach is a stretchy bag with walls made of muscle. The walls squeeze and churn food for hours, like your hands on the bag. Teeth do their work earlier, in the mouth.
-4. (write) Swathi says, 'Chewing does not matter. The stomach does all the work.' Use the squish bag test and the mishri test to show what she has missed.  
+4. (write) A friend says, 'Chewing does not matter. The stomach does all the work.' Use the squish bag test and the mishri test to show what your friend has missed.  
    **Answer:** Chewing breaks food into small bits before it reaches the stomach. In the mishri test, small bits disappeared faster than a whole lump, because more of them touched the water. So chewed food gives the stomach juices more surface to work on. The stomach then squeezes it, like the squish bag. Both steps help.. *Why:* A strong answer finds the mistake and uses evidence from both tests. Chewing and churning are a team.
 5. (order) Put these in order, the way air travels when you breathe in: lungs, nose, tiny air bags, windpipe.  
    **Answer:** order shown. *Why:* Air goes in at the nose, down the windpipe, into the lungs, and right to the tiny air bags at the ends of the branches. There, oxygen passes into the blood.
@@ -742,7 +742,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
    **Answer:** It has a dent to make room for the heart. *Why:* The heart's pointy end tips to the left, so the left lung has a dent for it. You found this when you packed the chest with dough. Both lungs grow at the same speed.
 11. (perspective) Three girls in a Class 3 group are arguing about which organ is the boss of the body.  
    **Answer:** A strong answer picks a side and backs it with a real fact. For Nandini: the brain speeds up the heart when you run or are scared. For Revathi: the brain dies within minutes without blood, and the heart starts its own beat. For Usha: the heart needs oxygen from the lungs, and the lungs need the brain's messages to speed up. The answer-back must use a fact too, not just 'she is wrong'.. *Why:* Scientists still describe the body in different ways. Some see the brain as a control centre. Others see a team. Each side has real evidence.
-12. (write) Riya holds her breath under water in a swimming pool. After about half a minute she has to come up and breathe, even though she wants to stay down. Which organ makes her breathe again, and why?  
+12. (write) A girl holds her breath under water in a swimming pool. After about half a minute she has to come up and breathe, even though she wants to stay down. Which organ makes her breathe again, and why?  
    **Answer:** Her brain. While she holds her breath, her cells keep using oxygen and making a waste gas called carbon dioxide. The waste gas builds up in her blood. Her brain senses it and sends strong messages to her diaphragm to breathe. That is why she cannot hold her breath for ever.. *Why:* A strong answer names the brain and says what it notices: waste gas building up in the blood. Breathing is controlled by the brain, even while we are busy with something else.
 13. (match) Match each bone to the soft part it protects.  
    **Answer:** Skull → brain; Ribs → heart and lungs; Backbone → spinal cord, the thick nerve down your back. *Why:* Hard bones guard soft organs. The skull is a box, the ribs are a cage, and the backbone is a tube of small bones that the spinal cord runs through.
@@ -806,7 +806,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 3. (mcq) On an X-ray of the chest, two big dark patches fill most of the space inside the ribs. What are they?  
    Options: The heart / The stomach / The lungs / The ribs  
    **Answer:** The lungs. *Why:* The lungs are full of air, and air lets X-rays through, so they look dark. They are big, filling most of the chest on both sides of the heart.
-4. (mcq) Malini laughs while eating a murukku, and a crumb goes 'down the wrong way'. She coughs hard. Where did the crumb go, and why does she cough?  
+4. (mcq) A girl laughs while eating a murukku, and a crumb goes 'down the wrong way'. She coughs hard. Where did the crumb go, and why does she cough?  
    Options: Into her windpipe, which leads to the lungs, so the cough blasts it back out / Into her stomach too early / Up into her brain / Into her heart  
    **Answer:** Into her windpipe, which leads to the lungs, so the cough blasts it back out. *Why:* Food and air both pass the back of the throat. A small flap usually closes the windpipe when you swallow. If you laugh or talk, it can stay open. The lungs are only for air, so the body coughs to push the crumb out.
 5. (mcq) A person's lungs are working well, but their heart stops. Why are they in danger?  
@@ -821,7 +821,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 8. (mcq) Your ribs have gaps, and they can swing up and out. Why are they not one solid shell?  
    Options: So the chest can get bigger when the lungs fill with air / So food can get out / To make you lighter / Because they are still growing  
    **Answer:** So the chest can get bigger when the lungs fill with air. *Why:* When you breathe in, the ribs swing out and the diaphragm pulls down. The chest gets bigger and air rushes into the lungs. A solid shell would not let it grow.
-9. (mcq) Before a big race, Ishita's tummy feels fluttery and her heart thumps. Which is the best explanation?  
+9. (mcq) Before a big race, your tummy feels fluttery and your heart thumps. Which is the best explanation?  
    Options: Her brain sends 'get ready' messages along nerves to her gut as well as her heart / Her stomach has moved up into her chest / Her lungs have stopped working / Her heart has dropped into her tummy  
    **Answer:** Her brain sends 'get ready' messages along nerves to her gut as well as her heart. *Why:* When you are nervous, the brain sends messages along nerves to many organs at once. The heart speeds up, and the gut slows down or squeezes oddly. That fluttery feeling shows the organs are linked by nerves.
 10. (mcq) In the egg in the jar test, we used the same kind of jar, the same size of egg and the same number of shakes. Why?  

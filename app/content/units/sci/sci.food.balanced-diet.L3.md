@@ -629,7 +629,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
    **Answer:** A balanced diet means eating many kinds of food, in about the right amounts, over a day or a week. It does not mean eating less. For example, in my home we eat idli with sambar in the morning, rice, dal and poriyal at lunch, and fruit in the evening.. *Why:* A strong answer says 'many kinds' and 'over a day or a week', and gives a real example from the child's own meals.
 3. (sort) Sort these foods by their main job in your body.  
    **Answer:** ragi mudde → Go (energy); idli → Go (energy); moong dal → Grow (body-building); boiled egg → Grow (body-building); keerai → Glow (protecting); papaya → Glow (protecting). *Why:* Ragi and idli are mostly starch, which gives energy. Dal and egg give protein to build the body. Keerai, which is spinach and other greens, and papaya give vitamins, minerals and fibre. Many foods do more than one job, so this is each food's main job.
-4. (mcq) Meenakshi says, "Potato is a vegetable. So a plate of rice and potato curry is half vegetables." What is the mistake in her thinking?  
+4. (mcq) A girl says, "Potato is a vegetable. So a plate of rice and potato curry is half vegetables." What is the mistake in her thinking?  
    Options: Potato is mostly starch, so in the body it acts more like rice than like greens / Potato is not a plant / There is no mistake  
    **Answer:** Potato is mostly starch, so in the body it acts more like rice than like greens. *Why:* Potato grows in the soil like a vegetable, but it is mostly starch, which gives energy. So that plate is nearly all energy food. Greens, beans, carrots or gourds would fill the vegetable half.
 5. (fill) Food is broken into tiny pieces that are small enough to pass into the ____, which carries them to every cell.  
@@ -648,7 +648,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
    **Answer:** Protein → builds muscles, hair and skin; Calcium → makes bones and teeth hard; Iron → helps the blood carry oxygen; Vitamin C → helps mend cuts and take in iron. *Why:* Each nutrient has its own jobs. Protein builds the body. Calcium hardens bones. Iron carries oxygen in the blood. Vitamin C helps mend skin and take in iron from plant foods.
 11. (order) Put the journey of a spoon of dal in order.  
    **Answer:** ['mouth', 'stomach', 'small intestine', 'blood', 'muscle cell']. *Why:* The dal is chewed in the mouth. Acid and enzymes break it down in the stomach. In the small intestine it is cut into tiny pieces called amino acids. These pass into the blood. A muscle cell builds them into their own protein.
-12. (write) Lakshmi loves dosa and wants to eat only dosa, every meal, every day. Dosa gives energy and some protein. What would her body be short of, and why?  
+12. (write) A girl loves dosa and wants to eat only dosa, every meal, every day. Dosa gives energy and some protein. What would her body be short of, and why?  
    **Answer:** She would be short of vitamins like vitamin C, minerals like calcium and iron, and fibre, because dosa has very little of these. No single food has every nutrient. So she needs vegetables, fruit, curd or milk too.. *Why:* A strong answer names at least two missing nutrients and gives the main idea: no single food has everything.
 13. (draw) Draw a balanced thali. Show the half for vegetables and fruit, and the two quarters.  
    **Answer:** A plate with half vegetables and fruit, a quarter grains, a quarter protein foods like dal or curd, and a glass of water.. *Why:* Drawing the plate in parts helps you remember the amounts: half vegetables and fruit, a quarter each for grains and protein.
@@ -691,8 +691,8 @@ When the first leaves came, small and round and green, I picked a handful. I was
    **Answer:** Bacteria in the mouth eat the sugar and make acid that eats holes in teeth. *Why:* Bacteria living in your mouth feed on sugar and make acid. The acid slowly dissolves the hard outside of the tooth, making holes. The harm comes from living bacteria, not from the sugar scratching.
 14. (draw) Draw the journey of a chapati from your mouth to a brain cell, in four boxes.  
    **Answer:** Mouth (chewing and spit), stomach and small intestine (cut into glucose), blood (carrying glucose), brain cell (burning glucose for energy).. *Why:* A strong drawing shows the three big ideas: food is broken down, carried by the blood, and used in a cell.
-15. (write) Nila is 9 and growing fast. Her grandmother is 70. They eat the same dal. Why might they need different amounts of food?  
-   **Answer:** Nila is growing, so her cells need extra protein and minerals to build new bone and muscle. She also runs about a lot and burns more energy for her size. Her grandmother has stopped growing, so she may need less food, but still all the same kinds.. *Why:* A strong answer says that growing and moving use extra food, and that both still need many kinds.
+15. (write) A girl is 9 and growing fast. Her grandmother is 70. They eat the same dal. Why might they need different amounts of food?  
+   **Answer:** The girl is growing, so her cells need extra protein and minerals to build new bone and muscle. She also runs about a lot and burns more energy for her size. Her grandmother has stopped growing, so she may need less food, but still all the same kinds.. *Why:* A strong answer says that growing and moving use extra food, and that both still need many kinds.
 ### Thinking Like a Food Scientist (challenge) (challenge, 15 questions)
 1. (perspective) Trillions of tiny living beings called microbes live in your gut. They eat the fibre you cannot digest. People disagree about whether they are part of you.  
    **Answer:** A strong answer picks a side and gives a reason from the science, for example that microbes make acids that feed the cells of the large intestine, or that they have their own genes. It then answers back fairly from another view.. *Why:* Scientists and thinkers really do argue about this. Each view has evidence, so the strength is in the reasons.
@@ -770,7 +770,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
 11. (mcq) What do gut microbes mostly eat?  
    Options: Fibre that we cannot digest / Only sugar / Our blood  
    **Answer:** Fibre that we cannot digest. *Why:* Fibre passes through to the large intestine undigested, and gut microbes feast on it. They make acids that feed our gut cells in return. Picking 'only sugar' fits the yeast in a bottle. But our own body takes up most sugar before it reaches the gut microbes.
-12. (mcq) Meera eats white bread and no vegetables or fruit for a whole week. What happens to her gut microbes?  
+12. (mcq) A girl eats white bread and no vegetables or fruit for a whole week. What happens to her gut microbes?  
    Options: Many of them go hungry, because they get very little fibre / They grow more, because bread has sugar / Nothing. Gut microbes do not need food  
    **Answer:** Many of them go hungry, because they get very little fibre. *Why:* Gut microbes live mostly on fibre, which comes from vegetables, fruit, dals and whole grains. White bread has little fibre, so many microbes go hungry. Our own body takes up the sugar from bread before it reaches them.
 13. (mcq) Your friend says 'sweets are bad food'. What does science say?  

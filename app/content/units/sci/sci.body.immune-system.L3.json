@@ -970,7 +970,7 @@
     },
     {
      "t": "write",
-     "p": "Kavya says, 'Germs can only get inside you through a cut.' Name two other doors into the body that germs can use. Say which wall guards each one.",
+     "p": "A friend says, 'Germs can only get inside you through a cut.' Name two other doors into the body that germs can use. Say which wall guards each one.",
      "lines": 3,
      "a": "The eyes are a door, and tears guard them. The nose is a door, and mucus and nose hairs guard it. The mouth is a door, and saliva and stomach acid guard it.",
      "why": "A strong answer names two real doors (eyes, nose, mouth) and the right wall for each. This is why we wash our hands before touching our face or eating."
@@ -1054,11 +1054,11 @@
     },
     {
      "t": "mcq",
-     "p": "Dust tickles the inside of Farida's nose, and she sneezes. What is the sneeze doing for her?",
+     "p": "Dust tickles the inside of your nose, and you sneeze. What is the sneeze doing for you?",
      "opts": [
-      "Pulling more dust deep into her chest",
-      "Blowing the dust and germs, caught in mucus, out of her nose",
-      "Warming up her nose"
+      "Pulling more dust deep into your chest",
+      "Blowing the dust and germs, caught in mucus, out of your nose",
+      "Warming up your nose"
      ],
      "a": 1,
      "why": "A sneeze is the nose's wall at work. The mucus catches dust and germs, and the sneeze blasts them out. A strong answer says what is thrown out and why it helps."
@@ -1095,7 +1095,7 @@
     },
     {
      "t": "write",
-     "p": "Predict. Anu blinks about 15 times a minute while she chats. While she reads an exciting book, she blinks only about 5 times a minute. After an hour of reading, how might her eyes feel? Why?",
+     "p": "Predict. A girl blinks about 15 times a minute while she chats. While she reads an exciting book, she blinks only about 5 times a minute. After an hour of reading, how might her eyes feel? Why?",
      "lines": 3,
      "a": "Her eyes might feel dry, tired or itchy. Each blink spreads tears over the eye to wet it and wash it. With fewer blinks, the eyes get less washing and dry out.",
      "why": "A strong answer links blinking to tears, and tears to the eye's wall. It might add a fix: look up from the book and blink now and then.",
@@ -1122,9 +1122,9 @@
     },
     {
      "t": "write",
-     "p": "Challenge the belief. Sneha's grandmother says, 'You went out with wet hair, so you caught a cold.' Sneha says, 'A cold is caused by a virus.' Who is right, and how could both be partly right?",
+     "p": "Challenge the belief. A girl's grandmother says, 'You went out with wet hair, so you caught a cold.' The girl says, 'A cold is caused by a virus.' Who is right, and how could both be partly right?",
      "lines": 3,
-     "a": "Sneha is right that a cold needs a virus. Without the virus, wet hair cannot give you a cold. But some studies suggest that a cold nose fights viruses a little less well. So getting chilly might help a virus that is already there.",
+     "a": "The girl is right that a cold needs a virus. Without the virus, wet hair cannot give you a cold. But some studies suggest that a cold nose fights viruses a little less well. So getting chilly might help a virus that is already there.",
      "why": "A strong answer says what causes a cold (a virus) and then treats the grandmother's idea fairly. Scientists are still studying how cold weather affects colds."
     },
     {
@@ -2477,12 +2477,12 @@
       ],
       "rows": [
        [
-        "Amma",
+        "Parent",
         "18",
         "6"
        ],
        [
-        "Meenakshi",
+        "Child",
         "14",
         "5"
        ]
@@ -3064,7 +3064,7 @@
   },
   {
    "t": "mcq",
-   "p": "A splinter goes into Ammu's finger. Which sign shows that her body is fighting germs at that spot?",
+   "p": "A splinter goes into a girl's finger. Which sign shows that her body is fighting germs at that spot?",
    "opts": [
     "Her finger turns blue and cold",
     "Nothing changes at all",
@@ -3088,7 +3088,7 @@
   },
   {
    "t": "mcq",
-   "p": "Nila's temperature is 36.8 degrees Celsius in the morning and 37.2 after playing. Does she have a fever?",
+   "p": "A child's temperature is 36.8 degrees Celsius in the morning and 37.2 after playing. Does the child have a fever?",
    "opts": [
     "Yes, because it went up",
     "No. Both are normal, and a fever is 38 or more",
@@ -3409,7 +3409,7 @@
    "why_maths": "A thermometer only helps if you can read its number and compare it with the fever line at 38."
   },
   {
-   "problem": "Meenakshi's mother blinked 18 times in one minute while talking. If she kept blinking at the same speed, how many times would she blink in 5 minutes of talking?",
+   "problem": "A mother blinked 18 times in one minute while talking. If she kept blinking at the same speed, how many times would she blink in 5 minutes of talking?",
    "answer": "90 times.",
    "explain": "18 blinks each minute, for 5 minutes. 18 times 5 is 90. You can also add: 18 + 18 + 18 + 18 + 18 = 90. That is 90 fresh washes of tears on each eye.",
    "math_unit": "math.multiplication.equal-groups.L3",

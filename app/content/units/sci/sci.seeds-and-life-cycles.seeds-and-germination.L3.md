@@ -635,7 +635,7 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
 14. (mcq) Why do we put 10 seeds in each cup, not just 1?  
    Options: Because one seed might be dead, and 10 give a fairer answer / Because seeds get lonely / Because 10 is a lucky number  
    **Answer:** Because one seed might be dead, and 10 give a fairer answer. *Why:* Some seeds don't sprout even when everything is right. If we used only one, a single dead seed could fool us. With 10, one dead seed matters much less.
-15. (write) Kavya sows a moong seed in a pot of dry soil on a sunny windowsill. She never waters the pot. Will the seed sprout? Explain.  
+15. (write) A girl sows a moong seed in a pot of dry soil on a sunny windowsill. She never waters the pot. Will the seed sprout? Explain.  
    **Answer:** No. The seed has warmth and air, and sunlight, but no water. Water is what wakes a seed up. Sunlight does not help a seed start, because the seed has their own food.. *Why:* A strong answer names the missing need, water, and says that the sun does not make up for it.
 16. (truefalse) A seed that swells up in water must be alive.  
    **Answer:** False. *Why:* False. A boiled seed swells up in water too, like a sponge, but never sprouts. Swelling is only the seed soaking up water. Sprouting a root shows that a seed is alive.
@@ -663,9 +663,9 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
 9. (mcq) Rice seeds are unusual. What can they do that most seeds can't?  
    Options: Sprout without any water / Start to sprout under water, sending a shoot up like a snorkel / Sprout in a freezer  
    **Answer:** Start to sprout under water, sending a shoot up like a snorkel. *Why:* Rice comes from wet places. Under water, their first shoot grows up to the air like a snorkel, so air can reach the rest of the seedling. Most seeds would drown.
-10. (write) Arif feels his bundle of sprouting moong getting warm. He says, 'They must be rotting.' How could you test whether he is right?  
+10. (write) Arif, a boy in Class 3, feels his bundle of sprouting moong getting warm. He says, 'They must be rotting.' How could you test whether he is right?  
    **Answer:** Set up two heaps the same way: one of live sprouting moong and one of boiled moong. Put a thermometer in each. For the first day, the live heap gets warm and the boiled heap stays cool. The live sprouts also smell fresh and grow tails. So the warmth comes from seeds breathing, not from rotting.. *Why:* A strong answer plans a fair test with boiled seeds, so the only difference is whether the seeds are alive.
-11. (mcq) Hema sows one moong seed 1 cm deep in a tall bucket of soil, and another 30 cm deep. Which one is more likely to reach the light?  
+11. (mcq) A girl sows one moong seed 1 cm deep in a tall bucket of soil, and another 30 cm deep. Which one is more likely to reach the light?  
    Options: The shallow seed, because the deep seed's food store may run out before their shoot reaches the light / The deep seed, because they have more soil around them / Both the same  
    **Answer:** The shallow seed, because the deep seed's food store may run out before their shoot reaches the light. *Why:* Underground there is no light, so the seedling lives only on the food in their seed. A moong seed has only a little food. From 30 cm down, the shoot may use it all up before reaching the light. Picking 'more soil' is a common guess, but a seed does not need soil to start.
 12. (draw) Draw the seed window jar after 5 days. Show 3 seeds that started in different ways, with their roots and shoots.  
@@ -674,9 +674,9 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
    **Answer:** I will change only the warmth: one cup in the fridge and one on the kitchen shelf. I will keep the same: the number of methi seeds, the same cotton, the same amount of water, and both cups dark.. *Why:* A good fair test changes just one thing and keeps everything else the same. Keeping both cups dark matters, because the fridge is dark.
 14. (truefalse) Old seeds from Beal's bottles, buried in 1879, still sprouted in 2021.  
    **Answer:** True. *Why:* True. More than 140 years later, some of the seeds sprouted. Seeds buried in the ground can stay alive for a very long time.
-15. (perspective) Valli and her neighbours want to sow rajma beans in pots. They give different advice about soaking the seeds first.  
+15. (perspective) A group of neighbours want to sow rajma beans in pots. They give different advice about soaking the seeds first.  
    **Answer:** A strong answer uses what seeds need. Soaking gives the seed water early, so they wake sooner, as Valli says. But a seed also needs air, and soggy soil leaves no air, so Rao Aunty's worry is real. Selvi's plan gives water without drowning the seed. A strong answer picks one and admits what another gets right.. *Why:* There is a real trade-off. Water wakes a seed, but too much water and too little air make the seed rot. The best plan depends on how wet and cold the soil is.
-16. (write) Simran, in Delhi, soaks moong on a cold December night. The next evening they still have no tails. Suggest two ways to help them sprout, and say why each one works.  
+16. (write) A girl in Delhi soaks moong on a cold December night. The next evening they still have no tails. Suggest two ways to help them sprout, and say why each one works.  
    **Answer:** Move the bundle somewhere warmer, for example near the kitchen stove but not on it, because warmth makes the changes inside a seed go faster. Wrap the cloth in a towel, because the seeds' own warmth from breathing stays in. Keep the seeds damp, and keep air around them.. *Why:* A strong answer names warmth as the missing need, and keeps water and air too.
 ### Seed Puzzles and Big Ideas (challenge) (challenge, 16 questions)
 1. (mcq) Deep down, where did the energy in a seed's food store come from?  

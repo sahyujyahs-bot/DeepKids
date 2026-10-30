@@ -582,9 +582,9 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 
 ## Worksheets
 ### Animal Neighbours (core) (core, 15 questions)
-1. (mcq) Kavya sees a pigeon on her window ledge at 4 pm today. Can she write 'Sitting on the ledge at 4 pm is this pigeon's habit'?  
+1. (mcq) A girl sees a pigeon on her window ledge at 4 pm today. Can she write 'Sitting on the ledge at 4 pm is this pigeon's habit'?  
    Options: Yes, because she saw it happen. / Not yet. She needs to see it happen again on many days. / Yes, because all pigeons sit on ledges. / No, because pigeons do not have habits.  
-   **Answer:** Not yet. She needs to see it happen again on many days.. *Why:* A habit is something done again and again. One sighting shows only one afternoon. If Kavya sees the pigeon there at about 4 pm on most days of a week, then she can call it a habit. Picking 'yes, she saw it' mixes up one event with a pattern.
+   **Answer:** Not yet. She needs to see it happen again on many days.. *Why:* A habit is something done again and again. One sighting shows only one afternoon. If she sees the pigeon there at about 4 pm on most days of a week, then she can call it a habit. Picking 'yes, she saw it' mixes up one event with a pattern.
 2. (mcq) A house gecko is hardly ever seen in the day. But every night they wait beside the tube light. Why there, at night?  
    Options: Moths and other insects fly to the light at night, so the gecko's food comes to them. / Geckos cannot see at all in daylight. / The tube light keeps them warm in winter. / Geckos want to be near people.  
    **Answer:** Moths and other insects fly to the light at night, so the gecko's food comes to them.. *Why:* Many insects fly to lights at night. A gecko who waits by the light gets dinner without hunting far. Picking 'cannot see in daylight' is not true. Geckos see in the day, but they rest then. Their habit follows their food.
@@ -610,7 +610,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
    **Answer:** For example: crows call loudly at first light. Pigeons sit on the window ledge in the hot afternoon. Ants walk in a line to the sugar tin in the evening.. *Why:* A strong answer names real animals the child has seen. Each habit is something done again and again, with a time or a place.
 12. (write) Every habit helps an animal with something they need: food, safety, rest, or keeping cool. Pick one habit you have seen, and say which need it helps with, and how.  
    **Answer:** For example: crows rest in the shade at noon. This helps them keep cool, because noon is the hottest time, and resting saves water and energy.. *Why:* A strong answer names a real habit, picks the need it serves, and explains the link. Habits are not random: they follow food, heat and danger.
-13. (perspective) Two pigeons have started a nest on the air-conditioner box outside Meenakshi's flat.  
+13. (perspective) Meenakshi, a girl in Class 3, lives in a flat. Two pigeons have started a nest on the air-conditioner box outside it.  
    **Answer:** A strong answer picks one view and gives a reason, for example that eggs left without their parents will die. It also says what another view gets right: droppings really can make people ill, and pigeons really do treat buildings as cliffs.. *Why:* This is a real problem in Indian cities, with no single right answer. A good answer is fair to both the family and the birds.
 14. (draw) Draw one animal home you have seen near your house. Label who lives there and what the home is made of.  
    **Answer:** Any real home, with labels. For example, a crow's nest of sticks and wire in a tree, a web on a gate, or an anthill by a wall.. *Why:* Drawing from life makes you look closely at how a home is made, and what it is made from.
@@ -618,7 +618,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
    Options: Milk left out for them / Rats, frogs and other animals to eat, and cool places to hide / To meet people / To sleep on beds  
    **Answer:** Rats, frogs and other animals to eat, and cool places to hide. *Why:* Snakes hunt. Rats live near our food stores, and frogs live near our water, so snakes follow them. Snakes cannot digest milk well, so milk left out can harm them. This is a popular belief that the evidence does not support.
 ### Habits and Homes (stretch) (stretch, 15 questions)
-1. (mcq) Lakshmi did the Busy Times test on just one rainy morning. Only 2 birds came to the bowl. She wrote 'Birds do not drink in the morning.' What is wrong with that?  
+1. (mcq) A girl did the Busy Times test on just one rainy morning. Only 2 birds came to the bowl. She wrote 'Birds do not drink in the morning.' What is wrong with that?  
    Options: Nothing. She saw it herself. / One rainy day can be unusual. She should count on more days. / She should have counted at midnight. / 2 birds is too many to count.  
    **Answer:** One rainy day can be unusual. She should count on more days.. *Why:* On a rainy day there are puddles everywhere, so birds need the bowl less. That is why we count on 3 different days. One odd day cannot then fool us.
 2. (fill) In the Cool Home Test, the open ground was 44 °C. Inside the hole it was 30 °C. So the hole was ____ degrees cooler.  
@@ -626,7 +626,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 3. (mcq) In the Ant Trail Test, why did we first hold a finger just above the trail, without touching the floor?  
    Options: To check that our hand and its shadow were not what stopped the ants / To feed the ants / To make the ants walk faster / To count the ants more easily  
    **Answer:** To check that our hand and its shadow were not what stopped the ants. *Why:* A fair test changes one thing at a time. If the ants walk on under the hand, then the hand is not the cause. So if they stop after the rubbing, we know the rubbing did it.
-4. (write) Divya wipes a short piece of an ant trail with a wet cloth. What will the ants do in the first minute? What will they do after 5 minutes? Explain why.  
+4. (write) A girl wipes a short piece of an ant trail with a wet cloth. What will the ants do in the first minute? What will they do after 5 minutes? Explain why.  
    **Answer:** In the first minute, ants reaching the wiped piece will stop, turn and wander, because the smell trail is gone. After about 5 minutes, a few ants will have found their way across and laid new smell, so the line will be back.. *Why:* A strong answer predicts both times and says why: ants follow a smell trail that other ants lay, and the trail comes back once ants walk over the gap again.
 5. (truefalse) A koel mother builds a nest and raises her own chicks.  
    **Answer:** False. *Why:* False. A koel mother lays her egg in a crow's nest. The crows feed the koel chick as their own. So a koel never needs a nest of her own.
@@ -641,7 +641,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 9. (mcq) A tiger has no fixed home and rests anywhere in their large area. But a tigress with small cubs uses a den. What does this show?  
    Options: Many animals use a home mainly to keep their young safe. / Tigers are lazy. / All animals live in one home all year. / Dens are for storing food.  
    **Answer:** Many animals use a home mainly to keep their young safe.. *Why:* Small cubs cannot walk far or defend themselves, so the mother keeps them in a hidden den. When the cubs grow, the den is left. Birds' nests work the same way.
-10. (perspective) Farhan's Paati, his grandmother, throws cooked rice to the street crows every morning.  
+10. (perspective) A grandmother, Paati, throws cooked rice to the street crows every morning.  
    **Answer:** A strong answer picks a side with a reason, and then argues fairly from another side. For example: 'I agree with Selvi, because a bowl of water helps in summer without making birds ill. But Paati is right that some animals go hungry in hard times.'. *Why:* Scientists and kind people really do disagree about feeding wild animals. A good answer weighs what helps the animal, what harms the animal, and what is fair to the neighbours.
 11. (write) Pick one animal home. Explain how the animal makes the home, and what the home is for.  
    **Answer:** For example: a male baya weaver tears long strips of grass and weaves them into a hanging nest, with a long tube for a door. It is for eggs and chicks, safe from snakes, because the nest hangs from a thin branch over water.. *Why:* A strong answer says how the home is made, what it is used for, and how its shape helps.
@@ -725,7 +725,7 @@ In July the cardboard sign came down, and the nest stood empty, as nests do when
 9. (mcq) You want to find out when your pigeons are busiest. What should you do?  
    Options: Look once, for one minute. / Watch at set times for a week and write down what they do. / Ask a friend to guess. / Read a book only.  
    **Answer:** Watch at set times for a week and write down what they do.. *Why:* Habits show up only when you watch many times and write things down. One look shows just one moment.
-10. (mcq) Meenakshi watched a squirrel for 10 minutes at 7 am every day for a week. On 6 of the 7 days, the squirrel ate from the guava tree. What is the best claim?  
+10. (mcq) A girl watched a squirrel for 10 minutes at 7 am every day for a week. On 6 of the 7 days, the squirrel ate from the guava tree. What is the best claim?  
    Options: The squirrel often eats guavas in the early morning. / The squirrel eats nothing but guavas. / The squirrel will surely eat guavas tomorrow. / Squirrels hate every other food.  
    **Answer:** The squirrel often eats guavas in the early morning.. *Why:* Her notes show a pattern at one time of day. They do not show what the squirrel eats at other times. A good claim says only what the evidence shows.
 11. (mcq) In the Busy Times test, what was the one thing we changed?  

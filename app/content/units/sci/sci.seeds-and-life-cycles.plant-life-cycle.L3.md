@@ -655,8 +655,8 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
 ### Round and Round: the plant life cycle (core) (core, 16 questions)
 1. (order) A moong plant's life goes round in a circle. Put these stages in order, starting with the flower.  
    **Answer:** order shown. *Why:* The flower grows into a pod. The pod holds seeds. A seed sprouts into a seedling, and the seedling grows into a grown plant, which makes flowers again. A cycle can start at any stage.
-2. (write) Saranya says a plant's life is a straight line, from a seed to the day the plant dies. Her friend Malar says it is a circle. Who is right? Explain.  
-   **Answer:** Both have a point, but Malar is closer. One plant's life does end when they die. But before they die, they make seeds, and each seed can grow into a new plant that goes through the same stages. So the stages go round and round.. *Why:* A strong answer agrees that one plant dies, and then explains that their seeds carry the stages on. That is why it is called a life cycle.
+2. (write) A girl says a plant's life is a straight line, from a seed to the day the plant dies. Her friend says it is a circle. Who is right? Explain.  
+   **Answer:** Both have a point, but the friend is closer. One plant's life does end when they die. But before they die, they make seeds, and each seed can grow into a new plant that goes through the same stages. So the stages go round and round.. *Why:* A strong answer agrees that one plant dies, and then explains that their seeds carry the stages on. That is why it is called a life cycle.
 3. (mcq) Which part of a flower swells up to become the fruit?  
    Options: The petals / The base in the very middle of the flower / The green stalk / The leaves around it  
    **Answer:** The base in the very middle of the flower. *Why:* The swollen base in the middle of the flower holds tiny seed-starts. It grows into the fruit, and the seed-starts become seeds. Picking 'the petals' is a common idea, because petals are the biggest, brightest part. But the petals fall off. The fruit grows from the middle.
@@ -680,9 +680,9 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
    **Answer:** Any honest answer. For example: I ate a tomato. Its seeds were in jelly in the middle. The green star on top was left from its flower.. *Why:* Linking a real fruit to its seeds and its flower shows the child sees the life cycle in everyday food.
 12. (draw) Draw the life cycle of a moong plant as a circle with arrows. Label each stage.  
    **Answer:** A circle with five or six stages joined by arrows: seed, seedling, grown plant, flower, pod, and back to seed.. *Why:* A good drawing joins the last stage back to the first one. That is what makes it a cycle.
-13. (perspective) Gowri's family grows bhindi in a pot on their balcony. They disagree about when to pick the bhindi.  
+13. (perspective) A family grows bhindi in a pot on their balcony. They disagree about when to pick the bhindi.  
    **Answer:** A strong answer picks a plan and explains it with the life cycle. For example: pick most pods young to eat, as Amma and Gowri say, but leave two or three to ripen for seeds, as Paati says. It explains that a ripe pod holds the seeds that start the next cycle.. *Why:* There is a real trade-off. Young pods are best to eat, and picking them often makes the plant keep flowering. But only a pod left to ripen gives seeds for next year.
-14. (mcq) Murali finds a pumpkin flower with no tiny green ball behind the petals. Will this flower turn into a pumpkin?  
+14. (mcq) A boy finds a pumpkin flower with no tiny green ball behind the petals. Will this flower turn into a pumpkin?  
    Options: Yes, if a bee visits / No. It is a male flower: it makes pollen, but no fruit / Yes, every flower becomes a fruit  
    **Answer:** No. It is a male flower: it makes pollen, but no fruit. *Why:* A pumpkin plant has two kinds of flower. The female flower has a tiny green pumpkin behind the petals. The male flower has none, and only makes pollen. Picking 'if a bee visits' misses that there is nothing in this flower to grow into a pumpkin.
 15. (draw) Cut a tomato across the middle. Draw what you see. Label the seeds, and the green star on top. What was the green star before the fruit grew?  
@@ -695,7 +695,7 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
    **Answer:** Day 4. *Why:* Find 6 on the side of the chart, then follow it across to the line. The line reaches 6 above Day 4. Picking Day 6 usually means reading the last day instead of the matching point.
 2. (fill) The bhindi pod was 2 cm long on day 2 and 10 cm long on day 6. It grew ____ cm in those 4 days.  
    **Answer:** ['8', 'eight']. *Why:* 10 take away 2 is 8. So it grew 8 cm in 4 days. That is about 2 cm a day.
-3. (write) Ammu tagged 10 brinjal flowers in a very hot week in May. Only 2 became brinjals. Her friend Farhan tagged 10 brinjal flowers in cool December, and 7 became brinjals. Give a reason for the difference.  
+3. (write) A girl tagged 10 brinjal flowers in a very hot week in May. Only 2 became brinjals. Her friend tagged 10 brinjal flowers in cool December, and 7 became brinjals. Give a reason for the difference.  
    **Answer:** In great heat, many plants drop their flowers, and pollen can stop working. Fewer insects may visit in the hottest hours too. In cool December the plant was not stressed, so more flowers got pollen and grew into fruits.. *Why:* A strong answer links the season to the flower falling, and knows that a flower must get pollen to become a fruit.
 4. (fill) Altogether, the five pea pods had 6 + 7 + 5 + 8 + 6 = ____ peas.  
    **Answer:** ['32', 'thirty-two']. *Why:* 6 + 7 = 13. 13 + 5 = 18. 18 + 8 = 26. 26 + 6 = 32.
@@ -706,7 +706,7 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
    **Answer:** order shown. *Why:* Moong takes 2 to 3 months, rice about 4 months, a mango tree 5 to 8 years before their first fruit, and neelakurinji 12 years to flower.
 7. (write) In the 1600s, van Helmont grew a willow tree in a pot for five years. The tree gained about 74 kilograms. The soil lost only about 57 grams. What does this show? What did van Helmont himself get wrong?  
    **Answer:** It shows that the tree's body did not come from the soil, because the soil hardly changed. Van Helmont decided the tree was made from water alone. He missed the air. Most of a tree's dry body is built from carbon dioxide in the air, joined with water using sunlight.. *Why:* A strong answer uses the numbers as evidence, then says that water was only part of the answer. Most people today still guess 'the soil'.
-8. (mcq) Arun does the Floating Leaves test again, but forgets the pinch of baking soda. In bright light, hardly any leaf circles float. Why?  
+8. (mcq) A boy does the Floating Leaves test again, but forgets the pinch of baking soda. In bright light, hardly any leaf circles float. Why?  
    Options: Baking soda gives the water carbon dioxide, which the leaf needs to make food and oxygen / Baking soda makes leaves lighter / The water was too cold  
    **Answer:** Baking soda gives the water carbon dioxide, which the leaf needs to make food and oxygen. *Why:* To make food, a leaf needs carbon dioxide as well as light. Baking soda gives off carbon dioxide into the water. Without it, the leaf can make very little oxygen, so few bubbles lift the circles. Picking 'makes leaves lighter' misses that the bubbles are what lift them.
 9. (match) Match each plant to how a new plant can grow without a seed.  
@@ -723,7 +723,7 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
    **Answer:** The bamboo in Mizoram that flowers after about 48 years. *Why:* That bamboo grows for about 48 years, flowers once, makes their seeds and dies. Mango, neem and rose are perennials that flower again and again. Picking mango may come from knowing mango trees take years to fruit. But once they start, they fruit every year.
 14. (write) Write the life cycle of a mango tree as a short story, in 5 sentences. Start with a ripe mango falling to the ground.  
    **Answer:** For example: A ripe mango fell to the ground. A monkey ate it and dropped the stone far away. In the rains the stone sprouted into a seedling with red leaves. After six years the seedling was a big tree and made tiny flowers. The flowers turned into mangoes, with new stones inside.. *Why:* Starting with the fruit shows the child understands that a cycle can start at any stage.
-15. (perspective) The neem tree outside Shanthi's building drops hundreds of fruits every year. Almost none of them grow into new trees.  
+15. (perspective) The neem tree outside a block of flats drops hundreds of fruits every year. Almost none of them grow into new trees.  
    **Answer:** A strong answer picks a side with evidence. For Shanthi: each fruit costs the tree food to make, and most never grow. For the grandmother: the fruits feed birds, and their atoms go back to the soil for other plants. For the botanist: most seeds fail, so a tree that makes many seeds is more likely to have a few young trees. A strong answer then gives another side its due.. *Why:* This is a real trade-off. Fruits cost a tree a lot to make, but most seeds never find a good place to grow. Many plants make huge numbers of seeds, and the fruits that don't grow still feed other living beings.
 16. (draw) Draw a bar chart of how long these plants take to go from sowing a seed to their first new seeds: moong 3 months, rice 4 months, tomato 4 months, papaya 10 months. Label the bottom line and the side line.  
    **Answer:** Four bars. Moong 3 squares, rice 4, tomato 4, papaya 10. The bottom line says 'Plant' and the side line says 'Months'.. *Why:* A bar chart shows at a glance that papaya takes much longer than the others. The times are rounded, and real plants vary with the weather.
@@ -779,7 +779,7 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
 2. (mcq) What is a seedling?  
    Options: A seed in a packet / A flower bud / A fruit / A very young plant just out of their seed  
    **Answer:** A very young plant just out of their seed. *Why:* A seedling has just sprouted, with a tiny root, a short stem and their first leaves. Picking 'a seed in a packet' mixes up the seed and the seedling. The seedling is the next stage.
-3. (mcq) Kalyani pinches off every brinjal flower on her plant as soon as they open. What will happen?  
+3. (mcq) A girl pinches off every brinjal flower on her plant as soon as they open. What will happen?  
    Options: The plant makes bigger brinjals / The plant makes no brinjals / The flowers grow back as brinjals / Nothing changes  
    **Answer:** The plant makes no brinjals. *Why:* Each brinjal grows from a flower. Take away every flower, and there is nothing left to swell into a fruit. Picking 'bigger brinjals' is a guess that the plant saves food. But with no flowers, there are no fruits to put that food into.
 4. (mcq) The green cap on a brinjal is…  

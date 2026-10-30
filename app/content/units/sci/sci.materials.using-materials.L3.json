@@ -920,7 +920,7 @@
     },
     {
      "t": "mcq",
-     "p": "Arjun says, 'A clay pot cools water because clay is a cold material.' Which test would show whether he is right?",
+     "p": "Arjun, a boy in Class 4, says, 'A clay pot cools water because clay is a cold material.' Which test would show whether he is right?",
      "opts": [
       "Wrap the wet clay pot in a plastic bag, so no water can evaporate, and see if the water still cools",
       "Paint the pot a nicer colour",
@@ -1021,7 +1021,7 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya puts a steel bowl of hot payasam on the wooden table. Which mat will protect the table best?",
+     "p": "A girl puts a steel bowl of hot payasam on the wooden table. Which mat will protect the table best?",
      "opts": [
       "A thick, folded cotton cloth",
       "A thin steel plate",
@@ -1206,7 +1206,7 @@
     },
     {
      "t": "mcq",
-     "p": "Kavya tests which cloth makes the best tea cosy. She wraps one tumbler in wool and one in cotton. She fills the wool one with boiling water and the cotton one with warm water. What is wrong with her test?",
+     "p": "A girl tests which cloth makes the best tea cosy. She wraps one tumbler in wool and one in cotton. She fills the wool one with boiling water and the cotton one with warm water. What is wrong with her test?",
      "opts": [
       "The water should start at the same temperature in both",
       "She should use only one tumbler",
@@ -1218,7 +1218,7 @@
     },
     {
      "t": "write",
-     "p": "Farhan says, 'A steel bottle keeps water colder than a clay pot, because steel feels colder when I touch it.' What would you tell him? How could he find out?",
+     "p": "Farhan, a boy in Class 4, says, 'A steel bottle keeps water colder than a clay pot, because steel feels colder when I touch it.' What would you tell him? How could he find out?",
      "lines": 4,
      "a": "A strong answer says steel feels cold because it takes heat from your hand quickly, not because it is colder. The way to find out is to test: fill a steel bottle and a clay pot with the same water, leave them side by side, and measure both with a thermometer after three hours.",
      "why": "How a material feels is not the same as its temperature. The Matka Mystery test is the fair way to answer the question.",
@@ -2895,7 +2895,7 @@
   },
   {
    "t": "mcq",
-   "p": "Selvi spills a glass of water on the floor. She has a plastic sheet and an old cotton towel. Which will clean it up, and why?",
+   "p": "A girl spills a glass of water on the floor. She has a plastic sheet and an old cotton towel. Which will clean it up, and why?",
    "opts": [
     "The cotton towel, because cotton is absorbent",
     "The plastic sheet, because plastic is waterproof",
@@ -3007,7 +3007,7 @@
   },
   {
    "t": "mcq",
-   "p": "Divya says, 'Steel is the strongest material in our house, so it is the best material for every job.' Which job shows she is wrong?",
+   "p": "Divya, a girl in Class 4, says, 'Steel is the strongest material in our house, so it is the best material for every job.' Which job shows she is wrong?",
    "opts": [
     "A window, because steel does not let light through",
     "A bridge",

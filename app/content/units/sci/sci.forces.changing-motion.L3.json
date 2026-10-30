@@ -1382,7 +1382,7 @@
     },
     {
      "t": "write",
-     "p": "Divya drops a clay ball and a rubber ball from the same height onto the floor. Both squash when they land. Only the rubber ball comes back up. Explain why.",
+     "p": "You drop a clay ball and a rubber ball from the same height onto the floor. Both squash when they land. Only the rubber ball comes back up. Explain why.",
      "lines": 4,
      "a": "A strong answer says that both balls squash, but the rubber ball is elastic. It springs back into shape, and that pushes on the floor, so the floor pushes it back up. The clay is plastic. It stays squashed, so nothing pushes it up again.",
      "why": "A bounce is a squash and a spring back. Without the spring back, there is no bounce.",
@@ -1443,7 +1443,7 @@
     },
     {
      "t": "perspective",
-     "p": "Selvi in Madurai must post a glass bottle of homemade pickle to her aunt in Pune. Her friends each suggest a way to pack it.",
+     "p": "A girl in Madurai must post a glass bottle of homemade pickle to her aunt in Pune. Her friends each suggest a way to pack it.",
      "views": [
       {
        "who": "Nandini, who works at the post office",
@@ -3185,7 +3185,7 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Meena bends a bamboo stick into a bow for a game. Which shape change is this?",
+   "p": "A girl bends a bamboo stick into a bow for a game. Which shape change is this?",
    "opts": [
     "A bend",
     "A squash",
@@ -3247,7 +3247,7 @@
   },
   {
    "t": "mcq",
-   "p": "In her clay drop test, Divya's 40 cm patch came out wider than her 80 cm patch. What is the best thing to do next?",
+   "p": "In your clay drop test, the 40 cm patch came out wider than the 80 cm patch. What is the best thing to do next?",
    "opts": [
     "Repeat each drop three times and compare",
     "Cross out the 80 cm result",

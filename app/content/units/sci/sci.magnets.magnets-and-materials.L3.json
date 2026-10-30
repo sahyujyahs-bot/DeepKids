@@ -2331,7 +2331,7 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Rani's brass diya and her iron kadai are both made of metal. A magnet attracts the kadai but not the diya. Why?",
+   "p": "A brass diya and an iron kadai are both made of metal. A magnet attracts the kadai but not the diya. Why?",
    "opts": [
     "The diya is too heavy",
     "Brass has no iron, nickel or cobalt in it",
@@ -2385,7 +2385,7 @@
   },
   {
    "t": "mcq",
-   "p": "Meera does the paper clip chain test. Her magnet holds 5 clips on the first try. Why should she test it two more times?",
+   "p": "A girl does the paper clip chain test. Her magnet holds 5 clips on the first try. Why should she test it two more times?",
    "opts": [
     "The magnet gets stronger each time",
     "One try can be a fluke, for example if a clip is bent or the chain is knocked",
@@ -2577,13 +2577,13 @@
     },
     {
      "t": "truefalse",
-     "p": "Meenakshi says, 'Every metal sticks to a magnet.' Is she right?",
+     "p": "A friend says, 'Every metal sticks to a magnet.' Is your friend right?",
      "a": false,
      "why": "False. Copper, brass, aluminium, gold and silver are all metals, and a magnet does not attract any of them. A magnet attracts iron, most steel, nickel and cobalt. A strong answer names one metal that does not stick, such as a brass key."
     },
     {
      "t": "mcq",
-     "p": "Lakshmi puts a steel pin on the table and lays a page of her notebook over it. She slides a magnet around on top of the page. What will the pin do?",
+     "p": "A girl puts a steel pin on the table and lays a page of her notebook over it. She slides a magnet around on top of the page. What will the pin do?",
      "opts": [
       "Follow the magnet around under the page",
       "Stay still, because the paper blocks the magnet",
@@ -2609,7 +2609,7 @@
     },
     {
      "t": "mcq",
-     "p": "Anjali slides two ring magnets onto a pencil. They snap together. She takes the top one off, turns it over and slides it back on. What happens now?",
+     "p": "A girl slides two ring magnets onto a pencil. They snap together. She takes the top one off, turns it over and slides it back on. What happens now?",
      "opts": [
       "They snap together even harder",
       "The top magnet floats above the bottom one",
@@ -2629,7 +2629,7 @@
     },
     {
      "t": "mcq",
-     "p": "Revathi strokes a sewing needle 50 times with a magnet, always the same way. Now the needle picks up a pin. What changed inside the needle?",
+     "p": "A girl strokes a sewing needle 50 times with a magnet, always the same way. Now the needle picks up a pin. What changed inside the needle?",
      "opts": [
       "Some iron moved from the magnet into the needle",
       "The needle became heavier",
@@ -2649,7 +2649,7 @@
     },
     {
      "t": "mcq",
-     "p": "Arjun floats his needle compass in a steel bowl. The needle keeps swinging to the side of the bowl instead of pointing north. What is the best fix?",
+     "p": "A girl floats her needle compass in a steel bowl. The needle keeps swinging to the side of the bowl instead of pointing north. What is the best fix?",
      "opts": [
       "Stroke the needle 100 more times",
       "Add salt to the water",
@@ -2702,7 +2702,7 @@
     },
     {
      "t": "mcq",
-     "p": "Farhan wants to find out which of his two magnets is stronger, using a paper clip chain. Which of these would make his test unfair?",
+     "p": "A girl wants to find out which of her two magnets is stronger, using a paper clip chain. Which of these would make her test unfair?",
      "opts": [
       "Using the same kind of clips for both magnets",
       "Using big clips for one magnet and small clips for the other",
@@ -2801,7 +2801,7 @@
     },
     {
      "t": "order",
-     "p": "Sangeetha holds a magnet at different distances from a pin. Put these in order, from where the magnet's force on the pin is weakest to where it is strongest.",
+     "p": "A girl holds a magnet at different distances from a pin. Put these in order, from where the magnet's force on the pin is weakest to where it is strongest.",
      "items": [
       "Magnet 1 centimetre away",
       "Magnet 10 centimetres away",
@@ -2818,7 +2818,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi does the paper clip chain test three times with each magnet. Fridge magnet: 1, 1, 2. Ceramic magnet: 4, 5, 4. Bar magnet: 6, 2, 6. Which result looks odd, and what should she do?",
+     "p": "A girl does the paper clip chain test three times with each magnet. Fridge magnet: 1, 1, 2. Ceramic magnet: 4, 5, 4. Bar magnet: 6, 2, 6. Which result looks odd, and what should she do?",
      "opts": [
       "The fridge magnet's 2. She should ignore the fridge magnet",
       "The ceramic magnet's 5. She should start again",
@@ -2831,7 +2831,7 @@
     },
     {
      "t": "mcq",
-     "p": "Priya holds a compass next to a steel almirah, and the needle swings towards it. Why?",
+     "p": "A girl holds a compass next to a steel almirah, and the needle swings towards it. Why?",
      "opts": [
       "The almirah's iron attracts the needle, which is a magnet",
       "Compasses only work outdoors",
@@ -3033,7 +3033,7 @@
     },
     {
      "t": "mcq",
-     "p": "Sangeetha snaps a bar magnet in half. What does she get?",
+     "p": "A girl snaps a bar magnet in half. What does she get?",
      "opts": [
       "One piece that is only a north pole and one that is only a south pole",
       "Two smaller magnets, each with a north pole and a south pole",
@@ -3076,7 +3076,7 @@
     },
     {
      "t": "write",
-     "p": "Arjun says, 'A magnet attracts iron because iron is heavy and magnets are strong.' What is wrong with his idea? Describe a test that would show it.",
+     "p": "A friend says, 'A magnet attracts iron because iron is heavy and magnets are strong.' What is wrong with this idea? Describe a test that would show it.",
      "lines": 4,
      "a": "Weight is not what matters. A light steel pin is attracted, but a heavy brass diya is not. I would hold a magnet near a tiny pin and a heavy brass vessel. The pin jumps to the magnet and the brass does not move.",
      "why": "A strong answer says that what the thing is made of matters, not how heavy it is, and gives a test with a light iron thing and a heavy thing that is not iron."

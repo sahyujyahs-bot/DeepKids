@@ -538,7 +538,7 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
 
 ## Worksheets
 ### Germ Detective (core) (core, 16 questions)
-1. (mcq) Lakshmi's little brother touches a door handle that a child with a cold has just touched. Then he rubs his eye. At which moment do the germs get into his body?  
+1. (mcq) A little boy touches a door handle that a child with a cold has just touched. Then he rubs his eye. At which moment do the germs get into his body?  
    Options: When he rubs his eye / When he touches the handle / When he looks at the handle / Never: germs cannot get in through the eye  
    **Answer:** When he rubs his eye. *Why:* Touching the handle only puts germs on the skin of his hand. Dry skin is a strong wall. The soft, wet lining of the eye lets germs in. Picking 'when he touches the handle' is a very common answer, but that is only where the germs got on, not where they got in.
 2. (sort) Sort these habits. Does each one help germs travel, or stop them?  
@@ -566,7 +566,7 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
    **Answer:** A round head labelled 'sticks to water' and a long tail labelled 'sticks to oil'.. *Why:* Two different ends is the whole secret of soap. One end holds the water and the other holds the oil.
 12. (write) Your private parts are the parts covered by your underwear. Write two things that are true about them.  
    **Answer:** They are kept clean, by washing every day. They are private, and my body belongs to me. If a touch ever feels wrong, I say no, get away and tell a grown-up I trust.. *Why:* Clean, private, and your own. A child is never in trouble for telling a trusted grown-up.
-13. (mcq) Revathi finds tiny wriggling creatures swimming in the water of a flowerpot tray on her balcony. What should she do?  
+13. (mcq) A girl finds tiny wriggling creatures swimming in the water of a flowerpot tray on her balcony. What should she do?  
    Options: Tip out the water and scrub the tray / Add more water so they have room / Spray perfume on the plant / Leave it, because they are too small to matter  
    **Answer:** Tip out the water and scrub the tray. *Why:* The wrigglers are young mosquitoes. In about a week they will fly and bite, and some mosquitoes carry dengue or malaria. Tipping out the water stops them growing up. Picking 'perfume' comes from the old idea that bad smells cause illness.
 14. (odd) Which one is the odd one out? Covering cut fruit, boiling drinking water, spraying room freshener, sneezing into your elbow. Say why.  
@@ -652,8 +652,8 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
 15. (mcq) Some tummy viruses have no oily coat, so soap cannot break them. Why does washing with soap still help against them?  
    Options: Soap and rubbing lift them off the hands, and the water carries them away / Soap makes them grow an oily coat / Washing does not help at all / The water is too cold for them  
    **Answer:** Soap and rubbing lift them off the hands, and the water carries them away. *Why:* Soap wraps the oil and dirt the viruses sit in, and the rinse carries them off. Picking 'washing does not help' means thinking soap must kill a germ to work. Mostly, soap works by moving germs off your hands.
-16. (write) Ammu says: 'Hand sanitiser kills germs, and soap only washes them off. So sanitiser is always better.' After eating a greasy vada, which would you use, and why? Then say when Ammu's sanitiser is a good choice.  
-   **Answer:** A strong answer chooses soap and water for greasy hands, because soap lifts the oil the germs sit in, and sanitiser does not remove oil or dirt. It adds that some tummy viruses are not killed well by sanitiser. It then gives Ammu a fair point: sanitiser is useful when hands look clean and there is no soap or water, such as on a bus.. *Why:* Health experts say to wash with soap and water when you can, and use sanitiser when you cannot. Killing is not always better than removing.
+16. (write) A friend says: 'Hand sanitiser kills germs, and soap only washes them off. So sanitiser is always better.' After eating a greasy vada, which would you use, and why? Then say when sanitiser is a good choice.  
+   **Answer:** A strong answer chooses soap and water for greasy hands, because soap lifts the oil the germs sit in, and sanitiser does not remove oil or dirt. It adds that some tummy viruses are not killed well by sanitiser. It then gives the friend a fair point: sanitiser is useful when hands look clean and there is no soap or water, such as on a bus.. *Why:* Health experts say to wash with soap and water when you can, and use sanitiser when you cannot. Killing is not always better than removing.
 
 ## Videos
 - **How soap kills the coronavirus** (Vox, 6 min) id `-LKVUarhtvE`: For the parent and curious older children: clear animations of soap molecules breaking a virus's oily coat and lifting oil off skin. *Check:* Found by YouTube search; title and channel checked with YouTube's oEmbed. The length is an estimate. A parent should preview it, as it talks about the 2020 pandemic.
@@ -682,7 +682,7 @@ Many doctors never believed him. They said a gentleman's hands could not carry i
 7. (mcq) When is it MOST important to wash your hands with soap?  
    Options: Before eating and after the toilet / After reading a book / Before going to sleep only  
    **Answer:** Before eating and after the toilet. *Why:* Those are the moments germs most easily travel to your mouth, or from waste to other people. Picking 'after reading' is a kind thought, but books rarely carry germs that make us ill.
-8. (mcq) Arjun's ear feels itchy. Which is the safe thing to do?  
+8. (mcq) A boy's ear feels itchy. Which is the safe thing to do?  
    Options: Wipe the outer ear with a cloth, and never poke anything inside / Clean inside with a hairpin / Pour water in every day  
    **Answer:** Wipe the outer ear with a cloth, and never poke anything inside. *Why:* Earwax moves out of the ear on its own and protects it. Poking can hurt the eardrum. Picking a hairpin is a common, risky habit.
 9. (mcq) Your private parts are…  

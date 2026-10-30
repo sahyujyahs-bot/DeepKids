@@ -1216,7 +1216,7 @@
     },
     {
      "t": "write",
-     "p": "Revathi is 10. She plays music on earphones at full volume for hours every day. Loud sound can break the hair cells in the cochlea, and in people they do not grow back. What could happen to her hearing? What would you tell her?",
+     "p": "A girl of 10 She plays music on earphones at full volume for hours every day. Loud sound can break the hair cells in the cochlea, and in people they do not grow back. What could happen to her hearing? What would you tell her?",
      "lines": 4,
      "a": "Over time she could lose some of her hearing, and it would not come back, because broken hair cells do not grow again in people. I would tell her to turn the volume down and take breaks.",
      "why": "A strong answer links cause and effect: loud sound breaks hair cells, and lost hair cells mean lost hearing for good. Birds can grow new hair cells, and scientists are studying how, but people cannot yet."
@@ -3058,7 +3058,7 @@
   },
   {
    "t": "mcq",
-   "p": "Arjun has hard wax packed deep in his ear canal, and he hears less in that ear. Why?",
+   "p": "A girl has hard wax packed deep in her ear canal, and she hears less in that ear. Why?",
    "opts": [
     "Less of the shaking air reaches his eardrum, so the eardrum shakes less",
     "The wax eats the sound",

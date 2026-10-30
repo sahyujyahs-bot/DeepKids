@@ -931,9 +931,9 @@
     },
     {
      "t": "write",
-     "p": "Saranya says a plant's life is a straight line, from a seed to the day the plant dies. Her friend Malar says it is a circle. Who is right? Explain.",
+     "p": "A girl says a plant's life is a straight line, from a seed to the day the plant dies. Her friend says it is a circle. Who is right? Explain.",
      "lines": 4,
-     "a": "Both have a point, but Malar is closer. One plant's life does end when they die. But before they die, they make seeds, and each seed can grow into a new plant that goes through the same stages. So the stages go round and round.",
+     "a": "Both have a point, but the friend is closer. One plant's life does end when they die. But before they die, they make seeds, and each seed can grow into a new plant that goes through the same stages. So the stages go round and round.",
      "why": "A strong answer agrees that one plant dies, and then explains that their seeds carry the stages on. That is why it is called a life cycle."
     },
     {
@@ -1080,18 +1080,18 @@
     },
     {
      "t": "perspective",
-     "p": "Gowri's family grows bhindi in a pot on their balcony. They disagree about when to pick the bhindi.",
+     "p": "A family grows bhindi in a pot on their balcony. They disagree about when to pick the bhindi.",
      "views": [
       {
-       "who": "Amma, Gowri's mother, who cooks",
+       "who": "Amma, the mother, who cooks",
        "says": "Pick every bhindi while they are young, about a finger long. Old bhindi are hard and stringy to eat."
       },
       {
-       "who": "Paati, Gowri's grandmother, who saves seeds",
+       "who": "Paati, the grandmother, who saves seeds",
        "says": "Leave a few pods on the plant until they turn dry and brown. Then we have seeds to sow next year."
       },
       {
-       "who": "Gowri, aged 8",
+       "who": "Gowri, the daughter, aged 8",
        "says": "If we pick them young, the plant makes more flowers. So we get more bhindi."
       }
      ],
@@ -1102,7 +1102,7 @@
     },
     {
      "t": "mcq",
-     "p": "Murali finds a pumpkin flower with no tiny green ball behind the petals. Will this flower turn into a pumpkin?",
+     "p": "A boy finds a pumpkin flower with no tiny green ball behind the petals. Will this flower turn into a pumpkin?",
      "opts": [
       "Yes, if a bee visits",
       "No. It is a male flower: it makes pollen, but no fruit",
@@ -1234,7 +1234,7 @@
     },
     {
      "t": "write",
-     "p": "Ammu tagged 10 brinjal flowers in a very hot week in May. Only 2 became brinjals. Her friend Farhan tagged 10 brinjal flowers in cool December, and 7 became brinjals. Give a reason for the difference.",
+     "p": "A girl tagged 10 brinjal flowers in a very hot week in May. Only 2 became brinjals. Her friend tagged 10 brinjal flowers in cool December, and 7 became brinjals. Give a reason for the difference.",
      "lines": 3,
      "a": "In great heat, many plants drop their flowers, and pollen can stop working. Fewer insects may visit in the hottest hours too. In cool December the plant was not stressed, so more flowers got pollen and grew into fruits.",
      "why": "A strong answer links the season to the flower falling, and knows that a flower must get pollen to become a fruit.",
@@ -1321,7 +1321,7 @@
     },
     {
      "t": "mcq",
-     "p": "Arun does the Floating Leaves test again, but forgets the pinch of baking soda. In bright light, hardly any leaf circles float. Why?",
+     "p": "A boy does the Floating Leaves test again, but forgets the pinch of baking soda. In bright light, hardly any leaf circles float. Why?",
      "opts": [
       "Baking soda gives the water carbon dioxide, which the leaf needs to make food and oxygen",
       "Baking soda makes leaves lighter",
@@ -1407,7 +1407,7 @@
     },
     {
      "t": "perspective",
-     "p": "The neem tree outside Shanthi's building drops hundreds of fruits every year. Almost none of them grow into new trees.",
+     "p": "The neem tree outside a block of flats drops hundreds of fruits every year. Almost none of them grow into new trees.",
      "views": [
       {
        "who": "Shanthi, aged 9",
@@ -2923,7 +2923,7 @@
    "record": "A diary page every week: the date, a drawing, the height of the tallest plant, and the number of flowers or pods. At the end, a line graph of height, and the total number of seeds.",
    "setup": [
     {
-     "art": "A child pressing soaked moong seeds 2 cm deep into a soil-filled paint bucket on a sunny balcony, a name label 'Hari' on the bucket.",
+     "art": "A child pressing soaked moong seeds 2 cm deep into a soil-filled paint bucket on a sunny balcony, a name label with the child's name on the bucket.",
      "caption": "1. Sow soaked moong 2 cm deep in a deep pot in full sun."
     },
     {
@@ -3297,7 +3297,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kalyani pinches off every brinjal flower on her plant as soon as they open. What will happen?",
+   "p": "A girl pinches off every brinjal flower on her plant as soon as they open. What will happen?",
    "opts": [
     "The plant makes bigger brinjals",
     "The plant makes no brinjals",

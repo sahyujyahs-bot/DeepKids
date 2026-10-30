@@ -600,7 +600,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 6. (mcq) A cricket bat is made of willow wood, not steel. What is the main reason?  
    Options: A steel bat of that size would be far too heavy to swing / Wood is waterproof / Steel cannot be shaped / Wood carries heat well  
    **Answer:** A steel bat of that size would be far too heavy to swing. *Why:* Steel is strong, but it is very heavy for its size. A bat must be strong and light enough to swing fast. Willow is both. Picking 'steel cannot be shaped' is not right, because steel is shaped into cars and spoons. A strong answer weighs strength against weight.
-7. (mcq) Arjun says, 'A clay pot cools water because clay is a cold material.' Which test would show whether he is right?  
+7. (mcq) Arjun, a boy in Class 4, says, 'A clay pot cools water because clay is a cold material.' Which test would show whether he is right?  
    Options: Wrap the wet clay pot in a plastic bag, so no water can evaporate, and see if the water still cools / Paint the pot a nicer colour / Use a bigger pot / Leave the pot in the fridge  
    **Answer:** Wrap the wet clay pot in a plastic bag, so no water can evaporate, and see if the water still cools. *Why:* If clay itself were cold, the pot would cool water even inside a plastic bag. It does not. The water only cools when it can seep out and evaporate. A strong answer changes one thing that would tell the two ideas apart.
 8. (write) An old, flat blanket keeps you less warm than a new, fluffy one made of the same cotton. Why?  
@@ -620,7 +620,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
    **Answer:** Glass is brittle: it cracks instead of bending. *Why:* Hard means difficult to scratch. Brittle means it cracks instead of bending. Glass is both. Steel can bend a little and soak up the bump. Picking 'glass is soft' mixes up breaking with softness. A strong answer says being hard is not the same as being hard to break.
 15. (write) After the Hot Spoon Race, write three sentences. What did you guess before? What did you see? Why do you think it happened?  
    **Answer:** For example: I guessed the plastic spoon would get hot first. I saw the butter on the steel spoon melt first, after about 4 minutes. I think it happened because steel is a metal, and metals are good conductors of heat.. *Why:* A strong answer is honest about the guess, gives what was seen with a number, and gives a reason using the word conductor.
-16. (mcq) Kavya puts a steel bowl of hot payasam on the wooden table. Which mat will protect the table best?  
+16. (mcq) A girl puts a steel bowl of hot payasam on the wooden table. Which mat will protect the table best?  
    Options: A thick, folded cotton cloth / A thin steel plate / A copper sheet / No mat  
    **Answer:** A thick, folded cotton cloth. *Why:* The folded cloth is an insulator. It has air trapped between its folds, so it slows heat moving down into the table. Steel and copper are conductors, so they pass the heat straight through. Picking the steel plate is a common guess, because it looks strong. But this job needs an insulator, not strength.
 ### Testing and Choosing (stretch) (stretch, 16 questions)
@@ -644,10 +644,10 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
    **Answer:** a woollen shawl → Trapped air keeps heat in; a fluffy quilt → Trapped air keeps heat in; a crow fluffing up their feathers on a cold morning → Trapped air keeps heat in; a wet cloth on a hot forehead → Evaporation cools; sweat on your skin → Evaporation cools; a clay pot of water → Evaporation cools. *Why:* These are the two big ideas of the unit. Trapped still air slows heat leaving. Evaporating water takes heat away.
 9. (perspective) A school in Madurai, where summers are very hot, needs a new roof. Three people each want a different material.  
    **Answer:** Any choice can be strong. A strong answer names a property, for example: tin is a good conductor, so it gets very hot in the Sun and heats the room below. Then it is fair to another side, for example: clay tiles can crack, or concrete costs more but lasts much longer.. *Why:* Cost, strength, how long it lasts and how hot the room gets all matter. Real builders weigh them up. There is no single right answer.
-10. (mcq) Kavya tests which cloth makes the best tea cosy. She wraps one tumbler in wool and one in cotton. She fills the wool one with boiling water and the cotton one with warm water. What is wrong with her test?  
+10. (mcq) A girl tests which cloth makes the best tea cosy. She wraps one tumbler in wool and one in cotton. She fills the wool one with boiling water and the cotton one with warm water. What is wrong with her test?  
    Options: The water should start at the same temperature in both / She should use only one tumbler / Cotton cannot be tested / Nothing is wrong  
    **Answer:** The water should start at the same temperature in both. *Why:* In a fair test, only the cloth should change. If one tumbler starts hotter, it may end hotter whatever it is wrapped in. A strong answer names the one thing that should stay the same.
-11. (write) Farhan says, 'A steel bottle keeps water colder than a clay pot, because steel feels colder when I touch it.' What would you tell him? How could he find out?  
+11. (write) Farhan, a boy in Class 4, says, 'A steel bottle keeps water colder than a clay pot, because steel feels colder when I touch it.' What would you tell him? How could he find out?  
    **Answer:** A strong answer says steel feels cold because it takes heat from your hand quickly, not because it is colder. The way to find out is to test: fill a steel bottle and a clay pot with the same water, leave them side by side, and measure both with a thermometer after three hours.. *Why:* How a material feels is not the same as its temperature. The Matka Mystery test is the fair way to answer the question.
 12. (draw) A fruit seller in a hot market wants to keep her grapes cool all day, with no electricity. Design a cooler for her. Draw it, and label each material and its job.  
    **Answer:** For example: a big clay pot with a smaller clay pot inside it. Wet sand fills the gap. A wet cloth covers the top. Labels say the clay is porous, the water in the sand evaporates and takes heat away, and the cooler stands in the shade where air can move.. *Why:* A strong design uses evaporation and a porous material, and keeps the cooler in moving air.
@@ -708,7 +708,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 1. (mcq) Why do we choose a particular material for a job?  
    Options: Because its properties suit the job / Because it is the newest material / Because it is the most colourful / Because it is always the cheapest  
    **Answer:** Because its properties suit the job. *Why:* We look at what the job needs, then find a material with those properties. Picking 'cheapest' is a real thing people think about. But a cheap material that cannot do the job is no use.
-2. (mcq) Selvi spills a glass of water on the floor. She has a plastic sheet and an old cotton towel. Which will clean it up, and why?  
+2. (mcq) A girl spills a glass of water on the floor. She has a plastic sheet and an old cotton towel. Which will clean it up, and why?  
    Options: The cotton towel, because cotton is absorbent / The plastic sheet, because plastic is waterproof / Both work equally well / Neither, because water cannot be picked up  
    **Answer:** The cotton towel, because cotton is absorbent. *Why:* Cotton soaks up the water. Plastic is waterproof, so it only pushes the water around. Picking plastic means thinking 'waterproof' means 'good with water'. For this job it is the wrong property.
 3. (mcq) A kadai is metal, but its handle is wood. Why?  
@@ -732,7 +732,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 9. (mcq) Bone is made of a bendy material and a hard mineral. Why is this a good design?  
    Options: Together they make bone hard and tough, not brittle and not floppy / It makes bone heavier / It makes bone see-through / It makes bone soft like jelly  
    **Answer:** Together they make bone hard and tough, not brittle and not floppy. *Why:* The mineral alone would snap like chalk. The bendy collagen alone would flop. Joined, they make a strong composite. Picking 'heavier' misses the point. The mix is about toughness.
-10. (mcq) Divya says, 'Steel is the strongest material in our house, so it is the best material for every job.' Which job shows she is wrong?  
+10. (mcq) Divya, a girl in Class 4, says, 'Steel is the strongest material in our house, so it is the best material for every job.' Which job shows she is wrong?  
    Options: A window, because steel does not let light through / A bridge / A spoon / A pressure cooker  
    **Answer:** A window, because steel does not let light through. *Why:* Steel is strong, but it is not transparent. A window's job is to let light in, and glass does that. Picking 'a bridge' or 'a spoon' gives a job steel does well. The best material depends on the job.
 11. (mcq) Spectacles for a small child are often plastic, not glass. Why?  

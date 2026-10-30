@@ -672,10 +672,10 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
    **Answer:** The bag's mass: how much rice is in it. *Why:* Kilograms tell us how much matter, or stuff, is in the bag. That is its mass. The Earth's pull on it is its weight, measured in newtons. The shopkeeper's way of talking is fine in a shop. Scientists just need two different words.
 2. (fill) Weight is a pull, so scientists measure it in ____.  
    **Answer:** ['newtons', 'newton']. *Why:* Newtons are the unit for every push and pull, and weight is a pull. They are named after Isaac Newton.
-3. (mcq) Kavya hangs 100 grams of rice on a forcemeter, and it reads about 1 newton. 200 grams reads about 2 newtons. What should 500 grams read?  
+3. (mcq) A girl hangs 100 grams of rice on a forcemeter, and it reads about 1 newton. 200 grams reads about 2 newtons. What should 500 grams read?  
    Options: About 5 newtons / About 3 newtons / About 500 newtons / About 50 newtons  
    **Answer:** About 5 newtons. *Why:* Each 100 grams adds about 1 newton. 500 grams is 5 lots of 100 grams, so about 5 newtons. Picking 3 newtons means adding only one more step. Picking 500 newtons mixes up grams and newtons.
-4. (write) Lakshmi reads the forcemeter while the bag on it is still bouncing up and down. Why might her number be wrong? What should she do?  
+4. (write) A girl reads the forcemeter while the bag on it is still bouncing up and down. Why might her number be wrong? What should she do?  
    **Answer:** A strong answer says that while the bag bounces, the spring pulls up sometimes more and sometimes less than gravity pulls down. So the pointer swings. She should wait until the bag hangs still, then read the scale with her eyes level with the pointer.. *Why:* Only when the bag is still does the spring pull up exactly as hard as gravity pulls down. Then the reading is the weight.
 5. (forces) A bag of rice hangs still from a forcemeter. Show the two forces on the bag.  
    Options: gravity / spring pulls up / push / friction  
@@ -685,12 +685,12 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 7. (mcq) On the Moon, the same bag of rice pulls on a forcemeter only about one sixth as hard as on Earth. Why?  
    Options: The Moon has much less mass than the Earth, so it pulls less / Some of the rice is left behind on Earth / There is no air on the Moon / The forcemeter breaks in space  
    **Answer:** The Moon has much less mass than the Earth, so it pulls less. *Why:* Weight depends on what is pulling. The Moon is much smaller, with far less mass, so it pulls more weakly. Picking 'no air' is a common idea, but air does not make things heavy.
-8. (mcq) Meenakshi stands on a steel stool. Gravity pulls her down. Why doesn't she sink into the stool?  
+8. (mcq) A girl stands on a steel stool. Gravity pulls her down. Why doesn't she sink into the stool?  
    Options: The stool pushes up on her just as hard as she presses down / Gravity does not pull people indoors / Her chappals are too wide / The air under her holds her up  
    **Answer:** The stool pushes up on her just as hard as she presses down. *Why:* When she presses on the stool, its atoms push back on her. Scientists call this the support force. Picking 'gravity does not pull indoors' is wrong: gravity pulls everywhere, all the time.
 9. (draw) Draw yourself standing on the floor. Draw one arrow for gravity's pull on you and one arrow for the floor's push on you.  
    **Answer:** The gravity arrow points down from the middle of the body. The floor's arrow points up from the feet. The two arrows are the same length.. *Why:* When you stand still, the floor pushes up exactly as hard as gravity pulls down.
-10. (mcq) Divya hangs a stone on a forcemeter. It reads 3 newtons in the air. She lowers it all the way under water. What do you predict it will read?  
+10. (mcq) A girl hangs a stone on a forcemeter. It reads 3 newtons in the air. She lowers it all the way under water. What do you predict it will read?  
    Options: Less than 3 newtons / More than 3 newtons / Exactly 3 newtons / Zero  
    **Answer:** Less than 3 newtons. *Why:* The water pushes up on the stone, so the spring has less to hold. Scientists call the water's push upthrust. Picking 'exactly 3' is a good guess if gravity is all that matters. But the water helps hold the stone up.
 11. (write) You feel much lighter in a swimming pool. Your friend says gravity must be weaker in water. Is she right? Explain.  
@@ -721,10 +721,10 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
    **Answer:** True. *Why:* True. Only speeding up or slowing down changes the reading. At a steady speed, the spring pulls up just as hard as gravity pulls down.
 6. (write) Near the top of the ride, the bag's reading dropped to 9 newtons. Did the bag lose some of its mass? What really happened?  
    **Answer:** A strong answer says no, the bag still had all its mass. The lift was slowing down. To slow the bag down, the spring pulled up less than gravity pulled down. So the reading dropped, and then went back to 10 newtons when the lift stopped.. *Why:* The reading shows how hard the spring holds the bag, not the bag's mass. You feel the same: a little lighter as a lift slows at the top.
-7. (mcq) Selvi stands with one foot on each of two bathroom scales. Both read 15 kilograms. She lifts her left foot. What does the right scale read now?  
+7. (mcq) A girl stands with one foot on each of two bathroom scales. Both read 15 kilograms. She lifts her left foot. What does the right scale read now?  
    Options: About 30 kilograms / About 15 kilograms / About 0 kilograms  
    **Answer:** About 30 kilograms. *Why:* Now one scale must hold up all of her, so it reads her whole weight. Picking 15 kilograms means thinking each scale has its own fixed share.
-8. (write) Sowmya stands on two bathroom scales, one foot on each. One reads 14 kilograms and the other reads 16. Her brother says the scales must be broken, because they do not match. Is he right? Explain.  
+8. (write) Sowmya, a girl in Class 4, stands on two bathroom scales, one foot on each. One reads 14 kilograms and the other reads 16. Her brother says the scales must be broken, because they do not match. Is he right? Explain.  
    **Answer:** A strong answer says no. Sowmya is probably leaning a little to one side, so one foot presses harder. The total, 30 kilograms, is what she weighs. Leaning moves her weight between the scales, but the total stays the same.. *Why:* Each scale shows how hard it is pushing up. Together they hold up all of her.
 9. (mcq) A child has a mass of 30 kilograms. Look at the chart. About how much would she weigh on the Moon?  
    Options: About 50 newtons / About 300 newtons / About 5 kilograms / About 1,800 newtons  
@@ -799,7 +799,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 1. (mcq) Which sentence about weight is true?  
    Options: Weight is the pull of gravity on a thing, measured in newtons / Weight is how much matter a thing has, measured in kilograms / Weight is how big a thing is  
    **Answer:** Weight is the pull of gravity on a thing, measured in newtons. *Why:* Weight is a pull, so it is measured in newtons. How much matter a thing has is its mass, in kilograms.
-2. (mcq) Kavya's school bag has a mass of 3 kilograms. What do the 3 kilograms tell you?  
+2. (mcq) A school bag has a mass of 3 kilograms. What do the 3 kilograms tell you?  
    Options: How much matter is in the bag / How hard the Earth pulls the bag / How big the bag is  
    **Answer:** How much matter is in the bag. *Why:* Kilograms measure mass, the amount of matter. The Earth's pull on the bag is its weight, about 30 newtons.
 3. (mcq) On Earth, about what does a 2 kilogram bag of atta read on a forcemeter?  
@@ -814,7 +814,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 6. (mcq) A heavy book lies still on a table. Gravity pulls it down. What is the table doing?  
    Options: Pushing up on the book just as hard as gravity pulls down / Nothing. It just stands there / Pulling the book down too  
    **Answer:** Pushing up on the book just as hard as gravity pulls down. *Why:* The book presses on the table, and the table's atoms push back. This support force is exactly as big as the book's weight, so the book stays still.
-7. (mcq) Lakshmi pulls a full bucket up from a well. It feels easy while it is still under the water, then suddenly heavy as it comes out. Why?  
+7. (mcq) A girl pulls a full bucket up from a well. It feels easy while it is still under the water, then suddenly heavy as it comes out. Why?  
    Options: Under the water, the water pushes up on the bucket / The bucket loses some water as it rises / Gravity is weaker under water  
    **Answer:** Under the water, the water pushes up on the bucket. *Why:* While the bucket is under the water, the water pushes up on it and holds up most of its weight. Out of the water, nothing helps, so the rope must hold all of it. Gravity pulls the same the whole time.
 8. (mcq) A lift starts going up. How do you feel?  

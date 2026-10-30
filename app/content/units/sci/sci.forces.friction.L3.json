@@ -1145,7 +1145,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Meenakshi pulls a box of books across the floor with a forcemeter. The full box needs 8 newtons. The half-empty box needs 4 newtons. Look at the pictures. Why does the full box need more pull?",
+     "p": "A girl pulls a box of books across the floor with a forcemeter. The full box needs 8 newtons. The half-empty box needs 4 newtons. Look at the pictures. Why does the full box need more pull?",
      "opts": [
       "The full box presses down harder, so there is more friction",
       "The half-empty box is smoother underneath",
@@ -1987,7 +1987,7 @@
   },
   {
    "id": "e3",
-   "title": "Pour the Water Like Hapu",
+   "title": "Pour the Water on the Sand",
    "mins": 30,
    "days": 1,
    "question": "Does wet sand make a sledge easier to pull? How much water is best?",
@@ -2060,8 +2060,8 @@
      "id": "s3",
      "mins": 7,
      "do": "1. Sprinkle water on the sand, one spoon at a time. Mix it in well after each spoon, so all the sand gets damp. 2. Stop when all the sand has just turned darker, but is not wet or muddy. Smooth the top. 3. Pull the box again and read the forcemeter.",
-     "say": "Now we'll pour like Hapu, the water-pourer in our story. Just enough to darken the sand, but not enough to make mud.",
-     "kid": "Now be Hapu, the water-pourer! Sprinkle one spoon of water at a time. Stop when the sand turns darker. Not muddy! Pull again. Is it easier?",
+     "say": "Now we'll pour like the water-pourer in our story. Just enough to darken the sand, but not enough to make mud.",
+     "kid": "Now be the water-pourer! Sprinkle one spoon of water at a time. Stop when the sand turns darker. Not muddy! Pull again. Is it easier?",
      "adult": true,
      "parent": "If you see little difference between dry and damp sand, put a heavier load in the box and pull more slowly. Damp sand should feel firm, like sand for building a sandcastle."
     },
@@ -2069,8 +2069,8 @@
      "id": "s4",
      "mins": 6,
      "do": "1. Pour in lots more water, until the sand is soaked and muddy. 2. Pull the box again and read the forcemeter.",
-     "say": "Now let's do what Mery, Hapu's daughter in the story, did on her first try. She poured far too much water.",
-     "kid": "Now pour lots of water, like Mery in the story. She poured too much at first! Pull again. What happens?",
+     "say": "Now let's do what the water-pourer's daughter in the story did on her first try. She poured far too much water.",
+     "kid": "Now pour lots of water, like the girl in the story. She poured too much at first! Pull again. What happens?",
      "check": {
       "t": "mcq",
       "q": "Which sand was easiest to pull the box across?",
@@ -2100,7 +2100,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: just-damp sand is easiest for the sledge. What I saw: dry sand needed 6 newtons and piled up in front of the box. Damp sand needed only 3 newtons. Soaked sand turned to mud. Why: a little water holds the sand grains together, so the box slides on top instead of digging in."
     }
    ],
-   "context": "In this unit's story, a giant stone statue is dragged on a sledge in ancient Egypt. Hapu pours water on the sand in front of it. In this experiment, you test whether wet sand really helps.",
+   "context": "In this unit's story, a giant stone statue is dragged on a sledge in ancient Egypt. A man walks ahead of it pouring water on the sand in front of it. In this experiment, you test whether wet sand really helps.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: pull needed on three kinds of sand",

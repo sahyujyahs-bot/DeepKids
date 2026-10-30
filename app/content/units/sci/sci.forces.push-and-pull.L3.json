@@ -929,7 +929,7 @@
     },
     {
      "t": "mcq",
-     "p": "Gauri draws two arrows on a box. One arrow is short and one is long. What does the long arrow tell you?",
+     "p": "Two arrows are drawn on a box. One arrow is short and one is long. What does the long arrow tell you?",
      "opts": [
       "That push is bigger",
       "That push is slower",
@@ -941,7 +941,7 @@
     },
     {
      "t": "mcq",
-     "p": "Rani sits on a towel on a smooth floor, facing a wall. She pushes the wall hard with her feet. Predict: which way will she move?",
+     "p": "A girl sits on a towel on a smooth floor, facing a wall. She pushes the wall hard with her feet. Predict: which way will she move?",
      "opts": [
       "Towards the wall",
       "Away from the wall",
@@ -954,9 +954,9 @@
     },
     {
      "t": "write",
-     "p": "Rani was the one who pushed. So why did she slide away from the wall? Use the words push and back in your answer.",
+     "p": "The girl was the one who pushed. So why did she slide away from the wall? Use the words push and back in your answer.",
      "lines": 3,
-     "a": "When Rani pushed the wall, the wall pushed her back just as hard. That push back moved her away. The wall did not move, because it is fixed to the house.",
+     "a": "When the girl pushed the wall, the wall pushed her back just as hard. That push back moved her away. The wall did not move, because it is fixed to the house.",
      "why": "A strong answer says that forces come in pairs: her push on the wall, and the wall's push back on her.",
      "how": "e1"
     },
@@ -1077,7 +1077,7 @@
     },
     {
      "t": "perspective",
-     "p": "Kayal, her brother Arun and their grandmother are arguing about turning a tap on.",
+     "p": "A girl, her brother and their grandmother are arguing about turning a tap on.",
      "views": [
       {
        "who": "Kayal, a girl in Class 3",
@@ -1160,7 +1160,7 @@
     },
     {
      "t": "write",
-     "p": "Selvi flicks a carrom coin with the same strength two times. First she aims it at the top pocket, then at the left pocket. What stays the same about her flick, and what changes? Why does the coin go somewhere different?",
+     "p": "A girl flicks a carrom coin with the same strength two times. First she aims it at the top pocket, then at the left pocket. What stays the same about her flick, and what changes? Why does the coin go somewhere different?",
      "lines": 3,
      "a": "The size of the flick stays the same, because she flicks equally hard. The direction changes. A force pushes a thing the way the force points, so a new direction sends the coin somewhere new.",
      "why": "A strong answer separates the two parts of a force: its size and its direction. Changing only the direction is enough to change the result.",
@@ -1261,7 +1261,7 @@
     },
     {
      "t": "forces",
-     "p": "Revathi hangs still from a bar in the park, holding on with both hands. Show the forces on Revathi with arrows.",
+     "p": "A girl hangs still from a bar in the park, holding on with both hands. Show the forces on the girl with arrows.",
      "obj": "a girl hanging still from a bar",
      "options": [
       "gravity",
@@ -3121,7 +3121,7 @@
   },
   {
    "t": "mcq",
-   "p": "Shreya squeezes half a lemon over her rice. Is her squeeze a push or a pull?",
+   "p": "A girl squeezes half a lemon over her rice. Is her squeeze a push or a pull?",
    "opts": [
     "A push, from both sides",
     "A pull",

@@ -772,7 +772,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Lakshmi's little brother touches a door handle that a child with a cold has just touched. Then he rubs his eye. At which moment do the germs get into his body?",
+     "p": "A little boy touches a door handle that a child with a cold has just touched. Then he rubs his eye. At which moment do the germs get into his body?",
      "opts": [
       "When he rubs his eye",
       "When he touches the handle",
@@ -929,7 +929,7 @@
     },
     {
      "t": "mcq",
-     "p": "Revathi finds tiny wriggling creatures swimming in the water of a flowerpot tray on her balcony. What should she do?",
+     "p": "A girl finds tiny wriggling creatures swimming in the water of a flowerpot tray on her balcony. What should she do?",
      "opts": [
       "Tip out the water and scrub the tray",
       "Add more water so they have room",
@@ -1420,9 +1420,9 @@
     },
     {
      "t": "write",
-     "p": "Ammu says: 'Hand sanitiser kills germs, and soap only washes them off. So sanitiser is always better.' After eating a greasy vada, which would you use, and why? Then say when Ammu's sanitiser is a good choice.",
+     "p": "A friend says: 'Hand sanitiser kills germs, and soap only washes them off. So sanitiser is always better.' After eating a greasy vada, which would you use, and why? Then say when sanitiser is a good choice.",
      "lines": 4,
-     "a": "A strong answer chooses soap and water for greasy hands, because soap lifts the oil the germs sit in, and sanitiser does not remove oil or dirt. It adds that some tummy viruses are not killed well by sanitiser. It then gives Ammu a fair point: sanitiser is useful when hands look clean and there is no soap or water, such as on a bus.",
+     "a": "A strong answer chooses soap and water for greasy hands, because soap lifts the oil the germs sit in, and sanitiser does not remove oil or dirt. It adds that some tummy viruses are not killed well by sanitiser. It then gives the friend a fair point: sanitiser is useful when hands look clean and there is no soap or water, such as on a bus.",
      "why": "Health experts say to wash with soap and water when you can, and use sanitiser when you cannot. Killing is not always better than removing."
     }
    ]
@@ -2744,7 +2744,7 @@
   },
   {
    "t": "mcq",
-   "p": "Arjun's ear feels itchy. Which is the safe thing to do?",
+   "p": "A boy's ear feels itchy. Which is the safe thing to do?",
    "opts": [
     "Wipe the outer ear with a cloth, and never poke anything inside",
     "Clean inside with a hairpin",

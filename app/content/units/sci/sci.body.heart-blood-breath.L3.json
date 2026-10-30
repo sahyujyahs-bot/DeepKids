@@ -2128,7 +2128,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi looks at the veins on her wrist. She says, 'The blood in my veins is blue. It turns red when it touches air.' What is wrong with her idea?",
+     "p": "A girl looks at the veins on her wrist. She says, 'The blood in my veins is blue. It turns red when it touches air.' What is wrong with her idea?",
      "opts": [
       "Blood is always red. Blood in veins is darker red, and veins only look blue through skin.",
       "Nothing. Blood in veins is blue.",
@@ -2140,7 +2140,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the jumping heart experiment, Kavya counted 40 beats in 30 seconds while sitting still. How many is that in one minute?",
+     "p": "In the jumping heart experiment, Kavya, a girl in Class 3, counted 40 beats in 30 seconds while sitting still. How many is that in one minute?",
      "how": "e1",
      "context": "This question is about the jumping heart experiment. You count your pulse at your wrist while sitting still, just after one minute of jumping, and after resting.",
      "opts": [
@@ -2246,7 +2246,7 @@
      "p": "Is it bad for a child to run until they are out of breath? Three people give different answers.",
      "views": [
       {
-       "who": "Arjun's Paati",
+       "who": "A grandmother",
        "says": "Don't run so much. You will tire out your heart."
       },
       {
@@ -2261,8 +2261,8 @@
      "ask": "Who do you agree with most? Use what you saw in the jumping heart experiment. Then say one thing that someone else has right.",
      "lines": 4,
      "how": "e1",
-     "a": "A strong answer picks a side and uses evidence, such as 'my pulse went up to 140 after jumping, but it came back down within two minutes'. It then admits a fair point, for example that Paati is right to want rest when something feels wrong.",
-     "why": "Doctors agree that exercise is good for a healthy heart, and that a heart that speeds up and then slows down is working well. Paati's worry is a kind one, and the teacher's rule of listening to your body fits both views."
+     "a": "A strong answer picks a side and uses evidence, such as 'my pulse went up to 140 after jumping, but it came back down within two minutes'. It then admits a fair point, for example that the grandmother is right to want rest when something feels wrong.",
+     "why": "Doctors agree that exercise is good for a healthy heart, and that a heart that speeds up and then slows down is working well. The grandmother's worry is a kind one, and the teacher's rule of listening to your body fits both views."
     },
     {
      "t": "write",
@@ -2329,7 +2329,7 @@
     },
     {
      "t": "mcq",
-     "p": "Divya pushes room air through one glass of limewater with a pump. She blows her breath through another. Before she starts, her friend Arjun says, 'The room-air glass will go milky, because room air has more oxygen.' What will happen?",
+     "p": "Divya, a girl in Class 4, pushes room air through one glass of limewater with a pump. She blows her breath through another. Before she starts, her friend Arjun says, 'The room-air glass will go milky, because room air has more oxygen.' What will happen?",
      "how": "e2",
      "context": "This question is about the milky breath experiment. Limewater is made by stirring chuna into water and letting it settle. It goes milky when carbon dioxide bubbles through it.",
      "opts": [
@@ -2362,7 +2362,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the upside-down bottle experiment, Revathi's ordinary breath pushed out about 300 ml of air. Her mother's pushed out about 500 ml. Revathi says, 'So my lungs are worse.' What is a better explanation?",
+     "p": "In the upside-down bottle experiment, the ordinary breath of Revathi, a girl in Class 3, pushed out about 300 ml of air. Her mother's pushed out about 500 ml. Revathi says, 'So my lungs are worse.' What is a better explanation?",
      "how": "e3",
      "opts": [
       "Revathi's body is smaller, so her lungs are smaller and she needs less air in each breath",
@@ -2694,7 +2694,7 @@
     },
     {
      "t": "write",
-     "p": "Kavya wants to test if slow breathing calms the heart, like in the Cooling Cloud activity. Her brother says, 'Just count your pulse once before and once after.' How could Kavya make her test fairer and more sure?",
+     "p": "Kavya, a girl in Class 4, wants to test if slow breathing calms the heart, like in the Cooling Cloud activity. Her brother says, 'Just count your pulse once before and once after.' How could Kavya make her test fairer and more sure?",
      "lines": 4,
      "how": "a5",
      "a": "Count each time twice, because one count can be a mistake. Sit the same way the whole time, and rest first so the pulse is steady. Also try sitting for the same time with ordinary breathing, to see if just sitting slows the heart too.",
@@ -2709,7 +2709,7 @@
     },
     {
      "t": "write",
-     "p": "In the jumping heart experiment, Revathi's pulse was 80 sitting, 140 just after jumping, and 95 after 2 minutes of rest. Her mother's was 70, 120, then 72. Whose heart got back to resting faster? What might that tell you?",
+     "p": "In the jumping heart experiment, Revathi, a girl in Class 4, had a pulse of 80 sitting, 140 just after jumping, and 95 after 2 minutes of rest. Her mother's was 70, 120, then 72. Whose heart got back to resting faster? What might that tell you?",
      "lines": 4,
      "how": "e1",
      "context": "This question is about the jumping heart experiment. You count your pulse at your wrist while sitting still, just after one minute of jumping, and after resting.",
@@ -2748,7 +2748,7 @@
   },
   {
    "t": "mcq",
-   "p": "Meenakshi counted her pulse for 15 seconds and got 22 beats. About how many beats is that in one minute?",
+   "p": "Meenakshi, a girl in Class 3, counted her pulse for 15 seconds and got 22 beats. About how many beats is that in one minute?",
    "opts": [
     "88",
     "44",
@@ -2816,7 +2816,7 @@
   },
   {
    "t": "mcq",
-   "p": "Lakshmi cut her knee. After a few minutes it stopped bleeding. Which part of her blood did that?",
+   "p": "A girl cut her knee. After a few minutes it stopped bleeding. Which part of her blood did that?",
    "opts": [
     "Platelets, which stick together to plug the cut",
     "Red blood cells, which carry oxygen",
@@ -2934,7 +2934,7 @@
  ],
  "maths": [
   {
-   "problem": "In the jumping heart experiment, Meera counted 42 heartbeats in 30 seconds while sitting still. How many heartbeats is that in one minute?",
+   "problem": "In the jumping heart experiment, Meera, a girl in Class 3, counted 42 heartbeats in 30 seconds while sitting still. How many heartbeats is that in one minute?",
    "answer": "84 heartbeats in one minute.",
    "explain": "One minute is 60 seconds. That is two lots of 30 seconds. So Meera's heart beat 42 times, and then 42 times again. 42 + 42 = 84. Another way: 40 + 40 = 80, and 2 + 2 = 4, so 84.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -2976,7 +2976,7 @@
    "why_maths": "A bar chart shows at a glance which bar is tallest. Taking one bar from another tells us exactly how much the heart sped up."
   },
   {
-   "problem": "In the upside-down bottle experiment, Meenakshi's ordinary breath out pushed out 250 ml of air. Her biggest breath out pushed out 1,500 ml. How many ordinary breaths would fit into her biggest breath?",
+   "problem": "In the upside-down bottle experiment, Meenakshi, a girl in Class 4, breathed out 250 ml of air in an ordinary breath. Her biggest breath out pushed out 1,500 ml. How many ordinary breaths would fit into her biggest breath?",
    "answer": "6 ordinary breaths.",
    "explain": "We want to know how many lots of 250 make 1,500. Count up: 250, 500, 750, 1,000, 1,250, 1,500. That is 6 jumps. So her biggest breath was 6 times her ordinary one.",
    "math_unit": "math.division.sharing-and-grouping.L3",

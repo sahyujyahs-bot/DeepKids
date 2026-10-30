@@ -961,7 +961,7 @@
     },
     {
      "t": "mcq",
-     "p": "Meenakshi hangs a paper cup from a rubber band. With 5 coins in the cup, the band is 11 cm long. With 10 coins, it is 12 cm. What is the best guess for 15 coins?",
+     "p": "You hang a paper cup from a rubber band. With 5 coins in the cup, the band is 11 cm long. With 10 coins, it is 12 cm. What is the best guess for 15 coins?",
      "opts": [
       "About 13 cm",
       "Still 12 cm",
@@ -990,7 +990,7 @@
     },
     {
      "t": "mcq",
-     "p": "Arjun pulls a pen spring very hard. Now it stays long and loose. He says, 'It is more elastic now, because it is longer.' What is wrong with his idea?",
+     "p": "A girl pulls a pen spring very hard. Now it stays long and loose. She says, 'It is more elastic now, because it is longer.' What is wrong with her idea?",
      "opts": [
       "The spring went past its elastic limit, so it no longer springs back properly",
       "Nothing. Longer springs are always more elastic",
@@ -998,7 +998,7 @@
       "Pen springs are not elastic at all"
      ],
      "a": 0,
-     "why": "Elastic means springing back, not being long. Arjun pulled the spring past its elastic limit. Now it stays stretched, so it is less elastic, not more. Picking 'not elastic at all' misses that it sprang back when it was pulled gently.",
+     "why": "Elastic means springing back, not being long. She pulled the spring past its elastic limit. Now it stays stretched, so it is less elastic, not more. Picking 'not elastic at all' misses that it sprang back when it was pulled gently.",
      "how": "e3",
      "context": "In the Find the Limit experiment, you stretch different things, let go, and measure them again."
     },
@@ -1041,7 +1041,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Band Launch, Lakshmi pulls a rubber band back 5 cm and it flies 1 metre. Next she pulls it back 15 cm. What will most likely happen?",
+     "p": "In the Band Launch, you pull a rubber band back 5 cm and it flies 1 metre. Next you pull it back 15 cm. What will most likely happen?",
      "opts": [
       "It flies further, because a longer stretch stores more energy",
       "It flies the same 1 metre, because it is the same band",
@@ -1183,7 +1183,7 @@
     },
     {
      "t": "mcq",
-     "p": "Selvi in Madurai makes a weighing hook for mangoes from a rubber band. A thin band stretches 10 cm with one mango and snaps with three. A thick band stretches 3 cm with one mango. Which band should she use?",
+     "p": "A shopkeeper in Madurai makes a weighing hook for mangoes from a rubber band. A thin band stretches 10 cm with one mango and snaps with three. A thick band stretches 3 cm with one mango. Which band should she use?",
      "opts": [
       "The thick band, because it is stiffer and stays below its limit with heavy loads",
       "The thin band, because a bigger stretch is always better",
@@ -1215,15 +1215,15 @@
     },
     {
      "t": "mcq",
-     "p": "Look at these Bounce Test results. Farhan says the sponge ball is the most elastic, because it is the softest. What do the results show?",
+     "p": "Look at these Bounce Test results. A friend says the sponge ball is the most elastic, because it is the softest. What do the results show?",
      "opts": [
       "The rubber ball is most elastic, because it springs back highest",
-      "Farhan is right: the sponge ball is most elastic",
+      "Your friend is right: the sponge ball is most elastic",
       "The dough ball is most elastic",
       "All the balls are equally elastic"
      ],
      "a": 0,
-     "why": "The rubber ball came back up 80 cm out of 100 cm, so it springs back best. The sponge ball came back only 20 cm. Soft is not the same as elastic. Farhan's guess is common, which is why testing matters.",
+     "why": "The rubber ball came back up 80 cm out of 100 cm, so it springs back best. The sponge ball came back only 20 cm. Soft is not the same as elastic. Your friend's guess is common, which is why testing matters.",
      "how": "e4",
      "chart": {
       "type": "bar",
@@ -1300,7 +1300,7 @@
     },
     {
      "t": "mcq",
-     "p": "Deepa's rubber band car goes 60 cm with 5 winds and 180 cm with 15 winds. About how far will it go with 10 winds?",
+     "p": "A rubber band car goes 60 cm with 5 winds and 180 cm with 15 winds. About how far will it go with 10 winds?",
      "opts": [
       "About 120 cm",
       "About 60 cm",
@@ -1314,7 +1314,7 @@
     },
     {
      "t": "write",
-     "p": "Divya tests her rubber band car twice. She winds it 5 times on a carpet, then 15 times on a smooth tiled floor. She says, 'The extra winds made it go further.' What is wrong with her test? How would you fix it?",
+     "p": "A girl tests her rubber band car twice. She winds it 5 times on a carpet, then 15 times on a smooth tiled floor. She says, 'The extra winds made it go further.' What is wrong with her test? How would you fix it?",
      "lines": 4,
      "a": "A strong answer says two things changed at once: the number of winds and the floor. The tiles may have let the car roll further. To fix it, she should test both on the same floor and change only the winds.",
      "why": "A fair test changes only one thing. Then you know what caused the difference.",
@@ -1438,7 +1438,7 @@
     },
     {
      "t": "write",
-     "p": "Meenakshi bends a steel hairpin hard, and it stays bent. Her brother says, 'Some of the metal must have been squeezed out.' Is he right? Say what really happened to the atoms.",
+     "p": "A girl bends a steel hairpin hard, and it stays bent. Her brother says, 'Some of the metal must have been squeezed out.' Is he right? Say what really happened to the atoms.",
      "lines": 4,
      "a": "A strong answer says no, nothing was squeezed out. Every atom is still there. The bend went past the elastic limit, so rows of atoms slipped over each other and settled beside new neighbours. That is why the new shape stays.",
      "why": "Below the limit, bonds stretch and pull back. Past it, atoms move to new places. Nothing is lost, only moved."

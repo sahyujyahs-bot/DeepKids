@@ -889,7 +889,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the splash experiment, the pancake made the most splash and the pointed beak made the least. Revathi makes a fourth shape from the same amount of dough: a short, fat cone. Where do you think its splash will be?",
+     "p": "In the splash experiment, the pancake made the most splash and the pointed beak made the least. A fourth shape is made from the same amount of dough: a short, fat cone. Where do you think its splash will be?",
      "opts": [
       "Bigger than the pancake's",
       "Smaller than the beak's",
@@ -1117,7 +1117,7 @@
     },
     {
      "t": "mcq",
-     "p": "Divya's splash results were pancake 22 spots, ball 9, beak 2. Her friend Sumi's results were pancake 15, ball 6, beak 1. The numbers are different. Do the two tests agree?",
+     "p": "One girl's splash results were pancake 22 spots, ball 9, beak 2. Her friend's results were pancake 15, ball 6, beak 1. The numbers are different. Do the two tests agree?",
      "opts": [
       "No, because the numbers are different",
       "No, so one of the tests must be wrong",

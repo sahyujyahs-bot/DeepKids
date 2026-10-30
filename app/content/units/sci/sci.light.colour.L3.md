@@ -648,7 +648,7 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
    **Answer:** The Sun is behind the person. The rain and the rainbow are in front of them. Red is on the outside of the bow. A strong drawing also shows the person's shadow pointing towards the rainbow.. *Why:* To see a rainbow, the Sun must be behind you and the rain in front.
 11. (write) Tell someone in two sentences why a glass of water makes colours on the floor.  
    **Answer:** A strong answer says that sunlight is all the colours mixed together, and that the water bends each colour by a different amount, so they spread apart on the floor.. *Why:* Two ideas make a full answer: the colours are in the sunlight, and the water spreads them.
-12. (write) Kavya's little brother says the colours on the floor are painted on by the glass. Kavya says they were in the sunlight all along. How could they test who is right? What would they find?  
+12. (write) Kavya, a girl in Class 3, has a little brother. He says the colours on the floor are painted on by the glass. Kavya says they were in the sunlight all along. How could they test who is right? What would they find?  
    **Answer:** A strong answer plans a real check. For example: pour the water into a white cup and see that it is clear. Or put the glass in the shade, where no colours appear. Or use a different clear glass, which gives the same colours. Each shows the colours come from the sunlight, so Kavya is right.. *Why:* A good test lets the evidence decide. If the glass made the colours, they would appear in the shade too.
 13. (truefalse) A red shirt looks red because the cloth makes red light.  
    **Answer:** False. *Why:* False. The shirt makes no light of its own. It absorbs most of the colours in sunlight and reflects the red back to your eyes. In a dark room, it gives out no red at all.
@@ -765,7 +765,7 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 7. (mcq) You spin a rainbow-coloured disc fast. It looks pale white. What does this show?  
    Options: All the colours together look white / Spinning removes colour / The disc was white / Your eyes were closed  
    **Answer:** All the colours together look white. *Why:* When all colours reach the eye together, we see white, as in sunlight. Picking 'spinning removes colour' is tested by the all-red disc, which stays red.
-8. (mcq) Priya did the water prism test once and saw red at one end of the strip. Why should she do it again before saying red is always at that end?  
+8. (mcq) A girl did the water prism test once and saw red at one end of the strip. Why should she do it again before saying red is always at that end?  
    Options: Because one try can be a fluke / To use up time / Because the first try is always wrong / To make the colours brighter  
    **Answer:** Because one try can be a fluke. *Why:* Repeating a test makes sure the result is real. Picking 'the first try is always wrong' is not true. It may be right, but we cannot be sure from one try.
 9. (mcq) In the main rainbow, which colour is on the outside?  

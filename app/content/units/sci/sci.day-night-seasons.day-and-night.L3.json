@@ -1322,7 +1322,7 @@
     },
     {
      "t": "write",
-     "p": "Pooja says, 'When it is noon in Chennai, it is noon everywhere on Earth.' Use the torch and ball to show what she has missed.",
+     "p": "A friend says, 'When it is noon in Chennai, it is noon everywhere on Earth.' Use the torch and ball to show what she has missed.",
      "lines": 3,
      "a": "Noon is when your place faces the Sun most directly. On the ball, only one line of places faces the torch straight on at a time. Places to the east have already passed their noon. Places to the west have not reached it. On the far side of the ball, it is midnight.",
      "why": "A strong answer finds the mistake and uses the model: noon moves round the Earth as it spins, just like sunrise does.",
@@ -1439,15 +1439,15 @@
      "p": "Aryabhata said the Earth spins in 499 CE, in India. Copernicus said it in 1543, in Poland. Heraclides of Pontus said it in Greece even earlier. Many school books name only Copernicus. Three girls argue about who should get the credit.",
      "views": [
       {
-       "who": "Kavitha",
+       "who": "Kavitha, the first girl",
        "says": "Aryabhata should be named first. He said it more than a thousand years before Copernicus."
       },
       {
-       "who": "Leela",
+       "who": "Leela, the second girl",
        "says": "Copernicus gets the credit because his book changed science. Other scientists built on it, and that led to the proof."
       },
       {
-       "who": "Sana",
+       "who": "Sana, the third girl",
        "says": "Name all of them. An idea grows when many people in many places think of it and argue about it."
       }
      ],
@@ -2821,7 +2821,7 @@
   },
   {
    "t": "mcq",
-   "p": "Nithya says, 'At night, we are in the Earth's own shadow.' Is she right?",
+   "p": "A girl says, 'At night, we are in the Earth's own shadow.' Is she right?",
    "opts": [
     "Yes. Night is when our place is on the far side of the Earth, which the Earth itself shades from the Sun",
     "No. Night is the Moon's shadow",
@@ -2976,7 +2976,7 @@
   },
   {
    "t": "mcq",
-   "p": "Roja's aunt flies from Chennai to New York, on the other side of the world. For a few days she feels sleepy at lunchtime and wide awake at night. Why?",
+   "p": "A woman flies from Chennai to New York, on the other side of the world. For a few days she feels sleepy at lunchtime and wide awake at night. Why?",
    "opts": [
     "Her body clock is still on Chennai time",
     "The air on the plane made her tired",

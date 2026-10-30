@@ -561,24 +561,24 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 
 ## Worksheets
 ### The Stages of a Life (core) (core, 16 questions)
-1. (order) Put these people in order of their life stage, from the earliest stage to the latest: Paati, who is 72. Baby Nila, who is 6 months old. Arjun, who is 15. Kavya, who is 8. Amma, who is 38.  
+1. (order) Put these people in order of their life stage, from the earliest stage to the latest: A grandmother who is 72. A baby who is 6 months old. A boy who is 15. A girl who is 8. A mother who is 38.  
    **Answer:** order shown. *Why:* Every person goes through the same stages in the same order: baby, child, teenager, adult, older adult. Nobody skips one. A strong answer also names the stage of each person.
-2. (mcq) Kavya is 8. She thinks children her age grow faster than anyone. A baby grows from about 50 cm to about 75 cm in their first year. An 8-year-old grows about 6 cm in a year. Who grows fastest?  
-   Options: The baby, by about 25 cm in one year / Kavya, because she is older and bigger / They grow at the same speed / Nobody grows after they are born  
-   **Answer:** The baby, by about 25 cm in one year. *Why:* 75 take away 50 is 25 cm in one year. That is about four times what an 8-year-old grows. The first year is the fastest growing of a whole life. Kavya's guess is a common one, because children can see themselves growing out of clothes.
+2. (mcq) A girl is 8. She thinks children her age grow faster than anyone. A baby grows from about 50 cm to about 75 cm in their first year. An 8-year-old grows about 6 cm in a year. Who grows fastest?  
+   Options: The baby, by about 25 cm in one year / The 8-year-old, because she is older and bigger / They grow at the same speed / Nobody grows after they are born  
+   **Answer:** The baby, by about 25 cm in one year. *Why:* 75 take away 50 is 25 cm in one year. That is about four times what an 8-year-old grows. The first year is the fastest growing of a whole life. The girl's guess is a common one, because children can see themselves growing out of clothes.
 3. (mcq) A baby's head is about one quarter of their length. A grown-up's head is only about one eighth. What does this tell you?  
    Options: After birth, the arms, legs and body grow much more than the head / A grown-up's head shrinks / Babies have bigger heads than grown-ups / Heads stop growing at birth  
    **Answer:** After birth, the arms, legs and body grow much more than the head. *Why:* The head is already big at birth, because the brain grows early. Then the legs and body do most of the growing. So the head becomes a smaller part of the whole. A grown-up's head is still bigger than a baby's, so 'bigger heads' is wrong.
-4. (mcq) Lakshmi Paati's hair has turned grey. Her granddaughter Meenakshi says, 'Paati's black hairs turned white.' What really happened?  
+4. (mcq) A grandmother's hair has turned grey. Her granddaughter says, 'Paati's black hairs turned white.' What really happened?  
    Options: Her black hairs stayed black. The cells at the roots stopped making colour, so new hairs grew in white. / Her black hairs slowly turned white from the tip down / Dust collected on her hair / The sun bleached every hair  
    **Answer:** Her black hairs stayed black. The cells at the roots stopped making colour, so new hairs grew in white.. *Why:* A hair that has already grown cannot change colour. Pigment cells at the root put colour into each new hair. As they run out, new hairs grow white. White hairs mixed with dark ones look grey from far away.
 5. (write) Think of your snap-back skin test, where you gently pinched the back of a hand. Whose skin took longest to go flat? Use the springy threads inside skin to explain why.  
    **Answer:** For example: Paati's skin took about 3 seconds. Mine went flat in less than 1 second. Skin has springy threads called collagen and elastin. Older skin has fewer of them, so it springs back more slowly.. *Why:* A strong answer uses the child's own numbers, puts the people in order of age, and explains the result with the springy threads, not with 'old skin is tired'.
 6. (fill) The clear, bendy part inside your eye changes shape to make close things look sharp. It is called the ____.  
    **Answer:** ['lens', 'eye lens']. *Why:* The lens gets fatter and rounder to focus on near things. A child's lens is soft like jelly. An older lens is stiffer.
-7. (mcq) Before the near point test, Divya made a guess. She thought her mother, who is 46, would read the tiny card closer than Divya could. 'Grown-ups read more, so their eyes are better at it,' she said. What did the test most likely show?  
-   Options: Divya read it closer. Her mother had to hold it further away, because her lens is stiffer. / Her mother read it closer, because she reads more / They both read it at exactly the same distance / Neither could read it at all  
-   **Answer:** Divya read it closer. Her mother had to hold it further away, because her lens is stiffer.. *Why:* Reading a lot does not keep the lens soft. The lens adds new layers all through life and gets stiffer. By about 45, most people must hold small print further away. A strong reason uses the lens, not practice.
+7. (mcq) Before the near point test, a girl made a guess. She thought her mother, who is 46, would read the tiny card closer than she could. 'Grown-ups read more, so their eyes are better at it,' she said. What did the test most likely show?  
+   Options: The girl read it closer. Her mother had to hold it further away, because her lens is stiffer. / Her mother read it closer, because she reads more / They both read it at exactly the same distance / Neither could read it at all  
+   **Answer:** The girl read it closer. Her mother had to hold it further away, because her lens is stiffer.. *Why:* Reading a lot does not keep the lens soft. The lens adds new layers all through life and gets stiffer. By about 45, most people must hold small print further away. A strong reason uses the lens, not practice.
 8. (match) Match each life stage to something that often happens in it.  
    **Answer:** Baby → learns to walk; Child → milk teeth fall out; Teenager → growth spurt; Adult → bones at their strongest; Older adult → hair turns white. *Why:* Each stage has its own changes. Babies learn to walk, children lose milk teeth, teenagers grow fast, adults are strongest, and elders' hair often turns white.
 9. (sort) Sort these. Do they usually get HARDER with age, or can they get BETTER?  
@@ -599,15 +599,15 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 16. (fill) The last stage of every life cycle, for plants, animals and people, is ____.  
    **Answer:** ['death', 'dying']. *Why:* Every living being is born, grows, and one day dies. It is a natural part of every life cycle. It is fine to feel sad about it.
 ### Bodies Through the Years (stretch) (stretch, 16 questions)
-1. (mcq) In the near point test, Revathi, aged 9, read the card at 8 cm. Her mother, aged 38, read it at 15 cm. Her grandmother, aged 68, needed 60 cm. What pattern do you see?  
+1. (mcq) In the near point test, a girl aged 9 read the card at 8 cm. Her mother, aged 38, read it at 15 cm. Her grandmother, aged 68, needed 60 cm. What pattern do you see?  
    Options: The older the person, the further away they must hold small print / Mothers always read closest / Distance has nothing to do with age / The card was held differently for each person  
    **Answer:** The older the person, the further away they must hold small print. *Why:* The closest sharp distance moved further away with each older person. The lens adds layers and gets stiffer all through life. In a fair test everyone used the same card, so the card was not the cause.
-2. (write) Revathi's teacher is 25 years old. She did the same near point test. Where do you predict her result fits among Revathi's family: 8 cm at 9, 15 cm at 38, 60 cm at 68? Explain your guess.  
-   **Answer:** For example: about 10 to 12 cm, between Revathi and her mother. The teacher is older than Revathi, so her lens is a bit stiffer. But she is younger than the mother, so it is softer than hers.. *Why:* A strong answer uses the pattern to place the new person in order of age, and gives the lens as the reason. Any guess between 8 and 15 cm with that reason is good.
-3. (mcq) In the high sound test, Anjali, aged 8, heard the 15,000 hertz beep. Her Thatha, aged 70, heard only up to 8,000. Anjali said, 'Thatha wasn't listening properly.' What is a better explanation?  
+2. (write) The girl's teacher is 25 years old. She did the same near point test. Where do you predict her result fits among the girl's family: 8 cm at 9, 15 cm at 38, 60 cm at 68? Explain your guess.  
+   **Answer:** For example: about 10 to 12 cm, between the girl and her mother. The teacher is older than the girl, so her lens is a bit stiffer. But she is younger than the mother, so it is softer than hers.. *Why:* A strong answer uses the pattern to place the new person in order of age, and gives the lens as the reason. Any guess between 8 and 15 cm with that reason is good.
+3. (mcq) In the high sound test, a girl aged 8 heard the 15,000 hertz beep. Her Thatha, aged 70, heard only up to 8,000. The girl said, 'Thatha wasn't listening properly.' What is a better explanation?  
    Options: The hair cells for very high sounds wear out first with age / Thatha's ears are blocked with wax / High sounds are too quiet for everyone / Thatha was sitting too close  
    **Answer:** The hair cells for very high sounds wear out first with age. *Why:* Deep inside the ear, tiny hair cells pick up sounds. The ones for the highest sounds wear out first. So most older people stop hearing very high beeps, even when they listen hard.
-4. (write) In the high sound test, everyone hears the beeps from the same speaker, at the same volume and distance. Why does that matter? What could go wrong if Thatha sat further away than Anjali?  
+4. (write) In the high sound test, everyone hears the beeps from the same speaker, at the same volume and distance. Why does that matter? What could go wrong if Thatha sat further away than the girl?  
    **Answer:** Only age should be different, so we know age caused the result. If Thatha sat further away, the beep would be quieter for him. Then we could not tell if he missed it because of his age or because of the distance.. *Why:* A strong answer says that a fair test changes only one thing, and names how sitting further away would mix up the result.
 5. (truefalse) Every cell in your body is replaced exactly every seven years.  
    **Answer:** False. *Why:* False. This is a popular saying, but there is no seven-year rule. Gut cells are replaced in days, and outer skin in about a month. Most brain cells and the cells in the middle of the eye lens are never replaced.
@@ -616,11 +616,11 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 7. (mcq) In 1951, a baby born in India could expect to live about 32 years on average. Why was the number so low?  
    Options: Many babies and children died of illnesses, which pulled the average down / Everyone was old by 32 / People were shorter then / People did not count birthdays then  
    **Answer:** Many babies and children died of illnesses, which pulled the average down. *Why:* An average counts every life, including the many babies who died of illnesses like cholera and measles. Many people who lived through childhood reached 60 or 70. 'Everyone was old at 32' is a common mistake about averages.
-8. (mcq) Lakshmi Paati slipped on a wet bathroom floor and broke her wrist. Her granddaughter Kavya slipped on the same floor last week and was not hurt. What is the most likely reason?  
-   Options: Bones lose some hard minerals with age, so they break more easily / Kavya is lucky and Paati is not / Children's bones are made of rubber / Paati fell from much higher up  
+8. (mcq) A grandmother slipped on a wet bathroom floor and broke her wrist. Her granddaughter slipped on the same floor last week and was not hurt. What is the most likely reason?  
+   Options: Bones lose some hard minerals with age, so they break more easily / The girl is lucky and the grandmother is not / Children's bones are made of rubber / The grandmother fell from much higher up  
    **Answer:** Bones lose some hard minerals with age, so they break more easily. *Why:* Older bones slowly lose some of their hard minerals, so the same fall can break them. That is why a rubber mat and a handrail in the bathroom help elders.
 9. (perspective) Can worry turn hair grey? Three people give different answers.  
-   **Answer:** A strong answer picks a view and gives evidence, such as the mouse study, or the fact that grown hair cannot change colour. It then admits a fair point from another side. For example, Paati's new hairs may really have grown in grey sooner because of stress.. *Why:* This is still being studied. Stress used up pigment cells in mice, but more studies in humans are needed. The views fit together more than they first seem: stress may make new hairs grow in grey sooner, but old hairs do not change.
+   **Answer:** A strong answer picks a view and gives evidence, such as the mouse study, or the fact that grown hair cannot change colour. It then admits a fair point from another side. For example, the grandmother's new hairs may really have grown in grey sooner because of stress.. *Why:* This is still being studied. Stress used up pigment cells in mice, but more studies in humans are needed. The views fit together more than they first seem: stress may make new hairs grow in grey sooner, but old hairs do not change.
 10. (write) In the socks-on-hands activity, you tried tasks with socks on your hands and smeared glasses. Which task was slowest? What does this tell you about the help an elder might need?  
    **Answer:** For example: doing up buttons was slowest. It took me more than a minute. This tells me stiff fingers make small, fiddly jobs hard. An elder might like big buttons, or help with a tight jar lid, if they want it.. *Why:* A strong answer uses what the child really timed, and turns it into a kind and useful idea for help.
 11. (mcq) Two twin sisters are 60 years old. They have the same genes. One sister worked outdoors in the hot sun all her life without a hat. The other worked indoors. Whose face most likely has more wrinkles, and why?  
@@ -682,17 +682,17 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 - **Elders who stay active: a short film about masters athletes or older learners in India** (to find, for example a news channel feature on Man Kaur or Karthyayani Amma, 4 min) id `to find`: Real Indian elders running races or passing exams break the habit of thinking old means unable. *Check:* No id given. Find a short news feature. Check the facts it gives against the challenging card in this unit before showing.
 
 ## Quiz
-1. (mcq) Arjun is 15, and he is growing very fast. Which life stage is he in, and which stage comes next?  
+1. (mcq) A boy is 15, and he is growing very fast. Which life stage is he in, and which stage comes next?  
    Options: Teenager, then adult / Child, then teenager / Adult, then older adult / Baby, then child  
    **Answer:** Teenager, then adult. *Why:* A person aged about 13 to 19 is a teenager, and the teenage years have a growth spurt. Next comes the adult stage, when growing taller stops.
 2. (mcq) A newborn baby's skull has soft spots, where the bones have not joined yet. Why is this useful?  
    Options: The skull can grow as the baby's brain grows / It makes the head lighter / It lets the baby hear better / It is a sign the baby is ill  
    **Answer:** The skull can grow as the baby's brain grows. *Why:* A baby's brain grows very fast. The soft spots let the skull grow with it. Later the bones join together.
-3. (mcq) Meenakshi's mother is 45. She has started holding her phone far away to read messages. What would help her read up close?  
+3. (mcq) A mother is 45. She has started holding her phone far away to read messages. What would help her read up close?  
    Options: Reading glasses, which do the extra bending her stiff lens cannot do / Longer arms / A brighter phone only / Closing one eye  
    **Answer:** Reading glasses, which do the extra bending her stiff lens cannot do. *Why:* Her lens has got stiffer, so it cannot bulge enough to focus on near things. Reading glasses add the extra bending. This happens to almost everyone by their mid-forties.
-4. (mcq) Kavya's Paati often misses what little children say. But she hears Thatha's deep voice easily. Why?  
-   Options: Children's voices are high, and the hair cells for high sounds wear out first / Children speak too fast / Paati likes Thatha more / Deep voices are always louder  
+4. (mcq) A grandmother often misses what little children say. But she hears her husband's deep voice easily. Why?  
+   Options: Children's voices are high, and the hair cells for high sounds wear out first / Children speak too fast / She likes her husband more / Deep voices are always louder  
    **Answer:** Children's voices are high, and the hair cells for high sounds wear out first. *Why:* Tiny hair cells deep in the ear pick up sounds. The ones for high sounds wear out first with age. So high voices get harder to hear before deep ones do.
 5. (mcq) Meera, a girl in Class 3, gently pinched the skin on the back of her own hand. It went flat in less than 1 second. Her grandmother's skin took 3 seconds. Why?  
    Options: Older skin has fewer springy threads inside / The grandmother was pinched harder / Children's skin has no threads in it / The grandmother's hand was moving  
@@ -703,13 +703,13 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 7. (mcq) Your body makes about 4 million new cells every second. So why don't you keep getting bigger and bigger?  
    Options: Old cells die and are cleared away while new ones are made / The new cells are invisible / New cells are made only while you sleep / You do get bigger every second, for ever  
    **Answer:** Old cells die and are cleared away while new ones are made. *Why:* Most new cells replace old ones that are worn out. Red blood cells last about four months, and skin cells about a month. So the body is rebuilt without growing.
-8. (mcq) Lakshmi Paati is 75. She can't run fast any more. But she finishes the newspaper word puzzle quicker than anyone in the house. What does this show?  
-   Options: Some abilities slow down with age, while knowing words can keep growing / Running and puzzles are the same skill / Paati is not really old / Word puzzles get easier every year  
+8. (mcq) A grandmother is 75. She can't run fast any more. But she finishes the newspaper word puzzle quicker than anyone in the house. What does this show?  
+   Options: Some abilities slow down with age, while knowing words can keep growing / Running and puzzles are the same skill / She is not really old / Word puzzles get easier every year  
    **Answer:** Some abilities slow down with age, while knowing words can keep growing. *Why:* Speed and strength often fall with age. Knowledge and words can keep growing into the seventies. Ageing is not only losing.
 9. (mcq) What is the best way to help an elder who finds a task hard?  
    Options: Ask if they would like help, then help in the way they want / Do everything for them without asking / Laugh, so they feel better / Tell them they are too old  
    **Answer:** Ask if they would like help, then help in the way they want. *Why:* Elders are capable people. Good help starts by asking. Doing everything without asking can make someone feel they are not trusted.
-10. (mcq) Revathi's Paati is 68. She wants to get up from a chair more easily. What is most likely to help?  
+10. (mcq) A grandmother is 68. She wants to get up from a chair more easily. What is most likely to help?  
    Options: Standing up and sitting down slowly, a few times every day, to build leg muscles / Staying sitting as much as she can, to rest her legs / Nothing can help after 60 / Only eating more sweets  
    **Answer:** Standing up and sitting down slowly, a few times every day, to build leg muscles. *Why:* Muscles grow stronger with exercise at any age. In 1990, people aged about 90 got much stronger in eight weeks. Resting all the time makes muscles shrink.
 11. (mcq) A shop sells a cream that says it 'stops ageing'. What does the evidence say?  

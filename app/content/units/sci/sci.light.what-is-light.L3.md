@@ -671,13 +671,13 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
    **Answer:** It takes a tiny time, far too short to notice. *Why:* Light has a speed: about 3 lakh kilometres every second. Across a room, that takes about one hundred-millionth of a second, far too short to notice. So it feels instant, but it is not. A strong answer separates 'too fast to notice' from 'no time'.
 2. (fill) In empty space, light travels about 3 ____ kilometres every second.  
    **Answer:** ['lakh']. *Why:* 3 lakh kilometres is 300,000 kilometres. In one second, light could go round the Earth about seven and a half times.
-3. (mcq) On a sunny day, Meenakshi's shadow on the floor has sharp edges. What does this show about how light travels?  
+3. (mcq) On a sunny day, a girl's shadow on the floor has sharp edges. What does this show about how light travels?  
    Options: Light travels in straight lines, so it cannot curl round her body / Light travels in curves round her body / Light travels only slowly near people  
    **Answer:** Light travels in straight lines, so it cannot curl round her body. *Why:* Light goes in straight lines. Where her body is in the way, the light is blocked, and the lines just past her edges carry on. So the edge of the shadow is sharp. A strong answer says 'straight lines'.
 4. (mcq) In the Flash and Bang experiment, you stood 200 big steps from the helper. What did you notice, and what does it show?  
    Options: I saw the plates meet before I heard the bang, so light travels faster than sound / I heard the bang before I saw the plates meet, so sound is faster / I saw and heard them at the same moment, so they travel at the same speed  
    **Answer:** I saw the plates meet before I heard the bang, so light travels faster than sound. *Why:* From far away there is a gap: the sight arrives first, the sound later. Light crosses 200 steps in almost no time. Sound takes about half a second. A strong answer gives what was seen and what it shows.
-5. (count) Lakshmi sees a flash of lightning. She counts 6 seconds before she hears the thunder. About how many kilometres away was the lightning?  
+5. (count) A girl sees a flash of lightning. She counts 6 seconds before she hears the thunder. About how many kilometres away was the lightning?  
    **Answer:** 2. *Why:* Sound travels about 1 kilometre every 3 seconds. The light arrived almost at once. 6 seconds divided by 3 is 2. So the lightning was about 2 kilometres away.
 6. (write) In the Flash and Bang experiment, you first stood 100 big steps away, then 200. Predict what happened to the gap between seeing and hearing. Explain why.  
    **Answer:** The gap got bigger, about twice as long. The sound had twice as far to travel, so it took twice as long. The light still arrived almost at once, because it is so fast.. *Why:* A strong answer says the gap comes from the trip the sound makes, not from the helper, and links double the distance to double the gap.
@@ -686,14 +686,14 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 8. (mcq) Imagine the Sun suddenly stopped shining. When would people on Earth notice?  
    Options: At that very moment / About 8 minutes later / The next day  
    **Answer:** About 8 minutes later. *Why:* The last light the Sun gave out would still be on its way. For about 8 minutes, we would go on seeing the Sun as if nothing had happened. A strong answer uses the 8-minute trip to predict.
-9. (mcq) In the Glow Star Test, Lakshmi shone a red phone screen on a glow star for 2 minutes. Then she shone a blue screen on it for 30 seconds. Which one made the star glow?  
+9. (mcq) In the Glow Star Test, Lakshmi, a girl in Class 4, shone a red phone screen on a glow star for 2 minutes. Then she shone a blue screen on it for 30 seconds. Which one made the star glow?  
    Options: The red screen, because it shone for longer / The blue screen / Both the same  
    **Answer:** The blue screen. *Why:* Only the blue light made the star glow, even though the red shone four times as long. Many people expect more light, for longer, to always do more. The test shows it does not. Each bit of blue light carries more energy than each bit of red.
 10. (match) Light from each of these takes a different time to reach you. Match each one to its time.  
    **Answer:** a friend across the room → far less than a millionth of a second; the Moon → about 1 second; the Sun → about 8 minutes; the nearest star after the Sun → about 4 years. *Why:* The further away a thing is, the longer its light takes to reach you. Even light, the fastest thing there is, takes years to arrive from the stars.
 11. (sort) Sort these. Can it cross empty space, or does it need air, water or something solid to travel through?  
    **Answer:** sunlight → Can cross empty space; starlight → Can cross empty space; radio signals from a spacecraft → Can cross empty space; the sound of thunder → Needs something to travel through; the bang of two steel plates → Needs something to travel through; a ripple in an uruli of water → Needs something to travel through. *Why:* Light and radio, which is a kind of light we cannot see, cross empty space. Sound and water ripples are movements of air or water, so where there is nothing, they cannot travel.
-12. (write) Divya says, 'When I watch the sunrise, I am seeing the Sun exactly as it is at this moment.' What is not quite right about this?  
+12. (write) Divya, a girl in Class 4, says, 'When I watch the sunrise, I am seeing the Sun exactly as it is at this moment.' What is not quite right about this?  
    **Answer:** The light I see left the Sun about 8 minutes ago. So I am seeing the Sun as it was 8 minutes ago, not as it is now. The Sun has moved on and changed a tiny bit since then.. *Why:* A strong answer finds the mistake (seeing now) and uses the 8-minute trip to correct it.
 13. (draw) Draw a torch, a piece of card with a small hole in the middle, and a wall behind it. Draw the path of the light from the torch, through the hole, to the wall.  
    **Answer:** Straight lines go from the torch to the hole and carry on straight to the wall, making a small spot of light. Light that hits the card is blocked.. *Why:* A strong drawing uses straight lines with a ruler and shows that only light lined up with the hole reaches the wall.
@@ -748,7 +748,7 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 3. (mcq) The Moon is about one and a quarter light-seconds away. Astronauts left mirrors on the Moon. A laser flash is sent there from Earth and bounces back. About how long until the flash returns?  
    Options: About 1 and a quarter seconds / About 2 and a half seconds / About 8 minutes  
    **Answer:** About 2 and a half seconds. *Why:* The flash goes there and comes back, so it makes the trip twice. One and a quarter plus one and a quarter is two and a half seconds. Scientists use this to measure the Moon's distance very exactly.
-4. (mcq) Thenmozhi is an astronaut on Mars. She sends a radio message home. Radio travels at the speed of light, and the trip takes 12 minutes. When does her family hear her?  
+4. (mcq) An astronaut is on Mars. She sends a radio message home. Radio travels at the speed of light, and the trip takes 12 minutes. When does her family hear her?  
    Options: At the same moment she speaks / 12 minutes after she speaks / 12 hours after she speaks  
    **Answer:** 12 minutes after she speaks. *Why:* Radio is a kind of light. It needs 12 minutes to cross the distance. So a chat with Mars is slow: a question and its answer take at least 24 minutes.
 5. (write) Two stars look the same tonight. One is 10 light-years away. The other is 1,000 light-years away. Which star's light is older, and by how many years? Explain.  
@@ -793,7 +793,7 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 3. (mcq) About how long does light from the Sun take to reach the Earth?  
    Options: No time at all / About 8 minutes / About 8 days  
    **Answer:** About 8 minutes. *Why:* The Sun is about 15 crore kilometres away. Light, at 3 lakh kilometres a second, takes about 8 minutes to cross that gap.
-4. (mcq) Arjun learns that moonlight takes about 1 second to reach us, and sunlight about 8 minutes. What does this tell him?  
+4. (mcq) A boy learns that moonlight takes about 1 second to reach us, and sunlight about 8 minutes. What does this tell him?  
    Options: The Sun is much further away than the Moon / Moonlight travels faster than sunlight / The Moon is bigger than the Sun  
    **Answer:** The Sun is much further away than the Moon. *Why:* All light travels at the same speed. So light that takes longer has come further. The Sun is about 400 times further away than the Moon.
 5. (mcq) In the Flash and Bang experiment, what was the one thing you changed between tries?  

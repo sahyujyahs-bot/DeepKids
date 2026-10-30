@@ -2760,14 +2760,14 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Nithya sits in a dark cinema hall. The film ends and the screen goes black. She cannot see her friend in the next seat. Why not?",
+   "p": "You sit in a dark cinema hall. The film ends and the screen goes black. You cannot see your friend in the next seat. Why not?",
    "opts": [
-    "No light is bouncing off her friend into her eyes",
-    "Her eyes have stopped working",
-    "Her friend has become see-through"
+    "No light is bouncing off your friend into your eyes",
+    "Your eyes have stopped working",
+    "Your friend has become see-through"
    ],
    "a": 0,
-   "why": "Her friend is still there, and Nithya's eyes are fine. But with the screen dark, no light lands on her friend, so none bounces into Nithya's eyes. Picking 'her eyes stopped working' forgets that eyes need light to catch.",
+   "why": "Your friend is still there, and your eyes are fine. But with the screen dark, no light lands on your friend, so none bounces into your eyes. Picking 'your eyes stopped working' forgets that eyes need light to catch.",
    "outcome": 0
   },
   {

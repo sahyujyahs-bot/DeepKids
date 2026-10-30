@@ -1040,7 +1040,7 @@
     },
     {
      "t": "write",
-     "p": "Kavya sows a moong seed in a pot of dry soil on a sunny windowsill. She never waters the pot. Will the seed sprout? Explain.",
+     "p": "A girl sows a moong seed in a pot of dry soil on a sunny windowsill. She never waters the pot. Will the seed sprout? Explain.",
      "lines": 3,
      "a": "No. The seed has warmth and air, and sunlight, but no water. Water is what wakes a seed up. Sunlight does not help a seed start, because the seed has their own food.",
      "why": "A strong answer names the missing need, water, and says that the sun does not make up for it."
@@ -1170,7 +1170,7 @@
     },
     {
      "t": "write",
-     "p": "Arif feels his bundle of sprouting moong getting warm. He says, 'They must be rotting.' How could you test whether he is right?",
+     "p": "Arif, a boy in Class 3, feels his bundle of sprouting moong getting warm. He says, 'They must be rotting.' How could you test whether he is right?",
      "lines": 4,
      "a": "Set up two heaps the same way: one of live sprouting moong and one of boiled moong. Put a thermometer in each. For the first day, the live heap gets warm and the boiled heap stays cool. The live sprouts also smell fresh and grow tails. So the warmth comes from seeds breathing, not from rotting.",
      "why": "A strong answer plans a fair test with boiled seeds, so the only difference is whether the seeds are alive.",
@@ -1178,7 +1178,7 @@
     },
     {
      "t": "mcq",
-     "p": "Hema sows one moong seed 1 cm deep in a tall bucket of soil, and another 30 cm deep. Which one is more likely to reach the light?",
+     "p": "A girl sows one moong seed 1 cm deep in a tall bucket of soil, and another 30 cm deep. Which one is more likely to reach the light?",
      "opts": [
       "The shallow seed, because the deep seed's food store may run out before their shoot reaches the light",
       "The deep seed, because they have more soil around them",
@@ -1209,7 +1209,7 @@
     },
     {
      "t": "perspective",
-     "p": "Valli and her neighbours want to sow rajma beans in pots. They give different advice about soaking the seeds first.",
+     "p": "A group of neighbours want to sow rajma beans in pots. They give different advice about soaking the seeds first.",
      "views": [
       {
        "who": "Valli, who grows vegetables on her terrace",
@@ -1231,7 +1231,7 @@
     },
     {
      "t": "write",
-     "p": "Simran, in Delhi, soaks moong on a cold December night. The next evening they still have no tails. Suggest two ways to help them sprout, and say why each one works.",
+     "p": "A girl in Delhi soaks moong on a cold December night. The next evening they still have no tails. Suggest two ways to help them sprout, and say why each one works.",
      "lines": 4,
      "a": "Move the bundle somewhere warmer, for example near the kitchen stove but not on it, because warmth makes the changes inside a seed go faster. Wrap the cloth in a towel, because the seeds' own warmth from breathing stays in. Keep the seeds damp, and keep air around them.",
      "why": "A strong answer names warmth as the missing need, and keeps water and air too."
@@ -2554,7 +2554,7 @@
      "caption": "1. Push two soaked beans into soil against the side of a clear cup."
     },
     {
-     "art": "A child writing a name label, 'Kavya', and sticking it on the cup.",
+     "art": "A child writing a name on a label and sticking it on the cup.",
      "caption": "2. Give your seed friend a name."
     },
     {

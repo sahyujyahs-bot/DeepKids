@@ -960,7 +960,7 @@
     },
     {
      "t": "write",
-     "p": "Kavya's little brother says the colours on the floor are painted on by the glass. Kavya says they were in the sunlight all along. How could they test who is right? What would they find?",
+     "p": "Kavya, a girl in Class 3, has a little brother. He says the colours on the floor are painted on by the glass. Kavya says they were in the sunlight all along. How could they test who is right? What would they find?",
      "lines": 4,
      "a": "A strong answer plans a real check. For example: pour the water into a white cup and see that it is clear. Or put the glass in the shade, where no colours appear. Or use a different clear glass, which gives the same colours. Each shows the colours come from the sunlight, so Kavya is right.",
      "why": "A good test lets the evidence decide. If the glass made the colours, they would appear in the shade too.",
@@ -2736,7 +2736,7 @@
   },
   {
    "t": "mcq",
-   "p": "Priya did the water prism test once and saw red at one end of the strip. Why should she do it again before saying red is always at that end?",
+   "p": "A girl did the water prism test once and saw red at one end of the strip. Why should she do it again before saying red is always at that end?",
    "opts": [
     "Because one try can be a fluke",
     "To use up time",

@@ -837,7 +837,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 6. (mcq) Sea water is boiled in a pot with a lid. Drops collect under the lid. How will those drops taste?  
    Options: Saltier than the sea / Just as salty as the sea / Not salty  
    **Answer:** Not salty. *Why:* Only the water evaporates. The salt stays in the pot. So the drops that condense on the lid are fresh.
-7. (mcq) Meenakshi tests where water dries fastest. She puts one plate in the sun, one under a fan and one in the shade. What must she keep the same to make it a fair test?  
+7. (mcq) A girl tests where water dries fastest. She puts one plate in the sun, one under a fan and one in the shade. What must she keep the same to make it a fair test?  
    Options: The amount of water on each plate / The place of each plate / Nothing  
    **Answer:** The amount of water on each plate. *Why:* Every plate must start with the same amount of water. The place is the one thing she changes on purpose, so that any difference comes from the place.
 8. (mcq) What is transpiration?  

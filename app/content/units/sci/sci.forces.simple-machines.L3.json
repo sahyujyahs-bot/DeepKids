@@ -1152,7 +1152,7 @@
     },
     {
      "t": "mcq",
-     "p": "Divya needs to move a heavy box of books across the floor. Which way is easiest?",
+     "p": "A girl needs to move a heavy box of books across the floor. Which way is easiest?",
      "opts": [
       "Rolling it on round pencils",
       "Dragging it along the floor",
@@ -1655,7 +1655,7 @@
     },
     {
      "t": "fill",
-     "p": "Thangam lifts a bucket that pulls down with 20 newtons, using two pulleys. Now she needs only 10 newtons of pull. To raise the bucket 1 metre, she must pull ____ metres of rope.",
+     "p": "A girl lifts a bucket that pulls down with 20 newtons, using two pulleys. Now she needs only 10 newtons of pull. To raise the bucket 1 metre, she must pull ____ metres of rope.",
      "a": [
       "2",
       "two"
@@ -1729,7 +1729,7 @@
     },
     {
      "t": "write",
-     "p": "Lavanya wants to crack a hard walnut with a nutcracker. Should she put the nut close to the hinge, or near the tips of the handles? Explain using fulcrum, load and effort.",
+     "p": "A girl wants to crack a hard walnut with a nutcracker. Should she put the nut close to the hinge, or near the tips of the handles? Explain using fulcrum, load and effort.",
      "lines": 3,
      "a": "Close to the hinge. The hinge is the fulcrum, the nut is the load, and her hand at the end of the handles is the effort. With the nut near the fulcrum and her hand far away, a small squeeze becomes a big crush on the nut. Near the tips, her hand and the nut would be almost the same distance from the hinge, so there is no gain.",
      "why": "A strong answer names the three parts, and uses the lever rule: the further the effort is from the fulcrum compared with the load, the smaller the push needed."
@@ -3334,7 +3334,7 @@
   },
   {
    "t": "mcq",
-   "p": "Instead of the steps, Kamala pushes her grandmother's wheelchair up a long, gentle ramp. What does the ramp cost her?",
+   "p": "Instead of the steps, A girl pushes her grandmother's wheelchair up a long, gentle ramp. What does the ramp cost her?",
    "opts": [
     "She must push for a longer way",
     "She needs a bigger push",
@@ -3434,7 +3434,7 @@
   },
   {
    "t": "mcq",
-   "p": "Tara lifts a rock with a long crowbar. Her push is only one tenth as big as the rock's weight. The rock rises 1 cm. How far does her hand move down?",
+   "p": "A girl lifts a rock with a long crowbar. Her push is only one tenth as big as the rock's weight. The rock rises 1 cm. How far does her hand move down?",
    "opts": [
     "About 10 cm",
     "About 1 cm",

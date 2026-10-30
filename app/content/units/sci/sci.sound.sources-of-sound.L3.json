@@ -934,7 +934,7 @@
     },
     {
      "t": "mcq",
-     "p": "Farhan hits a drum gently. Then he hits it hard. What changes?",
+     "p": "A girl hits a drum gently. Then she hits it hard. What changes?",
      "opts": [
       "The hard hit is louder, because the skin swings further",
       "The hard hit is higher, because the skin moves faster",
@@ -962,7 +962,7 @@
     },
     {
      "t": "mcq",
-     "p": "Divya says, \"Space is silent because it is so cold out there.\" What is wrong with her reason?",
+     "p": "Divya, a girl in Class 4, says, \"Space is silent because it is so cold out there.\" What is wrong with her reason?",
      "opts": [
       "Nothing. Cold air cannot carry sound",
       "Sound needs a medium, such as air, to pass the push along, and space has almost nothing in it. Cold is not the reason",
@@ -1010,7 +1010,7 @@
     },
     {
      "t": "mcq",
-     "p": "Anjali has two steel bowls of the same size. One is nearly empty. The other is nearly full of water. She taps each one with a spoon. Which bowl gives the lower note?",
+     "p": "A girl has two steel bowls of the same size. One is nearly empty. The other is nearly full of water. She taps each one with a spoon. Which bowl gives the lower note?",
      "opts": [
       "The nearly empty bowl",
       "The nearly full bowl",
@@ -1022,7 +1022,7 @@
     },
     {
      "t": "write",
-     "p": "Saranya's little brother thinks that a sound is a thing that flies out of a drum and into your ear. Write two or three sentences that Saranya could say to him, to explain what really travels.",
+     "p": "A girl's little brother thinks that a sound is a thing that flies out of a drum and into your ear. Write two or three sentences that she could say to him, to explain what really travels.",
      "lines": 3,
      "a": "When the drum skin vibrates, it pushes the air molecules next to it. They push the next ones, and so on, all the way to your ear. The air does not fly across the room. Only the push travels, passed from molecule to molecule.",
      "why": "A strong answer says that the molecules stay roughly where they are, and only the push or the pattern moves along."
@@ -1418,7 +1418,7 @@
     },
     {
      "t": "write",
-     "p": "Kavitha says, \"Sound spreads out like the ripples on a pond when you drop a stone in.\" Write one way her picture is right, and one way it is wrong.",
+     "p": "Kavitha, a girl in Class 5, says, \"Sound spreads out like the ripples on a pond when you drop a stone in.\" Write one way her picture is right, and one way it is wrong.",
      "lines": 4,
      "a": "It is right because the ripples spread out from one place while the water mostly stays where it is, just like sound. It is wrong because ripples are ups and downs on the flat top of the water. Sound is squashing and spreading of air, and it spreads in every direction, up, down and sideways, not only across a flat surface.",
      "why": "A model helps us picture something we cannot see. A strong answer also says where the model breaks down."
@@ -1443,7 +1443,7 @@
     },
     {
      "t": "write",
-     "p": "Kalai has a glass bottle with some water in it. When she taps the bottle with a spoon, adding more water makes the note lower. When she blows across the top, adding more water makes the note higher. Why do the two ways go in opposite directions?",
+     "p": "A girl has a glass bottle with some water in it. When she taps the bottle with a spoon, adding more water makes the note lower. When she blows across the top, adding more water makes the note higher. Why do the two ways go in opposite directions?",
      "lines": 5,
      "a": "When she taps, the glass and the water in it vibrate. More water makes them heavier, so they vibrate more slowly and the note is lower. When she blows, the air above the water vibrates. More water leaves less air, a shorter column of it, and a shorter column vibrates faster, so the note is higher.",
      "why": "A strong answer says what vibrates in each case: the glass and water when tapped, the air above the water when blown."
@@ -2855,7 +2855,7 @@
   },
   {
    "t": "mcq",
-   "p": "In the Twanging Ruler experiment, Leela changes how much ruler sticks out and also flicks it harder, both at the same time. Why can she not tell what changed the sound?",
+   "p": "In the Twanging Ruler experiment, a girl changes how much ruler sticks out and also flicks it harder, both at the same time. Why can she not tell what changed the sound?",
    "opts": [
     "She changed two things at once, so she cannot tell which one made the difference",
     "Rulers cannot make a fair test",

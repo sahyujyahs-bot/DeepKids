@@ -613,7 +613,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 
 ## Worksheets
 ### Moon Detective (core) (core, 15 questions)
-1. (mcq) Lakshmi is 8. She says the Moon glows by itself, like a bulb. Which clue best shows she is wrong?  
+1. (mcq) A girl says the Moon glows by itself, like a bulb. Which clue best shows she is wrong?  
    Options: On Amavasya the Moon is still in the sky, but we cannot see it at all / The Moon is very far away / The Moon looks white / The Moon is cold  
    **Answer:** On Amavasya the Moon is still in the sky, but we cannot see it at all. *Why:* A strong answer uses the clue: a bulb glows on every side, all the time. The Moon goes completely dark when its sunlit half faces away from us. So its light must come from the Sun. 'Far away' and 'white' say nothing about where the light comes from.
 2. (mcq) Why does the Moon seem to change shape?  
@@ -646,10 +646,10 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
    **Answer:** The Moon is in the daytime sky for about half of each month. For example, a few days after Purnima I saw it in the morning sky in the west, after the Sun was up.. *Why:* A strong answer says the Moon is often up in daylight and backs this up with a real sighting: a shape, a time and a direction. The Moon rises about 50 minutes later each day, so on many days it is up while the Sun is.
 14. (draw) Draw the Moon on the night of your favourite Moon festival. Write the festival's name and whether it is Amavasya or Purnima.  
    **Answer:** For example, Diwali: a dark sky with no Moon, because it is Amavasya. Or Karthigai Deepam: a full round Moon, because it is Purnima.. *Why:* Diwali falls on Amavasya, Karthigai Deepam on Purnima.
-15. (write) Priya says, 'The full Moon is so bright because it is closest to the Sun then.' Use the ball and lamp experiment to explain her mistake.  
+15. (write) A friend says, 'The full Moon is so bright because it is closest to the Sun then.' Use the ball and lamp experiment to explain her mistake.  
    **Answer:** At full Moon the ball was on the far side of my head from the lamp. So the full Moon is on the far side of the Earth from the Sun, not closer. It looks brightest because we see the whole of its sunlit half.. *Why:* A strong answer uses where the ball was in the experiment as evidence, and gives the real reason for the brightness: we see all of the lit half. At new Moon, when the Moon is nearest the Sun, we see nothing at all.
 ### Moon Faces and Shadows (stretch) (stretch, 16 questions)
-1. (write) Arjun says, 'The Moon does not spin, because we always see the same face.' Use what you found when you walked round the chair to show him why he is wrong.  
+1. (write) A friend says, 'The Moon does not spin, because we always see the same face.' Use what you found when you walked round the chair to show him why he is wrong.  
    **Answer:** When I walked round the chair always facing it, my face pointed at every wall of the room in turn. So I turned round once. The Moon does the same: it spins once for each trip round the Earth, and that keeps the same face towards us.. *Why:* A strong answer uses the walk as evidence: facing every wall once means turning once. If the Moon did not spin at all, we would see all of its sides during a month.
 2. (mcq) What slowed the young Moon's spin until it matched its trip round the Earth?  
    Options: The Earth's pull on a slight bulge in the Moon's rock, acting like a brake / Air rubbing against the Moon / The Sun's heat / Astronauts  
@@ -682,7 +682,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
    **Answer:** the full Moon → Seen from India; the far side of the Moon → Only seen from space or the Moon; earthshine → Seen from India; a crescent Earth → Only seen from space or the Moon; a red Moon in an eclipse → Seen from India. *Why:* We always see the near side of the Moon from the Earth. The far side, and the Earth's own phases, can only be seen from space.
 14. (draw) Draw a lunar eclipse from the side: the Sun, the Earth with its shadow, and the Moon inside the shadow. Label each one.  
    **Answer:** The Sun on one side, the Earth in the middle, a long dark shadow behind the Earth, and the Moon inside that shadow, all in a straight line.. *Why:* In a lunar eclipse the Earth is between the Sun and the Moon, so the Moon is inside the Earth's shadow.
-15. (mcq) Lalitha wants to see the Moon high in the sky in the late afternoon, while it is still daylight. Which Moon should she look for?  
+15. (mcq) A girl wants to see the Moon high in the sky in the late afternoon, while it is still daylight. Which Moon should she look for?  
    Options: The full Moon / A growing half Moon / The new Moon / A thin shrinking crescent  
    **Answer:** A growing half Moon. *Why:* A strong answer uses rising times. A growing half Moon rises around noon, so by late afternoon it is high in the east. The full Moon only rises at sunset. The new Moon is next to the Sun and cannot be seen. A shrinking crescent rises before dawn and sets in the afternoon.
 16. (fill) The Moon rises about 50 minutes later each day. Purnima's Moon rose at 6 in the evening. Two days later it will rise at about ____.  
@@ -719,7 +719,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
    **Answer:** Any thoughtful answer. For example: they are partners, because each changes the other. The Earth locked the Moon's face, and the Moon makes our tides and slows our days. They both go round a point between them.. *Why:* A good answer uses at least one way each one changes the other.
 13. (draw) Design a Moon base on the far side of the Moon. Show how it would talk to the Earth.  
    **Answer:** Any design that includes a relay satellite or another way to send messages round the Moon.. *Why:* The whole Moon blocks a straight line from the far side to the Earth, so a relay is needed.
-14. (write) Kavya says, 'In a solar eclipse, the Earth's shadow falls on the Sun.' What is wrong with this? Explain what really happens.  
+14. (write) A friend says, 'In a solar eclipse, the Earth's shadow falls on the Sun.' What is wrong with this? Explain what really happens.  
    **Answer:** Nothing can throw a shadow on the Sun, because the Sun makes its own light. In a solar eclipse, the Moon passes between the Sun and the Earth. The Moon blocks the sunlight, and the Moon's shadow falls on a small part of the Earth.. *Why:* A strong answer says which body is in the middle (the Moon) and where the shadow falls (on the Earth). It may add that this only happens at new Moon, when the Moon is between us and the Sun.
 15. (mcq) The Moon is moving away from us very slowly. Imagine it were twice as far away as it is now. What would a solar eclipse look like?  
    Options: The Moon would look smaller than the Sun, so a ring of Sun would shine round it / The Moon would cover the Sun completely, just as now / The Moon would look bigger and cover the Sun for longer / There would be no change at all  
@@ -758,7 +758,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 9. (mcq) A total lunar eclipse can last more than an hour. A total solar eclipse lasts only a few minutes at any one place. Why?  
    Options: The Earth's shadow is big, so the Moon takes a long time to cross it. The Moon's shadow is small, so it passes over one place quickly / The Sun moves faster than the Moon / Solar eclipses happen at night  
    **Answer:** The Earth's shadow is big, so the Moon takes a long time to cross it. The Moon's shadow is small, so it passes over one place quickly. *Why:* In the shadow experiment, the football's big shadow could swallow the whole lime, but the lime made only a small spot. The Moon needs a long time to pass through the Earth's wide shadow. The Moon's small shadow sweeps across the Earth, so it covers one town for only minutes.
-10. (mcq) Meera says, 'There is no lunar eclipse most months because the Earth's shadow is too short to reach the Moon.' What is wrong with her idea?  
+10. (mcq) A friend says, 'There is no lunar eclipse most months because the Earth's shadow is too short to reach the Moon.' What is wrong with her idea?  
    Options: The shadow does reach that far. The Moon's tilted path usually takes it just above or below the shadow / Nothing. She is right / The Earth has no shadow  
    **Answer:** The shadow does reach that far. The Moon's tilted path usually takes it just above or below the shadow. *Why:* The Earth's shadow stretches far past the Moon, so it is long enough. What usually happens is a near miss: the Moon's path is tilted about 5 degrees. Only when a full Moon falls where the paths cross does it pass through the shadow.
 11. (mcq) How many tithis are there in one lunar month?  

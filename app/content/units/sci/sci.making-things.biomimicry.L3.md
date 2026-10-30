@@ -625,7 +625,7 @@ People tell this story now in many countries. They say that a train copied a kin
    **Answer:** Pick it up and carry it off the leaf. *Why:* The drops stay round and roll. As they roll, dust sticks to the water more than to the waxy bumps, so the drops carry it away. This is how a lotus leaf stays clean in a muddy pond. A strong answer says why the dust sticks to the drop and not to the leaf.
 4. (fill) Velcro has tiny ____ on one strip and soft loops on the other.  
    **Answer:** ['hooks']. *Why:* The hooks on one strip catch in the loops on the other, just as a burr's hooks catch in an animal's fur.
-5. (mcq) In the splash experiment, the pancake made the most splash and the pointed beak made the least. Revathi makes a fourth shape from the same amount of dough: a short, fat cone. Where do you think its splash will be?  
+5. (mcq) In the splash experiment, the pancake made the most splash and the pointed beak made the least. A fourth shape is made from the same amount of dough: a short, fat cone. Where do you think its splash will be?  
    Options: Bigger than the pancake's / Smaller than the beak's / Between the ball and the beak / No splash at all  
    **Answer:** Between the ball and the beak. *Why:* The fat cone has a point, so it enters more gently than a ball. But it widens quickly, so it shoves more water at once than the long beak. A strong answer gives a reason from the shape: how quickly it gets wider.
 6. (match) Match each living thing to the invention that copied it.  
@@ -662,7 +662,7 @@ People tell this story now in many countries. They say that a train copied a kin
 3. (mcq) In the splash experiment, why must every dough shape have the same amount of dough and be dropped from the same height?  
    Options: Because 30 centimetres is a lucky height / To make the splash bigger / So that only the shape changes, and we know the shape caused the difference  
    **Answer:** So that only the shape changes, and we know the shape caused the difference. *Why:* In a fair test, only one thing changes. A heavier lump or a higher drop makes a bigger splash. Then you could not tell whether the shape or the weight made the difference.
-4. (mcq) Divya's splash results were pancake 22 spots, ball 9, beak 2. Her friend Sumi's results were pancake 15, ball 6, beak 1. The numbers are different. Do the two tests agree?  
+4. (mcq) One girl's splash results were pancake 22 spots, ball 9, beak 2. Her friend's results were pancake 15, ball 6, beak 1. The numbers are different. Do the two tests agree?  
    Options: No, because the numbers are different / No, so one of the tests must be wrong / You cannot compare two tests / Yes. Both show the same order: pancake most, beak least  
    **Answer:** Yes. Both show the same order: pancake most, beak least. *Why:* The exact numbers depend on things like the bucket and the newspaper. What matters is the pattern, and both tests show the same pattern. A strong answer says that the order is what both tests found.
 5. (write) Eiji Nakatsu, a Japanese train engineer who loved watching birds, said the kingfisher and the bullet train have the same problem. What is the problem? Explain how the beak shape solves it.  

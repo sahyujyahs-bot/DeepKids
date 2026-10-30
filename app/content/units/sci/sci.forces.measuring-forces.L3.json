@@ -1191,7 +1191,7 @@
      "say": "Today the coins will do the pulling, and we will count them. Our unit of pull is one coin. Scientists named their unit after a person. What shall we call ours?",
      "kid": "Tape the string to the notebook. Hang the cup over the table edge. Put a cushion underneath. Your unit is one coin. Give it a name!",
      "adult": true,
-     "parent": "The cup and string must be light. If the notebook slides before any coins go in, the cup is too heavy. Use a lighter cup, or a heavier notebook. Children love naming the unit after themselves, for example '1 Lakshmi'. Use the name all through the test.",
+     "parent": "The cup and string must be light. If the notebook slides before any coins go in, the cup is too heavy. Use a lighter cup, or a heavier notebook. Children love naming the unit after themselves. Let your child choose the name, and use it all through the test.",
      "context": "This step of the coin-pull investigation builds the coin pull and names your own unit."
     },
     {
@@ -2946,7 +2946,7 @@
     },
     {
      "t": "mcq",
-     "p": "Divya hangs nothing on her forcemeter. Its pointer sits on 1, not on 0. What will happen if she uses it like this?",
+     "p": "A forcemeter has nothing hanging on it. Its pointer sits on 1, not on 0. What will happen if you use it like this?",
      "opts": [
       "Every reading will be 1 newton too big",
       "Every reading will still be right",
@@ -2959,9 +2959,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Ammu pushes hard on a wall, and the wall does not move. So Ammu's push was zero newtons.",
+     "p": "A girl pushes hard on a wall, and the wall does not move. So her push was zero newtons.",
      "a": false,
-     "why": "False. In the balloon test, the balloon squashed most against the wall, even though the wall did not move. A force can act without making anything move. Here the wall pushed back on Ammu just as hard.",
+     "why": "False. In the balloon test, the balloon squashed most against the wall, even though the wall did not move. A force can act without making anything move. Here the wall pushed back on her just as hard.",
      "how": "a1"
     },
     {
@@ -3098,7 +3098,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi's forcemeter shows 1 newton with nothing on its hook. With her school bag hooked on, it shows 9 newtons. How hard does the bag really pull?",
+     "p": "A forcemeter shows 1 newton with nothing on its hook. With a school bag hooked on, it shows 9 newtons. How hard does the bag really pull?",
      "opts": [
       "9 newtons",
       "10 newtons",
@@ -3110,7 +3110,7 @@
     },
     {
      "t": "mcq",
-     "p": "Thanvi wants to measure how hard a full suitcase pulls. It pulls with about 200 newtons. Which forcemeter should she use?",
+     "p": "You want to measure how hard a full suitcase pulls. It pulls with about 200 newtons. Which forcemeter should you use?",
      "opts": [
       "One that shows 0 to 10 newtons",
       "One that shows 0 to 50 newtons",
@@ -3170,7 +3170,7 @@
     },
     {
      "t": "mcq",
-     "p": "Revathi stands still on a bathroom scale, holding a heavy bag at her waist. Then she lifts the bag high above her head and holds it there, still. Once she is still again, what does the scale show?",
+     "p": "You stand still on a bathroom scale, holding a heavy bag at your waist. Then you lift the bag high above your head and hold it there, still. Once you are still again, what does the scale show?",
      "opts": [
       "More than before",
       "Less than before",
@@ -3182,7 +3182,7 @@
     },
     {
      "t": "fill",
-     "p": "Shalini measures a pull of about 1 newton with a forcemeter that shows 0 to 500 newtons. The pointer hardly moves. To read this pull well, she should use a forcemeter with a ____ range.",
+     "p": "You measure a pull of about 1 newton with a forcemeter that shows 0 to 500 newtons. The pointer hardly moves. To read this pull well, you should use a forcemeter with a ____ range.",
      "a": [
       "smaller",
       "small",
@@ -3588,7 +3588,7 @@
   },
   {
    "t": "mcq",
-   "p": "Ravi reads a forcemeter from far below, looking up at the pointer. What can go wrong?",
+   "p": "A boy reads a forcemeter from far below, looking up at the pointer. What can go wrong?",
    "opts": [
     "The pointer looks shifted, so he may read the wrong mark",
     "The spring stretches more",
@@ -3638,20 +3638,20 @@
   },
   {
    "t": "mcq",
-   "p": "Pooja tests two notebooks. She slides the thin one on a smooth table, and the thick one on a rough mat. What is unfair about her test?",
+   "p": "A girl tests two notebooks. She slides the thin one on a smooth table, and the thick one on a rough mat. What is unfair about her test?",
    "opts": [
     "She changed two things at once, so she can't tell which one made the difference",
     "Nothing is unfair",
     "She should use more coins"
    ],
    "a": 0,
-   "why": "In a fair test, you change only one thing. Pooja changed the notebook and the surface, so if the numbers differ, she can't say why.",
+   "why": "In a fair test, you change only one thing. She changed the notebook and the surface, so if the numbers differ, she can't say why.",
    "how": "e4",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "On the Moon, Asha lifts a box of books with a mass of 6 kilograms. How does lifting it feel, compared with on Earth?",
+   "p": "On the Moon, you lift a box of books with a mass of 6 kilograms. How does lifting it feel, compared with on Earth?",
    "opts": [
     "About as easy as lifting 1 kilogram on Earth, because the Moon pulls it less",
     "Just the same, because it is still 6 kilograms",

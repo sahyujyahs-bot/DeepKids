@@ -910,7 +910,7 @@
     },
     {
      "t": "mcq",
-     "p": "Meenakshi says, \"Potato is a vegetable. So a plate of rice and potato curry is half vegetables.\" What is the mistake in her thinking?",
+     "p": "A girl says, \"Potato is a vegetable. So a plate of rice and potato curry is half vegetables.\" What is the mistake in her thinking?",
      "opts": [
       "Potato is mostly starch, so in the body it acts more like rice than like greens",
       "Potato is not a plant",
@@ -1012,7 +1012,7 @@
     },
     {
      "t": "write",
-     "p": "Lakshmi loves dosa and wants to eat only dosa, every meal, every day. Dosa gives energy and some protein. What would her body be short of, and why?",
+     "p": "A girl loves dosa and wants to eat only dosa, every meal, every day. Dosa gives energy and some protein. What would her body be short of, and why?",
      "lines": 4,
      "a": "She would be short of vitamins like vitamin C, minerals like calcium and iron, and fibre, because dosa has very little of these. No single food has every nutrient. So she needs vegetables, fruit, curd or milk too.",
      "why": "A strong answer names at least two missing nutrients and gives the main idea: no single food has everything."
@@ -1226,9 +1226,9 @@
     },
     {
      "t": "write",
-     "p": "Nila is 9 and growing fast. Her grandmother is 70. They eat the same dal. Why might they need different amounts of food?",
+     "p": "A girl is 9 and growing fast. Her grandmother is 70. They eat the same dal. Why might they need different amounts of food?",
      "lines": 3,
-     "a": "Nila is growing, so her cells need extra protein and minerals to build new bone and muscle. She also runs about a lot and burns more energy for her size. Her grandmother has stopped growing, so she may need less food, but still all the same kinds.",
+     "a": "The girl is growing, so her cells need extra protein and minerals to build new bone and muscle. She also runs about a lot and burns more energy for her size. Her grandmother has stopped growing, so she may need less food, but still all the same kinds.",
      "why": "A strong answer says that growing and moving use extra food, and that both still need many kinds."
     }
    ]
@@ -2988,7 +2988,7 @@
   },
   {
    "t": "mcq",
-   "p": "Meera eats white bread and no vegetables or fruit for a whole week. What happens to her gut microbes?",
+   "p": "A girl eats white bread and no vegetables or fruit for a whole week. What happens to her gut microbes?",
    "opts": [
     "Many of them go hungry, because they get very little fibre",
     "They grow more, because bread has sugar",

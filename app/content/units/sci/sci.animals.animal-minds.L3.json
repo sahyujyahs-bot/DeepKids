@@ -2271,10 +2271,10 @@
     },
     {
      "t": "perspective",
-     "p": "Meenakshi's dog Rani has chewed a chappal. Rani's head is low and her ears are back. People explain this look in different ways.",
+     "p": "A girl in Class 3 comes home to find that her dog Rani has chewed a chappal. Rani's head is low and her ears are back. People explain this look in different ways.",
      "views": [
       {
-       "who": "Meenakshi, in Class 3",
+       "who": "The girl, in Class 3",
        "says": "Rani feels guilty. She knows she did something wrong."
       },
       {
@@ -2282,7 +2282,7 @@
        "says": "In my tests, dogs looked most 'guilty' when their owner scolded them, even if they had done nothing wrong."
       },
       {
-       "who": "Meenakshi's grandmother",
+       "who": "The girl's grandmother",
        "says": "Rani may be feeling something real, but it may be worry about the scolding, not guilt about the chappal."
       }
      ],
@@ -2536,7 +2536,7 @@
     },
     {
      "t": "write",
-     "p": "Find the mistake. Ananya did the Thirsty Crow Test. She filled the glass higher for the small stones than for the big stones. Why can't she compare her two counts?",
+     "p": "Find the mistake. A girl did the Thirsty Crow Test. She filled the glass higher for the small stones than for the big stones. Why can't she compare her two counts?",
      "lines": 3,
      "a": "Because she changed two things at once: the size of the stones and the starting water level. The small stones had less space to fill, so the count is not fair. She must start both at the same line.",
      "why": "In a fair test, you change only one thing. Everything else, like the starting level and the glass, stays the same.",
@@ -3156,7 +3156,7 @@
    "why_maths": "Saying 'big stones were better' is a start. Working out how many fewer tells us how much better."
   },
   {
-   "problem": "In the Clever Hans test, Meenakshi got 8 right out of 10 when her helper knew, and 3 right out of 10 in the blind round. What fraction did she get right in each round?",
+   "problem": "In the Clever Hans test, a girl got 8 right out of 10 when her helper knew, and 3 right out of 10 in the blind round. What fraction did she get right in each round?",
    "answer": "8 out of 10, and 3 out of 10.",
    "explain": "In the first round, 8 out of 10 tries were right. That is 8 tenths. In the blind round, 3 out of 10 were right. That is 3 tenths. 3 tenths is about what lucky guessing gives with 3 cups.",
    "math_unit": "math.fractions.fractions-of-a-whole.L3",
@@ -3230,7 +3230,7 @@
    "why_maths": "Timing in minutes turns 'the crows got quicker' into a clear number we can draw on a line chart and compare."
   },
   {
-   "problem": "In Be a Jay, Revathi hid 8 groundnuts. The next day she found 6. What fraction did she find? How many did she forget?",
+   "problem": "In Be a Jay, a girl hid 8 groundnuts. The next day she found 6. What fraction did she find? How many did she forget?",
    "answer": "She found 6 out of 8, which is three quarters. She forgot 2.",
    "explain": "8 take away 6 is 2, so she forgot 2. 6 out of 8 is the same as 3 out of 4, because 6 and 8 can both be halved. So she found three quarters.",
    "math_unit": "math.fractions.halves-and-quarters.L3",

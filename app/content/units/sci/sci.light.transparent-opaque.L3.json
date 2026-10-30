@@ -2061,7 +2061,7 @@
     },
     {
      "t": "write",
-     "p": "Revathi shines a torch at a wall, first through a sheet of butter paper, then through a steel plate. Predict what she will see on the wall each time. Explain why.",
+     "p": "A girl shines a torch at a wall, first through a sheet of butter paper, then through a steel plate. Predict what she will see on the wall each time. Explain why.",
      "lines": 3,
      "a": "Through the butter paper, a soft, pale, blurry patch of light, because the paper lets light through but scatters it. Through the steel plate, a dark shadow, because steel is opaque and blocks all the light.",
      "why": "A strong answer predicts both results and gives the reason for each: scattered light for the translucent paper, blocked light for the opaque plate."
@@ -2076,7 +2076,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the gap test, Lakshmi could lift cling film 30 centimetres off the card before the word blurred. She could lift tissue only 1 centimetre. Which material scatters light more?",
+     "p": "In the gap test, a girl could lift cling film 30 centimetres off the card before the word blurred. She could lift tissue only 1 centimetre. Which material scatters light more?",
      "opts": [
       "The cling film",
       "The tissue",
@@ -2088,7 +2088,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the gap test, Divya rests her chin on the same stack of books every time. Why does this make the test fair?",
+     "p": "In the gap test, a girl rests her chin on the same stack of books every time. Why does this make the test fair?",
      "opts": [
       "Her eyes stay at the same height, so only the material changes",
       "It helps her see in the dark",
@@ -2179,7 +2179,7 @@
     },
     {
      "t": "mcq",
-     "p": "Asha says, 'With dark sunglasses on, I can look straight at the Sun safely.' Is she right?",
+     "p": "A friend says, 'With dark sunglasses on, I can look straight at the Sun safely.' Is she right?",
      "opts": [
       "Yes, dark lenses block enough light",
       "No. Sunglasses only cut part of the light. Never look straight at the Sun, with or without them.",
@@ -2198,7 +2198,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Thenmozhi puts a drop of coconut oil on a piece of white paper. The spot becomes see-through. What did the oil do?",
+     "p": "A drop of coconut oil is put on a piece of white paper. The spot becomes see-through. What did the oil do?",
      "opts": [
       "It turned the paper into glass",
       "It filled the air gaps between the paper's threads, so light bounced less",
@@ -2218,7 +2218,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi stirs a spoon of white sugar into a glass of water. The water stays clear. Has the sugar gone?",
+     "p": "A spoon of white sugar is stirred into a glass of water. The water stays clear. Has the sugar gone?",
      "opts": [
       "Yes, it has gone",
       "No. It has split into pieces too tiny to scatter light. The water tastes sweet.",
@@ -2230,7 +2230,7 @@
     },
     {
      "t": "mcq",
-     "p": "Farida puts a drop of water and a drop of coconut oil side by side on butter paper. Both spots turn clearer. The next day, the water spot is cloudy again, but the oil spot is still clear. Why?",
+     "p": "A drop of water and a drop of coconut oil are put side by side on butter paper. Both spots turn clearer. The next day, the water spot is cloudy again, but the oil spot is still clear. Why?",
      "opts": [
       "The water dried up, so air filled the gaps again",
       "The oil made the paper thinner",
@@ -2248,7 +2248,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Sunglasses Lab, Priya could read row 5 of the chart outdoors with sunglasses on. Indoors with them on, she could read only row 2. What explains this?",
+     "p": "In the Sunglasses Lab, a girl could read row 5 of the chart outdoors with sunglasses on. Indoors with them on, she could read only row 2. What explains this?",
      "opts": [
       "Sunglasses only work outside",
       "Sunglasses let only part of the light through, and indoors there is little light to start with",
@@ -2431,7 +2431,7 @@
     },
     {
      "t": "mcq",
-     "p": "Meera sits by a closed glass window in the sun all afternoon. Why is she unlikely to get sunburnt?",
+     "p": "A girl sits by a closed glass window in the sun all afternoon. Why is she unlikely to get sunburnt?",
      "opts": [
       "Window glass blocks much of the Sun's ultraviolet light",
       "Glass makes sunlight cooler",
@@ -2647,7 +2647,7 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Farhan looks through a glass of water at a poster on the wall. He can read it clearly. Then he stirs in a spoon of milk. What happens?",
+   "p": "A boy looks through a glass of water at a poster on the wall. He can read it clearly. Then he stirs in a spoon of milk. What happens?",
    "opts": [
     "He can still read the poster clearly",
     "The water turns translucent, and the poster goes blurry",
@@ -2659,7 +2659,7 @@
   },
   {
    "t": "mcq",
-   "p": "Lalitha holds a steel plate, a sheet of butter paper and a clear glass in front of a lamp, one at a time. Which one lets light through, but no clear picture?",
+   "p": "A girl holds a steel plate, a sheet of butter paper and a clear glass in front of a lamp, one at a time. Which one lets light through, but no clear picture?",
    "opts": [
     "The steel plate",
     "The butter paper",
@@ -2751,7 +2751,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya is packing Pongal sweets in boxes. She wants shoppers to see the sweets without opening the box. Which lid should she use?",
+   "p": "A shopkeeper is packing Pongal sweets in boxes. She wants shoppers to see the sweets without opening the box. Which lid should she use?",
    "opts": [
     "A clear plastic lid",
     "A butter paper lid",
@@ -2775,7 +2775,7 @@
   },
   {
    "t": "mcq",
-   "p": "At night, Meenu's room is lit and the street outside is dark. She looks at her closed glass window. What does she mostly see?",
+   "p": "At night, A girl's room is lit and the street outside is dark. She looks at her closed glass window. What does she mostly see?",
    "opts": [
     "The dark street, very clearly",
     "Her own room reflected, like in a mirror",
@@ -2787,7 +2787,7 @@
   },
   {
    "t": "mcq",
-   "p": "Divya holds one page of her notebook up to the window, and light glows through it. Then she holds up the whole closed notebook. What happens?",
+   "p": "A girl holds one page of her notebook up to the window, and light glows through it. Then she holds up the whole closed notebook. What happens?",
    "opts": [
     "Light glows through just the same",
     "Almost no light gets through, so the notebook is nearly opaque",
