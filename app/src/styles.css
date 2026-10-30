@@ -5161,6 +5161,13 @@ dialog .fxfab {
   box-shadow: 0 6px 16px #0003;
   border-color: var(--tang);
 }
+.fxpc.two .pcb,
+.fxpc.two.on .pcf {
+  display: none;
+}
+.fxpc.two.on .pcb {
+  display: block;
+}
 .fxpieces.tokens .fxpc {
   min-height: 44px;
   border-radius: 50%;

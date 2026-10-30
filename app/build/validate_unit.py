@@ -125,6 +125,9 @@ def check(path):
             ids.add(x.get("id"))
     for g in u["games"]:
         if not g.get("printables"): P(f"game {g.get('id')}: needs printables")
+        for pr in g.get("printables") or []:
+            if any(not isinstance(x, str) and not (isinstance(x, dict) and x.get("f") and x.get("b")) for x in pr.get("items", [])):
+                P(f"game {g.get('id')}: a printable item is text, or a two-sided card {{f, b}} with both sides")
         steps(f"game {g.get('id')}", g.get("flow"))
     for k in ("projects", "experiments", "activities"):
         for x in u.get(k, []):

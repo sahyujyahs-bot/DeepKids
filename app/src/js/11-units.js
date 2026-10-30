@@ -270,7 +270,7 @@ function fxFlowCards(u, kind, x) {
     C.push({
       key: "pieces." + x.id,
       kind,
-      html: `<div class="fxtxt"><span class="fxeb">🃏 ${esc(x.title)} · the game pieces</span><p class="fxsm">Print them, or play straight from the screen. Tap a card to pick it.</p>${x.printables.map((p) => `<h3>${esc(p.title)}</h3><div class="fxpieces ${p.kind.replace(/\W/g, "")}">${p.items.map((it, j) => `<div class="fxpc" data-fx="flip" style="--h:${(j * 47) % 360}">${p.kind === "tokens" ? "💡" : esc(it)}</div>`).join("")}</div>`).join("")}<h3>How to play</h3><ol>${x.rules.map((r) => `<li>${esc(r)}</li>`).join("")}</ol><button class="fxb" data-fx="print" data-id="${x.id}">🖨️ Print the pieces</button></div>`,
+      html: `<div class="fxtxt"><span class="fxeb">🃏 ${esc(x.title)} · the game pieces</span><p class="fxsm">Print them, or play straight from the screen. Tap a card to pick it.</p>${x.printables.map((p) => `<h3>${esc(p.title)}</h3><div class="fxpieces ${p.kind.replace(/\W/g, "")}">${p.items.map((it, j) => fxPiece(it, j, p.kind)).join("")}</div>${p.items.some((it) => it.b) ? `<p class="fxhint">Tap a card to turn it over.</p>` : ""}`).join("")}<h3>How to play</h3><ol>${x.rules.map((r) => `<li>${esc(r)}</li>`).join("")}</ol><button class="fxb" data-fx="print" data-id="${x.id}">🖨️ Print the pieces</button></div>`,
     });
   x.flow.forEach((s, i) =>
     C.push({
@@ -1126,16 +1126,49 @@ function fxWsPrintDoc(u, w) {
   <div class="foot">DeepKids Gurukul · ${esc(u.title)}</div>
   <section class="ans">${head}<h1>Answers, for grown-ups</h1><p class="sub">${esc(w.title)}</p><ol>${w.items.map((it) => `<li>${fxWsAnswer(it)}</li>`).join("")}</ol></section>`;
 }
+/* A game piece is text, or a card with a front and a back ({f, b}); on screen a two-sided card turns over when tapped */
+function fxPiece(it, j, kind) {
+  const two = typeof it === "object";
+  return `<div class="fxpc${two ? " two" : ""}" data-fx="flip" style="--h:${(j * 47) % 360}">${kind === "tokens" ? "💡" : two ? `<span class="pcf">${esc(it.f)}</span><span class="pcb">${esc(it.b)}</span>` : esc(it)}</div>`;
+}
+/* The game's print-out. Two-sided cards come first, a page of fronts then a page of their backs, each row mirrored so a
+   back lands behind its own front when the sheet is printed on both sides (or turned over and fed in again);
+   the rules and the one-sided pieces follow */
+function fxGamePrintDoc(g) {
+  const PER = 20,
+    cell = (t) => `<div class="pc">${esc(t)}</div>`,
+    two = g.printables.filter((p) => p.items.some((it) => typeof it === "object")),
+    one = g.printables.filter((p) => !two.includes(p));
+  let sheets = "";
+  two.forEach((p) => {
+    for (let i = 0; i < p.items.length; i += PER) {
+      const L = p.items.slice(i, i + PER),
+        rows = [];
+      for (let r = 0; r < L.length; r += 4) rows.push(L.slice(r, r + 4));
+      sheets += `<section class="sheet"><p class="tag">${esc(p.title)} · fronts</p><div class="grid">${L.map((x) => cell(x.f ?? x)).join("")}</div></section>`;
+      sheets += `<section class="sheet"><p class="tag">${esc(p.title)} · backs (print on the other side)</p><div class="grid">${rows
+        .map((R) =>
+          [...R, ...Array(4 - R.length).fill(null)]
+            .reverse()
+            .map((x) => (x ? cell(x.b ?? "") : `<div class="pc blank"></div>`))
+            .join(""),
+        )
+        .join("")}</div></section>`;
+    }
+  });
+  const tip = two.length
+    ? `<div class="tip"><b>Two-sided cards.</b> Print the card pages on both sides of the paper, flipping on the long edge. No two-sided printing? Print the first card page, put the sheet back in the printer turned over, then print the next page. Or print both pages, glue them back to back, then cut.</div>`
+    : "";
+  const rest = `<section><h1>${esc(g.title)}</h1>${tip}<h3>Rules</h3><ol>${g.rules.map((r) => `<li>${esc(r)}</li>`).join("")}</ol>${one.map((p) => `<h3>${esc(p.title)}</h3><div class="grid loose">${p.items.map(cell).join("")}</div>`).join("")}</section>`;
+  return `<!doctype html><meta charset="utf-8"><title>DeepKids</title><style>@page{size:A4;margin:12mm}body{font:15px/1.5 Nunito,system-ui,sans-serif;margin:0}li{margin:10px 0}.sheet{page-break-after:always}.tag{font:700 12px sans-serif;color:#666;margin:0 0 6px}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:3mm}.sheet .pc{height:48mm}.pc{border:2px dashed #999;border-radius:10px;padding:8px;min-height:90px;font:600 14px sans-serif;display:flex;align-items:center;justify-content:center;text-align:center;box-sizing:border-box}.pc.blank{border-color:transparent}.loose .pc{display:block;text-align:left}.tip{border:2px solid #e8a317;border-radius:10px;padding:10px;margin:10px 0}</style>${sheets}${rest}`;
+}
 function fxPrint(id) {
   const u = FXU,
     w = u.worksheets.find((x) => x.id === id),
     g = [...u.games].find((x) => x.id === id);
   let h = "";
   if (w) h = fxWsPrintDoc(u, w);
-  else if (g) {
-    h = `<h1>${esc(g.title)}</h1><h3>Rules</h3><ol>${g.rules.map((r) => `<li>${esc(r)}</li>`).join("")}</ol>${g.printables.map((p) => `<h3>${esc(p.title)}</h3><div style="display:grid;grid-template-columns:repeat(4,1fr);gap:8px">${p.items.map((x) => `<div style="border:2px dashed #999;border-radius:10px;padding:10px;min-height:90px;font:600 14px sans-serif">${esc(x)}</div>`).join("")}</div>`).join("")}`;
-    h = `<!doctype html><meta charset="utf-8"><title>DeepKids</title><style>body{font:15px/1.5 Nunito,system-ui,sans-serif;padding:20px}li{margin:10px 0}</style>${h}`;
-  }
+  else if (g) h = fxGamePrintDoc(g);
   const f = document.createElement("iframe");
   f.style.cssText = "position:fixed;width:0;height:0;border:0";
   f.srcdoc = h;
