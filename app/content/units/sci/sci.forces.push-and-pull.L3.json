@@ -121,7 +121,7 @@
   {
    "term": "Thrust",
    "meaning": "The push that moves a rocket, a boat or a balloon forward. It comes from pushing something else backwards.",
-   "example": "A boatman pushes water back with an oar. The water pushes the boat forward.",
+   "example": "A woman rowing a boat pushes water back with her oar. The water pushes the boat forward.",
    "art": "A rowing boat, the oar pushing water back and an arrow pushing the boat forward."
   },
   {
@@ -174,7 +174,7 @@
    "concept": "What forces do to moving things",
    "status": "defined",
    "definition": "A force can start a thing moving, stop it, speed it up, slow it down or change its direction.",
-   "description": "Think of one ball bowled in a cricket match. The bowler's push starts it moving. The bat's push changes its direction and speeds it up. The air and the grass slow it down. The fielder's hands stop it. Each change needs a force. If no force acts, nothing changes. A still thing stays still, and a moving thing keeps going the same way. Forces can also squash, stretch and twist things out of shape. You will meet that in the Stretching springs unit.",
+   "description": "Think of one ball bowled in a cricket match. The bowler's push starts it moving. The push from the bat changes the ball's direction and speeds the ball up. The air and the grass slow it down. The fielder's hands stop it. Each change needs a force. If no force acts, nothing changes. A still thing stays still, and a moving thing keeps going the same way. Forces can also squash, stretch and twist things out of shape. You will meet that in the Stretching springs unit.",
    "examples": [
     "Start: you push a toy car and it begins to roll.",
     "Stop: a goalkeeper catches the ball.",
@@ -236,7 +236,7 @@
    "examples": [
     "A balloon lets out its air. It pushes the air backwards, and the air pushes the balloon forwards.",
     "Jump off a small boat and the boat moves backwards.",
-    "A boatman on the backwaters pushes a long pole back against the river bed. The river bed pushes the pole forward, and the boat moves forward with it."
+    "A woman poling a boat on the backwaters pushes a long pole back against the river bed. The river bed pushes the pole forward, and the boat moves forward with it."
    ],
    "perspectives": [],
    "art": "A child on a skateboard pushing a wall, two equal arrows: one on the wall pointing at it, one on the child pointing back.",
@@ -847,246 +847,133 @@
    "mins": 20,
    "items": [
     {
-     "t": "mcq",
-     "p": "What is a force?",
-     "opts": [
-      "A push or a pull",
-      "Only something that makes things go fast",
-      "Only something living things do",
-      "Only something heavy things have"
-     ],
-     "a": 0,
-     "why": "A force is any push or pull. Picking 'only living things' is a common idea. But magnets, wind and the Earth push and pull too."
-    },
-    {
      "t": "sort",
-     "p": "Sort these. Is each one a push or a pull?",
+     "p": "Sort these actions. Is each one a push or a pull?",
      "cats": [
       "Push",
       "Pull"
      ],
      "items": [
       [
-       "closing a door",
+       "squeezing toothpaste out of a tube",
        "Push"
       ],
       [
-       "opening a drawer",
+       "drawing up a bucket of water on a rope",
        "Pull"
       ],
       [
-       "kicking a ball",
+       "shutting a cupboard door",
        "Push"
       ],
       [
-       "lifting a bucket from a well",
+       "opening the fridge door",
        "Pull"
       ],
       [
-       "pressing a lift button",
+       "kicking a football",
        "Push"
       ],
       [
-       "flying a kite on its string",
+       "taking off your socks",
        "Pull"
       ]
      ],
      "a": "see items",
-     "why": "A push moves something away from you or presses on it. A pull moves something towards you or drags it along."
+     "why": "A push presses on something or moves it away from you. A pull drags something towards you. Squeezing the tube is a push, because your fingers press on it.",
+     "how": "a1"
     },
     {
      "t": "mcq",
-     "p": "Turning a tap is…",
+     "p": "Many people think only living things can push or pull. Which of these is a force with no living being doing it?",
      "opts": [
-      "Only a push",
-      "Only a pull",
-      "A twist: you push one side away and pull the other side towards you",
-      "Not a force"
+      "The wind pushing a boat's sail",
+      "A girl kicking a ball",
+      "A dog pulling on his lead",
+      "A boy lifting his school bag"
      ],
-     "a": 2,
-     "why": "Your fingers push one side of the tap away and pull the other side towards you, so it turns. Picking only a push or only a pull is close, but misses the other side of the hand."
+     "a": 0,
+     "why": "The wind is moving air, and it pushes the sail. Magnets, the wind and the Earth's gravity all push or pull, and none of them is alive. Picking one of the others is right that they are forces, but each has a living being doing it."
     },
     {
      "t": "match",
-     "p": "Match each moment to what the force did.",
+     "p": "Match each moment to what the force did to the moving thing.",
      "pairs": [
       [
-       "A goalkeeper catches the ball",
-       "stopped it"
+       "A cyclist squeezes her brakes",
+       "slowed it down"
       ],
       [
-       "You push a toy car on the floor",
+       "A bowler throws a cricket ball",
        "started it moving"
       ],
       [
-       "A batsman hits the ball to the side",
-       "changed its direction"
+       "A fielder catches the ball",
+       "stopped it"
       ],
       [
-       "You push a swing from behind as it swings away",
-       "sped it up"
+       "A girl kicks a rolling ball sideways",
+       "changed its direction"
       ]
      ],
      "a": "pairs as given",
-     "why": "Forces start, stop, speed up, slow down and turn moving things."
+     "why": "Forces start things moving, stop them, speed them up, slow them down and turn them. Without a force, a moving thing would carry on just as it was."
     },
     {
      "t": "fill",
-     "p": "A force always acts in a ____. That is why we draw it as an arrow.",
+     "p": "Any push or pull is called a ____.",
      "a": [
-      "direction"
+      "force"
      ],
-     "why": "Every force points some way. An arrow shows which way."
+     "why": "A force is a push or a pull. Every force acts in a direction."
     },
     {
      "t": "mcq",
-     "p": "You draw a gentle push on a box and a hard push on the same box. Which should have the longer arrow?",
+     "p": "Gauri draws two arrows on a box. One arrow is short and one is long. What does the long arrow tell you?",
      "opts": [
-      "The gentle push",
-      "The hard push",
-      "Both the same",
-      "Neither, pushes don't get arrows"
+      "That push is bigger",
+      "That push is slower",
+      "That push comes from further away",
+      "Nothing. Arrows only show direction"
+     ],
+     "a": 0,
+     "why": "A force arrow shows two things: the way the force points, and how big it is. A longer arrow means a bigger force. Picking 'only direction' misses the size."
+    },
+    {
+     "t": "mcq",
+     "p": "Rani sits on a towel on a smooth floor, facing a wall. She pushes the wall hard with her feet. Predict: which way will she move?",
+     "opts": [
+      "Towards the wall",
+      "Away from the wall",
+      "She will not move",
+      "Straight up"
      ],
      "a": 1,
-     "why": "A longer arrow means a bigger force. Picking 'both the same' often means the arrow is seen as just a direction. It shows the size too."
-    },
-    {
-     "t": "mcq",
-     "p": "Where should a force arrow start?",
-     "opts": [
-      "On the thing being pushed or pulled",
-      "Anywhere on the page",
-      "At the edge of the page",
-      "On the person's head"
-     ],
-     "a": 0,
-     "why": "The arrow starts on the thing the force acts on, and points the way the force goes."
-    },
-    {
-     "t": "truefalse",
-     "p": "If something is not moving, there are no forces on it.",
-     "a": false,
-     "why": "False. A book on a table has gravity pulling it down and the table pushing it up. The two forces balance, so it stays still.",
-     "how": "a3"
-    },
-    {
-     "t": "mcq",
-     "p": "In a gentle tug of war, both sides pull equally hard. What happens to the rope?",
-     "opts": [
-      "It moves to the left",
-      "It moves to the right",
-      "It stays still, because the pulls are balanced",
-      "It snaps"
-     ],
-     "a": 2,
-     "why": "Equal pulls in opposite directions cancel out. They are balanced. Picking left or right means one side was imagined as stronger.",
-     "how": "a2"
-    },
-    {
-     "t": "mcq",
-     "p": "Look at the chart. In a tug of war, the left team pulls with 5 and the right team pulls with 3. Which way does the rope move?",
-     "opts": [
-      "Left",
-      "Right",
-      "It does not move"
-     ],
-     "a": 0,
-     "why": "5 is bigger than 3, so the forces are unbalanced. The rope moves towards the left team. Picking 'right' usually means the shorter bar was read as the winner.",
-     "context": "In a tug of war, two teams pull a rope in opposite directions. The bigger total pull wins.",
-     "chart": {
-      "type": "bar",
-      "title": "The pulls in the tug of war",
-      "x": "Team",
-      "y": "Total pull (made-up units)",
-      "data": [
-       {
-        "label": "Left team",
-        "value": 5,
-        "emoji": "⬅️"
-       },
-       {
-        "label": "Right team",
-        "value": 3,
-        "emoji": "➡️"
-       }
-      ]
-     },
-     "how": "a2"
-    },
-    {
-     "t": "mcq",
-     "p": "You sit on a towel and push a wall with your feet. You slide away from the wall. What pushed you?",
-     "opts": [
-      "The wall",
-      "Nothing",
-      "The air",
-      "The towel"
-     ],
-     "a": 0,
-     "why": "When you push the wall, the wall pushes you back, just as hard. Picking 'nothing' is very common. But you cannot start moving without a force.",
+     "why": "The wall pushes back on her, just as hard, so she slides away from it. Many people guess 'she will not move', because the wall is not alive and cannot push. But every push comes with a push back.",
      "how": "e1"
     },
     {
-     "t": "mcq",
-     "p": "A balloon lets its air rush out backwards. Which way does the balloon go?",
-     "opts": [
-      "Backwards, with the air",
-      "Forwards",
-      "Nowhere"
-     ],
-     "a": 1,
-     "why": "The balloon pushes the air backwards, so the air pushes the balloon forwards. Picking 'backwards' means the balloon was pictured being carried along with the air.",
-     "how": "e2"
-    },
-    {
-     "t": "sort",
-     "p": "Sort these forces. Do they need touching, or can they work from far away?",
-     "cats": [
-      "Needs touching",
-      "Works from far away"
-     ],
-     "items": [
-      [
-       "pushing a swing",
-       "Needs touching"
-      ],
-      [
-       "a magnet pulling a pin",
-       "Works from far away"
-      ],
-      [
-       "the Earth pulling a falling mango",
-       "Works from far away"
-      ],
-      [
-       "kicking a ball",
-       "Needs touching"
-      ],
-      [
-       "a rubbed balloon lifting bits of paper",
-       "Works from far away"
-      ],
-      [
-       "pulling a cart with a rope",
-       "Needs touching"
-      ]
-     ],
-     "a": "see items",
-     "why": "Gravity, magnetic pulls and electric pulls can work across a gap. Most other pushes and pulls need touching."
+     "t": "write",
+     "p": "Rani was the one who pushed. So why did she slide away from the wall? Use the words push and back in your answer.",
+     "lines": 3,
+     "a": "When Rani pushed the wall, the wall pushed her back just as hard. That push back moved her away. The wall did not move, because it is fixed to the house.",
+     "why": "A strong answer says that forces come in pairs: her push on the wall, and the wall's push back on her.",
+     "how": "e1"
     },
     {
      "t": "truefalse",
-     "p": "A rope can push a ball across the floor.",
+     "p": "A steel tumbler standing still on a shelf has no forces acting on it.",
      "a": false,
-     "why": "False. A rope only works when it is pulled tight. Push it and it just folds up."
+     "why": "False. Gravity pulls the tumbler down, and the shelf pushes it up just as hard. The two forces are balanced, so the tumbler stays still. In the bending ruler activity, you saw a ruler sag under a load, which shows it was pushing up.",
+     "how": "a3"
     },
     {
      "t": "forces",
-     "p": "A book lies still on a table. Draw the forces on it with arrows.",
-     "obj": "a book on a table",
+     "p": "A mango hangs still from its stalk on a tree. Show the forces on the mango with arrows.",
+     "obj": "a mango hanging still from its stalk",
      "options": [
       "gravity",
-      "table pushes up",
+      "stalk pulls up",
       "push",
       "friction"
      ],
@@ -1096,28 +983,142 @@
        "dir": "down"
       },
       {
-       "name": "table pushes up",
+       "name": "stalk pulls up",
        "dir": "up"
       }
      ],
-     "why": "Gravity pulls the book down. The table pushes it up just as hard. There is no push or friction, because nobody is pushing it sideways.",
-     "how": "a3"
+     "why": "Gravity pulls the mango down. The stalk pulls it up just as hard, so it stays still. If the stalk breaks, only gravity is left, and the mango falls."
     },
     {
-     "t": "write",
-     "p": "Name one push and one pull you used today. Say which way each one pointed.",
-     "lines": 3,
-     "a": "Any one push and one pull, each with a direction. For example: I pushed the bathroom door away from me. I pulled my socks up.",
-     "why": "Any correct push and pull, each with a direction, is right."
+     "t": "mcq",
+     "p": "Look at the chart. The left team pulls with 4 and the right team pulls with 6. Which way does the rope move?",
+     "opts": [
+      "Left",
+      "Right",
+      "It does not move"
+     ],
+     "a": 1,
+     "why": "6 is bigger than 4, so the forces are unbalanced. The rope moves towards the right team. Picking 'left' means the shorter bar was read as the winner.",
+     "context": "In a tug of war, two teams pull a rope in opposite directions. The bigger total pull wins.",
+     "chart": {
+      "type": "bar",
+      "title": "The pulls in the tug of war",
+      "x": "Team",
+      "y": "Total pull (made-up units)",
+      "data": [
+       {
+        "label": "Left team",
+        "value": 4,
+        "emoji": "⬅️"
+       },
+       {
+        "label": "Right team",
+        "value": 6,
+        "emoji": "➡️"
+       }
+      ]
+     },
+     "how": "a2"
+    },
+    {
+     "t": "sort",
+     "p": "Sort these forces. Do they work by touching, or from far away across a gap?",
+     "cats": [
+      "Works by touching",
+      "Works from far away"
+     ],
+     "items": [
+      [
+       "a magnet pulling a steel pin across a gap",
+       "Works from far away"
+      ],
+      [
+       "a coconut falling from a tree",
+       "Works from far away"
+      ],
+      [
+       "a rubbed balloon pulling up bits of paper",
+       "Works from far away"
+      ],
+      [
+       "rowing a boat with an oar",
+       "Works by touching"
+      ],
+      [
+       "pressing a lift button",
+       "Works by touching"
+      ],
+      [
+       "the wind pushing a kite",
+       "Works by touching"
+      ]
+     ],
+     "a": "see items",
+     "why": "Gravity, magnetic forces and electric forces can work across a gap. The kite is the surprise for many people. The wind is moving air, and the air touches the kite as it pushes.",
+     "how": "a4"
+    },
+    {
+     "t": "mcq",
+     "p": "You want to move a ball away from you, using only a rope. You push the rope towards the ball. What happens?",
+     "opts": [
+      "The rope folds up and the ball stays where it is",
+      "The rope pushes the ball away",
+      "The ball rolls towards you"
+     ],
+     "a": 0,
+     "why": "A rope can only pull. When you push it, it just folds up, like the rope in the story The Rope That Could Only Pull. To use a rope, you must pull, so you would have to loop it round the ball and pull from the other side."
     },
     {
      "t": "draw",
-     "p": "Draw a child pushing a box to the right. Draw an arrow for the push. Make it start on the box.",
-     "a": "An arrow starting on the box and pointing right.",
-     "why": "The arrow starts on the thing being pushed and points the way of the push.",
-     "art": "An empty box on the floor, with space around it."
+     "p": "Draw a girl pulling a toy cart along with a string. Draw an arrow for the pull on the cart. Make the arrow start on the cart.",
+     "a": "An arrow starting on the cart and pointing along the string, towards the girl.",
+     "why": "A strong drawing starts the arrow on the cart, because the cart is what the force acts on. It points the way the pull goes, along the string.",
+     "art": "A toy cart on the floor, with a string going to a girl's hand."
+    },
+    {
+     "t": "perspective",
+     "p": "Kayal, her brother Arun and their grandmother are arguing about opening a door.",
+     "views": [
+      {
+       "who": "Kayal, a girl in Class 3",
+       "says": "Opening a door is a pull. I pull the handle towards me."
+      },
+      {
+       "who": "Arun, her brother",
+       "says": "No, opening a door is a push. I push it away from me."
+      },
+      {
+       "who": "Their grandmother",
+       "says": "It depends on which side of the door you are standing."
+      }
+     ],
+     "ask": "Who do you agree with most? Use what you found in your push and pull hunt. Then say what one of the others would answer back.",
+     "lines": 5,
+     "a": "The grandmother has the key idea: a force is named by its direction. On one side of the door, you pull it towards you. On the other side, you push it away. So Kayal and Arun are each right about their own side.",
+     "why": "A strong answer uses a real door from the hunt, and says that the direction of the force decides whether it is a push or a pull.",
+     "how": "a1"
+    },
+    {
+     "t": "write",
+     "p": "Think about your morning. Name one thing a force started moving, and one thing a force stopped. Say what pushed or pulled each one.",
+     "lines": 3,
+     "a": "For example: I started the tap water by turning the tap, a push and a pull together. My hand stopped a rolling pencil by pushing against it.",
+     "why": "A strong answer names a real start and a real stop, and says which push or pull did each one."
+    },
+    {
+     "t": "mcq",
+     "p": "A balloon is taped to a straw on a string. When you let go, its air rushes out to the left. Predict: which way does the balloon go?",
+     "opts": [
+      "To the left, with the air",
+      "To the right",
+      "It stays still"
+     ],
+     "a": 1,
+     "why": "The balloon pushes its air out to the left, so the air pushes the balloon to the right. Picking 'to the left' pictures the balloon being carried along with the air.",
+     "how": "e2"
     }
-   ]
+   ],
+   "context": "This core worksheet checks the main ideas: what a force is, what forces do, how to draw them as arrows, and that every push comes with a push back."
   },
   {
    "id": "ws-stretch",
@@ -1127,171 +1128,125 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Two children push a heavy box from the same side. One pushes with 4 units and one with 3 units. What is the total push?",
+     "p": "Two children push a cupboard from the same side. One pushes with 30 newtons and one with 20 newtons. What is their total push?",
      "opts": [
-      "1",
-      "7",
-      "12",
-      "3"
+      "10 newtons",
+      "50 newtons",
+      "600 newtons",
+      "20 newtons"
      ],
      "a": 1,
-     "why": "Pushes in the same direction add up. 4 + 3 = 7. Picking 1 means the pushes were taken away, which only happens when they point opposite ways."
+     "why": "Pushes in the same direction add up: 30 and 20 make 50 newtons. Picking 10 means the pushes were taken away, which only happens when they point opposite ways. A newton is the unit for measuring a force."
     },
     {
      "t": "mcq",
-     "p": "Now the two children push from opposite sides. One pushes the box towards the right with 4 units. The other pushes it towards the left with 3 units. What happens?",
+     "p": "Now the two children push the cupboard from opposite sides. One pushes it to the right with 30 newtons. The other pushes it to the left with 20 newtons. What happens?",
      "opts": [
-      "The box moves right with a push of 7 units",
-      "The box moves right with a push of 1 unit",
-      "The box moves left with a push of 1 unit",
-      "Nothing happens"
+      "It moves right, pushed by 10 newtons",
+      "It moves left, pushed by 10 newtons",
+      "It moves right, pushed by 50 newtons",
+      "It does not move at all"
      ],
-     "a": 1,
-     "why": "Opposite pushes work against each other. 4 take away 3 is 1. The bigger push points right, so the box is pushed right with 1 unit. Picking 7 means the pushes were added, which only happens when they point the same way."
+     "a": 0,
+     "why": "Opposite pushes work against each other. 30 take away 20 is 10. The bigger push points right, so the cupboard is pushed right with 10 newtons. In real life, friction with the floor might still stop it moving."
     },
     {
      "t": "fill",
-     "p": "When forces cancel out and nothing changes, we say the forces are ____.",
+     "p": "Two forces are the same size and point opposite ways, so they cancel out. We call them ____ forces.",
      "a": [
       "balanced"
      ],
-     "why": "Balanced forces cancel each other out, so the motion does not change."
+     "why": "Balanced forces cancel each other out, so nothing about the motion changes. A thing at rest stays at rest."
     },
     {
-     "t": "mcq",
-     "p": "A carrom striker is flicked with the same strength, once forwards and once to the left. What is different?",
-     "opts": [
-      "Only the size of the push",
-      "Only the direction of the push",
-      "Both size and direction",
-      "Nothing"
-     ],
-     "a": 1,
-     "why": "The strength was the same, so the size was the same. Only the direction changed, so the striker went a different way."
-    },
-    {
-     "t": "mcq",
-     "p": "You blow on a ping-pong ball from the bottom of a tray, and a friend blows from the left side, at the same time. Which way does the ball go?",
-     "opts": [
-      "Straight up the tray",
-      "Straight to the right",
-      "Slantwise, towards the top right corner",
-      "It doesn't move"
-     ],
-     "a": 2,
-     "why": "Your blow pushes it up the tray. Your friend's blow pushes it to the right. The two pushes add up into a slanting push, towards the top right. Picking one straight direction means only one push was counted.",
+     "t": "write",
+     "p": "Selvi flicks a carrom coin with the same strength two times. First she aims it at the top pocket, then at the left pocket. What stays the same about her flick, and what changes? Why does the coin go somewhere different?",
+     "lines": 3,
+     "a": "The size of the flick stays the same, because she flicks equally hard. The direction changes. A force pushes a thing the way the force points, so a new direction sends the coin somewhere new.",
+     "why": "A strong answer separates the two parts of a force: its size and its direction. Changing only the direction is enough to change the result.",
      "how": "e3"
     },
     {
      "t": "mcq",
-     "p": "How does walking forward work?",
+     "p": "You blow on a ping-pong ball from the bottom of a tray. At the same moment, a friend blows on it from the left side, just as hard. Which way does the ball go?",
      "opts": [
-      "Your feet push the ground backwards, and the ground pushes you forwards",
-      "Your legs pull the air",
-      "Gravity pulls you forwards",
-      "You don't need any force to walk"
-     ],
-     "a": 0,
-     "why": "This is a force pair. You push the ground back, and the ground pushes you forward. Picking gravity is a common mix-up. Gravity pulls you down, not forward."
-    },
-    {
-     "t": "mcq",
-     "p": "A boatman on the Kerala backwaters pushes a long pole against the river bed. Which way does the boat move?",
-     "opts": [
-      "Opposite to the way he pushes the pole",
-      "The same way he pushes",
-      "It doesn't move"
-     ],
-     "a": 0,
-     "why": "He pushes the river bed one way, and the river bed pushes the pole, and the boat, the other way.",
-     "context": "Some flat boats in Kerala are moved by a boatman pushing a long bamboo pole against the bottom of the shallow water."
-    },
-    {
-     "t": "mcq",
-     "p": "In a tug of war, the rope is tight and still. The left end of the rope is pulled with a force of 300 newtons. What is the pull on the right end?",
-     "opts": [
-      "0",
-      "150",
-      "300",
-      "600"
+      "Straight up the tray",
+      "Straight to the right",
+      "Slantwise, towards the top right corner",
+      "It does not move"
      ],
      "a": 2,
-     "why": "A tight, still rope is pulled equally at both ends. So the right end is also pulled with 300 newtons. Picking 600 means the two ends were added. They are the same pull, not two pulls on top of each other.",
-     "context": "Imagine a tug of war rope that is pulled tight and is not moving."
+     "why": "Your blow pushes it up the tray, and your friend's blow pushes it to the right. The two pushes together send it slantwise, towards the top right. Picking one straight direction means only one push was counted.",
+     "how": "e3"
     },
     {
      "t": "mcq",
-     "p": "So what decides who wins a tug of war?",
+     "p": "When you walk, what pushes you forwards?",
      "opts": [
-      "Which team pulls the rope harder",
-      "Which team pushes the ground harder with their feet",
-      "Which team has longer arms",
-      "Which team shouts loudest"
+      "The ground, because your feet push it backwards",
+      "The air, because your legs push it",
+      "Gravity, pulling you forwards",
+      "Nothing. Walking needs no force"
      ],
-     "a": 1,
-     "why": "The rope pulls both teams equally. The winning team pushes the ground harder towards the middle. The ground pushes them back, away from the middle. Picking 'pulls the rope harder' is what nearly everyone thinks at first.",
-     "how": "a2"
+     "a": 0,
+     "why": "Your feet push the ground backwards, and the ground pushes you forwards. This is a force pair. Picking gravity is a common mix-up. Gravity pulls you down, not forwards."
+    },
+    {
+     "t": "write",
+     "p": "Why is it so hard to walk on a floor where oil has been spilled? Use the word push in your answer.",
+     "lines": 3,
+     "a": "To walk, my feet must push the floor backwards. On oil, my feet slip instead of pushing, so the floor cannot push me forwards.",
+     "why": "A strong answer uses the force pair from walking: no push on the ground means no push back from the ground. The grip between feet and floor is called friction."
+    },
+    {
+     "t": "mcq",
+     "p": "A boatwoman on the Kerala backwaters pushes her long bamboo pole backwards against the river bed. Which way does her boat move?",
+     "opts": [
+      "Forwards, opposite to her push",
+      "Backwards, the same way as her push",
+      "It does not move"
+     ],
+     "a": 0,
+     "why": "She pushes the river bed backwards, and the river bed pushes the pole, and the boat, forwards. Picking 'backwards' means the push back was forgotten.",
+     "context": "Some flat boats in Kerala are moved by pushing a long pole against the bottom of the shallow water."
+    },
+    {
+     "t": "mcq",
+     "p": "A cricket bat hits a ball hard. What does the ball do to the bat?",
+     "opts": [
+      "It pushes the bat back, just as hard",
+      "Nothing, because the ball is smaller",
+      "It pulls the bat forwards"
+     ],
+     "a": 0,
+     "why": "Every push comes with an equal push back. The batter feels it as a jolt in her hands. The ball flies off fast because it is light, and the bat barely slows because it is heavy and held tight. Picking 'nothing' is the usual first guess."
     },
     {
      "t": "truefalse",
-     "p": "Your muscles can push as well as pull.",
+     "p": "Your muscles can push your bones as well as pull them.",
      "a": false,
-     "why": "False. Muscles can only pull, by getting shorter. That is why they work in pairs, one to bend a joint and one to straighten it.",
+     "why": "False. A muscle can only pull, by getting shorter. That is why muscles work in pairs: one pulls a joint bent, and the other pulls it straight again.",
      "how": "a5"
     },
     {
-     "t": "mcq",
-     "p": "Which pair of arrows shows a book lying still on a table?",
-     "opts": [
-      "A long arrow down and a short arrow up",
-      "Two arrows the same length, one down and one up",
-      "Only one arrow, down",
-      "No arrows"
-     ],
-     "a": 1,
-     "why": "The table pushes up exactly as hard as gravity pulls down. So the arrows are the same length. Picking 'only down' means the table's push was forgotten.",
-     "how": "a3"
-    },
-    {
      "t": "forces",
-     "p": "A child sits still on a swing. Draw the forces on the child.",
-     "obj": "a child sitting still on a swing",
-     "options": [
-      "gravity",
-      "seat pushes up",
-      "push",
-      "magnet pull"
-     ],
-     "a": [
-      {
-       "name": "gravity",
-       "dir": "down"
-      },
-      {
-       "name": "seat pushes up",
-       "dir": "up"
-      }
-     ],
-     "why": "Gravity pulls the child down. The seat pushes up just as hard. Nobody is pushing, so there is no push arrow."
-    },
-    {
-     "t": "forces",
-     "p": "A box is being pulled to the left with a rope across a floor. Show the forces with arrows.",
-     "obj": "a box pulled left by a rope",
+     "p": "A girl drags a sack of rice to the right across the floor with a rope. Show the forces on the sack with arrows.",
+     "obj": "a sack dragged right by a rope",
      "options": [
       "rope pulls",
       "friction",
       "gravity",
-      "floor pushes up"
+      "floor pushes up",
+      "magnet pull"
      ],
      "a": [
       {
        "name": "rope pulls",
-       "dir": "left"
+       "dir": "right"
       },
       {
        "name": "friction",
-       "dir": "right"
+       "dir": "left"
       },
       {
        "name": "gravity",
@@ -1302,55 +1257,93 @@
        "dir": "up"
       }
      ],
-     "why": "The rope pulls left. Friction works against the sliding, so it points right. Gravity pulls down, and the floor pushes up."
+     "why": "The rope pulls right. Friction works against the sliding, so it points left. Gravity pulls down, and the floor pushes up. There is no magnet here."
+    },
+    {
+     "t": "forces",
+     "p": "Revathi hangs still from a bar in the park, holding on with both hands. Show the forces on Revathi with arrows.",
+     "obj": "a girl hanging still from a bar",
+     "options": [
+      "gravity",
+      "bar holds her up",
+      "push from behind",
+      "friction"
+     ],
+     "a": [
+      {
+       "name": "gravity",
+       "dir": "down"
+      },
+      {
+       "name": "bar holds her up",
+       "dir": "up"
+      }
+     ],
+     "why": "Gravity pulls her down. The bar pulls her up through her hands and arms, just as hard, so she stays still. Nobody is pushing her, so there is no push from behind."
     },
     {
      "t": "match",
      "p": "Match each thing to the force that moves it.",
      "pairs": [
       [
-       "A sailing boat",
+       "A sailing boat on Vembanad Lake",
        "the wind pushes its sail"
       ],
       [
-       "A falling coconut",
+       "A jackfruit falling from its tree",
        "the Earth's gravity pulls it"
       ],
       [
-       "A balloon rocket",
+       "A balloon car",
        "the air it pushes out pushes it back"
       ],
       [
-       "A paper clip jumping to a magnet",
-       "the magnet pulls it from a distance"
+       "A swimmer",
+       "her hands push the water back, and the water pushes her forward"
       ]
      ],
      "a": "pairs as given",
-     "why": "Every movement needs a push or a pull. Some touch, and some work from far away."
+     "why": "Every change in movement needs a push or a pull. Some forces touch, like the wind and the water. Gravity works from far away. The balloon car and the swimmer both move by pushing something backwards."
     },
     {
      "t": "write",
-     "p": "Tipu Sultan's army used iron rockets more than 200 years ago. Explain how a rocket is pushed forwards. Use the words push and backwards.",
+     "p": "Tipu Sultan ruled Mysore, in south India, over 200 years ago. His army used rockets with iron cases. Explain how a rocket is pushed forwards. Use the words push and backwards.",
      "lines": 3,
-     "a": "The rocket pushes hot gas out backwards. The gas pushes the rocket forwards, just as hard.",
-     "why": "Every push has a push back. The rocket's push on the gas is paired with the gas's push on the rocket.",
-     "context": "Tipu Sultan ruled Mysore, in south India, in the 1780s and 1790s. His army used rockets with iron cases against the British East India Company."
+     "a": "The rocket pushes hot gas out backwards, very fast. The gas pushes the rocket forwards, just as hard.",
+     "why": "A strong answer names the force pair: the rocket's push on the gas, and the gas's push on the rocket. It does not need air to push against."
     },
     {
-     "t": "write",
-     "p": "A swing is moving away from you. Why can't you stop it by pushing it from behind? Use the word direction.",
-     "lines": 3,
-     "a": "Pushing from behind is in the same direction the swing is going, so it speeds the swing up. To stop it, you must push in the opposite direction, from the front.",
-     "why": "The direction of a force decides what it does to a moving thing."
+     "t": "perspective",
+     "p": "In a tug of war, why does one team win? Three people give their answers.",
+     "views": [
+      {
+       "who": "A boatman, captain of a tug of war team",
+       "says": "The team with the strongest arms wins, because they pull the rope harder."
+      },
+      {
+       "who": "Anjali, a girl of nine",
+       "says": "The rope pulls both teams equally hard. The team whose feet push the ground harder wins."
+      },
+      {
+       "who": "Anjali's mother",
+       "says": "The heavier team wins, because a heavy team is harder to drag along."
+      }
+     ],
+     "ask": "Pick the answer you think is best. Use what happened in your gentle tug of war to back it up. Then say what one of the others would answer back.",
+     "lines": 5,
+     "a": "Anjali is right about the rope: it pulls both ends equally, so stronger arms alone do not win. Her mother has a real point too: a heavier team presses down harder, so their feet grip the ground better and can push harder. The captain is right that strong arms help hold on.",
+     "why": "A strong answer uses evidence from the tug of war (for example, crouching low and pushing with the feet made a difference). It also gives fair credit to another view. These people come from this unit's story, The Rope That Could Only Pull.",
+     "how": "a2"
     },
     {
      "t": "draw",
-     "p": "Draw a kite flying, with its string held by a child. Draw an arrow for the pull of the string on the kite.",
-     "a": "An arrow starting on the kite, pointing along the string towards the child.",
-     "why": "A string can only pull. It pulls the kite towards the person holding it, along the string.",
-     "art": "A kite in the sky with its string going down to a child."
+     "p": "Draw a girl pushing a swing. Draw an arrow for her push on the swing. Then draw an arrow for the swing's push back on her.",
+     "a": "One arrow starts on the swing and points away from the girl. A second arrow, the same length, starts on the girl and points back towards her.",
+     "why": "A strong drawing shows the two forces of a pair as the same size, pointing opposite ways, and acting on different things.",
+     "art": "A swing with a girl standing behind it."
     }
-   ]
+   ],
+   "context": "This stretch worksheet uses the main ideas in new cases: adding forces, walking and rowing, force pairs, and how a tug of war is really won."
   },
   {
    "id": "ws-challenge",
@@ -1368,23 +1361,23 @@
       "It makes the Earth spin faster"
      ],
      "a": 1,
-     "why": "Gravity is a force pair. You pull the Earth up as hard as it pulls you down. The Earth is enormous, so it moves far too little to notice. Picking 'nothing' is what nearly everyone guesses."
+     "why": "Gravity comes in pairs. You pull the Earth up as hard as it pulls you down. The Earth is enormous, so it moves far too little to notice. Picking 'nothing' is what nearly everyone guesses."
     },
     {
      "t": "mcq",
-     "p": "Deep down, what is happening when your hand presses on a wall?",
+     "p": "Deep down, why can't your hand go through a wall when you press on it?",
      "opts": [
-      "Electrons in your hand and the wall push each other apart",
-      "Tiny hooks catch on each other",
+      "The electrons in your hand and in the wall push each other apart",
+      "Tiny hooks on the wall catch your hand",
       "Gravity pushes your hand back",
       "Air is trapped between them"
      ],
      "a": 0,
-     "why": "Contact pushes come from electric forces between atoms. Picking gravity mixes up two forces. Gravity only pulls, and it is far too weak to push your hand back."
+     "why": "Every touching push comes from electric forces between atoms. Electrons push other electrons away. Picking gravity mixes up two forces. Gravity only pulls, and it is far too weak to stop your hand."
     },
     {
      "t": "mcq",
-     "p": "Why does a comet's tail always point away from the Sun?",
+     "p": "A comet is a ball of ice and dust. Near the Sun, it grows a long glowing tail. Why does the tail always point away from the Sun?",
      "opts": [
       "Sunlight and the solar wind, a stream of tiny particles from the Sun, push the dust and gas outwards",
       "The comet is always moving away from the Sun",
@@ -1392,106 +1385,106 @@
       "The tail is a shadow"
      ],
      "a": 0,
-     "why": "Light really pushes. In space, the gentle push of sunlight and the solar wind blows the tail outwards. Picking 'moving away' is a sensible guess, but the tail points away from the Sun even when the comet moves towards it.",
-     "context": "A comet is a ball of ice and dust from the far edge of the solar system. When it comes near the Sun, it grows a long glowing tail."
+     "why": "Light really pushes. In space, the gentle push of sunlight and the solar wind blows the tail outwards. Picking 'moving away' is a sensible guess, but the tail points away from the Sun even when the comet moves towards it."
     },
     {
      "t": "truefalse",
-     "p": "A spacecraft coasting in empty space needs its engine on all the time to keep moving.",
+     "p": "A spacecraft coasting through empty space needs its engine on all the time to keep moving.",
      "a": false,
-     "why": "False. With nothing to slow it, it keeps going. Voyager 1 has coasted since 1980 with no engine pushing it forward. You only need a force to change motion."
+     "why": "False. With nothing to slow it, it keeps going. Voyager 1 has coasted since 1980 with no engine pushing it forwards. A force is needed only to change motion."
     },
     {
-     "t": "match",
-     "p": "Match each thinker to their idea about a thrown arrow or stone.",
-     "pairs": [
-      [
-       "Aristotle, in ancient Greece",
-       "the air pushes it along from behind"
-      ],
-      [
-       "Kaṇāda's Vaiśeṣika school, in ancient India",
-       "the push gives it vega, a moving-tendency, that slowly fades"
-      ],
-      [
-       "Isaac Newton, in England",
-       "it keeps going by itself until a force slows it"
-      ]
+     "t": "perspective",
+     "p": "When you throw a stone, nothing pushes it after it leaves your hand. So why does it keep moving? Thinkers in different places gave different answers.",
+     "views": [
+      {
+       "who": "Aristotle, in ancient Greece",
+       "says": "The air rushes round behind the stone and pushes it along. Without a push, it would stop."
+      },
+      {
+       "who": "Thinkers of the Vaiśeṣika school, in ancient India",
+       "says": "The throw gives the stone vega, a moving-tendency, which slowly fades away."
+      },
+      {
+       "who": "Isaac Newton, in England",
+       "says": "A moving thing keeps moving by itself. It slows down only because forces like air and friction act on it."
+      }
      ],
-     "a": "pairs as given",
-     "why": "Thinkers in many places tried to explain why thrown things keep moving. Newton's answer, building on Galileo, is the one we use today.",
-     "context": "When you throw a stone, nothing pushes it after it leaves your hand. Thinkers across the world have tried to explain why it keeps going."
+     "ask": "Pick the idea you think fits best. Use something you saw in this unit, like the balloon car or a marble rolling on a smooth floor. Then say how one of the other thinkers would answer back.",
+     "lines": 5,
+     "a": "Newton's idea is the one scientists use today. A marble rolls much further on a smooth floor than on a carpet, so the slowing comes from friction, not from a push running out. But the Vaiśeṣika idea is close to the later idea of momentum, and Aristotle was right that air affects a thrown stone. A strong answer gives each a fair hearing.",
+     "why": "A strong answer chooses, uses real evidence (a smoother surface means a longer roll), and answers back from another view."
     },
     {
-     "t": "mcq",
-     "p": "In 1920 a newspaper said rockets could never work in space. Why were they wrong?",
-     "opts": [
-      "A rocket pushes its own gas out backwards, so it needs no air to push on",
-      "There is air in space",
-      "Rockets are pulled by the Moon",
-      "Rockets float"
-     ],
-     "a": 0,
-     "why": "The rocket and its gas push on each other. No outside air is needed. Picking 'there is air in space' is a common guess, but space is almost empty.",
-     "context": "Robert Goddard was an American scientist who built early rockets. In 1920, The New York Times mocked his idea that rockets could work in space."
+     "t": "truefalse",
+     "p": "In 1920, a newspaper said rockets could never work in space, because there is no air there to push against. The newspaper was right.",
+     "a": false,
+     "why": "False. A rocket pushes its own gas out backwards, and the gas pushes the rocket forwards. No outside air is needed. Robert Goddard, an American scientist who built early rockets, was right, and the newspaper apologised in 1969, when Apollo 11 flew to the Moon."
     },
     {
-     "t": "mcq",
-     "p": "Einstein said gravity is not really a pull. What did he say it is?",
-     "opts": [
-      "Heavy things bend space and time, and other things follow the bends",
-      "A kind of magnetism",
-      "Air pressing down",
-      "Nothing at all"
+     "t": "perspective",
+     "p": "Kalai and her teacher disagree about touching.",
+     "views": [
+      {
+       "who": "Kalai, a girl who loves science books",
+       "says": "We never really touch anything. The atoms of my hand always stay a tiny gap away from the atoms of the table."
+      },
+      {
+       "who": "Mrs Thomas, her teacher",
+       "says": "Touching just means being close enough to push on each other. So we touch things all the time."
+      }
      ],
-     "a": 0,
-     "why": "Einstein's idea, from 1915, has passed many tests, starting with starlight bending round the Sun in 1919. Newton's pull is still a very good way to calculate most things."
+     "ask": "Who do you agree with? Give a reason. Then say what the other person would answer back.",
+     "lines": 5,
+     "a": "Both use true science. The electrons of two things push each other apart before they meet, so there is always a tiny gap. But that push is exactly what we feel as touch. So the argument is really about what the word 'touch' means.",
+     "why": "There is no single right answer. A strong answer uses the electron push, picks a side clearly, and sees that the two are using the word 'touch' in different ways."
     },
     {
      "t": "truefalse",
      "p": "Physicists have found a particle that carries gravity, called the graviton.",
      "a": false,
-     "why": "False. Some physicists think gravitons exist, but nobody has ever found one. It is one of the big open questions."
+     "why": "False. Some physicists think gravitons exist, but nobody has ever found one. What gravity is, deep down, is one of the big open questions."
     },
     {
      "t": "mcq",
-     "p": "Who translated Newton's great book on forces into French, with her own notes, so many more people could read it?",
+     "p": "Muscles can only pull. So how does your arm straighten again after you bend it?",
      "opts": [
-      "Marie Curie",
-      "Émilie du Châtelet",
-      "Ada Lovelace",
-      "Kalpana Chawla"
-     ],
-     "a": 1,
-     "why": "Émilie du Châtelet's translation was published in 1759, ten years after she died, and is still used. Picking Marie Curie is a common guess because she is the most famous woman scientist, but she lived over 100 years later."
-    },
-    {
-     "t": "mcq",
-     "p": "Inside your cells, tiny machines called motor proteins carry loads along thin tracks. What do they do to their loads?",
-     "opts": [
-      "They pull them along, one tiny step at a time",
-      "They throw them",
-      "They melt them",
-      "They wait for gravity"
+      "A second muscle, at the back of your upper arm, pulls it straight",
+      "The muscle at the front pushes it straight",
+      "Gravity always does it",
+      "The bones push themselves"
      ],
      "a": 0,
-     "why": "Motor proteins walk along tracks and pull their loads behind them. Even inside a cell, moving things needs pushes and pulls."
+     "why": "Muscles work in pairs. The biceps at the front pulls your arm bent. The triceps at the back pulls it straight. In the cardboard arm, you needed two strings for the same reason. Picking 'pushes it straight' is the natural guess.",
+     "how": "a5"
     },
     {
-     "t": "mcq",
-     "p": "India is slowly pushing north into Asia. What has that push made over millions of years?",
-     "opts": [
-      "The Himalayas",
-      "The Thar desert",
-      "The Bay of Bengal",
-      "The Deccan monsoon"
-     ],
-     "a": 0,
-     "why": "The push of India into Asia folded the rocks up into the Himalayas, and they are still rising a little each year. Picking the desert or the sea mixes up pushing rock with wind and water."
+     "t": "write",
+     "p": "Your muscles can only pull. So how can you push a door open? Explain.",
+     "lines": 4,
+     "a": "My muscles pull on my bones. The bones swing at the joints, and my hand at the end presses on the door. So a pull inside my body becomes a push outside it.",
+     "why": "A strong answer says that muscles pull on bones, and the bones then press on the door.",
+     "how": "a5"
+    },
+    {
+     "t": "write",
+     "p": "In this unit's story, a rope says it is always pulled equally hard at both ends. If that is true, how can one team still win a tug of war? Draw arrows if it helps.",
+     "lines": 4,
+     "a": "The winning team pushes the ground harder with their feet, towards the middle. The ground pushes them back, away from the middle, harder than it pushes the other team. So the winners move back and drag the rope with them.",
+     "why": "A strong answer moves the attention from the rope to the feet and the ground. That is what Anjali noticed in the story.",
+     "how": "a2"
+    },
+    {
+     "t": "write",
+     "p": "In the marble bend challenge, a marble rolls across a tray, hits a wall and turns a corner. Explain what turned it. Then say what it would do if the wall were not there.",
+     "lines": 3,
+     "a": "The wall pushed the marble in a new direction. Without the wall, the marble would keep rolling straight on, slowing down only because of friction.",
+     "why": "A strong answer says that a change of direction needs a force, and that a moving thing goes straight when nothing pushes it sideways.",
+     "how": "c2"
     },
     {
      "t": "forces",
-     "p": "A ping-pong ball is blown from the left and from below at the same time, equally hard. Which two pushes act on it?",
+     "p": "A ping-pong ball is blown from the left and from below at the same time, equally hard. Which two pushes act on it, and which way does each point?",
      "obj": "a ball blown from the left and from below",
      "options": [
       "push from the left blow",
@@ -1514,43 +1507,32 @@
     },
     {
      "t": "write",
-     "p": "Your muscles can only pull. So how can you push a door open? Explain.",
-     "lines": 4,
-     "a": "My muscles pull on my bones. The bones swing like levers, and my hand at the end pushes the door. So a pull inside my body becomes a push outside it.",
-     "why": "A good answer says that muscles pull on bones, and the bones then press on the door.",
-     "how": "a5"
-    },
-    {
-     "t": "write",
-     "p": "In a tug of war, the rope pulls both teams equally hard. Explain how one team can still win. Draw arrows if it helps.",
-     "lines": 4,
-     "a": "The winning team pushes the ground harder with their feet, towards the middle. The ground pushes them back, away from the middle, harder than it pushes the other team. So the winners move back and drag the rope.",
-     "why": "This is the puzzle from the unit's story. The key is the push between the feet and the ground.",
-     "how": "a2",
-     "context": "In this unit's story, a rope that has been used in a tug of war for eleven years says it is always pulled equally hard at both ends."
-    },
-    {
-     "t": "write",
-     "p": "Some books say you never really touch anything, because your atoms always stay a tiny gap apart. Do you agree? Give a reason.",
-     "lines": 4,
-     "a": "Any thoughtful answer with a reason. For example: I don't agree, because touching just means being close enough to push. My hand and the wall push on each other, so they touch.",
-     "why": "There is no single right answer. It depends on what 'touch' means. What counts is a clear reason."
-    },
-    {
-     "t": "write",
-     "p": "Everything pulls everything with gravity. You are pulling on the Moon right now. Why can't you feel it?",
+     "p": "Everything pulls on everything else with gravity. You are pulling on the Moon right now. Why can't you feel it?",
      "lines": 3,
-     "a": "Any answer with a reason. For example: my pull on the Moon is very small, because I am small and the Moon is far away. The Moon is so huge that my pull hardly changes how it moves.",
-     "why": "Gravity between two things is bigger when they are heavier and closer. A child and the Moon pull each other very weakly."
+     "a": "My pull on the Moon is very small, because I am small and the Moon is very far away. The Moon is so huge that my pull hardly changes how it moves.",
+     "why": "Gravity between two things is bigger when they are heavier and closer. A strong answer uses both ideas: how heavy, and how far."
     },
     {
      "t": "draw",
      "p": "Draw yourself standing on the Earth. Draw an arrow for the Earth pulling you, and an arrow for you pulling the Earth. How long should each arrow be?",
-     "a": "One arrow on the child pointing down towards the Earth, and one equal arrow on the Earth pointing up towards the child.",
+     "a": "One arrow starts on the child and points down towards the Earth. An equal arrow starts on the Earth and points up towards the child.",
      "why": "The two pulls are a force pair, so they are the same size and point opposite ways. Each acts on a different thing.",
      "art": "A child standing on a small round Earth, with space for two arrows."
+    },
+    {
+     "t": "mcq",
+     "p": "India is slowly pushing north into the rest of Asia, about 5 centimetres a year. What has that push made over millions of years?",
+     "opts": [
+      "The Himalayas",
+      "The Thar desert",
+      "The Bay of Bengal",
+      "The monsoon"
+     ],
+     "a": 0,
+     "why": "The push of India into Asia crumpled the rocks upwards into the Himalayas, and they are still rising a little each year. A small push, kept up for millions of years, can build the tallest mountains on Earth."
     }
-   ]
+   ],
+   "context": "This challenge worksheet asks harder questions: why moving things keep moving, what touching is, and how forces work in your body, in space and in the Earth."
   }
  ],
  "experiments": [
@@ -3113,102 +3095,101 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "What is a force?",
+   "p": "Which of these is a force?",
    "opts": [
-    "A push or a pull",
-    "Only a fast movement",
-    "Only something people do"
+    "A magnet pulling a pin",
+    "The colour of a ball",
+    "The length of a rope"
    ],
    "a": 0,
-   "why": "Every push and pull is a force. Picking 'only people' misses magnets, wind and gravity, which push and pull too.",
+   "why": "A force is a push or a pull, and the magnet pulls. A colour or a length is something you can describe, but it does not push or pull anything.",
    "outcome": 0
   },
   {
    "t": "mcq",
-   "p": "Opening a jar lid is…",
+   "p": "Shreya squeezes half a lemon over her rice. Is her squeeze a push or a pull?",
    "opts": [
-    "A push only",
-    "A pull only",
-    "A twist: a push and a pull together"
+    "A push, from both sides",
+    "A pull",
+    "Neither"
    ],
-   "a": 2,
-   "why": "Your fingers push one side of the lid and pull the other, so it turns. Picking only one misses the other side.",
+   "a": 0,
+   "why": "Her fingers press on the lemon from both sides, so it is a push. Picking 'neither' means a squeeze was not seen as a force. But the juice comes out because she pushes.",
    "outcome": 0
   },
   {
    "t": "mcq",
-   "p": "A goalkeeper catches a football. What did the force of her hands do?",
+   "p": "A rolling ball reaches a rough doormat and stops. What stopped it?",
    "opts": [
-    "Started it",
-    "Stopped it",
-    "Sped it up"
-   ],
-   "a": 1,
-   "why": "Her hands pushed against the ball's movement, so it stopped. Picking 'sped it up' means the push was pictured going the same way as the ball.",
-   "outcome": 1
-  },
-  {
-   "t": "mcq",
-   "p": "A swing is moving away from you. You push it from behind. What happens?",
-   "opts": [
-    "It speeds up",
-    "It stops",
-    "It turns round"
+    "The mat rubbing against it, a force called friction",
+    "Nothing. It just ran out of moving",
+    "Gravity pushing it backwards"
    ],
    "a": 0,
-   "why": "A push in the same direction as the movement speeds it up. To slow it, you would push from the front.",
+   "why": "A moving thing only slows or stops if a force acts on it. Here it is friction, the grip between two surfaces. Picking 'ran out of moving' is a very old idea that turned out to be wrong.",
    "outcome": 1
   },
   {
    "t": "mcq",
-   "p": "You flick a carrom striker with the same strength, once forwards and once to the left. What changed?",
+   "p": "Which of these needs no force at all?",
    "opts": [
-    "The size of the push",
-    "The direction of the push",
-    "Nothing"
+    "A ball rolling on at the same speed in empty space",
+    "A ball starting to roll",
+    "A ball turning a corner"
    ],
-   "a": 1,
-   "why": "Same strength means same size. Only the direction changed, so the striker went a different way.",
+   "a": 0,
+   "why": "Forces change motion. Starting and turning are changes, so they need a force. A ball going on at the same speed and in the same direction needs no force.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A football is kicked just as hard, once to the left and once to the right. Why does it end up in different places?",
+   "opts": [
+    "The direction of the kick changed",
+    "The kick got bigger",
+    "The ball got lighter"
+   ],
+   "a": 0,
+   "why": "Same strength means same size of force. Only the direction changed, and that alone sends the ball somewhere else.",
    "outcome": 2
   },
   {
    "t": "mcq",
-   "p": "Two people blow on a ball from opposite sides, equally hard. What happens?",
+   "p": "Two girls blow on a ping-pong ball from opposite sides, equally hard. Predict what the ball does.",
    "opts": [
     "It stays about where it is",
-    "It races away",
-    "It goes slantwise"
+    "It rolls away fast",
+    "It goes off slantwise"
    ],
    "a": 0,
-   "why": "Equal pushes in opposite directions balance. Picking 'slantwise' mixes this up with two pushes at a corner.",
-   "outcome": 2,
-   "how": "e3"
+   "why": "Equal pushes in opposite directions balance. Picking 'slantwise' mixes this up with two pushes from a corner.",
+   "how": "e3",
+   "outcome": 2
   },
   {
    "t": "mcq",
-   "p": "Which arrow shows a bigger push on a box?",
+   "p": "Where should a force arrow start?",
    "opts": [
-    "A short arrow",
-    "A long arrow",
-    "A curly arrow"
+    "On the thing the force acts on",
+    "Anywhere on the page",
+    "On the person doing the pushing"
    ],
-   "a": 1,
-   "why": "A longer arrow means a bigger force. The arrow shows both size and direction.",
-   "outcome": 3,
-   "how": "a7"
+   "a": 0,
+   "why": "The arrow starts on the thing being pushed or pulled, and points the way the force goes. Picking 'on the person' draws the force on the wrong thing.",
+   "how": "a7",
+   "outcome": 3
   },
   {
    "t": "mcq",
-   "p": "Look at the chart. In a tug of war, the left team pulls with 5 and the right team with 3. Which way will the rope move?",
+   "p": "Look at the chart. Both teams pull with 7. Which way will the rope move?",
    "opts": [
     "Left",
     "Right",
-    "It stays still"
+    "It will stay still"
    ],
-   "a": 0,
-   "why": "5 is more than 3, so the left team's pull is bigger. Picking 'stays still' means unequal pulls were taken as balanced.",
-   "outcome": 3,
-   "how": "a2",
+   "a": 2,
+   "why": "7 and 7 are equal and opposite, so the pulls are balanced and the rope stays still. Picking left or right means one team was imagined as stronger.",
+   "context": "In a tug of war, two teams pull a rope in opposite directions. The bigger total pull wins.",
    "chart": {
     "type": "bar",
     "title": "The pulls in the tug of war",
@@ -3217,116 +3198,117 @@
     "data": [
      {
       "label": "Left team",
-      "value": 5,
+      "value": 7,
       "emoji": "⬅️"
      },
      {
       "label": "Right team",
-      "value": 3,
+      "value": 7,
       "emoji": "➡️"
      }
     ]
-   }
+   },
+   "how": "a2",
+   "outcome": 3
   },
   {
    "t": "mcq",
-   "p": "You sit on a towel and push a wall with your feet. Which way do you move?",
+   "p": "You jump from a small boat onto the shore. What happens to the boat?",
    "opts": [
-    "Towards the wall",
-    "Away from the wall",
-    "You don't move"
-   ],
-   "a": 1,
-   "why": "The wall pushes back on you, so you slide away from it. Picking 'you don't move' means the wall's push back was not counted.",
-   "outcome": 4,
-   "how": "e1"
-  },
-  {
-   "t": "mcq",
-   "p": "A balloon rocket pushes air out backwards. What pushes the balloon forwards?",
-   "opts": [
-    "The air it pushed out",
-    "The string",
-    "Nothing"
+    "It moves backwards, away from the shore",
+    "It stays still",
+    "It follows you to the shore"
    ],
    "a": 0,
-   "why": "The balloon and the air push on each other. The air's push on the balloon is called thrust. The string only guides it.",
-   "outcome": 4,
-   "how": "e2"
+   "why": "Your feet push the boat backwards as you jump, and the boat pushes you forwards. Picking 'stays still' means the push on the boat was forgotten.",
+   "outcome": 4
   },
   {
    "t": "mcq",
-   "p": "In a tug of war, what decides who wins?",
+   "p": "A balloon car pushes air out of its back. What moves the car forwards?",
    "opts": [
-    "Which team pushes the ground harder with their feet",
-    "Which team pulls the rope harder",
-    "Which team is on the left"
+    "The air pushing back on the balloon",
+    "The wheels pushing themselves",
+    "Gravity"
    ],
    "a": 0,
-   "why": "A tight rope pulls both teams equally. The winners get a bigger push back from the ground. Picking 'pulls the rope harder' is what almost everyone thinks at first.",
-   "outcome": 4,
-   "how": "a2"
+   "why": "The balloon pushes the air backwards, and the air pushes the balloon, and the car, forwards. The wheels only help it roll.",
+   "how": "p1",
+   "outcome": 4
   },
   {
    "t": "mcq",
-   "p": "Which is a force from far away?",
+   "p": "A tug of war rope is pulled tight and is not moving. One end is pulled with 200 newtons. What is the pull at the other end?",
    "opts": [
-    "A magnet pulling a pin",
-    "A hand pushing a swing",
+    "200 newtons",
+    "400 newtons",
+    "0 newtons"
+   ],
+   "a": 0,
+   "why": "A tight, still rope is pulled equally at both ends. Picking 400 means the two ends were added, but it is one pull passing along the rope.",
+   "how": "a2",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Which force works across a gap, without touching?",
+   "opts": [
+    "The Earth pulling a falling leaf",
+    "A hand pushing a door",
     "A foot kicking a ball"
    ],
    "a": 0,
-   "why": "A magnet can pull across a gap. The swing and the ball need touching.",
-   "outcome": 5,
-   "how": "a4"
-  },
-  {
-   "t": "mcq",
-   "p": "A mango falls from a tree. Nothing touches it as it falls. What pulls it?",
-   "opts": [
-    "The Earth's gravity",
-    "The air",
-    "The wind"
-   ],
-   "a": 0,
-   "why": "Gravity pulls from far away. Picking air or wind mixes up a push of moving air with the Earth's pull.",
+   "why": "Gravity pulls from far away. The door and the ball need touching.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "Your muscles can…",
+   "p": "A balloon rubbed on your hair lifts tiny bits of paper without touching them. What kind of force is this?",
    "opts": [
-    "Only pull",
-    "Only push",
-    "Push and pull"
+    "A pull from far away, an electric force",
+    "A touching push",
+    "It is not a force"
    ],
    "a": 0,
-   "why": "Muscles only pull, by getting shorter. So they work in pairs. Picking 'push and pull' is natural, because we push doors. But muscles pull on bones, and the bones push.",
-   "outcome": 6,
-   "how": "a5"
+   "why": "Rubbing gives the balloon an electric charge, which pulls the paper across a gap. Picking 'not a force' misses that the paper moved, and moving needs a force.",
+   "how": "a4",
+   "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "When you jump, what is true?",
+   "p": "Muscles can only pull. So how do you kick a ball?",
    "opts": [
-    "The Earth pulls you down, and you pull the Earth up just as hard",
-    "Only the Earth pulls",
-    "You push the Earth away"
+    "Muscles pull on the leg bones, and the foot at the end pushes the ball",
+    "The muscles push the ball",
+    "The ball pulls your foot"
    ],
    "a": 0,
-   "why": "Gravity is a force pair. The Earth moves far too little to notice, because it is so huge.",
+   "why": "A muscle pulls on a bone, the bone swings, and the foot presses on the ball. A pull inside becomes a push outside.",
+   "how": "a5",
    "outcome": 6
   },
   {
    "t": "mcq",
-   "p": "Do scientists agree on what a force really is?",
+   "p": "You pull on the Earth too, just as hard as it pulls you. Why doesn't the Earth seem to move?",
    "opts": [
-    "Yes, completely",
-    "No, they still argue about it",
-    "Forces aren't real"
+    "It is so huge that the pull hardly moves it",
+    "You do not really pull it at all",
+    "The Moon holds it still"
    ],
-   "a": 1,
-   "why": "Scientists measure forces very well. But Newton, Hertz, Einstein and particle physicists have given different answers to what a force really is.",
+   "a": 0,
+   "why": "The two pulls are the same size, but the Earth is enormous, so it moves far too little to notice. Picking 'you do not pull it' is the usual first guess.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Has the question 'what is a force, really?' been fully answered?",
+   "opts": [
+    "No. Scientists still argue about it",
+    "Yes, long ago",
+    "Forces are not real"
+   ],
+   "a": 0,
+   "why": "Scientists can measure forces very exactly. But Newton, Einstein and physicists today give different answers to what a force really is.",
    "outcome": 6
   }
  ],
@@ -3366,8 +3348,8 @@
    "art": "A sky full of kites over rooftops, strings pulling down."
   },
   {
-   "text": "A boatman poling a boat on the Kerala backwaters, pushing the river bed.",
-   "art": "A boatman pushing a long bamboo pole into shallow water."
+   "text": "A woman poling a boat on the Kerala backwaters, pushing against the river bed.",
+   "art": "A woman pushing a long bamboo pole into shallow water."
   },
   {
    "text": "A peepal tree growing out of an old wall, their roots pushing the bricks apart.",
@@ -3965,7 +3947,7 @@
  "how_we_found_out": {
   "who": "Robert Goddard, an American rocket scientist, using Isaac Newton's rule that forces come in pairs",
   "when": "1687 to 1969",
-  "story": "For a long time, many people believed that a rocket needs air to push against. A swimmer pushes water and a bird pushes air, so it seemed a rocket must push on something outside it too. In 1919, the American scientist Robert Goddard wrote that a rocket might one day reach the Moon. In January 1920, the newspaper The New York Times laughed at him. It said a rocket could not work in empty space, because there is nothing there to push against. Goddard had already tested this. He fired small rockets inside a closed container with most of the air pumped out. They still pushed forward, as well as in air or even better. The answer was a rule Isaac Newton wrote down in 1687: every push comes with an equal push back. A rocket pushes its own hot gas out backwards, and the gas pushes the rocket forwards. No outside air is needed. On 17 July 1969, as Apollo 11 flew towards the Moon, the newspaper printed a correction.",
+  "story": "For a long time, many people believed that a rocket needs air to push against. A swimmer pushes water and a bird pushes air, so people thought a rocket must push on something outside it too. In 1919, the American scientist Robert Goddard wrote that a rocket might one day reach the Moon. In January 1920, the newspaper The New York Times laughed at him. It said a rocket could not work in empty space, because there is nothing there to push against. Goddard had already tested this. He fired small rockets inside a closed container with most of the air pumped out. They still pushed forward, as well as in air or even better. The answer was a rule Isaac Newton wrote down in 1687: every push comes with an equal push back. A rocket pushes its own hot gas out backwards, and the gas pushes the rocket forwards. No outside air is needed. On 17 July 1969, as Apollo 11 flew towards the Moon, the newspaper printed a correction.",
   "wrong_idea": "People thought a rocket needs outside air to push against, so it could never work in empty space. Goddard's rockets pushed forward inside a container with the air pumped out."
  }
 }

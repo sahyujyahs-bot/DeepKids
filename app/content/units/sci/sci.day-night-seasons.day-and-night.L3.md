@@ -612,14 +612,13 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 
 ## Worksheets
 ### Day and Night Detective (core) (core, 16 questions)
-1. (mcq) Why do we have day and night?  
-   Options: The Sun goes round the Earth every day / The Earth spins, so each place turns towards the Sun and then away / The Sun switches off at night / Clouds cover the Sun at night  
-   **Answer:** The Earth spins, so each place turns towards the Sun and then away. *Why:* The Earth spins once in about 24 hours. Each place turns into the sunlight, which is day, then away from it, which is night. Picking 'the Sun goes round' is the old idea that matches what we see, but it is not what happens. Picking 'switches off' or 'clouds' means night is thought of as the Sun stopping. The Sun shines all the time.
+1. (mcq) For thousands of years, most people believed the Sun travels round the Earth each day. What really makes night come?  
+   Options: The Sun goes behind the hills / Our side of the Earth spins round, away from the Sun / The Sun switches off / Clouds cover the Sun  
+   **Answer:** Our side of the Earth spins round, away from the Sun. *Why:* The Earth spins once in about 24 hours. Each place turns into the sunlight, which is day, then away from it, which is night. The Sun shines all the time. The old idea matched what people saw, which is why it lasted so long.
 2. (fill) The imaginary line that the Earth spins around is called its ____.  
    **Answer:** ['axis']. *Why:* The axis goes through the North Pole and the South Pole. A pencil through an orange is a good model.
-3. (mcq) How long does the Earth take to spin round once?  
-   Options: About 1 hour / About 24 hours / About 1 week / About 1 year  
-   **Answer:** About 24 hours. *Why:* One spin takes about 24 hours, which is one day and one night. Picking '1 year' mixes up the spin with the Earth's journey round the Sun. That journey takes a year.
+3. (write) Arun, who is 7, says, 'The Earth takes a whole year to spin round once.' His big sister Meenakshi says, 'No, one spin takes a day.' Who is right? What does take a year?  
+   **Answer:** Meenakshi is right. One spin takes about 24 hours, one day and one night. A year is how long the Earth takes to travel all the way round the Sun. Arun has mixed up the spin with the journey round the Sun.. *Why:* A strong answer names both movements: the spin makes a day, and the trip round the Sun makes a year.
 4. (truefalse) At any moment, about half of the Earth has day and half has night.  
    **Answer:** True. *Why:* True. The Sun can only light the half of the Earth that faces it.
 5. (mcq) In which direction does the Sun seem to rise?  
@@ -634,9 +633,8 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
    **Answer:** The side facing away from the torch. *Why:* The side facing away from the torch gets no light, like the night side of the Earth. Picking 'the whole ball' forgets that the torch always lights one half.
 9. (sort) Sort these. Does each one mostly happen in the day or at night?  
    **Answer:** an owl hunting mice → Night; a sunbird sipping nectar → Day; bats flying round a street lamp → Night; clothes drying in sunshine → Day; fireflies flashing → Night; your long shadow in the evening sunlight → Day. *Why:* Owls, bats and fireflies are nocturnal, which means active at night. Sunbirds feed in the day. Clothes dry in sunshine, and shadows from the Sun only happen in the day.
-10. (mcq) Why can't we feel the Earth spinning?  
-   Options: Because it is not really spinning / Because the spin is smooth and steady, and everything moves with us / Because we are too heavy / Because it only spins at night  
-   **Answer:** Because the spin is smooth and steady, and everything moves with us. *Why:* We feel movement only when it changes, like a bump or a brake. The Earth's spin never bumps or brakes. Picking 'not really spinning' trusts our feelings over the evidence, like Foucault's pendulum. Picking 'only at night' means thinking the spin and the darkness are the same thing.
+10. (write) In a smooth train with your eyes shut, you can hardly tell you are moving. Use this to explain why we cannot feel the Earth spin.  
+   **Answer:** We only feel movement when it changes, like a bump, a speed-up or a brake. A smooth train hardly changes, so it is hard to feel. The Earth's spin is smoother than any train. It never bumps or brakes, and the air and everything around us move with us. So we feel nothing.. *Why:* A strong answer says what we really feel: changes in movement, not movement itself. Feeling nothing is not evidence that nothing moves.
 11. (match) Match each word to what it means.  
    **Answer:** Sunrise → our place turns into the sunlight; Sunset → our place turns away from the sunlight; Noon → the Sun is at its highest; Axis → the line the Earth spins around. *Why:* These are the key words of the unit. Sunrise and sunset are really about our place on the turning Earth.
 12. (order) Put these in order, starting from early morning: noon, sunrise, night, sunset.  
@@ -650,15 +648,14 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
    **Answer:** The half of the Earth facing the Sun is left bright, with the person on it. The far half is shaded dark.. *Why:* The Sun lights the half of the Earth that faces it. The other half is night.
 16. (label) Label the globe: North Pole, South Pole, axis, day side, night side.  
    **Answer:** North Pole at the top end of the axis, South Pole at the bottom end. The axis is the line through both. The side facing the Sun is the day side. The side away is the night side.. *Why:* These five labels show the whole idea of the unit in one picture.
-### The Turning World (stretch) (stretch, 15 questions)
+### The Turning World (stretch) (stretch, 16 questions)
 1. (mcq) In June, the Sun rises in Dong, Arunachal Pradesh, at about 4 in the morning by the clock. In Bhuj, Kutch, it rises at about 6. Why?  
    Options: Dong is higher up in the mountains / Dong is further east, so it turns into the sunlight first / The clocks in Dong are wrong / The Sun is closer to Dong  
    **Answer:** Dong is further east, so it turns into the sunlight first. *Why:* The Earth turns from west to east, so eastern places turn into the sunlight first. Picking 'higher up' sounds sensible, but height makes only a tiny difference. Picking 'closer to Dong' imagines the Sun as a nearby lamp. It is 150 million kilometres away, the same for both.
 2. (truefalse) All of India uses one clock time, even though the Sun rises at different times across the country.  
    **Answer:** True. *Why:* True. India uses Indian Standard Time, set by the Sun near Mirzapur, close to the middle of the country.
-3. (mcq) It is 8 at night in Delhi. What is it most likely to be in New York, far to the west, on the other side of the world?  
-   Options: Also 8 at night / Morning / Midnight of the next day / There is no time in New York  
-   **Answer:** Morning. *Why:* New York is on the other side of the Earth. When India faces away from the Sun, New York is turning into the light. It is about 9:30 or 10:30 in the morning there, depending on the time of year. Picking 'also 8 at night' comes from thinking everyone shares one clock.
+3. (write) It is 8 at night in Chennai. Your aunt lives in New York, on the other side of the world. Is she more likely having breakfast or going to bed? Explain using the spinning Earth.  
+   **Answer:** She is more likely having breakfast. New York is on the other side of the Earth. When Chennai has turned away from the Sun, New York is turning into the light. So it is morning there, about 9:30 or 10:30.. *Why:* A strong answer places the two cities on opposite sides of the ball. When one side faces away from the Sun, the other side faces it.
 4. (mcq) A man in a moving boat sees the trees on the bank move backwards. What did Aryabhata use this example to explain?  
    Options: Why rivers flow / Why the stars seem to move west, though it is the Earth that turns / Why trees grow near rivers / Why boats float  
    **Answer:** Why the stars seem to move west, though it is the Earth that turns. *Why:* Aryabhata said the still stars seem to move west because the Earth turns, just as the trees seem to move for the man in the boat. Picking any other answer misses the point of the example: what seems to move is not always what moves.
@@ -667,14 +664,13 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 6. (mcq) You set up a pendulum over a stool with a chalk line. You turn the stool slowly while the pendulum swings. What happens?  
    Options: The pendulum turns with the stool / The pendulum keeps swinging the same way, and the line turns under it / The pendulum stops / The pendulum swings in a circle  
    **Answer:** The pendulum keeps swinging the same way, and the line turns under it. *Why:* A pendulum keeps swinging the same way unless something pushes it sideways. Turning the stool does not push the pendulum. So the line turns under the swing. Picking 'turns with the stool' is what most people expect. Try it and see.
-7. (mcq) Why does the Pole Star, Dhruva Tara, hardly move in the night sky?  
-   Options: It is stuck to the sky / It sits almost exactly above the North Pole, on the line of the Earth's axis / It is the closest star / It is not a real star  
-   **Answer:** It sits almost exactly above the North Pole, on the line of the Earth's axis. *Why:* As the Earth spins, the sky seems to turn around the point above the North Pole. Dhruva Tara is almost at that point, so it barely moves. Picking 'the closest star' is a common mix-up. The closest star is the Sun.
+7. (mcq) Dhruva Tara, the Pole Star, sits almost exactly above the North Pole. If you stood at the North Pole, where would you see her?  
+   Options: Low down, near the horizon / Almost straight above your head / You could not see her at all / In the east, rising  
+   **Answer:** Almost straight above your head. *Why:* The Pole Star is on the line of the Earth's axis. At the North Pole, that line goes straight up through your head. So she sits almost overhead, and all the other stars circle round her.
 8. (truefalse) Places near the equator move faster as the Earth spins than places near the poles.  
    **Answer:** True. *Why:* True. The equator is the fattest part of the Earth, so it has the longest circle to go round in the same 24 hours.
-9. (mcq) Long ago, there were about 400 days in a year. What does this tell us?  
-   Options: The year was longer then / Each day was shorter, because the Earth spun faster / People counted wrongly / The Sun was bigger  
-   **Answer:** Each day was shorter, because the Earth spun faster. *Why:* The year was about the same length, but it held more days. So each day was shorter, about 22 hours. The Earth's spin has slowed since then. Picking 'the year was longer' is a natural guess, but the year is set by the journey round the Sun, which hardly changed.
+9. (perspective) Long ago, two great astronomers disagreed about whether the Earth spins. Imagine you lived then, with no pendulum and no photos from space.  
+   **Answer:** A strong answer works with what people knew then. For Ptolemy: it really does look and feel as if the Earth is still, and nobody could see it move. For Aryabhata: the boat shows that what seems to move is not always what moves. The answer-back uses something from this unit, for example: the air and the birds are already moving with the Earth, like a ball tossed up in a smooth train.. *Why:* Both men had good reasons. Ptolemy trusted what he felt. Aryabhata trusted a clever argument. Proof came much later, with Foucault's pendulum in 1851.
 10. (match) Match each world to its day.  
    **Answer:** Jupiter → about 10 hours; Earth → 24 hours; Mars → a little more than 24 hours; Venus → longer than 100 of our days. *Why:* Every planet spins at its own speed. Jupiter is the fastest. Venus is very slow, and spins backwards.
 11. (mcq) After sunset, the sky stays light for a while. Why?  
@@ -688,7 +684,9 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
    **Answer:** We have a body clock that keeps a rough rhythm of sleeping and waking. But without daylight to reset it, it drifts, so he lost count of the days.. *Why:* Body clocks run close to 24 hours. Daylight resets them each morning. Without it, they slowly drift.
 15. (draw) Draw the Earth from above the North Pole as a circle. Draw an arrow showing which way it spins. Draw the Sun on the left. Mark where it is sunrise.  
    **Answer:** The arrow goes anticlockwise. The Sun is on the left. Sunrise is on the edge where places are just turning from the dark side into the light.. *Why:* Seen from above the North Pole, the Earth turns anticlockwise. Sunrise happens on the edge turning towards the Sun.
-### Puzzles of the Spinning Earth (challenge) (challenge, 15 questions)
+16. (write) Pooja says, 'When it is noon in Chennai, it is noon everywhere on Earth.' Use the torch and ball to show what she has missed.  
+   **Answer:** Noon is when your place faces the Sun most directly. On the ball, only one line of places faces the torch straight on at a time. Places to the east have already passed their noon. Places to the west have not reached it. On the far side of the ball, it is midnight.. *Why:* A strong answer finds the mistake and uses the model: noon moves round the Earth as it spins, just like sunrise does.
+### Puzzles of the Spinning Earth (challenge) (challenge, 16 questions)
 1. (mcq) A star rises above a rooftop at 9:00 tonight. When will it rise above the same rooftop tomorrow?  
    Options: At 9:00 exactly / At about 8:56 / At about 9:04 / At midnight  
    **Answer:** At about 8:56. *Why:* One spin measured against the stars takes about 23 hours and 56 minutes. So stars come back 4 minutes earlier each night. Picking '9:00 exactly' assumes a spin is exactly 24 hours. Our 24-hour day is measured by the Sun, not the stars.
@@ -703,9 +701,8 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 5. (mcq) The Sun you see touching the horizon at sunset is actually already just below it. Why can you still see it?  
    Options: Your eyes are too slow / The air bends the sunlight a little, lifting the picture of the Sun / The Sun is very big / Mirrors in the sky  
    **Answer:** The air bends the sunlight a little, lifting the picture of the Sun. *Why:* Air bends light a little, like water bends a straw in a glass. Near the horizon, this lifts the picture of the Sun, so we see the Sun for about 2 extra minutes at sunset. Picking 'eyes too slow' is a clever guess about light taking time, but that is a different effect.
-6. (mcq) Venus spins very slowly, and backwards compared with the Earth. On Venus, where would the Sun rise?  
-   Options: In the east, like on Earth / In the west / It never rises / Straight overhead  
-   **Answer:** In the west. *Why:* On Earth, we turn west to east, so the Sun seems to come up in the east. Venus turns the other way, so the Sun comes up in the west. Picking 'in the east' means sunrise is thought of as a fixed rule, instead of something made by the spin.
+6. (write) Venus spins very slowly, and the opposite way to the Earth. If you stood on Venus, where would the Sun rise? Use the torch and ball to explain.  
+   **Answer:** In the west. On Earth, we turn from west to east, so the Sun comes into view in the east. If I turned the ball the other way in front of the torch, a dot would come into the light from the other side. So on Venus the Sun rises in the west.. *Why:* A strong answer shows that 'the Sun rises in the east' is not a rule of the Sun. It comes from which way the ground turns.
 7. (write) Fossil corals from 400 million years ago show about 400 days in a year. A year is about 8,760 hours long. Roughly how long was each day? Show your thinking.  
    **Answer:** About 22 hours. 8,760 hours shared among 400 days is about 21.9 hours each. With 365 days, it is 24 hours each.. *Why:* The same year split into more days means shorter days. This is how scientists worked out that the Earth used to spin faster.
 8. (mcq) Why is the night sky dark, when there are billions of stars?  
@@ -716,17 +713,18 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 10. (mcq) Cyclones in the Bay of Bengal spin anticlockwise. Which way do cyclones spin near Australia, south of the equator?  
    Options: Also anticlockwise / Clockwise / They do not spin / It changes every day  
    **Answer:** Clockwise. *Why:* The Earth's spin turns giant storms one way north of the equator and the other way south of it. Picking 'also anticlockwise' assumes the spin pushes the same way everywhere.
-11. (write) Aryabhata said the Earth spins in 499 CE. Copernicus said it in 1543. Many books only name Copernicus. Do you think that is fair? Why?  
-   **Answer:** Any thoughtful answer. For example: it is not fair, because Aryabhata said it more than a thousand years earlier. Or: Copernicus's book changed science in Europe, so he is remembered, but Aryabhata should be named too.. *Why:* There is no single right answer. A good answer gives a reason, and knows who said what and when.
-12. (mcq) If there were no Moon, scientists think the Earth's spin would slow down…  
-   Options: Much faster / Much more slowly, because the Moon's tides are the main brake / Exactly the same / Not at all, and it would speed up  
-   **Answer:** Much more slowly, because the Moon's tides are the main brake. *Why:* The tides made mainly by the Moon rub on the sea floor and brake the spin. With no Moon, the Sun's smaller tides would still brake it a little, but far less. Picking 'much faster' imagines the Moon holding the Earth up.
+11. (perspective) Aryabhata said the Earth spins in 499 CE, in India. Copernicus said it in 1543, in Poland. Heraclides of Pontus said it in Greece even earlier. Many school books name only Copernicus. Three girls argue about who should get the credit.  
+   **Answer:** A strong answer uses dates and what each person did. For Kavitha: 499 CE is over 1,000 years before 1543. For Leela: Copernicus's book was read across Europe, and led on to Galileo and Foucault. For Sana: Heraclides, Aryabhata and Copernicus each reached the idea, and none of them could prove it alone. The answer-back must use a fact too.. *Why:* There is no single right answer. Being first and changing the world are two different kinds of credit.
+12. (write) The tides, made mainly by the Moon, rub on the sea floor and slowly brake the Earth's spin. Predict: in millions of years, will days be longer or shorter than now? Why?  
+   **Answer:** Longer. A brake makes a spin slower. If the Earth spins more slowly, one turn takes more time, so each day and night is longer. Fossil corals show the change has already happened: long ago a day was about 22 hours.. *Why:* A strong answer links slower spin to a longer day, and uses evidence. Today a day gets about 2 thousandths of a second longer every 100 years.
 13. (order) Put these in order of who sees the Sun rise first on the same morning: Mumbai, Tokyo, London, Kolkata.  
    **Answer:** ['Tokyo', 'Kolkata', 'Mumbai', 'London']. *Why:* The Earth turns west to east, so the furthest east sees sunrise first. Tokyo is east of India, then Kolkata, then Mumbai, and London is far to the west.
 14. (write) Invent a way to tell the time on the Moon, where one day lasts about 29 and a half of our days. Describe it.  
    **Answer:** Any good idea. For example: a giant sundial whose shadow moves very slowly, marked in our Earth days. Or a clock that counts Earth hours, because a Moon day is too slow for sleeping by.. *Why:* Good answers notice that a Moon day is too long for a person's body clock, and that shadows still move, just very slowly.
 15. (draw) Draw what the night sky looks like in a 2-hour photo pointed at the Pole Star.  
    **Answer:** Short curved streaks, like parts of circles, all centred on one bright point near the middle, which is the Pole Star.. *Why:* As the Earth turns, all the stars seem to circle the point above the North Pole. In 2 hours, each star moves one-twelfth of the way round.
+16. (write) What if the Earth stopped spinning, but still travelled round the Sun once a year? What would day and night be like in Chennai?  
+   **Answer:** Chennai would only turn towards the Sun and away again as the Earth went round the Sun. So one day and one night would last a whole year: about six months of daylight, then about six months of night. The day side would get very hot and the night side very cold.. *Why:* A strong answer sees that the spin is what makes days short. Without it, only the trip round the Sun would change which side faces the light.
 
 ## Videos
 - **Following the Sun: Crash Course Kids #8.2** (Crash Course Kids, 4 min) id `1SN1BOpLZAs`: A short, clear episode on why the Sun seems to move across the sky and what that does to shadows. It fits after the shadow stick experiment. *Check:* Found by YouTube search. The title and channel were checked automatically through YouTube's oEmbed service. The length is estimated. A parent should preview it once.
@@ -734,21 +732,21 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 - **Testing Earth's Rotation: How a Foucault Pendulum Works** (Bob the Science Guy, 5 min) id `9SdIBzZl5WA`: Shows a real Foucault pendulum and explains why its swing seems to turn. Watch it after the pendulum on a stool experiment. *Check:* Found by YouTube search. The title and channel were checked automatically through YouTube's oEmbed service, but the content was not watched from here. A parent should preview it before showing, to check it is accurate and suitable.
 
 ## Quiz
-1. (mcq) Why do we have day and night?  
-   Options: The Sun goes round the Earth / The Earth spins, so each place faces the Sun and then faces away / The Moon blocks the Sun at night / The Sun goes out at night  
-   **Answer:** The Earth spins, so each place faces the Sun and then faces away. *Why:* The Earth spins once in about 24 hours. Each place turns into the sunlight, then out of it. Picking 'the Sun goes round' is the oldest mix-up of all. It matches what we see, but not what happens. Picking 'the Moon blocks it' mixes night up with an eclipse, which is rare.
+1. (mcq) Right now it is night in Chennai. What is the Sun doing?  
+   Options: Still shining, on the side of the Earth that faces it / Switched off until morning / Hiding behind the Moon / Resting behind the hills  
+   **Answer:** Still shining, on the side of the Earth that faces it. *Why:* The Sun never stops shining. Chennai has simply turned away from it. On the other side of the Earth, it is daytime.
 2. (mcq) You shine a torch at a ball in a dark room. How much of the ball is lit?  
    Options: All of it / About half / None of it / Only the top  
    **Answer:** About half. *Why:* The torch lights the half facing it. The real Earth is the same: half has day and half has night. Picking 'all of it' forgets that light travels in straight lines and cannot reach round the back.
 3. (mcq) In the torch and ball experiment, the torch stays still. What makes a dot on the ball go from day into night?  
    Options: Turning the ball / Moving the torch / Switching off the torch  
    **Answer:** Turning the ball. *Why:* Only the ball turned, so the turning made the night. Picking 'moving the torch' is the feeling that the Sun travels. The test kept the torch still to show it does not need to.
-4. (mcq) The Sun seems to rise in the…  
-   Options: West / East / North / South  
-   **Answer:** East. *Why:* The Earth turns from west to east, so the Sun seems to come up in the east. Picking 'west' swaps sunrise and sunset.
-5. (mcq) From a moving train, the trees seem to move backwards. This is like…  
-   Options: The Sun really moving across the sky / The Sun only seeming to move, because the Earth turns / The trees really running / Night coming  
-   **Answer:** The Sun only seeming to move, because the Earth turns. *Why:* In both cases, you are the one moving, and still things seem to move the other way. Aryabhata used a boat to explain this in 499 CE. Picking 'the Sun really moving' trusts what it looks like over what is happening.
+4. (mcq) The Earth turns from west to east. Which way does the Sun seem to move across our sky?  
+   Options: From east to west / From west to east / From north to south / It does not seem to move  
+   **Answer:** From east to west. *Why:* We turn towards the east, so the Sun seems to slide the other way, from east to west. It rises in the east and sets in the west.
+5. (mcq) Selvi, who is 8, watches the Sun from her balcony all day. In the morning it is in the east. In the evening it is in the west. What is really moving?  
+   Options: Selvi's balcony, carried round by the spinning Earth / The Sun / Both the Sun and the balcony, at the same speed / Nothing moves  
+   **Answer:** Selvi's balcony, carried round by the spinning Earth. *Why:* The Sun stays put. The Earth turns, and carries Selvi and her balcony round with it. That makes the still Sun seem to cross the sky, like still trees seem to move past a train.
 6. (mcq) How long does one spin of the Earth take, from one noon to the next?  
    Options: About 12 hours / About 24 hours / About 7 days / About 365 days  
    **Answer:** About 24 hours. *Why:* One day and one night together take about 24 hours. Picking '12 hours' counts only the daytime. Picking '365 days' mixes up the spin with the trip round the Sun.
@@ -772,9 +770,9 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 13. (mcq) What do scientists agree is slowly happening to the Earth's spin?  
    Options: It is speeding up a lot / It is slowly slowing down, so days get a tiny bit longer / It will stop next year / It never changes at all  
    **Answer:** It is slowly slowing down, so days get a tiny bit longer. *Why:* The tides rub on the sea floor and act like a gentle brake. A day gets about 2 thousandths of a second longer every 100 years. Picking 'it will stop' turns a tiny change into a scary one. It is far too slow to matter to us.
-14. (mcq) On Jupiter, a day lasts about 10 hours. On Venus, a day lasts longer than 100 of our days. Why are they so different?  
-   Options: Each planet spins at its own speed / Jupiter is closer to the Sun / Venus has no Sun / They are not different  
-   **Answer:** Each planet spins at its own speed. *Why:* The length of a day depends on how fast a planet spins. Jupiter spins fast, and Venus spins very slowly. Picking 'Jupiter is closer' is not true. Jupiter is much further from the Sun than Venus.
+14. (mcq) Roja's aunt flies from Chennai to New York, on the other side of the world. For a few days she feels sleepy at lunchtime and wide awake at night. Why?  
+   Options: Her body clock is still on Chennai time / The air on the plane made her tired / New York has no proper night / She ate too much  
+   **Answer:** Her body clock is still on Chennai time. *Why:* Lunchtime in New York is night-time in Chennai. Her body clock keeps home time until a few days of New York daylight reset it. This is called jet lag.
 15. (mcq) A touch-me-not plant was kept in a dark cupboard. Their leaves still opened and closed each day. What does this show?  
    Options: The plant has their own body clock / Light got into the cupboard / Plants do not need light / The plant was broken  
    **Answer:** The plant has their own body clock. *Why:* The plant kept their daily rhythm with no sunlight, so the timer must be inside them. Jean-Jacques d'Ortous de Mairan found this in 1729. Picking 'light got in' is a good scientist's doubt, and later tests ruled it out.

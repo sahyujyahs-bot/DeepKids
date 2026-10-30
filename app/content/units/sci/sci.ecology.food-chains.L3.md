@@ -203,7 +203,7 @@ All the energy in a food web comes from one source, the Sun. Plants catch it, an
 - *deep:* The same atoms go round and round through living things. Could an atom in your finger once have been in a dinosaur? (hint: Atoms last for billions of years. The last dinosaurs died out about 66 million years ago.)
 
 ## Story: The Year We Chased the Sparrows
-*The Four Pests campaign of 1958 in China is real. So is the way sparrows were hunted, by people banging pots on roofs until the birds fell from tiredness. The bird scientist Zheng Zuoxin (also spelled Tso-hsin Cheng) is real. His team studied what sparrows ate, found many insects, especially in spring, and spoke against killing them. He was later punished. In 1960 sparrows were taken off the list and bedbugs added. Insect pests did increase. But historians agree that the great famine of 1959 to 1961 had many causes, mainly the government's farming policies, and the sparrows were only a small part. Lan, her family, old Wu, the nest and the village are made up.*
+*The Four Pests campaign of 1958 in China is real. So is the way sparrows were hunted, by people banging pots on roofs until the birds fell from tiredness. The bird scientist Zheng Zuoxin (also spelled Tso-hsin Cheng) is real. His team studied what sparrows ate, found many insects, especially in spring, and spoke against killing them. He was later punished. In 1960 sparrows were taken off the list and bedbugs added. Insect pests did increase. But historians agree that the great famine of 1959 to 1961 had many causes, mainly the government's farming policies, and the sparrows were only a small part. Lan, her family, Grandmother Wu, the village head Mrs Liu, the nest and the village are made up.*
 
 In the spring of 1958, in a rice village in the south of China, Lan learned that the little brown sparrows were her enemies.
 
@@ -211,15 +211,15 @@ There were posters on every wall. They showed four pests: the rat, the fly, the 
 
 Under the eaves of her own house, two sparrows had built a nest of straw and feathers. That spring, Lan sometimes sat on the step and watched them. The parents flew in and out all morning. She noticed something, without thinking much about it. They did not carry rice. They carried small green caterpillars, and once a fat grasshopper with their legs still kicking. The chicks opened their mouths so wide that their heads seemed to be all mouth. Lan counted forty trips before her mother called her in to eat.
 
-Then came the chosen day. At dawn, the whole village climbed onto the roofs. Old people, children, the teacher, the doctor, everyone. Lan was given her mother's iron wok and a ladle. The village headman blew a whistle, and the noise began.
+Then came the chosen day. At dawn, the whole village climbed onto the roofs. Old people, children, the teacher, the doctor, everyone. Lan was given her mother's iron wok and a ladle. The village head, Mrs Liu, blew a whistle, and the noise began.
 
 They banged pots and gongs and drums. They waved red flags on long bamboo poles. They shouted until their throats were raw. A sparrow can fly only so long before they must rest. So the sparrows flew up from one roof, and found people banging on the next roof, and the next, and the next. In every village for miles, people were doing the same. There was nowhere to land.
 
-By the afternoon, Lan's arm ached and her ears rang. Small brown birds began to drop out of the sky. They fell onto the threshing floor, into the paddy, at her feet. Some were already dead. She picked one up. The bird was warm and as light as a dry leaf. Their eyes were closed. The headman's son walked through the lanes with a basket, collecting the bodies to be counted. Lan put her sparrow in the basket. Everyone was cheering. She cheered too, because everyone was.
+By the afternoon, Lan's arm ached and her ears rang. Small brown birds began to drop out of the sky. They fell onto the threshing floor, into the paddy, at her feet. Some were already dead. She picked one up. The bird was warm and as light as a dry leaf. Their eyes were closed. Mrs Liu's daughter walked through the lanes with a basket, collecting the bodies to be counted. Lan put her sparrow in the basket. Everyone was cheering. She cheered too, because everyone was.
 
 That evening the nest under the eaves was silent. No parents came. In a day or two, the chicks were quiet too.
 
-The rice grew tall and green that summer. Then, one morning, old Wu next door called out from his field. The leaves of his rice plants were rolled up into tubes and turning brown. Inside each tube was a small green caterpillar. In the next field, tiny insects called planthoppers crowded on the stems, sucking the juice. The farmers went out at night with oil lamps and picked insects off by hand. They filled buckets. In the morning there were just as many.
+The rice grew tall and green that summer. Then, one morning, old Grandmother Wu next door called out from her field. The leaves of her rice plants were rolled up into tubes and turning brown. Inside each tube was a small green caterpillar. In the next field, tiny insects called planthoppers crowded on the stems, sucking the juice. The farmers went out at night with oil lamps and picked insects off by hand. They filled buckets. In the morning there were just as many.
 
 'Where are they all coming from?' Lan's father said. 'We have never had so many.'
 
@@ -235,11 +235,11 @@ So Lan did not say it outside. But in her school notebook, she drew the rice pla
 
 Far away in Beijing, a bird scientist named Zheng Zuoxin had been doing the same thing, with more care. His team cut open hundreds of sparrows and looked at what was in their stomachs. In winter, it was mostly seeds. But in spring and summer, when they fed their chicks, it was full of insects. He told the government that sparrows should not be on the list. For saying so, he was later punished.
 
-The harvest that year was poor, and the next years were worse. Lan's family was hungry for a long time. There were many reasons for the hunger, much bigger than birds. But the insects in old Wu's field were one of them.
+The harvest that year was poor, and the next years were worse. Lan's family was hungry for a long time. There were many reasons for the hunger, much bigger than birds. But the insects in Grandmother Wu's field were one of them.
 
-In 1960, a new list went up on the walls. The sparrow had been taken off. In the sparrow's place was the bedbug. When old Wu read it, he laughed, but it was not a happy laugh.
+In 1960, a new list went up on the walls. The sparrow had been taken off. In the sparrow's place was the bedbug. When Grandmother Wu read it, she laughed, but it was not a happy laugh.
 
-The next spring, Lan was eleven. One morning, sitting on the step, she heard a small dry chirp. A brown bird landed on the edge of the eaves with a piece of straw in their beak. The bird looked at her sideways. Then it hopped into the old nest.
+The next spring, Lan was eleven. One morning, sitting on the step, she heard a small dry chirp. A brown bird landed on the edge of the eaves with a piece of straw in their beak. The bird looked at her sideways. Then they hopped into the old nest.
 
 Lan did not tell anyone. She filled a cracked saucer with water and set it on the windowsill. Then she picked up her basket and went out to help her father in the field.
 
@@ -349,7 +349,7 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   *Parent does:* 1. On each plant, look at 20 leaves in a row along a stem. 2. Count how many have a hole, a chewed edge or a wiggly trail. 3. Write the numbers in the table.  
   *Parent says:* Count 20 leaves on each plant, one after another. Any hole, chewed edge or wiggly trail counts as a bite.  
   *Child mode:* Look at 20 leaves on each plant, one after another. Count the leaves with holes or bites. Write the number.
-  - Note: A wiggly pale line inside a leaf is a tunnel made by a tiny caterpillar living inside it, called a leaf miner. It counts. Plants with strong-smelling or bitter leaves, like tulsi and neem, often have fewer bites. That is a real result: many plants make chemicals that stop insects eating them.
+  - Note: A wiggly pale line inside a leaf is a tunnel made by a tiny caterpillar living inside the leaf, called a leaf miner. It counts. Plants with strong-smelling or bitter leaves, like tulsi and neem, often have fewer bites. That is a real result: many plants make chemicals that stop insects eating them.
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* 1. Hunt for the eaters. Look under leaves, along stems and in the soil at the base. 2. Then look for animals that might eat those eaters: spiders, ants, garden lizards and birds.  
   *Parent says:* Now let's find out who did the biting. Look under the leaves. Then look for anyone who might eat the biters.  
@@ -608,27 +608,24 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
    **Answer:** chital deer → Herbivore (plants); grasshopper → Herbivore (plants); tiger → Carnivore (animals); frog → Carnivore (animals); crow → Omnivore (both); sloth bear → Omnivore (both). *Why:* Deer and grasshoppers eat only plants. Tigers and frogs eat only animals. Crows and sloth bears eat fruit, insects and much more, so they are omnivores.
 5. (order) Put this food chain in the right order: snake, grass, frog, grasshopper.  
    **Answer:** order shown. *Why:* The chain starts with the producer, grass. The grasshopper eats grass, the frog eats the grasshopper, and the snake eats the frog.
-6. (mcq) Which of these is a correct food chain?  
-   Options: Grass → deer → tiger / Tiger → deer → grass / Deer → grass → tiger / Grass → tiger → deer  
-   **Answer:** Grass → deer → tiger. *Why:* Grass is eaten by the deer, and the deer is eaten by the tiger. Picking 'Tiger → deer → grass' means the arrows point at the food instead of at the eater. The chain is right, but backwards.
+6. (truefalse) A mushroom is a kind of plant, because a mushroom grows out of the ground.  
+   **Answer:** False. *Why:* False. Many people think this. But a mushroom has no green parts and cannot make food from sunlight. Mushrooms feed on dead leaves and wood, so they are decomposers, not producers. Scientists put fungi in a group of their own.
 7. (truefalse) Most animals eat only one kind of food.  
    **Answer:** False. *Why:* False. Most animals eat several kinds of food. That is why food chains join up into food webs.
 8. (fill) Many food chains joined together make a food ____.  
    **Answer:** ['web']. *Why:* A food web shows all the 'who eats whom' links in one place, crossing like the threads of a net.
 9. (match) Match each word to what it means.  
    **Answer:** Predator → an animal that hunts other animals; Prey → an animal that is hunted; Scavenger → an animal that eats animals already dead; Decomposer → a living thing that breaks down dead plants and animals into nutrients for the soil. *Why:* A kingfisher is a predator and a small fish their prey. A vulture is a scavenger. A mushroom is a decomposer.
-10. (mcq) A vulture eats a dead buffalo. What is the vulture?  
-   Options: A producer / A scavenger / A herbivore / Prey  
-   **Answer:** A scavenger. *Why:* A scavenger eats animals that are already dead. Picking 'herbivore' usually comes from thinking the buffalo ate grass, which the buffalo did. But the vulture eats the buffalo's meat, not grass.
+10. (odd) Which is the odd one out: tiger, kingfisher, frog, goat? Say why.  
+   **Answer:** The goat. *Why:* The goat eats only plants, so she is a herbivore. The tiger, the kingfisher and the frog all eat animals, so they are carnivores.
 11. (mcq) Look at the chart. Ants came most to the sugar and the chapati, and not to the salt. Why?  
-   Options: Sugar and chapati came from plants and carry food energy. Salt has none. / Ants cannot see salt / Salt is too heavy for ants / Ants only like white things  
+   Options: Ants cannot see salt / Ants only like white things / Salt is too heavy for ants / Sugar and chapati came from plants and carry food energy. Salt has none.  
    **Answer:** Sugar and chapati came from plants and carry food energy. Salt has none.. *Why:* Sugar comes from sugarcane and chapati from wheat. Both carry energy a plant made from sunlight. Salt comes from the sea or rocks and gives no energy. Picking 'only like white things' cannot be right: salt is white too, and the ants ignored it.
 12. (mcq) In the ant test, why did we put one square with nothing on it?  
-   Options: To see how many ants walk onto a square just by chance / To give the ants a rest / Because we ran out of food / To make the test harder  
+   Options: To see how many ants walk onto a square just by chance / To make the test harder / To give the ants a rest / Because we ran out of food  
    **Answer:** To see how many ants walk onto a square just by chance. *Why:* The empty square shows how many ants arrive by accident. If the sugar square has many more than the empty one, we know the sugar attracted them. Picking 'to give the ants a rest' is a kind idea, but it would not help us learn anything.
-13. (mcq) Which living thing is a decomposer?  
-   Options: Mould on old bread / A parrot / A neem tree / A goat  
-   **Answer:** Mould on old bread. *Why:* Mould is a fungus. The mould breaks down the dead bread. Picking 'neem tree' may come from thinking that anything growing from the ground is like a fungus. But a neem tree makes their own food from sunlight.
+13. (write) Remember the ant test? Predict: if you added a fifth square with a piece of ripe banana, would ants come to it? Why do you think so?  
+   **Answer:** Yes, I think many ants would come. A banana grew on a plant, and it is full of sugar. The sugar carries energy the plant made from sunlight. The ants came to sugar and chapati, which also came from plants, but not to salt, which has no food energy.. *Why:* A strong answer makes a prediction and backs it with the test: ants came to foods made by plants, and ignored salt.
 14. (write) Write a food chain of four links from near your home. Use arrows that point to the eater.  
    **Answer:** Any correct chain that starts with a plant. For example: mango leaf → caterpillar → bulbul → cat.. *Why:* A good chain starts with a producer and each arrow points from the food to the eater.
 15. (draw) Draw a food web with at least five living things from a pond. Join them with arrows that point to the eater.  
@@ -637,66 +634,60 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
    **Answer:** A tiger cannot make their own food. They have to eat deer, and the deer eat plants. So every chain with a tiger starts with a plant.. *Why:* Food chains start with producers. Tigers are consumers.
 ### Energy, Pyramids and Webs (stretch) (stretch, 16 questions)
 1. (mcq) Look at the chart. The grass in a field holds 1,000 units of food energy. About how much reaches the frogs?  
-   Options: About 10 units / About 1,000 units / About 500 units / About 250 units  
+   Options: About 1,000 units / About 500 units / About 250 units / About 10 units  
    **Answer:** About 10 units. *Why:* Only about a tenth passes on at each step. 1,000 becomes 100 for the grasshoppers, then 10 for the frogs. Picking 250 usually means sharing the energy equally among four animals. But each animal only gets what the one before did not use up.
 2. (fill) In One Hundred Grains, the grass had 100 grains. The grasshoppers got 10. The frog got ____.  
    **Answer:** ['1', 'one', '1 grain', 'one grain']. *Why:* 10 divided by 10 is 1. Each step keeps one tenth.
 3. (mcq) Where does most of the food energy go at each step of a food chain?  
-   Options: It is used for living, and ends up as heat / It is stored for ever in the animal's bones / It goes back into the Sun / It is passed on to the next animal  
+   Options: It goes back into the Sun / It is used for living, and ends up as heat / It is passed on to the next animal / It is stored for ever in the animal's bones  
    **Answer:** It is used for living, and ends up as heat. *Why:* Animals use most of their food to move, breathe, grow and stay warm. That energy leaves as heat. Picking 'passed on' is the very idea this question tests: only a small part is passed on.
-4. (mcq) Why are there many deer in a forest but only a few tigers?  
-   Options: Each tiger needs to eat lots of deer, because so little energy passes up each step / Tigers don't like each other / Deer are better at hiding / Tigers live longer  
-   **Answer:** Each tiger needs to eat lots of deer, because so little energy passes up each step. *Why:* A tiger eats about 50 deer-sized animals a year. Because only about a tenth of the energy passes up each step, it takes many deer to feed one tiger. Picking 'tigers don't like each other' is partly true, since tigers live alone. But the main reason is food.
+4. (write) Why are there many deer in a forest but only a few tigers? Use the words 'a tenth' in your answer.  
+   **Answer:** Only about a tenth of the food energy in the deer passes on to the tiger. The rest the deer used for living. So each tiger must eat a lot of deer, about 50 a year. A forest can feed many deer, but only enough of them to keep a few tigers alive.. *Why:* A strong answer links the numbers to the energy rule. Tigers living alone is a small part of the reason. Food is the main one.
 5. (truefalse) A tiger needs about 500 deer and other prey animals living in their forest, to keep them fed year after year.  
    **Answer:** True. *Why:* True. Tiger scientists in India estimate this. A tiger eats about 50 a year, and the forest must have enough deer left to keep breeding.
-6. (mcq) In a rice field, all the frogs are caught and sold. What is most likely to happen next?  
-   Options: Insects that eat rice increase, and the rice crop suffers / The rice grows better, because frogs eat rice / The snakes eat more rice / Nothing changes  
-   **Answer:** Insects that eat rice increase, and the rice crop suffers. *Why:* Frogs eat many insects. Without frogs, the insects that eat rice can multiply. Picking 'frogs eat rice' is a mix-up: frogs are carnivores. Picking 'snakes eat more rice' forgets that snakes are carnivores too. They will go hungry, or eat rats instead.
+6. (perspective) In a rice field near Thanjavur, people are deciding what to do about the frogs.  
+   **Answer:** A strong answer uses the web: frogs eat insects, and insects eat rice. Agreeing with Selvi is fair if the answer says she needs money now and suggests catching only a few. Agreeing with Padma or the frog needs the chain rice → insect → frog. The answer-back must use a fact, for example: in the 1980s India sold many frog legs abroad, crop pests increased, and India banned the trade in 1987.. *Why:* This is a real trade-off between money today and the harvest later. India did ban the export of frog legs in 1987, partly because frogs eat crop pests.
 7. (mcq) In the story, the posters said sparrows only eat rice. What did Lan see that the posters missed?  
-   Options: Sparrows also eat caterpillars and other insects that eat rice / Sparrows eat only grass / Sparrows never eat anything / Sparrows eat cats  
+   Options: Sparrows eat only grass / Sparrows also eat caterpillars and other insects that eat rice / Sparrows never eat anything / Sparrows eat cats  
    **Answer:** Sparrows also eat caterpillars and other insects that eat rice. *Why:* Lan saw sparrows carrying caterpillars to their chicks. So sparrows are part of a web. They eat some rice, but they also eat the insects that eat rice. Picking 'only grass' does not match what Lan saw.
 8. (sort) Sort these. Is each one a producer, a consumer or a decomposer?  
    **Answer:** pond algae → Producer; neem tree → Producer; kingfisher → Consumer; honeybee → Consumer; mushroom → Decomposer; bacteria in the soil → Decomposer. *Why:* Algae and trees make food from light. Kingfishers and bees eat other living things. Mushrooms and soil bacteria break down dead things.
 9. (mcq) Look at the chart. Which plant was eaten most?  
-   Options: Hibiscus / Grass / Tulsi / They were all the same  
+   Options: Hibiscus / Tulsi / Grass / They were all the same  
    **Answer:** Hibiscus. *Why:* The hibiscus had 9 bitten leaves out of 20, more than the grass (5) or the tulsi (2). Picking tulsi usually means reading the shortest bar as the 'winner'. Here, the tallest bar means the most bites.
 10. (mcq) In the Leaf Bite Survey, why do we look at exactly 20 leaves on each plant?  
-   Options: So the test is fair, and we can compare the plants / Because plants have only 20 leaves / Because 20 is a lucky number / So we finish quickly  
+   Options: So the test is fair, and we can compare the plants / Because 20 is a lucky number / So we finish quickly / Because plants have only 20 leaves  
    **Answer:** So the test is fair, and we can compare the plants. *Why:* Imagine looking at 50 leaves on one plant and 10 on another. The first would seem to have more bites, just because we looked more. Using the same number makes it fair. Picking 'so we finish quickly' is true but not the reason.
 11. (mcq) Robert Paine kept taking starfish off one stretch of rocky shore. What happened?  
-   Options: Mussels took over, and the number of kinds of living things fell from 15 to 8 / The shore had more kinds of living things than before / Nothing changed / The starfish grew back the next day  
+   Options: The shore had more kinds of living things than before / Nothing changed / The starfish grew back the next day / Mussels took over, and the number of kinds of living things fell from 15 to 8  
    **Answer:** Mussels took over, and the number of kinds of living things fell from 15 to 8. *Why:* Starfish eat mussels. Without them, mussels covered the rocks and crowded out other living things. Picking 'more kinds' is a natural guess, since one predator was gone. But that predator kept the mussels from taking over.
 12. (match) Match each scientist to what they found.  
    **Answer:** Rachel Carson → showed that DDT was harming birds, in Silent Spring, 1962; Raymond Lindeman → measured how food energy passes up the chain in a lake; Vibhu Prakash → counted India's vultures and found them disappearing; Robert Paine → named keystone species after his starfish test. *Why:* Each of them changed how people understand food webs. Carson and Prakash also helped save animals.
 13. (truefalse) A poison like DDT can build up, so that a fish-eating bird holds far more of it than the same weight of lake water.  
    **Answer:** True. *Why:* True. Each eater keeps the poison from everything they ate, so it builds up at each step. This is called biomagnification.
-14. (mcq) Why did India's vultures die in the 1990s and 2000s?  
-   Options: A painkiller given to cattle stayed in the dead cattle and poisoned the vultures / They were hunted for their feathers / It was too hot / They ran out of water  
-   **Answer:** A painkiller given to cattle stayed in the dead cattle and poisoned the vultures. *Why:* The painkiller diclofenac stayed in the bodies of treated cattle. Vultures that ate them died of kidney damage. Picking 'too hot' is a guess with no evidence behind it. At first, many scientists thought a disease was killing the vultures, until the real cause was found in 2004.
+14. (write) In the 1990s, India's vultures began to die. At first scientists thought a disease was killing them. If you were on the team, how would you find out what was really killing them?  
+   **Answer:** I would look at many dead vultures and check what was wrong inside them. Then I would ask what they had all eaten: dead cattle. I would test those dead cattle for medicines and poisons. The team found that most vultures had failed kidneys and had eaten cattle treated with a painkiller called diclofenac.. *Why:* A strong answer looks for what all the dead birds had in common, then tests that idea. This is how Vibhu Prakash and Lindsay Oaks's team found the cause in 2004.
 15. (write) When the vultures disappeared, the number of street dogs went up. Explain why, using the words 'food web'.  
    **Answer:** In the food web, vultures and dogs both ate dead cattle. With no vultures, more food was left for the dogs. So more dogs survived and had puppies.. *Why:* When one eater disappears, their food goes to other eaters in the web.
 16. (draw) Draw an energy pyramid for grass, deer and tiger. Make each layer the right size.  
    **Answer:** A wide bottom layer of grass, a smaller middle layer of deer, and a tiny top layer with one tiger.. *Why:* Each step up has about a tenth of the food energy, so each layer is much smaller than the one below.
 ### Web Puzzles and Big Ideas (challenge) (challenge, 16 questions)
-1. (mcq) Most food chains have only 3 to 5 links. Which reason do scientists still argue about?  
-   Options: Whether it is mainly because energy runs out, because long chains are wobbly, or because places are too small / Whether animals can count / Whether plants are living things / Whether the Sun is hot  
-   **Answer:** Whether it is mainly because energy runs out, because long chains are wobbly, or because places are too small. *Why:* Scientists have three main ideas, and they still argue about which matters most. Picking any of the others would mean the question was about something already settled.
+1. (write) Most food chains have only 3 to 5 links. Use One Hundred Grains to explain why a chain of 10 links almost never happens.  
+   **Answer:** At each step only about a tenth passes on. 100 grains became 10, then 1. After that, the next eater would get a tenth of one grain, and the one after almost nothing. There is not enough food energy left to feed animals that high up. Scientists also think long chains are wobbly, and some places are too small.. *Why:* A strong answer uses the numbers to show how fast the energy runs out. Scientists agree on the energy rule but still argue about how much the other reasons matter.
 2. (mcq) Scientists worked out how far up the food chain humans are, on average. What did they find?  
-   Options: About 2.2, close to a pig or an anchovy / 5, the very top, above the tiger / 1, the same as a plant / 10, far above everything  
+   Options: 1, the same as a plant / 5, the very top, above the tiger / 10, far above everything / About 2.2, close to a pig or an anchovy  
    **Answer:** About 2.2, close to a pig or an anchovy. *Why:* In 2013, scientists found that humans eat mostly plants, so on average we are about 2.2. Picking 5 is what most people expect. It is how strongly we change food webs, not what we eat, that makes us powerful.
 3. (truefalse) Chief Seattle really said: 'Man did not weave the web of life. He is merely a strand in it.'  
    **Answer:** False. *Why:* False. Those words were written by a screenwriter, Ted Perry, in 1971. The idea is beautiful, but it is always worth checking who really said something.
-4. (mcq) Did bringing wolves back to Yellowstone change the shape of its rivers?  
-   Options: Scientists still argue about how much the wolves changed the plants and rivers / Yes, all scientists agree / No, the wolves changed nothing at all / Wolves dug new rivers with their paws  
-   **Answer:** Scientists still argue about how much the wolves changed the plants and rivers. *Why:* Elk numbers fell and some trees grew back, but scientists disagree about how much, and whether the rivers changed. Picking 'all scientists agree' usually comes from a popular video, which tells the story more strongly than the evidence does.
+4. (perspective) In 1995, wolves were brought back to Yellowstone, a huge park in the USA. Wolves hunt elk, a kind of large deer. Scientists still disagree about what happened next.  
+   **Answer:** A strong answer uses the food web: wolves eat elk, and elk eat young willows. For the first side: fewer elk should mean more willows. For the second side: when many things change at once, you cannot be sure the wolves caused it. A strong answer may also say what you could measure to find out, such as the willows where there are wolves and where there are none.. *Why:* This is a real and open argument. A popular video told the story as if all scientists agreed. They do not.
 5. (mcq) What happens to the carbon atoms in a leaf that a goat eats?  
-   Options: They become part of the goat, or are breathed out into the air / They are destroyed inside the goat / They turn into energy and disappear / They go back into the Sun  
+   Options: They turn into energy and disappear / They go back into the Sun / They are destroyed inside the goat / They become part of the goat, or are breathed out into the air  
    **Answer:** They become part of the goat, or are breathed out into the air. *Why:* Atoms are never destroyed. The goat builds some into their body and breathes some out. Picking 'turn into energy and disappear' mixes up atoms with energy. Energy is used up as heat. Atoms go round and round.
-6. (mcq) Why does life on Earth need fresh sunlight every day, but not fresh atoms?  
-   Options: Energy is used up as heat at each step, but atoms are used again and again / Atoms come from the Sun every day / Sunlight is made of atoms / Plants only need light, not atoms  
-   **Answer:** Energy is used up as heat at each step, but atoms are used again and again. *Why:* Food energy is used once and leaves as heat. Atoms are recycled by decomposers. Picking 'atoms come from the Sun every day' is a mix-up. Almost all the atoms in living things have been on Earth for billions of years.
+6. (write) Life on Earth needs fresh sunlight every day, but not fresh atoms. Explain why, using the carbon atom game.  
+   **Answer:** In the game, the carbon atom went from the air to a leaf, a goat, the soil, a mushroom and back to the air. It was used again and again. But food energy is used up at each step and leaves as heat, like when I ran and got hot. Heat does not come back as food. So plants must catch new sunlight every day.. *Why:* A strong answer separates the two: atoms go round and round, while energy flows one way and leaves as heat.
 7. (mcq) In the Deer and Tiger Toss game, which usually comes first?  
-   Options: The most deer, then the most tigers / The most tigers, then the most deer / Both at exactly the same time / Neither, the numbers never change  
+   Options: Neither, the numbers never change / The most tigers, then the most deer / Both at exactly the same time / The most deer, then the most tigers  
    **Answer:** The most deer, then the most tigers. *Why:* The tigers can only increase once there are many deer to eat. So the deer peak first, and the tigers a few rounds later. Picking 'the most tigers first' would mean tigers grow without food.
 8. (write) Rachel Carson was attacked when she said DDT was harming birds. Why do you think some people did not want to hear it?  
    **Answer:** Any thoughtful answer. For example: companies were making money from selling DDT. Farmers found it useful. It is hard to hear that something you rely on is causing harm.. *Why:* This question links science to people. Evidence is not always welcome, and the people who bring it may need courage.
@@ -705,19 +696,19 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 10. (write) A farmer sprays a strong poison to kill insects on her crop. Next year the insects come back worse. Use the food web to explain how this could happen.  
    **Answer:** The poison also killed the frogs, spiders, birds and helpful insects that ate the crop insects. The crop insects breed faster than their predators, so they came back first, with fewer hunters.. *Why:* Killing one part of a web can harm the pest's predators more than the pest.
 11. (mcq) Why was what happened to India's vultures not quite the same as DDT biomagnification?  
-   Options: One meal of a treated cow could kill a vulture, without slow build-up / Vultures do not eat cows / Diclofenac is not a poison / Vultures are not in food webs  
+   Options: One meal of a treated cow could kill a vulture, without slow build-up / Vultures are not in food webs / Vultures do not eat cows / Diclofenac is not a poison  
    **Answer:** One meal of a treated cow could kill a vulture, without slow build-up. *Why:* Biomagnification is slow build-up over many meals and many steps. Diclofenac was so harmful to vultures that a single meal could be enough. Both stories show that what an animal eats passes up the web. Picking 'not a poison' is wrong: it is a safe medicine for cattle, but deadly to vultures.
 12. (write) How could you test, near your home, whether lizards really come to lights because insects gather there?  
    **Answer:** For example: watch two lights at the same time on the same evening, one on and one off. Count insects and lizards at each, three times. If lizards come only to the light with many insects, that supports the idea.. *Why:* A good test changes one thing, here whether the light is on, and counts carefully.
 13. (mcq) Which web is likely to be harder to break?  
-   Options: A web where each animal eats many different things / A web where each animal eats only one thing / A web with only two living things / They are all equally hard to break  
+   Options: A web where each animal eats many different things / They are all equally hard to break / A web where each animal eats only one thing / A web with only two living things  
    **Answer:** A web where each animal eats many different things. *Why:* If an animal has many foods, losing one food is not a disaster. Picking 'only one thing' is the opposite: then losing one food means starving. Scientists still argue about very big, complicated webs, but this simple idea holds well.
-14. (write) Should people try to get rid of animals they call pests, like rats or crows? Give your opinion with one reason for and one against.  
-   **Answer:** A balanced answer. For example: for, rats eat stored grain and spread disease. Against, rats are food for owls and snakes, and crows clean up waste. Removing them may cause new problems.. *Why:* There is no single right answer. A good answer uses the food web to think about what else would change.
+14. (perspective) In a market in Kozhikode, rats are eating the stored rice. People argue about what to do.  
+   **Answer:** A strong answer uses the web and thinks about what else would change. For Fathima: disease and lost grain are real harms. For Meera: poison climbs the chain, as in the poison game, and rats breed faster than owls. For Ravi: less food means fewer rats, without harming owls. The answer-back must give a reason, not just disagree.. *Why:* There is no single right answer. Each plan has a cost. The food web shows what each plan might change beyond the rats.
 15. (draw) Draw the food web from the story: rice, caterpillar, sparrow. Draw every arrow Lan drew.  
    **Answer:** Three arrows: rice → sparrow, rice → caterpillar, caterpillar → sparrow.. *Why:* Two arrows go into the sparrow. The sparrow eats rice, and also eats the caterpillars that eat rice.
 16. (mcq) Some places put gambusia fish in ponds to eat mosquito larvae. Later, the fish also ate the eggs of local fish and frogs. What does this show?  
-   Options: Adding an animal to a web can change more than you planned / Fish never eat mosquito larvae / Frogs eat gambusia / Mosquitoes are not in food webs  
+   Options: Frogs eat gambusia / Adding an animal to a web can change more than you planned / Mosquitoes are not in food webs / Fish never eat mosquito larvae  
    **Answer:** Adding an animal to a web can change more than you planned. *Why:* Most animals eat more than one thing, so a new animal touches many threads in the web. Picking 'fish never eat larvae' is wrong: gambusia do eat them. The problem is what else they eat.
 
 ## Videos
@@ -726,51 +717,51 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 - **India's vanishing vultures** (to find, 6 min) id `Jo0LTZQ3KA4`: Real footage of India's vultures, the diclofenac story and the breeding centres trying to bring them back. *Check:* Found by YouTube search: "Why India's Vultures Are Disappearing: The Veterinary Drugs Impact Explained | Connecting The Dots" by DD India. Title checked automatically; a parent may still preview it.
 
 ## Quiz
-1. (mcq) In a food chain, what does the arrow mean?  
-   Options: 'Is eaten by' / 'Eats' / 'Is bigger than'  
-   **Answer:** 'Is eaten by'. *Why:* Grass → goat means the grass is eaten by the goat. The arrow shows which way the food goes. Picking 'eats' is the common mix-up: it reads the arrow backwards, as if it pointed at the food.
-2. (mcq) What is at the start of almost every food chain?  
-   Options: A green plant or algae / A top predator / A decomposer  
-   **Answer:** A green plant or algae. *Why:* Plants and algae make food from sunlight. Every other living thing eats food that a plant made first. Picking 'a decomposer' is a clever guess, since decomposers feed the soil. But decomposers cannot make food from light.
+1. (mcq) One link is missing from this food chain: ____ → caterpillar → bulbul → cat. What should go at the start?  
+   Options: A tiger / A hibiscus leaf / Sunlight / A stone  
+   **Answer:** A hibiscus leaf. *Why:* Every food chain starts with a producer, a plant. The caterpillar eats the leaf. Picking 'sunlight' is a clever guess, because sunlight feeds the plant. But sunlight is not a living thing, so it is not a link in the chain.
+2. (mcq) Why does almost every food chain start with a plant?  
+   Options: Plants make their own food from sunlight, air and water / Plants are the smallest living things / Plants live the longest / Plants cannot move  
+   **Answer:** Plants make their own food from sunlight, air and water. *Why:* Animals cannot make food from light. Only plants and algae can. So every animal's food comes from a plant in the end. Picking 'cannot move' is true of most plants, but it is not why they come first.
 3. (mcq) Which is a correct food chain?  
-   Options: Algae → mosquito larva → small fish → kingfisher / Kingfisher → small fish → mosquito larva → algae / Small fish → algae → kingfisher → mosquito larva  
+   Options: Kingfisher → small fish → mosquito larva → algae / Small fish → algae → kingfisher → mosquito larva / Algae → mosquito larva → small fish → kingfisher  
    **Answer:** Algae → mosquito larva → small fish → kingfisher. *Why:* The chain starts with the producer, algae, and each arrow points to the eater. Picking the second one means the chain is in reverse, with the arrows pointing at the food.
-4. (mcq) A crow eats chapati, insects, fruit and dead animals. What is the crow?  
-   Options: An omnivore / A herbivore / A producer  
-   **Answer:** An omnivore. *Why:* An omnivore eats both plants and animals. Picking 'herbivore' means the chapati and fruit were counted, but not the insects and dead animals.
+4. (mcq) A mongoose eats snakes, eggs, insects and fruit. What is the mongoose?  
+   Options: A producer / A herbivore / An omnivore  
+   **Answer:** An omnivore. *Why:* An omnivore eats both plants and animals. The fruit is from a plant. The snakes, eggs and insects come from animals. Picking 'herbivore' counts only the fruit.
 5. (mcq) Which living thing breaks down dead plants and animals into nutrients for the soil?  
-   Options: A mushroom, which is a decomposer / A tiger, which is a predator / A mango tree, which is a producer  
+   Options: A tiger, which is a predator / A mushroom, which is a decomposer / A mango tree, which is a producer  
    **Answer:** A mushroom, which is a decomposer. *Why:* Mushrooms and other fungi, and bacteria, are decomposers. Picking the mango tree may come from thinking that whatever grows in soil also feeds it. But trees take nutrients from the soil. Decomposers give them back.
-6. (mcq) All the frogs in a rice field disappear. What happens to the insects that frogs eat?  
-   Options: They usually increase / They all die too / Nothing happens to them  
-   **Answer:** They usually increase. *Why:* With fewer frogs, fewer insects are eaten, so they usually increase. Picking 'they all die' means thinking everything in a chain goes when one link goes. But the insects did not need the frogs. The frogs needed the insects.
-7. (mcq) Why is a food web harder to break than a single food chain?  
-   Options: Animals can switch to other foods when one runs out / Webs have bigger animals / Webs have no plants  
-   **Answer:** Animals can switch to other foods when one runs out. *Why:* In a web, most animals have several foods. If one food runs out, they can eat another. Picking 'bigger animals' mixes up size with links.
-8. (mcq) In One Hundred Grains, the grass had 100 grains. How many reached the frog?  
-   Options: 1 grain / 10 grains / 25 grains  
-   **Answer:** 1 grain. *Why:* The grasshoppers got one tenth of 100, which is 10. The frog got one tenth of 10, which is 1. Picking 10 stops one step too early. Picking 25 shares the grains out equally, which is not how food passes along.
-9. (mcq) Why are there so few tigers compared to deer?  
-   Options: Only a small part of the food energy passes up each step, so each tiger needs many deer / Tigers are lazy / Deer eat tigers  
-   **Answer:** Only a small part of the food energy passes up each step, so each tiger needs many deer. *Why:* A tiger needs about 50 deer-sized animals a year, and a forest of about 500 prey animals to keep going. Picking 'deer eat tigers' has the chain the wrong way round.
-10. (mcq) Look at the chart from the ant test. What does the empty square show?  
-   Options: How many ants come by chance, with no food at all / That ants like empty paper best / That the test went wrong  
-   **Answer:** How many ants come by chance, with no food at all. *Why:* The empty square is for comparing. It had 1 ant, while the sugar had 23. So the sugar really attracted the ants. Picking 'the test went wrong' misses why we added the empty square on purpose.
-11. (mcq) To make the Leaf Bite Survey fair, what must be the same for every plant?  
-   Options: The number of leaves we look at / The colour of the plant / The size of the pot  
-   **Answer:** The number of leaves we look at. *Why:* Looking at 20 leaves on every plant lets us compare them fairly. Picking 'colour' changes nothing about how we count.
-12. (mcq) DDT was sprayed on insects and washed into a lake. Where did it build up the most?  
-   Options: In the fish-eating birds at the top / In the water / In the tiny plankton  
-   **Answer:** In the fish-eating birds at the top. *Why:* Each eater keeps the poison from everything they ate, so it builds up at each step. Picking 'the water' is a natural guess, because that is where it went first. But there it was most spread out.
-13. (mcq) What nearly wiped out India's vultures?  
-   Options: A painkiller given to cattle, diclofenac / Too many tigers / Cold winters  
-   **Answer:** A painkiller given to cattle, diclofenac. *Why:* Vultures ate dead cattle that had been treated with diclofenac, and it destroyed their kidneys. India banned it for animals in 2006. Picking 'too many tigers' is a guess that tigers hunt vultures. They don't.
-14. (mcq) Do scientists all agree that wolves changed the rivers of Yellowstone?  
-   Options: No, they still argue about how big the effect was / Yes, all of them agree / Yes, the wolves dug new rivers  
-   **Answer:** No, they still argue about how big the effect was. *Why:* Some scientists found trees growing back, and others found the effect much smaller. Picking 'all agree' usually comes from a popular video that tells the story more strongly than the evidence.
-15. (mcq) What happens to atoms and energy as food passes along a food chain?  
-   Options: The atoms go round and round, but the energy is used up as heat / Both are used up / Both go round and round for ever  
-   **Answer:** The atoms go round and round, but the energy is used up as heat. *Why:* Decomposers return atoms to the soil and air, to be used again. Energy leaves as heat and does not come back, so life needs new sunlight every day. Picking 'both go round' misses why plants must keep catching light.
+6. (mcq) In a pond, kingfishers eat small fish, and small fish eat mosquito larvae. If all the kingfishers left, what would most likely happen first?  
+   Options: The mosquito larvae would increase / The pond plants would die / The small fish would increase  
+   **Answer:** The small fish would increase. *Why:* With no kingfishers eating them, more small fish survive. Later, with more small fish, fewer mosquito larvae would be left. Picking 'larvae increase' skips a step in the web.
+7. (mcq) A bulbul eats figs, insects and flower nectar. One year the fig tree near her has no fruit. Why does she not starve?  
+   Options: Bulbuls do not need food / Another bird brings her figs / She is part of a food web, so she can eat insects and nectar instead  
+   **Answer:** She is part of a food web, so she can eat insects and nectar instead. *Why:* Most animals eat many kinds of food. In a web, losing one food is not a disaster. If she ate only figs, she would be in trouble.
+8. (mcq) In One Hundred Grains, why did the snake at the end get almost nothing?  
+   Options: The snake was not hungry / The frog hid the grains / There were too many snakes / At each step, nine out of every ten grains were used up for living  
+   **Answer:** At each step, nine out of every ten grains were used up for living. *Why:* 100 became 10, then 1, then a tiny part of one grain for the snake. Each animal uses most of their food to move, breathe and stay warm.
+9. (mcq) A family can eat rice grown on a field. Or they can feed that rice to chickens and eat the chickens. Which way feeds more people from the same field?  
+   Options: Both feed exactly the same number / Eating the rice / Eating the chickens  
+   **Answer:** Eating the rice. *Why:* The chickens use most of the rice's energy for living. Only about a tenth reaches the people. So eating the rice itself feeds many more people. Picking 'the same' forgets the energy lost at each step.
+10. (mcq) In the ant test, why did we put all four squares at the same distance from the ants' trail?  
+   Options: Because ants cannot walk far / So the only difference between the squares was the food / So the squares looked neat  
+   **Answer:** So the only difference between the squares was the food. *Why:* If one square were closer, more ants might reach it just because it was near. Keeping the distance the same means the food is the only thing that changes. That makes the test fair.
+11. (mcq) In the Leaf Bite Survey, the hibiscus had 9 bitten leaves out of 20, the grass had 5 and the tulsi had 2. What is a good way to compare them at a glance?  
+   Options: A bar chart with one bar for each plant / A drawing of one leaf / Writing the numbers in one long sentence  
+   **Answer:** A bar chart with one bar for each plant. *Why:* A bar chart puts the three numbers side by side. The tallest bar shows the plant eaten most. A table works well too.
+12. (mcq) In Poison Climbs the Chain, each plankton had 1 red dot. The osprey, a fish-eating bird, ended up with 40. Why did she get so many?  
+   Options: The dots grew on their own / Ospreys make poison / She ate many fish, and each fish had eaten many plankton  
+   **Answer:** She ate many fish, and each fish had eaten many plankton. *Why:* Each eater keeps the poison from everything they ate. So it builds up at every step, and the top eater holds the most. This is called biomagnification.
+13. (mcq) In 2006, India banned the painkiller diclofenac for cattle. Why did this help vultures?  
+   Options: Cattle stopped dying / Vultures were taking the medicine themselves / Vultures eat dead cattle, so the medicine no longer reached them  
+   **Answer:** Vultures eat dead cattle, so the medicine no longer reached them. *Why:* Vultures ate dead cattle that had been given diclofenac, and it destroyed their kidneys. With the ban, their food became safe again. Vulture numbers are now slowly recovering in some places.
+14. (mcq) Some people say nature always goes back to one perfect balance. What do many ecologists say today?  
+   Options: Places keep changing all the time, so there is no single fixed balance / Nature never changes at all / Every place is in perfect balance for ever  
+   **Answer:** Places keep changing all the time, so there is no single fixed balance. *Why:* Fires, floods, droughts and new animals keep changing a place. Many ecologists, like Daniel Botkin, say nature is always shifting. Others still find the idea of balance useful. They still argue about it.
+15. (mcq) Scientists agree that only about a tenth of the food energy passes on at each step. What do they still argue about?  
+   Options: Which way the arrows point / Whether tigers eat deer / Exactly why food chains are so short / Whether plants make food from sunlight  
+   **Answer:** Exactly why food chains are so short. *Why:* Energy running out is one reason. Others say long chains are wobbly, or that a place is too small. Which reason matters most is still being argued. The other choices are all settled.
 
 ## Applications
 - Tiger reserves, like those set up under Project Tiger from 1973, protect whole food webs: grass, deer and tigers together.

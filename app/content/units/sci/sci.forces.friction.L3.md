@@ -598,26 +598,25 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
    **Answer:** False. *Why:* False. We need friction to walk, hold things, write and stop. It does cause some problems too, like wearing things out.
 8. (match) Match each thing to what it does to friction.  
    **Answer:** Oil on a door hinge → less friction; Grooves on a tyre → more grip; Powder on a carrom board → less friction; Sand on an icy path → more grip. *Why:* Slippery things like oil and powder lower friction. Grooves and gritty sand give more grip.
-9. (mcq) Rub your hands together fast for 10 seconds. How do they feel?  
-   Options: Colder, because air rushes past them / Warmer / Wetter / The same as before  
-   **Answer:** Warmer. *Why:* Friction turns the movement of your hands into heat. Picking 'colder' usually means the child is thinking of a fan, where moving air cools us. Rubbing is different: it makes heat.
-10. (fill) Something slippery that we put between two surfaces to lower friction is called a ____.  
+9. (fill) Something slippery that we put between two surfaces to lower friction is called a ____.  
    **Answer:** ['lubricant']. *Why:* Oil, water, soap and powder are all lubricants.
-11. (mcq) Bicycle tyres have bumpy patterns called tread. Why?  
+10. (mcq) Bicycle tyres have bumpy patterns called tread. Why?  
    Options: To look nice / To grip the road better / To make the tyre lighter / To make the tyre roll faster  
    **Answer:** To grip the road better. *Why:* Tread helps the tyre grip the road. On wet roads, its grooves also let water escape. Picking 'roll faster' often means the child thinks less touching is always better. Tread is about grip, not speed.
-12. (mcq) Think of a heavy box on the floor. Which is usually harder?  
+11. (mcq) Think of a heavy box on the floor. Which is usually harder?  
    Options: Starting to push it / Keeping it moving once it slides / They are always exactly the same  
    **Answer:** Starting to push it. *Why:* It is usually harder to start something sliding than to keep it sliding. The starting grip, called static friction, is a little stronger. Picking 'keeping it moving' often comes from feeling tired after pushing for a long time. That tiredness is real, but the biggest push is needed right at the start.
-13. (fill) A forcemeter is a tool that measures how strong a pull is. It measures in ____.  
-   **Answer:** ['newtons', 'N', 'newton']. *Why:* The newton is the unit of force. Its short form is N.
-14. (write) Why is it hard to walk on very slippery ice? Use the word friction in your answer.  
+12. (write) Why is it hard to walk on very slippery ice? Use the word friction in your answer.  
    **Answer:** There is very little friction between my shoes and the ice. When I push my foot back to step forward, it slides instead of gripping. So I can't push myself forward.. *Why:* Walking needs friction. Your foot pushes back on the ground, and friction pushes you forward.
-15. (write) Name two places at home where you are glad there is friction. Say why for each one.  
+13. (write) Name two places at home where you are glad there is friction. Say why for each one.  
    **Answer:** Any two good examples. For example, the bathroom mat stops me slipping when the floor is wet. My pencil grips the paper, so it leaves a line when I write.. *Why:* Any two correct examples, each with a reason, are right.
-16. (draw) Draw a shoe resting on a slope. Draw one arrow for the way the shoe would slide. Draw another arrow for friction.  
+14. (draw) Draw a shoe resting on a slope. Draw one arrow for the way the shoe would slide. Draw another arrow for friction.  
    **Answer:** The slide arrow points down the slope. The friction arrow points up the slope, along the surface.. *Why:* Friction acts along the surface, against the way the shoe would slide.
-### Friction in the Real World (stretch) (stretch, 15 questions)
+15. (write) Harini, a girl in Class 3, says, 'Friction only happens when things are moving. A shoe standing still on a slope has no friction on it.' What is wrong with her idea?  
+   **Answer:** A strong answer says that friction also works on still things. Gravity tries to make the shoe slide down the slope, and friction pushes up the slope to stop it. That is why the shoe stays put. If there were no friction, the shoe would slide straight away, as it would on ice.. *Why:* Friction works against sliding, and that includes stopping a still thing from starting to slide. Scientists call this static friction.
+16. (perspective) Lakshmi's family in Madurai is choosing new tiles for the kitchen floor. They do not agree.  
+   **Answer:** A strong answer picks a tile and explains it with friction: rough tiles give more friction, so feet grip even when the floor is wet. Smooth tiles give less friction, so they are slippery but easy to clean. It answers back fairly, and may suggest a middle way, such as rough tiles near the sink or a rubber mat.. *Why:* Both are right about something. Less friction makes cleaning easy, and more friction keeps people safe. Real homes weigh this up, often with a mat where the floor gets wet.
+### Friction in the Real World (stretch) (stretch, 16 questions)
 1. (mcq) Meenakshi pulls a box of books across the floor with a forcemeter. The full box needs 8 newtons. The half-empty box needs 4 newtons. Look at the pictures. Why does the full box need more pull?  
    Options: The full box presses down harder, so there is more friction / The half-empty box is smoother underneath / The full box is bigger, so more of it touches the floor / The floor changed  
    **Answer:** The full box presses down harder, so there is more friction. *Why:* The full box is heavier, so it presses on the floor harder. Pressing harder gives more friction. 8 newtons is twice 4 newtons. Picking 'more of it touches' is a very common idea. But it is the same box, with the same bottom on the floor. Only how hard it presses has changed.
@@ -639,24 +638,25 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 8. (mcq) Which way would move a heavy stone most easily?  
    Options: Dragging it across dry sand / Rolling it on round logs / Pushing it across smooth stone / Pulling it with more people  
    **Answer:** Rolling it on round logs. *Why:* Rolling has much less friction than sliding. Picking 'more people' often means the child thinks the answer is always more pulling. Changing the surface, or rolling instead of sliding, can matter more.
-9. (match) Match each person to their idea about friction.  
-   **Answer:** Leonardo da Vinci, an Italian artist and inventor → wrote rules of friction in his notebooks, around 1493; Guillaume Amontons, a French scientist → published the rules of friction, in 1699; Galileo, an Italian scientist → saw that things stop because of friction, not because stopping is natural. *Why:* Leonardo found the rules first, but did not publish them. So Amontons usually gets the credit.
-10. (mcq) Why might the man in the Egyptian painting be pouring water on the sand?  
+9. (mcq) Why might the man in the Egyptian painting be pouring water on the sand?  
    Options: To cool the hot sand for the men's feet / Damp sand lets the sledge slide with less friction / To make mud for building / To wash the dust off the statue  
    **Answer:** Damp sand lets the sledge slide with less friction. *Why:* The right amount of water makes sand firm. Then the sledge slides on top, instead of digging in and pushing up a hill of sand. Picking 'to cool the sand' is a sensible guess about the hot desert. But the water is poured right in front of the sledge, where it meets the sand.
-11. (mcq) What happens if you pour too MUCH water on the sand?  
-   Options: It gets even easier, because more water means more slippery / The sand becomes mud and the sledge sinks in / Nothing changes / The water dries up too fast to matter  
-   **Answer:** The sand becomes mud and the sledge sinks in. *Why:* A little water makes sand firm. Too much water turns it into soft mud, and the heavy sledge sinks in. Picking 'even easier' is a very common idea: if a little helps, more must help more. Here, it does not.
-12. (write) A heavy almirah, a tall steel cupboard, will not move. Give two different ways to make it easier to push. Explain each one using the word friction.  
+10. (write) If a little water on the sand helps the sledge slide, will a lot of water help even more? Predict, and explain why.  
+   **Answer:** No. A little water makes the sand firm, so the sledge slides on top instead of pushing up a hill of sand. Too much water turns the sand into soft mud. The heavy sledge sinks in, and it gets harder to pull. There is a best amount, not a 'more is better'.. *Why:* Many people guess that if a little helps, more must help more. Here it does not. The 2014 sand tests in Amsterdam found the same thing.
+11. (write) A heavy almirah, a tall steel cupboard, will not move. Give two different ways to make it easier to push. Explain each one using the word friction.  
    **Answer:** One way: take things out of it. Then it presses down on the floor less, so there is less friction. Another way: put rollers or a folded cloth under it. Then it rolls, or slides, with less friction.. *Why:* Pressing down less, adding a slippery layer, or rolling instead of sliding all lower friction.
-13. (write) Why do your hands get warm when you rub them together? Where does the movement go?  
+12. (write) Why do your hands get warm when you rub them together? Where does the movement go?  
    **Answer:** Friction between my hands turns some of the movement into heat. The movement does not vanish. It becomes warmth.. *Why:* Friction changes movement energy into heat energy.
-14. (forces) A box is being pushed to the right across the floor. Show all the forces on it, with one arrow for each.  
+13. (forces) A box is being pushed to the right across the floor. Show all the forces on it, with one arrow for each.  
    Options: push / friction / gravity / floor pushes up  
    **Answer:** push right, friction left, gravity down, floor pushes up up. *Why:* Friction acts against the push, so it points left. Gravity pulls the box down. The floor pushes it up.
-15. (draw) Design a shoe sole for walking on the wet, mossy steps of a ghat. Label two features that give more grip.  
+14. (draw) Design a shoe sole for walking on the wet, mossy steps of a ghat. Label two features that give more grip.  
    **Answer:** Good features include soft rubber, deep grooves to let water out, small bumps or studs, and a wide flat area that touches the stone.. *Why:* Soft rubber and grooves give more grip on wet surfaces.
-### Friction Puzzles and Big Ideas (challenge) (challenge, 19 questions)
+15. (write) Look at your own slope test results. Which shoe or sock gripped best? Look at its sole, and say what about it might give more grip. Did any result surprise you?  
+   **Answer:** A strong answer names the winner with its height, for example 'my rubber chappal stayed on until 16 cm'. It looks at the sole and links what it sees to friction: soft rubber, bumps or grooves. It says honestly whether anything surprised them, for example a smooth shoe that gripped well.. *Why:* Your own results are evidence. Linking them to what the soles are made of is how you find out why things grip.
+16. (perspective) Three people in Kerala argue about the best tyres for a cycle in the monsoon.  
+   **Answer:** A strong answer picks a tyre and explains it with friction: tread grips wet roads, so brakes work better, while smooth tyres roll with less friction but slip in rain. It answers back fairly, for example that grippy tyres take more effort to pedal and wear out.. *Why:* Friction is wanted in one place and not in another. We want grip for stopping and steering, and little friction for rolling easily. Every tyre is a trade-off.
+### Friction Puzzles and Big Ideas (challenge) (challenge, 17 questions)
 1. (mcq) A brick is pulled lying flat, on its big side. Then it is pulled standing on its thin edge. Look at the pictures. The forcemeter shows about the same pull both times. What does this tell us?  
    Options: Friction depends a lot on how much area touches / For a hard brick, friction hardly depends on how much area touches / The forcemeter is broken / The thin edge should cut in and grip more  
    **Answer:** For a hard brick, friction hardly depends on how much area touches. *Why:* For hard things, the touching area hardly matters. What matters is the materials, and how hard they press together. Guillaume Amontons wrote this down in 1699, and it surprised people. Picking 'depends a lot on area' means going with what feels true, not with what the forcemeter shows. Many grown-ups believed that for hundreds of years.
@@ -678,31 +678,24 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 8. (mcq) Two notebooks have their pages laid over each other like this. They are very hard to pull apart. Why?  
    Options: The pages are glued together a little / Hundreds of pages each add a little friction, and pulling squeezes them together even more / The paper is magnetic / The books are too heavy to lift  
    **Answer:** Hundreds of pages each add a little friction, and pulling squeezes them together even more. *Why:* Each page grips only a tiny bit. But hundreds of tiny grips add up. Pulling also squeezes the pages tighter, which adds more friction. Picking glue or magnets usually means the child expects a hidden force. The surprise is that ordinary friction, added up many times, is enough.
-9. (mcq) Why might Leonardo's friction rules have been forgotten for 200 years?  
-   Options: His rules were wrong / His notebooks were not published, so other scientists never read them / Amontons copied him and kept it secret / Nobody cared about friction back then  
-   **Answer:** His notebooks were not published, so other scientists never read them. *Why:* In science, the credit usually goes to whoever publishes. Work that is never published can be lost. Picking 'copied him' is a common guess when credit goes to the wrong person. There is no evidence for that. Amontons worked it out for himself.
-10. (write) In the story, the men pulled harder, but the sledge would not move. Then Mery poured just enough water on the sand. Why did changing the sand work better than pulling harder? Use the word friction.  
+9. (write) In the story, the men pulled harder, but the sledge would not move. Then Mery poured just enough water on the sand, and it slid. Why did changing the sand work better than pulling harder? Use the word friction.  
    **Answer:** Dry sand piled up in front of the sledge and held it back. Damp sand stayed firm, so the sledge slid on top with less friction. Pulling harder only pushed the sledge deeper into the dry sand.. *Why:* Friction depends on both surfaces that touch. Changing the sand changed the friction, so a smaller pull was enough.
-11. (write) Invent one machine that would work better WITHOUT friction, and one that could not work without it. Explain both.  
+10. (write) Invent one machine that would work better WITHOUT friction, and one that could not work without it. Explain both.  
    **Answer:** For example: a wheel that turned with no friction would waste no energy, so a cycle would roll further. But brakes could not work without friction, because they must rub the wheel to stop it.. *Why:* A good answer shows that friction is useful in some places and wasteful in others.
+11. (perspective) For hundreds of years, scientists argued about why two surfaces grip each other.  
+   **Answer:** A strong answer picks an idea and gives evidence, for example that sandpaper grips better than paper, which fits the bumps idea. It answers back, for example that very smooth, clean surfaces can stick even harder, which the bumps idea cannot explain. The best answers see why scientists today combine them.. *Why:* Each idea explains some results. Bumps explain why rough things grip. Sticking atoms explain why very smooth things can grip too. That is why the modern view uses both.
 12. (write) How could you design a test to find out which idea matters more?  
    **Answer:** For example: take two pieces of the same material. Make one very rough, and polish the other very smooth. Pull each with a forcemeter. If the rough piece grips more, bumps matter more. If the very polished piece grips more, sticking atoms matter more.. *Why:* A good test changes only one thing, here the roughness, and keeps everything else the same.
-13. (mcq) Astronauts inside a space station float. They hold on to handles to stay in place. Why can't they just stand on the floor?  
-   Options: They float instead of pressing down on the floor, so their feet get almost no friction / The floor is wet / There is no air in the space station / Space is very cold  
-   **Answer:** They float instead of pressing down on the floor, so their feet get almost no friction. *Why:* Friction depends on how hard two surfaces press together. Floating astronauts hardly press on the floor at all, so their feet get almost no grip. Picking 'no air' is a common mix-up. The space station is full of air, so astronauts can breathe.
-14. (write) Is friction a 'good' force or a 'bad' force? Give your opinion, with one reason for each side.  
-   **Answer:** A balanced answer. For example: friction is good because it lets us walk and stop. It is bad because it wastes energy and wears things out. So perhaps it depends on where it is.. *Why:* There is no single right answer. What counts is giving a reason for each side.
-15. (draw) Draw a close-up of two 'smooth' surfaces touching, as a very strong microscope would show them. Mark the places where they really touch.  
+13. (write) Inside a space station, astronauts float. Predict what happens if an astronaut tries to walk across the floor, and explain using friction.  
+   **Answer:** Her feet would slip and she would push herself away instead of stepping forward. Friction depends on how hard two surfaces press together. A floating astronaut hardly presses on the floor at all, so there is almost no grip. That is why astronauts hold handles and use foot straps.. *Why:* Walking needs friction, and friction needs the surfaces to press together. Pressing harder gives more friction, and floating gives almost none.
+14. (draw) Draw a close-up of two 'smooth' surfaces touching, as a very strong microscope would show them. Mark the places where they really touch.  
    **Answer:** Two bumpy edges, like mountain ranges, touching only at a few peaks. The touching peaks are marked.. *Why:* Even smooth surfaces are bumpy close up. They touch only at a few tiny points.
-16. (mcq) Deep down, where does friction come from?  
+15. (mcq) Deep down, where does friction come from?  
    Options: Atoms tugging on each other with electric force / Tiny hooks on every surface / Gravity pulling things sideways / Air trapped between the surfaces  
    **Answer:** Atoms tugging on each other with electric force. *Why:* Friction comes from electric pushes and pulls between the atoms of the two surfaces. Picking 'tiny hooks' is close to the old bumps idea, and bumps do play a part. But deep down, even bumps grip through electric forces. Picking gravity mixes up two different forces.
-17. (mcq) Superfluid helium, once stirred, keeps swirling without slowing down. Why?  
-   Options: It has no friction at all / It is very heavy, so it keeps going / It is very cold, and cold things move faster / Someone keeps stirring it  
-   **Answer:** It has no friction at all. *Why:* With no friction, nothing turns its movement into heat. So it does not slow down. Picking 'very heavy' usually means heavy things are thought to keep going longer. What really stops moving things is friction.
-18. (truefalse) Friction from the ocean tides is very slowly making Earth's days longer.  
+16. (truefalse) Friction from the ocean tides is very slowly making Earth's days longer.  
    **Answer:** True. *Why:* True. The tides rub on the sea floor, and this slowly brakes the Earth's spin. About 400 million years ago, a day lasted only about 22 hours.
-19. (write) A film shows a box sliding across a floor and stopping. How could you tell if the film was playing backwards?  
+17. (write) A film shows a box sliding across a floor and stopping. How could you tell if the film was playing backwards?  
    **Answer:** Played backwards, the box would start moving all by itself, pushed by a warm floor. That never happens. Friction turns movement into heat, but it never turns heat back into movement like that.. *Why:* Friction only works one way. Some scientists link this to the 'arrow of time', the fact that time only goes forwards.
 
 ## Videos
@@ -711,12 +704,12 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 - **The Strange (Unexpected) Reason Ice is Slippery** (It's Okay To Be Smart (PBS), 8 min) id `yjSf7Yh9UZc`: The open question of why ice is slippery, told honestly. *Check:* Found by YouTube search: "The Strange and Unexpected Reason Ice is Slippery" by Be Smart. Title checked automatically; a parent may still preview it.
 
 ## Quiz
-1. (mcq) Where does friction act?  
-   Options: Where two surfaces touch / Only on things that are moving fast / Only when things are wet / Between magnets far apart  
-   **Answer:** Where two surfaces touch. *Why:* Friction needs two surfaces touching each other. Picking 'moving fast' usually means friction is linked only with speed. But it also holds still things in place. Magnets pull without touching, so that is a different force.
-2. (mcq) Which way does friction push?  
-   Options: The same way as the movement / Against the sliding / Always downwards  
-   **Answer:** Against the sliding. *Why:* Friction works against sliding. Picking 'the same way' often means friction is seen as a helper that carries things along. Picking 'downwards' mixes it up with gravity.
+1. (mcq) Which of these needs friction?  
+   Options: Walking without slipping / A magnet pulling a pin across a gap / The Moon pulling on the sea  
+   **Answer:** Walking without slipping. *Why:* Walking needs your feet to grip the ground. The magnet and the Moon pull without touching, so they are not friction. Friction needs two surfaces touching.
+2. (mcq) You slide a steel tumbler to the right across a table. Which way does friction push on the tumbler?  
+   Options: To the left / To the right / Straight up  
+   **Answer:** To the left. *Why:* Friction works against the sliding, so it pushes the opposite way, to the left. That is why the tumbler slows down. Picking 'to the right' means thinking friction helps the movement.
 3. (mcq) Which floor gives your feet the most grip?  
    Options: Ice / A rubber mat / A shiny, polished floor that is wet  
    **Answer:** A rubber mat. *Why:* Rubber grips well. Picking the shiny floor often means shiny is thought of as clean and safe. Shiny, wet floors are actually slippery.
@@ -735,27 +728,27 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 8. (mcq) Which of these lowers friction?  
    Options: Sand on an icy path / Oil on a door hinge / Rubber soles  
    **Answer:** Oil on a door hinge. *Why:* Oil is a lubricant, a slippery layer that lowers friction. Picking sand often means tiny grains are pictured rolling like marbles. On ice, sand grains dig in and add grip.
-9. (mcq) Why do old temple steps have a dip in the middle?  
-   Options: Friction from millions of feet wore them away / They were built that way / Heavy people squashed the stone down  
-   **Answer:** Friction from millions of feet wore them away. *Why:* Each footstep rubs off a tiny bit of stone. Over hundreds of years, this wear makes a dip. Picking 'squashed' usually means stone is pictured as soft, like clay. Hard stone does not squash. It wears away.
-10. (mcq) Rubbing your hands together makes them warm. Why?  
-   Options: Friction turns movement into heat / Blood rushes into your hands / The air around you is warm  
-   **Answer:** Friction turns movement into heat. *Why:* Friction turns the movement of your hands into heat. Picking 'blood rushes' is a sensible guess. But rub two sticks together and they warm up too, with no blood at all.
+9. (mcq) Your rubber eraser gets smaller the more you use it. Why?  
+   Options: Friction with the paper rubs tiny bits off it / It dries up in the air / The pencil eats it  
+   **Answer:** Friction with the paper rubs tiny bits off it. *Why:* Each rub tears off tiny crumbs of rubber. That is wear, caused by friction. Picking 'it dries up' is a fair guess, but an eraser left in a box stays the same size.
+10. (mcq) Long ago, people lit fires by spinning a stick very fast against a piece of dry wood. Why did this work?  
+   Options: Friction turned the spinning movement into heat / Wood always has fire inside it / The air around the stick got colder  
+   **Answer:** Friction turned the spinning movement into heat. *Why:* Rubbing turns movement into heat. Spin fast enough for long enough, and the wood dust gets hot enough to glow. Picking 'fire inside the wood' mixes up burning with what starts the burning.
 11. (mcq) Do scientists fully know why ice is slippery?  
    Options: Yes, it is because pressure melts it / No, they are still studying it / Yes, it is because ice is always wet  
    **Answer:** No, they are still studying it. *Why:* Scientists still argue about it. Picking 'pressure melts it' means the old textbook idea has been met. Scientists now think that pressure is far too weak to explain it.
 12. (mcq) Who wrote down rules of friction first, but in notebooks that were never published?  
    Options: Guillaume Amontons / Leonardo da Vinci / Isaac Newton  
    **Answer:** Leonardo da Vinci. *Why:* Leonardo da Vinci wrote them around 1493. Amontons published them about 200 years later, in 1699. Picking Newton is a common guess, because he is famous for forces. But Newton was born more than 120 years after Leonardo died.
-13. (mcq) Deep down, where does friction come from?  
-   Options: Atoms pushing and pulling with electric force / Tiny hooks on every surface / Only gravity  
-   **Answer:** Atoms pushing and pulling with electric force. *Why:* Friction comes from electric pushes and pulls between the atoms of the two surfaces. Picking 'tiny hooks' is close to the old bumps idea, which is part of the story. But even bumps grip through electric forces. Gravity is a different force.
+13. (mcq) Two very smooth, very clean pieces of glass, pressed together, can stick hard. Why?  
+   Options: Their atoms come close enough to pull on each other / There is hidden glue on them / Glass is magnetic  
+   **Answer:** Their atoms come close enough to pull on each other. *Why:* When surfaces are very smooth, many more atoms touch, and they pull on each other with electric force. Picking 'hidden glue' looks for something extra. The grip comes from the atoms themselves.
 14. (mcq) Which of these flows with no friction at all?  
    Options: Honey / Superfluid helium, cooled to about 271 degrees below zero / Water  
    **Answer:** Superfluid helium, cooled to about 271 degrees below zero. *Why:* Superfluid helium is so cold that it flows with zero friction. Picking water often means runny is taken to mean friction-free. Water flows easily, but it still has a little friction inside it.
-15. (mcq) Friction from the tides rubbing on the sea floor is…  
-   Options: Making Earth's days slowly longer / Making Earth's days slowly shorter / Pulling the Moon closer to us  
-   **Answer:** Making Earth's days slowly longer. *Why:* Tidal friction slowly brakes Earth's spin. About 400 million years ago, a day lasted only about 22 hours. Picking 'Moon closer' is a natural guess, since the Moon's pull makes the tides. In fact the Moon is drifting away, about 3.8 centimetres a year.
+15. (mcq) The ends of the bones in your knee rub thousands of times a day. Why don't they wear out quickly?  
+   Options: They are covered in smooth cartilage and a slippery liquid / They never touch each other / They are made of steel  
+   **Answer:** They are covered in smooth cartilage and a slippery liquid. *Why:* Smooth cartilage soaked in slippery joint fluid gives less friction than ice sliding on ice. Picking 'never touch' is a fair guess, but the bones do press together every time you stand.
 
 ## Applications
 - Brakes on bicycles, scooters, cars and trains rub against the wheels to slow them down.

@@ -400,7 +400,7 @@
    "concept": "How insects fly, and the bumblebee puzzle",
    "status": "defined",
    "definition": "Insects fly by flapping their wings very fast and twisting them. Each stroke makes a small whirl of air over the wing, which gives much more lift than a still wing could.",
-   "description": "A housefly beats its wings about 200 times every second. That makes the buzz you hear. Small wings flapping so fast work differently from big airplane wings. As each wing sweeps, a little whirlwind forms along its front edge and clings to it. That whirl gives extra lift. For a long time, nobody understood this. People joked that science said bumblebees should not be able to fly. In 1999, Michael Dickinson and his team in California built a giant robot fly wing, flapping in a tank of oil. They measured the forces and showed how insect wings make so much lift.",
+   "description": "A housefly beats their wings about 200 times every second. That makes the buzz you hear. Small wings flapping so fast work differently from big airplane wings. As each wing sweeps, a little whirlwind forms along its front edge and clings to it. That whirl gives extra lift. For a long time, nobody understood this. People joked that science said bumblebees should not be able to fly. In 1999, Michael Dickinson and his team in California built a giant robot fly wing, flapping in a tank of oil. They measured the forces and showed how insect wings make so much lift.",
    "examples": [
     "A mosquito's whine is the sound of their wings beating hundreds of times a second.",
     "Dragonflies can fly backwards, and each of their four wings can move on its own."
@@ -593,22 +593,22 @@
    "'Now!'",
    "He let go. She did not run. She pulled. The wind pushed the pink kite back, and the string held it, and the kite had nowhere to go but up. It shot up past the washing line, past the neighbour's satellite dish, wobbling and then steadying. Farah let out a little string, then pulled again, and it climbed again. Whenever the string went slack, the kite began to sag. Whenever she drew it tight, it rose. She was laughing out loud.",
    "So that was the secret she found. A kite does not fly in spite of the string. It flies because of it. The wind pushes, the string holds, and the tilted paper turns the push into an upward push. Mine is the same trick, without the string. I lean on the moving air, and the air holds me.",
-   "For an hour the sky was perfect. Hundreds of paper kites hung over the old city, red and yellow and green, and my family wheeled among them. Then the fighting began. The boys crossed their strings and sawed, and kites came loose and drifted away over the rooftops. People cheered. Bilal cut three kites down, one after another.",
+   "For an hour the sky was perfect. Hundreds of paper kites hung over the old city, red and yellow and green, and my family wheeled among them. Then the fighting began. The kite fighters crossed their strings and sawed, and kites came loose and drifted away over the rooftops. People cheered. Bilal cut three kites down, one after another.",
    "I did not see the fourth string. It was loose, trailing from a kite that had already been cut. It drifted across the sky like a spider's thread, and the glass in it caught the light a moment too late. It wrapped once around my left wing. When I beat my wing to shake it off, it bit.",
    "A wing is only a wing while it can push the air. Mine could not. The air slid past it, and I was falling. I tumbled through the paper kites and the shouting, and I hit the roof among Farah's water pots.",
    "Everyone was looking up at the fight. Only Farah was looking down. She knelt beside me. I hissed at her and opened my beak. She did not run away, and she did not grab me. She took the dupatta from her shoulders and dropped it over me, gently, so that the world went dark and quiet. Through the cloth I felt her small hands hold my wings closed against my body.",
    "'Bilal,' she said, in a voice I had not heard from her. 'Bring scissors. Not your string. Scissors.'",
-   "They cut the glass thread away. Then her father carried me through the crowded lanes, wrapped in pink cloth, to a building full of birds. It was a hospital just for birds, run by kind people in white. There were pigeons with bandaged feet, a parrot with a splint, and three other kites like me, all cut by string.",
+   "They cut the glass thread away. Then her mother carried me through the crowded lanes, wrapped in pink cloth, to a building full of birds. It was a hospital just for birds, run by kind people in white. There were pigeons with bandaged feet, a parrot with a splint, and three other kites like me, all cut by string.",
    "I stayed there for many weeks. My feathers grew back.",
    "When they let me go, I flew straight to my water tank. It was a hot afternoon in October. Below me, on her roof, Farah was flying the pink kite on plain white cotton thread. It had no glass at all. Bilal stood beside her. He was holding the spool for her, and none of his string glittered.",
    "I stepped off the tank and found a rising bubble of air. Farah looked up, and I am almost sure she knew me. For a long moment we hung there together over the old city. Her kite was held by a string, and I was held by nothing but the way I leaned. We were both doing the same thing. We were pushing the air down, and the air was pushing us up."
   ],
-  "epiphany": "For the parent: Farah's kite fails while she runs along with the wind and lets the string go slack. It flies the moment she stands still with the wind at her back, the kite's face turned into the wind, and pulls the string tight. The wind pushes the kite, the string holds it, and the tilted kite turns that push upwards. The cheel does the same thing without a string, leaning their tilted wings on rising warm air. When the glass string damages its wing, the wing can no longer push the air, and it falls. Every flyer in the story stays up the same way: by pushing air downwards. The story also quietly asks who the sky is for.",
+  "epiphany": "For the parent: Farah's kite fails while she runs along with the wind and lets the string go slack. It flies the moment she stands still with the wind at her back, the kite's face turned into the wind, and pulls the string tight. The wind pushes the kite, the string holds it, and the tilted kite turns that push upwards. The cheel does the same thing without a string, leaning their tilted wings on rising warm air. When the glass string damages their wing, the wing can no longer push the air, and it falls. Every flyer in the story stays up the same way: by pushing air downwards. The story also quietly asks who the sky is for.",
   "ask": [
    "In the story, Farah's kite would not fly at first. What did she change to make it climb?",
    "Why did the kite rise when Farah pulled the string tight, and sag when the string went slack?",
-   "How did the cheel stay up in the sky without flapping its wings?",
-   "Why did the cheel fall when the glass string cut its wing?",
+   "How did the cheel stay up in the sky without flapping their wings?",
+   "Why did the cheel fall when the glass string cut their wing?",
    "At the end, Bilal holds a spool of plain cotton string. Why do you think he changed?"
   ],
   "art": [
@@ -2277,12 +2277,6 @@
      "art": "A crow mid-downstroke with air arrows going down."
     },
     {
-     "t": "truefalse",
-     "p": "Air is a real material. It takes up space and pushes on things.",
-     "a": true,
-     "why": "True. Air keeps a tissue dry inside an upside-down glass under water, and it pushes back on a card when you run."
-    },
-    {
      "t": "mcq",
      "p": "A tissue is pushed into the bottom of a glass. The glass is pushed upside down into water. Why does the tissue stay dry?",
      "opts": [
@@ -2443,14 +2437,6 @@
      "how": "e1"
     },
     {
-     "t": "fill",
-     "p": "To soar, a bird rides a bubble of rising warm air called a ____.",
-     "a": [
-      "thermal"
-     ],
-     "why": "Thermals rise from hot ground on sunny days."
-    },
-    {
      "t": "truefalse",
      "p": "A plane's wings would still hold it up in space, where there is no air.",
      "a": false,
@@ -2470,6 +2456,31 @@
      "a": "Lift points up, weight points down, thrust points forward and drag points back.",
      "why": "Every flying thing has these four forces on it.",
      "art": "A blank paper plane outline in flight."
+    },
+    {
+     "t": "write",
+     "p": "Pooja, a girl in Class 3, says, 'Air is nothing. An empty bottle has nothing in it.' How could you show her she is wrong, using things at home?",
+     "lines": 4,
+     "a": "A strong answer describes a test and what it shows. For example: put the lid on an 'empty' bottle and squeeze it. It pushes back, because air is inside. Or push an open bottle, mouth down, into a bucket of water. The water cannot get in until bubbles of air come out.",
+     "why": "Air is a real material. It takes up space and pushes back, even though we can't see it."
+    },
+    {
+     "t": "perspective",
+     "p": "Two friends in Kochi watch birds from a terrace and argue about which bird is the better flyer.",
+     "views": [
+      {
+       "who": "Kavya, in Class 3",
+       "says": "The crow is better. Crows flap, so they can take off from a wall, fly in any weather, and carry food home."
+      },
+      {
+       "who": "Anjali, her friend",
+       "says": "The cheel is better. Cheels soar on rising warm air, so they can stay up for an hour with hardly any work."
+      }
+     ],
+     "ask": "Which bird do you think is the better flyer? Give a reason about how they push on the air. Then say one thing your friend has right.",
+     "lines": 5,
+     "a": "A strong answer picks a bird and explains how they stay up: flapping pushes air down and back, and soaring uses rising warm air under still wings. It answers back fairly, for example that soaring saves energy but needs sunshine and rising air, while flapping works anywhere but is hard work.",
+     "why": "Both are good at different jobs. Flapping is strong but tiring. Soaring is cheap but needs thermals, so cheels soar most around midday."
     }
    ]
   },
@@ -2642,18 +2653,6 @@
      "how": "p1"
     },
     {
-     "t": "mcq",
-     "p": "Why do black kites and vultures soar most around midday on hot days?",
-     "opts": [
-      "The ground is hottest then, so thermals are strongest",
-      "That is when they are hungriest",
-      "There is less wind at midday",
-      "Their wings work only in sunlight"
-     ],
-     "a": 0,
-     "why": "The Sun heats the ground most around midday, making strong rising air. Picking 'hungriest' is a sensible guess about behaviour. But it doesn't explain how they stay up without flapping."
-    },
-    {
      "t": "sort",
      "p": "Sort these into what makes flying easier and what makes it harder for a bird.",
      "cats": [
@@ -2696,16 +2695,10 @@
      "why": "False. A flat wing tilted a little still turns air down, so it gets lift. That is why paper planes fly."
     },
     {
-     "t": "mcq",
-     "p": "Many old books say: 'Air over the top of a wing goes faster because it must meet the air from underneath at the back at the same time.' What do wind tunnel tests show?",
-     "opts": [
-      "The air on top reaches the back much sooner, so this explanation is wrong",
-      "The two streams always meet exactly at the back",
-      "Air doesn't move over the top of a wing at all",
-      "The air underneath goes faster"
-     ],
-     "a": 0,
-     "why": "Smoke films show air over the top racing ahead and reaching the back long before the air underneath. Nothing makes the streams meet again. Picking 'always meet' is understandable, because many old books say so. It sounds sensible, but tests show it is wrong."
+     "t": "truefalse",
+     "p": "The air over the top of a wing goes faster only because it must meet the air from underneath at the back at the same time.",
+     "a": false,
+     "why": "False. This 'equal time' idea is in many old books, but smoke tests in wind tunnels show the air on top reaches the back much sooner. Nothing makes the two streams meet again. The air on top is faster, but not for that reason."
     },
     {
      "t": "mcq",
@@ -2718,38 +2711,6 @@
      ],
      "a": 0,
      "why": "A glider makes lift, but nothing pushes it forward. So it must slowly sink to keep moving. Picking 'too heavy' often means weight is thought to be the only thing that matters. Many birds weigh more than flying squirrels and still fly."
-    },
-    {
-     "t": "match",
-     "p": "Match each person to what they did.",
-     "pairs": [
-      [
-       "George Cayley",
-       "drew the forces on a flying machine, around 1799"
-      ],
-      [
-       "Otto Lilienthal",
-       "made about 2,000 glider flights in the 1890s"
-      ],
-      [
-       "Orville and Wilbur Wright",
-       "first steered a powered plane, in 1903"
-      ],
-      [
-       "Sarla Thakral",
-       "first Indian woman to fly a plane, in 1936"
-      ]
-     ],
-     "a": "pairs as given",
-     "why": "Each built on the work of people before them. For example, the Wright brothers started from Lilienthal's numbers for wing lift, then tested wings in their own wind tunnel to improve them.",
-     "context": "This question is about four people from the story of flight."
-    },
-    {
-     "t": "write",
-     "p": "Glass-coated kite string hurts many birds at kite festivals. Give two ways to make kite flying safer for birds.",
-     "lines": 3,
-     "a": "For example: use plain cotton thread instead of glass manja. Don't fly kites at dawn and dusk, when birds fly most. Pick up broken string so it doesn't hang in trees.",
-     "why": "Any two sensible ways, each one explained, are right."
     },
     {
      "t": "write",
@@ -2787,6 +2748,75 @@
       }
      ],
      "why": "In this picture the wind blows from left to right. Lift pushes the kite up, its weight pulls it down, the wind pushes it back, and the string pulls it down and forward, towards the flyer."
+    },
+    {
+     "t": "write",
+     "p": "In the made-up Paper Clip Pilot results, 1 clip made the plane fly further, but 3 clips made it fly less far than no clip at all. Explain why both things can be true.",
+     "lines": 4,
+     "a": "A strong answer says that one clip moves the balance point forward, so the plane glides smoothly instead of swooping up and stalling. Three clips put too much weight on the nose, so the plane dives into the floor. The right balance matters more than more weight.",
+     "why": "A plane flies steadily only when its balance point is a little in front of the middle of its wings. Too little or too much weight at the front both spoil the glide.",
+     "how": "e1",
+     "context": "In the Paper Clip Pilot experiment, you throw one paper plane with 0, 1 and 3 clips on its nose. You measure how far it flies.",
+     "chart": {
+      "type": "bar",
+      "title": "Made-up example results: how far each plane flew (middle of 3 throws)",
+      "x": "Plane",
+      "y": "Distance (metres)",
+      "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different.",
+      "data": [
+       {
+        "label": "No paper clip",
+        "value": 4,
+        "emoji": "✈️"
+       },
+       {
+        "label": "1 clip on the nose",
+        "value": 6,
+        "emoji": "📎"
+       },
+       {
+        "label": "3 clips on the nose",
+        "value": 3,
+        "emoji": "📎"
+       }
+      ]
+     }
+    },
+    {
+     "t": "write",
+     "p": "Design one change to a paper spinner that you think will make it fall even more slowly. Say why you think so, and how you would test it fairly.",
+     "lines": 4,
+     "a": "A strong answer names one change, for example wider wings, or thinner paper. It gives a reason: more wing pushes on more air as it spins. It plans a fair test: drop the old and new spinner from the same height, 3 times each, in the same still room, and compare the middle times.",
+     "why": "A good design idea comes with a reason and a fair test. Change only one thing, so you know what made the difference.",
+     "how": "e2",
+     "context": "In the Seed Spinners experiment, you make paper spinners like winged seeds. You drop them from 2 metres and time how long each takes to fall."
+    },
+    {
+     "t": "write",
+     "p": "Kavya watches the sky over Chennai at 7 in the morning and again at 1 in the afternoon on a hot, sunny day. When will she see more cheels soaring without flapping? Explain why.",
+     "lines": 3,
+     "a": "At 1 in the afternoon. By then the Sun has heated the roofs and roads, and warm air rises from them in bubbles called thermals. The cheels circle inside the rising air and are carried up. Early in the morning the ground is still cool, so there are few thermals.",
+     "why": "Soaring birds need rising warm air. Thermals are strongest when the ground is hottest."
+    },
+    {
+     "t": "perspective",
+     "p": "Lakshmi and her brother Arjun argue about whether a heavier paper plane flies further.",
+     "views": [
+      {
+       "who": "Arjun, in Class 4",
+       "says": "Heavier is better. A stone thrown hard goes further than a feather, so a heavy plane will too."
+      },
+      {
+       "who": "Lakshmi, in Class 5",
+       "says": "Lighter is better. A light plane floats on the air, so it stays up longer and goes further."
+      }
+     ],
+     "ask": "Who do you agree with? Use the Paper Clip Pilot results as evidence. Then say what the other person has right.",
+     "lines": 5,
+     "a": "A strong answer uses the results: 1 clip flew further than no clip, but 3 clips flew least far. So neither 'heavier' nor 'lighter' is always right. Arjun is right that a little extra weight helps the plane push through the air. Lakshmi is right that too much weight makes it come down sooner. Where the weight goes matters too.",
+     "why": "Both have part of the truth. A small weight on the nose balances the plane, so it glides. Too much weight makes it dive. Real plane designers weigh up the same thing.",
+     "how": "e1",
+     "context": "In the Paper Clip Pilot experiment, you throw one paper plane with 0, 1 and 3 clips on its nose. You measure how far it flies."
     }
    ]
   },
@@ -2827,17 +2857,26 @@
      "why": "False. They agree on what lift does, and they can calculate it very well. But they still argue about the best simple explanation."
     },
     {
-     "t": "mcq",
-     "p": "Daniel Bernoulli's rule says faster air pushes less on surfaces beside it. Isaac Newton's rule says a wing pushing air down is pushed up. Which is right about wings?",
-     "opts": [
-      "Both. They are two views of the same thing",
-      "Only Bernoulli",
-      "Only Newton",
-      "Neither"
+     "t": "perspective",
+     "p": "People explain how a wing makes lift in different ways.",
+     "views": [
+      {
+       "who": "Followers of Daniel Bernoulli, a Swiss scientist in the 1700s",
+       "says": "Air moves faster over the top of the wing. Faster air pushes less on the wing, so the wing is pushed up from below."
+      },
+      {
+       "who": "Followers of Isaac Newton, an English scientist in the 1600s",
+       "says": "The tilted wing pushes air downwards. So the air pushes the wing upwards."
+      },
+      {
+       "who": "Holger Babinsky, an engineer at Cambridge University",
+       "says": "The wing curves the moving air downwards. Curving the air makes less push above the wing and more push below it. Both rules describe the same thing."
+      }
      ],
-     "a": 0,
-     "why": "Most scientists today say both are true. The wing bends the air down, and that bending makes less push above and more below. Picking only one is a common view in books and on the internet. Each one alone leaves part of the story out.",
-     "context": "This question is about two famous explanations of how wings make lift."
+     "ask": "Which explanation would you use to explain lift to a younger child? Give your reason. Then say what one of the other explanations adds.",
+     "lines": 5,
+     "a": "A strong answer picks one and gives a reason, for example that Newton's is easiest to feel with a hand out of a car window. It then says what another adds, for example that Bernoulli's explains why the push on top is smaller. The best answers see that they fit together, as Babinsky says.",
+     "why": "Each explanation is true. Scientists still argue about which is the best simple way to say it, but they agree on what lift does and can calculate it very well."
     },
     {
      "t": "mcq",
@@ -2901,39 +2940,6 @@
      "why": "Insect wings flap and twist very fast, making whirls of air that give extra lift. A robot fly wing measured it in 1999. Picking 'lighter than air' means bees are being mixed up with balloons."
     },
     {
-     "t": "mcq",
-     "p": "How did birds first start to fly?",
-     "opts": [
-      "Scientists still argue: perhaps gliding down from trees, perhaps flapping while running up slopes",
-      "Birds were always able to fly",
-      "Dinosaurs jumped off cliffs",
-      "Scientists know exactly"
-     ],
-     "a": 0,
-     "why": "Scientists agree that birds came from small feathered dinosaurs. How flapping began is still debated. Picking 'know exactly' is common, because books often tell one story. The honest answer is that it is still open."
-    },
-    {
-     "t": "mcq",
-     "p": "A story says Shivkar Bapuji Talpade flew a plane over Mumbai in 1895. Why do historians doubt it?",
-     "opts": [
-      "No newspaper, photograph or witness record from 1895 has been found",
-      "Mumbai had no beaches",
-      "People in 1895 had no paper",
-      "It is impossible to fly in India"
-     ],
-     "a": 0,
-     "why": "A claim needs evidence from the time. The story only appears many years later. Picking 'impossible in India' is wrong too. Planes fly in India every day. The problem is only the missing evidence.",
-     "context": "Shivkar Bapuji Talpade was a real teacher in Mumbai in the 1890s. Some later books and a 2015 film say he flew a plane before the Wright brothers."
-    },
-    {
-     "t": "write",
-     "p": "Who should get the credit for the first flight: the Wright brothers, Santos-Dumont, or the balloonists? Give a reason.",
-     "lines": 4,
-     "a": "Any answer with a reason. For example: the Wright brothers, because they first flew a powered plane that could be steered, in 1903, and recorded it. Or: it depends on what you count as flying, because balloonists flew in 1783.",
-     "why": "There is no single right answer. It depends on what you count as 'flying'.",
-     "context": "In 1783 people flew in balloons. In 1903 the Wright brothers flew a powered plane they could steer. In 1906 Alberto Santos-Dumont flew a plane in Paris before a big crowd."
-    },
-    {
      "t": "write",
      "p": "A hot-air balloon and a glider both stay in the air. How are their tricks different?",
      "lines": 4,
@@ -2964,25 +2970,42 @@
      "why": "More bumping underneath than on top gives lift."
     },
     {
-     "t": "truefalse",
-     "p": "Common swifts can stay in the air for about 10 months without landing.",
-     "a": true,
-     "why": "True. Scientists in Sweden fitted swifts with tiny trackers in 2016. Some stayed airborne for about 10 months.",
-     "answer_chart": {
-      "type": "pie",
-      "title": "How a common swift spends their year (found in 2016)",
-      "unit": "months",
-      "data": [
-       {
-        "label": "Flying without landing: about 10 months",
-        "value": 10
-       },
-       {
-        "label": "Nesting: about 2 months",
-        "value": 2
-       }
+     "t": "write",
+     "p": "Saturn's moon Titan has air about four times as thick as Earth's. Scientists are sending a flying drone there, called Dragonfly. Predict: will its blades need to spin faster or slower than a drone's on Earth? Explain.",
+     "lines": 4,
+     "a": "Slower. Thick air gives the blades much more to push on, so each turn pushes more air down. On Mars, where the air is very thin, Ingenuity had to spin its blades very fast. Titan is the opposite.",
+     "why": "The thicker the air, the easier it is to make lift. Thin air needs fast blades, and thick air needs only slow ones.",
+     "context": "On Mars, where the air is very thin, the Ingenuity helicopter had to spin its blades about 2,400 times a minute."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a cheel soaring over a hot city roof. Draw arrows to show the warm air rising, and the push of the air on the cheel's wings.",
+     "a": "Wavy arrows rise from the hot roof. The cheel circles inside the rising air with still, spread wings. An arrow under the wings points up.",
+     "why": "The Sun heats the roof, warm air rises from it, and the cheel's tilted wings ride the rising air. That is soaring."
+    },
+    {
+     "t": "match",
+     "p": "Every flyer stays up by pushing air down. Match each flyer to the part that does the pushing.",
+     "pairs": [
+      [
+       "a helicopter",
+       "spinning blades"
+      ],
+      [
+       "a crow",
+       "flapping wings"
+      ],
+      [
+       "a kite",
+       "a tilted face held by a string"
+      ],
+      [
+       "a plane",
+       "tilted wings pulled forward by engines"
       ]
-     }
+     ],
+     "a": "pairs as given",
+     "why": "They look very different, but each one turns moving air downwards. The air pushes back up, and that push is lift."
     }
    ]
   }
@@ -3003,16 +3026,15 @@
   },
   {
    "t": "mcq",
-   "p": "A tissue in an upside-down glass, pushed under water, stays dry. Why?",
+   "p": "You push an 'empty' plastic bottle, mouth down, into a bucket of water. What happens?",
    "opts": [
-    "Air in the glass keeps the water out",
-    "The glass is too small",
-    "Water can't touch tissue"
+    "Water can't fill it, because air inside is in the way",
+    "Water rushes straight in",
+    "The bottle melts"
    ],
    "a": 0,
-   "outcome": 0,
-   "how": "a1",
-   "why": "The glass is full of air, which takes up the space. Picking 'too small' means the air isn't being counted. Hold the glass up the right way, and water floods in."
+   "why": "The bottle is full of air, and air takes up space. Tip the bottle a little, and bubbles of air escape while water comes in. Picking 'water rushes in' means the air isn't being counted.",
+   "outcome": 0
   },
   {
    "t": "mcq",
@@ -3052,15 +3074,15 @@
   },
   {
    "t": "mcq",
-   "p": "What happens to a flying kite if the string breaks?",
+   "p": "A kite flies best when the flyer…",
    "opts": [
-    "It flies higher, because it is free",
-    "It is blown away and tumbles down",
-    "It stays exactly where it is"
+    "Stands with the wind on her back and keeps the string tight",
+    "Runs along with the wind",
+    "Lets the string go slack"
    ],
-   "a": 1,
-   "outcome": 2,
-   "why": "The string holds the kite against the wind. Without it, the wind just blows it away and it falls. Picking 'flies higher' is a very common idea. It is the string's hold that lets the kite rise."
+   "a": 0,
+   "why": "The wind pushes the kite, and the tight string holds it, so the tilted kite turns that push upwards. Picking 'runs with the wind' sounds right, but then the air hardly moves past the kite.",
+   "outcome": 2
   },
   {
    "t": "mcq",
@@ -3078,53 +3100,29 @@
   },
   {
    "t": "mcq",
-   "p": "In the Seed Spinners test, the long-wing spinner took 2.2 seconds to fall and the short-wing spinner took 1.2 seconds. Which fell more slowly?",
+   "p": "In the Seed Spinners test, why do you drop each spinner three times?",
    "opts": [
-    "Long wings",
-    "Short wings",
-    "They fell the same"
+    "One drop can be a fluke, so three drops show the real result",
+    "To make the spinner tired",
+    "Because the first drop never counts"
    ],
    "a": 0,
+   "why": "A puff of air or a wobbly hand can spoil one drop. Three drops let you take the middle time. Picking 'the first never counts' is not a rule. Every careful drop counts.",
    "outcome": 3,
    "how": "e2",
-   "why": "2.2 seconds is a longer time than 1.2 seconds, so the long-wing spinner fell more slowly. It took 1 second longer. Picking 'short wings' usually means a bigger number was read as faster. Here, the number is the time taken.",
-   "context": "In the Seed Spinners experiment, you make paper spinners like winged seeds. You drop them from 2 metres and time how long each takes to fall.",
-   "chart": {
-    "type": "bar",
-    "title": "Made-up example results: how long each paper spinner took to fall 2 metres",
-    "x": "Wing length",
-    "y": "Time to fall (seconds)",
-    "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different.",
-    "data": [
-     {
-      "label": "Short wings, 4 cm",
-      "value": 1.2,
-      "emoji": "🌀"
-     },
-     {
-      "label": "Middle wings, 7 cm",
-      "value": 1.7,
-      "emoji": "🌀"
-     },
-     {
-      "label": "Long wings, 10 cm",
-      "value": 2.2,
-      "emoji": "🌀"
-     }
-    ]
-   }
+   "context": "In the Seed Spinners experiment, you make paper spinners like winged seeds. You drop them from 2 metres and time how long each takes to fall."
   },
   {
    "t": "mcq",
-   "p": "How do black kites stay up for an hour without flapping?",
+   "p": "Which of these flies by flapping?",
    "opts": [
-    "They soar on rising warm air",
-    "They are lighter than air",
-    "They are held by strings"
+    "A crow taking off from a wall",
+    "A paper plane",
+    "A mahogany seed"
    ],
    "a": 0,
-   "outcome": 4,
-   "why": "Rising warm air, called a thermal, carries them up as they circle. Picking 'strings' mixes up the bird with the paper toy of the same name."
+   "why": "The crow beats their wings to push air down and back. A paper plane glides, and a mahogany seed spins down. Picking the seed mixes up spinning with flapping.",
+   "outcome": 4
   },
   {
    "t": "mcq",
@@ -3152,52 +3150,51 @@
   },
   {
    "t": "mcq",
-   "p": "Is this true? 'Air on top of a wing goes faster because it must meet the air from underneath at the back at the same time.'",
+   "p": "Common swifts are birds that can stay in the air without landing for about…",
    "opts": [
-    "No. Tests show the top air arrives much sooner",
-    "Yes, that is exactly how wings work",
-    "Nobody has ever tested it"
+    "10 months",
+    "10 minutes",
+    "10 days"
    ],
    "a": 0,
-   "outcome": 5,
-   "why": "Wind tunnel films with smoke show that the air on top reaches the back first. Picking 'yes' is understandable, because this explanation is in many books. But it is wrong."
+   "why": "Scientists in Sweden fitted swifts with tiny trackers in 2016. Some stayed up for about 10 months, eating and even sleeping on the wing. Picking '10 minutes' is a fair guess for most birds, but swifts are special.",
+   "outcome": 4
   },
   {
    "t": "mcq",
-   "p": "Do scientists agree on the best simple explanation of lift?",
+   "p": "Which of these do scientists agree about?",
    "opts": [
-    "No, they still argue about the best simple way to explain it",
-    "Yes, completely",
-    "Nobody knows what lift does"
+    "A wing makes lift by turning moving air downwards",
+    "The one best simple way to explain lift",
+    "Exactly how the first birds began to flap"
    ],
    "a": 0,
-   "outcome": 5,
-   "why": "They can measure and calculate lift very well. The argument is about how to explain it simply. Picking 'nobody knows what lift does' goes too far. Planes are built safely every day."
+   "why": "Scientists agree on what lift does, and can calculate it very well. They still argue about the best simple explanation, and about how bird flight began.",
+   "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "Deep down, what holds up a flying plane?",
+   "p": "A wind tunnel film shows smoke over the top of a wing reaching the back first, long before the smoke underneath. What does this show?",
    "opts": [
-    "Air molecules bumping harder under the wings than on top",
-    "Gravity pushing up",
-    "Magnets in the wings"
+    "The 'equal time' explanation in many old books is wrong",
+    "Wings don't need air",
+    "The smoke was too heavy"
    ],
    "a": 0,
-   "outcome": 6,
-   "why": "Countless molecule bumps push harder underneath, and that difference is lift. Picking 'gravity pushing up' is a mix-up. Gravity only ever pulls down, towards the Earth."
+   "why": "The old explanation says the two streams must meet at the back. The smoke shows they don't. Picking 'wings don't need air' goes the wrong way. The film shows the wing is working on the air.",
+   "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "Why did the Ingenuity helicopter on Mars have to spin its blades so fast?",
+   "p": "How did birds first begin to fly?",
    "opts": [
-    "Mars has very thin air, so there is little to push on",
-    "Mars is very hot",
-    "Mars has no gravity"
+    "Scientists still argue: perhaps gliding down from trees, perhaps flapping while running up slopes",
+    "Birds were always able to fly",
+    "Dinosaurs jumped off cliffs"
    ],
    "a": 0,
-   "outcome": 6,
-   "why": "Mars has only about 1 hundredth as much air as Earth, so the blades had to move fast to push enough air down. Picking 'no gravity' is a common idea. Mars does have gravity, a bit more than a third of Earth's.",
-   "context": "In 2021, a small NASA helicopter called Ingenuity made the first powered flight on another planet, Mars."
+   "why": "Scientists agree that birds came from small feathered dinosaurs. How flapping began is still argued about. Picking 'jumped off cliffs' is a fun picture, but no evidence shows it.",
+   "outcome": 6
   },
   {
    "t": "mcq",

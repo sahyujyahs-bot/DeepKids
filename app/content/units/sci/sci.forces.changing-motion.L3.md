@@ -212,21 +212,21 @@ When you press a table, your thumb squashes a little, and so does the table. The
 - *deep:* Why does dry spaghetti almost never break into just two pieces? (hint: When it first snaps, both halves spring back fast. What might that sudden spring do?)
 
 ## Story: The Bridge That Was Allowed to Sway
-*The living root bridges of Meghalaya are real. Khasi and Jaintia people grow them from the roots of rubber fig trees, sometimes guiding the roots through hollow betel-nut trunks, and some have been used for well over a hundred years. Iba, Bah Kyrmen and the young bridge are made up. Trees that are swayed by wind really do grow thicker, sturdier stems. Whether root bridges grow thicker exactly where they are walked on has not been carefully measured. In the story it is a guess based on how trees behave.*
+*The living root bridges of Meghalaya are real. Khasi and Jaintia people grow them from the roots of rubber fig trees, sometimes guiding the roots through hollow betel-nut trunks, and some have been used for well over a hundred years. Iba, Kong Kyrmen and the young bridge are made up. Trees that are swayed by wind really do grow thicker, sturdier stems. Whether root bridges grow thicker exactly where they are walked on has not been carefully measured. In the story it is a guess based on how trees behave.*
 
 In the hills of Meghalaya, in the north-east of India, it rains more than almost anywhere else on Earth. Below the town of Sohra, a stream runs through a deep green gorge. Across it hangs a bridge that nobody built with a hammer. It was grown. Its floor and its rails are the living roots of a rubber fig tree, as thick as a man's leg, knotted together and furred with moss. People have walked across it for longer than anyone can remember.
 
-Iba was nine, and she was in a hurry. Upstream, her uncle, Bah Kyrmen, was growing a new bridge. He had laid a hollow betel-nut trunk across the water like a long wooden gutter. Inside it, young roots from a fig tree on the bank were creeping across. They were pale and bendy, like cooked noodles.
+Iba was nine, and she was in a hurry. Upstream, her aunt, Kong Kyrmen, was growing a new bridge. She had laid a hollow betel-nut trunk across the water like a long wooden gutter. Inside it, young roots from a fig tree on the bank were creeping across. They were pale and bendy, like cooked noodles.
 
 'When will it be ready?' Iba asked.
 
-'When you are as old as I am,' said Bah Kyrmen. 'Maybe older.'
+'When you are as old as I am,' said Kong Kyrmen. 'Maybe older.'
 
 Iba could not wait that long, so she decided to help. The young roots swung about in the wind. Where the gutter ended, they drooped and wandered. They looked untidy, like hair that had not been combed. So one morning Iba cut strips of cane and tied each root tightly to a straight bamboo pole. She tied them so well that they could not wobble at all.
 
 'There,' she said. 'Now you will grow straight and strong.'
 
-Her uncle looked at the tied roots for a long time. He did not untie them. 'Let us see,' he said.
+Her aunt looked at the tied roots for a long time. She did not untie them. 'Let us see,' she said.
 
 On the far side, a few roots had escaped her. They hung loose over the water. Every gust pushed them about.
 
@@ -234,13 +234,13 @@ Then the monsoon came. Rain blew sideways off the hills. The stream roared brown
 
 The rains ended. The cold season came, bright and dry. One morning Iba took a piece of thread to measure her roots. She wrapped it round a tied root and pinched the thread where the ends met. Then she did the same with one of the wild roots on the far side. She held the two threads side by side.
 
-The thread from the wild root was nearly twice as long. The tied roots were still pale and thin, as thin as the day she had tied them. The wild roots had grown thick and brown, with tough, wrinkled skin like her uncle's wrists.
+The thread from the wild root was nearly twice as long. The tied roots were still pale and thin, as thin as the day she had tied them. The wild roots had grown thick and brown, with tough, wrinkled skin like her aunt's wrists.
 
 'That's not fair,' Iba said. Her voice wobbled. 'I looked after mine.'
 
-Bah Kyrmen did not laugh. He took her hand and walked her down the slippery steps to the old bridge. 'Put your hand here,' he said. He pressed her palm onto the roots in the middle, where the floor sagged lowest. That was where every foot had stepped for a hundred years. The roots there were the thickest of all. They had grown into each other until she could not tell where one ended and the next began.
+Kong Kyrmen did not laugh. She took Iba's hand and walked her down the slippery steps to the old bridge. 'Put your hand here,' she said. She pressed Iba's palm onto the roots in the middle, where the floor sagged lowest. That was where every foot had stepped for a hundred years. The roots there were the thickest of all. They had grown into each other until she could not tell where one ended and the next began.
 
-'This is where it is pushed the most,' he said. 'Every time someone walks across, the roots bend a little and stretch a little. And they answer. They grow.' He tapped her tied roots on the way back up. 'A root that is never pushed has no reason to grow.'
+'This is where it is pushed the most,' she said. 'Every time someone walks across, the roots bend a little and stretch a little. And they answer. They grow.' She tapped Iba's tied roots on the way back up. 'A root that is never pushed has no reason to grow.'
 
 Iba thought about the bamboo behind her house. In the storms they bent nearly to the ground, then sprang back. She thought about the dry stick she had snapped for the fire, which could not bend at all. She thought about her own legs. They used to ache on the steep steps to school. Now they ran up without stopping.
 
@@ -248,9 +248,9 @@ That evening, she cut the cane. The roots sprang free and swayed a little in the
 
 The next day she did something else. She wove a tiny basket and hung it from the young roots, with one smooth river stone inside. The roots dipped under it, and swung. 'Something to carry,' she told them. Every week she added one more stone. Every week the roots bent down a little further. And every week, when she measured with her thread, they were a little thicker.
 
-Bah Kyrmen watched her. 'Now,' he said, 'you are building.'
+Kong Kyrmen watched her. 'Now,' he said, 'you are building.'
 
-Years went by. The roots crossed the stream and wrapped round a tree on the other side. Bah Kyrmen laid flat stones between them for a floor. His hair turned white. Iba grew tall.
+Years went by. The roots crossed the stream and wrapped round a tree on the other side. Kong Kyrmen laid flat stones between them for a floor. Her hair turned white. Iba grew tall.
 
 When Iba was nineteen, the young bridge was finally strong enough to hold a child. She was standing on the bank, wondering who should be the first to cross, when a small boy from the next village ran straight past her. He did not ask anyone. He ran out onto the roots.
 
@@ -628,90 +628,85 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 
 ## Worksheets
 ### Shape Changers (core) (core, 16 questions)
-1. (mcq) A force is…  
-   Options: A push or a pull / Only something that makes things move fast / A kind of material / Something only machines make  
-   **Answer:** A push or a pull. *Why:* A force is a push or a pull. Picking 'only makes things move fast' usually means forces are linked only with movement. But forces also squash, stretch, twist and bend things.
-2. (mcq) You press a ball of dough flat with your hand. Which shape change is this?  
+1. (mcq) You press a ball of dough flat with your hand. Which shape change is this?  
    Options: A squash / A stretch / A twist / A bend  
    **Answer:** A squash. *Why:* Pressing inwards on something makes it flatter. That is a squash. Picking 'stretch' is close, because the dough also spreads wider. But your push is inwards, so it is mainly a squash.
-3. (mcq) You wring water out of a wet towel. Which shape change is this?  
+2. (mcq) You wring water out of a wet towel. Which shape change is this?  
    Options: A squash / A twist / A bend / No change  
    **Answer:** A twist. *Why:* Your two hands turn opposite ways. That is a twist. Picking 'squash' makes sense, because the twist does squeeze the water out. But the action itself is twisting.
-4. (fill) When you pull a rubber band, it gets longer. This is called a ____.  
+3. (fill) When you pull a rubber band, it gets longer. This is called a ____.  
    **Answer:** ['stretch']. *Why:* Pulling outwards on something makes it longer. That is a stretch.
-5. (sort) Sort these. After the force stops, does each one stay changed or spring back?  
+4. (sort) Sort these. After the force stops, does each one stay changed or spring back?  
    **Answer:** clay pressed with a thumb → Stays changed; a squeezed sponge → Springs back; a rolled chapati → Stays changed; a stretched rubber band → Springs back; a squashed drinks can → Stays changed; a pressed cushion → Springs back. *Why:* Clay, dough and cans keep their new shapes. Sponges, rubber bands and cushions are elastic, so they spring back.
-6. (mcq) A papad snaps when you bend it. A word for things that break instead of bending is…  
+5. (mcq) A papad snaps when you bend it. A word for things that break instead of bending is…  
    Options: Elastic / Brittle / Plastic / Stretchy  
    **Answer:** Brittle. *Why:* Brittle things crack and break instead of bending. Picking 'plastic' often comes from thinking of plastic bottles. In science, plastic means 'stays changed'.
-7. (truefalse) In science, a 'plastic' change means the thing keeps its new shape after the force stops.  
+6. (truefalse) In science, a 'plastic' change means the thing keeps its new shape after the force stops.  
    **Answer:** True. *Why:* True. Scientists use 'plastic' to mean 'stays changed', like clay. It is not about the stuff bottles are made of.
-8. (mcq) In the clay drop test, you drop the same clay ball from 10 cm and from 80 cm. Which drop makes the wider flat patch?  
+7. (mcq) In the clay drop test, you drop the same clay ball from 10 cm and from 80 cm. Which drop makes the wider flat patch?  
    Options: 10 cm / 80 cm / Both the same / Neither, clay doesn't squash  
    **Answer:** 80 cm. *Why:* From higher up, the ball hits the plate faster. The plate pushes back harder, so it squashes the clay more. Picking 'both the same' means thinking the same clay must always squash the same amount. But from higher up, the push from the plate is bigger.
-9. (mcq) In the clay drop test, what must stay the same to make it a fair test?  
-   Options: The size of the ball, the clay and the plate / Nothing, everything can change / Only the height  
-   **Answer:** The size of the ball, the clay and the plate. *Why:* In a fair test you change only one thing, here the height. Everything else stays the same. Picking 'only the height' mixes up what we change with what we keep the same.
-10. (mcq) Forces can change how things move. Which of these is NOT something a force can do?  
-   Options: Start a ball rolling / Turn a ball in a new direction / Make a ball stop / Make a ball move with no push or pull at all  
-   **Answer:** Make a ball move with no push or pull at all. *Why:* Every change in movement needs a push or a pull. Picking 'turn a ball' means thinking a ball can turn by itself. It can't: turning needs a push from the side.
-11. (mcq) A batsman hits a cricket ball back the way it came. What did the force from the bat change?  
+8. (mcq) A batter in a cricket match hits the ball back the way it came. What did the force from the bat change?  
    Options: Only the ball's colour / The ball's direction and speed / Nothing / Only the ball's shape  
-   **Answer:** The ball's direction and speed. *Why:* The bat turned the ball round and usually sent it off faster. It also squashed the ball a tiny bit. Picking 'only shape' notices the squash but misses the change in movement.
-12. (truefalse) A bouncing ball is squashed for a moment when it hits the floor.  
-   **Answer:** True. *Why:* True. The floor pushes up and squashes the ball a little flatter for a tiny moment. Then the ball springs back to round, pushing on the floor, and the floor pushes it back up. The wet ball prints test shows this.
-13. (match) Match each job to the shape change it uses most.  
+   **Answer:** The ball's direction and speed. *Why:* The bat sent the ball back the other way, usually faster than before. The ball was also squashed a tiny bit. Picking 'only shape' notices the squash but misses the change in movement.
+9. (truefalse) A force can make a moving thing faster or slower, but it can never make it go a different way.  
+   **Answer:** False. *Why:* False. A push from the side turns a moving thing. A carrom striker turns when it hits the edge of the board, because the edge pushes it. Speed and direction can both be changed by a force.
+10. (mcq) A carrom coin slides across the board and hits the edge. Which way does it go next?  
+   Options: Back into the board, because the edge pushed it / Straight on, through the edge / It stops dead and never moves again / It goes back the way it came, even if it hit at a slant  
+   **Answer:** Back into the board, because the edge pushed it. *Why:* The edge pushes back on the coin, so the coin changes direction. If it hits at a slant, it goes off at a slant the other way, like light off a mirror. Picking 'stops dead' happens sometimes on a slow shot. But a fast coin is turned, not stopped.
+11. (match) Match each job to the shape change it uses most.  
    **Answer:** Rolling a chapati → squash; Pulling a hair band onto your hair → stretch; Opening a bottle cap → twist; A diving board when you stand on its end → bend. *Why:* Rolling presses the dough flat. A hair band is pulled longer. A cap is turned. A diving board curves down.
-14. (write) Name three workers who change the shape of materials with forces. Say what each one does.  
-   **Answer:** For example: a potter squashes and pulls clay into a pot. A goldsmith hammers gold into a bangle. A baker kneads and stretches dough.. *Why:* Any three correct workers, each with the force they use, are right.
+12. (write) Lakshmi, a girl in Class 3, rolls a ball across the floor. It slows down and stops. She says, 'It stopped by itself. Nothing pushed it.' What is wrong with her idea? What was pushing on the ball?  
+   **Answer:** A strong answer says that a moving thing only slows down if a force acts on it. Here the floor rubs on the ball, which is friction, and the air pushes on it a little too. On a smoother floor the ball rolls further, which shows the floor was slowing it.. *Why:* Things do not stop by themselves. Every change in movement, including stopping, needs a push or a pull. This was Aristotle's mistake too, and Galileo showed it.
+13. (write) Why does a sponge spring back but clay stays squashed? Give your best idea.  
+   **Answer:** Any thoughtful idea. A good one: a sponge is full of holes with thin, springy walls. They bend when you squeeze, then straighten. In clay, tiny pieces slide to new places and stay there.. *Why:* Elastic things spring back into shape. In a plastic change, the tiny pieces inside move to new places and stay.
+14. (write) Look at your own results from the clay drop test. Which drop made the widest patch? Was that what you guessed? Name one thing that could have made your test unfair.  
+   **Answer:** A strong answer gives a real number, for example 'the 80 cm drop made a patch 4 cm wide'. It says whether the guess was right. It names one thing that might have changed by mistake, for example a ball that was bigger, or a throw instead of a drop.. *Why:* Using your own numbers is how scientists check an idea. Spotting what could have gone wrong makes the next test better.
 15. (draw) Draw a ball of dough before and after you squash it. Draw an arrow to show your push.  
    **Answer:** A round ball, then a flat round shape. The arrow points down into the dough.. *Why:* A squash is a push inwards, so the arrow points into the dough.
-16. (write) Why does a sponge spring back but clay stays squashed? Give your best idea.  
-   **Answer:** Any thoughtful idea. A good one: a sponge is full of holes with thin, springy walls. They bend when you squeeze, then straighten. In clay, tiny pieces slide to new places and stay there.. *Why:* Elastic things spring back into shape. In a plastic change, the tiny pieces inside move to new places and stay.
+16. (perspective) A school in Chennai is choosing a floor for under the swings. Three people say what they think.  
+   **Answer:** A strong answer picks a floor and explains it with shape changes: a floor that squashes makes a fall stop more slowly, so the push on the child is smaller. It then admits a real point from another side, for example that concrete is cheap and lasts, or that sand needs raking and can hide rubbish.. *Why:* There is no single right answer. A floor that changes shape is kinder in a fall, but it costs more or needs more care. Real playgrounds weigh up both.
 ### Bends, Bounces and Fair Tests (stretch) (stretch, 16 questions)
 1. (mcq) Look at the chart from the clay drop test. What pattern does it show?  
    Options: The higher the drop, the wider the flat patch / The higher the drop, the smaller the flat patch / Height makes no difference  
    **Answer:** The higher the drop, the wider the flat patch. *Why:* The bars get taller as the height goes up. So a higher drop squashes the clay more. Picking 'smaller' often means the bars were read the wrong way round. Taller bars mean wider patches.
-2. (fill) In the clay drop test, the flat patch was 1 cm wide from 10 cm, and 4 cm wide from 80 cm. The patch from 80 cm was ____ times as wide.  
-   **Answer:** ['4', 'four']. *Why:* 4 divided by 1 is 4. So it was 4 times as wide. You can check: 1 + 1 + 1 + 1 = 4.
+2. (fill) In these made-up clay drop results, every time the height doubles, the patch gets 1 cm wider. Predict how wide the patch would be from 160 cm: ____ cm.  
+   **Answer:** ['5', 'five']. *Why:* 160 cm is double 80 cm. From 80 cm the patch was 4 cm, so one more doubling adds 1 cm. 4 + 1 = 5 cm. A real test would show whether the pattern keeps going.
 3. (mcq) In the bendy sponge activity, you bend a sponge with lines drawn across it. What happens to the lines on the INSIDE of the curve?  
    Options: They crowd closer together / They spread further apart / They stay exactly the same / They disappear  
    **Answer:** They crowd closer together. *Why:* The inside of a bend is squashed, so the lines crowd together. The outside is stretched, so they spread apart. Picking 'spread apart' mixes up the inside with the outside.
 4. (mcq) You press the middle of a plastic ruler lying flat, and it bends easily. Stand the same ruler on its thin edge, and the same press hardly bends it. Why?  
    Options: On its edge, more of the ruler is far from the middle of the bend / The ruler got harder / You pressed more gently / It is a different ruler  
    **Answer:** On its edge, more of the ruler is far from the middle of the bend. *Why:* On its edge, the top and bottom of the ruler are far apart. The top must squash and the bottom must stretch a lot to bend it, so it resists. Picking 'the ruler got harder' means looking for a change in the material. Only its position changed.
-5. (mcq) Which sheet of paper can hold the most coins over a gap between two books?  
-   Options: A flat sheet / The same sheet folded like a fan / A crumpled sheet / A torn sheet  
-   **Answer:** The same sheet folded like a fan. *Why:* Each fold is a little stiff wall standing on its edge. So the fan is far stiffer. Picking 'flat' often means more paper touching the coins seems better. But a flat sheet bends easily.
-6. (sort) Sort these by what happens after a strong force. Stays changed, springs back, or breaks?  
+5. (sort) Sort these by what happens after a strong force. Stays changed, springs back, or breaks?  
    **Answer:** a hammered gold bangle → Stays changed; a tennis ball → Springs back; a glass bangle → Breaks; a steel spoon bent hard → Stays changed; a bamboo in the wind → Springs back; a dry biscuit → Breaks. *Why:* Gold and steel can be bent or hammered into new shapes. Tennis balls and bamboo spring back. Glass and dry biscuits are brittle.
-7. (mcq) You bend a paper clip a little and it springs back. You bend it a lot and it stays bent. What does this show?  
-   Options: The same thing can be elastic for small forces and plastic for big ones / Paper clips are broken / Paper clips are only elastic / The second bend used less force  
-   **Answer:** The same thing can be elastic for small forces and plastic for big ones. *Why:* Most materials spring back from small forces. A big enough force makes them stay changed, or break. Picking 'only elastic' misses what happened on the second bend.
-8. (mcq) Why do steel beams in buildings often have an I shape?  
+6. (truefalse) A paper clip that springs back after a small bend will spring back however hard you bend it.  
+   **Answer:** False. *Why:* False. A small bend is elastic, so the clip springs back. A big bend is plastic, so the clip stays bent. Push hard enough, again and again, and it snaps. The same thing can behave in all three ways.
+7. (mcq) Why do steel beams in buildings often have an I shape?  
    Options: Most of the steel is at the top and bottom, where a bend squashes and stretches most / It is cheaper to paint / It looks like the letter I for 'iron' / It makes them heavier  
    **Answer:** Most of the steel is at the top and bottom, where a bend squashes and stretches most. *Why:* A bend squashes the top and stretches the bottom most. So steel placed there resists bending best, without wasting steel in the middle. Picking 'iron' is a fun guess, but the shape is about bending, not spelling.
-9. (mcq) Why is cotton wool twisted into a wick stronger than the same cotton pulled into a loose strand?  
+8. (mcq) Why is cotton wool twisted into a wick stronger than the same cotton pulled into a loose strand?  
    Options: The twist squeezes the fibres together, so friction stops them sliding apart / Twisting makes each fibre longer / Twisting adds glue / It isn't stronger  
    **Answer:** The twist squeezes the fibres together, so friction stops them sliding apart. *Why:* Twisting presses the short fibres against each other. Friction, the grip between touching things, holds them together, so they share the pull. Picking 'longer fibres' is a sensible guess, but each fibre stays the same length.
-10. (mcq) A ball is swung round on a string. The string breaks. Which way does the ball go?  
+9. (mcq) A ball is swung round on a string. The string breaks. Which way does the ball go?  
    Options: Straight on, in the direction it was moving / It keeps going round in a circle / Straight back to the middle / Straight down  
    **Answer:** Straight on, in the direction it was moving. *Why:* With no string pulling it inwards, nothing turns it any more. So it flies off in a straight line. Picking 'keeps going round' is a very common idea. But going round needs a pull inwards all the time.
-11. (mcq) A clay ball and a rubber ball are dropped from the same height. Only the rubber ball bounces. Why?  
-   Options: The rubber ball springs back after squashing, but the clay stays squashed / The clay is heavier / Clay is not affected by forces / The rubber ball was dropped harder  
-   **Answer:** The rubber ball springs back after squashing, but the clay stays squashed. *Why:* Both squash when they hit. The rubber ball springs back and pushes itself up. The clay stays squashed, so nothing pushes it back up. Picking 'clay is heavier' misses that weight is not the main difference here.
-12. (truefalse) A steel table changes shape a tiny bit when you press on it.  
-   **Answer:** True. *Why:* True. It is far too little to see. But a laser beam bounced off a mirror on the table moves when you press. That shows the table bends.
-13. (order) Put these in order, from EASIEST to change the shape of by hand, to HARDEST: a stone, a rubber eraser, a steel spoon, dough.  
+10. (write) Ananya, a girl in Class 4, says, 'A steel table is so hard that pressing it changes nothing at all.' What would you tell her? Describe the evidence from the laser and mirror activity.  
+   **Answer:** A strong answer says that every push changes a thing's shape a little, even steel. It describes the evidence: a laser dot bounced off a mirror on the table moves when someone presses the table, so the table must have bent. It says the bend is too small to see with our eyes.. *Why:* Hard things change shape too, only by tiny amounts. The laser makes the tiny bend big enough to see.
+11. (write) Divya drops a clay ball and a rubber ball from the same height onto the floor. Both squash when they land. Only the rubber ball comes back up. Explain why.  
+   **Answer:** A strong answer says that both balls squash, but the rubber ball is elastic. It springs back into shape, and that pushes on the floor, so the floor pushes it back up. The clay is plastic. It stays squashed, so nothing pushes it up again.. *Why:* A bounce is a squash and a spring back. Without the spring back, there is no bounce.
+12. (order) Put these in order, from EASIEST to change the shape of by hand, to HARDEST: a stone, a rubber eraser, a steel spoon, dough.  
    **Answer:** order shown. *Why:* Dough squashes with a light press. A rubber eraser needs a firm squeeze. A steel spoon needs a strong push to bend. A stone hardly changes at all by hand.
-14. (write) You want to make a fair test of which drop height squashes clay most. Write what you will change, what you will measure, and what you will keep the same.  
+13. (write) You want to make a fair test of which drop height squashes clay most. Write what you will change, what you will measure, and what you will keep the same.  
    **Answer:** I will change the drop height. I will measure the width of the flat patch. I will keep the same size ball, the same clay, the same plate, and I will drop it, not throw it.. *Why:* A fair test changes one thing and keeps the rest the same.
-15. (forces) A ball of dough is being squashed between your two hands. Show the forces on it, with one arrow for each.  
+14. (forces) A ball of dough is being squashed between your two hands. Show the forces on it, with one arrow for each.  
    Options: left hand pushes / right hand pushes / gravity  
    **Answer:** left hand pushes right, right hand pushes left, gravity down. *Why:* Each hand pushes inwards, towards the dough. Two pushes towards each other make a squash. Gravity also pulls the dough down.
-16. (draw) Design a sandal sole that can bend when you walk but never snaps. Label which parts squash and which parts stretch when it bends.  
+15. (draw) Design a sandal sole that can bend when you walk but never snaps. Label which parts squash and which parts stretch when it bends.  
    **Answer:** Any thoughtful design. The top of the bend is squashed and the bottom is stretched, or the other way round when it bends the other way. Soft rubber, or grooves across the sole, help it bend.. *Why:* A bend squashes one side and stretches the other.
-### From Atoms to Mountains (challenge) (challenge, 17 questions)
+16. (perspective) Selvi in Madurai must post a glass bottle of homemade pickle to her aunt in Pune. Her friends each suggest a way to pack it.  
+   **Answer:** A strong answer picks a way and explains it with shape changes. Squashing material makes a bump stop more slowly, so the push on the glass is smaller. It answers back fairly, for example that a stiff box stops sharp corners poking in, or that newspaper works only once because it stays squashed. The best answers may mix two ways.. *Why:* Each way is used for real. Stiff boxes spread out a push, bubble wrap springs back for many bumps, and crumpled paper is cheap but works only once. This is the same thinking as the Save the Egg challenge.
+### From Atoms to Mountains (challenge) (challenge, 16 questions)
 1. (mcq) Deep down, why does a steel ruler spring back after a small bend?  
    Options: Its atoms are pushed closer on one side and pulled apart on the other, and the bonds between them pull them back / Air inside it pushes it back / Gravity pulls it back / Bending makes its atoms bigger  
    **Answer:** Its atoms are pushed closer on one side and pulled apart on the other, and the bonds between them pull them back. *Why:* Bonds between atoms act a little like tiny springs. Squash them or stretch them, and they pull the atoms back into place. Picking 'air inside' is a sensible guess for a sponge, but a steel ruler has no air holes. Bending does not make atoms bigger. It moves them closer or further apart.
@@ -726,36 +721,30 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 5. (mcq) Astronauts living in space for months lose some of their bone. Why?  
    Options: Floating, they hardly push on their bones, so the bones do not need to stay strong / Space air is poisonous to bones / Their bones melt in the cold / They eat too much  
    **Answer:** Floating, they hardly push on their bones, so the bones do not need to stay strong. *Why:* Bones reshape to match the forces on them. With almost no pushing, the body removes bone it doesn't seem to need. That is why astronauts exercise for about two hours a day. Picking 'cold' is a guess about space, but the space station is kept warm.
-6. (mcq) You are measured as soon as you wake up, and again at bedtime. What will you find?  
-   Options: I am about 1 cm shorter at bedtime / I am about 1 cm taller at bedtime / Exactly the same / About 10 cm shorter at bedtime  
-   **Answer:** I am about 1 cm shorter at bedtime. *Why:* During the day, the soft pads between the bones of your spine are squashed by your weight. At night, lying down, they spring back. Picking '10 cm' is a good guess about the direction, but far too big.
-7. (mcq) A tree tied tightly to a stake so they can never sway often grows a weaker trunk. Why?  
-   Options: Trees grow thicker where wind bends them, and tight ties stop the bending / Stakes are poisonous / The tie stops water reaching it / It grows faster without wind  
-   **Answer:** Trees grow thicker where wind bends them, and tight ties stop the bending. *Why:* Trees respond to bending by growing thicker, sturdier wood. Mark Jaffe named this in 1973: thigmomorphogenesis, 'shape made by touch'. Picking 'stops water' is a sensible worry, but water moves inside the trunk, not past the tie.
-8. (mcq) Fossil sea shells are found high in the Himalayas. What does this tell us?  
+6. (write) Ritu, a girl in Class 4, measures her height against a wall. In the morning she is 128.5 cm. At bedtime she is 127.5 cm. Her brother Arun says, 'Your tape must be wrong.' Is he right? Explain.  
+   **Answer:** A strong answer says the tape is probably fine. During the day, Ritu's weight squashes the soft pads between the bones of her spine, so she gets about 1 cm shorter. At night, lying down, the pads spring back. To check, she could measure the same way for three days and see if it happens each time.. *Why:* People really are about 1 cm taller in the morning. Repeating a measurement is how you tell a real change from a mistake.
+7. (mcq) Fossil sea shells are found high in the Himalayas. What does this tell us?  
    Options: The rock was once under the sea, and was pushed up by enormous forces / Birds carried the shells there / The sea was once as high as the mountains / Someone put them there  
    **Answer:** The rock was once under the sea, and was pushed up by enormous forces. *Why:* The plate India sits on pushed into Asia and crumpled the old sea floor up into mountains. Picking 'the sea was once that high' is a natural guess. But it was the land that rose, not the sea.
-9. (fill) The plate that India sits on moves north by about 5 cm a year. In 20 years it moves about ____ cm.  
+8. (fill) The plate that India sits on moves north by about 5 cm a year. In 20 years it moves about ____ cm.  
    **Answer:** ['100']. *Why:* 20 lots of 5 cm is 100 cm. That is 1 metre. 5 × 20 = 100.
-10. (mcq) The spinning Earth is about 43 km wider across the equator than from pole to pole. What causes the bulge?  
+9. (mcq) The spinning Earth is about 43 km wider across the equator than from pole to pole. What causes the bulge?  
    Options: Its spin makes the middle bulge out a little / The Moon pulls the equator / The equator is hotter, so it swells / Mountains at the equator  
    **Answer:** Its spin makes the middle bulge out a little. *Why:* As the Earth spins, the rock at the equator moves fastest, and it swings outwards a little. So the middle bulges out and the poles are a little flatter. Picking 'hotter' is a clever guess, since heat does swell things. But it is the spin.
-11. (mcq) Jupiter's moon Io has more active volcanoes than anywhere else we know. Why?  
-   Options: Jupiter's gravity squeezes and stretches it, and that heats its insides / It is very close to the Sun / It is made of fire / It is hit by lots of rocks  
-   **Answer:** Jupiter's gravity squeezes and stretches it, and that heats its insides. *Why:* Squeezing and stretching something over and over warms it up, like bending a paper clip back and forth. Picking 'close to the Sun' is a natural guess, but Io is much further from the Sun than Earth is.
-12. (mcq) In 2015, the LIGO detectors measured space itself being stretched and squashed. What caused it?  
-   Options: Two black holes crashing together far away / A truck driving past / An earthquake / The Moon  
-   **Answer:** Two black holes crashing together far away. *Why:* The crash sent a ripple through space called a gravitational wave. Its stretch was hundreds of times smaller than a proton. Picking 'a truck' or 'an earthquake' is sensible, because LIGO must ignore those shakes. Two detectors far apart helped scientists tell the difference.
-13. (write) Dry spaghetti almost always snaps into three or more pieces. Scientists explained why in 2005. Try to explain it in your own words.  
+10. (match) Match each change to what happens to the atoms inside. Atoms are the tiny pieces that everything is made of.  
+   **Answer:** A steel wire stretched a little, then let go → atoms pulled a little apart, then pulled back; A gold bangle hammered into a new shape → rows of atoms slide to new places and stay; A glass bangle dropped on the floor → a crack races between the atoms; A rubber eraser squeezed, then let go → long chains of atoms bunch up, then spring back. *Why:* Springing back means the atoms return to their places. Staying changed means rows of atoms have slid. Breaking means a crack has opened between atoms.
+11. (write) Dry spaghetti almost always snaps into three or more pieces. Scientists explained why in 2005. Try to explain it in your own words.  
    **Answer:** When it first snaps, the two halves spring back fast. That sends a wave of extra bending along each half, which snaps them again.. *Why:* The first break releases a sudden spring-back, which bends the pieces past breaking.
-14. (write) Is it better to bend or to be stiff? Give one example where bending is better and one where being stiff is better.  
-   **Answer:** For example: a bamboo that bends survives a storm, and a bendy ruler doesn't snap. But a bridge or a table should be stiff, so it doesn't sag when we use it.. *Why:* There is no single right answer. Good answers give a reason for each side.
-15. (write) Iba tied the young roots tightly so the storm couldn't touch them. They stayed thin. Was she wrong to protect them? Explain what you think.  
+12. (perspective) People who build bridges do not all agree on whether a bridge should bend.  
+   **Answer:** A strong answer picks a side with evidence, for example that bamboo bends in a storm and springs back, or that a stiff ruler on its edge hardly sags. It then answers back, for example that too much bending can crack metal, or that a stiff thing that cannot bend may snap. The best answers say it depends on the material and the job.. *Why:* Both are true in different places. Steel bridges are stiff but allowed to move a little at their joints. Root bridges and tall buildings in earthquake zones are safer because they can bend.
+13. (write) In the story, Iba tied the young roots tightly so the storm couldn't touch them. They stayed thin. Was she wrong to protect them? Explain what you think.  
    **Answer:** Any thoughtful answer. For example: she wanted to help, but the roots needed to be pushed and pulled to grow strong. Protecting something from every force can keep it weak.. *Why:* This links the science to life. Living things grow stronger where they are pushed and pulled.
-16. (draw) Draw what you think happens to the atoms inside a steel ruler when you bend it a little, and when you let go.  
+14. (draw) Draw what you think happens to the atoms inside a steel ruler when you bend it a little, and when you let go.  
    **Answer:** Atoms joined by little springs. While bent, they are closer together on the inside of the curve and further apart on the outside. When let go, they go back to their old spacing.. *Why:* Bonds between atoms act like tiny springs. Squashed or stretched, they pull back.
-17. (write) Sophie Germain had to use a man's name to share her maths. Why do you think that was? Is it fair?  
-   **Answer:** Any thoughtful answer. For example: in her time, many people thought women should not do science, so she hid her name to be taken seriously. It was not fair.. *Why:* There is no single right answer. Good answers show understanding of her situation.
+15. (write) Many people think a moving thing needs a push all the time to keep moving. Aristotle, a thinker in ancient Greece, thought so too. Plan a test with a marble to check this idea.  
+   **Answer:** A strong answer rolls the same marble with the same push on carpet, on a tiled floor, and on a smooth steel plate or tray. It measures how far the marble goes each time. If the marble goes further on smoother surfaces, then something on the surface was slowing it. With nothing slowing it, it would not need a push to keep going.. *Why:* Galileo did tests like this in the early 1600s. He showed that moving things keep moving unless a force, like friction, slows them down.
+16. (write) Bend a steel paper clip back and forth quickly, 20 times, in the same place. Then touch the bend gently. Predict what you will feel, and what will happen if you keep going. Explain why.  
+   **Answer:** A strong answer predicts that the bend feels warm, and that after more bends the clip snaps. Each bend pushes rows of atoms past each other, and that movement turns into heat. After many bends, tiny cracks grow until the clip breaks.. *Why:* Squeezing and bending something over and over warms it up. The same thing heats the inside of Jupiter's moon Io, which has more volcanoes than anywhere else we know.
 
 ## Videos
 - **A tennis ball bouncing, filmed in slow motion** (ScienceLuxembourg, 4 min) id `1yT0hxplVBg`: Shows a ball squashing flat when it bounces, which is too fast to see with our eyes. It matches the wet ball prints test. *Check:* Found by YouTube search: "The Beauty of Slow Motion - Tennis Ball Bounce" by ScienceLuxembourg. Title checked automatically; a parent may still preview it.
@@ -763,27 +752,27 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 - **How the Himalayas were made** (The Infinite Madness, 5 min) id `QLmiNnbETqE`: Shows the Indian plate pushing into Asia and folding rock into mountains. *Check:* Found by YouTube search: "The Birth of the Himalayas: A Geological Journey | How the Himalayas formed  #continentaldrift #vfx" by The Infinite Madness. Title checked automatically; a parent may still preview it. It uses computer animation, so a parent should check it shows the Indian plate moving north into Asia.
 
 ## Quiz
-1. (mcq) Which of these is a way a force can change shape?  
-   Options: Twisting / Colouring / Counting / Smelling  
-   **Answer:** Twisting. *Why:* Squashing, stretching, twisting and bending all change shape. The others are not pushes or pulls.
-2. (mcq) You pull a rubber band longer. This is…  
-   Options: A squash / A stretch / A twist  
-   **Answer:** A stretch. *Why:* Pulling outwards makes it longer. That is a stretch. Picking 'squash' means mixing up pushing in with pulling out.
-3. (mcq) Which one springs back after you squeeze it?  
-   Options: Clay / A sponge / A biscuit  
-   **Answer:** A sponge. *Why:* A sponge is elastic. Clay stays changed and a biscuit breaks. Picking clay usually means 'soft' was taken to mean 'springy'.
-4. (mcq) In science, 'plastic' means…  
-   Options: Made from oil, like a bottle / Keeps its new shape after a force / Breaks easily  
-   **Answer:** Keeps its new shape after a force. *Why:* Scientists use plastic to mean 'stays changed', like clay. Picking 'bottle' is the everyday meaning, which is a different idea.
+1. (mcq) Meena bends a bamboo stick into a bow for a game. Which shape change is this?  
+   Options: A bend / A squash / A twist  
+   **Answer:** A bend. *Why:* The stick curves, so it is a bend. Picking 'squash' is close, because the inside of a bend is squashed. But the whole stick is bending.
+2. (mcq) Which of these is a stretch?  
+   Options: Pulling a rubber band round a bundle of pencils / Pressing a ball of dough flat / Wringing a wet towel  
+   **Answer:** Pulling a rubber band round a bundle of pencils. *Why:* Pulling outwards makes the band longer. That is a stretch. Pressing dough is a squash, and wringing a towel is a twist.
+3. (mcq) Which of these is brittle, so it breaks instead of bending?  
+   Options: A stick of chalk / A rubber eraser / A cotton towel  
+   **Answer:** A stick of chalk. *Why:* Chalk snaps when you bend it. Picking the eraser means mixing up soft with brittle. The eraser bends and springs back.
+4. (mcq) You squeeze a sponge and let go. It goes back to its old shape. A word for this is…  
+   Options: Elastic / Plastic / Brittle  
+   **Answer:** Elastic. *Why:* Elastic things spring back into shape. Picking 'plastic' is the everyday word. In science, plastic means it stays changed.
 5. (mcq) In the clay drop test, what should you change?  
    Options: Only the drop height / The height and the size of the ball / Everything  
    **Answer:** Only the drop height. *Why:* A fair test changes only one thing. Picking 'height and size' means two things change at once, so you can't tell which one mattered.
-6. (mcq) Look at the chart from the clay drop test. Which drop squashed the clay most?  
-   Options: 10 cm / 40 cm / 80 cm  
-   **Answer:** 80 cm. *Why:* The 80 cm bar is tallest, so that patch was widest. Picking 10 cm usually means the shortest bar was read as the biggest squash.
-7. (mcq) When a sponge bends, what happens to the inside of the curve?  
-   Options: It is squashed / It is stretched / Nothing  
-   **Answer:** It is squashed. *Why:* The inside of a bend is squashed and the outside is stretched. Picking 'stretched' swaps the two sides.
+6. (mcq) In her clay drop test, Divya's 40 cm patch came out wider than her 80 cm patch. What is the best thing to do next?  
+   Options: Repeat each drop three times and compare / Cross out the 80 cm result / Decide that height makes no difference  
+   **Answer:** Repeat each drop three times and compare. *Why:* One odd result can be a fluke, for example a ball that was a little bigger. Repeating each drop shows the real pattern. Picking 'cross it out' hides a result you don't like, which is not fair science.
+7. (mcq) When you bend your finger, what happens to the skin on the back of your knuckle?  
+   Options: It is stretched / It is squashed / It does not change  
+   **Answer:** It is stretched. *Why:* The outside of a bend is stretched, so the skin over the knuckle goes tight. The skin on the inside of the bend is squashed into wrinkles. Picking 'squashed' swaps the two sides.
 8. (mcq) Why can a folded paper fan hold more coins than a flat sheet?  
    Options: Its folds stand on their edges, so it is hard to bend / Folding adds more paper / Coins slide off a flat sheet  
    **Answer:** Its folds stand on their edges, so it is hard to bend. *Why:* Same paper, new shape. Each fold acts like a ruler standing on its edge. Picking 'more paper' misses that the amount of paper didn't change.
@@ -793,21 +782,21 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 10. (mcq) A bouncing ball…  
    Options: Squashes for a moment, then springs back / Never changes shape / Stays flat after it bounces  
    **Answer:** Squashes for a moment, then springs back. *Why:* The wet ball prints show the ball gets flatter in a bounce. Picking 'never changes shape' trusts our eyes, but the squash is too fast to see.
-11. (mcq) Astronauts who spend months in space…  
-   Options: Lose some bone, because nothing pushes on their bones / Grow much stronger bones / Keep exactly the same bones  
-   **Answer:** Lose some bone, because nothing pushes on their bones. *Why:* Bones grow stronger where they are pushed, and weaker where they are not. Picking 'stronger bones' is a natural guess. But floating hardly pushes on the bones at all, so they weaken.
+11. (mcq) A young tree is allowed to sway in the wind. Another is tied tightly to a stake. Which one grows a thicker trunk?  
+   Options: The tree that sways / The tree that is tied / Both the same  
+   **Answer:** The tree that sways. *Why:* Trees grow thicker, stronger wood where the wind bends them. Picking 'the tree that is tied' sounds caring, but the tied tree has no bending to answer, so their trunk stays thin.
 12. (mcq) How were the Himalayas made?  
    Options: India's plate pushed into Asia and folded the rock up / A giant volcano / Rivers piled up stones  
    **Answer:** India's plate pushed into Asia and folded the rock up. *Why:* The push of two plates crumpled the rock, like a towel pushed against a wall. Picking 'volcano' is a sensible guess about mountains, but the Himalayas are folded rock.
-13. (mcq) The spinning Earth is…  
-   Options: A little wider across the equator than from pole to pole / A perfect ball / Wider from pole to pole  
-   **Answer:** A little wider across the equator than from pole to pole. *Why:* Its spin makes the middle bulge by about 43 km. Picking 'perfect ball' is how it looks in pictures, but it is very slightly squashed.
-14. (mcq) Deep down, a bent steel ruler springs back because…  
-   Options: The bonds between its atoms pull them back into place / It is full of tiny magnets / Gravity pulls it back  
-   **Answer:** The bonds between its atoms pull them back into place. *Why:* Bonds between atoms act a little like tiny springs. Picking gravity mixes up a pull towards the Earth with the pull between atoms. Picking magnets mixes this up with a different force.
-15. (mcq) Do scientists fully understand what glass is?  
-   Options: No, they still argue about it / Yes, it is a liquid that flows down windows / Yes, it is exactly like ice  
-   **Answer:** No, they still argue about it. *Why:* Scientists still debate what glass really is. Picking 'flows down windows' repeats an old story that tests have shown is not true.
+13. (mcq) Your bones grow stronger when…  
+   Options: You run, jump and carry things / You lie still in bed for weeks / You never use them  
+   **Answer:** You run, jump and carry things. *Why:* Bones reshape to match the pushes on them. Running and jumping push on them, so they grow stronger. Lying still for weeks makes bones weaker, like an astronaut's in space.
+14. (mcq) A steel wire is stretched a tiny bit. What happens to the atoms inside it?  
+   Options: They are pulled a little further apart / They grow bigger / They are destroyed  
+   **Answer:** They are pulled a little further apart. *Why:* Stretching pulls the atoms a little apart, and the bonds between them pull them back when you let go. Atoms do not grow or vanish when you stretch something.
+15. (mcq) Which of these do scientists still argue about?  
+   Options: What glass really is, deep down / Whether clay squashes when you press it / Whether a rubber band stretches  
+   **Answer:** What glass really is, deep down. *Why:* Glass is hard like a solid, but its atoms are jumbled like a liquid's. Scientists still debate how to describe it. The other two anyone can test at home in a minute.
 
 ## Applications
 - Potters, bakers, goldsmiths, blacksmiths and sculptors all change shapes with forces.

@@ -1,0 +1,1324 @@
+{
+ "key": "combined|sci|2|space-time-and-dimensions",
+ "board": "combined",
+ "subj": "sci",
+ "level": 2,
+ "n": "space-time-and-dimensions",
+ "title": "Space and time: where things are and when things happen",
+ "source": "DeepKids Combined, The Deep End. A pure DeepKids topic built from the founder's Grade 2 concept grids ('Space', 'Time', 'Dimensions', 'Twin paradox', 'Time travel' and 'Worm hole'). No board teaches it at primary level, so there are no board subtopics to cover. No textbook needed.",
+ "summary": "An 'empty' tumbler pushed into water keeps a tissue dry, because even empty space is full of air. Your child finds out that everything takes up room, that space has three directions, and that three numbers can find any spot in a room. They see that a shadow is flat while a ball is solid, and why the round Earth looks flat. Then they turn to time. They guess a minute with their eyes shut, make a floating bowl clock and a swinging string clock, and learn that days, months and years come from the Earth and Moon moving. Last, they find that every event has a where and a when, that noon comes at different times in different places, and that even very exact clocks do not all tick at the same speed.",
+ "builds_on": "This is the first rung of this Deep End topic. It uses what children know from Class 1 about directions, shapes and the parts of a day, and from the Class 2 lesson on day, night and shadows. Class 4 goes much further: Einstein's idea that mass bends space and time, why moving clocks run slow, the twin paradox, and what scientists think about time travel and wormholes.",
+ "goals": [
+  "By the end your child can show that air takes up space, and that every object has a volume: the room it takes up.",
+  "By the end your child can name the three dimensions (length, width and height) and find a hidden thing using three numbers.",
+  "By the end your child can tell flat (2D) things like shadows and drawings from solid (3D) things, and explain why the round Earth looks flat.",
+  "By the end your child can explain that clocks count something that repeats steadily, such as the Earth's spin, a dripping bowl or a swinging string.",
+  "By the end your child can explain the difference between felt time and clock time, and why noon comes at different times in different places.",
+  "By the end your child can say that every event has a where and a when, and that very exact clocks tick a tiny bit differently when moving fast or high up."
+ ],
+ "words": [
+  [
+   "space",
+   "the room where everything is. Things take up space, and there is space between them."
+  ],
+  [
+   "volume",
+   "how much space a thing takes up. A big pumpkin has more volume than a lemon."
+  ],
+  [
+   "dimension",
+   "a direction you can measure in. Our space has three: length, width and height."
+  ],
+  [
+   "length, width, height",
+   "how long a thing is, how wide it is from side to side, and how tall it is"
+  ],
+  [
+   "coordinates",
+   "a set of numbers that tells exactly where something is, like '3 steps from the door, 2 steps from the window, 1 metre up'"
+  ],
+  [
+   "2D and 3D",
+   "2D means flat, with only length and width, like a drawing or a shadow. 3D means solid, with height too, like a ball."
+  ],
+  [
+   "time",
+   "how we measure change: what came before, what is happening now and what comes later"
+  ],
+  [
+   "second, minute, hour",
+   "units of time. 60 seconds make a minute, and 60 minutes make an hour."
+  ],
+  [
+   "rotation",
+   "one whole spin. One rotation of the Earth takes about 24 hours, which is one day."
+  ],
+  [
+   "revolution",
+   "one whole trip round something. One revolution of the Earth round the Sun takes about 365 and a quarter days, which is one year."
+  ],
+  [
+   "pendulum",
+   "a weight hanging on a string that swings to and fro at a steady beat"
+  ],
+  [
+   "water clock",
+   "a clock that measures time by water flowing at a steady speed. The Tamil nazhigai bowl is one."
+  ],
+  [
+   "time zone",
+   "a part of the world where everyone sets their clocks the same. All of India uses one, Indian Standard Time."
+  ],
+  [
+   "event",
+   "something that happens at one place and one time, like a birthday party or a bowl sinking"
+  ]
+ ],
+ "subconcepts": [
+  "everything takes up space, even air (volume)",
+  "three dimensions: length, width and height",
+  "coordinates: three numbers find any spot in a room",
+  "flat (2D) and solid (3D): shadows and drawings are flat",
+  "far things look smaller (perspective in drawing)",
+  "a curved surface looks flat up close, so the round Earth looks flat",
+  "is space a thing, and does it go on forever? (Newton and Leibniz, and an open question)",
+  "time is how we notice change: before, now and later",
+  "felt time and clock time",
+  "seconds, minutes and hours",
+  "days, months and years come from the Earth spinning, the Moon going round and the Earth going round the Sun; leap years",
+  "clocks count a steady repeat: the water clock and the pendulum (string length sets the beat)",
+  "noon comes at different times in different places: time zones",
+  "every event has a where and a when, and light takes time to reach us",
+  "very exact clocks tick a tiny bit differently when moving fast or high up; wormholes are an idea nobody has found"
+ ],
+ "day_mins": 35,
+ "days": [
+  {
+   "n": 1,
+   "title": "Is empty space really empty?",
+   "goal": "Find out that air takes up space and that every object takes up room.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Point to empty space",
+     "mins": 5,
+     "do": "Ask your child: 'Point to an empty part of this room.' They may point at the gap between the bed and the wall. Ask: 'Is there anything there at all?' Let them answer and give a reason. Don't tell them yet. Say: 'This week we find out about space, the room where everything is, and about time.'"
+    },
+    {
+     "kind": "exp",
+     "title": "The dry tissue",
+     "mins": 12,
+     "ref": "e1",
+     "do": "Do Experiment e1. Push a dry tissue into the bottom of an empty glass or steel tumbler so it stays stuck. Ask first: 'If I push this tumbler upside down, straight into a bucket of water, will the tissue get wet? Why do you think so?' Push it straight down and hold it for 5 seconds. Lift it straight up and let your child feel the tissue. It is dry. Ask: 'What stopped the water getting in?' Good answer: the air inside. Say: 'The tumbler looked empty, but it was full of air. Air takes up space, so the water could not get in.' Then tip the tumbler a little under water. A bubble comes out and water goes in. Ask: 'Where did the air go?'"
+    },
+    {
+     "kind": "act",
+     "title": "Coins push the water up",
+     "mins": 10,
+     "ref": "a1",
+     "do": "Do Activity a1. Fill a glass tumbler halfway with water. Put a rubber band round it at the water line. Ask: 'If we drop in 10 coins, will the water stay at the band, go up or go down?' Drop the coins in one by one. The water rises above the band. Say: 'Every coin takes up some room. Two things cannot be in the same place at once, so the water had to move up. The room a thing takes up is called its volume.' Ask: 'Which has more volume, you or a cat? A mango or a grape?'"
+    },
+    {
+     "kind": "do",
+     "title": "Move in every direction",
+     "mins": 8,
+     "do": "Stand in the middle of the room. Call out a direction and your child moves one step that way: 'Forward. Back. Left. Right.' Then 'Up!' (they jump or stretch high) and 'Down!' (they crouch). Do it fast for two minutes. Then ask: 'Can you find a direction that is not forward, back, left, right, up or down?' Let them try. Say: 'Every way you move is made of these three pairs: forward and back, left and right, up and down. Tomorrow we will give them their proper names.'"
+    }
+   ],
+   "need": [
+    "a tissue",
+    "a glass or steel tumbler",
+    "a bucket or a big vessel of water",
+    "a second glass tumbler",
+    "a rubber band",
+    "10 coins"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Three numbers find any place",
+   "goal": "Learn the three dimensions and use three numbers to find a hidden coin.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Where is your toothbrush?",
+     "mins": 5,
+     "do": "Ask: 'Yesterday, why did the tissue stay dry?' (The air inside took up the space.) Then ask: 'How would you tell a friend on the phone exactly where your toothbrush is?' Let them try. Notice whether they say how far along, how far across and how high."
+    },
+    {
+     "kind": "talk",
+     "title": "Length, width and height",
+     "mins": 8,
+     "do": "Give your child a shoebox or a big book. Show them how to measure with their hand span, thumb to little finger. Ask them to measure how long it is (length), how wide it is from side to side (width) and how tall it is (height). Write the three numbers down. Say: 'Length, width and height are called the three dimensions. A dimension is a direction you can measure in. Our space has three dimensions.' Ask: 'Does a sheet of paper have height?' (Hardly any. It is almost flat.)"
+    },
+    {
+     "kind": "act",
+     "title": "The coin hunt",
+     "mins": 15,
+     "ref": "a2",
+     "do": "Do Activity a2. While your child shuts their eyes, hide a coin in the room, for example on the second shelf of the cupboard. Then give three numbers: 'Walk 4 steps from the door along this wall. Now turn and walk 2 steps into the room. Now look 1 metre up.' Your child follows the clues and finds the coin. Then swap: your child hides it and gives you three numbers. Do it 3 times each. Ask: 'What happened when you gave only two numbers?' (The finder knew the spot on the floor but not how high.) Say: 'Numbers that tell exactly where something is are called coordinates. In our space you need three.'"
+    },
+    {
+     "kind": "do",
+     "title": "Start the time diary",
+     "mins": 7,
+     "do": "Start the project, the time diary. Put a thick layer of wet cotton in a steel katori. Lay the 10 moong seeds you soaked last night on it. Your child writes today's date in a notebook and draws the seeds. Say: 'Every day we will draw them again. This diary will show us time passing.' Keep the katori near a window and keep the cotton wet, not flooded."
+    }
+   ],
+   "need": [
+    "a shoebox or a big book",
+    "paper and a pencil",
+    "a coin",
+    "10 moong seeds soaked overnight",
+    "cotton wool",
+    "a steel katori",
+    "a notebook for the time diary"
+   ],
+   "prep": [
+    {
+     "task": "Soak 10 moong seeds in a cup of water",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Flat pictures of solid things",
+   "goal": "See that shadows and drawings are flat (2D) while objects are solid (3D), and why the round Earth looks flat.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Time diary",
+     "mins": 4,
+     "do": "Look at the moong seeds. Ask: 'What has changed since yesterday?' (They are fatter, and a tiny white root may show.) Your child draws them and writes the date. Ask: 'How do you know a day has passed?'"
+    },
+    {
+     "kind": "act",
+     "title": "Shadows of solid things",
+     "mins": 13,
+     "ref": "a3",
+     "do": "Do Activity a3. Darken the room and shine a torch at a wall. Hold a ball in the beam. Ask: 'What shape is the shadow?' (A circle.) Then hold a steel tumbler upright. The shadow is a rectangle. Turn it so its mouth faces the torch. Now the shadow is a circle. Ask: 'It is the same tumbler. Why did the shadow change?' Say: 'The tumbler is solid. It has length, width and height, so we call it 3D. Its shadow is flat. It has only length and width, so we call it 2D. A flat picture shows only one side of a solid thing.' Let your child try a book and a folded paper cone."
+    },
+    {
+     "kind": "act",
+     "title": "The ant on the orange",
+     "mins": 10,
+     "ref": "a4",
+     "do": "Do Activity a4. Give your child an orange and a sketch pen. Ask them to draw a tiny line, as long as an ant, on the orange. Ask: 'Is this short line curved or straight?' (It looks straight.) Now ask them to draw a line all the way round the orange. Ask: 'Now is it curved?' (Yes.) Say: 'The Earth is a huge ball, and we are much smaller than an ant on an orange. The bit we can see looks flat, but the whole Earth is round. A curved surface looks flat up close.'"
+    },
+    {
+     "kind": "do",
+     "title": "Draw a road going far away",
+     "mins": 8,
+     "do": "Look out of a window or along a long corridor. Ask: 'Do far things look bigger or smaller than near things?' (Smaller.) Your child draws a road on paper, wide at the bottom and narrow at the top. They draw one tree near the bottom and the same kind of tree near the top. Ask: 'Which tree is really bigger?' (They could be the same size. The far one is drawn smaller.) Say: 'Artists draw far things smaller so a flat drawing looks deep. This is called perspective.'"
+    }
+   ],
+   "need": [
+    "a torch",
+    "a ball",
+    "a steel tumbler",
+    "a book",
+    "paper",
+    "an orange",
+    "a sketch pen",
+    "pencil and crayons",
+    "the time diary"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "What is space?",
+   "goal": "Dance in three dimensions, hear an old argument about space, and do the core worksheet.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Time diary",
+     "mins": 4,
+     "do": "Look at the moong. Your child draws them and writes the date. Ask: 'Is the root longer than yesterday? Which way is it growing?' (Usually down.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Newton and Leibniz argue",
+     "mins": 8,
+     "ref": "v3",
+     "do": "Tell voice v3: 'About 300 years ago, two great thinkers argued about space. Isaac Newton in England said space is like a giant empty box. Even if you took everything out, the box would still be there. Gottfried Leibniz in Germany said space is only the gaps between things. If there were no things at all, there would be no space.' Ask v3's question. Then ask: 'Does space go on forever, or does it have an edge? What would be past the edge?' Say: 'Nobody knows yet. Scientists can only see as far as light has had time to travel to us.'"
+    },
+    {
+     "kind": "do",
+     "title": "The three-dimension dance",
+     "mins": 8,
+     "do": "Put on any song your child likes. Make up a dance together with one move for each dimension: a step forward and back (length), a sway left and right (width), and a stretch up and crouch down (height). Do each move 4 times, then all three in a row. Then ask your child to dance using only left and right, as if they lived on a flat sheet of paper. Ask: 'What could you not do?' (Jump, crouch, move forward.) Say: 'A flat creature would have only two dimensions. We have three.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 15,
+     "ref": "ws1",
+     "do": "Do Worksheet ws1 together. Read each question aloud. For the writing questions, let your child say the answer first, then write one or two short sentences. For the 'pick a side' question, there is no single right answer: listen for a reason."
+    }
+   ],
+   "need": [
+    "a song to dance to",
+    "Worksheet ws1",
+    "a pencil",
+    "the time diary"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Time is how we notice change",
+   "goal": "Compare felt time with clock time, learn seconds, minutes and hours, and hear the story.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Time diary",
+     "mins": 4,
+     "do": "Your child draws the moong and writes the date. Lay the drawings from Day 2 and today side by side. Ask: 'If nothing ever changed, how would we know time had passed?' Let them think. Say: 'We notice time because things change.'"
+    },
+    {
+     "kind": "act",
+     "title": "Guess a minute",
+     "mins": 10,
+     "ref": "a5",
+     "do": "Do Activity a5. Your child sits still with their eyes shut. Start a phone timer and say 'Go'. They say 'Now!' when they think one minute has passed. Write down the real time. Then do it again while they do something fun, like building with blocks, and they call 'Now!' without looking. Compare the two. Ask: 'Did the waiting minute feel longer or shorter than the playing minute?' Say: 'The clock went at the same speed both times. The time you feel can be different from the time a clock measures.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Seconds, minutes and hours",
+     "mins": 6,
+     "do": "Clap slowly, once each second, saying 'one-and, two-and, three-and'. Say: 'Each clap is about one second. 60 seconds make one minute. 60 minutes make one hour.' Ask your child to guess, then time, how long it takes to put on their chappals (a few seconds), to brush their teeth (about 2 minutes) and to watch a film (about 2 hours). Ask: 'What takes about one day?' (From one sunrise to the next.)"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Bowl That Kept the Hours",
+     "mins": 15,
+     "do": "Read the story aloud, slowly. It is told by a copper bowl that was used as a clock in a Tamil temple town long ago. Stop once, when the elders want the gong struck early, and ask: 'Should Ponni strike the gong now? Why?' Then read on. Afterwards, ask the story questions. Don't explain the ending. Let your child tell you why Ponni trusted the bowl."
+    }
+   ],
+   "need": [
+    "a phone timer or a clock with a seconds hand",
+    "blocks or any toy",
+    "the time diary"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Clocks in the sky, and a clock in a bowl",
+   "goal": "Find where days, months and years come from, and make a floating bowl clock.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Time diary",
+     "mins": 4,
+     "do": "Your child draws the moong and writes the date. Ask: 'How many days has the diary been going?' Count the pages."
+    },
+    {
+     "kind": "act",
+     "title": "A year is one trip round the Sun",
+     "mins": 12,
+     "ref": "a6",
+     "do": "Do Activity a6. Put a chair in the middle of the room: it is the Sun. Your child is the Earth. Ask them to spin round once on the spot. Say: 'One spin of the Earth is called a rotation. It takes about 24 hours: one day.' Now they walk slowly once round the chair. Say: 'One whole trip round the Sun is called a revolution. It takes about 365 days: one year.' Then open a calendar. Count the months. Find February: this year it has 28 days. Say: 'The trip really takes 365 and a quarter days. Four quarters make a whole day, so every fourth year February gets a 29th day. That is a leap year. 2028 will be one.' Ask: 'Which takes about a month?' (The Moon going from full Moon to full Moon, about 29 and a half days.)"
+    },
+    {
+     "kind": "exp",
+     "title": "Make a nazhigai bowl",
+     "mins": 14,
+     "ref": "e2",
+     "do": "Do Experiment e2. You make the hole: push a drawing pin through the very middle of the bottom of a plastic cup, then take it out. Fill a bucket with water. Put one coin in the cup. Ask first: 'If we float this cup, what will happen? How long will it take?' Your child gently floats the cup, and you start a timer. Water creeps in through the hole and the cup slowly sinks. Stop the timer when it goes under. Write down the time. Empty the cup and do it again. Ask: 'Did it take about the same time both times?' (Usually yes, within a few seconds.) Say: 'Because it takes the same time every try, we can use it as a clock. Ponni's copper bowl in the story worked the same way.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Aryabhata's boat",
+     "mins": 5,
+     "ref": "v2",
+     "do": "Tell voice v2: 'About 1,500 years ago, Aryabhata, an astronomer in India, wrote that the Earth spins, and that is why the stars seem to move across the sky. He said it is like sitting in a boat on a river. The boat moves forward, but to you the trees on the bank seem to move backward.' Ask: 'Have you felt this in a bus or an auto?' Then ask v2's question."
+    }
+   ],
+   "need": [
+    "a chair",
+    "a calendar for this year",
+    "a plastic cup (not paper)",
+    "a drawing pin",
+    "a coin",
+    "a bucket of water",
+    "a phone timer",
+    "the time diary"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "The swinging clock",
+   "goal": "Find out what sets the beat of a pendulum, and notice the clocks inside living bodies.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Time diary",
+     "mins": 4,
+     "do": "Your child draws the moong and writes the date. Measure the longest shoot with a ruler and write it down. Ask: 'Could you use the moong as a clock? Why or why not?' (Not a good one: they don't grow at a steady speed, and each seedling grows differently.)"
+    },
+    {
+     "kind": "exp",
+     "title": "Long string, short string",
+     "mins": 15,
+     "ref": "e3",
+     "do": "Do Experiment e3. Tie a key to a string about one metre long. Tie the other end to the top of a door frame, a curtain rod or the back of a tall chair. Pull the key a little to one side and let go. Count one swing each time the key comes back to the side it started from. Count swings for 30 seconds while you watch the timer. You should get about 15. Ask first: 'If I make the string much shorter, will it swing faster, slower or the same?' Shorten it to about a quarter, roughly 25 cm, and count again. You should get about 30. Then add a second key. Ask: 'Will a heavier weight change the beat?' Count again. It stays about the same. Say: 'The length of the string sets the beat. That is why old pendulum clocks have a long swinging rod.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Clocks inside bodies",
+     "mins": 8,
+     "do": "Ask your child to put a hand flat on their chest and feel their heartbeat. Then count their breaths for one minute while you watch the timer. Write the number. Count your own breaths too. Children usually breathe faster than grown-ups. Say: 'Your heart and your breath keep a beat, like little clocks. A mouse's heart beats hundreds of times a minute. An elephant's heart beats about 30 times a minute.' Ask: 'Why might a tiny animal's heart beat so fast?' (Let them guess. Small animals lose body heat quickly, and need to burn food fast to stay warm.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Henrietta and the blinking stars",
+     "mins": 8,
+     "ref": "v1",
+     "do": "Tell voice v1: 'About 115 years ago, Henrietta Leavitt worked at an observatory in America. Her job was to look at photos of stars and note how bright they were. She was paid little, and was not allowed to choose her own research. She noticed that some stars get brighter and dimmer with a steady beat, like a slow pendulum. She found that the slower a star's beat, the brighter that star really is. That let astronomers work out how far away stars are.' Say: 'A rhythm in time told us a distance in space.' Ask v1's question."
+    }
+   ],
+   "need": [
+    "a string about 1 metre long",
+    "2 keys",
+    "a door frame, curtain rod or tall chair",
+    "a ruler",
+    "a phone timer",
+    "the time diary"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Where and when",
+   "goal": "See that every event has a place and a time, and why noon comes at different times in different places.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Time diary",
+     "mins": 4,
+     "do": "Your child draws the moong and writes the date. Ask: 'When did the first leaf open? Where in the katori was the tallest one?' Notice that the answer needs a when and a where."
+    },
+    {
+     "kind": "talk",
+     "title": "An invitation needs two things",
+     "mins": 8,
+     "do": "Ask your child to make a pretend invitation to their birthday party for a friend. Let them write or say it. Then check: does it say where the party is? Does it say when? Ask: 'What happens if it says only the place?' (Your friend won't know when to come.) 'Only the time?' (They won't know where to go.) Say: 'Everything that happens is called an event. Every event has a where and a when. The where needs three numbers, like in the coin hunt, and the when needs one more. So space and time always go together.'"
+    },
+    {
+     "kind": "act",
+     "title": "Noon in Chennai, morning in Dubai",
+     "mins": 11,
+     "do": "Darken the room. Hold a torch still: it is the Sun. Your child holds a ball (the Earth) and marks India with a small dot of chalk or a sticker. Ask them to slowly turn the ball. Say: 'When India faces the torch, it is noon here. Other places are still turning towards the Sun, so it is morning there. Places on the far side are in night.' Then say: 'People in each part of the world set their clocks to their own Sun. This makes time zones. When it is 12 noon in India, it is 10:30 in the morning in Dubai, and night in the USA.' Ask: 'Who is right about the time?' (Both are right for their own place.) Then say: 'All of India uses one clock time, called Indian Standard Time. But in Arunachal Pradesh, in the far east, the Sun rises almost two hours before it rises in Kutch, in Gujarat. For many years, tea gardens in Assam set their clocks one hour ahead, so work could start with the early Sun.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 12,
+     "ref": "ws2",
+     "do": "Do Worksheet ws2. Read each question aloud. Let your child answer aloud before writing. For the pendulum and bowl questions, remind them of what happened in their own tests."
+    }
+   ],
+   "need": [
+    "paper and a pencil",
+    "a torch",
+    "a ball",
+    "chalk or a small sticker",
+    "Worksheet ws2",
+    "the time diary"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Clocks that disagree, and tunnels in maths",
+   "goal": "Hear how very exact clocks tick at slightly different speeds, how light takes time to arrive, and what a wormhole is.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Time diary",
+     "mins": 4,
+     "do": "Your child draws the moong and writes the date. Ask: 'Have all ten grown the same? Why not?' (Each seed is different, and some got more water or light.)"
+    },
+    {
+     "kind": "talk",
+     "title": "The clocks that flew round the world",
+     "mins": 9,
+     "ref": "v4",
+     "do": "Tell voice v4: 'Albert Einstein worked out that clocks do not all tick at exactly the same speed. A clock moving very fast ticks a tiny bit slower. A clock high up, further from the Earth, ticks a tiny bit faster. In 1971, two scientists, Joseph Hafele and Richard Keating, flew very exact clocks round the world on ordinary passenger planes. When they landed, the clocks no longer agreed with the clocks left on the ground, by less than a millionth of a second, as Einstein said.' Then say: 'The GPS on a phone map uses clocks on satellites high above the Earth. Engineers set those clocks to allow for this. Without that, a phone map would go wrong by kilometres within a day.' Ask v4's question."
+    },
+    {
+     "kind": "talk",
+     "title": "Seeing the past",
+     "mins": 6,
+     "do": "Say: 'Light is the fastest thing there is, but even light takes time to travel. Light from the Moon takes about one second to reach us. Light from the Sun takes about 8 minutes. Never look straight at the Sun, it hurts your eyes. Light from some stars has travelled for thousands of years.' Ask: 'When you look at a star tonight, are you seeing it as it is now, or as it was long ago?' (As it was when the light left it.) Say: 'Looking far away is looking back in time.'"
+    },
+    {
+     "kind": "act",
+     "title": "Fold a wormhole",
+     "mins": 6,
+     "ref": "a7",
+     "do": "Do Activity a7. Draw a dot near the top of a sheet of paper and another near the bottom. Say: 'This dot is Chennai and this one is a far-away star.' Ask: 'What is the shortest way from one to the other?' (A straight line.) Now fold the paper so the dots touch, and push a pencil through both. Say: 'If space could fold like this, a short tunnel could join two far places. Scientists call this idea a wormhole. Einstein's maths allows it. But nobody has ever found one, and most scientists think one could not stay open.'"
+    },
+    {
+     "kind": "game",
+     "title": "Where and When game",
+     "mins": 10,
+     "ref": "g1",
+     "do": "Play Game g1 on the printed board, with a die and a counter for each player. When a player lands on a question square, they answer it to stay. After the game, ask: 'Which square was hardest? Why?'"
+    }
+   ],
+   "need": [
+    "a sheet of paper",
+    "a pencil",
+    "the printed Where and When board",
+    "a die and 2 to 4 counters",
+    "a phone timer",
+    "the time diary"
+   ]
+  },
+  {
+   "n": 10,
+   "title": "Check and teach it back",
+   "goal": "Finish the time diary, do the challenge worksheet and teach the ideas back.",
+   "steps": [
+    {
+     "kind": "review",
+     "title": "The finished time diary",
+     "mins": 4,
+     "do": "Your child draws the moong one last time. Lay all the pages out in order. Ask: 'How can you tell which page came first without reading the dates?' (The seeds are smallest on the first page.) Say: 'Change shows us the order of time.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "ref": "ws3",
+     "do": "Do Worksheet ws3. These are harder. Read each one twice. Let your child answer aloud first. It is fine to do only some of them."
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 10,
+     "do": "Ask the check questions aloud, one at a time. Let your child answer in their own words. If they are stuck, remind them of the test that showed it (the dry tissue, the coin hunt, the bowl, the string)."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 9,
+     "do": "Your child teaches you, using the cup clock and the swinging key. Ask: 'Show me how to make a clock from water. Show me what makes a pendulum swing faster.' Then ask: 'Tell me how to find a hidden coin with three numbers.' Listen for: a clock needs something that repeats at a steady speed; a shorter string swings faster; three numbers for where, one for when."
+    }
+   ],
+   "need": [
+    "the time diary",
+    "Worksheet ws3",
+    "the plastic cup and coin",
+    "a bucket of water",
+    "the key on its string"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Space, room and three directions",
+   "day": 4,
+   "sections": [
+    [
+     "A. Taking up space",
+     [
+      {
+       "t": "mcq",
+       "p": "Kavya sticks a dry tissue inside an empty tumbler. She pushes the tumbler, mouth down, straight into a bucket of water. What happens to the tissue?",
+       "opts": [
+        "It gets wet",
+        "It stays dry",
+        "It floats out"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "Arjun drops 5 coins into a tumbler half full of water. The water level goes ____.",
+       "a": [
+        "up",
+        "higher",
+        "rises",
+        "up higher"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Why did the tissue in Kavya's tumbler stay dry?",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "B. Three dimensions",
+     [
+      {
+       "t": "match",
+       "p": "Match each word to what it measures.",
+       "pairs": [
+        [
+         "length",
+         "a bed from head end to foot end"
+        ],
+        [
+         "width",
+         "a door from one side to the other"
+        ],
+        [
+         "height",
+         "a cupboard from the floor to the top"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Lakshmi hid a coin on a shelf. How many numbers does she need to tell you exactly where it is?",
+       "opts": [
+        "1",
+        "2",
+        "3"
+       ],
+       "a": 2
+      },
+      {
+       "t": "sort",
+       "p": "Is it flat (2D) or solid (3D)?",
+       "items": [
+        "a shadow",
+        "a drawing of a house",
+        "a ball",
+        "a steel tumbler",
+        "a photo",
+        "a brick"
+       ],
+       "cats": [
+        "flat (2D)",
+        "solid (3D)"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and explain",
+     [
+      {
+       "t": "write",
+       "p": "Meenakshi stands on a beach and says the Earth looks flat. The Earth is round. Why does it look flat to her?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Pick a side. About 300 years ago, two thinkers argued about space. Isaac Newton said: 'Space is like a giant empty box. Take everything out and the box is still there.' Gottfried Leibniz said: 'Space is only the gaps between things. With no things, there is no space.' Who do you agree with? Give one reason. Then say what the other one might answer back.",
+       "lines": 4,
+       "a": "A strong answer picks a side, gives a reason (for example, 'a room with nothing in it is still a room', or 'you can only measure space between two things'), and then gives the other side's reply fairly."
+      },
+      {
+       "t": "draw",
+       "p": "Draw a road going far away, with one tree near you and the same kind of tree far away."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Clocks, days and years",
+   "day": 8,
+   "sections": [
+    [
+     "A. Where days and years come from",
+     [
+      {
+       "t": "mcq",
+       "p": "Why is a day about 24 hours long?",
+       "opts": [
+        "The Earth takes about 24 hours to spin once",
+        "The Sun takes 24 hours to go round the Earth",
+        "People chose 24 because it is a nice number"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "One trip of the Earth all the way round the Sun is called one ____.",
+       "a": [
+        "year"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "The Earth's trip round the Sun takes 365 and a quarter days. So every fourth year, February has ____ days.",
+       "a": [
+        "29",
+        "twenty-nine"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each thing to about how long it takes.",
+       "pairs": [
+        [
+         "one clap",
+         "about a second"
+        ],
+        [
+         "brushing your teeth",
+         "a few minutes"
+        ],
+        [
+         "a train from Chennai to Madurai",
+         "several hours"
+        ],
+        [
+         "from one sunrise to the next",
+         "one day"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Clocks you made",
+     [
+      {
+       "t": "mcq",
+       "p": "Farhan's pendulum is a key on a long string. He makes the string much shorter. What happens to the swings?",
+       "opts": [
+        "They get faster",
+        "They get slower",
+        "They stay the same"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Divya ties a second key onto her pendulum, without changing the string. What happens to the swings?",
+       "opts": [
+        "They get much faster",
+        "They get much slower",
+        "They stay about the same"
+       ],
+       "a": 2
+      },
+      {
+       "t": "sort",
+       "p": "Could it be used as a clock? Sort into 'steady repeat' and 'not steady'.",
+       "items": [
+        "a swinging pendulum",
+        "the Earth's spin",
+        "a cup with a hole sinking in water",
+        "rain showers",
+        "a dog barking",
+        "the Moon going from full to full"
+       ],
+       "cats": [
+        "steady repeat",
+        "not steady"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and explain",
+     [
+      {
+       "t": "write",
+       "p": "Ananya's floating cup clock sank in 6 minutes on the first try and 6 minutes on the second try. Why does that make it a good clock?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Sneha played for an hour, and it felt like 5 minutes. Did time really go faster? Explain the difference between felt time and clock time.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Where, when and clocks that disagree",
+   "day": 10,
+   "sections": [
+    [
+     "A. Different places, different times",
+     [
+      {
+       "t": "mcq",
+       "p": "It is 12 noon in Chennai. Ananya phones her aunt in Dubai, who says it is 10:30 in the morning. Who is right?",
+       "opts": [
+        "Ananya",
+        "Her aunt",
+        "Both, each for her own place"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "p": "Where does the Sun rise first?",
+       "opts": [
+        "Arunachal Pradesh, in the far east of India",
+        "Kutch, in the far west of India",
+        "Both at the same moment"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "Ponni texts her friend: 'Meet me on Saturday.' What is missing? Write a better message.",
+       "lines": 2
+      }
+     ]
+    ],
+    [
+     "B. Light and clocks",
+     [
+      {
+       "t": "mcq",
+       "p": "Light from the Sun takes about 8 minutes to reach us. So the Sun we see is:",
+       "opts": [
+        "the Sun as it is right now",
+        "the Sun as it was about 8 minutes ago",
+        "the Sun as it was yesterday"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Clocks on GPS satellites, high above the Earth, tick a tiny bit faster than clocks on the ground. What do engineers do?",
+       "opts": [
+        "Nothing, it does not matter",
+        "Set the clocks to allow for it",
+        "Switch the satellites off"
+       ],
+       "a": 1
+      },
+      {
+       "t": "write",
+       "p": "Pick a side. Kavya and Divya are twins. Imagine Divya goes on a very, very fast rocket trip and comes back. Kavya says: 'We are twins, so we must still be exactly the same age.' Divya says: 'My clock ticked slower on the fast trip, so I am now a tiny bit younger.' A scientist says: 'Each clock was right for the path it took. Time is not the same for every traveller.' Who do you agree with, and why? What would you say back to one of the others?",
+       "lines": 4,
+       "a": "A strong answer uses the flying clocks or the GPS clocks as evidence that moving clocks really tick differently, and still treats Kavya's view fairly as what everyday life suggests."
+      }
+     ]
+    ],
+    [
+     "C. Known or unknown?",
+     [
+      {
+       "t": "sort",
+       "p": "Do scientists know this for sure, or does nobody know yet?",
+       "items": [
+        "the Earth is round",
+        "the Earth spins about once a day",
+        "does space go on forever?",
+        "are there real wormholes?",
+        "clocks high up tick a tiny bit faster",
+        "why does time only go forward?"
+       ],
+       "cats": [
+        "known for sure",
+        "nobody knows yet"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Your friend says wormholes must be real because there is one in a film. What would you need to see before you believed it?",
+       "lines": 3
+      },
+      {
+       "t": "fill",
+       "p": "Every event has a where and a ____.",
+       "a": [
+        "when",
+        "time"
+       ]
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The dry tissue",
+   "day": 1,
+   "question": "Is an 'empty' tumbler really empty?",
+   "need": [
+    "a dry tissue",
+    "a glass or steel tumbler",
+    "a bucket or big vessel of water, deeper than the tumbler"
+   ],
+   "steps": [
+    "Push the tissue into the bottom of the tumbler so it stays stuck when you turn the tumbler over.",
+    "Turn the tumbler upside down.",
+    "Push it straight down into the water, all the way under. Keep it straight.",
+    "Hold it there for 5 seconds.",
+    "Lift it straight up and out. Feel the tissue.",
+    "Now push it in again and tip it a little. Watch the bubble."
+   ],
+   "predict": "Ask: 'Will the tissue get wet? Why do you think so?'",
+   "observe": "The tissue stays dry when the tumbler goes in straight. When you tip it, a bubble of air escapes and water rushes in.",
+   "why": "The tumbler was full of air. Air is matter: it takes up space. While the air was trapped, the water could not fill that space, so it stopped near the mouth of the tumbler and the tissue stayed dry. When the tumbler tipped, the air escaped as a bubble and the water took its place.",
+   "safety": "Wipe up spilled water so nobody slips.",
+   "time": "10 min"
+  },
+  {
+   "id": "e2",
+   "title": "Make a nazhigai bowl",
+   "day": 6,
+   "question": "Can a cup that slowly sinks be used as a clock?",
+   "need": [
+    "a plastic cup (not paper)",
+    "a drawing pin",
+    "one coin",
+    "a bucket of water",
+    "a phone timer",
+    "paper and a pencil"
+   ],
+   "steps": [
+    "A grown-up pushes the drawing pin through the very middle of the bottom of the cup, then takes it out.",
+    "Put one coin in the cup so it floats level.",
+    "Gently set the cup floating on the water and start the timer.",
+    "Watch the water come in through the hole. Don't touch the cup.",
+    "Stop the timer when the cup goes under. Write down the time.",
+    "Empty and dry the cup, and do it again. Do it a third time if you can."
+   ],
+   "predict": "Ask: 'How long will the cup take to sink? Will it take the same time every try?'",
+   "observe": "The cup sinks after a few minutes. Each try takes about the same time, usually within a few seconds. If the cup does not sink, add a second coin. If it sinks in under a minute, the hole is too big: use a new cup.",
+   "why": "Water flows in through a small hole at a steady speed, so the cup fills in the same time each try. Anything that happens in the same time over and over can be used as a clock. In Tamil Nadu, a copper bowl like this, called a nazhigai vattil, was once used to measure the nazhigai, a unit of 24 minutes. Sixty nazhigai make a day.",
+   "safety": "A grown-up handles the drawing pin.",
+   "time": "15 min"
+  },
+  {
+   "id": "e3",
+   "title": "Long string, short string",
+   "day": 7,
+   "question": "What sets how fast a pendulum swings: the length of the string or the weight?",
+   "need": [
+    "a string about 1 metre long",
+    "2 keys",
+    "a door frame, curtain rod or the back of a tall chair",
+    "a phone timer",
+    "a ruler or measuring tape"
+   ],
+   "steps": [
+    "Tie one key to the end of the string. Tie the other end high up so the key hangs freely, about 1 metre below.",
+    "Pull the key a little to one side, about a hand-span, and let go. Don't push it.",
+    "Count one swing each time the key comes back to where it started. Count for 30 seconds.",
+    "Shorten the string to about 25 cm. Count swings for 30 seconds again.",
+    "Go back to the long string, add the second key, and count again."
+   ],
+   "predict": "Ask: 'Will a shorter string swing faster, slower or the same? Will a heavier weight change it?'",
+   "observe": "The 1 metre string gives about 15 swings in 30 seconds. The 25 cm string gives about 30, twice as many. Two keys on the long string still give about 15.",
+   "why": "How fast a pendulum swings depends on the length of the string, not on the weight. A string a quarter as long swings twice as fast. Because each swing takes the same time, a pendulum keeps a steady beat, which is why pendulum clocks were the most exact clocks for nearly 300 years.",
+   "safety": "Tie the string firmly so the key cannot fly off. Keep faces away from the swinging key.",
+   "time": "15 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Coins push the water up",
+   "day": 1,
+   "mins": 10,
+   "need": [
+    "a glass tumbler",
+    "water",
+    "a rubber band",
+    "10 coins"
+   ],
+   "steps": [
+    "Fill the tumbler halfway with water.",
+    "Put a rubber band round it at the water line.",
+    "Guess what will happen when you drop in 10 coins.",
+    "Drop the coins in one at a time.",
+    "Look at the water line against the band."
+   ],
+   "outcome": "The water rises above the band. The child sees that every object takes up room, its volume, and that two things can't be in the same place at once."
+  },
+  {
+   "id": "a2",
+   "title": "The coin hunt",
+   "day": 2,
+   "mins": 15,
+   "need": [
+    "a coin",
+    "a room with a cupboard or shelves"
+   ],
+   "steps": [
+    "One player shuts their eyes while the other hides the coin.",
+    "The hider gives three numbers: steps along one wall, steps into the room, and how high.",
+    "The finder follows the numbers and finds the coin.",
+    "Try giving only two numbers and see what goes wrong.",
+    "Swap and play 3 times each."
+   ],
+   "outcome": "The child uses coordinates and finds that our space needs three numbers to fix a spot."
+  },
+  {
+   "id": "a3",
+   "title": "Shadows of solid things",
+   "day": 3,
+   "mins": 13,
+   "need": [
+    "a torch",
+    "a ball",
+    "a steel tumbler",
+    "a book",
+    "a paper cone",
+    "a plain wall"
+   ],
+   "steps": [
+    "Darken the room and shine the torch at the wall.",
+    "Hold the ball in the beam and look at the shadow.",
+    "Hold the tumbler upright, then turn its mouth to the torch.",
+    "Try the book and the paper cone in different ways.",
+    "Draw two different shadows of the same object."
+   ],
+   "outcome": "The child sees that a solid (3D) object makes a flat (2D) shadow, and that one object can make very different shadows."
+  },
+  {
+   "id": "a4",
+   "title": "The ant on the orange",
+   "day": 3,
+   "mins": 10,
+   "need": [
+    "an orange",
+    "a sketch pen"
+   ],
+   "steps": [
+    "Draw a tiny line, about as long as an ant, on the orange.",
+    "Look closely: does it look straight or curved?",
+    "Draw a line right round the orange.",
+    "Compare the two lines."
+   ],
+   "outcome": "The child sees that a small part of a curved surface looks flat, which is why the round Earth looks flat to us."
+  },
+  {
+   "id": "a5",
+   "title": "Guess a minute",
+   "day": 5,
+   "mins": 10,
+   "need": [
+    "a phone timer or a clock with a seconds hand",
+    "blocks or any toy",
+    "paper and pencil"
+   ],
+   "steps": [
+    "Sit still with eyes shut. Say 'Now!' when you think a minute has passed.",
+    "The grown-up writes the real time.",
+    "Play with the toy and call 'Now!' when you think a minute has passed, without looking at the clock.",
+    "Compare the two times."
+   ],
+   "outcome": "Two numbers that are usually different from 60 seconds and from each other. The child sees that felt time and clock time can disagree."
+  },
+  {
+   "id": "a6",
+   "title": "A year is one trip round the Sun",
+   "day": 6,
+   "mins": 12,
+   "need": [
+    "a chair",
+    "a calendar for this year"
+   ],
+   "steps": [
+    "The chair is the Sun and the child is the Earth.",
+    "Spin once on the spot: one rotation, one day.",
+    "Walk once round the chair: one revolution, one year.",
+    "On the calendar, count the months and the days in February.",
+    "Work out the leap year: four quarter-days make one extra day."
+   ],
+   "outcome": "The child links a day to the Earth's spin, a month to the Moon, a year to the trip round the Sun, and knows why leap years exist."
+  },
+  {
+   "id": "a7",
+   "title": "Fold a wormhole",
+   "day": 9,
+   "mins": 6,
+   "need": [
+    "a sheet of paper",
+    "a pencil"
+   ],
+   "steps": [
+    "Draw a dot near the top and one near the bottom of the paper.",
+    "Draw a straight line between them.",
+    "Fold the paper so the two dots touch.",
+    "Push the pencil through both dots."
+   ],
+   "outcome": "A paper model of the wormhole idea, and the knowledge that it is an idea from maths that nobody has found in nature."
+  }
+ ],
+ "project": {
+  "title": "The time diary",
+  "days": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "steps": [
+   "The night before Day 2, soak 10 moong seeds in water.",
+   "On Day 2, lay them on wet cotton in a steel katori near a window.",
+   "Each day, your child draws the seeds and writes the date. Keep the cotton wet, not flooded.",
+   "From Day 7, measure the longest shoot with a ruler and write it down.",
+   "On Day 10, lay all the pages out in order and talk about how the seedlings changed."
+  ],
+  "outcome": "A diary of drawings that shows time as change. The child sees that the order of the pages can be told from the seedlings alone, and that seedlings grow at different speeds, so they make a poor clock."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Where and When",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "a die",
+   "a counter for each player (a button or a coin)",
+   "a phone timer"
+  ],
+  "rules": [
+   "Everyone starts on START.",
+   "Roll the die and move that many squares.",
+   "Do what the square says. If it asks a question, answer it to stay there. If you can't, go back 1.",
+   "You must land exactly on HOME. If your roll is too big, stay where you are.",
+   "The first player home wins. After the game, each player says one thing they learned about space and one about time."
+  ],
+  "squares": [
+   "START",
+   "Name the three dimensions",
+   "The tumbler was full of air: move on 1",
+   "Give three numbers for where your bed is",
+   "Your shadow is flat. Is it 2D or 3D?",
+   "The Earth looks flat up close. Say why",
+   "One spin of the Earth: move on 1 (one day)",
+   "Shut your eyes and guess 10 seconds. Close? Move on 1",
+   "How many minutes in an hour?",
+   "Short string, fast swing: move on 2",
+   "Your bowl clock leaked too fast. Go back 2",
+   "Name something that takes about a minute",
+   "Leap year! Move on 1 extra",
+   "It is noon in India. Is it morning or night in the USA?",
+   "Your invitation had no time. Go back 1",
+   "Say one thing that changed in your time diary",
+   "Moonlight takes about 1 second to reach you: move on 1",
+   "How long does sunlight take to reach us?",
+   "Your GPS clock was set right: move on 2",
+   "Name one thing nobody knows yet about space or time",
+   "Wormhole! Nobody has found one, so stay where you are",
+   "Is it day or night on the far side of the Earth right now?",
+   "Say where and when you were born",
+   "HOME"
+  ]
+ },
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Henrietta Swan Leavitt (1868–1921), USA",
+   "idea": "Working at the Harvard College Observatory, she measured the brightness of stars on photographic plates. She found that some stars, now called Cepheid variables, brighten and dim with a steady beat, and that the slower the beat, the brighter the star really is. She published this in 1912. It gave astronomers a way to measure how far away stars and galaxies are.",
+   "then": "She was one of the women hired to do measurements, paid a small wage by the hour, and not free to choose her own research. Her finding was used by others, and she got little public credit in her lifetime.",
+   "now": "Her rule is still used to measure distances in space. Edwin Hubble used it in the 1920s to show that some fuzzy patches in the sky are other galaxies far beyond our own. A Swedish mathematician wrote to her in 1925 hoping to nominate her for a Nobel Prize, not knowing she had died.",
+   "status": "accepted",
+   "ask": "Henrietta's finding helped other astronomers become famous. Who do you think should get the credit for a discovery: the person who found the rule, or the people who used it?",
+   "day": 7
+  },
+  {
+   "id": "v2",
+   "who": "Aryabhata (476–550 CE), India",
+   "idea": "In his book, the Aryabhatiya (499 CE), he wrote that the Earth spins on its axis, and that this is why the stars seem to move from east to west. He compared it to a person in a moving boat who sees the trees on the bank moving backward.",
+   "then": "Many later Indian astronomers, such as Brahmagupta, disagreed and kept the idea of a still Earth.",
+   "now": "He was right. The Earth spins once in about 24 hours, and this spin gives us day and night. Today India's first satellite, launched in 1975, is named after him.",
+   "status": "accepted",
+   "ask": "Aryabhata could not feel the Earth spin and could not see it from space. How could he work it out? What makes people keep an old idea even when a better one is offered?",
+   "day": 6
+  },
+  {
+   "id": "v3",
+   "who": "Isaac Newton (1643–1727), England, and Gottfried Wilhelm Leibniz (1646–1716), Germany",
+   "idea": "Newton said space is real by itself, like a fixed empty container that would exist even with nothing in it. Leibniz said space is only the way things are placed next to each other, so with no things there would be no space. Leibniz argued this in letters with Newton's friend Samuel Clarke in 1715 and 1716.",
+   "then": "Most scientists followed Newton for about 200 years, because his laws of motion worked so well inside his idea of space.",
+   "now": "Einstein's theory, about 100 years ago, showed that space can bend and stretch, so space is not a fixed box. But whether space could exist with nothing at all in it is still argued about by scientists and philosophers.",
+   "status": "debated",
+   "ask": "If you took every single thing out of the universe, even the air and the light, would there still be space? What makes you think so?",
+   "day": 4
+  },
+  {
+   "id": "v4",
+   "who": "Albert Einstein (1879–1955), Germany and USA, and the flying clocks of Joseph Hafele and Richard Keating (1971), USA",
+   "idea": "Einstein worked out, in 1905 and 1915, that time does not pass at the same rate for everyone. A clock moving very fast ticks slower, and a clock higher up, further from the Earth, ticks faster. In 1971 Hafele and Keating flew very exact clocks round the world on passenger planes and found they disagreed with clocks on the ground by tiny amounts, matching Einstein's maths.",
+   "then": "Many people found the idea very strange, because in everyday life all clocks seem to agree. Some scientists argued against it for years.",
+   "now": "It has been tested many times and always holds. GPS satellites carry clocks that tick about 38 millionths of a second a day faster than clocks on the ground, and engineers correct for this so maps work.",
+   "status": "accepted",
+   "ask": "The difference is far too small for any person to feel. Why do you think scientists trust it anyway? What evidence would convince you?",
+   "day": 9
+  }
+ ],
+ "story": {
+  "title": "The Bowl That Kept the Hours",
+  "text": [
+   "I am a copper bowl, about as wide as two hands, with a hole in my bottom no bigger than a grain of rice. I live in a big clay pot of water in the corner of a temple courtyard, in a town on the bank of the Kaveri. That was a long time ago. People here call me the nazhigai vattil, the bowl that keeps the hours.",
+   "My work is simple. Someone sets me floating on the water. Water creeps in through my hole, very slowly. I sit lower and lower. When I am full, I sink to the bottom with a soft knock. That is one nazhigai, a little less than half an hour. Then someone lifts me out, empties me, sets me floating, and strikes the gong. Sixty times I sink between one sunrise and the next.",
+   "For years the one who lifted me was Valli. Valli had strong brown hands and never hurried. But one morning in the rainy season, a neighbour's baby was coming early, and Valli ran to help. She left me with her daughter, Ponni, who was ten.",
+   "'Don't let anyone hurry you,' Valli said at the gate. 'The bowl knows. You only watch.'",
+   "Ponni had watched me a thousand times. She knew how my rim sat high at first, like a lotus leaf, and how the water inside me rose like a slow tide. Her little cousin Kumaran came to sit with her. He was six, and he could not sit still for anything.",
+   "That day was important. A wedding was to begin at the ninth nazhigai after sunrise, the hour the astrologer had chosen. The families were already in the courtyard, in silk that smelled of camphor and jasmine. The drummers were waiting. Everyone kept looking at the sky.",
+   "But the sky was one grey blanket. There was no Sun to see and no shadow to read on the old stone pillar. The shadow could tell the hour only when the Sun shone. Today it was no use at all.",
+   "Ponni counted. Each time I sank, she lifted me, emptied me, set me floating and struck the gong, and Kumaran tied a knot in a string. Five knots. Six. Seven. The rain came and went. The drummers went to drink buttermilk. The cooks peeped out of the kitchen with worried faces.",
+   "In the eighth nazhigai, an old man came and stood over Ponni. He was the bride's grandfather, tall, with a voice like a drum. 'Child,' he said, 'we have waited forever. My legs ache. Surely it is time. Strike the gong.'",
+   "Ponni looked at me. My rim was still a finger above the water.",
+   "'Not yet, Thatha,' she said.",
+   "'How can a bowl know better than all of us?' said the old man. 'We feel it. It has been hours.'",
+   "Kumaran pulled at Ponni's sleeve. 'It does feel long,' he whispered. 'It felt long since breakfast.'",
+   "Ponni thought about that. She thought of the afternoon she had played kites on the riverbank with her friends, and how the whole afternoon had gone by like one breath. She thought of the night she had a fever, and how one night had felt like a week.",
+   "'Kumaran,' she said, 'when you play, does time go fast?'",
+   "'Very fast.'",
+   "'And when you wait for food?'",
+   "'Very slow.'",
+   "'The bowl doesn't play, and it doesn't get hungry,' said Ponni. 'It doesn't get bored and it doesn't have aching legs. The water comes in through the hole at the same speed whether we are happy or tired. That's why we can trust it.' She said it to Kumaran, but she said it loud enough for the old man to hear.",
+   "The old man opened his mouth, and closed it again. He looked down at me. He watched the water climb inside me, as slow as before, as slow as always.",
+   "Everyone was quiet now. A crow on the wall stopped calling. Drops fell off the roof tiles, one, then another. My rim touched the surface. The water spilled in over my lip all at once, and I sank, and knocked softly on the bottom of the pot.",
+   "Ponni lifted me out, emptied me, set me floating, and struck the gong. Kumaran tied the ninth knot. The drums began, so loud the crow flew off, and the wedding started at the ninth nazhigai, exactly.",
+   "Late in the evening, when the rain had stopped, Valli came home tired and smiling. The neighbour had a baby girl. Ponni told her mother everything. Valli did not say well done. She only sat beside the pot with her daughter and watched me fill, the way she always did.",
+   "Kumaran fell asleep against Ponni's shoulder, holding his knotted string. And I kept sinking, and being lifted, and floating again, all through the night, sixty times from sunrise to sunrise, the same as always."
+  ],
+  "epiphany": "For the parent: the turn comes when the old man says 'we feel it, it has been hours' and Ponni sees the difference between felt time and clock time. A wait feels long and play feels short, but the bowl fills at the same steady speed whatever anyone feels. That is the rung's main idea: a clock counts something that repeats steadily. The second idea is in the grey sky: a shadow clock needs the Sun, but a water clock works in any weather. The nazhigai (24 minutes, 60 in a day) and the floating copper bowl are real Tamil ways of keeping time. Ponni, Valli and the wedding are made up. Don't explain this at the end. Let the questions bring it out.",
+  "ask": [
+   "Why did the shadow on the pillar not help that day?",
+   "The old man felt that hours had passed. Was he right? Why do you think so?",
+   "Why did Ponni trust the bowl more than everyone's feelings?",
+   "Kumaran tied a knot every time the bowl sank. Why was that useful?",
+   "Think of a time when an hour felt very short, and a time when it felt very long."
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Everything takes up space, and space has three directions.",
+   "more": "Even 'empty' air takes up room, as the dry tissue showed. Our space has three dimensions, length, width and height, so three numbers (coordinates) can find any spot, as in the coin hunt. Shadows and drawings are flat, with only two."
+  },
+  {
+   "idea": "A clock counts something that repeats at a steady speed.",
+   "more": "The Earth's spin gives the day, the Moon's trip gives the month and the Earth's trip round the Sun gives the year. A sinking cup and a swinging key also repeat steadily. Our feelings about time do not: a wait feels long and play feels short."
+  },
+  {
+   "idea": "Every event has a where and a when.",
+   "more": "To meet a friend you need a place and a time. Noon comes at different times in different places, so the world uses time zones. And because even light takes time to travel, looking at a far star means seeing it as it was long ago."
+  },
+  {
+   "idea": "Clocks do not all tick at exactly the same speed.",
+   "more": "Very exact clocks tick a tiny bit slower when moving fast, and a tiny bit faster when high up. The difference is far too small to feel, but GPS satellites must allow for it. Time is not exactly the same for every traveller."
+  }
+ ],
+ "unknowns": [
+  "Does space go on forever, or does it have an edge? Nobody knows. We can only see as far as light has had time to travel to us since the universe began.",
+  "Why does time only go forward? We remember yesterday but not tomorrow, and a broken egg never puts itself back together. Scientists are still working out why.",
+  "Are wormholes real? Einstein's maths allows the idea of a tunnel joining two far places, but nobody has ever found one, and most scientists think one could not stay open.",
+  "How does the brain feel time passing, and why does a wait feel longer than play? Scientists are still studying this."
+ ],
+ "big": [
+  "If you took everything out of the universe, would there still be space?",
+  "If nothing ever changed, would time still pass?",
+  "Is the time you feel less real than the time a clock shows?",
+  "Can two people both be right about what time it is?",
+  "A mayfly's adult life may last only a day, and a tortoise can live over 100 years. Is a short life a small life?"
+ ],
+ "challenge": [
+  {
+   "q": "'The Earth is flat, because it looks flat.'",
+   "hint": "A small piece of a big ball looks flat, as the ant's line on the orange did. Ships sailing away disappear from the bottom up, the Earth's shadow on the Moon during an eclipse is round, and photos from space show a ball. Aryabhata and Greek thinkers knew it was round more than 1,500 years ago. What would you show a friend to change their mind?"
+  },
+  {
+   "q": "'Time passes at exactly the same speed for everyone, everywhere.'",
+   "hint": "For everyday life it seems so. But very exact clocks flown on planes, and clocks on GPS satellites, tick slightly differently from clocks on the ground, just as Einstein worked out. The difference is tiny, much less than a millionth of a second. Does a difference you can never feel still matter?"
+  },
+  {
+   "q": "'Outer space is completely empty.'",
+   "hint": "Space between the stars has far fewer bits of matter than air, but not none. There are scattered atoms and dust, and light from stars crosses it all the time. Whether space with truly nothing in it can exist is still argued. What is the emptiest place you can think of on Earth? Is anything in it?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A Tamil timekeeper of long ago",
+   "view": "Counted the day in nazhigai of 24 minutes, sixty from sunrise to sunrise, using a copper bowl that sank in water. Many Tamil almanacs still count hours from sunrise. Ask: is it better to start the day at sunrise or at midnight? Why?"
+  },
+  {
+   "who": "A tea-garden worker in Assam",
+   "view": "The Sun rises very early in the far east of India, but India has one clock time. For many years the tea gardens set their clocks an hour ahead, called 'tea-garden time', to work with the Sun. Ask: should a whole country share one clock, or should each place follow its own Sun?"
+  },
+  {
+   "who": "Trees in a forest",
+   "view": "Every tree needs sunlight for their leaves, and branches that rub together can break and scrape. In some forests, the tops of neighbouring trees stop growing just before they touch, leaving thin gaps of sky. This is called crown shyness. Scientists are not sure why it happens: it may stop branches rubbing, or keep leaf-eating insects from crossing. Ask: why might a living thing need some space of their own?"
+  },
+  {
+   "who": "An ant walking on the floor",
+   "view": "Mostly lives on surfaces, going forward, back, left and right. She can climb a wall but does not jump high like you. Ask: does an ant live in the same space as you, or does her space feel different?"
+  }
+ ],
+ "books": [
+  {
+   "title": "Clocks and More Clocks",
+   "author": "Pat Hutchins",
+   "for": "read together",
+   "age": "4–7",
+   "why": "Mr Higgins buys clock after clock because each one seems to show a different time, until the clockmaker shows him that time passed while he walked between them. A funny way into how clocks work."
+  },
+  {
+   "title": "Me on the Map",
+   "author": "Joan Sweeney",
+   "for": "read together",
+   "age": "5–8",
+   "why": "A girl shows where she is: her room, her house, her street, her town, her country, the world. Good after the coin hunt, for thinking about where."
+  },
+  {
+   "title": "Just a Second",
+   "author": "Steve Jenkins",
+   "for": "read together",
+   "age": "6–10",
+   "why": "What happens in a second, a minute, an hour and a day across the living world, from a hummingbird's wingbeats to a growing tree. Shows that every being lives at their own pace."
+  },
+  {
+   "title": "Flatland: A Romance of Many Dimensions",
+   "author": "Edwin A. Abbott",
+   "for": "parent reads",
+   "age": "adult (retell parts)",
+   "why": "A square who lives in a flat, two-dimensional world is visited by a sphere. The parent can retell the meeting simply, after the three-dimension dance."
+  }
+ ],
+ "check": [
+  {
+   "q": "Is the gap between the bed and the wall really empty? How do you know?",
+   "a": "No. It is full of air. Air takes up space, as the dry tissue test showed: the air trapped in the tumbler kept the water out."
+  },
+  {
+   "q": "What are the three dimensions of our space?",
+   "a": "Length, width and height. That is why three numbers are needed to find a spot in a room."
+  },
+  {
+   "q": "Why is a shadow flat even when the object is solid?",
+   "a": "A shadow is the shape where light is blocked on a flat wall. It has only length and width (2D), even though the object has height too (3D)."
+  },
+  {
+   "q": "What does a clock need in order to keep time?",
+   "a": "Something that repeats at a steady speed, like a cup filling through a small hole, a swinging string or the spinning Earth."
+  },
+  {
+   "q": "Why is February 29 days long in some years?",
+   "a": "The Earth takes about 365 and a quarter days to go round the Sun. The extra quarters add up to one whole day every four years, so it is added to February in a leap year."
+  },
+  {
+   "q": "When it is noon in India, why is it night in the USA?",
+   "a": "The Earth is a spinning ball. When India faces the Sun, the USA is on the side facing away from it."
+  },
+  {
+   "q": "Name two ways to measure time that work even on a cloudy day.",
+   "a": "A water clock, like the cup that sinks in the same time every try, and a pendulum, like the key on a string. Counting steady breaths or heartbeats works roughly too. A shadow clock needs the Sun, so it fails on a cloudy day."
+  }
+ ]
+}

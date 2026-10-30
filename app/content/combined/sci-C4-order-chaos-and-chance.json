@@ -1,0 +1,1443 @@
+{
+ "key": "combined|sci|4|order-chaos-and-chance",
+ "board": "combined",
+ "subj": "sci",
+ "level": 4,
+ "n": "order-chaos-and-chance",
+ "title": "Order, chaos and chance: why things mix, spread and can't be fully predicted",
+ "source": "DeepKids Combined, The Deep End. A DeepKids topic that no board teaches at this class: counting arrangements and entropy, heat flow and the arrow of time, random walks, crystals and quasicrystals, probability with two dice, half-life, and chaos in weather. No textbook needed.",
+ "summary": "Four coins can land in 16 different ways, and only one of them is all heads. That simple count explains why a jar of rice and dal mixes but never sorts itself, why hot rasam cools but never warms up by itself, and why a film of a breaking egg looks wrong when it runs backwards. Your child melts ice on steel and on wood, grows salt crystals, and draws a random walk with a die. They find out why 7 is the commonest total with two dice, how a heap of coins can show the half-life of atoms, and why a weather forecast for three weeks ahead cannot be trusted, even though the weather follows exact rules.",
+ "builds_on": "In the Class 2 rung, children learned the words certain, likely, unlikely and impossible. They tossed coins, tested a lucky charm, saw colour spread faster in hot water, and found that a rice and dal jar mixes but won't un-mix. They saw that making order takes energy, and watched ants build a trail nobody planned. This rung counts the ways things can be arranged to explain why mixing and cooling happen by themselves (entropy). It adds the arrow of time, random walks, crystals, two-dice totals, half-life and chaos. Class 5 goes further into how life builds order from sunlight, and how ecosystems and weather balance order and chaos.",
+ "goals": [
+  "By the end your child can list all the ways 4 coins can land, and use the count to explain why mixed arrangements are far more likely than tidy ones (entropy).",
+  "By the end your child can explain why heat flows from hot to cold by itself, and why making a place cold, like a fridge does, puts heat somewhere else.",
+  "By the end your child can tell a change that runs only one way in time from one that could run either way, and give the reason.",
+  "By the end your child can work out the chance of each total with two dice by counting the 36 ways, and say why 7 comes up most.",
+  "By the end your child can explain how single random events, like one atom breaking down, are unpredictable, while a big crowd of them follows a steady pattern.",
+  "By the end your child can explain the butterfly effect: even with exact rules, tiny differences grow, so far-ahead forecasts fail."
+ ],
+ "subconcepts": [
+  "arrangements: counting the ways things can be ordered or mixed",
+  "entropy: tidy arrangements are few and mixed ones are many, so things mix by themselves",
+  "heat flows from hot to cold by itself (the second law of thermodynamics)",
+  "energy is never used up, but it spreads out and becomes less useful",
+  "making order in one place makes more disorder somewhere else: fridges, air conditioners and living bodies",
+  "the arrow of time: why a film run backwards looks wrong",
+  "random walks: random steps spread things out (diffusion and Brownian motion)",
+  "order that forms by itself when energy flows: crystals and cyclones",
+  "quasicrystals: order that never repeats, once called impossible",
+  "real randomness has long runs, and chance has no memory",
+  "more ways means more likely: the totals of two dice",
+  "many random events make a steady pattern (the law of large numbers)",
+  "half-life: atoms break down at random, yet a lump halves in a fixed time",
+  "chaos and the butterfly effect: exact rules, yet tiny differences grow",
+  "cause or coincidence: two things happening together does not prove one causes the other"
+ ],
+ "words": [
+  [
+   "arrangement",
+   "one particular way of placing things. Four coins showing heads, heads, tails, heads is one arrangement."
+  ],
+  [
+   "entropy",
+   "a measure of how many ways the tiny particles of something can be arranged, and how spread out its energy is. Mixed and spread-out things have high entropy."
+  ],
+  [
+   "diffusion",
+   "particles spreading out by themselves, from where there are many to where there are few. The smell of jasmine filling a room is diffusion."
+  ],
+  [
+   "particle",
+   "a piece of matter far too small to see, like the atoms and molecules that make up water, air and you."
+  ],
+  [
+   "probability",
+   "how likely something is to happen. It can be written as a number of ways out of all the ways, like 1 in 6 for a six on a die."
+  ],
+  [
+   "random",
+   "with no pattern or rule that tells you what comes next. A fair coin toss is random."
+  ],
+  [
+   "crystal",
+   "a solid whose particles sit in a neat pattern that repeats again and again, like salt, sugar and ice."
+  ],
+  [
+   "quasicrystal",
+   "a solid whose particles are arranged in a strict pattern that never repeats exactly. Dan Shechtman discovered the first one in 1982."
+  ],
+  [
+   "half-life",
+   "the time it takes for half of the radioactive atoms in a lump to break down. It is always the same for one kind of atom."
+  ],
+  [
+   "chaos",
+   "the way some things follow exact rules but still cannot be predicted far ahead, because tiny differences grow bigger and bigger. Weather is chaotic."
+  ],
+  [
+   "butterfly effect",
+   "the name for how a tiny change at the start can lead to a huge difference later. It comes from a talk by the weather scientist Edward Lorenz."
+  ],
+  [
+   "coincidence",
+   "two things that happen together by chance, without one causing the other."
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "Counting the ways",
+   "goal": "Count all the ways 4 coins can land, and use the count to explain why things mix by themselves but never sort themselves.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember Class 2",
+     "mins": 5,
+     "do": "Ask three questions about the Class 2 lesson on order and chance. 'When we shook rice and dal in a jar, what happened? Could we shake them back into layers?' (They mixed. Shaking never sorted them back.) 'Food colour spread in hot water and in cold water. Which was faster?' (Hot.) 'Name the four chance words.' (Certain, likely, unlikely, impossible.) If your child did not do Class 2, shake a spoon of rice and a spoon of dal together in a closed steel dabba now and look. Say: 'This week we find out why mixing happens by itself, and why some things can never be fully predicted.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Tidy and mixed",
+     "mins": 8,
+     "do": "Say: 'An arrangement is one particular way of placing things. A row of crayons from red to violet is one arrangement. The same crayons in a jumble is another.' Ask: 'If I throw the crayons in the air, how many ways can they land in a perfect rainbow row? And how many ways in a jumble?' Let your child think. Good answer: 'Only one rainbow row, and a huge number of jumbles.' Ask: 'So when you throw them, which are you more likely to get?' (A jumble.) Say: 'Let us count this properly with coins.'"
+    },
+    {
+     "kind": "act",
+     "title": "Every way 4 coins can land",
+     "mins": 15,
+     "do": "Do Activity a1. Your child lists every way 4 coins can land, using H for heads and T for tails, in a table in their notebook. Help them be careful so nothing is missed or written twice. There are 16 ways. Then they sort them by how many heads: 4 heads (1 way), 3 heads (4 ways), 2 heads (6 ways), 1 head (4 ways), no heads (1 way). Ask: 'Which group is the biggest?' (2 heads and 2 tails, with 6 ways.) Ask: 'Which groups are the smallest?' (All heads and all tails, with 1 way each.) Then toss 4 real coins 16 times and tally the groups. Usually 2 heads comes up most, but not always in only 16 tosses.",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "The word entropy",
+     "mins": 10,
+     "do": "Say: 'With 10 coins there are 1,024 ways to land. Only 1 of them is all heads. But 252 of them are exactly 5 heads and 5 tails.' Write 1 and 252 side by side. Ask: 'Now think of the rice and dal jar. It has thousands of grains. How many ways are there for them to sit in two neat layers? How many ways mixed?' Good answer: 'Very few neat ways, and so many mixed ways you can't count them.' Say: 'Scientists have a word for this: entropy. Entropy is a measure of how many ways the tiny particles of something can be arranged. Mixed things have more ways, so they have higher entropy. Shaking picks a new arrangement at random each time. Nearly every arrangement is a mixed one, so the jar stays mixed.' Say: 'The scientist Ludwig Boltzmann worked this out about 150 years ago. His idea is carved on his grave in Vienna.'"
+    },
+    {
+     "kind": "review",
+     "title": "One sentence",
+     "mins": 7,
+     "do": "Ask your child to finish this sentence in their notebook: 'Things mix by themselves but don't un-mix, because…' Good answer: 'there are far more mixed ways than tidy ways, so a random shake almost always gives a mixed way.' Then ask: 'Does your cupboard get messy faster than it gets tidy? Why?' Good answer: 'There are many messy ways and only a few tidy ways, so any careless move makes it messier.'"
+    }
+   ],
+   "need": [
+    "4 coins of the same kind",
+    "notebook and pencil"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Heat spreads out",
+   "goal": "See that heat flows from warm to cold by itself, find where a fridge puts its heat, and learn why a backwards film looks wrong.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Hot and cold hands",
+     "mins": 4,
+     "do": "Ask your child to rub their palms together fast for 10 seconds and then hold them on their cheeks. Ask: 'What did you feel?' (Warm hands.) Ask: 'Then what happened to the warmth?' (It went into the cheeks, and the hands cooled.) Say: 'Today we watch heat move.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Ice on steel and on wood",
+     "mins": 15,
+     "do": "Do Experiment e1. First let your child touch the steel plate and the wooden board and say which feels colder. Most children say steel. Ask: 'I will put one ice cube on each. Which cube will melt first? Why do you think so?' Write the guess down. Put the cubes down at the same moment and watch for 10 minutes. The cube on the steel melts much faster. Ask: 'The steel felt colder, but it melted the ice faster. How?' Let them think, then explain using the experiment's 'why'. Say: 'Heat always flows from the warmer thing to the colder thing, never the other way by itself. Scientists call this the second law of thermodynamics.'",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "Where does a fridge put its heat?",
+     "mins": 9,
+     "do": "Ask: 'A fridge makes ice. But heat never flows from cold to hot by itself. So how does a fridge do it?' Let your child guess. Then you both hold a hand near the back or sides of your fridge for a few seconds (do not touch any wires or the black grill). They feel warm. Say: 'The fridge uses electricity to pump heat out of the inside and push it into the kitchen. The inside gets colder and more ordered, like ice. The kitchen gets warmer.' If you have an air conditioner, ask: 'What does the box outside the window blow out?' (Hot air.) Say: 'To make order in one place, you always make more disorder somewhere else. Your body does this too. You keep yourself in order by eating food, and you give out heat all day.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Energy never runs out, but it spreads",
+     "mins": 9,
+     "do": "Pour a tumbler of hot water and let your child feel it from the outside. Ask: 'In an hour this water will be cool. Where will the heat have gone?' (Into the tumbler, the table and the air of the room.) Say: 'Scientists have found that energy is never used up. It only changes form and spreads out. But spread-out heat is hard to use. You can boil rice with a pot of hot water, but not with the slightly warm air of a whole room.' Ask: 'If the energy is still there, why can't the warm room heat the water back up?' Good answer: 'Because the heat is spread over so many air particles. There are far more spread-out ways than ways with all the heat in one tumbler.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The film that runs backwards",
+     "mins": 8,
+     "do": "Say: 'Imagine a film of an egg falling off the table and breaking. Now imagine it running backwards.' Ask: 'How would you know it was backwards?' (The egg would jump up and put itself together.) Ask your child to name three more things that would look wrong backwards. Good answers: smoke from an agarbatti gathering back into the stick, a cold cup of coffee getting hot by itself, mixed dal and rice sorting into layers. Then ask: 'What about a film of the Earth going round the Sun? Could you tell if it ran backwards?' Good answer: 'No. It would look normal either way.' Say: 'One planet moving through empty space can run either way. Things with huge numbers of particles mixing and spreading run only one way. That one-way direction is called the arrow of time.'"
+    }
+   ],
+   "need": [
+    "2 ice cubes of the same size",
+    "a steel plate",
+    "a wooden chopping board",
+    "a tumbler of hot water"
+   ],
+   "prep": [
+    {
+     "task": "Freeze 2 ice cubes of the same size",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Random steps and order that builds itself",
+   "goal": "Draw a random walk to see how random steps spread things out, start growing salt crystals, and see that order can form by itself when energy flows.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Smoke from an agarbatti",
+     "mins": 4,
+     "do": "If you light an agarbatti or a lamp at home, light one now (a grown-up does this). Ask your child to watch the smoke. It rises in a thin line, then wobbles and spreads into the room. Ask: 'Does any of the smoke ever come back together?' (No.) If you don't light one, ask your child to remember the smell of jasmine or frying onions spreading through the house."
+    },
+    {
+     "kind": "act",
+     "title": "The random walk",
+     "mins": 16,
+     "do": "Do Activity a2. Your child puts a dot in the middle of a page of squared paper and rolls a die to choose each step: 1 up, 2 down, 3 left, 4 right, 5 or 6 roll again. They draw 30 steps. Then someone else in the family draws their own walk from a dot of a different colour. Ask: 'Did the two walks go the same way?' (No.) 'Did either walk come back to the start and stay there?' (No.) Say: 'Each particle of smoke or of food colour is bumped this way and that by air or water particles, like your die choosing steps. Nobody pushes them outwards. But random steps carry them further and further from where they started. That is diffusion.' Then say: 'In 1827 a Scottish scientist, Robert Brown, saw tiny specks from pollen grains jiggling in water under a microscope. In 1905, Albert Einstein explained that water particles were bumping them. Experiments by Jean Perrin a few years later showed he was right, and helped prove that atoms are real.'",
+     "ref": "a2"
+    },
+    {
+     "kind": "exp",
+     "title": "Start the salt crystals",
+     "mins": 12,
+     "do": "Set up Experiment e2. Your child stirs salt into half a cup of warm water, one teaspoon at a time, until some salt stays at the bottom however long they stir. They pour a thin layer of the clear water onto a dark steel plate or a piece of black paper on a plate. Put it on a sunny windowsill. Ask: 'When the water dries, what will the salt look like? Like powder, or something else?' Write the guess on a slip and keep it near the plate.",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Order that makes itself",
+     "mins": 8,
+     "do": "Say: 'Salt crystals are tiny cubes. A crystal is a solid whose particles sit in a pattern that repeats again and again. Nobody arranges them. As the water dries, the salt particles settle into the pattern by themselves.' Ask: 'But we said things get more mixed, not more ordered. How can that be?' Let your child think. Then say: 'While the salt makes order, the water spreads into the air as vapour, and the Sun's heat spreads into the room. Counting everything, the disorder still goes up.' Say: 'A cyclone over the Bay of Bengal is a huge, neat spiral of cloud. It forms by itself from the energy of warm sea water, and it dies out when that energy stops, over land or cold water. Order can form by itself where energy flows through.'"
+    },
+    {
+     "kind": "act",
+     "title": "Dice music",
+     "mins": 5,
+     "do": "Do Activity a6. Your child taps a steady beat on a steel plate with a spoon: 8 taps, all the same. Then they roll a die 8 times and use each number to choose the sound: 1 or 2 a soft tap, 3 or 4 a loud tap, 5 a clap, 6 a rest (silence). They play it twice. Ask: 'Which was more interesting to hear, the steady beat or the dice tune? Which could you remember better?' Say: 'Some composers and artists use dice or computers to bring chance into their work, and keep rules for the rest.'",
+     "ref": "a6"
+    }
+   ],
+   "need": [
+    "a die",
+    "squared notebook paper and two coloured pencils",
+    "salt, half a cup of warm water and a teaspoon",
+    "a dark steel plate, or black paper on a plate",
+    "a steel plate and a spoon"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Real chance and pretend chance",
+   "goal": "Find out that real random tosses have long runs, that chance has no memory, and read a story about a girl who was called unlucky.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Check the salt plate",
+     "mins": 4,
+     "do": "Look at the salt plate with your child. If the water has dried at the edges, look closely there, with a magnifying glass or a phone camera zoomed in. Tiny white shapes may be starting. Ask: 'What shape do they seem to be?' Don't explain yet. Leave the plate to dry more."
+    },
+    {
+     "kind": "act",
+     "title": "Real tosses or made-up tosses?",
+     "mins": 18,
+     "do": "Do Activity a3. Leave the room. Your child writes two lists of 50 H and T. For one list they really toss a coin 50 times. For the other they make up 50 tosses in their head, trying to make it look random. They don't tell you which is which. Come back, look for the longest run of the same letter in each list, and guess which list is real. The real list usually has a run of 5 or more, like HHHHH. The made-up list usually switches too often and has no long runs. Ask: 'Why do people's made-up lists have so few long runs?' Good answer: 'We think a run looks like a pattern, so we switch. But a real coin doesn't care.'",
+     "ref": "a3"
+    },
+    {
+     "kind": "talk",
+     "title": "Chance has no memory",
+     "mins": 8,
+     "do": "Say: 'In Class 2 we said each toss starts fresh. A coin has no memory. Now let us see what that means for runs.' Say: 'If you need a 1 on a die, you have a 1 in 6 chance each throw. If you throw 15 times, how often will you get no 1 at all?' Let your child guess. Say: 'It happens to about 1 in every 15 people who try. So if 15 people play, one of them will probably wait that long. It is not bad luck sticking to that person. It is just a run.' Ask: 'Why might people call that person unlucky?' Good answer: 'They notice the long wait and forget that it had to happen to someone.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Night of the Long Wait",
+     "mins": 12,
+     "do": "Read the story aloud. It is set in Srirangam on Vaikunta Ekadasi, a night when many families stay awake and play Paramapadam, the old Indian snakes and ladders. Read it slowly, and pause after Meenakshi's notebook comes out. Ask: 'What do you think she will find?' Read on to the end. Don't explain the ending. Ask the story's questions."
+    },
+    {
+     "kind": "review",
+     "title": "One sentence",
+     "mins": 3,
+     "do": "Ask your child to finish: 'A long run of tails does not mean the coin is broken, because…' Good answer: 'real chance makes long runs, and each toss starts fresh.'"
+    }
+   ],
+   "need": [
+    "a coin",
+    "notebook and pencil",
+    "a magnifying glass, or a phone camera"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "More ways, more likely",
+   "goal": "Count the 36 ways two dice can land, start the dice survey, see the salt crystals, and hear about the crystal that was called impossible.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Back to the story",
+     "mins": 5,
+     "do": "Ask: 'In the story, why did Meenakshi stop believing the die hated her?' Good answer: 'Her tally showed long waits for a 1 happen by chance, to anyone. Then Arun had a long wait too.' Ask: 'What did she mean when she said the die doesn't know who is holding it?' (It can't remember or choose. Every throw is fresh.)"
+    },
+    {
+     "kind": "act",
+     "title": "The 36 ways of two dice",
+     "mins": 15,
+     "do": "Do Activity a4. Your child draws a 6 by 6 table. Along the top they write 1 to 6 for the red die, and down the side 1 to 6 for the blue die (or the first and second throw of one die). In each box they write the total. Then they count how many boxes have each total from 2 to 12. Ask: 'Which total has the most boxes?' (7, with 6 boxes.) 'Which have the fewest?' (2 and 12, with 1 box each.) Ask: 'How is this like the coins and the rice and dal jar?' Good answer: 'The total with the most ways is the most likely, just as mixed is most likely because it has the most ways.'",
+     "ref": "a4"
+    },
+    {
+     "kind": "act",
+     "title": "Start the dice survey",
+     "mins": 10,
+     "do": "Start the project. Your child throws two dice (or one die twice) 36 times and makes a tally mark for each total in a list from 2 to 12. Ask before starting: 'From the table, which total should win?' (7.) After 36 throws, look. Usually 7 or 6 or 8 is high, but in only 36 throws the result is often lumpy. Say: 'We will add more throws every day and see if the shape changes.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Look at the salt crystals",
+     "mins": 7,
+     "do": "Look at the dried salt plate with a magnifying glass or a zoomed phone camera. Ask your child to draw three of the shapes they see. Many will be tiny cubes or square shapes, some stuck together. Read the guess slip from Day 3. Ask: 'Did anyone put the salt particles into cubes?' (No. They settled into that pattern by themselves.) Say: 'In table salt, every crystal grows in the same cube pattern, repeated again and again.'",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "The crystal that was impossible",
+     "mins": 8,
+     "do": "Tell Voice v1 in your own words: Dan Shechtman's crystal pattern that repeated in a way the textbooks said was impossible, how he was asked to leave his research group, and how he won the Nobel Prize 29 years later. Ask the voice's question: 'Everyone said Shechtman was wrong. What made him keep going, and what made the others change their minds in the end?' Good answer: 'He trusted what he saw and checked it many times. Other scientists made the same crystals and saw the same pattern.'",
+     "ref": "v1"
+    }
+   ],
+   "need": [
+    "2 dice, or 1 die thrown twice",
+    "notebook and pencil",
+    "the salt plate from Day 3",
+    "a magnifying glass, or a phone camera"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Random atoms, steady halves",
+   "goal": "Play the half-life game to see how single random events add up to a steady pattern, and meet Marie Curie and chance in DNA.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Add to the dice survey",
+     "mins": 5,
+     "do": "Your child throws two dice 20 more times and adds the tallies to the project list. Ask: 'Is the shape getting smoother, or is it still lumpy?' Most families see the middle totals pulling ahead."
+    },
+    {
+     "kind": "exp",
+     "title": "The half-life game",
+     "mins": 16,
+     "do": "Do Experiment e3. Put 32 coins in a shoebox, close the lid and shake. Open it and take out every coin showing heads. Count the coins left and write the number. Repeat until no coins are left. Before you start, ask: 'How many will be left after the first shake? After the second? Why do you think so?' Results go roughly 32, 16, 8, 4, 2, 1, but never exactly. Ask: 'Could you say which coin would be taken out next?' (No.) 'Could you say roughly how many?' (Yes, about half.) Then explain using the experiment's 'why'.",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "The woman who found energy inside atoms",
+     "mins": 8,
+     "do": "Tell Voice v2 in your own words: Marie Curie found that the rays from uranium come from inside the atoms themselves, named this radioactivity, and almost did not get the credit. Ask the voice's question: 'The prize committee nearly left Marie Curie out, even though the work was hers. How could you make sure the right person gets the credit for a discovery?' Good answers: 'Look at who did the experiments and wrote the notebooks.' 'Ask the people who worked with them.'",
+     "ref": "v2"
+    },
+    {
+     "kind": "talk",
+     "title": "Chance inside living things",
+     "mins": 6,
+     "do": "Say: 'Every time one of your cells divides, it copies its DNA, the long instructions inside it. The copying is very careful, but now and then a small mistake happens by chance. These changes are called mutations.' Say: 'Each baby is born with a few dozen small changes in their DNA that neither parent had. Most do nothing at all. A few change something, and over very long times, those chance changes are where new kinds of plants and animals come from.' Ask: 'Is that like the coins, or like the dice table?' Good answer: 'Like the coins. You can't say which bit of DNA will change, but you can say roughly how many changes there will be.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 10,
+     "do": "Do Worksheet ws1 together. Read each question aloud. For the written questions, ask your child to say the answer first, then write it. Section C needs them to use what they saw on Days 1 to 3, so remind them of the coins, the ice and the random walk if they are stuck.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "32 coins of any kind, or 32 small cardboard squares with one side coloured",
+    "a shoebox with a lid",
+    "2 dice",
+    "the worksheet"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Chaos: when tiny differences grow",
+   "goal": "See that things can follow exact rules and still be unpredictable, play the doubling game, and hear how the butterfly effect was found.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Dice survey and a steady breath",
+     "mins": 5,
+     "do": "Your child throws two dice 20 more times for the project. Then sit together. Breathe in for a count of 4 and out for a count of 4, five times. Ask: 'Could you predict your next breath?' (Yes, while you count.) 'Could you predict exactly how you will breathe at this time tomorrow?' (No.)"
+    },
+    {
+     "kind": "act",
+     "title": "Flat paper and crumpled paper",
+     "mins": 10,
+     "do": "Do Activity a5. Your child stands on a chair with a grown-up holding it and drops a flat sheet of newspaper 5 times from the same spot, marking where it lands each time with a small paper slip. Then they crumple the same sheet into a tight ball and drop it 5 times. Ask: 'Which landed in the same place each time?' (The ball.) 'Did the flat sheet follow different rules from the ball?' Good answer: 'No. Gravity and air push on both. But the flat sheet's path changes with tiny differences in how it is let go and how the air moves.'",
+     "ref": "a5"
+    },
+    {
+     "kind": "act",
+     "title": "The doubling game",
+     "mins": 12,
+     "do": "Do Activity a7. You start at 13 and your child starts at 14. The rule: double your number. If the answer is more than 100, take away 100. Do 8 steps each and write both lists side by side. 13 goes 26, 52, 4, 8, 16, 32, 64, 28. 14 goes 28, 56, 12, 24, 48, 96, 92, 84. Ask: 'We started only 1 apart. How far apart are we after 8 steps?' (28 and 84, which is 56 apart.) Ask: 'Did we follow exactly the same rule?' (Yes.) Say: 'This is called chaos: exact rules, but a tiny difference at the start grows and grows. The weather works like this.'",
+     "ref": "a7"
+    },
+    {
+     "kind": "talk",
+     "title": "The rounded-off number",
+     "mins": 10,
+     "do": "Tell Voice v3 in your own words: Edward Lorenz's weather program, the number he typed in short, and the two women who wrote and ran the programs, Margaret Hamilton and Ellen Fetter. Say: 'Weather forecasts for tomorrow and the next few days are usually good. About two weeks ahead, nobody can say what one day's weather will be.' Ask the voice's question: 'Lorenz thanked Ellen Fetter in one line at the end of his famous paper. Should her name have been on the paper with his? Why?' Let your child give reasons both ways.",
+     "ref": "v3"
+    },
+    {
+     "kind": "talk",
+     "title": "Could anyone know the whole future?",
+     "mins": 8,
+     "do": "Tell Voice v4 in your own words: Pierre-Simon Laplace's idea of a mind that knows everything and so knows the future. Ask: 'From the doubling game, how exactly would that mind need to know the starting numbers?' Good answer: 'Perfectly, with no rounding at all, because any tiny error grows.' Then ask the voice's question.",
+     "ref": "v4"
+    }
+   ],
+   "need": [
+    "2 dice",
+    "a sheet of newspaper",
+    "small paper slips",
+    "a sturdy chair, and a grown-up to hold it",
+    "notebook and pencil"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Cause or coincidence?",
+   "goal": "Tell a real cause from a coincidence, see games where both sides gain, play Which Way Does Time Go?, and do the stretch worksheet.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Last dice throws",
+     "mins": 5,
+     "do": "Your child throws two dice 20 more times and adds the tallies. That makes 96 throws. Ask: 'Which total is ahead now? Is it the one the 36-way table predicted?'"
+    },
+    {
+     "kind": "talk",
+     "title": "Umbrellas and colds",
+     "mins": 9,
+     "do": "Say: 'In July, shops in Bengaluru sell more umbrellas. In July, more people also catch colds.' Ask: 'Do umbrellas cause colds?' Let your child think. Good answer: 'No. The rainy season causes both. People buy umbrellas for the rain, and colds spread more in the rainy months.' Say: 'When two things happen together by chance, or because of a third thing, without one causing the other, it is a coincidence.' Ask: 'How could you test whether one thing really causes another?' Good answer: 'Change only that one thing, keep everything else the same, and try it many times.' Ask your child to think of one more pair of things that happen together without one causing the other."
+    },
+    {
+     "kind": "talk",
+     "title": "When both sides gain",
+     "mins": 6,
+     "do": "Say: 'In a game of chess, if one player wins, the other loses. A game like that is called zero-sum: one side's gain is the other side's loss.' Ask: 'When a bee visits a flower, who gains?' Good answer: 'Both. The bee gets nectar, and the flower's pollen is carried to another flower.' Ask: 'When you teach a friend a song, do you lose the song?' (No. Now you both have it.) Say: 'Energy is a bit like a zero-sum total, because it is never made or lost. But living things share and trade in many ways where both sides gain.'"
+    },
+    {
+     "kind": "game",
+     "title": "Which Way Does Time Go?",
+     "mins": 13,
+     "do": "Play Game g1, cut out the night before. Each card shows two moments, A and B. The player says which came first, or that it could go either way, and gives a reason using what we found this week: heat spreads, things mix, there are more mixed ways. Play for 12 minutes, then read the backs of any cards you argued about.",
+     "ref": "g1"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 12,
+     "do": "Do Worksheet ws2. Your child reads each question alone and answers it. Help only with reading. For the perspective question, they choose a side, give a reason, then answer back from another side.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "2 dice",
+    "the cut-out cards of Which Way Does Time Go?",
+    "the worksheet"
+   ],
+   "prep": [
+    {
+     "task": "Print and cut out the cards of Which Way Does Time Go?",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "title": "The shape of chance, and teach it back",
+   "goal": "Finish the dice survey, do the challenge worksheet and the check, and teach the big ideas back to someone at home.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "One-minute map",
+     "mins": 4,
+     "do": "Ask your child to say, in one minute, three things that happen by themselves (mixing, cooling, spreading) and three that need energy (a fridge making ice, tidying, a body staying warm)."
+    },
+    {
+     "kind": "act",
+     "title": "Finish the dice survey",
+     "mins": 10,
+     "do": "Finish the project. Your child draws a bar for each total from 2 to 12 from the 96 tallies, and next to it a bar chart of the 36-way table from Day 5. Ask: 'Do the two shapes look alike?' Usually the survey is roughly the same tent shape, highest in the middle, but a little uneven. Ask: 'If we threw 1,000 times, would it be more like the table or less?' Good answer: 'More like it. Many random throws make a steadier pattern.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 13,
+     "do": "Do Worksheet ws3. These questions are harder and some have no single right answer. Let your child talk through each answer before writing. Praise the reasoning, not just the answer.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "The check",
+     "mins": 12,
+     "do": "Ask the check questions aloud, one at a time. Let your child answer in full sentences. If an answer is shaky, go back to the coins, the ice or the doubling game and do that part again for a minute."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 6,
+     "do": "Your child teaches someone at home, like a grandparent, cousin or neighbour, using the 4 coins and the doubling game. They must explain why things mix by themselves and why the weather three weeks ahead can't be forecast. The listener asks one 'why' question, and your child answers it."
+    }
+   ],
+   "need": [
+    "the dice survey tallies",
+    "squared paper and coloured pencils",
+    "4 coins",
+    "the worksheet"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Mixing, spreading and chance",
+   "day": 6,
+   "sections": [
+    [
+     "A. Ways and spreading",
+     [
+      {
+       "t": "mcq",
+       "p": "Kavya tosses 4 coins at once. Which result is she most likely to get?",
+       "opts": [
+        "2 heads and 2 tails",
+        "4 heads",
+        "4 tails"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "4 coins can land in 16 different ways. Only ____ of these ways is all heads.",
+       "a": [
+        "1",
+        "one"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Lakshmi puts one ice cube on a steel plate and one on a wooden board. Which melts first?",
+       "opts": [
+        "The one on the steel plate",
+        "The one on the wooden board",
+        "Both melt at the same time"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Does it happen by itself, or must energy be used to make it happen?",
+       "items": [
+        "hot rasam cools down",
+        "water turns to ice in the freezer",
+        "the smell of jasmine spreads through the house",
+        "a messy cupboard becomes tidy",
+        "ice cream melts on a plate",
+        "an air conditioner cools a room",
+        "a drop of ink spreads in water",
+        "mixed rice and dal are sorted into two heaps"
+       ],
+       "cats": [
+        "happens by itself",
+        "needs energy to be used"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Chance",
+     [
+      {
+       "t": "mcq",
+       "p": "Farhan has rolled a die 12 times and got no 6. What is his chance of a 6 on the next roll?",
+       "opts": [
+        "Still 1 in 6",
+        "More than 1 in 6, because a 6 is due",
+        "Less than 1 in 6, because the die is unlucky"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "With two dice, a total of 7 can be made in ____ ways out of 36.",
+       "a": [
+        "6",
+        "six"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each word to what it means.",
+       "pairs": [
+        [
+         "entropy",
+         "a measure of how many ways things can be arranged"
+        ],
+        [
+         "diffusion",
+         "particles spreading out by themselves"
+        ],
+        [
+         "half-life",
+         "the time for half the atoms in a lump to break down"
+        ],
+        [
+         "crystal",
+         "a solid whose particles sit in a repeating pattern"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Revathi puts 32 coins in a box, shakes it and takes out every coin showing heads. About how many coins are left?",
+       "opts": [
+        "about 16",
+        "about 30",
+        "none"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "A hot cup of rasam on the table cools down. Why does it never get hotter by itself? Where does its heat go?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Shaking a jar mixes rice and dal. Use the count of the 4 coins to explain why more shaking never sorts them back into layers.",
+       "lines": 3
+      },
+      {
+       "t": "draw",
+       "p": "Draw your random walk from Day 3 and someone else's. Mark where each one started and ended. Write one sentence about how far each walk went from the start."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Predicting chance and chaos",
+   "day": 8,
+   "sections": [
+    [
+     "A. Predict",
+     [
+      {
+       "t": "mcq",
+       "p": "Meenakshi tosses 10 coins at once. Which result is she most likely to get?",
+       "opts": [
+        "5 heads and 5 tails",
+        "10 heads",
+        "9 heads and 1 tail"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "In the half-life game, you start with 32 coins and take out the heads after each shake. After 2 shakes, about ____ coins are left.",
+       "a": [
+        "8",
+        "eight"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Two things that happen together, without one causing the other, are a ____.",
+       "a": [
+        "coincidence"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Ammu and her brother Bala throw two dice again and again. Ammu wins a point when the total is 7. Bala wins a point when the total is 2 or 12. Who will usually win more points?",
+       "opts": [
+        "Ammu, because 7 can be made in 6 ways",
+        "Bala, because he has two totals",
+        "Both the same"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "You roll one ordinary die, with faces 1 to 6. Match each event to how likely it is.",
+       "pairs": [
+        [
+         "You roll a number less than 7",
+         "certain"
+        ],
+        [
+         "You roll an 8",
+         "impossible"
+        ],
+        [
+         "You roll a 6",
+         "unlikely: 1 in 6"
+        ],
+        [
+         "You roll an even number",
+         "even chance: 3 in 6"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Chaos",
+     [
+      {
+       "t": "mcq",
+       "p": "Tara and Ravi play the doubling game. Tara starts at 13 and Ravi at 14. Each doubles their number, and takes away 100 if it goes over 100. What happens after 8 steps?",
+       "opts": [
+        "Their numbers are very far apart",
+        "Their numbers are still 1 apart",
+        "Their numbers are the same"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Why can tomorrow's weather be forecast well, but not the weather three weeks from now?",
+       "opts": [
+        "Tiny differences in the air today grow bigger every day",
+        "Weather follows no rules at all",
+        "Forecasters only try to forecast tomorrow"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Can it be predicted well, or not?",
+       "items": [
+        "about half heads in 1,000 coin tosses",
+        "whether the next toss is heads",
+        "where a flat sheet of paper lands",
+        "where a crumpled paper ball lands",
+        "the monsoon reaching Kerala some time around early June",
+        "whether it rains in Mysuru on 3 July next year",
+        "how many of 32 coins are left after one shake: about 16",
+        "exactly which coins are left after one shake"
+       ],
+       "cats": [
+        "can predict well",
+        "cannot predict well"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "Arun, a boy of 10, waited 15 throws for a 1 on a die. He says the die is unlucky. Is he right? How could you test whether the die is fair?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "A farmer near Madurai must decide when to sow her paddy. Who gives the most useful advice? A weather forecaster says: 'Our forecasts for the next 5 days are good. Use them to choose the day to sow, spray or harvest.' An old farmer says: 'I sow when the rains usually come here. No forecast can say six weeks ahead which day it will rain.' A scientist who studies the monsoon says: 'We can't forecast single days far ahead, but we can give a rough guess months ahead of whether the whole season will be wetter or drier than usual.' Pick the advice you would follow. Give a reason. Then say what the other two would answer back.",
+       "lines": 5,
+       "a": "A strong answer says that single days can only be forecast a few days ahead because weather is chaotic, while averages over a season or many years are steadier. It uses each kind of advice for what it is good at."
+      },
+      {
+       "t": "write",
+       "p": "In July, more umbrellas are sold, and more people catch colds. Selvi says umbrellas cause colds. What is really going on?",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "The big puzzles of order and chance",
+   "day": 9,
+   "sections": [
+    [
+     "A. Count and reason",
+     [
+      {
+       "t": "mcq",
+       "p": "10 coins can land in 1,024 ways. 1 way is all heads. 252 ways are exactly 5 heads. How many times more likely is 5 heads than all heads?",
+       "opts": [
+        "252 times",
+        "5 times",
+        "2 times"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "You throw two dice. What is the chance that the total is 2?",
+       "opts": [
+        "1 in 36",
+        "1 in 6",
+        "1 in 11"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Edward Lorenz typed 0.506 into his weather program instead of 0.506127. The forecast came out completely different. This is called the ____ effect.",
+       "a": [
+        "butterfly"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Hot filter coffee is left on the table in a room. After two hours, what is true?",
+       "opts": [
+        "The coffee is the same temperature as the room",
+        "The coffee is colder than the room",
+        "The coffee is still hotter than the room, and the room is cold"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Is it zero-sum (one side's gain is the other side's loss), or can both sides gain?",
+       "items": [
+        "a game of chess",
+        "a bee visiting a flower",
+        "teaching a friend to swim",
+        "two crows fighting over one piece of bread",
+        "a tug of war",
+        "singing a song together",
+        "sharing a recipe",
+        "two people wanting the last seat on a bus"
+       ],
+       "cats": [
+        "zero-sum",
+        "both can gain"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each person to what they found.",
+       "pairs": [
+        [
+         "Ludwig Boltzmann",
+         "entropy is a count of the ways atoms can be arranged"
+        ],
+        [
+         "Dan Shechtman",
+         "crystals with a pattern that never repeats"
+        ],
+        [
+         "Marie Curie",
+         "radioactivity comes from inside atoms"
+        ],
+        [
+         "Edward Lorenz",
+         "tiny differences make the weather unpredictable far ahead"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Explain",
+     [
+      {
+       "t": "write",
+       "p": "A plant builds a neat, ordered leaf from air and water. Does this break the rule that disorder always grows? Explain where the extra disorder goes.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Meenakshi says the air conditioner 'makes cold'. Explain where the heat from the room goes, and why the street outside gets a little warmer.",
+       "lines": 4
+      },
+      {
+       "t": "draw",
+       "p": "Draw two frames of a film: an agarbatti with a thin line of smoke, and the room full of spread-out smoke. Number them 1 and 2 in the right order, and write how you know."
+      }
+     ]
+    ],
+    [
+     "C. Pick a side",
+     [
+      {
+       "t": "write",
+       "p": "Could anyone, in principle, know the whole future? Pierre-Simon Laplace, a French scientist writing in 1814, says: 'A mind that knew where every particle is and every force on it could work out the whole future.' A scientist who studies chaos says: 'That mind would need every number exact, to endless decimal places. Any tiny error grows, so in practice the far future can't be known.' A physicist who studies atoms says: 'Some events, like the moment one atom breaks down, seem to have no cause that decides them at all.' Pick the view you find strongest. Give a reason from this week. Then answer back from one of the other views.",
+       "lines": 5,
+       "a": "A strong answer uses the doubling game to show how tiny errors grow, and the half-life game to show single events that can't be predicted. It notices that scientists still argue about whether true chance exists."
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Ice on steel and on wood",
+   "day": 2,
+   "question": "Steel feels colder than wood. So which one melts ice faster?",
+   "need": [
+    "2 ice cubes of the same size",
+    "a steel plate",
+    "a wooden chopping board",
+    "a clock or phone timer"
+   ],
+   "steps": [
+    "Leave the steel plate and the wooden board side by side on the table for 10 minutes, so both are at room temperature.",
+    "Ask your child to touch each one and say which feels colder.",
+    "Put one ice cube on the plate and one on the board at the same moment.",
+    "Watch for 10 minutes. Every 2 minutes, say how much of each cube is left.",
+    "At the end, compare the two cubes."
+   ],
+   "predict": "Ask your child to guess first: 'The steel feels colder. Which cube will melt first? Why do you think so?'",
+   "observe": "The cube on the steel plate melts much faster, often more than twice as fast, and sits in a puddle. The cube on the wood stays nearly whole for longer.",
+   "why": "Both the plate and the board were at room temperature. Heat always flows from a warmer thing to a colder thing. Steel carries heat very well, so heat from the steel and the air around it flows quickly into the ice. Wood carries heat slowly. Steel felt colder for the same reason: it carried heat away from your warm hand quickly.",
+   "safety": "None, apart from wiping up the water so nobody slips.",
+   "time": "15 min"
+  },
+  {
+   "id": "e2",
+   "title": "Grow salt crystals",
+   "day": 3,
+   "question": "When salty water dries, does the salt come back as powder, or in some shape?",
+   "need": [
+    "half a cup of warm water (from the tap, or warmed by a grown-up)",
+    "table salt, about 8 teaspoons",
+    "a teaspoon",
+    "a dark steel plate, or black paper on a plate",
+    "a magnifying glass, or a phone camera"
+   ],
+   "steps": [
+    "Stir 1 teaspoon of salt into the warm water until it disappears.",
+    "Keep adding salt one teaspoon at a time and stirring, until some salt stays at the bottom however long you stir.",
+    "Let it settle for a minute. Pour a thin layer of the clear water onto the dark plate, leaving the undissolved salt behind.",
+    "Put the plate on a sunny windowsill or another warm place, where nobody will knock it.",
+    "Check it every day. When it is dry, look at it with the magnifying glass or a zoomed-in phone camera, and draw what you see."
+   ],
+   "predict": "Ask your child to guess first: 'When the water dries, will the salt look like powder, or something else? Why do you think so?'",
+   "observe": "In 1 to 3 days, white crystals appear, first at the edges. Up close, many are tiny cubes or squares, some joined together in steps.",
+   "why": "Salt is made of two kinds of particles, sodium and chloride, held together by electric forces. As the water evaporates, there is not enough water to keep them apart, and they settle into the arrangement that fits best: a cube pattern repeated again and again. Nobody arranges them. While the salt becomes ordered, the water spreads into the air as vapour and the Sun's heat spreads into the room, so the total disorder still goes up.",
+   "safety": "A grown-up warms the water if it needs heating. Do not taste the salty water in large amounts.",
+   "time": "12 min to set up, then 1 to 3 days to dry"
+  },
+  {
+   "id": "e3",
+   "title": "The half-life game",
+   "day": 6,
+   "question": "If each coin is taken out at random, can we still predict how many are left?",
+   "need": [
+    "32 coins of any kind, or 32 small squares of cardboard with one side coloured",
+    "a shoebox with a lid",
+    "notebook and pencil"
+   ],
+   "steps": [
+    "Put all 32 coins in the shoebox and close the lid.",
+    "Shake the box well for 5 seconds.",
+    "Open it. Take out every coin showing heads (or every square with the coloured side up) and put them aside.",
+    "Count the coins left in the box and write the number in a list.",
+    "Close the lid and repeat, until no coins are left.",
+    "Play the whole game a second time and write a second list."
+   ],
+   "predict": "Ask your child to guess first: 'How many coins will be left after the first shake? After the second? How many shakes until none are left?'",
+   "observe": "The numbers go roughly 32, 16, 8, 4, 2, 1, 0, but never exactly. The second game gives slightly different numbers, with the same halving pattern. It usually takes about 5 to 8 shakes to empty the box.",
+   "why": "Each coin has an even chance of landing heads, and no coin knows what the others did. You can never say which coin goes next. But with many coins, about half go each shake. Radioactive atoms behave the same way. Each atom breaks down at a random moment, and nothing we know of decides when. But in a big lump, half the atoms break down in a fixed time, called the half-life. Carbon-14, found in all living things, has a half-life of about 5,730 years. Scientists use it to find the age of old wood and bones.",
+   "safety": "None.",
+   "time": "16 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Every way 4 coins can land",
+   "day": 1,
+   "mins": 15,
+   "need": [
+    "4 coins",
+    "notebook and pencil"
+   ],
+   "steps": [
+    "Write the four coins as first, second, third and fourth.",
+    "List every way they can land, using H and T, for example HHTH. A good method: start with HHHH, then all the ways with one T, then two Ts, then three Ts, then TTTT.",
+    "Check the count: there are 16 ways.",
+    "Sort the 16 ways into groups by the number of heads: 4, 3, 2, 1 and 0.",
+    "Toss the 4 real coins 16 times, and tally which group each toss falls in.",
+    "Compare the tally with the count."
+   ],
+   "outcome": "A table of all 16 arrangements, showing that 2 heads and 2 tails has the most ways (6), and all heads or all tails the fewest (1 each)."
+  },
+  {
+   "id": "a2",
+   "title": "The random walk",
+   "day": 3,
+   "mins": 16,
+   "need": [
+    "a die",
+    "squared notebook paper",
+    "two coloured pencils"
+   ],
+   "steps": [
+    "Put a dot in the middle of a page of squared paper. This is the start.",
+    "Roll the die. 1 means move one square up, 2 down, 3 left, 4 right. On 5 or 6, roll again.",
+    "Draw a line one square long in that direction.",
+    "Do 30 steps, then mark the end with a star.",
+    "Someone else draws a walk of 30 steps from the same start dot, in a different colour.",
+    "Count how many squares each end is from the start."
+   ],
+   "outcome": "Two different wandering paths that both drift away from the start, a picture of how random bumps spread particles out (diffusion)."
+  },
+  {
+   "id": "a3",
+   "title": "Real tosses or made-up tosses?",
+   "day": 4,
+   "mins": 18,
+   "need": [
+    "a coin",
+    "notebook and pencil"
+   ],
+   "steps": [
+    "The parent leaves the room.",
+    "On one page, your child tosses a coin 50 times and writes H or T for each toss, in a row.",
+    "On another page, they make up 50 tosses in their head and write them, trying to make them look real.",
+    "They mark the pages 1 and 2 secretly, so the parent can't tell which is which.",
+    "The parent comes back and finds the longest run of the same letter on each page.",
+    "The parent guesses which page is real, then your child says if the guess was right."
+   ],
+   "outcome": "The real list usually has a run of 5 or more of the same letter. In 50 real tosses this happens about 8 times in 10. Made-up lists usually switch too often. This shows that real chance makes long runs."
+  },
+  {
+   "id": "a4",
+   "title": "The 36 ways of two dice",
+   "day": 5,
+   "mins": 15,
+   "need": [
+    "notebook and pencil",
+    "2 dice to look at"
+   ],
+   "steps": [
+    "Draw a table with 6 columns and 6 rows.",
+    "Write 1 to 6 along the top for the first die, and 1 to 6 down the side for the second die.",
+    "In each box, write the total of the two numbers.",
+    "Count how many boxes have each total from 2 to 12, and write the counts in a list.",
+    "Draw a bar for each total."
+   ],
+   "outcome": "A tent-shaped chart: 2 and 12 have 1 way each, 7 has 6 ways, and the others are in between. The total with the most ways is the most likely."
+  },
+  {
+   "id": "a5",
+   "title": "Flat paper and crumpled paper",
+   "day": 7,
+   "mins": 10,
+   "need": [
+    "a sheet of newspaper",
+    "10 small paper slips",
+    "a sturdy chair, held by a grown-up"
+   ],
+   "steps": [
+    "Your child stands on the chair, with a grown-up holding it.",
+    "They hold the flat sheet of newspaper level, at arm's length, and let it go.",
+    "Put a paper slip where it lands. Do this 5 times from the same spot.",
+    "Crumple the same sheet into a tight ball.",
+    "Drop the ball 5 times from the same spot and mark where it lands each time.",
+    "Compare the two sets of marks."
+   ],
+   "outcome": "The ball lands in nearly the same place each time. The flat sheet lands in a different place each time, often far apart, because tiny differences in how it is let go and how the air moves grow as it falls."
+  },
+  {
+   "id": "a6",
+   "title": "Dice music",
+   "day": 3,
+   "mins": 5,
+   "need": [
+    "a steel plate",
+    "a spoon",
+    "a die"
+   ],
+   "steps": [
+    "Tap a steady beat of 8 equal taps on the steel plate.",
+    "Roll the die 8 times and write the numbers in a row.",
+    "Use the numbers to make a tune: 1 or 2 is a soft tap, 3 or 4 a loud tap, 5 a clap, and 6 a rest (silence).",
+    "Play the dice tune twice, then play the steady beat again."
+   ],
+   "outcome": "A short tune made partly by rules and partly by chance."
+  },
+  {
+   "id": "a7",
+   "title": "The doubling game",
+   "day": 7,
+   "mins": 12,
+   "need": [
+    "notebook and pencil"
+   ],
+   "steps": [
+    "One player starts at 13 and the other at 14.",
+    "The rule: double your number. If the answer is more than 100, take away 100.",
+    "Each player writes their new number. Do 8 steps.",
+    "Write the two lists side by side and find the difference at each step.",
+    "Try again with 50 and 51, if there is time."
+   ],
+   "outcome": "Two lists that start 1 apart and end far apart (28 and 84 after 8 steps), showing how a tiny difference grows under exact rules."
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Dan Shechtman (born 1941), Israel",
+   "idea": "On 8 April 1982, working at the National Bureau of Standards in the United States, Shechtman looked at a quickly cooled metal mix of aluminium and manganese under an electron microscope. The pattern showed a ten-fold symmetry that textbooks said no crystal could have. He wrote '10 fold???' in his notebook. He had found a quasicrystal: a solid with a strict pattern that never repeats exactly.",
+   "then": "Most scientists said he had made a mistake. The head of his group asked him to leave. Linus Pauling, one of the most famous chemists alive, said for years that quasicrystals did not exist.",
+   "now": "Other scientists made quasicrystals and saw the same patterns. Shechtman won the Nobel Prize in Chemistry in 2011. A natural quasicrystal was later found in a meteorite. Quasicrystals are now an accepted kind of solid.",
+   "status": "accepted",
+   "ask": "Everyone said Shechtman was wrong. What made him keep going, and what made the others change their minds in the end?",
+   "day": 5
+  },
+  {
+   "id": "v2",
+   "who": "Marie Curie (1867–1934), born in Poland, worked in France",
+   "idea": "In 1898 Marie Curie found that the rays given out by uranium depend only on how much uranium there is, not on what it is mixed with. So the rays must come from inside the atoms themselves. She named this radioactivity. With her husband Pierre, she found two new elements, polonium and radium.",
+   "then": "The Nobel committee at first planned to give the 1903 Physics Prize only to Pierre Curie and Henri Becquerel. Pierre insisted that Marie be included, and she was. Later, Ernest Rutherford and Frederick Soddy showed that radioactive atoms break down at random, and that each kind has a fixed half-life.",
+   "now": "Accepted. Marie Curie won a second Nobel Prize, in Chemistry, in 1911. She is still the only person to win Nobel Prizes in two different sciences. Radioactivity is used to date old objects and to treat cancer.",
+   "status": "accepted",
+   "ask": "The prize committee nearly left Marie Curie out, even though the work was hers. How could you make sure the right person gets the credit for a discovery?",
+   "day": 6
+  },
+  {
+   "id": "v3",
+   "who": "Edward Lorenz (1917–2008), with Margaret Hamilton and Ellen Fetter, United States",
+   "idea": "Lorenz, a weather scientist, ran a simple weather model on an early computer. In 1961 he restarted a run halfway, typing in 0.506 from a printout instead of the full 0.506127. The new forecast soon became completely different. He showed that in weather, a tiny difference at the start grows until forecasts far ahead fail. In 1972 he gave a talk asking whether the flap of a butterfly's wings in Brazil could set off a tornado in Texas. This gave the butterfly effect its name.",
+   "then": "Lorenz's 1963 paper was little noticed at first. Its many calculations were run by Ellen Fetter, and the earlier programs were written by Margaret Hamilton, who later led the software team for the Apollo Moon landings. Lorenz thanked Fetter in one line at the end of the paper. For decades, the story of chaos was told without either woman.",
+   "now": "Chaos is now accepted across science, from weather to heartbeats. Forecasts are made by running a model many times with slightly different starting numbers, to see how much they spread. Scientists think single-day weather forecasts can't reach much beyond about two weeks.",
+   "status": "accepted",
+   "ask": "Lorenz thanked Ellen Fetter in one line at the end of his famous paper. Should her name have been on the paper with his? Why?",
+   "day": 7
+  },
+  {
+   "id": "v4",
+   "who": "Pierre-Simon Laplace (1749–1827), France",
+   "idea": "In 1814 Laplace wrote that a mind that knew every force in nature and the position of every particle could work out the whole future and the whole past exactly. To that mind, nothing would be uncertain. He used probability only because we don't know enough.",
+   "then": "For more than a hundred years, many scientists agreed that the universe runs like clockwork, and that chance is only our lack of knowledge.",
+   "now": "Chaos shows that even with exact rules, you would need to know every starting number perfectly, which is impossible in practice. Experiments on atoms suggest some events, like when an atom breaks down, are truly random. In Class 2 you heard that Einstein disagreed with this, and Niels Bohr did not. Scientists and philosophers still argue about whether the universe is fully decided in advance.",
+   "status": "debated",
+   "ask": "If someone could know everything about the world today, could they know what you will choose to eat tomorrow? What would they need to know?",
+   "day": 7
+  }
+ ],
+ "project": {
+  "title": "The shape of chance: a dice survey",
+  "days": [
+   5,
+   9
+  ],
+  "steps": [
+   "On Day 5, after making the 36-way table, write the totals 2 to 12 down the side of a page.",
+   "Throw two dice (or one die twice) 36 times and make a tally mark next to each total.",
+   "On Days 6, 7 and 8, throw 20 more times each day and add the tallies, for 96 throws in all.",
+   "Each day, say which total is ahead and whether the shape is getting smoother.",
+   "On Day 9, draw a bar chart of all 96 tallies on squared paper.",
+   "Next to it, draw a bar chart of the 36-way table.",
+   "Compare the two charts and write two sentences: how they are alike, and why they are not exactly the same."
+  ],
+  "outcome": "Two bar charts side by side, showing that random throws build up the same tent shape as the count of ways, roughly in a few throws and more closely in many."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Which Way Does Time Go?",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the cards, cut out",
+   "paper and a pencil for the score"
+  ],
+  "rules": [
+   "Put the three header cards in a row: A CAME FIRST, B CAME FIRST, COULD GO EITHER WAY.",
+   "Shuffle the other cards and put them face down in a pile.",
+   "On your turn, take the top card and read it aloud.",
+   "Put it under the header you choose, and give a reason using what you learned: heat spreads, things mix, there are more mixed ways, or nothing spreads out.",
+   "Turn the card over and read the back. If you were right, keep the card. If your reason matched the back, take a bonus point too.",
+   "If you were wrong, the next player may say why, and keeps the card if they are right.",
+   "When the pile is finished, the player with the most cards and points wins. Or play together and try to get 18 cards right as a team."
+  ],
+  "cards": [
+   {
+    "job": true,
+    "front": "A CAME FIRST"
+   },
+   {
+    "job": true,
+    "front": "B CAME FIRST"
+   },
+   {
+    "job": true,
+    "front": "COULD GO EITHER WAY"
+   },
+   {
+    "front": "A: a tumbler of hot filter coffee. B: the same coffee, cold.",
+    "back": "A came first. Heat spreads from the coffee into the room. It never gathers back by itself."
+   },
+   {
+    "front": "A: a neat kolam of rice flour. B: rice flour scattered by feet and ants.",
+    "back": "A came first. There are far more scattered ways than kolam ways."
+   },
+   {
+    "front": "A: a drop of ink in a glass of water. B: the water evenly blue.",
+    "back": "A came first. The ink particles spread by diffusion and never gather back."
+   },
+   {
+    "front": "A: an egg in a hand. B: a broken egg on the floor.",
+    "back": "A came first. A broken egg never puts itself back together."
+   },
+   {
+    "front": "A: a tall candle. B: a short candle with wax drips.",
+    "back": "A came first. The wax burns into gases and heat that spread through the room."
+   },
+   {
+    "front": "A film of the Earth going round the Sun. Is it running forwards or backwards?",
+    "back": "Could go either way. One planet in empty space looks normal both ways."
+   },
+   {
+    "front": "A: a seed. B: a tree.",
+    "back": "A came first. The tree builds order using sunlight, and gives out heat and water vapour."
+   },
+   {
+    "front": "A: a heap of salt next to a glass of water. B: a glass of salty water.",
+    "back": "A came first. Salt dissolves and spreads through the water by itself."
+   },
+   {
+    "front": "A: a sandcastle on the beach at Mamallapuram. B: a low heap of sand.",
+    "back": "A came first. Waves and wind scatter the sand. They never build castles."
+   },
+   {
+    "front": "A carrom coin hits another and both slide apart, filmed for half a second.",
+    "back": "Could go either way. A short, clean bump looks normal backwards too. Over a longer time, friction would slow them, and that runs only one way."
+   },
+   {
+    "front": "A: a yellow banana. B: the same banana, brown and spotty.",
+    "back": "A came first. Ripening and rotting run one way."
+   },
+   {
+    "front": "A: an ice cube on a plate in a warm room. B: a puddle of water.",
+    "back": "A came first. Heat flows from the room into the ice."
+   },
+   {
+    "front": "A: a plate of salty water in the sun. B: tiny salt cubes on a dry plate.",
+    "back": "A came first. The salt forms ordered crystals, while the water spreads into the air."
+   },
+   {
+    "front": "A: a thin line of smoke from an agarbatti. B: smoke spread all over the room.",
+    "back": "A came first. Smoke particles spread out by diffusion."
+   },
+   {
+    "front": "A necklace hanging from a finger swings once to the right, then once to the left, filmed for one swing.",
+    "back": "Could go either way. One swing looks normal backwards. Over many swings it slows down, and that runs only one way."
+   },
+   {
+    "front": "A: a long new pencil. B: a short pencil and a heap of shavings.",
+    "back": "A came first. Sharpening scatters the wood into shavings and heat."
+   },
+   {
+    "front": "A: a whole sheet of paper. B: the sheet torn into many pieces.",
+    "back": "A came first. There are many more torn ways than whole ways."
+   },
+   {
+    "front": "A: a ball bouncing high. B: the same ball bouncing lower.",
+    "back": "A came first. At each bounce, some energy spreads out as heat and sound."
+   },
+   {
+    "front": "A: rice and dal in two layers in a jar. B: rice and dal mixed.",
+    "back": "A came first. Shaking picks a random arrangement, and nearly all arrangements are mixed."
+   },
+   {
+    "front": "A: a full cup of water left on the windowsill. B: a half-empty cup.",
+    "back": "A came first. Water particles escape into the air and spread out (evaporation)."
+   },
+   {
+    "front": "A: a sharp new clay pot. B: a clay pot with a crack running across it.",
+    "back": "A came first. A crack grows but never heals by itself."
+   }
+  ]
+ },
+ "story": {
+  "title": "The Night of the Long Wait",
+  "text": [
+   "On Vaikunta Ekadasi, nobody in Periyamma's house in Srirangam goes to sleep. The temple drums go on all night, and the street smells of jasmine and hot ghee. The grown-ups take turns to queue at the temple. The children stay up playing Paramapadam, the old game of snakes and ladders, on a cloth board so faded that the biggest snake looks like a river.",
+   "This year there were five of us on the floor: my cousins Arun, Divya, Janani and little Priya, and me, Meenakshi. I was nine. Periyamma's rule was that you needed a 1 to put your coin on the board. Not a 6, like at my friend's house. A 1.",
+   "Arun threw a 1 on his very first throw. Divya got hers on her third. Janani on her second. Even Priya, who was five and threw the die so hard it rolled under the cupboard, got a 1 before long.",
+   "I threw a 4. Then a 6. Then a 3, a 3, a 5, a 2. My coin sat in my lap while the others climbed ladders and shrieked down snakes. I threw a 6 again. Arun began to count my throws out loud. 'Nine. Ten. Eleven.' By fourteen, Priya was counting with him.",
+   "On the fifteenth throw I got a 2, and Arun said, 'Meenakshi has no luck. The die doesn't like her.'",
+   "It was a joke. Everyone laughed. But when we started the second game, Divya said, 'Arun, you throw for Meenakshi. Then she'll get a 1 quickly.' And Arun did, and I got a 1 on his second throw, and everybody cheered, and I sat there feeling as if something had been taken from my hands.",
+   "I went out to the back verandah where Periyamma was sitting with her filter coffee, waiting for her turn at the queue. She is an accountant at a bank in Tiruchi. She has a notebook for everything.",
+   "'Why is the die angry with me?' I asked.",
+   "She did not laugh. She took the spare die from the box of games, tore a page from her notebook, and drew six columns on it, numbered 1 to 6. 'Throw it a hundred times,' she said. 'Make a mark under each number. And every time you get a 1, write down how many throws you waited for it.'",
+   "So I sat on the cool verandah floor and threw. The drums from the temple came in waves. A bat flew in and out under the tiles. My columns grew. After a hundred throws, the 1 column had 17 marks, and the 6 column had 15. They were nearly the same as the others. The die did not seem to hate any number.",
+   "Then I looked at my list of waits. 2. 7. 1. 4. 12. 3. 6. And near the bottom of the page: 16. I had waited sixteen throws for a 1, alone on the verandah, with nobody counting and nobody laughing.",
+   "I showed Periyamma. She looked at the list for a long time. 'If many people each wait for a 1,' she said, 'about one in every fifteen will wait fifteen throws or more. It has to happen to somebody. Tonight it happened to you twice. The die doesn't remember. Every throw starts new.'",
+   "'Then why did they think I was unlucky?'",
+   "'Because nobody counts the short waits,' she said. 'Only the long ones.'",
+   "I went back inside. They were starting the third game. Arun picked up the die to throw for me, and I said, 'No, it's my turn,' and took it.",
+   "I got a 1 on my third throw. Nobody cheered, because nobody had been counting. That was what I liked about it.",
+   "Then it was Arun's turn. He threw a 5. Then a 3. Then a 6, a 6, a 4. He threw harder, as if that would help. Divya started to count, 'Six, seven,' and Arun's ears went red. At eleven, Priya said, in a very small voice, 'Maybe the die doesn't like Arun.'",
+   "I held out my notebook page with the hundred marks and the list of waits. 'Look,' I said. 'Sixteen. I waited sixteen on the verandah. It's not you. It's just a long wait.'",
+   "Arun looked at the page. He looked at the die in his hand. Then he gave it a little shake next to his ear, the way you would shake a box to hear if something is inside, and said, 'It's empty. Nothing in there to remember anybody.'",
+   "He threw. It was a 4. Nobody laughed. He threw again, and it was a 1, and he put his coin on the board without saying anything, and Divya moved her coin up a ladder, and outside the drums went on.",
+   "We played until the sky over the gopuram turned grey. When the grown-ups came back from the temple, Periyamma looked at the board, then at my notebook page lying beside it, and gave me a small nod. In the morning, Priya asked me to teach her how to make the columns."
+  ],
+  "epiphany": "For the parent: the story turns when Meenakshi's own tally shows that a 16-throw wait happened to her even when nobody was watching. Long waits are a normal part of real chance, and a die has no memory. The second turn is when Arun gets a long wait too, and Meenakshi uses what she found to stand with him instead of laughing back. 'Luck' was a story people told about a run of chance. The tally replaced the story with evidence.",
+  "ask": [
+   "Why did Periyamma ask Meenakshi to throw the die a hundred times, instead of just telling her it was fair?",
+   "What did Periyamma mean by 'nobody counts the short waits'?",
+   "Why did Meenakshi like it that nobody cheered when she got her 1?",
+   "When Arun had a long wait, Meenakshi could have laughed at him. Why do you think she showed him her notebook instead?",
+   "Arun shook the die and said it was empty. What did he mean?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Mixed is more likely than tidy, because there are far more mixed ways.",
+   "more": "Four coins have 16 ways to land and only 1 is all heads. With the trillions of particles in a cup of tea or a room, the mixed and spread-out ways outnumber the tidy ways so hugely that things never un-mix by themselves. That is entropy, and it is why heat spreads and time seems to run one way."
+  },
+  {
+   "idea": "One random event can't be predicted, but many of them make a steady pattern.",
+   "more": "Nobody can say which coin will land heads or when one atom will break down. But half of 32 coins, or half of a lump of atoms, goes each time. The dice survey grows into the shape the 36-way table predicts."
+  },
+  {
+   "idea": "Exact rules don't mean a predictable future.",
+   "more": "The doubling game follows one exact rule, yet two starting numbers only 1 apart end up far apart. Weather works the same way, so single days can be forecast only about two weeks ahead at most."
+  },
+  {
+   "idea": "Order can form by itself where energy flows, but it always makes more disorder somewhere else.",
+   "more": "Salt crystals, cyclones and living bodies are ordered. Each one is fed by energy flowing through, and each gives out heat or spreads something into the air, so the total disorder still rises."
+  }
+ ],
+ "unknowns": [
+  "How far ahead can weather ever be forecast? Most scientists think about two weeks for single days, but nobody knows the exact limit, or whether better data could push it further.",
+  "Almost all the laws of physics work the same forwards and backwards in time. So why do we remember the past and not the future? Scientists link it to entropy, but they still argue about the full answer.",
+  "Will the universe one day spread out so evenly that nothing more can happen? Some scientists think so, but nobody knows for sure how the universe will end.",
+  "Only a few natural quasicrystals have ever been found, in pieces of a meteorite. How did they form, and are there more out there? Scientists are still searching."
+ ],
+ "big": [
+  "If the whole universe is slowly getting more mixed, how did stars, planets and living things become so ordered?",
+  "Is anything truly random, or is chance just a name for causes we can't see?",
+  "If the future can't be fully known, is it already decided?",
+  "When we call someone lucky or unlucky, are we describing them, or a run of chance?",
+  "A crystal, a cyclone, an ant colony and your body are all ordered. Is there a difference between order that is alive and order that is not?"
+ ],
+ "challenge": [
+  {
+   "q": "'Lightning never strikes the same place twice.'",
+   "hint": "It does. Tall buildings and towers are struck again and again. The Empire State Building in New York is struck about 20 times a year. Each strike is chancy, but tall, pointed places are more likely to be hit every time. Which is lightning more like: a fair coin, or a die with one heavy side?"
+  },
+  {
+   "q": "'The butterfly effect means a butterfly can cause a storm.'",
+   "hint": "Lorenz's talk asked this as a question. His point was that tiny differences in the air grow so much that forecasts far ahead fail. Nobody can trace a storm back to one butterfly, and most tiny changes simply fade out. What would you need to know to prove one butterfly caused a storm?"
+  },
+  {
+   "q": "'Living things break the rule that disorder always grows.'",
+   "hint": "They don't. A plant or a person builds order inside, but uses energy from sunlight or food to do it, and gives out heat, carbon dioxide and water vapour. Counting everything, the total disorder still rises. Can you find the heat your own body gives out right now?"
+  },
+  {
+   "q": "'If a weather forecast says 60% chance of rain and it stays dry, the forecast was wrong.'",
+   "hint": "Not necessarily. 60% means that on many days like this one, it rains on about 6 out of 10. On the other 4, it stays dry. A forecast is checked over many days, not one. How would you test whether your local forecast is good?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A weather forecaster at the India Meteorological Department",
+   "view": "She runs the same weather model many times with slightly different starting numbers. If the runs agree, she is confident. If they spread apart, she says the forecast is uncertain. Ask: why is it honest to give a chance of rain instead of a yes or no?"
+  },
+  {
+   "who": "A paddy farmer in the Kaveri delta",
+   "view": "She watches the sky, the ants and the forecast, and still plans for a late or weak monsoon, because she knows the rains differ every year. Ask: how do you plan well for something you can't predict?"
+  },
+  {
+   "who": "An ant colony",
+   "view": "No ant is in charge, yet the colony builds trails, nests and stores of food. The order comes from many small actions and scent signals. Ask: do you need a leader or a plan to make order?"
+  },
+  {
+   "who": "A Buddhist teacher",
+   "view": "The Buddha taught anicca: all things change and nothing stays the same. A teacher may say that seeing this clearly helps us hold things lightly. Ask: is the arrow of time, where things spread and change, the same idea as anicca, or a different one?"
+  },
+  {
+   "who": "A statistician",
+   "view": "She says people often see patterns in pure chance, like a 'lucky' player or a 'cursed' number, because we notice long runs and forget short ones. Ask: how can a tally of many tries protect us from fooling ourselves?"
+  }
+ ],
+ "books": [
+  {
+   "title": "Do You Wanna Bet? Your Chance to Find Out About Probability",
+   "author": "Jean Cushman",
+   "for": "read together",
+   "age": "8–11",
+   "why": "Two boys meet chance in everyday life, from coin tosses to weather forecasts. Good after Day 4."
+  },
+  {
+   "title": "Little People, Big Dreams: Marie Curie",
+   "author": "Isabel Sánchez Vegara",
+   "for": "read together",
+   "age": "5–8",
+   "why": "A short picture book life of Marie Curie. Read it on Day 6, after the half-life game."
+  },
+  {
+   "title": "Chaos: Making a New Science",
+   "author": "James Gleick",
+   "for": "parent reads",
+   "age": "adult (read parts aloud)",
+   "why": "The story of how chaos was discovered. The first chapter tells how Edward Lorenz found the butterfly effect. Read it before Day 7."
+  },
+  {
+   "title": "Seven Brief Lessons on Physics",
+   "author": "Carlo Rovelli",
+   "for": "parent reads",
+   "age": "adult (read parts aloud)",
+   "why": "A short book. The lesson on probability, time and heat explains entropy and the arrow of time in plain words. Read it before Day 2."
+  }
+ ],
+ "check": [
+  {
+   "q": "4 coins can land in 16 ways. Why are you more likely to get 2 heads and 2 tails than 4 heads?",
+   "a": "Because 6 of the 16 ways give 2 heads and 2 tails, but only 1 way gives 4 heads. The result with more ways is more likely."
+  },
+  {
+   "q": "Why does a jar of rice and dal mix when shaken, but never sort itself back into layers?",
+   "a": "Each shake picks a new arrangement at random. There are only a few layered arrangements and a huge number of mixed ones, so a shake almost always gives a mixed one. That is entropy."
+  },
+  {
+   "q": "The ice on the steel plate melted faster than the ice on the wood, even though the steel felt colder. Why?",
+   "a": "Both were at room temperature. Heat flows from warmer to colder things, and steel carries heat well, so heat flowed quickly from the steel into the ice. Steel felt cold because it also carried heat quickly out of my hand."
+  },
+  {
+   "q": "A fridge makes ice inside. Where does the heat go?",
+   "a": "The fridge uses electricity to pump heat out of the inside and into the kitchen, through its back and sides. Making order inside makes more disorder outside."
+  },
+  {
+   "q": "Why is 7 the most common total with two dice?",
+   "a": "Of the 36 ways two dice can land, 6 make 7: 1 and 6, 2 and 5, 3 and 4, 4 and 3, 5 and 2, 6 and 1. No other total has that many ways."
+  },
+  {
+   "q": "In the half-life game, you couldn't say which coin would go next. So how could you predict how many were left?",
+   "a": "Each coin had an even chance, so about half went each shake. With many coins, the random results add up to a steady pattern, even though each single coin is unpredictable. Radioactive atoms are the same."
+  },
+  {
+   "q": "The weather follows the laws of physics. So why can't anyone forecast the weather three weeks ahead?",
+   "a": "Weather is chaotic. Like the doubling game, tiny differences in the air today, too small to measure, grow bigger every day, until the forecast is completely wrong. That is the butterfly effect."
+  }
+ ]
+}

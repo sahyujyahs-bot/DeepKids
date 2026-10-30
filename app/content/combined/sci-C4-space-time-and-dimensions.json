@@ -1,0 +1,1308 @@
+{
+ "key": "combined|sci|4|space-time-and-dimensions",
+ "board": "combined",
+ "subj": "sci",
+ "level": 4,
+ "n": "space-time-and-dimensions",
+ "title": "Space, time and dimensions: how speed and gravity change time",
+ "source": "DeepKids Combined, a Deep End topic from the DeepKids notebook. No board teaches it at Class 4, so there are no board subtopics to cover. No textbook needed.",
+ "summary": "A clock on a fast plane ticks a little slower than a clock on the ground, and a clock on a high shelf ticks a little faster than one on the floor. Your child finds that every event needs four numbers, three for where and one for when. They build a cube's shadow to picture a fourth dimension, draw a light clock, and work out why phone maps would go wrong without Einstein's relativity. They see how gravity bends light, why time runs only one way, and what is known and unknown about time travel and wormholes.",
+ "builds_on": "In Class 2 (Day, night and rhythms of nature) your child learned that our day comes from the Earth's spin and our year from its trip round the Sun. In Class 3 (Gravity) they modelled gravity on a bedsheet and heard Einstein's idea that mass bends space. If they did the Class 2 lesson on space, time and dimensions, Day 1 recalls it. This rung goes much further: spacetime, the speed of light, slow clocks, curved spacetime and the arrow of time. In secondary school physics they will meet the maths of relativity.",
+ "goals": [
+  "By the end your child can say what a dimension is, and fix any place in a room with three measurements and any event with four.",
+  "By the end your child can explain how a flat being would see a ball pass through their world, and why scientists say extra dimensions might be hidden.",
+  "By the end your child can explain, with a drawing of a light clock, why a fast-moving clock ticks slower.",
+  "By the end your child can explain that gravity bends light and slows time, and why GPS satellites must correct their clocks.",
+  "By the end your child can describe the arrow of time, and how felt time differs from clock time.",
+  "By the end your child can say what is known and what is still unknown about time travel and wormholes."
+ ],
+ "subconcepts": [
+  "dimensions: a line has one, a sheet has two, a room has three",
+  "three measurements (coordinates) fix any place",
+  "an event needs four numbers: spacetime",
+  "Flatland: how a flat being would see a ball",
+  "a hidden fourth dimension, and the extra dimensions of string theory (unproven)",
+  "the speed of light is the same for everyone who measures it",
+  "seeing the past: light takes time to reach us",
+  "Newton's single time for everyone, and Einstein's relativity",
+  "time dilation: a moving clock ticks slower (the light clock)",
+  "the twin paradox",
+  "gravity is curved spacetime, and it bends light",
+  "gravity slows time: why GPS satellites correct their clocks",
+  "black holes and gravitational waves",
+  "the arrow of time, and felt time against clock time",
+  "time travel and wormholes: what is known and what is not"
+ ],
+ "words": [
+  [
+   "dimension",
+   "a direction you can measure in. A line has one, a sheet of paper two, a room three."
+  ],
+  [
+   "coordinates",
+   "the numbers that say exactly where something is, like 'row 4, seat 12' in a cinema"
+  ],
+  [
+   "event",
+   "something that happens at one place at one moment, like a ball landing or a bell ringing"
+  ],
+  [
+   "spacetime",
+   "space and time joined together. Every event has a place in it: where and when."
+  ],
+  [
+   "speed of light",
+   "about 3 lakh kilometres every second. Nothing can travel faster."
+  ],
+  [
+   "relativity",
+   "Einstein's theories (1905 and 1915) about how speed and gravity change space and time"
+  ],
+  [
+   "time dilation",
+   "a clock ticking slower than another clock because it moves fast or sits lower in gravity"
+  ],
+  [
+   "atomic clock",
+   "a clock that counts the very regular vibrations of atoms. The best lose less than a second in millions of years."
+  ],
+  [
+   "gravitational lensing",
+   "light from a far star or galaxy bending as it passes a heavy object, like light through a lens"
+  ],
+  [
+   "black hole",
+   "a place where so much mass is packed so tight that not even light can escape"
+  ],
+  [
+   "arrow of time",
+   "the fact that time runs one way: eggs break but never unbreak"
+  ],
+  [
+   "wormhole",
+   "an imagined tunnel through spacetime joining two far-apart places. None has ever been found."
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "Where and when",
+   "goal": "Find that any place needs three numbers and any event needs four, and start a spacetime map of a day.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What do you remember?",
+     "mins": 6,
+     "do": "Ask: 'Why do we have day and night?' (The Earth spins once a day.) 'In the bedsheet model of gravity, what did the heavy ball do to the sheet?' (It made a dip, and the small ball rolled into it.) If your child did the Class 2 lesson on space and time, ask what they remember about it. If they did none of these, spin a ball near a torch to show day and night, and move on. Say: 'This week we find out that time does not tick at the same speed everywhere. Scientists have measured it.'"
+    },
+    {
+     "kind": "talk",
+     "title": "One, two, three dimensions",
+     "mins": 9,
+     "do": "Hold up a thread pulled tight. Say: 'An ant on this thread can go only forwards or backwards. That is one direction to measure in. Scientists call it one dimension.' Lay a sheet of paper flat. Ask: 'How many directions can an ant go on this paper?' (Two: forward and back, and left and right.) Say: 'That is two dimensions.' Then ask: 'What can a mosquito in this room do that the ant on the paper cannot?' (Go up and down.) Say: 'A room has three dimensions: length, width and height. Everything you can touch has all three.' Ask: 'Is a drawing of a house two or three dimensions? Is a real house?' (The drawing is two. The house is three.)"
+    },
+    {
+     "kind": "act",
+     "title": "Three numbers find the bead",
+     "mins": 14,
+     "do": "Do Activity a1. Hang a bead or a button on a thread from a curtain rod or a fan hook, somewhere in the middle of the room. Your child measures how far it is from one wall, how far from the next wall, and how high it is above the floor. They write the three numbers. Then hide the bead, give the numbers to another family member, and see if they can put a finger on the exact spot. Say: 'These three numbers are called coordinates. Three numbers find any place in a room, because a room has three dimensions.'",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "The fourth number",
+     "mins": 8,
+     "do": "Ask: 'If I tell your friend, \"Meet me at the bead's spot,\" is that enough?' Wait. Good answer: 'No, they need to know when.' Say: 'Something that happens at one place at one moment is called an event. A ball landing is an event. A bell ringing is an event. To say where an event is, we need three numbers. To say when, we need a fourth. Einstein's teacher, Hermann Minkowski, said in 1908 that space and time belong together. We call them spacetime.' Ask: 'Name three events from your morning, with where and when.' (For example: 'Brushed my teeth, bathroom, 7 o'clock.')"
+    },
+    {
+     "kind": "do",
+     "title": "Start the spacetime map",
+     "mins": 8,
+     "do": "Start the project, 'A spacetime map of one day'. On squared paper, draw a line across the bottom and label it 'where' with places in your home or street (bedroom, kitchen, balcony, gate). Draw a line up the left side and label it 'when' with hours from 6 am to 9 pm. Your child puts a dot for each event of today so far, at its place and time, and joins the dots in order. Say: 'This line is your path through spacetime. Scientists call it a worldline.' Keep the paper for the rest of the day and for Day 4."
+    }
+   ],
+   "need": [
+    "a thread and a bead or button",
+    "a measuring tape",
+    "squared paper or a notebook with squares",
+    "a pencil and a ruler"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Flatland and a fourth dimension",
+   "goal": "Picture how a flat being would see a ball, and picture a fourth dimension of space through shadows.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Three or four?",
+     "mins": 4,
+     "do": "Ask: 'How many numbers did we need to find the bead?' (Three.) 'How many to say when we will meet there?' (Four.) Say: 'Today we ask a strange question. What if there were a fourth direction in space, one we cannot point to?'"
+    },
+    {
+     "kind": "act",
+     "title": "A visitor to Flatland",
+     "mins": 12,
+     "do": "Do Activity a2. Say: 'In 1884 a teacher in London, Edwin Abbott, wrote a book called Flatland about flat beings who live on a sheet of paper. They have length and width but no height.' You cut a carrot into round slices, keeping them in order. Your child lies on the floor with one eye at floor level, pretending to be a Flatlander. You push the slices across the floor one by one, from the tip to the thick end. Ask: 'What does the Flatlander see?' (First a dot, then circles that get bigger and bigger.) Ask: 'Could the Flatlander ever see the whole carrot at once?' (No, only one slice at a time.)",
+     "ref": "a2"
+    },
+    {
+     "kind": "act",
+     "title": "The shadow of a cube",
+     "mins": 14,
+     "do": "Do Activity a3. Your child builds a cube from 12 straws or matchsticks joined by 8 small balls of atta dough or clay. In a dark room, shine a torch on it so its shadow falls on a wall. Turn it slowly. Ask: 'The cube has three dimensions. How many does its shadow have?' (Two.) Find the angle where the shadow is a small square inside a big square, with the corners joined. Then draw that shape. Say: 'Mathematicians have worked out what a four-dimensional cube would look like. They call it a tesseract. Its shadow in our world looks like a small cube inside a big cube, with the corners joined.' Draw it for your child, one dimension up from their wall shadow.",
+     "ref": "a3"
+    },
+    {
+     "kind": "talk",
+     "title": "Hidden dimensions",
+     "mins": 9,
+     "do": "Say: 'In the 1920s, Theodor Kaluza and Oskar Klein had an idea. Maybe there is an extra dimension of space, curled up so small that we never notice it. Today, a set of ideas called string theory needs ten dimensions in all.' Draw a garden hose or a long thread on paper. Say: 'From far away, a hose looks like a line with one dimension. An ant on it can also walk round it. That round direction is tiny and hidden.' Ask: 'How could anyone find out if a hidden dimension is real?' Good answer: 'Look for something it would change.' Say: 'Scientists have looked, at huge machines like the Large Hadron Collider near Geneva. Nobody has found any sign yet. Extra dimensions are an idea, not a fact.'"
+    },
+    {
+     "kind": "review",
+     "title": "One sentence each",
+     "mins": 6,
+     "do": "Your child finishes these aloud: 'A Flatlander would see a ball as ____.' (A dot, then a circle that grows and shrinks.) 'The shadow of a 3D cube is ____.' (Flat, with two dimensions.) 'Extra dimensions of space are ____.' (An idea that nobody has proved.) Ask: 'If we were Flatlanders, how might we guess there is a third dimension?'"
+    }
+   ],
+   "need": [
+    "a carrot and a knife (for the grown-up)",
+    "12 straws or matchsticks",
+    "atta dough or clay",
+    "a torch",
+    "a dark room"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "The fastest thing there is",
+   "goal": "Find out that light always has the same speed, and draw a light clock to see why a moving clock ticks slower.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Fast, faster, fastest",
+     "mins": 4,
+     "do": "Ask: 'What is the fastest thing you know?' Let them name a few (a cheetah, a plane, a rocket). Say: 'The fastest thing there is, is light. It goes about 3 lakh kilometres in one second. That is round the whole Earth seven and a half times.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: Two Millionths of a Second over the Nilgiris",
+     "mins": 12,
+     "do": "Read the story aloud. Stop after Kavya says, 'Then they can't get here.' Ask: 'How could the muon get there?' Write down your child's guess. Finish the story. Do not explain it yet. Say: 'By the end of tomorrow, you will be able to explain what Kavya worked out.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Newton's time and Einstein's light",
+     "mins": 9,
+     "do": "Say: 'Isaac Newton wrote in 1687 that time flows the same for everyone, everywhere. For 200 years, nearly everyone agreed.' Then say: 'In 1905, Albert Einstein, then a 26-year-old clerk in a patent office in Switzerland, started from a fact. Light always has the same speed, whoever measures it, even if they are moving.' Ask: 'If you throw a ball forward from a moving train, is it faster than if you throw it from the platform?' (Yes, to someone on the platform.) Say: 'Light is not like that. A torch on a fast train sends out light at the same speed as a torch on the platform. Experiments have checked this again and again. Einstein asked what must be true about time if light behaves like that.'"
+    },
+    {
+     "kind": "exp",
+     "title": "The light clock",
+     "mins": 14,
+     "do": "Do Experiment e1. Draw two lines 5 cm apart across a long strip of paper. Say: 'Imagine a clock made of two mirrors, with light bouncing between them. Each bounce is one tick.' Your child moves a pencil up and down between the lines, touching each line, 6 times. Keep the paper still. That is a clock at rest. Then do it again on a fresh part of the strip while you slowly pull the paper sideways. That is a clock moving past you. Your child lays a thread along each line drawn, and measures the thread. Ask: 'Which light path is longer?' (The zigzag of the moving clock.)",
+     "ref": "e1"
+    },
+    {
+     "kind": "think",
+     "title": "So what happens to the ticks?",
+     "mins": 6,
+     "do": "Ask: 'In the moving clock, light has further to go for each tick. Light cannot go faster. So does each tick take more time or less time?' Wait for their reason. Good answer: 'More time, because the path is longer and the speed is the same.' Say: 'Yes. To you, standing still, the moving clock ticks slower. Einstein worked this out in 1905. It is called time dilation. Dilation means stretching.'"
+    }
+   ],
+   "need": [
+    "a long strip of paper (old newspaper edge or a till roll)",
+    "a pencil and a ruler",
+    "a thread"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Moving clocks and the twins",
+   "goal": "Use time dilation to explain the muon story and the twin paradox, and find that we always see the past.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Back to the muon",
+     "mins": 5,
+     "do": "Ask: 'Why does a fast-moving clock tick slower?' (Light has a longer path for each tick, and light cannot go faster.) Then ask: 'Now can you explain how the muon in the story reached Ooty?' Good answer: 'It was moving so fast that its clock ticked slowly, so its two millionths of a second lasted long enough to reach the ground.' Say: 'Muons are real. In 1941, Bruno Rossi and David Hall measured how many muons reach a mountain top and how many reach lower down. The numbers matched Einstein.'"
+    },
+    {
+     "kind": "act",
+     "title": "Drama: the twins",
+     "mins": 12,
+     "do": "Say: 'Imagine twin sisters, Meena and Thenmozhi. Meena flies to a star and back in a rocket almost as fast as light. Thenmozhi stays in Madurai.' Your child acts Meena: packing, waving goodbye, the long trip, coming home. You act Thenmozhi, ageing: bend over, walk slowly. When Meena returns, ask her: 'How long were you away?' (By her own clock, a few years.) Thenmozhi says 'Forty years!' Ask: 'Which twin is younger now, and why?' Good answer: 'Meena, because her clock ticked slower while she moved fast.' Say: 'This is called the twin paradox. A paradox is something that seems impossible. It only seems impossible. Meena is the one who sped up, turned round and slowed down, so the two twins are not the same, and she comes back younger.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Real clocks on real planes",
+     "mins": 6,
+     "do": "Say: 'In 1971 two scientists, Joseph Hafele and Richard Keating, flew very accurate atomic clocks right round the world on ordinary passenger planes. When they came back, the clocks no longer matched the clocks left on the ground. The difference was a few hundred billionths of a second, close to what Einstein predicted.' Then say: 'The astronaut Scott Kelly spent 340 days on the space station while his twin brother Mark stayed on Earth. Scott came back younger than if he had stayed, but by less than a hundredth of a second.' Ask: 'Why is the difference so tiny?' (The plane and the space station are very slow compared with light.)"
+    },
+    {
+     "kind": "do",
+     "title": "Maths: seeing the past",
+     "mins": 10,
+     "do": "Say: 'Light is fast, but not instant. When you look at something, you see the light that left it a moment ago.' Work these out together. 'The Moon is about 3,84,000 km away. Light goes 3,00,000 km in a second. How long does moonlight take?' (A little over 1 second.) 'The Sun is about 15 crore km away. How many seconds does sunlight take?' (15,00,00,000 ÷ 3,00,000 = 500 seconds, which is about 8 minutes and 20 seconds.) Ask: 'If the Sun suddenly went dark, how long would we keep seeing it?' (About 8 minutes.) Say: 'The nearest star after the Sun, Proxima Centauri, is so far that its light takes over 4 years. When you look at the stars, you are seeing the past.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Mileva Marić",
+     "mins": 7,
+     "do": "Read Voice v1 to your child. Mileva Marić studied physics with Einstein and married him. Read the line from his 1901 letter about 'our work on relative motion'. Then ask the voice question.",
+     "ref": "v1"
+    },
+    {
+     "kind": "do",
+     "title": "Add to the spacetime map",
+     "mins": 5,
+     "do": "Take out the spacetime map from Day 1. Your child draws a second worldline in another colour: someone who stayed in one room all morning. Ask: 'What does the line look like when someone stays still?' (Straight up, because time passes but the place does not change.) 'And when someone moves fast?' (It leans over a lot.)"
+    }
+   ],
+   "need": [
+    "the spacetime map from Day 1",
+    "two coloured pencils",
+    "a notebook for the maths"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Gravity bends light",
+   "goal": "Model how mass curves spacetime and bends light, and hear how the 1919 eclipse tested it.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "The bedsheet again",
+     "mins": 4,
+     "do": "Ask: 'In the Class 3 bedsheet model, why did the small ball roll towards the heavy one?' (The heavy ball made a dip and the small ball rolled into it.) Say: 'In 1915, Einstein said this is what gravity is. Mass bends spacetime, and everything moving through it follows the bends. Today we ask: does light follow them too?'"
+    },
+    {
+     "kind": "exp",
+     "title": "Rolling past a heavy ball",
+     "mins": 13,
+     "do": "Do Experiment e2. Two people hold a bedsheet tight and flat at waist height. Your child rolls a marble straight across the sheet and you watch its path: it goes straight. Then put a heavy ball, or a 1 kg packet of salt, in the middle. Roll the marble past it from the same starting point, first far from the heavy object, then close to it. Ask: 'What happens to the marble's path?' (It curves towards the heavy ball. The closer it passes, the more it bends.) Say: 'Light passing near the Sun should do the same.'",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "The eclipse of 1919",
+     "mins": 10,
+     "do": "Read Voice v2. Say: 'Normally the Sun is too bright to see the stars near it. But during a total eclipse, the Moon covers the Sun and the stars appear. If light bends round the Sun, those stars will look a little out of place.' Show the idea with a drawing: the Sun, a star behind it, a curved ray, and an eye on Earth. Then ask the voice question.",
+     "ref": "v2"
+    },
+    {
+     "kind": "exp",
+     "title": "A lens of glass, a lens of gravity",
+     "mins": 9,
+     "do": "Do Experiment e3. Draw a small dot in the middle of a page with lines of squares around it. Your child looks at it through the thick round bottom of a clear glass tumbler, held a few centimetres above the page, and moves the glass slowly. Ask: 'What happens to the dot and the lines?' (They bend into curves and arcs, and the dot can stretch into a ring.) Say: 'When a very heavy galaxy sits in front of a far galaxy, the far galaxy's light bends round it the same way, and we see arcs and rings. This is called gravitational lensing. The glass bends light in a different way from gravity, but the picture looks alike.'",
+     "ref": "e3"
+    },
+    {
+     "kind": "review",
+     "title": "Say it in two lines",
+     "mins": 9,
+     "do": "Ask your child to explain to another family member, in two sentences, why stars near the Sun looked out of place in 1919. A strong answer: 'The Sun's mass bends spacetime. The starlight followed the bend, so the stars looked as if they were in a slightly different place.' Then ask: 'Our bedsheet has one dip. Real space bends in every direction round the Sun. Can you picture that?' Say: 'Nobody can picture it fully. That is why we use the bedsheet, and remember that it is only a model.'"
+    }
+   ],
+   "need": [
+    "a bedsheet",
+    "a heavy ball or a 1 kg packet of salt or atta",
+    "a marble or a small ball",
+    "a clear glass tumbler with a thick bottom",
+    "a page of squared paper"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Gravity slows time: GPS and black holes",
+   "goal": "Find that clocks lower down tick slower, work out why GPS must correct for it, and meet black holes.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "High and low",
+     "mins": 4,
+     "do": "Ask: 'Which two things make a clock tick slower?' Let them answer the first (moving fast). Then say: 'Einstein's 1915 theory says there is a second one: being deeper in gravity. A clock on the floor ticks a tiny bit slower than a clock on a shelf.'"
+    },
+    {
+     "kind": "talk",
+     "title": "33 centimetres",
+     "mins": 7,
+     "do": "Say: 'In 2010, scientists in America built two of the most accurate clocks ever made. They lifted one by 33 centimetres, about the height of a school bag, and it ticked faster than the lower one. The difference was tiny, but they could measure it.' Ask: 'Your feet are lower than your head. Which is older at the end of a day?' (The head, by a tiny amount.) Say: 'If you lived your whole life on the top floor of a 30-storey building, you would age about 30 millionths of a second more than someone on the ground floor. Too small to notice, but real.'"
+    },
+    {
+     "kind": "do",
+     "title": "Maths: why your phone needs Einstein",
+     "mins": 12,
+     "do": "Say: 'A phone finds where it is using signals from satellites about 20,000 km up. America's system is called GPS, and India has its own, called NavIC. Each satellite carries atomic clocks. The phone works out how far away each satellite is from how long its signal took to arrive.' Then give the numbers: 'Up there, gravity is weaker, so the clocks gain about 45 millionths of a second a day. They also move fast, so they lose about 7 millionths a day.' Ask: 'What is the total change each day?' (45 - 7 = 38 millionths of a second fast.) 'Signals travel 3,00,000 km in a second, so in one millionth of a second they travel 0.3 km. How far wrong would the phone be after one day?' (38 × 0.3 = about 11 km.) Ask: 'What would happen to an auto driver using the map?' Say: 'So the satellite clocks are set to tick slightly slow before launch, and the system corrects them all the time.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Black holes",
+     "mins": 7,
+     "do": "Say: 'If enough mass is packed tight enough, spacetime bends so much that not even light can get out. This is a black hole. Close to a black hole, time slows down a great deal compared with far away.' Say: 'In 2015, machines called LIGO in America felt tiny ripples in spacetime, called gravitational waves. They came from two black holes crashing together over a billion years ago. In 2019, a team of more than 200 scientists showed the first picture of the dark shadow of a black hole, in a galaxy called M87.' Ask: 'How can we take a picture of something that gives out no light?' (We see the glowing gas round it, and the dark patch in the middle.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Amal Kumar Raychaudhuri",
+     "mins": 6,
+     "do": "Read Voice v3 to your child: Amal Kumar Raychaudhuri, who worked in Kolkata, wrote an equation in 1955 about how gravity squeezes moving matter together. Then ask the voice question and listen to their reasons.",
+     "ref": "v3"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 9,
+     "do": "Your child does the first two sections of Worksheet ws1 alone. Read the questions aloud if needed. Then go through the answers together and ask 'How do you know?' for each one. Finish the last section tomorrow.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a notebook for the maths",
+    "Worksheet ws1 (printed or in the app)"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "The arrow of time, and time that you feel",
+   "goal": "Ask why time runs only one way, and compare the time a clock shows with the time we feel.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Finish the core worksheet",
+     "mins": 7,
+     "do": "Your child does the last section of Worksheet ws1. Go through it together.",
+     "ref": "ws1"
+    },
+    {
+     "kind": "act",
+     "title": "Which comes first?",
+     "mins": 10,
+     "do": "Do Activity a4. Your child draws six small pictures on six slips of paper: a glass of water on a table, the glass tipping, the glass falling, the glass breaking, water spreading on the floor, a dry mark left behind. Shuffle the slips. Another family member puts them in order. Ask: 'How did you know the order?' (Glasses break but never unbreak. Water spreads but never gathers up.) Say: 'This one-way direction is called the arrow of time. Most laws of physics work the same forwards and backwards. Yet broken things stay broken. Scientists explain this with entropy: there are far more mixed and broken ways for things to be than tidy ones.' If your child did the Class 4 lesson on order and chaos, ask them to explain entropy with the coins.",
+     "ref": "a4"
+    },
+    {
+     "kind": "exp",
+     "title": "How long is a minute?",
+     "mins": 14,
+     "do": "Do Experiment e4. Your child sits still with eyes shut. Start a phone stopwatch without showing it, and say 'Go'. They say 'Now' when they think one minute has passed. Write down the real time. Then do it again while they play a fast clapping game or listen to a favourite song. Write that down too. Ask: 'When did the minute feel longer?' Most people guess short when bored and waiting, and guess long when busy, but not everyone. Compare with another family member.",
+     "ref": "e4"
+    },
+    {
+     "kind": "talk",
+     "title": "Fly time and fear time",
+     "mins": 7,
+     "do": "Say: 'A housefly sees the world in much finer slices of time than we do. Some flies can see about four times as many separate flashes in a second as we can. To a fly, your swatting hand comes down slowly. That is one reason flies are hard to swat.' Then say: 'In 2007, scientist David Eagleman dropped volunteers 31 metres into a safety net. Afterwards they said the fall lasted longer than it did. But during the fall they could not read numbers flashing too fast to see, so their brains did not really speed up. The fall felt long in their memory.' Ask: 'So whose time is the real time: the clock's, the fly's, or yours?'"
+    },
+    {
+     "kind": "act",
+     "title": "Breathing time",
+     "mins": 7,
+     "do": "Sit together on the floor. Breathe in slowly for a count of 4 and out for a count of 6, ten times. Then clap a steady beat together, first slow, then twice as fast. Ask: 'The clock moved the same amount. Did both feel the same?' Let your child describe it."
+    }
+   ],
+   "need": [
+    "six slips of paper and crayons",
+    "a phone stopwatch or a watch with seconds"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Time travel and wormholes",
+   "goal": "Sort what is proved, possible and unknown about time travel and wormholes, and play the spacetime game.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Is time travel real?",
+     "mins": 5,
+     "do": "Ask: 'Is time travel real?' Let them answer. Say: 'Travel into the future is real, in a small way. Meena in the rocket came back to a future 40 years on, while she aged only a few years. Scott Kelly travelled a tiny bit into the future too. Travel into the past is a different question.'"
+    },
+    {
+     "kind": "act",
+     "title": "Fold the paper",
+     "mins": 8,
+     "do": "Do Activity a5. Mark a dot near each end of a sheet of paper and label them 'Chennai' and 'a far star'. Ask: 'What is the shortest way between them?' (A straight line across the paper.) Then fold the paper so the two dots touch, and push a pencil through both. Say: 'This is a picture of a wormhole: spacetime bent so that two far places are joined by a short tunnel. Einstein's equations allow it on paper. Nobody has ever found one.'",
+     "ref": "a5"
+    },
+    {
+     "kind": "talk",
+     "title": "Hawking's party",
+     "mins": 10,
+     "do": "Read Voice v4. Then say: 'In 2009, Stephen Hawking held a party for time travellers in Cambridge. He sent out the invitations only after the party was over. He waited. Nobody came.' Ask: 'Does that prove time travel to the past is impossible?' Good answer: 'No. It is a joke with a real point. Maybe nobody in the future can travel back, or maybe they did not want to come.' Then ask the voice question.",
+     "ref": "v4"
+    },
+    {
+     "kind": "game",
+     "title": "Play: Race through Spacetime",
+     "mins": 16,
+     "do": "Play Game g1, the board game. Before you start, read the rules aloud. When a player lands on a question square, another player asks a question about this week, and the player must give a reason as well as an answer.",
+     "ref": "g1"
+    },
+    {
+     "kind": "think",
+     "title": "Is the future already there?",
+     "mins": 6,
+     "do": "Say: 'Some physicists think every moment, past, present and future, is equally real, like every page of a book already printed. Others think only now is real, and the future is still open.' Ask: 'Which do you think, and why? What would it mean for your choices?' There is no settled answer. Listen, and give your own view as one view."
+    }
+   ],
+   "need": [
+    "a sheet of paper and a pencil",
+    "the printed game board, a die and counters"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Teach it back",
+   "goal": "Check what has been learnt, try harder questions, and teach the week back.",
+   "steps": [
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 10,
+     "do": "Ask the check questions aloud. For each one, ask 'How do you know?' Listen for answers that use the light clock, the bedsheet, the muon, the GPS sum or the broken glass."
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 14,
+     "do": "Your child does Worksheet ws2. Read each question aloud if needed. Go through the answers together.",
+     "ref": "ws2"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "do": "Do Worksheet ws3 together. These questions are hard and some have no single right answer. Let your child argue with you. A good answer gives a reason.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back with the map",
+     "mins": 9,
+     "do": "Your child shows the spacetime map of one day to the family and explains: what a worldline is, why a moving clock ticks slower, why GPS must correct its clocks, and one thing nobody knows yet. Ask one family member to ask a question and let your child answer."
+    }
+   ],
+   "need": [
+    "Worksheets ws2 and ws3",
+    "the spacetime map"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Where, when and how fast",
+   "day": 6,
+   "sections": [
+    [
+     "A. Dimensions and events",
+     [
+      {
+       "t": "match",
+       "p": "Match each thing to how many dimensions it has.",
+       "pairs": [
+        [
+         "a tight thread",
+         "one"
+        ],
+        [
+         "a sheet of paper",
+         "two"
+        ],
+        [
+         "a room",
+         "three"
+        ],
+        [
+         "a room and the time on the clock",
+         "four"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Farhan hangs a bead in his room. What does he need to measure to tell his sister exactly where it is?",
+       "opts": [
+        "only its height",
+        "its distance from two walls, and its height",
+        "only its distance from the door"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "Something that happens at one place at one moment is called an ____.",
+       "a": [
+        "event"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Kavya says, 'Meet me at the bus stop.' Why might her friend not find her?",
+       "lines": 2
+      }
+     ]
+    ],
+    [
+     "B. Light and moving clocks",
+     [
+      {
+       "t": "mcq",
+       "p": "Light from the Sun takes about 8 minutes to reach us. When you see the Sun, you see...",
+       "opts": [
+        "the Sun as it is right now",
+        "the Sun as it was about 8 minutes ago",
+        "the Sun as it will be in 8 minutes"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "Light travels about 3 lakh ____ every second.",
+       "a": [
+        "kilometres",
+        "km",
+        "kilometers"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "In the light clock drawing, the moving clock's light makes a zigzag. Why does that make the moving clock tick slower?",
+       "lines": 3
+      },
+      {
+       "t": "mcq",
+       "p": "Twin sisters: Meena flies to a far star and back very fast. Thenmozhi stays home. When Meena gets back...",
+       "opts": [
+        "they are the same age",
+        "Meena is younger",
+        "Thenmozhi is younger"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Gravity, light and time",
+     [
+      {
+       "t": "sort",
+       "p": "Sort these into what makes a clock tick slower and what does not.",
+       "items": [
+        "moving very fast",
+        "being lower down, nearer the Earth",
+        "being near a black hole",
+        "being painted red",
+        "being on a high shelf",
+        "being in a dark room"
+       ],
+       "cats": [
+        "makes a clock tick slower",
+        "does not make it tick slower"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In 1919, during an eclipse, stars near the Sun looked a little out of place. Why?",
+       "opts": [
+        "the Moon pushed them",
+        "the Sun's mass bent the path of their light",
+        "the telescopes were broken"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "Einstein said gravity is ____ bending round mass.",
+       "a": [
+        "spacetime",
+        "space and time",
+        "space-time"
+       ]
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Using relativity",
+   "day": 9,
+   "sections": [
+    [
+     "A. Work it out",
+     [
+      {
+       "t": "mcq",
+       "p": "Light takes about 1 second to come from the Moon. An astronaut on the Moon says 'Hello' on the radio. When does her family on Earth hear it?",
+       "opts": [
+        "at the same instant",
+        "about 1 second later",
+        "about 1 hour later"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "GPS satellite clocks gain 45 millionths of a second a day from weak gravity and lose 7 from speed. Each day they gain ____ millionths of a second.",
+       "a": [
+        "38"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "A GPS satellite's clock is 38 millionths of a second fast each day. Why would that make an auto driver's map put her in the wrong street?",
+       "lines": 3
+      },
+      {
+       "t": "mcq",
+       "p": "Lakshmi keeps one atomic clock on the floor and one on top of a cupboard for a year. Which shows more time passed?",
+       "opts": [
+        "the one on the floor",
+        "the one on the cupboard",
+        "both show exactly the same"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Flatland and shadows",
+     [
+      {
+       "t": "mcq",
+       "p": "A ball passes down through a Flatlander's flat world. What does the Flatlander see?",
+       "opts": [
+        "a whole ball",
+        "a dot that grows into a circle, shrinks and vanishes",
+        "nothing at all"
+       ],
+       "a": 1
+      },
+      {
+       "t": "draw",
+       "p": "Draw the shadow of a straw cube when the shadow looks like a small square inside a big square. Join the corners."
+      },
+      {
+       "t": "write",
+       "p": "A Flatlander sees a circle appear from nowhere, grow and vanish. What could she say to her friends to explain it, if she guessed there was a third dimension?",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "C. Time you can feel",
+     [
+      {
+       "t": "sort",
+       "p": "Imagine a phone video of each change, played backwards. Sort them: would the backwards video look normal or wrong?",
+       "items": [
+        "a glass breaking",
+        "a swing going back and forth",
+        "ink spreading in water",
+        "a pendulum swinging once",
+        "a candle burning down",
+        "a dosa getting cooked"
+       ],
+       "cats": [
+        "could be run backwards without looking wrong",
+        "only goes one way"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Whose time is the real time? Divya, a girl in Class 4, says: 'The clock's time is real. It is the same for everyone in the room.' Her brother Arjun says: 'My own time is real. A boring minute is longer for me than a fun one.' A housefly would say: 'Your hand moves slowly. My time is finer than yours.' Pick one side and give your reason, using something from this week. Then write what one of the others could answer back.",
+       "lines": 5,
+       "a": "A strong answer uses evidence: the stopwatch test for felt time, the fly's fast vision, or atomic clocks for clock time. It also sees that clocks in different places tick at different rates, so even clock time is not the same everywhere. There is no single right side."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Hard questions about time",
+   "day": 9,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "Mohan says: 'Muons live about 2 millionths of a second. Even light goes only about 660 m in that time. So no muon from 15 km up can reach the ground.' What is wrong?",
+       "opts": [
+        "nothing, he is right",
+        "muons move so fast that their clocks tick slowly, so they last long enough",
+        "muons are pushed down by wind"
+       ],
+       "a": 1
+      },
+      {
+       "t": "write",
+       "p": "Meena says: 'From my rocket, it was Thenmozhi on Earth who moved fast. So she should be younger.' Why does Meena still come back younger?",
+       "lines": 4
+      },
+      {
+       "t": "mcq",
+       "p": "A wormhole would join two far places by a short tunnel. Which is true today?",
+       "opts": [
+        "scientists have found several",
+        "the maths allows them, but none has ever been found",
+        "the maths shows they are impossible"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "The fact that broken things never unbreak by themselves is called the ____ of time.",
+       "a": [
+        "arrow"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Says who? How do they know?",
+     [
+      {
+       "t": "match",
+       "p": "Match each test to what it showed.",
+       "pairs": [
+        [
+         "the 1919 eclipse",
+         "the Sun bends starlight"
+        ],
+        [
+         "atomic clocks on planes, 1971",
+         "moving clocks tick slower"
+        ],
+        [
+         "clocks 33 cm apart, 2010",
+         "a higher clock ticks faster"
+        ],
+        [
+         "LIGO, 2015",
+         "ripples in spacetime are real"
+        ]
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Some historians say the 1919 eclipse photographs were not clear enough to prove Einstein right. What other evidence would you want to see before you believed that gravity bends light?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Who should get the credit for an idea worked out in long talks between two people? Sathya, a teacher, says: 'The person whose name is on the paper did the work. That is all we can know.' Revathi, a writer, says: 'Ideas grow in talk. If two people worked on it together, both should be named, even if only one wrote it down.' Think of Mileva Marić and Albert Einstein. Pick a side and give your reason. Then answer back from the other side.",
+       "lines": 5,
+       "a": "A strong answer uses what is known: Einstein's 1901 letter mentions 'our work on relative motion', but no paper or notebook in Mileva Marić's hand shows that she wrote the 1905 work. It says what would count as proof, and why women's work was often left unrecorded at that time. Either side can be argued well."
+      }
+     ]
+    ],
+    [
+     "C. What if?",
+     [
+      {
+       "t": "write",
+       "p": "What if light were as slow as a bicycle? Describe two strange things you would see in your street.",
+       "lines": 4
+      },
+      {
+       "t": "sort",
+       "p": "Sort these ideas by what we know today.",
+       "items": [
+        "moving clocks tick slower",
+        "gravity bends light",
+        "black holes exist",
+        "extra curled-up dimensions",
+        "travel into the past",
+        "wormholes"
+       ],
+       "cats": [
+        "measured and accepted",
+        "an idea nobody has proved"
+       ]
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The light clock",
+   "day": 3,
+   "question": "Why would a moving clock tick slower, if light always has the same speed?",
+   "need": [
+    "a long strip of paper, about 60 cm (cut from the edge of a newspaper, or tape sheets together)",
+    "a pencil",
+    "a ruler",
+    "a thread"
+   ],
+   "steps": [
+    "Draw two straight lines along the strip, 5 cm apart. They are the two mirrors of the clock.",
+    "Put the strip on a table. Your child moves the pencil straight up and down between the lines, touching each line, 6 times, while the paper stays still. This is the clock at rest.",
+    "On a fresh part of the strip, do it again, at the same speed, while you slowly and steadily pull the paper sideways. This is the clock moving past you.",
+    "Lay a thread along each drawn path and mark its length. Measure both threads with the ruler."
+   ],
+   "predict": "Ask your child to guess first: 'Which path will be longer, and by how much?'",
+   "observe": "The still clock makes a line that goes back over itself, about 30 cm in all (6 trips of 5 cm). The moving clock makes a zigzag that is longer. The faster you pull, the longer the zigzag.",
+   "why": "Imagine light bouncing between two mirrors, one tick for each bounce. Seen from outside, light in a moving clock must travel along a slanting path, which is longer. Light always travels at the same speed, so each tick takes longer. To someone standing still, the moving clock ticks slower. Einstein worked this out in 1905, and it has been measured with atomic clocks and with muons. The pencil is not light, so this only shows the shape of the idea.",
+   "safety": "",
+   "time": "15 min"
+  },
+  {
+   "id": "e2",
+   "title": "Rolling past a heavy ball",
+   "day": 5,
+   "question": "Does a moving object's path bend when it passes close to a heavy object on a curved surface?",
+   "need": [
+    "a bedsheet",
+    "two people to hold it",
+    "a heavy ball, or a 1 kg packet of salt or atta",
+    "a marble or a small light ball"
+   ],
+   "steps": [
+    "Two people hold the bedsheet tight and level at waist height.",
+    "Your child rolls the marble straight across the sheet from one edge. Watch its path.",
+    "Put the heavy object in the middle. The sheet dips.",
+    "Roll the marble from the same edge, aimed to pass about 30 cm to one side of the heavy object. Watch its path.",
+    "Roll it again, aimed to pass only about 10 cm from the heavy object.",
+    "Roll it once more, a little faster, at 10 cm."
+   ],
+   "predict": "Ask: 'When the heavy ball is there, will the marble still go straight? Will it matter how close it passes?'",
+   "observe": "On the flat sheet the marble goes straight. With the heavy object, the marble curves towards it. It bends more when it passes close. If it is slow and close, it may roll right into the dip. A faster marble bends less.",
+   "why": "Einstein's general theory of relativity (1915) says that mass bends spacetime, and everything moving through it, even light, follows the bends. Light near the Sun bends very slightly. The bedsheet is only a model: real space bends in every direction round a planet, not just downwards, and on the sheet it is the Earth's gravity that pulls the marble into the dip. The model shows the shape of the idea, not the cause.",
+   "safety": "Keep marbles away from small children, who might swallow them.",
+   "time": "15 min"
+  },
+  {
+   "id": "e3",
+   "title": "A lens of glass",
+   "day": 5,
+   "question": "How can something in front of a light bend it into arcs and rings?",
+   "need": [
+    "a clear glass tumbler with a thick round bottom (or a clear glass bottle)",
+    "squared paper",
+    "a pen",
+    "a torch or a bright window"
+   ],
+   "steps": [
+    "Draw a small dark dot in the middle of the squared paper.",
+    "Hold the tumbler upright, a few centimetres above the dot, and look down through its thick bottom.",
+    "Move the glass slowly left and right, and up and down, while looking.",
+    "Find the place where the dot is right in the middle of the glass's base."
+   ],
+   "predict": "Ask: 'What will the straight lines and the dot look like through the glass?'",
+   "observe": "The straight lines bend into curves. The dot stretches into an arc, and when it is lined up exactly in the middle, it can spread into a ring or several arcs.",
+   "why": "Glass bends light because light slows down in glass. Gravity bends light differently: the light follows the curve of spacetime round a heavy galaxy. But the pictures look alike. Telescopes have photographed many 'Einstein rings' and arcs, where light from a far galaxy bends round a nearer heavy one. This is called gravitational lensing.",
+   "safety": "Use a strong tumbler, and hold it over a table so it cannot fall far.",
+   "time": "10 min"
+  },
+  {
+   "id": "e4",
+   "title": "How long is a minute?",
+   "day": 7,
+   "question": "Is the time we feel the same as the time a clock shows?",
+   "need": [
+    "a phone stopwatch or a watch with a seconds hand",
+    "a notebook",
+    "a favourite song or a clapping game"
+   ],
+   "steps": [
+    "Your child sits still with eyes shut. Start the stopwatch quietly and say 'Go'.",
+    "They say 'Now' when they think one minute has passed. Write down the real time shown.",
+    "Do it again while they play a fast clapping game with you, or listen to a favourite song, and say 'Now' after what feels like one minute. Write it down.",
+    "Repeat both tries with another family member.",
+    "Make a table: person, sitting still, busy."
+   ],
+   "predict": "Ask: 'Will your minute be exactly 60 seconds? Will it be shorter when you are bored or when you are busy?'",
+   "observe": "Few people say 'Now' at exactly 60 seconds. Many people's guesses change between sitting still and being busy, but people differ, so record what really happens rather than what you expected.",
+   "why": "We have no sense organ for time. The brain judges time from how much happens and how much attention we pay to it. That is why felt time can disagree with clock time. Scientists are still finding out how the brain does it.",
+   "safety": "",
+   "time": "15 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Three numbers find the bead",
+   "day": 1,
+   "mins": 14,
+   "need": [
+    "a bead or button on a thread",
+    "a curtain rod, fan hook or chair to hang it from",
+    "a measuring tape"
+   ],
+   "steps": [
+    "Hang the bead somewhere in the middle of the room, about at your child's head height.",
+    "Your child measures its distance from one wall, in centimetres, along the floor.",
+    "Then its distance from the wall next to it, at a right angle.",
+    "Then its height above the floor.",
+    "They write the three numbers in their notebook.",
+    "Remove the bead. Give the numbers to another family member, who measures and puts a finger where the bead was."
+   ],
+   "outcome": "Your child sees that three numbers, called coordinates, fix one exact place in a room with three dimensions.",
+   "setup": [
+    {
+     "art": "A bead hanging on a thread in a room, with arrows showing its distance from two walls and its height above the floor.",
+     "caption": "Three measurements find the bead."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "A visitor to Flatland",
+   "day": 2,
+   "mins": 12,
+   "need": [
+    "a carrot",
+    "a knife and board (for the grown-up)"
+   ],
+   "steps": [
+    "The grown-up cuts the carrot into 8 round slices, keeping them in order from the tip to the top.",
+    "Your child lies on the floor with one cheek on the floor, so their eye is at floor level. They are a Flatlander.",
+    "Slide the slices across the floor towards them one at a time, tip first.",
+    "Your child says what they see each time: a dot, a small circle, a bigger circle.",
+    "Then show them the whole carrot. Ask what a Flatlander could never see."
+   ],
+   "outcome": "Your child understands that a flat being would see a 3D object only as changing flat slices, one after another in time. In the same way, if there were a fourth dimension of space, we might see only slices of it."
+  },
+  {
+   "id": "a3",
+   "title": "The shadow of a cube",
+   "day": 2,
+   "mins": 14,
+   "need": [
+    "12 straws or matchsticks of the same length",
+    "8 small balls of atta dough or clay",
+    "a torch",
+    "a plain wall in a dark room"
+   ],
+   "steps": [
+    "Make a square from 4 straws with a dough ball at each corner.",
+    "Make a second square the same way.",
+    "Join the two squares with 4 more straws standing upright, to make a cube.",
+    "In a dark room, shine the torch on the cube so its shadow falls on the wall.",
+    "Turn the cube slowly. Find the shadow that looks like a small square inside a big square, with corners joined.",
+    "Draw that shadow. Then the grown-up draws the tesseract shadow: a small cube inside a big cube, with the 8 corners joined."
+   ],
+   "outcome": "A straw cube and a drawing of its flat shadow, beside a drawing of a four-dimensional cube's shadow in our world."
+  },
+  {
+   "id": "a4",
+   "title": "Which comes first?",
+   "day": 7,
+   "mins": 10,
+   "need": [
+    "six slips of paper",
+    "crayons"
+   ],
+   "steps": [
+    "Your child draws one picture on each slip: a glass of water on a table, the glass tipping, the glass falling, the glass breaking, water spreading on the floor, a dry mark left behind.",
+    "Shuffle the slips.",
+    "Another family member puts them in order without being told.",
+    "Talk about how they knew the order."
+   ],
+   "outcome": "Your child sees that we can always tell which way time runs from changes that only go one way."
+  },
+  {
+   "id": "a5",
+   "title": "Fold the paper",
+   "day": 8,
+   "mins": 8,
+   "need": [
+    "a sheet of paper",
+    "a pencil"
+   ],
+   "steps": [
+    "Mark a dot near each end of the paper. Label one 'Chennai' and the other 'a far star'.",
+    "Draw the straight line between them.",
+    "Fold the paper so the two dots touch.",
+    "Push the pencil through both dots."
+   ],
+   "outcome": "A picture of the idea of a wormhole: spacetime bent so two far places meet. It is a model of an idea, not of something anyone has found."
+  }
+ ],
+ "project": {
+  "title": "A spacetime map of one day",
+  "days": [
+   1,
+   4,
+   9
+  ],
+  "steps": [
+   "On squared paper, draw a 'where' line across the bottom, marked with places in your home or street, and a 'when' line up the side, marked with hours from 6 am to 9 pm.",
+   "Through the day, put a dot for each event (waking up, breakfast, school work, play), at its place and time.",
+   "Join the dots in order with one colour. This is your worldline.",
+   "On Day 4, add a second worldline in another colour for someone who stayed in one room, and a third for someone who travelled far.",
+   "Draw the path of a flash of light from the balcony. It crosses the whole 'where' line in far less than a second, so its line lies almost flat.",
+   "On Day 9, show the map and explain it to the family."
+  ],
+  "outcome": "A spacetime diagram of your child's own day, with several worldlines, which they can explain."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Race through Spacetime",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "a die",
+   "a counter for each player"
+  ],
+  "rules": [
+   "Everyone starts on EARTH. Take turns to roll the die and move.",
+   "On a 'Question' square, another player asks a question about this week. Give an answer and a reason. If both are right, move on 2.",
+   "Follow the instructions on the other squares.",
+   "The wormhole square needs exotic matter. There is no exotic matter in this game, because nobody has ever found any. So you stay where you are.",
+   "The first player to reach HOME, BACK ON EARTH must explain why they are younger than the players still travelling. (They moved fastest.)"
+  ],
+  "squares": [
+   "EARTH (start)",
+   "Question",
+   "Launch: move on 2",
+   "See the Sun as it was 8 minutes ago: move on 1",
+   "Question",
+   "Pass close to a black hole: your clock slows, miss a turn",
+   "Question",
+   "Light bends round a star: move sideways to the next square",
+   "Flatland visitor: name what a flat being sees",
+   "Question",
+   "Wormhole: needs exotic matter, stay where you are",
+   "GPS clock not corrected: you are 11 km off, go back 3",
+   "Question",
+   "Gravitational wave ripple: everyone moves on 1",
+   "Muon reaches the ground: move on 2",
+   "Question",
+   "Twin paradox: say which twin is younger, move on 1",
+   "Tesseract shadow: draw it in the air",
+   "Question",
+   "Arrow of time: you cannot go back, move on 1",
+   "Question",
+   "Atomic clock check: roll again",
+   "HOME, BACK ON EARTH"
+  ]
+ },
+ "big": [
+  "If a clock on a shelf and a clock on the floor disagree, which one shows the real time?",
+  "If you could travel to the future but never come back, would you go?",
+  "Is the future already there, waiting, or are we making it now?",
+  "If there were a hidden dimension we could never sense, would it matter to us?",
+  "When two people work out an idea together, who owns it?"
+ ],
+ "challenge": [
+  {
+   "q": "'Einstein failed maths at school.' Did he?",
+   "hint": "No. School records show he had top marks in maths. He did fail the general part of an entrance exam to a college in Zurich when he was 16, two years younger than most, though he did very well in maths and physics. Why do you think the 'failed maths' story is so popular?"
+  },
+  {
+   "q": "'Relativity means everything is relative, so nothing is true for everyone.' Is that right?",
+   "hint": "No. Relativity starts from things that are the same for everyone: the speed of light, and the laws of physics. Times and lengths change with speed and gravity, but in a way everyone can calculate and agree on. What stays the same for everyone in your own life?"
+  },
+  {
+   "q": "'Astronauts float because there is no gravity in space.' Is that right?",
+   "hint": "No. At the height of the space station, gravity is still about nine-tenths as strong as on the ground. Astronauts float because they and the station are falling round the Earth together. Their clocks are affected by both their speed and the weaker gravity. Which effect wins on the space station?"
+  },
+  {
+   "q": "'Time travel into the past is impossible.' Is it?",
+   "hint": "Nobody knows. No law we know forbids it completely, and nobody has ever done it or found a way. Stephen Hawking suggested nature has a rule that stops it, but it is not proved. What evidence would settle it?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "The Bhagavata Purana, an old Indian story",
+   "view": "King Kakudmi takes his daughter Revati to ask the creator Brahma to choose her husband. They wait only a short while in Brahma's world. When they return to Earth, ages have passed, and everyone they knew is gone. Japan has a similar old story, of the fisherman Urashima Taro. These are stories, not science, but they imagine time passing at different rates in different places. Ask: why might people long ago have imagined this?"
+  },
+  {
+   "who": "A housefly",
+   "view": "A fly sees the world in finer slices of time than we do. Our quick hand looks slow to them. Ask: is our time the 'normal' time, or just one of many?"
+  },
+  {
+   "who": "Gottfried Leibniz (1646–1716), a German thinker who argued with Newton",
+   "view": "Newton said space and time are real things, like a stage, that would exist even if the world were empty. Leibniz said space is only the relations between things, and time only the order of events. Scientists still argue about this. Ask: if everything vanished, would space and time still be there?"
+  },
+  {
+   "who": "Fishing families in Kerala and Tamil Nadu",
+   "view": "Many fishing boats now use satellite navigation to find their way, mark good fishing spots and get home safely. Every position depends on clocks corrected for relativity. Ask: what did fishers use to find their way before satellites?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Mileva Marić (1875–1948), Serbia and Switzerland",
+   "idea": "She was one of very few women studying physics at the Zurich Polytechnic, where she met Albert Einstein. They studied together and married in 1903. In a letter in 1901, Einstein wrote to her about how proud he would be when 'the two of us together' brought 'our work on relative motion' to a successful end. Some writers have argued she helped create relativity and should share the credit.",
+   "then": "Her name is not on any of Einstein's 1905 papers. When they divorced in 1919, Einstein agreed that the money from a future Nobel Prize would go to her. He won it in 1921 and the money went to her.",
+   "now": "Historians disagree. No paper, notebook or letter in her own hand shows her doing relativity work, and many historians think she was mainly a partner in talk and study. Others point out that women's work was often not recorded at that time. Most historians do not think she co-wrote relativity.",
+   "status": "minority",
+   "ask": "What evidence would you need to decide how much Mileva Marić helped? Why might that evidence be missing?",
+   "day": 4
+  },
+  {
+   "id": "v2",
+   "who": "Arthur Eddington (1882–1944), England, with Andrew Crommelin and Charles Davidson",
+   "idea": "During the total solar eclipse of 29 May 1919, Eddington photographed stars near the Sun from the island of Príncipe, off Africa, while Crommelin and Davidson photographed them from Sobral in Brazil. They measured how far the stars seemed to have moved, to test Einstein's prediction that the Sun bends starlight.",
+   "then": "In November 1919 the results were announced in London as a win for Einstein, and he became world-famous overnight. Clouds had spoiled many of Eddington's plates, and some scientists felt the evidence was weaker than claimed.",
+   "now": "Some historians later argued that Eddington chose the data that suited Einstein. Others studied the plates again and found the Sobral photographs support Einstein. Since then, many more precise tests, with radio telescopes and space probes, have confirmed that the Sun bends light by the amount Einstein predicted.",
+   "status": "accepted",
+   "ask": "The first test was not perfect, but later tests agreed. Why is it important that a result is checked again by other people with other methods?",
+   "day": 5
+  },
+  {
+   "id": "v3",
+   "who": "Amal Kumar Raychaudhuri (1923–2005), Kolkata, India",
+   "idea": "Working in Kolkata, he published an equation in 1955 that describes how a group of moving particles is squeezed together by gravity in curved spacetime. It is now called the Raychaudhuri equation.",
+   "then": "Few physicists in India worked on Einstein's gravity at the time. The importance of his equation became clear about ten years later, Roger Penrose and Stephen Hawking used results like his to show that black holes and the beginning of the universe must contain points where spacetime ends, called singularities.",
+   "now": "The Raychaudhuri equation is taught in relativity courses around the world. Roger Penrose won the Nobel Prize in 2020 for work that built on such ideas. He also taught physics for many years at Presidency College in Kolkata.",
+   "status": "accepted",
+   "ask": "Raychaudhuri worked on a question that few people around him studied. Why might it be worth working on something others are not interested in?",
+   "day": 6
+  },
+  {
+   "id": "v4",
+   "who": "Stephen Hawking (1942–2018), England, and Kip Thorne (born 1940), USA",
+   "idea": "In 1988, Kip Thorne and his student Mike Morris worked out that a wormhole could stay open only with 'exotic matter' that has negative energy, which nobody has ever collected. Wormholes might then also be used to travel into the past. In 1992, Hawking suggested that the laws of nature always stop travel into the past. He called this the chronology protection conjecture. A conjecture is an idea that has not been proved.",
+   "then": "Many physicists found Hawking's idea likely, but nobody could prove it. Thorne and others kept studying what the equations allow.",
+   "now": "It is still open. Nobody has found a wormhole or exotic matter in useful amounts, and nobody has proved backward time travel impossible. Most physicists expect it is impossible, but a full theory joining gravity and quantum physics may be needed to be sure.",
+   "status": "debated",
+   "ask": "If someone did travel to the past and changed something, what puzzles would that cause? Does that make you think it is impossible?",
+   "day": 8
+  }
+ ],
+ "books": [
+  {
+   "title": "On a Beam of Light: A Story of Albert Einstein",
+   "author": "Jennifer Berne",
+   "for": "read together",
+   "age": "5–9",
+   "why": "A gentle picture-book life of Einstein, from the boy who wondered what it would be like to ride on a beam of light."
+  },
+  {
+   "title": "Albert Einstein and Relativity for Kids",
+   "author": "Jerome Pohlen",
+   "for": "read together",
+   "age": "9–12",
+   "why": "Einstein's life and ideas with simple activities and thought experiments a parent can try at home."
+  },
+  {
+   "title": "George's Secret Key to the Universe",
+   "author": "Lucy Hawking and Stephen Hawking",
+   "for": "read alone",
+   "age": "8–12",
+   "why": "An adventure story through space, written by Stephen Hawking and his daughter, with true facts about black holes and the universe."
+  },
+  {
+   "title": "A Wrinkle in Time",
+   "author": "Madeleine L'Engle",
+   "for": "read together",
+   "age": "9–12",
+   "why": "A famous novel in which Meg travels across the universe by a 'tesseract', a fold in space and time. Read it after the cube-shadow activity."
+  },
+  {
+   "title": "Flatland: A Romance of Many Dimensions",
+   "author": "Edwin A. Abbott",
+   "for": "parent reads",
+   "age": "parent, read parts aloud to 9 and over",
+   "why": "The 1884 book about flat beings who meet a visitor from the third dimension. Read the part where the Sphere visits the Square. Parts of it mock the way the society of its time treated women."
+  }
+ ],
+ "check": [
+  {
+   "q": "How many numbers do you need to say where a bead is in a room? And to say where and when something happens?",
+   "a": "Three for where: the distance from two walls and the height. Four for an event: those three and the time."
+  },
+  {
+   "q": "Why does a moving clock tick slower than a still one?",
+   "a": "In the light clock, the light in the moving clock travels a longer, slanted path for each tick. Light always has the same speed, so each tick takes longer."
+  },
+  {
+   "q": "How do muons from 15 km up reach the ground, when they live only about 2 millionths of a second?",
+   "a": "They move so fast that their clocks tick slowly compared with ours, so they last long enough to reach the ground."
+  },
+  {
+   "q": "Why does a GPS satellite's clock need correcting?",
+   "a": "Weaker gravity up there makes it run about 45 millionths of a second a day fast, and its speed makes it about 7 slow. Together, about 38 fast each day. Without a fix, positions would be about 11 km wrong after a day."
+  },
+  {
+   "q": "What did the 1919 eclipse test?",
+   "a": "Whether the Sun bends starlight. Stars near the Sun seemed slightly out of place, as Einstein predicted. Later, better tests agreed."
+  },
+  {
+   "q": "What is the arrow of time?",
+   "a": "Time runs one way: glasses break but never unbreak, and spilt water spreads but never gathers back. There are far more mixed and broken ways for things to be than tidy ones."
+  },
+  {
+   "q": "Is time travel real?",
+   "a": "Travel into the future is real in a small way: fast or low clocks tick slower. Travel into the past has never been done, and nobody knows if it is possible."
+  },
+  {
+   "q": "Teach it back: use your spacetime map to explain what a worldline is.",
+   "a": "A worldline is the path of a person or thing through space and time. Standing still makes a straight line up the 'when' side. Moving makes it lean."
+  }
+ ],
+ "story": {
+  "title": "Two Millionths of a Second over the Nilgiris",
+  "text": [
+   "I was born fifteen kilometres above the Nilgiri hills, at a quarter past two in the morning. Nobody saw it happen.",
+   "A cosmic ray made me. It was a tiny particle, smaller than an atom, that had been flying through space for a very long time. It struck the thin, cold air high above the hills. The crash made a shower of new particles, spraying downwards. I was one of them. I am a muon.",
+   "A muon is a cousin of the electron, about two hundred times heavier. We do not live long. Each of us carries a kind of clock inside, and on average it gives us about two millionths of a second. Then we break apart into an electron and two tiny ghostly particles called neutrinos. That is all the time we have.",
+   "Beside me in the shower was my sister. We were born in the same instant, from the same crash. But I was born fast, and she was born slower. I was rushing downwards at almost the speed of light. Only light itself is faster.",
+   "\"Two millionths of a second,\" my sister said. \"How far can we get?\"",
+   "Every muon knows the sum. Even light travels only about 660 metres in two millionths of a second. Below us, the ground was fifteen kilometres away.",
+   "\"We will never reach it,\" she said.",
+   "We fell together through the dark. Far below, I could see the black shapes of the hills, the silver of a lake, and a few yellow lights. Then my sister began to fade. Her clock had run out. There was a small flicker, and where she had been there was only an electron and two neutrinos, flying on without her. I was alone.",
+   "I kept falling. I counted my own ticks, and they felt perfectly ordinary. But the hills rushed up at me far too quickly, as if the fifteen kilometres had been squeezed short. I passed through a cloud. I passed the tops of the eucalyptus trees, wet with mist.",
+   "In a long, low building on the edge of Ooty, a woman named Dr. Lakshmi was on night duty. Her daughter Kavya, who was nine, sat on a stool beside her in a sweater two sizes too big. Kavya had woken up and refused to go back to sleep, so Dr. Lakshmi had wrapped her in the sweater and brought her along.",
+   "The building held a muon detector. Under a thick layer of concrete lay thousands of long metal tubes, each filled with gas. Whenever a muon passed through a tube, it sent a tiny pulse of electricity to a computer, and a dot appeared on a screen. The dots came and went all the time, like rain on a window.",
+   "\"Why do you count them all night?\" Kavya asked.",
+   "\"They tell us about the cosmic rays that make them, and about storms on the Sun,\" said her mother. \"And they are everywhere. Every second, one or two of them pass straight through your hand.\"",
+   "Kavya looked at her palm. It looked the same as always. She turned it over and looked at the back.",
+   "\"Where do they come from?\"",
+   "\"High in the sky. Most are born about fifteen kilometres up.\"",
+   "\"And how long do they live?\"",
+   "\"About two millionths of a second.\"",
+   "Kavya frowned. Her mother had taught her that light goes three lakh kilometres in one second. She did the sum slowly in her head, the way her mother did, moving her lips. \"In two millionths of a second, even light only goes about six hundred metres,\" she said. \"Then they can't get here. They'd all break apart long before.\"",
+   "Dr. Lakshmi smiled. \"That is exactly what a scientist would say. And yet,\" she pointed at the screen, \"here they are.\"",
+   "I went through the roof. I went through the concrete, and through a metal tube full of gas. The tube felt me pass and sent its tiny pulse to the screen. A green dot appeared.",
+   "\"There,\" said Dr. Lakshmi. \"One more.\"",
+   "Kavya stared at the dot. She thought about the muon, rushing down from fifteen kilometres up with its tiny clock. She thought about the sum, which was right, and about the dot, which was also right. Both could not be true, unless something else was different.",
+   "\"Unless its clock was slow,\" she said slowly. \"Unless, because it was going so fast, its clock ticked slower than ours.\"",
+   "Her mother did not answer at once. She looked at her daughter for a long moment. \"A man named Einstein said that in 1905,\" she said. \"Nobody had even seen a muon then. They were found thirty years later. And when scientists measured them, they behaved just as he said.\"",
+   "Under the building, deep in the cold earth, my clock ran out at last, and I became an electron and two neutrinos. One of the neutrinos is still travelling. It will go through the whole Earth and out the other side without touching anything.",
+   "Up in the hall, Kavya held her hand out flat under the light, very still. She could not see anything. She could not feel anything. But she counted under her breath, one, two, three, and she knew that somewhere above the dark hills, more muons were being born, and falling."
+  ],
+  "epiphany": "For the parent: the muon should die long before reaching the ground, yet the detector counts it. The turn comes when Kavya realises both the sum and the dot are true only if the fast muon's clock ticks slowly. That is time dilation. From the muon's own side, its clock feels normal, and the distance seems squeezed shorter. Let your child find this; do not explain it straight after reading.",
+  "ask": [
+   "Why did Kavya think the muons could not reach Ooty?",
+   "Why did the muon's sister not reach the ground?",
+   "The muon said its ticks felt ordinary. So why did it reach the ground?",
+   "Muons pass through your hand every second. How does it feel to know that?",
+   "Dr. Lakshmi looked at Kavya for a long moment. What do you think she was feeling?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Time does not tick at the same speed everywhere.",
+   "more": "A clock that moves fast, or sits deeper in gravity, ticks slower than one that does not. Atomic clocks on planes, on shelves and on satellites have measured it. GPS would not work without correcting for it."
+  },
+  {
+   "idea": "Space and time are one thing: spacetime.",
+   "more": "Every event has a where and a when. Mass bends spacetime, and the bend is what we feel as gravity. Even light follows it."
+  },
+  {
+   "idea": "When you look out, you look back in time.",
+   "more": "Light takes time to travel. You see the Moon as it was a second ago, the Sun as it was 8 minutes ago, and the stars as they were years or thousands of years ago."
+  }
+ ],
+ "unknowns": [
+  "Why does time run only one way, when most laws of physics work just as well backwards? Entropy explains part of it, but scientists still argue about why the universe began so tidy.",
+  "Are there extra dimensions of space, curled up too small to see? String theory needs them, but no experiment has found any sign.",
+  "Is travel into the past possible? Einstein's equations allow strange shapes of spacetime, but nobody knows if nature allows them.",
+  "What happens at the very centre of a black hole? Einstein's theory breaks down there, and nobody yet has a theory that joins gravity with quantum physics."
+ ]
+}

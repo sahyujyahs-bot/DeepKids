@@ -855,40 +855,25 @@
    "items": [
     {
      "t": "mcq",
-     "p": "What does a balanced diet mean?",
+     "p": "In the story The Brown Jar, Kamal's mother, Sakhu, ate rice and thin dal every day and always felt full. Yet she grew pale and ill. Why?",
      "opts": [
-      "Eating many kinds of food, in about the right amounts, over a day or week",
-      "Eating less food",
-      "Eating the same healthy food every day"
+      "Enough food is not the same as the right food. Her meals were missing something her body needed.",
+      "She ate too much rice",
+      "Feeling full always means the body is well fed"
      ],
      "a": 0,
-     "why": "A balanced diet is about mixing many kinds of food so the body gets everything it needs. It does not mean eating less. Picking 'eating less' is a common mix-up, because people often use the word 'diet' to mean eating less."
+     "why": "Sakhu's stomach was full, but her meals had almost no vegetables, fruit, milk or eggs. So her body was short of a vitamin it needs only a pinch of. A full stomach and a balanced diet are not the same thing."
     },
     {
-     "t": "mcq",
-     "p": "Which of these is a body-building (grow) food?",
-     "opts": [
-      "Rice",
-      "Rajma",
-      "Cucumber"
-     ],
-     "a": 1,
-     "why": "Rajma is full of protein, which the body uses to build and mend itself. Rice is mostly an energy food. Cucumber is a protecting (glow) food. Picking rice usually means thinking a filling food must build the body."
-    },
-    {
-     "t": "mcq",
-     "p": "Which of these is a protecting (glow) food?",
-     "opts": [
-      "Guava",
-      "Ghee",
-      "Bread"
-     ],
-     "a": 0,
-     "why": "Guava is a fruit, full of vitamin C and fibre. Ghee is fat and bread is mostly starch. Both give energy. Picking ghee might mean thinking all homemade foods are protecting foods."
+     "t": "write",
+     "p": "Many people use the word 'diet' to mean eating less. What does a balanced diet really mean? Give an example from your own home.",
+     "lines": 3,
+     "a": "A balanced diet means eating many kinds of food, in about the right amounts, over a day or a week. It does not mean eating less. For example, in my home we eat idli with sambar in the morning, rice, dal and poriyal at lunch, and fruit in the evening.",
+     "why": "A strong answer says 'many kinds' and 'over a day or a week', and gives a real example from the child's own meals."
     },
     {
      "t": "sort",
-     "p": "Sort these foods by their main job.",
+     "p": "Sort these foods by their main job in your body.",
      "cats": [
       "Go (energy)",
       "Grow (body-building)",
@@ -900,7 +885,7 @@
        "Go (energy)"
       ],
       [
-       "poha",
+       "idli",
        "Go (energy)"
       ],
       [
@@ -912,7 +897,7 @@
        "Grow (body-building)"
       ],
       [
-       "palak",
+       "keerai",
        "Glow (protecting)"
       ],
       [
@@ -921,17 +906,27 @@
       ]
      ],
      "a": "see items",
-     "why": "Ragi and poha are mostly starch, which gives energy. Dal and egg give protein to build the body. Palak and papaya give vitamins, minerals and fibre."
+     "why": "Ragi and idli are mostly starch, which gives energy. Dal and egg give protein to build the body. Keerai, which is spinach and other greens, and papaya give vitamins, minerals and fibre. Many foods do more than one job, so this is each food's main job."
+    },
+    {
+     "t": "mcq",
+     "p": "Meenakshi says, \"Potato is a vegetable. So a plate of rice and potato curry is half vegetables.\" What is the mistake in her thinking?",
+     "opts": [
+      "Potato is mostly starch, so in the body it acts more like rice than like greens",
+      "Potato is not a plant",
+      "There is no mistake"
+     ],
+     "a": 0,
+     "why": "Potato grows in the soil like a vegetable, but it is mostly starch, which gives energy. So that plate is nearly all energy food. Greens, beans, carrots or gourds would fill the vegetable half."
     },
     {
      "t": "fill",
-     "p": "On a balanced plate, about ____ of the plate is vegetables and fruit.",
+     "p": "Food is broken into tiny pieces that are small enough to pass into the ____, which carries them to every cell.",
      "a": [
-      "half",
-      "1/2",
-      "one half"
+      "blood",
+      "bloodstream"
      ],
-     "why": "About half the plate is vegetables and fruit. The rest is shared between grains and protein foods like dal, curd, eggs or paneer."
+     "why": "Digestion breaks food into tiny building blocks. These pass through the wall of the gut into the blood. The blood carries them to all your cells."
     },
     {
      "t": "truefalse",
@@ -941,20 +936,29 @@
     },
     {
      "t": "truefalse",
-     "p": "Water is a nutrient.",
-     "a": true,
-     "why": "True. Water makes up more than half of your body. Blood, spit and the inside of every cell are mostly water. You need to drink it back every day."
+     "p": "If your stomach feels full, your body has got everything it needs.",
+     "a": false,
+     "why": "False. Feeling full tells you the stomach has enough food in it. It does not tell you whether that food had protein, iron or vitamins. That is why we eat many kinds of food."
     },
     {
      "t": "mcq",
-     "p": "Remember the Paper Window Test, where you rubbed foods on paper. Which food left a see-through spot that stayed?",
+     "p": "Remember the Paper Window Test. Which food left a see-through spot that stayed?",
      "opts": [
       "Peanut",
       "Apple",
       "Water"
      ],
      "a": 0,
-     "why": "Peanuts carry fat, which leaves a see-through spot that does not dry. Apple has almost no fat, and water dries away. Picking water usually means looking at the paper before the water had time to dry.",
+     "why": "Peanuts carry fat, which leaves a see-through spot that does not dry. Apple has almost no fat, and water dries away. If you picked water, you may have looked at the paper before the water had time to dry.",
+     "how": "e1",
+     "context": "In the Paper Window Test, you rub foods on paper and wait 15 minutes. A see-through spot that stays means fat."
+    },
+    {
+     "t": "write",
+     "p": "Before the Paper Window Test, make a guess. Will a piece of fresh coconut leave a see-through spot? Why do you think so? How would the test show whether you were right?",
+     "lines": 4,
+     "a": "I think yes, because coconut is oily and we make coconut oil from it. If the spot is still see-through after 15 minutes, that shows fat. If it dries away, my guess was wrong. Fresh coconut is about one third fat, so it does leave a spot.",
+     "why": "A strong answer gives a guess with a reason, then says what result would prove it right or wrong.",
      "how": "e1",
      "context": "In the Paper Window Test, you rub foods on paper and wait 15 minutes. A see-through spot that stays means fat."
     },
@@ -983,61 +987,50 @@
      "why": "Each nutrient has its own jobs. Protein builds the body. Calcium hardens bones. Iron carries oxygen in the blood. Vitamin C helps mend skin and take in iron from plant foods."
     },
     {
-     "t": "mcq",
-     "p": "What is digestion?",
-     "opts": [
-      "Breaking food into pieces small enough to pass into the blood",
-      "Chewing food",
-      "Swallowing food"
-     ],
-     "a": 0,
-     "why": "Digestion is the whole job of breaking food down. It goes on until the pieces can pass through the gut wall into the blood. Chewing is only the first step. Picking 'chewing' is a good start, but digestion goes on in the stomach and intestines too."
-    },
-    {
-     "t": "mcq",
-     "p": "Which part of food does your body NOT digest, but your gut microbes eat?",
-     "opts": [
-      "Fibre",
-      "Sugar",
-      "Protein"
-     ],
-     "a": 0,
-     "why": "Your enzymes cannot cut fibre, so it travels to your large intestine. There the gut microbes eat it. Sugar and protein are digested by your own body. Picking sugar might mean remembering that yeast eats sugar. Gut microbes mostly get the fibre."
-    },
-    {
      "t": "order",
      "p": "Put the journey of a spoon of dal in order.",
      "items": [
+      "blood",
+      "stomach",
+      "muscle cell",
+      "mouth",
+      "small intestine"
+     ],
+     "a": [
       "mouth",
       "stomach",
       "small intestine",
       "blood",
       "muscle cell"
      ],
-     "a": "order shown",
-     "why": "The dal is chewed in the mouth. Acid and enzymes break it in the stomach. In the small intestine it is cut into amino acids. These pass into the blood. A muscle cell rebuilds them into their own protein."
+     "why": "The dal is chewed in the mouth. Acid and enzymes break it down in the stomach. In the small intestine it is cut into tiny pieces called amino acids. These pass into the blood. A muscle cell builds them into their own protein."
     },
     {
-     "t": "fill",
-     "p": "Your body is made of about 30 ____ cells.",
-     "a": [
-      "trillion"
-     ],
-     "why": "About 30 trillion. That is 30 followed by twelve zeros. Each cell is alive and needs food from your blood."
+     "t": "write",
+     "p": "Lakshmi loves dosa and wants to eat only dosa, every meal, every day. Dosa gives energy and some protein. What would her body be short of, and why?",
+     "lines": 4,
+     "a": "She would be short of vitamins like vitamin C, minerals like calcium and iron, and fibre, because dosa has very little of these. No single food has every nutrient. So she needs vegetables, fruit, curd or milk too.",
+     "why": "A strong answer names at least two missing nutrients and gives the main idea: no single food has everything."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a balanced thali. Show the half for vegetables and fruit, and the two quarters.",
+     "a": "A plate with half vegetables and fruit, a quarter grains, a quarter protein foods like dal or curd, and a glass of water.",
+     "why": "Drawing the plate in parts helps you remember the amounts: half vegetables and fruit, a quarter each for grains and protein.",
+     "art": "An empty round thali outline with a small tumbler outline beside it."
     },
     {
      "t": "write",
      "p": "Write a balanced dinner using food your family often cooks. Label each food go, grow or glow.",
      "lines": 3,
-     "a": "Any meal with all three kinds. For example: bajra roti (go), dal (grow), methi sabzi (glow) and a glass of water.",
+     "a": "Any meal with all three kinds. For example: rice (go), sambar with toor dal (grow), beans poriyal (glow) and a glass of water.",
      "why": "A balanced meal has at least one food from each group, with water. Using your own family's food shows you can do it at home."
     },
     {
-     "t": "draw",
-     "p": "Draw a balanced thali. Show the half for vegetables and fruit, and the two quarters.",
-     "a": "A plate with half vegetables and fruit, a quarter grains, a quarter protein foods, and a glass of water.",
-     "why": "Drawing the plate in parts helps you remember the amounts.",
-     "art": "An empty round thali outline with a small tumbler outline beside it."
+     "t": "truefalse",
+     "p": "Water has no energy in it, so it is not a nutrient.",
+     "a": false,
+     "why": "False. A nutrient is anything the body needs from food and drink, not only things with energy. Water makes up more than half of your body. Blood, spit and the inside of every cell are mostly water."
     }
    ]
   },
@@ -1056,54 +1049,46 @@
       "Rice has no protein at all"
      ],
      "a": 0,
-     "why": "Grains are a little low in one amino acid, called lysine. Dals are a little low in another, called methionine. Eaten over the same day, they give the body the full set. Picking 'rice has no protein' is a common mistake. Rice does have some protein, just not the perfect mix."
+     "why": "Proteins are built from small pieces called amino acids. Grains are a little low in one of them, and dals are low in another. Eaten over the same day, they give the body the full set. Rice does have some protein, just not the perfect mix."
     },
     {
      "t": "mcq",
-     "p": "Why is a little oil or ghee useful when cooking carrots or palak?",
+     "p": "Why is a little oil or ghee useful when cooking carrots or keerai?",
      "opts": [
       "It helps the body take in vitamin A",
       "It makes them grow",
       "It removes their fibre"
      ],
      "a": 0,
-     "why": "Carrots and palak have beta-carotene, which your body turns into vitamin A. It dissolves in fat. A little fat in the cooking helps the gut take more of it into the blood. Picking 'removes fibre' is wrong: cooking softens fibre but does not remove it."
+     "why": "Carrots and keerai have beta-carotene, which your body turns into vitamin A. It dissolves in fat. A little fat in the cooking helps the gut take more of it into the blood."
     },
     {
      "t": "mcq",
-     "p": "Remember the Vanishing Blue test. Amla cleared the blue in 3 drops and mosambi in 24. What does that tell you?",
+     "p": "Remember the Vanishing Blue test. Amla cleared the blue in 3 drops, and mosambi took 24. What does that tell you?",
      "opts": [
       "Amla has much more vitamin C than mosambi",
       "Mosambi has more vitamin C",
       "Both have the same"
      ],
      "a": 0,
-     "why": "Fewer drops means more vitamin C in each drop. 24 divided by 3 is 8. So each drop of amla has about eight times as much vitamin C as a drop of mosambi. Picking mosambi means thinking more drops means more vitamin C. It is the other way round.",
+     "why": "Fewer drops means more vitamin C in each drop. 24 divided by 3 is 8. So each drop of amla has about eight times as much vitamin C as a drop of mosambi. More drops does not mean more vitamin C. It is the other way round.",
      "how": "e2",
      "context": "In the Vanishing Blue test, vitamin C makes a blue iodine and starch liquid turn clear. You count the drops of juice needed."
     },
     {
-     "t": "mcq",
-     "p": "Why does lemon squeezed on dal help the body?",
-     "opts": [
-      "Its vitamin C helps the body take in the iron from the dal",
-      "It kills all the germs",
-      "It turns the dal into protein"
-     ],
-     "a": 0,
-     "why": "Vitamin C helps the gut take in iron from plant foods like dal and palak. Iron then helps the blood carry oxygen. Picking 'kills all the germs' goes too far. Lemon juice is acidic, but it does not make food germ-free."
+     "t": "write",
+     "p": "Guess before you test. In the Vanishing Blue test, will a packet fruit drink need more drops than fresh amla juice, or fewer? Why do you think so? What should you read on the packet first?",
+     "lines": 4,
+     "a": "I think the packet drink will need many more drops, because it is mostly water and sugar, with little real fruit. Vitamin C also breaks down over time. But I should read the label first, because some drinks have vitamin C added.",
+     "why": "A strong answer gives a guess and a reason, and knows that the label can change the guess.",
+     "how": "e2",
+     "context": "In the Vanishing Blue test, vitamin C makes a blue iodine and starch liquid turn clear. You count the drops of juice needed."
     },
     {
      "t": "truefalse",
-     "p": "Most of the mass of the food your body burns for energy leaves through your breath, as carbon dioxide.",
+     "p": "Squeezing lemon on dal helps your body take in the iron from the dal.",
      "a": true,
-     "why": "True. Your cells burn glucose and fat with oxygen. The carbon from the food leaves as carbon dioxide when you breathe out. Scientists showed this for burned fat in 2014."
-    },
-    {
-     "t": "truefalse",
-     "p": "Gut microbes are only harmful germs.",
-     "a": false,
-     "why": "False. Most of the trillions of microbes in your gut do no harm. Many eat fibre and make acids that feed the cells of your large intestine. A few kinds can make you ill."
+     "why": "True. Vitamin C in lemon helps the gut take in iron from plant foods like dal and keerai. Iron then helps the blood carry oxygen."
     },
     {
      "t": "mcq",
@@ -1114,20 +1099,54 @@
       "Because water makes gas"
      ],
      "a": 0,
-     "why": "The plain water bottle had the same yeast and warm water, but no food. It stayed flat. That shows the gas came from the yeast eating, not from the warmth or the water. Picking 'water makes gas' is the idea the control bottle tests, and it shows that idea is wrong.",
+     "why": "The plain water bottle had the same yeast and warm water, but no food. It stayed flat. That shows the gas came from the yeast eating, not from the warmth or the water.",
      "how": "e3",
      "context": "In Balloon Bellies, you feed yeast sugar, atta or nothing, and balloons on the bottles fill with gas."
     },
     {
+     "t": "truefalse",
+     "p": "Most of the mass of the food your body burns for energy leaves through your breath, as carbon dioxide.",
+     "a": true,
+     "why": "True. Your cells burn glucose and fat with oxygen. The carbon from the food leaves as carbon dioxide when you breathe out. Many people guess it leaves in poo or sweat, but scientists showed in 2014 that most leaves through the lungs."
+    },
+    {
+     "t": "truefalse",
+     "p": "Gut microbes are only harmful germs.",
+     "a": false,
+     "why": "False. Most of the trillions of tiny living beings in your gut do no harm. Many eat fibre and make acids that feed the cells of your large intestine. A few kinds can make you ill."
+    },
+    {
      "t": "mcq",
-     "p": "Which meal is the most balanced?",
+     "p": "Which school tiffin is the most balanced?",
      "opts": [
-      "Rice, potato curry and papad",
-      "Bajra roti, toor dal, methi sabzi and buttermilk",
+      "Lemon rice and potato chips",
+      "Ragi dosa, sambar, carrot poriyal and buttermilk",
       "Bread, butter and jam"
      ],
      "a": 1,
-     "why": "Bajra roti gives energy, dal and buttermilk give protein, and methi is a protecting food. Buttermilk also gives water. The other two are mostly energy foods. Picking rice and potato means counting potato as a vegetable. In the body it acts mostly like rice."
+     "why": "Ragi dosa gives energy, sambar and buttermilk give protein, and carrot poriyal is a protecting food. Buttermilk also gives water. The other two are mostly energy foods."
+    },
+    {
+     "t": "perspective",
+     "p": "A family in Madurai is arguing about ghee.",
+     "views": [
+      {
+       "who": "Paati, the grandmother",
+       "says": "Ghee is good food. We have cooked with it for hundreds of years, and it helps the body take in some vitamins."
+      },
+      {
+       "who": "Dr Revathi, a heart doctor",
+       "says": "Ghee is mostly saturated fat. Eating a lot of it for many years may raise the risk of heart disease, so use a little."
+      },
+      {
+       "who": "Kavya, aged 9",
+       "says": "No single food is good or bad. It depends on how much you eat, and what else is on your plate."
+      }
+     ],
+     "ask": "Whose idea do you agree with most? Give a reason from this unit. Then say one thing another person has right.",
+     "lines": 5,
+     "a": "A strong answer picks a side and gives evidence. For example, fat helps the body take in vitamin A from carrots. Or, scientists still argue about which fats are best for the heart. It then gives a fair point from another side, and may say that the amount and the whole diet matter.",
+     "why": "This is a real argument. Fat is needed, ghee helps take in some vitamins, and scientists still disagree about how much saturated fat is too much."
     },
     {
      "t": "sort",
@@ -1159,7 +1178,7 @@
     },
     {
      "t": "fill",
-     "p": "The tiny parts inside cells that burn food with oxygen are called ____.",
+     "p": "The tiny parts inside cells that burn food with oxygen to release energy are called ____.",
      "a": [
       "mitochondria",
       "mitochondrion"
@@ -1168,7 +1187,7 @@
     },
     {
      "t": "match",
-     "p": "Match each illness to the nutrient that was missing.",
+     "p": "Each of these illnesses happens when the body is missing one nutrient. Match each illness to the nutrient.",
      "pairs": [
       [
        "Scurvy",
@@ -1191,36 +1210,29 @@
      "why": "Each illness was found to be caused by missing one nutrient, and cured by eating it. Lucy Wills's work in Bombay led to the discovery of folate."
     },
     {
-     "t": "write",
-     "p": "A friend says 'chips are bad food'. Write what you would say back, using what you learned in this unit.",
-     "lines": 3,
-     "a": "For example: Chips give energy and fat, but not much else. They are fine sometimes. What matters is the whole diet over many days, with lots of different foods.",
-     "why": "Scientists look at the whole diet, not one food. A good answer is kind, says what the food gives, and talks about balance."
-    },
-    {
-     "t": "write",
-     "p": "Explain in your own words why we need to eat many kinds of food, not just one.",
-     "lines": 3,
-     "a": "For example: Each cell needs different things, like protein, calcium, iron and vitamins. No single food has all of them. So we eat many kinds.",
-     "why": "This is the main idea of the unit. A good answer mentions that different nutrients do different jobs."
-    },
-    {
      "t": "mcq",
      "p": "How does a sugary drink harm teeth?",
      "opts": [
-      "Mouth bacteria eat the sugar and make acid that eats holes in teeth",
+      "Bacteria in the mouth eat the sugar and make acid that eats holes in teeth",
       "Sugar is sharp and scratches teeth",
       "Sugar turns teeth into sugar"
      ],
      "a": 0,
-     "why": "Bacteria living in your mouth feed on sugar and make acid. The acid slowly dissolves tooth enamel, making holes. Picking 'sugar scratches teeth' is a guess about touch, but the harm comes from living bacteria."
+     "why": "Bacteria living in your mouth feed on sugar and make acid. The acid slowly dissolves the hard outside of the tooth, making holes. The harm comes from living bacteria, not from the sugar scratching."
     },
     {
      "t": "draw",
      "p": "Draw the journey of a chapati from your mouth to a brain cell, in four boxes.",
      "a": "Mouth (chewing and spit), stomach and small intestine (cut into glucose), blood (carrying glucose), brain cell (burning glucose for energy).",
-     "why": "Drawing the steps shows you understand that food must be broken down, carried by blood and used in cells.",
+     "why": "A strong drawing shows the three big ideas: food is broken down, carried by the blood, and used in a cell.",
      "art": "Four empty boxes in a row joined by arrows."
+    },
+    {
+     "t": "write",
+     "p": "Nila is 9 and growing fast. Her grandmother is 70. They eat the same dal. Why might they need different amounts of food?",
+     "lines": 3,
+     "a": "Nila is growing, so her cells need extra protein and minerals to build new bone and muscle. She also runs about a lot and burns more energy for her size. Her grandmother has stopped growing, so she may need less food, but still all the same kinds.",
+     "why": "A strong answer says that growing and moving use extra food, and that both still need many kinds."
     }
    ]
   },
@@ -1231,49 +1243,63 @@
    "mins": 30,
    "items": [
     {
-     "t": "mcq",
-     "p": "In Cell Delivery, the Eye cell needs vitamin A and fat. Which pair feeds them, just like in a real kitchen?",
-     "opts": [
-      "Carrot sticks and a spoon of ghee",
-      "Amla and rice",
-      "Rice and chapati"
+     "t": "perspective",
+     "p": "Trillions of tiny living beings called microbes live in your gut. They eat the fibre you cannot digest. People disagree about whether they are part of you.",
+     "views": [
+      {
+       "who": "Meera, a scientist who studies microbes",
+       "says": "Yes. You cannot stay healthy without them. They feed your gut cells, so you and they are one team."
+      },
+      {
+       "who": "Dr Anjali, a doctor",
+       "says": "No. They have their own genes and their own lives, and some kinds can make you ill."
+      },
+      {
+       "who": "Nila, aged 9",
+       "says": "They are like guests in a house. They live in me, but they are not me."
+      }
      ],
-     "a": 0,
-     "why": "Carrots carry beta-carotene, which your body turns into vitamin A. It dissolves in fat. So carrots with a little ghee or oil help your body take in more of it. Picking amla and rice gives vitamin C and energy, but no vitamin A and no fat.",
-     "how": "g1",
-     "context": "In the card game Cell Delivery, players carry food to six cells. Each cell needs different nutrients."
+     "ask": "Which idea do you agree with most? Give a reason from the science. Then answer back from another side.",
+     "lines": 5,
+     "a": "A strong answer picks a side and gives a reason from the science, for example that microbes make acids that feed the cells of the large intestine, or that they have their own genes. It then answers back fairly from another view.",
+     "why": "Scientists and thinkers really do argue about this. Each view has evidence, so the strength is in the reasons."
     },
     {
      "t": "mcq",
-     "p": "Lucy Wills found that richer women in Bombay rarely got the pale sickness. Why was this an important clue?",
+     "p": "Lucy Wills was a doctor in Bombay in 1928. She saw that richer women in the city rarely got the pale sickness, but mill women often did. Why was this an important clue?",
      "opts": [
-      "It suggested food was the cause, not the mill dust or bad luck",
-      "It showed rich women were stronger",
-      "It proved the sickness was caught from others"
+      "Both breathed the same city air but ate very different food, so food might be the cause",
+      "It showed that rich women were stronger",
+      "It proved the sickness was caught from other people"
      ],
      "a": 0,
-     "why": "Rich and poor women breathed the same city air, but ate very different food. So diet was the clue. This is how scientists narrow down causes: they look at what is different between groups. Picking 'rich women were stronger' explains nothing, because it does not say why."
+     "why": "Rich and poor women lived in the same city, but ate very different food. So diet was the clue. Scientists narrow down causes by looking at what is different between groups. 'Stronger' explains nothing, because it does not say why."
+    },
+    {
+     "t": "write",
+     "p": "Lucy Wills fed animals the same food the mill women ate. Then she added one new food at a time. Why one at a time, and not many foods together?",
+     "lines": 3,
+     "a": "If she added many foods at once and the animals got better, she would not know which food did it. Adding one at a time means that when they get better, she knows that food was the one. That is a fair test.",
+     "why": "A strong answer says that changing one thing at a time shows which thing caused the change."
     },
     {
      "t": "mcq",
-     "p": "Why can't your body use a whole chain of starch until it is digested?",
+     "p": "Many people think the fat you eat goes straight onto your body as body fat. What really happens to most of it?",
      "opts": [
-      "The chain is too big to pass through the gut wall into the blood",
-      "Starch is poisonous",
-      "Starch has no energy"
+      "It is broken into small pieces, and cells burn it for energy or use it to build their thin skins",
+      "It sticks to the belly as it is",
+      "All of it leaves the body unused"
      ],
      "a": 0,
-     "why": "Starch is a long chain of glucose. Only single glucose pieces can pass through the gut wall. So enzymes must cut the chain first. Picking 'starch has no energy' is wrong: starch is full of energy, but locked in a chain.",
-     "how": "a3",
-     "context": "In the Paper-Clip Journey, paper-clip chains stand for starch and protein. Only single clips fit through the slot in the card, which stands for the gut wall."
+     "why": "Fat is digested like other food. Its pieces go into the blood. Cells burn some for energy and use some to build the thin skin around every cell. The body stores fat only when it gets more energy than it uses, from any food."
     },
     {
      "t": "mcq",
      "p": "A scientist wants to test whether a food helps children's teeth. Which test is fair?",
      "opts": [
-      "Two groups of children, the same in every way except that one group eats the food",
+      "Two groups of children, the same in every way except that one group eats the food, checked for months",
       "Ask children if they like the food",
-      "Give the food to one child and look at their teeth the next day"
+      "Give the food to one child and look at her teeth the next day"
      ],
      "a": 0,
      "why": "A fair test changes only one thing, and uses enough people and enough time. Two matching groups, followed for months, can show a real difference. One child for one day can show almost nothing. Liking a food tells you nothing about teeth."
@@ -1282,7 +1308,7 @@
      "t": "truefalse",
      "p": "Scientists have proved that eating curd every day makes you live longer.",
      "a": false,
-     "why": "False. Ilya Mechnikov suggested this in 1907, but it has not been proved. Curd is a good food, but most of its microbes pass through the gut, and long life has many causes."
+     "why": "False. Ilya Mechnikov suggested this in 1907, but it has not been proved. Curd is a good food, but most of its microbes only pass through the gut, and a long life has many causes."
     },
     {
      "t": "truefalse",
@@ -1292,85 +1318,73 @@
     },
     {
      "t": "mcq",
-     "p": "The food pyramid of 1992 in the United States told people to eat 6 to 11 servings of grain a day. Later it was replaced by a plate with more vegetables. What does this show about science?",
+     "p": "In 1992, food advice in the United States told people to eat 6 to 11 servings of grain a day. Later it was changed to a plate with more vegetables. What does this show about science?",
      "opts": [
       "Advice can change when new evidence comes in",
       "Scientists never know anything",
       "The first advice was always right"
      ],
      "a": 0,
-     "why": "Good science changes its advice when the evidence changes. That is a strength, not a weakness. Picking 'scientists never know anything' goes too far. Many things about food, like vitamins, are very well tested."
+     "why": "Good science changes its advice when the evidence changes. That is a strength, not a weakness. 'Scientists never know anything' goes too far. Many things about food, like the need for vitamins, are very well tested."
     },
     {
      "t": "write",
      "p": "Why might a family not be able to eat a balanced diet, even if they know what one is? Give two reasons.",
      "lines": 4,
      "a": "For example: vegetables, dals and milk can cost more than rice. There may be no market nearby. Parents may work long hours with no time to cook. In some homes, women and girls eat last and get less.",
-     "why": "Eating well depends on money, time, distance and fairness, not only on knowing. This is why India gives free school lunches."
-    },
-    {
-     "t": "write",
-     "p": "Your gut microbes are living things with their own lives. Are they part of you, or not? Give a reason for your answer.",
-     "lines": 4,
-     "a": "Any thoughtful answer with a reason. For example: Yes, because I cannot be healthy without them. Or: No, because they have their own genes and some can make me ill.",
-     "why": "Scientists and philosophers argue about this. A good answer gives a reason from the science. For example, they feed my gut cells, or they are separate living things."
+     "why": "Eating well depends on money, time, distance and fairness, not only on knowing. This is why India gives free cooked lunches in government schools."
     },
     {
      "t": "mcq",
-     "p": "Most of the mass of food your body burns leaves as carbon dioxide. Where can that carbon go next?",
+     "p": "Most of the mass of the food your body burns leaves as carbon dioxide in your breath. Where can that carbon go next?",
      "opts": [
-      "Into a plant, which uses it to make food",
-      "Nowhere, it disappears",
+      "Into a plant, who uses the carbon to make food",
+      "Nowhere. It disappears",
       "Back into the same chapati"
      ],
      "a": 0,
-     "why": "Plants take in carbon dioxide from the air and use sunlight to build sugar and starch. So the carbon you breathe out can become part of a plant, and maybe someone's food. Picking 'it disappears' misses that matter is never lost, only moved."
+     "why": "Plants take in carbon dioxide from the air and use sunlight to build sugar and starch. So the carbon you breathe out can become part of a plant, and maybe someone's food. Matter is never lost, only moved."
     },
     {
      "t": "fill",
-     "p": "Since 2001, India's Supreme Court has said every child in a government primary school must get a cooked ____ at school.",
+     "p": "The energy in your food was first caught from the ____ by plants.",
      "a": [
-      "lunch",
-      "meal",
-      "midday meal"
+      "Sun",
+      "sun",
+      "sunlight"
      ],
-     "why": "The midday meal, now called PM POSHAN, feeds many millions of children. For many, it is the most balanced meal of the day."
+     "why": "Plants use sunlight to build sugar and starch. Rice, dal and even milk and eggs carry energy that a plant first caught from the Sun."
+    },
+    {
+     "t": "truefalse",
+     "p": "A growing child needs some protein most days, because the body cannot store much of it.",
+     "a": true,
+     "why": "True. Muscles, skin, blood and hair are always being rebuilt, and children are also growing. The body keeps only a small store of amino acids, so it needs more most days."
     },
     {
      "t": "mcq",
-     "p": "Why does a growing child need protein every day?",
+     "p": "Some adverts say a vitamin tablet can take the place of vegetables. What is missing from that idea?",
      "opts": [
-      "The body is always rebuilding and growing, and uses amino acids to do it",
-      "Protein gives the only energy we have",
-      "Protein is stored for years"
+      "Vegetables also give fibre for gut microbes, water and many other things a tablet does not",
+      "Nothing. A tablet is the same as vegetables",
+      "Vegetables have no vitamins in them"
      ],
      "a": 0,
-     "why": "Muscles, skin, blood and hair are always being rebuilt, and children are also growing. The body cannot store much protein, so it needs some most days. Picking 'protein gives the only energy' mixes it up with carbohydrates and fats."
-    },
-    {
-     "t": "write",
-     "p": "Design a fair test to find out whether chewing chapati for longer makes it taste sweeter. What will you change, and what will you keep the same?",
-     "lines": 4,
-     "a": "Change only the number of chews, for example 5, 15 and 30. Keep the same chapati, the same size of piece and the same person. Rate the sweetness each time.",
-     "why": "A fair test changes one thing only. The sweetness comes from the enzyme in spit cutting starch into sugar, so more chewing should mean more sweetness."
-    },
-    {
-     "t": "mcq",
-     "p": "Scientists say a balanced diet is about the pattern over many days. Which habit fits that idea best?",
-     "opts": [
-      "Mostly varied home meals, with treats on some days",
-      "Never eating any sweets at all",
-      "Eating only one perfect meal each day"
-     ],
-     "a": 0,
-     "why": "A balanced diet is a pattern. Varied everyday meals, with treats sometimes, fit it well. Never eating sweets is not needed. One 'perfect' meal still misses the variety of a whole day."
+     "why": "A tablet gives only the few vitamins written on it. Vegetables give fibre, water, minerals and many other things. A tablet can help someone who is short of one vitamin, but it cannot do everything a plate of vegetables does."
     },
     {
      "t": "draw",
      "p": "Draw yourself as a crowd: your own cells and your gut microbes. Show what each one gets from your lunch.",
      "a": "Any drawing that shows cells getting glucose, amino acids and minerals, and microbes getting fibre and giving back food for gut cells.",
-     "why": "This drawing is a model. It shows that one meal feeds many different living things inside you.",
+     "why": "This drawing is a model. A strong one shows that one meal feeds many different living beings inside you.",
      "art": "An empty outline of a child's body with a curved gut drawn inside."
+    },
+    {
+     "t": "write",
+     "p": "Chew a piece of plain chapati slowly, and it starts to taste a little sweet. Design a fair test: does chewing for longer make it taste sweeter? What will you change, and what will you keep the same?",
+     "lines": 4,
+     "a": "Change only the number of chews, for example 5, 15 and 30. Keep the same chapati, the same size of piece and the same person. Rate the sweetness from 1 to 5 each time, and rinse the mouth with water between tries.",
+     "why": "A fair test changes one thing only. The sweetness comes from an enzyme in spit that cuts starch into sugar, so more chewing should mean more sweetness."
     }
    ]
   }
@@ -2977,14 +2991,14 @@
   },
   {
    "t": "mcq",
-   "p": "About how many bacteria live in your gut?",
+   "p": "Meera eats white bread and no vegetables or fruit for a whole week. What happens to her gut microbes?",
    "opts": [
-    "A few hundred",
-    "About as many as the cells in your body, tens of trillions",
-    "None, the gut is clean"
+    "Many of them go hungry, because they get very little fibre",
+    "They grow more, because bread has sugar",
+    "Nothing. Gut microbes do not need food"
    ],
-   "a": 1,
-   "why": "Scientists estimate about 38 trillion, roughly as many as your own cells. Picking 'none' is a common idea, because we cannot see them. But stool samples show they are there in huge numbers.",
+   "a": 0,
+   "why": "Gut microbes live mostly on fibre, which comes from vegetables, fruit, dals and whole grains. White bread has little fibre, so many microbes go hungry. Our own body takes up the sugar from bread before it reaches them.",
    "outcome": 6
   },
   {
@@ -3647,7 +3661,7 @@
  },
  "playtest": "Every flow was walked through as if done at home today. The Paper Window Test (e1) works with brown paper or plain white paper. It now says to use chapati made without ghee and to wait a full 15 minutes, because wet spots look like fat spots at first. The Vanishing Blue test (e2) was worked out with the amounts of a home bottle of povidone-iodine: about 5 to 10 drops in a cup of diluted rice water gives a blue that amla clears in a few drops and lemon or mosambi in about 20. It now says what to do if the blue is too dark or stays brown, and to stop counting at 40 drops. Balloon Bellies (e3) was changed from 1 to 2 teaspoons of yeast and from 100 to 150 millilitres of water, so the sugar balloon visibly fills within 45 minutes. It says how to check for dead yeast, and to wait to 60 minutes in cold weather. Cell Delivery (g1) was checked with a computer model of the rules. A careful player feeds all six cells in 8 turns about 4 times in 5, in 6 turns about half the time, and in 5 turns rarely. So the solo goal is 8, then 7, then 6. The water card was replaced by buttermilk plus an 'I drink water' turn, so no player can be locked out of water. What's Missing? (g2) has an answer list for every card. Parents should know that every flow avoids calling any food or family meal bad, and that the hunger scale (a6) is for noticing, never for making a child eat less. In the Paper Window Test, a tumbler of water with 2 drops of oil was added, so the child sees with their own eyes that fat does not mix with water. In the Paper-Clip Journey, the child pushes the chain as a bunch, because a chain can be threaded through a slot clip by clip.",
  "how_we_found_out": {
-  "story": "In the 1880s, many soldiers and prisoners in Java, then ruled by the Netherlands, fell ill with beriberi. Their legs grew weak and numb, and some died. Doctors were sure a germ caused it. In 1886 a Dutch doctor, Christiaan Eijkman, went to Java to find that germ. By luck, the chickens at his laboratory fell ill with the same kind of weakness. They were being fed leftover white rice from the hospital, with its outer layers polished off. Then a new manager stopped giving the hospital's rice to the chickens. They got cheaper unpolished rice instead, and they got better. Eijkman thought white rice carried a poison, and that the outer layer of the grain cured it. In 1901 his colleague Gerrit Grijns said the opposite. The outer layer held something the body needs, and white rice simply lacked it. Grijns was right. In 1926 two scientists in Java, Barend Jansen and Willem Donath, took the missing nutrient out of rice bran. Today we call it vitamin B1, or thiamine.",
+  "story": "In the 1880s, many soldiers and prisoners in Java, then ruled by the Netherlands, fell ill with beriberi. Their legs grew weak and numb, and some died. Doctors were sure a germ caused the illness. In 1886 a Dutch doctor, Christiaan Eijkman, went to Java to find that germ. By luck, the chickens at his laboratory fell ill with the same kind of weakness. They were being fed leftover white rice from the hospital, with its outer layers polished off. Then a new manager stopped giving the hospital's rice to the chickens. They got cheaper unpolished rice instead, and they got better. Eijkman thought white rice carried a poison, and that the outer layer of the grain cured it. In 1901 his colleague Gerrit Grijns said the opposite. The outer layer held something the body needs, and white rice simply lacked it. Grijns was right. In 1926 two scientists in Java, Barend Jansen and Willem Donath, took the missing nutrient out of rice bran. Today we call it vitamin B1, or thiamine.",
   "who": "Christiaan Eijkman, Gerrit Grijns, Barend Jansen and Willem Donath",
   "when": "1886 to 1926",
   "wrong_idea": "Beriberi was caused by a germ, or by a poison in white rice. In fact it was caused by something missing from white rice: vitamin B1."

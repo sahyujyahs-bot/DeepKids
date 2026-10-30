@@ -1,0 +1,1213 @@
+{
+ "key": "combined|sci|4|what-is-real",
+ "board": "combined",
+ "subj": "sci",
+ "level": 4,
+ "n": "what-is-real",
+ "title": "What is real? How the brain builds the world, and what we still don't know",
+ "source": "DeepKids Combined, The Deep End. A pure DeepKids topic built from the founder's concept grid ('Reality' and 'Consciousness, awareness, subjective experience', Grade 4). No board teaches it at primary level, so there are no board subtopics to cover. No textbook needed.",
+ "summary": "Each of your eyes has a hole in what it sees, and you have never noticed it, because your brain fills the gap. Your child finds that hole, learns that every star they see is light from the past, and makes a flipbook to see how a film fools the eye. They act out Plato's cave with a torch, test whether being watched changes how a person breathes, and see light spread into fine stripes through the gap between two fingers. They learn what an atom is mostly made of and why a table still feels solid. They try to describe a taste to someone who has never tasted it, watch ants build a trail with no leader, and meet the real scientific argument about where awareness comes from. Some of these questions nobody has answered yet.",
+ "builds_on": "In Class 2 your child sorted things into real, pretend and puzzling, kept a dream journal, felt the three bowls disagree, saw the arrow lines illusion, met the ultraviolet patterns bees see, and argued about a jhadu with every part replaced. This rung goes further: the brain filling in the blind spot, seeing the past, frames and perspective, Plato's cave, laws of nature as patterns, how measuring changes what is measured, atoms and the double-slit puzzle, 'what it is like' to be another being, and the main scientific ideas about awareness. Class 5 will take up the idea that things are real through how they relate to each other.",
+ "goals": [
+  "By the end your child can find their blind spot and explain that the brain fills in what the eye does not catch.",
+  "By the end your child can explain why we always see things a little in the past, and why a star may look different from how it is now.",
+  "By the end your child can tell Plato's cave story and the story of the blind men and the elephant, and say what each one asks about reality.",
+  "By the end your child can explain the difference between something real for everyone and something real for one person, and why laws of nature count as real.",
+  "By the end your child can describe an atom as a tiny heavy centre with a cloud of electrons around it, and say why a table still feels solid.",
+  "By the end your child can explain what 'what it is like to be a bat' means, and compare two scientific ideas about where awareness comes from."
+ ],
+ "words": [
+  [
+   "objective",
+   "real for everyone: anyone who checks will find the same, like the length of a table"
+  ],
+  [
+   "subjective",
+   "real for one person, from the inside, like your toothache or how rasam tastes to you"
+  ],
+  [
+   "blind spot",
+   "the place at the back of each eye where the nerve leaves, so no light can be caught there"
+  ],
+  [
+   "perception",
+   "what your brain makes of what your senses pick up"
+  ],
+  [
+   "perspective",
+   "the way far things look smaller and lines seem to come together in the distance"
+  ],
+  [
+   "frame",
+   "one still picture in a film. A film shows 24 frames every second."
+  ],
+  [
+   "law of nature",
+   "a pattern that always happens, checked again and again by many people, like things falling when you let go"
+  ],
+  [
+   "observer effect",
+   "when looking at or measuring something changes it a little"
+  ],
+  [
+   "atom",
+   "the tiny building block of all matter. Everything you touch is made of atoms."
+  ],
+  [
+   "nucleus",
+   "the tiny, heavy centre of an atom"
+  ],
+  [
+   "electron",
+   "a tiny particle that moves around the nucleus, spread out like a cloud"
+  ],
+  [
+   "consciousness",
+   "being aware: having an inside, a 'what it is like' to be you"
+  ],
+  [
+   "emergence",
+   "when many simple parts together do something none of them does alone, like ants building a trail"
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "Real for everyone, real for me",
+   "goal": "Recall Class 2, split 'real' into real for everyone and real for one person, and find the hole in each eye.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What we found in Class 2",
+     "mins": 7,
+     "do": "Ask these and wait for each answer. 'Remember the three bowls? One hand said the middle water was warm and the other said it was cold. Which hand was right?' (Neither. Skin feels change, so each hand compared the water with its last bowl.) 'What does a bee see on a sunflower that we can't?' (Ultraviolet patterns that guide them to the nectar.) 'Can something be real if we can't see it?' (Yes, like air.) Then say: 'Today we ask a sharper question. Some things are real for everyone. Some things are real only for the person who feels them. Let's sort them.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Real for everyone, or real for me?",
+     "mins": 10,
+     "do": "Write two headings on paper: 'Real for everyone' and 'Real for me'. Read out each thing and let your child place it, with a reason: the length of this table, a toothache, the taste of rasam, a rainbow, how hot the water in the tap is, feeling scared in the dark, a ₹100 note, the colour of a red hibiscus. Ask about the hard ones. 'A rainbow: can two people point at the same rainbow?' (Each person sees their own rainbow, because it depends on where you stand, but anyone can photograph one.) 'The ₹100 note: is the paper real? Is its value real?' (The paper is real for everyone. Its value is real because many people agree on it.) 'Red: is my red the same as your red?' (We both call it red, but nobody can check what it looks like inside another person.) Say: 'Scientists call real-for-everyone objective. They call real-for-me subjective. A toothache is subjective, but it is still real.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Find your blind spot",
+     "mins": 14,
+     "do": "Do Experiment e1. Before you start, ask: 'Is there any part of what you see where you see nothing at all?' (Most children say no.) When the dot vanishes, ask: 'What did you see in its place? A black hole, or white card?' (White card.) 'So who painted the white there?' (My brain.) Let them try the other eye and test one other family member. Write the distances in the project book.",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "The brain fills in",
+     "mins": 7,
+     "do": "Say: 'At the back of your eye, the nerve that carries signals to the brain leaves through one spot. That spot has no cells that catch light. A French scientist, Edme Mariotte, found it in the 1660s. You have this hole all day, in both eyes, and you never see it. Your brain fills it with whatever is around it.' Ask: 'If the brain fills in this gap without telling us, what else might it fill in?' Listen for ideas like the edges of what we see, words we didn't quite hear, or a face in a crowd. Say: 'What you see is not a photo. It is a picture your brain builds from signals.'"
+    },
+    {
+     "kind": "do",
+     "title": "Start the project book",
+     "mins": 7,
+     "do": "Start the project 'My guide to what is real'. Fold three A4 sheets in half and staple them to make a 12-page book. On the cover your child writes the title. On page 1 they copy the two lists from today, and draw the blind spot card with the distance where the dot vanished. Say: 'Each day we will add one page about one way the world is stranger than it looks.'"
+    }
+   ],
+   "need": [
+    "a white card or paper the size of a postcard",
+    "a black pen",
+    "a 30 cm ruler",
+    "three A4 sheets and a stapler for the project book"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Seeing the past, and pictures that move",
+   "goal": "Learn that light takes time to reach us, and that films and drawings fool the brain with frames and perspective.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Is the Sun there now?",
+     "mins": 6,
+     "do": "Ask: 'When you look at the Sun in the sky, are you seeing the Sun as it is right now?' Let your child guess and give a reason. Then say: 'Light is the fastest thing there is, but it still takes time to travel. Light from the Moon takes just over 1 second to reach us. Light from the Sun takes about 8 minutes. So you always see the Sun as it was 8 minutes ago.' Remind them never to look straight at the Sun, because it damages the eyes."
+    },
+    {
+     "kind": "talk",
+     "title": "Every star is a message from the past",
+     "mins": 8,
+     "do": "Say: 'Light from the stars takes years to reach us. Some stars you can see on a clear night sent their light out before you were born. A star could have changed since then, and we would not know yet.' Ask: 'So when you look at a starry sky, are you seeing the sky as it is now?' (No. Each star is seen as it was when its light left, and each one at a different time.) Then: 'Even your Amma across the room is seen a tiny bit in the past. Her light reaches you almost at once, but your brain takes a small part of a second to make sense of it.' Your child writes on a new page of the project book: 'Everything I see, I see a little in the past.'"
+    },
+    {
+     "kind": "do",
+     "title": "Make a flipbook",
+     "mins": 16,
+     "do": "Do Activity a1. Before your child flips it, ask: 'These are still drawings. Will anything move?' After, ask: 'Did the ball move?' (It looked as if it did.) 'Did anything on the paper move?' (No. Each page is still.) Say: 'A film works the same way. It shows 24 still pictures every second. Each still picture is called a frame. Your brain joins them into movement.'",
+     "ref": "a1"
+    },
+    {
+     "kind": "do",
+     "title": "Trace the view through a window",
+     "mins": 15,
+     "do": "Do Activity a2. When the tracing is done, ask: 'The building far away is drawn tiny, and the window frame is drawn big. Is the far building really small?' (No. It only makes a small picture because it is far.) 'The road edges come together on your drawing. Do they really meet?' (No. They stay the same distance apart.) Say: 'Artists call this perspective. A flat drawing can look deep because it sends your eye the same clues the real view does.' Glue a photo of the tracing, or the sheet itself, into the project book.",
+     "ref": "a2"
+    }
+   ],
+   "need": [
+    "a small notebook or 20 small sheets of paper",
+    "a stapler or bulldog clip",
+    "a pencil",
+    "a clear plastic file folder or sheet",
+    "sticky tape",
+    "a whiteboard marker or a thin black felt pen"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Shadows on the wall",
+   "goal": "Act out Plato's cave, read the story, and see that each of us knows only part of what is real.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Only ever a film",
+     "mins": 5,
+     "do": "Ask: 'Imagine you had lived your whole life in one room, watching only a screen. You never saw a real tree, only trees on the screen. Would you know what a tree is?' Let your child argue. Good answers: 'I would know what a tree looks like, but not how it smells or feels', or 'I would think the flat picture is all a tree is.' Say: 'A thinker in Greece called Plato asked a question like this nearly 2,400 years ago. We will act out his story now.' (This is voice v1.)",
+     "ref": "v1"
+    },
+    {
+     "kind": "act",
+     "title": "Plato's cave with a torch",
+     "mins": 18,
+     "do": "Do Activity a3. First tell voice v1 in your own words: 'Plato, a thinker in Athens, told a story about people chained in a cave all their lives, facing a wall. Behind them was a fire. People walked past the fire carrying things, and the prisoners saw only their shadows on the wall. They thought the shadows were the real things.' Then play the cave in a dark room. After, ask: 'Were the shadows real?' (Yes, real shadows, made by real things blocking real light.) 'Were they the whole truth?' (No. They were flat, grey and showed only an outline.) 'If one prisoner came out and saw the real things, and went back to tell the others, would they believe them?' Let your child decide.",
+     "ref": "a3"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Deer Behind the Screen",
+     "mins": 12,
+     "do": "Read the story aloud (Story tab). It is about a leather shadow puppet in a temple play in Kerala. Then ask the story questions. Linger on this one: 'Revathi told her brother he was seeing a real thing, but not all of it. What did she mean?' (The shadow was real. It was made by a real lamp, real leather and her father's real hands. But it was only the part that reached the cloth.)"
+    },
+    {
+     "kind": "talk",
+     "title": "The blind men and the elephant",
+     "mins": 10,
+     "do": "Tell the old story, which appears in Jain and Buddhist teachings in India: 'Six men who could not see met an elephant. One touched the trunk and said, an elephant is like a snake. One touched the leg and said, like a pillar. One touched the ear and said, like a winnowing fan. They argued and argued.' Ask: 'Who was right?' (Each was right about the part he touched. Each was wrong to think his part was the whole elephant.) Say: 'Jain thinkers call this anekantavada: the truth has many sides, and each of us touches only some of them. Your eyes, ears, nose and skin are like those hands. Each one touches only part of the world.' Your child draws the elephant with six hands on it in the project book."
+    }
+   ],
+   "need": [
+    "a torch",
+    "a white wall or a white bedsheet hung up",
+    "card, scissors and sticks or pencils to make cut-out shapes",
+    "a few small objects: a cup, a spoon, a toy animal"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Patterns that hold, and looking that changes things",
+   "goal": "See why laws of nature count as real, and test whether watching someone changes what they do.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Does it fall when nobody looks?",
+     "mins": 5,
+     "do": "Hold a steel spoon over a cushion. Ask your child to close their eyes, and drop it. Ask: 'Did the spoon fall even though you weren't looking?' (Yes. They heard it, and it is on the cushion.) 'How do you know it fell the same way it does when you watch?' Let them think. Say: 'We can't watch it when we aren't watching. But every time anyone checks, things fall the same way.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Laws are patterns many people check",
+     "mins": 10,
+     "do": "Say: 'A law of nature is a pattern that always happens, however many times and whoever checks it. Things fall when you let go. Water boils at 100 degrees Celsius at the seashore in Chennai, and at a lower temperature high up in the mountains, because the air pushes down on it less there. People in Kochi, Kolkata and Kenya get the same answer.' Ask: 'Is a law of nature real for everyone or real for me?' (Real for everyone.) 'Is a law a thing you can hold?' (No. It is a pattern in how things behave.) Say: 'So some real things are not objects at all. A pattern that never fails is real too.' Your child writes one law they know on a new page of the project book."
+    },
+    {
+     "kind": "exp",
+     "title": "The breath counter",
+     "mins": 15,
+     "do": "Do Experiment e2. Ask your child to predict first: 'When Amma knows we are counting her breaths, will she breathe the same way?' After, ask: 'Was the count different?' (Usually yes. People breathe more slowly or more deeply when they think about their breathing.) 'So did our counting change the thing we were counting?' (Yes.) Say: 'Scientists call this the observer effect. Looking or measuring can change what you look at.'",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Measuring changes small things",
+     "mins": 7,
+     "do": "Give two more examples. 'When you check a cycle tyre with a pressure gauge, a little air escapes. When you put a cold thermometer into a cup of hot tea, it cools the tea a tiny bit.' Ask: 'Why don't we worry about these?' (The change is far too small to matter.) Say: 'In the world of very tiny things, the change is not small. To see something as tiny as an electron, you must bounce light off it, and the light pushes it. Scientists still argue about what this means. We will meet it on Day 5.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 8,
+     "do": "Your child does Worksheet ws1 (core). Read each item aloud if needed and write down their words for the written answers. For each mistake, ask: 'Which test from this week could check it?'",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a steel spoon and a cushion",
+    "a phone timer or clock with a seconds hand",
+    "paper and pencil"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Is a table solid? Light that spreads",
+   "goal": "Learn what atoms are mostly made of, why things still feel solid, and the puzzle of light through two slits.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Knock on the table",
+     "mins": 4,
+     "do": "Your child knocks on a table and presses a palm hard on it. Ask: 'Is this table solid all the way through?' (Most children say yes.) 'What is it made of if you zoom in, and in, and in?' (Wood, then tiny fibres, then cells, then atoms.) Say: 'Today we zoom all the way in.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Inside an atom",
+     "mins": 12,
+     "do": "Say: 'Everything is made of atoms. They are far too small to see. An atom has a tiny centre called the nucleus. If an atom were as big as a cricket stadium, the nucleus would be about the size of a mustard seed in the middle of the ground. Yet almost all the atom's weight is in that seed. The rest of the stadium is filled by electrons, tiny particles that are spread out around the nucleus like a cloud.' Act it: your child stands in the middle of the room as the nucleus, holding one mustard seed. You walk round and round the edges of the room, fast, as the electron cloud. Ask: 'If atoms are mostly cloud, why doesn't my hand go through the table?' (The electron clouds of the atoms in your hand and the table push each other away very strongly when they come close.) Say: 'So solid does not mean packed full. It means the atoms push back.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Light through a finger gap",
+     "mins": 10,
+     "do": "Do Experiment e3. Ask first: 'If light goes through a very thin gap, will it just make a thin bright line?' After, ask: 'What did you see in the gap?' (Thin dark lines, side by side, like stripes.) Say: 'Light spreads out when it goes through a very narrow gap, and the spreading light makes stripes. Waves on water do this too, when they pass through a gap in a wall.'",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "Thomas Young's two slits",
+     "mins": 12,
+     "do": "Tell voice v2: 'About 220 years ago, Thomas Young in England shone light through two narrow slits next to each other. On the wall behind, he did not get two bright lines. He got many stripes, bright, dark, bright, dark. This is what waves do when two sets of waves meet. Most scientists followed Isaac Newton, who had said light is made of tiny particles, and some attacked Young in print. Years later, others repeated his work and he was proved right.' Then: 'Later still, scientists found that light also comes in tiny packets. They sent light so dim that only one packet went through at a time. The stripes still built up, dot by dot. And when they set up a detector to find out which slit each packet went through, the stripes disappeared.' Ask: 'How can checking which slit change what happens on the wall?' Say: 'Scientists agree that this happens. They still argue about why.'",
+     "ref": "v2"
+    },
+    {
+     "kind": "do",
+     "title": "Three zooms of one table",
+     "mins": 7,
+     "do": "On a new page of the project book, your child draws three boxes. Box 1: the table as they see it. Box 2: the wood close up, with lines and fibres. Box 3: a few atoms, each a tiny dot with a cloud around it. Under the boxes they write: 'All three are the same table.' Ask: 'Which box shows the real table?' Listen for 'all of them' and a reason."
+    }
+   ],
+   "need": [
+    "a mustard seed",
+    "a tubelight or a brightly lit white wall"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "What it is like to be someone",
+   "goal": "Meet subjective experience: tastes, a bat's world, and signals in nature that can be honest or fake.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Is my red your red?",
+     "mins": 5,
+     "do": "Point to something red, like a hibiscus or a red cloth. Ask: 'We both call this red. How could we find out if it looks the same inside your head as inside mine?' Let your child try ideas. Say: 'Nobody has found a way to check. We can measure the light coming off it. We can't measure what it looks like to you.'"
+    },
+    {
+     "kind": "do",
+     "title": "Describe a taste",
+     "mins": 12,
+     "do": "Do Activity a4. After both rounds, ask: 'Could the listener tell what you tasted from your words alone?' (Usually not, or only by guessing.) 'Why is a taste so hard to describe?' (Because it is felt from the inside. Words can only point at it.) Say: 'Scientists call this inside feeling subjective experience. It is the most real thing you have, and the hardest to share.'",
+     "ref": "a4"
+    },
+    {
+     "kind": "talk",
+     "title": "What is it like to be a bat?",
+     "mins": 12,
+     "do": "Tell voice v3: 'In 1974 a philosopher called Thomas Nagel wrote about bats. Bats find their way in the dark by making high squeaks and listening to the echoes. Nagel said we can learn everything about how a bat's ears and brain work, and still not know what it is like to be a bat.' Then add: 'An Indian scientist, Obaid Siddiqi, studied how fruit flies taste and smell. He found flies with changed genes that could no longer taste or smell certain things. He also set up a famous science centre in Bengaluru. Work like his tells us which genes and nerves a fly uses to taste. It doesn't tell us what sugar tastes like to a fly.' Ask: 'Do you think a fly tastes sugar as sweet, the way you do?' (Nobody knows. Any answer with a reason is fair.)",
+     "ref": "v3"
+    },
+    {
+     "kind": "think",
+     "title": "Lights that tell the truth, and lights that lie",
+     "mins": 8,
+     "do": "Say: 'Fireflies make their own light. Making light in a living body is called bioluminescence. A firefly does not need a torch. In some kinds of firefly, the male flashes a pattern in the dark, and a female of the same kind flashes back to show where she is.' Ask: 'What problem does the flashing solve?' (Finding each other in the dark.) Then: 'In America, a scientist called James Lloyd found that females of one kind of firefly copy the answer flash of a different kind. The male of that kind flies down to meet a mate, and she eats him.' Ask: 'Was the flash he saw real?' (The light was real. The message it seemed to give was false.) Your child writes in the project book: 'A real signal can carry a false message.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 8,
+     "do": "Your child does Worksheet ws2 (stretch). Write down their words for the written answers. For the last item, ask them to argue for one view and then answer back from the other.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "something red",
+    "a blindfold or a dupatta",
+    "small tastes: a piece of tamarind, a slice of lemon, a little jaggery, a pinch of salt in water"
+   ],
+   "prep": [
+    {
+     "task": "Cut a slice of lemon and break off a small piece of tamarind and of jaggery. Keep them covered in three small bowls.",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Many making one: where does awareness come from?",
+   "goal": "Watch ants build a trail with no leader, dance as a flock, and compare the main ideas about where awareness comes from.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Has anyone found the sugar?",
+     "mins": 5,
+     "do": "Go to the spot where you put the sugar this morning (Experiment e4). Ask: 'How many ants are there? Are they walking in a line?' If no ants have come yet, look along the kitchen counter or a wall for an ant line that is already there, and use that instead."
+    },
+    {
+     "kind": "exp",
+     "title": "The ant trail",
+     "mins": 13,
+     "do": "Do Experiment e4. While you watch, ask: 'Which ant is the boss?' (None that we can see.) After you wipe a finger across the trail, ask: 'What did the ants do at the gap?' (They stopped and wandered, then found the trail again.) Say: 'Ants leave a smell on the ground as they walk back from food. Other ants follow it. Nobody plans the trail. A scientist called Deborah Gordon has studied ant colonies in the desert for over 30 years. She found that no ant gives orders, not even the queen, who only lays eggs. The colony decides, but no single ant does.'",
+     "ref": "e4"
+    },
+    {
+     "kind": "act",
+     "title": "Flock dance",
+     "mins": 10,
+     "do": "Do Activity a5. After, ask: 'Who was leading the flock?' (Nobody, or a different person each time we turned.) 'Did it still look like one thing moving?' (Yes.) Say: 'When many simple parts together do something none of them does alone, scientists call it emergence. Starlings in the sky and fish in a shoal move like this.'",
+     "ref": "a5"
+    },
+    {
+     "kind": "talk",
+     "title": "Where does awareness come from?",
+     "mins": 17,
+     "do": "Say: 'Some scientists think awareness is like the ant trail. They think it emerges when enough brain cells work together, and that simple things have none. Others disagree. One scientist, Giulio Tononi, says awareness depends on how much the parts of a thing share and join up their information. Many scientists argue about his idea.' Tell voice v4. Then say: 'Here is what the evidence points to. Every living thing senses, responds and keeps itself going. A single cell with no brain finds food and swims away from harm. Everything has some inside of its own, of its own kind. Many scientists say instead that only things with a brain, or only some animals, are aware.' Then: 'Awareness can also be switched off and on. In deep sleep, and when a doctor gives an anaesthetic before an operation, a person is not aware. Doctors have used anaesthetics since the 1840s, and they still don't fully know how they switch awareness off. In a study published in 2018, scientists gave an anaesthetic to a touch-me-not plant and a Venus flytrap, and both stopped moving when touched, until it wore off.' Ask: 'What do you think: does awareness need a brain?' Let your child give a reason and write it in the project book.",
+     "ref": "v4"
+    }
+   ],
+   "need": [
+    "a few grains of sugar or a drop of honey on a small piece of paper",
+    "a magnifying glass if you have one",
+    "music for the dance"
+   ],
+   "prep": [
+    {
+     "task": "Put a few grains of sugar on a small piece of paper near a place where you have seen ants, such as a kitchen counter or a windowsill.",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Could it all be a dream? Teach it back",
+   "goal": "Ask whether the world could be a dream or a simulation, play the game, and teach the week back.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What can't you doubt?",
+     "mins": 5,
+     "do": "Say: 'About 380 years ago, a French thinker called René Descartes tried to doubt everything. Maybe his eyes were fooling him. Maybe he was dreaming.' Ask: 'Is there anything you can't doubt?' Let your child try. Then say: 'Descartes decided that even while he was doubting, he was the one doing the doubting. He wrote: I think, therefore I am.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Could the world be a simulation?",
+     "mins": 8,
+     "do": "Say: 'In 2003 a philosopher called Nick Bostrom asked whether our whole world could be a very detailed computer game, run by someone else. Most scientists think there is no way to test this yet.' Ask: 'If it were a simulation, would your toothache still hurt? Would the laws of nature still work?' (Yes. The pain and the patterns would still be real for you.) Then: 'Some computers today can talk about feelings. Does that mean they have feelings?' (Nobody knows. Talking about a feeling is not the same as having one, but we can't see inside a computer's experience any more than inside a bat's.)"
+    },
+    {
+     "kind": "game",
+     "title": "Out of the Cave",
+     "mins": 10,
+     "do": "Play the board game g1. Each player must give a reason when a square asks a question. If the others agree the reason is good, the player moves on.",
+     "ref": "g1"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 10,
+     "do": "Your child does Worksheet ws3 (challenge). Read the questions aloud and write down the long answers in their words. Several have no single right answer. Listen for reasons and evidence from this week's tests.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 12,
+     "do": "Your child finishes the last page of the project book: 'What I now think is real.' Then they show the family the book, run the blind spot test on someone, and explain three things: why we see the past, why a table feels solid, and what Nagel meant about the bat. Then ask the check questions. End with: 'In Class 2 you asked how you know you are not dreaming. What would you answer now?'"
+    }
+   ],
+   "need": [
+    "the printed game board, a die and one counter for each player",
+    "the project book"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Real for everyone, real for me",
+   "day": 4,
+   "sections": [
+    [
+     "A. Two kinds of real",
+     [
+      {
+       "t": "sort",
+       "p": "Sort each one. Is it real for everyone (objective), or real for the one person who feels it (subjective)?",
+       "items": [
+        "the weight of a bag of rice",
+        "a pain in your knee",
+        "how sweet payasam tastes to you",
+        "the height of a door",
+        "feeling happy at Onam",
+        "the number of steps up to your flat"
+       ],
+       "cats": [
+        "real for everyone",
+        "real for me"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In the blind spot test, the dot vanished. What did you see in its place?",
+       "opts": [
+        "a black hole",
+        "plain white card",
+        "a bright light"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "The place at the back of the eye where the nerve leaves, and no light is caught, is called the ____.",
+       "a": [
+        "blind spot"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Light, time and pictures",
+     [
+      {
+       "t": "mcq",
+       "p": "Light from the Sun takes about how long to reach us?",
+       "opts": [
+        "no time at all",
+        "about 8 minutes",
+        "about 8 days"
+       ],
+       "a": 1
+      },
+      {
+       "t": "match",
+       "p": "Match each word to what it means.",
+       "pairs": [
+        [
+         "frame",
+         "one still picture in a film"
+        ],
+        [
+         "perspective",
+         "far things look smaller"
+        ],
+        [
+         "law of nature",
+         "a pattern that always happens"
+        ],
+        [
+         "observer effect",
+         "measuring changes what you measure"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In Plato's cave story, the prisoners saw shadows on the wall. The shadows were…",
+       "opts": [
+        "not real at all",
+        "real shadows, but only part of the truth",
+        "the real things themselves"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "Kavya, a girl in Class 4, says: 'I see that star exactly as it is tonight.' What would you tell her, and why?",
+       "lines": 3,
+       "a": "A strong answer says the star's light took years to reach us, so Kavya sees the star as it was when the light left. It may have changed since."
+      },
+      {
+       "t": "write",
+       "p": "In the breath counter, Amma breathed differently once she knew she was being counted. Why does this matter when scientists study people?",
+       "lines": 3,
+       "a": "A strong answer says that watching can change what people do, so scientists must plan tests where being watched does not spoil the result, or count without the person thinking about it."
+      },
+      {
+       "t": "write",
+       "p": "A film is a row of still pictures. Why do we see movement?",
+       "lines": 2,
+       "a": "A strong answer says the pictures are shown very fast, 24 every second, and each one is a little different, so the brain joins them into movement."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Inside atoms, inside minds",
+   "day": 6,
+   "sections": [
+    [
+     "A. Zoom in",
+     [
+      {
+       "t": "mcq",
+       "p": "If an atom were as big as a cricket stadium, its nucleus would be about as big as…",
+       "opts": [
+        "the whole pitch",
+        "a mustard seed",
+        "a car"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Why doesn't your hand go through a table, if atoms are mostly cloud?",
+       "opts": [
+        "the electron clouds push each other away",
+        "the table is hollow",
+        "your hand is too slow"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "The tiny particles spread like a cloud around the nucleus are called ____.",
+       "a": [
+        "electrons",
+        "electron"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Thomas Young shone light through two narrow slits. What did he see on the wall?",
+       "opts": [
+        "two bright lines",
+        "many bright and dark stripes",
+        "nothing at all"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "B. Other beings, other insides",
+     [
+      {
+       "t": "match",
+       "p": "Match each being to how they find their way or each other.",
+       "pairs": [
+        [
+         "bat",
+         "high squeaks and their echoes"
+        ],
+        [
+         "firefly",
+         "flashes of light made in the body"
+        ],
+        [
+         "ant",
+         "a smell trail left on the ground"
+        ],
+        [
+         "honeybee",
+         "ultraviolet patterns on flowers"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Thomas Nagel said we could learn everything about how a bat's brain works and still not know…",
+       "opts": [
+        "how big a bat is",
+        "what it is like to be a bat",
+        "where bats live"
+       ],
+       "a": 1
+      },
+      {
+       "t": "write",
+       "p": "Meenakshi, a girl in Class 4, tastes tamarind with a blindfold on and tries to describe it to her brother Arjun without naming any food. Why is this so hard?",
+       "lines": 3,
+       "a": "A strong answer says a taste is felt from the inside, so it is subjective. Words can point at it but cannot hand the feeling to someone else."
+      }
+     ]
+    ],
+    [
+     "C. Think it through",
+     [
+      {
+       "t": "write",
+       "p": "Some firefly females copy the flash of a different kind of firefly, and eat the males who come. Was the light real? Was the message real? Explain.",
+       "lines": 3,
+       "a": "A strong answer says the light was real, made in her body, but the message it seemed to give, 'a mate is here', was false. A real signal can carry a false message."
+      },
+      {
+       "t": "write",
+       "p": "Two views. A physicist says: 'The table is mostly empty space.' A carpenter says: 'The table is solid wood.' Pick one, give your reason, then say one thing the other person gets right.",
+       "lines": 5,
+       "a": "A strong answer uses the atom model (a tiny nucleus with an electron cloud) and the knock test. It sees that both describe the same table at different zooms: solid means the atoms push back, not that the space is packed full."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "The hardest questions",
+   "day": 8,
+   "sections": [
+    [
+     "A. Test the claims",
+     [
+      {
+       "t": "mcq",
+       "p": "When scientists sent light through two slits and checked which slit each packet went through, what happened?",
+       "opts": [
+        "the stripes got brighter",
+        "the stripes disappeared",
+        "nothing changed"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Ants made a trail to the sugar. Who planned the trail?",
+       "opts": [
+        "the queen",
+        "the biggest ant",
+        "no single ant"
+       ],
+       "a": 2
+      },
+      {
+       "t": "fill",
+       "p": "When many simple parts together do something none of them does alone, scientists call it ____.",
+       "a": [
+        "emergence"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "In a study published in 2018, a touch-me-not plant was given an anaesthetic. What happened?",
+       "opts": [
+        "the plant stopped folding when touched, until the anaesthetic wore off",
+        "the plant folded faster",
+        "the plant died"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Weigh the views",
+     [
+      {
+       "t": "write",
+       "p": "Farhan, a boy in Class 4, says: 'If I can't see it, it isn't real.' Use two things from this week to answer him.",
+       "lines": 4,
+       "a": "A strong answer uses evidence such as the blind spot (you can't see the gap, yet it is there), atoms (too small to see), the stripes of light, or laws of nature, which are patterns, not objects."
+      },
+      {
+       "t": "write",
+       "p": "Two views. Lakshmi says: 'Awareness only comes from a big brain.' Nila says: 'Everything has some inside of its own.' Pick one, give one piece of evidence for it, then answer back from the other side.",
+       "lines": 6,
+       "a": "A strong answer uses evidence such as the ant trail, single cells finding food, plants stopping under anaesthetic, or people losing awareness in deep sleep. It argues one side and then answers fairly from the other."
+      },
+      {
+       "t": "write",
+       "p": "If the whole world were a computer simulation, would your toothache still be real? Explain your answer.",
+       "lines": 4,
+       "a": "A strong answer says the pain is still felt, so it is real for the person feeling it, whatever the world is made of. It may add that the laws of nature would still be the same patterns."
+      }
+     ]
+    ],
+    [
+     "C. Your own test",
+     [
+      {
+       "t": "write",
+       "p": "Design a test to find out whether your little cousin knows the blind spot is there before you show them. What would you ask, and what would you watch for?",
+       "lines": 4,
+       "a": "A strong answer asks first, without hinting, whether there is any part of what they see that is missing, then runs the card test, and notes whether they ever saw a hole. It explains that the brain fills the gap, so nobody notices it without a test."
+      },
+      {
+       "t": "draw",
+       "p": "Draw Plato's cave: the prisoners, the wall, the fire and the people carrying things. Then draw one prisoner walking out into the sunlight."
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Find your blind spot",
+   "day": 1,
+   "question": "Is there a place in each eye that sees nothing at all?",
+   "need": [
+    "a white card or paper the size of a postcard",
+    "a black pen",
+    "a 30 cm ruler"
+   ],
+   "steps": [
+    "On the card, draw a small cross on the left and a filled dot, about as big as a pea, on the right. Put them about 8 cm apart, on the same line.",
+    "Your child covers their left eye with one hand.",
+    "They hold the card at arm's length and stare at the cross with the right eye. They must not look at the dot.",
+    "They bring the card slowly towards their face, still staring at the cross.",
+    "When the dot disappears, stop. Measure from the eye to the card with the ruler.",
+    "For the left eye, cover the right eye and stare at the dot instead. Now the cross will vanish."
+   ],
+   "predict": "Ask: 'Will the dot stay in sight all the way?'",
+   "observe": "At about 25 to 35 cm from the eye, the dot suddenly vanishes. In its place your child sees plain white card, not a hole. Move a little closer and it comes back.",
+   "why": "The optic nerve carries signals from the eye to the brain. It leaves the back of the eye through one spot, and that spot has no cells that catch light. When the dot's light lands there, nothing is caught. The brain does not show a hole. It fills the gap with what is around it, here white card. If it doesn't work, check that your child is staring at the cross the whole time.",
+   "safety": "No safety worries. Rest if the eye feels tired.",
+   "time": "10–15 min"
+  },
+  {
+   "id": "e2",
+   "title": "The breath counter",
+   "day": 4,
+   "question": "Does being watched change how a person breathes?",
+   "need": [
+    "a phone timer or a clock with a seconds hand",
+    "paper and pencil",
+    "a family member who agrees to be counted (tell them afterwards, not before round 1)"
+   ],
+   "steps": [
+    "Round 1: while a family member reads or watches TV, your child quietly counts how many times their chest rises in one minute. The person should not know.",
+    "Write down the number.",
+    "Round 2: now tell the person, 'I am going to count your breaths for one minute.' Count again.",
+    "Write down the second number.",
+    "Do both rounds with a second person if you can, and tell everyone what you did."
+   ],
+   "predict": "Ask: 'Will the two numbers be the same?'",
+   "observe": "Most people breathe more slowly or more deeply once they know they are being counted. The second number is often lower. Sometimes it is the same, and that is a real result too.",
+   "why": "Breathing goes on by itself, but we can also control it. Once a person thinks about their breathing, they often change it without meaning to. So the counting changed the thing being counted. Scientists call this the observer effect. It is why some tests are planned so the person being studied does not change what they do.",
+   "safety": "Ask permission before round 2 and tell the person about round 1 afterwards. Nobody should hold their breath.",
+   "time": "10–15 min"
+  },
+  {
+   "id": "e3",
+   "title": "Light through a finger gap",
+   "day": 5,
+   "question": "What happens to light that squeezes through a very narrow gap?",
+   "need": [
+    "a tubelight, or a white wall lit brightly by daylight"
+   ],
+   "steps": [
+    "Stand about two big steps from a lit tubelight, or face a brightly lit white wall.",
+    "Hold up your hand close to one eye, with two fingers side by side.",
+    "Squeeze the fingers together until there is only a hair-thin gap between them.",
+    "Look through the gap at the bright light. Shut the other eye.",
+    "Slowly make the gap a little wider and a little thinner, and watch."
+   ],
+   "predict": "Ask: 'Will you see just a thin bright line through the gap?'",
+   "observe": "Thin dark lines appear in the gap, side by side, running the same way as the fingers. They move and change as the gap gets thinner.",
+   "why": "Light behaves like a wave. When a wave passes through a very narrow gap, it spreads out. The spreading waves meet and add up in some places and cancel out in others, so you see bright and dark stripes. Thomas Young showed this with two narrow slits in the early 1800s.",
+   "safety": "Never look at the Sun, through the fingers or any other way. A tubelight or a lit wall is safe.",
+   "time": "5–10 min"
+  },
+  {
+   "id": "e4",
+   "title": "The ant trail",
+   "day": 7,
+   "question": "How do ants find their way to food without a leader?",
+   "need": [
+    "a few grains of sugar or a drop of honey on a small piece of paper",
+    "a magnifying glass if you have one",
+    "a damp cloth"
+   ],
+   "steps": [
+    "In the morning, put the sugar on the paper near a place where you have seen ants.",
+    "Later, watch for 5 minutes. Count the ants on the paper and on the way to it.",
+    "Look closely: do the ants walk in a line? Do ants going towards the sugar touch ants coming back?",
+    "With a damp finger, wipe a short gap across the line, about two fingers wide.",
+    "Watch for 3 minutes. What do the ants do at the gap?",
+    "When you finish, put the sugar in the bin and wipe the place clean."
+   ],
+   "predict": "Ask: 'When I wipe the line, will the ants carry on straight across?'",
+   "observe": "Ants come and go in a line between the sugar and their nest. At the wiped gap they stop, turn and wander about, then find the trail again on the other side and carry on.",
+   "why": "An ant who finds food leaves a smell trail, called a pheromone trail, on the way back to the nest. Other ants follow the smell, and add their own if they find food too. The trail grows stronger with each ant. Wiping washed away the smell, so the ants lost the trail for a while. No ant plans the route. The trail emerges from many ants each following simple rules. If no ants come after a few hours, watch an ant line that is already on a wall or counter, and wipe a gap across that.",
+   "safety": "Don't pick ants up. Some small red ants bite. Clean up the sugar afterwards so the ants don't stay.",
+   "time": "set up in the morning, then 10–15 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Flipbook bouncing ball",
+   "day": 2,
+   "mins": 16,
+   "need": [
+    "a small notebook, or about 20 small sheets of paper clipped together at one edge",
+    "a pencil"
+   ],
+   "steps": [
+    "On the last page, near the bottom, draw a small circle for a ball on the ground.",
+    "Turn back one page. You can see the ball faintly through the paper. Draw it again a little higher.",
+    "Keep going backwards, page by page, making the ball go up and then come back down. Move it only a little each time.",
+    "When you reach the first page, hold the book at the edge and flip the pages fast with your thumb.",
+    "Try flipping slowly, and then fast. Notice when the movement stops looking smooth."
+   ],
+   "outcome": "A bouncing ball made of still pictures, and the discovery that the brain joins still pictures into movement."
+  },
+  {
+   "id": "a2",
+   "title": "Trace the view through a window",
+   "day": 2,
+   "mins": 15,
+   "need": [
+    "a clear plastic file folder or sheet",
+    "sticky tape",
+    "a whiteboard marker or a thin black felt pen"
+   ],
+   "steps": [
+    "Tape the clear sheet flat against a window that looks out on buildings, a road or trees.",
+    "Your child stands close, with their nose almost touching a fixed spot, like the edge of the window frame, so their head does not move.",
+    "With one eye shut, they trace the outlines of what they see onto the plastic: buildings, the road, a tree, the window frame.",
+    "Take the sheet down and lay it on white paper.",
+    "Compare the sizes on the drawing: the far building and the near window frame."
+   ],
+   "outcome": "A tracing that shows far things drawn small and parallel lines meeting, just as artists draw with perspective."
+  },
+  {
+   "id": "a3",
+   "title": "Plato's cave with a torch",
+   "day": 3,
+   "mins": 18,
+   "need": [
+    "a torch",
+    "a white wall or a white bedsheet hung up",
+    "card, scissors and pencils or sticks",
+    "a few small objects: a cup, a spoon, a toy animal"
+   ],
+   "steps": [
+    "Cut a few shapes from card, such as a tree, a bird and a cow, and tape each to a stick or pencil.",
+    "Darken the room. Your child sits facing the wall, with their back to you.",
+    "Put the torch on a table behind you, pointing at the wall.",
+    "Walk the card shapes and real objects between the torch and the wall, so only their shadows show. Your child must not turn round.",
+    "Your child names each shadow. Ask: 'How sure are you?'",
+    "Hold the cup sideways, then upright. Ask: 'Is it the same thing?' The shadow changes, the cup does not.",
+    "Now your child turns round and sees the torch, the shapes and the objects. Swap places and play again."
+   ],
+   "outcome": "A child who has been a prisoner in the cave, and has seen how real shadows can show only part of real things."
+  },
+  {
+   "id": "a4",
+   "title": "Describe a taste",
+   "day": 6,
+   "mins": 12,
+   "need": [
+    "a blindfold or a dupatta",
+    "a piece of tamarind, a slice of lemon, a little jaggery, a pinch of salt in water, in small bowls"
+   ],
+   "steps": [
+    "Round 1: your child is blindfolded. You give them one small taste. They describe it out loud without naming any food or saying 'like'. You try to guess what it is.",
+    "Round 2: swap. You are blindfolded and describe a taste to your child.",
+    "Now each of you tries to describe the taste of tamarind to someone who has never tasted it, such as a person from a cold country far away.",
+    "Write the best describing words in the project book."
+   ],
+   "outcome": "The discovery that a taste can be pointed at with words but never handed over: it is real, and it is felt only from the inside."
+  },
+  {
+   "id": "a5",
+   "title": "Flock dance",
+   "day": 7,
+   "mins": 10,
+   "need": [
+    "at least three people, more is better",
+    "some space, with chairs moved to the side",
+    "music on a phone"
+   ],
+   "steps": [
+    "Everyone stands loosely in a group, all facing the same way.",
+    "Rule 1: stay close to the people next to you. Rule 2: don't bump into anyone. Rule 3: move the same way your nearest neighbour moves.",
+    "Nobody is the leader. Start the music and begin to move slowly around the room.",
+    "Whoever is at the front when the group turns can change direction, and the others follow by the rules.",
+    "After two minutes, stop. Try it again with eyes on the floor, watching only the feet next to you."
+   ],
+   "outcome": "A family that has moved as one flock with no leader, and a feel for what emergence means."
+  }
+ ],
+ "project": {
+  "title": "My guide to what is real",
+  "days": [
+   1,
+   8
+  ],
+  "steps": [
+   "Day 1: fold three A4 sheets and staple them into a 12-page book. Page 1: the two lists, real for everyone and real for me, and the blind spot card with your distance.",
+   "Day 2: write 'Everything I see, I see a little in the past', and add the window tracing.",
+   "Day 3: draw the elephant with six hands, each touching a different part.",
+   "Day 4: write one law of nature you know, and the two breath counts.",
+   "Day 5: draw the table at three zooms.",
+   "Day 6: write your best words for a taste, and 'A real signal can carry a false message.'",
+   "Day 7: write your answer: does awareness need a brain? Give your reason.",
+   "Day 8: last page, 'What I now think is real'. Show the book to the family."
+  ],
+  "outcome": "A small book of the child's own tests and answers about what is real, ready to look back on in Class 5."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Out of the Cave",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "a die",
+   "one counter for each player"
+  ],
+  "rules": [
+   "Everyone starts on the first square, inside the cave. The first to reach the last square, out in the sunlight, wins.",
+   "Take turns to roll the die and move that many squares.",
+   "If you land on a question square, answer it with a reason. If the other players agree your reason is good, move forward 1 more square. If not, stay where you are.",
+   "If you land on a shadow square, do what it says.",
+   "Play to the end, then everyone shares the best reason they heard in the game."
+  ],
+  "squares": [
+   "START: inside the cave, facing the wall",
+   "Shadow: you thought a shadow was the real thing. Go back 1.",
+   "Question: name one thing that is real for everyone.",
+   "Question: name one thing that is real only for you.",
+   "Question: what does your brain do at your blind spot?",
+   "Shadow: you looked straight at the Sun. Miss a turn and rest your eyes.",
+   "Question: why do we see the Sun as it was 8 minutes ago?",
+   "Question: how many still frames does a film show each second?",
+   "Shadow: you only touched the elephant's tail. Go back 2.",
+   "Question: name a law of nature.",
+   "Question: how did counting change Amma's breathing?",
+   "Question: what is the tiny centre of an atom called?",
+   "Question: why doesn't your hand go through the table?",
+   "Shadow: a firefly's flash fooled you. Go back 1.",
+   "Question: what did Thomas Young see through two slits?",
+   "Question: why is a taste so hard to describe?",
+   "Question: who leads an ant trail?",
+   "Question: does awareness need a brain? Give a reason.",
+   "Question: if the world were a simulation, would a toothache still hurt?",
+   "HOME: out of the cave, in the sunlight"
+  ]
+ },
+ "big": [
+  "If your brain fills in the blind spot without telling you, how much of what you see is filled in?",
+  "Is a law of nature real, even though you can't touch it?",
+  "If you knew everything about a bat's brain, would you know what it is like to be a bat?",
+  "Does awareness need a brain?",
+  "If the world were a dream or a simulation, what in it would still be real?"
+ ],
+ "challenge": [
+  {
+   "q": "'Every cell in your body is replaced every seven years.'",
+   "hint": "This is a popular saying, but it is not true. In 2005 a team in Sweden led by Jonas Frisén measured the age of cells using carbon left over from bomb tests in the 1950s and 1960s. Red blood cells last about four months, and the outer skin rubs off in weeks. But most brain cells in the outer layer of the brain are as old as you are, and the cells at the centre of the eye's lens were made before you were born. So which parts of you have always been you?"
+  },
+  {
+   "q": "'Seeing is believing.'",
+   "hint": "This week you found a hole in your own sight that your brain hides, and saw still pictures move. Atoms and the stripes of light are real, but no eye sees an atom. Scientists trust a thing more when different people, tools and tests agree. What do you believe that you have never seen?"
+  },
+  {
+   "q": "'Solid things are packed full of stuff.'",
+   "hint": "An atom's weight is almost all in a tiny nucleus, and electrons spread like a cloud around it. A table feels solid because the electron clouds push back hard, not because the space is packed. So what does 'solid' really mean?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "Jain thinkers and the idea of anekantavada",
+   "view": "The truth has many sides, and each person sees only some of them, like the blind men each touching one part of the elephant. Ask: if your eyes and ears each touch only part of the world, what could help you know more of it?"
+  },
+  {
+   "who": "A tholpavakoothu shadow puppeteer in Palakkad, Kerala",
+   "view": "Moves leather puppets behind a lit cloth, so the audience sees only shadows. People still gasp and cry. Ask: is the audience's fear real, if the deer on the screen is a shadow?"
+  },
+  {
+   "who": "A bat",
+   "view": "Lives in a world built from echoes, hearing the shape of a room in the dark. Ask: is the bat's world of echoes less real than your world of light?"
+  },
+  {
+   "who": "An ant colony",
+   "view": "Thousands of ants find food, build and defend the nest, and no ant is in charge. Ask: is the colony a someone, or only many someones?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Plato (about 428–348 BCE), Athens, Greece",
+   "idea": "In his book the Republic, Plato told a story about prisoners chained in a cave, who saw only shadows on a wall and took them for real things. One prisoner is freed, sees the fire and then the sunlit world, and goes back to tell the others, who don't believe him. Plato used it to say that what our senses show us is only a shadow of a deeper reality.",
+   "then": "His student Aristotle disagreed. Aristotle thought we learn what is real by looking carefully at the world through our senses, not by looking past them.",
+   "now": "Philosophers still argue about Plato's view. Science agrees with part of the story: our senses catch only some of what is there, like light we can see but not ultraviolet. Science also trusts careful looking and testing, as Aristotle did.",
+   "status": "debated",
+   "ask": "If the freed prisoner came back and told you the shadows were not the whole truth, what would make you believe them?",
+   "day": 3
+  },
+  {
+   "id": "v2",
+   "who": "Thomas Young (1773–1829), England",
+   "idea": "Young, a doctor, shone light through two narrow slits and saw many bright and dark stripes on the wall, as waves make when they meet. He argued that light is a wave, against Isaac Newton's idea that light is made of particles.",
+   "then": "Most scientists followed Newton. Young's work was attacked in print, and for years few people accepted it. In the 1810s the French scientist Augustin Fresnel did more experiments that showed Young was right.",
+   "now": "Accepted that light makes these stripes. In the 1900s scientists found light also comes in tiny packets. Single packets sent one at a time still build up the stripes, and when a detector checks which slit each one goes through, the stripes vanish. Scientists agree on these results. What they mean is still argued about.",
+   "status": "accepted",
+   "ask": "Young was right, but most people did not believe him at first. What should a scientist do when everyone disagrees with their results?",
+   "day": 5
+  },
+  {
+   "id": "v3",
+   "who": "Thomas Nagel (born 1937), USA",
+   "idea": "In 1974 Nagel wrote an essay called 'What Is It Like to Be a Bat?'. He said a bat finds their way by echoes, and we could learn every fact about a bat's brain without knowing what it is like, from the inside, to be that bat. He used this to say that science from the outside may never fully explain experience from the inside.",
+   "then": "Many scientists and philosophers argued that once we understand the brain well enough, the inside will be explained too. Others agreed with Nagel.",
+   "now": "Still one of the most argued-about questions in science and philosophy. Some call it the 'hard problem' of consciousness. Nobody has solved it.",
+   "status": "debated",
+   "ask": "What could ever count as evidence of what it feels like to be someone else?",
+   "day": 6
+  },
+  {
+   "id": "v4",
+   "who": "Giulio Tononi (born 1960), Italy and USA",
+   "idea": "Tononi, a brain and sleep scientist, put forward integrated information theory in 2004. It says a thing is aware to the degree that its parts share information and work as one whole. On this theory, awareness is not only in brains. Many things could have a little of it.",
+   "then": "Some scientists welcomed it as a way to measure awareness, for example in patients who cannot speak. Others said it cannot be properly tested.",
+   "now": "Strongly debated. In 2023 more than a hundred scientists signed a letter calling it pseudoscience, and many others defended it. Other scientists hold that awareness emerges only in brains of a certain kind. The question is open.",
+   "status": "debated",
+   "ask": "If a theory says a plant or an ant colony has some awareness, how could we ever test it?",
+   "day": 7
+  }
+ ],
+ "story": {
+  "title": "The Deer Behind the Screen",
+  "text": [
+   "I am a deer made of leather. I am as long as a man's arm, and I am full of tiny holes. Someone punched them, one by one, long before I can remember. When a lamp shines through me, the holes become my spots.",
+   "I live in a wooden box in a village near Palakkad, in Kerala. For most of the year the box stays shut. Then the temple festival comes. The box is opened, and I am carried to the koothumadam, the long playhouse that faces the goddess in the temple. Across its open front hangs a white cloth. Behind the cloth sits a row of oil lamps in half coconut shells.",
+   "The play is the Ramayana, sung in old Tamil verses. It goes on for many nights, one part of the story each night. Even when nobody sits out front, the play goes on, because it is an offering to the goddess.",
+   "My night comes in the middle. Ravana wants to carry Sita away. He sends his helper Maricha, who turns himself into a golden deer and runs past Sita's hut, so beautiful that she asks Rama to catch the deer for her. So I am leather, playing a demon, pretending to be a golden deer. I have never been sure which of these I am.",
+   "On the other side of the cloth, the people see only my shadow. They see it leap and turn its head. Every year I hear them gasp.",
+   "This year there was a girl called Revathi. She was nine. Her father, Ravi, was one of the puppeteers. Every night she sat in the front row on the sand with her little brother Kannan, who was six. Kannan held her arm and hid his face when Ravana came.",
+   "On my night, when Ravi lifted me from the box, a small face appeared at the edge of the cloth. Revathi had crept round the side of the playhouse.",
+   "\"Go back, molé,\" whispered Ravi. But he was already singing, and his hands were busy, so she stayed.",
+   "I saw her look at everything. The lamps flickering in their coconut shells. The smoke curling up into the roof. The puppets hanging on a line like washing: Rama, Sita, Hanuman, Ravana with his ten heads. The men sitting cross-legged, sweating, singing. And me, flat and brown, held up on a stick against the cloth.",
+   "Her face fell. \"It's just leather,\" she said.",
+   "Then she did something nobody from the front had ever done. She looked at the cloth from behind. There I was, a shadow, leaping. The light from the lamp went through my holes and made my spots on the cloth. When her father tipped the stick, my shadow lifted its head. When he brought me closer to the lamp, my shadow grew huge and soft at the edges. When he pressed me flat to the cloth, it shrank and went sharp.",
+   "She watched for a long time. Then she went back round to the front and sat down next to Kannan.",
+   "\"Where did you go?\" he said. \"You missed the deer. The deer was so beautiful. Rama is chasing the deer now.\"",
+   "\"I saw the deer,\" said Revathi. \"From the back.\"",
+   "\"What does it look like from the back?\"",
+   "She thought about it. \"It's a piece of leather,\" she said. \"With holes in it. And Appa's hand holding it. And a lamp.\"",
+   "Kannan's lip shook. \"So the deer isn't real.\"",
+   "\"No, listen,\" said Revathi. \"The shadow is real. It's really there on the cloth. The lamp is real, and the leather is real, and Appa's hands are real. All of them together make it. You're seeing a real thing. You're just not seeing all of it.\"",
+   "Kannan looked at the cloth. My shadow was running now, with Rama's shadow behind it. \"Is that why it gets bigger and smaller?\"",
+   "\"That's Appa moving it nearer the lamp,\" she said. \"Watch. Now it'll go big.\" And I did.",
+   "He laughed. Then he went quiet again. \"Revathi. If the deer is Appa's hand, what is Appa?\"",
+   "She didn't answer. She looked up. Above the playhouse roof the sky was full of stars, and over the temple wall the big festival lamp was burning, and somewhere beyond all of it there was the thing that made the stars.",
+   "On the cloth, Rama's arrow found me. Maricha fell and shouted in Rama's voice, and Sita, hearing it, sent Lakshmana away. Then Ravana came.",
+   "Revathi knew it was leather. She knew it was her father's hands and a lamp in a coconut shell. When Sita was carried away, she cried anyway. Kannan held her arm.",
+   "After the show, when the lamps were put out and I was laid back in my box, I heard her ask her father a question.",
+   "\"Appa, next year, can I hold the lamp?\""
+  ],
+  "epiphany": "For the parent: the story is Plato's cave from the inside. The turn comes when Revathi looks at the shadow from behind and sees how lamp, leather and hands together make it. She is disappointed at first ('It's just leather'), then sees that the shadow is a real thing, only not the whole of it. Kannan's question, 'what is Appa?', asks what stands behind us, and nobody in the story answers it. Her tears at the end show that a feeling can be fully real even when you know how the picture is made.",
+  "ask": [
+   "Why was Revathi disappointed when she first went behind the screen?",
+   "Revathi said, 'You're seeing a real thing. You're just not seeing all of it.' What did she mean?",
+   "Why did the deer's shadow grow bigger and softer when it came close to the lamp?",
+   "Revathi knew the deer was leather, but she still cried when Sita was taken. Were her tears real?",
+   "Kannan asked, 'If the deer is Appa's hand, what is Appa?' What would you answer?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "What you see is built by your brain.",
+   "more": "The blind spot test shows the brain filling a gap without telling you. Flipbooks and perspective drawings show it joining and judging what the eyes catch. Seeing is real, but it is your brain's picture, not a window."
+  },
+  {
+   "idea": "Real comes in more than one kind.",
+   "more": "Some things are real for everyone and anyone can check them, like a table's length or a law of nature. Some are real from the inside for one person, like a taste or a pain. Both kinds are real."
+  },
+  {
+   "idea": "Zoom in, and solid things change.",
+   "more": "A table is wood, then fibres, then atoms, each a tiny heavy nucleus with a cloud of electrons. Solid means the atoms push back, not that the space is packed full."
+  },
+  {
+   "idea": "Many simple parts can act as one.",
+   "more": "Ants make a trail and a family makes a flock with no leader. Scientists argue about whether awareness comes from parts working together like this, or is in everything from the start."
+  }
+ ],
+ "unknowns": [
+  "How do signals in the brain become the feeling of seeing red or tasting tamarind? Nobody knows. This is sometimes called the hard problem of consciousness.",
+  "When a detector checks which slit a packet of light goes through, why do the stripes vanish? Scientists agree it happens and argue about what it means.",
+  "How do anaesthetics switch awareness off? Doctors have used them since the 1840s, and still don't fully know.",
+  "Can a computer that talks about feelings have feelings? Nobody knows how to test it yet."
+ ],
+ "books": [
+  {
+   "title": "Seven Blind Mice",
+   "author": "Ed Young",
+   "for": "read together",
+   "age": "4–8",
+   "why": "Seven mice each touch one part of a strange 'something' and argue about what it is. A picture-book version of the blind men and the elephant."
+  },
+  {
+   "title": "Zoom",
+   "author": "Istvan Banyai",
+   "for": "read together",
+   "age": "5–10",
+   "why": "A wordless picture book where each page zooms out to show that the last picture was only part of something bigger. Perfect after Plato's cave."
+  },
+  {
+   "title": "Ants at Work: How an Insect Society Is Organized",
+   "author": "Deborah M. Gordon",
+   "for": "parent reads",
+   "age": "adult (read parts aloud)",
+   "why": "The scientist from Day 7 explains how harvester ant colonies run with no one in charge."
+  },
+  {
+   "title": "Being You: A New Science of Consciousness",
+   "author": "Anil Seth",
+   "for": "parent reads",
+   "age": "adult (read parts aloud)",
+   "why": "A clear book by a brain scientist on how the brain builds what we see and feel. Good background for the whole rung."
+  }
+ ],
+ "check": [
+  {
+   "q": "What happens at your blind spot, and why don't you see a hole?",
+   "a": "The nerve leaves the eye there, so no light is caught. The brain fills the gap with what is around it, so you see no hole."
+  },
+  {
+   "q": "Why do you see the Sun as it was about 8 minutes ago?",
+   "a": "Light takes about 8 minutes to travel from the Sun to us, so the light we see left the Sun 8 minutes before."
+  },
+  {
+   "q": "Give one thing that is real for everyone and one that is real only for you.",
+   "a": "For example: the length of a table is real for everyone, because anyone can measure it. My toothache is real for me, because only I feel it."
+  },
+  {
+   "q": "What did the breath counter show?",
+   "a": "People often breathe differently once they know they are being counted. Watching can change what you watch. This is the observer effect."
+  },
+  {
+   "q": "What is an atom mostly made of, and why does a table feel solid?",
+   "a": "A tiny heavy nucleus with a cloud of electrons spread around it. The table feels solid because the electron clouds of its atoms and your hand push each other away."
+  },
+  {
+   "q": "What did Thomas Nagel mean when he asked what it is like to be a bat?",
+   "a": "That we could know every fact about a bat's brain from the outside and still not know how it feels to be that bat from the inside."
+  },
+  {
+   "q": "How did the ants make their trail, and what does it show?",
+   "a": "Ants who found sugar left a smell trail and others followed it. No ant planned it. Many simple parts together did something none did alone. This is emergence."
+  }
+ ],
+ "subconcepts": [
+  "objective and subjective: real for everyone and real for me",
+  "the blind spot and the brain filling in",
+  "perception: the brain builds what we see",
+  "seeing the past: light takes time to travel",
+  "frames: still pictures joined into movement",
+  "perspective: how a flat picture shows depth",
+  "Plato's cave and the blind men and the elephant: partial views",
+  "laws of nature as patterns everyone can check",
+  "the observer effect: measuring changes what is measured",
+  "atoms: a tiny nucleus and a cloud of electrons, and what solid means",
+  "light as a wave and the double-slit puzzle",
+  "subjective experience: what it is like to be a bat, describing a taste",
+  "honest and false signals: fireflies and bioluminescence",
+  "emergence: ant trails and flocks with no leader",
+  "where awareness comes from: emergence, integrated information, sleep and anaesthesia, simulation and machines"
+ ]
+}
