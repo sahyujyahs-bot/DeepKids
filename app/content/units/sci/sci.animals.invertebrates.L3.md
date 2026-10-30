@@ -61,15 +61,15 @@ Water cannot be squeezed into less space. So water that cannot escape pushes bac
 ### Shells: snails and other molluscs · *defined*
 **Definition:** A snail is a mollusc, a soft-bodied animal with no backbone. Their own body makes their shell, from calcium carbonate. That is the same material as chalk.
 
-A snail's shell is not a house they found. It grows with the snail. A thin layer of the snail's body, called the mantle, lines the inside of the shell. The mantle takes calcium from the snail's food and water, makes calcium carbonate, and adds it to the open edge of the shell. So the shell grows bigger in a spiral, round and round. If the shell cracks, the snail can patch it from the inside. The snail themself is soft and wet. They move on one big muscly foot, sliding on a layer of slime. Clams, oysters, slugs, octopuses and squid are molluscs too. Slugs and octopuses have lost the outside shell over millions of years.
-- e.g. The spiral on a garden snail's shell shows how it grew, ring after ring, from the tiny tip in the middle.
-- e.g. A pearl is made the same way. When something gets inside an oyster's shell, often a tiny worm or other small animal, the oyster coats it with layer after layer of shell material.
+A snail's shell is not a house they found. It grows with the snail. A thin layer of the snail's body, called the mantle, lines the inside of the shell. The mantle takes calcium from the snail's food and water, makes calcium carbonate, and adds it to the open edge of the shell. So the shell grows bigger in a spiral, round and round. If the shell cracks, the snail can patch the crack from the inside. The snail themself is soft and wet. They move on one big muscly foot, sliding on a layer of slime. Clams, oysters, slugs, octopuses and squid are molluscs too. Slugs and octopuses have lost the outside shell over millions of years.
+- e.g. The spiral on a garden snail's shell shows how the shell grew, ring after ring, from the tiny tip in the middle.
+- e.g. A pearl is made the same way. When something small gets inside an oyster's shell, the oyster coats the grain with layer after layer of shell material.
 - e.g. An octopus is a mollusc with no shell at all, so they can squeeze through a gap as small as their beak.
 ### Armour on the outside: crabs, spiders and insects · *defined*
 **Definition:** Crabs, spiders, insects, centipedes and millipedes are arthropods. They wear a hard skeleton on the outside, called an exoskeleton, and their legs bend at joints.
 
 Your bones are inside, with your muscles wrapped around them. An arthropod is the other way round. Their hard skeleton is outside, and their muscles are inside, pulling on it. The armour is made mostly of a tough material called chitin. In crabs it is also packed with calcium carbonate, which makes it extra hard. Each leg is a set of hollow tubes joined at bendy places, like the joints of a straw. The armour protects the animal and stops them drying out. But armour cannot stretch. So to grow, an arthropod must moult. They make a new soft skin underneath, split the old one and climb out. Then they puff themself up with air or water before the new armour hardens.
-- e.g. An empty cicada or crab shell left on a tree or beach is an old exoskeleton. The animal climbed out of it.
+- e.g. An empty cicada or crab shell left on a tree or beach is an old exoskeleton. The animal climbed out of the old shell and left the shell behind.
 - e.g. A cockroach's back is hard and shiny because it is armour.
 - e.g. Cooked prawns turn pink. Cooking frees a pink colour that was locked away in the shell.
 ### Count the legs: insect, spider, crab or centipede? · *defined*
@@ -89,7 +89,7 @@ Most animals you know have a front and a back, and a left side that matches the 
 ### Jellyfish: a body made mostly of water · *defined*
 **Definition:** A jellyfish is an invertebrate with a soft body that is about 95 parts in 100 water. They have no bones, no brain, no heart and no blood. They catch food with stinging tentacles.
 
-A jellyfish's body is a soft bell made mostly of water. The sea holds them up. If a jellyfish is washed onto the beach, they collapse into a flat blob, because nothing holds their shape out of water. They swim by squeezing their bell, which pushes water out behind them. Their tentacles hang below, covered in stinging cells. Each stinging cell holds a coiled thread, like a tiny harpoon. When a small fish touches it, the threads fire, and their venom stuns the fish. Jellyfish have no brain, but they have a net of nerves spread through the whole body. Jellyfish-like animals were swimming in the sea more than 500 million years ago, long before there were dinosaurs or trees.
+A jellyfish's body is a soft bell made mostly of water. The sea holds them up. If a jellyfish is washed onto the beach, they collapse into a flat blob, because nothing holds their shape out of water. They swim by squeezing their bell, which pushes water out behind them. Their tentacles hang below, covered in stinging cells. Each stinging cell holds a coiled thread, like a tiny harpoon. When a small fish touches the tentacle, the threads fire, and their venom stuns the fish. Jellyfish have no brain, but they have a net of nerves spread through the whole body. Jellyfish-like animals were swimming in the sea more than 500 million years ago, long before there were dinosaurs or trees.
 - e.g. Never touch a jellyfish on the beach, even one that looks dead. Their stinging cells can still fire.
 - e.g. Corals and sea anemones are close cousins of jellyfish. They have stinging tentacles too.
 - e.g. Some jellyfish glow in the dark sea. The glowing green material from one jellyfish is now used by scientists all over the world to light up cells.
@@ -155,9 +155,6 @@ Animals without backbones feel, remember and decide. A worm pulls back from a sh
 - **Animals without backbones are simple, lower animals, and backboned animals are higher and better.** (A very common idea, found in old books that drew animals on a ladder with humans at the top.; *rejected*)  
   For: Many invertebrates are small, and some, like sponges, are very simple.  
   Against: Life is a branching tree, not a ladder. Every animal alive today has had exactly as long to change as we have. An octopus can solve puzzles. Bees can learn shapes. Some invertebrates have more genes than we do.
-- **Spiders are insects.** (Many people, and even some old dictionaries.; *rejected*)  
-  For: Spiders are small, have legs and hard skins, and live in the same places as insects.  
-  Against: Spiders have 8 legs, 2 body parts and no feelers. Insects have 6 legs, 3 body parts and feelers. Spiders are arachnids, cousins of scorpions and mites.
 - **Invertebrates cannot feel anything. They are like little machines.** (The French thinker René Descartes, almost 400 years ago, said this about all animals. Many people still think it about insects.; *debated*)  
   For: Many invertebrates have small nerve systems. Some of their actions are simple reflexes.  
   Against: Crabs and octopuses guard hurt parts, avoid places where they were hurt, and weigh pain against what they want. Bees and ants learn and remember. In 2022 the United Kingdom's law began counting crabs and octopuses as animals that feel. Some scientists still argue about insects.
@@ -261,7 +258,7 @@ So were mine.
 
 I think of the doctor, who had books, and of the lady who had a bucket and a summer and the patience to look. And I think of that thin white film, spreading across a broken place, in the dark green water of the harbour.
 
-**For the parent:** For the parent: people thought a soft animal with no bones could never make something hard, so the argonaut must have stolen her shell. Watching proved them wrong. Animals without backbones build their hard parts too, as shells and armour on the outside, made from what they eat and the water around them. Snails, crabs, corals and the argonaut all do it. Our bones are made the same way, from food, only on the inside. The story also asks who gets believed: the man with books, or the woman who watched.
+**For the parent:** For the parent: people thought a soft animal with no bones could never make something hard, so the argonaut must have stolen her shell. Watching proved them wrong. Animals without backbones build their hard parts too, as shells and armour on the outside, made from what they eat and the water around them. Snails, crabs, corals and the argonaut all do it. Our bones are made the same way, from food, only on the inside.
 
 - Ask: Why did the doctor think the paper sailor must have stolen her shell?
 - Ask: How did the cracked shell help Signora Power find the answer?
@@ -271,32 +268,31 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 
 ## Games
 ### g1 · Backbone or Not? (20 min)
-- **rules:** Cut out the 30 cards. Shuffle them and put them face down in a pile.; On your turn, take the top card and read the animal's name out loud.; Put it on the BACKBONE mat or the NO BACKBONE mat. Say one reason, like 'they have a shell' or 'they have bones like a fish'.; If you are right and give a reason, take a bone token. Check the answer list on the back of the tally sheet.; Trick cards, like the starfish, seahorse, silverfish and cuttlefish, win two tokens if you get them right and say why.; When all the cards are played, count the cards on each mat. Then the player with most tokens wins.
-- **Printable cards: 30 animal cards to cut out, each with a picture and a name:** Earthworm; Garden snail; Crab; House spider; Ant; Starfish (sea star); Jellyfish; Butterfly; Mosquito; Centipede; Octopus; Prawn; Woodlouse; Scorpion; Honeybee; Leech; Sea urchin; Coral; Cow; Sparrow; Cobra; Gecko; Frog; Rohu fish; Seahorse; Bat; Silverfish (an insect); Cuttlefish; Sea cucumber; Tortoise
+- **rules:** Cut out the 30 cards. Shuffle them and put them face down in a pile. Lay the two mats side by side.; On your turn, take the top card and read the animal's name out loud. Do not turn it over yet.; Put the card on the BACKBONE mat or the NO BACKBONE mat, with the name facing up. Say one reason, like 'they have a shell' or 'they have bones like a fish'.; Now turn the card over and read the back. If you chose the right mat and gave a reason, make 1 tally mark in your row on the score sheet. A TRICK CARD scores 2. If you chose the wrong mat, move the card to the right one and score nothing.; The game ends when the pile is empty. Count the cards on each mat and write the two numbers on the tally sheet. The player with most points wins. If points are equal, you share the win.
+- **Printable cards: 30 animal cards to cut out. The front has the animal's name. The back says which mat is right and why.:** Earthworm (back: NO BACKBONE. A water skeleton: liquid held in tight by their muscles.); Garden snail (back: NO BACKBONE. A soft body, with a shell they make themself.); Crab (back: NO BACKBONE. Hard armour on the outside.); House spider (back: NO BACKBONE. Armour on the outside and 8 legs.); Ant (back: NO BACKBONE. Armour on the outside and 6 legs.); Starfish (sea star) (back: TRICK CARD, 2 points. NO BACKBONE. Not a fish: five arms, tube feet and no bones.); Jellyfish (back: TRICK CARD, 2 points. NO BACKBONE. Not a fish: a soft body, mostly water.); Butterfly (back: NO BACKBONE. An insect: armour on the outside and 6 legs.); Mosquito (back: NO BACKBONE. An insect: armour on the outside and 6 legs.); Centipede (back: NO BACKBONE. Armour on the outside and many legs.); Octopus (back: NO BACKBONE. A soft-bodied mollusc with no shell.); Prawn (back: NO BACKBONE. Armour on the outside and 10 legs.); Woodlouse (back: NO BACKBONE. Armour in plates and 14 legs. A land cousin of crabs.); Scorpion (back: NO BACKBONE. Armour on the outside, 8 legs and a tail with a sting.); Honeybee (back: NO BACKBONE. An insect: armour on the outside and 6 legs.); Leech (back: NO BACKBONE. A soft worm with a body in rings.); Sea urchin (back: NO BACKBONE. Spines outside and tube feet, like a starfish.); Coral (back: NO BACKBONE. Tiny soft animals, cousins of jellyfish, that build a stony home.); Cow (back: BACKBONE. A mammal, with bones inside.); Sparrow (back: BACKBONE. A bird, with bones inside.); Cobra (back: BACKBONE. A snake has no legs but a very long backbone.); Gecko (back: BACKBONE. A lizard, with bones inside.); Frog (back: BACKBONE. An amphibian, with bones inside.); Rohu fish (back: BACKBONE. A fish, with bones inside and gills.); Seahorse (back: TRICK CARD, 2 points. BACKBONE. A real fish, with a backbone and gills.); Bat (back: BACKBONE. A mammal that flies, with bones inside.); Silverfish (an insect) (back: TRICK CARD, 2 points. NO BACKBONE. Not a fish: an insect with 6 legs.); Cuttlefish (back: TRICK CARD, 2 points. NO BACKBONE. Not a fish: a mollusc, a cousin of the octopus.); Sea cucumber (back: TRICK CARD, 2 points. NO BACKBONE. An animal, not a plant: a cousin of the starfish.); Tortoise (back: BACKBONE. A reptile. Their shell is joined to their backbone and ribs.)
 - **Printable board: Two playing mats:** BACKBONE: a chain of bones inside; NO BACKBONE: water, shell or armour
-- **Printable tokens: 20 bone tokens (small paper bone shapes):** 🦴
+- **Printable score sheet: Score sheet: one row for each player, with room for tally marks:** Player 1 points; Player 2 points; Player 3 points; Player 4 points
 - **Printable score sheet: Tally sheet: how many cards on each mat:** BACKBONE tally; NO BACKBONE tally
 - **s1 (2 min)**  
-  *Parent does:* 1. Lay the two mats on the floor. 2. Shuffle the 30 cards and put them face down. 3. Put the bone tokens in a bowl.  
+  *Parent does:* 1. Lay the two mats side by side on the floor. 2. Shuffle the 30 cards and put them face down in a pile. 3. Give each player a row on the score sheet.  
   *Parent says:* A backbone is the chain of small bones down the middle of your back. Each card is an animal. We will decide together: do they have a backbone, or not?  
-  *Child mode:* Put the two mats down. Mix the cards. Put them face down. For each animal, decide. Do they have a backbone, or not?
+  *Child mode:* Put the two mats down. Mix the cards and make a face-down pile. For each animal, decide: backbone or not?
 - **s2 (3 min)**  
-  *Parent does:* Find the Earthworm card. Play it together as a practice round.  
+  *Parent does:* Take out the Earthworm card. Play it together as a practice round: put it on a mat, turn it over to check, and do not score it.  
   *Parent says:* Let's practise with one card. An earthworm. Do they have a backbone?  
-  *Child mode:* Practice card: an earthworm. Backbone or not? Tap your answer.
-  - Ask: How does a worm stay firm with no bones? (good: They are full of water.; Their muscles squeeze the liquid inside them.)
+  *Child mode:* Practice card: an earthworm. Backbone or not? Say your answer.
   - Check: An earthworm. Which mat do they go on? → **NO BACKBONE**
 - **s3 (10 min)**  
-  *Parent does:* Take turns drawing cards and placing them. Help with the trick cards: starfish, jellyfish, seahorse, silverfish, cuttlefish and sea cucumber.  
+  *Parent does:* Take turns. Take the top card, read the name and put it on a mat. Say why, then turn the card over to check. Help with the six trick cards: starfish, jellyfish, seahorse, silverfish, cuttlefish and sea cucumber.  
   *Parent says:* Watch out for tricky ones. A name can fool you. A starfish is not a fish. A seahorse is a fish. Look at the animal, not just their name.  
   *Child mode:* Take a card. Put it on a mat. Say why. Watch out: some names are tricks!
-  - Note: The trick cards: starfish, jellyfish, cuttlefish and silverfish have no backbone, even though their names say fish. A seahorse is a real fish with a backbone. Sea cucumbers are cousins of starfish, with no backbone. The bat has a backbone, like all mammals. The cobra has a backbone, though it has no legs.
+  - Note: The trick cards say TRICK CARD on the back. Starfish, jellyfish, cuttlefish and silverfish are not fish, and have no backbone. A seahorse is a real fish with a backbone. Sea cucumbers are cousins of starfish, with no backbone. The bat has a backbone, like all mammals. The cobra has a backbone, though it has no legs.
   - Check: A seahorse card. Which mat? → **BACKBONE**
 - **s4 (3 min)**  
   *Parent does:* When all the cards are placed, count the cards on each mat and write the two numbers on the tally sheet.  
   *Parent says:* Let's count. How many cards on the backbone mat? How many on the no backbone mat?  
   *Child mode:* Count the cards on each mat. Write the two numbers down.
-  - Note: The answer list. With a backbone: cow, sparrow, cobra, gecko, frog, rohu, seahorse, bat and tortoise. Every other card has no backbone. That is 9 cards with a backbone and 21 without. The game has more backbone animals than real life, because people know them better. That is worth talking about.
+  - Note: With a backbone: cow, sparrow, cobra, gecko, frog, rohu, seahorse, bat and tortoise. Every other card has no backbone. That is 9 cards with a backbone and 21 without. The game has more backbone animals than real life, because people know them better. That is worth talking about.
   - Think: Our card game has more backbone animals than real life. In the real world, out of every 100 kinds of animal, about 95 have no backbone. Why do you think the game has so many backbone animals?
 - **s5 (2 min)**  
   *Parent does:* Ask your child to say three things: what I think, what I saw, and why.  
@@ -304,13 +300,13 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Child mode:* Say three things. What I think. What I saw. Why.
   - Note: A good answer sounds like this. What I think: most animals have no backbone. What I saw: 21 of our 30 cards had no backbone. Why: lots of small animals hold themselves up with shells, armour or water instead of bones.
 ### g2 · Guess My Minibeast (15 min)
-- **rules:** Lay all 12 cards face up so everyone can see them.; One player secretly picks one animal and writes their name on a scrap of paper.; The others take turns asking yes or no questions about their body. 'Are they cute?' does not count.; After each answer, turn over every card that it rules out.; Whoever names the secret animal first wins that round and picks the next secret animal.; Try to find the animal in 4 questions or fewer.
-- **Printable cards: 12 minibeast cards, each with a picture, a name and their leg count:** Ant: 6 legs; Honeybee: 6 legs; Mosquito: 6 legs; House spider: 8 legs; Scorpion: 8 legs; Crab: 10 legs; Prawn: 10 legs; Woodlouse: 14 legs; Centipede: many legs, one pair on each segment; Millipede: many legs, two pairs on each segment; Earthworm: no legs; Garden snail: no legs, one foot
-- **Printable board: Question helper sheet:** Do they have legs?; Do they have more than 6 legs?; Do they have exactly 8 legs?; Do they have a shell?; Do they live in water?; Do they have wings?; Do they have feelers?; Is their body in rings?
+- **rules:** Lay all 12 cards face up so everyone can see them.; One player secretly picks one animal and writes their name on a scrap of paper.; The others take turns asking yes or no questions about the animal's body. 'Are they cute?' does not count.; After each answer, turn over every card that it rules out. If only one card is left face up, that is the secret animal.; Whoever names the secret animal first wins that round and picks the next secret animal. With two players, the guesser wins by naming the animal.; Try to find the animal in 4 questions or fewer.
+- **Printable cards: 12 minibeast cards to cut out. Each shows the animal's name and facts about their body.:** Ant: 6 legs. 3 body parts. Feelers. No wings (worker ants). No shell. Lives on land.; Honeybee: 6 legs. 3 body parts. Feelers. Wings. No shell. Lives on land.; Mosquito: 6 legs. 3 body parts. Feelers. Wings. No shell. Lives on land (the young live in water).; House spider: 8 legs. 2 body parts. No feelers. No wings. No shell. Lives on land.; Scorpion: 8 legs. 2 body parts. No feelers. No wings. No shell. Lives on land. A tail with a sting.; Crab: 10 legs, two of them big claws. 2 body parts. Small feelers. No wings. A hard shell. Lives in water or at the shore.; Prawn: 10 legs. Long feelers. No wings. A thin shell. Lives in water.; Woodlouse: 14 legs. A short body in plates. Feelers. No wings. No shell. Lives on land.; Centipede: many legs, one pair on each segment. A long body in rings. Feelers. No wings. No shell. Lives on land.; Millipede: many legs, two pairs on each segment. A long body in rings. Feelers. No wings. No shell. Lives on land.; Earthworm: no legs. A long body in rings. No feelers. No wings. No shell. Lives in damp soil on land.; Garden snail: no legs, one foot. A shell. Feelers on the head. No wings. Lives on land.
+- **Printable board: Question helper sheet:** Do they have legs?; Do they have more than 6 legs?; Do they have exactly 8 legs?; Do they have a shell?; Do they live in water?; Do they have wings?; Do they have feelers?; Is their body long and in rings?
 - **s1 (2 min)**  
   *Parent does:* 1. Lay out the 12 cards face up. 2. You pick the first secret animal: choose the house spider. Write the name on paper.  
   *Parent says:* I have picked a secret animal from these cards. Ask me yes or no questions about their body. Try to find them in four questions.  
-  *Child mode:* The app has picked a secret animal. Ask yes or no questions about their body. Can you find them in four?
+  *Child mode:* A grown-up has picked a secret animal. Ask yes or no questions about their body. Can you find them in four?
 - **s2 (4 min)**  
   *Parent does:* Answer your child's questions truthfully about the house spider. Turn over the cards each answer rules out.  
   *Parent says:* Good question. Let's turn over every card that does not fit.  
@@ -333,8 +329,8 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 ### e1 · Water Bones: how does a worm stay firm? (35 min)
 - **question:** Which bottles stay firm under a load: open and empty, capped with air, or capped and full of water?
 - **predict:** Before you test, look at three pairs of bottles: open and empty, capped with only air inside, and capped and full of water. Guess which pair will sink the least under a pile of books, and then under you sitting on the board. Say why you think so.
-- **fair test:** To make it fair, use six bottles of the same kind and size. Lay each pair the same way, with the same board and the same books on top. Measure the height the same way each time, with the ruler standing straight up. Test each pair under the books 3 times, because one try can be a fluke. For the sitting test, the same child sits in the same place each time.
-- **safety:** Do this on the floor, on a towel, so spilled water does not make anyone slip. Put the books on gently, and keep fingers out from under the board. In the sitting test, use only the capped bottles, put a book against each bottle so it cannot roll, and hold your child's hands for balance.
+- **fair test:** To make it fair, use six bottles of the same kind and size. Lay each pair the same way, with the same board and the same books on top. Measure the height the same way each time, with the ruler standing straight up. Test each capped pair under the books 3 times, because one try can be a fluke. An open bottle squashes for good, so test the open pair only once and write the same number in all three boxes. For the sitting test, the same child sits in the same place each time.
+- **safety:** Do this on the floor, on a towel. Put the books on gently, and keep fingers out from under the board. In the sitting test, use only the capped bottles, put a book against each bottle so it cannot roll, and hold your child's hands for balance.
 - **record:** Fill in the table. Then draw one bar for each pair of bottles under the books. A shorter bar means the bottles kept their shape better. Write what happened in the sitting test and the hand squeeze.
 - **results table:** Pair of bottles | Books: try 1 (cm) | Books: try 2 (cm) | Books: try 3 (cm) | Books: middle value (cm) | Child sitting: try 1 (cm) | Child sitting: try 2 (cm)
 - **s1 (4 min)**  
@@ -349,7 +345,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   - Ask: Why do you think so? (good: The water ones, because they are full.; The capped ones, because nothing can get out.; The open ones will get squashed, because the air can escape.)
   - Note: Any guess is fine, as long as your child gives a reason. Don't explain yet. The test will answer it.
 - **s3 (9 min)**  
-  *Parent does:* 1. Lay one pair of bottles on the towel, a hand-span apart. 2. Push a book against the outside of each bottle, so it cannot roll. 3. Put the board across the bottles. 4. Stand the ruler on the towel and read the height of the board. 5. Pile the 5 books on the board gently. 6. Read the height again, and write how far it sank. 7. Take the books off. Test each pair 3 times.  
+  *Parent does:* 1. Lay one pair of bottles on the towel, a hand-span apart. 2. Push a book against the outside of each bottle, so it cannot roll. 3. Put the board across the bottles. 4. Stand the ruler on the towel and read the height of the board. 5. Pile the 5 books on the board gently. 6. Read the height again, and write how far it sank. 7. Take the books off. Test each capped pair 3 times, but the open pair only once, because a squashed bottle cannot be used again. For the open pair, write the same number in all three boxes.  
   *Parent says:* First we read the height with just the board. Then with the books. The difference is how far the bottles sank.  
   *Child mode:* Put two bottles under the board. Read the ruler. Add the books. Read it again. How far did it sink?
   - Note: Put the books on in the same order and the same place each time. To find the middle value, put the three numbers in order and take the middle one. Expect the open bottles to sink a lot. Both capped pairs will hardly sink, often less than 1 cm. That is a real result: a cap that holds air in also makes a bottle firm. The next two steps show the difference between air and water.
@@ -373,7 +369,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Parent does:* Help your child draw a bar chart of the middle values from the books test, one bar for each pair of bottles.  
   *Parent says:* Let's turn our numbers into a picture. One bar for each pair. Here a shorter bar means the bottles kept their shape better.  
   *Child mode:* Draw one bar for each pair. A shorter bar means it sank less.
-  - Check: In the Water Bones chart, the open bottles have the tallest bar. What does that mean? → **They sank the most, because nothing held their shape**
+  - Check: In the made-up Water Bones chart, the open bottles have the tallest bar. What does that mean? → **They sank the most, because nothing held their shape**
 - **s8 (3 min)**  
   *Parent does:* Ask your child to say or write three sentences: what I think, what I saw, and why.  
   *Parent says:* Tell me three things. What do you think now about how a worm stays firm? What did you see? And why?  
@@ -383,7 +379,6 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 - **question:** Which paper shape holds up the most books: round tubes, square tubes or zigzags?
 - **predict:** Before you test, make the three shapes from the same paper. Guess which shape will hold the most books before it crumples, and say why you think so.
 - **fair test:** To make it fair, use the same size and kind of paper for every shape, and the same amount of tape. Stand three columns of one shape under the board each time. Add books of the same kind gently, one at a time. Test each shape twice, with new paper each time.
-- **safety:** Add notebooks gently and keep your face away from the top of the stack.
 - **record:** Fill in the table. Then draw one bar for each shape, as tall as the number of books it held.
 - **results table:** Shape | Try 1: books held | Try 2: books held | Best of the two
 - **s1 (6 min)**  
@@ -404,18 +399,18 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Parent does:* Help your child draw a bar chart, one bar for each shape.  
   *Parent says:* Let's draw one bar for each shape. A taller bar means a stronger shape.  
   *Child mode:* Draw one bar for each shape. A taller bar means it held more.
-  - Check: In the Armour Tubes chart, which shape is strongest? → **The round tube, because its bar is tallest**
+  - Check: In the made-up Armour Tubes chart, which shape is strongest? → **The round tube, because its bar is tallest**
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say three sentences: what I think, what I saw, and why.  
   *Parent says:* Tell me three things. Why do you think an ant's legs are hollow tubes of armour? What did you see? And why?  
   *Child mode:* Say three things. What I think. What I saw. Why.
-  - Note: A good answer: What I think: tubes are a strong shape for armour. What I saw: the round tubes held 12 books, but the zigzags held only 2. Why: a tube spreads the weight all the way round, and it is hollow, so it is strong without being heavy. Your own long bones are hollow tubes too.
+  - Note: A good answer might be: What I think: tubes are a strong shape for armour. What I saw: the round tubes held 12 books, but the zigzags held only 2. Why: a tube spreads the weight all the way round, and it is hollow, so it is strong without being heavy. Your own long bones are hollow tubes too.
   - Think: Bicycle frames, bamboo and the bones in your legs are all tubes. Why do you think so many strong things are tubes?
 ### e3 · Many Small Suckers: how does a starfish hold on? (25 min)
 - **question:** Do more small suckers hold more weight?
 - **predict:** Before you test, guess how many cups of rice one sucker can hold. Then guess for two suckers and four suckers, and say why you think so.
 - **fair test:** To make it fair, use the same kind of sucker each time, on the same clean, smooth tile. Press each sucker on in the same way. Add rice one cup at a time, gently. Test each number of suckers twice.
-- **safety:** Put a towel underneath, because the bag will drop. Keep your feet out of the way. Hang it low, about knee height.
+- **safety:** Keep your feet out from under the bag, because it drops when the suckers pop off. Hang it low, about knee height.
 - **record:** Fill in the table. Draw one bar for each number of suckers.
 - **results table:** Number of suckers | Try 1: cups held | Try 2: cups held | Best of the two
 - **s1 (3 min)**  
@@ -426,7 +421,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Parent does:* Ask your child to guess how many cups of rice one sucker will hold, and then two and four.  
   *Parent says:* How many cups do you think one sucker will hold? What about two? Four?  
   *Child mode:* Guess. How many cups will one sucker hold? Two suckers? Four?
-- **s3 (10 min) · grown-up needed**  
+- **s3 (12 min) · grown-up needed**  
   *Parent does:* 1. Hang the bag from the sucker with a short string. 2. Pour in rice one cup at a time, gently. 3. When the sucker pops off, write how many full cups it held. 4. Now use two suckers, each tied to the bag. 5. Then four. 6. Test each twice.  
   *Parent says:* One cup at a time, gently. When it pops, we write down the last number of cups it held.  
   *Child mode:* Add rice one cup at a time. When the sucker pops off, write how many cups it held. Then try two suckers, then four.
@@ -435,7 +430,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Parent does:* Help your child draw a bar chart, one bar for each number of suckers.  
   *Parent says:* Let's draw the bars. What happens to the bars as we add suckers?  
   *Child mode:* Draw one bar for each number of suckers. Do the bars grow?
-  - Check: In the Many Small Suckers chart, 4 suckers held about 4 times as much as 1 sucker. What does that tell us about a starfish? → **Hundreds of small tube feet together can grip very strongly**
+  - Check: In the made-up Many Small Suckers chart, 4 suckers held about 4 times as much as 1 sucker. What does that tell us about a starfish? → **Hundreds of small tube feet together can grip very strongly**
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say three sentences: what I think, what I saw, and why.  
   *Parent says:* Tell me three things. What do you think now about many small suckers? What did you see? And why?  
@@ -491,7 +486,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   - Note: If you have a raw prawn, count only the legs under the front part, below the head shell. There are 10. The small paddles under the tail are for swimming, so the key does not count them. A dead housefly has 6 legs, 2 wings and 3 body parts, easy to see with a magnifying glass.
   - Check: A woodlouse has 14 legs. It is not long and thin like a centipede. Where does the key leave them? → **The key does not have a place for them, so we need a new question**
 - **s3 (4 min)**  
-  *Parent does:* Look at the ant and the spider cards side by side. Count their body parts.  
+  *Parent does:* Look at the ant and the house spider cards side by side. Count their body parts and check for feelers.  
   *Parent says:* Count the body parts too. The ant has a head, a middle and a back end. How many parts does the spider have? And do they have feelers?  
   *Child mode:* Look at the ant and the spider. Count their body parts. Which one has feelers?
   - Ask: What two things show a spider is not an insect? (good: They have 8 legs, not 6.; They have 2 body parts, not 3.; They have no feelers.)
@@ -521,7 +516,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   - Check: What moves a snail forward? → **Waves of muscle along their one foot, sliding on slime**
 - **s4 (2 min) · grown-up needed**  
   *Parent does:* Look at the shiny trail they leave. Then put the snail back exactly where you found them.  
-  *Parent says:* See the shiny trail? That is their slime. Let's take them home now, where we found it.  
+  *Parent says:* See the shiny trail? That is their slime. Let's take them home now, where we found them.  
   *Child mode:* Look at the shiny slime trail. Then help put the snail back where you found them. Wash your hands with soap.
 - **s5 (3 min)**  
   *Parent does:* Ask your child to draw the foot from underneath and say three things: what I think, what I saw and why.  
@@ -529,7 +524,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Child mode:* Draw the foot from underneath. What I think. What I saw. Why.
   - Note: A good answer: What I think: a snail moves by squeezing their foot. What I saw: dark stripes moved along the foot from back to front. Why: each stripe is a squeeze, and the squeezes push the snail along on their slime.
 ### a4 · Jellyfish in a Bottle (15 min)
-- **safety:** A grown-up does the cutting. Wipe up any spilled water so nobody slips.
+- **safety:** A grown-up does the cutting.
 - **record:** Draw your jellyfish in the bottle and out of the bottle. Write why it changes shape.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Lay a thin plastic bag flat. 2. Pinch the middle of the closed end to make a small air bubble about the size of a lime. 3. Tie it off with thread. 4. A grown-up cuts the rest of the bag into 8 long, thin strips.  
@@ -552,7 +547,6 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   - Note: A good answer: What I think: jellyfish need water to hold their shape. What I saw: in the bottle the strips spread out, but in the air they stuck together in a clump. Why: the jellyfish has no skeleton, and the water was holding it up.
   - Think: Why might a real jellyfish washed up on a beach still sting you, even if they look like a flat blob?
 ### a5 · Grow Out of Your Armour: act out a moult (10 min)
-- **safety:** Keep the tape off skin and hair. Make the paper tube loose enough to slide.
 - **record:** Draw the three stages: armour on, armour split, new armour.
 - **s1 (2 min)**  
   *Parent does:* Roll the paper around your child's forearm, a little loose, and tape it into a tube.  
@@ -574,7 +568,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Child mode:* Draw armour on, armour split and new armour. Why can't armour stretch?
   - Note: Bones are alive and grow from inside, with blood in them. An exoskeleton is a hard outer layer that cannot grow, so it must be replaced.
 ### a6 · Spider Web Hunt (15 min)
-- **safety:** Never touch a spider. Keep your hands away from the web. Spray from at least an arm's length away, and only a light mist. A grown-up comes along to the balcony and the staircase.
+- **safety:** Never touch a spider or the web. Spray from at least an arm's length away, and only a light mist. A grown-up comes along to the balcony and the staircase.
 - **record:** Draw the web. If it is round, write how many spokes it has. Write where the spider was waiting.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Look with your child in window corners, behind cupboards, on balcony grills, along staircase railings and between potted plants. Use the torch in dark corners.  
@@ -589,7 +583,6 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Parent does:* If the web is round, count the spokes running out from the middle and look for the spiral thread. If it is a tangle, look for where the threads are thickest. Look for the spider, often in the middle or hiding at the edge.  
   *Parent says:* Is it a round web or a tangle? If it is round, count the spokes, the straight threads from the middle. Where is the spider waiting?  
   *Child mode:* Is it round or a tangle? Count the spokes if it is round. Can you see the spider? Do not touch them.
-  - Check: A spider has 8 legs, 2 body parts and no feelers. Which group are they in? → **Arachnids**
 - **s4 (3 min)**  
   *Parent does:* Ask your child to draw the web and write how many spokes it had.  
   *Parent says:* Draw the web. A spider spins all of that from silk made inside their own body. Spider silk is one of the toughest threads known.  
@@ -634,7 +627,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Parent says:* Let's draw it now, so we can compare. Draw every stripe exactly as it is.  
   *Child mode:* Draw your bottle. Draw each stripe clearly. You will compare later.
   - Ask: What do you think the worms will do to the stripes? (good: Mix them up.; Make tunnels.; Pull the leaves down.)
-- **s4 (5 min)**  
+- **s4 (20 min)**  
   *Parent does:* On day 3, 7 and 10, unwrap the bottle, look closely, and draw it again. Mist the top if it is dry.  
   *Parent says:* Look closely against the plastic. Can you see tunnels? Are the stripes still sharp? Are any leaves pulled down?  
   *Child mode:* Unwrap the bottle. Look for tunnels and mixed stripes. Draw it. Mist it if it is dry.
@@ -655,7 +648,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 - **general:** Make overlapping plates, like roof tiles or a woodlouse's back. As the arm grows, the plates slide apart but still overlap.; Make the armour in rings with gaps between them, like the segments of an earthworm or a prawn's tail.; Add a seam with a lace, like a shoe. Loosen the lace as the arm grows.
 - **creative:** A hermit crab does not grow armour at all. They borrow empty snail shells and move into a bigger one when they grow. Could your toy swap armour with a friend?; Snails solve the problem by adding new shell at the open edge. Could you add a new strip at the end of your armour each week?; Real armadillos and pangolins have backbones, but they use overlapping scales. Look at pictures of a pangolin for ideas.
 - **s1 (3 min)**  
-  *Parent does:* Read the problem together. Look at pictures of a crab, a woodlouse and a prawn's tail.  
+  *Parent does:* Read the problem together. Look at pictures of a crab, a woodlouse and a prawn's tail in a book or online.  
   *Parent says:* A crab's armour cannot grow, so they have to break out of it. Can we invent armour that grows with you?  
   *Child mode:* Read the problem. Armour that can grow. Look at how a woodlouse's back is made of plates.
 - **s2 (7 min)**  
@@ -678,7 +671,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
   *Child mode:* What worked? What did not? What would you change?
   - Note: There is no single right design. Praise designs that solved one problem well, and ask what a real animal might do instead.
 ### c2 · Crawl Without Legs (30 min)
-- **problem:** An earthworm crawls with no legs and no wheels. Make a model 'worm' that moves itself 30 cm across a table, without you pushing the worm directly.
+- **problem:** An earthworm crawls with no legs and no wheels. Make a model 'worm' that crawls 30 cm across a table, without you pushing the worm directly.
 - **your turn:** Now invent your own worm that moves in a new way. Draw it, build it, and measure how far it moves in 10 tries.
 - **constraints:** No wheels and no legs.; You may pull a string or blow, but you may not push the worm with your fingers.; The worm must be at least 10 cm long.; Use only paper, straws, string, tape, rubber bands, cloth and things from home.
 - **general:** Make an inchworm. Fold a strip of paper into a zigzag. Pull a thread through it to squash it, then let go so it springs out. Tape a little sandpaper or a rubber band under the back end, so it grips while the front slides.; Copy the worm's bristles. Stick short pieces of a toothbrush or stiff paper fringe underneath, all leaning backwards. They slide forwards but catch backwards, so each push moves the worm one way.; Make a sock worm. Put a string through a sock, with a knot at the front. Pull and relax the string. Bunch and stretch, bunch and stretch.
@@ -690,7 +683,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 - **s2 (7 min)**  
   *Parent does:* Ask your child to draw two ideas before building.  
   *Parent says:* Draw two ideas. How will your worm move forward and not slide back?  
-  *Child mode:* Draw two ideas. How will your worm grip so it does not slide back?
+  *Child mode:* Draw two ideas. How will your worm grip so the worm does not slide back?
 - **s3 (12 min)**  
   *Parent does:* Build the best idea. Test it on a table next to a ruler.  
   *Parent says:* Let's build it and try it. Count how many pulls it takes to go 30 cm.  
@@ -761,7 +754,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
    **Answer:** A jellyfish is mostly water, with no bones, no shell and no armour. In the sea, the water around them holds their body up and in shape. On the sand nothing holds them up, so they flop flat, like the plastic bag jellyfish lifted out of the bottle.. *Why:* A strong answer says the jellyfish has no skeleton, and that the sea itself does the job of holding them in shape.
 8. (truefalse) If you cut an earthworm in two, you always get two worms.  
    **Answer:** False. *Why:* False. An earthworm cut in two usually dies. Sometimes the front part can grow a new tail. The back part usually cannot grow a new head.
-9. (mcq) Remember the Armour Tubes experiment? You stood three paper columns of one shape under a board, round tubes, square tubes or zigzags, and added books until they crumpled. Which shape held the most?  
+9. (mcq) Remember the Armour Tubes experiment? You stood three paper columns of one shape under a board, round tubes, square tubes or zigzags, and added books until they crumpled. In the made-up example chart, which shape held the most?  
    Options: The zigzags / The round tubes / The square tubes / All the same  
    **Answer:** The round tubes. *Why:* The round tubes held the most. A tube spreads the weight evenly all the way round, so it is strong without being heavy. Insect and crab legs are tubes of armour for the same reason.
 10. (mcq) Remember the Many Small Suckers experiment? You hung a bag from rubber suckers on a tile and added cups of rice until they popped off. In one family's test, one sucker held 3 cups and four suckers held 11 cups. What does that show about a starfish's tube feet?  
@@ -810,15 +803,15 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 13. (mcq) The octopus, a mollusc, and the fish, a vertebrate, both have eyes like cameras, with a lens. Their last shared ancestor had no such eyes. What does this tell us?  
    Options: They copied each other / Camera-like eyes appeared separately on two branches of the animal tree / Octopuses are fish / All animals have the same eyes  
    **Answer:** Camera-like eyes appeared separately on two branches of the animal tree. *Why:* Octopus eyes and our eyes grew from different starts, but ended up working in a similar way. Scientists call this convergent evolution. Picking 'octopuses are fish' mixes up looking alike with being related.
-14. (draw) Draw a simple family tree with these animals on its branches: jellyfish, snail, ant, starfish, fish, you. Put the closest cousins next to each other.  
+14. (draw) Draw a simple family tree with these animals on the branches: jellyfish, snail, ant, starfish, fish, you. Put the closest cousins next to each other.  
    **Answer:** Jellyfish on an early low branch. Then a split: snail and ant on one side, starfish, fish and you on the other side, with starfish branching off just before fish and you.. *Why:* Jellyfish branched off early. Snails and insects share one big branch. Starfish share the other big branch with backboned animals.
 15. (truefalse) Scientists know exactly how many kinds of animal live on Earth.  
    **Answer:** False. *Why:* False. Every year scientists name thousands of new insects, worms and sea animals. Places like the deep sea floor are hardly explored. So the total is only a guess, and guesses differ a lot, from a few million to many millions.
 
 ## Videos
-- **Exploring Invertebrates: How Do Earthworms Move?** (The Nature Realm, 3 min) id `F2DBLBejpLM`: Shows the ring muscles squeezing and the body stretching, the same push you saw when the water rose up the bottle neck. *Check:* Found by YouTube search: "Exploring Invertebrates - How Do Earthworms Move" by The Nature Realm. Only the title was checked; a parent should preview it.
-- **Crabs Trade Shells in the Strangest Way** (BBC Earth, 4 min) id `f1dnocPQXDQ`: Hermit crabs cannot make their own shells, so they line up and swap into bigger empty ones. Compare them with the snail and the argonaut in the story, which build their own. *Check:* Found by YouTube search: "Crabs Trade Shells in the Strangest Way | BBC Earth" by BBC Earth. Only the title was checked; a parent should preview it.
-- **Fast Ocean Facts: Where Is a Starfish's Butt?** (Monterey Bay Aquarium, 3 min) id `JnSER1jVm98`: A short aquarium video about how a sea star's body is laid out, with their mouth underneath and their five matching parts. *Check:* Found by YouTube search: "Fast Ocean Facts — Where Is A Starfish's Butt?" by Monterey Bay Aquarium. Only the title was checked; a parent should preview it.
+- **Exploring Invertebrates: How Do Earthworms Move?** (The Nature Realm, 3 min) id `F2DBLBejpLM`: Shows the ring muscles squeezing and the body stretching, the same push you saw when the water rose up the bottle neck. *Check:* Title and channel confirmed on YouTube. Watch it yourself first, then show your child.
+- **Crabs Trade Shells in the Strangest Way** (BBC Earth, 4 min) id `f1dnocPQXDQ`: Hermit crabs cannot make their own shells, so they line up and swap into bigger empty ones. Compare them with the snail and the argonaut in the story, which build their own. *Check:* Title and channel confirmed on YouTube. Watch it yourself first, then show your child.
+- **Fast Ocean Facts: Where Is a Starfish's Butt?** (Monterey Bay Aquarium, 3 min) id `JnSER1jVm98`: A short aquarium video about how a sea star's body is laid out, with their mouth underneath and their five matching parts. *Check:* Title and channel confirmed on YouTube. Watch it yourself first, then show your child.
 
 ## Quiz
 1. (mcq) A chain of small bones runs down the middle of your back. What is this chain called?  
@@ -859,7 +852,7 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
    **Answer:** Whether an ant's pain feels like ours. *Why:* Leg counts, backbones and moulting are settled. Ants sense and react to harm, but nobody knows how to look at a feeling from the inside of another body. Picking the others mixes up open questions with things scientists have checked many times.
 13. (mcq) You find a snail after rain and want to look at them. What is the kind way?  
    Options: Keep them in a closed jar for a week / Hold them gently by their shell, watch them for a few minutes, put them back where you found them and wash your hands / Pull them out of their shell to see inside / Put salt on them to see what happens  
-   **Answer:** Hold them gently by their shell, watch them for a few minutes, put them back where you found them and wash your hands. *Why:* Watch kindly, for a short time, and return the animal where you found it. Salt hurts snails badly, and a snail cannot leave their shell. Wash your hands, because snails can carry germs.
+   **Answer:** Hold them gently by their shell, watch them for a few minutes, put them back where you found them and wash your hands. *Why:* Watch kindly, for a short time, and return the animal to the place where you found them. Salt hurts snails badly, and a snail cannot leave their shell. Wash your hands, because snails can carry germs.
 
 ## Applications
 - Farmers and gardeners use earthworms to make compost, called vermicompost, from kitchen and farm waste.
@@ -914,27 +907,16 @@ I think of the doctor, who had books, and of the lady who had a bucket and a sum
 - Why are spiders good at the computer? *They love the web.*
 - What did one earthworm say to the other? *Where in earth have you been?*
 - Why don't jellyfish get scared? *They have no spine to send shivers down.*
-- Why was the starfish so good at sums? *They always had five on hand.*
-- What do you call an ant who skips school? *Truant.*
 - How does a crab call her friends? *On her shell phone.*
-- What is a bee's favourite classroom? *The one with a buzzer.*
 - Why did the centipede miss the bus? *They were still putting on their shoes.*
-- What do snails eat at the beach? *Slow-cream.*
 - Why didn't the octopus go to battle? *They were well armed, but they had no backbone.*
-- What is a mosquito's favourite sport? *Skin diving.*
-- What do you call a woodlouse that rolls downhill? *A rolling stone.*
-- Why did the spider join the cricket team? *They were great at catching flies.*
-- What did the jellyfish say when they won the race? *I'm so glad I didn't have to use my brain.*
-- Why are earthworms never late? *They always come out in the rain, right on time.*
-- What did the crab say after moulting? *I feel like a new crab.*
 - Which insect is good at maths? *An account-ant.*
 - What did the clam do on their birthday? *They shellebrated.*
-- Why did the starfish blush? *Because they saw the sea weed.*
 
 ## Connected maths
 - In the Backbone Census, a family found 4 kinds of animal with a backbone and 9 kinds without. How many more kinds without a backbone did they find? **5 more kinds.**. They found 9 kinds without a backbone and 4 kinds with one. 9 take away 4 is 5. So they found 5 more kinds of invertebrate. You can check: 4 + 5 = 9. (queues `math.addition-subtraction.word-problems.L3`)
-- In the Leg Count Key, you looked at 3 ants and 2 spiders. An ant has 6 legs and a spider has 8. How many legs are there altogether? **34 legs.**. 3 ants have 3 groups of 6 legs. 6 + 6 + 6 = 18. 2 spiders have 2 groups of 8 legs. 8 + 8 = 16. 18 + 16 = 34 legs altogether. (queues `math.multiplication.equal-groups.L3`)
-- In Water Bones, under 5 books the board sank 5 cm on the open bottles, half a centimetre on the capped air bottles and 0 cm on the capped water bottles. With a child sitting on it, it sank 1 cm on the capped air bottles and 0 cm on the capped water bottles. Put the three pairs in order from firmest to softest. Which pair is most like an earthworm, and why? **Capped water, then capped air, then open and empty. The capped water bottles are most like an earthworm.**. The less the board sank, the firmer the pair. Under the books, the open bottles sank 5 cm, far more than the others. Half a centimetre is so small that it could be a mistake in reading the ruler. The sitting test is heavier, so it decides: 0 cm is less than 1 cm. So the order is capped water, capped air, open and empty. An earthworm is like the capped water bottles: liquid held in tight, which cannot be squeezed into less space. (queues `math.length.standard-units-length.L3`)
+- Using the Leg Count Key, a child sorts 3 ants and 2 spiders. An ant has 6 legs and a spider has 8. How many legs are there altogether? **34 legs.**. 3 ants have 3 groups of 6 legs. 6 + 6 + 6 = 18. 2 spiders have 2 groups of 8 legs. 8 + 8 = 16. 18 + 16 = 34 legs altogether. (queues `math.multiplication.equal-groups.L3`)
+- In one family's Water Bones test, under 5 books the board sank 5 cm on the open bottles, half a centimetre on the capped air bottles and 0 cm on the capped water bottles. With a child sitting on it, it sank 1 cm on the capped air bottles and 0 cm on the capped water bottles. Put the three pairs in order from firmest to softest. Which pair is most like an earthworm, and why? **Capped water, then capped air, then open and empty. The capped water bottles are most like an earthworm.**. The less the board sank, the firmer the pair. Under the books, the open bottles sank 5 cm, far more than the others. Half a centimetre is so small that it could be a mistake in reading the ruler. The sitting test is heavier, so it decides: 0 cm is less than 1 cm. So the order is capped water, capped air, open and empty. An earthworm is like the capped water bottles: liquid held in tight, which cannot be squeezed into less space. (queues `math.length.standard-units-length.L3`)
 - In the Many Small Suckers experiment, one sucker held 3 cups of rice. If every sucker held the same, how many cups should 4 suckers hold? **12 cups.**. 4 suckers each holding 3 cups is 4 groups of 3. 3 + 3 + 3 + 3 = 12. So 4 suckers should hold 12 cups. In the made-up results they held 11, a little less, because real suckers do not share the load perfectly. (queues `math.multiplication.equal-groups.L3`)
 - The Bottle Wormery started on a Monday and lasts 14 days. You look on day 1, day 3, day 7, day 10 and day 14. How many days are there between the day 7 look and the day 14 look? **7 days, which is one week.**. Day 14 take away day 7 is 7. So there are 7 days between the two looks. That is one whole week, so the last look is on a Monday too. (queues `math.time.calendar.L3`)
 
@@ -951,9 +933,9 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 - [Nature Conservation Foundation](https://www.ncf-india.org) · interactive: An Indian group that studies wildlife, from coral reefs to mountains. Its pages have stories about Indian sea life.
 
 ## Things to buy
-- [A magnifying glass, or a bug viewer box with a lens in the lid (optional)](https://www.amazon.in/s?k=bug+viewer+magnifying+box+kids) (tool): To look closely at legs, body parts and tube feet without touching the animal. Used in a1, a2, a3. Used again in Animals Around Us L3 and Plant Parts L3.
+- [A magnifying glass, or a bug viewer box with a lens in the lid (optional)](https://www.amazon.in/s?k=bug+viewer+magnifying+box+kids) (tool): To look closely at legs, body parts and tube feet without touching the animal. Used in a1, a2, a3. 
 - [Small rubber suction cups with hooks, a pack of 4 or more](https://www.amazon.in/s?k=small+suction+cup+hooks) (material): For the Many Small Suckers experiment, to model a starfish's tube feet. Used in e3. 
-- [A picture guide to Indian insects, spiders or seashore life](https://www.amazon.in/s?k=insects+of+india+field+guide) (book): To name what you find in the Backbone Census and on walks. Used in a1, a2. Keep it near a window. After each census or walk, look up one new animal and add it to your Backbone Census sheet.
+- [A picture guide to Indian insects, spiders or seashore life](https://www.amazon.in/s?k=insects+of+india+field+guide) (book): To name what you find in the Backbone Census and on walks. Used in a1, a2. 
 
 ## Warm-up
 - Backbone or no backbone: an earthworm? → No backbone. They are held firm by liquid held tight inside them.

@@ -124,7 +124,7 @@ In birds and mammals, a baby is a boy or a girl from the very start. But in many
 ### Where body heat really comes from: atoms and the sun · *defined*
 **Definition:** Heat is the jiggling of tiny particles, such as atoms. A warm body has fast-jiggling atoms. Nearly all the warmth of animals comes, in the end, from the sun.
 
-Everything is made of atoms, far too tiny to see. When something is warm, its atoms jiggle faster. A lizard on a sunny wall is warmed directly. Sunlight makes the atoms in their skin jiggle. A bird or a mammal is warmed another way. They eat food. Inside their cells, tiny parts called mitochondria break the food down slowly, and some of the energy comes out as heat. But that food's energy came from plants. And plants caught it from sunlight. So the lizard takes their warmth from the sun quickly, and the sparrow takes it slowly, through food. The sunlight left the sun about eight minutes before it reached the Earth.
+Everything is made of atoms, far too tiny to see. When something is warm, its atoms jiggle faster. A lizard on a sunny wall is warmed directly. Sunlight makes the atoms in their skin jiggle. A bird or a mammal is warmed another way. They eat food. Inside their cells, tiny parts called mitochondria break the food down slowly, and some of the energy comes out as heat. But that food's energy came from plants. And plants caught it from sunlight. So the lizard takes their warmth from the sun quickly, and the sparrow takes the sun's warmth slowly, through food. The sunlight left the sun about eight minutes before it reached the Earth.
 - e.g. A lizard on a wall is warmed by sunlight that left the sun about eight minutes earlier.
 - e.g. Your breakfast idli came from rice, which grew using sunlight.
 - e.g. Newborn babies have a special 'brown fat' that makes extra heat to keep them warm.
@@ -154,9 +154,6 @@ Scientists agree that birds and mammals both make their own heat. Most think the
 - **Animals that make their own heat are more advanced than the others.** (An old view of nature as a ladder, with mammals and humans at the top.; *rejected*)  
   For: Birds and mammals can stay active in cold places and at night.  
   Against: Reptiles, fish and amphibians are just as well suited to their own lives. They need far less food. Evolution is a branching tree, not a ladder.
-- **Some dinosaurs made their own body heat, like birds.** (Many scientists who study feathered dinosaur fossils.; *debated*)  
-  For: Many dinosaurs had feathers. Their bones show they grew fast, which needs a lot of energy.  
-  Against: Feathers can also be for show or for keeping eggs warm. Some studies suggest dinosaurs were in between, neither fully warm nor fully cool.
 - **The five groups are the natural, final way to sort vertebrates.** (Many school books.; *debated*)  
   For: The five groups are easy to see and very useful.  
   Against: Scientists who sort by family trees point out that birds are a branch of the reptiles. Birds are closer cousins of crocodiles than lizards are. The groups are a helpful choice, not a law of nature.
@@ -189,12 +186,10 @@ All animals with a backbone come from early fish that lived in the sea more than
 - Ask: If all five groups came from early fish, are they five groups or one family?
 
 ## Deep and big questions
-- *deep:* Is a lizard on a sunny wall really 'cold-blooded'? What would be a better word? (hint: Think about where their heat comes from, not how warm they are.)
 - *deep:* Why do you think frogs need water to lay eggs, but crocodiles do not? (hint: What happens to a jelly sweet left out in the sun?)
 - *deep:* If your body is a little stove, what is its fuel? And where did the fuel's energy come from? (hint: Follow your lunch back to the field and the sky.)
 - *big:* Is it better to make your own heat, or to take it from the sun? Can one way be better for everyone? (hint: Think about food, cold nights and hot deserts.)
 - *big:* A mugger mother carries her babies in her mouth. A rohu fish leaves her eggs. Is one a better parent? (hint: Think about how many babies each one has.)
-- *big:* We sort animals into five groups. Did nature make the groups, or did people? (hint: Is a bird a kind of reptile? Who decides?)
 - *big:* Your body keeps making heat, and the heat keeps leaving you. Where does your warmth go? (hint: Think of the warm chair after you stand up, and the bottle in the dry sock.)
 - *deep:* Why do you think a tiny bird needs to eat all day, but a big snake can wait for weeks? (hint: Think of a small pot and a big pot of hot water. Which cools faster?)
 
@@ -273,19 +268,19 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
 
 ## Games
 ### g1 · Five Families (25 min)
-- **rules:** Cut out the 25 animal cards and the 5 question cards. Lay out the five family mats.; Shuffle the animal cards and deal 5 to each player. Put the rest face down in a pile.; Put the question cards face down in their own pile.; On your turn, pick up one animal card. Then turn over the top question card.; Answer the question for any one animal in your hand. If the others agree, put that animal on their family mat and score one point.; If you get it wrong, keep the card and the next player goes.; The player who puts the last card on a family mat gets a bonus point.; When all the cards are on the mats, the player with the most points wins.
+- **rules:** Cut out the 25 animal cards and the 5 question cards. Lay out the five family mats.; Shuffle the animal cards and deal 5 to each player. Put the rest face down in a pile.; Shuffle the question cards and put them face down in their own pile. When they run out, shuffle them and use them again.; On your turn, take the top animal card from the pile (if the pile is empty, skip this). Then turn over the top question card.; Choose any animal in your hand and answer the question for that animal. Then say which family mat it belongs on. The mats list the clues to check against.; If the others agree, put the animal on the right mat and score one point.; If you are wrong, the others tell you the right answer. The card still goes on the right mat, but with no point. The next player goes.; The player who puts the last card on a mat gets a bonus point.; When all 25 cards are on the mats, the player with the most points wins. A tie is a shared win.
 - **Printable cards: 25 animal cards to cut out, 5 in each family:** Rohu fish; Mahseer; Shark; Seahorse; Goldfish; Indian bullfrog; Common toad; Purple frog; Caecilian; Tadpole; Garden lizard; Cobra; Mugger crocodile; Olive ridley turtle; Star tortoise; Peacock; House sparrow; Emperor penguin; Great hornbill; Ostrich; Cow; Bat; Ganges river dolphin; Elephant; Yak
 - **Printable cards: 5 question cards:** BREATHE: How does this animal breathe?; WARM: Do they make their own heat, or take heat from outside?; COOL: How do they cool down on a hot day?; YOUNG: Do they lay jelly eggs, shelled eggs, or give birth?; CARE: Do they look after their babies? How?
 - **Printable board: Five family mats:** FISH: gills, fins, eggs in water; AMPHIBIANS: damp skin, jelly eggs; REPTILES: dry scales, shelled eggs; BIRDS: feathers, hard eggs, make heat; MAMMALS: hair, milk, make heat
 - **Printable score sheet: Family score sheet:** Player name; Families finished; Bonus points
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the cards and lay out the five family mats in a row. 2. Shuffle and deal 5 animal cards to each player. 3. Put the question cards in a pile.  
+  *Parent does:* 1. Cut out the cards and lay out the five family mats in a row. 2. Shuffle and deal 5 animal cards to each player. 3. Put the question cards in a pile, face down.  
   *Parent says:* Every animal on these cards has a backbone. They belong to five families: fish, amphibians, reptiles, birds and mammals. To put an animal on their family mat, you must answer a question about them.  
   *Child mode:* Lay out the five mats: fish, amphibians, reptiles, birds and mammals. Get five animal cards. To place a card, answer a question about it.
 - **s2 (4 min)**  
   *Parent does:* Play a practice round together with the Rohu fish card and the BREATHE question.  
   *Parent says:* Let's practise. Here is the rohu, the fish you see at the market. How does a rohu breathe?  
-  *Child mode:* Practice card: the rohu fish. How do they breathe? Tap your answer.
+  *Child mode:* Practice card: the rohu fish. How do they breathe? Say your answer.
   - Ask: How does a rohu breathe? (good: With gills.; They take water through their mouth and over their gills.)
   - Check: How does a rohu fish breathe? → **With gills, which take oxygen out of water**
 - **s3 (3 min)**  
@@ -309,16 +304,16 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
   *Child mode:* Count your points. Who won? Which family was hardest? Which animal surprised you?
   - Ask: Which animals surprised you? (good: The caecilian, because they look like a worm but are an amphibian.; The dolphin, because they live in water but breathe air.)
 ### g2 · Sun, Shade and Snow (15 min)
-- **rules:** Mark a SUN corner and a SHADE corner with a chunni or a chalk line.; Each player takes a role card: LIZARD or SPARROW.; The caller shows a weather card. Players must act it out.; SUNNY MORNING: lizards run to the SUN corner to bask. Sparrows can play anywhere, and each one picks up a food token.; HOT NOON: lizards run to SHADE. Sparrows pant with open mouths.; COLD NIGHT, WINTER WIND or SNOW: lizards freeze still until the next card. Sparrows puff up and huddle, but each sparrow must give up a food token to keep warm.; MONSOON RAIN: lizards and sparrows both run to SHADE to shelter from the rain.; A sparrow with no food token left must sit out one round. A lizard that moves in the cold sits out one round.; Play 10 weather cards. Then talk about who did better in each kind of weather.
-- **Printable cards: 8 role cards:** LIZARD; LIZARD; LIZARD; LIZARD; SPARROW; SPARROW; SPARROW; SPARROW
+- **rules:** Mark a SUN corner and a SHADE corner with a chunni or a chalk line.; One player is the caller and shows the weather cards. Everyone else takes a role card: LIZARD or SPARROW. With 2 players, the other player is a lizard for the first 10 cards, then you swap: the caller becomes a sparrow and the other player calls.; Each sparrow starts with 2 food tokens. The rest stay in a pile.; The caller shuffles the 6 weather cards and shows them one by one, calling each out loud. After the last, shuffle and go on until 10 cards have been shown. Players act out each one.; SUNNY MORNING: lizards run to the SUN corner to bask. Sparrows can play anywhere, and each one picks up a food token from the pile.; HOT NOON: lizards run to SHADE. Sparrows pant with open mouths.; COLD NIGHT, WINTER WIND or SNOW: lizards freeze still until the next card. Sparrows puff up and huddle, and each sparrow gives one food token back to the pile to keep warm.; MONSOON RAIN: lizards and sparrows both run to SHADE to shelter from the rain.; A sparrow with no token to give on a cold card must sit out the next card. A lizard that moves on a cold card sits out the next card.; After 10 weather cards, stop. There is no winner. Talk about who did better in each kind of weather.
+- **Printable cards: 8 role cards (4 LIZARD, 4 SPARROW; use as many as you have players):** LIZARD; LIZARD; LIZARD; LIZARD; SPARROW; SPARROW; SPARROW; SPARROW
 - **Printable cards: 6 weather cards for the caller:** SUNNY MORNING; HOT NOON; COLD NIGHT; WINTER WIND; MONSOON RAIN; SNOW
-- **Printable tokens: 20 food tokens (paper grains of bajra):** grain
+- **Printable tokens: 20 food tokens (paper grains of bajra):** grain; grain; grain; grain; grain; grain; grain; grain; grain; grain; grain; grain; grain; grain; grain; grain; grain; grain; grain; grain
 - **s1 (3 min)**  
   *Parent does:* 1. Mark the SUN corner and the SHADE corner. 2. Give each player a role card. 3. Give each sparrow 2 food tokens.  
   *Parent says:* Lizards take their heat from outside, from the sun. Sparrows make their own heat inside, from food. Let's see how each one copes with the weather.  
   *Child mode:* Are you a lizard or a sparrow? Lizards need the sun. Sparrows need food to stay warm.
 - **s2 (8 min)**  
-  *Parent does:* Show the weather cards one by one. Call out each one loudly. After every SUNNY MORNING, give each sparrow one food token. After every COLD NIGHT, WINTER WIND or SNOW card, collect one food token from each sparrow.  
+  *Parent does:* Show the weather cards one by one. Call out each one loudly. After every SUNNY MORNING, give each sparrow one food token. After every COLD NIGHT, WINTER WIND or SNOW card, collect one food token from each sparrow. Stop after 10 cards.  
   *Parent says:* Sunny morning! Hot noon! Cold night! Remember, sparrows, you must spend a grain to stay warm in the cold.  
   *Child mode:* Listen for the weather. Act it out fast. Sparrows, give a grain in the cold.
   - Check: Game moment: COLD NIGHT. What does a lizard do? → **Stays still and slow until the sun comes**
@@ -331,7 +326,7 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
   - Note: The point of the game is the trade. Making your own heat lets you stay active in the cold, but it costs lots of food. Taking heat from outside saves food, but you must wait for the sun.
 
 ## Experiments
-### e1 · The Fur Coat Test: does a coat keep warmth in? (35 min)
+### e1 · The Fur Coat Test: does a coat keep warmth in? (39 min)
 - **question:** Does a woollen coat help a warm bottle stay warm for longer, the way fur and feathers help a warm animal?
 - **predict:** Before you start, guess. After 20 minutes, which bottle will be warmest: the bare one, the one in a dry woollen sock, or the one in a wet woollen sock? Why do you think so?
 - **fair test:** To make it fair, keep everything the same except the coat. Use the same bottles, the same amount of the same warm water, and the same place. Measure all three at the same times.
@@ -342,7 +337,6 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
   *Parent does:* Show your child a woollen sweater. Ask the questions below.  
   *Parent says:* On a cold morning, we put on a sweater. Does the sweater make heat, like a heater? Or does it do something else?  
   *Child mode:* Hold a woollen sweater. Does it make heat? Or does it do something else?
-  - Ask: Does a sweater make heat? (good: No. It keeps our own heat in.; It stops our warmth from leaving.)
   - Check: A woollen sweater keeps you warm. What does it really do? → **It holds in the heat your body makes**
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* 1. A grown-up fills the three bottles with the same amount of warm water, using the measuring cup. 2. Put the lids on. 3. Put one bottle into a dry sock. 4. Soak the other sock in tap water, squeeze it until it stops dripping, and put the third bottle in it.  
@@ -354,28 +348,29 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
   *Parent says:* Let's read the thermometer. The number tells us how warm the water is, in degrees Celsius.  
   *Child mode:* Put the thermometer in each bottle. Read the number. Write it down.
   - Note: Wait until the number stops changing before you read it. Put the lid back on quickly after each reading.
-- **s4 (16 min)**  
-  *Parent does:* Every 5 minutes, measure all three bottles and write the numbers in the table. Do this 4 times. Between readings, look at the questions below.  
+- **s4 (20 min)**  
+  *Parent does:* Every 5 minutes (at 5, 10, 15 and 20 minutes), measure all three bottles and write the numbers in the table. Between readings, look at the questions below.  
   *Parent says:* Every five minutes we measure again. While we wait, think. Which animals have the thickest coats? Which animals must not get their fur wet?  
-  *Child mode:* Measure every 5 minutes. Do it 4 times. While you wait, think. Which animals have thick coats?
+  *Child mode:* Measure every 5 minutes, 4 times. While you wait, think. Which animals have thick coats?
   - Ask: Which animals have thick coats? (good: Yaks in Ladakh; Sheep; Snow leopards; Puffed-up pigeons in winter)
   - Ask: Why do ducks oil their feathers? (good: So the water rolls off and their feathers stay dry and warm.)
-  - Note: The bottles differ by only a few degrees, so wait for the number to settle before you read it. If the bare and dry-sock bottles are within one degree after 20 minutes, carry on and measure again at 30 minutes.
+  - Note: The bottles differ by only a few degrees, so wait for the number to settle before you read it.
 - **s5 (4 min)**  
   *Parent does:* Work out how much each bottle cooled. Take the last reading away from the first. Draw a bar for each bottle.  
   *Parent says:* Let's see which bottle lost the least heat. Take the last number away from the first number, for each bottle.  
   *Child mode:* For each bottle, take the last number from the first. That is how much it cooled.
+  - Note: The dry sock bottle may be only 1 or 2 degrees warmer than the bare one, and the wet sock result can change with the room. That is fine: write down what you really measured.
   - Check: Which bottle usually cools the least? → **The bottle in the dry woollen sock**
 - **cer (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me what you found out, in three parts. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a dry coat holds warmth in. What I saw: the bare bottle cooled 6 degrees, the dry sock bottle cooled only 4, and the wet sock bottle cooled 9. Why: dry wool traps still air, like fur and feathers. Wet wool does not, and the drying water takes heat away. Notice too that even the dry sock bottle kept cooling. A coat slows heat leaving, but never stops it.
-### e2 · Lizard on a Wall: sun or shade? (40 min)
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this (with the made-up numbers from the chart). What I think: a dry coat holds warmth in. What I saw: the bare bottle cooled 6 degrees, the dry sock bottle cooled only 4, and the wet sock bottle cooled 9. Why: dry wool traps still air, like fur and feathers. Wet wool does not, and the drying water takes heat away. Notice too that even the dry sock bottle kept cooling. A coat slows heat leaving, but never stops it.
+### e2 · Lizard on a Wall: sun or shade? (42 min)
 - **question:** How much does the sun warm something that cannot make its own heat?
 - **predict:** Guess. After 30 minutes, how much warmer will the tumbler in the sun be than the one in the shade? Why do you think so?
 - **fair test:** Use two tumblers that are the same. Fill them with the same amount of water from the same tap at the same time. Change only one thing: one goes in the sun, one in the shade.
-- **safety:** Do not look at the sun. If you go onto a roof or balcony, a grown-up must be with you.
+- **safety:** Do not look at the sun. If you use a balcony ledge, a grown-up stays with you.
 - **record:** Fill in the table. Work out how much each tumbler warmed. Draw two bars.
 - **results table:** Tumbler | Start (°C) | After 15 minutes (°C) | After 30 minutes (°C) | How much it warmed (°C)
 - **s1 (4 min)**  
@@ -398,18 +393,18 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
   *Parent says:* Now tell me what you found out, in three parts. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: things that cannot make their own heat get warm from the sun. What I saw: the sunny tumbler went from 26 to 32 degrees, but the shady one only went to 28. Why: sunlight warms what it lands on. A lizard is warmed the same way.
-### e3 · Egg in the Air: why frogs lay eggs in water (20 min, 2 days)
+### e3 · Egg in the Air: why frogs lay eggs in water (30 min, 2 days)
 - **question:** Does a shell stop an egg from drying out in the air?
 - **predict:** Guess. After one day, which jelly egg clump will be the most dried up: the one in the open, the one in water, or the one inside an eggshell? Why do you think so?
 - **fair test:** Use the same amount of soaked sabja seeds in each place. Keep all three in the same room. Change only one thing: open air, water, or inside a shell.
 - **safety:** Wash your hands after touching raw eggshell. Do not eat the seeds after the test.
 - **record:** Draw how each clump looks at the start, after 3 hours and after 1 day.
 - **results table:** Jelly eggs kept | How they look at the start | After 3 hours | After 1 day | Still wet and soft? (yes or no)
-- **schedule:** day 1: Soak the sabja seeds. Put one spoonful in an open bowl, one in a bowl of water, and one inside an eggshell taped shut. Look again after 3 hours. (15 min); day 2: Look at all three again. Which jelly eggs are still soft and wet? (5 min)
-- **s1 (4 min)**  
-  *Parent does:* Soak 2 teaspoons of sabja seeds in a cup of water for 15 minutes. Look at them with the magnifying glass.  
-  *Parent says:* Look. Each little black seed now has clear jelly around them. Frog eggs look just like this: a dark dot in a ball of jelly.  
-  *Child mode:* Soak the seeds. Look with the lens. Each seed has jelly around them, like a frog egg.
+- **schedule:** day 1: Soak the sabja seeds. Put one spoonful in an open bowl, one in a bowl of water, and one inside an eggshell taped shut. Look again after 3 hours. (23 min); day 2: Look at all three again. Which jelly eggs are still soft and wet? Then say what you found out. (7 min)
+- **s1 (15 min)**  
+  *Parent does:* Soak 2 teaspoons of sabja seeds in a cup of water for 15 minutes, then pour off the extra water. Look at the seeds with the magnifying glass.  
+  *Parent says:* Look. Each little black seed now sits in a ball of clear jelly. Frog eggs look just like this: a dark dot in a ball of jelly.  
+  *Child mode:* Soak the seeds. Look with the lens. Each seed sits in a ball of jelly, like a frog egg.
 - **s2 (6 min)**  
   *Parent does:* 1. Put one spoonful of jelly seeds in an open bowl. 2. Put one spoonful in a bowl of water. 3. Put one spoonful inside half an eggshell, cover it with the other half and tape it shut. Put it in the third bowl.  
   *Parent says:* Frogs lay their eggs in water. Hens lay their eggs in a dry nest, with a shell. Let's see why.  
@@ -429,7 +424,6 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
 
 ## Activities
 ### a1 · The Spoon in Your Fist (10 min)
-- **safety:** Use spoons that have been lying in the room, never ones just washed in hot water or left in the sun.
 - **record:** Draw your fist and the spoon. Draw arrows to show which way the warmth moved.
 - **s1 (2 min)**  
   *Parent does:* Give your child two steel spoons that have been lying in the room. Ask them to touch both to their cheek.  
@@ -449,19 +443,19 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
   - Ask: Which animals might be like the spoon? (good: Lizards, like the house lizard on our wall.; Snakes.; Frogs and fish.)
   - Think: Is a lizard on a cold morning more like your hand or more like the spoon?
 ### a2 · Backbone Spotting from Home (30 min)
-- **safety:** Watch animals from a window, a balcony or the building's gate. Never touch street dogs, stray cats or birds. On the market trip, stay with a grown-up.
+- **safety:** Watch animals from a window, a balcony or the building's gate. Never touch street dogs, stray cats or birds. At the market, stay with a grown-up.
 - **record:** Tick every vertebrate you see in their group. Next to each, write one thing they were doing to keep warm or cool.
 - **s1 (3 min)**  
   *Parent does:* Draw the five columns in the notebook. Sit at a window or on the balcony together.  
   *Parent says:* Today we are animal spotters. We only count animals with a backbone. For each one, we look at what they are doing to stay warm or cool.  
   *Child mode:* You are an animal spotter. Count animals with a backbone. Watch how they keep warm or cool.
 - **s2 (20 min)**  
-  *Parent does:* Watch for about 20 minutes. Tick each vertebrate in the right column and note what they are doing. On your next trip to the market, look at the fish and tick them too.  
+  *Parent does:* Watch for about 20 minutes. Tick each vertebrate in the right column and note what they are doing.  
   *Parent says:* Look, a crow. Which group? Are they in the sun or the shade? Is there a house lizard on our wall? Where are they sitting?  
   *Child mode:* Spot an animal. Which group? Tick them. Are they in sun or shade?
-  - Ask: Where are the lizards sitting? (good: Near the tube light at night, where insects come.; Hidden behind a frame or a cupboard on a cold day.)
+  - Ask: Where are the lizards sitting? (good: Basking on a sunny wall.; Hidden behind a frame or a cupboard on a cold day.)
   - Ask: What are the dogs or cats doing in the heat? (good: Lying in the shade.; Panting.)
-  - Note: Crows, pigeons, mynas and sparrows are birds. Dogs, cats, squirrels, bats at dusk and people are mammals. The house lizard is a reptile. At the market, lift a fish's gill cover to see the red gills. Frogs are hard to find in a city, except near puddles in the monsoon. An empty amphibian column is a real finding: frogs need damp places, and a city has few.
+  - Note: Crows, pigeons, mynas and sparrows are birds. Dogs, cats, squirrels, bats at dusk and people are mammals. The house lizard is a reptile. Extra: at a fish stall, lift a fish's gill cover to see the red gills, and tick the fish. Frogs are hard to find in a city, except near puddles in the monsoon. An empty amphibian column is a real finding: frogs need damp places, and a city has few.
 - **s3 (7 min)**  
   *Parent does:* Count the ticks in each column and talk about the questions below.  
   *Parent says:* Which group did we see most? Which group was hardest to find? Why do you think that is?  
@@ -469,7 +463,7 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
   - Check: In the monsoon you saw a frog sitting in a wet drain on a hot day. Why might they stay there? → **Frogs must keep their skin damp, because they breathe through it**
 ### a3 · Cool Down Like Them (15 min)
 - **safety:** Keep the water away from electric sockets.
-- **record:** Write which arm felt cooler, and why. Draw one animal and their way of keeping cool.
+- **record:** Write which wrist felt cooler, and why. Draw one animal and their way of keeping cool.
 - **s1 (5 min)**  
   *Parent does:* 1. Dip one wrist in water. Keep the other dry. 2. Fan both wrists for 30 seconds. 3. Ask which feels cooler.  
   *Parent says:* Let's be people and horses first. We sweat. Wet one wrist and fan both. Which one feels cooler?  
@@ -485,14 +479,14 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
   *Child mode:* Flap a paper elephant ear. Feel the breeze? Elephants cool their blood this way.
   - Ask: What does a buffalo do on a hot day? (good: They lie in mud or water.; The wet mud dries and cools them.)
   - Ask: What does a lizard do? (good: They go into the shade or a crack in the wall.)
-### a4 · Big Body, Small Body (30 min)
+### a4 · Big Body, Small Body (38 min)
 - **safety:** A grown-up pours the warm water. It should feel warm, like a bath, not hot.
 - **record:** Write the temperatures in a table. Work out how much each bottle cooled.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* A grown-up fills both bottles with the same warm water. Measure the start temperature of each.  
   *Parent says:* The big bottle is an elephant. The small bottle is a mouse. Both start just as warm. Which do you think will cool down faster?  
   *Child mode:* Big bottle is an elephant. Small bottle is a mouse. Which will cool faster? Guess.
-- **s2 (22 min)**  
+- **s2 (30 min)**  
   *Parent does:* Measure both after 10, 20 and 30 minutes. Write the numbers down.  
   *Parent says:* Every ten minutes, we check. In between we can play Five Families or read the story.  
   *Child mode:* Measure both bottles every 10 minutes. Write the numbers down.
@@ -501,16 +495,15 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
   *Parent says:* Which one cooled faster? So which animal needs to make heat faster, to stay warm: the mouse or the elephant?  
   *Child mode:* Which bottle cooled faster? Which animal must eat more for their size?
   - Check: The small bottle usually cools faster. What does this tell us about small animals? → **Small animals lose heat fast, so they must eat a lot for their size**
-### a5 · My Steady Warmth: a three-day body temperature diary (20 min, 3 days)
-- **safety:** Clean the thermometer before and after each use. Only measure under the arm or as the thermometer's instructions say.
+### a5 · My Steady Warmth: a three-day body temperature diary (26 min, 3 days)
 - **record:** Fill in a table with four columns: day, time, air (°C), my body (°C).
-- **schedule:** day 1: Measure your body temperature and the air temperature in the morning and the evening. (8 min); day 2: Measure again, morning and evening. (6 min); day 3: Measure again. Then compare: did your body change as much as the air? (6 min)
+- **schedule:** day 1: Measure your body temperature and the air temperature in the morning and the evening. (6 min); day 2: Measure again, morning and evening. (6 min); day 3: Measure again. Then compare: did your body change as much as the air? (14 min)
 - **s1 (6 min)**  
   *Parent does:* Measure the air: leave the water thermometer on a windowsill for 3 minutes, or read the outdoor temperature on a phone. Then measure your child's temperature under the arm with the fever thermometer. Write both down.  
   *Parent says:* First we measure the air. Then we measure you. Let's do this every morning and every evening for three days.  
   *Child mode:* Measure the air. Then measure you. Write both numbers.
-  - Note: A healthy child's temperature under the arm is usually around 36 to 37 °C. If it is 37.5 °C or more under the arm, the child may have a fever.
-- **s2 (6 min)**  
+  - Note: A healthy child's temperature under the arm is usually around 36 to 37 °C. If it is 37.5 °C or more under the arm, the child may have a fever. Clean the thermometer before and after each use, and measure only under the arm.
+- **s2 (12 min)**  
   *Parent does:* Repeat on day 2 and day 3, at the same times.  
   *Parent says:* Same times as yesterday. Morning and evening.  
   *Child mode:* Measure again, at the same times as yesterday.
@@ -521,7 +514,6 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
   *Child mode:* Look at your numbers. Did the air change a lot? Did you?
   - Check: The air changed by 8 degrees. Your body changed by less than 1 degree. Why? → **Your body makes its own heat and keeps itself steady**
 ### a6 · Who Looks After the Babies? (20 min)
-- **safety:** None.
 - **record:** A chart with one row for each animal: the animal, eggs or babies, about how many, and who looks after them.
 - **s1 (6 min)**  
   *Parent does:* Draw five rows: rohu fish, frog, olive ridley turtle, house sparrow, cow. Read out the facts below and fill in the chart together.  
@@ -541,18 +533,18 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
 ### p1 · Nest Builder: keep the egg warm (50 min, 2 days)
 - **safety:** A grown-up pours the warm water. Do not pick up feathers or old nests, because they can carry mites.
 - **record:** Draw your nest and label what you used. Write the egg's temperature at the start and after 20 minutes, with and without your nest.
-- **schedule:** day 1: Collect nest materials at home. Look for a pigeon nest on a balcony, window ledge or air-conditioner box, from a distance. (15 min); day 2: Build your nest around a warm water egg. Measure how warm it stays after 20 minutes. Compare with a bare egg. (30 min)
+- **schedule:** day 1: Collect nest materials at home. Look for a pigeon nest on a balcony, window ledge or air-conditioner box, from a distance. (15 min); day 2: Build your nest around a warm water egg. Measure how warm it stays after 20 minutes. Compare with a bare egg. (35 min)
 - **s1 (15 min)**  
   *Parent does:* Collect dry, soft nest materials at home. Then look out of the windows and balconies for a pigeon nest. Do not touch it.  
   *Parent says:* Birds must keep their eggs warm, or the babies inside will not grow. So they build nests and sit on them. Let's collect things a bird might use, and look for a real nest.  
   *Child mode:* Collect soft, dry things. Look for a pigeon nest. Don't touch it.
   - Note: Pigeons often nest on balconies, window ledges and air-conditioner boxes. Their nests are a loose pile of twigs. If you have a park nearby, you may also see sparrow nests in wall gaps or weaver bird nests hanging from trees.
-- **s2 (20 min) · grown-up needed**  
+- **s2 (25 min) · grown-up needed**  
   *Parent does:* A grown-up fills two small bottles with the same warm water. Build a nest around one bottle. Leave the other bare. Measure both at the start and after 20 minutes.  
   *Parent says:* Now build a nest around your egg. Think. What kept the bottle warm in the fur coat test?  
   *Child mode:* Build a nest round one warm bottle. Leave one bare. Measure both after 20 minutes.
   - Check: Which nest material is likely to work best? → **Soft, fluffy things that trap air, like cotton wool or feathers**
-- **s3 (15 min)**  
+- **s3 (10 min)**  
   *Parent does:* Compare the two eggs. Improve your nest and test again if you have time.  
   *Parent says:* How many degrees warmer is your nested egg? How could you make the nest better? A real bird adds one more thing. What is it?  
   *Child mode:* Which egg stayed warmer? How can you make your nest better?
@@ -564,7 +556,7 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
 - **your turn:** Now invent your own ice coat. Draw it, build it and time it. Did it beat the bare ice cube?
 - **constraints:** You may not put it in the fridge.; You may only use things you find at home.; Each cube must sit in the same room, on the same table.
 - **general:** Wrap the cube in a woollen sock or cotton wool, so still air slows the room's heat getting in.; Wrap it in shiny foil, which bounces back some heat.; Keep it in the shade, away from the sun and the stove.
-- **creative:** Camels have thick fur on their backs. It stops the desert sun from heating them. Could a thick 'camel coat' on top work best?; Put the cube in a cup, inside a bigger cup, with cotton wool between, like a polar bear's fur over their fat.; Try a layer of cotton wool and a layer of foil together.
+- **creative:** Camels have thick fur on their backs. It stops the desert sun from heating them. Could a thick 'camel coat' on top work best?; Put the cube in a cup, inside a bigger cup, with cotton wool between, like the double walls of a flask.; Try a layer of cotton wool and a layer of foil together.
 - **s1 (5 min)**  
   *Parent does:* Ask the question below. Then let your child choose materials.  
   *Parent says:* We found that wool keeps a warm bottle warm. Do you think it could keep an ice cube cold? Some people think a sweater would make it melt faster.  
@@ -677,8 +669,8 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
    **Answer:** A shell with dots for holes, a small curled chick, a yellow yolk, and clear watery white around them.. *Why:* An egg holds what the baby needs: food in the yolk, water in the white, and air that comes in through the shell.
 ### Borrowed Heat and Big Puzzles (challenge) (challenge, 15 questions)
 1. (mcq) A lizard on a hot rock is 40 °C. A child in the shade is 37 °C. Which is true?  
-   Options: The lizard makes more heat than the child / The lizard took their heat from the sun, and the child made hers from food / Thermometers do not work on lizards  
-   **Answer:** The lizard took their heat from the sun, and the child made hers from food. *Why:* The lizard is warmer, but they took that heat from the sun. The child makes her own. This is why 'cold-blooded' is a misleading word.
+   Options: The lizard makes more heat than the child / The lizard took their heat from the sun, and the child made theirs from food / Thermometers do not work on lizards  
+   **Answer:** The lizard took their heat from the sun, and the child made theirs from food. *Why:* The lizard is warmer, but they took that heat from the sun. The child makes her own. This is why 'cold-blooded' is a misleading word.
 2. (truefalse) Birds and mammals probably began to make their own heat separately.  
    **Answer:** True. *Why:* True. Most scientists think birds and mammals came from different groups of ancestors and each became warm on its own. This is still being studied.
 3. (perspective) Birds came from dinosaurs. Scientists still argue about how warm the dinosaurs were.  
@@ -733,32 +725,29 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
 5. (mcq) All day, a garden lizard moves from a sunny wall into the shade, and back again. Why?  
    Options: To stay not too cold and not too hot, because they take their heat from outside / To look for food in two places / Because they are scared of the sun  
    **Answer:** To stay not too cold and not too hot, because they take their heat from outside. *Why:* A lizard cannot make or lose heat on purpose the way a sparrow can. So they move: into the sun to warm up, into the shade before they get too hot. Their behaviour does the job that a mammal's or a bird's body does inside.
-6. (mcq) Why does a lizard lie on a sunny wall in the morning?  
-   Options: To dry their skin / To warm up, because they take their heat from outside / To hide from birds  
-   **Answer:** To warm up, because they take their heat from outside. *Why:* Lizards take their warmth from the sun. Until they are warm, their muscles are slow. Picking 'to hide' is unlikely, since a sunny wall is easy to see.
-7. (mcq) On a hot day, a dog lies in the shade with their tongue out, panting. How does panting cool the dog?  
+6. (mcq) On a hot day, a dog lies in the shade with their tongue out, panting. How does panting cool the dog?  
    Options: Water drying off the tongue and mouth carries heat away / The dog swallows cold air / It makes the dog lighter  
    **Answer:** Water drying off the tongue and mouth carries heat away. *Why:* When water dries, it takes heat with it. Dogs cannot sweat much through their fur, so they dry water from their tongue instead. Sweat does the same for people.
-8. (mcq) A yak lives high up in Ladakh, where the winter is freezing. What keeps the yak warm?  
+7. (mcq) A yak lives high up in Ladakh, where the winter is freezing. What keeps the yak warm?  
    Options: Thick, shaggy fur that traps still air, and a layer of fat / Drinking warm water / Standing still all winter  
    **Answer:** Thick, shaggy fur that traps still air, and a layer of fat. *Why:* The yak makes their own heat from food. The fur holds a layer of still air next to the skin, and fat under the skin slows heat leaving too.
-9. (mcq) A hen's egg can lie on dry straw for three weeks without drying out. What stops it drying out?  
-   Options: The shell keeps the water in, but tiny holes let air through / The hen sprinkles water on it / The yolk soaks up the air  
+8. (mcq) A hen's egg can lie on dry straw for three weeks without drying out. What stops it drying out?  
+   Options: The shell keeps the water in, but tiny holes let air through / The hen sprinkles water on the egg / The yolk soaks up the air  
    **Answer:** The shell keeps the water in, but tiny holes let air through. *Why:* A shelled egg can be laid on land. A frog's jelly egg has no shell, so in dry air it dries out. That is why frogs lay their eggs in water.
-10. (mcq) What makes mammals different from all other groups?  
+9. (mcq) What makes mammals different from all other groups?  
    Options: They lay eggs / Mothers feed their babies milk / They can fly  
    **Answer:** Mothers feed their babies milk. *Why:* Mammal mothers make milk in their own bodies to feed their babies. No other group does. Pigeons feed chicks a soft food called crop milk, but it is not real milk. Picking 'lay eggs' is true of most other groups. Picking 'fly' fits bats, but also birds and insects.
-11. (mcq) In the Fur Coat Test, why did all the bottles start with water at the same warmth?  
+10. (mcq) In the Fur Coat Test, why did all the bottles start with water at the same warmth?  
    Options: So that the only difference between them was the coat / So the water would boil / To use less water  
    **Answer:** So that the only difference between them was the coat. *Why:* In a fair test, you change only one thing. If one bottle started hotter, we could not tell whether the coat or the starting heat made the difference.
-12. (mcq) What do scientists still argue about?  
+11. (mcq) What do scientists still argue about?  
    Options: Whether fish have gills / When animals first began to make their own heat / Whether birds lay eggs  
    **Answer:** When animals first began to make their own heat. *Why:* We know fish have gills and that all birds lay eggs. But nobody is sure when, or why, warm bodies began, or how warm the dinosaurs were.
 
 ## Applications
 - Doctors use thermometers to check whether a person's steady body warmth has turned into a fever.
 - Warm clothes, quilts and sleeping bags copy fur and feathers by trapping still air.
-- Thermos flasks and cool boxes slow heat moving in or out, like a polar bear's fur.
+- Thermos flasks and cool boxes slow heat moving in or out, like fur and feathers.
 - Poultry farmers use incubators to keep eggs at the warmth a hen would give them.
 - Fish farmers pump air into ponds, so the fish have enough oxygen for their gills.
 - Zoos give reptiles warm lamps and basking stones, because they take their heat from outside.
@@ -778,8 +767,6 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
 
 ## Open questions
 - **When did animals first start making their own body heat, and why?** Body heat does not leave clear marks in fossils. Scientists use clues from bones, nose bones and growth rings, and they disagree.
-- **Were dinosaurs warm like birds, cool like lizards, or in between?** Different dinosaurs may have been different. The clues from bones and feathers point in more than one direction.
-- **Why did birds and mammals each begin to make their own heat, separately?** There are several ideas: to stay active at night, to care for young, or to run and fly for longer. None is proven.
 - **How will a warming world change turtles, whose nest warmth decides if babies are male or female?** Turtles may change when and where they nest. Scientists are watching beaches around the world to find out.
 - **How many kinds of frogs live in India that nobody has found yet?** New frogs are still being discovered in the Western Ghats and the north-east almost every year.
 - **Do fish feel the cold the way we do?** Fish can sense temperature and swim to warmer or cooler water. But what it feels like to them, nobody knows.
@@ -789,7 +776,6 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
 - Why do you think the dog is lying under the car?
 - Which animal at the market is a fish? How do you know?
 - If you were a frog, where would you hide on a hot day?
-- Why do we wear sweaters in winter, if they make no heat?
 - How do you think a baby bird stays warm at night?
 - Is a dolphin a fish? Why not?
 - What did your body burn today to stay warm?
@@ -799,25 +785,14 @@ In the morning, the girgit was on their stone, grey and still, waiting. Noor did
 ## Jokes
 - Why did the lizard sit on the wall all morning? *They were waiting for their sunny side to charge up.*
 - What do you call a fish with no eyes? *A fsh.*
-- Why did the frog stay in the puddle? *They did not want to be a dry croaker.*
-- Why don't snakes need sweaters? *The sun is their heater.*
-- What did the sparrow say on a cold morning? *Puff, puff, I'm a feather ball.*
 - Why are fish so smart? *They always swim in schools.*
-- Why did the buffalo jump in the pond? *They needed to chill out.*
-- What is a dog's favourite way to cool down? *Pant-omime.*
-- Why did the penguin dad stand still for two months? *He was egg-stremely careful.*
-- What do you call a crocodile that keeps her babies in her mouth? *A very careful mummy.*
-- Why did the tadpole feel lonely? *Because they were newt to the pond.*
+- Why did the buffalo jump in the pond? *He needed to chill out.*
 - Why don't fish play cricket? *They are scared of the net.*
 - How does a turtle make a phone call? *Shell-ular phone.*
 - Why did the egg go to school? *To get egg-ucated.*
-- What do you call a cold dog? *A chilli dog.*
-- Why did the elephant flap their ears? *It was the only fan they had.*
-- What does a frog drink? *Croak-a-cola.*
-- Why did the hen sit on the egg? *Somebody had to keep it warm.*
 - What is a snake's favourite subject? *Hiss-tory.*
-- Why are birds always warm? *They never take off their feather coats.*
-- How do you know a lizard is ready to run? *They have finished their sun-day breakfast.*
+- What do you call a cold dog? *A chilli dog.*
+- Why did the elephant flap her ears? *Her ears were the only fan she had.*
 
 ## Connected maths
 - In the fur coat test, the bare bottle started at 48 °C and ended at 42 °C. The dry sock bottle started at 48 °C and ended at 44 °C. How many degrees did each one cool? How many more degrees did the bare bottle cool? **The bare bottle cooled 6 degrees. The sock bottle cooled 4 degrees. The bare bottle cooled 2 degrees more.**. Bare bottle: 48 take away 42 is 6. Sock bottle: 48 take away 44 is 4. Then 6 take away 4 is 2. So without its coat, the bottle lost 2 more degrees of warmth. (queues `math.addition-subtraction.word-problems.L3`)
@@ -840,10 +815,9 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 - [iNaturalist](https://www.inaturalist.org) · interactive: Photograph an animal and get help naming them. Good for backbone spotting.
 
 ## Things to buy
-- [Digital thermometer that can measure water, about 0 to 100 °C (a kitchen or lab probe thermometer)](https://www.amazon.in/s?k=digital+probe+thermometer+kitchen) (tool): Measures the warm bottles, the tumblers in the sun and the nest egg. A fever thermometer cannot read cool water, so it works only for some tests. Used in e1, e2, a4, a5, p1. Used again in units on heat, weather and the human body.
+- [Digital thermometer that can measure water, about 0 to 100 °C (a kitchen or lab probe thermometer)](https://www.amazon.in/s?k=digital+probe+thermometer+kitchen) (tool): Measures the warm bottles, the tumblers in the sun and the nest egg. A fever thermometer cannot read cool water, so it works only for some tests. Used in e1, e2, a4, a5, p1. 
 - [Sabja seeds (sweet basil seeds), a small packet](https://www.amazon.in/s?k=sabja+seeds) (material): When soaked, each seed grows a ball of clear jelly, just like frog eggs. Used in the egg in the air test. Used in e3. 
 - [Magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To look closely at the jelly around the soaked sabja seeds. Used in e3. 
-- [The Book of Indian Birds, by Sálim Ali](https://www.amazon.in/s?k=book+of+indian+birds+salim+ali) (book): The classic guide to Indian birds, with pictures to help name the birds you spot from home. Used in a2, p1. Keep it near the window. Each time you spot a bird, look them up together.
 
 ## Warm-up
 - Animals with a backbone are called ____. → Vertebrates.
@@ -868,7 +842,7 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 - Founder's notebook: 'evolution is a branching tree, not a ladder', used in the challenging views
 - Founder's notebook, Growing up and having young: Nest Watch and Mammal Moms ideas, used in backbone spotting, Who Looks After the Babies? and the Nest Builder project
 - Founder's SCI Cards (ideas/scientists.json) style of deep truth, used in roots
-- Combined lesson sci-C3-kinds-of-living-things-and-sorting-them: the bat question ('fur and milk, even though it flies') and 'is the group a fact or a choice?', used in Five Families and the big questions
+- Combined lesson sci-C3-kinds-of-living-things-and-sorting-them: the bat question and 'is the group a fact or a choice?', used in Five Families and the big questions
 - Bennett and Ruben, Science 1979, 'Endothermy and activity in vertebrates' (energy cost of making body heat)
 - Farmer and Sanders, Science 2010, 'Unidirectional airflow in the lungs of alligators'
 - Wegner et al., Science 2015, 'Whole-body endothermy in a mesopelagic fish, the opah'

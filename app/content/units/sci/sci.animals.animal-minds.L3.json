@@ -32,7 +32,7 @@
    "term": "Learning",
    "meaning": "Changing what you do because of what happened before.",
    "example": "A dog runs to the gate when they hear the gate click. They learned that the click means someone is coming home.",
-   "art": "A dog running towards a gate as it clicks open."
+   "art": "A dog running towards a gate as the gate clicks open."
   },
   {
    "term": "Memory",
@@ -316,7 +316,7 @@
    ],
    "perspectives": [],
    "art": "An octopus on the sea floor holding two halves of a coconut shell, one arm curling off to explore a rock on its own.",
-   "context": "This card goes deep: a very different kind of clever animal, and what it tells us about how minds came to be."
+   "context": "This card goes deep: a very different kind of clever animal, and what this tells us about how minds came to be."
   },
   {
    "concept": "Animals feel",
@@ -861,7 +861,7 @@
    "title": "The Thirsty Crow Test: what raises the water best?",
    "mins": 25,
    "days": 1,
-   "context": "This is the thirsty crow test. You drop things into a glass of water, like the crow in the old story, and count how many it takes to raise the water to a line. Real rooks and crows have passed this test.",
+   "context": "This is the thirsty crow test. You drop things into a glass of water, like the crow in the old story, and count how many pieces it takes to raise the water to a line. Real rooks and crows have passed this test.",
    "question": "Which raises the water to the line with the fewest pieces: big stones, small stones or pieces of thermocol?",
    "predict": "Before you start, guess. Which will need the fewest pieces to raise the water to the line? Which will need the most? Why do you think so?",
    "fair_test": "To make it fair, change only what you drop in. Use the same glass, fill it to the same starting line, and use the same top line each time. Drop things in one at a time.",
@@ -1210,10 +1210,10 @@
    "title": "The Pointing Test: does a dog follow your finger?",
    "mins": 25,
    "days": 1,
-   "context": "This is a test scientists use with dogs. You hide a treat under one of two bowls and point at it. You count how often the dog goes to the right bowl, with pointing and without. You need a calm dog you know well. This test is optional. If you do not have a calm dog near you, skip it.",
+   "context": "This is a test scientists use with dogs. You hide a treat under one of two bowls and point at it. You count how often the dog goes to the right bowl, with pointing and without. You need a calm dog you know well. This test is optional. If you do not have a calm dog near you, skip this test.",
    "question": "Does a dog find a hidden treat more often when a person points at it?",
    "predict": "Guess how many times out of 10 the dog will pick the right bowl with pointing. Then guess without pointing. Why do you think so?",
-   "fair_test": "Change only one thing: pointing or no pointing. Use the same two bowls, the same spot and the same treat. Rub the treat on both bowls so the dog cannot just smell which one has it.",
+   "fair_test": "Change only one thing: pointing or no pointing. Use the same two bowls, the same spot and the same treat. Rub the treat on both bowls so the dog cannot just smell which bowl has the treat.",
    "results_table": [
     "Round",
     "Pointing or no pointing?",
@@ -1275,7 +1275,7 @@
      "caption": "2. Point at the bowl with the treat, and look at it."
     },
     {
-     "art": "The dog trotting to the left bowl and nosing it over, the child ticking a chart.",
+     "art": "The dog trotting to the left bowl and nosing the bowl over, the child ticking a chart.",
      "caption": "3. Let the dog go. Which bowl do they choose? Tick the table."
     }
    ],
@@ -1487,7 +1487,7 @@
      "id": "s1",
      "mins": 8,
      "do": "Give your child 8 groundnuts. They hide them around one room while you write down where.",
-     "say": "A bird called a jay hides food and finds it again later. Let's see how good your memory is. Hide these 8 groundnuts. Don't write anything down. Tomorrow you find them.",
+     "say": "A bird called a jay hides food and finds the food again later. Let's see how good your memory is. Hide these 8 groundnuts. Don't write anything down. Tomorrow you find them.",
      "kid": "Hide 8 groundnuts in this room. Don't write anything. Tomorrow you must find them!",
      "context": "This is the first day of Be a Jay. You hide 8 treats and try to remember where."
     },
@@ -2162,14 +2162,14 @@
       "t": "mcq",
       "q": "In Build a Puzzle Feeder, the dog took 3 minutes on day 1 and 1 minute on day 2. What does that show?",
       "options": [
-       "The dog learned and remembered how to solve it",
+       "The dog learned and remembered how to solve the puzzle",
        "The puzzle got easier by itself",
        "The dog was not hungry on day 1"
       ],
       "a": 0,
       "why": "Getting faster at the same puzzle is a sign of learning and memory. Picking 'not hungry' could be true for one day, so a scientist would test on more days to be sure."
      },
-     "context": "This is the main step of Build a Puzzle Feeder. You watch an animal solve the puzzle and time it."
+     "context": "This is the main step of Build a Puzzle Feeder. You watch an animal solve the puzzle and time them."
     },
     {
      "id": "s3",
@@ -2356,6 +2356,27 @@
      ],
      "a": "pairs as given",
      "why": "Each of these was found in careful tests or long watching by scientists."
+    },
+    {
+     "t": "fill",
+     "p": "Keeping what you learned, so you can use it later, is called ____.",
+     "a": [
+      "memory"
+     ],
+     "why": "Memory is keeping what you learned. A jay that finds seeds months later is using memory."
+    },
+    {
+     "t": "truefalse",
+     "p": "A puppy that bows with the front legs down and the tail up is asking to play.",
+     "a": true,
+     "why": "The play bow means 'let's play, this is not a real fight'."
+    },
+    {
+     "t": "write",
+     "p": "Choose a honeybee, a crow or a dog. Tell one clever thing they can do, and how scientists know.",
+     "lines": 3,
+     "a": "Any true example, for example: a crow bent a wire into a hook, and scientists saw it in a test. Or: a dog follows a pointing finger, which was shown in careful tests. Or: a bumblebee learned to pull a string to reach a flower.",
+     "why": "Each of these was seen in careful tests or long watching, not just told as a story."
     }
    ]
   },
@@ -2607,6 +2628,40 @@
      "why": "Animal trainers reward each small step, like lying down, then rolling to one side, then all the way over. The learner in the game did the same with claps. Picking 'born knowing' mixes learning up with instinct.",
      "how": "a3",
      "context": "In the Training Game, one player had to find a secret action, and the only clue was a clap each time they got closer."
+    },
+    {
+     "t": "match",
+     "p": "Match each scientist to what they found.",
+     "pairs": [
+      [
+       "Ivan Pavlov",
+       "dogs learned to drool at a sound that came before food"
+      ],
+      [
+       "Edward Thorndike",
+       "cats in puzzle boxes escaped a little faster each time"
+      ],
+      [
+       "Wolfgang Kohler",
+       "a chimpanzee fitted two short sticks into one long one"
+      ],
+      [
+       "Gordon Burghardt",
+       "wrote down clear signs that tell play from other things animals do"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each of these scientists found out something about how animals learn, solve problems or play.",
+     "context": "This question is about four more scientists from this unit who studied animal behaviour."
+    },
+    {
+     "t": "write",
+     "p": "Rooks chose big stones first in the tube of water. The rooks cannot tell us why. What else could you test to find out if they understood what the stones do?",
+     "lines": 3,
+     "a": "For example: give them a choice between a sinking stone and a floating piece of thermocol, and see which they pick. If they pick sinking things again and again, they probably understand what sinks.",
+     "why": "A good test changes one thing at a time and watches what the animal chooses.",
+     "how": "e1",
+     "context": "In the Thirsty Crow Test, rooks dropped stones into a tube of water to reach a floating worm, and chose big stones first."
     }
    ]
   },
@@ -2770,6 +2825,25 @@
      "a": "Any honest open question, for example: what does it feel like to be a bee? Do fish feel happy?",
      "why": "Science grows from good open questions.",
      "lines": 3
+    },
+    {
+     "t": "mcq",
+     "p": "Wolf pups raised by people follow a pointing finger less well than dog puppies do. But wolves raised very closely with people can learn it. What does this suggest?",
+     "opts": [
+      "Both being born ready and growing up with people matter",
+      "Wolves cannot learn anything",
+      "Dogs do not need to learn it at all"
+     ],
+     "a": 0,
+     "why": "If dogs were only born ready, wolves could not learn it. If it were only learning, wolves would do as well as dogs. Many scientists think both matter.",
+     "context": "This question is about why dogs are so good at reading people."
+    },
+    {
+     "t": "write",
+     "p": "Some scientists think mugger crocodiles in India balance sticks on their snouts in the nesting season, to trick birds looking for twigs. Others are not sure. What would you need to see to be sure?",
+     "lines": 3,
+     "a": "For example: that the crocodiles put sticks on their snouts mainly in the nesting season, and that birds come to take the sticks. Seeing it many times, and ruling out another reason, would help.",
+     "why": "A claim about a clever animal is stronger when the same thing is seen again and again, and a simpler reason is ruled out."
     }
    ]
   }
@@ -2790,6 +2864,14 @@
    "mins": 2,
    "why": "Shows a crow dropping stones into a tube of water to raise a floating treat, as in the thirsty crow test.",
    "check": "Title and channel checked with YouTube's oEmbed: \"Causal understanding of water displacement by a crow\" by PLOS Media, from Jelbert and others, PLoS ONE 2014. The old link was a cartoon. A parent may still preview it."
+  },
+  {
+   "title": "Chimpanzee tool use: fishing for termites",
+   "channel": "Jane Goodall Institute USA",
+   "youtube": "kSuJpww6P9I",
+   "mins": 3,
+   "why": "Shows chimpanzees poking a stem into a termite mound and pulling out termites, as Jane Goodall first saw in 1960.",
+   "check": "Title and channel checked with YouTube's oEmbed: \"Chimpanzee Tool Use - Fishing for Termites\" by Dr. Jane Goodall & the Jane Goodall Institute USA. A parent may still preview it."
   }
  ],
  "quiz": [
@@ -3084,7 +3166,7 @@
  ],
  "maths": [
   {
-   "problem": "In the thirsty crow test, it took 6 big stones to raise the water to the line. It took 32 small stones. How many more small stones than big stones were needed?",
+   "problem": "In the thirsty crow test, 6 big stones raised the water to the line. With small stones, 32 were needed. How many more small stones than big stones were needed?",
    "answer": "26 more small stones.",
    "explain": "32 take away 6 is 26. So 26 more small stones were needed. You can check: 6 + 26 = 32.",
    "math_unit": "math.addition-subtraction.mental-strategies.L3",

@@ -314,7 +314,7 @@
    "concept": "Where body heat really comes from: atoms and the sun",
    "status": "defined",
    "definition": "Heat is the jiggling of tiny particles, such as atoms. A warm body has fast-jiggling atoms. Nearly all the warmth of animals comes, in the end, from the sun.",
-   "description": "Everything is made of atoms, far too tiny to see. When something is warm, its atoms jiggle faster. A lizard on a sunny wall is warmed directly. Sunlight makes the atoms in their skin jiggle. A bird or a mammal is warmed another way. They eat food. Inside their cells, tiny parts called mitochondria break the food down slowly, and some of the energy comes out as heat. But that food's energy came from plants. And plants caught it from sunlight. So the lizard takes their warmth from the sun quickly, and the sparrow takes it slowly, through food. The sunlight left the sun about eight minutes before it reached the Earth.",
+   "description": "Everything is made of atoms, far too tiny to see. When something is warm, its atoms jiggle faster. A lizard on a sunny wall is warmed directly. Sunlight makes the atoms in their skin jiggle. A bird or a mammal is warmed another way. They eat food. Inside their cells, tiny parts called mitochondria break the food down slowly, and some of the energy comes out as heat. But that food's energy came from plants. And plants caught it from sunlight. So the lizard takes their warmth from the sun quickly, and the sparrow takes the sun's warmth slowly, through food. The sunlight left the sun about eight minutes before it reached the Earth.",
    "examples": [
     "A lizard on a wall is warmed by sunlight that left the sun about eight minutes earlier.",
     "Your breakfast idli came from rice, which grew using sunlight.",
@@ -391,14 +391,6 @@
    "context": "This card is about the idea that some animal groups are better than others."
   },
   {
-   "claim": "Some dinosaurs made their own body heat, like birds.",
-   "who": "Many scientists who study feathered dinosaur fossils.",
-   "for": "Many dinosaurs had feathers. Their bones show they grew fast, which needs a lot of energy.",
-   "against": "Feathers can also be for show or for keeping eggs warm. Some studies suggest dinosaurs were in between, neither fully warm nor fully cool.",
-   "status": "debated",
-   "context": "This card is about a big open argument: were dinosaurs warm or cool?"
-  },
-  {
    "claim": "The five groups are the natural, final way to sort vertebrates.",
    "who": "Many school books.",
    "for": "The five groups are easy to see and very useful.",
@@ -416,11 +408,6 @@
   }
  ],
  "big_questions": [
-  {
-   "q": "Is a lizard on a sunny wall really 'cold-blooded'? What would be a better word?",
-   "kind": "deep",
-   "hint": "Think about where their heat comes from, not how warm they are."
-  },
   {
    "q": "Why do you think frogs need water to lay eggs, but crocodiles do not?",
    "kind": "deep",
@@ -440,11 +427,6 @@
    "q": "A mugger mother carries her babies in her mouth. A rohu fish leaves her eggs. Is one a better parent?",
    "kind": "big",
    "hint": "Think about how many babies each one has."
-  },
-  {
-   "q": "We sort animals into five groups. Did nature make the groups, or did people?",
-   "kind": "big",
-   "hint": "Is a bird a kind of reptile? Who decides?"
   },
   {
    "q": "Your body keeps making heat, and the heat keeps leaving you. Where does your warmth go?",
@@ -517,7 +499,7 @@
    "id": "g1",
    "title": "Five Families",
    "mins": 25,
-   "players": "2 to 4 players, or one child playing against the app",
+   "players": "2 to 4 players",
    "context": "This is a card game about the five groups of animals with a backbone: fish, amphibians, reptiles, birds and mammals. Players collect families by answering questions about breathing, warmth and babies.",
    "printables": [
     {
@@ -586,16 +568,17 @@
    "rules": [
     "Cut out the 25 animal cards and the 5 question cards. Lay out the five family mats.",
     "Shuffle the animal cards and deal 5 to each player. Put the rest face down in a pile.",
-    "Put the question cards face down in their own pile.",
-    "On your turn, pick up one animal card. Then turn over the top question card.",
-    "Answer the question for any one animal in your hand. If the others agree, put that animal on their family mat and score one point.",
-    "If you get it wrong, keep the card and the next player goes.",
-    "The player who puts the last card on a family mat gets a bonus point.",
-    "When all the cards are on the mats, the player with the most points wins."
+    "Shuffle the question cards and put them face down in their own pile. When they run out, shuffle them and use them again.",
+    "On your turn, take the top animal card from the pile (if the pile is empty, skip this). Then turn over the top question card.",
+    "Choose any animal in your hand and answer the question for that animal. Then say which family mat it belongs on. The mats list the clues to check against.",
+    "If the others agree, put the animal on the right mat and score one point.",
+    "If you are wrong, the others tell you the right answer. The card still goes on the right mat, but with no point. The next player goes.",
+    "The player who puts the last card on a mat gets a bonus point.",
+    "When all 25 cards are on the mats, the player with the most points wins. A tie is a shared win."
    ],
    "setup": [
     {
-     "art": "Five paper mats in a row on the floor, each with a picture of a fish, frog, lizard, bird or cow, and a pile of face-down animal cards beside them.",
+     "art": "Five paper mats in a row on the floor, each with a family name written on top, and a pile of face-down animal cards beside them.",
      "caption": "1. Lay out the five family mats. Shuffle the animal cards."
     },
     {
@@ -611,7 +594,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the cards and lay out the five family mats in a row. 2. Shuffle and deal 5 animal cards to each player. 3. Put the question cards in a pile.",
+     "do": "1. Cut out the cards and lay out the five family mats in a row. 2. Shuffle and deal 5 animal cards to each player. 3. Put the question cards in a pile, face down.",
      "say": "Every animal on these cards has a backbone. They belong to five families: fish, amphibians, reptiles, birds and mammals. To put an animal on their family mat, you must answer a question about them.",
      "kid": "Lay out the five mats: fish, amphibians, reptiles, birds and mammals. Get five animal cards. To place a card, answer a question about it.",
      "context": "This is the first step of Five Families, a card game about animals with backbones. Here you set up the game."
@@ -621,7 +604,7 @@
      "mins": 4,
      "do": "Play a practice round together with the Rohu fish card and the BREATHE question.",
      "say": "Let's practise. Here is the rohu, the fish you see at the market. How does a rohu breathe?",
-     "kid": "Practice card: the rohu fish. How do they breathe? Tap your answer.",
+     "kid": "Practice card: the rohu fish. How do they breathe? Say your answer.",
      "context": "This is a practice round of Five Families. The animal is a rohu fish, and the question is how they breathe.",
      "ask": [
       {
@@ -719,7 +702,7 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "8 role cards",
+     "title": "8 role cards (4 LIZARD, 4 SPARROW; use as many as you have players)",
      "items": [
       "LIZARD",
       "LIZARD",
@@ -747,20 +730,40 @@
      "kind": "tokens",
      "title": "20 food tokens (paper grains of bajra)",
      "items": [
+      "grain",
+      "grain",
+      "grain",
+      "grain",
+      "grain",
+      "grain",
+      "grain",
+      "grain",
+      "grain",
+      "grain",
+      "grain",
+      "grain",
+      "grain",
+      "grain",
+      "grain",
+      "grain",
+      "grain",
+      "grain",
+      "grain",
       "grain"
      ]
     }
    ],
    "rules": [
     "Mark a SUN corner and a SHADE corner with a chunni or a chalk line.",
-    "Each player takes a role card: LIZARD or SPARROW.",
-    "The caller shows a weather card. Players must act it out.",
-    "SUNNY MORNING: lizards run to the SUN corner to bask. Sparrows can play anywhere, and each one picks up a food token.",
+    "One player is the caller and shows the weather cards. Everyone else takes a role card: LIZARD or SPARROW. With 2 players, the other player is a lizard for the first 10 cards, then you swap: the caller becomes a sparrow and the other player calls.",
+    "Each sparrow starts with 2 food tokens. The rest stay in a pile.",
+    "The caller shuffles the 6 weather cards and shows them one by one, calling each out loud. After the last, shuffle and go on until 10 cards have been shown. Players act out each one.",
+    "SUNNY MORNING: lizards run to the SUN corner to bask. Sparrows can play anywhere, and each one picks up a food token from the pile.",
     "HOT NOON: lizards run to SHADE. Sparrows pant with open mouths.",
-    "COLD NIGHT, WINTER WIND or SNOW: lizards freeze still until the next card. Sparrows puff up and huddle, but each sparrow must give up a food token to keep warm.",
+    "COLD NIGHT, WINTER WIND or SNOW: lizards freeze still until the next card. Sparrows puff up and huddle, and each sparrow gives one food token back to the pile to keep warm.",
     "MONSOON RAIN: lizards and sparrows both run to SHADE to shelter from the rain.",
-    "A sparrow with no food token left must sit out one round. A lizard that moves in the cold sits out one round.",
-    "Play 10 weather cards. Then talk about who did better in each kind of weather."
+    "A sparrow with no token to give on a cold card must sit out the next card. A lizard that moves on a cold card sits out the next card.",
+    "After 10 weather cards, stop. There is no winner. Talk about who did better in each kind of weather."
    ],
    "setup": [
     {
@@ -784,7 +787,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Show the weather cards one by one. Call out each one loudly. After every SUNNY MORNING, give each sparrow one food token. After every COLD NIGHT, WINTER WIND or SNOW card, collect one food token from each sparrow.",
+     "do": "Show the weather cards one by one. Call out each one loudly. After every SUNNY MORNING, give each sparrow one food token. After every COLD NIGHT, WINTER WIND or SNOW card, collect one food token from each sparrow. Stop after 10 cards.",
      "say": "Sunny morning! Hot noon! Cold night! Remember, sparrows, you must spend a grain to stay warm in the cold.",
      "kid": "Listen for the weather. Act it out fast. Sparrows, give a grain in the cold.",
      "context": "This is the main part of Sun, Shade and Snow. The caller shows weather cards and players act out how their animal copes.",
@@ -831,7 +834,7 @@
   {
    "id": "e1",
    "title": "The Fur Coat Test: does a coat keep warmth in?",
-   "mins": 35,
+   "mins": 39,
    "days": 1,
    "question": "Does a woollen coat help a warm bottle stay warm for longer, the way fur and feathers help a warm animal?",
    "predict": "Before you start, guess. After 20 minutes, which bottle will be warmest: the bare one, the one in a dry woollen sock, or the one in a wet woollen sock? Why do you think so?",
@@ -876,7 +879,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 35,
+     "mins": 39,
      "what": "Fill three bottles with warm water. Dress one in a dry sock and one in a wet sock. Measure all three every 5 minutes for 20 minutes. Then draw a chart."
     }
    ],
@@ -928,15 +931,6 @@
      "say": "On a cold morning, we put on a sweater. Does the sweater make heat, like a heater? Or does it do something else?",
      "kid": "Hold a woollen sweater. Does it make heat? Or does it do something else?",
      "context": "This is the start of the fur coat test. It begins by asking what a sweater, fur or feathers really do.",
-     "ask": [
-      {
-       "q": "Does a sweater make heat?",
-       "good": [
-        "No. It keeps our own heat in.",
-        "It stops our warmth from leaving."
-       ]
-      }
-     ],
      "check": {
       "t": "mcq",
       "q": "A woollen sweater keeps you warm. What does it really do?",
@@ -971,10 +965,10 @@
     },
     {
      "id": "s4",
-     "mins": 16,
-     "do": "Every 5 minutes, measure all three bottles and write the numbers in the table. Do this 4 times. Between readings, look at the questions below.",
+     "mins": 20,
+     "do": "Every 5 minutes (at 5, 10, 15 and 20 minutes), measure all three bottles and write the numbers in the table. Between readings, look at the questions below.",
      "say": "Every five minutes we measure again. While we wait, think. Which animals have the thickest coats? Which animals must not get their fur wet?",
-     "kid": "Measure every 5 minutes. Do it 4 times. While you wait, think. Which animals have thick coats?",
+     "kid": "Measure every 5 minutes, 4 times. While you wait, think. Which animals have thick coats?",
      "context": "This is the waiting part of the fur coat test. You measure all three bottles every 5 minutes for 20 minutes.",
      "ask": [
       {
@@ -994,7 +988,7 @@
       }
      ],
      "how": "e1",
-     "parent": "The bottles differ by only a few degrees, so wait for the number to settle before you read it. If the bare and dry-sock bottles are within one degree after 20 minutes, carry on and measure again at 30 minutes."
+     "parent": "The bottles differ by only a few degrees, so wait for the number to settle before you read it."
     },
     {
      "id": "s5",
@@ -1014,7 +1008,8 @@
       "a": 1,
       "why": "The dry wool traps still air, and still air lets heat out slowly. So that bottle stays warmest. Picking the wet sock usually means thinking 'more covering is always better'. But in wet wool, water fills the gaps where the air was, and the drying water carries heat away. That is why a wet animal gets cold so fast."
      },
-     "how": "e1"
+     "how": "e1",
+     "parent": "The dry sock bottle may be only 1 or 2 degrees warmer than the bare one, and the wet sock result can change with the room. That is fine: write down what you really measured."
     },
     {
      "id": "cer",
@@ -1023,14 +1018,14 @@
      "say": "Now tell me what you found out, in three parts. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
      "context": "This is the last step of the fur coat test. You say what you found out, like a scientist.",
-     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a dry coat holds warmth in. What I saw: the bare bottle cooled 6 degrees, the dry sock bottle cooled only 4, and the wet sock bottle cooled 9. Why: dry wool traps still air, like fur and feathers. Wet wool does not, and the drying water takes heat away. Notice too that even the dry sock bottle kept cooling. A coat slows heat leaving, but never stops it."
+     "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this (with the made-up numbers from the chart). What I think: a dry coat holds warmth in. What I saw: the bare bottle cooled 6 degrees, the dry sock bottle cooled only 4, and the wet sock bottle cooled 9. Why: dry wool traps still air, like fur and feathers. Wet wool does not, and the drying water takes heat away. Notice too that even the dry sock bottle kept cooling. A coat slows heat leaving, but never stops it."
     }
    ]
   },
   {
    "id": "e2",
    "title": "Lizard on a Wall: sun or shade?",
-   "mins": 40,
+   "mins": 42,
    "days": 1,
    "question": "How much does the sun warm something that cannot make its own heat?",
    "predict": "Guess. After 30 minutes, how much warmer will the tumbler in the sun be than the one in the shade? Why do you think so?",
@@ -1065,11 +1060,11 @@
      "qty": 1
     }
    ],
-   "safety": "Do not look at the sun. If you go onto a roof or balcony, a grown-up must be with you.",
+   "safety": "Do not look at the sun. If you use a balcony ledge, a grown-up stays with you.",
    "schedule": [
     {
      "day": 1,
-     "mins": 40,
+     "mins": 42,
      "what": "Fill two tumblers with cool water. Put one in the sun and one in the shade. Measure both every 15 minutes for half an hour. Then compare."
     }
    ],
@@ -1171,7 +1166,7 @@
   {
    "id": "e3",
    "title": "Egg in the Air: why frogs lay eggs in water",
-   "mins": 20,
+   "mins": 30,
    "days": 2,
    "question": "Does a shell stop an egg from drying out in the air?",
    "predict": "Guess. After one day, which jelly egg clump will be the most dried up: the one in the open, the one in water, or the one inside an eggshell? Why do you think so?",
@@ -1211,13 +1206,13 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 15,
+     "mins": 23,
      "what": "Soak the sabja seeds. Put one spoonful in an open bowl, one in a bowl of water, and one inside an eggshell taped shut. Look again after 3 hours."
     },
     {
      "day": 2,
-     "mins": 5,
-     "what": "Look at all three again. Which jelly eggs are still soft and wet?"
+     "mins": 7,
+     "what": "Look at all three again. Which jelly eggs are still soft and wet? Then say what you found out."
     }
    ],
    "record": "Draw how each clump looks at the start, after 3 hours and after 1 day.",
@@ -1239,10 +1234,10 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
-     "do": "Soak 2 teaspoons of sabja seeds in a cup of water for 15 minutes. Look at them with the magnifying glass.",
-     "say": "Look. Each little black seed now has clear jelly around them. Frog eggs look just like this: a dark dot in a ball of jelly.",
-     "kid": "Soak the seeds. Look with the lens. Each seed has jelly around them, like a frog egg.",
+     "mins": 15,
+     "do": "Soak 2 teaspoons of sabja seeds in a cup of water for 15 minutes, then pour off the extra water. Look at the seeds with the magnifying glass.",
+     "say": "Look. Each little black seed now sits in a ball of clear jelly. Frog eggs look just like this: a dark dot in a ball of jelly.",
+     "kid": "Soak the seeds. Look with the lens. Each seed sits in a ball of jelly, like a frog egg.",
      "context": "This is the start of the egg in the air test. You soak sabja seeds so they look like frog eggs."
     },
     {
@@ -1300,7 +1295,6 @@
      "qty": 2
     }
    ],
-   "safety": "Use spoons that have been lying in the room, never ones just washed in hot water or left in the sun.",
    "schedule": [
     {
      "day": 1,
@@ -1396,16 +1390,16 @@
      "qty": 1
     },
     {
-     "item": "the spotting chart, with five columns: fish, amphibians, reptiles, birds, mammals",
+     "item": "a spotting chart with five columns (fish, amphibians, reptiles, birds, mammals), drawn in the notebook in step 1",
      "qty": 1
     }
    ],
-   "safety": "Watch animals from a window, a balcony or the building's gate. Never touch street dogs, stray cats or birds. On the market trip, stay with a grown-up.",
+   "safety": "Watch animals from a window, a balcony or the building's gate. Never touch street dogs, stray cats or birds. At the market, stay with a grown-up.",
    "schedule": [
     {
      "day": 1,
      "mins": 30,
-     "what": "Spend 20 minutes at a window or balcony, then look at the fish on your next trip to the market. Tick each animal with a backbone you see, and write how they were keeping warm or cool."
+     "what": "Spend 20 minutes at a window or balcony. Tick each animal with a backbone you see, and write how they were keeping warm or cool. Extra, next time you are at a fish stall: look at the fish's gills and tick the fish too."
     }
    ],
    "record": "Tick every vertebrate you see in their group. Next to each, write one thing they were doing to keep warm or cool.",
@@ -1421,7 +1415,7 @@
     },
     {
      "art": "A fish on ice at a market stall, their gill cover lifted to show red gills, with a child looking closely.",
-     "caption": "3. At the market, look at a fish's gills."
+     "caption": "3. Extra: at a fish stall, look at a fish's gills."
     }
    ],
    "flow": [
@@ -1437,7 +1431,7 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "Watch for about 20 minutes. Tick each vertebrate in the right column and note what they are doing. On your next trip to the market, look at the fish and tick them too.",
+     "do": "Watch for about 20 minutes. Tick each vertebrate in the right column and note what they are doing.",
      "say": "Look, a crow. Which group? Are they in the sun or the shade? Is there a house lizard on our wall? Where are they sitting?",
      "kid": "Spot an animal. Which group? Tick them. Are they in sun or shade?",
      "context": "This is the main part of backbone spotting. You spot animals, sort them and watch how they keep warm or cool.",
@@ -1446,7 +1440,7 @@
       {
        "q": "Where are the lizards sitting?",
        "good": [
-        "Near the tube light at night, where insects come.",
+        "Basking on a sunny wall.",
         "Hidden behind a frame or a cupboard on a cold day."
        ]
       },
@@ -1458,7 +1452,7 @@
        ]
       }
      ],
-     "parent": "Crows, pigeons, mynas and sparrows are birds. Dogs, cats, squirrels, bats at dusk and people are mammals. The house lizard is a reptile. At the market, lift a fish's gill cover to see the red gills. Frogs are hard to find in a city, except near puddles in the monsoon. An empty amphibian column is a real finding: frogs need damp places, and a city has few."
+     "parent": "Crows, pigeons, mynas and sparrows are birds. Dogs, cats, squirrels, bats at dusk and people are mammals. The house lizard is a reptile. Extra: at a fish stall, lift a fish's gill cover to see the red gills, and tick the fish. Frogs are hard to find in a city, except near puddles in the monsoon. An empty amphibian column is a real finding: frogs need damp places, and a city has few."
     },
     {
      "id": "s3",
@@ -1508,7 +1502,7 @@
      "what": "Try three animal ways to keep cool: sweating, panting and flapping ears."
     }
    ],
-   "record": "Write which arm felt cooler, and why. Draw one animal and their way of keeping cool.",
+   "record": "Write which wrist felt cooler, and why. Draw one animal and their way of keeping cool.",
    "context": "This activity tries three ways animals keep cool: sweating like people and horses, panting like dogs, and flapping big ears like elephants.",
    "setup": [
     {
@@ -1580,7 +1574,7 @@
   {
    "id": "a4",
    "title": "Big Body, Small Body",
-   "mins": 30,
+   "mins": 38,
    "days": 1,
    "materials": [
     {
@@ -1605,8 +1599,8 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 30,
-     "what": "Fill a big and a small bottle with the same warm water. Measure both every 10 minutes for half an hour."
+     "mins": 38,
+     "what": "Fill a big and a small bottle with the same warm water. Measure both at the start, then every 10 minutes for half an hour."
     }
    ],
    "record": "Write the temperatures in a table. Work out how much each bottle cooled.",
@@ -1633,7 +1627,7 @@
     },
     {
      "id": "s2",
-     "mins": 22,
+     "mins": 30,
      "do": "Measure both after 10, 20 and 30 minutes. Write the numbers down.",
      "say": "Every ten minutes, we check. In between we can play Five Families or read the story.",
      "kid": "Measure both bottles every 10 minutes. Write the numbers down.",
@@ -1665,7 +1659,7 @@
   {
    "id": "a5",
    "title": "My Steady Warmth: a three-day body temperature diary",
-   "mins": 20,
+   "mins": 26,
    "days": 3,
    "materials": [
     {
@@ -1678,15 +1672,14 @@
      "buy": "b-thermo"
     },
     {
-     "item": "the diary table",
+     "item": "a diary table drawn in the notebook: day, time, air (°C), my body (°C)",
      "qty": 1
     }
    ],
-   "safety": "Clean the thermometer before and after each use. Only measure under the arm or as the thermometer's instructions say.",
    "schedule": [
     {
      "day": 1,
-     "mins": 8,
+     "mins": 6,
      "what": "Measure your body temperature and the air temperature in the morning and the evening."
     },
     {
@@ -1696,7 +1689,7 @@
     },
     {
      "day": 3,
-     "mins": 6,
+     "mins": 14,
      "what": "Measure again. Then compare: did your body change as much as the air?"
     }
    ],
@@ -1720,11 +1713,11 @@
      "say": "First we measure the air. Then we measure you. Let's do this every morning and every evening for three days.",
      "kid": "Measure the air. Then measure you. Write both numbers.",
      "context": "This is the daily step of my steady warmth. You measure the air and your body, morning and evening.",
-     "parent": "A healthy child's temperature under the arm is usually around 36 to 37 °C. If it is 37.5 °C or more under the arm, the child may have a fever."
+     "parent": "A healthy child's temperature under the arm is usually around 36 to 37 °C. If it is 37.5 °C or more under the arm, the child may have a fever. Clean the thermometer before and after each use, and measure only under the arm."
     },
     {
      "id": "s2",
-     "mins": 6,
+     "mins": 12,
      "do": "Repeat on day 2 and day 3, at the same times.",
      "say": "Same times as yesterday. Morning and evening.",
      "kid": "Measure again, at the same times as yesterday.",
@@ -1771,7 +1764,6 @@
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -1868,7 +1860,7 @@
     },
     {
      "day": 2,
-     "mins": 30,
+     "mins": 35,
      "what": "Build your nest around a warm water egg. Measure how warm it stays after 20 minutes. Compare with a bare egg."
     }
    ],
@@ -1901,7 +1893,7 @@
     },
     {
      "id": "s2",
-     "mins": 20,
+     "mins": 25,
      "do": "A grown-up fills two small bottles with the same warm water. Build a nest around one bottle. Leave the other bare. Measure both at the start and after 20 minutes.",
      "say": "Now build a nest around your egg. Think. What kept the bottle warm in the fur coat test?",
      "kid": "Build a nest round one warm bottle. Leave one bare. Measure both after 20 minutes.",
@@ -1922,7 +1914,7 @@
     },
     {
      "id": "s3",
-     "mins": 15,
+     "mins": 10,
      "do": "Compare the two eggs. Improve your nest and test again if you have time.",
      "say": "How many degrees warmer is your nested egg? How could you make the nest better? A real bird adds one more thing. What is it?",
      "kid": "Which egg stayed warmer? How can you make your nest better?",
@@ -1964,7 +1956,7 @@
    ],
    "creative": [
     "Camels have thick fur on their backs. It stops the desert sun from heating them. Could a thick 'camel coat' on top work best?",
-    "Put the cube in a cup, inside a bigger cup, with cotton wool between, like a polar bear's fur over their fat.",
+    "Put the cube in a cup, inside a bigger cup, with cotton wool between, like the double walls of a flask.",
     "Try a layer of cotton wool and a layer of foil together."
    ],
    "your_turn": "Now invent your own ice coat. Draw it, build it and time it. Did it beat the bare ice cube?",
@@ -2268,11 +2260,11 @@
      "views": [
       {
        "who": "Meera",
-       "says": "The garden lizard has it better. They take their heat from the sun, so they need only a few insects a week."
+       "says": "The garden lizard has the better life. They take their heat from the sun, so they need only a few insects a week."
       },
       {
        "who": "Farida",
-       "says": "The desert gerbil, a kind of mouse, has it better. They make their own heat, so they can hunt at night, when it is cool and a lizard is too cold to move."
+       "says": "The desert gerbil, a kind of mouse, has the better life. They make their own heat, so they can hunt at night, when it is cool and a lizard is too cold to move."
       },
       {
        "who": "Valli Miss, their science teacher",
@@ -2407,25 +2399,7 @@
       "four"
      ],
      "why": "6 take away 2 is 4. A lizard on a sunny wall warms up the same way, because they cannot make their own heat. Reading only the tall bar, and saying 6, is a common slip.",
-     "how": "e2",
-     "chart": {
-      "type": "bar",
-      "title": "Made-up results from the lizard on a wall test: degrees each tumbler warmed in 30 minutes",
-      "x": "Tumbler",
-      "y": "Degrees warmer (°C)",
-      "data": [
-       {
-        "label": "In the sun",
-        "value": 6,
-        "emoji": "☀️"
-       },
-       {
-        "label": "In the shade",
-        "value": 2,
-        "emoji": "🌳"
-       }
-      ]
-     }
+     "how": "e2"
     },
     {
      "t": "mcq",
@@ -2544,7 +2518,7 @@
      "p": "A lizard on a hot rock is 40 °C. A child in the shade is 37 °C. Which is true?",
      "opts": [
       "The lizard makes more heat than the child",
-      "The lizard took their heat from the sun, and the child made hers from food",
+      "The lizard took their heat from the sun, and the child made theirs from food",
       "Thermometers do not work on lizards"
      ],
      "a": 1,
@@ -2761,18 +2735,6 @@
   },
   {
    "t": "mcq",
-   "p": "Why does a lizard lie on a sunny wall in the morning?",
-   "opts": [
-    "To dry their skin",
-    "To warm up, because they take their heat from outside",
-    "To hide from birds"
-   ],
-   "a": 1,
-   "why": "Lizards take their warmth from the sun. Until they are warm, their muscles are slow. Picking 'to hide' is unlikely, since a sunny wall is easy to see.",
-   "outcome": 2
-  },
-  {
-   "t": "mcq",
    "p": "On a hot day, a dog lies in the shade with their tongue out, panting. How does panting cool the dog?",
    "opts": [
     "Water drying off the tongue and mouth carries heat away",
@@ -2800,7 +2762,7 @@
    "p": "A hen's egg can lie on dry straw for three weeks without drying out. What stops it drying out?",
    "opts": [
     "The shell keeps the water in, but tiny holes let air through",
-    "The hen sprinkles water on it",
+    "The hen sprinkles water on the egg",
     "The yolk soaks up the air"
    ],
    "a": 0,
@@ -2874,7 +2836,7 @@
  "applications": [
   "Doctors use thermometers to check whether a person's steady body warmth has turned into a fever.",
   "Warm clothes, quilts and sleeping bags copy fur and feathers by trapping still air.",
-  "Thermos flasks and cool boxes slow heat moving in or out, like a polar bear's fur.",
+  "Thermos flasks and cool boxes slow heat moving in or out, like fur and feathers.",
   "Poultry farmers use incubators to keep eggs at the warmth a hen would give them.",
   "Fish farmers pump air into ponds, so the fish have enough oxygen for their gills.",
   "Zoos give reptiles warm lamps and basking stones, because they take their heat from outside.",
@@ -2925,14 +2887,6 @@
    "why_open": "Body heat does not leave clear marks in fossils. Scientists use clues from bones, nose bones and growth rings, and they disagree."
   },
   {
-   "q": "Were dinosaurs warm like birds, cool like lizards, or in between?",
-   "why_open": "Different dinosaurs may have been different. The clues from bones and feathers point in more than one direction."
-  },
-  {
-   "q": "Why did birds and mammals each begin to make their own heat, separately?",
-   "why_open": "There are several ideas: to stay active at night, to care for young, or to run and fly for longer. None is proven."
-  },
-  {
    "q": "How will a warming world change turtles, whose nest warmth decides if babies are male or female?",
    "why_open": "Turtles may change when and where they nest. Scientists are watching beaches around the world to find out."
   },
@@ -2950,7 +2904,6 @@
   "Why do you think the dog is lying under the car?",
   "Which animal at the market is a fish? How do you know?",
   "If you were a frog, where would you hide on a hot day?",
-  "Why do we wear sweaters in winter, if they make no heat?",
   "How do you think a baby bird stays warm at night?",
   "Is a dolphin a fish? Why not?",
   "What did your body burn today to stay warm?",
@@ -2967,40 +2920,12 @@
    "a": "A fsh."
   },
   {
-   "j": "Why did the frog stay in the puddle?",
-   "a": "They did not want to be a dry croaker."
-  },
-  {
-   "j": "Why don't snakes need sweaters?",
-   "a": "The sun is their heater."
-  },
-  {
-   "j": "What did the sparrow say on a cold morning?",
-   "a": "Puff, puff, I'm a feather ball."
-  },
-  {
    "j": "Why are fish so smart?",
    "a": "They always swim in schools."
   },
   {
    "j": "Why did the buffalo jump in the pond?",
-   "a": "They needed to chill out."
-  },
-  {
-   "j": "What is a dog's favourite way to cool down?",
-   "a": "Pant-omime."
-  },
-  {
-   "j": "Why did the penguin dad stand still for two months?",
-   "a": "He was egg-stremely careful."
-  },
-  {
-   "j": "What do you call a crocodile that keeps her babies in her mouth?",
-   "a": "A very careful mummy."
-  },
-  {
-   "j": "Why did the tadpole feel lonely?",
-   "a": "Because they were newt to the pond."
+   "a": "He needed to chill out."
   },
   {
    "j": "Why don't fish play cricket?",
@@ -3015,32 +2940,16 @@
    "a": "To get egg-ucated."
   },
   {
-   "j": "What do you call a cold dog?",
-   "a": "A chilli dog."
-  },
-  {
-   "j": "Why did the elephant flap their ears?",
-   "a": "It was the only fan they had."
-  },
-  {
-   "j": "What does a frog drink?",
-   "a": "Croak-a-cola."
-  },
-  {
-   "j": "Why did the hen sit on the egg?",
-   "a": "Somebody had to keep it warm."
-  },
-  {
    "j": "What is a snake's favourite subject?",
    "a": "Hiss-tory."
   },
   {
-   "j": "Why are birds always warm?",
-   "a": "They never take off their feather coats."
+   "j": "What do you call a cold dog?",
+   "a": "A chilli dog."
   },
   {
-   "j": "How do you know a lizard is ready to run?",
-   "a": "They have finished their sun-day breakfast."
+   "j": "Why did the elephant flap her ears?",
+   "a": "Her ears were the only fan she had."
   }
  ],
  "maths": [
@@ -3051,29 +2960,6 @@
    "math_unit": "math.addition-subtraction.word-problems.L3",
    "context": "This is about the fur coat test. Three bottles of warm water stood in for animals. One had no coat and one had a dry woollen sock. You measured how warm they were with a thermometer.",
    "how": "e1",
-   "chart": {
-    "type": "bar",
-    "title": "Made-up results from the fur coat test: degrees each bottle cooled in 20 minutes",
-    "x": "Bottle",
-    "y": "Degrees cooled (°C)",
-    "data": [
-     {
-      "label": "Bare",
-      "value": 6,
-      "emoji": "🍶"
-     },
-     {
-      "label": "Dry sock",
-      "value": 4,
-      "emoji": "🧦"
-     },
-     {
-      "label": "Wet sock",
-      "value": 9,
-      "emoji": "💧"
-     }
-    ]
-   },
    "why_maths": "Taking the last reading from the first tells us how much warmth each bottle lost. Then we can say exactly how much the coat helped."
   },
   {
@@ -3083,24 +2969,6 @@
    "math_unit": "math.division.sharing-and-grouping.L3",
    "context": "This is about the lizard on a wall test. A tumbler of cool water was put in the sun, like a basking lizard, and measured with a thermometer.",
    "how": "e2",
-   "chart": {
-    "type": "bar",
-    "title": "Made-up results from the lizard on a wall test: degrees each tumbler warmed in 30 minutes",
-    "x": "Tumbler",
-    "y": "Degrees warmer (°C)",
-    "data": [
-     {
-      "label": "In the sun",
-      "value": 6,
-      "emoji": "☀️"
-     },
-     {
-      "label": "In the shade",
-      "value": 2,
-      "emoji": "🌳"
-     }
-    ]
-   },
    "why_maths": "Sharing the warming out over time tells us how long a lizard might need to bask before they are warm enough to hunt."
   },
   {
@@ -3221,8 +3089,7 @@
     "a4",
     "a5",
     "p1"
-   ],
-   "plan": "Used again in units on heat, weather and the human body."
+   ]
   },
   {
    "id": "b-sabja",
@@ -3243,18 +3110,6 @@
    "used_in": [
     "e3"
    ]
-  },
-  {
-   "id": "b-salim",
-   "item": "The Book of Indian Birds, by Sálim Ali",
-   "kind": "book",
-   "why": "The classic guide to Indian birds, with pictures to help name the birds you spot from home.",
-   "url": "https://www.amazon.in/s?k=book+of+indian+birds+salim+ali",
-   "used_in": [
-    "a2",
-    "p1"
-   ],
-   "plan": "Keep it near the window. Each time you spot a bird, look them up together."
   }
  ],
  "warmup": [
@@ -3367,7 +3222,7 @@
    "Founder's notebook: 'evolution is a branching tree, not a ladder', used in the challenging views",
    "Founder's notebook, Growing up and having young: Nest Watch and Mammal Moms ideas, used in backbone spotting, Who Looks After the Babies? and the Nest Builder project",
    "Founder's SCI Cards (ideas/scientists.json) style of deep truth, used in roots",
-   "Combined lesson sci-C3-kinds-of-living-things-and-sorting-them: the bat question ('fur and milk, even though it flies') and 'is the group a fact or a choice?', used in Five Families and the big questions"
+   "Combined lesson sci-C3-kinds-of-living-things-and-sorting-them: the bat question and 'is the group a fact or a choice?', used in Five Families and the big questions"
   ],
   "science": [
    "Bennett and Ruben, Science 1979, 'Endothermy and activity in vertebrates' (energy cost of making body heat)",

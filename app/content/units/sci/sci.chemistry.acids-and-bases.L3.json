@@ -1,0 +1,2823 @@
+{
+ "id": "sci.chemistry.acids-and-bases.L3",
+ "title": "Acids and bases: how red cabbage water tells sour things from soapy things",
+ "level": 3,
+ "summary": {
+  "text": "Lemon juice and vinegar taste sour because they contain acids. Soap, detergent and cooking soda are bases. Bases feel slippery, and strong ones burn skin. Tasting is not a safe way to tell them apart, but red cabbage water is. It turns pink in an acid, stays purple in plain water, and turns blue or green in a base. Its many in-between shades show that sour and soapy are two ends of one line.",
+  "art": "A row of clear glasses on a white sheet of paper, coloured pink, pink-purple, purple, blue and green, with a lemon at the pink end and a bar of soap at the green end."
+ },
+ "intro": {
+  "hook": "Blend two red cabbage leaves with water and strain it. The water is deep purple. Now squeeze in a few drops of lemon juice. It turns pink at once. Why does a sour lemon change the colour of cabbage water?",
+  "text": "Red cabbage leaves hold a purple colour that changes when it meets something sour or something soapy. In this unit you make cabbage water and test liquids from your own kitchen. You line them up from pinkest to greenest. You find out what acids and bases are, which living beings make acids, and why strong ones are never for experiments.",
+  "art": "A child's hand squeezing half a lemon over a clear glass of purple cabbage water, with a pink swirl spreading where the drops land."
+ },
+ "outcomes": [
+  "I can say that sour foods like lemon, vinegar, tamarind and curd contain acids, and that soap, detergent and cooking soda are bases.",
+  "I can make red cabbage water and use it to test whether a liquid is an acid, a base or neutral.",
+  "I can put kitchen liquids in order along the colour line, from the most acidic to the most basic, using my own results.",
+  "I can explain why we never taste or touch unknown liquids to test them, and name strong acids and bases at home that burn.",
+  "I can describe what happens when an acid and a base are mixed: the fizz, and the colour moving back towards purple.",
+  "I can give examples of living beings that make acids, such as curd bacteria and weaver ants, and say how the acid helps them.",
+  "I can tell how Nicolas Lémery's idea of spiky acid particles was replaced when chemists found what all acids share."
+ ],
+ "cards_mins": 15,
+ "terms": [
+  {
+   "term": "Acid",
+   "meaning": "A substance that tastes sour and turns red cabbage water pink or red. Weak acids are in many foods. Strong acids burn.",
+   "example": "Lemon juice has citric acid in it. That is why it tastes sour.",
+   "art": "Half a lemon, a bottle of vinegar and a lump of tamarind on a steel plate."
+  },
+  {
+   "term": "Base",
+   "meaning": "A substance that is the opposite of an acid. Bases in water feel slippery, and they turn red cabbage water blue, green or yellow. Strong bases burn too.",
+   "example": "Soapy water is a base. It feels slippery between your fingers.",
+   "art": "A bar of soap, a packet of detergent powder and a small box of cooking soda."
+  },
+  {
+   "term": "Alkali",
+   "meaning": "A base that dissolves in water. The word comes from Arabic and means 'the ashes', because people once made alkalis from burnt plants.",
+   "example": "Cooking soda dissolved in water makes an alkali.",
+   "art": "A spoon stirring white cooking soda into a glass of water."
+  },
+  {
+   "term": "Neutral",
+   "meaning": "Neither an acid nor a base. A neutral liquid leaves red cabbage water purple.",
+   "example": "Pure water, sugar water and salt water are neutral.",
+   "art": "A clear glass of purple cabbage water next to a bowl of sugar and a bowl of salt."
+  },
+  {
+   "term": "Indicator",
+   "meaning": "Something that changes colour to show whether a liquid is an acid, a base or neutral.",
+   "example": "Red cabbage water is an indicator. So is turmeric, which turns red in soapy water.",
+   "art": "Three glasses of cabbage water, pink, purple and green, with a label under each: acid, neutral, base."
+  },
+  {
+   "term": "Pigment",
+   "meaning": "A substance that gives something its colour. The purple pigment in red cabbage is called anthocyanin.",
+   "example": "Anthocyanin pigments also colour jamun, black grapes and butterfly pea flowers.",
+   "art": "A cut red cabbage showing purple and white layers, with jamun fruit and blue butterfly pea flowers beside it."
+  },
+  {
+   "term": "pH scale",
+   "meaning": "A line of numbers from 0 to 14 that says how acidic or basic a liquid is. 7 is neutral. Below 7 is acid. Above 7 is base.",
+   "example": "Lemon juice is about 2 on the pH scale. Pure water is 7. Soapy water is about 10.",
+   "art": "A long strip coloured red, pink, purple, blue, green and yellow, with the numbers 0 to 14 along it and a lemon, a glass of water and a bar of soap placed on it."
+  },
+  {
+   "term": "Neutralise",
+   "meaning": "To mix an acid and a base so that they use each other up, and the mixture comes closer to neutral.",
+   "example": "Add soda water to pink, lemony cabbage water, and it turns purple again.",
+   "art": "A spoon pouring soda water into a glass of pink cabbage water, with the colour turning purple and tiny bubbles rising."
+  },
+  {
+   "term": "Carbon dioxide",
+   "meaning": "A gas with no colour. It makes the bubbles when an acid meets cooking soda.",
+   "example": "Lemon juice on cooking soda fizzes. The bubbles are carbon dioxide.",
+   "art": "A small heap of cooking soda on a steel plate fizzing with bubbles where lemon juice drips on it."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "What an acid is",
+   "status": "defined",
+   "context": "Why do lemon, vinegar, tamarind and curd all taste sour? This card is about the substances that make food sour.",
+   "definition": "An acid is a substance that tastes sour, turns red cabbage water pink or red, and fizzes with cooking soda. In water, an acid gives out tiny charged particles of hydrogen.",
+   "description": "The word acid comes from the Latin word acidus, which means sour. Many foods we eat every day contain weak acids. Lemon juice has citric acid. Vinegar has acetic acid. Tamarind has tartaric acid. Curd and buttermilk have lactic acid. These acids are weak, so they are safe to eat. Strong acids are a different matter. The acid in a car battery and many toilet cleaners can burn skin and eyes. So we never taste or touch a liquid to find out if it is an acid. We use an indicator instead.",
+   "examples": [
+    "Rasam tastes sour because of the tamarind and tomato in it.",
+    "Raw mango and amla taste sour because they contain acids.",
+    "Toilet cleaners often contain a strong acid. They are kept high up, away from children."
+   ],
+   "perspectives": [],
+   "art": "A banana leaf with rasam, a slice of lemon, a piece of raw mango and a small bowl of curd, each with a small label saying which acid it has."
+  },
+  {
+   "concept": "What a base is",
+   "status": "defined",
+   "context": "Soap feels slippery and cooking soda tastes bitter. This card is about bases, the opposite of acids.",
+   "definition": "A base is a substance that is the opposite of an acid. Bases turn red cabbage water blue, green or yellow. In water, bases feel slippery. A base that dissolves in water is called an alkali.",
+   "description": "Soap, detergent powder and cooking soda are bases. Soapy water feels slippery between your fingers. Bases also taste bitter, but we never taste them to find out. Weak bases like cooking soda are safe in small amounts, and we cook with it. Strong bases burn. Chuna, the white lime paste used on betel leaves and for whitewash, is a strong base. Drain cleaners are strong bases too. A strong base can hurt the eyes even more than an acid, so these stay with grown-ups only. Long ago, people made alkalis by soaking the ashes of burnt plants in water. That is where the word alkali comes from: the Arabic al-qaly, the ashes.",
+   "examples": [
+    "Cooking soda makes bajji and dhokla batter puff up.",
+    "Detergent powder in water feels slippery, because it is a base.",
+    "Chuna in a paan shop is a strong base. It can burn the mouth and eyes if it is used carelessly."
+   ],
+   "perspectives": [],
+   "art": "A bar of soap, a bowl of detergent water with foam, a small box of cooking soda, and a small tin of white chuna with a red 'grown-ups only' tag."
+  },
+  {
+   "concept": "How red cabbage water shows acids and bases",
+   "status": "defined",
+   "context": "Why does cabbage water change colour? This card is about indicators, and the pigment that does the changing.",
+   "definition": "An indicator is a substance whose colour changes with how acidic or basic a liquid is. Red cabbage water is an indicator because of its purple pigment, anthocyanin.",
+   "description": "Red cabbage leaves are full of a purple pigment called anthocyanin. When you blend the leaves with water, the pigment comes out into the water. Each tiny particle of the pigment changes its shape a little when it meets an acid or a base. A particle with a different shape takes in different colours of light. So we see a different colour. In a strong acid the water turns red. In a weak acid it turns pink. In plain water it stays purple. In a weak base it turns blue, then blue-green. In a strong base it turns green and then yellow. Turmeric is an indicator too, but it shows only two colours: yellow, or red in a base. Cabbage water shows many.",
+   "examples": [
+    "Lemon juice turns cabbage water pink.",
+    "Cooking soda water turns cabbage water blue or blue-green.",
+    "Detergent water turns cabbage water green."
+   ],
+   "perspectives": [],
+   "art": "Seven small glasses of cabbage water in a row: red, pink, purple, blue, blue-green, green and yellow."
+  },
+  {
+   "concept": "One line from sour to soapy: the pH scale",
+   "status": "defined",
+   "context": "Is every liquid either an acid or a base? This card is about the line that runs between them.",
+   "definition": "The pH scale is a line of numbers from 0 to 14. It says how acidic or basic a watery liquid is. 7 is neutral. The smaller the number, the stronger the acid. The bigger the number, the stronger the base.",
+   "description": "People used to sort liquids into two boxes: acids and alkalis. But liquids are not all equally sour or equally soapy. In 1909, a Danish chemist called Søren Sørensen, working at the Carlsberg Laboratory in Copenhagen, gave each liquid a number. He called it pH. Today we know that even plain water holds a tiny number of acid particles and base particles, in equal amounts. An acid adds more of the acid kind. A base adds more of the base kind. So every watery liquid has a place on the line. Lemon juice is about 2. Vinegar is about 3. Buttermilk is about 4 or 5. Milk is about 6 or 7. Pure water is 7. Cooking soda water is about 8. Soapy water is about 9 or 10. Detergent water is about 10 or 11. Red cabbage water lets you see these places as colours.",
+   "examples": [
+    "Rainwater is a little acidic, about 5 to 6, because it takes in carbon dioxide from the air.",
+    "Sea water is a little basic, about 8.",
+    "Your blood stays very close to 7.4, whatever you eat."
+   ],
+   "perspectives": [],
+   "art": "A long coloured strip from red at 0 to purple at 7 to yellow at 14, with a lemon at 2, a cup of buttermilk at 4, a glass of water at 7, a box of cooking soda at 8 and a bar of soap at 10."
+  },
+  {
+   "concept": "When an acid meets a base",
+   "status": "defined",
+   "context": "What happens when you mix a sour thing with a soapy thing? This card is about acids and bases using each other up.",
+   "definition": "When an acid and a base are mixed, they react and use each other up. This is called neutralising. The mixture moves towards neutral, and a salt and water are made.",
+   "description": "Drop lemon juice on cooking soda and it fizzes. The acid and the base react, and the bubbles are a gas called carbon dioxide. Now try it in cabbage water. Pink lemony cabbage water turns purple again when you add enough soda water. Add more soda water, and it goes on to blue and then green. So you can move a liquid along the colour line in both directions. The acid particles from the lemon join up with base particles from the soda and make water. Class 4 goes further into this, with antacid tablets and the acid in our stomach.",
+   "examples": [
+    "Lemon juice dripped on cooking soda fizzes for a few seconds.",
+    "Dosa and idli batter sometimes get a pinch of cooking soda. It reacts with the sour batter and makes extra bubbles of gas, so the idlis come out light."
+   ],
+   "perspectives": [],
+   "art": "Two glasses side by side: in the first, pink cabbage water with lemon, and in the second, the same water after soda water is added, purple with tiny bubbles."
+  },
+  {
+   "concept": "Living beings that make acids",
+   "status": "defined",
+   "context": "Acids are not only in bottles. This card is about living beings who make acids, and how the acid helps their lives.",
+   "definition": "Many living beings make acids in their bodies and use them to protect themselves, to keep their food, or to break food down.",
+   "description": "The bacteria who turn milk into curd have a problem. Many other microbes want to eat the same milk. So curd bacteria eat the milk sugar and give out lactic acid. The milk turns sour and thick. Many of the microbes that would spoil milk grow badly in sour milk, so the curd bacteria keep the milk for themselves. That is also why curd keeps longer than milk. Weaver ants, the orange-red ants who build nests of leaves in mango trees, must guard their nests against much bigger animals. They bite, and then they squirt formic acid into the bite. It stings, so the attacker goes away. Formic acid is named after ants: formica is the Latin word for ant. Your own stomach makes a strong acid too. It helps break down food and kills many germs that you swallow.",
+   "examples": [
+    "Curd set overnight in a warm kitchen is more sour than curd set for a few hours.",
+    "A weaver ant's bite stings because of the formic acid squirted into it.",
+    "Idli and dosa batter turns sour as it ferments, because bacteria in it make acid."
+   ],
+   "perspectives": [],
+   "art": "Three panels: a bowl of curd with tiny rod-shaped bacteria drawn large beside it, a weaver ant on a mango leaf nest, and a simple outline of a child with the stomach shaded."
+  },
+  {
+   "concept": "Why red cabbage is purple",
+   "status": "idea",
+   "context": "Red cabbage did not make their purple pigment for our experiments. This card is about what the pigment may do for the cabbage.",
+   "definition": "Scientists think the purple anthocyanin pigments help protect a plant's leaves from strong sunlight and from cold. They are still studying exactly how.",
+   "description": "Green cabbage and red cabbage are the same kind of plant. Red cabbage makes a lot of anthocyanin. Many plants make more of these pigments when they are in bright sun or cold weather. The pigment sits near the surface of the leaf and seems to work like a light shade. It soaks up some of the strongest light before it reaches the parts of the leaf that make food. It may also help the leaf cope with cold. Anthocyanins also colour many fruits and flowers, such as jamun and black grapes. Those bright colours help call birds and insects. Scientists agree that anthocyanins do several jobs, and they still argue about which job matters most for each plant.",
+   "examples": [
+    "Young mango leaves are often reddish-brown before they turn green. Scientists think the red pigment shades the soft new leaf.",
+    "Jamun fruit stains your tongue purple with anthocyanin."
+   ],
+   "perspectives": [],
+   "art": "A red cabbage plant in a field in bright winter sun, with a zoomed-in circle showing a purple layer at the top of a leaf."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "Sour foods taste sour because they contain acids, such as citric acid in lemon and acetic acid in vinegar.",
+   "evidence": "Chemists have taken these acids out of the foods and studied them. Every one of these foods turns red cabbage water pink."
+  },
+  {
+   "text": "Red cabbage water changes colour with acids and bases: pink or red in acids, purple when neutral, blue, green or yellow in bases.",
+   "evidence": "Anyone can test it at home. Chemists have measured the colour at each pH number, and the pattern is the same every time."
+  },
+  {
+   "text": "How acidic or basic a watery liquid is can be given as a number on the pH scale, with 7 as neutral.",
+   "evidence": "pH meters and indicator papers are used every day in hospitals, farms, water works and kitchens, and they agree with each other."
+  },
+  {
+   "text": "Strong acids and strong bases can burn skin and eyes.",
+   "evidence": "Doctors treat such burns, and every bottle of toilet cleaner and drain cleaner carries a warning for this reason."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "All acids are dangerous.",
+   "who": "A common idea, because the word acid makes people think of burns",
+   "for": "Strong acids really do burn, and stories about acid are often about harm.",
+   "against": "We eat weak acids every day in lemon, curd, tamarind and tomato. Your own stomach makes acid. How strong an acid is, and how much there is, decides whether it is harmful.",
+   "status": "rejected",
+   "context": "This card is about the idea that every acid burns."
+  },
+  {
+   "claim": "Acids are dangerous but bases are safe.",
+   "who": "Many people, because soap and cooking soda are bases",
+   "for": "Soap and cooking soda are gentle, and we use them every day.",
+   "against": "Strong bases burn as badly as strong acids, and can hurt the eyes even more. Chuna and drain cleaner are strong bases.",
+   "status": "rejected",
+   "context": "This card is about the idea that only acids can hurt us."
+  },
+  {
+   "claim": "Drinking lemon water makes your blood less acidic.",
+   "who": "A claim often seen online and on food packets",
+   "for": "Lemon juice leaves behind substances that can make urine slightly less acidic.",
+   "against": "Your body keeps your blood very close to pH 7.4 all the time, whatever you eat or drink. If it moved far from that, you would be very ill. Lemon water is a fine drink, but it does not change your blood's pH.",
+   "status": "rejected",
+   "context": "This card is about a popular claim that foods change how acidic your blood is."
+  },
+  {
+   "claim": "Acids taste sour because their particles have sharp spikes that prick the tongue.",
+   "who": "Nicolas Lémery, a French chemist, in 1675",
+   "for": "It explained why acids feel sharp on the tongue, and why acids and bases fizz together.",
+   "against": "No one ever found spikes. Chemists later found that every acid gives out charged particles of hydrogen in water. That explains the sourness, and why acids and bases use each other up.",
+   "status": "rejected",
+   "context": "This card is about an old idea from the 1600s about why acids taste sour."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "Cabbage water showed many shades between pink and green. Where exactly does an acid stop and a base begin?",
+   "kind": "deep",
+   "hint": "Think about what plain water looked like, and about the in-between colours on each side of it."
+  },
+  {
+   "q": "The cabbage made its purple pigment for their own life, not for us. Why might a pigment that changes colour be useful to a plant?",
+   "kind": "deep",
+   "hint": "Think about the sunlight and cold a cabbage leaf meets, and about fruits and flowers with the same pigment."
+  },
+  {
+   "q": "Your tongue tastes sour, and the cabbage water shows pink. Are your tongue and the cabbage water noticing the same thing?",
+   "kind": "deep",
+   "hint": "Think about lemon, vinegar and curd. Which ones taste most sour, and which turned the water pinkest?"
+  },
+  {
+   "q": "Your stomach is full of acid, yet the stomach is not burnt by it. How might a body keep a strong acid in one place and not in another?",
+   "kind": "big",
+   "hint": "Think of a pickle jar: what keeps the sour pickle from eating through the jar?"
+  },
+  {
+   "q": "Rain is a little acidic and the sea is a little basic. If people change the air, could the whole sea move along the line?",
+   "kind": "big",
+   "hint": "Think about what made the rain acidic. The sea takes in that same gas from the air."
+  }
+ ],
+ "story": {
+  "title": "The Blue Poriyal",
+  "mins": 10,
+  "read_aloud": true,
+  "note": "The story is made up. The cabbage science is true: a pinch of cooking soda turns cooked red cabbage blue or blue-green, and lemon juice turns it back towards pink-purple. Cooks add a squeeze of something sour to keep red cabbage red.",
+  "text": [
+   "It was a Sunday in Mysuru, and Thatha had decided to cook lunch. He had cooked beans poriyal a hundred times. But today he had bought something new from the vegetable shop: a red cabbage, round and heavy, with leaves the colour of a deep bruise.",
+   "Lakshmi was nine. She sat on the kitchen stool and watched him. Her little brother Arjun sat on the floor, rolling a lemon about like a ball.",
+   "Thatha chopped the purple leaves into thin strips. He heated oil in the kadai and added mustard seeds. They popped and jumped. Then he added curry leaves, and the kitchen smelled of every good lunch Lakshmi could remember.",
+   "\"Your Paati always added a pinch of cooking soda to beans,\" Thatha said. \"It keeps them bright green. So I will add a pinch to this cabbage, and it will stay bright purple.\" He shook a little white powder into the kadai and stirred.",
+   "The cabbage hissed. Then, very slowly, it began to change. The purple went dull. Then it went blue. At the edges of the pan, where the soda had landed thickest, it was almost green.",
+   "\"Thatha!\" shouted Arjun. \"The cabbage has gone blue!\"",
+   "Thatha frowned. He lifted a strip on the spoon and sniffed it. \"It smells all right,\" he said. \"Maybe the cabbage was old. Maybe the shop sold me a bad one.\"",
+   "Lunch was rice, rasam and a heap of blue-green poriyal on each steel plate. Nobody wanted to touch the poriyal. Arjun pushed his to the edge of the plate. \"Blue food is for aliens,\" he said.",
+   "Amma came to the table last. She always squeezed lemon over her vegetables, so she squeezed half a lemon over her poriyal without looking.",
+   "Lakshmi stopped chewing. Where the lemon juice had landed, the blue strips were turning purple. Some were even going pink.",
+   "\"Amma, look at your plate,\" she said.",
+   "Amma looked. Thatha looked. Arjun climbed onto his chair to look. The lemon had painted pink spots on the blue cabbage.",
+   "\"So the cabbage is not spoiled,\" said Lakshmi slowly. \"It changes colour. The soda made it blue, and the lemon is making it pink again.\"",
+   "After lunch, Lakshmi wanted to find out properly. Amma helped her put two raw cabbage leaves in the mixie jar with two cups of water. They blended it, and strained it through the tea strainer. The water came out a deep, dark purple.",
+   "Lakshmi poured a little into three clear glasses and stood them on a white sheet of paper. Into the first glass she squeezed a few drops of lemon. It turned pink at once. Into the second she stirred a pinch of cooking soda. It turned blue, and when she added more, it turned green. The third glass she left alone. It stayed purple.",
+   "\"Thatha, come and see,\" she called. \"The cabbage wasn't old. The soda did it. Cabbage colour is a kind of signal. Pink means sour, and blue or green means soapy, like soda.\"",
+   "Thatha sat down heavily beside the glasses. \"So Paati's trick for beans is the wrong trick for this cabbage,\" he said. \"Then how do I keep it purple?\"",
+   "\"No soda,\" said Lakshmi. \"And maybe a little lemon at the end, so it stays pink-purple.\"",
+   "Arjun had been listening. \"What about soap?\" he asked. \"Soap is soapy.\"",
+   "So Amma rubbed the bar of soap in a little water, and Lakshmi poured the soapy water into a fourth glass of cabbage water. It turned blue-green, close to the soda glass.",
+   "Then Lakshmi had an idea. She took more glasses and tested everything she was allowed to: vinegar, buttermilk, sugar water, salt water. She lined them up on the windowsill, from the pinkest to the greenest. Vinegar went next to the lemon. Buttermilk was a soft pink-purple, so it went a little closer to the middle. The sugar water and the salt water stayed purple, just like the plain water.",
+   "In the afternoon light the glasses looked like a road. Lemon was at one end. Soap and soda were at the other. Plain water sat in the middle.",
+   "\"It isn't just sour or soapy,\" said Lakshmi. \"There are lots of in-betweens. Everything has its own place on the road.\"",
+   "Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: \"No soda. Lemon at the end.\" Then he thought for a moment and added one more line: \"Ask Lakshmi why.\""
+  ],
+  "epiphany": "For the parent: red cabbage holds a purple pigment, anthocyanin, that changes colour with acids and bases. The cooking soda Thatha added is a weak base, so it turned the cabbage blue and green. Amma's lemon juice is an acid, so where it landed the cabbage turned back towards pink. Lakshmi's row of glasses shows the main idea of the unit: liquids are not just acid or base. They sit along one line, from very sour to very soapy, with neutral water in the middle.",
+  "ask": [
+   "Why did the cabbage turn blue in Thatha's kadai?",
+   "What made the blue cabbage on Amma's plate turn pink?",
+   "Why did Lakshmi keep one glass of cabbage water with nothing added?",
+   "Buttermilk went near the middle, but on the pink side. What does that tell you about buttermilk?",
+   "Thatha thought the cabbage was old. What did Lakshmi do to test his idea?"
+  ],
+  "art": [
+   "A kitchen in a Mysuru flat, an old man in a veshti chopping a red cabbage, a girl of nine on a stool watching, and a small boy rolling a lemon on the floor.",
+   "A kadai of cabbage turning from purple to blue, with greenish edges, and the old man frowning over it with a spoon.",
+   "Steel plates of rice, rasam and blue-green poriyal, and a woman squeezing a lemon that leaves pink spots on the blue cabbage.",
+   "A girl pouring dark purple cabbage water through a tea strainer into a jug, her mother holding the mixie jar.",
+   "A row of clear glasses on a sunny windowsill, from pink through purple to blue-green, with a lemon at one end and a bar of soap at the other.",
+   "The old man writing in a worn recipe notebook while the girl and boy look over his shoulder."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "Sour, Soapy or Neutral? a sorting card game",
+   "mins": 12,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a card game about acids, bases and neutral things. Each card names something from home. You place it under Sour, Soapy or Neutral, then turn it over to check.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "18 two-sided cards: the thing on the front, the answer and the cabbage colour on the back",
+     "items": [
+      {
+       "f": "Lemon juice",
+       "b": "Sour (acid). Cabbage water turns pink or red."
+      },
+      {
+       "f": "Vinegar",
+       "b": "Sour (acid). Cabbage water turns pink."
+      },
+      {
+       "f": "Tamarind water",
+       "b": "Sour (acid). Cabbage water turns pink."
+      },
+      {
+       "f": "Curd",
+       "b": "Sour (acid). Cabbage water turns pink-purple."
+      },
+      {
+       "f": "Buttermilk",
+       "b": "Sour (acid), a weak one. Cabbage water turns pink-purple."
+      },
+      {
+       "f": "Tomato juice",
+       "b": "Sour (acid). Cabbage water turns pinkish."
+      },
+      {
+       "f": "Amla juice",
+       "b": "Sour (acid). Cabbage water turns pink."
+      },
+      {
+       "f": "Bath soap in water",
+       "b": "Soapy (base). Cabbage water turns blue-green."
+      },
+      {
+       "f": "Detergent powder in water",
+       "b": "Soapy (base). Cabbage water turns green."
+      },
+      {
+       "f": "Cooking soda in water",
+       "b": "Soapy (base), a weak one. Cabbage water turns blue."
+      },
+      {
+       "f": "Washing soda in water",
+       "b": "Soapy (base). Cabbage water turns green."
+      },
+      {
+       "f": "Chuna (lime paste)",
+       "b": "Soapy (base), a strong one. Grown-ups only: it burns."
+      },
+      {
+       "f": "Toilet cleaner",
+       "b": "Many are a strong acid. Grown-ups only: it burns."
+      },
+      {
+       "f": "Plain water",
+       "b": "Neutral. Cabbage water stays purple."
+      },
+      {
+       "f": "Sugar water",
+       "b": "Neutral. Cabbage water stays purple."
+      },
+      {
+       "f": "Salt water",
+       "b": "Neutral. Salty is not sour. Cabbage water stays purple."
+      },
+      {
+       "f": "Milk",
+       "b": "Almost neutral, a tiny bit acidic. Cabbage water stays purple or lilac."
+      },
+      {
+       "f": "Rainwater",
+       "b": "A little sour (a weak acid), because it takes in carbon dioxide from the air."
+      }
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "3 heading cards",
+     "items": [
+      "SOUR (acid)",
+      "NEUTRAL",
+      "SOAPY (base)"
+     ]
+    }
+   ],
+   "rules": [
+    "Lay the three heading cards in a row: Sour, Neutral, Soapy.",
+    "Shuffle the 18 cards and put them in a pile, front side up.",
+    "Take turns. Pick the top card, read it aloud, and place it under a heading. Say why.",
+    "Turn the card over to check. A right answer scores 1 point. A good reason scores 1 more point.",
+    "Playing alone, sort all 18 cards, then turn them over and count your right answers.",
+    "After all 18 cards, the most points wins."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Lay out the heading cards and shuffle the pile.",
+     "say": "Every card is something from a home. Is it sour, neutral or soapy? You must give a reason.",
+     "kid": "Pick a card. Sour, neutral or soapy? Say why.",
+     "context": "This is the start of Sour, Soapy or Neutral?, a sorting card game."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "Play until the pile is finished. After each card, turn it over and read the back.",
+     "say": "What is your reason? Now let's turn it over and check.",
+     "kid": "Place the card. Say why. Turn it over. Were you right?",
+     "check": {
+      "t": "mcq",
+      "q": "The card says 'Salt water'. Where does it go?",
+      "options": [
+       "Neutral",
+       "Sour",
+       "Soapy"
+      ],
+      "a": 0,
+      "why": "Salt water leaves cabbage water purple, so it is neutral. Salt has a strong taste, but salty is a different taste from sour. If you picked Sour, test salt water with cabbage water and see."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Look at the Grown-ups only cards together.",
+     "say": "Chuna and toilet cleaner go at the two far ends. What do they have in common?",
+     "kid": "Chuna and toilet cleaner. Why are they for grown-ups only?",
+     "parent": "They are at opposite ends of the line, but both are strong, so both burn. Strength matters more than which side a thing is on."
+    }
+   ],
+   "setup": [
+    {
+     "art": "Three heading cards in a row on a table, Sour, Neutral and Soapy, with a pile of small cards beside them.",
+     "caption": "1. Lay out the three heading cards and the pile."
+    },
+    {
+     "art": "A child placing a card that says 'Lemon juice' under the Sour heading, then turning it over to read the back.",
+     "caption": "2. Place a card, say why, then turn it over to check."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Back to Purple: a colour line board game",
+   "mins": 15,
+   "players": [
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a board game on the colour line. Each player starts as a liquid at one place on the line. Cards tell you what is added, and you move towards pink or towards green. The first to land exactly on purple wins.",
+   "printables": [
+    {
+     "kind": "board",
+     "title": "13 squares in a row, coloured and numbered from 1 at the pink end to 13 at the green end",
+     "items": [
+      "1: red (strong acid)",
+      "2: red-pink",
+      "3: pink",
+      "4: pink",
+      "5: pink-purple",
+      "6: lilac",
+      "7: PURPLE (neutral, the winning square)",
+      "8: violet-blue",
+      "9: blue",
+      "10: blue-green",
+      "11: green",
+      "12: green",
+      "13: yellow-green (strong base)"
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "6 start cards",
+     "items": [
+      {
+       "f": "Start: lemon juice",
+       "b": "Put your token on square 2."
+      },
+      {
+       "f": "Start: vinegar",
+       "b": "Put your token on square 3."
+      },
+      {
+       "f": "Start: buttermilk",
+       "b": "Put your token on square 5."
+      },
+      {
+       "f": "Start: cooking soda water",
+       "b": "Put your token on square 9."
+      },
+      {
+       "f": "Start: soapy water",
+       "b": "Put your token on square 10."
+      },
+      {
+       "f": "Start: detergent water",
+       "b": "Put your token on square 12."
+      }
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "24 action cards",
+     "items": [
+      {
+       "f": "Add a spoon of lemon juice.",
+       "b": "Move 2 squares towards pink."
+      },
+      {
+       "f": "Add a spoon of lemon juice.",
+       "b": "Move 2 squares towards pink."
+      },
+      {
+       "f": "Add a spoon of lemon juice.",
+       "b": "Move 2 squares towards pink."
+      },
+      {
+       "f": "Add a spoon of vinegar.",
+       "b": "Move 2 squares towards pink."
+      },
+      {
+       "f": "Add a spoon of vinegar.",
+       "b": "Move 2 squares towards pink."
+      },
+      {
+       "f": "Add a spoon of buttermilk.",
+       "b": "Move 1 square towards pink."
+      },
+      {
+       "f": "Add a spoon of buttermilk.",
+       "b": "Move 1 square towards pink."
+      },
+      {
+       "f": "Add a spoon of buttermilk.",
+       "b": "Move 1 square towards pink."
+      },
+      {
+       "f": "Add a spoon of cooking soda water.",
+       "b": "Move 1 square towards green."
+      },
+      {
+       "f": "Add a spoon of cooking soda water.",
+       "b": "Move 1 square towards green."
+      },
+      {
+       "f": "Add a spoon of cooking soda water.",
+       "b": "Move 1 square towards green."
+      },
+      {
+       "f": "Add a spoon of soapy water.",
+       "b": "Move 2 squares towards green."
+      },
+      {
+       "f": "Add a spoon of soapy water.",
+       "b": "Move 2 squares towards green."
+      },
+      {
+       "f": "Add a spoon of detergent water.",
+       "b": "Move 2 squares towards green."
+      },
+      {
+       "f": "Add a spoon of detergent water.",
+       "b": "Move 2 squares towards green."
+      },
+      {
+       "f": "Add a spoon of sugar water.",
+       "b": "Sugar is neutral. Stay where you are."
+      },
+      {
+       "f": "Add a spoon of sugar water.",
+       "b": "Sugar is neutral. Stay where you are."
+      },
+      {
+       "f": "Add a spoon of salt water.",
+       "b": "Salt is neutral. Stay where you are."
+      },
+      {
+       "f": "Add a spoon of salt water.",
+       "b": "Salt is neutral. Stay where you are."
+      },
+      {
+       "f": "Add a big jug of plain water.",
+       "b": "Lots of water makes it weaker. Move 1 square towards purple."
+      },
+      {
+       "f": "Add a big jug of plain water.",
+       "b": "Lots of water makes it weaker. Move 1 square towards purple."
+      },
+      {
+       "f": "Add a big jug of plain water.",
+       "b": "Lots of water makes it weaker. Move 1 square towards purple."
+      },
+      {
+       "f": "Your choice: lemon or soda.",
+       "b": "Move 1 square towards pink or 1 square towards green. You choose."
+      },
+      {
+       "f": "Your choice: lemon or soda.",
+       "b": "Move 1 square towards pink or 1 square towards green. You choose."
+      }
+     ]
+    },
+    {
+     "kind": "tokens",
+     "title": "4 player tokens",
+     "items": [
+      "token 1",
+      "token 2",
+      "token 3",
+      "token 4"
+     ]
+    }
+   ],
+   "rules": [
+    "Each player draws a start card and puts their token on that square.",
+    "Shuffle the action cards into a pile, face down.",
+    "On your turn, draw an action card, read the front aloud, say which way you think you will move, then read the back and move.",
+    "You cannot move past square 1 or square 13. Stop at the end square.",
+    "If you land exactly on square 7, purple, you win. If you pass it, keep playing from where you are.",
+    "When the pile runs out, shuffle it and use it again."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "Set out the board and tokens. Each player draws a start card.",
+     "say": "You are a glass of cabbage water with something added. Where are you on the line? Your goal is to get back to purple.",
+     "kid": "Draw a start card. Put your token on that square. Get back to purple to win.",
+     "context": "This is the start of Back to Purple, a board game on the colour line."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Take turns. Before moving, the player says which way they will move.",
+     "say": "You added lemon juice. Which way will you move, towards pink or towards green? Why?",
+     "kid": "Read your card. Which way will you move? Why? Now move.",
+     "check": {
+      "t": "mcq",
+      "q": "Your token is on square 10, blue-green. Which card would help you most to get back to purple?",
+      "options": [
+       "Add a spoon of lemon juice",
+       "Add a spoon of soapy water",
+       "Add a spoon of sugar water"
+      ],
+      "a": 0,
+      "why": "Square 10 is on the base side, so you need an acid to move back towards purple. Lemon juice moves you 2 squares towards pink. Soapy water would push you further towards green, and sugar water does not move you at all."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "After the game, talk about the plain water card.",
+     "say": "Why did lots of plain water move you one square towards purple?",
+     "kid": "Why does lots of plain water move you towards purple?",
+     "parent": "Adding a lot of water makes an acid or a base weaker, so the liquid moves a little towards neutral. It never crosses to the other side. Only a base can move an acid past purple towards green."
+    }
+   ],
+   "setup": [
+    {
+     "art": "A paper strip of 13 coloured squares from red to purple in the middle to yellow-green, with tokens on squares 2 and 10.",
+     "caption": "1. Put your token on the square from your start card."
+    },
+    {
+     "art": "A hand holding an action card saying 'Add a spoon of lemon juice', and a token moving two squares towards the pink end.",
+     "caption": "2. Draw a card, say which way you will move, then move."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Cabbage Colour Line: where does each kitchen liquid sit?",
+   "mins": 35,
+   "days": 1,
+   "context": "This is the main test of the unit. You add kitchen liquids to red cabbage water, see what colour each one makes, and line them up from pinkest to greenest.",
+   "question": "Which kitchen liquids turn red cabbage water pink, which leave it purple, and which turn it blue or green? In what order do they line up?",
+   "predict": "Look at the eight liquids. Which ones do you think will turn the cabbage water pink, which will leave it purple, and which will turn it blue or green? Why do you think so?",
+   "fair_test": "Every glass gets the same amount of cabbage water, a quarter of a cup. Every liquid goes in as two teaspoons. Powders are first stirred into a little water. Only the liquid changes. One glass gets two teaspoons of plain water, so you can compare every other colour with it.",
+   "results_table": [
+    "Liquid",
+    "My guess: pink, purple or blue-green?",
+    "Colour I saw",
+    "Acid, neutral or base?",
+    "Place in the line (1 = pinkest)"
+   ],
+   "materials": [
+    {
+     "item": "2 big red cabbage leaves, or about a cup of chopped red cabbage. No red cabbage? Use a handful of blue butterfly pea flowers (sangu poo), fresh or dried, soaked in hot water.",
+     "qty": 1,
+     "buy": "b-cabbage"
+    },
+    {
+     "item": "a mixie, 2 cups of water, a tea strainer and a jug",
+     "qty": 1
+    },
+    {
+     "item": "clear glasses or small clear plastic cups (white cups work too). Steel tumblers hide the colour.",
+     "qty": 8
+    },
+    {
+     "item": "the test liquids: lemon juice, vinegar (or amla juice), buttermilk (curd mixed with water), sugar water, salt water, cooking soda water (half a teaspoon of cooking soda in 2 tablespoons of water), soapy water (a bath soap rubbed in a little water), detergent water (a pinch of washing powder in 2 tablespoons of water)",
+     "qty": 8
+    },
+    {
+     "item": "plain water, for the control glass",
+     "qty": 1
+    },
+    {
+     "item": "a teaspoon, a quarter-cup measure, a white sheet of paper, small paper labels and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "crayons or colour pencils in pink, purple, blue and green",
+     "qty": 1
+    }
+   ],
+   "safety": "Taste nothing in this test. A grown-up makes the detergent water and keeps it away from eyes and mouth. Wash hands after touching soap or detergent. Never use toilet cleaner, drain cleaner or chuna: they are strong enough to burn.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 35,
+     "what": "Make cabbage water. Guess, then test eight liquids and one control. Line the glasses up from pinkest to greenest."
+    }
+   ],
+   "record": "Fill in the table. Then colour a long strip with a box for each liquid in the order of your line, from pinkest to greenest, and write the liquid's name under each box.",
+   "setup": [
+    {
+     "art": "Two red cabbage leaves torn into a mixie jar with water, and a tea strainer over a jug of dark purple water beside it.",
+     "caption": "1. Blend two cabbage leaves with two cups of water. Strain it."
+    },
+    {
+     "art": "Nine clear glasses on a white sheet of paper, each with a little purple water and a paper label in front.",
+     "caption": "2. Pour a quarter cup into each glass. Label them."
+    },
+    {
+     "art": "A teaspoon pouring lemon juice into one glass, which turns pink, while the glasses next to it are blue and green.",
+     "caption": "3. Add two teaspoons of one liquid to each glass. Watch the colour."
+    },
+    {
+     "art": "The glasses moved into a row from pink through purple to green, with a hand moving the last glass into place.",
+     "caption": "4. Line the glasses up from pinkest to greenest."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 7,
+     "do": "1. Tear two red cabbage leaves into the mixie jar. 2. Add two cups of water. 3. Blend for about 30 seconds. 4. Pour it through a tea strainer into a jug.",
+     "say": "We are making cabbage water. The purple colour in the leaves will come out into the water. Look how dark it is.",
+     "kid": "Tear two cabbage leaves into the mixie jar. Add water. A grown-up blends it. Pour it through the strainer.",
+     "adult": true,
+     "parent": "The water should come out dark purple. If it looks very dark, add another cup of water, so the colour changes are easier to see. Cabbage water keeps for two or three days in the fridge.",
+     "context": "This is the first step of the Cabbage Colour Line test. Here you make red cabbage water, the indicator."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Put nine clear glasses on a white sheet of paper. 2. Pour a quarter cup of cabbage water into each. 3. Put a label in front of each glass with a liquid's name. One label says 'plain water'.",
+     "say": "Each glass gets the same amount of cabbage water. Why do you think we keep one glass for plain water?",
+     "kid": "Pour the same amount into each glass. Put a label in front of each one.",
+     "ask": [
+      {
+       "q": "Why do we keep one glass for plain water?",
+       "good": [
+        "So we can see what colour it is when nothing sour or soapy is added.",
+        "To compare the other glasses with it."
+       ]
+      }
+     ],
+     "parent": "The white paper underneath makes the colours much easier to see. The plain water glass is the control: it shows the colour with nothing added."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Show your child the eight liquids. 2. Ask them to guess the colour each will make. 3. Write each guess in the table, with a reason.",
+     "say": "Look at the liquids. Which will turn the water pink? Which will leave it purple? Which will make it blue or green? Why do you think so?",
+     "kid": "Guess the colour for each liquid. Pink, purple, or blue-green? Say why.",
+     "parent": "Do not tell them the answers. Children often guess that salt water will change the colour because salt tastes strong. Let the test answer it."
+    },
+    {
+     "id": "s4",
+     "mins": 10,
+     "do": "1. Add two teaspoons of the first liquid to its glass. 2. Stir and look. 3. Write the colour. 4. Rinse the spoon and go on to the next liquid.",
+     "say": "Add two spoons and watch closely. Compare it with the plain water glass. What colour is it now?",
+     "kid": "Add two spoons of one liquid. Stir. Compare it with the plain water. Write the colour.",
+     "adult": true,
+     "parent": "What you should see: lemon juice makes a bright pink or red. Vinegar or amla juice makes pink. Buttermilk makes a soft pink-purple. Sugar water and salt water stay purple, like the plain water. Cooking soda water turns blue or blue-green. Soapy water turns blue-green. Detergent water turns green, sometimes with a yellow tint. If your tap water makes the control glass bluish, that is fine: compare every glass with it. Rinse the spoon each time, or the colours will mix."
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "do": "Ask your child to move the glasses into one row, from the pinkest to the greenest.",
+     "say": "Now make a line. Put the pinkest glass at one end and the greenest at the other. Where does each glass go?",
+     "kid": "Move the glasses into a line. Pinkest at one end. Greenest at the other end.",
+     "check": {
+      "t": "mcq",
+      "q": "The salt water glass stayed the same purple as the plain water glass. What does that tell you?",
+      "options": [
+       "Salt water is neutral: it is neither an acid nor a base",
+       "Salt water is a strong acid",
+       "The cabbage water has stopped working"
+      ],
+      "a": 0,
+      "why": "Salt water is neutral, so it leaves the cabbage water purple. Salt tastes strong, but salty is not the same as sour or soapy. The cabbage water was still working, because the lemon glass next to it turned pink."
+     }
+    },
+    {
+     "id": "s6",
+     "mins": 4,
+     "do": "Ask your child to say or write three things. What I think. What I saw. Why I think it happened.",
+     "say": "Tell me three things. What do you think now? What did you see that shows it? Why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "parent": "This is called claim, evidence and reasoning. A strong answer sounds like this: 'Sour things are acids. Lemon and vinegar turned the water pink. Soap and soda turned it green, so they are bases. Buttermilk was only a bit pink, so it is only a bit acidic.' Then colour the strip in the record."
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "Lemon or Buttermilk: which needs more soda water to turn purple again?",
+   "mins": 25,
+   "days": 1,
+   "context": "This test follows the Cabbage Colour Line. You add soda water spoon by spoon to pink cabbage water, and count how many spoons it takes to turn it purple.",
+   "question": "Pink cabbage water made with lemon juice, and pink cabbage water made with buttermilk: which one needs more spoons of soda water to turn purple again?",
+   "predict": "Which glass do you think will need more spoons of soda water to turn purple: the lemon glass or the buttermilk glass? Why do you think so?",
+   "fair_test": "Both glasses get a quarter cup of cabbage water and one teaspoon of the sour liquid. Both get the same soda water, one teaspoon at a time, stirred each time. Stop counting when the glass is the same purple as a glass of plain cabbage water.",
+   "results_table": [
+    "Sour liquid",
+    "Colour at the start",
+    "My guess: spoons to purple",
+    "Spoons of soda water to purple",
+    "Colour after 3 more spoons"
+   ],
+   "materials": [
+    {
+     "item": "2 big red cabbage leaves, or about a cup of chopped red cabbage. No red cabbage? Use a handful of blue butterfly pea flowers (sangu poo), fresh or dried, soaked in hot water.",
+     "qty": 1,
+     "buy": "b-cabbage"
+    },
+    {
+     "item": "a mixie, 2 cups of water, a tea strainer and a jug",
+     "qty": 1
+    },
+    {
+     "item": "3 clear glasses",
+     "qty": 3
+    },
+    {
+     "item": "1 teaspoon of lemon juice and 1 teaspoon of buttermilk",
+     "qty": 1
+    },
+    {
+     "item": "weak soda water: a quarter teaspoon of cooking soda stirred into half a cup of water",
+     "qty": 1
+    },
+    {
+     "item": "a teaspoon, a white sheet of paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Taste nothing in this test. Cooking soda and lemon are safe to handle, but keep them out of eyes.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Make two pink glasses, one with lemon and one with buttermilk. Add soda water spoon by spoon and count the spoons to purple."
+    }
+   ],
+   "record": "Fill in the table. Draw the two glasses at the start and at the end, and write the number of spoons under each.",
+   "setup": [
+    {
+     "art": "Three clear glasses of cabbage water on white paper: one pink with a lemon beside it, one pale pink with a cup of buttermilk beside it, and one purple.",
+     "caption": "1. Make a lemon glass, a buttermilk glass and a plain purple glass."
+    },
+    {
+     "art": "A teaspoon pouring soda water into the pink lemon glass, with a few tiny bubbles rising.",
+     "caption": "2. Add soda water one spoon at a time. Stir and count."
+    },
+    {
+     "art": "The lemon glass now the same purple as the plain glass, with a tally of spoons written on paper below it.",
+     "caption": "3. Stop when it matches the purple glass. Write the number."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Pour a quarter cup of cabbage water into each of three glasses. 2. Add one teaspoon of lemon juice to the first glass. 3. Add one teaspoon of buttermilk to the second. 4. Leave the third glass plain.",
+     "say": "Which glass is pinker, the lemon or the buttermilk? The plain glass shows us the purple we are aiming for.",
+     "kid": "Fill three glasses. Add lemon to one. Add buttermilk to one. Leave one plain.",
+     "context": "This is the first step of the Lemon or Buttermilk test. Here you make two pink glasses to turn back to purple."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Ask for a guess and a reason. Write it in the table.",
+     "say": "Soda water moves the colour towards blue. Which pink glass will need more spoons of soda water to become purple? Why?",
+     "kid": "Which glass needs more spoons to turn purple? Lemon or buttermilk? Why?",
+     "ask": [
+      {
+       "q": "Why do you think so?",
+       "good": [
+        "The lemon glass is pinker, so it has more acid to use up.",
+        "Lemon tastes more sour than buttermilk."
+       ]
+      }
+     ],
+     "parent": "Any reason is good if it is their own. The pinker glass hints that lemon juice is the stronger acid."
+    },
+    {
+     "id": "s3",
+     "mins": 9,
+     "do": "1. Add one teaspoon of soda water to the lemon glass. 2. Stir and compare it with the plain glass. 3. Make a tally mark. 4. Repeat until it matches the purple. 5. Do the same with the buttermilk glass.",
+     "say": "One spoon, stir, and look. Is it purple yet? Keep count with tally marks.",
+     "kid": "Add one spoon of soda water. Stir. Look. Make a tally mark. Keep going until it is purple.",
+     "parent": "You may see tiny bubbles in the lemon glass. That is carbon dioxide, made as the acid and the soda react. The lemon glass usually needs several spoons, often five or more. The buttermilk glass usually needs only one or two. Your numbers will depend on your lemon and your curd. That is fine: what matters is which needs more."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "Add three more spoons of soda water to the lemon glass, and watch.",
+     "say": "It is purple now. What do you think will happen if we keep adding soda water?",
+     "kid": "Add three more spoons. What colour does it go now?",
+     "parent": "It should go on to blue, and perhaps blue-green. The same glass has travelled from the pink end, past the middle, towards the green end.",
+     "check": {
+      "t": "mcq",
+      "q": "The lemon glass needed more spoons of soda water than the buttermilk glass. What does this show?",
+      "options": [
+       "The lemon juice had more acid in it to use up",
+       "Lemon juice is a base",
+       "Buttermilk has no acid in it at all"
+      ],
+      "a": 0,
+      "why": "Each spoon of soda water uses up some acid. The lemon glass needed more spoons, so it had more acid. Buttermilk does have some acid, which is why it turned pink at all, but less than lemon juice."
+     }
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "Ask for a claim, the evidence and the reasoning.",
+     "say": "What did you find? What did you see that shows it? Why do you think it happened?",
+     "kid": "What did you find? What did you see? Why?",
+     "parent": "A strong answer: 'Lemon juice has more acid than buttermilk. The lemon glass took six spoons to turn purple and the buttermilk took one. The soda water uses up the acid, so more acid needs more soda.'"
+    }
+   ]
+  },
+  {
+   "id": "e3",
+   "title": "Milk to Curd: does the colour change as the curd sets?",
+   "mins": 20,
+   "days": 2,
+   "context": "This is a two-day test about living beings who make acid. You set curd in two katoris on two different days, then test fresh milk and both curds with cabbage water side by side.",
+   "question": "Does milk become more acidic as curd bacteria turn it into curd, and does curd keep getting more acidic the longer it sits?",
+   "predict": "Which will turn cabbage water pinkest: fresh milk, curd set for one day, or curd set for two days? Why do you think so?",
+   "fair_test": "Use the same milk and the same spoon of starter curd for both katoris. Keep both katoris in the same place in the kitchen, covered. On the test day, put one teaspoon of each into a quarter cup of cabbage water, all at the same time, side by side.",
+   "results_table": [
+    "Sample",
+    "How long it sat",
+    "My guess: colour",
+    "Colour I saw",
+    "Order: 1 = pinkest"
+   ],
+   "materials": [
+    {
+     "item": "boiled milk, cooled until it feels just warm on your finger, about a cup",
+     "qty": 1
+    },
+    {
+     "item": "a teaspoon of curd from the last batch, as the starter",
+     "qty": 1
+    },
+    {
+     "item": "2 small katoris with lids or plates to cover them",
+     "qty": 2
+    },
+    {
+     "item": "2 big red cabbage leaves, or about a cup of chopped red cabbage. No red cabbage? Use a handful of blue butterfly pea flowers (sangu poo), fresh or dried, soaked in hot water.",
+     "qty": 1,
+     "buy": "b-cabbage"
+    },
+    {
+     "item": "a mixie, 2 cups of water, a tea strainer and a jug",
+     "qty": 1
+    },
+    {
+     "item": "3 clear glasses, a teaspoon, a white sheet of paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up boils the milk and checks it has cooled before the child touches it.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 5,
+     "what": "Morning: set curd in katori A with half a cup of warm milk and half a teaspoon of curd. Cover it."
+    },
+    {
+     "day": 2,
+     "mins": 15,
+     "what": "Morning: set curd in katori B the same way. Evening: make cabbage water and test fresh milk, katori B and katori A side by side."
+    }
+   ],
+   "record": "Fill in the table. Draw the three glasses side by side and colour them.",
+   "setup": [
+    {
+     "art": "A child's hand stirring half a teaspoon of curd into a small steel katori of warm milk, with a paper label 'A, Day 1'.",
+     "caption": "1. Day 1: set curd in katori A."
+    },
+    {
+     "art": "A second katori labelled 'B, Day 2' being covered with a plate, next to katori A which has set thick.",
+     "caption": "2. Day 2 morning: set curd in katori B."
+    },
+    {
+     "art": "Three clear glasses of cabbage water on white paper labelled milk, B and A, coloured purple, pink-purple and pinker.",
+     "caption": "3. Day 2 evening: test milk, B and A side by side."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Pour half a cup of warm milk into katori A. 2. Stir in half a teaspoon of curd. 3. Cover it and label it 'A, Day 1'. 4. Keep it in a warm corner of the kitchen.",
+     "say": "The curd we add is full of living bacteria. They will eat the milk sugar. Feel the milk first: is it just warm?",
+     "kid": "Feel the milk. Is it just warm? Stir in a little curd. Cover it.",
+     "adult": true,
+     "parent": "Milk that is too hot can kill the bacteria, and cold milk sets very slowly. Just warm on a finger is right. In most Indian kitchens curd sets in 6 to 10 hours, faster in summer.",
+     "context": "This is the first step of the Milk to Curd test. Here you start the first katori of curd."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "On day 2 in the morning, set katori B the same way, and label it 'B, Day 2'. Look at katori A.",
+     "say": "Katori A has set. Smell it. Has it changed since yesterday? Now we start katori B with the same milk.",
+     "kid": "Set katori B the same way. Look at katori A. Smell it. Is it sour?",
+     "adult": true,
+     "wait": "Set katori B on the morning of day 2. Test in the evening.",
+     "parent": "Use milk from the same packet if you can, so only the time changes."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "In the evening, ask for a guess and a reason before testing.",
+     "say": "Fresh milk, katori B and katori A. Which will make the cabbage water pinkest? Why do you think so?",
+     "kid": "Which one will be pinkest? Milk, B or A? Why?",
+     "ask": [
+      {
+       "q": "Why do you think so?",
+       "good": [
+        "Katori A has had longest, so the bacteria have made the most acid.",
+        "Older curd tastes more sour."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "1. Pour a quarter cup of cabbage water into three glasses on white paper. 2. Add one teaspoon of fresh milk to the first, katori B curd to the second, and katori A curd to the third. 3. Stir and compare.",
+     "say": "Hold the glasses close together. Which is the most purple? Which is the pinkest?",
+     "kid": "Add milk to one glass. Add curd B to one. Add curd A to one. Which is pinkest?",
+     "parent": "The milk glass should stay lilac-purple. Both curd glasses turn pinker, and the older curd is often a little pinker still. The milk makes all the colours pale, so look closely side by side. If B and A look the same, say so: that is a real result. It may mean most of the acid was made in the first hours.",
+     "check": {
+      "t": "mcq",
+      "q": "The curd glasses were pinker than the milk glass. Where did the acid come from?",
+      "options": [
+       "The curd bacteria made it while they ate the milk sugar",
+       "The katori added it",
+       "The cabbage water made it"
+      ],
+      "a": 0,
+      "why": "Curd bacteria eat the sugar in milk and give out lactic acid. That turns milk into sour curd. The katori and the cabbage water were the same for all three, so they cannot explain the difference."
+     }
+    },
+    {
+     "id": "s5",
+     "mins": 2,
+     "do": "Talk about why the bacteria make acid.",
+     "say": "Many other microbes would like to eat this milk too. Most of them do not grow well in sour milk. How does the acid help the curd bacteria?",
+     "kid": "Other microbes want the milk too. How does sourness help the curd bacteria?",
+     "parent": "A good answer: the acid keeps many other microbes away, so the curd bacteria keep the milk for themselves. It is also why curd stays good longer than milk."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The Purple Surprise: make cabbage water",
+   "mins": 10,
+   "days": 1,
+   "context": "This is a first look for the acids and bases unit. You make red cabbage water and see what one squeeze of lemon does to it.",
+   "materials": [
+    {
+     "item": "2 big red cabbage leaves, or about a cup of chopped red cabbage. No red cabbage? Use a handful of blue butterfly pea flowers (sangu poo), fresh or dried, soaked in hot water.",
+     "qty": 1,
+     "buy": "b-cabbage"
+    },
+    {
+     "item": "a mixie, 2 cups of water, a tea strainer and a jug",
+     "qty": 1
+    },
+    {
+     "item": "2 clear glasses and half a lemon",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up runs the mixie.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Make cabbage water. Add lemon to one glass. Notice and wonder."
+    }
+   ],
+   "record": "Draw the two glasses and write one thing you noticed and one thing you wonder.",
+   "setup": [
+    {
+     "art": "Red cabbage leaves in a mixie jar with water, and purple water being strained into a jug.",
+     "caption": "1. Blend two leaves with water and strain it."
+    },
+    {
+     "art": "Two clear glasses of purple water, a hand squeezing lemon into one, which turns pink.",
+     "caption": "2. Squeeze lemon into one glass. Watch."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Blend two red cabbage leaves with two cups of water. 2. Strain it into a jug. 3. Pour a little into two clear glasses.",
+     "say": "Look at the colour of this water. Where did the purple come from?",
+     "kid": "A grown-up blends the cabbage with water. Look at the colour. Where did it come from?",
+     "adult": true,
+     "context": "This is the start of the acids and bases unit. Here you make red cabbage water."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Ask for a guess. Then squeeze a few drops of lemon into one glass.",
+     "say": "I am going to add lemon juice to one glass. What do you think will happen? Why?",
+     "kid": "What will lemon do to the purple water? Guess first. Then squeeze it in.",
+     "parent": "The water turns pink at once. Do not explain it yet. Keep the rest of the cabbage water in the fridge for the Cabbage Colour Line test."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Ask what your child notices and what they wonder.",
+     "say": "What do you notice? What do you wonder? What else from the kitchen might change the colour?",
+     "kid": "What do you notice? What do you wonder? What else might change it?",
+     "ask": [
+      {
+       "q": "What do you wonder?",
+       "good": [
+        "Will other sour things turn it pink too?",
+        "Can we make it go back?",
+        "What will soap do?"
+       ]
+      }
+     ],
+     "parent": "Write down their questions. The Cabbage Colour Line test will answer many of them."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Sour or Slippery? A safe taste and touch test",
+   "mins": 10,
+   "days": 1,
+   "context": "This activity is about how acids and bases feel. You taste only foods, and feel soapy water with your fingers.",
+   "materials": [
+    {
+     "item": "small pieces of foods: a slice of lemon, a piece of tamarind, a spoon of curd, a piece of tomato, a piece of raw mango or amla if you have it",
+     "qty": 1
+    },
+    {
+     "item": "a bowl of soapy water made with bath soap",
+     "qty": 1
+    },
+    {
+     "item": "a bowl of plain water",
+     "qty": 1
+    }
+   ],
+   "safety": "Taste only the foods in this list, which a grown-up gives you. Never taste soap, detergent, cleaners or anything from an unmarked bottle.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Taste sour foods. Feel soapy water and plain water. Compare."
+    }
+   ],
+   "record": "Make two lists: 'tastes sour' and 'feels slippery'.",
+   "setup": [
+    {
+     "art": "A steel plate with a slice of lemon, a piece of tamarind, a spoon of curd and a piece of tomato.",
+     "caption": "1. Taste each food. Which are sour?"
+    },
+    {
+     "art": "A child's fingers rubbing together in a bowl of soapy water, next to a bowl of plain water.",
+     "caption": "2. Rub your fingers in soapy water, then in plain water."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "Give your child one food at a time to taste.",
+     "say": "Taste this. Is it sour? A little sour or very sour?",
+     "kid": "Taste each food. Is it sour? A little or a lot?",
+     "parent": "All of these are sour because they contain weak acids: citric acid in lemon, tartaric acid in tamarind, lactic acid in curd.",
+     "context": "This is the first step of the Sour or Slippery? activity. Here you taste foods that contain acids."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Ask your child to rub their fingers together in the soapy water, then in the plain water.",
+     "say": "How does the soapy water feel between your fingers? And the plain water?",
+     "kid": "Rub your fingers in soapy water. Now in plain water. Which feels slippery?",
+     "parent": "Soapy water feels slippery because soap is a base. Bases in water feel slippery. Rinse hands after."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Talk about why we never test by tasting.",
+     "say": "Sour and slippery are clues. But why do scientists never taste a liquid to find out what it is?",
+     "kid": "Why should we never taste a liquid to test it?",
+     "check": {
+      "t": "mcq",
+      "q": "Meena, a girl in Class 3, finds a bottle with no label. How should she find out if it is an acid?",
+      "options": [
+       "Give it to a grown-up and never taste or smell it",
+       "Taste a tiny drop",
+       "Rub a little on her hand"
+      ],
+      "a": 0,
+      "why": "An unknown liquid could be a strong acid or base that burns. Only a grown-up should handle it. Tasting even a drop of a strong acid or base can burn the mouth."
+     }
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "The Fizz Test: lemon on cooking soda",
+   "mins": 10,
+   "days": 1,
+   "context": "This activity shows what happens when an acid meets a base. It is the fizz that Nicolas Lémery tried to explain with spiky particles in 1675.",
+   "materials": [
+    {
+     "item": "a steel plate",
+     "qty": 1
+    },
+    {
+     "item": "half a teaspoon of cooking soda (not baking powder or fruit salt)",
+     "qty": 1
+    },
+    {
+     "item": "half a lemon, or 2 teaspoons of vinegar",
+     "qty": 1
+    },
+    {
+     "item": "a pinch of salt and a pinch of sugar, for comparison",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep the fizz away from eyes. Do not eat the mixture.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Drip lemon juice on cooking soda, salt and sugar. Which fizz?"
+    }
+   ],
+   "record": "Draw the three heaps after the lemon drops, and write which ones fizzed.",
+   "setup": [
+    {
+     "art": "Three small white heaps on a steel plate, labelled soda, salt and sugar.",
+     "caption": "1. Make three small heaps: soda, salt and sugar."
+    },
+    {
+     "art": "Lemon juice dripping on the soda heap, which bubbles and fizzes, while the salt and sugar heaps just get wet.",
+     "caption": "2. Drip lemon juice on each heap. Which fizz?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "Make three small heaps on the plate: cooking soda, salt and sugar. Ask for a guess.",
+     "say": "All three are white powders. What will happen when lemon juice drips on each one? Why?",
+     "kid": "Three white heaps. What will lemon juice do to each? Guess and say why.",
+     "context": "This is the start of the Fizz Test. Here you guess what lemon juice will do to three white powders."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "Drip lemon juice on each heap in turn. Listen and look closely.",
+     "say": "Put your ear close, but not your eyes. What do you hear? What do you see?",
+     "kid": "Drip lemon on each heap. Listen. Look. Which one fizzes?",
+     "parent": "Only the cooking soda fizzes. The bubbles are carbon dioxide gas, made when the acid and the base react. Salt and sugar are neutral, so nothing happens."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Tell the story of Lémery's idea in one or two sentences, then ask.",
+     "say": "Long ago a chemist said acids have tiny spikes that break inside a base, and that makes the fizz. Nobody ever saw the spikes. What would you need to see to believe him?",
+     "kid": "A chemist once said acids have tiny spikes. Nobody saw them. Would you believe it? Why?",
+     "check": {
+      "t": "mcq",
+      "q": "Only the cooking soda fizzed. Why?",
+      "options": [
+       "Cooking soda is a base, and it reacted with the acid in the lemon",
+       "Cooking soda is heavier than salt",
+       "The salt and sugar were too dry"
+      ],
+      "a": 0,
+      "why": "An acid and a base react together. Cooking soda is a base, so it reacted with the lemon's acid and made carbon dioxide bubbles. Salt and sugar are neutral, so there was nothing to react with. All three were equally dry."
+     }
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Kitchen and Bathroom Hunt: sour, soapy, neutral or never touch",
+   "mins": 15,
+   "days": 1,
+   "context": "This is a hunt around your home with a grown-up. You sort things into acids, bases and neutral, and find the strong ones that only grown-ups handle.",
+   "materials": [
+    {
+     "item": "a sheet of paper divided into four boxes: Sour (acid), Soapy (base), Neutral, Grown-ups only",
+     "qty": 1
+    },
+    {
+     "item": "a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Look and read labels only. Do not open, touch or smell any cleaner. A grown-up holds every bottle.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Walk through the kitchen and bathroom with a grown-up and sort what you find into four boxes."
+    }
+   ],
+   "record": "The four-box sheet, filled in.",
+   "setup": [
+    {
+     "art": "A sheet of paper with four boxes labelled Sour, Soapy, Neutral and Grown-ups only, with a pencil.",
+     "caption": "1. Draw four boxes on a sheet of paper."
+    },
+    {
+     "art": "A mother holding up a bottle of toilet cleaner on a high shelf while a girl writes it in the 'Grown-ups only' box.",
+     "caption": "2. Walk round with a grown-up. Write each thing in a box."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "Walk through the kitchen together. Point at foods and ask which box each goes in.",
+     "say": "Lemon, tamarind, curd, cooking soda, salt, sugar, oil. Which box does each one go in? Why?",
+     "kid": "Look at each food. Sour, soapy or neutral? Write it in a box.",
+     "parent": "Sour: lemon, tamarind, curd, tomato, vinegar. Soapy: cooking soda. Neutral: salt, sugar, water, oil. Oil does not mix with water, so it has no place on the pH line, but it does not change cabbage water.",
+     "context": "This is the first part of the Kitchen and Bathroom Hunt. Here you sort foods."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "Go to the bathroom and the place you keep cleaners. Hold up each bottle. Read the warning on the label aloud.",
+     "say": "This is a toilet cleaner. Its label says it can burn skin and eyes. Which box does it go in?",
+     "kid": "A grown-up holds each bottle. Listen to the label. Which box?",
+     "adult": true,
+     "parent": "Soap, shampoo and detergent are bases. Many toilet cleaners are strong acids. Drain cleaners and chuna are strong bases. All strong ones go in 'Grown-ups only'. Check they are stored high up or locked."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Look at the finished sheet together.",
+     "say": "Which box has most of the food? Which box has most of the cleaners?",
+     "kid": "Where is most of the food? Where are most of the cleaners?",
+     "check": {
+      "t": "mcq",
+      "q": "Most sour things in the kitchen are foods, but some cleaners are strong acids. Why are those cleaners kept high up?",
+      "options": [
+       "Strong acids can burn skin and eyes",
+       "They are expensive",
+       "Acids are always poisonous, even in lemon"
+      ],
+      "a": 0,
+      "why": "Strong acids burn. Weak acids, like the ones in lemon and curd, are safe to eat. How strong an acid is matters more than its name."
+     }
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "Make Your Own Cabbage Test Strips",
+   "mins": 35,
+   "days": 2,
+   "context": "This project makes paper strips soaked in cabbage colour. Once dry, they change colour when you dab a liquid on them, like the test papers chemists use.",
+   "materials": [
+    {
+     "item": "2 big red cabbage leaves, or about a cup of chopped red cabbage. No red cabbage? Use a handful of blue butterfly pea flowers (sangu poo), fresh or dried, soaked in hot water.",
+     "qty": 1,
+     "buy": "b-cabbage"
+    },
+    {
+     "item": "a mixie, 2 cups of water, a tea strainer and a jug",
+     "qty": 1
+    },
+    {
+     "item": "white kitchen towel, tissue paper or white blotting paper, cut into strips about 2 cm wide and 8 cm long",
+     "qty": 12
+    },
+    {
+     "item": "a steel plate or tray, and a clothes clip or two",
+     "qty": 1
+    },
+    {
+     "item": "cotton buds or a clean matchstick for dabbing",
+     "qty": 6
+    },
+    {
+     "item": "lemon juice, cooking soda water, soapy water and plain water",
+     "qty": 1
+    }
+   ],
+   "safety": "Taste nothing. Wash hands after dabbing soapy water.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Make strong cabbage water. Soak the paper strips. Hang them to dry overnight away from sunlight."
+    },
+    {
+     "day": 2,
+     "mins": 20,
+     "what": "Dab four liquids on the dry strips. Make a colour key. Test two more liquids you choose."
+    }
+   ],
+   "record": "Stick the tested strips in your notebook in order, from pink to green, and write the liquid under each.",
+   "setup": [
+    {
+     "art": "White paper strips soaking in a steel plate of dark purple cabbage water.",
+     "caption": "1. Soak the paper strips in strong cabbage water."
+    },
+    {
+     "art": "Purple-blue paper strips hanging from a string by clothes clips indoors.",
+     "caption": "2. Hang them to dry overnight."
+    },
+    {
+     "art": "A cotton bud dabbing lemon juice on a dry strip, making a pink spot, beside strips with blue and green spots.",
+     "caption": "3. Dab a liquid on a strip. Read the colour."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "1. Blend three cabbage leaves with just one cup of water, so it is very dark. 2. Strain it into a steel plate. 3. Soak the paper strips for one minute.",
+     "say": "We want very strong colour, so we use less water this time. Why do you think strong colour helps?",
+     "kid": "Blend the cabbage with less water. Soak the strips in it.",
+     "adult": true,
+     "context": "This is the first day of the Cabbage Test Strips project. Here you soak paper in cabbage colour."
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "do": "Hang the strips to dry indoors, away from direct sun.",
+     "say": "They need to dry overnight. Strong sun can fade the colour.",
+     "kid": "Hang the strips up to dry. Leave them till tomorrow.",
+     "wait": "Leave the strips to dry overnight.",
+     "parent": "The dry strips will be pale purple or blue. Kitchen towel works well. Thick paper takes longer to dry."
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "Next day, dab lemon juice, soda water, soapy water and plain water on four strips, one liquid each.",
+     "say": "Dab a little on each strip. What colour does each spot turn?",
+     "kid": "Dab each liquid on its own strip. What colour is each spot?",
+     "parent": "Lemon should make a pink spot. Soda and soap should make blue-green or green spots. Plain water barely changes it. The colours are paler than in the glasses, so look closely."
+    },
+    {
+     "id": "s4",
+     "mins": 10,
+     "do": "Let your child choose two more liquids to test, such as tomato juice, rice water, coconut water or toothpaste mixed with water.",
+     "say": "Now you choose two things to test. Use the four strips as your colour key. Where does each one go?",
+     "kid": "Choose two more things to test. Compare with your colour key.",
+     "check": {
+      "t": "mcq",
+      "q": "A spot of coconut water on a strip turns faintly pink. Where does coconut water go on the line?",
+      "options": [
+       "A little on the acid side of neutral",
+       "Far at the base end",
+       "Exactly where soap goes"
+      ],
+      "a": 0,
+      "why": "A faint pink means a weak acid, close to neutral. Bright pink would mean a stronger acid, and blue or green would mean a base."
+     }
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "A Rainbow in Six Glasses",
+   "mins": 25,
+   "context": "This is a design challenge. You use what you know about acids and bases to make six glasses of cabbage water in six different colours.",
+   "problem": "Make a row of six glasses of cabbage water that go from red to pink, purple, blue, green and yellow-green, using only safe things from the kitchen and bathroom.",
+   "constraints": [
+    "Use only cabbage water and safe home liquids: no cleaners, no chuna.",
+    "Every glass starts with the same amount of cabbage water.",
+    "The six colours must be clearly different when the glasses stand on white paper."
+   ],
+   "materials": [
+    "red cabbage water",
+    "6 clear glasses and a white sheet of paper",
+    "lemon juice, vinegar, buttermilk, cooking soda, bath soap and detergent powder",
+    "a teaspoon"
+   ],
+   "general": [
+    "Use lemon juice for red, a little vinegar or buttermilk for pink, plain water for purple, cooking soda for blue, soapy water for blue-green and detergent water for green.",
+    "Change how much you add: more lemon makes a deeper red, and more detergent pushes green towards yellow."
+   ],
+   "creative": [
+    "Make the in-between colours by mixing: a pink glass plus a little soda water makes violet.",
+    "Pour the colours in layers in one tall glass, very slowly over the back of a spoon, and see how long they stay apart.",
+    "Make the rainbow on paper with your cabbage test strips instead of glasses."
+   ],
+   "your_turn": "Now plan your own rainbow. Write down what you will put in each glass before you start, then test it and see which glasses you need to fix.",
+   "setup": [
+    {
+     "art": "Six empty clear glasses in a row on white paper, with a written plan beside them.",
+     "caption": "1. Plan what goes in each glass."
+    },
+    {
+     "art": "Six glasses from red to pink, purple, blue, green and yellow-green on white paper.",
+     "caption": "2. Test it, then fix any colour that is not right."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "Ask your child to write a plan for the six glasses.",
+     "say": "What will you add to each glass to get each colour? Use what you found in the Colour Line test.",
+     "kid": "Plan your six colours. What goes in each glass?",
+     "context": "This is the planning step of A Rainbow in Six Glasses."
+    },
+    {
+     "id": "s2",
+     "mins": 12,
+     "do": "Let your child make the glasses. A grown-up makes the detergent water.",
+     "say": "Add a little at a time. You can add more, but you cannot take it out.",
+     "kid": "Add a little at a time. Look. Add more if you need to.",
+     "adult": true,
+     "parent": "Yellow-green is the hardest. It needs a strong base, so use plenty of detergent water. Do not use chuna or cleaners to get it."
+    },
+    {
+     "id": "s3",
+     "mins": 7,
+     "do": "Look at the row together and talk about what worked.",
+     "say": "Which colour was hardest to get? Why do you think so?",
+     "kid": "Which colour was hardest? Why?",
+     "check": {
+      "t": "mcq",
+      "q": "Kavya wants her blue glass to turn green. What should she add?",
+      "options": [
+       "More of a base, such as detergent water",
+       "Lemon juice",
+       "Plain water"
+      ],
+      "a": 0,
+      "why": "Green is further towards the base end than blue, so she needs more base. Lemon juice would move it back towards pink. A little plain water mostly makes the colour paler."
+     }
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "Find a Colour Changer Without Cabbage",
+   "mins": 30,
+   "context": "This is a design challenge. You search your home for another plant juice that changes colour with acids and bases, like red cabbage water.",
+   "problem": "Find at least one plant or fruit at home, other than red cabbage, whose juice changes colour with lemon juice and with soda water.",
+   "constraints": [
+    "Use only plants and foods from home or the market.",
+    "Test each juice with lemon juice, soda water and plain water.",
+    "Ask a grown-up before picking any flower or leaf."
+   ],
+   "materials": [
+    "things to try: butterfly pea flowers, black grape skins, jamun, beetroot, purple onion skins, red hibiscus petals, a purple brinjal skin",
+    "a little hot water and a small bowl for each",
+    "lemon juice and cooking soda water",
+    "clear glasses and white paper"
+   ],
+   "general": [
+    "Soak the coloured part in a little hot water for ten minutes, then test the coloured water.",
+    "Purple, blue and deep red plants often hold anthocyanin, the same kind of pigment as red cabbage."
+   ],
+   "creative": [
+    "Make a chart of which plants changed colour and which did not.",
+    "Make a colour-changing drink with butterfly pea tea: blue at first, then purple when lemon is added.",
+    "Compare your best plant with cabbage water. Which shows more colours?"
+   ],
+   "your_turn": "Choose three plants to test. Guess first which ones will work and why, then test them.",
+   "setup": [
+    {
+     "art": "Small bowls of coloured water made from butterfly pea flowers, grape skins and beetroot on a steel tray.",
+     "caption": "1. Soak each plant part in a little hot water."
+    },
+    {
+     "art": "Pairs of glasses for each plant juice, one with lemon and one with soda, showing different colours.",
+     "caption": "2. Test each juice with lemon and with soda water."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "Gather three plants. Soak each in a little hot water for ten minutes.",
+     "say": "Which of these do you think will change colour like the cabbage? Why?",
+     "kid": "Pick three plants. Guess which will work. Say why.",
+     "adult": true,
+     "context": "This is the first step of Find a Colour Changer Without Cabbage."
+    },
+    {
+     "id": "s2",
+     "mins": 12,
+     "do": "Pour each coloured water into two glasses. Add lemon to one and soda water to the other.",
+     "say": "Did it change? Compare with the plain coloured water.",
+     "kid": "Add lemon to one glass. Add soda to the other. Did it change?",
+     "parent": "Butterfly pea water is blue and turns purple with lemon. Grape skin and jamun water usually turn pinker with lemon and bluer or greener with soda. Beetroot changes very little: its red pigment is a different kind, not anthocyanin. That is a useful result, not a failure."
+    },
+    {
+     "id": "s3",
+     "mins": 8,
+     "do": "Talk about the results.",
+     "say": "Which plants worked? What do they have in common?",
+     "kid": "Which ones worked? What is the same about them?",
+     "check": {
+      "t": "mcq",
+      "q": "Beetroot juice hardly changed colour with lemon or soda. Why might that be?",
+      "options": [
+       "Beetroot's red pigment is a different kind from cabbage's",
+       "Beetroot has no colour",
+       "The lemon was too old"
+      ],
+      "a": 0,
+      "why": "Beetroot gets its red from a different pigment that does not change colour much with acids and bases. Red cabbage, grapes and butterfly pea have anthocyanin pigments, which do change."
+     }
+    }
+   ]
+  }
+ ],
+ "videos": [
+  {
+   "title": "How To Make Red Cabbage Indicator With Kids At Home",
+   "channel": "MEL Science",
+   "youtube": "xhEKyuY_SCA",
+   "mins": 4,
+   "why": "Shows how to make red cabbage water and test liquids with it, much like the Cabbage Colour Line test. Good to watch before you start, or after, to compare colours.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, so the length is a guess and the liquids used may differ from ours: a parent should preview it."
+  },
+  {
+   "title": "Color changing Tea",
+   "channel": "Reactions",
+   "youtube": "ORl6EKQI1ws",
+   "mins": 3,
+   "why": "Explains why butterfly pea flower tea changes colour when lemon is added: the same kind of pigment as in red cabbage. Useful with the Colour Changer Without Cabbage challenge.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Reactions is the video channel of the American Chemical Society. Not watched from here, so the length is a guess: a parent should preview it."
+  },
+  {
+   "title": "Acids and Bases for Kids | Learn the difference between an acid and a base",
+   "channel": "Learn Bright",
+   "youtube": "ivRczDkilAI",
+   "mins": 9,
+   "why": "A plain explanation for children of what acids and bases are, with everyday examples and the pH scale.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. A search listing gave the length as about 9 minutes. Not watched from here: a parent should preview it."
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "Which of these tastes sour because it contains an acid?",
+   "opts": [
+    "Tamarind",
+    "Sugar",
+    "Salt",
+    "Rice"
+   ],
+   "a": 0,
+   "why": "Tamarind contains tartaric acid. Sugar tastes sweet and salt tastes salty, but neither is an acid. Picking salt is common, because its taste is strong.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these is a base?",
+   "opts": [
+    "Bath soap",
+    "Lemon juice",
+    "Vinegar",
+    "Curd"
+   ],
+   "a": 0,
+   "why": "Soap is a base. It feels slippery in water and turns cabbage water blue-green. The other three are sour, so they are acids.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Red cabbage water stays purple when you add a liquid. What is that liquid?",
+   "opts": [
+    "Neutral",
+    "A strong acid",
+    "A strong base"
+   ],
+   "a": 0,
+   "why": "Purple is the neutral colour. An acid would turn it pink, and a base blue or green.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Divya, a girl in Class 3, adds cooking soda water to cabbage water. What colour will it most likely turn?",
+   "opts": [
+    "Blue or blue-green",
+    "Pink",
+    "Red"
+   ],
+   "a": 0,
+   "why": "Cooking soda is a weak base, so it turns cabbage water blue or blue-green. Pink and red mean an acid.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Four glasses of cabbage water are pink, purple, green and red. Which one has the strongest acid?",
+   "opts": [
+    "The red one",
+    "The pink one",
+    "The green one",
+    "The purple one"
+   ],
+   "a": 0,
+   "why": "Red is the very end of the acid side. Pink is a weaker acid. Purple is neutral and green is a base.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Lemon juice, plain water and detergent water are lined up from pinkest to greenest. Which one is in the middle?",
+   "opts": [
+    "Plain water",
+    "Lemon juice",
+    "Detergent water"
+   ],
+   "a": 0,
+   "why": "Plain water is neutral, so it sits in the middle. Lemon juice is at the pink end and detergent water at the green end.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Why do scientists never taste an unknown liquid to test it?",
+   "opts": [
+    "It might be a strong acid or base that burns",
+    "It might taste too sweet",
+    "Tasting takes too long"
+   ],
+   "a": 0,
+   "why": "Strong acids and bases burn. An indicator such as cabbage water tells us safely.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these is a strong base that only grown-ups should handle?",
+   "opts": [
+    "Chuna (lime paste)",
+    "Cooking soda",
+    "Curd"
+   ],
+   "a": 0,
+   "why": "Chuna is a strong base and can burn skin and eyes. Cooking soda is a weak base and curd is a weak acid, both safe in food.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Lemon juice drips onto a small heap of cooking soda. What happens?",
+   "opts": [
+    "It fizzes with bubbles of carbon dioxide",
+    "Nothing happens",
+    "It turns into sugar"
+   ],
+   "a": 0,
+   "why": "The acid in lemon reacts with the base in cooking soda, and carbon dioxide gas makes the fizz.",
+   "outcome": 4,
+   "how": "a3"
+  },
+  {
+   "t": "mcq",
+   "p": "Soda water is added spoon by spoon to pink lemony cabbage water. What happens to the colour?",
+   "opts": [
+    "It turns purple, then blue",
+    "It gets pinker",
+    "It turns red and stays red"
+   ],
+   "a": 0,
+   "why": "The base uses up the acid, so the colour moves back to purple, then on to blue as more base is added.",
+   "outcome": 4,
+   "how": "e2"
+  },
+  {
+   "t": "mcq",
+   "p": "Curd bacteria turn milk sour. How does the sourness help the bacteria?",
+   "opts": [
+    "Many other microbes grow badly in sour milk, so the bacteria keep the milk for themselves",
+    "It makes the milk sweeter for them",
+    "It keeps the milk warm"
+   ],
+   "a": 0,
+   "why": "The acid keeps many other microbes away, so the curd bacteria have the milk sugar to themselves.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "In 1675, Nicolas Lémery said acids taste sour because of what?",
+   "opts": [
+    "Sharp spikes on their particles",
+    "Charged hydrogen particles",
+    "Tiny living beings"
+   ],
+   "a": 0,
+   "why": "Lémery imagined spiky acid particles. Later chemists found that all acids give out charged hydrogen particles in water, and the spikes were never found.",
+   "outcome": 6
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Sour or Soapy? (core)",
+   "tier": "core",
+   "mins": 20,
+   "items": [
+    {
+     "t": "sort",
+     "p": "Sort these into sour things (acids), soapy things (bases) and neutral things.",
+     "cats": [
+      "Acid",
+      "Base",
+      "Neutral"
+     ],
+     "items": [
+      [
+       "lemon juice",
+       "Acid"
+      ],
+      [
+       "tamarind",
+       "Acid"
+      ],
+      [
+       "curd",
+       "Acid"
+      ],
+      [
+       "bath soap",
+       "Base"
+      ],
+      [
+       "cooking soda",
+       "Base"
+      ],
+      [
+       "detergent powder",
+       "Base"
+      ],
+      [
+       "sugar water",
+       "Neutral"
+      ],
+      [
+       "salt water",
+       "Neutral"
+      ]
+     ],
+     "a": "see items",
+     "why": "Sour foods contain acids. Soapy, slippery things are bases. Sugar and salt water leave cabbage water purple, so they are neutral. A strong sorter does not put salt with the acids just because it has a strong taste."
+    },
+    {
+     "t": "mcq",
+     "p": "Red cabbage water is purple. Anjali, a girl in Class 3, adds vinegar to it. What colour will it turn?",
+     "opts": [
+      "Pink",
+      "Green",
+      "It stays purple"
+     ],
+     "a": 0,
+     "why": "Vinegar contains acetic acid. Acids turn cabbage water pink.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "Farhan, a boy in Class 3, stirs detergent powder into cabbage water. It turns green. What does that tell him?",
+     "opts": [
+      "Detergent water is a base",
+      "Detergent water is an acid",
+      "Detergent water is neutral"
+     ],
+     "a": 0,
+     "why": "Bases turn cabbage water blue or green. Green means a fairly strong base.",
+     "how": "e1"
+    },
+    {
+     "t": "fill",
+     "p": "Something that changes colour to show whether a liquid is an acid or a base is called an ____.",
+     "a": [
+      "indicator"
+     ],
+     "why": "Red cabbage water and turmeric are both indicators."
+    },
+    {
+     "t": "fill",
+     "p": "A liquid that is neither an acid nor a base is called ____.",
+     "a": [
+      "neutral"
+     ],
+     "why": "Neutral liquids, like plain water and sugar water, leave cabbage water purple."
+    },
+    {
+     "t": "truefalse",
+     "p": "Salt tastes strong, so salt water turns cabbage water pink.",
+     "a": false,
+     "why": "False. Salt water is neutral, so the cabbage water stays purple. Salty is a different taste from sour.",
+     "how": "e1"
+    },
+    {
+     "t": "truefalse",
+     "p": "In the Cabbage Colour Line test, every glass got the same amount of cabbage water, so that only the added liquid changed.",
+     "a": true,
+     "why": "True. Keeping everything else the same is what makes it a fair test. Then any colour difference comes from the liquid.",
+     "how": "e1"
+    },
+    {
+     "t": "match",
+     "p": "Match each food to the acid it contains.",
+     "pairs": [
+      [
+       "Lemon",
+       "citric acid"
+      ],
+      [
+       "Vinegar",
+       "acetic acid"
+      ],
+      [
+       "Curd",
+       "lactic acid"
+      ],
+      [
+       "Tamarind",
+       "tartaric acid"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each of these sour foods has its own weak acid. All of them turn cabbage water pink."
+    },
+    {
+     "t": "order",
+     "p": "In the Cabbage Colour Line test, put these glasses in order from pinkest to greenest.",
+     "items": [
+      "soapy water",
+      "lemon juice",
+      "plain water",
+      "buttermilk"
+     ],
+     "a": [
+      "lemon juice",
+      "buttermilk",
+      "plain water",
+      "soapy water"
+     ],
+     "why": "Lemon juice is the strongest acid here, so it is pinkest. Buttermilk is a weak acid, a soft pink-purple. Plain water is neutral and stays purple. Soapy water is a base and turns blue-green.",
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "In the Cabbage Colour Line test, one glass got only plain water. Why was that glass important?",
+     "lines": 3,
+     "a": "It showed the colour of cabbage water with nothing sour or soapy added. Every other glass could be compared with it, to see if it had changed.",
+     "why": "A strong answer says the plain glass is for comparing. Scientists call it a control.",
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "Why should you never taste a liquid to find out if it is an acid?",
+     "lines": 3,
+     "a": "It could be a strong acid or base, like a toilet cleaner or chuna, which can burn the mouth. An indicator like cabbage water tells you safely.",
+     "why": "A strong answer names the danger, burning, and says what to use instead."
+    },
+    {
+     "t": "draw",
+     "p": "Draw three glasses of cabbage water: one with lemon juice, one with plain water and one with soapy water. Colour each glass the colour you saw, and label it acid, neutral or base.",
+     "a": "Lemon glass pink, labelled acid. Plain water glass purple, labelled neutral. Soapy water glass blue-green, labelled base.",
+     "why": "A strong drawing uses the colours from the child's own test and labels each glass correctly.",
+     "how": "e1",
+     "art": "Three empty glass outlines in a row on a white page."
+    },
+    {
+     "t": "perspective",
+     "p": "Lakshmi's family is deciding how to clean the dull brass lamp before Karthigai Deepam.",
+     "views": [
+      {
+       "who": "Amma, the mother",
+       "says": "Use the strong metal cleaner from the shop. It works fastest."
+      },
+      {
+       "who": "Lakshmi, aged 9",
+       "says": "Use lemon juice and salt. Lemon is a weak acid, so I can help safely."
+      },
+      {
+       "who": "Paati, the grandmother",
+       "says": "Use tamarind, like we always did. It is cheap and it works."
+      }
+     ],
+     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing that someone else has right.",
+     "lines": 5,
+     "a": "A strong answer picks one side and backs it with a fact. For example: 'I agree with Lakshmi, because lemon is a weak acid, safe to touch, and a strong cleaner can burn skin.' Then it says what another side has right: 'But Paati is right too, because tamarind also has an acid, and Amma is right that a strong cleaner is faster for a grown-up.'",
+     "why": "There is no single right answer. Lemon and tamarind both clean brass because their weak acids dissolve the dull coating. A good answer uses what the unit taught: strong acids and bases burn, weak ones are safe to handle."
+    },
+    {
+     "t": "write",
+     "p": "Cooking soda fizzes when lemon juice drips on it, but salt does not. Why?",
+     "lines": 3,
+     "a": "Cooking soda is a base and lemon juice has acid, so they react and make carbon dioxide bubbles. Salt is neutral, so nothing reacts.",
+     "why": "A strong answer names the acid, the base, and the gas.",
+     "how": "a3"
+    },
+    {
+     "t": "mcq",
+     "p": "Why does your hand feel slippery after you rub it in soapy water?",
+     "opts": [
+      "Soap is a base, and bases in water feel slippery",
+      "Soap is an acid",
+      "The water is warm"
+     ],
+     "a": 0,
+     "why": "Bases in water feel slippery. Soap and detergent are bases.",
+     "how": "a2"
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Along the Colour Line (stretch)",
+   "tier": "stretch",
+   "mins": 25,
+   "items": [
+    {
+     "t": "write",
+     "p": "Cabbage water turns pink in lemon juice and only pink-purple in buttermilk. What does that tell you about the two liquids?",
+     "lines": 3,
+     "a": "Both are acids, but lemon juice is a stronger acid than buttermilk. The pinker the colour, the more acidic the liquid.",
+     "why": "A strong answer says both are acids and compares how strong they are using the colour.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "In the Lemon or Buttermilk test, the lemon glass needed 6 spoons of soda water to turn purple. The buttermilk glass needed 1. Which had more acid?",
+     "opts": [
+      "The lemon glass",
+      "The buttermilk glass",
+      "They had the same"
+     ],
+     "a": 0,
+     "why": "Each spoon of soda water uses up some acid. More spoons means more acid was there to use up.",
+     "how": "e2"
+    },
+    {
+     "t": "order",
+     "p": "Put these on the pH scale, from the lowest number to the highest.",
+     "items": [
+      "pure water",
+      "soapy water",
+      "lemon juice",
+      "buttermilk",
+      "cooking soda water"
+     ],
+     "a": [
+      "lemon juice",
+      "buttermilk",
+      "pure water",
+      "cooking soda water",
+      "soapy water"
+     ],
+     "why": "Lemon is about 2, buttermilk about 4 or 5, pure water 7, cooking soda water about 8, soapy water about 9 or 10. Low numbers are acids and high numbers are bases."
+    },
+    {
+     "t": "truefalse",
+     "p": "All acids are dangerous to eat.",
+     "a": false,
+     "why": "False. Lemon, curd and tamarind contain weak acids, and we eat them every day. Only strong acids burn."
+    },
+    {
+     "t": "truefalse",
+     "p": "Strong bases, like chuna and drain cleaner, can burn skin and eyes just like strong acids.",
+     "a": true,
+     "why": "True. Strong bases can hurt eyes even more than strong acids. Strength matters, not which end of the line a thing is at."
+    },
+    {
+     "t": "fill",
+     "p": "On the pH scale, the number for neutral is ____.",
+     "a": [
+      "7",
+      "seven"
+     ],
+     "why": "Numbers below 7 are acids, numbers above 7 are bases."
+    },
+    {
+     "t": "match",
+     "p": "Match each living being to how acid helps their life.",
+     "pairs": [
+      [
+       "Curd bacteria",
+       "keep the milk for themselves, because many other microbes grow badly in sour milk"
+      ],
+      [
+       "Weaver ants",
+       "squirt formic acid into a bite to drive attackers away from the nest"
+      ],
+      [
+       "Your stomach",
+       "uses a strong acid to break down food and kill many germs"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each of these living beings makes acid for a reason that helps their own life."
+    },
+    {
+     "t": "mcq",
+     "p": "Sneha, a girl in Class 3, adds soda water spoon by spoon to pink lemony cabbage water. What colours will she see, in order?",
+     "opts": [
+      "Pink, then purple, then blue",
+      "Pink, then red, then yellow",
+      "It stays pink"
+     ],
+     "a": 0,
+     "why": "Soda water is a base. It uses up the acid, so the colour moves from pink back to purple, and then on towards blue as more base is added.",
+     "how": "e2"
+    },
+    {
+     "t": "draw",
+     "p": "Draw a long strip for the colour line. Colour it from pink at one end to green at the other. Put these on it in the right place: lemon, buttermilk, water, soda water, detergent water.",
+     "a": "Pink end: lemon, then buttermilk a little towards the middle. Purple middle: water. Then soda water in the blue part, and detergent water in the green part near the end.",
+     "why": "A strong drawing puts the weak acid closer to the middle than the strong one, and the strong base further out than the weak one.",
+     "art": "A long empty strip across the page, with a small lemon at the left end and a small bar of soap at the right end."
+    },
+    {
+     "t": "write",
+     "p": "Curd set for two days turned cabbage water a little pinker than curd set for one day. Explain why.",
+     "lines": 4,
+     "a": "The curd bacteria kept eating milk sugar and giving out lactic acid. After two days they had made more acid, so the curd was more acidic and made the water pinker.",
+     "why": "A strong answer says the bacteria are alive and keep making acid over time.",
+     "how": "e3"
+    },
+    {
+     "t": "perspective",
+     "p": "Two friends argue about Lémery's old idea that acid particles have sharp spikes.",
+     "views": [
+      {
+       "who": "Nila, aged 9",
+       "says": "It was a good idea. It explained why lemon stings your tongue and why acids fizz with soda."
+      },
+      {
+       "who": "Arjun, aged 10",
+       "says": "It was a bad idea, because nobody could ever see the spikes or test them."
+      }
+     ],
+     "ask": "Who do you agree with more? Give a reason. Then say one thing the other friend has right.",
+     "lines": 5,
+     "a": "A strong answer picks a side with a reason. For example: 'I agree with Arjun. A good idea must be something you can test. Chemists later tested acids and found they all have hydrogen.' And then: 'But Nila is right that Lémery's idea did explain what people could notice.'",
+     "why": "Both views have something true. A good scientific idea explains what we see and can also be tested."
+    },
+    {
+     "t": "mcq",
+     "p": "Rain is a little acidic. Why?",
+     "opts": [
+      "Rain takes in carbon dioxide from the air",
+      "Rain falls on lemons",
+      "Clouds are made of vinegar"
+     ],
+     "a": 0,
+     "why": "Carbon dioxide from the air dissolves in rain drops and makes a very weak acid. That is why even clean rain is about 5 to 6 on the pH scale."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these into safe for children to test with a grown-up nearby, and grown-ups only.",
+     "cats": [
+      "Safe to test",
+      "Grown-ups only"
+     ],
+     "items": [
+      [
+       "lemon juice",
+       "Safe to test"
+      ],
+      [
+       "cooking soda water",
+       "Safe to test"
+      ],
+      [
+       "buttermilk",
+       "Safe to test"
+      ],
+      [
+       "toilet cleaner",
+       "Grown-ups only"
+      ],
+      [
+       "chuna",
+       "Grown-ups only"
+      ],
+      [
+       "drain cleaner",
+       "Grown-ups only"
+      ]
+     ],
+     "a": "see items",
+     "why": "Weak acids and bases from food are safe. Strong acids and bases burn, so only grown-ups handle them, and never for experiments."
+    },
+    {
+     "t": "write",
+     "p": "A family cooks red cabbage with a pinch of cooking soda, and it turns blue. What could they add at the end to bring back a pink-purple colour? Why would that work?",
+     "lines": 3,
+     "a": "A squeeze of lemon juice, or a little vinegar. These are acids, so they move the colour back from the base side towards pink.",
+     "why": "A strong answer names an acid and says it moves the colour back along the line."
+    },
+    {
+     "t": "fill",
+     "p": "The gas that makes the bubbles when lemon juice drips on cooking soda is called ____ ____.",
+     "a": [
+      "carbon dioxide"
+     ],
+     "why": "Acids react with cooking soda and give off carbon dioxide gas.",
+     "how": "a3"
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Acid Detectives (challenge)",
+   "tier": "challenge",
+   "mins": 30,
+   "items": [
+    {
+     "t": "write",
+     "p": "Turmeric shows only two colours: yellow in acids and neutral liquids, red in bases. Red cabbage water shows many colours. If you wanted to know which of two sour liquids is more sour, which indicator would you choose, and why?",
+     "lines": 4,
+     "a": "Red cabbage water, because it shows different shades of pink for weaker and stronger acids. Turmeric stays yellow for every acid, so it cannot tell two acids apart.",
+     "why": "A strong answer explains that you need an indicator with many shades on the acid side."
+    },
+    {
+     "t": "perspective",
+     "p": "A doctor, a cook and a chemist talk about acids.",
+     "views": [
+      {
+       "who": "Dr Revathi, a doctor",
+       "says": "Acids are important for health. Your stomach needs a strong acid to break food down and kill germs."
+      },
+      {
+       "who": "Shabana, a cook",
+       "says": "Acids are about flavour. Lemon, tamarind and curd make food taste good and help it keep."
+      },
+      {
+       "who": "Priya, a chemist",
+       "says": "Acids are about tiny charged particles of hydrogen. Taste and health are just what those particles do."
+      }
+     ],
+     "ask": "Which way of thinking about acids do you find most useful? Give a reason from this unit. Then say what one other person adds that yours leaves out.",
+     "lines": 6,
+     "a": "A strong answer picks one view and gives evidence, such as: 'Priya's view, because it explains why every acid turns cabbage water pink.' Then it says what another view adds: 'But Shabana's view explains why people cared about acids long before chemistry.'",
+     "why": "Each view sees a true part of acids. A good answer uses facts from the unit and shows how the views fit together."
+    },
+    {
+     "t": "mcq",
+     "p": "Meenakshi, a girl in Class 4, adds a big jug of plain water to pink lemony cabbage water. What will most likely happen?",
+     "opts": [
+      "It becomes a paler pink, a little closer to purple",
+      "It turns green",
+      "It turns bright red"
+     ],
+     "a": 0,
+     "why": "Water makes the acid weaker, so the colour moves a little towards neutral and gets paler. Plain water cannot turn an acid into a base, so it will never turn green."
+    },
+    {
+     "t": "write",
+     "p": "Kavya says: 'Every liquid is either an acid or a base.' Use your Cabbage Colour Line results to say whether you agree.",
+     "lines": 4,
+     "a": "I do not agree. Sugar water and salt water stayed purple, the same as plain water, so they are neutral. And the acids and bases were not all the same: buttermilk was only a little pink and lemon was very pink. So liquids sit along a line, with neutral in the middle.",
+     "why": "A strong answer uses real results from the test: the neutral glasses and the in-between shades.",
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "Design a fair test to find out whether amla juice or lemon juice is more acidic. Say what you would keep the same and what you would count or look at.",
+     "lines": 5,
+     "a": "Put the same amount of cabbage water in two glasses. Add one teaspoon of amla juice to one and one teaspoon of lemon juice to the other. Compare how pink they turn. Then add soda water spoon by spoon to each and count how many spoons it takes to turn each one purple. More spoons means more acid.",
+     "why": "A strong answer keeps the amounts the same, changes only the juice, and says how to measure the result.",
+     "how": "e2"
+    },
+    {
+     "t": "order",
+     "p": "Put these in order from the most acidic to the most basic.",
+     "items": [
+      "sea water",
+      "rainwater",
+      "detergent water",
+      "lemon juice",
+      "pure water"
+     ],
+     "a": [
+      "lemon juice",
+      "rainwater",
+      "pure water",
+      "sea water",
+      "detergent water"
+     ],
+     "why": "Lemon juice is about 2, rainwater about 5 to 6, pure water 7, sea water about 8, detergent water about 10 or 11."
+    },
+    {
+     "t": "truefalse",
+     "p": "Drinking lemon water changes the pH of your blood.",
+     "a": false,
+     "why": "False. Your body keeps your blood very close to pH 7.4 all the time. Lemon juice cannot move it. If it moved much, you would be very ill."
+    },
+    {
+     "t": "mcq",
+     "p": "Beetroot juice is deep red, but it hardly changes colour with lemon or soda. Why is it a poor indicator?",
+     "opts": [
+      "Its red pigment is a kind that hardly changes with acids and bases",
+      "It is too sweet",
+      "Red things never change colour"
+     ],
+     "a": 0,
+     "why": "Beetroot's red comes from a different kind of pigment from red cabbage. Anthocyanin pigments, in red cabbage, grapes and butterfly pea, change colour a lot.",
+     "how": "c2"
+    },
+    {
+     "t": "draw",
+     "p": "Draw what you think is happening, too small to see, when an acid and a base meet in water. Use one shape for the acid's hydrogen particles and another shape for the base's particles.",
+     "a": "Two kinds of shapes moving about, then pairs joining into new shapes labelled water. Fewer free acid and base particles are left.",
+     "why": "A strong model shows the two kinds of particles joining, which is why the acid and base use each other up.",
+     "art": "An empty circle drawn as a magnifying glass on the page."
+    },
+    {
+     "t": "write",
+     "p": "Weaver ants live in nests made of leaves, high in mango trees. Bigger animals sometimes attack the nest. How does formic acid help the ants?",
+     "lines": 3,
+     "a": "The ants bite the attacker and squirt formic acid into the bite. It stings, so the attacker goes away and the nest stays safe.",
+     "why": "A strong answer starts with the ants' problem, attackers, then says how the acid solves it."
+    },
+    {
+     "t": "fill",
+     "p": "The Danish chemist who gave liquids pH numbers in 1909 was Søren ____.",
+     "a": [
+      "Sørensen",
+      "Sorensen"
+     ],
+     "why": "Søren Sørensen made the pH scale at the Carlsberg Laboratory in Copenhagen."
+    },
+    {
+     "t": "match",
+     "p": "Match each colour of cabbage water to what it means.",
+     "pairs": [
+      [
+       "Red",
+       "a strong acid"
+      ],
+      [
+       "Pink",
+       "a weaker acid"
+      ],
+      [
+       "Purple",
+       "neutral"
+      ],
+      [
+       "Blue",
+       "a weak base"
+      ],
+      [
+       "Green",
+       "a stronger base"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "The colours run in order along the line, from red at the acid end to green and yellow at the base end."
+    },
+    {
+     "t": "write",
+     "p": "Dosa batter tastes more sour after a night of fermenting than when it was first ground. What do you think made the change? How could you test it with cabbage water?",
+     "lines": 4,
+     "a": "Bacteria in the batter ate some of its sugars and made acid overnight. To test it, put a spoon of fresh batter and a spoon of fermented batter into two glasses of cabbage water and compare. The fermented one should be pinker.",
+     "why": "A strong answer says living bacteria made the acid, and plans a fair comparison."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these by which way they move cabbage water along the line.",
+     "cats": [
+      "Towards pink",
+      "Towards green",
+      "Stays the same"
+     ],
+     "items": [
+      [
+       "amla juice",
+       "Towards pink"
+      ],
+      [
+       "washing powder",
+       "Towards green"
+      ],
+      [
+       "tomato juice",
+       "Towards pink"
+      ],
+      [
+       "cooking soda",
+       "Towards green"
+      ],
+      [
+       "sugar",
+       "Stays the same"
+      ],
+      [
+       "salt",
+       "Stays the same"
+      ]
+     ],
+     "a": "see items",
+     "why": "Acids move it towards pink, bases towards green, and neutral things leave it where it is."
+    },
+    {
+     "t": "truefalse",
+     "p": "Lémery's spikes were never found, and today chemists explain acids with charged hydrogen particles instead.",
+     "a": true,
+     "why": "True. Over 200 years after Lémery, chemists found that all acids contain hydrogen, and Arrhenius explained that acids give out charged hydrogen particles in water."
+    }
+   ]
+  }
+ ],
+ "applications": [
+  "Cooks add lemon, tamarind or curd to give food a sour taste and to help it keep.",
+  "Cooking soda reacts with the sour in batter and makes gas bubbles, so bajji, dhokla and some idlis come out light.",
+  "Soap and detergent are bases that help lift grease and dirt off skin and clothes.",
+  "Farmers test the pH of their soil, because many crops grow best in soil that is close to neutral.",
+  "Water works test drinking water's pH to keep it safe and to stop pipes from rusting.",
+  "Swimming pools are checked with indicators every day so the water does not sting eyes.",
+  "Doctors measure the pH of blood, because the body must keep it close to 7.4.",
+  "Pickles stay good for months because their acid and salt stop many microbes from growing."
+ ],
+ "spotted": [
+  {
+   "text": "The lemon squeezed over poriyal, chaat or a plate of biryani.",
+   "art": "A hand squeezing half a lemon over a plate of vegetable poriyal."
+  },
+  {
+   "text": "Tamarind soaking in a small bowl, ready for rasam or sambar.",
+   "art": "A steel bowl with a lump of tamarind soaking in brown water."
+  },
+  {
+   "text": "A bowl of curd set overnight, a little more sour each day it sits.",
+   "art": "A clay pot of thick white curd with a spoon in it."
+  },
+  {
+   "text": "Weaver ants' leaf nests in a mango or neem tree. Do not touch: their bite stings with formic acid.",
+   "art": "A ball of green leaves stitched together on a mango branch, with orange ants on the edges."
+  },
+  {
+   "text": "A paan shop's small tin of white chuna, a strong base.",
+   "art": "A paan seller's tray with betel leaves and a small tin of white lime paste."
+  },
+  {
+   "text": "Soap foam on your hands, slippery because soap is a base.",
+   "art": "Two soapy hands with foam under a tap."
+  },
+  {
+   "text": "Red cabbage in the supermarket, and blue butterfly pea flowers on a fence or in a pot.",
+   "art": "A red cabbage on a market stall beside a climber with blue butterfly pea flowers."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "Exactly which jobs does anthocyanin do for each plant: shading the leaf, coping with cold, calling insects, or others?",
+   "why_open": "Scientists have found evidence for several jobs. Which one matters most seems to differ from plant to plant, and they are still testing it."
+  },
+  {
+   "q": "How does a sour taste cell on the tongue sense acid?",
+   "why_open": "In 2019, scientists found a channel in sour taste cells that lets hydrogen particles in. They are still working out how this and other parts together give us the feeling of sourness."
+  },
+  {
+   "q": "How fast, and how much, will the sea's pH keep changing as carbon dioxide rises?",
+   "why_open": "The sea is slowly becoming less basic. How fast this goes, and how it will affect corals and shellfish, depends on what people do with carbon dioxide."
+  }
+ ],
+ "ask_kids": [
+  "This rasam tastes sour. What gives it the sour taste?",
+  "Is this curd more sour than yesterday's? Why do you think so?",
+  "Why do you think soap feels slippery?",
+  "If we added cooking soda to this lemon juice, what would happen?",
+  "Where on the colour line do you think coconut water would go?",
+  "Why do we keep the toilet cleaner up high?",
+  "Can you think of a sour fruit we have not tested yet?",
+  "Why might red cabbage make a purple pigment for their own life?"
+ ],
+ "jokes": [
+  {
+   "j": "Why did the cabbage water blush?",
+   "a": "It saw the lemon juice."
+  },
+  {
+   "j": "What did the purple cabbage water say to the soap?",
+   "a": "You make me green with envy."
+  },
+  {
+   "j": "Why did the lemon go to the doctor?",
+   "a": "It wasn't peeling well."
+  },
+  {
+   "j": "Why was the vinegar so good at arguing?",
+   "a": "It always had a sharp answer."
+  },
+  {
+   "j": "Why did the cooking soda bubble when it met the lemon?",
+   "a": "It was too excited to sit still."
+  },
+  {
+   "j": "Knock knock. Who's there? Lemon. Lemon who?",
+   "a": "Lemon in, it's cold out here!"
+  },
+  {
+   "j": "What do you call a soap that tells jokes?",
+   "a": "A slippery character."
+  },
+  {
+   "j": "Why did the curd win the prize?",
+   "a": "It was the most cultured one there."
+  },
+  {
+   "j": "What does purple cabbage water say when nothing is added?",
+   "a": "Same old, same old. I'm feeling neutral."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "Lakshmi tested five liquids. On the pH scale they are: lemon juice 2, buttermilk 5, water 7, cooking soda water 8, detergent water 11. Put them in order from the most basic to the most acidic. Which liquid is furthest from water?",
+   "answer": "Detergent water 11, cooking soda water 8, water 7, buttermilk 5, lemon juice 2. Lemon juice is furthest from water.",
+   "explain": "The biggest number is the most basic, so we start at 11 and go down. Lemon juice is 7 minus 2, which is 5 steps from water. Detergent water is 11 minus 7, which is 4 steps from water. 5 is more than 4, so lemon juice is furthest.",
+   "math_unit": "math.number-sense.comparing-ordering.L3",
+   "context": "This is about ordering the liquids from the Cabbage Colour Line test by their pH numbers.",
+   "why_maths": "Ordering numbers is how we turn a row of colours into a line we can compare exactly.",
+   "how": "e1"
+  },
+  {
+   "problem": "In the Lemon or Buttermilk test, Divya's lemon glass needed 6 spoons of soda water to turn purple. Her buttermilk glass needed 2 spoons. How many times as many spoons did the lemon glass need? How many spoons would 2 teaspoons of lemon juice need?",
+   "answer": "3 times as many. 2 teaspoons of lemon juice would need about 12 spoons.",
+   "explain": "6 divided by 2 is 3, so the lemon glass needed 3 times as many spoons. One teaspoon of lemon needed 6 spoons. Twice as much lemon has twice as much acid, so it needs 2 lots of 6, which is 12 spoons.",
+   "math_unit": "math.multiplication.equal-groups.L3",
+   "context": "This is about the Lemon or Buttermilk test, where you counted spoons of soda water.",
+   "why_maths": "Comparing the counts tells us how much more acid one liquid has than the other, and lets us predict before we test.",
+   "how": "e2"
+  },
+  {
+   "problem": "Lakshmi set katori A at 8 in the morning on Monday. She set katori B at 8 in the morning on Tuesday. She tested both at 8 in the evening on Tuesday. How long had each katori been setting?",
+   "answer": "Katori B had 12 hours. Katori A had 36 hours.",
+   "explain": "From 8 in the morning to 8 in the evening is 12 hours, so katori B had 12 hours. Katori A started a whole day earlier, which adds 24 hours. 24 plus 12 is 36 hours.",
+   "math_unit": "math.time.duration.L3",
+   "context": "This is about the Milk to Curd test, where two katoris of curd were set on different days.",
+   "why_maths": "Working out how long each curd sat lets us connect the colour to the time the bacteria had to make acid.",
+   "how": "e3"
+  },
+  {
+   "problem": "A colour line has 13 squares. Square 7 is purple. Your token is on square 12. A soapy water card moves you 2 squares towards green, and a lemon juice card moves you 2 squares towards pink. What is the fewest number of lemon cards you need to land exactly on square 7?",
+   "answer": "You cannot land exactly on 7 with lemon cards alone. 2 lemon cards take you to square 8, and a third takes you to square 6.",
+   "explain": "From 12, each lemon card takes away 2: 12, 10, 8, 6. You jump over 7, because 12 minus 7 is 5, and 5 is an odd number, so steps of 2 never make it. You need a 1-square card, such as buttermilk or a big jug of water, as well.",
+   "math_unit": "math.number-sense.odd-even.L3",
+   "context": "This is about the Back to Purple board game.",
+   "why_maths": "Spotting the odd and even pattern tells you which cards can get you home before you draw them.",
+   "how": "g2"
+  }
+ ],
+ "song": {
+  "topic_level": "sci.chemistry.L3",
+  "title": "Pink, Purple, Green",
+  "note": "Topic-level song for Chemistry L3"
+ },
+ "links": [
+  {
+   "title": "PhET pH Scale: Basics",
+   "url": "https://phet.colorado.edu/en/simulations/ph-scale-basics",
+   "kind": "simulation",
+   "why": "A free online simulation. Test everyday liquids such as soap, milk and juice, and see where each one sits on the pH scale. Add water and watch the number move towards 7."
+  },
+  {
+   "title": "Science Buddies: Cabbage pH indicator",
+   "url": "https://www.sciencebuddies.org/stem-activities/cabbage-pH-indicator",
+   "kind": "interactive",
+   "why": "A step-by-step guide to the cabbage test, with photos of the colours to expect."
+  },
+  {
+   "title": "Royal Society of Chemistry: Making a pH indicator using red cabbage",
+   "url": "https://edu.rsc.org/experiments/making-a-ph-indicator-using-red-cabbage/422.article",
+   "kind": "interactive",
+   "why": "A class practical written for teachers, with a colour chart. Useful for a parent who wants more detail."
+  },
+  {
+   "title": "Visvesvaraya Industrial and Technological Museum",
+   "url": "https://www.vismuseum.gov.in",
+   "kind": "place",
+   "where": "Bengaluru",
+   "why": "A science museum with hands-on galleries, including science in everyday life."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-cabbage",
+   "item": "One red cabbage",
+   "kind": "material",
+   "why": "Red cabbage water is the indicator for almost every test in this unit. It is sold in supermarkets, bigger vegetable shops and online grocery apps. One small cabbage is enough for the whole unit: keep it in the fridge and use two or three leaves each time. If you cannot find it, blue butterfly pea flowers, fresh or dried, also work.",
+   "url": "https://www.bigbasket.com/ps/?q=red%20cabbage",
+   "used_in": [
+    "a1",
+    "e1",
+    "e2",
+    "e3",
+    "p1",
+    "c1"
+   ],
+   "plan": "Use the rest of the cabbage in a poriyal or salad, with a squeeze of lemon to keep it purple."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "What colour does lemon juice turn red cabbage water?",
+   "a": "Pink or red."
+  },
+  {
+   "q": "What colour does plain water leave red cabbage water?",
+   "a": "Purple."
+  },
+  {
+   "q": "Is soap an acid or a base?",
+   "a": "A base."
+  },
+  {
+   "q": "What do we call something that is neither an acid nor a base?",
+   "a": "Neutral."
+  },
+  {
+   "q": "Which acid is in curd?",
+   "a": "Lactic acid."
+  },
+  {
+   "q": "What gas makes the fizz when lemon juice meets cooking soda?",
+   "a": "Carbon dioxide."
+  },
+  {
+   "q": "On the pH scale, what number is neutral?",
+   "a": "7."
+  },
+  {
+   "q": "Why do weaver ants squirt formic acid?",
+   "a": "To make their bite sting, so attackers leave their nest alone."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "a1",
+   "story",
+   "e1",
+   "a3",
+   "big_questions",
+   "cards",
+   "g1"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "e1",
+   "summary",
+   "terms",
+   "explanations",
+   "story",
+   "a2",
+   "a3",
+   "g1",
+   "ws-core",
+   "e2",
+   "videos",
+   "a4",
+   "e3",
+   "agreed",
+   "challenging",
+   "g2",
+   "ws-stretch",
+   "p1",
+   "c1",
+   "c2",
+   "big_questions",
+   "ws-challenge",
+   "open_questions",
+   "quiz"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "a3",
+   "g1",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "app/content/curriculum/sci.json: sci.chemistry.acids-and-bases.L3 (covers: sour things, soapy things, red cabbage changes colour). No board chapters are listed for this subtopic.",
+   "Founder notebook items chem:216 (Foundations of acids and bases) and chem:217 (definitions of acids and bases): used for the Arrhenius idea of charged particles, told simply. chem:33, chem:218 and chem:219 (pKa, buffers, strong and weak acids) are left for later levels.",
+   "No by_topic notebook file exists for acids and bases. The festivals unit's turmeric and hibiscus tests and its Boyle, Lavoisier and Davy story are not repeated here."
+  ],
+  "science": [
+   "Lémery, Cours de Chymie, Paris, 1675 (pointed acid particles and porous alkalis)",
+   "Arrhenius, doctoral thesis on the conductivity of solutions, Uppsala, 1884, and Zeitschrift für physikalische Chemie 1, 1887 (dissociation into ions)",
+   "Sørensen, 'Enzymstudien II', Biochemische Zeitschrift 21, 1909 (the pH scale)",
+   "Royal Society of Chemistry, 'Making a pH indicator using red cabbage' (colours of anthocyanin across the pH range)",
+   "Gould, 'Nature's Swiss army knife: the diverse protective roles of anthocyanins in leaves', Journal of Biomedicine and Biotechnology, 2004 (light shading and other jobs)",
+   "Hölldobler and Wilson, The Ants, 1990 (formicine ants, including Oecophylla, spray formic acid)",
+   "Ray, letter on an acid juice from ants, Philosophical Transactions of the Royal Society, 1670-1671 (formic acid named from ants)",
+   "Zhang and others, 'Sour sensing from the tongue to the brain', Cell, 2019 (the OTOP1 channel that lets hydrogen particles into sour taste cells)",
+   "Remer, 'Influence of diet on acid-base balance', Seminars in Dialysis, 2000 (diet changes urine pH, not blood pH)",
+   "Intergovernmental Panel on Climate Change, AR6 Working Group I, 2021 (surface ocean pH fall of about 0.1 since pre-industrial times)"
+  ]
+ },
+ "roots": {
+  "context": "We have tested sour and soapy liquids and lined them up by colour. Now we ask what the colour line tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "Your cabbage water turned pink in lemon juice, purple in plain water and green in detergent water. Buttermilk, soda and soap gave the colours in between. So sour and soapy are the two ends of one line. Every watery liquid sits somewhere on that line, and the colour shows where.",
+   "habit": "We sort things into two boxes, acid or base, as if there were nothing between them. The many in-between colours show a smooth line, and neutral water is just one place on it.",
+   "evidence": "In the Cabbage Colour Line, every liquid found its own place between pink and green. In Lemon or Buttermilk, spoon by spoon of soda water moved the same glass along the line from pink to purple to blue."
+  },
+  "three": {
+   "who_am_i": "Your tongue can taste where a food sits on the line. Sour foods are near the acid end. Your blood stays at almost the same place on the line all your life.",
+   "what_is_life": "Curd bacteria make milk sour to keep it for themselves. Weaver ants squirt acid to guard their nests. Living beings use acids to live.",
+   "what_is_this_world": "Rain is a little acidic and the sea is a little basic. Every pond, river and soil has its own place on the line."
+  },
+  "thread": "Even plain water holds a tiny number of acid particles and base particles. In pure water there are exactly as many of each, so they balance. An acid tips the balance one way. A base tips it the other way. One balance, tipped by different amounts, gives every liquid its place, from lemon to soap. All the colours on your windowsill came from that one balance and one pigment.",
+  "teachings": [
+   {
+    "source": "Charaka Samhita, Sutrasthana 26",
+    "teaching": "In this chapter of the old Ayurveda book, sages argue about how many tastes there are. They agree on six: sweet, sour, salty, pungent, bitter and astringent. The Sanskrit word for sour is amla.",
+    "link": "Long before chemistry, people knew sour was its own taste. The Latin word acidus also means sour, and that is where the word acid comes from. Bases often taste bitter, another of the six. Your tongue was the first indicator."
+   },
+   {
+    "source": "Heraclitus, a Greek thinker of about 500 BCE, fragment 60 (Diels-Kranz numbering)",
+    "teaching": "The road up and the road down are one and the same road.",
+    "link": "Spoons of lemon move cabbage water towards pink. Spoons of soda move it towards green. It is the same line, travelled in two directions."
+   }
+  ],
+  "science": [
+   {
+    "text": "Water always splits a tiny bit into charged hydrogen particles and charged particles of oxygen and hydrogen. In pure water there are equal numbers of each, which is why pure water is neutral at pH 7.",
+    "status": "settled"
+   },
+   {
+    "text": "The pH of the sea has been falling slowly, from about 8.2 to about 8.1, because the sea takes in carbon dioxide that people add to the air.",
+    "status": "settled"
+   }
+  ],
+  "other_view": {
+   "who": "Many chemists",
+   "view": "The pH line is a useful tool that people made, and each liquid's number is just a count of charged particles. Linking it to a taste teaching from Ayurveda or a Greek saying is a nice picture, but it adds nothing to the chemistry."
+  },
+  "practice": {
+   "title": "One drop of lemon",
+   "mins": 3,
+   "say": "Sit still and close your eyes. I will put one drop of lemon juice on your tongue. Notice where you feel the sourness first. Now notice your mouth filling with water. That is saliva. Keep still and feel the sourness slowly fade. Take three slow breaths. Where did the sourness go?",
+   "kid": "Close your eyes. Put one drop of lemon on your tongue. Where do you feel it first? Feel your mouth fill with water. Feel the sourness fade. Breathe slowly three times."
+  },
+  "ask": [
+   "If sour and soapy are two ends of one line, is plain water a thing of its own, or just the middle of the line?",
+   "Your tongue tasted the lemon and the cabbage water showed it. Which one told you more?",
+   "Curd bacteria change milk to keep it for themselves. Is that cooking, or is it the bacteria's own way of living?"
+  ],
+  "art": "A child sitting cross-legged with eyes closed and a drop of lemon on her tongue, and behind her a windowsill of glasses from pink to green glowing in the evening light."
+ },
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat. Choices made: red cabbage water is made in the mixie with cold water, so no stove is needed. Clear glasses or white cups on white paper are asked for, because steel tumblers hide the colour. Every glass has a plain water control, because some city tap water makes cabbage water a little bluish. Only weak, food-safe acids and bases are tested. Detergent is made up by a grown-up. Toilet cleaners, drain cleaners and chuna appear only as 'grown-ups only' examples. The curd test needs two days because one katori must be set a day later. Its colour differences are gentle, so the steps say to compare side by side and accept 'the same' as a real result. Butterfly pea flowers are given as the alternative if no red cabbage can be found.",
+ "how_we_found_out": {
+  "story": "In 1675, a French chemist called Nicolas Lémery wrote a chemistry book in Paris, the Cours de Chymie. It became one of the most read chemistry books of its time. Lémery wanted to explain why acids taste sour and sting the tongue. He said that the particles of an acid have sharp points, like tiny spikes, and they prick the tongue. He said that bases, which he called alkalis, have particles full of holes. When an acid meets an alkali, the spikes push into the holes and break off, and that makes the fizzing. After that, the mixture is neither sour nor soapy. It was a clever picture, but no one could see the spikes or test them. Over the next 200 years, chemists studied many acids. They found that every acid contains hydrogen. In 1884, a young Swedish chemist, Svante Arrhenius, explained that in water an acid gives out tiny charged particles of hydrogen. A base gives out other charged particles, made of oxygen and hydrogen together. When an acid and a base meet, these two kinds join and make water. That is why they use each other up. No spikes were needed.",
+  "who": "Nicolas Lémery, a French chemist in Paris, and later Svante Arrhenius, a Swedish chemist",
+  "when": "1675 (Lémery's Cours de Chymie) and 1884 (Arrhenius's work on charged particles in water)",
+  "wrong_idea": "Lémery thought acids taste sour because their particles have sharp spikes, and that acids and alkalis fizz because the spikes break in the alkali's holes. Chemists found instead that all acids contain hydrogen, and Arrhenius showed that acids give out charged hydrogen particles in water, which join with a base's particles to make water."
+ }
+}

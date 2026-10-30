@@ -173,7 +173,7 @@
    ],
    "perspectives": [],
    "art": "A zoom-in from a sleeping fruit fly into one of their cells, where a tiny clock face is drawn inside.",
-   "context": "This card goes deeper. It explains how an animal knows what time it is, even without a watch."
+   "context": "This card goes deeper. It explains how an animal keeps track of the time of day, even without a watch."
   },
   {
    "concept": "What animal homes are for",
@@ -373,7 +373,7 @@
    "context": "This card is about a real puzzle: why weaver birds put mud inside their nests."
   },
   {
-   "claim": "We should feed every animal we see in the city, because it is kind.",
+   "claim": "We should feed every animal we see in the city, because feeding is kind.",
    "who": "Many kind people.",
    "for": "Feeding can help animals in hard times, like a hot summer or a flood.",
    "against": "Feeding monkeys teaches them to grab food from people. Bread and sweets can make birds and animals ill. Clean water in summer is usually safer and kinder than food.",
@@ -393,7 +393,7 @@
    "hint": "Ants build cities too. Is an anthill natural?"
   },
   {
-   "q": "How does a bat know it is evening, deep inside a dark cave?",
+   "q": "How does a bat know that evening has come, deep inside a dark cave?",
    "kind": "deep",
    "hint": "Think about the clock inside every body."
   },
@@ -457,10 +457,10 @@
    "The chicks grew. Two were scruffy and grey-black, like small copies of their parents. The third was strange. They were bigger than the others, blacker and shinier, and they shouted for food louder than both of them put together. Nail and Builder worked from dawn to dusk to fill their open mouth.",
    "One morning in June, a new sound came from the neem. It was not the croak of a crow chick. It was a loud, shrill cry, again and again, and it came from the big black chick. Amma came to the window with a dish towel in her hand. She looked for a long time. 'That is not a crow,' she said, surprised. 'That is a baby koel. In a crow's nest.'",
    "She explained. A koel mother does not build a nest at all. She waits until the crows are busy, slips into their nest and lays one egg among theirs. The crows do not seem to notice. They feed the koel chick as their own. When a male koel grows up, he sings the ku-oo, ku-oo, ku-OO call that every child in Chennai knows from the summer.",
-   "Tara looked at the big black chick, their beak wide open, and at Nail pushing food into it. She looked at the toothbrush and the hair clips and her own copper wire, woven into the walls of the nest. The nest was made of the neem tree, and of their flat, and of two crows' hard work. And a koel was growing up inside it. 'Whose home is it, then?' she asked. Amma did not answer. She stood beside Tara, and they watched together.",
+   "Tara looked at the big black chick, their beak wide open, and at Nail pushing food into the chick's wide mouth. She looked at the toothbrush and the hair clips and her own copper wire, woven into the walls of the nest. The nest was made of the neem tree, and of their flat, and of two crows' hard work. And a koel was growing up inside it. 'Whose home is it, then?' she asked. Amma did not answer. She stood beside Tara, and they watched together.",
    "In July the cardboard sign came down, and the nest stood empty, as nests do when their work is done. But every evening Tara still watched the crows fly off to the temple tree. The next summer, early one morning, she heard a koel calling ku-oo from somewhere she could not see. She wrote it in her notebook. Time: 5:40 am. What I heard: a koel. Maybe one of ours."
   ],
-  "epiphany": "For the parent: the crows were not attacking at random. Tara found their habit only by watching for several days and writing down the time and the place of every dive. The pattern showed that the crows were guarding a nest, and it also showed a simple way for people and crows to share the yard. That is the heart of this unit: habits are patterns, and patterns only appear when we watch over time. The story also quietly asks what a home is, when a crow's nest is built from a neem tree and a family's lost things, and raises a koel's chick.",
+  "epiphany": "For the parent: the crows were not attacking at random. Tara found their habit only by watching for several days and writing down the time and the place of every dive. The pattern showed that the crows were guarding a nest, and it also showed a simple way for people and crows to share the yard. That is the heart of this unit: habits are patterns, and patterns only appear when we watch over time.",
   "ask": [
    "Why did Murugan think the crows were mad? What did Tara find out instead?",
    "How did writing down the times help Tara? Could she have found the pattern in one day?",
@@ -481,29 +481,51 @@
    "id": "g1",
    "title": "Who Lives Here?",
    "mins": 20,
-   "players": "2 to 4 players, or one child playing against the app",
-   "context": "This is a memory card game about animal homes. Each animal card has a matching home card. Some animals have no fixed home at all.",
+   "players": "2 to 4 players",
+   "context": "This is a memory card game about animal homes. Each animal card has one matching home card. Four wanderer cards show animals with no fixed home.",
    "printables": [
     {
      "kind": "cards",
-     "title": "16 animal cards and 16 home cards to cut out",
+     "title": "16 animal cards",
      "items": [
-      "Crow | stick nest in a tree, sometimes with wire",
-      "Baya weaver bird | hanging nest woven from grass",
-      "Tailorbird | two leaves stitched together",
-      "Rock pigeon | a flat nest on a window ledge",
-      "Honey bee | wax hive with six-sided rooms",
-      "Termite | tall mound of soil",
-      "Spider | silk web",
-      "Owl | hole in an old tree",
-      "Indian grey hornbill | tree hole sealed with mud",
-      "Rat | burrow under the ground",
-      "Fruit bat | hangs upside down in a big tree",
-      "Potter wasp | tiny mud pot",
-      "Palm squirrel | ball of grass and fibre in a tree",
-      "House sparrow | a hole in a wall or a roof",
-      "Black ant | tunnels under the floor or soil",
-      "Earthworm | damp soil"
+      "Crow",
+      "Baya weaver bird",
+      "Tailorbird",
+      "Rock pigeon",
+      "Honey bee",
+      "Termite",
+      "Spider",
+      "Owl",
+      "Indian grey hornbill",
+      "Rat",
+      "Fruit bat",
+      "Potter wasp",
+      "Palm squirrel",
+      "House sparrow",
+      "Black ant",
+      "Earthworm"
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "16 home cards",
+     "items": [
+      "A stick nest in a tree, sometimes with wire",
+      "A hanging nest woven from grass",
+      "Two leaves stitched together",
+      "A flat nest on a window ledge",
+      "A wax hive with six-sided rooms",
+      "A tall mound of soil",
+      "A silk web",
+      "A bare hollow in an old tree trunk",
+      "A tree hole with a mud door",
+      "A burrow in the ground",
+      "Hanging upside down in a big tree",
+      "A tiny mud pot",
+      "A ball of grass and fibre in a tree",
+      "A hole in a wall or a roof",
+      "Crowded tunnels under the floor or beside a wall",
+      "A tunnel in damp soil"
      ]
     },
     {
@@ -518,27 +540,50 @@
     },
     {
      "kind": "tokens",
-     "title": "20 leaf tokens, cut from paper",
+     "title": "24 leaf tokens",
      "items": [
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
+      "🍃",
       "🍃"
      ]
     }
    ],
    "rules": [
-    "Cut out the 16 animal cards and the 16 home cards. Shuffle them together and lay them face down in rows.",
+    "Cut out the 16 animal cards, the 16 home cards and the 4 wanderer cards. Shuffle all 36 together and lay them face down in rows. Put the 24 leaf tokens in a pile.",
     "On your turn, turn over two cards and read them aloud.",
-    "If the animal matches their home, keep the pair. Say one thing the home is for, such as eggs, hiding or keeping cool. Then take a leaf token.",
-    "If they do not match, turn them back face down. Try to remember where they are.",
-    "Shuffle the 4 wanderer cards into the rows at the start. A wanderer has no home card. If you turn one over, read it aloud and keep it. Say why that animal does not need a fixed home, and take two leaf tokens.",
-    "When all cards are taken, the player with the most leaf tokens wins."
+    "If an animal card and its home card match, keep the pair. Say one thing the home is for, such as eggs, hiding or keeping cool. Then take a leaf token and have another turn.",
+    "If they do not match, turn them back face down. Try to remember where they are. Your turn is over.",
+    "A wanderer has no home card. If you turn one over, keep it, say why that animal does not need a fixed home, and take two leaf tokens. Turn the other card back face down. Then have another turn.",
+    "When all the cards are taken, count your leaf tokens. The player with the most wins. If two players tie, they share the win."
    ],
    "setup": [
     {
-     "art": "Thirty-six small picture cards laid face down in neat rows on a mat, with a bowl of paper leaf tokens beside them.",
+     "art": "Thirty-six small cards with words on them, laid face down in neat rows on a mat, with a bowl of paper leaf tokens beside them.",
      "caption": "1. Lay all the cards face down in rows."
     },
     {
-     "art": "A child turning over two cards: a picture of a weaver bird and a picture of a hanging grass nest.",
+     "art": "A child turning over two cards: one reads 'Baya weaver bird' and the other reads 'a hanging nest woven from grass'.",
      "caption": "2. Turn over two cards. Do they match?"
     },
     {
@@ -550,7 +595,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out all the cards and tokens. 2. Mix the wanderer cards in. 3. Lay all cards face down in rows.",
+     "do": "1. Cut out all the cards and tokens. 2. Shuffle the 36 cards together, wanderers too. 3. Lay all the cards face down in rows.",
      "say": "Every animal here has a home, or a special reason for not having one. Let's see who can remember where each home is hiding.",
      "kid": "Lay all the cards face down. Every animal has a home card. Find the pairs!",
      "context": "This is the first step of Who Lives Here?, a memory card game about animal homes. Here you set up the game."
@@ -558,9 +603,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play a practice round. Turn over the crow and the stick nest cards together.",
+     "do": "Play a practice round. Turn over the crow card and the stick nest card together.",
      "say": "Let's practise. This is a crow, and this is a stick nest. In the city, crows often add wire. What do you think the nest is for?",
-     "kid": "Practice round. A crow and a stick nest. What is the nest for? Tap your answer.",
+     "kid": "Practice round. A crow and a stick nest. What is the nest for?",
      "context": "This is a practice round of Who Lives Here?, the animal homes memory game.",
      "ask": [
       {
@@ -570,18 +615,7 @@
         "Most of the year they sleep on a branch."
        ]
       }
-     ],
-     "check": {
-      "t": "mcq",
-      "q": "What is a crow's nest mainly for?",
-      "options": [
-       "Sleeping in, every night of the year",
-       "Laying eggs and keeping the chicks safe",
-       "Storing food for the winter"
-      ],
-      "a": 1,
-      "why": "A crow builds their nest to lay eggs and raise chicks. When the chicks fly away, the nest is left empty. Picking 'sleeping in every night' is the most common mistake, because we think of a nest as a bird's house. Picking 'storing food' mixes crows up with squirrels or ants."
-     }
+     ]
     },
     {
      "id": "s3",
@@ -597,7 +631,7 @@
      "mins": 2,
      "do": "When someone turns over a wanderer card, stop and talk about it.",
      "say": "A wanderer! The tiger has no fixed home. Why might a big animal like a tiger keep moving?",
-     "kid": "A wanderer card! This animal has no fixed home. Why not? Tap your answer.",
+     "kid": "A wanderer card! This animal has no fixed home. Why not?",
      "context": "This step of the Who Lives Here? game is about animals that have no fixed home.",
      "check": {
       "t": "mcq",
@@ -626,7 +660,7 @@
    "id": "g2",
    "title": "Day Shift, Night Shift",
    "mins": 15,
-   "players": "2 or more players, best with 3 or more. One child can play with the app calling.",
+   "players": "2 or more players. With 2, one player calls and the other runs, then swap.",
    "context": "This is a running and sorting game about when animals are busy. Players run to the day side, the night side or the middle line for dawn and dusk.",
    "printables": [
     {
@@ -659,7 +693,7 @@
       },
       {
        "f": "Mosquito",
-       "b": "SUNSET LINE: a dawn and dusk animal"
+       "b": "SUNSET LINE: many mosquitoes bite at dawn and dusk"
       },
       {
        "f": "Firefly",
@@ -743,11 +777,11 @@
    ],
    "rules": [
     "Put the SUN sign at one end of the room and the MOON sign at the other end. Put the SUNSET LINE in the middle, on a strip of tape or an old sari.",
-    "The caller reads the animal on the front of one card aloud.",
-    "Everyone runs to the sign for when that animal is busiest: SUN, MOON or the SUNSET LINE.",
+    "One player is the caller. The caller reads the animal on the front of a card aloud, and keeps the back hidden.",
+    "Everyone else runs to the sign for when that animal is busiest: SUN, MOON or the SUNSET LINE.",
     "The caller reads the answer on the back. Everyone who was right scores a point.",
     "Anyone who can say why that animal is busy at that time scores a bonus point.",
-    "After 12 cards, swap the caller. The player with the most points wins."
+    "Swap the caller after every 6 cards, so everyone calls. When all 24 cards are used, the player with the most points wins."
    ],
    "setup": [
     {
@@ -777,7 +811,7 @@
      "mins": 3,
      "do": "Call 'Owl' as the practice card.",
      "say": "Owl! Where do you run?",
-     "kid": "Owl! Where do you go? Tap your answer.",
+     "kid": "Owl! Where do you run?",
      "context": "This is the practice round of Day Shift, Night Shift, the game about when animals are busy.",
      "check": {
       "t": "mcq",
@@ -794,7 +828,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Call the cards one by one. After each, read the answer and let children explain.",
+     "do": "Call the cards one by one. After each, read the answer and let players explain. Swap the caller after every 6 cards.",
      "say": "Next animal: fruit bat! Run! Now, who can tell me why bats come out in the evening?",
      "kid": "Listen to the next animal. Run to their shift. Then say why.",
      "context": "This is the main part of Day Shift, Night Shift, the game about when animals are busy.",
@@ -805,7 +839,7 @@
      "mins": 2,
      "do": "Stop and ask the big question.",
      "say": "Many animals rest at noon and are busy at dawn and dusk. Why do you think that is? Think of heat, light and enemies.",
-     "kid": "Why are many animals busy at dawn and dusk? Tap the best reason.",
+     "kid": "Why are many animals busy at dawn and dusk? Think of heat and light.",
      "context": "This step of Day Shift, Night Shift asks why animals choose a time to be busy.",
      "check": {
       "t": "mcq",
@@ -826,11 +860,11 @@
   {
    "id": "e1",
    "title": "Busy Times: when do birds visit a water bowl?",
-   "mins": 45,
+   "mins": 65,
    "days": 3,
    "question": "At which time of day do the most birds visit a bowl of water on our balcony or window?",
    "predict": "Before you start, guess. Will the most birds come in the morning, at noon, or in the evening? Write your guess, and why you think so.",
-   "fair_test": "To make it fair, keep everything the same except the time of day. Use the same bowl, in the same place, with fresh water each time. Watch for exactly 10 minutes, sitting in the same spot. Watch on 3 days, because one day might be odd, for example if it rains.",
+   "fair_test": "To make it fair, keep everything the same except the time of day. Use the same bowl, in the same place, with fresh water each time. Watch for exactly 5 minutes, sitting in the same spot. Watch on 3 days, because one day might be odd, for example if it rains.",
    "results_table": [
     "Day",
     "Morning, 7 am: visits",
@@ -859,8 +893,8 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 15,
-     "what": "Put out the bowl. Guess the busiest time. Watch at 7 am, 12 pm and 5 pm, 10 minutes each time, making tally marks."
+     "mins": 20,
+     "what": "Put out the bowl. Guess the busiest time. Watch at 7 am, 12 pm and 5 pm, 5 minutes each time, making tally marks."
     },
     {
      "day": 2,
@@ -869,17 +903,17 @@
     },
     {
      "day": 3,
-     "mins": 15,
+     "mins": 30,
      "what": "Watch at the same three times. Add up the visits. Draw a bar chart and say what you found."
     }
    ],
-   "record": "For each 10-minute watch, draw one tally line every time a bird lands at the bowl. Add up each time of day over the 3 days. Then draw a bar chart with one bar for morning, one for noon and one for evening.",
-   "context": "This is the Busy Times test. You put a bowl of water outside and count how many birds come to it in 10 minutes, at three different times of day, for three days.",
+   "record": "For each 5-minute watch, draw one tally line every time a bird lands at the bowl. Add up each time of day over the 3 days. Then draw a bar chart with one bar for morning, one for noon and one for evening.",
+   "context": "This is the Busy Times test. You put a bowl of water outside and count how many birds come to it in 5 minutes, at three different times of day, for three days.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: bird visits to a water bowl over 3 days",
     "x": "Time of day",
-    "y": "Visits in 3 watches of 10 minutes",
+    "y": "Visits in 3 days of 5-minute watches",
     "note": "These numbers are made up, to show what a finished chart can look like. Your numbers will be different.",
     "data": [
      {
@@ -906,7 +940,7 @@
     },
     {
      "art": "A clock showing 7 o'clock and a myna and a bulbul at the water bowl, with tally marks on a notebook page.",
-     "caption": "2. Watch for 10 minutes. Draw one line for each bird that lands."
+     "caption": "2. Watch for 5 minutes. Draw one line for each bird that lands."
     },
     {
      "art": "The same notebook with three columns of tally marks labelled with a rising sun, a high sun and a setting sun.",
@@ -921,10 +955,10 @@
      "say": "Birds need water, especially in the hot months. We're going to find out when they come to drink. First, what's your guess? Morning, noon or evening?",
      "kid": "Put out a bowl of water for birds. Guess when most birds will come. Morning, noon or evening?",
      "context": "This is the first step of the Busy Times test. You put out a bowl of water, then guess when most birds will come to it.",
-     "parent": "Keep the bowl in the same place for all 3 days. Birds can take a day or two to find a new water bowl, so the first day may be quiet. That is normal. If no bird has come to the bowl by day 2, count instead every bird you see from the same window in 10 minutes. Crows and pigeons live in almost every Indian town, so you will still have numbers to compare.",
+     "parent": "Keep the bowl in the same place for all 3 days. Birds can take a day or two to find a new water bowl, so the first day may be quiet. That is normal. If no bird has come to the bowl by day 2, count instead every bird you see from the same window in 5 minutes. Crows and pigeons live in almost every Indian town, so you will still have numbers to compare. If you can, put the bowl out the evening before.",
      "check": {
       "t": "mcq",
-      "q": "Why do we watch at the same spot and for the same 10 minutes each time?",
+      "q": "Why do we watch at the same spot and for the same 5 minutes each time?",
       "options": [
        "So the test is fair. Only the time of day changes.",
        "Because 10 is a lucky number.",
@@ -936,21 +970,21 @@
     },
     {
      "id": "s2",
-     "mins": 10,
-     "do": "At 7 am, sit still behind the window for 10 minutes. Make one tally line each time a bird lands at the bowl.",
+     "mins": 5,
+     "do": "At 7 am, sit still behind the window for 5 minutes. Make one tally line each time a bird lands at the bowl.",
      "say": "Sit very still. Every time a bird lands at the bowl, draw one line. If the same bird comes back, draw another line, because that is another visit.",
-     "kid": "Sit still and watch the bowl for 10 minutes. Draw one line for each bird that lands.",
+     "kid": "Sit still and watch the bowl for 5 minutes. Draw one line for each bird that lands.",
      "context": "This is the watching step of the Busy Times test, where you count bird visits to a water bowl.",
      "adult": false,
-     "parent": "Common visitors are crows, mynas, bulbuls, pigeons, sparrows, sunbirds and squirrels. Count only birds if you can, but note squirrels too. Ask your child to say the kind of bird if they know it."
+     "parent": "Common visitors are crows, mynas, bulbuls, pigeons, sparrows, sunbirds and squirrels. Count only birds if you can, but note squirrels too. Ask your child to name the bird if they know the name."
     },
     {
      "id": "s3",
-     "mins": 10,
+     "mins": 40,
      "do": "Repeat at 12 pm and at 5 pm. Do the same on days 2 and 3.",
-     "say": "Same place, same 10 minutes, now at noon. Do you think more birds will come, or fewer?",
-     "kid": "Now watch at noon, and again at 5 pm. Same place. Same 10 minutes.",
-     "context": "This step of the Busy Times test repeats the 10-minute watch at noon and in the evening, on three days.",
+     "say": "Same place, same 5 minutes, now at noon. Do you think more birds will come, or fewer?",
+     "kid": "Now watch at noon, and again at 5 pm. Same place. Same 5 minutes.",
+     "context": "This step of the Busy Times test repeats the 5-minute watch at noon and in the evening, on three days.",
      "wait": "Do this at 7 am, 12 pm and 5 pm on days 2 and 3."
     },
     {
@@ -990,14 +1024,14 @@
    "days": 1,
    "question": "On a hot day, is it cooler inside a hole in the ground than on the open ground in the sun?",
    "predict": "Guess the order before you measure. Which will be hottest: soil in the sun, soil in the shade, or inside a hole in the soil? Which will be coolest? Why do you think so?",
-   "fair_test": "To make it fair, use the same thermometer for every place. Leave it for the same 5 minutes in each place before reading it. Measure all three places within the same half hour, around noon, so the Sun is the same.",
+   "fair_test": "To make it fair, use the same thermometer for every place. Push the tip into the soil, about 1 cm deep, and leave it for the same 5 minutes in each place before reading it. Measure all three places within the same half hour, when the sun is strong, so the Sun is the same.",
    "results_table": [
     "Place",
     "Temperature after 5 minutes (°C)"
    ],
    "materials": [
     {
-     "item": "a thermometer, such as a digital kitchen probe or a room thermometer",
+     "item": "a thermometer with a metal probe, such as a digital kitchen probe",
      "qty": 1,
      "buy": "b-thermometer"
     },
@@ -1006,7 +1040,7 @@
      "qty": 1
     },
     {
-     "item": "soil in the sun and soil in the shade: the two biggest flower pots you have work, one on a sunny balcony and one in the shade, or a garden bed if you have one",
+     "item": "soil in the sun and soil in the shade: the two biggest flower pots you have, filled with the same soil, one on a sunny balcony and one in the shade (or a garden bed if you have one)",
      "qty": 1
     },
     {
@@ -1014,7 +1048,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do this with a grown-up. Wear a cap, drink water and do not stay in the noon sun for long. Before you dig, look carefully for ants, scorpions and snakes, and dig somewhere else if you see any.",
+   "safety": "Wear a cap, drink water and do not stay in the noon sun for long. If you dig in a garden bed, look first for ants, scorpions and snakes, and dig somewhere else if you see any.",
    "schedule": [
     {
      "day": 1,
@@ -1026,16 +1060,16 @@
    "context": "This is the Cool Home Test. You measure how hot it is on open ground in the sun, in the shade, and inside a little hole in the soil, like an animal's burrow.",
    "setup": [
     {
-     "art": "A thermometer lying on bare soil in bright sunshine, with a phone timer showing 5 minutes.",
-     "caption": "1. Lay the thermometer on soil in the sun for 5 minutes. Read it."
+     "art": "A digital probe thermometer pushed about 1 cm into bare soil in bright sunshine, with a phone timer showing 5 minutes.",
+     "caption": "1. Push the probe into sunny soil for 5 minutes. Read it."
     },
     {
-     "art": "The same thermometer lying on the soil of a flower pot in the shade.",
+     "art": "The same probe pushed into the soil of a flower pot in the shade.",
      "caption": "2. Move it to soil in the shade for 5 minutes. Read it."
     },
     {
      "art": "A small hole dug in soil, about a hand deep, with the thermometer pushed inside and the opening loosely covered with a leaf.",
-     "caption": "3. Put it inside a small hole for 5 minutes. Read it."
+     "caption": "3. Put the tip at the bottom of a small hole for 5 minutes. Read it."
     }
    ],
    "flow": [
@@ -1052,9 +1086,9 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Lay the thermometer on bare soil in full sun. Wait 5 minutes. Read it and write it down.",
-     "say": "Let's put the thermometer on the open ground first. We wait 5 minutes, so it has time to warm up properly.",
-     "kid": "Put the thermometer on the soil in the sun. Wait 5 minutes. Read the number.",
+     "do": "Push the tip of the thermometer about 1 cm into bare soil in full sun. Wait 5 minutes. Read it and write it down.",
+     "say": "Let's put the thermometer in the open ground first. We wait 5 minutes, so it has time to warm up properly.",
+     "kid": "Push the thermometer tip into the soil in the sun. Wait 5 minutes. Read the number.",
      "context": "This step of the Cool Home Test measures the open ground in the sun.",
      "adult": true,
      "parent": "On a hot Indian day, soil in the sun can feel too hot to touch, and the thermometer may read over 40 °C. On a cool day the differences are smaller, but still there."
@@ -1062,18 +1096,18 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Move the thermometer to soil in the shade. Wait 5 minutes. Read it.",
+     "do": "Push the tip about 1 cm into soil in the shade. Wait 5 minutes. Read it.",
      "say": "Now the shade. Same thermometer, same 5 minutes.",
-     "kid": "Now put it on soil in the shade. Wait 5 minutes. Read the number.",
+     "kid": "Now push it into soil in the shade. Wait 5 minutes. Read the number.",
      "context": "This step of the Cool Home Test measures the ground in the shade.",
      "adult": true
     },
     {
      "id": "s4",
      "mins": 8,
-     "do": "In the sunny pot or soil, dig a small hole about as deep as your hand is long. Push the thermometer inside. Cover the opening loosely with a leaf. Wait 5 minutes, then read it.",
+     "do": "In the sunny pot or soil, dig a small hole about as deep as your hand is long. Put the tip of the thermometer at the bottom. Cover the opening loosely with a leaf. Wait 5 minutes, then read it.",
      "say": "This hole is like a little burrow. Let's see how warm it is inside.",
-     "kid": "Dig a small hole, a hand deep. Put the thermometer in. Wait 5 minutes. Read it.",
+     "kid": "Dig a small hole, a hand deep. Put the thermometer tip at the bottom. Wait 5 minutes. Read it.",
      "context": "This step of the Cool Home Test measures the temperature inside a small hole, like an animal's burrow.",
      "adult": true,
      "check": {
@@ -1086,7 +1120,8 @@
       ],
       "a": 0,
       "why": "The Sun heats the surface. Soil passes heat down very slowly, so a little way underground stays cool in the day. That is why many animals hide in burrows at noon. Picking 'ice' means guessing without evidence. Picking 'broken' is worth checking, but the same thermometer gave sensible readings in the other two places."
-     }
+     },
+     "parent": "In a flower pot the hole is usually only a few degrees cooler than the top, because the pot heats up from the sides. In garden soil the difference is bigger. Write what you really measure. The numbers in the question are from a garden."
     },
     {
      "id": "s5",
@@ -1132,9 +1167,13 @@
     {
      "item": "a clean dry tissue, for the extra try",
      "qty": 1
+    },
+    {
+     "item": "a damp cloth, to wipe up afterwards",
+     "qty": 1
     }
    ],
-   "safety": "Use small black or brown house ants. Do not use red ants, big or small, because they bite or sting. Wash your hands after rubbing the floor.",
+   "safety": "Use small black or brown house ants. Do not use red ants, big or small, because they bite or sting.",
    "schedule": [
     {
      "day": 1,
@@ -1243,7 +1282,7 @@
      "qty": 1
     }
    ],
-   "safety": "Watch from inside, or from a safe step outside. Do not lean out of windows.",
+   "safety": "Watch from inside. Do not lean out of windows.",
    "schedule": [
     {
      "day": 1,
@@ -1400,7 +1439,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "a printed bingo card with 9 squares",
+     "item": "a sheet of paper with a grid of 9 squares, 3 across and 3 down, drawn by you (draw three lines across and three down)",
      "qty": 1
     },
     {
@@ -1417,11 +1456,11 @@
     }
    ],
    "record": "Tick each square when you find the sign. Write where you found it.",
-   "context": "This is a bingo game played on a walk. Instead of finding animals, you find signs that animals have been there, like feathers, footprints and chewed leaves.",
+   "context": "This is a bingo game played on a walk. Instead of finding animals, you find signs that animals have been there, like feathers, footprints and chewed leaves. You draw the bingo grid yourself.",
    "setup": [
     {
      "art": "A bingo card with 9 picture squares: a feather, a footprint, a chewed leaf, a web, a line of ants, bird droppings, a nest, a hole and a musical note for a call.",
-     "caption": "1. Take your bingo card on a walk."
+     "caption": "1. Draw your bingo grid and take it on a walk."
     },
     {
      "art": "A child crouching to look at a chewed leaf with holes in it, a pencil in her hand.",
@@ -1436,7 +1475,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Show the bingo card. Explain that we are looking for signs, not animals.",
+     "do": "Draw a grid of 9 squares on paper. Put one sign in each square: feather, footprint, chewed leaf, web, line of ants, bird droppings, nest, hole, animal sound. Explain that we look for signs, not animals.",
      "say": "Animals are often hiding. But they leave clues. A feather, a footprint, a chewed leaf. Let's find nine clues.",
      "kid": "Animals leave clues. Find nine clues on your bingo card.",
      "context": "This is the first step of Animal Signs Bingo. You learn that animals leave signs you can find."
@@ -1494,7 +1533,6 @@
      "qty": 1
     }
    ],
-   "safety": "Use clean materials. Wash your hands afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -1577,11 +1615,10 @@
      "qty": 1
     },
     {
-     "item": "24 small animal picture cards, drawn or printed",
+     "item": "24 small paper cards, one for each animal named in step 2 (write the name, and draw the animal if you like)",
      "qty": 24
     }
    ],
-   "safety": "No special safety needed.",
    "schedule": [
     {
      "day": 1,
@@ -1668,7 +1705,6 @@
      "qty": 1
     }
    ],
-   "safety": "Sit somewhere safe, away from traffic.",
    "schedule": [
     {
      "day": 1,
@@ -1843,7 +1879,7 @@
     },
     {
      "id": "s4",
-     "mins": 15,
+     "mins": 20,
      "do": "Day 7: read the diary together. Look for things that happened again and again. Draw a timeline of the animal's day.",
      "say": "Let's read the whole week. What did your animal do more than once? At what times? Now let's draw their day, from morning to night.",
      "kid": "Read your whole diary. What happened again and again? Draw your animal's day.",
@@ -1879,7 +1915,7 @@
    "mins": 45,
    "problem": "House sparrows nest in holes in walls and roofs. Many new buildings have smooth walls with no holes. Design and make a nest box that a pair of sparrows could use.",
    "constraints": [
-    "The entrance hole should be about 3 cm wide, about one and a half times as wide as a one-rupee coin. Bigger holes let in crows and mynas.",
+    "The entrance hole should be about 3 cm wide, a little wider than a one-rupee coin. Bigger holes let in crows and mynas.",
     "The box must be out of reach of cats, and in shade, at least as high as a door.",
     "No paint or glue inside the box, because chicks could swallow it.",
     "The box must keep out rain."
@@ -1986,7 +2022,7 @@
     "Give the birds another safe place, such as a ledge you do not mind them using."
    ],
    "creative": [
-    "Make a 'pigeon diary' first. Find out what times they come, like Tara did in the story. Maybe there is a pattern you can use.",
+    "Make a 'pigeon diary' first. Find out what times they come, as Tara did for the crows in the story The Wire Nest. Maybe there is a pattern you can use.",
     "Talk to neighbours and make a building plan, so the birds are not pushed from one flat to the next.",
     "Draw a poster for your building about watching kindly."
    ],
@@ -2083,12 +2119,6 @@
       "nocturnal"
      ],
      "why": "Nocturnal means active at night. Owls, fruit bats, house geckos and many moths are nocturnal."
-    },
-    {
-     "t": "truefalse",
-     "p": "Most birds sleep in their nests every night of the year.",
-     "a": false,
-     "why": "False, though many people think so. Most birds use a nest only for a few weeks, for eggs and chicks. The rest of the year they sleep perched on branches, often at a roost with many other birds."
     },
     {
      "t": "match",
@@ -2222,25 +2252,25 @@
     },
     {
      "t": "perspective",
-     "p": "Meenakshi, a girl in Class 3, lives in a flat. Two pigeons have started a nest on the air-conditioner box outside it.",
+     "p": "Sunita, a girl in Class 3, lives beside a big banyan tree. Hundreds of fruit bats hang in it all day and fly out at dusk.",
      "views": [
       {
-       "who": "Meenakshi's mother",
-       "says": "The pigeons make a mess, and the droppings can carry germs. Let's put up a net now, so they nest somewhere else."
+       "who": "A neighbour who parks cars under the tree",
+       "says": "The bats are noisy, and their droppings and half-eaten fruit fall on my car. Cut the branches."
       },
       {
-       "who": "Meenakshi",
-       "says": "Wild rock pigeons nest on cliff ledges, and to them our building is a cliff. Let them stay. They have nowhere else."
+       "who": "Sunita",
+       "says": "Fruit bats carry seeds far away when they feed at night, and new trees grow from them. If we cut the tree, they lose their roost."
       },
       {
-       "who": "Revathi, who helps at a bird rescue centre",
-       "says": "If there are already eggs, wait until the chicks fly. Then clean the box and close the gap."
+       "who": "Revathi, who helps at a bird and bat rescue centre",
+       "says": "Keep the tree. Move the cars to the other side of the building, away from the roost."
       }
      ],
      "ask": "Who do you agree with? Give one reason. Then say one thing that another person has right.",
      "lines": 4,
-     "a": "A strong answer picks one view and gives a reason, for example that eggs left without their parents will die. It also says what another view gets right: droppings really can make people ill, and pigeons really do treat buildings as cliffs.",
-     "why": "This is a real problem in Indian cities, with no single right answer. A good answer is fair to both the family and the birds."
+     "a": "A strong answer picks one view and gives a reason, for example that the roost tree is the bats' home and moving cars is easy. It also says what another view gets right: droppings really do spoil a car, and cutting the tree would not help the bats.",
+     "why": "This is a real problem in Indian towns, with no single right answer. A good answer is fair to both the neighbours and the bats."
     },
     {
      "t": "draw",
@@ -2260,6 +2290,14 @@
      ],
      "a": 1,
      "why": "Snakes hunt. Rats live near our food stores, and frogs live near our water, so snakes follow them. Snakes cannot digest milk well, so milk left out can harm them. This is a popular belief that the evidence does not support."
+    },
+    {
+     "t": "fill",
+     "p": "A hole or tunnel that an animal digs in the ground to live in is called a ____.",
+     "a": [
+      "burrow"
+     ],
+     "why": "A burrow is dug by the animal. Rats, crabs and porcupines dig burrows."
     }
    ]
   },
@@ -2281,15 +2319,6 @@
      "a": 1,
      "why": "On a rainy day there are puddles everywhere, so birds need the bowl less. That is why we count on 3 different days. One odd day cannot then fool us.",
      "how": "e1"
-    },
-    {
-     "t": "fill",
-     "p": "In the Cool Home Test, the open ground was 44 °C. Inside the hole it was 30 °C. So the hole was ____ degrees cooler.",
-     "a": [
-      "14"
-     ],
-     "why": "44 take away 30 is 14. That is a big difference, about as much as a hot afternoon and a cool night. Adding the numbers, to get 74, would be a mistake.",
-     "how": "e2"
     },
     {
      "t": "mcq",
@@ -2468,12 +2497,18 @@
      "why": "Some animals build, some dig, and some move into homes that others made. A rat snake often hunts a rat and then rests in the rat's own tunnel."
     },
     {
-     "t": "draw",
-     "p": "In some made-up Busy Times results, 14 birds came in the morning, 3 at noon and 11 in the evening. Draw a bar chart. Then write one sentence about what it shows.",
-     "a": "Three bars: morning 14, noon 3, evening 11. A sentence such as: 'Most birds came in the cool morning and evening, and very few at noon.'",
-     "why": "A bar chart shows the pattern at a glance. The tall bars are the cool times of day, when birds are busy.",
-     "how": "e1",
-     "art": "Empty axes with three spaces labelled morning, noon and evening."
+     "t": "truefalse",
+     "p": "Dengue mosquitoes bite mostly at night.",
+     "a": false,
+     "why": "False. Dengue mosquitoes bite mostly in the day, especially in the early morning and late afternoon. Malaria mosquitoes bite mostly at night. Knowing a habit helps people protect themselves."
+    },
+    {
+     "t": "fill",
+     "p": "Crows, rats and macaques live well near people because they can eat many kinds of ____.",
+     "a": [
+      "food"
+     ],
+     "why": "Towns are full of scraps, grain and fruit. An animal that can eat many kinds of food finds something to eat almost anywhere."
     }
    ]
   },
@@ -2751,7 +2786,7 @@
   },
   {
    "t": "mcq",
-   "p": "Which animal would find it easiest to live in a busy town?",
+   "p": "Which animal would live most easily in a busy town?",
    "opts": [
     "One who eats many kinds of food and is not too shy",
     "One who eats only one kind of leaf",
@@ -2957,13 +2992,13 @@
  "ask_kids": [
   "Which animal did you see first today? What were they doing?",
   "What time do you think the crows wake up?",
-  "Where do you think that pigeon sleeps at night?",
+  "Where do the pigeons near your home sleep at night?",
   "Can you find one animal home on the way to the shop?",
-  "What would a gecko's diary say about our kitchen?",
-  "Which animal shares our home without paying rent?",
+  "What would a gecko's diary say about your kitchen?",
+  "Which animal shares your home without paying rent?",
   "If you were a bat, what would your day look like?",
   "What do you do every day at the same time? Is that a habit?",
-  "Why do you think the dog sleeps in that same corner every afternoon?",
+  "Why do you think a street dog near you sleeps in the same corner every afternoon?",
   "What sounds of animals can you hear right now?",
   "If animals made a map of our street, what would they put on it?"
  ],
@@ -2985,40 +3020,12 @@
    "a": "They always have their own web."
   },
   {
-   "j": "What did the termite say about their tall home?",
-   "a": "It's a mound-ain."
-  },
-  {
-   "j": "Why did the bat hang upside down?",
-   "a": "To see the world from a new point of view."
-  },
-  {
    "j": "Why did the gecko stay near the tube light?",
    "a": "They were a light snacker."
   },
   {
    "j": "What do bees use to do their hair?",
    "a": "A honeycomb."
-  },
-  {
-   "j": "Why did the squirrel run along the wire?",
-   "a": "It was the only line they knew by heart."
-  },
-  {
-   "j": "Why was the ant so good at their job?",
-   "a": "They always stuck to the trail."
-  },
-  {
-   "j": "Why did the weaver bird get top marks?",
-   "a": "Their homework was very well knotted."
-  },
-  {
-   "j": "What did the earthworm say when they were late?",
-   "a": "Sorry, I was stuck in deep soil."
-  },
-  {
-   "j": "Why don't fruit bats need alarm clocks?",
-   "a": "They wake up when the sun goes down."
   },
   {
    "j": "Why did the koel never build a nest?",
@@ -3029,44 +3036,12 @@
    "a": "Caw-mputer science."
   },
   {
-   "j": "Why did the cow walk on the road every morning?",
-   "a": "She was a creature of habit."
-  },
-  {
    "j": "Why did the mosquito only come out at dusk?",
    "a": "They had a strict bite-time."
   },
   {
-   "j": "Why did the rat move into the drain?",
-   "a": "They liked the tunnel vision."
-  },
-  {
-   "j": "Why does a tiger never need a house key?",
-   "a": "They have no fixed home. They nap wherever they like."
-  },
-  {
-   "j": "Why did the hornbill seal her door with mud?",
-   "a": "Do not disturb, chicks inside."
-  },
-  {
    "j": "Why did the naturalist bring a pencil to the park?",
-   "a": "To draw her own conclusions."
-  },
-  {
-   "j": "Why did the pigeon bring a twig to the AC box?",
-   "a": "They wanted a cool new flat."
-  },
-  {
-   "j": "What did the squirrel say at noon?",
-   "a": "I'm too hot to trot. Wake me at five."
-  },
-  {
-   "j": "Why did the spider never get lost?",
-   "a": "They always knew their way around the web."
-  },
-  {
-   "j": "Why did the crow keep a diary?",
-   "a": "To remember who walked under their tree."
+   "a": "To draw their own conclusions."
   }
  ],
  "maths": [
@@ -3076,7 +3051,7 @@
    "explain": "Morning had 14 visits. Noon had 3. 14 take away 3 is 11. So 11 more birds came in the morning than at noon.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
    "how": "e1",
-   "context": "This is about the Busy Times test. You put out a bowl of water and counted how many birds landed in 10 minutes, at three times of day, for three days.",
+   "context": "This is about the Busy Times test. You put out a bowl of water and counted how many birds landed in 5 minutes, at three times of day, for three days.",
    "chart": {
     "type": "bar",
     "title": "Bird visits to a water bowl over 3 days",
@@ -3245,8 +3220,7 @@
    "used_in": [
     "a2",
     "p1"
-   ],
-   "plan": "Used again in bird and animal behaviour units."
+   ]
   },
   {
    "id": "b-magnifier",
@@ -3266,8 +3240,7 @@
    "url": "https://www.amazon.in/s?k=digital+probe+thermometer",
    "used_in": [
     "e2"
-   ],
-   "plan": "Used again in heat and weather units."
+   ]
   },
   {
    "id": "b-salimali",
@@ -3387,7 +3360,6 @@
    "e3",
    "e1",
    "g1",
-   "a2",
    "ws-core"
   ],
   "spine": [

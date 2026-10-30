@@ -74,7 +74,7 @@
    "term": "Segment",
    "meaning": "One of the many rings or sections that a body is made of, joined in a row.",
    "example": "An earthworm has more than a hundred segments. An ant's leg has segments too.",
-   "art": "An earthworm with their rings counted, and an ant's leg with its joints marked."
+   "art": "An earthworm with their rings counted, and the joints of an ant's leg marked."
   },
   {
    "term": "Mollusc",
@@ -190,15 +190,15 @@
    "concept": "Shells: snails and other molluscs",
    "status": "defined",
    "definition": "A snail is a mollusc, a soft-bodied animal with no backbone. Their own body makes their shell, from calcium carbonate. That is the same material as chalk.",
-   "description": "A snail's shell is not a house they found. It grows with the snail. A thin layer of the snail's body, called the mantle, lines the inside of the shell. The mantle takes calcium from the snail's food and water, makes calcium carbonate, and adds it to the open edge of the shell. So the shell grows bigger in a spiral, round and round. If the shell cracks, the snail can patch it from the inside. The snail themself is soft and wet. They move on one big muscly foot, sliding on a layer of slime. Clams, oysters, slugs, octopuses and squid are molluscs too. Slugs and octopuses have lost the outside shell over millions of years.",
+   "description": "A snail's shell is not a house they found. It grows with the snail. A thin layer of the snail's body, called the mantle, lines the inside of the shell. The mantle takes calcium from the snail's food and water, makes calcium carbonate, and adds it to the open edge of the shell. So the shell grows bigger in a spiral, round and round. If the shell cracks, the snail can patch the crack from the inside. The snail themself is soft and wet. They move on one big muscly foot, sliding on a layer of slime. Clams, oysters, slugs, octopuses and squid are molluscs too. Slugs and octopuses have lost the outside shell over millions of years.",
    "examples": [
-    "The spiral on a garden snail's shell shows how it grew, ring after ring, from the tiny tip in the middle.",
-    "A pearl is made the same way. When something gets inside an oyster's shell, often a tiny worm or other small animal, the oyster coats it with layer after layer of shell material.",
+    "The spiral on a garden snail's shell shows how the shell grew, ring after ring, from the tiny tip in the middle.",
+    "A pearl is made the same way. When something small gets inside an oyster's shell, the oyster coats the grain with layer after layer of shell material.",
     "An octopus is a mollusc with no shell at all, so they can squeeze through a gap as small as their beak."
    ],
    "perspectives": [],
    "art": "A snail shell cut in half to show the spiral inside, with the soft snail and their mantle at the open edge adding a new white rim.",
-   "context": "This card explains how a snail gets their shell. The snail makes it, and the shell grows with the snail."
+   "context": "This card explains how a snail gets their shell. The snail makes the shell, and the shell grows with the snail."
   },
   {
    "concept": "Armour on the outside: crabs, spiders and insects",
@@ -206,7 +206,7 @@
    "definition": "Crabs, spiders, insects, centipedes and millipedes are arthropods. They wear a hard skeleton on the outside, called an exoskeleton, and their legs bend at joints.",
    "description": "Your bones are inside, with your muscles wrapped around them. An arthropod is the other way round. Their hard skeleton is outside, and their muscles are inside, pulling on it. The armour is made mostly of a tough material called chitin. In crabs it is also packed with calcium carbonate, which makes it extra hard. Each leg is a set of hollow tubes joined at bendy places, like the joints of a straw. The armour protects the animal and stops them drying out. But armour cannot stretch. So to grow, an arthropod must moult. They make a new soft skin underneath, split the old one and climb out. Then they puff themself up with air or water before the new armour hardens.",
    "examples": [
-    "An empty cicada or crab shell left on a tree or beach is an old exoskeleton. The animal climbed out of it.",
+    "An empty cicada or crab shell left on a tree or beach is an old exoskeleton. The animal climbed out of the old shell and left the shell behind.",
     "A cockroach's back is hard and shiny because it is armour.",
     "Cooked prawns turn pink. Cooking frees a pink colour that was locked away in the shell."
    ],
@@ -246,7 +246,7 @@
    "concept": "Jellyfish: a body made mostly of water",
    "status": "defined",
    "definition": "A jellyfish is an invertebrate with a soft body that is about 95 parts in 100 water. They have no bones, no brain, no heart and no blood. They catch food with stinging tentacles.",
-   "description": "A jellyfish's body is a soft bell made mostly of water. The sea holds them up. If a jellyfish is washed onto the beach, they collapse into a flat blob, because nothing holds their shape out of water. They swim by squeezing their bell, which pushes water out behind them. Their tentacles hang below, covered in stinging cells. Each stinging cell holds a coiled thread, like a tiny harpoon. When a small fish touches it, the threads fire, and their venom stuns the fish. Jellyfish have no brain, but they have a net of nerves spread through the whole body. Jellyfish-like animals were swimming in the sea more than 500 million years ago, long before there were dinosaurs or trees.",
+   "description": "A jellyfish's body is a soft bell made mostly of water. The sea holds them up. If a jellyfish is washed onto the beach, they collapse into a flat blob, because nothing holds their shape out of water. They swim by squeezing their bell, which pushes water out behind them. Their tentacles hang below, covered in stinging cells. Each stinging cell holds a coiled thread, like a tiny harpoon. When a small fish touches the tentacle, the threads fire, and their venom stuns the fish. Jellyfish have no brain, but they have a net of nerves spread through the whole body. Jellyfish-like animals were swimming in the sea more than 500 million years ago, long before there were dinosaurs or trees.",
    "examples": [
     "Never touch a jellyfish on the beach, even one that looks dead. Their stinging cells can still fire.",
     "Corals and sea anemones are close cousins of jellyfish. They have stinging tentacles too.",
@@ -417,14 +417,6 @@
    "context": "This card is about the idea that invertebrates are 'lower' animals, and why scientists have dropped it."
   },
   {
-   "claim": "Spiders are insects.",
-   "who": "Many people, and even some old dictionaries.",
-   "for": "Spiders are small, have legs and hard skins, and live in the same places as insects.",
-   "against": "Spiders have 8 legs, 2 body parts and no feelers. Insects have 6 legs, 3 body parts and feelers. Spiders are arachnids, cousins of scorpions and mites.",
-   "status": "rejected",
-   "context": "This card is about a very common mix-up: spiders are not insects."
-  },
-  {
    "claim": "Invertebrates cannot feel anything. They are like little machines.",
    "who": "The French thinker René Descartes, almost 400 years ago, said this about all animals. Many people still think it about insects.",
    "for": "Many invertebrates have small nerve systems. Some of their actions are simple reflexes.",
@@ -535,7 +527,7 @@
    "So were mine.",
    "I think of the doctor, who had books, and of the lady who had a bucket and a summer and the patience to look. And I think of that thin white film, spreading across a broken place, in the dark green water of the harbour."
   ],
-  "epiphany": "For the parent: people thought a soft animal with no bones could never make something hard, so the argonaut must have stolen her shell. Watching proved them wrong. Animals without backbones build their hard parts too, as shells and armour on the outside, made from what they eat and the water around them. Snails, crabs, corals and the argonaut all do it. Our bones are made the same way, from food, only on the inside. The story also asks who gets believed: the man with books, or the woman who watched.",
+  "epiphany": "For the parent: people thought a soft animal with no bones could never make something hard, so the argonaut must have stolen her shell. Watching proved them wrong. Animals without backbones build their hard parts too, as shells and armour on the outside, made from what they eat and the water around them. Snails, crabs, corals and the argonaut all do it. Our bones are made the same way, from food, only on the inside.",
   "ask": [
    "Why did the doctor think the paper sailor must have stolen her shell?",
    "How did the cracked shell help Signora Power find the answer?",
@@ -557,43 +549,133 @@
    "id": "g1",
    "title": "Backbone or Not?",
    "mins": 20,
-   "players": "2 to 5 players, or one child playing against the app",
+   "players": "2 to 4 players",
    "context": "This is a card game about which animals have a backbone and which do not. A backbone is the chain of small bones down the middle of your back. Some cards are tricks, like the starfish, which is not a fish.",
    "printables": [
     {
      "kind": "cards",
-     "title": "30 animal cards to cut out, each with a picture and a name",
+     "title": "30 animal cards to cut out. The front has the animal's name. The back says which mat is right and why.",
      "items": [
-      "Earthworm",
-      "Garden snail",
-      "Crab",
-      "House spider",
-      "Ant",
-      "Starfish (sea star)",
-      "Jellyfish",
-      "Butterfly",
-      "Mosquito",
-      "Centipede",
-      "Octopus",
-      "Prawn",
-      "Woodlouse",
-      "Scorpion",
-      "Honeybee",
-      "Leech",
-      "Sea urchin",
-      "Coral",
-      "Cow",
-      "Sparrow",
-      "Cobra",
-      "Gecko",
-      "Frog",
-      "Rohu fish",
-      "Seahorse",
-      "Bat",
-      "Silverfish (an insect)",
-      "Cuttlefish",
-      "Sea cucumber",
-      "Tortoise"
+      {
+       "f": "Earthworm",
+       "b": "NO BACKBONE. A water skeleton: liquid held in tight by their muscles."
+      },
+      {
+       "f": "Garden snail",
+       "b": "NO BACKBONE. A soft body, with a shell they make themself."
+      },
+      {
+       "f": "Crab",
+       "b": "NO BACKBONE. Hard armour on the outside."
+      },
+      {
+       "f": "House spider",
+       "b": "NO BACKBONE. Armour on the outside and 8 legs."
+      },
+      {
+       "f": "Ant",
+       "b": "NO BACKBONE. Armour on the outside and 6 legs."
+      },
+      {
+       "f": "Starfish (sea star)",
+       "b": "TRICK CARD, 2 points. NO BACKBONE. Not a fish: five arms, tube feet and no bones."
+      },
+      {
+       "f": "Jellyfish",
+       "b": "TRICK CARD, 2 points. NO BACKBONE. Not a fish: a soft body, mostly water."
+      },
+      {
+       "f": "Butterfly",
+       "b": "NO BACKBONE. An insect: armour on the outside and 6 legs."
+      },
+      {
+       "f": "Mosquito",
+       "b": "NO BACKBONE. An insect: armour on the outside and 6 legs."
+      },
+      {
+       "f": "Centipede",
+       "b": "NO BACKBONE. Armour on the outside and many legs."
+      },
+      {
+       "f": "Octopus",
+       "b": "NO BACKBONE. A soft-bodied mollusc with no shell."
+      },
+      {
+       "f": "Prawn",
+       "b": "NO BACKBONE. Armour on the outside and 10 legs."
+      },
+      {
+       "f": "Woodlouse",
+       "b": "NO BACKBONE. Armour in plates and 14 legs. A land cousin of crabs."
+      },
+      {
+       "f": "Scorpion",
+       "b": "NO BACKBONE. Armour on the outside, 8 legs and a tail with a sting."
+      },
+      {
+       "f": "Honeybee",
+       "b": "NO BACKBONE. An insect: armour on the outside and 6 legs."
+      },
+      {
+       "f": "Leech",
+       "b": "NO BACKBONE. A soft worm with a body in rings."
+      },
+      {
+       "f": "Sea urchin",
+       "b": "NO BACKBONE. Spines outside and tube feet, like a starfish."
+      },
+      {
+       "f": "Coral",
+       "b": "NO BACKBONE. Tiny soft animals, cousins of jellyfish, that build a stony home."
+      },
+      {
+       "f": "Cow",
+       "b": "BACKBONE. A mammal, with bones inside."
+      },
+      {
+       "f": "Sparrow",
+       "b": "BACKBONE. A bird, with bones inside."
+      },
+      {
+       "f": "Cobra",
+       "b": "BACKBONE. A snake has no legs but a very long backbone."
+      },
+      {
+       "f": "Gecko",
+       "b": "BACKBONE. A lizard, with bones inside."
+      },
+      {
+       "f": "Frog",
+       "b": "BACKBONE. An amphibian, with bones inside."
+      },
+      {
+       "f": "Rohu fish",
+       "b": "BACKBONE. A fish, with bones inside and gills."
+      },
+      {
+       "f": "Seahorse",
+       "b": "TRICK CARD, 2 points. BACKBONE. A real fish, with a backbone and gills."
+      },
+      {
+       "f": "Bat",
+       "b": "BACKBONE. A mammal that flies, with bones inside."
+      },
+      {
+       "f": "Silverfish (an insect)",
+       "b": "TRICK CARD, 2 points. NO BACKBONE. Not a fish: an insect with 6 legs."
+      },
+      {
+       "f": "Cuttlefish",
+       "b": "TRICK CARD, 2 points. NO BACKBONE. Not a fish: a mollusc, a cousin of the octopus."
+      },
+      {
+       "f": "Sea cucumber",
+       "b": "TRICK CARD, 2 points. NO BACKBONE. An animal, not a plant: a cousin of the starfish."
+      },
+      {
+       "f": "Tortoise",
+       "b": "BACKBONE. A reptile. Their shell is joined to their backbone and ribs."
+      }
      ]
     },
     {
@@ -605,10 +687,13 @@
      ]
     },
     {
-     "kind": "tokens",
-     "title": "20 bone tokens (small paper bone shapes)",
+     "kind": "score sheet",
+     "title": "Score sheet: one row for each player, with room for tally marks",
      "items": [
-      "🦴"
+      "Player 1 points",
+      "Player 2 points",
+      "Player 3 points",
+      "Player 4 points"
      ]
     },
     {
@@ -621,12 +706,11 @@
     }
    ],
    "rules": [
-    "Cut out the 30 cards. Shuffle them and put them face down in a pile.",
-    "On your turn, take the top card and read the animal's name out loud.",
-    "Put it on the BACKBONE mat or the NO BACKBONE mat. Say one reason, like 'they have a shell' or 'they have bones like a fish'.",
-    "If you are right and give a reason, take a bone token. Check the answer list on the back of the tally sheet.",
-    "Trick cards, like the starfish, seahorse, silverfish and cuttlefish, win two tokens if you get them right and say why.",
-    "When all the cards are played, count the cards on each mat. Then the player with most tokens wins."
+    "Cut out the 30 cards. Shuffle them and put them face down in a pile. Lay the two mats side by side.",
+    "On your turn, take the top card and read the animal's name out loud. Do not turn it over yet.",
+    "Put the card on the BACKBONE mat or the NO BACKBONE mat, with the name facing up. Say one reason, like 'they have a shell' or 'they have bones like a fish'.",
+    "Now turn the card over and read the back. If you chose the right mat and gave a reason, make 1 tally mark in your row on the score sheet. A TRICK CARD scores 2. If you chose the wrong mat, move the card to the right one and score nothing.",
+    "The game ends when the pile is empty. Count the cards on each mat and write the two numbers on the tally sheet. The player with most points wins. If points are equal, you share the win."
    ],
    "setup": [
     {
@@ -646,26 +730,17 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Lay the two mats on the floor. 2. Shuffle the 30 cards and put them face down. 3. Put the bone tokens in a bowl.",
+     "do": "1. Lay the two mats side by side on the floor. 2. Shuffle the 30 cards and put them face down in a pile. 3. Give each player a row on the score sheet.",
      "say": "A backbone is the chain of small bones down the middle of your back. Each card is an animal. We will decide together: do they have a backbone, or not?",
-     "kid": "Put the two mats down. Mix the cards. Put them face down. For each animal, decide. Do they have a backbone, or not?",
+     "kid": "Put the two mats down. Mix the cards and make a face-down pile. For each animal, decide: backbone or not?",
      "context": "This is the first step of Backbone or Not?, a card game about which animals have a backbone. Here you set up the game."
     },
     {
      "id": "s2",
      "mins": 3,
-     "do": "Find the Earthworm card. Play it together as a practice round.",
+     "do": "Take out the Earthworm card. Play it together as a practice round: put it on a mat, turn it over to check, and do not score it.",
      "say": "Let's practise with one card. An earthworm. Do they have a backbone?",
-     "kid": "Practice card: an earthworm. Backbone or not? Tap your answer.",
-     "ask": [
-      {
-       "q": "How does a worm stay firm with no bones?",
-       "good": [
-        "They are full of water.",
-        "Their muscles squeeze the liquid inside them."
-       ]
-      }
-     ],
+     "kid": "Practice card: an earthworm. Backbone or not? Say your answer.",
      "check": {
       "t": "mcq",
       "q": "An earthworm. Which mat do they go on?",
@@ -680,10 +755,10 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Take turns drawing cards and placing them. Help with the trick cards: starfish, jellyfish, seahorse, silverfish, cuttlefish and sea cucumber.",
+     "do": "Take turns. Take the top card, read the name and put it on a mat. Say why, then turn the card over to check. Help with the six trick cards: starfish, jellyfish, seahorse, silverfish, cuttlefish and sea cucumber.",
      "say": "Watch out for tricky ones. A name can fool you. A starfish is not a fish. A seahorse is a fish. Look at the animal, not just their name.",
      "kid": "Take a card. Put it on a mat. Say why. Watch out: some names are tricks!",
-     "parent": "The trick cards: starfish, jellyfish, cuttlefish and silverfish have no backbone, even though their names say fish. A seahorse is a real fish with a backbone. Sea cucumbers are cousins of starfish, with no backbone. The bat has a backbone, like all mammals. The cobra has a backbone, though it has no legs.",
+     "parent": "The trick cards say TRICK CARD on the back. Starfish, jellyfish, cuttlefish and silverfish are not fish, and have no backbone. A seahorse is a real fish with a backbone. Sea cucumbers are cousins of starfish, with no backbone. The bat has a backbone, like all mammals. The cobra has a backbone, though it has no legs.",
      "check": {
       "t": "mcq",
       "q": "A seahorse card. Which mat?",
@@ -702,7 +777,7 @@
      "say": "Let's count. How many cards on the backbone mat? How many on the no backbone mat?",
      "kid": "Count the cards on each mat. Write the two numbers down.",
      "think": "Our card game has more backbone animals than real life. In the real world, out of every 100 kinds of animal, about 95 have no backbone. Why do you think the game has so many backbone animals?",
-     "parent": "The answer list. With a backbone: cow, sparrow, cobra, gecko, frog, rohu, seahorse, bat and tortoise. Every other card has no backbone. That is 9 cards with a backbone and 21 without. The game has more backbone animals than real life, because people know them better. That is worth talking about."
+     "parent": "With a backbone: cow, sparrow, cobra, gecko, frog, rohu, seahorse, bat and tortoise. Every other card has no backbone. That is 9 cards with a backbone and 21 without. The game has more backbone animals than real life, because people know them better. That is worth talking about."
     },
     {
      "id": "s5",
@@ -723,20 +798,20 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "12 minibeast cards, each with a picture, a name and their leg count",
+     "title": "12 minibeast cards to cut out. Each shows the animal's name and facts about their body.",
      "items": [
-      "Ant: 6 legs",
-      "Honeybee: 6 legs",
-      "Mosquito: 6 legs",
-      "House spider: 8 legs",
-      "Scorpion: 8 legs",
-      "Crab: 10 legs",
-      "Prawn: 10 legs",
-      "Woodlouse: 14 legs",
-      "Centipede: many legs, one pair on each segment",
-      "Millipede: many legs, two pairs on each segment",
-      "Earthworm: no legs",
-      "Garden snail: no legs, one foot"
+      "Ant: 6 legs. 3 body parts. Feelers. No wings (worker ants). No shell. Lives on land.",
+      "Honeybee: 6 legs. 3 body parts. Feelers. Wings. No shell. Lives on land.",
+      "Mosquito: 6 legs. 3 body parts. Feelers. Wings. No shell. Lives on land (the young live in water).",
+      "House spider: 8 legs. 2 body parts. No feelers. No wings. No shell. Lives on land.",
+      "Scorpion: 8 legs. 2 body parts. No feelers. No wings. No shell. Lives on land. A tail with a sting.",
+      "Crab: 10 legs, two of them big claws. 2 body parts. Small feelers. No wings. A hard shell. Lives in water or at the shore.",
+      "Prawn: 10 legs. Long feelers. No wings. A thin shell. Lives in water.",
+      "Woodlouse: 14 legs. A short body in plates. Feelers. No wings. No shell. Lives on land.",
+      "Centipede: many legs, one pair on each segment. A long body in rings. Feelers. No wings. No shell. Lives on land.",
+      "Millipede: many legs, two pairs on each segment. A long body in rings. Feelers. No wings. No shell. Lives on land.",
+      "Earthworm: no legs. A long body in rings. No feelers. No wings. No shell. Lives in damp soil on land.",
+      "Garden snail: no legs, one foot. A shell. Feelers on the head. No wings. Lives on land."
      ]
     },
     {
@@ -750,16 +825,16 @@
       "Do they live in water?",
       "Do they have wings?",
       "Do they have feelers?",
-      "Is their body in rings?"
+      "Is their body long and in rings?"
      ]
     }
    ],
    "rules": [
     "Lay all 12 cards face up so everyone can see them.",
     "One player secretly picks one animal and writes their name on a scrap of paper.",
-    "The others take turns asking yes or no questions about their body. 'Are they cute?' does not count.",
-    "After each answer, turn over every card that it rules out.",
-    "Whoever names the secret animal first wins that round and picks the next secret animal.",
+    "The others take turns asking yes or no questions about the animal's body. 'Are they cute?' does not count.",
+    "After each answer, turn over every card that it rules out. If only one card is left face up, that is the secret animal.",
+    "Whoever names the secret animal first wins that round and picks the next secret animal. With two players, the guesser wins by naming the animal.",
     "Try to find the animal in 4 questions or fewer."
    ],
    "setup": [
@@ -782,7 +857,7 @@
      "mins": 2,
      "do": "1. Lay out the 12 cards face up. 2. You pick the first secret animal: choose the house spider. Write the name on paper.",
      "say": "I have picked a secret animal from these cards. Ask me yes or no questions about their body. Try to find them in four questions.",
-     "kid": "The app has picked a secret animal. Ask yes or no questions about their body. Can you find them in four?",
+     "kid": "A grown-up has picked a secret animal. Ask yes or no questions about their body. Can you find them in four?",
      "context": "This is the first step of Guess My Minibeast. You find a secret small animal by asking about their legs, shell and body."
     },
     {
@@ -1168,7 +1243,7 @@
     },
     {
      "t": "mcq",
-     "p": "Remember the Armour Tubes experiment? You stood three paper columns of one shape under a board, round tubes, square tubes or zigzags, and added books until they crumpled. Which shape held the most?",
+     "p": "Remember the Armour Tubes experiment? You stood three paper columns of one shape under a board, round tubes, square tubes or zigzags, and added books until they crumpled. In the made-up example chart, which shape held the most?",
      "opts": [
       "The zigzags",
       "The round tubes",
@@ -1456,7 +1531,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw a simple family tree with these animals on its branches: jellyfish, snail, ant, starfish, fish, you. Put the closest cousins next to each other.",
+     "p": "Draw a simple family tree with these animals on the branches: jellyfish, snail, ant, starfish, fish, you. Put the closest cousins next to each other.",
      "a": "Jellyfish on an early low branch. Then a split: snail and ant on one side, starfish, fish and you on the other side, with starfish branching off just before fish and you.",
      "why": "Jellyfish branched off early. Snails and insects share one big branch. Starfish share the other big branch with backboned animals.",
      "art": "A blank tree trunk with a few empty branches."
@@ -1479,7 +1554,7 @@
    "days": 1,
    "question": "Which bottles stay firm under a load: open and empty, capped with air, or capped and full of water?",
    "predict": "Before you test, look at three pairs of bottles: open and empty, capped with only air inside, and capped and full of water. Guess which pair will sink the least under a pile of books, and then under you sitting on the board. Say why you think so.",
-   "fair_test": "To make it fair, use six bottles of the same kind and size. Lay each pair the same way, with the same board and the same books on top. Measure the height the same way each time, with the ruler standing straight up. Test each pair under the books 3 times, because one try can be a fluke. For the sitting test, the same child sits in the same place each time.",
+   "fair_test": "To make it fair, use six bottles of the same kind and size. Lay each pair the same way, with the same board and the same books on top. Measure the height the same way each time, with the ruler standing straight up. Test each capped pair under the books 3 times, because one try can be a fluke. An open bottle squashes for good, so test the open pair only once and write the same number in all three boxes. For the sitting test, the same child sits in the same place each time.",
    "results_table": [
     "Pair of bottles",
     "Books: try 1 (cm)",
@@ -1519,7 +1594,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do this on the floor, on a towel, so spilled water does not make anyone slip. Put the books on gently, and keep fingers out from under the board. In the sitting test, use only the capped bottles, put a book against each bottle so it cannot roll, and hold your child's hands for balance.",
+   "safety": "Do this on the floor, on a towel. Put the books on gently, and keep fingers out from under the board. In the sitting test, use only the capped bottles, put a book against each bottle so it cannot roll, and hold your child's hands for balance.",
    "schedule": [
     {
      "day": 1,
@@ -1610,13 +1685,13 @@
     {
      "id": "s3",
      "mins": 9,
-     "do": "1. Lay one pair of bottles on the towel, a hand-span apart. 2. Push a book against the outside of each bottle, so it cannot roll. 3. Put the board across the bottles. 4. Stand the ruler on the towel and read the height of the board. 5. Pile the 5 books on the board gently. 6. Read the height again, and write how far it sank. 7. Take the books off. Test each pair 3 times.",
+     "do": "1. Lay one pair of bottles on the towel, a hand-span apart. 2. Push a book against the outside of each bottle, so it cannot roll. 3. Put the board across the bottles. 4. Stand the ruler on the towel and read the height of the board. 5. Pile the 5 books on the board gently. 6. Read the height again, and write how far it sank. 7. Take the books off. Test each capped pair 3 times, but the open pair only once, because a squashed bottle cannot be used again. For the open pair, write the same number in all three boxes.",
      "say": "First we read the height with just the board. Then with the books. The difference is how far the bottles sank.",
      "kid": "Put two bottles under the board. Read the ruler. Add the books. Read it again. How far did it sink?",
      "parent": "Put the books on in the same order and the same place each time. To find the middle value, put the three numbers in order and take the middle one. Expect the open bottles to sink a lot. Both capped pairs will hardly sink, often less than 1 cm. That is a real result: a cap that holds air in also makes a bottle firm. The next two steps show the difference between air and water.",
      "chart": {
       "type": "table",
-      "title": "Made-up example: how to fill in the books part of the table",
+      "title": "Made-up example: how to fill in the books part of the table (the open pair was tested once)",
       "cols": [
        "Pair of bottles",
        "Try 1 (cm)",
@@ -1628,7 +1703,7 @@
        [
         "Open and empty",
         "5",
-        "4",
+        "5",
         "5",
         "5"
        ],
@@ -1714,7 +1789,7 @@
      "kid": "Draw one bar for each pair. A shorter bar means it sank less.",
      "check": {
       "t": "mcq",
-      "q": "In the Water Bones chart, the open bottles have the tallest bar. What does that mean?",
+      "q": "In the made-up Water Bones chart, the open bottles have the tallest bar. What does that mean?",
       "options": [
        "They were the firmest",
        "They sank the most, because nothing held their shape",
@@ -1795,7 +1870,6 @@
      "qty": 1
     }
    ],
-   "safety": "Add notebooks gently and keep your face away from the top of the stack.",
    "schedule": [
     {
      "day": 1,
@@ -1909,7 +1983,7 @@
      "kid": "Draw one bar for each shape. A taller bar means it held more.",
      "check": {
       "t": "mcq",
-      "q": "In the Armour Tubes chart, which shape is strongest?",
+      "q": "In the made-up Armour Tubes chart, which shape is strongest?",
       "options": [
        "The zigzag, because it has the most folds",
        "The round tube, because its bar is tallest",
@@ -1917,7 +1991,7 @@
        "The square tube, because it has corners"
       ],
       "a": 1,
-      "why": "The round tubes held the most books, so their bar is tallest. A round tube spreads the weight evenly all the way round. Picking the zigzag is a good guess, because folds do make paper stiffer, but a zigzag bends and falls sideways."
+      "why": "The round tubes held the most books in this example, so their bar is tallest. A round tube spreads the weight evenly all the way round. Picking the zigzag is a good guess, because folds do make paper stiffer, but a zigzag bends and falls sideways. Your own results may differ a little: write what you found."
      },
      "chart": {
       "type": "bar",
@@ -1950,7 +2024,7 @@
      "do": "Ask your child to say three sentences: what I think, what I saw, and why.",
      "say": "Tell me three things. Why do you think an ant's legs are hollow tubes of armour? What did you see? And why?",
      "kid": "Say three things. What I think. What I saw. Why.",
-     "parent": "A good answer: What I think: tubes are a strong shape for armour. What I saw: the round tubes held 12 books, but the zigzags held only 2. Why: a tube spreads the weight all the way round, and it is hollow, so it is strong without being heavy. Your own long bones are hollow tubes too.",
+     "parent": "A good answer might be: What I think: tubes are a strong shape for armour. What I saw: the round tubes held 12 books, but the zigzags held only 2. Why: a tube spreads the weight all the way round, and it is hollow, so it is strong without being heavy. Your own long bones are hollow tubes too.",
      "think": "Bicycle frames, bamboo and the bones in your legs are all tubes. Why do you think so many strong things are tubes?"
     }
    ]
@@ -1996,7 +2070,7 @@
      "qty": 1
     }
    ],
-   "safety": "Put a towel underneath, because the bag will drop. Keep your feet out of the way. Hang it low, about knee height.",
+   "safety": "Keep your feet out from under the bag, because it drops when the suckers pop off. Hang it low, about knee height.",
    "schedule": [
     {
      "day": 1,
@@ -2062,7 +2136,7 @@
     },
     {
      "id": "s3",
-     "mins": 10,
+     "mins": 12,
      "do": "1. Hang the bag from the sucker with a short string. 2. Pour in rice one cup at a time, gently. 3. When the sucker pops off, write how many full cups it held. 4. Now use two suckers, each tied to the bag. 5. Then four. 6. Test each twice.",
      "say": "One cup at a time, gently. When it pops, we write down the last number of cups it held.",
      "kid": "Add rice one cup at a time. When the sucker pops off, write how many cups it held. Then try two suckers, then four.",
@@ -2101,7 +2175,7 @@
      "kid": "Draw one bar for each number of suckers. Do the bars grow?",
      "check": {
       "t": "mcq",
-      "q": "In the Many Small Suckers chart, 4 suckers held about 4 times as much as 1 sucker. What does that tell us about a starfish?",
+      "q": "In the made-up Many Small Suckers chart, 4 suckers held about 4 times as much as 1 sucker. What does that tell us about a starfish?",
       "options": [
        "One big tube foot would be better",
        "Hundreds of small tube feet together can grip very strongly",
@@ -2351,7 +2425,7 @@
    "context": "This is a key, a set of yes or no questions that leads you to an animal's group. You use it to tell insects, spiders, crabs and centipedes apart by counting legs.",
    "setup": [
     {
-     "art": "A clear plastic box with an ant inside, a magnifying glass above it, and a child's eye looking through.",
+     "art": "A clear plastic box with an ant inside, a magnifying glass above the box, and a child's eye looking through.",
      "caption": "1. Look closely at one animal. Count their legs."
     },
     {
@@ -2395,7 +2469,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Look at the ant and the spider cards side by side. Count their body parts.",
+     "do": "Look at the ant and the house spider cards side by side. Count their body parts and check for feelers.",
      "say": "Count the body parts too. The ant has a head, a middle and a back end. How many parts does the spider have? And do they have feelers?",
      "kid": "Look at the ant and the spider. Count their body parts. Which one has feelers?",
      "ask": [
@@ -2510,7 +2584,7 @@
      "id": "s4",
      "mins": 2,
      "do": "Look at the shiny trail they leave. Then put the snail back exactly where you found them.",
-     "say": "See the shiny trail? That is their slime. Let's take them home now, where we found it.",
+     "say": "See the shiny trail? That is their slime. Let's take them home now, where we found them.",
      "kid": "Look at the shiny slime trail. Then help put the snail back where you found them. Wash your hands with soap.",
      "adult": true
     },
@@ -2551,7 +2625,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up does the cutting. Wipe up any spilled water so nobody slips.",
+   "safety": "A grown-up does the cutting.",
    "schedule": [
     {
      "day": 1,
@@ -2650,7 +2724,6 @@
      "qty": 1
     }
    ],
-   "safety": "Keep the tape off skin and hair. Make the paper tube loose enough to slide.",
    "schedule": [
     {
      "day": 1,
@@ -2748,7 +2821,7 @@
      "qty": 1
     }
    ],
-   "safety": "Never touch a spider. Keep your hands away from the web. Spray from at least an arm's length away, and only a light mist. A grown-up comes along to the balcony and the staircase.",
+   "safety": "Never touch a spider or the web. Spray from at least an arm's length away, and only a light mist. A grown-up comes along to the balcony and the staircase.",
    "schedule": [
     {
      "day": 1,
@@ -2780,7 +2853,7 @@
      "say": "Spiders are not insects. They have 8 legs. Many spiders spin silk webs to catch insects. Let's find one.",
      "kid": "Look with a grown-up for a spider web. Try corners, window grills and balcony plants.",
      "adult": true,
-     "context": "This is the first step of Spider Web Hunt. You find a spider's web and look closely at how it is built.",
+     "context": "This is the first step of Spider Web Hunt. You find a spider's web and look closely at how the web is built.",
      "parent": "Indoors, most webs are loose tangles in corners, made by thin long-legged cellar spiders. Round webs are more often on balcony plants and railings. If you find no web at all, look for a small jumping spider on a wall or window. They hunt by jumping, with no web. Count their 8 legs instead."
     },
     {
@@ -2796,19 +2869,7 @@
      "mins": 6,
      "do": "If the web is round, count the spokes running out from the middle and look for the spiral thread. If it is a tangle, look for where the threads are thickest. Look for the spider, often in the middle or hiding at the edge.",
      "say": "Is it a round web or a tangle? If it is round, count the spokes, the straight threads from the middle. Where is the spider waiting?",
-     "kid": "Is it round or a tangle? Count the spokes if it is round. Can you see the spider? Do not touch them.",
-     "check": {
-      "t": "mcq",
-      "q": "A spider has 8 legs, 2 body parts and no feelers. Which group are they in?",
-      "options": [
-       "Insects",
-       "Arachnids",
-       "Worms",
-       "Crabs"
-      ],
-      "a": 1,
-      "why": "Spiders are arachnids, with scorpions and mites. Picking 'insects' is the most common mix-up, because spiders catch insects and live in the same places. But insects have 6 legs and 3 body parts."
-     }
+     "kid": "Is it round or a tangle? Count the spokes if it is round. Can you see the spider? Do not touch them."
     },
     {
      "id": "s4",
@@ -3027,7 +3088,7 @@
     },
     {
      "id": "s4",
-     "mins": 5,
+     "mins": 20,
      "do": "On day 3, 7 and 10, unwrap the bottle, look closely, and draw it again. Mist the top if it is dry.",
      "say": "Look closely against the plastic. Can you see tunnels? Are the stripes still sharp? Are any leaves pulled down?",
      "kid": "Unwrap the bottle. Look for tunnels and mixed stripes. Draw it. Mist it if it is dry.",
@@ -3108,7 +3169,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Read the problem together. Look at pictures of a crab, a woodlouse and a prawn's tail.",
+     "do": "Read the problem together. Look at pictures of a crab, a woodlouse and a prawn's tail in a book or online.",
      "say": "A crab's armour cannot grow, so they have to break out of it. Can we invent armour that grows with you?",
      "kid": "Read the problem. Armour that can grow. Look at how a woodlouse's back is made of plates.",
      "context": "This is the first step of the Armour That Can Grow challenge. You design armour that can get bigger without being thrown away."
@@ -3171,7 +3232,7 @@
    "id": "c2",
    "title": "Crawl Without Legs",
    "mins": 30,
-   "problem": "An earthworm crawls with no legs and no wheels. Make a model 'worm' that moves itself 30 cm across a table, without you pushing the worm directly.",
+   "problem": "An earthworm crawls with no legs and no wheels. Make a model 'worm' that crawls 30 cm across a table, without you pushing the worm directly.",
    "constraints": [
     "No wheels and no legs.",
     "You may pull a string or blow, but you may not push the worm with your fingers.",
@@ -3198,11 +3259,11 @@
     "Could your worm move along a tube or a hose, the way a worm moves through soil?"
    ],
    "your_turn": "Now invent your own worm that moves in a new way. Draw it, build it, and measure how far it moves in 10 tries.",
-   "context": "This is an engineering challenge. Earthworms crawl without legs by squeezing and stretching. Your job is to make a model worm that moves itself 30 cm.",
+   "context": "This is an engineering challenge. Earthworms crawl without legs by squeezing and stretching. Your job is to make a model worm that crawls 30 cm.",
    "setup": [
     {
      "art": "A zigzag-folded strip of paper with a thread running through it, lying on a table next to a ruler.",
-     "caption": "1. Make a zigzag paper worm with a thread through it."
+     "caption": "1. Make a zigzag paper worm with a thread running through the paper."
     },
     {
      "art": "A hand pulling the thread so the paper worm bunches up, with tiny backward-leaning paper bristles underneath.",
@@ -3227,7 +3288,7 @@
      "mins": 7,
      "do": "Ask your child to draw two ideas before building.",
      "say": "Draw two ideas. How will your worm move forward and not slide back?",
-     "kid": "Draw two ideas. How will your worm grip so it does not slide back?"
+     "kid": "Draw two ideas. How will your worm grip so the worm does not slide back?"
     },
     {
      "id": "s3",
@@ -3266,7 +3327,7 @@
    "youtube": "F2DBLBejpLM",
    "mins": 3,
    "why": "Shows the ring muscles squeezing and the body stretching, the same push you saw when the water rose up the bottle neck.",
-   "check": "Found by YouTube search: \"Exploring Invertebrates - How Do Earthworms Move\" by The Nature Realm. Only the title was checked; a parent should preview it."
+   "check": "Title and channel confirmed on YouTube. Watch it yourself first, then show your child."
   },
   {
    "title": "Crabs Trade Shells in the Strangest Way",
@@ -3274,7 +3335,7 @@
    "youtube": "f1dnocPQXDQ",
    "mins": 4,
    "why": "Hermit crabs cannot make their own shells, so they line up and swap into bigger empty ones. Compare them with the snail and the argonaut in the story, which build their own.",
-   "check": "Found by YouTube search: \"Crabs Trade Shells in the Strangest Way | BBC Earth\" by BBC Earth. Only the title was checked; a parent should preview it."
+   "check": "Title and channel confirmed on YouTube. Watch it yourself first, then show your child."
   },
   {
    "title": "Fast Ocean Facts: Where Is a Starfish's Butt?",
@@ -3282,7 +3343,7 @@
    "youtube": "JnSER1jVm98",
    "mins": 3,
    "why": "A short aquarium video about how a sea star's body is laid out, with their mouth underneath and their five matching parts.",
-   "check": "Found by YouTube search: \"Fast Ocean Facts — Where Is A Starfish's Butt?\" by Monterey Bay Aquarium. Only the title was checked; a parent should preview it."
+   "check": "Title and channel confirmed on YouTube. Watch it yourself first, then show your child."
   }
  ],
  "quiz": [
@@ -3457,7 +3518,7 @@
     "Put salt on them to see what happens"
    ],
    "a": 1,
-   "why": "Watch kindly, for a short time, and return the animal where you found it. Salt hurts snails badly, and a snail cannot leave their shell. Wash your hands, because snails can carry germs.",
+   "why": "Watch kindly, for a short time, and return the animal to the place where you found them. Salt hurts snails badly, and a snail cannot leave their shell. Wash your hands, because snails can carry germs.",
    "outcome": 6
   }
  ],
@@ -3581,56 +3642,16 @@
    "a": "They have no spine to send shivers down."
   },
   {
-   "j": "Why was the starfish so good at sums?",
-   "a": "They always had five on hand."
-  },
-  {
-   "j": "What do you call an ant who skips school?",
-   "a": "Truant."
-  },
-  {
    "j": "How does a crab call her friends?",
    "a": "On her shell phone."
-  },
-  {
-   "j": "What is a bee's favourite classroom?",
-   "a": "The one with a buzzer."
   },
   {
    "j": "Why did the centipede miss the bus?",
    "a": "They were still putting on their shoes."
   },
   {
-   "j": "What do snails eat at the beach?",
-   "a": "Slow-cream."
-  },
-  {
    "j": "Why didn't the octopus go to battle?",
    "a": "They were well armed, but they had no backbone."
-  },
-  {
-   "j": "What is a mosquito's favourite sport?",
-   "a": "Skin diving."
-  },
-  {
-   "j": "What do you call a woodlouse that rolls downhill?",
-   "a": "A rolling stone."
-  },
-  {
-   "j": "Why did the spider join the cricket team?",
-   "a": "They were great at catching flies."
-  },
-  {
-   "j": "What did the jellyfish say when they won the race?",
-   "a": "I'm so glad I didn't have to use my brain."
-  },
-  {
-   "j": "Why are earthworms never late?",
-   "a": "They always come out in the rain, right on time."
-  },
-  {
-   "j": "What did the crab say after moulting?",
-   "a": "I feel like a new crab."
   },
   {
    "j": "Which insect is good at maths?",
@@ -3639,10 +3660,6 @@
   {
    "j": "What did the clam do on their birthday?",
    "a": "They shellebrated."
-  },
-  {
-   "j": "Why did the starfish blush?",
-   "a": "Because they saw the sea weed."
   }
  ],
  "maths": [
@@ -3674,7 +3691,7 @@
    "why_maths": "Saying 'more' is a start. Working out 'how many more' tells us how big the difference really is."
   },
   {
-   "problem": "In the Leg Count Key, you looked at 3 ants and 2 spiders. An ant has 6 legs and a spider has 8. How many legs are there altogether?",
+   "problem": "Using the Leg Count Key, a child sorts 3 ants and 2 spiders. An ant has 6 legs and a spider has 8. How many legs are there altogether?",
    "answer": "34 legs.",
    "explain": "3 ants have 3 groups of 6 legs. 6 + 6 + 6 = 18. 2 spiders have 2 groups of 8 legs. 8 + 8 = 16. 18 + 16 = 34 legs altogether.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -3683,7 +3700,7 @@
    "why_maths": "Every animal of a group has the same number of legs. So we can count in equal groups instead of counting every leg one by one."
   },
   {
-   "problem": "In Water Bones, under 5 books the board sank 5 cm on the open bottles, half a centimetre on the capped air bottles and 0 cm on the capped water bottles. With a child sitting on it, it sank 1 cm on the capped air bottles and 0 cm on the capped water bottles. Put the three pairs in order from firmest to softest. Which pair is most like an earthworm, and why?",
+   "problem": "In one family's Water Bones test, under 5 books the board sank 5 cm on the open bottles, half a centimetre on the capped air bottles and 0 cm on the capped water bottles. With a child sitting on it, it sank 1 cm on the capped air bottles and 0 cm on the capped water bottles. Put the three pairs in order from firmest to softest. Which pair is most like an earthworm, and why?",
    "answer": "Capped water, then capped air, then open and empty. The capped water bottles are most like an earthworm.",
    "explain": "The less the board sank, the firmer the pair. Under the books, the open bottles sank 5 cm, far more than the others. Half a centimetre is so small that it could be a mistake in reading the ruler. The sitting test is heavier, so it decides: 0 cm is less than 1 cm. So the order is capped water, capped air, open and empty. An earthworm is like the capped water bottles: liquid held in tight, which cannot be squeezed into less space.",
    "math_unit": "math.length.standard-units-length.L3",
@@ -3819,8 +3836,7 @@
     "a1",
     "a2",
     "a3"
-   ],
-   "plan": "Used again in Animals Around Us L3 and Plant Parts L3."
+   ]
   },
   {
    "id": "b-suckers",
@@ -3841,8 +3857,7 @@
    "used_in": [
     "a1",
     "a2"
-   ],
-   "plan": "Keep it near a window. After each census or walk, look up one new animal and add it to your Backbone Census sheet."
+   ]
   }
  ],
  "warmup": [
