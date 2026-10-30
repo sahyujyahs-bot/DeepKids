@@ -10891,6 +10891,24 @@ function firstDates() {
   });
   return m;
 }
+/* The year in words: month by month, what each subject covers. This month opens by itself. */
+function yearList(fd, m0) {
+  const M = [...Array(12)].map((_, i) => new Date(m0.getFullYear(), m0.getMonth() + i, 1)),
+    key = (d) => d.getFullYear() * 12 + d.getMonth(),
+    now = key(parse(today));
+  return `<section class="yearlist">${M.map((md) => {
+    const rows = S.subjects
+      .map((s) => [s, plannedUnits(s).filter((u) => fd[u.k] && key(parse(fd[u.k])) === key(md))])
+      .filter(([, L]) => L.length);
+    if (!rows.length) return "";
+    return `<details ${key(md) === now ? "open" : ""}><summary><b>${md.toLocaleString("en-IN", { month: "long", year: "numeric" })}</b> <span class="xs muted">${rows.reduce((a, [, L]) => a + L.length, 0)} topics</span></summary>${rows
+      .map(
+        ([s, L]) =>
+          `<div class="ylsub ${SC(s)}"><span class="eyebrow">${SUBJ[s]}</span>${L.map((u) => `<button class="plain ylrow" data-act="chapter" data-k="${u.k}">${rank[coverage(u)] >= 2 ? "✓ " : ""}${esc(chT(u))}</button>`).join("")}</div>`,
+      )
+      .join("")}</details>`;
+  }).join("")}</section>`;
+}
 function yearOrbit() {
   const W = 360,
     c = 180,
@@ -10933,7 +10951,7 @@ function yearOrbit() {
   });
   const [nx, ny] = pt(ang(today), 158);
   o += `<line x1="${c}" y1="${c}" x2="${nx.toFixed(1)}" y2="${ny.toFixed(1)}" stroke="var(--tang)" stroke-width="2.5" stroke-linecap="round"/><circle cx="${nx.toFixed(1)}" cy="${ny.toFixed(1)}" r="5" fill="var(--tang)"/>`;
-  return `<div class="orbit"><svg viewBox="0 0 ${W} ${W}" role="img" aria-label="The year's plan as orbits">${o}${kidBlob("bob", "happy", `x="${c - 26}" y="${c - 26}" width="52" height="52"`)}</svg></div><div class="row" style="justify-content:center">${S.subjects.map((s) => `<span class="chip ${SC(s)}"><span class="dotc"></span>${SUBJ[s]}</span>`).join("")}<span class="chip"><span class="dotc" style="--c:var(--tang)"></span>Today</span></div><p class="xs muted" style="text-align:center">Each ring is a subject; each bead is a chapter, placed in the month it starts. Filled beads are done; the glowing one is in progress. Tap a bead to open it.</p>`;
+  return `<div class="orbit"><svg viewBox="0 0 ${W} ${W}" role="img" aria-label="The year's plan as orbits">${o}${kidBlob("bob", "happy", `x="${c - 26}" y="${c - 26}" width="52" height="52"`)}</svg></div><div class="row" style="justify-content:center">${S.subjects.map((s) => `<span class="chip ${SC(s)}"><span class="dotc"></span>${SUBJ[s]}</span>`).join("")}<span class="chip"><span class="dotc" style="--c:var(--tang)"></span>Today</span></div><p class="xs muted" style="text-align:center">Each ring is a subject; each bead is a chapter, placed in the month it starts. Filled beads are done; the glowing one is in progress. Tap a bead to open it.</p>${yearList(fd, m0)}`;
 }
 function sessMap() {
   const by = {};
