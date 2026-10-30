@@ -4,10 +4,10 @@
  "subj": "sci",
  "level": 4,
  "n": "nature-s-events",
- "title": "When the Earth moves: volcanoes, earthquakes, floods and storms",
+ "title": "Volcanoes, earthquakes, floods and cyclones: why they happen and how to stay safe",
  "source": "DeepKids Combined. Covers Cambridge Primary Science Stage 4, Units 4.2 'Volcanoes' and 4.3 'Earthquakes', and adds floods, cyclones and being prepared. No textbook needed.",
- "summary": "The Earth's skin is broken into moving plates, and where they meet, the ground shakes and melted rock breaks through. Your child models moving plates, makes a volcano erupt and an earthquake slip, builds a shaking-table tower and a tsunami in a tray, and spins a tornado in a bottle. They find out why volcanoes also give rich soil and new land, why floods bring silt, and how warnings, good buildings and old songs turn nature's events into stories of survival: from Odisha's cyclone shelters to the island of Simeulue and the Onge of Little Andaman in 2004.",
- "builds_on": "This is the first rung. In Class 4 (Planet Earth) your child also learns the layers inside the Earth: crust, mantle and core. In Class 5 (Planet Earth) they will follow a river from its source to the sea and see how the Himalaya was pushed up by a moving plate. In middle school they will study plate tectonics, weather systems and climate in detail.",
+ "summary": "The Earth's crust is broken into giant pieces called plates, which move slowly. Where plates meet, the ground shakes and melted rock can break through. Your child models moving plates, makes a model volcano erupt, makes a book jerk forward like an earthquake, tests towers on a shaking tray, makes a tsunami wave in a tray and a whirlpool in a bottle. They find out why volcanoes also make rich soil and new land, why floods bring silt, and how warnings, strong buildings and remembered knowledge save lives, from Odisha's cyclone shelters to the island of Simeulue in 2004.",
+ "builds_on": "This is the first lesson on this topic. It helps if your child knows that the Earth has layers: a thin rocky crust, a thick hot mantle, and a core at the centre. In middle school they will study plate tectonics, weather and climate in more detail.",
  "goals": [
   "By the end your child can explain that the Earth's crust is broken into plates that move, and that most volcanoes and earthquakes happen where plates meet.",
   "By the end your child can name the parts of a volcano and describe how magma becomes lava.",
@@ -54,7 +54,7 @@
   ],
   [
    "dormant",
-   "sleeping: not erupting now but could again"
+   "not erupting now, but could erupt again"
   ],
   [
    "earthquake",
@@ -89,8 +89,8 @@
  "days": [
   {
    "n": 1,
-   "title": "When nature roars",
-   "goal": "Wonder at nature's big events and see that being ready changes everything.",
+   "title": "Nature's big events, and being ready",
+   "goal": "Share what the family knows about big natural events, and see why being ready matters.",
    "steps": [
     {
      "kind": "warmup",
@@ -102,13 +102,13 @@
      "kind": "read",
      "title": "Story: The Song of the Sea Running Away",
      "mins": 15,
-     "do": "Read the story aloud. Stop when the sea pulls back and the children run to pick up the fish, and ask: 'What would you do?' Finish the story and ask the story questions."
+     "do": "Read the story aloud. Stop when the sea pulls back and the boys run down to pick up the fish, and ask: 'What would you do? Why?' Then finish the story and ask the story questions."
     },
     {
      "kind": "talk",
      "title": "Hazard or disaster?",
      "mins": 10,
-     "do": "Say: 'An earthquake in an empty desert hurts nobody. The same earthquake under a city of weak buildings can kill thousands. Scientists call the earthquake a hazard; it becomes a disaster when people are not protected.' Ask: 'What makes people safer?' Good answers: strong buildings, warnings, knowing what to do, high ground, help from neighbours. Ask: 'Who might be least protected?' (People in weak homes, people with no phone or radio, people who can't move fast, animals.)"
+     "do": "Say: 'An earthquake in an empty desert hurts nobody. The same earthquake under a city of weak buildings can kill thousands. Scientists call the earthquake a hazard. It becomes a disaster when people are not protected.' Ask: 'What makes people safer?' Good answers: strong buildings, warnings, knowing what to do, high ground, help from neighbours. Ask: 'Who might be least protected?' (People in weak homes, people with no phone or radio, people who cannot move fast, and animals.)"
     },
     {
      "kind": "act",
@@ -130,20 +130,20 @@
   },
   {
    "n": 2,
-   "title": "A cracked skin on a hot Earth",
+   "title": "The moving plates of the Earth's crust",
    "goal": "Model the Earth's moving plates and learn what a volcano is.",
    "steps": [
     {
      "kind": "warmup",
      "title": "Jigsaw Earth",
      "mins": 5,
-     "do": "Show a world map. Ask: 'Do any coastlines look as if they would fit together like jigsaw pieces?' (South America and Africa.) Say: 'The Earth's outer skin is broken into giant pieces called plates, and they move, about as fast as your fingernails grow.'"
+     "do": "Show a world map. Ask: 'Do any coastlines look as if they would fit together like jigsaw pieces?' (South America and Africa.) Say: 'The outer layer of the Earth, the crust, is broken into giant pieces called plates. They move a few centimetres a year, about as fast as your fingernails grow. Millions of years ago, South America and Africa were joined.'"
     },
     {
      "kind": "exp",
      "title": "Plates on a pot",
      "mins": 15,
-     "do": "Do Experiment e1. A grown-up handles the hot pot.",
+     "do": "Do Experiment e1. A grown-up heats a wide pan of thick dal on a low flame until it bubbles slowly. Your child lays 3 or 4 cream crackers or thin papads on top, edges touching, like pieces of crust. Ask: 'Will the pieces stay still? What will happen at their edges?' Watch for 5 minutes without touching. Ask: 'Which pieces moved apart? Which pushed together?' (Hot dal rises from the bottom, spreads out at the top and sinks as it cools, and this carries the pieces. Hot rock deep in the Earth moves very slowly in a similar way and carries the plates.) Only the grown-up touches the stove and the pan.",
      "ref": "e1"
     },
     {
@@ -156,7 +156,7 @@
      "kind": "act",
      "title": "Volcano dance",
      "mins": 8,
-     "do": "Play drumming music. Your child crouches as magma deep underground, slowly rising, pushing, building pressure (tense muscles, quiet rumble), then bursts up and out in an eruption (arms flinging, jumping), then flows slowly as lava, getting stiffer and stiffer until they freeze as new rock. Ask: 'What happened to the lava at the end?' (It cooled into new rock: new land.)"
+     "do": "Play music with drums. Your child crouches as magma deep underground and rises slowly, pushing and tensing, with a quiet rumble. Then they burst up and out as an eruption, arms flung wide. Then they flow slowly as lava, moving stiffer and stiffer, until they stop still as new rock. Ask: 'What happened to the lava at the end?' (It cooled and became solid rock. This is how volcanoes make new land.)"
     },
     {
      "kind": "review",
@@ -166,7 +166,7 @@
     }
    ],
    "need": [
-    "a pot of thick cooked dal, khichdi or porridge",
+    "a wide pan of thick cooked dal",
     "a stove (grown-up only)",
     "a few cream crackers or thin papads",
     "a world map",
@@ -182,20 +182,20 @@
      "kind": "exp",
      "title": "Make a volcano erupt",
      "mins": 15,
-     "do": "Do Experiment e2 outdoors or on a tray.",
+     "do": "Do Experiment e2 on a tray, on the balcony or in the bathroom. Build a cone of damp sand or soil round a small plastic bottle. Put 2 spoons of baking soda, a drop of dish soap and a drop of red colour in the bottle. Ask: 'What will happen when the vinegar goes in? Why?' Pour in half a cup of vinegar quickly and step back. Then explain: 'Vinegar and baking soda make a gas, carbon dioxide, which pushes the liquid up and out. Real magma is full of gas too, like a shaken soda bottle, and the gas pushes it out. But real lava is melted rock, not foam.'",
      "ref": "e2"
     },
     {
      "kind": "act",
      "title": "The Ring of Fire",
      "mins": 12,
-     "do": "On a world map, mark these volcanoes with red dots: Mount Fuji (Japan), Mount St Helens (USA), Krakatoa and Merapi (Indonesia), Pinatubo (Philippines), Villarrica (Chile), Popocatépetl (Mexico), Barren Island (Andaman Sea), Etna (Italy), Kilimanjaro (Tanzania, dormant). Join the dots round the Pacific. Say: 'About three in four of the world's active volcanoes are around the Pacific Ocean, along the edges of plates. People call it the Ring of Fire. Most big earthquakes happen there too.' Ask: 'Why do you think they line up?' (Plates meet there.)"
+     "do": "On a world map, mark these volcanoes with red dots: Mount Fuji (Japan), Mount St Helens (USA), Popocatépetl (Mexico), Villarrica (Chile), Pinatubo (Philippines), and Krakatoa and Merapi (Indonesia). Join the dots: they make a ring round the Pacific Ocean. Say: 'About three in four of the world's active volcanoes are around the Pacific, along the edges of plates. This is called the Ring of Fire. Most big earthquakes happen there too.' Ask: 'Why do you think they line up?' (Plates meet there.) Then mark Barren Island in the Andaman Sea, which also sits where two plates meet."
     },
     {
      "kind": "talk",
      "title": "What volcanoes give",
      "mins": 12,
-     "do": "Say: 'About 66 million years ago, huge lava floods poured out over western India, layer after layer. They made the Deccan Traps, the rock of the Western Ghats and the plateau. As that rock slowly broke down, it made the black cotton soil, rich and good at holding water, where cotton, soybean and jowar grow today.' Then list together: volcanoes make new land (Hawaii, Iceland), rich soil, hot springs, building stone, and help bring water and minerals up from deep inside. And the dangers: lava, ash, poisonous gas, mudflows. Ask: 'Why do millions of people live on the slopes of volcanoes like Merapi in Indonesia?' (Rich soil, their homes and land for generations.)"
+     "do": "Say: 'About 66 million years ago, huge floods of lava poured out over western India, layer after layer. The lava cooled into a dark rock called basalt, the Deccan Traps. It makes up much of Maharashtra and the hills of the northern Western Ghats. As this rock slowly broke down, it became black soil, which holds water well. Farmers in Maharashtra, north Karnataka and Telangana grow cotton, jowar and soybean on it.' List together what volcanoes give: new land (Hawaii, Iceland), rich soil, hot springs and building stone. Then list the dangers: lava, ash, poisonous gas and mudflows. Ask: 'Why do so many people live on the slopes of volcanoes like Merapi in Indonesia?' (The soil is rich, and their families have farmed there for generations.)"
     },
     {
      "kind": "review",
@@ -210,7 +210,7 @@
     "a few drops of dish soap",
     "red food colouring (optional)",
     "a small plastic bottle",
-    "sand or clay",
+    "damp sand or soil",
     "a tray",
     "a world map and a red pen"
    ]
@@ -224,45 +224,44 @@
      "kind": "warmup",
      "title": "Rub your hands",
      "mins": 4,
-     "do": "Press your palms together hard and try to slide them. Ask: 'Do they slide smoothly or stick and then jump?' (Stick, then suddenly slip.) Say: 'That jump is an earthquake in your hands.'"
+     "do": "Press your palms together hard and try to slide one past the other. Ask: 'Do they slide smoothly, or stick and then jump?' (They stick, then suddenly slip.) Say: 'Rocks where two plates meet do the same. A sudden slip of the rocks is an earthquake.'"
     },
     {
      "kind": "exp",
      "title": "Stick and slip",
      "mins": 15,
-     "do": "Do Experiment e3 with a brick, sandpaper and a rubber band.",
+     "do": "Do Experiment e3. Lay a sheet of sandpaper or a rough doormat flat on the floor. Put a heavy book or a brick on it and loop a thick rubber band round it. Ask: 'When I pull the band slowly, will the book slide smoothly or jerk?' Pull the free end of the band very slowly along a ruler, and watch how far the band stretches before the book moves. Repeat five times. Ask: 'What did the book do?' (It stuck while the band stretched, jumped forward suddenly, then stuck again.) Say: 'Where two plates meet, the rocks grip each other while the plates keep moving. Strain builds up for years, like the stretched band. When the rocks slip, the ground shakes.'",
      "ref": "e3"
     },
     {
      "kind": "talk",
      "title": "Focus, epicentre and waves",
      "mins": 8,
-     "do": "Drop a pebble in a bucket of water. Say: 'The pebble is the focus, where the rocks slip deep underground. The spot on the surface right above it is the epicentre. The ripples are seismic waves, spreading out in all directions. The shaking is worst near the epicentre and weaker further away.' Draw it: a cross-section with a star (focus), a dot above it (epicentre) and rings of waves."
+     "do": "Fill a wide steel plate with water and tap the middle of the water with a spoon. Say: 'Think of the spot you tapped as the focus, the place deep underground where the rocks slip. The spot on the surface right above the focus is the epicentre. The ripples are like seismic waves, which spread out in all directions. Shaking is strongest near the epicentre and weaker further away. Some seismic waves travel faster than others, so a far-away seismometer picks up the fast waves first.' Draw a cross-section together: a star for the focus, a dot on the surface above it for the epicentre, and rings for the waves."
     },
     {
      "kind": "talk",
      "title": "Zhang Heng's dragon jar",
      "mins": 8,
-     "do": "Tell your child about Voice v1, Zhang Heng, and his seismoscope. Ask the voice question.",
+     "do": "Tell your child about Voice v1. Zhang Heng, a scientist in China almost 1,900 years ago, built a bronze jar that showed when a far-away earthquake had happened, and in which direction. Describe the eight dragons holding balls and the eight toads below them. Then ask the voice question.",
      "ref": "v1"
     },
     {
      "kind": "act",
      "title": "Make a seismometer",
      "mins": 10,
-     "do": "Do Activity a1: hang a pen over a strip of paper in a box, then shake the box gently and strongly while pulling the paper.",
+     "do": "Do Activity a1. Hang a felt pen, weighted with clay, from the top of a box on its side, so the tip just touches a strip of paper on the floor of the box. One person pulls the paper slowly while another taps the table gently, then shakes it harder. Ask: 'How do the lines change when the shaking is stronger?' (They get bigger. A real seismometer draws earthquakes in the same way.)",
      "ref": "a1"
     }
    ],
    "need": [
-    "a brick or heavy book",
-    "sandpaper",
-    "a thick rubber band or strip of old cycle tube",
+    "a heavy book or a brick",
+    "sandpaper or a rough doormat",
+    "a thick rubber band or a strip of old cycle tube",
     "a ruler",
-    "a bucket of water and a pebble",
+    "a wide steel plate of water and a spoon",
     "a cardboard box",
-    "a felt pen",
-    "string",
+    "a felt pen, string and a little clay",
     "a long strip of paper"
    ]
   },
@@ -275,13 +274,13 @@
      "kind": "warmup",
      "title": "Bhuj, 2001",
      "mins": 6,
-     "do": "Say: 'On 26 January 2001, Republic Day, a strong earthquake struck near Bhuj in Kutch, Gujarat. About 20,000 people died, mostly when buildings fell on them. Earthquakes themselves rarely kill people. Falling buildings do.' Ask: 'So how can we save lives in an earthquake?' (Build strong, flexible buildings; know what to do.)"
+     "do": "Say: 'On 26 January 2001, Republic Day, a strong earthquake struck near Bhuj in Kutch, Gujarat. About 20,000 people died, most of them when buildings fell on them. The shaking itself rarely kills people. Falling buildings do.' Ask: 'So how can we save lives in an earthquake?' (Build strong buildings that can bend without falling, and know what to do when the shaking starts.)"
     },
     {
      "kind": "act",
      "title": "Shaking-table tower challenge",
      "mins": 18,
-     "do": "Do Activity a2. Build towers from toothpicks and soaked chana, test them on a tray of jelly or a shaken board, and improve them.",
+     "do": "Do Activity a2. Each person builds a tower at least 15 cm tall from toothpicks joined with soaked chana. Ask: 'Which tower do you think will stand? Why?' Stand each tower on the shaking tray and shake it the same way for 10 seconds. Write down whether each tower stood, leaned or fell. Then improve the towers with a wider base, triangles or cross-pieces, and test them again.",
      "ref": "a2"
     },
     {
@@ -294,14 +293,14 @@
      "kind": "ws",
      "title": "Core worksheet",
      "mins": 13,
-     "do": "Your child does the core worksheet ws1.",
+     "do": "Do the core worksheet ws1. Read the questions aloud if needed. For the two written questions, ask your child to use what they saw in the stick-and-slip test and the tower test.",
      "ref": "ws1"
     }
    ],
    "need": [
     "toothpicks",
     "a cup of chana soaked overnight",
-    "a tray of set jelly (agar-agar) or a board on two rolling pins",
+    "a tray of set agar-agar (China grass) jelly, or a tray resting on two round pencils",
     "a sturdy table",
     "the core worksheet"
    ],
@@ -311,7 +310,7 @@
      "when": "night before"
     },
     {
-     "task": "Make a tray of agar-agar jelly, or find a board and two rolling pins",
+     "task": "Make a tray of agar-agar (China grass) jelly, or find a tray and two round pencils",
      "when": "night before"
     }
    ]
@@ -332,20 +331,20 @@
      "kind": "exp",
      "title": "Tsunami in a tray",
      "mins": 12,
-     "do": "Do Experiment e4.",
+     "do": "Do Experiment e4. In a long baking tray or plastic box, pile sand at one end to make a sloping beach. Pour water into the other end until it is about 3 cm deep. Lay a flat plastic lid on the bottom in the deep water. Ask: 'If the sea floor jumps up, where will the wave be tallest: in the deep water or at the beach?' Quickly lift one edge of the lid by about a centimetre, like the sea floor jumping in an earthquake. Watch the wave cross the tray and grow taller at the beach. Then lift the lid slowly. Ask: 'Why did the slow lift make almost no wave?' (A tsunami needs the sea floor to move suddenly.)",
      "ref": "e4"
     },
     {
      "kind": "talk",
      "title": "26 December 2004",
      "mins": 8,
-     "do": "Say gently: 'On the morning of 26 December 2004, one of the biggest earthquakes ever recorded, about magnitude 9.1, happened under the sea near Sumatra in Indonesia. The sea floor jumped up and lifted the whole ocean above it. Tsunami waves raced across the Indian Ocean as fast as a jet plane and reached the Andaman and Nicobar Islands, Tamil Nadu, Sri Lanka and even Africa. About 230,000 people died, including more than 10,000 in India.' Pause and let your child ask anything. Say: 'Since 2007, India has a tsunami warning centre in Hyderabad that watches the sea every minute.'"
+     "do": "Say gently: 'On the morning of 26 December 2004, one of the biggest earthquakes ever recorded, about magnitude 9.1, happened under the sea near Sumatra in Indonesia. The sea floor jumped up and lifted the ocean above it. Tsunami waves raced across the Indian Ocean as fast as a jet plane. They reached the Andaman and Nicobar Islands, Tamil Nadu, Kerala, Sri Lanka and even Africa. About 230,000 people died, including more than 10,000 in India. On the mainland, Nagapattinam in Tamil Nadu was hit hardest.' Pause and let your child ask anything. Say: 'Since 2007, India has had a tsunami warning centre in Hyderabad that watches the ocean day and night.'"
     },
     {
      "kind": "talk",
      "title": "The song and the forest",
      "mins": 13,
-     "do": "Tell your child about Voice v3, the people of Simeulue and the Onge of Little Andaman, and about Tilly Smith, a 10-year-old English girl on a beach in Thailand that morning who saw the sea drawing back, remembered her geography lesson, and warned her parents and the beach staff, who cleared the beach. Ask the voice question.",
+     "do": "Tell your child about Voice v3: the people of Simeulue, an island near Sumatra, and the Onge people of Little Andaman. Then tell the true story of Tilly Smith, a 10-year-old English girl on a beach in Thailand that morning. She saw the sea drawing back, remembered her geography lesson about tsunamis, and warned her parents. The beach was cleared before the wave came. Ask the voice question.",
      "ref": "v3"
     },
     {
@@ -372,21 +371,21 @@
      "kind": "warmup",
      "title": "Animals and earthquakes",
      "mins": 8,
-     "do": "Tell your child about Voice v2, the farm animals of Italy and the question of whether animals can sense earthquakes coming. Ask the voice question.",
+     "do": "Ask first: 'Have you heard that animals know when an earthquake is coming? How could we test it?' Then tell your child about Voice v2: scientists in Italy put motion sensors on cows, sheep and dogs on a farm to find out whether the animals sense an earthquake before it starts. Share what they found, and why other scientists are not yet convinced. Ask the voice question.",
      "ref": "v2"
     },
     {
      "kind": "exp",
      "title": "A tornado in a bottle",
      "mins": 10,
-     "do": "Do Experiment e5.",
+     "do": "Do Experiment e5 over a sink. Fill one bottle two-thirds with water. Put an empty bottle upside down on top, mouth to mouth, and tape them together tightly. Ask: 'Will the water drain faster if we swirl it?' Turn the bottles over and time how long the water takes to drain. Then turn them over again, swirl the top bottle in quick circles, and time it again. Ask: 'What shape did the spinning water make?' (A funnel with a hollow middle, called a vortex. A cyclone is spinning air, and it also has a calm middle.)",
      "ref": "e5"
     },
     {
      "kind": "talk",
      "title": "How a cyclone grows",
      "mins": 8,
-     "do": "Say: 'Cyclones form over warm seas, like the Bay of Bengal and the Arabian Sea. Warm, wet air rises; more air rushes in to take its place; because the Earth spins, the inrushing air starts to turn, round and round, faster and faster. In the middle is the calm eye, with clear sky, and around it a wall of the fiercest winds and rain.' Ask: 'Why do cyclones weaken when they reach land?' (They lose the warm sea that feeds them.)"
+     "do": "Say: 'Cyclones form over warm seas, like the Bay of Bengal and the Arabian Sea. Warm, wet air rises, and more air rushes in to take its place. Because the Earth spins, the air rushing in starts to turn, round and round, faster and faster. In the middle is the calm eye, and around it is a wall of the fiercest wind and rain. Chennai and the coasts of Tamil Nadu and Andhra Pradesh are often hit by cyclones from the Bay of Bengal between October and December.' Ask: 'Why do cyclones weaken when they reach land?' (They lose the warm sea water that feeds them.)"
     },
     {
      "kind": "talk",
@@ -404,54 +403,54 @@
      "kind": "ws",
      "title": "Stretch worksheet",
      "mins": 6,
-     "do": "Your child begins the stretch worksheet ws2, finishing tomorrow if needed.",
+     "do": "Your child begins the stretch worksheet ws2. Read the questions aloud if needed. They can finish it tomorrow.",
      "ref": "ws2"
     }
    ],
    "need": [
     "two clear plastic bottles of the same size",
     "water",
-    "strong tape or a tornado connector",
+    "strong tape",
     "a steel plate",
     "the stretch worksheet"
    ]
   },
   {
    "n": 8,
-   "title": "Floods, the ready-plan and teach it back",
-   "goal": "Understand floods as a river's breath and finish the family plan.",
+   "title": "Floods, the ready-plan and teaching it back",
+   "goal": "Find out why rivers flood and what floods give, play the ready game, and finish the family plan.",
    "steps": [
     {
      "kind": "warmup",
      "title": "Floods: harm and gift",
-     "mins": 8,
-     "do": "Say: 'Rivers flood when more water comes than the channel can hold: heavy monsoon rain, melting snow, or a cyclone's rain. A river's floodplain is the flat land it spreads over in floods. For thousands of years, floods have also carried fresh silt that makes farmland rich; the plains of the Ganga and the Brahmaputra were built this way. Trouble comes when we build on floodplains, cover the ground with concrete, block drains or cut forests.' Ask: 'What should you never do in a flood?' (Walk or drive through flowing water; touch electric wires; drink floodwater.)"
+     "mins": 10,
+     "do": "Ask first: 'Why do you think rivers flood?' Then say: 'A river floods when more water comes than its channel can hold, from heavy monsoon rain, melting snow or a cyclone's rain. The flat land a river spreads over in a flood is called its floodplain. Floods also carry silt, a fine mud that makes farmland rich. The plains of the Ganga and the Brahmaputra were built this way. Floods do the most harm where people build on floodplains and lakes, cover the ground with concrete, block drains or cut forests. In 2015 Chennai flooded badly, partly because homes had been built over its lakes and marshes. In the 2018 Kerala floods, fishermen brought their boats and rescued tens of thousands of people.' Ask: 'What should you never do in a flood?' (Walk or drive through flowing water, touch electric wires, or drink floodwater.)"
     },
     {
      "kind": "game",
      "title": "Ready! cooperative game",
-     "mins": 12,
-     "do": "Play the card game g1 together. Everyone is on the same team against the events.",
+     "mins": 10,
+     "do": "Play the card game g1 together. Everyone is on one team against the events. Turn over an event card, and together choose the right action cards and say why, within one minute.",
      "ref": "g1"
     },
     {
      "kind": "ws",
      "title": "Challenge worksheet",
      "mins": 10,
-     "do": "Your child does the challenge worksheet ws3, and finishes ws2 if needed.",
+     "do": "Your child does the challenge worksheet ws3, and finishes ws2 if needed. Ask for reasons on the written questions, not just answers.",
      "ref": "ws3"
     },
     {
      "kind": "check",
      "title": "End check",
      "mins": 6,
-     "do": "Ask the check questions aloud. Praise reasons, not just answers."
+     "do": "Ask the check questions aloud, one at a time. After each answer, ask 'Why?' and praise good reasons, not just right answers."
     },
     {
      "kind": "review",
      "title": "Teach it back and finish the ready-plan",
      "mins": 9,
-     "do": "Your child finishes the project and presents the family ready-plan to everyone at home: what to do in an earthquake, a flood, a cyclone and on tsunami signs, where the emergency bag is, and the family meeting place. They explain how plates cause earthquakes and volcanoes, using a drawing."
+     "do": "Your child finishes the project and presents the family ready-plan to everyone at home: what to do in an earthquake, a flood, a cyclone and on seeing tsunami signs, where the emergency bag is, and the family meeting place. Then they explain, with a drawing, how moving plates cause earthquakes and volcanoes."
     }
    ],
    "need": [
@@ -473,7 +472,7 @@
      [
       {
        "t": "match",
-       "p": "Match.",
+       "p": "Match each word to what it means.",
        "pairs": [
         [
          "magma",
@@ -495,11 +494,11 @@
       },
       {
        "t": "sort",
-       "p": "Active, dormant or extinct?",
+       "p": "Is each volcano active, dormant or extinct?",
        "items": [
         "erupting now",
-        "erupted 50 years ago and still warm underneath",
-        "has not erupted for millions of years and its magma is gone",
+        "has not erupted for thousands of years, but there is still hot magma under it",
+        "has not erupted for millions of years, and its magma is gone",
         "Barren Island"
        ],
        "cats": [
@@ -510,7 +509,7 @@
       },
       {
        "t": "mcq",
-       "p": "Most of the world's volcanoes are found...",
+       "p": "Most of the world's volcanoes are found…",
        "opts": [
         "in the middle of plates",
         "where plates meet",
@@ -534,7 +533,7 @@
      [
       {
        "t": "mcq",
-       "p": "The place on the surface right above where an earthquake starts is the...",
+       "p": "The place on the surface right above where an earthquake starts is the…",
        "opts": [
         "focus",
         "epicentre",
@@ -544,7 +543,7 @@
       },
       {
        "t": "mcq",
-       "p": "In an earthquake indoors, you should...",
+       "p": "You are indoors when an earthquake starts. What should you do?",
        "opts": [
         "run outside",
         "drop, cover and hold on under a sturdy table",
@@ -612,7 +611,7 @@
       },
       {
        "t": "mcq",
-       "p": "A tsunami usually comes as...",
+       "p": "A tsunami usually comes as…",
        "opts": [
         "one wave",
         "a series of waves, and the first may not be the biggest",
@@ -632,7 +631,7 @@
       },
       {
        "t": "sort",
-       "p": "Good or bad effects of floods and volcanoes?",
+       "p": "Is each one a good or a bad effect of floods and volcanoes?",
        "items": [
         "fresh silt on farms",
         "houses washed away",
@@ -653,7 +652,7 @@
      [
       {
        "t": "mcq",
-       "p": "In 1999 about 10,000 people died in an Odisha cyclone; in 2013 a cyclone just as strong killed fewer than 50. The main reason was...",
+       "p": "In 1999 about 10,000 people died in a cyclone in Odisha. In 2013 a cyclone almost as strong killed fewer than 50. What was the main reason?",
        "opts": [
         "the 2013 cyclone was weaker",
         "warnings, shelters and moving a million people to safety",
@@ -693,7 +692,7 @@
      [
       {
        "t": "mcq",
-       "p": "Two earthquakes of the same size: one in a city of strong, flexible buildings, one in a city of heavy unreinforced brick. Where will more people be hurt?",
+       "p": "Two earthquakes are the same size. One hits a city of strong, well-built buildings. The other hits a city of heavy brick houses with no steel inside. Where will more people be hurt?",
        "opts": [
         "the strong city",
         "the brick city",
@@ -723,7 +722,7 @@
       },
       {
        "t": "write",
-       "p": "The Onge's and Simeulue's knowledge was never written in science books, but it saved lives. Why do you think school books often leave out knowledge like this?",
+       "p": "The people of Simeulue learned from a song: if the ground shakes hard and the sea runs away, run to the hills. How is this rule like what a scientist would tell you? Why did it work?",
        "lines": 3
       }
      ]
@@ -733,7 +732,7 @@
      [
       {
        "t": "sort",
-       "p": "Natural event or human choice?",
+       "p": "Is each one a natural event or a human choice?",
        "items": [
         "an earthquake happening",
         "building houses on a floodplain",
@@ -749,10 +748,9 @@
       },
       {
        "t": "fill",
-       "p": "Zhang Heng built the first known ____ in China in 132 CE.",
+       "p": "When the sea floor moves suddenly and lifts the water above it, the waves it makes are called a ____.",
        "a": [
-        "seismoscope",
-        "earthquake detector"
+        "tsunami"
        ]
       },
       {
@@ -777,7 +775,7 @@
    "day": 2,
    "question": "How do the pieces of the Earth's crust move?",
    "need": [
-    "a pot of thick cooked dal, khichdi or porridge",
+    "a wide pan of thick cooked dal",
     "a stove (grown-up only)",
     "3 or 4 cream crackers or thin papads"
    ],
@@ -800,7 +798,7 @@
    "question": "What makes a volcano erupt?",
    "need": [
     "a small plastic bottle",
-    "sand or clay to build a cone around it",
+    "damp sand or soil to build a cone around it",
     "a tray",
     "2 spoons of baking soda",
     "half a cup of vinegar",
@@ -808,14 +806,14 @@
     "red food colouring (optional)"
    ],
    "steps": [
-    "Stand the bottle on the tray and build a volcano-shaped cone of damp sand or clay round it, leaving the mouth open.",
+    "Stand the bottle on the tray and build a volcano-shaped cone of damp sand or soil round it, leaving the mouth open.",
     "Put the baking soda, a drop of soap and colouring into the bottle.",
     "Pour in the vinegar quickly and step back."
    ],
    "predict": "Ask: 'What will happen when the vinegar meets the soda? Why?'",
    "observe": "Foam rushes up the bottle and pours out of the top and down the sides.",
-   "why": "Vinegar and baking soda react and make carbon dioxide gas very fast. The gas needs room, so it pushes the liquid up and out. In a real volcano, magma is full of dissolved gases, like a shaken soda bottle. As it rises and the pressure drops, the gas comes out as bubbles and drives the magma up and out. This is a model of the push, not of real lava, which is melted rock at about 1,000 °C.",
-   "safety": "Do it on a tray outdoors. Keep vinegar away from eyes; wash hands after.",
+   "why": "Vinegar and baking soda react and make carbon dioxide gas very fast. The gas needs room, so it pushes the liquid up and out. In a real volcano, magma is full of dissolved gases, like a shaken soda bottle. As it rises and the pressure drops, the gas comes out as bubbles and drives the magma up and out. This models the push of the gas, not real lava, which is melted rock at about 1,000 °C.",
+   "safety": "Do it on a tray, on the balcony or in the bathroom. Keep vinegar away from eyes, and wash hands after.",
    "time": "15 min"
   },
   {
@@ -824,19 +822,19 @@
    "day": 4,
    "question": "Why do earthquakes happen suddenly, not smoothly?",
    "need": [
-    "a brick or heavy book",
-    "a sheet of sandpaper taped to a table or board",
+    "a heavy book or a brick",
+    "a sheet of sandpaper or a rough doormat",
     "a thick rubber band or a strip of old cycle tube",
     "a ruler"
    ],
    "steps": [
-    "Put the brick on the sandpaper. Loop the rubber band round it.",
+    "Lay the sandpaper or doormat flat. Put the book on it and loop the rubber band round the book.",
     "Pull the free end of the band very slowly and steadily along the ruler.",
-    "Watch the brick and the band. Measure how far the band stretches before the brick moves.",
-    "Repeat five times. Does the brick ever slide smoothly?"
+    "Watch the book and the band. Measure how far the band stretches before the book moves.",
+    "Repeat five times. Does the book ever slide smoothly?"
    ],
-   "predict": "Ask: 'Will the brick slide smoothly as you pull, or jerk?'",
-   "observe": "The band stretches while the brick sticks. Then the brick suddenly jumps forward, the band goes slack, and it sticks again. It moves in jerks.",
+   "predict": "Ask: 'Will the book slide smoothly as you pull, or jerk?'",
+   "observe": "The band stretches while the book sticks. Then the book suddenly jumps forward, the band goes slack, and the book sticks again. It moves in jerks.",
    "why": "Where two plates meet, the rocks grip each other by friction while the plates keep moving, so strain builds up, like the stretched band, for years or centuries. When the rocks can't hold any more, they slip suddenly, and the stored energy shakes the ground as an earthquake. Then they stick again and the strain starts building once more.",
    "safety": "Pull slowly; a snapping rubber band can sting. Keep faces away.",
    "time": "15 min"
@@ -860,8 +858,8 @@
     "Try lifting it slowly. Is the wave different?"
    ],
    "predict": "Ask: 'Will the wave be big in the deep water or when it reaches the beach?'",
-   "observe": "A low, wide wave travels across the tray and grows taller as it reaches the shallow beach. Often the water first pulls back from the beach before the wave arrives. A slow lift makes almost no wave.",
-   "why": "When the sea floor jumps suddenly, it lifts all the water above it. That bulge spreads out as waves. In the deep ocean a tsunami is low and very fast, as fast as a jet plane; as it reaches shallow water near the coast it slows and piles up into a wall of water. Often the trough comes first, so the sea runs away from the beach: a warning to run to high ground at once.",
+   "observe": "A low, wide wave travels across the tray and grows taller as it reaches the shallow beach. A slow lift makes almost no wave.",
+   "why": "When the sea floor jumps suddenly, it lifts all the water above it. That bulge spreads out as waves. In the deep ocean a tsunami is low and very fast, as fast as a jet plane. Near the coast, in shallow water, it slows down and piles up into a wall of water. Sometimes the sea first runs away from the beach before the wave comes. That is a warning to run to high ground at once.",
    "safety": "Mop up spills so nobody slips.",
    "time": "12 min"
   },
@@ -873,7 +871,7 @@
    "need": [
     "two clear plastic bottles of the same size",
     "water",
-    "strong tape or a tornado connector",
+    "strong tape",
     "glitter or a few drops of food colouring (optional)"
    ],
    "steps": [
@@ -918,13 +916,13 @@
    "need": [
     "toothpicks",
     "a cup of soaked chana",
-    "a tray of set agar-agar jelly, or a board resting on two rolling pins",
+    "a tray of set agar-agar (China grass) jelly, or a tray resting on two round pencils",
     "a ruler",
     "a stopwatch"
    ],
    "steps": [
     "Each person builds a tower at least 15 cm tall from toothpicks, joined with soaked chana.",
-    "Stand it on the jelly (or the board). Shake the tray (or roll the board) for 10 seconds, the same way for each tower.",
+    "Stand the tower on the jelly or the tray. Shake it for 10 seconds, the same way for each tower.",
     "Record: did it stand, lean or fall?",
     "Improve your tower: try a wider base, triangles, cross-braces. Test again.",
     "Which changes helped most?"
@@ -1056,7 +1054,7 @@
   ]
  },
  "big": [
-  "Is an earthquake bad, or is it only bad when it hurts us? What would a volcano say about the new island it made?",
+  "Is an earthquake bad in itself, or only when it hurts people and other living beings?",
   "Should people be allowed to build homes on floodplains and volcano slopes? Who should decide?",
   "Old songs saved a whole island in 2004. What knowledge do the elders in your family hold that might one day save someone?",
   "If we can't stop nature's events, what can we change?"
@@ -1078,7 +1076,7 @@
  "perspectives": [
   {
    "who": "A river",
-   "view": "A river might say: 'I am not flooding your land; you built your houses on my floodplain, the bed I use when the monsoon gives me too much water. My floods carried the silt that made your fields.' Ask: who was there first?"
+   "view": "If a river could speak, she might say: 'I am not flooding your land. You built your houses on my floodplain, the land I spread over when the monsoon gives me too much water. My floods carried the silt that made your fields.' Ask: who was there first?"
   },
   {
    "who": "Farmers on volcanic soil",
@@ -1220,8 +1218,8 @@
  },
  "ideas": [
   {
-   "idea": "The ground is not still: it is a cracked skin on a hot, slowly churning Earth.",
-   "more": "Plates move a few centimetres a year. Where they pull apart, push together or grind past, the Earth shakes, mountains rise and volcanoes open. The same movement made the Himalaya and the Deccan."
+   "idea": "The ground under us is slowly moving.",
+   "more": "The plates of the Earth's crust move a few centimetres a year. Where they pull apart, push together or grind past each other, the ground shakes, mountains rise and volcanoes form. Plates pushing together made the Himalaya."
   },
   {
    "idea": "Nature's events give as well as take.",
@@ -1229,7 +1227,7 @@
   },
   {
    "idea": "Knowledge, warnings and neighbours save more lives than anything else.",
-   "more": "Strong buildings, cyclone shelters, a tsunami warning centre, Drop-Cover-Hold-On drills and even an old lullaby have saved countless people. Being ready is something we can do together."
+   "more": "Strong buildings, cyclone shelters, a tsunami warning centre, earthquake drills and even an old lullaby have saved many thousands of people. Being ready is something a family and a town can do together."
   }
  ],
  "unknowns": [

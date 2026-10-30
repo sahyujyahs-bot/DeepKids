@@ -1,0 +1,2693 @@
+{
+ "id": "sci.sound.waves.L3",
+ "title": "Waves: how energy travels while the water stays in place",
+ "level": 3,
+ "summary": {
+  "text": "Drop a pebble in a bucket and rings of ripples spread to the edge. Yet a grain of puffed rice floating on the water only bobs up and down where it is. A wave is energy travelling through a material, while the material itself stays in place. Waves travel through water, a rope, a spring toy, a crowd at a cricket match, the air and even solid rock. What a wave travels through sets how fast it goes. In shallow water a wave moves slowly, and in deeper water it moves faster. That is why a tsunami slows down and grows tall as it reaches the beach. In 1936 Inge Lehmann used earthquake waves to find a solid ball at the centre of the Earth.",
+  "art": "A steel bucket of water seen from above, with rings of ripples spreading out and one grain of puffed rice bobbing in the middle. Beside it, a crowd at Chepauk stadium in Chennai doing a Mexican wave, and a dupatta tied to a door handle with a bump running along it."
+ },
+ "intro": {
+  "hook": "Float one grain of puffed rice in the middle of a bucket of water. Now tap the water near the edge with a pencil, again and again. The ripples rush past the puffed rice towards the far side. Does the puffed rice go with them?",
+  "text": "The puffed rice bobs up and down, but it stays in the middle. The ripples crossed the bucket, yet the water did not. Something travelled from your pencil to the far side, and it was not water. It was energy. Energy that travels like this, through a material that stays behind, is called a wave.",
+  "art": "A child's hand tapping a pencil on the water at the edge of a steel bucket. Rings of ripples spread across, and one grain of puffed rice sits on a ripple in the middle, with small arrows showing it moving only up and down."
+ },
+ "outcomes": [
+  "I can say what a wave is: energy that travels through a material while the material stays in place.",
+  "I can show with a floating grain that the water bobs as a wave passes but does not travel with it.",
+  "I can find waves in water, a rope, a spring, a crowd, the air and the ground.",
+  "I can test fairly whether a wave crosses deep or shallow water faster, and explain my result.",
+  "I can point to a crest and a trough, and say what the wavelength and the height of a wave are.",
+  "I can explain why a tsunami slows down and grows taller as it reaches the shore.",
+  "I can tell how Inge Lehmann used earthquake waves to find the Earth's solid inner core."
+ ],
+ "cards_mins": 15,
+ "terms": [
+  {
+   "term": "Wave",
+   "meaning": "Energy that travels through a material, such as water or a rope, while the material stays where it is.",
+   "example": "When you drop a stone in a bucket, a ring of ripples spreads to the edge. The water in the middle stays in the middle.",
+   "art": "Rings of ripples spreading out from a stone dropped in a bucket of water."
+  },
+  {
+   "term": "Energy",
+   "meaning": "What it takes to make something move, change or warm up.",
+   "example": "Your arm gives energy to the dupatta when you flick it. The energy runs along the cloth to the far end.",
+   "art": "A hand flicking a dupatta, with a bump running along it."
+  },
+  {
+   "term": "Medium",
+   "meaning": "The material a wave travels through. Water, a rope, air and rock can all be a medium.",
+   "example": "For ripples, the medium is the water. For sound, the medium is usually the air.",
+   "art": "Four small pictures: water with ripples, a rope with a bump, air with a drum, and rock with a crack shaking."
+  },
+  {
+   "term": "Ripple",
+   "meaning": "A small wave on the top of water.",
+   "example": "When a drop falls from the tap into a full bucket, ripples spread out in rings.",
+   "art": "A drop falling from a tap into a bucket, with rings around where it lands."
+  },
+  {
+   "term": "Pulse",
+   "meaning": "A single bump of a wave, sent by one push or one flick.",
+   "example": "One flick of a dupatta sends one pulse to the door handle.",
+   "art": "A dupatta with one bump on it, halfway between a hand and a door handle."
+  },
+  {
+   "term": "Crest",
+   "meaning": "The highest point of a wave.",
+   "example": "A surfer rides just below the crest of a sea wave.",
+   "art": "A wavy line with the top points marked with arrows."
+  },
+  {
+   "term": "Trough",
+   "meaning": "The lowest point of a wave, between two crests. Say it 'troff'.",
+   "example": "A small boat dips down into the trough between two waves.",
+   "art": "A wavy line with a small boat sitting in a low point."
+  },
+  {
+   "term": "Wavelength",
+   "meaning": "The distance from one crest to the next crest.",
+   "example": "Ripples from a dripping tap have a short wavelength, about a finger-width. Waves at Marina Beach in Chennai have a much longer one.",
+   "art": "A wavy line with a ruler-like arrow from one crest to the next."
+  },
+  {
+   "term": "Height of a wave",
+   "meaning": "How far the crest is above the flat water. Scientists call half the distance from trough to crest the amplitude.",
+   "example": "A gentle ripple is only a few millimetres high. A storm wave can be taller than a house.",
+   "art": "A wave beside a flat line, with an arrow from the flat line up to the crest."
+  },
+  {
+   "term": "Wave speed",
+   "meaning": "How far a wave travels in one second.",
+   "example": "In your tray, a wave took a few seconds to cross and come back.",
+   "art": "A tray of water with a wave bump halfway across and a phone stopwatch beside it."
+  },
+  {
+   "term": "Depth",
+   "meaning": "How deep the water is, from the top to the bottom.",
+   "example": "Stand a ruler in the tray. If the water reaches the 2 cm mark, the depth is 2 centimetres.",
+   "art": "A ruler standing in a tray of water, with the water level at 2 cm."
+  },
+  {
+   "term": "Reflect",
+   "meaning": "To bounce back. A wave reflects when it hits a wall or a fixed end.",
+   "example": "A ripple that hits the side of the bucket comes back towards the middle.",
+   "art": "A ripple hitting the wall of a bucket and a second ripple coming back."
+  },
+  {
+   "term": "Tsunami",
+   "meaning": "A very long, fast sea wave, usually started by an earthquake under the sea. Say it 'soo-nah-mee'. It is a Japanese word for a harbour wave.",
+   "example": "On 26 December 2004, a tsunami from an earthquake near Sumatra reached the coast of Tamil Nadu about two hours later.",
+   "art": "A map of the Bay of Bengal with rings spreading out from near Sumatra towards India and Sri Lanka."
+  },
+  {
+   "term": "Earthquake waves",
+   "meaning": "Waves of shaking that travel through the ground, and through the whole Earth, after an earthquake. Scientists call them seismic waves.",
+   "example": "A machine called a seismograph in another country can record the shaking from an earthquake far away.",
+   "art": "A cut-open Earth with curved lines of shaking travelling from one side through the inside to the other side."
+  },
+  {
+   "term": "Mexican wave",
+   "meaning": "A wave made by a crowd. Each person stands up and sits down just after the person beside them.",
+   "example": "At a cricket match at Chepauk stadium in Chennai, a Mexican wave can run all the way round the stands.",
+   "art": "A curved stand of people, with a band of people standing with raised arms and everyone else sitting."
+  },
+  {
+   "term": "Spring toy",
+   "meaning": "A long, loose coil of plastic or metal. Children call it a slinky or a magic spring.",
+   "example": "Stretch a spring toy along the floor and push one end. A squeeze runs along the coils.",
+   "art": "A rainbow plastic spring toy stretched along a floor between two children."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "A wave is travelling energy",
+   "status": "defined",
+   "context": "This card says what a wave is, using the puffed rice on the bucket.",
+   "definition": "A wave is energy travelling through a material while the material only moves a little, back and forth or up and down, and stays in its place.",
+   "description": "When you tap the water, your pencil pushes the water next to it. That water pushes the water next to it, and so on, across the bucket. Each bit of water moves only a tiny distance and then settles back. What crosses the bucket is the energy of your tap. The puffed rice bobs as the energy passes under it, but it stays near the middle.",
+   "examples": [
+    "Ripples cross a bucket, but a floating grain stays near the middle.",
+    "A bump runs along a dupatta to the door, but the cloth stays tied where it was.",
+    "In a Mexican wave, the wave runs round the stadium, but every person stays in their seat."
+   ],
+   "perspectives": [],
+   "art": "A row of water drops drawn as small circles across a bucket, each with a tiny up-and-down arrow, and one big arrow above them all pointing across the bucket labelled 'energy'."
+  },
+  {
+   "concept": "The water moves in small circles",
+   "status": "defined",
+   "context": "This card explains what the water itself does when a wave passes.",
+   "definition": "As a water wave passes, each bit of water near the top moves round in a small circle: up and forward as the crest arrives, then down and back as the trough arrives.",
+   "description": "Watch the puffed rice closely. As a crest comes, it rises and moves a little forward. As the trough comes, it sinks and moves a little back. It ends up almost where it began. In a real sea, each circle comes out very slightly forward, so floating things creep slowly. Near the beach the waves break, and then the water does rush up the sand. Far from the shore, the water mostly goes round and round in its place.",
+   "examples": [
+    "A duck sitting on a pond rides up and down as ripples pass, but stays in the same spot.",
+    "A fishing boat out at sea rises and falls on the waves without being carried to the beach.",
+    "The puffed rice in your bucket bobs and creeps only a little."
+   ],
+   "perspectives": [],
+   "art": "A side view of a water wave with a floating grain shown at four moments, going round a small circle: up, forward, down, back."
+  },
+  {
+   "concept": "Waves need something to travel through",
+   "status": "defined",
+   "context": "This card is about the many materials waves travel through.",
+   "definition": "Water waves, rope waves, sound and earthquake waves all travel through a material, called the medium. Light is a different kind of wave that can also cross empty space.",
+   "description": "A wave on a dupatta travels through the cloth. A squeeze on a spring toy travels through the coils. A Mexican wave travels through a crowd of people. Sound travels through air, water, wood and steel. Earthquake waves travel through solid rock, right through the Earth. Light, which comes from the Sun through empty space, is a wave too, but of a different kind. It needs no material at all.",
+   "examples": [
+    "Sound from a temple bell reaches you through the air.",
+    "Put your ear on one end of a long table while a friend taps the far end. The tap comes to you through the wood.",
+    "Sunlight reaches us across empty space."
+   ],
+   "perspectives": [],
+   "art": "A strip of five small pictures: ripples in water, a bump on a rope, a squeeze on a spring toy, a Mexican wave, and the Sun's light crossing black space to the Earth."
+  },
+  {
+   "concept": "The medium sets a wave's speed",
+   "status": "defined",
+   "context": "This card explains the result of the Tray Test, where a wave crossed deep and shallow water.",
+   "definition": "How fast a wave travels depends on what it travels through. A water wave that is long compared with the depth goes faster in deeper water and slower in shallower water.",
+   "description": "In the Tray Test, you gave the water the same push each time. In 1 cm of water, the wave crawled. In 4 cm, it went about twice as fast. Your push only started the wave. After that, the water passed the energy along at its own speed. Each kind of medium has its own rule. A tight rope carries a wave faster than a loose one. A crowd of people who stand up quickly carries a Mexican wave faster than a sleepy crowd. Sound goes faster in water than in air, and faster again in steel.",
+   "examples": [
+    "Water 4 times as deep carries a long wave about 2 times as fast.",
+    "A dupatta pulled tight carries a bump faster than a dupatta hanging loose.",
+    "A Mexican wave in a big stadium travels at about 20 seats each second. That speed is set by how quickly people react."
+   ],
+   "perspectives": [],
+   "art": "Two trays side by side, one with shallow water and a short arrow, one with deeper water and a long arrow, both with the same hand and the same dosa turner at one end."
+  },
+  {
+   "concept": "Why a tsunami grows tall near the shore",
+   "status": "defined",
+   "context": "This card uses the Tray Test to explain the 2004 tsunami that reached Tamil Nadu.",
+   "definition": "A tsunami travels fast in the deep ocean and slows down as the sea gets shallow. The back of the wave is still in deeper water and moving faster, so the water piles up and the wave grows taller.",
+   "description": "On 26 December 2004, a huge earthquake under the sea near Sumatra lifted the sea floor. A tsunami spread out across the Bay of Bengal. In the deep ocean it moved at more than 700 kilometres an hour, as fast as a jet plane, but it was less than a metre high, so ships hardly noticed it. Near the coast, the water got shallow and the wave slowed down, just as your wave slowed in shallow water. The wave behind caught up and the water piled up. It reached Nagapattinam, Chennai and the coast of Kerala as a wall of water. Today the Indian Tsunami Early Warning Centre in Hyderabad watches for undersea earthquakes and warns the coast.",
+   "examples": [
+    "In the deep ocean, a tsunami is fast and low.",
+    "Near the shore, it is slow and tall.",
+    "Before a tsunami arrives, the sea sometimes pulls far back from the beach. That is a sign to run to high ground at once."
+   ],
+   "perspectives": [],
+   "art": "A side view of the sea from deep ocean to beach: on the left, a long low wave with a fast arrow, on the right, the same wave slowed down and much taller near a beach with palm trees."
+  },
+  {
+   "concept": "The parts of a wave",
+   "status": "defined",
+   "context": "This card names the parts of a wave, so we can talk about them.",
+   "definition": "The crest is the top of a wave and the trough is the bottom. The wavelength is the distance from one crest to the next. The height is how far the crest rises above the flat water.",
+   "description": "Look at a wave drawn on paper. It goes up to a crest, down to a trough, and up again. Measure from one crest to the next crest, and you have the wavelength. Ripples from a dripping tap have a wavelength of about a centimetre. Sea waves at a beach can be tens of metres long. A tsunami's wavelength can be more than 100 kilometres. A wave's height tells you how much energy it carries. A taller wave carries much more energy.",
+   "examples": [
+    "A tap drip makes ripples with a short wavelength.",
+    "A storm makes sea waves that are tall and carry a lot of energy.",
+    "When you shake a rope faster, the crests come closer together, so the wavelength is shorter."
+   ],
+   "perspectives": [],
+   "art": "A large labelled wave: crest at the top, trough at the bottom, a double arrow from crest to crest labelled wavelength, and an arrow from the flat line to the crest labelled height."
+  },
+  {
+   "concept": "Waves bounce back and pass through each other",
+   "status": "defined",
+   "context": "This card explains two things you saw in the tray and on the dupatta.",
+   "definition": "A wave reflects, or bounces back, when it reaches a wall or a fixed end. Two waves that meet pass through each other and carry on.",
+   "description": "In the tray, the wave hit the far wall and came back to you. That is why you could time it there and back. On the dupatta tied to a door handle, a bump that went along the top came back along the bottom. A fixed end turns a pulse upside down as it reflects. When two ripples cross in a bucket, they add up where they meet, then carry on as if nothing happened. Two balls would bump into each other. Two waves do not.",
+   "examples": [
+    "A ripple bounces off the side of the bucket.",
+    "An echo is a sound wave bouncing back off a wall.",
+    "Ripples from two raindrops cross each other in a puddle and keep going."
+   ],
+   "perspectives": [],
+   "art": "Two rings of ripples from two raindrops overlapping on a puddle, and a dupatta with a pulse going out on top and coming back underneath."
+  },
+  {
+   "concept": "Earthquake waves let us see inside the Earth",
+   "status": "defined",
+   "context": "This card tells how waves helped Inge Lehmann find the centre of the Earth.",
+   "definition": "Earthquake waves travel at different speeds through different kinds of rock and metal, and bend where one layer meets another. So the times they arrive at machines around the world tell scientists what is inside the Earth.",
+   "description": "Nobody can dig to the centre of the Earth. The deepest hole ever drilled goes down only about 12 kilometres, and the centre is about 6,370 kilometres down. But every big earthquake sends waves right through the Earth. Machines called seismographs, in many countries, record when the shaking arrives. Waves change speed as they pass from one layer to another, and that bends their path. From the arrival times, scientists worked out that the Earth has a rocky outside, a liquid metal outer core, and a solid metal inner core.",
+   "examples": [
+    "Doctors use sound waves to see a baby inside the mother's body.",
+    "Bats send out sound waves and listen to the echoes to find insects in the dark.",
+    "Inge Lehmann used earthquake waves to find the solid inner core in 1936."
+   ],
+   "perspectives": [],
+   "art": "A cut-open Earth showing crust, mantle, a liquid outer core in orange and a solid inner core in yellow, with curved wave paths bending as they pass through."
+  },
+  {
+   "concept": "Living beings who use waves for their own lives",
+   "status": "defined",
+   "context": "This card is about creatures who sense waves to find food and stay safe.",
+   "definition": "Many animals sense waves in water, in the ground or along silk, and use them to find food, find each other and notice danger.",
+   "description": "A garden spider has a problem: she sits in the middle of a big web, and an insect may land on any part of the web. Many web-building spiders see poorly. So she rests her legs on the threads. When an insect struggles, waves of shaking run along the silk to her legs. From which threads shake, she can tell where the insect is and run straight there. A fish has a line of sense organs along each side, called the lateral line. It feels tiny waves in the water from other fish, so a shoal can swim together and turn together in the dark.",
+   "examples": [
+    "A spider feels waves along her web and finds a trapped fly.",
+    "A fish feels water waves through the lateral line along their sides.",
+    "Elephants may feel low rumbles from other elephants through their feet. Scientists are still studying this."
+   ],
+   "perspectives": [],
+   "art": "A spider in the middle of an orb web with one leg on a thread, and wavy lines running along the thread from a fly caught near the edge."
+  },
+  {
+   "concept": "Is a wave a thing?",
+   "status": "debated",
+   "context": "This card is a question people answer in different ways.",
+   "description": "A wave can be seen, counted and timed. It can knock down a sandcastle. Yet it is made of no stuff of its own. The water it travels through stays behind. So is a wave a thing, or only something that water does?",
+   "examples": [
+    "You can say 'that wave is coming', as if it were a thing.",
+    "You can also say 'the water is going up and down', and never mention a wave."
+   ],
+   "perspectives": [
+    {
+     "who": "Many physicists",
+     "explanation": "A wave is a real thing in its own right. It carries energy, it has a speed and a wavelength, and it can be measured. It does not need to be made of its own stuff to be real."
+    },
+    {
+     "who": "Other thinkers",
+     "explanation": "A wave is a pattern in the water, like a word is a pattern in ink. Only the water is really there. 'Wave' is a useful name for what the water is doing."
+    }
+   ],
+   "art": "A wave on the sea with two children on the beach, one pointing at the wave, the other pointing at the water."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "A wave carries energy from place to place, while the material it travels through stays roughly where it was.",
+   "evidence": "A floating grain on a bucket bobs up and down as ripples pass, and ends up almost where it started."
+  },
+  {
+   "text": "The speed of a water wave that is long compared with the depth depends on the depth. Deeper water carries it faster.",
+   "evidence": "In a tray, the same push sends a wave across and back faster in deeper water. School labs measure this with ripple tanks. Tsunami warning centres use the depth of the sea to work out when a wave will reach each coast."
+  },
+  {
+   "text": "Waves reflect from walls and pass through each other.",
+   "evidence": "Ripples bounce off the side of a bucket, and two sets of ripples cross without stopping."
+  },
+  {
+   "text": "The Earth has a solid inner core inside a liquid outer core.",
+   "evidence": "Inge Lehmann proposed it in 1936 from earthquake waves. In 1970, more sensitive seismographs picked up waves bouncing off the solid inner core."
+  },
+  {
+   "text": "A tsunami slows down and grows taller as it reaches shallow water near a coast.",
+   "evidence": "Measurements of the 2004 Indian Ocean tsunami by satellites over the deep sea and by people on the coast showed a low, fast wave far out and a tall, slower one at the shore."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Sea waves carry the water from far out at sea to the beach.",
+   "who": "A very common idea among children and grown-ups",
+   "for": "Waves do run up the beach, and floating things do slowly wash ashore.",
+   "against": "Far from the shore, the water mostly goes round in small circles as the wave passes. A boat out at sea rises and falls but is not carried in by each wave. Floating things wash ashore slowly, mostly because of wind, currents and the slight forward creep of each circle. Only where waves break does water rush up the sand.",
+   "status": "rejected",
+   "context": "This card is about a common idea: that waves are moving water."
+  },
+  {
+   "claim": "A wave's speed comes from the push that started it, like a ball thrown harder goes faster.",
+   "who": "A common first guess",
+   "for": "A big storm does make big waves, and a harder flick sends a bigger bump along a rope.",
+   "against": "In the Tray Test, the same push travelled at different speeds in different depths. The medium sets the speed. The push mostly sets how tall the wave is. The push does matter a little: in the deep sea, long waves travel faster than short ones, and a very tall wave in shallow water goes a little faster than a small one.",
+   "status": "rejected",
+   "context": "This card is about whether a wave gets its speed from the push or from what it travels through."
+  },
+  {
+   "claim": "Mangrove forests along the coast protected villages from the 2004 tsunami.",
+   "who": "Some scientists who studied the coast of Tamil Nadu and Sri Lanka after 2004",
+   "for": "A study published in 2005 found that villages behind mangroves and other coastal trees in Tamil Nadu had less damage than villages on open beaches.",
+   "against": "Other scientists said that some of those villages were also further from the sea or on higher ground, so the trees may not be the whole reason. A very big tsunami can flatten trees too.",
+   "status": "debated",
+   "context": "This card is about whether coastal forests can soften a tsunami."
+  },
+  {
+   "claim": "The whole core of the Earth is liquid.",
+   "who": "Many earth scientists in the 1920s",
+   "for": "Some earthquake waves cannot travel through liquid, and they never got through the core, so the core must be at least partly liquid.",
+   "against": "Inge Lehmann found faint waves arriving where a fully liquid core would leave none. In 1936 she showed they could be explained by a solid inner core. Later measurements confirmed it.",
+   "status": "rejected",
+   "context": "This card is about an old idea that Inge Lehmann showed was wrong."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "The puffed rice stayed in the middle, yet something crossed the bucket. What exactly is it that travels in a wave?",
+   "kind": "deep",
+   "hint": "Think about what your pencil gave the water, and what the puffed rice felt when the wave passed."
+  },
+  {
+   "q": "If the water sets the speed of the wave, what does the person who starts the wave decide?",
+   "kind": "deep",
+   "hint": "Compare a small push with a big push. What changed, and what stayed the same?"
+  },
+  {
+   "q": "Your voice is a wave in the air. When a friend hears you, has any of your air reached them?",
+   "kind": "deep",
+   "hint": "Think about the puffed rice and the dupatta."
+  },
+  {
+   "q": "Light from a far star is a wave that left the star long ago. Is the star still there?",
+   "kind": "big",
+   "hint": "Light takes time to travel. Some starlight has been travelling for thousands of years."
+  },
+  {
+   "q": "A rumour passes from person to person around a school, and every person stays at their desk. Is a rumour a kind of wave?",
+   "kind": "big",
+   "hint": "What travels, and what stays? Does the rumour change as it goes?"
+  },
+  {
+   "q": "If we know what is inside the Earth only from the waves that come through it, how sure can we be?",
+   "kind": "big",
+   "hint": "Think about how many earthquakes and machines Inge Lehmann needed, and what would make you more sure."
+  }
+ ],
+ "story": {
+  "title": "The Wave at Chepauk",
+  "mins": 10,
+  "read_aloud": true,
+  "note": "The story is made up. The facts in it are true: a Mexican wave is passed on by people who stay in their seats, and its speed is set by how quickly people react. Scientists who filmed stadium crowds found a typical speed of about 20 seats each second.",
+  "text": [
+   "Meenakshi had never been to a cricket match before. Revathi Chithi had three tickets for Chepauk, the big stadium in Chennai, and she took Meenakshi and her little cousin Arjun.",
+   "The stands were packed. It was hot, and everyone was waving paper caps. Arjun ate a packet of murukku and dropped half of it.",
+   "In the middle of the afternoon, a roar started far away on the other side of the ground. Meenakshi looked up. A band of people was standing up with their arms in the air. Then they sat down, and the people beside them stood up.",
+   "\"It's coming round!\" shouted Arjun. \"It's coming to us!\"",
+   "The band of standing people swept round the stadium. It passed the scoreboard. It passed the big stand with the flags. Then the people two blocks away were up, then the next block, then the uncle in front of them.",
+   "\"Now!\" said Revathi Chithi. All three of them jumped up, threw their arms high and shouted. Then they sat down again. The wave rushed on past them and away round the ground.",
+   "Arjun was bouncing on his seat. \"Where did it go? Let's run after it!\"",
+   "\"Look at the uncle in front,\" said Meenakshi. \"He is still here. We are still here. Nobody went anywhere.\"",
+   "Arjun frowned. \"But the wave went past us. I saw it go.\"",
+   "\"Both are true,\" said Revathi Chithi. She was an engineer who built sea walls along the coast, and she liked questions like this. \"Every person only stood up and sat down. Nobody left their seat. What went round the stadium was the standing up, passed from one person to the next.\"",
+   "\"Like passing a message,\" said Meenakshi.",
+   "\"Exactly. That is what a wave is. Something travels, but the things it travels through stay where they are. A sea wave works the same way. The water mostly bobs up and down in its place, and the wave travels on.\"",
+   "The wave came round again a few minutes later. This time Meenakshi watched it carefully. It did not race. It came at an even speed, block after block.",
+   "\"Chithi, why doesn't it go faster?\" she asked. \"Everybody is so excited.\"",
+   "\"What do you think decides its speed?\"",
+   "Meenakshi thought. \"Each person waits until they see the person next to them stand up. Then they stand up. So the wave can't go faster than people can see and jump.\"",
+   "\"Good. Let's test it when it comes back. This time, stand up a little late on purpose.\"",
+   "The wave came round a third time. Meenakshi and Arjun waited a moment too long before they jumped. The people beside them, who were watching them, stood up late too. For a second there was a little hiccup in the wave. Then the crowd further along caught up, and it rolled on.",
+   "\"We slowed it down!\" said Arjun, delighted.",
+   "\"Only near us,\" said Meenakshi. \"So the wave's speed is not set by the person who started it, far away. It is set by everyone it passes through.\"",
+   "Revathi Chithi nodded. \"In my work, that matters a lot. The sea is the same. A wave in the deep ocean travels very fast. When it comes into shallow water near the beach, it slows down. The water behind is still fast, so it catches up and the wave piles up taller. That is why a tsunami is so tall when it reaches the shore.\"",
+   "\"Like the people behind us bumping into us when we were slow?\" said Arjun.",
+   "\"Something like that,\" said Revathi Chithi, and she laughed.",
+   "On the way home in the auto, Meenakshi kept thinking. When they got home, she took the long steel tray that Paati used for drying vadams. She poured in a little water and pushed it at one end with a dosa turner. A bump of water ran to the far end and came back.",
+   "Then she poured in more water and did it again. This time the bump ran faster.",
+   "\"Arjun, look,\" she said. \"I pushed the same. The water decided.\"",
+   "Arjun peered into the tray. \"So the water is the crowd,\" he said.",
+   "Meenakshi grinned. \"And the deep water is a quick crowd.\""
+  ],
+  "epiphany": "For the parent: a wave is energy passed from one part of a material to the next, while each part stays in its place. The speed of the wave is set by the material it passes through, whether that is people in a stadium or water in a tray.",
+  "ask": [
+   "When the Mexican wave went past Meenakshi, did anybody leave their seat? What moved round the stadium?",
+   "Why couldn't the wave go faster, even though everyone was excited?",
+   "What happened when Meenakshi and Arjun stood up late?",
+   "In the tray at home, what did Meenakshi change, and what stayed the same?",
+   "Arjun said, 'The water is the crowd.' What did he mean?"
+  ],
+  "art": [
+   "Chepauk stadium in Chennai on a sunny afternoon, packed stands, a band of people standing with raised arms on the far side.",
+   "A woman in a cotton saree, a girl of 8 and a small boy holding murukku, all three jumping up with arms raised as the wave reaches them.",
+   "The girl watching carefully as the wave goes past, while the boy points after it.",
+   "The girl and the boy standing up a moment late, with a small gap in the wave beside them.",
+   "A kitchen floor at night: the girl pushing water in a long steel tray with a dosa turner while the boy watches a bump of water travel across."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "Wave or Not?",
+   "mins": 15,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a card game. You sort cards into waves, where energy travels and the stuff stays, and not waves, where the stuff itself moves.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "20 cards to cut out",
+     "items": [
+      "Ripples from a stone in a bucket (wave)",
+      "A cricket ball thrown to the batter (not a wave: the ball travels)",
+      "A Mexican wave at Chepauk (wave)",
+      "The river Kaveri flowing to the sea (not a wave: the water travels)",
+      "The sound of a temple bell (wave)",
+      "Wind blowing a kite (not a wave: the air travels)",
+      "A bump on a dupatta tied to a door (wave)",
+      "A train going from Chennai to Madurai (not a wave)",
+      "The ground shaking in an earthquake (wave)",
+      "Water from a tap into a bucket (not a wave)",
+      "A squeeze along a spring toy (wave)",
+      "An auto driving down the road (not a wave)",
+      "A twist along the straw wave machine (wave)",
+      "A crow flying home (not a wave)",
+      "Light from the Sun (wave, a special kind that needs no material)",
+      "Rice poured from a sack (not a wave)",
+      "A tsunami crossing the deep ocean (wave)",
+      "Sea water carried in a bucket (not a wave)",
+      "A rumour passed round a class, with everyone in their seats (you decide, and give a reason)",
+      "A line of standing dominoes falling one after another (you decide, and give a reason)"
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "Score sheet",
+     "items": [
+      "Player name",
+      "Cards sorted right",
+      "Best reason given"
+     ]
+    }
+   ],
+   "rules": [
+    "Shuffle the cards and put them face down.",
+    "On your turn, take a card and read it out.",
+    "Say 'wave' or 'not a wave', and give a reason: what travels, and what stays?",
+    "If the other players agree with your reason, keep the card. If not, put it at the bottom of the pile.",
+    "For a 'you decide' card, any answer with a good reason scores.",
+    "When the pile is gone, the player with the most cards wins. Playing alone, try to sort all 20 with a reason for each."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Cut out the cards and shuffle them.",
+     "say": "In this game, the question is always the same. Does the stuff travel, or only the energy?",
+     "kid": "For each card, ask: does the stuff travel, or only the energy?"
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Play the first card together as a practice.",
+     "say": "The river Kaveri flowing to the sea. Is that a wave? What travels, and what stays?",
+     "kid": "A river flowing. Does the water travel? Is it a wave?",
+     "check": {
+      "t": "mcq",
+      "q": "The river Kaveri flows to the sea. Is the flowing a wave?",
+      "options": [
+       "Yes, because the river moves",
+       "No, because the water itself travels to the sea",
+       "Yes, because it is water"
+      ],
+      "a": 1,
+      "why": "In a flowing river, the water itself travels all the way to the sea. In a wave, the energy travels and the water stays. A river can have ripples on it, and those ripples are waves, but the flowing is not."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 8,
+     "do": "Play the game until the cards run out.",
+     "say": "Your turn. Read the card, decide, and give your reason.",
+     "kid": "Take a card. Wave or not? Say why."
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Talk about the 'you decide' cards.",
+     "say": "Is a rumour a wave? What travels, and what stays? Does it matter that the rumour can change as it goes?",
+     "kid": "Is a rumour a wave? What travels? What stays?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A pile of game cards on a table and two cards turned over: one showing ripples in a bucket, one showing a cricket ball in flight.",
+     "caption": "1. Take a card and read it out."
+    },
+    {
+     "art": "Two piles of cards labelled 'wave' and 'not a wave', and a child pointing to one pile.",
+     "caption": "2. Say wave or not a wave, and give a reason."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Crest and Trough",
+   "mins": 10,
+   "players": [
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a movement game. You become a wave, with crests and troughs, and pass it along a line.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "8 caller cards",
+     "items": [
+      "CREST: stand tall on your toes, arms up",
+      "TROUGH: crouch down low",
+      "FLAT: stand still, arms by your side",
+      "WAVE LEFT: pass a crest to the left, one person at a time",
+      "WAVE RIGHT: pass a crest to the right",
+      "FAST CROWD: pass the wave as fast as you can",
+      "SLOW CROWD: count 'one, two' before you move",
+      "REFLECT: the last person sends the wave back"
+     ]
+    }
+   ],
+   "rules": [
+    "Stand in a line, side by side.",
+    "The caller turns over a card and reads it out.",
+    "Everyone does what the card says. For a wave card, each person moves only after the person next to them.",
+    "Anyone who moves too early or walks out of their place swaps with the caller.",
+    "With only two players, take turns: the caller says a card and the other player does it, using soft toys in a row as the rest of the line."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "Stand in a line. Practise CREST, TROUGH and FLAT.",
+     "say": "A crest is the top of a wave. A trough is the bottom. Show me a crest! Now a trough!",
+     "kid": "Crest: stand tall. Trough: crouch low. Flat: stand still."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Play the caller cards in any order.",
+     "say": "Wave left! Only move after the person next to you. Stay in your place!",
+     "kid": "Move after the person next to you. Stay in your place!"
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Ask about the game.",
+     "say": "Did anybody move along the line? What moved along the line?",
+     "kid": "Did you leave your place? What moved along the line?",
+     "check": {
+      "t": "mcq",
+      "q": "In the game, what decided whether the wave was fast or slow?",
+      "options": [
+       "How quickly each person moved after the one next to them",
+       "Who was the caller",
+       "How tall the crest was"
+      ],
+      "a": 0,
+      "why": "The wave went as fast as the line passed it on. In the slow crowd, everyone waited, so the wave was slow. The caller only started it, and a tall crest did not make it faster."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A family standing in a line in a living room, one person on tiptoe with arms up and the next person crouching.",
+     "caption": "1. Learn crest, trough and flat."
+    },
+    {
+     "art": "The same line with a crest halfway along, one person on tiptoe, and a caller holding a card.",
+     "caption": "2. Pass the wave along the line."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Tray Test: does a wave cross deep or shallow water faster?",
+   "mins": 30,
+   "days": 1,
+   "context": "In this experiment you send the same wave across a tray of water at three depths, and time it with a stopwatch.",
+   "question": "If you give the water the same push, does a wave cross a tray faster when the water is shallow or when it is deep?",
+   "predict": "Guess: will the wave be faster in shallow water, in deep water, or the same in both? Why do you think so?",
+   "fair_test": "Use the same tray, the same dosa turner and the same push every time: push it forward about 2 cm, once, quickly. Count the same thing every time: the wave goes to the far end and comes back to you twice. Only the depth of the water changes. Time each depth three times, because a stopwatch pressed a little late can fool you.",
+   "results_table": [
+    "Water depth",
+    "My guess: fast or slow?",
+    "Try 1 (seconds)",
+    "Try 2 (seconds)",
+    "Try 3 (seconds)",
+    "Middle time (seconds)"
+   ],
+   "materials": [
+    {
+     "item": "a long rectangular tray or plastic box, at least 30 cm long, such as a baking tray, a steel vadam-drying tray, a fridge vegetable tray or a plastic storage box",
+     "qty": 1
+    },
+    {
+     "item": "water, about 4 litres in all",
+     "qty": 1
+    },
+    {
+     "item": "a ruler marked in centimetres",
+     "qty": 1
+    },
+    {
+     "item": "a flat dosa turner, or a ruler or a flat steel lid, to push the water",
+     "qty": 1
+    },
+    {
+     "item": "a phone with a stopwatch, or a clock with a seconds hand",
+     "qty": 1
+    },
+    {
+     "item": "a torch",
+     "qty": 1
+    },
+    {
+     "item": "an old towel to stand the tray on",
+     "qty": 1
+    }
+   ],
+   "safety": "Do this on the floor on a towel, so spilt water does not make anyone slip. Mop up any water straight away.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 30,
+     "what": "Time the same wave across a tray of water 1 cm, 2 cm and 4 cm deep. Find the middle time for each depth."
+    }
+   ],
+   "record": "Fill in the table. Circle the middle time for each depth. Then finish this sentence: 'The deeper the water, the ...'",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Put the tray on a towel on a flat floor. 2. Stand the ruler upright in one corner. 3. Pour in water until it reaches the 1 cm mark. 4. Wait until the water is still.",
+     "say": "We are going to time a wave. First the water must be very still, or old ripples will confuse us.",
+     "kid": "Pour water to the 1 cm mark. Wait until it is still.",
+     "parent": "The floor must be flat, or the water will be deeper at one end. Check the depth at both ends with the ruler. If your tray is smaller than 30 cm, the wave is harder to time, so use the longest one you have."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Hold the dosa turner upright in the water at one short end. 2. Push it forward about 2 cm, once, quickly. 3. Ask for a guess and a reason before timing anything.",
+     "say": "Watch the bump of water run to the far end and come back. Next we will make the water deeper. Do you think the wave will go faster, slower, or the same? Why?",
+     "kid": "Push once. Watch the bump go and come back. Will deeper water be faster or slower? Why?",
+     "ask": [
+      {
+       "q": "Why do you think so?",
+       "good": [
+        "Deeper water is heavier, so it will be slower.",
+        "There is more water to push the wave, so faster.",
+        "The push is the same, so the same speed."
+       ]
+      }
+     ],
+     "parent": "Do not say which is right. Write down the guess and the reason. Every one of the good answers above is a sensible first idea."
+    },
+    {
+     "id": "s3",
+     "mins": 9,
+     "do": "1. Shine the torch at a slant across the water, so the wave makes a bright line on the bottom of the tray. 2. Say 'go' and push. Start the stopwatch as you push. 3. Your child watches the bump go to the far end and back, then to the far end and back again. 4. Stop the stopwatch when the bump reaches you the second time. 5. Wait for the water to go still. Do it three times.",
+     "say": "Go! Count it with me. There, and back one. There, and back two. Stop!",
+     "kid": "Watch the bump. There and back is one. There and back again is two. Say stop!",
+     "parent": "In 1 cm of water the wave is slow and fades quickly, so watch the bright line it makes on the bottom. In a 40 cm tray, two trips there and back take roughly 5 seconds. If the bump fades before the second trip, time just one trip there and back at every depth instead."
+    },
+    {
+     "id": "s4",
+     "mins": 9,
+     "do": "1. Add water until the ruler shows 2 cm. 2. Wait until it is still. 3. Time it three times, with the same push. 4. Add water to 4 cm and time it three times again.",
+     "say": "Same tray, same turner, same push. Only the depth is different. Watch carefully.",
+     "kid": "Add water to 2 cm. Same push. Time it three times. Then do 4 cm.",
+     "parent": "The wave should be clearly faster in 4 cm of water. In a 40 cm tray, two trips take about 3 seconds at 4 cm, compared with about 5 seconds at 1 cm. The exact numbers depend on your tray. What matters is that the time gets shorter as the water gets deeper. For the middle time, put the three times in order and take the middle one."
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "do": "1. Look at the table together. 2. Ask your child to say or write three things: what I think, what I saw, and why.",
+     "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say three things. What I think. What I saw. Why.",
+     "check": {
+      "t": "mcq",
+      "q": "You gave the water the same push every time. What made the wave faster?",
+      "options": [
+       "A harder push",
+       "Deeper water",
+       "A brighter torch"
+      ],
+      "a": 1,
+      "why": "The push was the same each time, and the torch only helps you see. Only the depth changed, so the deeper water made the wave faster. The water passes the energy along at its own speed. Picking 'a harder push' is a natural guess, because a ball thrown harder goes faster. A wave is not a ball: after the push, the water carries it."
+     },
+     "parent": "A strong answer sounds like this: 'Deeper water makes a faster wave. At 4 cm it took 3 seconds and at 1 cm it took 5 seconds, with the same push. I think the water decides how fast the wave goes.' Now read the card 'The medium sets a wave's speed'."
+    }
+   ],
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example results, in a 40 cm tray, timing two trips there and back",
+    "cols": [
+     "Water depth",
+     "Try 1",
+     "Try 2",
+     "Try 3",
+     "Middle time"
+    ],
+    "rows": [
+     [
+      "1 cm",
+      "5.4 s",
+      "5.1 s",
+      "5.6 s",
+      "5.4 s"
+     ],
+     [
+      "2 cm",
+      "3.9 s",
+      "3.7 s",
+      "4.0 s",
+      "3.9 s"
+     ],
+     [
+      "4 cm",
+      "2.9 s",
+      "2.7 s",
+      "3.0 s",
+      "2.9 s"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "A long steel tray on a towel on the floor, with a ruler standing upright in one corner and water at the 1 cm mark.",
+     "caption": "1. Pour water to the 1 cm mark and let it go still."
+    },
+    {
+     "art": "A hand holding a dosa turner upright at one end of the tray, pushing it forward a little. A bump of water runs towards the far end, and a torch shines across at a slant.",
+     "caption": "2. Push once and start the stopwatch."
+    },
+    {
+     "art": "A child's face close to the tray, watching the bump come back, with a phone stopwatch on the floor beside the tray.",
+     "caption": "3. Stop the watch when the bump has come back to you twice."
+    },
+    {
+     "art": "The same tray with water now at the 4 cm mark on the ruler, and the same dosa turner ready.",
+     "caption": "4. Add water to 2 cm, then 4 cm, and time it again."
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "Puffed Rice on the Waves: does the water travel with the wave?",
+   "mins": 20,
+   "days": 1,
+   "context": "In this experiment you float grains of puffed rice on a bucket of water and find out whether waves carry them across.",
+   "question": "When waves cross a bucket, do they carry the water, and the things floating on it, to the far side?",
+   "predict": "Guess: if you make waves at one side of the bucket, will the floating puffed rice be carried to the far side? Why do you think so?",
+   "fair_test": "Use the same bucket and the same grains for both tests. Make the waves by tapping, not by stirring or blowing, because stirring and blowing push the water itself. Then, as a comparison, blow across the water gently through a straw. Watch for one minute each time.",
+   "results_table": [
+    "What I did",
+    "My guess: will the grains reach the far side?",
+    "What the grains did",
+    "Did they reach the far side?"
+   ],
+   "materials": [
+    {
+     "item": "a bucket or a big steel vessel, filled with water nearly to the top",
+     "qty": 1
+    },
+    {
+     "item": "5 grains of puffed rice (pori or murmura), or 5 tiny squares of paper",
+     "qty": 5
+    },
+    {
+     "item": "a pencil",
+     "qty": 1
+    },
+    {
+     "item": "a drinking straw",
+     "qty": 1
+    },
+    {
+     "item": "a small piece of cello tape or a bindi, to mark the rim",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep a small child away from a full bucket of water, and empty it when you finish.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Float puffed rice, make waves by tapping, and watch where the grains go. Then blow across the water and compare."
+    }
+   ],
+   "record": "Draw the bucket from above. Mark where the grains started and where they were after one minute of tapping, and after blowing.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Fill the bucket nearly to the top and let it go still. 2. Float the puffed rice in a small group in the middle. 3. Stick a bit of tape or a bindi on the rim, in line with the grains, as a marker.",
+     "say": "Here are our floating grains, in the middle. The tape shows where they started.",
+     "kid": "Float the grains in the middle. Put a sticker on the rim to mark the spot.",
+     "parent": "Puffed rice floats well for a few minutes before it gets soggy. Tiny paper squares work too."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Ask for a guess and a reason.",
+     "say": "You will tap the water near the edge. The ripples will run across. Will the grains ride on the ripples to the far side? Why do you think so?",
+     "kid": "Will the ripples carry the grains away? Why do you think so?",
+     "ask": [
+      {
+       "q": "Why do you think so?",
+       "good": [
+        "Yes, because waves at the beach bring things in.",
+        "No, because the ripples are just going up and down."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Your child taps the water near one edge with the pencil end, about once a second, for one minute. 2. Watch the grains closely from the side. 3. Mark where they are at the end.",
+     "say": "Tap gently, once a second. Watch one grain closely. What does it do as each ripple passes?",
+     "kid": "Tap once a second. Watch one grain. Up? Down? Across?",
+     "parent": "The grains bob up and down as each ripple passes. They may creep a little, a centimetre or two, but they stay near the middle. If they drift a lot, the tapping is too hard and is pushing water, so tap more gently."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "1. Put the grains back in the middle. 2. Your child blows gently across the water through the straw, from one side, for a few seconds.",
+     "say": "Now let's do something different. Blow across the top of the water through the straw.",
+     "kid": "Now blow across the water through the straw. Where do the grains go?",
+     "parent": "Now the grains sail quickly to the far side. Blowing pushes the top of the water along, like wind making a current. That is different from a wave, which passes through the water and leaves it behind."
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "do": "Talk about the two tests. Ask for claim, evidence and reason.",
+     "say": "With tapping, the grains stayed. With blowing, they sailed away. What crossed the bucket when you tapped?",
+     "kid": "Tapping: the grains stayed. Blowing: they sailed. What crossed when you tapped?",
+     "check": {
+      "t": "mcq",
+      "q": "Ripples crossed the bucket, but the puffed rice stayed near the middle. What did the ripples carry across?",
+      "options": [
+       "Water",
+       "Energy from your tapping",
+       "Puffed rice"
+      ],
+      "a": 1,
+      "why": "The ripples carried the energy of your taps across the bucket. The water and the grains only bobbed up and down and stayed near the middle. Picking 'water' is a common idea, because waves seem to be moving water. But if they carried water, the grains would have gone too, as they did when you blew."
+     },
+     "parent": "A strong answer: 'The ripples carried the energy, not the water. The grains bobbed up and down but stayed near the middle. When I blew, I pushed the water itself, so the grains moved across.'"
+    }
+   ],
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example results",
+    "cols": [
+     "What I did",
+     "What the grains did",
+     "Reached the far side?"
+    ],
+    "rows": [
+     [
+      "Tapped for one minute",
+      "Bobbed up and down, moved about 1 cm",
+      "No"
+     ],
+     [
+      "Blew across for 5 seconds",
+      "Sailed across in a few seconds",
+      "Yes"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "A steel bucket full of water seen from above, with five grains of puffed rice floating in the middle and a small bindi stuck on the rim.",
+     "caption": "1. Float the grains in the middle and mark the spot."
+    },
+    {
+     "art": "A child tapping the water near the edge with a pencil, ripples spreading across, and the grains bobbing in the middle.",
+     "caption": "2. Tap once a second and watch one grain."
+    },
+    {
+     "art": "A child blowing through a straw across the water, and the grains sailing to the far side.",
+     "caption": "3. Then blow across the water and compare."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The Dupatta Wave",
+   "mins": 8,
+   "days": 1,
+   "context": "This is a short activity to start the unit. You send a bump along a dupatta and watch what travels.",
+   "materials": [
+    {
+     "item": "a dupatta, a long scarf or a rope, about 2 to 3 metres long",
+     "qty": 1
+    },
+    {
+     "item": "a clothes peg",
+     "qty": 1
+    }
+   ],
+   "safety": "Tie the end to a door handle that cannot swing shut on a finger, or have a grown-up hold it.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 8,
+     "what": "Flick a dupatta tied to a door handle. Watch the bump go and come back. Watch a clothes peg in the middle."
+    }
+   ],
+   "record": "Draw the dupatta with the bump on it, and an arrow for where the bump goes and an arrow for where the peg goes.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Tie one end of the dupatta to a door handle. 2. Your child holds the other end, with the dupatta a little slack, just above the floor. 3. Your child flicks their hand up and down once, quickly.",
+     "say": "Flick your hand once, up and down, fast. What do you see?",
+     "kid": "Hold the end. Flick once, up and down, fast. What happens?",
+     "ask": [
+      {
+       "q": "What did you see?",
+       "good": [
+        "A bump ran along to the door.",
+        "It came back to me."
+       ]
+      }
+     ],
+     "parent": "A bump runs to the door handle and comes back. Look carefully: if it went out on top, it comes back underneath. A fixed end turns a pulse upside down as it bounces back."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Clip a clothes peg on the dupatta halfway along. 2. Your child flicks again. 3. Watch the peg.",
+     "say": "Before you flick, guess. Will the peg ride along to the door with the bump? Why do you think so?",
+     "kid": "Guess first. Will the peg go to the door? Flick and watch.",
+     "parent": "The peg jumps up and falls back down in the same place. The bump passed through it. Do not explain yet. Let your child say what they saw."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Ask what moved from your child's hand to the door.",
+     "say": "The bump reached the door. The peg stayed. The cloth stayed tied. So what went from your hand to the door?",
+     "kid": "The bump reached the door. The peg stayed. What travelled?",
+     "think": "Something went from your hand to the door, but the cloth stayed. What was it?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A dupatta tied to a door handle, a child holding the other end and flicking it, a bump halfway along.",
+     "caption": "1. Tie one end. Flick the other end once."
+    },
+    {
+     "art": "The same dupatta with a clothes peg clipped in the middle, lifted up as the bump passes under it.",
+     "caption": "2. Clip on a peg and watch it as the bump passes."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Spring Toy Waves: a push wave and a shake wave",
+   "mins": 12,
+   "days": 1,
+   "context": "In this activity you send two kinds of wave along a spring toy, and see how each coil moves.",
+   "materials": [
+    {
+     "item": "a plastic or metal spring toy, also called a slinky or magic spring",
+     "qty": 1,
+     "buy": "b-spring"
+    },
+    {
+     "item": "a small strip of paper and a little cello tape, or a short piece of coloured thread",
+     "qty": 1
+    }
+   ],
+   "safety": "Do not stretch the spring toy too far, or it bends and stays tangled. Two big steps apart along the floor is enough for a plastic one.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Stretch a spring toy along the floor. Send a push wave and a shake wave. Watch a paper tag on one coil."
+    }
+   ],
+   "record": "Draw the spring with a push wave and with a shake wave. Draw arrows for which way the coils move and which way the wave goes.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Sit on a smooth floor facing your child, about 2 metres apart. 2. Stretch the spring toy between you, along the floor. 3. Tape a paper tag to one coil near the middle.",
+     "say": "Hold your end still. I will send you a wave.",
+     "kid": "Hold your end still. A wave is coming!"
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Gather a few coils at your end into a squeeze, then let them go. 2. Watch the squeeze run along. 3. Watch the paper tag.",
+     "say": "This is a push wave. Watch the tag. Does it go to the other end, or does it move a little and come back?",
+     "kid": "Watch the squeeze run along. Watch the tag. Does it travel?",
+     "parent": "The tag moves forward a little and back, along the length of the spring. The squeeze travels the whole way. Sound travels through air like this, as squeezes passing from air to air."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Flick your end once, quickly, sideways along the floor.",
+     "say": "This is a shake wave. Now how does the tag move?",
+     "kid": "Now a sideways flick. Which way does the tag move?",
+     "parent": "Now the tag moves sideways and back, across the spring, while the bump travels along it. Water ripples and the dupatta wave are this kind of wave."
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Swap ends. Your child sends both kinds of wave.",
+     "say": "Your turn. Send me a push wave, then a shake wave.",
+     "kid": "Your turn. Send a push wave. Then a shake wave.",
+     "check": {
+      "t": "mcq",
+      "q": "In both waves, where did the paper tag end up?",
+      "options": [
+       "At the far end of the spring",
+       "Back near where it started",
+       "Off the spring on the floor"
+      ],
+      "a": 1,
+      "why": "In both waves, the tag moved a little and came back near where it started. The wave travelled along the spring, but each coil stayed in its place. If you picked 'the far end', try again and watch only the tag, not the wave."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A rainbow plastic spring toy stretched along a floor between a mother and a child sitting facing each other, with a paper tag on one coil.",
+     "caption": "1. Stretch the spring along the floor. Tape a tag on one coil."
+    },
+    {
+     "art": "The spring with a squeezed group of coils halfway along, and the tag moving a little forward and back.",
+     "caption": "2. Push wave: squeeze a few coils and let go."
+    },
+    {
+     "art": "The spring with a sideways bump halfway along, and the tag moving a little sideways.",
+     "caption": "3. Shake wave: flick your end sideways once."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "The Family Stadium Wave",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity your family makes a Mexican wave at home, and finds out what sets its speed.",
+   "materials": [
+    {
+     "item": "everyone at home, at least 3 people, sitting in a row on chairs, a sofa or the floor",
+     "qty": 1
+    },
+    {
+     "item": "soft toys to fill out the row, if you have few people",
+     "qty": 4
+    }
+   ],
+   "safety": "Stand up carefully, with space around you.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Make a Mexican wave in a row. Try it quick, then slow. Talk about what set its speed."
+    }
+   ],
+   "record": "Draw your row of people with the wave halfway along. Write one sentence on what made the wave fast or slow.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Sit in a row. 2. Explain the rule: stand up and raise your arms when the person on your left does, then sit down when they sit. 3. The person at the left end starts.",
+     "say": "Stand up as soon as you see the person on your left stand. Sit as soon as they sit. Ready? Go!",
+     "kid": "When the person on your left stands, you stand. Then sit.",
+     "parent": "If there are only two or three of you, put soft toys between you. The person on the right of each toy lifts that toy up high when it is the toy's turn, then stands up themselves."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Do the wave three times, as fast as you can. 2. Then do it with a new rule: count 'one, two' in your head before you stand.",
+     "say": "Now the slow crowd. Count one, two in your head, then stand. Which wave reached the end first?",
+     "kid": "Now count one, two before you stand. Is the wave faster or slower?",
+     "ask": [
+      {
+       "q": "Did the first person do anything different?",
+       "good": [
+        "No, they started it the same way.",
+        "Only the waiting changed."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Talk about what set the speed.",
+     "say": "The first person started both waves the same way. So what made one wave fast and one slow?",
+     "kid": "The start was the same. What made one wave slow?",
+     "parent": "The speed of a Mexican wave is set by the crowd, by how quickly each person reacts. Scientists who filmed real stadium crowds found that a Mexican wave usually travels at about 20 seats each second. Every person stays in their seat.",
+     "think": "In a stadium, could one person far away make the wave go faster near you?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A family of four and two soft toys sitting in a row on a sofa and chairs, the second person standing with arms raised.",
+     "caption": "1. Sit in a row. Stand when the person on your left stands."
+    },
+    {
+     "art": "The same row with the fourth person standing and the others sitting, and a child counting on fingers.",
+     "caption": "2. Try it again, counting one, two before you stand."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Wave Hunt at Home",
+   "mins": 12,
+   "days": 1,
+   "context": "In this activity you hunt for waves around your home and say what each one travels through.",
+   "materials": [
+    {
+     "item": "a notebook and pencil",
+     "qty": 1
+    },
+    {
+     "item": "a steel plate with a little water in it, and a phone that can buzz",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep the phone dry. Put it on a folded cloth beside the plate, not in the water.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Find at least five waves at home. For each one, write what it travels through."
+    }
+   ],
+   "record": "Make a list with two columns: 'The wave' and 'What it travels through'.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Put a little water in a steel plate. 2. Put the phone on a folded cloth, touching the edge of the plate. 3. Ring the phone or set an alarm so it buzzes.",
+     "say": "Watch the water while the phone buzzes. What do you see?",
+     "kid": "Watch the water as the phone buzzes. What do you see?",
+     "parent": "Fine ripples appear on the water. The buzzing shakes the plate, and the shaking travels into the water. If you cannot see them, shine a torch across the water at a slant."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "Walk round the home together and find more waves.",
+     "say": "Let's hunt. Look for things that wave, ripple, shake or sound. For each one, ask: what is the wave travelling through?",
+     "kid": "Hunt for waves. Ripples. Shakes. Sounds. What does each travel through?",
+     "parent": "Ideas: ripples when a tap drips into a full bucket, a curtain waving in the fan's wind, the pressure cooker whistle, a door slamming that shakes the window, a flag on a balcony, light from the window. Light is a wave too, but it can travel through empty space."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Read the list together.",
+     "say": "Which of your waves travel through water? Air? Something solid?",
+     "kid": "Which waves went through water? Air? Something solid?"
+    }
+   ],
+   "setup": [
+    {
+     "art": "A phone buzzing on a folded cloth beside a steel plate with water, with fine ripples on the water.",
+     "caption": "1. Make a buzzing phone shake a plate of water."
+    },
+    {
+     "art": "A child with a notebook looking at a curtain waving in front of a ceiling fan, with a bucket under a dripping tap in the background.",
+     "caption": "2. Hunt for more waves around the home."
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "Draw and Label a Wave",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you make a wave shape with a dupatta, then draw it and name its parts.",
+   "materials": [
+    {
+     "item": "the dupatta or rope from the Dupatta Wave",
+     "qty": 1
+    },
+    {
+     "item": "paper, a pencil and a ruler",
+     "qty": 1
+    }
+   ],
+   "safety": "None needed.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Lay a dupatta in a wave shape on the floor. Draw it. Label the crest, trough, wavelength and height."
+    }
+   ],
+   "record": "Your labelled drawing, with the wavelength measured in centimetres.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "Lay the dupatta on the floor in a wavy shape with three crests.",
+     "say": "Here is a wave that is standing still, so we can look at it. The tops are called crests. The bottoms are called troughs.",
+     "kid": "Make a wavy dupatta on the floor. Tops are crests. Bottoms are troughs."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Measure from one crest to the next with the ruler or a measuring tape.",
+     "say": "The distance from one crest to the next is called the wavelength. How long is ours?",
+     "kid": "Measure from one crest to the next. That is the wavelength."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "Your child draws the wave and labels it.",
+     "say": "Draw our wave. Label a crest, a trough, the wavelength, and the height.",
+     "kid": "Draw the wave. Label crest, trough, wavelength and height.",
+     "check": {
+      "t": "mcq",
+      "q": "Where is the wavelength of a wave?",
+      "options": [
+       "From one crest to the next crest",
+       "From a crest down to the flat line",
+       "From the start of the wave to the end"
+      ],
+      "a": 0,
+      "why": "The wavelength is the distance from one crest to the next crest. From the crest down to the flat line is the height. A wave can have many wavelengths in a row, so 'start to end' is the length of the whole wave train."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A dupatta laid on a floor in a wavy shape with three tops and two bottoms, and a measuring tape from one top to the next.",
+     "caption": "1. Lay the dupatta in a wave shape and measure from crest to crest."
+    },
+    {
+     "art": "A child's drawing of a wave with labels: crest, trough, wavelength, height.",
+     "caption": "2. Draw it and label the parts."
+    }
+   ]
+  },
+  {
+   "id": "a6",
+   "title": "Tap the Water, Tap the Curd",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you send waves into water and into set curd, and see that different materials carry waves differently.",
+   "materials": [
+    {
+     "item": "two steel bowls the same size",
+     "qty": 2
+    },
+    {
+     "item": "water for one bowl",
+     "qty": 1
+    },
+    {
+     "item": "set curd for the other bowl, at least 3 cm deep",
+     "qty": 1
+    },
+    {
+     "item": "a steel spoon",
+     "qty": 1
+    },
+    {
+     "item": "a torch",
+     "qty": 1
+    }
+   ],
+   "safety": "Eat the curd afterwards, or use it for cooking.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Tap the side of a bowl of water and a bowl of set curd. Compare the waves."
+    }
+   ],
+   "record": "Write one line for each bowl: what you saw, and how long the waves lasted.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Put the bowls side by side. 2. Shine the torch across them at a slant. 3. Ask for a guess.",
+     "say": "I will tap each bowl on the side with the spoon. Will the waves look the same in water and in curd? Why do you think so?",
+     "kid": "Will the curd make waves like the water? Why do you think so?"
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Tap the side of the water bowl once, gently. 2. Count how long the ripples last. 3. Do the same with the curd.",
+     "say": "Tap. Count how long the waves keep going.",
+     "kid": "Tap once. Count how long the waves last.",
+     "parent": "In water, ripples run across, bounce off the sides and keep going for a few seconds. In set curd, the top gives a small wobble that stops almost at once. The curd is thick and soaks up the energy quickly."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Talk about why this matters.",
+     "say": "Waves travel differently through different materials. Scientists use that to find out what is inside the Earth, where nobody can dig.",
+     "kid": "Waves change in different materials. That helps us see inside the Earth!"
+    }
+   ],
+   "setup": [
+    {
+     "art": "Two steel bowls side by side, one with water and one with white set curd, and a spoon tapping the side of the water bowl.",
+     "caption": "1. Tap the side of the water bowl. Count how long the ripples last."
+    },
+    {
+     "art": "The same spoon tapping the bowl of curd, with only a tiny wobble on top.",
+     "caption": "2. Tap the curd bowl the same way and compare."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "The Straw Wave Machine",
+   "mins": 45,
+   "days": 2,
+   "context": "In this 2-day project you build a wave machine from tape and straws, then make its waves slower by changing what they travel through.",
+   "materials": [
+    {
+     "item": "wide brown packing tape or wide cello tape",
+     "qty": 1
+    },
+    {
+     "item": "50 drinking straws, or 50 strips about 20 cm long and 1 cm wide cut from old cereal or shoe boxes",
+     "qty": 50
+    },
+    {
+     "item": "two chairs and some heavy books",
+     "qty": 1
+    },
+    {
+     "item": "a little atta dough, or 20 small binder clips or paper clips",
+     "qty": 1
+    },
+    {
+     "item": "a ruler or measuring tape and a phone stopwatch",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up cuts the cardboard strips if you use them.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Build the machine: stretch tape sticky side up between two chairs, lay straws across it, and send a twist wave along."
+    },
+    {
+     "day": 2,
+     "mins": 20,
+     "what": "Add dough to the ends of the straws on one half. Compare how fast the wave crosses each half."
+    }
+   ],
+   "record": "Day 1: draw your machine with a wave on it. Day 2: write how the wave changed when it reached the heavy straws.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 25,
+     "do": "1. Put two chairs about 1.5 metres apart. 2. Stretch a long strip of tape between them, sticky side up, held down on each chair with books. 3. Lay a straw across the tape every 3 cm, with its middle on the tape. 4. Press a second strip of tape on top to hold them. 5. Lift and let go of the first straw at one end.",
+     "say": "We are building a wave machine. Every straw is like one bit of water. When I twist the first straw, watch what happens to the others.",
+     "kid": "Lay straws across the tape. Twist the first straw. Watch!",
+     "parent": "The twist passes from straw to straw along the tape. Each straw only turns a little and back. The wave reflects at the far end and comes back. If the wave dies fast, pull the tape a little tighter. This is a home version of a wave machine first built by John Shive at Bell Labs in the 1950s.",
+     "ask": [
+      {
+       "q": "Did any straw move along the tape to the other end?",
+       "good": [
+        "No, each straw stayed in its place and only turned.",
+        "Only the twist moved along."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "1. Make pea-sized balls of dough. 2. On one half of the machine, stick one on both ends of every straw. 3. Send a wave from the light end.",
+     "say": "Now half the straws are heavy at the ends. Before you twist, guess. Will the wave speed up, slow down, or stay the same when it reaches the heavy half? Why do you think so?",
+     "kid": "Half the straws have dough on. Will the wave change there? Why?",
+     "wait": "Do this on day 2."
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "1. Watch the wave cross from the light half into the heavy half. 2. Time a wave across each half three times.",
+     "say": "Watch where it slows down. Time it across each half.",
+     "kid": "Watch the wave cross into the heavy half. Time each half.",
+     "parent": "The wave slows down clearly in the heavy half, because heavy-ended straws are slower to start turning and slower to pass the twist on. Part of the wave also bounces back where the two halves meet. Just like the water in the tray, the material sets the speed of the wave.",
+     "check": {
+      "t": "mcq",
+      "q": "Why did the wave slow down in the heavy half?",
+      "options": [
+       "Because the first push was weaker",
+       "Because the heavy straws pass the twist on more slowly",
+       "Because the tape ran out"
+      ],
+      "a": 1,
+      "why": "The push at the start was the same. The heavy straws are slower to start turning, so they pass the twist on more slowly. The material the wave travels through sets its speed, just as the depth did in the Tray Test."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "Two chairs with a strip of tape stretched between them, sticky side up, and a row of straws laid across it like the rungs of a ladder.",
+     "caption": "1. Stretch tape between two chairs and lay straws across it."
+    },
+    {
+     "art": "The straw machine with a twist running along it, straws at different angles in a wave shape.",
+     "caption": "2. Twist the first straw and watch the wave travel."
+    },
+    {
+     "art": "The straw machine with small balls of dough on the ends of the straws in the right half.",
+     "caption": "3. Day 2: add dough to half the straws and compare the speed."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Save the Clay Village",
+   "mins": 30,
+   "context": "This is an engineering challenge. You protect a small model village at one end of a tray from waves.",
+   "problem": "Make a small village of clay or paper houses at one end of a tray of water. Waves from a dosa turner at the other end knock them over. Design something that protects the village.",
+   "constraints": [
+    "Use only things from home.",
+    "Leave a gap at least 3 cm wide so a paper boat could still reach the village.",
+    "Push the waves the same way for every test."
+   ],
+   "materials": [
+    "the tray from the Tray Test, with water 2 cm deep",
+    "atta dough or clay for houses, or folded paper houses",
+    "things to build with: steel spoons, small stones from a pot plant, sponge pieces, toothpicks, bottle caps, a folded towel"
+   ],
+   "general": [
+    "A solid wall across the tray, with a gap for boats. Walls like this, called breakwaters, protect harbours in Chennai and Visakhapatnam.",
+    "A sloping beach at the village end, made from a folded wet towel. Waves lose their energy running up a slope instead of crashing."
+   ],
+   "creative": [
+    "A forest of toothpicks stuck in a strip of dough, like a mangrove forest along the coast.",
+    "A row of sponge pieces that soak up the wave's energy.",
+    "A floating line of bottle caps tied with thread."
+   ],
+   "your_turn": "Now design your own wave guard. Draw it first, build it, and test it with three waves. Then make it better and test again.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Build three small houses at one end of the tray. 2. Send three waves with the dosa turner. 3. See how many houses fall.",
+     "say": "Here is our village. Let's see what the waves do with nothing to protect it.",
+     "kid": "Build three houses. Send three waves. How many fall?"
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Draw two ideas for a wave guard.",
+     "say": "A wave carries energy. How could we stop that energy before it reaches the houses? Draw two ideas.",
+     "kid": "How can you stop the wave's energy? Draw two ideas."
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "do": "Build one idea and test it with three waves. Then improve it and test again.",
+     "say": "Build it. Test it the same way: same turner, same push. Did fewer houses fall?",
+     "kid": "Build it. Test with three waves. Make it better. Test again."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Compare the ideas.",
+     "say": "Which guard worked best? Why do you think it took away the wave's energy?",
+     "kid": "Which guard worked best? Why?",
+     "parent": "Good answers mention blocking the wave, making it break on a slope, or spreading its energy out. Real engineers argue about whether mangrove forests protect coasts from big tsunamis. They do calm everyday waves."
+    }
+   ],
+   "setup": [
+    {
+     "art": "A tray of water with three small dough houses at one end and a dosa turner at the other end.",
+     "caption": "1. Build a village at one end and send waves from the other."
+    },
+    {
+     "art": "The same tray with a row of toothpicks stuck in a strip of dough across the middle, leaving a gap, protecting the houses.",
+     "caption": "2. Build a wave guard and test it again."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "A Message Along the Dupatta",
+   "mins": 20,
+   "context": "This is a design challenge. You invent a code to send messages along a dupatta, using only waves.",
+   "problem": "Your partner is at the door holding the far end of a dupatta, with eyes closed. Send them a message using only waves along the cloth.",
+   "constraints": [
+    "No talking and no pulling the dupatta towards you.",
+    "The message must be one of four: yes, no, come here, wait.",
+    "Your partner must be able to tell the messages apart with eyes closed."
+   ],
+   "materials": [
+    "a dupatta, scarf or rope, 2 to 3 metres long",
+    "paper and pencil for your code"
+   ],
+   "general": [
+    "One bump means yes, two bumps mean no.",
+    "A big bump and a small bump mean different things."
+   ],
+   "creative": [
+    "A fast row of small bumps means 'come here'.",
+    "A long, slow wave means 'wait'."
+   ],
+   "your_turn": "Write your own code for four messages. Test it. Which messages got mixed up? Change the code and try again.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Make a code with your child for the four messages.",
+     "say": "A wave can carry energy, so it can carry a message. How can we make four messages that feel different?",
+     "kid": "Make a wave code. Four messages. Each must feel different."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Take turns sending messages. The receiver keeps eyes closed and says the message.",
+     "say": "Close your eyes. Hold the end loosely. What am I saying?",
+     "kid": "Close your eyes. Feel the wave. What is the message?"
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Talk about which messages worked.",
+     "say": "The message reached the door, but did any of the cloth from my hand get there?",
+     "kid": "The message reached the door. Did the cloth travel?",
+     "parent": "No cloth moved from one end to the other, yet the message arrived. Phones send messages on radio waves in a similar way: the pattern of the wave carries the message."
+    }
+   ],
+   "setup": [
+    {
+     "art": "A girl holding one end of a dupatta and sending a bump along it to her grandmother, who holds the other end with eyes closed.",
+     "caption": "1. One person sends. The other feels with eyes closed."
+    },
+    {
+     "art": "A page of a notebook with a code: one bump = yes, two bumps = no, many small bumps = come here, one long slow wave = wait.",
+     "caption": "2. Write your code and test it."
+    }
+   ]
+  }
+ ],
+ "videos": [
+  {
+   "title": "Does a Falling Slinky Defy Gravity?",
+   "channel": "Veritasium",
+   "youtube": "uiyMuHuCFo4",
+   "mins": 4,
+   "why": "Slow-motion film of a hanging spring toy being dropped. The bottom of the spring stays still in the air until the wave of change, travelling down the coils, reaches it. A striking way to see that a wave takes time to travel through a material.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, so the length is a guess. A parent should preview it."
+  },
+  {
+   "title": "How tsunamis work - Alex Gendler",
+   "channel": "TED-Ed",
+   "youtube": "Wx9vPv-T51I",
+   "mins": 4,
+   "why": "A cartoon explaining how an undersea earthquake starts a tsunami, and why the wave slows down and grows tall near the shore. It matches the Tray Test.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here. Preview it first: it shows the damage tsunamis do, which may upset a young child."
+  },
+  {
+   "title": "Waves",
+   "channel": "Bozeman Science",
+   "youtube": "JppViHtLNlc",
+   "mins": 8,
+   "why": "For the parent: a teacher explains waves, wavelength, crests and troughs, and the difference between push waves and shake waves, to help you answer your child's questions.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: preview it, and note that it goes further than this unit."
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "Divya, a girl in Class 3, floats a leaf in the middle of a bucket and taps the water at one side. What does the leaf do?",
+   "opts": [
+    "It sails to the far side",
+    "It bobs up and down and stays near the middle",
+    "It sinks to the bottom"
+   ],
+   "a": 1,
+   "why": "The ripples pass under the leaf, so the leaf bobs up and down. The ripples carry energy, not water, so the leaf stays near the middle. 'Sails to the far side' is what happens when you blow on the water, which pushes the water itself.",
+   "outcome": 1,
+   "how": "e2"
+  },
+  {
+   "t": "mcq",
+   "p": "What is a wave?",
+   "opts": [
+    "Water moving from one place to another",
+    "Energy travelling through a material while the material stays in place",
+    "Anything that goes up and down"
+   ],
+   "a": 1,
+   "why": "A wave is travelling energy. The material, such as water or a rope, moves a little and stays where it is. A swing goes up and down too, but nothing travels from it, so going up and down is not enough to make a wave.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Kavya, a girl in Class 3, sends the same wave across a tray. First the water is 1 cm deep, then 4 cm deep. When is the wave faster?",
+   "opts": [
+    "At 1 cm",
+    "At 4 cm",
+    "The same at both depths"
+   ],
+   "a": 1,
+   "why": "Deeper water carries this kind of wave faster. In 4 cm of water it goes about twice as fast as in 1 cm. If you picked 'the same', you may be thinking the push sets the speed. The push was the same both times, but the water was not.",
+   "outcome": 3,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "In the Tray Test, why must you push the water the same way every time?",
+   "opts": [
+    "So that only the depth changes, and we know the depth made the difference",
+    "So the water does not spill",
+    "So the stopwatch works"
+   ],
+   "a": 0,
+   "why": "In a fair test only one thing changes. If the push changed too, we could not tell whether the depth or the push made the wave faster.",
+   "outcome": 3,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these is NOT a wave?",
+   "opts": [
+    "A Mexican wave at a cricket match",
+    "Ripples on a pond",
+    "Water flowing out of a tap"
+   ],
+   "a": 2,
+   "why": "Water from a tap travels, so it is a flow, not a wave. In a Mexican wave and in ripples, the energy travels while the people or the water stay in place.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A Mexican wave runs round a stadium. What do the people do?",
+   "opts": [
+    "Each person stands up and sits down in their seat",
+    "People run round the stadium",
+    "Only the first person moves"
+   ],
+   "a": 0,
+   "why": "Each person stays in their seat. The standing up is passed from one person to the next, and that is what travels round.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "What is the crest of a wave?",
+   "opts": [
+    "Its lowest point",
+    "Its highest point",
+    "The distance between two waves"
+   ],
+   "a": 1,
+   "why": "The crest is the top of a wave. The lowest point is the trough. The distance from one crest to the next is the wavelength.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Ripples on a bucket have a crest every 2 cm. What is their wavelength?",
+   "opts": [
+    "1 cm",
+    "2 cm",
+    "4 cm"
+   ],
+   "a": 1,
+   "why": "The wavelength is the distance from one crest to the next, so it is 2 cm. If you picked 1 cm, you measured from a crest to a trough, which is only half a wavelength.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "A tsunami comes into shallow water near a beach. What happens to it?",
+   "opts": [
+    "It slows down and grows taller",
+    "It speeds up and gets lower",
+    "It stops at once"
+   ],
+   "a": 0,
+   "why": "In shallow water the wave slows down, just as in the Tray Test. The water behind is still in deeper water and moving faster, so it catches up and the wave piles up taller.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Fishermen far out at sea, in deep water, sometimes did not notice the 2004 tsunami passing under their boats. Why?",
+   "opts": [
+    "In deep water the tsunami was low and very long",
+    "The tsunami was asleep",
+    "Boats cannot float on a tsunami"
+   ],
+   "a": 0,
+   "why": "In deep water a tsunami is less than a metre high and more than 100 kilometres long, so a boat only rises and falls very gently. It grows tall only near the shore.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Inge Lehmann found a solid ball at the centre of the Earth. How?",
+   "opts": [
+    "She dug a deep hole",
+    "She studied the times when earthquake waves arrived at machines around the world",
+    "She looked through a telescope"
+   ],
+   "a": 1,
+   "why": "Nobody can dig that deep. Lehmann studied when earthquake waves arrived at seismographs far away. Faint waves arrived where a fully liquid core would leave none, so she worked out that the core has a solid ball inside.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Before 1936, what did many scientists think about the Earth's core?",
+   "opts": [
+    "It was hollow",
+    "It was liquid all the way through",
+    "It was made of ice"
+   ],
+   "a": 1,
+   "why": "Many scientists thought the whole core was liquid metal. Inge Lehmann showed that a solid inner core explained the faint waves better. Later measurements in 1970 confirmed it.",
+   "outcome": 6
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Wave Watcher (core)",
+   "tier": "core",
+   "mins": 20,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Nila, a girl in Class 3, flicks one end of a dupatta tied to a door handle. A clothes peg is clipped in the middle. What does the peg do as the bump passes?",
+     "a": 1,
+     "why": "The bump passes through the cloth, and the peg jumps up and falls back where it was. Only the energy travels to the door.",
+     "opts": [
+      "It slides along to the door",
+      "It jumps up and falls back in the same place",
+      "It falls off"
+     ],
+     "how": "a1"
+    },
+    {
+     "t": "fill",
+     "p": "Energy travelling through a material, while the material stays in place, is called a ____.",
+     "a": [
+      "wave"
+     ],
+     "why": "A wave carries energy. The water, rope or air it travels through stays where it is."
+    },
+    {
+     "t": "fill",
+     "p": "The material a wave travels through, such as water or air, is called the ____.",
+     "a": [
+      "medium"
+     ],
+     "why": "The medium can be water, a rope, the air, rock or even a crowd of people."
+    },
+    {
+     "t": "match",
+     "p": "Match each word to what it means.",
+     "a": "pairs as given",
+     "why": "These words come up all through the unit.",
+     "pairs": [
+      [
+       "Crest",
+       "the highest point of a wave"
+      ],
+      [
+       "Trough",
+       "the lowest point of a wave"
+      ],
+      [
+       "Wavelength",
+       "the distance from one crest to the next"
+      ],
+      [
+       "Medium",
+       "the material a wave travels through"
+      ],
+      [
+       "Tsunami",
+       "a long, fast sea wave started by an earthquake"
+      ]
+     ]
+    },
+    {
+     "t": "sort",
+     "p": "Sort these. Is each one a wave, or is the stuff itself moving?",
+     "a": "see items",
+     "why": "In a wave, the energy travels and the material stays. In the others, the thing itself moves from place to place.",
+     "cats": [
+      "Wave",
+      "Stuff moves"
+     ],
+     "items": [
+      [
+       "ripples in a bucket",
+       "Wave"
+      ],
+      [
+       "a thrown ball",
+       "Stuff moves"
+      ],
+      [
+       "the sound of a drum",
+       "Wave"
+      ],
+      [
+       "a river flowing",
+       "Stuff moves"
+      ],
+      [
+       "a bump on a dupatta",
+       "Wave"
+      ],
+      [
+       "wind blowing",
+       "Stuff moves"
+      ],
+      [
+       "a Mexican wave",
+       "Wave"
+      ]
+     ]
+    },
+    {
+     "t": "truefalse",
+     "p": "When you blow across a bucket through a straw, the floating puffed rice sails away. This shows that waves carry water.",
+     "a": false,
+     "why": "False. Blowing pushes the top of the water itself, like wind making a current. When you only tapped, the ripples crossed but the puffed rice stayed near the middle.",
+     "how": "e2"
+    },
+    {
+     "t": "truefalse",
+     "p": "In a Mexican wave, every person stays in their own seat.",
+     "a": true,
+     "why": "True. Each person only stands up and sits down. The standing up travels round the stadium."
+    },
+    {
+     "t": "mcq",
+     "p": "In the Tray Test, the wave took 5 seconds at 1 cm and 3 seconds at 4 cm, with the same push. What does this show?",
+     "a": 0,
+     "why": "A shorter time means a faster wave. The wave was faster in 4 cm of water, and the push did not change, so the depth made the difference.",
+     "opts": [
+      "Deeper water carries the wave faster",
+      "Shallow water carries the wave faster",
+      "The depth makes no difference"
+     ],
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these could you use as a medium for a wave at home?",
+     "a": 3,
+     "why": "A wave can travel through cloth, water, a spring and many other materials.",
+     "opts": [
+      "A dupatta",
+      "A bucket of water",
+      "A spring toy",
+      "All of these"
+     ]
+    },
+    {
+     "t": "mcq",
+     "p": "Farhan, a boy in Class 3, taps the side of a bowl of water and a bowl of set curd. Where do the waves last longer?",
+     "a": 0,
+     "why": "In water, ripples run across and bounce for a few seconds. Thick curd soaks up the energy, so its wobble stops almost at once. Different materials carry waves differently.",
+     "opts": [
+      "In the water",
+      "In the curd",
+      "The same in both"
+     ],
+     "how": "a6"
+    },
+    {
+     "t": "mcq",
+     "p": "Why did you shine a torch at a slant across the tray?",
+     "a": 1,
+     "why": "Light bends as it passes through the bump of the wave, making a bright line on the tray's bottom. That line is much easier to follow than the clear water.",
+     "opts": [
+      "To warm the water",
+      "So the wave makes a bright line on the bottom that is easy to see",
+      "To make the wave faster"
+     ],
+     "how": "e1"
+    },
+    {
+     "t": "label",
+     "p": "Label the drawing of a wave: crest, trough, wavelength, height.",
+     "a": [
+      "crest",
+      "trough",
+      "wavelength",
+      "height"
+     ],
+     "why": "The crest is the top, the trough is the bottom, the wavelength goes from one crest to the next, and the height goes from the flat line up to the crest.",
+     "art": "A wavy line with a dotted flat line through its middle and four blank label lines pointing to a top, a bottom, a crest-to-crest gap and a flat-line-to-crest gap."
+    },
+    {
+     "t": "write",
+     "p": "Tell how you would show a friend that ripples do not carry the water with them. What would you use, and what would they see?",
+     "a": "Float puffed rice or paper in the middle of a bucket. Tap the water at one side. The ripples cross the bucket, but the puffed rice only bobs up and down and stays near the middle.",
+     "why": "A strong answer names a floating thing, says how to make the waves without pushing the water, and says what the floating thing does.",
+     "lines": 4
+    },
+    {
+     "t": "write",
+     "p": "Meenakshi saw a Mexican wave at Chepauk stadium. She said, 'The wave travelled, but nobody went anywhere.' How can both be true?",
+     "a": "Each person only stood up and sat down in their own seat. The standing up was passed from person to person, so the wave travelled round while the people stayed.",
+     "why": "A strong answer says what each person did and what travelled.",
+     "lines": 3
+    },
+    {
+     "t": "draw",
+     "p": "Draw a dupatta with a bump on it. Draw one arrow to show which way the bump travels, and another to show which way a clothes peg on it moves.",
+     "a": "The bump arrow points along the dupatta towards the door. The peg arrow points up and down.",
+     "why": "A strong drawing shows that the bump and the peg move in different directions: the bump along, the peg up and down.",
+     "art": "A blank box with a door handle drawn on the right side.",
+     "how": "a1"
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Wave Speed Detective (stretch)",
+   "tier": "stretch",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Arjun, a boy in Class 3, says, 'If I push harder in the Tray Test, the wave will cross faster.' What would test his idea fairly?",
+     "a": 2,
+     "why": "To test the push, only the push may change. If the depth changed too, you could not tell which one made the difference.",
+     "opts": [
+      "Push harder and make the water deeper at the same time",
+      "Change trays each time",
+      "Keep the depth the same, and try a small push and a big push"
+     ]
+    },
+    {
+     "t": "mcq",
+     "p": "A wave in the tray takes 3 seconds to go there and back once. How long would three trips there and back take?",
+     "a": 1,
+     "why": "Each trip takes 3 seconds. Three trips take 3 + 3 + 3 = 9 seconds, or 3 times 3.",
+     "opts": [
+      "3 seconds",
+      "9 seconds",
+      "6 seconds"
+     ],
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "When you make a shake wave on a spring toy, how does a paper tag on one coil move?",
+     "a": 0,
+     "why": "In a shake wave the coils move sideways and back while the bump travels along. The tag moves with its coil, then comes back.",
+     "opts": [
+      "Sideways and back, across the spring",
+      "Along the spring to the far end",
+      "It does not move at all"
+     ],
+     "how": "a2"
+    },
+    {
+     "t": "mcq",
+     "p": "In the straw wave machine, why did the wave slow down when it reached the straws with dough on their ends?",
+     "a": 1,
+     "why": "Heavy-ended straws are slower to start turning, so they pass the twist on more slowly. The material sets the speed, as the depth did in the tray.",
+     "opts": [
+      "The tape was sticky",
+      "The heavy straws pass the twist on more slowly",
+      "The first push got tired"
+     ],
+     "how": "p1"
+    },
+    {
+     "t": "mcq",
+     "p": "A garden spider sits in the middle of her web. How does she know where an insect has landed?",
+     "a": 2,
+     "why": "Many web-building spiders see poorly. The spider rests her legs on the threads, and the waves from a struggling insect tell her which way to run.",
+     "opts": [
+      "She hears it buzzing",
+      "She sees it with her sharp eyes",
+      "She feels the waves of shaking along the threads with her legs"
+     ]
+    },
+    {
+     "t": "order",
+     "p": "Put these in order, from where a wave would travel slowest to fastest.",
+     "a": [
+      "water 1 cm deep",
+      "water 2 cm deep",
+      "water 4 cm deep"
+     ],
+     "why": "Deeper water carries a long water wave faster.",
+     "items": [
+      "water 4 cm deep",
+      "water 1 cm deep",
+      "water 2 cm deep"
+     ],
+     "how": "e1"
+    },
+    {
+     "t": "truefalse",
+     "p": "A tsunami is tallest far out in the deep ocean.",
+     "a": false,
+     "why": "False. In the deep ocean a tsunami is fast but less than a metre high. It slows down and grows tall only as the sea gets shallow near the shore."
+    },
+    {
+     "t": "truefalse",
+     "p": "Two sets of ripples can cross each other and both carry on.",
+     "a": true,
+     "why": "True. Where they meet they add up for a moment, then each carries on as before. Two balls would bump, but two waves pass through each other."
+    },
+    {
+     "t": "fill",
+     "p": "When a wave hits a wall and bounces back, we say it ____.",
+     "a": [
+      "reflects",
+      "is reflected"
+     ],
+     "why": "A wave reflects from a wall. That is why the tray wave came back to you, and why you hear an echo."
+    },
+    {
+     "t": "odd",
+     "p": "Three of these are waves. Which one is the odd one out?",
+     "a": 2,
+     "why": "The paper boat is carried by water that is itself flowing. In the other three, energy travels while the material stays.",
+     "opts": [
+      "A squeeze running along a spring toy",
+      "Sound from a pressure cooker whistle",
+      "A paper boat carried down a gutter by rainwater",
+      "Shaking that travels through the ground in an earthquake"
+     ]
+    },
+    {
+     "t": "perspective",
+     "p": "Lakshmi and her grandmother are at Marina Beach in Chennai, watching the waves come in.",
+     "a": "A strong answer picks a side, uses evidence from the bucket or tray, and fairly says what the other person has right.",
+     "why": "Both have part of the truth. Far out, the water mostly goes round in small circles. Where waves break near the beach, water really does rush up the sand.",
+     "views": [
+      {
+       "who": "Lakshmi, aged 8",
+       "says": "The waves are bringing water from far out at sea to the beach."
+      },
+      {
+       "who": "Paati, her grandmother",
+       "says": "The water stays out there. Only the waves come in. Look at that fishing boat, just bobbing."
+      }
+     ],
+     "ask": "Which idea do you agree with most? Give a reason from your bucket experiment. Then say one thing the other person has right.",
+     "lines": 5
+    },
+    {
+     "t": "write",
+     "p": "Kavya's Tray Test: 1 cm took 6 seconds, 2 cm took 4 seconds, 4 cm took 3 seconds. Write what pattern you see, and predict what happens at 6 cm.",
+     "a": "The deeper the water, the shorter the time, so the faster the wave. At 6 cm, the time would be a little shorter than 3 seconds.",
+     "why": "A strong answer states the pattern in words and makes a prediction that follows it, without guessing a time below zero or a big jump.",
+     "lines": 4,
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "In the family stadium wave, the wave was slower when everyone counted 'one, two' before standing. The first person started it the same way both times. What does this tell you about what sets a wave's speed?",
+     "a": "The speed was set by how quickly each person passed it on, not by the person who started it. So the medium, here the people, sets the speed of a wave.",
+     "why": "A strong answer connects the speed to the people in the line and not to the start.",
+     "lines": 3,
+     "how": "a3"
+    },
+    {
+     "t": "write",
+     "p": "A crow sits on a pond as ripples pass. Say what the crow will do, and why.",
+     "a": "The crow will bob up and down as each ripple passes, but stay in about the same place, because ripples carry energy, not water.",
+     "why": "A strong answer uses the idea that the water stays in place.",
+     "lines": 3
+    },
+    {
+     "t": "draw",
+     "p": "Draw a tray seen from the side, with water in it. Draw a wave travelling across it, and label the crest and the trough.",
+     "a": "A side view of a tray with a wavy water surface, the top labelled crest and the bottom labelled trough.",
+     "why": "A strong drawing shows the water level, the wave shape, and both labels in the right places.",
+     "art": "A blank box with the outline of an empty tray drawn from the side."
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Waves Inside the Earth (challenge)",
+   "tier": "challenge",
+   "mins": 30,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Two trays have water 4 cm deep. Tray A is 30 cm long and tray B is 60 cm long. The same wave goes there and back once in each. Which takes longer?",
+     "a": 1,
+     "why": "The depth is the same, so the wave goes at the same speed. Tray B is twice as long, so the trip takes about twice as long.",
+     "opts": [
+      "Tray A",
+      "Tray B, about twice as long",
+      "Both take the same time"
+     ]
+    },
+    {
+     "t": "mcq",
+     "p": "A tsunami travels about 800 km in an hour over the deep ocean. Near the shore it slows to about 40 km in an hour. Why does it slow down?",
+     "a": 0,
+     "why": "Like the wave in your tray, a tsunami slows down in shallow water. It still carries most of its energy, which is why it grows tall and dangerous.",
+     "opts": [
+      "The water near the shore is shallow",
+      "The wave runs out of energy",
+      "The wind pushes against it"
+     ]
+    },
+    {
+     "t": "mcq",
+     "p": "Sound goes faster through steel than through air. What does this tell you?",
+     "a": 2,
+     "why": "Sound waves, like water waves, travel at a speed set by the material they pass through.",
+     "opts": [
+      "Steel sounds are louder",
+      "Sound is made of steel",
+      "The material sets the speed of a wave"
+     ]
+    },
+    {
+     "t": "mcq",
+     "p": "In 1929, a big earthquake shook New Zealand. Machines on the far side of the world recorded faint waves where a fully liquid core would leave none. What did Inge Lehmann conclude?",
+     "a": 1,
+     "why": "Lehmann showed that a solid inner core would bend the waves so that some reach those places. More sensitive machines confirmed this in 1970.",
+     "opts": [
+      "The machines were broken",
+      "The core has a solid ball inside it",
+      "The Earth is hollow"
+     ]
+    },
+    {
+     "t": "mcq",
+     "p": "Divya pushes the water in a tray once. The wave fades after one trip. What would help her see it for longer?",
+     "a": 0,
+     "why": "In very shallow water, rubbing against the bottom takes the wave's energy quickly. In deeper water the wave lasts longer. A torch at a slant also helps.",
+     "opts": [
+      "Use deeper water, so the bottom slows the wave less",
+      "Use a smaller tray",
+      "Push it sideways"
+     ]
+    },
+    {
+     "t": "sort",
+     "p": "Sort these waves by what they travel through.",
+     "a": "see items",
+     "why": "A medium can be a liquid, a solid or a gas like air. Light is special: it can cross empty space.",
+     "cats": [
+      "Water",
+      "Air",
+      "Solid",
+      "Empty space too"
+     ],
+     "items": [
+      [
+       "a tsunami",
+       "Water"
+      ],
+      [
+       "a temple bell's sound",
+       "Air"
+      ],
+      [
+       "earthquake shaking",
+       "Solid"
+      ],
+      [
+       "sunlight",
+       "Empty space too"
+      ],
+      [
+       "ripples in a bucket",
+       "Water"
+      ],
+      [
+       "a spider feeling her web shake",
+       "Solid"
+      ]
+     ]
+    },
+    {
+     "t": "order",
+     "p": "Put these in the order they happened.",
+     "a": [
+      "A big earthquake shakes New Zealand",
+      "Inge Lehmann publishes her paper on the inner core",
+      "More sensitive machines pick up waves bouncing off the inner core"
+     ],
+     "why": "The earthquake was in 1929, Lehmann's paper in 1936, and the confirmation in 1970.",
+     "items": [
+      "Inge Lehmann publishes her paper on the inner core",
+      "More sensitive machines pick up waves bouncing off the inner core",
+      "A big earthquake shakes New Zealand"
+     ]
+    },
+    {
+     "t": "truefalse",
+     "p": "In a wave, the push that starts it sets its speed, and the material only carries it.",
+     "a": false,
+     "why": "False. In the Tray Test the same push went at different speeds in different depths. The material sets the speed. The push mostly sets how tall the wave is.",
+     "how": "e1"
+    },
+    {
+     "t": "fill",
+     "p": "Machines that record earthquake waves are called ____.",
+     "a": [
+      "seismographs"
+     ],
+     "why": "Seismographs in many countries record when earthquake waves arrive. Scientists use the times to see inside the Earth."
+    },
+    {
+     "t": "perspective",
+     "p": "After the 2004 tsunami, a village in Tamil Nadu is deciding how to protect its coast.",
+     "a": "A strong answer picks a plan, gives a reason from the unit or the Save the Clay Village challenge, and fairly states one strength of another plan.",
+     "why": "There is no single right answer. Walls block waves but cost a lot and can fail. Mangroves calm everyday waves and give fish a home, but scientists argue about how much they help in a big tsunami. Warnings save lives whatever the coast looks like.",
+     "views": [
+      {
+       "who": "Selvi, an engineer",
+       "says": "Build a strong sea wall. It blocks the waves before they reach the houses."
+      },
+      {
+       "who": "Gowri, a fisherwoman",
+       "says": "Plant mangrove forests along the shore. They calm the waves and the fish breed among their roots."
+      },
+      {
+       "who": "Raju, a teacher",
+       "says": "Teach everyone the warning signs, like the sea pulling back, and build a path to high ground."
+      }
+     ],
+     "ask": "Which plan would you choose first? Give a reason. Then say what is good about one of the other plans.",
+     "lines": 6
+    },
+    {
+     "t": "write",
+     "p": "Look at the habit: 'Whoever starts something decides how fast it goes.' Use the Tray Test or the stadium wave to explain why this is not true for a wave.",
+     "a": "In the Tray Test, the push was the same every time, but the wave went at different speeds in different depths. So after the start, the water decides the speed. In the stadium wave, the start was the same, but a slow crowd made a slow wave.",
+     "why": "A strong answer uses real evidence from the child's own test and says clearly what sets the speed.",
+     "lines": 4
+    },
+    {
+     "t": "write",
+     "p": "Your voice reaches a friend across a room as a wave in the air. Has any of the air from your mouth reached them? Explain using what you saw with the puffed rice.",
+     "a": "Almost none. The air near your mouth only moves back and forth a tiny bit and passes the energy on, like the water passing ripples under the puffed rice. What reaches your friend is the energy of the wave.",
+     "why": "A strong answer links sound to the puffed rice result and says what travels and what stays.",
+     "lines": 4
+    },
+    {
+     "t": "write",
+     "p": "Why do you think a tsunami warning centre needs to know how deep the sea is?",
+     "a": "Because the speed of the tsunami depends on the depth of the sea. Knowing the depth, they can work out when the wave will reach each part of the coast and warn people in time.",
+     "why": "A strong answer connects depth to speed and speed to arrival time.",
+     "lines": 3
+    },
+    {
+     "t": "write",
+     "p": "In the bucket, the puffed rice crept forward about 1 cm. Kavya says, 'So waves do carry water after all.' What would you say to her?",
+     "a": "The puffed rice moved only a centimetre while the ripples crossed the whole bucket. The water mostly goes round in small circles, and each circle ends slightly forward, so floating things creep a little. But the wave's energy went much further than the water did.",
+     "why": "A strong answer takes Kavya's evidence seriously, compares the distances, and explains the small creep.",
+     "lines": 4
+    },
+    {
+     "t": "draw",
+     "p": "Draw the Earth cut in half. Show the crust, the mantle, the liquid outer core and the solid inner core. Draw one earthquake wave bending as it goes through.",
+     "a": "A circle with layers from outside to inside: crust, mantle, liquid outer core, solid inner core, and a curved line through them.",
+     "why": "A strong drawing has the four layers in the right order and a wave path that bends where layers meet.",
+     "art": "A blank circle with a small star on its edge to mark an earthquake."
+    }
+   ]
+  }
+ ],
+ "applications": [
+  "Tsunami warning centres, like the one in Hyderabad, use the depth of the sea to work out when a wave will reach each part of the coast.",
+  "Seismologists use earthquake waves to map the inside of the Earth and to find oil and water underground.",
+  "Doctors use sound waves in an ultrasound scan to see a baby inside the mother, or to look at a heart.",
+  "Breakwaters at harbours such as Chennai and Visakhapatnam calm the waves so ships can load safely.",
+  "Engineers design buildings in earthquake zones so that earthquake waves shake them without breaking them.",
+  "Phones, radios and television use waves to carry messages without any wire.",
+  "Some places are testing machines that turn the energy of sea waves into electricity."
+ ],
+ "spotted": [
+  {
+   "text": "Ripples when a drop from the tap falls into a full bucket.",
+   "art": "A drop falling into a steel bucket of water, with rings spreading out."
+  },
+  {
+   "text": "Waves at Marina Beach in Chennai, at Kovalam in Kerala or on any beach, with a fishing boat bobbing far out.",
+   "art": "A beach with waves breaking and a small fishing boat rising on a wave far out."
+  },
+  {
+   "text": "A Mexican wave in the stands at a cricket match.",
+   "art": "Cricket stands with a band of people standing up with their arms raised."
+  },
+  {
+   "text": "A field of paddy or tall grass with waves running across it in the wind.",
+   "art": "A green paddy field with lighter bands where the wind bends the plants in a moving wave."
+  },
+  {
+   "text": "The tsunami warning signs and evacuation route boards along the coast of Tamil Nadu and Kerala.",
+   "art": "A blue sign on a beach road with a wave symbol and an arrow pointing to higher ground."
+  },
+  {
+   "text": "A curtain rippling in the wind from a ceiling fan.",
+   "art": "A curtain with waves running along it under a turning ceiling fan."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "What exactly is at the very centre of the Earth?",
+   "why_open": "Some scientists think the solid inner core has a different innermost part at its centre, found from earthquake waves. Others are not sure yet, because few waves pass right through the middle."
+  },
+  {
+   "q": "Why do giant 'rogue waves' suddenly appear at sea?",
+   "why_open": "Sailors have long told of single waves much taller than the rest. Scientists have measured them, and have several ideas about how they form, but cannot yet say exactly when one will appear."
+  },
+  {
+   "q": "Can we know a tsunami is coming before the earthquake starts it?",
+   "why_open": "Scientists can warn after an earthquake, but nobody can yet predict when an earthquake will happen."
+  },
+  {
+   "q": "Do some animals really sense earthquakes and tsunamis before people do?",
+   "why_open": "There are many stories, including after 2004, but they are hard to test, and scientists still disagree about what the animals were sensing."
+  }
+ ],
+ "ask_kids": [
+  "When a tap drips into the bucket, what travels to the edge?",
+  "Look at a ceiling fan blowing a curtain. Is the curtain making a wave? What travels along it?",
+  "If you shout to a friend across the room, does your air go across to them?",
+  "Why do you think a boat out at sea bobs up and down but is not washed to the shore?",
+  "At the beach, which waves look faster: the ones far out, or the ones near the sand?",
+  "What could make a Mexican wave go faster?",
+  "If you could not dig into the ground, how could you find out what is under your building?",
+  "Where have you seen waves today?"
+ ],
+ "jokes": [
+  {
+   "j": "What did the sea say to the beach?",
+   "a": "Nothing. It just waved."
+  },
+  {
+   "j": "Why did the ripple never get lost?",
+   "a": "Because it always came back from the wall."
+  },
+  {
+   "j": "Why was the Mexican wave so tired?",
+   "a": "Everyone kept passing it on to someone else."
+  },
+  {
+   "j": "What do you call a wave that won't go anywhere?",
+   "a": "A puddle."
+  },
+  {
+   "j": "Why did the puffed rice refuse to go to the far side of the bucket?",
+   "a": "It only liked to bob along with friends."
+  },
+  {
+   "j": "What did one wave say to the other wave?",
+   "a": "I'm crest-fallen without you."
+  },
+  {
+   "j": "Why did the dupatta feel important?",
+   "a": "Because everything that happened passed through it."
+  },
+  {
+   "j": "How do waves say goodbye?",
+   "a": "They wave."
+  },
+  {
+   "j": "Why was the shallow water so slow?",
+   "a": "It didn't have the depth to hurry."
+  },
+  {
+   "j": "What is a spring toy's favourite thing to do on holiday?",
+   "a": "Go for a long stretch."
+  },
+  {
+   "j": "Why did the crest and the trough never meet for lunch?",
+   "a": "One was always up when the other was down."
+  },
+  {
+   "j": "What did the earthquake wave say to the inner core?",
+   "a": "You're solid, my friend."
+  },
+  {
+   "j": "Why did the wave machine get top marks?",
+   "a": "It always passed the test along."
+  },
+  {
+   "j": "Why don't fish ever argue with ripples?",
+   "a": "They can feel where it's going."
+  },
+  {
+   "j": "What did the bucket say to the pencil?",
+   "a": "Stop tapping me, you're making waves."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "In the Tray Test, Meenakshi timed the wave at 1 cm three times: 5.4 seconds, 5.1 seconds and 5.6 seconds. What is the middle time?",
+   "answer": "5.4 seconds.",
+   "explain": "Put the times in order: 5.1, 5.4, 5.6. The one in the middle is 5.4 seconds. The middle time stops one late press of the stopwatch from changing the answer too much.",
+   "math_unit": "math.time.duration.L3",
+   "why_maths": "Three tries give three slightly different numbers. The middle one is a fair single answer.",
+   "context": "This is about the Tray Test, where you time a wave across a tray and back.",
+   "how": "e1"
+  },
+  {
+   "problem": "A Mexican wave travels about 20 seats each second. One stand has 100 seats in a row. About how long does the wave take to cross the stand?",
+   "answer": "About 5 seconds.",
+   "explain": "20 seats in 1 second. 40 seats in 2 seconds. 60 in 3, 80 in 4, 100 in 5. So 20 times 5 is 100, and the wave takes about 5 seconds.",
+   "math_unit": "math.multiplication.multiplication-facts.L3",
+   "why_maths": "Multiplying the speed by the time tells you how far a wave goes, so you can predict when it will reach you.",
+   "context": "This is about the Mexican wave, where each person stands up just after the person beside them."
+  },
+  {
+   "problem": "Water 4 times as deep carries a long wave about 2 times as fast. Lakshmi's wave took 6 seconds there and back in 1 cm of water. About how long should it take in 4 cm of water?",
+   "answer": "About 3 seconds.",
+   "explain": "Twice as fast means it takes half the time. Half of 6 seconds is 3 seconds. This is a prediction, so check it in your own tray.",
+   "math_unit": "math.multiplication.multiplication-facts.L3",
+   "why_maths": "A rule lets you predict a result before you test it, and then the test tells you if the rule works.",
+   "context": "This is about the Tray Test, where the same push sends a wave across water of different depths.",
+   "how": "e1"
+  },
+  {
+   "problem": "A tsunami can travel about 800 kilometres in an hour over the deep ocean. Near the shore it slows to about 40 kilometres in an hour. How many times faster is it in the deep ocean?",
+   "answer": "About 20 times faster.",
+   "explain": "40 times 2 is 80. 40 times 20 is 800. So 800 is 20 lots of 40, and the deep-ocean wave is about 20 times faster.",
+   "math_unit": "math.multiplication.multiplication-facts.L3",
+   "why_maths": "Saying 'how many times faster' compares two speeds in one number, which is easier to picture than two big numbers.",
+   "context": "This is about tsunamis, which slow down as the sea gets shallow."
+  },
+  {
+   "problem": "Your straw wave machine has a straw every 3 cm. There are 50 straws. About how long is the machine?",
+   "answer": "About 150 cm, or 1.5 metres.",
+   "explain": "Each straw takes 3 cm. 50 straws take 50 times 3 cm. 5 times 3 is 15, so 50 times 3 is 150 cm.",
+   "math_unit": "math.multiplication.multiplication-facts.L3",
+   "why_maths": "Multiplying tells you how much tape to cut before you start building.",
+   "context": "This is about the Straw Wave Machine, made of straws laid across a strip of tape.",
+   "how": "p1"
+  }
+ ],
+ "song": {
+  "topic_level": "sci.sound.L3",
+  "title": "Everything Hums",
+  "note": "Topic-level song for Sound L3"
+ },
+ "links": [
+  {
+   "title": "PhET Wave on a String",
+   "url": "https://phet.colorado.edu/en/simulations/wave-on-a-string",
+   "kind": "simulation",
+   "why": "A free online simulation. Wiggle a string, send a pulse, and change how tight the string is to see the wave speed up or slow down."
+  },
+  {
+   "title": "PhET Waves Intro",
+   "url": "https://phet.colorado.edu/en/simulations/waves-intro",
+   "kind": "simulation",
+   "why": "Make water ripples, sound and light waves on screen, and change their wavelength and height."
+  },
+  {
+   "title": "INCOIS: Indian Tsunami Early Warning Centre",
+   "url": "https://incois.gov.in",
+   "kind": "interactive",
+   "why": "The website of the centre in Hyderabad that watches for undersea earthquakes and warns India's coasts. For the parent to explore with the child."
+  },
+  {
+   "title": "Visvesvaraya Industrial and Technological Museum",
+   "url": "https://www.vismuseum.gov.in",
+   "kind": "place",
+   "where": "Bengaluru",
+   "why": "A science museum with hands-on physics exhibits, a good place to see waves and sound up close."
+  },
+  {
+   "title": "Marina Beach",
+   "url": "https://en.wikipedia.org/wiki/Marina_Beach",
+   "kind": "place",
+   "where": "Chennai",
+   "why": "Watch the waves come in, and look for a fishing boat bobbing far out. Stay well back from the water."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-spring",
+   "item": "A plastic spring toy, also sold as a magic spring or rainbow spring",
+   "kind": "tool",
+   "why": "It shows push waves and shake waves very clearly. It is cheap and sold in toy shops, at fairs and online. If you do not have one, use the dupatta and the family stadium wave instead.",
+   "url": "https://www.amazon.in/s?k=magic+spring+toy+rainbow",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Used again in later sound units, to show how sound travels as squeezes in the air."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "What does a wave carry from place to place?",
+   "a": "Energy."
+  },
+  {
+   "q": "What is the top of a wave called?",
+   "a": "The crest."
+  },
+  {
+   "q": "What is the bottom of a wave called?",
+   "a": "The trough."
+  },
+  {
+   "q": "Does a floating grain on a bucket travel with the ripples?",
+   "a": "No. It bobs up and down and stays near the middle."
+  },
+  {
+   "q": "Is a wave faster in shallow water or deeper water?",
+   "a": "Deeper water."
+  },
+  {
+   "q": "What is the material a wave travels through called?",
+   "a": "The medium."
+  },
+  {
+   "q": "Who found the Earth's solid inner core?",
+   "a": "Inge Lehmann, in 1936."
+  },
+  {
+   "q": "Does a tsunami grow taller or lower near the shore?",
+   "a": "Taller."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "a1",
+   "story",
+   "e2",
+   "a3",
+   "big_questions",
+   "cards",
+   "g1"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "summary",
+   "terms",
+   "e2",
+   "e1",
+   "explanations",
+   "a3",
+   "story",
+   "a2",
+   "videos",
+   "g1",
+   "ws-core",
+   "a4",
+   "a5",
+   "a6",
+   "p1",
+   "g2",
+   "agreed",
+   "challenging",
+   "how_we_found_out",
+   "ws-stretch",
+   "c1",
+   "c2",
+   "big_questions",
+   "ws-challenge",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "e2",
+   "a3",
+   "g1",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "ideas/by_topic/sound.md: 'Wave basics' row (rope wave demo, slinky compression waves, tapping a bowl of water to watch ripples, a group 'stadium wave', clapping a wave round a circle, crest and trough movement). Used in the Dupatta Wave, Spring Toy Waves, the Family Stadium Wave and Crest and Trough.",
+   "ideas/by_topic/sound.md: 'Sound waves' and 'How sound travels' rows (energy moves through matter without carrying the matter, a whisper relay). Used in the explanations and big questions.",
+   "Curriculum entry sci.sound.waves.L3: 'Ripples in water, a slinky, a Mexican wave: energy moves, the water stays.'"
+  ],
+  "science": [
+   "Lehmann, I., 'P′', Publications du Bureau Central Séismologique International, Série A, Travaux Scientifiques 14, 1936 (the inner core, from the 1929 New Zealand earthquake records)",
+   "American Museum of Natural History, 'Inge Lehmann: Discoverer of the Earth's Inner Core' (the 1929 earthquake, her cards, confirmation in 1970)",
+   "Farkas, I., Helbing, D. and Vicsek, T., 'Mexican waves in an excitable medium', Nature 419, 131 to 132, 2002 (typical speed about 12 metres or 20 seats each second)",
+   "Danielsen, F. and others, 'The Asian tsunami: a protective role for coastal vegetation', Science 310, 643, 2005, and later papers questioning how far the evidence goes",
+   "The shallow-water wave speed rule, speed equals the square root of g times depth, as used in school ripple-tank practicals and tsunami travel-time maps",
+   "Ashtavakra Gita 2.4 (translations by John Richards and others) and Tao Te Ching 78"
+  ]
+ },
+ "roots": {
+  "context": "We have sent waves across water, along a dupatta and through a row of people. Now we ask what waves tell us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "In your tray, the same push sent a wave slowly through shallow water and fast through deeper water. Your hand did the same thing each time. So once a wave starts, the water it travels through sets its speed. That is why a tsunami slows down as the sea gets shallow.",
+   "habit": "We expect whoever starts something to decide how fast it goes, as a harder throw makes a faster ball. A ball carries its own motion. A wave is passed on by everything it travels through, so they set its pace.",
+   "evidence": "In the Tray Test, two trips there and back took about 5 seconds in 1 cm of water and about 3 seconds in 4 cm, with the same push. In the family stadium wave, the same start made a slower wave when everyone waited before standing."
+  },
+  "three": {
+   "who_am_i": "Your voice reaches a friend as a wave in the air. The air by your mouth stays by your mouth, yet your words arrive.",
+   "what_is_life": "A spider feels waves along her web and runs to her food. A fish feels waves in the water and turns with the shoal. Living beings know their world through the waves that reach them.",
+   "what_is_this_world": "The sea, the ground and the air are full of waves passing through. Nobody has been to the centre of the Earth, yet waves have told us what is there."
+  },
+  "thread": "Before you tap, the water in the bucket is flat and still. One tap gives it energy, and that energy spreads out as ring after ring of ripples. No ripple is made of new water. Each is the same body of water, rising and falling as the energy passes. So the many ripples are one water, moving in many places.",
+  "teachings": [
+   {
+    "source": "Ashtavakra Gita 2.4",
+    "teaching": "As waves, foam and bubbles are not different from water, so the whole world that comes from the Self is not different from it.",
+    "link": "Your tray showed the fact this verse starts from: a wave has no stuff of its own. It is the water itself, moving. The Ashtavakra Gita uses that fact about water to speak about the world."
+   },
+   {
+    "source": "Tao Te Ching 78",
+    "teaching": "Nothing in the world is softer and weaker than water. Yet nothing is better at wearing down what is hard and strong.",
+    "link": "Water gives way to your finger. Yet water passing on the energy of an undersea earthquake broke sea walls in 2004. Water carries energy by giving way, each part passing it to the next."
+   }
+  ],
+  "science": [
+   {
+    "text": "Energy is never made or destroyed. A wave carries energy from one place to another. When a wave fades, its energy has turned into a little warmth in the water.",
+    "status": "settled"
+   },
+   {
+    "text": "Ripples, sound, earthquake shaking and light look very different, but they are all waves. The same ideas of wavelength and speed describe every one of them.",
+    "status": "settled"
+   }
+  ],
+  "other_view": {
+   "who": "Many physicists",
+   "view": "A wave is only bits of water each pushing on their neighbours. It is a useful idea for describing water, and it does not tell us anything about the world as a whole."
+  },
+  "practice": {
+   "title": "The Breath Ripple",
+   "mins": 3,
+   "say": "Fill a steel tumbler with water and put it on the table. Sit close and keep very still. Breathe in slowly. Now breathe out very gently across the top of the water. Watch the tiny ripples run across. Breathe in again and let the water go still. Do it three times. Each time, notice that the water moved but stayed in the tumbler.",
+   "kid": "Sit by a tumbler of water. Keep still. Breathe in slowly. Breathe out gently over the water. Watch the tiny ripples. Let the water go still. Do it three times."
+  },
+  "ask": [
+   "If a wave has no stuff of its own, is it something, or is it only the water moving?",
+   "When you hear a friend, the air between you passes on the wave. Is any of your friend in the sound that reaches you?",
+   "Inge Lehmann learned about the centre of the Earth without ever going there. What else do we know only from the waves that come to us?"
+  ],
+  "art": "A child sitting very still at a table, breathing gently over a steel tumbler of water, with tiny rings of ripples on the water."
+ },
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat, with the materials listed. Choices made: the Tray Test uses a push from a dosa turner, not lifting the tray, so the push can be kept the same. A tray of 30 cm or more is needed, because in a short tray the wave comes back too fast to time. Timing two trips there and back gives times of a few seconds, long enough to time with a phone. In 1 cm of water the wave fades fast, so the step says to time one trip there and back if it fades, and a torch at a slant makes the wave easy to see as a bright line. The bucket test uses tapping, not stirring, so only waves are made, and the steps say the puffed rice may creep a centimetre or two, which is true. Blowing through a straw is the comparison, because it pushes the water itself. The spring toy is optional, with the dupatta as the home alternative. The straw wave machine needs about 50 straws or card strips, and dough on the straw ends clearly slows the wave. The curd test uses set curd that is eaten afterwards. Nothing in the spine needs a garden, a beach or a living thing.",
+ "how_we_found_out": {
+  "story": "In the 1920s, earth scientists studied the waves that big earthquakes send right through the Earth. One kind of earthquake wave cannot pass through liquid, and it never came through the Earth's core. So many scientists thought the whole core was liquid metal. Inge Lehmann, a scientist in Denmark, looked closely at the records of a big earthquake in New Zealand in 1929. Machines far away, on the other side of the Earth, had picked up faint waves in places where a fully liquid core should leave none. She had no computer. She wrote the arrival times on cards and sorted them in boxes, by hand. In 1936 she published a short paper with a title of just two characters, P′. She showed that the faint waves made sense if the liquid core had a solid ball inside it. Waves travel faster in that solid ball, so their paths bend, and some reach places they could not reach otherwise. Other scientists soon agreed with her. In 1970, more sensitive machines picked up waves bouncing off the solid inner core. Inge Lehmann lived to be 104.",
+  "who": "Inge Lehmann (1888 to 1993), a Danish seismologist, a scientist who studies earthquakes",
+  "when": "1929 (the New Zealand earthquake), 1936 (her paper on the inner core) and 1970 (the confirmation)",
+  "wrong_idea": "Many scientists thought the Earth's core was liquid all the way through. Lehmann showed that faint waves arriving where a fully liquid core would leave none were explained by a solid inner core, and later measurements confirmed it."
+ }
+}
