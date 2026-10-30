@@ -1,0 +1,116 @@
+{
+  "id": "olinguito-new-animal",
+  "title": "How did a scientist find a new animal in a museum drawer?",
+  "blurb": "A Smithsonian scientist noticed odd skulls and skins in museum collections. They belonged to an animal nobody had named: the olinguito, a fluffy fruit-eater of misty mountain forests.",
+  "topics": [
+    "sci.classification.sorting-living-things.L3",
+    "sci.habitats.habitats.L3",
+    "sci.animals.vertebrate-groups.L3"
+  ],
+  "tags": [
+    "new species",
+    "museums",
+    "mammals",
+    "forests"
+  ],
+  "year": 2013,
+  "mins": 6,
+  "cover": {
+    "src": "media/research/olinguito-new-animal-1.jpg",
+    "alt": "Three photos of a wild olinguito, a small furry brown animal with a round face and big dark eyes, sitting on a mossy branch.",
+    "credit": "Figure 13, photo by Mark Gurney, Helgen et al., ZooKeys 2013, CC BY 3.0"
+  },
+  "source": {
+    "name": "ZooKeys (research paper)",
+    "title": "Taxonomic revision of the olingos (Bassaricyon), with description of a new species, the Olinguito",
+    "authors": "Kristofer M. Helgen, C. Miguel Pinto, Roland Kays, Lauren E. Helgen, Mirian T. N. Tsuchiya, Aleta Quinn, Don E. Wilson, Jesus E. Maldonado",
+    "year": 2013,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3760134/",
+    "license": "facts retold in our own words"
+  },
+  "original": {
+    "title": "Taxonomic revision of the olingos (Bassaricyon), with description of a new species, the Olinguito",
+    "authors": "Helgen, K. M., Pinto, C. M., Kays, R., Helgen, L. E., Tsuchiya, M. T. N., Quinn, A., Wilson, D. E., and Maldonado, J. E.",
+    "journal": "ZooKeys",
+    "year": 2013,
+    "url": "https://doi.org/10.3897/zookeys.324.5827"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "Olingos are small, furry animals of the raccoon family. They live in trees in Central and South America. Museums keep hundreds of olingo skins and skulls, collected over many years. Kristofer Helgen wondered: how many kinds of olingo are there really? Were some of the museum animals a kind nobody had named?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "Kristofer Helgen studies mammals at the Smithsonian's National Museum of Natural History in Washington, D.C. His team included Miguel Pinto, Roland Kays, Lauren Helgen, Mirian Tsuchiya, Aleta Quinn, Don Wilson and Jesus Maldonado. They worked with museums and scientists in the United States, Ecuador and other countries. They published in 2013."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "The team looked at almost every olingo skin and skull in museums around the world. They measured skulls and teeth, and compared fur colour. Some skulls were smaller, with different teeth. Some skins had thick, long, reddish fur. They tested DNA, the body's instruction code. Then a team went to the cloud forests of Ecuador to look for the living animal.",
+      "img": {
+        "src": "media/research/olinguito-new-animal-2.jpg",
+        "alt": "Three flat, reddish-brown olinguito skins from a museum, each with a paper label tied on.",
+        "credit": "Figure 14, Helgen et al., ZooKeys 2013, CC BY 3.0"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "The odd skulls and skins belonged to a new species, a kind of animal never named before. They named the new species the olinguito, which means little olingo. Olinguitos live in misty cloud forests high in the Andes mountains of Colombia and Ecuador. They come out at night, live in trees, eat fruit, and are good jumpers."
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "Skulls, fur, DNA and living animals all told the same story, so the team is confident. Surprisingly, an olinguito named Ringerl lived in American zoos, including the Smithsonian's own National Zoo, in the 1960s and 1970s. Nobody knew she was a different kind. Much about olinguitos' lives is still unknown.",
+      "img": {
+        "src": "media/research/olinguito-new-animal-3.jpg",
+        "alt": "Two old black and white photos of Ringerl, an olinguito who lived in zoos, one close up and one on a branch.",
+        "credit": "Figure 15, photos by I. Poglayen-Neuwall, Helgen et al., ZooKeys 2013, CC BY 3.0"
+      }
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "The olinguito belongs to the carnivore group of mammals, with cats, dogs and bears, even though olinguitos mostly eat fruit. No new carnivore had been named in the Americas for more than 30 years. The discovery shows that museum collections still hold surprises. It also shows that cloud forests are precious. These forests are being cut down for farms. Protecting them protects olinguitos and many other animals."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Be a museum scientist. Shalini collects ten leaves from the same kind of tree, or ten grains of rice from two different bags. She lines them up and measures each one with a ruler. Are some groups different in size or shape? Could she sort them into two kinds just by looking carefully?"
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "The olinguito was in museums and zoos for over 100 years, yet nobody noticed. What else might be hiding right in front of us? Is it more exciting to find something new in a far forest, or in a museum drawer close to home?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "species",
+          "m": "one kind of living thing, like tigers or peacocks"
+        },
+        {
+          "w": "cloud forest",
+          "m": "a cool, wet forest high on mountains, often covered in mist"
+        },
+        {
+          "w": "DNA",
+          "m": "the instruction code inside every living thing"
+        },
+        {
+          "w": "museum collection",
+          "m": "objects, like skins and skulls, that a museum keeps safe for study"
+        },
+        {
+          "w": "mammal",
+          "m": "an animal with fur or hair that feeds its babies milk"
+        }
+      ]
+    }
+  ]
+}

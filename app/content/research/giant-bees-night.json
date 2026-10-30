@@ -1,0 +1,117 @@
+{
+  "id": "giant-bees-night",
+  "title": "Do bees fly at night?",
+  "blurb": "Giant honeybees in Bengaluru keep collecting food after dark, by moonlight. Scientists at NCBS filmed their nests all night for eight months to find out when and how much.",
+  "topics": [
+    "sci.animals.invertebrates.L3",
+    "sci.light.how-we-see.L3",
+    "sci.sky.moon-phases.L3"
+  ],
+  "tags": [
+    "bees",
+    "night",
+    "Moon",
+    "India",
+    "Bengaluru"
+  ],
+  "year": 2021,
+  "mins": 6,
+  "cover": {
+    "src": "media/research/giant-bees-night-1.jpg",
+    "alt": "A giant honeybee with smoky see-through wings resting on a green leaf.",
+    "credit": "Gerard Chartier, CC BY 4.0, via iNaturalist and Wikimedia Commons"
+  },
+  "source": {
+    "name": "PLOS ONE (research paper)",
+    "title": "A hard day's night: Patterns in the diurnal and nocturnal foraging behavior of Apis dorsata across lunar cycles and seasons",
+    "authors": "Allison M. Young, Sangamesh Kodabalagi, Axel Brockmann, Fred C. Dyer",
+    "year": 2021,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8535376/",
+    "license": "facts retold in our own words"
+  },
+  "original": {
+    "title": "A hard day's night: Patterns in the diurnal and nocturnal foraging behavior of Apis dorsata across lunar cycles and seasons",
+    "authors": "Young, A. M., Kodabalagi, S., Brockmann, A., and Dyer, F. C.",
+    "journal": "PLOS ONE",
+    "year": 2021,
+    "url": "https://doi.org/10.1371/journal.pone.0258604"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "Most bees stop work at sunset and rest in the hive. The giant honeybee, or rock bee, builds huge open nests under tree branches, water tanks and balconies across India. People had seen these bees flying at night. How often do they really collect food in the dark, and does the Moon matter?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "Allison Young and Fred Dyer study bees at Michigan State University in the United States. Axel Brockmann studies bee brains at the National Centre for Biological Sciences, NCBS, in Bengaluru. Sangamesh Kodabalagi works at NCBS and the University of Agricultural Sciences in Bengaluru. They published in 2021."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "From October 2018 to May 2019, the team watched giant honeybee nests on the NCBS campus. Some nests were carefully moved from balconies of a Bengaluru apartment block. A camera with an infrared setting, which can see in the dark, filmed each nest from sunset to sunrise, around each full moon. Every half hour, they counted arriving bees for ten minutes.",
+      "img": {
+        "src": "media/research/giant-bees-night-2.jpg",
+        "alt": "A giant honeybee seen from above, resting on a white cloth among small moths and beetles, in South India.",
+        "credit": "Paulmathi Vinod, CC BY 4.0, via iNaturalist and Wikimedia Commons"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "The bees were busiest in the day and at twilight, the dim time around sunrise and sunset. But many bees also came home at night, when the Moon gave enough light. On brighter nights, more bees flew. The returning bees even danced on the nest to tell others where food was, just as they do by day. In winter, nights were busier than days.",
+      "img": {
+        "src": "media/research/giant-bees-night-3.jpg",
+        "alt": "Four graphs, one for each full moon night, showing how many bees arrived at the nest through the day, twilight and night.",
+        "credit": "Figure 2, Young et al., PLOS ONE 2021, CC BY 4.0"
+      }
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "The team watched only five colonies, all in one part of Bengaluru, a city with street lights. City lights might help the bees see at night. The scientists say the next step is to compare city bees with bees in dark forests. Bees did not always fly on bright nights, perhaps when flowers had little food."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "Giant honeybees have large eyes that are good in dim light, which helps explain their night flights. If they visit flowers at night, they may help pollinate night-blooming plants. Pollinate means carrying pollen from flower to flower, so plants can make seeds and fruit. Many of our foods need pollinators like bees."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Watch the night sky with a parent. On a full moon night, Pooja and her father stand on their balcony for five minutes after dark. They look for insects flying near a lamp or a flowering plant. A week later, with only half a moon, they try again at the same time. Which night has more insects flying?"
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "Giant honeybees often build nests on city buildings, and people sometimes burn or spray them. But the bees pollinate plants, and some of them fly at night too. How could people and giant honeybees share a city safely? Is it fair to move a nest instead of destroying it?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "giant honeybee",
+          "m": "a large wild honeybee of India and Asia, also called the rock bee, that builds open nests"
+        },
+        {
+          "w": "colony",
+          "m": "a big family of bees living together in one nest"
+        },
+        {
+          "w": "twilight",
+          "m": "the dim time just before sunrise and just after sunset"
+        },
+        {
+          "w": "infrared camera",
+          "m": "a camera that can film in the dark using light our eyes cannot see"
+        },
+        {
+          "w": "pollinate",
+          "m": "to carry pollen from flower to flower so plants can make seeds"
+        }
+      ]
+    }
+  ]
+}

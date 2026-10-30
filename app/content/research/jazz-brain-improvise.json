@@ -1,0 +1,112 @@
+{
+  "id": "jazz-brain-improvise",
+  "title": "What happens in the brain when musicians make up music on the spot?",
+  "blurb": "Scientists at the US National Institutes of Health scanned jazz pianists' brains while they made up tunes. A part of the brain that judges and checks went quiet.",
+  "topics": [
+    "sci.mind.thinking-and-memory.L3",
+    "sci.sound.sources-of-sound.L3",
+    "sci.body.organs-inside.L3"
+  ],
+  "tags": [
+    "music",
+    "brain",
+    "creativity",
+    "piano"
+  ],
+  "year": 2008,
+  "mins": 6,
+  "cover": {
+    "src": "media/research/jazz-brain-improvise-1.jpg",
+    "alt": "A computer picture of a brain from the side. Orange patches show parts that got busier, and blue and green patches show parts that got quieter.",
+    "credit": "Figure 3, Limb and Braun, PLOS ONE 2008, public domain (CC0)"
+  },
+  "source": {
+    "name": "PLOS ONE (research paper)",
+    "title": "Neural Substrates of Spontaneous Musical Performance: An fMRI Study of Jazz Improvisation",
+    "authors": "Charles J. Limb, Allen R. Braun",
+    "year": 2008,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2244806/",
+    "license": "facts retold in our own words"
+  },
+  "original": {
+    "title": "Neural Substrates of Spontaneous Musical Performance: An fMRI Study of Jazz Improvisation",
+    "authors": "Limb, C. J., and Braun, A. R.",
+    "journal": "PLOS ONE",
+    "year": 2008,
+    "url": "https://doi.org/10.1371/journal.pone.0001679"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "Jazz musicians often make up music on the spot, while they play. This is called improvising. Carnatic musicians do it too, in parts of a concert where they invent as they sing. How does a brain invent new music so fast? Which parts of the brain get busy, and which parts go quiet?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "Charles Limb is a doctor who studies hearing, and he also plays jazz. Allen Braun studies the brain and language. They worked at the National Institute on Deafness and Other Communication Disorders, part of the US National Institutes of Health. Charles Limb also worked at Johns Hopkins University. They published in 2008."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "Six professional jazz pianists lay inside a brain scanner, a big machine that shows which brain parts are working hardest. They played a special plastic keyboard with no metal, because the scanner uses a giant magnet. First they played a tune they had learned by heart. Then they made up their own music over the same backing band.",
+      "img": {
+        "src": "media/research/jazz-brain-improvise-2.jpg",
+        "alt": "A small piano keyboard at the top, and below it lines of written music: tunes learned by heart on the left, and made-up tunes on the right.",
+        "credit": "Figure 1, Limb and Braun, PLOS ONE 2008, public domain (CC0)"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "When the pianists made up music, a large area at the sides of the front of the brain went quiet. This area helps us check ourselves and stop mistakes. At the same time, a small area in the middle front got busier. This area is linked to expressing who we are. Parts that control fingers and hearing got busier too.",
+      "img": {
+        "src": "media/research/jazz-brain-improvise-3.jpg",
+        "alt": "Slices of a brain seen from above, with blue patches where the brain went quieter and orange patches where it got busier during made-up music.",
+        "credit": "Figure 2, Limb and Braun, PLOS ONE 2008, public domain (CC0)"
+      }
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "Only six musicians took part, all men and all right-handed. That is a small group, so the results need checking with more people. The same pattern showed up in two different tests, which makes it more believable. Scientists still do not fully understand how creativity works in the brain."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "The scientists noticed something interesting. A similar quiet-and-busy pattern has been seen during dreaming. In dreams, ideas flow without us checking them. Making up music may work a little like that. Knowing this helps scientists study creativity, which is part of art, science and play."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Play a made-up music game. Nithya taps a simple beat on a steel plate with a spoon. First her grandmother copies the beat exactly. Then her grandmother makes up her own beat in reply, without stopping to plan. Which felt easier? Which felt more fun? Swap turns and try again."
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "To make up music, the pianists' brains seemed to switch off some self-checking. But checking helps us avoid mistakes. Is it good to stop worrying about mistakes when we create something? Or do we need some checking to make it good? When do you feel most free to invent?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "improvise",
+          "m": "to make something up on the spot, without planning it first"
+        },
+        {
+          "w": "brain scanner",
+          "m": "a big machine that shows which parts of the brain are working hardest"
+        },
+        {
+          "w": "creativity",
+          "m": "the ability to make new ideas or new things"
+        },
+        {
+          "w": "jazz",
+          "m": "a kind of music from the United States where players often make up parts as they go"
+        }
+      ]
+    }
+  ]
+}

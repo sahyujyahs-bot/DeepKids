@@ -1,0 +1,111 @@
+{
+  "id": "crows-build-long-tools",
+  "title": "Can a crow build a tool out of parts?",
+  "blurb": "Crows were given pieces too short to reach some food. Four of eight crows joined pieces together to make a longer stick, and one crow named Mango joined three and four pieces.",
+  "topics": [
+    "sci.animals.animal-minds.L3",
+    "sci.making-things.design-and-build.L3"
+  ],
+  "tags": [
+    "crows",
+    "birds",
+    "tools",
+    "thinking"
+  ],
+  "year": 2018,
+  "mins": 5,
+  "cover": {
+    "src": "media/research/crows-build-long-tools-1.jpg",
+    "alt": "A glossy black New Caledonian crow walking on dry grass and fallen leaves.",
+    "credit": "Ben Keen, CC0, via iNaturalist"
+  },
+  "source": {
+    "name": "Scientific Reports (research paper)",
+    "title": "Compound tool construction by New Caledonian crows",
+    "authors": "A. M. P. von Bayern, S. Danel, A. M. I. Auersperg, B. Mioduszewska, A. Kacelnik",
+    "year": 2018,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6200727/",
+    "license": "facts retold in our own words"
+  },
+  "original": {
+    "title": "Compound tool construction by New Caledonian crows",
+    "authors": "von Bayern, A. M. P., Danel, S., Auersperg, A. M. I., Mioduszewska, B., and Kacelnik, A.",
+    "journal": "Scientific Reports",
+    "year": 2018,
+    "url": "https://doi.org/10.1038/s41598-018-33458-z"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "Joining parts to make a new tool is hard. Human children usually cannot invent a new tool until they are about 5 to 9 years old. New Caledonian crows, from an island in the Pacific Ocean, use sticks to poke food out of holes. Could a crow invent a tool by joining short pieces into one long one?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "Auguste von Bayern works at the Max Planck Institute for Ornithology in Germany, a place that studies birds. Alex Kacelnik works at the University of Oxford in England. With Sarah Danel, Alice Auersperg and Barbara Mioduszewska, they ran the tests at an Oxford bird research station in Germany. They published in 2018."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "The team put food deep inside a see-through box, behind a narrow slot. First, the 8 crows learned to push the food out with long sticks. Then the long sticks were taken away. The crows got only short pieces, like hollow tubes and thin sticks, all too short alone. The pieces could fit inside each other.",
+      "img": {
+        "src": "media/research/crows-build-long-tools-2.jpg",
+        "alt": "A drawing of the test: a box with food inside, short tubes and sticks on a board, and a crow picking up a piece.",
+        "credit": "Figure 1, von Bayern et al., Scientific Reports 2018, CC BY 4.0"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "Four of the 8 crows pushed a thin piece into a hollow piece. This made a longer tool, and they reached the food. They did it within a few minutes, with no one showing them how. When the pieces were made even shorter, one crow named Mango joined three, and even four, pieces together.",
+      "img": {
+        "src": "media/research/crows-build-long-tools-3.jpg",
+        "alt": "A New Caledonian crow perched on a sloping branch against a bright blue sky.",
+        "credit": "Ben Keen, CC0, via iNaturalist"
+      }
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "Only 8 crows were tested, and only 4 made tools. So we know some crows can do this, not all. The crows mostly joined pieces when the food was far away, and tried a short piece first when the food was near. That suggests they knew when a long tool was needed. How they think it through is still unknown."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "Before this, only humans and a few apes were known to join parts into new tools. Now a bird has done it too. Crow brains are built very differently from ours. So clever thinking may have grown up more than once, in very different animals. The crows at your window may be smarter than you think."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Make a tool from parts. Sowmya drops a small ball of paper behind a heavy sofa, out of reach of her hand. She may use only short things: two pencils, a rubber band, a used pen tube. Can she join them into a tool long enough to roll the ball out? Draw your best design."
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "Mango the crow made a four-piece tool, but the other crows did not. Does that mean Mango is cleverer, or was he just more interested that day? When you solve a puzzle and your friend does not, is it always because you are cleverer? What else could make the difference?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "compound tool",
+          "m": "a tool made by joining two or more parts together"
+        },
+        {
+          "w": "New Caledonian crow",
+          "m": "a crow from New Caledonia, an island in the Pacific Ocean, famous for using tools"
+        },
+        {
+          "w": "invent",
+          "m": "to make something new that nobody showed you how to make"
+        },
+        {
+          "w": "ornithology",
+          "m": "the study of birds"
+        }
+      ]
+    }
+  ]
+}

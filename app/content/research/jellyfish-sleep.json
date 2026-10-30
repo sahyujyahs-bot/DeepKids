@@ -1,0 +1,112 @@
+{
+  "id": "jellyfish-sleep",
+  "title": "Do jellyfish sleep, even without a brain?",
+  "blurb": "Upside-down jellyfish have no brain, only a net of nerves. Students at Caltech showed they still have a sleep-like rest at night, and feel tired after a disturbed night.",
+  "topics": [
+    "sci.health.exercise-and-rest.L3",
+    "sci.animals.invertebrates.L3",
+    "sci.evolution.story-of-life.L3"
+  ],
+  "tags": [
+    "sleep",
+    "jellyfish",
+    "sea",
+    "brain"
+  ],
+  "year": 2017,
+  "mins": 6,
+  "cover": {
+    "src": "media/research/jellyfish-sleep-1.jpg",
+    "alt": "An upside-down jellyfish lying on the floor of a shallow lagoon, with the frilly arms facing up towards the light.",
+    "credit": "Louis Imbeau, CC BY 4.0, via iNaturalist"
+  },
+  "source": {
+    "name": "Current Biology (research paper, author's copy in PubMed Central)",
+    "title": "The Jellyfish Cassiopea Exhibits a Sleep-like State",
+    "authors": "Ravi D. Nath, Claire N. Bedbrook, Michael J. Abrams, Ty Basinger, Justin S. Bois, David A. Prober, Paul W. Sternberg, Viviana Gradinaru, Lea Goentoro",
+    "year": 2017,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5653286/",
+    "license": "facts retold in our own words"
+  },
+  "original": {
+    "title": "The Jellyfish Cassiopea Exhibits a Sleep-like State",
+    "authors": "Nath, R. D., Bedbrook, C. N., Abrams, M. J., and others",
+    "journal": "Current Biology",
+    "year": 2017,
+    "url": "https://doi.org/10.1016/j.cub.2017.08.014"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "People sleep. So do dogs, birds, fish and even worms and flies. All of them have a brain, a control centre for the body. Jellyfish have no brain. They have only a loose net of nerves spread through the body. Can an animal without a brain still sleep?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "Ravi Nath, Claire Bedbrook and Michael Abrams led this study at Caltech, the California Institute of Technology, in the United States. They worked with senior scientists Lea Goentoro, Viviana Gradinaru, Paul Sternberg, David Prober and others. They published in 2017."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "Upside-down jellyfish lie on the sand and pulse, squeezing and relaxing their bell about once a second. The team filmed 23 jellyfish for six days and nights and counted every pulse. They also lifted each jellyfish in a mesh tube and dropped them into open water, to see how fast they woke up and swam down.",
+      "img": {
+        "src": "media/research/jellyfish-sleep-2.jpg",
+        "alt": "An upside-down jellyfish resting on stones in shallow water, with the round bell pressed against the bottom.",
+        "credit": "Yoannis Domínguez, CC BY 4.0, via iNaturalist"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "At night the jellyfish pulsed about one third less, and often paused. When dropped at night, they took longer to start pulsing and to reach the bottom, like a sleepy person. When the team kept them awake at night with puffs of water, they pulsed less the next day. They were catching up on lost rest.",
+      "img": {
+        "src": "media/research/jellyfish-sleep-3.jpg",
+        "alt": "An upside-down jellyfish floating in open water, with a spotted bell and frilly arms hanging below.",
+        "credit": "Robin White, CC BY 4.0, via iNaturalist"
+      }
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "The jellyfish showed all three signs that scientists use for sleep: they rest, they are slower to react, and they catch up after missing rest. Melatonin, a body chemical that makes people sleepy, also made them rest more. This was one kind of jellyfish in a lab. Scientists call it a sleep-like state, to be careful."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "Jellyfish belong to a very old group of animals. If they sleep without a brain, sleep probably began very early in the story of animals, before brains existed. So sleep must do something deeply important for every animal. Scientists still do not know exactly what that job is."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Be a sleep scientist for a week. Each morning, Anjali writes down what time she slept and woke. She also notes how quickly she could answer her mother's riddle at breakfast. After a late night, was she slower? Like the jellyfish, does she catch up with a longer sleep the next night?"
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "A jellyfish has no brain but still rests in a sleep-like way. So is sleep something the brain does, or something the whole body needs? Some scientists think sleep helps us remember. Others think sleep repairs the body. What do you think sleep is for?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "sleep-like state",
+          "m": "a rest that has the signs of sleep, used when scientists want to be careful"
+        },
+        {
+          "w": "nerve net",
+          "m": "nerves spread through the body like a net, with no brain in charge"
+        },
+        {
+          "w": "pulse",
+          "m": "the squeeze and relax of a jellyfish's bell, like a heartbeat you can see"
+        },
+        {
+          "w": "melatonin",
+          "m": "a chemical the body makes at night that helps people feel sleepy"
+        }
+      ]
+    }
+  ]
+}

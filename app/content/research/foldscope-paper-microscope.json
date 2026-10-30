@@ -1,0 +1,116 @@
+{
+  "id": "foldscope-paper-microscope",
+  "title": "Can you make a microscope out of paper?",
+  "blurb": "Stanford scientists folded a microscope from a flat sheet, like origami. The parts cost less than a dollar, and the microscope survives being stepped on.",
+  "topics": [
+    "sci.light.refraction.L3",
+    "sci.what-is-life.cells.L3",
+    "sci.making-things.design-and-build.L3"
+  ],
+  "tags": [
+    "microscope",
+    "inventions",
+    "paper",
+    "germs"
+  ],
+  "year": 2014,
+  "mins": 6,
+  "cover": {
+    "src": "media/research/foldscope-paper-microscope-1.jpg",
+    "alt": "Eight folded paper microscopes in bright colours, pink, black, green, red, white, brown, yellow and blue, laid in a circle.",
+    "credit": "Figure 1E, Cybulski, Clements and Prakash, PLOS ONE 2014, CC BY 4.0"
+  },
+  "source": {
+    "name": "PLOS ONE (research paper)",
+    "title": "Foldscope: Origami-Based Paper Microscope",
+    "authors": "James S. Cybulski, James Clements, Manu Prakash",
+    "year": 2014,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4062392/",
+    "license": "facts retold in our own words"
+  },
+  "original": {
+    "title": "Foldscope: Origami-Based Paper Microscope",
+    "authors": "Cybulski, J. S., Clements, J., and Prakash, M.",
+    "journal": "PLOS ONE",
+    "year": 2014,
+    "url": "https://doi.org/10.1371/journal.pone.0098781"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "A microscope lets us see things too small for our eyes, like germs and the cells in a leaf. But good microscopes are heavy and cost a lot. Many children around the world have never used one. Could someone make a microscope so cheap and light that every child could have one?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "Manu Prakash grew up in India and now leads a lab at Stanford University in the United States. He likes frugal science, which means doing good science with very cheap tools. With his students James Cybulski and James Clements, he designed the Foldscope. They published it in 2014."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "The team printed the parts on one flat sheet of strong paper. You cut them out and fold them, like origami. A tiny glass bead is the lens. A lens is a clear piece that bends light to make things look bigger. A small light, a button battery and a switch light up the sample from below.",
+      "img": {
+        "src": "media/research/foldscope-paper-microscope-2.jpg",
+        "alt": "The flat black paper parts of a Foldscope, with scissors, tape, tweezers and a small dish of coloured filters.",
+        "credit": "Figure 1D, Cybulski, Clements and Prakash, PLOS ONE 2014, CC BY 4.0"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "The Foldscope can be folded in under 10 minutes. With the strongest lens it makes things look over 2,000 times bigger. That is enough to see germs and blood cells. It weighs about 9 grams, as light as a few coins. It still worked after being dropped from three floors up and stepped on.",
+      "img": {
+        "src": "media/research/foldscope-paper-microscope-3.jpg",
+        "alt": "Three close-up pictures taken through a Foldscope: a ladybird's leg muscles, a ladybird's claw, and a beetle's leg.",
+        "credit": "Figure 5H to 5J, Cybulski, Clements and Prakash, PLOS ONE 2014, CC BY 4.0"
+      }
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "The team tested many Foldscopes and took real pictures of germs, tiny worms and insect parts. A paper microscope cannot do everything a big lab microscope can. It does fewer jobs, but it does them for very little money. The scientists said doctors could also use it to look for diseases."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "In parts, one Foldscope cost less than one US dollar. That means a whole class could have one each, not one to share. The scientists hope children everywhere will look closely at the tiny world around them. Then anyone could make a discovery, the way people with small telescopes find new comets."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Make a water-drop lens. Lakshmi puts a sheet of clear plastic over a page of small print. With a straw, she places one small drop of water on the plastic. She looks down through the drop. Do the letters look bigger? Now she tries a bigger drop. Which drop makes the letters biggest?"
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "Manu Prakash wanted a microscope for every child. Is it better to have one perfect, costly tool for a few people, or a simple, cheap tool for everyone? Divya says the perfect tool. Her sister Meena says the cheap one. Who do you agree with, and why?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "microscope",
+          "m": "a tool that makes very small things look big enough to see"
+        },
+        {
+          "w": "lens",
+          "m": "a clear curved piece of glass or water that bends light to make things look bigger"
+        },
+        {
+          "w": "origami",
+          "m": "the art of folding paper into shapes without glue"
+        },
+        {
+          "w": "frugal science",
+          "m": "doing real science with very cheap, simple tools"
+        },
+        {
+          "w": "cell",
+          "m": "the tiny building block that all living things are made of"
+        }
+      ]
+    }
+  ]
+}

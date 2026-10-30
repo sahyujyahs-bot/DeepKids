@@ -1,0 +1,113 @@
+{
+  "id": "tree-cricket-leaf-baffle",
+  "title": "How does a tiny tree cricket make a loud song?",
+  "blurb": "Male tree crickets chew a hole in a leaf and sing from inside it. Scientists from IISc Bengaluru found they pick the best leaf and cut a near-perfect hole on the first try.",
+  "topics": [
+    "sci.sound.sources-of-sound.L3",
+    "sci.making-things.design-and-build.L3",
+    "sci.animals.invertebrates.L3"
+  ],
+  "tags": [
+    "crickets",
+    "sound",
+    "insects",
+    "India",
+    "leaves"
+  ],
+  "year": 2017,
+  "mins": 6,
+  "cover": {
+    "src": "media/research/tree-cricket-leaf-baffle-1.jpg",
+    "alt": "A pale green tree cricket sitting inside a hole he has cut in a green leaf, with his see-through wings raised.",
+    "credit": "Figure 1A, Mhatre et al., eLife 2017, CC BY 4.0 (photo first shown in Mhatre et al., 2012)"
+  },
+  "source": {
+    "name": "eLife (research paper)",
+    "title": "Tree crickets optimize the acoustics of baffles to exaggerate their mate-attraction signal",
+    "authors": "Natasha Mhatre, Robert Malkin, Rittik Deb, Rohini Balakrishnan, Daniel Robert",
+    "year": 2017,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5764570/",
+    "license": "facts retold in our own words"
+  },
+  "original": {
+    "title": "Tree crickets optimize the acoustics of baffles to exaggerate their mate-attraction signal",
+    "authors": "Mhatre, N., Malkin, R., Deb, R., Balakrishnan, R., and Robert, D.",
+    "journal": "eLife",
+    "year": 2017,
+    "url": "https://doi.org/10.7554/eLife.32763"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "Male tree crickets sing at night to call females. A louder song travels further, so more females hear it. But a tree cricket's wings are tiny, only about 9 millimetres long. Tiny wings make a weak sound. Some males cut a hole in a leaf and sing from inside it. Does the leaf help, and do they choose leaves well?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "Natasha Mhatre and Daniel Robert work at the University of Bristol in England. Rittik Deb and Rohini Balakrishnan work at the Centre for Ecological Sciences at the Indian Institute of Science, IISc, in Bengaluru. Robert Malkin, also from Bristol, worked with them. They studied an Indian tree cricket called Oecanthus henryi and published in 2017."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "First, the team measured how fast a singing cricket's wings shake, using a laser. Then they built a computer copy of a cricket on many different leaves. The computer worked out which leaf and hole made the loudest song. Finally, they gave real males a choice of a small leaf and a big leaf, and watched what they did.",
+      "img": {
+        "src": "media/research/tree-cricket-leaf-baffle-2.jpg",
+        "alt": "Two leaves of the plant the crickets live on. The bigger leaf has a small round hole cut by a cricket.",
+        "credit": "Figure 1D, Mhatre et al., eLife 2017, CC BY 4.0"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "The computer found three simple rules for the loudest song. Use the biggest leaf. Cut a hole just the size of your wings. Put it near the middle of the leaf. In the choice test, all 15 males that cut a hole chose the bigger leaf. Their holes were the right size, about 10 millimetres, and close to the middle.",
+      "img": {
+        "src": "media/research/tree-cricket-leaf-baffle-3.jpg",
+        "alt": "Sixteen close-up photos of holes that crickets chewed in leaves. Each hole is a slightly different oval.",
+        "credit": "Figure 3, supplement 1B, Mhatre et al., eLife 2017, CC BY 4.0"
+      }
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "The crickets' leaves reached nearly 90 percent of the best possible loudness. Most males cut only one hole, so they did not improve by trying again and again. The scientists think the rules are inborn, not learned, but they have not tested that yet. In the wild, only about one male in four sang from a leaf hole."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "People once thought insects only copy one fixed pattern, like a machine. These crickets choose the best material and shape it well. Loudspeaker makers face the same problem. A speaker box stops the sound from the front and the back of the speaker cancelling out. The cricket's leaf does this same job."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Make a phone louder, cricket style. Kavya plays a song quietly on a phone, lying flat on the table. Then she stands the phone in an empty steel tumbler or a paper cup. Does the song sound louder? Next she tries a bigger vessel, then a smaller one. Which one works best, and why might that be?"
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "The crickets cut a good hole on the first try, without being taught. Is that clever, or is it just how they are built? Some people say cleverness means learning something new. Others say it means doing a job well. Which do you think, and does it matter for a cricket?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "baffle",
+          "m": "a flat sheet around a sound maker that stops the sound from cancelling itself out"
+        },
+        {
+          "w": "tree cricket",
+          "m": "a small, pale green cricket that lives on plants and sings at night"
+        },
+        {
+          "w": "computer model",
+          "m": "a copy of something real, built inside a computer to test ideas"
+        },
+        {
+          "w": "laser",
+          "m": "a very narrow, strong beam of light that scientists use to measure things"
+        }
+      ]
+    }
+  ]
+}

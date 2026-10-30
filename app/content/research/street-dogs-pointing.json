@@ -1,0 +1,112 @@
+{
+  "id": "street-dogs-pointing",
+  "title": "Do street dogs understand when we point?",
+  "blurb": "Scientists from IISER Kolkata pointed at one of two covered bowls for over 200 street dogs. Most puppies followed the finger, but grown dogs were more careful.",
+  "topics": [
+    "sci.animals.animal-minds.L3",
+    "sci.animals.animals-around-us.L3",
+    "sci.me-and-others.me-and-others.L3"
+  ],
+  "tags": [
+    "dogs",
+    "India",
+    "puppies",
+    "thinking"
+  ],
+  "year": 2017,
+  "mins": 5,
+  "cover": {
+    "src": "media/research/street-dogs-pointing-1.jpg",
+    "alt": "A brown street dog standing on a paved road in Bengaluru, looking to the side.",
+    "credit": "iNaturalist user wilderbombyx, CC0, via iNaturalist"
+  },
+  "source": {
+    "name": "PLOS ONE (research paper)",
+    "title": "Free-ranging dogs show age related plasticity in their ability to follow human pointing",
+    "authors": "Debottam Bhattacharjee, Nikhil Dev N, Shreya Gupta, Shubhra Sau, Rohan Sarkar, Arpita Biswas, Arunita Banerjee, Daisy Babu, Diksha Mehta, Anindita Bhadra",
+    "year": 2017,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5513426/",
+    "license": "facts retold in our own words"
+  },
+  "original": {
+    "title": "Free-ranging dogs show age related plasticity in their ability to follow human pointing",
+    "authors": "Bhattacharjee, D., Nikhil Dev, N., Gupta, S., and others, with Bhadra, A.",
+    "journal": "PLOS ONE",
+    "year": 2017,
+    "url": "https://doi.org/10.1371/journal.pone.0180643"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "Pet dogs are good at following a pointing finger to find food. But pet dogs live with people and are trained. India has millions of street dogs who find their own food. People can be friends to them, or a danger. Do street dogs understand pointing too, and does it change as they grow up?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "Anindita Bhadra leads a lab at the Indian Institute of Science Education and Research, IISER Kolkata, in West Bengal, that studies street dogs. Debottam Bhattacharjee was the first author. Nikhil Dev, Shreya Gupta, Shubhra Sau, Rohan Sarkar, Arpita Biswas, Arunita Banerjee, Daisy Babu and Diksha Mehta also took part. They published in 2017."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "The team tested 68 puppies, 58 young dogs and 83 grown dogs, in markets, railway stations and streets of two towns in West Bengal. One scientist hid a piece of raw chicken under the cardboard lid of one of two bowls. Both bowls smelled of chicken, so smell could not help. A second scientist, who did not know which bowl had food, pointed at one.",
+      "img": {
+        "src": "media/research/street-dogs-pointing-2.jpg",
+        "alt": "A white and black street dog sniffing the edge of a road in Hyderabad.",
+        "credit": "Raja Sekhar Chimirala, CC BY 4.0, via iNaturalist"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "Almost 9 in 10 puppies came to the bowls, and most of them followed the pointing finger. Fewer young and grown dogs came close. Of those that did, about half followed the point. Young dogs looked back and forth between the person and the bowls the most. Only grown dogs changed what they did after learning whether the person could be trusted.",
+      "img": {
+        "src": "media/research/street-dogs-pointing-3.jpg",
+        "alt": "A bar graph comparing puppies, young dogs and grown dogs. More puppies followed the pointing than the older dogs.",
+        "credit": "Figure 1, Bhattacharjee et al., PLOS ONE 2017, CC BY 4.0"
+      }
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "Over 200 dogs took part, which is a lot for a study like this. But all were from one part of West Bengal. The dogs were free to walk away, so many never came near the bowls. That makes testing harder. Scientists think puppies are born ready to follow people, and older dogs learn to be careful."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "Street dogs live closely with people, without being anyone's pet. Understanding how they think helps people and dogs live together safely. It also shows that following a human point does not need training. Puppies can do it, and grown dogs use what life has taught them about whether people can be trusted."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Only with a pet dog you know, and with a parent. Harini puts two upturned cups on the floor, with a treat under one. She calls the dog, then points at the cup with the treat, without touching it. Does the dog go to that cup? Try five times, hiding the treat under a different cup each time."
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "Puppies trusted the pointing person easily, but grown dogs were more careful. Is it better to trust everyone, or to be careful until you know someone? Think of a time you trusted someone new. What helped you decide?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "free-ranging dog",
+          "m": "a dog that lives freely on the streets and finds their own food"
+        },
+        {
+          "w": "pointing cue",
+          "m": "a signal, like a pointed finger, that shows where to look"
+        },
+        {
+          "w": "gaze alternation",
+          "m": "looking back and forth between a person and a thing"
+        },
+        {
+          "w": "trust",
+          "m": "believing that someone will not trick or hurt you"
+        }
+      ]
+    }
+  ]
+}
