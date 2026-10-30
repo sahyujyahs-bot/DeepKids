@@ -1,0 +1,117 @@
+{
+  "id": "sea-turtles-hot-sand",
+  "title": "Does hot sand make more girl sea turtles?",
+  "blurb": "Warm sand makes turtle eggs hatch as girls. On warm beaches of the Great Barrier Reef, almost all young green turtles are now female.",
+  "topics": [
+    "sci.animals.animal-life-cycles.L3",
+    "sci.energy.heat.L3",
+    "sci.habitats.water-habitats.L3",
+    "sci.habitats.adaptations.L3"
+  ],
+  "tags": [
+    "turtles",
+    "ocean",
+    "heat",
+    "eggs"
+  ],
+  "year": 2018,
+  "mins": 5,
+  "cover": {
+    "src": "media/research/sea-turtles-hot-sand-1.jpg",
+    "alt": "Two tiny baby green sea turtles crawling across the sand towards the sea.",
+    "credit": "Mark Sullivan/NOAA (public domain)"
+  },
+  "source": {
+    "name": "NOAA Fisheries",
+    "title": "Rising Temperatures Turning Major Sea Turtle Population Female",
+    "authors": "NOAA Fisheries Southwest Fisheries Science Center",
+    "year": 2018,
+    "url": "https://www.fisheries.noaa.gov/news/rising-temperatures-turning-major-sea-turtle-population-female",
+    "license": "Public domain (US government work)"
+  },
+  "original": {
+    "title": "Environmental Warming and Feminization of One of the Largest Sea Turtle Populations in the World",
+    "authors": "Michael P. Jensen, Camryn D. Allen, Tomoharu Eguchi, Ian P. Bell and others, with Peter H. Dutton",
+    "journal": "Current Biology",
+    "year": 2018,
+    "url": "https://doi.org/10.1016/j.cub.2017.11.057"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "A mother sea turtle digs a hole in the beach and lays her eggs in the sand. The warmth of the sand decides whether each baby becomes a girl or a boy. Warmer sand makes more girls. Beaches are getting hotter. So are fewer boy turtles being born now?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "Michael Jensen of NOAA Fisheries in California led the study. Camryn Allen of NOAA Fisheries in Hawaii worked out how to tell a turtle's sex from a blood test. Scientists from Queensland in Australia and from WWF-Australia joined them. They published in January 2018."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "The team worked on Australia's Great Barrier Reef, where many green turtles feed. They caught hundreds of turtles of all ages, took a little blood, and let them go. Hormones in the blood showed whether each turtle was female or male. Genes in the blood showed which beach each turtle had hatched on: the warmer north, or the cooler south.",
+      "img": {
+        "src": "media/research/sea-turtles-hot-sand-2.jpg",
+        "alt": "Green sea turtles resting at the edge of the water on a beach, with a small boat and a cloudy evening sky behind.",
+        "credit": "NOAA Fisheries Southwest Fisheries Science Center (public domain)"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "Turtles from the cooler southern beaches were about two-thirds female. Turtles from the warm northern beaches were almost all female. About 87 of every 100 adults were girls. Among the young ones, 99 of every 100 were girls. So for about 20 years, the northern beaches have made hardly any boys.",
+      "img": {
+        "src": "media/research/sea-turtles-hot-sand-3.jpg",
+        "alt": "A big adult green sea turtle on wet sand at the edge of a calm, blue sea.",
+        "credit": "NOAA Fisheries (public domain)"
+      }
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "Hundreds of turtles were tested, and the blood test had been checked against other methods, so the numbers are strong. But this is one region. Scientists do not yet know how many males are needed to keep the group healthy. A few males can mate with many females, so the group may cope for a while."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "About 200,000 female turtles nest on the northern beaches, one of the biggest groups of green turtles in the world. If almost no males hatch for many years, the group could shrink. People may need to cool some nests, for example with shade or water. India's olive ridley turtles, which nest in Odisha, also hatch as girls or boys depending on the warmth of the sand."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Is sand warmer in the sun or the shade? Ask a parent for two small bowls of sand. Swathi puts one bowl in a sunny spot and one in the shade for an hour. Then she pushes a finger into each, gently. Which feels warmer deep down? Mother turtles choose where to dig, so the spot matters."
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "Some people want to shade turtle nests or move eggs to cooler places, to make more boys. Others say we should not interfere with wild animals. Should people help the turtles this way? Or should we only try to stop the Earth from warming? Deepa and her grandfather talk about it. What do you think?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "hatchling",
+          "m": "a baby animal that has just come out of their egg"
+        },
+        {
+          "w": "hormone",
+          "m": "a chemical message in the blood that tells the body what to do"
+        },
+        {
+          "w": "female",
+          "m": "a girl or woman, or the animal that lays eggs or has babies"
+        },
+        {
+          "w": "male",
+          "m": "a boy or man, or the animal that is the father"
+        },
+        {
+          "w": "nest",
+          "m": "the hole in the sand where a mother turtle lays her eggs"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "bennu-asteroid-sample",
+  "title": "What did NASA find in dust from an asteroid?",
+  "blurb": "A spacecraft brought dust from asteroid Bennu to Earth. Inside were many of the building blocks living things are made from, and old salt.",
+  "topics": [
+    "sci.sky.moons-asteroids-comets.L3",
+    "sci.what-is-life.edge-of-life.L3",
+    "sci.states.evaporation-and-condensation.L3"
+  ],
+  "tags": [
+    "asteroids",
+    "space",
+    "life",
+    "salt"
+  ],
+  "year": 2025,
+  "mins": 6,
+  "cover": {
+    "src": "media/research/bennu-asteroid-sample-1.jpg",
+    "alt": "A black, rounded space capsule sitting on the desert ground after landing, with small bushes around it.",
+    "credit": "NASA/Keegan Barber (public domain)"
+  },
+  "source": {
+    "name": "NASA",
+    "title": "NASA's Asteroid Bennu Sample Reveals Mix of Life's Ingredients",
+    "authors": "NASA",
+    "year": 2025,
+    "url": "https://www.nasa.gov/news-release/nasas-asteroid-bennu-sample-reveals-mix-of-lifes-ingredients/",
+    "license": "Public domain (US government work)"
+  },
+  "original": {
+    "title": "Abundant ammonia and nitrogen-rich soluble organic matter in samples from asteroid (101955) Bennu",
+    "authors": "Daniel P. Glavin, Jason P. Dworkin and others",
+    "journal": "Nature Astronomy",
+    "year": 2025,
+    "url": "https://doi.org/10.1038/s41550-024-02472-9"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "How did life on Earth begin? The first living things needed certain building blocks. Some scientists think space rocks brought some of them to early Earth. Asteroids are leftovers from when the planets formed, so they are like time capsules. What is inside one?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "NASA's OSIRIS-REx spacecraft collected the dust. Danny Glavin and Jason Dworkin of NASA's Goddard Space Flight Center led the search for life's building blocks. Tim McCoy of the Smithsonian museum and Sara Russell of the Natural History Museum in London led the search for minerals. They published in January 2025."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "The spacecraft flew to asteroid Bennu, touched the surface and grabbed rock and dust. It flew back to Earth and dropped a capsule, which landed in a desert in the USA in September 2023. Scientists opened it in super-clean rooms, so Earth dust and germs could not mix in. Then they tested tiny pinches in their labs.",
+      "img": {
+        "src": "media/research/bennu-asteroid-sample-2.jpg",
+        "alt": "A black and white photo of a triangle-shaped metal tray full of dark grey pebbles and dust from asteroid Bennu, with a ruler along the edge.",
+        "credit": "NASA/Erika Blumenfeld and Joseph Aebersold (public domain)"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "They found 14 of the 20 amino acids that living things on Earth use to build proteins. They found all 5 of the bases used in DNA and RNA, the instruction molecules of life. There was lots of ammonia too. And they found 11 kinds of salt crystals. These form when salty water dries up slowly.",
+      "img": {
+        "src": "media/research/bennu-asteroid-sample-3.jpg",
+        "alt": "A small glass bottle holding a pinch of dark dust from asteroid Bennu, inside a NASA lab.",
+        "credit": "NASA (public domain)"
+      }
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "The scientists found ingredients for life, not life itself. Because the sample was kept so clean, they are confident these came from Bennu, not from Earth. One puzzle remains. Amino acids come in left-handed and right-handed shapes. Life on Earth uses almost only left-handed ones, but Bennu had equal amounts of both."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "The salts show Bennu's parent rock once had salty water, which slowly dried up. That water could have been a soup where life's ingredients mixed. If such ingredients were common across the solar system, life might have had chances to start in other places too."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Bennu's salts formed when salty water dried up. Shalini stirs a spoon of salt into half a cup of warm water. She pours a little onto a dark plate and leaves it on a sunny windowsill for two or three days. What is left when the water is gone? Look closely with a magnifying glass."
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "Bennu had many of life's building blocks, but no life. So is having the right ingredients enough to make something alive? Or is something more needed? Keerthi thinks life will start wherever the ingredients mix for long enough. Her grandmother is not so sure. What do you think?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "asteroid",
+          "m": "a big rock that goes around the Sun"
+        },
+        {
+          "w": "sample",
+          "m": "a small amount of something, taken to study"
+        },
+        {
+          "w": "amino acids",
+          "m": "small building blocks that join up to make proteins"
+        },
+        {
+          "w": "protein",
+          "m": "a material bodies use to build muscles, skin and much more"
+        },
+        {
+          "w": "DNA",
+          "m": "the molecule in every cell that carries the instructions for life"
+        }
+      ]
+    }
+  ]
+}

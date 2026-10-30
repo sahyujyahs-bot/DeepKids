@@ -1,0 +1,117 @@
+{
+  "id": "twins-study-space",
+  "title": "What does a year in space do to your body?",
+  "blurb": "Astronaut Scott Kelly spent almost a year in space while his identical twin Mark stayed on Earth. Scientists compared the two brothers.",
+  "topics": [
+    "sci.sky.exploring-space.L3",
+    "sci.body.immune-system.L3",
+    "sci.body.body-parts.L3",
+    "sci.gravity.weight-and-mass.L3"
+  ],
+  "tags": [
+    "astronauts",
+    "twins",
+    "body",
+    "space station"
+  ],
+  "year": 2019,
+  "mins": 6,
+  "cover": {
+    "src": "media/research/twins-study-space-1.jpg",
+    "alt": "Two bald, smiling men who look exactly alike, the identical twin astronauts Mark and Scott Kelly, fist-bumping through a glass window.",
+    "credit": "NASA/Bill Ingalls (public domain)"
+  },
+  "source": {
+    "name": "NASA",
+    "title": "NASA's Twins Study Results Published in Science Journal",
+    "authors": "NASA Human Research Program",
+    "year": 2019,
+    "url": "https://www.nasa.gov/humans-in-space/nasas-twins-study-results-published-in-science-journal/",
+    "license": "Public domain (US government work)"
+  },
+  "original": {
+    "title": "The NASA Twins Study: A multidimensional analysis of a year-long human spaceflight",
+    "authors": "Francine E. Garrett-Bakelman, Manjula Darshi and others",
+    "journal": "Science",
+    "year": 2019,
+    "url": "https://doi.org/10.1126/science.aau8650"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "A trip to Mars and back could take three years. Astronauts would float, eat packet food and get more radiation than on Earth. What does a long time in space do to the human body? And does the body go back to normal on Earth?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "NASA brought together ten research teams from across the USA. Francine Garrett-Bakelman of Weill Cornell Medicine was the first author of their joint report. The two people studied were real astronauts: Scott Kelly and his identical twin brother Mark Kelly. The report came out in 2019."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "Identical twins share the same genes, the instructions inside our cells. So Mark on Earth showed how Scott would have been if he had not gone. Scott lived on the International Space Station from March 2015 to March 2016. Both brothers gave blood, urine and poo samples, and did memory tests, before, during and after.",
+      "img": {
+        "src": "media/research/twins-study-space-2.jpg",
+        "alt": "Astronaut Scott Kelly floating in the space station and giving himself a flu vaccine in the arm.",
+        "credit": "NASA/Scott Kelly (public domain)"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "In space, the caps at the ends of Scott's DNA, called telomeres, grew longer. Within days back on Earth, most shrank again. The germs in his gut changed, then went back to normal. His body lost 7% of its weight. A flu vaccine worked normally in space. Most changes faded after landing, but a few lasted six months.",
+      "img": {
+        "src": "media/research/twins-study-space-3.jpg",
+        "alt": "Scott and Mark Kelly standing side by side next to an aeroplane, one in a red hoodie.",
+        "credit": "NASA (public domain)"
+      }
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "This study had just one astronaut in space and one twin on Earth. That is very few people. Some changes could have come from stress, food or a busy schedule, not space itself. Scott's DNA did not turn into different DNA. Scientists are now studying more astronauts to check these results."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "The good news is that a human body can cope with a year in space and mostly recover. The study also shows what to watch on longer trips, like Mars. Some findings may help people on Earth too. Telomeres, for example, are linked to how bodies get older."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Twins help scientists compare fairly, because only one thing is different. Try a fair test. Anjali plants two bean seeds in two cups with the same soil and water. One cup sits by a window. The other sits in a dark cupboard. After a week, how are the two plants different?"
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "Scott and Mark agreed to share their blood, health and DNA results with scientists. Would you share facts about your body if it helped future astronauts? What would you want to keep private? Is there a fair way for scientists to learn from people and still respect them?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "identical twins",
+          "m": "two babies who grew from the same egg and share the same genes"
+        },
+        {
+          "w": "genes",
+          "m": "instructions inside every cell that help decide how a body grows and works"
+        },
+        {
+          "w": "telomere",
+          "m": "a cap at the end of a DNA strand, like the plastic tip on a shoelace"
+        },
+        {
+          "w": "vaccine",
+          "m": "medicine that trains the body to fight a germ"
+        },
+        {
+          "w": "radiation",
+          "m": "invisible energy from space and the Sun that can harm cells"
+        }
+      ]
+    }
+  ]
+}

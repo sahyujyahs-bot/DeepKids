@@ -1,0 +1,116 @@
+{
+  "id": "dart-asteroid-nudge",
+  "title": "Can we push an asteroid off its path?",
+  "blurb": "NASA crashed a spacecraft into a small asteroid on purpose. The asteroid's trip around its bigger partner got 33 minutes shorter.",
+  "topics": [
+    "sci.sky.moons-asteroids-comets.L3",
+    "sci.forces.changing-motion.L3",
+    "sci.motion.newtons-laws.L3"
+  ],
+  "tags": [
+    "asteroids",
+    "space",
+    "crash",
+    "planet Earth"
+  ],
+  "year": 2023,
+  "mins": 6,
+  "cover": {
+    "src": "media/research/dart-asteroid-nudge-1.jpg",
+    "alt": "A drawing of the DART spacecraft, a box with two long solar panels, flying towards two grey asteroids in space.",
+    "credit": "NASA/Johns Hopkins APL (illustration, public domain)"
+  },
+  "source": {
+    "name": "NASA",
+    "title": "NASA Confirms DART Mission Impact Changed Asteroid's Motion in Space",
+    "authors": "NASA",
+    "year": 2022,
+    "url": "https://www.nasa.gov/news-release/nasa-confirms-dart-mission-impact-changed-asteroids-motion-in-space/",
+    "license": "Public domain (US government work)"
+  },
+  "original": {
+    "title": "Orbital period change of Dimorphos due to the DART kinetic impact",
+    "authors": "Cristina A. Thomas, Shantanu P. Naidu and others",
+    "journal": "Nature",
+    "year": 2023,
+    "url": "https://doi.org/10.1038/s41586-023-05805-2"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "Asteroids are big rocks that go around the Sun. Long ago, one hit Earth and the dinosaurs died out. None is coming towards us now. But if one ever did, could we push it onto a different path? Nobody had ever tried to move an asteroid. So NASA decided to test it."
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "The DART mission was built by the Johns Hopkins Applied Physics Laboratory in the USA, for NASA. Nancy Chabot led the planning. After the crash, astronomers led by Cristina Thomas of Northern Arizona University and Shantanu Naidu of NASA's Jet Propulsion Laboratory measured what changed. They published the result in 2023."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "The target was a pair of asteroids. A small one called Dimorphos, about 150 metres wide, goes round a bigger one called Didymos. DART launched in 2021. On 26 September 2022 it flew straight into Dimorphos at about 22,500 km an hour. Then telescopes in Chile, South Africa and the USA timed how long Dimorphos took to go round.",
+      "img": {
+        "src": "media/research/dart-asteroid-nudge-3.jpg",
+        "alt": "A tall rocket lifting off into a cloudy sky at night, with bright fire and smoke below.",
+        "credit": "NASA/Bill Ingalls (public domain)"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "Before the crash, Dimorphos took 11 hours and 55 minutes to go once round Didymos. After the crash, it took about 33 minutes less. NASA had hoped for a change of just over one minute. The crash also blasted tonnes of rock and dust into space. That flying rock pushed Dimorphos even more, like air rushing out of a balloon.",
+      "img": {
+        "src": "media/research/dart-asteroid-nudge-2.jpg",
+        "alt": "A room full of people in blue shirts cheering and clapping in front of computer screens.",
+        "credit": "NASA/Dave C. Bowman (public domain)"
+      }
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "Many telescopes measured the change, so scientists are very sure the asteroid moved. But this was one test, on one kind of asteroid. Dimorphos turned out to be a loose pile of rubble. A solid asteroid might move differently. A European spacecraft called Hera is going to visit and look at the crater."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "This was the first time people changed how something in space moves. It shows a crash can nudge an asteroid. If we spot a dangerous one early, even a small nudge could make it miss Earth. Neither Dimorphos nor Didymos was ever a danger to us. They were chosen because they were safe to test on."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Ask a parent to tie a small ball to a string and hang it from a door handle. Kavya swings the ball gently in circles. Then she flicks a scrunched paper ball at it. Does the swinging ball change its path? Now try a heavier ball. Which one is easier to push off course?"
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "If an asteroid were coming, one country might send the spacecraft. But pushing it would change where it goes, for everyone. Should one country decide alone? Or should all countries agree first, even if that takes longer? Meenakshi thinks speed matters most. Her sister thinks agreeing matters most. What do you think?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "asteroid",
+          "m": "a big rock that goes around the Sun"
+        },
+        {
+          "w": "orbit",
+          "m": "the path one thing takes going round and round another"
+        },
+        {
+          "w": "planetary defence",
+          "m": "ways to protect Earth from rocks coming from space"
+        },
+        {
+          "w": "crater",
+          "m": "a bowl-shaped hole made when something hits the ground hard"
+        },
+        {
+          "w": "telescope",
+          "m": "a tool that makes faraway things look bigger and brighter"
+        }
+      ]
+    }
+  ]
+}

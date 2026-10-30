@@ -1,0 +1,117 @@
+{
+  "id": "enceladus-ocean-phosphorus",
+  "title": "Does a moon of Saturn have the ingredients for life?",
+  "blurb": "Saturn's small moon Enceladus sprays water from a hidden ocean. Scientists found phosphorus, a key ingredient for life, in that spray.",
+  "topics": [
+    "sci.sky.life-beyond-earth.L3",
+    "sci.sky.solar-system.L3",
+    "sci.sky.moons-asteroids-comets.L3",
+    "sci.what-is-life.signs-of-life.L3"
+  ],
+  "tags": [
+    "Saturn",
+    "moons",
+    "oceans",
+    "life"
+  ],
+  "year": 2023,
+  "mins": 6,
+  "cover": {
+    "src": "media/research/enceladus-ocean-phosphorus-1.jpg",
+    "alt": "The curved edge of Saturn's moon Enceladus in darkness, with bright jets of icy spray shooting up into space.",
+    "credit": "NASA/JPL/Space Science Institute (public domain)"
+  },
+  "source": {
+    "name": "NASA",
+    "title": "NASA Cassini Data Reveals Building Block for Life in Enceladus' Ocean",
+    "authors": "NASA Jet Propulsion Laboratory",
+    "year": 2023,
+    "url": "https://www.nasa.gov/missions/cassini/nasa-cassini-data-reveals-building-block-for-life-in-enceladus-ocean/",
+    "license": "Public domain (US government work)"
+  },
+  "original": {
+    "title": "Detection of phosphates originating from Enceladus's ocean",
+    "authors": "Frank Postberg, Yasuhito Sekine, Fabian Klenner, Christopher R. Glein and others",
+    "journal": "Nature",
+    "year": 2023,
+    "url": "https://doi.org/10.1038/s41586-023-05987-9"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "Enceladus is a small, icy moon of Saturn. Under its ice is an ocean of salty water. Through cracks near its south pole, water sprays out into space like fountains. Living things need water, but also other ingredients. Does this hidden ocean have them all? One was still missing: phosphorus."
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "Frank Postberg, a planet scientist at the Free University of Berlin in Germany, led the study. Scientists in Europe, Japan and the USA worked with him, including Christopher Glein of the Southwest Research Institute. They used data from NASA's Cassini spacecraft. They published in June 2023."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "Cassini went round Saturn from 2004 to 2017. The icy spray from Enceladus feeds a faint ring of Saturn, called the E ring. Cassini flew through that ring many times. A tool on board, the Cosmic Dust Analyzer, caught tiny ice grains and found out what was inside each one. The team studied these old records again.",
+      "img": {
+        "src": "media/research/enceladus-ocean-phosphorus-2.jpg",
+        "alt": "A cutaway drawing of Enceladus showing a thick white ice shell, a blue ocean beneath it, and a rocky centre, with spray coming out at the bottom.",
+        "credit": "NASA/JPL-Caltech (illustration, public domain)"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "Some ice grains held phosphates, which are phosphorus joined with other elements. Lab tests showed the ocean has at least 100 times more phosphate than Earth's oceans. It was the first time phosphorus was found in an ocean beyond Earth. Living things use phosphorus in DNA, bones, and in the molecules that carry energy in cells.",
+      "img": {
+        "src": "media/research/enceladus-ocean-phosphorus-3.jpg",
+        "alt": "A drawing of the white, cracked moon Enceladus with a pale blue plume of spray rising from the bottom.",
+        "credit": "NASA/JPL-Caltech (illustration, public domain)"
+      }
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "The phosphate signal was clear in the ice grains, and lab tests backed it up. But having the ingredients is not the same as having life. Nobody has found life on Enceladus, or anywhere beyond Earth. Whether life could start in that ocean is still an open question."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "Enceladus now seems to have water, salts, carbon-based chemicals and phosphorus. That makes it one of the best places to look for life in our solar system. The team's models also suggest other icy moons with oceans could have lots of phosphate too. Future missions may go and sample the spray directly."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Cassini learned about a hidden ocean from the spray coming out. Try a guessing game. Ask a parent to put a little lemon juice, sugar or salt in three cups of water, without telling you which. Malini dips a clean spoon in each and tastes one drop. Can she tell what is hidden inside each cup?"
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "If we found tiny living things in the ocean of Enceladus, should we bring some back to Earth to study? Or should we leave them alone in their own home? Amrita wants to study them closely. Her friend worries they could be harmed. What would you decide?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "moon",
+          "m": "a natural world that goes round a planet"
+        },
+        {
+          "w": "plume",
+          "m": "a tall spray of gas or water shooting upwards"
+        },
+        {
+          "w": "phosphorus",
+          "m": "an element living things need for DNA, bones and energy"
+        },
+        {
+          "w": "phosphate",
+          "m": "phosphorus joined with oxygen, the form living things use"
+        },
+        {
+          "w": "element",
+          "m": "a basic substance that cannot be split into simpler ones, like iron or oxygen"
+        }
+      ]
+    }
+  ]
+}

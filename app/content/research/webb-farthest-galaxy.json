@@ -1,0 +1,116 @@
+{
+  "id": "webb-farthest-galaxy",
+  "title": "How far back in time can a telescope see?",
+  "blurb": "The James Webb Space Telescope spotted a galaxy whose light left it when the universe was very young, less than 300 million years old.",
+  "topics": [
+    "sci.light.what-is-light.L3",
+    "sci.sky.stargazing.L3",
+    "sci.sky.history-of-astronomy.L3"
+  ],
+  "tags": [
+    "galaxies",
+    "telescope",
+    "light",
+    "space"
+  ],
+  "year": 2024,
+  "mins": 6,
+  "cover": {
+    "src": "media/research/webb-farthest-galaxy-1.jpg",
+    "alt": "A Webb telescope picture of a black sky full of tiny glowing galaxies, with a box zooming in on one small reddish blob.",
+    "credit": "NASA, ESA, CSA, STScI, B. Robertson, B. Johnson, S. Tacchella, P. Cargile (public domain)"
+  },
+  "source": {
+    "name": "NASA",
+    "title": "NASA's James Webb Space Telescope Finds Most Distant Known Galaxy",
+    "authors": "Stefano Carniani and Kevin Hainline, for NASA",
+    "year": 2024,
+    "url": "https://science.nasa.gov/blogs/webb/2024/05/30/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy/",
+    "license": "Public domain (US government work)"
+  },
+  "original": {
+    "title": "Spectroscopic confirmation of two luminous galaxies at a redshift of 14",
+    "authors": "Stefano Carniani, Kevin Hainline and others",
+    "journal": "Nature",
+    "year": 2024,
+    "url": "https://doi.org/10.1038/s41586-024-07860-9"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "Light takes time to travel. Light from the Sun takes about eight minutes to reach us. So when we look far away, we see things as they were long ago. The universe began about 13.8 billion years ago. How close to that beginning can we see? When did the first galaxies, giant groups of stars, appear?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "The team is called JADES, short for the JWST Advanced Deep Extragalactic Survey. Stefano Carniani of the Scuola Normale Superiore in Italy and Kevin Hainline of the University of Arizona wrote about the discovery. Many astronomers from different countries worked on it. They announced it in May 2024."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "The James Webb Space Telescope has a huge gold mirror and sees infrared light, which our eyes cannot see. As the universe stretches, light from far galaxies gets stretched too, into infrared. Webb took deep pictures of one small patch of sky. Then it split one galaxy's faint light into colours for almost ten hours, to measure exactly how stretched it was.",
+      "img": {
+        "src": "media/research/webb-farthest-galaxy-2.jpg",
+        "alt": "A drawing of the James Webb Space Telescope in space, with a gold honeycomb mirror on top of a big, flat, shiny sunshield.",
+        "credit": "NASA (illustration, public domain)"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "The galaxy is called JADES-GS-z14-0. Its light left it less than 300 million years after the universe began. At that time, it was the farthest galaxy ever confirmed. It was surprisingly bright and big, more than 1,600 light-years across. Scientists did not expect such a large galaxy so early. It even had some dust.",
+      "img": {
+        "src": "media/research/webb-farthest-galaxy-3.jpg",
+        "alt": "A graph from Webb showing the galaxy's light spread out by colour, with a sharp step that tells scientists its distance.",
+        "credit": "NASA, ESA, CSA, Joseph Olmsted (STScI), science by S. Carniani and the JADES Collaboration (public domain)"
+      }
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "The team first saw the galaxy in 2023, but waited. It was oddly bright and sat close to another galaxy. Only after splitting its light did they become sure. Records keep falling. In 2025, another Webb team confirmed a galaxy called MoM-z14, seen a little earlier still. Webb may find even older ones."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "Computer models of the young universe did not predict galaxies this big and bright so early. So scientists now must rethink how the first stars and galaxies grew. Each new old galaxy is a clue about how the universe went from a hot cloud of gas to stars, planets and us."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Webb sees light that has been stretched. Try stretching a wave. Aishwarya draws a short wavy line on a balloon with a marker, before blowing it up. Then she blows up the balloon slowly. What happens to the waves as the balloon grows? They get longer and farther apart, like light in a stretching universe."
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "When you look at a star tonight, you see light that left it long ago. Some of those stars may have changed since then. So are you seeing the star, or only its past? Is the past real, if you can still see it? Talk about it with your family."
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "galaxy",
+          "m": "a giant group of billions of stars, like our Milky Way"
+        },
+        {
+          "w": "infrared",
+          "m": "a kind of light just past red, which our eyes cannot see but we feel as warmth"
+        },
+        {
+          "w": "light-year",
+          "m": "how far light travels in one year, used to measure huge distances"
+        },
+        {
+          "w": "Big Bang",
+          "m": "the beginning of the universe, about 13.8 billion years ago"
+        },
+        {
+          "w": "redshift",
+          "m": "how much light from far away has been stretched towards red"
+        }
+      ]
+    }
+  ]
+}
