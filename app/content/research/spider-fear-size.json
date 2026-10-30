@@ -1,0 +1,116 @@
+{
+  "id": "spider-fear-size",
+  "title": "Do spiders look bigger to people who are afraid of them?",
+  "blurb": "Two scientists argued about the size of a spider on a desk. So they designed an experiment to settle the argument.",
+  "topics": [
+    "sci.senses.perception.L3",
+    "sci.health.feelings-and-wellbeing.L3",
+    "sci.mind.thinking-and-memory.L3"
+  ],
+  "tags": [
+    "spiders",
+    "fear",
+    "brain",
+    "feelings"
+  ],
+  "year": 2016,
+  "mins": 5,
+  "cover": {
+    "src": "media/research/spider-fear-size-1.jpg",
+    "alt": "A drawing of the idea: a scared face sees a big spider, and a calm face sees a small spider.",
+    "credit": "Figure 1, Leibovich, Cohen and Henik, Frontiers for Young Minds, CC BY 4.0"
+  },
+  "source": {
+    "name": "Frontiers for Young Minds",
+    "title": "Itsy Bitsy Spider? It Depends…",
+    "authors": "Tali Leibovich, Noga Cohen and Avishai Henik",
+    "year": 2016,
+    "url": "https://kids.frontiersin.org/articles/10.3389/frym.2016.00029",
+    "license": "CC BY 4.0"
+  },
+  "original": {
+    "title": "Itsy bitsy spider?: valence and self-relevance predict size estimation",
+    "authors": "Leibovich, T., Cohen, N., and Henik, A.",
+    "journal": "Biological Psychology",
+    "year": 2016,
+    "url": "https://doi.org/10.1016/j.biopsycho.2016.01.009"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "One day a spider crawled across a desk in a science lab. Tali, who is afraid of spiders, thought the spider was gigantic. Noga thought the spider was small. They had looked at the very same spider. Can fear really change how big something seems to us?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "Tali Leibovich, Noga Cohen and Avishai Henik are psychologists, scientists who study the mind. Avishai is a professor at Ben-Gurion University of the Negev in Israel. Tali is afraid of spiders and Noga is not, which is how the question began. They published their study in 2016."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "First, people answered 30 questions about how afraid of spiders they were. Only the very afraid and the not afraid took part. Then each person saw a line with a fly at one end and a rabbit at the other. For each animal pictured, they clicked where the real size fitted on the line. Last, they rated how unpleasant each picture felt.",
+      "img": {
+        "src": "media/research/spider-fear-size-2.jpg",
+        "alt": "Examples from the study: fear questions, a line from a fly to a rabbit for judging size, and a line for judging how unpleasant a picture is.",
+        "credit": "Figure 2, Leibovich, Cohen and Henik, Frontiers for Young Minds, CC BY 4.0"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "People afraid of spiders put the spider further towards the rabbit. They thought spiders are bigger in real life. They did the same for beetles, which look a bit like spiders. Both groups judged butterflies the same. Wasps felt more unpleasant to the spider-fearing group, but were not judged bigger.",
+      "img": {
+        "src": "media/research/spider-fear-size-3.jpg",
+        "alt": "Bar graphs of size and unpleasantness for spider, beetle, wasp and butterfly, for people afraid and not afraid of spiders.",
+        "credit": "Figure 3, Leibovich, Cohen and Henik, Frontiers for Young Minds, CC BY 4.0"
+      }
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "The team used statistics to check that the spider difference was real and not luck. Other studies found something similar, for example with real spiders in jars. But nobody knows yet which comes first. Does seeing spiders as big cause the fear? Or does the fear make spiders seem big? That needs more studies."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "Our eyes are not cameras. What we feel changes what we think we see. Knowing why some people fear spiders could help scientists find ways to help them feel less afraid. So when a friend says a spider is huge, remember this. To your friend, the spider may really seem huge."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Rukmini draws a long line on paper, with an ant at one end and a cat at the other. Each person in her family marks where a cockroach, a butterfly and a spider fit by real size. She also asks who is scared of each one. Do scared people put the scary animal further along the line?"
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "Tali and Noga looked at one spider and saw different sizes. A ruler could say how long the spider really was. But how big the spider felt was also real to each of them. If everyone sees the world a little differently, can two people ever see exactly the same thing?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "estimate",
+          "m": "a careful guess about a size or amount"
+        },
+        {
+          "w": "hypothesis",
+          "m": "what you think will happen, before you test it"
+        },
+        {
+          "w": "questionnaire",
+          "m": "a list of questions that people answer"
+        },
+        {
+          "w": "psychologist",
+          "m": "a scientist who studies the mind and feelings"
+        },
+        {
+          "w": "significant",
+          "m": "a difference big enough that it is probably real, not luck"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "butterfly-15-light-sensors",
+  "title": "How many colours can a butterfly see?",
+  "blurb": "We have three kinds of colour-sensing cells in our eyes. Scientists found a butterfly with at least 15 kinds.",
+  "topics": [
+    "sci.light.colour.L3",
+    "sci.light.how-we-see.L3",
+    "sci.senses.five-senses.L3"
+  ],
+  "tags": [
+    "butterflies",
+    "colours",
+    "eyes",
+    "light"
+  ],
+  "year": 2016,
+  "mins": 6,
+  "cover": {
+    "src": "media/research/butterfly-15-light-sensors-2.jpg",
+    "alt": "Graphs of the colour-sensing cells of a person, a bee and a bird, and photos of two yellow butterflies that look different in ultraviolet light.",
+    "credit": "Figure 2, Chen, Stewart and Arikawa, Frontiers for Young Minds, CC BY 4.0"
+  },
+  "source": {
+    "name": "Frontiers for Young Minds",
+    "title": "The More, the Better? A Butterfly with 15 Kinds of Light Sensors in Its Eye",
+    "authors": "Pei-Ju Chen, Finlay J. Stewart and Kentaro Arikawa",
+    "year": 2018,
+    "url": "https://kids.frontiersin.org/articles/10.3389/frym.2017.00070",
+    "license": "CC BY 4.0"
+  },
+  "original": {
+    "title": "Extreme spectral richness in the eye of the common bluebottle butterfly, Graphium sarpedon",
+    "authors": "Chen, P.-J., Awata, H., Matsushita, A., Yang, E.-C., and Arikawa, K.",
+    "journal": "Frontiers in Ecology and Evolution",
+    "year": 2016,
+    "url": "https://doi.org/10.3389/fevo.2016.00018"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "We see colours because our eyes have three kinds of light-sensing cells, for red, green and blue light. The brain compares them to make every colour we see. Honey bees also have three kinds. What about butterflies? And does having more kinds of light-sensing cells mean seeing more colours?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "Pei-Ju Chen, Kentaro Arikawa and their team study insect eyes and brains at Sokendai, a university for advanced studies. Pei-Ju comes from Taiwan, an island very rich in butterflies, and Kentaro is a professor there. They published their study of the common bluebottle butterfly in 2016."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "Scientists cannot ask a butterfly what colours they see. So they measure the eye instead. They place a very fine probe, called an electrode, into one light-sensing cell. Then they shine one colour of light at a time on the eye, step by step, from ultraviolet to red. The cell's electric signal shows which colours the cell answers to.",
+      "img": {
+        "src": "media/research/butterfly-15-light-sensors-1.jpg",
+        "alt": "Graphs of light-sensing cells in four animals, with many overlapping curves for the common bluebottle butterfly.",
+        "credit": "Figure 3, Chen, Stewart and Arikawa, Frontiers for Young Minds, CC BY 4.0"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "The common bluebottle butterfly has at least 15 kinds of light-sensing cells. That is the most ever found in an insect. A related butterfly, the Japanese yellow swallowtail, has six kinds. In some butterflies, males and females even differ. In the small white butterfly, only the females have cells that sense violet light."
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "Nobody knows yet if the bluebottle sees more colours than we do. Mantis shrimp have up to 16 kinds of sensors, but see colour poorly. The team thinks the bluebottle uses only four kinds for colour, like a close relative. The other 11 might spot fast movement against the sky, or mates and enemies. Only tests of butterfly behaviour can tell."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "Many flowers have ultraviolet patterns that we cannot see but bees can. Male and female yellow butterflies look the same to us, but show different ultraviolet patterns. Learning how insect eyes work could help build drones that steer themselves like insects. It might also help farmers keep pests away with light instead of chemicals."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "White light is a mix of all colours. In a dark room, Vaishnavi shines a torch onto the shiny side of an old CD. The light bounces onto a white wall as a small rainbow. She names each colour from red to violet. Bees and butterflies can also see ultraviolet, just past violet, which our eyes cannot see.",
+      "img": {
+        "src": "media/research/butterfly-15-light-sensors-3.jpg",
+        "alt": "Coloured waves from red to violet, getting shorter, and a photo of a torch and a CD making a rainbow on a wall.",
+        "credit": "Figure 1, Chen, Stewart and Arikawa, Frontiers for Young Minds, CC BY 4.0"
+      }
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "A butterfly with 15 kinds of light sensors may live in the same garden as you. But the garden probably looks very different to the butterfly. If every animal sees a different world, which one is the real garden? Is there one real colour, or does colour depend on who is looking?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "wavelength",
+          "m": "the length of one wave of light, which decides its colour"
+        },
+        {
+          "w": "ultraviolet",
+          "m": "light just past violet that bees and butterflies can see but we cannot"
+        },
+        {
+          "w": "electrode",
+          "m": "a very thin wire or probe that picks up tiny electric signals"
+        },
+        {
+          "w": "light-sensing cell",
+          "m": "a cell in the eye that reacts to light"
+        },
+        {
+          "w": "colour vision",
+          "m": "being able to tell colours apart"
+        }
+      ]
+    }
+  ]
+}

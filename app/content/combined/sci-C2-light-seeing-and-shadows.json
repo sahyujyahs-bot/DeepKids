@@ -4,9 +4,9 @@
  "subj": "sci",
  "level": 2,
  "n": "light-seeing-and-shadows",
- "title": "Light and dark: makers, mirrors and the night",
+ "title": "Light and dark: what makes light, and why we need it to see",
  "source": "DeepKids Combined. Covers Cambridge Stage 2 Physics: Light sources (Unit 5.1) and Darkness (Unit 5.2), plus reflection, the Moon's borrowed light, living light, our eyes in the dark and animals that need darkness. No textbook needed.",
- "summary": "Your child sorts the world into things that make their own light (the Sun, a flame, a firefly, a bulb) and things that only bounce light (the Moon, a mirror, foil, a cat's eyes). They find that we need light to see, that darkness is simply no light, that brightness fades with distance, and that their own pupils grow and shrink. They invent and name their own colours, and find that mixing three paints makes a dark mud while mixing three lights makes white. Then they look at the night from the point of view of fireflies, owls and baby sea turtles, who need the dark as much as we need the light.",
+ "summary": "Only a few things make their own light: the Sun, a flame, a firefly, a bulb. Everything else, even the bright Moon, only bounces light back. Your child sorts the two, finds that we cannot see anything without light, and that a torch looks dimmer further away. They watch their own pupils change size and make shadows. They find that three paints mixed make a dark mud, but three lights mixed make white. Last, they meet fireflies, owls and baby sea turtles, who need the dark at night.",
  "builds_on": "This is the first rung on light. Class 4 comes back to it to explain how we see (light bouncing off things into our eyes), prove that light travels in straight lines, test which surfaces reflect best, and track how shadows change through the day.",
  "subconcepts": [
   "light sources: things that give out their own light",
@@ -17,7 +17,7 @@
   "we need light to see anything",
   "darkness is the absence of light",
   "bright and dim: light gets dimmer further from its source",
-  "white light is a mix of colours; mixing lights is different from mixing paints",
+  "white light is a mix of colours, and mixing lights is different from mixing paints",
   "we see colours only when there is light",
   "shadows: dark places where something blocks the light",
   "our pupils open wide in the dark and shrink in bright light",
@@ -36,7 +36,7 @@
  "words": [
   [
    "light",
-   "what lets us see; it comes from light sources"
+   "what lets us see. It comes from light sources."
   ],
   [
    "light source",
@@ -86,25 +86,25 @@
      "kind": "warmup",
      "title": "Lights out",
      "mins": 7,
-     "do": "Close the curtains and switch off the lights for one minute, then sit together in the dim room. Ask: 'What can you still see? Where is the light coming from?' (A gap in the curtain, a phone charger light, a TV standby light.) Switch the lights back on. Ask: 'What gives us light in the day? At night?' Good answers: the Sun; bulbs, tube lights, a diya, a candle, a torch, a phone screen. Say: 'Anything that makes its own light is called a light source.'"
+     "do": "Close the curtains and switch off the lights for one minute. Sit together in the dim room. Ask: 'What can you still see? Where is the light coming from?' (A gap in the curtain, a charger light, a TV standby light.) Switch the lights back on. Ask: 'What gives us light in the day? And at night?' Good answers: the Sun in the day. At night, bulbs, tube lights, a diya or a kuthuvilakku, a candle, a torch, a phone screen. Say: 'Anything that makes its own light is called a light source.'"
     },
     {
      "kind": "read",
      "title": "Story: The Brightest Way",
      "mins": 12,
-     "do": "Read the story aloud, softly, as if it is late at night. Don't explain it. Ask: 'Why did the little turtle crawl the wrong way at first? What did Mitali do?' Remember your child's answers; you'll come back to the story on Day 7."
+     "do": "Read the story aloud, softly, as if it is late at night. Don't explain it. Ask: 'Why did the little turtle crawl the wrong way at first? What did Mitali do?' Remember your child's answers. You will come back to the story on Day 7."
     },
     {
      "kind": "act",
      "title": "Maker or mirror?",
      "mins": 16,
-     "do": "Do activity a1. Collect 12 things: a torch, a diya (unlit), a steel spoon, a mirror, a phone, a piece of foil, a red reflector from a bicycle, a candle, a picture of the Sun, a picture of the Moon, a white paper, a glow-in-the-dark sticker if you have one. Make two piles: 'Makes its own light' and 'Does not make its own light'. Ask about each: 'Does it shine in a completely dark cupboard?' Test the tricky ones (spoon, mirror, reflector) inside a dark cupboard with the door shut: they don't shine at all. Say: 'Shiny is not the same as making light. Shiny things bounce light from somewhere else. That is called reflecting.'",
+     "do": "Do activity a1. Collect 12 things: a torch, an unlit diya, a steel spoon, a mirror, a phone, a piece of foil, a bicycle reflector, a candle, a glass bangle, a white paper, and drawings of the Sun and the Moon. Make two piles: 'Makes its own light' and 'Does not make its own light'. Your child says why for each one. Then take the shiny ones (spoon, mirror, foil, reflector) into a bathroom, switch off the light and shut the door. Ask: 'Do they still shine?' (No.) Say: 'Shiny things do not make light. They bounce back light from somewhere else. That is called reflecting.'",
      "ref": "a1"
     }
    ],
    "need": [
     "12 objects (see step)",
-    "a dark cupboard or a big box",
+    "a room you can make fully dark, like a bathroom",
     "pictures of the Sun and Moon (drawn is fine)"
    ]
   },
@@ -117,26 +117,26 @@
      "kind": "exp",
      "title": "A Moon in the room",
      "mins": 15,
-     "do": "Do experiment e1. In a dark room, a grown-up holds a torch (the Sun) still on one side. Your child holds a white ball or a steel ball (the Moon) at arm's length. Ask: 'Is the ball making light?' (No.) 'Then why can you see it?' (Light from the torch bounces off it.) Switch off the torch: the 'Moon' vanishes. Now your child turns slowly in a circle holding the ball up and watches the bright part change shape: full, half, thin crescent. Say: 'The real Moon is a big grey rock. It has no light of its own. It shines because sunlight bounces off it.'",
+     "do": "Do experiment e1. In a dark room, a grown-up holds a torch still (the Sun), pointed at your child from two big steps away. Your child holds a white ball (the Moon) up at arm's length. Ask: 'Is the ball making light?' (No.) 'Then why can you see it?' (Light from the torch bounces off it.) Switch off the torch: the 'Moon' vanishes. Switch it on again. Your child turns slowly in a circle, holding the ball up, and watches the bright part change shape: full, half, a thin crescent. Say: 'The real Moon is a big grey rock. It has no light of its own. It shines because sunlight bounces off it.'",
      "ref": "e1"
     },
     {
      "kind": "talk",
      "title": "Aryabhata and the Moon",
      "mins": 10,
-     "do": "Tell your child about voice v1: about 1,500 years ago in India, the astronomer Aryabhata wrote that the Moon is dark and shines with the Sun's light. Ask: 'How could he know, without a telescope or a rocket?' Good answers: by watching how the Moon's bright side always faces the Sun; by seeing the Moon change shape. Ask the voice question.",
+     "do": "Tell your child about voice v1. About 1,500 years ago in India, the astronomer Aryabhata wrote that the Moon is dark and shines with the Sun's light. Ask: 'How could he know, without a telescope or a rocket?' Good answers: the Moon's bright side always faces the Sun, and the Moon changes shape. Then ask the voice question.",
      "ref": "v1"
     },
     {
      "kind": "talk",
      "title": "Lights that are alive",
      "mins": 10,
-     "do": "Ask: 'Can a living thing make light?' Tell your child: fireflies (jugnu) make light in their tails to call to each other; some mushrooms in the forests of the Western Ghats and Meghalaya glow green at night; many deep-sea fish and jellyfish make light where sunlight never reaches. Say: 'Light made by living things is called bioluminescence.' Ask: 'Is a firefly a light source?' (Yes, it makes its own light.) 'Why might a fish in the dark deep sea need to make light?' (To find food, find a mate, or trick prey.)"
+     "do": "Ask: 'Can a living thing make light?' Tell your child: fireflies (minmini poochi in Tamil) make light at the end of their body to call to each other. Some mushrooms in the forests of the Western Ghats and Meghalaya glow green at night. Many deep-sea fish and jellyfish make light where sunlight never reaches. Say: 'Light made by living things is called bioluminescence.' Ask: 'Is a firefly a light source?' (Yes, they make their own light.) 'Why might a fish in the dark deep sea make light?' (To find food, to find a mate, or to trick other fish.)"
     }
    ],
    "need": [
     "a torch",
-    "a white ball or steel ball",
+    "a white ball",
     "a dark room"
    ]
   },
@@ -149,14 +149,14 @@
      "kind": "exp",
      "title": "Which torch is brightest?",
      "mins": 18,
-     "do": "Do experiment e2. In a dark room, shine two or three torches (and a phone torch) one at a time at a white wall from the same distance, two big steps. Your child says which circle of light is brightest. Ask: 'How did we make it fair?' (Same wall, same distance, one torch at a time.) Then use one torch and walk it back from the wall, one step at a time, up to five steps. Ask: 'What happens to the circle?' Good answer: it gets bigger and dimmer, because the same light is spread over more wall.",
+     "do": "Do experiment e2. In a dark room, stand two big steps from a white wall. Shine two or three torches (and a phone torch) at the wall, one at a time. Your child says which circle of light is brightest. Ask: 'How did we make it fair?' (Same wall, same distance, one torch at a time.) Then take one torch and walk back from the wall, one step at a time, up to five steps. Ask: 'What happens to the circle?' Good answer: it gets bigger and dimmer, because the same light is spread over more wall.",
      "ref": "e2"
     },
     {
      "kind": "talk",
      "title": "Never look at the Sun",
      "mins": 7,
-     "do": "Ask: 'What is the brightest light source we know?' (The Sun.) Say clearly: 'The Sun is so bright it can burn the back of your eye in seconds, and the damage does not heal. So we never look straight at the Sun, not even with sunglasses, and never through binoculars.' Ask: 'Why is a torch less dangerous than the Sun?' (Much less bright, and much closer, but we still never shine a torch into anyone's eyes.)"
+     "do": "Ask: 'What is the brightest light source we know?' (The Sun.) Say clearly: 'The Sun is so bright that looking at it can quickly hurt the back of your eye, and the damage may never heal. So we never look straight at the Sun, not even with sunglasses, and never through binoculars.' Ask: 'Why is a torch less dangerous?' (It is much less bright. But we still never shine a torch into anyone's eyes.)"
     },
     {
      "kind": "ws",
@@ -182,20 +182,20 @@
      "kind": "exp",
      "title": "The dark box",
      "mins": 18,
-     "do": "Do experiment e3. Make a dark box from a shoebox with a small peephole in one end. Without letting your child see, put three things inside: a red ball, a white paper and a steel spoon. Close the lid. Your child looks through the peephole: 'What can you see?' (Nothing, or almost nothing.) Lift the lid a tiny crack and ask again, then a bit more, then fully. Ask: 'Which thing could you see first?' (Usually the white paper or the shiny spoon.) 'When could you tell the ball was red?' (Only with more light.) Say: 'In complete darkness we can't see anything at all, not even our own hand. Darkness is not a thing; it is just no light.'",
+     "do": "Do experiment e3. Make a dark box from a shoebox with a small peephole in one end. Without letting your child see, put three things inside: a red ball, a white paper and a steel spoon. Close the lid. Your child looks through the peephole. Ask: 'What can you see?' (Nothing, or almost nothing.) Lift the lid a tiny crack and ask again. Then lift it a bit more, then all the way. Ask: 'Which thing could you see first?' (Usually the white paper or the shiny spoon.) 'When could you tell the ball was red?' (Only with more light.) Say: 'In complete darkness we cannot see anything, not even our own hand. Darkness just means there is no light.'",
      "ref": "e3"
     },
     {
      "kind": "talk",
-     "title": "Shadows are little darks",
+     "title": "Shadows",
      "mins": 7,
-     "do": "Shine a torch on the wall and put your hand in front of it. Ask: 'Why is there a dark shape?' Good answer: your hand stops the light reaching the wall. Say: 'A shadow is a place where light is blocked.' Make an animal shadow together. Ask: 'Is a shadow a light source? Can you have a shadow in a completely dark room?' (No: no light, so nothing to block.) Then put on a two-minute shadow play: a sheet or the wall is the stage, the torch is the Sun, and your hands become a bird, a dog and a deer. Ask: 'What happens to the shadow when your hand comes closer to the torch?' (It gets bigger.)"
+     "do": "Shine a torch on the wall and put your hand in front of it. Ask: 'Why is there a dark shape?' Good answer: my hand stops the light reaching the wall. Say: 'A shadow is a place where light is blocked.' Ask: 'Can you make a shadow in a completely dark room?' (No. There is no light to block.) Then put on a two-minute shadow play on the wall: your hands become a bird, a dog and a deer. Ask: 'What happens to the shadow when your hand comes closer to the torch?' (It gets bigger.)"
     },
     {
      "kind": "talk",
      "title": "How do we see?",
      "mins": 10,
-     "do": "Tell your child about voice v2: long ago many people thought our eyes sent out rays to touch things, but Ibn al-Haytham said light comes into our eyes. Ask: 'If our eyes sent out rays, could we see in the dark box with the lid shut?' (Yes, but we can't, so that idea is wrong.) Then ask the voice question.",
+     "do": "Tell your child about voice v2. Long ago, many people thought our eyes sent out rays to touch things. Ibn al-Haytham, a scientist who lived 1,000 years ago, said that light comes into our eyes. Ask: 'If our eyes sent out rays, could we see inside the dark box with the lid shut?' (Yes. But we can't, so that idea is wrong.) Then ask the voice question.",
      "ref": "v2"
     }
    ],
@@ -221,21 +221,21 @@
      "kind": "exp",
      "title": "Mix three paints",
      "mins": 9,
-     "do": "Do experiment e5, part 1. On an old plate, put one blob each of red, yellow and blue poster paint. Your child mixes a little red and yellow (orange), yellow and blue (green), blue and red (purple). Then mixes all three together. Ask: 'What colour did you get?' (A muddy brown, grey or nearly black. Every child's mix is a little different, and that's fine.) Find the matching pouch. Say: 'Each paint soaks up (absorbs) some colours of light and sends back only the rest. Mix more paints and more colours get soaked up, so less light comes back. The mix gets darker.'",
+     "do": "Do experiment e5, part 1. On an old plate, put one blob each of red, yellow and blue poster paint. Your child mixes a little red and yellow (orange), yellow and blue (green), and blue and red (purple). Then they mix all three. Ask: 'What colour did you get?' (A muddy brown, grey or nearly black. Every child's mix is a little different.) Find the matching pouch. Say: 'Each paint soaks up some colours of light and sends back the rest. Soaking up is called absorbing. Mix more paints and more light is absorbed, so the mix gets darker.'",
      "ref": "e5"
     },
     {
      "kind": "exp",
      "title": "Mix three lights",
      "mins": 11,
-     "do": "Do experiment e5, part 2. Cover three torches with red, green and blue cellophane (two layers, held with rubber bands). In a dark room, shine them on a white wall. Overlap red and green: ask 'What colour is that?' (Yellow, which surprises everyone.) Overlap green and blue (a sky-blue, cyan), and red and blue (pink-purple, magenta). Now overlap all three in the middle. Ask: 'Is it darker or lighter?' (Lighter: nearly white.) Find the white pouch. Say: 'Lights add together. Mix more lights and more light reaches your eye. The Sun's white light is all the colours mixed together. A phone screen makes every colour you see from tiny red, green and blue dots.' Let your child look at a phone screen through a magnifying glass to see the dots if you have one.",
+     "do": "Do experiment e5, part 2. Cover three torches with red, green and blue cellophane (two layers, held with rubber bands). In a dark room, shine them on a white wall. Overlap red and green. Ask: 'What colour is that?' (Yellow, which surprises everyone.) Overlap green and blue (a sky-blue), then red and blue (a pink-purple). Now overlap all three. Ask: 'Is it darker or lighter?' (Lighter, nearly white.) Find the white pouch. Say: 'Lights add together. Mix more lights and more light reaches your eye. The Sun's white light is all the colours mixed together.' If you have a magnifying glass, look at a phone screen through it: you may see tiny red, green and blue dots.",
      "ref": "e5"
     },
     {
      "kind": "act",
      "title": "Invent and name a colour",
      "mins": 10,
-     "do": "Do activity a2. Your child mixes paints until they make a colour they have never seen before, paints a small square of it, and gives it a name of their own ('mango-monsoon', 'Paati's-sari blue'). Then they paint a small picture using only their invented colours. Finally, shine the red, then the green, then the blue torch on the painting in the dark room. Ask: 'What happened to your colours under red light?' (They change; some look black.) 'So is the colour in the paint, or in the light, or in your eyes?' Write your child's answer under the painting.",
+     "do": "Do activity a2. Your child mixes paints until they make a colour they have never seen. They paint a small square of it and give it a name ('mango-monsoon', 'Paati's-sari blue'). Then they paint a small picture using only their invented colours. In the dark room, shine the red, then the green, then the blue torch on the painting. Ask: 'What happened to your colours under red light?' (They change. Some look black.) 'So is the colour in the paint, in the light, or in your eyes?' Write your child's answer under the painting.",
      "ref": "a2"
     }
    ],
@@ -263,20 +263,20 @@
      "kind": "exp",
      "title": "Watch your pupils",
      "mins": 10,
-     "do": "Do experiment e4. In a dim room, your child looks into a mirror for one minute and notices the black circle in the middle of their eye. Then switch on a bright light (not pointed at the eyes) and watch the black circle shrink. Ask: 'Why does it get smaller in bright light?' Good answer: to let less light in, to protect the eye. 'Why bigger in the dark?' To catch as much light as possible.",
+     "do": "Do experiment e4. Sit facing each other in a dim room for one minute. Look at the black circle in the middle of each other's eyes. It is called the pupil. Switch on a bright lamp, pointed away from your faces, and watch the pupils shrink. Ask: 'Why does it get smaller in bright light?' Good answer: to let less light in and protect the eye. 'Why bigger in the dark?' To catch as much light as possible.",
      "ref": "e4"
     },
     {
      "kind": "talk",
      "title": "Night animals",
      "mins": 10,
-     "do": "Ask: 'Which animals are awake at night?' (Owls, bats, cats, moths, fireflies, many frogs, the slender loris.) Say: 'Animals awake at night are called nocturnal.' Tell your child: an owl's eyes are so big they can't turn in their sockets, so it turns its whole head; a cat's eyes shine in torchlight because a shiny layer at the back of the eye reflects light, to catch every bit of it. Ask: 'Is a cat's shining eye a light source?' (No: it reflects the torch.) 'Can a cat see in total darkness?' (No: it needs a little light, but much less than we do.)"
+     "do": "Ask: 'Which animals are awake at night?' (Owls, bats, cats, moths, fireflies, many frogs, the slender loris of South India.) Say: 'Animals awake at night are called nocturnal.' Tell your child: an owl's eyes are so big that they cannot turn in their sockets, so the owl turns their whole head. A cat's eyes shine in torchlight because a shiny layer at the back of the eye reflects light, so the eye catches more of it. Ask: 'Is a cat's shining eye a light source?' (No, it reflects the torch.) 'Can a cat see in total darkness?' (No. A cat needs a little light, but much less than we do.)"
     },
     {
      "kind": "outdoor",
      "title": "Evening sky walk",
      "mins": 15,
-     "do": "Just after sunset, go out on the terrace or to an open space with a grown-up. Watch for 15 minutes as the sky darkens. Ask your child to notice: which lights come on first? (Street lights, house lights.) When can you see the first star? Is the Moon out? Which lights make their own light, and which are reflecting? Count how many stars you can see. Say: 'Every star is a sun, very far away. It is a light source.' Then ask: 'Do the street lights make it harder to see the stars?'"
+     "do": "Just after sunset, go to a terrace, a balcony or a window that faces the open sky, with a grown-up. Watch for 15 minutes as the sky darkens. Ask: 'Which lights come on first?' (Street lights, house lights.) 'When can you see the first star? Is the Moon out?' 'Which lights make their own light, and which are reflecting?' Count the stars you can see. Say: 'Every star is a sun, very far away. It is a light source.' Ask: 'Do the street lights make it harder to see the stars?'"
     }
    ],
    "need": [
@@ -300,14 +300,14 @@
      "kind": "talk",
      "title": "Fireflies and city lights",
      "mins": 12,
-     "do": "Tell your child about voice v3: scientists who study fireflies worry that bright lights at night make it hard for fireflies to see each other's flashes. Ask: 'If you were a firefly trying to find a friend with your flashes, what would a bright street light do?' Then ask the voice question. Remember the turtle story together: 'Why did the hatchling crawl towards the village at first?' (The lamps were brighter than the sea.)",
+     "do": "Tell your child about voice v3. Scientists who study fireflies worry that bright lights at night make it hard for fireflies to see each other's flashes. Ask: 'If you were a firefly trying to find a friend with your flashes, what would a bright street light do?' Then ask the voice question. Remember the turtle story together. Ask: 'Why did the baby turtle crawl towards the village at first?' (The lantern was brighter than the sea.)",
      "ref": "v3"
     },
     {
      "kind": "think",
      "title": "Light for whom?",
      "mins": 8,
-     "do": "Ask: 'Who needs light at night?' (People walking home, drivers, hospitals.) 'Who needs the dark?' (Fireflies, turtle hatchlings, owls, many moths, sleeping birds, and people trying to sleep, and astronomers.) Ask: 'How could a village have enough light for people and enough dark for animals?' Good ideas: lights that point down, switching off lights not in use, warmer and dimmer lights near beaches and forests."
+     "do": "Ask: 'Who needs light at night?' (People walking home, drivers, hospitals.) 'Who needs the dark?' (Fireflies, turtle hatchlings, owls, many moths, sleeping birds, people trying to sleep, and astronomers.) Ask: 'How could a village have enough light for people and enough dark for animals?' Good ideas: lights that point down, switching off lights nobody is using, dimmer lights near beaches and forests."
     },
     {
      "kind": "game",
@@ -344,13 +344,13 @@
      "kind": "check",
      "title": "Teach it back",
      "mins": 12,
-     "do": "Your child shows the family the Moon-in-the-room with the torch and ball and the dark box, and explains: some things make light, others only reflect it; the Moon borrows the Sun's light; we need light to see; dark means no light. Ask the check questions aloud."
+     "do": "Your child shows the family the Moon in the room (torch and ball) and the dark box. They explain: some things make light, others only reflect it. The Moon reflects the Sun's light. We need light to see. Dark means no light. Then ask the check questions aloud."
     },
     {
      "kind": "ws",
      "title": "Challenge worksheet",
      "mins": 8,
-     "do": "Do Worksheet ws3 together, reading each item aloud. Write down your child's ideas for the 'what if' items exactly; there are no wrong answers there, only reasons.",
+     "do": "Do Worksheet ws3 together, reading each item aloud. For the 'what if' items, write down your child's ideas exactly. There are no wrong answers there, only reasons.",
      "ref": "ws3"
     }
    ],
@@ -374,7 +374,7 @@
      [
       {
        "t": "sort",
-       "p": "Does it make its own light?",
+       "p": "Which ones make their own light?",
        "items": [
         "the Sun",
         "a mirror",
@@ -386,7 +386,7 @@
         "a bicycle reflector"
        ],
        "cats": [
-        "makes its own light",
+        "makes their own light",
         "only reflects light"
        ]
       },
@@ -607,7 +607,7 @@
        "opts": [
         "the cow makes light",
         "white things reflect more of the little starlight there is",
-        "black things eat light for food"
+        "black things make their own darkness"
        ],
        "a": 1
       },
@@ -633,7 +633,7 @@
       },
       {
        "t": "fill",
-       "p": "Long ago some people thought our eyes send out rays. Ibn al-Haytham said light comes ____ our eyes.",
+       "p": "Long ago, some people thought our eyes send out rays. Ibn al-Haytham, a scientist who lived 1,000 years ago, said light comes ____ our eyes.",
        "a": [
         "into",
         "in to",
@@ -699,19 +699,19 @@
    "question": "Does the Moon make its own light?",
    "need": [
     "a torch",
-    "a white ball, or a steel ball",
+    "a white ball",
     "a dark room"
    ],
    "steps": [
-    "Darken the room completely.",
-    "A grown-up stands still and shines the torch towards the middle of the room. This is the Sun.",
+    "Make the room completely dark.",
+    "A grown-up stands still, two big steps from your child, and shines the torch at them. This is the Sun.",
     "Your child holds the ball up at arm's length, in the torch beam. This is the Moon.",
     "Switch the torch off and on. What happens to the 'Moon'?",
     "With the torch on, your child turns slowly in a full circle, holding the ball up in front of their face, and watches the lit part of the ball."
    ],
    "predict": "Ask: 'When the torch is off, will we still see the ball?'",
    "observe": "With the torch off, the ball disappears in the dark. With it on, one side of the ball is bright. As your child turns, the bright part looks full, then half, then a thin crescent.",
-   "why": "The ball makes no light; we see it only because light from the torch bounces off it into our eyes. The Moon is the same: a rock lit by the Sun. As the Moon goes round the Earth we see different amounts of its sunlit half, which is why its shape seems to change.",
+   "why": "The ball makes no light. We see it only because light from the torch bounces off it into our eyes. The Moon is the same: a rock lit by the Sun. As the Moon goes round the Earth, we see different amounts of its sunlit half. That is why its shape seems to change.",
    "safety": "Do not shine the torch into anyone's eyes.",
    "time": "15 min"
   },
@@ -758,7 +758,7 @@
    ],
    "predict": "Ask: 'What will you see through the hole when the lid is shut?'",
    "observe": "With the lid shut, nothing. With a little light, first the white paper or the shiny spoon appears as a pale shape. Only with more light can your child see that the ball is red.",
-   "why": "We see things only when light bounces off them into our eyes. No light gets into the closed box, so there is nothing to see. White and shiny things bounce back the most light, so they show first. Our eyes need more light to see colours; in dim light, everything looks grey.",
+   "why": "We see things only when light bounces off them into our eyes. No light gets into the closed box, so there is nothing to see. White and shiny things bounce back the most light, so they show first. Our eyes need more light to see colours. In dim light, everything looks grey.",
    "safety": "A grown-up cuts the box.",
    "time": "18 min"
   },
@@ -768,21 +768,20 @@
    "day": 5,
    "question": "How do our eyes change in dim and bright light?",
    "need": [
-    "a mirror",
     "a room you can make dim",
     "a lamp"
    ],
    "steps": [
     "Make the room dim and wait one minute.",
-    "Your child looks closely at their eyes in the mirror and notices the black circle (pupil).",
-    "Switch on the lamp, pointed away from the face.",
+    "Sit facing each other and look at the black circle (the pupil) in each other's eyes.",
+    "Switch on the lamp, pointed away from your faces.",
     "Watch the pupils straight away. What happens?",
     "Switch it off and watch again."
    ],
    "predict": "Ask: 'Will the black circle get bigger or smaller when the light comes on?'",
    "observe": "The pupils shrink quickly in bright light and slowly grow again in dim light.",
-   "why": "The pupil is a hole that lets light into the eye. In dim light it opens wide to catch as much light as possible; in bright light it closes to protect the inside of the eye from too much. It happens by itself, without you deciding.",
-   "safety": "Never point the lamp into the eyes; never use the Sun.",
+   "why": "The pupil is a hole that lets light into the eye. In dim light it opens wide to catch as much light as possible. In bright light it closes to protect the inside of the eye. It happens by itself, without you deciding.",
+   "safety": "Never point the lamp into the eyes. Never use the Sun.",
    "time": "10 min"
   },
   {
@@ -806,8 +805,8 @@
     "Overlap all three in the middle."
    ],
    "predict": "Ask: 'If mixing all three paints makes a dark colour, what will mixing all three lights make?'",
-   "observe": "All three paints make a dark muddy brown or grey. Red and green light make yellow; all three lights make a pale, nearly white patch, lighter than any one light alone. (Cellophane is not perfect, so the colours may not be exact.)",
-   "why": "Paint makes colour by taking away: each paint absorbs some colours of light and reflects the rest, so mixing paints takes away more and more, and the mix gets darker (subtractive mixing). Lights make colour by adding: each torch adds its colour, so mixing lights adds more and more until it looks white (additive mixing). White sunlight is a mixture of all the colours of the rainbow.",
+   "observe": "All three paints make a dark muddy brown or grey. Red and green light make yellow. All three lights make a pale, nearly white patch, lighter than any one light alone. Cellophane is not perfect, so the colours may not be exact.",
+   "why": "Paint makes colour by taking light away. Each paint absorbs some colours of light and reflects the rest. So mixing paints takes away more and more, and the mix gets darker. Lights make colour by adding. Each torch adds its colour, so mixing lights adds more and more until it looks white. White sunlight is a mix of all the colours of the rainbow.",
    "safety": "Use washable poster paint. Don't shine torches into eyes.",
    "time": "20 min"
   }
@@ -819,17 +818,17 @@
    "day": 1,
    "mins": 16,
    "need": [
-    "12 objects: a torch, an unlit diya, a steel spoon, a mirror, a phone, foil, a bicycle reflector, a candle, white paper, a glow sticker, pictures of the Sun and Moon",
-    "a dark cupboard or big box"
+    "12 objects: a torch, an unlit diya, a steel spoon, a mirror, a phone, foil, a bicycle reflector, a candle, a glass bangle, white paper, drawings of the Sun and the Moon",
+    "a room you can make fully dark, like a bathroom"
    ],
    "steps": [
     "Put all the objects on the floor.",
     "Make two signs: 'Makes its own light' and 'Does not make its own light'.",
     "Your child puts each object under a sign and says why.",
-    "Test the tricky shiny ones in a dark cupboard: do they still shine?",
+    "Take the shiny ones into a fully dark room: do they still shine?",
     "Move any that were in the wrong place."
    ],
-   "outcome": "Two sorted piles, and the rule: shiny is not the same as making light."
+   "outcome": "Two sorted piles, and the rule: shiny things do not make light, they only reflect it."
   },
   {
    "id": "a2",
@@ -857,7 +856,7 @@
    "id": "v1",
    "who": "Aryabhata (476–about 550 CE), India",
    "idea": "In his book the Aryabhatiya, written in 499 CE when he was 23, Aryabhata wrote that the Moon and the planets are dark and are lit by the Sun, so that half of each is always bright. This explains why the Moon's bright side always faces the Sun.",
-   "then": "Some thinkers in India and elsewhere had similar ideas; in ancient Greece, Anaxagoras had said that the Moon's light comes from the Sun. Other parts of Aryabhata's work, such as his idea that the Earth spins, were argued about by later Indian astronomers.",
+   "then": "Some thinkers elsewhere had similar ideas. In ancient Greece, Anaxagoras had said that the Moon's light comes from the Sun. Other parts of Aryabhata's work, such as his idea that the Earth spins, were argued about by later Indian astronomers.",
    "now": "It is accepted: the Moon is a rock with no light of its own, lit by the Sun. India's first satellite, launched in 1975, was named Aryabhata.",
    "status": "accepted",
    "ask": "Aryabhata had no telescope. What could he see in the sky with his own eyes that would make him think the Moon borrows the Sun's light?",
@@ -868,7 +867,7 @@
    "who": "Ibn al-Haytham (about 965–1040), born in Basra (Iraq), worked in Cairo (Egypt)",
    "idea": "In his Book of Optics he argued that we see because light travels from objects into our eyes, not because our eyes send out rays. He tested his ideas with dark rooms, small holes and careful experiments, and wrote down how to test an idea instead of just arguing about it.",
    "then": "Many famous earlier thinkers, including Euclid and Ptolemy, had said the eye sends out rays that touch things. Ibn al-Haytham's book was translated into Latin and studied by European scientists for hundreds of years.",
-   "now": "It is accepted: light enters the eye. He is often called one of the first true experimental scientists, though his name is still missing from many science books.",
+   "now": "It is accepted: light enters the eye. He is often called one of the first experimental scientists.",
    "status": "accepted",
    "ask": "If our eyes sent out rays, what could we do that we can't? How does the dark box help prove Ibn al-Haytham right?",
    "day": 4
@@ -897,8 +896,8 @@
    "Page 2: draw three human-made light sources (a diya, a bulb, a torch).",
    "Page 3: draw three things that only reflect light (the Moon, a mirror, a reflector).",
    "Page 4: draw your eye in dim light and in bright light.",
-   "Page 6: paint a square of your invented colour and write its name, and draw what happens when red, green and blue lights mix.",
-   "Page 5: draw something that needs the dark (a firefly, an owl, a turtle).",
+   "Page 5: paint a square of your invented colour and write its name. Draw what happens when red, green and blue lights mix.",
+   "Page 6: draw something that needs the dark (a firefly, an owl, a turtle).",
    "Make a cover and staple the book together."
   ],
   "outcome": "A small illustrated book of light sources, reflectors, eyes and the dark."
@@ -1031,11 +1030,11 @@
  "challenge": [
   {
    "q": "People say 'the Moon shines at night'. Does the Moon shine?",
-   "hint": "The Moon makes no light. It is a grey rock that reflects sunlight; in fact it reflects only a small part of the light that hits it, about as much as old dark tarmac. It looks bright only because the night sky around it is so dark. Ask: why does the Moon look pale and faint in the daytime sky?"
+   "hint": "The Moon makes no light. It is a grey rock that reflects sunlight. In fact it reflects only a small part of the light that hits it, about as much as an old dark road. It looks bright only because the night sky around it is so dark. Ask: why does the Moon look pale and faint in the daytime sky?"
   },
   {
    "q": "Can cats see in complete darkness?",
-   "hint": "No animal's eyes can see with no light at all. Cats need much less light than we do, thanks to big pupils and a shiny layer at the back of the eye that gives the light a second chance to be caught, but in a totally dark room they use whiskers, ears and nose instead. Ask: how could you test it kindly?"
+   "hint": "No animal can see with no light at all. Cats need much less light than we do. They have big pupils and a shiny layer at the back of the eye that gives the light a second chance to be caught. In a totally dark room they use whiskers, ears and nose instead. Ask: how could you test this kindly?"
   },
   {
    "q": "Do carrots help you see in the dark?",
@@ -1048,12 +1047,12 @@
    "view": "In 2022 India named its first dark sky reserve around the observatory at Hanle, where villagers agreed to keep lights low and shaded so the stars stay visible. Ask: what would you give up so that you could see the Milky Way?"
   },
   {
-   "who": "Turtle volunteers at Rushikulya beach, Odisha",
-   "view": "Every year thousands of olive ridley turtles come to nest on this beach. Villagers and forest staff guard the nests and help keep lights off when the babies hatch. Ask: why do you think the fishing families help, when the turtles give them nothing they can sell?"
+   "who": "Turtle walkers in Chennai and Odisha",
+   "view": "Olive ridley turtles nest on the beaches of Chennai and at Rushikulya in Odisha. Volunteers in Chennai walk the beach at night to find nests and keep the eggs safe. At Rushikulya, villagers and forest staff guard the nests and keep lights off when the babies hatch. Ask: why do you think people help, when the turtles give them nothing they can sell?"
   },
   {
    "who": "A firefly",
-   "view": "A firefly's flash says 'here I am' in its own pattern, so that the right firefly can answer. Ask: how would you feel if someone shone a bright light every time you tried to talk to a friend?"
+   "view": "A firefly's flash says 'here I am' in their own pattern, so that a firefly of the same kind can answer. Ask: how would you feel if someone shone a bright light every time you tried to talk to a friend?"
   },
   {
    "who": "A night-shift worker",
@@ -1084,7 +1083,7 @@
    "That was fifteen years ago. I have swum to places Mitali will never see. And now I have come back to the same beach to lay my own eggs in the sand.",
    "I do not know if she is still here. But as I dug my nest tonight, I looked up the beach, and all the huts were dark."
   ],
-  "epiphany": "The hatchlings head for the brightest horizon, which is normally the sea shining with reflected starlight and moonlight. The sea is not a light source; it only reflects. A real light source (the lantern) is much brighter, so it hides the sea's reflected glow. The turn comes when Mitali switches the lantern off: in the darkness, the faint reflected light of the sea becomes the brightest way. Darkness lets us see what was there all along.",
+  "epiphany": "The hatchlings head for the brightest horizon, which is normally the sea shining with reflected starlight and moonlight. The sea is not a light source. It only reflects. The lantern is a real light source and much brighter, so it hides the sea's faint glow. When Mitali puts the lantern out, the sea becomes the brightest way again. In the dark, the turtles can see what was there all along.",
   "ask": [
    "Why did the baby turtles crawl towards the lantern?",
    "Was the sea making its own light? Where did its silver shine come from?",
@@ -1096,19 +1095,19 @@
  "ideas": [
   {
    "idea": "Most of what we see makes no light of its own.",
-   "more": "The page, your hand, the trees, the Moon: they all shine only with borrowed light, from the Sun or a lamp, bounced into our eyes. Only a few things, like the Sun, flames, bulbs and fireflies, are light sources."
+   "more": "The page, your hand, the trees and the Moon all shine only with light from the Sun or a lamp, bounced into our eyes. Only a few things, like the Sun, flames, bulbs and fireflies, are light sources."
   },
   {
-   "idea": "Darkness is not a thing; it is no light.",
-   "more": "You cannot pour darkness into a box; you can only keep light out. The dark box and the shadow show it: where light can't reach, there is dark."
+   "idea": "Darkness is what we call a place with no light.",
+   "more": "You cannot pour darkness into a box. You can only keep light out. The dark box and the shadow show it: where light can't reach, it is dark."
   },
   {
    "idea": "The night belongs to many living things.",
-   "more": "Fireflies, owls, moths, bats and turtle hatchlings are made for the dark, and our bright lights change their world. Light at night is not only a gift; it is also a choice about whose world we light."
+   "more": "Fireflies, owls, moths, bats and turtle hatchlings live by the dark, and our bright lights change their world. So how bright we make the night is a choice that affects them too."
   },
   {
-   "idea": "Colour lives in the meeting of light, things and eyes.",
-   "more": "White light holds every colour. A red flower soaks up the other colours and sends back red. Shine only blue light on it and it looks black. Mixing paints takes light away; mixing lights adds it. Ask: so where is the colour, really?"
+   "idea": "We see colour only when there is light, an object and an eye.",
+   "more": "White light holds every colour. A red flower absorbs the other colours and sends back red. Shine only blue light on the flower and it looks black, because there is no red to send back. Mixing paints takes light away. Mixing lights adds it. Ask: so where is the colour, really?"
   }
  ],
  "unknowns": [
@@ -1150,7 +1149,7 @@
   },
   {
    "q": "Why can't we see anything in a completely dark room?",
-   "a": "We need light to bounce off things into our eyes; with no light, there is nothing to see."
+   "a": "We need light to bounce off things into our eyes. With no light, there is nothing to see."
   },
   {
    "q": "What happens to a torch's circle of light as you move it further from the wall?",
@@ -1166,11 +1165,11 @@
   },
   {
    "q": "Why did the turtle hatchlings crawl the wrong way, and what saved them?",
-   "a": "The lantern was brighter than the sea's reflected light; when Mitali put it out, the sea's shine became the brightest way."
+   "a": "The lantern was brighter than the sea's reflected light. When Mitali put it out, the sea's shine became the brightest way."
   },
   {
    "q": "What happens when you mix all three paints, and when you mix red, green and blue lights?",
-   "a": "Paints make a dark muddy colour because each paint takes away light; the lights make nearly white because each light adds light."
+   "a": "Paints make a dark muddy colour, because each paint takes away light. The lights make nearly white, because each light adds light."
   }
  ]
 }

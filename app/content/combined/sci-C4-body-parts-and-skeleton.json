@@ -5,10 +5,10 @@
  "level": 4,
  "n": "body-parts-and-skeleton",
  "day_mins": 45,
- "title": "Skeletons: the living frame inside us, and the many ways to hold a body up",
+ "title": "Skeletons: how bones, joints and muscles hold a body up and move it",
  "source": "DeepKids Combined. Covers Cambridge Stage 4 Biology Units 1.1 'Bones and skeletons', 1.2 'Why we need a skeleton', 1.3 'Skeletons and movement' and 1.4 'Different kinds of skeletons'. No textbook needed.",
- "summary": "Your child goes back to the 'strings inside' from Class 1 and finds out how they really work: the names of the main bones, the four jobs of the skeleton, why bones are hollow tubes, the different kinds of joints, and how muscles can only pull, so they work in pairs. They soften a chicken bone in vinegar, test paper tubes under books, pull the tendons of a chicken wing, and then meet bodies held up in completely different ways: insects in armour, earthworms held up by water, and the sea dragon of Mary Anning whose flipper had a hand inside it.",
- "builds_on": "Class 1: the names of body parts, bones, joints, and muscles as the 'strings inside' that pull bones. Here: bone names, the four jobs of a skeleton, joint types, muscle pairs, tendons, and endoskeletons, exoskeletons and water skeletons. Class 5 goes inside to the organs the skeleton protects: heart, lungs, brain, stomach and kidneys.",
+ "summary": "A body with no skeleton would fall in a heap, yet most animals on Earth have no bones at all. Your child names the main bones, finds the four jobs of the skeleton, sorts joints by how they move, and finds out that muscles can only pull, so they work in pairs. They soften a chicken bone in vinegar, test paper tubes under books and pull the tendons of a chicken wing. Then they meet other ways to hold a body up: hard outer cases, bodies held in shape by liquid, and the flipper of Mary Anning's fossil sea reptile, which has the same bones as a hand.",
+ "builds_on": "Class 1: the names of body parts, bones, joints, and muscles that pull bones like the strings of a puppet. Here: bone names, the four jobs of a skeleton, joint types, muscle pairs, tendons, and endoskeletons, exoskeletons and hydrostatic skeletons. Class 5 goes inside to the organs the skeleton protects: heart, lungs, brain, stomach and kidneys.",
  "subconcepts": [
   "the main bones: skull, jaw, spine and vertebrae, ribs, pelvis, femur and others",
   "four jobs of a skeleton: support, protection, movement and making blood",
@@ -22,7 +22,7 @@
   "hydrostatic skeletons: bodies held up by water",
   "vertebrates and invertebrates: most animals have no backbone",
   "one bone plan in arm, wing, flipper and leg",
-  "fossils: skeletons tell the stories of lives long ago, and your body is a history book"
+  "fossils: skeletons tell us how animals lived long ago"
  ],
  "goals": [
   "By the end your child can name and point to at least ten bones, including skull, jaw, vertebrae, ribs, collarbone, pelvis and femur.",
@@ -30,12 +30,12 @@
   "By the end your child can explain why a muscle needs a partner, using the biceps and triceps.",
   "By the end your child can say what tendons and ligaments do.",
   "By the end your child can sort animals by kind of skeleton (inside, outside, water) and say what moulting is.",
-  "By the end your child can explain how a fossil skeleton tells us how an animal lived, and why Mary Anning was not given credit."
+  "By the end your child can explain how a fossil skeleton tells us how an animal lived, and why Mary Anning was not given credit for her finds."
  ],
  "words": [
   [
    "vertebra",
-   "one of the 33 small bones that stack up to make the spine (more than one: vertebrae)"
+   "one of the 33 small bones that stack up to make the spine. More than one are called vertebrae."
   ],
   [
    "pelvis",
@@ -75,7 +75,7 @@
   ],
   [
    "hydrostatic skeleton",
-   "a soft body held in shape by liquid pressing outwards, like an earthworm's"
+   "a soft body held in shape by liquid inside, squeezed by muscles, like an earthworm's"
   ],
   [
    "vertebrate",
@@ -92,36 +92,36 @@
      "kind": "warmup",
      "title": "Remember the puppet",
      "mins": 7,
-     "do": "Ask your child: 'Do you remember Gulabo the puppet? Where were Roshni's strings?' (inside: muscles pulling on bones). 'And her pegs?' (joints). Ask them to show you three joints and feel one muscle bulge. Say: 'This week we find out what the frame is made of, why it is built the way it is, and how other animals hold their bodies up without bones like ours.'"
+     "do": "Ask your child: 'In Class 1 you may have met Gulabo, a wooden string puppet. Her strings were on the outside. Where were Roshni's strings, the girl in the story?' (inside: muscles pulling on bones). 'And where did Gulabo bend?' (at her pegs, the joints). If your child did not do Class 1, just ask: 'A puppet moves when strings pull it. What pulls you?' Ask them to show you three joints and feel one muscle bulge. Say: 'This week we find out what your frame is made of, why it is built the way it is, and how other animals hold their bodies up without bones.'"
     },
     {
      "kind": "do",
      "title": "Bone map",
      "mins": 18,
-     "do": "Draw a large outline of a body on paper (or use the life-size picture from Class 1 if you kept it). Your child presses on their own body to find each bone, then you draw and label it on the outline together: skull, jaw, collarbone, shoulder blade, ribs and breastbone, spine (draw it as a stack of small blocks, the vertebrae), pelvis, upper arm bone (humerus), the two forearm bones (radius and ulna), hand bones, thigh bone (femur), knee cap, the two shin bones, foot bones. Ask: 'Which bone do you think is the longest?' (the femur, about a quarter of your height). Measure your child's thigh from hip to knee with a tape and write it on the map."
+     "do": "Draw a large outline of a body on paper. Your child presses on their own body to find each bone. Then you draw and label it on the outline together: skull, jaw, collarbone, shoulder blade, ribs and breastbone, spine (draw it as a stack of small blocks, the vertebrae), pelvis, upper arm bone (humerus), the two forearm bones (radius and ulna), hand bones, thigh bone (femur), kneecap, the two shin bones and foot bones. Ask: 'Which bone do you think is the longest?' (the femur, about a quarter of your height). Measure your child's thigh from hip to knee with a tape and write it on the map."
     },
     {
      "kind": "exp",
      "title": "Start the rubber bone",
      "mins": 12,
-     "do": "Start Experiment e1. Put one clean, cooked chicken bone (a drumstick bone, scraped clean) in a jar of vinegar and keep a second bone dry next to it as the control. Ask your child to bend the dry bone gently and say how it feels (hard, stiff). Label both jars with today's date. Ask: 'What do you think vinegar will do to the bone in a week?' Write the prediction on the jar.",
+     "do": "Start Experiment e1. Put one clean, cooked chicken bone in a jar of vinegar. Keep a second bone dry in an empty jar. This is the control: it shows what the bone would be like without vinegar. Ask your child to bend the dry bone gently and say how it feels (hard and stiff). Label both jars with today's date. Ask: 'What do you think vinegar will do to the bone in a week? Why?' Write the guess on the jar.",
      "ref": "e1"
     },
     {
      "kind": "talk",
      "title": "Count the vertebrae",
      "mins": 8,
-     "do": "Your child bends forward and you run your finger gently down the bumps of their spine. Count as many as you can feel. Say: 'Each bump is a vertebra. You have 33 in a stack, with soft cushions between them, and a thick cable of nerves runs down a tunnel through the middle, the spinal cord. That is why the spine bends but must be protected.' Ask: 'Why not one long straight bone instead?' (you could not bend or twist). Then do the yoga pose cat-cow on hands and knees, slowly: breathe in and let the tummy drop and the head lift (cow), breathe out and round the back up high (cat). Run your hand down their back in each pose and feel the vertebrae spread and close."
+     "do": "Your child bends forward and you run your finger gently down the bumps of their spine. Count as many as you can feel. Say: 'Each bump is a vertebra. You have 33 in a stack, and some at the bottom join together as you grow. There are soft cushions between them. A thick bundle of nerves, the spinal cord, runs down a tunnel through the middle.' Ask: 'Why is the spine not one long straight bone?' (you could not bend or twist). Then do the yoga pose cat-cow on hands and knees, slowly. Breathe in, let the tummy drop and lift the head (cow). Breathe out and round the back up high (cat). Run your hand down their back in each pose and feel the bumps spread apart and close up."
     }
    ],
    "need": [
     "a big sheet of paper and a marker",
     "a measuring tape",
-    "two clean cooked chicken bones (or ask a butcher for a small clean bone), a jar of white vinegar, an empty jar"
+    "two clean cooked chicken bones (drumstick bones are best), a jar of white vinegar with a lid, an empty jar"
    ],
    "prep": [
     {
-     "task": "Save two chicken drumstick bones from a meal, scrub them clean and let them dry",
+     "task": "Save two chicken drumstick bones from a meal, scrub off all the meat and let them dry. If your family does not eat meat, ask a neighbour or a butcher for two clean bones.",
      "when": "2 days before"
     }
    ]
@@ -135,32 +135,33 @@
      "kind": "warmup",
      "title": "A tent with no poles",
      "mins": 7,
-     "do": "If you have a tent, a mosquito net on a frame, or an umbrella, show it with and without its frame (fold the umbrella). Ask: 'What does the frame do?' (holds the shape up). Then: 'What would you look like with no skeleton?' (a heap on the floor). Say: 'That is job one: support and shape.'"
+     "do": "Open an umbrella, then fold it. Ask: 'What does the frame of the umbrella do?' (it holds the cloth up in a shape). Then ask: 'What would you look like with no skeleton?' (a heap on the floor). Say: 'That is the first job of a skeleton: support. It holds the body up and gives it a shape.'"
     },
     {
      "kind": "talk",
      "title": "Jobs two, three and four",
      "mins": 12,
-     "do": "Go through the other jobs, feeling each one. Protection: tap the skull ('a helmet for the brain'), press the ribs ('a cage round the heart and lungs'), feel the spine ('a tunnel for the spinal cord'). Movement: bend the elbow ('muscles pull bones at joints'). Making blood: say 'Inside your big bones is soft marrow, and right now it is making millions of new blood cells every second.' Ask your child to make a hand sign for each job and teach them to you. Write the four jobs on the bone map from Day 1."
+     "do": "Go through the other three jobs and feel each one. Protection: tap the skull (it covers the brain), press the ribs (they make a cage round the heart and lungs), feel the spine (it covers the spinal cord). Movement: bend the elbow (muscles pull bones at the joints). Making blood: say 'Inside your big bones is a soft part called marrow. Right now it is making millions of new blood cells every second.' Ask your child to make up a hand sign for each job and teach the signs to you. Write the four jobs on the bone map from Day 1."
     },
     {
      "kind": "exp",
      "title": "Tubes under books",
      "mins": 18,
-     "do": "Do Experiment e2. Make three supports from the same size of paper: a tube rolled and taped, a flat folded strip, and a solid paper 'rod' rolled very tightly. Stand each upright and stack books on top one at a time until it buckles. Count the books. Ask: 'Which held the most for the paper used?' Then show a cut chicken bone from the bone pile (or a picture of a cut bone): it is a tube, hard outside, spongy and hollow inside.",
+     "do": "Do Experiment e2. Make three tubes, three folded strips and three tight rods from paper. Stand the three tubes in a triangle and lay a hardcover book on top. Add books one at a time until the tubes bend. Count the books, then do the same with the strips and the rods. Ask first: 'Which will hold the most books? Why do you think so?' Then a grown-up snaps a cooked chicken bone in half (or show a picture of a cut bone). Look inside: hard bone outside, spongy bone and a soft middle inside.",
      "ref": "e2"
     },
     {
      "kind": "think",
      "title": "Why not solid?",
      "mins": 8,
-     "do": "Ask: 'A solid bone would be even stronger. So why are our long bones tubes?' Good answers: solid bones would be very heavy, so moving would take more energy; a tube is nearly as strong for bending but much lighter; and the hollow middle holds marrow. Say: 'Birds take this furthest: many of their bones are hollow with air inside, and some have little struts across like a bridge.'"
+     "do": "Ask: 'A solid bone would be a little stronger. So why are our long bones tubes?' Good answers: solid bones would be much heavier, so moving would take more energy. A tube is nearly as strong against bending but much lighter. And the middle holds marrow. Say: 'Birds need to be light to fly. Many of their bones are hollow and full of air, with thin cross-pieces inside that make them stiff, like the bars of a bridge.'"
     }
    ],
    "need": [
-    "an umbrella or a frame tent or mosquito net frame",
-    "sheets of A4 paper, tape",
-    "a pile of books of similar size"
+    "an umbrella",
+    "9 sheets of A4 paper or newspaper, tape",
+    "a pile of books of similar size, one of them a hardcover",
+    "a cooked chicken bone (optional)"
    ]
   },
   {
@@ -172,19 +173,19 @@
      "kind": "warmup",
      "title": "Joint check from Class 1",
      "mins": 6,
-     "do": "Ask: 'What is a hinge joint? A ball joint?' (one way like a door; round and round like a ball in a cup). 'Show me one of each.' (elbow or knee; shoulder or hip)."
+     "do": "Ask: 'Your elbow bends only one way, like a door. What do we call that joint?' (a hinge joint). 'Your shoulder turns round in a circle. What is that joint called?' (a ball and socket joint). 'Show me one more of each.' (knee is a hinge, hip is a ball and socket)."
     },
     {
      "kind": "do",
      "title": "Four kinds of joint",
      "mins": 15,
-     "do": "Teach two new kinds. Pivot joint: your child nods 'no' with the head; the top two vertebrae let the head turn, like a wheel on an axle. Fixed joint: feel the top of the head; the skull is about 22 bones joined so tightly they cannot move, sewn together by wavy lines called sutures. Tell them: 'A baby's skull bones are not joined yet. There are soft spots, so the head can squeeze a little at birth and the brain can grow. They join by about age two.' Then your child tests ten joints (neck, shoulder, elbow, wrist, knuckle, hip, knee, ankle, jaw, skull) and calls out the kind."
+     "do": "Teach two new kinds. Pivot joint: your child shakes the head for 'no'. The top two vertebrae let the head turn, like a wheel on an axle. Fixed joint: feel the top of the head. The skull is made of 22 bones. All of them except the jaw are joined so tightly that they cannot move, along wavy lines called sutures. Say: 'A newborn baby's skull bones are not joined yet. There are soft spots between them, so the head can squeeze a little at birth and the brain can grow. The soft spots close by about age two.' Then your child tests ten joints (neck, shoulder, elbow, wrist, knuckle, hip, knee, ankle, jaw, top of the skull) and calls out the kind."
     },
     {
      "kind": "act",
      "title": "Model joints",
      "mins": 14,
-     "do": "Do Activity a1: make a hinge (two lolly sticks and a strip of tape folded over the ends), a ball and socket (a ball of clay or a lemon in a small cup or bottle cap), and a pivot (a pencil through a hole in a cardboard circle). Your child moves each and matches it to a joint on their body.",
+     "do": "Do Activity a1. Make a hinge (two lolly sticks taped together at one end), a ball and socket (a ball of clay or a small lemon in a cup or bottle cap) and a pivot (a pencil through a hole in a cardboard circle). Your child moves each one and matches it to a joint on their body.",
      "ref": "a1"
     },
     {
@@ -209,26 +210,26 @@
      "kind": "warmup",
      "title": "Pull, not push",
      "mins": 7,
-     "do": "Hand your child a piece of string. Ask: 'Can you push a book across the table with this string?' (no, it goes floppy). 'Can you pull it?' (yes). Say: 'Muscles are like the string. They can only pull. When a muscle pulls, it gets shorter and fatter. That is called contracting. When it stops pulling, it relaxes and can be stretched long again.'"
+     "do": "Hand your child a piece of string. Ask: 'Can you push a book across the table with this string?' (no, it goes floppy). 'Can you pull it?' (yes). Say: 'Muscles are like the string. They can only pull. When a muscle pulls, it gets shorter and fatter. This is called contracting. When it stops pulling, it relaxes, and it can be stretched long again.'"
     },
     {
      "kind": "do",
      "title": "Biceps and triceps",
      "mins": 10,
-     "do": "Your child holds their right arm out. Put their left hand on the front of the upper arm (the biceps) and bend the elbow: the biceps contracts and bulges. Now put the hand on the back of the upper arm (the triceps) and push down on the table with a straight arm: the triceps goes hard. Ask: 'When the biceps pulls, what is the triceps doing?' (relaxing, being stretched). 'So who straightens the arm?' (the triceps). Say: 'Muscles that pull in opposite directions are called an antagonistic pair. Antagonist means an opponent, but they work as a team.' Find another pair: the front and back of the thigh when you bend and straighten the knee."
+     "do": "Your child holds the right arm out. Put their left hand on the front of the upper arm (the biceps) and ask them to bend the elbow. The biceps contracts and bulges. Now put the hand on the back of the upper arm (the triceps) and press down on the table with a straight arm. The triceps goes hard. Ask: 'When the biceps pulls, what is the triceps doing?' (relaxing and being stretched). 'So which muscle straightens the arm?' (the triceps). Say: 'Two muscles that pull in opposite directions are called an antagonistic pair. Antagonist means opponent, but the two work together.' Find another pair: the front and back of the thigh when your child bends and straightens the knee."
     },
     {
      "kind": "exp",
      "title": "The chicken wing",
      "mins": 18,
-     "do": "Do Experiment e3. With a raw chicken wing from the butcher on a tray, a grown-up carefully cuts the skin away from the lower part of the wing. Your child (in gloves) finds the pink muscle, the shiny white tendons at its end, and the bone. Pull one tendon gently: the wing tip bends. Pull the one on the other side: it straightens. If you are vegetarian, use the two-string model in the experiment's steps instead.",
+     "do": "Do Experiment e3. A grown-up puts a raw chicken wing on a tray and carefully cuts the skin away from the lower part. Your child, in gloves, finds the pink muscle, the shiny white tendons at its end and the bone. Pull one tendon gently: the wing tip bends. Pull the one on the other side: the wing straightens. If your family is vegetarian, make the two-string model in the experiment's steps instead.",
      "ref": "e3"
     },
     {
      "kind": "talk",
      "title": "Tendons and ligaments",
      "mins": 10,
-     "do": "Ask your child to feel the back of their ankle above the heel while pointing the toes. 'Feel that hard cord? That is the Achilles tendon, the biggest tendon in your body. It ties the calf muscle to your heel bone.' Say: 'Tendons tie muscle to bone. Ligaments are straps that tie bone to bone at a joint so it does not come apart.' Ask: 'What happens when you twist your ankle badly?' (you stretch or tear a ligament: a sprain)."
+     "do": "Ask your child to point their toes and feel the back of the ankle, just above the heel. Say: 'Feel that hard cord? That is the Achilles tendon, the biggest tendon in your body. It ties the calf muscle to your heel bone. Tendons tie muscle to bone. Ligaments are straps that tie bone to bone at a joint, so the joint does not come apart.' Ask: 'What do you think happens when you twist your ankle badly?' (you stretch or tear a ligament, which is called a sprain)."
     }
    ],
    "need": [
@@ -245,70 +246,71 @@
      "kind": "exp",
      "title": "The rubber bone result",
      "mins": 10,
-     "do": "Take out the bone from Experiment e1 (it needs at least five days; if it has had less, check it now and finish on Day 8). Rinse it. Your child bends it next to the dry bone. Ask: 'What happened?' (it bends like rubber). Explain: 'Bone is made of two things: hard minerals, mostly calcium, which the vinegar dissolved, and a tough bendy protein called collagen, which is left. Minerals make bones hard. Collagen stops them snapping like chalk.'",
+     "do": "Take out the bone from Experiment e1. It needs at least five days in vinegar. If it has had less, check it now and finish on Day 8. Rinse it. Your child bends it next to the dry bone. Ask: 'What happened? What do you think the vinegar took away?' (it bends like rubber). Then explain: 'Bone is made of two things. Hard minerals, mostly calcium, make it hard, and the vinegar dissolved them. A tough, bendy material called collagen is left. Collagen stops a bone snapping like chalk.'",
      "ref": "e1"
     },
     {
      "kind": "talk",
      "title": "Bones grow and mend",
      "mins": 10,
-     "do": "Say: 'Near the ends of your long bones there are growth plates, where new bone is being made. That is how you get taller. When you are grown up they close.' Then: 'If you break a bone, cells in the bone build a bridge across the crack, first soft, then hard. A plaster just holds the pieces still while the bone heals itself.' Ask: 'What makes bones stronger?' Listen for: calcium (milk, curd, ragi, sesame, green leaves), vitamin D (which our skin makes in sunlight), and jumping, running and climbing, because bones get thicker where they are used. Astronauts in space lose bone because nothing presses on it.' Tell them about voice v4, Mae Jemison, and ask its question.",
+     "do": "Say: 'Near the ends of your long bones are growth plates, where new bone is made. That is how you get taller. When you are grown up, they close.' Then: 'If you break a bone, cells in the bone build a bridge across the break, first soft, then hard. A plaster only holds the pieces still while the bone heals itself.' Ask: 'What do you think makes bones stronger?' Listen for calcium (milk, curd, ragi, sesame, green leaves), vitamin D (which our skin makes in sunlight) and running, jumping and climbing, because bones get thicker where they are used. Say: 'Astronauts in space lose bone, because nothing presses on their bones there.' Then tell your child about voice v4, Mae Jemison, and ask her question.",
      "ref": "v4"
     },
     {
      "kind": "talk",
      "title": "The first X-ray",
      "mins": 10,
-     "do": "Tell your child about voice v2: Röntgen, his wife Anna Bertha's hand, and his choice not to own the discovery. If you have any X-ray at home (an old dental or chest X-ray), hold it to the window. Ask the voice question.",
+     "do": "Tell your child about voice v2: Wilhelm Röntgen, the X-ray of his wife Anna Bertha's hand, and his choice to let everyone use X-rays freely. If you have an old X-ray at home (a dental or chest X-ray), hold it up to the window. Ask the voice question.",
      "ref": "v2"
     },
     {
      "kind": "read",
      "title": "Read the story",
      "mins": 15,
-     "do": "Read aloud 'The Sea Dragon's Hand', the story in this rung. Stop after Mary counts the little bones in the paddle and ask: 'What do you think she has realised?' Then read to the end. Ask the first two story questions now and keep the rest for Day 7."
+     "do": "Read aloud 'The Sea Dragon's Hand', the story in this lesson. Mary Anning was a real girl in England who dug up fossils over 200 years ago. Stop after Mary counts the little bones in the paddle and ask: 'What do you think she has realised?' Then read to the end. Ask the first two story questions now and keep the rest for Day 7."
     }
    ],
    "need": [
     "the jars from Day 1",
     "an old X-ray film if you have one",
-    "the story text"
+    "the story"
    ]
   },
   {
    "n": 6,
    "title": "Bodies with no bones inside",
-   "goal": "Meet exoskeletons and water skeletons, and go on a minibeast hunt.",
+   "goal": "Meet exoskeletons and hydrostatic skeletons, and look closely at small creatures.",
    "steps": [
     {
      "kind": "warmup",
      "title": "Who has no bones?",
      "mins": 6,
-     "do": "Ask: 'Does an ant have bones? A snail? An earthworm? A crab?' Collect guesses. Say: 'None of them has a bone. But all of them have something that holds them up. Today we find out what.'"
+     "do": "Ask: 'Does an ant have bones? An earthworm? A crab? A prawn?' Collect guesses and reasons. Say: 'None of them has a single bone. But each one has something that holds the body up. Today we find out what.'"
     },
     {
-     "kind": "outdoor",
-     "title": "Minibeast hunt",
+     "kind": "do",
+     "title": "Look at ants and a shell",
      "mins": 15,
-     "do": "Go outside to a garden, park or the pots on a balcony with a magnifying glass. Look under pots and stones and in leaf litter. For each creature, ask: 'Hard outside or soft? How does it keep its shape?' Look for: ants, beetles, spiders (hard outer case, legs with joints), snails (soft body plus a shell), earthworms (soft, no hard parts at all). If you find an empty insect skin or a snake skin, look closely: it is a moult."
+     "do": "Put a few grains of sugar near a window or the kitchen door and wait a few minutes for ants. Look at them with a magnifying glass. Ask: 'Is the ant soft or hard on the outside? Where do the legs bend?' (hard outside, with joints in every leg). If you can, also look at the shell of a prawn or crab from the market, or a picture of one. If you have a garden or a park nearby, look for snails and earthworms too. If you ever find an empty insect skin or a snake skin, look at it closely: it is a moult, a skin the animal grew out of."
     },
     {
      "kind": "talk",
      "title": "Armour and water",
      "mins": 12,
-     "do": "Explain: 'Insects, spiders, crabs and prawns have an exoskeleton: their skeleton is on the outside, a hard case made of a material called chitin. Their muscles are tied to the inside of the case. But a case cannot grow, so they must moult: split it open, climb out soft, and puff up before the new one hardens.' Then the earthworm: fill a long balloon with water and tie it. 'An earthworm is like this: a tube of muscles squeezing on liquid inside. Squeeze one end and the other gets longer. That is a hydrostatic skeleton.' Let your child squeeze the balloon and watch it stretch. Say: 'Jellyfish, sea anemones and even the arms of an octopus use water pressure too.'"
+     "do": "Explain: 'Ants, spiders, crabs and prawns have an exoskeleton, which means a skeleton on the outside. It is a hard case made of a material called chitin, and their muscles are joined to the inside of it. But a hard case cannot grow. So the animal must moult: split the case open, climb out soft, and swell up before the new case hardens.' Then the earthworm. Fill a long balloon with water and tie it. Say: 'An earthworm has a soft tube of muscles with liquid inside. When muscles squeeze one part thinner, that part gets longer. This is called a hydrostatic skeleton.' Let your child squeeze the balloon and watch it stretch. Say: 'Slugs, leeches and sea anemones are held up by liquid too.'"
     },
     {
      "kind": "ws",
      "title": "Stretch worksheet",
      "mins": 12,
-     "do": "Do Worksheet ws2, which applies the ideas to new animals. Your child should use the minibeast hunt for at least one answer.",
+     "do": "Do Worksheet ws2, which uses the ideas on new animals. Your child can use what they saw on the ants in at least one answer.",
      "ref": "ws2"
     }
    ],
    "need": [
-    "a magnifying glass",
+    "a magnifying glass, a few grains of sugar",
     "a long balloon and water",
+    "a prawn or crab shell, or a picture of one (optional)",
     "worksheet ws2"
    ]
   },
@@ -321,33 +323,33 @@
      "kind": "warmup",
      "title": "Remember the sea dragon",
      "mins": 6,
-     "do": "Ask the remaining story questions about 'The Sea Dragon's Hand'. Ask especially: 'Why did Mary feel the creature was less of a monster once she found its hand?'"
+     "do": "Ask the remaining story questions about 'The Sea Dragon's Hand', where Mary Anning found a hand inside a fossil paddle. Ask especially: 'Why did the creature seem less of a monster to Mary once she found its hand?'"
     },
     {
      "kind": "act",
      "title": "Same bones, different jobs",
      "mins": 15,
-     "do": "Do Activity a2. Draw (or print) four outlines: a human arm, a bird's wing, a whale's flipper, a bat's wing. In each, your child colours the one upper-arm bone red, the two forearm bones blue, and the wrist and finger bones yellow, following the pattern you draw first on the human arm. Ask: 'Why would a whale have finger bones hidden inside a flipper?' Good answer: whales came from land animals with legs and fingers, and the old bones were reshaped. Say: 'This is one of the clues that all animals with backbones are related. Your body is a history book. Scientists think the first backbones were grown by small fish-like swimmers more than 500 million years ago, the four-limb plan of your arms and legs was handed down from fish with strong fins that crawled into the shallows around 370 million years ago, and the first hard skeletons of all were outside skeletons, on sea creatures, before any backbone.' Ask: 'Which page of the history book is your hand?'",
+     "do": "Do Activity a2. Draw four outlines: a human arm, a bird's wing, a whale's flipper and a bat's wing. Your child colours the one upper-arm bone red, the two forearm bones blue, and the wrist and finger bones yellow, following the pattern you draw first on the human arm. Ask: 'Why would a whale have finger bones hidden inside a flipper?' Good answer: whales came from land animals with legs and toes, and over a very long time those bones changed shape. Say: 'This is one of the clues that all animals with backbones are related. Scientists think the first backbones grew in small fish-like swimmers more than 500 million years ago. Arms and legs like ours came from fish with strong fins that crawled into shallow water about 370 million years ago.'",
      "ref": "a2"
     },
     {
      "kind": "talk",
      "title": "Mary Anning",
      "mins": 9,
-     "do": "Tell your child about voice v1: who found the fossils, and who got the credit. Ask the voice question and let your child argue it.",
+     "do": "Tell your child about voice v1, Mary Anning: who found the fossils, and who got the credit. Ask the voice question and let your child argue it.",
      "ref": "v1"
     },
     {
      "kind": "do",
      "title": "Start the project",
      "mins": 5,
-     "do": "Start the project 'A working arm with two muscles'. Today just cut and join the two card strips with a split pin and decide what you will use for the biceps and triceps (two long balloons or two strips of elastic). Finish taping the muscles on tomorrow before the review."
+     "do": "Start the project 'A working arm with two muscles'. Today just join two card strips with a split pin. Decide what to use for the biceps and triceps: two long balloons or two strips of elastic. You will tape the muscles on tomorrow."
     },
     {
      "kind": "game",
      "title": "Skeleton sort cards",
      "mins": 10,
-     "do": "Play the card game g1, 'Inside, Outside or Water?'. Shuffle the animal cards, take turns turning one over and saying which kind of skeleton the animal has before checking the back.",
+     "do": "Play the card game g1, 'Inside, Outside or Water?'. Shuffle the animal cards. Take turns to turn one over and say which kind of skeleton the animal has, then check the back.",
      "ref": "g1"
     }
    ],
@@ -366,27 +368,27 @@
      "kind": "think",
      "title": "Do bones send messages?",
      "mins": 10,
-     "do": "Tell your child about voice v3, the debate about whether bone sends chemical messages to the rest of the body. Ask: 'Two groups did the same kind of test and got different answers. What should scientists do next?' (repeat it again, carefully, in more labs, and find out what was different).",
+     "do": "Tell your child about voice v3, the argument about whether bones send chemical messages to the rest of the body. Ask: 'Two groups of scientists did the same kind of test and got different answers. What should scientists do next?' (repeat the test carefully in more labs, and find out what was different between the tests).",
      "ref": "v3"
     },
     {
      "kind": "ws",
      "title": "Challenge worksheet",
      "mins": 12,
-     "do": "Do Worksheet ws3. Give your child time to puzzle; offer a hint only after they have tried for two minutes.",
+     "do": "Do Worksheet ws3. Give your child time to think. Offer a hint only after they have tried for two minutes.",
      "ref": "ws3"
     },
     {
      "kind": "review",
      "title": "Project and big question",
      "mins": 8,
-     "do": "Look at the project model (the arm with two muscles). Then ask one big question: 'Most animals on Earth have no backbone at all. Are we the normal ones, or the strange ones?'"
+     "do": "Finish the project: tape on the two muscles and show how the arm bends and straightens. Then ask one big question: 'Most animals on Earth have no backbone at all. Are we the usual kind of animal, or the unusual kind?'"
     },
     {
      "kind": "check",
      "title": "Teach it back",
      "mins": 15,
-     "do": "Your child teaches the whole rung to a grown-up using the bone map: ten bones, four jobs, four kinds of joint, muscle pairs, and three kinds of skeleton in other animals. Then ask the check questions."
+     "do": "Your child teaches what they learnt to a grown-up using the bone map: ten bones, four jobs, four kinds of joint, muscle pairs, and three kinds of skeleton in other animals. Then ask the check questions."
     }
    ],
    "need": [
@@ -499,7 +501,7 @@
       },
       {
        "t": "mcq",
-       "p": "The skull bones of a newborn baby are…",
+       "p": "When a baby is born, the bones of the skull are…",
        "opts": [
         "already joined tight",
         "not yet joined, with soft spots",
@@ -556,21 +558,21 @@
       },
       {
        "t": "mcq",
-       "p": "Why must a crab moult?",
+       "p": "A crab grows bigger. Why must the crab moult?",
        "opts": [
-        "its hard outside cannot grow",
-        "it is too hot",
+        "the hard shell cannot grow",
+        "the crab is too hot",
         "to change colour"
        ],
        "a": 0
       },
       {
        "t": "mcq",
-       "p": "Straight after moulting, a crab is…",
+       "p": "A crab has just moulted. What is the crab like for the next day or two?",
        "opts": [
         "soft and in danger",
         "harder than ever",
-        "invisible"
+        "exactly the same as before"
        ],
        "a": 0
       },
@@ -624,7 +626,7 @@
        "opts": [
         "contracts",
         "relaxes",
-        "disappears"
+        "pushes"
        ],
        "a": 0
       }
@@ -635,12 +637,12 @@
      [
       {
        "t": "write",
-       "p": "An earthworm has no bones and no hard shell. How does it push through soil?",
+       "p": "An earthworm has no bones and no hard shell. How do earthworms push through soil? Use the words muscle and liquid.",
        "lines": 3
       },
       {
        "t": "write",
-       "p": "An astronaut spends six months in space and comes back with weaker bones. Why might that happen, and what could help?",
+       "p": "Sunitha, an astronaut, spends six months in space. She comes back with weaker bones. Why might that happen, and what could help?",
        "lines": 3
       }
      ]
@@ -696,7 +698,7 @@
       },
       {
        "t": "mcq",
-       "p": "Why might bird bones be hollow with struts inside?",
+       "p": "Many bird bones are hollow, with thin cross-pieces inside. Why might this help a bird?",
        "opts": [
         "light for flying but still strong",
         "to hold more blood",
@@ -706,12 +708,12 @@
       },
       {
        "t": "sort",
-       "p": "Exoskeleton: good or bad? Sort these.",
+       "p": "Is each of these good or bad for an animal with an exoskeleton? Sort them.",
        "items": [
         "armour against biting",
         "must moult to grow",
         "stops drying out",
-        "heavy if you are very big"
+        "very heavy if the animal is very big"
        ],
        "cats": [
         "advantage",
@@ -730,12 +732,12 @@
       },
       {
        "t": "write",
-       "p": "Mary Anning found the fossils, but men who had not found them wrote about them. Who should get the credit for a discovery: the finder, the person who explains it, or both? Give your reason.",
+       "p": "Mary Anning found the fossils, but men who had not found them wrote about them, often without her name. Who should get the credit for a discovery: the person who finds it, the person who explains it, or both? Give your reason.",
        "lines": 4
       },
       {
        "t": "write",
-       "p": "Design a fair test to find out if jumping makes bones stronger. What would you change, keep the same and measure? (Hint: scientists have done this with children.)",
+       "p": "Design a fair test to find out if jumping makes bones stronger. What would you change, what would you keep the same, and what would you measure?",
        "lines": 4
       }
      ]
@@ -756,7 +758,7 @@
     "labels"
    ],
    "steps": [
-    "Scrub two cooked chicken drumstick bones clean.",
+    "Scrub two cooked chicken drumstick bones clean of all meat.",
     "Put one in a jar and cover it with vinegar. Close the lid.",
     "Put the other in an empty jar as the control.",
     "Label both with the date.",
@@ -764,8 +766,8 @@
     "Rinse the bone and try to bend both bones."
    ],
    "predict": "Ask: 'What will the vinegar do? Will the bone get harder, softer, or stay the same?'",
-   "observe": "The vinegar bone becomes bendy, like rubber, and may be slightly see-through. The dry bone stays stiff. Tiny bubbles may form on the bone in the first day.",
-   "why": "Bone is a mix of hard minerals (mostly calcium phosphate) and a tough, bendy protein called collagen. Vinegar is a weak acid that dissolves the minerals and leaves the collagen. So minerals give bones hardness, and collagen gives them a little bend so they do not shatter. Living bone needs both.",
+   "observe": "The bone in vinegar becomes bendy, like rubber, and may look a little see-through. The dry bone stays stiff. Tiny bubbles may form on the bone in the first day. If the bone is still stiff after a week, put it in fresh vinegar for a few more days.",
+   "why": "Bone is a mix of hard minerals (mostly calcium phosphate) and a tough, bendy material called collagen. Vinegar is a weak acid. It dissolves the minerals and leaves the collagen. So minerals make bones hard, and collagen gives them a little bend so they do not shatter. Living bone needs both.",
    "safety": "Vinegar is safe but stings in cuts and eyes. Wash hands after handling the bones. Throw the bones away afterwards.",
    "time": "12 min to set up + 5 to 7 days"
   },
@@ -775,21 +777,23 @@
    "day": 2,
    "question": "Why are long bones tubes?",
    "need": [
-    "three sheets of A4 paper",
+    "9 sheets of A4 paper or newspaper, all the same size",
     "tape",
+    "a hardcover book",
     "about 15 books of similar size"
    ],
    "steps": [
-    "Roll one sheet loosely into a tube about 3 cm across and tape it.",
-    "Fold the second sheet in half lengthways three times to make a flat strip, and stand it on its edge.",
-    "Roll the third sheet as tightly as you can into a thin solid rod and tape it.",
-    "Stand each upright and gently stack books on top, one at a time.",
-    "Count how many books each holds before it bends."
+    "Roll three sheets loosely into tubes about 3 cm across, and tape each one. Make them all the same height.",
+    "Fold three sheets in half lengthways three times to make flat strips. Bend each strip into a V so it can stand.",
+    "Roll three sheets as tightly as you can into thin rods and tape them.",
+    "Stand the three tubes upright in a triangle. Lay the hardcover book gently on top, centred.",
+    "Add books one at a time until the tubes bend. Count the books.",
+    "Do the same with the three strips, then the three rods."
    ],
-   "predict": "Ask: 'Which will hold the most books: the tube, the flat strip, or the thin solid rod?'",
-   "observe": "The wide tube usually holds far more books than the flat strip or the thin rod made from the same paper.",
-   "why": "In a tube the material is spread out away from the middle, which makes it stiff against bending and buckling for its weight. A solid bone would be heavier for only a little more strength. So long bones are tubes of hard bone with lighter spongy bone and marrow inside: strong, light and useful.",
-   "safety": "Stack books gently on a low table so they do not fall on toes.",
+   "predict": "Ask: 'Which will hold the most books: the tubes, the folded strips or the thin rods? Why do you think so?'",
+   "observe": "The wide tubes usually hold many more books than the strips or the thin rods made from the same amount of paper. If a tube falls over sideways rather than bending, start again and place the first book more carefully.",
+   "why": "In a tube, the material is spread out away from the middle. This makes it stiff against bending for its weight. A solid bone would be much heavier for only a little more strength. So long bones are tubes of hard bone, with lighter spongy bone and marrow inside.",
+   "safety": "Stack the books gently on a low table or the floor, so they do not fall on toes.",
    "time": "18 min"
   },
   {
@@ -812,11 +816,11 @@
     "Pull a tendon on the outer side: it straightens.",
     "Bend the joint and look for the white, slippery cartilage on the bone ends.",
     "Throw the wing away, clean the tray and wash hands well with soap.",
-    "Vegetarian option: join two card strips with a split pin. Tape one string to the front of the lower strip and one to the back, each threaded through a tape loop on the upper strip. Pull the front string: the arm bends. Pull the back string: it straightens. Notice you cannot push with either string."
+    "Vegetarian option: join two card strips with a split pin. Tape one string to the front of the lower strip and one to the back. Thread each string through a loop of tape on the upper strip. Pull the front string: the arm bends. Pull the back string: it straightens. Notice that you cannot push with either string."
    ],
    "predict": "Ask: 'If you pull this white cord, what will move?'",
-   "observe": "Pulling a tendon moves the bone beyond the joint, never the bone it starts from. Each tendon moves the wing one way only.",
-   "why": "Muscles are joined to bones by tendons. When a muscle contracts, it pulls the tendon, which pulls the bone around the joint. Because muscles only pull, each joint needs at least two muscles pulling in opposite directions: an antagonistic pair, like the biceps and triceps. Chicken wings have the same plan as our arm.",
+   "observe": "Pulling a tendon moves the bone on the other side of the joint, not the bone the muscle sits on. Each tendon moves the wing one way only.",
+   "why": "Muscles are joined to bones by tendons. When a muscle contracts, it pulls the tendon, and the tendon pulls the bone round the joint. Muscles can only pull, so each joint needs at least two muscles pulling in opposite directions: an antagonistic pair, like the biceps and triceps. A chicken wing has the same plan of bones as our arm.",
    "safety": "Raw chicken can carry germs (such as Salmonella). Wear gloves, keep the wing on the tray, keep hands away from the face, and wash hands, the tray and the knife with hot soapy water afterwards. Only a grown-up uses the knife.",
    "time": "18 min"
   }
@@ -833,10 +837,11 @@
     "clay or a small lemon",
     "a bottle cap or small cup",
     "a pencil",
-    "a cardboard circle with a hole in the middle"
+    "a cardboard circle with a hole in the middle",
+    "two pieces of card"
    ],
    "steps": [
-    "Hinge: lay two lolly sticks end to end and tape them across the join on one side only, so they fold one way.",
+    "Hinge: lay two lolly sticks end to end and tape across the join on one side only, so they fold one way.",
     "Ball and socket: sit the clay ball or lemon in the cup and turn it in every direction.",
     "Pivot: push the pencil through the cardboard circle and spin the circle.",
     "Fixed: tape two pieces of card together all along the edge so they cannot move.",
@@ -858,9 +863,9 @@
     "Draw outlines of a bird's wing, a bat's wing and a whale's flipper.",
     "Inside each, draw the same pattern: one red upper bone, two blue lower bones, yellow wrist and fingers, stretched or squashed to fit.",
     "Write what each limb is used for under it.",
-    "Talk: same bones, different jobs. What does that tell us?"
+    "Talk: the same bones are used for different jobs. What does that tell us about these animals?"
    ],
-   "outcome": "A chart showing that arm, wing and flipper share one bone plan: evidence that vertebrates are related."
+   "outcome": "A chart showing that an arm, a wing and a flipper share one plan of bones, which is evidence that animals with backbones are related."
   }
  ],
  "project": {
@@ -872,12 +877,12 @@
   "steps": [
    "Cut two card strips (upper arm and forearm) and join them with a split pin as the elbow.",
    "Use two long balloons, or two strips of elastic, as the biceps and triceps. Tape one to the front and one to the back, from the upper arm to just past the elbow.",
-   "Add string 'tendons' at the ends if you like.",
+   "If you like, add string tendons at the ends.",
    "Show that when the front muscle shortens the arm bends, and when the back muscle shortens it straightens.",
    "Label: bone, joint, tendon, biceps, triceps, contract, relax.",
    "Explain the model to someone, including one way it is NOT like a real arm."
   ],
-  "outcome": "A labelled model of an arm moved by an antagonistic pair of muscles, and an honest list of how a model differs from the real thing."
+  "outcome": "A labelled model of an arm moved by an antagonistic pair of muscles, and a short list of how the model is different from a real arm."
  },
  "game": {
   "id": "g1",
@@ -913,11 +918,11 @@
    },
    {
     "front": "cockroach",
-    "back": "outside: a chitin case; it moults as it grows"
+    "back": "outside: a case of chitin. They moult as they grow."
    },
    {
     "front": "earthworm",
-    "back": "water: rings of muscle squeezing liquid"
+    "back": "water: rings of muscle squeezing liquid inside"
    },
    {
     "front": "king cobra",
@@ -925,11 +930,11 @@
    },
    {
     "front": "mud crab",
-    "back": "outside: a hard shell it must moult"
+    "back": "outside: a hard shell they must moult to grow"
    },
    {
     "front": "jellyfish",
-    "back": "water: its body is held up by the sea and its own jelly"
+    "back": "water: a soft body of jelly, held up by the sea"
    },
    {
     "front": "peacock",
@@ -937,11 +942,11 @@
    },
    {
     "front": "garden spider",
-    "back": "outside: it moults several times"
+    "back": "outside: they moult several times as they grow"
    },
    {
     "front": "sea anemone",
-    "back": "water: it fills with seawater to stand up"
+    "back": "water: they fill with seawater to stand up"
    },
    {
     "front": "frog",
@@ -949,23 +954,23 @@
    },
    {
     "front": "prawn",
-    "back": "outside: the shell you peel off"
+    "back": "outside: the shell you peel off before cooking"
    },
    {
     "front": "leech",
-    "back": "water: muscles squeeze its fluid-filled body"
+    "back": "water: muscles squeeze a body full of liquid"
    },
    {
     "front": "Ganges river dolphin",
-    "back": "inside: finger bones hidden in its flippers"
+    "back": "inside: finger bones hidden in their flippers"
    },
    {
     "front": "dung beetle",
-    "back": "outside: hard wing cases too"
+    "back": "outside: they even have hard cases over their wings"
    },
    {
-    "front": "octopus arm",
-    "back": "water: a muscle-and-fluid arm with no bone"
+    "front": "octopus",
+    "back": "no bones and no shell: the arms are packed with muscles that squeeze against each other, like your tongue. This is close to a water skeleton."
    },
    {
     "front": "you",
@@ -973,11 +978,11 @@
    },
    {
     "front": "scorpion",
-    "back": "outside: it even glows under ultraviolet light"
+    "back": "outside: their case even glows under ultraviolet light"
    },
    {
-    "front": "rohu fish",
-    "back": "inside: a backbone and fine bones"
+    "front": "mathi (sardine)",
+    "back": "inside: a backbone and many fine bones"
    },
    {
     "front": "centipede",
@@ -985,66 +990,66 @@
    },
    {
     "front": "slug",
-    "back": "water: a soft, muscular body full of fluid"
+    "back": "water: a soft, muscly body full of liquid"
    }
   ]
  },
  "big": [
   "Most animals on Earth have no backbone. Are we the normal ones or the strange ones?",
   "Your bones are being rebuilt all the time. Is the skeleton you have today the same one you had five years ago?",
-  "If the whale's flipper hides a hand, what other secrets might bodies keep about where they came from?",
-  "Is it fair that the person who finds something is sometimes forgotten, and the person who writes it up is remembered?",
-  "Which is the better way to hold a body up: bones inside, armour outside, or water? Is there a 'best'?"
+  "A whale's flipper has the bones of a hand inside it. What else might bodies show us about where they came from?",
+  "Is it fair that the person who finds something is sometimes forgotten, while the person who writes about it is remembered?",
+  "Which is the better way to hold a body up: bones inside, a hard case outside, or liquid? Is there a best way?"
  ],
  "challenge": [
   {
    "q": "People say: drink lots of milk and your bones will be strong. Is milk the secret?",
-   "hint": "Bones do need calcium, and milk has plenty. But calcium also comes from ragi, sesame, green leaves, dals and small fish eaten with bones; bones need vitamin D (made by skin in sunlight) to use the calcium; and bones grow thickest where they are used, by running and jumping. Many people in the world drink no milk and have strong bones. Ask: what is the whole recipe, not just one ingredient?"
+   "hint": "Bones do need calcium, and milk has plenty. But calcium also comes from ragi, sesame, green leaves, dals and small fish eaten with their bones. Bones also need vitamin D, which the skin makes in sunlight, to use the calcium. And bones grow thickest where they are used, by running and jumping. Many people in the world drink no milk and have strong bones. Ask: what is the whole recipe, not just one ingredient?"
   },
   {
-   "q": "Insects are 'simpler' than us because they have no backbone.",
-   "hint": "Insects have a different design, not a worse one. Their exoskeleton is armour, a waterproof coat and a frame all at once, and insects have lived on Earth for over 400 million years, far longer than humans. Ask: what does 'simple' really mean?"
+   "q": "Insects are 'simpler' than us because they have no backbone. Is that true?",
+   "hint": "Insects have a different design, not a worse one. Their exoskeleton is a frame, a coat of armour and a waterproof cover all at once. Insects have lived on Earth for about 400 million years, far longer than humans. Ask: what does 'simple' really mean?"
   },
   {
-   "q": "The appendix and the tailbone are useless leftovers.",
-   "hint": "The tailbone (coccyx) is left from our ancestors' tails, but it is not useless: several muscles and ligaments are attached to it and it helps us sit. Being a leftover from the past and being useful today can both be true."
+   "q": "People say the tailbone is a useless leftover. Is that true?",
+   "hint": "The tailbone, or coccyx, is what is left of the tails our ancestors had. But it is not useless. Several muscles and ligaments are joined to it, and it helps hold us up when we sit. Being a leftover from the past and being useful today can both be true."
   }
  ],
  "perspectives": [
   {
    "who": "A crab after moulting",
-   "view": "For a day or two she is soft and must hide under a rock while her new shell hardens. Ask: what would it be like to have to take off your skeleton to grow?"
+   "view": "For a day or two after moulting she is soft, and must hide under a rock while her new shell hardens. Ask: what would it be like to have to take off your skeleton in order to grow?"
   },
   {
-   "who": "An orthopaedic surgeon in a district hospital",
-   "view": "Bone doctors see that bones heal themselves; the doctor's job is to put the pieces in line and keep them still. Ask: who is really doing the mending?"
+   "who": "A bone doctor (orthopaedic surgeon) in a hospital in Madurai",
+   "view": "Bone doctors see every day that bones heal themselves. The doctor's job is to put the pieces in line and keep them still. Ask: who is really doing the mending?"
   },
   {
-   "who": "A traditional bonesetter in a village",
-   "view": "In many parts of India traditional bonesetters set broken bones and treat sprains, using skill passed down in families. Some are very skilled; others can do harm with a bad break, and doctors warn that X-rays show what hands cannot feel. Ask: how could we fairly test which kinds of injury a bonesetter treats well?"
+   "who": "A traditional bonesetter (nattu vaidyar) in a Tamil Nadu village",
+   "view": "In many parts of India, traditional bonesetters set broken bones and treat sprains, using skill passed down in families. Some are very skilled. Others can do harm with a bad break, and doctors warn that an X-ray shows what hands cannot feel. Ask: how could we fairly test which injuries a bonesetter treats well?"
   },
   {
    "who": "An earthworm",
-   "view": "It has no bones at all and it moves tonnes of soil in a garden every year. Ask: does it need a skeleton like ours?"
+   "view": "Earthworms have no bones at all, yet they push through soil all day, mixing it and letting air in. Their soft body is perfect for squeezing into tiny gaps. Ask: do they need a skeleton like ours?"
   }
  ],
  "voices": [
   {
    "id": "v1",
    "who": "Mary Anning (1799–1847), Lyme Regis, England",
-   "idea": "Mary Anning grew up poor on the Dorset coast, collecting fossils from the crumbling cliffs to sell. Around 1811–12 her brother Joseph found the skull of a 'crocodile' and Mary found and dug out the rest of the skeleton: one of the first ichthyosaurs ('fish-lizards') to be studied. In 1823 she found the first complete plesiosaur, and later a pterosaur. She taught herself anatomy by dissecting fish and reading scientific papers.",
-   "then": "Men from the Geological Society bought her fossils and wrote famous papers about them, usually without her name. The Society did not allow women to join. When she found the plesiosaur, the great French anatomist Georges Cuvier at first doubted it was real because its neck was so long; he later accepted it.",
+   "idea": "Mary Anning grew up poor on the coast of Dorset in England. She collected fossils from the crumbling cliffs to sell. In 1811 her brother Joseph found the skull of what looked like a crocodile, and over the next year Mary found and dug out the rest of the skeleton. It was one of the first ichthyosaurs ('fish-lizards') to be studied. In 1823 she found the first complete plesiosaur, and later a pterosaur. She taught herself anatomy by cutting up fish and reading scientific papers.",
+   "then": "Men from the Geological Society bought her fossils and wrote famous papers about them, usually without her name. The Society did not allow women to join. When she found the plesiosaur, the great French anatomist Georges Cuvier at first doubted it was real, because its neck was so long. He later accepted it.",
    "now": "Historians agree that Mary Anning was one of the most important fossil-finders of her time and that she was badly under-credited because she was a woman and poor. In 2010 the Royal Society named her one of the ten British women who most influenced science.",
    "status": "accepted",
-   "ask": "Mary found the bones; the gentlemen explained them. Whose work do you think mattered more? Could either have done it without the other?",
+   "ask": "Mary found the bones, and the gentlemen explained them. Whose work do you think mattered more? Could either have done it without the other?",
    "day": 7
   },
   {
    "id": "v2",
    "who": "Wilhelm Röntgen (1845–1923) and Anna Bertha Röntgen (1839–1919), Germany",
-   "idea": "In November 1895 Wilhelm Röntgen found invisible rays that pass through flesh but are stopped by bone. He called them X-rays. In December he made a picture of his wife Anna Bertha's hand, showing her bones and her wedding ring. It was the first X-ray photograph of a human body part.",
+   "idea": "In November 1895 Wilhelm Röntgen found invisible rays that pass through flesh but are stopped by bone. He called them X-rays. In December he made a picture of his wife Anna Bertha's hand, showing her bones and her wedding ring. It became one of the most famous early X-ray pictures.",
    "then": "Within weeks doctors everywhere were using X-rays to find broken bones and swallowed coins. Röntgen won the first Nobel Prize in Physics in 1901. He refused to take out a patent, so anyone could use X-rays freely.",
-   "now": "X-rays are still used every day. Early users did not know X-rays can damage the body when used too much, and some were hurt; now doses are kept very low. Anna Bertha's hand is famous, but she is rarely named.",
+   "now": "X-rays are still used every day. Early users did not know that too many X-rays harm the body, and some were hurt. Now the amount used is kept very low. Anna Bertha's hand is famous, but she is rarely named.",
    "status": "accepted",
    "ask": "Röntgen could have become very rich by owning X-rays, but he let everyone use them. Why might he have chosen that? Would you?",
    "day": 5
@@ -1052,9 +1057,9 @@
   {
    "id": "v4",
    "who": "Mae Jemison (born 1956), USA",
-   "idea": "Mae Jemison is a doctor, an engineer and a dancer. In 1992, on the space shuttle Endeavour, she became the first African-American woman in space. Among the experiments on that mission was research on bone cells, because astronauts' bones lose minerals when nothing presses on them in orbit.",
-   "then": "NASA did not select her the first time she applied, after Sally Ride's flight in 1983; she was chosen in 1987. Before that she worked as a doctor in Sierra Leone and Liberia.",
-   "now": "Bone loss in space is a well-known, serious problem. Astronauts on the space station exercise for about two hours a day, on a treadmill with straps and a machine that pushes back, to keep their bones and muscles strong. She also took a poster of a dancer from the Alvin Ailey American Dance Theater with her into orbit.",
+   "idea": "Mae Jemison is a doctor, an engineer and a dancer. In 1992, on the space shuttle Endeavour, she became the first African-American woman in space. One of the experiments she worked on during that flight was about bone cells, because astronauts' bones lose minerals when nothing presses on them in space.",
+   "then": "Before becoming an astronaut, she worked as a doctor in Sierra Leone and Liberia in West Africa. NASA chose her as an astronaut in 1987.",
+   "now": "Bone loss in space is a serious, well-known problem. Astronauts on the International Space Station exercise for about two hours a day, on a treadmill with straps and a machine that pushes back, to keep their bones and muscles strong. Mae Jemison also took a poster of a dancer from the Alvin Ailey American Dance Theater with her into space.",
    "status": "accepted",
    "ask": "Mae Jemison is a doctor, an engineer and a dancer. Do you think a person should have to choose to be only one thing? What would you like to be, all at once?",
    "day": 5
@@ -1062,9 +1067,9 @@
   {
    "id": "v3",
    "who": "Gerard Karsenty (Columbia University, USA) and the scientists who tested his idea",
-   "idea": "From 2007 Karsenty's team reported that bone is not just a frame: in mice, bone cells release a hormone called osteocalcin that seemed to affect blood sugar, muscles, memory and fertility. This would make the skeleton a messenger organ that talks to the rest of the body.",
+   "idea": "From 2007 Karsenty's team reported that, in mice, bone cells let out a hormone called osteocalcin. It seemed to affect blood sugar, muscles, memory and the ability to have babies. A hormone is a chemical message carried in the blood. If this was right, the skeleton would also be a messenger that talks to the rest of the body.",
    "then": "Many scientists were excited, and other labs published supporting results.",
-   "now": "In 2020 two separate teams made mice without osteocalcin and did not find the same effects on blood sugar or fertility. Scientists now argue about why the results differ. Bone certainly sends some chemical signals (for example, one that controls phosphate in the blood), but how much bone 'talks' to the body is unsettled.",
+   "now": "In 2020 two separate teams bred mice without osteocalcin and did not find the same effects on blood sugar or having babies. Scientists now argue about why the results differ. Bone certainly sends some chemical messages, for example one that controls the amount of phosphate in the blood. How much bone 'talks' to the body is still unsettled.",
    "status": "debated",
    "ask": "Two good labs did similar tests and got different answers. What would convince you one way or the other?",
    "day": 8
@@ -1115,11 +1120,11 @@
   },
   {
    "q": "What is the difference between a tendon and a ligament?",
-   "a": "A tendon joins muscle to bone; a ligament joins bone to bone."
+   "a": "A tendon joins a muscle to a bone. A ligament joins a bone to another bone."
   },
   {
    "q": "What happened to the bone in vinegar, and what does it tell us?",
-   "a": "It went bendy because the vinegar dissolved the hard minerals. Bones are hard because of minerals like calcium and slightly bendy because of collagen."
+   "a": "It went bendy because the vinegar dissolved the hard minerals. Bones are hard because of minerals like calcium, and slightly bendy because of collagen."
   },
   {
    "q": "Name an animal with an exoskeleton and one with a hydrostatic skeleton. Why does the first one moult?",
@@ -1127,7 +1132,7 @@
   },
   {
    "q": "What is hidden inside a whale's flipper, and why does it matter?",
-   "a": "Arm and finger bones like ours, which shows whales came from land animals and are related to us."
+   "a": "Arm and finger bones like ours. This shows that whales came from land animals and are related to us."
   }
  ],
  "story": {
@@ -1149,35 +1154,35 @@
    "It was squashed and stretched and turned into a flipper for swimming, with far more finger bones than I have, but it was a hand all the same. The same plan as mine. One bone, two bones, many bones.",
    "I sat there a long time. The candle burnt down. I thought: this creature swam in a sea where there are cliffs now, before there were any people anywhere at all, and it had the same bones in its arm as I have in mine. Why would that be? Why would God, or the world, or whatever made us, give a dragon and a girl the same hand?",
    "I did not know the answer. Nobody did, then. But after that night the dragon was not a monster to me any more. It was something like a cousin.",
-   "We sold it to a gentleman, and it went to London, and clever men wrote papers about it in the learned journals. They wrote a great deal about the creature and very little about the girl who dug it out. I minded that. I still mind it.",
+   "We sold it to a gentleman, and it went to London, and clever men wrote papers about it in the learned journals. They wrote a great deal about the creature and very little about the girl who dug it out. I minded that. I still do.",
    "But I knew something they had to work out from drawings. I had held its hand, in the middle of the night, and found my own."
   ],
-  "epiphany": "Skeletons of different vertebrates are built on one plan (one upper bone, two lower bones, many small wrist and finger bones), even when the limb is used for swimming, flying or holding a pen, which is a clue that all these animals are related. The turn comes when Mary finds the 'one bone, two bones, many bones' inside the paddle and holds up her own hand. Underneath: the person who did the finding was poor, young and female, and was left out of the written story.",
+  "epiphany": "Animals with backbones have limbs built on one plan: one upper bone, two lower bones, then many small wrist and finger bones. This holds even when the limb is used for swimming, flying or holding a pen, and it is a clue that these animals are related. The turn comes when Mary finds this plan inside the paddle and holds up her own hand. Underneath: the person who did the finding was poor, young and a girl, and was left out of the written story.",
   "ask": [
    "What did Mary find inside the paddle that surprised her?",
    "Why did the sea dragon stop seeming like a monster?",
-   "What parts of its skeleton did Mary describe, and what job did each do?",
-   "Mary asks why a dragon and a girl would have the same hand. What do scientists think today?",
+   "Which parts of the skeleton did Mary describe, and what job did each one do?",
+   "Mary asks why a sea creature and a girl would have the same hand. What do scientists think today?",
    "How do you think Mary felt when the papers left her name out? What would you have done?"
   ]
  },
  "ideas": [
   {
    "idea": "Bone is alive, and it is rebuilt all the time.",
-   "more": "Cells inside bone break old bone down and build new bone throughout life, so bones mend, thicken where they are used and thin when they are not (as in astronauts). Over several years most of your skeleton is renewed."
+   "more": "Cells inside bone break old bone down and build new bone all through life. So bones mend, grow thicker where they are used and thinner where they are not, as in astronauts. Over several years most of your skeleton is replaced."
   },
   {
    "idea": "There is more than one way to hold up a body.",
-   "more": "Bones inside, armour outside or a bag of water squeezed by muscles: each works, with its own costs. Most animals have no backbone at all."
+   "more": "Bones inside, a hard case outside, or liquid squeezed by muscles: each one works, and each has its costs. Most animals have no backbone at all."
   },
   {
    "idea": "One bone plan links us to every animal with a backbone.",
-   "more": "Arms, wings, flippers and legs have the same bones reshaped, because all vertebrates share ancestors. Fossils like Mary Anning's ichthyosaur show the plan going back hundreds of millions of years."
+   "more": "Arms, wings, flippers and legs have the same bones in different shapes, because all animals with backbones share ancestors. Fossils like Mary Anning's ichthyosaur show this plan going back hundreds of millions of years."
   }
  ],
  "unknowns": [
   "Does bone send chemical messages that affect blood sugar, muscles and memory? Labs disagree, and nobody knows yet.",
-  "Why do some animals, like the axolotl, regrow whole legs with bones, while we can only mend a broken bone? Scientists are still working out what switches regrowth on and off.",
-  "The ichthyosaurs had huge eyes and swam deep, but exactly how they hunted and how deep they dived is still being worked out from their bones."
+  "Axolotls, a kind of salamander, can regrow a whole leg with its bones. We can only mend a broken bone. Scientists are still working out what switches regrowth on and off.",
+  "Ichthyosaurs had huge eyes and swam deep. Exactly how they hunted, and how deep they dived, is still being worked out from their bones."
  ]
 }

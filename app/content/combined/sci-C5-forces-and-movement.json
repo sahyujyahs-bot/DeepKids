@@ -6,8 +6,24 @@
  "n": "forces-and-movement",
  "title": "Many forces at once",
  "source": "DeepKids Combined. Covers Cambridge Stage 5 Physics (friction, air resistance, water resistance, upthrust, multiple forces). No textbook needed.",
- "summary": "Real things always have several forces acting on them at once. Your child learns to draw force diagrams, add up forces to find which way something will move, and investigate the forces that push back on moving things: air resistance and water resistance. They design a parachute, test streamlined shapes, and explain why a falling skydiver stops speeding up.",
- "builds_on": "Class 1: pushes and pulls. Class 2: forces change speed, direction and shape. Class 3: measuring in newtons; friction. Class 4: balance, spinning, upthrust and floating. This year puts them all together. Gravity has its own topic this year too.",
+ "summary": "A skydiver can fall at 200 kilometres an hour with the forces on her balanced. Balanced forces do not mean stopped: they mean no change in speed or direction. Your child draws force diagrams, adds forces to predict how things will move, and tests the forces that push back on moving things: air resistance and water resistance. They make parachutes, race clay shapes through water and build a balloon rocket.",
+ "builds_on": "Class 1: pushes and pulls. Class 2: forces change speed, direction and shape. Class 3: measuring forces in newtons, and friction. Class 4: balance points, levers, pressure, upthrust and floating. This year puts them together: many forces on one thing at once. Gravity has its own topic this year too.",
+ "subconcepts": [
+  "several forces act on everything at once",
+  "force diagrams: one labelled arrow for each force",
+  "adding forces in a line: the resultant force",
+  "balanced forces: no change in speed or direction, even when moving fast",
+  "unbalanced forces: speeding up, slowing down or turning",
+  "friction holds still things still, up to a limit",
+  "air resistance grows with speed and with a bigger front",
+  "parachutes: a big area for a slow, safe fall",
+  "terminal speed: when air resistance grows to equal weight",
+  "water resistance and streamlined shapes",
+  "copying nature's shapes (biomimicry)",
+  "every force has a partner: push something and it pushes you back",
+  "rockets push out gas, so they work in space",
+  "fair tests with repeats, the middle value, tables and graphs"
+ ],
  "goals": [
   "By the end your child can draw a force diagram with labelled arrows (gravity, upthrust, friction, air resistance, push or pull) for an object.",
   "By the end your child can add forces in a line to find the overall (resultant) force, and say whether the object will speed up, slow down or keep the same speed.",
@@ -62,9 +78,9 @@
    "steps": [
     {
      "kind": "warmup",
-     "title": "Forces ladder",
+     "title": "Remember Class 4",
      "mins": 8,
-     "do": "Quick tour of the earlier years. Ask your child to name a force from each: push and pull (Class 1), squash and stretch (Class 2), friction measured in newtons (Class 3), upthrust (Class 4). Then ask: 'Which forces are acting on you right now?' (Gravity down; the chair pushing up.)"
+     "do": "Start by remembering last year. Ask: 'Why did the steel katori float but the iron nail sink?' (The katori pushes aside more water, so the upthrust is big enough to hold it up.) 'Why is a bottle with sand at the bottom hard to topple?' (Its centre of mass is low.) Then ask: 'Which forces are acting on you right now, as you sit?' (Gravity pulls you down. The chair pushes you up.) Say: 'Today we draw every force on one thing at once.'"
     },
     {
      "kind": "do",
@@ -77,7 +93,7 @@
      "kind": "think",
      "title": "Add them up",
      "mins": 15,
-     "do": "Use numbers. Write: 'A box is pushed right with 10 N. Friction pushes left with 4 N. What's the overall force?' (6 N to the right, so it speeds up to the right.) Then: 'Push 5 N right, friction 5 N left?' (0 N: balanced. If it was moving, it keeps the same speed; if still, it stays still.) Do three more with your child making up the numbers."
+     "do": "Use numbers. Write: 'A box is pushed right with 10 N. Friction pushes left with 4 N. What's the overall force?' (6 N to the right, so it speeds up to the right.) Then: 'Push 5 N right, friction 5 N left?' (0 N: balanced. If it was moving, it keeps the same speed. If still, it stays still.) Do three more with your child making up the numbers."
     }
    ],
    "need": [
@@ -100,14 +116,14 @@
      "kind": "exp",
      "title": "Forcemeter tug of war",
      "mins": 20,
-     "do": "Do Experiment e1: use two forcemeters (home-made from Class 3 or bought) or rubber bands to measure pulls on a box from both sides.",
+     "do": "Do Experiment e1: hook two forcemeters to a box, one on each side, and pull. Use the rubber-band forcemeters from Class 3, or two spring balances from a hardware shop. Before each pull, ask: 'Which way will the box move?'",
      "ref": "e1"
     },
     {
      "kind": "game",
      "title": "Force Duel",
      "mins": 18,
-     "do": "Play the Force Duel card game (g1). Each turn adds or subtracts forces on a cart; players race to work out the resultant and the cart's motion.",
+     "do": "Play the Force Duel card game (g1). Each turn adds or subtracts forces on a cart. Players race to work out the resultant and the cart's motion.",
      "ref": "g1"
     }
    ],
@@ -150,7 +166,7 @@
     "scissors",
     "a small toy or a lump of clay as the load",
     "a stopwatch or phone",
-    "a safe high place (stairs or a balcony, with an adult)"
+    "a safe high place: an adult standing on a steady chair, or the top of a staircase"
    ]
   },
   {
@@ -175,7 +191,7 @@
      "kind": "think",
      "title": "The skydiver story",
      "mins": 15,
-     "do": "Tell the story and draw it in four frames. (1) She jumps: only gravity, so she speeds up. (2) Faster: air resistance grows, she still speeds up but less. (3) Air resistance equals gravity: balanced forces, steady speed of about 200 km/h (terminal speed). (4) Parachute opens: a huge air resistance, unbalanced upwards, she slows down until a new, slow steady speed. Ask: 'In frame 3 she's falling fast. Are the forces balanced?' (Yes! Balanced means steady speed, not stopped.)"
+     "do": "Tell your child what happens to a skydiver, and draw it together in four frames. (1) She jumps: only gravity, so she speeds up. (2) Faster: air resistance grows, she still speeds up but less. (3) Air resistance equals gravity: balanced forces, steady speed of about 200 km/h (terminal speed). (4) Parachute opens: a huge air resistance, unbalanced upwards, she slows down until a new, slow steady speed. Ask: 'In frame 3 she's falling fast. Are the forces balanced?' (Yes! Balanced means steady speed, not stopped.)"
     },
     {
      "kind": "review",
@@ -199,20 +215,20 @@
      "kind": "warmup",
      "title": "Walk through water",
      "mins": 5,
-     "do": "If you have a bucket or a pool: move a flat hand through water, then a hand on its edge. Ask: 'Which was harder? Why?' (The flat hand has a bigger front pushing against the water.)"
+     "do": "Fill a bucket with water. Your child moves a flat, open hand through the water, palm first, then turns the hand on its edge and moves it again. Ask: 'Which was harder? Why?' (The flat hand has a bigger front pushing against the water.)"
     },
     {
      "kind": "exp",
      "title": "Shape race",
      "mins": 25,
-     "do": "Do Experiment e3: drop clay shapes of the same weight through a tall bottle of water and time them.",
+     "do": "Do Experiment e3: drop two clay shapes of the same weight into a tall bottle of water at the same moment, and see which reaches the bottom first.",
      "ref": "e3"
     },
     {
      "kind": "talk",
      "title": "Nature's shapes",
      "mins": 15,
-     "do": "Look at pictures or think of: a fish, a dolphin, a kingfisher diving, a bullet train. Ask: 'What shape do they share?' (Pointed front, smooth, thin at the back.) Then the voice v1 discussion: Japan's Shinkansen designer Eiji Nakatsu and the kingfisher beak.",
+     "do": "Ask: 'What shape do a fish, a dolphin and a diving kingfisher share?' (A pointed front, smooth sides, thin at the back.) Say: 'A shape like that is called streamlined. It moves through water or air with little resistance.' Then talk about voice v1: how an engineer in Japan copied the kingfisher's beak for a fast train. Ask the voice's question.",
      "ref": "v1"
     }
    ],
@@ -233,19 +249,25 @@
      "kind": "warmup",
      "title": "Push the wall",
      "mins": 5,
-     "do": "Your child stands on a skateboard or in socks on a smooth floor and pushes a wall. What happens? (They roll backwards.) Ask: 'You pushed the wall. Who pushed you?' (The wall pushed back.)"
+     "do": "Your child stands in socks on a smooth floor, facing a wall, with an adult behind them. They push the wall with both hands. Ask: 'What happened to you?' (They slid backwards.) 'You pushed the wall. What pushed you?' (The wall pushed back.) Say: 'Every push has a partner push, the same size, going the other way.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Rocket at Thumba",
+     "mins": 10,
+     "do": "Read the story aloud. Don't explain it. Ask: 'Why did the kattumaram slide backwards when Jose jumped?' and 'What did the rocket push against, high up where there is almost no air?' Accept any answers now. The balloon rocket will test them."
     },
     {
      "kind": "do",
      "title": "Project: balloon rocket",
-     "mins": 28,
+     "mins": 23,
      "do": "Do the project: build a balloon rocket on a string and improve it for distance."
     },
     {
      "kind": "talk",
      "title": "Rockets can't work in space?",
-     "mins": 12,
-     "do": "Talk about voice v2: in 1920 a newspaper said Robert Goddard's rockets could never work in space because there's no air to push against. Ask the voice's question. Then the perspective on Tipu Sultan's rockets.",
+     "mins": 7,
+     "do": "Talk about voice v2: in 1920 a newspaper said Robert Goddard's rockets could never work in space, because there is no air to push against. Ask the voice's question. Then read the perspective on Tipu Sultan's rockets from Mysuru and ask its question.",
      "ref": "v2"
     }
    ],
@@ -280,7 +302,7 @@
      "kind": "check",
      "title": "Teach it back",
      "mins": 20,
-     "do": "Your child teaches the whole family 'Forces from Class 1 to Class 5' in five minutes, with one demonstration for each year. Then ask the check questions."
+     "do": "Your child teaches the family 'Forces from Class 1 to Class 5' in five minutes, with one demonstration for each class: a push and a pull, a squashed ball of clay, the rubber-band forcemeter, the floating katori, and this year's balloon rocket. Then ask the check questions."
     }
    ],
    "need": [
@@ -299,12 +321,56 @@
      "A. Draw",
      [
       {
-       "t": "draw",
-       "p": "A book on a table. Draw and label both forces."
+       "t": "forces",
+       "p": "A book rests on a table. Show the two forces on the book.",
+       "obj": "a book on a table",
+       "options": [
+        "gravity",
+        "table pushes up",
+        "push",
+        "friction",
+        "air resistance"
+       ],
+       "a": [
+        {
+         "name": "gravity",
+         "dir": "down",
+         "size": "equal"
+        },
+        {
+         "name": "table pushes up",
+         "dir": "up",
+         "size": "equal"
+        }
+       ]
       },
       {
        "t": "draw",
        "p": "A cyclist going at a steady speed. Draw and label four forces."
+      },
+      {
+       "t": "forces",
+       "p": "A dry leaf drifts down at a slow, steady speed. Show the two forces on the leaf.",
+       "obj": "a falling leaf",
+       "options": [
+        "gravity",
+        "air resistance",
+        "upthrust",
+        "friction",
+        "push"
+       ],
+       "a": [
+        {
+         "name": "gravity",
+         "dir": "down",
+         "size": "equal"
+        },
+        {
+         "name": "air resistance",
+         "dir": "up",
+         "size": "equal"
+        }
+       ]
       }
      ]
     ],
@@ -337,6 +403,33 @@
         "friction"
        ],
        "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "A box is sliding to the right. The push on it is 6 N to the right. Friction is 9 N to the left. What happens to the box?",
+       "opts": [
+        "it speeds up",
+        "it slows down",
+        "it keeps the same speed"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "Forces that cancel each other out are called ____ forces.",
+       "a": [
+        "balanced"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Kavya pulls a box to the right with 7 N. Her brother Arjun pulls it to the left with 4 N. The floor is very smooth. Which way does the box move, and what is the resultant force? Show how you worked it out.",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "A cycle rolls along a flat road at a steady speed. Shruti says no forces are acting on it. What would you tell her? Name the forces.",
+       "lines": 3
       }
      ]
     ]
@@ -371,6 +464,16 @@
       {
        "t": "draw",
        "p": "Draw a bar chart: canopy size along the bottom, middle fall time up the side."
+      },
+      {
+       "t": "mcq",
+       "p": "Ananya timed her parachute three times: 2.1 seconds, 2.3 seconds and 5.0 seconds. Which number should she use as its fall time?",
+       "opts": [
+        "the middle value, 2.3 seconds",
+        "the biggest, 5.0 seconds",
+        "all three added up, 9.4 seconds"
+       ],
+       "a": 0
       }
      ]
     ],
@@ -386,6 +489,44 @@
        "t": "write",
        "p": "What did you keep the same to make it fair?",
        "lines": 2
+      },
+      {
+       "t": "mcq",
+       "p": "A skydiver opens her parachute. Just after it opens, which force is bigger?",
+       "opts": [
+        "gravity",
+        "air resistance",
+        "they are equal"
+       ],
+       "a": 1
+      },
+      {
+       "t": "forces",
+       "p": "A parachute with a toy falls at a slow, steady speed. Show the two forces on it.",
+       "obj": "a falling parachute",
+       "options": [
+        "gravity",
+        "air resistance",
+        "upthrust",
+        "push"
+       ],
+       "a": [
+        {
+         "name": "gravity",
+         "dir": "down",
+         "size": "equal"
+        },
+        {
+         "name": "air resistance",
+         "dir": "up",
+         "size": "equal"
+        }
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Meera says that a parachute with a heavier load falls faster. Plan a test to find out. What will you change, what will you keep the same, and what will you measure?",
+       "lines": 4
       }
      ]
     ]
@@ -412,8 +553,8 @@
       },
       {
        "t": "write",
-       "p": "A balloon rocket on the Moon (no air): would it work? Why?",
-       "lines": 3
+       "p": "Divya says a rocket cannot work in space, because there is no air for it to push against. Her friend Zoya says it can. Who is right? Explain using your balloon rocket. Then say why Divya's idea seemed sensible.",
+       "lines": 4
       }
      ]
     ],
@@ -424,6 +565,56 @@
        "t": "write",
        "p": "Design a test to find out whether the shape of a paper boat changes how fast it can be pulled through water. What will you change, keep the same and measure?",
        "lines": 4
+      },
+      {
+       "t": "forces",
+       "p": "A balloon rocket speeds to the right along a string. Show the forces along the string.",
+       "obj": "a balloon rocket on a string",
+       "options": [
+        "air rushing out pushes balloon forward",
+        "friction with the string",
+        "air resistance",
+        "upthrust"
+       ],
+       "a": [
+        {
+         "name": "air rushing out pushes balloon forward",
+         "dir": "right"
+        },
+        {
+         "name": "friction with the string",
+         "dir": "left"
+        },
+        {
+         "name": "air resistance",
+         "dir": "left"
+        }
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "You flick a carrom striker. It slides across the board and slowly stops. What stops it?",
+       "opts": [
+        "it runs out of force",
+        "friction with the board, and air resistance",
+        "gravity pulls it back"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Lakshmi pushes a heavy steel almirah with 50 N, and it does not move. How big is the friction on the almirah?",
+       "opts": [
+        "0 N",
+        "50 N, in the opposite direction",
+        "more than 50 N"
+       ],
+       "a": 1
+      },
+      {
+       "t": "write",
+       "p": "Farhan jumps from a small boat onto the shore, and the boat moves backwards. Explain why, using partner forces.",
+       "lines": 3
       }
      ]
     ]
@@ -437,8 +628,8 @@
    "day": 2,
    "question": "How do two pulls add up?",
    "need": [
-    "two forcemeters",
-    "a box on a smooth floor"
+    "two forcemeters: the rubber-band ones from Class 3, or two spring balances",
+    "a light box, such as an empty shoebox, on a smooth floor"
    ],
    "steps": [
     "Hook one forcemeter to each side of the box.",
@@ -448,7 +639,7 @@
    ],
    "predict": "Before each, ask which way the box will move.",
    "observe": "The readings and the box's movement.",
-   "why": "Forces in opposite directions subtract. If they're equal, the resultant is zero and nothing changes; if not, the box moves towards the bigger pull. Friction is also pulling back on the box, which is why a tiny difference may not move it.",
+   "why": "Forces in opposite directions take away from each other. If the two pulls are equal, the resultant is zero and the box stays still. If not, the box moves towards the bigger pull. Friction with the floor also acts against the movement, which is why a small difference may not move the box at all.",
    "safety": "",
    "time": "20 min"
   },
@@ -463,42 +654,43 @@
     "the same small load for each",
     "scissors",
     "stopwatch",
-    "a safe high place"
+    "a safe high place: an adult on a steady chair"
    ],
    "steps": [
     "Cut three square canopies: 15 cm, 25 cm and 35 cm.",
     "Tie a 25 cm thread to each corner and tie the four threads to the same load.",
-    "Drop each from the same height, holding it the same way.",
+    "Drop each one from the same height, about 2 metres, holding it the same way: an adult can stand on a steady chair and hold it up high.",
     "Time the fall three times each.",
     "Record in the table on ws2."
    ],
    "predict": "Ask: 'Which will be slowest? Will twice as big be twice as slow?'",
    "observe": "Fall times.",
-   "why": "A bigger canopy has a bigger area pushing against the air, so air resistance builds up faster and the parachute reaches a slower steady speed. Doubling the size doesn't exactly double the time.",
-   "safety": "An adult supervises any drop from a height. Never lean over a railing.",
+   "why": "A bigger canopy has a bigger area pushing against the air. So air resistance grows faster as it falls, and the parachute settles at a slower steady speed.",
+   "safety": "An adult does any drop from a height. Never drop from a balcony or lean over a railing.",
    "time": "25 min"
   },
   {
    "id": "e3",
    "title": "Shape race in water",
    "day": 5,
-   "question": "Which shape moves fastest through water?",
+   "question": "Which shape falls fastest through water?",
    "need": [
-    "tall bottle of water",
-    "clay",
-    "stopwatch"
+    "a tall clear plastic bottle (1 or 2 litres) full of water",
+    "clay or plasticine (atta dough works for a few drops)",
+    "a spoon or a long stick to fish shapes out"
    ],
    "steps": [
-    "Make four shapes from equal lumps of clay: a ball, a flat pancake, a cube and a torpedo (pointed at one end).",
-    "Drop each from just above the water, pointed end first for the torpedo.",
-    "Time how long it takes to reach the bottom. Repeat three times.",
-    "Order the shapes from fastest to slowest."
+    "Make four shapes from equal lumps of clay, each about the size of a big marble: a ball, a flat pancake, a cube and a torpedo (pointed at one end).",
+    "Hold two shapes just above the water and let go at the same moment, the torpedo pointed end down.",
+    "Watch which one reaches the bottom first.",
+    "Race every pair of shapes. Repeat each race three times, swapping hands.",
+    "Put the shapes in order from fastest to slowest."
    ],
    "predict": "Ask your child to order the shapes before testing.",
-   "observe": "Times for each shape.",
-   "why": "Water pushes against the front of a moving object. A pointed, smooth shape parts the water more easily and leaves a smaller swirl behind, so there's less water resistance. A flat pancake pushes the most water.",
+   "observe": "Which shape wins each race.",
+   "why": "Water pushes against the front of anything moving through it. A pointed, smooth shape parts the water a little at a time and leaves less swirling water behind, so there is less water resistance. The flat pancake pushes the most water in front of it, so it falls slowest and often wobbles.",
    "safety": "",
-   "time": "25 min"
+   "time": "20 min"
   }
  ],
  "activities": [],
@@ -509,7 +701,7 @@
   ],
   "steps": [
    "Thread a straw onto a 5 m string and tie the string tight between two chairs.",
-   "Blow up a balloon, hold the neck shut, and tape it under the straw.",
+   "Blow up a balloon, hold the neck shut, and tape it under the straw. A long balloon works best, but a round one works too.",
    "Let go and measure how far it travels.",
    "Improve it for distance: try a long balloon, a nose cone, less tape, a tighter string. Change one thing at a time.",
    "Draw a force diagram: air pushed backwards, balloon pushed forwards, friction and air resistance holding it back.",
@@ -528,10 +720,11 @@
   ],
   "rules": [
    "Put a coin on 0 of the track (the 'cart').",
-   "Each player gets 5 force cards. Player 1 pushes right, player 2 pushes left.",
+   "Shuffle the cards. Deal 5 to each of two players. Player 1 sits at the left end of the track and pushes the cart right. Player 2 sits at the right end and pushes left.",
    "Each turn, both play one card face down, then turn them over together.",
    "Work out the resultant: bigger minus smaller. Move the cart that many spaces towards the smaller player.",
-   "Special cards: 'Friction' takes 2 N off the winning side. 'Balanced!' cancels everything this turn.",
+   "Special cards: 'Friction' takes 2 N off the bigger push. 'Balanced!' cancels both pushes this turn. 'Tailwind' adds 3 N to your own push. 'Headwind' takes 3 N off your opponent's push.",
+   "After each turn, both players pick up a new card.",
    "First to push the cart off the other player's end wins. Say the resultant aloud each turn."
   ],
   "cards": [
@@ -611,7 +804,7 @@
  },
  "big": [
   "If you threw a ball in deep space, would it ever stop?",
-  "Why do cyclists and swimmers wear tight, smooth suits?",
+  "Why do racing cyclists and swimmers wear tight, smooth suits?",
   "How can a rocket work in space, where there's no air to push against?",
   "Why don't raindrops hurt, even after falling from a cloud kilometres up?",
   "Can the forces on something be balanced while it's moving fast?"
@@ -623,28 +816,28 @@
   },
   {
    "q": "'Balanced forces mean nothing is moving.' True or false?",
-   "hint": "A skydiver at terminal speed and a cycle cruising on a flat road both have balanced forces. Balanced means no change in speed or direction, not 'stopped'. This was Newton's big idea, and many adults still get it wrong."
+   "hint": "A skydiver at a steady speed and a cycle rolling at a steady speed on a flat road both have balanced forces. Balanced means no change in speed or direction, not 'stopped'. Isaac Newton wrote this as his first law of motion, and many adults still get it wrong."
   }
  ],
  "perspectives": [
   {
-   "who": "Tipu Sultan's army, Mysore (1780s–1790s)",
-   "view": "Mysore's soldiers used rockets with iron cases, which flew further than paper or wooden ones. After the wars, British engineer William Congreve studied captured rockets and developed his own. Ask: why would an iron case help a rocket push harder?"
+   "who": "Tipu Sultan's army, Mysuru (1780s–1790s)",
+   "view": "The rockets of Hyder Ali and Tipu Sultan had iron cases, which could hold more tightly packed gunpowder than the paper or wooden cases used elsewhere, and they flew further. After the wars, the British engineer William Congreve studied captured rockets and developed his own. Ask: the rocket pushes hot gas backwards. What pushes the rocket forwards?"
   },
   {
-   "who": "A sailor on a dhow",
-   "view": "Sailing boats use the wind's push on the sail, the water's resistance on the keel, and a rudder to change direction. A good sailor can even sail partly against the wind. Ask: how many forces is the sailor balancing?"
+   "who": "A sailor on an uru, the big wooden ship built at Beypore in Kerala",
+   "view": "A sailing ship uses the wind's push on the sail, the water's push on the hull and a rudder to change direction. A good sailor can even sail partly against the wind. Ask: how many forces is the sailor balancing?"
   },
   {
-   "who": "Emmy Noether (1882–1935), Germany",
-   "view": "Noether proved one of the deepest ideas in physics: every symmetry in the laws of nature gives a quantity that never changes (like energy). Einstein called her a genius. Yet for years the University of Göttingen let her teach only under a male professor's name, with no pay, because she was a woman. Ask: how many discoveries might we have lost because people weren't allowed to make them?"
+   "who": "A madar plant on the roadside",
+   "view": "A plant cannot walk, so their seeds must travel away from them to find space to grow. Each madar seed carries a tuft of fine silky hairs. The tuft is very light but spread wide, so air resistance is big and the seed falls slowly, and the wind carries it far. Ask: how is a madar seed like a parachute? Why does a seed with a bigger tuft travel further?"
   }
  ],
  "voices": [
   {
    "id": "v1",
    "who": "Eiji Nakatsu, engineer, Japan (1990s)",
-   "idea": "Japan's first bullet trains made a loud boom when they shot out of tunnels, because they pushed a wall of air in front of them. Nakatsu, a birdwatcher, noticed that a kingfisher dives into water with hardly a splash. He redesigned the train's nose to be long and shaped like a kingfisher's beak.",
+   "idea": "A kingfisher must dive into water without a big splash, which would warn the fish. Their long beak widens slowly towards the head, so it pushes the water aside a little at a time. Japan's first bullet trains had a similar problem: they pushed a wall of air into tunnels, and it burst out of the far end with a loud boom. Eiji Nakatsu, an engineer and a birdwatcher, saw that the train and the kingfisher had the same problem. He redesigned the train's nose to be long and shaped like a kingfisher's beak.",
    "then": "Engineers tested many nose shapes in experiments and computer models, and the beak-like shape worked best.",
    "now": "The 500 Series Shinkansen (1997) was quieter, faster and used less electricity. Copying nature like this is called biomimicry.",
    "status": "accepted",
@@ -656,7 +849,7 @@
    "who": "Robert Goddard (1882–1945), USA, and The New York Times",
    "idea": "Goddard said rockets could work in space and might one day reach the Moon.",
    "then": "In 1920 a New York Times editorial mocked him, saying a rocket couldn't work in space because there was no air for it to push against, and that he seemed to lack the knowledge 'ladled out daily in high schools'.",
-   "now": "Goddard was right. A rocket pushes its own exhaust gases backwards, and the gases push the rocket forwards; it doesn't need air. On 17 July 1969, as Apollo 11 flew to the Moon, the newspaper printed a correction saying it 'regrets the error'.",
+   "now": "Goddard was right. A rocket pushes its own exhaust gases backwards, and the gases push the rocket forwards. It doesn't need air. On 17 July 1969, as Apollo 11 flew to the Moon, the newspaper printed a correction saying it 'regrets the error'.",
    "status": "accepted",
    "ask": "Our balloon rocket pushed air backwards. In space there's no air outside, but what is still being pushed out of a rocket?",
    "day": 6
@@ -688,8 +881,8 @@
    "title": "Wings of Fire",
    "author": "A.P.J. Abdul Kalam with Arun Tiwari",
    "for": "parent reads",
-   "age": "Adult book; read short parts aloud",
-   "why": "Dr Kalam's own story of India's rocket programme, including the Mysore rockets that inspired him."
+   "age": "Adult book. Read short parts aloud.",
+   "why": "Dr Kalam's own story of India's rocket programme, from the first launch at Thumba in Kerala, which is in this unit's story."
   }
  ],
  "check": [
@@ -703,7 +896,7 @@
   },
   {
    "q": "What is air resistance, and when is it bigger?",
-   "a": "The push of air against a moving object; bigger when it's faster or has a bigger front."
+   "a": "The push of air against a moving object. It is bigger when the object moves faster or has a bigger front."
   },
   {
    "q": "Why does a bigger parachute fall more slowly?",
@@ -723,36 +916,40 @@
   }
  ],
  "story": {
-  "title": "Rani on the Rope",
+  "title": "The Rocket at Thumba",
   "text": [
-   "Rani was nine, and she could walk across the sky.",
-   "That's what it felt like, anyway, when she stepped out onto the rope. Her family were Nats, travelling performers. They went from town to town with their drums and their bamboo poles, and in every town they tied a rope between two tall poles, high above the dusty ground, and Rani walked across it.",
-   "Her mother had taught her, as her mother's mother had taught her mother. Nobody in Rani's family had ever been to a school where they teach physics. But her mother knew things about forces that some professors don't.",
-   "\"The rope holds you up,\" her mother said, \"because both poles are pulling it, one this way, one that way, as hard as each other. If one pulled harder, the rope would go slack and you would fall. Balance isn't one strong thing. It's two things pulling equally.\"",
-   "She gave Rani the long bamboo pole to hold across her body. \"The Earth pulls you down,\" she said. \"Always. It never stops. The rope pushes you up. When the wind pushes you sideways, you move the pole the other way, just a little, and everything is equal again. That's all balance is. Everything pulling and pushing, all at once, all equal.\"",
-   "\"But then nothing is happening,\" Rani said.",
-   "Her mother laughed. \"Everything is happening,\" she said. \"That's why it's balanced.\"",
-   "In the town of Ajmer, a crowd gathered in the market square. There were children on their fathers' shoulders, and shopkeepers, and a group of rich young men in clean white clothes who laughed at Rani's patched skirt. \"Hey, rope girl,\" one of them called. \"Fall down for us!\"",
-   "Rani's face went hot. She wobbled. The pole tipped. For one terrible moment, the Earth's pull was bigger than everything else, and she felt herself start to go.",
-   "And then she remembered. She didn't fight. She didn't push back harder at the young men, or at the Earth. She let the pole dip, just a little, the other way. She breathed out. The pulls and pushes came back into balance, all of them at once: the Earth, the rope, the wind, the pole, her own two feet. She was not still. She was walking, step after step, forward and steady, across the sky.",
-   "When she reached the other side, the crowd roared. Even the young men in white were clapping, a little ashamed.",
-   "That night, by the fire, Rani asked her mother: \"When I was wobbling, I thought being balanced meant standing very still. But it doesn't, does it? I was moving the whole time.\"",
-   "\"A balanced thing can go on moving for ever,\" said her mother, \"as long as nothing changes the balance. That's true for ropewalkers and it's true for stars.\"",
-   "Rani looked up. The stars were moving slowly across the sky, as they had every night of her life, held in balance by forces she couldn't see. She felt very small, and very much at home."
+   "In 1963 the fishing village of Thumba, near Thiruvananthapuram in Kerala, got new neighbours. Scientists came to build India's first rocket launching station on the beach, right beside the sea.",
+   "Celine was ten. Her family fished from a kattumaram, a boat made of logs tied together. The fishing families who lived near the old church of St Mary Magdalene had agreed to move, and the church and the priest's house were given to the scientists. Where people had once prayed, engineers now bent over wires and tools.",
+   "Celine went to watch whenever she could. One morning she saw two young men wheeling a bicycle along the sandy road. Tied to the carrier was a shining metal cone, the pointed tip of a rocket.",
+   "\"Why is it pointed?\" she asked.",
+   "\"So the air slides past it,\" one of them said. \"A flat nose would have to push the air hard out of the way. That slows the rocket down.\"",
+   "Celine thought about that all day. That evening she asked her uncle, who was mending a net on the sand. \"The rocket will go up into the sky, where the air is thin. Then there is nothing there. What will it push against?\"",
+   "Her uncle shrugged. \"When I row, I push the water back with the oar, and the boat goes forward. A crow pushes the air down with their wings. Everything pushes on something. Your rocket will have nothing to push on. Maybe it only works near the ground.\"",
+   "It sounded right. Celine was not sure.",
+   "A few days later, she and her little brother Jose took the kattumaram into the shallow water near the shore. Jose stood on the logs, bent his knees and jumped for the sand. He landed on the beach. The kattumaram slid backwards, out into the water, all by itself.",
+   "Celine stood very still in the waves. Jose had not pushed on the sand or the water or the air. He had pushed on the boat, and the boat had pushed him back. Two pushes, the same size, in opposite directions. He went one way, and the boat went the other.",
+   "On the evening of 21 November 1963, as the sun was going down, the whole village came out onto the beach. The rocket stood on its launcher, thin and white, pointing at the sky. The scientists were very quiet.",
+   "Then came a roar, and fire. Hot gas shot down out of the rocket's tail, very hard and very fast, and the rocket climbed. It went slowly at first, then faster and faster, until it was a bright point and then nothing at all. Celine could see that two forces were fighting. The Earth pulled the rocket down. The gas pushed it up. The push was much bigger than the pull, and so the rocket kept speeding up.",
+   "Some minutes later, someone shouted and pointed. High above the darkening sea, a glowing orange cloud had appeared. The rocket had let out a puff of a metal called sodium, far up where the sky was still lit by the sun. The scientists were photographing the cloud as it drifted, to see how the winds blow up there, higher than any aeroplane flies.",
+   "That night, Jose asked her what the rocket had pushed against, so high where there is almost no air.",
+   "\"Its own gas,\" Celine said. \"Remember when you jumped off the kattumaram? You pushed the boat back, and the boat pushed you forward. The rocket throws its gas down, and the gas pushes the rocket up. It doesn't need the air. It carries the thing it pushes against.\"",
+   "Jose thought about it. \"So if I had a big enough boat to throw,\" he said, \"I could fly.\"",
+   "\"You would need to throw it very hard, and keep on throwing,\" said Celine. \"That's why the rocket needed all that fire.\"",
+   "The next morning her uncle was on the sand again with his net. Celine sat down beside him and began to explain."
   ],
-  "epiphany": "Balanced forces don't mean stillness: they mean no change in motion. An object with balanced forces keeps moving at a steady speed (Newton's first law). Many forces act at once (gravity, tension, wind, the push of the feet), and balance is all of them adding to zero. The turn is Rani not fighting harder but rebalancing. Underneath: knowledge carried by a marginalised community of performers, especially its women; and steadiness as something you do, not something you have.",
+  "epiphany": "Every force has a partner force: when one thing pushes another, the second pushes back just as hard in the opposite direction. A rocket does not push on the air. It pushes its exhaust gas down, and the gas pushes it up, so it works where there is no air. While the push from the gas is bigger than the rocket's weight, the forces are unbalanced and the rocket speeds up. The turn is Jose's jump from the kattumaram. The launch at Thumba on 21 November 1963, the church used by the scientists, the rocket parts carried by bicycle and the orange sodium cloud are real. Celine, Jose and their uncle are made up.",
   "ask": [
-   "What forces were acting on Rani on the rope?",
-   "Why did she carry the long pole?",
-   "Was Rani still when she was balanced?",
-   "What did her mother mean: 'Everything is happening; that's why it's balanced'?",
-   "Rani's mother never went to school but knew a lot of physics. Where else does knowledge come from?"
+   "Why was the tip of the rocket pointed?",
+   "Why did the kattumaram slide backwards when Jose jumped?",
+   "What two forces were acting on the rocket as it climbed? Which was bigger?",
+   "What did the rocket push against, high up where there is almost no air?",
+   "Celine's uncle thought a rocket needs something outside it to push on. Why did that seem sensible?"
   ]
  },
  "ideas": [
   {
-   "idea": "Balanced doesn't mean still; it means steady.",
-   "more": "A cycle cruising on a flat road, a skydiver at top speed, a planet going round the Sun: forces balanced, still moving. Newton's first law."
+   "idea": "Balanced forces mean a steady speed, and a steady speed can be fast.",
+   "more": "A cycle rolling on a flat road and a skydiver at top speed both have balanced forces, yet both are moving. Newton's first law: nothing changes its speed or direction unless the forces on it are unbalanced."
   },
   {
    "idea": "Every force comes in a pair.",
@@ -760,11 +957,11 @@
   },
   {
    "idea": "Shape decides how air and water push back.",
-   "more": "Pointed, smooth shapes slip through; wide shapes catch the air. A parachute and a kingfisher's beak use the same physics in opposite ways."
+   "more": "Pointed, smooth shapes slip through air and water. Wide shapes push a lot of air or water and are slowed. A parachute and a kingfisher's beak use the same physics in opposite ways."
   }
  ],
  "unknowns": [
   "Physicists know of four basic forces: gravity, electromagnetism, and two that act inside atoms. How gravity fits together with the other three is the biggest unsolved problem in physics.",
-  "Something is pushing the whole universe apart, faster and faster. Scientists call it 'dark energy', but nobody knows what it is. It may be most of everything that exists."
+  "Something is making the whole universe spread apart faster and faster. Scientists call it 'dark energy', but nobody knows what it is. It seems to make up about two-thirds of all the energy in the universe."
  ]
 }

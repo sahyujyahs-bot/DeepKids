@@ -1,0 +1,121 @@
+{
+  "id": "bitter-taste-outside-tongue",
+  "title": "Can parts of my body other than my tongue sense bitter things?",
+  "blurb": "Scientists made bitter-sensing cells glow green in mice. They found them in the windpipe and the stomach, not just on the tongue.",
+  "topics": [
+    "sci.senses.five-senses.L3",
+    "sci.body.immune-system.L3",
+    "sci.senses.more-senses.L3"
+  ],
+  "tags": [
+    "taste",
+    "bitter",
+    "mice",
+    "cells"
+  ],
+  "year": 2017,
+  "mins": 6,
+  "cover": {
+    "src": "media/research/bitter-taste-outside-tongue-1.jpg",
+    "alt": "Microscope pictures of the tongue and the windpipe of a mouse, with a few cells glowing bright green.",
+    "credit": "Figure 2, Liu and Atzberger, Frontiers for Young Minds, CC BY 4.0"
+  },
+  "source": {
+    "name": "Frontiers for Young Minds",
+    "title": "Can a Bitter Taste be Detected Outside the Tongue?",
+    "authors": "Shuya Liu and Ann Kathleen Atzberger",
+    "year": 2018,
+    "url": "https://kids.frontiersin.org/articles/10.3389/frym.2018.00028",
+    "license": "CC BY 4.0"
+  },
+  "original": {
+    "title": "Members of bitter taste receptor cluster Tas2r143/Tas2r135/Tas2r126 are expressed in the epithelium of murine airways and other non-gustatory tissues",
+    "authors": "Liu, S., Lu, S., Xu, R., Atzberger, A., Günther, S., Wettschureck, N., et al.",
+    "journal": "Frontiers in Physiology",
+    "year": 2017,
+    "url": "https://doi.org/10.3389/fphys.2017.00849"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "Your tongue senses five tastes: sweet, bitter, sour, salty and savoury. A bitter taste often warns us that something may be harmful. The tongue senses bitter with tiny detectors called receptors. Are these bitter receptors found only on the tongue, or in other parts of the body too?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "Shuya Liu and Ann Kathleen Atzberger worked with their team at the Max Planck Institute in Bad Nauheim, Germany. Shuya studied the heart and blood vessels. Ann runs a lab that finds and sorts different kinds of cells. The team published this study in 2017."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "Bitter receptors are too small to see. So the team bred special mice. In these mice, any cell with one of three kinds of bitter receptor glows green. The team looked at many body parts under a microscope that shows glowing cells. A machine also picked out the green cells, one by one, so the team could study them.",
+      "img": {
+        "src": "media/research/bitter-taste-outside-tongue-2.jpg",
+        "alt": "A drawing of a mouse whose bitter-sensing cells have been made to glow green.",
+        "credit": "Figure 1, Liu and Atzberger, Frontiers for Young Minds, CC BY 4.0"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "Green cells showed up on the tongue, as expected. They also showed up in the windpipe, the stomach and the urethra. The urethra is the tube that carries urine out. There were only a few cells in each place. All these places touch things from outside, like germs and dust. The green cells also held lots of a signal called IL-25.",
+      "img": {
+        "src": "media/research/bitter-taste-outside-tongue-1.jpg",
+        "alt": "Microscope pictures of the tongue and the windpipe of a mouse, with a few cells glowing bright green.",
+        "credit": "Figure 2, Liu and Atzberger, Frontiers for Young Minds, CC BY 4.0"
+      }
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "This study was in mice, not people. The team saw where the cells are, but not yet exactly what they do. Their best guess is that these cells notice germs and call the immune system for help. We cannot taste anything with our stomach. So bitter receptors outside the mouth probably do a different job."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "In the gut, cells like these release IL-25 when parasitic worms move in. That starts a 'weep and sweep'. The gut makes more fluid, and squeezes harder, to wash the worms out. If bitter receptors help the body spot invaders early, they may be part of how the body protects itself.",
+      "img": {
+        "src": "media/research/bitter-taste-outside-tongue-3.jpg",
+        "alt": "A drawing of the idea: a germ touches a bitter-sensing cell, and the cell sends signals that call immune cells.",
+        "credit": "Figure 3, Liu and Atzberger, Frontiers for Young Minds, CC BY 4.0"
+      }
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Bitter is often a warning, but not always. Ammu puts five small tastes on a steel plate. There is bitter gourd, cocoa powder, cold green tea, sugar and salt. She tastes each one and sips water in between. Which are bitter? Which bitter ones are still good food?"
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "The body seems to use the same detector for two jobs: tasting food and noticing germs. Did bodies first use bitter receptors for tasting, and later for warning? Or was it the other way round? What clue would help you decide? Talk about it, then say which answer you would choose."
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "receptor",
+          "m": "a tiny detector on the outside of a cell"
+        },
+        {
+          "w": "taste bud",
+          "m": "a small group of taste cells on the tongue"
+        },
+        {
+          "w": "immune system",
+          "m": "the body's defence team against germs"
+        },
+        {
+          "w": "pathogen",
+          "m": "a germ, like some bacteria or parasitic worms, that can cause illness"
+        },
+        {
+          "w": "fluorescent",
+          "m": "glowing brightly under a special light"
+        }
+      ]
+    }
+  ]
+}

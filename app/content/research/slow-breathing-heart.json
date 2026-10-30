@@ -1,0 +1,108 @@
+{
+  "id": "slow-breathing-heart",
+  "title": "Does my heart beat faster when I breathe in?",
+  "blurb": "Put two fingers on your wrist and breathe slowly. Your heartbeat speeds up and slows down with every breath.",
+  "topics": [
+    "sci.body.heart-blood-breath.L3",
+    "sci.health.exercise-and-rest.L3"
+  ],
+  "tags": [
+    "heart",
+    "breathing",
+    "body",
+    "yoga"
+  ],
+  "year": 2024,
+  "mins": 5,
+  "cover": {
+    "src": "media/research/slow-breathing-heart-1.jpg",
+    "alt": "Two drawings of a body breathing, showing the diaphragm muscle under the lungs in red, in normal breathing and in deep breathing.",
+    "credit": "Figure 2, Ramakrishnan and Anusha, Frontiers for Young Minds, CC BY 4.0"
+  },
+  "source": {
+    "name": "Frontiers for Young Minds",
+    "title": "Why is Slow, Deep Breathing Good for Your Health?",
+    "authors": "Angarai Ganesan Ramakrishnan and Anusha A. S.",
+    "year": 2024,
+    "url": "https://kids.frontiersin.org/articles/10.3389/frym.2024.795930",
+    "license": "CC BY 4.0"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "When you breathe in, your heart speeds up a little. When you breathe out, your heart slows down again. Most of us never notice this happening. Why would breathing change your heartbeat? And is slow, deep breathing good for your body?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "A. G. Ramakrishnan is a retired professor of the Indian Institute of Science in Bengaluru. He studies signals from the brain and body. Anusha A. S. is a researcher at the same institute. She studies what the brain does during slow breathing. In 2024 they explained this research for children."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "Scientists record two things at the same time. One line goes up with each breath in and down with each breath out. The other line shows every heartbeat as a sharp spike. Then they measure the gap between one heartbeat and the next. When the gaps get shorter, the heart is beating faster.",
+      "img": {
+        "src": "media/research/slow-breathing-heart-2.jpg",
+        "alt": "Two lines drawn one above the other: a red wavy line for breathing in and out, and a black line with sharp spikes for heartbeats.",
+        "credit": "Figure 1, Ramakrishnan and Anusha, Frontiers for Young Minds, CC BY 4.0"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "The gaps between heartbeats get shorter while we breathe in and longer while we breathe out. With slow, deep breaths, the heart rate can change by as much as 20 beats per minute. A deep breath also takes in far more air. A grown man takes in about 4,500 millilitres in one deep breath, and about 500 in a normal one."
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "The link between breathing and heartbeat is well measured. Some bigger ideas are still being tested. For example, breathing may change how fast the fluid around the brain flows. If that is confirmed, deep breathing might help keep the brain healthy. The authors say careful studies on people are needed before anyone can be sure."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "Normal breathing in uses about 23 muscles. Some deep-breathing exercises use up to 89 muscles, plus the heart. Breathing through your nose also helps. The nose cleans, warms and wets the air. Inside the nose, the body makes a gas called nitric oxide that helps the lungs take in oxygen. Humming makes about 15 times more of this gas.",
+      "img": {
+        "src": "media/research/slow-breathing-heart-1.jpg",
+        "alt": "Two drawings of a body breathing, showing the diaphragm muscle under the lungs in red, in normal breathing and in deep breathing.",
+        "credit": "Figure 2, Ramakrishnan and Anusha, Frontiers for Young Minds, CC BY 4.0"
+      }
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Kavya sits still. She presses two fingers on the inside of her wrist, below her thumb, until she feels her pulse. She breathes in slowly while counting to four. Then she breathes out slowly while counting to six. Does her pulse feel quicker as she breathes in, and slower as she breathes out? Last, she hums and feels her nose buzz."
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "In India, people have practised pranayama, the breathing exercises of yoga, for a very long time. Now scientists are measuring what slow breathing does to the body. Some people say we should test old practices before we trust them. Others say long experience already counts for something. Which side do you agree with, and why?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "heart rate",
+          "m": "how many times your heart beats in one minute"
+        },
+        {
+          "w": "pulse",
+          "m": "the beat you can feel in your wrist or neck each time your heart pumps"
+        },
+        {
+          "w": "diaphragm",
+          "m": "a thin sheet of muscle under your lungs that pulls air in"
+        },
+        {
+          "w": "nitric oxide",
+          "m": "a gas made inside your nose that helps your lungs take in oxygen"
+        },
+        {
+          "w": "pranayama",
+          "m": "the breathing exercises of yoga"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "mealworm-change-mind",
+  "title": "Can a tiny mealworm change their mind?",
+  "blurb": "Scientists in Italy taught mealworms where to find apple, then made the apple taste bitter. What the mealworms did next surprised everyone.",
+  "topics": [
+    "sci.animals.animal-minds.L3",
+    "sci.animals.invertebrates.L3",
+    "sci.animals.animal-life-cycles.L3"
+  ],
+  "tags": [
+    "insects",
+    "learning",
+    "mealworms",
+    "choices"
+  ],
+  "year": 2024,
+  "mins": 6,
+  "cover": {
+    "src": "media/research/mealworm-change-mind-1.jpg",
+    "alt": "A mealworm larva on a teaspoon, and a drawing of the Y-shaped maze used in the experiment.",
+    "credit": "Figure 1 (photo by Cinzia Chiandetti), Chiandetti, Dissegna and Turatto, Frontiers for Young Minds, CC BY 4.0"
+  },
+  "source": {
+    "name": "Frontiers for Young Minds",
+    "title": "Can An Insect Larva Change Its Mind?",
+    "authors": "Cinzia Chiandetti, Andrea Dissegna and Massimo Turatto",
+    "year": 2026,
+    "url": "https://kids.frontiersin.org/articles/10.3389/frym.2026.1681331",
+    "license": "CC BY 4.0"
+  },
+  "original": {
+    "title": "Goal-directed behavior in Tenebrio molitor larvae",
+    "authors": "Dissegna, A., Turatto, M., and Chiandetti, C.",
+    "journal": "Scientific Reports",
+    "year": 2024,
+    "url": "https://doi.org/10.1038/s41598-024-72455-3"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "A mealworm is the young form, or larva, of a beetle. Mealworms can learn where food is. But are they only following a habit, or can they really choose? If their favourite food suddenly tasted bad, would a mealworm stop going to look for that food?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "Cinzia Chiandetti leads the Laboratory of Animal Cognition at the University of Trieste in Italy. As a child, she wondered why hens tilt their heads. Andrea Dissegna and Massimo Turatto work at the University of Trento in Italy. Together they study how animals think. They published this mealworm study in 2024."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "First, each larva explored a Y-shaped maze five times. A piece of apple waited at the end of one arm. Next, outside the maze, the larvae tasted food made bitter with lemon juice. For half of them, the bitter food was apple. For the other half, it was a different food. Last, each larva went back into the empty maze.",
+      "img": {
+        "src": "media/research/mealworm-change-mind-2.jpg",
+        "alt": "Three drawings: a larva finds apple in one arm of a Y maze, then tastes bitter food, then explores the empty maze again.",
+        "credit": "Figure 2, Chiandetti, Dissegna and Turatto, Frontiers for Young Minds, CC BY 4.0"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "The larvae that had tasted bitter apple stopped going to the apple arm of the maze. The larvae that had tasted a different bitter food kept going to the apple arm at first. So the mealworms seemed to remember two things: where the apple was, and that apple now tasted bad. They changed their choice to match.",
+      "img": {
+        "src": "media/research/mealworm-change-mind-3.jpg",
+        "alt": "A line graph: both groups visit the apple arm at first, then the group that tasted bitter apple visits much less.",
+        "credit": "Figure 3, Chiandetti, Dissegna and Turatto, Frontiers for Young Minds, CC BY 4.0"
+      }
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "This is one study, in one lab, with one kind of insect. Rats passed a similar test years earlier. The scientists say their result does not make mealworms special. It adds to growing evidence that small animals without backbones can make flexible choices. They still want to know how long the memory lasts, and whether other insects do the same."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "Mealworms are raised as food for pets and fish, and sometimes for people, because they are full of protein. In Europe, laws protect animals with backbones, and octopuses and squid, in experiments. Insects such as mealworms are not protected. If mealworms can plan their choices, people may need to think again about how they are raised and treated."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Ants at home can show learning too. Lakshmi puts one drop of sugar water on a small square of paper near an ant trail. When the ants find the drop, she leaves the paper there for a day. Next day, she moves the paper one hand-width away. Do the ants first walk to the old spot? She writes down what she sees."
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "A mealworm can remember and change their choice. Does that mean a mealworm has a mind? Some people say a mind needs a big brain like ours. Others say any animal that learns and chooses has a small mind of their own. What do you think? What would you test next to find out?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "larva",
+          "m": "the young form of an insect, before the big change into an adult"
+        },
+        {
+          "w": "habit",
+          "m": "something done again and again without thinking"
+        },
+        {
+          "w": "maze",
+          "m": "a set of paths with turns, used to test where an animal chooses to go"
+        },
+        {
+          "w": "bitter",
+          "m": "a sharp taste, like neem or bitter gourd, that many animals dislike"
+        },
+        {
+          "w": "invertebrate",
+          "m": "an animal without a backbone, like an insect or a worm"
+        }
+      ]
+    }
+  ]
+}

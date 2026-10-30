@@ -5,9 +5,9 @@
  "level": 1,
  "n": "body-parts-and-skeleton",
  "day_mins": 30,
- "title": "My body: the parts outside, the bones inside, and the strings that move them",
+ "title": "My body: its parts, the bones inside and the muscles that move them",
  "source": "DeepKids Combined. Covers Cambridge Stage 1 Biology, Unit 3.3 'Our bodies' (naming the main parts of the body), and goes further into bones, joints, muscles and skin. No textbook needed.",
- "summary": "Your child learns the real names of the parts of their body, finds that most come in pairs and that each one has a job, and then discovers what is hidden inside: a skeleton of bones, joints where it bends, and muscles that pull the bones like the strings of a puppet. They trace a life-size picture of themselves, spend a morning without thumbs, try to eat with a stiff elbow, and find out that a newborn baby has more bones than a grown-up.",
+ "summary": "Your child learns the real names of the parts of their body, finds that most come in pairs and that each one has a job, and then discovers what is hidden inside: a skeleton of bones, joints where it bends, and muscles that pull the bones, like the strings of a puppet. They trace a life-size picture of themselves, try five jobs without thumbs, try to eat with a stiff elbow, and find out that a newborn baby has more bones than a grown-up.",
  "builds_on": "This is the first rung. In Class 4 your child comes back to the skeleton: the four jobs of bones, muscles working in pairs, and animals with backbones, shells and no bones at all. In Class 5 they go inside the body to the organs: heart, lungs, stomach, kidneys and brain.",
  "subconcepts": [
   "naming the main parts of the body",
@@ -20,7 +20,7 @@
   "skin: the covering that keeps us in and feels the world",
   "a baby has more bones than a grown-up",
   "every body is different, and every body is a human body",
-  "one and many: one body made of trillions of cells, with as many microbes living with us",
+  "one body made of trillions of cells, with about as many microbes living on and in it",
   "homeostasis: the body keeps itself just right (sweating, shivering, thirst)",
   "other animals have the same parts used for different jobs",
   "looking after our body: moving, resting, washing"
@@ -122,7 +122,7 @@
      "kind": "exp",
      "title": "A morning without thumbs",
      "mins": 14,
-     "do": "Do Experiment e1. Tape your child's thumbs gently against the side of their hands with soft cloth tape (or tie them with a soft hair band). Give them five jobs: do up a button, pick up five grains of rice, hold a pencil and write their name, open a water bottle, eat a piece of roti. Ask after each: 'Easy, hard or impossible?' and record it with a tick, a wavy line or a cross. Take the tape off straight away if anything hurts.",
+     "do": "Do Experiment e1. Tape your child's thumbs gently against the side of their hands with soft cloth tape (or tie them with a soft hair band). First ask: 'Which job will be hardest without thumbs?' Then give them five jobs: do up a button, pick up five grains of rice, hold a pencil and write their name, open a water bottle, eat a piece of dosa or chapati. Ask after each: 'Easy, hard or impossible?' and record it with a tick, a wavy line or a cross. Take the tape off straight away if anything hurts.",
      "ref": "e1"
     },
     {
@@ -135,7 +135,7 @@
    ],
    "need": [
     "soft cloth tape or soft hair bands",
-    "a shirt with buttons, rice grains, a pencil, a water bottle, a roti",
+    "a shirt with buttons, rice grains, a pencil, a water bottle, a dosa or chapati",
     "worksheet ws1"
    ]
   },
@@ -154,13 +154,13 @@
      "kind": "read",
      "title": "Read the story",
      "mins": 12,
-     "do": "Read aloud 'Gulabo and the Strings Inside' (the story in this rung). Read it slowly and do the puppet voice a little stiffly. Stop once, after Gulabo asks where Roshni's strings are, and ask: 'Where do you think Roshni's strings are?' Accept any guess and carry on reading."
+     "do": "Read aloud 'Ponni and the Strings Inside' (the story in this rung). It is told by Ponni, a string puppet from Tamil Nadu. Read it slowly. Stop once, after Ponni asks where Kavya's strings are, and ask: 'Where do you think Kavya's strings are?' Accept any guess and carry on reading."
     },
     {
      "kind": "talk",
      "title": "Talk about the story",
      "mins": 7,
-     "do": "Ask the story questions: 'How is Gulabo's knee like Roshni's knee?' (both bend in one place, at a joint). 'What did Roshni feel in her arm when she lifted it?' (something hard, the bone, and something that went fat and hard, the muscle). 'Who pulls Roshni's strings?' (she does, from inside). Let your child feel their own upper arm while they bend the elbow."
+     "do": "Ask the story questions: 'How is Ponni's knee like Kavya's knee?' (both bend in one place, at a joint). 'What did Kavya feel in her arm when she lifted it?' (something hard, the bone, and something that went fat and hard, the muscle). 'Who pulls Kavya's strings?' (she does, from inside). Let your child feel their own upper arm while they bend the elbow."
     },
     {
      "kind": "talk",
@@ -182,7 +182,7 @@
      "kind": "warmup",
      "title": "Bend count",
      "mins": 6,
-     "do": "Ask your child to bend every place on their body that bends, one at a time, saying the name: neck, shoulder, elbow, wrist, each finger knuckle, back, hip, knee, ankle, toes. Say: 'Every place you can bend is a joint, where two bones meet.' Count them together for one finger: how many bends? (three on a finger, two on the thumb)."
+     "do": "Ask your child to bend every place on their body that bends, one at a time, saying the name: neck, shoulder, elbow, wrist, each finger joint, back, hip, knee, ankle, toes. Say: 'Every place you can bend is a joint, where two bones meet.' Count them together for one finger: how many bends? (three on a finger, two on the thumb)."
     },
     {
      "kind": "exp",
@@ -250,7 +250,7 @@
      "kind": "warmup",
      "title": "Skin detective",
      "mins": 5,
-     "do": "Look at the skin on the back of your child's hand with a magnifying glass, or with your phone camera zoomed in. Ask: 'What can you see?' (lines, tiny hairs, little holes where sweat comes out). Press the fingertip on a dusty mirror and look at the fingerprint. Say: 'Skin keeps germs out, keeps water in, and feels everything you touch. It is the biggest part of your body.'"
+     "do": "Look at the skin on the back of your child's hand with a magnifying glass, or with your phone camera zoomed in. Ask: 'What can you see?' (lines, tiny hairs, little holes where sweat comes out). Press a fingertip on a clean mirror or steel plate, breathe on it, and look at the fingerprint. Say: 'Skin keeps germs out, keeps water in, and feels everything you touch. It is the biggest part of your body.'"
     },
     {
      "kind": "talk",
@@ -263,7 +263,7 @@
      "kind": "ws",
      "title": "Bones in other animals",
      "mins": 9,
-     "do": "Do Worksheet ws2. First show your child the drawings below from memory: draw a quick human arm (one bone, then two bones, then lots of little hand bones), and say a bird's wing, a whale's flipper and a bat's wing have this same pattern inside. Then do the sheet together.",
+     "do": "Before the sheet, draw a quick arm: one bone from shoulder to elbow, two bones from elbow to wrist, then many small bones in the hand. Say: 'A bird's wing, a whale's flipper and a bat's wing have this same pattern of bones inside.' Then do Worksheet ws2 together.",
      "ref": "ws2"
     },
     {
@@ -296,19 +296,19 @@
      "kind": "warmup",
      "title": "Sweat lab",
      "mins": 8,
-     "do": "Your child dips one hand in a bowl of warm water, takes it out, and holds both hands in front of a fan (or you wave a newspaper). Ask: 'Which hand feels cooler?' (the wet one). Say: 'When you get hot, your skin makes sweat. As the sweat dries in the air, it carries heat away and cools you. When you are cold, your muscles shiver to make heat and the little hairs on your arms stand up. Your body is always turning little dials to keep itself just right, not too hot and not too cold. Scientists call this homeostasis.' Ask: 'What does your body do when you are thirsty?' (it makes you feel thirsty, and you make less urine)."
+     "do": "Your child dips one hand in a bowl of warm water, takes it out, and holds both hands in front of a fan (or you wave a newspaper). Ask: 'Which hand feels cooler?' (the wet one). Say: 'When you get hot, your skin makes sweat. As the sweat dries in the air, it carries heat away and cools you. When you are cold, your muscles shiver to make heat and the little hairs on your arms stand up. Your body keeps itself just right, not too hot and not too cold. Scientists call this homeostasis.' Ask: 'What does your body do when it needs water?' (You feel thirsty, and you pass less urine.)"
     },
     {
      "kind": "act",
-     "title": "You are One and Many",
+     "title": "Me, made of cells",
      "mins": 12,
-     "do": "Do the journal page 'You are One and Many'. On one half of a page your child draws themselves, whole: that is the One. On the other half they draw a big circle as if looking through a microscope, and fill it with tiny shapes: round blood cells, long muscle cells, star-shaped nerve cells, and little rod-shaped microbes. Say: 'Your one body is made of about 30 trillion tiny living cells, each one alive. And living on you and inside your tummy are about as many microbes again, tiny living things that help you digest food. You are one person, and you are also a whole crowd working together.' Ask: 'If most of your cells are always being replaced, are you still the same you as last year?' Listen; there is no right answer."
+     "do": "Do the journal page 'Me, made of cells'. On one half of a page your child draws themselves, whole. On the other half they draw a big circle as if looking through a microscope, and fill it with tiny shapes: round blood cells, long muscle cells, star-shaped nerve cells, and little rod-shaped microbes. Say: 'Your one body is made of about 30 trillion tiny living cells, each one alive. And living on you and inside your tummy are about as many microbes again, tiny living things that help you digest food. You are one person, made of a crowd of living cells working together.' Ask: 'If many of your cells are always being replaced, are you still the same you as last year?' Listen; there is no right answer."
     },
     {
      "kind": "act",
      "title": "Puppet dance and body yoga",
      "mins": 10,
-     "do": "Play music. You are the puppeteer: pretend to pull a string tied to one joint (elbow, knee, wrist, shoulder, hip) and your child moves only that joint, stiffly, like Gulabo. Then say 'Your strings are inside now!' and they dance freely, using every joint. End with three yoga poses held for five slow breaths each: mountain (stand tall, feel the spine stretch up), tree (stand on one foot, the other foot on the inside of the leg, hands together: feel the ankle muscles keep you balanced) and child's pose (kneel and fold forward: feel the back bones round). Ask: 'Which pose made which muscles work?'"
+     "do": "Play music. You are the puppeteer: pretend to pull a string tied to one joint (elbow, knee, wrist, shoulder, hip) and your child moves only that joint, stiffly, like Ponni. Then say 'Your strings are inside now!' and they dance freely, using every joint. End with three yoga poses held for five slow breaths each: mountain (stand tall, feel the spine stretch up), tree (stand on one foot, the other foot on the inside of the leg, hands together: feel the ankle muscles keep you balanced) and child's pose (kneel and fold forward: feel the back bones round). Ask: 'Which pose made which muscles work?'"
     }
    ],
    "need": [
@@ -576,7 +576,7 @@
      [
       {
        "t": "mcq",
-       "p": "You can only pull with muscles. So to bend AND straighten your arm you need…",
+       "p": "Muscles can only pull. So to bend and straighten your arm, you need…",
        "opts": [
         "one muscle",
         "two muscles",
@@ -602,7 +602,7 @@
         "hip",
         "knee",
         "shoulder",
-        "finger knuckle"
+        "middle joint of a finger"
        ],
        "cats": [
         "hinge joint",
@@ -632,7 +632,7 @@
        "opts": [
         "yes, bones grow and mend",
         "no, bones are like stones",
-        "only at night"
+        "only when you are a baby"
        ],
        "a": 0
       }
@@ -676,7 +676,7 @@
    ],
    "steps": [
     "Gently tape or tie each thumb flat against the side of the hand. Not tight.",
-    "Try five jobs: do up a button, pick up five rice grains, write your name, open the bottle, tear and eat a piece of roti.",
+    "Try five jobs: do up a button, pick up five rice grains, write your name, open the bottle, tear and eat a piece of dosa or chapati.",
     "Mark each job: tick (easy), wavy line (hard), cross (impossible).",
     "Take the tape off and do the same jobs again. Notice how the thumb moves."
    ],
@@ -809,7 +809,7 @@
    "Touch your elbow to your knee: +1",
    "Name two bones you can feel",
    "Wiggle every finger joint",
-   "Tape your thumb in your mind: name a job you could not do",
+   "Name a job that is hard without a thumb",
    "Bend your hip and your knee: which is the hinge?",
    "Pull like a muscle: flex your arm",
    "Your skull keeps what safe?",
@@ -826,7 +826,7 @@
   ]
  },
  "big": [
-  "About half the living things in and on your body are microbes, not you. So who are you?",
+  "About half the living cells in and on your body are microbes, not human cells. Are the microbes part of you?",
   "A puppet needs someone to pull its strings. Who pulls yours?",
   "Your bones are inside you all the time, but you have never seen them. How do you know they are there?",
   "A bird, a bat, a whale and you all have the same bones in your arms. Why would that be?",
@@ -844,12 +844,12 @@
   },
   {
    "q": "A book says it, so it must be true.",
-   "hint": "For over a thousand years doctors in Europe trusted the book of Galen about the body. Andreas Vesalius looked at real human bodies and found Galen had made mistakes because he had studied monkeys and other animals. Ask: how can you check a book?"
+   "hint": "For over a thousand years doctors in Europe trusted the books of Galen, a Greek doctor, about the body. Andreas Vesalius looked at real human bodies and found Galen had made mistakes because he had studied monkeys and other animals. Ask: how can you check a book?"
   }
  ],
  "perspectives": [
   {
-   "who": "A kathputli puppeteer from Rajasthan",
+   "who": "A bommalattam puppeteer from Tamil Nadu",
    "view": "Puppeteers know that a puppet only looks alive if its strings are tied at the right places: at the joints. A puppet with no joints cannot dance. Ask: where would you tie the strings on a puppet of yourself?"
   },
   {
@@ -858,7 +858,7 @@
   },
   {
    "who": "A bat",
-   "view": "A bat's wing is its hand: long finger bones with skin stretched between them. If a bat drew a body chart, the hand would be the biggest part. Ask: would a bat think our hands are strange and small?"
+   "view": "A bat's wing is their hand: long finger bones with skin stretched between them. Ask: how is a bat's hand like yours, and how is it different?"
   }
  ],
  "voices": [
@@ -936,11 +936,11 @@
   },
   {
    "q": "Does a baby have more bones or fewer than a grown-up?",
-   "a": "More, about 300; many join together as the child grows, leaving 206."
+   "a": "More, about 300. Many join together as the child grows, leaving 206."
   },
   {
    "q": "How does your body cool down when you are hot?",
-   "a": "It sweats; the sweat dries and carries heat away. (When cold, it shivers.)"
+   "a": "It sweats. As the sweat dries, it carries heat away. When you are cold, you shiver."
   },
   {
    "q": "What does a bird's wing have inside it that is like your arm?",
@@ -948,45 +948,45 @@
   }
  ],
  "story": {
-  "title": "Gulabo and the Strings Inside",
+  "title": "Ponni and the Strings Inside",
   "text": [
-   "I am Gulabo. I am a kathputli, a string puppet, and I was carved from mango wood in a village near Udaipur forty years ago. My face is painted pink and white, my eyes are big and black, and my skirt is red with tiny mirrors sewn into it, so that when I spin, I flash like a fistful of stars.",
-   "I cannot spin by myself. I want you to know that at the start. I have a wooden head, a wooden body and soft cloth arms, and at my wrists and my waist and the top of my head there are black strings. The strings go up, up, into the hands of Bhanwar Lal, who has worked me since he was a boy. When he moves a finger, I dance. When he sleeps, I lie in the tin box with the other puppets, the king and the snake-charmer and the horse, and I do not move at all.",
-   "For forty years this did not trouble me. Then Roshni was born.",
-   "Roshni is Bhanwar Lal's granddaughter. When she was very small, she lay on a mat beside the puppet stage at the fair and waved her arms and kicked her legs while I danced. I watched her through the gap in the curtain. Nobody was pulling her strings. Her arms went up, all by themselves. Her legs went round, all by themselves. How?",
+   "I am Ponni. I am a bommalattam puppet, a string puppet from Tamil Nadu, and I was carved from wood in a village near Kumbakonam forty years ago. My face is painted pink and white, my eyes are big and black, and my skirt is red with tiny mirrors sewn into it, so that when I spin, I flash like a fistful of stars.",
+   "I cannot spin by myself. I want you to know that at the start. I have a wooden head, a wooden body and soft cloth arms, and at my wrists and my waist and the top of my head there are black strings. The strings go up, up, into the hands of Kamala, who has worked me since she was a girl. When she moves a finger, I dance. When she sleeps, I lie in the tin box with the other puppets, the king and the demon and the horse, and I do not move at all.",
+   "For forty years this did not trouble me. Then Kavya was born.",
+   "Kavya is Kamala's granddaughter. When she was very small, she lay on a mat beside the puppet stage at the temple festival and waved her arms and kicked her legs while I danced. I watched her through the gap in the curtain. Nobody was pulling her strings. Her arms went up, all by themselves. Her legs went round, all by themselves. How?",
    "I looked very hard for her strings. I looked above her head. Nothing. I looked at the ceiling of the tent. Nothing. I decided that perhaps her strings were invisible, very thin, like the threads a spider lets down from a roof.",
-   "Roshni grew. She learned to sit, and stand, and walk, and then, one winter, she learned to dance. She danced beside the stage while I danced on it, and she copied me. When I lifted my arms, she lifted hers. When I spun, she spun, and the mirrors on her own small skirt flashed too.",
-   "And I noticed something. When she bent her knee, it bent in one place only, in the middle of her leg. My knee bends in the middle of my leg too, at the place where Bhanwar Lal's father carved two pieces of wood and joined them with a little peg. When she bent her elbow, it bent in one place only. So does mine. Her wrist turned. So does mine. Where she bent, I bent.",
+   "Kavya grew. She learned to sit, and stand, and walk, and then, one winter, she learned to dance. She danced beside the stage while I danced on it, and she copied me. When I lifted my arms, she lifted hers. When I spun, she spun, and the mirrors on her own small skirt flashed too.",
+   "And I noticed something. When she bent her knee, it bent in one place only, in the middle of her leg. My knee bends in the middle of my leg too, at the place where Kamala's father carved two pieces of wood and joined them with a little peg. When she bent her elbow, it bent in one place only. So does mine. Her wrist turned. So does mine. Where she bent, I bent.",
    "So you are a puppet too, I thought. A puppet with pegs inside you. But where, where were her strings?",
-   "One evening, after the show, Roshni sat on the tin box with her grandfather, swinging her legs. He was rubbing his hands, which had grown old and stiff.",
-   "“Dadaji,” she said, “who pulls my strings?”",
-   "Bhanwar Lal laughed. “Put your hand here,” he said, and he laid her left hand flat on the front of her right arm, above the elbow. “Now lift your hand up to your shoulder. Slowly.”",
-   "Roshni lifted it. Her eyes went wide.",
+   "One evening, after the show, Kavya sat on the tin box with her grandmother, swinging her legs. Paati was rubbing her hands, which had grown old and stiff.",
+   "“Paati,” she said, “who pulls my strings?”",
+   "Paati laughed. “Put your hand here,” she said, and she laid Kavya's left hand flat on the front of Kavya's right arm, above the elbow. “Now lift your hand up to your shoulder. Slowly.”",
+   "Kavya lifted it. Her eyes went wide.",
    "“It's going fat!” she said. “Something under my skin is going fat and hard!”",
-   "“That is your muscle,” said her grandfather. “And under it, feel, there is something hard that does not change. That is your bone. The bone is like Gulabo's wood. The place where it bends is like Gulabo's peg. And the muscle is your string. It is tied to the bone, inside you, and when it pulls, the bone moves.”",
-   "“So I have strings,” said Roshni slowly. “Inside.”",
-   "“Hundreds,” said Bhanwar Lal. “Strings for your fingers and your toes and your eyes and your tongue. More strings than any puppet in Rajasthan.”",
+   "“That is your muscle,” said her grandmother. “And under it, feel, there is something hard that does not change. That is your bone. The bone is like Ponni's wood. The place where it bends is like Ponni's peg. And the muscle is your string. It is tied to the bone, inside you, and when it pulls, the bone moves.”",
+   "“So I have strings,” said Kavya slowly. “Inside.”",
+   "“Hundreds,” said Paati. “Strings for your fingers and your toes and your eyes and your tongue. More strings than any puppet in Tamil Nadu.”",
    "“And who pulls them?”",
-   "Her grandfather tapped her gently on the forehead. “You do.”",
+   "Her grandmother tapped her gently on the forehead. “You do.”",
    "From the tin box, I heard all of this. I lay very still, as I always do, and I thought about it all night. Her strings were inside her. Mine were outside me. That was the whole difference. She was wood and pegs and strings, like me, only soft and warm, and the hand that pulled her strings was her own.",
    "I was jealous, a little. Then I was not.",
-   "Because the next spring, at the Pushkar fair, Bhanwar Lal's hands hurt too much to hold the wooden bar that my strings hang from. He sat on a stool and sighed. The crowd was waiting. The drum was ready.",
-   "Roshni climbed onto the stool beside him. She took my bar in her two small hands. I felt it at once: a new hand, lighter, a little shaky. Her fingers bent at their little joints. The muscles in her arms pulled her bones, and her bones lifted the bar, and the bar pulled my strings, and my strings lifted my arms.",
-   "And I danced. I spun, and my mirrors flashed like a fistful of stars, and the crowd clapped, and Bhanwar Lal on his stool clapped loudest of all.",
+   "Because the next year, at the temple festival, Paati's hands hurt too much to work my strings. She sat on a stool and sighed. The crowd was waiting. The drum was ready.",
+   "Kavya climbed onto the stool beside her. She took my strings in her two small hands. I felt it at once: a new hand, lighter, a little shaky. Her fingers bent at their little joints. The muscles in her arms pulled her bones, and her hands pulled my strings, and my strings lifted my arms.",
+   "And I danced. I spun, and my mirrors flashed like a fistful of stars, and the crowd clapped, and Paati on her stool clapped loudest of all.",
    "Her strings pulled my strings. That is how it is now. I do not dance by myself, and I find I do not mind. Nobody, it turns out, dances completely by themselves."
   ],
-  "epiphany": "We move because muscles inside us pull on bones, and the bones bend at joints: the body is like a puppet whose strings are inside and pulled by itself. The turn comes when Roshni feels her own muscle go fat and hard over the bone and her grandfather says 'You do'. Underneath, gently: Gulabo, Roshni and her grandfather move one another, so no one dances entirely alone.",
+  "epiphany": "We move because muscles inside us pull on bones, and the bones bend at joints: the body is like a puppet whose strings are inside and pulled by itself. The turn comes when Kavya feels her own muscle go fat and hard over the bone and her grandmother says 'You do'. Underneath, gently: Ponni, Kavya and her grandmother move one another, so no one dances entirely alone.",
   "ask": [
-   "How were Gulabo and Roshni the same? How were they different?",
-   "What did Roshni feel when she lifted her hand to her shoulder?",
-   "What are Roshni's 'strings' really, and where are her 'pegs'?",
+   "How were Ponni and Kavya the same? How were they different?",
+   "What did Kavya feel when she lifted her hand to her shoulder?",
+   "What are Kavya's 'strings' really, and where are her 'pegs'?",
    "At the end, whose strings pulled whose?",
-   "Gulabo says nobody dances completely by themselves. What do you think she means?"
+   "Ponni says nobody dances completely by themselves. What do you think she means?"
   ]
  },
  "ideas": [
   {
-   "idea": "You are a puppet that pulls its own strings.",
+   "idea": "Your muscles pull your bones, and you control them.",
    "more": "Bones are the frame, joints are the bends and muscles are the strings that pull. Your brain sends the message to pull. Feel it every time you bend your arm."
   },
   {
@@ -994,11 +994,11 @@
    "more": "They grow, they have blood in them and they mend when broken. A baby has about 300 bones and pieces that join into 206."
   },
   {
-   "idea": "You are one and many.",
+   "idea": "Your body is made of trillions of living cells.",
    "more": "One you, made of about 30 trillion living cells, with about as many microbes living on and in you (the best count today, from 2016, says roughly one microbe for every human cell). All of them work together, and your body keeps itself 'just right' by sweating, shivering and feeling thirsty."
   },
   {
-   "idea": "Every animal with a backbone shares your plan.",
+   "idea": "Many animals with backbones have the same arm bones as you.",
    "more": "A bird's wing, a whale's flipper, a bat's wing and your arm have the same bones, shaped for different jobs. We are related to them all."
   }
  ],

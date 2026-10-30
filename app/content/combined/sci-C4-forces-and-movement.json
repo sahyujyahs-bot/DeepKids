@@ -4,10 +4,10 @@
  "subj": "sci",
  "level": 4,
  "n": "forces-and-movement",
- "title": "How things work: spinning, balance, machines, pressure and floating",
+ "title": "How things balance and float",
  "source": "DeepKids Combined. Covers NCERT Class 4 'How Things Work' (spinning, balance, floating and sinking, designing a boat), and goes further into levers and simple machines, centre of mass and pressure. No textbook needed.",
- "summary": "Forces at work in the puzzles every child meets: why a lattu spins and a stone wobbles, why a tall bottle topples, how a small child can lift a heavy grown-up with a see-saw, why a knife cuts and a camel doesn't sink in sand, and why a heavy bronze uruli floats while a tiny nail sinks. Your child finds balance points, builds levers and ramps, meets the six simple machines and the rule that no machine gives free work, measures the upward push of water, and designs, tests and improves a boat.",
- "builds_on": "Class 1: pushes and pulls, push backs, gravity pulls down. Class 2: forces change speed, direction and shape; heavy things need bigger forces. Class 3: arrows with size and direction, balanced forces, newtons and forcemeters, mass and weight, friction and rolling. Next, in Class 5: full force diagrams with resultant forces, air and water resistance, streamlining, terminal speed, momentum and rockets; gravity and magnets get their own rungs.",
+ "summary": "Why does a steel katori float while a small iron nail sinks? Why does a tall bottle topple, and how can a child lift a grown-up on a see-saw? Your child finds balance points, builds levers and ramps, and finds out that no machine gives free work. They see why a knife cuts and a camel does not sink in sand, measure the upward push of water, and design and improve a foil boat.",
+ "builds_on": "Class 1: pushes and pulls, push backs, gravity pulls down. Class 2: forces change speed, direction and shape. Heavy things need bigger forces. Class 3: arrows with size and direction, balanced forces, newtons and forcemeters, mass and weight, friction and rolling. Next, in Class 5: full force diagrams with resultant forces, air and water resistance, streamlining, terminal speed and rockets. Gravity and magnets get their own rungs.",
  "subconcepts": [
   "spinning about an axis, and why spinners wobble",
   "the balance point (centre of mass)",
@@ -90,7 +90,7 @@
      "kind": "warmup",
      "title": "Forces so far",
      "mins": 7,
-     "do": "Quick quiz from last year: 'What's friction? What's a newton? Draw a balanced force on a book on a table. Why is rolling easier than sliding?' Then spin a ₹5 coin on its edge on a smooth table. Ask: 'What happens just before it stops?' (It wobbles, rattles faster and falls.) 'Which force slows it?' (Friction with the table and the air.)"
+     "do": "Start by remembering Class 3. Ask: 'What's friction? What's a newton? Draw a balanced force on a book on a table. Why is rolling easier than sliding?' Then spin a ₹5 coin on its edge on a smooth table. Ask: 'What happens just before it stops?' (It wobbles, rattles faster and falls.) 'Which force slows it?' (Friction with the table and the air.)"
     },
     {
      "kind": "exp",
@@ -110,7 +110,7 @@
      "kind": "think",
      "title": "Where did the colours go?",
      "mins": 8,
-     "do": "Spin the two-colour spinner (blue and yellow) fast. Ask: 'What colour do you see?' (A greenish blur.) Say: 'Your eye holds on to each picture for a tiny moment, about a tenth of a second. When the colours swap faster than that, your eye mixes them.' Tell them Isaac Newton painted a disc with the colours of the rainbow; spun fast, it looks whitish-grey, because white light is all the colours mixed. Ask: 'Why does a fan look like a see-through circle when it's on?'"
+     "do": "Spin the two-colour spinner (blue and yellow) fast. Ask: 'What colour do you see?' (A greenish blur.) Say: 'Your eye holds on to each picture for a tiny moment, about a tenth of a second. When the colours swap faster than that, your eye mixes them.' Say: 'A disc painted with all the colours of the rainbow looks pale grey-white when it spins fast, because white light is a mix of all the colours.' Ask: 'Why does a fan look like a see-through circle when it's on?'"
     }
    ],
    "need": [
@@ -244,14 +244,14 @@
      "kind": "exp",
      "title": "Pressure in dough",
      "mins": 15,
-     "do": "Do Experiment e10: press the flat end and the point of a pencil, a coin flat and a coin on its edge, into a slab of dough with the same weight on top, and measure how deep each goes. Then stand in a sand tray or wet soil flat-footed and on tiptoe and compare the footprints.",
+     "do": "Do Experiment e10: press the flat end and the point of a pencil, a coin flat and a coin on its edge, into a slab of dough with the same weight on top, and measure how deep each goes. Then your child stands on a thick cushion or a folded mattress, first flat-footed, then on tiptoe. Ask: 'When did your feet sink deeper?' (On tiptoe: the same weight is on a smaller area.)",
      "ref": "e10"
     },
     {
      "kind": "talk",
      "title": "Camels, elephants, knives and pins",
      "mins": 10,
-     "do": "Ask: 'Why does a camel have wide, padded feet?' (Its weight is spread over a big area so it doesn't sink into sand.) 'Why is a knife sharpened?' (A thin edge puts the push on a tiny area, so it cuts.) 'Why does a drawing pin have a wide head and a sharp point?' (Wide for your thumb, sharp for the board.) 'Why do tractors on muddy fields have wide tyres?' 'Why does it hurt to stand on one Lego brick but not on a flat floor?'"
+     "do": "Ask: 'Why does a camel have wide, padded feet?' (Its weight is spread over a big area so it doesn't sink into sand.) 'Why is a knife sharpened?' (A thin edge puts the push on a tiny area, so it cuts.) 'Why does a drawing pin have a wide head and a sharp point?' (Wide for your thumb, sharp for the board.) 'Why do tractors on muddy fields have wide tyres?' 'Why does it hurt to step on a small stone but not on a flat floor?'"
     },
     {
      "kind": "ws",
@@ -266,7 +266,7 @@
     "a slab of dough 3 cm thick",
     "two ₹1 coins",
     "a book as a weight",
-    "a sand tray or patch of wet soil",
+    "a thick cushion or a folded mattress",
     "worksheet ws2"
    ]
   },
@@ -277,15 +277,15 @@
    "steps": [
     {
      "kind": "read",
-     "title": "Story: Ammachi's Uruli",
+     "title": "Story: Selvi's Coracle",
      "mins": 12,
-     "do": "Read the story aloud. Don't explain it. Ask: 'Why did the steel tumbler sink but the much heavier uruli float?' and 'What did Appa mean by \"make room\"?' Accept any answers today; you'll test them."
+     "do": "Read the story aloud. Don't explain it. Ask: 'Why did the coracle not sink with the heavy grinding stone in it?' and 'Why did Selvi put the stone in the middle and tell the man to sit on the floor?' Accept any answers today. You will test them over the next three days."
     },
     {
      "kind": "warmup",
      "title": "Push the ball down",
      "mins": 7,
-     "do": "Push a plastic ball or empty bottle down into a bucket of water with your hand. Ask: 'What do you feel?' (The water pushes back up.) 'What happens when you let go?' (It shoots up.) Say: 'That upward push of water is called upthrust.' Then do a floating dance: your child is a stone and sinks slowly to the floor; then a foil boat, arms spread wide, 'floating'; then a fish rising and sinking with breath. Ask: 'In a pool, how do swimmers stay up without sinking?' (They kick, pushing water down, or they spread out flat like a starfish so the water pushes up on a big area.)"
+     "do": "Push a plastic ball or empty bottle down into a bucket of water with your hand. Ask: 'What do you feel?' (The water pushes back up.) 'What happens when you let go?' (It shoots up.) Say: 'That upward push of water is called upthrust.' Then do a floating dance: your child is a stone and sinks slowly to the floor. Then a foil boat, arms spread wide, 'floating'. Then a fish rising and sinking with breath. Ask: 'In a pool, how do swimmers stay up without sinking?' (Air in their lungs helps them float. Kicking pushes water down, and the water pushes them up.)"
     },
     {
      "kind": "exp",
@@ -323,7 +323,7 @@
      "kind": "exp",
      "title": "Foil and clay shapes",
      "mins": 13,
-     "do": "Do Experiment e5: the same foil sheet as a tight ball and as a boat; the same clay as a ball and as a thin bowl. Ask: 'Same stuff, same weight. Why does the bowl float?' (It pushes aside more water, so the upthrust is bigger.)",
+     "do": "Do Experiment e5: the same foil sheet as a tight ball and as a boat. The same clay as a ball and as a thin bowl. Ask: 'Same stuff, same weight. Why does the bowl float?' (It pushes aside more water, so the upthrust is bigger.)",
      "ref": "e5"
     },
     {
@@ -337,7 +337,7 @@
      "kind": "talk",
      "title": "Galileo's ice debate",
      "mins": 8,
-     "do": "Talk about voice v2: in 1611 Galileo argued with Lodovico delle Colombe about why ice floats. Then try the voice's test: lay a steel needle very gently on water on a small piece of tissue; the tissue sinks and the needle stays on top. Ask the voice's question.",
+     "do": "Talk about voice v2: in 1611 Galileo argued with Lodovico delle Colombe about why ice floats. Then try the voice's test: lay a steel needle very gently on water on a small piece of tissue. The tissue sinks and the needle stays on top. Ask the voice's question.",
      "ref": "v2"
     },
     {
@@ -373,7 +373,7 @@
      "kind": "game",
      "title": "Float or Sink? card game",
      "mins": 12,
-     "do": "Play the Float or Sink? card game (g1). Each card names an object; players predict, explain, and can test with the bucket.",
+     "do": "Play the Float or Sink? card game (g1). Each card names an object. Players predict, explain, and can test with the bucket.",
      "ref": "g1"
     },
     {
@@ -762,8 +762,8 @@
       },
       {
        "t": "write",
-       "p": "Archimedes said that with a long enough lever he could move the Earth. What would be the problem in real life?",
-       "lines": 3
+       "p": "Meenakshi says a long lever gives you free strength. Her brother Arjun says it does not, because you pay with distance. Who is right? Use what you saw with the ruler lever to explain, then say what Meenakshi got right.",
+       "lines": 4
       },
       {
        "t": "mcq",
@@ -894,8 +894,8 @@
     "thread with a small weight (a key)"
    ],
    "steps": [
-    "Balance the ruler on your finger; mark the point.",
-    "Tape 2 coins to one end; find and mark the new point.",
+    "Balance the ruler on your finger. Mark the point.",
+    "Tape 2 coins to one end. Find and mark the new point.",
     "Make 3 small holes near the edges of the card shape.",
     "Hang it from a pin through one hole, with the thread and key hanging from the same pin. Draw a line along the thread.",
     "Do the same from another hole. Where the lines cross is the balance point.",
@@ -917,7 +917,7 @@
     "10 objects: steel katori, iron nail, ₹1 coin, wooden peg, apple, potato, candle, plastic lid, steel spoon, key"
    ],
    "steps": [
-    "Hold each object; guess if it floats.",
+    "Hold each object. Guess if it floats.",
     "Put it gently on the water.",
     "Record floats or sinks.",
     "Sort the objects: floats and sinks.",
@@ -940,14 +940,14 @@
     "bucket of water"
    ],
    "steps": [
-    "Hang the stone from the forcemeter in the air; read the force.",
+    "Hang the stone from the forcemeter in the air. Read the force.",
     "Lower it into the water until it is fully under but not touching the bottom.",
     "Read the force again.",
     "Compare. The difference is the upthrust."
    ],
    "predict": "Ask: 'Will the reading be more, less or the same in water?'",
    "observe": "Both readings.",
-   "why": "The water pushes up on the stone (upthrust), so the forcemeter has less to hold up. The stone isn't lighter; it's being helped.",
+   "why": "The water pushes up on the stone (upthrust), so the forcemeter has less to hold up. The stone isn't lighter. It's being helped.",
    "safety": "",
    "time": "12 min"
   },
@@ -962,10 +962,10 @@
     "tub of water"
    ],
    "steps": [
-    "Scrunch a foil sheet into a tight ball; put it in water.",
-    "Take another sheet the same size and make a boat; put it in water.",
-    "Make a clay ball; test it.",
-    "Reshape the same clay into a thin bowl; test it."
+    "Scrunch a foil sheet into a tight ball. Put it in water.",
+    "Take another sheet the same size and make a boat. Put it in water.",
+    "Make a clay ball. Test it.",
+    "Reshape the same clay into a thin bowl. Test it."
    ],
    "predict": "Ask: 'Same foil, same clay. Will shape change anything?'",
    "observe": "Which shapes float.",
@@ -1081,18 +1081,18 @@
     "two ₹1 coins",
     "a small book as a weight",
     "a ruler",
-    "a sand tray or patch of wet soil"
+    "a thick cushion or a folded mattress"
    ],
    "steps": [
     "Stand the pencil flat end down on the dough and rest the book on top for 10 seconds. Measure how deep it went.",
     "Smooth the dough. Do the same with the pencil point down (an adult holds the book steady).",
     "Press a coin flat into the dough with the book, then a coin on its edge.",
-    "Stand in the sand flat-footed, then on tiptoe, and compare the footprints."
+    "Stand on the cushion flat-footed, then on tiptoe, and see when your feet sink deeper."
    ],
    "predict": "Ask: 'Same book, same push. Which will sink deepest?'",
    "observe": "How deep each mark is.",
-   "why": "Pressure is how much force falls on each bit of area. The same push on a tiny point is squeezed into a small space, so it presses much harder and sinks in further. Spread over a big area, the same push presses gently. Knives, pins and needles use small areas; camels, snowshoes and tractor tyres use big ones.",
-   "safety": "An adult holds the book over the pencil point; keep fingers away from the point.",
+   "why": "Pressure is how much force falls on each bit of area. The same push on a tiny point is squeezed into a small space, so it presses much harder and sinks in further. Spread over a big area, the same push presses gently. Knives, pins and needles use small areas. Camels, snowshoes and tractor tyres use big ones.",
+   "safety": "An adult holds the book over the pencil point. Keep fingers away from the point.",
    "time": "15 min"
   }
  ],
@@ -1131,7 +1131,7 @@
     "a pencil"
    ],
    "steps": [
-    "Read the six names and what each does: a lever turns on a pivot; a wheel and axle is a big wheel fixed to a thin rod; a pulley is a wheel with a rope that changes the direction of a pull; an inclined plane is a ramp; a wedge is two ramps back to back that split things; a screw is a ramp wrapped round a rod.",
+    "Read the six names and what each does: a lever turns on a pivot. A wheel and axle is a big wheel fixed to a thin rod. A pulley is a wheel with a rope that changes the direction of a pull. An inclined plane is a ramp. A wedge is two ramps back to back that split things. A screw is a ramp wrapped round a rod.",
     "Hunt at home and from the window: scissors, a tap, a door knob, a rolling pin, a curtain rope, a well or flagpole, a ramp, stairs, a knife, an axe, a zip, a jar lid, a bottle cap, a pressure cooker lid.",
     "Write at least two things in each row.",
     "For each, say whether it makes the force smaller, changes its direction, or both."
@@ -1266,7 +1266,7 @@
  "big": [
   "How does a ship made of thousands of tonnes of steel float?",
   "If machines never give free work, why are they so useful?",
-  "Why are so many sacred and useful things in India round and spinning: the charkha, the potter's wheel, the prayer wheel, the lattu?",
+  "A spinning lattu stays up on its point, but a still lattu falls over. Why might spinning help it stay up?",
   "Who should get the credit for a machine: the person who wrote it down, or the many people who built and improved it?",
   "Why can you float more easily in the sea than in a pool?"
  ],
@@ -1281,7 +1281,7 @@
   },
   {
    "q": "'Heavy things sink, light things float.' Is that true?",
-   "hint": "A steel ship is heavy and floats; a grain of sand is light and sinks. What matters is how heavy something is for its size, and its shape."
+   "hint": "A steel ship is heavy and floats. A grain of sand is light and sinks. What matters is how heavy something is for its size, and its shape."
   }
  ],
  "perspectives": [
@@ -1299,11 +1299,11 @@
   },
   {
    "who": "A camel",
-   "view": "A camel's wide, padded feet spread its weight so it doesn't sink into sand; its long legs keep its body away from the hot ground. Ask: what would a camel think of our narrow shoes?"
+   "view": "A camel walks on soft, hot sand all day, and narrow feet would sink in. Their wide, padded feet spread their weight over a big area, so the pressure is small and they sink in less. Ask: why is it harder to walk on soft sand in heeled shoes than barefoot?"
   },
   {
    "who": "A fish",
-   "view": "Many fish have a gas bag inside them (a swim bladder). They let in gas to rise and squeeze it out to sink, without moving a fin. Ask: how is a fish like a submarine? Who had the idea first?"
+   "view": "A fish needs to stay at one depth without swimming all the time. Many fish have a gas bag inside them called a swim bladder. By adding or removing gas, they change how much water they push aside, so they can rise, sink or hover. Ask: how is a fish like a submarine?"
   },
   {
    "who": "A swimmer floating in a pool",
@@ -1325,7 +1325,7 @@
    "id": "v2",
    "who": "Galileo Galilei (1564–1642) and Lodovico delle Colombe, Italy (debate of 1611)",
    "idea": "Delle Colombe and others said ice floats because of its flat shape. Galileo said ice floats because it is lighter than the same amount of water (ice takes up more space than the water it froze from).",
-   "then": "They held a public contest in Florence. Delle Colombe showed that a thin chip of ebony wood floats but a ball of ebony sinks, to argue that shape decides. Galileo replied that the chip floated because it wasn't fully wet: the water's surface held it up.",
+   "then": "They argued in Florence. Delle Colombe showed that a thin chip of ebony wood floats but a ball of ebony sinks, to argue that shape decides. Galileo replied that the chip floated only because it sat dry on top of the water, not fully in it.",
    "now": "Galileo was right about ice: it is less dense than water, whatever its shape. But delle Colombe's chip shows something real too: the surface of water can hold up very light, flat things (surface tension), the way a pond skater stands on water.",
    "status": "accepted",
    "ask": "Our needle rested on the water's skin. Who does this help, Galileo or delle Colombe? Can two people in an argument both be partly right?",
@@ -1338,7 +1338,7 @@
    "then": "The book was copied by hand for centuries in the Islamic world. For a long time European histories of engineering hardly mentioned it.",
    "now": "Historians of technology now recognise him as one of the great engineers of the Middle Ages. They still debate which of his parts were truly first (for example his use of a crank and connecting rod in a pump) and which he improved from older engineers in Persia, India, Greece and China.",
    "status": "accepted",
-   "ask": "Al-Jazari wrote his machines down; the builders of India's stepwells and water lifts mostly didn't. Whose work do we remember, and why?",
+   "ask": "Al-Jazari wrote his machines down. The builders of India's stepwells and water lifts mostly didn't. Whose work do we remember, and why?",
    "day": 4
   },
   {
@@ -1393,19 +1393,19 @@
   },
   {
    "q": "On a lever, how can a small push lift a big load?",
-   "a": "Push far from the pivot with the load close to it; your end moves further than the load does."
+   "a": "Push far from the pivot with the load close to it. Your end moves further than the load does."
   },
   {
    "q": "What is the rule about machines and free work?",
-   "a": "A machine can make the force smaller, but you must push for a longer distance; it never gives free work."
+   "a": "A machine can make the force smaller, but you must push for a longer distance. It never gives free work."
   },
   {
    "q": "Why does a sharp knife cut, and why do camels have wide feet?",
-   "a": "A thin edge puts the force on a tiny area, so the pressure is big; wide feet spread the weight, so the pressure is small."
+   "a": "A thin edge puts the force on a tiny area, so the pressure is big. Wide feet spread the weight, so the pressure is small."
   },
   {
    "q": "What is upthrust, and why does a steel katori float but a nail sink?",
-   "a": "The upward push of water; the hollow katori pushes aside lots of water so the upthrust is big enough; the solid nail can't."
+   "a": "The upward push of water. The hollow katori pushes aside lots of water so the upthrust is big enough. The solid nail can't."
   },
   {
    "q": "In the boat challenge, why did we change only one thing each time?",
@@ -1413,36 +1413,39 @@
   }
  ],
  "story": {
-  "title": "Ammachi's Uruli",
+  "title": "Selvi's Coracle",
   "text": [
-   "In August the rain came to Ammu's village in Kerala and did not stop. It rained on the coconut palms and the paddy fields and the red-tiled roofs, and the river, which had always been a friendly brown ribbon at the end of the lane, began to rise.",
-   "Ammu's father was a fisherman. Some of the people in the big houses on the hill didn't think much of fishermen. They wrinkled their noses at the smell of fish and the salt-cracked hands. But Ammu loved her father's boat, the long narrow vallam, and the way it sat on the water as lightly as a leaf.",
-   "\"How does it float, Appa?\" she had asked once. \"It's made of heavy wood and iron nails.\"",
-   "\"It floats because it makes room,\" he had said. \"It pushes the water out of the way, and the water pushes back up. Make enough room, and the water will hold up anything.\"",
-   "Ammu hadn't understood. She had thrown a pebble into the river to test it, and the pebble had gone straight to the bottom. \"The pebble didn't make room,\" she said. Appa had laughed and folded a leaf into a little cup and set it on the water, and dropped the pebble inside. The leaf cup bobbed and floated, pebble and all. \"Now it makes room,\" he said. Ammu had stared at it until it drifted round the bend.",
-   "She understood it properly on the night the river came into the house.",
-   "It came quietly, under the door, across the floor, up past her ankles and then her knees. Her father had gone out with his boat to fetch the neighbours from the low fields. Her mother was lifting the rice sacks onto the cupboard. And Ammu's baby cousin, Kunju, was asleep in his basket, and the water was rising towards him.",
-   "Ammu looked around. Everything heavy was sinking: the steel tumbler, the iron ladle, Amma's grinding stone. But there, on the kitchen shelf, was Ammachi's uruli: the great round bronze cooking pot, wide and shallow, so heavy that it took two people to lift it when it was full of payasam on Onam.",
-   "It's so heavy, Ammu thought. It will sink like a stone.",
-   "But then she remembered the leaf cup: make enough room.",
-   "She and her mother slid the uruli off the shelf. It splashed down and wobbled, and then it sat on the water. It floated! It was heavier than Kunju, heavier than Ammu, and it floated, because it was wide and hollow and pushed aside a great deal of water. Very gently, they lifted the sleeping baby and laid him, blanket and all, in the middle of the uruli, right in the centre so it would not tip. It sank a little lower, and then it stayed.",
-   "All night they waited on the cupboard, Ammu and her mother, with one hand each on the rim of the uruli, holding Kunju steady on the black water. He never woke up.",
-   "In the grey morning they heard the splash of oars. Her father's boat came through the doorway, and behind it came other boats, the fishing boats from all along the coast. The fishermen had come with their vallams from the sea to the flooded villages, and they took everyone to safety: the people from the low fields, and the people from the big houses on the hill too. The water lifted every boat the same, and the fishermen saved everyone the same.",
-   "Later, much later, when the river was a brown ribbon again, people came to thank the fishermen. Someone called them 'Kerala's own army'. Ammu's father just shrugged.",
-   "\"It wasn't me,\" he said. \"It was the water. The water holds up anyone who makes room.\""
+   "I am a coracle, a round boat on the Kaveri river at Hogenakkal. I am made of split bamboo, woven like a basket, and covered with a plastic sheet painted with tar, so no water gets in. I have no front and no back. Selvi rows me with one paddle. When she wants to make the visitors laugh, she spins me round and round.",
+   "Most mornings I carry people across the river to the rocks below the falls. The water roars there, and the spray hangs in the air like smoke.",
+   "One morning a man came down the steps carrying a sack, with his daughter, Nila, walking behind him. He put the sack down on the sand with a thud. Inside was an ammikkal, a grinding stone, as heavy as a small child.",
+   "\"It's for my sister in the village across the river,\" he said. \"Her old one cracked.\" He looked at me, and then at the stone. \"This basket will sink,\" he said. \"Stone sinks. Everyone knows that.\"",
+   "Selvi did not argue. She pushed me into the shallow water and pressed down on my rim with her hand. \"Press here,\" she told Nila. Nila pressed. The water pushed back up against her hand, and when she let go, I bobbed up again.",
+   "\"The river pushes up on anything that pushes it aside,\" Selvi said. \"This coracle is wide, so it pushes aside a lot of water. The more you put in it, the lower it sits, and the harder the river pushes back.\"",
+   "She lifted the stone in and set it down in the very middle of my floor. I sank lower in the water, a finger's width, then a palm's width. Then I stopped sinking. I was holding the stone, and the river was holding me.",
+   "\"Now you,\" Selvi said to the man. \"Sit on the floor, opposite Nila. Not on the rim.\"",
+   "He sat on the rim anyway, because he did not want his good trousers to get wet. At once I tipped towards him, and cold river water slopped in over my edge.",
+   "\"Down,\" said Selvi, and he slid down onto the floor. I came level again.",
+   "Selvi explained while she rowed. \"When you sit high up on one side, your weight leans out over the water, and the coracle tips. When you sit low and near the middle, your weight stays over the middle of the boat.\"",
+   "Nila nodded. \"Like the stone,\" she said. \"You put the stone in the middle.\"",
+   "Halfway across, a gust of wind came down from the falls and turned me sideways. The man grabbed my rim and began to stand up. Selvi did not shout this time. She put her paddle deep into the water and pulled, and I spun. I spun slowly, all the way round, with the stone at my centre, and nothing in me slid or tipped. Nila laughed. Her father sat very still, with both hands flat on the floor.",
+   "\"Why don't we tip when you spin?\" Nila asked.",
+   "\"Because the weight is in the middle,\" said Selvi. \"The coracle turns round the stone, the way a lattu turns round its point.\"",
+   "On the far bank, the man's sister was waiting with her arms folded, as if she had expected the stone to arrive wet or not at all. Selvi and the man lifted it out together. As the stone left me, I rose in the water, a palm's width, then a finger's width, until I floated high and light again, the way I always do when I am empty.",
+   "The man paid for the ride back too. This time he sat down on the floor without being told, right in the middle, and folded his legs.",
+   "Before they climbed the steps, Nila crouched at the water's edge and pressed her hand down on my rim one more time, as if she was checking that the river was still pushing back. It was. It always is."
   ],
-  "epiphany": "Floating depends on shape, not only weight: a hollow, wide object pushes aside a lot of water, and the water's upward push (upthrust) equals the weight of the water pushed aside. The turn is the heavy bronze uruli floating with the baby in it, placed in the centre so it stays balanced. Underneath: the water lifts everyone equally, and the people some looked down on were the ones who knew how to save everyone. (Inspired by the 2018 Kerala floods, when fishermen rescued thousands of people.)",
+  "epiphany": "A boat floats because the water pushes up on it (upthrust), and that push grows as the boat sinks lower and pushes more water aside. The coracle sinks only until the water pushed aside weighs as much as the boat and its load. The turn is the heavy stone placed in the centre and the man sitting low: weight low and in the middle keeps the boat from tipping, and lets it spin smoothly round its centre, like a spinner round its stick. Hogenakkal coracles on the Kaveri are real. Selvi, Nila and her father are made up.",
   "ask": [
-   "Why did the steel tumbler sink but the much heavier uruli float?",
-   "Why did the pebble float in the leaf cup but not on its own?",
-   "Why did they put Kunju right in the middle of the uruli?",
-   "Why do you think some people looked down on fishermen? Were they right?",
-   "What does 'the water holds up anyone who makes room' make you think of?"
+   "Why did the coracle not sink with the heavy stone in it?",
+   "Why did the coracle sink lower when the stone went in, and rise when it came out?",
+   "Why did the coracle tip when the man sat on the rim?",
+   "Why could Selvi spin the coracle without anything sliding or tipping?",
+   "What did Nila feel when she pressed down on the rim? What was pushing back?"
   ]
  },
  "ideas": [
   {
-   "idea": "What holds you up is the water you make room for.",
+   "idea": "Water holds up anything that pushes enough of it aside.",
    "more": "Anything in water is pushed up by a force equal to the weight of the water it pushes aside (Archimedes). Hollow, wide shapes push aside more water, so huge steel ships float."
   },
   {
@@ -1455,12 +1458,12 @@
   },
   {
    "idea": "Every object has a balance point.",
-   "more": "All of an object's weight acts as if it were at one point. Put the support there, or spin it around that point, and it is steady; let it move outside the base, and it topples."
+   "more": "All of an object's weight acts as if it were at one point. Put the support there, or spin it around that point, and it is steady. Let it move outside the base, and it topples."
   }
  ],
  "unknowns": [
   "Who made the first boat, and how? The oldest boat ever found is a dugout canoe about 10,000 years old, but people reached Australia across the sea at least 50,000 years ago. So boats are much older than any we've found, and nobody knows what they were like.",
-  "Why does ice float? Almost every other solid sinks in its own liquid. We know it's because water molecules lock into an open pattern when they freeze, but water has dozens of strange behaviours that scientists still argue about.",
+  "We know why ice floats: when water freezes, its molecules lock into an open pattern that takes up more space. But water has dozens of other unusual behaviours, and scientists still argue about what causes some of them.",
   "How did the builders of ancient temples and stepwells in India lift and place stones weighing many tonnes? Historians have good guesses (ramps, levers, rollers, ropes and huge teams), but for many buildings nobody knows exactly how it was done."
  ]
 }

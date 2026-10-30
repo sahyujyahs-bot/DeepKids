@@ -1,0 +1,116 @@
+{
+  "id": "cheating-flowers-bees",
+  "title": "Do some flowers trick bees?",
+  "blurb": "Some orchids give bees no food at all. A scientist in Brazil showed how having two colours helps these cheats get visited.",
+  "topics": [
+    "sci.ecology.interdependence.L3",
+    "sci.seeds-and-life-cycles.plant-life-cycle.L3",
+    "sci.animals.animal-minds.L3"
+  ],
+  "tags": [
+    "bees",
+    "flowers",
+    "colours",
+    "pollination"
+  ],
+  "year": 2020,
+  "mins": 6,
+  "cover": {
+    "src": "media/research/cheating-flowers-bees-1.jpg",
+    "alt": "A drawing of a bee deciding which flower to visit, among white and purple flowers.",
+    "credit": "Figure 1 (drawing by Juliana Maltoni), Aguiar, Frontiers for Young Minds, CC BY 4.0"
+  },
+  "source": {
+    "name": "Frontiers for Young Minds",
+    "title": "Tricking the Bees: How Some Flowers Cheat",
+    "authors": "João Marcelo Robazzi Bignelli Valente Aguiar",
+    "year": 2022,
+    "url": "https://kids.frontiersin.org/articles/10.3389/frym.2022.745098",
+    "license": "CC BY 4.0"
+  },
+  "original": {
+    "title": "A cognitive analysis of deceptive pollination: associative mechanisms underlying pollinators' choices in non-rewarding colour polymorphic scenarios",
+    "authors": "Aguiar, J. M. R. B. V., Giurfa, M., and Sazima, M.",
+    "journal": "Scientific Reports",
+    "year": 2020,
+    "url": "https://doi.org/10.1038/s41598-020-66356-4"
+  },
+  "cards": [
+    {
+      "k": "q",
+      "t": "The question",
+      "b": "Most flowers pay bees with sweet nectar. In return, bees carry pollen from flower to flower, which helps the plant make seeds. But some flowers cheat. They offer no food at all. Bees can learn which flowers are empty. So how do cheating flowers keep getting visited?"
+    },
+    {
+      "k": "who",
+      "t": "Who found out",
+      "b": "João Aguiar trains bees at the University of São Paulo in Brazil. He studies how bees choose and remember flowers. He worked with the scientists Marlies Sazima and Martin Giurfa. Their study came out in 2020, after about two years of experiments with bees."
+    },
+    {
+      "k": "how",
+      "t": "How they found out",
+      "b": "In Brazil, one cheating orchid has white flowers on some plants and purple flowers on others. João used a small black bee without a sting that visits this orchid. He made paper flowers in the exact orchid colours. First, bees learned to drink sugar water from the paper flowers. Then one colour got only plain water.",
+      "img": {
+        "src": "media/research/cheating-flowers-bees-2.jpg",
+        "alt": "Photos of the white and the purple orchid, a small black bee on an orchid, and a bee on a paper flower.",
+        "credit": "Figure 2, Aguiar, Frontiers for Young Minds, CC BY 4.0"
+      }
+    },
+    {
+      "k": "found",
+      "t": "What they found",
+      "b": "After about ten visits, the bees learned to skip the empty colour. Given a choice, they tried the new colour instead, even without knowing if food was there. When every flower was empty, bees made more visits and took longer to give up if there were two colours. So two colours fool bees for longer than one.",
+      "img": {
+        "src": "media/research/cheating-flowers-bees-3.jpg",
+        "alt": "Bar graphs and line graphs showing bees visiting the empty colour less over time, and making more visits when there are two colours.",
+        "credit": "Figure 3, Aguiar, Frontiers for Young Minds, CC BY 4.0"
+      }
+    },
+    {
+      "k": "sure",
+      "t": "How sure are they?",
+      "b": "This test used paper flowers and one kind of bee, near one lab. The sugar water had no smell, so only colour mattered. Real orchids also have scents and shapes. The result matches an idea that the scientist Bernd Heinrich had in the 1970s. Now that idea has been tested and supported."
+    },
+    {
+      "k": "why",
+      "t": "Why it matters",
+      "b": "A cheating plant still needs bees to carry pollen, or no seeds can form. Every extra bee visit is another chance to make seeds. With flowers of two colours, the orchid makes bees check more flowers before they learn there is no food. So the plant gets more visits without spending anything on nectar."
+    },
+    {
+      "k": "try",
+      "t": "Try it at home",
+      "b": "Shreya makes two paper flowers, one yellow and one blue, each with a bottle cap in the middle. She puts a few drops of sugar water in the yellow cap and plain water in the blue cap. She sets them on a sunny window ledge. Over two days, she counts the ants, bees or flies that visit each flower."
+    },
+    {
+      "k": "think",
+      "t": "Think about it",
+      "b": "The orchid gives the bee nothing and still gets help. Is that cheating, or a clever way to survive? A plant does not plan a trick the way a person might. The colours simply work, so the plants that have them make more seeds. Do you think the word 'cheat' fits a plant? Why, or why not?"
+    },
+    {
+      "k": "words",
+      "t": "New words",
+      "words": [
+        {
+          "w": "pollination",
+          "m": "carrying pollen from one flower to another so the plant can make seeds"
+        },
+        {
+          "w": "nectar",
+          "m": "the sweet juice inside many flowers"
+        },
+        {
+          "w": "pollen",
+          "m": "tiny grains made by flowers, needed to make seeds"
+        },
+        {
+          "w": "deceptive",
+          "m": "giving a false idea, like a flower that looks full but has no food"
+        },
+        {
+          "w": "polymorphism",
+          "m": "when one kind of plant or animal comes in different forms, like white and purple flowers"
+        }
+      ]
+    }
+  ]
+}

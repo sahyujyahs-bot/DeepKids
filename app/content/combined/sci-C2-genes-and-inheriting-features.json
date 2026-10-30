@@ -6,7 +6,7 @@
  "n": "genes-and-inheriting-features",
  "title": "Why we look like our family, and why we don't",
  "source": "DeepKids Combined. Covers Cambridge Stage 2 Biology Unit 4.3 'Inheriting characteristics' (young inherit characteristics from their parents; we are similar to and different from our parents and each other). No textbook needed.",
- "summary": "Your child finds out why a mango seed always grows a mango tree, why kittens from one mother can be four different colours, and why brothers and sisters never look exactly alike. They map features across their family, make 'coin-toss creatures' to see how two parents' instructions shuffle, take their fingerprints, and grow the same seeds in light and dark to see that surroundings shape us too. They meet the instructions inside every cell (genes, written in a four-letter code), the monk who counted peas, the Indian botanist who bred sweeter sugarcane, and a schoolbook 'fact' about tongue rolling that turned out to be wrong.",
+ "summary": "Your child finds out why a mango seed always grows a mango tree, why kittens from one mother can be four different colours, and why brothers and sisters never look exactly alike. They map features across their family, make 'coin-toss creatures' to see how two parents' instructions shuffle, take their fingerprints, and grow the same seeds in light and dark to see that surroundings shape us too. They meet the instructions inside every cell (genes, written in a four-letter code), Gregor Mendel, the monk who counted peas, Janaki Ammal, the Indian botanist who bred sugarcane for India, and a schoolbook 'fact' about tongue rolling that turned out to be wrong.",
  "subconcepts": [
   "characteristics (features) of living things",
   "young inherit characteristics from their parents",
@@ -81,7 +81,7 @@
      "kind": "warmup",
      "title": "Remember",
      "mins": 5,
-     "do": "Ask: 'Does a kitten look like its mother? Does a tadpole look like a frog?' (Kittens yes; tadpoles no, but they grow into frogs.) 'Does a hen ever hatch a duckling?' (No!) Say: 'This week we find out why young turn into the same kind as their parents, and why they're never exact copies.'"
+     "do": "Ask: 'Does a kitten look like their mother? Does a tadpole look like a frog?' (Kittens yes; tadpoles no, but they grow into frogs.) 'Does a hen ever hatch a duckling?' (No!) Say: 'This week we find out why young turn into the same kind as their parents, and why they're never exact copies.'"
     },
     {
      "kind": "do",
@@ -93,7 +93,7 @@
      "kind": "talk",
      "title": "Why a mango, not a coconut?",
      "mins": 12,
-     "do": "Hold a mango seed (or any seed) and an egg. Ask: 'What will this seed grow into? Why not a coconut tree?' Let your child guess. Say: 'Inside every cell of every living thing is a set of instructions, passed down from the parents. Each instruction is called a gene. The mango seed has mango instructions; the chick in an egg has hen instructions. That's why the young grow into the same kind as their parents.' Ask: 'Where are your instructions?' (In every cell of your body.)"
+     "do": "Hold a mango seed (or any seed) and an egg. Ask: 'What will this seed grow into? Why not a coconut tree?' Let your child guess. Say: 'Inside every cell of every living thing is a set of instructions, passed down from the parents. Each instruction is called a gene. The mango seed has mango instructions. A hen's egg has hen instructions. That's why the young grow into the same kind as their parents.' Ask: 'Where are your instructions?' (In every cell of your body.)"
     }
    ],
    "need": [
@@ -126,7 +126,7 @@
      "kind": "talk",
      "title": "Brothers and sisters",
      "mins": 12,
-     "do": "Ask: 'Do you know any brothers and sisters who look very different? Or very alike?' Say: 'Each parent has two copies of each instruction, one from each of their own parents. Each baby gets one copy from the mother and one from the father, picked by chance, like the coin toss. So every brother and sister gets a different mix.' Shuffle two decks of cards (one red, one blue) and deal two hands of 5 from both: 'Same two decks, different hands.' Ask: 'Is there anyone in the world with exactly your mix?' (No, unless you have an identical twin.)"
+     "do": "Ask: 'Do you know any brothers and sisters who look very different? Or very alike?' Say: 'Each parent has two copies of each instruction, one from each of their own parents. Each baby gets one copy from the mother and one from the father, picked by chance, like the coin toss. So every brother and sister gets a different mix.' Take two decks of cards (or red and blue paper slips). Deal 5 cards from each deck to make one hand. Shuffle and deal again. Say: 'Same two decks, a different hand.' Ask: 'Is there anyone in the world with exactly your mix?' (No, unless you have an identical twin.)"
     }
    ],
    "need": [
@@ -144,23 +144,23 @@
      "kind": "read",
      "title": "Story: Four Kittens, One Mother",
      "mins": 12,
-     "do": "Read the story aloud (Story tab). It is told by a mother cat in a Kolkata lane. Ask the questions after. Listen for: 'Each kitten is a different shuffle of the same two.'"
+     "do": "Read the story aloud (Story tab). It is told by a mother cat in a lane in Chennai. Ask the questions after. Listen for: 'Each kitten is a different shuffle of the same two.'"
     },
     {
-     "kind": "outdoor",
+     "kind": "do",
      "title": "Variation hunt",
      "mins": 15,
-     "do": "Collect 10 leaves from one neem (or any) tree, or 10 pea pods, or 10 peanuts in shells. Your child lines them up and checks: 'Are any two exactly the same?' Measure the length of each leaf with a ruler and write the numbers. Count the leaflets on each neem leaf. Say: 'Differences between living things of the same kind are called variation. Even leaves from one tree, made from the same instructions, are not the same.' Ask: 'Why might variation be useful?' (If the weather changes or a disease comes, some may cope better.)"
+     "do": "Take 10 small leaves from one stalk of curry leaves from the kitchen, or 10 pea pods, or 10 peanuts in their shells. Your child lines them up and checks: 'Are any two exactly the same?' Measure the length of each one with a ruler and write the numbers down. Say: 'Differences between living things of the same kind are called variation. Even leaves from one plant, made from the same instructions, are not the same.' Ask: 'Why might variation be useful?' (If the weather changes or a disease comes, some may cope better.)"
     },
     {
      "kind": "talk",
      "title": "Copies are never perfect",
      "mins": 8,
-     "do": "Say: 'Every time a cell copies its instructions, it copies them very, very carefully. But once in a while there's a tiny change, like a spelling slip. Most slips do nothing. Some make a new feature: a white tiger, a brown-eyed baby in a blue-eyed family, a seedless grape.' Ask: 'Could a tiny slip ever be useful?' (Yes, sometimes, and that is one way new kinds of living things slowly come about.)"
+     "do": "Say: 'Every time a cell copies their instructions, they copy them very carefully. But once in a while there's a tiny change, like a spelling slip. Most slips do nothing. Some make a new feature. White tigers and seedless grapes both began with a slip like this.' Ask: 'Could a tiny slip ever be useful?' (Yes, sometimes, and that is one way new kinds of living things slowly come about.)"
     }
    ],
    "need": [
-    "10 leaves from one tree, or pea pods, or peanuts",
+    "10 curry leaves from one stalk, or 10 pea pods, or 10 peanuts in shells",
     "a ruler"
    ]
   },
@@ -207,13 +207,13 @@
      "kind": "think",
      "title": "Born, learned or surroundings?",
      "mins": 12,
-     "do": "Say a feature; your child shows one finger for 'born with it (inherited)', two for 'learned', three for 'caused by surroundings', and can show more than one. Natural hair colour (1); speaking Bengali or Tamil (2); a scar (3); eye colour (1); riding a cycle (2); a suntan (3); height (1 and 3: genes and food); a flamingo's pink colour (3: it comes from the shrimps and algae it eats; a flamingo on other food goes pale); a cricket batting style (2); being a boy or a girl turtle (3: in many turtles it depends on how warm the sand is around the egg). Ask: 'Which was hardest? Why?'"
+     "do": "Say a feature; your child shows one finger for 'born with it (inherited)', two for 'learned', three for 'caused by surroundings', and can show more than one. Natural hair colour (1); speaking Kannada or Bengali (2); a scar (3); eye colour (1); riding a cycle (2); a suntan (3); height (1 and 3: genes and food); a flamingo's pink colour (3: the colour comes from the tiny shrimps and algae they eat, and a flamingo fed other food turns pale); a cricket batting style (2); being a boy or a girl turtle (3: in many turtles it depends on how warm the sand is around the egg). Ask: 'Which was hardest? Why?'"
     },
     {
      "kind": "exp",
      "title": "Same seeds, different places",
      "mins": 10,
-     "do": "Start Experiment e2: two cups of the same methi seeds, one by a sunny window, one in a dark cupboard. Ask your child to predict: 'They have the same kind of instructions. Will they grow the same?'",
+     "do": "Start Experiment e2: two cups of the same methi seeds, soaked overnight, one by a sunny window, one in a dark cupboard. Ask your child to predict: 'They have the same kind of instructions. Will they grow the same?'",
      "ref": "e2"
     },
     {
@@ -225,7 +225,7 @@
     }
    ],
    "need": [
-    "two cups of soil",
+    "two cups of soil (or wet cotton wool)",
     "methi seeds",
     "a sunny window and a dark cupboard"
    ]
@@ -239,7 +239,7 @@
      "kind": "talk",
      "title": "Voice v1: the monk and the peas",
      "mins": 12,
-     "do": "Open some fresh matar pods and look at the peas: sizes, colours, smooth or wrinkly. Tell your child about voice v1, Gregor Mendel, who grew thousands of pea plants and counted their features. Explain his surprise: 'When he crossed tall plants with short ones, all the babies were tall. But when those babies had babies, about one in four was short again! The short instruction had been hiding.' Ask its question.",
+     "do": "Open some fresh pea pods (matar) and look at the peas: sizes, colours, smooth or wrinkly. Tell your child about voice v1, Gregor Mendel, who grew thousands of pea plants and counted their features. Explain his surprise: 'When he crossed tall plants with short ones, all the babies were tall. But when those babies had babies, about one in four was short again! The short instruction had been hiding.' Ask its question.",
      "ref": "v1"
     },
     {
@@ -271,13 +271,13 @@
      "kind": "warmup",
      "title": "Seed check",
      "mins": 4,
-     "do": "Look at Experiment e2. The cupboard seedlings are pale yellow, thin and tall; the window seedlings are green and sturdy. Ask: 'Same kind of instructions, different plants. Why?' (Light changes how they grow: surroundings shape features too.)"
+     "do": "Look at Experiment e2. If the seedlings are still tiny, do this check in two or three days. The cupboard seedlings are pale yellow, thin and tall; the window seedlings are green and sturdy. Ask: 'Same kind of instructions, different plants. Why?' (Light changes how they grow: surroundings shape features too.)"
     },
     {
      "kind": "talk",
      "title": "Voice v2: sweeter sugarcane",
      "mins": 12,
-     "do": "Say: 'For thousands of years, farmers have chosen the best plants and animals to be parents: the sweetest mango, the rice that survives floods, the cow that gives milk in hot weather. This is called breeding. Indian farmers bred thousands of rice varieties, and breeds like the Gir cow and the black Kadaknath hen.' Then tell your child about voice v2, Janaki Ammal, who bred sugarcane to grow well in India. Ask its question. Then ask: 'Who owns a rice variety that a village bred over 500 years: the village, a company, or nobody?'",
+     "do": "Say: 'For thousands of years, farmers have chosen the best plants and animals to be parents: the sweetest mango, the rice that survives floods, the cow that gives milk in hot weather. This is called breeding. Indian farmers bred thousands of rice varieties, and breeds like the Kangayam bullock of Tamil Nadu and the black Kadaknath hen.' Then tell your child about voice v2, Janaki Ammal, who bred sugarcane to grow well in India. Ask its question. Then ask: 'Who owns a rice variety that a village bred over 500 years: the village, a company, or nobody?'",
      "ref": "v2"
     },
     {
@@ -357,7 +357,7 @@
        "opts": [
         "a coconut tree",
         "a mango tree",
-        "any tree it likes"
+        "any kind of tree"
        ],
        "a": 1
       },
@@ -426,7 +426,7 @@
       },
       {
        "t": "match",
-       "p": "Match the fingerprint pattern to its picture.",
+       "p": "Match each fingerprint pattern to what it looks like.",
        "pairs": [
         [
          "loop",
@@ -475,7 +475,7 @@
        "p": "Inherited, learned or caused by surroundings?",
        "items": [
         "natural eye colour",
-        "speaking Hindi",
+        "speaking Malayalam",
         "a scar on the knee",
         "natural hair colour",
         "swimming",
@@ -582,7 +582,7 @@
       },
       {
        "t": "mcq",
-       "p": "Mendel crossed tall and short pea plants. All the babies were tall. Then their babies were about 3 tall to 1 short. What does that show?",
+       "p": "Gregor Mendel, a monk who grew peas, crossed tall and short pea plants. All the babies were tall. Then their babies were about 3 tall to 1 short. What does that show?",
        "opts": [
         "the short instruction was hiding, not lost",
         "short plants are weaker",
@@ -681,21 +681,21 @@
    "day": 5,
    "question": "If two plants have the same kind of instructions, will they grow the same?",
    "need": [
-    "two cups of soil",
+    "two cups of soil (or wet cotton wool)",
     "a spoon of methi seeds",
     "water",
     "a sunny window and a dark cupboard"
    ],
    "steps": [
-    "Sprinkle the same number of methi seeds in each cup and cover lightly with soil.",
+    "Soak the methi seeds in water overnight. Sprinkle the same number of seeds in each cup and cover lightly with soil.",
     "Water both the same amount.",
     "Put one cup by a sunny window and one in a dark cupboard.",
     "Water both the same every day.",
-    "After 2 days look, and again on Day 7. Draw both."
+    "Look every day. By the fourth or fifth day the difference is clear. Draw both cups."
    ],
    "predict": "Ask: 'Will the two cups look the same?'",
    "observe": "Cupboard seedlings: pale yellow, thin, very tall and floppy. Window seedlings: green, shorter, sturdy.",
-   "why": "The seeds came from the same kind of plant, with the same kind of instructions. But genes are instructions that switch on and off depending on surroundings. In the dark, the seedling uses its stored food to grow tall fast, hunting for light, and doesn't make much green chlorophyll. Features come from genes and surroundings together.",
+   "why": "The seeds came from the same kind of plant, with the same kind of instructions. But genes are instructions that switch on and off depending on surroundings. In the dark, the seedlings use their stored food to grow tall fast, searching for light, and doesn't make much green chlorophyll. Features come from genes and surroundings together.",
    "safety": "",
    "time": "10 min + checks over a week"
   }
@@ -713,7 +713,7 @@
    ],
    "steps": [
     "Draw two parent creatures. Mother: long ears, spots, 3 eyes, a curly tail, green. Father: short ears, stripes, 1 eye, a straight tail, orange.",
-    "For the first baby, toss a coin for each feature: heads, it gets the mother's; tails, the father's. Write each result.",
+    "For the first baby, toss a coin for each feature: heads, the baby gets the mother's, tails, the father's. Write each result.",
     "Draw the baby.",
     "Make two more babies the same way.",
     "Line up the three babies with the parents and compare."
@@ -818,7 +818,7 @@
     "back": "learned"
    },
    {
-    "front": "cooking dal",
+    "front": "cooking sambar",
     "back": "learned"
    },
    {
@@ -835,7 +835,7 @@
    },
    {
     "front": "a flamingo's pink colour",
-    "back": "surroundings (its food)"
+    "back": "surroundings (their food)"
    },
    {
     "front": "a pale seedling grown in the dark",
@@ -936,9 +936,9 @@
   {
    "id": "v4",
    "who": "Nettie Stevens (1861–1912), USA",
-   "idea": "In 1905, studying mealworms, Stevens showed that whether an animal is male or female can depend on one pair of chromosomes (inherited instruction packets): females had two large ones (later called X and X), males one large and one small (X and Y). This was the first clear proof that chromosomes carry features.",
+   "idea": "In 1905, studying mealworms, Stevens showed that whether an animal is male or female can depend on one pair of chromosomes (inherited instruction packets): females had two large ones (later called X and X), males one large and one small (X and Y). This was one of the first clear signs that chromosomes carry inherited features.",
    "then": "A more famous scientist, Edmund Wilson, published similar findings the same year, and for decades textbooks gave him most of the credit. Stevens, who started her scientific career late after years as a teacher, never got a permanent professorship.",
-   "now": "Her discovery is accepted, and historians now name her as the discoverer. We also know nature has other ways: in many turtles and crocodiles the warmth of the egg decides.",
+   "now": "Her discovery is accepted, and historians now name her as a discoverer. We also know nature has other ways: in many turtles and crocodiles the warmth of the egg decides.",
    "status": "accepted",
    "ask": "Two people found the same thing in the same year, and the famous man got the credit. Why do you think that happened? How could we make credit fairer?",
    "day": 8
@@ -947,51 +947,51 @@
  "story": {
   "title": "Four Kittens, One Mother",
   "text": [
-   "I am a cat of the lanes of north Kolkata. I have no name that I would tell you, but the children of the yellow house call me Billi, and I let them. My coat is a patchwork: black, orange and cream, splashed about as if someone shook three paint pots over me. I have white socks on my front paws. I am rather proud of them.",
+   "I am a cat of the lanes of Mylapore, in Chennai. I have no name that I would tell you, but the children of the yellow house call me Poonai, which is only the Tamil word for cat, and I let them. My coat is a patchwork: black, orange and cream, splashed about as if someone shook three paint pots over me. I have white socks on my front paws. I am rather proud of them.",
    "This monsoon I had my kittens behind the yellow house, in a dry box under the stairs, while the rain drummed on the tin roof. Four of them. I licked each one clean and they found my milk with their eyes still shut, and they pushed and squeaked and fed, and I lay there and purred.",
-   "When their eyes opened, the boy of the house came to look. His name is Rohan. He is seven, and he thinks he knows everything about cats.",
+   "When their eyes opened, the boy of the house came to look. His name is Arjun. He is seven, and he thinks he knows everything about cats.",
    "He knelt down by the box and his face fell.",
-   "\"Didi!\" he shouted. \"Come and look! Billi's kittens are all wrong!\"",
-   "His sister Mitali came down the stairs, two at a time. She is eleven and wears her hair in a long plait, and she does not think she knows everything, which is why she knows a great deal.",
+   "\"Akka!\" he shouted. \"Come and look! Poonai's kittens are all wrong!\"",
+   "His sister Meenakshi came down the stairs, two at a time. She is eleven and wears her hair in a long plait, and she does not think she knows everything, which is why she knows a great deal.",
    "\"What do you mean, wrong?\"",
-   "\"Look!\" Rohan pointed. \"That one's black and white. That one's stripy grey. That one's all orange. Only the little one looks like Billi.\"",
+   "\"Look!\" Arjun pointed. \"That one's black and white. That one's stripy grey. That one's all orange. Only the little one looks like Poonai.\"",
    "It was true. My first-born was black with a white chest, like a tiny lawyer. My second was a grey tabby with stripes like the shadows of a window grille. My third was orange from nose to tail, the colour of marigolds. And my smallest, the last to come and the loudest, was a patchwork like me: black, orange and cream.",
-   "\"Kittens are supposed to look like their mother,\" said Rohan. \"Those three can't be hers.\"",
-   "I gave him a long look. They were mine. I had carried them and borne them and licked them and fed them. I knew their smell from every other smell in Kolkata.",
-   "Mitali sat down on the bottom step. \"Have you seen the big orange tom who sits on the wall by the sweet shop?\" she asked.",
-   "Rohan's mouth fell open. He looked at the orange kitten. \"So that one's his?\"",
+   "\"Kittens are supposed to look like their mother,\" said Arjun. \"Those three can't be hers.\"",
+   "I gave him a long look. They were mine. I had carried them and borne them and licked them and fed them. I knew their smell from every other smell in Chennai.",
+   "Meenakshi sat down on the bottom step. \"Have you seen the big orange tom who sits on the wall by the sweet shop?\" she asked.",
+   "Arjun's mouth fell open. He looked at the orange kitten. \"So that one's his?\"",
    "\"Maybe. Kittens get half their instructions from the mother and half from the father. And a mother cat can even have kittens from more than one father in the same litter.\"",
    "\"But the stripy one doesn't look like the orange tom either!\"",
-   "Mitali thought for a moment. Then she went upstairs and came back with two packs of cards, one with red backs and one with blue.",
-   "\"Red is Billi,\" she said. \"Blue is the father. Every cat has two copies of each instruction, one from its own mother and one from its own father. So Billi's pack has some cards she's never even shown on her own coat: hidden ones, from her own parents.\" She shuffled the red pack and the blue pack and dealt Rohan five red cards and five blue. Then she shuffled again and dealt him another hand. \"Same two packs. Is it the same hand?\"",
+   "Meenakshi thought for a moment. Then she went upstairs and came back with two packs of cards, one with red backs and one with blue.",
+   "\"Red is Poonai,\" she said. \"Blue is the father. Every cat has two copies of each instruction, one from their own mother and one from their own father. So Poonai's pack has some cards she's never even shown on her own coat: hidden ones, from her own parents.\" She shuffled the red pack and the blue pack and dealt Arjun five red cards and five blue. Then she shuffled again and dealt him another hand. \"Same two packs. Is it the same hand?\"",
    "\"No.\"",
    "\"That's each kitten. A different shuffle of the same two.\"",
-   "Rohan frowned at the cards, and then at the kittens, and I could see the idea going in, the way water goes into dry soil. He crouched down closer and looked at the orange kitten. \"It's got white socks,\" he said slowly. \"On its front paws. Like Billi.\"",
-   "I purred. Of course it had.",
-   "\"And the stripy one has Billi's green eyes. And the black one's got her tail with the bend in it.\" He looked at me. \"They've all got bits of her. Just different bits.\"",
-   "\"And bits of someone else,\" said Mitali. \"And maybe bits of their grandmothers that Billi kept hidden.\"",
-   "Rohan was quiet for a long time. Then he looked up at his sister. He looked at her long plait, which was straight and black. His own hair was wavy and stuck up at the back like a crow's nest. She had their mother's long fingers. He had their father's round chin and his short thumbs, which he hated.",
+   "Arjun frowned at the cards, and then at the kittens, and I could see the idea going in, the way water goes into dry soil. He crouched down closer and looked at the orange kitten. \"This one's got white socks,\" he said slowly. \"On the front paws. Like Poonai.\"",
+   "I purred. Of course.",
+   "\"And the stripy one has Poonai's green eyes. And the black one's got her tail with the bend in it.\" He looked at me. \"They've all got bits of her. Just different bits.\"",
+   "\"And bits of someone else,\" said Meenakshi. \"And maybe bits of their grandmothers that Poonai kept hidden.\"",
+   "Arjun was quiet for a long time. Then he looked up at his sister. He looked at her long plait, which was straight and black. His own hair was wavy and stuck up at the back like a crow's nest. She had their mother's long fingers. He had their father's round chin and his short thumbs, which he hated.",
    "\"We don't look the same either,\" he said.",
-   "\"No,\" said Mitali. \"Different shuffles.\"",
+   "\"No,\" said Meenakshi. \"Different shuffles.\"",
    "\"Of the same two packs.\"",
    "\"Of the same two packs.\"",
-   "Just then the orange kitten, who had been lying on its back, rolled over and blundered into the patchwork one, and they tumbled together into the black one, and the grey one pounced on all three, and they became one squeaking heap of four colours. I stepped into the box, and they found me, all of them, the way they always did, by smell and by warmth, and settled against my belly to feed.",
-   "Rohan watched them. \"She doesn't care what colour they are,\" he said.",
-   "I closed my eyes. The rain had stopped. Somewhere a pressure cooker whistled, and the smell of mustard oil came down the stairs.",
-   "\"No,\" said Mitali. \"She doesn't.\""
+   "Just then the orange kitten, who had been lying on their back, rolled over and blundered into the patchwork one, and they tumbled together into the black one, and the grey one pounced on all three, and they became one squeaking heap of four colours. I stepped into the box, and they found me, all of them, the way they always did, by smell and by warmth, and settled against my belly to feed.",
+   "Arjun watched them. \"She doesn't care what colour they are,\" he said.",
+   "I closed my eyes. The rain had stopped. Somewhere a pressure cooker whistled, and the smell of rasam and curry leaves came down the stairs.",
+   "\"No,\" said Meenakshi. \"She doesn't.\""
   ],
-  "epiphany": "Young inherit characteristics from both parents, and each one gets a different chance mix (including hidden instructions from grandparents), so brothers and sisters differ. The turn is Mitali's two packs of cards, 'a different shuffle of the same two', and Rohan noticing that every kitten has some of Billi (white socks, green eyes, bent tail), and then seeing the same in himself and his sister. Underneath: a mother who loves all her young alike, whatever they look like.",
+  "epiphany": "Young inherit characteristics from both parents, and each one gets a different chance mix (including hidden instructions from grandparents), so brothers and sisters differ. The turn is Meenakshi's two packs of cards, 'a different shuffle of the same two', and Arjun noticing that every kitten has some of Poonai (white socks, green eyes, bent tail), and then seeing the same in himself and his sister. Underneath: a mother who loves all her young alike, whatever they look like.",
   "ask": [
-   "Why did Rohan think three kittens weren't Billi's?",
-   "What did Mitali's two packs of cards show?",
-   "Which bits of Billi did each kitten have?",
-   "Why do Rohan and Mitali look different if they have the same parents?",
-   "Billi didn't care what colour her kittens were. What makes a family a family?"
+   "Why did Arjun think three kittens weren't Poonai's?",
+   "What did Meenakshi's two packs of cards show?",
+   "Which bits of Poonai did each kitten have?",
+   "Why do Arjun and Meenakshi look different if they have the same parents?",
+   "Poonai didn't care what colour her kittens were. What makes a family a family?"
   ]
  },
  "ideas": [
   {
-   "idea": "Every child is a new shuffle of two old packs.",
+   "idea": "Every child gets a new mix of genes from two parents.",
    "more": "Young inherit a chance mix of instructions (genes) from both parents, including hidden ones from grandparents. Show it with the coin-toss creatures and two decks of cards."
   },
   {
@@ -999,12 +999,12 @@
    "more": "Identical twins share genes but not fingerprints or lives; seeds with the same genes grow differently in light and dark. Ask your child which of their features came from genes, which from the people around them, and which they chose."
   },
   {
-   "idea": "Variation is a gift.",
+   "idea": "Variation helps living things cope with change.",
    "more": "No two leaves on a tree are the same. Variation lets living things cope with change, gives farmers something to choose from, and is the raw material for life slowly changing over many generations."
   }
  ],
  "unknowns": [
-  "How do genes and surroundings together make a feature like height or musical talent? Scientists know hundreds of genes are involved in height alone, and still can't predict a child's height exactly.",
+  "How do genes and surroundings together make a feature like height or musical talent? Scientists know thousands of genes play a part in height alone, and still can't predict a child's height exactly.",
   "Why are some instructions strong and others hidden? For many features nobody yet knows exactly how this works.",
   "How much of who we are (kind, curious, brave) comes from genes, and how much from life? Scientists still argue, and the honest answer is: both, mixed in ways we don't fully understand."
  ],
@@ -1041,7 +1041,7 @@
  "check": [
   {
    "q": "Why does a mango seed grow into a mango tree?",
-   "a": "It inherited mango instructions (genes) from its parent tree."
+   "a": "The seed inherited mango instructions (genes) from their parent tree."
   },
   {
    "q": "Where do you get your characteristics from?",
@@ -1053,7 +1053,7 @@
   },
   {
    "q": "Name one inherited feature, one learned one and one caused by surroundings.",
-   "a": "e.g. eye colour; speaking a language; a scar or suntan."
+   "a": "For example: eye colour is inherited, speaking a language is learned, and a scar or a suntan comes from surroundings."
   },
   {
    "q": "What did the methi seeds in the dark show?",

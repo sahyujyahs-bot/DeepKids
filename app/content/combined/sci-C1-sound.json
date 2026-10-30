@@ -4,13 +4,13 @@
  "subj": "sci",
  "level": 1,
  "n": "sound",
- "title": "Sound: shakes you can hear",
+ "title": "Sound: where it comes from and how it reaches our ears",
  "source": "DeepKids Combined. Covers Cambridge Stage 1 Physics: Where do sounds come from? (Unit 6.1) and Sounds move (Unit 6.3), plus hearing, ears, echoes and animal hearing. No textbook needed.",
- "summary": "Your child finds out that every sound starts with something shaking (vibrating), that the shake travels through air, water, wood and string to our ears, and that sounds get quieter as they travel further away. They feel their own voice box buzz, make rice dance on a drum, build a string telephone, hum the bee breath, play a kitchen orchestra, dance the shake, and meet elephants who listen with their feet and plants that click when they are thirsty.",
- "builds_on": "This is the first rung on sound. In Class 5 your child comes back to it to measure loudness (volume) and explain high and low sounds (pitch), and to plan fair tests about how sound travels.",
+ "summary": "Every sound starts with something vibrating, which means shaking very fast. Your child feels their voice box buzz, makes rice jump on a bowl drum and builds a string telephone. They find that sound travels through air, water, wood and string, and gets quieter further away. They also meet elephants who feel low rumbles through their feet, and tomato plants that click when they are thirsty.",
+ "builds_on": "This is the first lesson on sound. In Class 5 your child comes back to it to learn about loud and quiet sounds (volume), high and low sounds (pitch), and fair tests.",
  "subconcepts": [
   "sound sources",
-  "every sound is a vibration (a fast shake)",
+  "every sound is a vibration (shaking very fast)",
   "our voice box vibrates when we talk and sing",
   "how the ear catches sound: outer ear, eardrum, brain",
   "loud and quiet sounds",
@@ -46,7 +46,7 @@
   ],
   [
    "vibration",
-   "a fast shake"
+   "very fast shaking"
   ],
   [
    "loud",
@@ -84,19 +84,19 @@
      "kind": "warmup",
      "title": "One minute of listening",
      "mins": 6,
-     "do": "Sit together with eyes closed for one whole minute (use a phone timer). Say: 'Count every different sound you hear on your fingers.' Afterwards ask: 'What did you hear? Where was it coming from?' Good answers: a fan, a pressure cooker, a crow, a scooter horn, a neighbour talking, your own breathing. Say: 'Everything that makes a sound is called a sound source.'"
+     "do": "Set a phone timer for one minute. Sit together with your eyes closed. Say: 'Count every different sound you hear on your fingers.' Then ask: 'What did you hear? Where did it come from?' Good answers: the fan, the pressure cooker, a crow, a scooter horn, a neighbour talking, your own breathing. Say: 'Anything that makes a sound is called a sound source.'"
     },
     {
      "kind": "read",
      "title": "Story: Lakhi Listens with Her Feet",
      "mins": 12,
-     "do": "Read the story aloud slowly, using a low rumbly voice for the grandmother elephant. Do not explain it. Ask two of the story questions: 'How did Lakhi find her family when she could not see them?' and 'Why did Grandmother say stand still?' Keep your child's answers in mind; you will come back to them on Day 3."
+     "do": "Read the story aloud slowly. Use a low, rumbly voice for Grandmother. Don't explain it. Then ask: 'How did Lakhi find her family when she could not see them?' and 'Why did Grandmother say stand still?' Remember your child's answers. You will come back to them on Day 3."
     },
     {
      "kind": "outdoor",
      "title": "Sound source hunt",
      "mins": 12,
-     "do": "Walk around the house and just outside (balcony, gate or garden) with a sheet of paper folded into four boxes: People, Animals, Machines, Nature (wind, rain, leaves, water). Your child draws or you write each sound source they hear in the right box. Aim for at least ten. Ask: 'Which sound was loudest? Which was quietest? Which source could you not see?' Start the Sound diary (activity a1) on the back of the sheet.",
+     "do": "Fold a sheet of paper into four boxes: People, Animals, Machines, Nature. Walk through the house and out to the balcony or the gate. Each time your child hears a sound, they draw its source in the right box, or you write it. Aim for ten. Ask: 'Which sound was loudest? Which was quietest? Which source could you not see?' Start the Sound diary (activity a1) on the back of the sheet.",
      "ref": "a1"
     }
    ],
@@ -114,20 +114,20 @@
      "kind": "warmup",
      "title": "Bee breath and the buzzing throat",
      "mins": 7,
-     "do": "Start with Bhramari, the humming bee breath from yoga. Sit tall, close your eyes, gently press the little flap at the front of each ear closed with your index fingers, breathe in through the nose, and breathe out with a long, low 'mmmmm' like a bee. Do it three times. Ask: 'Where did you feel the hum?' (In the head, the face, the teeth, the chest.) Then put fingertips gently on the front of the throat and say 'aaaah', hum 'mmmm', whisper, then stay silent. Good answer: a buzz when talking or humming, almost nothing when whispering, nothing when silent. Say: 'Inside your throat is your voice box. When you hum, it shakes very fast, and the shake spreads through your bones and your whole head. A fast shake is called a vibration. Every sound in the world starts with a vibration.'"
+     "do": "Start with Bhramari, the humming bee breath from yoga. Sit tall and close your eyes. Press the small flap at the front of each ear closed with a finger. Breathe in through the nose. Breathe out with a long, low 'mmmm', like a bee. Do it three times. Ask: 'Where did you feel the hum?' Good answers: the head, the face, the teeth or the chest. Then your child puts their fingertips on the front of their throat. They say 'aaah', then hum, then whisper, then stay silent. Ask: 'When did you feel a buzz?' Good answer: a strong buzz when talking or humming, very little when whispering, nothing when silent. Say: 'Inside your throat is your voice box. When you hum, it shakes very fast. Shaking very fast is called vibrating. Every sound starts with something vibrating.'"
     },
     {
      "kind": "exp",
      "title": "Dancing rice",
      "mins": 15,
-     "do": "Do experiment e1. Stretch cling film tightly over a steel bowl and put on a pinch of uncooked rice. Ask your child to guess first: 'What will happen to the rice if we bang a thali near it?' Bang a steel plate with a spoon near the bowl, then tap the cling film itself. Watch the rice jump. Then twang a rubber band stretched over an open box and watch it blur. Say: 'When something shakes fast, it pushes the air, and the air pushes the next bit of air, all the way to your ear.'",
+     "do": "Do experiment e1. Stretch cling film tightly over a steel bowl. Put a pinch of uncooked rice on top. Ask: 'What will happen to the rice if I bang a steel plate just above the bowl? Why do you think so?' Wait for the guess. First tap the cling film with a finger. Then bang the plate with a spoon just above the bowl. Watch the rice jump. Then twang a rubber band stretched over an open tiffin, and watch it blur. Say: 'The plate vibrates. It pushes the air, and the air pushes the cling film. That is how sound reaches your ear too.'",
      "ref": "e1"
     },
     {
      "kind": "talk",
      "title": "What's shaking?",
      "mins": 8,
-     "do": "Go back to the sound hunt sheet from Day 1. For each source, ask: 'What is shaking to make that sound?' Help with answers: the horn has a thin metal piece inside that shakes; the crow's voice box shakes; leaves shake against each other; the fan blades push air in fast puffs; a drum skin shakes when it is hit. If stuck, say: 'Let's find out by touching it gently', and touch a ringing steel glass to feel it buzz, then hold it still to stop the sound."
+     "do": "Look at the sound hunt sheet from Day 1. For each source, ask: 'What is vibrating to make that sound?' Help with answers. A horn has a thin metal plate inside that vibrates. A crow's voice box vibrates. Leaves rub and shake against each other. If you are stuck, tap a steel glass with a spoon. Your child touches the glass gently and feels the buzz. Then hold the glass tight. Ask: 'What happened to the sound?' Good answer: it stopped, because the glass stopped vibrating."
     }
    ],
    "need": [
@@ -148,20 +148,20 @@
      "kind": "exp",
      "title": "Bigger ears",
      "mins": 12,
-     "do": "Do experiment e2. Your child stands three big steps away while you rub your fingers together or crinkle a paper softly. Then they cup their hands behind their ears and listen again. Then they try a paper cone (wide end out, narrow end near, not inside, the ear). Ask: 'When was it easiest to hear? Why do you think a rabbit or an elephant has such big ears?' Good answer: big ears catch more of the sound and send it into the ear.",
+     "do": "Do experiment e2. Your child stands three big steps away, with their back to you. Rub your fingers together softly. Then they cup their hands behind their ears and listen again. Then they hold a paper cone with the narrow end near the ear, never inside it. Ask: 'When was it easiest to hear?' Then ask: 'A rabbit must hear a dog or a fox creeping up. How do their tall ears help them?' Good answer: big ears catch more sound, and a rabbit can turn each ear towards a noise.",
      "ref": "e2"
     },
     {
      "kind": "talk",
      "title": "Inside the ear",
      "mins": 8,
-     "do": "Draw a simple ear on paper: the outside ear like a funnel, a tube going in, and a thin skin across the tube. Say: 'This thin skin is the eardrum. When the shaking air reaches it, it shakes too, just like the rice on our drum. Tiny bones pass the shake on, and a nerve tells the brain. So we really hear with our ears and our brain together.' Say clearly: 'We never put anything inside our ears, not even a finger or a cotton bud, because the eardrum is thin and can be hurt.'"
+     "do": "Draw a simple ear: the outer ear like a funnel, a tube going in, and a thin skin across the end of the tube. Say: 'This thin skin is the eardrum. When sound reaches it, the eardrum vibrates, like the cling film on our drum. Tiny bones pass the vibration on. Then a nerve carries a message to the brain. We hear with our ears and our brain together.' Then say clearly: 'Never put anything inside your ear, not even a finger or a cotton bud. The eardrum is thin and can be hurt.'"
     },
     {
      "kind": "talk",
      "title": "Elephants who hear low",
      "mins": 10,
-     "do": "Tell your child about voice v1: Katy Payne felt a throbbing in the air at a zoo and found that elephants talk in rumbles too low for people to hear. Remind them of Lakhi in the story. Ask the voice question: 'How could you find out if an animal can hear a sound that you can't hear?' Good answers: watch whether the animal turns its head or comes when the sound is played; use a machine that can 'hear' the sound. Then ask: 'Who do you think hears better, people or dogs? Why might a dog need to?'",
+     "do": "Tell your child about voice v1. Katy Payne, a scientist in the USA, stood near the elephants at a zoo. She felt a throbbing in the air but heard nothing. She found that elephants call to each other with rumbles too low for people to hear. Remind your child of Lakhi in the story. Ask: 'How could you find out if an animal can hear a sound that you can't hear?' Good answers: play the sound and watch whether the animal turns their head or comes closer, or use a machine that records the sound. Then ask: 'Dogs hear many quiet sounds that we miss. How might that help a dog?'",
      "ref": "v1"
     }
    ],
@@ -180,14 +180,14 @@
      "kind": "exp",
      "title": "Walk-away test",
      "mins": 14,
-     "do": "Do experiment e3 outdoors or in a long corridor. You stand still and ring a steel bell or tap a spoon on a glass at the same strength each time. Your child walks away one big step at a time and says 'still hear it' after each step. Mark where they can no longer hear it with a chappal. Then try a louder sound (two spoons on a thali) and mark again. Ask: 'Which sound went further? What happened to the sound as you walked away?' Good answer: it got quieter and quieter, because the shake spreads out and gets weaker as it travels.",
+     "do": "Do experiment e3 in a long corridor, or along the longest path through your home. Stand still and rub your fingers together softly, the same way each time. Your child walks away one big step at a time and says 'still hear it' after each step. Where they can't hear it any more, put a chappal. Then tap a spoon on a steel glass, the same way each time, and do it again. Mark that spot with a second chappal. Ask first: 'Which sound will you hear from further away? Why?' Afterwards ask: 'What happened to the sounds as you walked away?' Good answer: both got quieter. The tap was louder, so it could be heard further away.",
      "ref": "e3"
     },
     {
      "kind": "talk",
      "title": "Too loud!",
      "mins": 6,
-     "do": "Ask: 'Which sounds are so loud they hurt? What do you do?' Good answers: crackers, a DJ speaker at a wedding, a pressure horn. Say: 'Very loud sounds can harm the tiny parts inside the ear, and the harm does not get better. So we cover our ears, move away, and keep music on headphones low.' Ask: 'How do you think a dog or a bird feels on a cracker night?'"
+     "do": "Ask: 'Which sounds are so loud that they hurt? What do you do?' Good answers: crackers, a big speaker at a wedding, a loud horn. Say: 'Very loud sounds can harm the tiny parts inside the ear. That harm does not get better. So we cover our ears and move away, and we keep headphones quiet.' Ask: 'How do you think a dog or a bird feels on a night of crackers?'"
     },
     {
      "kind": "ws",
@@ -198,9 +198,8 @@
     }
    ],
    "need": [
-    "a steel bell or a spoon and a steel glass",
-    "two spoons and a thali",
-    "a chappal to mark the spot",
+    "a steel glass and a spoon",
+    "two chappals to mark the spots",
     "worksheet ws1"
    ]
   },
@@ -213,20 +212,20 @@
      "kind": "act",
      "title": "String telephone",
      "mins": 14,
-     "do": "Do activity a2. Make two holes in the bottoms of two paper cups, push a long string (about 5 metres) through and tie a knot inside each. Pull the string tight and talk softly into one cup while your child listens. Then let the string go slack and try again. Then let someone pinch the string in the middle. Ask: 'When did it work best? What happened when we pinched it?' Good answer: tight string carries the shake; pinching stops the shake, so the sound stops.",
+     "do": "Do activity a2. A grown-up makes a small hole in the bottom of two paper cups with a pencil. Push a 5-metre string through and tie a big knot inside each cup. Walk apart until the string is tight. Talk softly into one cup while your child holds the other cup to their ear. Then let the string go loose and try again. Then pinch the string in the middle. Ask: 'When did it work best? What happened when we pinched it?' Good answer: a tight string carries the vibration. Pinching stops the vibration, so the sound stops.",
      "ref": "a2"
     },
     {
      "kind": "exp",
      "title": "Ear on the table",
      "mins": 6,
-     "do": "Your child puts one ear flat on a wooden table while you scratch the far end very lightly with a fingernail. Then they lift their head and listen again while you scratch the same way. Ask: 'When was the scratch louder?' Good answer: with the ear on the table. Say: 'Sound travels through wood and string even better than through air.' Mention that a mother cow can hear her calf and fish can hear underwater, because sound travels through water too."
+     "do": "Your child puts one ear flat on a wooden table. Scratch the far end very lightly with a fingernail. Then they lift their head, and you scratch the same way again. Ask: 'When was the scratch louder?' Good answer: with the ear on the table. Say: 'Sound travels through wood better than through air. It travels through water too. That is how fish hear underwater.'"
     },
     {
      "kind": "talk",
      "title": "A bell in a jar with no air",
      "mins": 10,
-     "do": "Tell your child about voice v2: Robert Boyle and Robert Hooke, who pumped the air out of a glass jar with a ticking watch inside and found the ticking grew fainter and fainter. Ask: 'If sound is shaking air, what happens when there is no air?' Good answer: no sound. Ask: 'Space has no air. So would an explosion in space make a bang?' Then ask the voice question.",
+     "do": "Tell your child about voice v2. About 350 years ago in England, Robert Boyle put a ticking watch inside a glass jar. His helper, Robert Hooke, had built a pump to take the air out. As the air went out, the ticking got fainter and fainter. Ask: 'Why do you think the ticking got fainter?' Good answer: sound needs air, or something else, to travel through. Ask: 'There is no air in space. Would a blast in space make a bang?' Good answer: no, it would be silent. Then ask the voice question.",
      "ref": "v2"
     }
    ],
@@ -246,13 +245,13 @@
      "kind": "outdoor",
      "title": "Echo hunt",
      "mins": 8,
-     "do": "Go to a staircase, an empty water tank, a big empty room, a well or a wall in an open ground. Clap once, sharply, and listen. Ask: 'Did the clap come back?' Say: 'That is an echo, the sound bouncing off a hard wall and coming back to you, like a ball bouncing off a wall.' Ask: 'Does a clap echo in a room full of cushions and curtains?' (Much less: soft things soak up sound.) Mention that bats find their way in the dark by shouting tiny squeaks and listening to the echoes."
+     "do": "Go to a staircase, an empty room or a corridor with hard walls. Clap once, sharply, and listen. Ask: 'Did the clap ring or come back?' Say: 'That is an echo. The sound bounced off the hard walls and came back to you, like a ball bouncing off a wall. In a small space it comes back so fast that it mixes with the clap and sounds like ringing.' Ask: 'Will a clap echo in a room full of cushions and curtains?' Try it. Good answer: much less, because soft things soak up sound. Say: 'Bats find their way in the dark by making high squeaks and listening for the echoes.'"
     },
     {
      "kind": "talk",
      "title": "Do plants make sounds?",
      "mins": 8,
-     "do": "Tell your child about voice v3: scientists in Israel recorded tomato plants making tiny clicks, too high for us to hear, when they were thirsty. Ask: 'Who might be listening to a thirsty plant? A moth? Another plant?' Then ask the voice question. Say honestly: 'Nobody knows yet whether any animal listens to those clicks. Maybe you will find out.'",
+     "do": "Tell your child about voice v3. Scientists in Israel put tomato plants in quiet boxes with special microphones. The plants made tiny clicks, too high for people to hear. Thirsty plants clicked far more often. Ask: 'Who might be listening to a thirsty plant? A moth? Another plant?' Then ask the voice question. Say: 'Nobody knows yet whether any animal listens to these clicks. Maybe you will find out one day.'",
      "ref": "v3"
     },
     {
@@ -278,29 +277,29 @@
      "kind": "exp",
      "title": "Ripples like sound",
      "mins": 6,
-     "do": "Fill a wide steel thali or basin with water and let it go still. Your child taps the middle of the water once with a fingertip. Ask: 'What spreads out?' (Rings of ripples, getting bigger and fainter.) Tap the rim of the thali with a spoon and watch tiny ripples shiver across. Say: 'Sound spreads out from its source like these ripples, in every direction. Scientists call a shake that travels like this a wave. The water stays in the thali; only the shake travels. That is why a sound gets quieter far away: the ring is bigger, so the shake is spread thinner.'"
+     "do": "Fill a wide steel plate or basin with water and wait until the water is still. Your child taps the middle of the water once with a fingertip. Ask: 'What do you see?' Good answer: rings of ripples spread out and get fainter. Then tap the rim with a spoon and watch tiny ripples shiver across. Say: 'Sound spreads out from its source like these ripples, in every direction. A vibration that travels like this is called a wave. The water stays in the plate. Only the wave travels. As the rings get bigger, each part of them gets weaker. That is why a sound gets quieter far away.'"
     },
     {
      "kind": "act",
      "title": "Kitchen orchestra",
      "mins": 10,
-     "do": "Collect a steel glass, a steel plate, a wooden spoon, an empty plastic bottle, a tin with dry rice in it, and a pot with a lid. Your child taps, shakes and rubs each one and says what is vibrating (the metal, the wood, the rice hitting the tin). Then compose a short piece together: four quiet taps on the bottle, four loud bangs on the pot, a rice-shake, and silence. Play it twice, once very loud and once very quiet. Ask: 'Which instrument rang the longest? How did you stop it ringing?' (Touch it to stop the shake.) Then play an echo game: you clap a rhythm, your child copies it, then swap."
+     "do": "Collect a steel glass, a steel plate, a wooden spoon, an empty plastic bottle, a tin with dry rice in it, and a pot with a lid. Your child taps, shakes or rubs each one and says what is vibrating. Good answers: the metal, the wood, the rice hitting the tin. Then make a short piece together: four quiet taps on the bottle, four loud bangs on the pot, one rice shake, then silence. Play it once loud and once quiet. Ask: 'Which one rang the longest? How did you stop it?' Good answer: touch it, so it stops vibrating. Last, clap a rhythm and let your child copy it. Then swap."
     },
     {
      "kind": "act",
      "title": "The shake-and-freeze dance",
      "mins": 7,
-     "do": "Play any song. While it plays, your child is a sound: they shake their whole body fast (small fast shakes for a high, quiet sound like a mosquito; big slow wobbles for a low drum). When you stop the music, they freeze: no shake, no sound. Then make a line with family members holding hands: the first person wiggles and passes the wiggle down the line to the last person, who 'hears' it. Ask: 'Did anyone walk to the end of the line? What travelled?' Good answer: only the wiggle travelled, like sound passing through air."
+     "do": "Play any song. While it plays, your child shakes like a sound: small, fast shakes for a mosquito's whine, big, slow wobbles for a big drum. When you stop the music, they freeze: no vibration, no sound. Then the family stands in a line holding hands. The first person wiggles and passes the wiggle down the line. Ask: 'Did anyone walk to the end of the line? What travelled?' Good answer: only the wiggle travelled. Sound travels through air in the same way."
     },
     {
      "kind": "do",
      "title": "Portraits of sound",
      "mins": 7,
-     "do": "Give your child crayons and paper. Say: 'Draw what a sound looks like, using only lines.' Ask for three drawings: a crow's caw, rain on the roof, and Amma's lullaby. Spiky lines? Wavy ones? Dots? Thick or thin? There is no right answer. Ask: 'Why did you choose those lines for the lullaby?' Write your child's words under each portrait and keep them in the sound map project."
+     "do": "Give your child crayons and paper. Say: 'Draw what a sound looks like, using only lines.' Ask for three drawings: a crow's caw, rain on the roof and Amma's lullaby. Spiky, wavy, dotted, thick or thin: there is no right answer. Ask: 'Why did you choose those lines for the lullaby?' Write your child's words under each drawing. Keep them for the sound map."
     }
    ],
    "need": [
-    "a wide thali or basin of water",
+    "a wide steel plate or basin of water",
     "a steel glass, steel plate, wooden spoon, plastic bottle, tin with rice, pot with lid",
     "music to dance to",
     "crayons and paper"
@@ -322,13 +321,13 @@
      "kind": "do",
      "title": "Finish the sound map",
      "mins": 6,
-     "do": "Finish the project: on the drawing of your home, your child adds a small picture for each sound source in each room (the cooker in the kitchen, the fan in the bedroom), coloured red for loud and blue for quiet. Ask: 'Which room is the noisiest? Which is the quietest place to read?'"
+     "do": "Finish the project. On the map of your home, your child draws a small picture of each sound source in its room, like the cooker in the kitchen and the fan in the bedroom. Loud sounds are red and quiet sounds are blue. Ask: 'Which room is the noisiest? Which is the best quiet place to read?'"
     },
     {
      "kind": "check",
      "title": "Teach it back",
      "mins": 10,
-     "do": "Your child shows the family the dancing rice and the string telephone and explains: sounds come from shaking; the shake travels through air, string and wood to our ears; sounds get quieter far away. Then ask the check questions aloud. Praise every answer that uses the word 'vibrate'."
+     "do": "Your child shows the family the dancing rice and the string telephone. They explain three things. Sounds come from vibrating things. The vibration travels through air, string and wood to our ears. Sounds get quieter far away. Then ask the check questions aloud. Praise every answer that uses the word 'vibrate'."
     },
     {
      "kind": "ws",
@@ -491,7 +490,7 @@
         ],
         [
          "a bee's buzz",
-         "its wings"
+         "their wings"
         ],
         [
          "a flute",
@@ -552,7 +551,7 @@
        "p": "Elephants can talk in rumbles that are…",
        "opts": [
         "too low for people to hear",
-        "too bright to see",
+        "so high that only bats hear them",
         "only made with their trunks"
        ],
        "a": 0
@@ -570,6 +569,11 @@
       {
        "t": "write",
        "p": "How could you test whether your dog (or a neighbour's cat) can hear a very quiet sound?",
+       "lines": 3
+      },
+      {
+       "t": "write",
+       "p": "Lakshmi loves the bang of crackers at Deepavali. Her dog, Raja, hides under the bed when they go off. Give one reason for Lakshmi's side and one for Raja's side. What could the family do?",
        "lines": 3
       }
      ]
@@ -610,7 +614,7 @@
        "p": "Bats find insects in the dark by…",
        "opts": [
         "listening for echoes of their own squeaks",
-        "smelling the moon",
+        "smelling them",
         "seeing in the dark only"
        ],
        "a": 0
@@ -645,7 +649,7 @@
        "pairs": [
         [
          "elephant",
-         "feels rumbles with its feet"
+         "feels rumbles with their feet"
         ],
         [
          "bat",
@@ -673,7 +677,7 @@
       },
       {
        "t": "write",
-       "p": "A tomato plant clicks when it is thirsty, but we can't hear it. Who might want to listen to it, and why?",
+       "p": "A tomato plant clicks when they are thirsty, but we can't hear the clicks. Who might want to listen, and why?",
        "lines": 3
       },
       {
@@ -703,13 +707,13 @@
     "Stretch cling film tightly over the bowl like a drum skin.",
     "Sprinkle a few grains of rice on top.",
     "Tap the cling film gently with a finger. Watch the rice.",
-    "Hold the steel plate close to the bowl and bang it with the spoon. Watch the rice.",
+    "Hold the steel plate just above the bowl and bang it hard with the spoon. Watch the rice.",
     "Stretch the rubber band over the open tiffin and twang it. Look at the band closely: does it look blurry?",
     "Touch the twanging band. What happens to the sound?"
    ],
-   "predict": "Ask your child to guess first: 'Will the rice move if we bang the plate without touching the bowl?'",
-   "observe": "The rice jumps when the cling film is tapped and also, a little, when the plate is banged nearby. The rubber band blurs as it shakes; touching it stops the shaking and the sound together.",
-   "why": "Sound is made when something vibrates. The banged plate shakes and pushes the air next to it back and forth; that air pushes the next air, and the push travels through the air to the cling film, which shakes too and throws the rice up. Stop the shaking and you stop the sound.",
+   "predict": "Ask your child to guess first: 'Will the rice move if we bang the plate without touching the bowl? Why do you think so?'",
+   "observe": "The rice jumps when you tap the cling film. It also jiggles a little when you bang the plate just above it. The rubber band looks blurry while it vibrates. When you touch it, the vibrating and the sound stop together.",
+   "why": "Sound is made when something vibrates. The banged plate pushes the air next to it back and forth. That air pushes the air next to it, all the way to the cling film. The cling film vibrates too and throws the rice up. Stop the vibrating and you stop the sound.",
    "safety": "Bang gently so the noise does not hurt anyone's ears. Keep the rice away from very young siblings.",
    "time": "15 min"
   },
@@ -731,7 +735,7 @@
    ],
    "predict": "Ask: 'Which will help most: nothing, cupped hands or the cone?'",
    "observe": "The sound seems louder with cupped hands, and often louder still with the cone pointed at the sound.",
-   "why": "The outer ear is a funnel that catches the shaking air and sends it into the ear. A bigger funnel catches more, so the quiet sound seems louder. Animals that must hear far or quiet sounds, like rabbits, foxes and elephants, often have big ears they can turn.",
+   "why": "The outer ear works like a funnel. It catches sound and sends it into the ear. A bigger funnel catches more sound, so a quiet sound seems louder. A rabbit has to hear a dog or a fox creeping up in time to run. Their tall ears catch more sound, and they can turn each ear towards a noise.",
    "safety": "Never push the cone or anything else into the ear.",
    "time": "12 min"
   },
@@ -741,22 +745,23 @@
    "day": 4,
    "question": "What happens to a sound as it travels further away?",
    "need": [
-    "a steel glass and a spoon (or a small bell)",
-    "a thali and two spoons",
-    "two chappals to mark spots"
+    "a steel glass and a spoon",
+    "two chappals to mark the spots",
+    "a long corridor, or the longest path through your home"
    ],
    "steps": [
-    "Stand still in an open space or long corridor.",
-    "Tap the glass with the spoon, the same strength each time.",
-    "Your child walks away one big step at a time, saying 'still hear it' after each tap.",
+    "Stand still at one end of the corridor.",
+    "Rub your fingers together softly, the same way each time.",
+    "Your child walks away one big step at a time and says 'still hear it' after each step.",
     "Where they can't hear it any more, put a chappal.",
-    "Now bang the thali with two spoons and repeat. Mark with the second chappal.",
+    "Now tap the spoon on the steel glass, the same way each time, and do the same again. Mark that spot with the second chappal.",
+    "If your child reaches the end and can still hear the tap, mark the end. That sound goes further than your corridor.",
     "Count the steps to each chappal."
    ],
-   "predict": "Ask: 'Which sound will you hear from further away: the glass or the thali?'",
-   "observe": "Both sounds get quieter as your child walks away. The louder thali can be heard from more steps away.",
-   "why": "A sound's shake spreads out in every direction, like ripples spreading from a stone in a pond. The further it goes, the more it spreads and the weaker it gets, so it sounds quieter. A bigger shake (a louder sound) can travel further before it is too weak to hear.",
-   "safety": "Do this away from roads. Bang the thali only a few times.",
+   "predict": "Ask: 'Which sound will you hear from further away: the finger rub or the spoon on the glass? Why do you think so?'",
+   "observe": "Both sounds get quieter as your child walks away. The finger rub fades after only a few steps. The spoon tap can be heard much further away.",
+   "why": "A sound spreads out in every direction, like ripples from a stone in a pond. The further it goes, the more it spreads, so it gets weaker and sounds quieter. A louder sound starts with a bigger vibration, so it can travel further before it is too weak to hear.",
+   "safety": "Do this indoors or in a corridor, away from roads and stairs.",
    "time": "14 min"
   }
  ],
@@ -792,7 +797,7 @@
     "A grown-up makes a small hole in the bottom of each cup with a pencil.",
     "Push the string through each hole and tie a big knot inside.",
     "Walk apart until the string is tight.",
-    "One person talks softly into a cup; the other holds their cup to their ear.",
+    "One person talks softly into a cup. The other holds their cup to their ear.",
     "Try with the string loose, then tight, then pinched in the middle, then wrapped round a chair leg."
    ],
    "outcome": "A working telephone, and the discovery that sound travels along a tight string."
@@ -802,8 +807,8 @@
   {
    "id": "v1",
    "who": "Katy Payne (born 1937), USA",
-   "idea": "In 1984, standing near the elephant enclosure at a zoo in Portland, Oregon, Katy Payne felt a throbbing in the air, like the feeling near a big organ pipe, but heard nothing. She and her colleagues recorded the elephants and found they were calling to each other with rumbles too low for human ears to hear (called infrasound), which can travel for kilometres.",
-   "then": "Katy Payne had already studied whale songs with her husband Roger Payne. Many people were surprised that such a big discovery came from a feeling rather than a sound. Recordings soon convinced other scientists.",
+   "idea": "In 1984, Katy Payne stood near the elephants at a zoo in Portland, in the USA. She felt a throbbing in the air, like standing near a big organ pipe, but heard nothing. She and her team recorded the elephants. They found the elephants were calling to each other with rumbles too low for people to hear. These sounds are called infrasound, and they can travel for kilometres.",
+   "then": "Katy Payne had already studied whale songs with her husband, Roger Payne. Other scientists were convinced once the recordings showed the low calls.",
    "now": "It is accepted: elephants talk in very low rumbles, and later scientists such as Caitlin O'Connell-Rodwell found that they may also feel these rumbles through the ground with their feet and trunks.",
    "status": "accepted",
    "ask": "Katy Payne noticed a feeling that no one else had paid attention to. How could you find out if an animal can hear a sound you can't hear?",
@@ -813,7 +818,7 @@
    "id": "v2",
    "who": "Robert Boyle (1627–1691) and Robert Hooke (1635–1703), England",
    "idea": "In 1660 Boyle reported putting a ticking watch inside a glass jar and pumping the air out. The ticking grew fainter and fainter, and came back when air was let in. The air pump that made this possible was built by his assistant, Robert Hooke.",
-   "then": "Some twenty years earlier in Rome, Gasparo Berti, with Athanasius Kircher watching, had rung a bell in a glass with the air taken out and still heard it, so Kircher said sound did not need air. The sound had probably travelled out through the metal that held the bell, and some air may have been left. Boyle's careful test convinced most people that sound needs air (or something) to travel through.",
+   "then": "In the 1640s in Rome, Gasparo Berti rang a bell inside a tube with the air taken out, and still heard it. Athanasius Kircher, who wrote about the test, said that sound does not need air. The sound had probably escaped through the metal that held the bell, and some air may have been left inside. Boyle's careful test convinced most people that sound needs air, or something else, to travel through.",
    "now": "It is accepted: sound needs something to travel through (air, water, wood). In empty space there is no sound. Hooke, the skilled builder whose pump made the test possible, became a great scientist himself but is often left out of the story.",
    "status": "accepted",
    "ask": "Kircher said one thing and Boyle said the opposite. Why might two careful people get different results? What would you need to check?",
@@ -822,11 +827,11 @@
   {
    "id": "v3",
    "who": "Itzhak Khait, Lilach Hadany and colleagues, Tel Aviv University, Israel (published 2023)",
-   "idea": "They put tomato and tobacco plants in quiet boxes with special microphones and recorded tiny clicking sounds, too high for people to hear, which became much more frequent when the plants were thirsty or their stems were cut. A computer could tell a thirsty plant from a cut one by its clicks.",
+   "idea": "They put tomato and tobacco plants in quiet boxes with special microphones. They recorded tiny clicks, too high for people to hear. The plants clicked far more often when they were thirsty or when their stems were cut. A computer could tell a thirsty plant from a cut one by their clicks.",
    "then": "Many scientists were amazed. Others pointed out that the clicks are probably caused by tiny air bubbles in the plant's water tubes, so the plant may not be 'talking' on purpose.",
    "now": "The recordings are accepted, but what they mean is debated. Nobody knows yet whether any animal, such as a moth looking for a healthy plant to lay eggs on, actually listens to them.",
    "status": "debated",
-   "ask": "If a plant makes a sound by accident, is it still a kind of message? What experiment would show whether a moth listens to it?",
+   "ask": "If a plant clicks without meaning to, could the click still tell an animal something? What experiment would show whether a moth listens?",
    "day": 6
   }
  ],
@@ -891,8 +896,8 @@
   "Is there any place in the world that is completely silent?",
   "If a tree falls in a forest and no one is there, does it make a sound?",
   "Do animals hear the world the same way we do?",
-  "Which sounds do you love, and which sounds belong to the animals more than to us?",
-  "Does everything have a voice, if you tap it, shake it or listen closely enough?"
+  "Which sounds do you love? Which sounds might frighten a dog or a bird?",
+  "If you tap it, shake it or listen closely enough, does everything make a sound?"
  ],
  "challenge": [
   {
@@ -915,11 +920,11 @@
   },
   {
    "who": "A dog on a cracker night",
-   "view": "Dogs hear quiet and high sounds we cannot, so crackers may sound even more frightening to them. Many dogs hide under beds during Diwali crackers. Ask: whose festival is it, and could we celebrate in a way that is kind to the animals too?"
+   "view": "Dogs hear quiet and high sounds that we cannot, so crackers may sound even more frightening to them. Many dogs hide under beds when crackers go off at Deepavali. Ask: whose festival is it, and could we celebrate in a way that is kind to animals too?"
   },
   {
-   "who": "A tabla or dholak player",
-   "view": "A drummer tightens and loosens the skin to change the sound and listens very carefully. Ask: can you make a high and a low sound on your dancing-rice drum by pulling the cling film tighter or looser?"
+   "who": "A mridangam or tabla player",
+   "view": "A drummer tightens or loosens the skin to change the sound, and listens very carefully. Ask: can you make a higher sound on your rice drum by pulling the cling film tighter?"
   },
   {
    "who": "A yoga teacher",
@@ -931,7 +936,7 @@
   "text": [
    "I am Lakhi, and I am an elephant, and when this happened I was very small: only as tall as a buffalo, with a trunk that still got in my way.",
    "My family lived where the grass grows taller than a house. In the mornings the mist lies on it like a white blanket, and the grass stalks are wet and sharp and smell of rain. My mother walked in front of me, and my aunts walked around me, and my grandmother, who was the oldest and the biggest and knew every path, walked in front of us all.",
-   "That morning I saw a butterfly. It was yellow, as yellow as a ripe mango, and it floated just in front of my trunk. I reached for it. It floated away. I followed it. I reached again. It floated further, between the grass stalks, and I pushed after it, and it went up and up into the sky, and it was gone.",
+   "That morning I saw a butterfly. They were yellow, as yellow as a ripe mango, and they floated just in front of my trunk. I reached for them. They floated away. I followed. I reached again. They floated further, between the grass stalks, and I pushed after them, and they went up and up into the sky, and were gone.",
    "When I turned round, there was only grass.",
    "Grass in front of me. Grass behind me. Grass on both sides, tall and green and swaying, so that I could not see anything but grass and a little piece of grey sky. I could not see my mother's big grey legs. I could not see my aunts. I could not see my grandmother.",
    "I lifted my trunk and trumpeted as loud as I could. My trumpet was small and squeaky, and the grass swallowed it up.",
@@ -969,8 +974,8 @@
    "more": "A voice box, a drum skin, a guitar string, a bee's wings: something always vibrates. Stop the shake and the sound stops. Touch a ringing steel glass to show it."
   },
   {
-   "idea": "Sound is a shake passed along, not a thing that flies.",
-   "more": "The air near the drum pushes the next bit of air, which pushes the next, all the way to your ear, like a push passing along a line of people. That is why sound needs air, water, wood or string: something to pass the push along. Ripples in a thali of water show the same thing: the shake spreads in rings while the water stays put."
+   "idea": "Sound is a vibration passed along from one bit of air to the next.",
+   "more": "The air next to a drum pushes the air beside it, and that air pushes the next, all the way to your ear. Nothing flies from the drum to you. That is why sound needs air, water, wood or string to travel through. Ripples in a plate of water show the same thing: the wave spreads while the water stays in place."
   },
   {
    "idea": "Other animals live in a different world of sound.",
@@ -1012,7 +1017,7 @@
   },
   {
    "q": "What happens to something when it makes a sound?",
-   "a": "It vibrates: it shakes very fast."
+   "a": "It vibrates, which means it shakes very fast."
   },
   {
    "q": "What happens to a sound as you walk away from it?",

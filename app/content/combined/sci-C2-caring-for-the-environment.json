@@ -4,15 +4,15 @@
  "subj": "sci",
  "level": 2,
  "n": "caring-for-the-environment",
- "title": "Caring for our environment: everybody needs a home",
+ "title": "Caring for our environment: a home for every living thing",
  "source": "DeepKids Combined. Covers Cambridge Stage 2 'How can we care for our environment?' (litter and its harm, recycling, protecting and improving habitats, nature reserves). No textbook needed.",
- "summary": "Your child finds out that our environment is everything around us, and that it is home to far more living things than just us. They count the litter on their street, bury things to see what rots and what doesn't, practise reduce, reuse and recycle, build a drinking bowl and a bug hotel, test which home small creatures choose, and plan a tiny nature reserve. They meet the women of the Chipko movement, Wangari Maathai and Jadav Payeng, who cared for forests when nobody else would. The big idea: caring means finding out what another living thing really needs.",
+ "summary": "Our home is also home to ants, spiders, geckos and sparrows. Each of them needs food, water and shelter. Your child counts the litter on their street, buries things in a pot of soil to see what rots, and practises reduce, reuse and recycle. They make a water bowl and a bug hotel, test which place stays damp enough for a woodlouse, and plan a tiny nature reserve on a balcony or in a corner. They meet the women of the Chipko movement, Wangari Maathai and Jadav Payeng, who protected and planted forests. The big idea: to care for another living thing, first find out what they really need.",
  "builds_on": "Class 1: living things, plants and animals, and what plants need. This is the first rung of caring for the environment. In Class 3 your child goes on to food chains and food webs, the balance of nature, pollution of air, water and soil, and how to conserve them. In Class 5: soil erosion, forests, a green school, and the Earth as one shared home.",
  "goals": [
-  "By the end your child can say what 'environment' and 'habitat' mean and name what every animal needs from its habitat: food, water and shelter.",
+  "By the end your child can say what 'environment' and 'habitat' mean and name what every animal needs from their habitat: food, water and shelter.",
   "By the end your child can explain how litter harms animals and land, and show which things rot and which don't.",
   "By the end your child can sort things to reduce, reuse or recycle.",
-  "By the end your child can make a small habitat better for other creatures, and test what kind of home a small creature chooses.",
+  "By the end your child can make a small place better for other creatures, and explain why woodlice and earthworms need damp, dark places.",
   "By the end your child can explain what a nature reserve is and tell the story of someone who protected a forest."
  ],
  "subconcepts": [
@@ -22,10 +22,10 @@
   "things that rot and things that don't",
   "reduce, reuse, recycle",
   "a survey: counting and tallying",
-  "small creatures choose their homes (damp, dark, safe)",
+  "small creatures need particular homes: woodlice and earthworms need damp, dark places",
   "improving a habitat: water bowls, bug hotels, native plants",
   "nature reserves, sanctuaries and sacred groves",
-  "'weed' and 'pest' are words people made up",
+  "'weed' and 'pest' are names people give to living things they don't want",
   "people who protected forests"
  ],
  "words": [
@@ -35,7 +35,7 @@
   ],
   [
    "habitat",
-   "the natural home of a plant or animal, where it finds what it needs"
+   "the natural home of a plant or animal, where they find what they need"
   ],
   [
    "shelter",
@@ -81,25 +81,25 @@
      "kind": "warmup",
      "title": "Our hidden housemates",
      "mins": 7,
-     "do": "Ask: 'Who lives in our home?' Let your child name the family. Then say: 'Who ELSE lives here?' Go round the house with a torch and look: ants in the kitchen, a spider in a corner, a gecko on the wall, a moth by the light, plants on the windowsill, a sparrow or pigeon on the balcony. Count them. Say: 'Our home is their home too.'"
+     "do": "Ask: 'Who lives in our home?' Let your child name the family. Then say: 'Who ELSE lives here?' Go round the house with a torch and look: ants in the kitchen, a spider in a corner, a gecko on the wall, a moth by the light, plants on the windowsill, a sparrow or pigeon on the balcony. Count them together. Say: 'Our home is their home too.'"
     },
     {
      "kind": "read",
      "title": "Story: Chirri Needs a Hole",
      "mins": 10,
-     "do": "Read the story aloud. Don't explain it. Ask: 'Why didn't the bread help the sparrow?' and 'How did Noor find out what Chirri really needed?' Listen to the answers."
+     "do": "Read the story aloud. Don't explain it. Ask: 'Why didn't the bread help Chirri the sparrow?' and 'How did Nila find out what Chirri really needed?' Listen to the answers."
     },
     {
      "kind": "outdoor",
      "title": "Environment walk",
      "mins": 12,
-     "do": "Walk around your building, street or park for 10 minutes. Say: 'Our environment is everything around us.' Your child calls out things they see, and you sort them together on paper into two lists: living (trees, grass, birds, dogs, ants, people) and non-living (the road, a wall, a stone, water, air, a car). Ask: 'Is the soil living or non-living?' (It's non-living, but full of tiny living things.)"
+     "do": "Walk around your building or street for 10 minutes. Say: 'Our environment is everything around us.' Your child calls out what they see. Write it in two lists: living (trees, grass, birds, dogs, ants, people) and non-living (the road, a wall, a stone, water, air, a car). Ask: 'Is soil living or non-living?' (Soil itself is non-living, but it is full of tiny living things.)"
     },
     {
      "kind": "talk",
      "title": "What does a sparrow need?",
      "mins": 6,
-     "do": "Ask: 'What did Chirri need to live?' Help your child find three things: food, water and shelter (a safe place for a nest). Say: 'A habitat is a home that gives a plant or an animal everything it needs.' Ask: 'What's your habitat? What does it give you?' Then give a week-long drawing task: on one big sheet, draw ten homes for ten different creatures (an ant, a sparrow, a fish, a spider, a frog, a bee, a tree, a bat, an earthworm and you), and make every one different. Pin it up and add to it each day."
+     "do": "Ask: 'What did Chirri need to live?' Help your child find three things: food, water and shelter (a safe place for a nest). Say: 'A habitat is the home where a plant or an animal finds everything they need.' Ask: 'What is your habitat? What does it give you?' Then start a week-long drawing: on one big sheet, draw homes for ten creatures (an ant, a sparrow, a fish, a spider, a frog, a bee, a bat, an earthworm, a gecko and you). Each home looks different. Pin it up and add to it each day."
     }
    ],
    "need": [
@@ -116,27 +116,26 @@
      "kind": "outdoor",
      "title": "Litter survey",
      "mins": 15,
-     "do": "Do Activity a1. With gloves on, walk the same stretch of street or park as yesterday. Your child makes a tally chart with rows for plastic, paper, cans and glass, food scraps and 'other', and adds one line for each piece they see (don't pick up glass or anything sharp; a grown-up picks up with gloves). Count the totals. Ask: 'Which kind of litter is there most of? Where did it come from?'",
+     "do": "Do Activity a1. Walk the same stretch of street as yesterday. Your child makes a tally chart with rows for plastic, paper, cans and glass, food scraps and other things. They draw one line for each piece they see. Nobody picks anything up. Count the totals. Ask: 'Which kind of litter is there most of? Where did it come from?'",
      "ref": "a1"
     },
     {
      "kind": "exp",
      "title": "Set up: what happens to litter in soil?",
      "mins": 10,
-     "do": "Set up Experiment e1. In a large pot of soil, or a patch of garden, bury side by side: a banana peel, a piece of newspaper, a leaf, a plastic wrapper and a piece of cotton cloth. Push a labelled ice-cream stick next to each. Ask your child to guess which will still be there in two weeks. Draw the guesses.",
+     "do": "Set up Experiment e1. Fill a large flowerpot, or a bucket with holes in the bottom, with soil. Bury side by side: a piece of banana peel, a piece of newspaper, a leaf, a plastic wrapper and a piece of cotton cloth. Push a labelled ice-cream stick next to each. Ask: 'Which ones will still look the same in two weeks? Why do you think so?' Draw the guesses.",
      "ref": "e1"
     },
     {
      "kind": "talk",
      "title": "What does litter do to animals?",
      "mins": 10,
-     "do": "Ask: 'What could happen to an animal that finds our litter?' Talk through real things: cows on Indian streets eat plastic bags with food scraps inside and the plastic stays in their stomachs; birds and turtles get tangled in string and nets; fish swallow tiny bits of plastic; broken glass cuts paws. Ask: 'If the cow could talk, what would she say to us?' Then ask: 'When we throw something away, where is away?' (There is no away: it is always somewhere.)"
+     "do": "Ask: 'What could happen to an animal who finds our litter?' Then talk through what really happens. Cows on our streets eat plastic bags that have food inside, and the plastic stays in their stomachs. Birds and turtles get tangled in string and fishing nets. Fish swallow tiny bits of plastic. Broken glass cuts paws. Ask: 'When we put a wrapper in the dustbin, where does it go next?' (A truck takes it to a big dump at the edge of the city. It does not disappear. It is always somewhere.)"
     }
    ],
    "need": [
-    "gloves",
     "a tally sheet and pencil",
-    "a large pot of soil or a garden patch",
+    "a large flowerpot or bucket of soil",
     "banana peel, newspaper, a leaf, a plastic wrapper, a cotton rag",
     "5 ice-cream sticks"
    ]
@@ -150,13 +149,13 @@
      "kind": "do",
      "title": "Three Rs at home",
      "mins": 15,
-     "do": "Put out a pile of things from the kitchen and the dustbin (clean): a plastic bag, a glass jar, a newspaper, a milk packet, a cardboard box, a broken toy, a steel tiffin, a tetra pack. Explain: 'Reduce means use less. Reuse means use it again. Recycle means it gets made into something new.' Your child sorts each thing: could we have used less? Can we reuse it? Can it go to the kabadiwala to be recycled? Then reuse one right now: cut a milk packet or tetra pack into a seed pot and plant three moong or mustard seeds in it."
+     "do": "Put out clean things from the kitchen and the dustbin: a plastic bag, a glass jar, a newspaper, a milk packet, a cardboard box, a broken toy, a steel tiffin box, a juice carton. Say: 'Reduce means use less. Reuse means use it again. Recycle means it is made into something new.' For each thing, ask: 'Could we use less of this? Can we use it again? Can the scrap dealer take it to be recycled?' Then reuse one now: a grown-up cuts a milk packet into a seed pot, and your child plants three moong seeds in it."
     },
     {
      "kind": "game",
      "title": "Rot or Not?",
      "mins": 12,
-     "do": "Play the card game g1. Each card shows a thing; your child says whether it rots and what we could do with it instead of throwing it away.",
+     "do": "Play the card game g1. Each card names a thing. Your child says whether it rots, and what we could do with it instead of throwing it away.",
      "ref": "g1"
     },
     {
@@ -170,7 +169,7 @@
    "need": [
     "clean household things for sorting",
     "scissors (grown-up helps)",
-    "a few moong or mustard seeds and soil",
+    "a few moong seeds and soil",
     "the printed cards",
     "worksheet ws1"
    ]
@@ -184,36 +183,35 @@
      "kind": "act",
      "title": "Water bowl and bug hotel",
      "mins": 13,
-     "do": "Do Activity a2. Put a shallow clay dish of water with a stone in the middle in a shady, quiet spot for birds and bees. Then make a bug hotel: fill a cut plastic bottle or an old tin with dry sticks, hollow stems, rolled cardboard, pine cones, dry leaves and bits of bark, packed tightly, and lay it on its side under a bush or on a balcony corner. Ask: 'Who might move in?' (Ants, spiders, beetles, woodlice, solitary bees.)",
+     "do": "Do Activity a2. Put a shallow clay dish of water, with a stone in the middle, in a shady, quiet spot on the balcony or window ledge for birds and bees. Change the water every day, so mosquitoes cannot lay eggs in it. Then make a bug hotel: pack a cut plastic bottle or an old tin tightly with dry sticks, rolled cardboard, dry leaves and bits of bark. Lay it on its side in a quiet corner. Ask: 'Who might move in?' (Ants and spiders are most likely. In a garden, beetles and woodlice may come too.)",
      "ref": "a2"
     },
     {
      "kind": "exp",
-     "title": "Damp or dry: which home do they choose?",
+     "title": "Where does soil stay damp?",
      "mins": 8,
-     "do": "Do Experiment e2. In a shallow tray, put damp soil and leaves at one end, covered with a piece of card to make it dark, and dry soil at the other end in the light. Gently put a few woodlice (pill bugs that roll into balls) or garden ants in the middle with a soft brush or a leaf. Wait 5 minutes and count how many are at each end. Ask: 'Why did they choose that side?' Then put them back exactly where you found them.",
+     "do": "Do Experiment e2. Say: 'Woodlice and earthworms dry out quickly. They need damp homes.' Fill two saucers with soil and pour the same amount of water on each. Put one in the sun. Put the other in a shady corner and cover it with a thick layer of dry leaves or a folded newspaper. Ask: 'Which one will still be damp this evening? Why?' In the evening, your child presses a finger into each.",
      "ref": "e2"
     },
     {
      "kind": "act",
      "title": "Dance: find your home",
      "mins": 6,
-     "do": "Play some music. Call out a creature and your child moves like it: a woodlouse creeping low, a sparrow hopping and flitting, a fish swimming, a snake sliding. When you stop the music and shout 'Hot sun!', the creature must rush to the right shelter in the room (the woodlouse under a table, the sparrow up high on a chair with a grown-up holding it, the fish to a 'pond' cushion). Ask each time: 'Why did you go there?'"
+     "do": "Play some music. Call out a creature, and your child moves like that creature: a woodlouse creeping low, a sparrow hopping, a fish swimming, a snake sliding. Stop the music and shout 'Hot sun!'. The creature rushes to the right shelter in the room: the woodlouse under a table, the sparrow up on a chair (a grown-up holds the chair), the fish to a cushion 'pond'. Ask each time: 'Why did you go there?'"
     },
     {
      "kind": "talk",
      "title": "The boy who grew a forest",
      "mins": 8,
-     "do": "Talk about voice v3, Jadav Payeng. Ask: 'What did the snakes on the sandbank need that they didn't have?' (Shade, shelter.) Then ask the voice question.",
+     "do": "Talk about voice v3, Jadav Payeng. Ask: 'What did the snakes on the sandbank need that they didn't have?' (Shade and shelter from the hot sun.) Then ask the voice question.",
      "ref": "v3"
     }
    ],
    "need": [
     "a shallow clay dish and a stone",
     "a cut bottle or old tin",
-    "sticks, hollow stems, cardboard, leaves, bark",
-    "a tray, damp and dry soil, a piece of card",
-    "a soft brush"
+    "sticks, cardboard, dry leaves, bark",
+    "two saucers, soil, water, dry leaves or newspaper"
    ]
   },
   {
@@ -225,20 +223,20 @@
      "kind": "talk",
      "title": "The women who held on to the trees",
      "mins": 12,
-     "do": "Talk about voice v1, the Chipko movement. Tell the story of Gaura Devi and the women of Reni simply: the men were away, the tree cutters came, and the women walked into the forest and refused to let the trees be cut. Explain that 'chipko' means 'to hold on tight' or 'to stick'. Ask: 'Why did the women care so much about the trees?' (The forest gave them firewood, food for their animals, water from the springs, and it held the soil on the steep hills.) Then ask the voice question.",
+     "do": "Talk about voice v1, the Chipko movement. Tell the story simply. In 1974, in the village of Reni in the Himalayas, most of the men were away. Men came to cut down the forest. Gaura Devi led the village women into the forest, and they would not let the trees be cut. 'Chipko' means 'to stick' or 'to hold on tight'. Ask: 'Why did the women care so much about the trees?' (The forest gave them firewood, food for their animals and water from springs. Its roots held the soil on the steep hills.) Then ask the voice question.",
      "ref": "v1"
     },
     {
      "kind": "act",
      "title": "Plan a tiny nature reserve",
      "mins": 13,
-     "do": "Start the project. Tell your child: 'A nature reserve is a place kept safe so plants and animals can live there. India has big ones, like national parks and wildlife sanctuaries, and old small ones, like the sacred groves where nobody cuts the trees.' Choose a corner of your garden, balcony, school or building: one square metre is enough. Your child draws a plan: where the water bowl, bug hotel and plants will go, and a sign with a name. Ask: 'What rule will our reserve have?' (For example: no sweeping the leaves away, no spraying, let the grass grow.)"
+     "do": "Start the project. Say: 'A nature reserve is a place kept safe so plants and animals can live there. India has big ones, like national parks. It also has small, old ones, like the sacred groves of Kerala and Kodagu, where nobody cuts the trees.' Choose a corner of your balcony, window ledge or building: one square metre is enough. Your child draws a plan: where the water bowl, the bug hotel and the plants will go, and a sign with a name. Ask: 'What rule will our reserve have?' (For example: no sweeping away the dead leaves, no spraying poison.)"
     },
     {
      "kind": "ws",
      "title": "Stretch worksheet",
      "mins": 10,
-     "do": "Do Worksheet ws2 together. It asks your child to use the week's ideas in new places: a pond, a park, a garden with 'weeds'.",
+     "do": "Do Worksheet ws2 together. It asks your child to use the week's ideas in new places: a pond, a garden, an old tree.",
      "ref": "ws2"
     }
    ],
@@ -256,26 +254,26 @@
      "kind": "talk",
      "title": "Wangari and the tree planters",
      "mins": 8,
-     "do": "Talk about voice v2, Wangari Maathai. Show Kenya on a map or globe: it is across the Arabian Sea from India. Ask: 'Why do you think she asked women to plant the trees?' (They were the ones walking far for firewood and water.) Then ask the voice question.",
+     "do": "Talk about voice v2, Wangari Maathai. Show Kenya on a map or globe. It is in Africa, across the Indian Ocean from India. Ask: 'Why do you think she asked women to plant the trees?' (Women were the ones walking far for firewood and water.) Then ask the voice question.",
      "ref": "v2"
     },
     {
      "kind": "act",
      "title": "Plant for the reserve",
      "mins": 12,
-     "do": "Continue the project. Plant something in your nature reserve that local creatures use: a tulsi, marigold or ixora for bees and butterflies, a few native grass tufts, or the moong seedlings from Day 3. Make a care chart for two weeks with a box for each day: watered? Who visited? Your child draws the first visitor they see."
+     "do": "Continue the project. Plant something in your nature reserve that bees and butterflies visit: tulsi, marigold or ixora, or the moong seedlings from Day 3. Make a care chart for two weeks, with a box for each day: Watered? Who visited? Your child draws the first visitor they see."
     },
     {
      "kind": "act",
      "title": "Drama: the garden council",
      "mins": 7,
-     "do": "Hold a council. Each family member plays a creature that lives near your home: a sparrow, an ant, an earthworm, a neem tree, a street cow, a person. The question: 'A builder wants to cover the whole garden with cement for parking. Should we let him?' Each creature says what it needs and what it would lose. The person gets one turn, like everyone else. Then vote. Ask afterwards: 'Was it strange that the person got only one vote?'"
+     "do": "Hold a council. Each family member plays a living thing near your home: a sparrow, an ant, an earthworm, a neem tree, a street cow, a person. The question: 'A builder wants to cover the whole garden with cement for parking. Should we let him?' Each creature says what they need and what they would lose. The person gets one turn, like everyone else. Then vote. Ask: 'Why did the person get only one vote?'"
     },
     {
      "kind": "exp",
      "title": "Dig up the litter test",
      "mins": 8,
-     "do": "Dig up Experiment e1 carefully with a spoon, wearing gloves. Look at each thing and compare with the guesses. Ask: 'Which have started to rot? Which look exactly the same? What does that tell us about plastic litter?' (Peel, leaf and paper start to break down because tiny living things in the soil eat them; plastic stays as it is.) Wash hands well.",
+     "do": "Dig up Experiment e1 with a spoon, wearing gloves. Compare each thing with the guesses. Ask: 'Which have started to rot? Which look the same?' (The peel is dark and soft, and the leaf and paper are softer. Tiny living things in the soil are eating them. The plastic looks the same. The cloth rots very slowly and may look almost the same too.) If it has been less than two weeks, bury them again and look once more later. Wash hands well.",
      "ref": "e1"
     }
    ],
@@ -308,7 +306,7 @@
      "kind": "check",
      "title": "Check questions",
      "mins": 10,
-     "do": "Ask the check questions aloud. Let your child point at the bug hotel, the water bowl and the litter test to explain."
+     "do": "Ask the check questions aloud. Your child can point at the bug hotel, the water bowl and the litter pot to explain."
     },
     {
      "kind": "check",
@@ -353,7 +351,7 @@
       },
       {
        "t": "match",
-       "p": "Match the animal to its home.",
+       "p": "Match each animal to their home.",
        "pairs": [
         [
          "sparrow",
@@ -365,7 +363,7 @@
         ],
         [
          "ant",
-         "a hill under the ground"
+         "a nest under the ground"
         ],
         [
          "spider",
@@ -379,7 +377,7 @@
       },
       {
        "t": "mcq",
-       "p": "What does every animal need from its habitat?",
+       "p": "What does every animal need from their habitat?",
        "opts": [
         "food, water and shelter",
         "toys and a bed",
@@ -466,10 +464,10 @@
      [
       {
        "t": "mcq",
-       "p": "Woodlice moved to the damp, dark side of the tray. Where would you look for woodlice in a garden?",
+       "p": "Woodlice dry out quickly. They need damp, dark places. Where would you look for woodlice in a garden?",
        "opts": [
         "on a hot sunny path",
-        "under a damp log or stone",
+        "under a damp flowerpot or log",
         "on top of a car"
        ],
        "a": 1
@@ -504,11 +502,11 @@
      ]
     ],
     [
-     "B. What does it need?",
+     "B. What do they need?",
      [
       {
        "t": "match",
-       "p": "Match the creature to what it needs most from us in a hot summer.",
+       "p": "Match each creature to what they need most from us in a hot summer.",
        "pairs": [
         [
          "sparrow",
@@ -551,12 +549,12 @@
      [
       {
        "t": "write",
-       "p": "Noor gave Chirri bread, but it didn't help. How can we find out what an animal really needs?",
+       "p": "In the story, Nila gave bread to Chirri the sparrow, but it didn't help. How can we find out what an animal really needs?",
        "lines": 3
       },
       {
        "t": "write",
-       "p": "Your neighbour wants to cut a big old tree in the colony. What would you ask them? Who else lives in the tree?",
+       "p": "Your neighbour wants to cut down a big old tree near your building. Who else lives in the tree? What would you say to your neighbour?",
        "lines": 3
       }
      ]
@@ -574,7 +572,7 @@
      [
       {
        "t": "mcq",
-       "p": "Plastic wrapper, banana peel and leaf were buried for two weeks. Which looked the same when we dug them up?",
+       "p": "We buried a plastic wrapper, a banana peel and a leaf in soil for two weeks. Which one looked the same when we dug them up?",
        "opts": [
         "the banana peel",
         "the plastic wrapper",
@@ -584,9 +582,9 @@
       },
       {
        "t": "mcq",
-       "p": "Why did the Chipko women protect the forest?",
+       "p": "The Chipko women of Reni stood in their forest so the trees would not be cut. Why did they protect the forest?",
        "opts": [
-        "It gave them firewood, fodder, water and held the soil",
+        "It gave them firewood, food for their animals and water, and held the soil",
         "They wanted to sell the wood",
         "They didn't like the tree cutters' clothes"
        ],
@@ -594,7 +592,7 @@
       },
       {
        "t": "mcq",
-       "p": "Jadav Payeng planted trees on a bare sandbank. What came to live there?",
+       "p": "Jadav Payeng planted trees on a bare sandbank in a big river in Assam. Who came to live there?",
        "opts": [
         "only people",
         "birds, deer, rhinos, tigers and elephants",
@@ -604,7 +602,7 @@
       },
       {
        "t": "fill",
-       "p": "Wangari Maathai started a movement in Kenya where women planted ____.",
+       "p": "Wangari Maathai started a movement in Kenya. In it, women planted ____.",
        "a": [
         "trees"
        ]
@@ -629,7 +627,7 @@
       },
       {
        "t": "sort",
-       "p": "Who named it: nature or people?",
+       "p": "Is it a living thing, or a name people give to living things they don't want?",
        "items": [
         "the word 'weed'",
         "a plant growing in a crack",
@@ -637,8 +635,8 @@
         "an ant looking for sugar"
        ],
        "cats": [
-        "a thing in nature",
-        "a word people made up"
+        "a living thing",
+        "a name people give"
        ]
       }
      ]
@@ -648,7 +646,7 @@
      [
       {
        "t": "write",
-       "p": "Some people call bathua a weed and pull it out. Other people cook it as saag. Is bathua a weed? Who decides?",
+       "p": "Some people pull out wild amaranth as a weed. Other people cook it as keerai or saag. Is wild amaranth a weed? Who decides?",
        "lines": 3
       },
       {
@@ -658,7 +656,7 @@
       },
       {
        "t": "write",
-       "p": "Your nature reserve has a rule: no sweeping the leaves. A visitor says it looks messy. What would you tell them?",
+       "p": "Your nature reserve has a rule: no sweeping away the dead leaves. A visitor says it looks messy. What would you tell them?",
        "lines": 3
       }
      ]
@@ -673,7 +671,7 @@
    "day": 2,
    "question": "Which kinds of litter rot in the soil, and which stay?",
    "need": [
-    "a large pot of soil or a garden patch",
+    "a large flowerpot, or a bucket with holes in the bottom, filled with soil",
     "a banana peel",
     "a piece of newspaper",
     "a leaf",
@@ -683,44 +681,41 @@
     "gloves"
    ],
    "steps": [
-    "Dig five small holes about a hand deep.",
-    "Bury one thing in each and push a labelled stick next to it.",
-    "Water the soil a little every two days.",
+    "Dig five small holes, each about as deep as your hand is long.",
+    "Bury one thing in each, and push a labelled stick next to it.",
+    "Water the soil a little every two days, so it stays damp.",
     "After about two weeks, dig them up carefully with gloves on.",
     "Compare each thing with how it looked at the start."
    ],
    "predict": "Ask: 'Which things will still be there? Which will have changed?'",
-   "observe": "The peel and leaf are soft, dark and partly gone; the paper and cloth have started to break; the plastic looks almost the same.",
-   "why": "Soil is full of tiny living things, like bacteria and fungi, plus worms and insects. They eat dead plant and animal matter and turn it back into soil. That is rotting. They can't eat plastic, so plastic litter stays in the soil for a very long time.",
+   "observe": "The peel is dark, soft and partly gone. The leaf and paper are soft and may tear. The cloth rots slowly and may look almost the same. The plastic looks exactly the same.",
+   "why": "Soil is full of tiny living things, like bacteria and fungi, and small animals like worms. They eat dead plants and animals and turn them back into soil. That is rotting. They cannot eat plastic, so plastic stays in the soil for a very long time.",
    "safety": "Wear gloves and wash hands after.",
    "time": "10 min + about 2 weeks"
   },
   {
    "id": "e2",
-   "title": "Damp or dry: which home do they choose?",
+   "title": "Where does soil stay damp?",
    "day": 4,
-   "question": "What kind of habitat do woodlice or ants prefer?",
+   "question": "Woodlice and earthworms need damp homes. Does soil stay damp longer in the sun, or in the shade under a cover of leaves?",
    "need": [
-    "a shallow tray or box lid",
-    "damp soil and leaves",
-    "dry soil",
-    "a piece of card",
-    "a soft brush or leaf",
-    "a few woodlice (pill bugs) or ants"
+    "two saucers or small plates",
+    "soil",
+    "water",
+    "dry leaves or a folded newspaper"
    ],
    "steps": [
-    "Put damp soil and leaves at one end and cover them with card.",
-    "Put dry soil at the other end, in the light.",
-    "Gently place 6 creatures in the middle.",
-    "Wait 5 minutes without touching.",
-    "Count how many are at each end.",
-    "Put them back where you found them."
+    "Fill both saucers with the same amount of soil.",
+    "Pour half a cup of water on each.",
+    "Put one saucer in the sun, uncovered.",
+    "Put the other in the shade, covered with leaves or newspaper.",
+    "In the evening, press a finger into each and feel."
    ],
-   "predict": "Ask: 'Which side will they go to?'",
-   "observe": "Woodlice almost all crowd into the damp, dark end. Ants may wander more.",
-   "why": "Woodlice breathe through gill-like parts and dry out easily, so they need damp, dark places. Every creature has a habitat that suits its body. When we sweep away every leaf and dry every corner, we take away their homes.",
-   "safety": "Handle creatures gently with a brush or leaf, never fingers, and return them after.",
-   "time": "10 min"
+   "predict": "Ask: 'Which saucer will still be damp this evening? Why do you think so?'",
+   "observe": "The soil in the sun is dry on top, and often dry all through. The covered soil in the shade is still damp.",
+   "why": "The sun and the air dry out bare soil. Shade and a cover of leaves keep the water in. Woodlice breathe through parts like tiny gills, and earthworms breathe through their skin. Both dry out quickly, so they live under dead leaves, logs and flowerpots. When we sweep away every leaf, we take away their homes. If you have a garden, lift a flowerpot: you may find woodlice in the damp underneath.",
+   "safety": "Nothing to worry about. Wash hands after touching soil.",
+   "time": "5 min, then check in the evening"
   }
  ],
  "activities": [
@@ -730,15 +725,14 @@
    "day": 2,
    "mins": 15,
    "need": [
-    "gloves",
     "a tally sheet",
     "a pencil"
    ],
    "steps": [
-    "Choose the same stretch you walked on Day 1.",
-    "Make rows for plastic, paper, cans and glass, food scraps, other.",
-    "Walk slowly and add one tally line for each piece.",
-    "Never touch glass or sharp things.",
+    "Walk the same stretch you walked on Day 1.",
+    "Make rows for plastic, paper, cans and glass, food scraps and other things.",
+    "Walk slowly and draw one line for each piece you see.",
+    "Look only. Never pick up litter, especially glass or sharp things.",
     "Count each row and circle the biggest."
    ],
    "outcome": "A tally chart showing how much litter is on your street and what kind."
@@ -752,12 +746,13 @@
     "a shallow clay dish",
     "a stone",
     "a cut plastic bottle or old tin",
-    "dry sticks, hollow stems, rolled cardboard, leaves, bark"
+    "dry sticks, rolled cardboard, dry leaves, bark"
    ],
    "steps": [
-    "Put the dish in a shady, quiet place and fill it 2–3 cm deep with a stone in the middle.",
-    "Pack the bottle or tin tightly with sticks, stems, cardboard, leaves and bark.",
-    "Lay it on its side under a bush or in a quiet corner.",
+    "Put the dish in a shady, quiet place. Fill it 2 to 3 cm deep, with a stone in the middle so small birds and bees can stand.",
+    "Change the water every day, so mosquitoes cannot breed in it.",
+    "Pack the bottle or tin tightly with sticks, cardboard, leaves and bark.",
+    "Lay it on its side in a quiet corner.",
     "Check every day and draw any visitors."
    ],
    "outcome": "Two new homes or helps for small creatures, and a list of visitors."
@@ -767,7 +762,7 @@
   {
    "id": "v1",
    "who": "Gaura Devi (about 1925–1991) and the women of Reni, and the Chipko movement, Uttarakhand, India",
-   "idea": "In March 1974, in the village of Reni in the Himalayas, contractors came to cut down the forest while most of the men were away. Gaura Devi, head of the village women's group, led about 27 women into the forest. They stood in front of the trees and refused to move, saying the forest was like their mother's home. The cutters left. Chipko means 'to cling' or 'to stick'.",
+   "idea": "In March 1974, in the village of Reni in the Himalayas, men came to cut down the forest while most of the village men were away. Gaura Devi, head of the village women's group, led about 27 women into the forest. They stood in front of the trees and would not move. They said the forest was like their mother's home. The cutters left. 'Chipko' means 'to stick' or 'to hold on'.",
    "then": "The contractors and some officials thought villagers had no right to stop the felling. The news spread, and the Chipko movement grew. Men like Chandi Prasad Bhatt and Sunderlal Bahuguna became its famous faces, but much of the work was done by village women whose names are rarely written down.",
    "now": "Accepted. In 1980 the government stopped the cutting of green trees in those Himalayan forests for 15 years. Scientists now agree that forests on steep hills hold the soil, keep springs flowing and reduce landslides.",
    "status": "accepted",
@@ -777,18 +772,18 @@
   {
    "id": "v2",
    "who": "Wangari Maathai (1940–2011), Kenya",
-   "idea": "Wangari Maathai, a scientist who studied animals, saw that women in the Kenyan countryside were walking further and further for firewood and water, because the trees had been cut. In 1977 she started the Green Belt Movement, paying village women a little for each tree seedling they grew and planted. Together they planted tens of millions of trees.",
+   "idea": "Wangari Maathai was a scientist who studied animals' bodies. She saw that women in the Kenyan countryside walked further and further for firewood and water, because the trees had been cut. In 1977 she started the Green Belt Movement. Village women were paid a little for each young tree they grew and planted. Together they planted tens of millions of trees.",
    "then": "Many powerful men laughed at her or called her a troublemaker. She was arrested more than once for protecting forests and parks from being built on.",
    "now": "Accepted. In 2004 she became the first African woman to win the Nobel Peace Prize. Scientists agree that planting the right trees in the right places can bring back water and soil.",
    "status": "accepted",
-   "ask": "Wangari said each person can do 'the little thing' they can. What little thing could you do for the place where you live?",
+   "ask": "Wangari said each person can do 'the little thing' they can. Hers was planting trees. What little thing could you do for the place where you live?",
    "day": 6
   },
   {
    "id": "v3",
    "who": "Jadav 'Molai' Payeng (born around 1963), Assam, India",
-   "idea": "In 1979, as a teenager, Jadav Payeng saw many snakes that had died in the heat on a bare sandbank in the Brahmaputra river, near Majuli, because there was no shade. He began to plant bamboo, and then trees, and kept planting by himself every day for decades. His forest, now called Molai forest, covers hundreds of hectares and is visited by deer, rhinos, tigers and herds of elephants.",
-   "then": "For years almost nobody knew. In 2008, forest officials following a herd of elephants were amazed to find a whole forest there.",
+   "idea": "In 1979, when he was a teenager, Jadav Payeng found many snakes dead from the heat on a bare sandbank in the Brahmaputra river in Assam. There was no shade. He began to plant bamboo, and then trees, and kept planting almost every day for decades. His forest, now called Molai forest, covers hundreds of hectares. Deer, rhinos, tigers and elephants visit it.",
+   "then": "For years almost nobody knew. In 2008, forest officers following a herd of elephants were amazed to find a whole forest there.",
    "now": "Accepted. In 2015 he received the Padma Shri. His forest shows how a bare place can become a habitat again, though it takes many years.",
    "status": "accepted",
    "ask": "The snakes died because the sandbank had no shade. What other things does a forest give to animals? How could you check that the animals really came back?",
@@ -803,12 +798,12 @@
    7
   ],
   "steps": [
-   "Choose a corner of a garden, balcony, school or colony: one square metre is enough.",
-   "Draw a plan with a water bowl, the bug hotel, plants and a sign.",
-   "Give it a name and one rule (for example: no sweeping the leaves, no spraying).",
-   "Plant something for bees, butterflies or birds (tulsi, marigold, ixora, native grasses).",
-   "Keep a two-week care chart: watered? who visited?",
-   "Show the family and the neighbours what moved in."
+   "Choose a corner of a balcony, window ledge, school or building: one square metre is enough.",
+   "Draw a plan with the water bowl, the bug hotel, plants and a sign.",
+   "Give it a name and one rule (for example: no sweeping away the dead leaves, no spraying poison).",
+   "Plant something for bees and butterflies, like tulsi, marigold or ixora.",
+   "Keep a two-week care chart: Watered? Who visited?",
+   "Show the family and the neighbours who came."
   ],
   "outcome": "A small protected corner with a plan, a sign and a list of visitors."
  },
@@ -819,14 +814,14 @@
   "players": "2–4",
   "need": [
    "the printed cards, cut out",
-   "two piles marked ROTS and DOESN'T ROT"
+   "two piles, marked ROTS and DOESN'T ROT"
   ],
   "rules": [
    "Shuffle the cards and put them face down.",
    "Turn one over and read it aloud (a grown-up helps read).",
    "Say if it rots in the soil, and put it on the ROTS or DOESN'T ROT pile.",
    "Then say one thing we could do instead of throwing it away: reduce, reuse or recycle.",
-   "Check the back. A right pile scores 1 point; a good idea for it scores 1 more.",
+   "Check the back. The right pile scores 1 point. A good idea for the thing scores 1 more.",
    "When the cards are finished, the most points wins."
   ],
   "cards": [
@@ -840,7 +835,7 @@
    },
    {
     "front": "Newspaper",
-    "back": "Rots slowly. Reuse to wrap things, or give to the kabadiwala."
+    "back": "Rots slowly. Reuse it to wrap things, or give it to the scrap dealer."
    },
    {
     "front": "Glass jar",
@@ -848,7 +843,7 @@
    },
    {
     "front": "Dry leaves",
-    "back": "Rots. Leave them under trees for the soil and minibeasts."
+    "back": "Rots. Leave them under trees, for the soil and the small creatures."
    },
    {
     "front": "Steel spoon",
@@ -896,11 +891,11 @@
    },
    {
     "front": "Rubber balloon",
-    "back": "Very slow to rot; birds can swallow pieces. Reduce."
+    "back": "Rots very slowly. Birds can swallow the pieces. Reduce: don't let balloons go."
    },
    {
     "front": "Flower garland from a pooja",
-    "back": "Rots. Compost it, don't throw it in the river."
+    "back": "Rots. Compost it. Don't throw it in the river."
    },
    {
     "front": "Tin can",
@@ -908,61 +903,61 @@
    },
    {
     "front": "Vegetable peels",
-    "back": "Rots. Compost, or feed to a cow if they're clean."
+    "back": "Rots. Compost them, or give clean peels to a cow."
    }
   ]
  },
  "story": {
   "title": "Chirri Needs a Hole",
   "text": [
-   "My name is Chirri, and I am a house sparrow. I am small and brown, with a grey cap on my head and a black bib on my chest, and I live in Lucknow, in a lane full of cycle bells and pressure cookers and the smell of frying jalebis.",
-   "All my life I lived in a hole. Not just any hole: the best hole in the whole lane, under the curly old tiles of Noor's grandmother's house, just where the roof met the wall. It was dark and dry and just my size. Every spring my wife and I stuffed it with straw and threads and feathers, and every spring we had chicks, three or four of them, cheeping in the dark like a tiny radio.",
+   "My name is Chirri, and I am a house sparrow. I am small and brown, with a grey cap and a black bib on my chest. I live in Madurai, in a lane full of cycle bells, pressure cookers and the smell of frying vadas.",
+   "All my life I lived in a hole. Not just any hole: the best hole in the whole lane, under the old clay tiles of Nila's grandmother's house, just where the roof met the wall. It was dark and dry and just my size. Every year my wife and I filled it with straw, threads and feathers, and every year we had chicks, three or four of them, cheeping in the dark.",
    "Then, one winter, the old house was knocked down.",
-   "I watched from the electric wire. The men came with hammers. The tiles came down. My hole came down. Dust everywhere. In its place they built a beautiful new house of smooth grey concrete with big glass windows. It was very clean. It had no holes at all.",
-   "When spring came, my wife and I flew round and round the new house, looking for somewhere to nest. Smooth wall. Smooth wall. Glass. Smooth wall. There was nowhere. We tried the next house. Smooth. The next. Smooth. Behind the bakery the old tin roof had a gap, but the pigeons had got there first.",
-   "Noor saw me. Noor is seven, and she has a gap in her teeth, and she notices things. She saw me sitting on her window grill looking sad (sparrows can look sad, whatever people say). 'Ammi,' she said, 'that sparrow is hungry.'",
-   "So Noor put out bread.",
-   "It was kind of her. I ate a little. But bread is not what I needed. I wasn't hungry, not really. I needed a hole.",
-   "The next day Noor put out more bread. And a biscuit. And some namkeen. The crows came and ate it all, and squabbled, and made a mess on the balcony. Noor's mother sighed.",
+   "I watched from the electric wire. Workers came with hammers. The tiles came down. My hole came down. In its place they built a new house of smooth grey concrete with big glass windows. It was very clean. It had no holes at all.",
+   "When it was time to nest, my wife and I flew round and round the new house. Smooth wall. Smooth wall. Glass. Smooth wall. There was nowhere. We tried the next house. Smooth. The next. Smooth. Behind the bakery the old tin roof had a gap, but the pigeons had got there first.",
+   "Nila saw me. Nila is seven, she has a gap in her teeth, and she notices things. She saw me sitting on her window grill, looking sad (sparrows can be sad, whatever people say). 'Amma,' she said, 'that sparrow is hungry.'",
+   "So Nila put out bread.",
+   "It was kind of her. I ate a little. But I wasn't hungry, not really. I needed a hole.",
+   "The next day Nila put out more bread. And a biscuit. And some murukku. The crows came and ate it all, and squabbled, and made a mess on the balcony. Nila's father sighed.",
    "Then my wife found a place. It was a dark grey box on the wall by the gate, with a little gap at the bottom where the wires came in. It was dark and dry and just our size. We started to carry straw into it.",
-   "Noor's father saw us and shouted. 'Not there! That's the electric meter!' He was worried, not angry. He blocked the gap with tape. It was the right thing to do, because a meter box is dangerous for birds, but where were we to go now?",
-   "That evening Noor sat on the step with her chin on her knees and watched me. She didn't put out bread. She just watched. She watched me fly to the corner of the garden where nobody went, where the grass was long and there was a tangle of what her mother called weeds. She watched me come out with something green and wriggling in my beak.",
-   "'Abbu,' she said, 'what is the sparrow eating?'",
-   "Her father squinted. 'A caterpillar, I think.'",
+   "Nila's father saw us and shouted. 'Not there! That's the electric meter!' He was worried, not angry. He blocked the gap with tape. It was the right thing to do, because a meter box is dangerous for birds. But where were we to go now?",
+   "That evening Nila sat on the step with her chin on her knees and watched me. She didn't put out bread. She just watched. She watched me fly to the corner of the yard where nobody went, where the grass was long and there was a tangle of what her father called weeds. She watched me come out with something green and wriggling in my beak.",
+   "'Amma,' she said, 'what is the sparrow eating?'",
+   "Her mother looked. 'A caterpillar, I think.'",
    "'Not bread?'",
-   "'Baby sparrows can't eat bread,' her father said slowly. 'I remember now. Your Dadi used to say. They need soft insects, caterpillars and little grubs. Lots of them.'",
-   "Noor thought about this. She watched me again. She saw me fly to the meter box and find it taped, and sit on the wire, and look at the smooth grey wall. And then she did something that no one had done before. Instead of deciding what I needed, she asked herself what I was looking for.",
-   "'Abbu,' she said, 'she isn't hungry. She wants a house.'",
-   "The next Sunday Noor and her father made a box. It was small and made of old wooden planks from the building work, with a roof that sloped so the rain ran off, and a round hole in the front about as wide as a big thumb. 'Too big and the crows and mynas can get in,' said her father, who had looked it up on his phone. They hung it high on the wall under the overhang of the roof, out of the afternoon sun, where cats could not reach.",
-   "And Noor went to her mother and said, 'Please don't cut the weeds in the corner. The caterpillars live there.'",
-   "Her mother looked at her for a long moment. 'It looks untidy,' she said.",
-   "'It's the sparrows' kitchen,' said Noor.",
-   "Her mother laughed, and the weeds stayed.",
-   "I did not trust the box at first. It smelled of new paint and people. I sat on the wire for three days and looked at it. Then my wife went in, and came out, and went in again, and I knew. We carried straw and threads and a feather from the pigeons, and a bit of red wool that Noor left on the windowsill for us.",
-   "Now, in the dark of the box, four chicks are cheeping like a tiny radio. All day I fly to the sparrows' kitchen in the corner and back. Caterpillar. Grub. Caterpillar. Little green fly. Noor sits on the step and counts my trips on her fingers. Yesterday she ran out of fingers and borrowed her father's.",
+   "'Baby sparrows can't eat bread,' her mother said slowly. 'I remember now. Your Paati used to say it. They need soft insects, caterpillars and little grubs. Lots of them.'",
+   "Nila thought about this. She watched me again. She saw me fly to the meter box and find it taped, and sit on the wire, and look at the smooth grey wall. Then she did something no one had done before. Instead of deciding what I needed, she watched to see what I was looking for.",
+   "'Amma,' she said, 'he isn't hungry. He wants a house.'",
+   "The next Sunday Nila and her mother made a box from old wooden planks left over from the building work. It had a sloping roof, so the rain ran off, and a round hole in the front about 3 centimetres wide. 'Any bigger and the mynas can get in,' said her mother, who had looked it up. They hung it high on the wall under the edge of the roof, out of the afternoon sun, where cats could not reach.",
+   "Then Nila went to her father and said, 'Please don't cut the weeds in the corner. The caterpillars live there.'",
+   "Her father looked at her for a long moment. 'It looks untidy,' he said.",
+   "'It's the sparrows' kitchen,' said Nila.",
+   "Her father laughed, and the weeds stayed.",
+   "I did not trust the box at first. It smelled of new wood and people. I sat on the wire for three days and looked at it. Then my wife went in, and came out, and went in again, and I knew. We carried in straw and threads, a pigeon's feather, and a bit of red wool that Nila left on the windowsill for us.",
+   "Now, in the dark of the box, four chicks are cheeping. All day I fly to the sparrows' kitchen in the corner and back. Caterpillar. Grub. Caterpillar. Little green fly. Nila sits on the step and counts my trips on her fingers. Yesterday she ran out of fingers and borrowed her father's.",
    "I never ate her bread again. But I think she knows that I am grateful."
   ],
-  "epiphany": "Noor first gives Chirri what she imagines a sparrow needs (bread), and it doesn't help. The turn comes when she stops deciding and starts watching: she sees that Chirri needs shelter (a hole for a nest) and the right food for chicks (insects from the 'weeds'). The hidden idea is the habitat: every animal needs food, water and shelter of its own kind, and caring means finding out what another living thing really needs. The word 'weeds' becomes 'the sparrows' kitchen'.",
+  "epiphany": "Nila first gives Chirri what she imagines a sparrow needs (bread), and it doesn't help. The turn comes when she stops deciding and starts watching. She sees that Chirri needs shelter (a hole for a nest) and the right food for chicks (insects from the 'weeds'). The hidden idea is the habitat: every animal needs their own kind of food, water and shelter, and caring means finding out what another living thing really needs.",
   "ask": [
    "Why didn't the bread help Chirri?",
-   "What did Chirri really need? How did Noor find out?",
+   "What did Chirri really need? How did Nila find out?",
    "Why was the new concrete house a problem for sparrows?",
-   "Noor's mother called the long grass 'weeds'. Noor called it 'the sparrows' kitchen'. Who was right?",
+   "Nila's father called the long grass 'weeds'. Nila called it 'the sparrows' kitchen'. Who was right?",
    "What could you watch, near your home, to find out what an animal needs?"
   ]
  },
  "ideas": [
   {
-   "idea": "Every living thing needs a home that gives it food, water and shelter.",
-   "more": "That home is its habitat. A smooth new wall, a swept garden or a filled-in pond can take away a habitat without anyone meaning to. Use the woodlouse test to show that each creature needs a particular kind of home."
+   "idea": "Every living thing needs a home that gives them food, water and shelter.",
+   "more": "That home is their habitat. A smooth new wall, a swept garden or a filled-in pond can take away a habitat without anyone meaning to. The damp soil test shows why woodlice and earthworms need leaves left on the ground."
   },
   {
-   "idea": "There is no 'away'.",
-   "more": "When we throw litter 'away', it goes somewhere: a street, a drain, a cow's stomach, the sea. Things that rot go back into the soil; plastic doesn't. The bury test shows it."
+   "idea": "Litter does not disappear.",
+   "more": "When we throw something away, it goes somewhere: a street, a drain, a cow's stomach, a dump, the sea. Things that rot go back into the soil. Plastic does not. The pot of buried litter shows it."
   },
   {
    "idea": "Caring means watching first.",
-   "more": "Noor helped Chirri only when she stopped deciding and started watching. Scientists who protect animals spend most of their time watching too."
+   "more": "Nila helped Chirri only when she stopped deciding and started watching. People who protect animals also begin by watching what the animals eat and where they nest."
   }
  ],
  "unknowns": [
@@ -987,8 +982,8 @@
  ],
  "perspectives": [
   {
-   "who": "A farmer's family in Uttar Pradesh",
-   "view": "Bathua, chaulai and other plants that grow by themselves in the fields are pulled out as 'weeds', but many families cook them as saag. Ask: is a plant a weed if people eat it?"
+   "who": "A farming family",
+   "view": "Wild amaranth and other plants that grow by themselves in the fields are pulled out as weeds. But many families cook them as keerai or saag. Ask: if people eat a plant, is it still a weed?"
   },
   {
    "who": "A street cow",
@@ -999,8 +994,8 @@
    "view": "Every morning before most people wake up, sanitation workers sweep the streets and pick up the litter we drop. Ask: do we ever thank them? What would the street look like without them?"
   },
   {
-   "who": "A sacred grove in Meghalaya or Maharashtra",
-   "view": "For hundreds of years, villages have kept small forests as sacred and allowed no cutting. Scientists now find rare plants and animals there that have disappeared elsewhere. Ask: why might a rule that comes from belief protect nature as well as a law does?"
+   "who": "A sacred grove, like a kaavu in Kerala or a devara kadu in Kodagu",
+   "view": "For hundreds of years, villages have kept small forests as sacred, and nobody cuts the trees. Scientists now find rare plants and animals there that have disappeared from other places. Ask: why might a rule that comes from belief protect nature as well as a law does?"
   }
  ],
  "books": [
@@ -1023,7 +1018,7 @@
    "author": "Sophia Gholz",
    "for": "read together",
    "age": "4–8",
-   "why": "Jadav Payeng's forest on the Brahmaputra sandbank, told simply and beautifully."
+   "why": "Jadav Payeng's forest on the Brahmaputra sandbank, told simply."
   },
   {
    "title": "The Lorax",
@@ -1036,27 +1031,27 @@
  "check": [
   {
    "q": "What is a habitat?",
-   "a": "The natural home of a plant or animal, which gives it food, water and shelter."
+   "a": "The natural home of a plant or animal, which gives them food, water and shelter."
   },
   {
    "q": "What happened to the banana peel and the plastic wrapper in the soil?",
-   "a": "The peel started to rot because tiny living things ate it; the plastic stayed the same."
+   "a": "The peel started to rot, because tiny living things in the soil ate it. The plastic stayed the same."
   },
   {
    "q": "What do reduce, reuse and recycle mean?",
-   "a": "Use less; use again; make into something new."
+   "a": "Reduce means use less. Reuse means use again. Recycle means make into something new."
   },
   {
    "q": "How does litter harm animals?",
    "a": "They can eat it, get tangled in it or be cut by it."
   },
   {
-   "q": "Which side did the woodlice choose, and why?",
-   "a": "The damp, dark side, because they dry out easily and need damp places."
+   "q": "Why do woodlice and earthworms live under dead leaves?",
+   "a": "They dry out quickly, and soil under leaves and in the shade stays damp, as our saucer test showed."
   },
   {
    "q": "What is a nature reserve? What rule does ours have?",
-   "a": "A place kept safe for plants and animals; your child says your reserve's rule."
+   "a": "A place kept safe for plants and animals. Your child says your reserve's rule."
   },
   {
    "q": "Who were the Chipko women, and what did they do?",

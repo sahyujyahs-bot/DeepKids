@@ -1,0 +1,2798 @@
+{
+ "id": "sci.sky.exploring-space.L3",
+ "title": "Exploring space: why rockets and astronauts must carry their own air",
+ "level": 3,
+ "summary": {
+  "text": "A rocket's engine is a fire, and a fire needs oxygen from the air. But the air ends a short way above our heads, and space beyond it is almost empty. So a rocket carries its own oxygen as well as its fuel, and astronauts carry their own air. Telescopes let us explore from the ground, because they collect far more light than our eyes can. India explores space too: its rockets launch from Sriharikota, Chandrayaan-3 landed near the Moon's south pole in 2023, and Indian astronauts have flown to space.",
+  "art": "A rocket rising from a launch pad by the sea at Sriharikota, with a thin blue band of air around the curve of the Earth above it and black space beyond, and a small telescope on a terrace in the corner."
+ },
+ "intro": {
+  "hook": "A rocket's engine burns fuel, and burning needs air. There is no air in space. So how does a rocket's fire keep burning up there?",
+  "text": "In this unit you cover a candle with jars of different sizes and time how long the flame lasts. You make a lime-sized Earth and find how close space really is. You cover half a magnifying glass to find out what a big telescope is for. And you meet the people and machines that India has sent beyond the air: rockets from Thumba and Sriharikota, Chandrayaan on the Moon, Mangalyaan at Mars, and Indian astronauts.",
+  "art": "A lit tealight on a steel plate with an upside-down glass jar held just above it by a grown-up's hand, and a picture of a rocket launch pinned on the wall behind."
+ },
+ "outcomes": [
+  "I can say what space is, and that the air we breathe is a thin layer close to the Earth.",
+  "I can explain, from my own candle test, why a flame needs air, and why a rocket must carry its own oxygen.",
+  "I can say how a rocket moves upward, and why it drops its empty parts on the way.",
+  "I can explain that a telescope's main job is to collect light, and why bigger telescopes see fainter things.",
+  "I can say what an astronaut needs to stay alive in space, and where each thing comes from.",
+  "I can name some of India's space missions, including Chandrayaan-3 and Mangalyaan, and say what each one did.",
+  "I can tell how Chandrayaan-1 helped show that the Moon is not completely dry."
+ ],
+ "cards_mins": 15,
+ "terms": [
+  {
+   "term": "Space",
+   "meaning": "Everything beyond the Earth's air. It is almost empty: no air to breathe, and no air to carry sound.",
+   "example": "The Moon, the Sun and the stars are all out in space.",
+   "art": "The curved edge of the Earth with a thin blue glow of air, and black space with stars above it."
+  },
+  {
+   "term": "Atmosphere",
+   "meaning": "The layer of air around the Earth. It gets thinner and thinner the higher you go.",
+   "example": "Climbers on very high mountains carry oxygen tanks, because the air up there is thin.",
+   "art": "A cut-away drawing of the Earth with a thin glowing layer of air around it, a plane inside it and a rocket above it."
+  },
+  {
+   "term": "Oxygen",
+   "meaning": "A gas in the air. People and animals breathe it in, and fires need it to burn. About one fifth of the air is oxygen.",
+   "example": "A diya goes out if you cover it with a tumbler, because the flame soon runs short of oxygen.",
+   "art": "A small flame and a child breathing in, with little dots of air flowing towards both."
+  },
+  {
+   "term": "Fuel",
+   "meaning": "Something that burns to give heat and light, or to push an engine.",
+   "example": "Cooking gas is a fuel for the stove. Rockets burn fuels such as kerosene or liquid hydrogen.",
+   "art": "A gas stove flame and, beside it, the bright flame at the bottom of a rocket."
+  },
+  {
+   "term": "Rocket",
+   "meaning": "A machine that moves by pushing hot gas out of its back very fast. The gas pushes the rocket the other way.",
+   "example": "India's LVM3 rocket carried Chandrayaan-3 into space in 2023.",
+   "art": "A tall rocket lifting off, with a long bright jet of gas pushing down out of its engines."
+  },
+  {
+   "term": "Launch",
+   "meaning": "Sending a rocket up from the ground into space.",
+   "example": "Indian rockets are launched from Sriharikota, an island on the coast of Andhra Pradesh.",
+   "art": "A rocket rising from a launch tower beside the sea, with a cloud of smoke around its base."
+  },
+  {
+   "term": "Astronaut",
+   "meaning": "A person trained to travel and work in space.",
+   "example": "Rakesh Sharma was the first Indian astronaut, in 1984.",
+   "art": "An astronaut in a white spacesuit with a helmet, holding a handrail inside a space station."
+  },
+  {
+   "term": "Spacesuit",
+   "meaning": "A suit that holds air around an astronaut's body and keeps them at a safe temperature outside the spacecraft.",
+   "example": "An astronaut walking outside the space station wears a spacesuit with an oxygen pack on the back.",
+   "art": "An astronaut in a bulky white suit with a backpack, floating outside a space station."
+  },
+  {
+   "term": "Telescope",
+   "meaning": "A tool that collects light from faraway things with a big lens or a curved mirror, so we can see them more clearly.",
+   "example": "Through a small telescope you can see craters on the Moon.",
+   "art": "A child looking through a small telescope on a terrace, pointed at a half Moon."
+  },
+  {
+   "term": "Lens",
+   "meaning": "A curved piece of glass or clear plastic that bends light to make a picture.",
+   "example": "A magnifying glass is a lens. So is the clear front part of your eye.",
+   "art": "A magnifying glass making a small bright picture of a window on a sheet of paper."
+  },
+  {
+   "term": "Satellite",
+   "meaning": "Something that goes round and round a planet. The Moon is a natural satellite. People also build satellites and send them up on rockets.",
+   "example": "Weather satellites take pictures of clouds over India so we know when a cyclone is coming.",
+   "art": "The Earth with a small satellite with solar panels going round it, and a dotted circle showing its path."
+  },
+  {
+   "term": "Orbit",
+   "meaning": "The curved path of something going round a planet, a moon or a star.",
+   "example": "The International Space Station orbits the Earth about 16 times a day.",
+   "art": "A dotted circle around the Earth with a space station on it, and an arrow showing the way it travels."
+  },
+  {
+   "term": "Lander and rover",
+   "meaning": "A lander is a spacecraft that comes down gently on to a moon or planet. A rover is a robot car that drives about on it.",
+   "example": "Chandrayaan-3's lander was called Vikram, and its rover was called Pragyan.",
+   "art": "A four-legged lander on grey Moon dust with a ramp, and a small six-wheeled rover rolling down it."
+  },
+  {
+   "term": "Mission",
+   "meaning": "A planned journey or job in space, with a team of people on the ground who run it.",
+   "example": "Mangalyaan was India's mission to Mars.",
+   "art": "A room of people at desks with screens, watching a picture of a spacecraft near Mars."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "Where space begins",
+   "status": "defined",
+   "definition": "Space is what lies beyond the Earth's atmosphere. Many scientists use a line 100 kilometres up as the edge of space.",
+   "description": "The air is thickest at the ground. Every step higher, there is less of it. On top of Mount Everest, nearly 9 kilometres up, each breath holds only about a third as much air as at the beach. Planes fly about 10 to 12 kilometres up. At 100 kilometres there is so little air that a plane's wings cannot hold it up. Above that is space. It is not that the air stops at a wall. It just thins out until there is almost none. 100 kilometres is a little less than the distance from Bengaluru to Mysuru. Space is that close above your head.",
+   "examples": [
+    "On a lime-sized Earth, the edge of space is less than half a millimetre above the skin.",
+    "The International Space Station flies about 400 kilometres up.",
+    "Climbers on Mount Everest often carry oxygen tanks because the air is so thin."
+   ],
+   "perspectives": [],
+   "art": "A tall drawing of the sky above a city: a pigeon at the bottom, a plane at 11 kilometres, a mountain top at 9 kilometres, and a line at 100 kilometres marked 'space begins', with the blue fading into black.",
+   "context": "This card is about where the sky ends and space begins, and how close that is."
+  },
+  {
+   "concept": "Why a flame needs air",
+   "status": "defined",
+   "definition": "Burning is fuel joining with oxygen. It gives out heat and light. When the oxygen around a flame runs low, the flame goes out.",
+   "description": "A candle flame burns wax gas, and it uses oxygen from the air around it. In the jar test, the flame could use only the air inside the jar. A small glass held only a little air, so the flame soon ran short and went out. A big jar held more air, so the flame lasted longer. The flame does not use up every bit of oxygen. It stops once there is too little left near the wick. Fresh air rushing in is why blowing gently on coals makes them glow brighter.",
+   "examples": [
+    "A diya covered by a steel tumbler goes out in a few seconds.",
+    "Fanning a coal stove makes it burn hotter, because it brings more oxygen.",
+    "A fire blanket puts out a pan fire by keeping the air away."
+   ],
+   "perspectives": [],
+   "art": "Three glass jars of different sizes over three tealights on steel plates, with small clocks showing that the flame under the biggest jar lasted longest.",
+   "context": "This card explains the jar test: why the candle went out, and why the bigger jar kept it burning longer."
+  },
+  {
+   "concept": "Why a rocket carries its own oxygen",
+   "status": "defined",
+   "definition": "A rocket engine burns fuel with oxygen it carries inside the rocket, so it can work where there is no air.",
+   "description": "A car or a plane engine takes oxygen from the air around it. A rocket cannot do that, because it flies into space, where there is no air. So a rocket carries two things: a fuel, and an oxidiser. An oxidiser is oxygen, or a chemical full of oxygen, that lets the fuel burn. Some rockets carry liquid oxygen. Oxygen turns liquid only when it is colder than minus 183 degrees Celsius, so these tanks must be kept very cold. Other rockets burn a rubbery solid fuel that has the oxidiser mixed into it. India's PSLV uses both kinds in its different parts.",
+   "examples": [
+    "India's LVM3 rocket has an engine that burns liquid hydrogen with liquid oxygen.",
+    "The big side boosters on many rockets burn a solid fuel with the oxidiser already mixed in.",
+    "A plane cannot fly into space, because its engines need air."
+   ],
+   "perspectives": [],
+   "art": "A cut-away rocket showing two tanks inside, one labelled 'fuel' and one labelled 'oxygen', with pipes leading down to a flame in the engine.",
+   "context": "This card answers the question at the start of the unit: how a rocket's fire keeps burning where there is no air."
+  },
+  {
+   "concept": "How a rocket moves up",
+   "status": "defined",
+   "definition": "A rocket pushes hot gas out of its engine downwards, very fast. The gas pushes back on the rocket and drives it upwards.",
+   "description": "Burning makes a huge amount of hot gas inside the engine. The gas rushes out of the bottom of the rocket. As the rocket pushes the gas down, the gas pushes the rocket up, just as hard. This works in space too, because the rocket is pushing on its own gas, not on the air. Most of a rocket's weight at launch is fuel and oxygen. As they burn away, the rocket gets lighter and goes faster. Rockets are built in parts called stages. When a stage's tanks are empty, it drops off, so the rocket does not carry dead weight. PSLV has four stages.",
+   "examples": [
+    "When you let go of a blown-up balloon, the air rushes out one way and the balloon flies the other way.",
+    "A rocket's first stage falls into the sea after a few minutes.",
+    "Diwali rockets work the same way, pushing hot gas down out of their tail."
+   ],
+   "perspectives": [],
+   "art": "A rocket rising with arrows: a big arrow of gas pointing down out of the engine and a big arrow pointing up on the rocket, and an empty lower stage falling away below.",
+   "context": "This card is about how a rocket moves: what it pushes on, and why it throws away its empty parts."
+  },
+  {
+   "concept": "What a telescope is really for",
+   "status": "defined",
+   "definition": "A telescope collects light from faraway things with a large lens or a curved mirror, and brings it together to make a picture.",
+   "description": "The black circle in the middle of your eye, the pupil, is at most about 7 millimetres across in the dark. Only the light that falls into that small hole reaches you. A telescope's lens or mirror is far bigger, so it catches far more light. The light from many faint stars is too weak for our eyes. A big telescope gathers enough of it to see them. That is why the biggest telescopes are built with mirrors many metres across. In your half-lens test, covering half the lens did not cut off half the picture. The whole window stayed, only dimmer. Every part of a lens collects light from every part of the view, so a bigger lens gives a brighter picture.",
+   "examples": [
+    "Galileo's small telescope in 1610 showed him many more stars than anyone had ever seen.",
+    "The Devasthal telescope near Nainital has a mirror 3.6 metres wide.",
+    "The Vainu Bappu Observatory at Kavalur in Tamil Nadu has a telescope with a mirror 2.3 metres wide."
+   ],
+   "perspectives": [],
+   "art": "A small eye with a tiny opening catching a few lines of starlight, beside a big telescope mirror catching many lines of the same light.",
+   "context": "This card explains what you saw in the half-lens test, and why telescopes are built so big."
+  },
+  {
+   "concept": "Why some telescopes go into space",
+   "status": "defined",
+   "definition": "Space telescopes orbit above the air, so the air cannot blur their pictures or block some kinds of light.",
+   "description": "When you look at stars from the ground, they twinkle. Twinkling is the moving air bending their light this way and that. The air also blocks some kinds of light, such as X-rays and much of the ultraviolet, before it reaches the ground. A telescope above the air sees sharp, steady stars, and catches light that never reaches us. The Hubble Space Telescope has orbited the Earth since 1990. The James Webb Space Telescope was launched in 2021. India launched its own space telescope, AstroSat, in 2015. In 2023 India sent Aditya-L1 to watch the Sun from far out in space, about 1.5 million kilometres away.",
+   "examples": [
+    "Stars twinkle, but a space telescope sees them as steady points.",
+    "AstroSat studies light from stars and galaxies, including ultraviolet and X-rays.",
+    "Aditya-L1 watches the Sun all the time, with no night and no clouds in the way."
+   ],
+   "perspectives": [],
+   "art": "A telescope on a mountain looking up through wavy air at a blurred star, and a telescope in orbit above the air seeing the same star as a sharp point.",
+   "context": "This card is about why people put telescopes on rockets and send them above the air."
+  },
+  {
+   "concept": "Staying alive as an astronaut",
+   "status": "defined",
+   "definition": "Astronauts need air to breathe, water, food, a safe temperature, and protection from the Sun's harsh light. All of these must be brought from Earth or made from things brought from Earth.",
+   "description": "A spacecraft is a sealed bubble of air. Fans keep the air moving, because in orbit warm air does not rise, so breathed-out air could stay around an astronaut's face. On the International Space Station, machines make oxygen by splitting water with electricity. That water came up from Earth on rockets. Most of the station's water is cleaned and used again, even the water from sweat and urine. Food comes up from Earth in packets. Outside, an astronaut wears a spacesuit, which is like a small spacecraft shaped like a person. The astronauts on the station float because they and the station are falling round the Earth together, not because there is no gravity there.",
+   "examples": [
+    "One person breathes in a little less than 1 kilogram of oxygen in a day.",
+    "On the space station, the water from yesterday's sweat can be today's drinking water, after it is cleaned.",
+    "Astronauts strap themselves into sleeping bags so they do not float about while they sleep."
+   ],
+   "perspectives": [],
+   "art": "The inside of a space station: an astronaut drinking from a pouch, a machine with a label 'oxygen from water', a fan, and a sleeping bag strapped to the wall.",
+   "context": "This card is about what an astronaut needs to stay alive, and where each thing comes from."
+  },
+  {
+   "concept": "India in space",
+   "status": "defined",
+   "definition": "India's space agency is ISRO, the Indian Space Research Organisation. It was set up in 1969, and it builds rockets, satellites and missions to the Moon, Mars and the Sun.",
+   "description": "India's first rocket went up from Thumba, near Thiruvananthapuram, on 21 November 1963. Vikram Sarabhai led this work. Thumba was chosen because the Earth's magnetic equator passes close by, which matters for studying the high air. India's first satellite, Aryabhata, was launched in 1975. In 1980, India's own rocket, SLV-3, put the Rohini satellite into orbit. Today ISRO launches from Sriharikota in Andhra Pradesh. Chandrayaan-1 went round the Moon in 2008. Mangalyaan reached Mars orbit on 24 September 2014, on India's first try. Chandrayaan-3 landed near the Moon's south pole on 23 August 2023. No country had landed there before.",
+   "examples": [
+    "India's weather satellites track cyclones in the Bay of Bengal and the Arabian Sea.",
+    "In 2017, one PSLV rocket carried 104 satellites into space at once.",
+    "Many women led these missions. Ritu Karidhal and Nandini Harinath worked on Mangalyaan, and M. Vanitha was project director of Chandrayaan-2."
+   ],
+   "perspectives": [],
+   "art": "A timeline drawn as a rising rocket trail: a small rocket at Thumba in 1963, Aryabhata in 1975, Mangalyaan at Mars in 2014, and Vikram on the Moon in 2023.",
+   "context": "This card is a short history of India in space, from the first small rocket to the Moon's south pole."
+  },
+  {
+   "concept": "Indian astronauts",
+   "status": "defined",
+   "definition": "An Indian astronaut is an Indian citizen who has travelled into space.",
+   "description": "Rakesh Sharma, a pilot in the Indian Air Force, was the first Indian in space. On 3 April 1984 he flew on a Soviet rocket and spent about eight days on the Salyut 7 space station. In 2025, Shubhanshu Shukla, also an Air Force pilot, flew to the International Space Station. He was the first Indian to go there. Two women of Indian origin, Kalpana Chawla and Sunita Williams, flew as American astronauts. Kalpana Chawla was born in Karnal, in Haryana. She died in 2003, when the space shuttle Columbia broke up on its way home. ISRO is building Gaganyaan, a spacecraft to carry Indian astronauts on an Indian rocket.",
+   "examples": [
+    "Prasanth Balakrishnan Nair, from Palakkad in Kerala, is one of the astronauts chosen for Gaganyaan.",
+    "Sunita Williams has spent many months on the International Space Station.",
+    "Rakesh Sharma did yoga in space, to see how it helped his body there."
+   ],
+   "perspectives": [],
+   "art": "Rakesh Sharma in a 1984 spacesuit, Kalpana Chawla in an orange shuttle suit, and Shubhanshu Shukla in a 2025 suit, standing side by side.",
+   "context": "This card is about the Indians who have travelled into space so far."
+  },
+  {
+   "concept": "Should people go to space, or only robots?",
+   "status": "debated",
+   "description": "Robots and telescopes have done most of our exploring. A robot needs no air, food or water, and if it breaks, no one is hurt. People are far more costly and risky to send. But a person can see something odd and change plans at once, while a robot waits for orders from Earth. People disagree about which is better, and many say we need both.",
+   "examples": [
+    "Pragyan, a robot, drove about 100 metres on the Moon in 2023.",
+    "Twelve astronauts walked on the Moon between 1969 and 1972, and they brought back hundreds of kilograms of rock."
+   ],
+   "perspectives": [
+    {
+     "who": "People who favour robots",
+     "explanation": "Robots are cheaper and safer. They can work for years on Mars, in heat and cold that would kill a person. The money saved can send many more missions."
+    },
+    {
+     "who": "People who favour astronauts",
+     "explanation": "A trained person notices things a robot misses and can fix problems on the spot. Some places, like the Moon, may one day be homes, and only people can learn how to live there."
+    },
+    {
+     "who": "Many space scientists",
+     "explanation": "We need both. Robots go first, to the most dangerous places. People follow where their skill matters most."
+    }
+   ],
+   "art": "A rover on the left and an astronaut on the right, both on grey Moon dust, with a question mark between them.",
+   "context": "This card is about a real argument: is it better to send people or robots to explore space?"
+  }
+ ],
+ "agreed": [
+  {
+   "text": "The air around the Earth gets thinner with height, and above about 100 kilometres there is almost none.",
+   "evidence": "Balloons, planes and rockets have carried instruments up and measured the air at every height."
+  },
+  {
+   "text": "Burning needs oxygen. A flame cut off from fresh air goes out.",
+   "evidence": "Anyone can test it with a candle and a jar. Bigger jars hold more air and keep the flame alight longer."
+  },
+  {
+   "text": "A rocket can move in space because it pushes its own hot gas out behind it.",
+   "evidence": "Thousands of rockets and spacecraft have fired their engines in empty space and changed their speed."
+  },
+  {
+   "text": "Bigger telescopes collect more light and show fainter things.",
+   "evidence": "Each time a larger telescope has been built, it has found stars and galaxies too faint for the ones before."
+  },
+  {
+   "text": "There is water on the Moon, mostly as ice in dark craters near the poles and as traces in the dust.",
+   "evidence": "Chandrayaan-1, two other spacecraft and new tests on old Apollo rocks all found signs of it."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "There is no gravity in space. That is why astronauts float.",
+   "who": "A very common idea, even among grown-ups",
+   "for": "Astronauts on the space station float, and so does everything around them.",
+   "against": "At the height of the space station, the Earth's gravity is still about nine tenths as strong as on the ground. The station and the astronauts float because they are falling round the Earth together, all the time.",
+   "status": "rejected",
+   "context": "This card is about a common idea: that astronauts float because there is no gravity up there."
+  },
+  {
+   "claim": "A telescope's main job is to make things look bigger.",
+   "who": "Most people, before they use one",
+   "for": "A telescope does make the Moon look bigger.",
+   "against": "Stars stay as points even in huge telescopes, because they are so far away. What a big telescope really gives is more light, so it can show faint things that our eyes cannot see.",
+   "status": "rejected",
+   "context": "This card is about what telescopes are mainly for."
+  },
+  {
+   "claim": "The Moon is completely dry.",
+   "who": "Most scientists, from the 1970s until about 2009",
+   "for": "The rocks that astronauts brought back seemed to have no water at all.",
+   "against": "Chandrayaan-1 found signs of water spread thinly over the Moon in 2009. Later studies found ice in dark craters at the poles.",
+   "status": "rejected",
+   "context": "This card is about an idea scientists held for nearly 40 years, and how India's first Moon mission helped change it."
+  },
+  {
+   "claim": "Spending money on space is a waste when people on Earth need help.",
+   "who": "Some people in India and around the world",
+   "for": "Rockets and missions cost a great deal of money that could be spent on food, schools or hospitals.",
+   "against": "Satellites warn of cyclones, guide fishing boats and carry phone and TV signals, which save lives and money. Space spending is a small share of what most countries spend.",
+   "status": "debated",
+   "context": "This card is about a real argument: whether countries like India should spend money on space."
+  },
+  {
+   "claim": "People will soon live on Mars.",
+   "who": "Some space companies and their founders",
+   "for": "Rockets are getting cheaper, and robots have shown that Mars has ice that could give water and oxygen.",
+   "against": "Mars has very thin air with almost no oxygen, deadly cold and harmful radiation. Nobody yet knows how to keep people healthy there for years.",
+   "status": "debated",
+   "context": "This card is about whether people could live on Mars soon."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "Every astronaut so far has breathed air or water brought from Earth. Can anyone really leave the Earth?",
+   "kind": "big",
+   "hint": "Think about what an astronaut carries, and what they cannot do without for even a few minutes."
+  },
+  {
+   "q": "Why does the air stay close to the Earth, instead of floating off into space?",
+   "kind": "deep",
+   "hint": "Think about what pulls everything, even air, towards the ground."
+  },
+  {
+   "q": "Covering half a lens did not cut the picture in half. So where in the lens is the picture?",
+   "kind": "deep",
+   "hint": "Think about light from one corner of the window. Which parts of the lens did it pass through?"
+  },
+  {
+   "q": "When we look at a faraway star, we see light that left it long ago. Are we seeing the star, or the star's past?",
+   "kind": "big",
+   "hint": "Light takes time to travel. Think about a letter that took years to arrive."
+  },
+  {
+   "q": "Would a robot on the Moon feel anything about where it is?",
+   "kind": "big",
+   "hint": "Think about what it senses, what it does with what it senses, and whether that is a kind of feeling."
+  },
+  {
+   "q": "If you could send one thing into space to learn something new, what would you send, and why?",
+   "kind": "big",
+   "hint": "Think about a question you have about space, and what tool could answer it."
+  }
+ ],
+ "story": {
+  "title": "The Orange Cloud over Thumba",
+  "mins": 12,
+  "read_aloud": true,
+  "note": "Kavya, Arjun and their grandmother are made up. The history is true: India's first rocket went up from Thumba, near Thiruvananthapuram, on 21 November 1963. Rocket parts were carried on bicycles, the old church became the first office and is now a space museum, and that first rocket made a glowing cloud of sodium high in the evening sky so scientists could watch the winds up there.",
+  "text": [
+   "The sea at Thumba was turning from blue to grey. Kavya was eight, and she sat on the warm sand with her grandmother. Her little brother Arjun ran up and down, chasing the foam. Far above them, a plane was drawing a thin white line across the sky.",
+   "\"Ammamma,\" Arjun shouted, \"can that plane fly to the Moon?\"",
+   "\"No, kanna,\" said Ammamma. \"Come and sit, and I will tell you why. I will tell you about the night I saw a rocket go up from this very beach.\"",
+   "Arjun flopped down on the sand. Kavya moved closer.",
+   "\"I was ten,\" said Ammamma. \"My family lived in a fishing village just here. One day, some scientists came. Their leader was a man called Vikram Sarabhai. They wanted to send rockets up from Thumba, because the Earth's magnetic equator passes right over this place. That made it a special spot to study the air high above us.\"",
+   "\"Where did they work?\" asked Kavya.",
+   "\"In our church,\" said Ammamma. \"The bishop and the people of the village agreed to give the land. The church became the scientists' office. I used to peep in at the windows. And do you know how they carried the rocket parts? On bicycles! I saw a young man pedalling slowly down the sandy road with a shining metal cone tied on the back.\"",
+   "Arjun laughed. \"A rocket on a cycle!\"",
+   "\"It was a small rocket,\" said Ammamma. \"About as long as two cars. On the evening of 21 November 1963, everyone in the village came out to watch. The sun had just set, like now. There was a roar, and a line of fire went straight up into the sky. Then it was gone.\"",
+   "\"Gone where?\" asked Arjun.",
+   "\"Up past where any plane can fly,\" said Ammamma. \"Then, very high up, it let out a puff of a metal called sodium. And a cloud appeared in the sky. A glowing orange cloud, like a great lamp. Down here on the beach it was almost dark. But up there, the cloud was still in sunlight, so it shone.\"",
+   "Kavya looked up at the darkening sky and tried to imagine it.",
+   "\"Why did they make a cloud?\" she asked.",
+   "\"To see the wind,\" said Ammamma. \"You cannot see wind. But you can watch a cloud move. The scientists photographed the orange cloud from far apart. They saw it stretch and drift, and so they learned how the winds blow up there, where the air is very thin.\"",
+   "Arjun was frowning. \"But why can't a plane go there?\"",
+   "\"A plane needs air for two things,\" said Ammamma. She held up one finger. \"Its wings push on the air to hold it up. Where the air is thin, there is too little to push on.\" She held up a second finger. \"And its engines burn fuel. Burning needs oxygen, which is a gas in the air. High up, there is not enough oxygen to keep the fire going.\"",
+   "\"Then how did your rocket keep burning?\" asked Kavya.",
+   "Ammamma smiled. It was the question she had been waiting for.",
+   "\"When I grew up, I became a chemist,\" she said. \"And I worked at Thumba. My job was to help make the fuel for rockets. A rocket does not take oxygen from the air. It carries its own. Our fuel was a thick, rubbery solid, with the oxygen-giving part mixed right into it. So it could burn even where there is no air at all.\"",
+   "\"Like carrying your own lunch,\" said Kavya slowly, \"because there will be no shops where you are going.\"",
+   "\"Exactly like that,\" said Ammamma. \"And the people who go up in rockets must carry their own air too. Every breath an astronaut takes, they brought from here.\"",
+   "Arjun took a big breath of sea air and held it, his cheeks puffed out. Then he let it go with a whoosh. \"I would need a very big lunch box for my air,\" he said.",
+   "Kavya laughed. \"Can we see the church, Ammamma?\"",
+   "\"We can go tomorrow,\" said Ammamma. \"It is a space museum now.\"",
+   "The next morning they walked through the doors of the old church. Inside, under its high roof, stood rockets and models of satellites. There was a photograph of a young man wheeling a bicycle with a rocket part tied on. Arjun pressed his nose to the glass.",
+   "Kavya found a small model of Chandrayaan-3's lander. A card beside it said that it had landed near the Moon's south pole in 2023, sixty years after that first rocket from the beach.",
+   "\"From a bicycle to the Moon,\" she said.",
+   "\"From a bicycle to the Moon,\" said Ammamma. \"And every one of those rockets carried its own oxygen.\"",
+   "That evening, back on the sand, Kavya watched the sky turn orange and then grey. She thought about the air around her, the air she could not see. It felt thick and soft here by the sea. But it went up only a little way, and then it thinned to nothing. Beyond it, the stars were coming out."
+  ],
+  "epiphany": "For the parent: a plane needs the air twice, once for its wings to push on and once for the oxygen its engines burn. High up there is too little of both. A rocket works where there is no air because it carries its own oxygen and pushes on its own hot gas. Astronauts must carry their air for the same reason. The orange cloud is true history: sodium glows in sunlight, and at dusk the cloud high above was still in sunshine while the beach was dark.",
+  "ask": [
+   "Why can a plane not fly to the Moon? Give both of Ammamma's reasons.",
+   "How did Ammamma's rocket fuel burn where there is no air?",
+   "Why was the orange cloud still shining when the beach was almost dark?",
+   "Why did the scientists want to see a cloud move?",
+   "Kavya said a rocket carrying oxygen is like carrying your own lunch. Can you think of another way to say it?"
+  ],
+  "art": [
+   "A grandmother, a girl and a small boy sitting on the sand at Thumba beach at sunset, a plane's white trail high in the sky.",
+   "A young man in 1963 pushing a bicycle along a sandy road by coconut palms, with a shining metal rocket cone tied on the back, and an old church behind.",
+   "A thin line of fire rising from a beach at dusk, watched by a crowd of villagers.",
+   "A glowing orange cloud high in a dark blue evening sky above a dark beach.",
+   "A girl and a boy inside an old church with a high roof, looking at rockets and a small model of a Moon lander, their grandmother behind them."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "Countdown: a board game from Sriharikota to the Moon",
+   "mins": 20,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a board game. Each player flies a rocket from Sriharikota to the Moon, answering questions on the way. Some squares help you and some hold you back.",
+   "printables": [
+    {
+     "kind": "board",
+     "title": "A path of 30 squares",
+     "items": [
+      "Square 1: Sriharikota launch pad (start)",
+      "Square 5: First stage empty. Drop it and move on 2.",
+      "Square 9: Thick air slows you. Miss a turn.",
+      "Square 12: You pass 100 km. Welcome to space! Move on 1.",
+      "Square 16: Second stage empty. Drop it and move on 2.",
+      "Square 20: Oxygen tank leak. Go back 3.",
+      "Square 24: Mission control fixes your path. Move on 2.",
+      "Square 27: Dust cloud on landing. Miss a turn.",
+      "Square 30: The Moon's south pole (finish)",
+      "Every other square marked with a question mark: take a question card"
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "16 question cards",
+     "items": [
+      "Where does space begin? (About 100 km up)",
+      "Why does a rocket carry its own oxygen? (There is no air in space, and fuel needs oxygen to burn)",
+      "What does a telescope mainly do? (Collects light)",
+      "Name India's first satellite. (Aryabhata)",
+      "Who was the first Indian in space? (Rakesh Sharma)",
+      "What was the name of Chandrayaan-3's rover? (Pragyan)",
+      "Which planet did Mangalyaan go to? (Mars)",
+      "Why does a rocket drop its stages? (So it does not carry empty tanks)",
+      "Why do astronauts float on the space station? (They are falling round the Earth together with the station)",
+      "Where does India launch most of its rockets from? (Sriharikota)",
+      "What did Chandrayaan-1 help find on the Moon? (Water)",
+      "Why do stars twinkle? (Moving air bends their light)",
+      "What does Aditya-L1 study? (The Sun)",
+      "A candle under a big jar burns longer than under a small one. Why? (The big jar holds more air)",
+      "How is oxygen made on the space station? (By splitting water)",
+      "Who was the first Indian to visit the International Space Station? (Shubhanshu Shukla)"
+     ]
+    },
+    {
+     "kind": "tokens",
+     "title": "Rocket tokens",
+     "items": [
+      "Four small paper rockets in different colours, or four buttons"
+     ]
+    }
+   ],
+   "rules": [
+    "Put all rockets on Sriharikota. Shuffle the question cards and put them face down.",
+    "On your turn, roll a die and move that many squares.",
+    "If you land on a question square, another player reads you a card. Right? Move on 1 more. Wrong? Stay where you are and hear the answer.",
+    "Follow the instructions on the special squares.",
+    "The first rocket to land on the Moon's south pole wins. You do not need an exact roll.",
+    "Playing alone, read the cards yourself, cover the answer, and try to land in 12 turns or fewer."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Draw or print the board. 2. Cut out the cards. 3. Each player picks a rocket.",
+     "say": "We are flying from Sriharikota to the Moon. Answer questions to go faster.",
+     "kid": "Pick a rocket. Put it on Sriharikota.",
+     "context": "This is the start of Countdown, a board game about flying a rocket from Sriharikota to the Moon."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "Take turns rolling and moving. Read the question cards aloud.",
+     "say": "Your turn. Roll! You landed on a question. Here it is.",
+     "kid": "Roll the die. Move. Answer the question if you land on one.",
+     "parent": "When a child gets a card wrong, read the answer and ask them to say it back in their own words. That counts as learning, not losing."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Talk about the game.",
+     "say": "Which square slowed you down most? Which question was hardest?",
+     "kid": "Which question was hardest? Why?",
+     "check": {
+      "t": "mcq",
+      "q": "On the board, the oxygen tank leak sends you back. Why would a leak be so bad for a real rocket?",
+      "options": [
+       "The rocket would get wet",
+       "Without enough oxygen, the fuel cannot burn and the engine stops",
+       "The rocket would get too heavy"
+      ],
+      "a": 1,
+      "why": "A rocket's engine needs both fuel and oxygen. If the oxygen leaks away, the fuel cannot burn, so the engine loses its push."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A hand-drawn board with a winding path of 30 squares from a launch pad by the sea to a grey Moon, with paper rockets on the start square.",
+     "caption": "1. Put the rockets on Sriharikota."
+    },
+    {
+     "art": "Children around the board, one rolling a die and one reading a question card.",
+     "caption": "2. Roll, move and answer."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Real or Space Myth? a quick card game",
+   "mins": 10,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a quick game. A grown-up reads a sentence about space, and each player holds up a card saying REAL or MYTH, then gives a reason.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "16 statement cards",
+     "items": [
+      "There is no gravity on the space station. (Myth: gravity there is about nine tenths as strong as on the ground)",
+      "A rocket must carry its own oxygen. (Real)",
+      "Space begins about 100 km above the ground. (Real)",
+      "A telescope's main job is to make things look bigger. (Myth: its main job is to collect light)",
+      "Stars twinkle because they are blinking on and off. (Myth: moving air bends their light)",
+      "The Moon is completely dry. (Myth: Chandrayaan-1 helped show it has water)",
+      "Astronauts drink water cleaned from their own sweat and urine. (Real)",
+      "A plane can fly to the Moon if it has enough fuel. (Myth: its wings and engines need air)",
+      "India's Chandrayaan-3 landed near the Moon's south pole. (Real)",
+      "You can hear a rocket roaring in space. (Myth: sound needs air to travel)",
+      "Mangalyaan reached Mars on India's first try. (Real)",
+      "Rocket parts were once carried on bicycles at Thumba. (Real)",
+      "A bigger telescope can see fainter stars. (Real)",
+      "Kalpana Chawla was born in Karnal, in Haryana. (Real)",
+      "Astronauts can open a window for fresh air. (Myth: there is no air outside)",
+      "Covering half a magnifying glass cuts off half its picture. (Myth: the whole picture stays, only dimmer)"
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "One REAL card and one MYTH card for each player",
+     "items": [
+      "REAL",
+      "MYTH"
+     ]
+    }
+   ],
+   "rules": [
+    "Each player has a REAL card and a MYTH card.",
+    "A grown-up reads a statement card aloud. Everyone holds up REAL or MYTH at the same time.",
+    "Each player who is right scores 1 point. Give a reason, and score 1 more point.",
+    "Playing alone, read each card, decide, then check the answer in the brackets.",
+    "After 16 cards, the most points wins."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Hand out the REAL and MYTH cards and read the first statement.",
+     "say": "Listen, then hold up REAL or MYTH. Here is the first one. There is no gravity on the space station.",
+     "kid": "Hold up REAL or MYTH. Ready?",
+     "context": "This is the start of Real or Space Myth?, a quick game about true and false ideas about space."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "Read the cards one at a time. Ask for a reason after each.",
+     "say": "How do you know? Which test or story in this unit tells you?",
+     "kid": "Say why you chose it.",
+     "parent": "Reasons that point to the candle test, the half-lens test or the lime Earth are the best ones."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Count the points and talk about the trickiest card.",
+     "say": "Which myth did you nearly believe? Why do you think so many people believe it?",
+     "kid": "Which myth nearly fooled you?",
+     "check": {
+      "t": "mcq",
+      "q": "Why can't you hear a rocket roaring in space?",
+      "options": [
+       "Space is too cold",
+       "Sound needs air to travel, and space has almost none",
+       "Rockets are quiet in space"
+      ],
+      "a": 1,
+      "why": "Sound travels as a shaking of the air. In space there is almost no air to shake, so the roar cannot reach anyone outside the rocket."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A grown-up reading a card aloud while two children hold up cards marked REAL and MYTH.",
+     "caption": "1. Listen, then hold up REAL or MYTH."
+    },
+    {
+     "art": "A score sheet with two names and tally marks.",
+     "caption": "2. A point for being right, and a point for the reason."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Jar and the Flame: how long can a candle burn on the air it has?",
+   "mins": 30,
+   "days": 1,
+   "question": "If a candle can use only the air trapped inside a jar, does a bigger jar keep it burning longer?",
+   "predict": "We will cover a lit candle with a small glass, a big glass and a big jar. Under which one will the flame last longest? Why do you think so? Do you think the biggest jar will keep it burning for ever?",
+   "fair_test": "Use the same candle, the same plate and the same person on the timer every time. Only the size of the glass or jar changes. Start the timer the moment the rim touches the plate. Lift the jar and wave it in the air for half a minute between tries, so it is full of fresh air. Do three tries with each one, because one try can be a fluke.",
+   "results_table": [
+    "Glass or jar",
+    "How many small tumblers of water it holds",
+    "My guess",
+    "Try 1 (seconds)",
+    "Try 2 (seconds)",
+    "Try 3 (seconds)",
+    "Middle number"
+   ],
+   "materials": [
+    {
+     "item": "a tealight candle in its metal cup, or a short candle stuck upright on the plate with a small blob of atta dough",
+     "qty": 1,
+     "buy": "b-tealights"
+    },
+    {
+     "item": "a steel plate with a flat middle",
+     "qty": 1
+    },
+    {
+     "item": "three clear glass containers of different sizes, dry inside, with rims that sit flat: a small glass tumbler, a big glass tumbler or jam jar, and a big pickle or storage jar of about 1 litre",
+     "qty": 3
+    },
+    {
+     "item": "a small steel tumbler, to measure how much each container holds",
+     "qty": 1
+    },
+    {
+     "item": "a matchbox or a gas lighter, kept by the grown-up",
+     "qty": 1
+    },
+    {
+     "item": "a phone stopwatch, or a clock with a seconds hand",
+     "qty": 1
+    },
+    {
+     "item": "a tea towel, to dry the containers",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up lights the candle and stays at the table all the time. Tie back long hair and keep sleeves and paper away from the flame. Put the plate on a steady table, away from curtains and fans. The glass may get warm at the top, so the grown-up lifts it by its lower part. Blow the candle out when you finish.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 30,
+     "what": "Measure how much each container holds. Guess, then time the candle under each one, three times each. Find the pattern."
+    }
+   ],
+   "record": "Fill in the table. Then draw three bars, one for each container, as tall as its middle time. Write one sentence under the bars that says what the pattern is.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Fill each container with water, using the small steel tumbler, and count the tumblers. 2. Write the numbers in the table. 3. Pour the water out and dry each container well.",
+     "say": "Let's find out how much air each container can hold. We can't measure air easily, but we can measure water. A jar that holds more water holds more air.",
+     "kid": "Fill each jar with water, one small tumbler at a time. Count the tumblers. Then dry the jars.",
+     "parent": "A small glass might hold 1 tumbler, a big glass 2, and a big jar 5 or more. The numbers will be different in your home. The containers must be completely dry, or drops of water can put the flame out.",
+     "context": "This is the start of The Jar and the Flame. First you measure how much air each glass or jar holds, by filling it with water."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Show the three dry containers and the unlit candle. 2. Ask your child to guess how long the flame will last under each, and why. 3. Write the guesses down.",
+     "say": "I will cover the candle with each of these, one at a time. How long do you think the flame will keep burning under each one? Why do you think so?",
+     "kid": "Guess how many seconds the flame will last under each jar. Why?",
+     "ask": [
+      {
+       "q": "Why do you think the flame will last longer under that one?",
+       "good": [
+        "Because it has more air inside.",
+        "Because the fire needs air, and the big jar has more."
+       ]
+      }
+     ],
+     "parent": "Do not explain yet. Some children think the flame will go out at once under every jar. Some think it will burn for ever under a big jar. Both are good guesses to test."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "1. Put the plate on a steady table. 2. Put the candle in the middle. 3. Light it, and wait until the flame is its normal size.",
+     "say": "I will light the candle. We wait until the flame stands tall and steady before we start.",
+     "kid": "Fetch a grown-up to light the candle. Wait for a tall, steady flame.",
+     "adult": true,
+     "parent": "Keep the matches with you. Make sure the flame is well inside the smallest container's rim, with space above it."
+    },
+    {
+     "id": "s4",
+     "mins": 12,
+     "do": "1. Hold the small glass upside down just above the flame. 2. Say 'go' and lower it flat on the plate. 3. Your child times until the flame disappears. 4. Lift the glass, wave it for half a minute, and relight the candle if needed. 5. Do three tries for each container.",
+     "say": "Ready? Go! Watch the flame closely. Say 'stop' the moment it disappears.",
+     "kid": "Say go when the glass touches the plate. Watch the flame. Say stop when it vanishes.",
+     "adult": true,
+     "parent": "You will see the flame shrink and turn dim before it goes out, and a thin line of smoke from the wick. With a tealight, a small glass often gives about 5 to 10 seconds, and a 1 litre jar about 25 to 45 seconds. Your times will be different. What matters is the order. If one try is very different from the other two, do a fourth. If the candle will not relight, the wick may be damp: wait a minute.",
+     "think": "Why did the flame go out, when there was still wax left?"
+    },
+    {
+     "id": "s5",
+     "mins": 3,
+     "do": "1. Find the middle number of the three tries for each container. 2. Put the times next to the tumbler counts.",
+     "say": "Look at our numbers. The jar that held the most water kept the flame burning longest. Does the time grow when the jar gets bigger?",
+     "kid": "Look at your numbers. Which jar kept the flame longest? How much air did it hold?",
+     "check": {
+      "t": "mcq",
+      "q": "The flame went out under every jar, even though wax was left. Why?",
+      "options": [
+       "The candle got tired",
+       "The flame used up the oxygen in the jar, and too little was left to keep it burning",
+       "The glass got too hot"
+      ],
+      "a": 1,
+      "why": "A flame needs oxygen from the air. Under a jar, no fresh air could get in, so the oxygen near the wick ran low and the flame went out. A bigger jar held more air, so it lasted longer. The glass only got a little warm, and it was warm under the big jar too, where the flame lasted longest."
+     }
+    },
+    {
+     "id": "s6",
+     "mins": 4,
+     "do": "1. Ask your child to say or write three things: what I think, what I saw, and why. 2. Then ask the rocket question.",
+     "say": "Tell me three things. What do you think now? What did you see that shows it? And why? Now, a rocket's engine is a fire. In space there is no air at all. What must a rocket take with it?",
+     "kid": "Say three things. What I think. What I saw. Why. A rocket's engine is a fire. What must it carry into space?",
+     "parent": "This is claim, evidence and reasoning. A good answer: what I think: a flame needs air, and more air keeps it burning longer. What I saw: under the small glass the flame lasted about 8 seconds, and under the big jar about 35 seconds. Why: the flame uses up the oxygen in the air, and a big jar holds more. So a rocket in space must carry its own oxygen, because there is no air there.",
+     "check": {
+      "t": "mcq",
+      "q": "In space there is no air. What does a rocket carry so that its fuel can burn?",
+      "options": [
+       "Nothing extra, the fuel burns on its own",
+       "Its own oxygen, or a chemical full of oxygen",
+       "A big jar of air from the launch pad"
+      ],
+      "a": 1,
+      "why": "Fuel cannot burn without oxygen, as your candle showed. So a rocket carries its own oxygen, often as a very cold liquid, or a solid fuel with an oxygen-giving chemical mixed in. A jar of ordinary air would be far too big and heavy for the oxygen it holds."
+     }
+    }
+   ],
+   "context": "In this experiment you cover a lit candle with glasses and jars of different sizes, and time how long the flame lasts under each. It shows why rockets and astronauts must carry their own oxygen.",
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example results",
+    "cols": [
+     "Container",
+     "Small tumblers it holds",
+     "Middle time (seconds)"
+    ],
+    "rows": [
+     [
+      "Small glass",
+      "1",
+      "8"
+     ],
+     [
+      "Big glass",
+      "2",
+      "15"
+     ],
+     [
+      "Pickle jar",
+      "5",
+      "36"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "Three dry glass containers of different sizes in a row next to a steel tumbler of water, a child pouring water into the biggest jar.",
+     "caption": "1. Measure how much each one holds, then dry them."
+    },
+    {
+     "art": "A lit tealight on a steel plate, and a grown-up's hand lowering an upside-down glass tumbler over it.",
+     "caption": "2. Lower the glass flat on the plate. Start the timer."
+    },
+    {
+     "art": "The same tealight under the glass with a tiny dim flame, and a thin line of smoke rising from the wick inside the glass.",
+     "caption": "3. Stop the timer when the flame goes out."
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "Half a Lens: does covering half a magnifying glass cut the picture in half?",
+   "mins": 25,
+   "days": 1,
+   "question": "A magnifying glass can make a picture of a window on paper. If you cover half of the lens, what happens to the picture?",
+   "predict": "You will make a picture of a window with a magnifying glass. Then you will cover the left half of the lens with a card. What will happen to the picture? Will half of it vanish? Why do you think so?",
+   "fair_test": "Keep the lens, the paper and the window in the same places all the time. Only change how much of the lens is covered. Look at the same part of the picture each time, such as the window bars. Try each change twice.",
+   "results_table": [
+    "How much of the lens is open",
+    "My guess",
+    "Is the whole window still in the picture?",
+    "Bright, dimmer or very dim?"
+   ],
+   "materials": [
+    {
+     "item": "a magnifying glass, about 5 cm across or bigger. No magnifying glass? Reading glasses for long sight, the kind with a plus number, also work, held further from the paper.",
+     "qty": 1,
+     "buy": "b-lens"
+    },
+    {
+     "item": "a sheet of white paper, taped to a wall or a cupboard door",
+     "qty": 1
+    },
+    {
+     "item": "a piece of card, about the size of a postcard, from an old box or greeting card",
+     "qty": 1
+    },
+    {
+     "item": "a second piece of card with a hole about 1 cm wide cut in the middle",
+     "qty": 1
+    },
+    {
+     "item": "a room with one bright window in the daytime, and the other curtains closed and lights off",
+     "qty": 1
+    }
+   ],
+   "safety": "Never look at the Sun through the lens, or point the lens at the Sun. Never leave a magnifying glass lying in sunshine, because it can focus sunlight and start a fire. A grown-up cuts the hole in the card.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Make a picture of a window with a lens. Guess, then cover half the lens and then all but a small hole. See what happens to the picture."
+    }
+   ],
+   "record": "Draw the picture three times: with the whole lens open, with half covered, and with only the small hole. Shade each drawing to show how bright it was.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 7,
+     "do": "1. Darken the room, but leave one window open to daylight. 2. Tape the paper to the wall opposite the window, at least 3 metres away. 3. Hold the lens near the paper and slowly move it towards the window until a sharp picture appears.",
+     "say": "Let's catch the window on paper. Move the lens slowly, closer to the paper and further away, until the picture is sharp.",
+     "kid": "Hold the lens near the paper. Move it slowly. Stop when the window looks sharp.",
+     "parent": "A common magnifying glass makes a sharp picture about 10 to 20 cm from the paper. The picture is small and upside down, with the sky at the bottom. Resting your elbow on a chair or a pile of books keeps the lens steady.",
+     "context": "This is the start of Half a Lens. First you use a magnifying glass to make a small picture of a bright window on paper."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Show your child the plain card. 2. Ask what will happen to the picture when the card covers the left half of the lens, and why.",
+     "say": "I am going to cover the left half of the lens with this card. What will happen to the picture? Why do you think so?",
+     "kid": "The card will cover half the lens. What will the picture do? Why?",
+     "ask": [
+      {
+       "q": "What do you think will happen to the picture?",
+       "good": [
+        "Half of it will disappear.",
+        "It will get darker.",
+        "It will stay the same."
+       ]
+      }
+     ],
+     "parent": "Most children, and many grown-ups, think half the picture will vanish. Do not say what happens. Any guess with a reason is a good guess."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Keep the lens still. 2. Slide the card slowly across the left half of the lens. 3. Watch the picture. 4. Do it again with the right half.",
+     "say": "Watch the picture while I slide the card across. Keep your eyes on the window bars. Is any part missing?",
+     "kid": "Watch the picture as the card covers half the lens. Is any part missing?",
+     "parent": "The whole window stays in the picture, but it becomes dimmer. Nothing is cut off. If you see a dark edge, the card is too far from the lens: hold it flat against the glass."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "1. Now hold the card with the small hole flat against the middle of the lens. 2. Look at the picture.",
+     "say": "Now only a tiny part of the lens is open. Is the whole window still there?",
+     "kid": "Now only a small hole of the lens is open. What does the picture look like?",
+     "parent": "The whole window is still there, but it is very dim. Every part of a lens collects light from every part of the window. So a smaller opening gives the same picture with less light.",
+     "check": {
+      "t": "mcq",
+      "q": "When you covered half of the lens, what happened to the picture of the window?",
+      "options": [
+       "Half of the window vanished",
+       "The whole window stayed, but it was dimmer",
+       "The picture got bigger"
+      ],
+      "a": 1,
+      "why": "Light from every part of the window passes through every part of the lens. So any part of the lens can make the whole picture. Covering half lets in half the light, so the picture is dimmer but whole. It is a very natural guess that half would vanish. The test shows otherwise."
+     }
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "1. Ask for what I think, what I saw and why. 2. Then talk about telescopes.",
+     "say": "Tell me what you think, what you saw, and why. Now think about a telescope. Why do you think the biggest telescopes in the world have mirrors many metres wide?",
+     "kid": "Say what you think, what you saw, and why. Why are big telescopes so big?",
+     "parent": "A good answer: what I think: a bigger lens collects more light. What I saw: with half the lens covered, the whole window was still there, only dimmer. With a small hole it was very dim. Why: each part of the lens catches light from the whole window. So a giant telescope makes bright pictures of faint stars, because it catches so much of their light.",
+     "check": {
+      "t": "mcq",
+      "q": "Why are the biggest telescopes built with huge mirrors?",
+      "options": [
+       "To make stars look like big balls",
+       "To collect more light, so faint stars and galaxies show up",
+       "Because big mirrors are cheaper"
+      ],
+      "a": 1,
+      "why": "A big mirror catches more light, just as the whole lens made a brighter picture than a small hole. Faint stars send very little light, so a telescope needs a big mirror to gather enough. Stars stay as points of light even in the biggest telescopes, because they are so far away."
+     }
+    }
+   ],
+   "context": "In this experiment you make a picture of a window with a magnifying glass, then cover part of the lens. It shows what a telescope's big lens or mirror is really for.",
+   "setup": [
+    {
+     "art": "A dim room with one bright window, a child holding a magnifying glass near a sheet of white paper on the opposite wall, with a small upside-down picture of the window on the paper.",
+     "caption": "1. Make a sharp picture of the window on paper."
+    },
+    {
+     "art": "A hand sliding a card over the left half of the magnifying glass, and the whole window still on the paper, but dimmer.",
+     "caption": "2. Cover half the lens. Watch the picture."
+    },
+    {
+     "art": "A card with a small hole held flat against the lens, and a very dim but whole picture of the window on the paper.",
+     "caption": "3. Leave only a small hole open."
+    }
+   ]
+  },
+  {
+   "id": "e3",
+   "title": "Ice in the Crater: why the Moon's ice lasts in the shadows",
+   "mins": 25,
+   "days": 1,
+   "question": "Chandrayaan-1's data showed ice in dark craters near the Moon's poles. Does ice last longer in shadow than in sunlight, when the air around is the same?",
+   "predict": "We will put one ice cube in sunlight and one in the shadow of a book, side by side. Which one will melt first? How much longer do you think the other will last, and why?",
+   "fair_test": "Use ice cubes from the same tray, so they are the same size. Put them on the same kind of plate, a hand-span apart, in the same room. Only the sunlight changes. Check both at the same times.",
+   "results_table": [
+    "Time (minutes)",
+    "Cube in sunlight",
+    "Cube in shadow"
+   ],
+   "materials": [
+    {
+     "item": "two ice cubes from the same tray",
+     "qty": 2
+    },
+    {
+     "item": "two small steel plates or saucers of the same kind",
+     "qty": 2
+    },
+    {
+     "item": "a big book or a box, to stand up as a crater wall",
+     "qty": 1
+    },
+    {
+     "item": "a spot where sunlight comes in through a window or on a balcony for at least half an hour",
+     "qty": 1
+    },
+    {
+     "item": "a clock or phone timer",
+     "qty": 1
+    }
+   ],
+   "safety": "Do not look at the Sun. Wipe up melted water so no one slips.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Put one ice cube in sunlight and one in the shadow of a book. Check both every 5 minutes until the sunny one has melted."
+    }
+   ],
+   "record": "Draw both cubes at each check, in two rows. Write the time under each drawing.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Find a patch of sunlight. 2. Stand the book up at the edge of the patch so it casts a shadow beside it. 3. Put one plate in the sun and one in the book's shadow, close together. 4. Ask for a guess.",
+     "say": "The Moon's poles have craters so deep that sunlight never reaches their floors. Our book is a crater wall. Which cube do you think will melt first? Why?",
+     "kid": "One cube in sun. One in the book's shadow. Which melts first? Why?",
+     "parent": "Both plates must be in the same air, close together. Only the sunlight is different. If there is no sunshine today, try another day.",
+     "context": "This is the start of Ice in the Crater. You test whether ice lasts longer in shadow, like the ice in the Moon's dark craters."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "1. Put an ice cube on each plate at the same moment. 2. Every 5 minutes, look at both and draw them. 3. Move the book if the shadow moves off the plate.",
+     "say": "Let's look again. Which cube is smaller? Is the shadow still on its plate?",
+     "kid": "Look every 5 minutes. Draw both cubes. Which is smaller?",
+     "parent": "In strong sunlight, the sunny cube shrinks fast and sits in a puddle. The cube in shadow melts too, because the room air is warm, but more slowly. The Sun moves across the sky, so the shadow moves: check it each time.",
+     "wait": "Check every 5 minutes for about 15 to 20 minutes."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Talk about what you saw. 2. Then talk about the Moon.",
+     "say": "Which cube lasted longer, and why? The Moon has almost no air to warm things. So what happens to ice on a crater floor where the sunlight never reaches?",
+     "kid": "Which lasted longer? On the Moon, where could ice stay for ages?",
+     "parent": "A good answer: the cube in shadow lasted longer, because sunlight carries energy that warms and melts ice. On the Moon there is almost no air to carry warmth into a dark crater, so its floor stays colder than minus 160 degrees Celsius, and ice can stay there for a very long time. That is why Chandrayaan-3 was sent to land near the south pole.",
+     "check": {
+      "t": "mcq",
+      "q": "Why can ice last for a very long time on the floor of a dark crater near the Moon's pole?",
+      "options": [
+       "The Moon is far from the Sun",
+       "Sunlight never reaches the crater floor, and there is almost no air to bring warmth in",
+       "The ice is made of a special rock"
+      ],
+      "a": 1,
+      "why": "Sunlight warms whatever it falls on. A crater floor that never gets sunlight stays deeply cold, and with almost no air on the Moon, nothing carries warmth in. The Moon is about as far from the Sun as the Earth is, so distance is not the reason."
+     }
+    }
+   ],
+   "context": "In this experiment you put one ice cube in sunlight and one in shadow. It shows why ice can last in the Moon's dark polar craters, where India's Chandrayaan missions looked for water.",
+   "setup": [
+    {
+     "art": "A sunny patch on a window sill with a big book standing up, and two steel saucers side by side, one in sun and one in the book's shadow, each with an ice cube.",
+     "caption": "1. One ice cube in the sun, one in the book's shadow."
+    },
+    {
+     "art": "The same two saucers 15 minutes later: the sunny one with a small sliver of ice in a puddle, the shaded one with a bigger cube.",
+     "caption": "2. Look every 5 minutes and draw both cubes."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "How Far Is Space? A lime-sized Earth",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a lime, about 5 cm across, or a ball the same size",
+     "qty": 1
+    },
+    {
+     "item": "a grape or a small marble, about 1.5 cm across",
+     "qty": 1
+    },
+    {
+     "item": "4 sheets of notebook paper",
+     "qty": 1
+    },
+    {
+     "item": "a coin",
+     "qty": 1
+    },
+    {
+     "item": "a measuring tape, or a ruler",
+     "qty": 1
+    }
+   ],
+   "safety": "Nothing special.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Make a lime-sized Earth. Find where space begins, where the space station flies, and where the Moon is."
+    }
+   ],
+   "record": "Draw the lime and the grape with the distance between them. Mark the thin layer of air and the space station.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Hold up the lime and say it is the Earth. 2. Ask your child to show with their fingers how far above the lime they think space begins.",
+     "say": "This lime is our Earth, shrunk down. All the air we breathe is wrapped around it. Show me with your fingers how high the air goes before space begins.",
+     "kid": "The lime is the Earth. Show with your fingers where space begins.",
+     "parent": "Most children hold their fingers several centimetres away. Let them guess, and do not correct yet.",
+     "context": "This is How Far Is Space? You make a lime-sized model of the Earth to see how thin the air is, and how close space is."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Stack the 4 sheets of paper. 2. Show your child how thin the stack is. 3. Hold it against the lime's skin.",
+     "say": "On a lime this size, space begins this far above the skin. Just four sheets of paper thick. All the air you have ever breathed is in a layer thinner than this.",
+     "kid": "Space begins just four sheets of paper above the lime. That is how thin the air is.",
+     "parent": "The Earth is about 12,700 km across, and the lime is 5 cm. So 100 km, where space begins, is about 0.4 mm on the lime. A sheet of notebook paper is about 0.1 mm thick. The air that is thick enough to breathe easily is thinner still, about one sheet."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Hold the coin flat against the lime.",
+     "say": "The space station, where astronauts live, goes round the Earth about as high as this coin is thick. That is all.",
+     "kid": "The space station flies about a coin's thickness above the lime.",
+     "parent": "The space station is about 400 km up. On a 5 cm lime that is about 1.6 mm, close to the thickness of a coin."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "1. Give your child the grape. 2. Ask where the Moon should go. 3. Measure 150 cm from the lime and put the grape there.",
+     "say": "This grape is the Moon. Where should it go? The Moon is about 30 Earths away. Let's measure it.",
+     "kid": "The grape is the Moon. Guess where it goes. Then measure 150 cm.",
+     "parent": "The Moon is about 384,000 km away, which is about 30 times the Earth's width. 30 times 5 cm is 150 cm. The Moon is about a quarter as wide as the Earth, so a 1.5 cm grape is about right.",
+     "check": {
+      "t": "mcq",
+      "q": "On the lime-sized Earth, where does space begin?",
+      "options": [
+       "About a hand-span above the lime",
+       "Less than half a millimetre above the lime's skin, about four sheets of paper",
+       "At the grape"
+      ],
+      "a": 1,
+      "why": "Space begins about 100 km up, which is less than half a millimetre on a 5 cm lime. The air is a very thin skin around the Earth. The Moon, 150 cm away, is far beyond it."
+     }
+    }
+   ],
+   "context": "This activity uses a lime and a grape to show how thin the Earth's air is, how close the space station is, and how far away the Moon is.",
+   "setup": [
+    {
+     "art": "A child's hand holding a lime next to a thin stack of four sheets of paper, with a label 'space begins here'.",
+     "caption": "1. The lime is the Earth. Four sheets of paper are the air."
+    },
+    {
+     "art": "A lime on a table and a grape 150 cm away along a measuring tape.",
+     "caption": "2. Put the grape Moon 150 cm away."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Spot the Space Station from your window",
+   "mins": 15,
+   "days": 2,
+   "materials": [
+    {
+     "item": "a phone or computer, to look up when the space station passes over your city",
+     "qty": 1
+    },
+    {
+     "item": "a window, balcony or terrace with a view of a big part of the sky",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Go on to a terrace only with a grown-up.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 5,
+     "what": "Look up the next time the space station will pass over your city, and which way to look."
+    },
+    {
+     "day": 2,
+     "mins": 10,
+     "what": "Watch for the station at the right time. Draw its path across the sky."
+    }
+   ],
+   "record": "Draw the sky from your window, with buildings and trees. Draw the station's path as a line with an arrow, and write the time.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Open the website Spot the Station, spotthestation.nasa.gov. 2. Type your city. 3. Find a pass that is high in the sky, soon after sunset or before sunrise. 4. Note the time and the direction it comes from.",
+     "say": "The space station goes round the Earth about every 90 minutes. Some evenings it passes right over our city. Let's find out when.",
+     "kid": "Ask a grown-up to find when the space station passes over your city.",
+     "parent": "The station can be seen only a little after sunset or before sunrise, when the sky is dark but the station, high up, is still in sunlight. Choose a pass with a high number for its height, 40 degrees or more, for the best view.",
+     "context": "In this activity you find out when the International Space Station passes over your city, and watch for it."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "1. Be at the window five minutes early. 2. Face the direction it will come from. 3. When you see a bright dot moving steadily across the sky, follow it until it fades.",
+     "say": "Look for a bright star that moves. It does not blink. People are inside it right now, looking down at the Earth.",
+     "kid": "Look for a bright dot that moves and does not blink.",
+     "parent": "The station looks like a very bright star gliding across the sky in about 4 to 6 minutes. A plane blinks red and green lights. The station does not blink. It may fade suddenly as it moves into the Earth's shadow. City lights do not hide it, because it is so bright. Clouds do.",
+     "check": {
+      "t": "mcq",
+      "q": "How can you tell the space station from a plane in the night sky?",
+      "options": [
+       "The station blinks red and green",
+       "The station is a steady bright dot that does not blink",
+       "The station is much bigger than the Moon"
+      ],
+      "a": 1,
+      "why": "Planes have blinking coloured lights. The space station has no lights we can see. It shines because sunlight bounces off it, so it looks like a steady, bright, moving star."
+     }
+    }
+   ],
+   "context": "This activity helps you see the International Space Station with your own eyes, from home.",
+   "setup": [
+    {
+     "art": "A phone screen showing a list of times and directions for the space station over Chennai.",
+     "caption": "1. Find when it passes over your city."
+    },
+    {
+     "art": "A child at a balcony at dusk pointing at a bright dot moving across the sky above city buildings, with a dotted line showing its path.",
+     "caption": "2. Watch the bright dot glide across the sky."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Pack for Space: what does an astronaut need for one day?",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "about 12 small slips of paper and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "two boxes or bowls, labelled 'must come from Earth' and 'can be used again'",
+     "qty": 2
+    }
+   ],
+   "safety": "Nothing special.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "List everything you use in one day. Sort the list into what an astronaut must bring and what can be cleaned and used again."
+    }
+   ],
+   "record": "Make a table with three columns: what I use in a day, where it comes from at home, and how an astronaut gets it.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Ask your child to list everything they used since waking up. 2. Write each thing on a slip.",
+     "say": "Let's list everything you have used today, from the moment you woke up. Think about air, water, food, clothes and light.",
+     "kid": "List everything you used today. Write each one on a slip.",
+     "parent": "Help them notice the things we never think about: the air they breathed, the water for brushing teeth, the warmth of the room, the toilet.",
+     "context": "In this activity you list what you use in a day, and work out how an astronaut in space could get each thing."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "Sort the slips into the two boxes, talking about each one.",
+     "say": "Now imagine you live on the space station. Which things must come up from Earth on a rocket? Which can be cleaned and used again?",
+     "kid": "Sort the slips. Must come from Earth? Or can be used again?",
+     "parent": "Food must come from Earth. On the station, oxygen is made by splitting water with electricity, and most water is cleaned and used again, even sweat and urine. Electricity comes from big solar panels. Clothes cannot be washed, so astronauts wear them for days and then throw them away. Everything in the end started on Earth."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "Talk about the most important thing.",
+     "say": "If you could take only one thing, which would you need first? How long could you last without it?",
+     "kid": "Which one thing do you need most? Why?",
+     "parent": "Air comes first. A person can live for weeks without food and for a few days without water, but only a few minutes without air.",
+     "check": {
+      "t": "mcq",
+      "q": "On the space station, how do astronauts get fresh oxygen to breathe?",
+      "options": [
+       "They open a window",
+       "Machines split water to make oxygen, and the water was brought from Earth",
+       "Plants on the station make all of it"
+      ],
+      "a": 1,
+      "why": "There is no air outside to let in. Machines use electricity from solar panels to split water into oxygen and hydrogen. The water came from Earth. Astronauts do grow a few plants, but far too few to make the oxygen they need."
+     }
+    }
+   ],
+   "context": "This activity compares a day of your life with a day on the space station, to see what an astronaut needs.",
+   "setup": [
+    {
+     "art": "Paper slips with words like 'air', 'water', 'idli', 'toothpaste' and 'light' spread on a table.",
+     "caption": "1. Write each thing you used today on a slip."
+    },
+    {
+     "art": "Two bowls labelled 'must come from Earth' and 'can be used again', with slips sorted into each.",
+     "caption": "2. Sort the slips for a day in space."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "India in Space: a string timeline",
+   "mins": 20,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a string about 2.5 metres long, tied between two chairs",
+     "qty": 1
+    },
+    {
+     "item": "11 cards or paper slips, and clothes pegs or paper clips",
+     "qty": 1
+    },
+    {
+     "item": "crayons",
+     "qty": 1
+    }
+   ],
+   "safety": "Nothing special.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Write and draw 11 events from India's space story. Hang them along a string in the right order and spacing."
+    }
+   ],
+   "record": "Keep the cards in a pile, in order, or stick them along a long strip of paper on the wall.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "Read out each event and its year, and write and draw one card for each.",
+     "say": "Let's make India's space story. Here are the events. For each one, write the year and draw a small picture.",
+     "kid": "Make one card for each event. Write the year. Draw it.",
+     "parent": "Events: 1963, the first rocket from Thumba. 1969, ISRO is set up. 1975, Aryabhata, India's first satellite. 1980, SLV-3, India's own rocket, puts Rohini in orbit. 1984, Rakesh Sharma goes to space. 2008, Chandrayaan-1 goes round the Moon. 2014, Mangalyaan reaches Mars. 2017, one rocket launches 104 satellites. 2019, Chandrayaan-2's orbiter reaches the Moon. 2023, Chandrayaan-3 lands near the south pole, and Aditya-L1 sets off to watch the Sun. 2025, Shubhanshu Shukla goes to the space station.",
+     "context": "In this activity you hang India's space story along a string, in order, with the gaps between the years shown."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "1. Mark the string every 20 cm, one mark for each 6 years from 1963. 2. Peg each card at the right place.",
+     "say": "Each 20 cm on the string is about 6 years. Where does 1984 go? Where are the cards close together, and where is there a long gap?",
+     "kid": "Peg each card on the string at its year.",
+     "parent": "1963 to 2025 is 62 years. With 20 cm for each 6 years, the string from 1963 to 2025 is a little over 2 metres. Exact places do not matter. The pattern does: the long quiet gap in the middle and the crowd of events after 2008."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "Look at the whole string.",
+     "say": "How many years were there between the bicycle rocket at Thumba and the landing on the Moon? What would you add to the end of this string one day?",
+     "kid": "How many years from Thumba to the Moon? What comes next?",
+     "check": {
+      "t": "mcq",
+      "q": "Which came first?",
+      "options": [
+       "Chandrayaan-3 landing on the Moon",
+       "India's first satellite, Aryabhata",
+       "Mangalyaan reaching Mars"
+      ],
+      "a": 1,
+      "why": "Aryabhata was launched in 1975. Mangalyaan reached Mars in 2014, and Chandrayaan-3 landed on the Moon in 2023."
+     }
+    }
+   ],
+   "context": "This activity turns India's space history into a timeline you can walk along.",
+   "setup": [
+    {
+     "art": "Hand-drawn cards for 1963, 1975, 2014 and 2023, with a small rocket, a satellite, a Mars probe and a Moon lander.",
+     "caption": "1. Make a card for each event."
+    },
+    {
+     "art": "A string tied between two chairs with cards pegged along it, close together at one end.",
+     "caption": "2. Peg each card at its year."
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "Drop the Empty Tanks: a rocket in stages (act it out)",
+   "mins": 10,
+   "days": 1,
+   "materials": [
+    {
+     "item": "three empty cardboard boxes or plastic tubs that stack, the biggest at the bottom",
+     "qty": 3
+    },
+    {
+     "item": "a small toy or a paper satellite for the top",
+     "qty": 1
+    }
+   ],
+   "safety": "Act it out in a clear space with nothing breakable nearby.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Stack three boxes as a rocket. Act out a launch, dropping each stage when its fuel runs out, until the satellite reaches orbit."
+    }
+   ],
+   "record": "Draw the rocket at launch, after the first stage drops, and when the satellite is let go.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Stack the three boxes and put the satellite on top. 2. Your child carries the rocket slowly up, counting down from 10.",
+     "say": "This is a rocket with three stages. Most of its weight is fuel and oxygen. Let's launch it. Ten, nine, eight...",
+     "kid": "Stack the boxes. Put the satellite on top. Count down and lift!",
+     "context": "This is an act-out of a rocket launch in stages, to show why rockets drop their empty parts."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. After a few steps, your child drops the bottom box: the first stage. 2. A few steps later, the second. 3. Then lets the satellite go from the last stage.",
+     "say": "The first stage is empty. Drop it! Now the rocket is lighter. Why does that help it go faster?",
+     "kid": "Drop the empty bottom box. Then the next. Let the satellite go.",
+     "parent": "A rocket that kept its empty tanks would waste fuel carrying them. Dropping each stage means the next engine pushes a much lighter rocket. India's PSLV has four stages. The first stage falls into the Bay of Bengal.",
+     "check": {
+      "t": "mcq",
+      "q": "Why does a rocket drop a stage when its tanks are empty?",
+      "options": [
+       "To make a loud noise",
+       "So it does not waste fuel carrying empty tanks",
+       "Because the stage is broken"
+      ],
+      "a": 1,
+      "why": "An empty tank is dead weight. Throwing it away makes the rocket lighter, so the rest of the fuel can push it faster."
+     }
+    }
+   ],
+   "context": "This act-out shows why a rocket is built in stages that drop off.",
+   "setup": [
+    {
+     "art": "Three boxes stacked biggest at the bottom with a paper satellite on top, held up by a child.",
+     "caption": "1. Stack the stages and launch."
+    },
+    {
+     "art": "A child holding two boxes up high while the bottom box falls to the floor.",
+     "caption": "2. Drop each empty stage."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "Build Vikram and Pragyan: a Moon lander and rover from boxes",
+   "mins": 50,
+   "days": 2,
+   "materials": [
+    {
+     "item": "a small cardboard box, such as a toothpaste or tea box, for the lander",
+     "qty": 1
+    },
+    {
+     "item": "a smaller box, such as a matchbox, for the rover",
+     "qty": 1
+    },
+    {
+     "item": "4 straws or ice-cream sticks, for the lander's legs",
+     "qty": 4
+    },
+    {
+     "item": "6 bottle caps or buttons, for the rover's wheels",
+     "qty": 6
+    },
+    {
+     "item": "aluminium foil, for the gold and silver covering",
+     "qty": 1
+    },
+    {
+     "item": "a strip of card, for the ramp",
+     "qty": 1
+    },
+    {
+     "item": "glue, cello tape and scissors",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up helps with scissors and makes the holes in the boxes.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Build the lander Vikram: a box, four legs, a foil covering and a ramp."
+    },
+    {
+     "day": 2,
+     "mins": 25,
+     "what": "Build the rover Pragyan, with six wheels and a flat solar panel. Roll it down the ramp and tell the story of the landing."
+    }
+   ],
+   "record": "Draw your lander and rover and label the parts: legs, ramp, solar panel, wheels.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 25,
+     "do": "1. Wrap the bigger box in foil. 2. Tape a straw leg to each bottom corner, splayed out. 3. Tape the card ramp to one side.",
+     "say": "Vikram had four legs, spread wide, so it would not tip over on bumpy ground. Why do you think the legs spread outwards?",
+     "kid": "Wrap the box in foil. Add four legs. Add a ramp.",
+     "adult": true,
+     "parent": "The real lander's legs had shock absorbers to soften the touchdown. Splayed legs give a wide base, like a stool that does not wobble.",
+     "context": "This project builds a model of Chandrayaan-3's lander, Vikram, and its rover, Pragyan, which landed near the Moon's south pole in 2023."
+    },
+    {
+     "id": "s2",
+     "mins": 25,
+     "do": "1. Glue six caps to the matchbox, three on each side. 2. Tape a flat rectangle of foil-covered card on top, as a solar panel. 3. Roll the rover down the ramp.",
+     "say": "Pragyan had six wheels and a solar panel. It ran on sunlight. On the Moon, a day lasts about two weeks of Earth time. What do you think happened to Pragyan when night came?",
+     "kid": "Glue on six wheels. Add a solar panel. Roll down the ramp.",
+     "parent": "Pragyan worked through one lunar day, about 14 Earth days, then went to sleep as night fell. ISRO tried to wake Vikram and Pragyan in the next lunar day, but they did not answer. The Moon's night is colder than minus 120 degrees Celsius.",
+     "check": {
+      "t": "mcq",
+      "q": "Pragyan had a solar panel. Why did it stop working when night came on the Moon?",
+      "options": [
+       "It ran out of petrol",
+       "Its solar panel needed sunlight, and the Moon's night lasts about two weeks",
+       "The rover got lost"
+      ],
+      "a": 1,
+      "why": "A solar panel makes electricity from sunlight. A Moon night lasts about two Earth weeks and is extremely cold, so the rover was put to sleep before it began."
+     }
+    }
+   ],
+   "context": "This project makes models of India's Moon lander and rover, and tells the story of their landing.",
+   "setup": [
+    {
+     "art": "A foil-covered box with four straw legs and a card ramp, on a table.",
+     "caption": "1. Build Vikram, the lander."
+    },
+    {
+     "art": "A matchbox with six bottle-cap wheels and a flat foil panel on top rolling down the ramp.",
+     "caption": "2. Build Pragyan and roll it out."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Drive the Rover from Earth",
+   "mins": 20,
+   "problem": "Guide a blindfolded 'rover' to a target across the room. The catch: every order you give reaches the rover only after a delay, just as radio messages take minutes to reach Mars.",
+   "constraints": [
+    "The rover moves only on orders, and only after the timekeeper counts to 10.",
+    "Orders are simple: forward a number of steps, turn left, turn right, stop.",
+    "The rover must not bump into anything."
+   ],
+   "materials": [
+    "a scarf or dupatta for a blindfold",
+    "a cushion as the target",
+    "a few soft obstacles, such as pillows",
+    "a timekeeper who counts to 10"
+   ],
+   "general": [
+    "Give short orders, one at a time, and wait to see each one's result.",
+    "Plan the whole path first, and send a list of orders at once."
+   ],
+   "creative": [
+    "Let the rover feel with their hands and stop by themselves when they touch something, as real rovers have their own hazard cameras.",
+    "Send the rover to look first, then plan, the way mission teams do."
+   ],
+   "your_turn": "Now design your own way to drive a rover with a delay. Try it, then swap jobs.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Set up the target and obstacles. 2. Blindfold the rover. 3. Explain the rules.",
+     "say": "Radio messages travel at the speed of light. Even so, a message to Mars takes between about 3 and 22 minutes, depending on where the planets are. So nobody can steer a Mars rover like a toy car.",
+     "kid": "You are the rover. Wait for each order. Then move.",
+     "context": "This is an engineering challenge. You steer a blindfolded rover with orders that arrive late, like orders sent to a rover on Mars."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "1. Give orders. 2. The timekeeper counts to 10 before the rover moves. 3. Try twice, once with single orders and once with a planned list.",
+     "say": "Forward three steps. Now we wait. Ten, nine, eight... Which way is easier: one order at a time, or a plan?",
+     "kid": "Wait for the count. Then do the order.",
+     "parent": "Mission teams on Earth plan a day's drive in advance and let the rover check for dangers by itself. Pragyan, on the Moon, was much closer: a message there takes only just over one second."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Read the usual and creative ideas, and talk about them.",
+     "say": "Here is how real teams do it. Which idea would you use?",
+     "kid": "Which way worked best? Why?",
+     "check": {
+      "t": "mcq",
+      "q": "Why can nobody steer a Mars rover in real time, like a toy car?",
+      "options": [
+       "Mars is too dusty",
+       "Radio messages take minutes to travel between Earth and Mars",
+       "The rover cannot hear"
+      ],
+      "a": 1,
+      "why": "Even at the speed of light, a message takes between about 3 and 22 minutes to reach Mars. By the time an order arrives, the rover may already have rolled into trouble."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A blindfolded child standing in a living room with pillows on the floor and a cushion target across the room.",
+     "caption": "1. Set up the room and blindfold the rover."
+    },
+    {
+     "art": "A child counting on their fingers while another calls out an order.",
+     "caption": "2. Count to 10 before each order arrives."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "Design a Moon Home that keeps its air in",
+   "mins": 30,
+   "problem": "Design a home on the Moon for two astronauts. It must hold air in, keep people at a safe temperature, and let them get in and out without losing their air.",
+   "constraints": [
+    "Draw your design and build a small model from things at home.",
+    "Show how the astronauts get air, water and power.",
+    "Show how they go in and out without letting the air escape."
+   ],
+   "materials": [
+    "paper and pencils",
+    "a cardboard box or plastic container",
+    "foil, cello tape and glue",
+    "a balloon, to stand for the air inside"
+   ],
+   "general": [
+    "Build a sealed dome or cylinder, with a small room called an airlock between two doors, so only one door opens at a time.",
+    "Cover the home with a thick layer of Moon soil, to block harmful radiation from the Sun."
+   ],
+   "creative": [
+    "Build the home inside a lava tube, a long cave under the Moon's surface.",
+    "Put it near the south pole, where ice in the dark craters could give water, and that water could be split to make oxygen.",
+    "Grow plants inside to help clean the air and give food."
+   ],
+   "your_turn": "Now design your own Moon home. Draw it, build a model, and explain to your family how it keeps the air in.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "Read the problem together and draw two ideas.",
+     "say": "Remember the candle under the jar. A flame inside a closed jar soon runs short of oxygen, and so would people. Where will your astronauts get fresh oxygen?",
+     "kid": "Draw two ideas for a Moon home. Where will the air come from?",
+     "context": "This is a design challenge. You plan a home on the Moon that keeps its air in."
+    },
+    {
+     "id": "s2",
+     "mins": 17,
+     "do": "1. Build a model of your best idea. 2. Put a blown-up balloon inside to stand for the air. 3. Show the airlock with two doors.",
+     "say": "Show me how an astronaut gets in. Which door opens first? Does the air escape?",
+     "kid": "Build your Moon home. Show how the doors work.",
+     "adult": true,
+     "parent": "An airlock has an inner door and an outer door. The astronaut steps in, closes the inner door, then opens the outer door. Only the little bit of air in the airlock is lost, or pumped back first."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Read the usual and creative ideas, and compare them with your own.",
+     "say": "Here are some ideas engineers have had. Which one would you add to your home?",
+     "kid": "Which idea would you add? Why?",
+     "check": {
+      "t": "mcq",
+      "q": "Why does a Moon home need an airlock with two doors?",
+      "options": [
+       "To keep out the rain",
+       "So the air inside does not rush out when someone goes in or out",
+       "To make it look nice"
+      ],
+      "a": 1,
+      "why": "The Moon has almost no air outside. If a single door opened, the home's air would rush out. With two doors and a small room between them, only one opens at a time."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A child's drawing of a dome on grey Moon ground with two doors and a small room between them.",
+     "caption": "1. Draw your Moon home, with an airlock."
+    },
+    {
+     "art": "A foil-covered box model with a balloon inside and two card doors.",
+     "caption": "2. Build a model and show how the doors work."
+    }
+   ]
+  }
+ ],
+ "videos": [
+  {
+   "title": "How Do Rockets Fly? | Let's Explore Mars! | SciShow Kids",
+   "channel": "SciShow Kids",
+   "youtube": "Lti6a_YYQl0",
+   "mins": 4,
+   "why": "A short, friendly video on how a rocket pushes itself up by pushing gas down. Watch it after the jar test and the stages act-out.",
+   "check": "Id, title and channel confirmed with YouTube's oEmbed lookup. Not watched from here, so the length is a guess. A parent should preview it."
+  },
+  {
+   "title": "Telescopes in Space! | How We Study Space | SciShow Kids",
+   "channel": "SciShow Kids",
+   "youtube": "XB0Er2eZn54",
+   "mins": 4,
+   "why": "Why some telescopes are sent above the air. Watch it after the half-lens test.",
+   "check": "Id, title and channel confirmed with YouTube's oEmbed lookup. Not watched from here, so the length is a guess. A parent should preview it."
+  },
+  {
+   "title": "Launch of LVM3-M4/CHANDRAYAAN-3 Mission from Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota",
+   "channel": "ISRO Official",
+   "youtube": "q2ueCg9bvvQ",
+   "mins": 10,
+   "why": "ISRO's own broadcast of the Chandrayaan-3 launch on 14 July 2023. Skip ahead to the countdown and watch the lift-off and the first stages dropping away.",
+   "check": "Id, title and channel confirmed with YouTube's oEmbed lookup. It is a long live broadcast. A parent should find the countdown first, and watch about 10 minutes from there."
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "What is space?",
+   "opts": [
+    "The air above the clouds",
+    "Everything beyond the Earth's air, where there is almost nothing to breathe",
+    "The inside of a rocket"
+   ],
+   "a": 1,
+   "why": "Space is what lies beyond the atmosphere. It is almost empty, with no air to breathe. Picking 'the air above the clouds' is a common mix-up, but the air goes on far above the clouds before it thins out.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Shreya covers a candle with a jar and it goes out. Why?",
+   "opts": [
+    "The jar is too heavy",
+    "The flame runs short of oxygen",
+    "The jar is made of glass"
+   ],
+   "a": 1,
+   "why": "A flame needs oxygen. Under the jar, no fresh air gets in, so the flame goes out when the oxygen near it runs low.",
+   "outcome": 1,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "Why does a rocket carry its own oxygen?",
+   "opts": [
+    "To breathe out",
+    "Because in space there is no air, and its fuel cannot burn without oxygen",
+    "To keep the rocket cool"
+   ],
+   "a": 1,
+   "why": "Like the candle under the jar, the rocket's fire needs oxygen. Above the air there is none to take in, so the rocket brings it.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A rocket lifts off. What pushes it up?",
+   "opts": [
+    "The air under it",
+    "The hot gas it pushes down out of its engine, which pushes back on it",
+    "The launch tower"
+   ],
+   "a": 1,
+   "why": "The rocket pushes the gas down and the gas pushes the rocket up. This works in space too, where there is no air.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Why is a rocket built in stages?",
+   "opts": [
+    "So that empty tanks can be dropped and the rocket gets lighter",
+    "So it looks taller",
+    "So it can be painted in parts"
+   ],
+   "a": 0,
+   "why": "When a stage's fuel is used up, it is dropped. The rest of the rocket is lighter, so its fuel can push it faster.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Why do the biggest telescopes have huge mirrors?",
+   "opts": [
+    "To collect lots of light, so faint stars and galaxies show up",
+    "To make stars look like big balls",
+    "So they can see in the daytime"
+   ],
+   "a": 0,
+   "why": "A bigger mirror catches more light. Stars stay as points in any telescope. What a big mirror gives is a brighter picture of faint things.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "You cover half of a magnifying glass that is making a picture of a window. What happens to the picture?",
+   "opts": [
+    "Half of it vanishes",
+    "It stays whole but gets dimmer",
+    "It turns the right way up"
+   ],
+   "a": 1,
+   "why": "Every part of the lens gathers light from the whole window. Covering half lets in half the light, so the picture dims but stays whole.",
+   "outcome": 3,
+   "how": "e2"
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these do astronauts on the space station clean and use again?",
+   "opts": [
+    "Water",
+    "Food",
+    "Rockets"
+   ],
+   "a": 0,
+   "why": "Most of the station's water is cleaned and used again, even the water from sweat and urine. Food is eaten, so new food must come from Earth.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Why does a spacesuit have a pack on its back?",
+   "opts": [
+    "To carry snacks",
+    "To hold the astronaut's own air and keep them at a safe temperature",
+    "To make the astronaut heavier"
+   ],
+   "a": 1,
+   "why": "Outside the spacecraft there is no air. The pack gives the astronaut oxygen and keeps the suit at a safe temperature.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "What did Chandrayaan-3 do in 2023?",
+   "opts": [
+    "It went to Mars",
+    "It landed near the Moon's south pole and drove a rover there",
+    "It carried astronauts"
+   ],
+   "a": 1,
+   "why": "Chandrayaan-3's lander Vikram landed near the south pole on 23 August 2023, and its rover Pragyan drove about 100 metres. Mangalyaan was the Mars mission.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Who was the first Indian to travel into space?",
+   "opts": [
+    "Kalpana Chawla",
+    "Rakesh Sharma",
+    "Vikram Sarabhai"
+   ],
+   "a": 1,
+   "why": "Rakesh Sharma flew in 1984. Kalpana Chawla flew later, in 1997, as an American astronaut. Vikram Sarabhai started India's space programme but did not go to space.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Before 2009, most scientists thought the Moon had no water at all. What did India's Chandrayaan-1 help show?",
+   "opts": [
+    "The Moon has lakes",
+    "There are thin traces of water in the Moon's dust, and later its data showed ice in dark polar craters",
+    "The Moon is made of ice"
+   ],
+   "a": 1,
+   "why": "An instrument on Chandrayaan-1 found the gap in reflected light that water leaves. The traces are thin, and the ice is in craters that never see sunlight.",
+   "outcome": 6
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Beyond the Air (core)",
+   "tier": "core",
+   "mins": 20,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Where does space begin, by the line many scientists use?",
+     "opts": [
+      "At the top of the clouds, about 2 km up",
+      "About 100 km up",
+      "At the Moon"
+     ],
+     "a": 1,
+     "why": "Many scientists use 100 km as the edge of space. Clouds are much lower, and the Moon is about 384,000 km away. A strong answer knows the air thins out slowly, so 100 km is an agreed line, not a wall."
+    },
+    {
+     "t": "fill",
+     "p": "A rocket must carry its own ____, because there is no air in space and fuel cannot burn without it.",
+     "a": [
+      "oxygen"
+     ],
+     "why": "Burning is fuel joining with oxygen. In space there is no air to give oxygen, so the rocket brings it."
+    },
+    {
+     "t": "mcq",
+     "p": "Revathi, a girl in Class 3, covers a tealight with a small glass. The flame goes out after 8 seconds. She tries again with a big jar. What will most likely happen?",
+     "opts": [
+      "The flame goes out at once",
+      "The flame lasts longer than 8 seconds",
+      "The flame lasts exactly 8 seconds again"
+     ],
+     "a": 1,
+     "why": "A big jar holds more air, so the flame has more oxygen to use before it runs low. A strong answer says why: more air, more oxygen.",
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "In the jar test, the flame went out even though there was still wax left in the candle. Explain why.",
+     "lines": 3,
+     "a": "The flame needs oxygen as well as wax. Under the jar, no fresh air could get in. The flame used up the oxygen near the wick, and when too little was left, it went out. The wax was still there, but it could not burn without oxygen.",
+     "why": "A strong answer names both things a flame needs, fuel and oxygen, and says which one ran out.",
+     "how": "e1"
+    },
+    {
+     "t": "truefalse",
+     "p": "Astronauts on the space station float because there is no gravity up there.",
+     "a": false,
+     "why": "False. Gravity at the station's height is about nine tenths as strong as on the ground. The station and everyone in it are falling round the Earth together, so they float inside it."
+    },
+    {
+     "t": "match",
+     "p": "Match each Indian mission to what it did.",
+     "pairs": [
+      [
+       "Aryabhata",
+       "India's first satellite, 1975"
+      ],
+      [
+       "Chandrayaan-1",
+       "went round the Moon and helped find water there"
+      ],
+      [
+       "Mangalyaan",
+       "reached Mars on India's first try"
+      ],
+      [
+       "Chandrayaan-3",
+       "landed near the Moon's south pole"
+      ],
+      [
+       "Aditya-L1",
+       "watches the Sun from far out in space"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "These five missions show India's path from a first satellite to the Moon, Mars and the Sun."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these. Does each one need air from around it to work, or can it work in space?",
+     "cats": [
+      "Needs air around it",
+      "Can work in space"
+     ],
+     "items": [
+      [
+       "a plane",
+       "Needs air around it"
+      ],
+      [
+       "a rocket",
+       "Can work in space"
+      ],
+      [
+       "a candle with no jar",
+       "Needs air around it"
+      ],
+      [
+       "a kite",
+       "Needs air around it"
+      ],
+      [
+       "a telescope",
+       "Can work in space"
+      ],
+      [
+       "a satellite",
+       "Can work in space"
+      ],
+      [
+       "a ceiling fan's breeze",
+       "Needs air around it"
+      ],
+      [
+       "an astronaut in a spacesuit",
+       "Can work in space"
+      ]
+     ],
+     "a": "see items",
+     "why": "Planes, kites and fans push on the air, and a candle burns its oxygen. A rocket carries its own oxygen, and a spacesuit carries its own air. A strong sorter asks: does it take something from the air around it?"
+    },
+    {
+     "t": "mcq",
+     "p": "What is a telescope's main job?",
+     "opts": [
+      "To make stars look like big balls",
+      "To collect more light than our eyes can",
+      "To make the sky darker"
+     ],
+     "a": 1,
+     "why": "A big lens or mirror catches much more light than the small pupil of the eye, so faint things show up. Stars stay as points even in huge telescopes."
+    },
+    {
+     "t": "write",
+     "p": "Gayathri, a girl in Class 3, covers half of a magnifying glass while it makes a picture of a window. She thinks half the window will vanish from the picture. What really happens, and why?",
+     "lines": 3,
+     "a": "The whole window stays in the picture, but it gets dimmer. Light from every part of the window goes through every part of the lens. So the half that is still open can make the whole picture, with less light.",
+     "why": "A strong answer says the picture stays whole and only dims, and gives the reason: every part of the lens gets light from the whole window.",
+     "how": "e2"
+    },
+    {
+     "t": "draw",
+     "p": "Draw a rocket going up. Draw an arrow to show which way the hot gas goes, and another arrow to show which way the rocket goes.",
+     "a": "A rocket with a big arrow pointing down out of its engine for the gas, and a big arrow pointing up on the rocket.",
+     "why": "A strong drawing shows the two arrows pointing opposite ways. The rocket pushes the gas down, and the gas pushes the rocket up.",
+     "art": "A blank box with a small launch pad drawn at the bottom."
+    },
+    {
+     "t": "fill",
+     "p": "Chandrayaan-3's lander was called Vikram, and its rover was called ____.",
+     "a": [
+      "Pragyan"
+     ],
+     "why": "Pragyan drove about 100 metres on the Moon in 2023 and tested the soil."
+    },
+    {
+     "t": "truefalse",
+     "p": "A plane could fly to the Moon if it carried enough fuel.",
+     "a": false,
+     "why": "False. A plane's wings need air to push on, and its engines take oxygen from the air. Above about 100 km there is almost no air, so neither would work."
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these must astronauts on the space station bring up from Earth?",
+     "opts": [
+      "Sunlight",
+      "Food",
+      "Gravity"
+     ],
+     "a": 1,
+     "why": "Food cannot be made on the station in the amounts needed, so it comes from Earth in packets. Sunlight reaches the station on its own, and gravity is there too."
+    },
+    {
+     "t": "write",
+     "p": "On a lime-sized Earth, space begins about four sheets of paper above the skin. What does this tell you about the air we breathe?",
+     "lines": 3,
+     "a": "The air is a very thin layer, close to the ground. Almost all of the air is near the Earth, and only a short way up it thins out to nothing.",
+     "why": "A strong answer says the air is thin compared with the size of the Earth, and that space is close above us.",
+     "how": "a1"
+    },
+    {
+     "t": "label",
+     "p": "Label the picture of a rocket: fuel tank, oxygen tank, engine, hot gas, satellite.",
+     "a": "The satellite is at the top. Below it are the fuel tank and the oxygen tank. The engine is at the bottom, and the hot gas comes out below the engine.",
+     "why": "A strong labeller puts the two tanks above the engine, because the engine burns fuel with the oxygen, and the satellite at the top.",
+     "art": "A cut-away rocket with five blank label lines pointing to the nose, two tanks, the engine and the flame below."
+    },
+    {
+     "t": "write",
+     "p": "Why do you think India chose to land Chandrayaan-3 near the Moon's south pole, and not in a sunny spot near the middle?",
+     "lines": 3,
+     "a": "Near the south pole there are deep craters that never get sunlight. Ice can last there, so it is a good place to look for water. Water could one day give astronauts drinking water and oxygen.",
+     "why": "A strong answer links the dark craters, the cold, and the ice, and says why water matters.",
+     "how": "e3"
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Mission Thinkers (stretch)",
+   "tier": "stretch",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Nila, a girl in Class 4, times a candle under three jars. A small glass holds 1 tumbler of water, a big glass holds 2, and a pickle jar holds 5. Under the small glass the flame lasts 8 seconds. About how long will it last under the pickle jar?",
+     "opts": [
+      "About 8 seconds",
+      "About 40 seconds",
+      "About 400 seconds"
+     ],
+     "a": 1,
+     "why": "The pickle jar holds about 5 times as much air, so the flame lasts about 5 times as long, about 40 seconds. Real results wobble a little. 400 seconds would need 50 times the air.",
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "Hamsa, a boy in Class 3, did the jar test only once with each jar. His big jar gave a shorter time than his small glass. What might have gone wrong, and what should he do?",
+     "lines": 3,
+     "a": "He might not have let fresh air back into the big jar, or he started the timer late, or the flame was still small when he covered it. He should do three tries with each jar, wave each jar in the air between tries, and start timing the moment the rim touches the plate.",
+     "why": "A strong answer names a likely mistake and says that repeating tries and keeping things the same makes the test fair.",
+     "how": "e1"
+    },
+    {
+     "t": "perspective",
+     "p": "India is deciding how to explore the Moon next.",
+     "views": [
+      {
+       "who": "Dr Shalini, a rover engineer",
+       "says": "Send more robot rovers. They need no air or food, and no one gets hurt if a landing fails."
+      },
+      {
+       "who": "Captain Meera, an astronaut",
+       "says": "Send people. A person notices odd things at once and can fix a problem on the spot."
+      },
+      {
+       "who": "Farida, a schoolteacher",
+       "says": "The money would help more people if it were spent on schools here."
+      }
+     ],
+     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one thing that another person has right.",
+     "lines": 5,
+     "a": "A strong answer picks a side and backs it with a fact, such as: Pragyan worked on the Moon with no air, or a person can react at once, while a message to a Mars rover takes minutes. It then admits a fair point from another side, such as the cost.",
+     "why": "This is a real argument with real trade-offs: safety and cost against the skill of people, and space spending against other needs."
+    },
+    {
+     "t": "mcq",
+     "p": "Why do stars twinkle when we look at them from the ground?",
+     "opts": [
+      "They switch on and off",
+      "Moving air bends their light this way and that",
+      "They spin very fast"
+     ],
+     "a": 1,
+     "why": "The air above us is always moving, and it bends starlight a little differently from moment to moment. A telescope in space, above the air, sees stars as steady points."
+    },
+    {
+     "t": "truefalse",
+     "p": "A rocket in space can speed up even though there is no air to push against.",
+     "a": true,
+     "why": "True. A rocket pushes its own hot gas out of the back, and the gas pushes the rocket forward. It does not need air for this."
+    },
+    {
+     "t": "order",
+     "p": "Put these in order, from closest to the ground to furthest away.",
+     "items": [
+      "the Moon",
+      "a plane",
+      "the space station",
+      "the edge of space"
+     ],
+     "a": [
+      "a plane",
+      "the edge of space",
+      "the space station",
+      "the Moon"
+     ],
+     "why": "Planes fly about 11 km up. Space begins about 100 km up. The space station is about 400 km up. The Moon is about 384,000 km away."
+    },
+    {
+     "t": "write",
+     "p": "Karthik, a boy in Class 3, says, \"A rocket needs a huge jar of air from the launch pad, so that its fuel can burn.\" What would you tell him?",
+     "lines": 3,
+     "a": "Ordinary air is only about one fifth oxygen, and a gas takes up a lot of room. A rocket carries pure oxygen instead, often as a very cold liquid, so a lot of oxygen fits in a small tank. Some rockets use a solid fuel with an oxygen-giving chemical mixed in.",
+     "why": "A strong answer agrees that the rocket needs oxygen, but explains why carrying plain air would be far too bulky."
+    },
+    {
+     "t": "draw",
+     "p": "Draw what you saw in the half-lens test, two times: with the whole lens open, and with half of it covered. Shade them to show the brightness.",
+     "a": "Two pictures of the whole window, upside down. The second is shaded darker but is complete.",
+     "why": "A strong drawing shows the whole window both times, with only the brightness changed.",
+     "how": "e2",
+     "art": "Two empty rectangles side by side, labelled 'whole lens' and 'half covered'."
+    },
+    {
+     "t": "mcq",
+     "p": "On the space station, oxygen is made by splitting water. Where did that water come from?",
+     "opts": [
+      "From clouds in space",
+      "From Earth, carried up on rockets, and then cleaned and used again",
+      "From the Moon"
+     ],
+     "a": 1,
+     "why": "There is no water floating in space near the station. It came from Earth, and most of it is cleaned and used again and again, even the water from sweat and urine."
+    },
+    {
+     "t": "fill",
+     "p": "A path that goes round and round a planet, like the space station's path round the Earth, is called an ____.",
+     "a": [
+      "orbit"
+     ],
+     "why": "The space station's orbit takes it round the Earth about every 90 minutes."
+    },
+    {
+     "t": "mcq",
+     "p": "In the ice test, Pooja put one ice cube in sunlight and one in the shadow of a book. Which one is most like ice in a dark crater on the Moon?",
+     "opts": [
+      "The cube in sunlight",
+      "The cube in the shadow",
+      "Neither"
+     ],
+     "a": 1,
+     "why": "The shaded cube gets no direct sunlight, like the floor of a deep polar crater. It melted more slowly. On the Moon, with almost no air to carry warmth in, the crater ice can last for a very long time.",
+     "how": "e3"
+    },
+    {
+     "t": "write",
+     "p": "A message to a rover on Mars can take about 20 minutes to arrive. Explain why a team on Earth cannot steer it like a toy car.",
+     "lines": 3,
+     "a": "If the rover is heading for a rock, the team will see it only about 20 minutes late, and their order to stop will take another 20 minutes to arrive. By then it is too late. So teams plan the drive ahead and let the rover check for dangers itself.",
+     "why": "A strong answer counts the delay both ways: the picture coming back, and the order going out.",
+     "how": "c1"
+    },
+    {
+     "t": "truefalse",
+     "p": "Kalpana Chawla, an astronaut who flew on American space shuttles, was born in India.",
+     "a": true,
+     "why": "True. She was born in Karnal, in Haryana, and later became an American citizen. She flew in 1997 and in 2003."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these into what came before Chandrayaan-1 in 2008, and what came after.",
+     "cats": [
+      "Before 2008",
+      "After 2008"
+     ],
+     "items": [
+      [
+       "Aryabhata",
+       "Before 2008"
+      ],
+      [
+       "Mangalyaan reaching Mars",
+       "After 2008"
+      ],
+      [
+       "Rakesh Sharma in space",
+       "Before 2008"
+      ],
+      [
+       "104 satellites on one rocket",
+       "After 2008"
+      ],
+      [
+       "the first rocket from Thumba",
+       "Before 2008"
+      ],
+      [
+       "Chandrayaan-3 landing",
+       "After 2008"
+      ]
+     ],
+     "a": "see items",
+     "why": "Aryabhata was 1975, Rakesh Sharma 1984 and Thumba 1963. Mangalyaan was 2014, the 104 satellites 2017 and Chandrayaan-3 2023."
+    },
+    {
+     "t": "mcq",
+     "p": "Why does a rocket drop its first stage after a few minutes?",
+     "opts": [
+      "It has burned all its fuel, and carrying the empty tank would waste the rest",
+      "The stage is too hot",
+      "To leave a gift in the sea"
+     ],
+     "a": 0,
+     "why": "An empty stage is heavy and useless. Dropping it lets the next engine push a lighter rocket faster.",
+     "how": "a5"
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Space Detective (challenge)",
+   "tier": "challenge",
+   "mins": 30,
+   "items": [
+    {
+     "t": "write",
+     "p": "In the jar test, the flame went out long before all the air in the jar was gone. Air is mostly not oxygen anyway. So why does a bigger jar still help?",
+     "lines": 3,
+     "a": "A flame stops when the oxygen near it gets too low, not when it is all gone. A bigger jar has more oxygen to start with, so it takes longer for the oxygen to drop that low. The other gases in the air, mostly nitrogen, do not help the flame.",
+     "why": "A strong answer understands that the flame needs enough oxygen near it, and that a bigger jar holds more of it.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "Sruthi does the jar test with two tealights side by side under the same big jar. What do you predict?",
+     "opts": [
+      "They burn twice as long",
+      "They go out sooner than one tealight would",
+      "Nothing changes"
+     ],
+     "a": 1,
+     "why": "Two flames use oxygen twice as fast. The same jar has the same amount of oxygen, so it runs low sooner. A strong answer links the speed of using oxygen with the amount there is.",
+     "how": "e1"
+    },
+    {
+     "t": "perspective",
+     "p": "A family is talking about why astronauts float on the space station.",
+     "views": [
+      {
+       "who": "Appa, the father",
+       "says": "There is no gravity up there, so nothing pulls them down."
+      },
+      {
+       "who": "Kavya, aged 9",
+       "says": "There is gravity, but they are falling all the time, together with the station."
+      }
+     ],
+     "ask": "Who do you agree with? Give a fact that supports your side. Then say why the other idea is easy to believe.",
+     "lines": 5,
+     "a": "Kavya is right. Gravity at the station's height is about nine tenths of what it is on the ground. The station moves sideways so fast that as it falls, the Earth curves away below it, so it keeps falling round and round. Appa's idea is easy to believe because astronauts look as if nothing is pulling them.",
+     "why": "This is a very common idea that turns out to be wrong. A strong answer gives the evidence and is fair to why people believe the other view."
+    },
+    {
+     "t": "mcq",
+     "p": "Aditi points two telescopes at the same faint galaxy. One has a mirror 1 metre across, the other 2 metres across. What will the 2 metre telescope show?",
+     "opts": [
+      "The same, because both are telescopes",
+      "A brighter picture, because the bigger mirror collects more light",
+      "A smaller picture"
+     ],
+     "a": 1,
+     "why": "A mirror twice as wide has about four times the area, so it collects about four times as much light. Faint things look brighter and clearer.",
+     "how": "e2"
+    },
+    {
+     "t": "write",
+     "p": "Covering half of a lens made the picture dimmer but did not cut it in half. Use this to explain why it does not matter much if a big telescope mirror is made of several pieces fitted together.",
+     "lines": 3,
+     "a": "Every part of a lens or mirror gathers light from the whole view. So each piece of a mirror helps make the whole picture. Fitting pieces together makes one big collecting surface. The James Webb Space Telescope's mirror is made of 18 pieces.",
+     "why": "A strong answer uses the half-lens result: each part makes the whole picture, so pieces add up their light.",
+     "how": "e2"
+    },
+    {
+     "t": "order",
+     "p": "Put these steps of a rocket launch in order.",
+     "items": [
+      "the satellite separates and goes into orbit",
+      "the engines light and the rocket lifts off",
+      "the first stage burns out and drops away",
+      "the countdown reaches zero"
+     ],
+     "a": [
+      "the countdown reaches zero",
+      "the engines light and the rocket lifts off",
+      "the first stage burns out and drops away",
+      "the satellite separates and goes into orbit"
+     ],
+     "why": "A launch goes from countdown, to lift-off, to dropping empty stages, to letting the satellite go once it is high and fast enough."
+    },
+    {
+     "t": "truefalse",
+     "p": "On the Moon, a candle could burn if you lit it outside the lander.",
+     "a": false,
+     "why": "False. The Moon has almost no air, so there is no oxygen for the flame. A candle would not stay lit, just as the flame under the jar went out when its oxygen ran low.",
+     "how": "e1"
+    },
+    {
+     "t": "draw",
+     "p": "Draw a Moon home with an airlock. Show the two doors and where the astronaut stands between them.",
+     "a": "A sealed home with a small room on one side. The small room has an inner door into the home and an outer door to the Moon. The astronaut stands in the small room with both doors shut.",
+     "why": "A strong drawing shows that only one door is open at a time, so the home's air never rushes out.",
+     "how": "c2",
+     "art": "A blank box with a grey Moon ground line at the bottom."
+    },
+    {
+     "t": "mcq",
+     "p": "Why are the best ground telescopes often built on high mountains, like the one at Hanle in Ladakh?",
+     "opts": [
+      "To be closer to the stars",
+      "There is less air above them to blur the light, and fewer clouds",
+      "Mountains are cheaper"
+     ],
+     "a": 1,
+     "why": "A mountain top has less air above it, so less blurring and twinkling, and it is often above the clouds. Being a few kilometres closer to stars that are trillions of kilometres away makes no difference."
+    },
+    {
+     "t": "write",
+     "p": "Some people say spending money on space is a waste. Give one way that satellites help people in India on the ground, and say whether you think that makes the spending worth it.",
+     "lines": 3,
+     "a": "Weather satellites track cyclones, so people on the coast can be moved to safety in time. Satellites also help fishing boats find fish, help with maps on phones, and carry TV signals. A strong answer then gives an honest opinion with a reason.",
+     "why": "This question asks for a fact and an opinion. A strong answer keeps them apart and gives a reason for the opinion."
+    },
+    {
+     "t": "fill",
+     "p": "India's spacecraft that watches the Sun from about 1.5 million km away is called ____.",
+     "a": [
+      "Aditya-L1"
+     ],
+     "why": "Aditya means the Sun. It was launched in 2023 and watches the Sun all the time, with no night and no clouds in the way."
+    },
+    {
+     "t": "mcq",
+     "p": "Before 2009, most scientists thought the Moon was completely dry. What helped change their minds?",
+     "opts": [
+      "Astronauts found a lake",
+      "Chandrayaan-1's instrument found the gap in reflected light that water leaves",
+      "People saw clouds on the Moon"
+     ],
+     "a": 1,
+     "why": "The Moon Mineralogy Mapper on Chandrayaan-1 measured sunlight bouncing off the Moon. Water soaks up some kinds of light, which leaves a gap. That gap showed up over large parts of the Moon."
+    },
+    {
+     "t": "write",
+     "p": "An astronaut breathes in a little less than 1 kg of oxygen a day. Why would a crew of 4 on a 6-month trip to Mars have a much harder job than a crew on the space station?",
+     "lines": 3,
+     "a": "On the space station, new supplies can come up from Earth every few months. On a long trip to Mars, nothing new can be sent, so all the oxygen, water and food must be carried or made and recycled on board for the whole journey. For 4 people that is close to 4 kg of oxygen a day, which over 6 months is more than 700 kg.",
+     "why": "A strong answer notices that a far trip cannot be refilled, and uses the numbers to show how much would be needed."
+    },
+    {
+     "t": "label",
+     "p": "Label the picture of a spacesuit: helmet, oxygen pack, gloves, visor.",
+     "a": "The helmet is round the head, with the visor at the front. The oxygen pack is on the back. The gloves are on the hands.",
+     "why": "A strong labeller puts the oxygen pack on the back, because the suit carries its own air.",
+     "art": "An astronaut in a white spacesuit with four blank label lines."
+    },
+    {
+     "t": "truefalse",
+     "p": "A rocket's roar can be heard by a spacecraft floating nearby in space.",
+     "a": false,
+     "why": "False. Sound travels by shaking the air. In space there is almost no air, so the sound cannot cross the gap."
+    }
+   ]
+  }
+ ],
+ "applications": [
+  "Weather satellites track cyclones over the Bay of Bengal and the Arabian Sea, so people can be moved to safety.",
+  "Satellites carry TV signals to dish antennas on rooftops across India.",
+  "Phone maps find where you are using signals from navigation satellites. India has its own system, called NavIC.",
+  "Fishing boats in Kerala and Tamil Nadu get advice on where fish are likely to be, made using satellite pictures of the sea.",
+  "Satellite pictures help farmers and the government watch crops, floods and forest fires.",
+  "Hospitals use oxygen cylinders, like the oxygen tanks that rockets and astronauts carry.",
+  "Ideas made for space, such as water cleaners and light, strong materials, are used on Earth too.",
+  "Telescopes on Earth and in space find asteroids that come close to the Earth, so we know where they are going."
+ ],
+ "spotted": [
+  {
+   "text": "A dish antenna on a rooftop, pointing at a TV satellite high above the equator.",
+   "art": "Rooftops in a city with small round dish antennas all pointing the same way."
+  },
+  {
+   "text": "The cyclone pictures on the TV news, taken by India's weather satellites.",
+   "art": "A TV screen showing a swirl of white cloud over the Bay of Bengal."
+  },
+  {
+   "text": "A Diwali rocket shooting up with a jet of sparks out of its tail.",
+   "art": "A firework rocket rising from a bottle on a balcony, with sparks streaming down."
+  },
+  {
+   "text": "A doctor's oxygen cylinder in a hospital, carrying oxygen the way a rocket does.",
+   "art": "A tall green cylinder with a gauge next to a hospital bed."
+  },
+  {
+   "text": "The space station gliding over your city as a bright, steady dot after sunset.",
+   "art": "A city skyline at dusk with a bright dot and a dotted line across the sky."
+  },
+  {
+   "text": "The Space Museum at Thumba, near Thiruvananthapuram, in the old church where India's rocket story began.",
+   "art": "An old white church by coconut palms with a small rocket standing outside."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "How much water is there on the Moon, and could people use it?",
+   "why_open": "We know there is ice in dark polar craters, but not how much or how easy it would be to dig out."
+  },
+  {
+   "q": "Can people stay healthy on a trip to Mars and back?",
+   "why_open": "A trip would take more than a year and a half. Nobody yet knows how to keep bones, muscles and eyes healthy, and protect against radiation, for that long."
+  },
+  {
+   "q": "Is there life anywhere else, and could a telescope find it?",
+   "why_open": "New telescopes can study the air of planets around other stars. Nobody knows yet whether any of them have signs of life."
+  },
+  {
+   "q": "Could people make oxygen from Moon rock?",
+   "why_open": "Moon rock is nearly half oxygen by weight, locked in minerals. Small tests work in laboratories, but nobody has yet done it on the Moon."
+  }
+ ],
+ "ask_kids": [
+  "Where does the air around us stop?",
+  "What would you pack first for a day in space? Why?",
+  "Why does a diya go out when you cover it?",
+  "If you were an astronaut, what would you miss most about Earth?",
+  "Which do you think is better to send to Mars, a robot or a person?",
+  "How does the TV get its pictures from a satellite?",
+  "What do you think Pragyan felt about the Moon? What did it sense?",
+  "If you had a telescope, what would you point it at first?"
+ ],
+ "jokes": [
+  {
+   "j": "Why did the candle go out under the jar?",
+   "a": "It ran out of breath."
+  },
+  {
+   "j": "How do astronauts throw a party?",
+   "a": "They planet."
+  },
+  {
+   "j": "Why did the rocket drop its first stage?",
+   "a": "It was carrying too much empty baggage."
+  },
+  {
+   "j": "What do astronauts serve their dosa on?",
+   "a": "Flying saucers."
+  },
+  {
+   "j": "Why did the telescope go to school?",
+   "a": "To get a bigger picture."
+  },
+  {
+   "j": "What is an astronaut's favourite key on the keyboard?",
+   "a": "The space bar."
+  },
+  {
+   "j": "Why is the Moon so good at saving water?",
+   "a": "It keeps it in the shade."
+  },
+  {
+   "j": "Why did the plane refuse to fly to the Moon?",
+   "a": "It said, I need my air."
+  },
+  {
+   "j": "What did Mars say to Mangalyaan?",
+   "a": "Orbit, you made it on your first try!"
+  },
+  {
+   "j": "Why don't astronauts get hungry after launch?",
+   "a": "They just had a big launch."
+  },
+  {
+   "j": "Why did the cow want to go to space?",
+   "a": "To see the Milky Way."
+  },
+  {
+   "j": "Why did the rocket do so well at school?",
+   "a": "It always aimed high."
+  },
+  {
+   "j": "What kind of music do rockets like?",
+   "a": "Anything with a big countdown."
+  },
+  {
+   "j": "Why did the ice cube hide behind the book?",
+   "a": "It was trying to be a Moon crater."
+  },
+  {
+   "j": "How does a rocket get ready for a race?",
+   "a": "It takes a deep breath of liquid oxygen."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "In the jar test, Deepa's small glass held 1 tumbler of water and kept the flame alight for 7 seconds. Her pickle jar held 4 tumblers. If the time grows in step with the air, how long should the flame last under the pickle jar?",
+   "answer": "About 28 seconds.",
+   "explain": "The pickle jar holds 4 times as much air. So the flame should last about 4 times as long. 4 times 7 is 28. Real results will be close to this, not exactly on it.",
+   "math_unit": "math.multiplication.equal-groups.L3",
+   "context": "This problem uses the jar test, where a candle burned under jars of different sizes.",
+   "why_maths": "Multiplying lets you predict a result before you test it, and then check whether the pattern holds.",
+   "how": "e1"
+  },
+  {
+   "problem": "Deepa's results were: small glass 7 seconds, big glass 13 seconds, pickle jar 30 seconds. Her friend says the big glass should have given about 14 seconds, because it held 2 tumblers. Was Deepa's result close enough? Explain.",
+   "answer": "Yes. 13 is only 1 second away from 14.",
+   "explain": "2 times 7 is 14. Deepa got 13. A difference of 1 second is small, and could come from starting the timer a moment late. So the pattern holds: twice the air, about twice the time.",
+   "math_unit": "math.measurement-basics.estimation-and-precision.L3",
+   "context": "This problem compares real results from the jar test with a prediction.",
+   "why_maths": "Deciding whether a result is close enough to a prediction is how scientists tell a real pattern from small mistakes.",
+   "how": "e1"
+  },
+  {
+   "problem": "The Moon is about 30 Earths away. On your lime-sized Earth, 5 cm wide, how far away should the grape Moon go?",
+   "answer": "150 cm.",
+   "explain": "30 lots of 5 cm. 30 times 5 is 150. So the grape goes 150 cm, about one and a half metres, from the lime.",
+   "math_unit": "math.multiplication.multiplication-facts.L3",
+   "context": "This problem uses the lime-sized Earth model.",
+   "why_maths": "Multiplying turns a real distance into a model you can lay out on the floor.",
+   "how": "a1"
+  },
+  {
+   "problem": "A message from Earth takes 12 minutes to reach a rover on Mars. The team sends 'Stop!' Then they wait to see a picture from the rover showing that it stopped. How long after sending do they see that picture?",
+   "answer": "24 minutes.",
+   "explain": "The order takes 12 minutes to get there. The picture takes another 12 minutes to come back. 12 plus 12 is 24 minutes.",
+   "math_unit": "math.time.duration.L3",
+   "context": "This problem is about the delay in talking to a rover on Mars.",
+   "why_maths": "Adding up the time out and the time back shows why a far rover cannot be steered moment by moment.",
+   "how": "c1"
+  },
+  {
+   "problem": "India's first satellite, Aryabhata, was launched in 1975. Chandrayaan-3 landed on the Moon in 2023. How many years apart were they? The first rocket from Thumba was in 1963. How many years before Aryabhata was that?",
+   "answer": "48 years, and 12 years.",
+   "explain": "2023 take away 1975: from 1975 to 2000 is 25 years, and from 2000 to 2023 is 23 more. 25 plus 23 is 48. Then 1975 take away 1963 is 12.",
+   "math_unit": "math.addition-subtraction.mental-strategies.L3",
+   "context": "This problem uses India's space timeline.",
+   "why_maths": "Finding the gaps between years shows how fast India's space programme grew.",
+   "how": "a4"
+  }
+ ],
+ "song": {
+  "topic_level": "sci.sky.L3",
+  "title": "Star, Planet, Moon",
+  "note": "Topic-level song"
+ },
+ "links": [
+  {
+   "title": "ISRO: Indian Space Research Organisation",
+   "url": "https://www.isro.gov.in",
+   "kind": "interactive",
+   "why": "Pictures, videos and news of India's rockets and missions, from Chandrayaan-3 to Aditya-L1."
+  },
+  {
+   "title": "Spot the Station",
+   "url": "https://spotthestation.nasa.gov",
+   "kind": "interactive",
+   "why": "Tells you when the International Space Station will pass over your city, and where to look."
+  },
+  {
+   "title": "Space Museum, Vikram Sarabhai Space Centre",
+   "url": "https://www.vssc.gov.in",
+   "kind": "place",
+   "where": "Thumba, Thiruvananthapuram",
+   "why": "The museum in the old church where India's first rocket team worked in 1963."
+  },
+  {
+   "title": "B.M. Birla Planetarium, Periyar Science and Technology Centre",
+   "url": "",
+   "kind": "place",
+   "where": "Chennai",
+   "why": "A planetarium with shows about the sky and space travel, and science galleries."
+  },
+  {
+   "title": "Jawaharlal Nehru Planetarium",
+   "url": "https://www.taralaya.org",
+   "kind": "place",
+   "where": "Bengaluru",
+   "why": "Sky shows and talks about space exploration."
+  },
+  {
+   "title": "Nehru Planetarium, Nehru Centre",
+   "url": "https://www.nehru-centre.org",
+   "kind": "place",
+   "where": "Mumbai",
+   "why": "Sky shows about the solar system, rockets and astronauts."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-lens",
+   "item": "A magnifying glass, about 5 to 7 cm across",
+   "kind": "tool",
+   "why": "Needed for the half-lens test. Sold cheaply in stationery shops and online. Reading glasses for long sight can stand in.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Used again in the light units and for looking closely at leaves and insects."
+  },
+  {
+   "id": "b-tealights",
+   "item": "A packet of tealight candles",
+   "kind": "material",
+   "why": "Tealights sit steady in their metal cups and are the right height to fit under a small glass. Many homes already have them for Diwali. A short candle stuck on with atta dough also works.",
+   "url": "https://www.amazon.in/s?k=tealight+candles",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Keep the rest for power cuts and festivals."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "Where does space begin?",
+   "a": "About 100 km up."
+  },
+  {
+   "q": "What does a flame need from the air?",
+   "a": "Oxygen."
+  },
+  {
+   "q": "Why does a rocket carry its own oxygen?",
+   "a": "There is no air in space."
+  },
+  {
+   "q": "What is a telescope's main job?",
+   "a": "To collect light."
+  },
+  {
+   "q": "Name India's Moon lander that touched down in 2023.",
+   "a": "Vikram, of Chandrayaan-3."
+  },
+  {
+   "q": "Which planet did Mangalyaan reach?",
+   "a": "Mars."
+  },
+  {
+   "q": "Who was the first Indian in space?",
+   "a": "Rakesh Sharma, in 1984."
+  },
+  {
+   "q": "Why do astronauts float on the space station?",
+   "a": "They are falling round the Earth with the station."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "intro",
+   "a1",
+   "e1",
+   "story",
+   "big_questions",
+   "cards",
+   "g1"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "e1",
+   "summary",
+   "terms",
+   "explanations",
+   "story",
+   "e2",
+   "videos",
+   "a3",
+   "g2",
+   "ws-core",
+   "a4",
+   "a5",
+   "e3",
+   "g1",
+   "agreed",
+   "challenging",
+   "p1",
+   "ws-stretch",
+   "a2",
+   "c1",
+   "c2",
+   "big_questions",
+   "ws-challenge",
+   "open_questions",
+   "quiz"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "e2",
+   "a3",
+   "g2",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: SCI Cards for Galileo (telescope, Jupiter's moons, the Moon's craters) and Katherine Johnson (orbit calculations for crewed flights); the topic's emphasis on credit to women, used in naming the women who led India's missions.",
+   "curriculum/sci.json entry sci.sky.exploring-space.L3 (covers: telescopes, rockets and astronauts; India's space missions). No board chapter is mapped to this subtopic, so no board pack was used.",
+   "Checked against the nearby units so nothing repeats: the balloon rocket and the Goddard story are in sci.forces.push-and-pull.L3; the leaking bottle and weightlessness tests are in sci.gravity.weight-and-mass.L3 and sci.gravity.falling.L3; the lens picture of a window is in sci.light.refraction.L3 (this unit adds covering the lens); the scale of Sun, Earth and Moon is in sci.sky.sun-moon-stars.L3 (this unit's lime model is about the thin air and the height of space)."
+  ],
+  "science": [
+   "Pieters and others, 'Character and spatial distribution of OH/H2O on the surface of the Moon seen by M3 on Chandrayaan-1', Science 326, 2009",
+   "Saal and others, 'Volatile content of lunar volcanic glasses and the presence of water in the Moon's interior', Nature 454, 2008",
+   "Li and others, 'Direct evidence of surface exposed water ice in the lunar polar regions', PNAS 115, 2018",
+   "ISRO mission pages for Aryabhata, SLV-3, Chandrayaan-1, Mars Orbiter Mission, PSLV-C37, Chandrayaan-3, Aditya-L1 and AstroSat (isro.gov.in)",
+   "Vikram Sarabhai Space Centre history of Thumba Equatorial Rocket Launching Station: first launch 21 November 1963, Nike-Apache with a sodium vapour payload",
+   "NASA, 'Life Support Systems' and ECLSS fact sheets (oxygen from electrolysis of water; water recovery on the International Space Station)",
+   "Fédération Aéronautique Internationale, the 100 km Kármán line as the edge of space"
+  ]
+ },
+ "playtest": "Every experiment, activity, game, project and challenge was walked through as if done in a city flat. Choices made: the jar test uses a tealight, which sits steady and fits under a small glass; the containers are measured with water first and then dried, because a wet rim can put the flame out. The water-rising version of the candle test was left out on purpose, because it is often explained wrongly. Times are given as rough ranges, and the step says the order matters more than the numbers. The half-lens test needs one bright window and a darkened room; reading glasses for long sight can replace the magnifying glass, and the step warns never to point a lens at the Sun. The ice test needs direct sunlight for half an hour, so it is outside the spine and says to try another day if it is cloudy. Spotting the space station depends on the sky, so it is outside the spine too. The spine is the opening question, the lime-sized Earth, the jar test, the explanation cards, roots and the quiz, about 85 minutes.",
+ "roots": {
+  "context": "We have timed a candle under jars, found how thin the air is, and followed rockets and astronauts beyond it. Now we ask what this tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "Under the bigger jar, your candle burned longer, because it had more air to use. A flame goes out when the oxygen around it runs low. Space has no air, so rockets carry their own oxygen and astronauts carry their own air. Leaving the Earth means taking some of the Earth's air along.",
+   "habit": "We picture space as more sky, the same air going up and up. But the air is a thin layer close to the ground, with almost nothing above it. We also think of going into space as leaving the Earth behind. No one has gone without bringing the Earth's air, or water to make it.",
+   "evidence": "In The Jar and the Flame, the tealight went out in a few seconds under a small glass, and lasted several times longer under a big jar. In How Far Is Space?, the edge of space was less than half a millimetre above a lime-sized Earth."
+  },
+  "three": {
+   "who_am_i": "You are a body that needs fresh air every few seconds, like the candle needed it under the jar.",
+   "what_is_life": "Plants and algae put oxygen into the air, and you and the candle use it up. Every breath you take was made by living things.",
+   "what_is_this_world": "The Earth is wrapped in a thin skin of air, thinner on a lime than four sheets of paper, and beyond it space is almost empty."
+  },
+  "thread": "All the oxygen in the Earth's air was put there by living things, mostly tiny sea microbes, algae and plants, over a very long time. You breathe it, a candle burns it, and a rocket carries it into space as liquid oxygen. An astronaut's breath on the space station comes from water that was carried up from Earth. So one thin layer of air, made by countless living beings, is shared by every flame and every breath, even the ones beyond the sky.",
+  "teachings": [
+   {
+    "source": "Chandogya Upanishad 5.1",
+    "teaching": "The senses argued about which of them mattered most. Speech left the body for a year, then sight, then hearing, then the mind. Each time, the body lived on. Then breath began to leave, and all the others were pulled out with it, like pegs pulled up by a horse. So they agreed that breath was the greatest.",
+    "link": "An astronaut can go without many comforts for a while. But without air for a few minutes, nothing else matters. That is why every spacecraft and spacesuit is built first of all to hold air."
+   },
+   {
+    "source": "Carl Sagan, Pale Blue Dot, 1994",
+    "teaching": "In 1990, the Voyager 1 spacecraft looked back from about 6 billion kilometres away and photographed the Earth as a tiny bright dot. Sagan wrote about that dot: 'That's here. That's home. That's us.' Everyone who has ever lived, lived there.",
+    "link": "From far enough away, the whole Earth and its thin air are one small dot. Every astronaut carries a little of that dot's air with them, because it is the only air we have."
+   }
+  ],
+  "science": [
+   {
+    "text": "Almost all the oxygen in the air was made by living things, mostly algae, bacteria and plants, using sunlight.",
+    "status": "settled"
+   },
+   {
+    "text": "Moon rock is nearly half oxygen by weight, locked in minerals. Scientists are testing ways to free it, so future astronauts might not need to carry all their air from Earth.",
+    "status": "idea"
+   }
+  ],
+  "other_view": {
+   "who": "Many space engineers",
+   "view": "Air in space is an engineering problem, and engineering can solve it. One day oxygen may be made from Moon rock or from ice on Mars, so people would no longer depend on air from Earth. Calling it a piece of the Earth is a nice thought, but oxygen is oxygen, wherever it comes from."
+  },
+  "practice": {
+   "title": "Where does this breath come from?",
+   "mins": 3,
+   "say": "Sit near an open window. Put one hand on your tummy. Breathe in slowly through your nose, and feel the cool air come in. Breathe out slowly, and feel the warm air go out. Do it three more times. Now think: this air came in through the window. Plants and tiny sea algae made its oxygen. An astronaut has to bring every breath from here. Take one more slow breath, and open your eyes.",
+   "kid": "Sit by a window. Breathe in slowly. Feel the cool air. Breathe out slowly. Do it three times. Where did this air come from?"
+  },
+  "ask": [
+   "If an astronaut breathes air made from water carried up from Earth, have they really left the Earth?",
+   "The oxygen you breathe was made by plants and algae. Who else's work is inside your breath?",
+   "One day people may make air from Moon rock. Would that air be any different from the air here?"
+  ],
+  "art": "A child sitting by an open window breathing in, with faint lines of air flowing in from potted plants outside, and in the sky beyond, a tiny bright space station."
+ },
+ "how_we_found_out": {
+  "story": "Between 1969 and 1972, astronauts brought back about 380 kilograms of rock and dust from the Moon. Scientists tested it for water and found almost none. The few traces they did find, they blamed on damp air from Earth getting into the boxes. So for nearly 40 years, most scientists believed the Moon was bone dry. On 22 October 2008, India launched its first Moon mission, Chandrayaan-1, from Sriharikota. It carried an instrument from NASA called the Moon Mineralogy Mapper, led by the American scientist Carle Pieters. It measured the sunlight bouncing off the Moon. Water soaks up some kinds of light, which our eyes cannot see, and leaves a gap in the reflected light. The Mapper found that gap over large parts of the Moon, strongest near the poles. In September 2009, Pieters and her team reported thin traces of water in the Moon's dust. Two other spacecraft had seen the same. In 2008, scientists also found tiny amounts of water inside glass beads in the old Apollo rocks. In 2018, a study of Chandrayaan-1's data found ice in dark craters at both poles. The dry Moon idea was wrong.",
+  "who": "ISRO's Chandrayaan-1 team, and Carle Pieters, an American scientist who led NASA's Moon Mineralogy Mapper on board",
+  "when": "1969 to 1972 (Moon rocks brought back), 2008 (Chandrayaan-1 launched), 2009 (water traces reported) and 2018 (polar ice found in its data)",
+  "wrong_idea": "Most scientists thought the Moon was completely dry, because the Apollo rocks seemed to have no water. Chandrayaan-1 measured the light reflected by the Moon and found the gap that water leaves, over much of the surface. Later its data showed ice in the dark polar craters."
+ }
+}
