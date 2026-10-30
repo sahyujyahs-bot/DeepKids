@@ -1875,6 +1875,65 @@ dialog.mini::backdrop {
   border-top: 2px solid var(--line);
   font: 600 17px var(--display);
 }
+.ontrack {
+  display: grid;
+  gap: 16px;
+}
+.trow2 {
+  display: grid;
+  gap: 6px;
+}
+.trow2 .behind {
+  color: var(--bad);
+  font-weight: 700;
+}
+.trow2 .ahead {
+  color: var(--good);
+  font-weight: 700;
+}
+.trkbar {
+  position: relative;
+  height: 14px;
+  border-radius: 7px;
+  background: var(--sunk);
+}
+.trkbar i {
+  position: absolute;
+  inset: 0 auto 0 0;
+  border-radius: 7px;
+  background: var(--c);
+}
+.trkbar b {
+  position: absolute;
+  top: -4px;
+  bottom: -4px;
+  width: 3px;
+  margin-left: -1px;
+  background: var(--ink);
+  border-radius: 2px;
+}
+.callegend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 14px;
+  justify-content: center;
+  font-size: 13px;
+}
+.callegend span {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.callegend i {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--c);
+}
+.callegend i.todo {
+  background: none;
+  box-shadow: inset 0 0 0 2px var(--c);
+}
 .yearlist {
   display: grid;
   gap: 8px;
@@ -2056,11 +2115,10 @@ dialog.mini::backdrop {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: var(--c);
-  opacity: 0.55;
+  box-shadow: inset 0 0 0 2px var(--c);
 }
 .beads i.ok {
-  opacity: 1;
+  background: var(--c);
 }
 .beads i.ev {
   background: var(--gum);
@@ -2073,9 +2131,9 @@ dialog.mini::backdrop {
   max-width: 190px;
 }
 .pebble {
-  border: 0;
+  border: 1px solid var(--line);
   border-radius: 28px 28px 22px 22px;
-  background: color-mix(in srgb, var(--c) 30%, var(--surface));
+  background: var(--surface);
   padding: 14px 10px;
   display: grid;
   align-content: start;
@@ -14266,24 +14324,6 @@ function fxTake(queue, date) {
   }
   return queue.shift();
 }
-/* year-end check: when will this subject's board-required lessons be done at the current pace? */
-function fxCoverageNote() {
-  if (S.board !== "combined") return "";
-  const rows = S.subjects
-    .map((s) => {
-      const sc = schedule(s, 800),
-        R = sc.filter((x) => fxReq(x.u) && x.u.level === S.levels[s]);
-      if (!R.length) return "";
-      const last = R[R.length - 1].date,
-        end = fxYearEnd(),
-        ok = last <= end;
-      return `<li>${SUBJ[s]}: board topics done by <b>${fmt(last)}</b> ${ok ? "✔ before the year ends (" + fmt(end) + ")" : `⚠️ after the year ends (${fmt(end)}). Add a day or a few minutes a day in Pace, or the sprint weeks will catch up.`}</li>`;
-    })
-    .join("");
-  return rows
-    ? `<section class="sec"><div class="sech"><h3>On track for the year?</h3></div><ul class="xs">${rows}</ul><p class="xs muted">One week each quarter is a catch-up sprint: only board topics are planned that week.</p></section>`
-    : "";
-}
 /* ongoing multi-day experiments and projects from units: today's check-in and its minutes */
 function fxOngoing(date) {
   const out = [];
@@ -14425,12 +14465,6 @@ function fxPractiseAll() {
 }
 
 /* Library: topics, syllabus browsing, resources, the home shelf */
-const combinedNote = () => {
-  if (S.board !== "combined") return "";
-  const L = DATA.combined?.sci?.[S.levels?.sci] || [],
-    w = L.filter((e) => e.k).length;
-  return `<section class="card r-out tint"><span class="eyebrow">DeepKids track · Class ${S.levels?.sci || 1}</span><p class="sm">Science this year covers <b>${L.length} topics</b> from NCERT, Cambridge and NIOS, each at the earliest class any board teaches it. <b>${w}</b> are written in full on the DeepKids track (stories, big ideas, open questions, games, Mission books). The rest use the best board chapter for now and switch over as they are written. Maths, English and Hindi follow NCERT until their topic ladders are ready.</p><button class="link sm" data-act="libcombined" style="justify-self:start">See the whole Combined ladder in the Library →</button></section>`;
-};
 function combinedTopicList() {
   const sj = "sci",
     cls = Object.keys(DATA.combined?.[sj] || {})
@@ -17352,7 +17386,7 @@ function yearOrbit() {
   }
   S.subjects.forEach((s, i) => {
     const r = 66 + i * 24;
-    o += `<circle cx="${c}" cy="${c}" r="${r}" fill="none" stroke="color-mix(in srgb,${SUBJ_BLOB[s][0]} 35%,transparent)" stroke-width="10"/>`;
+    o += `<circle class="${SC(s)}" cx="${c}" cy="${c}" r="${r}" fill="none" style="stroke:color-mix(in srgb,var(--c) 30%,transparent)" stroke-width="10"/>`;
     plannedUnits(s).forEach((u) => {
       const d = fd[u.k];
       if (!d) return;
@@ -17367,7 +17401,7 @@ function yearOrbit() {
   });
   const [nx, ny] = pt(ang(today), 158);
   o += `<line x1="${c}" y1="${c}" x2="${nx.toFixed(1)}" y2="${ny.toFixed(1)}" stroke="var(--tang)" stroke-width="2.5" stroke-linecap="round"/><circle cx="${nx.toFixed(1)}" cy="${ny.toFixed(1)}" r="5" fill="var(--tang)"/>`;
-  return `<div class="orbit"><svg viewBox="0 0 ${W} ${W}" role="img" aria-label="The year's plan as orbits">${o}${kidBlob("bob", "happy", `x="${c - 26}" y="${c - 26}" width="52" height="52"`)}</svg></div><div class="row" style="justify-content:center">${S.subjects.map((s) => `<span class="chip ${SC(s)}"><span class="dotc"></span>${SUBJ[s]}</span>`).join("")}<span class="chip"><span class="dotc" style="--c:var(--tang)"></span>Today</span></div><p class="xs muted" style="text-align:center">Each ring is a subject; each bead is a chapter, placed in the month it starts. Filled beads are done; the glowing one is in progress. Tap a bead to open it.</p>${yearList(fd, m0)}`;
+  return `<div class="orbit"><svg viewBox="0 0 ${W} ${W}" role="img" aria-label="The year's plan as orbits">${o}${kidBlob("bob", "happy", `x="${c - 26}" y="${c - 26}" width="52" height="52"`)}</svg></div>${calLegend()}<p class="xs muted" style="text-align:center">Each ring is a subject; each bead is a topic, in the month it starts. The red line is today. Tap a bead to open it.</p>${yearList(fd, m0)}`;
 }
 function sessMap() {
   const by = {};
@@ -17379,6 +17413,9 @@ function sessMap() {
   });
   return by;
 }
+// the same key under every calendar view: one colour per subject, everywhere in the app
+const calLegend = () =>
+  `<div class="callegend">${S.subjects.map((s) => `<span class="${SC(s)}"><i></i>${SUBJ[s]}</span>`).join("")}<span><i class="todo" style="--c:var(--muted)"></i>planned</span><span><i style="--c:var(--muted)"></i>done</span><span><i style="--c:var(--gum);border-radius:2px;transform:rotate(45deg)"></i>class or outing</span></div>`;
 function monthView() {
   const by = sessMap(),
     b = new Date(parse(today));
@@ -17403,7 +17440,7 @@ function monthView() {
     if (new Date(start.getFullYear(), start.getMonth(), start.getDate() + (w + 1) * 7).getMonth() !== m && w >= 3)
       break;
   }
-  return `<div class="pager"><button class="iconbtn" data-act="pmon" data-d="-1" aria-label="Previous month">${icon("back")}</button><h3 style="font-size:20px">${b.toLocaleDateString(undefined, { month: "long", year: "numeric" })}</h3><button class="iconbtn" data-act="pmon" data-d="1" aria-label="Next month">${icon("next")}</button></div><div class="mhead">${["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"].map((x) => `<span>${x}</span>`).join("")}</div><div class="month">${rows}</div><p class="xs muted">Each bead is a lesson in that subject's colour; a pink diamond is a class or outing. Tap a day to see it.</p>`;
+  return `<div class="pager"><button class="iconbtn" data-act="pmon" data-d="-1" aria-label="Previous month">${icon("back")}</button><h3 style="font-size:20px">${b.toLocaleDateString(undefined, { month: "long", year: "numeric" })}</h3><button class="iconbtn" data-act="pmon" data-d="1" aria-label="Next month">${icon("next")}</button></div><div class="mhead">${["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"].map((x) => `<span>${x}</span>`).join("")}</div><div class="month">${rows}</div>${calLegend()}<p class="xs muted" style="text-align:center">Tap a day to see it.</p>`;
 }
 function weekView() {
   const by = sessMap(),
@@ -17415,13 +17452,13 @@ function weekView() {
     return iso(d);
   });
   return `<div class="pager"><button class="iconbtn" data-act="wk2" data-d="-1" aria-label="Previous week">${icon("back")}</button><h3 style="font-size:20px">${ui.week ? "Week of " + fmt(days[0]) : "This week"}</h3><button class="iconbtn" data-act="wk2" data-d="1" aria-label="Next week">${icon("next")}</button></div><div class="hs pebbles">${days
-    .map((d, i) => {
+    .map((d) => {
       const L = by[d] || [],
         ev = eventsOn(d),
         td = todosOn(d).filter((x) => !x.done);
-      return `<button class="pebble ${d === today ? "today" : ""}" style="--c:${PAL[i % PAL.length]}" data-act="pday" data-d="${d}"><span class="eyebrow">${DAYN[parse(d).getDay()]}</span><b>${parse(d).getDate()}</b>${L.map((x) => `<span class="pchip ${SC(x.s)} ${x.done ? "ok" : ""}">${esc(x.t)}</span>`).join("")}${ev.map((e) => `<span class="pchip r-out">${clock(hm(e.start))} ${esc(e.title)}</span>`).join("")}${td.map((x) => `<span class="pchip r-you">${esc(x.title)}</span>`).join("")}${!L.length && !ev.length && !td.length ? `<span class="xs muted">Free day</span>` : ""}</button>`;
+      return `<button class="pebble ${d === today ? "today" : ""}" data-act="pday" data-d="${d}"><span class="eyebrow">${DAYN[parse(d).getDay()]}</span><b>${parse(d).getDate()}</b>${L.map((x) => `<span class="pchip ${SC(x.s)} ${x.done ? "ok" : ""}">${esc(x.t)}</span>`).join("")}${ev.map((e) => `<span class="pchip r-out">${clock(hm(e.start))} ${esc(e.title)}</span>`).join("")}${td.map((x) => `<span class="pchip r-you">${esc(x.title)}</span>`).join("")}${!L.length && !ev.length && !td.length ? `<span class="xs muted">${d < (S.start || today) ? "Before your plan began" : "Free day"}</span>` : ""}</button>`;
     })
-    .join("")}</div>`;
+    .join("")}</div>${calLegend()}`;
 }
 function dayView() {
   const d = ui.pday || today;
@@ -17584,14 +17621,8 @@ function viewPlanner() {
       `<details class="sec fxfold"><summary><b>To-dos and other plans</b></summary>${planPart("todo")}</details>`
     );
   }
-  // Up next: two folded boxes, each shown only when it has something in it, then the order of what comes next
-  if (k === "shop") return head + shopView();
-  if (k === "next") {
-    const fold = (t, body) =>
-        body ? `<details class="sec fxfold"><summary><b>${t}</b></summary>${body}</details>` : "",
-      track = combinedNote() + fxCoverageNote();
-    return head + fold("Are we on track this year?", track) + planPart("queue");
-  }
+  // Up next: the order of what comes next
+  if (k === "next") return head + planPart("queue");
   // To finish: one subject filter, then the two lists one after the other
   if (k === "finish")
     return (
@@ -17934,12 +17965,45 @@ function doneHistory() {
        : `<p class="note">Nothing finished here yet. Things you finish show up here, newest first. What's in progress is under Plan → Ongoing.</p>`
    }</section>`;
 }
+/* Are we on track? For each subject: how much of the year has gone, how much of this year's syllabus is done, so how far
+   ahead or behind, which topics would catch up, and the extras done beyond the syllabus. */
+function onTrackView() {
+  const start = S.start || today,
+    end = fxYearEnd(),
+    span = Math.max(1, parse(end) - parse(start)),
+    gone = Math.min(1, Math.max(0, (parse(today) - parse(start)) / span));
+  const rows = S.subjects
+    .map((s) => {
+      const all = plannedUnits(s),
+        U = all.filter((u) => u.level === S.levels[s] && (S.board !== "combined" || fxReq(u)));
+      if (!U.length) return "";
+      const isDone = (u) => rank[coverage(u)] >= 2,
+        done = U.filter(isDone).length,
+        pct = done / U.length,
+        diff = Math.round((pct - gone) * 100),
+        owed = Math.max(0, Math.round(gone * U.length) - done),
+        catchUp = U.filter((u) => !isDone(u)).slice(0, owed),
+        extras = all.filter((u) => isDone(u) && !U.includes(u)),
+        sc = schedule(s, 800).filter((x) => U.includes(x.u)),
+        last = sc.length ? sc[sc.length - 1].date : today;
+      return `<div class="trow2 ${SC(s)}"><div class="row" style="justify-content:space-between"><b>${SUBJ[s]}</b><span class="sm ${diff < -5 ? "behind" : diff > 5 ? "ahead" : ""}">${diff < -5 ? `${-diff}% behind` : diff > 5 ? `${diff}% ahead` : "On track"}</span></div>
+       <div class="trkbar" role="img" aria-label="${Math.round(pct * 100)}% of this year's ${SUBJ[s]} done; ${Math.round(gone * 100)}% of the year gone"><i style="width:${Math.round(pct * 100)}%"></i><b style="left:${Math.round(gone * 100)}%"></b></div>
+       <p class="xs muted">${done} of ${U.length} topics done (${Math.round(pct * 100)}%) · at this pace, finished by ${fmt(last)}${last > end ? " ⚠️ after the year ends" : ""}</p>
+       ${catchUp.length ? `<details><summary class="sm">To catch up: ${catchUp.length} topic${catchUp.length > 1 ? "s" : ""}</summary>${catchUp.map((u) => `<button class="plain ylrow" data-act="chapter" data-k="${u.k}">${esc(chT(u))}</button>`).join("")}</details>` : ""}
+       ${extras.length ? `<details><summary class="sm">Extra topics done: ${extras.length}</summary>${extras.map((u) => `<button class="plain ylrow" data-act="chapter" data-k="${u.k}">✓ ${esc(chT(u))}</button>`).join("")}</details>` : ""}</div>`;
+    })
+    .join("");
+  return rows
+    ? `<section class="sec"><div class="sech"><h3>Are we on track?</h3></div><div class="card ontrack"><p class="sm">${Math.round(gone * 100)}% of the school year has gone (${fmt(start)} to ${fmt(end)}). Each bar is this year's syllabus: the filled part is done, the line is where you'd be by now.</p>${rows}</div></section>`
+    : "";
+}
 function viewJourneyTabs() {
   const k = seg("journey"),
     kid = esc(S.child || "Your child");
   let h =
     pageHead(`${kid}'s progress`, kidBlob("", "happy", 'width="50" height="50"')) + segBar("journey") + `</section>`;
   if (k === "overview") {
+    h += onTrackView();
     const o = viewJourney0().replace(
       /<button class="menurow" data-act="(rem|told|track|uploads|school|folder|todo|hist)"[\s\S]*?<\/button>/g,
       "",

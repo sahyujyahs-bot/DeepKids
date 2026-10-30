@@ -1887,6 +1887,65 @@ dialog.mini::backdrop {
   border-top: 2px solid var(--line);
   font: 600 17px var(--display);
 }
+.ontrack {
+  display: grid;
+  gap: 16px;
+}
+.trow2 {
+  display: grid;
+  gap: 6px;
+}
+.trow2 .behind {
+  color: var(--bad);
+  font-weight: 700;
+}
+.trow2 .ahead {
+  color: var(--good);
+  font-weight: 700;
+}
+.trkbar {
+  position: relative;
+  height: 14px;
+  border-radius: 7px;
+  background: var(--sunk);
+}
+.trkbar i {
+  position: absolute;
+  inset: 0 auto 0 0;
+  border-radius: 7px;
+  background: var(--c);
+}
+.trkbar b {
+  position: absolute;
+  top: -4px;
+  bottom: -4px;
+  width: 3px;
+  margin-left: -1px;
+  background: var(--ink);
+  border-radius: 2px;
+}
+.callegend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 14px;
+  justify-content: center;
+  font-size: 13px;
+}
+.callegend span {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.callegend i {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--c);
+}
+.callegend i.todo {
+  background: none;
+  box-shadow: inset 0 0 0 2px var(--c);
+}
 .yearlist {
   display: grid;
   gap: 8px;
@@ -2068,11 +2127,10 @@ dialog.mini::backdrop {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: var(--c);
-  opacity: 0.55;
+  box-shadow: inset 0 0 0 2px var(--c);
 }
 .beads i.ok {
-  opacity: 1;
+  background: var(--c);
 }
 .beads i.ev {
   background: var(--gum);
@@ -2085,9 +2143,9 @@ dialog.mini::backdrop {
   max-width: 190px;
 }
 .pebble {
-  border: 0;
+  border: 1px solid var(--line);
   border-radius: 28px 28px 22px 22px;
-  background: color-mix(in srgb, var(--c) 30%, var(--surface));
+  background: var(--surface);
   padding: 14px 10px;
   display: grid;
   align-content: start;
@@ -6432,9 +6490,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="489b50bcdef4cb3342";window.DK_APPV="489b50bcde";window.DK_DATAV="f4cb1bc675"</script>
-<script src="/config.js?v=489b50bcdef4cb3342"></script>
+<script>window.DK_BUILD="76d3b31e69f4cb3342";window.DK_APPV="76d3b31e69";window.DK_DATAV="f4cb1bc675"</script>
+<script src="/config.js?v=76d3b31e69f4cb3342"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=489b50bcdef4cb3342"></script>
+<script src="/platform.js?v=76d3b31e69f4cb3342"></script>
 </body>
 </html>

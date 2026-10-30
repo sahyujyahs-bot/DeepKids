@@ -1077,7 +1077,7 @@ function yearOrbit() {
   }
   S.subjects.forEach((s, i) => {
     const r = 66 + i * 24;
-    o += `<circle cx="${c}" cy="${c}" r="${r}" fill="none" stroke="color-mix(in srgb,${SUBJ_BLOB[s][0]} 35%,transparent)" stroke-width="10"/>`;
+    o += `<circle class="${SC(s)}" cx="${c}" cy="${c}" r="${r}" fill="none" style="stroke:color-mix(in srgb,var(--c) 30%,transparent)" stroke-width="10"/>`;
     plannedUnits(s).forEach((u) => {
       const d = fd[u.k];
       if (!d) return;
@@ -1092,7 +1092,7 @@ function yearOrbit() {
   });
   const [nx, ny] = pt(ang(today), 158);
   o += `<line x1="${c}" y1="${c}" x2="${nx.toFixed(1)}" y2="${ny.toFixed(1)}" stroke="var(--tang)" stroke-width="2.5" stroke-linecap="round"/><circle cx="${nx.toFixed(1)}" cy="${ny.toFixed(1)}" r="5" fill="var(--tang)"/>`;
-  return `<div class="orbit"><svg viewBox="0 0 ${W} ${W}" role="img" aria-label="The year's plan as orbits">${o}${kidBlob("bob", "happy", `x="${c - 26}" y="${c - 26}" width="52" height="52"`)}</svg></div><div class="row" style="justify-content:center">${S.subjects.map((s) => `<span class="chip ${SC(s)}"><span class="dotc"></span>${SUBJ[s]}</span>`).join("")}<span class="chip"><span class="dotc" style="--c:var(--tang)"></span>Today</span></div><p class="xs muted" style="text-align:center">Each ring is a subject; each bead is a chapter, placed in the month it starts. Filled beads are done; the glowing one is in progress. Tap a bead to open it.</p>${yearList(fd, m0)}`;
+  return `<div class="orbit"><svg viewBox="0 0 ${W} ${W}" role="img" aria-label="The year's plan as orbits">${o}${kidBlob("bob", "happy", `x="${c - 26}" y="${c - 26}" width="52" height="52"`)}</svg></div>${calLegend()}<p class="xs muted" style="text-align:center">Each ring is a subject; each bead is a topic, in the month it starts. The red line is today. Tap a bead to open it.</p>${yearList(fd, m0)}`;
 }
 function sessMap() {
   const by = {};
@@ -1104,6 +1104,9 @@ function sessMap() {
   });
   return by;
 }
+// the same key under every calendar view: one colour per subject, everywhere in the app
+const calLegend = () =>
+  `<div class="callegend">${S.subjects.map((s) => `<span class="${SC(s)}"><i></i>${SUBJ[s]}</span>`).join("")}<span><i class="todo" style="--c:var(--muted)"></i>planned</span><span><i style="--c:var(--muted)"></i>done</span><span><i style="--c:var(--gum);border-radius:2px;transform:rotate(45deg)"></i>class or outing</span></div>`;
 function monthView() {
   const by = sessMap(),
     b = new Date(parse(today));
@@ -1128,7 +1131,7 @@ function monthView() {
     if (new Date(start.getFullYear(), start.getMonth(), start.getDate() + (w + 1) * 7).getMonth() !== m && w >= 3)
       break;
   }
-  return `<div class="pager"><button class="iconbtn" data-act="pmon" data-d="-1" aria-label="Previous month">${icon("back")}</button><h3 style="font-size:20px">${b.toLocaleDateString(undefined, { month: "long", year: "numeric" })}</h3><button class="iconbtn" data-act="pmon" data-d="1" aria-label="Next month">${icon("next")}</button></div><div class="mhead">${["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"].map((x) => `<span>${x}</span>`).join("")}</div><div class="month">${rows}</div><p class="xs muted">Each bead is a lesson in that subject's colour; a pink diamond is a class or outing. Tap a day to see it.</p>`;
+  return `<div class="pager"><button class="iconbtn" data-act="pmon" data-d="-1" aria-label="Previous month">${icon("back")}</button><h3 style="font-size:20px">${b.toLocaleDateString(undefined, { month: "long", year: "numeric" })}</h3><button class="iconbtn" data-act="pmon" data-d="1" aria-label="Next month">${icon("next")}</button></div><div class="mhead">${["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"].map((x) => `<span>${x}</span>`).join("")}</div><div class="month">${rows}</div>${calLegend()}<p class="xs muted" style="text-align:center">Tap a day to see it.</p>`;
 }
 function weekView() {
   const by = sessMap(),
@@ -1140,13 +1143,13 @@ function weekView() {
     return iso(d);
   });
   return `<div class="pager"><button class="iconbtn" data-act="wk2" data-d="-1" aria-label="Previous week">${icon("back")}</button><h3 style="font-size:20px">${ui.week ? "Week of " + fmt(days[0]) : "This week"}</h3><button class="iconbtn" data-act="wk2" data-d="1" aria-label="Next week">${icon("next")}</button></div><div class="hs pebbles">${days
-    .map((d, i) => {
+    .map((d) => {
       const L = by[d] || [],
         ev = eventsOn(d),
         td = todosOn(d).filter((x) => !x.done);
-      return `<button class="pebble ${d === today ? "today" : ""}" style="--c:${PAL[i % PAL.length]}" data-act="pday" data-d="${d}"><span class="eyebrow">${DAYN[parse(d).getDay()]}</span><b>${parse(d).getDate()}</b>${L.map((x) => `<span class="pchip ${SC(x.s)} ${x.done ? "ok" : ""}">${esc(x.t)}</span>`).join("")}${ev.map((e) => `<span class="pchip r-out">${clock(hm(e.start))} ${esc(e.title)}</span>`).join("")}${td.map((x) => `<span class="pchip r-you">${esc(x.title)}</span>`).join("")}${!L.length && !ev.length && !td.length ? `<span class="xs muted">Free day</span>` : ""}</button>`;
+      return `<button class="pebble ${d === today ? "today" : ""}" data-act="pday" data-d="${d}"><span class="eyebrow">${DAYN[parse(d).getDay()]}</span><b>${parse(d).getDate()}</b>${L.map((x) => `<span class="pchip ${SC(x.s)} ${x.done ? "ok" : ""}">${esc(x.t)}</span>`).join("")}${ev.map((e) => `<span class="pchip r-out">${clock(hm(e.start))} ${esc(e.title)}</span>`).join("")}${td.map((x) => `<span class="pchip r-you">${esc(x.title)}</span>`).join("")}${!L.length && !ev.length && !td.length ? `<span class="xs muted">${d < (S.start || today) ? "Before your plan began" : "Free day"}</span>` : ""}</button>`;
     })
-    .join("")}</div>`;
+    .join("")}</div>${calLegend()}`;
 }
 function dayView() {
   const d = ui.pday || today;
@@ -1309,14 +1312,8 @@ function viewPlanner() {
       `<details class="sec fxfold"><summary><b>To-dos and other plans</b></summary>${planPart("todo")}</details>`
     );
   }
-  // Up next: two folded boxes, each shown only when it has something in it, then the order of what comes next
-  if (k === "shop") return head + shopView();
-  if (k === "next") {
-    const fold = (t, body) =>
-        body ? `<details class="sec fxfold"><summary><b>${t}</b></summary>${body}</details>` : "",
-      track = combinedNote() + fxCoverageNote();
-    return head + fold("Are we on track this year?", track) + planPart("queue");
-  }
+  // Up next: the order of what comes next
+  if (k === "next") return head + planPart("queue");
   // To finish: one subject filter, then the two lists one after the other
   if (k === "finish")
     return (

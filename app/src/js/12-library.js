@@ -1,10 +1,4 @@
 /* Library: topics, syllabus browsing, resources, the home shelf */
-const combinedNote = () => {
-  if (S.board !== "combined") return "";
-  const L = DATA.combined?.sci?.[S.levels?.sci] || [],
-    w = L.filter((e) => e.k).length;
-  return `<section class="card r-out tint"><span class="eyebrow">DeepKids track · Class ${S.levels?.sci || 1}</span><p class="sm">Science this year covers <b>${L.length} topics</b> from NCERT, Cambridge and NIOS, each at the earliest class any board teaches it. <b>${w}</b> are written in full on the DeepKids track (stories, big ideas, open questions, games, Mission books). The rest use the best board chapter for now and switch over as they are written. Maths, English and Hindi follow NCERT until their topic ladders are ready.</p><button class="link sm" data-act="libcombined" style="justify-self:start">See the whole Combined ladder in the Library →</button></section>`;
-};
 function combinedTopicList() {
   const sj = "sci",
     cls = Object.keys(DATA.combined?.[sj] || {})

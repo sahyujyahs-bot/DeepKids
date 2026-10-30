@@ -165,12 +165,45 @@ function doneHistory() {
        : `<p class="note">Nothing finished here yet. Things you finish show up here, newest first. What's in progress is under Plan → Ongoing.</p>`
    }</section>`;
 }
+/* Are we on track? For each subject: how much of the year has gone, how much of this year's syllabus is done, so how far
+   ahead or behind, which topics would catch up, and the extras done beyond the syllabus. */
+function onTrackView() {
+  const start = S.start || today,
+    end = fxYearEnd(),
+    span = Math.max(1, parse(end) - parse(start)),
+    gone = Math.min(1, Math.max(0, (parse(today) - parse(start)) / span));
+  const rows = S.subjects
+    .map((s) => {
+      const all = plannedUnits(s),
+        U = all.filter((u) => u.level === S.levels[s] && (S.board !== "combined" || fxReq(u)));
+      if (!U.length) return "";
+      const isDone = (u) => rank[coverage(u)] >= 2,
+        done = U.filter(isDone).length,
+        pct = done / U.length,
+        diff = Math.round((pct - gone) * 100),
+        owed = Math.max(0, Math.round(gone * U.length) - done),
+        catchUp = U.filter((u) => !isDone(u)).slice(0, owed),
+        extras = all.filter((u) => isDone(u) && !U.includes(u)),
+        sc = schedule(s, 800).filter((x) => U.includes(x.u)),
+        last = sc.length ? sc[sc.length - 1].date : today;
+      return `<div class="trow2 ${SC(s)}"><div class="row" style="justify-content:space-between"><b>${SUBJ[s]}</b><span class="sm ${diff < -5 ? "behind" : diff > 5 ? "ahead" : ""}">${diff < -5 ? `${-diff}% behind` : diff > 5 ? `${diff}% ahead` : "On track"}</span></div>
+       <div class="trkbar" role="img" aria-label="${Math.round(pct * 100)}% of this year's ${SUBJ[s]} done; ${Math.round(gone * 100)}% of the year gone"><i style="width:${Math.round(pct * 100)}%"></i><b style="left:${Math.round(gone * 100)}%"></b></div>
+       <p class="xs muted">${done} of ${U.length} topics done (${Math.round(pct * 100)}%) · at this pace, finished by ${fmt(last)}${last > end ? " ⚠️ after the year ends" : ""}</p>
+       ${catchUp.length ? `<details><summary class="sm">To catch up: ${catchUp.length} topic${catchUp.length > 1 ? "s" : ""}</summary>${catchUp.map((u) => `<button class="plain ylrow" data-act="chapter" data-k="${u.k}">${esc(chT(u))}</button>`).join("")}</details>` : ""}
+       ${extras.length ? `<details><summary class="sm">Extra topics done: ${extras.length}</summary>${extras.map((u) => `<button class="plain ylrow" data-act="chapter" data-k="${u.k}">✓ ${esc(chT(u))}</button>`).join("")}</details>` : ""}</div>`;
+    })
+    .join("");
+  return rows
+    ? `<section class="sec"><div class="sech"><h3>Are we on track?</h3></div><div class="card ontrack"><p class="sm">${Math.round(gone * 100)}% of the school year has gone (${fmt(start)} to ${fmt(end)}). Each bar is this year's syllabus: the filled part is done, the line is where you'd be by now.</p>${rows}</div></section>`
+    : "";
+}
 function viewJourneyTabs() {
   const k = seg("journey"),
     kid = esc(S.child || "Your child");
   let h =
     pageHead(`${kid}'s progress`, kidBlob("", "happy", 'width="50" height="50"')) + segBar("journey") + `</section>`;
   if (k === "overview") {
+    h += onTrackView();
     const o = viewJourney0().replace(
       /<button class="menurow" data-act="(rem|told|track|uploads|school|folder|todo|hist)"[\s\S]*?<\/button>/g,
       "",

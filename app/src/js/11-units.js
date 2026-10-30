@@ -1560,24 +1560,6 @@ function fxTake(queue, date) {
   }
   return queue.shift();
 }
-/* year-end check: when will this subject's board-required lessons be done at the current pace? */
-function fxCoverageNote() {
-  if (S.board !== "combined") return "";
-  const rows = S.subjects
-    .map((s) => {
-      const sc = schedule(s, 800),
-        R = sc.filter((x) => fxReq(x.u) && x.u.level === S.levels[s]);
-      if (!R.length) return "";
-      const last = R[R.length - 1].date,
-        end = fxYearEnd(),
-        ok = last <= end;
-      return `<li>${SUBJ[s]}: board topics done by <b>${fmt(last)}</b> ${ok ? "✔ before the year ends (" + fmt(end) + ")" : `⚠️ after the year ends (${fmt(end)}). Add a day or a few minutes a day in Pace, or the sprint weeks will catch up.`}</li>`;
-    })
-    .join("");
-  return rows
-    ? `<section class="sec"><div class="sech"><h3>On track for the year?</h3></div><ul class="xs">${rows}</ul><p class="xs muted">One week each quarter is a catch-up sprint: only board topics are planned that week.</p></section>`
-    : "";
-}
 /* ongoing multi-day experiments and projects from units: today's check-in and its minutes */
 function fxOngoing(date) {
   const out = [];
