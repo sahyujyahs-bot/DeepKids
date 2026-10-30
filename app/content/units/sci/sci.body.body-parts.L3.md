@@ -182,11 +182,11 @@ We have been learning about the outside of the body, from skin and hair to the r
 - *what is life:* A living body builds itself. Its cells grow and divide, and the exact shape of each part comes out of that growing.
 - *what is this world:* Your skin meets the world all day. It keeps out dirt and germs, feels every touch, and leaves your fingerprints on what you hold.
 
-Your whole body grew from one first cell. That cell divided again and again, and almost every new cell carried the same genes. Yet those cells became skin, hair, nails, eyes and ten different fingerprints. One cell with one set of genes grew into many different parts. That is one becoming many, inside your own body.
+Your whole body grew from one first cell. That cell divided again and again, and almost every new cell carried the same genes. Yet those cells became skin, hair, nails, eyes and ten different fingerprints. One cell with one set of genes grew into many different parts.
 
 - **Chandogya Upanishad 6.12:** Uddalaka asks his son Shvetaketu to break open a tiny banyan seed. Inside, Shvetaketu can see nothing at all. Uddalaka tells him that the whole great banyan tree grows out of that nothing he cannot see. (The first cell of your body held no tiny fingerprint you could have seen. The ridges appeared only as your fingertips grew, before you were born.)
 - **Plato, Cratylus 402a, reporting Heraclitus:** Heraclitus, a Greek thinker, said you cannot step into the same river twice. The water is always new, yet it is still the river. (Your outer skin is replaced every month or two, yet the same fingerprint grows back each time, because its pattern is held in a deeper layer of skin.)
-- **Thich Nhat Hanh, The Heart of Understanding (1988), on 'interbeing':** Look deeply at a sheet of paper and you can see the cloud, the rain and the tree in it. Nothing exists all by itself. (Your new skin cells are built from the sambar, rice and water you took in. Look deeply at your skin, and you can see the farms and the rain that grew your food.)
+- **Thich Nhat Hanh, The Heart of Understanding (1988), on 'interbeing':** Look deeply at a sheet of paper and you can see the cloud, the rain and the tree in the paper. Nothing exists all by itself. (Your new skin cells are built from the sambar, rice and water you took in. Look deeply at your skin, and you can see the farms and the rain that grew your food.)
 - Science (settled): The top layer of skin is made of dead cells that flake off, while new cells grow underneath. The outer skin is replaced about every month or two.
 - Science (settled): Fingerprint ridges form between about 10 and 16 weeks in the womb. Genes affect what kind of pattern a finger has, but every finger's exact print is different, even between identical twins.
 - Other view, Many scientists who study genes: Genes matter more than this makes it sound. Identical twins' prints are often the same kind and look alike, and the kind of pattern runs in families. They would say the differences are small details, and the genes did the main work. That is an honest view.
@@ -278,7 +278,7 @@ Ruksana grew up. She married, and moved to Dacca, and had children of her own. T
 
 Many years later, the government gave her uncle a reward and an honour for his work, and Hem Chandra Bose too. By then, Ruksana had long known what she knew. On the lamp glass, on the water pot, on Faiz's cheek, she had seen it with her own eyes. The lines had been there before anyone gave them a name.
 
-**For the parent:** For the parent: the fingertip is an external organ, and every part of it has a job. Its ridges help us feel, and perhaps grip. Tiny sweat pores along the ridges make us leave fingerprints on everything, which is why washing with soap matters before eating: soap lifts the oily layer that plain water cannot. The skin also wears and renews itself, as Nani's worn fingertips show. Underneath, the story asks who gets the credit for great work, through Azizul Haque and Hem Chandra Bose, whose names were left off the system they helped build.
+**For the parent:** For the parent: the fingertip is an external organ, and every part of it has a job. Its ridges help us feel, and perhaps grip. Tiny sweat pores along the ridges make us leave fingerprints on everything, which is why washing with soap matters before eating: soap lifts the oily layer that plain water cannot. The skin also wears and renews itself, as Nani's worn fingertips show. The story ends on credit: Azizul Haque and Hem Chandra Bose did much of the work, yet the system carries Mr Henry's name.
 
 - Ask: Why could Ruksana find the rice grain with her finger but not with her elbow?
 - Ask: How did Ruksana leave her pattern on things, even without ink?
@@ -288,65 +288,62 @@ Many years later, the government gave her uncle a reward and an honour for his w
 
 ## Games
 ### g1 · Guard Match (20 min)
-- **rules:** Cut out the 30 cards. Shuffle them and lay them all face down in rows.; On your turn, turn over three cards and read them out loud.; If you have a PART, its GUARD and its CARE card, you win the set. Put it in that part's box on the mat.; If not, turn them back face down in the same places. Try to remember where they are.; When you win a set, explain how the guard protects the part. A good explanation wins a bonus point.; When all ten sets are won, the player with the most points wins.
-- **Printable cards: 30 cards to cut out: 10 parts, 10 guards, 10 care cards:** PART: Eyes; GUARD: Eyelashes, eyelids and tears; CARE: Never rub hard. Wash with clean water. Never look at the sun.; PART: Ears; GUARD: Earwax that moves out by itself; CARE: Wipe the outside only. Never poke anything in.; PART: Nose; GUARD: Nose hairs and sticky mucus; CARE: Blow gently into a handkerchief. Sneeze into your elbow.; PART: Teeth; GUARD: Hard enamel and spit; CARE: Brush twice a day, most of all at night.; PART: Skin; GUARD: A top layer of dead cells that renews itself; CARE: Bathe every day. Dry the folds. Cover cuts.; PART: Hair; GUARD: It keeps the head warm and shaded; CARE: Wash and comb. Don't share combs.; PART: Nails; GUARD: Hard keratin over the fingertips; CARE: Cut short and straight. Don't bite them.; PART: Hands; GUARD: Skin and a sense of touch that warns of heat; CARE: Wash with soap for 20 seconds.; PART: Feet; GUARD: Thick skin on the soles; CARE: Wash and dry between the toes. Wear chappals outside.; PART: Private parts; GUARD: Clothes, and the rule that your body belongs to you; CARE: Wash every day, wipe front to back, and tell a trusted adult if a touch feels wrong.
-- **Printable board: A body outline mat:** A life-size or A3 outline of a child, with a box next to each of the 10 parts
-- **Printable score sheet: Sets collected:** Player name; Sets of three; Bonus: guard explained
+- **rules:** Cut out the 30 cards. Lay the 10 PART cards face up in two rows, so everyone can see them.; Shuffle the 10 GUARD cards and the 10 CARE cards together. Lay these 20 cards face down in rows.; On your turn, turn over two cards and read them out loud.; If one is a GUARD and one is a CARE card for the same part, you win the pair. Put both under that PART card.; If they do not match, turn them face down again in the same places. Try to remember where they are.; When you win a pair, explain how the guard protects the part. A good explanation wins a bonus point. Each pair is worth one point. Keep score on a scrap of paper.; When all ten pairs are won, the player with the most points wins. If points are equal, you share the win.
+- **Printable cards: 30 cards to cut out: 10 parts, 10 guards, 10 care cards:** PART: Eyes; GUARD: Eyelashes, eyelids and tears; CARE: Never rub hard. Wash with clean water. Never look at the sun.; PART: Ears; GUARD: Earwax that moves out by itself; CARE: Wipe the outside only. Never poke anything in.; PART: Nose; GUARD: Nose hairs and sticky mucus; CARE: Blow gently into a handkerchief. Sneeze into your elbow.; PART: Teeth; GUARD: Hard enamel and spit; CARE: Brush twice a day, most of all at night.; PART: Skin; GUARD: A top layer of dead cells that renews itself; CARE: Bathe every day. Dry the folds. Cover cuts.; GUARD: Hair keeps the head warm and shaded from the sun; GUARD: It keeps the head warm and shaded; CARE: Wash and comb. Don't share combs.; PART: Nails; GUARD: Hard keratin over the fingertips; CARE: Cut short and straight. Don't bite them.; PART: Hands; GUARD: Skin and a sense of touch that warns of heat; CARE: Wash with soap for 20 seconds.; PART: Feet; GUARD: Thick skin on the soles; CARE: Wash and dry between the toes. Wear chappals outside.; PART: Private parts; GUARD: Clothes, and the rule that your body belongs to you; CARE: Wash every day, wipe front to back, and tell a trusted adult if a touch feels wrong.
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the 30 cards. 2. Lay them face down in rows. 3. Put the body outline mat beside them.  
-  *Parent says:* Every part of your outside has a guard and a way we care for it. In this game, you find all three for each part.  
-  *Child mode:* Lay the cards face down in rows. Each part has a guard and a care card. Find all three to win a set.
+  *Parent does:* 1. Cut out the 30 cards. 2. Lay the 10 PART cards face up in two rows. 3. Shuffle the other 20 cards and lay them face down in rows below.  
+  *Parent says:* Every part of your outside has a guard and a way we care for it. In this game, you find the guard and the care card for each part.  
+  *Child mode:* Lay the part cards face up. Lay the other cards face down. Find the guard and the care card for each part.
 - **s2 (3 min)**  
-  *Parent does:* Play a practice round. Turn over the cards for Ears, Earwax and 'Wipe the outside only' face up.  
-  *Parent says:* Here is a full set. The part is the ear. The guard is earwax. The care is to wipe the outside only. Why don't we poke inside?  
-  *Child mode:* Practice set: ears, earwax, wipe the outside only. Why not poke inside? Tap your answer.
+  *Parent does:* Play a practice round. Put the Ears card, the Earwax guard card and the 'Wipe the outside only' care card face up together.  
+  *Parent says:* Here is a full match. The part is the ear. The guard is earwax. The care is to wipe the outside only. Why don't we poke inside?  
+  *Child mode:* Practice match: ears, earwax, wipe the outside only. Why not poke inside? Say your answer.
   - Ask: Why don't we poke cotton buds into our ears? (good: It pushes the wax deeper.; It can hurt the eardrum.; The wax comes out by itself.)
   - Check: Earwax is… → **a guard that traps dust and moves out by itself**
 - **s3 (10 min)**  
-  *Parent does:* 1. Take turns turning over three cards. 2. Keep a set if it matches. 3. Explain the guard for a bonus point. 4. Mark points on the score sheet.  
+  *Parent does:* 1. Take turns turning over two cards. 2. Keep a pair if the guard and care card belong to the same part. 3. Explain the guard for a bonus point. 4. Keep score on a scrap of paper.  
   *Parent says:* When you win a set, tell us how that guard protects its part.  
-  *Child mode:* Take turns. Turn over three cards. A full set goes on the body mat. Explain the guard to win a bonus.
+  *Child mode:* Take turns. Turn over two cards. A guard and care card for the same part is a pair. Explain the guard to win a bonus.
   - Note: Good explanations: eyelashes catch dust, and tears wash it away. Nose hairs and mucus trap dust. Enamel is hard, so teeth can chew, and spit washes them. The top layer of skin is dead, so it can rub off without hurting. Thick soles protect feet. For private parts, a good answer is 'my body belongs to me, and I can tell a trusted adult'.
 - **s4 (4 min)**  
-  *Parent does:* When all sets are won, count the points. Then point to each part on the body mat and say its care rule together.  
+  *Parent does:* When all pairs are won, count the points. Then point to each PART card and say its care rule together.  
   *Parent says:* Let's finish by saying every care rule together, from head to toe.  
-  *Child mode:* Count the points. Then touch each part on the mat. Say its care rule out loud.
-  - Check: Game moment: you just won the Nose set. Which is the guard card? → **Nose hairs and sticky mucus**
+  *Child mode:* Count the points. Then touch each part card. Say its care rule out loud.
+  - Check: Game moment: you turned over 'Nose hairs and sticky mucus'. Which part is it the guard of? → **Nose**
 ### g2 · Guess the Body Part (15 min)
-- **rules:** Shuffle the clue cards. One player is the reader.; The reader reads a clue in the voice of the body part, without saying the answer in brackets.; The first to guess right gets the card.; Then everyone acts out one way to care for that part, for a token.; Swap readers each turn. The player with the most cards and tokens wins.
-- **Printable cards: 12 clue cards:** I am the biggest organ you have. I cover all of you. I flake off every day. Who am I? (Skin); I am dead, but I keep growing. A haircut never hurts me. Who am I? (Hair); I am hard and I grow about 3 millimetres a month. Germs love to hide under me. Who am I? (Nails); I shut in a flash when something comes near. I spread tears over the eye. Who am I? (Eyelid); I am sticky and yellow-brown. People think I am dirt, but I am a guard. Who am I? (Earwax); I am a thin skin deep in your ear. I shake when sound arrives. Who am I? (Eardrum); I warm the air, wet it and catch the dust in it. I also smell your dinner. Who am I? (Nose); I am the hardest thing in your body, but germs that feed on sugar make acid that eats me. Who am I? (Enamel); I can turn and touch every finger. Without me, holding a pencil is very hard. Who am I? (Thumb); I carry all your weight. My middle curves up like a spring. Who am I? (Foot); I am made of tiny ridges, and nobody else in the world has me. Who am I? (Fingerprint); I am covered by your underwear. I am private. I belong to you. Who am I? (Private parts)
-- **Printable tokens: Act-it-out tokens:** 🧼; 🪥; 🧻
+- **rules:** Shuffle the 12 clue cards and put them in a pile, clue side up. One player is the reader.; The reader reads the top clue in the voice of the body part, without looking at the answer on the back.; The first player to guess right gets the card. If nobody guesses after two tries, the reader turns the card over, says the answer and keeps the card.; Then everyone acts out what that part does, or one way to care for it.; Swap readers after each card. When all 12 cards are read, the player with the most cards wins. If cards are equal, you share the win.
+- **Printable cards: 12 clue cards (clue on the front, answer on the back):** I am the biggest organ you have. I cover all of you. I flake off every day. Who am I? (back: Skin); I am dead, but I keep growing. A haircut never hurts me. Who am I? (back: Hair); I am hard and I grow about 3 millimetres a month. Germs love to hide under me. Who am I? (back: Nails); I shut in a flash when something comes near. I spread tears over the eye. Who am I? (back: Eyelid); I am sticky and yellow-brown. People think I am dirt, but I am a guard. Who am I? (back: Earwax); I am a thin skin deep in your ear. I shake when sound arrives. Who am I? (back: Eardrum); I warm the air, wet it and catch the dust in it. I also smell your dinner. Who am I? (back: Nose); I am the hardest thing in your body, but germs that feed on sugar make acid that eats me. Who am I? (back: Enamel); I can turn and touch every finger. Without me, holding a pencil is very hard. Who am I? (back: Thumb); I carry all your weight. My middle curves up like a spring. Who am I? (back: Foot); I am made of tiny ridges, and nobody else in the world has me. Who am I? (back: Fingerprint); I am covered by your underwear. I am private. I belong to you. Who am I? (back: Private parts)
 - **s1 (2 min)**  
   *Parent does:* Shuffle the 12 clue cards. Choose the first reader.  
   *Parent says:* In this game, a body part talks to us. We must guess who it is.  
   *Child mode:* A body part is talking. Listen to the clue. Guess who it is.
 - **s2 (10 min)**  
-  *Parent does:* 1. The reader reads one clue. 2. Players guess. 3. Everyone acts out one way to care for that part. 4. Swap readers.  
-  *Parent says:* Read it in the body part's own voice. Then we all show how to look after it.  
-  *Child mode:* Read the clue in a funny voice. Others guess. Then everyone acts out the care.
+  *Parent does:* 1. The reader reads one clue. 2. Players guess. 3. The reader turns the card over to check. 4. Everyone acts out what the part does or one way to care for it. 5. Swap readers.  
+  *Parent says:* Read it in the body part's own voice. Then we all show what it does or how to look after it.  
+  *Child mode:* Read the clue in a funny voice. Others guess. Then everyone acts out the part.
   - Note: If a child guesses 'nails' for the hair clue, that is a good thought. Nails are also dead and growing. Ask what clue tells them apart: the haircut.
   - Check: Game moment: 'I am dead, but I keep growing. A haircut never hurts me.' Who am I? → **Hair**
 - **s3 (3 min)**  
-  *Parent does:* Count cards and tokens. Ask each player to make up one new clue of their own.  
+  *Parent does:* Count the cards each player won. Ask each player to make up one new clue of their own.  
   *Parent says:* Now make up your own clue, about any body part.  
   *Child mode:* Make up your own clue about a body part. Can the others guess?
 
 ## Experiments
-### e1 · The Bread Test: what do unwashed hands leave behind? (35 min, 6 days)
+### e1 · The Bread Test: what do unwashed hands leave behind? (36 min, 6 days)
 - **question:** Do washed hands leave fewer germs on bread than unwashed hands? Does soap make a difference?
 - **predict:** Before you start, guess. Which slice will grow the most spots: touched by dirty hands, by hands washed in water only, or by hands washed with soap? Which will grow the fewest? Why do you think so?
 - **fair test:** To make it fair, use slices from the same loaf, touch each one in the same way for the same time, and keep all the bags in the same dark cupboard. Only the hands change. Keep one slice untouched, so you can see what bread does on its own.
-- **safety:** Never open the bags once they are sealed. Mould spores can upset breathing. At the end, throw the bags away still sealed. Wash hands after handling the bags.
+- **safety:** Never open the bags once they are sealed. Mould spores can upset breathing. At the end, throw the bags away still sealed, and wash hands.
 - **record:** Fill in the table on days 2, 4 and 6. On day 6, draw each slice. Then draw a bar for each slice, as tall as its number of spots.
 - **results table:** Slice | Day 2: spots | Day 4: spots | Day 6: spots | What it looks like
-- **schedule:** day 1: Touch the slices, seal and label the bags, and put them in a dark cupboard. (20 min); day 2: Look at the bags without opening them. Count any spots. (3 min); day 4: Look again and count spots. (3 min); day 6: Count spots a last time, draw the slices, fill in the table, and say what you found. (9 min)
+- **schedule:** day 1: Touch the slices, seal and label the bags, and put them in a dark cupboard. (18 min); day 2: Look at the bags without opening them. Count any spots. (3 min); day 4: Look again and count spots. (3 min); day 6: Count spots a last time, draw the slices, fill in the table, compare and say what you found. (12 min)
 - **s1 (3 min)**  
-  *Parent does:* 1. Line up four slices and four bags. 2. Label the bags: Dirty hands, Water only, Soap, Untouched. 3. Ask your child to guess which slice will grow most spots.  
+  *Parent does:* 1. Line up four slices and four bags. 2. Label the bags: Dirty hands, Water only, Soap, Untouched. 3. With a clean spoon, sprinkle 5 drops of clean water on each slice, so all four are equally damp. 4. Ask your child to guess which slice will grow the most spots.  
   *Parent says:* Our hands touch everything, and they pick up tiny living things too small to see. Let's find out what they leave on food.  
   *Child mode:* Label four bags. Dirty hands. Water only. Soap. Untouched. Which slice will grow the most spots? Guess first.
-  - Note: Bread from a local bakery, or pav, grows mould faster than packet bread, which often has preservatives in it. Sprinkle 5 drops of water on every slice before it goes in its bag, because mould grows best on damp bread. Keep the bags somewhere warm and dark.
+  - Note: Bread from a local bakery, or pav, grows mould faster than packet bread, which often has preservatives in it. Mould grows best on damp bread in a warm, dark place.
 - **s2 (6 min)**  
-  *Parent does:* 1. Your child plays outside or touches door handles, shoes and the floor for two minutes. 2. They rub one slice all over with those hands, and seal it in the Dirty hands bag.  
+  *Parent does:* 1. Your child touches door handles, shoes and the floor for two minutes. 2. They rub one slice all over with those hands, and seal it in the Dirty hands bag.  
   *Parent says:* First, the dirty hands. Touch slice 1 all over, on both sides, then seal it in.  
   *Child mode:* Touch door handles and your shoes. Then rub slice 1 all over. Seal it in its bag.
   - Note: Help your child seal the bag well. Squeeze out most of the air first. Do not use hands that have a cut on them.
@@ -360,7 +357,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
   *Parent says:* This last slice is untouched. It shows what bread does all by itself.  
   *Child mode:* Ask a grown-up to slide slice 4 in with a spoon. Don't touch it. Put all bags in a dark cupboard.
   - Note: The untouched slice is the 'control'. It may grow a spot or two from the air. That is useful too: it shows germs are everywhere, and hands add more.
-- **s5 (3 min) · grown-up needed**  
+- **s5 (9 min) · grown-up needed**  
   *Parent does:* On days 2, 4 and 6, look at the bags without opening them. Count the spots on each slice. Write the numbers in the table.  
   *Parent says:* Don't open the bags. Just look and count.  
   *Child mode:* Look at the bags. Do not open them. Count the spots on each slice. Write the numbers down.
@@ -377,11 +374,11 @@ Many years later, the government gave her uncle a reward and an honour for his w
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things about the bread test. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: washing with soap takes away the most germs. What I saw: the dirty-hands slice had 11 spots, water only had 6, and soap had 2. Why: soap lifts the oily layer that germs stick to.
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: washing with soap takes away the most germs. What I saw: for example, the dirty-hands slice had 11 spots, water only had 6, and soap had 2. Why: soap lifts the oily layer that germs stick to.
 ### e2 · Sticky Tape Skin: are you falling off? (12 min)
 - **question:** Is your skin always shedding tiny bits of itself?
 - **predict:** Before you start, guess. Will anything stick to the tape? Will the arm and the elbow give the same amount? Why do you think so?
-- **fair test:** To make it fair, use the same length of tape and press for the same time on each place. Use dark paper for every strip, so the flakes show up the same.
+- **fair test:** To make it fair, use the same length of tape and press for the same time on each place. Use dark paper for every strip, so the flakes show up the same. Stick one strip on the paper without touching skin, to see what plain tape looks like.
 - **safety:** Use gentle tape. Do not press on cuts, rashes or sore skin. Peel slowly.
 - **record:** Stick the three strips on the dark paper and label each one. Fill in the table. Draw what you see through the lens.
 - **results table:** Place on the body | How many flakes, roughly: none, a few, lots | What the flakes look like
@@ -390,21 +387,22 @@ Many years later, the government gave her uncle a reward and an honour for his w
   *Parent says:* Your skin looks smooth and whole. Let's see if any of it is coming off.  
   *Child mode:* Will anything come off your skin onto tape? Guess first.
 - **s2 (5 min)**  
-  *Parent does:* 1. Press a strip of tape on the inside of the forearm for 5 seconds. Peel it slowly and stick it on the dark paper. 2. Do the same on the elbow and the back of the hand. 3. Label each strip.  
+  *Parent does:* 1. Press a strip of tape on the inside of the forearm for 5 seconds. Peel it slowly and stick it on the dark paper. 2. Do the same on the elbow and the back of the hand. 3. Stick one more strip on the paper without touching skin. 4. Label each strip.  
   *Parent says:* Press, count to five, peel slowly, and stick it down.  
-  *Child mode:* Press tape on your arm. Count to five. Peel slowly. Stick it on dark paper. Now try your elbow and your hand.
+  *Child mode:* Press tape on your arm. Count to five. Peel slowly. Stick it on dark paper. Now try your elbow and your hand. Stick one plain strip beside them, with no skin.
 - **s3 (3 min)**  
-  *Parent does:* Look at the strips closely, with a hand lens if you have one. Count roughly how many flakes are on each.  
+  *Parent does:* Look at the strips closely, with a hand lens if you have one. Count roughly how many flakes are on each, and compare them with the plain strip.  
   *Parent says:* What do you see on the tape? Where did it come from?  
   *Child mode:* Look closely. What are the tiny white flakes?
+  - Note: The flakes are tiny and can look like specks of dust or fluff, and some dust does stick too. Look in good light, or shine a torch from the side. If a strip shows very little, say so: that is an honest result. Skin that is oily or freshly bathed may give fewer flakes.
   - Check: The tiny white flakes on the tape are… → **dead skin cells that were ready to fall off**
 - **s4 (2 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things about the sticky tape test. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: my skin is always shedding. What I saw: tiny white flakes on every strip, and the most on my elbow. Why: the top layer is dead cells that flake off as new skin grows underneath.
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: my skin is always shedding. What I saw: tiny white flakes on the skin strips, and none on the plain strip. Why: the top layer is dead cells that flake off as new skin grows underneath.
 ### e3 · The Egg That Brushed Its Teeth (25 min, 2 days)
-- **question:** Can toothpaste protect a hard shell from acid?
+- **question:** Can a coat of toothpaste slow acid on a hard shell? This is a rough model of teeth, and the result may vary.
 - **predict:** Before you start, guess. After a night in vinegar, which egg will have the softer, rougher shell: the plain one, or the one covered in toothpaste? Why do you think so?
 - **fair test:** To make it fair, use two eggs of the same kind, two same-sized glasses, and the same amount of vinegar. Only the toothpaste changes. Leave both for the same time.
 - **safety:** A grown-up handles the raw eggs. Wash hands after touching raw egg. Do not eat the eggs afterwards. Vinegar stings eyes, so keep it away from faces.
@@ -435,11 +433,10 @@ Many years later, the government gave her uncle a reward and an honour for his w
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things about the egg test. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: toothpaste helps protect a shell from acid. What I saw: the plain egg bubbled a lot and its shell went rough, but the toothpaste egg stayed smoother. Why: the toothpaste left a thin coat on the shell that slowed the acid down. Fluoride in toothpaste helps tooth enamel stand up to acid in a similar way. If both eggs look the same, that is a real result too. Talk about why it might have happened.
+  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: toothpaste may slow acid on a shell. What I saw: the plain egg bubbled a lot and its shell went rough, but the toothpaste egg bubbled less. Why: a thin coat may keep some acid off the shell. An eggshell is not a tooth, and fluoride works on enamel in a different way, so this is only a rough model. If both eggs look the same, that is a real result too. Talk about why it might have happened, and what you would change to test it again.
 
 ## Activities
 ### a1 · Outside-Me Map (20 min)
-- **safety:** No special safety needed.
 - **record:** Keep the map on the wall. Through the unit, add one care rule next to each part.
 - **s1 (5 min)**  
   *Parent does:* Your child lies on the paper with arms and legs a little apart. Draw round them with a crayon.  
@@ -463,7 +460,6 @@ Many years later, the government gave her uncle a reward and an honour for his w
   *Child mode:* Put your map on the wall. You will add care rules to it soon.
   - Think: Which part do you think has the most jobs?
 ### a2 · Fingerprint Detective (25 min)
-- **safety:** Wash hands with soap afterwards, because graphite and ink are messy.
 - **record:** Stick your two thumbprints side by side and circle a ridge fork on each. Stick each person's thumbprint on the paper with their name. Make a tally of loops, whorls and arches.
 - **s1 (6 min)**  
   *Parent does:* 1. Scribble hard with a soft pencil to make a dark patch. 2. Rub your child's thumb on it until it is grey. 3. Press clear tape on the thumb, peel it, and stick it on white paper.  
@@ -486,13 +482,13 @@ Many years later, the government gave her uncle a reward and an honour for his w
   *Child mode:* Take everyone's thumbprint. Write their names. Sort them. Count each kind.
   - Note: Loops are the most common kind, then whorls. Arches are rare. Family members often have similar kinds, but never the same exact print.
 - **s5 (2 min)**  
-  *Parent does:* Wash hands with soap. Look at how well soap removes the grey graphite compared with water alone.  
-  *Parent says:* Pencil and oil stick to skin. Watch what soap does.  
+  *Parent does:* Wash hands with soap. Watch the grey graphite come off.  
+  *Parent says:* Pencil sticks to skin. Watch what soap does.  
   *Child mode:* Wash with soap. Watch the grey come off.
   - Note: Koalas, chimpanzees and gorillas have fingerprints too.
   - Think: What other animals do you think have fingerprints?
 ### a3 · Oily Hands: water or soap? (15 min)
-- **safety:** Turmeric can stain skin and nails yellow for a few hours. That's harmless. If you use glitter, keep it away from eyes.
+- **safety:** If you use glitter, keep it away from eyes.
 - **record:** Draw your hands after water only and after soap. Then draw the six steps of handwashing.
 - **s1 (3 min)**  
   *Parent does:* Rub a few drops of oil over your child's hands. Sprinkle on a pinch of turmeric or glitter. Say the powder is pretend germs.  
@@ -515,13 +511,12 @@ Many years later, the government gave her uncle a reward and an honour for his w
   - Ask: When should we always wash hands with soap? (good: Before eating.; After the toilet.; After playing outside.; After touching animals.)
   - Think: Why do you think thumbs and fingertips are the most often missed?
 ### a4 · My Trusted Hand (15 min)
-- **safety:** Keep the tone warm and ordinary, like teaching road safety. If your child tells you something worrying, stay calm, thank them, and get help. In India, you can call the Childline number 1098, or 112.
 - **record:** Stick the trusted hand on the wall next to the Outside-Me Map.
 - **s1 (4 min)**  
   *Parent does:* Say the rules calmly and simply. Use the correct names: penis, vulva and bottom.  
   *Parent says:* Your private parts are the parts covered by your underwear. They are private. Your body belongs to you. Nobody should touch your private parts, or ask to see them, or ask you to touch theirs. The only times are when a parent is helping you keep clean, or a doctor is checking you with me there. If any touch feels wrong or confusing, it is never your fault. Say no, get away and tell me or another trusted grown-up.  
   *Child mode:* Your body belongs to you. Private parts are private. If a touch feels wrong, say no. Get away. Tell a trusted grown-up.
-  - Note: Children learn this best when it is said like any other safety rule, without fear. You may also say: some people may try to trick a child into a secret. Good secrets, like a birthday surprise, are fun and end soon. Secrets about touching are never kept.
+  - Note: Children learn this best when it is said like any other safety rule, without fear. You may also say: some people may try to trick a child into a secret. Good secrets, like a birthday surprise, are fun and end soon. Secrets about touching are never kept. If your child tells you something worrying, stay calm, thank them, and get help. In India, you can call the Childline number 1098, or 112.
 - **s2 (3 min)**  
   *Parent does:* Ask your child the question below. Listen to their answer and gently fill gaps.  
   *Parent says:* What would you do if someone said, 'This touch is our secret'?  
@@ -539,7 +534,6 @@ Many years later, the government gave her uncle a reward and an honour for his w
   *Child mode:* Stand tall. Hold up your hand. Say No, loudly. Then walk away and find a grown-up.
   - Note: Children often find this funny. That is fine. Laughing helps it stick.
 ### a5 · Blink Counter and the Eyebrow Test (12 min)
-- **safety:** Use only clean water, a few drops at a time, on the forehead, never in the eyes.
 - **record:** Write how many times you blinked in one minute. Draw where the water drops ran.
 - **s1 (4 min)**  
   *Parent does:* Your child watches your eyes for one minute while you chat normally, and makes a tally mark at every blink. Swap.  
@@ -547,26 +541,25 @@ Many years later, the government gave her uncle a reward and an honour for his w
   *Child mode:* Watch a grown-up's eyes for one minute. Make a mark every time they blink.
   - Note: Grown-ups usually blink about 15 to 20 times a minute when talking. Children often blink less. When reading or looking at a screen, people blink much less, which is why eyes get dry.
 - **s2 (5 min) · grown-up needed**  
-  *Parent does:* Your child sits up straight, facing forward, and closes their eyes. Drip a few drops of water on the forehead just above one eyebrow. Watch where it runs.  
+  *Parent does:* Your child sits up straight, facing forward, and closes their eyes. Drip a few drops of clean water on the forehead just above one eyebrow, and watch where it runs. Then your child opens their eyes and looks in the mirror at the wet track.  
   *Parent says:* Where does the water go when it reaches the eyebrow?  
   *Child mode:* Close your eyes. A grown-up drips water above your eyebrow. Where does it run?
+  - Note: Use only a few drops, on the forehead and never in the eyes. If you use too much water, it will run straight through the hairs. A few drops show the steering best.
   - Check: The water runs round the eyebrow and down the side of the face. What is the eyebrow's job? → **To send sweat and rain away from the eyes**
 - **s3 (3 min)**  
   *Parent does:* Talk about the other eye guards: eyelashes, eyelids and tears. Add 'eye care' to the Outside-Me Map.  
   *Parent says:* Name all the guards of your eyes. Which one did you see working today?  
   *Child mode:* Name your eye's guards. Lashes, lids, tears, brows. Add them to your map.
-  - Think: Why do people blink less when they stare at a screen?
 ### a6 · The Wax Escalator (act it out) (10 min)
-- **safety:** Act it out only. Nothing goes into anyone's ear.
 - **record:** Draw a cut-away of the ear with the wax moving outwards, and write 'never poke in' next to it.
 - **s1 (3 min)**  
   *Parent does:* Lay the sari on the floor as the ear canal. Put a cushion at one end as the eardrum. Throw paper balls in as dust.  
   *Parent says:* This is the inside of an ear. Dust is blowing in. Who will stop it reaching the eardrum?  
   *Child mode:* The sari is your ear tube. The cushion is your eardrum. Paper balls are dust blowing in.
 - **s2 (4 min)**  
-  *Parent does:* Your child plays the wax. They catch the paper balls before they reach the cushion. Each time you chew or talk loudly, they shuffle one step out of the ear, carrying the dust.  
+  *Parent does:* Your child plays the wax. They catch the paper balls before they reach the cushion. Each time you pretend to chew or talk loudly, they shuffle one step out of the ear, carrying the dust.  
   *Parent says:* Every time I chew or talk, my jaw moves, and the wax moves out a little.  
-  *Child mode:* You are the wax. Catch the dust. Each time the grown-up chews, shuffle one step out.
+  *Child mode:* You are the wax. Catch the dust. Each time the grown-up pretends to chew, shuffle one step out.
   - Check: In the play, a cotton bud comes in. What does it do to the wax? → **Pushes it back towards the eardrum**
 - **s3 (3 min)**  
   *Parent does:* Swap roles. Then talk: what should we do with ears? Add the ear care rule to the Outside-Me Map.  
@@ -579,13 +572,13 @@ Many years later, the government gave her uncle a reward and an honour for his w
 ### p1 · How Fast Do I Grow? The Nail Tracker (30 min, 15 days)
 - **safety:** A grown-up cuts nails. Do not cut too short, and keep the edges straight.
 - **record:** A table of the date and the gap in millimetres for your thumbnail and a grown-up's. Then a bar chart.
-- **schedule:** day 1: Cut the thumbnails. Make a tiny mark on the nail just above the skin. Measure the gap between the mark and the skin: zero. (10 min); day 8: Measure the gap between the skin and the mark. Remark the nail if it has faded. (5 min); day 15: Measure again. Work out how far the nail grew in two weeks, and guess how far in a month and in a year. (15 min)
+- **schedule:** day 1: Cut the thumbnails. Make a tiny mark on the nail just above the skin. Measure the gap between the mark and the skin: zero. (10 min); day 8: Measure the gap between the skin and the mark. If the mark has faded, draw it again right over the old one. (5 min); day 15: Measure again. Work out how far the nail grew in two weeks, and guess how far in a month and in a year. (15 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* Cut both thumbnails. Make a tiny mark on the nail, right at the edge of the skin. Do the same on a grown-up's thumbnail. Write the date.  
   *Parent says:* Nails grow from a living root under the skin. The mark will ride up as the nail grows, like a passenger on a slow train.  
   *Child mode:* A grown-up cuts your nails. Make a tiny mark at the bottom of your thumbnail. Do one on a grown-up too.
 - **s2 (5 min)**  
-  *Parent does:* On day 8, measure the gap from the skin to the mark, in millimetres. Write it down. Remark if it has faded.  
+  *Parent does:* On day 8, measure the gap from the skin to the mark, in millimetres. Write it down. If the mark has faded, draw it again right over the old one.  
   *Parent says:* How far has the mark moved in one week?  
   *Child mode:* Measure from your skin to the mark. Write the number in millimetres.
   - Wait: Come back on day 8.
@@ -593,14 +586,13 @@ Many years later, the government gave her uncle a reward and an honour for his w
   *Parent does:* On day 15, measure again for both people. Make a bar chart.  
   *Parent says:* Whose nail grew faster? Grown-ups or children?  
   *Child mode:* Measure again. Draw a bar for you and one for the grown-up.
-  - Note: Children's nails usually grow a little faster than older grown-ups'. Expect about 1 to 2 millimetres in two weeks. Fingernails grow about 3 millimetres a month on average.
+  - Note: Children's nails usually grow a little faster than older grown-ups'. Expect about 1 to 2 millimetres in two weeks. Fingernails grow about 3 millimetres a month on average. A gap this small is hard to read. Use a hand lens if you have one, and measure from the same edge each time.
   - Check: Why doesn't cutting your nail hurt, even though it grows? → **The part you cut is dead. Only the root under the skin is alive.**
   - Wait: Come back on day 15.
 - **s4 (5 min)**  
-  *Parent does:* Talk about what you found and what it means for care.  
+  *Parent does:* Work out how far the nail grew in two weeks. Guess how far it would grow in a month and in a year. Talk about what it means for care.  
   *Parent says:* If nails grow about 3 millimetres a month, how often should we cut them?  
-  *Child mode:* How often should you cut your nails? Why do germs like long nails?
-  - Think: Your nail is made of dead cells, but it is part of you. Is it alive or not?
+  *Child mode:* How far did your nail grow in two weeks? How far in a year, if it keeps going? How often should you cut your nails?
 
 ## Challenges
 ### c1 · Build a Tippy Tap (30 min)
@@ -610,7 +602,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
 - **general:** The tippy tap: a bottle hung on a stick, tied to a foot pedal stick with string. Pressing the pedal tips the bottle and pours a thin stream.; A pot with a small tap fitted near the bottom.; A bucket and mug, poured by a friend.
 - **creative:** Hang the soap on a string, so it never sits in a dirty puddle.; Put stones under the tap, so the water soaks away and makes no mud for mosquitoes.; Make it at child height, with a picture of the six handwashing steps beside it.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem together. Look at the picture of the finished tippy tap.  
+  *Parent does:* Read the problem and the ideas together. Talk about how you could tip a bottle without touching it.  
   *Parent says:* In many schools and villages, there is no sink. How could people wash hands without touching a dirty handle?  
   *Child mode:* Many places have no sink. How could you wash without touching a dirty tap?
 - **s2 (5 min)**  
@@ -618,9 +610,10 @@ Many years later, the government gave her uncle a reward and an honour for his w
   *Parent says:* Draw your design first. Show where the water comes out.  
   *Child mode:* Draw your design. Label the bottle, string, pedal and soap.
 - **s3 (15 min) · grown-up needed**  
-  *Parent does:* A grown-up makes a small hole near the neck of the bottle. Fill it with water. Hang it, tie it to a pedal stick, and hang soap beside it.  
-  *Parent says:* Now we build it. I'll make the hole, because it needs a hot or sharp tool.  
+  *Parent does:* A grown-up makes a small hole near the neck of the bottle and keeps the cap on. Fill it with water. Hang it from a chair back, a balcony grille or a stick, over the bucket. Tie a string to a pedal stick on the floor, and hang the soap beside it.  
+  *Parent says:* Now we build it. I'll make the hole, because it needs a sharp tool.  
   *Child mode:* A grown-up makes the hole. You help hang the bottle and tie the pedal.
+  - Note: In a flat, it works best on a balcony or in the bathroom, with the bucket underneath. Wipe up any spills.
 - **s4 (5 min)**  
   *Parent does:* Test it. Count how many handwashes one bottle gives.  
   *Parent says:* Does it work? What would you change?  
@@ -685,14 +678,14 @@ Many years later, the government gave her uncle a reward and an honour for his w
    **Answer:** Eyebrow above the eye: keeps sweat and rain out. Eyelashes on the edge of the lid: catch dust. Eyelid over the eye: shuts out dust and bright light, and spreads tears.. *Why:* Each guard has its own job. A strong answer puts each label in the right place and gives a real job for it.
 14. (draw) Draw your hand. Mark the places people most often forget when washing.  
    **Answer:** Thumbs, fingertips and nails, between the fingers, and the backs of the hands.. *Why:* In the oily hands activity, the turmeric often stays on the thumbs, fingertips and backs of hands. Those are the places to rub carefully.
-15. (write) Many people clean their ears with a cotton bud. Think of the wax escalator game. Where does earwax go by itself? What does a cotton bud do to it?  
+15. (write) Many people clean their ears with a cotton bud. Think of the Wax Escalator act-it-out. Where does earwax go by itself? What does a cotton bud do to it?  
    **Answer:** Earwax moves out of the ear by itself, a little each time I chew or talk, and carries dust with it. A cotton bud pushes the wax back in, and a hard poke can hurt the eardrum. So I wipe only the outside.. *Why:* A strong answer says which way wax moves and why a bud works against it. It challenges a common habit with what the child acted out.
 16. (perspective) Three people at home argue about whether hair is alive.  
    **Answer:** A strong answer picks a side and backs it with evidence, such as 'a haircut does not hurt, so the part we cut has no living nerves' or 'my nail tracker mark moved, so something is still growing'. It then admits a fair point from another side.. *Why:* This is a real puzzle about what 'alive' means. The hair shaft is dead keratin. The root is living and keeps adding cells. So hair is a dead thing made by a living body.
 ### Guards and Growing (stretch) (stretch, 16 questions)
 1. (mcq) In the bread test, a girl forgot to seal the untouched slice. She left it open on the kitchen shelf for 6 days. What will probably happen?  
    Options: It grows spots too, because mould spores from the air land on the bread / It stays perfectly clean, because no hands touched it / It turns into toast / It grows fewer spots than ever  
-   **Answer:** It grows spots too, because mould spores from the air land on the bread. *Why:* Mould spores float in the air everywhere. The sealed untouched slice shows what bread does with no hands and no air. Without the seal, she can't tell if spots came from hands or from the air, so the test is no longer fair.
+   **Answer:** It grows spots too, because mould spores from the air land on the bread. *Why:* Mould spores float in the air everywhere. Left open on a shelf, the slice meets all of them, so the test is no longer fair: the spots could come from the air, not from hands. That is why every slice, even the untouched one, stays sealed.
 2. (mcq) You mark your thumbnail for the nail tracker. In 10 days the mark moves 1 millimetre. If your nail keeps growing at the same speed, about how far will the mark move in 30 days?  
    Options: 1 millimetre / 3 millimetres / 10 millimetres / 30 millimetres  
    **Answer:** 3 millimetres. *Why:* 30 days is three lots of 10 days. 1 + 1 + 1 = 3 millimetres. Picking 30 mixes up the number of days with the length.
@@ -703,9 +696,9 @@ Many years later, the government gave her uncle a reward and an honour for his w
 5. (mcq) Divya, a girl in Class 4, says, 'My egg in vinegar made lots of bubbles. Bubbles mean cleaning, so vinegar must be good for washing teeth.' What is wrong with her thinking?  
    Options: The bubbles show the acid eating the shell. Acid eats tooth enamel too, so it would harm teeth. / Nothing is wrong. Vinegar cleans teeth well. / The bubbles came from the egg breathing. / Vinegar only works on brown eggs.  
    **Answer:** The bubbles show the acid eating the shell. Acid eats tooth enamel too, so it would harm teeth.. *Why:* Vinegar is an acid. It dissolves the chalky eggshell and gives off a gas, which makes the bubbles. Tooth enamel is also hard and made with calcium, so acid wears it away. Germs in the mouth make acid from sugar in the same way.
-6. (mcq) In the egg test, one egg was covered in toothpaste for an hour before both went into vinegar. Which shell usually feels smoother the next day?  
-   Options: The egg that had toothpaste on it / The plain egg / Both feel exactly the same / Neither, both shells disappear  
-   **Answer:** The egg that had toothpaste on it. *Why:* Fluoride in toothpaste makes the outside of the shell harder for acid to dissolve, so it usually bubbles less and stays smoother. That is how toothpaste helps protect tooth enamel.
+6. (mcq) In the egg test, a girl's toothpaste egg bubbled less than her plain egg. What is the best thing for her to say?  
+   Options: The toothpaste may have slowed the acid, but one test is not enough, so she should try again / Toothpaste always stops acid completely / The plain egg must have been a different kind of egg / Toothpaste turns vinegar into water  
+   **Answer:** The toothpaste may have slowed the acid, but one test is not enough, so she should try again. *Why:* One test can mislead, because eggs, toothpaste and amounts differ. A thin coat of paste may slow the acid, but an eggshell is not a tooth. Repeating the test, with the same eggs and amounts, tells her more.
 7. (match) Match each guard to what it keeps out.  
    **Answer:** Earwax → dust and tiny insects in the ear; Nose hairs and mucus → dust and germs in the air you breathe; Thick skin on the soles → sharp stones and hot ground; Nails → knocks to the soft fingertips. *Why:* Every external organ has guards. Many, like wax and mucus, look like dirt, but they keep us safe.
 8. (sort) Sort these into DEAD CELLS and LIVING CELLS.  
@@ -716,7 +709,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
    Options: Cutting nails short every week or two / Wiping only the outside of the ear / Brushing teeth before bed / Rubbing an itchy eye hard  
    **Answer:** 3. *Why:* Short nails leave no gap for germs. Wiping only the outside lets earwax move out by itself. Brushing at night protects teeth when there is less spit. Rubbing hard can scratch the eye and push in germs, so it is the odd one out. Blink, or rinse with clean water, instead.
 11. (perspective) People have argued for a long time about what the tiny ridges on our fingertips are for.  
-   **Answer:** A strong answer picks an idea and gives evidence, such as 'I could feel a single grain of rice with my fingertip but not with my elbow'. It then admits a fair point from another side, for example that ridges may help grip on wet or rough things.. *Why:* Scientists still argue about this. Ridges may help us feel, may help grip on wet or rough surfaces, and may do several jobs at once.
+   **Answer:** A strong answer picks an idea and gives evidence, such as 'I found a single grain of rice with my fingertip but not with my elbow'. It then admits a fair point from another side, for example that ridges may help grip on wet or rough things.. *Why:* Scientists still argue about this. Ridges may help us feel, may help grip on wet or rough surfaces, and may do several jobs at once.
 12. (write) Nails grow about 3 millimetres a month. How often do you think you should cut them? Why do germs collect under long nails?  
    **Answer:** About every one or two weeks, so they never grow long. Under a long nail there is a gap where dirt and food collect. Soap and water can't reach in well, so germs stay there and get onto food.. *Why:* A strong answer uses the growth speed to choose how often, and explains the gap under the nail.
 13. (mcq) A girl walks barefoot on wet soil near a drain. What is the main health reason she should wear chappals?  
@@ -724,7 +717,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
    **Answer:** Tiny hookworms in damp, dirty soil can get in through bare skin. *Why:* Young hookworms live in damp, dirty soil and can get in through the skin of bare feet. Chappals also protect from glass and hot roads.
 14. (draw) Draw yourself after running on a hot day. Show where the sweat comes out of your skin. Draw arrows to show what happens to your body's heat as the sweat dries.  
    **Answer:** Drops of sweat on the forehead, face and arms, coming out of tiny holes called pores. Arrows show heat leaving the skin as the sweat dries into the air.. *Why:* Sweating is one of the skin's jobs. Drying sweat takes heat away with it, so the skin cools. A strong drawing shows sweat coming from the skin itself and heat leaving as it dries.
-15. (write) In the trusted hand activity, you drew five grown-ups you trust. Why is it better to have five trusted grown-ups, not just one?  
+15. (write) In the My Trusted Hand activity, you drew five grown-ups you trust. Why is it better to have five trusted grown-ups, not just one?  
    **Answer:** If one grown-up is busy, away or does not listen, I still have others to tell. Also, if the person doing wrong is someone I know, I need someone else to go to.. *Why:* A strong answer knows that a child must keep telling until someone helps.
 16. (fill) Along each fingertip ridge are tiny holes that let out sweat. So whenever we touch something, we leave our ____ behind.  
    **Answer:** ['fingerprints', 'fingerprint', 'prints']. *Why:* Sweat, and oil picked up from the face and hair, leave the pattern of the ridges on whatever we touch. That is also how germs pass from hands to things.
@@ -749,7 +742,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
    **Answer:** Any creative design with a clear job. For example: ear flaps that close in loud places, like a hippo's ears closing under water.. *Why:* Good designs copy what real guards do: trap, steer away, wash out or shut.
 9. (write) Some old Indian books describe cleaning teeth with neem twigs. Fluoride toothpaste is newer. Some people say old ways are always best, and some say new ways are always best. How could you find out which cleans better?  
    **Answer:** A fair test: some people use twigs and some use fluoride toothpaste for weeks, with everything else the same, and a dentist counts holes and germs. At home, I could coat one eggshell with neem paste and one with toothpaste, and put both in vinegar. That only tests protection from acid, not from germs.. *Why:* Scientists test old and new ways fairly, instead of trusting what is old or what is new. A strong answer changes only one thing, and says what its test can and cannot show.
-10. (write) Your aunt's friend visits and wants a hug. You don't feel like hugging. Your mother says you can say no politely and wave instead. Why is it good that you get to choose?  
+10. (write) A visitor to your home wants a hug, but you don't feel like hugging. A parent says you can say no politely and wave instead. Why is it good that you get to choose?  
    **Answer:** My body belongs to me, even when I am small. Choosing a wave instead of a hug is polite and still keeps my body mine. Practising small 'no's makes it easier to say no to a touch that feels wrong.. *Why:* A strong answer knows that a child's body belongs to the child, and that saying no politely is not rude.
 11. (mcq) After a sunburn, skin often peels a few days later. Why does this happen?  
    Options: The damaged top cells die and flake off, while new cells push up from underneath / The skin melts in the sun / Germs eat the skin / Skin peels so it can grow thicker  
@@ -774,49 +767,46 @@ Many years later, the government gave her uncle a reward and an honour for his w
 - **Body safety for children: my body belongs to me** (a trusted child safety organisation, 4 min) id `to find`: A calm, child-friendly video on private parts, safe and unsafe touch, and telling a trusted adult. *Check:* Not checked: a parent should watch it first, and choose one that uses correct body names and a calm tone.
 
 ## Quiz
-1. (mcq) You look at yourself in the mirror. Which organ can you see?  
-   Options: Skin / Heart / Lungs / Stomach  
-   **Answer:** Skin. *Why:* Skin is an external organ, on the outside, and it is the biggest one. The heart, lungs and stomach are internal organs, inside the body.
-2. (mcq) You have a cold, and your nose is blocked. Your favourite dosa suddenly tastes dull. Why?  
+1. (mcq) You have a cold, and your nose is blocked. Your favourite dosa suddenly tastes dull. Why?  
    Options: Much of what we call taste is really smell, and your blocked nose can't smell the food / Colds make the dosa go bad / Your tongue has stopped working for ever / Dosa only tastes good on sunny days  
    **Answer:** Much of what we call taste is really smell, and your blocked nose can't smell the food. *Why:* The tongue tastes only sweet, salty, sour, bitter and savoury. The nose picks up all the rest of the flavour. External organs work as a team, so when one is blocked, another seems to stop working too.
-3. (mcq) A girl bathes every day, but her ears still make yellow wax. What does that show?  
+2. (mcq) A girl bathes every day, but her ears still make yellow wax. What does that show?  
    Options: Wax is a guard the ear makes on purpose, not a sign of dirt / Her ears are very dirty / She is not washing properly / Wax only grows in dirty ears  
    **Answer:** Wax is a guard the ear makes on purpose, not a sign of dirt. *Why:* Clean ears make wax too. Wax traps dust and germs and moves out by itself. Picking 'very dirty' is the most common idea, and it is wrong.
-4. (mcq) What do eyelashes and eyebrows have in common?  
+3. (mcq) What do eyelashes and eyebrows have in common?  
    Options: Both guard the eyes, by catching dust or steering sweat away / Both help us see colours / Both make tears / Both are only for looks  
    **Answer:** Both guard the eyes, by catching dust or steering sweat away. *Why:* Lashes catch dust before it reaches the eye. Brows steer sweat and rain round the side. They look nice too, but they are guards.
-5. (mcq) A haircut does not hurt, but pulling out one hair does. Why?  
+4. (mcq) A haircut does not hurt, but pulling out one hair does. Why?  
    Options: The hair we see is dead, but the root is alive and has nerves around it / Pulling is always harder than cutting / The barber is more careful / Hair is made of bone  
    **Answer:** The hair we see is dead, but the root is alive and has nerves around it. *Why:* The part we cut is dead keratin. The root sits in living skin with nerves, so pulling it hurts.
-6. (mcq) A girl scrapes her knee. A week later, new skin covers it. Where did the new skin come from?  
+5. (mcq) A girl scrapes her knee. A week later, new skin covers it. Where did the new skin come from?  
    Options: Living cells underneath, which keep making new skin cells / The scab turned into skin / Skin from the other knee moved over / The plaster made it  
    **Answer:** Living cells underneath, which keep making new skin cells. *Why:* Living cells under the top layer keep dividing and pushing up new cells. That is how the outer skin renews itself, and how a scrape heals.
-7. (mcq) In the bread test, why was one slice slid into its bag with a spoon and never touched?  
+6. (mcq) In the bread test, why was one slice slid into its bag with a spoon and never touched?  
    Options: To compare: it shows how much the bread grows with no hands at all / Because there were not enough hands / To make it go bad faster / It was the slice for eating  
    **Answer:** To compare: it shows how much the bread grows with no hands at all. *Why:* The untouched slice is the comparison. If the hand slices grew more spots than it, the extra spots came from the hands.
-8. (mcq) A girl's bread test gave these spots on day 6. Dirty hands: 11. Washed with water only: 6. Washed with soap: 2. Untouched: 1. What can she say?  
+7. (mcq) A girl's bread test gave these spots on day 6. Dirty hands: 11. Washed with water only: 6. Washed with soap: 2. Untouched: 1. What can she say?  
    Options: Soap took away far more germs than water alone, but not quite every one / Water works just as well as soap / Soap made the bread grow spots / Washing makes no difference  
    **Answer:** Soap took away far more germs than water alone, but not quite every one. *Why:* The soap slice had 2 spots, much closer to the untouched slice than the water-only slice with 6. So soap removes most germs and spores. It does not remove every single one, and nothing needs to.
-9. (mcq) Why is brushing at night most important?  
+8. (mcq) Why is brushing at night most important?  
    Options: Your mouth makes less spit at night, so germs can make acid for hours / Teeth grow at night / It helps you sleep / Germs only come out at night  
    **Answer:** Your mouth makes less spit at night, so germs can make acid for hours. *Why:* Spit washes and protects teeth. At night there is less of it. Picking 'germs only come out at night' is a mix-up: germs are there all day.
-10. (mcq) In the egg test, what does the vinegar stand in for?  
+9. (mcq) In the egg test, what does the vinegar stand in for?  
    Options: The acid that germs in the mouth make from sugar / Spit / Toothpaste / Water we drink  
    **Answer:** The acid that germs in the mouth make from sugar. *Why:* Vinegar is an acid, and it eats the hard shell. Germs in the mouth turn sugar into acid that eats tooth enamel in the same way.
-11. (mcq) If any touch feels wrong or confusing, what should you do?  
+10. (mcq) If any touch feels wrong or confusing, what should you do?  
    Options: Say no, get away and tell a trusted grown-up / Keep it a secret / Think it is your fault / Wait and see  
    **Answer:** Say no, get away and tell a trusted grown-up. *Why:* Say no, get away, tell. It is never the child's fault, and secrets about touching are never kept.
-12. (mcq) You tell a trusted grown-up about a touch that felt wrong, but they don't listen. What should you do next?  
+11. (mcq) You tell a trusted grown-up about a touch that felt wrong, but they don't listen. What should you do next?  
    Options: Tell another trusted grown-up, and keep telling until someone helps / Stop telling anyone / Think you made a mistake / Keep it a secret  
    **Answer:** Tell another trusted grown-up, and keep telling until someone helps. *Why:* This is why children choose more than one trusted grown-up. Keep telling until someone listens and helps.
-13. (mcq) What do scientists still argue about?  
+12. (mcq) What do scientists still argue about?  
    Options: What fingertip ridges are for / Whether skin is an organ / Whether hair grows / Whether teeth need brushing  
    **Answer:** What fingertip ridges are for. *Why:* Scientists agree skin is an organ, hair grows and brushing helps. They still argue whether ridges are mainly for grip, feeling or both.
-14. (mcq) Your left and right thumbs grew from the same genes. What are their prints like?  
+13. (mcq) Your left and right thumbs grew from the same genes. What are their prints like?  
    Options: Different: the ridge forks and ends are in different places / Exactly the same, because the genes are the same / Different, because one thumb is older / They have no pattern at all  
    **Answer:** Different: the ridge forks and ends are in different places. *Why:* Every finger has its own print. The ridges formed before birth, and tiny differences in how each fingertip grew set the details. Picking 'exactly the same' is the common idea that genes decide everything. Both thumbs are the same age, so 'older' cannot be the reason.
-15. (mcq) Fingerprints form before birth. What happens to them as you grow up?  
+14. (mcq) Fingerprints form before birth. What happens to them as you grow up?  
    Options: They get bigger, but the pattern stays the same all your life / They change into a new pattern every year / They disappear by the age of 10 / They swap from loops to whorls  
    **Answer:** They get bigger, but the pattern stays the same all your life. *Why:* The ridges grow bigger as the fingers grow, but the pattern of loops, whorls and forks stays the same. That is why police can use them.
 
@@ -860,10 +850,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
 - Why do we wash hands before eating, even if they look clean?
 - Which of your teeth do you use for biting, and which for chewing?
 - How many times do you think you blink in a day?
-- Who are your five trusted grown-ups?
 - If you could add a new guard to your body, what would it be?
-- Is your hair alive or not? What do you think?
-- Who cleans the streets near our home? Do we know their name?
 - Which care habit is the hardest for you to remember?
 
 ## Jokes
@@ -871,27 +858,22 @@ Many years later, the government gave her uncle a reward and an honour for his w
 - What did the toothbrush say to the tooth at bedtime? *'Night shift starts now!'*
 - Why are noses so good at football? *They're always running.*
 - What do you call a bear with no teeth? *A gummy bear.*
-- Why did the eyelash go to school? *To learn how to catch things.*
 - What did the left eye say to the right eye? *'Between you and me, something smells.'*
 - Why was the fingerprint never lonely? *It left a little of itself everywhere it went.*
-- Why did the skin feel so new? *It had just changed its whole outfit.*
 - What has teeth but can't bite? *A comb.*
-- Why did the soap get a medal? *For lifting germs off hands, twenty seconds at a time.*
-- What do you call a hair that won't stop growing? *Normal. That's what hair does.*
 - Why did the foot go to the party in chappals? *It wanted to keep its sole safe.*
-- What's an ear's favourite music? *Anything not too loud.*
 - Why did the nail cutter never tell long stories? *It always cut them short.*
 - Why do eyebrows never get wet when it rains? *They send the drips the other way.*
 
 ## Connected maths
 - A thumbnail grew 2 millimetres in two weeks. About how much will it grow in eight weeks? **About 8 millimetres.**. Eight weeks is four lots of two weeks. In each two weeks, the nail grows 2 millimetres. 2 + 2 + 2 + 2 = 8, or 4 × 2 = 8. So about 8 millimetres. (queues `math.multiplication.equal-groups.L3`)
 - A child has 20 milk teeth. A grown-up usually has 32 teeth. How many more teeth does the grown-up have? **12 more teeth.**. 32 take away 20 is 12. You can check: 20 + 12 = 32. So a grown-up has 12 more teeth than a child. (queues `math.addition-subtraction.mental-strategies.L3`)
-- Ten family members gave their right thumbprints. 6 were loops, 3 were whorls and 1 was an arch. Draw a bar chart. Which kind was most common? **Loops were most common, with 6 out of 10.**. Draw one bar for each kind. The loop bar is 6 tall, the whorl bar is 3 tall and the arch bar is 1 tall. The loop bar is tallest, so loops were most common. 6 + 3 + 1 = 10, so every print is counted. (queues `math.data.bar-charts.L3`)
+- Ten people at home gave their right thumbprints. 6 were loops, 3 were whorls and 1 was an arch. Draw a bar chart. Which kind was most common? **Loops were most common, with 6 out of 10.**. Draw one bar for each kind. The loop bar is 6 tall, the whorl bar is 3 tall and the arch bar is 1 tall. The loop bar is tallest, so loops were most common. 6 + 3 + 1 = 10, so every print is counted. (queues `math.data.bar-charts.L3`)
 - A grown-up blinked 15 times in one minute. How many times would that be in 10 minutes? **150 times.**. One minute has 15 blinks. Ten minutes is ten lots of 15. 15 × 10 = 150. So about 150 blinks in 10 minutes. (queues `math.multiplication.multiplication-facts.L3`)
-- In the bread test, the dirty-hands slice had 12 spots and the soap slice had 3 spots. How many times as many spots did the dirty-hands slice have? **4 times as many.**. 12 divided by 3 is 4. You can check: 3 + 3 + 3 + 3 = 12. So the dirty-hands slice grew 4 times as many spots as the soap slice. (queues `math.division.sharing-and-grouping.L3`)
+- In one family's bread test, the dirty-hands slice had 12 spots and the soap slice had 3 spots. How many times as many spots did the dirty-hands slice have? **4 times as many.**. 12 divided by 3 is 4. You can check: 3 + 3 + 3 + 3 = 12. So the dirty-hands slice grew 4 times as many spots as the soap slice. (queues `math.division.sharing-and-grouping.L3`)
 
 ## Song
-This Body Is a Universe (sci.body.L3): Topic-level song
+This Body Is a Universe (sci.body.L3): 
 
 ## Links
 - [KidsHealth for Kids](https://kidshealth.org/en/kids/) · interactive: Clear, checked articles for children on skin, hair, teeth, eyes, ears and body safety.
@@ -903,10 +885,9 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - [Childline India](https://www.childlineindia.org) · interactive: For parents: about the 1098 helpline for children who need help or protection.
 
 ## Things to buy
-- [Hand lens (magnifying glass)](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To look closely at skin flakes, fingerprints and bread mould through a bag. Everything still works without one. Used in e1, e2, a2. Used again in many science units, from plants to rocks.
+- [Hand lens (magnifying glass)](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To look closely at skin flakes, fingerprints and bread mould through a bag. Everything still works without one. Used in e1, e2, a2. 
 - [15 cm ruler with millimetres](https://www.amazon.in/s?k=15+cm+ruler) (tool): Measures how far a nail grows in the Nail Tracker. Used in p1. 
-- [My Body Belongs to Me, by Jill Starishevsky](https://www.amazon.in/s?k=My+Body+Belongs+to+Me+Jill+Starishevsky) (book): A gentle picture book on private parts and telling a trusted adult. Used in a4. Read it together before or after My Trusted Hand, and come back to it now and then.
-- [The Skin You Live In, by Michael Tyler](https://www.amazon.in/s?k=The+Skin+You+Live+In+Michael+Tyler) (book): A warm rhyming book about skin of every colour. Used in a1. Read it alongside the Outside-Me Map and the skin explanations.
+- [My Body Belongs to Me, by Jill Starishevsky](https://www.amazon.in/s?k=My+Body+Belongs+to+Me+Jill+Starishevsky) (book): A gentle picture book on private parts and telling a trusted adult. Used in a4. 
 
 ## Warm-up
 - What is the biggest organ of your body? → Skin.

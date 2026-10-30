@@ -44,7 +44,7 @@ Nobody skips a stage. Everybody you know is in one of them right now. The stages
 ### A baby's body is different · *defined*
 **Definition:** A baby's body is not a small adult body. It has different proportions, softer bones and it grows faster than at any other time of life.
 
-A newborn is about 50 centimetres long. By their first birthday it is about 75 centimetres. That is the fastest growing a person ever does. A baby's head is about one quarter of their whole length. In an adult, the head is only about one eighth. A baby's skull has soft spots, where the bones have not joined yet. This lets the skull grow with the brain. A baby is born with about 300 bones and soft parts that will become bone. Many of them join together as the child grows. An adult has 206 bones.
+A newborn is about 50 centimetres long. By their first birthday they are about 75 centimetres. That is the fastest growing a person ever does. A baby's head is about one quarter of their whole length. In an adult, the head is only about one eighth. A baby's skull has soft spots, where the bones have not joined yet. This lets the skull grow with the brain. A baby is born with about 300 bones and soft parts that will become bone. Many of them join together as the child grows. An adult has 206 bones.
 - e.g. A baby's legs are short compared to their body. In an adult, the legs are about half of the whole height.
 - e.g. Baby teeth are already hiding inside a baby's gums at birth.
 - e.g. A newborn's soft spot on top of the head closes by about age two.
@@ -207,7 +207,7 @@ A body is always being taken apart and built again. Food brings in new atoms, an
 - *big:* How should a family, a town or a country take care of its elders? (hint: Think about ramps, big-print signs, seats on buses, and who visits them.)
 - *big:* If you could look at your own hands at 80, what do you think they will look like? What will they know how to do? (hint: Hands that have cooked, written or played music for 70 years learn a lot.)
 - *deep:* Is ageing something that happens to us, or something we are doing all the time? (hint: Remember that your body makes about 4 million new cells every second.)
-- *deep:* When someone dies, where do the atoms of their body go? (hint: Think of a fallen leaf turning into soil, and a new plant growing from it.)
+- *deep:* When someone dies, where do the atoms of their body go? (hint: Think of a fallen leaf turning into soil, and a new plant growing in that soil.)
 - *big:* Why do we feel sad when someone we love dies? What does the sadness tell us? (hint: We do not miss people we never cared about.)
 
 ## Story: The Needle Who Knew Two Hands
@@ -268,24 +268,23 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 - Ask: At the end, the needle says it feels held by 'one hand' that reaches across the years. What do you think it means?
 
 ## Games
-### g1 · Who Am I? The Life Stage Game (20 min)
-- **rules:** Cut out the 30 cards. Shuffle them and put them face down in a pile.; Lay the life line mat on the floor, with BABY at one end and OLDER ADULT at the other. Put ALL AGES at the side.; On your turn, take the top card and read it out loud.; Put the card on the stage you think it belongs to, and say why. If you are right, win one star.; Some cards belong to ALL AGES. Spotting one of these wins two stars.; If you draw a TRY IT card, everyone does it together. Then the player who drew it wins one star.; When the cards run out, the player with the most stars wins.
-- **Printable cards: 30 clue cards to cut out:** I have no teeth yet, but my teeth are hiding in my gums.; My head is one quarter of my whole length.; I have a soft spot on top of my head.; I grew about 25 centimetres this year, the fastest I will ever grow.; My milk teeth are falling out one by one.; I can read tiny print held 10 centimetres from my nose.; I grow about 5 or 6 centimetres every year.; My voice is cracking and getting deeper.; I grew so fast this year that none of my shoes fit.; My growth plates have just closed. I will not grow any taller.; My bones are at their thickest and strongest.; I have started holding the newspaper further away to read it.; I found my first few grey hairs.; My hair is mostly white now.; I hold my phone at arm's length to read a message.; I hear high whistles less well than I used to.; My skin has soft lines where I have smiled for years.; I know the words to songs nobody else in the family remembers.; I have shrunk about 3 centimetres since I was 40.; I do yoga every morning to keep my knees moving.; ALL AGES: My body makes millions of new cells every second.; ALL AGES: I can learn something new today.; ALL AGES: I need sleep, food, water and people who love me.; ALL AGES: The cells in the middle of my eye lens were made before I was born.; ALL AGES: Exercise makes my muscles stronger.; TRY IT: Pinch the skin on the back of your hand. Count how long it takes to go flat.; TRY IT: Hold this card close to your nose and slowly move it away. When do the words go sharp?; TRY IT: Walk like a baby who has just learned to walk. Now walk like a teenager in a hurry.; TRY IT: Ask the oldest person nearby one thing they could do at 8 that you also can.; TRY IT: Name one thing an elder can do better than you, and one thing you can do better.
+### g1 · Who Am I? The Life Stage Game (25 min)
+- **rules:** Cut out the 30 cards and the life line mat. Shuffle the cards and put them in a pile with the clue side up.; Lay the life line mat on the floor, with BABY at one end and OLDER ADULT at the other. Put ALL AGES at the side.; On your turn, take the top card and read the clue out loud. Do not look at the back.; Put the card on the stage you think it fits, and say why. Then turn the card over. If the back names your stage, win one star. If the back names two stages, either one is right.; ALL AGES cards are true for everyone. If you spot one, win two stars.; A TRY IT card has no back. Everyone does it together, and then the player who drew it wins one star.; Keep score with tally marks on a sheet of paper. When the cards run out, the player with the most stars wins. If two players tie, they share the win.
+- **Printable cards: 30 clue cards to cut out (clue on the front, stage on the back):** I have no teeth yet, but my teeth are hiding in my gums. (back: BABY); My head is one quarter of my whole length. (back: BABY); I have a soft spot on top of my head. (back: BABY); I grew about 25 centimetres this year, the fastest I will ever grow. (back: BABY); My milk teeth are falling out one by one. (back: CHILD); I can read tiny print held 10 centimetres from my nose. (back: CHILD); I grow about 5 or 6 centimetres every year. (back: CHILD); My voice is cracking and getting deeper. (back: TEENAGER); I grew so fast this year that none of my shoes fit. (back: TEENAGER); My growth plates have just closed. I will not grow any taller. (back: TEENAGER or ADULT); My bones are at their thickest and strongest. (back: ADULT); I have started holding the newspaper further away to read it. (back: ADULT or OLDER ADULT); I found my first few grey hairs. (back: ADULT); My hair is mostly white now. (back: OLDER ADULT); I hold my phone at arm's length to read a message. (back: ADULT or OLDER ADULT); I hear high whistles less well than I used to. (back: ADULT or OLDER ADULT); My skin has soft lines where I have smiled for years. (back: OLDER ADULT); I know the words to songs nobody else in the family remembers. (back: OLDER ADULT); I have shrunk about 3 centimetres since I was 40. (back: OLDER ADULT); I do yoga every morning to keep my knees moving. (back: OLDER ADULT); ALL AGES: My body makes millions of new cells every second. (back: ALL AGES); ALL AGES: I can learn something new today. (back: ALL AGES); ALL AGES: I need sleep, food, water and people who love me. (back: ALL AGES); ALL AGES: The cells in the middle of my eye lens were made before I was born. (back: ALL AGES); ALL AGES: Exercise makes my muscles stronger. (back: ALL AGES); TRY IT: Pinch the skin on the back of your hand. Count how long it takes to go flat.; TRY IT: Hold this card close to your nose and slowly move it away. When do the words go sharp?; TRY IT: Walk like a baby who has just learned to walk. Now walk like a teenager in a hurry.; TRY IT: Ask the oldest person nearby one thing they could do at 8 that you also can.; TRY IT: Name one thing an elder can do better than you, and one thing you can do better.
 - **Printable board: The life line mat:** BABY; CHILD; TEENAGER; ADULT; OLDER ADULT; ALL AGES
-- **Printable tokens: 20 star tokens (small paper circles):** ⭐
 - **s1 (3 min)**  
-  *Parent does:* 1. Lay the life line mat on the floor. 2. Shuffle the 30 cards and put them face down. 3. Put the star tokens in a bowl.  
+  *Parent does:* 1. Lay the life line mat on the floor. 2. Shuffle the 30 cards and put them in a pile, clue side up. 3. Take a sheet of paper and a pencil to keep score.  
   *Parent says:* Every person goes through the same stages of life, in the same order. Baby, child, teenager, adult and older adult. Each card describes a body at one stage. Let's work out which one.  
   *Child mode:* Lay the mat on the floor. Mix up the cards. Every person goes through these stages. Each card is a clue to one stage.
-- **s2 (8 min)**  
+- **s2 (13 min)**  
   *Parent does:* Take turns reading cards and placing them. After each card, ask the player to say why.  
   *Parent says:* Read the card out loud. Which stage is it? Tell us why you think so.  
   *Child mode:* Read your card out loud. Which stage is it? Say why.
   - Ask: Why does 'My head is one quarter of my whole length' go on BABY? (good: Babies have big heads compared to their bodies.; A grown-up's head is only about one eighth of their length.)
-  - Note: Clue cards about reading distance belong to ADULT or OLDER ADULT, since the eye lens stiffens from about 40. Accept either and talk about it.
+  - Note: Clue cards about reading distance fit ADULT or OLDER ADULT, since the eye lens stiffens from about 40. The back of those cards says so.
 - **s3 (4 min)**  
   *Parent does:* When someone draws an ALL AGES card, stop and talk about it.  
-  *Parent says:* This one is true for babies, children and grandparents too. Your body is making new cells right now, and so is Paati's.  
+  *Parent says:* This one is true for babies, children and grandparents too. Your body is making new cells right now, and so is every grown-up's.  
   *Child mode:* ALL AGES cards are true for everyone. A baby and a grandparent both do this.
   - Check: Which of these is true at EVERY age, from baby to elder? → **Making new cells every second**
 - **s4 (5 min)**  
@@ -294,10 +293,10 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
   *Child mode:* Count your stars. Look at the whole line. Find where you are now. Where will you be one day?
   - Think: Every elder on this mat was once a baby. Are the baby and the elder the same person?
 ### g2 · Journey to 100 (25 min)
-- **rules:** Each player puts a counter before square 1.; Roll the dice and move that many squares. Each square is one year of your life.; If you land at the bottom of a ladder, read it out and climb up.; If you land on the top of a slide, read it out and slide down.; When you land on a square ending in 0, like 10, 20 or 30, take a life card and do what it says.; Everyone who reaches 100 wins. There is no loser. The first one to arrive tells a story about their 'life'.
-- **Printable board: A 10 by 10 board with squares numbered 1 to 100, each row a decade of life:** Squares 1 to 12: the childhood row, drawn with toys and school bags; Squares 13 to 19: the teenage squares, drawn with a growing door-frame; Squares 20 to 59: the adult rows, drawn with work and family; Squares 60 to 100: the elder rows, drawn with grandchildren, walking sticks and books; Ladder from 8 to 24: You play outside every day. Strong bones for life!; Ladder from 27 to 45: You walk or cycle to work.; Ladder from 38 to 57: You keep learning new things.; Ladder from 52 to 71: You stay close to friends and family.; Ladder from 63 to 84: You do strength exercises, even at 63.; Ladder from 76 to 92: You teach your grandchildren a skill.; Slide from 33 to 14: You start smoking.; Slide from 49 to 30: You sit all day and never move.; Slide from 67 to 46: You feel lonely and stop seeing people.; Slide from 87 to 68: You trip on a slippery floor with no mat.
-- **Printable cards: 20 life cards:** Age 1: You take your first steps. Move ahead 1.; Age 6: Your first milk tooth falls out. Show everyone a gap-toothed smile.; Age 13: Growth spurt! Stand up and stretch as tall as you can.; Age 18: You stop growing taller. Your growth plates have closed.; Age 30: Your bones are at their strongest ever.; Age 45: You need reading glasses. Hold this card at arm's length to read it.; Age 50: Your first grey hairs appear. Tell everyone one fact about pigment.; Age 65: You learn to use a new phone. Move ahead 2.; Age 70: Your grandchild asks you for a story. Tell a 30-second story to win a star.; Age 80: You hear high sounds less well. Next turn, someone must whisper your number to you.; Any age: You sleep well every night. Move ahead 2.; Any age: You eat sambar, greens and fruit. Move ahead 1.; Any age: You drink clean water. Move ahead 1.; Any age: You skip your vaccine. Miss a turn.; Any age: You help an elder carry their bag. Move ahead 2.; Any age: You sit in the strong sun every day with no hat. Your skin wrinkles faster. Move back 1.; Any age: Your body makes 4 million new cells this second. Clap 4 times.; Any age: You learn a new song. Move ahead 1.; Any age: You laugh with a friend. Move ahead 1.; Any age: You spend all day on a screen. Move back 1.
-- **Printable tokens: Counters and a dice:** one counter per player; one dice
+- **rules:** Each player puts a counter on square 1.; On your turn, roll the dice twice and add the two numbers. Move that many squares. Each square is one year of your life.; If you land at the bottom of a ladder, read it out and climb up.; If you land on the top of a slide, read it out and slide down.; When you land on a square ending in 0, like 10, 20 or 30, take the top life card. If it names an age (like Age 45), it only fits a player whose square is that age or up to 10 more. If it does not fit, put it under the pile and take the next one. Then do what the card says. If the pile runs out, shuffle the used cards.; You do not take a life card when a ladder or slide brings you to a square ending in 0.; The first player to reach 100 wins and tells a story about their "life". You do not need an exact roll: reaching or passing 100 is enough.
+- **Printable board: A 10 by 10 board of 100 squares, each row a decade of life:** 1: START. Baby years (draw a baby); 2; 3; 4; 5; 6: Child years begin (draw toys and school bags); 7; 8: LADDER up to 24: You play outside every day. Strong bones for life!; 9; 10: LIFE CARD square; 11; 12; 13: Teenager years begin (draw a growing door-frame); 14: Bottom of the slide from 33; 15; 16; 17; 18; 19; 20: Adult years begin (draw work and family). LIFE CARD square; 21; 22; 23; 24: Top of the ladder from 8; 25; 26; 27: LADDER up to 45: You walk or cycle to work.; 28; 29; 30: Bottom of the slide from 49. LIFE CARD square; 31; 32; 33: SLIDE down to 14: You start smoking.; 34; 35; 36; 37; 38: LADDER up to 57: You keep learning new things.; 39; 40: LIFE CARD square; 41; 42; 43; 44; 45: Top of the ladder from 27; 46: Bottom of the slide from 67; 47; 48; 49: SLIDE down to 30: You sit all day and never move.; 50: LIFE CARD square; 51; 52: LADDER up to 71: You stay close to friends and family.; 53; 54; 55; 56; 57: Top of the ladder from 38; 58; 59; 60: Older adult years begin (draw grandchildren, walking sticks and books). LIFE CARD square; 61; 62; 63: LADDER up to 84: You do strength exercises, even at 63.; 64; 65; 66; 67: SLIDE down to 46: You feel lonely and stop seeing people.; 68: Bottom of the slide from 87; 69; 70: LIFE CARD square; 71: Top of the ladder from 52; 72; 73; 74; 75; 76: LADDER up to 92: You teach your grandchildren a skill.; 77; 78; 79; 80: LIFE CARD square; 81; 82; 83; 84: Top of the ladder from 63; 85; 86; 87: SLIDE down to 68: You trip on a slippery floor with no mat.; 88; 89; 90: LIFE CARD square; 91; 92: Top of the ladder from 76; 93; 94; 95; 96; 97; 98; 99; 100: FINISH
+- **Printable cards: 20 life cards:** Age 1: You take your first steps. Move ahead 1.; Age 6: Your first milk tooth falls out. Show everyone a gap-toothed smile, then move ahead 1.; Age 13: Growth spurt! Stand up and stretch as tall as you can, then move ahead 3.; Age 18: You stop growing taller. Your growth plates have closed. Move ahead 1.; Age 30: Your bones are at their strongest ever. Move ahead 2.; Age 45: You need reading glasses. Hold this card at arm's length to read it, then move ahead 1.; Age 50: Your first grey hairs appear. Say one thing you know about why hair turns grey, then move ahead 1.; Age 65: You learn to use a new phone. Move ahead 2.; Age 70: Your grandchild asks you for a story. Tell a 30-second story, then move ahead 2.; Age 80: You hear high sounds less well. Everyone speaks in a low voice until your next turn. Move ahead 1.; Any age: You sleep well every night. Move ahead 2.; Any age: You eat sambar, greens and fruit. Move ahead 1.; Any age: You drink clean water. Move ahead 1.; Any age: You skip your vaccine. Miss a turn.; Any age: You help an elder carry their bag. Move ahead 2.; Any age: You sit in the strong sun every day with no hat. Your skin wrinkles faster. Move back 1.; Any age: Your body makes 4 million new cells this second. Clap 4 times, then move ahead 1.; Any age: You learn a new song. Move ahead 1.; Any age: You laugh with a friend. Move ahead 1.; Any age: You spend all day on a screen. Move back 1.
+- **Printable tokens: Counters and a dice:** Counter 1 (a coin or a bottle cap); Counter 2; Counter 3; Counter 4; One dice (from a Ludo set, or cut a paper cube). Roll it twice and add the two numbers
 - **s1 (3 min)**  
   *Parent does:* 1. Put the board on the floor. 2. Give each player a counter. 3. Shuffle the life cards and put them face down.  
   *Parent says:* Each square is one year of a life. We each start at 1, as babies. Ladders are habits that help our bodies. Slides are things that harm them. Let's see how our lives go.  
@@ -306,12 +305,11 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
   *Parent does:* Play, taking turns. Read every ladder, slide and life card out loud.  
   *Parent says:* When you land on a ladder or a slide, read it out loud. Then tell us why that habit would help or harm a body.  
   *Child mode:* Roll and move. Read each ladder or slide out loud. Do what the life cards say.
-  - Note: Life card 'Age 45' asks the player to read at arm's length. This is a playful way to remember the eye lens stiffening.
-  - Check: On the board, a ladder goes from 63 to 84 for doing strength exercises. What have scientists found about exercise in old age? → **Muscles can get stronger at any age, even at 90**
+  - Note: Life card Age 45 asks the player to read at arm's length. This is a playful way to remember the eye lens stiffening.
 - **s3 (7 min)**  
-  *Parent does:* When everyone reaches 100, ask each player to tell one thing that happened in their 'life'.  
-  *Parent says:* Everyone made it to 100. Tell us one ladder you climbed, and one slide you fell down. Which habit would you like to start today?  
-  *Child mode:* You made it to 100! Say one ladder you climbed. Pick one good habit to start today.
+  *Parent does:* When the first player reaches 100, ask every player to tell one thing that happened in their "life".  
+  *Parent says:* Someone made it to 100. Tell us one ladder you climbed, and one slide you fell down. Which habit would you like to start today?  
+  *Child mode:* Someone made it to 100! Say one ladder you climbed. Pick one good habit to start today.
   - Ask: Which ladders could you start climbing right now, at your age? (good: Playing outside.; Sleeping well.; Learning new things.; Helping elders.)
 
 ## Experiments
@@ -319,10 +317,10 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 - **question:** Does skin spring back more slowly as people get older?
 - **predict:** Before you start, guess. Whose skin will go flat fastest after a gentle pinch? Line up the people you will test, from the one you think is fastest to the one you think is slowest. Why do you think so?
 - **fair test:** To make it fair, keep everything the same except the person's age. Pinch the same place, the back of the hand. Pinch for the same time, 3 seconds. Keep the hand flat on the table. Test each person 3 times, because one try can be a fluke.
-- **safety:** Pinch very gently, only the loose skin on the back of the hand. Always ask first. Stop if anyone says it hurts. Never laugh at anyone's skin.
+- **safety:** Pinch very gently, only the loose skin on the back of the hand. Always ask first. Stop if anyone says it hurts.
 - **record:** Fill in the table. Then draw a bar chart. Draw one bar for each person, in order of age. Make each bar as tall as that person's middle value.
 - **results table:** Person | Age (years) | Try 1: seconds to go flat | Try 2: seconds | Try 3: seconds | Middle value (seconds)
-- **s1 (3 min)**  
+- **s1 (2 min)**  
   *Parent does:* Ask your child to guess, and to line up the people from fastest to slowest.  
   *Parent says:* We will gently pinch the skin on the back of a hand, let go, and count until it goes flat. Whose skin do you think will go flat fastest? Why do you think so?  
   *Child mode:* We will pinch skin gently and see how fast it goes flat. Guess whose skin is fastest. Line everyone up, fastest to slowest. Say why.
@@ -331,21 +329,20 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
   *Parent says:* Let's practise on my hand first. Rest it flat. Pinch only the loose skin, softly, like picking up a feather. Hold it while we count to three. Then let go.  
   *Child mode:* Practise on your own hand. Rest it flat. Pinch the loose skin very softly. Count to three. Let go.
   - Note: Show that it does not hurt. Ask each person's permission before you pinch them. This teaches that we ask before touching anyone's body.
-- **s3 (8 min)**  
+- **s3 (7 min)**  
   *Parent does:* 1. Test each person 3 times on the back of the hand. 2. Time from letting go until the skin is flat. 3. Write each time in the table.  
   *Parent says:* Ready, pinch, one, two, three, let go. Watch the little ridge of skin. Say stop when it is flat.  
   *Child mode:* Ask first. Pinch for three seconds. Let go. Count until the skin is flat. Write the number. Do it 3 times.
   - Note: Young skin goes flat almost at once, so write 'less than 1 second'. Skin of people over 60 can stay up for a few seconds. Between a child and a parent of 35 there may be almost no difference, so test an elder if you can, such as a grandparent or an older neighbour. Drinking little water can also slow it down, so it is not a perfect test.
-- **s4 (3 min)**  
-  *Parent does:* For each person, find the middle value of the three tries.  
-  *Parent says:* Put the three numbers in order, smallest to biggest. The one in the middle is the middle value. It is a fair number to use, because it ignores one very fast or very slow try.  
-  *Child mode:* Put the 3 numbers in order. The middle one is the one we use.
-  - Check: Arjun, a boy in Class 3, did the skin test with his Ammamma, his mother's mother. Her three tries took 2, 5 and 3 seconds. What is the middle value? → **3 seconds**
-- **s5 (4 min)**  
+- **s4 (6 min)**  
+  *Parent does:* For each person, find the middle value of the three tries. Then draw the bar chart.  
+  *Parent says:* Put the three numbers in order, smallest to biggest. The one in the middle is the middle value. It is a fair number to use, because it ignores one very fast or very slow try. Then draw one bar for each person, in order of age.  
+  *Child mode:* Put the 3 numbers in order. The middle one is the one we use. Draw a bar for each person.
+- **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: older skin springs back more slowly. What I saw: my skin went flat in less than 1 second, but Ammamma's took 3 seconds. Why: older skin has fewer springy threads inside.
+  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: older skin springs back more slowly. What I saw: my skin went flat in less than 1 second, but the oldest person's took 3 seconds. Why: older skin has fewer springy threads inside.
 ### e2 · How Close Can You Read? (20 min)
 - **question:** Does the closest distance at which people can read clearly change with age?
 - **predict:** Before you start, guess. Who in your family can read tiny print closest to their nose? Who will need it furthest away? Why do you think so?
@@ -353,7 +350,7 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 - **safety:** Never touch the eye with the card or ruler. Hold the end of the tape against the cheekbone, not the eye.
 - **record:** Fill in the table. Then draw a bar chart, one bar for each person in order of age.
 - **results table:** Person | Age (years) | Try 1: closest sharp distance (cm) | Try 2 (cm) | Try 3 (cm) | Middle value (cm)
-- **s1 (3 min)**  
+- **s1 (2 min)**  
   *Parent does:* Ask your child to guess who can read tiny print closest.  
   *Parent says:* Some grown-ups hold a phone far away to read it. Let's measure how close each person in our family can hold tiny print and still read it. Who do you think can hold it closest? Who will need it furthest away? Why do you think so?  
   *Child mode:* Some grown-ups hold a phone far away to read it. Guess who can read tiny print closest to their nose. Say why.
@@ -362,16 +359,16 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
   *Parent says:* Bring it closer, slowly. Tell me the moment the letters go fuzzy. Now move it back just until they are sharp. Hold still while I measure.  
   *Child mode:* Hold the card far away. Bring it closer slowly. Stop when the letters go fuzzy. Move it back until sharp. Measure.
   - Note: Children often reach 7 to 10 centimetres. People over 45 without reading glasses often need 30 centimetres or more. If an elder cannot see the print sharply even at arm's length, write 'more than arm's length'. A short-sighted person without their glasses can read very close at any age. That is why they keep their glasses on. If nobody at home is over 40, ask a grandparent, a relative or a neighbour to be tested.
-- **s3 (3 min)**  
-  *Parent does:* Look at the bars together.  
-  *Parent says:* Look at the bars. What happens to the distance as people get older?  
-  *Child mode:* Look at your bars. What happens as people get older?
+- **s3 (4 min)**  
+  *Parent does:* Draw the bar chart together, then look at the bars.  
+  *Parent says:* Draw one bar for each person, in order of age. Look at the bars. What happens to the distance as people get older?  
+  *Child mode:* Draw a bar for each person. Look at your bars. What happens as people get older?
   - Check: In the near point test, a grandmother of 58 needed the card 60 centimetres away. A child of 8 could read it at 8 centimetres. Why? → **The grandmother's eye lens has got stiffer, so it cannot focus on near things**
 - **s4 (4 min)**  
   *Parent does:* Ask your child to say or write three sentences: what I think, what I saw, why.  
   *Parent says:* Now tell me three things. What do you think now? What did you see? Why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: A good answer sounds like this. What I think: older people need to hold small print further away. What I saw: I could read at 8 centimetres, but Paati needed 60 centimetres. Why: the lens in her eye has got stiff, so it cannot focus up close.
+  - Note: A good answer sounds like this. What I think: older people need to hold small print further away. What I saw: I could read at 8 centimetres, but the oldest person needed 60 centimetres. Why: the lens in an older eye has got stiff, so it cannot focus up close.
 ### e3 · The High Sound Test (20 min)
 - **question:** Can younger people hear higher sounds than older people?
 - **predict:** Before you start, guess. Who will hear the highest sound? Will anyone hear sounds the others cannot? Why do you think so?
@@ -398,11 +395,10 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
   *Parent does:* Ask your child to say or write three sentences: what I think, what I saw, why.  
   *Parent says:* Now tell me three things. What do you think? What did you see? Why?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: A good answer sounds like this. What I think: young people can hear higher sounds. What I saw: I heard 15,000 hertz but Thatha only heard up to 8,000. Why: the hair cells for high sounds in his ears have worn out over the years.
+  - Note: A good answer sounds like this. What I think: young people can hear higher sounds. What I saw: I heard 15,000 hertz but the oldest person only heard up to 8,000. Why: the hair cells for high sounds in older ears have worn out over the years.
 
 ## Activities
 ### a1 · Hands Across Time (10 min)
-- **safety:** Ask each person before you touch their hand.
 - **record:** Draw around your hand and an elder's hand on one sheet. Write three things you noticed.
 - **s1 (5 min)**  
   *Parent does:* 1. Lay your hands flat next to your child's, and an elder's if possible. 2. Look in silence for one minute.  
@@ -417,7 +413,7 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
   *Child mode:* Draw around your hand and a grown-up's hand. Write three things you noticed.
   - Think: Grandma's hand was once smaller than yours. When did it change?
 ### a2 · Interview an Elder (20 min)
-- **safety:** Only visit elders you and your family know. A grown-up arranges the visit or call.
+- **safety:** Only visit or call elders your family knows.
 - **record:** Write or draw three of the elder's answers. Add one thing that surprised you.
 - **s1 (4 min)**  
   *Parent does:* Choose five questions together from this list. What games did you play at 8? What could your body do then that it cannot now? What can you do now that you could not do then? When did you get your first grey hair? What is the best thing about being older?  
@@ -432,9 +428,7 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
   *Parent does:* Talk about what your child learned.  
   *Parent says:* What surprised you? Did their body change in the ways we have been learning about?  
   *Child mode:* What surprised you? Did their body change like we learned?
-  - Check: In your interview, an elder says, 'At your age I could thread a needle easily. Now I need glasses.' Which change in the body does that show? → **The lens in the eye getting stiffer**
 ### a3 · Life Stage Parade (10 min)
-- **safety:** Move gently. Clear the floor of things to trip on.
 - **record:** Draw yourself in your favourite pose from the parade, and label the life stage.
 - **s1 (6 min)**  
   *Parent does:* Call out each stage slowly, and move together: newborn, crawling baby, toddler, child running, teenager growing tall, strong adult, elder walking carefully.  
@@ -452,7 +446,7 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 - **record:** Write which task was hardest, and one idea to make it easier for an elder.
 - **s1 (8 min)**  
   *Parent does:* 1. Time how long it takes to pick up 5 coins with bare hands, then with socks on your hands. 2. Try to do up 3 buttons with the socks on. 3. Sitting down, try to read small print through the smeared glasses.  
-  *Parent says:* As people get older, fingers can get stiff, and touch can feel less sharp. Eyes can get blurry for close things. This is a small taste of that. It is not a game to laugh at elders. It is a way to understand them.  
+  *Parent says:* As people get older, fingers can get stiff, and touch can feel less sharp. Eyes can also get cloudy, because the lens inside can cloud over. This is a small taste of that. It is not a game to laugh at elders. It is a way to understand them.  
   *Child mode:* Pick up coins with bare hands. Then with socks on your hands. Try buttons with socks on. Sit down and look through the smeared glasses.
 - **s2 (7 min)**  
   *Parent does:* Think together about ways to help.  
@@ -462,7 +456,6 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
   - Note: Gently point out that many elders are proud and capable. Good help means asking first, 'Would you like help?'
   - Check: In this activity, you wore thick socks on your hands. Which change in older bodies were the socks a model of? → **Stiffer joints and less sharp touch in the fingers**
 ### a5 · The Sticky-Note Body (15 min)
-- **safety:** No safety worries.
 - **record:** Draw your body outline and colour the parts that are replaced fast, slowly and never.
 - **s1 (3 min)**  
   *Parent does:* 1. Draw a big body outline. 2. Cover it with yellow sticky notes. 3. Label areas: skin, blood, gut, bones, brain, eye lens.  
@@ -477,10 +470,8 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
   *Parent does:* Look at the body together.  
   *Parent says:* Most of this body is new now. Some parts are as old as you. Is it still the same person?  
   *Child mode:* Most notes are new now. Some are still old. Is it still you?
-  - Check: In the sticky-note model, which notes were never swapped, because those cells stay with you all your life? → **The brain and eye lens notes**
   - Think: If your body is always changing, what is the 'you' that stays?
 ### a6 · My Life Line (20 min)
-- **safety:** Ask before using family photos. Use copies, not precious originals.
 - **record:** Your finished life line, with each life stage labelled.
 - **s1 (10 min)**  
   *Parent does:* 1. Mark 0, 1, 2 and so on up to your child's age on the strip. 2. Stick a photo or drawing at each age. 3. Under each, write one change: first tooth, first steps, lost a milk tooth.  
@@ -488,25 +479,23 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
   *Child mode:* Mark your ages on the strip. Stick a photo or drawing at each. Write what changed.
 - **s2 (10 min)**  
   *Parent does:* Make a longer line for an elder, with their help, from girl or boy to now. Label the stages.  
-  *Parent says:* Now let's do Paati's life. Her line is much longer. Can you find where she was your age?  
+  *Parent says:* Now let's do an elder's life. Their line is much longer. Can you find where they were your age?  
   *Child mode:* Make a long line for an elder. Find where they were your age.
   - Check: On the elder's life line, which stage comes straight after being a teenager? → **Adult**
   - Think: Where on your elder's line were they exactly your age? What were they doing?
 
 ## Projects
 ### p1 · The Then and Now Book (60 min, 3 days)
-- **safety:** Use copies of old photos, not originals. A grown-up arranges visits or calls.
 - **record:** The finished book, with at least 4 'then and now' pages.
 - **schedule:** day 1: Plan the book with the elder. Ask about their life when they were your age. (20 min); day 2: Draw pages: the elder at your age, and you now, side by side. Add body changes they remember. (20 min); day 3: Finish the book, read it together with the elder, and give it to them as a gift. (20 min)
 - **s1 (20 min) · grown-up needed**  
   *Parent does:* 1. Make the book. 2. With the elder, choose 4 ages: 8, 15, 30 and now. 3. Ask what their body could do and what life was like at each age.  
-  *Parent says:* We are making a book about Paati's life and yours. Each page will show her at one age, next to you.  
+  *Parent says:* We are making a book about the elder's life and yours. Each page will show them at one age, next to you.  
   *Child mode:* Make a book with an elder. Choose 4 ages. Ask what their body and life were like at each.
 - **s2 (20 min)**  
   *Parent does:* Draw one page for each age. Write one body change on each page, like 'first grey hair at 42' or 'started reading glasses at 45'.  
-  *Parent says:* On each page, draw Paati at that age. Write one way her body was different then.  
+  *Parent says:* On each page, draw the elder at that age. Write one way their body was different then.  
   *Child mode:* Draw the elder at each age. Write one body change on each page.
-  - Check: In your Then and Now Book, at which age page would the elder most likely write 'started reading glasses'? → **Age 45**
   - Wait: Come back the next day.
 - **s3 (20 min)**  
   *Parent does:* Add a cover. Read the book with the elder. Give it to them.  
@@ -534,10 +523,9 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
   *Parent does:* Build the model and label each idea.  
   *Parent says:* Now build it. Label each thing with the problem it solves.  
   *Child mode:* Build your room. Label each idea with the problem it solves.
-  - Check: In your elder-friendly room, why is a rubber mat on the bathroom floor such a good idea? → **Older bones break more easily, so stopping falls matters a lot**
 - **s4 (5 min)**  
   *Parent does:* Show it to an elder and ask what they think.  
-  *Parent says:* Let's ask Dadi. Would this help you? What would you change?  
+  *Parent says:* Show your model to an elder. Would this help you? What would you change?  
   *Child mode:* Show it to an elder. Ask: would this help you? What would you change?
 ### c2 · The Easy-Open Jar (25 min)
 - **problem:** Many elders find tight jar lids hard to open, because their hands grip less strongly. Invent a way to open a tight jar with less grip.
@@ -556,7 +544,7 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
   - Check: In the Easy-Open Jar challenge, a belt wrapped round the lid made it easier to turn. Why? → **The long end works like a lever, so you need less force**
 - **s3 (5 min)**  
   *Parent does:* Pick the best idea and give one to an elder.  
-  *Parent says:* Which idea won? Let's make one for Thatha's kitchen.  
+  *Parent says:* Which idea won? Let us make one for an elder you know.  
   *Child mode:* Which idea won? Make one for an elder you know.
 
 ## Worksheets
@@ -569,11 +557,11 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 3. (mcq) A baby's head is about one quarter of their length. A grown-up's head is only about one eighth. What does this tell you?  
    Options: After birth, the arms, legs and body grow much more than the head / A grown-up's head shrinks / Babies have bigger heads than grown-ups / Heads stop growing at birth  
    **Answer:** After birth, the arms, legs and body grow much more than the head. *Why:* The head is already big at birth, because the brain grows early. Then the legs and body do most of the growing. So the head becomes a smaller part of the whole. A grown-up's head is still bigger than a baby's, so 'bigger heads' is wrong.
-4. (mcq) A grandmother's hair has turned grey. Her granddaughter says, 'Paati's black hairs turned white.' What really happened?  
+4. (mcq) A grandmother's hair has turned grey. Her granddaughter says, 'Grandma's black hairs turned white.' What really happened?  
    Options: Her black hairs stayed black. The cells at the roots stopped making colour, so new hairs grew in white. / Her black hairs slowly turned white from the tip down / Dust collected on her hair / The sun bleached every hair  
    **Answer:** Her black hairs stayed black. The cells at the roots stopped making colour, so new hairs grew in white.. *Why:* A hair that has already grown cannot change colour. Pigment cells at the root put colour into each new hair. As they run out, new hairs grow white. White hairs mixed with dark ones look grey from far away.
 5. (write) Think of your snap-back skin test, where you gently pinched the back of a hand. Whose skin took longest to go flat? Use the springy threads inside skin to explain why.  
-   **Answer:** For example: Paati's skin took about 3 seconds. Mine went flat in less than 1 second. Skin has springy threads called collagen and elastin. Older skin has fewer of them, so it springs back more slowly.. *Why:* A strong answer uses the child's own numbers, puts the people in order of age, and explains the result with the springy threads, not with 'old skin is tired'.
+   **Answer:** For example: The oldest person's skin took about 3 seconds. Mine went flat in less than 1 second. Skin has springy threads called collagen and elastin. Older skin has fewer of them, so it springs back more slowly.. *Why:* A strong answer uses the child's own numbers, puts the people in order of age, and explains the result with the springy threads, not with 'old skin is tired'.
 6. (fill) The clear, bendy part inside your eye changes shape to make close things look sharp. It is called the ____.  
    **Answer:** ['lens', 'eye lens']. *Why:* The lens gets fatter and rounder to focus on near things. A child's lens is soft like jelly. An older lens is stiffer.
 7. (mcq) Before the near point test, a girl made a guess. She thought her mother, who is 46, would read the tiny card closer than she could. 'Grown-ups read more, so their eyes are better at it,' she said. What did the test most likely show?  
@@ -592,23 +580,23 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
    **Answer:** False. *Why:* False. Bones grow longer at their ends, in places called growth plates. In the late teens the growth plates close and turn to solid bone. After that, no amount of food makes a person taller.
 13. (draw) Draw the same person at three ages: 5, 35 and 75. Show and label at least three body changes.  
    **Answer:** A small child with a big head and milk teeth. A tall adult. An older person with grey hair, some wrinkles and reading glasses.. *Why:* A strong drawing shows changes in size, in how big the head is compared to the body, and in hair, skin and eyes, each one labelled.
-14. (write) Your Paati's knees are stiff, and small print looks blurry to her. Name two ways you could help her at home. For each one, say which body change it helps with.  
+14. (write) An elder you know has stiff knees, and small print looks blurry to them. Name two ways you could help them at home. For each one, say which body change it helps with.  
    **Answer:** For example: I can read the small print on medicine boxes for her, because her eye lens is stiff. I can put a rubber mat in the bathroom, because stiff knees and thinner bones make a fall dangerous. I ask her first if she wants the help.. *Why:* A strong answer links each kind of help to a real body change, and remembers to ask first. Elders are capable people.
 15. (perspective) Three people talk about growing old. Is it mostly losing things, or mostly gaining things?  
    **Answer:** A strong answer picks a side and backs it with evidence, such as the near point test, the skin test, or the fact that people keep learning words into their seventies. It then admits a fair point from another side.. *Why:* Ageing really has both sides. Some things get harder, like reading tiny print. Some can get better, like knowledge and experience. There is no single right answer.
 16. (fill) The last stage of every life cycle, for plants, animals and people, is ____.  
    **Answer:** ['death', 'dying']. *Why:* Every living being is born, grows, and one day dies. It is a natural part of every life cycle. It is fine to feel sad about it.
-### Bodies Through the Years (stretch) (stretch, 16 questions)
+### Bodies Through the Years (stretch) (stretch, 15 questions)
 1. (mcq) In the near point test, a girl aged 9 read the card at 8 cm. Her mother, aged 38, read it at 15 cm. Her grandmother, aged 68, needed 60 cm. What pattern do you see?  
    Options: The older the person, the further away they must hold small print / Mothers always read closest / Distance has nothing to do with age / The card was held differently for each person  
    **Answer:** The older the person, the further away they must hold small print. *Why:* The closest sharp distance moved further away with each older person. The lens adds layers and gets stiffer all through life. In a fair test everyone used the same card, so the card was not the cause.
 2. (write) The girl's teacher is 25 years old. She did the same near point test. Where do you predict her result fits among the girl's family: 8 cm at 9, 15 cm at 38, 60 cm at 68? Explain your guess.  
    **Answer:** For example: about 10 to 12 cm, between the girl and her mother. The teacher is older than the girl, so her lens is a bit stiffer. But she is younger than the mother, so it is softer than hers.. *Why:* A strong answer uses the pattern to place the new person in order of age, and gives the lens as the reason. Any guess between 8 and 15 cm with that reason is good.
-3. (mcq) In the high sound test, a girl aged 8 heard the 15,000 hertz beep. Her Thatha, aged 70, heard only up to 8,000. The girl said, 'Thatha wasn't listening properly.' What is a better explanation?  
-   Options: The hair cells for very high sounds wear out first with age / Thatha's ears are blocked with wax / High sounds are too quiet for everyone / Thatha was sitting too close  
+3. (mcq) In the high sound test, a girl aged 8 heard the 15,000 hertz beep. Her grandfather, aged 70, heard only up to 8,000. The girl said, 'Grandpa wasn't listening properly.' What is a better explanation?  
+   Options: The hair cells for very high sounds wear out first with age / Her grandfather's ears are blocked with wax / High sounds are too quiet for everyone / Her grandfather was sitting too close  
    **Answer:** The hair cells for very high sounds wear out first with age. *Why:* Deep inside the ear, tiny hair cells pick up sounds. The ones for the highest sounds wear out first. So most older people stop hearing very high beeps, even when they listen hard.
-4. (write) In the high sound test, everyone hears the beeps from the same speaker, at the same volume and distance. Why does that matter? What could go wrong if Thatha sat further away than the girl?  
-   **Answer:** Only age should be different, so we know age caused the result. If Thatha sat further away, the beep would be quieter for him. Then we could not tell if he missed it because of his age or because of the distance.. *Why:* A strong answer says that a fair test changes only one thing, and names how sitting further away would mix up the result.
+4. (write) In the high sound test, everyone hears the beeps from the same speaker, at the same volume and distance. Why does that matter? What could go wrong if the grandfather sat further away than the girl?  
+   **Answer:** Only age should be different, so we know age caused the result. If the grandfather sat further away, the beep would be quieter for him. Then we could not tell if he missed it because of his age or because of the distance.. *Why:* A strong answer says that a fair test changes only one thing, and names how sitting further away would mix up the result.
 5. (truefalse) Every cell in your body is replaced exactly every seven years.  
    **Answer:** False. *Why:* False. This is a popular saying, but there is no seven-year rule. Gut cells are replaced in days, and outer skin in about a month. Most brain cells and the cells in the middle of the eye lens are never replaced.
 6. (sort) Remember the Sticky-Note Body, where you swapped paper 'cells' on a body outline? Sort these by how often the body replaces them.  
@@ -626,18 +614,16 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 11. (mcq) Two twin sisters are 60 years old. They have the same genes. One sister worked outdoors in the hot sun all her life without a hat. The other worked indoors. Whose face most likely has more wrinkles, and why?  
    Options: The sister who worked in the sun, because sunlight slowly breaks down the springy threads in skin / The indoor sister, because skin needs sun to stay smooth / Both exactly the same, because twins have the same genes / Neither, because wrinkles come only from smiling  
    **Answer:** The sister who worked in the sun, because sunlight slowly breaks down the springy threads in skin. *Why:* The twins have the same genes, so the difference must come from how they lived. Strong sunlight damages collagen and elastin, the springy threads you tested in the snap-back skin test. So a hat and shade help skin age more slowly. Picking 'same genes' forgets that genes are not the whole story.
-12. (fill) A red blood cell lives for about 4 months. So in one year, your body replaces all its red blood cells about ____ times.  
-   **Answer:** ['3', 'three']. *Why:* A year has 12 months. 12 divided by 4 is 3. So you get a whole new set of red blood cells about three times a year.
-13. (draw) Draw two eyes from the side. Give one a soft, round lens for a child. Give the other a flatter, stiffer lens for an elder. Draw a book close to each eye. Label each book sharp or blurry.  
+12. (draw) Draw two eyes from the side. Give one a soft, round lens for a child. Give the other a flatter, stiffer lens for an elder. Draw a book close to each eye. Label each book sharp or blurry.  
    **Answer:** The child's round lens makes the close book sharp. The elder's stiff lens makes the close book blurry.. *Why:* A soft lens can bulge to focus on near things. A stiff one cannot bulge enough.
-14. (mcq) Jeanne Calment of France lived to 122. Some stories say a man in a village lived to 200. Why do scientists believe the 122 but not the 200?  
+13. (mcq) Jeanne Calment of France lived to 122. Some stories say a man in a village lived to 200. Why do scientists believe the 122 but not the 200?  
    Options: Jeanne Calment's birth was written down in records, so her age could be checked / Scientists only believe stories from France / Nobody can live past 100 / 200 is too big a number to count  
    **Answer:** Jeanne Calment's birth was written down in records, so her age could be checked. *Why:* Her birth certificate, school records and other papers showed when she was born. The 200-year stories have no records at all. Scientists trust a claim when it can be checked.
-15. (write) Arjun, a boy in Class 4, says, 'Old people can't learn new things.' Karthyayani Amma of Kerala passed a reading and writing exam at the age of 96. What would you tell Arjun?  
+14. (write) Arjun, a boy of 9 in Class 4, says, 'Old people can't learn new things.' Karthyayani Amma of Kerala passed a reading and writing exam at the age of 96. What would you tell Arjun?  
    **Answer:** For example: That is not true. Karthyayani Amma learned to read and write in her nineties and passed the exam. Brains keep making new connections all life. Some fast things may get slower, but people can keep learning.. *Why:* A strong answer uses the real example as evidence against a common belief, and is fair that some quick tasks do get slower with age.
-16. (write) Meera, a girl in Class 4, wrote down made-up skin test results: Child, 8: 0.5 seconds. Parent, 38: 1 second. Grandparent, 68: 3 seconds. She says, 'So skin only starts changing after 38.' Is she right? Explain.  
+15. (write) Meera, a girl in Class 3, wrote down made-up skin test results: Child, 8: 0.5 seconds. Parent, 38: 1 second. Grandparent, 68: 3 seconds. She says, 'So skin only starts changing after 38.' Is she right? Explain.  
    **Answer:** No. The parent's skin already took twice as long as the child's. So the change starts early and builds slowly. It only looks big later because it has added up for many years.. *Why:* A strong answer reads the numbers carefully and notices the change is already there between 8 and 38, not only after.
-### The Big Questions of Ageing (challenge) (challenge, 16 questions)
+### The Big Questions of Ageing (challenge) (challenge, 15 questions)
 1. (write) Your body makes about 4 million new cells every second. Is it still the same body it was last year? Give reasons.  
    **Answer:** Any thoughtful answer. For example: Much of it is new, because skin, blood and gut cells have been replaced. But my eye lens cells and most brain cells are the same. My memories carry on too. So it is the same body, but rebuilt.. *Why:* This is a real puzzle that thinkers have argued about for thousands of years. A strong answer uses facts about which cells are replaced and which stay.
 2. (perspective) Scientists still argue about why bodies age at all. Here are three of their main ideas.  
@@ -649,31 +635,29 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 5. (mcq) Killer whales are big dolphins. Old grandmother killer whales often lead their families to salmon, mostly in years when food is hard to find. Which idea does this support?  
    Options: Long life after having babies can help a family survive / Old animals are always weaker than young ones / Whales do not age / Salmon prefer grandmothers  
    **Answer:** Long life after having babies can help a family survive. *Why:* The grandmothers remember where food was in past hard years. Their families do better with them. This supports the grandmother idea: that long-lived grandmothers help their grandchildren survive.
-6. (write) Remember the snap-back skin test? The result can change if someone has drunk very little water. Name two ways you would make the test fairer.  
-   **Answer:** Ask everyone to drink a glass of water an hour before. Test everyone at the same time of day, in the same room. Pinch the same place for the same 3 seconds.. *Why:* Good scientists look for other things that could change the result, and keep them the same. A strong answer names at least two.
-7. (mcq) Each time a cell splits, the caps on the ends of their gene threads get a little shorter. Skin cells split again and again all life. The cells in the middle of the eye lens hardly split at all. After 60 years, whose caps would you expect to be shorter?  
+6. (mcq) Each time a cell splits, the caps on the ends of their gene threads get a little shorter. Skin cells split again and again all life. The cells in the middle of the eye lens hardly split at all. After 60 years, whose caps would you expect to be shorter?  
    Options: The skin cells' caps / The lens cells' caps / Both exactly the same / Neither has caps  
    **Answer:** The skin cells' caps. *Why:* The caps shorten with each split. Skin cells split many more times, so their caps shorten more. The lens shows that ageing is not only about splitting. It ages by keeping its old cells.
-8. (write) When a body dies, their atoms go back into the soil, water and air. Where might those atoms go next?  
+7. (write) When a body dies, their atoms go back into the soil, water and air. Where might those atoms go next?  
    **Answer:** Into a plant, which a cow or a person might eat. Into a tree. Into a river. Into a new living being.. *Why:* Atoms are never lost. They move through soil, plants and animals again and again. A strong answer follows the atoms for at least two steps.
-9. (mcq) Hydras are tiny water animals. In a 1998 study, hydras showed no signs of ageing for four years. What does this tell scientists?  
+8. (mcq) Hydras are tiny water animals. In a 1998 study, hydras showed no signs of ageing for four years. What does this tell scientists?  
    Options: Ageing is not the same for every living being / Hydras live for ever, for sure / All animals live four years / Hydras are not alive  
    **Answer:** Ageing is not the same for every living being. *Why:* Hydras seem to keep renewing their bodies. This shows ageing is not fixed for all life. Scientists still do not know if hydras truly never age.
-10. (draw) Design a bus stop sign that an elder with a stiff eye lens can read from the bench. Label two choices you made, and which body change each one helps with.  
+9. (draw) Design a bus stop sign that an elder with a stiff eye lens can read from the bench. Label two choices you made, and which body change each one helps with.  
    **Answer:** For example: big, dark letters on a light background, for older eyes. A picture of the bus number, so it can be read from far away. A loud and flashing light when the bus comes, for ears that hear less.. *Why:* Good design fits real changes in older bodies. Big letters with strong contrast are easier for a stiff lens and older eyes.
-11. (write) Why do we feel sad when someone dies? How do people in your family remember those who have died?  
-   **Answer:** Any honest answer. For example: We feel sad because we loved them and miss them. My family lights a lamp and cooks their favourite food on their day.. *Why:* Grief is a sign of love. Families and cultures have many ways of remembering. Every honest answer is a good one.
-12. (sort) Sort these claims about ageing.  
+10. (write) How do people in your family remember those who have died? Why do you think families do this?  
+   **Answer:** Any honest answer. For example: My family lights a lamp and cooks their favourite food on their day. We do it to show we still love them and have not forgotten them.. *Why:* Grief is a sign of love. Families and cultures have many ways of remembering. Every honest answer is a good one.
+11. (sort) Sort these claims about ageing.  
    **Answer:** Bodies go through stages in the same order → Scientists agree; Exercise helps at any age → Scientists agree; Why bodies age at all → Scientists still argue; Whether ageing can be cured → Scientists still argue; Grey hair comes from fewer pigment cells → Scientists agree; How many new brain cells old brains make → Scientists still argue. *Why:* Science is sure about many facts of ageing, but its deepest causes are still open.
-13. (mcq) Astronauts who spend six months floating in space come back with weaker bones, a little like older people's bones. In space, their legs carry no weight. What does this suggest?  
+12. (mcq) Astronauts who spend six months floating in space come back with weaker bones, a little like older people's bones. In space, their legs carry no weight. What does this suggest?  
    Options: Bones stay strong when they carry weight and are used, so walking and exercise help bones at any age / Space air is bad for bones / Astronauts get old very fast / Only age can make bones weaker  
    **Answer:** Bones stay strong when they carry weight and are used, so walking and exercise help bones at any age. *Why:* Bones are living and are rebuilt all the time. When they carry weight, the body keeps them strong. With no weight to carry, the body takes some of their hard minerals away. So weak bones in old age are partly about less use, and walking, skipping and lifting help.
-14. (mcq) Scientists tested thousands of people. Quick puzzles were done fastest by people in their twenties. But people kept learning more words into their sixties and seventies. A company needs someone to help new workers with hard problems. Kavya, a girl of 9, says, 'Hire only young people.' What does the evidence say?  
+13. (mcq) Scientists tested thousands of people. Quick puzzles were done fastest by people in their twenties. But people kept learning more words into their sixties and seventies. A company needs someone to help new workers with hard problems. Kavya, a girl of 9, says, 'Hire only young people.' What does the evidence say?  
    Options: An older worker's knowledge and experience may help more with hard problems / Only young people can solve problems / Old people know fewer words / Age makes no difference to anything  
    **Answer:** An older worker's knowledge and experience may help more with hard problems. *Why:* Different abilities peak at different ages. Speed on quick puzzles is highest when young. Knowledge, words and experience keep growing. A strong team often needs both.
-15. (truefalse) Animals with bigger bodies always live longer than animals with smaller bodies.  
+14. (truefalse) Animals with bigger bodies always live longer than animals with smaller bodies.  
    **Answer:** False. *Why:* False. It is often true, but not always. Some bats, as small as mice, live for over 40 years, while mice live about 2. So body size is not the whole story.
-16. (draw) Draw a graph of a person's height from birth to age 90. Show where it rises fast, where it stops, and where it drops a little in old age.  
+15. (draw) Draw a graph of a person's height from birth to age 90. Show where it rises fast, where it stops, and where it drops a little in old age.  
    **Answer:** A steep rise in the first year, a slower rise in childhood, a fast rise in the teenage growth spurt, then flat from the late teens. Near the end it dips a little, because the spine gets a little shorter in old age.. *Why:* A strong graph shows the fast first year, the growth spurt, the flat grown-up years and a small drop in old age.
 
 ## Videos
@@ -765,7 +749,7 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 ## Questions to ask kids
 - Can you find a grey hair on anyone at home today? How many?
 - What could you do this year that you could not do last year?
-- What do you think Paati or Thatha was like at your age?
+- What do you think an elder you know was like at your age?
 - Which elder do you know who still learns new things?
 - Who in our home holds the phone furthest away to read it? Why?
 - If you could ask your future self at 80 one question, what would it be?
@@ -777,29 +761,20 @@ I am still a needle. I have been held by a girl who became an old woman. Now I a
 
 ## Jokes
 - Why did the grandfather hold his newspaper so far away? *He wanted the news to come from a long way off!*
-- What did Thatha say when he could not read the menu? *My arms have grown too short!*
 - Why don't babies play hide and seek? *Their big heads always give them away.*
 - What did the white hair say to the black hair? *Don't worry, you'll get there one day.*
 - Why did the teenager bring a ladder to school? *To keep up with how fast they were growing.*
 - What is the best thing about being 100? *There is very little peer pressure.*
 - Why are grandparents like libraries? *They are full of stories, and they never charge a late fee.*
-- What did the old skin cell say when falling off? *I'm flaking out, but a new cell will take my place.*
-- Why did the red blood cell throw a party? *It had lasted four whole months!*
-- Why is a baby's head so big for their body? *Its brain got a head start.*
-- Why did Paati's reading glasses go to school? *To get a little sharper.*
-- What do you call a wrinkle that smiles? *A laugh line.*
-- Why did the hydra never have a birthday party? *It never seemed to get any older.*
+- Why did the reading glasses go to school? *To get a little sharper.*
 - What did the eye lens say to the book? *Please step back, I'm not as flexible as I used to be.*
-- Why did the growth plate stop working? *It said, 'I've done enough growing for one lifetime.'*
-- What did the grandmother killer whale say to her family? *Follow me, I know where the fish are!*
 - Why did the Greenland shark say no to a birthday cake? *272 candles would melt the sea ice.*
-- Why did the knee join a yoga class? *It wanted to stay flexible.*
-- What did the needle say to the old tailor? *You don't need to see me. Your fingers already know me.*
+- What did the old skin cell say when falling off? *I'm flaking out, but a new cell will take my place.*
 
 ## Connected maths
 - In the near point test, a child read tiny print at 10 cm. A grandmother needed it 60 cm away. How many times further away did the grandmother need it? **6 times.**. The grandmother needed 60 cm. The child needed 10 cm. 60 divided by 10 is 6. You can check: 10 + 10 + 10 + 10 + 10 + 10 = 60. (queues `math.division.sharing-and-grouping.L3`)
 - Riya, a girl in Class 3, did the skin test with her Dadi, her father's mother. Dadi's three tries took 4 seconds, 2 seconds and 3 seconds. What is the middle value? **3 seconds.**. Put the numbers in order, smallest first: 2, 3, 4. The number in the middle is 3. So the middle value is 3 seconds. (queues `math.number-sense.comparing-ordering.L3`)
-- A newborn is about 50 cm long. By its first birthday it is about 75 cm. Later, a child grows about 5 cm a year. How many years does a child take to grow as much as a baby grows in their first year? **5 years.**. The baby grew 75 minus 50, which is 25 cm, in one year. A child grows 5 cm a year. 25 divided by 5 is 5. So a child takes 5 years to grow what a baby grows in one. (queues `math.division.division-facts.L3`)
+- A newborn is about 50 cm long. By their first birthday they are about 75 cm. Later, a child grows about 5 cm a year. How many years does a child take to grow as much as a baby grows in their first year? **5 years.**. The baby grew 75 minus 50, which is 25 cm, in one year. A child grows 5 cm a year. 25 divided by 5 is 5. So a child takes 5 years to grow what a baby grows in one. (queues `math.division.division-facts.L3`)
 - In 1951, life expectancy in India was about 32 years. Today it is about 70 years. How many more years can a baby born today expect to live? **38 more years.**. 70 minus 32. First 70 minus 30 is 40. Then 40 minus 2 is 38. So about 38 more years. (queues `math.addition-subtraction.mental-strategies.L3`)
 - In your interview, the elder is 68 years old and you are 8. How many years ago was the elder your age? If this year is 2026, what year was that? **60 years ago, in 1966.**. 68 minus 8 is 60. So the elder was 8 years old 60 years ago. 2026 minus 60 is 1966. (queues `math.addition-subtraction.word-problems.L3`)
 - A red blood cell lasts about 4 months. A year has 12 months. About how many times are your red blood cells replaced in one year? **About 3 times.**. 12 divided by 4 is 3. So your red blood cells are replaced about 3 times a year. You can check: 4 + 4 + 4 = 12. (queues `math.division.sharing-and-grouping.L3`)
@@ -818,8 +793,8 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in/) · place · Bengaluru: A science museum with hands-on galleries. Check what is showing about the body and health before you go.
 
 ## Things to buy
-- [A soft measuring tape in centimetres](https://www.amazon.in/s?k=measuring+tape+tailor+cm) (tool): Used to measure the near point in the near point test. A school ruler and a piece of string also work. Used in e2. Used again in Body Parts L3 and in maths units on length.
-- [Wilfrid Gordon McDonald Partridge, by Mem Fox (picture book)](https://www.amazon.in/s?k=Wilfrid+Gordon+McDonald+Partridge+Mem+Fox) (book): A gentle story of a small boy who helps a very old friend find her memories. Used in a2, p1. Read it before the Interview an Elder activity or the Then and Now Book.
+- [A soft measuring tape in centimetres](https://www.amazon.in/s?k=measuring+tape+tailor+cm) (tool): Used to measure the near point in the near point test. A school ruler and a piece of string also work. Used in e2. 
+- [Wilfrid Gordon McDonald Partridge, by Mem Fox (picture book)](https://www.amazon.in/s?k=Wilfrid+Gordon+McDonald+Partridge+Mem+Fox) (book): A gentle story of a small boy who helps a very old friend find her memories. Used in a2, p1. 
 
 ## Warm-up
 - Name the five life stages in order. → Baby, child, teenager, adult, older adult.
@@ -843,7 +818,6 @@ This Body Is a Universe (sci.body.L3): Topic-level song
 - Founder notebook item bio:238, Aging and gerontology
 - Combined lesson sci-C2-growing-up-and-having-young: life cycles and the end of life, growth plates, lifespans, the grandmother idea (voice of Kristen Hawkes)
 - Combined lesson sci-C3-family: interviewing elders, life lines of generations, care shared by many hands
-- The founder's sheets were searched for ageing words but held no specific ageing activities
 - Bianconi et al., Annals of Human Biology 2013 (about 37 trillion cells in a human body)
 - Sender and Milo, Nature Medicine 2021 (about 330 billion cells replaced a day, mostly blood)
 - Spalding, Bhardwaj, Buchholz, Druid and Frisén, Cell 2005 (dating human cells with bomb-test carbon-14)

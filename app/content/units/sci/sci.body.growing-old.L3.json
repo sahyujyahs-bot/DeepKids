@@ -87,7 +87,7 @@
    "term": "Lens",
    "meaning": "The clear, bendy part inside your eye. It changes shape so that things look sharp.",
    "example": "When you read a book up close, your lens gets fatter to make the words sharp.",
-   "art": "A drawing of an eye with a clear bean-shaped lens inside it."
+   "art": "A drawing of an eye, with a clear bean-shaped lens inside the eye."
   },
   {
    "term": "Near point",
@@ -117,7 +117,7 @@
    "term": "Death",
    "meaning": "When a living thing's body stops working for good. It is the last part of every life cycle.",
    "example": "Old leaves fall from a tree and become soil. A very old pet may die peacefully.",
-   "art": "A dry leaf resting on soil, with a small green sprout beside it."
+   "art": "A dry leaf resting on soil, with a small green sprout next to the leaf."
   }
  ],
  "explanations": [
@@ -139,7 +139,7 @@
    "concept": "A baby's body is different",
    "status": "defined",
    "definition": "A baby's body is not a small adult body. It has different proportions, softer bones and it grows faster than at any other time of life.",
-   "description": "A newborn is about 50 centimetres long. By their first birthday it is about 75 centimetres. That is the fastest growing a person ever does. A baby's head is about one quarter of their whole length. In an adult, the head is only about one eighth. A baby's skull has soft spots, where the bones have not joined yet. This lets the skull grow with the brain. A baby is born with about 300 bones and soft parts that will become bone. Many of them join together as the child grows. An adult has 206 bones.",
+   "description": "A newborn is about 50 centimetres long. By their first birthday they are about 75 centimetres. That is the fastest growing a person ever does. A baby's head is about one quarter of their whole length. In an adult, the head is only about one eighth. A baby's skull has soft spots, where the bones have not joined yet. This lets the skull grow with the brain. A baby is born with about 300 bones and soft parts that will become bone. Many of them join together as the child grows. An adult has 206 bones.",
    "examples": [
     "A baby's legs are short compared to their body. In an adult, the legs are about half of the whole height.",
     "Baby teeth are already hiding inside a baby's gums at birth.",
@@ -488,7 +488,7 @@
   {
    "q": "When someone dies, where do the atoms of their body go?",
    "kind": "deep",
-   "hint": "Think of a fallen leaf turning into soil, and a new plant growing from it."
+   "hint": "Think of a fallen leaf turning into soil, and a new plant growing in that soil."
   },
   {
    "q": "Why do we feel sad when someone we love dies? What does the sadness tell us?",
@@ -546,39 +546,114 @@
   {
    "id": "g1",
    "title": "Who Am I? The Life Stage Game",
-   "mins": 20,
-   "players": "2 to 6 players, or one child playing against the app",
-   "context": "This is a card game about the stages of a human life: baby, child, teenager, adult and older adult. Players read a clue card and decide which stage it describes.",
+   "mins": 25,
+   "players": "2 to 6 players",
+   "context": "This is a card game about the stages of a human life: baby, child, teenager, adult and older adult. Players read a clue card, decide which stage it describes, and then turn the card over to check.",
    "printables": [
     {
      "kind": "cards",
-     "title": "30 clue cards to cut out",
+     "title": "30 clue cards to cut out (clue on the front, stage on the back)",
      "items": [
-      "I have no teeth yet, but my teeth are hiding in my gums.",
-      "My head is one quarter of my whole length.",
-      "I have a soft spot on top of my head.",
-      "I grew about 25 centimetres this year, the fastest I will ever grow.",
-      "My milk teeth are falling out one by one.",
-      "I can read tiny print held 10 centimetres from my nose.",
-      "I grow about 5 or 6 centimetres every year.",
-      "My voice is cracking and getting deeper.",
-      "I grew so fast this year that none of my shoes fit.",
-      "My growth plates have just closed. I will not grow any taller.",
-      "My bones are at their thickest and strongest.",
-      "I have started holding the newspaper further away to read it.",
-      "I found my first few grey hairs.",
-      "My hair is mostly white now.",
-      "I hold my phone at arm's length to read a message.",
-      "I hear high whistles less well than I used to.",
-      "My skin has soft lines where I have smiled for years.",
-      "I know the words to songs nobody else in the family remembers.",
-      "I have shrunk about 3 centimetres since I was 40.",
-      "I do yoga every morning to keep my knees moving.",
-      "ALL AGES: My body makes millions of new cells every second.",
-      "ALL AGES: I can learn something new today.",
-      "ALL AGES: I need sleep, food, water and people who love me.",
-      "ALL AGES: The cells in the middle of my eye lens were made before I was born.",
-      "ALL AGES: Exercise makes my muscles stronger.",
+      {
+       "f": "I have no teeth yet, but my teeth are hiding in my gums.",
+       "b": "BABY"
+      },
+      {
+       "f": "My head is one quarter of my whole length.",
+       "b": "BABY"
+      },
+      {
+       "f": "I have a soft spot on top of my head.",
+       "b": "BABY"
+      },
+      {
+       "f": "I grew about 25 centimetres this year, the fastest I will ever grow.",
+       "b": "BABY"
+      },
+      {
+       "f": "My milk teeth are falling out one by one.",
+       "b": "CHILD"
+      },
+      {
+       "f": "I can read tiny print held 10 centimetres from my nose.",
+       "b": "CHILD"
+      },
+      {
+       "f": "I grow about 5 or 6 centimetres every year.",
+       "b": "CHILD"
+      },
+      {
+       "f": "My voice is cracking and getting deeper.",
+       "b": "TEENAGER"
+      },
+      {
+       "f": "I grew so fast this year that none of my shoes fit.",
+       "b": "TEENAGER"
+      },
+      {
+       "f": "My growth plates have just closed. I will not grow any taller.",
+       "b": "TEENAGER or ADULT"
+      },
+      {
+       "f": "My bones are at their thickest and strongest.",
+       "b": "ADULT"
+      },
+      {
+       "f": "I have started holding the newspaper further away to read it.",
+       "b": "ADULT or OLDER ADULT"
+      },
+      {
+       "f": "I found my first few grey hairs.",
+       "b": "ADULT"
+      },
+      {
+       "f": "My hair is mostly white now.",
+       "b": "OLDER ADULT"
+      },
+      {
+       "f": "I hold my phone at arm's length to read a message.",
+       "b": "ADULT or OLDER ADULT"
+      },
+      {
+       "f": "I hear high whistles less well than I used to.",
+       "b": "ADULT or OLDER ADULT"
+      },
+      {
+       "f": "My skin has soft lines where I have smiled for years.",
+       "b": "OLDER ADULT"
+      },
+      {
+       "f": "I know the words to songs nobody else in the family remembers.",
+       "b": "OLDER ADULT"
+      },
+      {
+       "f": "I have shrunk about 3 centimetres since I was 40.",
+       "b": "OLDER ADULT"
+      },
+      {
+       "f": "I do yoga every morning to keep my knees moving.",
+       "b": "OLDER ADULT"
+      },
+      {
+       "f": "ALL AGES: My body makes millions of new cells every second.",
+       "b": "ALL AGES"
+      },
+      {
+       "f": "ALL AGES: I can learn something new today.",
+       "b": "ALL AGES"
+      },
+      {
+       "f": "ALL AGES: I need sleep, food, water and people who love me.",
+       "b": "ALL AGES"
+      },
+      {
+       "f": "ALL AGES: The cells in the middle of my eye lens were made before I was born.",
+       "b": "ALL AGES"
+      },
+      {
+       "f": "ALL AGES: Exercise makes my muscles stronger.",
+       "b": "ALL AGES"
+      },
       "TRY IT: Pinch the skin on the back of your hand. Count how long it takes to go flat.",
       "TRY IT: Hold this card close to your nose and slowly move it away. When do the words go sharp?",
       "TRY IT: Walk like a baby who has just learned to walk. Now walk like a teenager in a hurry.",
@@ -597,23 +672,16 @@
       "OLDER ADULT",
       "ALL AGES"
      ]
-    },
-    {
-     "kind": "tokens",
-     "title": "20 star tokens (small paper circles)",
-     "items": [
-      "⭐"
-     ]
     }
    ],
    "rules": [
-    "Cut out the 30 cards. Shuffle them and put them face down in a pile.",
+    "Cut out the 30 cards and the life line mat. Shuffle the cards and put them in a pile with the clue side up.",
     "Lay the life line mat on the floor, with BABY at one end and OLDER ADULT at the other. Put ALL AGES at the side.",
-    "On your turn, take the top card and read it out loud.",
-    "Put the card on the stage you think it belongs to, and say why. If you are right, win one star.",
-    "Some cards belong to ALL AGES. Spotting one of these wins two stars.",
-    "If you draw a TRY IT card, everyone does it together. Then the player who drew it wins one star.",
-    "When the cards run out, the player with the most stars wins."
+    "On your turn, take the top card and read the clue out loud. Do not look at the back.",
+    "Put the card on the stage you think it fits, and say why. Then turn the card over. If the back names your stage, win one star. If the back names two stages, either one is right.",
+    "ALL AGES cards are true for everyone. If you spot one, win two stars.",
+    "A TRY IT card has no back. Everyone does it together, and then the player who drew it wins one star.",
+    "Keep score with tally marks on a sheet of paper. When the cards run out, the player with the most stars wins. If two players tie, they share the win."
    ],
    "setup": [
     {
@@ -625,22 +693,22 @@
      "caption": "2. Take a card and read it out loud."
     },
     {
-     "art": "A hand placing a card on the OLDER ADULT box of the mat, with a star token next to it.",
-     "caption": "3. Put it on the right stage and say why."
+     "art": "A hand placing a card on the OLDER ADULT box of the mat, with a tally of stars written on paper beside it.",
+     "caption": "3. Put it on the right stage and say why. Then turn the card over to check."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay the life line mat on the floor. 2. Shuffle the 30 cards and put them face down. 3. Put the star tokens in a bowl.",
+     "do": "1. Lay the life line mat on the floor. 2. Shuffle the 30 cards and put them in a pile, clue side up. 3. Take a sheet of paper and a pencil to keep score.",
      "say": "Every person goes through the same stages of life, in the same order. Baby, child, teenager, adult and older adult. Each card describes a body at one stage. Let's work out which one.",
      "kid": "Lay the mat on the floor. Mix up the cards. Every person goes through these stages. Each card is a clue to one stage.",
      "context": "This is the first step of the Life Stage Game. You set up the mat and cards."
     },
     {
      "id": "s2",
-     "mins": 8,
+     "mins": 13,
      "do": "Take turns reading cards and placing them. After each card, ask the player to say why.",
      "say": "Read the card out loud. Which stage is it? Tell us why you think so.",
      "kid": "Read your card out loud. Which stage is it? Say why.",
@@ -653,14 +721,14 @@
        ]
       }
      ],
-     "parent": "Clue cards about reading distance belong to ADULT or OLDER ADULT, since the eye lens stiffens from about 40. Accept either and talk about it.",
+     "parent": "Clue cards about reading distance fit ADULT or OLDER ADULT, since the eye lens stiffens from about 40. The back of those cards says so.",
      "context": "This step is the main part of the Life Stage Game. Players read clue cards and place them on a life stage."
     },
     {
      "id": "s3",
      "mins": 4,
      "do": "When someone draws an ALL AGES card, stop and talk about it.",
-     "say": "This one is true for babies, children and grandparents too. Your body is making new cells right now, and so is Paati's.",
+     "say": "This one is true for babies, children and grandparents too. Your body is making new cells right now, and so is every grown-up's.",
      "kid": "ALL AGES cards are true for everyone. A baby and a grandparent both do this.",
      "check": {
       "t": "mcq",
@@ -695,22 +763,108 @@
    "printables": [
     {
      "kind": "board",
-     "title": "A 10 by 10 board with squares numbered 1 to 100, each row a decade of life",
+     "title": "A 10 by 10 board of 100 squares, each row a decade of life",
      "items": [
-      "Squares 1 to 12: the childhood row, drawn with toys and school bags",
-      "Squares 13 to 19: the teenage squares, drawn with a growing door-frame",
-      "Squares 20 to 59: the adult rows, drawn with work and family",
-      "Squares 60 to 100: the elder rows, drawn with grandchildren, walking sticks and books",
-      "Ladder from 8 to 24: You play outside every day. Strong bones for life!",
-      "Ladder from 27 to 45: You walk or cycle to work.",
-      "Ladder from 38 to 57: You keep learning new things.",
-      "Ladder from 52 to 71: You stay close to friends and family.",
-      "Ladder from 63 to 84: You do strength exercises, even at 63.",
-      "Ladder from 76 to 92: You teach your grandchildren a skill.",
-      "Slide from 33 to 14: You start smoking.",
-      "Slide from 49 to 30: You sit all day and never move.",
-      "Slide from 67 to 46: You feel lonely and stop seeing people.",
-      "Slide from 87 to 68: You trip on a slippery floor with no mat."
+      "1: START. Baby years (draw a baby)",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6: Child years begin (draw toys and school bags)",
+      "7",
+      "8: LADDER up to 24: You play outside every day. Strong bones for life!",
+      "9",
+      "10: LIFE CARD square",
+      "11",
+      "12",
+      "13: Teenager years begin (draw a growing door-frame)",
+      "14: Bottom of the slide from 33",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20: Adult years begin (draw work and family). LIFE CARD square",
+      "21",
+      "22",
+      "23",
+      "24: Top of the ladder from 8",
+      "25",
+      "26",
+      "27: LADDER up to 45: You walk or cycle to work.",
+      "28",
+      "29",
+      "30: Bottom of the slide from 49. LIFE CARD square",
+      "31",
+      "32",
+      "33: SLIDE down to 14: You start smoking.",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38: LADDER up to 57: You keep learning new things.",
+      "39",
+      "40: LIFE CARD square",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45: Top of the ladder from 27",
+      "46: Bottom of the slide from 67",
+      "47",
+      "48",
+      "49: SLIDE down to 30: You sit all day and never move.",
+      "50: LIFE CARD square",
+      "51",
+      "52: LADDER up to 71: You stay close to friends and family.",
+      "53",
+      "54",
+      "55",
+      "56",
+      "57: Top of the ladder from 38",
+      "58",
+      "59",
+      "60: Older adult years begin (draw grandchildren, walking sticks and books). LIFE CARD square",
+      "61",
+      "62",
+      "63: LADDER up to 84: You do strength exercises, even at 63.",
+      "64",
+      "65",
+      "66",
+      "67: SLIDE down to 46: You feel lonely and stop seeing people.",
+      "68: Bottom of the slide from 87",
+      "69",
+      "70: LIFE CARD square",
+      "71: Top of the ladder from 52",
+      "72",
+      "73",
+      "74",
+      "75",
+      "76: LADDER up to 92: You teach your grandchildren a skill.",
+      "77",
+      "78",
+      "79",
+      "80: LIFE CARD square",
+      "81",
+      "82",
+      "83",
+      "84: Top of the ladder from 63",
+      "85",
+      "86",
+      "87: SLIDE down to 68: You trip on a slippery floor with no mat.",
+      "88",
+      "89",
+      "90: LIFE CARD square",
+      "91",
+      "92: Top of the ladder from 76",
+      "93",
+      "94",
+      "95",
+      "96",
+      "97",
+      "98",
+      "99",
+      "100: FINISH"
      ]
     },
     {
@@ -718,22 +872,22 @@
      "title": "20 life cards",
      "items": [
       "Age 1: You take your first steps. Move ahead 1.",
-      "Age 6: Your first milk tooth falls out. Show everyone a gap-toothed smile.",
-      "Age 13: Growth spurt! Stand up and stretch as tall as you can.",
-      "Age 18: You stop growing taller. Your growth plates have closed.",
-      "Age 30: Your bones are at their strongest ever.",
-      "Age 45: You need reading glasses. Hold this card at arm's length to read it.",
-      "Age 50: Your first grey hairs appear. Tell everyone one fact about pigment.",
+      "Age 6: Your first milk tooth falls out. Show everyone a gap-toothed smile, then move ahead 1.",
+      "Age 13: Growth spurt! Stand up and stretch as tall as you can, then move ahead 3.",
+      "Age 18: You stop growing taller. Your growth plates have closed. Move ahead 1.",
+      "Age 30: Your bones are at their strongest ever. Move ahead 2.",
+      "Age 45: You need reading glasses. Hold this card at arm's length to read it, then move ahead 1.",
+      "Age 50: Your first grey hairs appear. Say one thing you know about why hair turns grey, then move ahead 1.",
       "Age 65: You learn to use a new phone. Move ahead 2.",
-      "Age 70: Your grandchild asks you for a story. Tell a 30-second story to win a star.",
-      "Age 80: You hear high sounds less well. Next turn, someone must whisper your number to you.",
+      "Age 70: Your grandchild asks you for a story. Tell a 30-second story, then move ahead 2.",
+      "Age 80: You hear high sounds less well. Everyone speaks in a low voice until your next turn. Move ahead 1.",
       "Any age: You sleep well every night. Move ahead 2.",
       "Any age: You eat sambar, greens and fruit. Move ahead 1.",
       "Any age: You drink clean water. Move ahead 1.",
       "Any age: You skip your vaccine. Miss a turn.",
       "Any age: You help an elder carry their bag. Move ahead 2.",
       "Any age: You sit in the strong sun every day with no hat. Your skin wrinkles faster. Move back 1.",
-      "Any age: Your body makes 4 million new cells this second. Clap 4 times.",
+      "Any age: Your body makes 4 million new cells this second. Clap 4 times, then move ahead 1.",
       "Any age: You learn a new song. Move ahead 1.",
       "Any age: You laugh with a friend. Move ahead 1.",
       "Any age: You spend all day on a screen. Move back 1."
@@ -743,22 +897,26 @@
      "kind": "tokens",
      "title": "Counters and a dice",
      "items": [
-      "one counter per player",
-      "one dice"
+      "Counter 1 (a coin or a bottle cap)",
+      "Counter 2",
+      "Counter 3",
+      "Counter 4",
+      "One dice (from a Ludo set, or cut a paper cube). Roll it twice and add the two numbers"
      ]
     }
    ],
    "rules": [
-    "Each player puts a counter before square 1.",
-    "Roll the dice and move that many squares. Each square is one year of your life.",
+    "Each player puts a counter on square 1.",
+    "On your turn, roll the dice twice and add the two numbers. Move that many squares. Each square is one year of your life.",
     "If you land at the bottom of a ladder, read it out and climb up.",
     "If you land on the top of a slide, read it out and slide down.",
-    "When you land on a square ending in 0, like 10, 20 or 30, take a life card and do what it says.",
-    "Everyone who reaches 100 wins. There is no loser. The first one to arrive tells a story about their 'life'."
+    "When you land on a square ending in 0, like 10, 20 or 30, take the top life card. If it names an age (like Age 45), it only fits a player whose square is that age or up to 10 more. If it does not fit, put it under the pile and take the next one. Then do what the card says. If the pile runs out, shuffle the used cards.",
+    "You do not take a life card when a ladder or slide brings you to a square ending in 0.",
+    "The first player to reach 100 wins and tells a story about their \"life\". You do not need an exact roll: reaching or passing 100 is enough."
    ],
    "setup": [
     {
-     "art": "A colourful 10 by 10 board with numbered squares, ladders drawn as bicycles and books, and slides drawn as cigarettes and sofas.",
+     "art": "A colourful 10 by 10 board with numbered squares, ladders drawn as bicycles and books, and slides drawn as sofas and puddles.",
      "caption": "1. Lay out the board and put the counters before square 1."
     },
     {
@@ -767,7 +925,7 @@
     },
     {
      "art": "Two counters climbing a ladder labelled 'You keep learning new things'.",
-     "caption": "3. Climb ladders and slide down slides as you move to 100."
+     "caption": "3. Climb ladders and slide down slides as you move towards 100."
     }
    ],
    "flow": [
@@ -785,26 +943,15 @@
      "do": "Play, taking turns. Read every ladder, slide and life card out loud.",
      "say": "When you land on a ladder or a slide, read it out loud. Then tell us why that habit would help or harm a body.",
      "kid": "Roll and move. Read each ladder or slide out loud. Do what the life cards say.",
-     "check": {
-      "t": "mcq",
-      "q": "On the board, a ladder goes from 63 to 84 for doing strength exercises. What have scientists found about exercise in old age?",
-      "options": [
-       "It is too late to get stronger after 60",
-       "Muscles can get stronger at any age, even at 90",
-       "Only young people should exercise"
-      ],
-      "a": 1,
-      "why": "In 1990, scientists gave strength exercises to people of about 90, and their muscles got much stronger in eight weeks. Picking 'too late' is a common belief, but the evidence shows bodies keep responding to exercise all life long."
-     },
-     "parent": "Life card 'Age 45' asks the player to read at arm's length. This is a playful way to remember the eye lens stiffening.",
+     "parent": "Life card Age 45 asks the player to read at arm's length. This is a playful way to remember the eye lens stiffening.",
      "context": "This step is the main part of Journey to 100. Players move through the years of a life."
     },
     {
      "id": "s3",
      "mins": 7,
-     "do": "When everyone reaches 100, ask each player to tell one thing that happened in their 'life'.",
-     "say": "Everyone made it to 100. Tell us one ladder you climbed, and one slide you fell down. Which habit would you like to start today?",
-     "kid": "You made it to 100! Say one ladder you climbed. Pick one good habit to start today.",
+     "do": "When the first player reaches 100, ask every player to tell one thing that happened in their \"life\".",
+     "say": "Someone made it to 100. Tell us one ladder you climbed, and one slide you fell down. Which habit would you like to start today?",
+     "kid": "Someone made it to 100! Say one ladder you climbed. Pick one good habit to start today.",
      "ask": [
       {
        "q": "Which ladders could you start climbing right now, at your age?",
@@ -832,11 +979,11 @@
      "t": "order",
      "p": "Put these people in order of their life stage, from the earliest stage to the latest: A grandmother who is 72. A baby who is 6 months old. A boy who is 15. A girl who is 8. A mother who is 38.",
      "items": [
-      "Baby, 6 months: baby",
-      "Girl, 8: child",
-      "Boy, 15: teenager",
-      "Mother, 38: adult",
-      "Grandmother, 72: older adult"
+      "A baby of 6 months",
+      "A girl of 8",
+      "A boy of 15",
+      "A mother of 38",
+      "A grandmother of 72"
      ],
      "a": "order shown",
      "why": "Every person goes through the same stages in the same order: baby, child, teenager, adult, older adult. Nobody skips one. A strong answer also names the stage of each person."
@@ -867,7 +1014,7 @@
     },
     {
      "t": "mcq",
-     "p": "A grandmother's hair has turned grey. Her granddaughter says, 'Paati's black hairs turned white.' What really happened?",
+     "p": "A grandmother's hair has turned grey. Her granddaughter says, 'Grandma's black hairs turned white.' What really happened?",
      "opts": [
       "Her black hairs stayed black. The cells at the roots stopped making colour, so new hairs grew in white.",
       "Her black hairs slowly turned white from the tip down",
@@ -882,7 +1029,7 @@
      "p": "Think of your snap-back skin test, where you gently pinched the back of a hand. Whose skin took longest to go flat? Use the springy threads inside skin to explain why.",
      "lines": 4,
      "how": "e1",
-     "a": "For example: Paati's skin took about 3 seconds. Mine went flat in less than 1 second. Skin has springy threads called collagen and elastin. Older skin has fewer of them, so it springs back more slowly.",
+     "a": "For example: The oldest person's skin took about 3 seconds. Mine went flat in less than 1 second. Skin has springy threads called collagen and elastin. Older skin has fewer of them, so it springs back more slowly.",
      "why": "A strong answer uses the child's own numbers, puts the people in order of age, and explains the result with the springy threads, not with 'old skin is tired'."
     },
     {
@@ -1004,7 +1151,7 @@
     },
     {
      "t": "write",
-     "p": "Your Paati's knees are stiff, and small print looks blurry to her. Name two ways you could help her at home. For each one, say which body change it helps with.",
+     "p": "An elder you know has stiff knees, and small print looks blurry to them. Name two ways you could help them at home. For each one, say which body change it helps with.",
      "lines": 3,
      "a": "For example: I can read the small print on medicine boxes for her, because her eye lens is stiff. I can put a rubber mat in the bathroom, because stiff knees and thinner bones make a fall dangerous. I ask her first if she wants the help.",
      "why": "A strong answer links each kind of help to a real body change, and remembers to ask first. Elders are capable people."
@@ -1014,7 +1161,7 @@
      "p": "Three people talk about growing old. Is it mostly losing things, or mostly gaining things?",
      "views": [
       {
-       "who": "Arjun, a boy of 9",
+       "who": "Arjun, a boy of 9 in Class 4",
        "says": "Growing old is mostly losing. Paati can't run, and she needs glasses to read."
       },
       {
@@ -1022,7 +1169,7 @@
        "says": "I can't run any more. But I know more words, more recipes and more people than ever."
       },
       {
-       "who": "Dr Meera, a doctor for older people",
+       "who": "Dr Anitha, a doctor for older people",
        "says": "Both happen. Some parts wear down, and some skills keep growing. Exercise and friends help at any age."
       }
      ],
@@ -1071,23 +1218,23 @@
     },
     {
      "t": "mcq",
-     "p": "In the high sound test, a girl aged 8 heard the 15,000 hertz beep. Her Thatha, aged 70, heard only up to 8,000. The girl said, 'Thatha wasn't listening properly.' What is a better explanation?",
+     "p": "In the high sound test, a girl aged 8 heard the 15,000 hertz beep. Her grandfather, aged 70, heard only up to 8,000. The girl said, 'Grandpa wasn't listening properly.' What is a better explanation?",
      "how": "e3",
      "opts": [
       "The hair cells for very high sounds wear out first with age",
-      "Thatha's ears are blocked with wax",
+      "Her grandfather's ears are blocked with wax",
       "High sounds are too quiet for everyone",
-      "Thatha was sitting too close"
+      "Her grandfather was sitting too close"
      ],
      "a": 0,
      "why": "Deep inside the ear, tiny hair cells pick up sounds. The ones for the highest sounds wear out first. So most older people stop hearing very high beeps, even when they listen hard."
     },
     {
      "t": "write",
-     "p": "In the high sound test, everyone hears the beeps from the same speaker, at the same volume and distance. Why does that matter? What could go wrong if Thatha sat further away than the girl?",
+     "p": "In the high sound test, everyone hears the beeps from the same speaker, at the same volume and distance. Why does that matter? What could go wrong if the grandfather sat further away than the girl?",
      "lines": 3,
      "how": "e3",
-     "a": "Only age should be different, so we know age caused the result. If Thatha sat further away, the beep would be quieter for him. Then we could not tell if he missed it because of his age or because of the distance.",
+     "a": "Only age should be different, so we know age caused the result. If the grandfather sat further away, the beep would be quieter for him. Then we could not tell if he missed it because of his age or because of the distance.",
      "why": "A strong answer says that a fair test changes only one thing, and names how sitting further away would mix up the result."
     },
     {
@@ -1200,15 +1347,6 @@
      "why": "The twins have the same genes, so the difference must come from how they lived. Strong sunlight damages collagen and elastin, the springy threads you tested in the snap-back skin test. So a hat and shade help skin age more slowly. Picking 'same genes' forgets that genes are not the whole story."
     },
     {
-     "t": "fill",
-     "p": "A red blood cell lives for about 4 months. So in one year, your body replaces all its red blood cells about ____ times.",
-     "a": [
-      "3",
-      "three"
-     ],
-     "why": "A year has 12 months. 12 divided by 4 is 3. So you get a whole new set of red blood cells about three times a year."
-    },
-    {
      "t": "draw",
      "p": "Draw two eyes from the side. Give one a soft, round lens for a child. Give the other a flatter, stiffer lens for an elder. Draw a book close to each eye. Label each book sharp or blurry.",
      "a": "The child's round lens makes the close book sharp. The elder's stiff lens makes the close book blurry.",
@@ -1229,14 +1367,14 @@
     },
     {
      "t": "write",
-     "p": "Arjun, a boy in Class 4, says, 'Old people can't learn new things.' Karthyayani Amma of Kerala passed a reading and writing exam at the age of 96. What would you tell Arjun?",
+     "p": "Arjun, a boy of 9 in Class 4, says, 'Old people can't learn new things.' Karthyayani Amma of Kerala passed a reading and writing exam at the age of 96. What would you tell Arjun?",
      "lines": 3,
      "a": "For example: That is not true. Karthyayani Amma learned to read and write in her nineties and passed the exam. Brains keep making new connections all life. Some fast things may get slower, but people can keep learning.",
      "why": "A strong answer uses the real example as evidence against a common belief, and is fair that some quick tasks do get slower with age."
     },
     {
      "t": "write",
-     "p": "Meera, a girl in Class 4, wrote down made-up skin test results: Child, 8: 0.5 seconds. Parent, 38: 1 second. Grandparent, 68: 3 seconds. She says, 'So skin only starts changing after 38.' Is she right? Explain.",
+     "p": "Meera, a girl in Class 3, wrote down made-up skin test results: Child, 8: 0.5 seconds. Parent, 38: 1 second. Grandparent, 68: 3 seconds. She says, 'So skin only starts changing after 38.' Is she right? Explain.",
      "lines": 3,
      "how": "e1",
      "a": "No. The parent's skin already took twice as long as the child's. So the change starts early and builds slowly. It only looks big later because it has added up for many years.",
@@ -1295,7 +1433,7 @@
        "says": "In 1993 I changed one gene in tiny worms, and they lived twice as long. Maybe ageing can be slowed in people too."
       },
       {
-       "who": "Dr Lakshmi, a doctor for older people in Chennai",
+       "who": "Dr Nandini, a doctor for older people in Chennai",
        "says": "Ageing is not one illness. It is many slow changes at once, so one cure is unlikely."
       },
       {
@@ -1319,14 +1457,6 @@
      ],
      "a": 0,
      "why": "The grandmothers remember where food was in past hard years. Their families do better with them. This supports the grandmother idea: that long-lived grandmothers help their grandchildren survive."
-    },
-    {
-     "t": "write",
-     "p": "Remember the snap-back skin test? The result can change if someone has drunk very little water. Name two ways you would make the test fairer.",
-     "lines": 3,
-     "how": "e1",
-     "a": "Ask everyone to drink a glass of water an hour before. Test everyone at the same time of day, in the same room. Pinch the same place for the same 3 seconds.",
-     "why": "Good scientists look for other things that could change the result, and keep them the same. A strong answer names at least two."
     },
     {
      "t": "mcq",
@@ -1368,9 +1498,9 @@
     },
     {
      "t": "write",
-     "p": "Why do we feel sad when someone dies? How do people in your family remember those who have died?",
+     "p": "How do people in your family remember those who have died? Why do you think families do this?",
      "lines": 4,
-     "a": "Any honest answer. For example: We feel sad because we loved them and miss them. My family lights a lamp and cooks their favourite food on their day.",
+     "a": "Any honest answer. For example: My family lights a lamp and cooks their favourite food on their day. We do it to show we still love them and have not forgotten them.",
      "why": "Grief is a sign of love. Families and cultures have many ways of remembering. Every honest answer is a good one."
     },
     {
@@ -1480,7 +1610,7 @@
      "qty": 1
     }
    ],
-   "safety": "Pinch very gently, only the loose skin on the back of the hand. Always ask first. Stop if anyone says it hurts. Never laugh at anyone's skin.",
+   "safety": "Pinch very gently, only the loose skin on the back of the hand. Always ask first. Stop if anyone says it hurts.",
    "schedule": [
     {
      "day": 1,
@@ -1536,7 +1666,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 3,
+     "mins": 2,
      "do": "Ask your child to guess, and to line up the people from fastest to slowest.",
      "say": "We will gently pinch the skin on the back of a hand, let go, and count until it goes flat. Whose skin do you think will go flat fastest? Why do you think so?",
      "kid": "We will pinch skin gently and see how fast it goes flat. Guess whose skin is fastest. Line everyone up, fastest to slowest. Say why.",
@@ -1553,7 +1683,7 @@
     },
     {
      "id": "s3",
-     "mins": 8,
+     "mins": 7,
      "do": "1. Test each person 3 times on the back of the hand. 2. Time from letting go until the skin is flat. 3. Write each time in the table.",
      "say": "Ready, pinch, one, two, three, let go. Watch the little ridge of skin. Say stop when it is flat.",
      "kid": "Ask first. Pinch for three seconds. Let go. Count until the skin is flat. Write the number. Do it 3 times.",
@@ -1562,31 +1692,19 @@
     },
     {
      "id": "s4",
-     "mins": 3,
-     "do": "For each person, find the middle value of the three tries.",
-     "say": "Put the three numbers in order, smallest to biggest. The one in the middle is the middle value. It is a fair number to use, because it ignores one very fast or very slow try.",
-     "kid": "Put the 3 numbers in order. The middle one is the one we use.",
-     "check": {
-      "t": "mcq",
-      "q": "Arjun, a boy in Class 3, did the skin test with his Ammamma, his mother's mother. Her three tries took 2, 5 and 3 seconds. What is the middle value?",
-      "options": [
-       "2 seconds",
-       "3 seconds",
-       "5 seconds"
-      ],
-      "a": 1,
-      "why": "In order, the numbers are 2, 3, 5. The middle one is 3. Picking 5 usually means taking the biggest number. Picking 2 means taking the smallest. The middle value is fairer, because one odd try does not change it."
-     },
-     "how": "e1",
-     "context": "This step of the snap-back skin test is about finding the middle value of three tries."
+     "mins": 6,
+     "do": "For each person, find the middle value of the three tries. Then draw the bar chart.",
+     "say": "Put the three numbers in order, smallest to biggest. The one in the middle is the middle value. It is a fair number to use, because it ignores one very fast or very slow try. Then draw one bar for each person, in order of age.",
+     "kid": "Put the 3 numbers in order. The middle one is the one we use. Draw a bar for each person.",
+     "context": "This step of the snap-back skin test is about finding the middle value of three tries and drawing the bar chart."
     },
     {
      "id": "s5",
-     "mins": 4,
+     "mins": 3,
      "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: older skin springs back more slowly. What I saw: my skin went flat in less than 1 second, but Ammamma's took 3 seconds. Why: older skin has fewer springy threads inside.",
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: older skin springs back more slowly. What I saw: my skin went flat in less than 1 second, but the oldest person's took 3 seconds. Why: older skin has fewer springy threads inside.",
      "context": "This is the last step of the snap-back skin test. Your child explains the result."
     }
    ]
@@ -1682,7 +1800,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 3,
+     "mins": 2,
      "do": "Ask your child to guess who can read tiny print closest.",
      "say": "Some grown-ups hold a phone far away to read it. Let's measure how close each person in our family can hold tiny print and still read it. Who do you think can hold it closest? Who will need it furthest away? Why do you think so?",
      "kid": "Some grown-ups hold a phone far away to read it. Guess who can read tiny print closest to their nose. Say why.",
@@ -1699,10 +1817,10 @@
     },
     {
      "id": "s3",
-     "mins": 3,
-     "do": "Look at the bars together.",
-     "say": "Look at the bars. What happens to the distance as people get older?",
-     "kid": "Look at your bars. What happens as people get older?",
+     "mins": 4,
+     "do": "Draw the bar chart together, then look at the bars.",
+     "say": "Draw one bar for each person, in order of age. Look at the bars. What happens to the distance as people get older?",
+     "kid": "Draw a bar for each person. Look at your bars. What happens as people get older?",
      "check": {
       "t": "mcq",
       "q": "In the near point test, a grandmother of 58 needed the card 60 centimetres away. A child of 8 could read it at 8 centimetres. Why?",
@@ -1723,7 +1841,7 @@
      "do": "Ask your child to say or write three sentences: what I think, what I saw, why.",
      "say": "Now tell me three things. What do you think now? What did you see? Why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: older people need to hold small print further away. What I saw: I could read at 8 centimetres, but Paati needed 60 centimetres. Why: the lens in her eye has got stiff, so it cannot focus up close.",
+     "parent": "A good answer sounds like this. What I think: older people need to hold small print further away. What I saw: I could read at 8 centimetres, but the oldest person needed 60 centimetres. Why: the lens in an older eye has got stiff, so it cannot focus up close.",
      "context": "This is the last step of the near point test. Your child explains what they found."
     }
    ]
@@ -1854,7 +1972,7 @@
      "do": "Ask your child to say or write three sentences: what I think, what I saw, why.",
      "say": "Now tell me three things. What do you think? What did you see? Why?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "A good answer sounds like this. What I think: young people can hear higher sounds. What I saw: I heard 15,000 hertz but Thatha only heard up to 8,000. Why: the hair cells for high sounds in his ears have worn out over the years.",
+     "parent": "A good answer sounds like this. What I think: young people can hear higher sounds. What I saw: I heard 15,000 hertz but the oldest person only heard up to 8,000. Why: the hair cells for high sounds in older ears have worn out over the years.",
      "context": "This is the last step of the high sound test. Your child explains what they found."
     }
    ]
@@ -1876,7 +1994,6 @@
      "qty": 1
     }
    ],
-   "safety": "Ask each person before you touch their hand.",
    "schedule": [
     {
      "day": 1,
@@ -1955,7 +2072,7 @@
      "qty": 1
     }
    ],
-   "safety": "Only visit elders you and your family know. A grown-up arranges the visit or call.",
+   "safety": "Only visit or call elders your family knows.",
    "schedule": [
     {
      "day": 1,
@@ -2004,17 +2121,6 @@
      "do": "Talk about what your child learned.",
      "say": "What surprised you? Did their body change in the ways we have been learning about?",
      "kid": "What surprised you? Did their body change like we learned?",
-     "check": {
-      "t": "mcq",
-      "q": "In your interview, an elder says, 'At your age I could thread a needle easily. Now I need glasses.' Which change in the body does that show?",
-      "options": [
-       "The lens in the eye getting stiffer",
-       "The bones getting longer",
-       "The milk teeth falling out"
-      ],
-      "a": 0,
-      "why": "As people age, the lens in the eye gets stiffer, so close things like a needle's eye look blurry. Bones stop getting longer after the teenage years, and milk teeth fall out in childhood, so those do not fit an elder."
-     },
      "context": "This is the last step of Interview an Elder. You talk about what you learned."
     }
    ]
@@ -2034,7 +2140,6 @@
      "qty": 1
     }
    ],
-   "safety": "Move gently. Clear the floor of things to trip on.",
    "schedule": [
     {
      "day": 1,
@@ -2142,7 +2247,7 @@
      "id": "s1",
      "mins": 8,
      "do": "1. Time how long it takes to pick up 5 coins with bare hands, then with socks on your hands. 2. Try to do up 3 buttons with the socks on. 3. Sitting down, try to read small print through the smeared glasses.",
-     "say": "As people get older, fingers can get stiff, and touch can feel less sharp. Eyes can get blurry for close things. This is a small taste of that. It is not a game to laugh at elders. It is a way to understand them.",
+     "say": "As people get older, fingers can get stiff, and touch can feel less sharp. Eyes can also get cloudy, because the lens inside can cloud over. This is a small taste of that. It is not a game to laugh at elders. It is a way to understand them.",
      "kid": "Pick up coins with bare hands. Then with socks on your hands. Try buttons with socks on. Sit down and look through the smeared glasses.",
      "context": "This is the first step of Socks on Your Hands. You try tasks with thick socks on your hands and smeared glasses."
     },
@@ -2171,7 +2276,7 @@
        "Hearing high sounds less well"
       ],
       "a": 0,
-      "why": "The socks made your fingers clumsy and less able to feel, a bit like stiff joints and duller touch in some elders' hands. They are not a model of height or hearing. The smeared glasses were the model of older eyes."
+      "why": "The socks made your fingers clumsy and less able to feel, a bit like stiff joints and duller touch in some elders' hands. They are not a model of height or hearing. The smeared glasses were a model of a cloudy lens, which many older eyes get. The blur at close range that you saw in the near point test is a different change."
      },
      "parent": "Gently point out that many elders are proud and capable. Good help means asking first, 'Would you like help?'",
      "context": "This is the last step of Socks on Your Hands. You think of ways to help elders."
@@ -2197,7 +2302,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety worries.",
    "schedule": [
     {
      "day": 1,
@@ -2245,17 +2349,6 @@
      "do": "Look at the body together.",
      "say": "Most of this body is new now. Some parts are as old as you. Is it still the same person?",
      "kid": "Most notes are new now. Some are still old. Is it still you?",
-     "check": {
-      "t": "mcq",
-      "q": "In the sticky-note model, which notes were never swapped, because those cells stay with you all your life?",
-      "options": [
-       "The skin notes",
-       "The blood notes",
-       "The brain and eye lens notes"
-      ],
-      "a": 2,
-      "why": "Most cells in the thinking part of your brain, and the cells in the middle of your eye lens, stay with you all your life. Skin is replaced about every month and red blood cells about every four months."
-     },
      "think": "If your body is always changing, what is the 'you' that stays?",
      "context": "This is the last step of the Sticky-Note Body. You look at what is new and what is old."
     }
@@ -2280,7 +2373,6 @@
      "qty": 1
     }
    ],
-   "safety": "Ask before using family photos. Use copies, not precious originals.",
    "schedule": [
     {
      "day": 1,
@@ -2292,7 +2384,7 @@
    "context": "In this activity you make a life line: a long strip of paper with photos or drawings of a person at different ages, from baby to now.",
    "setup": [
     {
-     "art": "A long paper strip on the floor marked with years 0, 2, 4, 6, 8, with baby photos and drawings stuck along it.",
+     "art": "A long paper strip on the floor marked with years 0, 2, 4, 6, 8, with baby photos and drawings stuck on the strip.",
      "caption": "1. Mark years along a long paper strip."
     },
     {
@@ -2300,7 +2392,7 @@
      "caption": "2. Stick photos or drawings at the right ages."
     },
     {
-     "art": "A second, much longer strip above the first, with a grandmother's photos from girl to elder.",
+     "art": "A second, much longer strip above the first, with an elder's photos from girl or boy to older age.",
      "caption": "3. Make a second, longer line for an elder."
     }
    ],
@@ -2317,7 +2409,7 @@
      "id": "s2",
      "mins": 10,
      "do": "Make a longer line for an elder, with their help, from girl or boy to now. Label the stages.",
-     "say": "Now let's do Paati's life. Her line is much longer. Can you find where she was your age?",
+     "say": "Now let's do an elder's life. Their line is much longer. Can you find where they were your age?",
      "kid": "Make a long line for an elder. Find where they were your age.",
      "check": {
       "t": "mcq",
@@ -2356,7 +2448,6 @@
      "qty": 1
     }
    ],
-   "safety": "Use copies of old photos, not originals. A grown-up arranges visits or calls.",
    "schedule": [
     {
      "day": 1,
@@ -2378,7 +2469,7 @@
    "context": "In this 3-day project you make a book with an elder. Each page shows the elder at some age next to you, with what their body and life were like then.",
    "setup": [
     {
-     "art": "A grandmother and a child at a table folding paper into a small book.",
+     "art": "An elder and a child at a table folding paper into a small book.",
      "caption": "1. Fold and staple a book together."
     },
     {
@@ -2386,7 +2477,7 @@
      "caption": "2. Draw 'then and now' pages side by side."
     },
     {
-     "art": "The grandmother reading the finished book with the child leaning on her shoulder.",
+     "art": "The elder reading the finished book with the child leaning on their shoulder.",
      "caption": "3. Read the finished book together."
     }
    ],
@@ -2395,7 +2486,7 @@
      "id": "s1",
      "mins": 20,
      "do": "1. Make the book. 2. With the elder, choose 4 ages: 8, 15, 30 and now. 3. Ask what their body could do and what life was like at each age.",
-     "say": "We are making a book about Paati's life and yours. Each page will show her at one age, next to you.",
+     "say": "We are making a book about the elder's life and yours. Each page will show them at one age, next to you.",
      "kid": "Make a book with an elder. Choose 4 ages. Ask what their body and life were like at each.",
      "adult": true,
      "context": "This is day 1 of the Then and Now Book. You plan the book with an elder."
@@ -2405,19 +2496,8 @@
      "mins": 20,
      "wait": "Come back the next day.",
      "do": "Draw one page for each age. Write one body change on each page, like 'first grey hair at 42' or 'started reading glasses at 45'.",
-     "say": "On each page, draw Paati at that age. Write one way her body was different then.",
+     "say": "On each page, draw the elder at that age. Write one way their body was different then.",
      "kid": "Draw the elder at each age. Write one body change on each page.",
-     "check": {
-      "t": "mcq",
-      "q": "In your Then and Now Book, at which age page would the elder most likely write 'started reading glasses'?",
-      "options": [
-       "Age 8",
-       "Age 15",
-       "Age 45"
-      ],
-      "a": 2,
-      "why": "The eye lens slowly stiffens, and most people find small print blurry by about age 45. At 8 or 15, the lens is still soft and bendy."
-     },
      "context": "This is day 2 of the Then and Now Book. You draw the pages."
     },
     {
@@ -2501,24 +2581,13 @@
      "do": "Build the model and label each idea.",
      "say": "Now build it. Label each thing with the problem it solves.",
      "kid": "Build your room. Label each idea with the problem it solves.",
-     "check": {
-      "t": "mcq",
-      "q": "In your elder-friendly room, why is a rubber mat on the bathroom floor such a good idea?",
-      "options": [
-       "Older bones break more easily, so stopping falls matters a lot",
-       "Rubber mats make the room warmer",
-       "Elders like the colour of rubber"
-      ],
-      "a": 0,
-      "why": "Bones get thinner with age, so a fall can break one. A rubber mat grips the feet and stops slipping on a wet floor. Warmth and colour are not the main reason."
-     },
      "context": "This is the main step of Design an Elder-Friendly Room. You build your model."
     },
     {
      "id": "s4",
      "mins": 5,
      "do": "Show it to an elder and ask what they think.",
-     "say": "Let's ask Dadi. Would this help you? What would you change?",
+     "say": "Show your model to an elder. Would this help you? What would you change?",
      "kid": "Show it to an elder. Ask: would this help you? What would you change?",
      "context": "This is the last step of Design an Elder-Friendly Room. You test your design with an elder."
     }
@@ -2596,7 +2665,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Pick the best idea and give one to an elder.",
-     "say": "Which idea won? Let's make one for Thatha's kitchen.",
+     "say": "Which idea won? Let us make one for an elder you know.",
      "kid": "Which idea won? Make one for an elder you know.",
      "context": "This is the last step of the Easy-Open Jar. You pick the best idea and share it."
     }
@@ -2936,7 +3005,7 @@
  "ask_kids": [
   "Can you find a grey hair on anyone at home today? How many?",
   "What could you do this year that you could not do last year?",
-  "What do you think Paati or Thatha was like at your age?",
+  "What do you think an elder you know was like at your age?",
   "Which elder do you know who still learns new things?",
   "Who in our home holds the phone furthest away to read it? Why?",
   "If you could ask your future self at 80 one question, what would it be?",
@@ -2950,10 +3019,6 @@
   {
    "j": "Why did the grandfather hold his newspaper so far away?",
    "a": "He wanted the news to come from a long way off!"
-  },
-  {
-   "j": "What did Thatha say when he could not read the menu?",
-   "a": "My arms have grown too short!"
   },
   {
    "j": "Why don't babies play hide and seek?",
@@ -2976,52 +3041,20 @@
    "a": "They are full of stories, and they never charge a late fee."
   },
   {
-   "j": "What did the old skin cell say when falling off?",
-   "a": "I'm flaking out, but a new cell will take my place."
-  },
-  {
-   "j": "Why did the red blood cell throw a party?",
-   "a": "It had lasted four whole months!"
-  },
-  {
-   "j": "Why is a baby's head so big for their body?",
-   "a": "Its brain got a head start."
-  },
-  {
-   "j": "Why did Paati's reading glasses go to school?",
+   "j": "Why did the reading glasses go to school?",
    "a": "To get a little sharper."
-  },
-  {
-   "j": "What do you call a wrinkle that smiles?",
-   "a": "A laugh line."
-  },
-  {
-   "j": "Why did the hydra never have a birthday party?",
-   "a": "It never seemed to get any older."
   },
   {
    "j": "What did the eye lens say to the book?",
    "a": "Please step back, I'm not as flexible as I used to be."
   },
   {
-   "j": "Why did the growth plate stop working?",
-   "a": "It said, 'I've done enough growing for one lifetime.'"
-  },
-  {
-   "j": "What did the grandmother killer whale say to her family?",
-   "a": "Follow me, I know where the fish are!"
-  },
-  {
    "j": "Why did the Greenland shark say no to a birthday cake?",
    "a": "272 candles would melt the sea ice."
   },
   {
-   "j": "Why did the knee join a yoga class?",
-   "a": "It wanted to stay flexible."
-  },
-  {
-   "j": "What did the needle say to the old tailor?",
-   "a": "You don't need to see me. Your fingers already know me."
+   "j": "What did the old skin cell say when falling off?",
+   "a": "I'm flaking out, but a new cell will take my place."
   }
  ],
  "maths": [
@@ -3062,7 +3095,7 @@
    "why_maths": "One try can be a fluke. The middle value gives a fair number that one odd try does not change."
   },
   {
-   "problem": "A newborn is about 50 cm long. By its first birthday it is about 75 cm. Later, a child grows about 5 cm a year. How many years does a child take to grow as much as a baby grows in their first year?",
+   "problem": "A newborn is about 50 cm long. By their first birthday they are about 75 cm. Later, a child grows about 5 cm a year. How many years does a child take to grow as much as a baby grows in their first year?",
    "answer": "5 years.",
    "explain": "The baby grew 75 minus 50, which is 25 cm, in one year. A child grows 5 cm a year. 25 divided by 5 is 5. So a child takes 5 years to grow what a baby grows in one.",
    "math_unit": "math.division.division-facts.L3",
@@ -3183,8 +3216,7 @@
    "url": "https://www.amazon.in/s?k=measuring+tape+tailor+cm",
    "used_in": [
     "e2"
-   ],
-   "plan": "Used again in Body Parts L3 and in maths units on length."
+   ]
   },
   {
    "id": "b-book1",
@@ -3195,8 +3227,7 @@
    "used_in": [
     "a2",
     "p1"
-   ],
-   "plan": "Read it before the Interview an Elder activity or the Then and Now Book."
+   ]
   }
  ],
  "warmup": [
@@ -3303,8 +3334,7 @@
    "Founder notes, family: games your grandparents played, phone a grandparent or elder (used in Interview an Elder)",
    "Founder notebook item bio:238, Aging and gerontology",
    "Combined lesson sci-C2-growing-up-and-having-young: life cycles and the end of life, growth plates, lifespans, the grandmother idea (voice of Kristen Hawkes)",
-   "Combined lesson sci-C3-family: interviewing elders, life lines of generations, care shared by many hands",
-   "The founder's sheets were searched for ageing words but held no specific ageing activities"
+   "Combined lesson sci-C3-family: interviewing elders, life lines of generations, care shared by many hands"
   ],
   "science": [
    "Bianconi et al., Annals of Human Biology 2013 (about 37 trillion cells in a human body)",
