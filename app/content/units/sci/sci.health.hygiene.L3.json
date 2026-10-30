@@ -772,93 +772,91 @@
    "items": [
     {
      "t": "mcq",
-     "p": "What is a germ?",
+     "p": "Lakshmi's little brother touches a door handle that a child with a cold has just touched. Then he rubs his eye. At which moment do the germs get into his body?",
      "opts": [
-      "Any speck of dirt",
-      "A tiny living thing, or a virus, that can make us ill",
-      "Every microbe in the world",
-      "A kind of insect"
+      "When he rubs his eye",
+      "When he touches the handle",
+      "When he looks at the handle",
+      "Never: germs cannot get in through the eye"
      ],
-     "a": 1,
-     "why": "A germ is a microbe or virus that can make us ill. Picking 'every microbe' is a common mix-up. Most microbes are harmless or helpful. Picking 'insect' mixes up germs with bigger pests like lice. Insects can carry germs, but they are not germs."
-    },
-    {
-     "t": "mcq",
-     "p": "What is the most common way germs get into our bodies?",
-     "opts": [
-      "Through our hair",
-      "From our hands, when we touch our eyes, nose or mouth",
-      "Through our fingernails",
-      "Through clean, dry skin"
-     ],
-     "a": 1,
-     "why": "Hands carry germs to the eyes, nose and mouth, whose soft, wet linings let germs in easily. Picking 'clean, dry skin' usually means not knowing that skin is a strong wall. Germs need a way in, like a cut or a wet lining."
-    },
-    {
-     "t": "fill",
-     "p": "To wash your hands well, rub them with soap for at least ____ seconds.",
-     "a": [
-      "20",
-      "twenty"
-     ],
-     "why": "About 20 seconds gives soap time to break up the oil on every part of your hands. That is about the time it takes to sing Happy Birthday twice."
-    },
-    {
-     "t": "truefalse",
-     "p": "Rinsing with water alone removes as much dirt and germs as washing with soap.",
-     "a": false,
-     "why": "False. Germs stick in the skin's oil. Water slides off oil. Soap holds oil and water both, so it lifts the germs away. The turmeric test shows this.",
-     "how": "e1"
+     "a": 0,
+     "why": "Touching the handle only puts germs on the skin of his hand. Dry skin is a strong wall. The soft, wet lining of the eye lets germs in. Picking 'when he touches the handle' is a very common answer, but that is only where the germs got on, not where they got in."
     },
     {
      "t": "sort",
-     "p": "Sort these moments. Should you wash your hands with soap now?",
+     "p": "Sort these habits. Does each one help germs travel, or stop them?",
      "cats": [
-      "Wash now",
-      "No need to wash just for this"
+      "Helps germs travel",
+      "Stops germs"
      ],
      "items": [
       [
-       "before eating lunch",
-       "Wash now"
+       "sneezing into your elbow",
+       "Stops germs"
       ],
       [
-       "after using the toilet",
-       "Wash now"
+       "sharing one damp towel with the whole family",
+       "Helps germs travel"
       ],
       [
-       "after reading a book in bed",
-       "No need to wash just for this"
+       "keeping a lid on the drinking water pot",
+       "Stops germs"
       ],
       [
-       "after playing with a dog",
-       "Wash now"
+       "leaving cut fruit uncovered where flies can sit",
+       "Helps germs travel"
       ],
       [
-       "after blowing your nose",
-       "Wash now"
+       "washing hands with soap before eating",
+       "Stops germs"
       ],
       [
-       "after singing a song",
-       "No need to wash just for this"
+       "drinking from a tap in the street without boiling the water",
+       "Helps germs travel"
       ]
      ],
      "a": "see items",
-     "why": "Wash at the moments germs travel most: before food, after the toilet, after a runny nose, and after animals or playing outside. Washing at every moment is not needed. That is called targeted hygiene."
+     "why": "Germs travel on hands, in water and food, in sneeze drops and on insects like flies. Each good habit blocks one of those roads."
+    },
+    {
+     "t": "fill",
+     "p": "In the turmeric test, the yellow turmeric on your hands stood for ____.",
+     "a": [
+      "germs",
+      "pretend germs"
+     ],
+     "why": "Germs are too small to see, so the turmeric stood in for them. Like real germs, it sat in the oil on your skin. Where the yellow stayed after washing, germs would stay too.",
+     "context": "In the turmeric test, you rub oil and turmeric on your hands as pretend germs, then wash them in different ways.",
+     "how": "e1"
+    },
+    {
+     "t": "truefalse",
+     "p": "If your hands look clean, there are no germs on them.",
+     "a": false,
+     "why": "False. Germs are far too small to see. In the bread test, hands that looked clean still left more mould than hands washed with soap. Looking is not a test for germs.",
+     "context": "In the bread test, slices of bread were touched by unwashed hands, by hands rinsed in water, and by hands washed with soap. Each slice was sealed in a bag for a week.",
+     "how": "e4"
     },
     {
      "t": "mcq",
      "p": "In the turmeric test, where did the yellow stay longest after a quick wash?",
      "opts": [
-      "On the middle of the palms",
       "Between the fingers, round the thumbs and under the nails",
+      "On the middle of the palms",
       "On the backs of the wrists only",
       "Nowhere: it all came off"
      ],
-     "a": 1,
-     "why": "The middle of the palm gets rubbed most. The gaps between fingers, the thumbs and under nails are easy to miss. Picking 'palms' usually means thinking the part you look at is the part that is dirtiest.",
+     "a": 0,
+     "why": "We rub the middle of the palms most, so they get cleanest. The gaps between fingers, the thumbs and under the nails are easy to miss. Picking 'palms' usually means thinking the part you look at most is the dirtiest.",
      "context": "In the turmeric test, you rub oil and turmeric on your hands as pretend germs, then wash them in different ways.",
      "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "Your fingers are oily after eating a vada. You rinse them under the tap with water only. Predict how they will feel, and explain why.",
+     "lines": 3,
+     "a": "A strong answer predicts that the fingers will still feel greasy. It explains that water slides off oil and cannot hold on to it, so the oil stays on the skin. It adds that soap would hold the oil and the water both, so the oil would wash away.",
+     "why": "Water and oil do not mix. That is why water alone leaves oily dirt, and the germs in it, behind."
     },
     {
      "t": "match",
@@ -873,8 +871,8 @@
        "keep them short and clean"
       ],
       [
-       "Ears",
-       "never poke anything inside"
+       "Hair",
+       "wash it and comb it, and check for lice"
       ],
       [
        "Feet",
@@ -882,92 +880,89 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Brushing removes mouth bacteria that make acid. Short nails leave nowhere for germs to hide. Earwax moves out of the ear on its own, and poking can hurt the eardrum. Chappals stop worm larvae in dirty soil getting in through feet."
+     "why": "Brushing removes mouth bacteria that make acid. Short nails leave nowhere for germs to hide. Washing and combing keeps hair free of tangles and lice. Chappals stop worm larvae in dirty soil getting in through the feet."
     },
     {
      "t": "mcq",
      "p": "You need to sneeze, and there is no tissue. What is best?",
      "opts": [
-      "Sneeze into the air",
-      "Sneeze into your hand and carry on",
       "Sneeze into your elbow",
+      "Sneeze into your hand and carry on",
+      "Sneeze into the air",
       "Hold the sneeze in for as long as you can"
      ],
-     "a": 2,
-     "why": "Your elbow catches most of the drops, and you don't touch things with your elbow. Picking 'into your hand' is very common. But then your hand spreads the germs to everything you touch, unless you wash straight away."
+     "a": 0,
+     "why": "Your elbow catches most of the drops, and you don't touch things with your elbow. Picking 'into your hand' is what most people do. But then your hand spreads the germs to everything you touch, unless you wash straight away."
     },
     {
-     "t": "fill",
-     "p": "A soap molecule has a head that sticks to water and a tail that sticks to ____.",
-     "a": [
-      "oil",
-      "grease",
-      "fat"
-     ],
-     "why": "The tail sticks into oil and grease. The head sticks to water. That is how soap can hold both."
-    },
-    {
-     "t": "truefalse",
-     "p": "Most microbes are harmful germs.",
-     "a": false,
-     "why": "False. Only a small number of microbes cause illness. Most are harmless, and many help us, like the microbes in curd and the soil."
+     "t": "write",
+     "p": "Kavya, a girl in Class 3, always washes her hands after reading a book, but forgets before eating lunch. What would you tell her? Give your reason.",
+     "lines": 3,
+     "a": "A strong answer tells Kavya to wash before eating, because her hands carry germs from everything she touched straight to her mouth. It says that books rarely carry germs that make us ill, so washing after reading matters much less.",
+     "why": "Washing matters most at the moments when germs can travel to the mouth, or from waste to other people: before food and after the toilet."
     },
     {
      "t": "mcq",
-     "p": "Mosquitoes lay eggs in still water. Which of these is the best way to stop them at home?",
+     "p": "After washing your hands, why should you dry them on a clean towel or let them dry in the air?",
      "opts": [
-      "Spray perfume in the room",
-      "Empty pots, trays, coolers and tyres of still water once a week",
-      "Keep windows open at night",
-      "Put a lid on the bucket only at night"
-     ],
-     "a": 1,
-     "why": "Mosquito eggs take about a week to become flying mosquitoes. Emptying still water every week stops them growing up. Picking 'perfume' usually means thinking smells are the problem, as people did long ago. Mosquitoes come from water, not smells."
-    },
-    {
-     "t": "mcq",
-     "p": "Why should you dry your hands after washing?",
-     "opts": [
-      "Wet hands pass on germs more easily than dry hands",
+      "Wet hands pick up and pass on germs more easily than dry hands",
       "Water makes germs grow bigger",
-      "Drying makes soap work",
+      "Drying makes the soap work",
       "There is no reason"
      ],
      "a": 0,
-     "why": "Wet hands pick up and pass on germs more easily. A clean towel or air drying helps. Picking 'water makes germs grow bigger' mixes up washing with leaving food damp for days, as in the bread test."
-    },
-    {
-     "t": "write",
-     "p": "Write two moments in your day when washing your hands matters most. Say why for each one.",
-     "lines": 3,
-     "a": "Any two good moments with reasons. For example: before I eat, so germs on my hands do not go into my mouth. After the toilet, so germs from waste do not spread.",
-     "why": "Any two key moments with a reason about germs travelling are right."
-    },
-    {
-     "t": "write",
-     "p": "Your private parts are covered by your underwear. Write two things that are true about them.",
-     "lines": 3,
-     "a": "They are kept clean, by washing every day. They are private, and my body belongs to me. If a touch ever feels wrong, I say no, get away and tell a grown-up I trust.",
-     "why": "Clean, private, and your own. A child is never in trouble for telling a trusted grown-up."
+     "why": "Germs move more easily onto and off wet skin. A shared damp towel can also hold germs. Picking 'water makes germs grow bigger' mixes up washing with leaving food damp for days, as in the bread test."
     },
     {
      "t": "draw",
      "p": "Draw a soap molecule. Label the head that sticks to water and the tail that sticks to oil.",
      "a": "A round head labelled 'sticks to water' and a long tail labelled 'sticks to oil'.",
-     "why": "Two different ends is the whole secret of soap.",
+     "why": "Two different ends is the whole secret of soap. One end holds the water and the other holds the oil.",
      "art": "An empty box with the words 'head' and 'tail' as hints at either end."
     },
     {
+     "t": "write",
+     "p": "Your private parts are the parts covered by your underwear. Write two things that are true about them.",
+     "lines": 3,
+     "a": "They are kept clean, by washing every day. They are private, and my body belongs to me. If a touch ever feels wrong, I say no, get away and tell a grown-up I trust.",
+     "why": "Clean, private, and your own. A child is never in trouble for telling a trusted grown-up."
+    },
+    {
      "t": "mcq",
-     "p": "Who helps keep a whole town free of germs?",
+     "p": "Revathi finds tiny wriggling creatures swimming in the water of a flowerpot tray on her balcony. What should she do?",
      "opts": [
-      "Only doctors",
-      "Sanitation workers, health workers, families and doctors, all together",
-      "Nobody can",
-      "Only people who make soap"
+      "Tip out the water and scrub the tray",
+      "Add more water so they have room",
+      "Spray perfume on the plant",
+      "Leave it, because they are too small to matter"
      ],
-     "a": 1,
-     "why": "Clean drains, safe water, rubbish taken away and clean habits at home all matter. Picking 'only doctors' is common. But doctors mostly treat illness. Sanitation workers and health workers help stop it starting."
+     "a": 0,
+     "why": "The wrigglers are young mosquitoes. In about a week they will fly and bite, and some mosquitoes carry dengue or malaria. Tipping out the water stops them growing up. Picking 'perfume' comes from the old idea that bad smells cause illness."
+    },
+    {
+     "t": "odd",
+     "p": "Which one is the odd one out? The flu virus, the cholera germ, the bacteria that make curd, the malaria germ. Say why.",
+     "a": "the bacteria that make curd",
+     "why": "The bacteria that make curd are helpful. The other three are germs that can make us ill. Most microbes are like the curd bacteria: harmless or helpful."
+    },
+    {
+     "t": "mcq",
+     "p": "In one week, many families on a street in Chennai get diarrhoea. They all drink water from the same tank. What is the most likely cause?",
+     "opts": [
+      "Germs got into the tank water",
+      "The hot weather",
+      "Bad smells from the drain",
+      "They all ate too much"
+     ],
+     "a": 0,
+     "why": "When many people who share one water supply fall ill together, the water is the first thing to check. Germs from a leaking drain can get into a tank. Picking 'bad smells' is the old idea of bad air. In 1854, John Snow showed that cholera in London spread through water from one pump, not through smells."
+    },
+    {
+     "t": "write",
+     "p": "Choose one habit at home that stops germs, such as boiling water or covering food. Say which road for germs it blocks: hands, water, food, sneezes or insects.",
+     "lines": 3,
+     "a": "A strong answer names a real habit and links it to one road. For example: we keep a net over the cut fruit, which stops flies carrying germs from the drain onto our food.",
+     "why": "Every hygiene habit works by blocking one way that germs travel. Knowing the road helps you choose the right habit."
     }
    ]
   },
@@ -979,16 +974,16 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Meenakshi, a girl in Class 3, did the turmeric test. She scored how much yellow was left on her hands, from 0 (none) to 5 (all). Look at her chart. Which way of washing worked best?",
+     "p": "Meenakshi, a girl in Class 3, did the turmeric test. She scored the yellow left on her hands, from 0 (none) to 5 (all). Soap for 5 seconds still left a score of 2. What does that tell her?",
      "opts": [
-      "Water only, 20 seconds",
-      "Soap, 5 seconds",
-      "Soap, 20 seconds",
-      "They were all the same"
+      "Soap needs time and rubbing to reach all the oil",
+      "Soap does not work at all",
+      "Water only is better than soap",
+      "The test went wrong"
      ],
-     "a": 2,
-     "why": "Soap for 20 seconds left the least yellow. Picking 'soap, 5 seconds' usually means thinking soap works instantly. Soap needs time and rubbing to break up all the oil.",
-     "context": "In the turmeric test, you rub oil and turmeric on your hands as pretend germs. Then you wash in three different ways, coating your hands again each time.",
+     "a": 0,
+     "why": "Soap for 20 seconds left 0, and soap for 5 seconds left 2. The soap was the same, so the extra rubbing time made the difference. Picking 'soap does not work' ignores the 20-second bar.",
+     "context": "In the turmeric test, you rub oil and turmeric on your hands as pretend germs, then wash them in different ways.",
      "chart": {
       "type": "bar",
       "title": "Made-up example: yellow left after washing, from 0 (none) to 5 (all)",
@@ -1015,29 +1010,25 @@
      "how": "e1"
     },
     {
-     "t": "mcq",
-     "p": "In the turmeric test, why must you coat your hands with the same amount of oil and turmeric each time?",
-     "opts": [
-      "To make it a fair test",
-      "Because turmeric is expensive",
-      "So your hands smell nice",
-      "It does not matter"
-     ],
-     "a": 0,
-     "why": "If you used more turmeric one time, you would not know whether the washing or the amount caused the difference. Picking 'it does not matter' means missing the idea of a fair test: change only one thing.",
+     "t": "write",
+     "p": "In the turmeric test, you coated your hands with the same amount of oil and turmeric each time. Why did that matter?",
+     "lines": 3,
+     "a": "A strong answer says that only the way of washing was changed. If one coat had more turmeric, we could not tell whether the washing or the extra turmeric made the difference. It calls this a fair test.",
+     "why": "A fair test changes one thing at a time and keeps the rest the same.",
+     "context": "In the turmeric test, you rub oil and turmeric on your hands as pretend germs, then wash them in different ways.",
      "how": "e1"
     },
     {
      "t": "mcq",
-     "p": "In the jar test, a jar of oil and water is shaken. In a minute or two, the oil floats back to the top. A second jar has soap added, and it stays cloudy for many minutes. Why?",
+     "p": "In the jar test, why did we stir a pinch of turmeric into the oil first?",
      "opts": [
-      "Soap makes the oil heavier",
-      "Soap molecules wrap tiny drops of oil, so they stay mixed in the water",
-      "Soap turns oil into water",
-      "The second jar was shaken harder"
+      "So we could see where the oil went",
+      "So the oil would mix with water",
+      "To kill the germs in the jar",
+      "To make the soap stronger"
      ],
-     "a": 1,
-     "why": "Soap tails hold the oil and heads hold the water, so tiny oil drops stay spread through the water. Picking 'shaken harder' is a good thought about fairness. That is why both jars must be shaken for the same time.",
+     "a": 0,
+     "why": "Clear oil is hard to see in water. Yellow oil shows clearly whether it floats in a layer or stays spread through the water. Picking 'so the oil would mix' forgets that the plain jar had turmeric too and still split into layers.",
      "context": "In the jar test, you shake oil and water in two jars, and add soap to only one.",
      "how": "e3"
     },
@@ -1047,23 +1038,23 @@
      "a": [
       "micelle"
      ],
-     "why": "Micelles are how soap carries oil and germs away in the rinse water."
+     "why": "Micelles are how soap carries oil, and the germs in it, away in the rinse water. The tails point into the oil and the heads face the water."
     },
     {
      "t": "mcq",
      "p": "How does soap destroy a flu virus?",
      "opts": [
-      "It poisons the virus",
-      "Its tails push into the virus's oily coat and break it apart",
-      "It freezes the virus",
-      "It starves the virus"
+      "The soap tails push into the virus's oily coat and break the coat apart",
+      "Soap poisons the virus",
+      "Soap freezes the virus",
+      "Soap starves the virus"
      ],
-     "a": 1,
-     "why": "Flu viruses wear an oily coat made of molecules like soap's. Soap tails slip in and pull it apart. Picking 'poisons' is natural, because we think of cleaners as poisons. Soap pulls the coat apart instead."
+     "a": 0,
+     "why": "Flu viruses wear an oily coat made of molecules like soap's. Soap tails slip in and pull that coat apart. Picking 'poisons' is natural, because we think of cleaners as poisons. Soap pulls the coat apart instead."
     },
     {
      "t": "sort",
-     "p": "Sort these into the right group.",
+     "p": "Sort these microbes into the right group.",
      "cats": [
       "Helpful or harmless microbes",
       "Germs that can make us ill"
@@ -1078,7 +1069,7 @@
        "Germs that can make us ill"
       ],
       [
-       "microbes that turn leaves into soil",
+       "microbes that turn fallen leaves into soil",
        "Helpful or harmless microbes"
       ],
       [
@@ -1095,32 +1086,103 @@
       ]
      ],
      "a": "see items",
-     "why": "Most microbes are helpful or harmless. Only some are germs."
+     "why": "Most microbes are helpful or harmless. Only some are germs. This is why hygiene aims at the moments germs travel, not at every microbe."
     },
     {
      "t": "mcq",
-     "p": "Washing with soap removes mostly which microbes?",
+     "p": "When you wash with soap, which microbes come off your skin most?",
      "opts": [
-      "The visitors picked up from things you touched",
+      "The visitors you picked up from things you touched",
       "Every single microbe on your skin",
-      "Only the friendly residents",
+      "Only the skin's own microbes that live there all the time",
       "None at all"
      ],
      "a": 0,
-     "why": "Visitors sit on top of the skin and wash off. Most residents live deeper in the skin's folds and stay. Picking 'every single microbe' is common. That would actually be bad for skin."
+     "why": "Visitors sit on top of the skin and wash off. Most of the skin's own microbes live deeper in its folds and stay. Picking 'every single microbe' is common. Losing them all would actually be bad for skin."
     },
     {
      "t": "mcq",
-     "p": "Semmelweis's clue came from comparing two wards. Why was the midwives' ward so important?",
+     "p": "Semmelweis's clue came from comparing two wards in the same hospital. Why was the midwives' ward so important?",
      "opts": [
-      "It showed that the same building could be much safer, so something in the doctors' ward was different",
+      "It showed the same building could be much safer, so something in the doctors' ward was different",
       "The midwives had better beds",
       "It had more windows",
       "It was not important"
      ],
      "a": 0,
-     "why": "Without a safer ward to compare with, nobody would have known the fever could be stopped. The midwives' careful work was the clue. Picking 'better beds' is a fair guess, but the beds, food and sheets were the same.",
+     "why": "Without a safer ward to compare with, nobody would have known the fever could be stopped. The beds, food and sheets were the same, so the difference had to be something the doctors did. A strong answer calls the midwives' ward the comparison.",
      "context": "In Vienna in 1847, one maternity ward was run by doctors and students, and the other by midwives. Far more mothers caught a fever in the doctors' ward."
+    },
+    {
+     "t": "perspective",
+     "p": "A school in Kochi is choosing soap for its hand-washing taps.",
+     "views": [
+      {
+       "who": "Priya, a mother of a child at the school",
+       "says": "Buy antibacterial soap. It says on the bottle that it kills 99 out of 100 germs, so it must be safer."
+      },
+      {
+       "who": "A scientist who studies hygiene",
+       "says": "Tests at home found antibacterial soap cleans hands about as well as plain soap. Plain soap works by lifting germs off, not by killing them."
+      },
+      {
+       "who": "Selvi, the school's head teacher",
+       "says": "Plain soap costs less. With the same money we can put soap at every tap, so more children wash."
+      }
+     ],
+     "ask": "Which soap would you choose for the school? Give your reason from this unit. Then say one thing another person has right.",
+     "lines": 5,
+     "a": "A strong answer picks a side and gives evidence, for example that soap lifts oil and germs off and the rinse carries them away, so killing is not needed. It admits a fair point from another side, for example that Priya wants the children safe. It may say that soap at every tap, used for 20 seconds, matters most.",
+     "why": "Many families believe killing germs is what makes soap work. The evidence says lifting them off does the job. The real choice is about cost, and about how many children wash well."
+    },
+    {
+     "t": "truefalse",
+     "p": "You need warm water to wash germs off your hands.",
+     "a": false,
+     "why": "False. In a 2017 study, cold and warm water removed germs about equally well. The soap and the rubbing do the work. Very hot water would burn your skin before it killed many germs."
+    },
+    {
+     "t": "write",
+     "p": "Explain to a younger cousin why soap cleans better than water. Use the words oil, head and tail.",
+     "lines": 4,
+     "a": "A strong answer says that germs sit in the oil on our skin, and water slides off oil. A soap molecule has a head that sticks to water and a tail that sticks to oil. So the water can carry the oil and the germs away.",
+     "why": "Three steps make a full answer: germs are in oil, water cannot hold oil, and soap holds both."
+    },
+    {
+     "t": "write",
+     "p": "Reetha shells make foam when you squeeze them in water. What does that tell you about what is inside them?",
+     "lines": 3,
+     "a": "A strong answer says that reetha has soap-like molecules, called saponins, with one end that sticks to water and one end that sticks to oil. That is why it foams and cleans oil off a plate.",
+     "why": "Foam is a sign of soap-like molecules holding air and water together.",
+     "how": "a2"
+    },
+    {
+     "t": "draw",
+     "p": "Draw a micelle: a ring of soap molecules around a blob of oil. Show which way the heads and tails point.",
+     "a": "A ring of soap molecules with their tails pointing into an oil blob in the middle, and their heads pointing out into the water.",
+     "why": "Tails in the oil, heads in the water. That is how the water can carry the oil away.",
+     "art": "An empty circle labelled 'oil blob' in the middle of a blue box labelled 'water'."
+    },
+    {
+     "t": "mcq",
+     "p": "After a wash with plain soap, where are most of the bacteria that were on your hands?",
+     "opts": [
+      "Down the drain, still alive, in the rinse water",
+      "Killed on your hands by the soap",
+      "Still on your hands, hidden in the oil",
+      "Turned into soap"
+     ],
+     "a": 0,
+     "why": "Plain soap kills very few bacteria. It wraps the oil they sit in, and the rinse water carries them away. Picking 'killed by the soap' is very common, because adverts talk about killing germs."
+    },
+    {
+     "t": "write",
+     "p": "In the bread test, the slice touched by unwashed hands grew the most mould. The slice touched after washing with soap grew the least. What does this tell you about hands that look clean?",
+     "lines": 4,
+     "a": "A strong answer says that hands that look clean can still carry living things too small to see. The mould spots grew from them. Soap took most of them off, so that slice grew the least. It may add that the untouched slice is the comparison.",
+     "why": "The bread made invisible living things visible, by letting them grow into spots of mould.",
+     "context": "In the bread test, slices of bread were touched by unwashed hands, by hands rinsed in water, and by hands washed with soap. Each slice was sealed in a bag for a week.",
+     "how": "e4"
     },
     {
      "t": "match",
@@ -1136,80 +1198,15 @@
       ],
       [
        "John Snow",
-       "showed cholera spread through one water pump in 1854"
+       "showed that cholera spread through one water pump in London in 1854"
       ],
       [
        "Filippo Pacini",
-       "first saw the cholera germ, in 1854"
+       "first saw and described the cholera germ, in 1854"
       ]
      ],
      "a": "pairs as given",
-     "why": "Each person added one piece. Germ theory was built by many people over about 350 years."
-    },
-    {
-     "t": "mcq",
-     "p": "Is warm water needed to wash germs off your hands?",
-     "opts": [
-      "Yes, cold water does nothing",
-      "No, cold and warm water work about the same. The soap and rubbing do the work.",
-      "Yes, it must be boiling",
-      "Yes, cold water makes germs stick harder"
-     ],
-     "a": 1,
-     "why": "In a 2017 study, cold and warm water removed germs about equally well. Picking 'boiling' mixes up washing hands with boiling drinking water. Boiling water kills germs, but it would burn your skin."
-    },
-    {
-     "t": "write",
-     "p": "Explain to a younger cousin why soap cleans better than water. Use the words oil, head and tail.",
-     "lines": 4,
-     "a": "Germs stick in the oil on our skin. Water slides off oil. A soap molecule has a head that sticks to water and a tail that sticks to oil. The tails hold the oil and the heads hold the water, so the water can wash the oil and germs away.",
-     "why": "A good answer says the germs are in oil, water cannot hold oil, and soap holds both."
-    },
-    {
-     "t": "write",
-     "p": "Reetha makes foam in water. What does that tell you about what is inside it?",
-     "lines": 3,
-     "a": "Reetha has soap-like molecules, called saponins, with a water-loving end and an oil-loving end. That is why it foams and cleans.",
-     "why": "Foam is a sign of soap-like molecules holding air and water.",
-     "how": "a2"
-    },
-    {
-     "t": "draw",
-     "p": "Draw a micelle: a ring of soap molecules around a blob of oil. Show which way the heads and tails point.",
-     "a": "A ring of soap molecules with their tails pointing into an oil blob in the middle, and their heads pointing out into the water.",
-     "why": "Tails in the oil, heads in the water.",
-     "art": "An empty circle labelled 'oil blob' in the middle of a blue box labelled 'water'."
-    },
-    {
-     "t": "mcq",
-     "p": "Why does emptying flowerpot trays once a week stop mosquitoes, even though mosquitoes can still lay eggs?",
-     "opts": [
-      "The eggs need about a week in water to become flying mosquitoes, so emptying the water first stops them",
-      "Mosquitoes hate empty pots",
-      "The dry soil kills the mosquitoes",
-      "It doesn't stop them"
-     ],
-     "a": 0,
-     "why": "Eggs become wrigglers, then flying mosquitoes, in about a week in warm weather. Tip the water out before that, and none grow up. Picking 'mosquitoes hate empty pots' misses the real reason: their young need water to grow.",
-     "how": "a3"
-    },
-    {
-     "t": "mcq",
-     "p": "After a wash with plain soap, where are most of the bacteria that were on your hands?",
-     "opts": [
-      "Down the drain, still alive, in the rinse water",
-      "Killed on your hands by the soap",
-      "Still on your hands, hidden in the oil",
-      "Turned into soap"
-     ],
-     "a": 0,
-     "why": "Plain soap kills very few bacteria. It wraps the oil they sit in, and the rinse water carries them away. Picking 'killed by the soap' is very common, because adverts talk about killing germs. Lifting them off is what keeps your hands clean."
-    },
-    {
-     "t": "truefalse",
-     "p": "At home, antibacterial soap cleans hands much better than plain soap.",
-     "a": false,
-     "why": "False. Tests found it about as good as plain soap and water. What matters is that soap lifts the oil, and the germs in it, off your hands."
+     "why": "Each person added one piece. Germ theory was built by many people over about 300 years."
     }
    ]
   },
@@ -1281,7 +1278,7 @@
     },
     {
      "t": "mcq",
-     "p": "Semmelweis chose chlorine water because ordinary soap did not remove the smell of the cutting room from his hands. What was he using the smell as?",
+     "p": "Ordinary soap did not remove the smell of the cutting room from Semmelweis's hands, but chlorine water did. What was he using the smell as?",
      "opts": [
       "A sign that something invisible was still on his hands",
       "A way to make his hands smell nice",
@@ -1289,102 +1286,112 @@
       "A test of the soap's colour"
      ],
      "a": 0,
-     "why": "He could not see the 'particles' he suspected. The smell was a clue that something stayed. Picking 'smell nice' misses that he was using his nose as a measuring tool. Scientists often use clues to study things they cannot see."
+     "why": "He could not see the 'particles' he suspected. The smell was a clue that something stayed. Scientists often use a clue they can sense to study things they cannot see."
     },
     {
      "t": "mcq",
-     "p": "Many doctors in 1847 refused to wash. Which reason was the LEAST scientific?",
+     "p": "Many doctors in 1847 refused to wash. Which of their reasons was the LEAST scientific?",
      "opts": [
+      "A gentleman's hands could not possibly be dirty",
       "Nobody had yet seen the germs",
       "Semmelweis could not explain why washing worked",
-      "A gentleman's hands could not possibly be dirty",
       "Chlorine water made their hands sore"
      ],
-     "a": 2,
-     "why": "Saying a gentleman's hands cannot be dirty is pride, not evidence. The other reasons were real problems, even if the numbers already showed washing worked. Science should follow the evidence, even when it is uncomfortable."
+     "a": 0,
+     "why": "Saying a gentleman's hands cannot be dirty is pride, not evidence. The other reasons were real problems, even though the numbers already showed washing worked. Science should follow the evidence, even when it is uncomfortable."
     },
     {
      "t": "truefalse",
      "p": "The thin skin around each cell in your body, called its membrane, is built from molecules with water-loving heads and oil-loving tails, like soap.",
      "a": true,
-     "why": "True. Cell membranes are two layers of such molecules, heads out and tails in. The oily coat of flu viruses is built the same way, which is why soap breaks it."
+     "why": "True. Cell membranes are two layers of such molecules, heads out and tails in. The oily coat of a flu virus is built the same way, which is why soap breaks it."
     },
     {
      "t": "mcq",
-     "p": "If soap can break a virus's oily coat, why doesn't it break the cells of your hands?",
+     "p": "If soap can break a virus's oily coat, why doesn't soap break the cells of your hands?",
      "opts": [
-      "The top layer of your skin is made of tough, dead cells packed tightly, so soap cannot reach the living cells",
+      "The top layer of your skin is tough, dead cells packed tightly, so soap cannot reach the living cells",
       "Soap is too weak to touch any cell",
       "Soap washes off before it reaches them",
-      "It does break them all"
+      "Soap does break them all"
      ],
      "a": 0,
-     "why": "Your skin's top layer is a tough wall of dead cells. Soap can dry it by removing some oil, but it cannot get through to living cells. Picking 'it breaks them all' is a sensible worry, but skin is built to stop that."
+     "why": "Your skin's top layer is a tough wall of dead cells. Soap can dry it by removing some oil, but cannot get through to living cells. Picking 'soap does break them all' is a sensible worry, but skin is built to stop that."
     },
     {
-     "t": "mcq",
-     "p": "Robert Koch is often given credit for finding the cholera germ in 1884. Why do many scientists say Filippo Pacini deserves credit too?",
-     "opts": [
-      "Pacini saw and described the cholera germ in 1854, thirty years earlier, but few people noticed",
-      "Pacini invented soap",
-      "Pacini was Koch's teacher",
-      "There is no reason"
-     ],
-     "a": 0,
-     "why": "Pacini described it first, in Italy, but most scientists then believed in bad air and ignored him. Today the germ's scientific name includes his name and the year 1854. Picking 'there is no reason' misses that credit often goes to whoever convinces the world, not who saw it first."
+     "t": "write",
+     "p": "Robert Koch is often given the credit for finding the cholera germ in 1884. Filippo Pacini saw and described the same germ in 1854, but few people noticed. Why do you think Pacini was forgotten? What does this tell you about who gets remembered?",
+     "lines": 4,
+     "a": "A strong answer says that most scientists in 1854 believed illness came from bad air, so they did not listen to Pacini. Koch convinced the world thirty years later. It says that credit often goes to whoever convinces people, not always to who saw it first. Today the germ's scientific name includes Pacini's name and the year 1854.",
+     "why": "Science is done by people, and people do not always listen. Looking back at who was ignored is part of telling the history honestly."
     },
     {
-     "t": "mcq",
-     "p": "Some people say homes today are 'too clean', causing allergies. Which is the most careful thing to say?",
-     "opts": [
-      "Stop washing hands, so children meet more germs",
-      "Scientists still argue. Many think meeting harmless outdoor microbes helps, while washing at key moments still saves lives",
-      "Cleaning causes all allergies",
-      "Allergies have nothing to do with microbes, for sure"
+     "t": "perspective",
+     "p": "Scientists argue about why allergies, like hay fever, have become more common.",
+     "views": [
+      {
+       "who": "David Strachan, a British doctor, in 1989",
+       "says": "Children with more older brothers and sisters had less hay fever. Maybe catching more infections when young protects against allergies."
+      },
+      {
+       "who": "Graham Rook, a British scientist, in 2003",
+       "says": "It is not about catching illnesses. Children need to meet the harmless microbes of soil, plants and animals, our 'old friends'."
+      },
+      {
+       "who": "Sally Bloomfield, a British hygiene scientist",
+       "says": "Calling it a hygiene problem makes people stop washing. Wash well at the key moments, like before food and after the toilet."
+      }
      ],
-     "a": 1,
-     "why": "The idea is still debated. No study shows that washing hands before meals causes allergies. Picking 'stop washing' takes a debated idea and turns it into dangerous advice. The careful answer says what is known and what is not."
+     "ask": "Which view seems most likely to you? Give your reason. Then say what another scientist has right.",
+     "lines": 5,
+     "a": "A strong answer picks a view and gives evidence or a reason, for example that most microbes are harmless or helpful, which fits Rook. It admits a fair point from another side, for example that washing before food still saves lives. It does not conclude that washing hands is bad.",
+     "why": "This is still debated. No study shows that washing hands before meals causes allergies. Most scientists today agree that washing at the key moments still matters, because it stops real germs."
     },
     {
      "t": "write",
      "p": "Design a fair test to find out whether reetha water or soap cleans oil off a steel plate better. What will you change? What will you keep the same?",
      "lines": 4,
-     "a": "Change only the cleaner: reetha water on one plate, soap on another. Keep the same amount of oil, the same plates, the same amount of water, and the same number of wipes. Then compare how greasy each plate feels, or how a tissue looks after wiping.",
+     "a": "A strong answer changes only the cleaner: reetha water on one plate, soap on another. It keeps the same amount of oil, the same plates, the same amount of water and the same number of wipes. Then it compares how greasy each plate feels, or how a tissue looks after wiping.",
      "why": "A good fair test changes one thing and names at least three things kept the same.",
      "how": "a2"
     },
     {
      "t": "write",
-     "p": "Anna in the story was only nine, but she helped. Write about a time when someone younger or less important noticed something that grown-ups missed.",
+     "p": "In the story, Anna was nine. She nearly did not speak, because the man in front of her was a doctor. Why is it good for science when everyone's observations count, not only those of important people?",
      "lines": 4,
-     "a": "Any thoughtful answer. For example: my little sister noticed the tap was dripping when nobody else did, and we saved a bucket of water every day.",
-     "why": "This links the story to how anyone can notice evidence, and how good science listens to everyone.",
+     "a": "A strong answer says that anyone can notice a clue, and the person who notices may not be important. Anna knew that ordinary soap did not remove a bad smell, but chlorine water did. If the doctor had not listened, the clue would have been lost.",
+     "why": "Evidence matters, not who brings it. The midwives' careful counts and Anna's nose were both evidence.",
      "context": "In this unit's story, The Basin by the Door, Anna is a nine-year-old girl who helps her mother wash hospital sheets in Vienna in 1847."
     },
     {
      "t": "write",
-     "p": "Microbes were on Earth for billions of years before any animal. Do you think they matter only for what they do for people? Give a reason.",
+     "p": "Microbes lived on Earth for billions of years before any animal. Do you think they matter only for what they do for people? Give a reason.",
      "lines": 4,
-     "a": "Any thoughtful answer with a reason. For example: no, they matter for themselves, because they are living things with their own lives, and the whole Earth depends on them, not just people.",
+     "a": "A strong answer gives a view with a reason. For example: no, they matter for themselves, because they are living beings with their own lives, and the whole Earth depends on them, not just people.",
      "why": "There is no single right answer. A good answer gives a reason."
     },
     {
      "t": "order",
      "p": "Put these discoveries in the order they happened, earliest first.",
      "items": [
-      "Fracastoro writes about invisible seeds of disease (1546)",
-      "Leeuwenhoek sees 'little animals' (1670s)",
-      "Semmelweis's hand-washing basin (1847)",
-      "Koch grows the cholera germ (1884)"
+      "Fracastoro writes about invisible seeds of disease",
+      "Leeuwenhoek sees 'little animals' through his lenses",
+      "Semmelweis puts a hand-washing basin by the ward door",
+      "Koch grows the cholera germ in his laboratory"
      ],
-     "a": "order shown",
-     "why": "Germ theory grew slowly over more than 300 years, each person building on others."
+     "a": [
+      "Fracastoro writes about invisible seeds of disease",
+      "Leeuwenhoek sees 'little animals' through his lenses",
+      "Semmelweis puts a hand-washing basin by the ward door",
+      "Koch grows the cholera germ in his laboratory"
+     ],
+     "why": "1546, then the 1670s, then 1847, then 1884. Germ theory grew slowly over more than 300 years, each person building on others."
     },
     {
      "t": "write",
      "p": "Some people say dirt is just 'something in the wrong place'. Do you agree? Give one example for and one against.",
      "lines": 4,
-     "a": "A balanced answer. For example: for, soil is good in a garden but dirty on a plate. Against, some things, like germs in drinking water, are harmful almost anywhere we meet them.",
+     "a": "A strong answer gives an example for each side. For example: for, soil is good in a flowerpot but dirty on a plate. Against, some things, like cholera germs in drinking water, are harmful almost anywhere we meet them.",
      "why": "There is no single right answer. What counts is a reason for each side."
     },
     {
@@ -1405,19 +1412,20 @@
      "opts": [
       "Soap and rubbing lift them off the hands, and the water carries them away",
       "Soap makes them grow an oily coat",
-      "It does not help at all",
+      "Washing does not help at all",
       "The water is too cold for them"
      ],
      "a": 0,
-     "why": "Soap wraps the oil and dirt the viruses sit in, and the rinse carries them off. Picking 'it does not help' means thinking soap must kill a germ to work. Mostly, soap works by moving germs off your hands."
+     "why": "Soap wraps the oil and dirt the viruses sit in, and the rinse carries them off. Picking 'washing does not help' means thinking soap must kill a germ to work. Mostly, soap works by moving germs off your hands."
     },
     {
      "t": "write",
      "p": "In the turmeric test, where did the yellow go when you washed with soap? What does that tell you about where germs go when you wash?",
      "lines": 4,
      "how": "e1",
-     "a": "It went down the drain with the rinse water. Germs on hands mostly go the same way. The soap lifts them off and the water carries them away, mostly still alive.",
-     "why": "A good answer says the yellow was carried away by the water, and links that to germs leaving the hands in the rinse."
+     "a": "A strong answer says the yellow went down the drain with the rinse water. Germs on hands mostly go the same way: the soap lifts them off and the water carries them away, mostly still alive.",
+     "why": "This is why the drain and the toilet need to be kept apart from drinking water. The germs are moved, not destroyed.",
+     "context": "In the turmeric test, you rub oil and turmeric on your hands as pretend germs, then wash them in different ways."
     }
    ]
   }
@@ -2626,15 +2634,15 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "What is a germ?",
+   "p": "Which of these is a germ?",
    "opts": [
-    "A tiny living thing or virus that can make us ill",
-    "Any speck of dust",
-    "Every microbe",
-    "A small insect"
+    "The cholera bacteria in dirty water",
+    "The bacteria that turn milk into curd",
+    "A speck of dust",
+    "An ant"
    ],
    "a": 0,
-   "why": "Germs are the microbes and viruses that can make us ill. Picking 'every microbe' misses that most microbes are harmless or helpful. Picking 'insect' mixes germs with the pests that can carry them.",
+   "why": "A germ is a microbe or virus that can make us ill. Cholera bacteria do. Curd bacteria are microbes too, but they are helpful, not germs. Dust is not alive, and an ant is far bigger than a microbe.",
    "outcome": 0
   },
   {
@@ -2738,14 +2746,14 @@
   },
   {
    "t": "mcq",
-   "p": "Which is the safe way to care for your ears?",
+   "p": "Arjun's ear feels itchy. Which is the safe thing to do?",
    "opts": [
-    "Wipe the outer ear, and never poke anything inside",
+    "Wipe the outer ear with a cloth, and never poke anything inside",
     "Clean inside with a hairpin",
     "Pour water in every day"
    ],
    "a": 0,
-   "why": "Earwax moves out of the ear on its own. Poking can hurt the eardrum. Picking a hairpin is a common, risky habit.",
+   "why": "Earwax moves out of the ear on its own and protects it. Poking can hurt the eardrum. Picking a hairpin is a common, risky habit.",
    "outcome": 3
   },
   {

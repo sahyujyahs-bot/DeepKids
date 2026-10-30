@@ -1,0 +1,1415 @@
+{
+ "key": "combined|sci|5|the-very-small",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "the-very-small",
+ "title": "The very small: fields, quarks and quantum chance",
+ "source": "DeepKids Combined, The Deep End: a DeepKids topic from the founder's notebook (Grade 5 grid: particles as ripples in fields, the Standard Model, the Higgs field, entanglement, matter and antimatter, dark matter and string theory). No board teaches it at this class, so there are no board subtopics to cover. No textbook needed.",
+ "summary": "Shake a skipping rope tied to a window grill, and it makes one loop, then two, then three, but never two and a half. Your child finds out that electrons, light and quarks behave in the same way: they are the smallest ripples in fields that fill all of space. They build protons from quarks with charges in thirds, see light spread like a wave through a piece of cloth, and toss coins to see how pure chance in each atom gives a steady pattern in many. They meet entangled pairs, the Higgs field and the surprise that most of their own mass is the energy of moving quarks. Last, they meet the big unknowns: dark matter, the missing antimatter and whether strings lie deeper down.",
+ "builds_on": "In Class 3 (The very small) your child cut paper towards a single atom, found the tiny nucleus with rolling marbles, drew electron clouds with pencil dots, saw salt turn a flame yellow and met antimatter. Class 4 (Matter and particles) used particles to explain solids, liquids, gases, diffusion and density. This rung goes inside the proton and underneath the particles: fields, quarks, waves, chance, entanglement, mass, and the open questions at the edge of physics. Later school years go on to atomic structure, chemical bonding and nuclear physics.",
+ "subconcepts": [
+  "quarks: protons and neutrons are each made of three, with charges in thirds",
+  "the strong force and gluons: why a quark can never be pulled out alone",
+  "the Standard Model: 12 matter particles, the force carriers and the Higgs boson",
+  "a field fills space and acts at every point in it",
+  "particles are the smallest ripples (quanta) of fields, and the photon is the quantum of light",
+  "standing waves: only whole patterns fit, which is why an atom's energies come in steps",
+  "wave and particle: light and electrons spread like waves but arrive as single dots",
+  "quantum chance and half-life: each atom is unpredictable, many atoms are predictable",
+  "entanglement: pairs whose results match more than any plan made in advance allows, with no message sent",
+  "the Higgs field gives electrons and quarks their mass",
+  "most of your mass is the energy of quarks and gluons moving inside protons and neutrons",
+  "neutrinos and muons: particles that pass through you all the time",
+  "mirror symmetry is broken: Chien-Shiung Wu's experiment",
+  "dark matter: unseen mass found from how fast stars orbit",
+  "open questions: missing antimatter, quantum gravity and string theory"
+ ],
+ "goals": [
+  "By the end your child can build a proton and a neutron from up and down quarks and add their charges.",
+  "By the end your child can explain what a field is, and say that particles are the smallest ripples in fields.",
+  "By the end your child can show with a rope why only whole wave patterns fit, and link it to the exact colours atoms give out.",
+  "By the end your child can explain, from the coin test, how each atom decays by chance while a large group halves at a steady rate.",
+  "By the end your child can say what entanglement is and why it cannot be used to send a message.",
+  "By the end your child can name three things physicists cannot explain yet: dark matter, the missing antimatter and how gravity fits quantum physics."
+ ],
+ "words": [
+  [
+   "quark",
+   "a tiny particle inside protons and neutrons. The two common kinds are the up quark and the down quark."
+  ],
+  [
+   "gluon",
+   "the particle of the strong force, which holds quarks together"
+  ],
+  [
+   "field",
+   "something that fills space and has a value at every point, such as the magnetic field around a magnet"
+  ],
+  [
+   "quantum",
+   "the smallest possible amount of something. A photon is one quantum of light. The plural is quanta."
+  ],
+  [
+   "photon",
+   "one quantum of light: the smallest ripple of the electromagnetic field"
+  ],
+  [
+   "standing wave",
+   "a wave that stays in one place, with still points called nodes and loops in between"
+  ],
+  [
+   "half-life",
+   "the time it takes for half of a group of unstable atoms to break down"
+  ],
+  [
+   "entanglement",
+   "a link between two particles made together, so that their measured results match in a way no plan made in advance can copy"
+  ],
+  [
+   "Higgs field",
+   "a field that fills all of space. Electrons and quarks get their mass by interacting with it."
+  ],
+  [
+   "neutrino",
+   "a very light particle with no charge that passes through almost everything, even the whole Earth"
+  ],
+  [
+   "dark matter",
+   "matter that we cannot see, found only by the pull of its gravity on stars and galaxies"
+  ],
+  [
+   "Standard Model",
+   "the list of all the known particles and the rules for how they act on each other"
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "Inside the proton",
+   "goal": "Remember the atom from Class 3, build protons and neutrons from quarks, and find out what a field is.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the atom",
+     "mins": 6,
+     "do": "Draw a dot with a fuzzy cloud around it. Ask: 'In Class 3 you made a carbon atom from rajma, chana and cotton wool. What are the three parts of an atom, and what charge does each have?' (Protons, plus. Neutrons, no charge. Electrons, minus.) Ask: 'You also met antimatter. What happens when an electron meets a positron?' (Both vanish in a flash of light.) Then ask: 'Are protons and neutrons the smallest things, or do they have parts?' Let your child guess and give a reason."
+    },
+    {
+     "kind": "talk",
+     "title": "Quarks",
+     "mins": 7,
+     "do": "Say: 'Protons and neutrons are each made of three smaller particles called quarks. In 1964, Murray Gell-Mann and George Zweig both came up with the idea. Gell-Mann took the name from a line in a book: \"Three quarks for Muster Mark\". In 1968, experiments in California fired electrons at protons, and some bounced off small hard points inside.' Say: 'There are two common kinds. An up quark has a charge of plus two-thirds. A down quark has a charge of minus one-third.' Ask: 'A proton has a charge of plus one. Which three quarks could make it?' Let your child try with the numbers before Activity a1."
+    },
+    {
+     "kind": "act",
+     "title": "Build a proton",
+     "mins": 17,
+     "ref": "a1",
+     "do": "Do Activity a1. When the proton is built, ask: 'Add up the charges. What do you get?' (Two-thirds plus two-thirds minus one-third is three-thirds, which is plus one.) When your child pulls one quark away, ask: 'What happens to the rubber band as you pull further?' (It pulls back harder.) Say: 'The strong force between quarks is like this. The further apart, the harder it pulls. Pull hard enough, and the energy makes a new quark and antiquark. So nobody has ever seen a quark on its own.'"
+    },
+    {
+     "kind": "talk",
+     "title": "What is a field?",
+     "mins": 10,
+     "do": "Hold a magnet under a thin notebook and put a steel pin or paper clip on top. Move the magnet. Ask: 'The magnet never touched the pin. How did it move it?' Wait for a guess. Say: 'Around every magnet there is a magnetic field. A field fills the space around it and has a strength at every point, even where nothing is.' Say: 'Physicists now think the whole universe is filled with fields: one for light, one for electrons, one for each kind of quark, and more. A particle is the smallest possible ripple in its field. The smallest ripple of light is called a photon. An electron is the smallest ripple in the electron field.' Ask: 'If an electron is a ripple, what is it a ripple in?' (The electron field, which fills all of space.)"
+    },
+    {
+     "kind": "do",
+     "title": "Start the particle wall",
+     "mins": 5,
+     "do": "Start the project, The particle wall. Stick a large sheet on the wall. Draw five boxes: up quark, down quark, electron, gluon and photon. In each, your child writes the charge and one sentence on what it does. For example: 'Down quark. Charge minus one-third. Two of them and one up quark make a neutron.' And: 'Photon. No charge, no mass. The smallest ripple of light.'"
+    }
+   ],
+   "need": [
+    "atta dough in two colours (one plain, one with a pinch of haldi)",
+    "6 rubber bands",
+    "a pencil and paper",
+    "a large sheet of paper or chart paper, and tape",
+    "coloured pens",
+    "a magnet (a fridge magnet will do)",
+    "a thin notebook",
+    "a steel pin or paper clip"
+   ],
+   "prep": [
+    {
+     "task": "Knead a small ball of atta dough and colour half of it yellow with a pinch of haldi.",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Only whole waves fit",
+   "goal": "Make standing waves on a rope, and see why an electron in an atom can only have certain energies.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the yellow flame",
+     "mins": 5,
+     "do": "Ask: 'In Class 3, salt fell into a gas flame. What colour did it flash?' (Yellow, every time.) Ask: 'Why always the same yellow?' (Electrons in sodium can only be on certain energy steps. A drop between two steps gives one exact colour.) Ask: 'But why only certain steps? Why not anywhere in between?' Say: 'Today a rope will show us.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Waves on a rope",
+     "mins": 25,
+     "ref": "e1",
+     "do": "Do Experiment e1. Before shaking, ask: 'If you shake faster and faster, will the rope make more and more loops smoothly, one and a bit, one and a half, and so on? Or will it jump? Why do you think so?' After, ask: 'Could you make two and a half loops stay still?' (No. Only whole loops stay. In between, the rope just wobbles.)"
+    },
+    {
+     "kind": "talk",
+     "title": "The electron as a standing wave",
+     "mins": 10,
+     "do": "Say: 'In 1924, Louis de Broglie in France said an electron is also a wave. In 1926, Erwin Schrödinger in Austria wrote the maths for it. Inside an atom, the electron's wave must fit around the nucleus, like the rope between your hand and the grill. Only whole patterns fit. Each pattern has its own energy. So the energies come in steps, and so the colours are exact.' Ask: 'Why does a sodium street light glow one exact yellow, and not a mix of every colour?' Good answer: 'Only certain wave patterns fit in a sodium atom, so only certain drops in energy happen.'"
+    },
+    {
+     "kind": "think",
+     "title": "A veena string",
+     "mins": 5,
+     "do": "If you have a veena, a guitar or a toy string instrument, pluck a string, then touch it lightly at the exact middle and pluck again. The note jumps up to a higher note. Otherwise, stretch a rubber band over an open box and do the same. Ask: 'Why does touching the middle change the note?' (Only patterns with a still point there can happen now, the two-loop pattern.) Read the veena player's perspective together."
+    }
+   ],
+   "need": [
+    "a skipping rope, or 3 metres of thick rope or clothesline",
+    "a window grill, door handle or heavy table leg to tie it to",
+    "a phone with a stopwatch",
+    "a veena or guitar, or a rubber band and an open box"
+   ],
+   "prep": []
+  },
+  {
+   "n": 3,
+   "title": "Wave and particle",
+   "goal": "See light spread like a wave through cloth, and hear how waves arrive as single dots.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the rope",
+     "mins": 4,
+     "do": "Ask: 'What did the rope do between one loop and two loops?' (It wobbled. No steady pattern.) Ask: 'Is light a wave or a stream of tiny pieces? What do you think, and why?' Write the guess down."
+    },
+    {
+     "kind": "exp",
+     "title": "A light through a cloth",
+     "mins": 22,
+     "ref": "e2",
+     "do": "Do Experiment e2. Before you look, ask: 'If light is a stream of tiny pieces, what will a small light look like through the cloth? If light is a wave?' After, ask: 'What did you see around the light?' (A cross or grid of spots, with colours, spreading out from the light.) Say: 'Light squeezed through tiny gaps spreads out, and waves from neighbouring gaps add up in some places and cancel in others. Only waves do that.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Dots that make stripes",
+     "mins": 12,
+     "do": "Draw a screen with two slits in front of it. Say: 'Scientists sent electrons at two very thin slits, one electron at a time. This was done in 1989 by Akira Tonomura and his team in Japan. Each electron landed as one single dot on the screen. But after thousands of dots, they made stripes, the same stripes waves make.' Say: 'A single electron travels like a wave, which goes through both slits. But it is always found as one dot. Light does the same. Its dots are photons.' Ask: 'Is an electron a wave or a particle?' Good answer: 'It travels like a wave and is found like a particle. It is something new that our everyday words don't fit.'"
+    },
+    {
+     "kind": "think",
+     "title": "Who measures?",
+     "mins": 7,
+     "do": "Say: 'If a detector is put at the slits to find which slit each electron went through, the stripes disappear. The dots make two plain bands instead.' Ask: 'In Class 3 you learned what an observer means in physics. Does a person need to watch?' (No. Any detector or particle that the electron bumps into counts as measuring.) Ask: 'Why do you think measuring changes the pattern?' Say: 'Physicists agree on what happens. They still argue about why. Nobody knows for sure.'"
+    }
+   ],
+   "need": [
+    "a piece of fine thin cloth: an umbrella, a thin nylon dupatta or a sheer curtain",
+    "a small bright light: a phone torch, or a street light seen from a window at night",
+    "a dark room",
+    "paper and a pencil",
+    "optional: a laser pointer and a strand of hair"
+   ],
+   "prep": []
+  },
+  {
+   "n": 4,
+   "title": "Chance at the bottom",
+   "goal": "Toss coins to see how each atom breaks down by pure chance while a big group halves at a steady rate.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the dots",
+     "mins": 4,
+     "do": "Ask: 'In the slit experiment, could anyone say where the next electron would land?' (No. Only where it was likely to land.) Say: 'Today we find out how chance in each tiny thing can still give a pattern you can predict.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Coin atoms",
+     "mins": 22,
+     "ref": "e3",
+     "do": "Do Experiment e3. Before the first toss, ask: 'Which coin will turn heads first? How many coins will be left after one toss? After four tosses?' After, ask: 'Could you ever say which coin would go next?' (No.) Ask: 'Could you say about how many would be left after each toss?' (Yes, about half each time.) Say: 'The number of tosses it takes for half to go is called the half-life.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Real atoms on a timer",
+     "mins": 9,
+     "do": "Say: 'Some atoms are unstable. Each one breaks down at a random moment, and no one can say when. But in a big group, half break down in a fixed time. For carbon-14, that time is about 5,730 years. Every living thing takes in carbon-14 while alive. After death, scientists count how much is left, and that tells them roughly how old a piece of bone or wood is.' Ask: 'A piece of wood has about half the carbon-14 that a living tree has. About how old is it?' (About 5,730 years.) Ask: 'A quarter?' (About 11,460 years, two half-lives.)"
+    },
+    {
+     "kind": "think",
+     "title": "Is the chance real?",
+     "mins": 10,
+     "do": "Say: 'A coin is not truly random. If you knew exactly how hard you tossed it, you could work out how it would land. Most physicists think an atom is different: nothing at all decides when it breaks down. Albert Einstein did not like this. He said that God does not play dice. Others, like Niels Bohr, said the chance is really there.' Ask: 'Which do you think is true: that something hidden decides, or that nothing decides? What would you need to find out to be sure?' Write your child's answer on the particle wall under 'Open questions'."
+    }
+   ],
+   "need": [
+    "40 coins of any kind (or 40 squares of cardboard marked with a cross on one side)",
+    "a steel box or large steel tumbler with a lid",
+    "a tray",
+    "squared paper and a pencil",
+    "the particle wall"
+   ],
+   "prep": [
+    {
+     "task": "Collect 40 coins, or cut 40 cardboard squares and mark a cross on one side of each.",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Entangled pairs",
+   "goal": "Find out what entanglement is, how Bell's test shows it is not a hidden plan, and why it cannot carry a message.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the coins",
+     "mins": 4,
+     "do": "Ask: 'What is a half-life?' (The time for half of a group of unstable atoms to break down.) Ask: 'Did any coin decide in advance when it would turn heads?' (No.) Say: 'Today we meet pairs of particles that act as if they share their chance.'"
+    },
+    {
+     "kind": "act",
+     "title": "The two envelopes",
+     "mins": 12,
+     "ref": "a2",
+     "do": "Do Activity a2. After the first round, ask: 'When you opened your envelope and saw red, how did you know the other was blue straight away?' (We put one of each in. It was decided when we packed them.) Ask: 'Did any message travel from your envelope to the other one?' (No.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Einstein, Bell and the real pairs",
+     "mins": 14,
+     "ref": "v3",
+     "do": "Use voice v3. Say: 'Some particles are made in pairs, for example two photons from one atom. Measure one, and you know what the other will show, even far away. Einstein thought this was like our envelopes: the answers were packed in at the start. In 1964, John Bell found a test. If the answers are packed in advance, the matches can never go above a certain amount when you measure in different ways. Real pairs go above it.' Say: 'This is called entanglement. In 2022, Alain Aspect, John Clauser and Anton Zeilinger won the Nobel Prize for showing it in experiments.' Then ask the voice's question."
+    },
+    {
+     "kind": "ws",
+     "title": "Worksheet: Fields, quarks and chance",
+     "mins": 15,
+     "ref": "ws1",
+     "do": "Do Worksheet ws1 (core). Your child reads each question aloud before answering. For the written questions, ask them to tell you the answer first, then write it in one or two sentences."
+    }
+   ],
+   "need": [
+    "2 envelopes",
+    "2 small cards, one red and one blue (or coloured with crayon)",
+    "Worksheet ws1, printed"
+   ],
+   "prep": []
+  },
+  {
+   "n": 6,
+   "title": "Where mass comes from",
+   "goal": "Meet the Higgs field, and find out that most of your mass is the energy of moving quarks.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the pairs",
+     "mins": 4,
+     "do": "Ask: 'Can entangled particles be used to send a message?' (No. Each result is random, so you can't choose what the other person sees.) Ask: 'What is mass?' Good answer: 'How much matter something has. It makes a thing hard to start moving and hard to stop.'"
+    },
+    {
+     "kind": "act",
+     "title": "Walk through the field",
+     "mins": 12,
+     "ref": "a3",
+     "do": "Do Activity a3. Afterwards, ask: 'Who was harder to start and stop: the one people held on to, or the one nobody touched?' (The one people held on to.) Say: 'Electrons and quarks get their mass from the Higgs field in a way a little like this. The more a particle interacts with the field, the more mass it has. A photon does not interact with it at all, so it has no mass and moves at the speed of light.' Say: 'This is only a picture. The Higgs field is not sticky, and it does not slow anything down.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Finding the Higgs",
+     "mins": 14,
+     "do": "Say: 'In 1964, six physicists wrote about this field: Robert Brout and François Englert in Belgium, Peter Higgs in Scotland, and Gerald Guralnik, Carl Hagen and Tom Kibble in London. To prove it, you must shake the field hard enough to make its own ripple, the Higgs boson. The Large Hadron Collider at CERN, a ring 27 kilometres round under Switzerland and France, smashed protons together. On 4 July 2012, CERN announced that the Higgs boson had been found.' Say: 'Thousands of scientists from many countries built and ran the machine, including scientists from India. In 2013, the Nobel Prize went to two people: Englert and Higgs. Brout had died in 2011.' Ask: 'Who do you think discovered the Higgs boson?'"
+    },
+    {
+     "kind": "think",
+     "title": "Most of you is energy",
+     "mins": 14,
+     "do": "Say: 'Here is a surprise. The three quarks in a proton, added together, make only about 1 part in 100 of the proton's mass. The other 99 parts come from the energy of the quarks and gluons moving inside it. Einstein showed that energy has mass, in E equals m c squared.' Ask: 'Your mass is almost all in your protons and neutrons. So how much of your mass comes from the Higgs field, and how much from moving energy?' Good answer: 'Only a tiny bit from the Higgs field. Almost all of it is the energy of quarks and gluons moving inside me.' Add this to the particle wall."
+    }
+   ],
+   "need": [
+    "two or three family members",
+    "a clear space about 4 steps long",
+    "the particle wall"
+   ],
+   "prep": []
+  },
+  {
+   "n": 7,
+   "title": "Broken mirrors and missing matter",
+   "goal": "Meet Chien-Shiung Wu's mirror experiment, Vera Rubin's unseen matter, and the matter that should not be here.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Mirror writing",
+     "mins": 5,
+     "ref": "a4",
+     "do": "Do Activity a4. Ask: 'Would a spinning top in a mirror look like a real top?' (Yes, a real top could spin that way.) Say: 'Physicists used to think everything in nature was like that: whatever happens, its mirror image could happen just as often.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Chien-Shiung Wu breaks the mirror",
+     "mins": 7,
+     "ref": "v1",
+     "do": "Use voice v1. Say: 'In 1956, Chien-Shiung Wu lined up the spinning nuclei of cobalt atoms, cooled almost to the coldest possible temperature. When they broke down, the electrons came out mostly in one direction. In a mirror world they would come out the other way, and that does not happen.' Say: 'Nature can tell left from right in this one force, called the weak force.' Then ask the voice's question."
+    },
+    {
+     "kind": "think",
+     "title": "Why is there anything?",
+     "mins": 6,
+     "do": "Say: 'In Class 3 you heard that the Big Bang made matter and antimatter in almost equal amounts, and they met and vanished in light. In 1964, James Cronin and Val Fitch found that antimatter is not a perfect mirror of matter either. It differs a tiny bit. But the difference measured so far is far too small to explain why any matter was left.' Ask: 'If matter and antimatter had been exactly equal, what would the universe have now?' (Only light. No stars, no planets, no people.) Say: 'Nobody knows yet where the extra matter came from.'"
+    },
+    {
+     "kind": "act",
+     "title": "Swing the sock",
+     "mins": 8,
+     "ref": "a5",
+     "do": "Do Activity a5. Afterwards, ask: 'When the sock went round faster, did you need to pull harder or more gently?' (Harder.) Ask: 'If the string were weaker than your pull needed, what would happen?' (The sock would fly off.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Vera Rubin's fast stars",
+     "mins": 5,
+     "ref": "v2",
+     "do": "Use voice v2. Say: 'Vera Rubin measured how fast stars go round at the edges of galaxies. They go too fast. The stars and gas we can see don't have enough gravity to hold them in, like a string too weak for the sock. Something unseen must be pulling too. Astronomers call it dark matter.' Then ask the voice's question."
+    },
+    {
+     "kind": "ws",
+     "title": "Worksheet: Particles at work",
+     "mins": 15,
+     "ref": "ws2",
+     "do": "Do Worksheet ws2 (stretch). Your child reads each question aloud. For each written question, ask them to tell you the answer first. Then they write it. Talk about any answer that surprised you both."
+    }
+   ],
+   "need": [
+    "a mirror",
+    "paper and a pencil",
+    "a soft sock with another sock rolled up inside it, tied to 1 metre of string",
+    "an open space with nothing breakable nearby",
+    "Worksheet ws2, printed"
+   ],
+   "prep": []
+  },
+  {
+   "n": 8,
+   "title": "Is there anything deeper?",
+   "goal": "Read a true-based story of catching neutrinos at Kolar, hear the idea that particles may be tiny strings, and play the particle game.",
+   "steps": [
+    {
+     "kind": "read",
+     "title": "Story: The Quietest Visitor",
+     "mins": 12,
+     "do": "Read the story aloud. Then ask: 'Why did the scientists build their detector more than two kilometres underground, when the particles they wanted came from the sky?' (The rock stops nearly all other particles. Neutrinos pass through it.) 'Why was it so hard to catch a neutrino?' (Almost all of them pass through everything.) 'How did the tin roof help the girl work it out?' (When the rain stopped, she could hear one small drop.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Strings?",
+     "mins": 8,
+     "ref": "v4",
+     "do": "Use voice v4. Remind your child of the rope from Day 2. Say: 'String theory says that deep down, every particle may be a tiny loop or piece of string. Different ways of vibrating would make different particles, like different patterns on the rope. The idea also includes gravity, which the Standard Model leaves out.' Say: 'But the strings would be far too small for any machine we have. No experiment has tested it.' Then ask the voice's question."
+    },
+    {
+     "kind": "game",
+     "title": "Particle Builder",
+     "mins": 20,
+     "ref": "g1",
+     "do": "Play Game g1. Before you start, read the back of each kind of card aloud once. Each time someone builds a proton or neutron, ask them to add up the charges out loud. When a neutrino card comes, ask: 'Why does the neutrino card pass straight on?' (Neutrinos pass through almost everything, like the ones in the story.) When a dark matter card comes, ask: 'Why is it worth a point even though nobody knows what it is?' (Because its gravity pulls on everything.)"
+    },
+    {
+     "kind": "do",
+     "title": "Finish the particle wall",
+     "mins": 5,
+     "do": "Add boxes for the neutrino, the muon and the Higgs boson. Write: 'Neutrino: no charge, almost no mass, passes through the whole Earth.' 'Muon: a heavy cousin of the electron, made when particles from space hit the air.' Under 'Open questions', your child writes one sentence each on dark matter and the missing antimatter."
+    }
+   ],
+   "need": [
+    "the printed Particle Builder cards, cut out",
+    "the particle wall",
+    "the rope from Day 2, if you want to show it again"
+   ],
+   "prep": [
+    {
+     "task": "Print the Particle Builder cards on one A4 sheet and cut them out.",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Teach it back",
+   "goal": "Pull the whole topic together and explain the very small to the family.",
+   "steps": [
+    {
+     "kind": "ws",
+     "title": "Worksheet: The edge of physics",
+     "mins": 15,
+     "ref": "ws3",
+     "do": "Do Worksheet ws3 (challenge). These questions are harder. Let your child think aloud. For the written questions, any answer with a clear reason and one piece of evidence from this topic is good."
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 10,
+     "do": "Ask the check questions aloud, one at a time. Wait for each answer before reading the next. If an answer is shaky, go back to the experiment it came from: the rope, the cloth, the coins or the envelopes."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back with the particle wall",
+     "mins": 15,
+     "do": "Your child stands by the particle wall and teaches the family for about 10 minutes. They must: build a proton from quarks and add its charge, show one standing wave on the rope, explain why the coins halve, and name two open questions. The family asks one question each. Your child answers, or says honestly: 'Nobody knows yet.'"
+    },
+    {
+     "kind": "think",
+     "title": "One big question",
+     "mins": 5,
+     "do": "Ask one question from the big questions list: 'If you are made of ripples in fields that fill all of space, where do you end and the rest of the world begin?' Let your child think aloud. There is no single right answer. Write their answer at the bottom of the particle wall."
+    }
+   ],
+   "need": [
+    "Worksheet ws3, printed",
+    "the particle wall",
+    "the rope, the coins and the envelopes"
+   ],
+   "prep": []
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Fields, quarks and chance",
+   "day": 5,
+   "sections": [
+    [
+     "A. Inside the proton",
+     [
+      {
+       "t": "fill",
+       "p": "An up quark has a charge of plus two-thirds. A down quark has a charge of minus one-third. A proton is two up quarks and one down quark. Its charge is plus ____.",
+       "a": [
+        "one",
+        "1"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which three quarks make a neutron, with a charge of zero?",
+       "opts": [
+        "one up quark and two down quarks",
+        "three up quarks",
+        "two up quarks and one down quark"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "On Day 1, Lakshmi pulled one dough quark away from the other two. The rubber band pulled back harder the further she pulled. What does this show about real quarks?",
+       "opts": [
+        "The strong force grows as quarks move apart, so a quark never comes out alone.",
+        "Quarks are joined by real rubber.",
+        "Quarks push each other away."
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each particle to what it does.",
+       "pairs": [
+        [
+         "gluon",
+         "holds quarks together"
+        ],
+        [
+         "photon",
+         "the smallest ripple of light"
+        ],
+        [
+         "electron",
+         "has a minus charge and is found around the nucleus"
+        ],
+        [
+         "neutrino",
+         "passes through almost everything"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Waves and chance",
+     [
+      {
+       "t": "mcq",
+       "p": "Divya ties a rope to a window grill and shakes the other end. Which pattern can she make stay still?",
+       "opts": [
+        "two loops",
+        "two and a half loops",
+        "one and a quarter loops"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "The time it takes for half of a group of unstable atoms to break down is called the ____.",
+       "a": [
+        "half-life",
+        "half life"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Sort each statement about the coin test with 40 coins.",
+       "items": [
+        "which coin turns heads next",
+        "about how many coins are left after 3 tosses",
+        "whether a single coin will go on the first toss",
+        "about how many tosses until only 5 are left"
+       ],
+       "cats": [
+        "can be predicted",
+        "cannot be predicted"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Electrons are sent one at a time at two thin slits. What builds up on the screen after thousands of electrons?",
+       "opts": [
+        "stripes, like the pattern waves make",
+        "one bright spot in the middle",
+        "nothing, because electrons pass through screens"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "A sodium street light glows one exact yellow. Use the rope experiment to explain why an atom gives out only certain colours.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "The magnet moved the pin through the notebook without touching it. What is a field? Use the magnet in your answer.",
+       "lines": 3
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Particles at work",
+   "day": 7,
+   "sections": [
+    [
+     "A. New cases",
+     [
+      {
+       "t": "mcq",
+       "p": "Meenakshi has 80 coin atoms. After each toss she takes out every coin that lands heads. About how many are left after 2 tosses?",
+       "opts": [
+        "about 20",
+        "about 40",
+        "about 60"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Carbon-14 has a half-life of about 5,730 years. A piece of old wood has a quarter of the carbon-14 of a living tree. It is about ____ years old.",
+       "a": [
+        "11,460",
+        "11460"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Kavya and Farhan each get one entangled photon. Farhan is in Kochi and Kavya is in Delhi. Can Farhan use his photon to send Kavya a message?",
+       "opts": [
+        "No. His result is random, so he cannot choose what Kavya sees.",
+        "Yes, faster than light.",
+        "Yes, but only at night."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A photon does not interact with the Higgs field at all. What follows?",
+       "opts": [
+        "It has no mass, so it travels at the speed of light.",
+        "It is very heavy.",
+        "It cannot exist."
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Evidence",
+     [
+      {
+       "t": "match",
+       "p": "Match each discovery to how it was found.",
+       "pairs": [
+        [
+         "quarks",
+         "electrons fired at protons bounced off hard points inside"
+        ],
+        [
+         "the Higgs boson",
+         "protons smashed together in a 27 km ring"
+        ],
+        [
+         "dark matter",
+         "stars at the edges of galaxies move too fast"
+        ],
+        [
+         "entanglement",
+         "real pairs beat the limit in Bell's test"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Sort each idea by where the evidence stands.",
+       "items": [
+        "quarks exist",
+        "particles are tiny strings",
+        "entangled pairs beat any plan made in advance",
+        "what dark matter is made of"
+       ],
+       "cats": [
+        "tested and accepted",
+        "not known yet"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Chien-Shiung Wu showed that one of nature's forces, the ____ force, can tell left from right.",
+       "a": [
+        "weak"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "Your mass is almost all in your protons and neutrons. Explain why most of your mass does not come from the Higgs field.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Nila says: 'A coin and an atom are the same. Both are random.' Is she right? Explain one way they are alike and one way they may be different.",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "The edge of physics",
+   "day": 9,
+   "sections": [
+    [
+     "A. Puzzles",
+     [
+      {
+       "t": "mcq",
+       "p": "There is also a strange quark, with a charge of minus one-third. A particle made of one up, one down and one strange quark has what charge?",
+       "opts": [
+        "zero",
+        "plus one",
+        "minus one"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "An antiproton is made of two anti-up quarks, each minus two-thirds, and one anti-down quark, plus one-third. Its charge is minus ____.",
+       "a": [
+        "one",
+        "1"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "About 65 billion neutrinos from the Sun pass through each fingernail-sized patch of you every second. Why don't you feel them?",
+       "opts": [
+        "They almost never interact with anything, so they pass straight through.",
+        "They are too slow.",
+        "They only come at night."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Vera Rubin found that stars at the edge of a galaxy move as fast as stars near the middle. What did this suggest?",
+       "opts": [
+        "There is extra mass we cannot see, pulling on them.",
+        "Galaxies have no gravity.",
+        "Her telescope was broken."
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Weigh the views",
+     [
+      {
+       "t": "match",
+       "p": "Match each scientist to the view they held.",
+       "pairs": [
+        [
+         "Albert Einstein",
+         "the answers of entangled pairs are packed in at the start"
+        ],
+        [
+         "John Bell",
+         "a test can tell a hidden plan from real entanglement"
+        ],
+        [
+         "Niels Bohr",
+         "the chance in an atom is really there"
+        ],
+        [
+         "Chien-Shiung Wu",
+         "her experiment showed nature can tell left from right"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Sort each claim.",
+       "items": [
+        "Quantum physics shows the world needs a person to look at it.",
+        "An electron lands as one dot.",
+        "Entanglement lets people send messages faster than light.",
+        "Most of a proton's mass is moving energy."
+       ],
+       "cats": [
+        "true",
+        "false"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "Wu did the experiment that proved Lee and Yang's idea, but only Lee and Yang won the Nobel Prize. Who do you think should get credit for a discovery: the person with the idea, the person who tests it, or both? Give a reason.",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "Anjali says: 'Nobody has seen dark matter, so it isn't real.' Tara says: 'Something must be pulling on those stars.' Pick one side and give your evidence. Then say what the other girl would answer back.",
+       "lines": 5
+      },
+      {
+       "t": "write",
+       "p": "String theory has not been tested by any experiment. Should scientists keep working on it? Give one reason for and one reason against.",
+       "lines": 4
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Waves on a rope",
+   "day": 2,
+   "question": "When you shake a rope tied at one end, can it make any number of loops, or only some?",
+   "need": [
+    "a skipping rope, or 3 metres of thick rope or clothesline",
+    "a window grill, door handle or heavy table leg",
+    "a phone with a stopwatch",
+    "a clear space about 3 metres long"
+   ],
+   "steps": [
+    "Tie one end of the rope firmly to the grill or handle, at about waist height.",
+    "Your child holds the other end and steps back until the rope is almost straight, with a little sag.",
+    "Move the hand up and down slowly, a small movement of about 10 centimetres. Speed up slowly until the whole rope swings in one big loop, like a skipping rope.",
+    "Count how many shakes you make in 10 seconds. A grown-up times it. Write the number down.",
+    "Now shake faster. At first the rope wobbles in a mess. Keep speeding up until it makes two loops with a still point in the middle. Count the shakes in 10 seconds again.",
+    "Shake faster again and look for three loops. Count the shakes once more.",
+    "Try to make the rope hold two and a half loops. Write down what happens."
+   ],
+   "predict": "Ask your child to guess first: 'As you shake faster, will the loops come smoothly, one, one and a bit, one and a half? Or will the rope jump from one pattern to the next? Why do you think so?'",
+   "observe": "The rope makes one loop, two loops or three loops, each with still points called nodes. Between those shaking speeds, the rope only wobbles. Two loops need about twice as many shakes as one loop, and three need about three times as many. No steady half loop ever forms.",
+   "why": "The rope is held still at both ends. A wave stays in one place only if a whole number of half-waves fits between the two ends. This is called a standing wave. An electron in an atom is also a wave, held in by the pull of the nucleus. Only whole patterns fit, and each has its own energy. So an atom's energy comes in steps, and the light it gives out has exact colours. If the loops won't form, use a heavier rope, tie it tighter, and make smaller movements.",
+   "safety": "Keep the space clear of glass and small children. Tie the rope to something that cannot fall over.",
+   "time": "20 min"
+  },
+  {
+   "id": "e2",
+   "title": "A light through a cloth",
+   "day": 3,
+   "question": "What happens to light when it passes through very tiny gaps?",
+   "need": [
+    "a piece of fine thin cloth: an umbrella, a thin nylon dupatta or a sheer curtain",
+    "a small bright light: a phone torch at the far end of a dark room, or a street light seen from a window at night",
+    "paper and a pencil",
+    "optional: a red laser pointer, a strand of hair, tape and a plain wall"
+   ],
+   "steps": [
+    "Make the room dark. A grown-up puts the phone torch on a shelf at the far end of the room, at least 4 metres away, pointing at you. Or look out at a street light at night.",
+    "Look at the light with your eyes alone. Draw what you see.",
+    "Hold the cloth stretched flat right in front of one eye and look at the light through it. Draw what you see.",
+    "Turn the cloth slowly. Watch the pattern turn too.",
+    "Hold two fingers close to one eye with a very thin gap between them, and look at the light through the gap. Look for thin dark lines in the gap.",
+    "Optional, with a grown-up: tape a hair straight across the end of the laser pointer. Shine it at a plain wall 2 metres away and look at the wall, not the laser."
+   ],
+   "predict": "Ask your child to guess first: 'If light is a stream of tiny pieces flying straight, what will the light look like through the cloth? If light is a wave, what might it look like? Why?'",
+   "observe": "Through the cloth, the small light becomes a cross or grid of bright spots, spreading out from the centre, often with rainbow edges. The grid turns when the cloth turns. Through the finger gap there are thin dark lines. With the laser and hair, a row of red spots spreads sideways across the wall.",
+   "why": "When light passes through gaps about as small as its own waves, it spreads out. This is called diffraction. The waves from neighbouring gaps meet. Where crests meet crests they add up to bright spots, and where crests meet troughs they cancel to dark. This is called interference, and only waves do it. Each colour has a different wavelength and spreads a different amount, so the edges are coloured. Yet when very dim light is caught by a sensitive detector, it arrives as single dots called photons. Light travels like a wave and arrives like a particle.",
+   "safety": "Never look at the Sun through the cloth. Never shine a laser pointer at anyone's eyes, or look into it. A grown-up holds the laser at all times.",
+   "time": "20 min"
+  },
+  {
+   "id": "e3",
+   "title": "Coin atoms",
+   "day": 4,
+   "question": "If each atom breaks down by pure chance, can we still predict what a group of them will do?",
+   "need": [
+    "40 coins of any kind (or 40 squares of cardboard with a cross on one side)",
+    "a steel box or large steel tumbler with a lid",
+    "a tray",
+    "squared paper and a pencil"
+   ],
+   "steps": [
+    "Each coin is an unstable atom. Put all 40 in the box and close the lid.",
+    "Shake the box well and tip the coins onto the tray.",
+    "Every coin showing heads has broken down. Take those out and put them aside. Count the coins left and write the number down.",
+    "Put the coins that are left back in the box. Shake and tip again. Take out the heads and count again.",
+    "Keep going until no coins are left. Write down each count.",
+    "Draw a bar chart: toss number along the bottom, coins left up the side.",
+    "Do the whole thing once more and draw the second set of bars in another colour."
+   ],
+   "predict": "Ask your child to guess first: 'Which coin will turn heads first? How many coins will be left after one toss? After four tosses? Why do you think so?'",
+   "observe": "The counts go about 40, 20, 10, 5, 2 or 3, 1, 0. They are never exactly the same twice, but each toss takes out about half of what is left. Nobody can say which coin will go next. The bar chart falls fast at first, then slowly.",
+   "why": "Each coin has an even chance of turning heads on each toss, so on average half go each time. One toss here is like one half-life. A real unstable atom, such as carbon-14, has a fixed chance of breaking down in any moment. Nothing tells us which atom will go next. But with billions of atoms, the group halves in a steady time, about 5,730 years for carbon-14. Chance for one atom gives a pattern you can count on for many.",
+   "safety": "Keep coins away from children under 3, as they are a choking risk.",
+   "time": "20 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Build a proton",
+   "day": 1,
+   "mins": 22,
+   "need": [
+    "atta dough in two colours (plain and yellow)",
+    "6 rubber bands",
+    "paper and pencil"
+   ],
+   "steps": [
+    "Roll 3 yellow balls the size of a marble. These are up quarks. On paper, write '+2/3' next to them.",
+    "Roll 3 plain balls the same size. These are down quarks. Write '-1/3' next to them.",
+    "Make a proton: put two up quarks and one down quark in a triangle. Join each pair with a rubber band looped round both balls. The rubber bands are the gluons.",
+    "Add up the charges on paper: two-thirds plus two-thirds minus one-third equals three-thirds, which is plus one.",
+    "Make a neutron the same way from one up quark and two down quarks. Add up its charge: zero.",
+    "Hold the proton flat on the table. Pull one quark slowly away from the other two. Feel the band pull back harder the further it goes.",
+    "Try three up quarks together. Add up the charge. Say: 'This particle is real. It is called the delta plus plus, and it lasts a tiny fraction of a second.'"
+   ],
+   "outcome": "A dough proton and neutron, the charge sums worked out on paper, and the feel of a force that grows as quarks move apart."
+  },
+  {
+   "id": "a2",
+   "title": "The two envelopes",
+   "day": 5,
+   "mins": 12,
+   "need": [
+    "2 envelopes",
+    "a red card and a blue card"
+   ],
+   "steps": [
+    "While your child looks away, put the red card in one envelope and the blue card in the other. Mix them up so nobody knows which is which.",
+    "Give one envelope to your child. Take the other to a different room.",
+    "Your child opens theirs and calls out the colour. Before you open yours, ask: 'What colour is mine?'",
+    "Open yours. Do it three more times, mixing the envelopes each time.",
+    "Ask: 'Could you make my card turn red by choosing to open yours? Could you send me a message this way?' (No.)"
+   ],
+   "outcome": "Your child sees a link that was packed in at the start, which is what Einstein thought entanglement was. Bell's test later showed that real entangled pairs are not like this."
+  },
+  {
+   "id": "a3",
+   "title": "Walk through the field",
+   "day": 6,
+   "mins": 12,
+   "need": [
+    "two or three family members",
+    "a clear space about 4 steps long"
+   ],
+   "steps": [
+    "The family stands along the space. They are the Higgs field.",
+    "Your child walks through first as a photon. Nobody touches them. They go straight through as fast as they like.",
+    "Now your child walks through as an electron. Each person holds their arm lightly for a moment as they pass, then lets go.",
+    "Ask your child to start quickly from standing, and then to stop suddenly at the end. Was it harder?",
+    "Last, your child walks through as a top quark, the heaviest particle known. Everyone holds on firmly. Starting and stopping is now very hard."
+   ],
+   "outcome": "Your child has felt a picture of how particles that interact more with the Higgs field have more mass, so they are harder to start and stop. They also know the picture's limit: the real field does not slow particles down."
+  },
+  {
+   "id": "a4",
+   "title": "Mirror writing",
+   "day": 7,
+   "mins": 5,
+   "need": [
+    "a mirror",
+    "paper and a pencil"
+   ],
+   "steps": [
+    "Your child writes their name in big letters and holds it up to the mirror.",
+    "Ask: 'Is the name in the mirror something a real person could write?' (Yes, it is just written the other way round.)",
+    "Spin a coin or a top in front of the mirror. Ask: 'Which way does the mirror top spin?' (The opposite way.)"
+   ],
+   "outcome": "Your child understands what a mirror image of a process is, ready for Wu's experiment."
+  },
+  {
+   "id": "a5",
+   "title": "Swing the sock",
+   "day": 7,
+   "mins": 8,
+   "need": [
+    "a soft sock with another sock rolled up inside it, tied to 1 metre of string",
+    "an open space with nothing breakable nearby"
+   ],
+   "steps": [
+    "Your child holds the end of the string and swings the sock in a flat circle above their head, slowly.",
+    "Now they swing it faster. Ask: 'Do you have to pull harder or more gently on the string to keep it going round?'",
+    "Swing it fast and let go of the string, outdoors or on a soft bed, away from people. Watch the sock fly off in a straight line.",
+    "Say: 'Your pull on the string is like gravity in a galaxy. The faster a star goes round, the stronger the pull needed to hold it in.'"
+   ],
+   "outcome": "Your child feels that faster circling needs a stronger pull, and so understands why Vera Rubin's fast stars meant extra unseen mass."
+  }
+ ],
+ "project": {
+  "title": "The particle wall",
+  "days": [
+   1,
+   4,
+   6,
+   8,
+   9
+  ],
+  "steps": [
+   "Day 1: stick a large sheet on the wall. Draw boxes for the up quark, the down quark, the electron, the gluon and the photon. In each, write the charge and one sentence about what it does.",
+   "Day 4: start a corner called 'Open questions'. Write your answer to 'Is the chance in an atom real?'",
+   "Day 6: add a note: 'Most of my mass is the energy of quarks and gluons moving inside my protons and neutrons.'",
+   "Day 8: add the neutrino, the muon and the Higgs boson. Under 'Open questions', write about dark matter and the missing antimatter.",
+   "Day 9: use the wall to teach the family, and write your answer to one big question at the bottom."
+  ],
+  "outcome": "A wall chart of the known particles, with charges and jobs, and a corner of honest open questions. Your child uses it to teach the family on Day 9."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Particle Builder",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the 40 printed cards, cut out"
+  ],
+  "rules": [
+   "Shuffle the cards and deal 5 to each player. Put the rest face down as the pile.",
+   "On your turn, take one card from the pile. Then you may build, or play one special card.",
+   "To build a proton, lay down two up quarks, one down quark and one gluon. Add the charges out loud. A proton scores 3 points.",
+   "To build a neutron, lay down one up quark, two down quarks and one gluon. Add the charges out loud. A neutron scores 3 points.",
+   "Put an electron next to one of your protons to make a hydrogen atom, for 2 more points.",
+   "Follow the instructions on the back of any special card when you take or play it.",
+   "If you have more than 7 cards at the end of your turn, put one back at the bottom of the pile.",
+   "When the pile runs out, add up your points. The highest score wins."
+  ],
+  "cards": [
+   {
+    "front": "Up quark",
+    "back": "Charge plus two-thirds. Two of these and one down quark make a proton."
+   },
+   {
+    "front": "Up quark",
+    "back": "Charge plus two-thirds. Two of these and one down quark make a proton."
+   },
+   {
+    "front": "Up quark",
+    "back": "Charge plus two-thirds. Two of these and one down quark make a proton."
+   },
+   {
+    "front": "Up quark",
+    "back": "Charge plus two-thirds. Two of these and one down quark make a proton."
+   },
+   {
+    "front": "Up quark",
+    "back": "Charge plus two-thirds. Two of these and one down quark make a proton."
+   },
+   {
+    "front": "Up quark",
+    "back": "Charge plus two-thirds. Two of these and one down quark make a proton."
+   },
+   {
+    "front": "Up quark",
+    "back": "Charge plus two-thirds. Two of these and one down quark make a proton."
+   },
+   {
+    "front": "Up quark",
+    "back": "Charge plus two-thirds. Two of these and one down quark make a proton."
+   },
+   {
+    "front": "Up quark",
+    "back": "Charge plus two-thirds. Two of these and one down quark make a proton."
+   },
+   {
+    "front": "Up quark",
+    "back": "Charge plus two-thirds. Two of these and one down quark make a proton."
+   },
+   {
+    "front": "Down quark",
+    "back": "Charge minus one-third. Two of these and one up quark make a neutron."
+   },
+   {
+    "front": "Down quark",
+    "back": "Charge minus one-third. Two of these and one up quark make a neutron."
+   },
+   {
+    "front": "Down quark",
+    "back": "Charge minus one-third. Two of these and one up quark make a neutron."
+   },
+   {
+    "front": "Down quark",
+    "back": "Charge minus one-third. Two of these and one up quark make a neutron."
+   },
+   {
+    "front": "Down quark",
+    "back": "Charge minus one-third. Two of these and one up quark make a neutron."
+   },
+   {
+    "front": "Down quark",
+    "back": "Charge minus one-third. Two of these and one up quark make a neutron."
+   },
+   {
+    "front": "Down quark",
+    "back": "Charge minus one-third. Two of these and one up quark make a neutron."
+   },
+   {
+    "front": "Down quark",
+    "back": "Charge minus one-third. Two of these and one up quark make a neutron."
+   },
+   {
+    "front": "Down quark",
+    "back": "Charge minus one-third. Two of these and one up quark make a neutron."
+   },
+   {
+    "front": "Down quark",
+    "back": "Charge minus one-third. Two of these and one up quark make a neutron."
+   },
+   {
+    "front": "Electron",
+    "back": "Charge minus one. Join it to a proton to make a hydrogen atom."
+   },
+   {
+    "front": "Electron",
+    "back": "Charge minus one. Join it to a proton to make a hydrogen atom."
+   },
+   {
+    "front": "Electron",
+    "back": "Charge minus one. Join it to a proton to make a hydrogen atom."
+   },
+   {
+    "front": "Electron",
+    "back": "Charge minus one. Join it to a proton to make a hydrogen atom."
+   },
+   {
+    "front": "Electron",
+    "back": "Charge minus one. Join it to a proton to make a hydrogen atom."
+   },
+   {
+    "front": "Electron",
+    "back": "Charge minus one. Join it to a proton to make a hydrogen atom."
+   },
+   {
+    "front": "Gluon",
+    "back": "Carries the strong force. Every proton or neutron you build needs one gluon card to hold its quarks together."
+   },
+   {
+    "front": "Gluon",
+    "back": "Carries the strong force. Every proton or neutron you build needs one gluon card to hold its quarks together."
+   },
+   {
+    "front": "Gluon",
+    "back": "Carries the strong force. Every proton or neutron you build needs one gluon card to hold its quarks together."
+   },
+   {
+    "front": "Gluon",
+    "back": "Carries the strong force. Every proton or neutron you build needs one gluon card to hold its quarks together."
+   },
+   {
+    "front": "Neutrino",
+    "back": "No charge and almost no mass. It passes through everything. Pass this card to the next player at once."
+   },
+   {
+    "front": "Neutrino",
+    "back": "No charge and almost no mass. It passes through everything. Pass this card to the next player at once."
+   },
+   {
+    "front": "Positron",
+    "back": "The antimatter twin of the electron. If you hold an electron, put both cards out of the game: they vanish in a flash of light."
+   },
+   {
+    "front": "Positron",
+    "back": "The antimatter twin of the electron. If you hold an electron, put both cards out of the game: they vanish in a flash of light."
+   },
+   {
+    "front": "Photon",
+    "back": "The smallest ripple of light. No mass. Play it to take one card from the pile."
+   },
+   {
+    "front": "Photon",
+    "back": "The smallest ripple of light. No mass. Play it to take one card from the pile."
+   },
+   {
+    "front": "Dark matter",
+    "back": "Nobody knows what it is. Hold it: it is worth 1 point at the end, because it pulls on everything."
+   },
+   {
+    "front": "Dark matter",
+    "back": "Nobody knows what it is. Hold it: it is worth 1 point at the end, because it pulls on everything."
+   },
+   {
+    "front": "Muon",
+    "back": "A heavy cousin of the electron, made when particles from space hit the air. It lasts about 2 millionths of a second. Put it out of the game."
+   },
+   {
+    "front": "Higgs boson",
+    "back": "The ripple of the Higgs field, found in 2012. Show it and take any one card from another player."
+   }
+  ]
+ },
+ "big": [
+  "If you are made of ripples in fields that fill all of space, where do you end and the rest of the world begin?",
+  "If nothing decides when an atom breaks down, can anything in the universe be completely predicted?",
+  "Most of the matter in the universe is dark matter, which we cannot see. What else might be all around us that we have not noticed?",
+  "If matter and antimatter had been made in exactly equal amounts, there would be nothing but light. Why is there something rather than nothing?",
+  "Can an idea be good science if nobody can test it yet?"
+ ],
+ "challenge": [
+  {
+   "q": "Some videos say entangled particles let us send messages faster than light. Is that true?",
+   "hint": "No. Each measured result is random, so the person at one end cannot choose what the other end sees. The match only shows up later, when both people compare their lists, and that comparison travels no faster than light. Experiments have tested this many times. Ask: why might people like the faster-than-light story?"
+  },
+  {
+   "q": "Books often say the Higgs boson gives everything its mass. Is that right?",
+   "hint": "The Higgs field gives electrons and quarks their mass. But the quarks make only about 1 part in 100 of a proton's mass. The rest is the energy of quarks and gluons moving inside it. So most of your mass does not come from the Higgs field. Ask: why do you think the short version is told so often?"
+  },
+  {
+   "q": "Shops sell 'quantum' pendants, 'quantum healing' and 'quantum' water. Does quantum physics support these?",
+   "hint": "No test has shown that any of these do what they claim. Quantum physics describes atoms, light and particles, and its effects in a pendant are the same as in any other stone. The word is used because it sounds scientific. Ask: what would you need to see to believe a product works?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A European robin",
+   "view": "A robin must fly thousands of kilometres each year without a map, sometimes at night. She seems to sense the Earth's magnetic field with a protein in her eyes called cryptochrome. Many scientists think light makes pairs of electrons in this protein whose spins are linked, and the magnetic field changes how they behave. This is still being tested. Ask: if a bird can use quantum effects, what else might living things do that we haven't noticed?"
+  },
+  {
+   "who": "A veena player in Thanjavur",
+   "view": "When she touches a string lightly at its exact middle and plucks it, the note jumps to a higher one. Only the patterns with a still point there can ring. Musicians call these harmonics. They have used them for centuries, long before anyone knew an electron in an atom behaves the same way. Ask: is music a kind of physics, or is physics a kind of music?"
+  },
+  {
+   "who": "An engineer building a quantum computer",
+   "view": "An ordinary computer stores each bit as a 0 or a 1. A quantum bit, or qubit, can be in a mix of both until it is measured, and qubits can be entangled. For some problems, such as working out how new medicines behave, this could be far faster. India started a National Quantum Mission in 2023 to build such machines. Qubits are fragile: heat and tiny shakes spoil them. Ask: why do you think qubits must be kept so cold and still?"
+  },
+  {
+   "who": "An electron",
+   "view": "Every electron in the universe is exactly the same as every other one. Each one is a ripple in the same electron field. The electrons in your fingertip and the electrons in a star are not just similar: no test can tell them apart. Ask: if every electron is the same, what makes one thing different from another?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Chien-Shiung Wu (1912–1997), born in China, worked in the United States",
+   "idea": "In 1956, Tsung-Dao Lee and Chen-Ning Yang suggested that the weak force might not treat left and right the same. Wu designed and led the experiment to test it, with a team at the National Bureau of Standards in Washington. She lined up the spins of cobalt-60 nuclei at a temperature close to absolute zero. The electrons they gave out came mostly in one direction. In a mirror world they would come out the other way.",
+   "then": "Many physicists were sure mirror symmetry could not be broken. Wolfgang Pauli wrote that he was ready to bet a large sum against it. Wu's result, in January 1957, proved them wrong.",
+   "now": "It is settled: the weak force can tell left from right. Lee and Yang won the Nobel Prize in 1957. Wu, who did the experiment, did not. She later won the first Wolf Prize in Physics, in 1978.",
+   "status": "accepted",
+   "ask": "Lee and Yang had the idea. Wu showed it was true. Should all three have shared the prize? Why?",
+   "day": 7
+  },
+  {
+   "id": "v2",
+   "who": "Vera Rubin (1928–2016) and Kent Ford, United States",
+   "idea": "In the 1970s, Rubin and Ford measured how fast stars and gas go round in spiral galaxies, starting with the Andromeda galaxy. Stars far out from the centre moved about as fast as stars near the middle. The visible stars and gas did not have enough gravity to hold them. So each galaxy must hold much more mass than we can see.",
+   "then": "In 1933, Fritz Zwicky had said galaxy clusters needed unseen 'dark matter', but few took it seriously. Rubin's careful measurements, galaxy after galaxy, convinced most astronomers. Early in her career she was turned away from Princeton's graduate astronomy programme, which did not admit women then.",
+   "now": "Most astronomers accept that there is about five times as much dark matter as ordinary matter. Nobody knows what it is made of, and no detector has caught a particle of it. A minority of scientists think gravity itself works differently over very large distances. Rubin never won a Nobel Prize. A large telescope in Chile, the Vera C. Rubin Observatory, is named after her.",
+   "status": "debated",
+   "ask": "Nobody has ever caught dark matter. What evidence would make you sure it is real?",
+   "day": 7
+  },
+  {
+   "id": "v3",
+   "who": "Albert Einstein (1879–1955) and John Bell (1928–1990), with the experimenters Alain Aspect, John Clauser and Anton Zeilinger",
+   "idea": "In 1935, Einstein, Boris Podolsky and Nathan Rosen argued that quantum physics must be missing something, because measuring one particle of a pair seemed to settle the other one far away. Einstein later called this 'spooky action at a distance'. He thought the answers were fixed at the start, like cards in envelopes. In 1964, Bell worked out a test that could tell the two ideas apart.",
+   "then": "For years, few physicists thought the question could be tested. In 1972, Clauser did the first test. Aspect's tests in France in 1982 and Zeilinger's later tests closed more gaps. In 2015, several teams did tests with no major gaps left.",
+   "now": "The results go above Bell's limit every time, so Einstein's idea of answers fixed in advance and kept local is rejected. Aspect, Clauser and Zeilinger won the Nobel Prize in 2022. What entanglement really means is still argued about. Everyone agrees it cannot carry a message.",
+   "status": "rejected",
+   "ask": "Einstein was one of the greatest physicists ever, and here the experiments went against him. What does that tell you about how science decides who is right?",
+   "day": 5
+  },
+  {
+   "id": "v4",
+   "who": "Ashoke Sen (born 1956), Harish-Chandra Research Institute, Prayagraj, India",
+   "idea": "String theory says each particle may be a tiny vibrating string, with different vibrations making different particles. It also includes gravity. In the 1990s, Sen found strong evidence that some string theories that look different are really the same theory seen in two ways. This helped start a burst of new work around the world.",
+   "then": "His work was taken up quickly by string theorists everywhere. He did it while working in India. In 2012 he won the Fundamental Physics Prize.",
+   "now": "No experiment has tested string theory, because the strings would be far too small for any machine. Many physicists think it is the best hope for joining gravity and quantum physics. Others say an idea that cannot be tested yet should not be called the answer. Other ideas, such as loop quantum gravity, are also being worked on.",
+   "status": "debated",
+   "ask": "If an idea explains a lot but cannot be tested yet, should we believe it, doubt it, or wait?",
+   "day": 8
+  }
+ ],
+ "books": [
+  {
+   "title": "Quantum Entanglement for Babies",
+   "author": "Chris Ferrie",
+   "for": "read together",
+   "age": "3–8",
+   "why": "A very short board book about two particles that are linked. Read it before Day 5, then talk about what the book leaves out."
+  },
+  {
+   "title": "The Stuff Between the Stars: How Vera Rubin Discovered Most of the Universe",
+   "author": "Sandra Nickel",
+   "for": "read together",
+   "age": "5–9",
+   "why": "A picture book about Vera Rubin's life and her measurements of fast stars. It fits Day 7."
+  },
+  {
+   "title": "Smash! Exploring the Mysteries of the Universe with the Large Hadron Collider",
+   "author": "Sara Latta",
+   "for": "read alone",
+   "age": "9+",
+   "why": "A comic-style book about the Large Hadron Collider, particles and the Higgs boson. It fits Day 6."
+  },
+  {
+   "title": "Seven Brief Lessons on Physics",
+   "author": "Carlo Rovelli",
+   "for": "parent reads",
+   "age": "adult (read short parts aloud)",
+   "why": "A short book by a physicist who works on quantum gravity. The chapters on quanta and on particles help a parent before Days 2 to 4."
+  },
+  {
+   "title": "Lilavati's Daughters: The Women Scientists of India",
+   "author": "Rohini Godbole and Ram Ramaswamy (editors)",
+   "for": "parent reads",
+   "age": "adult (read short parts aloud)",
+   "why": "Short life stories of Indian women scientists, collected by a particle physicist from IISc Bengaluru. Read one aloud and ask who else is missing from the usual story."
+  }
+ ],
+ "check": [
+  {
+   "q": "What is a proton made of, and how do its charges add up to plus one?",
+   "a": "Two up quarks and one down quark, held together by gluons. Two-thirds plus two-thirds minus one-third is three-thirds, which is plus one."
+  },
+  {
+   "q": "What do physicists mean when they say a particle is a ripple in a field?",
+   "a": "Each kind of particle has a field that fills all of space. A particle is the smallest possible ripple in its field. A photon is the smallest ripple of light."
+  },
+  {
+   "q": "Why does each kind of atom give out only certain exact colours of light?",
+   "a": "An electron in an atom is a wave held in by the nucleus. Like the rope, only whole patterns fit, and each has its own energy. So only certain drops in energy, and so only certain colours, are possible."
+  },
+  {
+   "q": "How can light be a wave and a particle?",
+   "a": "It spreads out and makes patterns like a wave, as through the cloth. But it is always caught as single dots, called photons. It travels like a wave and arrives like a particle."
+  },
+  {
+   "q": "In the coin test, what could you predict and what couldn't you?",
+   "a": "We could not predict which coin would go next. We could predict that about half would be left after each toss. Unstable atoms are the same, and that steady halving time is the half-life."
+  },
+  {
+   "q": "What is entanglement, and why can't it be used to send a message?",
+   "a": "Two particles made together give results that match more than any plan packed in advance could, as Bell's test shows. But each result is random, so nobody can choose what the other person will see."
+  },
+  {
+   "q": "Where does most of your mass come from?",
+   "a": "From the energy of quarks and gluons moving inside your protons and neutrons. The Higgs field gives quarks and electrons their own mass, but that is only about 1 part in 100."
+  },
+  {
+   "q": "Name two things about the very small or the very large that nobody knows yet.",
+   "a": "Any two of: what dark matter is, why there is more matter than antimatter, how gravity fits with quantum physics, and what really happens in a measurement."
+  }
+ ],
+ "ideas": [
+  {
+   "idea": "Particles are the smallest ripples in fields that fill all of space.",
+   "more": "The magnet moved the pin through a notebook because its field fills the space around it. Physicists describe light, electrons and quarks in the same way: each kind has its own field, everywhere in the universe, and a particle is one quantum, the smallest ripple, of that field."
+  },
+  {
+   "idea": "In the very small, only whole patterns fit.",
+   "more": "The rope made one, two or three loops, never two and a half. An electron held in an atom is a wave in the same way, so only certain patterns and energies are possible. That is why each kind of atom gives out its own exact colours, the colours scientists use to find what stars are made of."
+  },
+  {
+   "idea": "Chance for one, a steady pattern for many.",
+   "more": "In the coin test nobody could say which coin would go next, but about half went each toss. Unstable atoms are the same, and most physicists think nothing at all decides the moment for each one. The steady world we live in is built on this chance."
+  },
+  {
+   "idea": "Everything is conscious, down to the smallest ripple in a field.",
+   "more": "Physics measures how particles move, interact and add up. It does not measure whether they experience anything, so no experiment in this topic settles it either way. Many physicists hold the other view: that experience appears only in living things with brains, and that a particle has none."
+  }
+ ],
+ "unknowns": [
+  "What is dark matter? There seems to be about five times as much of it as ordinary matter, but no detector has caught a single particle of it.",
+  "Why is there more matter than antimatter? The differences measured so far are far too small to explain why any matter was left after the Big Bang.",
+  "How does gravity fit with quantum physics? The Standard Model leaves gravity out. String theory and other ideas try to join them, but none has been tested.",
+  "What really happens when a particle is measured? Everyone agrees on the maths and the results, but physicists still argue about what is going on."
+ ],
+ "story": {
+  "title": "The Quietest Visitor",
+  "text": [
+   "In 1965 I was ten, and I lived in Kolar Gold Fields, in a row of miners' houses with red tiled roofs. Our house had one room with a tin sheet over the back, where Amma cooked. Appa worked in Champion Reef, one of the deepest mines in the world. Every morning he went down in the cage, and every evening he came up grey with dust, smelling of rock.",
+   "That year, the other children said there were ghost hunters in the mine. Scientists had come from Bombay, and from Japan, and from England, with crates and long metal boxes. Appa said they had built a room deep under the ground, more than two kilometres down, where the rock was hot to touch. He helped carry their things down in the cage.",
+   "'What are they hunting?' I asked him.",
+   "'Something from the sky,' he said. 'One of them told me. A tiny piece of matter called a neutrino. It is made high up in the air, and it goes through everything. Through rock, through the whole Earth, through you.' He shook his head. 'But if it comes from the sky, why build the machine at the bottom of a mine? I asked him twice. I still don't understand.'",
+   "I did not understand either. If you want to catch something that falls from the sky, you look on a roof, or in a field. I told my friend Revathi, and she laughed so much that she had to sit down.",
+   "Then the monsoon came. One afternoon Amma and I were in the back room when the rain began. It came down on the tin sheet like a thousand drums. I could not hear Amma speak. I could not hear the dog outside, or the crows, or the pressure cooker. Then the rain stopped all at once, and the room was very quiet.",
+   "In the quiet I heard a small sound. Tik. Tik. It was one drop, falling from a crack in the sheet into Amma's brass pot. I had never noticed that crack before. All through the rain it had been dripping, and I had not heard it, because the drumming was too loud.",
+   "I sat very still. I thought about the drop, and the roof, and the machine at the bottom of the mine. Then I thought I knew.",
+   "That night Appa came home late and sat on the step to take off his boots. I sat next to him.",
+   "'Appa, does the sky rain other things too? Not only neutrinos?'",
+   "'Yes,' he said. 'The scientist said the air is full of falling particles. Most of them are stopped by rock.'",
+   "'Then that is why,' I said. 'Up here, all the other particles are drumming on the machine, like rain on our tin sheet. Nobody could hear one neutrino in all that. But two kilometres of rock is a roof. It stops the rain. The neutrino doesn't stop, because it goes through everything. So at the bottom it is quiet, and the machine can hear the one small drop.'",
+   "Appa looked at me for a long time. Then he laughed and put his dusty hand on my head. 'Two kilometres of roof,' he said. 'I carried that machine down with my own hands, and my daughter has to tell me why.'",
+   "'But it goes through everything,' I said. 'How can the machine catch it at all?'",
+   "'He said that too,' Appa said slowly. 'Almost none are caught. Once in a long while, one neutrino hits the rock near the machine and makes another particle, which the machine can see.'",
+   "'Once in a long while,' I said. 'Like one drop.'",
+   "Some weeks later, Appa came up from the mine and did not wash first. He sat on the step in his dusty clothes and said, 'They found one. Maybe three. One of the scientists was jumping like a boy. He shook my hand with both of his.'",
+   "'Did they see it?' I asked.",
+   "'Nobody saw it,' said Appa. 'They saw the track it made. A line on their machine, going sideways through the rock. Nothing falling from above could come in that way. Only a neutrino.'",
+   "The next time it rained, I sat in the back room with Amma's brass pot and waited for it to stop. When the drumming ended, I listened. Tik. I held my hand out over the pot. Somewhere in my fingers, too small to feel, a neutrino was going straight through, on its way down past Appa's mine and out the other side of the world."
+  ],
+  "epiphany": "For the parent: the turn is the single drop heard when the rain stops. The narrator, Selvi, cannot see why anyone would look for something from the sky at the bottom of a mine. The tin roof shows her, and she explains it to her father, that a faint signal can only be heard when the loud ones are shut out. Two kilometres of rock stops almost every other particle, while neutrinos pass through. What is real: in 1965, scientists from the Tata Institute of Fundamental Research in Bombay, Osaka City University in Japan and Durham University in England detected neutrinos made in the atmosphere, using detectors about 2.3 kilometres deep in the Kolar Gold Fields in Karnataka. They saw tracks of muons travelling nearly sideways, which only neutrinos hitting nearby rock could make. A team in a South African mine reported the same kind of result a few weeks later. Many miners at Kolar were Tamil. What is imagined: Selvi, her family, the tin roof and every conversation.",
+  "ask": [
+   "At first, why did nobody in the story understand why the machine was at the bottom of the mine?",
+   "Why could the girl hear the drop only after the rain stopped?",
+   "How is two kilometres of rock like the end of the rain?",
+   "Nobody saw the neutrino. How did the scientists know it was there?",
+   "Her father and the other miners carried the scientists' things into the mine. Should they be remembered as part of the discovery? Why?"
+  ]
+ }
+}

@@ -88,32 +88,32 @@
   {
    "n": 1,
    "title": "Where and when",
-   "goal": "Find that any place needs three numbers and any event needs four, and start a spacetime map of a day.",
+   "goal": "Recall Class 2, find that any event needs four numbers, and draw worldlines on a spacetime diagram.",
    "steps": [
     {
      "kind": "warmup",
-     "title": "What do you remember?",
-     "mins": 6,
-     "do": "Ask: 'Why do we have day and night?' (The Earth spins once a day.) 'In the bedsheet model of gravity, what did the heavy ball do to the sheet?' (It made a dip, and the small ball rolled into it.) If your child did the Class 2 lesson on space and time, ask what they remember about it. If they did none of these, spin a ball near a torch to show day and night, and move on. Say: 'This week we find out that time does not tick at the same speed everywhere. Scientists have measured it.'"
+     "title": "Remember Class 2",
+     "mins": 8,
+     "do": "Ask about the Class 2 lesson on space and time. 'In the coin hunt, how many numbers did you need to find the coin?' (Three: two walls and the height.) 'What two things does an invitation need?' (Where and when.) 'What happened to the clocks that flew round the world?' (They no longer matched the clocks on the ground.) Also ask about Class 3 gravity: 'On the bedsheet, what did the heavy ball do?' (It made a dip, and the small ball rolled into it.) If your child did not do these lessons, hide a coin in the room and let them find it from three measurements you give them. Say: 'This week we find out why clocks disagree, and what space and time really are.'"
     },
     {
      "kind": "talk",
      "title": "One, two, three dimensions",
-     "mins": 9,
-     "do": "Hold up a thread pulled tight. Say: 'An ant on this thread can go only forwards or backwards. That is one direction to measure in. Scientists call it one dimension.' Lay a sheet of paper flat. Ask: 'How many directions can an ant go on this paper?' (Two: forward and back, and left and right.) Say: 'That is two dimensions.' Then ask: 'What can a mosquito in this room do that the ant on the paper cannot?' (Go up and down.) Say: 'A room has three dimensions: length, width and height. Everything you can touch has all three.' Ask: 'Is a drawing of a house two or three dimensions? Is a real house?' (The drawing is two. The house is three.)"
+     "mins": 8,
+     "do": "Hold up a thread pulled tight. Say: 'An ant on this thread can go only forwards or backwards. That is one direction to measure in. Scientists call it one dimension.' Lay a sheet of paper flat. Ask: 'How many directions can an ant go on this paper?' (Two: forward and back, and left and right.) Then ask: 'What can a mosquito in this room do that the ant on the paper cannot?' (Go up and down.) Say: 'A room has three dimensions. The numbers that say where something is are called coordinates. A point on the thread needs one coordinate, a point on the paper two, and a point in the room three.' Ask: 'How many coordinates does a pilot need to say where her plane is?' (Three: two for the place on the map, and one for the height.)"
     },
     {
      "kind": "act",
-     "title": "Three numbers find the bead",
+     "title": "Race worldlines",
      "mins": 14,
-     "do": "Do Activity a1. Hang a bead or a button on a thread from a curtain rod or a fan hook, somewhere in the middle of the room. Your child measures how far it is from one wall, how far from the next wall, and how high it is above the floor. They write the three numbers. Then hide the bead, give the numbers to another family member, and see if they can put a finger on the exact spot. Say: 'These three numbers are called coordinates. Three numbers find any place in a room, because a room has three dimensions.'",
+     "do": "Do Activity a1. Your child and a family member each push a toy car (or walk slowly) along a line of floor tiles, one fast and one slow, while a third person counts seconds aloud. Every 2 seconds, someone calls out the tile number each car is on, and you write it down. Then your child plots both cars on squared paper: tile number along the bottom, seconds up the side. Ask: 'Which line leans over more?' (The fast car's.) 'What would the line of a car that never moved look like?' (Straight up.) Say: 'A line like this, showing where something is at each moment, is called a worldline. This drawing is a spacetime diagram.'",
      "ref": "a1"
     },
     {
      "kind": "talk",
      "title": "The fourth number",
-     "mins": 8,
-     "do": "Ask: 'If I tell your friend, \"Meet me at the bead's spot,\" is that enough?' Wait. Good answer: 'No, they need to know when.' Say: 'Something that happens at one place at one moment is called an event. A ball landing is an event. A bell ringing is an event. To say where an event is, we need three numbers. To say when, we need a fourth. Einstein's teacher, Hermann Minkowski, said in 1908 that space and time belong together. We call them spacetime.' Ask: 'Name three events from your morning, with where and when.' (For example: 'Brushed my teeth, bathroom, 7 o'clock.')"
+     "mins": 7,
+     "do": "Say: 'Something that happens at one place at one moment is called an event. A ball landing is an event. A bell ringing is an event. To say where an event is, we need three numbers. To say when, we need a fourth.' Ask: 'Is the fourth number a direction, like the other three?' Let them think. Say: 'In 1908, Einstein's old teacher Hermann Minkowski said space and time should be thought of as one thing. We call it spacetime. Your race diagram was a small piece of it.' Ask: 'Name two events from your morning, with where and when.'"
     },
     {
      "kind": "do",
@@ -123,8 +123,9 @@
     }
    ],
    "need": [
-    "a thread and a bead or button",
-    "a measuring tape",
+    "a thread",
+    "two toy cars or two walkers",
+    "a line of floor tiles",
     "squared paper or a notebook with squares",
     "a pencil and a ruler"
    ]
@@ -138,7 +139,7 @@
      "kind": "warmup",
      "title": "Three or four?",
      "mins": 4,
-     "do": "Ask: 'How many numbers did we need to find the bead?' (Three.) 'How many to say when we will meet there?' (Four.) Say: 'Today we ask a strange question. What if there were a fourth direction in space, one we cannot point to?'"
+     "do": "Ask: 'How many numbers say where something is in a room?' (Three.) 'How many to say where and when an event happens?' (Four.) Say: 'Today we ask a strange question. What if there were a fourth direction in space, one we cannot point to?'"
     },
     {
      "kind": "act",
@@ -239,7 +240,7 @@
      "kind": "talk",
      "title": "Real clocks on real planes",
      "mins": 6,
-     "do": "Say: 'In 1971 two scientists, Joseph Hafele and Richard Keating, flew very accurate atomic clocks right round the world on ordinary passenger planes. When they came back, the clocks no longer matched the clocks left on the ground. The difference was a few hundred billionths of a second, close to what Einstein predicted.' Then say: 'The astronaut Scott Kelly spent 340 days on the space station while his twin brother Mark stayed on Earth. Scott came back younger than if he had stayed, but by less than a hundredth of a second.' Ask: 'Why is the difference so tiny?' (The plane and the space station are very slow compared with light.)"
+     "do": "Say: 'Remember the clocks that flew round the world? In 1971 two scientists, Joseph Hafele and Richard Keating, flew very accurate atomic clocks right round the world on ordinary passenger planes. When they came back, the clocks no longer matched the clocks left on the ground. The difference was a few hundred billionths of a second, close to what Einstein predicted.' Then say: 'The astronaut Scott Kelly spent 340 days on the space station while his twin brother Mark stayed on Earth. Scott came back younger than if he had stayed, but by less than a hundredth of a second.' Ask: 'Why is the difference so tiny?' (The plane and the space station are very slow compared with light.)"
     },
     {
      "kind": "do",
@@ -384,9 +385,9 @@
     },
     {
      "kind": "exp",
-     "title": "How long is a minute?",
+     "title": "Catch the ruler",
      "mins": 14,
-     "do": "Do Experiment e4. Your child sits still with eyes shut. Start a phone stopwatch without showing it, and say 'Go'. They say 'Now' when they think one minute has passed. Write down the real time. Then do it again while they play a fast clapping game or listen to a favourite song. Write that down too. Ask: 'When did the minute feel longer?' Most people guess short when bored and waiting, and guess long when busy, but not everyone. Compare with another family member.",
+     "do": "Do Experiment e4. Hold a 30 cm ruler hanging down, with the zero end at the bottom. Your child holds finger and thumb open just below it, not touching. Without warning, let go. They catch it as fast as they can. Read the number at the top of their fingers. Do 5 tries each, for your child and for you. Use the table in the experiment to turn centimetres into seconds. Ask: 'How long did it take your brain to notice and act?' (Usually between one tenth and one quarter of a second.) Say: 'Signals from your eyes take time to reach your brain and be understood. So the now you feel is always a little behind the world, just as starlight is behind the stars.'",
      "ref": "e4"
     },
     {
@@ -420,9 +421,9 @@
     },
     {
      "kind": "act",
-     "title": "Fold the paper",
+     "title": "The time-loop comic",
      "mins": 8,
-     "do": "Do Activity a5. Mark a dot near each end of a sheet of paper and label them 'Chennai' and 'a far star'. Ask: 'What is the shortest way between them?' (A straight line across the paper.) Then fold the paper so the two dots touch, and push a pencil through both. Say: 'This is a picture of a wormhole: spacetime bent so that two far places are joined by a short tunnel. Einstein's equations allow it on paper. Nobody has ever found one.'",
+     "do": "Do Activity a5. Say: 'In Class 2, you may have folded paper to picture a wormhole. Einstein's equations allow wormholes on paper, and some would act as time machines. Nobody has found one.' Then your child draws a 4-box comic. Box 1: Priya builds a time machine. Box 2: she goes back to last week. Box 3: she breaks her own time machine before she built it. Box 4: a question mark. Ask: 'If the machine was broken last week, how did she build it and go back?' Let them find the problem. This kind of contradiction is called a paradox.",
      "ref": "a5"
     },
     {
@@ -523,11 +524,11 @@
       },
       {
        "t": "mcq",
-       "p": "Farhan hangs a bead in his room. What does he need to measure to tell his sister exactly where it is?",
+       "p": "On a spacetime diagram, Kavya's worldline goes straight up for a whole hour. What was she doing?",
        "opts": [
-        "only its height",
-        "its distance from two walls, and its height",
-        "only its distance from the door"
+        "running fast",
+        "staying in one place",
+        "walking slowly"
        ],
        "a": 1
       },
@@ -906,24 +907,24 @@
   },
   {
    "id": "e4",
-   "title": "How long is a minute?",
+   "title": "Catch the ruler",
    "day": 7,
-   "question": "Is the time we feel the same as the time a clock shows?",
+   "question": "How long does it take your brain to notice something and act?",
    "need": [
-    "a phone stopwatch or a watch with a seconds hand",
-    "a notebook",
-    "a favourite song or a clapping game"
+    "a 30 cm ruler",
+    "a notebook"
    ],
    "steps": [
-    "Your child sits still with eyes shut. Start the stopwatch quietly and say 'Go'.",
-    "They say 'Now' when they think one minute has passed. Write down the real time shown.",
-    "Do it again while they play a fast clapping game with you, or listen to a favourite song, and say 'Now' after what feels like one minute. Write it down.",
-    "Repeat both tries with another family member.",
-    "Make a table: person, sitting still, busy."
+    "Hold the ruler hanging straight down from its top end, with 0 cm at the bottom.",
+    "Your child holds finger and thumb open around the 0 cm mark, not touching the ruler.",
+    "Without warning, let go. They catch the ruler as fast as they can.",
+    "Read the centimetre mark just above their finger and thumb. Write it down.",
+    "Do 5 tries each for your child and for a grown-up.",
+    "Turn each result into time with this table: 5 cm is about 0.10 seconds, 10 cm about 0.14, 15 cm about 0.17, 20 cm about 0.20, 25 cm about 0.23, 30 cm about 0.25."
    ],
-   "predict": "Ask: 'Will your minute be exactly 60 seconds? Will it be shorter when you are bored or when you are busy?'",
-   "observe": "Few people say 'Now' at exactly 60 seconds. Many people's guesses change between sitting still and being busy, but people differ, so record what really happens rather than what you expected.",
-   "why": "We have no sense organ for time. The brain judges time from how much happens and how much attention we pay to it. That is why felt time can disagree with clock time. Scientists are still finding out how the brain does it.",
+   "predict": "Ask your child to guess first: 'Will you catch it at once, or will it fall some way first?'",
+   "observe": "The ruler always falls some way before it is caught, usually 10 to 25 cm. That is about one seventh to one quarter of a second. Results get a little better with practice, and differ between people.",
+   "why": "A falling ruler speeds up at a known rate, so how far it falls tells you how long it fell. That time is your reaction time. Light reaches your eye almost at once, but signals then travel along nerves, and the brain takes time to make sense of them and send a signal to your fingers. So what you feel as 'now' is a picture your brain has made from signals a moment old.",
    "safety": "",
    "time": "15 min"
   }
@@ -931,27 +932,32 @@
  "activities": [
   {
    "id": "a1",
-   "title": "Three numbers find the bead",
+   "title": "Race worldlines",
    "day": 1,
    "mins": 14,
    "need": [
-    "a bead or button on a thread",
-    "a curtain rod, fan hook or chair to hang it from",
-    "a measuring tape"
+    "two toy cars (or two people walking)",
+    "a straight line of floor tiles, about 3 metres",
+    "squared paper",
+    "a pencil and two colours"
    ],
    "steps": [
-    "Hang the bead somewhere in the middle of the room, about at your child's head height.",
-    "Your child measures its distance from one wall, in centimetres, along the floor.",
-    "Then its distance from the wall next to it, at a right angle.",
-    "Then its height above the floor.",
-    "They write the three numbers in their notebook.",
-    "Remove the bead. Give the numbers to another family member, who measures and puts a finger where the bead was."
+    "Number the tiles along the line with small paper slips: 0, 1, 2, 3 and so on.",
+    "One person moves a car slowly along the tiles, the other moves a car fast. A third person counts seconds aloud.",
+    "Every 2 seconds, call out which tile each car is on. Write the numbers in two columns.",
+    "On squared paper, draw tile numbers along the bottom and seconds up the side.",
+    "Plot a dot for each car at each time, and join each car's dots in its own colour.",
+    "Add a third line, in pencil, for a car that stayed on tile 0 the whole time."
    ],
-   "outcome": "Your child sees that three numbers, called coordinates, fix one exact place in a room with three dimensions.",
+   "outcome": "A spacetime diagram with three worldlines: a fast car's line leans over most, a slow car's line leans a little, and a still car's line goes straight up.",
    "setup": [
     {
-     "art": "A bead hanging on a thread in a room, with arrows showing its distance from two walls and its height above the floor.",
-     "caption": "Three measurements find the bead."
+     "art": "Two toy cars on a line of numbered floor tiles, one ahead of the other, with a child counting seconds.",
+     "caption": "Call out each car's tile every 2 seconds."
+    },
+    {
+     "art": "A graph on squared paper with tile number along the bottom and seconds up the side, showing a steep line and a slanting line.",
+     "caption": "Plot each car's worldline."
     }
    ]
   },
@@ -1013,20 +1019,22 @@
   },
   {
    "id": "a5",
-   "title": "Fold the paper",
+   "title": "The time-loop comic",
    "day": 8,
    "mins": 8,
    "need": [
-    "a sheet of paper",
-    "a pencil"
+    "a sheet of paper folded into 4 boxes",
+    "a pencil or crayons"
    ],
    "steps": [
-    "Mark a dot near each end of the paper. Label one 'Chennai' and the other 'a far star'.",
-    "Draw the straight line between them.",
-    "Fold the paper so the two dots touch.",
-    "Push the pencil through both dots."
+    "Fold a sheet into 4 boxes.",
+    "Box 1: Priya builds a time machine.",
+    "Box 2: she travels back to last week.",
+    "Box 3: she breaks the time machine before she has built it.",
+    "Box 4: draw a big question mark.",
+    "Talk about what has gone wrong, then draw two different endings that would avoid the problem."
    ],
-   "outcome": "A picture of the idea of a wormhole: spacetime bent so two far places meet. It is a model of an idea, not of something anyone has found."
+   "outcome": "A comic showing the kind of contradiction that makes many physicists doubt travel into the past. Some think nature only allows histories without contradictions. Others imagine the traveller arriving in a different branch of history. Nobody knows."
   }
  ],
  "project": {
@@ -1124,8 +1132,8 @@
    "view": "A fly sees the world in finer slices of time than we do. Our quick hand looks slow to them. Ask: is our time the 'normal' time, or just one of many?"
   },
   {
-   "who": "Gottfried Leibniz (1646–1716), a German thinker who argued with Newton",
-   "view": "Newton said space and time are real things, like a stage, that would exist even if the world were empty. Leibniz said space is only the relations between things, and time only the order of events. Scientists still argue about this. Ask: if everything vanished, would space and time still be there?"
+   "who": "Jocelyn Bell Burnell (born 1943), a radio astronomer from Northern Ireland",
+   "view": "In 1967, as a student, she noticed a tiny repeating blip on a long paper chart from a radio telescope. It was a pulsar: a spinning dead star that sends out radio flashes as regularly as a clock. The 1974 Nobel Prize for this went to her supervisor, Antony Hewish, and to Martin Ryle, not to her. Pulsars are now used as clocks in space to test Einstein's theory. Ask: who should get the credit when a student makes the discovery?"
   },
   {
    "who": "Fishing families in Kerala and Tamil Nadu",
@@ -1213,8 +1221,8 @@
  ],
  "check": [
   {
-   "q": "How many numbers do you need to say where a bead is in a room? And to say where and when something happens?",
-   "a": "Three for where: the distance from two walls and the height. Four for an event: those three and the time."
+   "q": "How many numbers do you need to say where something is in a room? And to say where and when something happens?",
+   "a": "Three for where, for example the distance from two walls and the height. Four for an event: those three and the time."
   },
   {
    "q": "Why does a moving clock tick slower than a still one?",

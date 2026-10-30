@@ -606,128 +606,120 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 
 ## Worksheets
 ### Habitat Detective (core) (core, 16 questions)
-1. (mcq) What is a habitat?  
-   Options: Any building where people live / The place where a living thing finds everything they need to live / Only a forest / A cage in a zoo  
-   **Answer:** The place where a living thing finds everything they need to live. *Why:* A habitat gives a living thing food, water, air, shelter, space and the right warmth. Picking 'any building' mixes up habitat with house. A house is part of a person's habitat. Picking 'only a forest' forgets ponds, deserts, the sea and even the space under a stone.
-2. (fill) A habitat gives a living thing food, water, air, space, the right warmth and a safe place to hide, called ____.  
-   **Answer:** ['shelter']. *Why:* Shelter is a safe place to rest and hide, away from sun, rain and hungry animals. A tree hollow is shelter for an owl.
-3. (match) Match each living thing to their habitat.  
-   **Answer:** Lotus → Pond; Hornbill → Forest; Camel → Desert; Coral → Sea; Curd bacteria → Warm milk. *Why:* Each one lives where their needs are met. The lotus needs still fresh water. The hornbill needs tall fruiting trees. The camel can manage with little water. Corals need warm, clear, salty water. Curd bacteria need warm milk to grow.
-4. (sort) Sort these into the living parts and the non-living parts of a forest.  
-   **Answer:** a tree → Living; sunlight → Non-living; a mushroom → Living; a rock → Non-living; an ant → Living; rain water → Non-living. *Why:* Living parts grow, need food and make more of their own kind. Non-living parts, like sunlight, rocks and water, are not alive, but living things need them.
-5. (mcq) Which habitat gets very little rain all year?  
-   Options: Pond / Forest / Desert / Sea  
-   **Answer:** Desert. *Why:* A desert is a place with very little rain. Picking forest misses that big forests usually get lots of rain. Picking sea or pond is about places full of water.
-6. (truefalse) A desert has no living things in it.  
-   **Answer:** False. *Why:* False. Deserts are full of life. Many animals hide in burrows by day and come out at night, so the desert only looks empty.
-7. (mcq) Why do many desert animals stay in burrows in the daytime?  
-   Options: To keep cool and avoid drying out / Because they are lazy / To catch fish / Because it rains in the day  
-   **Answer:** To keep cool and avoid drying out. *Why:* Under the ground it is cooler and damper than the hot sand on top. Picking 'lazy' is not a reason a scientist would give. Each habit has a cause, and here the cause is heat.
-8. (mcq) The damp corner under a kitchen sink is a small habitat. What is a very small habitat called?  
-   Options: A microhabitat / A desert / A sea / A forest  
-   **Answer:** A microhabitat. *Why:* Micro means very small. A microhabitat is a small habitat inside a bigger one, like under a kitchen sink, under a stone, a crack in a wall or a rotting log.
-9. (mcq) In the three bowls experiment, what happened to the bowl kept in the fridge overnight?  
-   Options: It stayed runny, like milk / It set firm, like curd / It turned into ice / It disappeared  
-   **Answer:** It stayed runny, like milk. *Why:* In the cold, curd bacteria slow right down, so the milk stays runny. Picking 'set firm' is what happened in the warm bowl, not the fridge. A fridge is cold, but not cold enough to freeze milk.
-10. (fill) The top layer of a forest, where the leaves of tall trees meet like a roof, is called the ____.  
-   **Answer:** ['canopy']. *Why:* The canopy catches most of the sunlight. Hornbills and many monkeys live there.
-11. (mcq) Which of these lives in the sea?  
-   Options: Olive ridley turtle / Camel / Desert fox / Tailorbird  
-   **Answer:** Olive ridley turtle. *Why:* Olive ridley turtles live in the sea and come to beaches in Odisha to lay eggs. Camels and desert foxes live in deserts, and tailorbirds in gardens and forests.
-12. (order) Put these sea zones in order, from the top to the bottom.  
-   **Answer:** [0, 1, 2, 3]. *Why:* Sunlight only reaches the top of the sea. As you go deeper, it gets darker and colder, until the deep sea floor is completely dark.
-13. (mcq) A pond dries up in summer. What do some frogs do?  
-   Options: Bury themselves in the mud and wait for rain / Move to the sea / Turn into fish / Climb tall trees in the desert  
-   **Answer:** Bury themselves in the mud and wait for rain. *Why:* Some frogs dig into damp mud and stay there until the rain comes back. Picking 'move to the sea' forgets that sea water is salty and most frogs cannot live in it.
-14. (write) Choose one animal you see near your home. Write where they find their food, water and shelter.  
-   **Answer:** For example: A crow finds food in dustbins and from people. They drink from taps and water tanks. They nest in a big tree.. *Why:* Every place where an animal gets their needs is part of their habitat. A habitat is often more than one spot.
-15. (draw) Draw a pond. Show one living thing on top of the water, one in the middle and one in the mud at the bottom.  
-   **Answer:** For example: a water strider or lotus leaf on top, a fish in the middle, a snail or worm in the mud.. *Why:* A pond has different homes at different levels.
-16. (truefalse) Your body is a habitat for tiny living things.  
-   **Answer:** True. *Why:* True. Trillions of microbes live on your skin and in your tummy. Your body gives them food, water and warmth.
+1. (mcq) Nila, a girl in Chennai, puts a bowl of water on her balcony. Next to it she hangs a tin packed with dry twigs. Which two needs of a habitat is she giving to small birds and insects?  
+   Options: Water and shelter / Food and space / Sunlight and warmth / Air and food  
+   **Answer:** Water and shelter. *Why:* The bowl gives water. The packed tin is a safe place to hide and rest, which is shelter. A strong answer also notices what is still missing: food, such as a plant with flowers. Picking 'food' forgets that water and twigs are not food.
+2. (fill) A habitat gives a living thing food, water, air, space, the right warmth and a safe place to rest and hide. That safe place is called ____.  
+   **Answer:** ['shelter']. *Why:* Shelter keeps a living thing away from sun, rain and hungry animals. A tree hollow is shelter for an owl. A crack in a wall is shelter for a gecko.
+3. (sort) Sort these into the living parts and the non-living parts of a pond.  
+   **Answer:** a frog → Living; the mud at the bottom → Non-living; a lotus → Living; sunlight on the water → Non-living; a water snail → Living; the water itself → Non-living; green slime on the stones → Living. *Why:* Living parts grow, take in food and make more of their own kind. The green slime is tiny living algae, so it is living. Mud, water and sunlight are not alive, but every living part of the pond needs them.
+4. (mcq) Before the three bowls test, Divya, a girl in Class 3, guessed the fridge bowl would set first, because curd is kept in the fridge. What did the test show?  
+   Options: The warm bowl set first, and the fridge bowl stayed runny / The fridge bowl set first / All three set at the same time / None of the bowls set  
+   **Answer:** The warm bowl set first, and the fridge bowl stayed runny. *Why:* Curd bacteria grow fastest in warmth, so the warm, wrapped bowl set first. We keep curd in the fridge for a different reason: the cold slows the bacteria down, so the curd does not turn too sour. Divya's guess was a good one to test, because many grown-ups think the same.
+5. (truefalse) At noon, the Thar Desert looks empty. So very few animals live there.  
+   **Answer:** False. *Why:* False. Many desert animals, like gerbils, foxes and beetles, hide in cool burrows in the heat of the day. They come out in the cool of the night. The desert only looks empty because we visit at the wrong time.
+6. (write) Choose one animal you can see from your window or balcony, such as a crow, a pigeon or a gecko. Where do they find food, water and shelter? Which of these was hardest to spot?  
+   **Answer:** A strong answer names a real animal and a real place for each need, from watching, not guessing. For example: a crow eats scraps from the bins, drinks from the water tank on the roof and nests in the neem tree. The hardest to spot was water, because I never saw them drinking until the second day.. *Why:* A habitat is often more than one spot. An animal may eat in one place, drink in another and sleep in a third.
+7. (mcq) Frogs are common near ponds in Kerala, but you will not find them on the hot sand of the Thar Desert. What is the main reason?  
+   Options: A frog's thin skin must stay damp, and their eggs need water to hatch / Frogs do not like sand / The desert is too far from Kerala / Camels chase the frogs away  
+   **Answer:** A frog's thin skin must stay damp, and their eggs need water to hatch. *Why:* A frog breathes partly through damp skin, and dries out fast in hot, dry air. Their eggs and tadpoles need water too. So a pond gives a frog what they need, and open desert sand does not. Picking 'do not like sand' gives a feeling, not a need.
+8. (match) Match each living thing to the part of their body that suits their habitat.  
+   **Answer:** Camel → wide, flat feet that do not sink in sand; Lotus → big, waxy leaves that float and stay dry; Hornbill → a strong beak for picking fruit high in trees; Olive ridley turtle → flippers for swimming far in the sea. *Why:* Each body suits the place where they live. If you swapped the habitats, the same body parts would be little help: flippers are slow on sand, and wide camel feet cannot swim.
+9. (write) A cactus lives well in a desert, but a cactus planted in a pond rots and dies. Explain why, using the word habitat.  
+   **Answer:** A strong answer says that a cactus is built to store water and needs dry soil, so the desert is their habitat. In a pond, the roots sit in water all the time, cannot get air and rot. A pond is a good habitat for a lotus, but not for a cactus.. *Why:* A habitat is good only for the living things whose needs it meets. Too much of something, like water, can be as bad as too little.
+10. (fill) The damp, dark corner under a kitchen sink is a small habitat inside a bigger one. A small habitat like this is called a ____.  
+   **Answer:** ['microhabitat']. *Why:* Micro means very small. Under a sink, under a flowerpot, a crack in a wall and the soil of a potted plant are all microhabitats. Each one can be cooler, damper or darker than the room around it.
+11. (odd) Which one is the odd one out? These are things that might help curd bacteria grow: warm milk, the right warmth, sunlight, time. Which do they not need, and why?  
+   **Answer:** sunlight. *Why:* The warm bowl in the three bowls test was wrapped in a towel, in the dark, and it still set first. So curd bacteria need food, water and warmth, but not sunlight. Plants need sunlight. Many living things do not.
+12. (mcq) A pond near Madurai dries up in April. What do some frogs do?  
+   Options: Dig into the damp mud and wait there until the rain comes back / Hop to the sea / Turn into fish / Stay on the dry cracked mud in the sun  
+   **Answer:** Dig into the damp mud and wait there until the rain comes back. *Why:* Deep down, the mud stays damp and cool, so it shelters them until the rains fill the pond again. Picking 'hop to the sea' forgets that sea water is salty, and most frogs cannot live in it.
+13. (draw) Draw a pond cut in half, so we can see inside. Show one living thing at the top of the water, one in the middle and one in the mud at the bottom.  
+   **Answer:** For example: a lotus leaf or a water strider at the top, a fish in the middle, a snail or a worm in the mud. A strong drawing also shows where the light is brightest.. *Why:* One pond holds several small habitats at different levels. The top gets the most light and air, and the mud is darkest.
+14. (truefalse) Most of the bacteria living in your tummy are harmful germs.  
+   **Answer:** False. *Why:* False. Most of the microbes in your tummy are harmless or helpful. They help break down food and keep harmful germs from settling in. Many people believe all bacteria are bad, but only a few kinds make us ill.
+15. (write) On a balcony, the soil under an upturned flowerpot is dark and damp. The open floor next to it is hot and dry in the afternoon. Predict where you are more likely to find an earthworm or a woodlouse, and explain why.  
+   **Answer:** A strong answer predicts under the pot. It explains that these small animals dry out quickly, so they need the damp, cool shelter the pot gives. The open floor gives no shelter and the wrong warmth.. *Why:* Even two spots a few centimetres apart can be very different microhabitats. Small animals choose the one that meets their needs.
+16. (mcq) A crow nests in a neem tree, eats scraps from the bins and drinks from the water tank on the roof. What is the crow's habitat?  
+   Options: All three places together, and the space between them / Only the nest / Only the water tank / The crow has no habitat in a city  
+   **Answer:** All three places together, and the space between them. *Why:* A habitat is everywhere a living thing finds their needs. For this crow, that is the tree, the bins and the tank. Picking 'only the nest' mixes up a habitat with a home to sleep in.
 ### Habitats Near and Far (stretch) (stretch, 16 questions)
-1. (mcq) Look at the chart from the five worlds test. Which place was hottest?  
-   Options: Sunny path / Grass / Under a stone / Under leaves  
-   **Answer:** Sunny path. *Why:* The sunny path was 41 degrees, the tallest bar. Nothing shaded it. Picking 'under a stone' is the opposite: stones shade the soil and keep it cool.
-2. (mcq) In the five worlds test, the place with the most living things was under the leaves. Why?  
-   Options: It was coolest and dampest, with food from rotting leaves / It was the hottest / Animals like to be seen / It had the most sunlight  
-   **Answer:** It was coolest and dampest, with food from rotting leaves. *Why:* Under the leaves it was cool, damp and full of food. More needs were met there. Picking 'most sunlight' mixes up what plants need with what small animals need.
-3. (mcq) In the three bowls experiment, why did every bowl get the same milk and one level spoon of the same curd?  
-   Options: So that only the warmth was different / Because there was only one spoon / To make the bowls look nice / It does not matter  
-   **Answer:** So that only the warmth was different. *Why:* If one bowl got more curd, we would not know whether the warmth or the extra curd made it set. Changing one thing at a time makes it a fair test. Picking 'it does not matter' misses why scientists plan tests carefully.
-4. (mcq) In the three bowls experiment, why did we put the runny fridge bowl in the warm place the next day?  
-   Options: To check whether the bacteria in it were dead or only waiting / To make it colder / To start a new test with new milk / Because the first test was wrong  
-   **Answer:** To check whether the bacteria in it were dead or only waiting. *Why:* If the bowl set once it was warm, the bacteria were alive all along and only slowed down in the cold. That is what usually happens. Picking 'the first test was wrong' misses that the first test worked: it showed the cold slowed them down.
-5. (mcq) What did the bag around the leafy branch show?  
-   Options: Leaves give off water into the air / Leaves soak up water from the air / Plastic makes water / Trees need plastic bags  
-   **Answer:** Leaves give off water into the air. *Why:* The closed bag around the leaves filled with drops, but the bag on the bare stick stayed dry. So the water came from the leaves. This is one way forests keep their habitat damp.
-6. (match) Match each habitat with what is hard about living there.  
-   **Answer:** Desert → very little water; Forest floor → very little sunlight; Deep sea → darkness and cold; Small pond → it can dry up in summer. *Why:* No habitat gives everything easily. Each one has its own problem, and the living things there have ways to handle it.
-7. (mcq) Ladakh gets very little rain and has freezing winters. What kind of habitat is it?  
-   Options: A cold desert / A rainforest / A coral reef / A pond  
-   **Answer:** A cold desert. *Why:* A desert is about very little rain, not about heat. Ladakh is a cold desert. Picking 'rainforest' forgets that rainforests get lots of rain.
-8. (mcq) In 1977, scientists in the submarine Alvin found worms, clams and crabs around warm vents deep in the sea. What surprised them most?  
-   Options: There was a crowd of life where there is no sunlight / The water was salty / Fish can swim / The sea is big  
-   **Answer:** There was a crowd of life where there is no sunlight. *Why:* Scientists thought all food chains needed sunlight. At the vents, bacteria make food from chemicals in the vent water instead. Salty water and swimming fish were already well known.
-9. (sort) Sort these: is it something people did to destroy a habitat, or to protect or make one?  
-   **Answer:** filling a pond to build houses → Destroy; the women of Reni guarding their trees in 1974 → Protect or make; cutting a forest for a road → Destroy; Jadav Payeng planting a forest on a sandbar → Protect or make; throwing plastic into the sea → Destroy; keeping a sacred grove uncut → Protect or make. *Why:* People are the biggest changers of habitats. We can destroy them, but we can also protect and even make them.
-10. (mcq) Which is the biggest danger to wild plants and animals today, according to scientists?  
-   Options: Losing their habitats / Too many zoos / Too much rain / Not enough people watching them  
-   **Answer:** Losing their habitats. *Why:* A big United Nations study in 2019 found that changing land and sea for human use is the main cause. When the habitat goes, its living things go with it.
-11. (mcq) A gecko waits on the wall next to a tube light every night. What does that spot give them?  
-   Options: Food: insects fly to the light, and the gecko catches them / Water from the light / Nothing, they are there by chance / Sunlight to grow  
-   **Answer:** Food: insects fly to the light, and the gecko catches them. *Why:* Many insects fly to lights at night, so the wall by the light is full of food for a gecko. That spot is part of their habitat. Picking 'by chance' does not fit, because they come back to the same spot every night.
-12. (write) Jadav Payeng could not carry elephants to his sandbar. So how did elephants end up living there? Use the word habitat.  
-   **Answer:** He planted trees that gave shade, soil, food and shelter. The sandbar became a habitat that gave elephants what they need, so they came by themselves.. *Why:* Animals move to places that meet their needs. Making a habitat is how you bring life to a place.
-13. (write) Why does a desert look empty at noon but busy at night?  
-   **Answer:** At noon it is very hot, so animals hide in cool burrows and shade. At night it is cooler, so they come out to find food.. *Why:* Hiding by day is how many desert animals deal with the heat.
-14. (truefalse) Most of the space where life can live on Earth is in the sea.  
-   **Answer:** True. *Why:* True. The sea covers about seven parts out of ten of the Earth's surface, and it is very deep. So it holds most of the living space on our planet.
-15. (mcq) In the three bowls experiment, curd set in the warm bowl but not in the fridge. What does this show about the bacteria in curd?  
-   Options: The right warmth is part of their habitat / They hate milk / They need sunlight / They live only in fridges  
-   **Answer:** The right warmth is part of their habitat. *Why:* Both bowls had milk for food and water. Only the warm bowl had the right warmth, so the bacteria grew there. Picking 'sunlight' misses that the warm bowl was wrapped in a towel, in the dark.
-16. (label) Label the layers of a forest: canopy, middle layer, forest floor.  
-   **Answer:** ['canopy (top)', 'middle layer', 'forest floor (bottom)']. *Why:* Different animals live at each level. Hornbills in the canopy, climbers and smaller trees in the middle, worms and frogs on the floor.
-### Habitat Puzzles and Big Ideas (challenge) (challenge, 15 questions)
-1. (mcq) In the five worlds test, the sunny path was 41 degrees and under the stone was 29 degrees. A child says: 'An earthworm would be fine on the path, it is only 12 degrees more.' What is wrong with this?  
-   Options: Earthworms dry out fast in hot, dry places, so 12 degrees more and the dryness can kill them / Nothing, 12 degrees is small / Earthworms like 41 degrees / Thermometers do not work outside  
-   **Answer:** Earthworms dry out fast in hot, dry places, so 12 degrees more and the dryness can kill them. *Why:* For small, damp-loving animals, a few degrees and some dryness make the difference between life and death. Remember the snakes on the bare sandbar. Picking 'nothing' treats a small number as a small effect.
-2. (mcq) Mangroves grow where rivers meet the sea. Which habitat are they in?  
-   Options: Both, sort of: the water is part fresh and part salty, so they live on an edge / Only the pond / Only the desert / No habitat at all  
-   **Answer:** Both, sort of: the water is part fresh and part salty, so they live on an edge. *Why:* Many living things live on the edges between habitats. This is why scientists like Henry Gleason argued that habitats blend into each other. Picking 'no habitat' forgets that mangroves get everything they need there.
-3. (mcq) Henry Gleason said in 1926 that habitats blend into each other with no sharp edges. Most scientists ignored him for about thirty years. What finally changed their minds?  
-   Options: Careful counts of plants along slopes and across land / He shouted louder / A famous scientist agreed without looking / A vote  
-   **Answer:** Careful counts of plants along slopes and across land. *Why:* Evidence changed their minds: careful counts showed each kind of plant spreading out on their own. In science, careful evidence matters more than who is famous.
-4. (mcq) Tube worms at deep sea vents have no mouth and no sunlight. How do they get food?  
+1. (mcq) Look at the chart from the five worlds test. An earthworm needs cool, damp soil. Which place would suit her best?  
+   Options: Under the leaves / The sunny path / The grass / Under a bush  
+   **Answer:** Under the leaves. *Why:* Under the leaves was the coolest place, at 28 degrees. Fallen leaves also keep the soil damp and give food as they rot. The sunny path was hottest and driest, so an earthworm would dry out there. A strong answer uses the numbers in the chart.
+2. (write) In the three bowls test, every bowl got the same milk and one level spoon of the same curd. Why did that matter?  
+   **Answer:** A strong answer says that only the warmth was different between the bowls. If one bowl got more curd, we could not tell whether the warmth or the extra curd made it set. It names this a fair test.. *Why:* A fair test changes one thing and keeps everything else the same. Then we know what caused the difference.
+3. (mcq) In the tree water test, why did we also tie a bag around a bare stick with no leaves?  
+   Options: To check that the water came from the leaves, and not from the air or the plastic / To save plastic bags / Because the stick was thirsty / To make the test take longer  
+   **Answer:** To check that the water came from the leaves, and not from the air or the plastic. *Why:* The leafy bag filled with drops and the bare-stick bag stayed dry. So the water came from the leaves. Without the bare stick, someone could say that damp air made the drops. A strong answer calls the bare stick the comparison.
+4. (match) Match each habitat with what is hard about living there.  
+   **Answer:** Desert → very little water; Forest floor → very little sunlight; Deep sea → darkness and cold; Small pond → it can dry up in summer. *Why:* No habitat gives everything easily. Each one has its own problem, and the living things there have their own ways to handle it.
+5. (mcq) Ladakh gets very little rain and has freezing winters. What kind of habitat is it?  
+   Options: A cold desert / A rainforest / A coral reef / It cannot be a desert, because it is cold  
+   **Answer:** A cold desert. *Why:* A desert is a place with very little rain, hot or cold. Ladakh is a cold desert. Many people think every desert is hot and sandy, but the word is about rain, not heat.
+6. (sort) Sort these. Did people destroy a habitat, or protect or make one?  
+   **Answer:** filling a pond to build houses → Destroy; the women of Reni village guarding their trees in 1974 → Protect or make; cutting a forest for a road → Destroy; Jadav Payeng planting a forest on a sandbar → Protect or make; throwing plastic into the sea → Destroy; keeping a sacred grove uncut for hundreds of years → Protect or make. *Why:* People change habitats more than any other living thing. We can destroy them, but we can also protect them and even make new ones.
+7. (mcq) A gecko waits on the wall next to a tube light every night. What does that spot give her?  
+   Options: Food, because insects fly to the light and she catches them / Water from the light / Nothing: she is there by chance / Sunlight to grow  
+   **Answer:** Food, because insects fly to the light and she catches them. *Why:* Many insects fly to lights at night, so the wall by the light is full of food for a gecko. That spot is part of her habitat. Picking 'by chance' does not fit, because she comes back to the same spot every night.
+8. (write) Before Jadav Payeng planted trees, snakes washed onto the bare sandbar died in the hot sun. Explain how the trees changed the non-living parts of the sandbar, so that animals could live there.  
+   **Answer:** A strong answer names at least two non-living changes. The trees made shade, so the ground got cooler. Their fallen leaves rotted into soil. Their roots held the sand in floods, and the air under them stayed damper. Then animals found what they needed and came by themselves.. *Why:* Living things change their habitats. Here the trees changed heat, soil and dampness, which are all non-living parts.
+9. (perspective) People disagree about whether a zoo can be a good habitat for an elephant.  
+   **Answer:** A strong answer picks a side and uses the needs of a habitat as evidence. For example: space is a need, and a zoo cannot give enough of it. It then gives a fair point from another side, for example that food, water and a vet are needs too. It may say the best answer is to protect wild forests.. *Why:* There is no single right answer. A zoo meets some needs very well and others poorly. The real argument is about which needs matter most, and what to do when wild habitats are lost.
+10. (label) Label the layers of a forest: canopy, middle layer, forest floor.  
+   **Answer:** ['canopy (top)', 'middle layer', 'forest floor (bottom)']. *Why:* Each layer is a different habitat. Hornbills live in the canopy, where there is the most light and fruit. Climbers and small trees live in the middle. Frogs, worms and fungi live on the dark, damp floor.
+11. (mcq) In the mangroves of Pichavaram, in Tamil Nadu, the river meets the sea. At high tide the water is salty, and at low tide it is fresher. What is hard about living there?  
+   Options: The saltiness and the water level keep changing every day / There is no water at all / It is always dark / Nothing is hard there  
+   **Answer:** The saltiness and the water level keep changing every day. *Why:* Living things in mangroves must handle salt one hour and fresher water the next, and mud that floods and drains. Some mangrove trees push out extra salt through their leaves. Picking 'nothing is hard' forgets that every habitat has its own problem.
+12. (truefalse) A habitat must be a big place, like a forest or a sea.  
+   **Answer:** False. *Why:* False. A habitat can be tiny: the bowl of warm milk was a habitat for curd bacteria, and the soil in a flowerpot is a habitat for ants and worms. What makes a place a habitat is that it meets the needs of the living things there.
+13. (write) Revathi keeps her tulsi plant on a sunny balcony. Her cousin keeps the same kind of plant in a dark bathroom with no window. Predict which plant will do better after a month, and explain using the needs of a habitat.  
+   **Answer:** A strong answer predicts that the balcony plant will grow better. It says that plants use sunlight to make their own food, so the dark bathroom does not meet that need. It may add that the bathroom plant will grow pale, thin stems that lean towards any light.. *Why:* Light is part of a plant's habitat, because plants make their food from sunlight, air and water.
+14. (mcq) On a summer afternoon, the top of the sand in the Thar Desert can be hotter than 50 degrees. A little way down, the sand is much cooler. What does a burrow give a desert animal?  
+   Options: Shelter and the right warmth / Food and sunlight / More heat / Space to run fast  
+   **Answer:** Shelter and the right warmth. *Why:* Sand is slow to let heat through, so a burrow stays cool in the day and warm at night. It is also a safe place to hide. Picking 'more heat' is the opposite of what the burrow does.
+15. (order) A forest helps make its own rain. Put these steps in order.  
+   **Answer:** ['Tree roots take up water from the soil', 'Leaves give off water into the air', 'The damp air rises and forms clouds', 'Rain falls on the forest again']. *Why:* The bag test showed the second step: leaves give off water. Over a big forest like the Amazon, much of the rain is water that the forest's own leaves gave off. So the living trees change the non-living rain.
+16. (write) Some animals live in the forest canopy, and others on the forest floor below. Choose one need of a habitat. Explain how the canopy and the floor give that need differently.  
+   **Answer:** A strong answer picks one need and compares both layers. For example, light: the canopy gets bright sunlight, so leaves and fruit grow there for hornbills and monkeys. The floor is dark and damp, which suits frogs, worms and fungi.. *Why:* One forest holds several habitats on top of each other. The same need is met in different ways at each level.
+### Habitat Puzzles and Big Ideas (challenge) (challenge, 16 questions)
+1. (mcq) In the five worlds test, the sunny path was 41 degrees and under the stone was 29 degrees. Farhan, a boy in Class 4, says: 'An earthworm would be fine on the path. It is only 12 degrees more.' What is wrong with his thinking?  
+   Options: Earthworms breathe through damp skin, so the heat and dryness of the path can kill them / Nothing: 12 degrees is a small difference / Earthworms like 41 degrees / Thermometers do not work outside  
+   **Answer:** Earthworms breathe through damp skin, so the heat and dryness of the path can kill them. *Why:* For a small, damp-skinned animal, 12 degrees and dry ground are the difference between life and death. Remember the snakes on Jadav Payeng's bare sandbar. Farhan treats a small number as a small effect.
+2. (perspective) Two plant scientists argued for years about where one habitat ends and the next begins.  
+   **Answer:** A strong answer picks a side and uses something real as evidence. For example: at the edge of a pond, the plants change slowly from water plants to grass, which fits Gleason. It also admits why Clements made sense: from far away, a forest and a grassland look like two separate things with an edge.. *Why:* Most scientists now side mostly with Gleason, because careful counts of plants along slopes showed each kind spreading out on their own. But maps still draw edges, because they are useful. Scientists still argue about how much plants depend on each other.
+3. (mcq) Tube worms live at deep sea vents. They have no mouth, and no sunlight reaches them. How do they get food?  
    Options: Bacteria living inside them make food from chemicals in the vent water / They eat sunlight / They eat sand / They do not need food  
-   **Answer:** Bacteria living inside them make food from chemicals in the vent water. *Why:* The bacteria use chemicals from the vent water to make food, and share it with the worm. Picking 'do not need food' forgets that every living thing needs energy.
-5. (mcq) Scientists look for liquid water on other worlds when searching for life. Why?  
-   Options: Every living thing we know needs liquid water / Water is blue / Water makes planets heavy / Aliens like swimming  
-   **Answer:** Every living thing we know needs liquid water. *Why:* From deep sea vents to deep rock to very hot springs, every living thing we know needs liquid water. So it is the best clue we have. But nobody knows yet if life elsewhere would need it too.
-6. (truefalse) Scientists have found living things on another planet.  
-   **Answer:** False. *Why:* False. So far, Earth is the only place where we know for sure that life lives. Scientists are searching on Mars and planning missions to icy moons like Europa and Enceladus.
-7. (mcq) A big tree gives off water from their leaves all day. What would happen to the air in a forest if many of its trees were cut down?  
-   Options: It would become drier, and there might be less rain / It would become wetter / Nothing would change / It would rain salt  
-   **Answer:** It would become drier, and there might be less rain. *Why:* Leaves give water to the air, as the bag test showed. Fewer trees means less water going up, so the air gets drier and less rain may fall. This is one way living things make their own habitat.
-8. (mcq) A grown-up's body has about as many bacteria living in it as human cells. Most of them are...  
-   Options: harmless or helpful / all harmful germs / dead / only on the skin  
-   **Answer:** harmless or helpful. *Why:* Most microbes in your body are harmless or helpful. Tummy bacteria help digest food and keep harmful germs out. Picking 'all harmful' is a very common belief, but it is wrong.
-9. (odd) Which one is the odd one out, and why? Pond, forest, desert, thermometer.  
-   **Answer:** thermometer. *Why:* Pond, forest and desert are habitats. A thermometer is a tool for measuring habitats.
-10. (write) Some people say a zoo is a good habitat for an elephant. Others say it is not. Give one reason for each side, then say what you think.  
-   **Answer:** For: a zoo gives food, water, shelter and medicine. Against: it cannot give the space an elephant needs, since wild elephants walk many kilometres a day. My view: any honest answer with a reason.. *Why:* A habitat must give all of an animal's needs, including space. People disagree about whether zoos can do this.
-11. (write) The river in the story 'What the Sandbar Learned to Give' says: 'I am no longer sure where the river ends and the forest begins.' Using what you learned about the tree water test, explain what it might mean.  
-   **Answer:** The trees drink river water and give it off from their leaves into the air. It becomes clouds and rain, falls on the hills and comes back to the river. So the river's water passes through the forest, and the forest's water becomes the river.. *Why:* Living things and their habitats are joined. Water moves through both.
-12. (write) Design a fair test to find out whether milk sets into curd faster with one spoon of curd or with three spoons. Say what you would change, what you would keep the same, and what you would check.  
-   **Answer:** Change: one bowl gets one spoon of curd, the other gets three spoons. Keep the same: the same milk, the same amount, the same kind of bowl, the same warm place. Check: tilt both bowls every 2 hours and write down when each one sets.. *Why:* A fair test changes only one thing, like the three bowls experiment did with warmth.
-13. (mcq) Who led the women of Reni village in the Himalaya to stop their trees being cut in 1974, as part of the Chipko movement?  
-   Options: Gaura Devi / Rachel Carson / Marie Curie / Jane Goodall  
-   **Answer:** Gaura Devi. *Why:* Gaura Devi led the women of Reni to stop the cutting of their forest. Rachel Carson wrote about pesticides in the United States, and Jane Goodall studied chimpanzees in Africa.
-14. (mcq) In the Square Metre Safari, a lawn had 6 kinds of living things and a square under a tree had 14. A child says, 'Trees always have more kinds.' Is that a fair conclusion from one test?  
+   **Answer:** Bacteria living inside them make food from chemicals in the vent water. *Why:* The bacteria use a chemical in the vent water to make food, and share it with the worm. Picking 'do not need food' forgets that every living thing needs energy. Before 1977, scientists thought all food chains started with sunlight.
+4. (write) Europa, a moon of Jupiter, has an ocean of salty water under thick ice. No sunlight reaches it. Which discovery in the deep sea gives scientists hope that something could live there? Explain.  
+   **Answer:** A strong answer names the deep sea vents found in 1977. It explains that life there gets energy from chemicals, not sunlight. So an ocean with no light might still be a habitat, if it has warmth and the right chemicals. It says honestly that nobody knows yet.. *Why:* Every living thing we know needs liquid water and some source of energy. The vents showed that the energy does not have to be sunlight.
+5. (mcq) A big tree gives off water from their leaves all day. What would happen to the air in a forest if many of the trees were cut down?  
+   Options: It would become drier, and less rain might fall / It would become wetter / Nothing would change / It would rain salt  
+   **Answer:** It would become drier, and less rain might fall. *Why:* Leaves give water to the air, as the bag test showed. Fewer trees means less water going up, so the air gets drier and less rain may fall. This is one way living things make their own habitat.
+6. (write) Design a fair test to find out whether milk sets into curd faster with one spoon of curd or with three spoons. Say what you would change, what you would keep the same, and what you would check.  
+   **Answer:** A strong answer changes only the amount of curd: one bowl gets one spoon, the other gets three. It keeps the same milk, the same amount, the same kind of bowl and the same warm place. It checks both bowls by tilting them every 2 hours and writing down when each one sets.. *Why:* A fair test changes only one thing, just as the three bowls test changed only the warmth.
+7. (mcq) In the Square Metre Safari, a lawn had 6 kinds of living things and a square under a tree had 14. Karthik, a boy in Class 4, says: 'Under trees there are always more kinds.' Is that a fair conclusion from one test?  
    Options: No. One test in one garden is a start, but we need to test more places / Yes, one test is always enough / No, lawns always have more / Tests cannot tell us anything  
    **Answer:** No. One test in one garden is a start, but we need to test more places. *Why:* One result can be a fluke. Scientists repeat tests in many places before saying 'always'. Picking 'tests cannot tell us anything' goes too far. The test is good evidence for this garden.
-15. (write) Your body is a habitat. List three things it gives the microbes living in it, using the six needs of a habitat.  
-   **Answer:** Food from what I eat, water, warmth, shelter inside my tummy, space on my skin.. *Why:* A body meets the same needs as any habitat.
+8. (write) Some people say a city has no habitats, only buildings. Use three examples from your own home or street to argue against this.  
+   **Answer:** A strong answer gives three real places and says who lives there and which need is met. For example: ants under the kitchen sink find water and crumbs, a gecko on the wall by the light finds insects, and pigeons on the window ledge find shelter from rain.. *Why:* Cities are full of microhabitats. Wherever a living thing finds their needs, there is a habitat.
+9. (fill) In the Square Metre Safari, we counted how many different ____ of living things were in the square, not how many of each.  
+   **Answer:** ['kinds', 'types', 'sorts']. *Why:* Counting kinds tells us how many different living things a place can support. Ten ants of one kind count as one kind. A place with more kinds usually meets more different needs.
+10. (write) In the story 'What the Sandbar Learned to Give', the river says: 'I am no longer sure where the river ends and the forest begins.' Using the tree water test, explain what the river might mean.  
+   **Answer:** A strong answer follows the water. The trees take up river water through their roots and give it off from their leaves, as the bag test showed. It rises, makes clouds, falls as rain on the hills and runs back into the river. So the river's water passes through the forest, and the forest's water becomes the river.. *Why:* Living things and the non-living parts of their habitat are joined. Water moves through both.
+11. (sort) Sort these. Is a living thing changing their habitat, or is the habitat changing a living thing?  
+   **Answer:** earthworms turn fallen leaves into soil → A living thing changes the habitat; a dry pond makes frogs dig into the mud → The habitat changes a living thing; trees make the ground below them shady and damp → A living thing changes the habitat; the cold of a fridge slows curd bacteria down → The habitat changes a living thing; corals build a reef that fish live in → A living thing changes the habitat; freezing winters make marmots in Ladakh sleep for months → The habitat changes a living thing. *Why:* It works both ways. A habitat shapes what its living things do, and living things change their habitat. The two depend on each other.
+12. (mcq) Mitali's grandmother says: 'All bacteria are dirty. We should kill every one of them with strong soap.' A grown-up's body has about as many bacteria living in and on them as human cells. What is the best answer to Mitali's grandmother?  
+   Options: Most of those bacteria are harmless or helpful, and they help keep harmful germs out / She is right: all bacteria make us ill / Bacteria only live on dirty skin / Soap kills every bacterium on the body  
+   **Answer:** Most of those bacteria are harmless or helpful, and they help keep harmful germs out. *Why:* Your body is a habitat for trillions of microbes. Most are harmless or helpful: tummy bacteria help digest food and leave less room for harmful germs. It is still right to wash hands before food, because a few kinds are harmful. A strong answer is kind and gives the evidence.
+13. (order) Put these habitats in order of size, from the smallest to the biggest.  
+   **Answer:** ['a spoon of curd', 'the soil in a flowerpot', 'a village pond', 'the forests of the Western Ghats', 'the sea']. *Why:* Each one meets the needs of the living things in it, from curd bacteria to whales. Size is not what makes a place a habitat. The sea is the biggest of all, with life at every depth.
+14. (write) Scientists look for liquid water when they search for life on other worlds. Could life somewhere else live without water? Say what you think, and what evidence would change your mind.  
+   **Answer:** A strong answer gives a view with a reason. For example: every living thing found so far, from vents to hot springs, needs liquid water, so I think life elsewhere will need it too. It then names evidence that would change the view, such as finding something living in a place with no liquid water at all.. *Why:* This is an open question. Water is the best clue we have, but nobody knows yet whether life elsewhere must work like life on Earth.
+15. (truefalse) Before 1977, scientists expected the deep sea floor near warm vents to be almost empty of life.  
+   **Answer:** True. *Why:* True. They thought nearly all food chains begin with sunlight, so the dark deep sea could hold only a little life. Instead they found crowds of tube worms, clams and crabs. A strong answer notices that a careful look changed what scientists believed.
+16. (write) Gaura Devi and the women of Reni hugged their trees in 1974 to stop them being cut. Explain how saving the trees also saved homes for other living things.  
+   **Answer:** A strong answer says that the trees are habitats for birds, insects, monkeys and fungi, and that the trees keep the soil and the air damp. So cutting the trees would take away food, shelter and water for many others. Saving the trees kept the whole habitat.. *Why:* When one big living thing goes, the habitat of many others goes with them. This is why losing habitats is the biggest danger to wild living things today.
 
 ## Videos
 - **Forest Man (short documentary about Jadav Payeng)** (A 2013 film by William Douglas McMaster, 16 min) id `HkZDSqyE1do`: Shows the real Molai forest and the man who planted it, from the story in this unit. Good for the family to watch together. *Check:* Found by YouTube search: "Forest Man" by William D McMaster. Title checked automatically; a parent may still preview it.
@@ -735,24 +727,24 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 - **The Incredible Wildlife of India** (BBC Earth, 6 min) id `TUCNYVlRLoA`: Shows wild animals in different Indian habitats, so children can see what each habitat gives. A parent should preview it first. *Check:* Found by YouTube search: "The Incredible Wildlife of India | BBC Earth" by BBC Earth. Title checked automatically; a parent may still preview it.
 
 ## Quiz
-1. (mcq) What is a habitat?  
-   Options: The place where a living thing finds everything they need / Any house / Only a forest / A cage  
-   **Answer:** The place where a living thing finds everything they need. *Why:* A habitat gives food, water, air, shelter, space and the right warmth. Picking 'any house' mixes up habitat and house. Picking 'only a forest' forgets ponds, deserts, seas and tiny places.
-2. (mcq) Which of these is NOT one of the needs a habitat gives?  
-   Options: Food / Shelter / A television / Water  
-   **Answer:** A television. *Why:* Living things need food, water, air, shelter, space and the right warmth. A television is not something any animal needs to stay alive.
-3. (mcq) Which habitat gets very little rain?  
-   Options: Desert / Pond / Rainforest / Sea  
-   **Answer:** Desert. *Why:* A desert gets very little rain. It can be hot, like the Thar, or cold, like Ladakh. Picking rainforest is the opposite: rainforests get lots of rain.
+1. (mcq) Which sentence best says what a habitat is?  
+   Options: The place where a living thing finds everything they need to live / Any house / Only a forest / A cage  
+   **Answer:** The place where a living thing finds everything they need to live. *Why:* A habitat gives food, water, air, shelter, space and the right warmth. A habitat can be big, like a forest, or tiny, like a bowl of milk. Picking 'any house' mixes up a habitat with a house. Picking 'only a forest' forgets ponds, deserts, the sea and tiny places.
+2. (mcq) A pet fish lives in a small glass bowl. She gets food, clean water and the right warmth. Which need of a habitat is she short of?  
+   Options: Space / Food / Water / Warmth  
+   **Answer:** Space. *Why:* A tiny bowl gives very little room to swim. Space is one of the six needs, along with food, water, air, shelter and the right warmth. Picking food, water or warmth misses that the question says she has those.
+3. (mcq) Why can a camel manage in the Thar Desert, while a frog cannot?  
+   Options: A camel can go many days without drinking, but a frog's skin dries out fast / Camels are bigger / Frogs are afraid of sand / The desert is too cold for frogs  
+   **Answer:** A camel can go many days without drinking, but a frog's skin dries out fast. *Why:* A desert gets very little rain. A camel's body is built to save water, and a frog needs damp skin and water for eggs. Picking 'bigger' is not about the needs a habitat gives.
 4. (mcq) Where in a forest is there very little sunlight?  
    Options: The forest floor / The canopy / Above the trees / Nowhere, forests are bright everywhere  
    **Answer:** The forest floor. *Why:* The canopy at the top catches most of the light, so the floor is dark and damp. Picking the canopy is the opposite: it gets the most light.
-5. (mcq) Which is the biggest habitat on Earth?  
-   Options: The sea / A pond / The Thar Desert / A garden  
-   **Answer:** The sea. *Why:* The sea covers about seven parts out of ten of the Earth's surface and is very deep. Most of the living space on Earth is in it.
+5. (mcq) Why does the sea hold most of the living space on Earth?  
+   Options: It covers about seven parts out of ten of the Earth, and life lives at every depth / It is salty / It is blue / Fish are bigger than land animals  
+   **Answer:** It covers about seven parts out of ten of the Earth, and life lives at every depth. *Why:* The sea is wide and very deep, and living things are found from the bright top to the dark floor. Picking 'salty' or 'blue' describes the sea, but does not explain the space.
 6. (mcq) In the three bowls experiment, which bowl usually turns into curd by morning?  
    Options: The warm one, wrapped in a towel / The one in the fridge / None of them, curd only comes from a shop / All three, exactly the same  
-   **Answer:** The warm one, wrapped in a towel. *Why:* Curd bacteria grow fast when it is warm, so the warm bowl sets first. Picking 'the fridge' is a common guess, because curd is kept there. The fridge keeps curd from getting too sour, because the cold slows the bacteria down. Picking 'all three the same' misses that warmth was the one thing we changed.
+   **Answer:** The warm one, wrapped in a towel. *Why:* Curd bacteria grow fast in warmth, so the warm bowl sets first. Picking 'the fridge' is a common guess, because curd is kept there. The fridge keeps curd from getting too sour, because the cold slows the bacteria down. Picking 'all three the same' misses that warmth was the one thing we changed.
 7. (mcq) In the three bowls experiment, the fridge bowl stayed runny. Then it was kept warm all day, and by evening it had set. What does this show?  
    Options: The bacteria stayed alive in the cold, and got busy again once the place suited them / The cold killed the bacteria / Warm air turns milk into curd by itself, with no bacteria / The fridge bowl never had any curd in it  
    **Answer:** The bacteria stayed alive in the cold, and got busy again once the place suited them. *Why:* If the cold had killed the bacteria, the bowl would never have set. They slowed down in the cold and grew again in the warmth. Picking 'warm air by itself' is a good thought to test: a bowl of warm milk with no curd stays runny much longer.
@@ -762,9 +754,9 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 9. (mcq) In a flat, ants come to the corner by the kitchen sink, but hardly ever to a dry, clean bookshelf. Why?  
    Options: The sink corner gives them water and crumbs of food / Ants do not like books / Ants go anywhere by chance / The bookshelf is too high  
    **Answer:** The sink corner gives them water and crumbs of food. *Why:* A habitat is where a living thing finds what they need. The sink corner gives ants water and food, so it is part of their habitat. Picking 'by chance' does not fit, because they keep going to the same place. Ants climb walls easily, so height is not the reason.
-10. (mcq) What is the biggest danger to wild plants and animals today?  
-   Options: Losing their habitats / Too many scientists / Rainbows / Too much birdsong  
-   **Answer:** Losing their habitats. *Why:* Scientists agree that changing land and sea for human use, like cutting forests and filling ponds, is the main cause of the loss of wild species.
+10. (mcq) In 2019, scientists who studied wild plants and animals all over the world named the biggest danger to them. What was it?  
+   Options: Losing their habitats, as forests are cut and ponds are filled / Too much rain / Too many zoos / Being looked at by people  
+   **Answer:** Losing their habitats, as forests are cut and ponds are filled. *Why:* Changing land and sea for human use is the main cause of the loss of wild species. When a habitat goes, the living things in it lose their food, water and shelter.
 11. (mcq) Jadav Payeng made a forest on a bare sandbar. How did the animals get there?  
    Options: They came by themselves once the place gave them what they needed / He carried them all / They were brought by a zoo / They were always there  
    **Answer:** They came by themselves once the place gave them what they needed. *Why:* He made the place give shade, soil and food, and the animals came. Picking 'carried them all' is impossible for elephants, and the story says the sandbar was bare at first.
@@ -854,7 +846,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 ## Connected maths
 - In the five worlds test, the sunny path was 41 degrees Celsius. Under the stone, it was 29 degrees Celsius. How many degrees cooler was it under the stone? **12 degrees cooler.**. The path was 41 degrees. Under the stone was 29 degrees. 41 take away 29 is 12. You can check by counting on: 29 and 1 makes 30, and 11 more makes 41. 1 + 11 = 12. (queues `math.temperature.reading-thermometers.L3`)
 - In the three bowls experiment, a family tilted the bowls every 2 hours. The warm bowl had set at 6 hours. The counter bowl set at 10 hours. The fridge bowl was still runny at 24 hours. Where were the bacteria busiest? How many hours sooner did that bowl set than the counter bowl? **The warm bowl. It set 4 hours sooner than the counter bowl.**. The bowl that sets first is where the bacteria grew fastest. That is the warm bowl, at 6 hours. The counter bowl took 10 hours. 10 take away 6 is 4. So the warm bowl set 4 hours sooner. The fridge bowl had not set even after 24 hours, so the bacteria were slowest there. (queues `math.time.duration.L3`)
-- In the tree water test, one leafy branch gave 2 teaspoons of water in one hour. A small tree has 10 branches like it. How much water might the whole tree give in one hour? **About 20 teaspoons.**. Each branch gave 2 teaspoons. There are 10 branches. 10 groups of 2 is 20. So the tree might give about 20 teaspoons in one hour. A big forest tree has many more branches, so it gives much more. (queues `math.multiplication.equal-groups.L3`)
+- In the tree water test, one leafy branch gave 2 teaspoons of water in one hour. A small tree has 10 branches like it. How much water might the whole tree give in one hour? **About 20 teaspoons.**. Each branch gave 2 teaspoons. There are 10 branches. 10 groups of 2 is 20. So the tree might give about 20 teaspoons in one hour. A big forest tree has many more branches, so they give much more. (queues `math.multiplication.equal-groups.L3`)
 - In the Square Metre Safari, the lawn square had these kinds of living things: 2 kinds of grass, 2 kinds of small plants, 1 kind of ant and 1 kind of spider. The square under a tree had 14 kinds. How many more kinds were under the tree? **8 more kinds.**. First add the lawn: 2 + 2 + 1 + 1 = 6 kinds. Then find the difference: 14 take away 6 is 8. So the square under the tree had 8 more kinds of living things. (queues `math.data.sorting-and-tallies.L3`)
 - In the Habitat Corner diary, these visits were seen at the water bowl in two weeks: crows 6, bulbuls 4, sparrows 3, bees 8. Make a pictograph where one picture stands for 2 visits. How many pictures does each row need? **Crows 3 pictures, bulbuls 2, sparrows 1 and a half, bees 4.**. Each picture means 2 visits. Crows: 6 divided by 2 is 3. Bulbuls: 4 divided by 2 is 2. Sparrows: 3 is one 2 and one more, so 1 whole picture and a half picture. Bees: 8 divided by 2 is 4. (queues `math.data.pictographs.L3`)
 

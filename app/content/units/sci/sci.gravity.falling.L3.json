@@ -993,197 +993,147 @@
    "items": [
     {
      "t": "mcq",
-     "p": "What is gravity?",
+     "p": "Many people think gravity pulls only on heavy things. Kavya lets go of a feather, and the feather drifts slowly down. What does that show?",
      "opts": [
-      "A force that attracts things with mass towards each other",
-      "A push from the air",
-      "Something that only happens on Earth",
-      "The wind blowing things down"
+      "Gravity pulls the feather too. The air just slows the feather down",
+      "Gravity does not pull feathers. The wind pushes them down",
+      "Feathers are pulled up, not down",
+      "Only heavy things ever fall"
      ],
      "a": 0,
-     "why": "Gravity is the force that attracts things with mass towards each other. The Earth's gravity is the one we feel most. Picking 'a push from the air' mixes gravity up with air resistance, which actually pushes up on falling things. Picking 'only on Earth' misses that the Moon, the Sun and the stars have gravity too.",
-     "art": "A mango falling from a tree with a soft arrow pointing down."
+     "why": "The feather does come down, so something pulls it down. That is gravity, which pulls on everything with mass. The air pushes up on the wide, soft feather, so it falls slowly. Picking 'the wind' is a fair guess, but a feather falls indoors too, where there is no wind."
+    },
+    {
+     "t": "draw",
+     "p": "Draw the round Earth with four people standing on it: one on top, one at the bottom and one on each side. Draw an arrow from each person to show which way is down for them.",
+     "a": "Four people round a circle, each with their feet on the Earth. Four arrows, all pointing to the middle of the circle.",
+     "why": "Down always means towards the middle of the Earth, wherever you stand. Nobody on the Earth is really upside down.",
+     "how": "a4"
     },
     {
      "t": "mcq",
-     "p": "A girl stands in Argentina, on the other side of the Earth from India. Which way is down for her?",
+     "p": "Lakshmi lives in Chennai. Her pen friend Sofia lives in Argentina, on the other side of the Earth. Why does Sofia not fall off into space?",
      "opts": [
-      "Towards the middle of the Earth",
-      "Towards India",
-      "Towards the bottom of space"
+      "Gravity pulls Sofia towards the middle of the Earth, just as it pulls Lakshmi",
+      "Sofia holds on to the ground",
+      "Gravity only works in India",
+      "The air presses Sofia down"
      ],
      "a": 0,
-     "why": "Down always means towards the middle of the Earth. For her, that points almost the opposite way from ours. Picking 'the bottom of space' means picturing space with a floor, like a page. Space has no bottom.",
-     "art": "A round Earth with a girl standing at the bottom and an arrow pointing to the centre."
+     "why": "For both girls, down means towards the middle of the Earth. So Sofia stands on the ground just as Lakshmi does. Picking 'the air presses her down' is a common idea, but the air presses equally from all sides.",
+     "how": "a4",
+     "context": "Argentina is a country in South America. It is almost exactly on the opposite side of the Earth from India."
     },
     {
      "t": "mcq",
-     "p": "You drop a full water bottle and a bottle with only a little water together, from the same height. What happens?",
+     "p": "Before the Drop Race, Meenakshi holds a full water bottle and an almost empty one. The full one feels much heavier. She lets them fall together from the same height. What should she expect to hear?",
      "opts": [
-      "The full one lands first",
-      "They land together",
-      "The one with a little water lands first"
+      "One thud, because they land together",
+      "Two thuds: the full bottle first",
+      "Two thuds: the light bottle first",
+      "No thud, because the light one floats"
      ],
-     "a": 1,
-     "why": "They land together. The Earth pulls the full one harder, but the full one also needs a bigger pull to speed up. The two match exactly. Picking 'the full one first' is the old idea of Aristotle. Most people guess it until they test it.",
+     "a": 0,
+     "why": "The bottles have the same shape, so the air slows them about the same. Without much air in the way, heavy and light things fall together. Picking 'the full bottle first' is what most people guess. The test is there to check that guess.",
      "how": "e1",
-     "context": "In the Drop Race, you lay a heavy thing and a light thing on a book. Then you pull the book away and listen. One thud means they landed together."
+     "context": "In the Drop Race, you lay a heavy thing and a light thing on a book. Then you pull the book away fast and listen. One thud means they landed together."
     },
     {
-     "t": "fill",
-     "p": "The push of the air on a falling thing is called air ____.",
-     "a": [
-      "resistance"
-     ],
-     "why": "Air resistance slows light, spread-out things like feathers and flat paper. It hardly slows heavy, compact things like stones."
+     "t": "write",
+     "p": "In the Drop Race, we lay both bottles on a book and pull the book away. Why not just hold one bottle in each hand and let go?",
+     "lines": 3,
+     "a": "A strong answer says that two hands may not let go at exactly the same moment. Then one bottle gets a head start, and the test is not fair. The book lets both bottles go at the same instant.",
+     "why": "A fair test changes only one thing: here, how heavy the bottle is. Everything else, like the start, must be the same.",
+     "how": "e1",
+     "context": "In the Drop Race, you lay a heavy thing and a light thing on a book. Then you pull the book away fast and listen. One thud means they landed together."
     },
     {
      "t": "mcq",
-     "p": "A flat sheet of paper and a crumpled sheet weigh the same. Which lands first?",
+     "p": "Divya drops a flat sheet of paper and a crumpled sheet of the same paper together. The crumpled one lands first. What was different about the two sheets?",
      "opts": [
-      "The flat sheet",
-      "The crumpled sheet",
-      "They land together, because they weigh the same"
+      "Only their shape. The air pushed much less on the crumpled ball",
+      "The crumpled one was heavier",
+      "Gravity pulls crumpled paper harder",
+      "The flat one was a different kind of paper"
      ],
-     "a": 1,
-     "why": "The crumpled sheet lands first. The flat sheet has to push much more air out of the way, so the air slows it more. Picking 'together, because they weigh the same' is a clever idea. It would be true with no air. Here the air makes the difference.",
+     "a": 0,
+     "why": "Crumpling does not add any paper, so both weigh the same. Only the shape changed. A crumpled ball pushes through less air, so the air slows it less. Picking 'heavier' is a common guess, but no paper was added.",
      "how": "e2",
      "context": "In Paper That Falls Like a Stone, you drop a flat sheet of paper and a crumpled sheet. Then you drop a sheet lying on top of a book."
     },
     {
+     "t": "fill",
+     "p": "When something falls, the air pushes back against it. This push is called air ____.",
+     "a": [
+      "resistance"
+     ],
+     "why": "Air is made of tiny particles. A falling thing has to push them out of the way, and they push back. That push is air resistance."
+    },
+    {
      "t": "truefalse",
-     "p": "On the Moon, where there is no air, a hammer and a feather dropped together land together.",
+     "p": "In 1971, an astronaut on the Moon, where there is no air, dropped a hammer and a feather at the same moment. They landed together.",
      "a": true,
-     "why": "True. Astronaut David Scott did this in 1971, and the camera showed both landing at the same moment. With no air, nothing slows the feather."
-    },
-    {
-     "t": "truefalse",
-     "p": "Gravity only pulls on heavy things.",
-     "a": false,
-     "why": "False. Gravity pulls on everything that has mass, even a feather or a speck of dust. It pulls heavy things harder, but they are also harder to get moving."
-    },
-    {
-     "t": "mcq",
-     "p": "Why does a parachute fall slowly?",
-     "opts": [
-      "It catches lots of air, and the air pushes up on it",
-      "It switches off gravity",
-      "It is lighter than air"
-     ],
-     "a": 0,
-     "why": "A parachute is big and light. It catches lots of air, and the air pushes up on it. Gravity still pulls just as hard. Picking 'switches off gravity' is a common idea. But the parachute still comes down, so gravity is still there."
-    },
-    {
-     "t": "match",
-     "p": "Match each person to what they did.",
-     "a": "pairs as given",
-     "why": "Aristotle had the old idea. Galileo showed it was wrong. David Scott tested it on the Moon.",
-     "pairs": [
-      [
-       "Aristotle, about 2,350 years ago",
-       "said heavy things fall faster"
-      ],
-      [
-       "Galileo, about 400 years ago",
-       "showed heavy and light things fall together"
-      ],
-      [
-       "David Scott, in 1971",
-       "dropped a hammer and a feather on the Moon"
-      ]
-     ],
-     "context": "This question is about three people from the history of falling."
+     "why": "True. The astronaut was David Scott, and it was filmed. With no air to push up on the feather, nothing slowed it, so it fell just as fast as the hammer."
     },
     {
      "t": "sort",
-     "p": "Sort these falling things. Does the air slow them a LOT or hardly at all?",
-     "a": "see items",
-     "why": "Light, spread-out things are slowed a lot. Heavy, compact things are hardly slowed at all.",
+     "p": "Sort these falling things. Does the air slow them a lot, or hardly at all?",
      "cats": [
       "Slowed a lot by the air",
       "Hardly slowed by the air"
      ],
      "items": [
       [
-       "a feather",
+       "a peacock feather",
        "Slowed a lot by the air"
       ],
       [
-       "a stone",
+       "a coconut",
        "Hardly slowed by the air"
       ],
       [
-       "a flat sheet of paper",
+       "an open umbrella",
        "Slowed a lot by the air"
       ],
       [
-       "a cricket ball",
+       "a steel tumbler",
        "Hardly slowed by the air"
       ],
       [
-       "a fluffy semal seed",
+       "a dry leaf",
        "Slowed a lot by the air"
       ],
       [
-       "a steel spoon",
+       "a marble",
        "Hardly slowed by the air"
       ]
-     ]
+     ],
+     "a": "see items",
+     "why": "Light, spread-out things push against a lot of air for their weight, so they are slowed a lot. Heavy, compact things are hardly slowed."
     },
     {
      "t": "mcq",
-     "p": "A falling ball goes...",
+     "p": "Why does a parachute make a toy fall slowly?",
      "opts": [
-      "at the same speed all the way down",
-      "faster and faster as it falls",
-      "slower and slower as it falls"
+      "The wide parachute pushes against lots of air, and the air pushes up on it",
+      "The parachute switches off gravity",
+      "The parachute is lighter than air",
+      "The parachute makes the toy lighter"
      ],
-     "a": 1,
-     "why": "A falling ball speeds up as it falls. Without air, it goes about 10 metres a second faster every second. Picking 'the same speed' means picturing a fall as steady, like walking. Drop a ball from a step and from a balcony. The higher one hits much harder."
-    },
-    {
-     "t": "fill",
-     "p": "A weight hanging on a string, used by builders to find which way is down, is called a ____ line.",
-     "a": [
-      "plumb"
-     ],
-     "why": "A plumb line always hangs straight down, towards the middle of the Earth. Builders use it to make walls straight."
-    },
-    {
-     "t": "mcq",
-     "p": "Why do astronauts float in the space station?",
-     "opts": [
-      "There is no gravity in space",
-      "They and the station are falling round the Earth together",
-      "They are lighter than air"
-     ],
-     "a": 1,
-     "why": "Gravity up there is still about 9 tenths as strong as on the ground. But the astronauts and the station fall together, so nothing pushes on their feet. Picking 'no gravity in space' is the most common answer of all. It is not true. Gravity even holds the Moon in place, much further away.",
-     "art": "Astronauts floating inside the space station, the Earth below."
-    },
-    {
-     "t": "truefalse",
-     "p": "You pull on the Earth, just as the Earth pulls on you.",
-     "a": true,
-     "why": "True. Everything pulls everything. You pull the Earth just as hard as it pulls you. The Earth hardly moves because it has so much more mass than you."
-    },
-    {
-     "t": "write",
-     "p": "Why does a feather fall more slowly than a stone? Use the word air in your answer.",
-     "a": "The feather is light and spread out, so the air pushes up on it a lot and slows it down. The stone is heavy and compact, so the air hardly slows it. Without air, they would land together.",
-     "why": "The air, not the lightness, is what slows the feather.",
-     "lines": 3
-    },
-    {
-     "t": "draw",
-     "p": "Draw the round Earth with four people standing on it: top, bottom and both sides. Draw an arrow from each person to show which way is down.",
-     "a": "Four people round a circle, each standing with feet on the Earth, and four arrows all pointing to the middle of the circle.",
-     "why": "Down always points towards the middle of the Earth, from wherever you stand.",
-     "art": "A blank circle for the Earth."
+     "a": 0,
+     "why": "Gravity still pulls the toy down. But the wide parachute has to push a lot of air out of the way, and the air pushes back up. Picking 'switches off gravity' misses that the toy still comes down, just slowly.",
+     "how": "e3"
     },
     {
      "t": "forces",
-     "p": "A stone is falling through the air. Show the forces on it. (It is heavy, so the air's push is small.)",
+     "p": "A stone is falling through the air. Show the forces on it. The stone is heavy, so the air's push is small.",
+     "obj": "a stone falling through the air",
+     "options": [
+      "gravity",
+      "air resistance",
+      "push",
+      "floor pushes up"
+     ],
      "a": [
       {
        "name": "gravity",
@@ -1194,14 +1144,69 @@
        "dir": "up"
       }
      ],
-     "why": "Gravity pulls the stone down. The air pushes up on it a little as it falls. For a heavy stone, the air's push is small compared with gravity.",
-     "obj": "a stone falling through the air",
-     "options": [
-      "gravity",
-      "air resistance",
-      "push",
-      "floor pushes up"
-     ]
+     "why": "Gravity pulls the stone down. The air pushes up on it a little as it falls. For a heavy stone, the air's push is small compared with gravity."
+    },
+    {
+     "t": "mcq",
+     "p": "Anjali drops a ball from a balcony. When is the ball moving fastest?",
+     "opts": [
+      "Just before it lands",
+      "Just after she lets go",
+      "Halfway down",
+      "It moves at the same speed all the way"
+     ],
+     "a": 0,
+     "why": "Gravity keeps pulling the whole way down, so the ball keeps speeding up. It is fastest at the very end. That is why a fall from higher up hurts more. Picking 'the same speed all the way' is a common first guess."
+    },
+    {
+     "t": "fill",
+     "p": "A mason in Hyderabad hangs a small stone on a string beside a new wall, to check the wall is straight up. The string always points towards the middle of the ____.",
+     "a": [
+      "Earth",
+      "earth"
+     ],
+     "why": "Gravity pulls the stone towards the middle of the Earth, so the string shows exactly which way is down. Builders call this a plumb line."
+    },
+    {
+     "t": "write",
+     "p": "Why does a feather fall more slowly than a stone? Use the word air in your answer.",
+     "lines": 3,
+     "a": "A strong answer says the feather is light and spread out, so the air pushes up on it a lot and slows it down. The stone is heavy and compact, so the air hardly slows it. Without air, as on the Moon, they would land together.",
+     "why": "The difference comes from the air, not from gravity pulling the feather less."
+    },
+    {
+     "t": "order",
+     "p": "These four things are dropped together from a balcony. Put them in order, from the one the air slows least to the one it slows most: a flat sheet of paper, a steel spoon, a crumpled paper ball, a fluffy feather.",
+     "items": [
+      "a steel spoon",
+      "a crumpled paper ball",
+      "a flat sheet of paper",
+      "a fluffy feather"
+     ],
+     "a": "order shown",
+     "why": "The spoon is heavy and compact. The paper ball is light but compact. The flat sheet is light and spread out. The feather has the most fluff for its tiny weight, so the air slows it most."
+    },
+    {
+     "t": "perspective",
+     "p": "Is it true that heavy things fall faster? Three people in Kochi give different answers.",
+     "views": [
+      {
+       "who": "Paati, a grandmother who grows coconuts",
+       "says": "Yes, in real life. A coconut falls much faster than a leaf. That is what matters when you walk under a tree."
+      },
+      {
+       "who": "Dr Revathi, a scientist",
+       "says": "No. Without air, everything falls together, like the hammer and feather on the Moon. The air makes the difference, not the weight."
+      },
+      {
+       "who": "Meera, a cricket coach",
+       "says": "It depends on the shape. A cricket ball and a tennis ball are nearly the same size, and they land almost together. A leaf is a different story."
+      }
+     ],
+     "ask": "Who do you agree with most? Use evidence from the Drop Race or the paper test. Then say one fair point from someone else.",
+     "lines": 5,
+     "a": "A strong answer picks a view and uses a test: the two bottles landed together, and the crumpled paper beat the flat paper though they weigh the same. It answers back fairly, for example that Paati is right about real coconuts and leaves, because there is air on Earth.",
+     "why": "All three are partly right. Gravity makes everything fall together, but in air, light and spread-out things are slowed. Knowing why is what matters."
     }
    ]
   },
@@ -1213,14 +1218,15 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Look at the chart from the Parachute Test. Which parachute fell most slowly?",
+     "p": "Look at these Parachute Test results. Priya says, 'The bigger the parachute, the slower it falls.' Do the results agree with her?",
      "opts": [
-      "Small",
-      "Medium",
-      "Large"
+      "Yes. Each bigger parachute took longer to fall",
+      "No. The small one was slowest",
+      "No. They all took the same time",
+      "We cannot tell anything from these results"
      ],
-     "a": 2,
-     "why": "The large parachute took 5 seconds, the longest. It catches the most air. Picking 'small' usually means reading a short bar as 'slow'. Here a taller bar means a longer fall, so a slower one.",
+     "a": 0,
+     "why": "Small took 2 seconds, medium 3 seconds and large 5 seconds. Each bigger one took longer, so it fell more slowly. A taller bar here means a longer, slower fall. Picking 'the small one' comes from reading a short bar as slow.",
      "how": "e3",
      "chart": {
       "type": "bar",
@@ -1248,74 +1254,65 @@
      "context": "In the Parachute Test, you make three plastic-bag parachutes, small, medium and large, with the same load. You time how long each takes to fall."
     },
     {
-     "t": "fill",
-     "p": "In the Parachute Test, the large parachute took 5 seconds and the small one took 2 seconds. The large one took ____ seconds longer.",
-     "a": [
-      "3",
-      "three"
-     ],
-     "why": "5 take away 2 is 3. So the large parachute took 3 seconds longer to fall.",
+     "t": "write",
+     "p": "In the Parachute Test, all three parachutes carry the same load and are dropped from the same height. Why does that matter?",
+     "lines": 3,
+     "a": "A strong answer says it makes the test fair. If only the size of the parachute changes, any difference in time must come from the size. If the loads or heights were different, you would not know which one caused the change.",
+     "why": "A fair test changes only one thing at a time.",
      "how": "e3",
-     "chart": {
-      "type": "bar",
-      "title": "Made-up results: how long each parachute took to fall",
-      "x": "Parachute size",
-      "y": "Middle time (seconds)",
-      "data": [
-       {
-        "label": "Small (20 cm)",
-        "value": 2,
-        "emoji": "🪂"
-       },
-       {
-        "label": "Medium (30 cm)",
-        "value": 3,
-        "emoji": "🪂"
-       },
-       {
-        "label": "Large (40 cm)",
-        "value": 5,
-        "emoji": "🪂"
-       }
-      ]
-     },
+     "context": "In the Parachute Test, you make three plastic-bag parachutes, small, medium and large, with the same load. You time how long each takes to fall."
+    },
+    {
+     "t": "forces",
+     "p": "A small parachute with a toy is falling slowly at a steady speed. Show the forces on it.",
+     "obj": "a parachute falling at a steady speed",
+     "options": [
+      "gravity",
+      "air resistance",
+      "push",
+      "floor pushes up"
+     ],
+     "a": [
+      {
+       "name": "gravity",
+       "dir": "down",
+       "size": "equal"
+      },
+      {
+       "name": "air resistance",
+       "dir": "up",
+       "size": "equal"
+      }
+     ],
+     "why": "Gravity pulls the parachute down. The air pushes up on it. When it falls at a steady speed, the two forces are equal, so it no longer speeds up.",
+     "how": "e3",
      "context": "In the Parachute Test, you make three plastic-bag parachutes, small, medium and large, with the same load. You time how long each takes to fall."
     },
     {
      "t": "mcq",
-     "p": "Why did the paper lying on top of the book fall with the book, instead of floating off?",
+     "p": "In the paper test, a sheet of paper lying on top of a book falls with the book, instead of floating off. Why?",
      "opts": [
-      "The book cleared the air out of the way, so the air didn't push on the paper",
-      "The paper stuck to the book",
-      "The book's gravity pulled the paper down"
+      "The book clears the air out of the way, so the air cannot push up on the paper",
+      "The paper sticks to the book",
+      "The book's gravity pulls the paper down",
+      "The book makes the paper heavier"
      ],
      "a": 0,
-     "why": "The book went first and pushed the air aside. With no air pushing up on it, the paper fell just like the book. Picking 'the book's gravity' is a clever thought. The book does pull the paper, but far too weakly to matter. It is the air that changed.",
+     "why": "Underneath, the book pushes the air aside, so nothing pushes up on the paper. Without the air's push, light paper falls as fast as a heavy book. Picking 'the book's gravity' is a clever guess, but the book's pull is far too tiny to notice.",
      "how": "e2",
      "context": "In Paper That Falls Like a Stone, you drop a flat sheet of paper and a crumpled sheet. Then you drop a sheet lying on top of a book."
     },
     {
      "t": "mcq",
-     "p": "Galileo imagined tying a heavy stone and a light stone together. If heavy things fell faster, what would go wrong?",
+     "p": "Look at these results from Galileo's Ramp. After 1 beat the marble had rolled 10 cm, after 2 beats 40 cm, after 3 beats 90 cm, after 4 beats 160 cm. If the pattern goes on, how far will it have rolled after 5 beats?",
      "opts": [
-      "The pair would have to fall both faster and slower at once",
-      "The string would break",
-      "Nothing would go wrong"
+      "250 cm",
+      "200 cm",
+      "170 cm",
+      "50 cm"
      ],
      "a": 0,
-     "why": "The light stone should slow the heavy one down. But the pair is heavier, so it should be faster. It cannot be both. So heavy things cannot fall faster. Picking 'the string would break' is a fun thought, but the puzzle is about speeds, not strings.",
-     "context": "Aristotle said heavy things fall faster. Galileo showed he was wrong with a thought experiment, an experiment done only in your head."
-    },
-    {
-     "t": "mcq",
-     "p": "Look at the chart from Galileo's Ramp. The marble went 10 cm in the first beat. How far had it gone after 2 beats?",
-     "opts": [
-      "20 cm",
-      "40 cm",
-      "10 cm"
-     ],
-     "a": 1,
-     "why": "After 2 beats it had gone 40 cm, not 20 cm. The marble speeds up, so it covers more ground in each beat. Picking 20 cm means expecting a steady speed, 10 cm every beat.",
+     "why": "The distances go 1, 4, 9, 16 times 10 cm. These are the square numbers: 1 × 1, 2 × 2, 3 × 3, 4 × 4. Next is 5 × 5 = 25, so 250 cm. Picking 200 cm means adding the same 40 cm each beat, but the marble keeps speeding up.",
      "how": "p1",
      "chart": {
       "type": "line",
@@ -1348,67 +1345,146 @@
      "context": "In Galileo's Ramp, a marble rolls down a long gentle ramp. You mark where it is on each beat."
     },
     {
-     "t": "order",
-     "p": "Four things are dropped from a balcony. Put them in order, from FASTEST to SLOWEST. They are a fluffy semal seed, a cricket ball, a flat sheet of paper and a crumpled paper ball.",
-     "a": "order shown",
-     "why": "The cricket ball is heavy and compact, so the air hardly slows it. The crumpled paper ball is light but compact, so the air slows it a little. The flat sheet is light and spread out, so the air slows it a lot. The fluffy seed has the most fluff for such a tiny weight, so the seed drifts down slowest.",
-     "items": [
-      "a cricket ball",
-      "a crumpled paper ball",
-      "a flat sheet of paper",
-      "a fluffy semal seed"
-     ]
+     "t": "write",
+     "p": "Galileo wanted to find out how falling things speed up. Why did he roll balls down a gentle ramp, instead of just dropping them?",
+     "lines": 3,
+     "a": "A strong answer says falling is too fast to measure without a good clock. A gentle ramp slows the speeding up, but it keeps the same pattern. So Galileo could time it and mark where the ball was.",
+     "why": "Slowing something down without changing its pattern is a clever way to study it. Galileo timed the rolls with a water clock.",
+     "how": "p1",
+     "context": "In Galileo's Ramp, a marble rolls down a long gentle ramp. You mark where it is on each beat."
     },
     {
      "t": "mcq",
-     "p": "In the Falling Ruler test, Ali caught the ruler after it fell 20 cm. Meera caught it after 10 cm. Who was quicker?",
+     "p": "In the Falling Ruler test, Sowmya catches the ruler after it falls 10 cm. Her brother Karthik catches it after 20 cm. Karthik says, 'I win, my number is bigger.' Who was really quicker?",
      "opts": [
-      "Meera, because the ruler had less time to fall",
-      "Ali, because his number is bigger",
-      "Neither, because the ruler fell differently each time"
+      "Sowmya, because the ruler had less time to fall before she caught it",
+      "Karthik, because his number is bigger",
+      "Neither, because the ruler falls differently each time"
      ],
      "a": 0,
-     "why": "The ruler falls in the same way every time, so a shorter fall means a quicker catch. 20 cm takes about two tenths of a second. 10 cm takes less, about one and a half tenths. Picking 'Ali' means reading a bigger number as better. Here a smaller number is better.",
+     "why": "A falling ruler keeps speeding up, so a bigger number means more time passed before the catch. Sowmya stopped it sooner. Karthik's mistake is thinking a bigger number is always better.",
      "how": "e4",
-     "context": "In the Falling Ruler test, a helper drops a ruler between your open fingers, and you catch it. The number at your thumb shows how far it fell."
+     "context": "In the Falling Ruler test, a helper drops a ruler between your open fingers, without warning. You read the number where you caught it."
     },
     {
      "t": "truefalse",
-     "p": "There is no gravity at the space station, about 400 kilometres up.",
-     "a": false,
-     "why": "False. Gravity there is still about 9 tenths as strong as on the ground. The astronauts float because they are falling round the Earth with the station."
+     "p": "When you jump, the Earth pulls you down, and you also pull the Earth up towards you, just as hard.",
+     "a": true,
+     "why": "True. Every pull between two things is shared. But the Earth has so much more mass than you that it moves far too little to notice."
     },
     {
      "t": "mcq",
-     "p": "In the space blanket, you tried a heavy ball and a light ball. Which ball made the deeper dent?",
+     "p": "In the space blanket, you swap the heavy ball in the middle for a light ball. What happens to the marbles you roll past?",
      "opts": [
-      "The heavy ball",
-      "The light ball",
-      "They both made the same dent"
+      "They curve in less, because the light ball makes a shallower dent",
+      "They curve in more",
+      "They curve in just the same",
+      "They roll away from the ball"
      ],
      "a": 0,
-     "why": "The heavy ball made the deeper dent. In Einstein's picture, more mass bends space-time more, so its gravity is stronger. Picking 'the same dent' would mean all masses have the same gravity. But bigger masses have much stronger gravity.",
+     "why": "Less mass makes a smaller dent, so the marbles are bent less. In Einstein's picture, more mass bends space more, so its pull is stronger.",
      "how": "a2",
      "context": "In the space blanket, you stretch a sheet and put a heavy ball in the middle. Then you roll marbles past the dent it makes."
     },
     {
      "t": "mcq",
-     "p": "In the space blanket, you rolled a marble fast and sideways round the heavy ball. It went round a few times before falling in. What is this like in space?",
+     "p": "In the space blanket, a marble rolled fast and sideways goes round the heavy ball a few times. What is this like in space?",
      "opts": [
-      "The Moon orbiting the Earth",
+      "The Moon going round the Earth",
       "A stone dropping into a well",
-      "A balloon floating away"
+      "A balloon floating away",
+      "A rocket taking off"
      ],
      "a": 0,
-     "why": "The Moon is moving sideways very fast. As it falls towards the Earth, it keeps missing. That is an orbit. The marble on the blanket slows down and falls in, because the sheet rubs it. In space there is nothing to rub, so the Moon keeps going.",
+     "why": "The Moon is always falling towards the Earth. But it moves sideways so fast that it keeps missing. Scientists call this an orbit. The marble only stops because the sheet rubs it and slows it down.",
      "how": "a2",
      "context": "In the space blanket, you stretch a sheet and put a heavy ball in the middle. Then you roll marbles past the dent it makes."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these. Is each one a true fact about falling, or a myth?",
+     "cats": [
+      "True fact",
+      "Myth"
+     ],
+     "items": [
+      [
+       "Without air, a feather and a coin fall together",
+       "True fact"
+      ],
+      [
+       "Astronauts float because space has no gravity",
+       "Myth"
+      ],
+      [
+       "A heavier stone is pulled harder by the Earth",
+       "True fact"
+      ],
+      [
+       "Crumpled paper falls faster because it is heavier",
+       "Myth"
+      ],
+      [
+       "A falling ball keeps speeding up",
+       "True fact"
+      ],
+      [
+       "A parachute switches gravity off",
+       "Myth"
+      ]
+     ],
+     "a": "see items",
+     "why": "The myths are common, even in some books. The facts have been tested, many of them in this unit."
+    },
+    {
+     "t": "write",
+     "p": "Your cousin Arjun says, 'Heavy things fall faster. I dropped a stone and a leaf, and the stone won.' Which test from this unit would you show him? Say what it proves.",
+     "lines": 4,
+     "a": "A strong answer picks a test that changes only one thing. For example, a flat and a crumpled sheet weigh the same, but the crumpled one wins, so shape and air matter, not weight. Or two bottles of different weight but the same shape land together.",
+     "why": "Arjun's test changed two things at once: the weight and the shape. A good test changes only one."
+    },
+    {
+     "t": "perspective",
+     "p": "In the Egg Lander challenge, an egg in a lander is dropped from about 2 metres. Three friends in Mysuru each have a plan to keep the egg safe.",
+     "views": [
+      {
+       "who": "Kavya",
+       "says": "Use the biggest parachute you can make. It catches the most air, so the lander falls slowest."
+      },
+      {
+       "who": "Farzana",
+       "says": "Forget the parachute. Pack lots of crumpled paper and straws round the egg, so the landing is soft."
+      },
+      {
+       "who": "Selvi",
+       "says": "Use a small parachute and a little padding. A big parachute can tip over and land the egg on its side."
+      }
+     ],
+     "ask": "Which plan would you choose? Explain using air resistance or a soft landing. Then answer back from another friend's side.",
+     "lines": 5,
+     "a": "A strong answer picks a plan and gives a reason: a big parachute makes the air push up more, so the lander hits the ground slower, and padding makes the stop gentler. It answers back fairly, for example that padding adds weight, or that a big parachute can drift or tip.",
+     "why": "Real landers for Mars and the Moon use both: parachutes or rockets to slow down, and legs or airbags to soften the bump. There is no one best plan.",
+     "how": "c1"
+    },
+    {
+     "t": "write",
+     "p": "Aristotle, a famous Greek thinker, said heavy things fall faster. People believed him for about 1,900 years before testing it carefully. Why do you think that was?",
+     "lines": 3,
+     "a": "Any thoughtful answer with a reason. For example: he was very famous, so people trusted him. A stone really does beat a leaf, so the idea seemed right. Few people thought of a fair test that changes only one thing.",
+     "why": "There is no single right answer. Even clever people can be wrong, which is why we test ideas."
+    },
+    {
+     "t": "fill",
+     "p": "A stone is dropped from a high cliff, with little air in the way. After 1 second it has fallen about 5 metres. After 2 seconds it has fallen about ____ metres.",
+     "a": [
+      "20",
+      "twenty"
+     ],
+     "why": "It is not 10 metres, because the stone keeps speeding up. The pattern is like Galileo's Ramp: 1, 4, 9 times as far. 4 times 5 metres is 20 metres."
     },
     {
      "t": "match",
      "p": "Match each word to its meaning.",
-     "a": "pairs as given",
-     "why": "These are four key words from this unit.",
      "pairs": [
       [
        "vacuum",
@@ -1423,99 +1499,12 @@
        "falling round something and always missing"
       ],
       [
-       "escape speed",
-       "how fast you must go to leave a planet for ever"
+       "terminal speed",
+       "the steady speed when the air's push matches gravity"
       ]
-     ]
-    },
-    {
-     "t": "mcq",
-     "p": "You pulled a dupatta tied to a closed door, and nothing moved. The door pulled back just as hard as you did. Who got tired?",
-     "opts": [
-      "Only you. The door held the force without using up energy",
-      "Only the door",
-      "You and the door, just the same"
      ],
-     "a": 0,
-     "why": "Holding something still takes a force, but it does not use up energy. Your muscles use energy just to stay tight, so you get tired. Picking 'you and the door' is a fair guess, because the forces were equal. But the energy was used inside your muscles, not by the force itself. The Earth's gravity keeps hold of the Moon in the same tireless way.",
-     "how": "a3",
-     "context": "In A Force That Never Gets Tired, you hold a bag still, hang it on a door handle, and pull a dupatta tied to a door."
-    },
-    {
-     "t": "sort",
-     "p": "Sort these. Is it a TRUE fact about gravity, or a MYTH?",
-     "a": "see items",
-     "why": "The myths are very common, even in some books. The facts have been tested.",
-     "cats": [
-      "True fact",
-      "Myth"
-     ],
-     "items": [
-      [
-       "Heavy and light things fall together without air",
-       "True fact"
-      ],
-      [
-       "There is no gravity in space",
-       "Myth"
-      ],
-      [
-       "An apple hit Newton on the head",
-       "Myth"
-      ],
-      [
-       "You pull the Earth as hard as it pulls you",
-       "True fact"
-      ],
-      [
-       "Heavy things fall faster in a vacuum",
-       "Myth"
-      ],
-      [
-       "Gravity bends light",
-       "True fact"
-      ]
-     ]
-    },
-    {
-     "t": "write",
-     "p": "Your friend says, 'Heavy things fall faster. I dropped a stone and a leaf, and the stone won.' What test would you show your friend? Explain what it proves.",
-     "a": "I would drop a flat paper and a crumpled paper, which weigh the same. The crumpled one wins. So it is the shape and the air, not the weight. Then I would drop a full bottle and a bottle with a little water together. They land together.",
-     "why": "A good answer changes only one thing at a time. It shows that the air, not the weight, slowed the leaf.",
-     "lines": 4
-    },
-    {
-     "t": "write",
-     "p": "Why do you think people believed Aristotle for about 1,900 years without testing his idea?",
-     "a": "Any thoughtful answer. For example: he was very famous and clever, so people trusted him. Also, a stone really does beat a leaf, so the idea looked right. Few people thought to test it by changing only one thing at a time.",
-     "why": "There is no single right answer. What counts is a reason.",
-     "lines": 3
-    },
-    {
-     "t": "forces",
-     "p": "A small parachute with a toy is falling slowly at a steady speed. Show the forces on it.",
-     "a": [
-      {
-       "name": "gravity",
-       "dir": "down",
-       "size": "equal"
-      },
-      {
-       "name": "air resistance",
-       "dir": "up",
-       "size": "equal"
-      }
-     ],
-     "why": "Gravity pulls the parachute down. The air pushes up on it. When it falls at a steady speed, the two forces are equal and balanced.",
-     "obj": "a parachute falling at a steady speed",
-     "options": [
-      "gravity",
-      "air resistance",
-      "push",
-      "floor pushes up"
-     ],
-     "how": "e3",
-     "context": "In the Parachute Test, you make three plastic-bag parachutes, small, medium and large, with the same load. You time how long each takes to fall."
+     "a": "pairs as given",
+     "why": "These are four key words from this unit."
     }
    ]
   },
@@ -1527,185 +1516,166 @@
    "items": [
     {
      "t": "mcq",
-     "p": "If heavy things are pulled harder by gravity, why don't they fall faster?",
+     "p": "The Earth pulls a full bottle of water twice as hard as a half-full one. So why doesn't the full bottle fall faster?",
      "opts": [
-      "Heavy things are also harder to get moving, and the two balance exactly",
+      "The full bottle also has twice the mass, so it is twice as hard to speed up",
       "Gravity pulls everything with the same force",
-      "The air always balances it out"
+      "The air always balances it out",
+      "The full bottle does fall twice as fast"
      ],
      "a": 0,
-     "why": "The Earth does pull a heavy thing harder. But a heavy thing also needs a bigger push to speed up, like a full trolley. The two balance exactly. Picking 'the same force' is a common mix-up. The forces are different. Only the speeding up is the same."
+     "why": "Think of pushing a full trolley and an empty one. The full one needs a bigger push to speed up. The extra pull on the full bottle is used up exactly by its extra mass. So both speed up in the same way. Picking 'the same force' is a common mistake: the pull is bigger on the heavier bottle."
     },
     {
-     "t": "mcq",
-     "p": "Simon Stevin dropped two lead balls, one ten times heavier, from a church tower in 1586. What did he hear on the board below?",
-     "opts": [
-      "One sound, because they landed together",
-      "Two sounds, ten seconds apart",
-      "Two sounds, one second apart"
+     "t": "perspective",
+     "p": "Everyone now agrees that heavy and light things fall together, if the air does not get in the way. But who should get the credit? Historians argue about it.",
+     "views": [
+      {
+       "who": "A historian who backs John Philoponus",
+       "says": "He was a scholar in Alexandria, about 1,500 years ago. He dropped two weights, one many times heavier, and wrote that they landed almost together. Galileo read his book."
+      },
+      {
+       "who": "A historian who backs Simon Stevin",
+       "says": "In 1586, in Delft, in the Netherlands, he dropped two lead balls, one ten times heavier, from a church tower. He heard just one thud."
+      },
+      {
+       "who": "A historian who backs Galileo",
+       "says": "He gave the clearest argument, measured falling with ramps, and wrote books that the whole world read."
+      }
      ],
-     "a": 0,
-     "why": "The two thuds sounded as one. If Aristotle had been right, the light ball would have taken ten times as long. Picking 'ten seconds apart' is what Aristotle's rule predicts. The test showed it was wrong.",
-     "context": "Simon Stevin was a scientist and engineer in Delft, in the Netherlands. He tested falling about 50 years before Galileo's famous book."
-    },
-    {
-     "t": "mcq",
-     "p": "Why might Galileo get more credit than John Philoponus, who tested falling a thousand years earlier?",
-     "opts": [
-      "Galileo did experiments, did careful measuring with ramps, and wrote books many people read",
-      "Philoponus was wrong",
-      "Galileo was the first person ever to drop things"
-     ],
-     "a": 0,
-     "why": "Philoponus was right, but few people read his work for centuries. Galileo measured falling carefully and wrote famous books. Picking 'Galileo was first' is what many books suggest. He was not the first. Credit often goes to whoever is read most.",
-     "context": "John Philoponus was a scholar in Alexandria, Egypt, about 1,500 years ago. He wrote that heavy and light weights fall with only a very small difference in time."
+     "ask": "Who do you think deserves the most credit? Give a reason. Then answer back from another side.",
+     "lines": 5,
+     "a": "A strong answer picks a person and says what counts most: being first, doing a clear test, or explaining it so that everyone understood. It answers back fairly, for example that Galileo used Philoponus's idea, or that Philoponus's book went unread for a thousand years.",
+     "why": "There is no single right answer. Science is built by many people, and credit often goes to the one who explains it best, not always the first."
     },
     {
      "t": "truefalse",
-     "p": "Light has no mass, so gravity cannot bend it.",
+     "p": "Starlight passing close to the Sun goes perfectly straight, because light has no mass.",
      "a": false,
-     "why": "False. Gravity bends light. In 1919, starlight was seen bending as it passed near the Sun, during an eclipse. Einstein explained that light follows the bends in space-time."
+     "why": "False. Light has no mass, but it still follows the bends in space and time near a big mass. In 1919, astronomers photographed stars near the Sun during an eclipse. The stars looked shifted, as Einstein had predicted."
     },
     {
      "t": "mcq",
-     "p": "A very precise clock is put on a high shelf, and another on the floor. What happens over time?",
+     "p": "Two very exact clocks are set to the same time. One goes on a high shelf. One goes on the floor. After many years, which clock shows the later time?",
      "opts": [
-      "The shelf clock runs very slightly faster",
-      "The floor clock runs faster",
+      "The shelf clock, very slightly",
+      "The floor clock, very slightly",
       "They always stay exactly together"
      ],
      "a": 0,
-     "why": "Time runs slower closer to a big mass. The floor is closer to the Earth's middle, so its clock runs slower, and the shelf clock gets ahead. Scientists measured this in 2010 with clocks only 33 centimetres apart. Picking 'always together' is what everyone thought before Einstein."
+     "why": "Time runs a tiny bit slower closer to a big mass, like the Earth. So the floor clock ticks slower and falls behind. The difference is far too small to feel, but the best clocks can measure it. Picking 'exactly together' is what everyone thought before Einstein."
+    },
+    {
+     "t": "write",
+     "p": "GPS satellites, which help maps on phones, fly about 20,000 kilometres above the Earth. Their clocks run a little fast compared with clocks on the ground. What would happen to phone maps if engineers forgot about this?",
+     "lines": 4,
+     "a": "A strong answer says the satellites' clocks would slowly drift ahead of ground clocks. The maps use exact times to work out where you are. So the maps would get more and more wrong, by kilometres every day.",
+     "why": "Clocks higher up, further from the Earth's mass, really do run faster. Engineers allow for it every day."
     },
     {
      "t": "mcq",
-     "p": "How fast would you need to jump to leave the Earth for ever?",
+     "p": "How fast would you need to jump to leave the Earth for ever and never fall back?",
      "opts": [
       "About 11 kilometres every second",
       "About as fast as a good runner",
       "No speed is ever enough"
      ],
      "a": 0,
-     "why": "That is the escape speed of the Earth. It is far faster than a bullet. Rockets reach it by burning fuel. Picking 'no speed is enough' misses that spacecraft really have left the Earth, like India's Mangalyaan, which went to Mars.",
+     "why": "That is the Earth's escape speed, far faster than a bullet. Rockets reach it by burning fuel. Picking 'no speed is enough' misses that spacecraft really have left the Earth, like India's Mangalyaan, which went to Mars.",
      "how": "a1",
      "context": "In How High Can You Jump?, you measure your jumps and think about jumping off the Earth."
     },
     {
      "t": "mcq",
-     "p": "Why can a small magnet lift a paper clip against the pull of the whole Earth?",
+     "p": "A small magnet lifts a paper clip off the table, even though the whole Earth is pulling the clip down. What does that tell us?",
      "opts": [
-      "Gravity is a very weak force",
-      "Magnets block gravity",
-      "The paper clip has no mass"
+      "Gravity is a very weak force. It only feels strong because the Earth is so huge",
+      "Magnets switch gravity off",
+      "Paper clips have no mass",
+      "The magnet is heavier than the Earth"
      ],
      "a": 0,
-     "why": "Gravity is far weaker than magnetism. It only feels strong because the Earth is so huge. Why gravity is so weak is an unsolved mystery. Picking 'magnets block gravity' is a fair guess. But the clip still has weight while the magnet holds it.",
+     "why": "Magnetism is far stronger than gravity. Gravity feels strong only because the Earth has so much mass. Why gravity is so weak is still a mystery. Picking 'magnets switch gravity off' is a fair guess, but the clip still has weight while the magnet holds it.",
      "how": "a8",
      "context": "In A Magnet Beats the Whole Earth, you lift a steel paper clip off a table with a small magnet."
     },
     {
      "t": "write",
-     "p": "The space blanket used the Earth's gravity to make the dent. Why is that a problem, if we are using it to explain gravity?",
-     "a": "The model uses gravity to explain gravity, so it cannot explain where gravity comes from. Real space also bends in every direction at once, not just downwards like a sheet.",
-     "why": "Every model gets some things wrong. Spotting where is real scientific thinking.",
-     "lines": 3,
+     "p": "The space blanket makes a dent because the Earth's gravity pulls the heavy ball down. Why is that a problem, if we are using the blanket to explain gravity? Name one more way it is not like real space.",
+     "lines": 4,
+     "a": "A strong answer says the model uses gravity to explain gravity, so it cannot show where gravity comes from. It also says one more difference, for example that real space bends in every direction at once, not just downwards like a sheet, or that time bends too.",
+     "why": "Every model is useful and also wrong in some way. Knowing how a model is wrong is part of using it well.",
      "how": "a2",
      "context": "In the space blanket, you stretch a sheet and put a heavy ball in the middle. Then you roll marbles past the dent it makes."
     },
     {
      "t": "write",
-     "p": "Your arm got tired holding a bag still. A door handle held the same bag for an hour and never got tired. What does this tell you about forces, and about the Earth and the Moon?",
-     "a": "Holding something still needs a force, but it does not use up energy. My arm got tired because my muscles use energy just to stay tight. The Earth's gravity has kept the Moon going round it for billions of years without running down, like the door handle.",
-     "why": "A good answer says that holding needs a force but not energy, and links this to the Earth and the Moon.",
-     "lines": 3,
+     "p": "Your arm got tired holding a bag still. A door handle held the same bag for an hour and never got tired. What does this tell you about the Earth holding the Moon?",
+     "lines": 4,
+     "a": "A strong answer says holding something still needs a force, but a force does not use up energy by itself. My arm got tired because muscles use energy just to stay tight. The Earth's gravity has held the Moon for billions of years without running down.",
+     "why": "A force is a push or a pull. Gravity is a force that never gets tired.",
      "how": "a3",
-     "context": "In A Force That Never Gets Tired, you hold a bag of water bottles at arm's length, then hang it on a door handle."
+     "context": "In A Force That Never Gets Tired, you hold a bag still, then hang it on a door handle."
+    },
+    {
+     "t": "fill",
+     "p": "A bean seed is planted upside down in a jar. The seed sends a root out. Even upside down, the root turns and grows ____.",
+     "a": [
+      "down",
+      "downwards"
+     ],
+     "why": "Plants feel gravity. Heavy grains in the tip of the root settle to the lowest side, and the root grows that way. Charles Darwin and his son Francis studied this in 1880. How plants sense down is still being studied.",
+     "context": "Seeds sprout a root and a shoot. The unit on Weight and mass has a project where you watch a root find down."
     },
     {
      "t": "mcq",
-     "p": "A bean is planted upside down in a jar. Which way does the root grow?",
+     "p": "Many people think astronauts float because there is no gravity in space. But gravity at the space station is about 9 tenths as strong as on the ground. So why do astronauts float?",
      "opts": [
-      "Down, towards gravity",
-      "Up, the way the seed was pointing",
-      "Sideways"
+      "They and the station are falling round the Earth together, so nothing pushes on their feet",
+      "The station has a machine that switches gravity off",
+      "They are lighter than air",
+      "The Sun pulls them up"
      ],
      "a": 0,
-     "why": "Roots grow towards gravity, wherever the seed points. Most plant scientists think heavy grains of starch settle in the root tip and show it which way is down. Picking 'up' means expecting the root to follow the seed's direction. Roots follow gravity instead.",
-     "context": "Seeds sprout a root and a shoot. Charles Darwin and his son Francis studied which way roots grow. The unit on Weight and mass has a project where you watch it happen."
+     "why": "The station moves sideways so fast that it keeps falling round the Earth and missing it. The astronauts fall with it, so the floor never pushes on their feet. Picking 'no gravity' is the most common myth about space."
     },
     {
-     "t": "match",
-     "p": "Match each person to what they found.",
-     "a": "pairs as given",
-     "why": "These people each found a piece of the gravity story.",
-     "pairs": [
-      [
-       "Brahmagupta, 628 CE",
-       "wrote that the Earth attracts bodies"
-      ],
-      [
-       "Isaac Newton, 1687",
-       "showed the same pull drops apples and holds the Moon"
-      ],
-      [
-       "Henry Cavendish, 1798",
-       "measured the pull between lead balls"
-      ],
-      [
-       "Albert Einstein, 1915",
-       "said heavy things bend space and time"
-      ]
-     ]
+     "t": "write",
+     "p": "A grown-up makes small holes near the bottom of a plastic bottle full of water, and water squirts out. Then she drops the bottle. While it falls, the squirting stops. Explain why.",
+     "lines": 4,
+     "a": "A strong answer says the water and the bottle are falling together. The water no longer presses down on the bottom of the bottle, so it does not push out of the holes. It is the same reason astronauts float.",
+     "why": "Things falling together do not press on each other. Einstein called this idea the happiest thought of his life."
     },
     {
      "t": "mcq",
-     "p": "Some physicists think gravity is carried by tiny particles, as light is carried by photons. What are these tiny particles called?",
+     "p": "Imagine a tunnel straight through the Earth, with no air inside. A ball is dropped in. What happens?",
      "opts": [
-      "Gravitons",
-      "Electrons",
-      "Atoms"
+      "It speeds up to the middle, shoots past, just reaches the other side, then falls back",
+      "It stops at the middle and stays there",
+      "It falls out of the other side into space"
      ],
      "a": 0,
-     "why": "They are called gravitons. Nobody has ever found one, so we don't know if they exist. Picking 'electrons' or 'atoms' mixes them up with the building blocks of matter."
+     "why": "The ball speeds up all the way to the middle. Then it is moving so fast that it shoots past. After the middle, gravity pulls it back, so it slows and stops just as it reaches the other side. Then it swings back like a pendulum. Picking 'stops at the middle' forgets how fast it is going there.",
+     "context": "Nobody could really build this tunnel. It is a thought experiment, a test done only in your head."
+    },
+    {
+     "t": "write",
+     "p": "Vera Rubin, an American astronomer, found that stars at the edges of galaxies move too fast for what we can see. Scientists think an invisible 'dark matter' pulls on them. How can we know something is there if we can never see it?",
+     "lines": 3,
+     "a": "A thoughtful answer says we can see what it does. It pulls on stars, the way you cannot see the wind but can see leaves move. A strong answer may add that scientists still argue about what it is.",
+     "why": "There is no single right answer. Scientists still argue about dark matter."
     },
     {
      "t": "truefalse",
-     "p": "Scientists know exactly what gravity is, deep down.",
+     "p": "Scientists can land spacecraft on the Moon using gravity, so they know exactly what gravity is, deep down.",
      "a": false,
-     "why": "False. Scientists know how gravity behaves extremely well. But they do not know what it is deep down. They also do not know how it fits with quantum physics, the science of the very tiny."
-    },
-    {
-     "t": "mcq",
-     "p": "A ball is dropped down an imaginary tunnel right through the Earth, with no air. What happens?",
-     "opts": [
-      "It stops at the middle and stays there",
-      "It speeds up to the middle, shoots past, and just reaches the other side, then falls back",
-      "It falls out of the other side into space"
-     ],
-     "a": 1,
-     "why": "The ball speeds up all the way to the middle. Then it is moving so fast that it shoots past. After the middle, gravity pulls it back, so it slows down and stops just as it reaches the other side. Then it falls back, and swings to and fro like a pendulum. Picking 'stops at the middle' forgets how fast it is going when it gets there.",
-     "context": "Imagine a tunnel straight through the Earth, from one side to the other, with no air inside. Nobody could really build one."
-    },
-    {
-     "t": "write",
-     "p": "Vera Rubin found that galaxies spin too fast for what we can see. Scientists think there is invisible 'dark matter', known only by its pull. How can we know something is there if we can never see it?",
-     "a": "Any thoughtful answer. For example: we can see what it does. It pulls on stars, the way you can't see the wind but can see leaves move.",
-     "why": "There is no single right answer. Scientists still argue about dark matter.",
-     "lines": 3,
-     "context": "Vera Rubin was an American astronomer. In the 1970s she measured how fast stars move round galaxies."
-    },
-    {
-     "t": "write",
-     "p": "Is gravity good or bad? Give one reason for each side.",
-     "a": "A balanced answer. For example: good, because it keeps the air, the seas and us on Earth, and holds the Sun together. Bad, because it makes us fall and get hurt, and stops us flying. So maybe it is neither.",
-     "why": "There is no single right answer. What counts is a reason for each side.",
-     "lines": 4
+     "why": "False. Scientists know how gravity behaves very well. But nobody yet knows what it is, deep down. Some think it is carried by tiny particles called gravitons, but nobody has found one."
     },
     {
      "t": "draw",
-     "p": "Draw Galileo's Ramp with the marble's position at beats 1, 2, 3 and 4. Show the gaps getting bigger.",
-     "a": "A sloping ramp with four marks, the gap from the start to the first mark small, and each later gap bigger than the one before.",
-     "why": "The marble speeds up, so it travels further in each beat.",
+     "p": "Draw Galileo's Ramp with the marble's place after beats 1, 2, 3 and 4. Show how the gaps between the marks change.",
+     "a": "A sloping ramp with four marks. The gap from the start to the first mark is small, and each gap after that is bigger than the one before.",
+     "why": "The marble speeds up, so it covers more ground in each beat.",
      "how": "p1",
      "context": "In Galileo's Ramp, a marble rolls down a long gentle ramp. You mark where it is on each beat."
     }
@@ -3482,26 +3452,26 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "What does 'down' mean?",
+   "p": "Why does a raindrop fall to the ground?",
    "opts": [
-    "Towards the middle of the Earth",
-    "Towards the bottom of the page",
-    "Towards the south"
+    "Gravity pulls it towards the middle of the Earth",
+    "The cloud pushes it out",
+    "The wind blows it down"
    ],
    "a": 0,
-   "why": "Down is always towards the middle of the Earth. Picking 'the south' is a common mix-up, because maps put south at the bottom. But people in Australia and in Russia both fall towards the middle.",
+   "why": "Gravity pulls everything with mass towards the middle of the Earth, even a tiny raindrop. Wind can blow raindrops sideways, but gravity brings them down.",
    "outcome": 0
   },
   {
    "t": "mcq",
-   "p": "Which pulls on a feather?",
+   "p": "Does gravity pull on you while you are asleep?",
    "opts": [
-    "Gravity",
-    "Nothing, it is too light",
-    "Only the wind"
+    "Yes. It never switches off",
+    "No. It stops when you lie still",
+    "Only at night"
    ],
    "a": 0,
-   "why": "Gravity pulls on everything with mass, even a feather. Picking 'too light' means thinking light things escape gravity. The feather still falls, so gravity is pulling it.",
+   "why": "Gravity acts all the time, on everything. It holds you on your bed while you sleep.",
    "outcome": 0
   },
   {
@@ -3513,10 +3483,9 @@
     "The one coin lands first"
    ],
    "a": 0,
-   "why": "They land together, with one clink. Both are compact, so the air hardly slows them. Picking 'the ten coins long before' is Aristotle's old idea, that a thing ten times heavier falls ten times faster.",
+   "why": "Both are compact, so the air hardly slows them. Without much air in the way, heavy and light fall together.",
    "outcome": 1,
-   "how": "e1",
-   "context": "In the Drop Race, you put a heavy thing and a light thing on a book. Then you pull the book away and listen. One thud means they landed together."
+   "how": "e1"
   },
   {
    "t": "mcq",
@@ -3527,61 +3496,34 @@
     "Everything"
    ],
    "a": 0,
-   "why": "Change only one thing, here the thing you drop. Keep the height and the start the same. Picking 'the thing and the height' means you could not tell which change made the difference.",
+   "why": "Change one thing and keep the rest the same. Then you know what caused any difference.",
    "outcome": 1,
-   "how": "e1",
-   "context": "In the Drop Race, you put a heavy thing and a light thing on a book. Then you pull the book away and listen. One thud means they landed together."
+   "how": "e1"
   },
   {
    "t": "mcq",
-   "p": "A flat paper and a crumpled paper weigh the same. Why does the crumpled one land first?",
+   "p": "A skydiver opens her big parachute. What happens next?",
    "opts": [
-    "The air pushes less on it",
-    "It is heavier",
-    "Gravity pulls it harder"
+    "She slows down, because the air pushes up on the parachute much more",
+    "She stops falling",
+    "She falls faster"
    ],
    "a": 0,
-   "why": "The crumpled ball pushes much less air out of the way, so the air slows it less. Picking 'heavier' or 'pulled harder' misses that it is the same paper.",
-   "outcome": 2,
-   "how": "e2",
-   "context": "In Paper That Falls Like a Stone, you drop a flat sheet of paper and a crumpled sheet. Then you drop a sheet lying on top of a book."
+   "why": "The wide parachute pushes against lots of air, and the air pushes back up. Gravity still pulls, so she keeps falling, just slowly.",
+   "outcome": 2
   },
   {
    "t": "mcq",
-   "p": "Look at the chart from the Parachute Test. Which parachute fell most slowly?",
+   "p": "Which of these is slowed most by the air as it falls?",
    "opts": [
-    "Small",
-    "Medium",
-    "Large"
+    "A flat sheet of paper",
+    "A crumpled ball of the same paper",
+    "A steel coin"
    ],
-   "a": 2,
-   "why": "The large one took 5 seconds, the longest, because it catches the most air. Picking 'small' means reading a short bar as slow. A taller bar here means a slower fall.",
+   "a": 0,
+   "why": "The flat sheet is light and spread out, so it pushes against the most air for its weight.",
    "outcome": 2,
-   "how": "e3",
-   "chart": {
-    "type": "bar",
-    "title": "Made-up results: how long each parachute took to fall",
-    "x": "Parachute size",
-    "y": "Middle time (seconds)",
-    "data": [
-     {
-      "label": "Small (20 cm)",
-      "value": 2,
-      "emoji": "🪂"
-     },
-     {
-      "label": "Medium (30 cm)",
-      "value": 3,
-      "emoji": "🪂"
-     },
-     {
-      "label": "Large (40 cm)",
-      "value": 5,
-      "emoji": "🪂"
-     }
-    ]
-   },
-   "context": "In the Parachute Test, you make three plastic-bag parachutes, small, medium and large, with the same load. You time how long each takes to fall."
+   "how": "e2"
   },
   {
    "t": "mcq",
@@ -3592,19 +3534,19 @@
     "Newton"
    ],
    "a": 0,
-   "why": "Aristotle said it. Galileo showed it was wrong about 1,950 years later. Picking Galileo means mixing up who had the idea and who tested it.",
+   "why": "Aristotle, a Greek thinker, said it. For about 1,900 years, few people tested it carefully.",
    "outcome": 3
   },
   {
    "t": "mcq",
-   "p": "What happened when David Scott dropped a hammer and a feather on the Moon in 1971?",
+   "p": "Falling was too fast for Galileo to measure. How did he slow it down?",
    "opts": [
-    "They landed together",
-    "The hammer landed first",
-    "The feather floated away"
+    "He rolled balls down long, gentle ramps",
+    "He dropped things in water",
+    "He tied them to balloons"
    ],
    "a": 0,
-   "why": "They landed together, because there is no air on the Moon. Picking 'the feather floated away' means thinking the Moon has no gravity. It does, about one sixth of the Earth's.",
+   "why": "A gentle ramp keeps the same speeding-up pattern, but slower. So he could time it with a water clock.",
    "outcome": 3
   },
   {
@@ -3616,19 +3558,19 @@
     "No, he lived nowhere near Pisa"
    ],
    "a": 0,
-   "why": "Only his student told the story, many years later. Galileo never wrote about it. Picking 'yes' is what many books say. Galileo did live and teach in Pisa, so the last answer is wrong too.",
+   "why": "The story comes from his student, written years later. Galileo himself never wrote about it.",
    "outcome": 3
   },
   {
    "t": "mcq",
-   "p": "You are pulling on the Earth right now. True or false?",
+   "p": "When you jump, you pull the Earth up towards you. Why don't you notice the Earth move?",
    "opts": [
-    "True: everything pulls everything",
-    "False: only the Earth pulls",
-    "False: only big things pull"
+    "The Earth has so much more mass that it moves far too little to see",
+    "Only the Earth pulls, not you",
+    "The Earth is tied down"
    ],
    "a": 0,
-   "why": "Everything with mass pulls on everything else. You pull the Earth as hard as it pulls you. The Earth just hardly moves. Picking 'only big things pull' misses that small things pull too, only weakly.",
+   "why": "Everything pulls everything. The pull is shared, but the huge Earth hardly moves.",
    "outcome": 4
   },
   {
@@ -3640,21 +3582,20 @@
     "The marbles were magnetic"
    ],
    "a": 0,
-   "why": "They rolled down into the dent the ball made in the sheet. Einstein said gravity works a little like this: mass bends space-time, and falling things follow the bend. Picking 'a rope' is close to Newton's picture of a force acting across space.",
+   "why": "The heavy ball bends the sheet. This is a model of Einstein's idea that mass bends space.",
    "outcome": 4,
-   "how": "a2",
-   "context": "In the space blanket, you stretch a sheet and put a heavy ball in the middle. Then you roll marbles past the dent it makes."
+   "how": "a2"
   },
   {
    "t": "mcq",
-   "p": "Why do astronauts float in the space station?",
+   "p": "You jump off a low wall. While you are in the air, how do you feel?",
    "opts": [
-    "They are falling round the Earth with the station",
-    "There is no gravity up there",
-    "They are lighter than air"
+    "Almost weightless, because you are falling",
+    "Twice as heavy",
+    "Exactly as you feel standing still"
    ],
    "a": 0,
-   "why": "Gravity is still about 9 tenths as strong there. They float because they fall together with the station. Picking 'no gravity' is the most common mistake about space.",
+   "why": "While falling, nothing pushes on your feet, so you feel almost no weight. Astronauts feel this all the time.",
    "outcome": 5
   },
   {
@@ -3666,10 +3607,9 @@
     "The light one"
    ],
    "a": 0,
-   "why": "Heavy and light things fall in the same way. So both fall about 5 cm in one tenth of a second. Picking 'the heavy one' is the old idea of Aristotle.",
+   "why": "Heavy and light things fall together when the air hardly slows them. Both rulers are thin and compact.",
    "outcome": 1,
-   "how": "e4",
-   "context": "In the Falling Ruler test, a helper drops a ruler between your open fingers, and you catch it. The number at your thumb shows how far it fell."
+   "how": "e4"
   },
   {
    "t": "mcq",
@@ -3680,32 +3620,31 @@
     "The Sun stopping"
    ],
    "a": 0,
-   "why": "Starlight bent near the Sun, as Einstein predicted. Gravity bends light, even though light has no mass. Picking 'stars falling' mixes this up with shooting stars, which are tiny rocks burning in the air.",
+   "why": "The stars near the dark Sun looked shifted. This showed that gravity bends light, as Einstein said.",
    "outcome": 6
   },
   {
    "t": "mcq",
-   "p": "How does a bean root know which way to grow?",
+   "p": "How does your body know which way is down?",
    "opts": [
-    "It senses gravity, using heavy grains in its tip",
-    "It grows towards light",
-    "It follows the shape of the jar"
+    "Tiny stones in your ears slide and bend tiny hairs",
+    "Your eyes see the ground",
+    "Blood flows to your feet"
    ],
    "a": 0,
-   "why": "Roots sense gravity. Most plant scientists think heavy starch grains settling in the root tip show it which way is down. Picking 'towards light' mixes roots up with shoots, which grow towards light and away from gravity.",
-   "outcome": 6,
-   "context": "A bean seed is planted upside down in damp soil. After a few days the seed sprouts a root and a shoot."
+   "why": "Inside your ears, tiny chalky stones rest on hairs. When you tip your head, they slide, and your brain knows which way is down, even with your eyes shut.",
+   "outcome": 6
   },
   {
    "t": "mcq",
-   "p": "Do scientists know what gravity is, deep down?",
+   "p": "A galaxy can bend the light of galaxies far behind it. What do telescopes see?",
    "opts": [
-    "No, it is still a mystery",
-    "Yes, it is made of gravitons",
-    "Yes, it is air pressing down"
+    "The far galaxies stretched into arcs and rings",
+    "Nothing at all",
+    "The far galaxies turned upside down"
    ],
    "a": 0,
-   "why": "Scientists know how gravity behaves, but not what it is deep down. Gravitons are only an idea, never found. Picking 'air pressing down' is a common mix-up. Gravity works in empty space too.",
+   "why": "Gravity bends light, so a big galaxy acts like a lens. Scientists call this gravitational lensing.",
    "outcome": 6
   }
  ],
@@ -3886,7 +3825,7 @@
   },
   {
    "j": "Why was the fluffy seed so calm?",
-   "a": "It never rushed down for anything."
+   "a": "They never rushed down for anything."
   },
   {
    "j": "Why did the clock go upstairs?",

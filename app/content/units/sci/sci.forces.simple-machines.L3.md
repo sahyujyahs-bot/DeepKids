@@ -638,52 +638,51 @@ That night, under the stars, the whole village ate together round the fires of U
 
 ## Worksheets
 ### Machine Detective (core) (core, 16 questions)
-1. (mcq) What is a simple machine?  
-   Options: Anything with a motor / A tool with few parts that makes a push or pull easier / Only very big things, like cranes / Something that makes energy  
-   **Answer:** A tool with few parts that makes a push or pull easier. *Why:* A simple machine has few parts and makes a push or pull easier. Picking 'a motor' is very common, because many machines we see have one. But a spoon opening a tin is a machine with no motor. A child who picks 'makes energy' thinks machines give out extra. They never do.
-2. (fill) The point a lever turns on is called the ____.  
-   **Answer:** ['fulcrum', 'pivot']. *Why:* The fulcrum, also called the pivot, is where a lever turns. On a see-saw it is the post in the middle.
-3. (mcq) On a bottle opener, what is the load?  
-   Options: Your hand / The bottle cap / The bottle opener's handle / The table  
-   **Answer:** The bottle cap. *Why:* The load is what you want to move: the cap. Picking 'your hand' mixes up the effort, your push, with the load.
-4. (match) Match each part of a see-saw to its name.  
-   **Answer:** The post in the middle → fulcrum; The child you lift → load; You pushing down → effort. *Why:* The fulcrum is where it turns. The load is what is lifted. The effort is your push.
-5. (mcq) A heavy grown-up and a light child are on a see-saw. Where should the grown-up sit to balance?  
-   Options: At the very end / Closer to the middle / It can never balance / On the child's side  
-   **Answer:** Closer to the middle. *Why:* Weight close to the fulcrum turns the plank less. So the heavy grown-up moves in, and the light child stays far out. A child who picks 'never balance' thinks the heavier person always goes down. Distance matters too.
-6. (truefalse) On a see-saw, the heavier person always goes down.  
-   **Answer:** False. *Why:* False. Distance from the fulcrum matters as much as weight. A heavy person close to the middle can be lifted by a light person far out.
-7. (sort) Sort these into the right simple machine.  
-   **Answer:** see-saw → Lever; slide → Ramp; bicycle wheel → Wheel; scissors → Lever; railway station slope → Ramp; doorknob → Wheel. *Why:* See-saws and scissors turn on a fulcrum, so they are levers. Slides and slopes join low places to high places, so they are ramps. Bicycle wheels and doorknobs turn round an axle, so they are wheels.
-8. (mcq) Why is a long, gentle ramp easier than a short, steep one, when both reach the same step?  
-   Options: The long ramp needs a smaller push, but you push for longer / The long ramp makes the load lighter / The short ramp has no friction / There is no difference  
-   **Answer:** The long ramp needs a smaller push, but you push for longer. *Why:* A longer ramp spreads the job out: a smaller push over a longer way. Picking 'makes the load lighter' is a common idea. The load weighs just the same. Only the push you need changes.
-9. (mcq) Which is easiest: dragging a heavy box, or rolling it on round pencils?  
-   Options: Dragging it / Rolling it on pencils / They are the same  
-   **Answer:** Rolling it on pencils. *Why:* Rollers touch the floor at only a few small spots, so there is much less rubbing, or friction. A child who picks 'the same' thinks only the box's weight matters. How it touches the floor matters too.
-10. (fill) A big handle fixed to a thin rod, like a tap or a doorknob, is called a wheel and ____.  
-   **Answer:** ['axle']. *Why:* A wheel and axle turns a small push on the big wheel into a strong twist on the thin rod.
-11. (mcq) You push a door to open it. Where is it easiest to push?  
-   Options: Right next to the hinges / Far from the hinges, near the handle / In the middle of the door, top to bottom / It is the same everywhere  
-   **Answer:** Far from the hinges, near the handle. *Why:* The hinges are where the door turns, like the fulcrum of a lever. A push far from the hinges turns the door much more. Picking 'the same everywhere' is common, because the door weighs the same. Try pushing near the hinges. It is very hard!
-12. (truefalse) A machine must have a motor.  
-   **Answer:** False. *Why:* False. A see-saw, a ramp and a spoon are all machines with no motor.
-13. (mcq) Your arm is a lever. What is its fulcrum?  
-   Options: Your hand / Your elbow / Your fingers / Your shoulder blade  
-   **Answer:** Your elbow. *Why:* Your forearm turns at the elbow, so the elbow is the fulcrum. Picking 'your hand' mixes up the place the load is held with the place it turns.
+1. (mcq) Many people think a machine must have a motor. Which of these is a machine with no motor?  
+   Options: A spoon used to prise the lid off a tin / A pebble lying on the ground / A puddle of water / A cloud  
+   **Answer:** A spoon used to prise the lid off a tin. *Why:* A simple machine is a tool with few parts that makes a push or a pull easier. The spoon is a lever, so it is a machine. Machines with motors are only one kind. A see-saw, a ramp and a spoon have no motor at all.
+2. (fill) A see-saw turns on the post in its middle. The point a lever turns on is called the ____.  
+   **Answer:** ['fulcrum', 'pivot']. *Why:* The fulcrum, also called the pivot, is where a lever turns. On scissors it is the screw in the middle, and on a door it is the hinges.
+3. (match) A spoon is used to lift the lid off a tin of ghee. Match each part to its name.  
+   **Answer:** the rim of the tin, where the spoon rests and turns → fulcrum; the tight lid → load; your hand pressing down on the handle → effort. *Why:* The fulcrum is where the lever turns. The load is what you want to move. The effort is your push. Mixing up the load and the effort is the most common slip.
+4. (mcq) Bhavana is light. Her uncle is heavy. They get on a see-saw. Where should her uncle sit, so that they balance?  
+   Options: At the very end / Closer to the middle / On Bhavana's side / Nowhere. They can never balance  
+   **Answer:** Closer to the middle. *Why:* Weight close to the fulcrum turns the plank less. So the heavy uncle moves in towards the middle, and Bhavana stays far out. Picking 'never balance' means only weight was counted. Distance matters too.
+5. (truefalse) On a see-saw, the heavier person always goes down, wherever they sit.  
+   **Answer:** False. *Why:* False. Distance from the fulcrum matters as much as weight. A heavy person close to the middle can be lifted by a light person far out. Jonaki, in this unit's story, lifted a heavy rice pounder this way.
+6. (write) In the ruler see-saw test, one coin balanced two coins. Where did the one coin have to sit? Why there?  
+   **Answer:** The one coin had to sit twice as far from the pencil as the two coins. For example, two coins at 6 cm were balanced by one coin at 12 cm. Coins times distance was 12 on both sides.. *Why:* A strong answer uses real numbers from the test and says that weight and distance together decide the turning.
+7. (sort) Sort these into the simple machine each one really is.  
+   **Answer:** scissors → Lever; a bottle opener → Lever; a slide in the park → Ramp; the slope at a railway station → Ramp; a doorknob → Wheel and axle; a tap → Wheel and axle; an axe blade → Wedge; a jar lid → Screw. *Why:* Scissors and openers turn on a fulcrum. Slides and slopes join a low place to a high place. Doorknobs and taps are a big wheel on a thin rod. An axe blade is two ramps back to back. A jar lid has a ramp wrapped round it, which is a screw.
+8. (mcq) Two ramps reach the same step. One is long and gentle, and one is short and steep. Which needs the smaller push? Is there a catch?  
+   Options: The long ramp, but you must push for a longer way / The short ramp, with no catch / The long ramp, with no catch / Both need the same push  
+   **Answer:** The long ramp, but you must push for a longer way. *Why:* A longer ramp to the same height needs a smaller push, but over a longer distance. Picking 'no catch' means the machine was thought to give something for nothing. No machine does.
+9. (write) In the ramp test, you pulled a loaded toy truck up to the same height on different ramps. Before you started, which ramp did you guess would stretch the rubber band least? Why? What did the test show?  
+   **Answer:** For example: I guessed the long gentle ramp, because a slope you can walk up easily feels less hard. The test showed the long ramp stretched the band least, and lifting straight up stretched it most.. *Why:* A strong answer gives the guess, the reason, and the real result, and says whether the guess was right.
+10. (mcq) Divya needs to move a heavy box of books across the floor. Which way is easiest?  
+   Options: Rolling it on round pencils / Dragging it along the floor / Lifting and carrying it  
+   **Answer:** Rolling it on round pencils. *Why:* Rollers touch the floor at only a few thin lines, so there is much less rubbing, called friction. Picking 'dragging' means only the box's weight was counted. How it touches the floor matters too.
+11. (fill) A doorknob is a big wheel fixed to a thin rod. This simple machine is called a wheel and ____.  
+   **Answer:** ['axle']. *Why:* A wheel and axle turns a small push on the big wheel into a strong twist on the thin rod, called the axle.
+12. (mcq) In the door test, where was it easiest to push the door open?  
+   Options: Far from the hinges, near the handle / Right next to the hinges / It was the same everywhere  
+   **Answer:** Far from the hinges, near the handle. *Why:* The hinges are where the door turns, like the fulcrum of a lever. A push far from the hinges turns the door much more. Picking 'the same everywhere' is common, because the door weighs the same wherever you push.
+13. (mcq) When you lift a cup of water, your forearm is a lever. Where is its fulcrum?  
+   Options: Your elbow / Your hand / Your fingers / Your shoulder  
+   **Answer:** Your elbow. *Why:* Your forearm turns at the elbow, so the elbow is the fulcrum. Picking 'your hand' mixes up where the load is held with where the arm turns.
 14. (write) Name three levers you can find in your home. For each one, say where its fulcrum is.  
    **Answer:** For example: scissors, fulcrum at the screw in the middle. A spoon opening a tin, fulcrum at the rim. A door, fulcrum at the hinges.. *Why:* Any three real levers with the right fulcrum are correct.
-15. (write) Pehi says, 'The dhenki listens only to heavy feet.' Is she right? Use the word fulcrum in your answer.  
-   **Answer:** She is only half right. A light person can lift the heavy head too, if they stand at the very end of the beam, far from the fulcrum. Weight far from the fulcrum turns the beam more.. *Why:* A good answer says that where you stand, not only how heavy you are, matters.
-16. (draw) Draw a see-saw with a grown-up and a child balancing it. Mark the fulcrum.  
-   **Answer:** The grown-up sits close to the middle. The child sits near the end. The fulcrum is the post in the middle.. *Why:* Heavy near, light far makes a balance.
+15. (perspective) In the story Where Jonaki Stood, Jonaki, a girl of eight, wants to work the dhenki. A dhenki is a long wooden beam on a post. Stepping on one end lifts a heavy head at the other end, which pounds rice. Jonaki and her aunt Pehi disagree.  
+   **Answer:** Jonaki is right that where you stand matters: one coin far out balanced two coins close in. But Pehi has a point. At the same spot, a heavier foot does push down more, and Jonaki needed her brother's weight beside her to lift the head high. So a strong answer says both weight and distance count.. *Why:* A strong answer uses the ruler see-saw as evidence, picks a side, and gives fair credit to the other view.
+16. (draw) Draw a see-saw with a grown-up and a child sitting on it, balanced and level. Mark the fulcrum. Show who sits closer to it.  
+   **Answer:** The grown-up sits close to the middle. The child sits near the far end. The fulcrum is the post in the middle, marked with a triangle.. *Why:* A strong drawing puts the heavy person nearer the fulcrum and the light person further away, and keeps the plank level.
 ### Levers, Ramps and Wheels at Work (stretch) (stretch, 16 questions)
-1. (mcq) Two coins sit 5 cm from the pencil on a ruler see-saw. Where must one coin go on the other side to balance them?  
-   Options: 5 cm from the pencil / 10 cm from the pencil / 2 cm from the pencil / It can't balance  
-   **Answer:** 10 cm from the pencil. *Why:* 2 coins times 5 cm is 10. 1 coin times 10 cm is also 10. So the one coin goes 10 cm away. Picking 5 cm means only the place is matched, not the weight. A child who picks 'can't balance' thinks fewer coins always lose.
-2. (fill) 3 coins sit on peg 2. To balance them with coins on peg 3, you need ____ coins.  
-   **Answer:** ['2', 'two']. *Why:* 3 times 2 is 6. 2 times 3 is also 6. So 2 coins on peg 3 balance 3 coins on peg 2.
-3. (mcq) Kitchen tongs (chimta or idukki) have your hand in the middle. They make your squeeze weaker at the tips. Why use them?  
+1. (mcq) Three coins sit 4 cm from the pencil on a ruler see-saw. Where must 2 coins sit on the other side, so the ruler balances?  
+   Options: 4 cm from the pencil / 6 cm from the pencil / 8 cm from the pencil / 12 cm from the pencil  
+   **Answer:** 6 cm from the pencil. *Why:* 3 coins times 4 cm is 12. 2 coins times 6 cm is also 12. So the 2 coins go 6 cm away. Picking 4 cm matches the place but forgets the weight. Picking 12 cm uses the total instead of sharing it between the 2 coins.
+2. (fill) 4 coins sit on peg 1. To balance them with coins on peg 2, you need ____ coins.  
+   **Answer:** ['2', 'two']. *Why:* 4 times 1 is 4. 2 times 2 is also 4. So 2 coins on peg 2 balance 4 coins on peg 1.
+3. (mcq) Kitchen tongs, a chimta or an idukki, have your hand in the middle. They make your squeeze weaker at the tips. So why do cooks use them?  
    Options: They are cheaper / The tips move further than your fingers, and keep your hand away from the heat / They make your push stronger / They are not a lever  
    **Answer:** The tips move further than your fingers, and keep your hand away from the heat. *Why:* In tongs, the effort is in the middle, so they trade strength for distance. The tips open wide, and your fingers stay away from the hot pan. Picking 'stronger' is very common, because we expect every lever to make pushes bigger. Some levers are for distance and speed instead.
 4. (sort) Sort these levers by what is in the middle.  
@@ -694,33 +693,31 @@ That night, under the stars, the whole village ate together round the fires of U
 6. (mcq) Look at the chart. Lifting a bag straight up 1 metre takes 12 newtons. Up a 3-metre ramp, about how much push does it take, with no friction?  
    Options: 36 newtons / 12 newtons / 4 newtons / 3 newtons  
    **Answer:** 4 newtons. *Why:* Push times distance stays the same: 12 times 1 is 12. So for 3 metres, the push is 12 divided by 3, which is 4 newtons. Picking 36 means multiplying instead of sharing. A longer ramp makes the push smaller, not bigger.
-7. (truefalse) A well winch with a long handle lifts a heavy bucket more easily than turning the thin rod with your fingers.  
-   **Answer:** True. *Why:* True. The long handle is the big wheel of a wheel and axle. Your hand goes round a big circle with a small push, and the rod twists strongly.
-8. (mcq) A bicycle has many simple machines. Which part is a lever?  
-   Options: The tyre / The brake handle / The seat / The bell's sound  
-   **Answer:** The brake handle. *Why:* The brake handle turns on a fulcrum. A small squeeze of your fingers becomes a strong pull on the brake cable. A child who picks the tyre is mixing up wheels and levers. The tyre is part of a wheel.
-9. (match) Match each thing to the simple machine it really is.  
+7. (write) In the well winch, you wound up a bottle using the big handle, and then by turning just the thin pencil. Which felt easier? Which made your hand travel further? What is the trade?  
+   **Answer:** The big handle felt much easier. But my hand travelled round a bigger circle, so it went further for each turn. The trade is a smaller push for a longer distance.. *Why:* A strong answer reports both results from the test, the easier push and the longer hand path, and joins them as one trade.
+8. (truefalse) The brake handle on a bicycle is a lever.  
+   **Answer:** True. *Why:* True. The brake handle turns on a small fulcrum. A gentle squeeze of your fingers far from the fulcrum becomes a strong pull on the brake cable close to it.
+9. (match) Each of these is really a simple machine. Match each one to the machine it is.  
    **Answer:** A knife → wedge; A jar lid → screw; A doorknob → wheel and axle; A slide → ramp. *Why:* A knife is two ramps back to back, a wedge. A jar lid is a ramp wrapped round, a screw. A doorknob is a wheel and axle.
 10. (mcq) Your biceps pulls on your forearm about 5 cm from your elbow. Your hand is about 35 cm from your elbow. How many times as hard must the muscle pull as the weight in your hand?  
    Options: About 7 times / About the same / About half / About 35 times  
    **Answer:** About 7 times. *Why:* 35 divided by 5 is 7. The muscle is 7 times closer to the fulcrum, so it must pull about 7 times as hard. A child who picks 'about the same' thinks the muscle pulls the load straight up. But the arm is a lever, built for speed.
-11. (mcq) Why is your arm built so that the muscle must pull so hard?  
-   Options: It's a mistake / Your hand moves far and fast while the muscle shortens only a little / Muscles like hard work / It makes the arm lighter  
-   **Answer:** Your hand moves far and fast while the muscle shortens only a little. *Why:* It's a trade-off. A small shortening of the muscle swings your hand a long way, fast. That lets you throw and catch. Picking 'a mistake' is a fair first guess. But nature trades strength for speed here.
+11. (perspective) Your biceps muscle has to pull about 7 times as hard as the load in your hand. Nandini and her grandmother disagree about this.  
+   **Answer:** Both see a real trade. Nandini is right that a muscle joined further out would need less force. Her grandmother is right that, as it is, a tiny shortening of the muscle makes a big, fast swing of the hand. A muscle near the hand would also make a thick, clumsy wrist. A strong answer says what is gained and what is lost.. *Why:* A strong answer names the trade between strength and speed, uses the body levers activity as evidence, and answers back fairly.
 12. (mcq) Mountain roads up the ghats zigzag instead of going straight up. Why?  
    Options: To make the view better / A longer, gentler road needs a smaller push from the engine / Because straight roads are not allowed / To make the trip shorter  
    **Answer:** A longer, gentler road needs a smaller push from the engine. *Why:* A zigzag road is a long ramp. It is longer, but gentler, so trucks and buses can climb with less push. Picking 'shorter' is the opposite. Zigzags make the trip longer.
-13. (write) A small child wants to lift a big brother on a see-saw. Give two different ways to make it work. Explain each one.  
+13. (write) A small girl wants to lift her big brother on a see-saw. Give two different ways to make it work. Explain each one.  
    **Answer:** One way: the brother slides in closer to the middle, so his weight turns the plank less. Another way: two small children sit together at the far end, so there is more weight far out.. *Why:* Moving weight further out, or adding more weight far out, both increase the turning.
-14. (write) A machine helped you push less. What did you have to give up? Give an example.  
-   **Answer:** I had to push for a longer distance. For example, on a long ramp I pushed gently but for a long way.. *Why:* Every machine trades a smaller push for a longer distance.
+14. (write) A machine let you push with less force. What did you have to give up? Give an example from one of your own tests.  
+   **Answer:** I had to push for a longer distance. For example, on the long ramp I pulled the truck gently, but much further than when I lifted it straight up.. *Why:* A strong answer names the trade, a smaller push for a longer distance, with a real example from the ramp test, the winch or the ruler see-saw.
 15. (forces) A ruler lever lifts a book. You press down on the far end. The pencil is the fulcrum. Show the forces on the ruler with arrows.  
    Options: your push / book pushes down / pencil pushes up / friction  
    **Answer:** your push down, book pushes down down, pencil pushes up up. *Why:* You push down on one end. The book presses down on the other end. The pencil fulcrum pushes up and holds the ruler up. There is no sliding, so friction is not the main force here.
 16. (draw) Design a ramp for a toy car to reach a 10 cm high box. Draw a short steep ramp and a long gentle ramp. Mark which needs the smaller push.  
    **Answer:** Two ramps from the floor to the top of the box. The long gentle ramp is marked as the smaller push.. *Why:* The longer ramp to the same height needs a smaller push.
-### Balance Puzzles and Big Ideas (challenge) (challenge, 17 questions)
-1. (mcq) Predict: 2 coins on left peg 3. 3 coins on right peg 2. What happens?  
+### Balance Puzzles and Big Ideas (challenge) (challenge, 16 questions)
+1. (mcq) Predict: 2 coins sit on left peg 3, and 3 coins sit on right peg 2. What will the see-saw do?  
    Options: Tips left / Tips right / Balances  
    **Answer:** Balances. *Why:* 2 times 3 is 6. 3 times 2 is 6. Both sides make 6, so it balances. Picking 'tips right' means counting coins and forgetting distance.
 2. (fill) A key on peg 4 balances 2 coins on peg 2. The key weighs the same as ____ coin.  
@@ -733,13 +730,12 @@ That night, under the stars, the whole village ate together round the fires of U
    **Answer:** Much closer to the centre of the Earth, inside the Earth. *Why:* Like a heavy grown-up near the middle of a see-saw, the heavy Earth is close to the balance point. It is about 4,700 km from the Earth's centre, inside the Earth. Picking 'halfway' means forgetting that the Earth is far heavier.
 5. (truefalse) Astronomers can find planets round other stars by watching the stars wobble.  
    **Answer:** True. *Why:* True. A planet and its star swing round a shared balance point, so the star wobbles a little. In 1995, Michel Mayor and Didier Queloz found a planet this way.
-6. (mcq) Inside your muscles, tiny molecules called myosin pull on threads. How do they make a small movement bigger?  
-   Options: They glue the threads / Each one has a stiff arm that swings like a lever / They push with air / They melt and freeze  
-   **Answer:** Each one has a stiff arm that swings like a lever. *Why:* A myosin head grabs a thread, and its stiff neck swings like a lever, making a tiny change into a bigger step. Picking 'glue' is a sensible guess, because they do grab on. But they also let go and swing again.
-7. (mcq) Who should get credit for the lever?  
-   Options: Only Archimedes / Only the person who first used it / The many unnamed people who used it, and Archimedes who explained its rule / Nobody  
-   **Answer:** The many unnamed people who used it, and Archimedes who explained its rule. *Why:* Farmers used levers like the shaduf long before Archimedes. He was the first we know of to prove the rule. Picking 'only Archimedes' is what many books say, because his work was written down.
-8. (order) Put these in order from SMALLEST push needed to BIGGEST, to raise the same load 1 metre: lifting straight up, a 2 m ramp, a 4 m ramp, a 3 m ramp.  
+6. (mcq) Arvind, a boy in Class 5, says, 'A single pulley over a well makes the bucket lighter.' What is wrong with his idea?  
+   Options: The bucket weighs just the same. The pulley only lets you pull down instead of up / Nothing. Pulleys make things lighter / Pulleys make the bucket heavier / Pulleys only work on ropes  
+   **Answer:** The bucket weighs just the same. The pulley only lets you pull down instead of up. *Why:* A single fixed pulley changes the direction of your pull, not its size. Pulling down is easier, because you can use your own weight. To need a smaller pull, you must use more pulleys together, and then you pull a longer length of rope.
+7. (perspective) Who should get the credit for the lever? Here are three views.  
+   **Answer:** Each view has truth in it. The textbook is wrong that he discovered it, because people used levers long before. The historian is right about who invented and used it, often women working a dhenki and farmers at a shaduf, whose names were not written down. The scientist is right that proving the rule mattered. A strong answer might share the credit.. *Why:* A strong answer separates using an idea, inventing it and explaining it, and gives a reason for where the credit should go.
+8. (order) Put these from the smallest push needed to the biggest, to raise the same load 1 metre: lifting it straight up, a 2 metre ramp, a 4 metre ramp, a 3 metre ramp.  
    **Answer:** order shown. *Why:* The longer the ramp to the same height, the smaller the push. Lifting straight up needs the biggest push.
 9. (mcq) A screw is a ramp wrapped round a rod. Why does a screw grip wood so strongly?  
    Options: Many turns of a small push move it in only a little, with a big force / It is sharp / It is made of iron / It is glued  
@@ -751,16 +747,13 @@ That night, under the stars, the whole village ate together round the fires of U
    **Answer:** They had no horses or oxen to pull carts. Their land had thick jungles and steep mountains, where carts would be hard to use. Perhaps people carrying loads, or canoes on lakes, worked better.. *Why:* There is no single answer. Historians still debate it. A good answer gives reasons based on the land and animals.
 12. (write) Ramp guides in many countries, including India, suggest a ramp should be about 12 times as long as it is high, for wheelchairs. Why do you think it must be so long?  
    **Answer:** So the slope is gentle. Then a person in a wheelchair can push themselves up with a small push, and won't roll back down too fast.. *Why:* A long, gentle ramp needs a smaller push. That matters for people who push with their arms.
-13. (write) Archimedes said, 'Give me a place to stand, and I will move the Earth.' Was he right? Give one reason for and one reason against.  
-   **Answer:** For: the lever rule has no limit, so a long enough lever could make a tiny push into a huge one. Against: the lever would be impossibly long and stiff, there is nowhere to stand, and the push would take longer than the age of the universe.. *Why:* There is no one right answer. A good answer uses the lever rule and also thinks about the real world.
-14. (mcq) Which machine changes the DIRECTION of a force, more than its size?  
-   Options: A pulley over a well / A nutcracker / A long ramp / A wedge  
-   **Answer:** A pulley over a well. *Why:* With a single pulley over a well, you pull down and the bucket goes up. The pull is about the same size. Picking the nutcracker means mixing up direction and size. A nutcracker makes your squeeze stronger.
-15. (write) A wheelbarrow carries a heavy load of bricks. Where are its fulcrum, load and effort? Why is it easier than carrying the bricks?  
+13. (perspective) Archimedes is said to have boasted: 'Give me a place to stand, and I will move the Earth.' Could he really have done it?  
+   **Answer:** Archimedes is right about the rule: weight times distance must match, so a far-out push can balance a huge load. Sunita is right about the real world: no material is that stiff, there is nowhere to stand, and the trade of a small push for a long distance makes the distance impossibly long.. *Why:* A strong answer uses the rule, and also the trade of push for distance. It sees that the idea is right while the plan is impossible.
+14. (write) A wheelbarrow carries a heavy load of bricks. Where are its fulcrum, load and effort? Why is it easier than carrying the bricks?  
    **Answer:** The fulcrum is the wheel. The load is the bricks in the middle. The effort is my hands lifting the handles. My hands are further from the wheel than the bricks, so I lift with a smaller force. The wheel also rolls instead of dragging.. *Why:* A wheelbarrow is a lever with the load in the middle, and it has a wheel, so it uses two simple machines.
-16. (write) A see-saw is level. A 30 kg child sits on one side, and a 15 kg child sits on the other. Where could each one be sitting? Give one answer and explain it.  
+15. (write) A see-saw is level. A 30 kg child sits on one side, and a 15 kg child sits on the other. Where could each one be sitting? Give one answer and explain it.  
    **Answer:** The 15 kg child sits twice as far from the middle as the 30 kg child. For example, the 30 kg child sits 1 metre from the middle and the 15 kg child sits 2 metres away. 30 times 1 is 30, and 15 times 2 is 30.. *Why:* Any answer where the lighter child is twice as far out is right. A good answer shows that weight times distance is the same on both sides.
-17. (draw) Draw your own design for a machine that lifts a bucket of water from a well, using at least two simple machines. Label each one.  
+16. (draw) Draw your own design for a machine that lifts a bucket of water from a well, using at least two simple machines. Label each one.  
    **Answer:** Any design using two or more simple machines, labelled. For example: a lever like a shaduf with a stone counterweight, and a pulley wheel.. *Why:* Real machines often combine simple machines.
 
 ## Videos
@@ -769,51 +762,51 @@ That night, under the stars, the whole village ate together round the fires of U
 - **Solving Problems With Simple Machines** (SciShow Kids, 15 min) id `q4U-HpEVLW8`: A longer compilation on levers, wheels and axles and pulleys, good for a rainy afternoon. *Check:* Found by YouTube search: "Solving Problems with Simple Machines! | SciShow Kids Compilation" by SciShow Kids. Title checked automatically; a parent may still preview it.
 
 ## Quiz
-1. (mcq) What does a simple machine do?  
-   Options: Makes energy from nothing / Makes a push or pull easier, by changing its size or direction / Only works with a motor  
-   **Answer:** Makes a push or pull easier, by changing its size or direction. *Why:* A simple machine makes a push or pull easier. A child who picks 'makes energy' thinks machines give out extra. They never do. Picking 'a motor' is common, but a see-saw has no motor.
-2. (mcq) Which of these is a machine?  
-   Options: A spoon used to pry open a tin / A pebble lying on the ground / A puddle  
-   **Answer:** A spoon used to pry open a tin. *Why:* The spoon is a lever, so it is a machine. Picking a pebble or a puddle means not yet linking machines to helping a push or pull.
-3. (mcq) On a see-saw, what is the fulcrum?  
-   Options: The seat / The post in the middle that it turns on / The child  
-   **Answer:** The post in the middle that it turns on. *Why:* The fulcrum is where a lever turns. Picking 'the child' mixes up the load or effort with the fulcrum.
-4. (mcq) Which part of your body is a fulcrum when you bend your arm?  
-   Options: Your elbow / Your fingers / Your muscle  
-   **Answer:** Your elbow. *Why:* Your arm turns at the elbow. Picking 'your muscle' mixes up the effort, the muscle's pull, with the fulcrum.
-5. (mcq) A heavy grown-up and a light child want to balance a see-saw. What should they do?  
-   Options: The grown-up sits closer to the middle / The child sits closer to the middle / It can't be done  
-   **Answer:** The grown-up sits closer to the middle. *Why:* Weight close to the fulcrum turns less. So the heavy grown-up moves in. Picking 'can't be done' means only weight is counted, not distance.
-6. (mcq) 2 coins sit 5 cm from the fulcrum of a ruler see-saw. Where does 1 coin balance them?  
-   Options: 5 cm away / 10 cm away / 1 cm away  
-   **Answer:** 10 cm away. *Why:* 2 times 5 is 10, and 1 times 10 is 10. Picking 5 cm means matching the place but forgetting the weight.
-7. (mcq) You need to get a heavy box onto a high step. Which ramp needs the smallest push?  
-   Options: A short, steep ramp / A long, gentle ramp / They need the same push  
-   **Answer:** A long, gentle ramp. *Why:* A longer, gentler ramp needs a smaller push, but over a longer way. A child who picks 'the same' thinks only the box's weight matters.
-8. (mcq) A longer ramp needs a smaller push. What is the catch?  
-   Options: The box gets heavier / You must push it a longer way / There is no catch  
-   **Answer:** You must push it a longer way. *Why:* Machines trade a smaller push for a longer distance. A child who picks 'no catch' thinks machines give something for nothing.
-9. (mcq) Why is a doorknob easier to turn than the thin metal rod inside it?  
-   Options: The knob is softer / The knob is a big wheel, so a small push makes a strong twist on the rod / The rod is broken  
-   **Answer:** The knob is a big wheel, so a small push makes a strong twist on the rod. *Why:* A doorknob is a wheel and axle. Your hand goes round a bigger circle, with a smaller push. Picking 'softer' means comfort is mixed up with force.
-10. (mcq) Why is it easier to move a heavy box on rollers than to drag it?  
-   Options: Rolling has much less rubbing than dragging / Rollers make the box lighter / It isn't easier  
-   **Answer:** Rolling has much less rubbing than dragging. *Why:* Rollers touch the floor at only a few spots that lift off as they turn, so there is much less friction. Picking 'lighter' mixes up weight with push.
-11. (mcq) In the ramp test, to make it fair, what should you change?  
-   Options: Only the ramp's length / The ramp and the truck's load / Everything  
-   **Answer:** Only the ramp's length. *Why:* In a fair test, you change one thing only. Then you know that thing caused the difference. Picking two things means you can't tell which one mattered.
-12. (mcq) Look at the chart from the ramp test. Which way needed the smallest pull?  
+1. (mcq) What does every simple machine do?  
+   Options: Makes a push or a pull easier, by changing its size or its direction / Makes energy out of nothing / Works only with a motor  
+   **Answer:** Makes a push or a pull easier, by changing its size or its direction. *Why:* A simple machine makes a push or pull easier. Picking 'makes energy' means machines were thought to give out extra. They never do. A see-saw has no motor.
+2. (mcq) Which of these is not one of the six simple machines?  
+   Options: A battery / A pulley / A screw  
+   **Answer:** A battery. *Why:* The six are the lever, the ramp, the wheel and axle, the pulley, the wedge and the screw. A battery stores energy, but it does not change a push or a pull.
+3. (mcq) On a pair of scissors, where is the fulcrum?  
+   Options: The screw in the middle / The tips of the blades / Your thumb  
+   **Answer:** The screw in the middle. *Why:* The two blades turn on the screw, so that is the fulcrum. Picking 'your thumb' mixes up the effort with the fulcrum.
+4. (mcq) When you stand on tiptoe, your foot works as a lever. Where does it turn?  
+   Options: At the ball of your foot, near your toes / At your heel / At your knee  
+   **Answer:** At the ball of your foot, near your toes. *Why:* Your calf muscle pulls your heel up, and the foot turns on the ball of the foot. Picking 'at your heel' mixes up where the effort pulls with where the foot turns.
+5. (mcq) A see-saw is level. Then the child on the left slides further out from the middle. What happens?  
+   Options: The left side goes down / The right side goes down / Nothing changes  
+   **Answer:** The left side goes down. *Why:* The same weight further from the fulcrum turns the plank more. So the left side goes down. Picking 'nothing changes' means only weight was counted, not distance.
+6. (mcq) 2 coins sit 6 cm from the pencil on a ruler see-saw. How far away must 1 coin sit, on the other side, to balance them?  
+   Options: 12 cm / 6 cm / 3 cm  
+   **Answer:** 12 cm. *Why:* 2 times 6 is 12, and 1 times 12 is 12. Picking 6 cm matches the place but forgets the weight. Picking 3 cm halves the distance instead of doubling it.
+7. (mcq) Instead of the steps, Kamala pushes her grandmother's wheelchair up a long, gentle ramp. What does the ramp cost her?  
+   Options: She must push for a longer way / She needs a bigger push / Nothing at all  
+   **Answer:** She must push for a longer way. *Why:* A ramp trades a smaller push for a longer distance. Picking 'nothing at all' means the machine was thought to give something for nothing.
+8. (mcq) A knife is a wedge. Why does a sharp knife cut more easily than a blunt one?  
+   Options: Its thin edge puts all of your push onto a tiny line / It is heavier / It is colder  
+   **Answer:** Its thin edge puts all of your push onto a tiny line. *Why:* A wedge turns a push into a big sideways push at its thin edge. The thinner the edge, the more the push is crowded into one tiny line.
+9. (mcq) Why does a tap have a wide handle, and not just a thin rod?  
+   Options: The wide handle is a wheel, so a small push makes a strong twist / It looks nicer / A wide handle uses less water  
+   **Answer:** The wide handle is a wheel, so a small push makes a strong twist. *Why:* A tap is a wheel and axle. Your hand goes round a bigger circle with a smaller push, and the thin rod twists strongly.
+10. (mcq) Why is a heavy cart on wheels easier to move than dragging the same load?  
+   Options: Rolling has much less friction than sliding / Wheels make the load lighter / Wheels push the cart by themselves  
+   **Answer:** Rolling has much less friction than sliding. *Why:* A rolling wheel does not rub along the ground the way a sliding load does, so there is much less friction. Picking 'lighter' mixes up weight and push.
+11. (mcq) In the ruler see-saw test, why did you try each coin position more than once?  
+   Options: Because one try can be a fluke / To make the test take longer / Because the ruler gets longer  
+   **Answer:** Because one try can be a fluke. *Why:* A coin can slip, or the ruler can wobble. Trying more than once shows which result is real.
+12. (mcq) These are made-up results from the ramp test. Which way of going up needed the smallest pull?  
    Options: Lifted straight up / Short, steep ramp / Long, gentle ramp  
    **Answer:** Long, gentle ramp. *Why:* The shortest bar is the long, gentle ramp, so it needed the smallest pull. Picking 'straight up' may mean the tallest bar was read as the best. Here a taller bar means more pull.
-13. (mcq) Can any machine give out more work than you put in?  
-   Options: Yes, a clever enough one / No, a smaller push always means a longer way / Only machines with wheels  
-   **Answer:** No, a smaller push always means a longer way. *Why:* Energy can't come from nothing. People have tried to build never-stopping wheels since at least 1150, and all failed. Picking 'a clever enough one' is a hopeful idea that no one has made work.
-14. (mcq) Where is the balance point of the Earth and the Moon?  
-   Options: Halfway between them / Inside the Earth / Inside the Moon  
-   **Answer:** Inside the Earth. *Why:* The Earth is about 81 times heavier, so the balance point is close to it, about 1,700 km under the surface. Picking 'halfway' forgets that the heavier one sits closer to the balance point, just like on a see-saw.
-15. (mcq) Your biceps joins your arm close to the elbow. What does that give you?  
-   Options: A hand that moves far and fast / A stronger grip / Nothing, it's a mistake  
-   **Answer:** A hand that moves far and fast. *Why:* With the muscle close to the fulcrum, a small shortening swings your hand far and fast. Picking 'a mistake' is a fair first guess, but it is a trade-off of strength for speed.
+13. (mcq) Someone is selling a wheel that will turn for ever with no push. What should you think?  
+   Options: It cannot work, because energy cannot come from nothing / It will work if it is built carefully / It will work if it is big enough  
+   **Answer:** It cannot work, because energy cannot come from nothing. *Why:* People have tried to build such wheels since at least 1150, and every one has failed. A machine can only pass on the energy you put in.
+14. (mcq) On a see-saw, the heavy person sits close to the middle. What does this tell us about the shared balance point of the Earth and the Moon?  
+   Options: It is much closer to the Earth, and is inside the Earth / It is exactly halfway between them / It is inside the Moon  
+   **Answer:** It is much closer to the Earth, and is inside the Earth. *Why:* The Earth is about 81 times heavier than the Moon, so the balance point is close to the Earth, about 1,700 km under its surface. Picking 'halfway' forgets that the heavier one sits closer to the balance point.
+15. (mcq) Your biceps pulls on your forearm very close to the elbow. What do you gain from that?  
+   Options: Your hand moves far and fast / A stronger grip / Nothing. It is a mistake  
+   **Answer:** Your hand moves far and fast. *Why:* With the muscle close to the fulcrum, a small shortening swings the hand a long way, fast. Picking 'a mistake' is a fair first guess, but it is a trade of strength for speed.
 
 ## Applications
 - Hand pumps on village borewells use a long lever handle to lift water.

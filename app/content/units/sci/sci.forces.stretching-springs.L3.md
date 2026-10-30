@@ -223,9 +223,9 @@ The high branch was thinner. It stuck out over the path like an arm reaching for
 
 On the first day, the swing was glorious. When Biju swung, the branch bent down under him like a fishing rod, and lifted him up again, so that every swing had an extra bounce at the bottom. The children shrieked. They queued all afternoon. Ammu had three turns. At the top of each one she could see over the shed and across the whole green sea of rubber trees, and her stomach floated up into her throat.
 
-On the second day, the bigger boys started swinging two at a time, standing up, pumping as hard as they could. 'Higher!' they yelled. 'Make it fly!'
+On the second day, the bigger children started swinging two at a time, standing up, pumping as hard as they could. 'Higher!' they yelled. 'Make it fly!'
 
-Ammu was waiting her turn when she noticed something. When the two boys jumped off, the swing hung still. And the branch did not go all the way back up.
+Ammu was waiting her turn when she noticed something. When the two big girls jumped off, the swing hung still. And the branch did not go all the way back up.
 
 She looked again. In the morning, the swing's plank had hung level with her chin. Now it hung level with her shoulder. The branch had bent and stayed bent, just a little, the way the old rubber sheet had stretched and stayed stretched.
 
@@ -237,7 +237,7 @@ Biju laughed. Everyone laughed. 'It's a strong branch,' he said. 'It bounced me 
 
 'It bounced back yesterday,' said Ammu. 'It isn't bouncing back now. Look at the seat. It's lower.'
 
-'You're scared because you're small,' said one of the boys, and the others made chicken noises. Ammu's face went hot. She wanted to be quiet. Being quiet would have been much easier. But she thought of the old sheet, the tired bulge, and the sound it made when it tore.
+'You're scared because you're small,' said one of the big girls, and the others made chicken noises. Ammu's face went hot. She wanted to be quiet. Being quiet would have been much easier. But she thought of the old sheet, the tired bulge, and the sound it made when it tore.
 
 Her little sister Kunju was next in the queue, holding up her arms to be lifted on.
 
@@ -266,7 +266,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 **For the parent:** For the parent: a branch, like a rubber band or a spring, is elastic. Pushed a little, it bends and springs all the way back. Pushed past its elastic limit, it bends and stays bent. That small bend that does not come back is the warning. The thing has started to change inside, and it is close to breaking. Ammu spots this because she has seen the same thing in an old rubber sheet. Engineers watch for this sign in bridges, cranes and aeroplane wings.
 
 - Ask: How did Ammu's mother test a rubber sheet? What did it mean when the sheet stayed stretched?
-- Ask: What did Ammu notice about the swing seat after the big boys jumped off?
+- Ask: What did Ammu notice about the swing seat after the big children jumped off?
 - Ask: Why did the branch break on the second day, but not on the first?
 - Ask: Why was it hard for Ammu to speak up? What helped her?
 - Ask: Have you ever seen something that 'stopped coming back'? A rubber band, a spring or a toy? What happened to it next?
@@ -704,129 +704,119 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 
 ## Worksheets
 ### Spring Detective (core) (core, 15 questions)
-1. (mcq) What does elastic mean?  
-   Options: It is soft / It changes shape when pushed or pulled, and springs back when you let go / It is made of rubber / It is very strong  
-   **Answer:** It changes shape when pushed or pulled, and springs back when you let go. *Why:* Elastic things spring back to their old shape. Picking 'soft' is a common idea, but steel springs are hard and still elastic. Picking 'made of rubber' misses springs, sponges and skin.
-2. (mcq) Which of these is elastic?  
-   Options: Playdough / A hair band / A papad / Wet clay  
-   **Answer:** A hair band. *Why:* A hair band springs back. Playdough and wet clay stay changed. A papad snaps. Picking playdough often means 'it changes shape' was mixed up with 'it springs back'. Elastic needs both.
-3. (fill) A thing that springs back after being stretched is called ____.  
-   **Answer:** ['elastic']. *Why:* Elastic things, like rubber bands, go back to their old shape when you let go.
-4. (sort) Sort these. Do they spring back, stay changed, or snap?  
-   **Answer:** sponge → Spring back; rubber band → Spring back; playdough → Stay changed; chewing gum → Stay changed; dry twig → Snap; glass bangle → Snap. *Why:* Sponges and rubber bands are elastic. Playdough and gum keep their new shape. Twigs and glass hardly bend before they break.
-5. (mcq) In the coin stretch test, you add more coins to the cup. What happens to the rubber band?  
-   Options: It gets shorter / It gets longer / It stays the same / It gets thicker  
-   **Answer:** It gets longer. *Why:* More coins pull down harder, so the band stretches more. Picking 'shorter' sometimes comes from thinking the band 'fights back' and pulls itself up. It does pull back, but it still gets longer.
-6. (truefalse) Steel is a little bit elastic.  
-   **Answer:** True. *Why:* True. Steel springs back too. It just needs a much bigger force to stretch or bend it. That is why springs are made of steel.
-7. (truefalse) You can stretch a spring as far as you like, and it will always spring back.  
-   **Answer:** False. *Why:* False. Every spring has an elastic limit. Pull it past that and it stays stretched, or it breaks.
-8. (mcq) A pen spring was pulled very hard. Now it stays long and loose. Why?  
-   Options: It went past its elastic limit / Springs are never elastic / It was too cold / It got heavier  
-   **Answer:** It went past its elastic limit. *Why:* Past the elastic limit, a spring stays stretched. Picking 'never elastic' misses that it did spring back when pulled gently.
+1. (mcq) Kavya, a girl in Class 3, says: 'Only soft things are elastic. Hard things never spring back.' Which thing shows she is wrong?  
+   Options: The hard steel spring inside a clicky pen / A soft pillow / A lump of playdough / A cotton ball  
+   **Answer:** The hard steel spring inside a clicky pen. *Why:* A steel spring is hard, but it springs back every time you click the pen. So elastic does not mean soft. Picking the pillow agrees with Kavya, because a pillow is soft. Playdough is soft and does not spring back at all.
+2. (sort) Sort these. After you let go, does each one spring back, stay changed, or snap?  
+   **Answer:** a squeezed sponge → Spring back; a hair band → Spring back; squeezed playdough → Stay changed; crumpled foil → Stay changed; a dry papad → Snap; a glass bangle → Snap. *Why:* Sponges and hair bands are elastic. Playdough and foil keep their new shape. A papad and a glass bangle hardly bend before they break.
+3. (fill) An elastic thing changes shape when you push or pull it. When you let go, it goes ____ to its old shape.  
+   **Answer:** ['back']. *Why:* Elastic needs both parts: it changes shape, and then it goes back. Playdough changes shape too, but it does not go back, so it is not elastic.
+4. (mcq) Meenakshi hangs a paper cup from a rubber band. With 5 coins in the cup, the band is 11 cm long. With 10 coins, it is 12 cm. What is the best guess for 15 coins?  
+   Options: About 13 cm / Still 12 cm / About 24 cm / Shorter, about 10 cm  
+   **Answer:** About 13 cm. *Why:* Each 5 coins added about 1 cm, so 5 more coins should add about 1 cm more. 12 + 1 = 13 cm. Picking 24 cm means doubling the length, but only the coins went up by one step. Picking 'shorter' comes from thinking the band fights back. It does pull back, but it still gets longer.
+5. (write) In the coin stretch test, we add coins in equal handfuls of 5. Why not add 3 coins one time and 8 the next?  
+   **Answer:** A strong answer says that equal steps let you compare. If each step is the same 5 coins, you can see whether each step adds the same stretch. With 3 and then 8, you could not tell if the band was following a pattern.. *Why:* Equal steps make a pattern easy to see. This is what made the line on the graph straight.
+6. (truefalse) The further a rubber band is stretched, the harder it pulls back.  
+   **Answer:** True. *Why:* True. You can feel it in your fingers. The band stops stretching at the point where its pull back is as strong as the pull of the coins. More coins, so the band stretches further, until its pull back matches again.
+7. (mcq) Arjun pulls a pen spring very hard. Now it stays long and loose. He says, 'It is more elastic now, because it is longer.' What is wrong with his idea?  
+   Options: The spring went past its elastic limit, so it no longer springs back properly / Nothing. Longer springs are always more elastic / The spring got heavier, so it hangs lower / Pen springs are not elastic at all  
+   **Answer:** The spring went past its elastic limit, so it no longer springs back properly. *Why:* Elastic means springing back, not being long. Arjun pulled the spring past its elastic limit. Now it stays stretched, so it is less elastic, not more. Picking 'not elastic at all' misses that it sprang back when it was pulled gently.
+8. (mcq) In this unit's story, a girl called Ammu watches a festival swing on a mango branch. In the morning the seat hangs at her chin. After the big children swing hard, it hangs at her shoulder. Why is that a warning?  
+   Options: The branch bent and stayed bent, so it had passed its elastic limit and might break / The ropes got longer in the hot sun / Ammu had grown taller that day / A lower swing is always safer  
+   **Answer:** The branch bent and stayed bent, so it had passed its elastic limit and might break. *Why:* A branch that springs all the way back is still elastic. One that stays bent has gone past its limit, and that comes just before breaking. Picking the ropes is a fair guess, but the story says the branch was what had sagged.
 9. (match) Match each spring to its job.  
-   **Answer:** Spring in a clicky pen → pushes the tip back in; Springs on a trampoline → push you back up; Spring in a clothes peg → snaps the jaws shut; Springs in a cycle seat → soften the bumps. *Why:* Springs are used wherever something must push or pull back, or soak up a bump.
-10. (mcq) In the Band Launch, you pull a rubber band back along a ruler, once to the 10 cm mark and once to the 15 cm mark. Which time does it fly further?  
-   Options: Pulled to the 15 cm mark / Pulled to the 10 cm mark / Both the same  
-   **Answer:** Pulled to the 15 cm mark. *Why:* A longer stretch stores more energy, so the band flies further. Picking 'both the same' often means the band is pictured as having one fixed push. In fact its push depends on how far you stretch it.
-11. (mcq) Why does a ball of dough not bounce?  
-   Options: It is too heavy / It is hardly elastic, so it squashes and stays squashed / It is too round / The floor is too hard  
-   **Answer:** It is hardly elastic, so it squashes and stays squashed. *Why:* A bounce is a squash and a spring back. Dough squashes but does not spring back. Picking 'too heavy' is a common guess. But a heavy rubber ball still bounces.
-12. (fill) A stretched catapult stores ____, which flings the paper ball when you let go.  
-   **Answer:** ['energy']. *Why:* Stretching an elastic thing stores energy. Letting go gives it back as movement.
-13. (mcq) Which part of your body works like a spring when you jump?  
-   Options: Your hair / The tendon at the back of your ankle / Your fingernails / Your teeth  
-   **Answer:** The tendon at the back of your ankle. *Why:* Your Achilles tendon stretches as you land and springs back as you push off. Hair is a little stretchy too, but it does not help you jump.
-14. (write) Name two springs or elastic things in your home. Say what job each one does.  
-   **Answer:** Any two good examples, each with a job. For example: the spring in my pen pushes the tip back in. The elastic in my socks stops them falling down.. *Why:* Any two correct examples, each with a job, are right.
-15. (draw) Draw a rubber band before and after you stretch it. Draw an arrow to show which way it pulls back on your fingers.  
-   **Answer:** Two drawings: a small loop, then a long loop. The pull-back arrows point inwards, towards the middle of the band.. *Why:* A stretched band pulls back towards its old shape. That pull-back force points inwards.
-### Springs in the Real World (stretch) (stretch, 15 questions)
-1. (mcq) Look at the line graph from the coin stretch test. With 0 coins the band was 10 cm. With 10 coins it was 12 cm. How long was it with 20 coins?  
-   Options: 13 cm / 14 cm / 20 cm / 12 cm  
-   **Answer:** 14 cm. *Why:* Each 5 coins added 1 cm. 20 coins is 4 lots of 5, so the band grew 4 cm. 10 + 4 = 14 cm. Picking 20 cm usually means the coins were counted as centimetres.
-2. (mcq) The line on the coin stretch graph is straight. What does that tell us?  
-   Options: Each 5 coins added the same extra length / The band did not stretch / The band snapped / The coins were different  
-   **Answer:** Each 5 coins added the same extra length. *Why:* A straight line means the same change each step. This is the spring rule: double the pull, about double the stretch. Picking 'did not stretch' mixes up a flat line with a straight sloping line.
-3. (mcq) A thick rubber band and a thin one hold the same coins. The thick one stretches less. What do scientists call the thick band?  
-   Options: Stiffer / Weaker / Plastic / Brittle  
-   **Answer:** Stiffer. *Why:* A stiff spring needs a bigger pull to stretch the same amount. Picking 'weaker' is a common idea. In fact the thick band can usually hold more before it snaps.
-4. (mcq) Look at the bounce test chart. Which ball is the most elastic?  
-   Options: The rubber ball / The tennis ball / The sponge ball / The dough ball  
-   **Answer:** The rubber ball. *Why:* The rubber ball bounced back highest, 80 cm out of 100 cm. It springs back best and loses the least energy. Picking the sponge ball often means soft is thought to be springy. Soft is not the same as elastic.
-5. (truefalse) A good rubber ball dropped from 1 metre can bounce back higher than 1 metre.  
-   **Answer:** False. *Why:* False. Some energy always turns into heat and sound when it squashes. So it never comes all the way back up, unless someone throws it down.
-6. (mcq) Why does a bamboo tree bend in a storm instead of snapping?  
-   Options: It is elastic, so it bends, stores the push, and springs back / It is dead inside / It is very heavy / The wind is weak  
-   **Answer:** It is elastic, so it bends, stores the push, and springs back. *Why:* Springy things soak up a sudden push by bending. Picking 'dead inside' is the opposite. Dry, dead wood is the kind that snaps.
-7. (mcq) In the story 'The Tired Branch', Ammu saw the swing seat hanging lower after the boys jumped off. What did that tell her?  
-   Options: The branch had passed its elastic limit and might break / The ropes had got longer in the sun / The branch was growing / Nothing important  
-   **Answer:** The branch had passed its elastic limit and might break. *Why:* The branch had bent and stayed bent, so it was no longer springing back. That is the warning sign of the elastic limit. Picking 'the ropes got longer' is a sensible guess, but the branch was what had sagged.
-8. (mcq) Ammu's mother pulls the corner of a rubber sheet. An old sheet stretches and stays stretched. What idea does this show?  
-   Options: The elastic limit / Friction / Gravity / Bouncing  
-   **Answer:** The elastic limit. *Why:* A good sheet springs back. An old, sun-damaged sheet stays stretched, because it has passed its limit. Soon it tears. Picking 'friction' mixes up rubbing with stretching.
-9. (sort) Sort these by what they store energy in.  
-   **Answer:** a catapult → Stretching; a bow → Stretching; a trampoline → Stretching; a pen spring → Squashing; a bouncing ball → Squashing; the rubber band car → Twisting. *Why:* A catapult band, a bow string and trampoline springs are stretched. A pen spring and a ball are squashed. The car's band is twisted round the axle.
-10. (mcq) The rubber band car went 60 cm with 5 winds and 180 cm with 15 winds. Why?  
-   Options: More winds stored more energy / The car got lighter / The wheels got bigger / The floor changed  
-   **Answer:** More winds stored more energy. *Why:* Each wind twists the band more and stores more energy. Picking 'lighter' or 'floor changed' means looking for another cause. In a fair test, only the number of winds changed.
-11. (mcq) One rubber band stretches 4 cm with 20 coins. Two of the same bands hang side by side, holding the same 20 coins. About how far do they stretch?  
+   **Answer:** Springs in a mattress → squash and push your body back up; Spring in a clicky pen → pushes the tip back in; Springs round a trampoline → stretch and fling you up; Springs under a cycle seat → soak up the bumps in the road. *Why:* Springs are used wherever something must push back, pull back, or soak up a bump.
+10. (mcq) In the Band Launch, Lakshmi pulls a rubber band back 5 cm and it flies 1 metre. Next she pulls it back 15 cm. What will most likely happen?  
+   Options: It flies further, because a longer stretch stores more energy / It flies the same 1 metre, because it is the same band / It flies less far, because it is tired / It does not fly at all  
+   **Answer:** It flies further, because a longer stretch stores more energy. *Why:* A longer stretch puts more energy into the band. When she lets go, the band gives that energy back as movement, so it flies further. Picking 'the same' pictures the band as having one fixed push. Its push depends on how far it is stretched.
+11. (order) Put the steps of a rubber ball's bounce in order, from first to last.  
+   **Answer:** order shown. *Why:* A bounce is a squash and then a spring back. The squash happens too fast to see, but a wet ball leaves a round mark that shows how flat it went.
+12. (write) In the Bounce Test, a rubber ball bounces back up, but a ball of dough just goes splat. Explain why.  
+   **Answer:** A strong answer says the rubber ball squashes and then springs back, and the spring back pushes it up. The dough squashes and stays squashed. It never springs back, so nothing pushes it up again.. *Why:* A bounce needs an elastic squash. Being heavy or round does not matter: a heavy rubber ball still bounces.
+13. (write) Think of two springy things you found in your Spring Hunt. For each one, say what would go wrong if it stopped springing back.  
+   **Answer:** Two real finds, each with what would go wrong. For example: if my hair band stopped springing back, it would hang loose and fall out. If the spring in the clothes peg stopped, the peg would not grip and the clothes would blow away.. *Why:* Asking 'what would go wrong?' shows the job each spring does.
+14. (draw) Draw a rubber band held between two fingers, first loose and then stretched. On the stretched one, draw arrows showing which way the band pulls on each finger.  
+   **Answer:** Two drawings: a small loop, then a long loop. On the long loop, the arrows point inwards, towards the middle of the band, because the band pulls back towards its old shape.. *Why:* A stretched band always pulls back towards its old shape. You can feel this pull on your fingers.
+15. (perspective) In the story The Tired Branch, the children of a lane in Kerala hang an Onam swing from a mango tree. They must choose a branch. Three people say what they think.  
+   **Answer:** A strong answer picks a branch and explains it with springing back. A thin branch bends more, which gives a bouncier swing, but it gets near its limit sooner. A thick branch bends less and is safer, but less exciting. The best answers admit the other side and may add a check, like watching the seat height every day.. *Why:* There is no single right answer. Springiness is fun, and safety matters. Watching whether a thing still springs all the way back is how you know it is safe.
+### Springs in the Real World (stretch) (stretch, 16 questions)
+1. (mcq) Look at this graph from a coin stretch test. Where does the pattern change?  
+   Options: After 20 coins, each 5 coins add more than 1 cm / At 5 coins, the band stops stretching / The pattern never changes / At 0 coins, the band is too long  
+   **Answer:** After 20 coins, each 5 coins add more than 1 cm. *Why:* Up to 20 coins the line is straight: each 5 coins add 1 cm. After 20 coins the steps jump to 2 cm and then 3 cm. That is a sign the band is near its elastic limit. Picking 'never changes' means only the first part of the line was read.
+2. (fill) A pen spring is 4 cm long. With 1 small weight hanging on it, it is 5 cm. With 2 weights, it is 6 cm. If the pattern holds, with 4 weights it will be ____ cm.  
+   **Answer:** ['8', 'eight']. *Why:* Each weight adds 1 cm. 4 weights add 4 cm. 4 + 4 = 8 cm. This only works below the elastic limit. Hang too much and the pattern breaks.
+3. (mcq) Selvi in Madurai makes a weighing hook for mangoes from a rubber band. A thin band stretches 10 cm with one mango and snaps with three. A thick band stretches 3 cm with one mango. Which band should she use?  
+   Options: The thick band, because it is stiffer and stays below its limit with heavy loads / The thin band, because a bigger stretch is always better / Either band, because all bands are the same / Neither, because rubber cannot weigh things  
+   **Answer:** The thick band, because it is stiffer and stays below its limit with heavy loads. *Why:* A stiff band needs a bigger pull to stretch. So three mangoes keep it below its elastic limit, and it will spring back every time. Picking the thin band is tempting, because its stretch is easy to see. But it snaps before the job is done.
+4. (mcq) One rubber band stretches 4 cm with 20 coins. Now two of the same bands hang side by side, holding the same 20 coins together. About how far do they stretch?  
    Options: About 2 cm / About 4 cm / About 8 cm  
-   **Answer:** About 2 cm. *Why:* Side by side, each band carries only half the coins, so each stretches about half as far: 2 cm. Picking 8 cm usually means two bands were pictured adding their stretch. That happens only when they are joined in a row.
-12. (match) Match each living thing to their spring.  
-   **Answer:** Flea → a pad of resilin; Kangaroo → long springy tendons; Spider → stretchy silk web; You → Achilles tendon and stretchy skin. *Why:* Living things use elastic parts to jump, catch food and stay in one piece.
-13. (mcq) Why does your skin spring back after a pinch?  
-   Options: It has a stretchy stuff called elastin / It is made of rubber / Blood pushes it back / It is cold  
-   **Answer:** It has a stretchy stuff called elastin. *Why:* Elastin is a stretchy material in skin, lungs and blood vessels. Picking 'blood pushes it back' is a sensible guess, but the skin springs back by itself. Old skin has less elastin, so it springs back more slowly. Picking 'rubber' is close, because elastin is rubbery, but your body makes it.
-14. (write) A hanging spring balance, the kind used to weigh luggage, has a spring inside. Why does a heavier bag move the pointer further?  
-   **Answer:** A heavier bag pulls down harder on the spring. A bigger pull stretches the spring further, so the pointer moves further down the scale.. *Why:* The spring rule: a bigger pull makes a bigger stretch. The unit on measuring forces looks at this more.
-15. (draw) Draw the catapult from the Catapult Challenge. Label where the energy is stored before you let go.  
-   **Answer:** A drawing of the catapult with the arm pressed down. The label points to the bent arm or the stretched rubber bands.. *Why:* The bent stick and stretched bands store the energy. When you let go, they spring back and fling the ball.
-### Springs, Atoms and Stretching Space (challenge) (challenge, 17 questions)
-1. (mcq) Deep down, why does a steel spring spring back?  
-   Options: Its atoms are held by electric pulls that act like tiny springs / It has tiny rubber bands inside / Air pushes it back / Gravity pulls it back  
-   **Answer:** Its atoms are held by electric pulls that act like tiny springs. *Why:* Bonds between atoms pull them back to their places. Picking 'tiny rubber bands' is a nice picture, but there is no rubber in steel. Picking gravity misses that springs work sideways and upside down too.
-2. (mcq) Rubber springs back for a different reason. What is rubber made of?  
-   Options: Long tangled chains, like cooked noodles / Neat rows of atoms, like steel / Tiny bubbles of air / Water  
-   **Answer:** Long tangled chains, like cooked noodles. *Why:* Rubber is made of polymers, long tangled chains. Stretching straightens them. Jiggling shakes them back into a tangle. Picking 'neat rows' is how steel is built, not rubber.
-3. (mcq) Past the elastic limit, a steel spring stays stretched. What happens to its atoms?  
-   Options: Rows of atoms slip, and each atom settles beside new neighbours / The atoms disappear / The atoms get bigger / Nothing happens to them  
-   **Answer:** Rows of atoms slip, and each atom settles beside new neighbours. *Why:* Below the limit, bonds just stretch and pull back. Past it, rows of atoms slip over each other and rest in new places. Picking 'disappear' is a common guess, but atoms are never lost. They only move.
-4. (truefalse) A stretched rubber band pulls harder when you warm it.  
-   **Answer:** True. *Why:* True. Warmth makes rubber's chains jiggle more, so they pull back into a tangle harder. This is the opposite of most materials, which get a little longer when warm.
-5. (mcq) What causes an earthquake?  
-   Options: Rock slowly bends underground, then suddenly slips and springs back / The Earth gets too hot / Heavy buildings press the ground down / Wind blows on mountains  
-   **Answer:** Rock slowly bends underground, then suddenly slips and springs back. *Why:* Harry Fielding Reid explained this in 1910. Picking 'heavy buildings' is a common worry, but earthquakes start many kilometres underground, far below any building.
-6. (mcq) In the ruler earthquake, you press a ruler's end down until it slips off your finger. The twang is like…  
-   Options: The shaking when bent rock slips / A volcano / Thunder / A gravitational wave  
-   **Answer:** The shaking when bent rock slips. *Why:* The bent ruler stores energy, then lets it all go at once. Bent rock does the same in an earthquake.
-7. (mcq) In 2015, LIGO caught a gravitational wave. What did the wave do to LIGO's 4-kilometre arms?  
-   Options: Stretched and squeezed them by far less than the width of an atom / Snapped them / Made them glow / Stretched them by 1 metre  
-   **Answer:** Stretched and squeezed them by far less than the width of an atom. *Why:* The stretch was less than a hundredth of the width of a proton. A proton is a tiny speck inside an atom. Picking '1 metre' shows how hard it is to imagine something so small. That is why LIGO took decades to build.
-8. (mcq) In Rubber Band Galaxies, you stretched a strip with dots on it. Which dot moved furthest from dot A?  
-   Options: The dot furthest from A / The dot nearest to A / All moved the same / None moved  
-   **Answer:** The dot furthest from A. *Why:* When the whole strip stretches, far dots move away faster. Astronomers see the same with galaxies. Picking 'all the same' misses that each piece of rubber between dots stretches, so more rubber means more stretch.
-9. (truefalse) Scientists know exactly what space is made of.  
-   **Answer:** False. *Why:* False. We have measured space stretching, but nobody knows what space is made of. String theory and loop quantum gravity are ideas with no evidence yet.
-10. (mcq) Who made bouncy rubber balls about 3,500 years ago?  
-   Options: People in ancient Mexico and Central America / Charles Goodyear / Robert Hooke / Isaac Newton  
-   **Answer:** People in ancient Mexico and Central America. *Why:* Dorothy Hosler's team showed in 1999 how they mixed rubber-tree sap with morning glory juice. Picking Goodyear is common, because books credit him. He lived about 3,400 years later.
-11. (mcq) Why did the cold matter for the rubber seals on the space shuttle Challenger?  
-   Options: Cold rubber springs back too slowly to seal the gap / Cold rubber melts / Cold rubber gets heavier / It did not matter  
-   **Answer:** Cold rubber springs back too slowly to seal the gap. *Why:* Cold rubber goes stiff, so it springs back slowly. The engineer Roger Boisjoly warned about this. Picking 'melts' mixes up cold with heat.
-12. (mcq) Robert Hooke hid his spring rule in a code of jumbled letters in 1676. Why might he have done this?  
-   Options: So nobody could claim it before he was ready to explain it / He forgot how to spell / It was a joke / He did not believe it  
-   **Answer:** So nobody could claim it before he was ready to explain it. *Why:* Scientists sometimes did this to prove later that they had the idea first. Picking 'a joke' is a fair guess for something so odd. But it was a serious way to protect his claim.
-13. (write) Spider silk is very stretchy, and weight for weight stronger than steel wire. Does that change the idea that stretchy things are weak? Explain.  
-   **Answer:** Yes. Spider silk shows that a thing can be both stretchy and strong. Stretching lets it soak up a fly hitting the web without snapping.. *Why:* Being able to stretch can make a material tougher, because it soaks up sudden pushes.
-14. (write) In the bungee doll challenge, 2 bands let the doll fall 30 cm, 3 bands 40 cm and 4 bands 50 cm. Describe the pattern. Then predict 8 bands.  
-   **Answer:** Each extra band adds 10 cm. 4 bands is 50 cm, so 8 bands is 4 more bands, which is 40 cm more. 50 + 40 = 90 cm.. *Why:* The pattern goes up by the same amount each time, like the spring rule. Real rubber bands may curve a little near their limit.
-15. (write) Is it better to be stiff or to bend? Give one example where stiff is better and one where bending is better.  
-   **Answer:** A balanced answer. For example: a ruler for drawing lines should be stiff. A bridge in a storm is better if it can bend and spring back, and so is a tree.. *Why:* There is no single right answer. What counts is a good example for each side.
-16. (draw) Draw a model of atoms in a spring, as balls joined by tiny springs. Draw it again when the spring is stretched.  
-   **Answer:** Two drawings. In the first, balls are evenly spaced with short springs between them. In the second, the balls are a little further apart and the springs are longer.. *Why:* Stretching a spring stretches the bonds between its atoms a tiny bit each.
-17. (write) Robert Hooke used a wire 20 to 40 feet long, about 6 to 12 metres, to measure stretch. Why does a long wire help?  
-   **Answer:** A long wire has many more bonds in a row. Each bond stretches a tiny amount, and all the tiny amounts add up to a stretch big enough to measure.. *Why:* This is the same reason two bands in a chain stretch twice as far as one.
+   **Answer:** About 2 cm. *Why:* Side by side, the two bands share the coins. Each one carries only half, so each stretches about half as far: 2 cm. Picking 8 cm means picturing the two stretches adding up. That happens only when the bands are joined in a chain.
+5. (truefalse) A perfect rubber ball, dropped from 1 metre, would bounce back higher than 1 metre.  
+   **Answer:** False. *Why:* False. Even a perfect ball could only come back to where it started. Real balls lose some energy as heat and sound at each squash, so they always come back lower. A ball can only go higher if someone throws it down.
+6. (mcq) Look at these Bounce Test results. Farhan says the sponge ball is the most elastic, because it is the softest. What do the results show?  
+   Options: The rubber ball is most elastic, because it springs back highest / Farhan is right: the sponge ball is most elastic / The dough ball is most elastic / All the balls are equally elastic  
+   **Answer:** The rubber ball is most elastic, because it springs back highest. *Why:* The rubber ball came back up 80 cm out of 100 cm, so it springs back best. The sponge ball came back only 20 cm. Soft is not the same as elastic. Farhan's guess is common, which is why testing matters.
+7. (sort) Sort these by how they store energy.  
+   **Answer:** a catapult band pulled back → Stretching; a bow string pulled back → Stretching; trampoline springs → Stretching; a pen spring pressed in → Squashing; a ball hitting the floor → Squashing; the rubber band car, wound up → Twisting. *Why:* A catapult band, a bow string and trampoline springs are pulled longer. A pen spring and a landing ball are pressed shorter. The car's band is twisted round the axle.
+8. (mcq) Deepa's rubber band car goes 60 cm with 5 winds and 180 cm with 15 winds. About how far will it go with 10 winds?  
+   Options: About 120 cm / About 60 cm / About 240 cm / About 10 cm  
+   **Answer:** About 120 cm. *Why:* Each wind adds about 12 cm: 60 divided by 5 is 12. 10 winds is 10 times 12, which is 120 cm. It sits halfway between 60 and 180. Picking 240 cm means going past 15 winds instead of between.
+9. (write) Divya tests her rubber band car twice. She winds it 5 times on a carpet, then 15 times on a smooth tiled floor. She says, 'The extra winds made it go further.' What is wrong with her test? How would you fix it?  
+   **Answer:** A strong answer says two things changed at once: the number of winds and the floor. The tiles may have let the car roll further. To fix it, she should test both on the same floor and change only the winds.. *Why:* A fair test changes only one thing. Then you know what caused the difference.
+10. (mcq) In the Rubber Band Orchestra, you stretch one band tighter round the box and pluck it again. What happens to the sound?  
+   Options: The note goes higher / The note goes lower / The note stays the same / It makes no sound  
+   **Answer:** The note goes higher. *Why:* A tighter band pulls back harder, so it springs back and forth faster. Faster shaking, called vibrating, makes a higher note. A veena or guitar player tightens a string to make it higher in the same way.
+11. (match) Match each living being to the springy part they use.  
+   **Answer:** A flea → a springy pad that flings them into a jump; A kangaroo → long tendons that stretch and spring back as they hop; A spider → a stretchy silk web that catches flies without breaking; You → the tendon at the back of your ankle. *Why:* Living beings store energy in springy parts and get it back. This saves effort when they jump, hop or run.
+12. (write) After a storm in Mysuru, a clump of bamboo is still standing. But an old, dry branch nearby has snapped. Explain why one bent and one broke.  
+   **Answer:** A strong answer says the green bamboo is elastic. It bends in the wind, stores the push for a moment, and springs back. The dry branch is brittle. It cannot bend much, so the push breaks it.. *Why:* Bending lets a thing soak up a sudden push. This is why green twigs bend and dry twigs snap in the Bend or Snap activity.
+13. (write) A hanging luggage scale has a spring inside. Why does a heavier bag move the pointer further? And why would a far too heavy bag ruin the scale?  
+   **Answer:** A strong answer says a heavier bag pulls harder, so the spring stretches further and the pointer moves further. A far too heavy bag would pull the spring past its elastic limit. Then the spring would stay stretched, and every reading after that would be wrong.. *Why:* The scale only works while the spring follows the rule: a bigger pull, a bigger stretch, and back again.
+14. (draw) Draw the catapult from the Catapult Challenge, pressed down and ready to fire. Label where the energy is stored before you let go.  
+   **Answer:** A drawing of the catapult with the arm pressed down. The label points to the bent stick or the stretched rubber bands.. *Why:* The bent stick and the stretched bands store the energy. When you let go, they spring back and fling the ball.
+15. (perspective) Two friends in Chennai argue about which is more elastic, a rubber band or a steel spring. Their teacher joins in.  
+   **Answer:** A strong answer picks a side and uses evidence: a rubber band stretches much further, but a steel spring loses less and lasts longer, and old bands stay loose. It answers back fairly, and the best answers notice that 'elastic' can mean two different things.. *Why:* Scientists say 'elastic' when a thing comes back fully. Rubber can stretch very far, but steel comes back more perfectly. Both friends have real evidence.
+16. (order) Three rubber bands each hold 20 coins. Band A stretches 1 cm. Band B stretches 4 cm. Band C stretches 8 cm. Put them in order from the stiffest to the least stiff.  
+   **Answer:** order shown. *Why:* A stiff band needs a bigger pull to stretch, so it stretches least with the same coins. Band A stretched least, so it is the stiffest.
+### Springs, Atoms and Stretching Space (challenge) (challenge, 16 questions)
+1. (mcq) Zoom deep into a steel spring and you find atoms in neat rows. Each atom is held to its neighbours by pulls called bonds. You stretch the spring a little. What do the bonds do?  
+   Options: They stretch a tiny bit and pull the atoms back to their places / They break, and new ones grow / Nothing. Only the outside of the spring stretches / They turn into rubber  
+   **Answer:** They stretch a tiny bit and pull the atoms back to their places. *Why:* Each atom rests where the pulls from its neighbours balance. Pull the atoms a little apart, and the bonds pull them back, like tiny springs. Picking 'only the outside stretches' misses that every row of atoms stretches a little.
+2. (write) Meenakshi bends a steel hairpin hard, and it stays bent. Her brother says, 'Some of the metal must have been squeezed out.' Is he right? Say what really happened to the atoms.  
+   **Answer:** A strong answer says no, nothing was squeezed out. Every atom is still there. The bend went past the elastic limit, so rows of atoms slipped over each other and settled beside new neighbours. That is why the new shape stays.. *Why:* Below the limit, bonds stretch and pull back. Past it, atoms move to new places. Nothing is lost, only moved.
+3. (truefalse) Hang coins from a rubber band. Then blow warm air from a hair dryer on the band. The band gets a little shorter.  
+   **Answer:** True. *Why:* True, which surprises most people. Warmth makes the tangled chains inside rubber jiggle more. More jiggling shakes them back into a tangle harder, so the band pulls up. Most other things get a little longer when warm.
+4. (mcq) Rubber is made of long tangled chains, like a bowl of cooked noodles. What does stretching do to the chains?  
+   Options: It pulls them straighter, and jiggling tangles them again when you let go / It cuts them into short pieces / It packs them into neat rows, like steel / It makes them melt  
+   **Answer:** It pulls them straighter, and jiggling tangles them again when you let go. *Why:* Stretching lines the chains up. The atoms in them jiggle all the time, and there are many more tangled ways than straight ways. So when you let go, they shake back into a tangle. Picking 'neat rows' is how steel is built, not rubber.
+5. (write) Robert Hooke, an English scientist, wanted to measure how a wire stretches. A short wire stretched too little to see. So he hung weights on a wire 6 to 12 metres long. Why did a long wire help?  
+   **Answer:** A long wire has many more atoms in a row. Each little piece of wire stretches a tiny bit. All the tiny bits add up to a stretch big enough to measure.. *Why:* This is the same reason two bands in a chain stretch twice as far as one.
+6. (mcq) Many people think heavy buildings cause earthquakes. Where do earthquakes really start?  
+   Options: Many kilometres underground, where rock bends slowly for years and then suddenly slips / Under the heaviest buildings in a city / In the sky, when thunder shakes the ground / At the bottom of the sea only  
+   **Answer:** Many kilometres underground, where rock bends slowly for years and then suddenly slips. *Why:* The Earth's outer layer is broken into giant pieces that push on each other. The rock bends and stores energy, then slips in seconds. Harry Fielding Reid explained this in 1910. Buildings are far too small and too near the top to do it.
+7. (write) In the ruler earthquake, you press a ruler's free end down slowly. Then your finger slips off, and the ruler twangs. Which part is like the years before an earthquake? Which part is like the earthquake?  
+   **Answer:** Pressing the ruler down slowly is like the years before: the rock bends and stores energy. The slip and the twang are like the earthquake: all the stored energy is let go at once, and everything shakes.. *Why:* Rock is elastic, like the ruler. Under the Himalaya, rock is being squeezed by about 2 cm a year, storing energy for the next slip.
+8. (mcq) In 2015, an instrument in the United States called LIGO caught a gravitational wave, a ripple in space itself. LIGO has arms 4 kilometres long. How much did the wave stretch them?  
+   Options: By less than the width of a tiny speck inside an atom / By about 1 metre / By about 1 centimetre / It snapped them  
+   **Answer:** By less than the width of a tiny speck inside an atom. *Why:* The stretch was less than a hundredth of the width of a proton. A proton is a speck inside an atom. That is why LIGO took decades to build. Picking 1 metre shows how hard it is to imagine something so small.
+9. (mcq) In Rubber Band Galaxies, you draw dots on a rubber strip, 1 cm apart, and stretch it. Which dot moves furthest away from the first dot, dot A?  
+   Options: The dot furthest from A / The dot nearest to A / All the dots move the same amount / None of them move  
+   **Answer:** The dot furthest from A. *Why:* Each piece of rubber between the dots stretches. The far dot has the most rubber between it and A, so it moves furthest. Astronomers see the same with galaxies: the furthest ones are moving away fastest. Picking 'all the same' misses that the stretches add up.
+10. (truefalse) Scientists have measured space stretching. So they know what space is made of.  
+   **Answer:** False. *Why:* False. Measuring what something does is not the same as knowing what it is. We know space can stretch and ripple. Nobody yet knows what space is made of. Scientists have ideas, but no evidence for any of them yet.
+11. (write) Many people think stretchy things are weak. Spider silk is very stretchy, but weight for weight it is stronger than steel wire. Does that change the idea? Explain why stretching helps a web.  
+   **Answer:** Yes. Spider silk shows a thing can be stretchy and strong at the same time. When a fly hits the web, the silk stretches and soaks up the push slowly, so it does not snap. A stiff thread would take the whole push at once and break.. *Why:* Being able to stretch can make a material tougher, because it soaks up sudden pushes.
+12. (write) In the Bungee Doll challenge, a chain of 2 bands lets the doll drop 30 cm. 3 bands let it drop 40 cm. 4 bands let it drop 50 cm. Describe the pattern and predict 8 bands. Why might a real test not match exactly?  
+   **Answer:** Each extra band adds 10 cm. 8 bands is 4 more than 4 bands, so 40 cm more: 50 + 40 = 90 cm. A real test might not match because bands are not all the same, and near their limit they stretch more than the pattern says.. *Why:* The pattern goes up by the same amount each time, like the spring rule. Real bands can bend the line near their limit.
+13. (perspective) Long ago, the Greek thinker Aristotle had an idea about why things keep their shape. Scientists today explain it differently. A girl who did the pen spring test adds her own view.  
+   **Answer:** A strong answer picks a view and uses real evidence: the spring came back after gentle pulls, but stayed long after a hard pull, and a hairpin stays bent. It answers back fairly, for example that a spring does seem to 'want' its shape, or that the atoms explain exactly where the limit comes from.. *Why:* Scientists explain springing back with balanced pulls between atoms. Some thinkers today still find Aristotle's idea useful. Kavya's view shows the evidence both sides must explain.
+14. (mcq) Robert Hooke said every springy thing follows his rule, however far you stretch it: double the pull, double the stretch. Which result from a coin test would show this is not always true?  
+   Options: Near the end, each 5 coins stretched the band much more than before / Every 5 coins added exactly 1 cm / The band was 10 cm with no coins / The cup was made of paper  
+   **Answer:** Near the end, each 5 coins stretched the band much more than before. *Why:* If the steps of stretch suddenly get bigger, the band no longer follows the rule. Later tests showed the rule works only for small stretches, below the elastic limit. Picking 'exactly 1 cm each time' is evidence for the rule, not against it.
+15. (draw) Draw a model of the atoms in a spring, as balls joined by tiny springs. Then draw it again when the spring is stretched.  
+   **Answer:** Two drawings. In the first, the balls are evenly spaced with short springs between them. In the second, the balls are a little further apart and every tiny spring is a little longer.. *Why:* Stretching a spring stretches every bond between its atoms a tiny bit.
+16. (fill) In 1986, rubber rings sealed the joints of the space shuttle Challenger's rockets. On a freezing morning, the cold rubber went stiff and sprang back too ____ to close the gap.  
+   **Answer:** ['slowly', 'slow']. *Why:* Cold rubber chains jiggle less, so they spring back slowly. The engineer Roger Boisjoly warned about this the night before. A seal failed, and the shuttle broke apart. Springing back on time can matter a great deal.
 
 ## Videos
 - **Slinky drop in slow motion** (Veritasium, 4 min) id `JsytnJ_pSf8`: Shows a stretched spring in slow motion. The bottom of a dropped Slinky stays still in the air until the top crashes into it. It shows that a spring's pull back travels along it, coil by coil. *Check:* Found by YouTube search: "Supersized Slow-Mo Slinky Drop" by Veritasium. Title checked automatically; a parent may still preview it.
@@ -834,54 +824,54 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 - **Tapping a rubber tree for latex** (Thai Sabai, 5 min) id `ami3xanZjPI`: Shows the real work from the story: tapping rubber trees, collecting latex, rolling it into sheets and smoking them. (Filmed in Thailand; tapping in Kerala works the same way.) *Check:* Found by YouTube search: "Tapping rubber tree" by Thai Sabai. Title checked automatically; a parent may still preview it.
 
 ## Quiz
-1. (mcq) What does elastic mean?  
-   Options: It springs back to its shape when you let go / It is soft / It is made of plastic / It breaks easily  
-   **Answer:** It springs back to its shape when you let go. *Why:* Elastic things change shape and then spring back. Picking 'soft' is common, but a steel spring is hard and elastic.
-2. (mcq) Which of these is elastic?  
-   Options: A sponge / Playdough / A dry twig  
-   **Answer:** A sponge. *Why:* A sponge springs back. Playdough stays changed. A dry twig snaps. Picking playdough often means changing shape was mixed up with springing back.
-3. (mcq) In the coin stretch test, what should you change to make it a fair test?  
-   Options: Only the number of coins / The coins and the cup / Everything  
-   **Answer:** Only the number of coins. *Why:* Change only one thing at a time. Then you know what caused the change. Picking 'coins and cup' means testing two things at once.
-4. (mcq) Look at the line graph. With 0 coins the band was 10 cm, and each 5 coins added 1 cm. How long was it with 25 coins?  
-   Options: 15 cm / 25 cm / 11 cm  
-   **Answer:** 15 cm. *Why:* 25 coins is 5 lots of 5 coins. That adds 5 cm. 10 + 5 = 15 cm. Picking 25 cm means the coins were read as centimetres.
-5. (mcq) A spring is pulled far past its elastic limit. When you let go, what happens?  
-   Options: It stays stretched, or it snaps / It springs back perfectly / It gets shorter than before  
-   **Answer:** It stays stretched, or it snaps. *Why:* Past the limit, a spring cannot get back. Picking 'perfectly' means elastic was thought to have no limit.
-6. (mcq) Which of these snaps rather than bending or stretching?  
-   Options: A papad / A rubber band / Chewing gum  
-   **Answer:** A papad. *Why:* A papad is brittle. It hardly bends before it snaps. Picking chewing gum mixes up stays-changed with snapping.
-7. (mcq) Why does a stretched catapult fling a paper ball?  
-   Options: The stretched band stores energy and gives it back / The ball is light / The air pushes it  
-   **Answer:** The stretched band stores energy and gives it back. *Why:* Stretching stores energy. Letting go turns it into movement. Picking 'the ball is light' is true but is not what flings it.
-8. (mcq) A ball bounces. What happens when it hits the floor?  
-   Options: It squashes for a moment, then springs back / It stays perfectly round / The floor throws it up  
-   **Answer:** It squashes for a moment, then springs back. *Why:* A bounce is a squash and a spring back. Picking 'stays round' is natural, because the squash is too fast to see.
-9. (mcq) Which spring is in a clicky pen?  
-   Options: A squash spring that pushes the tip back in / A stretch spring / There is no spring  
-   **Answer:** A squash spring that pushes the tip back in. *Why:* Pressing the pen squashes its spring. It pushes the tip back in when you click again.
-10. (mcq) Which part of your body works like a spring when you run?  
-   Options: Your Achilles tendon / Your eyebrows / Your fingernails  
-   **Answer:** Your Achilles tendon. *Why:* The tendon at the back of your ankle stretches as you land and springs back as you push off.
-11. (mcq) Deep down, why do solid things spring back?  
-   Options: Each atom rests where the pulls from its neighbours balance, and is pulled back there / They have air inside / Gravity pulls them back  
-   **Answer:** Each atom rests where the pulls from its neighbours balance, and is pulled back there. *Why:* Bonds between atoms pull each atom back to its resting place. Picking gravity misses that springs work sideways and upside down too.
-12. (mcq) Two rubber bands are joined in a chain, and the same coins hang from it. Compared with one band, the chain stretches…  
-   Options: About twice as far / About half as far / The same  
-   **Answer:** About twice as far. *Why:* Each band in the chain carries all the coins. So each stretches as much as one band, and the stretches add up. Picking 'half' mixes it up with two bands side by side, which share the pull.
-13. (mcq) A pen spring was pulled too far. Now it rests at a longer length. What happened inside it?  
-   Options: Rows of atoms slipped, and each atom settled beside new neighbours / Some of the metal leaked out / Some of its atoms were used up  
-   **Answer:** Rows of atoms slipped, and each atom settled beside new neighbours. *Why:* Past the limit, rows of atoms slip and settle in new places. So the spring has a new length. Nothing leaked out. Every atom is still there, just in a new place.
-14. (mcq) What happens in an earthquake?  
-   Options: Bent rock underground suddenly slips and springs back / The Earth gets bigger / Heavy buildings sink  
-   **Answer:** Bent rock underground suddenly slips and springs back. *Why:* Rock bends slowly for years, then slips. Picking 'buildings sink' mixes up the cause with the damage.
-15. (mcq) What does a gravitational wave do?  
-   Options: It stretches and squeezes space itself, by a tiny amount / It makes the sea wavy / It is a wave of light  
-   **Answer:** It stretches and squeezes space itself, by a tiny amount. *Why:* Gravitational waves are ripples in space. Picking 'the sea' mixes them up with tides or ocean waves.
-16. (mcq) Do scientists know what space is made of?  
-   Options: No, it is still an open question / Yes, it is made of rubber / Yes, it is made of air  
-   **Answer:** No, it is still an open question. *Why:* We can measure space stretching, but not what it is made of. Picking 'rubber' takes the rubber-sheet picture too literally.
+1. (mcq) Which of these is hard but still elastic?  
+   Options: The steel spring in a clothes peg / A lump of wet clay / A cotton ball  
+   **Answer:** The steel spring in a clothes peg. *Why:* The peg's steel spring is hard, but it springs back every time you squeeze the peg. Clay stays changed. A cotton ball is soft, and squashed cotton mostly stays squashed.
+2. (mcq) You squeeze a sponge and let go. It puffs back up. What word fits the sponge?  
+   Options: Elastic / Brittle / Stays changed  
+   **Answer:** Elastic. *Why:* It changed shape and went back, so it is elastic. Brittle things snap. 'Stays changed' is the opposite of what the sponge did.
+3. (mcq) In the coin stretch test, what should stay the same every time you add coins?  
+   Options: The rubber band, the cup and how you read the ruler / Nothing. Change everything / The number of coins  
+   **Answer:** The rubber band, the cup and how you read the ruler. *Why:* Only the number of coins should change. Then you know the coins caused the stretch. Picking 'the number of coins' gets it backwards: that is the one thing you change.
+4. (mcq) A band is 10 cm long with no coins. Each 5 coins make it 1 cm longer. How many coins make it 13 cm long?  
+   Options: 15 coins / 13 coins / 3 coins  
+   **Answer:** 15 coins. *Why:* 13 cm is 3 cm longer than 10 cm. Each 1 cm needs 5 coins. 3 times 5 is 15 coins. Picking 3 coins counts the centimetres, not the coins.
+5. (mcq) A spring sprang back after a gentle pull. After a very hard pull, it stays long. What did the hard pull do?  
+   Options: It went past the spring's elastic limit / It made the spring more elastic / It made the spring heavier  
+   **Answer:** It went past the spring's elastic limit. *Why:* Past the elastic limit, a spring stays stretched. It is now less elastic, not more.
+6. (mcq) What is a warning sign that something is near its elastic limit?  
+   Options: It no longer goes all the way back to its old shape / It springs back very quickly / It feels cold  
+   **Answer:** It no longer goes all the way back to its old shape. *Why:* When a thing stays a little stretched or bent, it is near its limit and may soon break. This is what Ammu saw in the swing branch in the story.
+7. (mcq) Pulling a catapult back further makes the paper ball fly further. Why?  
+   Options: A bigger stretch stores more energy / The ball gets lighter / The air pushes the ball harder  
+   **Answer:** A bigger stretch stores more energy. *Why:* More stretch stores more energy, up to the elastic limit. Letting go turns that energy into movement.
+8. (mcq) Before you let go of a wound-up toy, where is the energy kept?  
+   Options: In its tightly coiled spring / In its wheels / In the air around it  
+   **Answer:** In its tightly coiled spring. *Why:* Winding coils the spring tighter and stores energy in it. As the spring unwinds, it turns the wheels.
+9. (mcq) What job does the spring in a clothes peg do?  
+   Options: It snaps the jaws shut so the peg grips / It makes the peg lighter / It lets the peg stretch longer  
+   **Answer:** It snaps the jaws shut so the peg grips. *Why:* When you squeeze the peg, you bend its spring. Let go, and the spring springs back and closes the jaws.
+10. (mcq) When you land from a jump, which part of you stretches and then springs back to help the next jump?  
+   Options: The tendon at the back of your ankle / Your eyebrows / Your teeth  
+   **Answer:** The tendon at the back of your ankle. *Why:* This tendon is called the Achilles tendon. It stretches as you land and springs back as you push off, so you use less effort.
+11. (mcq) A steel spring springs back even when it is upside down or lying sideways. What does that tell us?  
+   Options: Pulls between its atoms bring it back, not gravity / Gravity pulls it back every time / There is air trapped inside it  
+   **Answer:** Pulls between its atoms bring it back, not gravity. *Why:* Gravity only pulls down, so it cannot pull a spring back sideways. The bonds between atoms pull each atom back to its resting place, whichever way the spring faces.
+12. (mcq) Three of the same rubber bands are joined in a chain. The same coins hang from it. Compared with one band, about how far does the chain stretch?  
+   Options: About three times as far / About a third as far / The same  
+   **Answer:** About three times as far. *Why:* Each band in the chain carries all the coins, so each stretches as much as one band alone. Three stretches add up. Picking 'a third' mixes it up with bands side by side, which share the pull.
+13. (mcq) A pen spring was pulled too far and now rests at a new, longer length. Were any of its atoms lost?  
+   Options: No. Rows of atoms slipped and settled in new places / Yes, some atoms fell out / Yes, some atoms were used up  
+   **Answer:** No. Rows of atoms slipped and settled in new places. *Why:* Past the limit, rows of atoms slip and rest beside new neighbours. Every atom is still there, just in a new place.
+14. (mcq) For hundreds of years before an earthquake, what is the rock deep underground doing?  
+   Options: Slowly bending and storing energy / Slowly melting / Staying perfectly still  
+   **Answer:** Slowly bending and storing energy. *Why:* Giant pieces of the Earth push on each other, so the rock bends slowly, like a pressed ruler. Then it slips all at once, and the ground shakes.
+15. (mcq) What does a gravitational wave do as it passes?  
+   Options: It stretches and squeezes space itself, by a tiny amount / It makes waves on the sea / It is a beam of light  
+   **Answer:** It stretches and squeezes space itself, by a tiny amount. *Why:* Gravitational waves are ripples in space. LIGO measured one in 2015. Picking 'the sea' mixes them up with ocean waves.
+16. (mcq) After a giant earthquake in Chile in 1960, what did instruments find the whole Earth doing for days?  
+   Options: Vibrating slowly, like a bell after it is struck / Spinning backwards / Getting bigger  
+   **Answer:** Vibrating slowly, like a bell after it is struck. *Why:* Rock is elastic, so the whole planet rang like a bell. The shaking travelled through it as waves.
 
 ## Applications
 - Hanging spring balances, luggage scales and forcemeters measure weight by how far a spring stretches.
@@ -946,7 +936,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 - Why did the bouncy ball love the floor? *Every time they met, it got a lift.*
 - What did the spider say about their web? *It's a stretch, but it works.*
 - Why was the old rubber band so floppy? *It went past its limit and never got over it.*
-- How does a kangaroo stay so cheerful? *It keeps a spring in its step.*
+- How does a kangaroo stay so cheerful? *They keep a spring in their step.*
 - Why did the papad refuse to do yoga? *It was afraid it would snap.*
 - What do you call a sleepy spring? *A coil napper.*
 - Why did the catapult go to the doctor? *It had a bad case of tension.*

@@ -1,0 +1,1474 @@
+{
+ "key": "combined|sci|5|nothing-and-forever",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "nothing-and-forever",
+ "title": "Zero and infinity: the edges where numbers and science stop working",
+ "source": "DeepKids Combined, The Deep End: a DeepKids topic from the founder's notebook (the Zero and Infinity grid and the Singularity grid). Covers negative numbers, absolute zero, the vacuum, dividing by numbers close to zero, infinite sets of different sizes, endless sums, and singularities in black holes and the Big Bang. No board teaches it at this class. No textbook needed.",
+ "summary": "A straw never sucks, and nothing can be cooled all the way to absolute zero. Your child goes below zero on a floor number line, makes frost with ice and salt, and tests whether empty space can pull. Then they fit endless guests into Hilbert's full hotel, use Cantor's diagonal trick to find a bigger infinity, and build a book stack that leans past the table edge. Last, they meet black holes and the singularity at their centre, where the equations give infinity and the science runs out.",
+ "builds_on": "In Class 3 your child learned that zero means none and holds empty places, met Brahmagupta's rules, found that dividing by zero has no answer, that infinity means 'without end', and that ½ + ¼ + ⅛ and on adds up to one. This rung goes to the edges: numbers below zero, the coldest possible cold, whether empty space is really empty, infinities of different sizes, endless sums that never stop growing, and singularities. This is the last rung of the topic before secondary school, where these ideas return in algebra, calculus and physics.",
+ "subconcepts": [
+  "negative numbers: Brahmagupta's fortunes and debts, and the number line",
+  "chosen zeros: 0 °C, sea level, the ground floor, and a calendar with no year zero",
+  "absolute zero: the lowest temperature, which can never be reached",
+  "zero-point motion: particles never stop completely",
+  "Bose–Einstein condensates, and light slowed and stopped",
+  "a vacuum cannot pull: air pressure pushes (Torricelli and the 10-metre limit)",
+  "even a perfect vacuum is not nothing: the Casimir effect",
+  "dividing by numbers close to zero: answers that run off to infinity",
+  "a singularity: a point where a rule gives infinity and stops working",
+  "Hilbert's hotel: an infinite set can take in more and stay the same size",
+  "one-to-one pairing, and Galileo's square numbers",
+  "Cantor's diagonal trick: some infinities are bigger than others",
+  "the harmonic series: an endless sum that never stops growing",
+  "real halving stops: paper folds, atoms and the Planck length",
+  "black holes, the event horizon, the Big Bang singularity and the dark night sky"
+ ],
+ "goals": [
+  "By the end your child can add and take away with negative numbers on a number line, and tell a chosen zero from a true bottom.",
+  "By the end your child can explain, with ice, salt and frost, why 0 °C is not the coldest, and say what absolute zero is.",
+  "By the end your child can show with a sealed bottle and a straw that a vacuum does not pull, and that air pressure pushes.",
+  "By the end your child can use a calculator table to explain why dividing by zero has no answer, and say what a singularity is.",
+  "By the end your child can act out Hilbert's hotel and use the diagonal trick to show that some infinities are bigger than others.",
+  "By the end your child can explain what an event horizon is, and why most physicists think the infinity at a black hole's centre means the theory has stopped working."
+ ],
+ "words": [
+  [
+   "negative number",
+   "a number less than zero, written with a minus sign, such as −3. It can stand for a debt or a temperature below zero."
+  ],
+  [
+   "absolute zero",
+   "the lowest temperature there can be, −273.15 °C. Nothing can be cooled all the way to it."
+  ],
+  [
+   "kelvin",
+   "a temperature scale that starts at absolute zero. Ice melts at about 273 kelvin."
+  ],
+  [
+   "air pressure",
+   "the push of the air on everything it touches. It is what pushes a drink up a straw."
+  ],
+  [
+   "vacuum",
+   "a space with almost nothing in it, not even air"
+  ],
+  [
+   "singularity",
+   "a point where a rule or an equation gives infinity, so it stops working"
+  ],
+  [
+   "infinite set",
+   "a collection with no end, such as all the counting numbers"
+  ],
+  [
+   "one-to-one pairing",
+   "matching each member of one group with exactly one member of another, with none left over. It shows the groups are the same size."
+  ],
+  [
+   "harmonic series",
+   "the endless sum 1 + ½ + ⅓ + ¼ and on. It never stops growing."
+  ],
+  [
+   "black hole",
+   "a region of space with so much mass squeezed so small that nothing, not even light, can get out"
+  ],
+  [
+   "event horizon",
+   "the edge of a black hole. Once anything is inside it, it can never get out."
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "Below zero",
+   "goal": "Remember Class 3, hear the story, and find numbers below zero on a floor number line.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember Class 3",
+     "mins": 5,
+     "do": "Ask: 'Why does the 0 in 205 matter, if it means none?' Good answer: 'It holds the empty tens place. Without it the number becomes 25.' Ask: 'What is 12 divided by 0?' Good answer: 'There is no answer. Groups of zero never make 12.' Ask: 'Is infinity the biggest number?' Good answer: 'No. It is not a number. It means without end.' Say: 'This week we go to the edges: below zero, the coldest cold, the emptiest space, infinities of different sizes, and black holes.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Water Was Still There",
+     "mins": 12,
+     "do": "Read the story aloud. Don't explain it. Ask one question: 'The water was nine metres down. Why did no water come out of the old pump?' Write your child's answer in a new notebook called 'The Edge Book'. You will test Saroja akka's idea on Day 3."
+    },
+    {
+     "kind": "act",
+     "title": "The floor number line",
+     "mins": 16,
+     "do": "Do Activity a1. When your child walks from 3 back 5 steps, ask: 'Where are you?' (On −2.) Say: 'A number less than zero is called a negative number. We write it with a minus sign.' Then read out Brahmagupta's rules from the activity. Ask: 'You have ₹3 and you owe ₹5. When you pay what you can, what is left?' Good answer: 'I still owe ₹2. That is −2.'",
+     "ref": "a1"
+    },
+    {
+     "kind": "talk",
+     "title": "Zeros that people chose",
+     "mins": 9,
+     "do": "Ask: 'In a lift, what does 0 or G mean?' (The ground floor.) 'Is the ground floor the lowest floor?' (No. Many buildings have a basement, B1, below it.) Say: 'Some zeros are just a starting point that people chose. 0 metres means sea level. 0 °C is where water freezes. In 1742, Anders Celsius first made his scale the other way up, with 0 for boiling and 100 for freezing. Others turned it round after he died.' Ask: 'Our calendar goes from 1 BCE straight to 1 CE. Why do you think it has no year zero?' Good answer: 'The calendar was made in Europe before zero reached Europe.' That is true: it was worked out in 525 CE."
+    },
+    {
+     "kind": "act",
+     "title": "Start the Edge Book",
+     "mins": 3,
+     "do": "Start the project. On page 1, your child writes 'Below zero' as the heading. On the left half they write one thing we know: 'Zero is not always the bottom. There are negative numbers.' On the right half they write: 'What I still wonder.' They write one question of their own there."
+    }
+   ],
+   "need": [
+    "a roll of masking tape or 21 paper slips",
+    "a marker pen",
+    "a new notebook for the Edge Book",
+    "a pencil"
+   ],
+   "prep": []
+  },
+  {
+   "n": 2,
+   "title": "The coldest zero",
+   "goal": "Make a tumbler colder than 0 °C, find out about absolute zero, and hear how scientists slowed light to the speed of a car.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Is 0 °C the coldest?",
+     "mins": 4,
+     "do": "Give your child an ice cube on a steel plate. Ask: 'Melting ice is at 0 °C. Does 0 °C mean there is no heat at all? Can anything be colder?' Let them guess and give a reason. Write the guess in the Edge Book."
+    },
+    {
+     "kind": "exp",
+     "title": "Frost on a tumbler",
+     "mins": 15,
+     "do": "Do Experiment e1. Ask for a guess and a reason first. After 10 minutes, your child scratches the outside of each tumbler with a fingernail. Ask: 'Which one has water drops, and which one has white frost?' Ask: 'What does the frost tell you about how cold that tumbler is?' Good answer: 'It is colder than 0 °C, because the water from the air froze on it.' Say: 'So 0 °C is not the bottom. It is just the point where water freezes.'",
+     "ref": "e1"
+    },
+    {
+     "kind": "talk",
+     "title": "Absolute zero",
+     "mins": 9,
+     "do": "Say: 'Everything is made of tiny particles that are always jiggling. Heat is that jiggling. The colder a thing is, the slower its particles move. There is a lowest temperature, where the jiggling is as small as it can ever be. It is called absolute zero. It is −273.15 °C.' Ask: 'Is absolute zero a chosen zero, like the ground floor, or a real bottom?' Good answer: 'A real bottom. Nothing can be colder.' Say: 'Lord Kelvin, a British scientist, made a scale that starts there. On it, ice melts at about 273 kelvin. Space between the galaxies is about 3 kelvin. Scientists have cooled atoms to less than a billionth of a degree above absolute zero. But a law of nature says no one can ever reach it exactly. Even then, the particles keep a tiny jiggle. Because of it, liquid helium never freezes at normal pressure, however cold it gets.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Bose, and the light that stopped",
+     "mins": 9,
+     "do": "Read Voice v2 to your child in your own words. Then say: 'Light normally goes 300,000 kilometres every second. In Lene Hau's very cold cloud of atoms, it went 17 metres a second, about as fast as a car in a town.' Ask the voice's question. Let your child give a reason either way.",
+     "ref": "v2"
+    },
+    {
+     "kind": "act",
+     "title": "The cooling dance",
+     "mins": 8,
+     "do": "Do Activity a2. At the end, ask: 'Why did you keep a tiny wobble at absolute zero?' Good answer: 'Because the particles never stop completely.' Your child adds 'The coldest zero' to the Edge Book, with one fact and one question.",
+     "ref": "a2"
+    }
+   ],
+   "need": [
+    "2 steel tumblers",
+    "about 2 cups of ice cubes",
+    "4 tablespoons of salt",
+    "a clean cloth and a rolling pin to crush the ice",
+    "a spoon",
+    "a plate",
+    "music on a phone",
+    "the Edge Book"
+   ],
+   "prep": [
+    {
+     "task": "Make two full trays of ice cubes",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Can nothing pull?",
+   "goal": "Test Saroja akka's idea that air pushes and empty space does not pull, and find out that even a vacuum is not completely empty.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Back to the pump",
+     "mins": 4,
+     "do": "Ask: 'In the story, Saroja akka said nothing can pull water. What did she say pushes it up the pipe?' Good answer: 'The air pressing on the water.' Ask: 'Do you believe her? How could we test it?' Let your child suggest a test."
+    },
+    {
+     "kind": "exp",
+     "title": "The sealed bottle and the card",
+     "mins": 15,
+     "do": "Do Experiment e2. Ask for a guess and a reason before each part. After the sealed bottle, ask: 'You sucked hard. Why did no water come up?' Good answer: 'No air could press on the water.' After the card, ask: 'What is holding the card up?' Good answer: 'The air pushing up on it.' Say: 'The push of the air on everything it touches is called air pressure. A space with almost nothing in it is called a vacuum. A vacuum never pulls. The air around it pushes in.'",
+     "ref": "e2"
+    },
+    {
+     "kind": "talk",
+     "title": "Does nature hate empty space?",
+     "mins": 10,
+     "do": "Read Voice v1 to your child in your own words. Show 76 cm and then 10 metres with a measuring tape, or by counting steps along a corridor. Say: 'The air can hold up 76 cm of mercury, or about 10 metres of water. That is the same push, because mercury is about 13 times heavier than water.' Ask the voice's question.",
+     "ref": "v1"
+    },
+    {
+     "kind": "talk",
+     "title": "Is a vacuum nothing?",
+     "mins": 9,
+     "do": "Say: 'Space between the stars is a better vacuum than any pump on Earth can make. There is about one atom in a space the size of a sugar cube. But it is not nothing. Starlight crosses it. Physicists have found that even a perfect vacuum is not quite empty. In 1948, a Dutch physicist, Hendrik Casimir, worked out that two metal plates placed very close together in a vacuum should be pushed towards each other. In 1997, Steve Lamoreaux measured this push.' Ask: 'If a perfect vacuum still has something in it, is there anywhere that is truly nothing?' Good answer: 'Nobody has found one.'"
+    },
+    {
+     "kind": "think",
+     "title": "Empty of what?",
+     "mins": 7,
+     "do": "Say: 'In India, about 1,800 years ago, a Buddhist teacher called Nagarjuna taught shunyata, emptiness. He meant that nothing exists on its own. Each thing exists because of other things around it. The word shunya also became the Indian name for zero.' Ask: 'Think of the bottle of water. Could the water rise up the straw on its own, without the air around it?' (No.) 'Is anything around you here only by itself?' Let your child give examples. Your child adds 'Can nothing pull?' to the Edge Book."
+    }
+   ],
+   "need": [
+    "a small plastic water bottle with a narrow neck",
+    "a drinking straw",
+    "a lump of atta dough the size of a lemon",
+    "a pencil",
+    "a glass tumbler",
+    "a postcard or a piece of stiff card bigger than the mouth of the tumbler",
+    "water",
+    "a sink or a tray",
+    "a measuring tape",
+    "the Edge Book"
+   ],
+   "prep": [
+    {
+     "task": "Knead a lump of atta dough the size of a lemon, quite stiff, and keep it covered",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Dividing by almost nothing",
+   "goal": "See on a calculator why dividing by zero has no answer, meet the word singularity, and do the core worksheet.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Groups of zero",
+     "mins": 3,
+     "do": "Ask: 'In Class 3 you tried to share 12 beans in groups of 0. What happened?' Good answer: 'The heap never got smaller, so I never finished.' Ask: 'What if each group is not zero, but a tiny bit more than zero?' Let your child guess."
+    },
+    {
+     "kind": "act",
+     "title": "Smaller and smaller",
+     "mins": 14,
+     "do": "Do Activity a3. When the table is full, ask: 'What happens to the answer as the number you divide by gets closer to 0?' Good answer: 'It gets bigger and bigger, with no end.' Then ask: 'And when you divide by tiny numbers below zero?' (It goes hugely negative.) Say: 'So as you come close to 0 from one side the answer runs off to plus infinity, and from the other side to minus infinity. There is no one answer at 0. A point where an answer runs off to infinity is called a singularity. It is a place where the rule stops working.'",
+     "ref": "a3"
+    },
+    {
+     "kind": "think",
+     "title": "The needle point",
+     "mins": 8,
+     "do": "Give your child a pencil. They press the flat end gently on their palm, then the sharp tip with the same small push. Ask: 'Which one do you feel more? Why, if the push was the same?' Good answer: 'The tip puts all the push on a tiny spot.' Say: 'The push on each bit of skin is called pressure. Pressure is the push divided by the area. A smaller area gives a bigger pressure. That is why a needle goes into cloth and a finger does not.' Ask: 'If the tip had zero area, what would the pressure be?' Good answer: 'Infinite, or no answer, like 12 ÷ 0.' Ask: 'Can a real tip ever have zero area?' (No. Even the sharpest needle tip has atoms in it.) Say: 'This is what usually happens. When a calculation says infinite, the real thing is not infinite. The calculation has reached its limit.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 20,
+     "do": "Your child does Worksheet ws1. It covers Days 1 to 4. For the written questions, let them say their answer aloud first, then write it. For the perspective question, ask them to pick a side and use the sealed bottle as evidence.",
+     "ref": "ws1"
+    }
+   ],
+   "need": [
+    "a phone calculator",
+    "a pencil with a sharp tip and a flat end",
+    "Worksheet ws1"
+   ],
+   "prep": []
+  },
+  {
+   "n": 5,
+   "title": "The hotel with no last room",
+   "goal": "Act out Hilbert's hotel and find that two endless sets are the same size when they pair up one to one.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Always one more",
+     "mins": 4,
+     "do": "Ask: 'Is there a biggest number?' Good answer: 'No. You can always add 1.' Ask: 'Are there more counting numbers, 1, 2, 3 and on, or more even numbers, 2, 4, 6 and on?' Let your child guess and give a reason. Write the guess in the Edge Book."
+    },
+    {
+     "kind": "act",
+     "title": "Hilbert's hotel",
+     "mins": 17,
+     "do": "Do Activity a4. After scene 1, ask: 'The hotel was full. How did a new guest get a room?' Good answer: 'Everyone moved up one room, so room 1 became free.' After scene 2, ask: 'Where did the endless bus of guests go?' Good answer: 'Into the odd rooms, after everyone moved to double their room number.' Say: 'In a talk in 1924, the German mathematician David Hilbert described a hotel like this. A real hotel cannot do it, because a real hotel has a last room.'",
+     "ref": "a4"
+    },
+    {
+     "kind": "talk",
+     "title": "Pairing up",
+     "mins": 12,
+     "do": "Say: 'Hilbert's hotel uses an old way to tell if two groups are the same size: pair them up. If every member of one group gets exactly one partner in the other, with none left over, they are the same size.' Put 5 spoons and 5 plates on the table and pair them. Then write two rows: 1, 2, 3, 4, 5 and 2, 4, 6, 8, 10. Your child draws a line from each number to its double. Ask: 'Will any even number ever be left without a partner?' (No.) 'Will any counting number?' (No.) Say: 'So there are just as many even numbers as counting numbers, even though the even numbers are only some of them. In 1638, Galileo noticed the same thing with the square numbers, 1, 4, 9, 16. He decided that words like more and fewer do not work for endless groups.' Ask: 'Was your guess from the warm-up right?'"
+    },
+    {
+     "kind": "think",
+     "title": "Is anything really infinite?",
+     "mins": 12,
+     "do": "Ask: 'Can you name anything in the real world that is truly endless?' Let your child try. For each idea, ask: 'How could you check that it never ends?' Say: 'Numbers go on for ever in maths. But nobody has ever measured anything in nature that is truly infinite. Space might go on for ever. It looks very nearly flat, and it might be endless, or it might be huge but finite. Nobody knows.' Then say: 'Old Hindu texts called the Puranas describe time in huge cycles. One day of the god Brahma, a kalpa, is 4.32 billion years. Then creation rests and begins again, without end.' Ask: 'Is time more like a line with a start, or like a circle?' Your child adds 'The hotel with no last room' to the Edge Book."
+    }
+   ],
+   "need": [
+    "10 sheets of paper or slips, numbered 1 to 10, and one more marked '…'",
+    "a marker pen",
+    "soft toys, steel cups or family members as guests",
+    "5 spoons and 5 plates",
+    "the Edge Book"
+   ],
+   "prep": []
+  },
+  {
+   "n": 6,
+   "title": "A bigger infinity",
+   "goal": "Use Cantor's diagonal trick to find that there are more decimals than counting numbers, and do the stretch worksheet.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Every guest gets a room",
+     "mins": 4,
+     "do": "Ask: 'Yesterday, how did we show there are as many even numbers as counting numbers?' Good answer: 'We paired each number with its double, and none were left over.' Ask: 'Do you think every endless group can be paired up with the counting numbers? Could some be too big?'"
+    },
+    {
+     "kind": "act",
+     "title": "The diagonal trick",
+     "mins": 16,
+     "do": "Do Activity a5. When your child has made the new decimal, ask: 'Is your new number anywhere on the list?' Good answer: 'No. It is different from number 1 in the first digit, from number 2 in the second digit, and so on.' Ask: 'If the list were endless, could you still do this?' (Yes.) Say: 'So no list, not even an endless one, can hold every decimal. There are more decimals than counting numbers. It is a bigger infinity.' Then do the two-lines drawing in step 7 of the activity. Say: 'This surprised mathematicians too: a line 1 cm long has just as many points as a line 1 metre long.'",
+     "ref": "a5"
+    },
+    {
+     "kind": "talk",
+     "title": "Georg Cantor",
+     "mins": 12,
+     "do": "Read Voice v3 to your child in your own words. Say: 'Cantor also showed that all the fractions, like ½, ⅔ and 17/5, can be put in one endless list. So there are just as many fractions as counting numbers. But the decimals cannot be listed.' Ask the voice's question.",
+     "ref": "v3"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 13,
+     "do": "Your child does Worksheet ws2. It covers Days 5 and 6. Let them use the paper rooms and their diagonal list. Your child adds 'A bigger infinity' to the Edge Book.",
+     "ref": "ws2"
+    }
+   ],
+   "need": [
+    "paper and a pencil",
+    "a ruler",
+    "the numbered paper rooms from Day 5",
+    "Worksheet ws2",
+    "the Edge Book"
+   ],
+   "prep": []
+  },
+  {
+   "n": 7,
+   "title": "Endless sums",
+   "goal": "Find an endless sum that never stops growing, build a book stack that leans past the table edge, and test whether you can halve for ever.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Halving again",
+     "mins": 4,
+     "do": "Ask: 'In Class 3 you shaded half a square, then a quarter, then an eighth. If you could go on for ever, how much would be shaded?' Good answer: 'The whole square, exactly one.' Ask: 'The pieces get smaller and smaller. Does that mean every endless sum like this stops at some total?' Let your child guess."
+    },
+    {
+     "kind": "exp",
+     "title": "The leaning book stack",
+     "mins": 16,
+     "do": "Do Experiment e3. Ask for a guess first: 'Can the top book stick out completely past the edge of the table without falling?' After building, your child lies on the floor and looks along the table edge. Ask: 'Is any part of the top book above the table?' (No.) Write the four overhangs as fractions: ½, ¼, ⅙, ⅛. Ask: 'What pattern do you see?' Good answer: 'They are half of 1, half of ½, half of ⅓ and half of ¼.'",
+     "ref": "e3"
+    },
+    {
+     "kind": "talk",
+     "title": "The sum that runs away",
+     "mins": 10,
+     "do": "Write 1 + ½ + ⅓ + ¼ + ⅕ + ⅙ + ⅐ + ⅛. Say: 'This is called the harmonic series. The pieces get smaller, so does the total stop growing?' Let your child guess. Then show them: put brackets round (⅓ + ¼) and (⅕ + ⅙ + ⅐ + ⅛). Ask: 'Each piece in the first bracket is at least ¼. So is the bracket at least ½?' (Yes.) 'Each piece in the second is at least ⅛, and there are four. At least ½?' (Yes.) Say: 'The next bracket has 8 pieces, each at least 1/16. That is ½ again. There are endless brackets, so you keep adding ½ for ever, and the total grows past any number. Nicole Oresme, a French thinker, proved this around 1350.' Say: 'It grows very slowly. You need 83 pieces to pass 5, and 12,367 to pass 10. With enough books, the stack could lean out as far as you like.'"
+    },
+    {
+     "kind": "act",
+     "title": "How many halvings?",
+     "mins": 15,
+     "do": "Do Activity a6. After the folding, ask: 'Why did you have to stop?' Good answer: 'The paper got too thick and too small.' Then do the halving count in the activity. Say: 'Halve a metre 33 times, and you reach the width of an atom. You cannot cut an atom with scissors. Some physicists think that at a far smaller size, about 116 halvings of a metre, our ideas of space stop working. This size is called the Planck length. Nobody knows what happens there.' Your child adds 'Endless sums' to the Edge Book.",
+     "ref": "a6"
+    }
+   ],
+   "need": [
+    "4 identical books or notebooks",
+    "a table with a straight edge",
+    "a ruler",
+    "2 sheets of A4 paper, or old newspaper",
+    "a pencil",
+    "a phone calculator",
+    "the Edge Book"
+   ],
+   "prep": []
+  },
+  {
+   "n": 8,
+   "title": "Where the rules stop",
+   "goal": "Find out what black holes are, model one with a stretched cloth, and hear why scientists argue about the singularity at the centre.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Throw it harder",
+     "mins": 4,
+     "do": "Ask: 'If you throw a ball up, it comes back. If you could throw it harder and harder, would it ever not come back?' Good answer: 'Yes, if it went fast enough.' Say: 'From the Earth, you would need about 11 kilometres every second. That is called escape speed.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Dark stars",
+     "mins": 10,
+     "do": "Say: 'In 1783, John Michell, an English clergyman and scientist, asked: what if a star were so heavy for its size that its escape speed was faster than light? Then its light could never get out. He called it a dark star. After that, the idea was mostly forgotten for more than 100 years.' Say: 'In 1916, Karl Schwarzschild, a German astronomer serving in the army in the First World War, solved Einstein's new equations of gravity. His answer described what we now call a black hole: a region of space where so much mass is squeezed so small that nothing, not even light, can get out.' Say: 'Its edge is called the event horizon. It is not a solid surface. It is the boundary where escape becomes impossible.' Ask: 'If no light comes out, how could anyone find a black hole?' Let your child think. Good answers: 'By watching things move around it.' 'By the hot gas swirling into it.'"
+    },
+    {
+     "kind": "exp",
+     "title": "A dip in the cloth",
+     "mins": 14,
+     "do": "Do Experiment e4. Ask for a guess before each part. When the marble falls into the deep dip and cannot climb out, say: 'That is a model of the event horizon.' Ask: 'Where does the model stop being like the real thing?' Good answers: 'The marbles roll down because of the Earth's gravity.' 'The cloth would tear if we pushed harder.' Say: 'The equations for the centre of a black hole break in the same way. They say the density there is infinite. This point is called a singularity.'",
+     "ref": "e4"
+    },
+    {
+     "kind": "talk",
+     "title": "Is the singularity real?",
+     "mins": 10,
+     "do": "Read Voice v4 to your child in your own words. Say: 'In 2019, a team of astronomers working with telescopes across the world made the first picture of a black hole's shadow. In 2022 they made one of Sagittarius A*, the black hole at the centre of our own galaxy. It has about 4 million times the Sun's mass.' Ask the voice's question.",
+     "ref": "v4"
+    },
+    {
+     "kind": "think",
+     "title": "The first singularity, and the dark night",
+     "mins": 7,
+     "do": "Say: 'The universe is growing. If you run it backwards, everything gets closer, until the equations say everything was in one point of infinite density, about 13.8 billion years ago. This is called the Big Bang singularity. Most scientists think the equations break there too. Nobody knows what came before, or if there was a before.' Ask: 'If the universe went on for ever, full of stars, and had always been there, every direction would end at a star. Why is the night sky dark?' Let your child think. Then say: 'Because the universe has an age. Light from the farthest stars has not had time to reach us yet. The writer Edgar Allan Poe guessed this in 1848.' Your child adds 'Where the rules stop' to the Edge Book."
+    }
+   ],
+   "need": [
+    "an old dupatta or thin bedsheet",
+    "a wide bucket or plastic tub",
+    "a long string or 4 clothes-pegs",
+    "an orange",
+    "a heavier ball, such as a cricket ball",
+    "3 or 4 marbles, or dried green peas",
+    "the Edge Book"
+   ],
+   "prep": []
+  },
+  {
+   "n": 9,
+   "title": "Play, check and teach it back",
+   "goal": "Play the card game, do the challenge worksheet, and teach the family what lies at the edges of zero and infinity.",
+   "steps": [
+    {
+     "kind": "game",
+     "title": "Bigger, Same or No Answer?",
+     "mins": 12,
+     "do": "Play Game g1. Before turning a card over, the player must give a reason. If someone disagrees with a card's back, let them argue it out with the Edge Book or a quick test.",
+     "ref": "g1"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 13,
+     "do": "Your child does Worksheet ws3. It covers Days 7 and 8. For the written questions, talk first, then write. For the drawing, let them look at their notes from the cloth model.",
+     "ref": "ws3"
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 8,
+     "do": "Ask the check questions aloud, one at a time. If an answer is missing, redo the matching test for a minute: the sealed bottle, the calculator table, the paper rooms or the book stack. Then ask again."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 12,
+     "do": "Your child is the teacher. Using the Edge Book, they spend about 6 minutes telling the family one thing from each day. As the students, ask: 'Does a straw suck?' 'How can a full hotel take a new guest?' 'What is at the centre of a black hole?' Then your child reads out the 'What I still wonder' questions. Ask: 'Which one would you most like to find out? How could you start?'"
+    }
+   ],
+   "need": [
+    "the printed cards for Game g1, cut out",
+    "Worksheet ws3",
+    "the Edge Book"
+   ],
+   "prep": [
+    {
+     "task": "Print and cut out the cards for Game g1",
+     "when": "night before"
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Below zero, cold and empty",
+   "day": 4,
+   "sections": [
+    [
+     "A. Below zero, and chosen zeros",
+     [
+      {
+       "t": "mcq",
+       "p": "Kavya is on the 2nd floor of a building in Chennai. She takes the lift down 3 floors. Where does she get out?",
+       "opts": [
+        "the ground floor, 0",
+        "the basement, B1 or −1",
+        "the 5th floor"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "Brahmagupta called positive numbers fortunes and negative numbers ____.",
+       "a": [
+        "debts",
+        "debt"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "One winter morning in Ooty it is 2 °C. By night it is 5 degrees colder. Now it is ____ °C.",
+       "a": [
+        "−3",
+        "-3",
+        "minus 3"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Sort these zeros. Does the zero mean 'none at all, or the true bottom', or is it 'a starting point people chose'?",
+       "items": [
+        "0 laddoos left on a plate",
+        "₹0 in a purse",
+        "absolute zero, −273.15 °C",
+        "0 °C on a thermometer",
+        "0 metres, which means sea level",
+        "0 or G, the ground floor in a lift"
+       ],
+       "cats": [
+        "none at all, or the true bottom",
+        "a starting point people chose"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Cold and empty",
+     [
+      {
+       "t": "mcq",
+       "p": "Arjun puts ice and lots of salt in a steel tumbler. After 10 minutes, white frost grows on the outside. What does the frost tell him?",
+       "opts": [
+        "The tumbler is colder than 0 °C.",
+        "Salt has leaked through the steel.",
+        "The tumbler is warmer than the room."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Which sentence about absolute zero is true?",
+       "opts": [
+        "It is the same as 0 °C.",
+        "It is about −273 °C, and nothing can ever be cooled all the way to it.",
+        "It is the temperature at the top of a mountain."
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Riya fills a glass to the brim with water, puts a card on top and turns it upside down. The card stays on. What holds it up?",
+       "opts": [
+        "The empty space inside the glass sucks the card.",
+        "The air outside pushes up on the card.",
+        "The water is sticky."
+       ],
+       "a": 1
+      },
+      {
+       "t": "match",
+       "p": "Match each word to what it means.",
+       "pairs": [
+        [
+         "vacuum",
+         "a space with almost nothing in it"
+        ],
+        [
+         "air pressure",
+         "the push of the air on everything it touches"
+        ],
+        [
+         "absolute zero",
+         "the coldest temperature there can be"
+        ],
+        [
+         "negative number",
+         "a number less than zero"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "A pump at the top of a well cannot lift water from 12 metres down, even if a very strong person works it. Explain why, using the push of the air.",
+       "lines": 4,
+       "a": "A strong answer says the pump only makes an emptier space at the top of the pipe. The air pressing on the water underground pushes it up, and air can push water up only about 10 metres, even with a perfect vacuum. So 12 metres is too far, however hard anyone pumps."
+      },
+      {
+       "t": "write",
+       "p": "A calculator says 12 ÷ 0.001 = 12,000. Why does the answer get bigger as you divide by smaller and smaller numbers? Why does 12 ÷ 0 still have no answer?",
+       "lines": 4,
+       "a": "A strong answer says dividing asks how many of the small number fit into 12. Smaller pieces fit more times, so the answer grows. As the divisor gets closer to 0 the answer grows without end, and below zero it goes hugely negative, so at 0 there is no one answer."
+      },
+      {
+       "t": "write",
+       "p": "Two people explain why a drink goes up a straw. Lakshmi says: 'Sucking makes an empty space, and the empty space pulls the drink up.' Saroja akka, the pump mechanic in the story says: 'Empty space pulls nothing. The air outside pushes the drink up into the emptier space.' Pick one side. Use what happened with the sealed bottle and straw to argue for it. Then say what the other person might answer.",
+       "lines": 5,
+       "a": "A strong answer picks Saroja akka's side and uses the sealed bottle as evidence: with the mouth sealed no water came up, and with a hole poked in the dough it rose at once. Nothing changed inside the mouth, only whether air could press on the water. A strong answer also gives Lakshmi's view fairly: it feels like pulling, because you feel your cheeks working."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Hotels, pairs and bigger infinities",
+   "day": 6,
+   "sections": [
+    [
+     "A. Hilbert's hotel",
+     [
+      {
+       "t": "mcq",
+       "p": "Hilbert's hotel has a room for every counting number, and every room is full. One new guest arrives. What does the manager do?",
+       "opts": [
+        "Says sorry, the hotel is full.",
+        "Asks every guest to move from their room to the next room up, so room 1 is free.",
+        "Puts the new guest in the last room."
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "Then a bus arrives with endlessly many new guests. Every guest moves to double their room number. The guest in room 3 moves to room ____.",
+       "a": [
+        "6",
+        "six"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "After every guest moves to double their room number, which rooms are empty for the bus guests?",
+       "opts": [
+        "the even rooms",
+        "the odd rooms",
+        "no rooms"
+       ],
+       "a": 1
+      },
+      {
+       "t": "match",
+       "p": "Pair each counting number with its partner in the even numbers.",
+       "pairs": [
+        [
+         "1",
+         "2"
+        ],
+        [
+         "2",
+         "4"
+        ],
+        [
+         "5",
+         "10"
+        ],
+        [
+         "50",
+         "100"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Bigger and smaller infinities",
+     [
+      {
+       "t": "sort",
+       "p": "Sort these endless collections. Can they be paired one to one with the counting numbers 1, 2, 3 and on, or are there too many to pair up?",
+       "items": [
+        "the even numbers",
+        "the odd numbers",
+        "the square numbers 1, 4, 9, 16 and on",
+        "all the fractions",
+        "all the decimals between 0 and 1",
+        "all the points on a line 1 cm long"
+       ],
+       "cats": [
+        "pairs up with the counting numbers",
+        "too many to pair up"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Lakshmi lists four decimals: 0.1234, 0.5555, 0.9087 and 0.3333. She circles the 1st digit of the 1st number, the 2nd digit of the 2nd, and so on. For each circled digit, she writes 2 if it is a 1, and writes 1 if it is anything else. What new decimal does she make?",
+       "opts": [
+        "0.2111",
+        "0.1583",
+        "0.2694"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Lakshmi's new decimal cannot be on her list, because it is different from every number on the list in at least one ____.",
+       "a": [
+        "digit",
+        "place"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which has more points: a line 1 cm long, or a line 1 metre long?",
+       "opts": [
+        "the 1 metre line",
+        "neither: they can be paired up, so they have the same number",
+        "the 1 cm line"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "Why can nobody make a complete list of all the decimals between 0 and 1? Use the diagonal trick to explain.",
+       "lines": 4,
+       "a": "A strong answer explains the trick: circle the 1st digit of the 1st number, the 2nd of the 2nd, and so on, and change each one. The new decimal differs from every number on the list in at least one place, so it is missing. This works for any list, even an endless one."
+      },
+      {
+       "t": "write",
+       "p": "Hilbert's hotel is full, but it can still take more guests. Could a real hotel in Kochi do the same? Why or why not?",
+       "lines": 3,
+       "a": "A strong answer says the trick works only because Hilbert's hotel has no last room, so everyone can move up. A real hotel in Kochi has a last room, so the guest in it would have nowhere to go."
+      },
+      {
+       "t": "write",
+       "p": "Three views on whether infinity is real. Aristotle, in old Greece says: 'Infinity is only a process that never finishes, like counting. You can never have all the numbers at once.' Georg Cantor, a German mathematician says: 'A whole endless collection is a real thing. We can compare endless collections and find that some are bigger.' A physicist today says: 'Nobody has ever measured anything in nature that is truly infinite.' Which view do you agree with most? Give a reason from this week, such as the hotel or the diagonal trick. Then answer back from one of the other views.",
+       "lines": 5,
+       "a": "A strong answer picks one view and backs it with something the child did: for Cantor, the diagonal trick shows a clear, checkable difference between two endless sets. For Aristotle, nobody can ever finish writing all the numbers. For the physicist, everything we measured this week, such as the paper folds or the mirror copies in Class 3, stopped somewhere. Then it answers back fairly from another view."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Endless sums and the edges of space",
+   "day": 9,
+   "sections": [
+    [
+     "A. Endless sums",
+     [
+      {
+       "t": "mcq",
+       "p": "Ishita adds ½ + ¼ + ⅛ + … for ever. Nila adds 1 + ½ + ⅓ + ¼ + … for ever. What happens?",
+       "opts": [
+        "Both totals grow without end.",
+        "Ishita's total is exactly 1, and Nila's total grows without end.",
+        "Both totals are exactly 1."
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "⅓ + ¼ is more than ____, because each of them is at least ¼.",
+       "a": [
+        "½",
+        "1/2",
+        "a half",
+        "half"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "In the leaning book stack, the top book sticks out by ____ of its length past the book below it.",
+       "a": [
+        "half",
+        "½",
+        "1/2",
+        "a half"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Fold a sheet of paper in half 3 times, and it is ____ layers thick.",
+       "a": [
+        "8",
+        "eight"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. The edges of space",
+     [
+      {
+       "t": "mcq",
+       "p": "What is the event horizon of a black hole?",
+       "opts": [
+        "its hard, rocky surface",
+        "the boundary where nothing, not even light, can get out once it is inside",
+        "a ring of bright light far outside it"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Einstein's equations say the density at the centre of a black hole is infinite. What do most physicists think this means?",
+       "opts": [
+        "There really is something infinitely dense there.",
+        "The equations stop working there, and a better theory is needed.",
+        "Black holes are not real."
+       ],
+       "a": 1
+      },
+      {
+       "t": "sort",
+       "p": "Sort these. Is it settled by evidence or proof, or does nobody know yet?",
+       "items": [
+        "Nothing can be cooled exactly to absolute zero.",
+        "Black holes are real.",
+        "What is at the very centre of a black hole",
+        "Whether space goes on for ever",
+        "Some infinities are bigger than others.",
+        "What happened before the Big Bang"
+       ],
+       "cats": [
+        "settled by evidence or proof",
+        "nobody knows yet"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "If the universe went on for ever, full of stars, and had always been there, every direction would end at a star. Why is the night sky dark?",
+       "opts": [
+        "Stars are too small to see.",
+        "The universe has an age, so light from the farthest stars has not reached us yet.",
+        "Clouds always cover most of the stars."
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Think, write and draw",
+     [
+      {
+       "t": "write",
+       "p": "Nila says, 'If the pieces get smaller and smaller, the total must stop growing.' Use the brackets for 1 + ½ + ⅓ + ¼ + … to show why she is wrong.",
+       "lines": 4,
+       "a": "A strong answer groups the pieces: ⅓ + ¼ is more than ½, ⅕ + ⅙ + ⅐ + ⅛ is more than ½, the next 8 pieces are more than ½, and so on. There are endless groups, each adding at least ½, so the total grows past any number."
+      },
+      {
+       "t": "write",
+       "p": "Why can't you really keep halving a strip of paper for ever? Give two reasons.",
+       "lines": 3,
+       "a": "A strong answer gives two reasons, such as these. The paper gets too thick to fold and too small to cut. After about 33 halvings of a metre you reach the size of an atom, which scissors cannot cut."
+      },
+      {
+       "t": "draw",
+       "p": "Draw the stretched-cloth model of a black hole from the side. Label the deep dip, a marble that rolls past and curves away, and a marble that falls in and cannot climb out."
+      },
+      {
+       "t": "write",
+       "p": "Two physicists disagree about the centre of a black hole. A physicist who trusts Einstein's equations says: 'The equations have passed every test so far. If they say the centre is infinitely dense, we should take that seriously.' A physicist working on quantum gravity says: 'Whenever a calculation gives infinity, the theory has reached its limit. Something else is there, and we need a new theory to find out what.' Pick one side and argue for it, using the needle point or the calculator table from Day 4. Then answer back from the other side. What evidence could ever settle it, if nothing can come out of a black hole?",
+       "lines": 6,
+       "a": "A strong answer uses an example from the week: a needle tip never really has zero area, so its pressure is never really infinite, which supports the quantum gravity view. A fair answer back says Einstein's theory predicted black holes and gravitational waves correctly, so its predictions deserve respect. A strong answer also sees that nothing comes out of the horizon, so evidence must come from outside, or from a theory that is tested in other ways."
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Frost on a tumbler",
+   "day": 2,
+   "question": "Can ice and salt make something colder than 0 °C?",
+   "need": [
+    "2 steel tumblers, dry on the outside",
+    "about 2 cups of ice cubes",
+    "4 tablespoons of salt",
+    "a clean cloth and a rolling pin",
+    "a spoon",
+    "a plate"
+   ],
+   "steps": [
+    "Wrap the ice cubes in the cloth. Hit them gently with the rolling pin until they are in small pieces.",
+    "Fill both tumblers to the top with crushed ice. Stand them on the plate.",
+    "Add 4 tablespoons of salt to one tumbler. Stir it well for 30 seconds. Leave the other tumbler as plain ice.",
+    "Wait 10 minutes. Don't touch the outside of the tumblers.",
+    "Look at the outside of each tumbler. Scratch each one gently with a fingernail. If the salty one has only drops, add another spoon of salt, stir, and wait 5 more minutes."
+   ],
+   "predict": "Ask your child to guess first: 'Both tumblers are full of ice. Will they look the same on the outside after 10 minutes? Why do you think so?'",
+   "observe": "The plain ice tumbler gets water drops on the outside. The salty ice tumbler gets a thin white layer of frost that you can scratch off with a fingernail. In a very dry room the frost takes longer to form.",
+   "why": "Room air holds water vapour, which is water as an invisible gas. A cold tumbler cools the air touching it, and the vapour turns into drops. Plain melting ice stays at 0 °C, so its tumbler gets drops. Salt makes ice melt at a lower temperature. As it melts, the ice takes heat from everything around it, including the steel. The mixture can drop to about −10 °C or lower. Below 0 °C, the water vapour freezes straight into frost. So 0 °C is not the bottom of cold.",
+   "safety": "Don't hold the salty tumbler for long: it can sting the skin. Don't taste the salty ice. A grown-up helps with crushing the ice.",
+   "time": "15 min"
+  },
+  {
+   "id": "e2",
+   "title": "The sealed bottle and the card",
+   "day": 3,
+   "question": "When you drink through a straw, does the empty space pull the drink up, or does the air push it?",
+   "need": [
+    "a small plastic water bottle with a narrow neck",
+    "a drinking straw",
+    "a lump of stiff atta dough the size of a lemon",
+    "a pencil",
+    "a glass tumbler",
+    "a postcard or stiff card, bigger than the mouth of the tumbler",
+    "water",
+    "a sink or a tray"
+   ],
+   "steps": [
+    "Fill the plastic bottle with water right to the very top.",
+    "Put the straw in, about halfway down the bottle.",
+    "Press the dough all round the straw and over the mouth of the bottle, so no air can get in. Press it hard against the glass of the neck and round the straw.",
+    "Your child tries to drink through the straw. If water comes easily, the seal is leaking. Press the dough tighter and try again.",
+    "Now poke a hole in the dough with the pencil, beside the straw. Your child tries to drink again.",
+    "Over the sink, fill the tumbler with water to the brim. Slide the card over the top so there are no bubbles.",
+    "Hold the card in place with a flat hand and turn the tumbler upside down. Slowly take your hand away from the card."
+   ],
+   "predict": "Ask before each part: 'Will the water come up the straw when the bottle is sealed? Why?' and 'When you let go of the card, will the water pour out? Why?'",
+   "observe": "With the bottle sealed, you get a sip at most, then nothing, however hard you suck. As soon as the hole is poked, the water comes up easily. The card stays on the upside-down tumbler, holding the water in, often for a minute or more.",
+   "why": "Sucking only makes the space in your mouth emptier, so the air in it presses less. The air outside presses down on the water in an open bottle and pushes it up the straw into the emptier space. When the bottle is sealed, no air can press on the water, so nothing pushes it up. Under the card, the air presses up on the card harder than the water presses down, so the card stays. The air above each square centimetre presses with about the same force as a 1-kilogram weight.",
+   "safety": "A grown-up handles the glass tumbler. Do the card part over a sink or tray. Wipe up spills so nobody slips.",
+   "time": "15 min"
+  },
+  {
+   "id": "e3",
+   "title": "The leaning book stack",
+   "day": 7,
+   "question": "Can a stack of books lean so far that the top book is completely past the edge of the table?",
+   "need": [
+    "4 identical books or notebooks",
+    "a table with a straight edge",
+    "a ruler",
+    "a pencil and paper"
+   ],
+   "steps": [
+    "Measure the long side of one book. Write it down. Then work out a half, a quarter, a sixth and an eighth of it. For a book 24 cm long, that is 12 cm, 6 cm, 4 cm and 3 cm.",
+    "Build the stack from the top down. Put book 1 on book 2 so it sticks out by half its length.",
+    "Hold the two books together. Put them on book 3 so book 2 sticks out by a quarter of a book past book 3.",
+    "Hold the three books together. Put them on book 4 so book 3 sticks out by a sixth past book 4.",
+    "Put the whole stack on the table so book 4 sticks out by an eighth past the table edge.",
+    "If the stack tips, slide each book back by a few millimetres and try again.",
+    "Your child crouches and looks along the edge of the table."
+   ],
+   "predict": "Ask your child to guess first: 'Can the top book be completely past the table edge without falling? Why do you think so?'",
+   "observe": "The stack balances, and the top book is completely beyond the edge of the table. For 24 cm books, the top book's far end is 12 + 6 + 4 + 3 = 25 cm past the edge, which is 1 cm more than a whole book length.",
+   "why": "Each part of the stack balances as long as its balance point, its centre of mass, is above the book under it. The overhangs ½, ¼, ⅙ and ⅛ are half of 1, ½, ⅓ and ¼. Those are the first pieces of the harmonic series, 1 + ½ + ⅓ + ¼ and on. That sum never stops growing, so with enough books the stack could lean out as far as you like. Leaning out 2 whole book lengths takes 31 books, and 3 lengths takes 227.",
+   "safety": "Keep feet away from under the stack in case it falls. Use books, not glass or heavy boxes.",
+   "time": "16 min"
+  },
+  {
+   "id": "e4",
+   "title": "A dip in the cloth",
+   "day": 8,
+   "question": "How can mass bend the paths of things moving nearby, and what is it like near a black hole?",
+   "need": [
+    "an old dupatta or thin bedsheet",
+    "a wide bucket or plastic tub",
+    "a long string or 4 clothes-pegs",
+    "an orange",
+    "a heavier ball, such as a cricket ball",
+    "3 or 4 marbles, or dried green peas"
+   ],
+   "steps": [
+    "Stretch the cloth tightly over the mouth of the bucket. Tie it round the rim with string, or peg it, so it is flat like a drum.",
+    "Roll a marble gently across the cloth. Watch its path.",
+    "Put the orange in the middle. Roll a marble past it, not straight at it. Watch the path.",
+    "Swap the orange for the heavier ball. Roll marbles past it at different distances.",
+    "Take the ball away. A grown-up pushes a fist down hard in the middle, making a deep, narrow dip. Roll a marble close to the fist, then one further away."
+   ],
+   "predict": "Ask before each part: 'Which way will the marble go? Will the heavy ball change its path more than the orange? Why?'",
+   "observe": "On the flat cloth the marble rolls straight. Near the orange, the path bends towards it. Near the heavier ball, the dip is deeper and paths bend more, and some marbles circle in. Near the fist's deep dip, a marble that comes close falls in and cannot climb out, while one further away only curves.",
+   "why": "This is a model of Einstein's idea that mass bends space, and things moving nearby follow the bend. More mass in the same space makes a deeper bend. A black hole has so much mass in so small a space that, close to it, the bend is too steep for anything to climb out, even light. That boundary is the event horizon. The model has limits. Real space has no 'down', and the marbles here roll only because the Earth's gravity pulls them. And if you kept pushing, the cloth would tear. The equations for the centre of a black hole 'tear' too: they give infinity.",
+   "safety": "Push the cloth only with a fist, not a sharp thing. Pick up marbles afterwards so nobody slips, and keep marbles away from small children.",
+   "time": "14 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The floor number line",
+   "day": 1,
+   "mins": 16,
+   "need": [
+    "a roll of masking tape or 21 paper slips",
+    "a marker pen",
+    "paper and a pencil"
+   ],
+   "steps": [
+    "Make a line on the floor, one big step long for each number. Mark 0 in the middle. Mark 1 to 10 to the right and −1 to −10 to the left.",
+    "Your child stands on 3. They walk back 5 steps, counting each one. Ask: 'Where are you?'",
+    "Try more: start at 2 and go back 6. Start at −4 and go forward 7. Your child writes each one as a sum, for example 2 − 6 = −4.",
+    "Read Brahmagupta's rules from 628 CE. He called positive numbers fortunes and negative numbers debts. A debt minus zero is a debt. A fortune minus zero is a fortune. Zero minus a debt is a fortune.",
+    "Act it out with money: you have ₹3 and owe ₹5. Your child stands on 3 and walks back 5. Ask: 'Do you have money, or do you owe it?'",
+    "Ask: 'What is −3 + 3?' Your child walks it. (They land on 0.) Say: 'A debt and a fortune of the same size make zero.'"
+   ],
+   "outcome": "Your child walks and writes sums with negative numbers and sees that zero sits in the middle of the number line, not at the bottom."
+  },
+  {
+   "id": "a2",
+   "title": "The cooling dance",
+   "day": 2,
+   "mins": 8,
+   "need": [
+    "music on a phone",
+    "space to move"
+   ],
+   "steps": [
+    "Everyone is a particle. Play fast music. Say: 'You are water at 100 °C.' Everyone jiggles and moves fast around the room.",
+    "Call out: '50 °C.' Move a little slower. '0 °C, you are ice.' Hold hands in a line and only jiggle on the spot.",
+    "Call out: '−100 °C.' Jiggle more slowly. '−200 °C.' Even more slowly.",
+    "Call out: 'Absolute zero, −273 °C.' Stand as still as you can, but keep the smallest wobble in your fingers. Say: 'Particles never stop completely.'",
+    "Now warm up again, step by step, back to 100 °C."
+   ],
+   "outcome": "Your child feels that temperature is how fast particles jiggle, that there is a lowest temperature, and that even there a tiny jiggle is left."
+  },
+  {
+   "id": "a3",
+   "title": "Smaller and smaller",
+   "day": 4,
+   "mins": 14,
+   "need": [
+    "a phone calculator",
+    "paper and a pencil"
+   ],
+   "steps": [
+    "Draw a table with two columns: '12 divided by' and 'answer'.",
+    "Your child uses the calculator for 12 ÷ 1, 12 ÷ 0.5, 12 ÷ 0.1, 12 ÷ 0.01 and 12 ÷ 0.001. They write each answer in the table.",
+    "Ask: 'What does 12 ÷ 0.5 mean?' Good answer: 'How many halves make 12. That is 24.'",
+    "Now divide by tiny numbers below zero: 12 ÷ −0.1, 12 ÷ −0.01 and 12 ÷ −0.001. Write these answers too.",
+    "Last, type 12 ÷ 0 and read what the calculator says."
+   ],
+   "outcome": "A table that shows the answers getting bigger without end as the divisor gets closer to 0, and hugely negative from the other side, so 12 ÷ 0 has no one answer."
+  },
+  {
+   "id": "a4",
+   "title": "Hilbert's hotel",
+   "day": 5,
+   "mins": 17,
+   "need": [
+    "10 sheets of paper or slips, numbered 1 to 10, and one more marked '…'",
+    "a marker pen",
+    "soft toys, steel cups or family members as guests"
+   ],
+   "steps": [
+    "Lay the numbered sheets in a line on the floor. Put the '…' sheet at the end. Say: 'This hotel has a room for every counting number. The rooms never end.'",
+    "Put a guest on every room. Say: 'Every room is full. The rooms behind the dots are full too.'",
+    "Scene 1: a new guest arrives. Your child is the manager. Say: 'You may not throw anyone out.' Let them think. If they are stuck, hint: 'Could everyone move?'",
+    "The answer: everyone moves from their room to the next room up. Room 1 is now free. Move the guests to show it.",
+    "Scene 2: a bus arrives with endlessly many new guests. Ask: 'Moving everyone up one room frees only one room. What now?'",
+    "The answer: everyone moves to double their room number. The guest in room 1 goes to room 2, room 2 to room 4, room 3 to room 6. Show it with the first 5 guests. Ask: 'Which rooms are free now?' (The odd rooms, 1, 3, 5 and on.) The bus guests go there."
+   ],
+   "outcome": "Your child acts out how an infinite hotel can take in one more guest, and then endlessly many, and still be full."
+  },
+  {
+   "id": "a5",
+   "title": "The diagonal trick",
+   "day": 6,
+   "mins": 16,
+   "need": [
+    "paper and a pencil",
+    "a ruler"
+   ],
+   "steps": [
+    "Your child writes a list of 5 decimals, one under the other. Each one has 5 digits after the point, for example 0.31415. Say: 'Pretend this list is meant to hold every decimal there is.'",
+    "Circle the 1st digit of the 1st number, the 2nd digit of the 2nd number, and so on down to the 5th digit of the 5th number. The circles make a diagonal line.",
+    "Make a new decimal from the circles. For each circled digit, write 2 if it is a 1, and write 1 if it is anything else.",
+    "Check the new decimal against each number on the list. Find the place where it differs.",
+    "Ask: 'If the list had 100 numbers, or an endless list, could you still do this?'",
+    "Swap: you write a list, and your child makes a decimal that is not on it.",
+    "Draw a short line, 2 cm long, above a long line, 10 cm long. Put a dot well above both. Draw straight lines from the dot through the short line to the long line. Say: 'Every point on the short line meets exactly one point on the long line, and the other way round.'"
+   ],
+   "outcome": "Your child makes a decimal that is missing from any list, which shows there are more decimals than counting numbers, and sees why a short line has as many points as a long one."
+  },
+  {
+   "id": "a6",
+   "title": "How many halvings?",
+   "day": 7,
+   "mins": 15,
+   "need": [
+    "2 sheets of A4 paper, or old newspaper",
+    "a phone calculator",
+    "paper and a pencil"
+   ],
+   "steps": [
+    "Fold a sheet of A4 paper in half. Fold it in half again. Keep going, counting the folds, until you cannot fold it any more. Write the number of folds.",
+    "Count the layers: 1 fold makes 2 layers, 2 folds make 4, 3 folds make 8. Your child writes the doubling list up to their number of folds.",
+    "Say: 'Most people can fold paper only about 7 times. In 2002, Britney Gallivan, a school student in California, worked out why. Then she folded a very long strip of thin paper, more than a kilometre long, 12 times.'",
+    "Now halve a metre on the calculator. Type 1 ÷ 2 and press equals. Keep dividing by 2, counting each time, until the answer is smaller than a billionth, 0.000000001. That takes 30 halvings. Some calculators then show the answer with an 'e', such as 9.3e−10. That means the same small number.",
+    "Say: 'A few more, 33 halvings, and you reach about the width of an atom.'"
+   ],
+   "outcome": "Your child finds that real halving stops after a few folds, and that a metre halved only 33 times is already the width of an atom."
+  }
+ ],
+ "project": {
+  "title": "The Edge Book",
+  "days": [
+   1,
+   9
+  ],
+  "steps": [
+   "On Day 1, your child takes a new notebook and writes 'The Edge Book' on the cover.",
+   "At the end of each day, they give that day one page. The heading is the day's title.",
+   "On the left half of the page they write one thing we know, and how we know it: 'Salt and ice made frost, so the tumbler was below 0 °C.'",
+   "On the right half they write 'What I still wonder', and one question of their own.",
+   "They add one small drawing on each page: the number line, the frosty tumbler, the card on the glass, the hotel rooms, the diagonal list, the book stack, the dip in the cloth.",
+   "On Day 9, they use the Edge Book to teach the family, and read out their questions."
+  ],
+  "outcome": "A notebook with nine pages, each showing what science knows at one edge of zero or infinity, and the child's own questions about what nobody knows yet."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Bigger, Same or No Answer?",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the printed cards, cut out",
+   "the Edge Book, to settle arguments"
+  ],
+  "rules": [
+   "Shuffle the cards and put them in a pile, front side up.",
+   "Take turns. Read the front of the top card aloud and give your answer with one reason.",
+   "Turn the card over and read the back. If your answer and your reason are right, keep the card. If not, put it at the bottom of the pile.",
+   "If another player thinks the back is wrong, they may argue. If the family agrees with them, they get the card.",
+   "When the pile is gone, the player with the most cards wins.",
+   "Playing alone? Try to keep more than 16 cards."
+  ],
+  "cards": [
+   {
+    "front": "Which is bigger: the counting numbers, or the even numbers?",
+    "back": "The same size. Pair 1 with 2, 2 with 4, 3 with 6, and on for ever. Nothing is left over."
+   },
+   {
+    "front": "Which is bigger: the counting numbers, or all the decimals between 0 and 1?",
+    "back": "The decimals. The diagonal trick makes a decimal that is missing from any list."
+   },
+   {
+    "front": "Which is bigger: all the fractions, or the counting numbers?",
+    "back": "The same size. Cantor found a way to put every fraction in one endless list."
+   },
+   {
+    "front": "Which has more points: a line 1 cm long, or a line 1 metre long?",
+    "back": "The same. Lines drawn from one dot pair every point on the short line with a point on the long one."
+   },
+   {
+    "front": "12 ÷ 0",
+    "back": "No answer. No number of zero-groups ever makes 12."
+   },
+   {
+    "front": "12 ÷ 0.001",
+    "back": "12,000. Dividing by tinier numbers gives bigger answers."
+   },
+   {
+    "front": "3 − 5",
+    "back": "−2. A fortune of 3 minus 5 leaves a debt of 2."
+   },
+   {
+    "front": "−3 + 3",
+    "back": "0. A debt and a fortune of the same size make zero."
+   },
+   {
+    "front": "Hilbert's hotel is full. One new guest arrives. Is there room?",
+    "back": "Yes. Everyone moves up one room, and room 1 is free."
+   },
+   {
+    "front": "Hilbert's hotel is full. A bus with endlessly many guests arrives. Is there room?",
+    "back": "Yes. Everyone moves to double their room number, and the bus guests take the odd rooms."
+   },
+   {
+    "front": "Is 0 °C the coldest anything can be?",
+    "back": "No. Ice and salt go below it. The true bottom is absolute zero, about −273 °C."
+   },
+   {
+    "front": "Can anything be cooled exactly to absolute zero?",
+    "back": "No. You can get closer and closer, but never all the way."
+   },
+   {
+    "front": "At absolute zero, do particles stop moving completely?",
+    "back": "No. A tiny jiggle is always left."
+   },
+   {
+    "front": "Does a straw pull up the drink?",
+    "back": "No. The air outside pushes the drink up into the emptier space in your mouth."
+   },
+   {
+    "front": "How high can the air push water up a pipe with a perfect vacuum at the top?",
+    "back": "About 10 metres. Not a finger more."
+   },
+   {
+    "front": "Is the space between the stars completely empty?",
+    "back": "No. It has a few atoms, and light crosses it. Even a perfect vacuum is not quite nothing."
+   },
+   {
+    "front": "½ + ¼ + ⅛ + … for ever",
+    "back": "Exactly 1."
+   },
+   {
+    "front": "1 + ½ + ⅓ + ¼ + … for ever",
+    "back": "No end. It grows past any number you name, though very slowly."
+   },
+   {
+    "front": "Can the top book of a stack stick out completely past the table edge?",
+    "back": "Yes. With 4 books sticking out ½, ¼, ⅙ and ⅛ of a book, the top one is fully past the edge."
+   },
+   {
+    "front": "How many times can you fold a sheet of A4 paper in half?",
+    "back": "About 7. Britney Gallivan folded a strip more than a kilometre long 12 times."
+   },
+   {
+    "front": "Can light get out from inside a black hole's event horizon?",
+    "back": "No. That is what the event horizon means."
+   },
+   {
+    "front": "What is at the very centre of a black hole?",
+    "back": "Nobody knows. Einstein's equations give infinity, which most physicists read as the theory breaking down."
+   },
+   {
+    "front": "If the Sun were swapped for a black hole of the same mass, would the Earth fall in?",
+    "back": "No. The Earth would keep going round in the same orbit, but in the dark."
+   },
+   {
+    "front": "Does space go on for ever?",
+    "back": "Nobody knows. It looks very nearly flat. It could be endless, or huge but finite."
+   },
+   {
+    "front": "What year came just before 1 CE?",
+    "back": "1 BCE. Our calendar has no year zero."
+   },
+   {
+    "front": "Why is the night sky dark, when there are so many stars?",
+    "back": "The universe has an age, so light from the farthest stars has not reached us yet."
+   }
+  ]
+ },
+ "big": [
+  "Is there anywhere in the universe that is truly nothing?",
+  "Is infinity real, or does it exist only in our heads?",
+  "When the equations say 'infinity', is the universe infinite there, or have we just reached the edge of what we know?",
+  "Did time have a beginning, or has it always been going?",
+  "If even empty space is full of something, is anything ever really separate from everything else?"
+ ],
+ "challenge": [
+  {
+   "q": "A vacuum cleaner sucks up dirt. True?",
+   "hint": "A fan inside the vacuum cleaner pushes air out of the back. That leaves less air inside, so the air pressure there is lower. The air outside pushes in through the nozzle, and it carries the dust with it. Nothing is pulled. Ask: if you used a vacuum cleaner on the Moon, where there is no air, would it pick up any dust?"
+  },
+  {
+   "q": "Infinity plus one is bigger than infinity. True?",
+   "hint": "In Hilbert's hotel, adding one guest, or even endlessly many guests, did not make the collection bigger. Everyone still had a room. But Cantor showed that some infinities really are bigger, like all the decimals compared with the counting numbers. They are bigger because they are too many to pair up, not because someone added one. Ask: what does 'bigger' mean when nothing ever ends?"
+  },
+  {
+   "q": "A black hole is a cosmic vacuum cleaner that sucks in everything near it. True?",
+   "hint": "Far from a black hole, its gravity is the same as any other object with the same mass. If the Sun were swapped for a black hole of the same mass, the Earth would keep going round in the same orbit. Only things that come very close fall in. And a black hole does not suck, just as a straw does not. Ask: why do you think people tell this story?"
+  },
+  {
+   "q": "Space is a perfect, empty nothing. True?",
+   "hint": "Space between the stars has about one atom in a space the size of a sugar cube. Starlight crosses it all the time, and it is a little warm, about 3 kelvin. Even a perfect vacuum is not empty: two metal plates very close together in a vacuum are pushed towards each other, as Hendrik Casimir predicted in 1948. Ask: if you took away every atom and all the light, would anything be left?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A wood frog in Alaska",
+   "view": "Winter in Alaska stays far below 0 °C for months. A frog small enough to sit in your palm cannot keep warm through it. So the wood frog lets about two-thirds of the water in their body freeze. Their heart stops and they do not breathe. Before freezing, their liver fills their cells with sugar, which stops the insides of the cells from freezing and tearing. In spring they thaw and hop away. Ask: when the frog's heart has stopped for weeks, is the frog alive? What does 'zero heartbeats' mean here?"
+  },
+  {
+   "who": "Nagarjuna, a Buddhist teacher who lived about 1,800 years ago and is linked by tradition to Andhra",
+   "view": "Nagarjuna taught shunyata, emptiness. He meant that nothing exists on its own, separate from everything else. Each thing exists through its causes and the things around it. The same word, shunya, became the Indian name for zero. Ask: a drink rises in a straw only because of the air all around it. What else around you exists only because of other things?"
+  },
+  {
+   "who": "The engineers who design computer chips",
+   "view": "Since 1985, most computers follow a set of rules called IEEE 754 for doing sums with decimals. Under these rules, 1 ÷ 0 does not crash the computer. It gives a special value called infinity, and 0 ÷ 0 gives a value called NaN, which means 'not a number'. Mathematicians say 1 ÷ 0 has no answer. Ask: is it all right for a computer to say 'infinity' when the true answer is 'no answer'? When might that be useful, and when might it fool someone?"
+  },
+  {
+   "who": "The old Hindu texts called the Puranas",
+   "view": "The Puranas describe time in vast cycles. One day of the god Brahma, called a kalpa, lasts 4.32 billion years. It is followed by a night of the same length, and then creation begins again, without end. Scientists today say the universe began about 13.8 billion years ago, and nobody knows if anything came before. Ask: is time more like a line with a zero at the start, or like a circle with no start at all?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Aristotle (384 to 322 BCE), Greece",
+   "idea": "Aristotle argued that a void, a space with nothing at all in it, cannot exist. Later thinkers in Europe summed up this view as 'nature abhors a vacuum', which means nature hates empty space. They said water rises in a pump because nature rushes to fill any empty space.",
+   "then": "This view lasted for nearly 2,000 years. Then well-diggers in Florence, Italy, found that their pumps could not lift water more than about 10 metres. Galileo wrote about the puzzle in 1638. Around 1643, Evangelista Torricelli, who had worked with Galileo, filled a glass tube with mercury, a heavy liquid metal, and turned it upside down in a dish. The mercury fell to about 76 cm and left an empty space at the top. Torricelli wrote that we live at the bottom of an ocean of air.",
+   "now": "In 1648, Florin Périer, Blaise Pascal's brother-in-law, carried such a tube up a mountain in France, the Puy de Dôme. At the top, where there is less air above, the mercury stood about 8 cm lower. So the push of the air holds up the mercury, not nature's hatred of empty space. Aristotle's idea is rejected. But scientists now agree with one part of it: even the best vacuum is not completely empty.",
+   "status": "rejected",
+   "ask": "At the top of the mountain the mercury stood lower. If empty space pulled the mercury up, would going up a mountain make any difference? What does going up a mountain change?",
+   "day": 3
+  },
+  {
+   "id": "v2",
+   "who": "Satyendra Nath Bose (1894 to 1974), India",
+   "idea": "In 1924, Bose, a young physics teacher at the University of Dhaka, found a new way to count how particles of light share out their energy. He sent his paper to Albert Einstein. Einstein translated it into German, had it published, and used Bose's method for atoms. Their work predicted that some kinds of atoms, cooled to almost absolute zero, would stop acting like separate atoms and move together as one.",
+   "then": "For 70 years nobody could make anything cold enough to test it. Physicists named a whole family of particles bosons, after him. Bose was nominated for the Nobel Prize but never won it.",
+   "now": "In 1995, scientists in the United States made the first Bose–Einstein condensate, and they won the Nobel Prize in 2001. In 1999, Lene Hau, a Danish physicist at Harvard University, shone light through one made of sodium atoms. The light slowed from 300,000 kilometres each second to 17 metres each second. In 2001, her team stopped light for a tiny moment and then let it go again.",
+   "status": "accepted",
+   "ask": "Bose's idea waited 70 years before anyone could test it. Should an idea count as science before anyone can test it? Why or why not?",
+   "day": 2
+  },
+  {
+   "id": "v3",
+   "who": "Georg Cantor (1845 to 1918), Germany",
+   "idea": "Cantor said two endless collections are the same size if their members can be paired one to one. With this rule he showed, in the 1870s, that there are as many fractions as counting numbers, but that the decimals can never all be listed, so there are more of them. In 1891 he gave the diagonal trick. He also showed there is no biggest infinity: above every infinity there is a bigger one.",
+   "then": "Many mathematicians attacked his work. Leopold Kronecker, a powerful professor in Berlin, opposed it strongly. Kronecker is reported to have said that God made the whole numbers and all the rest is the work of people. Cantor never got a job at a top university. He suffered long periods of depression, spent time in hospital, and died in a hospital in Halle in 1918.",
+   "now": "His ideas are now a base of modern mathematics. In 1926, David Hilbert wrote: 'No one shall drive us out of the paradise that Cantor has created.' A few mathematicians still prefer to work without finished infinities, but almost all accept his proofs.",
+   "status": "accepted",
+   "ask": "Cantor's proofs were correct, but powerful people rejected them. What should decide whether a new idea is accepted: who says it, or whether the reasons hold up?",
+   "day": 6
+  },
+  {
+   "id": "v4",
+   "who": "Roger Penrose (born 1931), Britain",
+   "idea": "In 1965, Penrose proved that, if Einstein's theory of gravity is right, a big enough star that collapses must form a singularity: a place where the density and the bending of space become infinite. Before this, many scientists thought a real star would never collapse that far.",
+   "then": "Black holes were still only an answer to equations. Karl Schwarzschild had found the first one in 1916, and in 1939 Einstein himself argued that nature would not make them. From the early 1970s, astronomers found strong signs of real black holes, such as one called Cygnus X-1.",
+   "now": "In 2020, Penrose shared the Nobel Prize in Physics with Andrea Ghez and Reinhard Genzel. For more than 20 years, Ghez and Genzel tracked stars racing round the black hole at the centre of our galaxy. Ghez was only the fourth woman to win the physics prize. Black holes are real. But most physicists think the infinite singularity is not: it shows where Einstein's theory stops working. A theory that joins gravity with quantum physics is needed, and nobody has one yet.",
+   "status": "debated",
+   "ask": "The equations say 'infinite'. Should we believe there is really something infinite inside, or that the equations have reached their limit? What evidence could ever tell us, if nothing can come out?",
+   "day": 8
+  }
+ ],
+ "story": {
+  "title": "The Water Was Still There",
+  "text": [
+   "The hand pump at the end of our street stopped working in the month of Chithirai, in the middle of April. In Virudhunagar that is when the sun is so hot that the tar on the road goes soft under your chappals.",
+   "I pressed the handle down. It went down too easily, as if I were pressing on air, and nothing came out of the spout but a dry cough. I pumped twenty times. My brother Murugan pumped twenty more. Then Chitra akka from the next house came with her two brass pots and pumped until her arms shook. Nothing came.",
+   "'It has lost its suck,' Murugan said. He was seven, and he said it the way you would say a cow has lost a calf.",
+   "That evening Amma walked to the panchayat tank, two kilometres away, with one pot on her head and one on her hip. She did it twice. She came back the second time after dark, and she did not talk while she ate.",
+   "Beside our pump is the old well, with its broken wall, the one nobody has used since the pump came. In the morning I took the long string that holds up our jasmine creeper. I borrowed Amma's tailor's tape and tied a knot in the string at every metre. Then I tied a stone to the end and lowered it into the well until I heard it plop. When I pulled it up, the string was wet at the bottom. I counted the dry knots above the wet part. There were nine.",
+   "'The water is still there,' I told Amma. 'Nine metres down. The well has not dried up. The pump is just being lazy.'",
+   "'Then the pump is weak,' said Murugan. 'We need a stronger man to pump it.'",
+   "On the third day the panchayat sent Saroja akka, the pump mechanic. She came on a blue moped with a sack of pipes tied on behind. She had grease up to her elbows and a pencil behind her ear. She listened to my nine knots without laughing. Then she pumped the handle once, felt how easily it went down, and nodded as if the pump had told her something.",
+   "She took her own plastic water bottle from the moped. She filled it right to the top from Chitra akka's pot, pushed in a straw she had saved from a juice shop, and pressed a lump of grease round the straw to close the mouth of the bottle tight.",
+   "'Drink,' she said to Murugan.",
+   "Murugan sucked until his cheeks went flat. His eyes went wide. Not a drop came up.",
+   "Saroja akka poked a small hole in the grease with her pencil. 'Again.' This time the water shot up the straw so fast that Murugan choked and laughed at the same time.",
+   "'Your mouth never pulled that water,' she said. 'Nothing can pull water. When you suck, you only make the space inside your mouth emptier. All the time, the air is pressing down on the water in the bottle. It pushes the water up into the empty space. Shut the air out, and there is nothing to push.'",
+   "She pointed up at the white sky. 'All the air above us is heavy. It presses on everything: on you, on the roofs, on the water down in that well. Your pump only makes an empty space at the top of its pipe. The air presses on the water underground and pushes it up the pipe to fill the space.'",
+   "'So why does it not push now?' I asked.",
+   "'The air can push water up a pipe only so high. In a perfect pipe, with a perfectly empty space at the top, about ten metres. Not a finger more. And no pump is perfect. An old one like this gives up at about seven metres.'",
+   "I looked at my string. Nine dry knots. Seven metres was as high as the air could push. The water was nine metres down. The water was still there, but it was too deep for the air.",
+   "'Then I will pump harder,' said Murugan, and rolled up his sleeves.",
+   "'It will not help,' I said slowly. I was working it out as I spoke. 'The pump does not lift anything. It only makes the empty space. Pumping harder makes the same empty space. Even a giant could not do it, because it is the air that has to push, and the air is already pushing as hard as it can.' I thought about it some more. 'So the pump cannot stay up here. It has to go down to the water.'",
+   "Saroja akka grinned and slapped the sack of pipes. 'That is what these are for.'",
+   "We worked all afternoon: Saroja akka, Amma, Chitra akka and me. Murugan held the bolts in his shirt. The new pump was taller and painted green. A long steel rod went down inside the pipe, twelve metres, to a small cylinder that sat right inside the water. When you press the handle, the rod lifts the water from below. It does not ask the air for help.",
+   "Just before sunset, Saroja akka gave the handle three long strokes. The spout coughed, and then the water came, cold and silver, splashing on the hot stones. Chitra akka laughed out loud. Amma put her pot under it and did not say anything, but she put her hand on my head.",
+   "That night I lay on the roof in the heat and looked up. Between me and the stars there was air, all of it, from the roof to wherever the sky ends, pressing down on my face, on the street, and on the water nine metres under the ground. I could not feel it at all. It had been pushing on me my whole life."
+  ],
+  "epiphany": "The idea is that empty space cannot pull. A pump or a straw only makes a space with less air in it, and the push of the air outside forces the water up. The turn comes when Kani sees that pumping harder cannot help: the air can push water up at most about 10 metres, so the pump must go down to the water. Kani, Murugan, Amma, Chitra and Saroja are made up. The science is real: a suction pump on top of a well cannot lift water much more than about 7 metres in practice. That is why the India Mark II hand pump, designed in India in the 1970s, puts its cylinder deep down inside the water.",
+  "ask": [
+   "Why did Kani say the water was still there, when no water came out of the pump?",
+   "What happened when Murugan sucked on the straw in the sealed bottle? What changed when Saroja akka poked a hole?",
+   "Murugan thought a stronger person could make the old pump work. Why was he wrong?",
+   "Why does the new pump work when the water is 9 metres down?",
+   "Kani says the air had been pushing on her all her life, but she could not feel it. Why do you think we don't feel it?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Some zeros are a true bottom, and some are a starting point people chose.",
+   "more": "The ground floor, sea level and 0 °C are chosen zeros, and you can go below them. Absolute zero, −273.15 °C, is a true bottom. Nothing can be colder, and nothing can ever be cooled all the way to it."
+  },
+  {
+   "idea": "Empty space cannot pull. The air pushes.",
+   "more": "With the bottle sealed, no water came up the straw, however hard your child sucked. A pump, a straw and a vacuum cleaner all work because the air outside pushes. And even a perfect vacuum is not completely empty."
+  },
+  {
+   "idea": "Infinities can be compared, and some are bigger than others.",
+   "more": "If two collections pair up one to one, they are the same size, so there are as many even numbers as counting numbers. The diagonal trick makes a decimal that is missing from any list, so there are more decimals than counting numbers."
+  },
+  {
+   "idea": "When a calculation gives infinity, it usually means the idea has reached its limit.",
+   "more": "12 ÷ 0 has no answer. A needle tip with zero area would have infinite pressure, but no real tip has zero area. Einstein's equations give infinite density at a black hole's centre, and most physicists think that means a new theory is needed there."
+  }
+ ],
+ "unknowns": [
+  "What is at the centre of a black hole? Einstein's equations give a singularity of infinite density. Most physicists think something else is really there, but nobody has a theory that joins gravity and quantum physics to say what.",
+  "Does space go on for ever? Measurements show it is very nearly flat, which fits an endless universe, but it could also be huge and finite. Nobody knows.",
+  "What, if anything, came before the Big Bang? The equations break down at the start. Some scientists think the universe bounced back from an earlier one, others that time itself began. Nobody knows.",
+  "Is there a smallest size of space? Some physicists think that near the Planck length, about 116 halvings of a metre, our ideas of space stop working. Nobody has been able to test this."
+ ],
+ "books": [
+  {
+   "title": "The Number Devil",
+   "author": "Hans Magnus Enzensberger",
+   "for": "read together",
+   "age": "9–13",
+   "why": "A boy dreams of a devil who shows him zero, endless numbers and strange infinities. Read a chapter at bedtime during this week."
+  },
+  {
+   "title": "A Black Hole Is Not a Hole",
+   "author": "Carolyn Cinami DeCristofano",
+   "for": "read together",
+   "age": "8–12",
+   "why": "A clear, friendly book on what black holes are and how astronomers find them. Read it after Day 8."
+  },
+  {
+   "title": "George's Secret Key to the Universe",
+   "author": "Lucy Hawking and Stephen Hawking",
+   "for": "read alone",
+   "age": "8–12",
+   "why": "A story about a boy and a girl who travel through space, with true science pages about stars and black holes."
+  },
+  {
+   "title": "One Two Three... Infinity",
+   "author": "George Gamow",
+   "for": "parent reads",
+   "age": "adult (read parts aloud)",
+   "why": "A classic popular book. Its first chapters explain Cantor's bigger infinities and Hilbert's hotel. Read them before Days 5 and 6."
+  }
+ ],
+ "check": [
+  {
+   "q": "What is absolute zero, and can anything be cooled all the way to it?",
+   "a": "It is the lowest temperature there can be, −273.15 °C. Nothing can be cooled exactly to it, though scientists have come within a billionth of a degree."
+  },
+  {
+   "q": "How does a drink go up a straw? What did the sealed bottle show?",
+   "a": "Sucking makes the space in your mouth emptier, and the air outside pushes the drink up. In the sealed bottle no air could press on the water, so no water came up until we poked a hole."
+  },
+  {
+   "q": "Why does 12 ÷ 0 have no answer, when 12 ÷ 0.001 does?",
+   "a": "12 ÷ 0.001 is 12,000. As you divide by numbers closer to 0, the answer grows without end, and from below zero it goes hugely negative. So at 0 there is no one answer."
+  },
+  {
+   "q": "Hilbert's hotel was full. How did it make room for a new guest?",
+   "a": "Every guest moved from their room to the next room up. There is no last room, so nobody was left out, and room 1 became free."
+  },
+  {
+   "q": "How do you know some infinities are bigger than others?",
+   "a": "The diagonal trick: from any list of decimals you can make a new decimal that differs from each one in at least one digit. So the decimals can never all be listed, and there are more of them than counting numbers."
+  },
+  {
+   "q": "The pieces ½, ⅓, ¼ and on get smaller. Why does 1 + ½ + ⅓ + ¼ + … never stop growing?",
+   "a": "You can group the pieces so each group adds up to at least ½: ⅓ + ¼, then ⅕ to ⅛, and so on. There are endless groups, so you keep adding ½ for ever."
+  },
+  {
+   "q": "What is an event horizon, and what is a singularity?",
+   "a": "The event horizon is the edge of a black hole: once inside, nothing, not even light, can get out. The singularity is the centre, where Einstein's equations give infinite density. Most physicists think it means the theory stops working there."
+  }
+ ]
+}
