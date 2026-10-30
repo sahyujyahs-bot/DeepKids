@@ -1483,7 +1483,7 @@ function onAct(e) {
     }
     case "wk1done": {
       S.wk1 = { ...(S.wk1 || {}), done: { ...(S.wk1?.done || {}), [b.dataset.k]: today } };
-      ui.wk1now = 0;
+      ui.wk1at = null;
       sfx("win");
       toast(
         WEEK1.every(wk1Done)
@@ -1493,8 +1493,8 @@ function onAct(e) {
       commit();
       break;
     }
-    case "wk1now": {
-      ui.wk1now = 1;
+    case "wk1go": {
+      ui.wk1at = +b.dataset.i;
       sfx("flip");
       render();
       break;

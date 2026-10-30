@@ -3384,26 +3384,73 @@ a.btn {
 }
 .wk1h {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
   gap: 10px;
 }
 .wk1dots {
   display: flex;
-  gap: 5px;
+  align-items: center;
+  gap: 2px;
 }
-.wk1dots i {
-  width: 9px;
-  height: 9px;
+.wk1dots > button:not(.wk1arr) {
+  width: 22px;
+  height: 22px;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+}
+.wk1dots > button:not(.wk1arr)::before {
+  content: "";
+  width: 10px;
+  height: 10px;
   border-radius: 50%;
   background: var(--line);
 }
-.wk1dots i.on {
+.wk1dots > button.on::before {
   background: var(--sun);
 }
-.wk1dots i.cur {
-  background: var(--surface);
-  box-shadow: 0 0 0 2px var(--sun);
+.wk1dots > button.cur::before {
+  width: 13px;
+  height: 13px;
+  box-shadow:
+    0 0 0 2px var(--surface),
+    0 0 0 4px var(--sun);
+}
+.wk1arr {
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: var(--sunk);
+  color: var(--ink);
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+}
+.wk1arr svg {
+  width: 16px;
+  height: 16px;
+}
+.wk1arr:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+.wk1ok {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: 600;
+  color: var(--good);
+}
+.wk1ok svg {
+  width: 18px;
+  height: 18px;
 }
 .wk1t {
   flex-wrap: nowrap;

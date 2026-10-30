@@ -425,14 +425,19 @@ function firstWeekCard() {
   if (!S.setup || S.wk1?.off) return "";
   const k = WEEK1.findIndex((s) => !wk1Done(s));
   if (k < 0) return "";
-  const [id, t, d, go] = WEEK1[k],
-    dots = `<span class="wk1dots">${WEEK1.map((s, i) => `<i class="${wk1Done(s) ? "on" : i === k ? "cur" : ""}"></i>`).join("")}</span>`,
-    head = (n) => `<div class="wk1h"><span class="eyebrow">Your first week · Day ${n} of 7</span>${dots}</div>`;
+  // the dots and arrows look back or ahead; on its own the card shows the step to do next
+  const v = ui.wk1at ?? k,
+    [id, t, d, go] = WEEK1[v],
+    done = wk1Done(WEEK1[v]),
+    step = (i, ic, label) =>
+      `<button type="button" class="wk1arr" data-act="wk1go" data-i="${i}" aria-label="${label}" ${i < 0 || i > 6 ? "disabled" : ""}>${icon(ic)}</button>`,
+    head = (n) =>
+      `<div class="wk1h"><span class="eyebrow">Your first week · Day ${n + 1} of 7</span><span class="wk1dots">${step(n - 1, "back", "Day before")}${WEEK1.map((s, i) => `<button type="button" data-act="wk1go" data-i="${i}" class="${wk1Done(s) ? "on" : ""} ${i === n ? "cur" : ""}" aria-label="Day ${i + 1}: ${esc(s[1])}" ${i === n ? 'aria-current="step"' : ""}></button>`).join("")}${step(n + 1, "next", "Day after")}</span></div>`;
   // one a day: once today's is ticked, tomorrow's waits unless they want it now
-  if (Object.values(S.wk1?.done || {}).includes(today) && !ui.wk1now)
-    return `<section class="card wk1">${head(k)}<p class="sm"><b>Day ${k} done.</b> Tomorrow: ${esc(t)}.</p><button class="link sm" data-act="wk1now">Do it now</button></section>`;
-  return `<section class="card wk1">${head(k + 1)}<div class="row wk1t">${blob("var(--sun)", 6 + k, "wow", "nb", 'width="40" height="40"')}<div><h3>${t}</h3><p class="sm">${d}</p></div></div>
-   <div class="row">${go ? `<button class="btn sm" ${go}>Show me</button>` : ""}<button class="btn soft sm" data-act="wk1done" data-k="${id}">${icon("check")} Done</button><button class="link xs" data-act="wk1off">Hide this guide</button></div></section>`;
+  if (ui.wk1at == null && Object.values(S.wk1?.done || {}).includes(today))
+    return `<section class="card wk1">${head(k - 1)}<p class="sm"><b>Day ${k} done.</b> Tomorrow: ${esc(t)}.</p><button class="link sm" data-act="wk1go" data-i="${k}">Do it now</button></section>`;
+  return `<section class="card wk1">${head(v)}<div class="row wk1t">${blob("var(--sun)", 6 + v, done ? "happy" : "wow", "nb", 'width="40" height="40"')}<div><h3>${t}</h3><p class="sm">${d}</p></div></div>
+   <div class="row">${go ? `<button class="btn sm" ${go}>Show me</button>` : ""}${done ? `<span class="wk1ok">${icon("check")} Done</span>` : `<button class="btn soft sm" data-act="wk1done" data-k="${id}">${icon("check")} Done</button>`}<button class="link xs" data-act="wk1off">Hide this guide</button></div></section>`;
 }
 function viewToday() {
   const items = dayPlan(today),
