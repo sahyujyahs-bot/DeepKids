@@ -822,8 +822,8 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
    Options: So the chest can get bigger when the lungs fill with air / So food can get out / To make you lighter / Because they are still growing  
    **Answer:** So the chest can get bigger when the lungs fill with air. *Why:* When you breathe in, the ribs swing out and the diaphragm pulls down. The chest gets bigger and air rushes into the lungs. A solid shell would not let it grow.
 9. (mcq) Before a big race, your tummy feels fluttery and your heart thumps. Which is the best explanation?  
-   Options: Her brain sends 'get ready' messages along nerves to her gut as well as her heart / Her stomach has moved up into her chest / Her lungs have stopped working / Her heart has dropped into her tummy  
-   **Answer:** Her brain sends 'get ready' messages along nerves to her gut as well as her heart. *Why:* When you are nervous, the brain sends messages along nerves to many organs at once. The heart speeds up, and the gut slows down or squeezes oddly. That fluttery feeling shows the organs are linked by nerves.
+   Options: Your brain sends 'get ready' messages along nerves to your gut as well as your heart / Your stomach has moved up into your chest / Your lungs have stopped working / Your heart has dropped into your tummy  
+   **Answer:** Your brain sends 'get ready' messages along nerves to your gut as well as your heart. *Why:* When you are nervous, the brain sends messages along nerves to many organs at once. The heart speeds up, and the gut slows down or squeezes oddly. That fluttery feeling shows the organs are linked by nerves.
 10. (mcq) In the egg in the jar test, we used the same kind of jar, the same size of egg and the same number of shakes. Why?  
    Options: So that only the water was different, and the test was fair / To save eggs / Because the jars were the only ones at home / It does not matter  
    **Answer:** So that only the water was different, and the test was fair. *Why:* If only one thing changes, we know that thing caused the difference. Here the only change was the water.

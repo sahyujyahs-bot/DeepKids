@@ -660,7 +660,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
 3. (sort) Some things on the body look like dirt but are really guards. Sort these into GUARD and DIRT TO WASH OFF.  
    **Answer:** earwax → Guard; mucus in the nose → Guard; tears → Guard; eyelashes → Guard; mud on your knees → Dirt to wash off; oil on your hands after eating vada → Dirt to wash off. *Why:* Wax, mucus, tears and lashes are made by the body to trap or wash away dust and germs. Mud and food oil come from outside, and germs can stick in them, so we wash them off.
 4. (mcq) Dust blows into your eye at the bus stop. What should you do first?  
-   Options: Blink a lot, and rinse with clean water if the dust stays / Rub the eye hard / Pull out her eyelashes / Put in any eye drops from the cupboard  
+   Options: Blink a lot, and rinse with clean water if the dust stays / Rub the eye hard / Pull out your eyelashes / Put in any eye drops from the cupboard  
    **Answer:** Blink a lot, and rinse with clean water if the dust stays. *Why:* Blinking spreads tears, and tears wash dust to the corner of the eye. Clean water helps if it stays. Rubbing hard can scratch the eye, and only a doctor should choose eye drops.
 5. (truefalse) If you can't see any dirt on your hands, they are clean.  
    **Answer:** False. *Why:* False. Germs and mould spores are far too small to see. In the bread test, hands that looked clean still left spots on the bread. Looking is not enough. Washing with soap is the safe way.
@@ -760,7 +760,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
 13. (truefalse) Soap that says 'antibacterial' on the box cleans hands much better at home than ordinary soap.  
    **Answer:** False. *Why:* False. Many people believe this because of advertisements. Studies found ordinary soap, rubbed for 20 seconds, works just as well for everyday handwashing. What matters most is the rubbing and rinsing.
 14. (mcq) When you have a cold, your nose runs much more than usual. Why does your nose make so much extra mucus?  
-   Options: To trap the cold germs and wash them out / Because the nose is full of dirt / Because the brain is leaking / Because she drank too much water  
+   Options: To trap the cold germs and wash them out / Because the nose is full of dirt / Because the brain is leaking / Because you drank too much water  
    **Answer:** To trap the cold germs and wash them out. *Why:* Mucus is one of the nose's guards. When germs get in, the nose makes more of it to trap them and carry them out. That is why we blow the nose into a tissue and then wash hands.
 15. (sort) Sort these into what SCIENTISTS AGREE ON and what SCIENTISTS STILL ARGUE ABOUT.  
    **Answer:** skin is an organ → Scientists agree; soap removes germs better than water alone → Scientists agree; shaving does not make hair thicker → Scientists agree; what fingertip ridges are mainly for → Scientists still argue; how much meeting germs early protects children from allergies → Scientists still argue; whether any two people in the world could have the same fingerprint → Scientists still argue. *Why:* Some things have been tested many times and always come out the same. Others are still being tested, and good scientists say plainly that they are not sure yet.
@@ -778,8 +778,8 @@ Many years later, the government gave her uncle a reward and an honour for his w
    Options: Skin / Heart / Lungs / Stomach  
    **Answer:** Skin. *Why:* Skin is an external organ, on the outside, and it is the biggest one. The heart, lungs and stomach are internal organs, inside the body.
 2. (mcq) You have a cold, and your nose is blocked. Your favourite dosa suddenly tastes dull. Why?  
-   Options: Much of what we call taste is really smell, and her blocked nose can't smell the food / Colds make the dosa go bad / Her tongue has stopped working for ever / Dosa only tastes good on sunny days  
-   **Answer:** Much of what we call taste is really smell, and her blocked nose can't smell the food. *Why:* The tongue tastes only sweet, salty, sour, bitter and savoury. The nose picks up all the rest of the flavour. External organs work as a team, so when one is blocked, another seems to stop working too.
+   Options: Much of what we call taste is really smell, and your blocked nose can't smell the food / Colds make the dosa go bad / Your tongue has stopped working for ever / Dosa only tastes good on sunny days  
+   **Answer:** Much of what we call taste is really smell, and your blocked nose can't smell the food. *Why:* The tongue tastes only sweet, salty, sour, bitter and savoury. The nose picks up all the rest of the flavour. External organs work as a team, so when one is blocked, another seems to stop working too.
 3. (mcq) A girl bathes every day, but her ears still make yellow wax. What does that show?  
    Options: Wax is a guard the ear makes on purpose, not a sign of dirt / Her ears are very dirty / She is not washing properly / Wax only grows in dirty ears  
    **Answer:** Wax is a guard the ear makes on purpose, not a sign of dirt. *Why:* Clean ears make wax too. Wax traps dust and germs and moves out by itself. Picking 'very dirty' is the most common idea, and it is wrong.

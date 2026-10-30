@@ -3177,7 +3177,7 @@
       "The same as before"
      ],
      "a": 2,
-     "why": "Wherever she holds the bag, its pull goes down through her arms and body into the scale. So once she is still, the number is the same. While she is lifting the bag, the number jumps up for a moment, because she pushes down to push the bag up. Many people guess 'less', because the bag is further from the scale.",
+     "why": "Wherever you hold the bag, its pull goes down through your arms and body into the scale. So once you are still, the number is the same. While you are lifting the bag, the number jumps up for a moment, because you push down to push the bag up. Many people guess 'less', because the bag is further from the scale.",
      "how": "e2"
     },
     {
@@ -3655,10 +3655,10 @@
    "opts": [
     "About as easy as lifting 1 kilogram on Earth, because the Moon pulls it less",
     "Just the same, because it is still 6 kilograms",
-    "She can't lift it, because there is no gravity on the Moon"
+    "You can't lift it, because there is no gravity on the Moon"
    ],
    "a": 0,
-   "why": "The Moon pulls about one sixth as hard, so the box pulls down on her hands about as hard as 1 kilogram does on Earth. Its mass is still 6 kilograms: no book has gone. Picking 'just the same' mixes up mass and weight. Picking 'no gravity' forgets that the Moon does pull, just less.",
+   "why": "The Moon pulls about one sixth as hard, so the box pulls down on your hands about as hard as 1 kilogram does on Earth. Its mass is still 6 kilograms: no book has gone. Picking 'just the same' mixes up mass and weight. Picking 'no gravity' forgets that the Moon does pull, just less.",
    "how": "a5",
    "outcome": 6
   },

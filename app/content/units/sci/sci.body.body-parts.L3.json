@@ -895,7 +895,7 @@
      "opts": [
       "Blink a lot, and rinse with clean water if the dust stays",
       "Rub the eye hard",
-      "Pull out her eyelashes",
+      "Pull out your eyelashes",
       "Put in any eye drops from the cupboard"
      ],
      "a": 0,
@@ -1387,7 +1387,7 @@
       "To trap the cold germs and wash them out",
       "Because the nose is full of dirt",
       "Because the brain is leaking",
-      "Because she drank too much water"
+      "Because you drank too much water"
      ],
      "a": 0,
      "why": "Mucus is one of the nose's guards. When germs get in, the nose makes more of it to trap them and carry them out. That is why we blow the nose into a tissue and then wash hands."
@@ -2790,9 +2790,9 @@
    "t": "mcq",
    "p": "You have a cold, and your nose is blocked. Your favourite dosa suddenly tastes dull. Why?",
    "opts": [
-    "Much of what we call taste is really smell, and her blocked nose can't smell the food",
+    "Much of what we call taste is really smell, and your blocked nose can't smell the food",
     "Colds make the dosa go bad",
-    "Her tongue has stopped working for ever",
+    "Your tongue has stopped working for ever",
     "Dosa only tastes good on sunny days"
    ],
    "a": 0,
