@@ -711,7 +711,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
    **Answer:** Forwards, opposite to her push. *Why:* She pushes the river bed backwards, and the river bed pushes the pole, and the boat, forwards. Picking 'backwards' means the push back was forgotten.
 9. (mcq) A cricket bat hits a ball hard. What does the ball do to the bat?  
    Options: It pushes the bat back, just as hard / Nothing, because the ball is smaller / It pulls the bat forwards  
-   **Answer:** It pushes the bat back, just as hard. *Why:* Every push comes with an equal push back. The batter feels it as a jolt in her hands. The ball flies off fast because it is light, and the bat barely slows because it is heavy and held tight. Picking 'nothing' is the usual first guess.
+   **Answer:** It pushes the bat back, just as hard. *Why:* Every push comes with an equal push back. The batter feels it as a jolt in her hands. The ball flies off fast because it is light, but the heavy bat, held tight in her hands, barely slows down. Picking 'nothing' is the usual first guess.
 10. (truefalse) Your muscles can push your bones as well as pull them.  
    **Answer:** False. *Why:* False. A muscle can only pull, by getting shorter. That is why muscles work in pairs: one pulls a joint bent, and the other pulls it straight again.
 11. (forces) A girl drags a sack of rice to the right across the floor with a rope. Show the forces on the sack with arrows.  
