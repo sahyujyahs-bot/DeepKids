@@ -6180,7 +6180,7 @@ function wordGame(u) {
   const rows = [...Array(6)]
     .map((_, r) => {
       const w = g.g[r] || (r === g.g.length && !over ? g.cur || "" : "");
-      return `<div class="wrow">${[4]
+      return `<div class="wrow">${[0, 1, 2, 3, 4]
         .map((i) => {
           const ch = w[i] || "";
           let c = ch ? "f" : "";
@@ -9659,22 +9659,22 @@ const WEEK1 = [
   [
     "unit",
     "Try one experiment",
-    "Open a topic in the Library and do its experiment with things from your kitchen. Most take 15 minutes.",
-    'data-act="gotab" data-tab="library"',
+    "Open today's science topic and do its experiment with things from your kitchen. Most take 15 minutes.",
+    'data-act="wk1exp"',
     () => Object.keys(fxSt().time).length > 0,
   ],
   [
     "week",
     "Tell DeepKids your week",
     "Type or say your classes, outings and chores, like “Swimming Tue and Thu 5 pm”. Lessons fit around them.",
-    'data-act="gotab" data-tab="week" data-seg="cal"',
+    'data-act="gotab" data-tab="week" data-seg="cal" data-focus="dumpText"',
     () => S.events.length > 0,
   ],
   [
     "print",
     "Print one worksheet",
-    "Open a lesson, find its worksheets and print one. Ten minutes at the table, away from the screen.",
-    'data-act="gotab" data-tab="library"',
+    "Print a worksheet for one of your lessons. Ten minutes at the table, away from the screen.",
+    'data-act="wk1ws"',
   ],
   [
     "iam",
@@ -9696,6 +9696,13 @@ const WEEK1 = [
   ],
 ];
 const wk1Done = ([id, , , , auto]) => !!(S.wk1?.done?.[id] || auto?.());
+// the lessons a first-week step can open: today's, then what's next in each subject
+const wk1Lessons = () => [
+  ...dayPlan(today)
+    .filter((i) => i.kind === "lesson")
+    .map((i) => i.u),
+  ...offers().map((o) => o.nx.u),
+];
 // Day 1 starts the lesson from the card: today's first one, or, on a day with none planned, the next one
 function wk1Lesson(d0) {
   const L = dayPlan(today).find((i) => i.kind === "lesson" && !i.done),
@@ -16514,6 +16521,35 @@ function onAct(e) {
       render();
       break;
     }
+    case "wk1exp": {
+      const u = wk1Lessons().find((x) => x.subj === "sci");
+      if (u?.board === "unit") fxOpen(u.c.unit);
+      else if (u) openSheet({ mode: "chapter", k: u.k });
+      else {
+        tab = "library";
+        ui.lt = "topics";
+        render();
+      }
+      break;
+    }
+    case "wk1ws": {
+      // the first lesson with something to print: a DeepKids unit opens at its first worksheet, a DeepKids
+      // lesson at its own worksheet, a board chapter at its topic's worksheets
+      const u = wk1Lessons().find((x) => x.board === "unit" || x.c?.p?.worksheets?.length || wsOf(x).length);
+      if (u?.board === "unit")
+        fxOpen(u.c.unit).then(() => {
+          const i = (FXALL?.sections || []).findIndex((x) => x.id.startsWith("ws-"));
+          if (i >= 0) fxGo(i, 0);
+        });
+      else if (u?.c?.p?.worksheets?.length) openSheet({ mode: "ws", k: u.k, w: u.c.p.worksheets[0].id });
+      else if (u) openSheet({ mode: "wsv", k: u.k, i: 0 });
+      else {
+        tab = "library";
+        ui.lt = "science";
+        render();
+      }
+      break;
+    }
     case "wk1iam": {
       document.getElementById("fxFab")?.click();
       break;
@@ -16614,6 +16650,12 @@ function onAct(e) {
       sfx("flip");
       render();
       scrollTo(0, 0);
+      // a "Show me" can point at one box on that screen
+      const f = b.dataset.focus && document.getElementById(b.dataset.focus);
+      if (f) {
+        f.scrollIntoView({ block: "center" });
+        f.focus({ preventScroll: true });
+      }
       break;
     }
     case "mbmake": {

@@ -385,22 +385,22 @@ const WEEK1 = [
   [
     "unit",
     "Try one experiment",
-    "Open a topic in the Library and do its experiment with things from your kitchen. Most take 15 minutes.",
-    'data-act="gotab" data-tab="library"',
+    "Open today's science topic and do its experiment with things from your kitchen. Most take 15 minutes.",
+    'data-act="wk1exp"',
     () => Object.keys(fxSt().time).length > 0,
   ],
   [
     "week",
     "Tell DeepKids your week",
     "Type or say your classes, outings and chores, like “Swimming Tue and Thu 5 pm”. Lessons fit around them.",
-    'data-act="gotab" data-tab="week" data-seg="cal"',
+    'data-act="gotab" data-tab="week" data-seg="cal" data-focus="dumpText"',
     () => S.events.length > 0,
   ],
   [
     "print",
     "Print one worksheet",
-    "Open a lesson, find its worksheets and print one. Ten minutes at the table, away from the screen.",
-    'data-act="gotab" data-tab="library"',
+    "Print a worksheet for one of your lessons. Ten minutes at the table, away from the screen.",
+    'data-act="wk1ws"',
   ],
   [
     "iam",
@@ -422,6 +422,13 @@ const WEEK1 = [
   ],
 ];
 const wk1Done = ([id, , , , auto]) => !!(S.wk1?.done?.[id] || auto?.());
+// the lessons a first-week step can open: today's, then what's next in each subject
+const wk1Lessons = () => [
+  ...dayPlan(today)
+    .filter((i) => i.kind === "lesson")
+    .map((i) => i.u),
+  ...offers().map((o) => o.nx.u),
+];
 // Day 1 starts the lesson from the card: today's first one, or, on a day with none planned, the next one
 function wk1Lesson(d0) {
   const L = dayPlan(today).find((i) => i.kind === "lesson" && !i.done),

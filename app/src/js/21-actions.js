@@ -1501,6 +1501,35 @@ function onAct(e) {
       render();
       break;
     }
+    case "wk1exp": {
+      const u = wk1Lessons().find((x) => x.subj === "sci");
+      if (u?.board === "unit") fxOpen(u.c.unit);
+      else if (u) openSheet({ mode: "chapter", k: u.k });
+      else {
+        tab = "library";
+        ui.lt = "topics";
+        render();
+      }
+      break;
+    }
+    case "wk1ws": {
+      // the first lesson with something to print: a DeepKids unit opens at its first worksheet, a DeepKids
+      // lesson at its own worksheet, a board chapter at its topic's worksheets
+      const u = wk1Lessons().find((x) => x.board === "unit" || x.c?.p?.worksheets?.length || wsOf(x).length);
+      if (u?.board === "unit")
+        fxOpen(u.c.unit).then(() => {
+          const i = (FXALL?.sections || []).findIndex((x) => x.id.startsWith("ws-"));
+          if (i >= 0) fxGo(i, 0);
+        });
+      else if (u?.c?.p?.worksheets?.length) openSheet({ mode: "ws", k: u.k, w: u.c.p.worksheets[0].id });
+      else if (u) openSheet({ mode: "wsv", k: u.k, i: 0 });
+      else {
+        tab = "library";
+        ui.lt = "science";
+        render();
+      }
+      break;
+    }
     case "wk1iam": {
       document.getElementById("fxFab")?.click();
       break;
@@ -1601,6 +1630,12 @@ function onAct(e) {
       sfx("flip");
       render();
       scrollTo(0, 0);
+      // a "Show me" can point at one box on that screen
+      const f = b.dataset.focus && document.getElementById(b.dataset.focus);
+      if (f) {
+        f.scrollIntoView({ block: "center" });
+        f.focus({ preventScroll: true });
+      }
       break;
     }
     case "mbmake": {
