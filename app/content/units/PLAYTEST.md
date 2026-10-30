@@ -5,17 +5,20 @@ played, followed step by step, opened one card at a time. Every checker of a uni
 mistake the founder or a reviewer found in a live unit.
 
 ## A. Printables and games
-1. **The printable is the real thing.** Every card, square, token and picture is written out one by one. "24 squares" means
-   24 listed squares; "48 cards: 16 SUNLIGHT…" means 48 items. Never one line describing the printable.
+1. **The printable is the real thing.** Every card, square, token and picture is written out one by one, so pressing Print gives the
+   real pieces to cut out. "24 squares" means 24 listed squares; "48 cards: 16 SUNLIGHT…" means 48 items. Never one line that only
+   describes the printable (it would print as one box with that sentence in it).
 2. **The count in the title matches the items.** "22 size cards" has 22 items.
 3. **What the card promises, the card has.** If the rules say "the answer is on the back", every card is `{f, b}`. If they say
    "a picture", the card has a real picture (`img`), or the rule doesn't mention a picture.
-4. **Nothing says "the app prints it" unless the app does.** A guide, gap template or half-picture the step needs is a printable
-   item, or the step says how to draw it by hand.
+4. **Nothing says "the app prints it" unless the app does.** If a step needs a guide, template or picture, it is a real printable
+   in the unit, or the step tells the parent how to draw it by hand ("draw two lines 2 cm apart"). A parent should never look
+   for a page that doesn't exist.
 5. **Play the whole game with 2 players, then with 4.** It has a clear end and a winner (or a shared goal). Nobody gets stuck
    with no move. Every card and every square does something. Every rule is needed. Piles that can run out say what happens.
 6. **Players a family has.** A game works with 2 people (parent and child). More roles are optional extras.
-7. **Ordering and sorting sheets don't print the answer.** Steps to put in order are not already in order.
+7. **Ordering and sorting sheets don't print the answer.** Steps the child must put in order don't print already in order (the app
+   now shuffles them; don't number or letter them in the right order either).
 8. **A "label the picture" item has the picture**, or asks the child to draw it first.
 
 ## B. Steps, checks and the rest of the unit agree
@@ -49,7 +52,7 @@ mistake the founder or a reviewer found in a live unit.
 24. **A side warning sits apart** (its own field), not inside the main step.
 
 ## F. Say it once, say it plainly
-25. **Each idea once per unit.** The same exercise, question or fact doesn't come back in four places.
+25. **Each idea once per unit.** Inside one unit, the same exercise, question or fact doesn't come back in four places. Another level or unit can come back to the idea and go deeper; just not the same exercise or sentence copied.
 26. **No stock lines:** "The story also quietly asks…", "one source, showing up in many forms", and the shapes banned in WRITING.md rule 22.
 27. **8 to 10 jokes, all real jokes** a child would laugh at.
 28. **Name it where it's used.** Every card makes sense to someone who opens only that card: no "the sticky notes" or
