@@ -1,0 +1,2905 @@
+{
+ "id": "sci.sky.the-sun.L3",
+ "title": "Our Sun: why its light warms things, and why we never look at it",
+ "level": 3,
+ "summary": {
+  "text": "Sunlight feels gentle on your skin, yet a magnifying glass can gather it into a dot that makes paper smoke. The Sun is a star, a huge ball of very hot gas, and the nearest star to us. About 109 Earths would fit across its face. It shines because deep inside it, hydrogen is squeezed into helium, which gives out energy. It is not a fire. Its light crosses space in about 8 minutes, and turns into heat wherever something absorbs it, such as black paper, a road or your skin. The lens inside your eye gathers light just as a magnifying glass does, so looking straight at the Sun can harm your eyes for ever. We watch the Sun safely through its reflections, shadows and pictures on a wall.",
+  "art": "A child on a sunny balcony holding a steel plate with a sheet of black paper, while her mother holds a magnifying glass above it and a thin thread of smoke rises from a tiny bright dot. In the sky above, the Sun is drawn as a glowing ball, with a small Earth beside it for size."
+ },
+ "intro": {
+  "hook": "Stand in a patch of sunlight from a window for one minute. Then step into the shade next to it. Which feels warmer? That sunlight has just crossed 150 million kilometres of nearly empty space, where there is almost nothing to warm. So where does the warmth on your skin come from?",
+  "text": "The warmth is made right on your skin. Sunlight is a kind of energy, and when your skin absorbs it, the light turns into heat. In this unit you gather sunlight with a magnifying glass and find out how much heat is hiding in it. You also find out what the Sun is, how it makes its light without any fire, and why the lens in your own eye means you must never look straight at it.",
+  "art": "A girl standing half in a bright patch of sunlight on a tiled floor by a window and half in the shade, holding out both hands, one lit and one in shadow."
+ },
+ "outcomes": [
+  "I can explain that the Sun is a star, a huge ball of very hot gas, and the nearest star to the Earth.",
+  "I can explain that the Sun makes its light by joining hydrogen into helium in its core, and that it is not a fire.",
+  "I can explain that sunlight turns into heat where something absorbs it, and that black things absorb more sunlight than white things.",
+  "I can help run a fair test with a magnifying glass, with a grown-up, and show that gathered sunlight is far hotter than spread-out sunlight.",
+  "I can explain why looking straight at the Sun harms the eyes, and name safe ways to watch the Sun.",
+  "I can say how living things use sunlight: plants make food with it, and animals such as lizards warm up in it.",
+  "I can tell how people found out that the Sun is not a giant fire."
+ ],
+ "cards_mins": 15,
+ "terms": [
+  {
+   "term": "Star",
+   "meaning": "A huge ball of very hot gas that makes its own light. The Sun is a star.",
+   "example": "The stars you see at night are suns too. They look tiny because they are very far away.",
+   "art": "The Sun drawn large on one side of the page, and a sprinkle of tiny stars in a dark sky on the other side."
+  },
+  {
+   "term": "The Sun",
+   "meaning": "The star at the centre of our solar system. The Earth and the other planets go round it.",
+   "example": "The Sun is about 150 million kilometres from the Earth. Its light takes about 8 minutes to reach us.",
+   "art": "The Sun as a glowing ball, with a tiny Earth far away on a dotted path round it."
+  },
+  {
+   "term": "Energy",
+   "meaning": "What makes things happen: move, warm up, light up or grow. Sunlight carries energy.",
+   "example": "Sunlight dries the clothes on the line and warms the balcony floor. Both need energy.",
+   "art": "Clothes drying on a balcony line in bright sunshine, with small wavy lines rising from a wet towel."
+  },
+  {
+   "term": "Absorb",
+   "meaning": "To take in. When a thing absorbs light, the light goes into it and turns into heat.",
+   "example": "A black umbrella gets hot in the sun, because it absorbs most of the light that falls on it.",
+   "art": "Arrows of sunlight going into a black umbrella and stopping there, with small heat lines rising."
+  },
+  {
+   "term": "Reflect",
+   "meaning": "To send light back. A shiny or white surface reflects most of the light that falls on it.",
+   "example": "A white wall stays cooler than a dark one in the sun, because it reflects most of the light.",
+   "art": "Arrows of sunlight bouncing off a white wall."
+  },
+  {
+   "term": "Heat",
+   "meaning": "Energy that makes things warmer. Heat moves from warmer things to cooler things.",
+   "example": "The heat from a sunny tile floor goes into your feet, so the tiles feel warm.",
+   "art": "Bare feet on sunny floor tiles, with small heat arrows going up into the feet."
+  },
+  {
+   "term": "Lens",
+   "meaning": "A clear, curved piece of glass or plastic that bends light. A lens that is thicker in the middle can gather light to a point.",
+   "example": "A magnifying glass is a lens. So are the glasses some people wear, and there is one inside each of your eyes.",
+   "art": "A magnifying glass seen from the side, with lines of sunlight bending through it and meeting at a point below."
+  },
+  {
+   "term": "Focus",
+   "meaning": "To gather light into one small spot. The spot where the light meets is also called the focus.",
+   "example": "Lift a magnifying glass slowly above paper in the sun. The bright circle shrinks to a tiny dot. That dot is the focus.",
+   "art": "Three pictures side by side: a big bright circle under a lens held low, a smaller circle, and a tiny dot when the lens is higher."
+  },
+  {
+   "term": "Core",
+   "meaning": "The very centre of the Sun, where its energy is made. It is about 15 million degrees Celsius.",
+   "example": "Almost all the Sun's energy is made in its core, the inner quarter of the way out from the centre.",
+   "art": "The Sun cut in half like an orange, with a small, white-hot ball at the centre labelled core."
+  },
+  {
+   "term": "Hydrogen and helium",
+   "meaning": "The two lightest kinds of atom. The Sun is made mostly of hydrogen, with most of the rest helium.",
+   "example": "Helium is the gas that makes balloons float. Most of the Sun's helium was made from hydrogen.",
+   "art": "A balloon seller with helium balloons, and beside them a big Sun with the letters H and He on it."
+  },
+  {
+   "term": "Nuclear fusion",
+   "meaning": "Joining the centres of tiny atoms together. In the Sun's core, hydrogen joins to make helium, and this gives out energy.",
+   "example": "Fusion makes all the Sun's light. It does not need air, so the Sun is not burning like a fire.",
+   "art": "Four small dots labelled hydrogen coming together into one bigger dot labelled helium, with a flash of light."
+  },
+  {
+   "term": "Retina",
+   "meaning": "A thin layer at the back of the eye that catches light and sends signals to the brain.",
+   "example": "The lens in your eye focuses light onto your retina. That makes a picture you can see.",
+   "art": "A simple cut-away drawing of an eye, light entering at the front and meeting at the back on a pink layer labelled retina."
+  },
+  {
+   "term": "Ultraviolet light",
+   "meaning": "Light from the Sun that our eyes cannot see. It can burn skin and fade colours.",
+   "example": "A curtain that hangs in a sunny window fades, mostly because of ultraviolet light.",
+   "art": "A curtain by a window, faded pale at the edge where sunlight falls, and bright where it is folded."
+  },
+  {
+   "term": "Infrared light",
+   "meaning": "Light from the Sun that our eyes cannot see, but our skin feels as warmth.",
+   "example": "About half of the Sun's energy reaching the ground comes as infrared light.",
+   "art": "A child with eyes closed, face turned away from the Sun, feeling warmth on her cheek, with faint red lines drawn in the air."
+  },
+  {
+   "term": "Photosynthesis",
+   "meaning": "How plants make their food from sunlight, water and air.",
+   "example": "A tulsi plant on the windowsill photosynthesises with the sunlight that reaches her leaves.",
+   "art": "A tulsi plant in a pot on a sunny windowsill, with arrows of sunlight landing on her leaves."
+  },
+  {
+   "term": "Bask",
+   "meaning": "To lie in the sunshine to get warm.",
+   "example": "A garden lizard basks on a sunny wall in the morning, to warm her body before she hunts.",
+   "art": "A garden lizard spread flat on a sunny wall in the morning."
+  },
+  {
+   "term": "Solar eclipse",
+   "meaning": "When the Moon passes between the Sun and the Earth and hides part or all of the Sun.",
+   "example": "During an eclipse, many people are tempted to look at the Sun. It is just as harmful then as on any other day.",
+   "art": "A dark Moon covering half of the Sun, drawn as a picture on a wall made by a mirror."
+  },
+  {
+   "term": "Eclipse glasses",
+   "meaning": "Special glasses with a dark filter that lets through only a tiny part of the Sun's light. Safe ones are marked ISO 12312-2.",
+   "example": "Ordinary sunglasses let through far too much light to look at the Sun. Only eclipse glasses made for this are safe.",
+   "art": "A pair of cardboard eclipse glasses with very dark lenses next to ordinary sunglasses with a red cross."
+  },
+  {
+   "term": "Solar panel",
+   "meaning": "A flat panel that turns sunlight straight into electricity.",
+   "example": "Many buildings in India now have solar panels on the roof, and some have solar water heaters too.",
+   "art": "Blue solar panels on the flat roof of an apartment building in sunshine."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "The Sun is a star",
+   "status": "defined",
+   "definition": "A star is a huge ball of very hot gas that makes its own light. The Sun is a star, and the nearest one to the Earth.",
+   "description": "The Sun looks much bigger and brighter than the stars at night only because it is so much closer. It is about 150 million kilometres away. The next nearest star is about 270,000 times further. The Sun is about 109 times as wide as the Earth, and more than a million Earths would fit inside it. It holds almost all the material in the solar system: more than 99 parts in every 100. Most of the Sun is hydrogen, the lightest kind of atom, and most of the rest is helium. Its glowing surface is about 5,500 degrees Celsius. That is hot enough to melt any rock or metal.",
+   "examples": [
+    "If the Earth were a small marble, 1 centimetre wide, the Sun would be a ball more than a metre wide.",
+    "The Sun is not the biggest star. Many stars are much bigger, and many are much smaller."
+   ],
+   "perspectives": [],
+   "art": "A tiny Earth next to a curved edge of the Sun that fills most of the page, to show the size.",
+   "context": "This card says what the Sun is, how big it is, and what it is made of."
+  },
+  {
+   "concept": "How the Sun makes its light",
+   "status": "defined",
+   "definition": "In the Sun's core, the centres of hydrogen atoms are squeezed together so hard that they join to make helium. This is called nuclear fusion, and it gives out the energy that becomes sunlight.",
+   "description": "Many people think the Sun is on fire. It is not. A fire needs oxygen from the air, and there is no air in space. The Sun's core is about 15 million degrees Celsius, and the weight of the whole Sun presses down on it. There, hydrogen is joined into helium. A helium atom made this way weighs a tiny bit less than the four hydrogen atoms that made it. The missing bit of material turns into energy. Every second, the Sun turns about 4 million tonnes of its material into energy. The Sun is so big that it has shone like this for about 4.6 billion years, and will go on for about 5 billion more.",
+   "examples": [
+    "A fire the size of the Sun, burning coal, would have burnt out in a few thousand years. The Sun is about a million times older than that.",
+    "Fusion needs no air. That is why the Sun shines in empty space."
+   ],
+   "perspectives": [],
+   "art": "Four small hydrogen dots squeezing together into one helium dot in the Sun's core, with a burst of light spreading outwards.",
+   "context": "This card answers a common question: is the Sun burning? Here is what really makes its light."
+  },
+  {
+   "concept": "How long sunlight takes to reach us",
+   "status": "idea",
+   "description": "Once light leaves the Sun's surface, it reaches the Earth in about 8 minutes and 20 seconds. Scientists measure that very exactly. Inside the Sun, the energy's trip is much slower. The Sun's insides are so packed that the energy is taken in and given out again countless times, in random directions, on its way from the core to the surface. Scientists work out how long this takes from models of the inside of the Sun, because nobody can see in there. Their answers range from about 10,000 years to about 170,000 years. So the sunlight on your skin today began its journey in the core many thousands of years ago, and spent only its last 8 minutes crossing space.",
+   "examples": [
+    "The sunshine on your balcony at lunchtime left the Sun's surface at about a quarter to one, 8 minutes earlier.",
+    "If the Sun stopped shining, we would not know for about 8 minutes."
+   ],
+   "perspectives": [
+    {
+     "who": "Scientists who use one kind of Sun model",
+     "explanation": "The energy takes about 170,000 years to work its way out. NASA often gives this number."
+    },
+    {
+     "who": "Scientists who use other models",
+     "explanation": "It could be as short as about 10,000 years. The answer depends on how packed the Sun's insides are, which can only be worked out, not seen."
+    }
+   ],
+   "art": "A wiggly zigzag line inside the Sun from the core to the surface, then one straight arrow across space to a small Earth, labelled 8 minutes.",
+   "context": "This card is about the journey of sunlight. Part of it is measured exactly, and part can only be worked out."
+  },
+  {
+   "concept": "Sunlight turns into heat where it is absorbed",
+   "status": "defined",
+   "definition": "Sunlight is energy. When a thing absorbs sunlight, that energy makes its tiny particles jiggle faster, and we feel that as heat.",
+   "description": "Space between the Sun and the Earth is nearly empty, so there is almost nothing there to absorb the light and warm up. The warmth appears only when the light lands on something. A black thing absorbs most of the light that falls on it, so it gets hot quickly. A white thing reflects most of the light, so it stays cooler. Even the air is warmed mostly from below. Sunlight passes through clear air, warms the ground, and the warm ground then warms the air above it. That is why a black road in Chennai in May can be far too hot to stand on barefoot, while a white wall nearby is only warm.",
+   "examples": [
+    "A black car parked in the sun gets hotter inside than a white car parked beside it.",
+    "Roofs painted white keep the rooms under them cooler, because the white paint reflects most of the sunlight."
+   ],
+   "perspectives": [],
+   "art": "Sunlight falling on a black road and a white wall side by side: the arrows go into the road with heat lines rising, and bounce off the wall.",
+   "context": "This card answers the puzzle from the start of the unit: where does the warmth of sunlight come from?"
+  },
+  {
+   "concept": "A lens gathers sunlight into a dot",
+   "status": "defined",
+   "definition": "A magnifying glass is a lens that is thicker in the middle. It bends the sunlight passing through it, so that all the light meets in one small spot, the focus.",
+   "description": "Hold a magnifying glass just above paper in the sun, and you see a bright circle about as big as the lens. Lift it slowly, and the circle shrinks to a tiny, dazzling dot. The lens has made no new light. It has only taken all the light that falls on the glass and packed it into a much smaller place. A magnifying glass about 5 centimetres wide can pack the light from its whole face into a dot smaller than a grain of rice. So the dot gets hundreds of times more light than the same patch of paper in plain sunshine. Black paper absorbs that light and gets hot enough to smoke within seconds. The dot is really a tiny picture of the Sun, which is why it is round.",
+   "examples": [
+    "A glass bottle of water left on a sunny windowsill can act as a lens. Fires have been started this way.",
+    "A magnifying glass must never be left lying in sunlight, near curtains or papers."
+   ],
+   "perspectives": [],
+   "art": "A magnifying glass above black paper, with lines of sunlight bending through it and meeting in a tiny bright dot, and a thin thread of smoke.",
+   "context": "This card explains what happened in the Sun Dot experiment, when a magnifying glass made paper smoke."
+  },
+  {
+   "concept": "Why we never look straight at the Sun",
+   "status": "defined",
+   "definition": "The eye has its own lens. If you look at the Sun, that lens focuses the Sun's light into a tiny bright spot on the retina, at the back of the eye, and this harms the retina's cells.",
+   "description": "The eye's lens works much like a magnifying glass. It focuses light from the things you look at into a small picture on your retina. That is how you see. When you look at the Sun, the picture of the Sun on your retina is a tiny, fierce dot of light. The retina has no pain nerves, so you feel nothing while it is being harmed. The harm can show only hours later, as a blurred or dark spot in the middle of what you see. It can last for ever. Sunglasses do not make it safe. They let through far too much light. Binoculars and telescopes are even worse, because they gather more light. During a solar eclipse the Sun is just as harmful, and people are more tempted to stare. Safe ways to watch the Sun are its picture on a wall, made by a pinhole or a mirror, or eclipse glasses marked ISO 12312-2.",
+   "examples": [
+    "After solar eclipses, eye doctors in many countries, India among them, have treated people whose eyes were harmed by looking at the Sun.",
+    "Never look at the Sun through a magnifying glass, binoculars, a camera viewfinder or a telescope."
+   ],
+   "perspectives": [],
+   "art": "A cut-away eye with the Sun's light entering and meeting in one tiny dot on the retina at the back, next to a magnifying glass making a dot on paper.",
+   "context": "This card explains the rule that matters most in this unit: never look straight at the Sun, and why."
+  },
+  {
+   "concept": "The light we cannot see: infrared and ultraviolet",
+   "status": "defined",
+   "definition": "Sunlight carries more than the light we see. Infrared light is beyond red, and we feel it as warmth. Ultraviolet light is beyond violet, and it can burn skin and fade colours.",
+   "description": "In 1800, William Herschel, an astronomer in England, split sunlight into a rainbow with a prism. He put thermometers in each colour, and one just past the red end, where he could see no light at all. That last thermometer got the warmest. He had found infrared light. A year later, Johann Ritter in Germany found ultraviolet light beyond the violet end, because it darkened a chemical that light darkens. About half of the Sun's energy that reaches the ground is infrared. A small part is ultraviolet. Ultraviolet light is what tans and burns skin, yellows old newspaper and fades a curtain in a sunny window. Our skin also uses a little of it to make vitamin D, which keeps bones strong.",
+   "examples": [
+    "A shirt left on the line for weeks fades on the side that faces the Sun.",
+    "You can feel the warmth of sunlight on your closed eyelids, even though infrared light is invisible."
+   ],
+   "perspectives": [],
+   "art": "A rainbow of light from a prism on a table, with thermometers in each colour and one past the red end reading the highest.",
+   "context": "This card is about the parts of sunlight that our eyes cannot see, and what they do."
+  },
+  {
+   "concept": "Living things use sunlight",
+   "status": "defined",
+   "definition": "Almost all life on Earth runs on sunlight. Plants catch it to make food, and animals use its warmth.",
+   "description": "A plant cannot walk to find food. She makes her own. Her leaves catch sunlight and use its energy to make sugar from water and air. This is photosynthesis. A plant on a dark shelf grows long and pale as she reaches for light, and a plant by a window turns her leaves towards the light. Animals that eat plants, and animals that eat those animals, are all living on that caught sunlight. A garden lizard has a different problem. Her body does not make much heat of its own, so on a cool morning she is slow and cannot chase insects. So she basks on a sunny wall, flat and wide, to absorb as much sunlight as she can. Once she is warm, she can move fast and hunt.",
+   "examples": [
+    "The rice in your plate grew with sunlight that fell on a paddy field.",
+    "In the cool early morning, you can sometimes see a garden lizard or a skink lying still on a sunny wall."
+   ],
+   "perspectives": [],
+   "art": "A garden lizard flat on a sunlit compound wall, and below it a row of paddy plants with sunlight arrows landing on their leaves.",
+   "context": "This card is about how plants and animals use the Sun's light and warmth."
+  },
+  {
+   "concept": "What colour is the Sun?",
+   "status": "defined",
+   "definition": "The Sun's light is a mix of all colours, and it is white. It looks yellow or orange from the ground because the air scatters some of its blue light away.",
+   "description": "Children often draw the Sun yellow. Seen from space, the Sun is white. Our air scatters blue light more than the other colours. That scattered blue light is what makes the sky blue. With some blue taken out, the Sun looks a little yellow from the ground. At sunrise and sunset, the light passes through much more air, so even more blue and green are scattered away, and the Sun looks orange or red. You can check the Sun's real colour safely: its picture on a white wall, made by a mirror at midday, looks white.",
+   "examples": [
+    "Photos of the Sun taken by astronauts in space show it white.",
+    "At sunset over the sea at Kanyakumari, the Sun looks deep orange."
+   ],
+   "perspectives": [],
+   "art": "Three suns in a row: white in a black sky from space, pale yellow at noon in a blue sky, and orange at sunset over the sea.",
+   "context": "This card answers a question children often ask: is the Sun really yellow?"
+  }
+ ],
+ "agreed": [
+  {
+   "text": "The Sun is a star, the nearest one to the Earth, and it is made mostly of hydrogen and helium.",
+   "evidence": "The colours in sunlight show which atoms are in the Sun. Other stars show the same kinds of colours."
+  },
+  {
+   "text": "The Sun shines by nuclear fusion, joining hydrogen into helium in its core.",
+   "evidence": "Fusion gives out tiny particles called neutrinos. Huge detectors deep underground, in Japan, Canada and elsewhere, catch neutrinos from the Sun's core, in about the numbers fusion predicts."
+  },
+  {
+   "text": "Sunlight takes about 8 minutes and 20 seconds to reach the Earth.",
+   "evidence": "We know the speed of light and the distance to the Sun very exactly. The distance is measured by bouncing radar signals off the planets."
+  },
+  {
+   "text": "Looking straight at the Sun can harm the retina for ever, and ordinary sunglasses do not protect it.",
+   "evidence": "Eye doctors around the world, including in India, find damage to the centre of the retina in people who watched an eclipse without safe filters."
+  },
+  {
+   "text": "Sunlight turns into heat where it is absorbed, and dark things absorb more of it than light-coloured things.",
+   "evidence": "Anyone can test it with black and white paper in the sun. Thermometers and heat cameras show the same."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "The Sun is a giant fire.",
+   "who": "A very common idea, and what many scientists thought until the 1800s",
+   "for": "The Sun is hot and bright, like a fire, and it gives out heat and light.",
+   "against": "A fire needs oxygen, and space has none. A fire as big as the Sun would have burnt out in a few thousand years, but the Earth's rocks show the Sun has shone for billions of years. The Sun shines by fusion.",
+   "status": "rejected",
+   "context": "Is the Sun burning? This card looks at a very common idea."
+  },
+  {
+   "claim": "Sunglasses make it safe to look at the Sun.",
+   "who": "Many people, children and adults",
+   "for": "Sunglasses make the Sun look much less bright, so it feels comfortable.",
+   "against": "Even dark sunglasses let through thousands of times too much of the Sun's light, and some harmful light we cannot see. The retina has no pain nerves, so it gives no warning. Only eclipse glasses marked ISO 12312-2 are safe for looking at the Sun.",
+   "status": "rejected",
+   "context": "This card is about a mistake that can harm eyes for ever."
+  },
+  {
+   "claim": "The Sun is yellow.",
+   "who": "Most children's drawings, and many grown-ups",
+   "for": "From the ground, the Sun often looks pale yellow, and orange at sunrise and sunset.",
+   "against": "From space, astronauts see a white Sun. The air scatters some blue light away, which makes the Sun look yellow from below.",
+   "status": "rejected",
+   "context": "What colour is the Sun really? This card looks at a common answer."
+  },
+  {
+   "claim": "The Sun is only harmful to look at during an eclipse.",
+   "who": "A common idea, because warnings are given mostly before eclipses",
+   "for": "Most cases of eye harm from the Sun happen just after eclipses.",
+   "against": "The Sun is just as harmful on every day. During an eclipse, the sky gets darker, the eyes open wider, and people stare for longer. That is why more people are harmed then.",
+   "status": "rejected",
+   "context": "Why do warnings about the Sun come mostly before eclipses? This card explains."
+  },
+  {
+   "claim": "The Sun will go on shining for ever.",
+   "who": "Many people assume this",
+   "for": "The Sun has shone every day of human history, and it looks the same each day.",
+   "against": "The Sun is slowly using up the hydrogen in its core. In about 5 billion years it will swell into a huge red star, and later shrink into a small, fading white one.",
+   "status": "rejected",
+   "context": "Will the Sun last for ever? This card looks at what scientists expect."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "Sunlight felt gentle on your hand, yet the same light made paper smoke when a lens gathered it. Is sunlight gentle or fierce?",
+   "kind": "deep",
+   "hint": "Think about the big circle and the tiny dot in your experiment. Was the light different, or only how much of it landed in one place?"
+  },
+  {
+   "q": "The light warming you now began its journey in the Sun's core many thousands of years ago. Is it old light or new light?",
+   "kind": "deep",
+   "hint": "It spent thousands of years inside the Sun and only 8 minutes crossing space."
+  },
+  {
+   "q": "Your eye's lens focuses sunlight onto a spot with no pain nerves. Why might a body not feel every kind of harm?",
+   "kind": "deep",
+   "hint": "Think about which parts of your body hurt easily, like your fingers, and which do not, like your hair."
+  },
+  {
+   "q": "Plants catch sunlight, animals eat plants, and you eat both. How much of you was once sunlight?",
+   "kind": "big",
+   "hint": "Follow your breakfast back, step by step, until you reach a plant in the sun."
+  },
+  {
+   "q": "People in many lands, from the Konark temple in Odisha to old Egypt, honoured the Sun. Why do you think so many people, far apart, did the same?",
+   "kind": "big",
+   "hint": "Think about what would happen to the fields, the rain and the warmth without the Sun."
+  },
+  {
+   "q": "The Earth catches only about one part in two billion of the Sun's light. The rest goes off into space. Is that a waste?",
+   "kind": "big",
+   "hint": "Some of that light reaches other planets, and some may reach someone far away, as starlight."
+  }
+ ],
+ "story": {
+  "title": "The Smoke on the Vadam Cloth",
+  "mins": 10,
+  "read_aloud": true,
+  "note": "Made up. Nila, Arun, their Paati and their building in Chennai are invented. The science is real: a magnifying glass left in sunlight can scorch cloth, the eye's lens focuses sunlight onto the retina, and a covered mirror makes a safe picture of the Sun on a wall.",
+  "text": [
+   "It was April in Chennai, and the sun on the terrace was so strong that the floor tiles were hot by nine in the morning. Nila was nine. Her little brother Arun was six. Every summer, their Paati made rice vadams, and every summer, the children helped to dry them.",
+   "Paati spread an old white veshti across the terrace floor and weighed down its corners with bricks. Nila pressed the soft rice dough through the brass mould, and little curly vadams dropped onto the cloth in rows. Arun was meant to help. Instead he lay on his back, squinting at the sky.",
+   "'Paati, does the Sun have spots?' he asked. 'My book says it has dark spots.'",
+   "'So I have heard,' said Paati. She took out her reading glass, the round magnifying glass she used for the small print in the newspaper. She read out the price of tomatoes, frowned, and put the glass down on the edge of the cloth. Then she went downstairs to bring more dough. Arun ran down after her.",
+   "Nila carried on pressing vadams. After a few minutes, she sniffed. Something smelt like a candle that had just been blown out. She looked around. At the edge of the cloth, where Paati's glass lay tilted on a brick, a thin grey thread of smoke was rising.",
+   "Nila jumped up and lifted the glass away. Under it, on the white cloth, was a brown spot as small as a mustard seed, with a black rim. It was still smoking. She poured water from her tumbler over it, and the smoke stopped.",
+   "When Paati came back, Nila showed her the spot. 'Your glass did this,' she said.",
+   "'My glass?' said Paati. 'It only makes the letters big.'",
+   "Nila thought about it. 'The glass is thick in the middle,' she said slowly. 'It bends the sunlight. Maybe it gathers all the light that falls on it into one little spot.'",
+   "'Show me,' said Paati. She tore a strip off the newspaper and put it on a steel plate. She held the glass above it herself, because she did not want Nila holding a lens in that sun. When she held it low, a big, soft circle of light lay on the paper. Nothing happened. When she lifted it slowly, the circle shrank. It became a tiny dot, so bright that Nila had to look away. Under the dot, a black letter began to smoke. It took only a few seconds. The white paper between the letters took much longer.",
+   "'The sun on my hand feels warm, not hot,' said Nila. 'But when the glass squeezes it into a dot, it burns.'",
+   "Just then Arun came up the stairs. He was wearing Amma's big sunglasses, and he had Appa's binoculars round his neck. 'I am going to look at the spots on the Sun,' he said. 'The sunglasses will make it safe.'",
+   "'Stop!' said Nila, and she stood in front of him.",
+   "She made him sit down by the brown spot on the cloth. 'Look at this,' she said. 'Paati's glass gathered the sunlight into a dot, and the dot burned the cloth. Your eye has a lens inside it too. It gathers light the same way, onto the back of your eye. If you look at the Sun, it makes a dot like this, right inside you. Binoculars are two big lenses. They would gather even more.'",
+   "'But I would feel it,' said Arun. 'I would shut my eyes.'",
+   "'That's the trouble,' said Paati quietly. 'The back of the eye has no pain nerves, so it gives no warning. When I was a girl, my cousin Ravi watched an eclipse with his bare eyes. It did not hurt at all. The next morning there was a grey patch in the middle of everything he looked at. It is still there, sixty years later.'",
+   "Arun took off the sunglasses. 'Then I can never see the Sun's spots,' he said, and his lip wobbled.",
+   "Nila thought again. 'We can see the Sun without looking at it,' she said. 'Paati, can I borrow your little mirror?'",
+   "Paati's small round mirror lived in her handbag. Nila covered it with a piece of paper and cut a square hole in the paper, about as wide as her fingernail. In the corner of the terrace was the door to the dark staircase. Its far wall was painted white. Nila stood in the sun and tilted the mirror until a patch of reflected light landed deep inside, on that white wall.",
+   "Arun ran in to look. On the wall was a round, white circle of light, about the size of a biscuit.",
+   "'It's round,' said Arun. 'But the hole is square.'",
+   "'Because it isn't a picture of the hole,' said Nila. 'It's a picture of the Sun.'",
+   "Arun stared at it for a long time. He could stare as long as he liked, because he was looking at a wall. He did not see any spots. 'They're too small for our little mirror,' said Nila. 'But this is the real Sun, and you can look at it as long as you want.'",
+   "By evening, the vadams were dry and crisp. Paati folded the veshti with the little brown spot in it. 'All day the sun dried my vadams, and nobody gathered it into any dot,' she said. 'And it nearly burned my veshti when one glass did.'",
+   "That night, Paati's reading glass went into her drawer, out of the sun. Arun gave Amma back her sunglasses, and asked Nila to make the wall Sun again the next day."
+  ],
+  "epiphany": "For the parent: the magnifying glass made no new light. It gathered the sunlight falling on its whole face into one tiny dot, so that dot got hundreds of times more light than plain sunshine, and the cloth absorbed it as heat. The black letters smoked first because black absorbs more light than white. The eye's lens does the same job, focusing light onto the retina, which has no pain nerves. That is why looking at the Sun gives no warning, and why sunglasses and binoculars make it no safer. The covered mirror sent a beam of sunlight onto a dark wall. Far enough away, any small hole gives a round spot, because the spot is a picture of the round Sun.",
+  "ask": [
+   "What did Paati's reading glass do to the sunlight, to make a spot on the cloth?",
+   "Why did the black letters on the newspaper smoke before the white paper?",
+   "Why did Nila say the sunglasses and binoculars would not make it safe for Arun?",
+   "Why was the spot of light on the wall round, when the hole in the paper was square?",
+   "Paati had used her glass for years without knowing it could burn. Nila worked it out in a few minutes. What did Nila do that helped her find the answer?"
+  ],
+  "art": [
+   "A sunny terrace in Chennai with rows of white rice vadams drying on a white cloth held down by bricks, a grandmother and a girl working, a boy lying on his back looking up.",
+   "A round reading magnifier lying tilted on a brick at the edge of the cloth, with a thin thread of smoke rising from a tiny bright spot.",
+   "A grandmother holding the magnifier over a strip of newspaper on a steel plate, the girl watching from the side as a black letter smokes.",
+   "The girl standing in front of her little brother, who wears big sunglasses and has binoculars round his neck.",
+   "A dark staircase with a round white spot of sunlight on the far wall, and the boy staring at it while his sister holds a paper-covered mirror in the sunshine outside."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "Safe or Not Safe? Ways to watch the Sun",
+   "mins": 15,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a sorting card game. Each card shows a way people try to watch the Sun. Players decide whether it is safe or harmful, and say why.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "20 cards to cut out",
+     "items": [
+      "Looking at the Sun's picture on a wall, made by a covered mirror (SAFE)",
+      "A pinhole viewer made from card and foil (SAFE)",
+      "The little suns under a colander on white paper (SAFE)",
+      "Eclipse glasses marked ISO 12312-2, with no scratches (SAFE)",
+      "Watching the Sun's shadow pictures under a tree (SAFE)",
+      "Watching an eclipse live on television or on a phone stream (SAFE)",
+      "The Sun's picture inside a shoebox pinhole viewer (SAFE)",
+      "Welder's glass, shade number 14 (SAFE)",
+      "Ordinary sunglasses (NOT SAFE)",
+      "Two or three pairs of sunglasses worn together (NOT SAFE)",
+      "Looking through binoculars at the Sun (NOT SAFE)",
+      "Looking through a telescope with no special Sun filter (NOT SAFE)",
+      "Looking at the Sun for just one second (NOT SAFE)",
+      "Looking through an old X-ray film (NOT SAFE)",
+      "Looking through a piece of glass blackened with candle smoke (NOT SAFE)",
+      "Looking through a magnifying glass at the Sun (NOT SAFE)",
+      "Eclipse glasses with a scratch or a hole (NOT SAFE)",
+      "Looking at the Sun when it is half covered in an eclipse (NOT SAFE)",
+      "Looking at the Sun through a camera's eyepiece (NOT SAFE)",
+      "Looking at the Sun through a CD (NOT SAFE)"
+     ]
+    },
+    {
+     "kind": "board",
+     "title": "A sorting mat with two columns",
+     "items": [
+      "SAFE: a picture of an eye with a smile",
+      "NOT SAFE: a picture of an eye with a red cross"
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "A score sheet",
+     "items": [
+      "Player name",
+      "Cards sorted right",
+      "Reasons given"
+     ]
+    }
+   ],
+   "rules": [
+    "Shuffle the cards and put them face down.",
+    "On your turn, take the top card, read it out, and put it on SAFE or NOT SAFE.",
+    "Say why. A reason earns an extra point. A good reason uses the words lens, retina or picture.",
+    "Check the answer in the brackets. A right sort scores 1 point.",
+    "Playing alone? Sort all 20, then check them all and count your points.",
+    "The player with the most points wins."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Lay out the sorting mat and shuffle the cards.",
+     "say": "Each card shows a way people try to watch the Sun. Some are safe, and some can harm your eyes for ever. Let's sort them.",
+     "kid": "Each card is a way to watch the Sun. Is it safe or not safe? Sort them!",
+     "context": "This is the first step of Safe or Not Safe, a sorting game about ways to watch the Sun."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Play the card 'Ordinary sunglasses' as a practice round.",
+     "say": "Practice card. Ordinary sunglasses. Safe or not safe?",
+     "kid": "Practice card. Ordinary sunglasses. Safe or not safe?",
+     "check": {
+      "t": "mcq",
+      "q": "Is it safe to look at the Sun through ordinary sunglasses?",
+      "options": [
+       "Yes, because they make the Sun look dim",
+       "No, they still let through far too much light"
+      ],
+      "a": 1,
+      "why": "Sunglasses make the Sun look dimmer, so it feels comfortable. But they still let through thousands of times too much light. The lens in your eye focuses it onto the retina, which has no pain nerves to warn you. Picking 'yes' is what many grown-ups think too, and it is a dangerous mistake."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 8,
+     "do": "Take turns to sort the rest of the cards, giving a reason each time.",
+     "say": "Your turn. Read the card, sort it, and tell us why.",
+     "kid": "Take a card. Read it. Sort it. Say why!",
+     "parent": "Listen for reasons that mention the eye's lens focusing the Sun's light onto the retina. The safe ways all have one thing in common: you look at a picture of the Sun, or through a filter made for it, never at the Sun itself."
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Count the points and talk about the pattern.",
+     "say": "Look at the SAFE column. What do most of these have in common?",
+     "kid": "Look at all the safe cards. What do they have in common?",
+     "check": {
+      "t": "mcq",
+      "q": "What do the colander, the pinhole viewer and the mirror picture have in common?",
+      "options": [
+       "You look at a picture of the Sun, not at the Sun",
+       "They all make the Sun look bigger",
+       "They are all dark glass"
+      ],
+      "a": 0,
+      "why": "In all three, sunlight makes a picture on a wall or on paper, and you look at the picture with your back to the Sun. Picking 'they make the Sun look bigger' is not right: the pictures are usually small. What makes them safe is that no lens gathers the Sun's light into your eye."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A sorting mat with two columns, one with a smiling eye and one with a crossed-out eye, and a pile of cards.",
+     "caption": "1. Lay out the mat and the cards."
+    },
+    {
+     "art": "A child placing a card that shows sunglasses onto the NOT SAFE column.",
+     "caption": "2. Read a card, sort it, and say why."
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Sunbeam Race: from the Sun to the Earth",
+   "mins": 20,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a board game. Each player is a sunbeam travelling from the Sun's core to the Earth. Answer Sun questions to move, and see what you do when you land.",
+   "printables": [
+    {
+     "kind": "board",
+     "title": "A path of 24 squares from the Sun's core to the Earth",
+     "items": [
+      "Squares 0 to 8: inside the Sun, drawn as a crowded orange zone. BUMP squares at 3 and 6: go back 1",
+      "Square 9: the Sun's surface",
+      "Squares 10 to 20: empty space, drawn dark. FAST LANE at square 12: move 3 forward",
+      "Square 15: MAGNIFYING GLASS. Answer one extra card. Right? Jump 2",
+      "Square 18: CLOUD. Miss a turn",
+      "Squares 21 to 24: the Earth. Choose to land on a leaf, a black road or a white wall"
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "20 question cards",
+     "items": [
+      "What kind of thing is the Sun? (A star)",
+      "What is the Sun mostly made of? (Hydrogen, with most of the rest helium)",
+      "Is the Sun on fire? (No. It shines by fusion, joining hydrogen into helium)",
+      "About how long does sunlight take to reach the Earth? (About 8 minutes)",
+      "How many Earths would fit across the Sun's face? (About 109)",
+      "Which absorbs more sunlight, black paper or white paper? (Black paper)",
+      "What does a lens do to sunlight? (Gathers it into a small dot)",
+      "Why must we never look at the Sun? (The eye's lens focuses its light onto the retina and harms it)",
+      "Do sunglasses make it safe to look at the Sun? (No)",
+      "What part of sunlight fades curtains and burns skin? (Ultraviolet light)",
+      "What part of sunlight do we feel as warmth? (Infrared light)",
+      "What do plants make with sunlight? (Their food, by photosynthesis)",
+      "Why does a lizard bask in the morning sun? (To warm her body so she can move fast)",
+      "What colour is the Sun from space? (White)",
+      "What is the centre of the Sun called? (The core)",
+      "Which safe tool makes many little suns at once? (A colander or sieve)",
+      "Where in India is a famous old solar observatory? (Kodaikanal, in Tamil Nadu)",
+      "What is India's spacecraft that studies the Sun called? (Aditya-L1)",
+      "TRY IT: stand in the sunlight, back to the window, then in the shade. Which is warmer? (The sunlight)",
+      "TRY IT: touch a dark thing and a white thing that have been in the sun. Which is warmer? (The dark thing)"
+     ]
+    },
+    {
+     "kind": "tokens",
+     "title": "One paper sunbeam for each player",
+     "items": [
+      "☀️",
+      "🌟",
+      "✨"
+     ]
+    }
+   ],
+   "rules": [
+    "Every sunbeam starts on square 0, the Sun's core.",
+    "On your turn, another player reads you a card. Answer right, roll the dice and move. Answer wrong, move 1 square.",
+    "On a TRY IT card, do it. Then roll and move.",
+    "Follow what the square says: BUMP, FAST LANE, MAGNIFYING GLASS or CLOUD.",
+    "When you reach the Earth, choose where to land and say what happens to you there. On a leaf, you become food. On a black road, you become heat. On a white wall, you are reflected.",
+    "The first sunbeam to land and explain what happens wins."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "Set up the board. Put every sunbeam on square 0.",
+     "say": "You are each a bit of the Sun's energy, just made in the core. The inside of the Sun is crowded, so you will get bumped back. Space is empty, so you will speed along.",
+     "kid": "You are a sunbeam in the Sun's core. Get out of the Sun and race to the Earth!",
+     "context": "This is the first step of Sunbeam Race, a board game about the journey of sunlight from the Sun's core to the Earth."
+    },
+    {
+     "id": "s2",
+     "mins": 14,
+     "do": "Play the game, taking turns.",
+     "say": "Read the card, answer, and roll. Watch out for the bump squares inside the Sun.",
+     "kid": "Answer the card. Roll the dice. Move your sunbeam. Watch out for bumps!",
+     "check": {
+      "t": "mcq",
+      "q": "Why does the board have bump squares inside the Sun, but a fast lane in space?",
+      "options": [
+       "Inside the Sun, energy keeps getting taken in and sent out again. Space is nearly empty.",
+       "Space has more air",
+       "The Sun's core is cold"
+      ],
+      "a": 0,
+      "why": "Inside the Sun, energy is taken in and given out again countless times, in random directions, so it takes thousands of years to get out. In space there is almost nothing in the way, so light crosses to the Earth in about 8 minutes. Picking 'space has more air' is the wrong way round: space has almost no air at all."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "When a player lands, they say what happens to their sunbeam.",
+     "say": "Where did you land? What happens to you now?",
+     "kid": "Where did you land? Say what happens to you now.",
+     "parent": "A good answer: on the black road, I am absorbed and turn into heat, so the road gets hot. On the leaf, the plant uses me to make her food. On the white wall, most of me is reflected."
+    }
+   ],
+   "setup": [
+    {
+     "art": "A printed board with a winding path from an orange Sun's core, through dark space, to a small green-and-blue Earth with a leaf, a black road and a white wall drawn on it.",
+     "caption": "1. Start every sunbeam in the Sun's core."
+    },
+    {
+     "art": "Two children with paper sunbeam tokens, one reading a card and one rolling a dice.",
+     "caption": "2. Answer a card. Roll. Move."
+    },
+    {
+     "art": "A sunbeam token landing on a black road square at the end of the path.",
+     "caption": "3. Land on the Earth and say what happens."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Sun Dot: when does sunlight make paper smoke?",
+   "mins": 30,
+   "days": 1,
+   "question": "Sunlight only warms paper. Does it make paper smoke when a magnifying glass gathers it into a tiny dot? And does black paper or white paper smoke first?",
+   "predict": "Guess first. When the magnifying glass makes a big circle of sunlight on black paper, what will happen? When it makes a tiny dot, what will happen? Will black paper or white paper smoke first, or neither? Why do you think so?",
+   "fair_test": "Use the same magnifying glass, the same steel plate and the same sunshine for every try. In part 1, only the size of the spot changes: a big circle, then a tiny dot. In part 2, only the colour of the paper changes. Try each paper 3 times, on a fresh spot each time, because one try can be a fluke. Stop counting at 60 seconds.",
+   "results_table": [
+    "Paper",
+    "Big circle or tiny dot",
+    "Seconds until smoke, try 1",
+    "Try 2",
+    "Try 3",
+    "What I saw"
+   ],
+   "materials": [
+    {
+     "item": "a magnifying glass at least 5 cm across. Reading glasses for long sight may work, but more slowly.",
+     "qty": 1,
+     "buy": "b-lens"
+    },
+    {
+     "item": "a sheet of black chart paper, or a sheet of paper coloured all over with a black crayon or marker",
+     "qty": 1,
+     "buy": "b-black"
+    },
+    {
+     "item": "a sheet of plain white paper",
+     "qty": 1
+    },
+    {
+     "item": "a steel plate or a steel thali, to put the paper on",
+     "qty": 1
+    },
+    {
+     "item": "a tumbler of water, to put out any smouldering paper",
+     "qty": 1
+    },
+    {
+     "item": "a clock with a seconds hand, or a phone timer",
+     "qty": 1
+    },
+    {
+     "item": "a sunny balcony, terrace or open window, between about 10 in the morning and 3 in the afternoon",
+     "qty": 1
+    },
+    {
+     "item": "sunglasses for the grown-up and child to wear while watching the dot on the paper (they protect from the glare of the dot, not for looking at the Sun)",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up holds the magnifying glass the whole time. Never look at the Sun, and never look at the Sun through the lens. Never point the dot at skin, at anyone, or at clothes, curtains or plants. Work on a steel plate, away from anything that can burn. Stop as soon as you see smoke and move the lens away. Pour water on the paper at the end. Put the lens away indoors in a drawer, because a lens left in the sun can start a fire.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 30,
+     "what": "On a sunny day, make a big circle and a tiny dot of sunlight on black paper. Then compare black and white paper. Count the seconds until smoke."
+    }
+   ],
+   "record": "Fill in the table. Draw the lens, the paper and the light: once for the big circle and once for the tiny dot.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Choose a spot in direct sunshine, on a balcony, a terrace or at an open window. 2. Put the steel plate on the floor there, away from curtains and plants. 3. Put the black paper on the plate, and the tumbler of water beside it. 4. Put on sunglasses, both of you.",
+     "say": "Today we gather sunlight with a magnifying glass. I will hold the glass, and you will watch and count. There is one rule above all. We never look at the Sun, not even through the glass.",
+     "kid": "Find a sunny spot. Put the steel plate down. Lay the black paper on it. Put the water next to it. A grown-up holds the glass. Never look at the Sun.",
+     "adult": true,
+     "parent": "The sun must fall straight on the plate, not through a closed window that is dusty or tinted. An open window or a balcony is best. If the sky is cloudy, try another day. Hazy sun works, but the paper takes longer to smoke. Keep children's fingers out from under the lens.",
+     "context": "This is the first step of the Sun Dot experiment. You gather sunlight with a magnifying glass and see what it does to paper."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Ask your child to guess, and to give a reason, before anything is tried.",
+     "say": "Before we try anything, tell me your guess. When I hold the glass low, it makes a big circle of light. When I lift it, the circle shrinks to a tiny dot. What will each one do to the paper? Why do you think so?",
+     "kid": "Guess first. What will the big circle do to the paper? What will the tiny dot do? Why do you think so?",
+     "ask": [
+      {
+       "q": "Will the tiny dot be hotter than the big circle? Why?",
+       "good": [
+        "Yes, because all the light is squeezed into one small place.",
+        "I don't know, because it is the same sunlight."
+       ]
+      }
+     ],
+     "parent": "Write the guess down. Many children think the lens makes the light stronger, or that the paper will catch fire at once. Both are fine guesses. Don't explain yet."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Hold the magnifying glass flat, about 2 cm above the black paper, so that a big circle of light lies on it. 2. Count to 60 out loud together. 3. Move the lens away. 4. Let your child touch the paper with one finger.",
+     "say": "This is the big circle. The glass is letting all its light through, but spread out. Let's count to 60 and watch. Now touch the paper. What do you feel?",
+     "kid": "Look at the big circle of light on the paper. Count to 60. Does it smoke? Now touch the paper. Is it warm?",
+     "adult": true,
+     "parent": "Nothing should smoke. The paper will feel warm, about as warm as any black thing in the sun. Write 'no smoke in 60 seconds' in the table."
+    },
+    {
+     "id": "s4",
+     "mins": 6,
+     "do": "1. Slowly lift the glass until the circle shrinks to the smallest, brightest dot you can make. 2. Hold it still. 3. Count seconds until you see a thin thread of smoke. 4. Move the lens away at once and write the number. 5. Do it twice more, each time on a fresh part of the paper.",
+     "say": "Now I lift the glass slowly. Watch the circle shrink. Keep counting. Tell me the moment you see smoke. Now we try twice more, on fresh paper, because one try can be a fluke.",
+     "kid": "Watch the circle shrink to a tiny dot. Count the seconds. Shout when you see smoke! Then try two more times.",
+     "adult": true,
+     "check": {
+      "t": "mcq",
+      "q": "The big circle only warmed the black paper. The tiny dot made it smoke. What did the glass do?",
+      "options": [
+       "It made extra light",
+       "It gathered the same light into a much smaller place",
+       "It dried the paper out"
+      ],
+      "a": 1,
+      "why": "The magnifying glass made no new light. It took the sunlight falling on its whole face and packed it into a tiny dot. That dot got hundreds of times more light than plain sunshine. Picking 'made extra light' is a very common guess, but a lens cannot make light. Picking 'dried the paper' mixes up what we see. The paper got hot, and hot paper smokes."
+     },
+     "parent": "With a 5 cm lens in strong sun, black paper usually smokes in about 2 to 10 seconds, and a small black hole appears. Glance at the dot, don't stare at it, even with sunglasses on. If nothing happens, the dot is probably not as small as it can be. Lift or lower the lens slightly. If it still does not smoke, the sun is too weak today."
+    },
+    {
+     "id": "s5",
+     "mins": 6,
+     "do": "1. Swap the black paper for the white paper. 2. Hold the glass at the same height, making the same tiny dot. 3. Count seconds until smoke, and stop at 60. 4. Try 3 times, on fresh spots.",
+     "say": "Now the white paper. Same glass, same dot, same sunshine. Only the paper has changed. Will it smoke sooner, later or not at all?",
+     "kid": "Now the white paper. Same glass. Same tiny dot. Count again. Stop at 60. Did it smoke?",
+     "adult": true,
+     "parent": "White paper usually takes much longer, and often does not smoke at all within 60 seconds. It may turn brown first. The dot on white paper is very dazzling, so look only in short glances. If your white paper has printed words, a black letter will smoke first. That is a good extra result."
+    },
+    {
+     "id": "s6",
+     "mins": 2,
+     "do": "1. Pour water over both papers. 2. Take the magnifying glass indoors and put it in a drawer. 3. Look at the holes together.",
+     "say": "Let's make the paper safe, and put the glass away in a drawer. A lens left lying in the sun can start a fire on its own.",
+     "kid": "Pour water on the papers. Put the glass away in a drawer. Look at the little holes.",
+     "adult": true
+    },
+    {
+     "id": "s7",
+     "mins": 4,
+     "do": "Ask your child to say or write three things: what I think, what I saw, and why I think it happened.",
+     "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
+     "kid": "Say or write three things. What I think. What I saw. Why.",
+     "think": "Your eye has a lens inside it too. What would it do with sunlight if you looked at the Sun?",
+     "parent": "A good answer sounds like this. What I think: sunlight smokes paper only when it is gathered into a small dot, and black paper gets hot faster than white. What I saw: the big circle never smoked in 60 seconds. The tiny dot made black paper smoke in about 4 seconds. White paper took over 30 seconds, or did not smoke. Why: the lens packed the light into a small place, and black paper absorbs more light than white."
+    }
+   ],
+   "context": "In this experiment a grown-up uses a magnifying glass to gather sunlight. You find out when sunlight is strong enough to make paper smoke, and whether the colour of the paper matters.",
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example results",
+    "cols": [
+     "Paper",
+     "Spot",
+     "Try 1",
+     "Try 2",
+     "Try 3"
+    ],
+    "rows": [
+     [
+      "Black",
+      "Big circle",
+      "No smoke in 60 s",
+      "No smoke in 60 s",
+      "No smoke in 60 s"
+     ],
+     [
+      "Black",
+      "Tiny dot",
+      "4 s",
+      "3 s",
+      "5 s"
+     ],
+     [
+      "White",
+      "Tiny dot",
+      "No smoke in 60 s",
+      "41 s",
+      "No smoke in 60 s"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "A steel plate on a sunny balcony floor with a sheet of black paper on it and a tumbler of water beside it, a grown-up and a child in sunglasses kneeling next to it.",
+     "caption": "1. Black paper on a steel plate, in direct sun. Water ready."
+    },
+    {
+     "art": "A grown-up's hand holding a magnifying glass low over the black paper, with a big soft circle of light on the paper.",
+     "caption": "2. Hold the glass low: a big circle. Count to 60."
+    },
+    {
+     "art": "The same hand holding the magnifying glass higher, with a tiny dazzling dot on the black paper and a thin thread of smoke rising.",
+     "caption": "3. Lift it until the circle is a tiny dot. Count until smoke."
+    },
+    {
+     "art": "The tiny dot on a sheet of white paper beside a sheet of black paper with three small burnt holes.",
+     "caption": "4. Try the same dot on white paper. Compare."
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "Ice on Black, Ice on White: which paper takes in more sunlight?",
+   "mins": 25,
+   "days": 1,
+   "question": "An ice cube sits on black paper, and another on white paper, in the same sunshine. Which melts first?",
+   "predict": "Guess first. Which ice cube will melt first, the one on black paper or the one on white paper? Or will they melt at the same time? Why do you think so?",
+   "fair_test": "Use two ice cubes from the same tray, two steel plates that are the same, and two sheets of paper the same size. Put both plates side by side in the same sunshine at the same moment. Only the colour of the paper changes.",
+   "results_table": [
+    "Paper",
+    "What the ice looks like after 5 minutes",
+    "After 10 minutes",
+    "After 15 minutes",
+    "Minutes until fully melted"
+   ],
+   "materials": [
+    {
+     "item": "two ice cubes from the same tray",
+     "qty": 2
+    },
+    {
+     "item": "a sheet of black chart paper, or paper coloured black with a crayon",
+     "qty": 1,
+     "buy": "b-black"
+    },
+    {
+     "item": "a sheet of white paper the same size",
+     "qty": 1
+    },
+    {
+     "item": "two steel plates that are the same",
+     "qty": 2
+    },
+    {
+     "item": "a sunny balcony, windowsill or terrace",
+     "qty": 1
+    },
+    {
+     "item": "a clock or phone timer",
+     "qty": 1
+    }
+   ],
+   "safety": "Never look at the Sun. Steel plates in strong sun can get hot, so touch them only at the edge.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Put ice on black paper and white paper in the sun. Check every 5 minutes until both have melted."
+    }
+   ],
+   "record": "Fill in the table. Draw both plates at 10 minutes, showing how big each ice cube is and how big each puddle is.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Lay one sheet of paper flat on each steel plate. 2. Put both plates side by side in direct sunshine. 3. Take two ice cubes from the freezer. Put one in the middle of each sheet at the same moment.",
+     "say": "Two ice cubes, from the same tray. Two plates, side by side, in the same sun. The only difference is the paper. Black under one, white under the other.",
+     "kid": "Put the black paper and the white paper in the sun, side by side. Put one ice cube on each, at the same time.",
+     "parent": "The paper will get wet, which is fine. On a hot day in direct sun, each cube may melt in about 15 to 30 minutes.",
+     "context": "This is the first step of the ice test. You put an ice cube on black paper and another on white paper, in the same sunshine, to see which paper takes in more sunlight."
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "Ask for a guess and a reason.",
+     "say": "Which ice cube will melt first? Why do you think so?",
+     "kid": "Which ice will melt first? Why do you think so?",
+     "ask": [
+      {
+       "q": "Why might the colour of the paper matter, if the sunlight is the same?",
+       "good": [
+        "Black things get hotter in the sun.",
+        "The black paper might take in more of the light."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s3",
+     "mins": 12,
+     "do": "1. Every 5 minutes, look at both cubes together. 2. Write down how big each cube is and how big its puddle is. 3. Gently touch each sheet near the edge with the back of a finger, and say which feels warmer.",
+     "say": "Five minutes. Let's look. Which cube is smaller? Which puddle is bigger? Touch the edge of each paper. Which one is warmer?",
+     "kid": "Every 5 minutes, look at both ice cubes. Which is smaller? Touch the edge of each paper. Which is warmer?",
+     "parent": "The cube on black paper should shrink faster and sit in a bigger puddle. The dry edge of the black paper will feel warmer. If clouds cover the Sun, both slow down. Keep going until the Sun comes back.",
+     "wait": "Check every 5 minutes, about 3 times."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "Write down the minute each cube finishes melting.",
+     "say": "Which one melted first? How many minutes did each take?",
+     "kid": "Which ice melted first? Write the minutes for each.",
+     "check": {
+      "t": "mcq",
+      "q": "The ice on black paper melted first. Why?",
+      "options": [
+       "Black paper is made of warmer stuff",
+       "Black paper absorbs more sunlight, and the light turns into heat",
+       "The white paper made cold"
+      ],
+      "a": 1,
+      "why": "Both sheets got the same sunlight. The black paper absorbed most of it, and the light turned into heat in the paper. The heat moved into the ice. The white paper reflected most of the light back, so it stayed cooler. Picking 'made cold' means thinking white makes coldness. It doesn't. It just takes in less of the Sun's energy."
+     }
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "do": "Ask for three things: what I think, what I saw, why.",
+     "say": "Tell me what you think now, what you saw, and why it happened.",
+     "kid": "Say three things. What I think. What I saw. Why.",
+     "think": "Why do people in hot places often paint their roofs white?",
+     "parent": "A good answer: black paper takes in more sunlight than white paper. My ice on black melted in 18 minutes and the ice on white in 27 minutes, and the black paper felt warmer. The black paper absorbed the light and it turned into heat, which melted the ice."
+    }
+   ],
+   "context": "In this experiment you put ice on black and white paper in the sunshine. You find out which colour takes in more of the Sun's energy.",
+   "example_chart": {
+    "type": "bar",
+    "title": "Made-up example: minutes until the ice melted",
+    "x": "Paper under the ice",
+    "y": "Minutes",
+    "data": [
+     {
+      "label": "Black paper",
+      "value": 18,
+      "emoji": "⬛"
+     },
+     {
+      "label": "White paper",
+      "value": 27,
+      "emoji": "⬜"
+     }
+    ]
+   },
+   "setup": [
+    {
+     "art": "Two steel plates side by side on a sunny balcony floor, one with black paper and one with white paper, each with an ice cube in the middle.",
+     "caption": "1. Ice on black paper and on white paper, side by side in the sun."
+    },
+    {
+     "art": "The same two plates ten minutes later: the cube on black paper much smaller in a big puddle, the cube on white paper still large.",
+     "caption": "2. Look every 5 minutes. Which ice is smaller?"
+    },
+    {
+     "art": "A child touching the dry edge of each paper with the back of a finger.",
+     "caption": "3. Feel the edge of each paper. Which is warmer?"
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Sun Patch, Shade Patch: what does your skin notice?",
+   "mins": 6,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a patch of sunlight on the floor, from a window or balcony door",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep your back or side to the Sun. Never look at it.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 6,
+     "what": "Stand in sunlight, then in shade. Feel the difference. Feel the floor in both places."
+    }
+   ],
+   "record": "Draw yourself half in the sunlight and half in the shade. Write one word for how each half felt.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Find a patch of sunlight on the floor. 2. Stand in it with your back to the window for one minute. 3. Step into the shade next to it for one minute.",
+     "say": "Stand in the sunlight with your back to the window. Wait a minute. Now step into the shade. What do you notice?",
+     "kid": "Stand in the sunlight, with your back to the window. Count to 60. Now step into the shade. What do you feel?",
+     "ask": [
+      {
+       "q": "Where did you feel warmer? Which part of you felt it most?",
+       "good": [
+        "In the sunlight, on my back.",
+        "On my hair, because it is dark."
+       ]
+      }
+     ],
+     "context": "This is a quick start for the Sun unit. You feel the difference between sunlight and shade, and wonder where the warmth comes from."
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "Put your palm flat on the floor, first in the sunny patch, then in the shade.",
+     "say": "Now feel the floor in both places. Which part is warmer? The sunlight came through a window, from 150 million kilometres away.",
+     "kid": "Put your hand on the sunny floor. Then on the shady floor. Which is warmer?",
+     "check": {
+      "t": "mcq",
+      "q": "The sunny floor is warmer than the shady floor. Where was the warmth made?",
+      "options": [
+       "In the floor, when it absorbed the sunlight",
+       "In space, on the way from the Sun",
+       "In the window glass"
+      ],
+      "a": 0,
+      "why": "Space is nearly empty, so there is almost nothing there to warm. The floor absorbed the sunlight, and the light turned into heat right there in the floor. Picking 'in space' is a natural guess, because the Sun is hot. But the light only becomes warmth when something absorbs it."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 1,
+     "do": "Leave your child with a question.",
+     "say": "The sunlight felt gentle on your back. Could the same sunlight ever be strong enough to burn paper? We will find out.",
+     "kid": "The sunlight felt gentle. Could it ever burn paper? Keep that question in your head!",
+     "think": "What could make gentle sunlight strong enough to burn?"
+    }
+   ],
+   "context": "This is a short way into the unit. You feel sunlight and shade with your skin and hand, and ask where the warmth comes from.",
+   "setup": [
+    {
+     "art": "A girl standing in a patch of sunlight on a tiled floor with her back to a window.",
+     "caption": "1. Stand in the sunlight, back to the window."
+    },
+    {
+     "art": "The girl's palm flat on the floor, half in a sunny patch and half in shade.",
+     "caption": "2. Feel the floor in the sun and in the shade."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "The Mirror Sun: a safe picture of the Sun on your wall",
+   "mins": 20,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a small mirror, such as a pocket or handbag mirror",
+     "qty": 1
+    },
+    {
+     "item": "a piece of paper and tape, to cover the mirror",
+     "qty": 1
+    },
+    {
+     "item": "scissors",
+     "qty": 1
+    },
+    {
+     "item": "a window or balcony door with direct sun, and a shaded wall inside the room at least 3 metres away. A white or pale wall is best.",
+     "qty": 1
+    },
+    {
+     "item": "a measuring tape and a ruler",
+     "qty": 1
+    }
+   ],
+   "safety": "Never look into the mirror at the Sun. Never shine the reflected sunlight into anyone's eyes, or out of the window at people or vehicles. A grown-up helps with the scissors.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Cover a mirror, cut a small square hole, and reflect the Sun onto a far wall. Measure the round spot and how far away it is."
+    }
+   ],
+   "record": "Draw the square hole and the round spot. Write the spot's width and its distance from the mirror.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Tape paper over the whole mirror. 2. Cut a small square hole in the middle, about 1 cm wide.",
+     "say": "We will make a picture of the Sun that you can look at as long as you like. First we cover the mirror and cut a small square window in the paper.",
+     "kid": "Tape paper over the mirror. Cut a small square hole in the middle. A grown-up helps with the scissors.",
+     "adult": true,
+     "context": "This is the first step of the Mirror Sun. You make a picture of the Sun on a wall, so that you can study the Sun without ever looking at it."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Stand in the sunshine at the window. 2. Tilt the mirror until a spot of reflected light lands on a shaded wall across the room. 3. Hold the mirror as still as you can, or rest it on the windowsill against a book.",
+     "say": "Tilt the mirror slowly. Find the spot of light on the far wall. What shape is it?",
+     "kid": "Stand in the sun with the mirror. Tilt it slowly. Find the spot of light on the far wall. What shape is it?",
+     "check": {
+      "t": "mcq",
+      "q": "The hole in the paper is square, but the spot on the far wall is round. Why?",
+      "options": [
+       "The wall bends the light",
+       "The spot is a picture of the round Sun",
+       "The mirror is round"
+      ],
+      "a": 1,
+      "why": "A small hole lets through light from every part of the Sun. Far away, that light makes a picture of the Sun itself, and the Sun is round. Picking 'the mirror is round' is a good try, but the paper covers most of the mirror, and only the square hole lets light through. Try a triangle-shaped hole too: the far spot is still round."
+     },
+     "parent": "The spot on a wall about 4 to 6 metres away is round. Close to the mirror, held up on a book, the spot is square, the shape of the hole. Move a sheet of paper slowly from the mirror towards the wall, catching the spot, and watch it change from square to round."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "1. Measure the width of the round spot on the wall with a ruler. 2. Measure the distance from the mirror to the wall with the tape. 3. Write both numbers down in centimetres.",
+     "say": "Let's measure the spot, and how far it is from the mirror. Scientists measure pictures like this to work out how big the Sun looks from Earth.",
+     "kid": "Measure how wide the round spot is. Then measure from the mirror to the wall. Write both numbers.",
+     "parent": "On a wall 500 cm away, the spot is about 5 to 6 cm wide. Take away the width of the hole, 1 cm, and divide the distance by what is left. You should get roughly 100. That means the Sun is about 100 times further away than it is wide. The real number is about 108."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "Ask your child to look at the spot for as long as they like, and say what they notice.",
+     "say": "This spot is the real Sun's light, and it is safe to look at, because it is on a wall. What do you notice? Is it white or yellow?",
+     "kid": "You can look at this Sun as long as you like. Is it white or yellow? Does it wobble?",
+     "think": "Why is this picture safe to look at, when the real Sun is not?",
+     "parent": "The spot usually looks white, which is the Sun's real colour. It wobbles if the mirror moves. Large sunspots are too small to see with a 1 cm hole."
+    }
+   ],
+   "context": "In this activity you use a covered mirror to make a safe picture of the Sun on a wall, and measure it.",
+   "setup": [
+    {
+     "art": "A small round mirror covered with paper, with a small square hole cut in the middle.",
+     "caption": "1. Cover the mirror. Cut a small square hole."
+    },
+    {
+     "art": "A child at a sunny window tilting the mirror, with a dotted line of light crossing the room to a round spot on a shaded wall.",
+     "caption": "2. Reflect the Sun onto a shaded wall far across the room."
+    },
+    {
+     "art": "A child measuring the round spot on the wall with a ruler, and a tape measure running back to the mirror.",
+     "caption": "3. Measure the spot and the distance."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "What Has the Sun Changed? A home hunt",
+   "mins": 12,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a notebook and pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Stay inside the home or on the balcony. Never look at the Sun.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Hunt around the home for things the Sun has warmed, dried, faded or made grow."
+    }
+   ],
+   "record": "Make a list with four headings: warmed, dried, faded, grown. Write each thing you find under one heading.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Explain the hunt.",
+     "say": "The Sun leaves marks all over a home. Let's hunt for things it has warmed, dried, faded, or helped to grow.",
+     "kid": "Hunt for things the Sun has changed. Warmed. Dried. Faded. Grown. How many can you find?",
+     "context": "This is a hunt around the home for things sunlight has changed, which shows that sunlight carries energy."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "Walk round the home together. Look at curtains, posters near windows, old newspapers, clothes on the line, a balcony floor, and any plant by a window.",
+     "say": "Look at the curtain. Is the side facing the window paler? Feel the balcony floor. Which plants are by the window?",
+     "kid": "Look at the curtains. Is one side paler? Feel the balcony floor. Find a plant near the window.",
+     "ask": [
+      {
+       "q": "Why is the curtain paler on the side that faces the window?",
+       "good": [
+        "The sunlight faded it.",
+        "Ultraviolet light in sunlight breaks down the colour."
+       ]
+      },
+      {
+       "q": "Why does the plant by the window need the sunlight?",
+       "good": [
+        "She uses it to make her food.",
+        "For photosynthesis."
+       ]
+      }
+     ],
+     "parent": "Common finds: a curtain or cushion faded on one side, a yellowed newspaper, dry clothes, warm floor tiles, a plant leaning towards the window. If you can't find faded things, the next project shows the Sun fading paper over a few days."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Count the finds under each heading.",
+     "say": "Every one of these needed energy. All of that energy came in through the window as sunlight.",
+     "kid": "Count your finds. Every one needed energy. It all came from the Sun.",
+     "check": {
+      "t": "mcq",
+      "q": "Kavitha, a girl in Class 3, finds that her poster by the window has gone pale. What did that?",
+      "options": [
+       "Sunlight, mostly the ultraviolet light in it",
+       "The cold air from the window",
+       "Dust from the road"
+      ],
+      "a": 0,
+      "why": "Sunlight carries energy, and ultraviolet light, which we cannot see, has enough to break down the colours in paint and ink. That is why posters and curtains fade where the Sun reaches them. Picking 'dust' is a sensible guess, because dust makes things look dull. But dust can be wiped off, and fading cannot."
+     }
+    }
+   ],
+   "context": "In this activity you hunt around your home for things that sunlight has warmed, dried, faded or helped to grow.",
+   "setup": [
+    {
+     "art": "A curtain by a sunny window, pale on the outside edge and bright where it was folded.",
+     "caption": "1. Look for things the Sun has faded."
+    },
+    {
+     "art": "A child touching warm balcony tiles, with clothes drying on a line above.",
+     "caption": "2. Feel what it has warmed. See what it has dried."
+    },
+    {
+     "art": "A money plant in a pot on a windowsill, leaning towards the light.",
+     "caption": "3. Find a plant that uses the light."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "The Sunbeam's Long Trip: act it out",
+   "mins": 10,
+   "days": 1,
+   "materials": [
+    {
+     "item": "6 to 10 cushions or pillows",
+     "qty": 8
+    },
+    {
+     "item": "a potted plant, a dark cloth and a white sheet of paper",
+     "qty": 3
+    }
+   ],
+   "safety": "Clear a space so nobody trips on the cushions.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Act out the journey of the Sun's energy from the core to the Earth."
+    }
+   ],
+   "record": "Draw the trip: a wiggly line inside the Sun and a straight line across space.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Pile the cushions close together at one end of the room. This is the inside of the Sun. 2. Put the plant, the dark cloth and the white paper at the other end. This is the Earth.",
+     "say": "These cushions are the packed insides of the Sun. Over there is the Earth. You are a bit of energy, just made in the Sun's core.",
+     "kid": "The cushions are the inside of the Sun. Over there is the Earth. You are a bit of energy from the core!",
+     "context": "This is an act-out of the journey that the Sun's energy makes, from the core to the Earth."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Your child starts in the middle of the cushions. Each time they touch a cushion, they must turn and go a different way. They zigzag until they get out of the pile.",
+     "say": "Inside the Sun, you keep getting taken in and sent out again, in a new direction. Bump, turn, bump, turn. It takes many thousands of years to get out.",
+     "kid": "Start in the middle. Touch a cushion, then turn a new way. Keep zigzagging until you get out!",
+     "parent": "This shows why energy takes a very long time to leave the Sun. Scientists estimate between about 10,000 and 170,000 years."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Once out, your child walks straight across the room to the Earth while everyone counts slowly to 8.",
+     "say": "Now you are sunlight in empty space. Nothing gets in your way. Walk straight to the Earth while we count 8 slow minutes.",
+     "kid": "Now walk straight to the Earth. We count to 8, for 8 minutes!"
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Your child chooses where to land: on the plant, the dark cloth or the white paper. They act out what happens next.",
+     "say": "Where will you land? On the plant, you become her food. On the dark cloth, you turn into heat. On the white paper, you bounce off again.",
+     "kid": "Where will you land? The plant? The dark cloth? The white paper? Show what happens!",
+     "check": {
+      "t": "mcq",
+      "q": "The sunbeam lands on the white paper. What happens to most of it?",
+      "options": [
+       "It is reflected and bounces away",
+       "It all turns into heat",
+       "It disappears"
+      ],
+      "a": 0,
+      "why": "White things reflect most of the light that falls on them, so most of the sunbeam bounces off. That is why white paper stays cooler than black paper in the sun. Picking 'disappears' is a natural guess, but energy is never lost. It always goes somewhere."
+     }
+    }
+   ],
+   "context": "This is an act-out. You play a bit of the Sun's energy, travelling from the core to the Earth.",
+   "setup": [
+    {
+     "art": "A pile of cushions at one end of a room, with a child zigzagging between them.",
+     "caption": "1. Zigzag out through the packed Sun."
+    },
+    {
+     "art": "The child walking straight across an empty floor towards a potted plant, a dark cloth and a white paper at the far end.",
+     "caption": "2. Walk straight across space to the Earth."
+    },
+    {
+     "art": "The child kneeling by the plant, pretending to be sunlight landing on a leaf.",
+     "caption": "3. Land, and show what happens."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "The Sun Print: a picture made only by sunlight",
+   "mins": 30,
+   "days": 6,
+   "materials": [
+    {
+     "item": "a sheet of coloured paper that fades easily, such as kite paper, tissue paper or cheap coloured craft paper. A sheet of newspaper works too.",
+     "qty": 1
+    },
+    {
+     "item": "3 or 4 flat objects with clear shapes: a key, a coin, a leaf, a cut-out cardboard star",
+     "qty": 4
+    },
+    {
+     "item": "a piece of clear glass from an old photo frame, or clear plastic, to hold everything flat",
+     "qty": 1
+    },
+    {
+     "item": "a windowsill or balcony ledge that gets several hours of direct sun each day",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up handles the glass and checks it has no sharp edges. Put the print where it cannot fall.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Lay the objects on the paper, cover with glass, and put it in the sun. Draw what it looks like."
+    },
+    {
+     "day": 3,
+     "mins": 5,
+     "what": "Look without moving anything. Is the paper around the objects changing colour?"
+    },
+    {
+     "day": 6,
+     "mins": 15,
+     "what": "Lift off the glass and the objects. Look at the shapes left behind. Explain what made them."
+    }
+   ],
+   "record": "Draw the print on day 1 and on day 6. Write which parts changed and which did not.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "1. Put the paper on a flat piece of cardboard. 2. Lay the objects on it, spaced apart. 3. Cover with the glass or clear plastic. 4. Put it in a spot that gets direct sun for several hours.",
+     "say": "We will let the Sun draw a picture for us. The objects will block the sunlight. Let's see what the uncovered paper looks like in a few days.",
+     "kid": "Lay the key, coin and leaf on the paper. Cover them with the glass. Put it all in the sun.",
+     "adult": true,
+     "ask": [
+      {
+       "q": "What do you think will happen to the paper that is in the sun?",
+       "good": [
+        "It will fade.",
+        "It will change colour."
+       ]
+      }
+     ],
+     "context": "This is the first step of the Sun Print, a 6-day project. The Sun's ultraviolet light slowly fades paper, except where something blocks it."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "On day 3, look at the print without moving anything.",
+     "say": "Don't lift anything yet. Can you see the paper changing colour around the objects?",
+     "kid": "Look, but don't touch! Is the paper changing colour?",
+     "wait": "Leave it in the sun until day 3.",
+     "parent": "Kite paper and tissue fade fastest. Newspaper turns slightly yellow. If nothing has changed by day 3, leave it longer, or move it to a sunnier spot."
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "do": "On day 6, lift off the glass and the objects. Look at the shapes.",
+     "say": "Now lift everything off. What did the Sun draw? Why are the shapes a different colour from the rest?",
+     "kid": "Lift off the glass. Lift off the key and coin. What did the Sun draw?",
+     "wait": "Leave it in the sun until day 6.",
+     "check": {
+      "t": "mcq",
+      "q": "The paper under the key kept its colour. The paper around it faded. Why?",
+      "options": [
+       "The key blocked the sunlight, so no ultraviolet light reached that paper",
+       "The key was cold",
+       "The key's metal coloured the paper"
+      ],
+      "a": 0,
+      "why": "Sunlight, mostly its ultraviolet part, breaks down the colour in the paper. The key is opaque, so it blocked the light, and the paper under it kept its colour. Picking 'the key's metal coloured the paper' is a good thought, but the leaf and the cardboard star leave the same kind of shape, and they are not metal."
+     }
+    }
+   ],
+   "context": "In this 6-day project, sunlight slowly fades a sheet of paper, except where objects block it, and leaves their shapes behind.",
+   "setup": [
+    {
+     "art": "A key, a coin and a leaf laid on a sheet of pink kite paper, with clear glass on top, on a sunny windowsill.",
+     "caption": "1. Objects on coloured paper, under glass, in the sun."
+    },
+    {
+     "art": "The same paper on day 3, a little paler around the objects.",
+     "caption": "2. Day 3: look, but don't move anything."
+    },
+    {
+     "art": "The paper on day 6 with the objects lifted off: bright pink shapes of a key, a coin and a leaf on faded paper.",
+     "caption": "3. Day 6: lift everything off and see the shapes."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Melt the Chocolate with Only Sunlight",
+   "mins": 60,
+   "problem": "Build a sun cooker from a cardboard box that melts a piece of chocolate as fast as possible, using only sunlight.",
+   "constraints": [
+    "Use only things from home.",
+    "No flame, no electricity, and no magnifying glass.",
+    "Put a piece of chocolate in a small steel bowl inside your cooker, and time how long it takes to melt."
+   ],
+   "materials": [
+    "a cardboard box, such as a shoebox",
+    "aluminium foil",
+    "black paper",
+    "clear plastic wrap or a clear plastic bag",
+    "tape, glue and scissors",
+    "a small steel bowl and two small pieces of chocolate, the same size"
+   ],
+   "general": [
+    "Line the inside of the box with foil, so it reflects sunlight onto the bowl.",
+    "Put black paper under the bowl, so it absorbs the light and gets hot.",
+    "Cover the top with clear plastic, so sunlight gets in but the warm air stays in."
+   ],
+   "creative": [
+    "Make foil-covered flaps that open out from the top of the box, like petals, to catch more sunlight and reflect it in.",
+    "Mária Telkes, a scientist known as the Sun Queen, designed simple sun ovens for families in the 1950s. Look up a picture of one and borrow an idea.",
+    "Turn the box every 15 minutes to face the Sun as it moves across the sky."
+   ],
+   "your_turn": "Now design your own sun cooker. Draw it, build it, and race it against a piece of chocolate left in a bowl in the open sun. Which melts first?",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Put one piece of chocolate in a steel bowl in the open sun. This is the one to beat.",
+     "say": "This chocolate is in plain sunshine. Can we build something that melts chocolate faster, with no flame and no magnifying glass?",
+     "kid": "Put one piece of chocolate in a bowl in the sun. Can you build a box that melts chocolate faster?",
+     "context": "This is the first step of the sun cooker challenge. You build a box that gathers sunlight to melt chocolate."
+    },
+    {
+     "id": "s2",
+     "mins": 30,
+     "do": "Build the cooker. Use foil to reflect light in, black paper to absorb it, and plastic to keep the warm air in.",
+     "say": "Think about what you have learned. Foil reflects light. Black absorbs it. How can you send more sunlight onto the bowl, and keep the heat in?",
+     "kid": "Build your cooker. Foil sends light in. Black paper soaks it up. Plastic keeps the heat in.",
+     "adult": true,
+     "parent": "Help with the scissors. Any design that reflects light into the box and absorbs it on black paper should beat the open bowl."
+    },
+    {
+     "id": "s3",
+     "mins": 20,
+     "do": "Put the second piece of chocolate in a bowl in the cooker, in the sun. Check both every 5 minutes.",
+     "say": "Let's race. Which chocolate goes soft first?",
+     "kid": "Put the second chocolate in your cooker. Check both every 5 minutes. Which melts first?",
+     "check": {
+      "t": "mcq",
+      "q": "Why does foil inside the box help the chocolate melt faster?",
+      "options": [
+       "Foil reflects extra sunlight onto the bowl",
+       "Foil makes heat by itself",
+       "Foil keeps the light out"
+      ],
+      "a": 0,
+      "why": "Shiny foil reflects most of the light that falls on it. Angled the right way, it sends extra sunlight onto the bowl. Picking 'makes heat by itself' is a common mix-up: foil makes no heat. It only sends light to where the black paper and the bowl can absorb it."
+     }
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Talk about what worked best, and what you would change.",
+     "say": "What worked best? What would you change next time?",
+     "kid": "What worked best? What would you change?"
+    }
+   ],
+   "context": "This is an engineering challenge. You design a box that gathers sunlight to melt chocolate.",
+   "setup": [
+    {
+     "art": "A shoebox lined with foil, with black paper on the bottom and a small steel bowl of chocolate in the middle.",
+     "caption": "1. Line the box with foil. Put black paper under the bowl."
+    },
+    {
+     "art": "The box covered with clear plastic, with foil flaps opening out to the Sun.",
+     "caption": "2. Cover with plastic. Add flaps to catch more light."
+    },
+    {
+     "art": "Two small steel bowls of chocolate, one in the cooker and one in the open sun, with a timer beside them.",
+     "caption": "3. Race your cooker against the open bowl."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "An Eclipse Party for the Whole Building",
+   "mins": 40,
+   "problem": "A solar eclipse is coming, and 30 people in your building want to watch it. Only one family has eclipse glasses. Plan a way for everyone to see the eclipse safely, at the same time, without anyone looking at the Sun.",
+   "constraints": [
+    "Nobody may look straight at the Sun, even for a second.",
+    "Use things most homes have.",
+    "Small children must be able to see it too."
+   ],
+   "materials": [
+    "a steel colander or a sieve",
+    "small mirrors and paper",
+    "cardboard and foil, for pinhole viewers",
+    "a white bedsheet or white chart paper"
+   ],
+   "general": [
+    "Hold a colander in the sunlight above white paper. Every hole makes a tiny picture of the Sun, so everyone sees many little eclipses at once.",
+    "Use covered mirrors to throw pictures of the Sun onto a shaded wall, as in the Mirror Sun.",
+    "Make pinhole viewers from cardboard and foil, one for each family."
+   ],
+   "creative": [
+    "Hang a white bedsheet in a shaded stairwell and use a covered mirror to throw a big Sun picture onto it for everyone.",
+    "Poke holes in a sheet of card to spell a word. During the eclipse, each hole makes a little crescent Sun.",
+    "Ask everyone to bring a colander, and compare the patterns."
+   ],
+   "your_turn": "Now plan your own eclipse party. Draw where people stand, what they look at, and what the grown-ups must watch out for.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Read the problem together.",
+     "say": "Thirty people, one pair of eclipse glasses. How can everyone watch the eclipse safely?",
+     "kid": "Thirty people want to watch an eclipse. There is one pair of eclipse glasses. How can everyone see safely?",
+     "context": "This is the first step of the eclipse party challenge. You plan how a whole building can watch an eclipse without anyone looking at the Sun."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "On a sunny day, test a colander over white paper, and the Mirror Sun.",
+     "say": "Let's test two ideas today. Hold the colander in the sun above the paper. What do you see?",
+     "kid": "Hold the colander in the sun above white paper. What do you see on the paper?",
+     "check": {
+      "t": "mcq",
+      "q": "Under a colander in the sun, each hole makes a small round spot. What is each spot?",
+      "options": [
+       "A tiny picture of the Sun",
+       "A shadow of the colander",
+       "A reflection of the sky"
+      ],
+      "a": 0,
+      "why": "Each small hole works like a pinhole and makes its own little picture of the Sun. During an eclipse, every spot becomes a little crescent. Picking 'a shadow' is close: the dark part is the colander's shadow, but the bright spots are pictures of the Sun."
+     },
+     "parent": "Today the spots will be round. During a partial eclipse they turn into crescents, like a bitten biscuit."
+    },
+    {
+     "id": "s3",
+     "mins": 15,
+     "do": "Draw the plan: where people stand, what they use, and who keeps watch.",
+     "say": "Now draw your plan. Who keeps an eye on the small children? Where does the mirror picture go?",
+     "kid": "Draw your plan. Where do people stand? Who watches the little children?",
+     "adult": true
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Share the plan with a neighbour or with the family.",
+     "say": "Explain your plan to someone, and tell them why looking at the Sun is never safe.",
+     "kid": "Tell someone your plan. Tell them why we never look at the Sun."
+    }
+   ],
+   "context": "This is a design challenge. You plan how a whole apartment building can watch a solar eclipse safely.",
+   "setup": [
+    {
+     "art": "A steel colander held in sunlight above white chart paper covered in little round spots of light.",
+     "caption": "1. Test a colander: every hole makes a little Sun."
+    },
+    {
+     "art": "A covered mirror at a sunny window throwing a round spot onto a white bedsheet hung in a stairwell.",
+     "caption": "2. Test a mirror picture on a white sheet."
+    },
+    {
+     "art": "A child's drawing of a building terrace with people standing in groups around colanders and a sheet, and a grown-up beside the little ones.",
+     "caption": "3. Draw your plan for the whole building."
+    }
+   ]
+  }
+ ],
+ "videos": [
+  {
+   "title": "Sun 101 | National Geographic",
+   "channel": "National Geographic",
+   "youtube": "2HoTK_Gqi2Q",
+   "mins": 3,
+   "why": "A short, clear film about what the Sun is, how it makes energy and how long it will last. Good for the parent and child together.",
+   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'Sun 101 | National Geographic', channel National Geographic). Not watched from here: a parent should preview it."
+  },
+  {
+   "title": "NASA | Thermonuclear Art – The Sun In Ultra-HD (4K)",
+   "channel": "NASA Goddard",
+   "youtube": "6tmbeLTHC_0",
+   "mins": 30,
+   "why": "Real close-up films of the Sun's surface from NASA's Solar Dynamics Observatory, with no talking. Watch a few minutes of it, never the whole film. It shows safely what nobody can see with their own eyes.",
+   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'NASA | Thermonuclear Art – The Sun In Ultra-HD (4K)', channel NASA Goddard). Not watched from here. The length is not checked: it is long, so watch only a part."
+  },
+  {
+   "title": "The Sun: Crash Course Astronomy #10",
+   "channel": "CrashCourse",
+   "youtube": "b22HKFMIfWo",
+   "mins": 12,
+   "why": "For the parent and curious older children: a fast, accurate tour of the inside of the Sun, fusion and the journey of energy to the surface.",
+   "check": "Id and title confirmed through YouTube's public oEmbed lookup (title 'The Sun: Crash Course Astronomy #10', channel CrashCourse). Not watched from here: a parent should preview it and check its length."
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "The Sun looks much bigger and brighter than the stars at night. Why?",
+   "opts": [
+    "It is the biggest star there is",
+    "It is much closer to us than any other star",
+    "It is not a star",
+    "It burns more fuel"
+   ],
+   "a": 1,
+   "outcome": 0,
+   "why": "The Sun is an ordinary star that happens to be very close. The next nearest star is about 270,000 times further away. Picking 'the biggest star' is a natural guess, but many stars are much bigger."
+  },
+  {
+   "t": "mcq",
+   "p": "What is the Sun mostly made of?",
+   "opts": [
+    "Rock and iron",
+    "Hydrogen, with most of the rest helium",
+    "Burning coal",
+    "Water"
+   ],
+   "a": 1,
+   "outcome": 0,
+   "why": "The Sun is mostly hydrogen, the lightest kind of atom, and most of the rest is helium. Picking 'rock and iron' means thinking of the Sun as being like the Earth. People thought so until 1925."
+  },
+  {
+   "t": "mcq",
+   "p": "How does the Sun make its light?",
+   "opts": [
+    "By burning, like a fire",
+    "By joining hydrogen into helium in its core",
+    "By reflecting light from other stars",
+    "By shrinking"
+   ],
+   "a": 1,
+   "outcome": 1,
+   "why": "In the core, hydrogen joins into helium, and a tiny bit of material turns into energy. This is nuclear fusion. Picking 'by shrinking' was a real idea in the 1800s, but it would have used up the Sun in a few tens of millions of years."
+  },
+  {
+   "t": "mcq",
+   "p": "Selvi, a girl in Class 3, says a fire as big as the Sun would still be burning today. Why is she wrong?",
+   "opts": [
+    "A fire that big would have burnt out in a few thousand years",
+    "Fires never go out",
+    "The Sun is colder than a fire",
+    "Space is full of oxygen"
+   ],
+   "a": 0,
+   "outcome": 1,
+   "why": "A ball of coal as big as the Sun would burn out in a few thousand years, and it would need oxygen, which space does not have. The Sun has shone for about 4.6 billion years."
+  },
+  {
+   "t": "mcq",
+   "p": "Two steel plates stand in the sun, one with black paper and one with white paper. Which paper gets warmer?",
+   "opts": [
+    "The white paper",
+    "The black paper",
+    "Both the same",
+    "Neither"
+   ],
+   "a": 1,
+   "outcome": 2,
+   "why": "Black paper absorbs most of the sunlight, and the light turns into heat. White paper reflects most of it. Picking 'both the same' makes sense, because the sunlight is the same. But what the paper does with it is different.",
+   "how": "e2"
+  },
+  {
+   "t": "mcq",
+   "p": "Where does sunlight turn into heat?",
+   "opts": [
+    "Only inside the Sun",
+    "In empty space on the way",
+    "Wherever something absorbs it",
+    "Only in water"
+   ],
+   "a": 2,
+   "outcome": 2,
+   "why": "Sunlight turns into heat where it is absorbed: on your skin, a road, a leaf or black paper. Empty space has almost nothing to absorb it."
+  },
+  {
+   "t": "mcq",
+   "p": "A magnifying glass makes a big circle of light on black paper, then a tiny dot. Which makes the paper smoke?",
+   "opts": [
+    "The big circle",
+    "The tiny dot",
+    "Both, at the same time",
+    "Neither"
+   ],
+   "a": 1,
+   "outcome": 3,
+   "why": "The tiny dot has all the light from the glass packed into a small place, so it gets hot enough to smoke. The big circle spreads it out.",
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "In the Sun Dot experiment, why was the paper put on a steel plate, with a tumbler of water nearby?",
+   "opts": [
+    "To make it smoke faster",
+    "To keep it safe, so nothing else could catch fire",
+    "To make the dot smaller",
+    "To keep the paper flat"
+   ],
+   "a": 1,
+   "outcome": 3,
+   "why": "Steel does not burn, and the water can put out any smouldering paper. The steel plate and the water are there for safety. A grown-up holds the glass for the same reason.",
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "Why can looking at the Sun harm your eyes without any pain?",
+   "opts": [
+    "The retina has no pain nerves",
+    "The Sun's light is cold",
+    "The eye has no lens",
+    "It only hurts at night"
+   ],
+   "a": 0,
+   "outcome": 4,
+   "why": "The eye's lens focuses the Sun's light onto the retina, which has no pain nerves. So the harm happens without warning, and may show only later. That is why we never look at the Sun."
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these is a safe way to watch the Sun?",
+   "opts": [
+    "Through dark sunglasses",
+    "Its picture on a wall, made by a covered mirror",
+    "Through binoculars",
+    "A quick look for one second"
+   ],
+   "a": 1,
+   "outcome": 4,
+   "why": "A picture of the Sun on a wall is safe, because you look at the wall, not the Sun. Sunglasses let through too much light, binoculars gather more of it into the eye, and even one second can harm the retina."
+  },
+  {
+   "t": "mcq",
+   "p": "Why does a garden lizard lie on a sunny wall in the cool early morning?",
+   "opts": [
+    "To hide from birds",
+    "To warm her body, so she can move fast and hunt",
+    "To drink the sunlight",
+    "To sleep"
+   ],
+   "a": 1,
+   "outcome": 5,
+   "why": "A lizard makes little heat inside her own body. On a cool morning she is slow. Basking lets her absorb sunlight and warm up, so she can chase insects."
+  },
+  {
+   "t": "mcq",
+   "p": "In 1920, Arthur Eddington suggested how the Sun shines. What new measurement helped him?",
+   "opts": [
+    "That a helium atom weighs a little less than four hydrogen atoms",
+    "That the Sun is shrinking",
+    "That the Sun is full of coal",
+    "That sunlight takes 8 minutes to arrive"
+   ],
+   "a": 0,
+   "outcome": 6,
+   "why": "Francis Aston measured that a helium atom weighs a little less than four hydrogen atoms. Eddington saw that if the Sun joins hydrogen into helium, the missing material could become the Sun's energy."
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Sun Detective (core)",
+   "tier": "core",
+   "mins": 20,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "What kind of thing is the Sun?",
+     "opts": [
+      "A planet",
+      "A star",
+      "A ball of fire",
+      "A moon"
+     ],
+     "a": 1,
+     "why": "The Sun is a star, a huge ball of very hot gas that makes its own light. It is the nearest star to the Earth. Picking 'a ball of fire' is very common, but the Sun does not burn. It shines by fusion. A strong answer says it is the nearest star."
+    },
+    {
+     "t": "truefalse",
+     "p": "Priya, a girl in Class 3, says, 'The Sun is a giant fire, burning in the sky.' Is she right?",
+     "a": false,
+     "why": "False. A fire needs oxygen from the air, and there is no air in space. The Sun shines because hydrogen joins into helium in its core. A strong answer gives this reason."
+    },
+    {
+     "t": "fill",
+     "p": "A thing that takes in light, so that the light turns into heat, is said to ____ the light.",
+     "a": [
+      "absorb"
+     ],
+     "why": "Absorb means take in. Black things absorb most of the light that falls on them, so they get hot in the sun."
+    },
+    {
+     "t": "mcq",
+     "p": "Remember the Sun Dot experiment, where a grown-up held a magnifying glass over black paper in the sun. When did the paper smoke?",
+     "opts": [
+      "When the glass made a big circle of light",
+      "When the glass made a tiny dot of light",
+      "Never",
+      "Only in the shade"
+     ],
+     "a": 1,
+     "why": "The tiny dot had all the light from the whole glass packed into a small place, so it got hot enough to smoke. The big circle spread the light out, so it only warmed the paper. A strong answer says the lens gathered the light.",
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "In the Sun Dot experiment, the glass made no new light, but the tiny dot made paper smoke. Explain how.",
+     "lines": 3,
+     "a": "The magnifying glass gathered all the sunlight that fell on it into one tiny dot. The same amount of light was packed into a much smaller place, so that spot of paper got very hot.",
+     "why": "A strong answer uses the idea of gathering or focusing, and says the amount of light stayed the same but the place got smaller.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "Why must we never look straight at the Sun?",
+     "opts": [
+      "The Sun is too far away to see",
+      "The lens in our eye focuses its light onto the retina and harms it",
+      "It makes us sneeze",
+      "It makes the Sun angry"
+     ],
+     "a": 1,
+     "why": "The eye's lens gathers light like a magnifying glass. Looking at the Sun focuses its light into a tiny fierce spot on the retina, which can be harmed for ever. A strong answer names the lens and the retina."
+    },
+    {
+     "t": "sort",
+     "p": "Lalitha, a girl in Class 3 in Mysuru, wants to watch the Sun. Sort these ways: safe or not safe?",
+     "cats": [
+      "Safe",
+      "Not safe"
+     ],
+     "items": [
+      [
+       "a picture of the Sun on a wall, made by a covered mirror",
+       "Safe"
+      ],
+      [
+       "ordinary sunglasses",
+       "Not safe"
+      ],
+      [
+       "little suns under a colander",
+       "Safe"
+      ],
+      [
+       "binoculars",
+       "Not safe"
+      ],
+      [
+       "eclipse glasses marked ISO 12312-2",
+       "Safe"
+      ],
+      [
+       "a quick look for one second",
+       "Not safe"
+      ]
+     ],
+     "a": "see items",
+     "why": "The safe ways make a picture of the Sun to look at, or use a filter made for the Sun. Sunglasses let through far too much light. Binoculars gather even more light into the eye. Even one second can harm the retina. A strong answer sorts by whether light from the Sun goes straight into the eye."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a magnifying glass above a sheet of paper in the sun. Draw the lines of sunlight going through the glass and meeting in a tiny dot on the paper.",
+     "a": "Straight lines of sunlight coming down, bending as they pass through the glass, and meeting at one point on the paper.",
+     "why": "A strong drawing shows that the light from the whole glass ends up in one small spot.",
+     "art": "A blank box with a small Sun drawn in the top corner.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "Remember the ice test, with one ice cube on black paper and one on white paper in the sun. Which melted first?",
+     "opts": [
+      "The ice on white paper",
+      "The ice on black paper",
+      "Both at exactly the same time",
+      "Neither, ice cannot melt in sunlight"
+     ],
+     "a": 1,
+     "why": "Black paper absorbs more sunlight than white paper, and the light turns into heat in the paper. That heat melted the ice faster. White paper reflects most of the light. A strong answer uses the words absorb and reflect.",
+     "how": "e2"
+    },
+    {
+     "t": "truefalse",
+     "p": "Sunlight takes about 8 minutes to travel from the Sun to the Earth.",
+     "a": true,
+     "why": "True. The Sun is about 150 million kilometres away, and light crosses that in about 8 minutes and 20 seconds."
+    },
+    {
+     "t": "match",
+     "p": "Match each word to what it means.",
+     "pairs": [
+      [
+       "Star",
+       "a huge ball of hot gas that makes its own light"
+      ],
+      [
+       "Lens",
+       "clear curved glass that bends light"
+      ],
+      [
+       "Retina",
+       "the light-catching layer at the back of the eye"
+      ],
+      [
+       "Core",
+       "the centre of the Sun, where its energy is made"
+      ],
+      [
+       "Reflect",
+       "to send light back"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "These words come up all through the unit. A strong answer could give an example of each."
+    },
+    {
+     "t": "label",
+     "p": "Label the drawing of a cut-open eye looking at the Sun: lens, retina, and the spot where the Sun's light meets.",
+     "a": "The lens near the front of the eye, the retina lining the back, and a dot on the retina where the lines of light meet.",
+     "why": "The lens gathers light onto the retina. A strong label shows the meeting spot on the retina, the place that is harmed.",
+     "art": "A side view of an eye with lines of sunlight entering from the left, and three blank label lines."
+    },
+    {
+     "t": "odd",
+     "p": "Which one is the odd one out?",
+     "opts": [
+      "The Sun",
+      "Sirius, the brightest star at night",
+      "The Moon",
+      "Dhruva Tara, the Pole Star"
+     ],
+     "a": 2,
+     "why": "The Sun, Sirius and the Pole Star are all stars, which make their own light. The Moon is not a star. It shines only because it reflects sunlight."
+    },
+    {
+     "t": "mcq",
+     "p": "Remember the Sunbeam Race, where you travelled from the Sun's core to the Earth. You land on a black road. What happens to you?",
+     "opts": [
+      "You are reflected away",
+      "You are absorbed and turn into heat",
+      "You become a plant's food",
+      "You turn into rain"
+     ],
+     "a": 1,
+     "why": "A black road absorbs most of the sunlight that lands on it, and the light turns into heat. That is why a road in summer is too hot for bare feet.",
+     "how": "g2"
+    },
+    {
+     "t": "write",
+     "p": "A garden lizard lies flat on a sunny wall early in the morning. What problem does she have on a cool morning, and how does the sunshine help her?",
+     "lines": 3,
+     "a": "Her body does not make much heat of its own, so on a cool morning she is slow and cannot chase insects well. Lying flat in the sun, she absorbs sunlight, warms up, and can then move fast and hunt.",
+     "why": "A strong answer says the lizard's own problem first, being cold and slow, and then how basking solves it."
+    },
+    {
+     "t": "perspective",
+     "p": "Two friends in Kochi are talking about the Sun.",
+     "views": [
+      {
+       "who": "Anjana, aged 9",
+       "says": "The Sun can't be dangerous. Its light feels gentle and warm on my hands."
+      },
+      {
+       "who": "Rehana, aged 8",
+       "says": "The Sun is very dangerous. A magnifying glass made its light burn paper."
+      }
+     ],
+     "ask": "Who do you agree with? Use what you saw in the Sun Dot experiment. Then say one thing the other friend has right.",
+     "lines": 5,
+     "a": "A strong answer says both are partly right. Spread-out sunlight on the skin is gentle for a short time, as Anjana says, though it can still burn skin over a long time. Gathered by a lens, the same light is fierce enough to burn paper, as Rehana saw. The eye has a lens, so looking at the Sun is dangerous, even though sunlight on the hands is not.",
+     "why": "This tests the main idea of the unit: how strong sunlight is depends on how much is gathered into one place.",
+     "how": "e1"
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Sunlight at Work (stretch)",
+   "tier": "stretch",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Sumathi's magnifying glass made black paper smoke in 4 seconds. She tried again with a bigger magnifying glass, held to make an equally tiny dot. What do you predict?",
+     "opts": [
+      "It will take longer, because the glass is heavier",
+      "It will smoke faster, because a bigger glass gathers more sunlight into the dot",
+      "It will never smoke",
+      "It will take exactly 4 seconds"
+     ],
+     "a": 1,
+     "why": "A bigger glass catches more sunlight across its face, and packs it into the dot. More light in the same small place means more heat, so the paper smokes faster. A strong answer explains with the amount of light caught.",
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "In the Sun Dot experiment, white paper took much longer to smoke than black paper, under the same dot. Explain why.",
+     "lines": 3,
+     "a": "White paper reflects most of the light that falls on it, so only a little turns into heat. Black paper absorbs most of the light, so it gets hot much faster.",
+     "why": "A strong answer uses the words reflect and absorb, and says that the light was the same for both papers.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "Arun says, 'If I wear two pairs of sunglasses, I can look at the Sun safely.' What is wrong with his idea?",
+     "opts": [
+      "Nothing, two pairs are dark enough",
+      "Even two pairs let through far too much light, and the retina gives no warning",
+      "Sunglasses make the Sun brighter",
+      "He should use three pairs"
+     ],
+     "a": 1,
+     "why": "Sunglasses are made to cut glare, not to block the Sun's full light. Even two pairs let through far too much. The retina has no pain nerves, so Arun would feel nothing while it was harmed. Only eclipse glasses made for the Sun are safe."
+    },
+    {
+     "t": "truefalse",
+     "p": "A solar eclipse sends out special harmful rays that the Sun does not send on other days.",
+     "a": false,
+     "why": "False. The Sun's light is just as harmful on any day. During an eclipse, the sky is darker, so the pupils open wider, and people stare for longer. That is why more eyes are harmed then."
+    },
+    {
+     "t": "order",
+     "p": "Put the journey of the Sun's energy in order.",
+     "items": [
+      "It crosses space in about 8 minutes",
+      "It is made when hydrogen joins into helium in the core",
+      "It lands on a leaf, and the plant uses the light's energy to make food",
+      "It works its way out through the packed inside of the Sun for thousands of years"
+     ],
+     "a": [
+      "It is made when hydrogen joins into helium in the core",
+      "It works its way out through the packed inside of the Sun for thousands of years",
+      "It crosses space in about 8 minutes",
+      "It lands on a leaf, and the plant uses the light's energy to make food"
+     ],
+     "why": "Energy is made in the core, takes thousands of years to reach the surface, crosses space in minutes, and is then absorbed on Earth."
+    },
+    {
+     "t": "mcq",
+     "p": "Remember the Mirror Sun, where a covered mirror made a picture of the Sun on a wall. The hole in the paper was square. What shape was the spot on the far wall?",
+     "opts": [
+      "Square, like the hole",
+      "Round, like the Sun",
+      "A triangle",
+      "It had no shape"
+     ],
+     "a": 1,
+     "why": "Far from the mirror, the spot is a picture of the Sun, so it is round whatever the shape of the hole. Close to the mirror it is square. A strong answer says the spot is a picture of the Sun.",
+     "how": "a2"
+    },
+    {
+     "t": "write",
+     "p": "People in Chennai often paint their roofs white to keep their rooms cooler in summer. Explain why this works.",
+     "lines": 3,
+     "a": "White paint reflects most of the sunlight that falls on it. So less light is absorbed by the roof and turned into heat, and less heat gets into the rooms below.",
+     "why": "A strong answer uses what the ice test showed: white absorbs less sunlight than black."
+    },
+    {
+     "t": "sort",
+     "p": "Sort each part of sunlight by what it does.",
+     "cats": [
+      "We see it",
+      "We feel it as warmth, but cannot see it",
+      "It fades colours and burns skin, but we cannot see it"
+     ],
+     "items": [
+      [
+       "visible light, the colours of the rainbow",
+       "We see it"
+      ],
+      [
+       "infrared light",
+       "We feel it as warmth, but cannot see it"
+      ],
+      [
+       "ultraviolet light",
+       "It fades colours and burns skin, but we cannot see it"
+      ]
+     ],
+     "a": "see items",
+     "why": "Sunlight is more than the light we see. Infrared lies beyond red, and ultraviolet beyond violet. A strong answer gives an example of each, such as warmth on the skin or a faded curtain."
+    },
+    {
+     "t": "draw",
+     "p": "Draw the Sun cut in half like an orange. Show the core in the middle, a wiggly path for the energy getting out, and a straight arrow from the surface to a small Earth.",
+     "a": "A circle with a small centre labelled core, a zigzag line from the core to the edge, and a straight arrow from the edge to a small Earth, labelled 8 minutes.",
+     "why": "A strong drawing shows that the trip inside the Sun is slow and zigzag, while the trip across space is straight and fast.",
+     "art": "A blank box."
+    },
+    {
+     "t": "mcq",
+     "p": "Why can the Sun shine in space, where there is no air, when a fire cannot?",
+     "opts": [
+      "The Sun carries its own air",
+      "The Sun shines by fusion, which needs no oxygen",
+      "Space is full of oxygen",
+      "The Sun is not really shining"
+     ],
+     "a": 1,
+     "why": "A fire needs oxygen. The Sun's light comes from hydrogen joining into helium in its core, and that needs no oxygen at all. Picking 'carries its own air' mixes up the Sun with a rocket, which really does carry its own oxygen."
+    },
+    {
+     "t": "fill",
+     "p": "Plants make their food from sunlight, water and air. This is called ____.",
+     "a": [
+      "photosynthesis"
+     ],
+     "why": "Photosynthesis is how plants catch sunlight's energy. Almost every animal, including you, lives on food that plants made this way."
+    },
+    {
+     "t": "mcq",
+     "p": "In the Sun Print project, a key lay on coloured paper in the sun for 6 days. What did the paper look like when the key was lifted?",
+     "opts": [
+      "Faded all over",
+      "A key shape in the old bright colour, with faded paper around it",
+      "A black key shape",
+      "No change at all"
+     ],
+     "a": 1,
+     "why": "The key blocked the sunlight, so the paper under it kept its colour. The rest faded, mostly from ultraviolet light. A strong answer says the key blocked the light.",
+     "how": "p1"
+    },
+    {
+     "t": "perspective",
+     "p": "A family in Madurai is arguing about how to watch a coming solar eclipse.",
+     "views": [
+      {
+       "who": "Grandmother",
+       "says": "Stay indoors with the curtains shut. It is not worth any risk."
+      },
+      {
+       "who": "Kavya, aged 10",
+       "says": "Let's watch it with a colander and a mirror picture. Then nobody looks at the Sun."
+      },
+      {
+       "who": "Kavya's uncle",
+       "says": "I'll just look quickly through my sunglasses."
+      }
+     ],
+     "ask": "Whose plan would you choose? Explain why using what you know about the eye. Then say what is sensible about one of the other plans.",
+     "lines": 5,
+     "a": "A strong answer picks Kavya's plan, because the colander and the mirror make pictures of the Sun, so no sunlight is gathered into anyone's eye. It explains that sunglasses let through far too much light, and the retina has no pain nerves to give a warning, so the uncle's plan is dangerous. It also gives the grandmother her due: staying indoors is completely safe, and she is right to take the risk seriously, though the family would miss the eclipse.",
+     "why": "There is a real choice between being completely safe and seeing the eclipse safely. Only the uncle's plan is truly harmful."
+    },
+    {
+     "t": "write",
+     "p": "Many people think the Sun must be the biggest star there is, because it looks so big. How could you explain to them why it looks so big?",
+     "lines": 3,
+     "a": "The Sun looks big only because it is so much closer than the other stars. Many stars are much bigger than the Sun, but they are so far away that they look like tiny dots.",
+     "why": "A strong answer says that distance changes how big a thing looks, and gives an example, such as a building that looks tiny from far away."
+    },
+    {
+     "t": "match",
+     "p": "Match each living thing to how they use the Sun.",
+     "pairs": [
+      [
+       "a tulsi plant",
+       "catches sunlight to make her food"
+      ],
+      [
+       "a garden lizard",
+       "basks to warm her body before hunting"
+      ],
+      [
+       "a person",
+       "makes vitamin D in the skin with a little sunlight"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each living thing uses sunlight to solve their own problem: food, warmth, or strong bones."
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Think Like a Sun Scientist (challenge)",
+   "tier": "challenge",
+   "mins": 30,
+   "items": [
+    {
+     "t": "write",
+     "p": "Your eye's lens focuses the Sun's light onto the retina, but the retina has no pain nerves. Why does that make looking at the Sun even more dangerous?",
+     "lines": 4,
+     "a": "If the retina could feel pain, you would look away at once, as you pull your hand away from a hot pan. Because it has no pain nerves, nothing warns you, and you can keep looking while it is being harmed, and you only find out later, when part of what you see is blurred or dark.",
+     "why": "A strong answer compares it with a part of the body that feels pain, and says that pain is a warning."
+    },
+    {
+     "t": "mcq",
+     "p": "Farida's magnifying glass is 5 cm across. It packs its sunlight into a dot 1 mm across. Her friend says the dot gets the same amount of light as a 1 mm patch of plain sunshine. What is wrong?",
+     "opts": [
+      "Nothing, light is light",
+      "The dot gets all the light that fell on the whole glass, far more than a 1 mm patch",
+      "The dot gets less light than a 1 mm patch",
+      "The glass makes the light colder"
+     ],
+     "a": 1,
+     "why": "The glass catches the sunlight falling on its whole 5 cm face and sends it all into the 1 mm dot. That is hundreds of times more light than a 1 mm patch of plain sunshine gets. A strong answer compares the size of the glass with the size of the dot.",
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "Lord Kelvin worked out that the Sun had probably not shone for 100 million years. Geologists said the Earth's rocks were much older. Who turned out to be right, and what did Kelvin not know about?",
+     "lines": 4,
+     "a": "The geologists were right. Kelvin did not know about nuclear fusion, joining hydrogen into helium, which gives the Sun enough energy to shine for billions of years.",
+     "why": "A strong answer says that a calculation can be careful and still wrong if it misses something nobody knew about yet."
+    },
+    {
+     "t": "mcq",
+     "p": "Meenakshi left a glass bottle full of water on a sunny windowsill, next to a pile of old newspapers. Why is this a risk?",
+     "opts": [
+      "The bottle can act as a lens and gather sunlight into a hot spot on the paper",
+      "The water will boil",
+      "The bottle will melt",
+      "There is no risk"
+     ],
+     "a": 0,
+     "why": "A round bottle of water is thicker in the middle, like a lens. It can gather sunlight into a hot spot. On paper, that spot can smoulder and start a fire. Fires have really started this way."
+    },
+    {
+     "t": "write",
+     "p": "In the ice test, Divya's two ice cubes melted at the same time. Suggest two reasons why her result came out differently from yours.",
+     "lines": 4,
+     "a": "The sky may have been cloudy, so there was little sunlight for either paper to absorb. Or the plates may have been in the shade, or the papers may have been of very similar colours. One cube may also have been bigger.",
+     "why": "A strong answer thinks about what makes the test fair, and about whether there was enough sunlight to make a difference.",
+     "how": "e2"
+    },
+    {
+     "t": "truefalse",
+     "p": "If the Sun suddenly stopped shining, the Earth would go dark at that same moment.",
+     "a": false,
+     "why": "False. The last light to leave the Sun would still be on its way. It takes about 8 minutes to reach us, so we would see the Sun for about 8 more minutes."
+    },
+    {
+     "t": "mcq",
+     "p": "On a clear day the Sun looks pale yellow. At sunset over the sea, it looks orange. In space, it looks white. What causes the change?",
+     "opts": [
+      "The Sun changes colour during the day",
+      "Our air scatters away blue light, and at sunset the light passes through much more air",
+      "The sea paints the Sun orange",
+      "Our eyes get tired"
+     ],
+     "a": 1,
+     "why": "The Sun's light is white. Air scatters blue light more than other colours. At sunset the light crosses much more air, so even more blue and green are scattered away, leaving orange and red. A strong answer mentions how much air the light passes through."
+    },
+    {
+     "t": "write",
+     "p": "Space between the Sun and the Earth is nearly empty. Explain why sunlight does not warm up empty space, but does warm up your skin.",
+     "lines": 4,
+     "a": "Sunlight turns into heat only when something absorbs it. Empty space has almost nothing in it to absorb the light, so it passes straight through. Your skin absorbs the light, so the light turns into heat there.",
+     "why": "This is the puzzle from the start of the unit. A strong answer says heat appears where light is absorbed."
+    },
+    {
+     "t": "order",
+     "p": "Put these in order, from the one that gets most sunlight onto one spot to the one that gets least.",
+     "items": [
+      "a small piece of black paper in plain sunshine",
+      "a tiny dot made by a big magnifying glass",
+      "a tiny dot made by a small magnifying glass",
+      "a piece of black paper in the shade"
+     ],
+     "a": [
+      "a tiny dot made by a big magnifying glass",
+      "a tiny dot made by a small magnifying glass",
+      "a small piece of black paper in plain sunshine",
+      "a piece of black paper in the shade"
+     ],
+     "why": "A bigger glass gathers more light into its dot. Plain sunshine is not gathered at all. Shade gets the least. A strong answer explains the order with how much light is gathered.",
+     "how": "e1"
+    },
+    {
+     "t": "perspective",
+     "p": "Three people are talking about solar panels on the roof of their building in Hyderabad.",
+     "views": [
+      {
+       "who": "Swathi, an engineer",
+       "says": "Solar panels turn sunlight into electricity, and they give out no smoke. Every roof should have them."
+      },
+      {
+       "who": "Mrs Rao, who lives on the top floor",
+       "says": "The roof is the only place where I can dry my clothes and vadams. Panels would take that away."
+      },
+      {
+       "who": "Ravi, a shopkeeper",
+       "says": "Panels cost a lot of money to put in. It takes years for them to pay for themselves."
+      }
+     ],
+     "ask": "What would you advise the building to do? Use what you know about sunlight's energy. Then answer one of the other people fairly.",
+     "lines": 6,
+     "a": "A strong answer uses the idea that sunlight carries a lot of energy, which panels can turn into electricity without smoke. It takes the other views seriously: it might suggest putting panels on raised frames so the roof below can still be used, or covering only part of the roof, and it accepts that the cost is real but is paid back over the years.",
+     "why": "This is a real trade-off. Clean electricity, space for daily life, and cost all matter, and a good answer weighs them."
+    },
+    {
+     "t": "draw",
+     "p": "Design a poster for your building telling children three safe ways to watch a solar eclipse. Draw each way.",
+     "a": "Three clear drawings, such as a colander making little suns on paper, a covered mirror making a Sun picture on a wall, and a child wearing eclipse glasses marked ISO 12312-2, with the words 'Never look at the Sun'.",
+     "why": "A strong poster shows ways where nobody looks straight at the Sun, and says why in one short line.",
+     "art": "A blank poster outline."
+    },
+    {
+     "t": "mcq",
+     "p": "In the Mirror Sun, Lakshmi's round spot was 5 cm wide on a wall 500 cm away. What does 500 divided by 5 tell her?",
+     "opts": [
+      "The Sun is about 100 times further away than it is wide",
+      "The Sun is 100 km away",
+      "The Sun is 100 times bigger than the Earth",
+      "The mirror is 100 times too small"
+     ],
+     "a": 0,
+     "why": "The spot is a picture of the Sun. The picture's width and distance are in the same proportion as the Sun's real width and distance. So the Sun is about 100 times further away than it is wide. Scientists measure about 108.",
+     "how": "a2"
+    },
+    {
+     "t": "write",
+     "p": "A plant on a dark shelf grows long and pale. Describe the plant's problem, and how growing long might help her.",
+     "lines": 4,
+     "a": "The plant needs sunlight to make her food, and on a dark shelf she is not getting enough. Growing long stretches her towards wherever there might be more light, so she has a chance of reaching it.",
+     "why": "A strong answer starts with the plant's own problem, needing light for food, and then explains how her growth helps."
+    },
+    {
+     "t": "fill",
+     "p": "In the Sun's core, hydrogen joins to make ____, and the missing bit of material becomes energy.",
+     "a": [
+      "helium"
+     ],
+     "why": "This is nuclear fusion. Arthur Eddington suggested it in 1920, after Francis Aston found that a helium atom weighs a little less than four hydrogen atoms."
+    },
+    {
+     "t": "label",
+     "p": "Label the drawing of the Sun Dot experiment: magnifying glass, sunlight, the tiny dot, black paper, steel plate.",
+     "a": "Sunlight coming from the top, the magnifying glass in the middle, lines meeting at the tiny dot on the black paper, and the steel plate underneath.",
+     "why": "A strong label shows that the light from the whole glass meets at one dot.",
+     "art": "A side-view drawing of a hand holding a lens over paper on a plate, with five blank label lines.",
+     "how": "e1"
+    }
+   ]
+  }
+ ],
+ "applications": [
+  "Solar panels on roofs and in fields turn sunlight into electricity.",
+  "Solar water heaters on rooftops heat water with black pipes that absorb sunlight.",
+  "White roof paint keeps homes cooler by reflecting sunlight.",
+  "Farmers and families dry grain, chillies, papads and vadams in the sun.",
+  "Salt is made by letting the Sun evaporate seawater in shallow pans.",
+  "Sun cookers cook food with sunlight and no fuel.",
+  "Solar eclipse viewers and pinhole projectors let people study the Sun safely.",
+  "Space observatories such as India's Aditya-L1 watch the Sun to warn of solar storms that can harm satellites.",
+  "Sunscreen and hats protect skin from ultraviolet light."
+ ],
+ "spotted": [
+  {
+   "text": "Rice vadams, papads and red chillies drying on terraces in the summer sun.",
+   "art": "A Chennai terrace with rows of white vadams and a heap of red chillies drying on cloths."
+  },
+  {
+   "text": "Solar water heaters on the roofs of apartment buildings, with their black pipes facing the sky.",
+   "art": "A solar water heater with a white tank and black pipes on a building roof."
+  },
+  {
+   "text": "Cochin International Airport in Kerala runs on solar power from huge fields of panels.",
+   "art": "Rows of blue solar panels next to an airport runway, with palm trees behind."
+  },
+  {
+   "text": "The salt pans of Thoothukudi in Tamil Nadu, where the Sun dries seawater into salt.",
+   "art": "Flat, shining salt pans with white heaps of salt and workers with baskets."
+  },
+  {
+   "text": "Pongal, in Tamil Nadu, and Makar Sankranti in many states, when families give thanks for the harvest and the Sun.",
+   "art": "A pot of Pongal boiling over in the morning sun in a courtyard decorated with kolam."
+  },
+  {
+   "text": "The Konark Sun Temple in Odisha, built as the Sun's chariot, with great stone wheels.",
+   "art": "One of the great carved stone wheels of the Konark temple, with sunlight on it."
+  },
+  {
+   "text": "A curtain or a shop sign faded pale on the side that faces the Sun.",
+   "art": "A shop sign with bright colours on the shaded part and faded colours on the sunny part."
+  },
+  {
+   "text": "A garden lizard basking on a sunny compound wall in the morning.",
+   "art": "A garden lizard with a reddish throat, lying flat on a sunny wall."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "Why is the Sun's outer layer, the corona, far hotter than its surface?",
+   "why_open": "The surface is about 5,500 degrees Celsius, but the thin corona above it is over a million degrees. Scientists have several ideas, involving the Sun's magnetism, and spacecraft such as Aditya-L1 and NASA's Parker Solar Probe are testing them."
+  },
+  {
+   "q": "Exactly how long does the Sun's energy take to get from the core to the surface?",
+   "why_open": "Nobody can see inside the Sun. Models give answers from about 10,000 to about 170,000 years."
+  },
+  {
+   "q": "Can we forecast the Sun's storms days ahead, like rain?",
+   "why_open": "Scientists can now give some warning of big solar storms, but they cannot yet say reliably which dark spot will erupt, or when."
+  },
+  {
+   "q": "Where are the Sun's brothers and sisters?",
+   "why_open": "The Sun was probably born in a crowd of stars from the same cloud of gas, about 4.6 billion years ago. Those stars have since drifted apart, and astronomers are still trying to find them."
+  },
+  {
+   "q": "Could we ever make fusion work on Earth, to make electricity like the Sun does?",
+   "why_open": "Scientists in many countries, including India, are building fusion machines. Some have made fusion happen for short times, but none yet gives out more useful energy than it takes to run."
+  }
+ ],
+ "ask_kids": [
+  "Which is warmer to sit on right now, the sunny step or the shady one? Why?",
+  "If you could make the Sun's light into anything, what would you make?",
+  "Why do you think a black umbrella feels hotter than a white one in the sun?",
+  "Where in our home does sunlight reach in the morning? In the evening?",
+  "Can you find something at home that the Sun has faded?",
+  "The rice on your plate grew in sunshine. What else on your plate was once sunlight?",
+  "Why do we keep Paati's reading glass in a drawer, not on the windowsill?",
+  "What would you say to a friend who wants to look at the Sun with sunglasses on?",
+  "If the Sun went out, how long would it take before we knew?",
+  "Why do you think the lizard on the wall sits so still in the morning?"
+ ],
+ "jokes": [
+  {
+   "j": "Why did the Sun go to school?",
+   "a": "To get a little brighter."
+  },
+  {
+   "j": "Why doesn't the Sun need to go to university?",
+   "a": "It already has millions of degrees."
+  },
+  {
+   "j": "What did the Sun say when it was introduced to the Earth?",
+   "a": "Pleased to heat you."
+  },
+  {
+   "j": "Why did the vadam lie on the terrace all day?",
+   "a": "It was working on its tan."
+  },
+  {
+   "j": "How does the Sun drink its coffee?",
+   "a": "In a sun-cer."
+  },
+  {
+   "j": "What do you call a sunbeam that is always late?",
+   "a": "Eight minutes behind."
+  },
+  {
+   "j": "Why was the black paper so tired?",
+   "a": "It absorbed everything all day."
+  },
+  {
+   "j": "Why did the white wall stay so calm in the sun?",
+   "a": "It just let everything bounce off."
+  },
+  {
+   "j": "What did the magnifying glass say to the sunlight?",
+   "a": "Let's focus."
+  },
+  {
+   "j": "What is the Sun's favourite day of the week?",
+   "a": "Sunday, of course."
+  },
+  {
+   "j": "Why did the lizard sit on the wall at breakfast time?",
+   "a": "She was waiting for her warm-up."
+  },
+  {
+   "j": "What did the Moon say to the Sun?",
+   "a": "You're so bright, I have to borrow your light."
+  },
+  {
+   "j": "Why did the cloud keep blocking the Sun?",
+   "a": "It wanted to steal the spotlight."
+  },
+  {
+   "j": "What do you call a star that keeps everyone warm?",
+   "a": "A real sun-shine."
+  },
+  {
+   "j": "Why did the sunglasses refuse to look at the Sun?",
+   "a": "They knew they weren't strong enough."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "In the Sun Dot experiment, the tiny dot made black paper smoke in 4 seconds. On white paper, the same dot took 40 seconds. How many times as long did the white paper take?",
+   "answer": "10 times as long.",
+   "explain": "The white paper took 40 seconds and the black paper took 4 seconds. 40 divided by 4 is 10. So the white paper took 10 times as long. Check: 4 + 4 + 4 + 4 + 4 + 4 + 4 + 4 + 4 + 4 = 40.",
+   "math_unit": "math.division.sharing-and-grouping.L3",
+   "context": "This is about the Sun Dot experiment. A grown-up holds a magnifying glass to make a tiny dot of sunlight, and you count the seconds until the paper smokes.",
+   "chart": {
+    "type": "bar",
+    "title": "Seconds until the paper smoked (made-up results)",
+    "x": "Paper",
+    "y": "Seconds",
+    "data": [
+     {
+      "label": "Black paper",
+      "value": 4,
+      "emoji": "⬛"
+     },
+     {
+      "label": "White paper",
+      "value": 40,
+      "emoji": "⬜"
+     }
+    ]
+   },
+   "how": "e1",
+   "why_maths": "Saying 'white took longer' is true, but dividing tells us how much longer, which shows how big a difference the colour makes."
+  },
+  {
+   "problem": "In the Mirror Sun, Lakshmi's round spot of light was 5 cm wide. The wall was 500 cm from the mirror. 500 divided by 5 is 100. What does that tell her about the real Sun?",
+   "answer": "The Sun is about 100 times further away than it is wide.",
+   "explain": "The picture of the Sun and the real Sun are in the same proportion. The picture is 100 times further from the mirror than it is wide. So the Sun is about 100 times further from us than it is wide. Scientists measure about 108, so her answer is close.",
+   "math_unit": "math.division.division-facts.L3",
+   "context": "This is about the Mirror Sun. You cover a mirror with paper, cut a small hole, and throw a picture of the Sun onto a far wall.",
+   "how": "a2",
+   "why_maths": "We can't put a ruler on the Sun. Dividing two measurements we can make at home tells us something true about the Sun itself."
+  },
+  {
+   "problem": "Sunlight takes about 8 minutes and 20 seconds to reach the Earth. How many seconds is that?",
+   "answer": "500 seconds.",
+   "explain": "1 minute is 60 seconds. 8 minutes is 8 × 60 = 480 seconds. Add the 20 extra seconds: 480 + 20 = 500 seconds.",
+   "math_unit": "math.time.duration.L3",
+   "context": "This is about the journey of sunlight across space, from the Sun's surface to the Earth.",
+   "why_maths": "Changing minutes into seconds lets us compare the light's trip with things we can count, like the 4 seconds the paper took to smoke."
+  },
+  {
+   "problem": "About 109 Earths fit in a line across the Sun's face. If each Earth were a 1 cm bead, how long would the line of beads be? Is that more or less than a metre?",
+   "answer": "109 cm, which is a little more than a metre.",
+   "explain": "Each bead is 1 cm. 109 beads in a line make 109 cm. A metre is 100 cm. 109 is 9 more than 100, so the line is 9 cm longer than a metre.",
+   "math_unit": "math.length.standard-units-length.L3",
+   "context": "This is about how big the Sun is compared with the Earth.",
+   "why_maths": "A big number like 109 is hard to picture. Turning it into a line of beads you could lay on the floor shows the size."
+  },
+  {
+   "problem": "In the ice test, Revathi's ice on black paper melted in 18 minutes. Her ice on white paper melted in 27 minutes. Then she tried grey paper. Predict how long the ice on grey paper might take, and explain your guess.",
+   "answer": "Somewhere between 18 and 27 minutes, perhaps about 22 minutes.",
+   "explain": "Grey is between black and white. It should absorb more sunlight than white but less than black. So its ice should melt faster than on white but slower than on black: between 18 and 27 minutes. Halfway is 22 and a half minutes, but the real time depends on how dark the grey is.",
+   "math_unit": "math.patterns.number-patterns.L3",
+   "context": "This is about the ice test. You put an ice cube on black paper and another on white paper in the sun, and time how long each takes to melt.",
+   "chart": {
+    "type": "bar",
+    "title": "Minutes until the ice melted (made-up results)",
+    "x": "Paper",
+    "y": "Minutes",
+    "data": [
+     {
+      "label": "Black paper",
+      "value": 18,
+      "emoji": "⬛"
+     },
+     {
+      "label": "White paper",
+      "value": 27,
+      "emoji": "⬜"
+     }
+    ]
+   },
+   "how": "e2",
+   "why_maths": "Using two results to predict a third, and then testing it, is how scientists check whether they really understand a pattern."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.sky.L3",
+  "title": "Star, Planet, Moon",
+  "note": "Topic-level song for Sun, Moon, stars and planets L3, shared with the other sky units."
+ },
+ "links": [
+  {
+   "title": "NASA Space Place: All About the Sun",
+   "url": "https://spaceplace.nasa.gov/menu/sun/",
+   "kind": "interactive",
+   "why": "Short, clear pages and games about the Sun, made by NASA for children."
+  },
+  {
+   "title": "The Sun Now (NASA Solar Dynamics Observatory)",
+   "url": "https://sdo.gsfc.nasa.gov/data/",
+   "kind": "interactive",
+   "why": "Today's pictures of the Sun from a NASA spacecraft. Look for dark sunspots and bright loops, safely on a screen."
+  },
+  {
+   "title": "Aditya-L1, ISRO",
+   "url": "https://www.isro.gov.in/Aditya_L1.html",
+   "kind": "interactive",
+   "why": "India's first spacecraft to study the Sun, launched from Sriharikota in 2023. Its page has pictures and news."
+  },
+  {
+   "title": "Kodaikanal Solar Observatory",
+   "url": "https://www.iiap.res.in/",
+   "kind": "place",
+   "where": "Kodaikanal, Tamil Nadu",
+   "why": "One of the oldest solar observatories in the world, watching the Sun since 1899. It has a small museum. Check the visiting days on the Indian Institute of Astrophysics website before you go."
+  },
+  {
+   "title": "Udaipur Solar Observatory",
+   "url": "https://www.prl.res.in/",
+   "kind": "place",
+   "where": "Udaipur, Rajasthan",
+   "why": "A solar observatory built on an island in Fatehsagar Lake, where the water keeps the air steady for watching the Sun. Check visiting rules first."
+  },
+  {
+   "title": "Periyar Science and Technology Centre and B. M. Birla Planetarium",
+   "url": "",
+   "kind": "place",
+   "where": "Chennai, Tamil Nadu",
+   "why": "A science centre and planetarium with sky shows about the Sun and stars."
+  },
+  {
+   "title": "Jawaharlal Nehru Planetarium",
+   "url": "",
+   "kind": "place",
+   "where": "Bengaluru, Karnataka",
+   "why": "A planetarium with shows about the Sun, the planets and the stars."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-lens",
+   "item": "A magnifying glass, at least 5 cm across",
+   "kind": "tool",
+   "why": "Needed for the Sun Dot experiment. Glass or clear plastic both work. It is cheap at stationery shops. Reading glasses for long sight may work instead, but more slowly. Keep it in a drawer, never on a sunny windowsill.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+75mm",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Used again in units on light and lenses, and for looking closely at leaves, insects and crystals."
+  },
+  {
+   "id": "b-black",
+   "item": "Black chart paper",
+   "kind": "material",
+   "why": "For the Sun Dot experiment, the ice test and the sun cooker. Paper coloured all over with a black crayon or marker works too.",
+   "url": "https://www.amazon.in/s?k=black+chart+paper",
+   "used_in": [
+    "e1",
+    "e2",
+    "c1"
+   ]
+  },
+  {
+   "id": "b-eclipse",
+   "item": "Eclipse glasses marked ISO 12312-2, from a trusted seller",
+   "kind": "tool",
+   "why": "Only needed if a solar eclipse is coming. These are the only glasses that are safe for looking at the Sun. Check for scratches before use. The colander and the Mirror Sun work without them.",
+   "url": "https://www.amazon.in/s?k=solar+eclipse+glasses+ISO+12312-2",
+   "used_in": [
+    "c2"
+   ]
+  }
+ ],
+ "warmup": [
+  {
+   "q": "Is the Sun a star or a planet?",
+   "a": "A star, the nearest one to us."
+  },
+  {
+   "q": "About how long does sunlight take to reach the Earth?",
+   "a": "About 8 minutes."
+  },
+  {
+   "q": "Is the Sun on fire?",
+   "a": "No. It shines by joining hydrogen into helium."
+  },
+  {
+   "q": "Which gets hotter in the sun, black paper or white paper?",
+   "a": "Black paper."
+  },
+  {
+   "q": "What does a magnifying glass do to sunlight?",
+   "a": "Gathers it into a small dot."
+  },
+  {
+   "q": "Are sunglasses safe for looking at the Sun?",
+   "a": "No, never."
+  },
+  {
+   "q": "What part of the eye can the Sun harm?",
+   "a": "The retina, at the back."
+  },
+  {
+   "q": "What colour is the Sun from space?",
+   "a": "White."
+  },
+  {
+   "q": "Why does a lizard bask in the morning?",
+   "a": "To warm up, so she can move fast."
+  },
+  {
+   "q": "Name one safe way to watch the Sun.",
+   "a": "A pinhole viewer, a colander, or a mirror picture on a wall."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "a1",
+   "story",
+   "e1",
+   "big_questions",
+   "cards",
+   "g1",
+   "a2"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz",
+   "story",
+   "summary",
+   "terms",
+   "e2",
+   "g1",
+   "videos",
+   "ws-core",
+   "a2",
+   "a3",
+   "agreed",
+   "challenging",
+   "a4",
+   "g2",
+   "p1",
+   "ws-stretch",
+   "c1",
+   "c2",
+   "big_questions",
+   "ws-challenge",
+   "open_questions"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "e2",
+   "g1",
+   "ws-core",
+   "a2",
+   "a3"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: concept row 'Reflection, Shadow, Refraction, Rainbows, Prism, Sun's movement' (light bounces and bends; visit a solar observatory; Sun salutations and sunrise music, used here as the sunlight-on-your-back practice)",
+   "ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: SCI Cards for Mária Telkes, the Sun Queen (sun ovens, used in the sun cooker challenge), Maria Mitchell (sunspot photography) and Ruby Payne-Scott (radio bursts from the Sun)",
+   "Prerequisite unit sci.sky.sun-moon-stars.L3 (built on, not repeated: the Sun as a star by distance, pinhole viewer and Cecilia Payne's story are there; this unit adds absorption, focusing, eye safety and how the Sun is not a fire)",
+   "Neighbouring units checked so as not to repeat their tests: sci.energy.energy-around-us.L3 (water in sun and shade), sci.sky.solar-system.L3 (light spreading with distance, ice under a sunshade), sci.day-night-seasons.day-and-night.L3 (shadow stick, sundial)"
+  ],
+  "science": [
+   "Helmholtz, 'On the interaction of natural forces', lecture, 1854 (contraction as the Sun's heat source)",
+   "Thomson (Lord Kelvin), 'On the Age of the Sun's Heat', Macmillan's Magazine 5, 1862",
+   "Eddington, 'The Internal Constitution of the Stars', address to the British Association, Cardiff, 1920; Aston, Philosophical Magazine 1920 (mass of helium)",
+   "Payne, Stellar Atmospheres, Harvard thesis, 1925",
+   "Bethe, 'Energy Production in Stars', Physical Review 55, 1939",
+   "Herschel, Philosophical Transactions of the Royal Society 90, 1800 (infrared); Ritter, 1801 (ultraviolet)",
+   "NASA Sun fact sheet and NASA Space Place (size, distance, temperatures, age, 170,000-year figure); Mitalas and Sills, Astrophysical Journal 401, 1992 (about 170,000 years); shorter estimates near 10,000 years in other textbooks",
+   "American Astronomical Society and NASA eclipse safety guidance (ISO 12312-2 filters, welder's glass shade 14, sunglasses unsafe)",
+   "Published eye-clinic reports of solar retinopathy (harm to the retina) after solar eclipses, in India and other countries (the general finding is well known; individual reports not checked here)",
+   "Kodaikanal Solar Observatory, Indian Institute of Astrophysics (founded 1899)",
+   "ISRO, Aditya-L1 mission pages (launched 2 September 2023)"
+  ]
+ },
+ "roots": {
+  "context": "We have learned what the Sun is, how its light turns into heat, and why a lens can make it fierce. Now we ask what the Sun's light tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "Under the lens, black paper smoked in seconds, though the sunlight on it had only felt warm. The lens made no light. It gathered the light already falling on it into one dot. The lens in your eye gathers sunlight the same way, onto a spot that has no pain nerves.",
+   "habit": "We judge whether something is harmful by how it feels. Sunlight feels gentle, so it seems safe. But how strong light is depends on how tightly it is gathered, and the spot in the eye where it is gathered has no pain nerves.",
+   "evidence": "In the Sun Dot experiment, the big circle of light never made the paper smoke in 60 seconds. The tiny dot made from the same light did it in a few seconds. Nothing was added. The light was only packed into a smaller place."
+  },
+  "three": {
+   "who_am_i": "Your skin, your eyes and your food all take in sunlight. Part of you is always catching the Sun.",
+   "what_is_life": "Almost every living thing runs on sunlight caught by plants, and a lizard on a wall warms up in the sunshine to start her day.",
+   "what_is_this_world": "The Sun is one star among billions. The Earth catches only a tiny share of its light, and that share warms the whole world."
+  },
+  "thread": "All the Sun's light starts in one small place, its core. From there it spreads out in every direction, across space. When it lands, it becomes many different things: warmth on your back, food in a leaf, a dry vadam, a faded curtain. A lens shows that the same light can be gentle or fierce, depending only on how much of it meets in one spot. One source becomes all these things, without ever changing what it is.",
+  "teachings": [
+   {
+    "source": "Chandogya Upanishad 8.6.2",
+    "teaching": "Just as a long road runs between two villages, the rays of the Sun run between the Sun and us. They start from the Sun and enter into the channels of the body.",
+    "link": "Science agrees that sunlight really does enter us. Our skin absorbs it as warmth, our eyes catch it on the retina, and our food is made from it."
+   },
+   {
+    "source": "Heraclitus, fragment 6 (Diels-Kranz numbering), about 500 BCE",
+    "teaching": "The Sun is new each day.",
+    "link": "Every moment, the Sun's core turns about 4 million tonnes of material into energy. The light reaching you today is not yesterday's light. It is new light, made from the Sun itself."
+   },
+   {
+    "source": "Thich Nhat Hanh, The Heart of Understanding (1988)",
+    "teaching": "If you look deeply into a sheet of paper, you can see the sunshine in it. Without sunshine, the forest cannot grow, and without the forest there is no paper.",
+    "link": "The paper in the Sun Dot experiment was made from trees that grew with sunlight. In the experiment, sunlight met paper made from sunlight."
+   }
+  ],
+  "science": [
+   {
+    "text": "The Sun shines by nuclear fusion, joining hydrogen into helium in its core.",
+    "status": "settled"
+   },
+   {
+    "text": "The Earth catches only about one part in two billion of the Sun's light.",
+    "status": "settled"
+   },
+   {
+    "text": "Why the Sun's corona is millions of degrees hotter than its surface.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "Many physicists",
+   "view": "Sunlight is energy. It turns into heat in a leaf or a sheet of paper because of how atoms absorb light, not because the Sun gives anything to anyone. Calling it a gift or a road into the body is a lovely picture, but it adds nothing to the physics."
+  },
+  "practice": {
+   "title": "Sunlight on your back",
+   "mins": 3,
+   "say": "Let's sit in a patch of sunlight with our backs to the window. Close your eyes. Feel the warmth on your back. This light left the Sun about 8 minutes ago. Now it is turning into warmth, right here on your skin. Take six slow breaths. Notice exactly where you feel the warmth. Then open your eyes, without turning to look at the Sun.",
+   "kid": "Sit in the sunlight, back to the window. Close your eyes. Feel the warmth on your back. That light left the Sun 8 minutes ago. Breathe slowly six times. Where do you feel it?"
+  },
+  "ask": [
+   "The same sunlight felt gentle on your hand and burned paper under a lens. Is the light gentle or fierce, or is it neither?",
+   "Your eye gathers light onto a spot with no pain nerves. What else might be harming us without any warning?",
+   "The Sun's light becomes warmth, food and a faded curtain. Is it still sunlight, once it has become something else?"
+  ],
+  "art": "A child sitting cross-legged on a tiled floor in a patch of sunlight, back to the window, eyes closed, with a faint line of light drawn from a distant Sun through the window to her back, and a small leaf and a vadam drawn along the line."
+ },
+ "playtest": "Every experiment, activity, game, project and challenge was walked through as if in a city flat today. The Sun Dot needs direct sun, so it says to use a balcony, terrace or open window between about 10 and 3, and to wait for another day if it is cloudy. A grown-up holds the lens in every step, the paper sits on a steel plate with water beside it, and the lens goes into a drawer at the end. With a 5 cm lens in strong sun, black paper smokes in a few seconds and white paper takes much longer or does not smoke within 60 seconds, so the 60-second limit keeps the test short. Reading glasses are offered as a slower alternative. Sunglasses are worn only against the glare of the dot, and every step repeats that nobody looks at the Sun. The ice test uses ice from the same tray on identical steel plates, and checks every 5 minutes. The Mirror Sun needs a shaded wall at least 3 metres away. The steps say the spot is square close up and round far away, and that sunspots are too small to see. The Sun Print uses kite or tissue paper because it fades within a few days, and says to leave it longer if needed. Both games work for one child alone. The spine (intro, sun and shade, Sun Dot, explanations, Roots and quiz) fits about 85 minutes.",
+ "how_we_found_out": {
+  "story": "For a long time, people pictured the Sun as a giant fire. In the 1800s, scientists checked this idea with numbers. A ball of coal as big as the Sun, burning as brightly, would burn out in a few thousand years. But rocks and fossils showed that the Earth was far older. In 1854 Hermann von Helmholtz, a German scientist, suggested that the Sun shines because it is slowly shrinking, and the squeezing heats it. In 1862 Lord Kelvin, a famous British scientist, used this idea. He wrote that the Sun had probably not shone for 100 million years. Geologists, who study rocks, said the Earth's rocks needed much longer than that. In 1920 Arthur Eddington, an English astronomer, pointed to a new measurement by Francis Aston: a helium atom weighs a little less than four hydrogen atoms. If the Sun joins hydrogen into helium, the missing material could become energy, enough for billions of years. In 1925 Cecilia Payne showed that the Sun is mostly hydrogen, so the fuel is there. In 1939 Hans Bethe worked out how the joining happens. The Sun is not a fire, and it has shone for about 4.6 billion years.",
+  "who": "Hermann von Helmholtz and Lord Kelvin, who were wrong, then Arthur Eddington, Francis Aston, Cecilia Payne and Hans Bethe",
+  "when": "1854 to 1939",
+  "wrong_idea": "People thought the Sun was a giant fire, and later that it shone by slowly shrinking. Both would have used up the Sun in far less time than the Earth's rocks show it has existed. Fusion, joining hydrogen into helium, gives enough energy for billions of years."
+ }
+}

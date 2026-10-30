@@ -1,0 +1,2956 @@
+{
+ "id": "sci.sky.moons-asteroids-comets.L3",
+ "title": "Moons, asteroids and comets: the smaller worlds, and why shooting stars glow",
+ "level": 3,
+ "summary": {
+  "text": "A shooting star is not a star. Most are grains of space dust, about as small as a grain of rava, burning up high in our air. Many of these grains were left behind by comets. A comet is a lump of ice, dust and rock. Near the Sun, some of its ice turns to gas, and the gas and dust stream away as a long tail. Asteroids are lumps of rock and metal, and most of them go round the Sun between Mars and Jupiter. Most planets have moons too. Mars has two small moons, and Jupiter and Saturn have dozens each.",
+  "art": "A night sky over the water tanks on city rooftops, with a bright shooting star streaking across. Far above, a comet with a glowing tail, a lumpy grey asteroid, and Jupiter with four tiny moons beside it."
+ },
+ "intro": {
+  "hook": "Have you ever seen a shooting star? It is not a star at all. Most shooting stars are made by a grain of dust no bigger than a grain of rava. So how can something so small make a light you can see from 100 kilometres away?",
+  "text": "In this unit you find out. You meet the smaller worlds of the solar system: moons, asteroids and comets. You make a comet from ice and dirt, and watch what happens to it in the sun. And you find out where the dust that makes shooting stars comes from.",
+  "art": "A child on a terrace at night pointing at a thin streak of light in the sky, with a grain of rava shown huge in a circle beside the streak."
+ },
+ "outcomes": [
+  "I can say that most planets have moons, and name the moons of Mars and the four big moons of Jupiter.",
+  "I can explain the difference between an asteroid and a comet.",
+  "I can run a fair test with two ice comets and say what happens to their ice and dirt in the sun.",
+  "I can explain why a comet's tail points away from the Sun.",
+  "I can tell a meteoroid, a meteor and a meteorite apart, and explain why a shooting star glows.",
+  "I can explain that a meteor shower happens when the Earth passes through dust left behind by a comet.",
+  "I can tell how people found out that stones really do fall from the sky."
+ ],
+ "cards_mins": 15,
+ "terms": [
+  {
+   "term": "Moon",
+   "meaning": "A natural world that goes round a planet. A moon is also called a natural satellite.",
+   "example": "Our Moon goes round the Earth once in about 27 days. Mars has two moons, Phobos and Deimos.",
+   "art": "The Earth with our Moon beside it, and a curved arrow showing the Moon going round."
+  },
+  {
+   "term": "Orbit",
+   "meaning": "The path one thing takes as it goes round another, again and again.",
+   "example": "A moon orbits its planet. A planet, an asteroid or a comet orbits the Sun.",
+   "art": "A dotted oval path round the Sun, with a small planet on it."
+  },
+  {
+   "term": "Asteroid",
+   "meaning": "A lump of rock, or rock and metal, that goes round the Sun. Asteroids are much smaller than planets, and most are not round.",
+   "example": "Ceres is the biggest asteroid. It is about 940 km wide, about the distance from Chennai to Pune in a straight line.",
+   "art": "A grey, lumpy, potato-shaped rock covered in small craters, floating in black space."
+  },
+  {
+   "term": "Asteroid belt",
+   "meaning": "The wide ring of space between Mars and Jupiter where most asteroids go round the Sun.",
+   "example": "The asteroids in the belt are very far apart. Spacecraft fly through it without hitting any.",
+   "art": "The Sun, the four rocky planets, then a scattered ring of tiny dots, then Jupiter."
+  },
+  {
+   "term": "Comet",
+   "meaning": "A lump of ice, dust and rock that goes round the Sun. Near the Sun, its ice turns to gas and it grows a glowing head and a long tail.",
+   "example": "Halley's Comet comes near the Sun about every 76 years. It was last seen in 1986.",
+   "art": "A small dark lump with a glowing cloud round it and two long tails streaming away from the Sun."
+  },
+  {
+   "term": "Nucleus of a comet",
+   "meaning": "The solid lump at the centre of a comet, made of ice, dust and rock. It is usually a few kilometres across.",
+   "example": "The nucleus of Halley's Comet is about 15 km long, and darker than coal.",
+   "art": "A dark, lumpy chunk with bright jets of gas shooting out from its sunny side."
+  },
+  {
+   "term": "Coma",
+   "meaning": "The glowing cloud of gas and dust that forms round a comet's nucleus when it comes near the Sun.",
+   "example": "A comet's coma can be wider than the whole Earth, even though the nucleus is only a few kilometres across.",
+   "art": "A tiny dark dot inside a big, soft, glowing ball of mist."
+  },
+  {
+   "term": "Sublimation",
+   "meaning": "When a solid turns straight into a gas, without first melting into a liquid.",
+   "example": "In space, a comet's ice does not melt into water. It sublimates, turning straight into gas.",
+   "art": "A block of ice with wisps of gas rising straight off it, and no puddle underneath."
+  },
+  {
+   "term": "Meteoroid",
+   "meaning": "A small piece of rock or dust travelling through space. Most are smaller than a grain of sand.",
+   "example": "Many meteoroids are bits of dust left behind by comets.",
+   "art": "Tiny specks of dust drifting through black space."
+  },
+  {
+   "term": "Meteor",
+   "meaning": "The streak of light we see when a meteoroid rushes into the Earth's air and burns up. It is also called a shooting star.",
+   "example": "On a dark night you may see a meteor flash across the sky in less than a second.",
+   "art": "A thin bright streak of light across a starry sky."
+  },
+  {
+   "term": "Meteorite",
+   "meaning": "A piece of space rock that survives the fall through the air and lands on the ground.",
+   "example": "Most meteorites are found in deserts and on the ice of Antarctica, where dark stones are easy to spot.",
+   "art": "A dark, smooth-crusted stone lying on white ice."
+  },
+  {
+   "term": "Meteor shower",
+   "meaning": "A night when many more meteors than usual are seen. It happens when the Earth passes through a stream of dust left by a comet or an asteroid.",
+   "example": "The Geminid meteor shower comes every year around 13 and 14 December.",
+   "art": "Several shooting stars that all seem to start from the same small patch of sky."
+  },
+  {
+   "term": "Crater",
+   "meaning": "A round hollow made when something hits the ground very fast.",
+   "example": "The Moon is covered in craters. Lonar Lake in Maharashtra fills a crater made by a meteorite long ago.",
+   "art": "A round lake with steep sides, seen from above, surrounded by green trees."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "Most planets have moons",
+   "status": "defined",
+   "definition": "A moon is a natural world that goes round a planet. Six of the eight planets have moons. Only Mercury and Venus have none.",
+   "description": "The Earth has one moon. Mars has two small ones, Phobos and Deimos. They are lumpy, like potatoes. Phobos is about 22 kilometres across and Deimos about 12. The giant planets have many moons. Jupiter has more than 90 known moons, and Saturn more than 270. Uranus and Neptune have many more than the Earth too. Most of these moons are small rocks, but a few are big worlds. New small moons are still being found, so these numbers keep going up.",
+   "examples": [
+    "Ganymede, a moon of Jupiter, is the biggest moon in the solar system. It is wider than the planet Mercury.",
+    "Titan, a moon of Saturn, has thick air, clouds and lakes. The lakes are not water. They are a liquid called methane, because Titan is far colder than any freezer.",
+    "Our Moon is the fifth biggest moon in the solar system."
+   ],
+   "perspectives": [],
+   "art": "A row of moons drawn to the same scale: big Ganymede and Titan, then Callisto, Io, our Moon and Europa, and two tiny lumpy moons of Mars at the end.",
+   "context": "This card is about the moons of other planets. The Earth is not the only planet with a moon."
+  },
+  {
+   "concept": "Jupiter's four big moons",
+   "status": "defined",
+   "definition": "Jupiter's four biggest moons are Io, Europa, Ganymede and Callisto. They are called the Galilean moons, after Galileo, who saw them in January 1610.",
+   "description": "Galileo pointed his small telescope at Jupiter and saw three, then four, tiny dots in a line beside the planet. Night after night, the dots changed places. Sometimes a dot was on the left, sometimes on the right, sometimes it was missing. Stars do not move like that. Galileo worked out that the dots were moons going round Jupiter. This mattered a lot, because many people then taught that everything in the sky goes round the Earth. Here were four things going round something else. You can see these moons yourself with ordinary binoculars held very still.",
+   "examples": [
+    "Io has hundreds of volcanoes. It is the most volcanic place in the solar system.",
+    "Europa is covered in ice. Under the ice there is very likely a deep, salty ocean.",
+    "Callisto is covered in so many craters that they overlap."
+   ],
+   "perspectives": [],
+   "art": "Jupiter as a striped disc with four tiny dots in a line beside it, as they look through binoculars.",
+   "context": "This card is about how the moons of Jupiter were found, and why that changed what people thought."
+  },
+  {
+   "concept": "Asteroids",
+   "status": "defined",
+   "definition": "An asteroid is a lump of rock, or rock and metal, that goes round the Sun. Most asteroids are in the asteroid belt, between Mars and Jupiter.",
+   "description": "Asteroids are pieces left over from when the planets formed, about 4.6 billion years ago. More than a million asteroids are known. The biggest, Ceres, is about 940 km wide, but most are much smaller, from the size of a house to the size of a town. Small asteroids are not round. Their pull, called gravity, is too weak to squeeze them into a ball. So they look like lumpy potatoes. Spacecraft have visited asteroids, and two, Hayabusa2 from Japan and OSIRIS-REx from the United States, brought bits of asteroids back to Earth.",
+   "examples": [
+    "Ceres was the first asteroid found, on 1 January 1801, by Giuseppe Piazzi in Palermo, Italy.",
+    "Some asteroids are mostly iron and nickel, like a lump of metal.",
+    "In 2022, a NASA spacecraft called DART crashed into a small asteroid on purpose and changed its path a little."
+   ],
+   "perspectives": [],
+   "art": "Three asteroids of different sizes side by side: a big round-ish Ceres, a long potato-shaped one, and a small metal-grey one.",
+   "context": "This card is about asteroids: the rocky leftovers that go round the Sun, mostly between Mars and Jupiter."
+  },
+  {
+   "concept": "Comets",
+   "status": "defined",
+   "definition": "A comet is a lump of ice, dust and rock that goes round the Sun, usually on a long, stretched path. Near the Sun, its ice turns to gas, and it grows a glowing head and tails.",
+   "description": "Most of the time, a comet is far out in the cold, beyond the planets. There it is just a dark, frozen lump a few kilometres across. Its path brings it in close to the Sun, then swings it far out again. As it comes near the Sun, sunlight warms it. Its ice sublimates, which means it turns straight into gas, without melting into water first. The gas carries dust out with it. This makes a glowing cloud called the coma, and long tails. The dust that stays behind builds up as a dark crust on the comet. That is why the nucleus of Halley's Comet is darker than coal. In 1950, the American astronomer Fred Whipple called comets 'dirty snowballs'.",
+   "examples": [
+    "In Tamil and Malayalam, a comet is called vaal natchathiram or vaal nakshatram, the 'tail star'.",
+    "Caroline Herschel found eight comets between 1786 and 1797. She was one of the first women paid to do science.",
+    "Maria Mitchell found a comet from a rooftop in America on 1 October 1847 and became famous for it."
+   ],
+   "perspectives": [],
+   "art": "A comet's journey drawn as a long stretched oval round the Sun: a small dark dot far out, and a bright comet with a long tail where the path passes close to the Sun.",
+   "context": "This card is about comets: what they are made of, and why they only grow tails near the Sun. Your ice comet test shows the same change."
+  },
+  {
+   "concept": "Why a comet's tail points away from the Sun",
+   "status": "defined",
+   "definition": "A comet's tails always point away from the Sun, whichever way the comet is moving. Sunlight and a stream of tiny particles from the Sun, called the solar wind, push the gas and dust outwards.",
+   "description": "On Earth, when you run, your hair streams out behind you. A comet's tail is different. The Sun is always pushing outwards, a little like a fan that blows in every direction at once. So the tail is pushed away from the Sun. When a comet is heading in towards the Sun, its tail is behind it. When it has passed the Sun and is going away, its tail goes in front of it. Most bright comets have two tails. The gas tail is thin, straight and bluish. The dust tail is wider, curved and yellowish-white, because the dust is pushed less strongly and drifts behind a little.",
+   "examples": [
+    "The fan test shows this: with the fan on, the tissue tail points away from the fan, even when you walk away from it.",
+    "Comet NEOWISE, seen from India in July 2020, showed a curved dust tail and a faint straight gas tail.",
+    "The Sun's push is very gentle, but in space there is no air to slow the dust down."
+   ],
+   "perspectives": [],
+   "art": "The Sun in the middle and a comet drawn at four places round its path, with its tail always pointing straight away from the Sun.",
+   "context": "This card explains which way a comet's tail points, and why. It is not like hair blowing behind a runner."
+  },
+  {
+   "concept": "Meteoroid, meteor and meteorite",
+   "status": "defined",
+   "definition": "A meteoroid is a small piece of rock or dust in space. When it rushes into the Earth's air and glows, the streak of light is a meteor. If a piece survives and lands on the ground, it is a meteorite.",
+   "description": "These three words are about the same piece of space rock at three moments. Out in space, it is a meteoroid. As it burns through the air, we see a meteor, which people also call a shooting star. If any of it reaches the ground, that piece is a meteorite. Almost all meteors come from grains so small that they burn up completely, high in the air. Only bigger pieces, about the size of a pebble or more, leave something behind to land.",
+   "examples": [
+    "A grain of dust the size of a grain of rava makes a meteor, but leaves no meteorite.",
+    "A fireball is a very bright meteor, made by a bigger piece, about the size of a pebble or larger.",
+    "In 1803, thousands of meteorites fell near the town of L'Aigle in France."
+   ],
+   "perspectives": [],
+   "art": "Three pictures in a row: a grain in space labelled meteoroid, a streak of light in the sky labelled meteor, and a dark stone on the ground labelled meteorite.",
+   "context": "This card sorts out three words that people often mix up."
+  },
+  {
+   "concept": "Why a shooting star glows",
+   "status": "defined",
+   "definition": "A meteoroid enters the air very fast, often about 30 kilometres every second. It squashes the air in front of it so hard that the air and the grain become extremely hot. The grain turns into glowing gas.",
+   "description": "At 30 kilometres a second, a grain would cross from Chennai to Bengaluru in about 10 seconds. That is far faster than a bullet. The grain cannot push the air out of its way in time, so the air in front of it is squashed. Squashing air makes it hot, and at this speed it becomes hotter than a furnace. The grain heats up and turns into gas, and the hot gas glows. This happens very high up, about 80 to 120 kilometres above the ground. That is why a tiny grain can make a light you see from far away. It is not the grain that is big. It is the speed.",
+   "examples": [
+    "When you pump air into a bicycle tyre, the end of the pump gets warm. Squashing air heats it up.",
+    "Spacecraft coming back to Earth need heat shields for the same reason.",
+    "Most shooting stars last less than a second."
+   ],
+   "perspectives": [],
+   "art": "A tiny grain with a glowing ball of hot air in front of it and a long bright trail behind, high above the clouds.",
+   "context": "This card answers the question from the start: how a grain as small as rava makes a light you can see from far away."
+  },
+  {
+   "concept": "Meteor showers come from comet dust",
+   "status": "defined",
+   "definition": "A comet leaves a trail of dust along its path round the Sun. If the Earth's path crosses that trail, the Earth runs into the dust on the same dates every year, and we see a meteor shower.",
+   "description": "Every time a comet passes the Sun, it loses some ice and dust. The dust spreads out slowly along the comet's path, like a dusty ring round the Sun. The Earth goes round the Sun once a year. If its path crosses one of these dust rings, it reaches the crossing on about the same date each year. Then many grains rush into our air, and we see many shooting stars in one night. In 1866, the Italian astronomer Giovanni Schiaparelli showed that the August shower, the Perseids, follows the path of a comet called Swift-Tuttle.",
+   "examples": [
+    "The Orionid shower in October comes from dust left by Halley's Comet.",
+    "The Geminid shower in December comes from Phaethon, a rocky object that sheds dust near the Sun, a bit like a comet.",
+    "The shooting stars in a shower all seem to come from one small patch of sky."
+   ],
+   "perspectives": [],
+   "art": "The Earth's round path and a comet's long stretched path crossing, with a trail of dust along the comet's path and the Earth just reaching the crossing.",
+   "context": "This card explains why some nights have many shooting stars, and why they come back on the same dates each year."
+  },
+  {
+   "concept": "How did our Moon form?",
+   "status": "debated",
+   "definition": "",
+   "description": "Scientists agree that the Moon is about 4.5 billion years old and is made of rock much like the Earth's outer layers. They still argue about exactly how it formed. Most think it formed after a giant crash, but the details are not settled.",
+   "examples": [
+    "Moon rocks brought back by the Apollo astronauts are very like rocks from the Earth's outer layer.",
+    "The Moon has only a small iron core, much smaller for its size than the Earth's.",
+    "Computer models of a giant crash can make a Moon, but they do not all agree on how big the crash was."
+   ],
+   "perspectives": [
+    {
+     "who": "Most planetary scientists",
+     "explanation": "A world about the size of Mars crashed into the young Earth. The crash threw out a huge cloud of hot rock, and the Moon formed from it. This explains why Moon rock is so like the Earth's outer rock, and why the Moon has little iron."
+    },
+    {
+     "who": "Some scientists who study the crash in computer models",
+     "explanation": "The crash may have been even bigger, and melted and mixed the Earth and the Moon together, which would explain why their rocks are almost identical."
+    },
+    {
+     "who": "An older idea, now mostly given up",
+     "explanation": "The Moon was a passing world caught by the Earth's gravity, the way Mars may have caught its two small moons. Most scientists gave this up because Moon rock is too like Earth rock."
+    }
+   ],
+   "art": "A young, glowing Earth being hit by a smaller world, with a spray of hot rock flying out into space.",
+   "context": "This card is about an open question: how our own Moon came to be. Scientists have more than one idea."
+  },
+  {
+   "concept": "Could a space rock hit the Earth?",
+   "status": "defined",
+   "definition": "Small space rocks hit the Earth's air every day and burn up. Big ones are rare. Scientists watch for big asteroids whose paths come near the Earth.",
+   "description": "Most space rocks that reach us are dust and tiny grains. Rocks big enough to do real damage come much more rarely. About 66 million years ago, an asteroid about 10 kilometres wide hit what is now Mexico, and this helped end the time of the big dinosaurs. Today, telescopes around the world search for asteroids that come near the Earth and work out their paths. None of the large asteroids found so far is on a path to hit us in the next hundred years.",
+   "examples": [
+    "Lonar Lake in Maharashtra fills a crater made by a meteorite long ago.",
+    "In 2013, a rock about 20 metres wide burst in the air over Chelyabinsk in Russia. The blast broke many windows.",
+    "The DART spacecraft showed in 2022 that crashing into a small asteroid can change its path."
+   ],
+   "perspectives": [],
+   "art": "A large telescope dome on a hill at night, with a faint dotted path of an asteroid drawn across the stars above it.",
+   "context": "This card is about whether a big space rock could hit the Earth, and what people do to watch for one."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "Six of the eight planets have moons. Mercury and Venus have none.",
+   "evidence": "Telescopes and spacecraft have searched near every planet. New small moons keep being found round the giant planets, but none round Mercury or Venus."
+  },
+  {
+   "text": "Comets are made of ice, dust and rock, and their tails point away from the Sun.",
+   "evidence": "Spacecraft such as Giotto, at Halley's Comet in 1986, and Rosetta, at comet 67P from 2014 to 2016, flew close and photographed the icy nucleus and its jets of gas."
+  },
+  {
+   "text": "Shooting stars are grains of space rock and dust burning up in our air.",
+   "evidence": "Cameras in two places photograph the same meteor and work out its height and path. Special nets and planes high in the air have collected space dust."
+  },
+  {
+   "text": "Meteor showers come from dust left along the paths of comets.",
+   "evidence": "The dates and directions of showers match where the Earth's path crosses the paths of known comets, as Schiaparelli first showed in 1866."
+  },
+  {
+   "text": "Stones really do fall from space.",
+   "evidence": "Thousands of meteorites have been found, some seen falling. Their minerals and age are different from the rocks around where they land."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Stones cannot fall from the sky. The stones farmers found were struck by lightning or thrown up by volcanoes.",
+   "who": "Many European scientists in the 1700s",
+   "for": "No one had ever seen space rocks, and the idea of rocks floating in space seemed strange.",
+   "against": "In 1803, Jean-Baptiste Biot studied the stones that fell at L'Aigle in France and showed they had fallen from the sky. They were unlike any rock nearby.",
+   "status": "rejected",
+   "context": "This card is about an old idea that stones never fall from the sky, and how it was shown wrong."
+  },
+  {
+   "claim": "A comet in the sky brings bad luck, war or disaster.",
+   "who": "People in many lands, for thousands of years",
+   "for": "Comets appear without warning and look strange, so people linked them to sad events that happened at the same time.",
+   "against": "Comets come back on paths we can work out, like Halley's Comet every 76 years or so. Bad and good things happen whether a comet is in the sky or not.",
+   "status": "rejected",
+   "context": "This card is about the old fear of comets."
+  },
+  {
+   "claim": "Shooting stars are stars falling from the sky.",
+   "who": "A common belief, and where the name comes from",
+   "for": "They look like a star that suddenly moves.",
+   "against": "The stars stay where they are. A shooting star is a tiny grain burning up only about 100 km above us. Real stars are millions of times further away, and far bigger than the Earth.",
+   "status": "rejected",
+   "context": "This card is about where the name 'shooting star' comes from, and why it is wrong."
+  },
+  {
+   "claim": "Comets and asteroids brought much of the Earth's water.",
+   "who": "Some planetary scientists",
+   "for": "The young Earth was very hot, so it may have lost its first water. Comets and some asteroids hold a lot of ice.",
+   "against": "Water in many comets is slightly different from the water in our seas. Some scientists think most of the Earth's water was there from the start, inside its rocks.",
+   "status": "debated",
+   "context": "This card is about an open question: where the water in our seas came from."
+  },
+  {
+   "claim": "Mars's two moons are asteroids that Mars caught.",
+   "who": "Some astronomers",
+   "for": "Phobos and Deimos are small, lumpy and dark, like many asteroids.",
+   "against": "Their paths are almost round and line up with Mars's middle, which is hard to get by catching a passing rock. Others think they formed from rock thrown up when something hit Mars.",
+   "status": "debated",
+   "context": "This card is about an open question: where Mars got its two small moons."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "A comet, its tail, a shooting star and dust on your balcony can all be the same stuff at different times. When does a comet stop being a comet?",
+   "kind": "deep",
+   "hint": "Is it when it loses its last bit of ice? Or when a grain leaves it? Who decides where the line is?"
+  },
+  {
+   "q": "Space dust falls on the Earth every day. Is the Earth finished, or is it still being made?",
+   "kind": "big",
+   "hint": "Think about what is added to the Earth from space, and what the Earth loses."
+  },
+  {
+   "q": "Galileo saw four dots move round Jupiter, and it changed what people thought about the whole sky. Can one small thing you notice change a big idea?",
+   "kind": "big",
+   "hint": "Think of how many people looked at Jupiter before him, and what he did differently."
+  },
+  {
+   "q": "A meteor is a grain that we see only because it is burning up. Are there things we only notice when they change?",
+   "kind": "deep",
+   "hint": "Think about the ice comet. Did you notice the dirt before the ice melted?"
+  },
+  {
+   "q": "If you stood on Ganymede, Jupiter would fill a big part of your sky. Would Ganymede feel like a moon to you, or like home?",
+   "kind": "big",
+   "hint": "Is 'moon' something a world is, or a name for how it moves round another world?"
+  },
+  {
+   "q": "Why are small asteroids lumpy, but big moons and planets round?",
+   "kind": "deep",
+   "hint": "Think about gravity. A big world pulls itself in from all sides."
+  }
+ ],
+ "story": {
+  "title": "Seven Shooting Stars over Madurai",
+  "mins": 10,
+  "read_aloud": true,
+  "note": "Nila, Arjun, Revathi Athai, Paati and this night are made up. The facts in the story are real: the Geminid shower in mid-December, its link to Phaethon, the size and speed of the grains, the height where they glow, and Halley's Comet in 1986 and 2061.",
+  "text": [
+   "On the night of 13 December, Revathi Athai carried three straw mats up to the terrace of the flat in Madurai. Nila carried the flask of hot milk. Her little brother Arjun carried nothing, because he was already wrapped in Paati's shawl and could hardly walk.",
+   "'Why are we sleeping on the terrace in winter?' Arjun asked.",
+   "'We are not sleeping,' said Athai. She taught physics at a college and always brought a notebook. 'Tonight is the Geminid shower. If we are lucky, we will see shooting stars.'",
+   "They lay on the mats with their feet towards the water tank. The sky over the city was orange near the edges, from all the street lights. Only a few stars showed overhead.",
+   "'I can't see anything,' said Arjun after one minute.",
+   "'Your eyes need time,' said Athai. 'Give them twenty minutes in the dark, and don't look at the phone.'",
+   "Nila looked at the patch of sky above the neem tree. She thought about the shooting stars in films, big and slow, with long sparkling tails. She waited.",
+   "Then a thin white line flashed across the sky and was gone. It took less time than a blink.",
+   "'There!' Nila sat up. 'Did you see it? Where did it fall?'",
+   "'It didn't fall anywhere near us,' said Athai. 'It burned up about 100 kilometres above our heads. That is higher than any aeroplane, higher than any cloud.'",
+   "Arjun was sure it had landed in the next street. 'I'll find it tomorrow,' he said.",
+   "Athai took something out of her pocket. It was a small paper packet from the kitchen. She tipped a few grains of rava onto the back of her notebook and shone her phone torch on them for a moment.",
+   "'Most shooting stars are made by grains about this big,' she said. 'Some are even smaller, like dust.'",
+   "'That's too small,' said Nila. 'You couldn't see something that small from 100 kilometres away.'",
+   "'You can't see the grain,' said Athai. 'You see the light it makes. That grain was moving about 35 kilometres every second. At that speed, it could go from here to Thoothukudi in about 4 seconds. It hit the air so hard that it squashed the air in front of it. Squashed air gets hot. This air got so hot that the grain turned into glowing gas.'",
+   "Arjun held a grain of rava between his finger and thumb and looked at it very seriously.",
+   "A second shooting star flashed, then a third, low over the temple towers in the distance. Nila made a mark in Athai's notebook for each one.",
+   "'Why tonight?' she asked. 'Why not every night?'",
+   "Athai drew a big circle in the notebook. 'This is the Earth's path round the Sun. It takes one year to go round.' Then she drew a long, stretched oval that crossed the circle. 'This is the path of a rocky thing called Phaethon. Each time Phaethon passes close to the Sun, the heat makes it shed bits of dust. The dust spreads out along Phaethon's path, like a trail of crumbs.'",
+   "She tapped the place where the circle and the oval crossed. 'Every year, on these same nights in December, the Earth reaches this crossing. We run into the crumbs. They rush into our air, and we see shooting stars.'",
+   "'So it happens on the same date every year,' said Nila slowly, 'because the Earth gets to the same place on the same date.'",
+   "'Exactly,' said Athai. 'Most other showers come from comets. Comets are lumps of ice and dust. Near the Sun, their ice turns to gas, and the gas blows dust out into a long tail. That dust stays along the comet's path too.'",
+   "Paati had come up the stairs slowly, carrying a plate of murukku. She sat down on the edge of a mat.",
+   "'In 1986 I saw a comet,' Paati said. 'From the roof of our old house in Tirunelveli. Everyone called it the vaal natchathiram, the tail star. We expected something grand. It was only a faint smudge, like a thumbprint on a window. But I was so happy to see it.'",
+   "'That was Halley's Comet,' said Athai. 'It comes back about every 76 years. It will be near the Sun again in 2061.'",
+   "Nila counted on her fingers. 'I'll be 44,' she said. 'I'll show it to my children.'",
+   "'And some of the shooting stars you see each October,' said Athai, 'are dust that Halley's Comet left behind long ago. So you have already seen pieces of Paati's comet.'",
+   "Paati laughed and patted Nila's head. 'Then the comet came back to see you,' she said.",
+   "Just then, a bright yellow streak crossed half the sky, slower than the others. It left a faint glowing line that faded in a second. Arjun shrieked. Nila dropped the pencil. Even Athai said, 'Oh!'",
+   "'That was a fireball,' Athai said. 'A bigger piece, perhaps the size of a pea.'",
+   "By midnight, Nila had seven marks in the notebook. Athai said that from a dark village far from the city they might have seen more than fifty in that time. But Nila did not mind. Seven was enough.",
+   "As they rolled up the mats, Arjun opened his fist. The grain of rava was still there, a bit damp. 'I'm keeping it,' he said. 'It's my shooting star.'",
+   "'Then keep it safe,' said Athai. 'Real ones don't last as long as that.'"
+  ],
+  "epiphany": "For the parent: a shooting star is a grain of dust, often as small as a grain of rava, entering the air so fast that the air in front of it is squashed and becomes extremely hot. The grain turns to glowing gas about 100 km up. A meteor shower comes on the same dates every year because the Earth reaches the same point in its orbit, where it crosses a trail of dust left by a comet, or, for the Geminids, by the rocky object Phaethon. So a comet, the dust it leaves, and the shooting stars we see are the same material at different times.",
+  "ask": [
+   "Why did Arjun think the shooting star had landed in the next street? Where did it really burn up?",
+   "How can a grain as small as rava make a light that Nila could see?",
+   "Why does the Geminid shower come on the same nights every December?",
+   "How could Nila have already seen pieces of Paati's comet?",
+   "Why did they see only seven shooting stars, when a village might see fifty?"
+  ],
+  "art": [
+   "Three people lying on straw mats on a city terrace at night, near a water tank, wrapped in shawls, looking up.",
+   "A thin white streak of light across an orange-tinged city sky, above a neem tree.",
+   "An aunt shining a phone torch on a few grains of rava on the back of a notebook, a small boy peering at them.",
+   "A notebook page with a big circle and a long stretched oval crossing it, and dots along the oval.",
+   "A grandmother sitting on the edge of a mat with a plate of murukku, telling a story.",
+   "A bright yellow fireball crossing half the sky over distant temple towers, with a boy shrieking and pointing."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "The Comet's Journey: a board game",
+   "mins": 20,
+   "players": [
+    "with a parent",
+    "with friends",
+    "alone"
+   ],
+   "context": "This is a board game for one to four players. Each player is a comet travelling in towards the Sun and out again. Near the Sun, comets lose ice and drop dust, and the Earth player catches the dust as shooting stars.",
+   "printables": [
+    {
+     "kind": "board",
+     "title": "The comet path board",
+     "items": [
+      "A long oval track of 24 squares round a Sun drawn in the middle.",
+      "Squares 1 to 6 and 19 to 24 are far from the Sun, coloured dark blue: 'Cold. Nothing happens.'",
+      "Squares 7 to 10 and 15 to 18 are coloured light blue: 'Warming. Lose 1 ice token.'",
+      "Squares 11 to 14 are coloured yellow, closest to the Sun: 'Hot! Lose 2 ice tokens and drop 1 dust token on this square.'",
+      "Square 13 is also marked with a small Earth: 'The Earth's path crosses here.'"
+     ]
+    },
+    {
+     "kind": "tokens",
+     "title": "Tokens",
+     "items": [
+      "10 white ice tokens for each comet (paper circles, grains of rice, or white beads)",
+      "10 dark dust tokens for each comet (paper circles coloured black, or rajma beans)",
+      "1 counter for each comet, and 1 small Earth counter",
+      "1 dice"
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "8 question cards",
+     "items": [
+      "Which way does a comet's tail point? (Away from the Sun)",
+      "What is a comet made of? (Ice, dust and rock)",
+      "What is a meteor? (The streak of light when a grain burns up in our air)",
+      "Where are most asteroids? (Between Mars and Jupiter)",
+      "Name a moon of Jupiter. (Io, Europa, Ganymede or Callisto)",
+      "How many moons does Mars have? (Two, Phobos and Deimos)",
+      "Why does a comet get a dark crust? (Its ice goes and the dust stays behind)",
+      "Why does a meteor shower come on the same dates each year? (The Earth reaches the comet's dust trail at the same point in its path)"
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "Score sheet",
+     "items": [
+      "Player name",
+      "Ice tokens left",
+      "Laps finished",
+      "Shooting stars caught by the Earth"
+     ]
+    }
+   ],
+   "rules": [
+    "Each player is a comet. Take 10 ice tokens and 10 dust tokens, and put your counter on square 1.",
+    "Take turns to roll the dice and move your comet that many squares along the track.",
+    "Dark blue squares are far from the Sun. Nothing happens.",
+    "Light blue squares are warming. Put 1 ice token back in the box.",
+    "Yellow squares are closest to the Sun. Put 2 ice tokens back in the box, and drop 1 dust token on the square you landed on.",
+    "After square 24, go back to square 1 and start another lap.",
+    "Each time anyone passes or lands on square 13, the Earth catches all the dust tokens on squares 12, 13 and 14. Count them aloud as shooting stars, then put them in the Earth's pile.",
+    "If you land on a square with dust already on it, pick a question card. Answer it right to get 1 ice token back.",
+    "A comet with no ice left has faded away. The player whose comet lasts the most laps wins. The Earth's pile shows how many shooting stars all the comets made together."
+   ],
+   "setup": [
+    {
+     "art": "A printed oval board with dark blue, light blue and yellow squares round a bright Sun, a small Earth marked on one yellow square, and counters at the start.",
+     "caption": "1. Put your comet on square 1 with 10 ice and 10 dust tokens."
+    },
+    {
+     "art": "A comet counter on a yellow square near the Sun, with two white ice tokens being removed and a dark dust token left on the square.",
+     "caption": "2. Near the Sun, lose ice and drop dust."
+    },
+    {
+     "art": "A small Earth counter beside a pile of dark dust tokens, with a child counting them as shooting stars.",
+     "caption": "3. When a comet passes the Earth's crossing, the Earth catches the dust."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Print or draw the board. 2. Give each player a counter, 10 ice tokens and 10 dust tokens.",
+     "say": "You are each a comet. Far from the Sun, you stay frozen. Near the Sun, you lose ice and drop dust along your path.",
+     "kid": "You are a comet. Take your ice and dust tokens. Start on square 1.",
+     "context": "This is the first step of The Comet's Journey. You set up the board and your comet."
+    },
+    {
+     "id": "s2",
+     "mins": 14,
+     "do": "Play as in the rules. Each time a comet lands on a yellow square, ask one question.",
+     "say": "You're on a yellow square, close to the Sun. What happens to your ice? What is your tail doing now?",
+     "kid": "Roll and move. On yellow, lose 2 ice and drop 1 dust.",
+     "check": {
+      "t": "mcq",
+      "q": "In The Comet's Journey, where do comets lose the most ice?",
+      "options": [
+       "On the yellow squares, closest to the Sun",
+       "On the dark blue squares, far from the Sun",
+       "The same everywhere"
+      ],
+      "a": 0,
+      "why": "Comets lose most ice close to the Sun, where sunlight warms them most, just like the sunny ice comet in your test. Picking 'the same everywhere' would mean the Sun makes no difference, but your shady ice comet changed much more slowly."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "At the end, count the Earth's pile of dust tokens.",
+     "say": "The Earth caught all this dust as shooting stars. Where did the dust come from? And what happened to the comets that ran out of ice?",
+     "kid": "Count the Earth's dust. Where did it come from? What happened to the comets?",
+     "ask": [
+      {
+       "q": "Where did the Earth's shooting stars come from?",
+       "good": [
+        "From the dust the comets dropped near the Sun.",
+        "From comets losing bits of themselves."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Quick Call: meteoroid, meteor or meteorite?",
+   "mins": 10,
+   "players": [
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a fast calling game for two or more players. The caller reads a clue, and players hold up the right card as fast as they can.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "3 big answer cards for each player",
+     "items": [
+      "METEOROID: a bit of rock in space",
+      "METEOR: the streak of light",
+      "METEORITE: the piece that lands"
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "12 clue cards for the caller",
+     "items": [
+      "Kavya sees a streak of light in the sky. (meteor)",
+      "A grain of dust drifts past the Moon. (meteoroid)",
+      "Farhan finds a heavy black stone with a smooth crust after a bright flash. (meteorite)",
+      "It glows about 100 km above the ground. (meteor)",
+      "It is in a museum, and you can touch it. (meteorite)",
+      "It is a bit of dust that fell off a comet, still out in space. (meteoroid)",
+      "People make a wish on it. (meteor)",
+      "Scientists cut it open to look at the minerals inside. (meteorite)",
+      "It is heading towards the Earth at 30 km every second, but has not reached the air yet. (meteoroid)",
+      "It lasts less than a second. (meteor)",
+      "It was found on the ice in Antarctica. (meteorite)",
+      "It is floating in the asteroid belt and is too small to be called an asteroid. (meteoroid)"
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "Score sheet",
+     "items": [
+      "Player name",
+      "Right first",
+      "Right"
+     ]
+    }
+   ],
+   "rules": [
+    "Each player has three answer cards: meteoroid, meteor and meteorite.",
+    "The caller reads one clue card aloud.",
+    "Everyone holds up the card they think is right. The first right card scores 2 points. Every other right card scores 1 point.",
+    "The caller reads the answer and says why.",
+    "After 12 clues, the player with the most points wins. Then swap callers."
+   ],
+   "setup": [
+    {
+     "art": "Three big cards on a table: meteoroid, meteor, meteorite, each with a small picture.",
+     "caption": "1. Each player gets three answer cards."
+    },
+    {
+     "art": "A caller reading a clue card aloud while two children hold up cards.",
+     "caption": "2. Hear the clue. Hold up the right card fast."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Give each player the three answer cards. Read the three meanings aloud.",
+     "say": "Meteoroid is in space. Meteor is the light in the sky. Meteorite is the piece that lands.",
+     "kid": "Meteoroid: in space. Meteor: the light. Meteorite: the piece that lands.",
+     "context": "This is the first step of Quick Call. You learn the three answer cards."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "Read the 12 clues, one at a time. After each, say the answer and why.",
+     "say": "Here's the clue. Hold up your card! Why did you pick that one?",
+     "kid": "Listen to the clue. Hold up your card fast!",
+     "check": {
+      "t": "mcq",
+      "q": "In Quick Call, the clue is: 'It glows about 100 km above the ground.' Which card is right?",
+      "options": [
+       "Meteor",
+       "Meteorite",
+       "Meteoroid"
+      ],
+      "a": 0,
+      "why": "The glowing streak in the air is the meteor. Picking 'meteoroid' is close: it is the same grain, but the word meteoroid is for when it is still out in space."
+     }
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Ice Comet: what happens to its dirt in the sun?",
+   "mins": 45,
+   "days": 2,
+   "question": "When an icy, dirty ball is warmed by the sun, what happens to its ice and to its dirt?",
+   "predict": "Guess first. One ice comet sits in the sun and one in the shade. Which will shrink faster? As the ice goes, will the comet get cleaner, stay the same colour, or get darker? Why do you think so?",
+   "fair_test": "Make both ice comets the same way, from the same amount of crushed ice and the same amount of dirt, in two bowls of the same size. Put them on the same kind of plate. Change only one thing: one sits in a sunny spot and one in the shade. Measure both at the same times.",
+   "results_table": [
+    "Time (minutes)",
+    "Sunny comet: height (cm)",
+    "Sunny comet: dirt on top (1 a little, 2 some, 3 a dark crust)",
+    "Shady comet: height (cm)",
+    "Shady comet: dirt on top (1, 2 or 3)"
+   ],
+   "materials": [
+    {
+     "item": "about 16 ice cubes from the freezer",
+     "qty": 1
+    },
+    {
+     "item": "2 spoons of soil from a potted plant, and 2 spoons of used tea leaves (or 4 spoons of either)",
+     "qty": 1
+    },
+    {
+     "item": "2 small steel katoris or paper cups of the same size",
+     "qty": 2
+    },
+    {
+     "item": "a clean kitchen towel or a plastic bag, and a rolling pin, to crush the ice",
+     "qty": 1
+    },
+    {
+     "item": "2 steel plates of the same size",
+     "qty": 2
+    },
+    {
+     "item": "a ruler or school scale",
+     "qty": 1
+    },
+    {
+     "item": "a phone or clock for timing",
+     "qty": 1
+    },
+    {
+     "item": "a sunny windowsill or balcony, and a shady corner of the same room",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up crushes the ice with the rolling pin. Wash hands after touching soil. Don't eat the ice comets.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Crush the ice, mix in the dirt, press it into two katoris and freeze overnight."
+    },
+    {
+     "day": 2,
+     "mins": 35,
+     "what": "Guess. Put one ice comet in the sun and one in the shade. Measure and look every 10 minutes for 30 minutes. Compare."
+    }
+   ],
+   "record": "Fill in the table. Draw both ice comets at the start and at 30 minutes, showing where the dirt is.",
+   "context": "In this experiment you make two small comets from crushed ice and dirt, then put one in the sun and one in the shade. It shows what happens to a real comet as it comes near the Sun.",
+   "setup": [
+    {
+     "art": "A grown-up's hands pressing a rolling pin on a folded towel full of ice cubes on a kitchen counter.",
+     "caption": "1. Crush the ice in a towel."
+    },
+    {
+     "art": "A child pressing crushed ice mixed with dark soil and tea leaves into two small steel katoris.",
+     "caption": "2. Mix in the dirt. Press it into two katoris and freeze overnight."
+    },
+    {
+     "art": "Two dirty ice balls on steel plates, one on a sunny windowsill and one on a shady table, with a ruler beside each.",
+     "caption": "3. Put one in the sun and one in the shade. Measure every 10 minutes."
+    }
+   ],
+   "example_chart": {
+    "type": "table",
+    "title": "Made-up example results",
+    "cols": [
+     "Time",
+     "Sunny: height",
+     "Sunny: dirt on top",
+     "Shady: height",
+     "Shady: dirt on top"
+    ],
+    "rows": [
+     [
+      "0 minutes",
+      "4 cm",
+      "1",
+      "4 cm",
+      "1"
+     ],
+     [
+      "10 minutes",
+      "3.5 cm",
+      "2",
+      "4 cm",
+      "1"
+     ],
+     [
+      "20 minutes",
+      "3 cm",
+      "3",
+      "3.5 cm",
+      "2"
+     ],
+     [
+      "30 minutes",
+      "2.5 cm",
+      "3",
+      "3.5 cm",
+      "2"
+     ]
+    ]
+   },
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "1. Put about 16 ice cubes in a folded towel or a plastic bag. 2. Crush them with a rolling pin into small pieces. 3. In each katori, mix half the crushed ice with 1 spoon of soil and 1 spoon of tea leaves. 4. Press it down hard with a spoon. 5. Put both katoris in the freezer overnight.",
+     "say": "We are going to make two small comets. A real comet is a lump of ice, dust and rock. Ours is ice and dirt pressed together.",
+     "kid": "A grown-up crushes the ice. Mix in the dirt. Press it into two katoris. Freeze them overnight.",
+     "adult": true,
+     "parent": "Crushing the ice spreads the dirt all through it. If you freeze muddy water instead, the dirt sinks to the bottom before it freezes. Freeze for at least 3 hours, or overnight.",
+     "wait": "Leave the katoris in the freezer overnight.",
+     "context": "This is the first step of the ice comet test. You make two dirty ice balls and freeze them."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Run tap water over the outside of each katori for a few seconds. 2. Tip each ice comet out onto its own steel plate, flat side down. 3. Measure the height of each one. 4. Look at the dirt on top. Score it 1 for a little, 2 for some, or 3 for a dark crust.",
+     "say": "Here are our two comets. Let's measure them. How much dirt can you see on top right now?",
+     "kid": "Tip out your ice comets. Measure how tall they are. Look at the dirt on top. Score it 1, 2 or 3.",
+     "parent": "They should be about 3 to 5 cm tall, and the same height. At the start, most of the dirt is inside the ice, so the score is usually 1."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Ask your child to guess before you move the plates.",
+     "say": "One comet will go in the sun, like a comet coming close to the Sun. The other stays in the shade, like a comet far out in the cold. Which one will shrink faster? And as the ice goes, will the comet get cleaner, stay the same, or get darker? Why do you think so?",
+     "kid": "One comet goes in the sun. One stays in the shade. Which shrinks faster? Will it get cleaner or darker? Why?",
+     "ask": [
+      {
+       "q": "Why do you think so?",
+       "good": [
+        "The sun is warmer, so that one melts faster.",
+        "The water will wash the dirt away, so it will get cleaner.",
+        "The ice goes but the dirt stays, so it will get darker."
+       ]
+      }
+     ],
+     "parent": "Many children guess the comet will get cleaner, because water washes things. Don't correct the guess. Let the test answer it."
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "1. Put one plate in a sunny spot, such as a windowsill or balcony with direct sun. 2. Put the other in a shady spot in the same room. 3. Start a timer.",
+     "say": "Sunny comet here, shady comet there. Now we wait 10 minutes.",
+     "kid": "Put one plate in the sun. Put one in the shade. Start the timer.",
+     "parent": "If no spot gets direct sun today, put one plate on top of a steel vessel of warm tap water, and the other on the counter. The warm water plays the part of the Sun."
+    },
+    {
+     "id": "s5",
+     "mins": 15,
+     "do": "1. Every 10 minutes, for 30 minutes, measure the height of each comet. 2. Score the dirt on top of each one: 1, 2 or 3. 3. Look at the water in each plate. Is it clear or muddy? 4. Write everything in the table.",
+     "say": "Time to look. How tall is each comet now? What is happening to the dirt on top? Is the water in the plate clear or muddy?",
+     "kid": "Every 10 minutes, measure both comets. Score the dirt on top. Look at the water in the plate.",
+     "check": {
+      "t": "mcq",
+      "q": "In the ice comet test, after 30 minutes, what does the top of the sunny comet look like?",
+      "options": [
+       "Clean and shiny, because the water washed the dirt away",
+       "Darker, with a crust of dirt on top",
+       "Just the same as at the start"
+      ],
+      "a": 1,
+      "why": "As the ice melts away, the dirt that was inside it is left behind on the surface. It builds up into a dark crust. Some runs off into the plate as muddy water. Picking 'clean and shiny' is a fair guess, because water usually washes things. But here the dirt stays where the ice used to be."
+     },
+     "parent": "In direct sun, the sunny comet usually shrinks by 1 to 2 cm in 30 minutes and gets a dark, gritty crust. The shady one changes more slowly. Tea leaves cling to the ice, so the crust is easy to see. If both look the same, leave them another 20 minutes."
+    },
+    {
+     "id": "s6",
+     "mins": 4,
+     "do": "Tell your child how this fits a real comet.",
+     "say": "A real comet does just this near the Sun. Its ice goes, and its dust is left behind as a dark crust. That is why comets are darker than coal. In space there is no air, so the ice turns straight into gas instead of melting. The gas blows some dust off into a tail. The rest of the dust spreads along the comet's path, like the muddy water in our plate.",
+     "kid": "A real comet does this near the Sun. Its ice goes. Its dust stays as a dark crust. Some dust is left along its path.",
+     "check": {
+      "t": "mcq",
+      "q": "A comet is far out beyond Neptune, in the cold. What is it doing?",
+      "options": [
+       "It stays frozen, with no tail",
+       "It grows its longest tail",
+       "It melts into a ball of water"
+      ],
+      "a": 0,
+      "why": "Far from the Sun it is far too cold for the ice to change, so the comet stays a dark frozen lump with no tail, like the shady comet but even colder. Picking 'longest tail' mixes it up: tails grow near the Sun, where sunlight warms the ice."
+     }
+    },
+    {
+     "id": "s7",
+     "mins": 4,
+     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "say": "Now tell me three things. What do you think happens to a comet near the Sun? What did you see that shows it? Why do you think it happened?",
+     "kid": "Say three things. What I think. What I saw. Why it happened.",
+     "ask": [
+      {
+       "q": "What is your claim, evidence and reasoning?",
+       "good": [
+        "The comet near the Sun loses its ice faster. My sunny comet shrank more. The sun warmed it more.",
+        "The dirt stays behind. The sunny comet got a dark crust. The ice went away but the dirt could not."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "Fan and Tail: does a comet's tail stream out behind it?",
+   "mins": 20,
+   "days": 1,
+   "question": "Does a comet's tail always stream out behind it, or does it point away from the Sun?",
+   "predict": "Guess first. The fan is the Sun. When you walk slowly away from the fan with your paper comet, will its tail be behind your hand or in front of it? Why do you think so?",
+   "fair_test": "Use the same paper comet and the same fan speed every time. Walk at the same slow speed. Change only one thing: which way you walk compared with the fan. Try each way twice.",
+   "results_table": [
+    "Fan on or off",
+    "Which way I walked",
+    "Which way the tail pointed",
+    "Drawing"
+   ],
+   "materials": [
+    {
+     "item": "a table fan or pedestal fan",
+     "qty": 1
+    },
+    {
+     "item": "a lemon, or a ball of crumpled newspaper, for the comet's head",
+     "qty": 1
+    },
+    {
+     "item": "a pencil or chopstick to hold it on",
+     "qty": 1
+    },
+    {
+     "item": "6 strips of tissue paper or thin plastic bag, about 2 cm wide and 25 cm long",
+     "qty": 6
+    },
+    {
+     "item": "tape",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep hands, hair and the tissue tail at least one metre from the fan. A grown-up switches the fan on and off.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Make a paper comet. Walk it with the fan off, then towards, across and away from the fan. Draw which way the tail points each time."
+    }
+   ],
+   "record": "Draw a small picture for each walk: the fan, your comet, an arrow for the way you walked, and the tail.",
+   "context": "In this experiment you make a comet with a tissue-paper tail and walk it near a fan. The fan plays the Sun, which pushes outwards on a comet's tail.",
+   "setup": [
+    {
+     "art": "A lemon stuck on a pencil, with six long strips of tissue paper taped to it.",
+     "caption": "1. Make a comet: a lemon on a pencil with a tissue tail."
+    },
+    {
+     "art": "A child walking slowly across a room holding the paper comet, with the fan switched off and the tail hanging behind.",
+     "caption": "2. Walk with the fan off. Where is the tail?"
+    },
+    {
+     "art": "A child walking slowly away from a pedestal fan, with the tissue tail blown out in front of the comet.",
+     "caption": "3. Switch the fan on. Walk towards it, across it and away from it."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Push the lemon onto the end of a pencil. 2. Tape 6 tissue strips to one side of the lemon.",
+     "say": "This is our comet. The lemon is the head, and the tissue strips are the tail.",
+     "kid": "Push the lemon onto the pencil. Tape on the tissue strips. That's your comet.",
+     "context": "This is the first step of the fan and tail test. You make a paper comet."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "With the fan off, your child walks slowly across the room holding the comet up.",
+     "say": "Fan off. Walk slowly across the room. Where does the tail go?",
+     "kid": "Fan off. Walk slowly. Where does the tail go?",
+     "ask": [
+      {
+       "q": "Where did the tail go?",
+       "good": [
+        "Behind the comet.",
+        "It trailed behind, like hair when you run."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Switch the fan on to a low or middle speed. 2. Ask your child to guess before walking.",
+     "say": "Now the fan is the Sun. Soon you will walk slowly away from the fan. Will the tail be behind your hand, or in front of it? Why do you think so?",
+     "kid": "The fan is the Sun. You will walk away from it. Will the tail be behind or in front? Why?",
+     "adult": true,
+     "ask": [
+      {
+       "q": "Why do you think so?",
+       "good": [
+        "Behind, because tails always trail behind.",
+        "In front, because the fan blows it."
+       ]
+      }
+     ],
+     "parent": "Most children guess the tail stays behind, because that is what happened with the fan off. Let the test show them."
+    },
+    {
+     "id": "s4",
+     "mins": 7,
+     "do": "1. Stand 2 metres in front of the fan. 2. Walk slowly towards the fan, stopping 1 metre away. 3. Walk slowly sideways, across the fan's air. 4. Walk slowly backwards, away from the fan. 5. After each walk, draw which way the tail pointed.",
+     "say": "Walk slowly towards the fan. Now sideways. Now away. Where is the tail each time? Is it behind your hand, or pointing away from the fan?",
+     "kid": "Walk towards the fan. Then sideways. Then away. Draw the tail each time.",
+     "check": {
+      "t": "mcq",
+      "q": "In the fan and tail test, you walk slowly away from the fan. Where does the tissue tail point?",
+      "options": [
+       "Away from the fan, in front of the comet",
+       "Behind the comet, towards the fan",
+       "Straight down"
+      ],
+      "a": 0,
+      "why": "The fan's air pushes the tail away from the fan, whichever way you walk. So when you walk away, the tail goes in front. Picking 'behind the comet' is what happened with the fan off, when only your walking moved the air."
+     },
+     "parent": "Walk slowly, about one small step each second. If you walk fast, your own movement can beat the fan's air and the tail flops. That is a fair thing to notice."
+    },
+    {
+     "id": "s5",
+     "mins": 3,
+     "do": "Tell your child how this fits a real comet.",
+     "say": "The Sun pushes on a comet's tail all the time. It pushes with its light, and with a stream of tiny particles called the solar wind. So a comet's tail always points away from the Sun. When the comet is going away from the Sun, its tail goes in front. The real Sun pushes outwards in every direction, not just one way like our fan.",
+     "kid": "The Sun pushes a comet's tail away. So the tail points away from the Sun. Even when the comet goes away.",
+     "ask": [
+      {
+       "q": "How is the real Sun different from our fan?",
+       "good": [
+        "The Sun pushes in every direction.",
+        "The fan only blows one way."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "How Small Is a Shooting Star? A grain of rava and a map",
+   "mins": 12,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a pinch of rava (sooji), or a few grains of sand or salt",
+     "qty": 1
+    },
+    {
+     "item": "a sheet of black or dark paper, or a dark plate",
+     "qty": 1
+    },
+    {
+     "item": "a magnifying glass, or a phone camera zoomed in",
+     "qty": 1
+    },
+    {
+     "item": "a map of South India, on a phone or in a school atlas",
+     "qty": 1
+    }
+   ],
+   "safety": "None needed.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Guess how big the thing that makes a shooting star is. Look at a grain of rava. Work out how fast a shooting star moves, on a map."
+    }
+   ],
+   "record": "Draw one grain of rava as it looks under the magnifying glass. Next to it, write: most shooting stars are made by grains this size or smaller.",
+   "context": "In this activity you guess how big the thing that makes a shooting star is, then look closely at a grain of rava, which is about the right size.",
+   "setup": [
+    {
+     "art": "A child holding up a hand with fingers apart, guessing a size, next to a parent holding a tiny grain on a fingertip.",
+     "caption": "1. Guess how big the thing that makes a shooting star is."
+    },
+    {
+     "art": "A few grains of rava on black paper, seen through a magnifying glass, looking like small pale rocks.",
+     "caption": "2. Look at a grain of rava up close."
+    },
+    {
+     "art": "A map of South India with a straight line from Chennai to Bengaluru and the words '10 seconds'.",
+     "caption": "3. See how far a shooting star's grain goes in 10 seconds."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "Ask your child to show with their hands how big the thing that makes a shooting star is.",
+     "say": "A shooting star makes a line of light across the sky. What do you think makes it? Show me with your hands how big you think it is. Why do you think so?",
+     "kid": "What makes a shooting star? Show how big it is with your hands. Why?",
+     "ask": [
+      {
+       "q": "What do you think it is, and how big?",
+       "good": [
+        "A star, as big as a house.",
+        "A rock, as big as a ball.",
+        "Something small burning."
+       ]
+      }
+     ],
+     "parent": "Most children show something big, like a ball or a house. Don't correct them yet.",
+     "context": "This is the first step of the shooting star activity. You guess what makes a shooting star, and how big it is."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Sprinkle a few grains of rava on the dark paper. 2. Look at one grain through the magnifying glass or the phone camera.",
+     "say": "Most shooting stars are made by a grain about this big. Many are even smaller, like specks of dust. It is a bit of rock from space, not a star.",
+     "kid": "Look at one grain of rava. Most shooting stars come from a grain this small!",
+     "ask": [
+      {
+       "q": "Is that bigger or smaller than you guessed?",
+       "good": [
+        "Much smaller.",
+        "Tiny, I thought it was big."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Find Chennai and Bengaluru on the map. 2. Tell your child how fast the grain moves.",
+     "say": "Chennai and Bengaluru are about 300 kilometres apart. A car takes about six hours. A grain making a shooting star can move about 30 kilometres every second. So it would get from Chennai to Bengaluru in about 10 seconds. Let's count to 10 together.",
+     "kid": "A car takes six hours from Chennai to Bengaluru. The grain takes 10 seconds! Count to 10.",
+     "parent": "Meteors enter the air at between about 11 and 72 kilometres a second. 30 is a fair middle number."
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Leave the child with the question. The explanation cards answer it later.",
+     "say": "So here is a puzzle. A grain this small burns up about 100 kilometres above us. That's like here to a city two or three hours' drive away. How can something so small make a light you can see from so far?",
+     "kid": "The grain is tiny and 100 km away. How can you see its light? Think about it.",
+     "think": "How can a tiny grain make a light you can see from 100 kilometres away?"
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Galileo's Dots: stars or moons?",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "the printed sheet of six nights of Jupiter's dots, or a copy drawn by hand",
+     "qty": 1
+    },
+    {
+     "item": "a steel plate or a round lid for Jupiter, and 4 small buttons, beads or chana for the dots",
+     "qty": 1
+    },
+    {
+     "item": "a phone to watch the short NASA Juno video afterwards",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep small buttons and beads away from children under 3.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Look at six nights of dots next to Jupiter. Decide if they are stars or moons, and why. Act out the moons going round with buttons."
+    }
+   ],
+   "record": "Write one sentence: the dots are stars or moons, because...",
+   "context": "In this activity you look at drawings of Jupiter and some dots beside it, made on six nights, as Galileo did in 1610. You decide whether the dots are faraway stars or moons going round Jupiter.",
+   "setup": [
+    {
+     "art": "Six rows on a sheet, each with a round Jupiter in the middle and two to four dots in a line beside it, in different places each row, labelled Night 1 to Night 6.",
+     "caption": "1. Look at the dots beside Jupiter on six nights."
+    },
+    {
+     "art": "A steel plate as Jupiter on a table, with four buttons moving in circles round it, and a child looking at it from the side, at table height.",
+     "caption": "2. Move buttons round a plate. Look from the side, at table height."
+    }
+   ],
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "Six nights of Jupiter (made-up, like Galileo's drawings)",
+     "items": [
+      "Night 1: two dots on the left of Jupiter, one dot on the right.",
+      "Night 2: no dots on the left, three dots on the right.",
+      "Night 3: two dots on the left, none on the right.",
+      "Night 4: one dot on the left, one dot on the right.",
+      "Night 5: one dot on the left, three dots on the right.",
+      "Night 6: three dots on the left, one dot on the right."
+     ]
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Show your child the six nights. 2. Ask them to look at where the dots are each night.",
+     "say": "In January 1610, Galileo looked at Jupiter through his small telescope. He saw tiny dots in a line beside it. He drew them every night. These drawings are like his. What do you notice about the dots?",
+     "kid": "Look at the dots beside Jupiter. Look at all six nights. What do you notice?",
+     "ask": [
+      {
+       "q": "What do the dots do?",
+       "good": [
+        "They move from side to side.",
+        "There are not always the same number.",
+        "They stay in a line."
+       ]
+      }
+     ],
+     "context": "This is the first step of Galileo's dots. You look at six nights of drawings of Jupiter."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Ask your child to decide: stars or moons.",
+     "say": "Stars stay in the same pattern night after night. Do these dots? Are they faraway stars, or are they going round Jupiter? Why do you think so?",
+     "kid": "Stars stay in the same place. Do these dots? Stars or moons? Why?",
+     "check": {
+      "t": "mcq",
+      "q": "In Galileo's drawings, the dots beside Jupiter swap from left to right, and sometimes one is missing. What are they most likely to be?",
+      "options": [
+       "Moons going round Jupiter",
+       "Faraway stars behind Jupiter",
+       "Dust on the telescope"
+      ],
+      "a": 0,
+      "why": "Stars keep the same pattern, so they would not swap sides like this. Dots that go from one side to the other, and sometimes vanish, are moving round Jupiter. A missing dot is behind or in front of Jupiter. Picking 'dust on the telescope' is a careful scientist's worry, but dust would stay in the same place on every planet you looked at."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Put the steel plate on the table as Jupiter. 2. Move 4 buttons in circles round it, each at a different distance. 3. Your child crouches so their eyes are level with the table and watches.",
+     "say": "Put your eyes level with the table. We see Jupiter's moons from the side like this, almost edge-on. As the buttons go round, what do you see?",
+     "kid": "Put your eyes level with the table. Watch the buttons go round. What do you see?",
+     "ask": [
+      {
+       "q": "What did the buttons look like from the side?",
+       "good": [
+        "They moved left and right in a line.",
+        "Sometimes one hid behind the plate."
+       ]
+      }
+     ],
+     "parent": "From the side, a button going round in a circle looks like it moves left and right along a line, exactly like Galileo's dots."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "Watch the NASA Juno video of the moons going round Jupiter together, if you can.",
+     "say": "Galileo worked out that these were four moons going round Jupiter. That was a big surprise. Many people then taught that everything in the sky goes round the Earth. Here were four things going round something else.",
+     "kid": "Galileo found four moons going round Jupiter. Not everything goes round the Earth!",
+     "ask": [
+      {
+       "q": "Why did this surprise people in 1610?",
+       "good": [
+        "They thought everything went round the Earth.",
+        "These moons went round Jupiter instead."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Shooting Star Watch: the Geminids from your terrace",
+   "mins": 40,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a mat or folding chair, and a shawl or blanket",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and pencil, and a clock or phone kept face down",
+     "qty": 1
+    },
+    {
+     "item": "a clear night around 13 or 14 December, and a terrace, balcony or open window facing a big patch of sky",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up must be there on a terrace at night. Stay well away from the edge and from open water tanks.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 40,
+     "what": "On a Geminid night, let your eyes get used to the dark, then count shooting stars for 30 minutes."
+    }
+   ],
+   "record": "Make a tally mark for every shooting star in each 10 minutes. Draw the brightest one.",
+   "context": "In this activity you watch for shooting stars on the nights of the Geminid shower in mid-December, from a terrace or balcony, and count them.",
+   "setup": [
+    {
+     "art": "A child and a grown-up lying on a mat on a city terrace at night, wrapped in a shawl, looking up, with a notebook beside them.",
+     "caption": "1. Lie down where you can see a big patch of sky."
+    },
+    {
+     "art": "A notebook page with three boxes labelled 'first 10 minutes', 'next 10 minutes', 'last 10 minutes', with tally marks in them.",
+     "caption": "2. Make a tally mark for every shooting star."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "1. On the night of 13 or 14 December, after 9 pm, go up to the terrace or balcony. 2. Switch off the lights near you. 3. Lie or sit facing the darkest part of the sky. 4. Don't look at a phone for 10 minutes.",
+     "say": "Our eyes need time to get used to the dark. Let's not look at any lights for 10 minutes. Then we start counting.",
+     "kid": "Lie down and look up. No phone, no lights. Wait for your eyes to get used to the dark.",
+     "adult": true,
+     "parent": "The Geminids come every year from about 4 to 20 December, with the most around 13 and 14 December. From a big city you may see only a few in an hour. Bright ones show up even over city lights. If it is cloudy, try the next night.",
+     "context": "This is the first step of the shooting star watch. You let your eyes get used to the dark."
+    },
+    {
+     "id": "s2",
+     "mins": 30,
+     "do": "1. Count shooting stars for 30 minutes. 2. Make a tally mark in the right box for each one. 3. Note any that are very bright or coloured.",
+     "say": "Every time you see one, say 'there!' and make a mark. Look at a big part of the sky, not one spot.",
+     "kid": "Say 'there!' for each shooting star. Make a mark in your notebook.",
+     "adult": true,
+     "ask": [
+      {
+       "q": "Where in the sky did they seem to come from?",
+       "good": [
+        "From one part of the sky.",
+        "From near the twin stars, in Gemini."
+       ]
+      }
+     ],
+     "parent": "Geminid meteors seem to come from near two bright stars, Castor and Pollux, in the Gemini group of stars, high in the east late at night. Seeing none is a real result. Write it down too."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Space Rock Sort: what is it?",
+   "mins": 12,
+   "days": 1,
+   "materials": [
+    {
+     "item": "the 12 printed clue cards, or the clues written on scraps of paper",
+     "qty": 1
+    },
+    {
+     "item": "6 labels on paper: moon, asteroid, comet, meteoroid, meteor, meteorite",
+     "qty": 1
+    }
+   ],
+   "safety": "None needed.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Read each clue card and put it under the right label."
+    }
+   ],
+   "record": "Copy the six labels and one clue for each into your notebook.",
+   "context": "In this activity you sort clue cards about the smaller things in the solar system into six groups: moon, asteroid, comet, meteoroid, meteor and meteorite.",
+   "setup": [
+    {
+     "art": "Six paper labels in a row on the floor: moon, asteroid, comet, meteoroid, meteor, meteorite.",
+     "caption": "1. Lay out the six labels."
+    },
+    {
+     "art": "A child placing a small clue card under the label 'comet'.",
+     "caption": "2. Read each clue and put it under the right label."
+    }
+   ],
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "12 clue cards",
+     "items": [
+      "I go round Mars. My name is Phobos. (moon)",
+      "I am the biggest moon of all, and I go round Jupiter. (moon)",
+      "I am a lump of rock and metal between Mars and Jupiter. (asteroid)",
+      "I am Ceres, the biggest of my kind, in the belt between Mars and Jupiter. (asteroid)",
+      "I am ice and dust. Near the Sun I grow a long tail. (comet)",
+      "I come back about every 76 years. People last saw me in 1986. (comet)",
+      "I am a grain of dust floating in space. (meteoroid)",
+      "I am a bit of rock in space, too small to call an asteroid. (meteoroid)",
+      "I am a streak of light in the sky, gone in a second. (meteor)",
+      "People call me a shooting star. (meteor)",
+      "I fell from space and landed in a field. (meteorite)",
+      "I was found on the ice of Antarctica, with a dark crust from my fall. (meteorite)"
+     ]
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Lay out the six labels. 2. Read each label aloud and give one short meaning.",
+     "say": "A moon goes round a planet. An asteroid is a rocky lump going round the Sun. A comet is ice and dust. A meteoroid is a small bit of rock in space. A meteor is the streak of light. A meteorite is a piece that lands.",
+     "kid": "Read the six labels. A moon goes round a planet. A meteor is a streak of light.",
+     "context": "This is the first step of the space rock sort. You learn the six labels."
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "do": "Your child reads each clue card and puts it under a label. The answers are in brackets on the cards. Cover them or cut them off first.",
+     "say": "Read the clue. Which label does it go under? Why?",
+     "kid": "Read each clue. Put it under the right label. Say why.",
+     "check": {
+      "t": "mcq",
+      "q": "Lakshmi finds a dark stone in her field the morning after a bright flash in the sky. If it came from space, what is the stone called?",
+      "options": [
+       "A meteorite",
+       "A meteor",
+       "A comet"
+      ],
+      "a": 0,
+      "why": "A piece of space rock that lands on the ground is a meteorite. The bright flash in the sky was the meteor. Picking 'meteor' is a very common mix-up. A meteor is only the light, so you can't pick one up."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Look at the meteoroid, meteor and meteorite cards together.",
+     "say": "These three are the same kind of rock at three moments. In space, in the air, and on the ground.",
+     "kid": "Meteoroid, meteor, meteorite. Same rock. In space, in the air, on the ground.",
+     "ask": [
+      {
+       "q": "Put these in order: meteorite, meteoroid, meteor.",
+       "good": [
+        "Meteoroid, then meteor, then meteorite."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "Magnet Dust Hunt: could any of this dust be from space?",
+   "mins": 20,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a strong magnet, such as a fridge magnet with a flat ceramic back, or a magnet from an old speaker",
+     "qty": 1
+    },
+    {
+     "item": "a small zip-lock bag or thin plastic bag to wrap the magnet in",
+     "qty": 1
+    },
+    {
+     "item": "a sheet of white paper",
+     "qty": 1
+    },
+    {
+     "item": "a magnifying glass or a phone camera zoomed in",
+     "qty": 1
+    },
+    {
+     "item": "dust swept from a balcony corner, a window ledge, or the bottom of a rooftop drain",
+     "qty": 1
+    }
+   ],
+   "safety": "Wear a mask or don't breathe in the dust. Wash hands afterwards. A grown-up goes with the child to any rooftop drain.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Collect a spoon of dust. Wrap a magnet in plastic and pull out the grains that stick. Look at them up close."
+    }
+   ],
+   "record": "Draw three grains you found. Write which ones are round.",
+   "context": "In this activity you pull grains out of balcony dust with a magnet and look at them closely. Scientists hunt for space dust on rooftops in the same way.",
+   "setup": [
+    {
+     "art": "A child sweeping a spoonful of grey dust from a balcony corner onto white paper.",
+     "caption": "1. Collect a spoon of dust onto white paper."
+    },
+    {
+     "art": "A magnet inside a plastic bag held just above the dust, with tiny black grains jumping up and sticking to the bag.",
+     "caption": "2. Hold the wrapped magnet over the dust."
+    },
+    {
+     "art": "A few black grains on white paper seen through a magnifying glass, one of them a tiny round bead.",
+     "caption": "3. Look at the grains. Are any round?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Sweep about one spoon of dust from a balcony corner or window ledge onto white paper. 2. Put the magnet inside the plastic bag.",
+     "say": "Tiny bits of space dust fall on the whole Earth every day. Some of it has iron in it. Let's see what our magnet can pull out of this dust.",
+     "kid": "Collect a spoon of dust. Put the magnet in the plastic bag.",
+     "context": "This is the first step of the magnet dust hunt. You collect some dust and get the magnet ready."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Hold the wrapped magnet just above the dust and move it slowly. 2. Lift it over a clean sheet of paper. 3. Pull the magnet out of the bag, and the grains drop off onto the paper.",
+     "say": "Did anything jump up to the magnet? Let's drop the grains onto clean paper.",
+     "kid": "Move the magnet over the dust. Then drop the grains on clean paper.",
+     "parent": "City dust almost always has some black grains that stick to a magnet. The plastic bag stops them sticking to the magnet itself, which is hard to clean."
+    },
+    {
+     "id": "s3",
+     "mins": 7,
+     "do": "Look at the grains with a magnifying glass or the phone camera. Look for any that are perfectly round and shiny.",
+     "say": "Most of these grains come from the city: from roads, brakes, old iron and smoke. A very few might come from space. Space dust that melted on the way down often becomes a tiny round, shiny bead. Can you see any round ones?",
+     "kid": "Look closely. Most grains come from the city. Round shiny beads might be from space!",
+     "check": {
+      "t": "mcq",
+      "q": "Divya finds a tiny round black bead in her balcony dust. It sticks to a magnet. What can she say for sure?",
+      "options": [
+       "It has iron in it, but it may or may not be from space",
+       "It is definitely from space",
+       "It is definitely from a road"
+      ],
+      "a": 0,
+      "why": "It sticks to a magnet, so it has iron in it. Round beads can come from space, but also from welding, factories and smoke. Telling them apart needs a strong microscope. Picking 'definitely from space' is exciting, but a good scientist only says what the evidence shows."
+     },
+     "parent": "Be honest with your child: you probably can't tell which grains, if any, came from space. In 2017, scientists who searched rooftop gutters in Oslo, Paris and Berlin found a few hundred space grains in hundreds of kilograms of dirt, using a microscope."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "Talk about what you found.",
+     "say": "Even if we can't tell which ones, space dust really is falling on our building every day. The Earth is still collecting bits from space.",
+     "kid": "Space dust falls on your building every day. The Earth is still collecting it.",
+     "ask": [
+      {
+       "q": "How could a scientist tell if a bead came from space?",
+       "good": [
+        "Look at it with a strong microscope.",
+        "Test what it is made of."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "Four Nights with Jupiter's Moons",
+   "mins": 60,
+   "days": 4,
+   "materials": [
+    {
+     "item": "binoculars, such as 7x50 or 10x50, bought or borrowed",
+     "qty": 1,
+     "buy": "b-binoculars"
+    },
+    {
+     "item": "a balcony railing, a wall or a chair back to rest the binoculars on",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and pencil",
+     "qty": 1
+    },
+    {
+     "item": "a phone with Stellarium Web, to find Jupiter",
+     "qty": 1
+    }
+   ],
+   "safety": "Never point binoculars at the Sun. Do this only after sunset. A grown-up stays with the child on a terrace at night.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Find Jupiter with Stellarium Web. Look at Jupiter through binoculars and draw the dots beside it."
+    },
+    {
+     "day": 2,
+     "mins": 10,
+     "what": "Look again at the same time. Draw the dots."
+    },
+    {
+     "day": 3,
+     "mins": 10,
+     "what": "Look again. Draw the dots."
+    },
+    {
+     "day": 4,
+     "mins": 20,
+     "what": "Look a last time. Compare all four drawings, and check the moons' names on Stellarium Web."
+    }
+   ],
+   "record": "Four drawings, one for each night, with the date and time, Jupiter as a circle and each dot where you saw it.",
+   "context": "In this 4-night project you do what Galileo did in 1610. You look at Jupiter through binoculars, draw the tiny dots beside it each night, and see them move.",
+   "setup": [
+    {
+     "art": "A child resting binoculars on a balcony railing at dusk, aiming at a bright dot over rooftops.",
+     "caption": "1. Rest the binoculars on a railing to keep them still."
+    },
+    {
+     "art": "A notebook page with four boxes, each with a circle for Jupiter and a few dots in a line, in different places, with dates.",
+     "caption": "2. Draw Jupiter and its dots each night."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "1. Open Stellarium Web on a phone and search for Jupiter. 2. Check that Jupiter is above the horizon in the evening. 3. Go out after sunset and find Jupiter. It is usually the brightest dot after the Moon and Venus, and it does not twinkle much.",
+     "say": "Let's find Jupiter first. It looks like a very bright star that hardly twinkles.",
+     "kid": "Find Jupiter on the phone map. Then find it in the sky.",
+     "adult": true,
+     "parent": "Jupiter is in the evening sky for several months most years. If Stellarium shows it rises only after midnight, save this project for later in the year.",
+     "context": "This is the first step of the Jupiter moons project. You find Jupiter in the sky."
+    },
+    {
+     "id": "s2",
+     "mins": 12,
+     "do": "1. Rest the binoculars on a railing or wall. 2. Look at Jupiter. 3. Look for tiny dots in a line on either side of it. 4. Draw Jupiter as a circle and each dot where you see it. 5. Write the date and time.",
+     "say": "Hold very still. Can you see tiny dots in a line next to Jupiter? Draw them just where they are.",
+     "kid": "Rest the binoculars. Look for tiny dots beside Jupiter. Draw them.",
+     "adult": true,
+     "parent": "On most nights you see two, three or four dots. Holding the binoculars still is the hardest part, so rest them on something. Lying back on a chair with the binoculars on your chest can help.",
+     "wait": "Look again tomorrow at the same time."
+    },
+    {
+     "id": "s3",
+     "mins": 20,
+     "do": "On nights 2, 3 and 4, look again at the same time and draw the dots.",
+     "say": "Where are the dots tonight? Have any moved, or gone missing?",
+     "kid": "Look again. Draw the dots. Have they moved?",
+     "adult": true
+    },
+    {
+     "id": "s4",
+     "mins": 20,
+     "do": "1. Lay the four drawings side by side. 2. Use Stellarium Web to see the names of the moons on those nights.",
+     "say": "Look at all four nights. Did the dots stay still, like stars, or move like moons? Galileo saw just this in 1610.",
+     "kid": "Look at all four drawings. Did the dots move? Then they are moons!",
+     "ask": [
+      {
+       "q": "How do you know the dots are moons and not stars?",
+       "good": [
+        "They changed places each night.",
+        "They moved from one side of Jupiter to the other."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Land on a Comet Without Bouncing",
+   "mins": 25,
+   "problem": "A comet's pull is so weak that a lander can bounce right off it. In 2014, the lander Philae bounced twice on comet 67P before it stopped. Design a lander from a paper cup that lands on a tray and stays there, without bouncing off or falling over.",
+   "constraints": [
+    "Drop it from 50 cm above a tray or a steel thali, every time from the same height.",
+    "Use only one paper cup, paper, tape, rubber bands, cotton wool and old cloth.",
+    "It must land upright three times out of three."
+   ],
+   "materials": [
+    "1 paper cup",
+    "paper and tape",
+    "rubber bands",
+    "cotton wool or bits of old cloth",
+    "a tray or steel thali",
+    "a ruler"
+   ],
+   "general": [
+    "Add soft feet, such as cotton wool or folded cloth, so the lander does not spring back up.",
+    "Make the base wide and heavy, so it does not tip over.",
+    "Real landers have legs that squash a little as they touch down, to soak up the bump."
+   ],
+   "creative": [
+    "Add tape sticky side out on the feet, so the lander grips when it touches. Philae had harpoons for this, but they did not fire.",
+    "Put a small weight, such as a coin, low inside the cup.",
+    "Make legs that spread out as they touch down."
+   ],
+   "your_turn": "Now design a lander for a comet that is even smaller and pulls even less. What would you change?",
+   "context": "This is a design challenge. A comet pulls so weakly that landing on one is hard. You design a paper-cup lander that stays down.",
+   "setup": [
+    {
+     "art": "A plain paper cup dropped from a ruler's height onto a steel thali, bouncing and tipping over.",
+     "caption": "1. Drop a plain paper cup from 50 cm. Does it bounce?"
+    },
+    {
+     "art": "A paper cup lander with cotton-wool feet and sticky tape on its base, standing upright on a thali.",
+     "caption": "2. Change your lander. Test it three times."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Drop a plain paper cup, open end up, from 50 cm onto the tray. 2. Watch what happens.",
+     "say": "This is our first lander. Let's drop it from 50 cm. Does it stay upright, bounce or fall over?",
+     "kid": "Drop the plain cup from 50 cm. Does it bounce or fall over?",
+     "context": "This is the first step of the comet lander challenge. You test a plain paper cup."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "1. Change the lander using the materials. 2. Test it three times. 3. Change it again if it fails.",
+     "say": "In 2014, a lander called Philae reached comet 67P. Its harpoons did not fire, and it bounced twice before stopping in a shadow. Design yours so it stays.",
+     "kid": "Change your lander. Drop it three times. Does it stay up?",
+     "parent": "The comet was found in 1969 by Klim Churyumov, looking at a photo taken by Svetlana Gerasimenko. It is named after both of them."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Ask your child to show the best lander and explain it.",
+     "say": "Show me your best lander. What stopped it bouncing?",
+     "kid": "Show your best lander. What stopped the bounce?",
+     "ask": [
+      {
+       "q": "Why is it hard to land on a comet?",
+       "good": [
+        "It pulls so weakly that you bounce off.",
+        "Its gravity is very weak."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "Is This Stone from Space? Plan the tests",
+   "mins": 20,
+   "problem": "Nila's uncle finds a heavy dark stone in his field near Salem after a loud bang in the night. Plan tests that could show whether it is a meteorite or an ordinary stone.",
+   "constraints": [
+    "Use only tests a family can do at home first.",
+    "Say what result would point to a meteorite, and what would point to an ordinary stone.",
+    "Say who you would send it to for a final answer."
+   ],
+   "materials": [
+    "2 or 3 ordinary stones about the size of a lemon",
+    "a magnet",
+    "a kitchen scale, if you have one",
+    "paper and pencil"
+   ],
+   "general": [
+    "Many meteorites have iron and nickel in them, so they stick to a magnet.",
+    "Many meteorites feel heavier than an ordinary stone of the same size.",
+    "A fresh meteorite has a thin, dark, smooth crust, from melting on the way down.",
+    "A university or the Geological Survey of India can test it for certain."
+   ],
+   "creative": [
+    "Compare it with a photo of a known meteorite from a museum website.",
+    "Ask neighbours if they saw a bright flash or heard a bang at the same time.",
+    "Look for bubbles: most meteorites do not have the small holes many volcanic stones have."
+   ],
+   "your_turn": "Now pick one ordinary stone at home. Do your tests on it. Write what each test shows.",
+   "context": "This is a thinking challenge. You plan how to tell a meteorite from an ordinary stone, using tests you can do at home.",
+   "setup": [
+    {
+     "art": "A dark heavy stone on a kitchen table next to a magnet, a kitchen scale and two ordinary grey stones.",
+     "caption": "1. Put the stones and your tools on the table."
+    },
+    {
+     "art": "A child holding a magnet to an ordinary grey stone and writing in a notebook.",
+     "caption": "2. Test each stone. Write what each test shows."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Read the problem aloud. Ask your child for one test idea.",
+     "say": "Nila's uncle found a heavy dark stone after a bang in the night. How could we find out if it came from space?",
+     "kid": "A stone fell after a bang. How could you test if it came from space?",
+     "context": "This is the first step of the space stone challenge. You think of ways to test a stone."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "1. Try the magnet test on ordinary stones at home. 2. Feel how heavy each stone is for its size. 3. Look at the outside of each one.",
+     "say": "Does the magnet stick? Does it feel heavy for its size? Is the outside smooth and dark, or rough and grey?",
+     "kid": "Try the magnet. Feel how heavy it is. Look at the outside.",
+     "parent": "Most ordinary stones don't stick to a magnet, but some do, if they have iron minerals in them. So one test is not enough. That is a good lesson."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Ask your child to write a plan with three tests.",
+     "say": "Write three tests. For each one, what result would make you think 'meteorite'?",
+     "kid": "Write three tests. Say what each result would mean.",
+     "ask": [
+      {
+       "q": "Why is one test not enough?",
+       "good": [
+        "Some ordinary stones stick to magnets too.",
+        "A test can fool you, so you check in more ways."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "videos": [
+  {
+   "title": "Comets and Asteroids!",
+   "channel": "SciShow Kids",
+   "youtube": "02wrLS-ue1Q",
+   "mins": 4,
+   "why": "A clear, friendly short video on what comets and asteroids are made of and how they differ. Good after the ice comet test.",
+   "check": "Id and title confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it."
+  },
+  {
+   "title": "Meteors and meteor showers, explained",
+   "channel": "CBC Kids News",
+   "youtube": "VmMyZVfUWok",
+   "mins": 4,
+   "why": "Explains where shooting stars come from and why showers come on the same dates each year. Good before a Geminid watch.",
+   "check": "Id and title confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it, and check it says meteors glow because of squashed, heated air."
+  },
+  {
+   "title": "Juno Approach Movie of Jupiter and the Galilean Moons",
+   "channel": "NASA Juno",
+   "youtube": "XpsQimYhNkA",
+   "mins": 2,
+   "why": "Real pictures taken by NASA's Juno spacecraft as it neared Jupiter in 2016, showing the four big moons going round. It shows exactly what Galileo worked out.",
+   "check": "Id and title confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it."
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "Which planet has no moon?",
+   "opts": [
+    "Venus",
+    "Mars",
+    "Jupiter",
+    "Saturn"
+   ],
+   "a": 0,
+   "why": "Mercury and Venus are the only planets with no moons. Picking Mars is a common slip: Mars has two small moons, Phobos and Deimos.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "What did Galileo see beside Jupiter in 1610?",
+   "opts": [
+    "Four moons going round Jupiter",
+    "Rings round Jupiter",
+    "A comet hitting Jupiter",
+    "A new star"
+   ],
+   "a": 0,
+   "why": "He saw dots that changed sides night after night, and worked out they were moons going round Jupiter. Picking 'rings' mixes Jupiter up with Saturn, whose rings are easy to see in a telescope.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "What is the main difference between an asteroid and a comet?",
+   "opts": [
+    "An asteroid is mostly rock and metal. A comet has a lot of ice.",
+    "An asteroid is always bigger than a comet.",
+    "An asteroid goes round a planet. A comet goes round the Sun."
+   ],
+   "a": 0,
+   "why": "Asteroids are rocky or metal. Comets are ice, dust and rock, and their ice makes the tail near the Sun. Picking 'goes round a planet' describes a moon. Both asteroids and comets go round the Sun.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Where are most asteroids?",
+   "opts": [
+    "Between Mars and Jupiter",
+    "Between the Earth and the Moon",
+    "Inside the Sun",
+    "Beyond the stars"
+   ],
+   "a": 0,
+   "why": "Most asteroids go round the Sun in the asteroid belt, between Mars and Jupiter. Picking 'between the Earth and the Moon' is a fair guess, since some asteroids do pass near the Earth, but they are only a tiny few.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "In the ice comet test, Anjali puts one dirty ice ball in the sun and one in the shade. After 30 minutes, what does the sunny one look like?",
+   "opts": [
+    "Smaller, with a dark crust of dirt",
+    "Bigger and whiter",
+    "Smaller and perfectly clean",
+    "Exactly the same as the shady one"
+   ],
+   "a": 0,
+   "why": "The sun melts its ice faster. The dirt cannot melt, so it stays on the surface as a dark crust. Picking 'perfectly clean' is the guess many people make, because water usually washes dirt away.",
+   "outcome": 2,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "Why is the nucleus of a real comet darker than coal?",
+   "opts": [
+    "Its ice has turned to gas and left a crust of dark dust",
+    "It is made of coal",
+    "It is in the Earth's shadow",
+    "It is burning"
+   ],
+   "a": 0,
+   "why": "Each pass near the Sun, ice leaves and dust stays, building a dark crust, as in the ice comet test. Picking 'burning' is a common idea, but comets do not burn. Their glow is sunlight on gas and dust.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A comet has passed the Sun and is now moving away from it. Where is its tail?",
+   "opts": [
+    "In front of it, pointing away from the Sun",
+    "Behind it, pointing towards the Sun",
+    "It has no tail at all"
+   ],
+   "a": 0,
+   "why": "The Sun pushes a comet's tail away from it all the time, so when the comet moves away, its tail goes in front. Picking 'behind it' is what we expect from hair or a kite, and is what happened in the fan test with the fan off.",
+   "outcome": 3,
+   "how": "e2"
+  },
+  {
+   "t": "mcq",
+   "p": "What pushes a comet's tail away from the Sun?",
+   "opts": [
+    "Sunlight and the solar wind",
+    "Wind in space",
+    "The comet's speed",
+    "The Earth's gravity"
+   ],
+   "a": 0,
+   "why": "Sunlight and the solar wind, a stream of tiny particles from the Sun, push the gas and dust outwards. Picking 'wind in space' is close in spirit, but space has no air, so there is no ordinary wind there.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "What is a meteor?",
+   "opts": [
+    "The streak of light when a bit of space rock burns up in our air",
+    "A star that falls",
+    "A stone that lands on the ground",
+    "A rock in the asteroid belt"
+   ],
+   "a": 0,
+   "why": "The streak of light is the meteor. Picking 'a stone that lands' describes a meteorite, the piece that reaches the ground.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Why does a tiny grain glow so brightly when it enters our air?",
+   "opts": [
+    "It moves so fast that it squashes the air in front of it, and the air gets extremely hot",
+    "It is on fire before it arrives",
+    "It reflects the light of the Moon",
+    "It is a small star"
+   ],
+   "a": 0,
+   "why": "At tens of kilometres a second, the grain squashes the air ahead so hard that it gets hotter than a furnace. The grain turns to glowing gas. Picking 'on fire before it arrives' is a common idea, but space has no air, so nothing can burn there.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Why does the Geminid meteor shower come around 13 and 14 December every year?",
+   "opts": [
+    "The Earth reaches the same dust trail at the same point in its path each year",
+    "Stars fall more in winter",
+    "The Moon sends dust in December",
+    "December nights are longer"
+   ],
+   "a": 0,
+   "why": "The Earth takes one year to go round the Sun, so it crosses the dust trail at the same point, on the same dates, every year. Picking 'December nights are longer' is a sensible thought, because longer nights give more time to watch, but it does not explain the dates.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "In 1803, thousands of stones fell near L'Aigle in France. What did the scientist Jean-Baptiste Biot show?",
+   "opts": [
+    "The stones really had fallen from the sky",
+    "The stones had been thrown up by a volcano",
+    "The stones had been struck by lightning",
+    "Nobody had really seen anything"
+   ],
+   "a": 0,
+   "why": "Biot talked to many people who saw the fall, mapped where the stones landed, and found they were unlike local rock. This convinced scientists that stones fall from space. 'Lightning' and 'volcano' were the old explanations that his study ruled out.",
+   "outcome": 6
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Moons, Asteroids, Comets and Shooting Stars (core)",
+   "tier": "core",
+   "mins": 20,
+   "items": [
+    {
+     "t": "match",
+     "p": "Match each planet to its moons.",
+     "pairs": [
+      [
+       "Earth",
+       "one moon"
+      ],
+      [
+       "Mars",
+       "two small moons, Phobos and Deimos"
+      ],
+      [
+       "Jupiter",
+       "more than 90 moons, including Ganymede"
+      ],
+      [
+       "Venus",
+       "no moons"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Venus and Mercury have no moons. The giant planets have many. A strong answer could add that new small moons are still being found round the giants."
+    },
+    {
+     "t": "fill",
+     "p": "A lump of rock and metal that goes round the Sun, mostly between Mars and Jupiter, is called an ____.",
+     "a": [
+      "asteroid"
+     ],
+     "why": "Asteroids are rocky leftovers from when the planets formed."
+    },
+    {
+     "t": "truefalse",
+     "p": "Meena, a girl in Class 3, says: 'A shooting star is a star that falls out of the sky.' Is she right?",
+     "a": false,
+     "why": "False. A shooting star is a grain of space dust burning up about 100 km above us. The real stars stay where they are, much, much further away."
+    },
+    {
+     "t": "order",
+     "p": "Put these in the order they happen to one bit of space rock.",
+     "items": [
+      "It lands in a field as a meteorite.",
+      "It floats in space as a meteoroid.",
+      "It glows in our air as a meteor."
+     ],
+     "a": [
+      "It floats in space as a meteoroid.",
+      "It glows in our air as a meteor.",
+      "It lands in a field as a meteorite."
+     ],
+     "why": "Meteoroid in space, meteor in the air, meteorite on the ground. A strong answer notices it is the same rock at three moments."
+    },
+    {
+     "t": "mcq",
+     "p": "In the ice comet test, why did we put one ice comet in the shade?",
+     "opts": [
+      "To compare it with the sunny one, so we could see what the sun changed",
+      "Because shade makes ice melt faster",
+      "To keep one for eating"
+     ],
+     "a": 0,
+     "why": "The shady comet is the comparison. Everything was the same except the sun, so any difference was caused by the sun. Picking 'shade makes ice melt faster' is the opposite of what happens.",
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "In the ice comet test, the dirt was mixed all through the ice at the start. After 30 minutes in the sun, it was a dark crust on top. Explain why.",
+     "lines": 3,
+     "a": "The sun melted the ice away. The dirt could not melt, so it was left behind on the outside. The more ice went, the more dirt built up.",
+     "why": "A strong answer says the dirt did not move up or grow. It was left behind where the ice used to be.",
+     "how": "e1"
+    },
+    {
+     "t": "draw",
+     "p": "Draw the Sun and a comet at two places on its path: one coming in towards the Sun and one going away. Draw each comet's tail.",
+     "a": "Both tails point straight away from the Sun. The coming-in comet has its tail behind it, and the going-away comet has its tail in front.",
+     "why": "A comet's tail always points away from the Sun. A strong drawing shows the tail in front of the comet that is going away.",
+     "art": "A small Sun in the middle of an empty page with a long oval path drawn round it."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these into things that go round a planet and things that go round the Sun.",
+     "cats": [
+      "Goes round a planet",
+      "Goes round the Sun"
+     ],
+     "items": [
+      [
+       "our Moon",
+       "Goes round a planet"
+      ],
+      [
+       "Ceres",
+       "Goes round the Sun"
+      ],
+      [
+       "Ganymede",
+       "Goes round a planet"
+      ],
+      [
+       "Halley's Comet",
+       "Goes round the Sun"
+      ],
+      [
+       "Phobos",
+       "Goes round a planet"
+      ],
+      [
+       "the Earth",
+       "Goes round the Sun"
+      ]
+     ],
+     "a": "see items",
+     "why": "Moons go round planets. Planets, asteroids such as Ceres, and comets go round the Sun. A strong answer remembers that moons also go round the Sun, together with their planet."
+    },
+    {
+     "t": "mcq",
+     "p": "Where in the sky do most shooting stars burn up?",
+     "opts": [
+      "About 80 to 120 km above the ground, higher than aeroplanes",
+      "Just above the rooftops",
+      "Near the Moon",
+      "In the clouds"
+     ],
+     "a": 0,
+     "why": "They burn up high in the air, far above aeroplanes, which fly at about 10 km. Picking 'just above the rooftops' is a common feeling, because shooting stars seem close. That is why Arjun in the story thought one landed in the next street."
+    },
+    {
+     "t": "truefalse",
+     "p": "Small asteroids are lumpy, like potatoes, because their gravity is too weak to pull them into a ball.",
+     "a": true,
+     "why": "True. Big worlds pull themselves into a ball from all sides. Small asteroids do not pull hard enough, so they keep their lumpy shapes."
+    },
+    {
+     "t": "write",
+     "p": "Arjun's grain of rava in the story could not glow on its own. What would it need to do to make a light like a shooting star?",
+     "lines": 3,
+     "a": "It would have to rush into the air extremely fast, tens of kilometres every second. Then it would squash the air in front of it, which gets very hot, and the grain would turn into glowing gas.",
+     "why": "A strong answer says it is the speed, not the size, that makes the light."
+    },
+    {
+     "t": "odd",
+     "p": "Which one is the odd one out?",
+     "opts": [
+      "Io",
+      "Europa",
+      "Ceres",
+      "Callisto"
+     ],
+     "a": 2,
+     "why": "Ceres is an asteroid, going round the Sun. Io, Europa and Callisto are moons of Jupiter."
+    },
+    {
+     "t": "perspective",
+     "p": "Two friends in Chennai, Kavya and Farhan, saw Comet NEOWISE in July 2020.",
+     "views": [
+      {
+       "who": "Kavya, aged 9",
+       "says": "A comet is a lucky sign. People should make wishes when one comes."
+      },
+      {
+       "who": "Farhan, aged 9",
+       "says": "A comet is just a lump of ice and dust that comes near the Sun on its path. It can't bring luck."
+      }
+     ],
+     "ask": "Which friend do you agree with? Give a reason. Then say one thing the other friend has a point about.",
+     "lines": 5,
+     "a": "A strong answer picks a side with evidence, such as comets returning on paths we can work out. It also gives the other side its due: Kavya is right that seeing a comet is special and makes people happy, as it did for Paati in the story. Farhan is right about what a comet is made of.",
+     "why": "People have felt strongly about comets for thousands of years. Science tells us what a comet is, while how people feel about seeing one is their own."
+    },
+    {
+     "t": "label",
+     "p": "Label the parts of the comet on the drawing: nucleus, coma, gas tail, dust tail, and an arrow showing the way to the Sun.",
+     "a": "The nucleus is the small solid lump in the centre. The coma is the glowing cloud round it. The gas tail is straight and thin. The dust tail is wider and curved. Both tails point away from the arrow to the Sun.",
+     "why": "A strong answer puts both tails on the side away from the Sun.",
+     "art": "An unlabelled comet with a small dot in the middle, a glowing cloud, one straight thin tail and one curved wide tail, and five blank label lines."
+    },
+    {
+     "t": "fill",
+     "p": "When a solid, such as a comet's ice, turns straight into a gas without melting first, this is called ____.",
+     "a": [
+      "sublimation"
+     ],
+     "why": "In space there is no air pushing on the ice, so it turns straight into gas instead of melting into water."
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Tails, Showers and Strange Moons (stretch)",
+   "tier": "stretch",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "In the fan test, Priya walks sideways across the fan's air with her paper comet. Where does the tail point?",
+     "opts": [
+      "Away from the fan, not behind her hand",
+      "Behind her hand",
+      "Towards the fan"
+     ],
+     "a": 0,
+     "why": "The fan's air pushes the tail away from the fan, whichever way she walks. Picking 'behind her hand' is what happened with the fan off.",
+     "how": "e2"
+    },
+    {
+     "t": "write",
+     "p": "With the fan off, the paper comet's tail trailed behind. With the fan on, it pointed away from the fan. What does this tell you about real comets and the Sun?",
+     "lines": 4,
+     "a": "A comet's tail is not made by the comet moving. It is pushed by the Sun. So a real comet's tail points away from the Sun, even when the comet is moving away from the Sun.",
+     "why": "A strong answer compares the two parts of the test and links the fan to the Sun's push.",
+     "how": "e2"
+    },
+    {
+     "t": "truefalse",
+     "p": "The fan in the fan test is just like the Sun, because both push in one direction only.",
+     "a": false,
+     "why": "False. A fan blows one way. The Sun pushes out in every direction, so a comet's tail points away from the Sun wherever the comet is. A strong answer says how the model and the real thing differ."
+    },
+    {
+     "t": "write",
+     "p": "Ganymede is wider than the planet Mercury. So why is Ganymede called a moon and not a planet?",
+     "lines": 3,
+     "a": "Because Ganymede goes round Jupiter, not round the Sun on its own path. A moon is named by what it goes round, not by how big it is.",
+     "why": "A strong answer says 'moon' means a world that goes round a planet."
+    },
+    {
+     "t": "mcq",
+     "p": "Lonar Lake in Maharashtra is round, with steep sides. How did the hollow it sits in form?",
+     "opts": [
+      "A meteorite hit the ground very fast and blasted out a crater",
+      "People dug it for water",
+      "A river wore it away",
+      "An elephant herd stamped the ground flat"
+     ],
+     "a": 0,
+     "why": "Lonar Lake fills a crater made by a meteorite impact long ago. Picking 'people dug it' is reasonable for many Indian tanks and ponds, but not for a hollow this big and this round."
+    },
+    {
+     "t": "order",
+     "p": "Put these in order, from the smallest to the biggest.",
+     "items": [
+      "Phobos, a moon of Mars, about 22 km",
+      "a grain that makes a shooting star",
+      "Ganymede, a moon of Jupiter",
+      "Ceres, the biggest asteroid, about 940 km"
+     ],
+     "a": [
+      "a grain that makes a shooting star",
+      "Phobos, a moon of Mars, about 22 km",
+      "Ceres, the biggest asteroid, about 940 km",
+      "Ganymede, a moon of Jupiter"
+     ],
+     "why": "A grain is smaller than a millimetre. Phobos is about 22 km, Ceres about 940 km, and Ganymede about 5,300 km. A strong answer notices that a moon can be smaller than an asteroid."
+    },
+    {
+     "t": "perspective",
+     "p": "Two scientists disagree about where the Earth's seas came from.",
+     "views": [
+      {
+       "who": "Dr Meenakshi, who studies comets",
+       "says": "The young Earth was very hot and may have lost its first water. Comets and icy asteroids crashing into it brought much of the water back."
+      },
+      {
+       "who": "Dr Rupa, who studies rocks",
+       "says": "Water in many comets is slightly different from sea water. Most of the Earth's water was there from the start, inside its rocks."
+      }
+     ],
+     "ask": "Which scientist do you agree with? Give a reason. Then say one thing the other scientist has right.",
+     "lines": 5,
+     "a": "A strong answer uses the evidence each scientist gives. Dr Meenakshi is right that comets hold lots of ice. Dr Rupa is right that the water in many comets does not quite match our seas. Real scientists still argue about this, and the answer may be a bit of both.",
+     "why": "This is a real, open question. Both views have evidence."
+    },
+    {
+     "t": "mcq",
+     "p": "Nila counted 7 shooting stars from her city terrace. Her cousin in a village far from any town counted more than 50 on the same night. Why?",
+     "opts": [
+      "The village sky was darker, so faint meteors showed up",
+      "More dust fell on the village",
+      "Villages are closer to space",
+      "Nila was not looking properly"
+     ],
+     "a": 0,
+     "why": "The same shower falls over the whole area, but city lights hide the faint meteors. Picking 'more dust fell on the village' is a good thought, but both places were under the same shower."
+    },
+    {
+     "t": "write",
+     "p": "Halley's Comet came near the Sun in 1986 and will come again in 2061. Will it look exactly the same? Explain.",
+     "lines": 3,
+     "a": "Not exactly. Each time it passes the Sun, it loses some ice and dust, so it is a little smaller, with a little more dark crust. Its brightness also depends on where the Earth is when it passes.",
+     "why": "A strong answer uses what happened to the ice comet: each pass near the Sun takes some of it away."
+    },
+    {
+     "t": "draw",
+     "p": "Draw the Earth's round path and a comet's long, stretched path crossing it. Show where the comet's dust is, and where the Earth will see a meteor shower.",
+     "a": "A circle for the Earth's path, a long oval for the comet's path crossing it, dots of dust along the oval, and a mark at the crossing for the meteor shower.",
+     "why": "A strong drawing puts dust along the whole comet path, not just near the comet, and marks the crossing.",
+     "art": "A small Sun in the middle of an empty page."
+    },
+    {
+     "t": "match",
+     "p": "Match each moon to something true about it.",
+     "pairs": [
+      [
+       "Io",
+       "has hundreds of volcanoes"
+      ],
+      [
+       "Europa",
+       "has an ocean under its ice"
+      ],
+      [
+       "Titan",
+       "has thick air and lakes of a liquid called methane"
+      ],
+      [
+       "Ganymede",
+       "is the biggest moon in the solar system"
+      ],
+      [
+       "Phobos",
+       "is a small, lumpy moon of Mars"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each moon is a different kind of world. A strong answer notices that moons are as different from each other as planets are."
+    },
+    {
+     "t": "fill",
+     "p": "A night when many shooting stars come from the same part of the sky is called a meteor ____.",
+     "a": [
+      "shower"
+     ],
+     "why": "A meteor shower happens when the Earth passes through a trail of dust left by a comet or an asteroid."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these into what makes a shooting star and what does not.",
+     "cats": [
+      "Makes a shooting star",
+      "Does not"
+     ],
+     "items": [
+      [
+       "a grain of dust rushing into our air",
+       "Makes a shooting star"
+      ],
+      [
+       "a star moving across the sky",
+       "Does not"
+      ],
+      [
+       "a pebble-sized rock rushing into our air",
+       "Makes a shooting star"
+      ],
+      [
+       "an aeroplane's lights",
+       "Does not"
+      ],
+      [
+       "a satellite catching sunlight",
+       "Does not"
+      ]
+     ],
+     "a": "see items",
+     "why": "Only bits of space rock rushing into our air make meteors. Satellites and aeroplanes move steadily across the sky for many seconds, while a meteor lasts about a second."
+    },
+    {
+     "t": "truefalse",
+     "p": "A grain the size of a grain of rava can make a shooting star, but it does not leave a meteorite on the ground.",
+     "a": true,
+     "why": "True. Such a small grain burns up completely, high in the air. Only bigger pieces leave something to land."
+    },
+    {
+     "t": "label",
+     "p": "Label the planets and the asteroid belt on the drawing: Mars, the asteroid belt, Jupiter, and Jupiter's four big moons.",
+     "a": "Mars is the small planet nearer the Sun. The asteroid belt is the ring of dots beyond Mars. Jupiter is the big planet beyond the belt, with four small dots beside it for Io, Europa, Ganymede and Callisto.",
+     "why": "A strong answer puts the asteroid belt between Mars and Jupiter.",
+     "art": "A diagram with the Sun at the left, a small planet, a ring of scattered dots, and a big striped planet with four tiny dots beside it, each with a blank label line."
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Comets That Fade and Rocks That Arrive (challenge)",
+   "tier": "challenge",
+   "mins": 30,
+   "items": [
+    {
+     "t": "write",
+     "p": "A comet loses some ice every time it passes the Sun. What will happen to a comet after thousands of passes? What might be left?",
+     "lines": 4,
+     "a": "It will run out of ice. Then it can stop growing a tail, and may be left as a dark, dusty, rocky lump, a bit like an asteroid. Or it may crumble into a trail of dust.",
+     "why": "A strong answer uses the ice comet test: ice leaves, dirt stays. It may also say some objects, like Phaethon, sit between a comet and an asteroid."
+    },
+    {
+     "t": "perspective",
+     "p": "Three people talk about what to call Phaethon, the parent of the Geminid shower. Phaethon is rocky, but near the Sun it sheds dust.",
+     "views": [
+      {
+       "who": "Tanvi, an astronomer",
+       "says": "Phaethon is an asteroid, because it is rock and has no icy tail."
+      },
+      {
+       "who": "Lakshmi, another astronomer",
+       "says": "Phaethon behaves like a comet, because it sheds dust near the Sun and makes a meteor shower."
+      },
+      {
+       "who": "Ishita, aged 9",
+       "says": "Maybe Phaethon is an old comet that has lost all its ice."
+      }
+     ],
+     "ask": "Which person do you agree with most? Give a reason. Then say what the others have right.",
+     "lines": 6,
+     "a": "A strong answer uses evidence about what Phaethon is made of and what it does. Tanvi is right that it is rocky. Lakshmi is right that it acts a bit like a comet. Ishita's idea is one that some scientists also take seriously. It shows that nature does not always fit our boxes.",
+     "why": "Phaethon really is hard to name. The words 'asteroid' and 'comet' are boxes people made, and some objects sit between them."
+    },
+    {
+     "t": "write",
+     "p": "Swathi watches the Geminids on 13 December and sees many shooting stars. She watches again on 25 December and sees almost none. Explain why.",
+     "lines": 3,
+     "a": "By 25 December, the Earth has moved on along its path and passed out of Phaethon's dust trail. There is little dust left for it to run into.",
+     "why": "A strong answer links the dates to where the Earth is on its path round the Sun."
+    },
+    {
+     "t": "mcq",
+     "p": "Anu wants to repeat the ice comet test to find out if more dirt makes a darker crust. Which test is fair?",
+     "opts": [
+      "Two ice comets, one with 1 spoon of dirt and one with 3 spoons, both in the sun",
+      "Two ice comets with 1 spoon of dirt, one in the sun and one in the shade",
+      "One ice comet with 3 spoons of dirt in the sun, and one with no dirt in the shade"
+     ],
+     "a": 0,
+     "why": "To test the amount of dirt, change only the dirt and keep everything else the same, including the place. The last choice changes two things at once, so you could not tell which one made the difference.",
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "A spacecraft coming back from space to Earth gets very hot on the outside. How is this like a shooting star?",
+     "lines": 3,
+     "a": "Both rush into the air very fast and squash the air in front of them, which gets very hot. The shooting star's grain burns up, but the spacecraft has a heat shield that protects it.",
+     "why": "A strong answer names squashed air as the cause of the heat in both."
+    },
+    {
+     "t": "truefalse",
+     "p": "A comet glows near the Sun because it is on fire.",
+     "a": false,
+     "why": "False. There is no air in space, so nothing burns there. The gas and dust round the comet shine in sunlight, and the gas also gives out a glow of its own because sunlight energises it."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a comet at three places on its path: far out, coming close to the Sun, and nearest the Sun. Show how its tail changes.",
+     "a": "Far out: a small dark lump, no tail. Coming close: a small coma and a short tail. Nearest the Sun: a big coma and a long tail. Every tail points away from the Sun.",
+     "why": "A strong drawing shows the tail growing as the comet nears the Sun and always pointing away from it.",
+     "art": "A Sun at the left edge and a long empty oval path stretching to the right."
+    },
+    {
+     "t": "mcq",
+     "p": "Saturn is smaller than Jupiter, but Saturn has more known moons. What does this tell you?",
+     "opts": [
+      "A bigger planet does not always have more moons",
+      "Saturn is really bigger than Jupiter",
+      "Jupiter's moons are all hidden",
+      "Moon counts never change"
+     ],
+     "a": 0,
+     "why": "Size is not the only thing that sets how many moons a planet has. Also, many small moons are still being found, so the counts keep changing. Picking 'moon counts never change' is wrong: dozens of new small moons have been found in recent years."
+    },
+    {
+     "t": "write",
+     "p": "Galileo's dots sometimes disappeared for a night. Give two reasons a moon of Jupiter might not be seen.",
+     "lines": 3,
+     "a": "It could be behind Jupiter, so Jupiter hides it. It could be in front of Jupiter, so it is lost against Jupiter's bright face. It could also be in Jupiter's shadow.",
+     "why": "A strong answer thinks about where the moon is on its path when seen from the side, as in the buttons-round-the-plate activity.",
+     "how": "a2"
+    },
+    {
+     "t": "order",
+     "p": "Put these events from the story of meteorites in the order they happened.",
+     "items": [
+      "Biot studies the stones that fell at L'Aigle.",
+      "Chladni writes that fireballs come from space.",
+      "Scientists say stones can't fall from the sky.",
+      "Scientists accept that stones fall from space."
+     ],
+     "a": [
+      "Scientists say stones can't fall from the sky.",
+      "Chladni writes that fireballs come from space.",
+      "Biot studies the stones that fell at L'Aigle.",
+      "Scientists accept that stones fall from space."
+     ],
+     "why": "Chladni's book came in 1794 and the L'Aigle fall in 1803. A strong answer notices that careful evidence, not just an idea, changed people's minds."
+    },
+    {
+     "t": "write",
+     "p": "The Earth gains thousands of tonnes of space dust each year. Does this make the Earth heavier? What else might it lose?",
+     "lines": 4,
+     "a": "Yes, the dust adds a little. But the Earth also loses a little, because the lightest gases, hydrogen and helium, slowly escape from the top of its air into space.",
+     "why": "A strong answer thinks about what comes in and what goes out, not just one side. Scientists think the Earth loses about as much as, or a little more than, it gains."
+    },
+    {
+     "t": "mcq",
+     "p": "Why do scientists search for meteorites on the ice in Antarctica?",
+     "opts": [
+      "Dark stones are easy to spot on white ice, where no other rocks are lying about",
+      "More meteorites fall there than anywhere else",
+      "Meteorites are attracted to cold places",
+      "It is the closest place to space"
+     ],
+     "a": 0,
+     "why": "Meteorites fall all over the Earth, but on the ice almost any dark stone you find came from above. Picking 'more fall there' is a fair guess, but it is about finding them, not about how many fall."
+    },
+    {
+     "t": "fill",
+     "p": "The stream of tiny particles that flows out from the Sun and pushes a comet's gas tail is called the solar ____.",
+     "a": [
+      "wind"
+     ],
+     "why": "The solar wind is not air. It is a stream of tiny charged particles from the Sun."
+    },
+    {
+     "t": "label",
+     "p": "Label the moments in the life of one bit of comet dust: it leaves the comet, it drifts along the comet's path, it meets the Earth, it glows as a meteor.",
+     "a": "The dust leaves the comet near the Sun, drifts along the comet's oval path, is met by the Earth where the paths cross, and glows as a meteor high in our air.",
+     "why": "A strong answer shows the whole journey in order and puts the meteor where the two paths cross.",
+     "art": "A diagram with a Sun, a comet on a long oval path, the Earth on a circle crossing the oval, and four blank label lines along the way."
+    },
+    {
+     "t": "perspective",
+     "p": "Two people argue about whether we should spend money to push dangerous asteroids off course.",
+     "views": [
+      {
+       "who": "Dr Lakshmi, a space scientist",
+       "says": "Yes. A big hit is rare, but it could be terrible. The DART test in 2022 showed that it can be done."
+      },
+      {
+       "who": "Sana, who runs a school in a village",
+       "says": "No. A big hit is very unlikely in our lifetime. The money could help children today."
+      }
+     ],
+     "ask": "Which person do you agree with? Give a reason. Then say one thing the other person has right.",
+     "lines": 5,
+     "a": "A strong answer weighs how rare a big hit is against how bad it would be. Dr Lakshmi is right that being ready matters. Sana is right that money spent here is not spent elsewhere.",
+     "why": "This is a real choice about risk. There is no single right answer."
+    }
+   ]
+  }
+ ],
+ "applications": [
+  "Space agencies track asteroids that come near the Earth, so any danger is known years ahead.",
+  "In 2022, NASA's DART spacecraft crashed into a small asteroid and changed its path, as a test of how to protect the Earth.",
+  "Spacecraft bring back bits of asteroids and comets, such as Japan's Hayabusa2 from the asteroid Ryugu, to learn what the early solar system was made of.",
+  "Engineers put shields on spacecraft and the International Space Station to protect them from tiny grains of space dust.",
+  "Heat shields on spacecraft coming back to Earth work against the same squashed, hot air that makes shooting stars glow.",
+  "Meteor cameras around the world record fireballs and work out where any meteorites landed, so people can find them."
+ ],
+ "spotted": [
+  {
+   "text": "Shooting stars on the Geminid nights, around 13 and 14 December, from a terrace or a dark beach in Tamil Nadu or Kerala.",
+   "art": "A family on a dark beach at night, looking up at a shooting star over the sea."
+  },
+  {
+   "text": "Jupiter as a bright, steady dot in the evening sky, with tiny moons beside it if you use binoculars.",
+   "art": "A bright dot over city rooftops, and a circle showing it through binoculars with four tiny dots in a line."
+  },
+  {
+   "text": "Lonar Lake in Buldhana district, Maharashtra, a round lake inside a crater made by a meteorite.",
+   "art": "A round green lake inside a steep, tree-covered ring of hills, seen from the rim."
+  },
+  {
+   "text": "Meteorites on display in museums and science centres, such as the Geological Survey of India's collections.",
+   "art": "A dark, heavy stone with a smooth crust, sitting on a stand in a glass museum case."
+  },
+  {
+   "text": "The word 'vaal natchathiram', the tail star, in old Tamil stories and in grandparents' memories of Halley's Comet in 1986.",
+   "art": "A grandmother pointing up at a faint fuzzy comet over a tiled roof, with a child beside her."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "Is there life in the ocean under the ice of Jupiter's moon Europa?",
+   "why_open": "Europa very likely has a salty ocean, but nobody has looked inside it yet. NASA's Europa Clipper spacecraft is on its way to study it."
+  },
+  {
+   "q": "Where did the Earth's water come from?",
+   "why_open": "Some was probably there from the start, and some may have come from comets and asteroids. Scientists still argue about how much came from each."
+  },
+  {
+   "q": "How exactly did our Moon form?",
+   "why_open": "Most scientists think a giant crash made it, but no computer model yet matches every fact about Moon rock."
+  },
+  {
+   "q": "Exactly how much space dust reaches the Earth each day?",
+   "why_open": "Different ways of measuring give very different answers, from a few tonnes to many tonnes a day."
+  }
+ ],
+ "ask_kids": [
+  "If you lived on Ganymede, what would Jupiter look like in your sky?",
+  "Why do you think Mercury and Venus have no moons?",
+  "If you made a wish on a shooting star, what is the wish really travelling past?",
+  "Would you rather visit a comet or an asteroid? What would you take with you?",
+  "Where in our flat could some space dust have landed today?",
+  "How old will you be when Halley's Comet comes back in 2061?",
+  "If the Earth had two moons, how would our nights be different?",
+  "Is a shooting star more like a spark, a raindrop or a firework? Why?"
+ ],
+ "jokes": [
+  {
+   "j": "Why did the comet keep looking over its shoulder?",
+   "a": "It wanted to check its tail was still pointing away from the Sun."
+  },
+  {
+   "j": "What did the meteor say to the meteorite?",
+   "a": "You made it! I burned out."
+  },
+  {
+   "j": "Why don't asteroids ever win races?",
+   "a": "They keep going round in belts."
+  },
+  {
+   "j": "What do you call a comet with no ice?",
+   "a": "A has-been."
+  },
+  {
+   "j": "Why was Jupiter never lonely?",
+   "a": "It always had more than 90 moons for company."
+  },
+  {
+   "j": "What is a shooting star's favourite drink?",
+   "a": "Anything, as long as it is a quick one."
+  },
+  {
+   "j": "Why did Mars bring two moons to the party?",
+   "a": "One was not enough for Phobos and Deimos to argue about."
+  },
+  {
+   "j": "What did the Earth say to the comet dust?",
+   "a": "Drop in any time, especially in December."
+  },
+  {
+   "j": "Why did the ice comet go to the doctor?",
+   "a": "It had a dirty crust and kept losing itself."
+  },
+  {
+   "j": "How does Ganymede keep its spot as the biggest moon?",
+   "a": "It never shrinks from a challenge."
+  },
+  {
+   "j": "Why did the meteoroid take the slow road?",
+   "a": "It did not want to get burned up about it."
+  },
+  {
+   "j": "What do you call a moon who tells jokes?",
+   "a": "A lunatic. But a nice one."
+  },
+  {
+   "j": "Why did Galileo keep checking on Jupiter?",
+   "a": "Its moons kept moving house."
+  },
+  {
+   "j": "What is a comet's favourite game?",
+   "a": "Tail tag. It always points the way out."
+  },
+  {
+   "j": "Why did the asteroid stay lumpy?",
+   "a": "It did not have the pull to shape up."
+  },
+  {
+   "j": "What did the Sun say to the comet?",
+   "a": "You're glowing! You must be losing weight."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "A grain that makes a shooting star moves about 30 kilometres every second. How far does it go in 10 seconds?",
+   "answer": "300 kilometres.",
+   "explain": "Each second it goes 30 km. In 10 seconds it goes 10 times as far. 30 times 10 is 300. So it goes 300 km, about the distance from Chennai to Bengaluru.",
+   "math_unit": "math.multiplication.multiplication-facts.L3",
+   "why_maths": "Multiplying shows how fast a grain really goes, which is what makes it glow.",
+   "context": "This is about how fast the grains that make shooting stars move. You met this in the grain of rava activity.",
+   "how": "a1"
+  },
+  {
+   "problem": "In a made-up ice comet test, the sunny comet went from 4 cm to 2.5 cm tall in 30 minutes. The shady comet went from 4 cm to 3.5 cm. How much did each one shrink? How many times as much did the sunny one shrink?",
+   "answer": "The sunny one shrank 1.5 cm and the shady one 0.5 cm. The sunny one shrank 3 times as much.",
+   "explain": "4 take away 2.5 is 1.5. 4 take away 3.5 is 0.5. 1.5 is three lots of 0.5. So the sunny comet shrank 3 times as much.",
+   "math_unit": "math.addition-subtraction.word-problems.L3",
+   "why_maths": "Taking away the end height from the start height shows exactly how much each comet lost, so we can compare them fairly.",
+   "context": "This is about the ice comet test, where one dirty ice ball sat in the sun and one in the shade.",
+   "how": "e1"
+  },
+  {
+   "problem": "Halley's Comet came near the Sun in 1986. It comes back about every 75 years. In which year will it come back? If you were born in 2017, how old will you be then?",
+   "answer": "In about 2061. You will be 44.",
+   "explain": "1986 plus 75 is 2061. 2061 take away 2017 is 44. The real time between visits changes by a year or two, because the planets' gravity tugs on the comet.",
+   "math_unit": "math.addition-subtraction.written-methods.L3",
+   "why_maths": "Adding the years between visits tells us when a comet will return, which is how astronomers plan to watch for it.",
+   "context": "This is about Halley's Comet, which Paati saw in 1986 in the story."
+  },
+  {
+   "problem": "In a made-up Geminid watch, Kavya counted 2 shooting stars in the first 10 minutes, 3 in the next 10 minutes and 5 in the last 10 minutes. Draw a bar chart. How many did she see in all? What pattern do you see?",
+   "answer": "10 in all. The count went up as the night went on.",
+   "explain": "2 plus 3 plus 5 is 10. The bars get taller, so more shooting stars came later. The Geminids' part of the sky climbs higher as the night goes on, so more meteors can reach your view.",
+   "math_unit": "math.data.bar-charts.L3",
+   "why_maths": "A bar chart shows at a glance when most shooting stars came, which helps you choose the best time to watch.",
+   "context": "This is about the shooting star watch, where you count meteors every 10 minutes.",
+   "how": "a3",
+   "chart": {
+    "type": "bar",
+    "title": "Made-up example: shooting stars every 10 minutes",
+    "x": "Time",
+    "y": "Shooting stars",
+    "data": [
+     {
+      "label": "First 10 minutes",
+      "value": 2,
+      "emoji": "🌠"
+     },
+     {
+      "label": "Next 10 minutes",
+      "value": 3,
+      "emoji": "🌠"
+     },
+     {
+      "label": "Last 10 minutes",
+      "value": 5,
+      "emoji": "🌠"
+     }
+    ]
+   }
+  },
+  {
+   "problem": "The Earth has 1 moon, Mars has 2 and Neptune has 16. Jupiter has more than 90, and Saturn has more than 270, though Saturn is smaller than Jupiter. Put the five planets in order of how many moons they have. Does the biggest planet have the most moons?",
+   "answer": "Earth, Mars, Neptune, Jupiter, Saturn. No. Jupiter is biggest, but Saturn has the most known moons.",
+   "explain": "1 is less than 2, 2 is less than 16, 16 is less than 90, and 90 is less than 270. Jupiter is the biggest planet, but Saturn has more moons. So size alone does not set the number of moons.",
+   "math_unit": "math.number-sense.comparing-ordering.L3",
+   "why_maths": "Ordering the numbers lets us test an idea, 'bigger planets have more moons', and see where it breaks.",
+   "context": "This is about the moons of the planets, from the card on moons."
+  },
+  {
+   "problem": "The Earth takes about 365 days to go round the Sun. The Geminids peak around 14 December this year. About when will they peak next year? Why?",
+   "answer": "Around 14 December next year.",
+   "explain": "After 365 days, the Earth is back at the same point on its path, where it crosses Phaethon's dust trail. So the shower comes back on about the same date.",
+   "math_unit": "math.time.calendar.L3",
+   "why_maths": "Knowing that a year is one trip round the Sun lets you use the calendar to predict meteor showers.",
+   "context": "This is about meteor showers, which come on the same dates every year."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.sky.L3",
+  "title": "Star, Planet, Moon",
+  "note": "Topic-level song for Sun, Moon, stars and planets L3, shared with the other sky units."
+ },
+ "links": [
+  {
+   "title": "NASA Space Place: Asteroid or meteor? What's the difference?",
+   "url": "https://spaceplace.nasa.gov/asteroid-or-meteor/en/",
+   "kind": "interactive",
+   "why": "Short, clear pictures of asteroids, comets, meteoroids, meteors and meteorites, written for children."
+  },
+  {
+   "title": "NASA Space Place: Comets",
+   "url": "https://spaceplace.nasa.gov/comets/en/",
+   "kind": "interactive",
+   "why": "What a comet is made of, with photos of real comet nuclei taken by spacecraft."
+  },
+  {
+   "title": "NASA Science: Jupiter's moons",
+   "url": "https://science.nasa.gov/jupiter/jupiter-moons/",
+   "kind": "interactive",
+   "why": "Facts and pictures of Io, Europa, Ganymede, Callisto and Jupiter's many small moons."
+  },
+  {
+   "title": "NASA Eyes on Asteroids",
+   "url": "https://eyes.nasa.gov/apps/asteroids/",
+   "kind": "simulation",
+   "why": "A free 3D model showing asteroids and comets that come near the Earth, where they are today."
+  },
+  {
+   "title": "Stellarium Web",
+   "url": "https://stellarium-web.org/",
+   "kind": "simulation",
+   "why": "A free sky map for any night and place. Use it to find Jupiter and the Geminid part of the sky."
+  },
+  {
+   "title": "Lonar Lake",
+   "url": "https://en.wikipedia.org/wiki/Lonar_Lake",
+   "kind": "place",
+   "where": "Buldhana district, Maharashtra",
+   "why": "A lake inside a crater made by a meteorite impact. Visitors can walk round the rim."
+  },
+  {
+   "title": "B.M. Birla Science Centre and Planetarium",
+   "url": "https://www.birlasciencecentre.org",
+   "kind": "place",
+   "where": "Hyderabad",
+   "why": "Planetarium shows of the sky and a science museum."
+  },
+  {
+   "title": "Jawaharlal Nehru Planetarium",
+   "url": "https://www.taralaya.org",
+   "kind": "place",
+   "where": "Bengaluru",
+   "why": "Planetarium shows, and sky-watching evenings when Jupiter is up."
+  },
+  {
+   "title": "Kerala State Science and Technology Museum and Priyadarsini Planetarium",
+   "url": "https://kstmuseum.com",
+   "kind": "place",
+   "where": "Thiruvananthapuram",
+   "why": "Planetarium shows of the night sky, comets and meteor showers."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-binoculars",
+   "item": "A pair of 7x50 or 10x50 binoculars",
+   "kind": "tool",
+   "why": "Ordinary binoculars show Jupiter's four big moons as tiny dots, just as Galileo saw them. They also show craters on our Moon. Borrowing a pair works just as well.",
+   "url": "https://www.amazon.in/s?k=10x50+binoculars",
+   "used_in": [
+    "p1",
+    "a3"
+   ],
+   "plan": "If bought, use them for the four-night Jupiter project, and on the Geminid watch to look at the Moon and Jupiter while waiting. Binoculars are not needed to see shooting stars."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "Name the two moons of Mars.",
+   "a": "Phobos and Deimos."
+  },
+  {
+   "q": "Which two planets have no moons?",
+   "a": "Mercury and Venus."
+  },
+  {
+   "q": "What is the biggest moon in the solar system?",
+   "a": "Ganymede, a moon of Jupiter."
+  },
+  {
+   "q": "Where are most asteroids?",
+   "a": "In the asteroid belt, between Mars and Jupiter."
+  },
+  {
+   "q": "What three things is a comet made of?",
+   "a": "Ice, dust and rock."
+  },
+  {
+   "q": "Which way does a comet's tail point?",
+   "a": "Away from the Sun."
+  },
+  {
+   "q": "What do we call a piece of space rock that lands on the ground?",
+   "a": "A meteorite."
+  },
+  {
+   "q": "Why does a shooting star glow?",
+   "a": "It moves so fast that it squashes the air in front of it, which gets extremely hot."
+  },
+  {
+   "q": "In which month is the Geminid meteor shower?",
+   "a": "December, around the 13th and 14th."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "story",
+   "a1",
+   "e1",
+   "big_questions",
+   "cards",
+   "g1",
+   "a2"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz",
+   "summary",
+   "terms",
+   "story",
+   "e2",
+   "a2",
+   "a4",
+   "g1",
+   "videos",
+   "ws-core",
+   "how_we_found_out",
+   "agreed",
+   "challenging",
+   "g2",
+   "a5",
+   "ws-stretch",
+   "a3",
+   "p1",
+   "c1",
+   "c2",
+   "big_questions",
+   "ws-challenge",
+   "open_questions"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "e2",
+   "a2",
+   "a4",
+   "g1",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "curriculum/notebook_items.json: phy:46 'Planetary moons (Titan, Europa, Ganymede, etc.)' and phy:47 'Asteroids, comets, meteoroids'",
+   "ideas/by_topic/the-universe-sun-moon-stars-and-planets.md: SCI Cards for Maria Mitchell (comet of 1847, rooftop telescope) and Galileo (Jupiter's moons, 'trust your eyes and your experiments')",
+   "Nearby units read so as not to repeat them: sci.sky.solar-system.L3 (torch spreading test, planet line-up, Galileo's Venus test), sci.sky.exploring-space.L3, sci.sky.moon-phases.L3, sci.sky.stargazing.L3, sci.energy.energy-around-us.L3 (atta crater drop test)"
+  ],
+  "science": [
+   "Galileo, Sidereus Nuncius, 1610 (the four moons of Jupiter)",
+   "Chladni, Über den Ursprung der von Pallas gefundenen und anderer ihr ähnlicher Eisenmassen, 1794",
+   "Biot, Relation d'un voyage fait dans le département de l'Orne, 1803 (the L'Aigle fall)",
+   "Schiaparelli, 1866-1867, letters on the Perseids and comet Swift-Tuttle",
+   "Whipple, 'A comet model I', Astrophysical Journal 111, 1950 (the icy 'dirty snowball')",
+   "Keller and others, Nature 321, 1986 (Giotto images of Halley's dark nucleus)",
+   "Biele and others, Science 349, 2015 (Philae's bounces on comet 67P)",
+   "Genge and others, Geology 45, 2017 (micrometeorites from city rooftops)",
+   "Rivkin and others, Planetary Science Journal 2, 2021, and Daly and others, Nature 616, 2023 (DART)",
+   "Jenniskens, Meteor Showers and their Parent Comets, Cambridge University Press, 2006",
+   "Rojas and others, Earth and Planetary Science Letters 560, 2021 (how much space dust reaches the ground)"
+  ]
+ },
+ "roots": {
+  "context": "We have learned about moons, asteroids, comets and shooting stars. Now we ask what a comet's journey tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "Your sunny ice comet shrank fastest, and its dirt stayed behind as a dark crust and a muddy trail. A real comet near the Sun loses ice and dust in the same way. The Earth runs into the dust that comets leave along their paths. So many shooting stars are tiny pieces of comets, ending their journey in our air.",
+   "habit": "We give a comet, its tail, a shooting star and dust on a roof four different names, as if they were four different things. They are the same ice, rock and dust at different moments of one journey.",
+   "evidence": "In the ice comet test, the comet in the sun lost ice fastest and left its dirt behind, on top and in the plate. Real comets get dark crusts and leave dust along their paths. Meteor showers come on the dates the Earth crosses those dust trails."
+  },
+  "three": {
+   "who_am_i": "Every atom in your body was once in the cloud of gas and dust that made the Sun, the planets and the comets.",
+   "what_is_life": "Living things are made mostly of carbon, hydrogen, oxygen and nitrogen. Comets are full of these too.",
+   "what_is_this_world": "The Earth is still being added to. Space dust falls on it every day, even on your balcony."
+  },
+  "thread": "Before the planets, there was one spinning cloud of gas and dust round the young Sun. Out of it came the Sun, the planets, the moons, the asteroids and the comets. They have different names, but they are made from the same cloud. Comets still carry some of that first ice and dust. Near the Sun they lose it, and some of it falls on the Earth as shooting stars. So the pieces of the one cloud are still meeting each other again.",
+  "teachings": [
+   {
+    "source": "Chandogya Upanishad 6.1.4",
+    "teaching": "Uddalaka tells his son Shvetaketu: by knowing one lump of clay, you know everything made of clay. A pot or a cup is a name given to a new shape. What is real is the clay.",
+    "link": "Comet, tail, meteor and space dust are names for one material at different moments, as pot and cup are names for clay in different shapes."
+   },
+   {
+    "source": "Dhammapada 277",
+    "teaching": "Everything that is put together changes and does not last. A person who sees this clearly suffers less.",
+    "link": "A comet loses some of itself every time it passes the Sun, like your ice comet in the sunny window. In the end, its ice runs out."
+   },
+   {
+    "source": "Heraclitus, fragment 12 (Diels-Kranz numbering), about 500 BCE",
+    "teaching": "On those who step into the same rivers, different and again different waters flow.",
+    "link": "Halley's Comet keeps its name and its path, but each time it returns it has lost some ice and dust. It is the same comet and not quite the same."
+   }
+  ],
+  "science": [
+   {
+    "text": "Meteor showers happen when the Earth passes through dust left along the paths of comets. Schiaparelli linked the Perseids to comet Swift-Tuttle in 1866.",
+    "status": "settled"
+   },
+   {
+    "text": "Some of the Earth's water may have come from comets and asteroids. How much is still argued about.",
+    "status": "debated"
+   }
+  ],
+  "other_view": {
+   "who": "The Nyaya and Vaisheshika schools of Indian philosophy",
+   "view": "When parts come together, they make a real new whole, not just a name. A pot is a real pot, not only clay. In the same way, a comet is a real comet while it lasts, and a meteor is a real meteor, even if they share the same dust."
+  },
+  "practice": {
+   "title": "Watch a drop leave",
+   "mins": 3,
+   "say": "Let's put an ice cube on a steel plate and sit very still. Watch one drop form at the bottom of the ice. Breathe in slowly. As the drop runs away, breathe out slowly. Let's do this for five drops. The ice is getting smaller, and the water is going somewhere new. Where will it go next?",
+   "kid": "Put an ice cube on a plate. Sit still. Watch a drop form. Breathe in. As it runs away, breathe out. Do this five times. Where does the water go next?"
+  },
+  "ask": [
+   "A comet, its dust and a shooting star are made of the same stuff. Are they one thing or three?",
+   "Your ice comet lost ice but kept its dirt. Is it still the same comet at the end?",
+   "Some of the dust on your balcony may have come from space. Where does the sky end and the Earth begin?"
+  ],
+  "art": "A child on a balcony at night, cupping a hand under a falling streak of light, with a faint comet high above and a dotted trail of dust linking the comet to the shooting star."
+ },
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. The ice comet uses crushed ice, because muddy water left to freeze lets the soil sink to the bottom, and the comet would then be clean on top. Used tea leaves are added because they cling to the ice and make the crust easy to see. Homes with no direct sun use a plate on a vessel of warm tap water instead. The shady comet still melts slowly in an Indian room, and the parent note says so: in space, far from the Sun, a comet would not change at all. The fan test asks for slow walking, because a fast walk beats the fan's air and the tail flops. The Geminid watch is outside the spine, needs a grown-up on the terrace, and says honestly that a city sky may show only a few meteors an hour. The magnet dust hunt says plainly that most magnetic grains in city dust are not from space. The Jupiter project needs binoculars, bought or borrowed, and Jupiter in the evening sky, so it is outside the spine. Both games work for one child with a parent. Timings were checked step by step. The spine fits about 85 minutes.",
+ "how_we_found_out": {
+  "story": "For a long time, most scientists in Europe did not believe that stones could fall from the sky. Farmers told of hot stones landing in their fields after a bright flash and a bang. Learned men said these were mistakes. The stones, they said, had been struck by lightning or thrown out of volcanoes, and fireballs were a kind of weather high in the air. In 1794, the German scientist Ernst Chladni wrote a book saying the opposite. Fireballs, he said, were lumps of rock and iron coming in from space, glowing as they rushed through the air. Many scientists laughed at him. Then, on 26 April 1803, thousands of stones fell around the town of L'Aigle in France. The young scientist Jean-Baptiste Biot was sent to find out what had happened. He visited many villages, talked to the people who had seen and heard the fall, and collected stones. He mapped where they had landed, in an oval area several kilometres long. The stones were unlike any rock found nearby. After his report, scientists accepted that stones really do fall from space. Today we call them meteorites.",
+  "who": "Ernst Chladni, a German scientist, and Jean-Baptiste Biot, a French scientist",
+  "when": "1794 (Chladni's book) and 1803 (the fall at L'Aigle and Biot's report)",
+  "wrong_idea": "Most scientists thought stones could not fall from the sky, and that fireballs were a kind of weather. Biot's careful study of the L'Aigle fall showed that the stones came from space."
+ }
+}
