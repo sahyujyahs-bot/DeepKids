@@ -1032,21 +1032,35 @@ function firstDates() {
   });
   return m;
 }
-/* The year in words: month by month, what each subject covers. This month opens by itself. */
-function yearList(fd, m0) {
+/* The year in words: month by month, each month's weeks, and what each week covers in each subject (with the parts).
+   This month opens by itself. */
+function yearList(m0) {
   const M = [...Array(12)].map((_, i) => new Date(m0.getFullYear(), m0.getMonth() + i, 1)),
     key = (d) => d.getFullYear() * 12 + d.getMonth(),
-    now = key(parse(today));
+    now = key(parse(today)),
+    all = S.subjects.flatMap((s) => schedule(s, 400)),
+    wk = (d) => addDays(d, -((parse(d).getDay() + 6) % 7));
   return `<section class="yearlist">${M.map((md) => {
-    const rows = S.subjects
-      .map((s) => [s, plannedUnits(s).filter((u) => fd[u.k] && key(parse(fd[u.k])) === key(md))])
-      .filter(([, L]) => L.length);
-    if (!rows.length) return "";
-    return `<details ${key(md) === now ? "open" : ""}><summary><b>${md.toLocaleString("en-IN", { month: "long", year: "numeric" })}</b> <span class="xs muted">${rows.reduce((a, [, L]) => a + L.length, 0)} topics</span></summary>${rows
-      .map(
-        ([s, L]) =>
-          `<div class="ylsub ${SC(s)}"><span class="eyebrow">${SUBJ[s]}</span>${L.map((u) => `<button class="plain ylrow" data-act="chapter" data-k="${u.k}">${rank[coverage(u)] >= 2 ? "✓ " : ""}${esc(chT(u))}</button>`).join("")}</div>`,
-      )
+    const inM = all.filter((x) => key(parse(x.date)) === key(md));
+    if (!inM.length) return "";
+    const weeks = [...new Set(inM.map((x) => wk(x.date)))].sort();
+    return `<details ${key(md) === now ? "open" : ""}><summary><b>${md.toLocaleString("en-IN", { month: "long", year: "numeric" })}</b> <span class="xs muted">${new Set(inM.map((x) => x.u.k)).size} topics</span></summary>${weeks
+      .map((w) => {
+        const W = inM.filter((x) => wk(x.date) === w);
+        return `<div class="ylweek"><span class="eyebrow">Week of ${fmt(w)}</span>${S.subjects
+          .map((s) => {
+            const T = new Map();
+            W.filter((x) => x.subj === s).forEach((x) => T.set(x.u.k, [...(T.get(x.u.k) || []), x]));
+            return [...T.values()]
+              .map((L) => {
+                const u = L[0].u,
+                  parts = L.length === 1 ? `part ${L[0].n}` : `parts ${L[0].n}–${L[L.length - 1].n}`;
+                return `<button class="plain ylrow ${SC(s)}" data-act="chapter" data-k="${u.k}">${esc(chT(u))} <span class="xs muted">· ${SUBJ[s]} · ${parts} of ${L[0].tot}</span></button>`;
+              })
+              .join("");
+          })
+          .join("")}</div>`;
+      })
       .join("")}</details>`;
   }).join("")}</section>`;
 }
@@ -1092,12 +1106,14 @@ function yearOrbit() {
   });
   const [nx, ny] = pt(ang(today), 158);
   o += `<line x1="${c}" y1="${c}" x2="${nx.toFixed(1)}" y2="${ny.toFixed(1)}" stroke="var(--tang)" stroke-width="2.5" stroke-linecap="round"/><circle cx="${nx.toFixed(1)}" cy="${ny.toFixed(1)}" r="5" fill="var(--tang)"/>`;
-  return `<div class="orbit"><svg viewBox="0 0 ${W} ${W}" role="img" aria-label="The year's plan as orbits">${o}${kidBlob("bob", "happy", `x="${c - 26}" y="${c - 26}" width="52" height="52"`)}</svg></div>${calLegend()}<p class="xs muted" style="text-align:center">Each ring is a subject; each bead is a topic, in the month it starts. The red line is today. Tap a bead to open it.</p>${yearList(fd, m0)}`;
+  return `<div class="orbit"><svg viewBox="0 0 ${W} ${W}" role="img" aria-label="The year's plan as orbits">${o}${kidBlob("bob", "happy", `x="${c - 26}" y="${c - 26}" width="52" height="52"`)}</svg></div>${calLegend()}<p class="xs muted" style="text-align:center">Each ring is a subject; each bead is a topic, in the month it starts. The red line is today. Tap a bead to open it.</p>${yearList(m0)}`;
 }
 function sessMap() {
   const by = {};
   S.subjects.forEach((s) =>
-    schedule(s, 120).forEach((x) => (by[x.date] = by[x.date] || []).push({ s: x.subj, t: x.u.title })),
+    schedule(s, 120).forEach((x) =>
+      (by[x.date] = by[x.date] || []).push({ s: x.subj, t: chT(x.u), k: x.u.k, n: x.n, tot: x.tot }),
+    ),
   );
   S.log.forEach((l) => {
     if (l.date <= today) (by[l.date] = by[l.date] || []).push({ s: l.subj, t: l.title, done: 1 });
@@ -1133,6 +1149,7 @@ function monthView() {
   }
   return `<div class="pager"><button class="iconbtn" data-act="pmon" data-d="-1" aria-label="Previous month">${icon("back")}</button><h3 style="font-size:20px">${b.toLocaleDateString(undefined, { month: "long", year: "numeric" })}</h3><button class="iconbtn" data-act="pmon" data-d="1" aria-label="Next month">${icon("next")}</button></div><div class="mhead">${["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"].map((x) => `<span>${x}</span>`).join("")}</div><div class="month">${rows}</div>${calLegend()}<p class="xs muted" style="text-align:center">Tap a day to see it.</p>`;
 }
+// The week as a list, one day under the other, each lesson with its part
 function weekView() {
   const by = sessMap(),
     m = parse(monday());
@@ -1142,12 +1159,13 @@ function weekView() {
     d.setDate(m.getDate() + i);
     return iso(d);
   });
-  return `<div class="pager"><button class="iconbtn" data-act="wk2" data-d="-1" aria-label="Previous week">${icon("back")}</button><h3 style="font-size:20px">${ui.week ? "Week of " + fmt(days[0]) : "This week"}</h3><button class="iconbtn" data-act="wk2" data-d="1" aria-label="Next week">${icon("next")}</button></div><div class="hs pebbles">${days
+  return `<div class="pager"><button class="iconbtn" data-act="wk2" data-d="-1" aria-label="Previous week">${icon("back")}</button><h3 style="font-size:20px">${ui.week ? "Week of " + fmt(days[0]) : "This week"}</h3><button class="iconbtn" data-act="wk2" data-d="1" aria-label="Next week">${icon("next")}</button></div><div class="weeklist">${days
     .map((d) => {
       const L = by[d] || [],
         ev = eventsOn(d),
-        td = todosOn(d).filter((x) => !x.done);
-      return `<button class="pebble ${d === today ? "today" : ""}" data-act="pday" data-d="${d}"><span class="eyebrow">${DAYN[parse(d).getDay()]}</span><b>${parse(d).getDate()}</b>${L.map((x) => `<span class="pchip ${SC(x.s)} ${x.done ? "ok" : ""}">${esc(x.t)}</span>`).join("")}${ev.map((e) => `<span class="pchip r-out">${clock(hm(e.start))} ${esc(e.title)}</span>`).join("")}${td.map((x) => `<span class="pchip r-you">${esc(x.title)}</span>`).join("")}${!L.length && !ev.length && !td.length ? `<span class="xs muted">${d < (S.start || today) ? "Before your plan began" : "Free day"}</span>` : ""}</button>`;
+        td = todosOn(d).filter((x) => !x.done),
+        empty = !L.length && !ev.length && !td.length;
+      return `<div class="wday ${d === today ? "today" : ""}"><button class="plain wdayh" data-act="pday" data-d="${d}"><b>${DAYFULL[parse(d).getDay()]}</b> <span class="xs muted">${fmt(d)}${d === today ? " · today" : ""}</span></button>${L.map((x) => `<button class="plain wrow ${SC(x.s)} ${x.done ? "ok" : ""}" ${x.k ? `data-act="chapter" data-k="${x.k}"` : ""}>${x.done ? "✓ " : ""}${esc(x.t)} <span class="xs muted">· ${SUBJ[x.s]}${x.n ? ` · part ${x.n} of ${x.tot}` : ""}</span></button>`).join("")}${ev.map((e) => `<span class="wrow r-out">◆ ${e.start ? clock(hm(e.start)) + " " : ""}${esc(e.title)}</span>`).join("")}${td.map((x) => `<span class="wrow r-you">☐ ${esc(x.title)}</span>`).join("")}${empty ? `<span class="xs muted">${d < (S.start || today) ? "Before your plan began" : "Free day"}</span>` : ""}</div>`;
     })
     .join("")}</div>${calLegend()}`;
 }

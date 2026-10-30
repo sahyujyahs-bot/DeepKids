@@ -203,6 +203,15 @@ function onAct(e) {
       openSheet({ mode: "swap", s: b.dataset.s });
       break;
     }
+    case "catchup": {
+      const s = b.dataset.s,
+        ks = b.dataset.ks.split("~");
+      S.next = { ...(S.next || {}), [s]: [...ks, ...((S.next || {})[s] || []).filter((x) => !ks.includes(x))] };
+      sfx("ok");
+      toast(ks.length > 1 ? `${ks.length} topics moved to the front of ${SUBJ[s]}` : "That's up next");
+      commit();
+      break;
+    }
     case "pin": {
       const s = b.dataset.s;
       S.next = { ...(S.next || {}), [s]: [k, ...((S.next || {})[s] || []).filter((x) => x !== k)] };

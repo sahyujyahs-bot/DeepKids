@@ -1885,6 +1885,11 @@ dialog.mini::backdrop {
   color: var(--good);
   font-weight: 700;
 }
+.catchrow {
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  gap: 8px;
+}
 .trkbar {
   position: relative;
   height: 14px;
@@ -1942,12 +1947,52 @@ dialog.mini::backdrop {
 .yearlist summary {
   cursor: pointer;
 }
+.ylweek {
+  display: grid;
+  gap: 2px;
+  margin-top: 10px;
+}
+.weeklist {
+  display: grid;
+  gap: 10px;
+}
+.wday {
+  display: grid;
+  gap: 4px;
+  padding: 10px 14px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--r-lg);
+}
+.wday.today {
+  border: 2px solid var(--tang);
+}
+.wdayh {
+  text-align: left;
+}
+.wrow {
+  display: block;
+  text-align: left;
+  padding: 4px 0 4px 10px;
+  border-left: 3px solid var(--c, var(--line));
+  font-size: 15px;
+}
+.wrow.ok {
+  color: var(--muted);
+}
+.wrow.r-out {
+  --c: var(--gum);
+}
+.wrow.r-you {
+  --c: var(--peri);
+}
 .ylsub {
   display: grid;
   gap: 2px;
   margin-top: 10px;
 }
 .ylrow {
+  display: block;
   text-align: left;
   padding: 4px 0 4px 10px;
   border-left: 3px solid var(--c);
@@ -5833,6 +5878,8 @@ header.top .hello b {
   border-radius: var(--r-lg);
   padding: 10px 12px;
   display: grid;
+  text-align: left;
+  color: inherit;
   background: #fff;
 }
 .fxgoal b {

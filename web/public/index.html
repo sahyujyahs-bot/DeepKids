@@ -1903,6 +1903,11 @@ dialog.mini::backdrop {
   color: var(--good);
   font-weight: 700;
 }
+.catchrow {
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  gap: 8px;
+}
 .trkbar {
   position: relative;
   height: 14px;
@@ -1960,12 +1965,52 @@ dialog.mini::backdrop {
 .yearlist summary {
   cursor: pointer;
 }
+.ylweek {
+  display: grid;
+  gap: 2px;
+  margin-top: 10px;
+}
+.weeklist {
+  display: grid;
+  gap: 10px;
+}
+.wday {
+  display: grid;
+  gap: 4px;
+  padding: 10px 14px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--r-lg);
+}
+.wday.today {
+  border: 2px solid var(--tang);
+}
+.wdayh {
+  text-align: left;
+}
+.wrow {
+  display: block;
+  text-align: left;
+  padding: 4px 0 4px 10px;
+  border-left: 3px solid var(--c, var(--line));
+  font-size: 15px;
+}
+.wrow.ok {
+  color: var(--muted);
+}
+.wrow.r-out {
+  --c: var(--gum);
+}
+.wrow.r-you {
+  --c: var(--peri);
+}
 .ylsub {
   display: grid;
   gap: 2px;
   margin-top: 10px;
 }
 .ylrow {
+  display: block;
   text-align: left;
   padding: 4px 0 4px 10px;
   border-left: 3px solid var(--c);
@@ -5851,6 +5896,8 @@ header.top .hello b {
   border-radius: var(--r-lg);
   padding: 10px 12px;
   display: grid;
+  text-align: left;
+  color: inherit;
   background: #fff;
 }
 .fxgoal b {
@@ -6490,9 +6537,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="76d3b31e69f4cb3342";window.DK_APPV="76d3b31e69";window.DK_DATAV="f4cb1bc675"</script>
-<script src="/config.js?v=76d3b31e69f4cb3342"></script>
+<script>window.DK_BUILD="35a112d170f4cb3342";window.DK_APPV="35a112d170";window.DK_DATAV="f4cb1bc675"</script>
+<script src="/config.js?v=35a112d170f4cb3342"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=76d3b31e69f4cb3342"></script>
+<script src="/platform.js?v=35a112d170f4cb3342"></script>
 </body>
 </html>

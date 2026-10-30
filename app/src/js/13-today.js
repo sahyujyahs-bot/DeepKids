@@ -509,13 +509,20 @@ function fxTodayTop(animate) {
         .filter((x) => x.kind === "lesson" && !x.done)
         .forEach((x) => (planned += x.dur));
   }
+  // learned = the minutes really timed (lesson steps and time inside units); a lesson marked done without a timer counts its planned minutes
+  const timed = {};
+  Object.entries(S.mins || {}).forEach(([k, m]) => {
+    const [d, sj] = k.split("|");
+    if (d >= mon && d <= today) timed[d + "|" + sj] = m;
+  });
   S.log
     .filter((l) => l.date >= mon && l.date <= today && l.kind !== "skipped")
     .forEach((l) => {
       const m = lessonMins(l.subj, l.date);
-      doneM += m;
       planned += m;
+      if (!timed[l.date + "|" + l.subj]) timed[l.date + "|" + l.subj] = m;
     });
+  doneM = Object.values(timed).reduce((a, b) => a + b, 0);
   const units = Object.keys(DATA.units || {}).map((id) => ({
     id,
     st: fxUnitSt("unit|" + id),
@@ -523,7 +530,7 @@ function fxTodayTop(animate) {
   }));
   const going = units.filter((x) => x.st === "learning").sort((a, b) => b.t - a.t),
     doneU = units.filter((x) => rank[x.st] >= 2).length;
-  const tiles = `<div class="fxgoals"><div class="fxgoal"><b>${Math.round(doneM)}<small> / ${Math.round(planned)} min</small></b><span>learned this week</span></div><div class="fxgoal"><b>${going.length}<small> started · ${doneU} finished</small></b><span>topics</span></div></div>`;
+  const tiles = `<div class="fxgoals"><button class="fxgoal plain" data-act="hist"><b>${Math.round(doneM)}<small> / ${Math.round(planned)} min</small></b><span>learned this week</span></button><button class="fxgoal plain" data-act="tofinish"><b>${going.length}<small> started · ${doneU} finished</small></b><span>topics</span></button></div>`;
   const c = going[0];
   let cont = "";
   if (c) {
