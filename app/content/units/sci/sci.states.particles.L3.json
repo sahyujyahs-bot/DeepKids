@@ -275,7 +275,7 @@
    "Every summer holiday, Kavya helped at her Chithi's juice stall near the bus stand in Madurai. Chithi means aunt, and Kavya's Chithi was called Meenakshi. Her stall sold nimbu pani, sugarcane juice and sweet lime juice. It had a steel counter, a big glass jar of lemons, and a tall bottle of thick, clear sugar syrup.",
    "Kavya was nine. Her job was to squeeze the lemons, pour in the syrup, fill the glass with cold water and hand it over. It was May, and the queue never ended. Bus drivers, students, a grandmother with a basket of jasmine flowers. Everyone was hot and thirsty.",
    "That afternoon a bus conductor came to the counter. He wore a khaki uniform and a leather bag across his chest, and he looked tired. 'One nimbu pani,' he said, 'and hurry, my bus leaves in five minutes.'",
-   "Kavya squeezed half a lemon into a glass. She poured in a long stream of syrup. She filled the glass with water from the cold steel can and handed it over with a straw. Then she turned to the next customer.",
+   "Kavya squeezed half a lemon into a glass. She poured in a long stream of syrup. She filled the glass slowly with water from the cold steel can and handed it over with a straw. Then she turned to the next customer.",
    "'Hey!' The conductor held up his glass. 'You forgot the sugar. This is sour as anything.'",
    "'I put it in,' said Kavya. 'I poured the syrup myself.'",
    "The conductor held the glass up to the light. 'Where? I see only water and lemon pips. There is no sugar in here.'",
@@ -335,7 +335,7 @@
       "Wet clothes on the balcony are dry by evening. (Into the air)",
       "A camphor tablet left on a plate gets smaller every day. (Into the air)",
       "A puddle on the terrace is gone by afternoon. (Into the air)",
-      "The smell of jasmine fills the room. (Into the air, from the flowers)",
+      "Water in an open steel tumbler is lower after three days. (Into the air)",
       "A bar of soap gets thinner after a month of baths. (Into the bath water)",
       "Kavya rubs out a pencil line. The line is gone. (Onto the eraser crumbs)",
       "The soles of Arjun's chappals wear thin. (Onto the roads he walked on)",
@@ -423,7 +423,7 @@
      "say": "Was there any card where the thing was really gone, with nothing left anywhere?",
      "kid": "Count your cards. Was anything really gone, with nothing left anywhere?",
      "think": "Can you think of anything that disappears and is truly gone?",
-     "parent": "A good answer is no. In every case, the stuff went somewhere, as crumbs or particles. Scientists have tested this for over 200 years, and matter is never destroyed."
+     "parent": "A good answer is no. In every case, the stuff went somewhere, as crumbs or particles. Scientists have weighed things before and after such changes for over 200 years, and nothing is lost."
     }
    ],
    "setup": [
@@ -477,7 +477,7 @@
    "rules": [
     "Each player puts 25 beans on the 25 circles of their mat. This is their sugar grain.",
     "On your turn, roll the dice and do what the dice key says.",
-    "You may only take a bean that touches the water. A bean touches the water if there is an empty space beside it on at least one side.",
+    "You may only take a bean that touches the water. A bean touches the water if the blue border or an empty circle is right beside it, on at least one side.",
     "Beans you take go into the blue water border. They are dissolved.",
     "If you roll 6, slide part of your grain away so it is in 2 pieces with a gap. Now more beans touch the water.",
     "The first player whose whole grain is dissolved wins."
@@ -595,9 +595,8 @@
      "qty": 1
     },
     {
-     "item": "a digital kitchen scale, if you have one (not needed)",
-     "qty": 1,
-     "buy": "b-scale"
+     "item": "optional: a digital kitchen scale",
+     "qty": 1
     }
    ],
    "safety": "Only taste from clean spoons and clean bottles. Wipe up spilled sugar, or ants will find it.",
@@ -759,7 +758,7 @@
   {
    "id": "e2",
    "title": "Lump, Grains or Powder: which sugar dissolves first?",
-   "mins": 30,
+   "mins": 37,
    "days": 1,
    "question": "Does the size of the pieces change how fast sugar dissolves?",
    "predict": "Guess first. Which will dissolve first in water: a lump of kalkandu, ordinary sugar grains, or powdered sugar? Which will be last? Why do you think so?",
@@ -800,7 +799,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 30,
+     "mins": 37,
      "what": "Dissolve a lump of kalkandu, sugar grains and powdered sugar, one at a time, and time each one."
     }
    ],
@@ -849,7 +848,7 @@
     },
     {
      "id": "s5",
-     "mins": 8,
+     "mins": 15,
      "do": "1. Do the same with the kalkandu in glass 3. 2. If pieces are still there after 15 minutes, stop and write 'more than 15 minutes'.",
      "say": "Now the lump. This one may take a while. While we wait, watch the lump closely. Is it getting smaller from the outside, or from the middle?",
      "kid": "Now the kalkandu. Same stirring. Watch the lump. Does it shrink from the outside or the middle?",
@@ -1017,8 +1016,7 @@
    "materials": [
     {
      "item": "a magnifying glass, or a phone camera zoomed in as far as it goes",
-     "qty": 1,
-     "buy": "b-magnifier"
+     "qty": 1
     },
     {
      "item": "a few grains of sugar, a few grains of salt and one piece of kalkandu",
@@ -1256,7 +1254,7 @@
        "It was luck"
       ],
       "a": 1,
-      "why": "Ants smell and taste with their antennae. Sugar particles from the drop reach them, so they can tell sugar water from plain water. Then they lay a scent trail so other ants can find it too. Picking 'they saw it' is a natural guess, but the sugar is too small for anyone to see. Picking 'luck' is worth testing: try again with the drops swapped."
+      "why": "Ants smell and taste with their antennae. When an ant touches the sugar water, her antennae pick up the sugar particles, so she can tell sugar water from plain water. Then they lay a scent trail so other ants can find it too. Picking 'they saw it' is a natural guess, but the sugar is too small for anyone to see. Picking 'luck' is worth testing: try again with the drops swapped."
      }
     },
     {
@@ -1418,14 +1416,14 @@
     "a card for the ants"
    ],
    "general": [
-    "Weigh it. Use the same amount of each water on the hanger balance. The sugar water side goes down, because it holds the sugar particles too.",
+    "Weigh it. Fill two same bottles to the same mark, one with each water, and hang them on the hanger balance. The sugar water side goes down a little, because it holds the sugar particles too.",
     "Ask the ants. Put a drop of each near an ant trail. Ants go to the sugar water.",
     "Let it dry. Put a few drops of each on a steel plate in the sun. The plain water dries to almost nothing. The sugar water dries to a sticky patch."
    ],
    "creative": [
     "Rub a drop of each between your finger and thumb, then let it dry. Sugar water makes your fingers sticky.",
     "Paint a few lines with each water on black paper with a brush. When dry, the sugar lines may shine and feel stiff.",
-    "Ask a grown-up to boil a cup of each in a pan until almost dry. The sugar water leaves a sticky, brownish syrup at the bottom."
+    "Ask a grown-up to boil a few spoons of each in a small pan until almost dry. The sugar water leaves a sticky, brownish syrup at the bottom."
    ],
    "your_turn": "Now invent your own test. Draw it, try it, and show Farhan the result.",
    "flow": [
@@ -1492,7 +1490,7 @@
    "creative": [
     "Put crushed jaggery and water in a closed bottle and shake it hard.",
     "Wrap the jaggery in a clean cloth and pound it with a rolling pin, then drop the cloth bundle in the water and squeeze it.",
-    "Soak the jaggery the night before, so it is ready when the guests come."
+    "Ask a grown-up to chop the block into small cubes with a knife before you start."
    ],
    "your_turn": "Now plan your own fastest way. Time it. Then strain the panakam, add a pinch of dry ginger and cardamom, and serve it.",
    "flow": [
@@ -1577,17 +1575,17 @@
    "t": "mcq",
    "p": "What is everything around you made of?",
    "opts": [
-    "Only atoms in solids, but not in water or air",
+    "Particles only in solids, not in water or air",
     "Particles far too small to see, in solids, liquids and gases",
     "Grains you can see with a magnifying glass"
    ],
    "a": 1,
-   "why": "Solids, liquids and gases are all made of particles far too small to see. Picking the first means thinking water and air are smooth all the way down. Picking the last confuses grains, which are huge heaps of particles, with particles.",
+   "why": "Solids, liquids and gases are all made of particles far too small to see. Picking the first means thinking water and air are smooth all the way down, with no pieces. Picking the last confuses grains, which are huge heaps of particles, with particles.",
    "outcome": 0
   },
   {
    "t": "mcq",
-   "p": "Kavya stirs sugar into water and the grains disappear. Where is the sugar now?",
+   "p": "Kavya, a girl in Class 3, stirs sugar into water and the grains disappear. Where is the sugar now?",
    "opts": [
     "It has been destroyed",
     "Spread through the water as tiny sugar particles",
@@ -1599,7 +1597,7 @@
   },
   {
    "t": "mcq",
-   "p": "A bottle of water and a packet of sugar together weigh 120 grams. The sugar is dissolved in the bottle, and the empty packet stays on the scale. What will the scale show?",
+   "p": "On a kitchen scale, a closed bottle of water and a packet of sugar weigh 120 grams together. Riya, a girl in Class 3, pours the sugar into the bottle, closes it and shakes it until the sugar is gone. She puts the bottle and the empty packet back on the scale. What does the scale show?",
    "opts": [
     "Less than 120 grams",
     "120 grams",
@@ -1638,7 +1636,7 @@
   },
   {
    "t": "mcq",
-   "p": "Meera wants to test whether stirring makes sugar dissolve faster. What should she keep the same?",
+   "p": "Meera, a girl in Class 3, wants to test whether stirring makes sugar dissolve faster. What should she keep the same?",
    "opts": [
     "Nothing, it doesn't matter",
     "The water, the glass and the amount of sugar",
@@ -1662,7 +1660,7 @@
   },
   {
    "t": "mcq",
-   "p": "Arjun says, 'Sugar melts in tea because the tea is hot.' What is wrong with this?",
+   "p": "Arjun, a boy in Class 3, says, 'Sugar melts in tea because the tea is hot.' What is wrong with this?",
    "opts": [
     "Nothing, he is right",
     "Sugar dissolves even in cold water, so it is dissolving, not melting",
@@ -1674,7 +1672,7 @@
   },
   {
    "t": "mcq",
-   "p": "Long ago, many teachers said that when two things truly mix, each stops being itself. What did Daniel Sennert do to show this was wrong?",
+   "p": "Long ago, many teachers said that when two things truly mix, each stops being itself. What did Daniel Sennert, a doctor in the 1600s, do to show this was wrong?",
    "opts": [
     "He dissolved silver in a strong acid and got the same silver back",
     "He looked at silver particles with a microscope",
@@ -1706,7 +1704,7 @@
     "They guessed"
    ],
    "a": 0,
-   "why": "Ants smell and taste with their antennae, so the sugar particles told them which drop was food. Nobody can see dissolved sugar.",
+   "why": "Ants smell and taste with their antennae. When an ant touches the sugar water, she picks up the sugar particles and knows it is food. Nobody can see dissolved sugar.",
    "outcome": 2,
    "how": "a4"
   },
@@ -1940,11 +1938,11 @@
      "p": "Which of these shows that particles move by themselves?",
      "opts": [
       "Sugar sits at the bottom and never changes",
-      "The smell of jasmine spreads across a still room",
+      "Sugar slowly makes the water above it sweet, even with no stirring",
       "A stone stays where you put it"
      ],
      "a": 1,
-     "why": "Smell particles from the flowers spread out through the air and reach your nose. A stone's particles move too, but they jiggle in place."
+     "why": "Over days, sugar particles keep moving and spread up through the water by themselves. A stone's particles move too, but they jiggle in place."
     },
     {
      "t": "mcq",
@@ -2127,7 +2125,7 @@
      "p": "Which test would best show that dissolved salt is still in water, without tasting?",
      "opts": [
       "Looking at the water closely",
-      "Letting a few drops dry on a dark steel plate",
+      "Letting a few drops dry on a clean steel plate",
       "Smelling the water"
      ],
      "a": 1,
@@ -2495,28 +2493,6 @@
    "used_in": [
     "p1"
    ]
-  },
-  {
-   "id": "b-magnifier",
-   "item": "A magnifying glass",
-   "kind": "tool",
-   "why": "Shows the flat faces of sugar and salt crystals. A phone camera zoomed in works too, so this is optional.",
-   "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
-   "used_in": [
-    "a2"
-   ],
-   "plan": "Used again in many units on plants, insects and materials."
-  },
-  {
-   "id": "b-scale",
-   "item": "A digital kitchen scale that weighs in grams",
-   "kind": "tool",
-   "why": "Optional. The hanger balance works without it, but a scale shows the same result in numbers.",
-   "url": "https://www.amazon.in/s?k=digital+kitchen+scale",
-   "used_in": [
-    "e1"
-   ],
-   "plan": "Useful for weighing in cooking and in later units on weight and mass."
   }
  ],
  "warmup": [
@@ -2628,21 +2604,21 @@
  "roots": {
   "context": "We have learned that sugar breaks into particles in water and is still all there. Now we ask what this tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "Stirred into water, your sugar vanished, yet the balance stayed level and every sip tasted sweet. The sugar had come apart into separate particles, far too small to see. Each of those particles is still sugar. A heap of sugar is only many sugar particles packed together, and water can spread them out.",
+   "truth": "Stirred into water, your sugar vanished, yet the balance stayed level and every sip tasted sweet. The sugar had come apart into separate particles, far too small to see. Each of those particles is still sugar. A heap of sugar is many sugar particles packed together, and water can spread them out.",
    "habit": "We think of sugar as the white grains in the dabba, so when the grains vanish we say the sugar is gone. But grains are only how sugar particles are packed. Spread out in water, it is all the same sugar.",
    "evidence": "In the hanger balance test, bottle A weighed the same after the sugar vanished. Every sip from the stirred bottle tasted sweet. Ants went to the clear sugar water drop and left the plain one. Crushed sugar powder still tasted sweet."
   },
   "three": {
    "who_am_i": "You are made of particles too: water, sugars, fats and many more, far too small to see.",
-   "what_is_life": "Your blood carries a sugar called glucose dissolved in it, to give every cell energy. Ants live on dissolved sugar too.",
+   "what_is_life": "Your blood carries a sugar called glucose dissolved in it, to give every cell energy. Ants drink sugar dissolved in nectar and sweet juices.",
    "what_is_this_world": "Everything around you, the air, the sea and the stone floor, is made of particles, and they never stop moving."
   },
-  "thread": "Before you stirred, the sugar was one heap you could hold in a spoon. In water it became countless particles spread through the whole bottle, and none was lost. Boil cane juice in a sugar mill, and the particles gather into grains again. The heap and the spread-out particles are the same sugar, arranged in two ways. This is a small picture of how one whole can show up as many parts, and the many can come together as one again.",
+  "thread": "Before you stirred, the sugar was one heap you could hold in a spoon. In water it became countless particles spread through the whole bottle, and none was lost. Boil cane juice in a sugar mill, and the particles gather into grains again. The heap and the spread-out particles are the same sugar, arranged in two ways.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.13",
     "teaching": "Uddalaka asks his son Shvetaketu to put salt in water overnight. In the morning he asks for the salt, but Shvetaketu cannot find it. 'Taste the water from the top, the middle and the bottom,' says Uddalaka. Each time it is salty. 'You cannot see the salt, but it is there,' he says. 'In the same way, the finest essence is in everything, and you are that.'",
-    "link": "This is the hanger balance and the tasting test, told more than 2,000 years ago. Your test also showed something the story leaves out: unstirred, dissolved sugar stays mostly at the bottom, so the water must be stirred to taste the same everywhere."
+    "link": "This is the tasting test from your unit, told more than 2,000 years ago. Your test also showed something the story leaves out: unstirred, dissolved sugar stays mostly at the bottom, so the water must be stirred to taste the same everywhere."
    },
    {
     "source": "Lucretius, On the Nature of Things, Book 1, about lines 265 to 328",
@@ -2683,6 +2659,6 @@
   "who": "Daniel Sennert, a German doctor, and later Robert Boyle, an English scientist",
   "when": "The early 1600s (Sennert), and later in the 1600s (Boyle)",
   "wrong_idea": "When two things truly mix, each stops being itself, and a new thing takes the place of both. So dissolved silver would no longer be silver.",
-  "story": "For about 2,000 years, many teachers in Europe followed the Greek thinker Aristotle. They taught that when two things truly mix, each stops being itself. A new thing takes the place of both. So silver dissolved in a liquid would no longer be silver. In the early 1600s, Daniel Sennert, a German doctor who taught at Wittenberg, tested this. He dissolved silver in aqua fortis, a strong acid that eats into metal. The silver disappeared. The clear liquid even ran through filter paper, which stops fine dust. Then he added another substance to the liquid, and the silver came out again as a fine powder. When he heated the powder, he had ordinary silver once more. Sennert said the silver had never stopped being silver. It had only broken into particles too small to see, and they had come together again. Later in the 1600s, the English scientist Robert Boyle used tests like this to argue that everything is made of tiny particles. Today we know they were right."
+  "story": "For about 2,000 years, many teachers in Europe followed the Greek thinker Aristotle. They taught that when two things truly mix, each stops being itself. A new thing takes the place of both. So silver dissolved in a liquid would no longer be silver. In the early 1600s, Daniel Sennert, a German doctor who taught at Wittenberg, tested this. He dissolved silver in aqua fortis, a strong acid that eats into metal. The silver disappeared. Then he added another substance to the liquid, and the silver came out again as a fine powder. When he heated the powder, he had ordinary silver once more. Sennert said the silver had never stopped being silver. It had only broken into particles too small to see, and they had come together again. Later in the 1600s, the English scientist Robert Boyle used tests like this to argue that everything is made of tiny particles. Today we know they were right."
  }
 }

@@ -1,0 +1,2569 @@
+{
+ "id": "sci.environment.pollution.L3",
+ "title": "Pollution: what makes air, water and land dirty, and where it comes from",
+ "level": 3,
+ "summary": {
+  "text": "Air can look clear and still carry dust and smoke too small to see one by one. Pollution means harmful things added to air, water or land faster than nature can clear them away. Most of it comes from everyday things: vehicles, burning rubbish, building work, cooking smoke, sewage and plastic. In this unit you catch the air's dust on a sticky card at your window and count it. You find out how your nose catches dust all day, why dust on a leaf is a problem for the plant, and why soil holds back mud but lets salt through to the water underground.",
+  "art": "A white card with a pencil square on a window sill in a city flat, grey with tiny dark specks. Behind it, a busy road with autos and a bus, a building site with dust, and a distant haze over the buildings."
+ },
+ "intro": {
+  "hook": "Wet a white cloth and wipe the window grill on the side that faces the road. Then wipe a shelf inside a closed cupboard. Look at the two cloths. Where did the black on the first cloth come from?",
+  "text": "Nobody poured dirt on the window grill. It came out of the air, a tiny speck at a time, over days. In this unit you find out what those specks are, where they come from, and where else they land, including inside your own nose.",
+  "art": "A child's hand holding two white cloths side by side: one with a dark grey streak from a window grill, one almost clean from a cupboard shelf."
+ },
+ "outcomes": [
+  "I can say what pollution is: harmful things added to air, water or land faster than nature can clear them away.",
+  "I can name where air pollution comes from in an Indian city, such as vehicles, burning rubbish, building dust and cooking smoke.",
+  "I can catch dust from the air on a sticky card, count the specks in a square and compare places fairly.",
+  "I can explain how my nose catches dust, and why the tiniest specks are the most harmful.",
+  "I can name causes of water and land pollution, and explain why soil holds back mud but lets salt through.",
+  "I can explain why dust on a leaf is a problem for the plant, and how rain and leaf surfaces help.",
+  "I can suggest changes at home and in the city that make less pollution, and say who they help."
+ ],
+ "cards_mins": 15,
+ "terms": [
+  {
+   "term": "Pollution",
+   "meaning": "Harmful things added to air, water or land faster than nature can clear them away.",
+   "example": "Smoke from burning rubbish makes the air dirty. That is air pollution.",
+   "art": "A street corner with a small heap of burning rubbish sending grey smoke towards a block of flats."
+  },
+  {
+   "term": "Pollutant",
+   "meaning": "One harmful thing that causes pollution, such as smoke, soot, sewage or plastic.",
+   "example": "Soot from a diesel lorry is a pollutant in the air.",
+   "art": "Four small labelled pictures: a puff of smoke, a black soot speck, a sewage pipe, a plastic bag."
+  },
+  {
+   "term": "Particle",
+   "meaning": "A very small piece of something. Dust and smoke are made of particles floating in the air.",
+   "example": "Each speck on your sticky card is a particle that fell or blew out of the air.",
+   "art": "A magnifying glass over a white card, showing black, brown and grey specks of different sizes."
+  },
+  {
+   "term": "Soot",
+   "meaning": "Black particles left when something burns without enough air, such as diesel, wood, kerosene or rubbish.",
+   "example": "The black mark above an oil lamp's flame is soot.",
+   "art": "A clay lamp burning on a shelf, with a black smudge on the wall above the flame."
+  },
+  {
+   "term": "Fine particles (PM2.5)",
+   "meaning": "Particles so small that about 30 of them side by side are as wide as one hair. Scientists call them PM2.5. They float in the air for days and can reach deep into the lungs.",
+   "example": "Smoke from a mosquito coil or incense stick is full of fine particles.",
+   "art": "One hair drawn as a thick band across the picture, with a row of 30 tiny dots beside it, labelled PM2.5."
+  },
+  {
+   "term": "Mucus",
+   "meaning": "The wet, sticky layer inside your nose and airways. It catches dust and germs from the air you breathe.",
+   "example": "After a day near a busy road, the mucus you blow into a tissue can come out grey.",
+   "art": "A simple drawing of the inside of a nose, with tiny hairs and a shiny sticky lining catching dots of dust."
+  },
+  {
+   "term": "Sewage",
+   "meaning": "Used water from toilets, kitchens and bathrooms, carrying waste, soap and germs.",
+   "example": "In many towns, some sewage still flows into rivers and lakes without being cleaned.",
+   "art": "A pipe from a row of houses emptying brown water into a river."
+  },
+  {
+   "term": "Groundwater",
+   "meaning": "Water that has soaked down through soil and rock and is stored under the ground. Wells and borewells pump it up.",
+   "example": "Many flats in Chennai and Bengaluru get some of their water from a borewell, which pumps up groundwater.",
+   "art": "A cut-away picture of the ground: soil on top, rock below, water filling the gaps, and a borewell pipe reaching down."
+  },
+  {
+   "term": "Air Quality Index (AQI)",
+   "meaning": "A number that says how polluted the outside air is today. Low numbers mean cleaner air. High numbers mean dirtier air.",
+   "example": "On the morning after Bhogi, Chennai's AQI often jumps much higher than on an ordinary day.",
+   "art": "A phone screen showing an AQI number with a coloured bar from green (good) to dark red (very bad)."
+  },
+  {
+   "term": "Haze",
+   "meaning": "A dull, grey or yellow look in the air, made by many fine particles. Far-away buildings look blurry in haze.",
+   "example": "On a hazy winter morning, you may not see a water tank you can usually see clearly from your window.",
+   "art": "The same view from a window twice: on a clear day the far tower is sharp, on a hazy day it is pale and blurry."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "What pollution is",
+   "status": "defined",
+   "context": "This card says what the word pollution means, and why the same thing can be harmless in one amount and harmful in another.",
+   "definition": "Pollution is the adding of harmful things to air, water or land faster than nature can clear them away. Each harmful thing is called a pollutant.",
+   "description": "Nature cleans up all the time. Rain washes dust out of the air. Microbes in soil and water break down dead leaves and dung. Wind spreads smoke out. Pollution happens when people add more than these can deal with. A little smoke from one lamp spreads out and is hard to notice. Smoke from thousands of vehicles and fires, all day, piles up in the air of a city. Some pollutants, such as plastic and some metals, are hardly cleared away at all, so even small amounts build up over years.",
+   "examples": [
+    "One cooking fire in a village spreads its smoke into a wide sky. Thousands of fires in a city on the same evening make a haze.",
+    "A river can break down a little waste from a few houses. Sewage from a whole city is far more than the river's microbes can deal with.",
+    "Plastic in a drain does not rot, so every bag thrown in adds to the pile."
+   ],
+   "perspectives": [],
+   "art": "A balance scale: on one side, a small cloud of smoke and a rain cloud washing it away. On the other side, a huge cloud of smoke from many chimneys and vehicles, too heavy for the rain cloud to balance."
+  },
+  {
+   "concept": "Where air pollution comes from",
+   "status": "defined",
+   "context": "This card lists the main sources of dirty air in Indian cities, and what each one adds to the air.",
+   "definition": "Air pollution is smoke, dust and harmful gases in the air. In Indian cities, most of it comes from vehicles, road and building dust, burning rubbish, factories and power plants, and cooking or heating with wood, dung or kerosene.",
+   "description": "Anything that burns gives off smoke. Smoke is made of particles, such as soot, and gases. Diesel lorries, buses and old two-wheelers give off a lot of soot. Burning rubbish and dry leaves on the roadside adds smoke too, and burning plastic adds poisonous gases. Building sites and dusty roads throw dust into the air whenever vehicles pass or the wind blows. In winter, farmers in parts of North India burn the stubble left in their fields after the harvest, and the smoke spreads over many cities. Firecrackers at Diwali, and bonfires of old things at Bhogi in Tamil Nadu, add a lot of smoke in a few hours. Some harmful gases have no colour at all, so dirty air can look quite clear.",
+   "examples": [
+    "On Bhogi morning in Chennai, smoke from bonfires of old mats and tyres has delayed flights at the airport.",
+    "Smoke from burning stubble in Punjab and Haryana adds to Delhi's haze in late October and November.",
+    "A building site next door leaves a grey layer on every window sill nearby."
+   ],
+   "perspectives": [],
+   "art": "A city scene with labels: a bus giving off black smoke, a building site with dust, a roadside rubbish fire, a factory chimney, and a kitchen window with cooking smoke."
+  },
+  {
+   "concept": "Indoor air: smoke inside the home",
+   "status": "defined",
+   "context": "This card is about the air inside a home, which can be as dirty as the air outside.",
+   "definition": "Indoor air pollution is smoke, dust and harmful gases in the air inside a building. It comes from cooking, incense, mosquito coils, candles and dust brought in from outside.",
+   "description": "Many people think the air inside is always cleaner. It is not always so. A tadka of mustard seeds in hot oil, frying papads or a burning incense stick all fill a kitchen with fine particles. A burning mosquito coil gives off a lot of fine smoke for hours, in a closed bedroom. Cooking on a wood or dung fire inside a home is one of the biggest causes of illness in the world, which is why gas stoves help. An exhaust fan or an open window while cooking lets the smoke out. On days when the outside air is very dirty, keeping windows closed for a while can help.",
+   "examples": [
+    "After frying, the kitchen smells of oil for an hour. That smell is tiny droplets and gases still floating in the air.",
+    "Your sticky card in the kitchen catches oily specks, not only dust.",
+    "Switching on the exhaust fan while cooking carries the smoke outside."
+   ],
+   "perspectives": [],
+   "art": "A kitchen in a flat with a pan sizzling on a gas stove, a thin haze rising, and an exhaust fan pulling it out through the wall."
+  },
+  {
+   "concept": "Tiny particles and your body",
+   "status": "defined",
+   "context": "This card explains how your nose and airways catch dust, and why the smallest particles are the most harmful.",
+   "definition": "Your nose and airways clean the air you breathe. Hairs in your nose catch bigger dust. Sticky mucus catches smaller dust. The smallest particles, the fine particles called PM2.5, can slip past and reach deep into the lungs.",
+   "description": "You breathe in and out about 20,000 times a day. All that air passes over the wet, sticky mucus in your nose and airways, the way air passed over the jelly on your card. Dust sticks to the mucus. Tiny hairs in your airways, called cilia, sweep the dirty mucus up and out, and you swallow it or blow it out. That is why a tissue can come out grey after a dusty day. The finest particles are about 30 times thinner than a hair. They can float in the air for days and reach the smallest air sacs of the lungs. Breathing them for years can cause coughs, asthma and heart illness. Children breathe more air for their size than grown-ups, so dirty air affects them more.",
+   "examples": [
+    "After Diwali crackers, many people blow grey or black mucus into a tissue.",
+    "A cloth mask or handkerchief stops big dust. A well-fitted N95 mask stops most fine particles too.",
+    "People who walk to school along a busy road breathe more soot than those who walk along a quiet lane."
+   ],
+   "perspectives": [],
+   "art": "A side view of a child's head and chest, with arrows of air going in through the nose, big dust caught by nose hairs, smaller dust stuck in mucus, and a few tiny dots going down to the lungs."
+  },
+  {
+   "concept": "Dust on leaves: a problem for the plant",
+   "status": "defined",
+   "context": "This card is about the plants along roads and on balconies, and what dust does to their leaves.",
+   "definition": "A leaf makes the plant's food from sunlight, air and water. Dust on a leaf blocks some of the sunlight, and can clog the tiny holes in the leaf that let air in and out.",
+   "description": "A plant cannot walk away from a dusty road, so their leaves meet whatever the air brings. A coat of dust means less light reaches the leaf, so the plant makes less food. Plants deal with this in several ways. Rain washes most dust off. Smooth, waxy leaves, like those of a money plant or a banana plant, let dust slide off easily. Hairy or rough leaves, like tulsi and many roadside trees, hold on to dust. That is hard for the plant. Still, less of that dust reaches people. Trees along a road catch a lot of dust on their leaves, which is one reason streets with trees often have cleaner air.",
+   "examples": [
+    "Just before the monsoon, the leaves of roadside trees look grey. After the first heavy rain, they are bright green again.",
+    "A damp cotton ball wiped over the top of a balcony leaf comes away grey.",
+    "Banana and money plant leaves, which are smooth and waxy, shed water drops and dust quickly."
+   ],
+   "perspectives": [],
+   "art": "Two leaves side by side: one grey with dust and sunlight arrows bouncing off, one washed green after rain with sunlight going in."
+  },
+  {
+   "concept": "Water and land pollution",
+   "status": "defined",
+   "context": "This card is about what makes rivers, lakes and the ground dirty, and why some pollution goes right through the soil.",
+   "definition": "Water pollution is harmful things in rivers, lakes, the sea or groundwater. Land pollution is harmful things on and in the ground, such as rubbish, plastic and poisons.",
+   "description": "Sewage is the biggest cause of dirty rivers in India. When sewage pours into a river, microbes feed on the waste and use up the oxygen in the water, so fish can run short of oxygen. Soap, oil, paint and factory waste make water harmful too. Rubbish heaped on open ground, and plastic in drains, pollute the land. Rain soaks through the rubbish and carries some of what is in it down into the soil. Soil is a good filter for pieces, like mud and peels. But things dissolved in water, such as salt and many chemicals, pass through the soil with the water. They can reach the groundwater that borewells pump up.",
+   "examples": [
+    "Foam on some city lakes, such as Bellandur Lake in Bengaluru, comes from sewage with soap and detergent in it.",
+    "In your soil test, the muddy water came out clearer, but the salt in it went straight through.",
+    "A plastic bag in a drain stops the water flowing, and the drain floods in the rain."
+   ],
+   "perspectives": [],
+   "art": "A cut-away picture: a rubbish heap on the ground, rain falling, dark water soaking down through soil to the groundwater, and a borewell pipe nearby."
+  },
+  {
+   "concept": "Do house plants clean the air in a room?",
+   "status": "debated",
+   "context": "This card is about a popular idea: that a few pot plants make the air in a room clean. Scientists disagree about how much they help.",
+   "definition": "",
+   "description": "Plant leaves and the microbes in potting soil take in some pollutant gases from the air. That much is agreed. The question is how much difference a few pots make in a real room, where air comes in and goes out all the time.",
+   "examples": [
+    "Many shops sell money plants and snake plants as 'air-purifying plants'.",
+    "Opening a window for ten minutes changes all the air in a room."
+   ],
+   "perspectives": [
+    {
+     "who": "A study for NASA in 1989, led by Bill Wolverton",
+     "explanation": "Plants in small sealed chambers took some harmful gases out of the air within a day. Many people took this to mean that house plants clean a home."
+    },
+    {
+     "who": "Later reviews of many studies, such as one by Bryan Cummings and Michael Waring in 2019",
+     "explanation": "A real room is not a sealed box. To clean the air as much as ordinary airflow through windows and doors does, a room would need to be packed with plants, far more than anyone keeps. Plants are good for people in other ways, but they are not an air filter."
+    }
+   ],
+   "art": "A small sealed glass box with one plant inside, next to a real living room with two pot plants and an open window with air arrows flowing through."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "Breathing dirty air for a long time harms the lungs and heart.",
+   "evidence": "Studies of millions of people around the world, gathered by the World Health Organization, show more asthma, lung illness and heart illness where the air has more fine particles."
+  },
+  {
+   "text": "Fine particles, PM2.5, are the most harmful part of air pollution.",
+   "evidence": "They are small enough to reach the deepest air sacs of the lungs. Doctors have found them in lung tissue, and illness rises as their amount in the air rises."
+  },
+  {
+   "text": "Most air pollution in Indian cities comes from burning and from dust.",
+   "evidence": "Scientists have collected particles from city air, studied what they are made of, and matched them to vehicles, road dust, burning rubbish, industry and cooking fires."
+  },
+  {
+   "text": "Sewage is the main cause of dirty rivers in India.",
+   "evidence": "The Central Pollution Control Board tests rivers across India. Stretches downstream of cities have far less oxygen and far more germs than stretches upstream."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Air that looks clear is clean.",
+   "who": "A very common idea",
+   "for": "On a clear blue day we cannot see any dust or smoke.",
+   "against": "Your sticky card caught specks from air that looked clear. Fine particles are too small to see one by one, and some harmful gases have no colour at all.",
+   "status": "rejected",
+   "context": "This card is about a common idea: that you can see whether the air is dirty."
+  },
+  {
+   "claim": "The air inside a home is always cleaner than outside.",
+   "who": "Many families",
+   "for": "Walls and windows keep out a lot of road dust.",
+   "against": "Cooking smoke, incense and mosquito coils add fine particles inside. A kitchen during frying can have dirtier air than the road outside.",
+   "status": "rejected",
+   "context": "This card is about whether staying indoors always means cleaner air."
+  },
+  {
+   "claim": "A few pot plants clean the air in a room.",
+   "who": "Many advertisements, based on a 1989 NASA study",
+   "for": "In small sealed boxes, plants took harmful gases out of the air.",
+   "against": "Later studies found that a real room needs far more plants than anyone keeps to match what fresh air from a window does.",
+   "status": "debated",
+   "context": "This card is about the idea that house plants are air filters."
+  },
+  {
+   "claim": "Burning dry leaves is natural, so it does no harm.",
+   "who": "Some people who sweep and burn leaves",
+   "for": "Leaves are natural, and forests sometimes burn by themselves.",
+   "against": "Burning leaves gives off thick smoke full of fine particles, right where people live and breathe. Leaves left to rot, or put in compost, become soil instead.",
+   "status": "rejected",
+   "context": "This card is about whether smoke from natural things is harmless."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "Your nose catches dust all day. Where does the dust go after that?",
+   "kind": "deep",
+   "hint": "Think about the tissue, and about what you swallow without noticing."
+  },
+  {
+   "q": "The air you breathe out goes into the room, and someone else breathes it in. Whose air is it?",
+   "kind": "big",
+   "hint": "Think about a crowded bus, and about the trees on your road."
+  },
+  {
+   "q": "A family uses wood for cooking because gas costs too much. Who should pay for cleaner air?",
+   "kind": "big",
+   "hint": "Think about who makes the smoke, who breathes it, and who can afford to change."
+  },
+  {
+   "q": "If a speck of soot is too small to see, how do scientists know it is there?",
+   "kind": "deep",
+   "hint": "Think about your card. You could not see one speck land, but you saw many specks together."
+  },
+  {
+   "q": "A tree beside a busy road catches dust on their leaves, and that dust is hard for them. Does the tree have a say?",
+   "kind": "big",
+   "hint": "Think about how the tree senses light, and what dust does to that."
+  }
+ ],
+ "story": {
+  "title": "The Grey Card on Bhogi Morning",
+  "mins": 12,
+  "read_aloud": true,
+  "note": "The story is made up. The facts in it are true: Bhogi is the first day of Pongal, families in Tamil Nadu burn old things in bonfires that morning, and the smoke in Chennai has delayed flights at the airport. Tamil Nadu's Pollution Control Board asks people not to burn tyres, plastic or rubber.",
+  "text": [
+   "Kavya lived on the fourth floor of a block of flats in Chennai. She was nine. Her bedroom window looked down on a lane, and past the lane, on the main road with its buses and autos.",
+   "Two days before Pongal, her cousin Arjun came from Coimbatore to stay. Arjun was seven, and he had one plan. 'On Bhogi morning,' he said, 'we make the biggest bonfire in the lane. Uncle downstairs has an old tyre. Tyres burn for ages.'",
+   "Kavya's mother, Revathi, was ironing in the next room. She did not say yes and she did not say no. She said, 'Before you decide, would you two like to do an experiment?'",
+   "She cut three cards from the inside of an empty biscuit box. On each one, Kavya drew a square with a ruler, as big as her thumbnail. Then Amma gave them a small tin of petroleum jelly. 'Spread a thin layer inside each square,' she said. 'The jelly is sticky. Anything that touches it stays.'",
+   "Arjun spread his very thick. Kavya made hers so thin that the card only looked shiny.",
+   "They taped the first card flat on the window sill, jelly side up. They taped the second card upright on the window grill, facing the road, so nothing could fall onto it. The third card went inside a steel dabba, with the lid shut tight.",
+   "'Why the dabba?' asked Arjun.",
+   "'So we know what a card looks like when the air cannot reach it,' said Kavya. 'Otherwise how will we know the specks came from the air?'",
+   "That evening, the cards on the window looked white. Arjun was disappointed. 'Nothing,' he said.",
+   "'Wait,' said Amma.",
+   "The next day was Bhogi. Before the sun came up, Kavya woke to the smell of smoke. She went to the window. Down in the lane, and in every lane she could see, small fires were burning. People were throwing on old mats, broken baskets and torn clothes. On the main road, one fire was black and thick. Someone had put a tyre on it.",
+   "The sky was not blue that morning. It was a flat grey, and the tall water tank at the end of the road, which she could always see, had gone pale and blurry. On the radio, a man said that flights at Chennai airport were waiting, because the pilots could not see the runway well enough.",
+   "Arjun came to the window and coughed. 'My eyes are itching,' he said.",
+   "At lunchtime they took down the cards. The one in the dabba was as white as the day they made it. The upright card on the grill had a grey haze in its square. And the flat card on the sill was the worst. Its square was grey all over, with black specks in it, and a few shiny bits, and one tiny fibre from someone's cloth.",
+   "Amma gave them the magnifying glass from the drawer. Kavya counted the specks in one corner of the flat card's square. 'Forty-three,' she said. 'Just in this corner.'",
+   "Arjun looked at the upright card. 'But nothing could fall on this one,' he said. 'It was standing up. How did the dust get on it?'",
+   "'Some specks are so tiny they do not fall,' said Amma. 'They float in the air for days, and the wind blows them against anything in the way.' She set down the iron. 'Like the inside of your nose.'",
+   "Arjun touched his nose.",
+   "'Your nose is sticky inside, like that jelly,' Amma said. 'Every breath goes past it, and the sticky mucus catches dust. Blow your nose tonight into a white tissue, and look.'",
+   "That night, Arjun did, and he looked, and he made a face. The tissue was grey.",
+   "'So the smoke from the bonfires went into my nose,' he said slowly. 'And the tyre smoke too.'",
+   "'Some of it,' said Amma. 'Your nose catches the bigger specks. The smallest ones go further in, into your lungs. That is why the doctors say tyres and plastic must never be burned. Their smoke has poisons in it, as well as soot.'",
+   "Arjun was quiet for a long time. Then he said, 'But Bhogi is for getting rid of old things. If we don't burn them, what do we do with them?'",
+   "Kavya had been thinking about that too. 'Paati says Bhogi means letting go of old things to make space for new ones,' she said. 'It doesn't say you have to set them on fire.'",
+   "So the next year, on Bhogi morning, Kavya and Arjun did something different. They went round the flats with a big cloth bag. The torn clothes went to the kabadiwala, who sells them on to be shredded and made into new cloth. The old grass mats went into the compost pit at the corner of the park. The broken toys went in a box for a woman who mends them. And on the window sill, they taped up three fresh cards.",
+   "At lunchtime they compared them with last year's. The new flat card was grey too, because many people in the city still had bonfires. But it was less grey than last year's, and Arjun said his eyes did not itch at all.",
+   "'Our lane made less smoke,' said Kavya. 'And our noses caught less of it.'"
+  ],
+  "epiphany": "The dust that lands on a sticky card is the same dust that lands inside your nose, because both catch whatever is in the air you breathe.",
+  "ask": [
+   "Why did Kavya put the third card in a closed dabba?",
+   "Nothing could fall onto the upright card. How did specks get on it?",
+   "Why was Arjun's tissue grey that night?",
+   "What else could a family do with old things on Bhogi, instead of burning them?"
+  ],
+  "art": [
+   "A city lane at dawn on Bhogi, with small bonfires and grey smoke rising between blocks of flats.",
+   "Two children at a window, one holding a magnifying glass over a grey card with black specks.",
+   "A boy holding up a grey tissue and making a face, while his cousin laughs.",
+   "The two children walking round the flats with a cloth bag full of old clothes and mats."
+  ]
+ },
+ "games": [
+  {
+   "id": "g1",
+   "title": "Source Snap: match the pollution to its fix",
+   "mins": 15,
+   "players": [
+    "alone",
+    "2 to 4 players"
+   ],
+   "context": "This is a memory card game. Each pair is a source of pollution and a way to make less of it. When you find a pair, you also say whether it pollutes air, water or land.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "24 cards to cut out: 12 sources and 12 fixes",
+     "items": [
+      "Burning dry leaves on the road | Put the leaves in a compost pit",
+      "Burning rubbish and plastic | Sort waste and give it to the waste collector",
+      "A diesel bus giving off black smoke | Buses that run on electricity or gas",
+      "Dust from a building site | Cover the sand heaps and spray water",
+      "A mosquito coil burning in a closed bedroom | Sleep under a mosquito net",
+      "Frying in a kitchen with no fan | Switch on the exhaust fan or open the window",
+      "Sewage pouring into a river | Clean the sewage at a treatment works first",
+      "Plastic bags in the drain | Carry a cloth bag",
+      "Washing a scooter in the lake | Wash at home with a bucket",
+      "Firecrackers at Diwali | Diyas and a family get-together",
+      "Old tyres in the Bhogi bonfire | Give old things away, burn nothing",
+      "A vehicle engine left running at a signal | Switch the engine off while waiting"
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "Score sheet",
+     "items": [
+      "A row for each player: pairs found, and 'air, water or land' points."
+     ]
+    }
+   ],
+   "rules": [
+    "Cut out the 24 cards. Shuffle them and lay them face down in rows.",
+    "Take turns to turn over two cards.",
+    "If they are a source and its fix, keep them. Then say whether the source pollutes air, water or land. A correct answer earns a bonus point.",
+    "If they don't match, turn them back face down.",
+    "When all the pairs are found, the player with the most points wins.",
+    "Playing alone? Count how many turns you need, and try to beat it next time."
+   ],
+   "setup": [
+    {
+     "art": "24 small cards laid face down in four rows of six on a table.",
+     "caption": "1. Lay the cards face down in rows."
+    },
+    {
+     "art": "Two cards turned face up: 'Burning dry leaves on the road' and 'Put the leaves in a compost pit', with a child pointing at them.",
+     "caption": "2. Turn over two cards. Is it a source and its fix?"
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "Cut out and shuffle the cards. Lay them face down in four rows of six.",
+     "say": "Each source card has a fix card. Let's find the pairs.",
+     "kid": "Lay the cards face down. Turn two over. Is it a source and its fix?",
+     "context": "This is the first step of Source Snap, a memory game about pollution and how to make less of it."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Play until all pairs are found. When someone finds a pair, ask: air, water or land?",
+     "say": "Burning plastic! Does that pollute the air, the water or the land? Can it be more than one?",
+     "kid": "Found a pair? Say if it dirties air, water or land.",
+     "parent": "Some sources pollute more than one: burning plastic dirties the air, and its ash dirties the land. Give the point for any honest reason."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Ask the check question.",
+     "say": "Which pair would make the biggest difference in our building?",
+     "kid": "Which fix could your family try this week?",
+     "check": {
+      "t": "mcq",
+      "q": "Farhan's neighbour burns dry leaves every morning. Which fix makes no smoke at all?",
+      "options": [
+       "Put the leaves in a compost pit",
+       "Burn them at night instead",
+       "Burn smaller piles"
+      ],
+      "a": 0,
+      "why": "Burning at night or in smaller piles still makes smoke. Leaves in a compost pit rot into soil and make no smoke."
+     }
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Sticky Card Test: what is in the air at your window?",
+   "mins": 30,
+   "days": 3,
+   "context": "In this experiment you put sticky cards in three places for three days, then count the specks the air leaves on them.",
+   "question": "Does the air at our window leave dust on a sticky card, even where nothing can fall on it? How much, compared with a card the air cannot reach?",
+   "predict": "Guess first. After three days, which card will have the most specks: the flat one on the sill, the upright one on the grill, or the one in the closed dabba? Will the upright card catch anything at all? Why do you think so?",
+   "fair_test": "All three cards are the same size, with the same square and the same thin layer of jelly, and stay out for the same three days. Only the place changes. The card in the closed dabba is the control: it shows what a card looks like when the air cannot reach it, so we know the specks on the others came from the air.",
+   "results_table": [
+    "Card",
+    "Where it was",
+    "Colour of the square: white, light grey or dark grey",
+    "Specks counted in one corner of the square",
+    "What the specks looked like"
+   ],
+   "materials": [
+    {
+     "item": "3 pieces of white card, each about the size of a playing card, cut from the inside of an empty biscuit, cereal or medicine box, or an old greeting card",
+     "qty": 3
+    },
+    {
+     "item": "petroleum jelly (Vaseline), or coconut oil if you have no jelly",
+     "qty": 1,
+     "buy": "b-jelly"
+    },
+    {
+     "item": "a pencil, a ruler and cello tape",
+     "qty": 1
+    },
+    {
+     "item": "a steel dabba with a tight lid",
+     "qty": 1
+    },
+    {
+     "item": "a magnifying glass, or a phone camera with zoom",
+     "qty": 1,
+     "buy": "b-lens"
+    },
+    {
+     "item": "a window that opens, best of all one on the side of the home that faces a road",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up tapes the card to the outside sill or grill. Children never lean out of a window or climb on the sill. Wash hands after using the jelly.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Make three sticky cards. Put one flat on the window sill, one upright on the grill, and one in a closed dabba. Write your guess."
+    },
+    {
+     "day": 2,
+     "mins": 2,
+     "what": "Look at the cards without touching them. Can you see anything yet?"
+    },
+    {
+     "day": 3,
+     "mins": 13,
+     "what": "Bring the cards in. Look with the magnifying glass. Count the specks in one corner of each square. Fill in the table and say what you found."
+    }
+   ],
+   "record": "Fill in the table. Draw what the specks looked like under the glass. Stick the three cards in your notebook with clear tape over them.",
+   "setup": [
+    {
+     "art": "A child drawing a square, as big as a thumbnail, in the middle of a white card with a ruler and pencil, with two more cards beside it labelled A, B and C on the back.",
+     "caption": "1. Draw a square on each card. Label them A, B and C on the back."
+    },
+    {
+     "art": "A finger spreading a very thin shiny layer of petroleum jelly inside the pencil square.",
+     "caption": "2. Spread a thin layer of jelly inside each square."
+    },
+    {
+     "art": "A window with a grill: card A taped flat on the sill with the jelly up, card B taped upright on the grill facing out, and card C going into a steel dabba.",
+     "caption": "3. A flat on the sill, B upright on the grill, C shut in a dabba."
+    },
+    {
+     "art": "Three cards side by side after three days: A dark grey with specks, B light grey, C white, and a magnifying glass over card A.",
+     "caption": "4. After three days, compare the squares with a magnifying glass."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Cut three cards. 2. With a ruler, draw a square 2 cm on each side in the middle of each card. 3. Turn them over and write A, B and C.",
+     "say": "We are going to make dust catchers. The square tells us exactly where to look and count later.",
+     "kid": "Cut three cards. Draw a square on each one. Make it 2 cm on each side. Write A, B and C on the back.",
+     "context": "This is the first step of the Sticky Card Test. You make three sticky cards to catch what is in the air.",
+     "parent": "A square about the size of a thumbnail is right. It must be the same size on all three cards, so the counts can be compared."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Spread a thin layer of jelly inside each square with one finger. 2. The card should look shiny, not white and lumpy. 3. Wash your hands.",
+     "say": "A thin layer is enough. A thick one hides the specks inside it, and we won't be able to count them.",
+     "kid": "Spread a little jelly in each square. Make it thin and shiny. Then wash your hands.",
+     "parent": "If you use coconut oil, it may soak into the card and leave a see-through patch. That is fine. Specks still stick to it. Solid coconut oil in cool weather works just like jelly."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Ask your child to guess which card will catch most, and why. Write the guess in the notebook.",
+     "say": "One card lies flat on the sill. One stands upright on the grill, so nothing can fall on it. One goes in a closed dabba. Which will be dirtiest after three days? Why do you think so?",
+     "kid": "Which card will be dirtiest after three days? Will the standing card catch anything? Say why.",
+     "ask": [
+      {
+       "q": "Why might the upright card catch less than the flat one?",
+       "good": [
+        "Dust falls down, so it lands on flat things.",
+        "Nothing can drop onto a card that stands up."
+       ]
+      }
+     ],
+     "parent": "Wait for a guess and a reason. Do not explain anything yet. Many children say the upright card will stay clean. That is a good guess to test."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "1. Tape card A flat on the window sill, jelly up, on the outside if you can reach safely. 2. Tape card B upright on the grill or the window frame, jelly facing outdoors. 3. Put card C in the steel dabba and close the lid. 4. Write the date and time.",
+     "say": "Card A can catch dust that falls and dust that blows. Card B can only catch dust that blows into it. Card C is shut away from the air. It shows us what a card looks like with nothing on it.",
+     "kid": "A goes flat on the sill. B stands up on the grill. C goes in the dabba. Close the lid tight. Write today's date.",
+     "adult": true,
+     "parent": "Do the taping yourself if the sill is outside the grill or the flat is high up. Tape all four edges of A, or the wind can lift it. If rain is likely, choose a spot under the sunshade, because rain washes dust off. Card C is the control: it shows the specks did not come from the box or the jelly."
+    },
+    {
+     "id": "s5",
+     "mins": 2,
+     "do": "On day 2, look at the cards without touching them.",
+     "say": "Can you see anything on the cards yet? Don't touch them, or your finger will leave its own marks.",
+     "kid": "Look at the cards. Don't touch. Can you see anything yet?",
+     "wait": "Leave the cards for 1 day",
+     "parent": "Often the cards still look nearly white after one day. That is part of the lesson: the specks are there, but too few to see without a lens."
+    },
+    {
+     "id": "s6",
+     "mins": 6,
+     "do": "On day 3: 1. Untape the cards carefully, holding the edges. 2. Put the three cards side by side on a white sheet. 3. Look at each square with the magnifying glass. 4. Count the specks in the top left corner of each square, a quarter of the square.",
+     "say": "Let's look closely. Count only the specks in the top left corner, so the counting doesn't take all day.",
+     "kid": "Lay the three cards side by side. Look with the glass. Count the specks in one corner of each square.",
+     "wait": "Leave the cards for 1 more day",
+     "ask": [
+      {
+       "q": "What colours and shapes are the specks?",
+       "good": [
+        "Black specks, like soot.",
+        "Brown and grey bits, like dust from the road.",
+        "Little threads from cloth.",
+        "Shiny bits."
+       ]
+      }
+     ],
+     "parent": "Black specks are mostly soot from burning. Brown and grey bits are soil and road dust. Threads are fibres from clothes and curtains. You may also see a tiny insect. If there are too many specks to count even in a corner, rate the colour of each square instead: white, light grey or dark grey."
+    },
+    {
+     "id": "s7",
+     "mins": 4,
+     "do": "Fill in the table together. Then ask the check question.",
+     "say": "Let's write down what we saw. Then let's see what it tells us.",
+     "kid": "Fill in the table. Which card is dirtiest? Which is cleanest?",
+     "check": {
+      "t": "mcq",
+      "q": "Card B stood upright on the grill, so nothing could fall onto it. It still caught some specks. What does that show?",
+      "options": [
+       "Some dust floats in the air and is blown against things",
+       "The jelly made the specks",
+       "Somebody touched the card"
+      ],
+      "a": 0,
+      "why": "The card in the closed dabba had the same jelly and stayed clean, so the jelly did not make the specks. Specks on an upright card were carried sideways by the air. The tiniest particles hardly fall at all. They float for days and stick to whatever the air pushes them against."
+     }
+    },
+    {
+     "id": "s8",
+     "mins": 3,
+     "do": "Ask your child to say or write a claim, the evidence, and the reason.",
+     "say": "Tell me what you found out, what you saw that shows it, and why you think it happened.",
+     "kid": "Say three things. What I found. What I saw. Why I think so.",
+     "ask": [
+      {
+       "q": "What did you find out?",
+       "good": [
+        "The air at our window carries dust, even when it looks clear.",
+        "The flat card caught the most, but the upright card caught some too.",
+        "The card in the dabba stayed clean, so the specks came from the air."
+       ]
+      }
+     ],
+     "parent": "A strong answer uses the dabba card as proof that the specks came from the air. Now is the time to read the explanation cards."
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "The Leaf Wipe: where does dust sit on a plant?",
+   "mins": 20,
+   "days": 1,
+   "context": "In this experiment you wipe leaves of a potted plant with damp cotton to find where dust settles, and think about what it means for the plant.",
+   "question": "On a potted plant near a window, is there more dust on the top of a leaf or underneath it? Is there more on an outer leaf or an inner one?",
+   "predict": "Guess first. Will the top of a leaf be dirtier than the underside? Will a leaf on the outside of the plant, facing the window, be dirtier than one tucked inside? Why do you think so?",
+   "fair_test": "Use the same size of cotton ball, damp the same amount, and wipe each leaf with three gentle strokes. Wipe leaves of about the same size and age. Only the side or the place of the leaf changes.",
+   "results_table": [
+    "Leaf",
+    "Top or underside",
+    "Colour of the cotton: white, light grey or dark grey"
+   ],
+   "materials": [
+    {
+     "item": "a potted plant that has stood near a window or on a balcony for at least a week, such as tulsi, money plant, hibiscus or curry leaf",
+     "qty": 1
+    },
+    {
+     "item": "6 small balls of white cotton wool, or 6 small squares cut from an old white cotton cloth",
+     "qty": 6
+    },
+    {
+     "item": "a small bowl of clean water",
+     "qty": 1
+    },
+    {
+     "item": "a white sheet of paper to lay the cotton balls on, with labels",
+     "qty": 1
+    }
+   ],
+   "safety": "Wipe gently, and hold each leaf from below so it doesn't tear. Wash hands afterwards.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Wipe the top and underside of three leaves, lay out the cotton balls and compare."
+    }
+   ],
+   "record": "Lay the cotton balls on the labelled paper. Draw them, shading each one as grey as it is. Write which side of the leaf was dirtiest.",
+   "setup": [
+    {
+     "art": "A child dipping a white cotton ball in a small bowl of water and squeezing it out over a potted tulsi on a balcony.",
+     "caption": "1. Wet a cotton ball and squeeze it out."
+    },
+    {
+     "art": "A hand holding a money plant leaf from below while another hand wipes the top of the leaf with the cotton ball in three strokes.",
+     "caption": "2. Wipe the top of a leaf three times."
+    },
+    {
+     "art": "A white sheet with six cotton balls in two rows labelled 'top' and 'underside', the top row grey and the bottom row nearly white.",
+     "caption": "3. Lay the cotton balls out in rows and compare."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "Look at the plant together. Ask for a guess and a reason.",
+     "say": "This plant has stood by the window for days. Where on their leaves do you think the dust has landed? Top, underside, outside or inside? Why do you think so?",
+     "kid": "Look at the plant. Where is the dust? Top of the leaf, or underneath? Say why.",
+     "context": "This is the first step of the Leaf Wipe. You find where dust settles on a potted plant.",
+     "parent": "Wait for a guess and a reason. Most children guess the top, which is a good start. Fewer think about outer and inner leaves."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "1. Pick three leaves: one facing the window, one on the far side, and one from the middle. 2. For each, wet a cotton ball, squeeze it out, and wipe the top with three gentle strokes. 3. Use a fresh ball for the underside. 4. Lay each ball on the paper by its label.",
+     "say": "Three gentle strokes each, the same every time. If we wiped one leaf harder, the test wouldn't be fair.",
+     "kid": "Wipe the top of the leaf three times. Use a new ball for underneath. Put each ball on its label.",
+     "parent": "Hold each leaf flat on your palm while your child wipes, so the stem doesn't snap. On a hairy leaf like tulsi, dab rather than wipe."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Compare the six cotton balls. Ask the check question.",
+     "say": "Which ball is greyest? Which is whitest? What does that tell us?",
+     "kid": "Which ball is the greyest? Which leaf did it come from?",
+     "check": {
+      "t": "mcq",
+      "q": "The cotton from the top of the leaf is grey. The cotton from underneath is nearly white. Why?",
+      "options": [
+       "Most dust falls from above and lands on top",
+       "The underside of a leaf makes its own cleaning liquid",
+       "The plant pushed the dust up to the top"
+      ],
+      "a": 0,
+      "why": "Most dust in the air is heavy enough to fall slowly. It settles on surfaces that face up, like the top of a leaf or a window sill. Only the finest specks float about and stick underneath. That matches what your sticky cards showed."
+     }
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "Talk about what the dust means for the plant.",
+     "say": "A leaf makes the plant's food from sunlight. What does a layer of dust do to the sunlight? How does this plant get the dust off on their own, out in the rain?",
+     "kid": "Leaves need sunlight to make food. What does dust do to the light?",
+     "ask": [
+      {
+       "q": "Why is dust a problem for the plant?",
+       "good": [
+        "It blocks some sunlight, so the leaf makes less food.",
+        "It can block the tiny holes the leaf breathes through."
+       ]
+      }
+     ],
+     "parent": "Rain washes most dust off leaves. A plant on a covered balcony gets no rain, so a gentle wipe or a spray of water now and then helps them. You can offer that as a kindness, not a chore."
+    }
+   ]
+  },
+  {
+   "id": "e3",
+   "title": "Through the Soil: what does soil stop, and what goes through?",
+   "mins": 25,
+   "days": 1,
+   "context": "In this experiment you pour dirty, salty water through soil in a cut bottle, then dry a spoonful to see what came through.",
+   "question": "When dirty water soaks into the ground, does the soil clean it? Does it stop the mud? Does it stop the salt?",
+   "predict": "Guess first. We pour muddy, salty water through a bottle of soil. Will the water that comes out be clear? Will the salt stay in the soil, or come through? Why do you think so?",
+   "fair_test": "Dry one spoonful of the water that came through the soil, and one spoonful of plain tap water, side by side on the same steel plate, in the same place. Only the water changes. The tap water spoonful is the control.",
+   "results_table": [
+    "Water",
+    "How it looked: cloudy or clear",
+    "What was left on the plate after drying"
+   ],
+   "materials": [
+    {
+     "item": "a 1 litre plastic bottle, cut in half by a grown-up",
+     "qty": 1
+    },
+    {
+     "item": "a piece of old cotton cloth or a ball of cotton wool, to plug the neck",
+     "qty": 1
+    },
+    {
+     "item": "2 cups of soil from a potted plant or a bag of potting soil",
+     "qty": 1
+    },
+    {
+     "item": "a glass of water with 2 teaspoons of salt stirred in until it disappears, and 1 spoon of soil to make it muddy",
+     "qty": 1
+    },
+    {
+     "item": "a steel plate, a teaspoon and a little plain tap water",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up cuts the bottle, because the cut edge is sharp. Never drink or taste the water in this experiment. Wash hands after handling soil.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Build the soil filter, pour the dirty salt water through, and put two spoonfuls to dry in the sun. Look again when they are dry, after a few hours."
+    }
+   ],
+   "record": "Draw the soil filter, with the dirty water going in and the water coming out. Draw the two dry spots on the plate and label them.",
+   "setup": [
+    {
+     "art": "A plastic bottle cut in half, the top half turned upside down inside the bottom half, with a cotton plug in the neck and soil filling the top half.",
+     "caption": "1. Make a soil filter from a cut bottle."
+    },
+    {
+     "art": "A child pouring a glass of brown, muddy water slowly onto the soil, with clearer water dripping into the bottom half.",
+     "caption": "2. Pour the muddy salt water slowly through."
+    },
+    {
+     "art": "A steel plate in sunshine with two dried spots: a thick white crust labelled 'through the soil' and a faint ring labelled 'tap water'.",
+     "caption": "3. Dry one spoonful of each and compare."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. A grown-up cuts the bottle in half. 2. Push the cotton into the neck of the top half. 3. Turn it upside down inside the bottom half. 4. Fill it two-thirds full of soil.",
+     "say": "Rain soaks down through soil before it reaches the water under the ground. This bottle is a small piece of ground.",
+     "kid": "Push cotton into the bottle neck. Turn it upside down. Fill it with soil.",
+     "adult": true,
+     "context": "This is the first step of Through the Soil. You build a small piece of ground in a bottle.",
+     "parent": "Cover the cut edge with a strip of cello tape so nobody gets scratched."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Stir 2 teaspoons of salt into a glass of water until you can't see it. 2. Add 1 spoon of soil and stir to make it muddy. 3. Ask for a guess and a reason.",
+     "say": "This is our dirty water. It has mud we can see, and salt we can't see, because the salt has dissolved. Dissolved means broken up into pieces too small to see, spread all through the water. What will come out of the bottom? Why do you think so?",
+     "kid": "Stir salt into the water. Stir in some soil too. What will come out of the bottle? Say why.",
+     "ask": [
+      {
+       "q": "Will the salt come through?",
+       "good": [
+        "Yes, because it is dissolved in the water.",
+        "No, because the soil will catch it."
+       ]
+      }
+     ],
+     "parent": "Either guess is fine, as long as there is a reason. The salt is standing in for the many harmful things that dissolve in water, such as some chemicals from factories and farms."
+    },
+    {
+     "id": "s3",
+     "mins": 7,
+     "do": "1. Pour the dirty water slowly onto the soil. 2. Wait for the water to drip through, about 5 minutes. 3. Compare the water that came out with a little of the dirty water you kept back.",
+     "say": "Look at the water dripping out. Is it clearer than what went in?",
+     "kid": "Pour the water in slowly. Wait. Is the water that comes out clearer?",
+     "parent": "The first drips may be brown, because some fine soil washes through. Pour the first half cup back through once, and it comes out clearer. Clean soil stops most of the mud."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "1. Put one teaspoon of the water that came through on one side of the steel plate. 2. Put one teaspoon of plain tap water on the other side. 3. Leave the plate in a sunny window until both are dry, a few hours.",
+     "say": "The mud was stopped. What about the salt? We can't see it in the water, but if the water dries up, the salt gets left behind.",
+     "kid": "Put a spoon of each water on the plate. Leave it in the sun. Look when it is dry.",
+     "wait": "Leave the plate in the sun for a few hours",
+     "parent": "On a cloudy day, drying can take the whole day. A grown-up can dry the spoonfuls faster by warming the steel plate on a tawa over a low flame."
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "Look at the dry plate together. Ask the check question.",
+     "say": "What is left where each spoonful dried?",
+     "kid": "Look at the plate. What is left where the water dried?",
+     "check": {
+      "t": "mcq",
+      "q": "The water that came through the soil left a thick white crust. The tap water left only a faint ring. What does this show?",
+      "options": [
+       "The soil stopped the mud, but the dissolved salt went through",
+       "The soil made the salt",
+       "The soil stopped everything"
+      ],
+      "a": 0,
+      "why": "Soil catches pieces, like mud, in the tiny gaps between its grains. Salt was dissolved, so its pieces were far too small to catch, and went through with the water. Many harmful things dissolve in the same way. That is how pollution on the ground can reach the groundwater that borewells pump up."
+     }
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "The White Cloth Wipe: is the window grill dirty?",
+   "mins": 10,
+   "days": 1,
+   "context": "In this quick activity you wipe a window grill and a cupboard shelf with a damp white cloth and compare.",
+   "materials": [
+    {
+     "item": "two small pieces of old white cotton cloth, or two cotton balls",
+     "qty": 2
+    },
+    {
+     "item": "a small bowl of water",
+     "qty": 1
+    }
+   ],
+   "safety": "Wipe the grill from inside the room. Do not lean out of the window.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Wipe a window grill and a closed cupboard shelf. Compare the two cloths."
+    }
+   ],
+   "record": "Pin or tape the two cloths in your notebook. Write where each one wiped.",
+   "setup": [
+    {
+     "art": "A child inside a room wiping one bar of a window grill with a damp white cloth, a road visible outside.",
+     "caption": "1. Wipe one bar of the window grill."
+    },
+    {
+     "art": "The same child wiping the inside of a closed cupboard shelf with a second white cloth.",
+     "caption": "2. Wipe a shelf inside a closed cupboard."
+    },
+    {
+     "art": "The two cloths side by side: one with a dark grey streak, one almost white.",
+     "caption": "3. Put the cloths side by side and compare."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Show your child the two clean cloths. Ask for a guess.",
+     "say": "We are going to wipe the window grill and the inside of a cupboard. Which cloth will be dirtier? Why do you think so?",
+     "kid": "Which cloth will be dirtier? The window one or the cupboard one? Say why.",
+     "context": "This is a quick wipe test. You find out whether the air leaves dirt on things.",
+     "parent": "Wait for a reason, not just a guess."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Dip the first cloth in water and squeeze it out. 2. Wipe one bar of the window grill, about as long as your hand. 3. Do the same inside a closed cupboard with the second cloth.",
+     "say": "Wipe the same length on each, about as long as your hand. Then the test is fair.",
+     "kid": "Wet the cloth. Squeeze it. Wipe the grill, as long as your hand. Now wipe the cupboard shelf.",
+     "parent": "A grill on the road side of the home usually leaves a dark grey or black streak within a few days of the last cleaning."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "Compare the cloths. Talk about where the dirt came from.",
+     "say": "Nobody poured dirt on the grill. Where did it come from?",
+     "kid": "Look at both cloths. Where did the black on the first one come from?",
+     "ask": [
+      {
+       "q": "How did the dirt get onto the grill?",
+       "good": [
+        "It came out of the air.",
+        "Dust blew in from the road.",
+        "Smoke from vehicles left it there."
+       ]
+      }
+     ],
+     "think": "If the air leaves this much on a grill, where else might it leave dust?",
+     "parent": "Leave the question open. The Sticky Card Test comes next and answers it."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Smoke and Dust Hunt: where does our air pollution come from?",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you look around your home and out of the window, and list every source of smoke and dust you can find.",
+   "materials": [
+    {
+     "item": "a notebook and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Look from the window or balcony. Stay inside the grill.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Walk round the home and look out of every window. List the sources of smoke and dust. Sort them into inside and outside."
+    }
+   ],
+   "record": "Make a tally chart: one row for each source, one tally mark each time you spot it.",
+   "setup": [
+    {
+     "art": "A child at a balcony with a notebook, looking down at a road with a bus, a building site and a small roadside fire.",
+     "caption": "1. Look out of each window and list what you see."
+    },
+    {
+     "art": "The same child in a kitchen pointing at an incense stick and a gas stove with a pan on it.",
+     "caption": "2. Look inside the home too."
+    },
+    {
+     "art": "A notebook page with two columns, Outside and Inside, and tally marks next to each source.",
+     "caption": "3. Make a tally chart."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 7,
+     "do": "Look out of each window for five minutes. Note every source of smoke or dust: vehicles, a building site, a rubbish fire, a factory chimney, a dusty road.",
+     "say": "Let's be air detectives. Every time you see something making smoke or dust, write it down and put a tally mark.",
+     "kid": "Look out of the window. What makes smoke or dust? Write it down. Add a tally each time.",
+     "context": "This is a hunt for the places where smoke and dust come from, around your home.",
+     "parent": "Diesel buses and lorries often give off a visible puff of black smoke when they start moving. Count those puffs."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Walk through the home. Note sources inside: the stove, incense, a mosquito coil, a candle, dust on the floor.",
+     "say": "Now let's look inside. Does anything in our home make smoke?",
+     "kid": "Now look inside. Does anything here make smoke?",
+     "parent": "Children are often surprised that incense, coils and frying count. Don't make it a telling-off. It is a list of what is there."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Look at the tally chart together.",
+     "say": "Which source did you see most often? Which one do you think makes the most smoke?",
+     "kid": "Which did you see most? Which do you think is worst? Why?",
+     "ask": [
+      {
+       "q": "Is the source you saw most often the one that makes the most smoke?",
+       "good": [
+        "Not always. A tyre fire is rare but makes a lot of smoke.",
+        "Buses pass all day, so they add up."
+       ]
+      }
+     ],
+     "parent": "This is a good moment to notice that how often and how much are two different things."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Your Nose, the Dust Catcher",
+   "mins": 8,
+   "days": 2,
+   "context": "In this activity you look at the inside of your nose with a torch, and check a tissue after a dusty day and after a day at home.",
+   "materials": [
+    {
+     "item": "a mirror and a torch",
+     "qty": 1
+    },
+    {
+     "item": "white tissues",
+     "qty": 2
+    }
+   ],
+   "safety": "Look, don't poke. Never put anything inside your nose. Wash hands after using a tissue.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 4,
+     "what": "Look inside your nose with a mirror and torch. In the evening after a day out on busy roads, blow your nose into a white tissue and look."
+    },
+    {
+     "day": 2,
+     "mins": 4,
+     "what": "In the evening after a day at home, blow your nose into a white tissue and compare."
+    }
+   ],
+   "record": "Draw what you saw inside your nose. Write the colour of each tissue: white, light grey or dark grey.",
+   "setup": [
+    {
+     "art": "A child holding a mirror and shining a torch up towards their nostril, seeing tiny hairs inside.",
+     "caption": "1. Look inside your nose with a mirror and a torch."
+    },
+    {
+     "art": "Two folded tissues side by side, one light grey labelled 'busy road day', one white labelled 'home day'.",
+     "caption": "2. Compare a tissue from a busy day with one from a home day."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "Hold a mirror. Shine a torch towards one nostril and look inside.",
+     "say": "Can you see tiny hairs inside your nose? The inside is wet and sticky too. What do you think they are for?",
+     "kid": "Look in the mirror with the torch. Can you see hairs inside your nose?",
+     "context": "This is a look at your own built-in dust catcher.",
+     "parent": "The hairs catch bigger dust. The wet lining is mucus, which catches smaller dust."
+    },
+    {
+     "id": "s2",
+     "mins": 2,
+     "do": "On an evening after a trip on busy roads, blow your nose into a white tissue and look at it.",
+     "say": "Your nose has been catching dust all day, like the sticky card. What colour is the tissue?",
+     "kid": "Blow your nose into a white tissue. What colour is it?",
+     "wait": "Do this on an evening after a trip out"
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "On an evening after a day at home, do the same. Compare.",
+     "say": "Which day did your nose catch more? Why?",
+     "kid": "Do it again after a day at home. Which tissue is greyer?",
+     "wait": "Do this on an evening after a day at home",
+     "check": {
+      "t": "mcq",
+      "q": "Divya's tissue is greyer after a day on busy roads than after a day at home. Why?",
+      "options": [
+       "Her nose caught more dust from the dirtier air",
+       "Her nose makes grey mucus when she is tired",
+       "Tissues change colour outside"
+      ],
+      "a": 0,
+      "why": "The sticky mucus in the nose catches dust from every breath, like the jelly on the card. Dirtier air leaves more dust in it."
+     },
+     "parent": "Not every child's tissue will look grey. In cleaner air, or after a short trip, it may stay white. That is good news, not a failed test."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Haze Watch: can you see the far tower today?",
+   "mins": 10,
+   "days": 5,
+   "context": "In this activity you look at the same far-away landmark from your window every morning for five days, and rate how clearly you see it.",
+   "materials": [
+    {
+     "item": "a window with a view of something far away, such as a water tank, a tower, a temple gopuram or a hill",
+     "qty": 1
+    },
+    {
+     "item": "a notebook",
+     "qty": 1
+    },
+    {
+     "item": "a phone with an air quality app such as SAMEER, if you have one",
+     "qty": 1
+    }
+   ],
+   "safety": "Look from inside the window or grill.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 2,
+     "what": "Choose a far landmark. Rate it: sharp, a little blurry, very blurry, or can't see it."
+    },
+    {
+     "day": 2,
+     "mins": 2,
+     "what": "Rate the landmark at the same time of morning."
+    },
+    {
+     "day": 3,
+     "mins": 2,
+     "what": "Rate the landmark again."
+    },
+    {
+     "day": 4,
+     "mins": 2,
+     "what": "Rate the landmark again."
+    },
+    {
+     "day": 5,
+     "mins": 2,
+     "what": "Rate the landmark, then compare all five days."
+    }
+   ],
+   "record": "A table with the date, the time, your rating, and the AQI number if you can find it.",
+   "setup": [
+    {
+     "art": "A child at a window pointing at a far-off water tank between buildings.",
+     "caption": "1. Choose something far away that you can see from the window."
+    },
+    {
+     "art": "Two views of the same water tank: one sharp on a clear day, one pale and blurry on a hazy day.",
+     "caption": "2. Each morning, rate how clearly you can see it."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Choose a landmark at least a few hundred metres away. Rate it on a scale: sharp, a little blurry, very blurry, can't see it.",
+     "say": "Haze is made of fine particles in the air between us and the tower. The more particles, the blurrier it looks.",
+     "kid": "Find something far away. How clear is it today? Sharp, blurry or can't see?",
+     "context": "This is the first day of Haze Watch. You check how clear the air looks, every morning for five days."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "Each morning, at about the same time, rate the landmark again. If you have an air quality app, write the AQI too.",
+     "say": "Same window, same time, every day. Why do you think the time has to be the same?",
+     "kid": "Look at the same thing at the same time each day. Write how clear it is.",
+     "wait": "Repeat each morning for 4 more days",
+     "parent": "Morning mist after rain is water drops, not pollution. Note if it rained. In winter, haze is often worst early in the morning, when cold air near the ground keeps smoke from rising."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Compare all five days.",
+     "say": "Which day was clearest? Did anything happen the day before, like rain, wind or a festival?",
+     "kid": "Which day was clearest? Which was haziest? What happened before?",
+     "ask": [
+      {
+       "q": "Why might the air be clearer after rain?",
+       "good": [
+        "Rain washes the dust out of the air.",
+        "The rain drops catch the particles and bring them down."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "Clean-Air Week at Home",
+   "mins": 50,
+   "days": 5,
+   "context": "In this five-day project your family picks two changes that make less smoke at home, tries them for a week, and checks the kitchen air with a sticky card before and after.",
+   "materials": [
+    {
+     "item": "4 sticky cards made as in the Sticky Card Test",
+     "qty": 4,
+     "buy": "b-jelly"
+    },
+    {
+     "item": "a notebook",
+     "qty": 1
+    },
+    {
+     "item": "a magnifying glass, or a phone camera",
+     "qty": 1,
+     "buy": "b-lens"
+    }
+   ],
+   "safety": "A grown-up decides where cards go in the kitchen. Keep cards away from the stove flame.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Put one sticky card on top of the kitchen cupboard for two days, with the family cooking as usual. Make a list of smoke sources at home."
+    },
+    {
+     "day": 3,
+     "mins": 15,
+     "what": "Count the specks. Choose two changes as a family, such as using the exhaust fan or a lid while frying, or no incense or coils indoors. Put up a new card."
+    },
+    {
+     "day": 5,
+     "mins": 20,
+     "what": "Count the specks on the new card. Compare. Make a poster of what worked for the building notice board."
+    }
+   ],
+   "record": "The two cards side by side, the counts, the two changes, and what each family member thought of them.",
+   "setup": [
+    {
+     "art": "A sticky card taped on top of a kitchen cupboard, away from the stove.",
+     "caption": "1. Put a sticky card high up in the kitchen."
+    },
+    {
+     "art": "A family around a table voting on two changes written on slips of paper: 'exhaust fan on' and 'no coil in the bedroom'.",
+     "caption": "2. Choose two changes together."
+    },
+    {
+     "art": "Two cards side by side, one greyer than the other, and a child writing the counts.",
+     "caption": "3. Compare the cards before and after the changes."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 15,
+     "do": "1. Tape a sticky card on top of a kitchen cupboard, away from the flame. 2. Cook as usual for two days. 3. Together, list everything at home that makes smoke.",
+     "say": "Let's find out how much smoke our kitchen air carries on ordinary days. Then we'll try to make less.",
+     "kid": "Put a sticky card high up in the kitchen. Cook as usual. List what makes smoke at home.",
+     "adult": true,
+     "context": "This is the first part of Clean-Air Week. You measure the kitchen air before making any change."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "1. Take the card down and count the specks in one corner of the square. 2. Choose two changes. 3. Put a fresh card in the same place.",
+     "say": "What could we change? The exhaust fan? A lid on the pan? No mosquito coil in the bedroom? Let's choose two, and keep everything else the same.",
+     "kid": "Count the specks. Pick two changes with your family. Put up a new card in the same place.",
+     "wait": "Leave the first card for 2 days",
+     "parent": "Kitchen cards often catch oily, sticky specks from frying, not only dust. Choose changes the family can really keep, such as running the exhaust fan or opening a window while cooking, and using a mosquito net instead of a coil."
+    },
+    {
+     "id": "s3",
+     "mins": 20,
+     "do": "1. After two more days, count the specks on the new card. 2. Compare. 3. Make a poster for the building notice board.",
+     "say": "Did our changes make a difference? Was it a fair test? What else changed this week?",
+     "kid": "Count the specks on the new card. Did the changes work? Make a poster.",
+     "wait": "Leave the second card for 2 days",
+     "ask": [
+      {
+       "q": "What else might have changed the result?",
+       "good": [
+        "We cooked different food.",
+        "It rained.",
+        "More vehicles passed that week."
+       ]
+      }
+     ],
+     "parent": "Real life is not a perfect lab. A family that cooked more fried food in the second week will get a greyer card. Talking about that is good science."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "The Window Dust Filter",
+   "mins": 30,
+   "problem": "Your window lets in fresh air, and dust from the road comes in with it. Design a filter for the window that stops dust but still lets air through.",
+   "constraints": [
+    "Use only things from home.",
+    "Air must still come through: a tissue strip held near the filter must still flutter in the breeze.",
+    "Test it with two sticky cards: one behind your filter and one beside it, open to the air."
+   ],
+   "materials": [
+    "old cotton cloth, a dupatta, mosquito net or a kitchen strainer cloth",
+    "cardboard and cello tape",
+    "a spray bottle of water",
+    "two sticky cards",
+    "a strip of tissue paper"
+   ],
+   "general": [
+    "Stretch a single layer of cotton cloth over a cardboard frame and tape it to the inside of the window.",
+    "Use two layers of mosquito net. Each layer catches some of the dust.",
+    "Hang a damp cloth across part of the window. Wet cloth is sticky, like your nose."
+   ],
+   "creative": [
+    "Put pot plants with rough leaves on the window sill, so the leaves catch dust before it comes in.",
+    "Make a cloth roll that you only pull down on hazy days or when a building site next door is busy.",
+    "Fold the cloth in pleats, so there is more cloth to catch dust in the same space."
+   ],
+   "your_turn": "Now design your own filter. Draw it, build it, and test it with the two cards for two days. Did it stop dust? Did the tissue still flutter?",
+   "setup": [
+    {
+     "art": "A cardboard frame covered with a single layer of white cotton cloth, taped to the inside of a window.",
+     "caption": "1. Build a filter and fix it to the window."
+    },
+    {
+     "art": "Two sticky cards: one taped just behind the cloth filter, one taped beside it, open to the air, with a tissue strip fluttering near the filter.",
+     "caption": "2. One card behind the filter, one beside it. Check the tissue still flutters."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "Talk about the problem. Draw two ideas.",
+     "say": "We want fresh air but less dust. A wall stops dust but stops air too. What lets air through but catches specks?",
+     "kid": "Draw two ideas for a dust filter. Air must still get through!",
+     "context": "This is a design challenge: make a filter for a window that stops dust but not air."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "Build the best idea. Tape one sticky card just behind the filter, and another beside it, open to the air.",
+     "say": "One card behind the filter, one beside it. That way we can see how much the filter stopped.",
+     "kid": "Build your filter. Put one card behind it and one beside it. Check the tissue still flutters."
+    },
+    {
+     "id": "s3",
+     "mins": 7,
+     "do": "After two days, compare the two cards.",
+     "say": "Which card has fewer specks? Did our filter work? What would you change?",
+     "kid": "Look at both cards. Which has fewer specks? What would you change?",
+     "wait": "Leave the cards for 2 days",
+     "ask": [
+      {
+       "q": "Why might a thicker filter not be better?",
+       "good": [
+        "It stops the air too, and the room gets stuffy.",
+        "Less breeze comes in."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "A Bhogi Without Smoke",
+   "mins": 30,
+   "problem": "On Bhogi, the first day of Pongal, many families in Tamil Nadu burn old things to make a fresh start. The smoke fills the city. Plan a Bhogi for your building that keeps the meaning, letting go of old things, but makes no smoke.",
+   "constraints": [
+    "The plan must keep the idea of letting go of old things.",
+    "Nothing is burned.",
+    "Every old thing must go somewhere useful."
+   ],
+   "materials": [
+    "paper and coloured pencils",
+    "a list of old things in your home that you no longer use"
+   ],
+   "general": [
+    "Collect old clothes for the kabadiwala or a clothes bank.",
+    "Put old grass mats, broken baskets and dry leaves in a compost pit.",
+    "Give toys and books that still work to someone who will use them."
+   ],
+   "creative": [
+    "Draw a big kolam at the gate, with a box beside it where people drop the things they are letting go of.",
+    "Hold a swap morning in the building, where each family brings old things and takes what they need.",
+    "Write what you want to let go of on a slip of paper, such as a bad habit, and tear it up for the compost."
+   ],
+   "your_turn": "Now make your own plan for a smokeless Bhogi. Draw a poster for your building that explains it.",
+   "setup": [
+    {
+     "art": "A child at a table listing old things on paper: old clothes, grass mat, broken toy, with arrows to 'kabadiwala', 'compost' and 'give away'.",
+     "caption": "1. List old things and decide where each one goes."
+    },
+    {
+     "art": "A colourful poster on a building notice board showing a kolam, a box for old things and the words 'Smokeless Bhogi'.",
+     "caption": "2. Make a poster for your building."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "Talk about why families burn old things on Bhogi, and what the smoke does.",
+     "say": "Bhogi is about letting go of the old to make space for the new. Does that need a fire?",
+     "kid": "Why do people burn old things on Bhogi? What does the smoke do?",
+     "context": "This is a planning challenge about Bhogi, the first day of Pongal, and the smoke from its bonfires."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "List the old things in your home. For each, decide where it could go.",
+     "say": "Old clothes, old mats, broken toys. Where could each one go so it is useful again?",
+     "kid": "List old things at home. Where could each one go? Write it next to it."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Make a poster with the plan.",
+     "say": "Our poster has to make people want to try it. What will we draw?",
+     "kid": "Draw a poster for your building. Show your smokeless Bhogi.",
+     "parent": "If your family does not celebrate Bhogi, the same plan works for clearing out before Diwali, Ugadi, Vishu, Onam or New Year."
+    }
+   ]
+  }
+ ],
+ "videos": [
+  {
+   "title": "What does Air Pollution PM 2.5 do inside children's body and brain?",
+   "channel": "UNICEF Viet Nam",
+   "youtube": "G1mUopisDX4",
+   "mins": 2,
+   "why": "A short animation that follows fine particles from the air into a child's body. Good for the child and the parent together.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it."
+  },
+  {
+   "title": "How Particle Pollution Impacts Your Lung",
+   "channel": "American Lung Association",
+   "youtube": "ltbx_Gb4x9w",
+   "mins": 2,
+   "why": "For the parent and older children: how particles of different sizes travel into the airways and lungs.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it."
+  },
+  {
+   "title": "The Man Who Accidentally Killed The Most People In History",
+   "channel": "Veritasium",
+   "youtube": "IV3dnLzthDA",
+   "mins": 20,
+   "why": "For the parent: the story of leaded petrol, and how Clair Patterson showed the lead in the air came from people. It explains the How We Found Out card in depth.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here. It is long and made for grown-ups, so a parent should watch it first."
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "What is pollution?",
+   "opts": [
+    "Harmful things added to air, water or land faster than nature can clear them",
+    "Anything that smells bad",
+    "Only smoke from factories"
+   ],
+   "a": 0,
+   "why": "Pollution covers air, water and land, and it comes from many sources, not only factories. Picking 'only smoke from factories' misses vehicles, burning rubbish, cooking smoke and sewage.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these puts the most soot into a city's air?",
+   "opts": [
+    "Diesel lorries and buses",
+    "Bicycles",
+    "Electric trains"
+   ],
+   "a": 0,
+   "why": "Diesel engines burn fuel and give off soot. Bicycles burn nothing. Electric trains make no smoke on the street, though the power station that makes their electricity may.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Arjun, a boy in Coimbatore, leaves a sticky card on his window sill for three days. Another card stays in a closed dabba. The dabba card stays white. What does that show?",
+   "opts": [
+    "The specks on the sill card came from the air",
+    "The dabba made the card cleaner",
+    "The jelly turns grey by itself"
+   ],
+   "a": 0,
+   "why": "Both cards had the same jelly. Only the sill card met the air, and only it got specks. So the air brought them.",
+   "outcome": 2,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "Why do scientists count the specks in only one corner of the square?",
+   "opts": [
+    "It is quicker, and they can multiply by 4 for the whole square",
+    "The other corners are always empty",
+    "The corner is the dirtiest part"
+   ],
+   "a": 0,
+   "why": "When specks are spread fairly evenly, a quarter of the square holds about a quarter of them. Counting a part and multiplying saves time.",
+   "outcome": 2,
+   "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "What catches dust inside your nose?",
+   "opts": [
+    "Tiny hairs and sticky mucus",
+    "Your teeth",
+    "Your tongue"
+   ],
+   "a": 0,
+   "why": "Hairs catch the bigger dust, and sticky mucus catches smaller dust. The mucus is then swept out.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Which particles in smoke are the most harmful to lungs?",
+   "opts": [
+    "The finest ones, too small to see",
+    "The biggest ones, which you can see",
+    "They are all equally harmful"
+   ],
+   "a": 0,
+   "why": "The nose catches big dust. The finest particles slip past it and reach deep into the lungs. Picking 'the biggest' is a natural guess, because we can see those.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "In the soil test, muddy salt water went through soil. What came out?",
+   "opts": [
+    "Clearer water that still had the salt in it",
+    "Pure clean water",
+    "Only mud"
+   ],
+   "a": 0,
+   "why": "Soil stops pieces like mud, but dissolved salt goes through. That is why dissolved chemicals on the ground can reach groundwater.",
+   "outcome": 4,
+   "how": "e3"
+  },
+  {
+   "t": "mcq",
+   "p": "What is the biggest cause of dirty rivers in India?",
+   "opts": [
+    "Sewage from towns and cities",
+    "Leaves falling into the water",
+    "Rain washing mud in"
+   ],
+   "a": 0,
+   "why": "Sewage pours into many rivers without being cleaned. Microbes feeding on it use up the oxygen that fish need.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Why is a coat of dust a problem for a plant?",
+   "opts": [
+    "It blocks light the leaves need to make food",
+    "It makes the plant grow too fast",
+    "It makes the leaves fall in one day"
+   ],
+   "a": 0,
+   "why": "Leaves make food from sunlight. Dust blocks some light and can clog the tiny holes in the leaf.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "On a dusty balcony, which kind of leaf lets dust slide off most easily in the rain?",
+   "opts": [
+    "A smooth, waxy leaf, like a money plant leaf",
+    "A hairy leaf, like a tulsi leaf",
+    "A leaf with no water on it"
+   ],
+   "a": 0,
+   "why": "Water runs off a smooth, waxy leaf and carries dust with it. Hairs hold on to dust.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Which change makes less smoke, instead of moving it somewhere else?",
+   "opts": [
+    "Cooking on gas instead of wood",
+    "Burning rubbish behind the building",
+    "Building a taller chimney"
+   ],
+   "a": 0,
+   "why": "Gas burns much more cleanly than wood. Burning round the back or through a taller chimney still makes the same smoke.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Clair Patterson found almost no lead in very old Greenland ice, and much more in recent ice. What did this prove wrong?",
+   "opts": [
+    "That the lead in the air was natural and had always been there",
+    "That snow falls in layers",
+    "That lead is a metal"
+   ],
+   "a": 0,
+   "why": "If the lead were natural, old ice would hold as much as new ice. The rise came after leaded petrol, so people had put it there.",
+   "outcome": 0
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Air Detective (core)",
+   "tier": "core",
+   "mins": 20,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Meenakshi, a girl in Class 3 in Madurai, wipes her window grill with a damp white cloth. The cloth comes away grey. Where did the grey come from?",
+     "opts": [
+      "Dust and soot that came out of the air",
+      "The paint on the grill",
+      "The water in the cloth"
+     ],
+     "a": 0,
+     "why": "Nobody put dirt on the grill. Dust and soot came out of the air, a speck at a time, and stuck to it. A strong answer says the dirt came from the air, and names a source such as vehicles or a building site."
+    },
+    {
+     "t": "fill",
+     "p": "Harmful things added to air, water or land faster than nature can clear them away are called ____.",
+     "a": [
+      "pollution"
+     ],
+     "why": "Pollution is the word for it. One harmful thing, such as smoke, is called a pollutant."
+    },
+    {
+     "t": "sort",
+     "p": "Sort each one: does it mostly pollute the air, the water or the land?",
+     "cats": [
+      "Air",
+      "Water",
+      "Land"
+     ],
+     "items": [
+      [
+       "smoke from a diesel lorry",
+       "Air"
+      ],
+      [
+       "sewage poured into a river",
+       "Water"
+      ],
+      [
+       "a rubbish heap on an empty plot",
+       "Land"
+      ],
+      [
+       "dust from a building site",
+       "Air"
+      ],
+      [
+       "washing a scooter in a lake",
+       "Water"
+      ],
+      [
+       "plastic bags buried in a field",
+       "Land"
+      ]
+     ],
+     "a": "see items",
+     "why": "Smoke and dust float in the air. Sewage and scooter washing go into the water. Rubbish and plastic stay on and in the ground. A strong answer notices that some things pollute more than one, such as burning rubbish, which dirties the air and leaves ash on the land."
+    },
+    {
+     "t": "mcq",
+     "p": "In the Sticky Card Test, one card was shut in a closed steel dabba. Why?",
+     "opts": [
+      "To show what a card looks like when the air cannot reach it",
+      "To keep it safe for later",
+      "To catch dust from inside the dabba"
+     ],
+     "a": 0,
+     "why": "The dabba card is the control. It had the same jelly and stayed clean, so we know the specks on the other cards came from the air, not from the jelly or the card.",
+     "how": "e1"
+    },
+    {
+     "t": "truefalse",
+     "p": "Lakshmi says, 'If the air looks clear, it must be clean.' Is she right?",
+     "a": false,
+     "why": "False. Fine particles are too small to see one by one, and some harmful gases have no colour. The sticky card caught specks from air that looked clear."
+    },
+    {
+     "t": "match",
+     "p": "Match each word to what it means.",
+     "pairs": [
+      [
+       "Soot",
+       "black particles from burning"
+      ],
+      [
+       "Sewage",
+       "used water from toilets and kitchens"
+      ],
+      [
+       "Mucus",
+       "the sticky layer inside your nose"
+      ],
+      [
+       "Haze",
+       "a grey look in the air from many fine particles"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "These four words come up all through the unit. A strong answer could also give an example of each."
+    },
+    {
+     "t": "mcq",
+     "p": "Divya blows her nose after a day on a busy road. The tissue is grey. Why?",
+     "opts": [
+      "The sticky mucus in her nose caught dust from the air",
+      "Her nose made dust",
+      "The tissue was dirty"
+     ],
+     "a": 0,
+     "why": "Mucus is sticky, like the jelly on the card. Every breath passes over it, and dust sticks. Dirtier air leaves more dust."
+    },
+    {
+     "t": "write",
+     "p": "Name two things in or near your home that put smoke or dust into the air. For each one, say one way to make less.",
+     "lines": 4,
+     "a": "For example: frying in the kitchen, so switch on the exhaust fan. Vehicles on the road, so switch the engine off at a signal.",
+     "why": "A strong answer names real sources the child has seen, and a change that really reduces them, not just 'be careful'."
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these makes no smoke at all?",
+     "opts": [
+      "Putting dry leaves in a compost pit",
+      "Burning dry leaves in a small pile",
+      "Burning dry leaves at night"
+     ],
+     "a": 0,
+     "why": "Any burning makes smoke, whatever the size of the pile or the time. Leaves in a compost pit rot into soil."
+    },
+    {
+     "t": "draw",
+     "p": "Draw your three sticky cards after three days: the flat one on the sill, the upright one on the grill, and the one from the dabba. Shade each square as grey as it was.",
+     "a": "The flat card darkest, the upright card lighter, the dabba card white.",
+     "why": "A strong drawing shows the difference clearly and labels each card with where it was.",
+     "how": "e1",
+     "art": "Three blank card outlines with empty squares, labelled A, B and C."
+    },
+    {
+     "t": "truefalse",
+     "p": "Smoke from a mosquito coil in a closed bedroom is a kind of air pollution.",
+     "a": true,
+     "why": "True. A burning coil gives off fine smoke for hours. In a closed room, that smoke stays in the air you breathe all night. A mosquito net keeps mosquitoes off without any smoke."
+    },
+    {
+     "t": "fill",
+     "p": "The water stored under the ground, which borewells pump up, is called ____.",
+     "a": [
+      "groundwater"
+     ],
+     "why": "Groundwater is water that soaked down through soil and rock. Pollution on the ground can reach it."
+    },
+    {
+     "t": "mcq",
+     "p": "Anjali's tulsi plant is on a covered balcony beside a busy road. Their leaves look grey. Why is the dust a problem for the plant?",
+     "opts": [
+      "It blocks some of the sunlight the leaves use to make food",
+      "It makes the plant heavier",
+      "It makes the leaves taste bitter"
+     ],
+     "a": 0,
+     "why": "A leaf makes food from sunlight, air and water. Dust blocks some of the light, so the plant makes less food. On a covered balcony, no rain washes it off.",
+     "how": "e2"
+    },
+    {
+     "t": "write",
+     "p": "Your upright card on the grill caught some specks, though nothing could fall onto it. Explain how they got there.",
+     "lines": 3,
+     "a": "Some specks are so tiny that they hardly fall. They float in the air, and the wind blows them against the card, where they stick.",
+     "why": "A strong answer says the specks were floating and carried sideways by the air, not falling.",
+     "how": "e1"
+    },
+    {
+     "t": "perspective",
+     "p": "Two sisters in Kochi talk about their neighbour, who burns the dry leaves from his garden every week.",
+     "views": [
+      {
+       "who": "Nandini, aged 10",
+       "says": "Leaves are natural, so burning them is fine. It's not like burning plastic."
+      },
+      {
+       "who": "Tara, aged 8",
+       "says": "The smoke still goes into our window and our noses. It doesn't matter that the leaves are natural."
+      }
+     ],
+     "ask": "Which sister do you agree with? Use what you found with the sticky cards. Then say one thing the other sister has right.",
+     "lines": 5,
+     "a": "A strong answer uses evidence: smoke from any burning carries soot and fine particles, and the sticky card shows that what is in the air lands near and inside us. It also gives the other side its due: burning plastic is worse, because its smoke has poisons in it as well.",
+     "why": "Both sisters have a point. Plastic smoke is more poisonous, but smoke from leaves is still full of fine particles that harm lungs. Composting leaves avoids the smoke altogether."
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Follow the Specks (stretch)",
+   "tier": "stretch",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Kavya counts 40 specks in one corner of her sticky card's square. The square has four equal corners, and the specks are spread evenly. About how many specks are in the whole square?",
+     "opts": [
+      "About 160",
+      "About 44",
+      "About 10"
+     ],
+     "a": 0,
+     "why": "One corner is a quarter of the square. If one quarter holds 40, the whole holds about 4 times 40, which is 160. Scientists count part of a sample and multiply in the same way.",
+     "how": "e1"
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of the Sticky Card Test in order.",
+     "items": [
+      "Count the specks in one corner of each square",
+      "Spread a thin layer of jelly in each square",
+      "Draw a square on each card",
+      "Put the cards in their places for three days"
+     ],
+     "a": [
+      "Draw a square on each card",
+      "Spread a thin layer of jelly in each square",
+      "Put the cards in their places for three days",
+      "Count the specks in one corner of each square"
+     ],
+     "why": "First mark where to look, then make it sticky, then let the air reach it, then count.",
+     "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "Your nose and your sticky card both catch dust. Write two ways they are alike, and one way they are different.",
+     "lines": 4,
+     "a": "Alike: both are sticky, and both catch dust from the air passing over them. Different: the card keeps the dust, but the nose sweeps the dirty mucus out and makes fresh mucus.",
+     "why": "A strong answer compares how they catch dust and what happens to the dust afterwards."
+    },
+    {
+     "t": "odd",
+     "p": "Three of these put fine particles into the air in a home. Which one is the odd one out?",
+     "opts": [
+      "An electric fan",
+      "A burning incense stick",
+      "A mosquito coil",
+      "Frying papads"
+     ],
+     "a": 0,
+     "why": "The incense stick, the coil and the frying all give off smoke. A fan only moves the air that is already there."
+    },
+    {
+     "t": "truefalse",
+     "p": "The smallest particles in smoke are the most harmful to our lungs.",
+     "a": true,
+     "why": "True. The nose catches bigger dust. The finest particles, about 30 times thinner than a hair, can slip past and reach the deepest parts of the lungs."
+    },
+    {
+     "t": "label",
+     "p": "Label the picture of the soil filter: soil, cotton plug, muddy salt water going in, water coming out.",
+     "a": "Muddy salt water poured in at the top, soil in the upper half, cotton plug in the bottle neck, water dripping into the lower half.",
+     "why": "A strong answer shows the water going down through the soil, and labels what the soil stops (mud) and what it lets through (dissolved salt).",
+     "how": "e3",
+     "art": "An unlabelled drawing of a cut plastic bottle with the top half upside down in the bottom half, filled with soil, with four blank label lines."
+    },
+    {
+     "t": "mcq",
+     "p": "In the soil test, the water came out clearer, but it left a white crust when it dried. What did the soil stop?",
+     "opts": [
+      "The mud, but not the dissolved salt",
+      "The salt, but not the mud",
+      "Nothing at all"
+     ],
+     "a": 0,
+     "why": "Soil catches pieces like mud in the gaps between its grains. Salt was dissolved, in pieces far too small to catch, so it went through with the water.",
+     "how": "e3"
+    },
+    {
+     "t": "write",
+     "p": "A factory spills a chemical that dissolves in water onto the ground. A family nearby drinks water from a borewell. Use the soil test to explain why they should worry.",
+     "lines": 4,
+     "a": "In the soil test, dissolved salt went straight through the soil with the water. A dissolved chemical could do the same and reach the groundwater, which the borewell pumps up.",
+     "why": "A strong answer connects the dissolved salt in the test to the dissolved chemical, and follows the water down to the borewell.",
+     "how": "e3"
+    },
+    {
+     "t": "sort",
+     "p": "Sort each change: does it make less smoke, or does it only move the smoke somewhere else?",
+     "cats": [
+      "Makes less smoke",
+      "Only moves the smoke"
+     ],
+     "items": [
+      [
+       "putting leaves in a compost pit",
+       "Makes less smoke"
+      ],
+      [
+       "burning rubbish behind the building instead of in front",
+       "Only moves the smoke"
+      ],
+      [
+       "switching off the engine at a signal",
+       "Makes less smoke"
+      ],
+      [
+       "a taller factory chimney",
+       "Only moves the smoke"
+      ],
+      [
+       "cooking on gas instead of wood",
+       "Makes less smoke"
+      ]
+     ],
+     "a": "see items",
+     "why": "A taller chimney or a fire round the back still makes the same smoke, so somebody else breathes it. Composting, switching off and cleaner fuel make less smoke in the first place."
+    },
+    {
+     "t": "mcq",
+     "p": "Sana in Pune notices that the far hill is blurry every winter morning, but clear after rain. Why is it clearer after rain?",
+     "opts": [
+      "Rain washes particles out of the air",
+      "Rain makes the hill closer",
+      "Rain makes new air"
+     ],
+     "a": 0,
+     "why": "Raindrops catch dust and soot as they fall and bring them to the ground. That is one way nature cleans the air.",
+     "how": "a4"
+    },
+    {
+     "t": "truefalse",
+     "p": "Opening the kitchen window or running the exhaust fan while frying helps the air in the kitchen.",
+     "a": true,
+     "why": "True. The fan or the open window carries the smoke outside, so less stays in the kitchen for people to breathe."
+    },
+    {
+     "t": "perspective",
+     "p": "A family in Hyderabad argues about the mosquito coil in the bedroom.",
+     "views": [
+      {
+       "who": "Priya, the mother",
+       "says": "Mosquitoes carry dengue. The coil keeps them away, so it keeps us safe."
+      },
+      {
+       "who": "Ishita, aged 9",
+       "says": "The coil fills our room with smoke all night. We breathe it for hours."
+      },
+      {
+       "who": "Paati, the grandmother",
+       "says": "We used to sleep under a net. No mosquitoes and no smoke."
+      }
+     ],
+     "ask": "Who do you agree with? Give a reason from this unit. Then say what the others have right.",
+     "lines": 5,
+     "a": "A strong answer sees that both dangers are real: dengue is serious, and coil smoke is full of fine particles. It may choose the net because it solves both problems, and it gives each person credit for their point.",
+     "why": "This is a real trade-off. The mother is right that mosquitoes are dangerous. Ishita is right about the smoke. Paati's net removes both problems, though a net must be tucked in well to work."
+    },
+    {
+     "t": "write",
+     "p": "Many people think the air inside a home is always cleaner than outside. Describe a test that would find out whether that is true in your home.",
+     "lines": 4,
+     "a": "Put one sticky card in the kitchen and one on the window sill for the same three days, with the same jelly and square. Count the specks in one corner of each and compare.",
+     "why": "A strong answer keeps everything the same except the place, says how long, and says how to compare the results."
+    },
+    {
+     "t": "fill",
+     "p": "Black particles from burning diesel, wood or rubbish are called ____.",
+     "a": [
+      "soot"
+     ],
+     "why": "Soot is what the black specks on the sticky card mostly are. It forms when something burns without enough air."
+    },
+    {
+     "t": "mcq",
+     "p": "On the cotton from Gurpreet's leaf wipe, the top of the leaf was grey and the underside was nearly white. What does this tell us about most of the dust?",
+     "opts": [
+      "It falls down and settles on surfaces that face up",
+      "It is made by the leaf",
+      "It floats up from the ground"
+     ],
+     "a": 0,
+     "why": "Most dust is heavy enough to settle slowly, so it lands on tops. Only the finest specks float about and stick underneath.",
+     "how": "e2"
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Who Breathes It? (challenge)",
+   "tier": "challenge",
+   "mins": 30,
+   "items": [
+    {
+     "t": "write",
+     "p": "Your card on the window sill was dark grey after three days. A friend's card, on the 14th floor in a quiet lane, was light grey. Give two reasons the results could be different.",
+     "lines": 4,
+     "a": "For example: her lane has fewer vehicles, so less soot. Road dust is kicked up near the ground, so less reaches the 14th floor. It may have rained on her side of the city.",
+     "why": "A strong answer gives two different, testable reasons, not just 'her home is cleaner'.",
+     "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "A factory builds a taller chimney, and the air near the factory gets cleaner. What has happened to the smoke?",
+     "opts": [
+      "The wind carries it further away, so other people breathe it",
+      "The tall chimney destroys the smoke",
+      "The smoke turns into clean air higher up"
+     ],
+     "a": 0,
+     "why": "A taller chimney puts the smoke higher, where the wind spreads it over a wider area. The same amount of smoke is still made. It only lands somewhere else."
+    },
+    {
+     "t": "perspective",
+     "p": "A building in Chennai is planning its Bhogi morning.",
+     "views": [
+      {
+       "who": "Lakshmi, who has lived there for 40 years",
+       "says": "The bonfire is our tradition. My mother and grandmother lit it. Without the fire, it isn't Bhogi."
+      },
+      {
+       "who": "Kavya, aged 9",
+       "says": "Last Bhogi my sticky card was the greyest it has ever been, and flights were stopped by the smoke."
+      },
+      {
+       "who": "Farhan, the building secretary",
+       "says": "Let's keep the fire small and burn only dry leaves and wood, never tyres or plastic."
+      }
+     ],
+     "ask": "Whose plan would you choose? Use evidence from this unit. Then say what each of the other two has right.",
+     "lines": 6,
+     "a": "A strong answer weighs the meaning of the tradition, the evidence from the sticky cards, and the smaller harm of a small, clean fire. It might choose a smokeless Bhogi or Farhan's middle way, and it respects Lakshmi's feeling for the tradition.",
+     "why": "This is a real disagreement. Traditions matter to people. Smoke harms people. A small fire with no tyres or plastic makes far less harm, and a fire-free Bhogi makes none."
+    },
+    {
+     "t": "write",
+     "p": "Some people say, 'The air belongs to nobody, so nobody has to keep it clean.' Others say, 'The air belongs to everybody, so everybody has to keep it clean.' What do you think? Use your nose and the sticky card in your answer.",
+     "lines": 5,
+     "a": "A strong answer might say the air passes through every breathing body, so smoke made by one person ends up in other people's noses and lungs, which is why everyone has a share in keeping it clean.",
+     "why": "A strong answer takes a side, gives a reason from the unit, and fairly states the other view."
+    },
+    {
+     "t": "mcq",
+     "p": "Clair Patterson measured lead in layers of old Greenland ice. Snow from long ago had almost no lead, but recent snow had far more. What did this show?",
+     "opts": [
+      "The lead in the air came from people, not from nature",
+      "Ice makes lead",
+      "Lead has always been in the air in the same amount"
+     ],
+     "a": 0,
+     "why": "If the lead were natural, old snow would hold as much as new snow. It did not. The lead rose after people began burning leaded petrol."
+    },
+    {
+     "t": "draw",
+     "p": "Draw the path of one speck of soot from a bus exhaust to the inside of a child's nose. Show at least three places it passes.",
+     "a": "For example: out of the exhaust pipe, up into the air over the road, blown towards a building, in through an open window, into the nose with a breath, caught in the mucus.",
+     "why": "A strong drawing shows the soot floating and carried by the air, and ends with it caught by the mucus.",
+     "art": "A blank space with a small bus on the left and a child's face on the right."
+    },
+    {
+     "t": "truefalse",
+     "p": "If a city puts all its rubbish in one big dump far away, the pollution is solved.",
+     "a": false,
+     "why": "False. The rubbish is still there. Rain soaks through it into the groundwater, fires in the dump fill the air with smoke, and the people who live near the dump breathe it. Moving waste is not the same as making less of it."
+    },
+    {
+     "t": "write",
+     "p": "Dust on a tree's leaves is hard for the tree. It also means less dust reaches people walking below. Is that fair to the tree? Say what you think and why.",
+     "lines": 4,
+     "a": "A strong answer starts with the tree's own problem: dust blocks the light the leaves need to make food. It might say the tree pays a cost for people, and suggest ways people can help, such as making less dust or watering roadside trees.",
+     "why": "A strong answer puts the tree's life first, then thinks about what people owe in return."
+    },
+    {
+     "t": "order",
+     "p": "Sewage from a town pours into a river. Put what happens next in order.",
+     "items": [
+      "Fish in the river run short of oxygen",
+      "Sewage pours into the river",
+      "Microbes in the water feed on the waste",
+      "The microbes use up oxygen in the water"
+     ],
+     "a": [
+      "Sewage pours into the river",
+      "Microbes in the water feed on the waste",
+      "The microbes use up oxygen in the water",
+      "Fish in the river run short of oxygen"
+     ],
+     "why": "The waste is food for microbes. As the microbes multiply and feed, they use the oxygen dissolved in the water, and fish need that same oxygen."
+    },
+    {
+     "t": "mcq",
+     "p": "A shop says, 'Put two money plants in your bedroom and the air will be clean.' What do most recent studies say?",
+     "opts": [
+      "A room would need far more plants than anyone keeps, so fresh air does much more",
+      "Two plants clean a room completely",
+      "Plants make the air dirtier"
+     ],
+     "a": 0,
+     "why": "In small sealed boxes, plants did take some gases out of the air. In a real room, air flows in and out all the time, and a few plants make only a tiny difference. Plants are good to live with for other reasons."
+    },
+    {
+     "t": "fill",
+     "p": "Fine particles are about ____ times thinner than a hair.",
+     "a": [
+      "30"
+     ],
+     "why": "A hair is about 70 micrometres thick. The largest fine particles, PM2.5, are 2.5 micrometres. 70 divided by 2.5 is 28, so about 30 times."
+    },
+    {
+     "t": "match",
+     "p": "Match each source to the main pollutant it adds.",
+     "pairs": [
+      [
+       "A diesel lorry",
+       "soot in the air"
+      ],
+      [
+       "A building site",
+       "dust in the air"
+      ],
+      [
+       "A town's toilets with no treatment plant",
+       "sewage in the river"
+      ],
+      [
+       "A rubbish dump in the rain",
+       "dirty water soaking into the ground"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each source adds something different. A strong answer could add a second pollutant for some of them, such as plastic from the dump."
+    },
+    {
+     "t": "write",
+     "p": "Children breathe more air for their size than grown-ups. Explain why this means dirty air affects children more.",
+     "lines": 3,
+     "a": "More air for their size means more dust and soot passes into a child's nose and lungs for the size of their body. So the same dirty air puts a bigger load on a child.",
+     "why": "A strong answer links more air breathed to more particles taken in, compared with body size."
+    },
+    {
+     "t": "odd",
+     "p": "Three of these help clean the air by themselves, without people doing anything. Which is the odd one out?",
+     "opts": [
+      "A taller chimney",
+      "Rain",
+      "Wind",
+      "Leaves of roadside trees"
+     ],
+     "a": 0,
+     "why": "Rain washes particles down, wind spreads smoke out, and leaves catch dust. A taller chimney does not clean anything. It sends the same smoke further away."
+    },
+    {
+     "t": "mcq",
+     "p": "Revathi puts a sticky card on top of her kitchen cupboard for two days. It catches oily, sticky specks. Where did they most likely come from?",
+     "opts": [
+      "Frying and tadka on the stove",
+      "Dust from the road",
+      "The cupboard wood"
+     ],
+     "a": 0,
+     "why": "Hot oil gives off tiny droplets of oil and smoke. They float in the kitchen air and stick to high surfaces. That is why kitchen tops get sticky.",
+     "how": "p1"
+    }
+   ]
+  }
+ ],
+ "applications": [
+  "Air quality monitors on city streets, which measure fine particles every hour and give the AQI.",
+  "Masks for people who work on building sites, in traffic or in dusty factories.",
+  "Sewage treatment plants, which clean used water before it goes into a river or the sea.",
+  "Filters in air purifiers and in the air intake of buses and cars.",
+  "Rules that stopped leaded petrol, and rules for cleaner diesel and fuel.",
+  "Trees planted along busy roads to catch dust."
+ ],
+ "spotted": [
+  {
+   "text": "A grey layer on the top of a ceiling fan blade, which you can see from a ladder.",
+   "art": "A ceiling fan seen from above, with a thick grey line of dust along the top of one blade."
+  },
+  {
+   "text": "Black soot round the end of an old scooter's exhaust pipe.",
+   "art": "The end of a scooter's exhaust pipe with a ring of black soot round it."
+  },
+  {
+   "text": "Roadside tree leaves that look grey before the monsoon and bright green after the first rain.",
+   "art": "Two pictures of the same roadside tree: grey and dusty in May, bright green in June after rain."
+  },
+  {
+   "text": "Foam floating on some city lakes, such as Bellandur Lake in Bengaluru, from sewage with soap in it.",
+   "art": "White foam heaped on the surface of a city lake, with buildings behind."
+  },
+  {
+   "text": "A hazy sky on the morning after Diwali or Bhogi, when the far buildings look pale.",
+   "art": "A city skyline on a grey, hazy morning, the far buildings faded."
+  },
+  {
+   "text": "A black smudge on the wall above where a lamp or a candle burns every evening.",
+   "art": "A brass lamp on a shelf with a black smudge on the wall above it."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "Exactly how do fine particles harm the brain and heart?",
+   "why_open": "Studies show more illness where there are more fine particles, and particles have been found in blood. How they cause the harm inside the body is still being worked out."
+  },
+  {
+   "q": "How much of a city's air pollution comes from each source?",
+   "why_open": "Different studies of the same city give different answers, because sources change with the season, the weather and the year."
+  },
+  {
+   "q": "How do plants that live by busy roads cope with dust year after year?",
+   "why_open": "Some roadside plants do well and others struggle. Scientists are still finding out which leaf features and other ways of living help them most."
+  },
+  {
+   "q": "Is there any amount of fine particles in the air that is completely safe?",
+   "why_open": "Health studies have found harm even at low amounts. Scientists have not found a level below which there is no harm at all."
+  }
+ ],
+ "ask_kids": [
+  "Can you see the far water tank or tower from our window today? Is it sharp or blurry?",
+  "What colour do you think the top of our ceiling fan is? Shall we check?",
+  "Which part of our home do you think has the dustiest air?",
+  "That bus gave off black smoke. Where do you think the smoke goes after that?",
+  "Why do you think the leaves on that tree look grey today?",
+  "If we stopped using the mosquito coil, what could we use instead?",
+  "Where does the water from our bathroom go after it goes down the drain?",
+  "What did you notice in the air on the way home today?"
+ ],
+ "jokes": [
+  {
+   "j": "Why did the dust speck go to school?",
+   "a": "To get a little brighter."
+  },
+  {
+   "j": "What did the sticky card say to the soot?",
+   "a": "Stick around."
+  },
+  {
+   "j": "Why was the window sill so tired?",
+   "a": "Everything kept landing on it."
+  },
+  {
+   "j": "What did one nose hair say to the other?",
+   "a": "We'd better stick together, there's dust coming."
+  },
+  {
+   "j": "Why did the cloud of smoke get lost?",
+   "a": "It had no sense of direction, it went wherever the wind blew."
+  },
+  {
+   "j": "What is a tissue's least favourite day?",
+   "a": "The day after Diwali."
+  },
+  {
+   "j": "Why did the money plant never get dusty in the rain?",
+   "a": "Their leaves were too slippery for it."
+  },
+  {
+   "j": "What did the river say to the plastic bag?",
+   "a": "Please don't drift into my life."
+  },
+  {
+   "j": "Why did the bus feel embarrassed at the signal?",
+   "a": "It let out a big black puff in front of everyone."
+  },
+  {
+   "j": "What does a magnifying glass say to a speck of soot?",
+   "a": "I see you, even if nobody else does."
+  },
+  {
+   "j": "Why did the compost pit win the Bhogi prize?",
+   "a": "It took all the old things and made no smoke."
+  },
+  {
+   "j": "Why did the borewell refuse the salty water?",
+   "a": "It had already had its fill."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "Kavya counts 35 specks in the top left corner of her window card's square. The square has 4 equal corners, and the specks look evenly spread. About how many specks are in the whole square?",
+   "answer": "About 140 specks.",
+   "explain": "One corner is a quarter of the square. If one quarter holds 35, four quarters hold 4 times 35. 4 times 35 is 140. Check: 35 + 35 + 35 + 35 = 140.",
+   "math_unit": "math.multiplication.equal-groups.L3",
+   "context": "This is about the Sticky Card Test, where you count specks in one corner of a square of jelly instead of the whole square.",
+   "how": "e1",
+   "why_maths": "Counting every speck would take too long. Counting a part and multiplying gives a good estimate quickly."
+  },
+  {
+   "problem": "In one corner of each square, Meenakshi counted: card A on the sill, 35 specks. Card B upright on the grill, 12 specks. Card C in the dabba, 1 speck. How many more specks did card A catch than card B? Why might card C have 1 speck, not 0?",
+   "answer": "23 more specks. Card C may have caught a speck while the card was being made, before it went in the dabba.",
+   "explain": "35 minus 12 is 23. Card C shows what gets on a card without the outside air, such as a speck from the room while the jelly was spread. That is why a control is useful: it tells us how much to ignore.",
+   "math_unit": "math.data.bar-charts.L3",
+   "context": "This is about the Sticky Card Test. Three cards were left in three places for three days.",
+   "chart": {
+    "type": "bar",
+    "title": "Specks in one corner of each square",
+    "x": "Card",
+    "y": "Number of specks",
+    "data": [
+     {
+      "label": "A: flat on the sill",
+      "value": 35,
+      "emoji": "⬜"
+     },
+     {
+      "label": "B: upright on the grill",
+      "value": 12,
+      "emoji": "⬜"
+     },
+     {
+      "label": "C: in the closed dabba",
+      "value": 1,
+      "emoji": "⬜"
+     }
+    ]
+   },
+   "how": "e1",
+   "why_maths": "A bar chart shows at a glance which place caught most, and subtracting tells us by how much."
+  },
+  {
+   "problem": "Sana checked her city's AQI each morning. Monday 85, Tuesday 92, Wednesday 160, Thursday 110, Friday 70. It rained on Thursday night. Which morning had the dirtiest air? How much lower was Friday than Wednesday? What might explain Friday?",
+   "answer": "Wednesday had the dirtiest air. Friday was 90 lower. The rain on Thursday night probably washed particles out of the air.",
+   "explain": "The highest number, 160, is the dirtiest. 160 minus 70 is 90. Rain catches particles as it falls, so the morning after rain is often clearer.",
+   "math_unit": "math.addition-subtraction.word-problems.L3",
+   "context": "This is about Haze Watch, where you check how clear the air is each morning and write the AQI number if you can find it.",
+   "chart": {
+    "type": "line",
+    "title": "AQI each morning",
+    "x": "Day",
+    "y": "AQI",
+    "data": [
+     {
+      "label": "Mon",
+      "value": 85
+     },
+     {
+      "label": "Tue",
+      "value": 92
+     },
+     {
+      "label": "Wed",
+      "value": 160
+     },
+     {
+      "label": "Thu",
+      "value": 110
+     },
+     {
+      "label": "Fri",
+      "value": 70
+     }
+    ]
+   },
+   "how": "a4",
+   "why_maths": "Comparing the numbers day by day shows a pattern, and a pattern points to a cause, such as the rain."
+  },
+  {
+   "problem": "Resting quietly, a child of 8 breathes about 20 times a minute. How many breaths is that in 10 minutes? If every breath passes over the sticky mucus in the nose, which would catch more dust in 10 minutes: a child sitting still or a child running?",
+   "answer": "About 200 breaths in 10 minutes. The running child, because they breathe faster and deeper, so more air and more dust pass through their nose and lungs.",
+   "explain": "20 breaths a minute for 10 minutes is 20 times 10, which is 200. Running makes you breathe faster and take in more air with each breath, so more dust comes in.",
+   "math_unit": "math.multiplication.multiplication-facts.L3",
+   "context": "This is about your nose, which catches dust from every breath, like the sticky card.",
+   "why_maths": "Multiplying shows how quickly small amounts add up: a little dust in each breath becomes a lot over many breaths."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.environment.L3",
+  "title": "Round and Round",
+  "note": "Topic-level song for Caring for the environment L3"
+ },
+ "links": [
+  {
+   "title": "CPCB National Air Quality Index",
+   "url": "https://airquality.cpcb.gov.in/AQI_India/",
+   "kind": "interactive",
+   "why": "For the parent. A live map of the AQI in Indian cities, from the Central Pollution Control Board. Find the station nearest your home and use it for Haze Watch."
+  },
+  {
+   "title": "NASA Climate Kids: What is air pollution?",
+   "url": "https://climatekids.nasa.gov/air-pollution/",
+   "kind": "interactive",
+   "why": "A short page for children, with pictures, about what air pollution is and where it comes from."
+  },
+  {
+   "title": "US EPA: Particulate Matter (PM) Basics",
+   "url": "https://www.epa.gov/pm-pollution/particulate-matter-pm-basics",
+   "kind": "interactive",
+   "why": "For the parent. A clear explanation of PM10 and PM2.5, with the hair comparison used in this unit."
+  },
+  {
+   "title": "AirNow: AQI Basics",
+   "url": "https://www.airnow.gov/aqi/aqi-basics/",
+   "kind": "interactive",
+   "why": "For the parent. What the colours and numbers of an air quality index mean for health."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-jelly",
+   "item": "A small tin or tube of petroleum jelly (Vaseline)",
+   "kind": "material",
+   "why": "It stays sticky for days and does not soak into the card, so specks stay on top where you can count them. Coconut oil works too, but soaks in more.",
+   "url": "",
+   "used_in": [
+    "e1",
+    "p1"
+   ],
+   "plan": "Most homes already have some. Any chemist or general store sells it."
+  },
+  {
+   "id": "b-lens",
+   "item": "A magnifying glass",
+   "kind": "tool",
+   "why": "It makes the specks on the sticky card easy to see and count. A phone camera with zoom is a good home alternative.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
+   "used_in": [
+    "e1",
+    "p1"
+   ],
+   "plan": "Used again in many science units, for looking at seeds, insects, salt crystals and soil."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "What is pollution?",
+   "a": "Harmful things added to air, water or land faster than nature can clear them away."
+  },
+  {
+   "q": "Name one source of air pollution in a city.",
+   "a": "Vehicles, building dust, burning rubbish, factories or cooking smoke."
+  },
+  {
+   "q": "What catches dust inside your nose?",
+   "a": "Tiny hairs and sticky mucus."
+  },
+  {
+   "q": "What is soot?",
+   "a": "Black particles left when something burns without enough air."
+  },
+  {
+   "q": "In the soil test, what did the soil stop, and what went through?",
+   "a": "It stopped the mud. The dissolved salt went through."
+  },
+  {
+   "q": "Why does rain make the air clearer?",
+   "a": "Raindrops catch dust and soot and bring them to the ground."
+  },
+  {
+   "q": "What is sewage?",
+   "a": "Used water from toilets, kitchens and bathrooms."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "intro",
+   "a1",
+   "e1",
+   "story",
+   "g1",
+   "big_questions",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "e1",
+   "story",
+   "summary",
+   "terms",
+   "explanations",
+   "a3",
+   "e2",
+   "g1",
+   "ws-core",
+   "videos",
+   "agreed",
+   "challenging",
+   "how_we_found_out",
+   "a2",
+   "e3",
+   "a4",
+   "ws-stretch",
+   "p1",
+   "c1",
+   "c2",
+   "big_questions",
+   "ws-challenge",
+   "roots",
+   "open_questions",
+   "quiz"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "a3",
+   "e2",
+   "g1",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "ideas/by_topic/caring-for-the-environment.md: Human impact (anthropogenic forcing, aerosols) row: make a DIY air filter and check collected particles (the Window Dust Filter challenge), compare air on a busy street and in a park, photograph haze at sunrise and midday (Haze Watch), 'breath audit' of indoor air (Your Nose, the Dust Catcher), 'Pollution tag' physical game, interview elders about how local air has changed",
+   "ideas/by_topic/caring-for-the-environment.md: SCI Card for Rachel Carson (Silent Spring, 1962), used for the 'In nature nothing exists alone' teaching",
+   "Prerequisite unit sci.environment.caring.L3 and nearby units (sci.waste.*, sci.water.*, sci.air.air-around-us.L3) read so that experiments, stories and deep truths are not repeated: this unit's sticky cards, leaf wipe and soil filter are new"
+  ],
+  "science": [
+   "Patterson, 'Age of meteorites and the earth', Geochimica et Cosmochimica Acta, 1956",
+   "Patterson, 'Contaminated and natural lead environments of man', Archives of Environmental Health, 1965",
+   "Murozumi, Chow and Patterson, 'Chemical concentrations of pollutant lead aerosols, terrestrial dusts and sea salts in Greenland and Antarctic snow strata', Geochimica et Cosmochimica Acta, 1969",
+   "UN Environment Programme, announcement of the end of leaded petrol worldwide, August 2021",
+   "US EPA, Particulate Matter (PM) Basics (a hair is about 70 micrometres, 30 times the largest fine particle); fine particles stay in the air for days to weeks",
+   "World Health Organization, fact sheets on ambient and household air pollution and health",
+   "Wolverton, Johnson and Bounds, 'Interior landscape plants for indoor air pollution abatement', NASA report, 1989",
+   "Cummings and Waring, 'Potted plants do not improve indoor air quality: a review and analysis of reported VOC removal efficiencies', Journal of Exposure Science and Environmental Epidemiology, 2020 (online 2019)",
+   "Central Pollution Control Board, India, river water quality monitoring reports (sewage as the main source of river pollution)",
+   "News reports of Bhogi smoke delaying flights at Chennai airport (for example The New Indian Express and The Federal, in several recent years)"
+  ]
+ },
+ "roots": {
+  "context": "We have caught the air's dust on sticky cards, on leaves and in our own noses. Now we ask what that tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "After one day, your window card still looked white. After three days, its square was grey with specks. No single speck was big enough to notice, but together they covered the card. Pollution grows the same way, from small amounts added every day, until rain and wind cannot clear them.",
+   "habit": "We look for pollution in big, dramatic things, like a black cloud from a chimney. But most of it builds up from tiny amounts, from every vehicle, stove and fire, each too small to notice on its own.",
+   "evidence": "On day 2 the cards still looked almost white. By day 3 the window card was grey, while the card in the closed dabba stayed white, so the specks came from the air and had piled up over the days. Clair Patterson's Greenland ice showed the same thing over many years: lead from petrol, too little to see in one year's snow, building up layer after layer."
+  },
+  "three": {
+   "who_am_i": "You are a body that air flows through all day. Some of what the air carries stays in you.",
+   "what_is_life": "Every living thing that meets the air, from a crow to a tulsi plant, meets the same dust.",
+   "what_is_this_world": "The air over a city is shared. Smoke made in one lane ends up in the breath of people far away."
+  },
+  "thread": "There is one air over a city, the same air for every creature in it. Every breath is drawn from it: yours, the crow's on the window sill, and the air taken in by the neem tree's leaves. When one person burns a tyre, the smoke does not stay theirs. It spreads into that one air and comes back as many breaths, in many noses and on many leaves. One air, shared by countless lives, is a plain, everyday picture of the One becoming the many.",
+  "teachings": [
+   {
+    "source": "Atharva Veda 12.1.12 (the Prithvi Sukta, the hymn to the Earth)",
+    "teaching": "The Earth is my mother, and I am her child.",
+    "link": "A child's body is built from what the mother gives. Our bodies are built from the Earth's air, water and food, so what we put into the air and water comes back into us."
+   },
+   {
+    "source": "Acharanga Sutra, Book 1, Lecture 1 (Jain teaching on not harming)",
+    "teaching": "There are living beings in earth, in water, in fire, in plants and in the air. A careful person does not harm any of them.",
+    "link": "Jain teachers saw the air itself as full of life to be cared for. Smoke harms the beings who live by breathing, from the smallest insect to us."
+   },
+   {
+    "source": "Rachel Carson, Silent Spring (1962)",
+    "teaching": "In nature, nothing exists alone.",
+    "link": "The smoke from one fire never stays alone. It lands on window sills, on leaves, and on the inside of every nose nearby, as your sticky cards showed."
+   }
+  ],
+  "science": [
+   {
+    "text": "The nose, the airways and their mucus remove most of the bigger particles from the air we breathe. The finest particles reach the deepest air sacs of the lungs.",
+    "status": "settled"
+   },
+   {
+    "text": "Some of the finest particles pass from the lungs into the blood. How much harm they do to the heart and brain over a lifetime is still being studied.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "Many scientists",
+   "view": "Air is a mixture of gases and particles. Sharing it does not make us one, any more than sharing a road does. Pollution is a problem of chemistry and health, to be solved with cleaner fuels, filters and fair laws, with no need for ideas about oneness."
+  },
+  "practice": {
+   "title": "The breath you share",
+   "mins": 3,
+   "say": "Let's sit by the window and close our eyes. Breathe in slowly through your nose while I count to four. Now breathe out while I count to four. Feel the air go in, cool, and come out, warm. Do it five more times. Now think: where was this air a minute ago? Who will breathe it after you? Open your eyes.",
+   "kid": "Sit by the window. Close your eyes. Breathe in slowly through your nose. Count to four. Breathe out. Count to four. Do it five more times. Where was this air a minute ago? Who will breathe it next?"
+  },
+  "ask": [
+   "No single speck made your card grey. So who made it grey?",
+   "The air you breathed out a minute ago is in the room now. Is it still yours?",
+   "Your nose cleans the air for your lungs. Who cleans the air for the city?"
+  ],
+  "art": "A child sitting by an open window with eyes closed, breathing in, with faint lines of air flowing from a neem tree outside, past a crow on the sill, into the child's nose, and out again into the city."
+ },
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if in a city flat today, with the materials listed. The Sticky Card Test uses card from an empty biscuit or medicine box, petroleum jelly or coconut oil, and a steel dabba as the control. A window sill on the road side of a city flat reliably catches visible specks within three days. On a high floor or a quiet lane there are fewer, so the step says to leave the cards two more days, or to rate the colour if counting is hard. A grown-up does the taping, because children must not lean out of windows, and the card goes under the sunshade if rain is likely, because rain washes dust off. Counting one corner of the square keeps counting to a few minutes. The Leaf Wipe needs one potted plant that has stood near a window for a week, which most flats have. The soil filter needs a cut bottle, done by a grown-up, and two cups of soil from a pot. Two teaspoons of salt in a glass leave a thick white crust when a spoonful dries in the sun in a few hours, and the step gives a faster tawa method for a cloudy day. Nobody tastes any water. Your Nose, the Dust Catcher depends on the day: a tissue may stay white after a trip in clean air, and the step says that is good news. Source Snap works for one child alone. The spine (intro, the White Cloth Wipe, the Sticky Card Test, the explanation cards, Roots and the quiz) fits about 85 minutes over two sessions, with the cards left out for three days in between.",
+ "how_we_found_out": {
+  "story": "In the 1950s, Clair Patterson, an American scientist, set out to measure the age of the Earth from tiny amounts of lead in rocks. He kept getting wrong results, because lead from the air was getting into his samples. It was on the dust, his tools, even his hands. So he built one of the world's first very clean labs, with filtered air and scrubbed surfaces, and found the Earth's age: about 4.55 billion years. But a question stayed with him. Where was all that lead in the air coming from? Most experts, such as Robert Kehoe, who worked with the makers of leaded petrol, said the lead in air and in people's bodies was natural and had always been there. Patterson tested this. With his co-workers Masayo Murozumi and Tsaihwa Chow, he measured lead in ice from deep in the Greenland ice sheet. Each year's snow is a layer, so old layers hold old air. Snow from long ago had almost no lead. Recent layers had far more, and the rise was steepest after leaded petrol came into use. The lead was not natural. Countries slowly stopped selling leaded petrol. India stopped in 2000, and the whole world had stopped by 2021.",
+  "who": "Clair Patterson, an American scientist, with his co-workers Masayo Murozumi and Tsaihwa Chow; Robert Kehoe, who held the opposite view",
+  "when": "1950s (the clean lab and the Earth's age), 1965 (Patterson's warning about lead), 1969 (the Greenland ice results)",
+  "wrong_idea": "Most experts said the lead in the air and in people's bodies was natural and had always been there. Layers of old Greenland ice showed that there had been almost no lead in the air before people began burning leaded petrol.",
+  "art": "A scientist in a white coat in a clean lab holding up a long cylinder of ice with layers in it, and a small picture of an old car's exhaust beside it."
+ }
+}
