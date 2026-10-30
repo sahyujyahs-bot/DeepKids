@@ -1,117 +1,118 @@
 {
-  "id": "space-lettuce",
-  "title": "Is lettuce grown in space safe to eat?",
-  "blurb": "Astronauts grew red lettuce on the space station. Scientists checked the leaves for germs and goodness, and compared them with the same lettuce grown on Earth.",
-  "topics": [
-    "sci.plants.what-plants-need.L3",
-    "sci.food.food-safety.L3",
-    "sci.sky.exploring-space.L3",
-    "sci.food.nutrients.L3"
-  ],
-  "tags": [
-    "plants",
-    "space station",
-    "food",
-    "germs"
-  ],
+ "id": "space-lettuce",
+ "title": "Is lettuce grown in space safe to eat?",
+ "blurb": "Astronauts grew red lettuce on the space station. Scientists checked the leaves for germs and goodness, and compared them with the same lettuce grown on Earth.",
+ "topics": [
+  "sci.plants.what-plants-need.L3",
+  "sci.food.food-safety.L3",
+  "sci.sky.exploring-space.L3",
+  "sci.food.nutrients.L3"
+ ],
+ "tags": [
+  "plants",
+  "space station",
+  "food",
+  "germs"
+ ],
+ "year": 2020,
+ "mins": 5,
+ "cover": {
+  "src": "media/research/space-lettuce-1.jpg",
+  "alt": "Astronaut Shane Kimbrough floating inside the space station with a bunch of red lettuce leaves floating beside him.",
+  "credit": "NASA/Shane Kimbrough (public domain)"
+ },
+ "source": {
+  "name": "NASA",
+  "title": "Growing Plants in Space",
+  "authors": "NASA Kennedy Space Center",
   "year": 2020,
-  "mins": 5,
-  "cover": {
-    "src": "media/research/space-lettuce-1.jpg",
-    "alt": "Astronaut Shane Kimbrough floating inside the space station with a bunch of red lettuce leaves floating beside him.",
+  "url": "https://www.nasa.gov/exploration-research-and-technology/growing-plants-in-space/",
+  "license": "Public domain (US government work)"
+ },
+ "original": {
+  "title": "Microbiological and Nutritional Analysis of Lettuce Crops Grown on the International Space Station",
+  "authors": "Christina L. M. Khodadad, Mary E. Hummerick, LaShelle E. Spencer, Anirudha R. Dixit and others, with Gioia D. Massa",
+  "journal": "Frontiers in Plant Science",
+  "year": 2020,
+  "url": "https://doi.org/10.3389/fpls.2020.00199"
+ },
+ "cards": [
+  {
+   "k": "q",
+   "t": "The question",
+   "b": "Astronauts on the International Space Station, a science lab that circles Earth, eat mostly dried and packet food. On a long trip to Mars, the vitamins in packet food slowly break down. Fresh vegetables would help. But in space, water floats in blobs and there is no sunlight. Can plants grow well there? And is the food safe and as healthy as lettuce from Earth?"
+  },
+  {
+   "k": "who",
+   "t": "Who found out",
+   "b": "Christina Khodadad and Gioia Massa led the study at NASA's Kennedy Space Center in Florida. Their team included LaShelle Spencer, Mary Hummerick, Anirudha Dixit and others. Astronauts on the space station, including Shane Kimbrough, grew and picked the lettuce. The study came out in 2020."
+  },
+  {
+   "k": "how",
+   "t": "How they found out",
+   "b": "The lettuce was a red romaine called Outredgeous. It grew in a small space garden called Veggie, about as big as a cabin suitcase. Each plant grew in a soft pillow of clay and fertiliser, which is food for plants. Pink LED lights, which are small bright lights, shone on the plants. At the same time, the team grew the same lettuce in a copy of Veggie on Earth, to compare.",
+   "img": {
+    "src": "media/research/space-lettuce-2.jpg",
+    "alt": "Astronaut Shane Kimbrough picking red lettuce from a small garden glowing with pink light on the space station.",
     "credit": "NASA/Shane Kimbrough (public domain)"
+   }
   },
-  "source": {
-    "name": "NASA",
-    "title": "Growing Plants in Space",
-    "authors": "NASA Kennedy Space Center",
-    "year": 2020,
-    "url": "https://www.nasa.gov/exploration-research-and-technology/growing-plants-in-space/",
-    "license": "Public domain (US government work)"
+  {
+   "k": "found",
+   "t": "What they found",
+   "b": "The lettuce grew for 33 to 56 days. Astronauts ate some, and froze the rest to send back to Earth. In the labs, no germs that make people sick were found. The space lettuce had about the same goodness as the Earth lettuce. Some space plants even had a little more of some minerals, such as potassium and zinc.",
+   "img": {
+    "src": "media/research/space-lettuce-3.jpg",
+    "alt": "A NASA scientist cutting red lettuce leaves from a plant growing in a lab on Earth.",
+    "credit": "NASA/Cory Huston (public domain)"
+   }
   },
-  "original": {
-    "title": "Microbiological and Nutritional Analysis of Lettuce Crops Grown on the International Space Station",
-    "authors": "Christina L. M. Khodadad, Mary E. Hummerick, LaShelle E. Spencer, Anirudha R. Dixit and others, with Gioia D. Massa",
-    "journal": "Frontiers in Plant Science",
-    "year": 2020,
-    "url": "https://doi.org/10.3389/fpls.2020.00199"
+  {
+   "k": "sure",
+   "t": "How sure are they?",
+   "b": "The team tested only a small number of plants. So they say their results are a good start, not the final answer. Each crop came out a little different, and the space and Earth plants did not match in every way. NASA keeps growing and testing more crops in space."
   },
-  "cards": [
+  {
+   "k": "why",
+   "t": "Why it matters",
+   "b": "Fresh food could keep astronauts healthy on trips that last years. Plants also cheer people up. Astronauts say caring for green, growing things in space makes them happier. Since then, astronauts have grown cabbage, kale, flowers and even chilli peppers on the space station."
+  },
+  {
+   "k": "try",
+   "t": "Try it at home",
+   "b": "The space lettuce grew in a pillow of clay, not ordinary soil. You can grow seeds without soil too. Put methi seeds on wet cotton wool in a small steel bowl. Keep the cotton damp, not flooded, and put the bowl near a window. Count the days until sprouts appear. A seed starts with food stored inside, so at first it needs only water and air.",
+   "note": "Wash the sprouts well before you eat them."
+  },
+  {
+   "k": "think",
+   "t": "Think about it",
+   "b": "Astronauts were allowed to eat only part of each crop. The rest went to scientists for testing. If you grew the first lettuce on Mars, would you eat the leaves to stay healthy, or save them to learn more? What would you choose?"
+  },
+  {
+   "k": "words",
+   "t": "New words",
+   "words": [
     {
-      "k": "q",
-      "t": "The question",
-      "b": "Astronauts eat mostly dried and packet food. On a long trip to Mars, the vitamins in packet food slowly break down. Fresh vegetables would help. But in space, water floats in blobs and there is no sunlight. Can plants grow well there? And is the food safe and as healthy as lettuce from Earth?"
+     "w": "microgravity",
+     "m": "the floaty feeling in space, where things seem to weigh almost nothing"
     },
     {
-      "k": "who",
-      "t": "Who found out",
-      "b": "Christina Khodadad and Gioia Massa led the study at NASA's Kennedy Space Center in Florida. Their team included LaShelle Spencer, Mary Hummerick, Anirudha Dixit and others. Astronauts on the International Space Station, including Shane Kimbrough, grew and picked the lettuce. The study came out in 2020."
+     "w": "LED",
+     "m": "a small, bright light that uses little electricity"
     },
     {
-      "k": "how",
-      "t": "How they found out",
-      "b": "The lettuce, a red romaine called Outredgeous, grew in a small space garden called Veggie. Veggie is about as big as a cabin suitcase. Each plant grows in a soft pillow of clay and fertiliser. Pink LED lights shine on the plants. At the same time, the team grew the same lettuce in a copy of Veggie on Earth, to compare.",
-      "img": {
-        "src": "media/research/space-lettuce-2.jpg",
-        "alt": "Astronaut Shane Kimbrough picking red lettuce from a small garden glowing with pink light on the space station.",
-        "credit": "NASA/Shane Kimbrough (public domain)"
-      }
+     "w": "fertiliser",
+     "m": "food for plants that helps them grow"
     },
     {
-      "k": "found",
-      "t": "What they found",
-      "b": "The lettuce grew for 33 to 56 days. Astronauts ate some, and froze the rest to send back. In the labs, no germs that make people sick were found. The space lettuce had about the same goodness as the Earth lettuce. Some space plants even had a little more of some minerals, such as potassium and zinc.",
-      "img": {
-        "src": "media/research/space-lettuce-3.jpg",
-        "alt": "A NASA scientist cutting red lettuce leaves from a plant growing in a lab on Earth.",
-        "credit": "NASA/Cory Huston (public domain)"
-      }
+     "w": "nutrients",
+     "m": "the good things in food, like vitamins and minerals, that bodies need"
     },
     {
-      "k": "sure",
-      "t": "How sure are they?",
-      "b": "The team tested only a small number of plants. So they say their results are a good start, not the final answer. Each crop came out a little different, and the space and Earth plants did not match in every way. NASA keeps growing and testing more crops in space."
-    },
-    {
-      "k": "why",
-      "t": "Why it matters",
-      "b": "Fresh food could keep astronauts healthy on trips that last years. Plants also cheer people up. Astronauts say caring for green, growing things in space makes them happier. Since then, astronauts have grown cabbage, kale, flowers and even chilli peppers on the space station."
-    },
-    {
-      "k": "try",
-      "t": "Try it at home",
-      "b": "Space plants grow without soil, in a pillow of clay. Try growing without soil. Harini puts some methi seeds on wet cotton wool in a small steel bowl. She keeps the cotton damp, not flooded, and puts the bowl near a window. How many days until the sprouts appear? Wash them well before eating."
-    },
-    {
-      "k": "think",
-      "t": "Think about it",
-      "b": "Astronauts were allowed to eat only part of each crop. The rest went to scientists for testing. If you grew the first lettuce on Mars, would you eat the leaves, or save them for science? Sneha would eat them to keep healthy. Her brother would save them to learn more. What would you choose?"
-    },
-    {
-      "k": "words",
-      "t": "New words",
-      "words": [
-        {
-          "w": "microgravity",
-          "m": "the floaty feeling in space, where things seem to weigh almost nothing"
-        },
-        {
-          "w": "LED",
-          "m": "a small, bright light that uses little electricity"
-        },
-        {
-          "w": "fertiliser",
-          "m": "food for plants that helps them grow"
-        },
-        {
-          "w": "nutrients",
-          "m": "the good things in food, like vitamins and minerals, that bodies need"
-        },
-        {
-          "w": "germs",
-          "m": "tiny living things, some of which can make people sick"
-        }
-      ]
+     "w": "germs",
+     "m": "tiny living things, some of which can make people sick"
     }
-  ]
+   ]
+  }
+ ]
 }

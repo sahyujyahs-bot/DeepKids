@@ -1,116 +1,116 @@
 {
-  "id": "raman-blue-sea-light",
-  "title": "Why is the sea blue? The question that led C. V. Raman to a Nobel Prize",
-  "blurb": "On a ship in 1921, C. V. Raman wondered why the sea was so blue. In Kolkata in 1928, he and K. S. Krishnan found that light can change colour when it meets molecules.",
-  "topics": [
-    "sci.light.colour.L3",
-    "sci.light.what-is-light.L3",
-    "sci.the-very-small.atoms.L3"
-  ],
-  "tags": [
-    "light",
-    "colour",
-    "sea",
-    "India"
-  ],
+ "id": "raman-blue-sea-light",
+ "title": "Why is the sea blue? The question that led C. V. Raman to a Nobel Prize",
+ "blurb": "On a ship in 1921, C. V. Raman wondered why the sea was so blue. In Kolkata in 1928, he and K. S. Krishnan found that light can change colour when it meets molecules.",
+ "topics": [
+  "sci.light.colour.L3",
+  "sci.light.what-is-light.L3",
+  "sci.the-very-small.atoms.L3"
+ ],
+ "tags": [
+  "light",
+  "colour",
+  "sea",
+  "India"
+ ],
+ "year": 1928,
+ "mins": 6,
+ "cover": {
+  "src": "media/research/raman-blue-sea-light-1.jpg",
+  "alt": "The blue Mediterranean Sea and the Strait of Gibraltar, photographed from the space shuttle Challenger",
+  "credit": "NASA (photo 41G-120-082, 1984), public domain"
+ },
+ "source": {
+  "name": "IISER Pune (essay by G. V. Pavan Kumar)",
+  "title": "C.V. Raman as a Science Communicator: A Historical Perspective",
+  "authors": "G. V. Pavan Kumar",
+  "year": 2024,
+  "url": "https://arxiv.org/abs/2403.04773",
+  "license": "facts retold in our own words"
+ },
+ "original": {
+  "title": "A New Type of Secondary Radiation",
+  "authors": "C. V. Raman, K. S. Krishnan",
+  "journal": "Nature",
   "year": 1928,
-  "mins": 6,
-  "cover": {
-    "src": "media/research/raman-blue-sea-light-1.jpg",
-    "alt": "The blue Mediterranean Sea and the Strait of Gibraltar, photographed from the space shuttle Challenger",
-    "credit": "NASA (photo 41G-120-082, 1984), public domain"
+  "url": "https://doi.org/10.1038/121501c0"
+ },
+ "cards": [
+  {
+   "k": "q",
+   "t": "The question",
+   "b": "In the summer of 1921, C. V. Raman, a scientist from India, sailed to Europe. On the way he saw the Mediterranean Sea glowing a wonderful blue. Why is the sea so blue? Raman guessed that water is made of tiny pieces called molecules, and that they scatter sunlight, which means they send it off in all directions. How could he test that idea?"
   },
-  "source": {
-    "name": "IISER Pune (essay by G. V. Pavan Kumar)",
-    "title": "C.V. Raman as a Science Communicator: A Historical Perspective",
-    "authors": "G. V. Pavan Kumar",
-    "year": 2024,
-    "url": "https://arxiv.org/abs/2403.04773",
-    "license": "facts retold in our own words"
+  {
+   "k": "who",
+   "t": "Who found out",
+   "b": "C. V. Raman was a physicist, a scientist who studies light, energy and matter, in Kolkata, then called Calcutta. He worked with his students, especially K. S. Krishnan, and also S. Venkateswaran and others. The big moment came on 28 February 1928. Raman won the 1930 Nobel Prize in Physics for his work on how light scatters."
   },
-  "original": {
-    "title": "A New Type of Secondary Radiation",
-    "authors": "C. V. Raman, K. S. Krishnan",
-    "journal": "Nature",
-    "year": 1928,
-    "url": "https://doi.org/10.1038/121501c0"
+  {
+   "k": "how",
+   "t": "How they found out",
+   "b": "Raman got back to Kolkata in September 1921, and his group began studying how light scatters in liquids. There were no lasers then, so they used sunlight and coloured filters. A filter is a coloured sheet that lets only one colour of light through. They shone this light into clear liquids and studied the light that scattered. For years a faint extra glow puzzled them. At first they thought it came from dirt in the liquids."
   },
-  "cards": [
+  {
+   "k": "found",
+   "t": "What they found",
+   "b": "On 28 February 1928, Raman and Krishnan saw it clearly. A small part of the scattered light came out a different colour from the light that went in. Some of the light's energy had been passed to the molecules. Careful tests showed this was not fluorescence, the ordinary glow of something that takes in light and gives out another colour. It is now called the Raman effect."
+  },
+  {
+   "k": "sure",
+   "t": "How sure are they?",
+   "b": "The Raman effect is used by scientists all over the world today, so it has been tested again and again. But Raman knew it was only a start. He wrote that they were only at the edge of a fascinating new area of research. It all remained to be worked out, he said.",
+   "img": {
+    "src": "media/research/raman-blue-sea-light-3.jpg",
+    "alt": "A test map made by SHERLOC, where each colour shows a different mineral on a rock's surface",
+    "credit": "NASA/JPL-Caltech, public domain"
+   }
+  },
+  {
+   "k": "why",
+   "t": "Why it matters",
+   "b": "Different materials change the light in different ways, so the Raman effect helps tell what something is made of. NASA's Perseverance rover, a robot car on Mars, carries an instrument called SHERLOC. Its name includes Raman, and it uses a laser, a very narrow beam of light, to find minerals in rocks. India marks National Science Day every 28 February, for this discovery.",
+   "img": {
+    "src": "media/research/raman-blue-sea-light-2.jpg",
+    "alt": "Close-up of the SHERLOC instrument at the end of the Mars rover's robotic arm",
+    "credit": "NASA/JPL-Caltech, public domain"
+   }
+  },
+  {
+   "k": "try",
+   "t": "Try it at home",
+   "b": "Watch light scatter, as Raman studied. In a dark room, fill a clear glass tumbler with water and stir in three drops of milk. The milk makes tiny specks that scatter light. Ask someone to shine a phone torch through the side of the glass. Look at the glow from the side. What colour is it? Now look from the far side, beside the beam. Does the colour change?"
+  },
+  {
+   "k": "think",
+   "t": "Think about it",
+   "b": "Raman started with a simple question on a ship: why is the sea blue? It led to a Nobel Prize. Do big discoveries usually start with big questions, or with small, everyday ones? What everyday thing would you like to ask why about?"
+  },
+  {
+   "k": "words",
+   "t": "New words",
+   "words": [
     {
-      "k": "q",
-      "t": "The question",
-      "b": "In the summer of 1921, C. V. Raman sailed to Europe. On the way he saw the Mediterranean Sea glowing a wonderful blue. Why is the sea so blue? Raman guessed that the tiny particles of water, called molecules, might be scattering sunlight, sending it off in all directions. How could he test that idea?"
+     "w": "scattering",
+     "m": "when light hits tiny particles and bounces off in many directions"
     },
     {
-      "k": "who",
-      "t": "Who found out",
-      "b": "C. V. Raman was a physicist in Kolkata, then called Calcutta. He worked with his students, especially K. S. Krishnan, and also S. Venkateswaran and others. The big moment came on 28 February 1928. Raman won the 1930 Nobel Prize in Physics for his work on how light scatters."
+     "w": "molecule",
+     "m": "the tiniest piece of a substance, like water, made of atoms joined together"
     },
     {
-      "k": "how",
-      "t": "How they found out",
-      "b": "Raman got back to Kolkata in September 1921, and his group began studying how light scatters in liquids. There were no lasers then. They used sunlight and coloured filters, which let only one colour through. They shone this light into clear liquids and studied the light that scattered. For years a faint extra glow puzzled them. At first they thought it came from dirt in the liquids."
+     "w": "filter",
+     "m": "a coloured sheet that lets only one colour of light through"
     },
     {
-      "k": "found",
-      "t": "What they found",
-      "b": "On 28 February 1928, Raman and Krishnan saw it clearly. A small part of the scattered light came out a different colour from the light that went in. Some of the light's energy had been passed to the molecules. Careful tests showed this was not ordinary glowing, called fluorescence. It is now called the Raman effect."
+     "w": "fluorescence",
+     "m": "when something takes in light and glows with a different colour"
     },
     {
-      "k": "sure",
-      "t": "How sure are they?",
-      "b": "The Raman effect is used by scientists all over the world today, so it has been tested again and again. But Raman knew it was only a start. He wrote that they were only at the edge of a fascinating new area of research. It all remained to be worked out, he said.",
-      "img": {
-        "src": "media/research/raman-blue-sea-light-3.jpg",
-        "alt": "A test map made by SHERLOC, where each colour shows a different mineral on a rock's surface",
-        "credit": "NASA/JPL-Caltech, public domain"
-      }
-    },
-    {
-      "k": "why",
-      "t": "Why it matters",
-      "b": "Different materials change the light in different ways, so the Raman effect helps tell what something is made of. NASA's Perseverance rover on Mars carries an instrument called SHERLOC. Its name includes Raman, and it uses a laser to find minerals in rocks. India marks National Science Day every 28 February, for this discovery.",
-      "img": {
-        "src": "media/research/raman-blue-sea-light-2.jpg",
-        "alt": "Close-up of the SHERLOC instrument at the end of the Mars rover's robotic arm",
-        "credit": "NASA/JPL-Caltech, public domain"
-      }
-    },
-    {
-      "k": "try",
-      "t": "Try it at home",
-      "b": "Watch light scatter. In a dark room, Nithya fills a clear glass tumbler with water and stirs in three drops of milk. Her mother shines a phone torch through the side of the glass. Look at the glass from the side. What colour is the glow? Now look from the far side, beside the beam, not into the torch. Does the colour change?"
-    },
-    {
-      "k": "think",
-      "t": "Think about it",
-      "b": "Raman started with a simple question on a ship: why is the sea blue? It led to a Nobel Prize. Do big discoveries usually start with big questions, or with small, everyday ones? What everyday thing would you like to ask why about?"
-    },
-    {
-      "k": "words",
-      "t": "New words",
-      "words": [
-        {
-          "w": "scattering",
-          "m": "when light hits tiny particles and bounces off in many directions"
-        },
-        {
-          "w": "molecule",
-          "m": "the tiniest piece of a substance, like water, made of atoms joined together"
-        },
-        {
-          "w": "filter",
-          "m": "a coloured sheet that lets only one colour of light through"
-        },
-        {
-          "w": "fluorescence",
-          "m": "when something takes in light and glows with a different colour"
-        },
-        {
-          "w": "Raman effect",
-          "m": "a small part of scattered light changing colour as it gives energy to molecules"
-        }
-      ]
+     "w": "Raman effect",
+     "m": "a small part of scattered light changing colour as it gives energy to molecules"
     }
-  ]
+   ]
+  }
+ ]
 }

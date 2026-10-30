@@ -1,116 +1,116 @@
 {
-  "id": "godwit-nonstop-flight",
-  "title": "How far can a bird fly without stopping?",
-  "blurb": "Scientists tracked bar-tailed godwits flying from Alaska to New Zealand over the Pacific Ocean. They did not stop once, for up to nine days.",
-  "topics": [
-    "sci.animals.animal-bodies.L3",
-    "sci.forces.flight.L3",
-    "sci.habitats.adaptations.L3"
-  ],
-  "tags": [
-    "birds",
-    "migration",
-    "flying",
-    "ocean"
-  ],
+ "id": "godwit-nonstop-flight",
+ "title": "How far can a bird fly without stopping?",
+ "blurb": "Scientists tracked bar-tailed godwits flying from Alaska to New Zealand over the Pacific Ocean. They did not stop once, for up to nine days.",
+ "topics": [
+  "sci.animals.animal-bodies.L3",
+  "sci.forces.flight.L3",
+  "sci.habitats.adaptations.L3"
+ ],
+ "tags": [
+  "birds",
+  "migration",
+  "flying",
+  "ocean"
+ ],
+ "year": 2009,
+ "mins": 5,
+ "cover": {
+  "src": "media/research/godwit-nonstop-flight-1.jpg",
+  "alt": "A flock of bar-tailed godwits, long-billed brown shorebirds, flying across a pale blue sky.",
+  "credit": "Kristine Sowl/USFWS (public domain)"
+ },
+ "source": {
+  "name": "US Geological Survey",
+  "title": "Extreme endurance flights by landbirds crossing the Pacific Ocean: ecological corridor rather than barrier? (USGS publication record)",
+  "authors": "Robert E. Gill Jr. and others, USGS Alaska Science Center",
   "year": 2009,
-  "mins": 5,
-  "cover": {
-    "src": "media/research/godwit-nonstop-flight-1.jpg",
-    "alt": "A flock of bar-tailed godwits, long-billed brown shorebirds, flying across a pale blue sky.",
+  "url": "https://pubs.usgs.gov/publication/70032752",
+  "license": "Public domain (US government work)"
+ },
+ "original": {
+  "title": "Extreme endurance flights by landbirds crossing the Pacific Ocean: ecological corridor rather than barrier?",
+  "authors": "Robert E. Gill, T. Lee Tibbitts, David C. Douglas, Colleen M. Handel and others, with Theunis Piersma",
+  "journal": "Proceedings of the Royal Society B",
+  "year": 2009,
+  "url": "https://doi.org/10.1098/rspb.2008.1142"
+ },
+ "cards": [
+  {
+   "k": "q",
+   "t": "The question",
+   "b": "Bar-tailed godwits are shorebirds with long beaks. Some lay their eggs in Alaska, in the far north. Each autumn they make a long yearly journey, called migration, to New Zealand and eastern Australia, on the other side of the world. In between lies the huge Pacific Ocean, with nowhere to rest. Do they really fly across it all in one go?"
+  },
+  {
+   "k": "who",
+   "t": "Who found out",
+   "b": "Robert Gill of the US Geological Survey's Alaska Science Center led the study. Lee Tibbitts, David Douglas and Colleen Handel were on the team. Phil Battley from New Zealand and Theunis Piersma from the Netherlands joined them. They followed the birds' long autumn flights and published the results in 2009."
+  },
+  {
+   "k": "how",
+   "t": "How they found out",
+   "b": "The team caught some godwits and fitted them with small satellite transmitters. A transmitter is a device that sends out signals. In seven females, a small operation placed the transmitter inside the body. Two males carried one on the outside. The signals went to satellites, so the scientists could follow each bird across the ocean on a map, day after day.",
+   "img": {
+    "src": "media/research/godwit-nonstop-flight-2.jpg",
+    "alt": "A bar-tailed godwit with a long, slightly upturned beak, standing on a muddy shore.",
     "credit": "Kristine Sowl/USFWS (public domain)"
+   }
   },
-  "source": {
-    "name": "US Geological Survey",
-    "title": "Extreme endurance flights by landbirds crossing the Pacific Ocean: ecological corridor rather than barrier? (USGS publication record)",
-    "authors": "Robert E. Gill Jr. and others, USGS Alaska Science Center",
-    "year": 2009,
-    "url": "https://pubs.usgs.gov/publication/70032752",
-    "license": "Public domain (US government work)"
+  {
+   "k": "found",
+   "t": "What they found",
+   "b": "The females flew straight across the Pacific without stopping, for 8,117 to 11,680 kilometres. Their flights lasted 6 to more than 9 days. They did not eat, drink or land. The two males flew the same way for about 7,000 kilometres. It was the longest non-stop bird flight anyone had ever measured.",
+   "img": {
+    "src": "media/research/godwit-nonstop-flight-3.jpg",
+    "alt": "A single bar-tailed godwit flying with wings spread above snowy ground.",
+    "credit": "Casey Setash/USFWS (public domain)"
+   }
   },
-  "original": {
-    "title": "Extreme endurance flights by landbirds crossing the Pacific Ocean: ecological corridor rather than barrier?",
-    "authors": "Robert E. Gill, T. Lee Tibbitts, David C. Douglas, Colleen M. Handel and others, with Theunis Piersma",
-    "journal": "Proceedings of the Royal Society B",
-    "year": 2009,
-    "url": "https://doi.org/10.1098/rspb.2008.1142"
+  {
+   "k": "sure",
+   "t": "How sure are they?",
+   "b": "The satellite tracks are very clear, so scientists are sure these birds flew non-stop. But only nine birds carried trackers. Scientists also do not fully understand how a bird can stay awake, find the way, and last without water for so long. Those questions need more research."
   },
-  "cards": [
+  {
+   "k": "why",
+   "t": "Why it matters",
+   "b": "Before the flight, godwits feed a lot on the mudflats of Alaska and store fat as fuel. A mudflat is a wide, muddy shore that the sea covers and uncovers. Winds over the ocean help push the birds along. So the study shows how much they depend on those feeding grounds and on the weather. If either changes, their journey could get harder."
+  },
+  {
+   "k": "try",
+   "t": "Try it at home",
+   "b": "Find out how long a godwit's flight is. Look at a globe or a world map. Find Alaska and New Zealand, and trace a line between them with your finger. Then find Chennai and Delhi and trace that line. Chennai to Delhi is less than 2,000 kilometres. The godwits flew 8,000 kilometres or more. About how many Chennai-to-Delhi trips would fit in one godwit flight?"
+  },
+  {
+   "k": "think",
+   "t": "Think about it",
+   "b": "To track the birds, scientists had to catch them and put trackers inside some of them. This taught us a lot about how to protect godwits. Is it fair to disturb a few animals to help many? Where would you draw the line?"
+  },
+  {
+   "k": "words",
+   "t": "New words",
+   "words": [
     {
-      "k": "q",
-      "t": "The question",
-      "b": "Bar-tailed godwits are shorebirds with long beaks. Some lay their eggs in Alaska, in the far north. Each autumn they go to New Zealand and eastern Australia, on the other side of the world. In between lies the huge Pacific Ocean, with no place for them to rest. Do they really fly across it all in one go?"
+     "w": "migration",
+     "m": "a long journey animals make each year between two places"
     },
     {
-      "k": "who",
-      "t": "Who found out",
-      "b": "Robert Gill of the US Geological Survey's Alaska Science Center led the study. Lee Tibbitts, David Douglas and Colleen Handel were on the team. Phil Battley from New Zealand and Theunis Piersma from the Netherlands joined them. They followed the birds' long autumn flights and published the results in 2009."
+     "w": "shorebird",
+     "m": "a bird that feeds on beaches and muddy shores"
     },
     {
-      "k": "how",
-      "t": "How they found out",
-      "b": "The team caught some godwits and fitted them with small satellite transmitters. In seven females, a small operation placed the transmitter inside the body. Two males carried one outside. The transmitters sent signals to satellites, so the scientists could follow each bird across the ocean on a map, day after day.",
-      "img": {
-        "src": "media/research/godwit-nonstop-flight-2.jpg",
-        "alt": "A bar-tailed godwit with a long, slightly upturned beak, standing on a muddy shore.",
-        "credit": "Kristine Sowl/USFWS (public domain)"
-      }
+     "w": "transmitter",
+     "m": "a small device that sends out signals"
     },
     {
-      "k": "found",
-      "t": "What they found",
-      "b": "The females flew straight across the Pacific without stopping, for 8,117 to 11,680 kilometres. Their flights lasted 6 to more than 9 days. They did not eat, drink or land. The two males flew the same way for about 7,000 kilometres. This was the longest non-stop bird flight anyone had ever measured.",
-      "img": {
-        "src": "media/research/godwit-nonstop-flight-3.jpg",
-        "alt": "A single bar-tailed godwit flying with wings spread above snowy ground.",
-        "credit": "Casey Setash/USFWS (public domain)"
-      }
+     "w": "non-stop",
+     "m": "without stopping or resting even once"
     },
     {
-      "k": "sure",
-      "t": "How sure are they?",
-      "b": "The satellite tracks are very clear, so scientists are sure these birds flew non-stop. But only nine birds carried trackers. Scientists still do not fully understand how a bird stays awake, finds the way, and lasts without water for so long. Those questions need more research."
-    },
-    {
-      "k": "why",
-      "t": "Why it matters",
-      "b": "Before the flight, godwits feed a lot on the mudflats of Alaska and store fat as fuel. Winds over the ocean help push them along. The study shows how much they depend on those feeding grounds and on the weather. If either changes, their long journey could get harder."
-    },
-    {
-      "k": "try",
-      "t": "Try it at home",
-      "b": "Look at a globe or a world map with a parent. Bhavana finds Alaska and New Zealand, and traces a line between them with her finger. Then she finds her own city. How far is it from Chennai to Delhi on the map? Is the godwit's flight longer or shorter? About how many times?"
-    },
-    {
-      "k": "think",
-      "t": "Think about it",
-      "b": "To track the birds, scientists had to catch them and put trackers inside some of them. This taught us a lot about how to protect godwits. Is it fair to disturb a few animals to help many? Where would you draw the line? Lavanya and her teacher have different answers. What is yours?"
-    },
-    {
-      "k": "words",
-      "t": "New words",
-      "words": [
-        {
-          "w": "migration",
-          "m": "a long journey animals make each year between two places"
-        },
-        {
-          "w": "shorebird",
-          "m": "a bird that feeds on beaches and muddy shores"
-        },
-        {
-          "w": "transmitter",
-          "m": "a small device that sends out signals"
-        },
-        {
-          "w": "non-stop",
-          "m": "without stopping or resting even once"
-        },
-        {
-          "w": "mudflat",
-          "m": "a wide, flat, muddy shore that the sea covers and uncovers"
-        }
-      ]
+     "w": "mudflat",
+     "m": "a wide, flat, muddy shore that the sea covers and uncovers"
     }
-  ]
+   ]
+  }
+ ]
 }

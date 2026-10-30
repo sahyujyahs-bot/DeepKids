@@ -1,109 +1,109 @@
 {
-  "id": "ingenuity-last-flight",
-  "title": "Why did the little helicopter on Mars stop flying?",
-  "blurb": "Ingenuity flew 72 times on Mars. Then it crashed. Engineers worked out why, from 100 million miles away, with no one there to see.",
-  "topics": [
-    "sci.forces.flight.L3",
-    "sci.sky.exploring-space.L3",
-    "sci.light.how-we-see.L3"
-  ],
-  "tags": [
-    "Mars",
-    "helicopter",
-    "flying",
-    "robots"
-  ],
+ "id": "ingenuity-last-flight",
+ "title": "Why did the little helicopter on Mars stop flying?",
+ "blurb": "Ingenuity flew 72 times on Mars. Then it crashed. Engineers worked out why, from 100 million miles away, with no one there to see.",
+ "topics": [
+  "sci.forces.flight.L3",
+  "sci.sky.exploring-space.L3",
+  "sci.light.how-we-see.L3"
+ ],
+ "tags": [
+  "Mars",
+  "helicopter",
+  "flying",
+  "robots"
+ ],
+ "year": 2024,
+ "mins": 6,
+ "cover": {
+  "src": "media/research/ingenuity-last-flight-1.jpg",
+  "alt": "The small Ingenuity helicopter standing on reddish Martian ground, with part of the Perseverance rover in front.",
+  "credit": "NASA/JPL-Caltech/MSSS (public domain)"
+ },
+ "source": {
+  "name": "NASA",
+  "title": "NASA Performs First Aircraft Accident Investigation on Another World",
+  "authors": "NASA Jet Propulsion Laboratory",
   "year": 2024,
-  "mins": 6,
-  "cover": {
-    "src": "media/research/ingenuity-last-flight-1.jpg",
-    "alt": "The small Ingenuity helicopter standing on reddish Martian ground, with part of the Perseverance rover in front.",
-    "credit": "NASA/JPL-Caltech/MSSS (public domain)"
+  "url": "https://www.nasa.gov/missions/mars-2020-perseverance/ingenuity-helicopter/nasa-performs-first-aircraft-accident-investigation-on-another-world/",
+  "license": "Public domain (US government work)"
+ },
+ "cards": [
+  {
+   "k": "q",
+   "t": "The question",
+   "b": "Ingenuity was a tiny helicopter, about 49 centimetres tall. It travelled to Mars under the Perseverance rover, a robot car that drives around on another planet. Ingenuity was the first aircraft to fly on another planet. It was planned to fly 5 times, but it flew 72 times, over almost three years. On its last flight, its blades broke. What went wrong?"
   },
-  "source": {
-    "name": "NASA",
-    "title": "NASA Performs First Aircraft Accident Investigation on Another World",
-    "authors": "NASA Jet Propulsion Laboratory",
-    "year": 2024,
-    "url": "https://www.nasa.gov/missions/mars-2020-perseverance/ingenuity-helicopter/nasa-performs-first-aircraft-accident-investigation-on-another-world/",
-    "license": "Public domain (US government work)"
+  {
+   "k": "who",
+   "t": "Who found out",
+   "b": "Engineers at NASA's Jet Propulsion Laboratory in California, with the company AeroVironment, studied the last flight. Håvard Grip was Ingenuity's first pilot. Teddy Tzanetos was the project manager at the end. MiMi Aung led the project when Ingenuity first flew in 2021. They shared their findings in December 2024."
   },
-  "cards": [
+  {
+   "k": "how",
+   "t": "How they found out",
+   "b": "Nobody was there to see it, and a plane's black box, which records a flight, was missing. So the team studied the data and pictures Ingenuity sent back. Ingenuity found her way with a camera that looked down at the ground. It tracked pebbles and bumps, the way you watch the road go by from a bus window. On the last flight, the ground below was smooth sand ripples, which are small wavy hills made by wind.",
+   "img": {
+    "src": "media/research/ingenuity-last-flight-2.jpg",
+    "alt": "A black and white view from above of smooth, wavy sand ripples on Mars, with the helicopter's shadow.",
+    "credit": "NASA/JPL-Caltech (public domain)"
+   }
+  },
+  {
+   "k": "found",
+   "t": "What they found",
+   "b": "About 20 seconds into the flight, the camera could not find enough bumps on the smooth sand to follow. So Ingenuity got her speed wrong. She landed while still sliding sideways, and hit the slope of a ripple hard. She tipped and rolled. All four spinning blades snapped near their tips.",
+   "img": {
+    "src": "media/research/ingenuity-last-flight-3.jpg",
+    "alt": "A drawing showing the helicopter coming down, hitting a sand slope, tipping over and losing parts of its blades.",
+    "credit": "NASA/JPL-Caltech (public domain)"
+   }
+  },
+  {
+   "k": "sure",
+   "t": "How sure are they?",
+   "b": "The team says this is the most likely story, not the only possible one. They had only the helicopter's own data and photos. Other things could have happened too. A later photo from the rover showed a broken piece of blade lying about 15 metres away, which fits their story."
+  },
+  {
+   "k": "why",
+   "t": "Why it matters",
+   "b": "Air on Mars is very thin, about one hundredth as thick as ours. Ingenuity proved a helicopter can still fly there. Now engineers know future helicopters need better ways to see smooth ground. NASA is already planning a bigger Mars helicopter that could carry science tools to places rovers cannot reach."
+  },
+  {
+   "k": "try",
+   "t": "Try it at home",
+   "b": "Test what Ingenuity's camera found hard. Put a plain white sheet of paper on a table. Look straight down at it, close enough that it fills your view, while someone slides it slowly. Can you tell how fast it moves? Now draw dots all over it and slide it again. Is it easier to tell? Smooth sand has nothing to follow, as the plain paper has none. Bumps and pebbles are like the dots."
+  },
+  {
+   "k": "think",
+   "t": "Think about it",
+   "b": "Ingenuity was planned to fly only 5 times. The team kept flying her until she broke. Was that brave, or risky? One view says you learn the most by pushing until something fails. Another says you should stop while things still work. Which would you choose?"
+  },
+  {
+   "k": "words",
+   "t": "New words",
+   "words": [
     {
-      "k": "q",
-      "t": "The question",
-      "b": "Ingenuity was a tiny helicopter, about 49 cm tall, that rode to Mars under the Perseverance rover. It was the first aircraft to fly on another planet. It was planned to fly 5 times. It flew 72 times, over almost three years. On its last flight, its blades broke. What went wrong?"
+     "w": "rover",
+     "m": "a robot car that drives around on another planet"
     },
     {
-      "k": "who",
-      "t": "Who found out",
-      "b": "Engineers at NASA's Jet Propulsion Laboratory in California, with the company AeroVironment, studied the last flight. Håvard Grip was Ingenuity's first pilot. Teddy Tzanetos was the project manager at the end. MiMi Aung led the project when Ingenuity first flew in 2021. They shared their findings in December 2024."
+     "w": "rotor blades",
+     "m": "the long, thin wings that spin on top of a helicopter"
     },
     {
-      "k": "how",
-      "t": "How they found out",
-      "b": "There was no black box and no one watching. So the team studied the data Ingenuity sent back, and its pictures. Ingenuity found its way with a camera looking down at the ground. It tracked pebbles and bumps, like you watch the road from a bus window. On the last flight, the ground below was smooth sand ripples.",
-      "img": {
-        "src": "media/research/ingenuity-last-flight-2.jpg",
-        "alt": "A black and white view from above of smooth, wavy sand ripples on Mars, with the helicopter's shadow.",
-        "credit": "NASA/JPL-Caltech (public domain)"
-      }
+     "w": "navigation",
+     "m": "finding your way and knowing where you are going"
     },
     {
-      "k": "found",
-      "t": "What they found",
-      "b": "About 20 seconds into the flight, the camera could not find enough bumps on the smooth sand to follow. So Ingenuity got its speed wrong. It landed while still sliding sideways, and hit the slope of a ripple hard. It tipped and rolled. All four spinning blades snapped near their tips.",
-      "img": {
-        "src": "media/research/ingenuity-last-flight-3.jpg",
-        "alt": "A drawing showing the helicopter coming down, hitting a sand slope, tipping over and losing parts of its blades.",
-        "credit": "NASA/JPL-Caltech (public domain)"
-      }
+     "w": "sand ripple",
+     "m": "a small wavy hill of sand made by wind"
     },
     {
-      "k": "sure",
-      "t": "How sure are they?",
-      "b": "The team says this is the most likely story, not the only possible one. They had only the helicopter's own data and photos. Other things could have happened too. A later photo from the rover showed a broken piece of blade lying about 15 metres away, which fits their story."
-    },
-    {
-      "k": "why",
-      "t": "Why it matters",
-      "b": "Air on Mars is very thin, about one hundredth as thick as ours. Ingenuity proved a helicopter can still fly there. Now engineers know future helicopters need better ways to see smooth ground. NASA is already planning a bigger Mars helicopter that could carry science tools to places rovers cannot reach."
-    },
-    {
-      "k": "try",
-      "t": "Try it at home",
-      "b": "Lakshmi looks down at a plain white sheet of paper and slides it slowly. Can she tell how fast it moves? Now she draws dots all over it and slides it again. Is it easier to tell? This is why Ingenuity's camera needed bumps and pebbles to follow."
-    },
-    {
-      "k": "think",
-      "t": "Think about it",
-      "b": "Ingenuity was planned to fly only 5 times. The team kept flying it until it broke. Was that brave, or risky? Farhana says you learn the most by pushing until something fails. Her friend says you should stop while things still work. Which one would you be?"
-    },
-    {
-      "k": "words",
-      "t": "New words",
-      "words": [
-        {
-          "w": "rover",
-          "m": "a robot car that drives around on another planet"
-        },
-        {
-          "w": "rotor blades",
-          "m": "the long, thin wings that spin on top of a helicopter"
-        },
-        {
-          "w": "navigation",
-          "m": "finding your way and knowing where you are going"
-        },
-        {
-          "w": "sand ripple",
-          "m": "a small wavy hill of sand made by wind"
-        },
-        {
-          "w": "atmosphere",
-          "m": "the layer of air around a planet"
-        }
-      ]
+     "w": "atmosphere",
+     "m": "the layer of air around a planet"
     }
-  ]
+   ]
+  }
+ ]
 }

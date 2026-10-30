@@ -1,112 +1,112 @@
 {
-  "id": "toddlers-chimps-help",
-  "title": "Do toddlers and chimpanzees help others without a reward?",
-  "blurb": "Scientists from the Max Planck Institute in Leipzig dropped things just out of reach. Toddlers and chimpanzees handed them back, even when they got nothing for it.",
-  "topics": [
-    "sci.me-and-others.me-and-others.L3",
-    "sci.animals.animal-minds.L3",
-    "sci.health.feelings-and-wellbeing.L3"
-  ],
-  "tags": [
-    "babies",
-    "chimpanzees",
-    "kindness",
-    "helping"
-  ],
+ "id": "toddlers-chimps-help",
+ "title": "Do toddlers and chimpanzees help others without a reward?",
+ "blurb": "Scientists from the Max Planck Institute in Leipzig dropped things just out of reach. Toddlers and chimpanzees handed them back, even when they got nothing for it.",
+ "topics": [
+  "sci.me-and-others.me-and-others.L3",
+  "sci.animals.animal-minds.L3",
+  "sci.health.feelings-and-wellbeing.L3"
+ ],
+ "tags": [
+  "babies",
+  "chimpanzees",
+  "kindness",
+  "helping"
+ ],
+ "year": 2007,
+ "mins": 6,
+ "cover": {
+  "src": "media/research/toddlers-chimps-help-1.jpg",
+  "alt": "Close-up of a chimpanzee's face in a forest in Uganda, with brown eyes and dark hair.",
+  "credit": "Wairambar Rainforest, CC BY 4.0, via iNaturalist"
+ },
+ "source": {
+  "name": "PLOS Biology (research paper)",
+  "title": "Spontaneous Altruism by Chimpanzees and Young Children",
+  "authors": "Felix Warneken, Brian Hare, Alicia P. Melis, Daniel Hanus, Michael Tomasello",
   "year": 2007,
-  "mins": 6,
-  "cover": {
-    "src": "media/research/toddlers-chimps-help-1.jpg",
-    "alt": "Close-up of a chimpanzee's face in a forest in Uganda, with brown eyes and dark hair.",
-    "credit": "Wairambar Rainforest, CC BY 4.0, via iNaturalist"
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1896184/",
+  "license": "facts retold in our own words"
+ },
+ "original": {
+  "title": "Spontaneous Altruism by Chimpanzees and Young Children",
+  "authors": "Warneken, F., Hare, B., Melis, A. P., Hanus, D., and Tomasello, M.",
+  "journal": "PLOS Biology",
+  "year": 2007,
+  "url": "https://doi.org/10.1371/journal.pbio.0050184"
+ },
+ "cards": [
+  {
+   "k": "q",
+   "t": "The question",
+   "b": "Many people thought only humans help others when there is nothing in it for them. Is that true? And is helping something we learn as we grow, or something even very young children do? Do our close cousins, the chimpanzees, help too?"
   },
-  "source": {
-    "name": "PLOS Biology (research paper)",
-    "title": "Spontaneous Altruism by Chimpanzees and Young Children",
-    "authors": "Felix Warneken, Brian Hare, Alicia P. Melis, Daniel Hanus, Michael Tomasello",
-    "year": 2007,
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1896184/",
-    "license": "facts retold in our own words"
+  {
+   "k": "who",
+   "t": "Who found out",
+   "b": "Felix Warneken and Michael Tomasello studied how children and apes think at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany. Brian Hare, Alicia Melis and Daniel Hanus worked with them. They tested young children, and chimpanzees at a sanctuary, a safe home for rescued animals, on Ngamba Island in Uganda. They published in 2007."
   },
-  "original": {
-    "title": "Spontaneous Altruism by Chimpanzees and Young Children",
-    "authors": "Warneken, F., Hare, B., Melis, A. P., Hanus, D., and Tomasello, M.",
-    "journal": "PLOS Biology",
-    "year": 2007,
-    "url": "https://doi.org/10.1371/journal.pbio.0050184"
+  {
+   "k": "how",
+   "t": "How they found out",
+   "b": "A grown-up the chimpanzees did not know reached for a stick he could not get. For the toddlers, who were 18 months old, a grown-up reached for a pencil on a table. Would they hand it over? Sometimes the helper got a reward, a piece of banana or a toy block. Sometimes they got nothing. In other tests, helping meant climbing up or stepping over soft toy snakes.",
+   "img": {
+    "src": "media/research/toddlers-chimps-help-2.jpg",
+    "alt": "Four simple plans of the test rooms, showing where the helper, the grown-up and the out-of-reach stick or pencil were.",
+    "credit": "Figure 1, Warneken et al., PLOS Biology 2007, CC BY 4.0"
+   }
   },
-  "cards": [
+  {
+   "k": "found",
+   "t": "What they found",
+   "b": "Both toddlers and chimpanzees handed over the object much more when the grown-up was reaching for it than when he was not. They helped just as much with no reward as with a reward. In another test, a chimpanzee could open a door for another chimpanzee to reach food. Many did, by pulling a pin that freed a chain.",
+   "img": {
+    "src": "media/research/toddlers-chimps-help-3.jpg",
+    "alt": "A plan of three rooms joined by doors held shut with chains. One chimpanzee can free the chain so another can get in.",
+    "credit": "Figure 4, Warneken et al., PLOS Biology 2007, CC BY 4.0"
+   }
+  },
+  {
+   "k": "sure",
+   "t": "How sure are they?",
+   "b": "The first test had 36 chimpanzees and 36 toddlers, which is a fair number. Toddlers often helped within the first 30 seconds. Chimpanzees helped too but were slower and needed more clues. Scientists still argue about how much chimpanzees care about others, so this is part of a bigger story."
+  },
+  {
+   "k": "why",
+   "t": "Why it matters",
+   "b": "Toddlers only one and a half years old helped a stranger without being asked or paid. So the wish to help may start very early, before children are taught to be kind. Chimpanzees share some of this. Helping may have deep roots, going back to a shared ancestor of humans and chimpanzees."
+  },
+  {
+   "k": "try",
+   "t": "Try it at home",
+   "b": "If there is a toddler in your family, try this with another grown-up watching. While hanging clothes, drop a peg and reach for it, but do not ask for help. Does the little one pick it up and give it to you? Another time, put a peg down and do not reach. Does the toddler still hand it over? In the study, toddlers helped much more when the grown-up was reaching."
+  },
+  {
+   "k": "think",
+   "t": "Think about it",
+   "b": "The toddlers helped even when they got no reward. Some people say a reward, like a sweet, makes children help more. Others say rewards spoil the good feeling of helping. What do you think? Why do you help someone when nobody is watching?"
+  },
+  {
+   "k": "words",
+   "t": "New words",
+   "words": [
     {
-      "k": "q",
-      "t": "The question",
-      "b": "Many people thought only humans help others when there is nothing in it for them. Is that true? And is helping something we learn as we grow, or something even very young children do? Do our close cousins, the chimpanzees, help too?"
+     "w": "altruism",
+     "m": "helping others even when you get nothing back"
     },
     {
-      "k": "who",
-      "t": "Who found out",
-      "b": "Felix Warneken and Michael Tomasello studied how children and apes think at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany. Brian Hare, Alicia Melis and Daniel Hanus worked with them. They tested chimpanzees at a sanctuary on Ngamba Island in Uganda, and also young children. They published in 2007."
+     "w": "reward",
+     "m": "something nice you get for doing something"
     },
     {
-      "k": "how",
-      "t": "How they found out",
-      "b": "A grown-up the chimpanzees did not know reached for a stick he could not get. For the 18-month-old toddlers, it was a pencil on a table. Would they hand it over? Sometimes the helper got a reward, a piece of banana or a toy block. Sometimes they got nothing. In other tests, helping meant climbing up or stepping over soft toy snakes.",
-      "img": {
-        "src": "media/research/toddlers-chimps-help-2.jpg",
-        "alt": "Four simple plans of the test rooms, showing where the helper, the grown-up and the out-of-reach stick or pencil were.",
-        "credit": "Figure 1, Warneken et al., PLOS Biology 2007, CC BY 4.0"
-      }
+     "w": "sanctuary",
+     "m": "a safe home where rescued animals are looked after"
     },
     {
-      "k": "found",
-      "t": "What they found",
-      "b": "Both toddlers and chimpanzees handed over the object much more when the grown-up was reaching for it. They helped just as much with no reward as with a reward. In another test, a chimpanzee could open a door for another chimpanzee to reach food. Many did, by pulling a pin that freed a chain.",
-      "img": {
-        "src": "media/research/toddlers-chimps-help-3.jpg",
-        "alt": "A plan of three rooms joined by doors held shut with chains. One chimpanzee can free the chain so another can get in.",
-        "credit": "Figure 4, Warneken et al., PLOS Biology 2007, CC BY 4.0"
-      }
-    },
-    {
-      "k": "sure",
-      "t": "How sure are they?",
-      "b": "The first test had 36 chimpanzees and 36 toddlers, which is a fair number. Toddlers often helped within the first 30 seconds. Chimpanzees helped too but were slower and needed more clues. Scientists still argue about how much chimpanzees care about others, so this is part of a bigger story."
-    },
-    {
-      "k": "why",
-      "t": "Why it matters",
-      "b": "Toddlers only one and a half years old helped a stranger without being asked or paid. So the wish to help may start very early, before children are taught to be kind. Chimpanzees share some of this. Helping may have deep roots, going back to a shared ancestor of humans and chimpanzees."
-    },
-    {
-      "k": "try",
-      "t": "Try it at home",
-      "b": "If there is a toddler in your family, try this with a parent watching. Fathima drops a peg while hanging clothes, and reaches for it, but cannot get it. She does not ask for help. Does the little one pick it up and give it to her? Next time she drops a peg on purpose. Does the toddler still help?"
-    },
-    {
-      "k": "think",
-      "t": "Think about it",
-      "b": "The toddlers helped even when they got no reward. Some people say a reward, like a sweet, makes children help more. Others say rewards spoil the good feeling of helping. What do you think? Why do you help someone when nobody is watching?"
-    },
-    {
-      "k": "words",
-      "t": "New words",
-      "words": [
-        {
-          "w": "altruism",
-          "m": "helping others even when you get nothing back"
-        },
-        {
-          "w": "reward",
-          "m": "something nice you get for doing something"
-        },
-        {
-          "w": "sanctuary",
-          "m": "a safe home where rescued animals are looked after"
-        },
-        {
-          "w": "ancestor",
-          "m": "a relative who lived long, long ago, before your grandparents' grandparents"
-        }
-      ]
+     "w": "ancestor",
+     "m": "a relative who lived long, long ago, before your grandparents' grandparents"
     }
-  ]
+   ]
+  }
+ ]
 }

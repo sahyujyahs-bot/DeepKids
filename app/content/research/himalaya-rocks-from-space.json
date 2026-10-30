@@ -1,116 +1,116 @@
 {
-  "id": "himalaya-rocks-from-space",
-  "title": "How do you map rocks on mountains nobody can climb?",
-  "blurb": "Parts of the north-western Himalaya are too high and rugged to visit. Geologists read the rocks from space, using light our eyes cannot see.",
-  "topics": [
-    "sci.earth.rocks.L3",
-    "sci.light.what-is-light.L3",
-    "sci.materials.what-is-it-made-of.L3"
-  ],
-  "tags": [
-    "rocks",
-    "Himalaya",
-    "earthquakes",
-    "satellites"
-  ],
+ "id": "himalaya-rocks-from-space",
+ "title": "How do you map rocks on mountains nobody can climb?",
+ "blurb": "Parts of the north-western Himalaya are too high and rugged to visit. Geologists read the rocks from space, using light our eyes cannot see.",
+ "topics": [
+  "sci.earth.rocks.L3",
+  "sci.light.what-is-light.L3",
+  "sci.materials.what-is-it-made-of.L3"
+ ],
+ "tags": [
+  "rocks",
+  "Himalaya",
+  "earthquakes",
+  "satellites"
+ ],
+ "year": 2018,
+ "mins": 6,
+ "cover": {
+  "src": "media/research/himalaya-rocks-from-space-1.jpg",
+  "alt": "A coloured map of rocks in part of the north-western Himalaya, with each colour showing a different kind of rock",
+  "credit": "Figure 2A, Bohon and Tripathy-Lang, Frontiers for Young Minds, CC BY 4.0"
+ },
+ "source": {
+  "name": "Frontiers for Young Minds",
+  "title": "Mapping Rocks From Space",
+  "authors": "Wendy Bohon, Alka Tripathy-Lang",
+  "year": 2024,
+  "url": "https://kids.frontiersin.org/articles/10.3389/frym.2024.1368101",
+  "license": "CC BY 4.0"
+ },
+ "original": {
+  "title": "Structural relationship between the Karakoram and Longmu Co fault systems, southwestern Tibetan Plateau, revealed by ASTER remote sensing",
+  "authors": "W. Bohon, K. V. Hodges, A. Tripathy-Lang, J. R. Arrowsmith, C. Edwards",
+  "journal": "Geosphere",
   "year": 2018,
-  "mins": 6,
-  "cover": {
-    "src": "media/research/himalaya-rocks-from-space-1.jpg",
-    "alt": "A coloured map of rocks in part of the north-western Himalaya, with each colour showing a different kind of rock",
-    "credit": "Figure 2A, Bohon and Tripathy-Lang, Frontiers for Young Minds, CC BY 4.0"
+  "url": "https://doi.org/10.1130/GES01515.1"
+ },
+ "cards": [
+  {
+   "k": "q",
+   "t": "The question",
+   "b": "Geologists, scientists who study rocks, make maps that show which rocks are where. Rocks tell the story of how mountains formed and where earthquakes happen. Usually geologists walk to the rocks. But parts of the north-western Himalaya, near the mountain K2, are too high, too rugged, or across closed borders. So how can you map rocks you cannot reach?"
   },
-  "source": {
-    "name": "Frontiers for Young Minds",
-    "title": "Mapping Rocks From Space",
-    "authors": "Wendy Bohon, Alka Tripathy-Lang",
-    "year": 2024,
-    "url": "https://kids.frontiersin.org/articles/10.3389/frym.2024.1368101",
-    "license": "CC BY 4.0"
+  {
+   "k": "who",
+   "t": "Who found out",
+   "b": "Wendy Bohon is a geologist who studies earthquakes and helps people prepare for them. She led this study with Alka Tripathy-Lang and other scientists. Alka is also a trained geologist and is now a science writer. Their research paper came out in 2018."
   },
-  "original": {
-    "title": "Structural relationship between the Karakoram and Longmu Co fault systems, southwestern Tibetan Plateau, revealed by ASTER remote sensing",
-    "authors": "W. Bohon, K. V. Hodges, A. Tripathy-Lang, J. R. Arrowsmith, C. Edwards",
-    "journal": "Geosphere",
-    "year": 2018,
-    "url": "https://doi.org/10.1130/GES01515.1"
+  {
+   "k": "how",
+   "t": "How they found out",
+   "b": "They used an instrument called ASTER, which rides on NASA's Terra satellite high above Earth. ASTER measures thermal infrared light, which everything gives off but our eyes cannot see. Each mineral, a natural solid that rocks are made of, gives off this light in its own pattern, like a fingerprint. Rocks are mixes of minerals, so each kind of rock has its own fingerprint too. The team gave each fingerprint a colour to make a map.",
+   "img": {
+    "src": "media/research/himalaya-rocks-from-space-2.jpg",
+    "alt": "A graph of rock fingerprints: lines for rocks in the Himalaya match the lines for the same kinds of rock in California",
+    "credit": "Figure 3, Bohon and Tripathy-Lang, Frontiers for Young Minds, CC BY 4.0 (modified from Rowan and Mars, 2003)"
+   }
   },
-  "cards": [
+  {
+   "k": "found",
+   "t": "What they found",
+   "b": "The map showed pieces of an ancient ocean floor, from the Tethys Sea that once lay between India and Asia. About 50 million years ago, India crashed into Asia and pushed that seafloor up. A fault is a crack in Earth's hard outer layer, where the ground can slip. A huge one called the Karakoram fault later slid the pieces sideways. The map also showed a second part of it that could have earthquakes.",
+   "img": {
+    "src": "media/research/himalaya-rocks-from-space-3.jpg",
+    "alt": "Satellite infrared data of the same area, with each kind of rock shown in a different false colour",
+    "credit": "Figure 2B, Bohon and Tripathy-Lang, Frontiers for Young Minds, CC BY 4.0"
+   }
+  },
+  {
+   "k": "sure",
+   "t": "How sure are they?",
+   "b": "They checked their map. They collected rocks from places they could reach and measured them in a laboratory, and the fingerprints matched. They also matched known rocks in California. Still, some lines on the map are drawn where they think a fault runs, because they cannot see it. Other scientists had thought only one part of this fault was active, meaning able to cause earthquakes."
+  },
+  {
+   "k": "why",
+   "t": "Why it matters",
+   "b": "Earthquakes happen along faults, and bigger faults can cause bigger earthquakes. Knowing where active faults run helps people who live nearby stay safe. The map also helps explain how the Himalaya and the Tibetan Plateau, a huge high area north of India, were built."
+  },
+  {
+   "k": "try",
+   "t": "Try it at home",
+   "b": "Look for fingerprints in the kitchen. Put a pinch each of salt, sugar, rava and haldi on a white plate. Look closely at each with a magnifying glass or a zoomed-in phone camera. Note the colour, shape and shine. Then ask someone to look away while you swap them around. Can they tell which is which by looking only? Geologists do this with rocks, using patterns of light that our eyes cannot see."
+  },
+  {
+   "k": "think",
+   "t": "Think about it",
+   "b": "A satellite can map places that people cannot visit. Is a map made from space as good as one made by walking the land? What might a geologist on foot notice that a satellite would miss? And what can the satellite see that the geologist cannot?"
+  },
+  {
+   "k": "words",
+   "t": "New words",
+   "words": [
     {
-      "k": "q",
-      "t": "The question",
-      "b": "Geologists make maps that show which rocks are where. Rocks tell the story of how mountains formed and where earthquakes happen. Usually geologists walk to the rocks. But parts of the north-western Himalaya, near the mountain K2, are too high, too rugged, or across closed borders. How can you map rocks you cannot reach?"
+     "w": "geologist",
+     "m": "a scientist who studies rocks and the history of the Earth"
     },
     {
-      "k": "who",
-      "t": "Who found out",
-      "b": "Wendy Bohon is a geologist who studies earthquakes and helps people prepare for them. She led this study with Alka Tripathy-Lang and other scientists. Alka was trained to work out when rocks were hot, deep underground, and is now a science writer. Their research paper came out in 2018."
+     "w": "mineral",
+     "m": "a natural solid that rocks are made of, like quartz"
     },
     {
-      "k": "how",
-      "t": "How they found out",
-      "b": "They used ASTER, an instrument on NASA's Terra satellite. ASTER measures thermal infrared light, which everything gives off but our eyes cannot see. Each mineral gives off this light in its own pattern, like a fingerprint. Rocks are mixes of minerals, so each kind of rock has its own fingerprint too. The team gave each fingerprint a colour to make a map.",
-      "img": {
-        "src": "media/research/himalaya-rocks-from-space-2.jpg",
-        "alt": "A graph of rock fingerprints: lines for rocks in the Himalaya match the lines for the same kinds of rock in California",
-        "credit": "Figure 3, Bohon and Tripathy-Lang, Frontiers for Young Minds, CC BY 4.0 (modified from Rowan and Mars, 2003)"
-      }
+     "w": "fault",
+     "m": "a break in the rocks of Earth's crust, where earthquakes happen"
     },
     {
-      "k": "found",
-      "t": "What they found",
-      "b": "The map showed pieces of an ancient ocean floor, from the Tethys Sea that once lay between India and Asia. About 50 million years ago, India crashed into Asia and pushed that seafloor up. A huge crack called the Karakoram fault later slid the pieces sideways. The map also showed a second part of this fault that could have earthquakes.",
-      "img": {
-        "src": "media/research/himalaya-rocks-from-space-3.jpg",
-        "alt": "Satellite infrared data of the same area, with each kind of rock shown in a different false colour",
-        "credit": "Figure 2B, Bohon and Tripathy-Lang, Frontiers for Young Minds, CC BY 4.0"
-      }
+     "w": "thermal infrared",
+     "m": "a kind of light that warm things give off, which our eyes cannot see"
     },
     {
-      "k": "sure",
-      "t": "How sure are they?",
-      "b": "They checked their map. They collected rocks from places they could reach and measured them in a laboratory, and the fingerprints matched. They also matched known rocks in California. Still, some lines on the map are drawn where they think a fault runs, because they cannot see it. Other scientists had thought only one part of this fault was active."
-    },
-    {
-      "k": "why",
-      "t": "Why it matters",
-      "b": "A fault is a crack in the hard rock of Earth's crust, and earthquakes happen along faults. Bigger faults can cause bigger earthquakes. Knowing where active faults run helps people who live nearby stay safe. The map also helps explain how the Himalaya and the Tibetan Plateau were built."
-    },
-    {
-      "k": "try",
-      "t": "Try it at home",
-      "b": "Look for fingerprints in the kitchen. Kavya puts a pinch each of salt, sugar, rava and haldi on a white plate. She looks at each pinch closely with a magnifying glass or a zoomed-in phone camera. What colour, shape and shine does each have? Could her brother tell which is which without tasting? Geologists do this with rocks."
-    },
-    {
-      "k": "think",
-      "t": "Think about it",
-      "b": "A satellite can map places that people cannot visit. Is a map made from space as good as one made by walking the land? What might a geologist on foot notice that a satellite would miss? And what can the satellite see that the geologist cannot?"
-    },
-    {
-      "k": "words",
-      "t": "New words",
-      "words": [
-        {
-          "w": "geologist",
-          "m": "a scientist who studies rocks and the history of the Earth"
-        },
-        {
-          "w": "mineral",
-          "m": "a natural solid that rocks are made of, like quartz"
-        },
-        {
-          "w": "fault",
-          "m": "a break in the rocks of Earth's crust, where earthquakes happen"
-        },
-        {
-          "w": "thermal infrared",
-          "m": "a kind of light that warm things give off, which our eyes cannot see"
-        },
-        {
-          "w": "spectral signature",
-          "m": "the special pattern of light a material gives off, like a fingerprint"
-        }
-      ]
+     "w": "spectral signature",
+     "m": "the special pattern of light a material gives off, like a fingerprint"
     }
-  ]
+   ]
+  }
+ ]
 }

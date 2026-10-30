@@ -1,112 +1,112 @@
 {
-  "id": "slippery-pitcher-surface",
-  "title": "How did a pitcher plant teach scientists to make the slipperiest surface?",
-  "blurb": "Insects slide into pitcher plants on a slippery wet rim. Scientists at Harvard's Wyss Institute copied the trick to make a surface that water, oil, blood and even ice slide off.",
-  "topics": [
-    "sci.making-things.biomimicry.L3",
-    "sci.forces.friction.L3",
-    "sci.materials.properties.L3"
-  ],
-  "tags": [
-    "biomimicry",
-    "plants",
-    "materials",
-    "inventions"
-  ],
+ "id": "slippery-pitcher-surface",
+ "title": "How did a pitcher plant teach scientists to make the slipperiest surface?",
+ "blurb": "Insects slide into pitcher plants on a slippery wet rim. Scientists at Harvard's Wyss Institute copied the trick to make a surface that water, oil, blood and even ice slide off.",
+ "topics": [
+  "sci.making-things.biomimicry.L3",
+  "sci.forces.friction.L3",
+  "sci.materials.properties.L3"
+ ],
+ "tags": [
+  "biomimicry",
+  "plants",
+  "materials",
+  "inventions"
+ ],
+ "year": 2011,
+ "mins": 5,
+ "cover": {
+  "src": "media/research/slippery-pitcher-surface-1.jpg",
+  "alt": "One pitcher of the Indian pitcher plant, Nepenthes khasiana: a green and pink jug-shaped leaf with a ribbed green rim and a lid.",
+  "credit": "JeremiahsCPs at English Wikipedia, public domain, via Wikimedia Commons"
+ },
+ "source": {
+  "name": "Nature (research paper, summary on PubMed)",
+  "title": "Bioinspired self-repairing slippery surfaces with pressure-stable omniphobicity",
+  "authors": "Tak-Sing Wong, Sung Hoon Kang, Sindy K. Y. Tang, Elizabeth J. Smythe, Benjamin D. Hatton, Alison Grinthal, Joanna Aizenberg",
   "year": 2011,
-  "mins": 5,
-  "cover": {
-    "src": "media/research/slippery-pitcher-surface-1.jpg",
-    "alt": "One pitcher of the Indian pitcher plant, Nepenthes khasiana: a green and pink jug-shaped leaf with a ribbed green rim and a lid.",
-    "credit": "JeremiahsCPs at English Wikipedia, public domain, via Wikimedia Commons"
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21938066/",
+  "license": "facts retold in our own words"
+ },
+ "original": {
+  "title": "Bioinspired self-repairing slippery surfaces with pressure-stable omniphobicity",
+  "authors": "Wong, T.-S., Kang, S. H., Tang, S. K. Y., Smythe, E. J., Hatton, B. D., Grinthal, A., and Aizenberg, J.",
+  "journal": "Nature",
+  "year": 2011,
+  "url": "https://doi.org/10.1038/nature10447"
+ },
+ "cards": [
+  {
+   "k": "q",
+   "t": "The question",
+   "b": "Dirt, oil, ice and germs stick to surfaces and cause trouble. Pipes get blocked, windows get dirty, and ice weighs down wires. For years, scientists copied the lotus leaf, whose bumpy surface makes water roll off. But surfaces like that fail with oil, and break when scratched. Could another plant show a better way?"
   },
-  "source": {
-    "name": "Nature (research paper, summary on PubMed)",
-    "title": "Bioinspired self-repairing slippery surfaces with pressure-stable omniphobicity",
-    "authors": "Tak-Sing Wong, Sung Hoon Kang, Sindy K. Y. Tang, Elizabeth J. Smythe, Benjamin D. Hatton, Alison Grinthal, Joanna Aizenberg",
-    "year": 2011,
-    "url": "https://pubmed.ncbi.nlm.nih.gov/21938066/",
-    "license": "facts retold in our own words"
+  {
+   "k": "who",
+   "t": "Who found out",
+   "b": "Tak-Sing Wong and Joanna Aizenberg led the work at Harvard University's School of Engineering and the Wyss Institute for Biologically Inspired Engineering, in the United States. The Wyss Institute is a place where scientists copy ideas from nature. Sung Hoon Kang, Sindy Tang, Elizabeth Smythe, Benjamin Hatton and Alison Grinthal worked with them. They published in 2011."
   },
-  "original": {
-    "title": "Bioinspired self-repairing slippery surfaces with pressure-stable omniphobicity",
-    "authors": "Wong, T.-S., Kang, S. H., Tang, S. K. Y., Smythe, E. J., Hatton, B. D., Grinthal, A., and Aizenberg, J.",
-    "journal": "Nature",
-    "year": 2011,
-    "url": "https://doi.org/10.1038/nature10447"
+  {
+   "k": "how",
+   "t": "How they found out",
+   "b": "A pitcher plant has leaves shaped like jugs, and the rim of each jug gets wet and very slippery. Insects slip on the wet film and fall in. The team copied this. They took a material full of tiny holes, like a sponge, and soaked it with a slippery oil. The tiny holes hold the oil in place, so the surface stays wet and smooth.",
+   "img": {
+    "src": "media/research/slippery-pitcher-surface-2.jpg",
+    "alt": "An ant walking on the rim of a pitcher plant, close to the opening.",
+    "credit": "NepGrower at English Wikipedia, CC BY 2.5, via Wikimedia Commons"
+   }
   },
-  "cards": [
+  {
+   "k": "found",
+   "t": "What they found",
+   "b": "Water, oil, crude oil and even blood slid off the new surface. Crude oil is oil straight from the ground. Ice did not stick well either. When they scratched the surface, the oil flowed back in less than a second, and the surface healed itself. It also worked under huge pressure, like that deep in the sea.",
+   "img": {
+    "src": "media/research/slippery-pitcher-surface-3.jpg",
+    "alt": "A green pitcher of the Indian pitcher plant growing wild among grasses in the Jaintia Hills of Meghalaya, with a reddish lid.",
+    "credit": "Rejoice Gassah, CC BY 4.0, via iNaturalist"
+   }
+  },
+  {
+   "k": "sure",
+   "t": "How sure are they?",
+   "b": "The team tested many liquids and many kinds of holey materials, and the idea worked on all of them. That shows the trick does not depend on one exact material. But this was a lab test. How long the oil stays in place outdoors, over months and years, was not part of this study."
+  },
+  {
+   "k": "why",
+   "t": "Why it matters",
+   "b": "Slippery surfaces like this could keep pipes, windows and medical tools clean. India has its own pitcher plant, Nepenthes khasiana, which grows in the hills of Meghalaya. Copying nature to solve a human problem is called biomimicry. Here, a plant that traps insects gave us an idea to keep things clean."
+  },
+  {
+   "k": "try",
+   "t": "Try it at home",
+   "b": "A thin film of oil makes a surface slippery, as on the pitcher plant's rim. Tilt a steel plate or tray at a slant. Let one drop of honey slide down, and count the seconds it takes. Then rub a thin layer of cooking oil on the plate and try again with a new drop. Which run is faster? The oil layer should let the honey slide more easily."
+  },
+  {
+   "k": "think",
+   "t": "Think about it",
+   "b": "The pitcher plant uses slipperiness to trap and eat insects. People used the same trick to keep things clean. Is a trick from nature good or bad? Or does it depend on how it is used? Can you think of another animal or plant trick people could borrow?"
+  },
+  {
+   "k": "words",
+   "t": "New words",
+   "words": [
     {
-      "k": "q",
-      "t": "The question",
-      "b": "Dirt, oil, ice and germs stick to surfaces and cause trouble. Pipes get blocked, windows get dirty, and ice weighs down wires. For years, scientists copied the lotus leaf, whose bumpy surface makes water roll off. But lotus-style surfaces fail with oil, and break when scratched. Could another plant show a better way?"
+     "w": "pitcher plant",
+     "m": "a plant with jug-shaped leaves that trap and digest insects"
     },
     {
-      "k": "who",
-      "t": "Who found out",
-      "b": "Tak-Sing Wong and Joanna Aizenberg led the work at Harvard University's School of Engineering and the Wyss Institute for Biologically Inspired Engineering, in the United States. The Wyss Institute copies ideas from nature. Sung Hoon Kang, Sindy Tang, Elizabeth Smythe, Benjamin Hatton and Alison Grinthal worked with them. They published in 2011."
+     "w": "biomimicry",
+     "m": "copying ideas from living things to solve human problems"
     },
     {
-      "k": "how",
-      "t": "How they found out",
-      "b": "A pitcher plant has a rim that gets wet and very slippery. Insects slip on the wet film and fall in. The team copied this. They took a material full of tiny holes, like a sponge, and soaked it with a slippery oil. The tiny holes hold the oil in place, so the surface stays wet and smooth.",
-      "img": {
-        "src": "media/research/slippery-pitcher-surface-2.jpg",
-        "alt": "An ant walking on the rim of a pitcher plant, close to the opening.",
-        "credit": "NepGrower at English Wikipedia, CC BY 2.5, via Wikimedia Commons"
-      }
+     "w": "lubricant",
+     "m": "a slippery liquid, like oil, that helps things slide"
     },
     {
-      "k": "found",
-      "t": "What they found",
-      "b": "Water, oil, crude oil and even blood slid off the new surface. Ice did not stick well either. When they scratched the surface, the oil flowed back in less than a second, and the surface healed itself. It worked even under huge pressure, like that deep in the sea. Ants were tested on it too.",
-      "img": {
-        "src": "media/research/slippery-pitcher-surface-3.jpg",
-        "alt": "A green pitcher of the Indian pitcher plant growing wild among grasses in the Jaintia Hills of Meghalaya, with a reddish lid.",
-        "credit": "Rejoice Gassah, CC BY 4.0, via iNaturalist"
-      }
-    },
-    {
-      "k": "sure",
-      "t": "How sure are they?",
-      "b": "The team tested many liquids and many kinds of holey materials, and the idea worked on all of them. That shows the trick does not depend on one exact material. But this was a lab test. How long the oil stays in place outdoors, over months and years, was not part of this study."
-    },
-    {
-      "k": "why",
-      "t": "Why it matters",
-      "b": "Slippery surfaces like this could keep pipes, windows and medical tools clean. India has its own pitcher plant, Nepenthes khasiana, which grows in the hills of Meghalaya. Copying nature to solve a human problem is called biomimicry. A plant that traps insects gave us an idea to keep things clean."
-    },
-    {
-      "k": "try",
-      "t": "Try it at home",
-      "b": "Test slipperiness. Meera holds a steel plate at a slant. She lets one drop of honey slide down, and counts how long the drop takes. Then she rubs a thin layer of cooking oil on the plate and tries again with a new drop. Which run is faster? Wash the plate with soap afterwards."
-    },
-    {
-      "k": "think",
-      "t": "Think about it",
-      "b": "The pitcher plant uses slipperiness to trap and eat insects. People used the same trick to keep things clean. Is a trick from nature good or bad? Or does it depend on how it is used? Can you think of another animal or plant trick people could borrow?"
-    },
-    {
-      "k": "words",
-      "t": "New words",
-      "words": [
-        {
-          "w": "pitcher plant",
-          "m": "a plant with jug-shaped leaves that trap and digest insects"
-        },
-        {
-          "w": "biomimicry",
-          "m": "copying ideas from living things to solve human problems"
-        },
-        {
-          "w": "lubricant",
-          "m": "a slippery liquid, like oil, that helps things slide"
-        },
-        {
-          "w": "self-healing",
-          "m": "able to fix itself after it is damaged"
-        }
-      ]
+     "w": "self-healing",
+     "m": "able to fix itself after it is damaged"
     }
-  ]
+   ]
+  }
+ ]
 }

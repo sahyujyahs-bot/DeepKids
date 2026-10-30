@@ -1,116 +1,116 @@
 {
-  "id": "vampire-bats-blood-fuel",
-  "title": "How do vampire bats get energy from blood?",
-  "blurb": "Scientists put vampire bats on tiny treadmills to find out how a meal of only blood can power running and flying.",
-  "topics": [
-    "sci.animals.animal-bodies.L3",
-    "sci.food.nutrients.L3",
-    "sci.habitats.adaptations.L3"
-  ],
-  "tags": [
-    "bats",
-    "blood",
-    "energy",
-    "mammals"
-  ],
+ "id": "vampire-bats-blood-fuel",
+ "title": "How do vampire bats get energy from blood?",
+ "blurb": "Scientists put vampire bats on tiny treadmills to find out how a meal of only blood can power running and flying.",
+ "topics": [
+  "sci.animals.animal-bodies.L3",
+  "sci.food.nutrients.L3",
+  "sci.habitats.adaptations.L3"
+ ],
+ "tags": [
+  "bats",
+  "blood",
+  "energy",
+  "mammals"
+ ],
+ "year": 2024,
+ "mins": 6,
+ "cover": {
+  "src": "media/research/vampire-bats-blood-fuel-1.jpg",
+  "alt": "A drawing of a vampire bat walking slowly and then running fast on a treadmill inside a closed box, with a tube carrying air out.",
+  "credit": "Figure 2, Ghader et al., Frontiers for Young Minds, CC BY 4.0"
+ },
+ "source": {
+  "name": "Frontiers for Young Minds",
+  "title": "Vampire Bats: Sucking the Most Out of Blood",
+  "authors": "Aryan Ghader, Giulia S. Rossi, Kenneth C. Welch Jr and David R. Smith",
+  "year": 2026,
+  "url": "https://kids.frontiersin.org/articles/10.3389/frym.2026.1699332",
+  "license": "CC BY 4.0"
+ },
+ "original": {
+  "title": "Vampire bats rapidly fuel running with essential or non-essential amino acids from a blood meal",
+  "authors": "Rossi, G. S., and Welch, K. C.",
+  "journal": "Biology Letters",
   "year": 2024,
-  "mins": 6,
-  "cover": {
+  "url": "https://doi.org/10.1098/rsbl.2024.0453"
+ },
+ "cards": [
+  {
+   "k": "q",
+   "t": "The question",
+   "b": "Vampire bats live in Latin America. They are the only mammals, animals with fur that feed their babies milk, that eat nothing but blood. Blood is mostly water and protein, with very little sugar or fat. Most animals, including us, run on sugar and fat. So where does a vampire bat get the energy to fly and run?"
+  },
+  {
+   "k": "who",
+   "t": "Who found out",
+   "b": "Giulia Rossi and Kenneth Welch studied vampire bats at the University of Toronto in Canada. Giulia studies how animals cope with very hard conditions. Kenneth studies how what animals eat shapes the way their bodies use energy. They published their study in 2024."
+  },
+  {
+   "k": "how",
+   "t": "How they found out",
+   "b": "The team fed 24 vampire bats cow's blood. Some of the blood carried tagged amino acids, the small building blocks of protein. A tag works like a tiny tracker, so the team could tell where the amino acids went. Each bat then walked or ran on a tiny treadmill inside a closed box, at three speeds. A tube carried the bat's breath away, to measure the gases in it.",
+   "img": {
     "src": "media/research/vampire-bats-blood-fuel-1.jpg",
     "alt": "A drawing of a vampire bat walking slowly and then running fast on a treadmill inside a closed box, with a tube carrying air out.",
     "credit": "Figure 2, Ghader et al., Frontiers for Young Minds, CC BY 4.0"
+   }
   },
-  "source": {
-    "name": "Frontiers for Young Minds",
-    "title": "Vampire Bats: Sucking the Most Out of Blood",
-    "authors": "Aryan Ghader, Giulia S. Rossi, Kenneth C. Welch Jr and David R. Smith",
-    "year": 2026,
-    "url": "https://kids.frontiersin.org/articles/10.3389/frym.2026.1699332",
-    "license": "CC BY 4.0"
+  {
+   "k": "found",
+   "t": "What they found",
+   "b": "Within minutes of eating, the bats were breathing out the tagged amino acids. That means they were burning protein from the meal straight away, as fuel. Even when they ran faster, they kept burning protein. Most animals switch to sugar when they work hard. No other mammal is known to power hard exercise mainly with protein from a fresh meal.",
+   "img": {
+    "src": "media/research/vampire-bats-blood-fuel-2.jpg",
+    "alt": "A graph with three dots that stay at almost the same height as treadmill speed goes up from 10 to 30 metres per minute.",
+    "credit": "Figure 3, Ghader et al., Frontiers for Young Minds, CC BY 4.0"
+   }
   },
-  "original": {
-    "title": "Vampire bats rapidly fuel running with essential or non-essential amino acids from a blood meal",
-    "authors": "Rossi, G. S., and Welch, K. C.",
-    "journal": "Biology Letters",
-    "year": 2024,
-    "url": "https://doi.org/10.1098/rsbl.2024.0453"
+  {
+   "k": "sure",
+   "t": "How sure are they?",
+   "b": "This is one careful lab study with 24 bats. The team measured the bats' breath at slow, medium and fast speeds, and saw the same pattern each time. It tells us how the bats use a meal while running soon after eating. It does not show everything that wild bats do."
   },
-  "cards": [
+  {
+   "k": "why",
+   "t": "Why it matters",
+   "b": "Burning protein has a cost. Vampire bats cannot store much sugar or fat, so they must feed almost every day. A vampire bat can die within two or three days without blood. So they share. A well-fed bat sometimes spits blood into the mouth of a hungry bat from the same roost, the place where bats sleep together. This strange diet shapes both their bodies and their friendships."
+  },
+  {
+   "k": "try",
+   "t": "Try it at home",
+   "b": "Your breathing changes when you work hard too. Sit still and count your breaths for one minute. Then skip on the spot for one minute and count again. Write both numbers down. Why do you breathe faster? Your body needs more oxygen to burn its fuel, and has more carbon dioxide to breathe out. In the same way, the bats' breath told scientists what fuel they were burning."
+  },
+  {
+   "k": "think",
+   "t": "Think about it",
+   "b": "Vampire bats give some of their own meal to a hungry friend, even though blood is hard to get. Some people think the bats help because one day they may need help back. Others think the bats simply care about their roost-mates. What do you think? How could scientists tell these two ideas apart?"
+  },
+  {
+   "k": "words",
+   "t": "New words",
+   "words": [
     {
-      "k": "q",
-      "t": "The question",
-      "b": "Vampire bats live in Latin America. They are the only mammals that eat nothing but blood. Blood is mostly water and protein, with very little sugar or fat. Most animals, including us, run on sugar and fat. So where does a vampire bat get the energy to fly and run?"
+     "w": "mammal",
+     "m": "an animal with hair or fur that feeds their babies milk, like bats, cows and people"
     },
     {
-      "k": "who",
-      "t": "Who found out",
-      "b": "Giulia Rossi and Kenneth Welch studied vampire bats at the University of Toronto in Canada. Giulia studies how animals cope with very hard conditions. Kenneth studies how what animals eat shapes the way their bodies use energy. They published their study in 2024."
+     "w": "protein",
+     "m": "a part of food that bodies use to grow and repair, found in dal, eggs and blood"
     },
     {
-      "k": "how",
-      "t": "How they found out",
-      "b": "The team fed 24 vampire bats cow's blood. Some of the blood carried tagged amino acids, the small building blocks of protein. The tags work like a tiny tracker. Each bat then walked or ran on a tiny treadmill inside a closed box, at three speeds. A tube carried the bat's breath away to measure the gases in the breath.",
-      "img": {
-        "src": "media/research/vampire-bats-blood-fuel-1.jpg",
-        "alt": "A drawing of a vampire bat walking slowly and then running fast on a treadmill inside a closed box, with a tube carrying air out.",
-        "credit": "Figure 2, Ghader et al., Frontiers for Young Minds, CC BY 4.0"
-      }
+     "w": "amino acid",
+     "m": "a tiny building block of protein"
     },
     {
-      "k": "found",
-      "t": "What they found",
-      "b": "Within minutes of eating, the bats were breathing out the tagged amino acids. That means they were burning protein from the meal straight away. Even when they ran faster, they kept burning protein. Most animals switch to sugar when they work hard. No other mammal is known to power hard exercise mainly with protein from a fresh meal.",
-      "img": {
-        "src": "media/research/vampire-bats-blood-fuel-2.jpg",
-        "alt": "A graph with three dots that stay at almost the same height as treadmill speed goes up from 10 to 30 metres per minute.",
-        "credit": "Figure 3, Ghader et al., Frontiers for Young Minds, CC BY 4.0"
-      }
+     "w": "metabolism",
+     "m": "the way a body turns food into energy"
     },
     {
-      "k": "sure",
-      "t": "How sure are they?",
-      "b": "This is one careful lab study with 24 bats. The team measured the bats' breath at slow, medium and fast speeds, and saw the same pattern each time. It tells us how the bats use a meal while running soon after eating. It does not show everything that wild bats do."
-    },
-    {
-      "k": "why",
-      "t": "Why it matters",
-      "b": "Burning protein has a cost. Vampire bats cannot store much sugar or fat, so they must feed almost every day. A vampire bat can die within two or three days without blood. So they share. A well-fed bat sometimes spits blood into the mouth of a hungry roost-mate. This strange diet shapes both their bodies and their friendships."
-    },
-    {
-      "k": "try",
-      "t": "Try it at home",
-      "b": "Your breathing changes when you work hard too. Farhana sits still and counts her breaths for one minute. Then she skips on the spot for one minute and counts again. She writes both numbers down. Why does she breathe faster? Her body needs more oxygen to burn its fuel, and has more carbon dioxide to breathe out."
-    },
-    {
-      "k": "think",
-      "t": "Think about it",
-      "b": "Vampire bats give some of their own meal to a hungry friend, even though blood is hard to get. Some people think the bats help because one day they may need help back. Others think the bats simply care about their roost-mates. What do you think? How could scientists tell these two ideas apart?"
-    },
-    {
-      "k": "words",
-      "t": "New words",
-      "words": [
-        {
-          "w": "mammal",
-          "m": "an animal with hair or fur that feeds their babies milk, like bats, cows and people"
-        },
-        {
-          "w": "protein",
-          "m": "a part of food that bodies use to grow and repair, found in dal, eggs and blood"
-        },
-        {
-          "w": "amino acid",
-          "m": "a tiny building block of protein"
-        },
-        {
-          "w": "metabolism",
-          "m": "the way a body turns food into energy"
-        },
-        {
-          "w": "roost",
-          "m": "the place where bats rest and sleep together"
-        }
-      ]
+     "w": "roost",
+     "m": "the place where bats rest and sleep together"
     }
-  ]
+   ]
+  }
+ ]
 }

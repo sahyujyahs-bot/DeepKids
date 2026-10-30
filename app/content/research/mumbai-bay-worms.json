@@ -1,116 +1,117 @@
 {
-  "id": "mumbai-bay-worms",
-  "title": "Where did the tiny worms in Mumbai's sea mud go?",
-  "blurb": "A patch of Mumbai sea mud smaller than a matchbox once held 10,000 tiny worms. Now, in many places, there are none.",
-  "topics": [
-    "sci.habitats.water-habitats.L3",
-    "sci.ecology.food-chains.L3",
-    "sci.animals.invertebrates.L3"
-  ],
-  "tags": [
-    "worms",
-    "sea",
-    "pollution",
-    "India"
-  ],
+ "id": "mumbai-bay-worms",
+ "title": "Where did the tiny worms in Mumbai's sea mud go?",
+ "blurb": "A patch of Mumbai sea mud smaller than a matchbox once held 10,000 tiny worms. Now, in many places, there are none.",
+ "topics": [
+  "sci.habitats.water-habitats.L3",
+  "sci.ecology.food-chains.L3",
+  "sci.animals.invertebrates.L3"
+ ],
+ "tags": [
+  "worms",
+  "sea",
+  "pollution",
+  "India"
+ ],
+ "year": 2017,
+ "mins": 5,
+ "cover": {
+  "src": "media/research/mumbai-bay-worms-2.jpg",
+  "alt": "A bristle worm: a long sea worm with many small bristly legs along both sides of the body.",
+  "credit": "Nereis pelagica, photo by Alexander Semenov, Wikimedia Commons, CC BY 2.0"
+ },
+ "source": {
+  "name": "Frontiers for Young Minds",
+  "title": "Why Are Aquatic Worms Disappearing From Mumbai Bay in India?",
+  "authors": "Gobardhan Sahoo",
+  "year": 2021,
+  "url": "https://kids.frontiersin.org/articles/10.3389/frym.2021.511988",
+  "license": "CC BY 4.0"
+ },
+ "original": {
+  "title": "Defaunation of meiofauna in Mumbai bay (India), a severely polluted area",
+  "authors": "Sahoo, G., Ansari, Z. A., Sukumaran, S., and Gajbhiye, S. N.",
+  "journal": "Regional Studies in Marine Science",
   "year": 2017,
-  "mins": 5,
-  "cover": {
+  "url": "https://doi.org/10.1016/j.rsma.2017.08.003"
+ },
+ "cards": [
+  {
+   "k": "q",
+   "t": "The question",
+   "b": "Worms do not only live in garden soil. Many live in the sand and mud under rivers and the sea. Some are as long as your finger. Most are tiny, only half a millimetre long. In Mumbai Bay, these tiny sea worms are disappearing. Where did they go, and does it matter?"
+  },
+  {
+   "k": "who",
+   "t": "Who found out",
+   "b": "Gobardhan Sahoo studies the animals that live in the ocean and the jobs they do there. He earned his doctorate in India and now works at the University of Haifa in Israel. With his team, he studied the mud of Mumbai Bay, on India's west coast. They published the study in 2017."
+  },
+  {
+   "k": "how",
+   "t": "How they found out",
+   "b": "The team looked at the tiny animals living in the mud at the bottom of Mumbai Bay. They counted how many worms were there now. Then they compared this with how many worms lived there before the heavy pollution started. The picture shows a bristle worm, one of the many kinds of sea-mud worm.",
+   "img": {
     "src": "media/research/mumbai-bay-worms-2.jpg",
     "alt": "A bristle worm: a long sea worm with many small bristly legs along both sides of the body.",
     "credit": "Nereis pelagica, photo by Alexander Semenov, Wikimedia Commons, CC BY 2.0"
+   }
   },
-  "source": {
-    "name": "Frontiers for Young Minds",
-    "title": "Why Are Aquatic Worms Disappearing From Mumbai Bay in India?",
-    "authors": "Gobardhan Sahoo",
-    "year": 2021,
-    "url": "https://kids.frontiersin.org/articles/10.3389/frym.2021.511988",
-    "license": "CC BY 4.0"
+  {
+   "k": "found",
+   "t": "What they found",
+   "b": "Before the pollution, some patches of Mumbai mud just 2 cm by 5 cm held 10,000 worms. That patch is smaller than a matchbox. Now the number of worms has dropped a lot, and in many places the worms are completely gone. The main cause is sewage, dirty water from toilets and drains, poured into the sea without cleaning."
   },
-  "original": {
-    "title": "Defaunation of meiofauna in Mumbai bay (India), a severely polluted area",
-    "authors": "Sahoo, G., Ansari, Z. A., Sukumaran, S., and Gajbhiye, S. N.",
-    "journal": "Regional Studies in Marine Science",
-    "year": 2017,
-    "url": "https://doi.org/10.1016/j.rsma.2017.08.003"
+  {
+   "k": "sure",
+   "t": "How sure are they?",
+   "b": "The drop in worms is clear from the counts. Sea-mud worms are very sensitive to dirty water, and they cannot move fast to escape. That is why scientists use them to check how polluted a place is. Oil spills have killed these worms in France, in Italy and in Mumbai in 2010. Losing the worms may be one reason many fish there have become rare. That link is likely, but not proven."
   },
-  "cards": [
+  {
+   "k": "why",
+   "t": "Why it matters",
+   "b": "Sea worms are part of a food chain, which shows who eats whom. Crabs eat bristle worms. Fish such as the northern whiting eat both crabs and worms. People in Mumbai catch and sell those fish. So when the tiny worms vanish, the crabs, the fish and the people who depend on them all lose out.",
+   "img": {
+    "src": "media/research/mumbai-bay-worms-1.jpg",
+    "alt": "A food chain drawing: arrows go from a worm to a crab, and from the worm and the crab to a fish.",
+    "credit": "Figure 1, Gobardhan Sahoo, Frontiers for Young Minds, CC BY 4.0"
+   }
+  },
+  {
+   "k": "try",
+   "t": "Try it at home",
+   "b": "Tiny living things hide in soil too. Scoop one spoonful of damp soil from a potted plant onto a white plate. Add five drops of water and spread the soil thin with a spoon. Look slowly with a magnifying glass for anything that wriggles, and count what you find. Then put the soil back in the pot. The scientists counted tiny animals in mud in the same way, but with a microscope.",
+   "note": "Wash your hands afterwards."
+  },
+  {
+   "k": "think",
+   "t": "Think about it",
+   "b": "Every day, Mumbai sends enough sewage into the sea to fill 7,200 Olympic swimming pools. Cleaning all of it would cost a lot of money and take years. Some people say the city should clean its water first, before building anything new. Others say people's other needs come first. What do you think, and why?"
+  },
+  {
+   "k": "words",
+   "t": "New words",
+   "words": [
     {
-      "k": "q",
-      "t": "The question",
-      "b": "Worms do not only live in garden soil. Many live in the sand and mud under rivers and the sea. Some are as long as your finger. Most are tiny, only half a millimetre long. In Mumbai Bay, these tiny sea worms are disappearing. Where did they go, and does it matter?"
+     "w": "food chain",
+     "m": "the order in which living beings eat each other, like worm, then crab, then fish"
     },
     {
-      "k": "who",
-      "t": "Who found out",
-      "b": "Gobardhan Sahoo studies the animals that live in the ocean and the jobs they do there. He earned his doctorate in India and now works at the University of Haifa in Israel. With his team, he studied the mud of Mumbai Bay, on India's west coast. They published the study in 2017."
+     "w": "pollution",
+     "m": "harmful things, like oil or dirty water, that get into the land, air or water"
     },
     {
-      "k": "how",
-      "t": "How they found out",
-      "b": "The team looked at the tiny animals living in the mud at the bottom of Mumbai Bay. They checked how many worms were there now. Then they compared this with how many worms lived there before the heavy pollution started. The picture shows a bristle worm, one of the many kinds of sea-mud worm.",
-      "img": {
-        "src": "media/research/mumbai-bay-worms-2.jpg",
-        "alt": "A bristle worm: a long sea worm with many small bristly legs along both sides of the body.",
-        "credit": "Nereis pelagica, photo by Alexander Semenov, Wikimedia Commons, CC BY 2.0"
-      }
+     "w": "sewage",
+     "m": "dirty water from toilets, sinks and drains"
     },
     {
-      "k": "found",
-      "t": "What they found",
-      "b": "Before the pollution, some patches of Mumbai mud just 2 cm by 5 cm held 10,000 worms. That patch is smaller than a matchbox. Now the number of worms has dropped a lot. In many places the worms are completely gone. The main cause is sewage, dirty water from toilets and drains, poured into the sea without cleaning."
+     "w": "biodiversity",
+     "m": "all the different kinds of living beings in one place"
     },
     {
-      "k": "sure",
-      "t": "How sure are they?",
-      "b": "Sea-mud worms are very sensitive to dirty water. They cannot move fast to escape. That is why scientists use them to check how polluted a place is. Oil spills have killed these worms in France, in Italy and in Mumbai in 2010. Losing the worms may be one reason many fish there have become rare. That link is likely, but not proven."
-    },
-    {
-      "k": "why",
-      "t": "Why it matters",
-      "b": "Sea worms are part of a food chain, which shows who eats whom. Crabs eat bristle worms. Fish such as the northern whiting eat both crabs and worms. People in Mumbai catch and sell those fish. So when the tiny worms vanish, the crabs, the fish and the people who depend on them all lose out.",
-      "img": {
-        "src": "media/research/mumbai-bay-worms-1.jpg",
-        "alt": "A food chain drawing: arrows go from a worm to a crab, and from the worm and the crab to a fish.",
-        "credit": "Figure 1, Gobardhan Sahoo, Frontiers for Young Minds, CC BY 4.0"
-      }
-    },
-    {
-      "k": "try",
-      "t": "Try it at home",
-      "b": "Tiny living things hide in soil too. Meenakshi scoops one spoonful of damp soil from a potted plant onto a white plate. She adds five drops of water and spreads the soil thin with a spoon. She looks slowly with a magnifying glass for anything that wriggles, and counts what she finds. Then she puts the soil back in the pot."
-    },
-    {
-      "k": "think",
-      "t": "Think about it",
-      "b": "Every day, Mumbai sends enough sewage into the sea to fill 7,200 Olympic swimming pools. Cleaning all of it would cost a lot of money and take years. Some people say the city should clean its water first, before building anything new. Others say people's other needs come first. What do you think, and why?"
-    },
-    {
-      "k": "words",
-      "t": "New words",
-      "words": [
-        {
-          "w": "food chain",
-          "m": "the order in which living beings eat each other, like worm, then crab, then fish"
-        },
-        {
-          "w": "pollution",
-          "m": "harmful things, like oil or dirty water, that get into the land, air or water"
-        },
-        {
-          "w": "sewage",
-          "m": "dirty water from toilets, sinks and drains"
-        },
-        {
-          "w": "biodiversity",
-          "m": "all the different kinds of living beings in one place"
-        },
-        {
-          "w": "bristle worm",
-          "m": "a sea worm with many tiny bristly legs along the body"
-        }
-      ]
+     "w": "bristle worm",
+     "m": "a sea worm with many tiny bristly legs along the body"
     }
-  ]
+   ]
+  }
+ ]
 }
