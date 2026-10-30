@@ -36,7 +36,10 @@
       ${msg?`<p class="err">${msg}</p>`:""}
       <small>We use your Google account only to sign you in. Your family's plans, progress and photos are private to you.</small></div></div>`;
     const b=$("#dkGoogle");if(b)b.onclick=async()=>{b.disabled=true;try{await sb.auth.signInWithOAuth({provider:"google",options:{redirectTo:location.origin+location.pathname}})}catch(e){signInScreen("Couldn't start Google sign-in. Try again.")}};
-    if(b&&C.googleClientId)googleButton(b)}
+    // Google's own button signs in through a pop-up, which comes back blank on phones (most of all from the home-screen
+    // app), so phones use the plain button: the whole page goes to Google and comes back signed in
+    const phone=/Android|iPhone|iPad|iPod/i.test(navigator.userAgent)||matchMedia("(display-mode: standalone)").matches;
+    if(b&&C.googleClientId&&!phone)googleButton(b)}
   /* With our own Google client id, Google's own button signs in on this page, so Google shows "DeepKids"
      instead of the database's address. Without it (or if Google's script can't load) the plain button above is used. */
   function googleButton(b){
