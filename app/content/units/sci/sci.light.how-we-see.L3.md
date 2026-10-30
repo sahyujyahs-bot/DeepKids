@@ -46,7 +46,7 @@ Your eyes do not see by themselves. They catch light, and when there is no light
 ### Light sources and lit objects · *defined*
 **Definition:** A light source makes its own light. A lit object makes no light. We see a lit object only when light from a source lands on it and bounces off into our eyes.
 
-Look around the room. Almost everything you can see is a lit object. The table, the curtains, your little brother and the cat make no light at all. The only light sources may be a bulb, a window with the Sun outside, or a screen. Everything else is borrowing their light. The Moon looks bright at night, but it is a lit object too. It is a grey rock with sunlight bouncing off it.
+Look around the room. Almost everything you can see is a lit object. The table, the curtains, your little sister and the cat make no light at all. The only light sources may be a bulb, a window with the Sun outside, or a screen. Everything else is borrowing their light. The Moon looks bright at night, but it is a lit object too. It is a grey rock with sunlight bouncing off it.
 - e.g. A diya flame is a light source. The brass plate under it is a lit object that shines with the flame's light.
 - e.g. A phone screen is a light source. Turn it off, and you see the black glass only because the room's light bounces off it.
 - e.g. The Sun is a light source. The Moon is a lit object.
@@ -117,7 +117,7 @@ Our eyes are not the only design. Most spiders have eight eyes. A scallop, a kin
 - e.g. A sunflower bud turns to follow the Sun across the sky. They have no eyes, but they sense light.
 - e.g. Earthworms have no eyes, but their skin can sense light. They wriggle away from it.
 ### Do we see the world as it really is? · *debated*
-When you look at a tree, it feels as if you are seeing the tree directly, right there. But we know that light bounced off the tree, came into your eyes, became signals, and your brain built the picture. So what are you really seeing? People give different answers.
+When you look at a tree, you feel as if you are seeing the tree directly, right there. But we know that light bounced off the tree, came into your eyes, became signals, and your brain built the picture. So what are you really seeing? People give different answers.
 - e.g. A bee sees patterns on flowers that our eyes cannot catch. Which flower is the real one, the bee's or ours?
 - e.g. Two people can look at the same picture and see different things, like a duck or a rabbit.
 - **Many people, most of the time:** We see the world as it is. The tree is green and leafy, and that is what we see.
@@ -192,11 +192,11 @@ By day, one Sun lights almost everything we see. The mango, the road and your fr
 - *big:* When you look at someone and they look at you, what is travelling between you? (hint: Light bounces off your face into their eyes, and off their face into yours.)
 
 ## Story: The Lamp-Seller's Daughter
-*Ibn al-Haytham was real. He lived in Cairo and wrote the Book of Optics, the Kitab al-Manazir. In it he describes lamps placed outside a small hole into a dark room, and how covering one lamp makes its spot of light on the wall vanish. Later writers tell two stories about him: that he promised the Caliph al-Hakim he could control the floods of the Nile, and that, when he could not, he pretended to be mad and was kept in his house until the Caliph died in 1021. Historians are not sure these stories are true. Zaynab, her father and their conversations are made up.*
+*Ibn al-Haytham was real. He lived in Cairo and wrote the Book of Optics, the Kitab al-Manazir. In it he describes lamps placed outside a small hole into a dark room, and how covering one lamp makes its spot of light on the wall vanish. Later writers tell two stories about him: that he promised the Caliph al-Hakim he could control the floods of the Nile, and that, when he could not, he pretended to be mad and was kept in his house until the Caliph died in 1021. Historians are not sure these stories are true. Zaynab, her mother and their conversations are made up.*
 
 In the city of Cairo, a thousand years ago, there was a house that everybody walked past quickly. The shutters were always closed. People said a madman lived inside. They said he had once been a great scholar. He had promised the Caliph he could tame the river Nile. Then he had failed, and his mind had broken.
 
-Zaynab was ten. Every Friday she carried a jar of lamp oil to that house, because her father sold oil and the madman's servant paid well. She always set the jar down by the door and ran.
+Zaynab was ten. Every Friday she carried a jar of lamp oil to that house, because her mother sold oil and the madman's servant paid well. She always set the jar down by the door and ran.
 
 Her grandmother had warned her. "Never let a madman look at you," she said. "Eyes throw out rays, like a lamp throws out light. A strange man's eyes can reach out and touch you."
 
@@ -224,7 +224,7 @@ Zaynab had no answer. She waited for her eyes to work. They did not.
 
 And something happened that Zaynab never forgot.
 
-On the white wall opposite the hole, a picture appeared. It was faint and soft, as if painted in smoke. But it was the street outside. There was the fruit seller's yellow awning. There was a donkey, and a man leading them. They were upside down, and they were moving. The donkey walked slowly across the wall on their head.
+On the white wall opposite the hole, a picture appeared. It was faint and soft, as if painted in smoke. But it was the street outside. There was the fruit seller's yellow awning. There was a donkey, and a woman leading them. They were upside down, and they were moving. The donkey walked slowly across the wall on their head.
 
 Zaynab cried out. "Is it magic?"
 
@@ -268,10 +268,10 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
 
 ## Games
 ### g1 · Light Chain (20 min)
-- **rules:** Cut out all the cards. Shuffle the SOURCE, OBJECT and EYE cards into one pile. Keep the BLOCKER cards in a separate pile.; Each player takes 5 cards from the main pile.; On your turn, take one more card. If you can, lay down a full chain: one SOURCE, one OBJECT and one EYE, in that order, on the chain mat.; Say the chain out loud: 'Light goes from the torch to the cat, and bounces off the cat into Thatha's eye. So Thatha sees the cat.' A correct chain wins 2 seeing tokens.; After a chain is laid, the next player can take a BLOCKER card and put it on one arrow. They say how it breaks the chain. A good reason wins 1 token, and the chain is out.; A SOURCE card can also be laid straight to an EYE, with no OBJECT. Then you are seeing the light source itself. This wins 1 token.; When the main pile runs out, the player with the most tokens wins.
+- **rules:** Cut out all the cards. Shuffle the SOURCE, OBJECT and EYE cards into one pile. Keep the BLOCKER cards in a separate pile.; Each player takes 5 cards from the main pile.; On your turn, take one more card. If you can, lay down a full chain: one SOURCE, one OBJECT and one EYE, in that order, on the chain mat.; Say the chain out loud: 'Light goes from the torch to the cat, and bounces off the cat into Paati's eye. So Paati sees the cat.' A correct chain wins 2 seeing tokens.; After a chain is laid, the next player can take a BLOCKER card and put it on one arrow. They say how it breaks the chain. A good reason wins 1 token, and the chain is out.; A SOURCE card can also be laid straight to an EYE, with no OBJECT. Then you are seeing the light source itself. This wins 1 token.; When the main pile runs out, the player with the most tokens wins.
 - **Printable cards: 12 SOURCE cards to cut out:** The Sun; A tubelight; A diya flame; A torch; A phone screen; A candle; Lightning; A bonfire; A street lamp; A firefly; A car's headlights; A matchstick flame
 - **Printable cards: 12 OBJECT cards to cut out:** A mango; Your friend's face; The Moon; A cow on the road; A book; A white wall; A cat; Your hand; A steel tumbler; A leaf; A carrom board; A sari on a washing line
-- **Printable cards: 8 EYE cards and 10 BLOCKER cards:** EYE: your eye; EYE: a cat's eye; EYE: an owl's eye; EYE: Thatha's eye; EYE: a bee's eye; EYE: a fish's eye; EYE: a baby's eye; EYE: a camera; BLOCKER: a closed door; BLOCKER: a power cut; BLOCKER: a hand over the eyes; BLOCKER: a thick curtain; BLOCKER: a cardboard box; BLOCKER: closed eyelids; BLOCKER: night with no moon; BLOCKER: a wall; BLOCKER: a blanket over your head; BLOCKER: a cloud over the Sun
+- **Printable cards: 8 EYE cards and 10 BLOCKER cards:** EYE: your eye; EYE: a cat's eye; EYE: an owl's eye; EYE: Paati's eye; EYE: a bee's eye; EYE: a fish's eye; EYE: a baby's eye; EYE: a camera; BLOCKER: a closed door; BLOCKER: a power cut; BLOCKER: a hand over the eyes; BLOCKER: a thick curtain; BLOCKER: a cardboard box; BLOCKER: closed eyelids; BLOCKER: night with no moon; BLOCKER: a wall; BLOCKER: a blanket over your head; BLOCKER: a cloud over the Sun
 - **Printable board: A chain mat with three boxes and two arrows:** SOURCE; arrow; OBJECT; arrow; EYE
 - **Printable tokens: 20 seeing tokens (small paper eyes):** 👁️
 - **s1 (2 min)**  
@@ -279,10 +279,10 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
   *Parent says:* To see something, light has to make a journey. It starts at a light source, bounces off the thing, and ends in an eye. In this game you build those journeys with cards.  
   *Child mode:* Put the chain mat on the floor. Mix the cards, but keep the BLOCKER cards apart. Take 5 cards each. You will build light's journey: source, thing, eye.
 - **s2 (3 min)**  
-  *Parent does:* Play one practice chain together. Lay down 'A torch', then 'A cat', then 'Thatha's eye'. Point along the arrows as you say it.  
-  *Parent says:* Here is a practice chain. The torch makes light. The light lands on the cat and bounces off them. Some of it goes into Thatha's eye. So Thatha sees the cat.  
-  *Child mode:* Practice chain: a torch, a cat, Thatha's eye. Light goes from the torch to the cat. It bounces into Thatha's eye. Which way do the arrows point?
-  - Check: In the chain 'torch, cat, Thatha's eye', which way does the light go between the cat and Thatha? → **From the cat into Thatha's eye**
+  *Parent does:* Play one practice chain together. Lay down 'A torch', then 'A cat', then 'Paati's eye'. Point along the arrows as you say it.  
+  *Parent says:* Here is a practice chain. The torch makes light. The light lands on the cat and bounces off them. Some of it goes into Paati's eye. So Paati sees the cat.  
+  *Child mode:* Practice chain: a torch, a cat, Paati's eye. Light goes from the torch to the cat. It bounces into Paati's eye. Which way do the arrows point?
+  - Check: In the chain 'torch, cat, Paati's eye', which way does the light go between the cat and Paati? → **From the cat into Paati's eye**
 - **s3 (10 min)**  
   *Parent does:* 1. Take turns. Each player takes a card and lays a chain if they can. 2. They say the chain out loud. 3. Give 2 tokens for a correct chain.  
   *Parent says:* When you lay a chain, say where the light starts, what it bounces off, and whose eye it ends in.  
@@ -616,130 +616,113 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
   - Check: Why does white tape on the edge of a step help someone see it at night? → **White tape bounces back more of the little light there is**
 
 ## Worksheets
-### How we see: the basics (core, 16 questions)
-1. (mcq) What do we need to see a book?  
-   Options: Light from the book coming into our eyes / Our eyes sending rays to the book / Only our eyes, nothing else / A loud noise  
-   **Answer:** Light from the book coming into our eyes. *Why:* We see a book when light bounces off it into our eyes. Picking 'eyes sending rays' is the very old idea that eyes reach out to see. Picking 'only our eyes' forgets that in a dark room even healthy eyes see nothing.
-2. (mcq) Which one is a light source?  
-   Options: The Moon / A mirror / A lit candle / A steel plate  
-   **Answer:** A lit candle. *Why:* A light source makes its own light. A lit candle does. The Moon, a mirror and a steel plate only bounce light from somewhere else. Picking the Moon is very common, because it looks so bright at night. But it is a rock lit by the Sun.
-3. (fill) Things that make their own light are called light ____.  
-   **Answer:** ['sources']. *Why:* A light source makes its own light, like the Sun, a bulb or a fire.
-4. (sort) Sort these. Does it make its own light, or does it only bounce light?  
-   **Answer:** the Sun → Makes its own light; a mango → Only bounces light; a diya flame → Makes its own light; the Moon → Only bounces light; a firefly → Makes its own light; your face → Only bounces light; a tubelight that is on → Makes its own light; a white wall → Only bounces light. *Why:* Light sources make their own light. Everything else we see, including the Moon and the white wall, only bounces light that came from a source.
-5. (truefalse) In a room with no light at all, you can see if you open your eyes very wide.  
-   **Answer:** False. *Why:* False. Wide-open eyes still need light to catch. With no light, there is nothing to see. The dark box test showed this.
-6. (mcq) You are in the dark box test. The lid is shut. What do you see through the peephole?  
-   Options: The white paper only / Nothing at all / Everything, but in grey  
-   **Answer:** Nothing at all. *Why:* With the lid sealed, no light gets in, so no light can bounce off the things into your eye. Picking 'the white paper only' is what happens when a crack of light comes in. Picking 'everything in grey' is how things look in dim light, not in no light.
-7. (mcq) In the dark box test, which thing do you usually see first when a little light comes in?  
+### How we see: the basics (core, 15 questions)
+1. (mcq) Meenakshi, a girl in Class 3, reads a book under a tubelight. Which way does the light travel, so that she can see the page?  
+   Options: From the tubelight to the page, then from the page into her eyes / From her eyes to the page, then back to her eyes / From the page to the tubelight  
+   **Answer:** From the tubelight to the page, then from the page into her eyes. *Why:* The tubelight is the light source. Its light lands on the page, bounces off, and some of it goes into Meenakshi's eyes. Picking 'from her eyes to the page' is the very old idea that eyes send out rays. Picking 'from the page to the tubelight' gets the start of the journey backwards: the page makes no light of its own.
+2. (sort) Sort these. Does each one make its own light, or does it only bounce light that came from somewhere else?  
+   **Answer:** the Sun → Makes its own light; a mango → Only bounces light; a diya flame → Makes its own light; the Moon → Only bounces light; a firefly → Makes its own light; your face → Only bounces light; a tubelight that is on → Makes its own light; a white wall → Only bounces light. *Why:* Light sources make their own light. Everything else we see, including the bright Moon and a white wall, only bounces light that came from a source. A strong answer puts the Moon in 'only bounces light', because it is a rock lit by the Sun.
+3. (write) Remember the dark box test? You shut a white paper, a steel spoon and a red ball in a box, then looked through a small peephole. With the lid shut tight, what did you see? Explain why, using the word 'light'.  
+   **Answer:** I saw nothing at all, not even the white paper. No light could get into the box. So no light could bounce off the things and come into my eye.. *Why:* A strong answer says what was seen (nothing) and gives the reason as a journey: no light got in, so none could bounce off the things into the eye. Eyes that are open and healthy still need light to catch.
+4. (mcq) In the dark box test, you lifted the lid just a crack. Which thing do you usually see first?  
    Options: The red ball / The white paper / They all appear at the same moment  
-   **Answer:** The white paper. *Why:* White things bounce back the most light, so they show up first. Picking the red ball usually means thinking bright colours show best in the dark. In dim light, colours are the last thing we see.
-8. (order) Put the light's journey in order, so that you see a mango.  
-   **Answer:** order shown. *Why:* Light starts at a source, lands on the thing, bounces off it, enters the eye, and the eye sends signals to the brain.
-9. (match) Match each part of the eye to what it does.  
-   **Answer:** Pupil → a hole that lets light in; Iris → makes the pupil bigger or smaller; Retina → catches the light at the back of the eye; Optic nerve → carries signals to the brain. *Why:* Light goes in through the pupil. The iris changes its size. The retina catches the light. The optic nerve carries the signals to the brain.
-10. (mcq) Why does the pupil look black?  
+   **Answer:** The white paper. *Why:* White things bounce back the most light, so they show up first. Picking the red ball usually means thinking bright colours show best in the dark. In dim light, colours are the last thing we see. Picking 'all at the same moment' misses that some things bounce back more light than others.
+5. (truefalse) If you sit in a room with no light at all for long enough, your eyes will get used to it, and you will start to see.  
+   **Answer:** False. *Why:* False, though many people believe it. Waiting helps only when there is a little light, because the eyes slowly get better at catching it. With no light at all, there is nothing to catch, however long you wait.
+6. (order) Put the light's journey in order, so that you see a mango.  
+   **Answer:** order shown. *Why:* Light starts at a source, lands on the thing, bounces off it, enters the eye, and the eye sends signals to the brain. A strong answer starts with the Sun, not the eye.
+7. (match) Match each part of the eye to what it does.  
+   **Answer:** Pupil → a hole that lets light in; Iris → makes the pupil bigger or smaller; Retina → catches the light at the back of the eye; Optic nerve → carries signals to the brain. *Why:* Light goes in through the pupil. The iris changes the pupil's size. The retina catches the light. The optic nerve carries the signals to the brain.
+8. (mcq) Why does the pupil in the middle of your eye look black?  
    Options: It is painted black inside / It is a hole, and very little light comes back out of it / It is the darkest part of the iris  
    **Answer:** It is a hole, and very little light comes back out of it. *Why:* The pupil is a hole into the dark inside of the eye. Light goes in and hardly any comes back out, so it looks black. Picking 'painted black' is a common idea, but there is no paint. Picking 'darkest part of the iris' mixes up the coloured ring with the hole in the middle.
-11. (mcq) You come in from a sunny playground into a dim room. What do your pupils do?  
-   Options: Get bigger, to let in more light / Get smaller, to keep light out / Stay the same  
-   **Answer:** Get bigger, to let in more light. *Why:* In dim light the pupils open wide to catch as much light as they can. Picking 'get smaller' is what happens when you go into bright light. Picking 'stay the same' misses that the pupil changes by itself.
-12. (fill) The black circle in the middle of your eye is called the ____.  
-   **Answer:** ['pupil']. *Why:* The pupil is the hole in the middle of the iris. Light enters the eye through it.
-13. (draw) Draw a lamp, a ball and an eye. Draw arrows to show how the eye sees the ball.  
-   **Answer:** One arrow goes from the lamp to the ball. Another arrow goes from the ball into the eye.. *Why:* Light goes from the source to the thing, then bounces into the eye. No arrow comes out of the eye.
-14. (truefalse) The Moon makes its own light.  
-   **Answer:** False. *Why:* False. The Moon is a rock. We see it because sunlight bounces off it into our eyes.
-15. (write) A torch is shining on a toy, but you hold a book in front of your eyes. Why can't you see the toy? Use the word 'light' in your answer.  
-   **Answer:** The light that bounces off the toy cannot reach my eyes, because the book is in the way. The toy is still lit, but no light from it comes into my eyes.. *Why:* Seeing needs the whole journey: source, then thing, then eye. Breaking any part stops you seeing.
-16. (mcq) Which of these helps you see in the dark?  
+9. (write) Revathi, a girl in Class 4, walks from a sunny balcony into a dark storeroom. What will her pupils do in the next minute? How does that help her?  
+   **Answer:** Her pupils will slowly get bigger. A bigger hole lets more light into her eyes. So after a minute she can see more of the storeroom than when she first walked in.. *Why:* A strong answer predicts the change (bigger), says why it helps (more light gets in), and notices that it takes a little time. In the pupil test, the pupils were biggest in the dim room.
+10. (draw) Draw a lamp, a ball and an eye. Draw arrows to show how the eye sees the ball.  
+   **Answer:** One arrow goes from the lamp to the ball. Another arrow goes from the ball into the eye.. *Why:* Light goes from the source to the thing, then bounces into the eye. A strong drawing has no arrow coming out of the eye.
+11. (perspective) For more than a thousand years, thinkers argued about how we see. Here are two of them.  
+   **Answer:** A strong answer picks a side and backs it with evidence, for example the dark box: with no light, open eyes saw nothing. It then gives Euclid a fair point: we do see only what our eyes point towards, and his straight lines between eye and thing were right. Only the direction was wrong.. *Why:* Euclid's idea was sensible for his time, and his straight-line drawings still work. Ibn al-Haytham tested which way the light goes, and the tests showed it comes into the eye.
+12. (write) Lakshmi, a girl in Class 4, drew how she sees a ball. Her drawing has one arrow, from her eye to the ball. There is no lamp. What two things would you change, and why?  
+   **Answer:** First, I would add a light source, like a lamp, because the ball makes no light. Second, I would turn the arrow round and add one more. One arrow goes from the lamp to the ball, and one goes from the ball into her eye.. *Why:* A strong answer finds both mistakes: the missing light source, and the arrow pointing the wrong way. It says why each matters, not only what to draw.
+13. (fill) Things that make their own light are called light ____.  
+   **Answer:** ['sources']. *Why:* A light source makes its own light, like the Sun, a bulb or a fire.
+14. (mcq) Which of these really helps you see in the dark?  
    Options: Waiting about 20 minutes in a dim place, away from bright lights / Eating lots of carrots / Staring very hard  
-   **Answer:** Waiting about 20 minutes in a dim place, away from bright lights. *Why:* After about 20 minutes in dim light, the rod cells in your eyes get much more sensitive. Picking carrots is a famous myth. Carrots keep eyes healthy, but extra carrots do not give normal eyes night vision. Picking 'staring hard' doesn't help, because the eye can only catch light that comes in.
+   **Answer:** Waiting about 20 minutes in a dim place, away from bright lights. *Why:* After about 20 minutes in dim light, the rod cells in your eyes get much more sensitive. Picking carrots is a famous myth. Carrots help keep eyes healthy, but extra carrots do not give normal eyes night vision. Picking 'staring hard' doesn't help, because the eye can only catch light that comes in.
+15. (write) Remember the test where a torch shone on a toy in a dark room? First you held a card in front of your eyes. Then you held it between the torch and the toy. Both times the toy seemed to vanish. Explain why, for each time.  
+   **Answer:** Card in front of my eyes: the toy was still lit, but the light bouncing off it could not reach my eyes. Card between the torch and the toy: no light reached the toy, so nothing bounced off it towards me.. *Why:* A strong answer sees that the card broke a different part of the journey each time: once between the toy and the eye, once between the source and the toy. Seeing needs every part of the journey.
 ### How we see: going further (stretch, 15 questions)
-1. (mcq) Everyone in a classroom can see the blackboard at once. Why?  
+1. (mcq) Everyone in a classroom can see the blackboard at the same time. Why?  
    Options: The board bounces light off in every direction, so light reaches every child / Each child's eyes send a ray to the board / The board makes its own light  
-   **Answer:** The board bounces light off in every direction, so light reaches every child. *Why:* Matt surfaces like a blackboard spray light in all directions. So some light from the board reaches every seat. Picking 'eyes send a ray' is the old eye-rays idea. Picking 'makes its own light' mixes a lit object up with a light source.
-2. (mcq) A torch beam crosses a dark room. It is hard to see from the side, until mist is sprayed into it. Why does the mist help?  
-   Options: Mist drops bounce some of the light sideways into your eyes / Mist makes light / Mist slows the light down so you can see it  
-   **Answer:** Mist drops bounce some of the light sideways into your eyes. *Why:* We only see light that comes into our eyes. Without mist, the beam goes straight to the wall. Mist drops reflect a little light every way, and some reaches you. Picking 'mist makes light' mixes up a lit object with a source. Picking 'slows the light down' is wrong, because mist does not slow light enough to matter. What changes is where the light goes.
-3. (truefalse) A cat's eyes glow in the dark because they make their own light.  
-   **Answer:** False. *Why:* False. The glow is light from a torch or headlight bouncing off a shiny layer at the back of the cat's eye. With no light at all, a cat's eyes do not glow.
-4. (mcq) In the blind spot activity, the dot vanished. What did you see in its place?  
-   Options: A black hole / Plain white card, because the brain filled it in / A bright light  
-   **Answer:** Plain white card, because the brain filled it in. *Why:* The blind spot has no light-catching cells. But the brain fills the gap with what is around it, so you see plain card. Picking 'a black hole' is what many people expect. It shows how hard the brain works without telling us.
-5. (write) Long ago, many people believed that eyes send out rays to touch what we see. Give two pieces of evidence that this is wrong.  
-   **Answer:** First, in a totally dark room we see nothing, even with our eyes open. If eyes sent out rays, we would still see. Second, looking at a very bright light hurts and leaves a dark blob in our sight, which shows something came into the eye.. *Why:* Ibn al-Haytham used clues like these. Another good answer: when one lamp is covered, only its spot of light vanishes.
+   **Answer:** The board bounces light off in every direction, so light reaches every child. *Why:* Matt surfaces like a blackboard spray light in all directions. So some light from the board reaches every seat. Picking 'eyes send a ray' is the old eye-rays idea. Picking 'makes its own light' mixes up a lit object and a light source.
+2. (write) Remember the invisible beam? A torch shone across a dark room, and you stood to one side. You could hardly see the beam until you sprayed mist into it. Explain where the light went before the mist, and where some of it went after.  
+   **Answer:** Before the mist, the light went straight across to the wall, so none of it came sideways into my eyes. After the mist, the tiny drops bounced a little light in every direction. Some of it came into my eyes, so I saw the beam.. *Why:* A strong answer says that we only see light that comes into our eyes. The beam was there all the time. The mist only sent some of it towards us.
+3. (draw) Draw a cat in a dark lane with glowing eyes, and a person holding a torch. Draw arrows to show where the glow comes from.  
+   **Answer:** An arrow from the torch to the cat's eye, and an arrow bouncing back from the cat's eye to the person.. *Why:* Eyeshine is torchlight bouncing back from a shiny layer at the back of the cat's eye. A strong drawing has no arrow starting inside the cat's eye. With no torch, there would be no glow.
+4. (mcq) In the blind spot activity, you stared at a cross and moved the card closer until the dot vanished. What did you see where the dot had been?  
+   Options: A black hole / Plain white card, because the brain filled in the gap / A bright light  
+   **Answer:** Plain white card, because the brain filled in the gap. *Why:* The blind spot has no light-catching cells. But the brain fills the gap with what is around it, so you see plain card. Picking 'a black hole' is what most people expect. It shows how hard the brain works without telling us.
+5. (mcq) In the Ibn al-Haytham's lamps activity, three torches shone through one pinhole and made three spots. You covered one torch with your hand. What happened?  
+   Options: All three spots went out / Only that torch's spot went out / Nothing changed  
+   **Answer:** Only that torch's spot went out. *Why:* Each torch sends its own light through the hole. Block one, and only its light stops arriving. This shows light travels from each source to where it lands. Picking 'all three went out' treats the light as one mixed thing.
 6. (mcq) Which part of the eye turns light into signals for the brain?  
    Options: The iris / The retina / The eyelid  
    **Answer:** The retina. *Why:* The retina at the back of the eye has millions of light-catching cells, the rods and the cones. They turn light into signals. The iris only changes the size of the pupil, and the eyelid protects the eye.
-7. (match) Match each living thing to how they sense light.  
-   **Answer:** A scallop → up to 200 small eyes with tiny mirrors; A money plant → no eyes, but they bend towards the window; An owl → huge eyes full of rod cells; A spider → eight eyes. *Why:* Living things sense light in many ways, but all of them catch light that comes in.
+7. (match) Match each living being to how they sense light.  
+   **Answer:** A scallop, a kind of shellfish → up to 200 small eyes with tiny mirrors; A money plant → no eyes, but they bend towards the window; An owl → huge eyes full of rod cells; A spider → usually eight eyes. *Why:* Living beings sense light in many ways. But all of them catch light that comes in. None sends anything out.
 8. (fill) The cells in the retina that work best in dim light are called ____.  
    **Answer:** ['rods', 'rod cells']. *Why:* Rods work in dim light but do not see colours. Cones need brighter light and see colours.
-9. (mcq) Why do astronomers use red torches when looking at stars?  
+9. (mcq) People who watch the stars use a dim red torch to read their notes. Why red?  
    Options: Red light disturbs their night eyes less than white light / Red light is brighter / Stars are red  
-   **Answer:** Red light disturbs their night eyes less than white light. *Why:* Rod cells, the ones that work in dim light, hardly respond to red light. So a dim red torch lets you read a map without undoing the 20 minutes your rods spent getting used to the dark. A white light would undo it in a moment. Picking 'red light is brighter' is not right: the torch is kept dim on purpose. Picking 'stars are red' is not right either. Most stars look white to us.
-10. (truefalse) The smallest packet of light is called a photon.  
-   **Answer:** True. *Why:* True. Light comes in tiny packets called photons. A rod cell in your eye can respond to just one.
-11. (order) Put these in order from the front of the eye to the back.  
+   **Answer:** Red light disturbs their night eyes less than white light. *Why:* Rod cells, the ones that work in dim light, hardly respond to red light. So a dim red torch lets you read without undoing the 20 minutes your rods spent getting used to the dark. Picking 'red light is brighter' is not right: the torch is kept dim on purpose. Picking 'stars are red' is not right either. Most stars look white to us.
+10. (order) Put these parts of the eye in order, from the front to the back.  
    **Answer:** order shown. *Why:* Light passes through the clear cornea, then the pupil, then the lens, then the jelly that fills the eye, and lands on the retina at the back.
-12. (mcq) In Ibn al-Haytham's lamps activity, you covered one torch. What happened?  
-   Options: All three spots went out / Only that torch's spot went out / Nothing changed  
-   **Answer:** Only that torch's spot went out. *Why:* Each torch sends its own light through the hole. Block one, and only its light stops arriving. This shows light travels from each source to where it lands.
-13. (write) Your friend says, 'I can see the Moon, so the Moon must make light.' What would you tell your friend?  
-   **Answer:** We can see many things that make no light, like a book or a face. We see them because light bounces off them into our eyes. The Moon is like that. Sunlight bounces off it to us.. *Why:* Seeing a thing does not mean it makes light. Most things we see are lit objects.
-14. (mcq) In the Eye in a Box project, which pupil made the brightest picture on the retina screen?  
-   Options: The biggest hole / The smallest hole / All were the same  
-   **Answer:** The biggest hole. *Why:* A bigger hole lets in more light, so the screen glows brighter. That is why your pupil opens wide in the dark.
-15. (draw) Draw a cat in the dark with glowing eyes, and a person holding a torch. Draw arrows to show where the glow comes from.  
-   **Answer:** An arrow from the torch to the cat's eye, and an arrow bouncing back from the cat's eye to the person.. *Why:* Eyeshine is torchlight bouncing back from a shiny layer inside the cat's eye. No arrow should start inside the cat's eye.
-### How we see: thinking like Ibn al-Haytham (challenge, 19 questions)
-1. (write) Ibn al-Haytham said do not just trust famous books, test them. Describe a test that would show a friend that eyes do not send out rays.  
-   **Answer:** Sit my friend in a totally dark room with eyes open, and ask what they see. Nothing. Then let in a little light, and things appear. If eyes sent out rays, they would see in the dark too.. *Why:* A good test changes one thing, the light, and keeps the eyes the same.
-2. (mcq) Selig Hecht and his team found that people can notice a flash when only a few photons are caught. What does this tell us?  
+11. (write) Thenmozhi, a girl in your class, says, 'I can see the Moon, so the Moon must make light.' What is wrong with her thinking? What would you tell her?  
+   **Answer:** Seeing a thing does not mean it makes light. I can see a book and a face, and they make no light. We see them because light bounces off them into our eyes. The Moon is like that. Sunlight bounces off it to us.. *Why:* A strong answer finds the mistake in the reasoning (seeing does not mean making light) and gives an everyday example of a lit object, not only the fact about the Moon.
+12. (write) In the Eye in a Box project, the tiny hole made a dim but sharp picture. The big hole made a bright but blurry one. A real eye has a lens behind the pupil. What job does the lens do, and why does that help in dim light?  
+   **Answer:** The lens keeps the picture sharp, even when the pupil is big. In dim light the pupil opens wide to let in lots of light. Without a lens, the picture would be bright but blurry. With the lens, it can be bright and sharp.. *Why:* A strong answer sees the trade-off in the box eye: a small hole is sharp but dim, a big hole is bright but blurry. The lens lets a real eye have both.
+13. (perspective) People often say 'the eye is a camera'. Two people disagree about this.  
+   **Answer:** A strong answer picks a side with evidence, for example the Eye in a Box (a hole and a screen, like a camera) or the blind spot test (the brain filled in the gap, which a camera cannot do). It then gives the other side a fair point. The front of the eye really does work like a camera, but the seeing is finished in the brain.. *Why:* Both are partly right. The camera idea fits the front of the eye well. It leaves out what the brain does with the signals.
+14. (truefalse) In very dim light, you can see colours just as well as in bright light.  
+   **Answer:** False. *Why:* False. In dim light only the rod cells are working, and rods do not see colour. That is why a garden at dusk looks grey, and why the red ball in the dark box showed up last.
+15. (write) Here are made-up results from the pupil test. Can you see a pattern? Use it to guess the pupil size in bright sunshine outside, and say why.  
+   **Answer:** The brighter the light, the smaller the pupil: 7 mm in the dim room, 4 mm in room light, 3 mm with the lamp. Sunshine is brighter still, so I guess about 2 mm. The pupil shrinks to keep too much light out.. *Why:* A strong answer states the pattern in words, uses it to make a prediction beyond the numbers, and gives the reason. Any guess smaller than 3 mm, with that reason, is good.
+### How we see: thinking like Ibn al-Haytham (challenge, 15 questions)
+1. (write) Many people feel they can tell when someone is staring at the back of their head. Plan a fair test to find out if this is true.  
+   **Answer:** My sister sits with her back to me. For each of 20 turns, I toss a coin. Heads, I stare at her head. Tails, I look away. She says 'staring' or 'not staring' each time, and I write it down. I stay quiet so she gets no clues. Just guessing would get about 10 right. If she gets many more than 10, again and again, the feeling may be real.. *Why:* A strong plan decides 'stare or not' by chance, removes sounds and other clues, repeats many times, and compares with what guessing alone would give. Careful tests like this have mostly found no effect. Eyes catch light, and send nothing out.
+2. (mcq) Selig Hecht and his team found that a person can notice a faint flash when only a few photons are caught. Photons are the tiniest bits of light. What does this tell us?  
    Options: The eye is extremely sensitive to light / The eye needs huge amounts of light / Photons are big  
    **Answer:** The eye is extremely sensitive to light. *Why:* Catching only about 5 to 14 photons is close to the smallest amount of light there can be. So the eye is one of the most sensitive light detectors we know. Picking 'huge amounts' gets it backwards. Picking 'photons are big' is wrong, because photons are far too small to see one by one.
 3. (truefalse) Scientists all agree that a person can notice a single photon.  
-   **Answer:** False. *Why:* False. Rod cells can respond to one photon. One 2016 study suggested a person can sometimes notice a single photon, but other scientists want it repeated before they agree.
-4. (write) Children who were born blind and had an operation to clear their cloudy lenses often could not, at first, match a shape they had felt with their hands to the same shape seen with their eyes. What does this tell us about seeing?  
-   **Answer:** Seeing is not only done by the eyes. The brain has to learn to make sense of the signals. Their eyes worked after the operation, but their brains still needed time to learn.. *Why:* This was studied in India by Project Prakash, led by Pawan Sinha.
+   **Answer:** False. *Why:* False. Rod cells can respond to one photon. One 2016 study suggested a person can sometimes notice a single photon. Other scientists want it repeated before they agree.
+4. (write) In India, doctors in Project Prakash help children who were born blind with cloudy lenses. After an operation, their eyes work. But at first, many could not match a shape they had felt with their hands to the same shape seen with their eyes. What does this tell us about seeing?  
+   **Answer:** Seeing is not only done by the eyes. The brain has to learn to make sense of the signals. Their eyes worked after the operation, but their brains still needed time to learn.. *Why:* A strong answer separates the eye (which now works) from the brain (which must learn). Project Prakash is led by Pawan Sinha.
 5. (mcq) Why do photos taken with a flash sometimes show red eyes?  
    Options: The flash reflects off the back of the eye, which is full of blood vessels / The eyes make red light / The camera is broken  
-   **Answer:** The flash reflects off the back of the eye, which is full of blood vessels. *Why:* The flash goes in through the wide-open pupil, reflects off the back of the eye, which is rich in blood, and comes straight back to the camera. Picking 'the eyes make red light' mixes eyes up with light sources. Picking 'the camera is broken' does not fit, because the same camera takes normal photos in daylight.
+   **Answer:** The flash reflects off the back of the eye, which is full of blood vessels. *Why:* The flash goes in through the wide-open pupil, reflects off the back of the eye, which is rich in blood, and comes straight back to the camera. Picking 'the eyes make red light' mixes up eyes and light sources. Picking 'the camera is broken' does not fit, because the same camera takes normal photos in daylight.
 6. (mcq) Why can't you see your own eyes without a mirror?  
-   Options: Light from your eyes would have to bounce back into them, and nothing is there to bounce it / Your eyes are too close to see / Eyes are invisible  
-   **Answer:** Light from your eyes would have to bounce back into them, and nothing is there to bounce it. *Why:* To see something, light from it must reach your eyes. Light from the front of your eye goes away from you, out into the room. A mirror reflects it back to you. Picking 'too close' does not fit, because you can see your nose, which is just as close. Picking 'invisible' is wrong, because other people can see your eyes.
+   Options: Light from your eyes goes away from you, and nothing bounces it back / Your eyes are too close to see / Eyes are invisible  
+   **Answer:** Light from your eyes goes away from you, and nothing bounces it back. *Why:* To see something, light from it must reach your eyes. Light from the front of your eye goes away from you, out into the room. A mirror reflects it back to you. Picking 'too close' does not fit, because you can see your nose, which is just as close. Picking 'invisible' is wrong, because other people can see your eyes.
 7. (write) Light from a faint star travels a very long way and enters your eye. Explain, using the word 'photon', what happens when it reaches your retina.  
-   **Answer:** A photon from the star comes in through my pupil and lands on a rod cell in my retina. It hits a tiny molecule and makes it change shape. That starts a signal that goes along the optic nerve to my brain.. *Why:* Every act of seeing starts with photons changing the shape of molecules in the retina.
-8. (mcq) A scallop has eyes with tiny mirrors instead of lenses. A plant has no eyes but bends to the light. What do all these ways of sensing light have in common?  
-   Options: They all catch light that comes in / They all send out rays / They all make their own light  
-   **Answer:** They all catch light that comes in. *Why:* Every eye and every light-sensing part catches light that arrives. None sends rays out. Some living things also make light, but that is a different unit.
-9. (sort) Sort these statements about seeing.  
+   **Answer:** A photon from the star comes in through my pupil and lands on a rod cell in my retina. It hits a tiny molecule and makes it change shape. That starts a signal that goes along the optic nerve to my brain.. *Why:* A strong answer follows the photon all the way: pupil, retina, molecule, signal, optic nerve, brain. Every act of seeing starts with photons changing the shape of molecules in the retina.
+8. (sort) Sort these statements about seeing.  
    **Answer:** We see when light enters our eyes. → Scientists agree; The pupil shrinks in bright light. → Scientists agree; Exactly how the brain turns signals into what we experience. → Still argued about or unknown; Whether a person can notice one single photon. → Still argued about or unknown; Rod cells work best in dim light. → Scientists agree; Whether we see the world as it really is. → Still argued about or unknown. *Why:* The path of light and the parts of the eye are well tested. How brains make experience, and the very edge of how sensitive we are, are still open.
-10. (mcq) Rupert Sheldrake says people can feel when they are being stared at. Why do most scientists disagree?  
-   Options: Nothing comes out of the eyes to be felt, and careful tests found no effect / Because staring is rude / Because only cats can feel stares  
-   **Answer:** Nothing comes out of the eyes to be felt, and careful tests found no effect. *Why:* Eyes catch light. They send nothing out. We tend to remember the times we turned and someone was looking, and forget the times nobody was. Other careful tests have found no effect.
-11. (write) Some people say 'the eye is just a camera'. Give one way the eye is like a camera, and one way it is different.  
-   **Answer:** Like a camera: both have a hole that lets light in and a layer at the back that catches it. Different: the brain builds the picture from signals, fills in the blind spot and has to learn to see. A camera just records.. *Why:* The camera idea helps with the front of the eye, but not with what the brain does.
-12. (truefalse) After about 20 to 30 minutes in the dark, your eyes can become thousands of times more sensitive.  
-   **Answer:** True. *Why:* True. The rod cells slowly build up their light-catching chemical. This is why you see more stars after waiting.
-13. (mcq) In the blind spot activity, the dot vanished when the card was about 25 cm from your eye. If you moved the card to 50 cm, what would happen?  
-   Options: The dot would come back, because its light no longer lands on the blind spot / The dot would stay hidden at every distance / The cross would vanish too  
-   **Answer:** The dot would come back, because its light no longer lands on the blind spot. *Why:* The dot only vanishes when its light lands exactly on the blind spot. At other distances it lands on cells that can catch light, so you see it again.
-14. (draw) Draw the room in the Ibn al-Haytham story: the dark room, the small hole, and the donkey outside in the sunlight. Draw arrows to show how the picture of the donkey got onto the wall.  
-   **Answer:** An arrow from the Sun to the donkey, then arrows from the donkey through the hole to the wall.. *Why:* Light from the Sun bounced off the donkey. Some of it came through the hole and landed on the wall.
-15. (write) If light bounces off everything, why isn't every room full of images of everything, all mixed up?  
-   **Answer:** Light from every point of every thing spreads out in all directions and mixes together in the room. That is why a white wall just looks bright, not like a picture. A small hole, or the pupil and lens of an eye, sorts the light so each point lands in one place. That makes a picture.. *Why:* This is the puzzle Ibn al-Haytham worked on. Another unit explains how a small hole makes a picture.
-16. (mcq) Why do older people often need more light to read?  
+9. (mcq) Anjali, a girl in Class 5, sits on a dark terrace for 20 minutes and can now see many stars. Then a neighbour's bright white torch shines in her eyes for a moment. What happens next?  
+   Options: She sees fewer stars, and has to wait again for her eyes to get used to the dark / She sees more stars, because the torch added light / Nothing changes  
+   **Answer:** She sees fewer stars, and has to wait again for her eyes to get used to the dark. *Why:* In the 20 minutes, her rod cells slowly built up their light-catching chemical. A flash of bright light uses it up in a moment. Picking 'more stars' forgets that the torch lights her eyes, not the stars. This is why star watchers use only dim red torches.
+10. (mcq) In the blind spot activity, the dot vanished when the card was about 25 cm from your eye. What happens if you move the card back to 50 cm, still staring at the cross?  
+   Options: The dot comes back, because its light no longer lands on the blind spot / The dot stays hidden at every distance / The cross vanishes too  
+   **Answer:** The dot comes back, because its light no longer lands on the blind spot. *Why:* The dot only vanishes when its light lands exactly on the blind spot. At other distances it lands on cells that can catch light, so you see it again. Picking 'hidden at every distance' treats the dot as gone, when only its light's landing place changed.
+11. (draw) In the story The Lamp-Seller's Daughter, a man in Cairo makes a small hole in the shutter of a dark room. A donkey stands outside in the sunlight. Draw the room, the hole and the donkey. Draw arrows to show how the picture of the donkey got onto the wall.  
+   **Answer:** An arrow from the Sun to the donkey, then arrows from the donkey, through the hole, to the wall.. *Why:* Light from the Sun bounced off the donkey. Some of it came through the hole and landed on the wall. A strong drawing has every arrow pointing away from the Sun and towards the wall.
+12. (write) Light bounces off everything in a room. So why isn't a white wall covered in pictures of everything, all mixed up?  
+   **Answer:** Light from every point of every thing spreads out in all directions, and it all mixes on the wall. So the wall just looks bright. A small hole, or the pupil and lens of an eye, lets in light from each point in only one direction. So each point lands in one place, and that makes a picture.. *Why:* This is the puzzle Ibn al-Haytham worked on. A strong answer says the light is mixed on a plain wall, and that a small hole sorts it. Another unit explains how a small hole makes a picture.
+13. (mcq) Why do many older people need more light to read?  
    Options: Their lenses let less light through, and their pupils get smaller with age / They send out weaker rays / Books were printed smaller long ago  
    **Answer:** Their lenses let less light through, and their pupils get smaller with age. *Why:* As we grow old, the lens gets a little cloudy and yellow, and the pupil gets smaller. So less light reaches the retina. Picking 'weaker rays' is the old eye-rays idea.
-17. (mcq) Which idea is the deep truth of this unit?  
-   Options: Part of what you see is filled in by your brain, not brought by light / Your eyes show you exactly what is there, like a photo / Seeing happens only in the eyes  
-   **Answer:** Part of what you see is filled in by your brain, not brought by light. *Why:* In the blind-spot test, the dot vanished, but you saw no hole. Your brain filled the gap with the paper's colour. Picking 'like a photo' is the habit this unit questions. Picking 'only in the eyes' forgets the brain's big part.
-18. (write) Write two or three sentences for a younger child, explaining how they see their teddy bear.  
-   **Answer:** The lamp shines light on your teddy. The light bounces off the teddy and goes into your eyes. Your eyes send a message to your brain, and your brain says 'teddy!'. *Why:* A good answer has a source, a bounce, the eye and the brain, in the right order.
-19. (label) Label the parts of the eye on the drawing: cornea, iris, pupil, lens, retina, optic nerve.  
+14. (perspective) Do we see the world as it really is? Two scientists who studied seeing gave different answers.  
+   **Answer:** A strong answer uses real evidence for each side. For Seth: in the blind spot test, the brain filled in a gap with white that the eye never caught. For Gibson: in the lamps activity, each torch's light arrived on its own spot, carrying real information about where that torch was. It may say both can be partly true.. *Why:* Scientists still argue about this. There is good evidence that the brain fills in and guesses, and also good evidence that light carries a lot of real information.
+15. (label) Label the parts of the eye on the drawing: cornea, iris, pupil, lens, retina, optic nerve.  
    **Answer:** Cornea at the very front, iris as the coloured ring, pupil as the hole in the middle, lens just behind it, retina lining the back, optic nerve leaving the back.. *Why:* Light passes through these parts in order from front to back, and the optic nerve carries the signal on.
 
 ## Videos
@@ -748,48 +731,45 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
 - **Camera or eye: Which sees better?** (TED-Ed, 5 min) id `OGqAM2Mykng`: For the parent: how the eye compares with a camera, including the retina, the rods and cones and the blind spot. *Check:* Found by YouTube search: "Camera or eye: Which sees better? - Michael Mauser" by TED-Ed. Title checked automatically; a parent may still preview it.
 
 ## Quiz
-1. (mcq) When do we see a thing that makes no light, like a book?  
-   Options: When light bounces off it into our eyes / When our eyes send out rays to it / Whenever our eyes are open  
-   **Answer:** When light bounces off it into our eyes. *Why:* Lit objects are seen when light from a source bounces off them into our eyes. Picking 'eyes send out rays' is the old eye-rays idea. Picking 'whenever our eyes are open' forgets that we see nothing in total darkness.
-2. (mcq) Which of these is NOT a light source?  
-   Options: The Sun / A torch that is on / The Moon / A candle flame  
-   **Answer:** The Moon. *Why:* The Moon makes no light of its own. It is a rock lit by the Sun. The others all make their own light.
-3. (mcq) You are in a room with no light at all, with your eyes wide open. What do you see?  
-   Options: Nothing / Grey shapes / Everything after a while  
-   **Answer:** Nothing. *Why:* With no light, there is nothing for the eye to catch. Grey shapes appear only when there is a little light. Waiting helps in dim light, not in total darkness.
-4. (mcq) Which drawing shows how you see a tree in sunshine?  
+1. (mcq) Nithya sits in a dark cinema hall. The film ends and the screen goes black. She cannot see her friend in the next seat. Why not?  
+   Options: No light is bouncing off her friend into her eyes / Her eyes have stopped working / Her friend has become see-through  
+   **Answer:** No light is bouncing off her friend into her eyes. *Why:* Her friend is still there, and Nithya's eyes are fine. But with the screen dark, no light lands on her friend, so none bounces into Nithya's eyes. Picking 'her eyes stopped working' forgets that eyes need light to catch.
+2. (mcq) Which of these is a light source?  
+   Options: A glowing firefly / A shiny steel tumbler / The full Moon  
+   **Answer:** A glowing firefly. *Why:* A firefly makes their own light. A steel tumbler only shines because light bounces off it. The full Moon is a rock lit by the Sun. Picking the Moon is very common, because it looks so bright.
+3. (mcq) A white wall looks bright on a sunny afternoon. Why?  
+   Options: It bounces a lot of sunlight into our eyes / It makes its own light / White paint stores up light  
+   **Answer:** It bounces a lot of sunlight into our eyes. *Why:* A white wall is a lit object. It bounces back most of the light that lands on it. Picking 'makes its own light' mixes up a lit object and a light source.
+4. (mcq) Which arrows show how you see a tree in sunshine?  
    Options: Sun → tree → eye / Eye → tree / Tree → Sun  
    **Answer:** Sun → tree → eye. *Why:* Sunlight lands on the tree, bounces off, and goes into the eye. An arrow from the eye to the tree is the old eye-rays idea.
-5. (mcq) Which part of the eye is a hole that lets light in?  
-   Options: The retina / The pupil / The optic nerve  
-   **Answer:** The pupil. *Why:* The pupil is the hole in the middle of the iris. The retina catches light at the back, and the optic nerve carries signals to the brain.
-6. (mcq) What happens to your pupil when you walk into bright sunshine?  
-   Options: It gets smaller / It gets bigger / It turns blue  
-   **Answer:** It gets smaller. *Why:* In bright light the iris shrinks the pupil to protect the eye. In dim light it opens wide. The colour of the iris does not change.
+5. (mcq) What does the iris, the coloured ring in your eye, do?  
+   Options: Makes the pupil bigger or smaller / Catches light at the back of the eye / Carries signals to the brain  
+   **Answer:** Makes the pupil bigger or smaller. *Why:* The iris is a ring of muscle around the pupil. It opens and closes the pupil. The retina catches light, and the optic nerve carries signals.
+6. (mcq) What happens to your pupils when you walk out into bright sunshine?  
+   Options: They get smaller / They get bigger / They change colour  
+   **Answer:** They get smaller. *Why:* In bright light the iris shrinks the pupil, so less light gets in. In dim light it opens wide. The colour of the iris does not change.
 7. (mcq) In the pupil test, why did we measure three times in each light?  
    Options: Because one look can be a fluke / Because it is more fun / Because the pupil needs three tries to work  
    **Answer:** Because one look can be a fluke. *Why:* Doing a test more than once makes the result more trustworthy. One look might be a mistake. The pupil works every time, but our measuring might not.
-8. (mcq) Why can't you see a toy when a card is in front of your eyes, even though a torch shines on it?  
-   Options: The card stops the toy's bounced light reaching your eyes / The toy stops being lit / Your eyes stop working  
-   **Answer:** The card stops the toy's bounced light reaching your eyes. *Why:* The toy is still lit and your eyes are fine. But the light from the toy cannot reach your eyes. Seeing needs the whole journey.
-9. (mcq) Long ago people thought eyes send out rays. Which clue shows they were wrong?  
-   Options: We can't see in a totally dark room, even with our eyes open / Eyes can blink / Some people wear glasses  
-   **Answer:** We can't see in a totally dark room, even with our eyes open. *Why:* If eyes sent out rays, we would see in the dark. Blinking and glasses don't tell us which way light goes.
+8. (mcq) In the dark box test, you opened the lid a little more each time. What were you changing on purpose?  
+   Options: How much light got into the box / The things inside the box / Which eye you looked with  
+   **Answer:** How much light got into the box. *Why:* A fair test changes one thing on purpose and keeps the rest the same. Here only the light changed, so any change in what you saw came from the light.
+9. (mcq) Looking at a very bright light hurts, and leaves a dark blob floating in your sight. What does this clue tell us?  
+   Options: Something came into the eye from the light / The eye sent out too many rays / The blob is a ray stuck in the eye  
+   **Answer:** Something came into the eye from the light. *Why:* The eye was pressed on by strong light coming in. Ibn al-Haytham used this clue to show that seeing is light coming in, not rays going out.
 10. (mcq) Who showed, about a thousand years ago in Cairo, that light comes into the eye?  
    Options: Ibn al-Haytham / Isaac Newton / Aristotle  
    **Answer:** Ibn al-Haytham. *Why:* Ibn al-Haytham wrote the Book of Optics in Cairo. Isaac Newton was born more than 600 years later. Aristotle lived about 1,300 years earlier. He thought something passes from things to the eye, but he did not test it the way Ibn al-Haytham did.
-11. (mcq) Why did the dot vanish in the blind spot activity, without leaving a hole?  
-   Options: Its light landed where there are no light-catching cells, and the brain filled in the gap / The dot rubbed off / The eye sent a ray that hid it  
-   **Answer:** Its light landed where there are no light-catching cells, and the brain filled in the gap. *Why:* The blind spot is where the optic nerve leaves the eye. The brain fills the gap with what is around it.
+11. (mcq) Every eye has a blind spot. Why don't you notice yours every day?  
+   Options: Your brain fills in the gap, and each eye covers the other eye's blind spot / The blind spot only appears in the dark / The blind spot moves about too fast to notice  
+   **Answer:** Your brain fills in the gap, and each eye covers the other eye's blind spot. *Why:* The blind spot is where the nerve leaves the eye. The brain fills it with what is around it. With both eyes open, each one sees what the other misses.
 12. (mcq) What is a photon?  
    Options: The smallest packet of light / A part of the eye / A kind of camera  
    **Answer:** The smallest packet of light. *Why:* Light comes in tiny packets called photons. A rod cell in the retina can respond to a single one.
 13. (mcq) Which of these do scientists still NOT know?  
    Options: Exactly how the brain turns signals from the eyes into what we experience / Whether light enters the eye / Whether the pupil changes size  
    **Answer:** Exactly how the brain turns signals from the eyes into what we experience. *Why:* Light entering the eye and the pupil changing size are well tested. How the brain turns signals into experience is one of the biggest open questions.
-14. (mcq) A cat's eyes glow in a car's headlights. Why?  
-   Options: The headlights' light bounces off a shiny layer inside the cat's eyes / Cats' eyes make light / Cats can see in total darkness  
-   **Answer:** The headlights' light bounces off a shiny layer inside the cat's eyes. *Why:* Eyeshine is bounced light. Cats see well in dim light, but not in total darkness, and their eyes make no light.
 
 ## Applications
 - Eye doctors look through the pupil at the retina with a bright light, to check that eyes are healthy.

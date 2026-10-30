@@ -3,7 +3,7 @@
 
 **Summary.** A frosted bathroom window lets daylight in, yet nobody can see through it. Materials meet light in three ways. A transparent material, like window glass, lets light straight through, so you see a clear picture. A translucent material, like butter paper, lets light through but scatters it, so you see a glow but no picture. An opaque material, like a steel plate, lets no light through and makes a dark shadow. A thing can change group. A drop of oil makes paper clearer, and crushing turns clear ice white.
 
-**Intro.** *A frosted bathroom window lets plenty of daylight into the bathroom. Yet you cannot see the tree outside through it. How can light get through when the picture does not?* Light gets through frosted glass, but the picture of the tree is lost on the way. In this unit you will test materials from your home with a torch and a card of big letters. You will sort them into three groups: transparent, translucent and opaque. By the end you will know where the picture goes, and why a few drops of oil can bring it back.
+**Intro.** *A frosted bathroom window lets plenty of daylight into the bathroom. Yet you cannot see the tree outside through the glass. How can light get through when the picture does not?* Light gets through frosted glass, but the picture of the tree is lost on the way. In this unit you will test materials from your home with a torch and a card of big letters. You will sort them into three groups: transparent, translucent and opaque. By the end you will know where the picture goes, and why a few drops of oil can bring it back.
 
 ## Learning outcomes
 0. I can say what transparent, translucent and opaque mean, and sort real things into the three groups by testing them with light.
@@ -200,9 +200,9 @@ Everything comes from one source and is connected. In this unit, the same torch 
 
 Meenu lived above her father's cloth shop, in the old part of Lucknow. The lane outside was so narrow that two rickshaws could not pass. Her window looked down on it. Across the window hung a curtain her mother had made. It was white muslin, as thin as a breath, and Ammi had stitched it all over with white flowers. That kind of stitching is called chikan. It had taken her four months, sewing in the quiet hour after everyone else had gone to sleep.
 
-In the daytime, Meenu loved that curtain. She could sit behind it and watch the whole lane. The man frying jalebis in a black pan. The goat that ate posters. The postman who sang old film songs. And nobody ever looked up at her. Once she waved at Mr. Rizvi from the sweet shop. He looked straight at her window and did not wave back. He saw nothing at all.
+In the daytime, Meenu loved that curtain. She could sit behind it and watch the whole lane. The woman frying jalebis in a black pan. The goat that ate posters. The postwoman who sang old film songs. And nobody ever looked up at her. Once she waved at Mrs. Rizvi from the sweet shop. She looked straight at the window and did not wave back. She saw nothing at all.
 
-"It's a magic curtain," Meenu told her little brother Faiz. "I can see out, and nobody can see in."
+"It's a magic curtain," Meenu told her little sister Zoya. "I can see out, and nobody can see in."
 
 Five days before Diwali, Meenu began her secret. Abba's old paper lantern, the kandil that hung over the shop door every year, had torn in last year's rain. "Never mind," he had said. "The shop can be dark this year." Meenu decided it would not be dark. She would make him a new one. She had red kite paper, thin sticks of bamboo, a pot of glue made of flour and water, and eleven rupees of her own, spent on gold paper for the edges.
 
@@ -210,15 +210,15 @@ After school there was homework, and then tuition. So she worked at night. She s
 
 On the third morning, Abba put down his tea and looked at her over his glasses. "Meenu-beti," he said, "who was the giant in your window last night? She had scissors as big as a door."
 
-Faiz laughed so hard that milk came out of his nose. "I saw her too, from the lane," he said. "She was cutting out a big square. Then she put her finger in her mouth, because she cut it."
+Zoya laughed so hard that milk came out of her nose. "I saw her too, from the lane," she said. "She was cutting out a big square. Then she put her finger in her mouth, because she cut it."
 
 Meenu's face went hot. Abba only smiled and went down to open the shop. He did not ask what she was making. But Meenu sat very still. How had they seen? The curtain was magic. She had tested it.
 
 That afternoon she tested it again. She went down into the lane, stood by the jalebi pan and looked up at her own window. She saw a square of white cloth, glowing a little in the sun. Nothing behind it. No desk, no bed, not even the dark shape of the cupboard. The magic was working.
 
-That evening she tried it the other way round. She put Faiz in her room with the lamp lit, and told him to dance. Then she ran down the stairs, out into the lane, and looked up.
+That evening she tried it the other way round. She put Zoya in her room with the lamp lit, and told her to dance. Then she ran down the stairs, out into the lane, and looked up.
 
-There was Faiz. Not his face, but all of him, a dark dancing shape, as clear as a puppet at a puppet show. She could see his elbows. She could see the bright lamp on the desk, and the cupboard behind him. And across the whole curtain, Ammi's white flowers had turned dark. They stood out like a painted garden, every petal and every leaf, black against the glowing cloth.
+There was Zoya. Not her face, but all of her, a dark dancing shape, as clear as a puppet at a puppet show. She could see her sister's elbows. She could see the bright lamp on the desk, and the cupboard behind her. And across the whole curtain, Ammi's white flowers had turned dark. They stood out like a painted garden, every petal and every leaf, black against the glowing cloth.
 
 Meenu stood in the lane for a long time. Ammi came out to buy coriander and found her there. "What are you staring at?"
 
@@ -228,20 +228,20 @@ Ammi looked up. She had never seen her curtain from the lane at night. She tilte
 
 "And the curtain isn't magic," said Meenu. She worked it out aloud. "In the day, the lane is bright and my room is dim. At night, my room is bright and the lane is dark. Whoever is on the bright side shows. The curtain only hides the dim side."
 
-For the last two nights, Meenu took the heavy old razai out of the trunk. It was a thick cotton quilt that no light could get through. She hung it over the window, in front of the muslin. From the lane, Faiz reported, her window was now just a dark square, like every other window. She finished the lantern on the last night. When she held Abba's torch inside it, the red paper glowed all over. You could not see the torch at all, only a warm red light.
+For the last two nights, Meenu took the heavy old razai out of the trunk. It was a thick cotton quilt that no light could get through. She hung it over the window, in front of the muslin. From the lane, Zoya reported, her window was now just a dark square, like every other window. She finished the lantern on the last night. When she held Abba's torch inside it, the red paper glowed all over. You could not see the torch at all, only a warm red light.
 
 On Diwali evening, when the lane was full of lamps and noise, Meenu took the razai down. She hung the new kandil just inside her window, behind the muslin, with a small electric bulb inside it, the way Abba always hung his. She switched off her desk lamp. Then she ran down to the shop and pulled Abba out by the hand into the lane.
 
 "Look up," she said.
 
-Abba looked up. The window glowed red, like a coal. In the middle glowed the lantern itself, brightest of all, with its gold edges showing as dark lines. And all around it, dark against the red light, bloomed Ammi's flowers. There were hundreds of them, every one she had stitched in all those quiet hours. People in the lane stopped and looked up too. The jalebi man said, "Wah." Ammi came out of the shop with a needle still in her hand. She stood beside them and said nothing at all for a long while.
+Abba looked up. The window glowed red, like a coal. In the middle glowed the lantern itself, brightest of all, with its gold edges showing as dark lines. And all around it, dark against the red light, bloomed Ammi's flowers. There were hundreds of them, every one she had stitched in all those quiet hours. People in the lane stopped and looked up too. The jalebi woman said, "Wah." Ammi came out of the shop with a needle still in her hand. She stood beside them and said nothing at all for a long while.
 
 Later, Abba carried the kandil down and hung it over the shop door, where it belonged. But every evening of that Diwali, Meenu switched on a bulb behind the curtain, so that the lane could see the garden that had been there all along.
 
 **For the parent:** For the parent: thin muslin is translucent. Through it, you can see from the dim side into the bright side, but not the other way. By day the lane is bright, so Meenu sees out and is hidden. At night her lamp makes her room the bright side, so the lane sees her. The thick stitches block more light than the thin cloth. So they look white when light falls on them from the front, and dark when light comes from behind. The quilt is opaque and hides everything. Meenu solves her problem by understanding the light, not by finding a better curtain. The story also quietly asks whose patient work goes unseen until someone looks from the right side.
 
-- Ask: In the daytime, why could Meenu see the lane, but Mr. Rizvi could not see her?
-- Ask: Why could Faiz see Meenu's shadow at night, through the same curtain?
+- Ask: In the daytime, why could Meenu see the lane, but Mrs. Rizvi could not see her?
+- Ask: Why could Zoya see Meenu's shadow at night, through the same curtain?
 - Ask: Why did Ammi's white flowers look dark from the lane at night?
 - Ask: Why did hanging the razai over the window keep Meenu's secret?
 - Ask: Ammi had never seen her own flowers from the lane at night. Why do you think she was quiet for so long?
@@ -581,125 +581,121 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
   - Think: Why are so many lampshades made of translucent materials?
 
 ## Worksheets
-### Clear, Cloudy or Blocked? (core) (core, 16 questions)
-1. (mcq) A material that lets light straight through, so you can see clearly through it, is called…  
-   Options: Opaque / Translucent / Transparent  
-   **Answer:** Transparent. *Why:* Transparent materials let light straight through, like window glass. Picking translucent usually means mixing up 'lets light through' with 'lets a clear picture through'. Translucent things let light through but blur the picture.
-2. (mcq) Butter paper lets light through, but you cannot see clearly through it. Butter paper is…  
+### Clear, Cloudy or Blocked? (core) (core, 15 questions)
+1. (mcq) Kavya, a girl in Class 3, holds three things up to the window: cling film, butter paper and a steel plate. Through which one will she see the neem tree outside clearly?  
+   Options: The cling film / The butter paper / The steel plate  
+   **Answer:** The cling film. *Why:* Cling film is transparent: light goes straight through, so the picture of the tree comes through too. Butter paper is translucent: light comes through, but it is scattered, so she sees only a glow. The steel plate is opaque: no light gets through at all.
+2. (mcq) A frosted bathroom window lets daylight in, but you cannot see the street through it. Which word describes frosted glass?  
    Options: Transparent / Translucent / Opaque  
-   **Answer:** Translucent. *Why:* Light gets through, but it is scattered, so there is no picture. That is translucent. Picking opaque usually means noticing that you can't see through it, but forgetting that light still comes through.
-3. (mcq) Which of these is opaque?  
-   Options: A steel plate / Cling film / A frosted bathroom window  
-   **Answer:** A steel plate. *Why:* No light gets through a steel plate, so it is opaque. Cling film is transparent. A frosted window is translucent, because light comes in but no picture.
-4. (sort) Sort these into transparent, translucent and opaque.  
-   **Answer:** window glass → Transparent; clean water → Transparent; butter paper → Translucent; a thin white cotton saree → Translucent; a wooden door → Opaque; a brick → Opaque. *Why:* Glass and water let light straight through. Butter paper and thin cloth let light through but scatter it. Wood and brick let no light through.
-5. (fill) A dark patch where light has been blocked is called a ____.  
-   **Answer:** ['shadow']. *Why:* When an opaque thing blocks light, it leaves a dark patch behind it. That is a shadow.
-6. (truefalse) Transparent things are invisible.  
-   **Answer:** False. *Why:* False. You can still see a glass of water. A little light bounces off its surfaces, and its edges bend some light.
-7. (truefalse) An opaque thing makes a darker shadow than a translucent thing.  
-   **Answer:** True. *Why:* True. An opaque thing blocks all the light, so its shadow is dark. A translucent thing lets some light through, so its shadow is pale.
-8. (match) Match each job to the kind of material it needs.  
-   **Answer:** A shop window to show sweets → transparent; A bathroom window → translucent; A curtain for an afternoon nap → opaque; A lampshade for soft light → translucent. *Why:* We need to see through a shop window. A bathroom needs light without a view in. A nap needs darkness. A lampshade spreads light softly.
-9. (mcq) In the gap test, you lift a material off a card of big letters. The cling film could be lifted 30 cm and the tissue only 1 cm before the word blurred. Which is more see-through?  
-   Options: The tissue / The cling film / We can't tell  
-   **Answer:** The cling film. *Why:* The cling film let the word stay clear much further away, so it scatters light less. Picking the tissue usually means reading the number as 'how much blur' instead of 'how high you could still read the word'.
-10. (mcq) In the gap test, why did we rest our chin on a stack of books?  
-   Options: To keep our eyes at the same height every time / To see better in the dark / To make the letters bigger  
-   **Answer:** To keep our eyes at the same height every time. *Why:* Resting the chin keeps the eyes at the same height, so only the material changes. That makes it a fair test. If our eyes moved, the results would change for a reason that has nothing to do with the material.
-11. (write) Why do many bathrooms have frosted glass windows, not clear ones?  
-   **Answer:** Frosted glass is translucent. It lets daylight into the bathroom. But it scatters the light, so nobody outside can see in.. *Why:* A good answer says both things: light comes in, and the picture is lost, so it is private.
-12. (draw) Draw a torch shining on clear glass, butter paper and a wooden board. Draw what you would see on the wall behind each one.  
-   **Answer:** Behind the glass, a bright clear patch. Behind the butter paper, a soft pale glow. Behind the wood, a dark shadow.. *Why:* Transparent things let the light straight through. Translucent things scatter it. Opaque things block it.
-13. (odd) Which one is the odd one out? Window glass, cling film, a steel spoon, clean water.  
-   Options: Window glass / Cling film / A steel spoon / Clean water  
-   **Answer:** 2. *Why:* A steel spoon is opaque. The others are all transparent.
-14. (mcq) Why do we test each material 3 times in the gap test?  
-   Options: Because one try can be a fluke / Because 3 is a lucky number / To use up the materials  
-   **Answer:** Because one try can be a fluke. *Why:* One try can be a fluke. Our hand might wobble, or we might shout 'stop' too late. Three tries and the middle value give a fairer answer.
-15. (fill) Sunglasses are ____. They let only part of the light through.  
-   **Answer:** ['tinted']. *Why:* Tinted means darkened but still see-through. Sunglasses let some light through, so we can still see, but less of it.
-16. (truefalse) It is safe to look at the Sun if you wear sunglasses.  
-   **Answer:** False. *Why:* False. Sunglasses do not make it safe to look at the Sun. Never look straight at the Sun, with or without sunglasses.
-### See-Through Science at Home (stretch) (stretch, 15 questions)
-1. (mcq) In the oil spot experiment, you put drops of water and oil on paper. Why did the oil spot become see-through?  
-   Options: Oil is a kind of glass / The oil filled the air gaps between the paper threads / The oil made the paper thinner  
-   **Answer:** The oil filled the air gaps between the paper threads. *Why:* Paper is a tangle of threads with air between them. Light bounces at every thread-and-air edge. Oil fills the gaps, so there are far fewer bouncing edges. Picking 'thinner' is a fair guess, but the paper is just as thick.
-2. (mcq) In the oil spot experiment, after one hour the water spot went white again, but the oil spot stayed see-through. Why?  
-   Options: The water dried away and air filled the gaps again / The oil grew bigger / The water turned into oil  
-   **Answer:** The water dried away and air filled the gaps again. *Why:* Water dries up into the air. Then air fills the gaps again and the light scatters once more. Oil does not dry away like that.
-3. (mcq) A pile of sugar is white, but sugar stirred into water is clear. Why?  
-   Options: The sugar is gone / Light bounces off every grain's edges in the pile, but dissolved sugar is too tiny to bounce light / Water paints the sugar clear  
-   **Answer:** Light bounces off every grain's edges in the pile, but dissolved sugar is too tiny to bounce light. *Why:* Many tiny edges make things look white. Dissolved sugar is split into molecules far too small to bounce light. Taste the water: the sugar is still there. Picking 'gone' forgets the sweet taste.
-4. (mcq) Clear ice is crushed into small bits. What colour does the crushed ice look?  
-   Options: Clear, just like before / White / Black  
-   **Answer:** White. *Why:* Each little bit of ice has edges where light bounces. Lots of bits make the heap look white. That is also why snow is white.
-5. (truefalse) A thin curtain hides you in the daytime, but at night with the light on inside, people outside can see you.  
-   **Answer:** True. *Why:* True. You can see from the dim side into the bright side. At night your lit room is the bright side.
-6. (mcq) In the sunglasses lab, a child could read row 5 outside with sunglasses, but only row 2 indoors with them. Why?  
-   Options: Sunglasses only work outside because of the wind / Sunglasses let only part of the light through, and indoors there is little light to start with / The letters were smaller indoors  
-   **Answer:** Sunglasses let only part of the light through, and indoors there is little light to start with. *Why:* Sunglasses cut the light. That helps in bright sun, but indoors there isn't much light, so cutting it makes reading harder. The chart was the same, so the letters did not change.
-7. (mcq) Which label tells you sunglasses block ultraviolet light?  
-   Options: 'Extra dark' / 'UV400' or '100% UV protection' / 'Fashion lens'  
-   **Answer:** 'UV400' or '100% UV protection'. *Why:* Ultraviolet protection must be on the label. Darkness alone does not mean the lenses block ultraviolet light.
-8. (write) Why are some medicine bottles brown or opaque, and not clear?  
-   **Answer:** Light can spoil some medicines. A brown or opaque bottle keeps most of that light out, so the medicine lasts longer.. *Why:* Opaque and dark materials stop light reaching what is inside.
-9. (order) Put these in order, from MOST see-through to LEAST: butter paper, a wooden board, cling film, a cotton handkerchief.  
-   **Answer:** order shown. *Why:* Cling film is transparent. A loose cotton handkerchief lets light and some shapes through its gaps. Butter paper blurs the picture more. Wood is opaque. Your own order may differ a little for the cloth and the paper, depending on how thick they are.
-10. (match) Match each thing to why it looks white or cloudy.  
-   **Answer:** Snow → lots of tiny ice crystals; Foam on water → lots of tiny bubbles; The middle of an ice cube → trapped air bubbles; A pile of salt → lots of tiny grains. *Why:* All of these are made of clear materials. They look white because light bounces off many tiny edges.
-11. (write) Your fingers glow red when you press a torch under them in the dark. Is your hand opaque or translucent? Explain.  
-   **Answer:** My hand is a little translucent. Some red light gets through it, but no picture comes through. For most light it acts nearly opaque.. *Why:* Any honest answer that uses what you saw is good. A hand lets a little red light through, so it is not completely opaque.
-12. (mcq) In the Three-Light Lantern, which side made a pattern of bright spots on the wall?  
+   **Answer:** Translucent. *Why:* Light gets through, so it is not opaque. But the light is scattered, so no clear picture gets through, and it is not transparent. Translucent means light through, picture lost.
+3. (sort) Sort these things into transparent, translucent and opaque.  
+   **Answer:** a clean glass tumbler → Transparent; a clear plastic water bottle → Transparent; a sheet of butter paper → Translucent; a thin white cotton handkerchief → Translucent; a steel tumbler → Opaque; a cardboard box → Opaque. *Why:* Ask two questions. Does light get through? Does a clear picture get through? Both yes: transparent. Light yes, picture no: translucent. No light: opaque.
+4. (truefalse) Many people think that if light gets through something, you must be able to see through it. True or false?  
+   **Answer:** False. *Why:* False. Butter paper, frosted glass and a thin cotton cloth all let light through, but you cannot see a clear picture through them. They are translucent. Light can get through even when the picture cannot.
+5. (write) Revathi shines a torch at a wall, first through a sheet of butter paper, then through a steel plate. Predict what she will see on the wall each time. Explain why.  
+   **Answer:** Through the butter paper, a soft, pale, blurry patch of light, because the paper lets light through but scatters it. Through the steel plate, a dark shadow, because steel is opaque and blocks all the light.. *Why:* A strong answer predicts both results and gives the reason for each: scattered light for the translucent paper, blocked light for the opaque plate.
+6. (fill) An opaque thing blocks light and leaves a dark patch behind it. This dark patch is called a ____.  
+   **Answer:** ['shadow']. *Why:* A shadow is the place light cannot reach because something opaque is in the way. A translucent thing makes only a pale shadow.
+7. (mcq) In the gap test, Lakshmi could lift cling film 30 centimetres off the card before the word blurred. She could lift tissue only 1 centimetre. Which material scatters light more?  
+   Options: The cling film / The tissue / We cannot tell from this  
+   **Answer:** The tissue. *Why:* The more a material scatters light, the sooner the word blurs as you lift it. The tissue blurred the word after only 1 centimetre, so it scatters light much more. A strong answer reads the number as 'how far you could still read', not 'how much blur'.
+8. (mcq) In the gap test, Divya rests her chin on the same stack of books every time. Why does this make the test fair?  
+   Options: Her eyes stay at the same height, so only the material changes / It helps her see in the dark / It makes the letters bigger  
+   **Answer:** Her eyes stay at the same height, so only the material changes. *Why:* A fair test changes only one thing. If her eyes moved up or down between tries, the results could change for a reason that has nothing to do with the material.
+9. (match) Match each job to the kind of material it needs.  
+   **Answer:** a box where shoppers can see the sweets inside → transparent; a paper lantern that spreads soft light → translucent; a curtain for a dark afternoon nap → opaque; a packet that keeps light away from milk → opaque. *Why:* Choose by what the job needs: a clear view (transparent), light without a picture (translucent), or no light at all (opaque).
+10. (write) In the Glowing Hands activity, you pressed a torch under your fingers in a dark room. What did you see? What does it tell you about your hand?  
+   **Answer:** My fingers glowed red at the edges. So some light, mostly red light, can pass through my hand. No picture comes through, so my hand is a little translucent, not completely opaque.. *Why:* A strong answer uses what the child really saw, and uses it to say which group the hand belongs in.
+11. (odd) Which one is the odd one out: a glass of clean water, a steel spoon, a wooden spoon, a brick?  
+   Options: A glass of clean water / A steel spoon / A wooden spoon / A brick  
+   **Answer:** 0. *Why:* Clean water is transparent. The steel spoon, the wooden spoon and the brick are all opaque. A strong answer gives the reason, not just the pick.
+12. (truefalse) Clear glass is completely invisible, because light goes straight through it.  
+   **Answer:** False. *Why:* False. You can still see a glass of water. A little light bounces off its surfaces, so you see shine, and its curved edges bend some light. That is how you can tell the glass is there.
+13. (draw) Draw a torch shining at clear glass, butter paper and a wooden board, one at a time. Draw what you would see on the wall behind each one.  
+   **Answer:** Behind the glass, a bright, sharp patch of light. Behind the butter paper, a soft, pale glow. Behind the wood, a dark shadow.. *Why:* A strong drawing shows three different results: light straight through, light scattered, light blocked.
+14. (perspective) A family is choosing a new window for their bathroom. Three people want different things.  
+   **Answer:** A strong answer picks one window and explains it with how the material treats light. For example, frosted glass is translucent, so light comes in but the picture is lost. It then gives a fair point for another choice: clear glass lets in more light, and a jaali lets in air. The best answers notice that a bathroom needs privacy first, but that each choice gives something up.. *Why:* There is no single right answer. Each material is a trade-off between light, view, privacy and air.
+15. (mcq) Asha says, 'With dark sunglasses on, I can look straight at the Sun safely.' Is she right?  
+   Options: Yes, dark lenses block enough light / No. Sunglasses only cut part of the light. Never look straight at the Sun, with or without them. / Yes, but only in the morning  
+   **Answer:** No. Sunglasses only cut part of the light. Never look straight at the Sun, with or without them.. *Why:* Sunglasses are tinted: they let part of the light through. The Sun is so bright that even that part can harm the eyes. Never look straight at the Sun.
+### See-Through Science at Home (stretch) (stretch, 16 questions)
+1. (mcq) Thenmozhi puts a drop of coconut oil on a piece of white paper. The spot becomes see-through. What did the oil do?  
+   Options: It turned the paper into glass / It filled the air gaps between the paper's threads, so light bounced less / It made the paper thinner  
+   **Answer:** It filled the air gaps between the paper's threads, so light bounced less. *Why:* Paper is a tangle of threads with air between them. Light bounces at every edge between thread and air, which scatters it. Oil fills the gaps, so there are far fewer edges. The paper is just as thick as before.
+2. (write) Predict: if you dip a white cotton handkerchief in water, will it become more see-through or less? Explain using what you found in the Oil Spot Window.  
+   **Answer:** More see-through. Cotton is threads with air between them, like paper. Water fills the air gaps, so light bounces at fewer edges and more light comes straight through. When the cloth dries, it will go back to how it was.. *Why:* A strong answer uses the air-gap idea from the oil-spot test to predict a new material.
+3. (mcq) Lakshmi stirs a spoon of white sugar into a glass of water. The water stays clear. Has the sugar gone?  
+   Options: Yes, it has gone / No. It has split into pieces too tiny to scatter light. The water tastes sweet. / It has turned into water  
+   **Answer:** No. It has split into pieces too tiny to scatter light. The water tastes sweet.. *Why:* A heap of sugar looks white because light bounces off the edges of every grain. Stirred in, the sugar splits into molecules far too small to scatter light, so the water looks clear. Tasting shows the sugar is still there.
+4. (mcq) Farida crushes a clear ice cube into many tiny bits. Predict the colour of the heap.  
+   Options: Clear, just like the cube / White / Black  
+   **Answer:** White. *Why:* Each bit of ice has edges where light bounces. So many edges scatter light in every direction, and the heap looks white. Snow is white for the same reason.
+5. (truefalse) Thick glass, like the heavy bottom of a glass tumbler, often looks greenish and less clear than a thin windowpane.  
+   **Answer:** True. *Why:* True. Glass soaks up a tiny bit of light, a little more of some colours. In thin glass you hardly notice. Through thick glass, it adds up. How see-through a thing is depends on how thick it is.
+6. (mcq) In the Sunglasses Lab, Priya could read row 5 of the chart outdoors with sunglasses on. Indoors with them on, she could read only row 2. What explains this?  
+   Options: Sunglasses only work outside / Sunglasses let only part of the light through, and indoors there is little light to start with / The letters were smaller indoors  
+   **Answer:** Sunglasses let only part of the light through, and indoors there is little light to start with. *Why:* Sunglasses cut the light. In bright sun that helps. Indoors there is not much light, so cutting it makes reading harder. The chart stayed the same, so the letters did not change.
+7. (write) Why are some medicine bottles brown or white and opaque, and not clear?  
+   **Answer:** Light can spoil some medicines. A brown or opaque bottle keeps most of the light out, so the medicine stays good for longer.. *Why:* A strong answer links the material's choice to its job: stopping light reaching what is inside.
+8. (order) Put these in order, from most see-through to least: one sheet of butter paper, two sheets on top of each other, four sheets, eight sheets.  
+   **Answer:** [0, 1, 2, 3]. *Why:* Every extra sheet adds more edges that scatter light and more paper that soaks some up. So the more sheets, the less light gets through. A thick enough pile would be nearly opaque. Being see-through depends on thickness.
+9. (match) Each of these is made of something clear, yet looks white. Match each one to why.  
+   **Answer:** snow → millions of tiny ice crystals; foam on water → millions of tiny bubbles; the cloudy middle of an ice cube → trapped air bubbles; a heap of salt → many tiny grains. *Why:* In every case, light bounces off many tiny edges between the clear material and air, so it scatters in all directions and looks white.
+10. (perspective) Three people argue about whether your hand is opaque.  
+   **Answer:** A strong answer picks a side and backs it with evidence, for example the red glow at the edges of the fingers. It then gives the other side fairly: for ordinary daylight, a hand does block almost everything and makes a dark shadow. The best answers say that the answer depends on the kind of light and how thick the part of the hand is.. *Why:* All three are partly right. Whether something is opaque depends on the kind of light and the thickness, not only on the material.
+11. (mcq) In the Three-Light Lantern, which side made a pattern of bright spots on the wall?  
    Options: The clear plastic side / The butter paper side / The card jaali side with holes  
-   **Answer:** The card jaali side with holes. *Why:* The card is opaque, so it blocks light. The holes let light through, making spots in the same pattern. That is how a stone jaali makes patterns of light on the floor.
-13. (fill) To scatter light means to send it bouncing off in many ____.  
-   **Answer:** ['directions']. *Why:* Translucent things scatter light, sending it off in many directions. That is why the picture is lost.
-14. (draw) Draw a window with a thin curtain, once in the day and once at night with a lamp on inside. Show who can see whom.  
-   **Answer:** Day: a person inside can see the street, but the street sees only a bright curtain. Night: the street can see the person's shape, but the person sees only the curtain.. *Why:* Whoever is on the bright side shows up to whoever is on the dark side.
-15. (truefalse) Wet paper is usually more see-through than dry paper.  
-   **Answer:** True. *Why:* True. Water fills the air gaps between the paper threads, so light bounces less.
+   **Answer:** The card jaali side with holes. *Why:* The card is opaque, so it blocks light everywhere except at the holes. Light goes through the holes in straight lines and makes spots in the same pattern. A stone jaali makes patterns of light on a floor the same way.
+12. (fill) Butter paper sends the light that passes through it bouncing off in many different ____. This is called scattering.  
+   **Answer:** ['directions', 'ways']. *Why:* When light is scattered, the light from each point of a picture gets mixed up with the light from other points, so the picture is lost.
+13. (draw) Draw a window with a thin curtain twice: once in the day, and once at night with a lamp on inside. Show who can see whom.  
+   **Answer:** Day: the person inside can see the street, but the street sees only a bright curtain. Night: the street can see the person's shape, but the person sees only the curtain.. *Why:* A strong drawing shows the rule: whoever is on the bright side is seen by whoever is on the dim side.
+14. (mcq) Which pair of sunglasses protects your eyes better on a sunny beach in Chennai?  
+   Options: Very dark ones with no label / Lighter ones with a 'UV400' label / Both the same, because darker is always safer  
+   **Answer:** Lighter ones with a 'UV400' label. *Why:* Ultraviolet light from the Sun can harm the eyes, and we cannot see it. A UV400 label means the lenses block it. Very dark lenses without it can be worse, because the pupils open wide in the dark and let more ultraviolet light in. Darker is not always safer.
+15. (write) Arjun, a boy in Class 4, says, 'Snow is white because it is made of a white kind of ice.' What is wrong with his idea? How could you show it at home?  
+   **Answer:** Snow is made of ordinary clear ice. It looks white because millions of tiny crystals scatter the light. I could show it by crushing a clear ice cube: the bits look white, though they are the same ice.. *Why:* A strong answer finds the mistake (the ice is not white), gives the real reason (many tiny edges) and names a test.
+16. (sort) Will a few drops of water make each of these clearer to see through, or make no difference?  
+   **Answer:** a sheet of white paper → Gets clearer; a thin cotton cloth → Gets clearer; the rough side of a frosted glass window → Gets clearer; a steel plate → No difference; a wooden board → No difference. *Why:* Water helps only when the material scatters light at tiny air gaps or a rough surface: it fills them. Steel and wood soak up or bounce back the light, so filling gaps cannot help.
 ### From Glass to the Universe (challenge) (challenge, 16 questions)
 1. (mcq) Why is glass see-through, but a steel plate is not?  
-   Options: Glass has holes in it / Glass's electrons can't soak up the light we see, but metal has loose electrons that catch it / Steel is thicker  
-   **Answer:** Glass's electrons can't soak up the light we see, but metal has loose electrons that catch it. *Why:* In glass, the light we see doesn't have the right energy for the electrons to soak it up, so it passes by. Metals have loose electrons that catch light and send it back. Picking 'holes' is a common guess, but glass has no holes you could see through.
-2. (mcq) Window glass lets the light we see through. What does it block much of?  
-   Options: Red light / Ultraviolet light from the Sun / All light at night  
-   **Answer:** Ultraviolet light from the Sun. *Why:* Window glass stops much of the Sun's ultraviolet light, the kind that causes sunburn. That is why you rarely get sunburnt through a closed window.
-3. (mcq) A brick wall is opaque to the light we see. What can still go through it?  
-   Options: Nothing at all / Radio waves and Wi-Fi signals / Sunlight  
-   **Answer:** Radio waves and Wi-Fi signals. *Why:* Radio waves are a kind of light we cannot see. They pass through brick. That is why your phone works indoors. So 'opaque' depends on the kind of light.
-4. (mcq) A sleeping glass frog becomes more see-through. How?  
-   Options: They stop breathing / They hide most of their red blood cells in their liver / They drink lots of water  
-   **Answer:** They hide most of their red blood cells in their liver. *Why:* Scientists found this in 2022. Red blood is easy to spot, so the frog packs most of their red blood cells into their liver while they sleep. When they wake, the blood flows out again.
-5. (mcq) For about the first 380,000 years after the Big Bang, the universe was…  
-   Options: Transparent, like clean glass / Opaque, like thick fog / Completely dark and empty  
-   **Answer:** Opaque, like thick fog. *Why:* The early universe was hot and full of loose particles that light kept bumping into, like light in fog. When it cooled and atoms formed, it became transparent. Picking 'dark and empty' is a natural guess, but it was actually glowing hot.
-6. (truefalse) Old church windows are thicker at the bottom because glass slowly flows downwards.  
-   **Answer:** False. *Why:* False. Old glass was made unevenly, and builders often put the thick edge at the bottom. Some old panes have the thick edge at the top. Glass at room temperature would take longer than the age of the universe to sag noticeably.
-7. (truefalse) Light from the centre of the Sun travels straight out to the surface in a few seconds.  
-   **Answer:** False. *Why:* False. The Sun's inside is so crowded that light keeps bumping and changing direction. Estimates for how long it takes range from about 10,000 to 170,000 years.
-8. (write) Dark matter does not give out light and does not block it. How do scientists know it is there at all?  
-   **Answer:** Stars and galaxies move as if something unseen is pulling on them. Vera Rubin measured how fast stars go round in galaxies, and they were too fast for the matter we can see.. *Why:* We can't see dark matter, but we can see its pull on things we can see.
-9. (write) Some people say good governments and companies should be 'transparent'. What do you think this means? Is it a good idea?  
-   **Answer:** It means letting people see what they are doing and why, like seeing through glass. Many people think it helps stop unfairness, but some things, like your health, should stay private.. *Why:* This is an open question. Any answer that explains the link to see-through materials and gives a reason is good.
-10. (mcq) Katharine Burr Blodgett invented a coating in 1938 that made glass…  
-   Options: Opaque / Even clearer, by stopping most light bouncing off it / Glow in the dark  
-   **Answer:** Even clearer, by stopping most light bouncing off it. *Why:* Ordinary glass bounces back a little light at each surface. Her thin coating stopped most of that bounce, so more light went through. It is used on camera lenses and spectacles today.
-11. (mcq) Gold beaten so thin that it is called gold leaf lets a little greenish light through. What does this show?  
-   Options: Gold is not really a metal / Even opaque materials let some light through if they are thin enough / Gold makes its own light  
-   **Answer:** Even opaque materials let some light through if they are thin enough. *Why:* Thickness matters. A gold coin is opaque, but gold leaf is so thin that a little light gets through. Most opaque things become translucent if made thin enough.
-12. (sort) Sort these into: we want it transparent, or we want it opaque.  
-   **Answer:** spectacle lenses → Transparent; a cover for a bird cage at night → Opaque; the front of a fish tank → Transparent; a milk packet → Opaque; a car windscreen → Transparent; a blackout curtain → Opaque. *Why:* We want to see clearly through lenses, fish tanks and windscreens. We want to keep light away from a sleeping bird, from milk, and from a bedroom for sleep.
-13. (write) In the gap test, butter paper let you read the word when it touched the card, but not when lifted 2 cm. Explain why.  
-   **Answer:** Butter paper scatters light a little. When it touches the card, the light from each letter has no room to spread before it gets through. Lifted up, the scattered light spreads out over a wider area, and the letters blur together.. *Why:* The further the light travels after being scattered, the more it spreads. That is why tracing paper works only when it lies flat on a picture.
-14. (mcq) Why might a bird fly into a clean glass window?  
-   Options: The glass is transparent, so the bird sees the trees behind it and not the glass / Birds like glass / The glass is opaque to birds  
-   **Answer:** The glass is transparent, so the bird sees the trees behind it and not the glass. *Why:* Clean glass lets most light straight through, so the bird sees the view behind it. Some people stick patterns on windows so birds can see the glass.
-15. (truefalse) Scientists still argue about what glass really is: a strange solid, or something in between a solid and a liquid.  
-   **Answer:** True. *Why:* True. Glass's atoms are in no neat order, like a liquid's, but it is stiff like a solid. How it becomes stiff as it cools is still being studied.
-16. (write) Invent a new use for a material that is transparent to one kind of light but opaque to another.  
-   **Answer:** Any good idea. For example: a window that lets in light but blocks the heat, so rooms stay cool in summer.. *Why:* Real engineers make glass like this. Any idea with a clear reason is a good answer.
+   Options: Glass has tiny holes in it / The electrons in glass cannot soak up the light we see, but metal has loose electrons that catch it / Steel is always thicker  
+   **Answer:** The electrons in glass cannot soak up the light we see, but metal has loose electrons that catch it. *Why:* In glass, the light we see does not have the right energy for the electrons to soak it up, so it passes by. Metals have loose electrons that catch light and send it back. A common guess is holes, but glass has no holes you could see through.
+2. (mcq) Meera sits by a closed glass window in the sun all afternoon. Why is she unlikely to get sunburnt?  
+   Options: Window glass blocks much of the Sun's ultraviolet light / Glass makes sunlight cooler / Sunlight cannot pass through glass  
+   **Answer:** Window glass blocks much of the Sun's ultraviolet light. *Why:* Sunburn is caused mainly by ultraviolet light, which we cannot see. Window glass lets the light we see through, but stops much of the ultraviolet. So glass is transparent to one kind of light and nearly opaque to another.
+3. (truefalse) A brick wall is opaque, so no kind of light can pass through it.  
+   **Answer:** False. *Why:* False. Brick blocks the light we see, but radio waves and Wi-Fi signals, which are kinds of light we cannot see, pass through it. That is why a phone works indoors. Opaque always means opaque to a certain kind of light.
+4. (mcq) Glass frogs live in rainforests in Central and South America. When a glass frog sleeps, the frog becomes more see-through. How?  
+   Options: They stop breathing / They pack most of their red blood cells into their liver / They drink a lot of water  
+   **Answer:** They pack most of their red blood cells into their liver. *Why:* Scientists found this in 2022. Red blood is easy to spot, so while they sleep the frog hides most of their red blood cells in the liver. When they wake, the blood flows out again.
+5. (mcq) For about the first 380,000 years after the Big Bang, light could not travel far through the universe. What was the universe like?  
+   Options: Transparent, like clean glass / Opaque, like a thick fog / Completely dark and empty  
+   **Answer:** Opaque, like a thick fog. *Why:* The early universe was hot and full of loose particles that light kept bumping into, like light in fog. When it cooled and atoms formed, it became transparent. 'Dark and empty' is a natural guess, but it was glowing hot.
+6. (truefalse) Many people say old church windows are thicker at the bottom because glass slowly flows downwards over hundreds of years. Is this true?  
+   **Answer:** False. *Why:* False. Old glass was made unevenly, and builders often put the thick edge at the bottom. Some old panes have the thick edge at the top. Scientists worked out that glass at room temperature would take far longer than the age of the universe to sag enough to see.
+7. (truefalse) Light made deep in the centre of the Sun reaches the Sun's surface within a few seconds.  
+   **Answer:** False. *Why:* False. The inside of the Sun is so crowded that light keeps bumping into particles and changing direction, like a person trying to cross a packed crowd. Estimates for how long it takes range from about 10,000 to 170,000 years.
+8. (write) A gold coin is opaque. Gold beaten into gold leaf, thinner than paper, lets a little greenish light through. What does this tell you about whether 'opaque' is fixed for a material?  
+   **Answer:** It is not fixed. The same gold is opaque when it is thick and lets light through when it is very thin. So being opaque depends on thickness, not only on what a thing is made of.. *Why:* A strong answer uses the gold example to make a general rule, and may add another example, like many sheets of butter paper.
+9. (perspective) Scientists have argued about what glass really is.  
+   **Answer:** A strong answer picks a view and gives evidence, for example that window glass does not sag or flow, so it acts like a solid. It then states the other side fairly: inside, its atoms are jumbled like a liquid's, unlike the neat rows in salt or ice. The best answers say both facts are true, which is why the question is hard.. *Why:* This is a real open question. Glass acts like a solid but is arranged like a liquid, so each side points to true evidence.
+10. (write) In the gap test, butter paper let you read the word when it touched the card, but not when you lifted it 2 centimetres. Explain why.  
+   **Answer:** Butter paper scatters light only a little. When it touches the card, the light from each letter has no room to spread before it comes through. When it is lifted, the scattered light spreads out over a wider patch, and the letters blur into each other.. *Why:* A strong answer says that the further scattered light travels, the more it spreads. That is why tracing paper works only when it lies flat on the picture.
+11. (mcq) In 1938, Katharine Burr Blodgett invented a very thin coating for glass. With it, glass bounced back almost no light. Why did this make the glass clearer?  
+   Options: More light went through, instead of bouncing off / The coating made the glass thinner / The coating made its own light  
+   **Answer:** More light went through, instead of bouncing off. *Why:* Ordinary glass bounces back a little light at each surface, which makes a faint shine and reflections. Her coating stopped most of that bounce, so more light went through. Coatings like hers are used on camera lenses and spectacles today.
+12. (sort) For each thing, do we want it transparent, translucent or opaque?  
+   **Answer:** spectacle lenses → Transparent; the front of a fish tank → Transparent; a lampshade for a reading lamp → Translucent; a cover for a bird cage at night → Opaque; a blackout curtain for sleep → Opaque; a car windscreen → Transparent. *Why:* We choose a material by what the job needs: a clear view, soft light without glare, or darkness. A strong sorter can say the job behind each choice.
+13. (mcq) Why do birds sometimes fly into a clean glass window?  
+   Options: The glass is transparent, so the bird sees the trees through the glass and not the glass itself / Birds like the shine on glass / The glass is opaque to birds  
+   **Answer:** The glass is transparent, so the bird sees the trees through the glass and not the glass itself. *Why:* Clean glass lets most light straight through, so the view behind the glass looks like open space. Sticking patterns or stickers on windows helps birds see that the glass is there.
+14. (write) Invent a new use for a material that lets one kind of light through but blocks another kind.  
+   **Answer:** Any idea with a clear reason. For example: a window that lets in the light we see but blocks heat from the Sun, so rooms stay cool in summer.. *Why:* Real engineers make glass like this. A strong answer names which kind of light passes, which is blocked, and why that helps.
+15. (write) At night, a thin curtain shows you to the street when your lamp is on. Without buying a thicker curtain, give two ways to keep your room private in the evening. Explain each one.  
+   **Answer:** For example: switch off the lamp near the window and use a small lamp further inside, so the room is less bright than the street. Or hang a thick opaque cloth, like a razai, over the window at night. Or keep a light on outside the window so the outside is the bright side.. *Why:* A strong answer uses the rule that the bright side is the one that shows, or uses an opaque material to block the light.
+16. (match) Match each material to what it mostly does to light.  
+   **Answer:** clear window glass → lets most light straight through; butter paper → scatters light in many directions; black cloth → absorbs light, soaking it up; a steel plate → bounces most light back. *Why:* Light that meets a material can pass straight through, be scattered, be absorbed or bounce back. Most materials do a mix. The biggest part decides how the material looks.
 
 ## Videos
 - **Why is glass transparent? (TED-Ed, by Mark Miodownik)** (TED-Ed, 4 min) id `VwRLIt6jgdM`: For the parent and older children: why light passes through glass but not through wood, told with clear animation. *Check:* Found by YouTube search: "Why is glass transparent? - Mark Miodownik" by TED-Ed. Title checked automatically; a parent may still preview it.
@@ -707,45 +703,45 @@ Later, Abba carried the kandil down and hung it over the shop door, where it bel
 - **The cosmic microwave background explained** (Fermilab, 6 min) id `AYFDN2DSVgc`: For the parent: the oldest light, from when the universe became transparent. *Check:* Found by YouTube search: "What is the Cosmic Microwave Background?" by Fermilab. Title checked automatically; a parent may still preview it.
 
 ## Quiz
-1. (mcq) Which material is transparent?  
-   Options: Clean window glass / Butter paper / A wooden door  
-   **Answer:** Clean window glass. *Why:* You can see clearly through clean glass, so it is transparent. Picking butter paper usually means noticing light gets through, but forgetting the picture is blurred.
-2. (mcq) A frosted bathroom window is…  
-   Options: Transparent / Translucent / Opaque  
-   **Answer:** Translucent. *Why:* Light comes through, but no clear picture. That is translucent. Picking opaque means forgetting that the bathroom is still bright.
-3. (mcq) What makes a dark shadow?  
-   Options: A transparent thing / A translucent thing / An opaque thing  
-   **Answer:** An opaque thing. *Why:* An opaque thing blocks all the light, so behind it is dark. A translucent thing makes only a pale shadow.
-4. (mcq) In the gap test, you lift each material off a card of big letters. What do we change, to keep it fair?  
-   Options: Only the material / The material and the card / The light and the material  
-   **Answer:** Only the material. *Why:* In a fair test we change only one thing. Here it is the material. If we changed the card or the light too, we wouldn't know which change made the difference.
+1. (mcq) Through which of these could you read a newspaper clearly?  
+   Options: A clear plastic file cover / A sheet of butter paper / A piece of cardboard  
+   **Answer:** A clear plastic file cover. *Why:* The clear plastic cover is transparent, so the picture of the words comes through. Butter paper scatters the light, so the words blur. Cardboard blocks the light.
+2. (mcq) A paper lantern glows when the bulb inside is on, but you cannot see the shape of the bulb. The paper is…  
+   Options: transparent / translucent / opaque  
+   **Answer:** translucent. *Why:* Light comes through the paper, but scattered, so the picture of the bulb is lost. That is translucent.
+3. (mcq) Which of these makes the darkest shadow on the wall?  
+   Options: A glass tumbler / A sheet of butter paper / A steel tumbler  
+   **Answer:** A steel tumbler. *Why:* The steel tumbler is opaque and blocks all the light. Butter paper makes a pale shadow, and a glass tumbler hardly any.
+4. (mcq) In the gap test, why do we try each material three times?  
+   Options: Because one try can be a fluke / Because three is a lucky number / To use up the materials  
+   **Answer:** Because one try can be a fluke. *Why:* A hand can wobble, or someone can say 'stop' too late. Three tries, and taking the middle result, give a fairer answer.
 5. (mcq) In the gap test, the plastic bag could be lifted 6 cm before the word blurred, and the butter paper only 2 cm. How many times higher was the plastic bag?  
    Options: 3 times / 4 times / 8 times  
    **Answer:** 3 times. *Why:* 6 divided by 2 is 3. So the plastic bag could be lifted 3 times as high. Picking 4 usually means subtracting, 6 take away 2, instead of dividing.
-6. (mcq) Why does a drop of oil make paper see-through?  
-   Options: Oil fills the air gaps, so light bounces less / Oil burns a hole in the paper / Oil is a kind of light  
-   **Answer:** Oil fills the air gaps, so light bounces less. *Why:* Light bounces at every edge between paper and air. Oil fills those gaps, so the light passes through with less bouncing.
-7. (mcq) Snow is made of clear ice. Why does it look white?  
-   Options: It is frozen milk / Light bounces off millions of tiny ice crystal edges / It is colder than ice  
-   **Answer:** Light bounces off millions of tiny ice crystal edges. *Why:* Lots of tiny edges bounce light in every direction, so snow looks white. A single big clear ice cube is see-through.
-8. (mcq) You want your bedroom dark for an afternoon nap. Which curtain is best?  
-   Options: A thin white muslin curtain / A thick opaque curtain / A clear plastic sheet  
-   **Answer:** A thick opaque curtain. *Why:* An opaque curtain blocks the light. Muslin is translucent, so light still comes through. A clear sheet lets almost all light in.
-9. (mcq) What should good sunglasses do?  
-   Options: Be as dark as possible / Let part of the light through and block ultraviolet light / Make it safe to look at the Sun  
-   **Answer:** Let part of the light through and block ultraviolet light. *Why:* Good sunglasses cut bright light and block ultraviolet light, which is shown by a UV400 label. They never make it safe to look at the Sun. Darker is not always safer.
-10. (mcq) At night, with your room lamp on, people in the street can see you through a thin curtain. Why?  
-   Options: Curtains get thinner at night / Your room is now the bright side / The street lights make the curtain disappear  
-   **Answer:** Your room is now the bright side. *Why:* Through a thin curtain, you see from the dim side into the bright side. At night your room is the bright side, so you show.
-11. (mcq) Your fingers glow red over a torch. What does this show?  
-   Options: Your hand makes red light / Some light can pass through your hand / The torch is broken  
-   **Answer:** Some light can pass through your hand. *Why:* A little light, mostly red, passes through skin and blood. So even a hand is not completely opaque. Picking 'makes red light' is a natural guess, but the glow stops when the torch is off.
-12. (mcq) Which of these do scientists still argue about?  
-   Options: Whether glass is transparent / What glass really is, deep down / Whether wood is opaque  
-   **Answer:** What glass really is, deep down. *Why:* Everyone agrees glass is transparent. But scientists still argue about what kind of material glass is, a stiff solid whose atoms are in no neat order, like a liquid's.
-13. (mcq) For about 380,000 years after the Big Bang, light could not travel far through the universe. Why?  
-   Options: There was no light yet / The universe was full of loose particles, like a thick fog / The universe was made of glass  
-   **Answer:** The universe was full of loose particles, like a thick fog. *Why:* Light kept bumping into loose particles, as in fog. When it cooled and atoms formed, the universe became transparent.
+6. (mcq) Why does wet paper let more light through than dry paper?  
+   Options: Water fills the air gaps between the threads, so light bounces less / Water makes the paper thinner / Water gives out light  
+   **Answer:** Water fills the air gaps between the threads, so light bounces less. *Why:* Light scatters at every edge between paper and air. Water fills those gaps, so more light goes straight through.
+7. (mcq) A heap of salt looks white, but one big salt crystal is see-through. Why?  
+   Options: The heap has many tiny edges that scatter light / The heap is made of a different salt / The big crystal is wet  
+   **Answer:** The heap has many tiny edges that scatter light. *Why:* Each grain has edges where light bounces. Many grains scatter light in all directions, so the heap looks white. One big crystal has few edges.
+8. (mcq) Kavya is packing Pongal sweets in boxes. She wants shoppers to see the sweets without opening the box. Which lid should she use?  
+   Options: A clear plastic lid / A butter paper lid / A cardboard lid  
+   **Answer:** A clear plastic lid. *Why:* To see the sweets, the lid must let a clear picture through, so it must be transparent.
+9. (mcq) Why do sunglasses help on a bright, sunny day?  
+   Options: They let only part of the light through, so there is less glare / They make the Sun safe to look at / They make the light warmer  
+   **Answer:** They let only part of the light through, so there is less glare. *Why:* Sunglasses are tinted. They cut the bright light so your eyes are comfortable, and good ones also block ultraviolet light. They never make it safe to look at the Sun.
+10. (mcq) In the daytime, Meenu sits in her dim room behind a thin curtain. The lane outside is bright. Who can see whom?  
+   Options: Meenu can see the lane, but the lane cannot see her / The lane can see Meenu, but she cannot see out / Nobody can see anybody  
+   **Answer:** Meenu can see the lane, but the lane cannot see her. *Why:* Through a thin curtain, you can see from the dim side into the bright side. By day the lane is the bright side, so Meenu sees out and stays hidden.
+11. (mcq) One sheet of tissue paper is translucent. What happens if you stack twenty sheets?  
+   Options: The stack becomes nearly opaque / The stack becomes transparent / Nothing changes  
+   **Answer:** The stack becomes nearly opaque. *Why:* Each sheet scatters and soaks up some light. With twenty sheets, almost no light gets through. Being see-through depends on thickness.
+12. (mcq) Which question about glass do scientists still argue about?  
+   Options: Whether glass lets light through / What kind of material glass really is, deep down / Whether glass can break  
+   **Answer:** What kind of material glass really is, deep down. *Why:* Everyone agrees glass is transparent and can break. But glass is stiff like a solid while its atoms are jumbled like a liquid's, and scientists still study what kind of material that makes it.
+13. (mcq) When you press a torch under your fingers in the dark, which colour of light gets through your hand the most?  
+   Options: Blue / Red / Green  
+   **Answer:** Red. *Why:* Skin and blood soak up most colours, but red light gets through best. That is why your fingers glow red.
 
 ## Applications
 - Windows of glass let in light and a view, while keeping out wind, rain and dust.

@@ -141,7 +141,7 @@
      "kind": "talk",
      "title": "A soup and a spark",
      "mins": 12,
-     "do": "Say: 'In 1924, the Russian scientist Alexander Oparin had an idea. In 1929, the British scientist J. B. S. Haldane had the same idea on his own. The young Earth had no oxygen in its air. Lightning and the Sun's ultraviolet light could join simple gases into the chemicals of life. These would collect in the sea. Haldane called it a hot dilute soup.' Add: 'Haldane later moved to India in 1957, worked in Kolkata and Bhubaneswar, and became an Indian citizen.' Then say: 'In 1952, a young student in America, Stanley Miller, tested it. With his teacher Harold Urey, he sealed four gases in glass flasks: methane, ammonia, hydrogen and water vapour. He boiled the water and made electric sparks, like small lightning, for a week.' Ask: 'What do you think he found in the water? Why?' Wait. Then say: 'The water turned pink, then brown. In it were amino acids, the building blocks of proteins. Urey took his name off the paper, so that the young student would get the credit.' Ask: 'Why might a famous scientist do that?'"
+     "do": "Say: 'In 1924, the Russian scientist Alexander Oparin had an idea. In 1929, the British scientist J. B. S. Haldane had the same idea on his own. The young Earth had no oxygen in its air. Lightning and the Sun's ultraviolet light could join simple gases into the chemicals of life. These would collect in the sea. Haldane called it a hot dilute soup.' Add: 'Haldane later moved to India in 1957, worked in Kolkata and Bhubaneswar, and became an Indian citizen.' Then say: 'In 1952, a young student in America, Stanley Miller, tested it. With his teacher Harold Urey, he sealed four gases in glass flasks: methane, ammonia, hydrogen and water vapour. He boiled the water and made electric sparks, like small lightning, for a week.' Ask: 'What do you think he found in the water? Why?' Wait. Then say: 'The water turned pink, then deep red. In it were amino acids, the building blocks of proteins. Urey took his name off the paper, so that the young student would get the credit.' Ask: 'Why might a famous scientist do that?'"
     },
     {
      "kind": "act",
@@ -227,7 +227,7 @@
      "kind": "talk",
      "title": "Why switch to DNA?",
      "mins": 10,
-     "do": "Say: 'RNA was good at many jobs, but it has a problem. It breaks easily. DNA is a sturdier copy of the same kind of chain. Its sugar has one oxygen atom fewer, which is what deoxyribose means, and that makes it last longer. It uses the letter T where RNA uses U. And it has two strands, so if one is damaged, the cell can repair it using the other.' Ask: 'If you had to keep an important recipe for a thousand years, would you write it on a paper napkin or carve it in stone?' Say: 'Scientists think life moved its instructions into DNA, and RNA became the messenger and the worker. Some viruses still keep their instructions in RNA, such as the flu virus.'"
+     "do": "Say: 'RNA was good at many jobs, but it has a problem. It breaks easily. DNA is a sturdier copy of the same kind of chain. Its sugar has one oxygen atom fewer. That is what the 'deoxy' in deoxyribose means. This makes DNA last longer. It uses the letter T where RNA uses U. And it has two strands, so if one is damaged, the cell can repair it using the other.' Ask: 'If you had to keep an important recipe for a thousand years, would you write it on a paper napkin or carve it in stone?' Say: 'Scientists think life moved its instructions into DNA, and RNA became the messenger and the worker. Some viruses keep their instructions in RNA, such as the flu virus.'"
     },
     {
      "kind": "game",
@@ -239,7 +239,7 @@
      "kind": "talk",
      "title": "One code, one family",
      "mins": 5,
-     "do": "Say: 'A mango tree, an ant, a mushroom, the bacteria in curd and you all read this same code. AUG means start in almost every living thing. A code like this could have been different, so the best explanation is that all life inherited it from one shared ancestor. Scientists call it LUCA, the last universal common ancestor. A 2024 study estimated it lived about 4.2 billion years ago. Others think that is too early. Nobody knows for sure.' Ask: 'Did LUCA live alone?' (Probably not. It was likely one population among many kinds of early cells. Only its descendants survived.)"
+     "do": "Say: 'A mango tree, an ant, a mushroom, the bacteria in curd and you all read this same code. AUG means start in almost every living thing. A code like this could have been different, so the best explanation is that all life inherited it from one shared ancestor. Scientists call it LUCA, the last universal common ancestor. A 2024 study estimated that LUCA lived about 4.2 billion years ago. Others think that is too early. Nobody knows for sure.' Ask: 'Did LUCA live alone?' (Probably not. LUCA was likely one population among many kinds of early cells. Only LUCA's descendants survived.)"
     }
    ],
    "need": [
@@ -277,13 +277,13 @@
      "kind": "talk",
      "title": "A skin for the chain",
      "mins": 12,
-     "do": "Say: 'Remember the soap bubbles from Class 3? A chain of RNA floating in the open sea has a problem. Its pieces and helpers drift away, and nothing keeps them close. A thin, fatty skin around it solves this. It keeps the chain and its helpers together. This skin is called a membrane.' Then say: 'In the lab, the American scientist Jack Szostak and his team made tiny bubbles from fatty acids, the kind of fat that could form on the young Earth. When they fed them more fatty acid, the bubbles grew. They stretched into long threads, and gentle shaking split them into smaller bubbles. Clay helped the bubbles form, and RNA could stick to the clay and end up inside.' Ask: 'Which signs of life did these bubbles show?' (They grew and divided. But they did not make copies of their own instructions, so they were not alive.) Say: 'Scientists call bubbles like this protocells, first cells. A membrane also makes an inside and an outside: the first self, and everything else.'"
+     "do": "Say: 'Remember the soap bubbles from Class 3? A chain of RNA floating in the open sea has a problem. Its pieces and helpers drift away, and nothing keeps them close. A thin, fatty skin around it solves this. It keeps the chain and its helpers together. This skin is called a membrane.' Then say: 'In the lab, Jack Szostak, a scientist working in America, and his team made tiny bubbles from fatty acids, the kind of fat that could form on the young Earth. When they fed them more fatty acid, the bubbles grew. They stretched into long threads, and gentle shaking split them into smaller bubbles. Clay helped the bubbles form, and RNA could stick to the clay and end up inside.' Ask: 'Which signs of life did these bubbles show?' (They grew and divided. But they did not make copies of their own instructions, so they were not alive.) Say: 'Scientists call bubbles like this protocells, first cells. A membrane also keeps the cell's inside separate from everything outside.'"
     },
     {
      "kind": "talk",
      "title": "A cell that chooses",
      "mins": 8,
-     "do": "Say: 'A single bacterium like E. coli, which lives in your gut, has no brain. But it senses, remembers and chooses. It has sensors on its membrane for food and poison. It swims by spinning thin tails called flagella. Every second or so it checks: is there more food now than a few seconds ago? If yes, it keeps swimming straight. If no, it tumbles and tries a new direction. So it remembers a few seconds back, and chooses.' Say: 'Every cell is aware of its world in its own way. Some scientists prefer to call this a chemical response, not a mind.' Ask: 'Is choosing without a brain still choosing? What do you think?'"
+     "do": "Say: 'A single bacterium like E. coli, which lives in your gut, has no brain. But it senses, remembers and chooses. They have sensors on their membrane for food and poison. They swim by spinning thin tails called flagella. Every second or so they check: is there more food now than a few seconds ago? If yes, they keep swimming straight. If no, they tumble and try a new direction. So they remember a few seconds back, and choose.' Say: 'Every cell is aware of their world in their own way. Some scientists prefer to call this a chemical response, not a mind.' Ask: 'Is choosing without a brain still choosing? What do you think?'"
     },
     {
      "kind": "ws",
@@ -296,7 +296,7 @@
      "kind": "exp",
      "title": "Check the potato strips",
      "mins": 8,
-     "do": "Take the strips out of Experiment e4 and bend each one. Ask: 'Which are floppy? Was your guess right?' After they answer, say: 'Water moves through a membrane towards the side where more things are dissolved. This is called osmosis. The salt water outside pulled water out of the potato cells, so they went limp. Every cell's membrane is always deciding what passes in and out.'",
+     "do": "Take the strips out of Experiment e4 and bend each one. Ask: 'Which are floppy? Was your guess right?' After they answer, say: 'Water moves through a membrane towards the side where more things are dissolved. This is called osmosis. The salt water outside drew water out of the potato cells, so they went limp. Every cell's membrane is always deciding what passes in and out.'",
      "ref": "e4"
     }
    ],
@@ -497,7 +497,7 @@
      [
       {
        "t": "mcq",
-       "p": "Francesco Redi put meat in open jars and in jars covered with cloth. Where did maggots grow?",
+       "p": "In 1668, Francesco Redi, an Italian doctor, put meat in open jars and in jars covered with fine cloth. Where did maggots grow?",
        "opts": [
         "only in the open jars",
         "only in the covered jars",
@@ -681,7 +681,7 @@
       },
       {
        "t": "mcq",
-       "p": "Kavya's mitochondria came from which parent?",
+       "p": "In the story 'The Guest Who Stayed', Kavya is a girl who runs a race. Her mitochondria came from which parent?",
        "opts": [
         "her mother",
         "her father",
@@ -739,7 +739,7 @@
       },
       {
        "t": "mcq",
-       "p": "Farhan's boiled dal water in a covered jar still went cloudy. What is the most likely reason?",
+       "p": "Farhan, a boy in Class 5, boiled dal water and covered the jar with foil. After 3 days it still went cloudy. What is the most likely reason?",
        "opts": [
         "some microbes make tough spores that survive boiling",
         "the dal water made life by itself",
@@ -841,10 +841,10 @@
     "Put the raw potato in glass A and the boiled potato in glass B.",
     "A grown-up pours 2 tablespoons of hydrogen peroxide into each glass.",
     "Watch both for one minute.",
-    "Hold a hand above each glass. Do you feel or hear anything?"
+    "Put an ear close to each glass. Can you hear fizzing?"
    ],
    "predict": "Ask: 'What will happen in each glass? Will they be the same? Why?'",
-   "observe": "The raw potato fizzes and makes a thick white foam within seconds. The boiled potato makes few or no bubbles.",
+   "observe": "The raw potato fizzes and makes white foam within a minute. The boiled potato makes few or no bubbles.",
    "why": "Hydrogen peroxide slowly breaks down into water and oxygen gas on its own. Raw potato cells contain an enzyme called catalase, which makes this happen thousands of times faster. The bubbles in the foam are oxygen. Catalase protects cells, because hydrogen peroxide forms inside them and would damage them. An enzyme is a catalyst made by a living thing. It works only when it has the right shape. Boiling changes the shape of catalase, so the boiled potato hardly reacts. Most enzymes are proteins, but some catalysts in cells are made of RNA, called ribozymes.",
    "safety": "A grown-up pours the hydrogen peroxide. Keep it away from eyes, and rinse with water if it splashes on skin. Do not drink it or eat the potato afterwards. Pour everything down the drain when you finish.",
    "time": "15 min"
@@ -900,7 +900,7 @@
     "Take the strips out, dry them on a cloth, and bend each one again. Compare."
    ],
    "predict": "Ask: 'Which strips will be floppy in 30 minutes? Why do you think so?'",
-   "observe": "The strips from the salty water are soft and bend easily. The strips from the plain water stay stiff and crisp, or get a little stiffer.",
+   "observe": "The strips from the salty water are soft and bend easily. The strips from the plain water stay stiff and crisp, or get a little stiffer. If the salty strips are not floppy yet, leave them 30 minutes more.",
    "why": "Each potato cell has a membrane that lets water pass through easily, but not salt. Water moves through a membrane towards the side where more is dissolved in it. This is called osmosis. The salty water outside has more dissolved in it than the cells do, so water moves out of the cells and they go limp. In plain water, a little water moves in, and the cells stay full and firm. This is why salted cucumber gives out water. A membrane is what lets a cell keep its own inside different from the outside.",
    "safety": "A grown-up cuts the strips. Don't eat the strips afterwards.",
    "time": "7 min + 30 min wait + 8 min"
@@ -928,7 +928,7 @@
    ],
    "predict": "Ask: 'Which balloon will fill? Why?'",
    "observe": "The balloon on the sugar bottle slowly stands up and starts to fill. The water froths. The balloon on the bottle without sugar stays almost flat.",
-   "why": "Dry yeast is made of millions of living single cells, resting. Warm water wakes them up. They take in the sugar and use it for energy, and give out carbon dioxide gas, which fills the balloon. Without sugar, they have little food, so they make little gas. Yeast cells are eukaryotes, like the cells in your body, and they have mitochondria. With oxygen, yeast uses its mitochondria to get energy from sugar. When the oxygen in the bottle runs out, it switches to another way, called fermentation. This is how yeast makes bread dough rise. If you have no yeast, mark the level of a glass of fresh idli or dosa batter with tape and look the next morning: microbes in the batter also give out gas and make it rise.",
+   "why": "Dry yeast is made of millions of living single cells, resting. Warm water wakes them up. They take in the sugar and use it for energy, and give out carbon dioxide gas, which fills the balloon. Without sugar, they have little food, so they make little gas. Yeast cells are eukaryotes, like the cells in your body, and they have mitochondria. With oxygen, yeast cells use their mitochondria to get energy from sugar. When the oxygen in the bottle runs out, they switch to another way, called fermentation. This is how yeast makes bread dough rise. If you have no yeast, mark the level of a glass of fresh idli or dosa batter with tape and look the next morning: microbes in the batter also give out gas and make it rise.",
    "safety": "Use warm water, never hot. Don't drink the mixture. Pour it away at the end and rinse the bottles.",
    "time": "5 min + 30 to 40 min wait + 8 min"
   }
@@ -1007,8 +1007,8 @@
     "Your child is the host, an archaeon. They hold the dupatta in a ring around themselves. That is the membrane.",
     "A grown-up or sibling is the small bacterium, holding the energy coins. They can use oxygen to get energy from food.",
     "Scene 1: the two cells live side by side and swap food.",
-    "Scene 2: the host wraps the dupatta round the bacterium too. It is now inside.",
-    "Scene 3: the host tries to digest the guest, but it stays whole.",
+    "Scene 2: the host wraps the dupatta round the bacterium too. The bacterium is now inside.",
+    "Scene 3: the host tries to digest the guest, but the guest stays whole.",
     "Scene 4: the guest hands over energy coins. The host gives shelter and food. Both are better off.",
     "Scene 5: the host splits into two (open the dupatta into two smaller rings), and the guest splits too, one in each.",
     "End by asking: 'Can they live apart now?' (Not any more. Over a very long time each came to depend on the other.)"
@@ -1097,7 +1097,7 @@
    },
    {
     "job": true,
-    "front": "EVIDENCE: MITOCHONDRIAL DNA"
+    "front": "EVIDENCE: DNA IN MITOCHONDRIA AND CHLOROPLASTS"
    },
    {
     "job": true,
@@ -1137,7 +1137,7 @@
    },
    {
     "front": "Mitochondria were once free-living bacteria.",
-    "back": "MITOCHONDRIAL DNA"
+    "back": "DNA IN MITOCHONDRIA AND CHLOROPLASTS"
    },
    {
     "front": "Fatty bubbles can grow and divide without being alive.",
@@ -1157,7 +1157,7 @@
    },
    {
     "front": "Chloroplasts were once cyanobacteria.",
-    "back": "MITOCHONDRIAL DNA"
+    "back": "DNA IN MITOCHONDRIA AND CHLOROPLASTS"
    },
    {
     "front": "Amino acids have been found inside a meteorite.",
@@ -1259,15 +1259,15 @@
    "My job is simple to say. Kavya breathes in air. Her blood carries the oxygen down to me. Her breakfast reaches me too, idli and sambar broken into small pieces of sugar and fat. I put the oxygen and the food together, slowly, in many small steps, and I catch the energy that comes out. I pack it into tiny molecules called ATP, and the muscle uses them to pull. Every step Kavya took, we paid for.",
    "Halfway round, Kavya was breathing hard. Her heart was thumping. Meenakshi was two steps ahead, then three. The muscle wanted more energy, and more, and more. We worked as fast as we could.",
    "While we work, let me tell you where I come from. I am not quite Kavya. I am a guest.",
-   "About two billion years ago, there were no animals and no plants. There was nothing you could see. The sea was full of single cells. Two of them matter to my story. One was a kind of microbe called an archaeon. The other was a small bacterium that had learned a new trick. It could use oxygen to break down its food and get a great deal of energy from it.",
-   "Nobody saw what happened next. Scientists think the archaeon took the bacterium inside itself. Perhaps it meant to eat it. Perhaps the two had lived pressed together for a long time, swapping food, and the bigger one slowly wrapped itself around the smaller. But the bacterium was not digested. It lived on, inside.",
-   "Usually, a cell inside another cell is a meal or a disease. This time, both did better. The guest got shelter and a steady supply of food. The host got energy, far more than it had ever made alone. When the host split into two, the guests inside split too, and went with each daughter.",
-   "Over a very long time, the guest handed most of its genes to the host, to be kept in its nucleus. It kept only a small ring of DNA of its own. I still have mine. It holds just 37 genes. Kavya's nucleus holds about 20,000.",
-   "That partnership became the ancestor of every animal, every plant and every fungus. Later, one of its descendants took in a green cyanobacterium that made food from sunlight, and that guest stayed too. Its children are the chloroplasts in every leaf. The neem tree at the edge of the school ground carries both kinds of guest in its leaves.",
+   "About two billion years ago, there were no animals and no plants. There was nothing you could see. The sea was full of single cells. Two of them matter to my story. One was a kind of microbe called an archaeon. The other was a small bacterium who could do something new. They could use oxygen to break down their food and get a great deal of energy from it.",
+   "Nobody saw what happened next. Scientists think the archaeon took the bacterium inside themself. Perhaps the archaeon meant to eat the bacterium. Perhaps the two had lived pressed together for a long time, swapping food, and the bigger one slowly wrapped itself around the smaller. But the bacterium was not digested. It lived on, inside.",
+   "Usually, a cell inside another cell is a meal or a disease. This time, both did better. The guest got shelter and a steady supply of food. The host got energy, far more than they had ever made alone. When the host split into two, the guests inside split too, and went with each daughter.",
+   "Over a very long time, the guest handed most of their genes to the host, to be kept in the host's nucleus. The guest kept only a small ring of DNA. I still have mine. It holds just 37 genes. Kavya's nucleus holds about 20,000.",
+   "That partnership became the ancestor of every animal, every plant and every fungus. Later, one of its descendants took in a green cyanobacterium that made food from sunlight, and that guest stayed too. Their descendants are the chloroplasts in every green leaf. The neem tree at the edge of the school ground carries both kinds of guest in their leaves.",
    "Kavya came round the last bend. Her legs burned. She pushed and pushed, but Meenakshi crossed the line first. Kavya came second, one long step behind.",
    "She sat down on the dry grass and put her face on her knees. 'I lost,' she said. Her mother came across the ground with a steel water bottle and sat down beside her. Kavya drank, and breathed, and breathed.",
    "I can tell you something Kavya does not know yet. Every one of us inside her came from her mother. When Kavya was a single cell, an egg, that egg carried more than a hundred thousand of us from her mother's body. Her father's mitochondria did not come with her. Every mitochondrion in Kavya, in her legs, her heart and her brain, comes from those.",
-   "Her mother's came from her mother's egg, and those from the egg before that. If you follow that line back, mother to mother, it does not stop at people. It goes back through every animal mother there has ever been, all the way to that one sea, and that one guest who was not eaten.",
+   "Her mother's came from her mother's egg, and those from the egg before that. If you follow that line back, mother to mother, it does not stop at people. It goes back through a long line of animal mothers, far older than people, all the way to that one sea, and that one guest who was not eaten.",
    "Meenakshi came over, still panting, and sat down on Kavya's other side. 'You nearly caught me,' she said. She held out her hand. Kavya looked at it for a moment. Then she took it.",
    "Their hearts slowed. Their breathing slowed. Inside both of them, billions of us went on working quietly, as we have for two billion years: guests who were taken in, and never left.",
    "Kavya leaned on her mother's shoulder. 'Amma,' she said, 'I'm so tired.'",

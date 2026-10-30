@@ -9,7 +9,7 @@
  "intro": {
   "hook": "Try this. Put six things on the floor: a steel spoon, a wooden spoon, a glass bangle, a rubber band, a comb and a candle. Make two groups. Now mix them up and make two different groups. How many different ways can you find?",
   "text": "In every town in India there is a kabadiwala. This is a person who buys old newspapers, bottles, tins and iron. He or she sells them on, so they can be made into new things. Watch a kabadiwala work and you see sorting all day long. Paper goes here. Glass goes there. Iron goes in a third pile. But the same heap could be sorted in many other ways: by colour, by weight, or by whether it rings when you drop it. Which way is right? That depends on what the sorting is for.",
-  "art": "A kabadiwala sitting beside a weighing scale, with neat piles of newspaper, bottles, tins and iron around him, and a child watching and holding up a bottle."
+  "art": "A woman kabadiwala sitting beside a weighing scale, with neat piles of newspaper, bottles, tins and iron around her, and a child watching and holding up a bottle."
  },
  "outcomes": [
   "I can sort a set of things into groups using a rule, and say what the rule is.",
@@ -85,7 +85,7 @@
   },
   {
    "term": "Branching key",
-   "meaning": "A chart of yes or no questions that finds one thing from a group, step by step. It looks like a tree turned on its side.",
+   "meaning": "A chart of yes or no questions that finds one thing from a group, step by step. It looks like a tree lying down, with the branches spreading sideways.",
    "example": "A key for a brick, ice, a balloon and paper asks 'Is it hard?' Yes. Then 'Is it shiny?' No. So it is the brick.",
    "art": "A tree-shaped chart: one question splitting into two, then two more, ending in four small drawings."
   },
@@ -153,7 +153,7 @@
    "term": "Kabadiwala",
    "meaning": "A person who buys old paper, bottles, tins and metal, sorts them into piles, and sells them to be recycled.",
    "example": "The kabadiwala weighs your old newspapers and pays you for them.",
-   "art": "A man with a hand-held scale weighing a bundle of newspapers."
+   "art": "A woman with a hand-held scale weighing a bundle of newspapers."
   },
   {
    "term": "Recycling",
@@ -324,7 +324,7 @@
     "A bird book key: 'Does the bird have a long beak?' Yes, go to question 4."
    ],
    "perspectives": [],
-   "art": "A tree chart on its side: one starting question, two branches, two more questions, ending in four small drawings of a brick, ice, a balloon and paper.",
+   "art": "A tree chart lying sideways: one starting question, two branches, two more questions, ending in four small drawings of a brick, ice, a balloon and paper.",
    "context": "This card explains the branching key, a very handy sorting tool that works like the game of Twenty Questions.",
    "chart": {
     "type": "table",
@@ -1152,38 +1152,6 @@
    "mins": 20,
    "items": [
     {
-     "t": "mcq",
-     "p": "What is a sorting rule?",
-     "opts": [
-      "A question that every thing can answer, to decide its group",
-      "The name of the group",
-      "A rule about how to tidy up",
-      "A kind of chart"
-     ],
-     "a": 0,
-     "why": "A sorting rule is a question, such as 'Is it shiny?'. Each thing is checked against it and goes in a group. Picking 'the name of the group' usually means the group and the rule have been mixed up. The group is the result. The rule is the question that makes it."
-    },
-    {
-     "t": "mcq",
-     "p": "A brick is in the hard group when we sort by hard or soft. It is in the dull group when we sort by shiny or dull. Why?",
-     "opts": [
-      "The brick changed",
-      "The rule changed, and the brick stayed the same",
-      "The brick is broken",
-      "One of the sorts is wrong"
-     ],
-     "a": 1,
-     "why": "The brick did not change. Each rule asks a different question about it. Hard asks one question and dull asks another. Both groups are right. Picking 'one of the sorts is wrong' usually means the child expects only one right way to sort."
-    },
-    {
-     "t": "fill",
-     "p": "A good sorting rule has a clear yes or no ____.",
-     "a": [
-      "answer"
-     ],
-     "why": "A good rule gives a clear answer, yes or no, and the same answer whoever asks."
-    },
-    {
      "t": "sort",
      "p": "Is it made of metal? Sort these things.",
      "cats": [
@@ -1256,60 +1224,37 @@
      "why": "Shiny things show a bright reflection. Dull things do not. Notice that the glass bangle is shiny but not metal, and the foil ball is shiny and metal."
     },
     {
-     "t": "mcq",
-     "p": "Which of these is a good rule for sorting?",
-     "opts": [
-      "Is it shiny?",
-      "Is it pretty?",
-      "Is it nice to hold?",
-      "Is it my favourite?"
-     ],
-     "a": 0,
-     "why": "'Is it shiny?' has a clear answer that anyone can check by looking. The others depend on who is asked. A rule should give the same answer for everyone."
+     "t": "write",
+     "p": "Look at your two sorts above, 'Is it made of metal?' and 'Is it shiny?'. Which thing was 'not metal' in the first sort but 'shiny' in the second? Why did it move, when nothing about it changed?",
+     "lines": 3,
+     "a": "The glass bangle. It is not a metal, but it is shiny. A strong answer says the bangle stayed the same. Only the question changed, and each rule asks about a different property.",
+     "why": "One thing can belong to many groups, because each rule asks one question about it."
     },
     {
-     "t": "truefalse",
-     "p": "One thing can be in different groups under different rules.",
-     "a": true,
-     "why": "True. A steel spoon is in the shiny group, the hard group and the metal group. The spoon stays the same. Each rule asks a different question."
+     "t": "fill",
+     "p": "A good sorting rule has a clear yes or no ____.",
+     "a": [
+      "answer"
+     ],
+     "why": "A good rule gives a clear answer, yes or no, and the same answer whoever asks."
+    },
+    {
+     "t": "mcq",
+     "p": "Anjali sorts a heap of things by the rule 'Is it big?'. Her friend Kavya uses the same rule on the same heap and gets different groups. What is the best fix?",
+     "opts": [
+      "Change the rule to 'Is it longer than my hand?'",
+      "Let Anjali decide, because she started",
+      "Sort the heap again by the same rule",
+      "Use a bigger heap"
+     ],
+     "a": 0,
+     "why": "'Big' has no clear line, so two people answer differently. 'Longer than my hand' can be checked, so everyone gets the same answer. Sorting again by the same unclear rule will give the same muddle."
     },
     {
      "t": "truefalse",
      "p": "If a thing does not fit any group, the best thing to do is throw it away.",
      "a": false,
      "why": "False. A thing that does not fit is useful. It may mean the rule is not clear, or that a new group is needed. Scientists have made new groups because of tricky things."
-    },
-    {
-     "t": "match",
-     "p": "Match each tricky thing to the best way to deal with it.",
-     "pairs": [
-      [
-       "A candle is hard, but a fingernail can mark it",
-       "Use a test and let the test decide"
-      ],
-      [
-       "A plastic cup is a little bendy",
-       "Make the rule more exact"
-      ],
-      [
-       "Some things are in between",
-       "Add a middle group"
-      ]
-     ],
-     "a": "pairs as given",
-     "why": "A test settles a tricky case fairly. A more exact rule says what counts. A middle group is for things that are truly between. All three are used by scientists."
-    },
-    {
-     "t": "mcq",
-     "p": "In a Venn diagram of Shiny and Hard, where does a steel spoon go?",
-     "opts": [
-      "In the Shiny circle only",
-      "In the overlap",
-      "Outside both circles",
-      "In the Hard circle only"
-     ],
-     "a": 1,
-     "why": "A steel spoon is shiny and hard. It fits both rules, so it goes in the overlap. Picking one circle only usually means the second rule was forgotten."
     },
     {
      "t": "mcq",
@@ -1358,15 +1303,6 @@
      "how": "e1"
     },
     {
-     "t": "fill",
-     "p": "In a branching key, each question splits the group in ____.",
-     "a": [
-      "two",
-      "half"
-     ],
-     "why": "A good question splits the group into two smaller groups, ideally of equal size."
-    },
-    {
      "t": "mcq",
      "p": "A key starts: 'Is it hard?' If yes: 'Is it shiny?' Yes is ice, no is a brick. If the first answer is no: 'Is it waterproof?' Yes is a balloon, no is paper. What is a hard, shiny thing?",
      "opts": [
@@ -1392,30 +1328,6 @@
      "why": "First choose the things. Then ask a question that splits them in half. Keep adding questions on each branch until each thing is alone. Last, test the key on someone else."
     },
     {
-     "t": "mcq",
-     "p": "A kabadiwala keeps paper, glass and iron in different piles. Why?",
-     "opts": [
-      "Each is sold to a different buyer and recycled in its own way",
-      "He likes tidy piles",
-      "They are different colours",
-      "It is the law"
-     ],
-     "a": 0,
-     "why": "Each material is recycled in its own way, so each pile goes to a different buyer. Picking 'he likes tidy piles' is partly true, but the real reason is the job the sort is for."
-    },
-    {
-     "t": "mcq",
-     "p": "A farmer tosses grain in a flat basket and the husk blows away. What rule is the wind using?",
-     "opts": [
-      "Light things blow away more than heavy things",
-      "Yellow things blow away",
-      "Big things blow away",
-      "Wet things blow away"
-     ],
-     "a": 0,
-     "why": "Wind moves light things much more than heavy things. So the husk blows away and the grain falls back. Picking 'big things' is common, but a big thing can be light or heavy. Weight is what matters here."
-    },
-    {
      "t": "write",
      "p": "Pick five things from your pencil box or bag. Sort them in two different ways. Write the rule you used each time.",
      "lines": 4,
@@ -1427,6 +1339,60 @@
      "p": "Draw a Venn diagram with two circles, 'Round' and 'Red'. Put four things in it.",
      "a": "Two overlapping circles. A tomato or a red ball in the overlap. A red book in Red only. A coin in Round only. A pencil outside.",
      "why": "A Venn diagram needs overlapping circles, labels and things placed by both rules."
+    },
+    {
+     "t": "perspective",
+     "p": "Amma asks three girls to sort the kitchen drawer so that things are easy to find. Each girl has a different rule.",
+     "views": [
+      {
+       "who": "Meena, in Class 3",
+       "says": "Sort by material: all the steel together, all the plastic together, all the wood together."
+      },
+      {
+       "who": "Farida, her friend",
+       "says": "Sort by job: things for cooking, things for eating, things for opening tins and packets."
+      },
+      {
+       "who": "Swathi, Meena's cousin",
+       "says": "Sort by size: big things at the back, small things in front, so we can see everything."
+      }
+     ],
+     "ask": "Which rule would you choose for this drawer? Give your reason. Then say when another girl's rule would be the better one.",
+     "lines": 5,
+     "a": "A strong answer ties the rule to the job: finding things quickly. Many children choose Farida's rule, because you look for a thing by what you need it for. It then gives a fair point for another rule, for example that Meena's rule is best for recycling, or that Swathi's rule helps you see everything at once.",
+     "why": "There is no single right way to sort. The best rule is the one that fits the job, and a different job needs a different rule."
+    },
+    {
+     "t": "mcq",
+     "p": "Revathi hangs a steel tumbler and a plastic tumbler of the same shape from threads. She taps each one with a pencil. Which will ring for longer?",
+     "opts": [
+      "The steel tumbler",
+      "The plastic tumbler",
+      "Both the same, because the shape is the same"
+     ],
+     "a": 0,
+     "how": "e4",
+     "context": "In the experiment Sort by Sound, you hang things on a thread and tap them lightly. You listen to how long they ring.",
+     "why": "Steel rings for a long time when tapped. Plastic gives a short, dull tap. The shape is the same, so the difference comes from the material. Picking 'both the same' trusts the shape and forgets the material."
+    },
+    {
+     "t": "mcq",
+     "p": "Gowri has a heap of old clothes to give away. Some will go to a baby, and some to grown-ups. Which rule fits this job?",
+     "opts": [
+      "Is it small enough for a baby?",
+      "Is it red?",
+      "Is it cotton?",
+      "Is it folded?"
+     ],
+     "a": 0,
+     "why": "The job is to send each piece of clothing to someone it fits, so the rule must be about size. Colour and cloth are real rules, but they do not help with this job."
+    },
+    {
+     "t": "truefalse",
+     "p": "If two things look exactly the same, they must be made of the same material.",
+     "a": false,
+     "why": "False. A brass bowl and a kansa bowl can look exactly the same. Tap them, and the kansa bowl rings for a long time while the brass one stops quickly. Looks are only one rule. A test like sound can show a difference that looks miss.",
+     "context": "Brass and kansa, also called bell metal, are both yellow metals made mostly of copper."
     }
    ]
   },
@@ -1436,41 +1402,6 @@
    "tier": "stretch",
    "mins": 25,
    "items": [
-    {
-     "t": "mcq",
-     "p": "Look at the Carroll table from a child's experiment. Which box has the most things?",
-     "opts": [
-      "Hard and shiny",
-      "Hard and dull",
-      "Soft and shiny",
-      "Soft and dull"
-     ],
-     "a": 3,
-     "why": "The Soft and dull box has five things. The others have three, three and one. Picking Hard and shiny usually means the first box was chosen without counting.",
-     "context": "In the experiment One Heap, Three Rules, you sort twelve things by hard or soft and then by shiny or dull. A Carroll table has four boxes, one for each pair of answers.",
-     "chart": {
-      "type": "table",
-      "title": "A made-up Carroll table of twelve things",
-      "cols": [
-       "",
-       "Hard",
-       "Soft"
-      ],
-      "rows": [
-       [
-        "Shiny",
-        "steel spoon, glass bangle, plastic comb",
-        "foil ball"
-       ],
-       [
-        "Dull",
-        "wooden spoon, clay diya, pebble",
-        "rubber band, woollen sock, cotton hanky, candle, paper cup"
-       ]
-      ]
-     },
-     "how": "e1"
-    },
     {
      "t": "fill",
      "p": "In the Carroll table, 3 + 3 + 1 + 5 = ____ things were sorted altogether.",
@@ -1580,60 +1511,10 @@
      "context": "In the Twenty Questions Race, you count how many questions a key needs. Each good question cuts the number of possibilities in half."
     },
     {
-     "t": "mcq",
-     "p": "Eight things. Four are hard: steel spoon, wooden spoon, plastic comb and glass bangle. Four are soft: rubber band, woollen sock, cotton hanky and candle. Which first question is best for a key?",
-     "opts": [
-      "Is it the steel spoon?",
-      "Is it hard?",
-      "Is it a spoon?",
-      "Is it the candle?"
-     ],
-     "a": 1,
-     "why": "'Is it hard?' splits the eight things into four and four. The best first question cuts the group in half. The others pick out just one or two things."
-    },
-    {
-     "t": "mcq",
-     "p": "Two bowls look the same. One rings for a long time when tapped. The other rings only for a moment. What does this show?",
-     "opts": [
-      "Sorting by sound can show a difference that sorting by looks misses",
-      "One bowl is dirty",
-      "Sound is not a property",
-      "The bowls must be the same material"
-     ],
-     "a": 0,
-     "why": "Looks and sounds are different rules. They can sort the same things into different groups. Picking 'the bowls must be the same material' usually means trusting looks too much.",
-     "context": "In the experiment Sort by Sound, you hang things on a thread and tap them lightly. You listen to how long they ring, and sort them by sound.",
-     "how": "e4"
-    },
-    {
-     "t": "mcq",
-     "p": "Cornflour and water flows slowly, but feels hard if you punch it. Which group does it belong in?",
-     "opts": [
-      "Solid",
-      "Liquid",
-      "Gas",
-      "A tricky middle group, soft matter"
-     ],
-     "a": 3,
-     "why": "It acts like a liquid and like a solid, depending on how fast you move it. Scientists put things like this in a group called soft matter. Picking solid or liquid ignores what the other test showed."
-    },
-    {
      "t": "truefalse",
      "p": "Rice pours like water, so rice is a liquid.",
      "a": false,
      "why": "False. Each grain is a hard solid. A pile of grains can flow because the grains slide over each other, but each one keeps its shape."
-    },
-    {
-     "t": "mcq",
-     "p": "In 1869, Mendeleev left some empty places in his table of elements. Why?",
-     "opts": [
-      "He thought undiscovered elements would fill them",
-      "He ran out of paper",
-      "He forgot some elements",
-      "Those elements are not real"
-     ],
-     "a": 0,
-     "why": "He saw a pattern, and the pattern had gaps. He said new elements would be found to fit. Gallium, scandium and germanium were found later, and matched. Picking 'forgot' misses that the gaps were on purpose, and that they were a prediction."
     },
     {
      "t": "match",
@@ -1661,19 +1542,6 @@
     },
     {
      "t": "mcq",
-     "p": "Which star is hottest on its surface?",
-     "opts": [
-      "A red star",
-      "A yellow star",
-      "A blue-white star",
-      "An orange star"
-     ],
-     "a": 2,
-     "why": "Blue-white stars are the hottest. Red stars are the coolest. Picking red is very common, because red makes us think of fire. But a piece of iron that glows red is the coolest a glowing thing can be. Heated more, it glows yellow, then white.",
-     "context": "Astronomers can tell how hot a star's surface is from its colour. Blue-white means hot and red means cooler."
-    },
-    {
-     "t": "mcq",
      "p": "A whale lives in water and has fins. Why do scientists call a whale a mammal and not a fish?",
      "opts": [
       "They breathe air and feed their babies on milk",
@@ -1685,15 +1553,26 @@
      "why": "Scientists sort by who the whale is related to, not only by how they look. A whale breathes air and is warm-blooded, and a mother whale nurses her young. Picking 'very big' or 'cold water' uses things that are not what scientists sort by."
     },
     {
-     "t": "write",
-     "p": "A botanist says a tomato is a fruit. A cook says it is a vegetable. Can both be right? Explain.",
-     "lines": 4,
-     "a": "Yes. They use different rules for different jobs. A botanist sorts by how the plant grows seeds. A cook sorts by taste and how food is used in meals.",
-     "why": "A sort depends on the rule and the job. Both rules can be right for their own purposes."
+     "t": "perspective",
+     "p": "Is a tomato a fruit or a vegetable? Two people answer in different ways.",
+     "views": [
+      {
+       "who": "Dr Kavitha, a botanist who studies plants",
+       "says": "A tomato is a fruit. A tomato grows from the flower, and the seeds are inside."
+      },
+      {
+       "who": "Lakshmi, a cook in Mysuru",
+       "says": "A tomato is a vegetable. I cook it in rasam and sambar, with the other vegetables. It is not sweet like a mango."
+      }
+     ],
+     "ask": "Who do you agree with? Give the rule each person is using. Then say how the other person could also be right.",
+     "lines": 5,
+     "a": "A strong answer names both rules: the botanist sorts by which part of the plant the tomato is, and the cook sorts by taste and how it is used in meals. It picks a side for a reason, then admits that the other rule is right for the other person's job.",
+     "why": "The same tomato lands in two groups because two people use two rules for two jobs. Both sorts are useful."
     },
     {
      "t": "write",
-     "p": "Design three questions for a key. A blind person must be able to use it to tell apart a spoon, a cloth and a stone. Use touch or sound only.",
+     "p": "Design three questions for a key that a person who cannot see can use. It must tell apart a steel spoon, a cotton cloth and a stone. Use touch or sound only.",
      "lines": 4,
      "a": "For example: Is it cold when I touch it? Does it ring when I tap it? Is it soft when I squeeze it?",
      "why": "Good answers use touch or sound, and each question has a clear yes or no answer."
@@ -1729,16 +1608,49 @@
      "why": "Each tool uses a different rule. A magnet picks out certain metals. A sieve sorts by size. Wind sorts by weight. Water sorts by whether a thing floats."
     },
     {
-     "t": "order",
-     "p": "Put these stars in order, from hottest to coolest. Rigel is blue-white. The Sun is yellow. Betelgeuse is red. Sirius is white.",
-     "items": [
-      "Rigel",
-      "Sirius",
-      "the Sun",
-      "Betelgeuse"
+     "t": "write",
+     "p": "Look back at your own One Heap, Three Rules results. Which thing changed group most often across your three rules? Why do you think that thing moved so much?",
+     "lines": 4,
+     "how": "e1",
+     "context": "In the experiment One Heap, Three Rules, you sort the same twelve things by three different rules.",
+     "a": "A strong answer names a real thing from the child's own sort and the groups it landed in. For example, the glass bangle was hard, shiny and not metal, so it was with the steel spoon in two sorts and away from it in the third. It explains that the thing has a mix of properties that the rules split differently.",
+     "why": "Using your own results is evidence. Things with an unusual mix of properties move the most."
+    },
+    {
+     "t": "mcq",
+     "p": "Priya draws a Venn diagram with two circles, 'Metal' and 'Shiny'. She puts a glass marble in the overlap. What is her mistake?",
+     "opts": [
+      "Glass is not a metal, so the marble goes in the Shiny circle only",
+      "Glass is not shiny, so it goes outside both",
+      "There is no mistake",
+      "A marble cannot go in a Venn diagram"
      ],
-     "a": "order shown",
-     "why": "Blue-white Rigel is hottest. White Sirius is next. The yellow Sun is cooler. Red Betelgeuse is coolest of these four. The order follows the star types B, A, G, M."
+     "a": 0,
+     "why": "The overlap is only for things that fit both rules. The marble is shiny, but it is glass, not metal. Picking 'no mistake' is common, because shiny things often look like metal."
+    },
+    {
+     "t": "mcq",
+     "p": "A school library puts its books in groups by subject: stories, science, history. Why not sort them by the colour of the cover?",
+     "opts": [
+      "Readers look for a book by what it is about, not by its colour",
+      "Colour is not a real property",
+      "Books have no colour",
+      "Sorting by colour is against the rules"
+     ],
+     "a": 0,
+     "why": "Colour is a real property, and you could sort by it. But the job is to help readers find a book, and they look by subject. The rule must fit the job."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a Carroll table with the rules 'Is it made of metal?' and 'Does it float in water?'. Put one thing from home in each of the four boxes.",
+     "a": "For example: metal and floats, an empty steel bowl or a foil boat. Metal and sinks, a steel spoon or a nail. Not metal and floats, a wooden spoon or a plastic bottle cap. Not metal and sinks, a stone or a glass marble.",
+     "why": "A Carroll table has a box for every pair of answers. Finding a metal that floats is the hard part: it shows that shape matters for floating."
+    },
+    {
+     "t": "truefalse",
+     "p": "A sieve sorts things by how heavy they are.",
+     "a": false,
+     "why": "False. A sieve sorts by size. A small heavy stone falls through the holes, and a big light leaf stays on top. Many people mix up size and weight."
     }
    ]
   },
@@ -1761,74 +1673,11 @@
      "why": "If every thing has a different test, a difference in the groups could come from the test and not from the things. The same test makes it fair. Picking 'change our mind' misses the point of a fair test."
     },
     {
-     "t": "mcq",
-     "p": "In 2006 astronomers changed the rule for a planet, and Pluto was moved to a new group. What does this show?",
-     "opts": [
-      "Groups depend on rules, and rules can be changed",
-      "Pluto itself changed",
-      "Pluto is not real",
-      "Astronomers made a mistake"
-     ],
-     "a": 0,
-     "why": "Pluto did not change. The rule did. A rule is a human choice, and scientists can revise it when they learn more. Some astronomers still argue that the rule is wrong. Picking 'Pluto changed' is a common idea, but Pluto is the same as before.",
-     "context": "Pluto was called a planet for 76 years. In 2006, the International Astronomical Union voted on a new rule, and Pluto became a dwarf planet."
-    },
-    {
-     "t": "mcq",
-     "p": "Dan Shechtman found a solid with a pattern that never repeats. The old two groups were crystal and glass. What did scientists finally do?",
-     "opts": [
-      "Changed the definition of a crystal to make room for it",
-      "Decided the metal was fake",
-      "Put it in the glass group",
-      "Ignored it"
-     ],
-     "a": 0,
-     "why": "After other scientists checked his work, the official definition of a crystal was changed in 1992. The boxes were changed to fit the discovery. Picking 'put it in the glass group' ignores that the metal had a clear pattern.",
-     "context": "Crystals have a repeating pattern, like floor tiles. Glass has no pattern. A quasicrystal has a pattern that never repeats."
-    },
-    {
      "t": "truefalse",
      "p": "Glass is a slow liquid, so old windows are thicker at the bottom.",
      "a": false,
      "why": "False. Calculations show window glass would take longer than the age of the universe to sag. Old windows are uneven because of how they were made.",
      "context": "Glass is a tricky middle case between solid and liquid. A famous myth says it flows very slowly."
-    },
-    {
-     "t": "mcq",
-     "p": "Sodium and potassium are in the same column of the periodic table. Why do they behave alike?",
-     "opts": [
-      "They have the same number of outer electrons",
-      "They are the same weight",
-      "They are the same colour",
-      "They were found on the same day"
-     ],
-     "a": 0,
-     "why": "Outer electrons decide how an atom joins with others. Atoms in the same column have the same pattern of outer electrons, so they act alike. Picking 'same weight' is an easy mistake, because the table was first sorted by weight. But weights are different in a column.",
-     "context": "The periodic table sorts atoms into columns. Atoms in the same column behave alike."
-    },
-    {
-     "t": "mcq",
-     "p": "How many elements did Mendeleev's gaps help scientists find, among those he predicted?",
-     "opts": [
-      "Three: gallium, scandium and germanium",
-      "Only one",
-      "Ten",
-      "None"
-     ],
-     "a": 0,
-     "why": "Between 1875 and 1886, gallium, scandium and germanium were found, and they matched his predictions closely. A pattern that predicts is much stronger than one that only tidies."
-    },
-    {
-     "t": "mcq",
-     "p": "Annie Jump Cannon sorted stars into seven types by their light. What did Cecilia Payne show in 1925 about these types?",
-     "opts": [
-      "They are really a row of temperatures",
-      "They are a row of sizes",
-      "They are a row of ages",
-      "They are a row of distances"
-     ],
-     "a": 0,
-     "why": "Payne showed that the types are about how hot the surface of the star is. She also showed that stars are made mostly of hydrogen and helium. Picking 'sizes' or 'distances' is a common guess, but the types show heat."
     },
     {
      "t": "mcq",
@@ -1855,31 +1704,8 @@
      "p": "Thatha sorted the metal by colour and Hema sorted it by sound. Why did the bell sing only after the second sort?",
      "lines": 4,
      "a": "Colour showed what the metal looked like, but not what it would sound like. A bell needs bell metal, which rings. Hema's sort used the property the bell needed.",
-     "why": "The rule must fit the job. A bell is for sound, so sorting by sound fits."
-    },
-    {
-     "t": "mcq",
-     "p": "Ketchup stays in the bottle until you shake it. In what way is it a tricky middle case?",
-     "opts": [
-      "It acts like a solid when still and a liquid when moved",
-      "It is always a gas",
-      "It is hot",
-      "It has no properties"
-     ],
-     "a": 0,
-     "why": "Ketchup is part of the soft matter group. It holds its shape when still and flows when shaken. Picking 'a gas' mixes up thick with light and airy."
-    },
-    {
-     "t": "mcq",
-     "p": "Your kidneys sort blood by size. Which stays in the blood?",
-     "opts": [
-      "Big blood cells",
-      "Water",
-      "Tiny salts",
-      "Everything leaves"
-     ],
-     "a": 0,
-     "why": "Small particles like water and salts pass through the sieve-like kidney. The big blood cells stay in the blood. Picking 'everything leaves' misses that sorting keeps something and lets go of something else."
+     "why": "The rule must fit the job. A bell is for sound, so sorting by sound fits.",
+     "context": "In the story The Bell That Would Not Sing, Thatha, an old bell maker, sorted scrap metal by colour, and his bell went 'clank'. His granddaughter Hema then sorted it by how long each piece rang."
     },
     {
      "t": "mcq",
@@ -1907,24 +1733,137 @@
      "why": "A key splits the group at each question until each fruit is alone. The questions must have clear yes or no answers."
     },
     {
-     "t": "truefalse",
-     "p": "A star that looks red is hotter than a star that looks blue.",
-     "a": false,
-     "why": "False. Red stars are cooler. Blue-white stars are hotter. In the same way, a piece of iron glows red first, and only glows white when it is much hotter.",
-     "context": "Astronomers use star colour to tell how hot a star's surface is."
+     "t": "perspective",
+     "p": "Are the groups we sort into found in nature, or do people make them up? Scientists still argue about this.",
+     "views": [
+      {
+       "who": "Dr Meera, a biologist",
+       "says": "Some groups are really there in nature. A whale's family really is with cows and deer, not with sharks. We found that out. We did not choose it."
+      },
+      {
+       "who": "Ayesha, an astronomer",
+       "says": "We make the groups. Pluto is the same as it always was. In 2006 we changed our rule, and Pluto moved to a new group."
+      },
+      {
+       "who": "Selvi, a kabadiwala in Chennai",
+       "says": "Groups come from the job. I sort by who will buy each thing. Another job would need other piles."
+      }
+     ],
+     "ask": "Which view do you agree with most? Give an example from this unit. Then say what another person has right.",
+     "lines": 5,
+     "a": "A strong answer picks a view and backs it with an example, such as whales and families of animals, Pluto and the planet rule, or the kabadiwala's piles. It then admits a fair point from another view, for example that some groups are found in nature while the names and the lines between them are chosen by people.",
+     "why": "This is a real debate among scientists and philosophers. Many think the truth is a mix: nature has real patterns, and people choose which ones to use and where to draw the lines."
     },
     {
      "t": "mcq",
-     "p": "A girl can hear what her grandfather cannot, so she helps him sort the metal. What does this show about sorting?",
+     "p": "In 1869 Mendeleev's table had an empty space just below silicon. What could chemists predict about the element that would fill it?",
      "opts": [
-      "Different people notice different things, and each can help",
-      "Only young people can sort",
-      "Hearing is better than seeing",
-      "Old people cannot sort"
+      "It would behave a lot like silicon",
+      "It would be exactly the same as silicon",
+      "Nothing, because it had not been found",
+      "It would be a gas"
      ],
      "a": 0,
-     "why": "Each person notices different things. Together they sorted better than either could alone. Picking 'hearing is better than seeing' mistakes one good rule for a rule that is always best.",
-     "context": "In the story The Bell That Would Not Sing, Thatha trusted his eyes because he could not hear high sounds. His granddaughter Hema could."
+     "why": "Elements in the same column behave alike, so the missing one should be like silicon. It was found in 1886 and named germanium, and it matched. Picking 'nothing' misses the power of a good sort: it can tell you about a thing before anyone has seen it.",
+     "context": "Dmitri Mendeleev, a Russian chemist, sorted the elements into a table of rows and columns. Elements in the same column behave alike."
+    },
+    {
+     "t": "mcq",
+     "p": "In a hospital emergency room, a nurse sees the most badly hurt people first, not the people who came first. Why is that the right rule here?",
+     "opts": [
+      "The job is to save lives, so the rule is how badly someone is hurt",
+      "It is quicker to sort by name",
+      "The first people can always wait",
+      "Nurses like that rule"
+     ],
+     "a": 0,
+     "why": "In a queue at a shop, 'who came first' is a fair rule. In an emergency, the job is to save lives, so the rule changes. The same people sorted for a different job need a different rule."
+    },
+    {
+     "t": "mcq",
+     "p": "A recycling plant uses a big magnet to pull steel tins out of a moving belt of rubbish. Aluminium cans are not attracted by a magnet. What happens to them?",
+     "opts": [
+      "They stay with the paper and plastic, so another rule is needed to pick them out",
+      "The magnet attracts them anyway",
+      "They melt",
+      "They turn into steel"
+     ],
+     "a": 0,
+     "why": "A magnet sorts by 'Does a magnet attract it?', and aluminium says no. So one rule cannot separate every material. Recycling plants add more steps, each with its own rule."
+    },
+    {
+     "t": "write",
+     "p": "Dan Shechtman found a solid whose pattern did not fit either old group, crystal or glass. When something does not fit any group, should scientists change the groups, or doubt the thing? What would you want to see before changing the groups?",
+     "lines": 5,
+     "a": "A strong answer says both are fair first steps. Scientists should check the strange thing carefully, again and again, and in other laboratories. If it is still there, the groups should change. That is what happened: other scientists made the same solid, and in 1992 the meaning of 'crystal' was changed.",
+     "why": "A thing that does not fit is either a mistake or a discovery. Careful checking tells which.",
+     "context": "Dan Shechtman is an Israeli scientist. In 1982 he saw a pattern in a metal that scientists thought was impossible."
+    },
+    {
+     "t": "truefalse",
+     "p": "There is only one right way to sort any heap of things.",
+     "a": false,
+     "why": "False. The same heap can be sorted by material, by use, by size or by sound, and each sort is right for some job. A sort is wrong only if the rule is unclear or a thing is put in the wrong group."
+    },
+    {
+     "t": "match",
+     "p": "Match each sort to the discovery it led to.",
+     "pairs": [
+      [
+       "Sorting starlight by its pattern of lines",
+       "Stars are made mostly of hydrogen and helium"
+      ],
+      [
+       "Sorting elements by how they behave",
+       "Gaps for elements nobody had found yet"
+      ],
+      [
+       "Sorting animals by their families",
+       "A whale is a mammal, not a fish"
+      ],
+      [
+       "Sorting solids by their patterns",
+       "A new kind of solid, the quasicrystal"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "A good sort does more than tidy. Cecilia Payne used the star types to find what stars are made of. Mendeleev's gaps predicted new elements. Sorting by family put whales with mammals. Shechtman's strange pattern made scientists add a new kind of solid."
+    },
+    {
+     "t": "sort",
+     "p": "Is the rule clear enough that everyone gets the same answer? Sort the rules.",
+     "cats": [
+      "Clear rule",
+      "Unclear rule"
+     ],
+     "items": [
+      [
+       "Is it longer than 10 centimetres?",
+       "Clear rule"
+      ],
+      [
+       "Does a magnet attract it?",
+       "Clear rule"
+      ],
+      [
+       "Does it float in water?",
+       "Clear rule"
+      ],
+      [
+       "Is it heavy?",
+       "Unclear rule"
+      ],
+      [
+       "Is it old?",
+       "Unclear rule"
+      ],
+      [
+       "Is it beautiful?",
+       "Unclear rule"
+      ]
+     ],
+     "a": "see items",
+     "why": "A clear rule can be checked with a ruler, a magnet or a bowl of water, so everyone gets the same answer. 'Heavy', 'old' and 'beautiful' depend on who is asked. Each can be made clear, for example 'Is it heavier than a full water bottle?'."
     }
    ]
   }
@@ -2449,7 +2388,7 @@
    },
    "setup": [
     {
-     "art": "A big sheet of paper with a branching key drawn as a tree on its side, with the first question 'Is it hard?' and eight small drawings at the ends of the branches.",
+     "art": "A big sheet of paper with a branching key drawn as a tree lying sideways, with the first question 'Is it hard?' and eight small drawings at the ends of the branches.",
      "caption": "1. Draw Key A. Each question splits the group in half."
     },
     {
@@ -3573,15 +3512,15 @@
   },
   {
    "t": "mcq",
-   "p": "Why can one thing be in many groups?",
+   "p": "Nila says, 'A steel spoon is in the metal group, so it cannot also be in the shiny group.' Is she right?",
    "opts": [
-    "Each rule asks a different question about it",
-    "The thing changes",
-    "Groups are random"
+    "No. Each rule asks a different question, so the spoon can be in both",
+    "Yes. A thing can only be in one group",
+    "Yes, because shiny is not a rule"
    ],
    "a": 0,
-   "why": "A steel spoon is shiny, hard and metal. Each is a different question. The spoon does not change. Picking 'the thing changes' is a common idea, but only the rule changes.",
-   "outcome": 1
+   "outcome": 1,
+   "why": "The spoon is metal and shiny and hard. Each rule asks a different question about it, so it belongs to a group under each rule. Picking 'only one group' is a common idea, but it holds only inside one sort."
   },
   {
    "t": "mcq",
@@ -3659,15 +3598,15 @@
   },
   {
    "t": "mcq",
-   "p": "A kabadiwala keeps paper, glass and iron in separate piles. Why?",
+   "p": "Selvi is a kabadiwala. She buys old things and sells them on. She keeps paper, glass and iron in separate piles. Why?",
    "opts": [
     "Each material is recycled in its own way",
-    "He likes colours",
+    "She likes colours",
     "It looks tidy"
    ],
    "a": 0,
-   "why": "The sort has a job: selling to different buyers. Picking 'it looks tidy' misses the purpose.",
-   "outcome": 5
+   "outcome": 5,
+   "why": "The sort has a job: selling each material to a different buyer. Picking 'it looks tidy' misses the purpose."
   },
   {
    "t": "mcq",

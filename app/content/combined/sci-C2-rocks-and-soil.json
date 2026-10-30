@@ -108,13 +108,13 @@
      "kind": "read",
      "title": "Story: The Corner of the Hill",
      "mins": 12,
-     "do": "Read the story aloud. It is told by a piece of granite that breaks off a hill near the Kaveri river. Don't explain it. Ask two story questions: 'Why was the stone afraid?' and 'What did Appa show Selvi in the field?' Write down your child's answers. You will come back to them on Day 4."
+     "do": "Read the story aloud. It is told by a piece of granite that breaks off a hill near the Kaveri river. Don't explain it. Ask two story questions: 'Why was the stone afraid?' and 'What did Amma show Selvi in the field?' Write down your child's answers. You will come back to them on Day 4."
     },
     {
      "kind": "talk",
      "title": "What is under the soil?",
      "mins": 5,
-     "do": "Ask: 'If we dug straight down under our building, through all the soil, what would we hit?' Wait for a guess and a reason. Then say: 'We would hit rock. Under every field, every city and every sea there is rock. This outer skin of rock round the whole Earth is called the crust. It is tens of kilometres thick.' Ask: 'So where did the soil on top come from?' Let them guess. Don't answer yet. The week will answer it."
+     "do": "Ask: 'If we dug straight down under our building, through all the soil, what would we hit?' Wait for a guess and a reason. Then say: 'We would hit rock. Under every field, every city and every sea there is rock. This outer layer of rock round the whole Earth is called the crust. It is many kilometres thick.' Ask: 'So where did the soil on top come from?' Let them guess. Don't answer yet. The week will answer it."
     },
     {
      "kind": "act",
@@ -231,14 +231,14 @@
      "kind": "exp",
      "title": "Shake the chalk",
      "mins": 14,
-     "do": "Do Experiment e3. Put three pieces of chalk and half a glass of water into a plastic bottle. Close the lid tightly. Take turns to shake it hard, 100 shakes in all. Keep one piece of chalk outside as a 'before' piece. Pour out the water into a steel bowl and put the chalk pieces next to the 'before' piece. Ask: 'What changed?' (The corners are rounded, the pieces are smaller, and the water is milky with chalk powder.) Now put one pebble in the bottle and shake it 100 times. Ask: 'Why didn't the pebble change?' (It is much harder. It would take years in a river.)",
+     "do": "Do Experiment e3. Keep one piece of chalk aside as a 'before' piece. Put three pieces of chalk and half a glass of water into a plastic bottle. Close the lid tightly. Take turns to shake it hard, 100 shakes in all. Pour out the water into a steel bowl and put the chalk pieces next to the 'before' piece. Ask: 'What changed?' (The corners are rounded, the pieces are smaller, and the water is milky with chalk powder.) Now put one pebble in the bottle and shake it 100 times. Ask: 'Why didn't the pebble change?' (It is much harder. It would take years in a river.)",
      "ref": "e3"
     },
     {
      "kind": "talk",
      "title": "Rain, roots, heat and rubbing",
      "mins": 9,
-     "do": "Say: 'Rocks slowly break into smaller pieces. Scientists call this weathering.' Tell four ways, and ask your child for an example of each from what they have seen. 1. Rubbing: rivers roll stones against each other, like our bottle. That is how pebbles become round and sand is made. 2. Roots: look for a peepal or banyan plant growing out of a crack in an old wall. As its roots grow, they push the crack wider. 3. Water: rain gets into cracks and slowly dissolves and loosens the grains. 4. Heat: hot days and cool nights make rock swell and shrink a tiny bit, again and again, until it cracks. Go back to the story: 'Why did the stone keep getting smaller?' (Weathering. The river rolled it and wore bits off.)"
+     "do": "Say: 'Rocks slowly break into smaller pieces. Scientists call this weathering.' Tell four ways, and ask your child for an example of each from what they have seen. 1. Rubbing: rivers roll stones against each other, like our bottle. That is how pebbles become round and sand is made. 2. Roots: look for a peepal or banyan plant growing out of a crack in an old wall. As the plant's roots grow, they push the crack wider. 3. Water: rain gets into cracks and slowly dissolves and loosens the grains. 4. Heat: hot days and cool nights make rock swell and shrink a tiny bit, again and again, until it cracks. Go back to the story: 'Why did the stone keep getting smaller?' (Weathering. The river rolled it and wore bits off.)"
     },
     {
      "kind": "act",
@@ -250,7 +250,7 @@
    ],
    "need": [
     "a smooth pebble",
-    "3 pieces of chalk",
+    "4 pieces of chalk",
     "a plastic bottle with a lid",
     "a steel bowl",
     "water"
@@ -313,7 +313,7 @@
      "kind": "review",
      "title": "Read the soil jar",
      "mins": 7,
-     "do": "Look at Experiment e4 without shaking it. Compare it with yesterday's guess. Ask your child to point to each layer from the bottom: small stones and gravel, then sand, then a fine smooth layer called silt, then clay at the top (the water may still be cloudy, as clay settles very slowly). Bits of leaf and root float on top: that is humus. Ask: 'Why are the stones at the bottom?' (They are the biggest and heaviest, so they sink first.)",
+     "do": "Look at Experiment e4 without shaking it. Compare it with yesterday's guess. Ask your child to point to each layer from the bottom: small stones and gravel, then sand, then a fine smooth layer called silt, then clay at the top (the water may still be cloudy, as clay settles very slowly). Bits of leaf and root float on top. These dead plant bits slowly rot into humus. Ask: 'Why are the stones at the bottom?' (They are the biggest and heaviest, so they sink first.)",
      "ref": "e4"
     },
     {
@@ -326,7 +326,7 @@
      "kind": "exp",
      "title": "Start growing salt crystals",
      "mins": 8,
-     "do": "Set up Experiment e5. A grown-up pours half a cup of hot water. Your child stirs in salt one spoon at a time until no more dissolves. Pour a thin layer into a dark steel plate. Put it on a sunny windowsill where nobody will touch it. Ask: 'Salt is a mineral that comes from rock and the sea. What do you think we will see in two days?'",
+     "do": "Set up Experiment e5. A grown-up pours half a cup of hot water. Your child stirs in salt one spoon at a time until no more dissolves. Pour a thin layer into a dark plate or a dark plastic lid. Put it on a sunny windowsill where nobody will touch it. Ask: 'Salt is a mineral that comes from rock and the sea. What do you think we will see in two days?'",
      "ref": "e5"
     },
     {
@@ -341,7 +341,7 @@
     "the soil jar",
     "salt",
     "hot water (grown-up)",
-    "a dark steel plate",
+    "a dark plate or a dark plastic lid",
     "worksheet ws1"
    ],
    "prep": [
@@ -360,7 +360,7 @@
      "kind": "talk",
      "title": "Mary Anning, the fossil hunter",
      "mins": 10,
-     "do": "Tell the story in Voice v2. Say: 'Mary Anning was a poor girl who lived by the sea cliffs at Lyme Regis in England, more than 200 years ago.' Her family sold fossils to tourists to buy food. When she was about 12, she dug out the skeleton of a huge sea reptile, after her brother Joseph found its skull. Say: 'A fossil is the shape or remains of a plant or animal from long ago, kept in rock.' Ask: 'Why do you think scientists bought her fossils but did not let her join their society?' Ask the voice's question.",
+     "do": "Tell the story in Voice v2. Say: 'Mary Anning was a poor girl who lived by the sea cliffs at Lyme Regis in England, more than 200 years ago.' Her family sold fossils to tourists to buy food. Her brother Joseph found the skull of a huge sea reptile. When she was about 12, she dug out the rest of the skeleton. Say: 'A fossil is the shape or remains of a plant or animal from long ago, kept in rock.' Ask the voice's question.",
      "ref": "v2"
     },
     {
@@ -374,7 +374,7 @@
      "kind": "act",
      "title": "Crystal dance",
      "mins": 7,
-     "do": "Do Activity a4. Say: 'In a crystal, tiny particles line up in a pattern that repeats.' With two or more people, hold hands to make a square. Then add another square next to it, sharing hands, to show the pattern growing. With one child, use cushions or steel tumblers in a square grid on the floor and let the child 'grow' the pattern. Ask: 'What if one cushion is out of place?' (The pattern has a mistake. Real crystals have mistakes too.)",
+     "do": "Do Activity a4. Say: 'In a crystal, tiny particles line up in a pattern that repeats.' With four people, stand at the corners of a square and hold hands. More people can add a square next to it to show the pattern growing. With fewer people, your child lays steel tumblers or cushions in a square grid on the floor and 'grows' the pattern. Ask: 'What if one cushion is out of place?' (The pattern has a mistake. Real crystals have mistakes too.)",
      "ref": "a4"
     },
     {
@@ -416,7 +416,7 @@
      "kind": "talk",
      "title": "Quarries, mines and river beds",
      "mins": 9,
-     "do": "Say: 'Where does the granite for our kitchen come from?' Wait for a guess. Then tell: rock near the surface is dug from a quarry, a big open hole, sometimes broken with explosives. Granite comes from quarries in Karnataka and Tamil Nadu. Makrana marble comes from quarries in Rajasthan. Coal is dug from deep mines with tunnels, many of them in Jharkhand. Sand is dug from river beds. Ask: 'What was on that land before the quarry?' (Often a forest or a hill, the home of many plants and animals.) 'What happens to them?' (They lose their home.) Ask: 'Why do miners wear helmets with lamps?'"
+     "do": "Say: 'Where does the granite for our kitchen come from?' Wait for a guess. Then tell: rock near the surface is dug from a quarry, a big open hole, sometimes broken with explosives. Granite comes from quarries in Karnataka and Tamil Nadu. Makrana marble comes from quarries in Rajasthan. Coal is dug from mines, many of them in Jharkhand. Some coal mines are huge open pits, and some are deep tunnels. Sand is dug from river beds. Ask: 'What was on that land before the quarry?' (Often a forest or a hill, the home of many plants and animals.) 'What happens to them?' (They lose their home.) Ask: 'Why do miners wear helmets with lamps?'"
     },
     {
      "kind": "ws",
@@ -698,7 +698,7 @@
      [
       {
        "t": "write",
-       "p": "Farhan's soil jar has a thick sand layer and almost no clay. Will rain drain through his soil fast or slowly? Why?",
+       "p": "Fathima's soil jar has a thick sand layer and almost no clay. Will rain drain through her soil fast or slowly? Why?",
        "lines": 3
       },
       {
@@ -838,7 +838,7 @@
     "Fill in the table: nail scratches it, key scratches it, or nothing scratches it."
    ],
    "predict": "Ask: 'Which rock do you think is hardest? Why?'",
-   "observe": "A fingernail scratches chalk. The steel key scratches marble and brick, but not the fingernail. Granite and most pebbles are not scratched even by the key: the key only leaves a grey line of metal that rubs off.",
+   "observe": "A fingernail scratches chalk. A fingernail does not scratch marble or brick, but the steel key does. Granite and most pebbles are not scratched even by the key: the key only leaves a grey line of metal that rubs off.",
    "why": "Rocks are made of minerals, and some minerals are harder than others. Chalk is very soft. Marble is harder than a fingernail but softer than steel. Granite and most river pebbles contain a mineral called quartz, which is harder than steel. That is why granite makes good steps and kitchen counters.",
    "safety": "A grown-up holds the rock. Scratch away from the body. Wash hands after handling rocks.",
    "time": "15 min"
@@ -910,7 +910,7 @@
    ],
    "predict": "Ask: 'Will the soil and water stay mixed, or will they make layers? Which bits will sink first?'",
    "observe": "Small stones settle at the bottom, then sand, then a fine smooth layer of silt, then clay at the top. The water above may stay cloudy for a day or more. Bits of leaf and root float. Potting soil from a nursery often has a lot of floating material, because it is mixed with compost or coconut fibre.",
-   "why": "The heaviest, biggest grains sink fastest, so they end up at the bottom. Clay grains are so tiny that they take a long time to settle. The floating bits are humus, from dead plants. So soil is broken rock of many sizes, mixed with rotted living things.",
+   "why": "The heaviest, biggest grains sink fastest, so they end up at the bottom. Clay grains are so tiny that they take a long time to settle. The floating bits are dead plant matter, which slowly rots into humus. So soil is broken rock of many sizes, mixed with rotted living things.",
    "safety": "If you use a glass jar, carry it with two hands.",
    "time": "10 min to set up, look the next day"
   },
@@ -923,7 +923,7 @@
     "half a cup of hot water",
     "salt",
     "a spoon",
-    "a dark steel plate or a dark plastic lid",
+    "a dark plate or a dark plastic lid",
     "a sunny windowsill",
     "a magnifying glass or a phone camera"
    ],
@@ -1000,13 +1000,13 @@
    "day": 7,
    "mins": 7,
    "need": [
-    "two or more people, or cushions or steel tumblers"
+    "four people, or steel tumblers or cushions"
    ],
    "steps": [
-    "Hold hands to make a square.",
-    "Add another square next to it, sharing hands.",
+    "Four people stand at the corners of a square and hold hands.",
+    "More people add another square next to it.",
     "Keep adding squares so the pattern grows in every direction.",
-    "With one child, lay cushions or tumblers in a square grid instead.",
+    "With fewer people, lay steel tumblers or cushions in a square grid instead.",
     "Put one out of place and ask what changes."
    ],
    "outcome": "Your child feels what 'a pattern that repeats' means in a crystal."
@@ -1185,7 +1185,7 @@
   },
   {
    "who": "An earthworm",
-   "view": "To a worm, soil is food, home and a road. It eats its way through, and leaves soil looser and richer behind it. Ask: if worms could vote, what would they say about cement floors?"
+   "view": "To a worm, soil is food, home and a road. Worms eat their way through, and leave the soil looser and richer behind them. Ask: if worms could vote, what would they say about cement floors?"
   },
   {
    "who": "People who walk around Arunachala hill in Tiruvannamalai",
@@ -1201,7 +1201,7 @@
    "id": "v1",
    "who": "Charles Darwin (1809–1882), scientist, England, and Gilbert White (1720–1793), a country priest, England",
    "idea": "In his last book, in 1881, Darwin showed that earthworms swallow soil and dead leaves and leave fine soil on the surface as castings. He measured how stones in his own field slowly sank as worms buried them over many years. Long before him, Gilbert White, a village priest who watched nature closely, wrote in 1770 that worms were small but very important for the soil.",
-   "then": "Many gardeners and farmers thought worms were pests that harmed plants. Most scientists thought animals so small could not change the land.",
+   "then": "Many gardeners and farmers thought worms were pests that harmed plants. Few people thought animals so small could change the land.",
    "now": "Accepted. Earthworms are among the most important soil makers. They mix the soil and make tunnels that let in air and water.",
    "status": "accepted",
    "ask": "Darwin was a famous scientist, and Gilbert White was a village priest. Whose idea do you think people listened to? Why?",
@@ -1210,7 +1210,7 @@
   {
    "id": "v2",
    "who": "Mary Anning (1799–1847), fossil hunter, Lyme Regis, England",
-   "idea": "Mary Anning was poor and had little schooling. She dug fossils from the sea cliffs to sell. With her brother Joseph she found the first complete skeleton of an ichthyosaur, a huge sea reptile, to be studied by scientists. Later she found the first complete plesiosaur. Her finds showed that animals very different from any alive today once lived and then died out.",
+   "idea": "Mary Anning was poor and had little schooling. She dug fossils from the sea cliffs to sell. With her brother Joseph she found one of the first ichthyosaur skeletons known to scientists. An ichthyosaur was a huge sea reptile. Later she found the first complete plesiosaur. Her finds showed that animals very different from any alive today once lived and then died out.",
    "then": "Many people believed that no kind of animal had ever died out completely. Scientists bought her fossils and wrote about them, often without her name. As a woman, she was not allowed to join the Geological Society of London.",
    "now": "Accepted. Fossils show that many kinds of living things have died out, and the Earth is very old. Mary Anning is now seen as one of the great fossil hunters.",
    "status": "accepted",
@@ -1233,32 +1233,32 @@
   "text": [
    "I am a stone. Today I am small enough to sit in a child's palm. But I was once a corner of a hill.",
    "The hill stood above the Kaveri river, not far from Srirangapatna. It was granite, grey and pink, with shiny black specks. I was its corner, and I faced the morning sun. For a very long time, longer than anyone can count, nothing happened to me. Rain fell on me. Sun baked me. At night I cooled. Lizards ran over me and goats rested in my shade.",
-   "Then a fig seed landed in a crack beside me. A bird had dropped it. It sprouted in the dust in the crack, and its root went down, thin as a thread. Every year the root grew a little fatter. Every year it pushed. I did not notice at first. Then one monsoon night, with a crack like thunder, I broke away from the hill and rolled down the slope, into the stream.",
+   "Then a bird dropped a fig seed into a crack beside me. The seed sprouted in the dust in the crack, and sent a root down, thin as a thread. Every year the root grew a little fatter. Every year it pushed. I did not notice at first. Then one monsoon night, with a crack like thunder, I broke away from the hill and rolled down the slope, into the stream.",
    "I was afraid. I had been part of something huge, and now I was alone.",
    "The stream carried me only in the rains. Each monsoon it rose brown and fast. It rolled me over and over, and knocked me against other stones. Every time we knocked, tiny pieces of me broke off. My sharp corners went first. I got rounder. I got smaller. Each year I was a little less of myself.",
    "Some of the bits that broke off me were tiny grains of quartz, clear and hard. Some were flakes of black mica, which glitter. The pink part of me was softer. The water slowly changed it into something new, a fine smooth mud called clay. All of these went away from me down the stream. I did not know where.",
    "I thought: one day there will be nothing left of me at all.",
-   "After a long time, the stream left me on the edge of a rice field. Green rice stood in the water. A girl came walking along the mud bank with her father. Her name was Selvi. She had a red ribbon in her hair and mud up to her ankles.",
-   "She saw me and picked me up. 'Appa, look. This one is so smooth.'",
-   "Her father took me and turned me in his fingers. 'Granite,' he said. 'From the hill, I think. It has come a long way.'",
+   "After a long time, the stream left me on the edge of a rice field. Green rice stood in the water. A girl came walking along the mud bank with her mother. Her name was Selvi. She had a red ribbon in her hair and mud up to her ankles.",
+   "She saw me and picked me up. 'Amma, look. This one is so smooth.'",
+   "Her mother took me and turned me in her fingers. 'Granite,' she said. 'From the hill, I think. It has come a long way.'",
    "'How did it get so round?'",
    "'The water rolled it. For hundreds of years, maybe thousands. Every bump knocks a bit off.'",
    "Selvi frowned. 'Then where did the bits go?'",
-   "Her father smiled. He bent down and scooped up a handful of the wet field. He held it out to her. 'Look closely.'",
-   "She looked, and I looked too. In his hand was dark soil. There were bits of old rice stalk in it, rotted almost black. There was a pink worm, curling. A thin white rice root was wrapped around it all. And in the soil, everywhere, there were tiny clear grains, and little flakes that glittered black in the sun.",
+   "Her mother smiled. She bent down and scooped up a handful of the wet field. She held it out to Selvi. 'Look closely.'",
+   "Selvi looked, and I looked too. In her mother's hand was dark soil. There were bits of old rice stalk in it, rotted almost black. There was a pink worm, curling. A thin white rice root was wrapped around it all. And in the soil, everywhere, there were tiny clear grains, and little flakes that glittered black in the sun.",
    "I knew those grains. I knew those flakes. They were mine.",
-   "'This field is made of the hill,' said her father. 'The water broke the hill into sand and clay and brought it down here. The old leaves and the worms mixed in. That is soil. Your rice grows in it.'",
-   "Selvi looked up at the hill, far away and blue. Then at the soil in her father's hand. Then at me.",
+   "'This field is made of the hill,' said her mother. 'The water broke the hill into sand and clay and brought it down here. The old leaves and the worms mixed in. That is soil. Your rice grows in it.'",
+   "Selvi looked up at the hill, far away and blue. Then at the soil in her mother's hand. Then at me.",
    "'So the hill is in the rice,' she said slowly. 'And the rice is in me.'",
-   "Her father laughed and wiped his hand on his veshti. 'Something like that.'",
+   "Her mother laughed and wiped her hand on her saree. 'Something like that.'",
    "Selvi put me in her pocket. Now I sit on her windowsill, next to a pot of tulsi. Every evening the sun shines through the window onto me, the way it did on the hill. I am still getting smaller, very slowly. I am not afraid any more. I have seen where the pieces go."
   ],
-  "epiphany": "The stone is afraid because weathering keeps breaking it into smaller and smaller pieces, and it thinks those pieces are simply lost. The turn comes when Selvi's father shows her the soil of the rice field: the grains of quartz and flakes of mica in it came from the same granite hill, mixed with rotted plants and worms. The idea hidden in the story: soil is broken rock mixed with once-living things, made very slowly, and our food grows in it.",
+  "epiphany": "The stone is afraid because weathering keeps breaking it into smaller and smaller pieces, and it thinks those pieces are simply lost. The turn comes when Selvi's mother shows her the soil of the rice field: the grains of quartz and flakes of mica in it came from the same granite hill, mixed with rotted plants and worms. The idea hidden in the story: soil is broken rock mixed with once-living things, made very slowly, and our food grows in it.",
   "ask": [
    "Why was the stone afraid?",
    "What broke the stone off the hill in the first place?",
    "How did the stone get round and smooth?",
-   "What did Selvi see in her father's handful of soil? Where had it come from?",
+   "What did Selvi see in her mother's handful of soil? Where had it come from?",
    "What did Selvi mean when she said 'the hill is in the rice'?"
   ]
  },
@@ -1322,7 +1322,7 @@
   },
   {
    "q": "What does waterproof mean? Name a rock that is waterproof.",
-   "a": "It does not let water soak in. Slate and polished granite are waterproof: the drops stayed on top."
+   "a": "It does not let water soak in. Polished granite and marble are waterproof: the drops stayed on top. Slate is waterproof too."
   },
   {
    "q": "How do sharp rocks become round pebbles and sand?",

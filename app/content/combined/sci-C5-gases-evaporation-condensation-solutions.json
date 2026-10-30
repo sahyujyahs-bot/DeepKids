@@ -166,7 +166,7 @@
      "kind": "talk",
      "title": "The man who named gas after chaos",
      "mins": 7,
-     "do": "Tell the story in Voice v1, Jan Baptist van Helmont. Say: 'Before him there was no word for gas. He found that burning charcoal and fermenting juice both gave off a wild, invisible air, and he called it gas, probably from the Greek word chaos.' Ask the voice question. Good answers: the particles rush about in every direction like chaos. But the gas still fills the jar evenly and presses evenly on every side, so there is order in it too.",
+     "do": "Tell the story in Voice v1, Jan Baptist van Helmont. Say: 'Before him there was no word for gas. He found that burning charcoal and fermenting juice both gave off a wild, invisible air, and he called it gas, after the Greek word chaos.' Ask the voice question. Good answers: the particles rush about in every direction like chaos. But the gas still fills the jar evenly and presses evenly on every side, so there is order in it too.",
      "ref": "v1"
     }
    ],
@@ -310,7 +310,7 @@
      "kind": "talk",
      "title": "Evaporation is not boiling",
      "mins": 8,
-     "do": "Ask: 'Clothes dry on a line on a 30 °C day. Water boils at 100 °C. Is the water in the clothes boiling?' Good answer: no. Say: 'In a liquid, the particles move at different speeds. A few at the surface move fast enough to break away into the air. That is evaporation. It happens at the surface, at any temperature, even from ice. Boiling happens all through the liquid, but only at the boiling point.' Ask: 'Why do clothes dry slowly on a sticky monsoon day?' Good answer: the air already holds a lot of water vapour, so less water can evaporate into it. Say: 'How much water vapour is in the air is called humidity. Warm air can hold much more water vapour than cold air.'"
+     "do": "Ask: 'Clothes dry on a line on a 30 °C day. Water boils at 100 °C. Is the water in the clothes boiling?' Good answer: no. Say: 'In a liquid, the particles move at different speeds. A few at the surface move fast enough to break away into the air. That is evaporation. It happens at the surface, at any temperature. Boiling happens all through the liquid, but only at the boiling point.' Ask: 'Why do clothes dry slowly on a sticky monsoon day?' Good answer: the air already holds a lot of water vapour, so less water can evaporate into it. Say: 'How much water vapour is in the air is called humidity. Warm air can hold much more water vapour than cold air.'"
     },
     {
      "kind": "do",
@@ -470,7 +470,7 @@
      "kind": "talk",
      "title": "Gases dissolve too",
      "mins": 7,
-     "do": "Ask: 'When you open a bottle of soda, where do the bubbles come from?' Good answer: carbon dioxide was dissolved in the drink under pressure. When the cap comes off, the pressure drops and the gas comes out. Say: 'A glass of cold water left out overnight often has tiny bubbles on its sides by morning. That is dissolved air coming out as the water warms up.' Ask: 'Fish breathe oxygen that is dissolved in water. On a very hot summer afternoon, fish in a pond come up and gulp at the surface. Why?' Good answer: warm water holds less dissolved oxygen. Say: 'So gases are the opposite of sugar. Cold water holds more gas than warm water.'"
+     "do": "Ask: 'When you open a bottle of soda, where do the bubbles come from?' Good answer: carbon dioxide was dissolved in the drink under pressure. When the cap comes off, the pressure drops and the gas comes out. Say: 'A glass of cold water left out overnight often has tiny bubbles on its sides by morning. That is dissolved air coming out as the water warms up.' Ask: 'Fish breathe oxygen that is dissolved in water. In a hot summer, fish in a crowded pond sometimes come up and gulp at the surface. Why?' Good answer: warm water holds less dissolved oxygen. Say: 'So gases are the opposite of sugar. Cold water holds more gas than warm water.'"
     },
     {
      "kind": "do",
@@ -556,7 +556,7 @@
      [
       {
        "t": "mcq",
-       "p": "Kavya pushes a glass straight down into a bucket of water. The glass is upside down, with a dry tissue stuck inside. Why does the tissue stay dry?",
+       "p": "Kavya, a girl in Class 5, pushes a glass straight down into a bucket of water. The glass is upside down, with a dry tissue stuck inside. Why does the tissue stay dry?",
        "opts": [
         "The glass is full of air, and the air keeps the water out.",
         "Water cannot wet a tissue.",
@@ -602,7 +602,7 @@
       },
       {
        "t": "write",
-       "p": "Arjun squeezes a closed bottle of air and a closed bottle full of water. Only the bottle of air squashes. Explain why, using the word particles.",
+       "p": "Anjali, a girl in Class 5, squeezes a closed bottle of air and a closed bottle full of water. Only the bottle of air squashes. Explain why, using the word particles.",
        "lines": 3
       }
      ]
@@ -652,7 +652,7 @@
       },
       {
        "t": "mcq",
-       "p": "Lakshmi hangs out four wet cloths of the same size. Which one dries first?",
+       "p": "Lakshmi, a girl in Class 5, hangs out four wet cloths of the same size. Which one dries first?",
        "opts": [
         "folded, in a still corner",
         "spread out, under a fan",
@@ -662,7 +662,7 @@
       },
       {
        "t": "mcq",
-       "p": "Farhan takes a cold bottle out of the fridge. Drops appear on the outside. Where did the water come from?",
+       "p": "Farhan, a boy in Class 5, takes a cold bottle out of the fridge. Drops appear on the outside. Where did the water come from?",
        "opts": [
         "It leaked through the bottle.",
         "Water vapour in the air condensed on the cold bottle.",
@@ -713,7 +713,7 @@
       },
       {
        "t": "mcq",
-       "p": "Meenakshi stirs salt into half a cup of water, one spoon at a time. After six spoons, some salt stays at the bottom however long she stirs. What is her salt water now called?",
+       "p": "Meenakshi, a girl in Class 5, stirs salt into half a cup of water, one spoon at a time. After six spoons, some salt stays at the bottom however long she stirs. What is her salt water now called?",
        "opts": [
         "saturated",
         "evaporated",
@@ -733,7 +733,7 @@
       },
       {
        "t": "mcq",
-       "p": "Ravi stirs salt into water until it disappears. Then he pours it through a cloth. What comes through the cloth?",
+       "p": "Revathi, a girl in Class 5, stirs salt into water until it disappears. Then she pours it through a cloth. What comes through the cloth?",
        "opts": [
         "only water, because the salt stays on the cloth",
         "salty water, because dissolved salt passes through cloth",
@@ -799,7 +799,7 @@
      [
       {
        "t": "write",
-       "p": "Sanjay stands a lit candle in a plate of water and covers it with a glass. The flame goes out and the water rises a little inside the glass. His friend says, 'The candle used up all the oxygen, so the water rose to fill its place.' What else could make the water rise? How could you test it?",
+       "p": "Sangeetha, a girl in Class 5, stands a lit candle in a plate of water and covers it with a glass. The flame goes out and the water rises a little inside the glass. Her friend says, 'The candle used up all the oxygen, so the water rose to fill its place.' What else could make the water rise? How could you test it?",
        "lines": 4
       },
       {
@@ -824,7 +824,7 @@
       },
       {
        "t": "mcq",
-       "p": "Fish in a pond gulp at the surface on a very hot afternoon. What is the best reason?",
+       "p": "In a hot summer, fish in a crowded pond sometimes gulp at the surface. What is the best reason?",
        "opts": [
         "Warm water holds less dissolved oxygen.",
         "Fish like the sunshine.",
@@ -1160,7 +1160,7 @@
   {
    "id": "v1",
    "who": "Jan Baptist van Helmont (1580–1644), Brussels, in today's Belgium",
-   "idea": "Van Helmont was a doctor who did careful experiments at home. He burned charcoal and found that only a little ash was left. The rest had gone off as an invisible air. He found a similar air coming from grape juice as it fermented into wine. He called it 'wild spirit', and he made up a new word for airs like this: gas. He most likely took it from the Greek word chaos. We now know his wild spirit was carbon dioxide.",
+   "idea": "Van Helmont was a doctor who did careful experiments at home. He burned charcoal and found that only a little ash was left. The rest had gone off as an invisible air. He found a similar air coming from grape juice as it fermented into wine. He called it 'wild spirit', and he made up a new word for airs like this: gas. He wrote that he took it from the Greek word chaos. We now know his wild spirit was carbon dioxide.",
    "then": "For about two thousand years, many thinkers in Europe had counted air as one single element. The idea that there were different gases, each its own substance, was new. His writings were published by his son after he died.",
    "now": "Accepted. The word gas is now used in almost every language, and carbon dioxide was one of the first gases to be studied.",
    "status": "accepted",
@@ -1181,7 +1181,7 @@
    "id": "v3",
    "who": "Anna Mani (1918–2001), born in Peermade, Kerala, India",
    "idea": "Anna Mani studied physics and did research in Bengaluru under C.V. Raman, on how diamonds and rubies give out light. In 1948 she joined the India Meteorological Department, which studies weather. India then bought almost all its weather instruments from abroad. She led the work of designing and making them in India: instruments for sunshine, rain, wind and humidity. She also built an instrument to measure ozone, a gas high in the air that blocks harmful sunlight, and she helped find good places for wind power.",
-   "then": "She wrote several research papers with Raman, but Madras University would not give her a PhD, because she did not have a master's degree. She went on with her work anyway. She retired in 1976 as Deputy Director General of the department.",
+   "then": "She wrote five research papers on her own, but Madras University would not give her a PhD, because she did not have a master's degree. She went on with her work anyway. She retired in 1976 as Deputy Director General of the department.",
    "now": "Accepted. Her instruments helped India measure its own air and weather, and she is now remembered as one of India's first women in weather science.",
    "status": "accepted",
    "ask": "Why does a country need to measure its own air and make its own instruments, instead of buying them?",
@@ -1191,7 +1191,7 @@
    "id": "v4",
    "who": "Meghnad Saha (1893–1956), born in Shaoratoli, near Dhaka, in today's Bangladesh",
    "idea": "Stars are huge balls of very hot gas. In 1920 Saha worked out an equation for how the atoms in a hot gas lose some of their electrons as it gets hotter, and how that depends on the pressure. With it, astronomers could read the pattern of dark lines in a star's light and work out how hot the star is and which atoms are in it. In 1925 Cecilia Payne used his idea to show that stars are made mostly of hydrogen and helium.",
-   "then": "Saha's father ran a small shop and the family was poor. At school some students of higher caste would not eat with him. In 1905 he was expelled from his school in Dhaka for joining a protest against the British governor, and lost his scholarship. Astronomers in Europe took up his equation quickly. He was nominated for the Nobel Prize several times but never won it.",
+   "then": "Saha's father ran a small shop and the family was poor. At college in Kolkata, some students of higher caste would not let him eat with them in the hostel. In 1905 he was expelled from his school in Dhaka for joining a protest against the British governor, and lost his scholarship. Astronomers in Europe took up his equation quickly. He was nominated for the Nobel Prize several times but never won it.",
    "now": "Accepted. The Saha equation is still used to study stars and very hot gases.",
    "status": "accepted",
    "ask": "Saha found out what stars are made of without touching one, only from their light. How can light carry that news?",
@@ -1336,7 +1336,7 @@
   "The air you breathe out goes into other people, animals and trees. Is any of the air inside you only yours?",
   "Sugar seems to vanish in water but it is still there. What else might be all around us that we cannot see?",
   "Van Helmont named gas after chaos. Can something be messy up close and orderly from far away?",
-  "Clean air has no price, but nothing is more precious to us. Who should look after it, and who decides?",
+  "Nobody pays for clean air, but nobody can live without it. Who should look after it, and who decides?",
   "Water that evaporated from the sea falls as rain on your roof. Is it the same water, or new water?"
  ],
  "challenge": [
@@ -1350,17 +1350,17 @@
   },
   {
    "q": "'Hot water dissolves more of everything.' Is that true?",
-   "hint": "It depends on what is dissolving. Very hot water dissolves more than twice as much sugar as cold water. For salt it makes only a small difference, as your salt test showed. For gases it is the opposite: warm water holds less gas, which is why warm soda goes flat faster and fish gulp at the surface on hot days. Can you think of something else you could test at home?"
+   "hint": "It depends on what is dissolving. Very hot water dissolves more than twice as much sugar as cold water. For salt it makes only a small difference, as your salt test showed. For gases it is the opposite: warm water holds less gas, which is why warm soda goes flat faster and fish in crowded ponds sometimes gulp at the surface in summer. Can you think of something else you could test at home?"
   }
  ],
  "perspectives": [
   {
    "who": "A rohu fish in a village pond",
-   "view": "It breathes oxygen that is dissolved in the water, taking it in through its gills. On a hot summer afternoon the warm water holds less oxygen, so it must come up and gulp at the surface. Ask: when we pour hot water or waste into a pond, whose breathing changes?"
+   "view": "They breathe oxygen that is dissolved in the water, taking it in through their gills. In a hot summer the warm water holds less oxygen, so in a crowded pond they may have to come up and gulp at the surface. Ask: when we pour hot water or waste into a pond, whose breathing changes?"
   },
   {
    "who": "A neem tree on a Chennai street",
-   "view": "Its leaves take in carbon dioxide through tiny pores and give out oxygen and water vapour. The dust and soot from the traffic settle on its leaves. Ask: the tree helps clean the air for free. How would the street be different without it?"
+   "view": "Their leaves take in carbon dioxide through tiny pores and give out oxygen and water vapour. The dust and soot from the traffic settle on their leaves. Ask: the tree helps clean the air for free. How would the street be different without it?"
   },
   {
    "who": "A traffic police officer at a busy Bengaluru junction",

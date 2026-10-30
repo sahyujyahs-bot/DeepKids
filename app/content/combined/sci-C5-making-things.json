@@ -64,7 +64,7 @@
   ],
   [
    "twill",
-   "a weave that goes over two and under two, shifting one step each row, which makes diagonal lines, as in jeans"
+   "a weave in which each row shifts one step along, which makes diagonal lines, as in jeans"
   ],
   [
    "knitting",
@@ -92,7 +92,7 @@
   {
    "n": 1,
    "title": "What is cloth made of?",
-   "goal": "Recall Class 3, then find the fibres inside thread and cloth.",
+   "goal": "Recall Classes 3 and 4, then find the fibres inside thread and cloth.",
    "steps": [
     {
      "kind": "warmup",
@@ -116,7 +116,7 @@
      "kind": "talk",
      "title": "Cotton is the hair on a seed",
      "mins": 12,
-     "do": "Show a piece of cotton wool. Say: 'Cotton grows on a plant. When a cotton fruit, called a boll, splits open, the seeds inside are covered in fluff. Each fibre of the fluff is one long cell that grew out of the seed's skin.' Ask: 'Why would a plant grow hair on its seeds? What problem might that solve for the plant?' Wait for ideas. Say: 'Scientists think the fluff may help the seeds float on wind or water to new places, or hold water when they start to grow. Nobody is fully sure.' Then make a two-column table in the notebook, 'From plants' and 'From animals', and fill it together: cotton (hair on the seed), jute and linen (long fibres from the stem; jute grows mostly in West Bengal and Assam, linen comes from flax), coir (fibres from the coconut husk, made into doormats and ropes in Kerala), wool (hair of sheep, goats or camels), silk (spun by a caterpillar). Say: 'Every one of these fibres was part of a living thing first, doing a job for it.'"
+     "do": "Show a piece of cotton wool. Say: 'Cotton grows on a plant. When a cotton fruit, called a boll, splits open, the seeds inside are covered in fluff. Each fibre of the fluff is one long cell that grew out of the seed's skin.' Ask: 'Why would a plant grow hair on its seeds? What problem might that solve for the plant?' Wait for ideas. Say: 'Scientists think the fluff may help the seeds float on wind or water to new places, or hold water when they start to grow. Nobody is fully sure.' Then make a two-column table in the notebook, 'From plants' and 'From animals', and fill it together: cotton (hair on the seed), jute and linen (long fibres from the stem; jute grows mostly in West Bengal and Assam, linen comes from flax), coir (fibres from the coconut husk, made into doormats and ropes in Kerala), wool (hair of sheep, goats or camels), silk (spun by a caterpillar). Say: 'Every one of these fibres was part of a living thing first, doing a job for that living thing.'"
     }
    ],
    "need": [
@@ -151,7 +151,7 @@
      "kind": "talk",
      "title": "The charkha and khadi",
      "mins": 12,
-     "do": "Say: 'In India, people spun cotton for thousands of years, first on hand spindles like yours and later on a spinning wheel called a charkha. About a hundred years ago, most cloth sold in India was made in British factories, often from cotton grown in India, and many Indian spinners and weavers lost their work. In the 1920s Mahatma Gandhi asked people to spin on the charkha and wear khadi. Khadi is cloth that is hand-spun and hand-woven.' Ask: 'Why would spinning your own thread be a way to protest?' Good answer: money stays with Indian spinners and weavers instead of going to faraway factories. Ask: 'Gandhi did not invent the charkha. Who do you think built and used the first ones?' (Nobody knows their names. Spinning wheels were used in India for centuries before Gandhi.)"
+     "do": "Say: 'In India, people spun cotton for thousands of years, first on hand spindles like yours and later on a spinning wheel called a charkha. About a hundred years ago, much of the cloth sold in India was made in British factories, often from cotton grown in India, and many Indian spinners and weavers lost their work. In the 1920s Mahatma Gandhi asked people to spin on the charkha and wear khadi. Khadi is cloth that is hand-spun and hand-woven.' Ask: 'Why would spinning your own thread be a way to protest?' Good answer: money stays with Indian spinners and weavers instead of going to faraway factories. Ask: 'Gandhi did not invent the charkha. Who do you think built and used the first ones?' (Nobody knows their names. Spinning wheels were used in India for centuries before Gandhi.)"
     }
    ],
    "need": [
@@ -159,6 +159,7 @@
     "2 paper clips",
     "2 small plastic bags or paper cups",
     "about 20 coins of the same kind",
+    "sticky tape",
     "a pencil",
     "a piece of cardboard about 6 cm across",
     "a small lump of clay, or a coin and tape",
@@ -187,7 +188,7 @@
      "kind": "do",
      "title": "Find the twill",
      "mins": 8,
-     "do": "Look closely at a pair of jeans or a school uniform pant and a cotton handkerchief with the phone zoom. Ask: 'What is different?' Good answer: the jeans have little diagonal lines. Say: 'That is twill. The weft goes over two and under two, and each row moves one step along. That makes a staircase, which you see as diagonal lines. Twill is thick and strong, which is why it is used for jeans.' Then weave 6 rows of twill on the loom (step 6 of Activity a2) and watch the diagonal appear.",
+     "do": "Look closely at a pair of jeans or a school uniform pant and a cotton handkerchief with the phone zoom. Ask: 'What is different?' Good answer: the jeans have little diagonal lines. Say: 'That is twill. Each row of crossings moves one step along. That makes a staircase, which you see as diagonal lines. Twill is thick and strong, which is why it is used for jeans. On our loom we will go over two and under two.' Then weave 6 rows of twill on the loom (step 6 of Activity a2) and watch the diagonal appear.",
      "ref": "a2"
     },
     {
@@ -230,7 +231,7 @@
      "kind": "talk",
      "title": "Holes that weave",
      "mins": 12,
-     "do": "Remind your child of the story: the cards in Amma's loom each had a row of holes. Say: 'Each card is one row of the weave. Where there is a hole, a hook goes through and lifts that warp thread. Where there is no hole, the thread stays down. Around 1804 Joseph Marie Jacquard, in France, made a loom that read a chain of cards like this, so one weaver could weave a detailed picture without a helper lifting threads by hand.' Then share Voice v3 in your own words: about 40 years later, Charles Babbage designed a calculating machine that would read punched cards, and Ada Lovelace wrote how it could follow a long list of instructions. Ask the question in v3.",
+     "do": "Remind your child of the story: the cards in Amma's loom each had a row of holes. Say: 'Each card is one row of the weave. Where there is a hole, a hook goes through and lifts that warp thread. Where there is no hole, the thread stays down. Around 1804 Joseph Marie Jacquard, in France, made a loom that read a chain of cards like this, so one weaver could weave a detailed picture without a helper lifting threads by hand.' Then share Voice v3 in your own words: about 30 years later, Charles Babbage designed a calculating machine that would read punched cards, and in 1843 Ada Lovelace wrote how it could follow a long list of instructions. Ask the question in v3.",
      "ref": "v3"
     },
     {
@@ -244,7 +245,7 @@
      "kind": "talk",
      "title": "Weavers of India",
      "mins": 9,
-     "do": "Say: 'Indian weavers stored designs long before Jacquard. In Varanasi, a pattern is tied into a frame of threads called a naksha, which lifts the right warp threads for each row.' Show these on a map of India and say one fact for each: Kanchipuram silk sarees (Tamil Nadu), heavy silk with a contrasting border. Pochampally ikat (Telangana): the threads are tied and dyed before weaving, so the pattern appears as they are woven. Kasavu (Kerala): off-white cotton with a gold border. Ilkal sarees (Karnataka). Muga silk (Assam), a golden silk from a moth reared on trees outdoors. Patola (Gujarat), where both warp and weft are tied and dyed. Ask: 'Which cloth is famous where we live, or where our family comes from?' Look in the cupboard for a saree, veshti or dupatta and read its border."
+     "do": "Say: 'Indian weavers stored designs long before Jacquard. In Varanasi, a pattern is tied into a frame of threads called a naksha, which lifts the right warp threads for each row.' Find these on a map of India and say one fact for each. Kanchipuram silk sarees (Tamil Nadu): heavy silk with a border of a contrasting colour. Pochampally ikat (Telangana): the threads are tied and dyed before weaving, so the pattern appears as they are woven. Kasavu (Kerala): off-white cotton with a gold border. Ilkal sarees (Karnataka): a cotton body with a silk border and end piece, often red. Muga silk (Assam): a golden silk from a moth reared outdoors on trees. Patola (Gujarat): both warp and weft are tied and dyed before weaving. Ask: 'Which cloth is famous where we live, or where our family comes from?' Look in the cupboard for a saree, veshti or dupatta and read its border."
     },
     {
      "kind": "ws",
@@ -272,7 +273,7 @@
      "kind": "talk",
      "title": "The silk moth's problem",
      "mins": 10,
-     "do": "Say: 'The silk moth's caterpillar, called a silkworm, eats only mulberry leaves and grows very fast. Then it has a problem. It must change into a moth, and while it changes it cannot move or run from danger. So it makes a case round itself, called a cocoon. It pushes out liquid silk from glands near its mouth, and the silk hardens in the air into one long thread. It swings its head in a figure of eight for two or three days. One cocoon is often a single thread 600 metres long or more.' Draw the life cycle with your child: egg, caterpillar, cocoon, moth. Say: 'Silk is a protein, like your hair. Wool is a protein too. Cotton, jute and linen are made of cellulose, the material of plant cell walls.' Add: 'The silk moth has lived with people for so long that the adult moth can no longer fly. It needs us, and we need it.'"
+     "do": "Say: 'The silk moth's caterpillar, called a silkworm, eats only mulberry leaves and grows very fast. Then the silkworm has a problem. They must change into a moth, and while they change they cannot move away from danger. So they make a case round themselves, called a cocoon. They push out liquid silk from glands near the mouth, and the silk hardens in the air into one long thread. They swing their head in a figure of eight for two or three days. One cocoon is a single thread, hundreds of metres long.' Draw the life cycle with your child: egg, caterpillar, cocoon, moth. Say: 'Silk is a protein, like your hair. Wool is a protein too. Cotton, jute and linen are made of cellulose, the material of plant cell walls.' Add: 'The silk moth has lived with people for about 5,000 years. The adult moth can no longer fly, and the silk moth no longer lives in the wild.'"
     },
     {
      "kind": "think",
@@ -291,7 +292,7 @@
      "kind": "talk",
      "title": "Why wool keeps you warm",
      "mins": 7,
-     "do": "Look at the ice cubes again. Ask: 'Which is melting slowest?' Then ask: 'So does wool make heat?' Good answer: no. If wool made heat, the wrapped ice would melt fastest. Say: 'Wool fibres are curly, so they trap lots of still air between them. Still air is a good insulator. An insulator slows heat moving through it. Your body makes the heat. The sweater keeps it in. Around the ice, the sock keeps the warmth of the room out.' Ask: 'A sheep has the same problem in the cold. How does its fleece help it?'"
+     "do": "Look at the ice cubes again. Ask: 'Which is melting slowest?' Then ask: 'So does wool make heat?' Good answer: no. If wool made heat, the wrapped ice would melt fastest. Say: 'Wool fibres are curly, so they trap lots of still air between them. Still air is a good insulator. An insulator slows heat moving through it. Your body makes the heat. The sweater keeps it in. Around the ice, the sock keeps the warmth of the room out.' Ask: 'A sheep has the same problem in the cold. How does their fleece help them?'"
     }
    ],
    "need": [
@@ -361,7 +362,7 @@
      "kind": "think",
      "title": "The tailorbird's problem",
      "mins": 8,
-     "do": "Say: 'The common tailorbird is a small green bird found in gardens all over India, even in cities. It has a problem: its eggs and chicks are easy food for crows, snakes and cats. So it hides its nest inside leaves. It pokes small holes along the edges of one or two big leaves with its sharp beak. It pulls plant fibre or spider silk through the holes, and the threads swell into little knots that hold the edges together. This makes a pocket of leaves, and the nest goes inside.' Ask: 'What does the tailorbird use as a needle? As thread?' Good answer: its beak, and plant fibre or spider silk. Ask: 'Why is a green leaf pocket a good hiding place?' Good answer: from outside it looks just like the rest of the plant."
+     "do": "Say: 'The common tailorbird is a small green bird found in gardens all over India, even in cities. The tailorbird has a problem: their eggs and chicks are easy food for crows, snakes and cats. So they hide the nest inside leaves. They poke small holes along the edges of one or two big leaves with their sharp beak. They pull plant fibre or spider silk through the holes, and the ends fluff out into little knots that hold the edges together. This makes a pocket of leaves, and the nest goes inside.' Ask: 'What does the tailorbird use as a needle? As thread?' Good answer: their beak, and plant fibre or spider silk. Ask: 'Why is a green leaf pocket a good hiding place?' Good answer: from outside it looks just like the rest of the plant."
     },
     {
      "kind": "act",
@@ -409,7 +410,7 @@
      "kind": "think",
      "title": "Tiny plastic threads",
      "mins": 10,
-     "do": "Share Voice v2 in your own words. Show a fluffy old fleece or polyester T-shirt, and the lint from a washing machine filter if you have one. Say: 'Every time synthetic clothes are washed, tiny fibres break off. They are called microfibres. Most are too small to catch at the water treatment plant, so many flow into rivers and the sea.' Ask the question in v2. Then ask: 'Cotton fibres break off too. What is different about them?' Good answer: microbes can break cotton down, because it is made of cellulose. Polyester can last for a very long time.",
+     "do": "Share Voice v2 in your own words. Show a fluffy old fleece or polyester T-shirt, and the lint from a washing machine filter if you have one. Say: 'Every time synthetic clothes are washed, tiny fibres break off. They are called microfibres. Treatment plants catch many of them, but not all, and in many towns wash water is not treated at all. So many reach rivers and the sea.' Ask the question in v2. Then ask: 'Cotton fibres break off too. What is different about them?' Good answer: microbes can break cotton down, because it is made of cellulose. Polyester can last for a very long time.",
      "ref": "v2"
     },
     {
@@ -792,7 +793,7 @@
      [
       {
        "t": "mcq",
-       "p": "A diamond pattern is the same at the top and the bottom. Its 7 cards are 1, 2, 3, 4, 3, 2, 1. Card 6 is lost. Which card is the same as card 6?",
+       "p": "Seven punched cards weave a diamond. From top to bottom, they have 2, 4, 6, 8, 6, 4 and 2 holes. Card 6 is lost. Which card has the same holes as card 6?",
        "opts": [
         "card 2",
         "card 4",
@@ -892,20 +893,20 @@
     "2 small plastic bags or paper cups with handles made of thread",
     "about 20 coins of the same kind",
     "a ruler",
-    "the back of a chair"
+    "sticky tape and a table"
    ],
    "steps": [
     "Pull 2 strands of cotton wool, each about 20 cm long and as equal in thickness as you can.",
     "Leave strand A loose. Twist strand B tightly along its whole length, about 40 turns.",
-    "Tie the top of each strand to the back of a chair.",
-    "Tie a paper-clip hook to the bottom of each strand and hang a bag on each hook.",
+    "Tape the top end of each strand firmly to the edge of a table, so the strands hang down side by side.",
+    "Fold the bottom end of each strand round a paper-clip hook, tape it, and hang a bag on each hook.",
     "Add coins to bag A one at a time, gently, until the strand breaks. Write down how many it held.",
     "Do the same with bag B.",
     "Repeat with two new strands, because one try can be a fluke."
    ],
    "predict": "Ask: 'Which strand will hold more coins? Why do you think so?'",
    "observe": "The loose strand usually pulls apart with only 1 or 2 coins, or even with the empty bag. The twisted strand usually holds several coins, often more than 5. Watch where the loose strand breaks: the fibres slide apart rather than snap.",
-   "why": "Each cotton fibre is only 2 to 3 cm long, so no single fibre runs the whole length of the strand. In the loose strand, fibres only touch lightly and slide past each other. Twisting squeezes them together. The more tightly fibres press on each other, the more friction there is between them, so they cannot slide. The strand holds until fibres actually break. This is why every thread and rope is twisted.",
+   "why": "Each cotton fibre is only about 2 to 4 cm long, so no single fibre runs the whole length of the strand. In the loose strand, fibres only touch lightly and slide past each other. Twisting squeezes them together. The more tightly fibres press on each other, the more friction there is between them, so they cannot slide. The strand holds until fibres actually break. This is why thread and rope made of short fibres are always twisted.",
    "safety": "",
    "time": "15 min"
   },
@@ -990,8 +991,8 @@
     "After a day or more of sunlight, remove the card and compare the two halves, and the strip from the drawer."
    ],
    "predict": "Ask: 'Will the tied parts be yellow or white? What will soap do to the colour? What will sunlight do?'",
-   "observe": "The strips turn bright yellow, with pale or white patterns where they were tied. The soap water turns the yellow red-brown. After a day or two in a sunny window, the uncovered half is clearly paler than the covered half.",
-   "why": "The yellow colour in haldi is a chemical called curcumin. It soaks into the cotton fibres, but the tied places are squeezed so tightly that the dye cannot reach them. Curcumin turns red-brown in soapy water because soap is an alkali, the opposite of an acid. Sunlight breaks curcumin down, so the colour fades. A mordant such as alum helps many dyes hold on to fibres. Indian dyers used alum with madder for reds, and indigo for blues, because those colours last much longer than haldi.",
+   "observe": "The strips turn bright yellow, with pale or white patterns where they were tied. The soap water turns the yellow red-brown. After a day or two in a sunny window, the uncovered half is paler than the covered half. If the difference is small, leave it in the sun for a few more days.",
+   "why": "The yellow colour in haldi is a chemical called curcumin. It soaks into the cotton fibres, but the tied places are squeezed so tightly that the dye cannot reach them. Curcumin turns red-brown in soapy water because soapy water is an alkali, the opposite of an acid. Sunlight breaks curcumin down, so the colour fades. A mordant such as alum helps many dyes hold on to fibres. Indian dyers used alum with madder for reds, and indigo for blues, because those colours last much longer than haldi.",
    "safety": "A grown-up does all the boiling and handles the hot pan. Let the dye cool before small hands go near it. Haldi stains hands, steel and counters, so cover the table with newspaper and wear old clothes.",
    "time": "17 min + 1 to 2 days in the sun"
   }
@@ -1030,13 +1031,13 @@
     "a ruler and scissors",
     "wool or thick cotton thread in 2 colours",
     "sticky tape",
-    "an ice-cream stick with a hole, or a blunt large-eyed needle",
+    "an ice-cream stick, or a blunt large-eyed needle",
     "a comb or fork"
    ],
    "steps": [
     "Cut 11 small notches 1 cm apart along both short ends of the card.",
     "Tape one end of the first colour at the back. Wind it down through the first notch at the bottom, back up through the first notch at the top, then the next notch, keeping it tight like a veena string. Tape the end at the back. These 11 threads are the warp.",
-    "Thread the second colour onto the ice-cream stick or needle. Row 1: go over the first warp thread, under the next, over, under, all the way across.",
+    "Tape the end of the second colour to the ice-cream stick, or thread it on the needle. Row 1: go over the first warp thread, under the next, over, under, all the way across.",
     "Row 2: come back the other way, going under where you went over before.",
     "Push each row down with the comb. Leave the weft a little loose at the edges so the cloth does not get narrow in the middle. Weave 8 rows.",
     "Now try twill: row 1 over two, under two. Each new row starts one thread further along. Weave 6 rows and look for the diagonal line.",
@@ -1059,7 +1060,7 @@
     "Write the code key at the top: 1 means the weft goes under, so the warp shows. 0 means the weft goes over.",
     "Write plain weave in the first two rows: 101010 and 010101.",
     "Now design your own 6-row pattern with 1s and 0s, for example a small diamond. Shade every 1 so you can see the picture.",
-    "Weave the 6 rows on your loom, reading one row of the grid at a time.",
+    "Weave the 6 rows on the first 6 warp threads of your loom, reading one row of the grid at a time. Carry on in plain weave across the other threads.",
     "Compare the woven rows with the shaded grid. Fix any square that does not match."
    ],
    "outcome": "A pattern written as a code and the same pattern woven into cloth, showing that the code holds all the information the loom needs."
@@ -1234,7 +1235,7 @@
     "back": "Wool (ANIMAL)"
    },
    {
-    "front": "A caterpillar makes me to protect itself while it changes. What am I?",
+    "front": "A caterpillar spins me round their body for protection while they change into a moth. What am I?",
     "back": "A silk cocoon (ANIMAL)"
    },
    {
@@ -1246,7 +1247,7 @@
     "back": "Egg, caterpillar, cocoon, moth (ANIMAL)"
    },
    {
-    "front": "This Assam silk moth leaves its cocoon before the silk is used.",
+    "front": "This Assam silk moth leaves the cocoon before the silk is used.",
     "back": "The eri silk moth (ANIMAL)"
    },
    {
@@ -1286,7 +1287,7 @@
     "back": "The warp (MAKING)"
    },
    {
-    "front": "Over two, under two, shifting one step each row. Which weave?",
+    "front": "Each row shifts one step along, making diagonal lines, as in jeans. Which weave?",
     "back": "Twill (MAKING)"
    },
    {
@@ -1351,11 +1352,11 @@
   },
   {
    "who": "A silkworm",
-   "view": "It eats mulberry leaves, spins for days to protect its own body, and the cocoon was meant for its own change into a moth. Ask: how would the story of a silk saree sound if the silkworm told it?"
+   "view": "They eat mulberry leaves and spin for days to protect their own body. The cocoon was meant for their own change into a moth. Ask: how would the story of a silk saree sound if the silkworm told it?"
   },
   {
    "who": "A sheep in the hills",
-   "view": "Its fleece solves its own problem: staying warm in the cold. Farmed sheep grow much more wool than wild sheep and need shearing every year, or they get too hot. Ask: do we and the sheep both gain from shearing, or only us?"
+   "view": "Their fleece solves their own problem: staying warm in the cold. Farmed sheep grow much more wool than wild sheep and need shearing every year, or they get too hot. Ask: do we and the sheep both gain from shearing, or only us?"
   },
   {
    "who": "A kabadiwala and the people who sort old clothes",
@@ -1386,7 +1387,7 @@
    "She laid the numbered cards on the floor in order, one under another, so that the holes made columns. At first it was just a mess of dots. Then she half-closed her eyes, the way she did when she looked for shapes in clouds, and there it was. The holes made a diamond. The top card had only two holes in the middle. The next had four. Then six, then eight. Then the cards with smudged numbers would have to come, and after them the numbered ones started again: eight, six, four, two.",
    "'Amma, the bead is the same at the top and the bottom.'",
    "Amma came and crouched beside her. She looked at the floor for a long time.",
-   "Meenakshi picked up a smudged card and laid it beside the numbered ones until she found a card whose holes matched it exactly. 'This one is the same as card twelve. So it must be its twin on the other side.' One by one, she matched each smudged card to its twin. Six of them found a partner. The seventh had the most holes of all, and no twin. 'This is the middle,' she said. 'The widest line. It only comes once.'",
+   "Meenakshi picked up a smudged card and laid it beside the numbered ones until she found a card whose holes matched it exactly. 'These two are the same. They must be twins, one on each side of the middle.' One by one, she matched the smudged cards in pairs, and put the pairs in order by their number of holes. Six of them found a partner. The seventh had the most holes of all, and no twin. 'This is the middle,' she said. 'The widest line. It only comes once.'",
    "Amma took a pencil from behind her ear and wrote new numbers on the seven cards, very small, checking each one against Meenakshi's row on the floor. Then she laced the chain together again with new string, her fingers quick and sure. She did not say anything. She lowered herself onto the edge of the pit, pressed a pedal, and sent the shuttle across.",
    "Meenakshi stood behind her and watched the next bead grow. The first line of gold. The second, a little wider. She held her breath through the middle line and let it out on the other side.",
    "The bead was whole.",
@@ -1452,7 +1453,7 @@
    "author": "Virginia Postrel",
    "for": "parent reads",
    "age": "adult; read parts aloud",
-   "why": "A clear history of fibre, spinning, weaving, dyeing and trade, with good chapters on Indian cotton and on looms and computers."
+   "why": "A clear history of fibre, spinning, weaving, dyeing and trade, including Indian cotton, and looms and computers."
   }
  ],
  "check": [
@@ -1466,7 +1467,7 @@
   },
   {
    "q": "What are the warp and the weft? How is twill different from plain weave?",
-   "a": "The warp is the threads stretched tight on the loom. The weft goes across, over and under them. In plain weave the weft goes over one, under one. In twill it goes over two, under two, and shifts one step each row, which makes diagonal lines, as in jeans."
+   "a": "The warp is the threads stretched tight on the loom. The weft goes across, over and under them. In plain weave the weft goes over one, under one. In twill each row shifts one step along, for example over two, under two, which makes diagonal lines, as in jeans."
   },
   {
    "q": "How does a punched card tell a Jacquard loom what to weave?",
@@ -1482,7 +1483,7 @@
   },
   {
    "q": "How does the silk moth's caterpillar make silk, and why?",
-   "a": "It pushes out liquid silk from glands near its mouth, and it hardens into one long thread. It winds the thread round itself to make a cocoon, which protects it while it changes into a moth."
+   "a": "They push out liquid silk from glands near the mouth, and it hardens into one long thread. They wind the thread round themselves to make a cocoon, which protects them while they change into a moth."
   },
   {
    "q": "Give two ways to keep old clothes in use, and say what microfibres are.",

@@ -435,7 +435,7 @@
   "title": "Written for the Mirror",
   "mins": 10,
   "read_aloud": true,
-  "note": "Imagined. Noor, Jiba, Kanji, Bhimji and the chai stall are made up. Kutch mirror-work embroidery is real. Ambulances in India really do have their name written backwards on the front. Leonardo da Vinci, who is not in the story, really did write his notebooks in mirror writing.",
+  "note": "Imagined. Noor, Jiba, Kanku, Bhimji and the chai stall are made up. Kutch mirror-work embroidery is real. Ambulances in India really do have their name written backwards on the front. Leonardo da Vinci, who is not in the story, really did write his notebooks in mirror writing.",
   "text": [
    "Noor's left hand had its own ideas. When she wrote slowly, her letters faced the way Miss Thakkar's letters faced on the blackboard. When she wrote fast, they ran the other way. They started at the right edge of the page and marched to the left. Every letter was turned round, like a fish flipped over in a pan.",
    "\"Again, Noor,\" Miss Thakkar would sigh. She was not unkind, only tired. \"The other way.\" And somebody at the back would whisper \"Ulta Noor\", upside-down Noor, and the whole row would giggle.",
@@ -446,21 +446,21 @@
    "Noor bent down. In the tiny circle of glass, her backward words had turned round. They read the right way, as neat as print. MY NAME IS NOOR.",
    "\"Your hand is not wrong,\" said Jiba. \"It writes for the mirror.\"",
    "Noor stared. She turned the notebook over and held the page up to the sunlit door. From the back, through the thin paper, her words also read the right way round.",
-   "That month, Noor's uncle Kanji opened a chai stall on the road to Bhuj. Trucks passed it all day, carrying salt from the Rann. The stall had a real glass window, and Kanji was very proud of it. He paid Bhimji, the sign painter, to paint CHAI KANJI on it in fat red letters.",
-   "\"Paint it on the inside,\" said Kanji. \"Then the dust storms can't scrub it off.\"",
+   "That month, Noor's aunt Kanku opened a chai stall on the road to Bhuj. Trucks passed it all day, carrying salt from the Rann. The stall had a real glass window, and Kanku was very proud of it. She paid Bhimji, the sign painter, to paint CHAI KANKU on it in fat red letters.",
+   "\"Paint it on the inside,\" said Kanku. \"Then the dust storms can't scrub it off.\"",
    "Bhimji stood inside the stall and painted beautiful letters, curly and red. He stepped back, pleased. Then he went outside to look.",
-   "A truck had stopped. The driver was leaning out of his window and laughing. From the road, the sign read backwards. Every letter was flipped, from right to left, like Noor's fast writing.",
-   "Bhimji scratched his head. He tried again with the letters turned the other way. But his hand had painted the right way round for thirty years. It would not turn. His second sign was a muddle, half one way and half the other. He wiped it off, and he left for a wedding job in Anjar, two hours away. The big mela started the next day. Hundreds of trucks would pass. Kanji sat on his bench with his head in his hands.",
+   "A truck had stopped. The driver was leaning out of the cab window and laughing. From the road, the sign read backwards. Every letter was flipped, from right to left, like Noor's fast writing.",
+   "Bhimji scratched his head. He tried again with the letters turned the other way. But his hand had painted the right way round for thirty years. It would not turn. His second sign was a muddle, half one way and half the other. He wiped it off, and he left for a wedding job in Anjar, two hours away. The big mela started the next day. Hundreds of trucks would pass. Kanku sat on her bench with her head in her hands.",
    "Noor stood on the road and looked at the clean glass. Then she went inside and looked out through it. The trucks went by. The world through the glass was the same. But anything painted on this side would be seen from the other side. It would be seen from the back, the way she had seen her notebook against the sunny door.",
    "Seen from the back, words turn round. So to read the right way from the road, the letters had to be painted backwards on the inside.",
    "\"I can do it,\" said Noor.",
-   "Kanji looked at her. Then he looked at the empty glass, and at the road. He handed her the brush.",
+   "Kanku looked at Noor. Then she looked at the empty glass, and at the road. She handed Noor the brush.",
    "Noor did not think about each letter. Thinking made her hand slow, and slow was the wrong way. She let her left hand run, fast, the way it always wanted to. The red letters marched from right to left across the glass. Inside the stall, they looked like nonsense.",
    "She put down the brush and walked out onto the road.",
-   "CHAI KANJI, said the window, the right way round, in fat red letters. A truck slowed down. The driver read the sign, smiled and pulled over for tea.",
+   "CHAI KANKU, said the window, the right way round, in fat red letters. A truck slowed down. The driver read the sign, smiled and pulled over for tea.",
    "Later that afternoon, a white ambulance went past, with its siren wailing. Noor saw the word on its bonnet and read it at once, without any mirror. AMBULANCE was written backwards, right to left, every letter flipped.",
-   "\"Why is it written like that?\" asked a boy at the stall.",
-   "\"So the driver in front can read it in his mirror,\" said Kanji. \"In the mirror it turns round.\"",
+   "\"Why is it written like that?\" asked a girl at the stall.",
+   "\"So the driver in front can read it in the mirror,\" said Kanku. \"In the mirror it turns round.\"",
    "Noor said nothing. But she smiled, because it was written in her writing.",
    "Jiba walked down to the stall at sunset with a strip of cloth over her arm. It was covered in tiny mirrors. She tied it along the top of the window. When the low sun hit it, each little mirror threw a bright spot across the dusty road, a row of small suns, there and gone as the cloth moved.",
    "The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the board. At the very bottom of her page, she added one more line. She wrote it fast, from right to left, every letter turned round. It was for anyone who had a mirror."
@@ -728,27 +728,14 @@
    "items": [
     {
      "t": "mcq",
-     "p": "What is reflection?",
+     "p": "Divya, a girl in Class 3, takes a mirror into a storeroom with no light at all and shuts the door. What will she see in the mirror?",
      "opts": [
-      "Light bouncing off something",
-      "Light being made by a mirror",
-      "Light getting stuck inside glass",
-      "The dark part behind a thing"
+      "Nothing, because a mirror only sends back light that reaches it",
+      "Her face, because a mirror shines by itself",
+      "A faint glow from the glass"
      ],
      "a": 0,
-     "why": "Reflection is light bouncing off a surface. Picking 'made by a mirror' usually means thinking a mirror is a light source. It only sends back light that reaches it. The dark part behind a thing is a shadow, which is a different idea."
-    },
-    {
-     "t": "mcq",
-     "p": "Which of these is NOT a light source?",
-     "opts": [
-      "The Sun",
-      "A lit diya",
-      "A mirror",
-      "A torch that is switched on"
-     ],
-     "a": 2,
-     "why": "A mirror makes no light. In a dark cupboard it shows nothing at all. It only bounces light from somewhere else. Picking the torch usually means remembering that torches have shiny parts, but a switched-on torch makes its own light."
+     "why": "A mirror is not a light source. It only reflects light that comes from somewhere else, like the Sun or a bulb. With no light in the room, there is nothing to reflect. Picking 'her face' is a common idea, because mirrors look so bright in a lit room."
     },
     {
      "t": "fill",
@@ -760,7 +747,7 @@
     },
     {
      "t": "sort",
-     "p": "Sort these. Does each one show a clear image of your face, or only shine?",
+     "p": "Sort these. Does each one show a clear image of your face, or does it only shine or show nothing?",
      "cats": [
       "Shows a clear image",
       "Only shines or shows nothing"
@@ -792,25 +779,15 @@
       ]
      ],
      "a": "see items",
-     "why": "Smooth, shiny surfaces send light back in neat order, so they show an image. Rough surfaces scatter light every way, so there is no image."
+     "why": "Smooth, shiny surfaces send light back in neat order, so they show an image. Rough surfaces scatter light every way, so there is no image. A strong answer notices that crumpled foil is shiny but still shows no clear face, because it is not smooth.",
+     "how": "a1"
     },
     {
-     "t": "truefalse",
-     "p": "A white wall reflects light.",
-     "a": true,
-     "why": "True. A white wall reflects a lot of light. That is why a white room looks bright. But the wall is rough, so the light scatters and there is no image."
-    },
-    {
-     "t": "mcq",
-     "p": "Why can you see your face in a mirror but not in a white wall?",
-     "opts": [
-      "The mirror is smooth, so it sends light back in neat order",
-      "The wall makes no light",
-      "The mirror is a light source",
-      "The wall is too far away"
-     ],
-     "a": 0,
-     "why": "Both reflect light. But the wall's tiny bumps send light every which way, and the image gets mixed up. Picking 'the mirror is a light source' is a common mix-up. Neither of them makes light."
+     "t": "write",
+     "p": "A white wall and a steel tumbler both reflect light. So why can you see your face in the tumbler, but not in the wall?",
+     "lines": 4,
+     "a": "The tumbler is very smooth, so it sends the light back in the same neat order it arrived. That keeps the picture of my face together. The wall has tiny bumps, so it scatters the light in every direction, and the picture gets mixed up.",
+     "why": "A strong answer says both reflect light, then explains the difference with smooth and rough surfaces. If the wall reflected no light, it would look black, not white."
     },
     {
      "t": "match",
@@ -842,36 +819,85 @@
      "opts": [
       "One big step behind the glass",
       "On the surface of the glass",
-      "Two big steps behind the glass",
-      "Right next to you"
+      "Two big steps behind the glass"
      ],
      "a": 0,
-     "why": "Your image seems as far behind the mirror as you are in front. Picking 'on the surface' is a very common guess. But try touching your image: it always seems to be further away than the glass.",
+     "why": "Your image seems as far behind the mirror as you are in front. Picking 'on the surface' is a very common guess. But try to touch your image: it always seems to be further away than the glass.",
      "how": "a6"
-    },
-    {
-     "t": "fill",
-     "p": "Writing that runs backwards, so it reads properly in a mirror, is called ____ writing.",
-     "a": [
-      "mirror"
-     ],
-     "why": "Mirror writing runs from right to left, with each letter turned round. A mirror turns it the right way again."
     },
     {
      "t": "mcq",
      "p": "Why is the word AMBULANCE written backwards on the front of an ambulance?",
      "opts": [
-      "So drivers in front can read it in their mirrors",
+      "So drivers in front can read it in their rear-view mirrors",
       "Because of a printing mistake",
-      "To look exciting",
-      "So people behind can read it"
+      "So people behind the ambulance can read it"
      ],
      "a": 0,
-     "why": "A rear-view mirror turns writing round. So the word is painted backwards, and the mirror turns it the right way for the driver in front."
+     "why": "A rear-view mirror turns writing round. So the word is painted backwards, and the mirror turns it the right way for the driver in front. Picking 'people behind' gets it the wrong way: they see the back of the ambulance."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a torch, a flat mirror and an eye. Draw the path of the light from the torch to the mirror, then to the eye. Use a ruler.",
+     "a": "Two straight lines with arrows. One goes from the torch to the mirror. The other goes from the mirror to the eye, at the same angle on the other side.",
+     "why": "Light travels in straight lines and reflects off at the same angle it came in. A strong drawing has arrows pointing away from the torch, never out of the eye.",
+     "art": "A blank page with a torch on the left, a mirror at the top and an eye on the right."
+    },
+    {
+     "t": "write",
+     "p": "In the Catch the Beam test, Kavya, a girl in Class 4, puts her torch 10 cm to the left of the middle line. She aims it at the middle of the mirror. Before she switches it on, guess where the bounced beam will land. Explain how you know.",
+     "lines": 3,
+     "a": "About 10 cm to the right of the middle line. Light leaves a mirror at the same angle it came in, on the other side. So 10 cm left on the way in means about 10 cm right on the way out.",
+     "why": "A strong answer makes a number guess and gives the rule as the reason. Real beams may land a centimetre or two off, because the beam is wide and the mirror may lean.",
+     "how": "e1"
+    },
+    {
+     "t": "truefalse",
+     "p": "A flat mirror makes things look upside down.",
+     "a": false,
+     "why": "False. A flat mirror keeps up as up. Only a curved mirror, like the hollow side of a spoon, can show an image upside down."
+    },
+    {
+     "t": "mcq",
+     "p": "Which capital letter looks the SAME when you stand a mirror beside it?",
+     "opts": [
+      "A",
+      "R",
+      "F"
+     ],
+     "a": 0,
+     "why": "The letter A has a line of symmetry straight down its middle, so its mirror image is the same. R and F have no such line, so they turn round.",
+     "how": "a4"
+    },
+    {
+     "t": "write",
+     "p": "Farhan, a boy in Class 3, says, 'A mirror swaps my left and right. So it must swap my top and bottom too.' Is he right? Try it with a mirror, then explain.",
+     "lines": 3,
+     "a": "He is not right. In a flat mirror, my head stays at the top and my feet stay at the bottom. Up stays up. And my raised hand stays on the same side of the room too.",
+     "why": "A strong answer tests the idea with a real mirror and reports what happened. It may notice that left and right do not really swap either. What a mirror turns round is front and back."
+    },
+    {
+     "t": "perspective",
+     "p": "Priya and her cousin Anu are playing Mirror Twins. Priya raises her right hand. They argue about which hand Anu should raise to copy her like a mirror.",
+     "views": [
+      {
+       "who": "Priya, in Class 4",
+       "says": "You should raise your left hand. It is on the same side of the room as my right hand. That is what a mirror does."
+      },
+      {
+       "who": "Anu, in Class 3",
+       "says": "I should raise my right hand. You raised your right, so copying means I raise my right too."
+      }
+     ],
+     "ask": "Who is copying like a mirror? Give a reason. Then say what the other one has right.",
+     "lines": 5,
+     "a": "A strong answer says Priya is right about mirrors: in a real mirror, the image raises the hand on the same side of the room. It then gives Anu a fair point: when one person copies another, raising the same-named hand is also a kind of copying. It just is not what a mirror does.",
+     "why": "Both are copying, in two different ways. A mirror keeps each side of the room the same and turns front and back round.",
+     "how": "a2"
     },
     {
      "t": "order",
-     "p": "Put the steps of the torch-and-mirror test in order.",
+     "p": "Put the steps of the Catch the Beam test in order.",
      "items": [
       "Make a thin beam with a slit card on the torch",
       "Stand the mirror on the top edge of the paper",
@@ -879,48 +905,16 @@
       "Mark where the bounced beam lands on the right"
      ],
      "a": "order shown",
-     "why": "First you make the beam and set up the mirror. Then you aim and mark where the light goes.",
+     "why": "First you make the beam and set up the mirror. Then you aim, and mark where the light goes.",
      "how": "e1"
     },
     {
-     "t": "truefalse",
-     "p": "A flat mirror makes things look upside down.",
-     "a": false,
-     "why": "False. A flat mirror keeps up as up. Only a curved mirror, like the inside of a spoon, can flip an image upside down."
-    },
-    {
-     "t": "draw",
-     "p": "Draw a torch, a flat mirror and an eye. Draw the path of the light from the torch to the mirror, then to the eye. Use a ruler.",
-     "a": "Two straight lines with arrows. One goes from the torch to the mirror. The other goes from the mirror to the eye, at the same angle on the other side.",
-     "why": "Light travels in straight lines and reflects off at the same angle it came in.",
-     "art": "A blank page with a torch on the left, a mirror at the top and an eye on the right."
-    },
-    {
-     "t": "mcq",
-     "p": "Which letter looks the SAME when you stand a mirror beside it?",
-     "opts": [
-      "A",
-      "B",
-      "R",
-      "F"
+     "t": "fill",
+     "p": "Writing that runs backwards, so that it reads properly in a mirror, is called ____ writing.",
+     "a": [
+      "mirror"
      ],
-     "a": 0,
-     "why": "The letter A has a line of symmetry straight down its middle, so its mirror image is the same. B, R and F have no such line, so they turn round. Picking B often means noticing that the top half of B matches the bottom half. That is a line of symmetry across the middle, so B stays the same only when the mirror lies under it.",
-     "how": "a4"
-    },
-    {
-     "t": "write",
-     "p": "Your little cousin says a mirror is a light source because it is so bright. What would you say? Use the word reflect.",
-     "lines": 3,
-     "a": "A mirror is not a light source. It only reflects light from the Sun or a bulb. In a dark cupboard, a mirror shows nothing at all.",
-     "why": "A light source makes its own light. A mirror only reflects light that reaches it."
-    },
-    {
-     "t": "truefalse",
-     "p": "Two mirrors standing like an open book make more than one image of a toy.",
-     "a": true,
-     "why": "True. Light reflects between the two mirrors, and each reflection makes another image. At a right angle, a quarter of a circle, you see 3 images.",
-     "how": "e3"
+     "why": "Mirror writing runs from right to left, with each letter turned round. A mirror turns it the right way again."
     }
    ]
   },
@@ -932,25 +926,11 @@
    "items": [
     {
      "t": "mcq",
-     "p": "A torch starts 8 cm to the left of the middle line and aims at the middle of the mirror. Where will the bounced beam reach the bottom edge?",
-     "opts": [
-      "About 8 cm right of the middle line",
-      "About 8 cm left of the middle line",
-      "About 16 cm right",
-      "On the middle line"
-     ],
-     "a": 0,
-     "why": "Light leaves at the same angle on the other side. So 8 cm left goes to about 8 cm right. Picking 16 cm often means adding the two sides together.",
-     "how": "e1"
-    },
-    {
-     "t": "mcq",
      "p": "You shine a torch straight at a mirror, head on. Where does the light go?",
      "opts": [
       "Straight back to the torch",
       "Off to the left",
-      "Off to the right",
-      "It stops"
+      "Off to the right"
      ],
      "a": 0,
      "why": "Head on in means head on out. With no angle, the light comes straight back. Picking left or right usually means remembering the V shape, which only happens when light comes in at an angle."
@@ -959,7 +939,7 @@
      "t": "truefalse",
      "p": "To see your whole body in a mirror, you need a mirror at least as tall as you.",
      "a": false,
-     "why": "False. You only need a mirror half as tall as you, wherever you stand. Try it with sticky notes on a mirror.",
+     "why": "False, though most grown-ups think so. You only need a mirror half as tall as you, wherever you stand. The sticky notes on the mirror show this.",
      "how": "a6"
     },
     {
@@ -969,20 +949,27 @@
       "5",
       "five"
      ],
-     "why": "Count how many of these gaps fit in a whole circle, then take away 1. 6 take away 1 is 5.",
+     "why": "Count how many of these gaps fit in a whole circle, then take away 1 for the real toy. 6 take away 1 is 5.",
+     "how": "e3"
+    },
+    {
+     "t": "write",
+     "p": "In the How Many of Me test, you made the gap between the two mirrors smaller. Did you see more images or fewer? Explain why, using the word 'reflect'.",
+     "lines": 4,
+     "a": "More images. Light from the toy reflects from one mirror to the other and back again. In a smaller gap, the light can bounce more times before it comes out to my eye. Each bounce makes another image.",
+     "why": "A strong answer reports the result and explains it with light bouncing between the mirrors, not with the mirrors 'making' toys.",
      "how": "e3"
     },
     {
      "t": "mcq",
-     "p": "In two mirrors facing each other, why do the far images fade?",
+     "p": "When two mirrors face each other, you see a long row of images. Why do the far ones fade?",
      "opts": [
       "Each bounce loses a little light",
-      "The mirrors get tired",
       "Light slows down and stops",
       "The images move away too fast"
      ],
      "a": 0,
-     "why": "No mirror sends back every bit of light. After many bounces, very little is left. Picking 'light slows down' is a common idea. Light does not slow down when it bounces, but some of it is kept by the mirror each time.",
+     "why": "No mirror sends back every bit of light. After many bounces, very little is left. Picking 'light slows down' is a common idea. Light does not slow down when it bounces, but the mirror keeps a little of it each time.",
      "how": "a7"
     },
     {
@@ -1007,43 +994,33 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "People have always looked for smooth, shiny surfaces. Water came first, then obsidian, then metals, then metal-backed glass."
+     "why": "People have always looked for smooth, shiny surfaces. Water came first, then volcanic glass called obsidian, then metals, then metal-backed glass."
     },
     {
      "t": "mcq",
      "p": "Deep down, what sends light back from a mirror?",
      "opts": [
-      "Free electrons in its metal layer",
+      "Free electrons in its thin metal layer",
       "The glass at the front",
-      "Tiny holes in the mirror",
       "Air behind the mirror"
      ],
      "a": 0,
      "why": "Light shakes the free electrons in the thin metal layer, and they send the light back out. The glass is mostly there to keep the metal smooth and safe. Picking 'the glass' is very common, but clear glass on its own lets most light through."
     },
     {
-     "t": "write",
-     "p": "Your friend raises her right hand. You are her mirror. Which hand do you raise, and why?",
-     "lines": 3,
-     "a": "I raise my left hand. A mirror keeps everything on the same side of the room. My left hand is on the same side as her right hand, because we face each other.",
-     "why": "A mirror swaps front and back, not left and right. Copying like a mirror means using the hand on the same side of the room.",
-     "how": "a2"
-    },
-    {
      "t": "mcq",
-     "p": "The Sheesh Mahal at Amber Fort is covered in tiny mirrors. Why does a lamp make it sparkle so much?",
+     "p": "The Sheesh Mahal, a palace hall at Amber Fort near Jaipur, is covered in tiny mirrors. Why does one lamp make it sparkle so much?",
      "opts": [
-      "Each tiny mirror reflects the lamp's light to your eyes",
+      "Each tiny mirror reflects the lamp's light to your eyes from a different place",
       "The mirrors make their own light",
-      "Mirrors make lamps hotter",
       "The walls are see-through"
      ],
      "a": 0,
-     "why": "Each mirror bounces light towards you from a slightly different place. So one lamp seems to become hundreds of sparkles."
+     "why": "Each mirror bounces light towards you from a slightly different spot. So one lamp seems to become hundreds of sparkles."
     },
     {
      "t": "sort",
-     "p": "Sort these animals. Which ones have mirror-like parts in their bodies?",
+     "p": "Sort these. Which ones have mirror-like parts in their bodies?",
      "cats": [
       "Has mirror-like parts",
       "Does not"
@@ -1054,7 +1031,7 @@
        "Has mirror-like parts"
       ],
       [
-       "a scallop (eyes)",
+       "a scallop, a kind of shellfish (eyes)",
        "Has mirror-like parts"
       ],
       [
@@ -1070,45 +1047,62 @@
      "why": "Cats have a reflecting layer at the back of their eyes. Scallops have tiny mirror eyes. Silvery fish have mirror scales. Human eyes have no reflecting layer, which is why they do not shine in headlights."
     },
     {
-     "t": "truefalse",
-     "p": "A cat's eyes shine in the dark because they make their own light.",
-     "a": false,
-     "why": "False. A cat's eyes reflect light, like a mirror. In total darkness they do not shine at all."
-    },
-    {
-     "t": "fill",
-     "p": "The scientist who invented the kaleidoscope in 1816 was David ____.",
-     "a": [
-      "Brewster"
-     ],
-     "why": "David Brewster was a Scottish scientist who studied light. He named the kaleidoscope from Greek words meaning 'looking at beautiful shapes'."
-    },
-    {
      "t": "draw",
-     "p": "Draw two mirrors standing like an open book at a right angle, with a toy between them. Draw all the images of the toy you would see.",
-     "a": "Two mirrors at a right angle, one real toy and 3 images of the toy, arranged in a ring.",
-     "why": "At a right angle, two mirrors make 3 images.",
-     "how": "e3"
+     "p": "Remember the Sunlight Postman? Draw the Sun, your mirror and the bright spot on a shady wall, with arrows for the light. Then draw where the spot goes if you tilt the mirror a little.",
+     "a": "An arrow from the Sun to the mirror, and an arrow from the mirror to the spot on the wall. A second drawing shows the mirror tilted and the spot moved along the wall.",
+     "why": "A strong drawing shows the light reflecting off at the same angle it came in. When the mirror tilts, the reflected beam swings, so the spot moves. It moves further than you might expect.",
+     "how": "a5"
     },
     {
      "t": "mcq",
-     "p": "Which word looks the same when you stand a mirror beside it?",
+     "p": "Which word looks exactly the same when you stand a mirror beside it?",
      "opts": [
       "WOW",
       "NOON",
-      "BOB",
-      "POP"
+      "BOB"
      ],
      "a": 0,
-     "why": "W and O are symmetrical down the middle, and WOW reads the same backwards. NOON, BOB and POP read the same backwards, but N, B and P turn round in a mirror.",
+     "why": "W and O are symmetrical down the middle, and WOW reads the same backwards. NOON and BOB also read the same backwards, but N and B turn round in a mirror.",
      "how": "g1"
     },
     {
      "t": "write",
-     "p": "Why do you think shops put a big mirror on one wall?",
+     "p": "Why do many shops and small flats put a big mirror on one wall?",
      "lines": 3,
-     "a": "The mirror makes the shop look twice as big, because the room seems to carry on behind the glass. It also makes the shop look brighter.",
-     "why": "Your image seems as far behind the mirror as the thing is in front. So the whole room seems to carry on behind the glass."
+     "a": "The mirror makes the room look twice as big, because the room seems to carry on behind the glass. It also makes the room brighter, because it reflects light from the windows and lamps.",
+     "why": "A strong answer uses an idea from the unit: your image seems as far behind the mirror as the thing is in front, so the whole room seems to carry on behind the glass."
+    },
+    {
+     "t": "perspective",
+     "p": "There is a famous old story that the Greek thinker Archimedes set enemy ships on fire using mirrors and sunlight. Was it true? People disagree.",
+     "views": [
+      {
+       "who": "Students at MIT, a university in America, in 2005",
+       "says": "It could work. We set fire to a still wooden model of a ship with 127 mirrors."
+      },
+      {
+       "who": "Most historians",
+       "says": "It is probably a legend. Nobody from his own time wrote about it. Real ships move, and on a cloudy day it would fail."
+      }
+     ],
+     "ask": "Do you think it really happened? Give a reason from what you know about mirrors. Then argue for the other side.",
+     "lines": 5,
+     "a": "A strong answer uses mirror science: each mirror can send a bright spot of sunlight to one place, as in the Sunlight Postman, and many spots together get hot. It also weighs the history: a moving ship, clouds and no writer from that time. It then argues fairly for the other side.",
+     "why": "This is still argued about. Mirrors really can focus sunlight to start a fire. Whether Archimedes did it in a real battle is much less likely."
+    },
+    {
+     "t": "write",
+     "p": "In the Mirror Drawing Race, you traced a star while you could only see your hand in a mirror. Which way was hardest to move the pencil: side to side, or towards and away from you? Why do you think so?",
+     "lines": 4,
+     "a": "Towards and away from me was hardest. The mirror turns front and back round. So when I moved my hand away from me, it looked as if it came towards me, and my hand went the wrong way.",
+     "why": "A strong answer uses what happened in the race, and links it to what a mirror really turns round: front and back. Most people get better with practice, as their brain learns the mirror's way.",
+     "how": "e2"
+    },
+    {
+     "t": "truefalse",
+     "p": "A cat's eyes shine in the dark because they make their own light.",
+     "a": false,
+     "why": "False. A shiny layer at the back of a cat's eye reflects light, like a mirror. In total darkness a cat's eyes do not shine at all."
     }
    ]
   },
@@ -1119,20 +1113,34 @@
    "mins": 25,
    "items": [
     {
-     "t": "write",
-     "p": "A mirror is said to swap left and right. Explain what it really swaps.",
-     "lines": 4,
-     "a": "A mirror really swaps front and back. If I raise my right hand, the image raises the hand on the same side of the room. Its nose points back at me. It only feels like left and right because I imagine turning round to stand where the image is.",
-     "why": "Physicists say mirrors swap front and back. The left-right feeling comes from imagining ourselves turned round."
+     "t": "perspective",
+     "p": "Does a mirror really swap left and right? People explain it in different ways.",
+     "views": [
+      {
+       "who": "Many people",
+       "says": "Yes. I wear my watch on my left wrist. My image looks like a person wearing it on the right wrist."
+      },
+      {
+       "who": "Physicists, scientists who study light",
+       "says": "No. A mirror swaps front and back. Your raised hand stays on the same side of the room. Only your nose and the image's nose point opposite ways."
+      },
+      {
+       "who": "Ned Block, an American philosopher, in 1974",
+       "says": "It feels like left and right because we imagine walking round behind the glass to stand where the image is. Turning round swaps our own left and right."
+      }
+     ],
+     "ask": "Which explanation do you find most convincing? Use evidence from Mirror Twins or from raising your hand at a mirror. Then say what the first view gets right.",
+     "lines": 6,
+     "a": "A strong answer uses a real test: when I raise my right hand, the image's hand is on the same side of the room, so nothing swapped side to side. It explains the feeling with Block's idea of turning round. It also admits the first view is right about how the image looks: like a person wearing the watch on the other wrist.",
+     "why": "Scientists agree on what the light does. People still argue about why it feels like left and right."
     },
     {
      "t": "mcq",
-     "p": "You look at a word through two mirrors, one bounce after the other. How does it look?",
+     "p": "You look at a word through two mirrors, so the light bounces off one and then the other. How does the word look?",
      "opts": [
       "The right way round",
       "Backwards",
-      "Upside down",
-      "Blank"
+      "Upside down"
      ],
      "a": 0,
      "why": "Each mirror turns the word round once. Two turns put it back the right way. Picking 'backwards' is right for one mirror only.",
@@ -1144,7 +1152,6 @@
      "opts": [
       "To measure how far away the Moon is, by bouncing laser light off them",
       "To make the Moon brighter",
-      "To send messages to aliens",
       "To heat the Moon"
      ],
      "a": 0,
@@ -1158,11 +1165,10 @@
     },
     {
      "t": "mcq",
-     "p": "A tiny fish, the cleaner wrasse, scraped at a mark they could only see in a mirror. Why did this surprise scientists?",
+     "p": "In the mirror test, scientists put a mark on an animal where they can only see the mark in a mirror. In 2019, a tiny fish called a cleaner wrasse scraped at their mark. Why did this surprise scientists?",
      "opts": [
-      "They thought only big-brained animals could pass the mirror test",
+      "Many thought only big-brained animals could pass the mirror test",
       "Fish cannot see",
-      "Fish hate mirrors",
       "The mark was invisible"
      ],
      "a": 0,
@@ -1170,10 +1176,10 @@
     },
     {
      "t": "write",
-     "p": "Leonardo da Vinci wrote his notebooks in mirror writing. Give two reasons he might have done it. Then say which you think is most likely.",
+     "p": "Leonardo da Vinci, a great Italian artist who lived about 500 years ago, wrote his notebooks in mirror writing. Give two reasons he might have done it. Then say which you think is most likely, and why.",
      "lines": 4,
-     "a": "He was left-handed, so writing right to left meant he did not smudge the ink. Or he wanted to keep his ideas a little secret. I think not smudging is most likely, because the ink was wet.",
-     "why": "Nobody knows for sure. Not smudging the ink and privacy are the two most common ideas."
+     "a": "He was left-handed, so writing right to left meant his hand did not smudge the wet ink. Or he wanted to keep his ideas a little secret. I think not smudging is most likely, because the ink was wet and he wrote with his left hand.",
+     "why": "Nobody knows for sure. A strong answer gives two different reasons and backs one of them with evidence."
     },
     {
      "t": "mcq",
@@ -1181,23 +1187,17 @@
      "opts": [
       "Metals have free electrons that send light back",
       "Metals are always wet",
-      "Wood soaks up all light",
       "Metals are light sources"
      ],
      "a": 0,
      "why": "Free electrons in metals are shaken by light and send it straight back. Wood has no free electrons, and its surface is rough, so it scatters and soaks up the light."
     },
     {
-     "t": "mcq",
-     "p": "Two mirrors are opened to an eighth of a circle. How many images of a toy between them will you see?",
-     "opts": [
-      "7",
-      "8",
-      "9",
-      "4"
-     ],
-     "a": 0,
-     "why": "8 of these gaps fit in a whole circle. Take away 1 for the real toy. 8 minus 1 is 7. Picking 8 means counting the real toy as an image.",
+     "t": "write",
+     "p": "Two mirrors opened flat, to half a circle, make 1 image of a toy. A quarter of a circle makes 3. A sixth makes 5. Find the rule. Use it to predict an eighth of a circle. What happens as the gap gets very small?",
+     "lines": 4,
+     "a": "The rule: count how many gaps fit in a whole circle, then take away 1. Half gives 2 take away 1, which is 1. An eighth gives 8 take away 1, which is 7. As the gap gets very small, more and more images appear, but the far ones get dim.",
+     "why": "A strong answer states the rule in words, checks it against the numbers given, makes the prediction, and notices that each bounce loses a little light.",
      "how": "e3"
     },
     {
@@ -1213,8 +1213,8 @@
        "gathers faint starlight"
       ],
       [
-       "A cat's eye on a highway",
-       "sends headlight beams back to the driver"
+       "Reflectors on a highway",
+       "send headlight beams back to the driver"
       ],
       [
        "Rows of curved mirrors at a solar kitchen",
@@ -1225,57 +1225,49 @@
      "why": "All of them use the same rule: a mirror sends light off at the same angle it came in. Curved mirrors can bring lots of light together into one spot."
     },
     {
-     "t": "truefalse",
-     "p": "A mirror only half as tall as you can show your whole body.",
-     "a": true,
-     "why": "True. Light from the top of your head reaches your eyes from a spot on the mirror halfway between your eyes and the top of your head. Light from your feet reaches your eyes from a spot halfway between your eyes and your feet. So the mirror only needs to be half your height.",
+     "t": "draw",
+     "p": "A mirror only half your height can show your whole body. Draw yourself standing in front of a mirror. Draw the light from the top of your head to the mirror and into your eyes, and the light from your feet to the mirror and into your eyes. Mark the part of the mirror you need.",
+     "a": "Two V-shaped light paths. Light from the head hits the mirror halfway between the head and the eyes, then goes to the eyes. Light from the feet hits the mirror halfway between the eyes and the feet. The part of the mirror between those two spots is half the body's height.",
+     "why": "A strong drawing shows each path bouncing at the same angle, and that the two bounce spots are half as far apart as the head and the feet. That is why the mirror only needs to be half your height.",
      "how": "a6"
     },
     {
      "t": "write",
-     "p": "Your hands are mirror images of each other. Many tiny molecules in living things also come in two mirror forms. What is strange about which form life uses?",
+     "p": "Your two hands are mirror images of each other. Many tiny molecules in living beings also come in two mirror forms. What is strange about which form life uses?",
      "lines": 3,
      "a": "Life almost always uses only one of the two forms. For example, the building blocks of our proteins are nearly all the left-handed kind. Nobody knows for sure why.",
-     "why": "This is an open question in science. Scientists have ideas, but nobody knows the answer yet."
+     "why": "This is an open question in science. A strong answer says that life picks one form, and that the reason is still unknown."
     },
     {
      "t": "mcq",
-     "p": "Why do the far images in two facing mirrors look a little green?",
+     "p": "In two facing mirrors, the far images look a little green. Why?",
      "opts": [
-      "The glass soaks up a little more of the other colours",
+      "Ordinary mirror glass soaks up a little more of the other colours",
       "Mirrors are painted green",
-      "Green light is faster",
-      "Your eyes turn green"
+      "Green light is faster"
      ],
      "a": 0,
-     "why": "Ordinary mirror glass lets green light through a little more easily than other colours. After many trips through the glass, the light left over looks greenish."
+     "why": "Ordinary mirror glass lets green light through a little more easily than other colours. After many trips through the glass, the light left over looks greenish.",
+     "how": "a7"
     },
     {
      "t": "draw",
-     "p": "Design a road sign that a driver can read in the rear-view mirror. Draw the sign as it must be painted.",
-     "a": "The word or image is painted backwards, from right to left, with every letter turned round.",
-     "why": "The mirror turns the sign round, so it must be painted the mirror's way to read correctly."
+     "p": "Design a sign for the back of a school bus that the driver behind can read normally. Then design a sign for the front of a van that the driver ahead can read in their rear-view mirror. Draw both signs as they must be painted.",
+     "a": "The back sign is painted the normal way, because the driver behind looks at it directly. The front sign is painted backwards, from right to left, with every letter turned round, like AMBULANCE.",
+     "why": "A strong answer sees that only the sign seen in a mirror needs to be backwards. The mirror turns it round, so it must be painted the mirror's way."
     },
     {
-     "t": "order",
-     "p": "Put these in order, from the oldest to the newest.",
-     "items": [
-      "Obsidian mirrors in Anatolia",
-      "Hero of Alexandria writes about mirrors",
-      "Ibn al-Haytham's Book of Optics",
-      "Newton's mirror telescope",
-      "Liebig's silvered glass",
-      "The James Webb Space Telescope"
-     ],
-     "a": "order shown",
-     "why": "About 8,000 years ago, about 2,000 years ago, about 1,000 years ago, 1668, 1835 and 2021."
+     "t": "truefalse",
+     "p": "You walk towards a mirror at one step each second. Your image comes closer to you at two steps each second.",
+     "a": true,
+     "why": "True. Each second you get one step closer to the mirror, and your image also gets one step closer to the mirror, from the other side. So the gap between you and your image shrinks by two steps each second."
     },
     {
      "t": "write",
      "p": "Is the face in the mirror really you? Give a reason for your answer.",
      "lines": 3,
-     "a": "Any honest answer with a reason is good. For example: 'Yes, because it moves when I move.' Or: 'No, it is only light that reflected off me.'",
-     "why": "This is a big question with no single right answer. A good answer gives a reason."
+     "a": "Any honest answer with a reason is good. For example: 'Yes, because it moves exactly when I move.' Or: 'No, it is only light that reflected off me, and it faces the other way.'",
+     "why": "This is a big question with no single right answer. A strong answer gives a reason that uses what a mirror really does with light."
     }
    ]
   }
@@ -2672,10 +2664,9 @@
    "t": "mcq",
    "p": "What is reflection?",
    "opts": [
-    "Light bouncing off something",
+    "Light bouncing off a surface",
     "Light made by a mirror",
-    "A shadow",
-    "Light that stops"
+    "A shadow"
    ],
    "a": 0,
    "why": "Reflection is light bouncing off a surface. Picking 'made by a mirror' means thinking a mirror is a light source. It is not.",
@@ -2683,15 +2674,14 @@
   },
   {
    "t": "mcq",
-   "p": "Is a mirror a light source?",
+   "p": "You can see a book on the table. What lets you see it?",
    "opts": [
-    "No, it only reflects light",
-    "Yes, it makes light",
-    "Only in the daytime",
-    "Only when it is clean"
+    "Light reflects off the book into your eyes",
+    "The book makes its own light",
+    "Your eyes send light to the book"
    ],
    "a": 0,
-   "why": "A mirror makes no light. In a dark cupboard it shows nothing. Picking 'only in the daytime' is close: it needs light from somewhere, but the light is not its own.",
+   "why": "Almost everything reflects some light. That reflected light coming into your eyes is how you see a book, a cup or a friend.",
    "outcome": 0
   },
   {
@@ -2700,8 +2690,7 @@
    "opts": [
     "Off to the right, at the same angle",
     "Straight back to the torch",
-    "Off to the left",
-    "Nowhere"
+    "Off to the left"
    ],
    "a": 0,
    "why": "Light leaves a mirror at the same angle it came in, on the other side. Light goes straight back only when you shine at the mirror head on.",
@@ -2710,12 +2699,11 @@
   },
   {
    "t": "mcq",
-   "p": "When you fold the torch-and-mirror paper on the middle line, the in-line and out-line match. What does this show?",
+   "p": "In the Catch the Beam test, you folded the paper on the middle line, and the line in and the line out matched. What does this show?",
    "opts": [
     "The angle in equals the angle out",
     "The mirror made the light",
-    "Light bends in the air",
-    "The paper is magic"
+    "Light bends in the air"
    ],
    "a": 0,
    "why": "Matching lines have the same angle. That is the rule for mirrors. Picking 'light bends in the air' mixes reflection up with a different idea.",
@@ -2724,42 +2712,38 @@
   },
   {
    "t": "mcq",
-   "p": "Why does a white wall show no image of you?",
+   "p": "Which of these will show the clearest image of your face?",
    "opts": [
-    "Its tiny bumps scatter the light every way",
-    "It reflects no light",
-    "It is a light source",
-    "It is too smooth"
+    "A new, smooth steel plate",
+    "A sheet of sandpaper",
+    "A newspaper"
    ],
    "a": 0,
-   "why": "A white wall reflects lots of light, but scatters it. Picking 'reflects no light' is very common. If it reflected none, it would look black.",
+   "why": "Only a very smooth surface sends light back in neat order. Sandpaper and newspaper are rough, so they scatter light every way.",
    "outcome": 2
   },
   {
    "t": "mcq",
-   "p": "Why is AMBULANCE written backwards on the front of an ambulance?",
+   "p": "Hold a page with writing up to a mirror. Why does the writing look backwards?",
    "opts": [
-    "A mirror turns it round so drivers in front can read it",
-    "It was a mistake",
-    "So the patient can read it",
-    "To save paint"
+    "The mirror shows the page as if you were looking at it from behind",
+    "The mirror flips each letter upside down",
+    "The mirror mixes the letters up"
    ],
    "a": 0,
-   "why": "Drivers see the ambulance in their rear-view mirror, and the mirror turns the writing round the right way.",
+   "why": "A mirror turns front and back round. So you see the page's words the way they look from behind, through thin paper. That is why they run right to left.",
    "outcome": 3
   },
   {
    "t": "mcq",
-   "p": "What does a mirror really turn round?",
+   "p": "In the story Written for the Mirror, Noor paints a sign on the inside of a chai stall's glass window. Why does she paint the letters backwards?",
    "opts": [
-    "Front and back",
-    "Up and down",
-    "Big and small",
-    "Nothing"
+    "So people on the road, who see the glass from the other side, read it the right way",
+    "Because she can only write backwards",
+    "So it looks like a secret code"
    ],
    "a": 0,
-   "why": "Your image faces you, so front and back are turned round. Up stays up, and your raised hand stays on the same side of the room. Picking 'up and down' comes from spoons, which are curved.",
-   "how": "a2",
+   "why": "Writing seen from the back turns round. Painting it backwards on the inside makes it read the right way from outside.",
    "outcome": 3
   },
   {
@@ -2768,8 +2752,7 @@
    "opts": [
     "3",
     "1",
-    "4",
-    "2"
+    "4"
    ],
    "a": 0,
    "why": "4 quarters fit in a circle. Take away 1 for the real toy. That leaves 3 images. Picking 4 means counting the real toy too.",
@@ -2778,29 +2761,27 @@
   },
   {
    "t": "mcq",
-   "p": "Which letter stays the same when you stand a mirror beside it?",
+   "p": "Two mirrors stand at an angle, like an open book, with a toy between them. Why do you see more than one toy?",
    "opts": [
-    "H",
-    "R",
-    "S",
-    "N"
+    "Light from the toy bounces from one mirror to the other before it reaches your eye",
+    "Each mirror makes new toys",
+    "The glass splits the toy into pieces"
    ],
    "a": 0,
-   "why": "H has a line of symmetry straight down its middle. R, S and N turn round.",
-   "how": "a4",
+   "why": "Each extra bounce between the mirrors sends the light to your eye from a new direction, so you see another image. The mirrors make no toys and no light.",
+   "how": "e3",
    "outcome": 4
   },
   {
    "t": "mcq",
-   "p": "How do scientists measure the distance to the Moon with mirrors?",
+   "p": "Why does a car have side mirrors?",
    "opts": [
-    "They bounce laser light off mirrors left there and time it",
-    "They use a very long tape",
-    "They look at the Moon in a bathroom mirror",
-    "They cannot measure it"
+    "So the driver can see what is behind without turning round",
+    "To make the car look bigger",
+    "To light up the road"
    ],
    "a": 0,
-   "why": "Apollo astronauts left mirrors on the Moon in 1969. Scientists time how long a laser pulse takes to bounce back.",
+   "why": "Light from cars behind reflects off the side mirror into the driver's eyes. A mirror makes no light, so it cannot light the road.",
    "outcome": 5
   },
   {
@@ -2809,7 +2790,6 @@
    "opts": [
     "To gather faint starlight into one bright image",
     "To keep the stars warm",
-    "Because glass is too cheap",
     "To make the telescope lighter"
    ],
    "a": 0,
@@ -2820,10 +2800,9 @@
    "t": "mcq",
    "p": "Do scientists agree about what the mirror test shows?",
    "opts": [
-    "No. They still argue, for example about a fish that passed it",
-    "Yes. Only humans pass it",
-    "Yes. Every animal passes it",
-    "There is no mirror test"
+    "No. They still argue, for example about a fish that passed",
+    "Yes. Only humans pass",
+    "Yes. Every animal passes"
    ],
    "a": 0,
    "why": "Apes, elephants and magpies pass. In 2019 a small fish did too. Scientists still argue about what passing really means.",
@@ -2831,16 +2810,14 @@
   },
   {
    "t": "mcq",
-   "p": "Why do far images fade in two facing mirrors?",
+   "p": "Which of these animals have passed the mirror test?",
    "opts": [
-    "Each bounce loses a little light",
-    "Light gets slower",
-    "The mirror runs out of images",
-    "Your eyes close"
+    "Chimpanzees, an elephant and magpies",
+    "No animal, only humans",
+    "Every animal ever tested"
    ],
    "a": 0,
-   "why": "No mirror is perfect. A little light is lost every time it bounces.",
-   "how": "a7",
+   "why": "Chimpanzees passed in 1970, an elephant in a zoo in 2006, and magpies after that. Many other animals tested have not passed, which is part of why scientists argue about the test.",
    "outcome": 6
   }
  ],
@@ -3092,9 +3069,9 @@
    "why_maths": "Finding a number pattern lets you predict a result before you test it. Then the test checks your prediction."
   },
   {
-   "problem": "Arjun is 120 cm tall. To see his whole body in a mirror, he needs a mirror half his height. How tall must the mirror be?",
+   "problem": "Anjali is 120 cm tall. To see her whole body in a mirror, she needs a mirror half her height. How tall must the mirror be?",
    "answer": "60 cm.",
-   "explain": "Half of 120 is 60. You can check: 60 + 60 = 120. So a 60 cm mirror, hung at the right height, shows all of Arjun, wherever he stands.",
+   "explain": "Half of 120 is 60. You can check: 60 + 60 = 120. So a 60 cm mirror, hung at the right height, shows all of Anjali, wherever she stands.",
    "math_unit": "math.fractions.halves-and-quarters.L3",
    "context": "This is about the mirror-size activity. You stick notes on a mirror at the top of your head and your chin, and find the mirror only needs to be half as tall as your face.",
    "how": "a6",

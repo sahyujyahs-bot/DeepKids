@@ -1,0 +1,1269 @@
+{
+ "key": "combined|sci|2|evolution-the-tree-of-life",
+ "board": "combined",
+ "subj": "sci",
+ "level": 2,
+ "n": "evolution-the-tree-of-life",
+ "day_mins": 35,
+ "title": "Evolution: how living things change over many generations",
+ "source": "DeepKids Combined, The Deep End. A DeepKids topic built from the founder's notebook on evolution and the tree of life. No board teaches it at Class 2, so there are no board subtopics to cover. It covers variation, ancestors and generations, natural selection, selective breeding, the tree of life, fossils, extinction and deep time. No textbook needed.",
+ "summary": "No two groundnuts in your kitchen are exactly the same, and no two babies are exactly like their parents. Over many, many generations, those small differences add up, and living things change. This is called evolution. Your child picks up food with a spoon beak and a clothes-peg beak, and sees which bird eats when the small seeds run out. They hunt paper moths on newspaper, copy a drawing until it changes, and find that cabbage, cauliflower and knol-khol are one plant that farmers changed. They draw the tree of life, find out that a mushroom is a closer cousin to them than a mango tree, press fossils into dough, and fit the whole story of life into one day on a clock.",
+ "builds_on": "Class 1 'Growing up and having young' showed that all living things have young. Class 2 'Why we look like our family' showed that young inherit features from both parents, and that copies of the instructions are never perfect. This rung shows what happens to those small differences over many generations. Class 3 'How life began' goes back to the very first cells. Class 4 comes back to evolution with DNA as evidence, cells that joined together, and the long road from fish to us.",
+ "subconcepts": [
+  "variation: no two living things of one kind are exactly the same",
+  "inherited features are passed from parents to young, and features gained during life are not",
+  "ancestors and generations: every living thing comes from parents, going back and back",
+  "evolution: living things change slowly over many generations",
+  "small changes add up over many copies",
+  "natural selection: beings born with a feature that helps them survive have more young",
+  "a feature helps only with a problem: which feature wins depends on where a being lives",
+  "selective breeding: farmers and breeders choose which plants and animals have young",
+  "the tree of life: one branching family, not a ladder",
+  "every living thing is a cousin: shared ancestors, near and far",
+  "cooperation shapes life too: the mitochondria in our cells were once bacteria",
+  "fossils: marks and remains of old life kept in rock",
+  "extinction: most kinds of living things that ever lived have died out",
+  "deep time: life has been changing for more than 3 billion years, and humans arrived very recently",
+  "evolution is still happening today"
+ ],
+ "goals": [
+  "By the end your child can show that living things of one kind are all a little different, using groundnuts or leaves from home.",
+  "By the end your child can tell a feature a being is born with, which can be passed on, from one gained during life, which cannot.",
+  "By the end your child can explain, with the beak test and the moth hunt, why beings with a helpful feature leave more young, and why the helpful feature depends on where they live.",
+  "By the end your child can explain how farmers changed wild cabbage into cabbage, cauliflower and knol-khol by choosing which plants made seeds.",
+  "By the end your child can draw a simple tree of life and use it to say who is a closer cousin to whom.",
+  "By the end your child can say what a fossil is, what extinct means, and that humans arrived very late in the story of life."
+ ],
+ "words": [
+  [
+   "variation",
+   "the small differences between living things of the same kind. No two mango leaves are exactly the same."
+  ],
+  [
+   "inherit",
+   "to get a feature from your parents when you are made. You may inherit your Amma's curly hair."
+  ],
+  [
+   "generation",
+   "one step in a family: grandparents are one generation, parents the next, children the next"
+  ],
+  [
+   "ancestor",
+   "anyone you come from, going back: your parents, their parents, and all the ones before them"
+  ],
+  [
+   "evolution",
+   "the slow change in living things over many, many generations"
+  ],
+  [
+   "natural selection",
+   "what happens when beings born with a helpful feature survive and have more young, so the feature becomes more common"
+  ],
+  [
+   "selective breeding",
+   "when people choose which plants or animals will have young, to get the features they want"
+  ],
+  [
+   "species",
+   "one kind of living thing, like the house crow or the mango tree. Members of a species can have young together."
+  ],
+  [
+   "common ancestor",
+   "an ancestor shared by two living things. You and your cousin share your grandparents."
+  ],
+  [
+   "tree of life",
+   "a drawing that shows how all living things are related, like one huge family tree"
+  ],
+  [
+   "fossil",
+   "the bones, shells, footprints or shapes of a living thing from long ago, kept in rock"
+  ],
+  [
+   "extinct",
+   "when every member of a species has died, so that kind of being is gone for ever"
+  ]
+ ],
+ "days": [
+  {
+   "n": 1,
+   "title": "No two the same",
+   "goal": "See that living things of one kind are all a little different, and that every being has a long line of ancestors.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Like your family, but not the same",
+     "mins": 5,
+     "do": "Ask: 'Remember the lesson on why we look like our family? Which feature did you get from Amma, and which from Appa?' Listen to the answers. Then ask: 'Are you exactly the same as either of them?' (No.) Say: 'Children get features from their parents, but each child is a new mix. Today we look for differences in other living things too.'"
+    },
+    {
+     "kind": "act",
+     "title": "Groundnut line-up",
+     "mins": 13,
+     "ref": "a1",
+     "do": "Do Activity a1. First ask: 'If we take 10 groundnuts from one packet, will they all be the same? Why do you think so?' Write down the guess. Your child lines them up from shortest to longest and draws round each one. Ask: 'Are any two exactly the same?' (No. Each is a little different in size, shape and bumps.) Say: 'Small differences between living things of one kind are called variation. Every groundnut came from a plant, and every plant is a little different.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Going back and back",
+     "mins": 9,
+     "do": "Draw a row of three circles on paper: you, your parents, your grandparents. Say: 'Each step in a family is called a generation. Everyone you come from is your ancestor.' Ask: 'Who came before Paati and Thatha?' (Their parents.) Keep drawing a few more rows. Ask: 'Does a crow have ancestors? Does a neem tree?' (Yes. Every living thing comes from parents, going back and back.) Say: 'If we kept going back for thousands of generations, our ancestors would start to look different from us. This lesson is about that long story. It is called evolution.'"
+    },
+    {
+     "kind": "act",
+     "title": "Start the tree of life chart",
+     "mins": 8,
+     "do": "Start the project. Stick a big sheet of paper on a wall at your child's height. Your child draws a thick trunk at the bottom, with roots. Write 'the first living cells, long, long ago' on the trunk. At the very top, your child draws one small twig and writes 'me' on it. Say: 'Over the next days, we will find out what grows in between.' Stick one groundnut drawing from today in a corner and write 'variation'."
+    }
+   ],
+   "need": [
+    "10 groundnuts in their shells from one packet",
+    "a sheet of paper and a pencil",
+    "a ruler",
+    "a big sheet of paper or chart paper",
+    "sticky tape",
+    "crayons"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Small changes add up",
+   "goal": "See how tiny changes, copied again and again, add up to a big change over many generations.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Born with it, or gained?",
+     "mins": 6,
+     "do": "Ask: 'You got your eye colour from your parents. If Appa cuts his hair short, will his next baby be born with short hair?' (No.) Say: 'Features you are born with can be passed to your young. Things that happen to you during your life, like a haircut, a scar or strong muscles from cycling, are not passed on.' Ask: 'A dog loses part of her tail in an accident. Will her puppies be born with short tails?' (No, their tails will be normal.)"
+    },
+    {
+     "kind": "act",
+     "title": "The copying fish",
+     "mins": 14,
+     "ref": "a2",
+     "do": "Do Activity a2. First ask: 'If you copy a drawing, and then copy your copy, and then copy that, again and again, will the last one look like the first?' Write down the guess. Do the eight copies as the activity says, each copy only from the one before. Lay all of them in a row. Ask: 'What changed? When did it change?' (A little at each step. The fins, eyes or tail slowly changed shape.) Say: 'Each copy was nearly the same as the one before. But many small changes added up to a big one.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Living things are copies too",
+     "mins": 9,
+     "do": "Say: 'Inside every cell is a set of instructions for building a body. When parents have young, the instructions are copied. Each copy is nearly perfect, but now and then there is a tiny change. So each baby is a little new.' Point to the row of fish. Say: 'One generation is like one copy. Over thousands and thousands of generations, the small changes add up. Living things slowly change. That slow change is evolution.' Ask: 'Have you ever seen a crow change into a different bird?' (No.) Say: 'Evolution is too slow to see in one life. It happens over a very long time.'"
+    },
+    {
+     "kind": "act",
+     "title": "Add to the chart",
+     "mins": 6,
+     "do": "Your child sticks the first fish and the last fish on the tree of life chart, with an arrow from the first to the last. Write under them: 'Small changes add up over many generations.' Ask your child to say the word 'evolution' and tell you, in their own words, what it means. (Living things changing slowly, over many, many generations.)"
+    }
+   ],
+   "need": [
+    "8 small slips of paper, about the size of a postcard",
+    "a pencil",
+    "a phone timer",
+    "the tree of life chart",
+    "sticky tape"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Which beak eats when the seeds run out?",
+   "goal": "Find out, with a test, why birds born with one kind of beak can survive a drought when others cannot.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "A bird's problem",
+     "mins": 4,
+     "do": "Ask: 'A bird has no hands. How does she pick up food?' (With her beak.) Ask: 'A sparrow, a parrot and a sunbird have very different beaks. Why do you think so?' Listen to the reasons. Say: 'Each bird has a problem: how to get her food. Her beak is the tool she was born with. Today we test two kinds of beak.'"
+    },
+    {
+     "kind": "exp",
+     "title": "The beak test",
+     "mins": 20,
+     "ref": "e1",
+     "do": "Do Experiment e1. Your child is a spoon-beak bird and you are a peg-beak bird. Before Round 1, ask: 'Which beak will pick up more moong? Which will pick up more groundnuts?' Before Round 2, the drought, ask: 'Now there is no moong left, only groundnuts stuck deep in dough. Which bird will eat?' Swap beaks and do Round 2 again, so you know it was the beak and not the person. Ask: 'Which beak was best?' (It depends. The spoon was best for small seeds. The peg was best for the stuck groundnuts.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Rosemary and Peter Grant count finch beaks",
+     "mins": 11,
+     "ref": "v1",
+     "do": "Tell the true story in Voice v1. Show a photo of a medium ground finch on a phone. Say: 'On a tiny island called Daphne Major, Rosemary and Peter Grant measured the beak of nearly every finch.' Ask: 'In the drought of 1977, the small seeds ran out. Only big, hard seeds were left. Which finches do you think survived?' (The ones with bigger, stronger beaks.) Say: 'The next year, the young finches had slightly bigger beaks, on average, like their parents. Nobody chose. The drought did.' Say: 'Scientists call this natural selection.' Ask the question in the voice."
+    }
+   ],
+   "need": [
+    "a teaspoon",
+    "a clothes peg",
+    "two small katoris",
+    "a steel plate",
+    "2 handfuls of whole moong",
+    "20 groundnuts in their shells",
+    "a lump of atta dough the size of a lemon",
+    "a phone timer",
+    "a phone to show a photo"
+   ],
+   "prep": [
+    {
+     "task": "Knead a small lump of atta dough, about the size of a lemon",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "The moth hunt",
+   "goal": "Find out, with a hunt, why colour helps a moth stay alive, and meet the two men who worked out natural selection.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Remember the finches",
+     "mins": 4,
+     "do": "Ask: 'In the beak test, why did the peg-beak bird eat in the drought and the spoon-beak bird go hungry?' (The peg could pull out the stuck groundnuts.) Ask: 'Did the peg-beak bird try hard to grow a better beak?' (No. She was born with it.) Say: 'Today a different problem: how not to be eaten.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Paper moths on newspaper",
+     "mins": 15,
+     "ref": "e2",
+     "do": "Do Experiment e2. Your child is a hungry bird. Before Round 1 ask: 'Which moths will you find first, the newspaper ones or the white ones? Why?' Write down the guess. Do the rounds as the experiment says. After each round, count the survivors and add their babies. Then ask: 'After three rounds, which kind is there more of?' (The newspaper moths. They are hard to see on newspaper, so more of them survive and have young.) If there is time, try one round on a plain white bedsheet and ask what changed."
+    },
+    {
+     "kind": "talk",
+     "title": "Wallace and Darwin",
+     "mins": 8,
+     "ref": "v2",
+     "do": "Tell the story in Voice v2. Say: 'Alfred Russel Wallace left school when he was about 13. He paid for his journeys by collecting beetles and birds to sell.' Show the Malay Archipelago on a map on a phone, east of India. Ask: 'Wallace and Charles Darwin had the same idea, on opposite sides of the world. Who should get the credit?' Listen to the reasons. Say: 'Today most books say Darwin. But their idea was first read out to scientists in both their names, in 1858.' Ask the question in the voice."
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 8,
+     "ref": "ws1",
+     "do": "Do Worksheet ws1. Read each question aloud. For the 'write' questions, let your child answer aloud first, then write one or two sentences. Listen for: features the being is born with, problems like hunger or being eaten, and more young."
+    }
+   ],
+   "need": [
+    "2 sheets of newspaper",
+    "1 more sheet of newspaper and 1 sheet of plain white paper, to cut moths from",
+    "scissors",
+    "a phone timer",
+    "a white bedsheet (if there is time)",
+    "Worksheet ws1",
+    "a pencil"
+   ],
+   "prep": [
+    {
+     "task": "Cut 30 squares about 2 cm wide from newspaper and 30 from plain white paper",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "The finch story, and plants that farmers changed",
+   "goal": "Hear a story of the drought on Daphne Major, then find out how farmers changed one wild plant into many vegetables.",
+   "steps": [
+    {
+     "kind": "read",
+     "title": "Story: The Year of the Hard Seeds",
+     "mins": 10,
+     "do": "Read the story 'The Year of the Hard Seeds' aloud. It is told by a young finch on Daphne Major during the drought of 1977. Read slowly and show the photo of a medium ground finch again before you start. Do not explain it at the end."
+    },
+    {
+     "kind": "talk",
+     "title": "Talk about the story",
+     "mins": 5,
+     "do": "Ask the story questions, one at a time. Ask: 'Did the finch survive because he tried harder than his sister?' Good answers: no, he was born with a beak that could crack the caltrop seeds. Ask: 'Why did his chicks have big beaks too?' (They inherited them from him.) Let your child say it in their own words."
+    },
+    {
+     "kind": "act",
+     "title": "One plant, many vegetables",
+     "mins": 14,
+     "ref": "a3",
+     "do": "Do Activity a3. Put the vegetables on the table. Ask: 'Are these different kinds of plants, or one kind? What do you think?' Write down the guess. Your child finds what is the same about them (the waxy blue-green leaves, the smell when cut). Say: 'Cabbage, cauliflower, broccoli and knol-khol are all one species. Long ago, people grew a wild cabbage. Some farmers kept seeds from the plants with the biggest leaves. Others kept seeds from the plants with the biggest flower buds, or the fattest stems. After many, many generations, they had different vegetables.' Say: 'This is called selective breeding. People did the choosing.'"
+    },
+    {
+     "kind": "think",
+     "title": "Who chose?",
+     "mins": 6,
+     "do": "Ask: 'In the finch story, who chose which birds had young?' (Nobody. The drought decided who survived.) Ask: 'With the cauliflower, who chose?' (Farmers.) Say: 'All dogs, from a pug to an Indian pariah dog, come from wolves. Dogs come from wolves that began living alongside people more than 15,000 years ago.' Say: 'Farmers in India have grown thousands of kinds of rice, such as Mappillai Samba in Tamil Nadu, Navara in Kerala and Gobindobhog in Bengal. Each one was made by farmers choosing seeds, year after year.' Your child adds a drawing of a cauliflower to the tree of life chart."
+    }
+   ],
+   "need": [
+    "the story",
+    "a phone to show a photo",
+    "at least two of these: a cabbage, a cauliflower, a knol-khol, a broccoli (or photos of the others)",
+    "a knife (for the grown-up)",
+    "a cutting board",
+    "a magnifying glass if you have one",
+    "the tree of life chart",
+    "crayons"
+   ]
+  },
+  {
+   "n": 6,
+   "title": "The tree of life",
+   "goal": "Draw the tree of life and use it to find who is a closer cousin to whom, and see that it is a tree, not a ladder.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Cousins",
+     "mins": 3,
+     "do": "Ask: 'Who are your cousins? What do you share with them?' (Grandparents.) Say: 'Cousins share ancestors. Today we find out that every living thing is your cousin. Some are close cousins, and some are very far.'"
+    },
+    {
+     "kind": "act",
+     "title": "Draw the tree",
+     "mins": 14,
+     "ref": "a4",
+     "do": "Do Activity a4 on the tree of life chart. First ask: 'Who is a closer cousin to you: a mushroom or a mango tree? Why do you think so?' Write down the guess. Draw the branches as the activity says. Then trace with a finger from 'human' down to where the mushroom branch joins, and from 'human' down to where the mango tree joins. Ask: 'Which one joined you sooner?' (The mushroom. Fungi are closer cousins to animals than plants are.) Ask: 'Where does the crow join?' Say: 'Birds come from a branch of the dinosaurs. So the crow at the window is a living dinosaur.'"
+    },
+    {
+     "kind": "talk",
+     "title": "A tree, not a ladder",
+     "mins": 6,
+     "do": "Draw a ladder on paper with bacteria at the bottom and humans at the top. Ask: 'Some books show life like this ladder. What is wrong with it?' Give a hint: point to the tree. Good answers: bacteria are still here and did not turn into us. Every twig at the top of the tree is alive today. Say: 'Bacteria have been evolving for as long as we have. Every living thing today is at the tip of their own branch. Humans are one twig among millions.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Lynn Margulis and the bacteria inside us",
+     "mins": 6,
+     "ref": "v3",
+     "do": "Tell the story in Voice v3. Say: 'Inside nearly every cell of your body are tiny parts called mitochondria. They turn food into energy your body can use.' Ask: 'Lynn Margulis said their ancestors were once bacteria that came to live inside another cell. What would you need to see to believe her?' Say: 'Mitochondria have their own little set of instructions, like bacteria do. That is part of the evidence.' Say: 'Living things evolve by helping each other too, not only by competing.'"
+    },
+    {
+     "kind": "act",
+     "title": "Move along the branches",
+     "mins": 6,
+     "ref": "a5",
+     "do": "Do Activity a5. Your child moves along the tree of life with yoga poses: tree, fish, cobra, cat and then standing tall as a human. Say each being's name as they hold the pose for 5 breaths. Ask at the end: 'Which pose felt closest to you? Which being do you think is your closest cousin of the five?' (The cat, because we are both mammals.)"
+    }
+   ],
+   "need": [
+    "the tree of life chart",
+    "crayons or sketch pens",
+    "a sheet of paper",
+    "a yoga mat or a clear floor"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Fossils and kinds that died out",
+   "goal": "Find out what fossils are, what they tell us, and that most kinds of living things that ever lived are now extinct.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "How do we know?",
+     "mins": 4,
+     "do": "Ask: 'Nobody was alive millions of years ago. So how can we know what lived then?' Listen to the ideas. Say: 'Sometimes a living thing that died was covered by mud or sand. Over a very long time, the mud became rock, and the shape of the bones or shell was kept. This is a fossil.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Mary Anning, fossil hunter",
+     "mins": 9,
+     "ref": "v4",
+     "do": "Tell the story in Voice v4. Show a photo of an ichthyosaur fossil on a phone. Ask: 'Mary was about 12 when she helped dig out this skeleton. No one alive had ever seen this animal. What does that tell us?' (Some kinds of animals lived long ago and are gone now.) Say: 'When every member of a species has died, the species is extinct.' Ask the question in the voice."
+    },
+    {
+     "kind": "act",
+     "title": "Make a fossil print",
+     "mins": 14,
+     "ref": "a6",
+     "do": "Do Activity a6. Your child presses a curry leaf, a shell or a toy animal's foot into the salt dough, then lifts it off. Ask: 'If someone found this in a million years, what could they tell about the leaf? What could they not tell?' (They could see the shape and the veins. They could not tell the colour, the smell or how the plant lived.) Put the prints to dry in a sunny window."
+    },
+    {
+     "kind": "think",
+     "title": "Most kinds are gone",
+     "mins": 8,
+     "do": "Say: 'Scientists think that almost all the kinds of living things that ever lived are now extinct. Dinosaurs, ichthyosaurs, and millions of others.' Say: 'Near Ariyalur in Tamil Nadu, people find fossil shells of sea animals called ammonites. That land was under the sea long ago.' Ask: 'Why might a kind of animal die out?' Good answers: the place changed, the food ran out, it got too hot or too cold, a new hunter came. Ask: 'Remember the beak test? What happens to a kind of bird if no bird has a beak that fits the new food?' (They may all die, and the species becomes extinct.)"
+    }
+   ],
+   "need": [
+    "a phone to show a photo",
+    "1 cup atta",
+    "half a cup of salt",
+    "about half a cup of water",
+    "a bowl",
+    "a curry leaf, a shell, or a small toy animal",
+    "a plate"
+   ],
+   "prep": [
+    {
+     "task": "Find a curry leaf, a shell or a small toy animal for the fossil print",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "The whole story of life in one day",
+   "goal": "Fit the story of life onto one day on a clock, see how recently humans arrived, and see that evolution is still happening.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Check the fossils",
+     "mins": 4,
+     "do": "Your child checks the salt dough fossil prints. Ask: 'Are they hard yet?' If they are still soft, turn them over and leave them for one or two more days. Ask: 'What would you need to keep a real fossil safe for millions of years?' (To be buried quickly in mud, and left alone.)"
+    },
+    {
+     "kind": "act",
+     "title": "The day clock of life",
+     "mins": 13,
+     "ref": "a7",
+     "do": "Do Activity a7. First ask: 'If the whole story of life fitted into one day, at what time would humans arrive? Morning? Lunchtime? Evening?' Write down the guess. Mark the clock as the activity says. Ask: 'What was there for most of the day?' (Almost only tiny single cells, too small to see.) Ask: 'When did humans arrive?' (In the last few seconds before midnight.) Say: 'Humans are very new. Bacteria have been here almost the whole day.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Evolution is still happening",
+     "mins": 6,
+     "do": "Say: 'Evolution did not stop. When people spray mosquitoes, most of them die. But a few are born a little different, and the spray does not hurt them. They have young. After many years, the spray hardly works on that town's mosquitoes.' Ask: 'Remember the moth hunt? What is the same?' (The ones born with a helpful feature survive and have more young.) Say: 'The same happens with bacteria and medicines. That is why doctors and scientists keep making new medicines.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 12,
+     "ref": "ws2",
+     "do": "Do Worksheet ws2. Read each question aloud. Your child may look at the tree of life chart and the day clock while working. For the question about Kavya and Meena, let your child choose a side and argue for it out loud before writing. Then ask: 'What would the other person say back?'"
+    }
+   ],
+   "need": [
+    "the fossil prints",
+    "a paper plate or a round sheet of paper",
+    "a pencil and crayons",
+    "a paper arrow and a pin, or just a pencil",
+    "Worksheet ws2"
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Play, check and teach it back",
+   "goal": "Play the Changing World game, do the challenge worksheet, and teach the big ideas back.",
+   "steps": [
+    {
+     "kind": "game",
+     "title": "Changing World",
+     "mins": 12,
+     "ref": "g1",
+     "do": "Play Game g1 with the printed board, a die and counters. Each player draws a beak slip at the start. After the game, ask: 'Was one beak always the best?' (No. It depended on what happened: drought, flowers or floods.) Say: 'That is how natural selection works. A feature is only helpful for a problem a being really has.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 10,
+     "ref": "ws3",
+     "do": "Do Worksheet ws3. These are harder. Read each question twice. Let your child answer aloud first. It is fine if they do only some of them. Praise a reason, not a right answer: ask 'How do you know?'"
+    },
+    {
+     "kind": "check",
+     "title": "Teach it back",
+     "mins": 13,
+     "do": "Ask the check questions aloud. Then your child teaches you, standing by the tree of life chart. Ask them to show you: why no two groundnuts are the same, why the peg-beak bird ate in the drought, why cauliflower looks so different from cabbage, and why the mushroom is your closer cousin. Listen for: variation, born with it, more young, many generations, and shared ancestors. Then take a photo of your child with the finished chart."
+    }
+   ],
+   "need": [
+    "the printed Changing World board",
+    "a die",
+    "a counter for each player",
+    "beak slips (see the game)",
+    "Worksheet ws3",
+    "the tree of life chart"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Differences, beaks and moths",
+   "day": 4,
+   "sections": [
+    [
+     "A. Words",
+     [
+      {
+       "t": "fill",
+       "p": "Your parents, their parents, and everyone before them are your ____.",
+       "a": [
+        "ancestors",
+        "ancestor"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Lakshmi takes 10 groundnuts from one packet and lines them up. What will she see?",
+       "opts": [
+        "They are all exactly the same.",
+        "Each one is a little different.",
+        "Only the big ones are groundnuts."
+       ],
+       "a": 1
+      },
+      {
+       "t": "match",
+       "p": "Match each word to what it means.",
+       "pairs": [
+        [
+         "variation",
+         "small differences between living things of one kind"
+        ],
+        [
+         "generation",
+         "one step in a family, like parents or children"
+        ],
+        [
+         "evolution",
+         "living things changing slowly over many generations"
+        ],
+        [
+         "inherit",
+         "to get a feature from your parents"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Your tests",
+     [
+      {
+       "t": "mcq",
+       "p": "Remember the beak test. In Round 2 there was no moong, only groundnuts stuck deep in dough. Which beak got food?",
+       "opts": [
+        "The spoon beak",
+        "The clothes-peg beak",
+        "Both got the same"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "p": "Remember the moth hunt. You hunted paper moths on newspaper. Which moths were left at the end?",
+       "opts": [
+        "Mostly newspaper moths, because they were hard to see",
+        "Mostly white moths, because they were easy to see",
+        "No moths at all"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Can this be passed on to the young? Sort each one.",
+       "items": [
+        "a finch born with a big beak",
+        "a dog who lost part of her tail in an accident",
+        "a moth born with dark wings",
+        "a man with strong arms from lifting heavy bags",
+        "a puppy born with black fur",
+        "a crow who learned where the dustbin is"
+       ],
+       "cats": [
+        "born with it: can be passed on",
+        "happened during life: not passed on"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "Farhan, a boy in Class 2, says: 'The finches grew big beaks because they tried very hard in the drought.' What really happened?",
+       "lines": 3,
+       "a": "A strong answer says the finches did not try to change. Some were born with bigger beaks. Those could crack the hard seeds, so more of them survived and had chicks. The chicks inherited big beaks."
+      },
+      {
+       "t": "write",
+       "p": "In the moth hunt, why did the newspaper moths have more babies than the white moths?",
+       "lines": 2,
+       "a": "A strong answer says the bird found the white moths more easily on newspaper, so fewer white moths survived. More newspaper moths survived to have young, so there were more of them each round."
+      },
+      {
+       "t": "draw",
+       "p": "Draw a bird with a beak that could crack a big, hard seed. Next to it, draw a bird with a beak that could drink nectar from deep inside a flower."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "The tree of life, fossils and time",
+   "day": 8,
+   "sections": [
+    [
+     "A. The tree of life",
+     [
+      {
+       "t": "mcq",
+       "p": "Look at your tree of life chart. Who are the closest cousins of these three: a mushroom, a mango tree and you?",
+       "opts": [
+        "the mushroom and the mango tree",
+        "the mushroom and you",
+        "the mango tree and you"
+       ],
+       "a": 1
+      },
+      {
+       "t": "fill",
+       "p": "Birds come from one branch of the ____, so a crow is a living one.",
+       "a": [
+        "dinosaurs",
+        "dinosaur"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Who did the choosing? Sort each one.",
+       "items": [
+        "bigger beaks on Daphne Major after the drought",
+        "cauliflower",
+        "a pug's short nose",
+        "dark moths in smoky towns",
+        "Mappillai Samba rice",
+        "mosquitoes the spray cannot kill"
+       ],
+       "cats": [
+        "nature chose: who survived",
+        "people chose: farmers and breeders"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Fossils and time",
+     [
+      {
+       "t": "match",
+       "p": "If the whole story of life were one day, match each event to its time.",
+       "pairs": [
+        [
+         "almost all life is tiny single cells",
+         "from midnight until the afternoon"
+        ],
+        [
+         "the first animals",
+         "about 8 in the evening"
+        ],
+        [
+         "the dinosaurs die out",
+         "about 25 minutes before midnight"
+        ],
+        [
+         "the first humans",
+         "the last few seconds before midnight"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Scientists think most kinds of living things that have ever lived on Earth are now:",
+       "opts": [
+        "extinct",
+        "humans",
+        "still the same as they were"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "A town sprays mosquitoes every year. Most die, but a few are born different and the spray does not hurt them. After many years, what will most of the town's mosquitoes be like?",
+       "opts": [
+        "The spray will not hurt most of them.",
+        "They will all be gone.",
+        "They will be just the same as at the start."
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think",
+     [
+      {
+       "t": "write",
+       "p": "Some books draw life as a ladder, with bacteria at the bottom and humans at the top. Why is a tree a better picture?",
+       "lines": 3,
+       "a": "A strong answer says bacteria did not turn into humans and are still alive today. Life branches into many kinds, and every living kind is at the tip of their own branch. Humans are one twig, not the top."
+      },
+      {
+       "t": "write",
+       "p": "Mary Anning dug out the bones of a big sea animal that no one alive had ever seen. Why did this help people believe that some kinds of animals had died out?",
+       "lines": 3,
+       "a": "A strong answer says nobody had seen the animal alive anywhere, so it was probably gone. The bones were real evidence of a kind of animal that lived long ago and is now extinct."
+      },
+      {
+       "t": "write",
+       "p": "Kavya and Meena, two sisters, are looking at the tree of life chart. Kavya says: 'Bacteria are simple. They have not evolved much. Humans are the most evolved.' Meena says: 'Bacteria have been evolving for just as long as we have. They are just as evolved, in their own way.' Who do you agree with? Give a reason from the tree or the day clock. Then say what the other sister could say back.",
+       "lines": 4,
+       "a": "A strong answer uses evidence: on the tree, every living kind is at the tip of a branch, and bacteria have been here for almost the whole day clock. It may agree that humans have bigger brains, but notice that bacteria can live in places we cannot. It answers back fairly from the other side.",
+       "why": "This tests whether the child sees evolution as branching, not as a climb towards humans."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Thinking like a scientist about evolution",
+   "day": 9,
+   "sections": [
+    [
+     "A. Pick a side",
+     [
+      {
+       "t": "write",
+       "p": "Why do giraffes have such long necks? Here are three ideas. 1. Jean-Baptiste Lamarck, a French scientist, about 200 years ago: giraffes stretched their necks to reach high leaves, and their young were born with longer necks. 2. Many scientists today: giraffes born with slightly longer necks reached more leaves when food was short, so they had more young. 3. Robert Simmons and Lue Scheepers, two scientists, in 1996: male giraffes fight by swinging their necks, so males with longer necks won more fights and had more young. Which idea is weakest, and why? Then choose between the other two, or say both could be true.",
+       "lines": 5,
+       "a": "A strong answer says stretching during life is not passed on, like strong arms from lifting bags, so Lamarck's idea is weakest. It then weighs the other two. Both describe natural selection, and both could be part of the answer. Scientists still argue about which mattered most.",
+       "why": "This asks the child to use 'born with it, or gained during life' on a new animal, and to see a real open debate."
+      }
+     ]
+    ],
+    [
+     "B. What if?",
+     [
+      {
+       "t": "write",
+       "p": "Imagine every finch on Daphne Major had exactly the same beak. Could the drought have changed the beaks of the next generation? Why or why not?",
+       "lines": 3,
+       "a": "A strong answer says no. If all the beaks were the same, the drought could not pick out any birds with better beaks. Natural selection needs variation."
+      },
+      {
+       "t": "write",
+       "p": "Imagine the newspaper in the moth hunt slowly turned plain white over 100 years. What would happen to the moths? Explain step by step.",
+       "lines": 4,
+       "a": "A strong answer says the newspaper moths would become easy to see, so birds would eat more of them. The white moths would be hidden, survive and have more young. Over many generations, white moths would become common again."
+      },
+      {
+       "t": "mcq",
+       "p": "People often say 'survival of the fittest'. In evolution, 'fittest' means:",
+       "opts": [
+        "the strongest",
+        "the one that fits best where they live",
+        "the one who runs fastest"
+       ],
+       "a": 1
+      }
+     ]
+    ],
+    [
+     "C. Evidence and change",
+     [
+      {
+       "t": "fill",
+       "p": "A pug, a Labrador and an Indian pariah dog all come from ____.",
+       "a": [
+        "wolves",
+        "wolf"
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Could a scientist use this as evidence about life long ago?",
+       "items": [
+        "a fossil shell in a rock near Ariyalur",
+        "bones of an ichthyosaur",
+        "a footprint kept in old rock",
+        "a cartoon of a dinosaur",
+        "a dream about dinosaurs",
+        "the mitochondria in our cells, which have their own instructions"
+       ],
+       "cats": [
+        "evidence",
+        "not evidence"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Which of these is evolution happening now?",
+       "opts": [
+        "Bacteria changing so that some medicines stop working on them",
+        "A child growing taller",
+        "A cauliflower going brown in the fridge"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Bees drink nectar from flowers and carry pollen from one flower to the next. What has happened to bees and flowers over many generations?",
+       "opts": [
+        "They shaped each other: flowers that bees visited made more seeds, and bees good at finding nectar had more young.",
+        "Bees made the flowers on purpose.",
+        "Bees and flowers have not changed at all."
+       ],
+       "a": 0
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The beak test",
+   "day": 3,
+   "question": "Which kind of beak gets food when the easy food runs out?",
+   "need": [
+    "a teaspoon (the spoon beak)",
+    "a clothes peg (the peg beak)",
+    "two small katoris, one for each bird",
+    "a steel plate",
+    "2 handfuls of whole moong",
+    "20 groundnuts in their shells",
+    "a lump of atta dough the size of a lemon",
+    "a phone timer"
+   ],
+   "steps": [
+    "Round 1, a year of good rain. Spread the moong and 10 groundnuts on the plate. This is the food on the island.",
+    "Each bird holds their beak in one hand only. Put the other hand behind your back.",
+    "Start the timer for 20 seconds. Both birds pick up food with their beaks and drop it into their own katori. Only one beakful at a time.",
+    "Stop. Look at both katoris. Count the groundnuts. Look at the moong pile and say which is bigger.",
+    "Round 2, a drought. The moong is all eaten. Flatten the dough on the plate. Push 10 groundnuts deep into it, so only the top of each one shows.",
+    "Start the timer for 20 seconds again. Both birds try to get the groundnuts out with their beaks.",
+    "Count the groundnuts in each katori. Then swap beaks and do Round 2 once more."
+   ],
+   "predict": "Ask your child to guess first: 'In Round 1, which beak will get more moong? Which will get more groundnuts? In Round 2, which bird will eat?' Ask why.",
+   "observe": "In Round 1, the spoon scoops lots of moong and the peg picks up groundnuts, so both birds eat. In Round 2, the spoon slides over the stuck groundnuts and gets few or none. The peg grips the top of each groundnut and pulls it out. The result stays the same when you swap beaks, so it was the beak, not the person. If the spoon gets a few groundnuts out, that is fine: compare the counts, and the peg should still get more.",
+   "why": "A bird's problem is finding food. The beak she is born with decides which food she can get. When there is plenty of every food, many kinds of beak work. When the easy food runs out, only birds whose beaks can get the hard food survive and have chicks. The chicks inherit their parents' beaks. This is natural selection. It happened for real on Daphne Major in the Galápagos Islands in 1977: in a drought, the small seeds ran out, and finches with bigger, stronger beaks, which could crack big hard seeds, survived more often.",
+   "safety": "Moong and groundnuts are small: watch younger brothers and sisters so they do not put them in their nose or mouth. Do not use groundnuts if anyone in the house has a nut allergy: use rajma instead.",
+   "time": "20 min"
+  },
+  {
+   "id": "e2",
+   "title": "Paper moths on newspaper",
+   "day": 4,
+   "question": "Why does colour help a moth stay alive?",
+   "need": [
+    "2 sheets of newspaper (the tree bark)",
+    "30 squares about 2 cm wide cut from newspaper",
+    "30 squares about 2 cm wide cut from plain white paper",
+    "a phone timer",
+    "a plain white bedsheet (if there is time)"
+   ],
+   "steps": [
+    "Spread 2 sheets of newspaper flat on the floor.",
+    "Your child turns away. Scatter 10 newspaper moths and 10 white moths all over the newspaper.",
+    "Your child is a hungry bird. Start the timer for 10 seconds. They pick up as many moths as they can, one at a time.",
+    "Stop. Count the moths still on the newspaper: how many newspaper moths, how many white moths? Write it down.",
+    "Each moth that survived has one baby. Your child turns away again, and you add one new moth of the same kind for each survivor. Put the eaten moths aside.",
+    "Do this for 3 rounds. Write down the numbers after each round.",
+    "If there is time, spread a plain white bedsheet, scatter 10 of each again, and do one round."
+   ],
+   "predict": "Ask your child to guess first: 'Which moths will you find first on the newspaper? After three rounds, which kind will there be more of? Why?'",
+   "observe": "The white moths stand out and are picked up first. The newspaper moths are hard to see, so more of them survive. After each round there are more newspaper moths and fewer white moths. On the white bedsheet, the opposite happens.",
+   "why": "A moth's problem is birds that eat her. A moth whose colour matches the place she rests is harder to see, so she is more likely to survive and have young. Her young inherit her colour. So, round by round, the hidden colour becomes more common. This really happened to peppered moths near Manchester in England. In the 1800s, smoke from factories blackened the tree trunks, and dark moths became common. When laws made the air cleaner, from the 1950s on, pale moths became common again. Some scientists questioned the first experiments on these moths. Between 2001 and 2007, Michael Majerus, a British scientist, did a large careful study and found that birds really do eat more of the moths that stand out.",
+   "safety": "A grown-up does the cutting with scissors.",
+   "time": "15 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Groundnut line-up",
+   "day": 1,
+   "mins": 13,
+   "need": [
+    "10 groundnuts in their shells from one packet",
+    "a sheet of paper",
+    "a pencil",
+    "a ruler"
+   ],
+   "steps": [
+    "Your child puts the 10 groundnuts in a row, from the shortest to the longest.",
+    "They put each groundnut on the paper and draw round it with the pencil.",
+    "With the ruler, they measure the shortest and the longest and write the lengths in centimetres.",
+    "They look closely at two groundnuts that seem the same. Ask: 'Can you find one difference?' (The bumps, the number of nuts inside, a curve, a colour.)",
+    "If you have a mango tree, a neem or a potted tulsi nearby, pick three leaves from one plant and compare them in the same way."
+   ],
+   "outcome": "A page of 10 different groundnut outlines, with the shortest and longest lengths. It shows that no two living things of one kind are exactly the same."
+  },
+  {
+   "id": "a2",
+   "title": "The copying fish",
+   "day": 2,
+   "mins": 14,
+   "need": [
+    "8 small slips of paper, about the size of a postcard",
+    "a pencil",
+    "a phone timer"
+   ],
+   "steps": [
+    "The grown-up draws a simple fish on slip 1: a body, a tail, two fins and an eye. Take about 20 seconds.",
+    "Your child copies the fish onto slip 2 in 20 seconds. Then turn slip 1 face down.",
+    "Your child copies slip 2 onto slip 3, again in 20 seconds. Then turn slip 2 face down.",
+    "Keep going until slip 8. Each copy is made only from the one just before it.",
+    "Turn all the slips face up and lay them in a row, from 1 to 8.",
+    "Put a finger on one change, for example the tail, and follow it along the row."
+   ],
+   "outcome": "A row of 8 fish, each almost like the one before, where the last fish looks clearly different from the first. It shows how small changes add up over many copies."
+  },
+  {
+   "id": "a3",
+   "title": "One plant, many vegetables",
+   "day": 5,
+   "mins": 14,
+   "need": [
+    "at least two of these: a cabbage, a cauliflower, a knol-khol, a broccoli",
+    "photos on a phone of the ones you don't have",
+    "a knife (for the grown-up)",
+    "a cutting board",
+    "a magnifying glass if you have one"
+   ],
+   "steps": [
+    "Put the vegetables side by side. Show photos of the ones you don't have, and of wild cabbage, a leafy plant that grows on sea cliffs in Europe.",
+    "Your child finds the part we eat in each one: the leaves in cabbage, the flower buds in cauliflower and broccoli, the fat stem in knol-khol.",
+    "The grown-up cuts a small piece from each. Your child smells them and feels the leaves. Ask: 'What is the same?' (The waxy, blue-green leaves and the same strong smell.)",
+    "Your child draws the wild cabbage in the middle of a page, and draws an arrow from it to each vegetable.",
+    "On each arrow, write what the farmers chose: 'big leaves', 'big flower buds', 'fat stem'."
+   ],
+   "outcome": "A drawing that shows how farmers, by choosing which plants made seeds, changed one wild plant into several vegetables. The vegetables go into that day's cooking."
+  },
+  {
+   "id": "a4",
+   "title": "Draw the tree of life",
+   "day": 6,
+   "mins": 14,
+   "need": [
+    "the tree of life chart from Day 1",
+    "crayons or sketch pens"
+   ],
+   "steps": [
+    "On the trunk above 'the first living cells', draw the first branch going to the left. At the end write 'bacteria' and draw a few tiny dots. Say: 'The bacteria in curd are on this branch.'",
+    "Higher up, draw a branch going to the right. At the end write 'plants' and draw a mango tree.",
+    "Higher still, the trunk splits. On one side write 'fungi' and draw a mushroom. The other side is the animal branch.",
+    "Along the animal branch, draw small branches in this order: an ant, then a fish, then a frog, then a crow, then a cat.",
+    "At the very top is the twig 'me' from Day 1. Write 'human' next to it.",
+    "With a finger, trace down from 'human' to where each branch joins. The sooner a branch joins yours, the closer the cousin."
+   ],
+   "outcome": "A tree of life on the wall that shows bacteria, plants, fungi and animals as one family, and that fungi are closer cousins to animals than plants are."
+  },
+  {
+   "id": "a5",
+   "title": "Move along the branches",
+   "day": 6,
+   "mins": 6,
+   "need": [
+    "a yoga mat or a clear floor"
+   ],
+   "steps": [
+    "Tree pose (vrikshasana): stand on one foot, with the other foot on the inside of your leg, arms up like branches. Say 'mango tree'.",
+    "Fish pose, the easy way: lie on your back, put your hands under your hips and lift your chest a little. Say 'fish'.",
+    "Cobra pose (bhujangasana): lie on your tummy, hands under your shoulders, and lift your head and chest. Say 'cobra'.",
+    "Cat pose (marjariasana): on hands and knees, round your back up high, then let it dip. Say 'cat'.",
+    "Stand tall with your arms by your side and breathe. Say 'human'.",
+    "Hold each pose for 5 slow breaths."
+   ],
+   "outcome": "A short yoga sequence that moves along the tree of life, from a plant to a human."
+  },
+  {
+   "id": "a6",
+   "title": "Make a fossil print",
+   "day": 7,
+   "mins": 14,
+   "need": [
+    "1 cup atta",
+    "half a cup of salt",
+    "about half a cup of water",
+    "a bowl",
+    "a curry leaf, a shell or a small toy animal",
+    "a plate"
+   ],
+   "steps": [
+    "Mix the atta and salt in the bowl. Add the water a little at a time and knead into a firm dough that does not stick to your fingers.",
+    "Make two balls the size of a small lemon. Flatten each one on the plate until it is about as thick as your finger.",
+    "Your child presses a curry leaf, a shell or a toy animal's foot firmly into the dough, then lifts it off carefully.",
+    "Look at the print. Count the veins of the leaf, or the toes of the footprint.",
+    "Put the plate in a sunny window. Turn the prints over every day. They take 2 to 4 days to dry hard."
+   ],
+   "outcome": "Two hard fossil prints that show the shape of a leaf, a shell or a footprint, the way real fossils keep the shape of living things in rock."
+  },
+  {
+   "id": "a7",
+   "title": "The day clock of life",
+   "day": 8,
+   "mins": 13,
+   "need": [
+    "a paper plate or a round sheet of paper",
+    "a pencil and crayons"
+   ],
+   "steps": [
+    "Draw a clock face on the plate with the numbers 1 to 12. Say: 'This clock goes round twice, for one whole day, from midnight to midnight. Life began at midnight.'",
+    "Colour the whole clock pale blue. Write 'almost all life is tiny single cells' on it. Say: 'For most of the day, almost all of life was single cells, too small to see.'",
+    "Draw a small sponge at 8 o'clock and write '8 pm: first animals'.",
+    "Draw a small plant at 9 o'clock and write '9 pm: plants on land'.",
+    "Draw a dinosaur just before 12 and write '11:35 pm: the dinosaurs die out (but the birds live on)'.",
+    "Draw a tiny dot right on the 12. Write 'humans: the last 7 seconds'.",
+    "Count 7 seconds aloud together. Say: 'That is how long humans have been here, on this clock.'"
+   ],
+   "outcome": "A day clock that shows that almost all life on Earth was single cells for most of the story, and that humans arrived in the last few seconds. It uses about 3.8 billion years for the age of life, which scientists think is about right."
+  }
+ ],
+ "project": {
+  "title": "Our tree of life chart",
+  "days": [
+   1,
+   2,
+   5,
+   6,
+   9
+  ],
+  "steps": [
+   "Day 1: stick a big sheet on the wall. Draw the trunk, the roots and a twig at the top for 'me'. Add one groundnut drawing for 'variation'.",
+   "Day 2: stick on the first and last fish from the copying activity, with an arrow and the words 'small changes add up'.",
+   "Day 5: add a drawing of a cauliflower and the words 'farmers chose'.",
+   "Day 6: draw all the branches: bacteria, plants, fungi and the animals.",
+   "Day 9: stand by the chart and teach the whole story to someone in the family."
+  ],
+  "outcome": "A big chart on the wall, made by your child over the lesson, that shows variation, small changes adding up, and one tree of life with every living thing on it."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Changing World",
+  "kind": "board",
+  "players": "2–4",
+  "need": [
+   "the printed board",
+   "a die",
+   "a counter or button for each player",
+   "4 slips of paper: write 'big beak' on two and 'thin beak' on two"
+  ],
+  "rules": [
+   "Each player puts a counter on START and picks a beak slip without looking. Keep it face up, so everyone can see.",
+   "Take turns to roll the die and move that many squares.",
+   "Read the square aloud and do what it says. Some squares are good for big beaks, and some for thin beaks.",
+   "If a square asks a question, answer it first. A grown-up checks. If the answer is wrong, stay where you are.",
+   "The first player to reach HOME wins.",
+   "At the end, each player says which beak helped most, and on which squares."
+  ],
+  "squares": [
+   "START: a young bird leaves the nest",
+   "Good rains! Seeds of every size. Everyone moves ahead 1.",
+   "Question: what is it called when no two living things of one kind are the same? (Variation.)",
+   "Drought: only big, hard seeds are left. Big beaks move ahead 2. Thin beaks go back 1.",
+   "Question: is a scar passed on to babies? (No.)",
+   "Flowers bloom everywhere. Thin beaks drink nectar and move ahead 2.",
+   "Question: what do we call a kind of living thing that has all died out? (Extinct.)",
+   "A crow at the window says hello, cousin. Move ahead 1.",
+   "Drought again. Big beaks move ahead 1. Thin beaks miss a turn.",
+   "Question: who chose the cauliflower's big flower buds, nature or farmers? (Farmers.)",
+   "You find a fossil shell near Ariyalur. Move ahead 2.",
+   "Question: who is your closer cousin, a mushroom or a mango tree? (A mushroom.)",
+   "Insects hide in narrow cracks. Thin beaks move ahead 2.",
+   "Question: who wrote about natural selection at the same time as Darwin? (Alfred Russel Wallace.)",
+   "A storm. Everyone goes back 1.",
+   "Question: what were the mitochondria in your cells, long ago? (Bacteria.)",
+   "Big hard nuts fall from the trees. Big beaks move ahead 2.",
+   "Question: on the day clock of life, when did humans arrive? (In the last few seconds.)",
+   "Your chicks have your beak. Move ahead 1.",
+   "Question: is life a ladder or a tree? (A tree.)",
+   "Nectar and seeds for all. Everyone moves ahead 1.",
+   "HOME: you raised a family"
+  ]
+ },
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Rosemary Grant (born 1936) and Peter Grant (born 1936), British scientists who studied finches",
+   "idea": "From 1973, the Grants caught, measured and ringed the finches on Daphne Major, a tiny island in the Galápagos, year after year. In 1977 almost no rain fell. The small seeds ran out, and the medium ground finches fell from about 1,200 to about 180. The birds that survived had bigger, deeper beaks on average, which could crack big, hard seeds. Their young had bigger beaks too.",
+   "then": "Many people thought natural selection was too slow to see in a human lifetime. The Grants showed it happening within a few years, by measuring.",
+   "now": "Their work is accepted and is one of the best-known examples of evolution measured in the wild. They watched the finches for about 40 years and saw beaks change in both directions as the weather changed. Rosemary and Peter worked as equal partners.",
+   "status": "accepted",
+   "ask": "The Grants measured almost every bird, every year. Why did they need so many birds and so many years, instead of a few?",
+   "day": 3
+  },
+  {
+   "id": "v2",
+   "who": "Alfred Russel Wallace (1823–1913) and Charles Darwin (1809–1882), English naturalists",
+   "idea": "Darwin had been working on the idea of natural selection for about 20 years without publishing it. In 1858 Wallace, who was collecting animals in the islands of the Malay Archipelago, sent Darwin a letter with the same idea. Their two papers were read out together to scientists in London on 1 July 1858. Darwin published 'On the Origin of Species' the next year.",
+   "then": "Wallace was poor and had left school young. He earned his living by selling the animals he collected. Darwin was rich and well known, and his book made his name famous. Many people were angry at the idea that humans are related to other animals.",
+   "now": "Natural selection is accepted by scientists everywhere. Darwin usually gets most of the credit. Wallace himself was generous: he called his own book on the idea 'Darwinism'. Many scientists today say the two should be named together.",
+   "status": "accepted",
+   "ask": "Darwin had the idea first but kept it to himself. Wallace wrote it down on his own and sent it. Who do you think should get the credit, and why?",
+   "day": 4
+  },
+  {
+   "id": "v3",
+   "who": "Lynn Margulis (1938–2011), American biologist",
+   "idea": "In 1967 Margulis wrote that mitochondria, the parts of our cells that turn food into energy, were once free-living bacteria. Long ago, they came to live inside another cell and stayed. She said the green parts of plant cells, called chloroplasts, were once bacteria too.",
+   "then": "Many journals turned her paper down, and many scientists thought the idea was silly.",
+   "now": "The evidence proved her right. Mitochondria and chloroplasts have their own small sets of instructions (DNA), like bacteria, and they make copies of themselves by splitting, as bacteria do. Her wider idea, that living together and helping each other drives much of evolution, is still argued about.",
+   "status": "accepted",
+   "ask": "Margulis was told she was wrong for years. What kind of evidence finally changed people's minds?",
+   "day": 6
+  },
+  {
+   "id": "v4",
+   "who": "Mary Anning (1799–1847), English fossil collector",
+   "idea": "Mary lived in Lyme Regis, a seaside town in England, and searched the crumbling cliffs for fossils to sell, to help her poor family. When she was about 12, her brother Joseph found the skull of a huge sea reptile, and Mary dug out the rest of the skeleton. It was an ichthyosaur. In 1823 she found the first complete skeleton of another sea reptile, the plesiosaur.",
+   "then": "Many people then believed that no kind of animal God made could ever die out. Her fossils were animals that no one had ever seen alive. Men of science bought her fossils and wrote about them, often without naming her. As a woman, she was not allowed to join the Geological Society of London.",
+   "now": "Her finds helped scientists accept that extinction is real and that Earth is very old. Today she is called one of the greatest fossil hunters ever. In 2010 the Royal Society named her one of the ten British women who most shaped science.",
+   "status": "accepted",
+   "ask": "Mary found the fossils, but men who bought them often got the credit. Why do you think that happened? How could we find out who really found a fossil?",
+   "day": 7
+  }
+ ],
+ "story": {
+  "title": "The Year of the Hard Seeds",
+  "text": [
+   "I am a finch, a small brown bird. I live on Daphne Major, an island in the Pacific Ocean, so small that you could walk round it in an hour. It is a heap of black rock, with cactus and low bushes and dry yellow grass. The sea crashes all round it.",
+   "I hatched in the wet season, when it rained and rained. The bushes were covered in tiny seeds, as small as grains of sand. My sister and I ate them all day long. We hopped from plant to plant, picking and swallowing, picking and swallowing.",
+   "My sister was quicker than me. Her beak was thin and neat, and she could pick up three tiny seeds while I picked up one. My beak was thick and heavy. My sister used to laugh at me. 'You eat like a stone falling,' she said.",
+   "Two large animals lived on the island too. They walked on two legs and had no feathers. They had a tent on the one flat place. Every day they caught some of us in soft nets, very gently. They held us in their warm fingers and measured our beaks with a small metal tool. They wrote numbers in a book. Then they put coloured rings on our legs and let us go. I have a red ring and a silver one. My sister has two blue rings.",
+   "Then the rain stopped.",
+   "At first nobody worried. The dry season always comes. But this time the rain did not come back. The grass turned brown, then grey. The bushes dropped their leaves. Week after week, the tiny seeds grew fewer, and fewer, until there were none.",
+   "All over the island, finches searched the ground. My sister searched from first light to dark. She turned over every pebble with her thin, neat beak. She found nothing.",
+   "There was one food left. A low plant called the caltrop grows on the rocks. Their seeds sit inside hard, spiky cases, like tiny stones with thorns. Before the drought, nobody bothered with them. They were too much work.",
+   "I was hungry, so I tried. I held a caltrop case in my thick beak. I twisted my head and squeezed. Crack. The case split, and inside was a seed, soft and sweet. I ate it, and I cracked another, and another.",
+   "I called my sister. She took a caltrop case and squeezed with all her strength. She squeezed until her eyes closed. The case did not even scratch. She tried again the next day, and the next. Her beak was not made for it.",
+   "That year was very quiet on Daphne Major. In the mornings there was less and less singing. Many finches did not live to see the rain. My sister was one of them. I sat on the black rock where we used to eat tiny seeds together, and I did not sing for a long time.",
+   "The two-legged animals walked the island every day with their book. They found the birds who had died, and they wrote that down too. They looked tired and sad. But they kept counting.",
+   "When the rain came back at last, the island turned green in a few days. Seeds of every size covered the ground again. I found a mate with a thick beak like mine. We built a nest in a cactus, and four chicks hatched.",
+   "I watched them grow. When their beaks hardened, I looked at them closely. They were thick and heavy, like mine. Like their mother's. 'You eat like stones falling,' I told them, and I was proud.",
+   "The two-legged animals caught my chicks in their soft nets and measured their beaks. They wrote the numbers in their book. Then they turned back the pages to the year before the drought, and compared.",
+   "One of them, the woman, looked at the numbers for a long time. Then she said something to the man, and they both smiled. I do not understand their language. But I think they had seen something that nobody can see in one bird or in one day.",
+   "Most of the finches on the island now have thicker beaks than the finches before the drought. Nobody chose this. None of us tried to change our beaks. The rain stopped, the hard seeds stayed, and the birds who could crack them lived to have chicks.",
+   "Sometimes, when the tiny seeds are thick on the ground, I watch a young finch with a thin, neat beak picking them up three at a time. I think of my sister. And I wonder what the next drought, or the next flood, will ask of us."
+  ],
+  "epiphany": "For the parent: the narrator does not survive because he is better, braver or more hard-working than his sister. He survives because he happened to be born with a thick beak, and the drought left only hard seeds. His chicks inherit his beak, so the whole island's finches change. The turn is when the scientists compare the numbers: evolution is seen not in one bird but in many birds over generations. The last line hints that a different change in the weather could favour thin beaks. This is based on the real drought of 1977 on Daphne Major, studied by Rosemary and Peter Grant.",
+  "ask": [
+   "Why could the narrator crack the caltrop seeds when his sister could not?",
+   "Was the narrator's thick beak better than his sister's thin beak? When was it better, and when was it worse?",
+   "Why did the chicks have thick beaks too?",
+   "The scientists could not see the change by looking at one bird. How did they see it?",
+   "What do you think the next flood might ask of the finches?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "No two living things are the same, and the differences are passed on.",
+   "more": "Every groundnut, every crow and every child is a little different from others of their kind. That is variation. Many of these differences are inherited, so young are like their parents but never copies. Features gained during life, like a scar or strong muscles, are not passed on."
+  },
+  {
+   "idea": "Beings born with a helpful feature have more young, so over many generations the feature becomes common.",
+   "more": "In the beak test, the peg beak ate in the drought. In the moth hunt, the hidden moths survived. Nobody chose and nobody tried: the problem the beings faced decided who had young. This is natural selection. A feature only helps with a real problem, so when the place changes, a different feature may win."
+  },
+  {
+   "idea": "All living things are one family, branching like a tree.",
+   "more": "Bacteria, mango trees, mushrooms, ants, crows and you share ancestors, near or far. The tree of life has no top: every living kind is at the tip of their own branch, and every one of them senses and responds to their world. Living things evolve by helping each other as well as by competing: the mitochondria in your cells were once bacteria."
+  },
+  {
+   "idea": "Life is very old, and humans are very new.",
+   "more": "Fossils show kinds of living things that are now extinct, and most kinds that ever lived are gone. If the story of life were one day, almost all life would be single cells until the afternoon, the first animals would come in the evening, and humans would arrive in the last few seconds."
+  }
+ ],
+ "unknowns": [
+  "How did the very first living cell begin? Scientists have good ideas, but nobody knows for sure.",
+  "Does evolution always go slowly and steadily, or does it sometimes go fast and then stay still for a long time? Scientists still argue about this.",
+  "How many species are alive on Earth today? Scientists have named about 2 million, but there may be many millions more, most of them insects, fungi and tiny microbes that nobody has studied yet.",
+  "Why did giraffes get such long necks: to reach high leaves, or to win fights? Scientists still disagree."
+ ],
+ "big": [
+  "If your ancestors from a million generations ago walked in, would you call them family?",
+  "Every living thing today is at the tip of a branch. Does that make a bacterium as successful as a human?",
+  "Is it fair that one finch lived and his sister did not, when neither of them chose their beak?",
+  "Farmers changed wild cabbage into cauliflower. Should people choose how other living things change?",
+  "If humans arrived in the last few seconds of the day, whose Earth is it?"
+ ],
+ "challenge": [
+  {
+   "q": "'Humans came from monkeys.' Did we?",
+   "hint": "No. Humans and chimpanzees share a common ancestor who lived about 6 to 7 million years ago. Monkeys and apes are our cousins, not our grandparents. Monkeys are still here, evolving along their own branch. If two cousins share a grandmother, did one come from the other?"
+  },
+  {
+   "q": "'Evolution is a ladder, and humans are at the top.'",
+   "hint": "Life branches like a tree. Bacteria have been evolving for over 3 billion years and live in hot springs, deep rocks and your own gut, where we could never live. Each living kind is good at their own life. Who decides what counts as the top?"
+  },
+  {
+   "q": "'Survival of the fittest means the strongest always wins.'",
+   "hint": "The words 'survival of the fittest' were first used by Herbert Spencer in 1864, and Darwin later used them too. 'Fittest' means the best fit for where a being lives, not the strongest. In the moth hunt, the moths that survived were not stronger, only better hidden. Many beings survive by helping each other: bees and flowers, or the bacteria that became our mitochondria. Can you think of an animal that survives by being small, slow or hidden?"
+  },
+  {
+   "q": "'If giraffes stretch their necks, their babies are born with longer necks.'",
+   "hint": "This was Jean-Baptiste Lamarck's idea, about 200 years ago. A child of a weightlifter is not born with big muscles, and a dog's puppies do not inherit a cut tail. Scientists today say giraffes born with longer necks had more young. Why the long neck helped, for food or for fights between males, is still argued about."
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "a rice farmer in the Kaveri delta in Tamil Nadu",
+   "view": "She saves seeds each year from the plants that grew best in her field: the ones that stood up in the floods and gave the most grain. Over many years, her rice has become suited to her own land. Seeds saved and swapped by farmers made thousands of kinds of rice in India. Who owns a kind of rice made by many generations of farmers?"
+  },
+  {
+   "who": "a bacterium in a cup of curd",
+   "view": "She senses sugar in the milk and uses it for food, and she splits in two every hour or two. Her branch of the tree of life is billions of years old. Through all that time her ancestors survived floods, ice and heat. Would she think of herself as simple?"
+  },
+  {
+   "who": "Birbal Sahni (1891–1949), an Indian scientist who studied plant fossils",
+   "view": "He studied fossils of ancient plants from the Rajmahal Hills in Jharkhand and other parts of India, and the institute for fossil science in Lucknow is named after him. Rocks to him were a library of old life. What would you like to find out from a fossil plant?"
+  }
+ ],
+ "books": [
+  {
+   "title": "Grandmother Fish: A Child's First Book of Evolution",
+   "author": "Jonathan Tweet",
+   "for": "read together",
+   "age": "4–7",
+   "why": "A simple, joyful picture book about our long line of ancestors, from a fish to us, with actions to copy on every page. Good for Day 1 or Day 6."
+  },
+  {
+   "title": "Our Family Tree: An Evolution Story",
+   "author": "Lisa Westberg Peters",
+   "for": "read together",
+   "age": "5–9",
+   "why": "A picture book that tells the story of life as one big family, from the first cells to humans."
+  },
+  {
+   "title": "Stone Girl, Bone Girl: The Story of Mary Anning",
+   "author": "Laurence Anholt",
+   "for": "read together",
+   "age": "5–9",
+   "why": "The story of Mary Anning and her fossil finds at Lyme Regis. Read it after Day 7."
+  },
+  {
+   "title": "Life on Earth: The Story of Evolution",
+   "author": "Steve Jenkins",
+   "for": "read together",
+   "age": "6–10",
+   "why": "Clear text and paper-collage pictures that explain variation, natural selection and the age of life."
+  },
+  {
+   "title": "The Beak of the Finch",
+   "author": "Jonathan Weiner",
+   "for": "parent reads",
+   "age": "adult (read parts aloud)",
+   "why": "The true story of Rosemary and Peter Grant and the finches of Daphne Major. Read the chapters on the 1977 drought and retell them simply."
+  }
+ ],
+ "check": [
+  {
+   "q": "Are any two groundnuts, or any two children, exactly the same? What is the word for the differences?",
+   "a": "No. Each one is a little different. The word is variation."
+  },
+  {
+   "q": "A woman gets a scar on her arm. Will her baby be born with the scar? Why?",
+   "a": "No. A scar happens during her life. Only features she was born with, in her instructions, can be passed on."
+  },
+  {
+   "q": "Why did more finches on Daphne Major have big beaks after the drought?",
+   "a": "Only big, hard seeds were left. Finches born with bigger beaks could crack them, so more of them survived and had chicks. The chicks inherited the big beaks."
+  },
+  {
+   "q": "How did farmers make cauliflower and cabbage from one wild plant?",
+   "a": "For many generations, they kept seeds only from the plants with the features they wanted, such as big flower buds or big leaves. This is selective breeding."
+  },
+  {
+   "q": "Who is your closer cousin, a mushroom or a mango tree? How do you know?",
+   "a": "A mushroom. On the tree of life, the fungi branch joins the animal branch after the plant branch has split off. So we share a more recent ancestor with fungi."
+  },
+  {
+   "q": "What is a fossil, and what does extinct mean?",
+   "a": "A fossil is the bones, shell, footprint or shape of a living thing from long ago, kept in rock. Extinct means every member of a species has died, like the dinosaurs that could not fly and the ichthyosaurs."
+  },
+  {
+   "q": "If the story of life were one day, when did humans arrive?",
+   "a": "In the last few seconds before midnight. For most of the day, almost all life was tiny single cells."
+  }
+ ]
+}

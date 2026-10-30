@@ -253,9 +253,9 @@ She looked past the first glow. There, a few steps further on, was another faint
 
 They went slowly. The fireflies flashed all around their heads, busy with their own lives. Iba ignored them. She kept her eyes low, on the steady glows. At the fourth one, she heard it: the stream, chattering on her left again. At the seventh, her feet found the hard, smooth path.
 
-Far ahead, a lantern was swinging. It was their father, calling their names.
+Far ahead, a lantern was swinging. It was their mother, calling their names.
 
-Phrang ran to him. Iba stopped and looked back once. Behind her, the line of small green lamps lay along the stream, quiet and patient. The fireflies were still flashing above them, still saying here I am, where are you, to someone who was not her.
+Phrang ran to her. Iba stopped and looked back once. Behind her, the line of small green lamps lay along the stream, quiet and patient. The fireflies were still flashing above them, still saying here I am, where are you, to someone who was not her.
 
 The next morning, she walked back alone in the sunshine to find the mushrooms. She found the bamboo easily. The mushrooms were still there. But in daylight they were just tiny brown things, so plain that nobody would look twice. Their light had not gone anywhere. It was only that the Sun was so much brighter.
 
@@ -616,123 +616,117 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
 
 ## Worksheets
 ### Living Light Detective (core) (core, 16 questions)
-1. (mcq) What is living light?  
-   Options: Light made by a living thing, using chemistry in their body / Sunlight shining on a living thing / Light from a lamp in a garden / Any light we see at night  
-   **Answer:** Light made by a living thing, using chemistry in their body. *Why:* Living light, or bioluminescence, is made by the living thing themself. Picking 'sunlight shining on it' mixes up making light with sending back light. A leaf in the sun is lit, but it does not make light.
-2. (mcq) A firefly is a kind of…  
-   Options: Beetle / Fly / Worm / Moth  
-   **Answer:** Beetle. *Why:* Fireflies are beetles. They have hard wing cases like all beetles. Picking 'fly' comes from the name, but names can fool us. Picking 'worm' may come from glow-worms, which are firefly young.
+1. (mcq) Kavya, a girl in Class 3, sees a firefly blink on a dark night. Next morning she sees a green leaf shining in the sunshine. Which one is making their own light?  
+   Options: Only the firefly / Only the leaf / Both of them  
+   **Answer:** Only the firefly. *Why:* The firefly makes new light with chemistry inside their body. That is living light, or bioluminescence. The leaf only sends back sunlight that lands on it. Picking 'both' mixes up making light and sending back light. In a dark room, the leaf would show nothing.
+2. (sort) Sort these. Does each one make their own light, or not?  
+   **Answer:** a firefly → Makes their own light; the Moon → Does not make their own light; a glowing mushroom → Makes their own light; a mirror → Does not make their own light; the glowing bacteria in an anglerfish's lure → Makes their own light; a white cat in torchlight → Does not make their own light. *Why:* Living light is made by the living being themself. The Moon, a mirror and a cat in torchlight only send back light from somewhere else. A strong answer puts the white cat in 'does not', even though the cat is alive: being alive is not the same as glowing.
 3. (fill) A firefly makes light when a chemical called luciferin meets the gas ____ from the air.  
-   **Answer:** ['oxygen']. *Why:* Oxygen from the air reacts with luciferin, and light comes out. The firefly switches its light on by letting air into their lantern.
-4. (truefalse) A firefly's light is hot, like a candle flame.  
-   **Answer:** False. *Why:* False. Living light is cold light. It makes almost no heat, so the firefly does not burn themself.
-5. (mcq) Why do most fireflies flash?  
-   Options: To find a partner of their own kind / To see where they are flying / To keep warm / To dry their wings  
-   **Answer:** To find a partner of their own kind. *Why:* Fireflies flash codes to find a partner. Picking 'to see where they are flying' treats the flash as a torch. Their flashes are messages. Picking 'keep warm' misses that firefly light is cold.
-6. (match) Match each glowing living thing to where they live.  
+   **Answer:** ['oxygen']. *Why:* Oxygen from the air reacts with luciferin, and light comes out. The firefly switches their light on by letting air into their lantern.
+4. (truefalse) Anything that gives out light must also be hot.  
+   **Answer:** False. *Why:* False, though most people think so, because bulbs and flames are hot. A firefly and a glow stick give out light with almost no heat. This is called cold light.
+5. (write) Remember the cold light test? You held your hand beside a candle, then beside a glow stick. What did your hand feel each time? What does this tell you about a firefly's light?  
+   **Answer:** Beside the candle, my hand felt warm. Beside the glow stick, it felt nothing. So a glow can be cold. A firefly's light is cold light too, so the lantern does not burn their body.. *Why:* A strong answer says what was felt each time, then uses it to explain why a firefly's lantern can be part of their body.
+6. (mcq) Why do most fireflies flash?  
+   Options: To find a partner of their own kind / To see where they are flying / To keep warm  
+   **Answer:** To find a partner of their own kind. *Why:* Each kind of firefly has their own flash code, and they flash to find a partner. Picking 'to see where they are flying' treats the flash as a torch, but their flashes are messages. Picking 'keep warm' misses that firefly light is cold.
+7. (match) Match each glowing living being to where they live.  
    **Answer:** Firefly → fields and gardens on warm nights; Glowing mushroom → rotting wood in damp forests; Anglerfish → the deep, dark sea; Sea sparkle → waves near the beach. *Why:* Living light is found on land, in forests and all through the sea.
-7. (mcq) You put one glow stick in icy water and one in warm water. Which glows brighter?  
-   Options: The one in warm water / The one in icy water / They glow exactly the same  
-   **Answer:** The one in warm water. *Why:* Warmth makes the chemicals react faster, so more light comes out each second. Picking 'icy water' may come from thinking cold things shine. Picking 'the same' may mean the room was too bright to see the difference.
-8. (mcq) A glow-in-the-dark star glows after you shine a torch on it. Does it make its own light?  
-   Options: No, it gives back light it soaked up / Yes, just like a firefly / Yes, it makes light from the air  
-   **Answer:** No, it gives back light it soaked up. *Why:* The star stores light, then lets it out slowly. A firefly makes new light from a chemical reaction. Picking 'just like a firefly' mixes up glowing with making light.
-9. (sort) Sort these. Does it make its own light, or not?  
-   **Answer:** a firefly → Makes its own light; the Moon → Does not make its own light; a glowing mushroom → Makes its own light; a mirror → Does not make its own light; an anglerfish's lure → Makes its own light; a white cat in torchlight → Does not make its own light. *Why:* Light sources make their own light. The Moon, a mirror and a cat only send back light from something else. The anglerfish's lure is lit by bacteria living in it, which make light.
+8. (write) In the glow stick test, the stick in warm water glowed brightest, and the one in icy water glowed dimmest. Explain why. Use the word 'reaction'.  
+   **Answer:** The light comes from a chemical reaction inside the stick. Warmth makes the reaction go faster, so more light comes out every second. Cold slows the reaction, so less light comes out.. *Why:* A strong answer links brightness to how fast the reaction runs, not to the water giving the stick light or heat to shine with.
+9. (mcq) You shine a torch on a glow-in-the-dark star, then switch off the light. The star glows. Is it making their own light, like a firefly?  
+   Options: No, it is giving back light it soaked up from the torch / Yes, just like a firefly / Yes, it makes light from the air  
+   **Answer:** No, it is giving back light it soaked up from the torch. *Why:* The star stores light, then lets it out slowly. A firefly makes new light with a chemical reaction. Picking 'just like a firefly' mixes up glowing and making light. A star kept in a dark drawer all day does not glow at all.
 10. (mcq) Deep in the sea, below about 1,000 metres, how much sunlight is there?  
-   Options: None at all / A little, at midday / Lots, the water makes it brighter  
-   **Answer:** None at all. *Why:* Sunlight fades as it goes down through water. Below about 1,000 metres it is completely dark, day and night. Picking 'a little at midday' is close for a few hundred metres down, but not for the deep sea.
+   Options: None at all / A little, at midday / Lots, because water makes light brighter  
+   **Answer:** None at all. *Why:* Sunlight fades as it goes down through water. Below about 1,000 metres it is completely dark, day and night. Picking 'a little at midday' is right for a few hundred metres down, but not for the deep sea.
 11. (truefalse) Most animals in the deep sea can make their own light.  
-   **Answer:** True. *Why:* True. In one count of deep-sea animals off California, about three out of every four could glow.
-12. (mcq) Why does an anglerfish have a glowing ball on their head?  
-   Options: To bring small fish close, so the anglerfish can eat them / To see in the dark / To hide from hunters / To warm their head  
-   **Answer:** To bring small fish close, so the anglerfish can eat them. *Why:* The glowing lure is bait. Small fish swim up to it and are swallowed. Picking 'to see in the dark' treats it as a headlamp. Picking 'to hide' mixes it up with belly lights.
+   **Answer:** True. *Why:* True. In one count of deep-sea animals off California, about three out of every four could glow. In the dark, light is the best way to signal, trick or hide.
+12. (mcq) An anglerfish has a glowing ball dangling in front of their mouth. What is it for?  
+   Options: To bring small fish close, so the anglerfish can eat them / To see in the dark / To hide from hunters  
+   **Answer:** To bring small fish close, so the anglerfish can eat them. *Why:* The glowing lure is bait. Small fish swim up to the light and are swallowed. Picking 'to see in the dark' treats the lure as a headlamp. Picking 'to hide' mixes it up with belly lights.
 13. (draw) Draw a firefly at night. Show where their light comes from. Draw an arrow for the air going in.  
-   **Answer:** A beetle with their glowing lantern at the end of their body, with an arrow of air going into the lantern.. *Why:* The light comes from the lantern, where luciferin meets oxygen from the air.
-14. (write) Why are bright lights at night bad for fireflies?  
-   **Answer:** Fireflies flash to find partners. Bright lights hide their flashes, so males and females cannot see each other. Then fewer baby fireflies are born.. *Why:* Light pollution is one of the biggest threats to fireflies, along with losing their homes.
-15. (write) Name two living things that make light, and say what each one uses their light for.  
-   **Answer:** For example: a firefly flashes to find a partner. An anglerfish uses their glowing lure to catch small fish.. *Why:* Any two correct living things, each with a job, are right.
-16. (fill) Light made by living things is called bio____.  
-   **Answer:** ['luminescence', 'bioluminescence']. *Why:* Bioluminescence means living light. Bio means life, and luminescence means giving out light.
+   **Answer:** A beetle with their glowing lantern at the end of their body, and an arrow of air going into the lantern.. *Why:* The light comes from the lantern, where luciferin meets oxygen from the air. A strong drawing shows the light at the back end, not the head.
+14. (perspective) A park in Chennai has fireflies. The town wants to put up bright lights along the path. Three people disagree.  
+   **Answer:** A strong answer picks a plan and explains it with firefly science: fireflies flash to find partners, and bright light drowns out their flashes. It then gives the other side a fair point, for example that people really do need to see the path. It may mix ideas, like shaded lamps that light only the ground.. *Why:* This is a real trade-off. People's safety and the fireflies' dark both matter. Light pollution is one of the biggest dangers to fireflies, along with losing the places they live.
+15. (write) Name two living beings that make light. Say what each one uses their light for.  
+   **Answer:** For example: a firefly flashes to find a partner. An anglerfish uses their glowing lure to catch small fish.. *Why:* Any two correct living beings, each with a real job for their light, make a strong answer.
+16. (fill) Light made by living beings is called bio____.  
+   **Answer:** ['luminescence', 'bioluminescence']. *Why:* Bioluminescence means living light. 'Bio' means life, and 'luminescence' means giving out light.
 ### Glowing Jobs (stretch) (stretch, 15 questions)
-1. (mcq) What does the helper chemical luciferase do in a firefly?  
-   Options: Makes luciferin and oxygen react quickly / Stores sunlight for the night / Turns the light red / Cools the firefly down  
-   **Answer:** Makes luciferin and oxygen react quickly. *Why:* Luciferase is a helper that speeds up the reaction, so the flash comes on fast. Picking 'stores sunlight' mixes living light up with glow-in-the-dark stars.
-2. (mcq) A firefly's light is cold light. Why does that matter for the firefly?  
-   Options: A hot light would burn their own body / Cold light is brighter than any other light / Cold light can be seen in the daytime / It does not matter at all  
-   **Answer:** A hot light would burn their own body. *Why:* A firefly's lantern is part of their body. A hot light would cook them. Picking 'brighter' is a mix-up: cold means 'makes little heat', not 'very bright'.
-3. (mcq) After the glow stick test, one stick spends the night in the fridge. Another spends the night on a shelf in the room. Next morning, which one is more likely to still be glowing?  
-   Options: The one kept cold in the fridge / The one left on the shelf in the room / Neither, glow sticks only glow for a minute  
-   **Answer:** The one kept cold in the fridge. *Why:* In the cold, the reaction runs slowly, so the stick uses up its chemicals slowly. The stick in the room used its chemicals faster. Picking 'the shelf' usually means thinking that a brighter glow will also last longer.
-4. (mcq) A hatchetfish glows on their belly. What is that light for?  
-   Options: To hide their dark shape from hunters below / To catch food / To find a partner / To see the sea floor  
-   **Answer:** To hide their dark shape from hunters below. *Why:* From below, a fish shows as a dark shape against the dim light above. Belly lights fill in the shape. Picking 'catch food' mixes it up with the anglerfish's lure.
-5. (mcq) Some jellyfish flash a ring of lights when they are grabbed. Scientists call this a burglar alarm. Why?  
-   Options: The flashes may call a bigger hunter to eat the attacker / It wakes the jellyfish up / It turns off the attacker's eyes / It calls the police  
-   **Answer:** The flashes may call a bigger hunter to eat the attacker. *Why:* Like an alarm, the flashes draw attention. A bigger animal may come and eat whatever grabbed the jellyfish. Picking 'turns off the attacker's eyes' is a guess, but no light can do that.
-6. (mcq) Where does an anglerfish's lure get its light?  
-   Options: From glowing bacteria living inside it / From the Sun / From a battery / From the Moon  
-   **Answer:** From glowing bacteria living inside it. *Why:* Tiny glowing bacteria live in the lure. The fish gives them a home and food, and they give the fish their lamp. Picking 'the Sun' misses that sunlight never reaches the deep sea.
+1. (mcq) Inside a firefly, a helper chemical called luciferase is part of making light. What does luciferase do?  
+   Options: Makes luciferin and oxygen react quickly / Stores sunlight for the night / Cools the firefly down  
+   **Answer:** Makes luciferin and oxygen react quickly. *Why:* Luciferase is a helper that speeds up the reaction, so the flash comes on fast. Picking 'stores sunlight' mixes up living light and glow-in-the-dark stars. Picking 'cools the firefly' misses that the light is already cold.
+2. (mcq) After the glow stick test, one stick spends the night in the fridge. Another spends the night on a shelf in the room. Next morning, which one is more likely to still be glowing?  
+   Options: The one kept cold in the fridge / The one left on the shelf in the room / Neither, because glow sticks only glow for a minute  
+   **Answer:** The one kept cold in the fridge. *Why:* In the cold, the reaction runs slowly, so the stick uses up its chemicals slowly. The stick in the room used its chemicals faster. Picking 'the shelf' usually means thinking that a brighter glow will also last longer. It is the other way round.
+3. (mcq) Some jellyfish flash a ring of lights when they are grabbed. Scientists call this a burglar alarm. Why?  
+   Options: The flashes may call a bigger hunter to eat the attacker / The flashes wake the jellyfish up / The flashes warm the water  
+   **Answer:** The flashes may call a bigger hunter to eat the attacker. *Why:* Like an alarm, the flashes draw attention. A bigger animal may come and eat whatever grabbed the jellyfish. Picking 'warm the water' misses that living light is cold.
+4. (write) Remember the vanishing fish? The paper fish almost disappeared when the torch made them as bright as the screen behind. Why does this help a real hatchetfish hide from a hunter swimming below?  
+   **Answer:** From below, a fish looks like a dark shape against the faint light coming down from above. The hatchetfish's belly lights fill in that shape, so the shape matches the light behind. Then the hunter cannot see an outline.. *Why:* A strong answer says the danger is a dark outline, and that the belly lights hide it by matching the light from above. This trick is called counter-illumination.
+5. (draw) Draw what a hunter looking up from below would see: one hatchetfish with their belly lights on, and one with their belly lights off.  
+   **Answer:** The fish with lights off is a clear dark shape against the pale water above. The fish with lights on is very faint, nearly the same as the water.. *Why:* A strong drawing shows the dark outline is what gives a fish away, and that belly light hides the outline.
+6. (mcq) Where does the light in an anglerfish's lure come from?  
+   Options: From glowing bacteria living inside the lure / From the Sun / From the Moon  
+   **Answer:** From glowing bacteria living inside the lure. *Why:* Tiny glowing bacteria live in the lure. The fish gives them a home and food, and they give the fish a lamp. Picking 'the Sun' misses that sunlight never reaches the deep sea.
 7. (truefalse) Glowing bacteria only light up when there are lots of them together.  
-   **Answer:** True. *Why:* True. They give off a chemical to tell each other they are there. When enough builds up, they all glow at once.
-8. (mcq) Iba, in the story The Lamps That Stay, got home by following the mushrooms, not the fireflies. Why?  
-   Options: The mushrooms glowed steadily and stayed where they grew, by the stream / The fireflies were too hot to go near / The mushrooms were brighter than the Sun / The fireflies were asleep  
+   **Answer:** True. *Why:* True. Each one gives off a chemical to tell the others they are there. When enough builds up, they all glow at once. One alone would make too little light to be useful.
+8. (mcq) In the story The Lamps That Stay, Iba got home by following the glowing mushrooms, not the fireflies. Why did that work?  
+   Options: The mushrooms glowed steadily and stayed where they grew, by the stream / The fireflies were too hot to go near / The mushrooms were brighter than the Sun  
    **Answer:** The mushrooms glowed steadily and stayed where they grew, by the stream. *Why:* Fireflies flash and move about, talking to each other. The mushrooms stay on old bamboo by the stream, glowing all night. Picking 'too hot' misses that firefly light is cold.
 9. (order) Put the steps of a firefly flash in order.  
    **Answer:** [0, 1, 2, 3, 4]. *Why:* Air brings oxygen. Oxygen reacts with luciferin, helped by luciferase. Light comes out. Shutting off the air stops the light.
-10. (fill) A substance that soaks up light and gives it back slowly in the dark is called glow-in-the-____.  
-   **Answer:** ['dark']. *Why:* Glow-in-the-dark materials store light. They do not make new light, as fireflies do.
-11. (truefalse) Glowing mushrooms flash on and off like fireflies.  
-   **Answer:** False. *Why:* False. Glowing fungi glow steadily, all night long, for as long as they are alive and damp.
-12. (mcq) Some female fireflies copy the answer flash of another kind. What happens when a male of that kind flies down?  
-   Options: She eats him / They become friends / He teaches her his code / Nothing, he flies away  
-   **Answer:** She eats him. *Why:* The scientist James Lloyd found these trickster fireflies in 1965. They use light as a trap. Picking 'become friends' misses that the copied answer is a trap to catch food.
-13. (match) Match each deep-sea light to its job.  
-   **Answer:** Anglerfish lure → catch; Hatchetfish belly lights → hide; Jellyfish ring of flashes → scare; Lanternfish light pattern → talk. *Why:* Deep-sea animals use light for four main jobs: to catch food, to hide, to scare attackers and to talk.
-14. (write) Why do you think so many deep-sea animals make light, but so few animals on land?  
-   **Answer:** On land, the Sun lights the day, so many animals can see without making light. In the deep sea it is always dark, so light is the only way to see, signal or trick in the dark.. *Why:* Any answer that links glowing to the darkness of the deep sea is good.
-15. (write) Raphael Dubois mixed two juices from a glowing beetle in a tube, and they glowed. What does this tell us about living light?  
-   **Answer:** Living light comes from chemicals. It can even happen outside the animal's body, if the right chemicals and oxygen are mixed.. *Why:* This experiment showed that living light is chemistry, not magic or a spirit.
+10. (truefalse) Sea sparkle, tiny living beings in the sea, glow brightest where waves crash.  
+   **Answer:** True. *Why:* True. Sea sparkle flash when the water around them is stirred. So the brightest glow is in breaking waves and around moving feet.
+11. (mcq) Some female fireflies copy the answer flash of a different kind of firefly. What happens when a male of that kind flies down to her?  
+   Options: She eats him / They become partners / He flies past her  
+   **Answer:** She eats him. *Why:* The scientist James Lloyd found these trickster fireflies in 1965. They use light as a trap. Picking 'become partners' misses that she is a different kind, and the copied answer is a trap to catch food.
+12. (match) Match each deep-sea light to the job it does.  
+   **Answer:** Anglerfish lure → catch food; Hatchetfish belly lights → hide; Jellyfish ring of flashes → scare off an attacker; Lanternfish light pattern → talk to their own kind. *Why:* Deep-sea animals use light for four main jobs: to catch food, to hide, to scare attackers and to talk.
+13. (write) Why do you think so many deep-sea animals make light, but so few animals on land do?  
+   **Answer:** On land, the Sun lights up the day, so many animals can see without making light. In the deep sea it is dark all the time. Making light is the only way to signal, trick or hide with light down there.. *Why:* A strong answer links glowing to the darkness of the deep sea, and compares it with daylight on land.
+14. (write) In the 1880s, a French scientist, Raphael Dubois, made two juices from the glowing part of a click beetle. Each juice was dark on its own. When he mixed them in a tube, they glowed. What does this tell us about living light?  
+   **Answer:** Living light comes from chemicals. It can even happen outside the animal's body, if the right chemicals and oxygen are mixed. It is chemistry, not magic.. *Why:* A strong answer says the light needs two chemicals together, and that it works outside the body. Dubois named them luciferin and luciferase.
+15. (perspective) All baby fireflies glow, long before they need to find a partner. So why did fireflies first start glowing? Scientists give different answers.  
+   **Answer:** A strong answer picks a side and uses a real clue, for example that baby fireflies glow when touched, like a sudden warning. It then names evidence that would help decide, such as whether hunters really learn to avoid glowing young. It admits nobody was there to watch.. *Why:* Scientists still argue about this. The warning idea has the most evidence so far, but the full story is not known.
 ### Light from Life (challenge) (challenge, 15 questions)
 1. (mcq) A firefly eats food and later makes light. Where did the energy in their food first come from?  
-   Options: From sunlight, caught by plants / From the Moon / From the firefly's light itself / From the cold  
-   **Answer:** From sunlight, caught by plants. *Why:* Plants catch sunlight to make food. Animals eat plants, or eat animals that ate plants. So a firefly's flash is sunlight energy, changed many times. Picking 'from their light' goes the wrong way round. Light is where the energy ends up.
+   Options: From sunlight, caught by plants / From the Moon / From the firefly's own light  
+   **Answer:** From sunlight, caught by plants. *Why:* Plants catch sunlight to make food. Animals eat plants, or eat animals that ate plants. So a firefly's flash is sunlight energy, changed many times. Picking 'their own light' goes the wrong way round. Light is where the energy ends up.
 2. (mcq) Down at the level of atoms, how does luciferin make light?  
-   Options: The new molecule has extra energy and lets it go as tiny packets of light / It catches sunlight and holds it / It catches fire very slowly / Tiny lamps inside its atoms switch on  
+   Options: The new molecule has extra energy and lets it go as tiny packets of light / It catches sunlight and holds it / It catches fire very slowly  
    **Answer:** The new molecule has extra energy and lets it go as tiny packets of light. *Why:* After luciferin reacts with oxygen, the new molecule holds extra energy. It settles down by giving out a photon, the tiniest bit of light. Picking 'catches sunlight' mixes it up with glow-in-the-dark stars. Picking 'catches fire' misses that there is no flame or heat.
-3. (truefalse) Scientists think living light began only once, in one ancient animal, and was passed down to all glowing things.  
+3. (truefalse) Scientists think living light began only once, in one ancient animal, and was passed down to all glowing beings.  
    **Answer:** False. *Why:* False. Fireflies, fungi, jellyfish and bacteria use different chemicals. Scientists think living light began separately at least 94 times.
-4. (mcq) Scientists found that more insects landed on fake glowing mushrooms than on dark ones. What does this suggest?  
-   Options: The glow may bring insects that spread the mushroom's spores / Insects are scared of the dark / Mushrooms eat insects / It proves every mushroom glows for this reason  
-   **Answer:** The glow may bring insects that spread the mushroom's spores. *Why:* This test, in Brazil in 2015, suggests one reason for one kind of mushroom. Picking 'it proves every mushroom' goes too far. One test on one kind cannot tell us about all fungi.
-5. (write) Your grandmother says there were many more fireflies when she was a child. Is that good evidence that fireflies are disappearing? How could you find out for sure?  
-   **Answer:** It is a useful clue, but memories can be wrong or patchy. To find out for sure, many people would need to count fireflies in the same places, at the same time, every year, and compare the counts.. *Why:* Scientists say there are very few long counts of fireflies in India. Careful counts, like the firefly count project, help.
-6. (mcq) In the made-up firefly count, the three nights gave 24, 9 and 31 flashes. How many more flashes were there on the best night than the worst?  
-   Options: 22 / 7 / 40 / 31  
-   **Answer:** 22. *Why:* The best night had 31 and the worst had 9. 31 take away 9 is 22. Picking 7 subtracts the wrong nights. Picking 40 adds them instead of finding the difference.
-7. (mcq) Osamu Shimomura found a protein in a jellyfish that glows green. How do scientists use it today?  
-   Options: They attach it to parts of cells so those parts light up under a microscope / They put it in street lamps / They feed it to fireflies / They paint ships with it  
-   **Answer:** They attach it to parts of cells so those parts light up under a microscope. *Why:* The green protein lets scientists see where things are and how they move inside living cells. Shimomura shared a Nobel Prize for this in 2008.
-8. (truefalse) Your body gives out a very faint light, about a thousand times too weak for your eyes to see.  
+4. (write) Living light began separately at least 94 times, in very different living beings. What does that suggest about making light in the dark?  
+   **Answer:** It suggests that making light is very useful in the dark. Again and again, different living beings found their own way to do it, because it helped them find food, hide, warn or find a partner.. *Why:* A strong answer links 'many separate beginnings' to 'very useful'. When the same ability appears many times, it usually helps living beings survive.
+5. (mcq) In Brazil, scientists put fake glowing mushrooms next to fake dark ones in a forest. More insects landed on the glowing ones. What does this suggest?  
+   Options: The glow may bring insects that spread the mushroom's spores / Insects are scared of the dark / It proves every mushroom glows for this reason  
+   **Answer:** The glow may bring insects that spread the mushroom's spores. *Why:* This test, in 2015, suggests one reason for one kind of mushroom. Picking 'it proves every mushroom' goes too far. One test on one kind cannot tell us about all fungi.
+6. (write) Your grandmother says there were many more fireflies when she was a child. Is that good evidence that fireflies are disappearing? How could you find out for sure?  
+   **Answer:** It is a useful clue, but memories can be wrong or patchy. To find out for sure, many people would need to count fireflies in the same places, at the same time, every year, and compare the counts.. *Why:* A strong answer takes the memory seriously but asks for counts that can be compared. Scientists say there are very few long counts of fireflies in India.
+7. (write) Here are made-up results from a firefly count, three minutes each night. Night 2 was cool and windy. Give two possible reasons why the count was low that night. How could you check which reason is right?  
+   **Answer:** Fireflies may flash less when it is cool, because the cold slows the chemistry in their bodies. Or the wind may keep them from flying. To check, count on many nights and write down the warmth and the wind each time. Then see which one goes with low counts.. *Why:* A strong answer gives two different reasons, links one of them to the glow stick test, and plans more counts to compare. One low night is not enough to decide.
+8. (match) Scientists use the chemicals of living light as tools. Match each one to what it is used for.  
+   **Answer:** A green glowing protein from a jellyfish → makes parts of cells light up under a microscope; Firefly chemicals on a swab → glow if germs are left on a kitchen counter; Glowing bacteria in a water sample → dim if the water has poison in it. *Why:* Osamu Shimomura found the green protein in a jellyfish and shared a Nobel Prize for it in 2008. Each tool works because living light shows where living cells are, or whether they are healthy.
+9. (truefalse) Your body gives out a very faint light, about a thousand times too weak for your eyes to see.  
    **Answer:** True. *Why:* True. In 2009, scientists in Japan photographed it with a super-sensitive camera in total darkness. What it can tell us is still being studied.
-9. (mcq) In the cold light test, your hand felt warm by the candle, but not by the glow stick. What does this show?  
-   Options: The glow stick turns its energy into light, with almost no heat / The glow stick has no energy / The candle makes no light / Light and heat are always the same thing  
-   **Answer:** The glow stick turns its energy into light, with almost no heat. *Why:* Both make light, but the flame also makes a lot of heat. The glow stick, like a firefly, makes cold light. Picking 'no energy' misses that light itself is energy.
-10. (write) Design a light for a village path near a firefly field. Say two things you would do, and why.  
-   **Answer:** For example: put a shade on top so the light points only down at the path. Use a dim, warm lamp, and switch it off late at night. This keeps people safe and leaves the field dark for fireflies.. *Why:* Any two ideas that light the path but keep light away from the fireflies are good.
-11. (mcq) A deep-sea fish called a cookiecutter shark glows all over their belly, except for a dark collar. Scientists think the dark collar looks like a small fish from below. Why might that help the shark?  
-   Options: Bigger fish swim up to bite the 'small fish', and the shark bites them instead / It helps the shark sleep / It keeps the shark warm / It shows the shark where the sea floor is  
-   **Answer:** Bigger fish swim up to bite the 'small fish', and the shark bites them instead. *Why:* The dark patch may work as a lure, like the anglerfish's glow. Light and dark can both be used to trick. Picking 'keeps warm' misses that living light is cold.
-12. (write) The mushrooms in Meghalaya were known to local people long before scientists named them in 2020. Who do you think discovered them? Explain your answer.  
-   **Answer:** There is no single right answer. Local people knew them first and used their glow. Scientists described them for the rest of the world and studied them. Both kinds of knowing matter, and both deserve credit.. *Why:* This question is about fairness and how we know things. Any thoughtful answer with a reason is good.
-13. (draw) Draw a deep-sea scene with three animals. Give each one a light with a different job: catch, hide, scare or talk. Label the jobs.  
-   **Answer:** For example, an anglerfish with a lure (catch), a hatchetfish with belly lights (hide), and a jellyfish flashing a ring (scare).. *Why:* Each glow should match a real job that light does in the dark sea.
+10. (mcq) On a cool night, many fireflies flash more slowly than on a warm night. Which idea from the glow stick test explains this best?  
+   Options: Cold slows down the chemical reactions in their bodies / Fireflies save their light for summer / Cold air has no oxygen in it  
+   **Answer:** Cold slows down the chemical reactions in their bodies. *Why:* Just as the glow stick in icy water reacted slowly, the chemistry inside a firefly runs slower in the cold. Picking 'cold air has no oxygen' is wrong: cold air has just as much oxygen.
+11. (perspective) Glowing bamboo mushrooms grow near Mawlynnong in Meghalaya. Scientists gave them a name in 2020. Who discovered them?  
+   **Answer:** A strong answer picks a side with a reason, for example that people who knew the mushrooms first discovered them. It then says what the other side adds, for example that naming and studying let the whole world learn about them. It may say both should be credited.. *Why:* This is a real question about fairness and about different ways of knowing. Local knowledge came first. Science shared it widely. Both matter.
+12. (mcq) A cookiecutter shark is a small shark that takes round bites out of bigger fish. Their belly glows all over, except for a dark collar. From below, the collar may look like a small fish. Why might that help the shark?  
+   Options: Bigger fish swim up to catch the 'small fish', and the shark bites them instead / It helps the shark sleep / It keeps the shark warm  
+   **Answer:** Bigger fish swim up to catch the 'small fish', and the shark bites them instead. *Why:* The dark patch may work as a lure, like the anglerfish's glow. Light and dark can both be used to trick. Picking 'keeps warm' misses that living light is cold.
+13. (draw) Draw a deep-sea scene with three animals. Give each one a light with a different job: catch food, hide, scare an attacker or talk. Label the jobs.  
+   **Answer:** For example, an anglerfish with a lure (catch food), a hatchetfish with belly lights (hide), and a jellyfish flashing a ring (scare).. *Why:* A strong drawing puts each light on the part of the body where real animals have it, and matches it to a job that light really does in the dark sea.
 14. (mcq) Why do glowing mushrooms look plain and brown in the daytime?  
-   Options: Their faint glow is still there, but sunlight is far brighter / They stop being alive in the day / They soak up the glow back inside / They are different mushrooms  
-   **Answer:** Their faint glow is still there, but sunlight is far brighter. *Why:* A faint light is hard to see next to a bright one. In the dark, the same faint glow stands out. Picking 'stop being alive' misses that the mushroom lives day and night. Some fungi do glow dimmer by day, but it is mostly the sunlight hiding them.
-15. (truefalse) Sea sparkle glows most where waves crash, because they flash when the water is stirred.  
-   **Answer:** True. *Why:* True. Sea sparkle flashes when they are disturbed, so the brightest glow is in breaking waves and around moving feet.
+   Options: Their faint glow is still there, but sunlight is far brighter / They stop being alive in the day / They are different mushrooms  
+   **Answer:** Their faint glow is still there, but sunlight is far brighter. *Why:* A faint light is hard to see next to a bright one. In the dark, the same faint glow stands out. Picking 'stop being alive' misses that the mushroom lives day and night. Some fungi do glow a little dimmer by day, but mostly the sunlight hides the glow.
+15. (write) In the glow-in-the-dark star test, star A got 10 seconds of torchlight and glowed for 3 minutes. Star B got 60 seconds and glowed for 7 minutes. Priya, a girl in Class 4, says, 'So the stars make light, like fireflies.' What is wrong with her thinking?  
+   **Answer:** The results show the opposite. The more light the star soaked up, the longer it glowed. So it is giving back stored light, not making new light. A firefly makes new light from chemicals, even in a dark room.. *Why:* A strong answer uses the numbers as evidence: more light in gave more glow out. It contrasts this with a firefly, who needs no light to glow.
 
 ## Videos
 - **The weird, wonderful world of bioluminescence** (TED (Edith Widder), 12 min) id `IDkSDPgrtjs`: Edith Widder, a deep-sea scientist, shows real film of glowing animals and explains the four jobs of living light. Good for the parent, and gripping for children. *Check:* Found by YouTube search: "Edith Widder: The weird and wonderful world of bioluminescence" by TED. Title checked automatically; a parent may still preview it.
@@ -740,48 +734,51 @@ Iba crouched beside them for a long time. Then she said thank you, softly, which
 - **Beach glows as glowing plankton shows up** (9 News Australia, 3 min) id `nl1iarEo9Ms`: A short news film of waves glowing blue in Australia. The same kind of glow is seen on some nights on Indian beaches, such as Juhu in Mumbai and beaches near Chennai and Goa. *Check:* Found by YouTube search: "Beach glows as bioluminescent algae shows up in SA | 9 News Australia" by 9 News Australia. Title checked automatically; a parent may still preview it.
 
 ## Quiz
-1. (mcq) What is living light?  
-   Options: Light a living thing makes themself, with chemistry / Sunlight bouncing off a living thing / Light from a lamp / Any light at night  
-   **Answer:** Light a living thing makes themself, with chemistry. *Why:* Living light is made by the living thing themself. Picking 'sunlight bouncing off' mixes up making light with sending back light.
-2. (mcq) Which of these makes its own light?  
-   Options: A firefly / The Moon / A mirror / A white shirt  
-   **Answer:** A firefly. *Why:* A firefly makes light with chemistry. The Moon, a mirror and a shirt only send back light from the Sun or a lamp. Picking the Moon is very common, because the Moon looks bright, but its light is borrowed sunlight.
+1. (mcq) Which of these is living light?  
+   Options: A firefly's flash / A glow stick at a wedding / A glow-in-the-dark star  
+   **Answer:** A firefly's flash. *Why:* Living light is made by a living being. A glow stick uses the same kind of chemistry, but nobody alive is making it. A glow-in-the-dark star only gives back stored light.
+2. (mcq) A leaf shines in the sunshine. Is that living light?  
+   Options: No, the leaf is only sending back sunlight / Yes, because the leaf is alive / Yes, but only at noon  
+   **Answer:** No, the leaf is only sending back sunlight. *Why:* Being alive is not enough. Living light is light a being makes themself, with chemistry. In the dark, the leaf shows nothing.
 3. (mcq) Where do glowing mushrooms usually grow?  
-   Options: On rotting wood in damp forests / In deserts / On the tops of mountains in snow / In the deep sea  
+   Options: On rotting wood in damp forests / In deserts / In the deep sea  
    **Answer:** On rotting wood in damp forests. *Why:* Glowing fungi grow on damp, rotting wood, like the fallen bamboo near Mawlynnong in Meghalaya. Picking 'deep sea' mixes them up with glowing fish.
 4. (mcq) Where on Earth do the most glowing animals live?  
-   Options: In the sea, especially the deep sea / In deserts / In cities / In snowy mountains  
+   Options: In the sea, especially the deep sea / In deserts / In cities  
    **Answer:** In the sea, especially the deep sea. *Why:* In the deep sea, about three out of four animals can make light. Picking 'cities' may come from all the lamps there, but those are not living lights.
-5. (mcq) What does a firefly need from the air to make light?  
-   Options: Oxygen / Smoke / Water vapour / Sunlight  
+5. (mcq) On some nights, the waves on beaches near Chennai and Mangaluru glow blue. What makes the glow?  
+   Options: Tiny living beings in the water called sea sparkle / Moonlight on the waves / Oil from boats  
+   **Answer:** Tiny living beings in the water called sea sparkle. *Why:* Sea sparkle are tiny one-celled living beings. They flash blue when the water is stirred. Moonlight on waves is silver and does not flash.
+6. (mcq) What does a firefly need from the air to make light?  
+   Options: Oxygen / Smoke / Sunlight  
    **Answer:** Oxygen. *Why:* Luciferin reacts with oxygen to make light. Picking 'sunlight' mixes the firefly up with glow-in-the-dark stars, which need light first.
-6. (mcq) You gently hold a glowing firefly. How warm does their light feel?  
-   Options: Not warm at all / Hot, like a bulb / Burning, like a flame  
-   **Answer:** Not warm at all. *Why:* Living light is cold light. It makes almost no heat. Picking 'hot' usually means thinking all light comes with heat.
-7. (mcq) An anglerfish's glowing lure is used to…  
-   Options: Catch food / Hide / Keep warm / See the sea floor  
-   **Answer:** Catch food. *Why:* Small fish swim to the light and are eaten. Picking 'see the sea floor' treats the lure as a headlamp.
-8. (mcq) A hatchetfish has lights on their belly. They help them…  
-   Options: Hide their dark shape from hunters below / Catch food / Talk to friends far away / Stay warm  
-   **Answer:** Hide their dark shape from hunters below. *Why:* Belly lights match the faint light from above, so the fish's dark outline vanishes. Picking 'catch food' mixes it up with a lure.
-9. (mcq) In the glow stick test, one glow stick was in icy water and one in warm water. Which glowed brighter?  
-   Options: The warm one / The icy one / Both the same  
-   **Answer:** The warm one. *Why:* Warmth makes the chemicals react faster, so more light comes out. Picking 'the icy one' may come from thinking cold things shine.
+7. (mcq) A firefly's light goes off. What has the firefly stopped doing?  
+   Options: Letting air into their lantern / Eating / Flying  
+   **Answer:** Letting air into their lantern. *Why:* Without fresh oxygen from the air, the reaction stops and so does the light. A firefly can sit still and still flash.
+8. (mcq) A firefly flashes a code to find a partner. Which job of living light is that?  
+   Options: Talking / Hiding / Catching food  
+   **Answer:** Talking. *Why:* Living light has four main jobs: talking, catching food, hiding and scaring off an attacker. A flash code is a message, so it is talking.
+9. (mcq) A small squid in Hawaii keeps glowing bacteria under their body. On moonlit nights the glow hides their shadow from hunters below. Which job is that?  
+   Options: Hiding / Talking / Catching food  
+   **Answer:** Hiding. *Why:* The glow fills in the dark shadow, so hunters below cannot see the squid. That is hiding.
 10. (mcq) To make the glow stick test fair, what must be different between the glasses?  
-   Options: Only how warm the water is / The colour of each glow stick / The size of each glass / Everything  
-   **Answer:** Only how warm the water is. *Why:* A fair test changes just one thing. If the colours or glasses were different too, we would not know what caused the change. Picking 'everything' is a common first idea. Then we could never tell which change mattered.
-11. (mcq) A glow-in-the-dark star stops glowing after a while. Why?  
-   Options: It has given back all the light it soaked up / It got too cold / It ran out of oxygen / It fell asleep  
-   **Answer:** It has given back all the light it soaked up. *Why:* Glow-in-the-dark stars only store light. When the stored light is used up, they go dark, until a light charges them again. Picking 'ran out of oxygen' mixes it up with living light, which needs oxygen.
-12. (mcq) Which is true?  
-   Options: A firefly makes new light, but a glow-in-the-dark star only gives back stored light / Both make brand-new light / Both only give back stored light / Neither one glows  
-   **Answer:** A firefly makes new light, but a glow-in-the-dark star only gives back stored light. *Why:* The firefly uses a chemical reaction. The star stores light from a torch or the Sun. Picking 'both make new light' mixes up glowing with making light.
-13. (mcq) What do bright lights at night do to fireflies?  
-   Options: Hide their flashes, so they find fewer partners / Help them see their partners / Give them food / Nothing at all  
+   Options: Only how warm the water is / The colour of each glow stick / Everything  
+   **Answer:** Only how warm the water is. *Why:* A fair test changes just one thing. If the colours were different too, we would not know what caused the change. Picking 'everything' is a common first idea, but then we could never tell which change mattered.
+11. (mcq) In the glow stick test, why did we snap all three sticks at the same moment?  
+   Options: So that no stick had a head start / Because they only work in threes / So they would all be the same colour  
+   **Answer:** So that no stick had a head start. *Why:* A stick snapped earlier would already be using up its chemicals. Starting together keeps the test fair.
+12. (mcq) A glow-in-the-dark star stops glowing after a while. Why?  
+   Options: It has given back all the light it soaked up / It got too cold / It ran out of oxygen  
+   **Answer:** It has given back all the light it soaked up. *Why:* Glow-in-the-dark stars only store light. When the stored light is used up, they go dark until a light charges them again. Picking 'ran out of oxygen' mixes it up with living light, which needs oxygen.
+13. (mcq) Which is true?  
+   Options: A firefly makes new light, but a glow-in-the-dark star only gives back stored light / Both make brand-new light / Both only give back stored light  
+   **Answer:** A firefly makes new light, but a glow-in-the-dark star only gives back stored light. *Why:* The firefly uses a chemical reaction. The star stores light from a torch or the Sun. Picking 'both make new light' mixes up glowing and making light.
+14. (mcq) What do bright lights at night do to fireflies?  
+   Options: Hide their flashes, so they find fewer partners / Help them see their partners / Nothing at all  
    **Answer:** Hide their flashes, so they find fewer partners. *Why:* Bright lights drown out faint firefly flashes. Picking 'help them see' may come from moths, which fly to lights. Fireflies are different.
-14. (mcq) Why do mushrooms glow?  
-   Options: Scientists are still not sure. One idea is that the glow brings insects that spread spores / To find partners, like fireflies / To keep warm at night / Because they swallowed fireflies  
-   **Answer:** Scientists are still not sure. One idea is that the glow brings insects that spread spores. *Why:* For one Brazilian mushroom, tests show the glow brings insects. For most other fungi, nobody knows yet. Picking 'to find partners' gives fungi eyes they do not have.
+15. (mcq) Why do mushrooms glow?  
+   Options: Scientists are still not sure. One idea is that the glow brings insects that spread spores / To find partners, like fireflies / To keep warm at night  
+   **Answer:** Scientists are still not sure. One idea is that the glow brings insects that spread spores. *Why:* For one Brazilian mushroom, tests show the glow brings insects. For most other fungi, nobody knows yet. Picking 'to find partners' fits fireflies, who signal to their own kind, not fungi.
 
 ## Applications
 - Glow sticks, used for safety at night, in camping, at sea and at celebrations, work by the same kind of chemistry as fireflies.

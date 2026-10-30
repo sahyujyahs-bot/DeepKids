@@ -112,7 +112,7 @@
      "title": "Sow your windowsill field",
      "mins": 18,
      "ref": "e1",
-     "do": "Do Experiment e1. Your child is the farmer. First they prepare the field: break lumps in the soil with their fingers and pick out stones and sticks. Then they do the ball test. Squeeze a little soil in a fist. If water drips out, it is too wet. If it falls apart like powder, it is too dry. If it holds together and crumbles when poked, it is just right. Then sow: three rows of methi seeds pressed in half a centimetre deep, and two rows of moong seeds two centimetres deep. Ask: 'Why do you think big seeds go deeper than small ones?' (A big seed has more stored food, so its shoot can push up further.) Water gently. Start the farm diary: the date, what was sown, and a guess of how many days until the first shoots."
+     "do": "Do Experiment e1. Your child is the farmer. First they prepare the field: break lumps in the soil with their fingers and pick out stones and sticks. Then they do the ball test. Squeeze a little soil in a fist. If water drips out, it is too wet. If it falls apart like powder, it is too dry. If it holds together and crumbles when poked, it is just right. Then sow: three rows of methi seeds pressed in half a centimetre deep, and two rows of moong seeds two centimetres deep. Ask: 'Why do you think big seeds go deeper than small ones?' (A big seed has more stored food, so their shoot can push up further.) Water gently. Start the farm diary: the date, what was sown, and a guess of how many days until the first shoots."
     }
    ],
    "need": [
@@ -238,7 +238,7 @@
      "title": "The water race",
      "mins": 18,
      "ref": "e2",
-     "do": "Do Experiment e2. Set up three bottle funnels with a cloth over each neck. Put one cup of sand in the first, one cup of multani mitti in the second, and one cup of garden soil in the third. Ask: 'If we pour the same water into all three, which will let it through fastest? Which will hold it?' Write the guesses. Pour 200 millilitres into each at the same time. After 5 minutes, measure the water in each cup below. Ask: 'How much did each soil hold?' (200 minus what came through.) Good answers: water rushes through sand, and clay lets very little through, with water still sitting on top."
+     "do": "Do Experiment e2. Set up three bottle funnels with a cloth over each neck. Put one cup of sand in the first, one cup of multani mitti in the second, and one cup of garden soil in the third. Ask: 'If we pour the same water into all three, which will let it through fastest? Which will hold it?' Write the guesses. Pour 200 millilitres into each at the same time. After 5 minutes, measure the water in each cup below. Ask: 'How much did each soil hold?' (200 minus what came through. Water still sitting on top of the clay has not soaked in.) Good answers: water rushes through sand, and clay lets very little through, with water still sitting on top."
     },
     {
      "kind": "talk",
@@ -278,7 +278,7 @@
      "kind": "talk",
      "title": "What a plant takes from the soil",
      "mins": 10,
-     "do": "Say: 'A plant makes its own food from air, water and sunlight. But it also needs small amounts of nutrients from the soil.' Write N, P and K. Nitrogen (N) helps make green leaves. Phosphorus (P) helps roots and seeds. Potassium (K) helps the plant stay strong against disease and drought. Ask: 'Where does nitrogen in the soil come from?' Then tell: 'Air is mostly nitrogen, but plants can't use it from the air. Some bacteria can. Bacteria called Rhizobium live in little lumps, called nodules, on the roots of dal plants like moong, chana and groundnut. They turn nitrogen from the air into a form the plant can use. In return the plant feeds them sugar.' Ask: 'Why might a farmer grow a dal crop in a field before wheat?' (The dal crop's bacteria leave nitrogen in the soil.) Say: 'Soil is full of life. One teaspoon of healthy soil can hold hundreds of millions of bacteria, as well as fungi and tiny animals.'"
+     "do": "Say: 'A plant makes their own food from air, water and sunlight. But plants also need small amounts of nutrients from the soil.' Write N, P and K. Nitrogen (N) helps make green leaves. Phosphorus (P) helps roots and seeds. Potassium (K) helps the plant stay strong against disease and drought. Ask: 'Where does nitrogen in the soil come from?' Then tell: 'Air is mostly nitrogen, but plants can't use it from the air. Some bacteria can. Bacteria called Rhizobium live in little lumps, called nodules, on the roots of legumes. Legumes are the bean and dal family, such as moong, chana and groundnut. They turn nitrogen from the air into a form the plant can use. In return the plant feeds them sugar.' Ask: 'Why might a farmer grow moong in a field before wheat?' (The bacteria in the moong roots leave nitrogen in the soil.) Say: 'Soil is full of life. One teaspoon of healthy soil can hold hundreds of millions of bacteria, as well as fungi and tiny animals.'"
     },
     {
      "kind": "act",
@@ -340,7 +340,7 @@
      "kind": "think",
      "title": "What is a weed?",
      "mins": 6,
-     "do": "Ask: 'Is a weed a kind of plant?' Wait for an answer. Then say: 'A weed is any plant growing where people don't want it. The same plant can be a weed in a wheat field and a food or medicine somewhere else.' Tell your child that many families in South India pick leafy greens, called keerai, that grow on their own at the edges of fields. Ask: 'From the plant's point of view, is it a weed?'"
+     "do": "Ask: 'Is a weed a kind of plant?' Wait for an answer. Then say: 'A weed is any plant growing where people don't want them to grow. The same plant can be a weed in a wheat field and a food or medicine somewhere else.' Tell your child that many families in South India pick leafy greens, called keerai, that grow on their own at the edges of fields. Ask: 'From the plant's point of view, is it a weed?'"
     }
    ],
    "need": [
@@ -407,7 +407,7 @@
      "kind": "talk",
      "title": "How farmers keep their soil",
      "mins": 8,
-     "do": "Say: 'When water or wind carries soil away, it is called erosion.' Tell four ways farmers stop it, and ask your child to point to which one Selvi and Appa used. 1. Bunds: low walls of earth or stone built across a slope, along its shape. Water stops at each one and drops its soil. 2. Terraces: a hillside cut into flat steps, as on tea and rice hills in Kerala, the Nilgiris and Nagaland. 3. Mulch and cover: dry leaves, straw or a cover crop protect the soil from hard raindrops. 4. Trees and grass strips: their roots hold the soil and slow the wind. Ask: 'Why should ploughing run across a slope, not down it?'"
+     "do": "Say: 'When water or wind carries soil away, it is called erosion.' Tell four ways farmers stop it, and ask your child to point to which one Selvi and Appa used. 1. Bunds: low walls of earth or stone built across a slope, along its shape. Water stops at each one and drops its soil. 2. Terraces: a hillside cut into flat steps, as on tea and rice hills in Kerala, the Nilgiris and Nagaland. 3. Mulch and cover: dry leaves, straw or a cover crop protect the soil from hard raindrops. 4. Trees and grass strips: their roots hold the soil and slow the wind. Ask: 'Why should ploughing run across a slope, not down it?' (Each furrow then holds back the water like a small bund, so it soaks in instead of rushing down and carrying soil.)"
     },
     {
      "kind": "talk",
@@ -443,7 +443,7 @@
      "title": "Harvest the field",
      "mins": 8,
      "ref": "e1",
-     "do": "Look at the field in Experiment e1 one last time. If the methi is 5 to 8 centimetres tall, your child snips it just above the soil with scissors, washes it, and adds it to dinner. If it is smaller, wait a few more days. Gently pull up one moong plant and wash the soil off its roots. Ask: 'Can you see any small lumps on the roots?' (These could be the nodules where Rhizobium bacteria live. Not every plant has them. It depends on whether the bacteria were in the soil.) Your child writes the harvest in the farm diary and draws the moong roots."
+     "do": "Look at the field in Experiment e1 one last time. If the methi is 5 to 8 centimetres tall, your child snips the plants just above the soil with scissors, washes the leaves, and adds them to dinner. If the plants are smaller, wait a few more days. Gently pull up one moong plant and wash the soil off its roots. Ask: 'Can you see any small lumps on the roots?' (These could be the nodules where Rhizobium bacteria live. Not every plant has them. It depends on whether the bacteria were in the soil.) Your child writes the harvest in the farm diary and draws the moong roots."
     },
     {
      "kind": "ws",
@@ -551,7 +551,7 @@
       },
       {
        "t": "mcq",
-       "p": "Meena pours the same water into funnels of sand, clay and garden soil. Through which does water run fastest?",
+       "p": "Meena, a girl in Class 5, pours the same water into funnels of sand, clay and garden soil. Through which does water run fastest?",
        "opts": [
         "sand",
         "clay",
@@ -606,7 +606,7 @@
       },
       {
        "t": "write",
-       "p": "A plant in a pot of clay soil is watered every day and its roots rot. Explain why.",
+       "p": "A plant in a pot of clay soil is watered every day and their roots rot. Explain why.",
        "lines": 3
       }
      ]
@@ -658,7 +658,7 @@
      [
       {
        "t": "sort",
-       "p": "Kavya's family grows ragi. Sort their jobs into before sowing and after the crop is ripe.",
+       "p": "Kavya's family farms near Mysuru and grows ragi. Sort their jobs into before sowing and after the crop is ripe.",
        "items": [
         "ploughing",
         "levelling the field",
@@ -674,7 +674,7 @@
       },
       {
        "t": "mcq",
-       "p": "Farhan squeezes a lump of soil and water drips out. What should his family do before ploughing?",
+       "p": "Farhan's family is about to plough. He squeezes a lump of their soil and water drips out. What should the family do before ploughing?",
        "opts": [
         "plough at once",
         "wait for the soil to dry a little",
@@ -706,7 +706,7 @@
       },
       {
        "t": "fill",
-       "p": "Bacteria in the root nodules of dal plants take ____ from the air and turn it into a form the plant can use.",
+       "p": "Bacteria in the root nodules of legumes, such as moong and chana, take ____ from the air and turn it into a form the plant can use.",
        "a": [
         "nitrogen"
        ]
@@ -718,7 +718,7 @@
      [
       {
        "t": "mcq",
-       "p": "Arjun pours the same rain on two boxes of soil. Which gives the muddiest water?",
+       "p": "Lakshmi, a girl in Class 5, pours the same water on two boxes of soil, one bare and one covered with dry leaves. Which gives the muddiest water?",
        "opts": [
         "the box covered with dry leaves",
         "the bare box",
@@ -738,7 +738,7 @@
       },
       {
        "t": "write",
-       "p": "Appa took red silt from the dry tank bed back to his field. Where had the silt come from, and why was it worth carrying back?",
+       "p": "In the story 'The Field That Ran Red', Selvi's father took red silt from the dry tank bed back to his field. Where had the silt come from, and why was it worth carrying back?",
        "lines": 3
       },
       {
@@ -819,7 +819,7 @@
       },
       {
        "t": "write",
-       "p": "Sikkim changed to organic farming slowly, over about ten years. Sri Lanka banned chemical fertilisers almost overnight, and harvests fell. Why might the speed of a change matter as much as the idea?",
+       "p": "Sikkim changed to organic farming slowly, over about twelve years. Sri Lanka banned chemical fertilisers almost overnight, and harvests fell. Why might the speed of a change matter as much as the idea?",
        "lines": 4
       },
       {
@@ -1084,7 +1084,7 @@
    "then": "Many scholars of his time thought the Earth was only a few thousand years old. A popular theory said all rocks had settled out of one great ocean. Hutton's writing was long and hard to read, and few people accepted his ideas while he lived. His friend John Playfair explained them clearly in 1802.",
    "now": "Accepted. Geologists agree that rocks are recycled over very long times and that the Earth is about 4.5 billion years old. They now know that moving plates of the Earth's crust drive much of the rock cycle, which Hutton did not know.",
    "status": "accepted",
-   "ask": "Hutton could not watch a rock form. What clues did he use instead? What clue in your crayon cycle shows which 'rock' came first?",
+   "ask": "Hutton could not watch a rock form. What clues did he use instead?",
    "day": 2
   },
   {
@@ -1112,7 +1112,7 @@
    "who": "M.S. Swaminathan (1925–2023), agricultural scientist, India, and Norman Borlaug (1914–2009), USA: the Green Revolution",
    "idea": "In the 1960s India faced food shortages and bought wheat from abroad. Borlaug had bred short, high-yielding wheat in Mexico. Swaminathan, born in Kumbakonam in Tamil Nadu, brought these wheats to India and, with Indian plant breeders, tested and adapted them. Grown with irrigation and fertiliser, they gave far more grain. India's wheat harvest roughly doubled between 1964–65 and 1970–71. New rice varieties followed. Borlaug won the Nobel Peace Prize in 1970.",
    "then": "Some officials feared farmers would not take up the new seeds. Farmers in Punjab, Haryana and western Uttar Pradesh took them up quickly, and India stopped needing food aid.",
-   "now": "Debated. Most agree it prevented hunger and made India grow enough grain. The costs are argued about: groundwater falling in Punjab and Haryana, too much fertiliser in some places, soils losing humus, and many local crop varieties no longer grown. The benefits went mostly to areas with irrigation. Critics such as Vandana Shiva say the costs are too high. Swaminathan himself called for an 'evergreen revolution' that raises harvests without harming soil and water. Organic farming is debated too. Sikkim became fully organic in 2016 after changing over about ten years. Sri Lanka banned chemical fertilisers suddenly in 2021, harvests fell, and the ban was lifted within months.",
+   "now": "Debated. Most agree it prevented hunger and made India grow enough grain. The costs are argued about: groundwater falling in Punjab and Haryana, too much fertiliser in some places, soils losing humus, and many local crop varieties no longer grown. The benefits went mostly to areas with irrigation. Critics such as Vandana Shiva say the costs are too high. Swaminathan himself called for an 'evergreen revolution' that raises harvests without harming soil and water. Organic farming is debated too. Sikkim became fully organic in 2016 after changing over about twelve years. Sri Lanka banned chemical fertilisers suddenly in 2021, harvests fell, and the ban was lifted within months.",
    "status": "debated",
    "ask": "The Green Revolution fed crores of people but used up groundwater. How should we judge a solution that fixes one big problem and causes another? What would you want to measure?",
    "day": 8
@@ -1213,7 +1213,7 @@
   },
   {
    "idea": "Every rock is on its way to becoming another rock.",
-   "more": "Granite weathers into sand, sand becomes sandstone, heat and squeezing change rock, and melted rock cools into new granite. The crayon cycle shows that no rock is a beginning or an end."
+   "more": "Granite weathers into sand, sand becomes sandstone, heat and squeezing change rock, and melted rock cools into new granite. The crayon cycle shows that each rock is made from another and can turn into another."
   },
   {
    "idea": "Soil is a meeting of rock and life.",
@@ -1227,7 +1227,7 @@
  "unknowns": [
   "Nobody knows exactly how fast soil is being lost across India or the world. Measuring it over whole countries is hard, and different methods give very different answers.",
   "Scientists disagree about how much carbon soils can store, and for how long, if farmers add compost or stop ploughing. It matters for climate change, and studies give different results.",
-  "Plant roots, fungi and bacteria trade sugar, water and nutrients underground. How they 'decide' what to give and take is only partly understood.",
+  "Plant roots, fungi and bacteria trade sugar, water and nutrients underground. How they decide what to give and take is only partly understood.",
   "Nobody knows when Earth's crust first began moving in plates that drive the rock cycle. Estimates range from over 4 billion years ago to under 1 billion."
  ],
  "big": [
@@ -1235,7 +1235,7 @@
   "If soil takes a thousand years to make, how should a farmer who lives sixty years treat it?",
   "Is it better to grow as much food as possible this year, or to keep the soil rich for a hundred years? Can you do both?",
   "A rock looks still, but it is always slowly changing. Is anything truly still?",
-  "Every grain of rice you eat grew in soil that was once rock. Where do you end and the Earth begin?"
+  "Some of the calcium in your bones came from rock, through soil and food. What else in you was once part of the ground?"
  ],
  "challenge": [
   {
@@ -1244,7 +1244,7 @@
   },
   {
    "q": "'Chemical fertiliser poisons the soil.'",
-   "hint": "Measured fertiliser gives a crop the nutrients it lacks, and it helped India grow enough grain. Problems come from using too much, from using the wrong balance, such as too much urea, and from forgetting humus. That is why soil testing matters: India gives farmers Soil Health Cards that show what their soil lacks. Ask: is the problem the fertiliser, or how it is used?"
+   "hint": "Measured fertiliser gives crops the nutrients they lack, and it helped India grow enough grain. Problems come from using too much, from using the wrong balance, such as too much urea, and from forgetting humus. That is why soil testing matters: India gives farmers Soil Health Cards that show what their soil lacks. Ask: is the problem the fertiliser, or how it is used?"
   },
   {
    "q": "'Weeds are always bad for a farm.'",
@@ -1258,7 +1258,7 @@
   },
   {
    "who": "An earthworm",
-   "view": "For a worm, soil is food, home and road all at once. It swallows soil and dead leaves and leaves rich castings behind, which open up air spaces as it moves. Ask: if worms could speak at a farmers' meeting, what would they ask for?"
+   "view": "For a worm, soil is food, home and road all at once. Worms swallow soil and dead leaves and leave rich castings behind. Their tunnels open up air spaces in the soil. Ask: if worms could speak at a farmers' meeting, what would they ask for?"
   },
   {
    "who": "A potter in Kumbakonam",
@@ -1321,7 +1321,7 @@
    "a": "Roots need air to breathe. If every gap is full of water, as in waterlogged clay, roots can rot."
   },
   {
-   "q": "How do moong and other dal plants add nitrogen to the soil?",
+   "q": "How do moong and other legumes add nitrogen to the soil?",
    "a": "Rhizobium bacteria in nodules on their roots take nitrogen from the air and turn it into a form plants can use."
   },
   {

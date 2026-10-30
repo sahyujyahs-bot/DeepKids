@@ -26,7 +26,7 @@
 - **Venn diagram**: A drawing of overlapping circles. Each circle is one rule. Things that fit both rules go where the circles overlap. *e.g.* One circle for shiny, one for hard. The spoon goes in the overlap.
 - **Carroll table**: A table that sorts things by two yes or no rules. It is also called a Carroll diagram. It has four boxes: yes and yes, yes and no, no and yes, no and no. *e.g.* The boxes are shiny and hard, shiny and soft, dull and hard, dull and soft.
 - **Yes or no question**: A question that can only be answered with yes or no. Good sorting uses these. *e.g.* 'Is it made of metal?' can be answered yes or no.
-- **Branching key**: A chart of yes or no questions that finds one thing from a group, step by step. It looks like a tree turned on its side. *e.g.* A key for a brick, ice, a balloon and paper asks 'Is it hard?' Yes. Then 'Is it shiny?' No. So it is the brick.
+- **Branching key**: A chart of yes or no questions that finds one thing from a group, step by step. It looks like a tree lying down, with the branches spreading sideways. *e.g.* A key for a brick, ice, a balloon and paper asks 'Is it hard?' Yes. Then 'Is it shiny?' No. So it is the brick.
 - **Tally**: A way of counting by making one mark for each thing. The fifth mark crosses the first four. *e.g.* Four marks and a line across make five.
 - **Test**: Something you do to a thing to find out the answer to a rule, instead of guessing. *e.g.* To test hard or soft, press a fingernail into it.
 - **Solid, liquid, gas**: Three groups for the state of a material. A solid keeps its shape. A liquid flows and takes the shape of its container. A gas spreads out to fill all the space it can. *e.g.* A stone is a solid. Water is a liquid. Steam is a gas.
@@ -688,146 +688,122 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   - Think: When we design for someone else, what do they need that we do not? Who gets left out when a rule only works for people who read?
 
 ## Worksheets
-### Sorting Detective (core) (core, 19 questions)
-1. (mcq) What is a sorting rule?  
-   Options: A question that every thing can answer, to decide its group / The name of the group / A rule about how to tidy up / A kind of chart  
-   **Answer:** A question that every thing can answer, to decide its group. *Why:* A sorting rule is a question, such as 'Is it shiny?'. Each thing is checked against it and goes in a group. Picking 'the name of the group' usually means the group and the rule have been mixed up. The group is the result. The rule is the question that makes it.
-2. (mcq) A brick is in the hard group when we sort by hard or soft. It is in the dull group when we sort by shiny or dull. Why?  
-   Options: The brick changed / The rule changed, and the brick stayed the same / The brick is broken / One of the sorts is wrong  
-   **Answer:** The rule changed, and the brick stayed the same. *Why:* The brick did not change. Each rule asks a different question about it. Hard asks one question and dull asks another. Both groups are right. Picking 'one of the sorts is wrong' usually means the child expects only one right way to sort.
-3. (fill) A good sorting rule has a clear yes or no ____.  
-   **Answer:** ['answer']. *Why:* A good rule gives a clear answer, yes or no, and the same answer whoever asks.
-4. (sort) Is it made of metal? Sort these things.  
+### Sorting Detective (core) (core, 16 questions)
+1. (sort) Is it made of metal? Sort these things.  
    **Answer:** steel spoon → Metal; wooden spoon → Not metal; iron nail → Metal; glass bangle → Not metal; aluminium foil → Metal; plastic comb → Not metal. *Why:* Steel, iron and aluminium are metals. Wood, glass and plastic are not. The glass bangle is shiny like metal, but shiny is a different rule.
-5. (sort) Is it shiny? Sort these things.  
+2. (sort) Is it shiny? Sort these things.  
    **Answer:** steel spoon → Shiny; wooden spoon → Dull; glass bangle → Shiny; woollen sock → Dull; foil ball → Shiny; clay diya → Dull. *Why:* Shiny things show a bright reflection. Dull things do not. Notice that the glass bangle is shiny but not metal, and the foil ball is shiny and metal.
-6. (mcq) Which of these is a good rule for sorting?  
-   Options: Is it shiny? / Is it pretty? / Is it nice to hold? / Is it my favourite?  
-   **Answer:** Is it shiny?. *Why:* 'Is it shiny?' has a clear answer that anyone can check by looking. The others depend on who is asked. A rule should give the same answer for everyone.
-7. (truefalse) One thing can be in different groups under different rules.  
-   **Answer:** True. *Why:* True. A steel spoon is in the shiny group, the hard group and the metal group. The spoon stays the same. Each rule asks a different question.
-8. (truefalse) If a thing does not fit any group, the best thing to do is throw it away.  
+3. (write) Look at your two sorts above, 'Is it made of metal?' and 'Is it shiny?'. Which thing was 'not metal' in the first sort but 'shiny' in the second? Why did it move, when nothing about it changed?  
+   **Answer:** The glass bangle. It is not a metal, but it is shiny. A strong answer says the bangle stayed the same. Only the question changed, and each rule asks about a different property.. *Why:* One thing can belong to many groups, because each rule asks one question about it.
+4. (fill) A good sorting rule has a clear yes or no ____.  
+   **Answer:** ['answer']. *Why:* A good rule gives a clear answer, yes or no, and the same answer whoever asks.
+5. (mcq) Anjali sorts a heap of things by the rule 'Is it big?'. Her friend Kavya uses the same rule on the same heap and gets different groups. What is the best fix?  
+   Options: Change the rule to 'Is it longer than my hand?' / Let Anjali decide, because she started / Sort the heap again by the same rule / Use a bigger heap  
+   **Answer:** Change the rule to 'Is it longer than my hand?'. *Why:* 'Big' has no clear line, so two people answer differently. 'Longer than my hand' can be checked, so everyone gets the same answer. Sorting again by the same unclear rule will give the same muddle.
+6. (truefalse) If a thing does not fit any group, the best thing to do is throw it away.  
    **Answer:** False. *Why:* False. A thing that does not fit is useful. It may mean the rule is not clear, or that a new group is needed. Scientists have made new groups because of tricky things.
-9. (match) Match each tricky thing to the best way to deal with it.  
-   **Answer:** A candle is hard, but a fingernail can mark it → Use a test and let the test decide; A plastic cup is a little bendy → Make the rule more exact; Some things are in between → Add a middle group. *Why:* A test settles a tricky case fairly. A more exact rule says what counts. A middle group is for things that are truly between. All three are used by scientists.
-10. (mcq) In a Venn diagram of Shiny and Hard, where does a steel spoon go?  
-   Options: In the Shiny circle only / In the overlap / Outside both circles / In the Hard circle only  
-   **Answer:** In the overlap. *Why:* A steel spoon is shiny and hard. It fits both rules, so it goes in the overlap. Picking one circle only usually means the second rule was forgotten.
-11. (mcq) In a Venn diagram of Shiny and Hard, where does a woollen sock go?  
+7. (mcq) In a Venn diagram of Shiny and Hard, where does a woollen sock go?  
    Options: In the overlap / In the Shiny circle only / Outside both circles  
    **Answer:** Outside both circles. *Why:* A woollen sock is soft and dull. It fits neither rule, so it goes outside both circles. Picking the overlap is common. Some children think the overlap is the place for odd things, but it is for things that fit both.
-12. (mcq) Look at the Carroll table. How many things are dull and soft?  
+8. (mcq) Look at the Carroll table. How many things are dull and soft?  
    Options: 1 / 3 / 5 / 6  
    **Answer:** 5. *Why:* The box where Dull meets Soft holds five things: rubber band, woollen sock, cotton hanky, candle and paper cup. Picking 3 usually means the Dull and Hard box was read. Always check both labels.
-13. (fill) In a branching key, each question splits the group in ____.  
-   **Answer:** ['two', 'half']. *Why:* A good question splits the group into two smaller groups, ideally of equal size.
-14. (mcq) A key starts: 'Is it hard?' If yes: 'Is it shiny?' Yes is ice, no is a brick. If the first answer is no: 'Is it waterproof?' Yes is a balloon, no is paper. What is a hard, shiny thing?  
+9. (mcq) A key starts: 'Is it hard?' If yes: 'Is it shiny?' Yes is ice, no is a brick. If the first answer is no: 'Is it waterproof?' Yes is a balloon, no is paper. What is a hard, shiny thing?  
    Options: Ice / Brick / Balloon / Paper  
    **Answer:** Ice. *Why:* Follow the key. Hard, so yes. Shiny, so yes. That leads to ice. A brick is hard but not shiny. The balloon and the paper are not hard.
-15. (order) Put the steps of making a branching key in order.  
+10. (order) Put the steps of making a branching key in order.  
    **Answer:** order shown. *Why:* First choose the things. Then ask a question that splits them in half. Keep adding questions on each branch until each thing is alone. Last, test the key on someone else.
-16. (mcq) A kabadiwala keeps paper, glass and iron in different piles. Why?  
-   Options: Each is sold to a different buyer and recycled in its own way / He likes tidy piles / They are different colours / It is the law  
-   **Answer:** Each is sold to a different buyer and recycled in its own way. *Why:* Each material is recycled in its own way, so each pile goes to a different buyer. Picking 'he likes tidy piles' is partly true, but the real reason is the job the sort is for.
-17. (mcq) A farmer tosses grain in a flat basket and the husk blows away. What rule is the wind using?  
-   Options: Light things blow away more than heavy things / Yellow things blow away / Big things blow away / Wet things blow away  
-   **Answer:** Light things blow away more than heavy things. *Why:* Wind moves light things much more than heavy things. So the husk blows away and the grain falls back. Picking 'big things' is common, but a big thing can be light or heavy. Weight is what matters here.
-18. (write) Pick five things from your pencil box or bag. Sort them in two different ways. Write the rule you used each time.  
+11. (write) Pick five things from your pencil box or bag. Sort them in two different ways. Write the rule you used each time.  
    **Answer:** Any two clear rules with sorted lists. For example: Rule 1, made of plastic or not. Rule 2, longer than my hand or not.. *Why:* Any two rules with yes or no answers, and groups that match the rules, are right.
-19. (draw) Draw a Venn diagram with two circles, 'Round' and 'Red'. Put four things in it.  
+12. (draw) Draw a Venn diagram with two circles, 'Round' and 'Red'. Put four things in it.  
    **Answer:** Two overlapping circles. A tomato or a red ball in the overlap. A red book in Red only. A coin in Round only. A pencil outside.. *Why:* A Venn diagram needs overlapping circles, labels and things placed by both rules.
-### Sorting in the Real World (stretch) (stretch, 18 questions)
-1. (mcq) Look at the Carroll table from a child's experiment. Which box has the most things?  
-   Options: Hard and shiny / Hard and dull / Soft and shiny / Soft and dull  
-   **Answer:** Soft and dull. *Why:* The Soft and dull box has five things. The others have three, three and one. Picking Hard and shiny usually means the first box was chosen without counting.
-2. (fill) In the Carroll table, 3 + 3 + 1 + 5 = ____ things were sorted altogether.  
+13. (perspective) Amma asks three girls to sort the kitchen drawer so that things are easy to find. Each girl has a different rule.  
+   **Answer:** A strong answer ties the rule to the job: finding things quickly. Many children choose Farida's rule, because you look for a thing by what you need it for. It then gives a fair point for another rule, for example that Meena's rule is best for recycling, or that Swathi's rule helps you see everything at once.. *Why:* There is no single right way to sort. The best rule is the one that fits the job, and a different job needs a different rule.
+14. (mcq) Revathi hangs a steel tumbler and a plastic tumbler of the same shape from threads. She taps each one with a pencil. Which will ring for longer?  
+   Options: The steel tumbler / The plastic tumbler / Both the same, because the shape is the same  
+   **Answer:** The steel tumbler. *Why:* Steel rings for a long time when tapped. Plastic gives a short, dull tap. The shape is the same, so the difference comes from the material. Picking 'both the same' trusts the shape and forgets the material.
+15. (mcq) Gowri has a heap of old clothes to give away. Some will go to a baby, and some to grown-ups. Which rule fits this job?  
+   Options: Is it small enough for a baby? / Is it red? / Is it cotton? / Is it folded?  
+   **Answer:** Is it small enough for a baby?. *Why:* The job is to send each piece of clothing to someone it fits, so the rule must be about size. Colour and cloth are real rules, but they do not help with this job.
+16. (truefalse) If two things look exactly the same, they must be made of the same material.  
+   **Answer:** False. *Why:* False. A brass bowl and a kansa bowl can look exactly the same. Tap them, and the kansa bowl rings for a long time while the brass one stops quickly. Looks are only one rule. A test like sound can show a difference that looks miss.
+### Sorting in the Real World (stretch) (stretch, 16 questions)
+1. (fill) In the Carroll table, 3 + 3 + 1 + 5 = ____ things were sorted altogether.  
    **Answer:** ['12', 'twelve']. *Why:* 3 plus 3 is 6. 6 plus 1 is 7. 7 plus 5 is 12. Every thing goes in exactly one box, so the boxes add up to the whole heap.
-3. (mcq) In the Scratch Ladder, a fingernail marks soap but not a plastic comb. A steel nail marks the comb. Which is harder?  
+2. (mcq) In the Scratch Ladder, a fingernail marks soap but not a plastic comb. A steel nail marks the comb. Which is harder?  
    Options: The soap / The plastic comb / They are the same  
    **Answer:** The plastic comb. *Why:* The comb was not marked by the fingernail, but the soap was. So the comb is harder. Picking the soap usually means the ladder was read upside down. A thing that is marked more easily is softer.
-4. (sort) Put these on the right rung of the Scratch Ladder.  
+3. (sort) Put these on the right rung of the Scratch Ladder.  
    **Answer:** soap → Rung 1: a fingernail marks it; candle → Rung 1: a fingernail marks it; wooden spoon → Rung 2: only a steel nail marks it; plastic comb → Rung 2: only a steel nail marks it; ceramic mug → Rung 3: even a steel nail does not mark it; glass jar → Rung 3: even a steel nail does not mark it. *Why:* Soap and candle are marked by a fingernail. Wood and plastic need the steel nail. The glaze on a ceramic mug and a glass jar resist even that.
-5. (mcq) Key A asks 'Is it hard?' first and then splits each half again. Key B asks about one thing at a time. For eight things, which key never needs more than three questions?  
+4. (mcq) Key A asks 'Is it hard?' first and then splits each half again. Key B asks about one thing at a time. For eight things, which key never needs more than three questions?  
    Options: Key A / Key B / Both  
    **Answer:** Key A. *Why:* Key A halves the group each time: 8, 4, 2, 1. So it needs at most three questions. Key B can need seven. Picking Key B usually means counting the lucky first guess and forgetting the unlucky ones.
-6. (fill) Each good question doubles the number of things a key can tell apart. With four questions, a key can tell apart ____ things.  
+5. (fill) Each good question doubles the number of things a key can tell apart. With four questions, a key can tell apart ____ things.  
    **Answer:** ['16', 'sixteen']. *Why:* One question tells 2 apart, two tell 4, three tell 8 and four tell 16. Doubling each time.
-7. (mcq) Eight things. Four are hard: steel spoon, wooden spoon, plastic comb and glass bangle. Four are soft: rubber band, woollen sock, cotton hanky and candle. Which first question is best for a key?  
-   Options: Is it the steel spoon? / Is it hard? / Is it a spoon? / Is it the candle?  
-   **Answer:** Is it hard?. *Why:* 'Is it hard?' splits the eight things into four and four. The best first question cuts the group in half. The others pick out just one or two things.
-8. (mcq) Two bowls look the same. One rings for a long time when tapped. The other rings only for a moment. What does this show?  
-   Options: Sorting by sound can show a difference that sorting by looks misses / One bowl is dirty / Sound is not a property / The bowls must be the same material  
-   **Answer:** Sorting by sound can show a difference that sorting by looks misses. *Why:* Looks and sounds are different rules. They can sort the same things into different groups. Picking 'the bowls must be the same material' usually means trusting looks too much.
-9. (mcq) Cornflour and water flows slowly, but feels hard if you punch it. Which group does it belong in?  
-   Options: Solid / Liquid / Gas / A tricky middle group, soft matter  
-   **Answer:** A tricky middle group, soft matter. *Why:* It acts like a liquid and like a solid, depending on how fast you move it. Scientists put things like this in a group called soft matter. Picking solid or liquid ignores what the other test showed.
-10. (truefalse) Rice pours like water, so rice is a liquid.  
+6. (truefalse) Rice pours like water, so rice is a liquid.  
    **Answer:** False. *Why:* False. Each grain is a hard solid. A pile of grains can flow because the grains slide over each other, but each one keeps its shape.
-11. (mcq) In 1869, Mendeleev left some empty places in his table of elements. Why?  
-   Options: He thought undiscovered elements would fill them / He ran out of paper / He forgot some elements / Those elements are not real  
-   **Answer:** He thought undiscovered elements would fill them. *Why:* He saw a pattern, and the pattern had gaps. He said new elements would be found to fit. Gallium, scandium and germanium were found later, and matched. Picking 'forgot' misses that the gaps were on purpose, and that they were a prediction.
-12. (match) Match each person to what they sorted.  
+7. (match) Match each person to what they sorted.  
    **Answer:** Dmitri Mendeleev → the elements, into the periodic table; Annie Jump Cannon → stars, by the pattern of their light; Carl Linnaeus → plants and animals, into groups inside groups; Panini → the sounds of speech, by where the mouth makes them. *Why:* Mendeleev sorted atoms in 1869. Cannon sorted about 350,000 stars. Linnaeus sorted living things in the 1700s. Panini, an Indian grammarian, sorted the sounds of Sanskrit more than two thousand years ago.
-13. (mcq) Which star is hottest on its surface?  
-   Options: A red star / A yellow star / A blue-white star / An orange star  
-   **Answer:** A blue-white star. *Why:* Blue-white stars are the hottest. Red stars are the coolest. Picking red is very common, because red makes us think of fire. But a piece of iron that glows red is the coolest a glowing thing can be. Heated more, it glows yellow, then white.
-14. (mcq) A whale lives in water and has fins. Why do scientists call a whale a mammal and not a fish?  
+8. (mcq) A whale lives in water and has fins. Why do scientists call a whale a mammal and not a fish?  
    Options: They breathe air and feed their babies on milk / They are very big / They live in cold water / They have no scales  
    **Answer:** They breathe air and feed their babies on milk. *Why:* Scientists sort by who the whale is related to, not only by how they look. A whale breathes air and is warm-blooded, and a mother whale nurses her young. Picking 'very big' or 'cold water' uses things that are not what scientists sort by.
-15. (write) A botanist says a tomato is a fruit. A cook says it is a vegetable. Can both be right? Explain.  
-   **Answer:** Yes. They use different rules for different jobs. A botanist sorts by how the plant grows seeds. A cook sorts by taste and how food is used in meals.. *Why:* A sort depends on the rule and the job. Both rules can be right for their own purposes.
-16. (write) Design three questions for a key. A blind person must be able to use it to tell apart a spoon, a cloth and a stone. Use touch or sound only.  
+9. (perspective) Is a tomato a fruit or a vegetable? Two people answer in different ways.  
+   **Answer:** A strong answer names both rules: the botanist sorts by which part of the plant the tomato is, and the cook sorts by taste and how it is used in meals. It picks a side for a reason, then admits that the other rule is right for the other person's job.. *Why:* The same tomato lands in two groups because two people use two rules for two jobs. Both sorts are useful.
+10. (write) Design three questions for a key that a person who cannot see can use. It must tell apart a steel spoon, a cotton cloth and a stone. Use touch or sound only.  
    **Answer:** For example: Is it cold when I touch it? Does it ring when I tap it? Is it soft when I squeeze it?. *Why:* Good answers use touch or sound, and each question has a clear yes or no answer.
-17. (sort) Which tool sorts these? Choose the best tool for each.  
+11. (sort) Which tool sorts these? Choose the best tool for each.  
    **Answer:** steel paper clips from rice → Magnet; small stones from big stones → Sieve; light husk from heavy grain → Wind; plastic caps that float from stones that sink → Bowl of water. *Why:* Each tool uses a different rule. A magnet picks out certain metals. A sieve sorts by size. Wind sorts by weight. Water sorts by whether a thing floats.
-18. (order) Put these stars in order, from hottest to coolest. Rigel is blue-white. The Sun is yellow. Betelgeuse is red. Sirius is white.  
-   **Answer:** order shown. *Why:* Blue-white Rigel is hottest. White Sirius is next. The yellow Sun is cooler. Red Betelgeuse is coolest of these four. The order follows the star types B, A, G, M.
-### Who Decides the Rule? (challenge) (challenge, 17 questions)
+12. (write) Look back at your own One Heap, Three Rules results. Which thing changed group most often across your three rules? Why do you think that thing moved so much?  
+   **Answer:** A strong answer names a real thing from the child's own sort and the groups it landed in. For example, the glass bangle was hard, shiny and not metal, so it was with the steel spoon in two sorts and away from it in the third. It explains that the thing has a mix of properties that the rules split differently.. *Why:* Using your own results is evidence. Things with an unusual mix of properties move the most.
+13. (mcq) Priya draws a Venn diagram with two circles, 'Metal' and 'Shiny'. She puts a glass marble in the overlap. What is her mistake?  
+   Options: Glass is not a metal, so the marble goes in the Shiny circle only / Glass is not shiny, so it goes outside both / There is no mistake / A marble cannot go in a Venn diagram  
+   **Answer:** Glass is not a metal, so the marble goes in the Shiny circle only. *Why:* The overlap is only for things that fit both rules. The marble is shiny, but it is glass, not metal. Picking 'no mistake' is common, because shiny things often look like metal.
+14. (mcq) A school library puts its books in groups by subject: stories, science, history. Why not sort them by the colour of the cover?  
+   Options: Readers look for a book by what it is about, not by its colour / Colour is not a real property / Books have no colour / Sorting by colour is against the rules  
+   **Answer:** Readers look for a book by what it is about, not by its colour. *Why:* Colour is a real property, and you could sort by it. But the job is to help readers find a book, and they look by subject. The rule must fit the job.
+15. (draw) Draw a Carroll table with the rules 'Is it made of metal?' and 'Does it float in water?'. Put one thing from home in each of the four boxes.  
+   **Answer:** For example: metal and floats, an empty steel bowl or a foil boat. Metal and sinks, a steel spoon or a nail. Not metal and floats, a wooden spoon or a plastic bottle cap. Not metal and sinks, a stone or a glass marble.. *Why:* A Carroll table has a box for every pair of answers. Finding a metal that floats is the hard part: it shows that shape matters for floating.
+16. (truefalse) A sieve sorts things by how heavy they are.  
+   **Answer:** False. *Why:* False. A sieve sorts by size. A small heavy stone falls through the holes, and a big light leaf stays on top. Many people mix up size and weight.
+### Who Decides the Rule? (challenge) (challenge, 16 questions)
 1. (mcq) Why must we use the same test on every thing when we sort?  
    Options: So the groups show how the things differ, and not how we tested / To make the job longer / To use fewer things / So we can change our mind  
    **Answer:** So the groups show how the things differ, and not how we tested. *Why:* If every thing has a different test, a difference in the groups could come from the test and not from the things. The same test makes it fair. Picking 'change our mind' misses the point of a fair test.
-2. (mcq) In 2006 astronomers changed the rule for a planet, and Pluto was moved to a new group. What does this show?  
-   Options: Groups depend on rules, and rules can be changed / Pluto itself changed / Pluto is not real / Astronomers made a mistake  
-   **Answer:** Groups depend on rules, and rules can be changed. *Why:* Pluto did not change. The rule did. A rule is a human choice, and scientists can revise it when they learn more. Some astronomers still argue that the rule is wrong. Picking 'Pluto changed' is a common idea, but Pluto is the same as before.
-3. (mcq) Dan Shechtman found a solid with a pattern that never repeats. The old two groups were crystal and glass. What did scientists finally do?  
-   Options: Changed the definition of a crystal to make room for it / Decided the metal was fake / Put it in the glass group / Ignored it  
-   **Answer:** Changed the definition of a crystal to make room for it. *Why:* After other scientists checked his work, the official definition of a crystal was changed in 1992. The boxes were changed to fit the discovery. Picking 'put it in the glass group' ignores that the metal had a clear pattern.
-4. (truefalse) Glass is a slow liquid, so old windows are thicker at the bottom.  
+2. (truefalse) Glass is a slow liquid, so old windows are thicker at the bottom.  
    **Answer:** False. *Why:* False. Calculations show window glass would take longer than the age of the universe to sag. Old windows are uneven because of how they were made.
-5. (mcq) Sodium and potassium are in the same column of the periodic table. Why do they behave alike?  
-   Options: They have the same number of outer electrons / They are the same weight / They are the same colour / They were found on the same day  
-   **Answer:** They have the same number of outer electrons. *Why:* Outer electrons decide how an atom joins with others. Atoms in the same column have the same pattern of outer electrons, so they act alike. Picking 'same weight' is an easy mistake, because the table was first sorted by weight. But weights are different in a column.
-6. (mcq) How many elements did Mendeleev's gaps help scientists find, among those he predicted?  
-   Options: Three: gallium, scandium and germanium / Only one / Ten / None  
-   **Answer:** Three: gallium, scandium and germanium. *Why:* Between 1875 and 1886, gallium, scandium and germanium were found, and they matched his predictions closely. A pattern that predicts is much stronger than one that only tidies.
-7. (mcq) Annie Jump Cannon sorted stars into seven types by their light. What did Cecilia Payne show in 1925 about these types?  
-   Options: They are really a row of temperatures / They are a row of sizes / They are a row of ages / They are a row of distances  
-   **Answer:** They are really a row of temperatures. *Why:* Payne showed that the types are about how hot the surface of the star is. She also showed that stars are made mostly of hydrogen and helium. Picking 'sizes' or 'distances' is a common guess, but the types show heat.
-8. (mcq) Some computer programs that sort faces worked well for lighter-skinned men and badly for darker-skinned women. What was the likely cause?  
+3. (mcq) Some computer programs that sort faces worked well for lighter-skinned men and badly for darker-skinned women. What was the likely cause?  
    Options: The program was taught with too few faces like theirs / Dark skin is harder to see in dark rooms only / The women moved too much / The programs were switched off  
    **Answer:** The program was taught with too few faces like theirs. *Why:* A program learns its rules from the examples it is given. If most examples look one way, it works best for them. Joy Buolamwini and Timnit Gebru showed this in 2018. It is a lesson in who is left out when the rule is built.
-9. (write) A pile does not change a rock. But a label can change how people treat a person. Why should we be careful when we sort people?  
+4. (write) A pile does not change a rock. But a label can change how people treat a person. Why should we be careful when we sort people?  
    **Answer:** A person has many parts to them, and one rule hides most of them. People can feel hurt or left out. A sort can also be used unfairly.. *Why:* Good answers say that people belong to many groups at once, and that a single rule hides the rest. They may also mention fairness or feelings.
-10. (write) Thatha sorted the metal by colour and Hema sorted it by sound. Why did the bell sing only after the second sort?  
+5. (write) Thatha sorted the metal by colour and Hema sorted it by sound. Why did the bell sing only after the second sort?  
    **Answer:** Colour showed what the metal looked like, but not what it would sound like. A bell needs bell metal, which rings. Hema's sort used the property the bell needed.. *Why:* The rule must fit the job. A bell is for sound, so sorting by sound fits.
-11. (mcq) Ketchup stays in the bottle until you shake it. In what way is it a tricky middle case?  
-   Options: It acts like a solid when still and a liquid when moved / It is always a gas / It is hot / It has no properties  
-   **Answer:** It acts like a solid when still and a liquid when moved. *Why:* Ketchup is part of the soft matter group. It holds its shape when still and flows when shaken. Picking 'a gas' mixes up thick with light and airy.
-12. (mcq) Your kidneys sort blood by size. Which stays in the blood?  
-   Options: Big blood cells / Water / Tiny salts / Everything leaves  
-   **Answer:** Big blood cells. *Why:* Small particles like water and salts pass through the sieve-like kidney. The big blood cells stay in the blood. Picking 'everything leaves' misses that sorting keeps something and lets go of something else.
-13. (mcq) Twenty good yes or no questions can tell apart more than a million things. Why?  
+6. (mcq) Twenty good yes or no questions can tell apart more than a million things. Why?  
    Options: Each good question halves the possibilities, and twenty halvings take more than a million things down to one / Each question adds a hundred / Twenty is a magic number / The questions are very long  
    **Answer:** Each good question halves the possibilities, and twenty halvings take more than a million things down to one. *Why:* One question tells 2 apart, ten tell 1,024 apart, and twenty tell 1,048,576 apart. Doubling grows very fast. Picking 'each question adds a hundred' mixes up adding with doubling.
-14. (write) Design a sorting line for a pile of rubbish containing paper, steel tins, glass bottles and plastic bottles. Say the rule at each step.  
+7. (write) Design a sorting line for a pile of rubbish containing paper, steel tins, glass bottles and plastic bottles. Say the rule at each step.  
    **Answer:** Step 1: blow, or use a fan, to move the light paper. Step 2: a magnet attracts the steel tins. Step 3: a tub of water, where plastic bottles with their caps on float and glass sinks. Other sensible orders are right too.. *Why:* Any sensible order with a clear rule at each step is right.
-15. (draw) Draw a branching key for four fruits: mango, banana, guava, apple. Use yes or no questions.  
+8. (draw) Draw a branching key for four fruits: mango, banana, guava, apple. Use yes or no questions.  
    **Answer:** For example, 'Do you peel it before eating?' Yes gives mango or banana, split by 'Is it long and curved?'. No gives guava or apple, split by 'Is it red outside?'.. *Why:* A key splits the group at each question until each fruit is alone. The questions must have clear yes or no answers.
-16. (truefalse) A star that looks red is hotter than a star that looks blue.  
-   **Answer:** False. *Why:* False. Red stars are cooler. Blue-white stars are hotter. In the same way, a piece of iron glows red first, and only glows white when it is much hotter.
-17. (mcq) A girl can hear what her grandfather cannot, so she helps him sort the metal. What does this show about sorting?  
-   Options: Different people notice different things, and each can help / Only young people can sort / Hearing is better than seeing / Old people cannot sort  
-   **Answer:** Different people notice different things, and each can help. *Why:* Each person notices different things. Together they sorted better than either could alone. Picking 'hearing is better than seeing' mistakes one good rule for a rule that is always best.
+9. (perspective) Are the groups we sort into found in nature, or do people make them up? Scientists still argue about this.  
+   **Answer:** A strong answer picks a view and backs it with an example, such as whales and families of animals, Pluto and the planet rule, or the kabadiwala's piles. It then admits a fair point from another view, for example that some groups are found in nature while the names and the lines between them are chosen by people.. *Why:* This is a real debate among scientists and philosophers. Many think the truth is a mix: nature has real patterns, and people choose which ones to use and where to draw the lines.
+10. (mcq) In 1869 Mendeleev's table had an empty space just below silicon. What could chemists predict about the element that would fill it?  
+   Options: It would behave a lot like silicon / It would be exactly the same as silicon / Nothing, because it had not been found / It would be a gas  
+   **Answer:** It would behave a lot like silicon. *Why:* Elements in the same column behave alike, so the missing one should be like silicon. It was found in 1886 and named germanium, and it matched. Picking 'nothing' misses the power of a good sort: it can tell you about a thing before anyone has seen it.
+11. (mcq) In a hospital emergency room, a nurse sees the most badly hurt people first, not the people who came first. Why is that the right rule here?  
+   Options: The job is to save lives, so the rule is how badly someone is hurt / It is quicker to sort by name / The first people can always wait / Nurses like that rule  
+   **Answer:** The job is to save lives, so the rule is how badly someone is hurt. *Why:* In a queue at a shop, 'who came first' is a fair rule. In an emergency, the job is to save lives, so the rule changes. The same people sorted for a different job need a different rule.
+12. (mcq) A recycling plant uses a big magnet to pull steel tins out of a moving belt of rubbish. Aluminium cans are not attracted by a magnet. What happens to them?  
+   Options: They stay with the paper and plastic, so another rule is needed to pick them out / The magnet attracts them anyway / They melt / They turn into steel  
+   **Answer:** They stay with the paper and plastic, so another rule is needed to pick them out. *Why:* A magnet sorts by 'Does a magnet attract it?', and aluminium says no. So one rule cannot separate every material. Recycling plants add more steps, each with its own rule.
+13. (write) Dan Shechtman found a solid whose pattern did not fit either old group, crystal or glass. When something does not fit any group, should scientists change the groups, or doubt the thing? What would you want to see before changing the groups?  
+   **Answer:** A strong answer says both are fair first steps. Scientists should check the strange thing carefully, again and again, and in other laboratories. If it is still there, the groups should change. That is what happened: other scientists made the same solid, and in 1992 the meaning of 'crystal' was changed.. *Why:* A thing that does not fit is either a mistake or a discovery. Careful checking tells which.
+14. (truefalse) There is only one right way to sort any heap of things.  
+   **Answer:** False. *Why:* False. The same heap can be sorted by material, by use, by size or by sound, and each sort is right for some job. A sort is wrong only if the rule is unclear or a thing is put in the wrong group.
+15. (match) Match each sort to the discovery it led to.  
+   **Answer:** Sorting starlight by its pattern of lines → Stars are made mostly of hydrogen and helium; Sorting elements by how they behave → Gaps for elements nobody had found yet; Sorting animals by their families → A whale is a mammal, not a fish; Sorting solids by their patterns → A new kind of solid, the quasicrystal. *Why:* A good sort does more than tidy. Cecilia Payne used the star types to find what stars are made of. Mendeleev's gaps predicted new elements. Sorting by family put whales with mammals. Shechtman's strange pattern made scientists add a new kind of solid.
+16. (sort) Is the rule clear enough that everyone gets the same answer? Sort the rules.  
+   **Answer:** Is it longer than 10 centimetres? → Clear rule; Does a magnet attract it? → Clear rule; Does it float in water? → Clear rule; Is it heavy? → Unclear rule; Is it old? → Unclear rule; Is it beautiful? → Unclear rule. *Why:* A clear rule can be checked with a ruler, a magnet or a bowl of water, so everyone gets the same answer. 'Heavy', 'old' and 'beautiful' depend on who is asked. Each can be made clear, for example 'Is it heavier than a full water bottle?'.
 
 ## Videos
 - **The genius of Mendeleev's periodic table** (TED-Ed, 5 min) id `fPnwBITSmgU`: A short, clear story of how Mendeleev sorted the elements, left gaps and predicted new elements. Good for older children and for the parent. *Check:* Found by YouTube search: "The genius of Mendeleev's periodic table - Lou Serico" by TED-Ed. Title checked automatically; a parent may still preview it.
@@ -844,9 +820,9 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 3. (mcq) A brick is hard and dull. We sort by hard or soft, then by shiny or dull. What happens to the brick?  
    Options: It goes in the hard group, then in the dull group / It goes in the hard group both times / It goes in the soft group  
    **Answer:** It goes in the hard group, then in the dull group. *Why:* The same brick lands in a different named group each time, because each rule asks a different question. Picking 'hard both times' usually means the second rule was ignored.
-4. (mcq) Why can one thing be in many groups?  
-   Options: Each rule asks a different question about it / The thing changes / Groups are random  
-   **Answer:** Each rule asks a different question about it. *Why:* A steel spoon is shiny, hard and metal. Each is a different question. The spoon does not change. Picking 'the thing changes' is a common idea, but only the rule changes.
+4. (mcq) Nila says, 'A steel spoon is in the metal group, so it cannot also be in the shiny group.' Is she right?  
+   Options: No. Each rule asks a different question, so the spoon can be in both / Yes. A thing can only be in one group / Yes, because shiny is not a rule  
+   **Answer:** No. Each rule asks a different question, so the spoon can be in both. *Why:* The spoon is metal and shiny and hard. Each rule asks a different question about it, so it belongs to a group under each rule. Picking 'only one group' is a common idea, but it holds only inside one sort.
 5. (mcq) A candle is hard, but a fingernail can mark it. What is the best way to settle where it goes?  
    Options: Use a fair test, and let the test decide / Guess / Throw it away  
    **Answer:** Use a fair test, and let the test decide. *Why:* A test gives the same answer for everyone. Guessing can differ from person to person. Throwing it away leaves the problem unsolved.
@@ -865,9 +841,9 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 10. (mcq) Which first question makes the fastest key for eight things, four hard and four soft?  
    Options: Is it hard? / Is it the steel spoon? / Is it the candle?  
    **Answer:** Is it hard?. *Why:* 'Is it hard?' splits the eight things four and four. Asking about one thing at a time is slow.
-11. (mcq) A kabadiwala keeps paper, glass and iron in separate piles. Why?  
-   Options: Each material is recycled in its own way / He likes colours / It looks tidy  
-   **Answer:** Each material is recycled in its own way. *Why:* The sort has a job: selling to different buyers. Picking 'it looks tidy' misses the purpose.
+11. (mcq) Selvi is a kabadiwala. She buys old things and sells them on. She keeps paper, glass and iron in separate piles. Why?  
+   Options: Each material is recycled in its own way / She likes colours / It looks tidy  
+   **Answer:** Each material is recycled in its own way. *Why:* The sort has a job: selling each material to a different buyer. Picking 'it looks tidy' misses the purpose.
 12. (mcq) Winnowing sorts grain from husk. Which rule does the wind use?  
    Options: Weight / Colour / Taste  
    **Answer:** Weight. *Why:* The wind moves light husk more than heavy grain. Picking 'colour' is a common guess, but colour does not change how hard the wind pushes.

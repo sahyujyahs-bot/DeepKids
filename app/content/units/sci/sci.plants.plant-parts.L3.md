@@ -666,49 +666,47 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 ### Plant Part Detective (core) (core, 16 questions)
 1. (match) Match each part of a plant to its main job.  
    **Answer:** Root → holds the plant in the soil and soaks up water; Stem → holds the plant up and carries water and food; Leaf → catches sunlight to make food; Flower → makes seeds. *Why:* Each part has its own job. The plant needs all of them to stay alive.
-2. (mcq) Why are most leaves thin and flat?  
-   Options: To spread out and catch lots of sunlight / To be light enough to blow away / To hold the plant in the ground / To store water  
-   **Answer:** To spread out and catch lots of sunlight. *Why:* A thin, flat leaf works like a solar panel. It spreads out to catch light, and light can reach every cell inside it. Picking 'to store water' mixes up ordinary leaves with thick, juicy leaves like aloe, which are a special case.
-3. (mcq) A potato has eyes that sprout shoots. What is a potato?  
+2. (mcq) A potato has eyes that sprout shoots. What is a potato?  
    Options: A root / A stem / A fruit / A seed  
    **Answer:** A stem. *Why:* The eyes are buds, and buds grow on stems. So a potato is a stem that grows underground, called a tuber. Picking 'root' usually means deciding by where it grows. Many stems grow underground.
-4. (mcq) Which of these is a root that stores food?  
-   Options: Carrot / Ginger / Sugarcane / Onion  
-   **Answer:** Carrot. *Why:* A carrot is a storage root. Ginger and sugarcane are stems, with rings and buds. An onion stores food in its leaves. Picking ginger is a common mix-up, because ginger grows underground. Look for its rings: they show it is a stem.
-5. (fill) A plant with a thin stem that grows up by holding on to something else is called a ____.  
-   **Answer:** ['climber']. *Why:* Money plant, bean, grape and gourd are climbers. They save food by leaning on others instead of building a thick trunk.
-6. (fill) The curly thread a pea or gourd plant uses to grab things is called a ____.  
-   **Answer:** ['tendril']. *Why:* Tendrils coil round anything they touch. A pea's tendrils are changed leaf tips.
-7. (sort) Sort these into tap root or fibrous roots.  
-   **Answer:** carrot → Tap root; grass → Fibrous roots; mustard → Tap root; wheat → Fibrous roots; radish → Tap root; onion → Fibrous roots. *Why:* A tap root is one thick main root going down. Fibrous roots are a beard of thin roots, all about the same size.
-8. (truefalse) Everything that grows under the ground is a root.  
+3. (truefalse) Everything that grows under the ground is a root.  
    **Answer:** False. *Why:* False. Potato, ginger, turmeric and chembu grow under the ground, but they are stems. They have buds and rings. An onion's layers are leaves.
-9. (truefalse) Roots help to hold soil together, so rain does not wash it away.  
+4. (sort) Sort these into tap root or fibrous roots.  
+   **Answer:** carrot → Tap root; grass → Fibrous roots; mustard → Tap root; wheat → Fibrous roots; radish → Tap root; onion → Fibrous roots. *Why:* A tap root is one thick main root going down. Fibrous roots are a beard of thin roots, all about the same size.
+5. (odd) Which one is the odd one out, and why? Carrot, radish, potato, sweet potato.  
+   **Answer:** Potato, because a potato is a stem. Carrot, radish and sweet potato are roots.. *Why:* All four grow under the ground and store food. But only the potato has eyes, and the eyes are buds. Buds grow on stems, so the potato is the odd one out.
+6. (mcq) Why are most leaves thin and flat?  
+   Options: To spread out and catch lots of sunlight / To be light enough to blow away / To hold the plant in the ground / To store water  
+   **Answer:** To spread out and catch lots of sunlight. *Why:* A thin, flat leaf works like a solar panel. It spreads out to catch light, and light can reach every cell inside it. Picking 'to store water' mixes up ordinary leaves with thick, juicy leaves like aloe, which are a special case.
+7. (truefalse) Roots help to hold soil together, so rain does not wash it away.  
    **Answer:** True. *Why:* True. A net of roots grips the soil crumbs. In the Roots Hold the Soil test, the grass tray lost far less mud than the bare tray.
-10. (mcq) Why does a cactus have spines instead of wide leaves?  
-   Options: Wide leaves would lose too much water in the desert / Spines catch more sunlight / Cactuses do not need any food / Spines help it float  
-   **Answer:** Wide leaves would lose too much water in the desert. *Why:* Wide leaves lose lots of water into hot, dry air. Spines lose very little, and they also guard the plant from thirsty animals. The fat green stem does the leaf's food-making job. Picking 'cactuses do not need food' misses that the stem makes their food.
-11. (mcq) Banyan trees send down roots from their branches. What happens when they reach the ground?  
-   Options: They grow thick and hold up the branches like pillars / They dry up and fall off / They turn into new leaves / They become fruits  
-   **Answer:** They grow thick and hold up the branches like pillars. *Why:* These are prop roots. Once they reach the ground, they grow thick and woody, and hold up the heavy branches. That is how a banyan can spread so wide. Picking 'dry up' is a fair guess, but they become some of the strongest parts of the tree.
-12. (match) Match each plant to the part that stores their food.  
-   **Answer:** Carrot → root; Potato → underground stem; Onion → leaves; Sugarcane → stem above the ground. *Why:* Plants store food in different parts. The clues are eyes, rings and layers, not where the part grows.
-13. (mcq) In the Wake the Store test, which piece grew no shoot at all?  
+8. (mcq) In the Wake the Store test, which piece grew no shoot at all?  
    Options: The carrot top / The carrot middle slice / The onion / The radish top  
    **Answer:** The carrot middle slice. *Why:* The carrot middle has stored food but no buds. New shoots grow from buds, and a carrot's buds are at its top. Picking the onion is a surprise guess. Onions usually grow first and fastest.
-14. (write) Name one root and one stem that store food. Say one clue that tells you each is a root or a stem.  
+9. (mcq) Meenakshi, a girl in Class 3, puts a money plant cutting in a glass of water. After a week, white roots grow from the stem. What does this show?  
+   Options: A cut-off part can grow the parts they are missing / Money plants never need roots / The roots came from the water / The stem has turned into a root  
+   **Answer:** A cut-off part can grow the parts they are missing. *Why:* The cutting had a stem and leaves but no roots. A plant needs roots to soak up water and hold on, so the cutting grew new ones. Picking 'never need roots' gets it backwards. The cutting grew roots because roots are needed.
+10. (write) Name one root and one stem that store food. Say one clue that tells you each is a root or a stem.  
    **Answer:** For example: a carrot is a root, because it has no eyes or rings along its sides. A potato is a stem, because it has eyes, which are buds.. *Why:* Any correct pair with a clue for each is right. Clues for stems are buds, eyes and rings. Roots usually have none of these.
-15. (write) Why do you think a climbing plant has a thin stem, not a thick trunk like a tree?  
+11. (write) Why do you think a climbing plant has a thin stem, not a thick trunk like a tree?  
    **Answer:** A thin stem is quick and cheap to grow. The climber does not need to hold themselves up, because they lean on something else. So they reach the light faster.. *Why:* A good answer links the thin shape to the job: reaching light by leaning on others.
+12. (match) Match each plant to the part that stores their food.  
+   **Answer:** Carrot → root; Potato → underground stem; Onion → leaves; Sugarcane → stem above the ground. *Why:* Plants store food in different parts. The clues are eyes, rings and layers, not where the part grows.
+13. (fill) The curly thread a pea or gourd plant uses to grab things is called a ____.  
+   **Answer:** ['tendril']. *Why:* Tendrils coil round anything they touch. A pea's tendrils are changed leaf tips.
+14. (mcq) Why does a cactus have spines instead of wide leaves?  
+   Options: Wide leaves would lose too much water in the desert / Spines catch more sunlight / Cactuses do not need any food / Spines help them float  
+   **Answer:** Wide leaves would lose too much water in the desert. *Why:* Wide leaves lose lots of water into hot, dry air. Spines lose very little, and they also guard the plant from thirsty animals. The fat green stem does the leaf's food-making job. Picking 'cactuses do not need food' misses that the stem makes their food.
+15. (perspective) Two sisters, Kavya and Nila, are arguing about which part of a plant matters most.  
+   **Answer:** A strong answer picks a side and gives evidence. For the roots: a cut rose with no roots lasts only a few days. For the leaves: a carrot top grows new leaves first, because the plant needs them to make food. A strong answer then admits the other side's point, because a plant needs both: the roots bring water to the leaves, and the leaves send food to the roots.. *Why:* There is no single winner. Roots and leaves depend on each other. A good answer notices this, and still argues one side with real evidence.
 16. (draw) Draw a plant with their roots, stem and leaves. Draw an arrow showing where water goes, and another showing where light comes from.  
    **Answer:** Roots in the soil, a stem, and leaves spread out. A water arrow from the roots up the stem to the leaves. A light arrow from the Sun to the leaves.. *Why:* Water goes up from the roots. Light is caught by the leaves. The unit on how water travels through a plant tells this journey in full.
-### Shapes and Jobs (stretch) (stretch, 16 questions)
-1. (mcq) Look at the chart. The middle shade leaf covered 27 squares and the middle sun leaf covered 18. Both came from the same bush. How many more squares did the shade leaf cover?  
-   Options: 9 / 45 / 18 / 27  
-   **Answer:** 9. *Why:* 27 take away 18 is 9. So the shade leaf covered 9 more squares. Picking 45 means adding the two numbers instead of finding the difference.
-2. (mcq) Why would a plant grow bigger leaves in the shade?  
-   Options: To catch more of the weak light / Because shade makes leaves swell with water / To hide from animals / Because they are lazy  
-   **Answer:** To catch more of the weak light. *Why:* There is less light in the shade, so bigger, thinner leaves catch as much as they can. Picking 'swell with water' sounds sensible, but the shade leaves are actually thinner, not puffier.
+### Shapes and Jobs (stretch) (stretch, 15 questions)
+1. (write) Divya, a girl in Class 4, will trace leaves from the sunny top and the shady bottom of a mango tree. Predict which leaves will be bigger, and say why.  
+   **Answer:** The shady leaves will probably be bigger and thinner. There is less light in the shade, so a bigger leaf catches more of it. The sunny leaves get plenty of light, so they can be smaller.. *Why:* A strong answer makes a clear guess and links leaf size to how much light there is. In the Sun Leaf, Shade Leaf test, the shade leaves were bigger.
+2. (mcq) Riya, a girl in Class 4, says shade leaves are bigger because the shade makes them swell up with water. How could she check her idea?  
+   Options: Feel whether the shade leaves are thicker or thinner than the sun leaves / Count the leaves on the bush / Water the bush more / Pick the leaves at night  
+   **Answer:** Feel whether the shade leaves are thicker or thinner than the sun leaves. *Why:* If Riya is right, the shade leaves should be thick and puffy. In fact they are thinner than the sun leaves. So they are not swollen. They are spread out to catch more of the weak light. Counting the leaves would not test her idea at all.
 3. (sort) Sort these underground parts into root, stem or leaf.  
    **Answer:** carrot → Root; potato → Stem; ginger → Stem; onion layers → Leaf; sweet potato → Root; turmeric → Stem; chembu → Stem; radish → Root. *Why:* Stems have buds and rings: potato, ginger, turmeric, chembu. Onion layers are swollen leaves. Carrot, radish and sweet potato are roots.
 4. (mcq) In the Blue-Black Test, the potato turned blue-black with iodine, but the carrot stayed brown. Which is true?  
@@ -721,53 +719,46 @@ When her father came home for Baisakhi, she showed him both. She did not explain
    **Answer:** On the top side, facing the air. *Why:* On most land leaves, stomata are mostly underneath. A floating lotus leaf has them on top, where the air is. Its shape and its holes both fit its life on water. Picking 'bottom side' means using the rule for land leaves. The lotus breaks that rule for a good reason.
 7. (truefalse) A tendril coiled round a stick twists one way at one end and the other way at the other end.  
    **Answer:** True. *Why:* True. Both ends are held, so it cannot twist all one way. It makes a spring with a switch point in the middle. Darwin described it, and scientists explained it in 2012.
-8. (mcq) Why do climbing plants climb, instead of growing a thick trunk?  
-   Options: They reach the light faster with a thin, cheap stem / They are afraid of the ground / Climbing makes their roots longer / They do not need light  
-   **Answer:** They reach the light faster with a thin, cheap stem. *Why:* Building a thick trunk takes years and lots of food. A climber leans on something else and puts their food into growing longer. Picking 'they do not need light' gets it backwards. Light is exactly what they are climbing towards.
-9. (fill) A stem that grows sideways under the ground, like ginger or turmeric, is called a ____.  
+8. (fill) A stem that grows sideways under the ground, like ginger or turmeric, is called a ____.  
    **Answer:** ['rhizome']. *Why:* Ginger and turmeric are rhizomes. Their rings are nodes, and their buds can grow new shoots.
-10. (mcq) On a pineapple you count 8 spirals one way and 13 the other. Which numbers are in the same pattern?  
-   Options: 1, 1, 2, 3, 5, 8, 13, 21 / 2, 4, 6, 8, 10, 12, 14 / 1, 3, 5, 7, 9, 11, 13 / 8, 9, 10, 11, 12, 13  
-   **Answer:** 1, 1, 2, 3, 5, 8, 13, 21. *Why:* This is the Fibonacci pattern. Each number is the two before added together. Picking the counting pattern 8, 9, 10 misses that the numbers jump by bigger amounts each time.
-11. (mcq) Why does an old carrot that has flowered taste woody and not sweet?  
+9. (mcq) Why does an old carrot that has flowered taste woody and not sweet?  
    Options: Their stored sugar was used up to grow the flower stalk and seeds / It got too much sun / Carrots always taste woody / Insects ate the sugar  
    **Answer:** Their stored sugar was used up to grow the flower stalk and seeds. *Why:* The carrot stored sugar for the next stage of their life. When they flowered, they used that food to grow a tall stalk and seeds. Picking 'insects ate it' is a reasonable guess. But the root is not damaged, it is just emptied out.
-12. (order) Put these in the order they first appeared on Earth, oldest first: flowers, roots, tiny stems with no leaves, wide flat leaves.  
-   **Answer:** order shown. *Why:* The first land plants were tiny stems. Roots came by about 400 million years ago. Wide leaves became common about 360 million years ago. Flowers came last, about 130 million years ago.
-13. (write) Chembu leaves and lotus leaves make raindrops roll off in balls. How might that help a plant?  
+10. (mcq) Banyan trees send down roots from their branches. What happens when they reach the ground?  
+   Options: They grow thick and hold up the branches like pillars / They dry up and fall off / They turn into new leaves / They become fruits  
+   **Answer:** They grow thick and hold up the branches like pillars. *Why:* These are prop roots. Once they reach the ground, they grow thick and woody, and hold up the heavy branches. That is how a banyan can spread so wide. Picking 'dry up' is a fair guess, but they become some of the strongest parts of the tree.
+11. (truefalse) A rose's sharp points are thorns, just like the thorns of bougainvillea.  
+   **Answer:** False. *Why:* False. A bougainvillea thorn is a changed branch, and it grows from the point where a bud would be. A rose's sharp points grow only from the skin of the stem. You can snap one off cleanly, and there is no bud near it. Botanists call them prickles. In everyday talk, calling them thorns is fine.
+12. (write) Chembu leaves and lotus leaves make raindrops roll off in balls. How might that help a plant?  
    **Answer:** The rolling drops pick up dust and dirt and carry it away, so the leaf stays clean. A clean leaf catches more light. Water also does not sit on the leaf and block its tiny holes.. *Why:* A good answer links the waxy shape to the leaf's job: staying clean to catch light and breathe.
-14. (write) Your friend says, 'Fat roots grow big so that we can eat them.' What would you tell your friend?  
+13. (write) Meenakshi, a girl in Class 4, says, 'Fat roots grow big so that we can eat them.' What would you tell her? Give evidence.  
    **Answer:** The root stores food for the plant's own use. A carrot left in the ground uses that food later to grow a flower stalk and seeds. We just eat the carrot before they get the chance.. *Why:* A good answer says who the food is really for, and gives evidence, like a carrot that flowers.
+14. (perspective) In this unit's story, Jasmeet and her mother Harpreet grow carrots on their farm in Haryana. At harvest time, they disagree about what to do with the carrots.  
+   **Answer:** A strong answer uses the science. A carrot stores sugar in their root for their own next stage. If they are left, they spend it on a flower stalk and seeds, so the root goes woody. For Jasmeet: ten carrots give a whole tin of seed, and shop seed costs a lot. For Harpreet: those ten carrots cannot be sold, and the family needs money now. A strong answer gives the other side's point too.. *Why:* This is a real farmer's choice between money now and seed later. Both plans make sense. What makes an answer strong is knowing that the carrot's food is for the carrot's own flowers and seeds.
 15. (draw) Design the roots for a plant on a windy, rocky hillside. Draw them and label how they help.  
    **Answer:** Deep roots pushing into cracks in the rock, and spreading side roots gripping the soil. Labels say they hold on against wind and reach water deep down.. *Why:* Roots on windy hills must anchor the plant and find water in cracks.
-16. (mcq) In 1827, two German botanists wrote books about how plants climb. Darwin read them before his own work. What does this tell us?  
-   Options: Famous scientists build on the work of others, who are often forgotten / Darwin copied them and kept it secret / Nobody cared about climbing plants before Darwin / Darwin's work was wrong  
-   **Answer:** Famous scientists build on the work of others, who are often forgotten. *Why:* Darwin named Hugo von Mohl and Ludwig Palm in his own book. He built on their work. Picking 'kept it secret' is not true, because he credited them. The point is that we often remember only the most famous name.
 ### Think Like a Botanist (challenge) (challenge, 16 questions)
 1. (mcq) A sweet potato is a root, but it can sprout shoots. Does that break the rule 'buds grow on stems'?  
    Options: It shows that rules in biology have exceptions, so botanists use several clues together / It proves a sweet potato is a stem / It proves the rule is useless / Sweet potatoes cannot really sprout  
    **Answer:** It shows that rules in biology have exceptions, so botanists use several clues together. *Why:* Most roots have no buds, but a few, like sweet potato, can grow shoots. Botanists look at many clues, like how it grew and what it is joined to. Picking 'the rule is useless' throws away a rule that works for most plants.
-2. (mcq) Cactuses in America and some euphorbias in Africa look almost the same, but they are not related. What is the best explanation?  
-   Options: Both live in hot, dry places, so the same shapes help both survive / One copied the other / They are secretly the same plant / It is a coincidence  
-   **Answer:** Both live in hot, dry places, so the same shapes help both survive. *Why:* When plants live in the same kind of place, the same shapes help them survive. Over a very long time, both ended up fat, green and spiny. Picking 'coincidence' misses that the shapes match the job, the same way in both.
+2. (write) Cactuses grow in America. Some euphorbias grow in Africa. Both have fat, green, spiny stems, but they are not close relatives. Explain how two plants that are not related could end up with the same shape.  
+   **Answer:** Both live in hot, dry places. There, wide leaves would lose too much water, so spines and a fat stem that stores water help a plant survive. Over a very long time, the plants with those shapes survived best in both places. So the same problem gave the same answer twice.. *Why:* A strong answer links the shape to the job in that place: saving and storing water. It says the shape helped each plant survive, not that one copied the other.
 3. (write) In the Wake the Store test, the carrot middle grew nothing. Is that a failure? What did it teach us?  
    **Answer:** No, it was our check. It had food but no buds, and it grew nothing. So it showed that new shoots need a bud, not only food.. *Why:* A check that stays the same is as useful as a result that changes. It tells you what made the difference.
 4. (mcq) Mangrove trees grow in salty mud that floods twice a day. Why do their roots poke up out of the mud?  
    Options: To get air, because flooded mud has almost none / To catch fish / To drink rainwater / To scare crabs  
    **Answer:** To get air, because flooded mud has almost none. *Why:* Roots need air to stay alive. In waterlogged mud there is almost none, so breathing roots stick up like snorkels. Picking 'drink rainwater' is close, but these roots are mainly for air.
-5. (mcq) Goethe said every part above the ground is a changed leaf. Which evidence supports him, at least for flowers?  
-   Options: When certain genes are switched off, flowers grow only leaf-like parts / Bougainvillea thorns are changed branches / Roots are underground / Leaves are green  
-   **Answer:** When certain genes are switched off, flowers grow only leaf-like parts. *Why:* In 1991, scientists found genes that turn leaves into flower parts. Without them, a flower grows only leaf-like parts. That supports Goethe for flowers. The bougainvillea thorn is evidence against him, because it comes from a branch.
+5. (perspective) People have argued for over 200 years about whether petals, tendrils and spines are all leaves in disguise.  
+   **Answer:** A strong answer backs one view with an example. A pea tendril grows where the last leaflets should be, and a cactus spine is a changed leaf, so Goethe was often right. But a bougainvillea thorn grows from a bud point, so it is a changed branch, which the gene scientists point out. A strong answer then gives another view its due, for example that Arber showed leaves and stems are closely linked.. *Why:* Each view is partly right. Goethe's idea works for flowers and for many parts, but not for every part. What matters is using real examples as evidence.
 6. (write) Design a fair test to find out whether a gourd tendril curls faster when it is touched more times. What will you change? What will you keep the same?  
    **Answer:** I will change only the number of rubs: 1 rub, 5 rubs and 10 rubs, on three young tendrils of the same plant. I will keep the same plant, tendrils of the same age, the same matchstick, and check them all at 30 minutes and 2 hours.. *Why:* A fair test changes one thing and keeps everything else the same.
 7. (mcq) The first land plants had no roots and no leaves. Which is the best evidence?  
    Options: Fossils of very old plants, like those found in 407-million-year-old rocks at Rhynie in Scotland / Old stories about the first plants / Plants today all have roots / Scientists simply guessed  
    **Answer:** Fossils of very old plants, like those found in 407-million-year-old rocks at Rhynie in Scotland. *Why:* Rocks at Rhynie hold whole little plants turned to stone, with no true roots or leaves. Fossils are evidence you can look at. Picking 'plants today all have roots' is not true, and it tells us nothing about the past anyway.
-8. (truefalse) Scientists completely agree on why leaves are green and not black.  
-   **Answer:** False. *Why:* False. One idea is that green leaves keep their energy supply steady in flickering light. Another is that plants kept the chlorophyll their sea ancestors had. The question is still open.
-9. (mcq) On a planet with a dim red star, what colour might plants be, according to one NASA scientist's idea?  
-   Options: Very dark, even black, to catch every bit of the dim light / Bright green, exactly like ours / Clear, like glass / White, to reflect the light  
-   **Answer:** Very dark, even black, to catch every bit of the dim light. *Why:* Nancy Kiang and her team suggested that plants are tuned to the light of their star. Under dim red light, a dark plant would catch the most. Picking 'white' would throw the little light away. It is an idea, not a discovery: no alien plants have been found.
+8. (truefalse) Plants are simple, because they cannot move.  
+   **Answer:** False. *Why:* False. Plants move slowly, so we miss it. A tendril curls round a stick within hours of being touched. A bean shoot circles in loops until they find a support. Leaves turn towards the light. Plants sense touch, light and water, and they change their shape to fit their place.
+9. (write) Nancy Kiang, a NASA scientist, suggested that plants on a planet with a dim red star might be very dark, even black. Use what you know about leaves to explain her idea.  
+   **Answer:** A leaf's job is to catch light. A dark leaf soaks up almost every colour, and lets very little bounce off. Under a dim star there is not much light, so a plant would need to catch every bit of it.. *Why:* A strong answer links colour to how much light is caught. It is only an idea: no plants have been found on other planets.
 10. (write) A Khasi root bridge gets stronger every year. A bridge made of cut bamboo slowly rots in the rain. Why is the root bridge different?  
    **Answer:** The root bridge is made of living roots. They keep growing thicker, join together and mend damage. Cut bamboo is no longer growing, so it cannot mend itself, and it rots.. *Why:* A good answer says that the roots are alive and still growing, so the bridge can grow stronger and repair itself.
 11. (mcq) Why are spirals of leaves and scales so common in plants?  
@@ -778,11 +769,11 @@ When her father came home for Baisakhi, she showed him both. She did not explain
    **Answer:** A tap root. *Why:* Net veins usually go with a tap root, as in mango, beans and mustard. Parallel veins usually go with fibrous roots, as in grass and maize. Picking fibrous roots means swapping the two groups. Remember: grass has parallel veins and a beard of roots.
 13. (write) Light is made of tiny packets called photons. Explain in your own words what a leaf does with a photon.  
    **Answer:** When a photon hits the green chlorophyll in a leaf, its energy is caught. The energy is passed along to where the leaf makes food.. *Why:* Chlorophyll catches the energy of light and passes it on. The unit on photosynthesis explains how the food is made.
-14. (write) Is it fair that Darwin is remembered for climbing plants, while Hugo von Mohl and Ludwig Palm are mostly forgotten? Give a reason.  
-   **Answer:** A balanced answer. For example: Darwin did many new experiments, so he deserves credit. But Mohl and Palm studied climbers first, and their names should be remembered too.. *Why:* There is no single right answer. What counts is a reason, and noticing who gets left out.
-15. (mcq) Why is a hollow tube a good shape for a tall stem like bamboo?  
+14. (mcq) Why is a hollow tube a good shape for a tall stem like bamboo?  
    Options: It is strong against bending but uses little material / It holds more water / It is easier for leaves to grow on / It makes the plant heavier, so they do not blow away  
    **Answer:** It is strong against bending but uses little material. *Why:* Material round the outside of a tube resists bending best. So a tube is strong without being heavy. In the Paper Stem challenge, the rolled tube held the most books. Picking 'heavier' gets it backwards. Bamboo is strong because it is light for its strength.
+15. (order) Put these in the order they first appeared on Earth, oldest first: flowers, roots, tiny stems with no leaves, wide flat leaves.  
+   **Answer:** order shown. *Why:* The first land plants were tiny stems. Roots came by about 400 million years ago. Wide leaves became common about 360 million years ago. Flowers came last, about 130 million years ago.
 16. (draw) Draw a zoom into a leaf in four steps: the leaf, its cells, the green blobs inside a cell, and a chlorophyll molecule catching light.  
    **Answer:** A leaf. A wall of brick-like cells. Green blobs inside one cell. A ring-shaped molecule with a glowing photon arriving.. *Why:* This shows how a leaf catches light, from what you can see down to molecules you cannot.
 
@@ -792,12 +783,12 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - **The living root bridges of Meghalaya** (to find: a documentary or news channel, 5 min) id `C3-WzvtFAa8`: Shows Khasi bridges built from the aerial roots of rubber fig trees, a real example of roots shaped for a new job. *Check:* Found by YouTube search: "Living Root Bridges of Meghalaya – Double Decker Wonder of India | 3-Minute Travel Documentary" by Tour Point. Title checked automatically; a parent may still preview it.
 
 ## Quiz
-1. (mcq) What is the main job of a plant's roots?  
-   Options: To hold the plant in the soil and soak up water / To catch sunlight / To make seeds / To make the plant look pretty  
-   **Answer:** To hold the plant in the soil and soak up water. *Why:* Roots anchor the plant and soak up water and minerals from the soil. Picking 'catch sunlight' mixes roots up with leaves. Roots are usually in the dark.
-2. (mcq) What is the main job of a leaf?  
-   Options: To catch sunlight and make the plant's food / To hold the plant up / To soak up water from the soil / To store seeds  
-   **Answer:** To catch sunlight and make the plant's food. *Why:* Leaves are the plant's solar panels. They catch light and make food. Picking 'hold the plant up' mixes leaves with the stem.
+1. (mcq) Farhan, a boy in Class 3, cuts all the roots off a small plant and puts the plant back in wet soil. What will most likely happen first?  
+   Options: The plant wilts, because they cannot soak up water / The plant grows faster / Nothing changes / The plant makes flowers  
+   **Answer:** The plant wilts, because they cannot soak up water. *Why:* Roots soak up water from the soil. Without roots, the leaves keep losing water but nothing comes in, so the plant goes floppy. Picking 'nothing changes' forgets that the soil water can only get in through roots.
+2. (mcq) A leaf is covered in thick mud for a week. Which job of the leaf is stopped?  
+   Options: Catching light to make food / Holding the plant in the soil / Making seeds / Carrying water down to the roots  
+   **Answer:** Catching light to make food. *Why:* A leaf catches sunlight to make the plant's food. Mud blocks the light, so the leaf cannot do this. Picking 'holding the plant in the soil' mixes the leaf up with the roots.
 3. (mcq) Why are roots long, thin and branching?  
    Options: So they can reach far and touch lots of soil to soak up water / So they can catch light underground / So they are easy for us to eat / So worms can climb them  
    **Answer:** So they can reach far and touch lots of soil to soak up water. *Why:* Thin roots squeeze between soil grains, and many branches touch far more soil than one fat root could. Picking 'easy to eat' thinks of roots as made for us, not for the plant.
@@ -828,18 +819,15 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 12. (mcq) Why does a cactus have a fat green stem?  
    Options: To store water and make food, because their leaves are spines / To look like a tree / To hold up heavy fruit / Because they have no roots  
    **Answer:** To store water and make food, because their leaves are spines. *Why:* In the desert, wide leaves would lose too much water. So the cactus's stem stores water and does the leaf's food-making job. Picking 'they have no roots' is wrong: cactuses have roots, often spreading wide to catch rare rain.
-13. (mcq) Why do mangroves in the Sundarbans have roots that poke up out of the mud?  
-   Options: To get air, because flooded mud has almost none / To trip up tigers / To catch falling leaves / To store food  
-   **Answer:** To get air, because flooded mud has almost none. *Why:* Roots need air. Mangrove mud is flooded by the tide twice a day and has almost no air, so breathing roots stick up like snorkels. Picking 'store food' mixes them up with carrot-like roots.
+13. (mcq) Water hyacinth, called jalkumbhi, floats on ponds. Their leaf stalks are swollen and spongy. How does this shape help them?  
+   Options: The spongy stalks are full of air, so the plant floats / The stalks store soil / The stalks sink the plant to the bottom / The stalks catch fish  
+   **Answer:** The spongy stalks are full of air, so the plant floats. *Why:* The swollen stalks are full of tiny air spaces, like a sponge or a float. So the plant sits on top of the water, where the light is. Picking 'sink the plant' gets it backwards.
 14. (mcq) Do scientists agree on why leaves are green and not black?  
    Options: No, it is still an open question / Yes, green catches the most light / Yes, plants just like green / Leaves are not really green  
    **Answer:** No, it is still an open question. *Why:* It is still argued about. Picking 'green catches the most light' is a common idea. But a leaf lets more green light bounce off than red or blue, and a black leaf would catch more.
 15. (mcq) What did some of the earliest land plants, about 430 million years ago, look like?  
    Options: Tiny forked stems with no roots and no leaves / Huge trees with wide leaves / Flowers like roses / Cactuses  
    **Answer:** Tiny forked stems with no roots and no leaves. *Why:* Fossils show the earliest land plants were small stems without roots or leaves. Roots, wide leaves and flowers came much later. Picking 'huge trees' imagines the past like today's forests.
-16. (mcq) Agnes Arber studied plant shapes for fifty years, much of it in a lab in her own home. What was she the first to become?  
-   Options: The first woman botanist chosen for Britain's Royal Society / The first person to find roots / The first person to grow a carrot / The first queen of England  
-   **Answer:** The first woman botanist chosen for Britain's Royal Society. *Why:* In 1946 she became the first woman botanist chosen as a Fellow of the Royal Society, a top science society. She did much of her work without a university lab. Picking 'first to find roots' does not make sense: people have always known about roots.
 
 ## Applications
 - Farmers grow carrot and radish seed by replanting the best roots in winter. This is called the root-to-seed method.

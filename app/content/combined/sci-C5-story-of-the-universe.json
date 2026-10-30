@@ -1,0 +1,1409 @@
+{
+ "key": "combined|sci|5|story-of-the-universe",
+ "board": "combined",
+ "subj": "sci",
+ "level": 5,
+ "n": "story-of-the-universe",
+ "title": "The story of the universe: how we measure its age, its growth and what it is made of",
+ "source": "DeepKids Combined, The Deep End: a DeepKids topic from the founder's notebook (the grids on the expansion of the universe, the cosmic microwave background, the cosmic web, gravitational lensing and types of galaxies). No board teaches it at this class. No textbook needed.",
+ "summary": "A galaxy's light carries a barcode, and the barcode tells how fast the galaxy is moving away. Your child reads light's barcode with an old CD, measures redshift on paper strips, and uses the Hubble-Lemaître law to work out the age of the universe from distances and speeds. They see why far lights look dim, meet the live argument over how fast the universe grows, and learn how exploding stars showed the growth is speeding up. Last, they see why the young universe was a fog, how tiny ripples grew into the cosmic web, and why the hydrogen in a tumbler of water is almost 13.8 billion years old.",
+ "builds_on": "In the Class 3 lesson on the story of the universe, your child met galaxies, used a balloon to see that space is growing, heard about the Big Bang and its afterglow, and found hidden weight the way Vera Rubin found dark matter. This rung puts numbers on all of it: speeds from redshift, distances from standard candles, the age from dividing one by the other, and the recipe of the universe. In secondary school physics your child will meet the Doppler effect, nuclear fusion and Einstein's relativity, which explain these results more fully.",
+ "goals": [
+  "By the end your child can explain that each element gives its own pattern of spectral lines, and show it with a CD and a tube light.",
+  "By the end your child can work out a galaxy's speed from its redshift, and its distance from the Hubble-Lemaître law.",
+  "By the end your child can work out the age of the universe by dividing distance by speed, and say why every galaxy gives the same answer.",
+  "By the end your child can explain the inverse-square rule and how standard candles measure distance, and describe the Hubble tension.",
+  "By the end your child can explain why the young universe was a fog, what the afterglow's ripples grew into, and where the atoms in water came from."
+ ],
+ "words": [
+  [
+   "spectrum",
+   "the band of colours that light spreads into, as on a CD or in a rainbow"
+  ],
+  [
+   "spectral lines",
+   "the exact colours an element gives out or soaks up. Each element has its own pattern, like a barcode."
+  ],
+  [
+   "redshift",
+   "when the lines in a galaxy's light are moved towards red, because space stretched the light on its way"
+  ],
+  [
+   "blueshift",
+   "when the lines are moved towards blue, because the source is coming closer"
+  ],
+  [
+   "look-back time",
+   "how long ago the light we see set off. Far away is long ago."
+  ],
+  [
+   "Hubble constant",
+   "how much faster a galaxy moves away for each step of distance: about 21 km a second for every million light-years"
+  ],
+  [
+   "standard candle",
+   "a light whose true brightness is known, so its distance can be worked out from how dim it looks"
+  ],
+  [
+   "Type Ia supernova",
+   "the explosion of a white dwarf, the small leftover core of an old star. They all reach nearly the same brightness."
+  ],
+  [
+   "dark energy",
+   "the name for whatever is making the universe's growth speed up. Nobody knows what it is."
+  ],
+  [
+   "cosmic microwave background",
+   "the faint, cold afterglow of the early universe, from the moment it stopped being a fog"
+  ],
+  [
+   "cosmic web",
+   "the pattern of galaxies in walls and long threads, around huge empty spaces called voids"
+  ],
+  [
+   "observable universe",
+   "the ball of space around us from which light has had time to reach us. Its edge is now about 46 billion light-years away."
+  ]
+ ],
+ "subconcepts": [
+  "look-back time: far away is long ago",
+  "spectra: each element gives its own pattern of spectral lines",
+  "helium found in the Sun's light during the 1868 eclipse seen from Guntur",
+  "measuring redshift from shifted lines, and blueshift (Andromeda)",
+  "the Hubble-Lemaître law with numbers: about 21 km a second faster for every million light-years",
+  "running the expansion backwards gives the age of the universe",
+  "parallax, standard candles and the distance ladder: Cepheids and Type Ia supernovae",
+  "why far lights look dim: the inverse-square rule",
+  "the Hubble tension: two methods, two answers",
+  "dark energy: the growth has been speeding up (found in 1998)",
+  "the universe's recipe: about 5 parts ordinary matter, 27 dark matter and 68 dark energy",
+  "the universe became see-through 380,000 years after the Big Bang, and the afterglow's tiny ripples",
+  "the cosmic web: small ripples and dark matter grew into walls, threads and voids",
+  "where atoms come from: hydrogen and helium from the first minutes, heavier atoms from stars",
+  "galaxies change and merge, and the observable universe is about 46 billion light-years in every direction"
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "What the balloon left out",
+   "goal": "Recall the Class 3 lesson, hear the story, and see that looking far away means looking back in time.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Back to the balloon",
+     "mins": 8,
+     "do": "Blow up a balloon with a few dots on it, as in the Class 3 lesson on the story of the universe. Ask: 'What happened to the dots when the balloon grew?' Good answer: 'They all moved apart, and far dots moved more.' Ask: 'What was the Big Bang?' Good answer: 'About 13.8 billion years ago everything was packed close and hot, and space has grown ever since.' Ask: 'What is dark matter?' Good answer: 'Matter we can't see, found by its gravity.' Say: 'In Class 3 we used a balloon. This time we will use real numbers from real galaxies, and you will work out the age of the universe yourself.'"
+    },
+    {
+     "kind": "read",
+     "title": "Story: The Oldest Thing in the Tumbler",
+     "mins": 12,
+     "do": "Read the story aloud. Don't explain it. Ask one question: 'Why couldn't anything be seen in the glowing fog?' Write your child's answer in the notebook. You will come back to it on Day 7."
+    },
+    {
+     "kind": "act",
+     "title": "How old is the light?",
+     "mins": 12,
+     "ref": "a1",
+     "do": "Do Activity a1. When the cards are in order, ask: 'When you look at the Sun, do you see it as it is now?' Good answer: 'No, as it was 8 minutes ago.' Say: 'Astronomers call this look-back time. The farther away something is, the older its light is when it reaches us. So a telescope looking very far away is looking very far back in time.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Three questions for this lesson",
+     "mins": 5,
+     "do": "Write three questions at the top of a notebook page: 'How fast is the universe growing? How old is it? What is it made of?' Ask: 'How could anyone measure the speed of a galaxy that is crores of light-years away?' Let your child guess and give a reason. Write the guess down. Say: 'The answer is in the light itself. We start tomorrow.'"
+    },
+    {
+     "kind": "act",
+     "title": "Start The Cosmic Times",
+     "mins": 8,
+     "do": "Start the project. Your child folds two A4 sheets in half to make an 8-page newspaper and writes 'The Cosmic Times' across the top of page 1. Say: 'Each time we find something big, you write a news report about it, with a headline and a box called How do they know?' Today's report: 'Telescopes are time machines.' Your child writes 3 or 4 sentences about look-back time, using the light-age cards."
+    }
+   ],
+   "need": [
+    "a balloon and a sketch pen",
+    "6 small cards or paper slips",
+    "2 A4 sheets for the newspaper",
+    "a notebook and pencil"
+   ],
+   "prep": [
+    {
+     "task": "Write the 6 light-age cards for Activity a1 (front and back)",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Light has a barcode",
+   "goal": "Split light with a CD, see that some lights give separate coloured lines, and learn that each element has its own pattern.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What is white light?",
+     "mins": 4,
+     "do": "Ask: 'Where have you seen a rainbow indoors?' Good answers: 'On a CD.' 'In soap bubbles.' 'Through a glass of water.' Say: 'White light is a mix of colours. A spectrum is the band of colours you get when light is spread out. Today we look at the spectrum of different lights.'"
+    },
+    {
+     "kind": "exp",
+     "title": "A CD shows light's barcode",
+     "mins": 20,
+     "ref": "e1",
+     "do": "Do Experiment e1. Ask the guess question first and wait for a guess and a reason. Your child draws both spectra side by side in the notebook, with the colours in the right order."
+    },
+    {
+     "kind": "talk",
+     "title": "A new element, seen from Guntur",
+     "mins": 12,
+     "do": "Say: 'In 1814 Joseph von Fraunhofer, a German glass-maker, saw that sunlight's spectrum has hundreds of thin dark lines in it. In 1859 Gustav Kirchhoff and Robert Bunsen showed why. Each element, when hot, gives out light only in its own exact colours. Hydrogen has its pattern, sodium has another. These patterns are called spectral lines. They are like a barcode.' Then say: 'On 18 August 1868 there was a total eclipse of the Sun. The French astronomer Jules Janssen watched it from Guntur, in Andhra Pradesh. In the Sun's light he saw a bright yellow line. Later that year Norman Lockyer in England said the line belonged to no element known on Earth. He named it helium, from the Greek word for the Sun. Helium was found on Earth only in 1895.' Ask: 'How can we know what the Sun is made of, without going there?' Good answer: 'We read the barcode in its light.'"
+    },
+    {
+     "kind": "think",
+     "title": "What can a barcode tell us?",
+     "mins": 9,
+     "do": "Ask: 'If you could see the barcode of a far galaxy's light, what could you find out?' Give time for ideas. Good answers: 'What it is made of.' 'How hot it is.' Then ask: 'Remember the elastic from Class 3, with the wave drawn on it? What happened to the waves when you stretched it?' Good answer: 'They got longer.' Ask: 'So if a galaxy's light is stretched on its way to us, what would happen to its barcode?' Let your child guess. Don't give the answer. Write the guess in the notebook for tomorrow. Your child writes a Cosmic Times report: 'New element found in the Sun, from Guntur.'"
+    }
+   ],
+   "need": [
+    "an old CD or DVD",
+    "a tube light or CFL bulb (not LED)",
+    "a sheet of white paper",
+    "colour pencils",
+    "The Cosmic Times"
+   ],
+   "prep": [
+    {
+     "task": "Find a tube light or CFL bulb in the house, the building stairwell or a neighbour's flat",
+     "when": "2 days before"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Reading the stretch",
+   "goal": "Measure how far a galaxy's lines have shifted, turn it into a speed, and do the core worksheet.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Yesterday's guess",
+     "mins": 4,
+     "do": "Read out yesterday's guess about a stretched barcode. Say: 'When space stretches while light is travelling, every wave in the light gets longer. Longer waves are redder. So every line in the barcode moves towards the red end. This is called redshift. The pattern of the lines stays the same, so we can still tell it is hydrogen.'"
+    },
+    {
+     "kind": "act",
+     "title": "Measure a galaxy's redshift",
+     "mins": 18,
+     "ref": "a2",
+     "do": "Do Activity a2. Help with the division if needed. Your child fills in the table for the three galaxies. Keep the table, because tomorrow you use it."
+    },
+    {
+     "kind": "talk",
+     "title": "Andromeda is blue",
+     "mins": 8,
+     "do": "Show the Andromeda strip from Activity a2. Ask: 'Which way did its lines move?' Good answer: 'A tiny bit towards blue.' Say: 'That is called a blueshift. Andromeda is coming towards us, at about 300 kilometres a second. Gravity holds our two galaxies together, so the stretching of space does not pull them apart.' Ask: 'Why is a blueshift so rare among galaxies?' Good answer: 'Only near neighbours are held by gravity. All the far ones are carried away by growing space.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 15,
+     "ref": "ws1",
+     "do": "Your child does Worksheet ws1, the core worksheet. For the two writing questions, talk first, then let them write. Check the redshift sum together, using the table from Activity a2."
+    }
+   ],
+   "need": [
+    "the 5 paper strips for Activity a2",
+    "a 30 cm ruler",
+    "a calculator or paper for sums",
+    "Worksheet ws1"
+   ],
+   "prep": [
+    {
+     "task": "Draw the 5 barcode strips for Activity a2, measuring each line carefully with a ruler",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Run the film backwards",
+   "goal": "Turn speeds into distances with the Hubble-Lemaître law, then work out the age of the universe.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Faster and farther",
+     "mins": 4,
+     "do": "Look at yesterday's table. Ask: 'Which galaxy moved away fastest?' (Galaxy C, at 15,000 km a second.) Say: 'Astronomers know Galaxy C is also the farthest. In real surveys, the farther a galaxy is, the faster it moves away. That is what the balloon showed in Class 3.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The rule with real numbers",
+     "mins": 10,
+     "do": "Say: 'In 1927 Georges Lemaître worked out that the universe could be growing. In 1929 Edwin Hubble and Milton Humason measured it. The rule they found is now called the Hubble-Lemaître law. Today's measurements say a galaxy moves away about 21 kilometres a second faster for every million light-years of distance. This number is called the Hubble constant.' Ask: 'A galaxy is 100 million light-years away. How fast does it move away?' Good answer: '100 times 21, which is 2,100 km a second.' Then say: 'We can also go the other way. Galaxy A from yesterday moves at 3,000 km a second. 3,000 divided by 21 is about 140. So it is about 140 million light-years away.' Your child works out Galaxies B and C the same way and writes the distances in the table. (B: about 280 million. C: about 700 million.)"
+    },
+    {
+     "kind": "act",
+     "title": "Rewind the universe",
+     "mins": 18,
+     "ref": "a3",
+     "do": "Do Activity a3. Before the sums, ask: 'If we run the film backwards, how long ago were all these galaxies in the same place? Will each galaxy give a different answer?' Wait for a guess and a reason."
+    },
+    {
+     "kind": "think",
+     "title": "Why the same answer?",
+     "mins": 8,
+     "do": "Ask: 'Every galaxy gave the same answer, about 14 billion years. Why does that matter?' Good answer: 'They all started moving apart at the same time. That was the Big Bang.' Say: 'Other evidence gives 13.8 billion years. Our simple sum is close because the growth slowed down at first, then sped up later, and the two nearly cancel out.' Ask: 'What would it mean if near galaxies gave 5 billion years and far ones 50 billion?' Good answer: 'Then they could not all have started together.'"
+    },
+    {
+     "kind": "act",
+     "title": "News: the universe's age, worked out at home",
+     "mins": 5,
+     "do": "Your child writes a Cosmic Times report with the headline 'Class 5 student finds age of universe'. The How do they know? box shows one of their sums from Activity a3."
+    }
+   ],
+   "need": [
+    "the table from Day 3",
+    "a calculator or paper for sums",
+    "The Cosmic Times"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "How far is far? The argument over the number",
+   "goal": "See why far lights look dim, learn how astronomers measure distance, and meet a live argument about the Hubble constant.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "The weak problem in our sums",
+     "mins": 4,
+     "do": "Ask: 'Yesterday I told you how far Galaxy A is. Who measured that, and how?' Let your child think. Say: 'Speeds are easy to measure from redshift. Distances are the hard part. Today we see how astronomers measure them.'"
+    },
+    {
+     "kind": "act",
+     "title": "Thumb jump",
+     "mins": 5,
+     "do": "Your child holds a thumb up at arm's length, closes one eye, then switches eyes. The thumb seems to jump against the wall behind. Then they hold the thumb close to the nose and do it again. Ask: 'When did it jump more?' (When close.) Say: 'This is called parallax. As the Earth goes round the Sun, near stars seem to shift a little against far ones. The smaller the shift, the farther the star. It works only for stars in our own galaxy.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Why far lights look dim",
+     "mins": 18,
+     "ref": "e2",
+     "do": "Do Experiment e2. Ask the guess question first. Then say: 'This is the inverse-square rule. At twice the distance, the light spreads over four times the area, so it looks a quarter as bright. If you know how bright a light really is, you can tell its distance from how dim it looks. Astronomers call such a light a standard candle.' Say: 'Henrietta Leavitt's blinking Cepheid stars, from Class 3, are standard candles. For much farther galaxies, astronomers use a brighter one: a Type Ia supernova. It is the explosion of a white dwarf, the small, hot leftover core of an old star. These explosions all reach nearly the same brightness, and they can be seen billions of light-years away.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Two careful teams, two answers",
+     "mins": 10,
+     "ref": "v1",
+     "do": "Tell Voice v1 in your own words. Draw a ladder with three rungs: parallax, Cepheids, supernovae. Say: 'Each rung is used to check the one above. A small mistake low down is carried all the way up.' Ask the voice's question."
+    },
+    {
+     "kind": "think",
+     "title": "Who would you believe?",
+     "mins": 8,
+     "do": "Ask: 'One team says 73, another says 67. Both are careful. What could explain the gap?' Good answers: 'One rung of the ladder has a mistake.' 'Our idea of the early universe is missing something.' Say: 'Both are possible. Nobody knows yet.' Your child writes a Cosmic Times report: 'Astronomers disagree on the universe's speed.' The How do they know? box names both methods."
+    }
+   ],
+   "need": [
+    "a phone with a torch",
+    "a piece of cardboard about 15 cm square",
+    "scissors",
+    "a sheet of paper with a grid of 2 cm squares",
+    "a ruler or measuring tape",
+    "a few books to prop up the card",
+    "The Cosmic Times"
+   ],
+   "prep": [
+    {
+     "task": "Draw a grid of 2 cm squares on a sheet of paper and cut a 2 cm square hole in the middle of the cardboard",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "The growth is speeding up",
+   "goal": "Hear how faint exploding stars showed that the expansion is speeding up, act out dark energy, count the universe's recipe, and do the stretch worksheet.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "A ball thrown up",
+     "mins": 3,
+     "do": "Throw a soft ball straight up. Ask: 'What happens to its speed on the way up?' Good answer: 'It slows down, because gravity pulls it back.' Say: 'For most of the 1900s, astronomers thought the universe's growth must be slowing in the same way, because all the galaxies pull on each other.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Beatrice Tinsley and the surprise of 1998",
+     "mins": 10,
+     "ref": "v2",
+     "do": "Tell Voice v2 in your own words and ask its question. Then say: 'In 1998 two teams measured far Type Ia supernovae. One was led by Saul Perlmutter, the other by Brian Schmidt and Adam Riess. The far explosions looked fainter than expected, so they were farther away than a slowing universe would allow. The growth has been speeding up for about the last 5 billion years. The three leaders shared the Nobel Prize in 2011.' Ask: 'What could push galaxies apart faster and faster?' Say: 'Scientists call the cause dark energy. It is a name for something they do not understand yet.'"
+    },
+    {
+     "kind": "act",
+     "title": "Tug of war: gravity and dark energy",
+     "mins": 10,
+     "ref": "a5",
+     "do": "Do Activity a5, the short play. After it, ask: 'Why did dark energy win only after a long time?' Good answer: 'As galaxies got farther apart, gravity between them got weaker. Dark energy comes with space itself, so there is more of it as space grows.'"
+    },
+    {
+     "kind": "act",
+     "title": "The universe's recipe",
+     "mins": 8,
+     "ref": "a6",
+     "do": "Do Activity a6. Ask: 'Which of the three heaps is made of the same kind of stuff as you?' Good answer: 'The 5 rajma: ordinary matter.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 14,
+     "ref": "ws2",
+     "do": "Your child does Worksheet ws2, the stretch worksheet. Let them use the tables from Days 3 and 4. For the perspective question, ask them to argue one side aloud before writing."
+    }
+   ],
+   "need": [
+    "a soft ball",
+    "a dupatta or long cloth",
+    "a chalk line or string on the floor",
+    "68 grains of rice, 27 green moong and 5 rajma",
+    "3 small plates",
+    "Worksheet ws2"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "The fog lifts, and the web grows",
+   "goal": "See why the early universe was a fog, learn what the afterglow's ripples show, and grow a cosmic web from tiny differences.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Back to the story",
+     "mins": 3,
+     "do": "Read your child's Day 1 answer: why nothing could be seen in the glowing fog. Ask: 'In the story, what made the fog clear?' Good answer: 'Electrons settled into atoms, so the light had nothing to bump into.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Torch through fog",
+     "mins": 12,
+     "ref": "e3",
+     "do": "Do Experiment e3. Ask the guess question first. After it, say: 'For 380,000 years after the Big Bang, free electrons scattered light the way the milk does. Then the universe cooled to below 3,000 degrees Celsius, electrons joined protons to make atoms, and light could travel straight. That light is the cosmic microwave background, the afterglow you met in Class 3.'"
+    },
+    {
+     "kind": "talk",
+     "title": "The ripples in the afterglow",
+     "mins": 8,
+     "do": "Say: 'The afterglow has been stretched by growing space, so today it is microwaves at about 270 degrees below zero Celsius. In 1992 a satellite called COBE found that it is not perfectly even. Some patches are warmer by about one part in a hundred thousand. John Mather and George Smoot, who led the work, won the Nobel Prize in 2006. The Planck satellite later mapped these ripples in detail.' Ask: 'Why would such tiny differences matter?' Let your child guess, then do the next activity to find out."
+    },
+    {
+     "kind": "act",
+     "title": "The grain game and the soap foam",
+     "mins": 12,
+     "ref": "a4",
+     "do": "Do Activity a4. Ask: 'Where did the big heaps come from?' Good answer: 'Squares that started with a little more pulled in their neighbours.' Then look at the foam together and say: 'Real maps of millions of galaxies show the same kind of pattern: galaxies in walls and long threads, around huge empty spaces called voids. This is the cosmic web. The foam only looks like it. It is not made the same way.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Mapping the invisible scaffold",
+     "mins": 10,
+     "ref": "v3",
+     "do": "Say: 'Ordinary gas alone could not have clumped this fast. Dark matter clumped first, because light does not push on it, and gas fell into its clumps.' Tell Voice v3 in your own words and ask its question. Your child writes a Cosmic Times report: 'The fog lifts, 380,000 years after the Big Bang.'"
+    }
+   ],
+   "need": [
+    "2 clear glass tumblers of water",
+    "half a teaspoon of milk",
+    "a torch",
+    "a sheet of paper with a 5 by 5 grid of 3 cm squares",
+    "about 150 grains of dry chana or rajma",
+    "a die (from Ludo or Snakes and Ladders)",
+    "a bowl of water with a few drops of dishwashing liquid, and a straw",
+    "The Cosmic Times"
+   ],
+   "prep": [
+    {
+     "task": "Draw the 5 by 5 grid for Activity a4",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Where atoms come from, and how galaxies change",
+   "goal": "Learn which atoms came from the first minutes and which from stars, how galaxies grow and collide, how big the observable universe is, and play the game.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "The oldest thing",
+     "mins": 3,
+     "do": "Ask: 'In the story, why was the hydrogen in Kavya's tumbler so old?' Good answer: 'It was made in the first minutes after the Big Bang.' Ask: 'And the oxygen?' (It was made inside a star.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Margaret Burbidge and the stars that make atoms",
+     "mins": 10,
+     "ref": "v4",
+     "do": "Say: 'In the first few minutes, the universe made hydrogen and helium, about three parts hydrogen to one part helium by weight, and a tiny bit of lithium. Almost every heavier atom, like the carbon in your body and the oxygen you breathe, was made later inside stars.' Tell Voice v4 in your own words and ask its question."
+    },
+    {
+     "kind": "talk",
+     "title": "Galaxies grow up",
+     "mins": 9,
+     "do": "Show your child a picture of a spiral galaxy and an elliptical galaxy, from a book or the internet. Say: 'The blue parts of a spiral are young, hot stars that live only a few million years. Red and yellow light comes mostly from old stars. Ellipticals are mostly old stars and make few new ones. Galaxies grow by pulling in gas and by swallowing smaller galaxies. When two big spirals crash together, they can become one elliptical.' Ask: 'Andromeda is coming towards us. Will we crash?' Say: 'For years astronomers said yes, in about 4 to 5 billion years. A study in 2025, with newer measurements, found only about an even chance of a merger in the next 10 billion years. Nobody can be sure yet.'"
+    },
+    {
+     "kind": "talk",
+     "title": "How big is the part we can see?",
+     "mins": 6,
+     "do": "Ask: 'The universe is 13.8 billion years old. So how far away is the farthest light we can see?' Most children say 13.8 billion light-years. Say: 'Space kept stretching while that light travelled. The place the afterglow came from is now about 46 billion light-years away. This ball of space around us is called the observable universe. What lies beyond it, nobody can see.'"
+    },
+    {
+     "kind": "game",
+     "title": "Says Who? How Do They Know?",
+     "mins": 12,
+     "ref": "g1",
+     "do": "Play Game g1 with the cards you printed. The player must give the evidence, not just say true or false. Put the 'Nobody knows yet' cards in a separate pile for Day 9."
+    },
+    {
+     "kind": "act",
+     "title": "News: you are old",
+     "mins": 5,
+     "do": "Your child writes a Cosmic Times report with the headline 'Hydrogen in your body is 13.8 billion years old'. The How do they know? box says where the hydrogen and the oxygen in water were made."
+    }
+   ],
+   "need": [
+    "a picture of a spiral and an elliptical galaxy",
+    "the printed game cards, cut out",
+    "The Cosmic Times"
+   ],
+   "prep": [
+    {
+     "task": "Print the game cards for g1 on one A4 page and cut them out",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "title": "The open questions and teach it back",
+   "goal": "Do the challenge worksheet, answer the check questions, finish The Cosmic Times and teach the story of the universe to the family.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "The Nobody Knows pile",
+     "mins": 4,
+     "do": "Read out the 'Nobody knows yet' cards kept from Day 8. Ask: 'Which one would you most like to solve, and how might you start?' Write your child's choice and reason in the notebook."
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 14,
+     "ref": "ws3",
+     "do": "Your child does Worksheet ws3, the challenge worksheet. Talk through each written question before your child writes."
+    },
+    {
+     "kind": "check",
+     "title": "Check questions",
+     "mins": 10,
+     "do": "Ask the check questions aloud, one at a time. If an answer is missing, redo the matching part for a minute: tilt the CD at the tube light, shine the phone torch through the card, or shine the torch through the milky water. Then ask again."
+    },
+    {
+     "kind": "act",
+     "title": "Finish The Cosmic Times",
+     "mins": 7,
+     "do": "Your child writes the last page: 'Five questions nobody can answer yet'. They choose from the unknowns in this lesson and the Nobody Knows pile, and add one question of their own."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back",
+     "mins": 10,
+     "do": "Your child is the teacher. Using The Cosmic Times, they tell the family how we know the universe's age, in about five minutes. As the students, ask: 'How can you measure a galaxy's speed?' and 'Why is the hydrogen in water so old?' Then read out the Day 1 guess about measuring a galaxy's speed and ask: 'What would you say now?'"
+    }
+   ],
+   "need": [
+    "Worksheet ws3",
+    "The Cosmic Times",
+    "the game cards from Day 8"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Light's barcode and redshift",
+   "day": 3,
+   "sections": [
+    [
+     "A. Reading light",
+     [
+      {
+       "t": "mcq",
+       "p": "Each element, like hydrogen or sodium, gives out light only in its own exact colours. What do scientists call these coloured lines?",
+       "opts": [
+        "spectral lines",
+        "orbits",
+        "light-years",
+        "shadows"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "When a galaxy is moving away from us, the lines in its light are shifted towards the ____ end of the spectrum.",
+       "a": [
+        "red"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "The lines in the light of the Andromeda galaxy are shifted a tiny bit towards blue. What does that tell us?",
+       "opts": [
+        "Andromeda is coming towards us",
+        "Andromeda is moving away very fast",
+        "Andromeda is made of different elements",
+        "Andromeda is very hot"
+       ],
+       "a": 0
+      },
+      {
+       "t": "match",
+       "p": "Match each word to what it means.",
+       "pairs": [
+        [
+         "spectrum",
+         "the band of colours that light spreads into"
+        ],
+        [
+         "redshift",
+         "lines moved towards red, because space stretched the light"
+        ],
+        [
+         "blueshift",
+         "lines moved towards blue, because the source is coming closer"
+        ],
+        [
+         "look-back time",
+         "how long ago the light we see set off"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Use what you found",
+     [
+      {
+       "t": "sort",
+       "p": "Lalitha looks at different lights on the shiny side of a CD. Sort what she sees.",
+       "items": [
+        "sunlight on white paper",
+        "a tube light",
+        "a CFL bulb",
+        "a candle flame",
+        "an orange sodium street lamp"
+       ],
+       "cats": [
+        "a smooth band of colours",
+        "separate bright lines"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A galaxy's red hydrogen line should be at 656 on the scale. It is seen at 662.6, which is 6.6 further. Redshift is 6.6 divided by 656, about 0.01. Speed is redshift times 3 lakh km a second. How fast is the galaxy moving away?",
+       "opts": [
+        "3,000 km a second",
+        "300 km a second",
+        "30,000 km a second",
+        "66 km a second"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Light from the Sun takes about ____ minutes to reach the Earth.",
+       "a": [
+        "8",
+        "eight"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "In 1868, astronomers looking at the Sun's light saw a yellow line that matched no element known on Earth. What did that tell them? Why was it a bold thing to say?",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "Farhan, a boy in Class 5, says: 'When I look at a galaxy 10 crore light-years away, I see it as it is tonight.' What is wrong with his idea? Explain it to him.",
+       "lines": 3
+      },
+      {
+       "t": "draw",
+       "p": "Draw what you saw on the CD for sunlight on white paper and for a tube light, side by side. Label which one shows separate lines."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Speeds, distances and the age of the universe",
+   "day": 6,
+   "sections": [
+    [
+     "A. Using the rule",
+     [
+      {
+       "t": "fill",
+       "p": "A galaxy moves away about 21 km a second faster for every million light-years. A galaxy 140 million light-years away moves away at about ____ km a second.",
+       "a": [
+        "3,000",
+        "3000"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "A galaxy is moving away at 6,000 km a second. Using the same rule, about how far away is it?",
+       "opts": [
+        "about 280 million light-years",
+        "about 28 million light-years",
+        "about 6,000 million light-years",
+        "about 2.8 million light-years"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Light travels 3 lakh km a second. A galaxy moves away at 3,000 km a second. How many times slower than light is it?",
+       "opts": [
+        "100 times",
+        "10 times",
+        "1,000 times",
+        "3 times"
+       ],
+       "a": 0
+      },
+      {
+       "t": "write",
+       "p": "In Rewind the Universe, every galaxy gave the same answer, about 14 billion years. Why is getting the same answer for every galaxy so important?",
+       "lines": 3
+      }
+     ]
+    ],
+    [
+     "B. Measuring distance",
+     [
+      {
+       "t": "match",
+       "p": "Match each way of measuring distance to how it works.",
+       "pairs": [
+        [
+         "parallax",
+         "near stars seem to shift a little as the Earth goes round the Sun"
+        ],
+        [
+         "Cepheid stars",
+         "how fast they blink tells how bright they really are"
+        ],
+        [
+         "Type Ia supernovae",
+         "exploding white dwarfs that all reach nearly the same brightness"
+        ],
+        [
+         "redshift",
+         "tells how fast a far galaxy is moving away"
+        ]
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Sowmya moves a lamp twice as far away from her eyes. How bright does it look now?",
+       "opts": [
+        "a quarter as bright",
+        "half as bright",
+        "just as bright",
+        "twice as bright"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "In the torch and card test, the patch of light covered 1 square at the first distance. At 3 times that distance, it covered ____ squares.",
+       "a": [
+        "9",
+        "nine"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "Scientists disagree about how fast the universe is growing today. Adam Riess and his team says: 'Our ladder of Cepheids and supernovae gives about 73. We have checked it many ways. Something may be missing from our idea of the early universe.' Wendy Freedman and her team says: 'Our measurements with the James Webb Space Telescope, using other kinds of stars too, give about 70. The gap may be smaller than it looks.' The Planck team says: 'The ripples in the afterglow, read with the standard model of the universe, give about 67.' Which view do you lean towards? What new measurement would change your mind? Then answer back from another side.",
+       "lines": 5,
+       "a": "A strong answer picks one view and names its evidence (the distance ladder, or the afterglow). It says what could settle it, for example a third method that uses neither, and answers back fairly from another side."
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "Scientists expected the universe's growth to be slowing down, like a ball thrown up. In 1998 they found it is speeding up. How did faint exploding stars show this?",
+       "lines": 4
+      },
+      {
+       "t": "sort",
+       "p": "Space is growing. Sort these pairs: are they held together, or moving apart as space grows?",
+       "items": [
+        "the Earth and the Moon",
+        "the Sun and its planets",
+        "the stars of the Milky Way",
+        "the Milky Way and Andromeda",
+        "the Milky Way and a galaxy 100 crore light-years away",
+        "two galaxy clusters very far apart"
+       ],
+       "cats": [
+        "held together by gravity",
+        "moving apart as space grows"
+       ]
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "The afterglow, the web and the open questions",
+   "day": 9,
+   "sections": [
+    [
+     "A. The fog and the afterglow",
+     [
+      {
+       "t": "mcq",
+       "p": "The universe became see-through about 380,000 years after the Big Bang. What changed?",
+       "opts": [
+        "Electrons joined protons to make atoms, so light stopped bumping into them",
+        "The first stars switched on",
+        "Dark energy pushed the fog away",
+        "The universe stopped growing"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "Today the afterglow of the Big Bang is very cold, about ____ degrees below zero Celsius.",
+       "a": [
+        "270"
+       ]
+      },
+      {
+       "t": "write",
+       "p": "In the torch and milk test, why couldn't you see the torch's shape through the milky water? How is that like the universe before it was 380,000 years old?",
+       "lines": 3
+      },
+      {
+       "t": "mcq",
+       "p": "The afterglow is almost the same in every direction. Some patches differ by about one part in a hundred thousand. Why do these tiny differences matter?",
+       "opts": [
+        "The slightly thicker places pulled in more matter and grew into galaxies",
+        "They show the spot where the Big Bang happened",
+        "They are mistakes made by the telescope",
+        "They are dust inside our own galaxy"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Atoms, credit and doubt",
+     [
+      {
+       "t": "match",
+       "p": "Match each kind of atom to where most of it was made.",
+       "pairs": [
+        [
+         "hydrogen",
+         "in the first minutes after the Big Bang"
+        ],
+        [
+         "helium",
+         "mostly in the first minutes, and some later in stars"
+        ],
+        [
+         "carbon and oxygen",
+         "inside stars"
+        ],
+        [
+         "iron",
+         "inside stars, and spread when stars explode"
+        ]
+       ]
+      },
+      {
+       "t": "write",
+       "p": "In 1957 four scientists wrote one famous paper on how stars make atoms: Margaret Burbidge, Geoffrey Burbidge, William Fowler and Fred Hoyle. In 1983 only Fowler got a Nobel Prize for this kind of work. A friend of Margaret Burbidge says: 'Margaret took and studied much of the starlight that showed stars really change their atoms. She should be remembered as much as anyone.' A friend of William Fowler says: 'Fowler measured the nuclear reactions in his laboratory. Without those numbers the idea was only a guess.' A friend of Fred Hoyle says: 'Hoyle had the big idea first, in the 1940s and 1950s. He predicted a state of carbon that was then found.' Should a prize go to one person for work done by four? Argue one side, then answer back from another.",
+       "lines": 5,
+       "a": "A strong answer uses facts about what each person did, not only feelings. It notices that prizes have rules (a Nobel Prize can be shared by at most three people) and asks whether those rules match how science is really done."
+      },
+      {
+       "t": "sort",
+       "p": "Sort these ideas into what scientists are confident about and what is still unsure or argued about.",
+       "items": [
+        "the universe is growing",
+        "the universe was hot and packed close about 13.8 billion years ago",
+        "what dark energy is",
+        "exactly how fast the universe is growing today",
+        "what dark matter is made of",
+        "the afterglow comes from every direction",
+        "whether the Milky Way and Andromeda will merge in the next 10 billion years"
+       ],
+       "cats": [
+        "confident",
+        "still unsure or argued about"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Think and write",
+     [
+      {
+       "t": "write",
+       "p": "In the grain game, small differences grew into big heaps and empty squares. How is the game's rule like gravity? In what way is the game different from real gravity?",
+       "lines": 4
+      },
+      {
+       "t": "write",
+       "p": "The universe is 13.8 billion years old. Yet the place the afterglow came from is now about 46 billion light-years away. How can that be?",
+       "lines": 4
+      },
+      {
+       "t": "draw",
+       "p": "Draw the life of a galaxy in three pictures: a young spiral with blue arms, two spirals crashing, and an old egg-shaped elliptical. Under each, write one sentence about what is happening."
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "A CD shows light's barcode",
+   "day": 2,
+   "question": "Does every kind of light spread into the same smooth rainbow?",
+   "need": [
+    "an old CD or DVD",
+    "a tube light or CFL bulb (not an LED)",
+    "a sheet of white paper in sunlight or under an LED bulb",
+    "colour pencils"
+   ],
+   "steps": [
+    "Switch on the tube light or CFL. Stand about 2 metres from it.",
+    "Hold the CD flat, shiny side up, just below your eyes. Tilt it slowly until you see the tube's reflection, then tilt a little more until colours appear beside it.",
+    "Look closely at the colours. Count how many separate coloured lines or copies of the tube you can see. Draw them in order.",
+    "Now do the same with white paper lit by sunlight, or lit by an LED bulb. Look at the colours on the CD again.",
+    "Draw this second spectrum next to the first. Compare them."
+   ],
+   "predict": "Ask your child to guess first: 'Will the tube light and the sunlit paper make the same rainbow on the CD? Why do you think so?'",
+   "observe": "The sunlit paper or LED gives a smooth band from violet to red with no gaps. The tube light gives a few separate bright lines, usually violet, green and orange-red, with darker gaps between them.",
+   "why": "The tiny grooves on a CD spread light out into its colours, like a prism. Sunlight and LEDs give out light of every colour, so the band is smooth. A tube light or CFL glows because of mercury gas inside it, plus a coating on the glass. Hot or excited atoms give out light only in their own exact colours, so you see separate lines. Every element has its own pattern of lines, so the lines tell you which elements are there. Astronomers use the same idea with far better instruments.",
+   "safety": "Never look at the Sun, directly or in the CD. Use sunlight only on the white paper. If the CD is cracked, hold it by the edges and don't bend it.",
+   "time": "20 min"
+  },
+  {
+   "id": "e2",
+   "title": "Why far lights look dim",
+   "day": 5,
+   "question": "If a light is twice as far away, how much more does its light spread out?",
+   "need": [
+    "a phone with a torch",
+    "a piece of cardboard about 15 cm square with a 2 cm square hole cut in the middle",
+    "a sheet of paper with a grid of 2 cm squares",
+    "a ruler or measuring tape",
+    "a few books"
+   ],
+   "steps": [
+    "Darken the room. Tape the grid paper to a wall or a box, standing upright.",
+    "Prop the phone on books with its torch facing the grid. Stand the cardboard upright between them, propped with books, so the hole is level with the torch.",
+    "Put the torch 10 cm from the card. Put the grid 10 cm behind the card, so it is 20 cm from the torch. Count how many squares the light patch covers.",
+    "Move the grid back until it is 30 cm from the torch. Keep the torch 10 cm from the card. Count the squares again.",
+    "Move the grid to 40 cm from the torch. Count again. Write all three results in a table."
+   ],
+   "predict": "Ask your child to guess first: 'When the grid is twice as far from the torch, how many squares will the light cover? Why do you think so?'",
+   "observe": "At 20 cm the patch is about 4 cm wide and covers about 4 squares. At 30 cm it covers about 9 squares. At 40 cm it covers about 16 squares. The patch also looks dimmer each time. The edges may be a little fuzzy, so count the squares that are mostly lit.",
+   "why": "The same light passes through the hole each time. When the distance from the torch doubles, the patch gets twice as wide and twice as tall, so it covers four times the area. The same light spread over four times the area looks a quarter as bright. This is the inverse-square rule. If astronomers know how bright a star or exploding star really is, they can work out its distance from how faint it looks.",
+   "safety": "Don't shine the phone torch into anyone's eyes.",
+   "time": "18 min"
+  },
+  {
+   "id": "e3",
+   "title": "Torch through fog",
+   "day": 7,
+   "question": "Why can't you see a light clearly through a fog, even when the light is bright?",
+   "need": [
+    "2 clear glass tumblers of water",
+    "half a teaspoon of milk",
+    "a torch",
+    "a spoon"
+   ],
+   "steps": [
+    "Darken the room. Stand the two tumblers of water side by side on a table, near a wall.",
+    "Stir the milk into one tumbler. Leave the other clear.",
+    "Shine the torch through the clear water at the wall. Look at the spot on the wall. Then look at the torch through the water from the other side, but not straight into the bulb.",
+    "Do the same with the milky water. Look at the spot on the wall, and at the glass itself."
+   ],
+   "predict": "Ask your child to guess first: 'Will the milky water block the light, or let it through? Why do you think so?'",
+   "observe": "Through clear water, a sharp bright spot lands on the wall and you can see where the torch is. Through milky water, the whole glass glows, the spot on the wall is faint and blurred, and you cannot see the torch's shape.",
+   "why": "Tiny drops of fat in the milk make the light bounce off in new directions again and again. Light still gets through, but it no longer travels in straight lines, so you cannot see where it came from. The early universe was like this. Free electrons scattered light in every direction, so it glowed but nothing could be seen. When atoms formed, 380,000 years after the Big Bang, the scattering stopped, and the light went straight. That light is the afterglow we can still detect.",
+   "safety": "Don't shine the torch into anyone's eyes. Wipe up spilt milk.",
+   "time": "12 min"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "How old is the light?",
+   "day": 1,
+   "mins": 12,
+   "need": [
+    "6 small cards or paper slips",
+    "a pencil"
+   ],
+   "steps": [
+    "A grown-up writes one name on the front of each card: the Moon, the Sun, Proxima Centauri (the nearest star after the Sun), the Andromeda galaxy, a far galaxy seen by the James Webb Space Telescope, and the afterglow of the Big Bang.",
+    "On the back, write how long its light takes to reach us: Moon, about 1.3 seconds. Sun, about 8 minutes 20 seconds. Proxima Centauri, about 4.2 years. Andromeda, about 25 lakh years. The far galaxy, about 13.5 billion years. The afterglow, about 13.8 billion years.",
+    "Your child puts the cards in order, front side up, from youngest light to oldest light, and says why.",
+    "Turn the cards over and check. Move any that are in the wrong place.",
+    "Lay the cards in a line across the floor. Your child walks along it, saying: 'I see the Moon as it was 1 second ago, the Sun as it was 8 minutes ago…'"
+   ],
+   "outcome": "Your child can say that we always see things as they were when their light set off, and that the farthest light shows the young universe."
+  },
+  {
+   "id": "a2",
+   "title": "Measure a galaxy's redshift",
+   "day": 3,
+   "mins": 18,
+   "need": [
+    "5 paper strips, each 30 cm long and 3 cm wide",
+    "a 30 cm ruler",
+    "a pencil and a red pen",
+    "a calculator or paper for sums"
+   ],
+   "steps": [
+    "Night before, a grown-up makes 5 strips. On each, the left end stands for 400 and the right end for 700, so every millimetre is one step on the scale. The numbers are wavelengths of light in nanometres, which are millionths of a millimetre.",
+    "Strip 1, Lab hydrogen: draw lines at 3.4 cm, 8.6 cm and 25.6 cm from the left end. Make the last one red. These are hydrogen's lines at 434, 486 and 656.",
+    "Strip 2, Galaxy A: lines at 3.8 cm, 9.1 cm and 26.3 cm. Strip 3, Galaxy B: lines at 4.3 cm, 9.6 cm and 26.9 cm. Strip 4, Galaxy C: lines at 5.6 cm, 11.0 cm and 28.9 cm. Strip 5, Andromeda: one red line at 25.5 cm.",
+    "Your child lays each galaxy strip under the lab strip and sees that the pattern is the same but moved to the right.",
+    "Your child measures how far the red line moved, in millimetres: A 7, B 13, C 33.",
+    "Redshift is the move divided by 656. A: 7 divided by 656 is about 0.01. B: 13 divided by 656 is about 0.02. C: 33 divided by 656 is about 0.05.",
+    "Speed is redshift times 3 lakh km a second. A: about 3,000 km a second. B: about 6,000. C: about 15,000. Write a table with columns Galaxy, Move, Redshift and Speed.",
+    "Lay the Andromeda strip under the lab strip. Its red line is 1 millimetre to the left of 656. Ask which way Andromeda is moving."
+   ],
+   "outcome": "A table of three galaxy speeds worked out from their barcodes, used again on Day 4. The speeds are made up for practice, but real astronomers work out speeds in just this way."
+  },
+  {
+   "id": "a3",
+   "title": "Rewind the universe",
+   "day": 4,
+   "mins": 18,
+   "need": [
+    "the table from Day 3 with distances added",
+    "a calculator or paper for sums"
+   ],
+   "steps": [
+    "Add a fourth galaxy to the table: Galaxy D, 70 million light-years away, moving at 1,500 km a second.",
+    "Say: 'Light covers 1 light-year every year. A galaxy moving at 3,000 km a second is 3 lakh divided by 3,000, which is 100 times slower than light.'",
+    "Galaxy A: 100 times slower than light, and 140 million light-years away. To travel that far, light needs 140 million years. The galaxy needs 100 times longer: 140 million times 100, which is 14,000 million, or 14 billion years.",
+    "Your child works out B (6,000 km a second, 50 times slower, 280 million light-years), C (15,000 km a second, 20 times slower, 700 million light-years) and D (1,500 km a second, 200 times slower, 70 million light-years).",
+    "Write each answer in a new column called Time since it left. Every answer is 14 billion years."
+   ],
+   "outcome": "Your child has worked out, from distances and speeds, that all the galaxies began moving apart about 14 billion years ago."
+  },
+  {
+   "id": "a4",
+   "title": "The grain game and the soap foam",
+   "day": 7,
+   "mins": 12,
+   "need": [
+    "a sheet with a 5 by 5 grid of 3 cm squares",
+    "about 150 grains of dry chana or rajma",
+    "a die",
+    "a bowl of water with a few drops of dishwashing liquid",
+    "a straw"
+   ],
+   "steps": [
+    "Roll the die once for each square and put that many grains in it. Now every square has a few grains, but not the same number. These are the tiny ripples.",
+    "The rule: go along each row, square by square. If any square next to it (above, below, left or right) has more grains, move all of this square's grains to the neighbour with the most.",
+    "Play one round through all 25 squares. Count the empty squares. Play two more rounds, counting each time.",
+    "Look at the grid: a few big heaps and many empty squares.",
+    "Blow gently through the straw into the soapy water to make a heap of foam. Look at it closely: thin walls meet in lines, around empty bubbles."
+   ],
+   "outcome": "Your child sees that tiny starting differences, with a pull towards whatever is bigger, grow into big clumps and empty spaces. The grain rule is simpler than gravity, which pulls from every distance, so it makes heaps rather than threads."
+  },
+  {
+   "id": "a5",
+   "title": "Tug of war: gravity and dark energy (a short play)",
+   "day": 6,
+   "mins": 10,
+   "need": [
+    "a dupatta or long cloth",
+    "a chalk line or string on the floor"
+   ],
+   "steps": [
+    "Parts: Gravity and a far galaxy. The grown-up plays Gravity, standing on the line. The child is the galaxy, holding the other end of the dupatta, close to Gravity.",
+    "Scene 1, the young universe. The galaxy walks backwards away from Gravity, because space is growing. Gravity pulls the dupatta firmly. The galaxy slows down. Gravity says: 'You are close. I can hold you back.'",
+    "Scene 2, billions of years later. The galaxy is much farther away. Gravity's pull is gentle now, because gravity gets weaker with distance. The galaxy still walks backwards, slowly.",
+    "Scene 3, about 5 billion years ago. The child becomes Dark Energy too, and says: 'I come with space itself. The more space there is, the more of me there is.' The galaxy starts walking backwards faster and faster. Gravity lets go of the dupatta.",
+    "Swap parts and act it again."
+   ],
+   "outcome": "Your child can explain why the growth of the universe slowed at first and then sped up."
+  },
+  {
+   "id": "a6",
+   "title": "The universe's recipe",
+   "day": 6,
+   "mins": 8,
+   "need": [
+    "68 grains of rice",
+    "27 green moong",
+    "5 rajma",
+    "3 small plates"
+   ],
+   "steps": [
+    "Mix all 100 grains in one bowl. Say: 'This bowl is everything in the universe.'",
+    "Your child sorts them onto three plates. Rice: dark energy, 68 out of 100. Moong: dark matter, 27 out of 100. Rajma: ordinary matter, the stuff of stars, planets, air and us, 5 out of 100.",
+    "Say: 'Most of the ordinary matter is thin gas between the stars and galaxies. All the stars and planets together are less than one of these 5 rajma.'",
+    "Ask: 'What fraction of the universe do scientists really understand?'"
+   ],
+   "outcome": "Your child can say that ordinary matter is only about 5 parts in 100 of the universe, and that nobody knows what the other 95 are."
+  }
+ ],
+ "project": {
+  "title": "The Cosmic Times",
+  "days": [
+   1,
+   2,
+   4,
+   5,
+   7,
+   8,
+   9
+  ],
+  "steps": [
+   "Day 1: fold two A4 sheets into an 8-page newspaper called The Cosmic Times. First report: 'Telescopes are time machines.'",
+   "Every report has a headline, 3 to 5 sentences, and a box called How do they know? that gives the evidence.",
+   "Day 2: 'New element found in the Sun, from Guntur' (1868).",
+   "Day 4: 'Class 5 student finds age of universe', with one sum from Rewind the Universe.",
+   "Day 5: 'Astronomers disagree on the universe's speed', naming both methods.",
+   "Day 7: 'The fog lifts, 380,000 years after the Big Bang'.",
+   "Day 8: 'Hydrogen in your body is 13.8 billion years old'.",
+   "Day 9: last page, 'Five questions nobody can answer yet', and your child teaches the family from the newspaper."
+  ],
+  "outcome": "A home-made newspaper of the big discoveries about the universe, each with its evidence, ending with the questions still open."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Says Who? How Do They Know?",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the printed cards, cut out"
+  ],
+  "rules": [
+   "Shuffle the cards and put them in a pile, front side up.",
+   "Take turns. Read the front of the top card aloud.",
+   "Say 'True', 'False' or 'Nobody knows yet'. Then give the evidence: how do scientists know?",
+   "Turn the card over and read the back. One point for the right answer. One more point if your evidence matches the back.",
+   "Put the 'Nobody knows yet' cards in a separate pile for Day 9.",
+   "When the pile is gone, the player with the most points wins. Playing alone? Try to score more than 30."
+  ],
+  "cards": [
+   {
+    "front": "The universe is growing.",
+    "back": "True. Light from far galaxies is redshifted, and the farther the galaxy, the bigger the redshift."
+   },
+   {
+    "front": "We know what the Sun is made of.",
+    "back": "True. Its light has spectral lines, and each element has its own pattern."
+   },
+   {
+    "front": "Helium was found in the Sun before it was found on Earth.",
+    "back": "True. Its line was seen in 1868, during an eclipse watched from Guntur. It was found on Earth in 1895."
+   },
+   {
+    "front": "Andromeda is moving away from us.",
+    "back": "False. Its light is blueshifted. It is coming closer at about 300 km a second."
+   },
+   {
+    "front": "You see the Sun as it is right now.",
+    "back": "False. Its light takes about 8 minutes 20 seconds, so you see it as it was then."
+   },
+   {
+    "front": "A galaxy twice as far away moves away about twice as fast.",
+    "back": "True. This is the Hubble-Lemaître law."
+   },
+   {
+    "front": "The universe is about 13.8 billion years old.",
+    "back": "True. Running the expansion backwards gives about 14 billion, and the afterglow gives 13.8."
+   },
+   {
+    "front": "A lamp twice as far away looks half as bright.",
+    "back": "False. It looks a quarter as bright, because its light spreads over four times the area."
+   },
+   {
+    "front": "The universe's growth is slowing down.",
+    "back": "False. Since 1998 we know it has been speeding up for about the last 5 billion years."
+   },
+   {
+    "front": "Scientists know what dark energy is.",
+    "back": "Nobody knows yet. It is a name for whatever makes the growth speed up."
+   },
+   {
+    "front": "Scientists agree on how fast the universe is growing today.",
+    "back": "Nobody knows yet. Different methods give about 67, 70 and 73. This is the Hubble tension."
+   },
+   {
+    "front": "Ordinary matter is about 5 out of every 100 parts of the universe.",
+    "back": "True. The rest is about 27 parts dark matter and 68 parts dark energy."
+   },
+   {
+    "front": "The early universe was a glowing fog.",
+    "back": "True. Free electrons scattered light until atoms formed, 380,000 years after the Big Bang."
+   },
+   {
+    "front": "The afterglow of the Big Bang is perfectly even in every direction.",
+    "back": "False. COBE found in 1992 that it differs by about one part in a hundred thousand."
+   },
+   {
+    "front": "The hydrogen in your body was made inside a star.",
+    "back": "False. Almost all hydrogen was made in the first minutes after the Big Bang."
+   },
+   {
+    "front": "The oxygen you breathe was made inside a star.",
+    "back": "True. Stars fuse lighter atoms into oxygen, and spread it when they die."
+   },
+   {
+    "front": "Galaxies stay the same for billions of years.",
+    "back": "False. Beatrice Tinsley showed their brightness and colour change as their stars age."
+   },
+   {
+    "front": "We know what dark matter is made of.",
+    "back": "Nobody knows yet. Its gravity can be measured, but no dark matter particle has been caught."
+   },
+   {
+    "front": "The farthest light we see came from 13.8 billion light-years away.",
+    "back": "False. Space stretched while it travelled. That place is now about 46 billion light-years away."
+   },
+   {
+    "front": "The Milky Way and Andromeda will certainly crash in about 5 billion years.",
+    "back": "Nobody knows yet. A 2025 study found only about an even chance of a merger in the next 10 billion years."
+   },
+   {
+    "front": "Your body and the Earth are stretching as space grows.",
+    "back": "False. Gravity and the forces between atoms hold them together."
+   },
+   {
+    "front": "We know what came before the Big Bang.",
+    "back": "Nobody knows yet, or even whether 'before' makes sense."
+   }
+  ]
+ },
+ "big": [
+  "Light from the young universe is still arriving. Is the past ever completely gone?",
+  "If two careful teams measure the same thing and disagree, how should we decide who is right?",
+  "The hydrogen in you was made in the first minutes of the universe, and the oxygen inside a star. Which parts of you are new?",
+  "About 95 parts in 100 of the universe are dark matter and dark energy, which nobody understands. Is our picture of the universe nearly finished, or only just begun?",
+  "Everything that exists is aware in its own way. What might a hydrogen atom have been aware of, across 13.8 billion years?"
+ ],
+ "challenge": [
+  {
+   "q": "Books say Hubble measured the growth of the universe in 1929. Did he get it right?",
+   "hint": "He found the pattern, but his number was about seven times too big. It made the universe only about 2 billion years old, younger than the rocks of the Earth. In 1952 Walter Baade found there are two kinds of Cepheid stars, which had been mixed up. Galaxies turned out to be much farther away, and the universe much older. Ask: when a mistake in science gets fixed, is that a failure or a success?"
+  },
+  {
+   "q": "If space is stretching everywhere, are you and the Earth stretching too?",
+   "hint": "No. Gravity holds the Earth, the Solar System and the Milky Way together, and electric forces hold atoms and your body together. These are far stronger than the stretching at such small distances. Only the space between groups of galaxies grows. Ask: why do we see the growth only between far galaxies?"
+  },
+  {
+   "q": "Many books say the Milky Way and Andromeda will crash in about 4.5 billion years. Is that certain?",
+   "hint": "It was the best answer for years. A 2025 study used newer measurements, including the pull of other nearby galaxies, and found only about an even chance of a merger in the next 10 billion years. Ask: what makes a prediction about billions of years from now hard?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "The Nasadiya Sukta, a hymn in the Rig Veda",
+   "view": "This hymn, thousands of years old, asks how creation began. It ends in doubt: perhaps the one who watches from the highest heaven knows, or perhaps even that one does not know. Ask: is saying 'we don't know' a weakness, or a strength, in science and in thinking?"
+  },
+  {
+   "who": "Stephen Hawking (1942–2018), England",
+   "view": "When people asked what came before the Big Bang, Hawking compared it to asking what is north of the North Pole. Some scientists agree. Others work on ideas where something did come before. Ask: does every question have an answer?"
+  },
+  {
+   "who": "Astronomers at the Ooty Radio Telescope, Tamil Nadu",
+   "view": "This radio telescope, built in 1970 by a team led by Govind Swarup, is about 530 metres long and lies along a hillside. The hill slopes at the same angle as Ooty's latitude, so the telescope lines up with the Earth's axis and can follow the sky as the Earth turns. Ask: why might Indian astronomers have used a hill instead of building a huge steel tower?"
+  },
+  {
+   "who": "The hydrogen in your body",
+   "view": "About one tenth of your body's weight is hydrogen, mostly in water. All of it was made in the first minutes of the universe. It has been in stars' gas, clouds, rain, rivers and other living beings before you. Ask: how old are you, really?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Adam Riess (born 1969), USA, Wendy Freedman (born 1957), Canada and USA, and the Planck team, Europe",
+   "idea": "There are two main ways to measure the Hubble constant. One uses the distance ladder: parallax, then Cepheid stars, then Type Ia supernovae. Riess's team uses it and gets about 73 km a second per megaparsec (a megaparsec is about 3.26 million light-years). The other way reads the ripples in the afterglow, using the standard model of the universe. The Planck satellite team gets about 67.",
+   "then": "At first many thought the gap was a measuring error that would go away. Instead, both answers have become more exact, and the gap has stayed. Freedman's team, using the James Webb Space Telescope and other kinds of stars as well as Cepheids, gets about 70, between the two.",
+   "now": "This is called the Hubble tension. Some scientists think a small error lies somewhere in the ladder. Others think our model of the early universe is missing something new. Nobody knows yet.",
+   "status": "debated",
+   "ask": "If two careful teams measure the same thing two ways and disagree, what would you need to see to decide who is right?",
+   "day": 5
+  },
+  {
+   "id": "v2",
+   "who": "Beatrice Tinsley (1941–1981), New Zealand and USA",
+   "idea": "Tinsley grew up in New Zealand and did her PhD at the University of Texas, finished in 1967. She worked out, with computer models, how a galaxy's brightness and colour change as its stars are born, age and die. In the 1960s and 1970s, astronomers such as Allan Sandage hoped to measure whether the universe's growth was slowing by using the brightest galaxies as standard candles. Tinsley showed that galaxies change too much over billions of years for that to work.",
+   "then": "Many astronomers did not want to hear that their method had a flaw. For years she struggled to find a proper job, partly because universities then often would not hire a wife at the same place as her husband.",
+   "now": "Galaxy evolution, her field, is now basic to all of astronomy. In 1978 she became the first woman professor of astronomy at Yale University. She died of cancer in 1981, aged 40. Later astronomers measured the growth with exploding stars instead, which do not age the way whole galaxies do.",
+   "status": "accepted",
+   "ask": "Tinsley showed that a measuring tool was less steady than people thought. Why can finding a flaw be as useful as a new discovery?",
+   "day": 6
+  },
+  {
+   "id": "v3",
+   "who": "Priyamvada Natarajan (born 1969), born in Coimbatore, Tamil Nadu, works at Yale University, USA",
+   "idea": "Natarajan maps dark matter in giant clusters of galaxies using gravitational lensing: the cluster's mass bends the light of galaxies behind it, and the amount of bending shows where the mass is. She also asked how black holes millions of times heavier than the Sun could exist so soon after the Big Bang. In 2006 she and Giuseppe Lodato proposed that some begin when a huge cloud of gas collapses straight into a black hole, without forming a star first. That would give them a head start.",
+   "then": "Most astronomers thought giant black holes grew slowly from small ones, left behind when stars died.",
+   "now": "In 2023, astronomers using the Chandra X-ray telescope and the James Webb Space Telescope found a black hole called UHZ1. It is seen as it was about 470 million years after the Big Bang, and it was already very heavy. This fits her idea well. Other explanations are still being studied.",
+   "status": "debated",
+   "ask": "Nobody can see dark matter or a black hole directly. What makes a map of something invisible believable?",
+   "day": 7
+  },
+  {
+   "id": "v4",
+   "who": "Margaret Burbidge (1919–2020), England and USA",
+   "idea": "Burbidge studied the light of stars and measured which elements they contain. With Geoffrey Burbidge, William Fowler and Fred Hoyle she wrote a famous paper in 1957. It explained how stars make carbon, oxygen, iron and most other elements from hydrogen and helium, step by step. The paper is still called B2FH after their initials.",
+   "then": "In the 1940s she was refused a fellowship to use the Mount Wilson telescopes because women were not allowed to observe there. Later she worked there by going in as her husband's assistant. In 1983 Fowler shared a Nobel Prize for work on how stars make the elements. Burbidge and Hoyle did not.",
+   "now": "That stars make most of the elements is accepted by all astronomers. In 1972 she became the first woman to head the Royal Greenwich Observatory. That same year she turned down an award meant only for women astronomers, saying women should be judged by the same prizes as men.",
+   "status": "accepted",
+   "ask": "Burbidge got around a rule that kept women out. Who else might have been kept out of science in the past, and what might we have missed?",
+   "day": 8
+  }
+ ],
+ "story": {
+  "title": "The Oldest Thing in the Tumbler",
+  "text": [
+   "I am a hydrogen atom. Right now I am in a steel tumbler of water on a kitchen shelf in Madurai. A girl named Kavya will drink me soon. Before she does, I want to tell you where I have been. I am almost as old as the universe.",
+   "At first I was not an atom at all. In the first second after the Big Bang, I was a single proton, a tiny speck with a positive electric charge. Everything was packed close together and was hotter than the middle of any star. Space was growing fast, and it cooled as it grew.",
+   "In the first few minutes, many protons near me were squeezed together and fused into helium. I was not. I stayed alone, a plain hydrogen nucleus. About three of every four parts of the new matter stayed hydrogen, like me.",
+   "Then came a long, strange time. The universe was a glowing fog. Electrons raced about everywhere, and light could not travel in a straight line. Light bumped into an electron, bounced off, and bumped into another. I could not hold on to an electron either. Each time one came near, a flash of light knocked it away. It was bright everywhere, but nothing could be seen. This went on for 380,000 years.",
+   "As space stretched, the light grew weaker, and the fog cooled to below 3,000 degrees Celsius. One day an electron came close to me, and no light was strong enough to knock it off. It settled around me. At last I was a whole atom. All over the universe, at almost the same time, the same thing happened. With the electrons held inside atoms, the light had nothing left to bump into. It went off in straight lines in every direction, and the fog was gone.",
+   "I did not see where the light went. For more than a hundred million years there was only dark. No stars had been born yet. I drifted in a thin gas of hydrogen and helium. But the gas was not perfectly even. Where it was a tiny bit thicker, gravity pulled a tiny bit harder. The thick places pulled in more gas and became thicker still. I was pulled along with them, slowly, into a long thread of gas.",
+   "Then the first stars lit up. One of them formed near me, a huge star many times heavier than the Sun. Deep inside, hydrogen atoms like me were being fused into helium, and then into carbon and oxygen. I was afraid. In that heat I would stop being hydrogen. But I stayed outside, in the cold gas. The star lived only a few million years. Then it exploded and threw its new atoms out into space. One oxygen atom from that star drifted close to me.",
+   "Billions of years passed. Our gas became part of a great spiral galaxy, the Milky Way. In a cold, dark cloud, the oxygen atom, another hydrogen atom and I joined together as a molecule of water. We froze onto a speck of dust as a tiny grain of ice. Then the cloud began to fall inward. Most of the gas fell into the middle and became a new star, the Sun. If I had fallen there, the Sun would have fused me long ago. Our ice grain stayed out in the spinning disc around it, where planets were forming. We became part of the Earth, 4.6 billion years ago.",
+   "Since then I have been in seas, in clouds and in rain. I have been in the sap of trees and the blood of animals. Last monsoon I fell as rain on the Western Ghats, ran down into the Vaigai river, sank into the ground, and came up through a pipe into this flat.",
+   "Tonight Kavya's mother, Dr Meenakshi, an astronomer, is showing Kavya a picture on her phone. It is an oval map of the whole sky, covered in blue and orange spots.",
+   "\"This is the oldest light anyone has ever seen,\" she says. \"A satellite called Planck made this map. The light is very faint microwaves, and it comes from every direction. It set off when the universe stopped being a fog, 380,000 years after the Big Bang. Growing space has stretched it ever since. It was thousands of degrees hot then. Now it is about 270 degrees below zero.\"",
+   "Kavya looks closely at the spots. \"What are the colours?\"",
+   "\"Tiny differences in temperature, about one part in a hundred thousand. The slightly thicker places grew into galaxies.\"",
+   "I listened, and I understood. That was the light that had been bumping into me for 380,000 years. When my electron settled, that light went free. I thought it was lost in the dark for ever. It was not lost. It has been travelling all this time, getting weaker and more stretched. Now a satellite has caught it, and a girl in Madurai is looking at its map.",
+   "Kavya puts down the phone and picks up the tumbler. \"Amma, what is the oldest thing in our house?\"",
+   "Her mother thinks. \"The grinding stone was Paati's. The brass lamp is even older.\" She looks at the tumbler in Kavya's hand. \"But the hydrogen in that water was made in the first minutes of the universe. That is almost 13.8 billion years ago.\"",
+   "Kavya holds the tumbler up to the light and looks at the water for a long time."
+  ],
+  "epiphany": "For the parent: the narrator is a hydrogen atom made in the first minutes of the universe. The turn comes when it hears Dr Meenakshi describe the afterglow and realises the light that bounced off it in the fog was never lost: it went free when atoms formed, and is still arriving as the cosmic microwave background. The story also carries the cosmic web (thick places growing thicker), stars making oxygen, and the fact that the hydrogen in water is almost as old as the universe.",
+  "ask": [
+   "Why couldn't light travel in a straight line in the glowing fog?",
+   "What changed, 380,000 years after the Big Bang, so that the light could go free?",
+   "The atom thought its light was lost. Where was it really?",
+   "Why was the atom afraid of the big star?",
+   "What is the oldest thing in your house? Has your answer changed?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Light carries a barcode.",
+   "more": "Each element gives its own pattern of lines. Their place in a galaxy's light tells us what the galaxy is made of and, through redshift, how fast it is moving away."
+  },
+  {
+   "idea": "Distance divided by speed gives the age of the universe.",
+   "more": "Far galaxies move away faster in just the right amount. When your child divided each distance by its speed, every galaxy gave about 14 billion years. They all started moving apart at the same time."
+  },
+  {
+   "idea": "Tiny differences grow.",
+   "more": "The afterglow differs by only one part in a hundred thousand. Over billions of years gravity made the thicker places thicker, until they became galaxies arranged in a cosmic web."
+  }
+ ],
+ "unknowns": [
+  "How fast is the universe growing today? The distance ladder gives about 73 and the afterglow about 67. Nobody knows yet whether a measurement is off or our idea of the universe is missing something.",
+  "What is dark energy, and is it changing? Recent maps of millions of galaxies, from the DESI survey in 2024 and 2025, hint that it may be getting weaker over time, but this is not yet certain.",
+  "What is dark matter made of? Its gravity is measured everywhere, but no particle of it has ever been caught.",
+  "What, if anything, came before the hot early universe? A popular idea called inflation says space grew hugely in a tiny fraction of the first second, but it has not been proven."
+ ],
+ "books": [
+  {
+   "title": "George's Secret Key to the Universe",
+   "author": "Lucy Hawking and Stephen Hawking",
+   "for": "read alone",
+   "age": "8–12",
+   "why": "A story about a boy and a girl who travel through space, with true facts about stars, galaxies and the universe. Read it alongside this lesson."
+  },
+  {
+   "title": "Big Bang! The Tongue-Tickling Tale of a Speck That Became Spectacular",
+   "author": "Carolyn Cinami DeCristofano, illustrated by Michael Carroll",
+   "for": "read together",
+   "age": "7–10",
+   "why": "A lively, accurate picture book about the Big Bang and how the universe grew. Read it after Day 4."
+  },
+  {
+   "title": "Mapping the Heavens: The Radical Scientific Ideas That Reveal the Cosmos",
+   "author": "Priyamvada Natarajan",
+   "for": "parent reads",
+   "age": "parent reads parts aloud, 10 and up",
+   "why": "Natarajan, the astronomer from Coimbatore in Voice v3, tells how our maps of the universe changed and why new ideas are often resisted."
+  },
+  {
+   "title": "The First Three Minutes",
+   "author": "Steven Weinberg",
+   "for": "parent reads",
+   "age": "adult, for the parent",
+   "why": "A classic, clear account of how the first hydrogen and helium were made, and how the afterglow was found."
+  }
+ ],
+ "check": [
+  {
+   "q": "How can astronomers tell what a far star or galaxy is made of?",
+   "a": "From the spectral lines in its light. Each element gives its own pattern of lines, like a barcode, so the pattern shows which elements are there."
+  },
+  {
+   "q": "A galaxy's lines are moved towards red. What does that tell us, and how do we get a speed from it?",
+   "a": "It is moving away, because growing space stretched its light. The size of the move, divided by where the line should be, gives the redshift. Redshift times 3 lakh km a second gives the speed."
+  },
+  {
+   "q": "How did you work out the age of the universe? Why did every galaxy give the same answer?",
+   "a": "I divided each galaxy's distance by its speed, to find how long ago it was close to us. Every galaxy gave about 14 billion years, because they all started moving apart at the same time, at the Big Bang."
+  },
+  {
+   "q": "Why does a lamp twice as far away look only a quarter as bright? How does that help measure distance?",
+   "a": "Its light spreads over four times the area. If we know how bright something really is, like a Cepheid or a Type Ia supernova, we can work out its distance from how dim it looks."
+  },
+  {
+   "q": "What did astronomers find in 1998, and what name did they give the cause?",
+   "a": "Far exploding stars looked fainter than expected, so the universe's growth is speeding up, not slowing. They called the cause dark energy, but nobody knows what it is."
+  },
+  {
+   "q": "Why was the young universe a fog, and what happened 380,000 years after the Big Bang?",
+   "a": "Free electrons scattered light in every direction, like the milk in the water. Then the universe cooled, electrons joined protons to make atoms, and light could go straight. That light is the afterglow we detect today."
+  },
+  {
+   "q": "Where were the hydrogen and the oxygen in a glass of water made?",
+   "a": "The hydrogen was made in the first minutes after the Big Bang. The oxygen was made inside a star and spread out when the star died."
+  }
+ ]
+}

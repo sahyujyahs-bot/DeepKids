@@ -221,13 +221,13 @@ Radio waves, microwaves, the light we see and X-rays seem like very different th
 - *big:* Rømer was young and unknown. Cassini, the famous head of the observatory, never believed him. Should we trust an idea because of who says it, or because of the evidence? (hint: Rømer's prediction came true on 9 November 1676. What would you have believed if you had been there?)
 
 ## Story: The Moon That Was Never Late
-*Ole Rømer, Giovanni Cassini, the Paris Observatory, Jupiter's moon Io and Rømer's prediction that Io would appear about ten minutes late on 9 November 1676 are real. Cassini really did not accept Rømer's idea. Marthe, her father the clock-keeper, her brother Luc and his letters are made up.*
+*Ole Rømer, Giovanni Cassini, the Paris Observatory, Jupiter's moon Io and Rømer's prediction that Io would appear about ten minutes late on 9 November 1676 are real. Cassini really did not accept Rømer's idea. Marthe, her father the clock-keeper, her aunt Isabelle and her letters are made up.*
 
 In the autumn of 1676, in Paris, there was a girl called Marthe whose father kept the clocks. Not the clocks of a house, but the great clocks of the Royal Observatory, a tall white building on a hill outside the city. Every evening he wound them, oiled them and checked them against the stars. Marthe carried his lamp.
 
 The clocks mattered because of Jupiter. Through the long telescopes, Jupiter was a bright little disc with four tiny moons beside it. The nearest moon was called Io. Every forty-two and a half hours, Io slipped into Jupiter's shadow and vanished. Then it came out again on the other side. It was as steady as a temple bell. The great astronomer Cassini had written tables saying when Io would vanish and appear, for months ahead. Mapmakers used those tables to work out where places were, and people hoped sailors could use them at sea one day.
 
-Marthe's brother Luc was a sailor. He had left in the spring on a ship bound for the islands across the ocean. His letters came back with other ships, and Marthe kept them under her pillow.
+Marthe's aunt Isabelle had sailed in the spring on a ship bound for the islands across the ocean, to start a new life there. Her letters came back with other ships, and Marthe kept them under her pillow.
 
 There was a young astronomer at the observatory, a tall, quiet Dane called Ole Rømer. He was not famous. He spoke French with a funny accent, and he wrote down everything. On clear nights Marthe watched him crouch at the eyepiece, calling out, 'Now!' at the very moment Io appeared. Her father would read the clock, and Rømer would scratch the time in his book.
 
@@ -241,23 +241,23 @@ One cold night, Rømer frowned at his book for a long time.
 
 'Maybe she is tired,' said Marthe. Rømer laughed, but he did not stop frowning.
 
-That week a letter came from Luc. Marthe ran up the hill with it. 'He says the sea is calm and he is well,' she told her father. Then she stopped, and read the date at the top again. The letter was more than five weeks old. Luc had written it far out on the ocean, and it had crossed all that water slowly, on another ship, before it reached her. While she was reading 'the sea is calm', there might be a storm around him now. She would not know for weeks.
+That week a letter came from Aunt Isabelle. Marthe ran up the hill with it. 'She says the sea is calm and she is well,' she told her father. Then she stopped, and read the date at the top again. The letter was more than five weeks old. Aunt Isabelle had written it far out on the ocean, and it had crossed all that water slowly, on another ship, before it reached her. While she was reading 'the sea is calm', there might be a storm around Aunt Isabelle now. She would not know for weeks.
 
-'His letters get older,' she said quietly. 'The first one, from the port at Le Havre, came in two days. This one took five weeks. The further he goes, the older the news is when it gets here.'
+'Her letters get older,' she said quietly. 'The first one, from the port at Le Havre, came in two days. This one took five weeks. The further she goes, the older the news is when it gets here.'
 
 Rømer had been listening. He put down his pen.
 
 'Say that again, Mademoiselle.'
 
-'The further away he is, the older his news.'
+'The further away she is, the older her news.'
 
 Rømer went to the big drawing of the heavens pinned on the wall. He drew the Sun in the middle and the Earth's circle around it. Further out he drew Jupiter.
 
 'In the spring,' he said, 'the Earth was here, on the side of its circle near Jupiter. Since then, the Earth has been travelling round the Sun, away from Jupiter. Now we are much further from it.' He tapped the drawing. 'What if Io is not late at all? What if she comes out of the shadow exactly on time, out there? But the news of it, the light carrying her picture, needs time to reach us. And the further we are, the longer it takes.'
 
-'Like Luc's letters,' said Marthe.
+'Like Aunt Isabelle's letters,' said Marthe.
 
-'Like Luc's letters. Everyone says light arrives the moment it leaves. Descartes said so. Maybe they are all wrong. Maybe light is a messenger, and messengers need time.'
+'Like your aunt's letters. Everyone says light arrives the moment it leaves. Descartes said so. Maybe they are all wrong. Maybe light is a messenger, and messengers need time.'
 
 He spent the next weeks doing sums. One evening in September he stood before all the astronomers of the Academy of Sciences. He made a prediction. On the ninth of November, he said, Io would come out of Jupiter's shadow about ten minutes later than Cassini's tables said. Not because the moon was slow. Because the light was travelling.
 
@@ -279,12 +279,12 @@ Afterwards, walking down the hill, Marthe looked up. The sky was crowded with st
 
 Many astronomers did not believe Rømer. Cassini never did. It took about fifty years before everyone agreed that light has a speed. But Marthe believed him that very night.
 
-At home she took out Luc's letter and read it again. 'The sea is calm,' he had written. It was old news now. But it was still Luc's voice, still true for the moment he wrote it. She held it near the candle and read it slowly, the way you might look at a star.
+At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,' she had written. It was old news now. But it was still Aunt Isabelle's voice, still true for the moment he wrote it. She held it near the candle and read it slowly, the way you might look at a star.
 
-**For the parent:** For the parent: Io was never late. Its eclipses happened on time, but the light carrying the news needed extra minutes to cross the extra distance when the Earth was further from Jupiter. Light is very fast, but it is not instant. So everything we see, especially in the sky, is a message from the past. Marthe's brother's letters, older the further he sailed, are the same idea at the speed of a ship. The story also quietly asks why a true idea from a young unknown man was doubted, and what it takes to believe evidence over a famous name.
+**For the parent:** For the parent: Io was never late. Its eclipses happened on time, but the light carrying the news needed extra minutes to cross the extra distance when the Earth was further from Jupiter. Light is very fast, but it is not instant. So everything we see, especially in the sky, is a message from the past. Marthe's aunt's letters, older the further she sailed, are the same idea at the speed of a ship. The story also quietly asks why a true idea from a young unknown man was doubted, and what it takes to believe evidence over a famous name.
 
 - Ask: Rømer said Io was not late at all. Then why did it seem late?
-- Ask: How were Luc's letters like the light from Io?
+- Ask: How were Aunt Isabelle's letters like the light from Io?
 - Ask: The astronomers smiled into their sleeves. Why do you think some of them did not believe Rømer?
 - Ask: When Marthe looked at the stars walking home, what did she realise?
 - Ask: Is an old letter, or old starlight, still true? What do you think?
@@ -665,123 +665,118 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
   *Child mode:* Read about glass threads that carry light. Now make your code faster. Try again!
 
 ## Worksheets
-### Light Detective (core) (core, 16 questions)
-1. (mcq) What is light?  
-   Options: A kind of energy that travels / A kind of air / A sound we can see / Something that only comes from bulbs  
-   **Answer:** A kind of energy that travels. *Why:* Light is energy that travels out from light sources, like the Sun, fire and bulbs. Picking 'a kind of air' usually means mixing up light with the air it shines through. Light even crosses space, where there is no air.
-2. (mcq) How fast does light travel in empty space?  
-   Options: About 3 lakh kilometres every second / About as fast as a jet plane / About 1 kilometre every 3 seconds / It takes no time at all  
-   **Answer:** About 3 lakh kilometres every second. *Why:* Light goes about 3 lakh kilometres every second. Picking '1 kilometre every 3 seconds' mixes light up with sound. Picking 'no time at all' is the old idea that light is instant, which Rømer showed was wrong.
-3. (fill) Sunlight takes about ____ minutes to reach the Earth.  
-   **Answer:** ['8', 'eight']. *Why:* The Sun is about 15 crore kilometres away. Even at light's speed, that takes about 8 minutes and 20 seconds.
-4. (truefalse) Light needs air to travel through.  
-   **Answer:** False. *Why:* False. Light crosses the empty space between the Sun and the Earth. Sound needs air, but light does not.
-5. (truefalse) When you look at the Sun's light, you are seeing it as it was a few minutes ago.  
-   **Answer:** True. *Why:* True. The light took about 8 minutes to reach you. So you see the Sun as it was when that light left it. Never look straight at the Sun, though.
-6. (mcq) In a storm, why do you see the lightning before you hear the thunder?  
-   Options: Light travels much faster than sound / The thunder is made later / Your eyes work faster than your ears / Sound is blocked by the rain  
-   **Answer:** Light travels much faster than sound. *Why:* The flash and the thunder are made at the same moment. Light reaches you almost at once. Sound travels about 1 kilometre every 3 seconds. Picking 'thunder is made later' is a common idea, but they happen together. Picking 'eyes work faster' puts the gap in your body, not in the trip.
-7. (count) You see lightning. You count 9 seconds until the thunder. About how many kilometres away was the lightning?  
-   **Answer:** 3. *Why:* Sound travels about 1 kilometre every 3 seconds. 9 divided by 3 is 3. So the lightning was about 3 kilometres away.
-8. (mcq) In the Flash and Bang experiment, a helper banged steel plates 200 big steps away. What did you notice?  
-   Options: I saw the plates meet, then heard the bang / I heard the bang, then saw the plates meet / I saw and heard them at exactly the same time  
-   **Answer:** I saw the plates meet, then heard the bang. *Why:* Light and sound left the plates together. Light arrived almost at once. Sound took a moment longer. Picking 'heard first' means thinking sound is faster. Picking 'the same time' is true when you are very close, but not from 200 steps.
-9. (mcq) What is a photon?  
-   Options: One tiny packet of light / A kind of camera / A tiny planet / A wave of sound  
-   **Answer:** One tiny packet of light. *Why:* Light is made of tiny packets of energy called photons. A torch gives out an enormous number of them every second. Picking 'camera' is easy to do, because 'photo' and 'photon' both come from the Greek word for light.
-10. (mcq) In the Glow Star Test, which light made the glow star shine?  
-   Options: The blue phone screen / The red phone screen / Both the same / Neither  
-   **Answer:** The blue phone screen. *Why:* Each blue photon carries enough energy to make the star glow. Each red photon does not, so even 2 minutes of red light did not work. Picking 'red' usually means thinking that more light, or brighter-looking light, is what matters.
-11. (match) Match each thing to how long its light takes to reach you.  
-   **Answer:** The Moon → about 1 second; The Sun → about 8 minutes; Sirius, the brightest star → about 8 and a half years; The Andromeda galaxy → about 25 lakh years. *Why:* The further away something is, the longer its light takes to reach us. The Moon is near, the Sun further, stars much further, galaxies further still.
-12. (order) Put these in order, from the one whose light is youngest when it reaches you, to the oldest.  
-   **Answer:** ['Your hand', 'The Moon', 'The Sun', 'A star']. *Why:* Your hand is closest, so its light takes almost no time. The Moon is about 1 second away, the Sun about 8 minutes, and stars are years away.
-13. (truefalse) Nothing can carry a message faster than light.  
-   **Answer:** True. *Why:* True. Einstein showed in 1905 that light is the speed limit of the universe. Every test since has agreed.
-14. (draw) Draw the Sun, the Earth and a beam of light between them. Write how long the light takes on the beam.  
-   **Answer:** A Sun, an Earth, a straight line between them, labelled about 8 minutes.. *Why:* Light travels from the Sun in straight lines and takes about 8 minutes to reach us.
-15. (write) Your friend says, 'Light is instant. It takes no time at all.' What would you tell them? Use one piece of evidence.  
-   **Answer:** Light is very fast, but it does take time. Sunlight takes about 8 minutes to reach us from the Sun. Rømer found that Jupiter's moon Io seemed late when the Earth was further away, because its light had further to travel.. *Why:* Light seems instant on Earth because the distances are short. Over the huge distances of space, its travel time shows.
-16. (write) Why is space silent, but full of light?  
-   **Answer:** Sound needs air or something else to pass it along, and space has almost nothing in it. Light does not need anything to travel through, so it crosses empty space.. *Why:* Light is a wave of electric and magnetic fields, which can travel through empty space. Sound is a vibration passed through air.
-### Light Through the Ages (stretch) (stretch, 15 questions)
-1. (mcq) Ole Rømer saw Jupiter's moon Io seem late. What did he decide?  
-   Options: The light carrying its picture needed more time when the Earth was further away / Io was slowing down / His clocks were broken / Jupiter was moving away from the Sun  
-   **Answer:** The light carrying its picture needed more time when the Earth was further away. *Why:* Io was never late. The light had a longer trip when the Earth was further from Jupiter. Picking 'Io was slowing down' is what you might think first. Picking 'broken clocks' was checked, and the clocks were fine.
-2. (mcq) In 1638, Galileo described a test with lanterns held by two people far apart. Why didn't it show any delay?  
-   Options: Light was too fast for the people to time it / The lanterns were too dim / Light cannot travel between hills / It was too cloudy  
-   **Answer:** Light was too fast for the people to time it. *Why:* Light crosses a few kilometres in a tiny fraction of a second. People react in about a quarter of a second. So the test only measured people's reactions. Picking 'too dim' misses that brightness does not change light's speed.
-3. (mcq) Light goes into a glass of water. What happens to its speed?  
-   Options: It slows down, to about three quarters of its speed in space / It speeds up / It stops / It stays exactly the same  
-   **Answer:** It slows down, to about three quarters of its speed in space. *Why:* Light is fastest in empty space. In water it goes about three quarters as fast. When it comes out, it speeds up again. Picking 'it stops' usually means thinking water blocks light, but you can see through water.
-4. (mcq) Lene Hau, in 1999, slowed light down to about 17 metres a second. How did she do it?  
-   Options: She shone it through a cloud of atoms cooled to almost absolute zero, the coldest anything can be / She used a very thick wall / She used a very dim torch / She made the light very red  
-   **Answer:** She shone it through a cloud of atoms cooled to almost absolute zero, the coldest anything can be. *Why:* In her super-cold cloud of atoms, light crawled at about the speed of a car in a city. Picking 'dim torch' mixes up brightness with speed. Dim light travels just as fast as bright light.
-5. (fill) A ____ is how far light travels in one year.  
-   **Answer:** ['light-year', 'light year']. *Why:* A light-year is a distance, not a time. It is about 9 and a half lakh crore kilometres.
-6. (mcq) The microwaves in the Chocolate experiment made melted spots 6 centimetres apart. Why do microwaves tell us about light?  
-   Options: Microwaves are the same kind of wave as light, and travel at the same speed / Microwaves are made of chocolate / Microwaves are slower than light, so they are easier to see / Microwaves are a kind of sound  
-   **Answer:** Microwaves are the same kind of wave as light, and travel at the same speed. *Why:* Light, radio waves and microwaves are all electromagnetic waves. They travel at the same speed in empty space. Picking 'slower' is a common guess, but they are just as fast. Picking 'sound' mixes them up with sound waves, which need air.
-7. (count) In the Chocolate experiment, the melted spots were 6 centimetres apart. The spots are half a wave apart. How long is one whole wave, in centimetres?  
-   **Answer:** 12. *Why:* The spots are half a wave apart. So a whole wave is 6 + 6 = 12 centimetres.
-8. (mcq) Thomas Young shone light through two thin slits. He saw bright and dark stripes. What did this show?  
-   Options: Light behaves like a wave / Light is made of sand / Light is instant / Light needs air  
-   **Answer:** Light behaves like a wave. *Why:* Only waves make stripes like this. Where two waves add up you get bright, and where they cancel you get dark. Like the ripples crossing in the uruli. Picking 'instant' mixes up two different questions about light.
-9. (mcq) Einstein said light comes in packets. What are the packets called?  
-   Options: Photons / Electrons / Atoms / Rays  
-   **Answer:** Photons. *Why:* Photons are packets of light. Electrons are tiny parts of atoms that can give out or soak up photons. Picking 'rays' mixes up the path light takes with what it is made of.
-10. (truefalse) A red photon carries more energy than a blue photon.  
-   **Answer:** False. *Why:* False. Each blue photon carries more energy than each red photon. That is why the blue screen made the glow star glow, and the red screen did not, even for 2 minutes.
-11. (truefalse) Light from a star 100 light-years away left that star about 100 years ago.  
-   **Answer:** True. *Why:* True. A light-year is how far light travels in one year. So light from 100 light-years away has been travelling for 100 years.
-12. (sort) Sort these. Does it travel through empty space, or does it need something to travel through?  
-   **Answer:** sunlight → Can cross empty space; the sound of a bell → Needs air or something else; radio waves → Can cross empty space; thunder → Needs air or something else; starlight → Can cross empty space; a shout → Needs air or something else. *Why:* Light and the waves like it, such as radio waves, can cross empty space. Sounds need air, water or something solid to pass them along.
-13. (mcq) Where does light come from, deep inside atoms?  
-   Options: Electrons dropping to a lower energy give out photons / Atoms are full of tiny bulbs / Light is stored in atoms like water in a tank / Atoms catch light from the air  
-   **Answer:** Electrons dropping to a lower energy give out photons. *Why:* When an electron gets extra energy, it jumps up. When it drops back down, it gives out a photon. Picking 'stored like water' misses that light is made fresh each time.
-14. (write) Cassini, the head of the observatory, did not believe Rømer. Was it right to doubt him? What finally showed Rømer was right?  
-   **Answer:** It is fair to doubt a new idea and ask for evidence. But Rømer's prediction came true: Io appeared about ten minutes late on 9 November 1676. Later measurements, like Fizeau's spinning wheel in 1849, agreed that light has a speed.. *Why:* Good scientists doubt new ideas until there is evidence, then change their minds. Who says it matters less than what the evidence shows.
-15. (write) In the Glow Star Test, the blue screen made a glow star glow in 30 seconds. The red screen did not, even after 2 minutes. Why can't more red light do what blue light does?  
-   **Answer:** Light comes in packets called photons. Each blue photon carries enough energy to make the glow star glow. Each red photon carries too little. Each photon works on its own, so adding more red photons does not help.. *Why:* Einstein used the same idea to explain the photoelectric effect: red light cannot knock electrons out of a metal, however bright it is. That work won him his Nobel Prize.
+### Light Detective (core) (core, 15 questions)
+1. (mcq) Kavya, a girl in Class 3, switches on a torch in a dark room. The far wall lights up at once. Many people think light gets there in no time at all. What is really true?  
+   Options: It takes no time at all / It takes a tiny time, far too short to notice / It takes about one second  
+   **Answer:** It takes a tiny time, far too short to notice. *Why:* Light has a speed: about 3 lakh kilometres every second. Across a room, that takes about one hundred-millionth of a second, far too short to notice. So it feels instant, but it is not. A strong answer separates 'too fast to notice' from 'no time'.
+2. (fill) In empty space, light travels about 3 ____ kilometres every second.  
+   **Answer:** ['lakh']. *Why:* 3 lakh kilometres is 300,000 kilometres. In one second, light could go round the Earth about seven and a half times.
+3. (mcq) Astronauts on the Moon, where there is no air, switch on a torch. What happens to the light?  
+   Options: It shines out across the Moon / It cannot travel, because there is no air / It only glows inside the torch  
+   **Answer:** It shines out across the Moon. *Why:* Light needs nothing to travel through. It crosses empty space, which is how sunlight reaches us across 15 crore kilometres of nothing. Sound is different: it needs air, water or a solid.
+4. (mcq) In the Flash and Bang experiment, you stood 200 big steps from the helper. What did you notice, and what does it show?  
+   Options: I saw the plates meet before I heard the bang, so light travels faster than sound / I heard the bang before I saw the plates meet, so sound is faster / I saw and heard them at the same moment, so they travel at the same speed  
+   **Answer:** I saw the plates meet before I heard the bang, so light travels faster than sound. *Why:* From far away there is a gap: the sight arrives first, the sound later. Light crosses 200 steps in almost no time. Sound takes about half a second. A strong answer gives what was seen and what it shows.
+5. (count) Lakshmi sees a flash of lightning. She counts 6 seconds before she hears the thunder. About how many kilometres away was the lightning?  
+   **Answer:** 2. *Why:* Sound travels about 1 kilometre every 3 seconds. The light arrived almost at once. 6 seconds divided by 3 is 2. So the lightning was about 2 kilometres away.
+6. (write) In the Flash and Bang experiment, you first stood 100 big steps away, then 200. Predict what happened to the gap between seeing and hearing. Explain why.  
+   **Answer:** The gap got bigger, about twice as long. The sound had twice as far to travel, so it took twice as long. The light still arrived almost at once, because it is so fast.. *Why:* A strong answer says the gap comes from the trip the sound makes, not from the helper, and links double the distance to double the gap.
+7. (truefalse) The sunlight on your face right now left the Sun about 8 minutes ago.  
+   **Answer:** True. *Why:* True. The Sun is about 15 crore kilometres away. At 3 lakh kilometres a second, light takes about 500 seconds, a little over 8 minutes, to cross that gap.
+8. (mcq) Imagine the Sun suddenly stopped shining. When would people on Earth notice?  
+   Options: At that very moment / About 8 minutes later / The next day  
+   **Answer:** About 8 minutes later. *Why:* The last light the Sun gave out would still be on its way. For about 8 minutes, we would go on seeing the Sun as if nothing had happened. A strong answer uses the 8-minute trip to predict.
+9. (mcq) In the Glow Star Test, Lakshmi shone a red phone screen on a glow star for 2 minutes. Then she shone a blue screen on it for 30 seconds. Which one made the star glow?  
+   Options: The red screen, because it shone for longer / The blue screen / Both the same  
+   **Answer:** The blue screen. *Why:* Only the blue light made the star glow, even though the red shone four times as long. Many people expect more light, for longer, to always do more. The test shows it does not. Each bit of blue light carries more energy than each bit of red.
+10. (match) Light from each of these takes a different time to reach you. Match each one to its time.  
+   **Answer:** a friend across the room → far less than a millionth of a second; the Moon → about 1 second; the Sun → about 8 minutes; the nearest star after the Sun → about 4 years. *Why:* The further away a thing is, the longer its light takes to reach you. Even light, the fastest thing there is, takes years to arrive from the stars.
+11. (sort) Sort these. Can it cross empty space, or does it need air, water or something solid to travel through?  
+   **Answer:** sunlight → Can cross empty space; starlight → Can cross empty space; radio signals from a spacecraft → Can cross empty space; the sound of thunder → Needs something to travel through; the bang of two steel plates → Needs something to travel through; a ripple in an uruli of water → Needs something to travel through. *Why:* Light and radio, which is a kind of light we cannot see, cross empty space. Sound and water ripples are movements of air or water, so where there is nothing, they cannot travel.
+12. (write) Divya says, 'When I watch the sunrise, I am seeing the Sun exactly as it is at this moment.' What is not quite right about this?  
+   **Answer:** The light I see left the Sun about 8 minutes ago. So I am seeing the Sun as it was 8 minutes ago, not as it is now. The Sun has moved on and changed a tiny bit since then.. *Why:* A strong answer finds the mistake (seeing now) and uses the 8-minute trip to correct it.
+13. (draw) Draw the Sun, the Earth and a beam of light between them. Write on the beam how long the light takes to arrive.  
+   **Answer:** A Sun on one side, a small Earth on the other, a straight beam joining them, labelled 'about 8 minutes'.. *Why:* A strong drawing shows light travelling in a straight line across empty space, and gives the time.
+14. (perspective) Three people each have a picture in their head of what light is like.  
+   **Answer:** A strong answer picks a picture and backs it with evidence: sharp shadows and the glow star fit the tiny balls, and the dots seen through a cloth fit the ripples. It then gives another picture its due. The best answers notice that scientists today use both the ball picture and the ripple picture, because light acts like both.. *Why:* There is no single right answer. Each picture explains some things about light and not others. Scientists argued about this for hundreds of years.
+15. (write) An astronaut outside the space station bangs two spanners together. Another astronaut floating nearby sees the spanners meet, but hears nothing. Why?  
+   **Answer:** Light can cross empty space, so she sees the spanners meet. Sound needs air or something else to travel through. Outside the space station there is no air, so the bang cannot reach her.. *Why:* A strong answer explains both halves: why she sees it and why she does not hear it.
+### Light Through the Ages (stretch) (stretch, 16 questions)
+1. (mcq) In 1676, Ole Rømer noticed that Jupiter's moon Io came out of Jupiter's shadow later than expected when the Earth was far from Jupiter. What was his explanation?  
+   Options: Io slowed down when Earth was far away / Light from Io needed extra time to cross the extra distance / The clocks were wrong  
+   **Answer:** Light from Io needed extra time to cross the extra distance. *Why:* Io was always on time. When the Earth was further away, the light carrying Io's picture had further to travel, so it arrived later. This was the first proof that light takes time to travel.
+2. (write) Galileo described a test with two people holding lanterns on hilltops. When it was tried about a mile apart, nobody saw any delay. Does that prove that light is instant? Explain.  
+   **Answer:** No. Light crosses a mile in about five millionths of a second. No person can notice such a short time. The test only shows that light is too fast to time over a short distance with lanterns and human eyes.. *Why:* A strong answer says the test was too small and too slow to see the delay, so 'no delay seen' is not the same as 'no delay'.
+3. (perspective) Long before anyone could measure it, thinkers argued about whether light takes time to travel.  
+   **Answer:** A strong answer picks an idea and gives evidence, for example that light slows down in water, which only makes sense if light is moving. It then treats Aristotle fairly: when you light a lamp, the whole room seems to brighten at once, and nobody could see a delay. The best answers say that 'too fast to notice' and 'instant' look exactly the same until you can measure.. *Why:* All three were careful thinkers. Without a measurement, the evidence could not decide. Rømer's measurement in 1676 finally settled it.
+4. (mcq) Light goes from air into a glass of water. What happens to its speed?  
+   Options: It speeds up / It slows down, to about three quarters of its speed in air / It stops  
+   **Answer:** It slows down, to about three quarters of its speed in air. *Why:* Light is fastest in empty space. In water it goes about three quarters as fast. It speeds up again when it comes back out into air. That change of speed is why a straw in water looks bent.
+5. (fill) The distance that light travels in one year is called a ____.  
+   **Answer:** ['light-year', 'light year']. *Why:* A light-year is a distance, not a time. It is about 95 lakh crore kilometres. Astronomers use it because the distances to stars are so huge.
+6. (count) In the Chocolate in the Microwave experiment, the melted spots were 6 centimetres apart. Melted spots are half a wave apart. How long is one whole wave, in centimetres?  
+   **Answer:** 12. *Why:* Half a wave is 6 centimetres, so a whole wave is 2 times 6, which is 12 centimetres. Microwaves are a kind of light we cannot see, so this is a light wave you have measured.
+7. (mcq) Around 1803, Thomas Young shone light through two thin slits close together. On the wall he saw bright and dark stripes. What did the stripes show?  
+   Options: Light is a wave: where two sets of ripples meet, they add up in some places and cancel in others / The slits were dirty / Light is made of stripes  
+   **Answer:** Light is a wave: where two sets of ripples meet, they add up in some places and cancel in others. *Why:* Only waves make a pattern like that. In the uruli, two sets of ripples crossed and made a pattern too. Particles flying in straight lines would just make two bright lines.
+8. (truefalse) If a star 100 light-years away stopped shining today, people on Earth would keep seeing it shine for about 100 more years.  
+   **Answer:** True. *Why:* True. The light already on its way would keep arriving for about 100 years. When we look at a star, we see the light it gave out long ago, not the star as it is now.
+9. (write) In the Glow Star Test, the blue screen made the glow star glow in 30 seconds. The red screen did not, even after 2 minutes. Why can't more red light do what a little blue light does?  
+   **Answer:** Light comes in tiny packets called photons. Each blue photon carries more energy than each red photon. The glow star needs a big enough kick from one photon. A red photon is too weak, and adding more weak photons does not help, because each one works alone.. *Why:* A strong answer uses the idea that energy comes in packets, and says why longer or brighter red light still fails. This is the idea that won Einstein his Nobel Prize.
+10. (mcq) In the Street-Light Star activity, you looked at a faraway street light through a fine cloth. A pattern of little lights appeared around it. What does this show?  
+   Options: Light spreads out like a wave when it passes through tiny gaps / The cloth makes its own light / The street light has many bulbs  
+   **Answer:** Light spreads out like a wave when it passes through tiny gaps. *Why:* When waves squeeze through very small gaps, they spread out and overlap into a pattern. The gaps between the threads are small enough to do this to light. It is a clue that light travels as a wave.
+11. (mcq) An iron rod heated in a fire glows red. What inside the iron is giving out the light?  
+   Options: Tiny electrons in its atoms, which give out energy as light / Smoke inside the iron / The air around it  
+   **Answer:** Tiny electrons in its atoms, which give out energy as light. *Why:* Heat gives the electrons in the iron's atoms extra energy. They give some of it out again as light. Nearly all light, from the Sun to a bulb, is made this way, by electrons giving out energy.
+12. (write) Cassini, the famous head of the Paris Observatory, did not believe Rømer. Was it sensible to doubt Rømer at first? What finally showed that Rømer was right?  
+   **Answer:** It was sensible to ask for more evidence, because a new idea can be wrong. But Cassini kept doubting even after Rømer's prediction came true. Later, other measurements of light's speed, like Fizeau's spinning wheel in 1849, agreed with Rømer. Good evidence matters more than a famous name.. *Why:* A strong answer says that doubting is fair, but that doubting must give way to evidence.
+13. (order) Put these in order of how long their light takes to reach you, from the shortest time to the longest.  
+   **Answer:** [0, 1, 2, 3, 4]. *Why:* The further away, the longer the trip. Light from the lamp takes far less than a second, from the Moon about 1 second, from the Sun about 8 minutes, from Sirius about 9 years and from Andromeda about 25 lakh years.
+14. (draw) Draw the Late Moon act-out from above: the Sun in the middle, the Earth in two places on its path, and Jupiter with Io further out. Draw the path of light from Io to the Earth in each place, and mark which path is longer.  
+   **Answer:** Two straight lines from Io, one to the Earth on the near side of the Sun and one to the Earth on the far side. The far-side line is longer, so light takes longer and Io seems late.. *Why:* A strong drawing shows that the extra delay comes from the extra distance, not from Io.
+15. (mcq) Ishita, a girl in Class 4, says, 'Light is so fast, so it must be infinitely fast.' What is the best answer to her?  
+   Options: She is right / Very fast is not the same as infinitely fast. Rømer measured a delay of minutes across space. / Light is actually slower than sound  
+   **Answer:** Very fast is not the same as infinitely fast. Rømer measured a delay of minutes across space.. *Why:* Light takes about 8 minutes from the Sun and minutes more from Jupiter. Those delays can be measured, so light's speed is huge but not infinite.
+16. (write) Sound travels about 1 kilometre in 3 seconds. Light travels 3 lakh kilometres in 1 second. Use these numbers to explain why counting the seconds after lightning works, even though light takes some time too.  
+   **Answer:** For lightning a few kilometres away, light takes only about a hundred-thousandth of a second, which is almost nothing. So nearly all the gap is the time the sound takes. That is why dividing the seconds by 3 gives the distance in kilometres.. *Why:* A strong answer compares the two speeds and says that the light's time is so small that it can be ignored.
 ### Light Across Space (challenge) (challenge, 16 questions)
-1. (count) Light goes about 3 lakh kilometres every second. How far does it go in 2 seconds? Write your answer in lakh kilometres.  
+1. (count) Light travels about 3 lakh kilometres every second. How many lakh kilometres does it travel in 2 seconds?  
    **Answer:** 6. *Why:* 3 lakh kilometres each second, for 2 seconds, is 3 + 3 = 6 lakh kilometres.
-2. (count) Sunlight takes 8 minutes and 20 seconds to reach us. How many seconds is that?  
+2. (count) Light from the Sun takes 8 minutes and 20 seconds to reach us. How many seconds is that?  
    **Answer:** 500. *Why:* 1 minute is 60 seconds. 8 minutes is 8 × 60 = 480 seconds. 480 + 20 = 500 seconds.
-3. (mcq) The Moon is about 1 and a quarter light-seconds away. Astronauts left mirrors on the Moon. A laser flash goes there and bounces back. About how long until it returns?  
-   Options: About 2 and a half seconds / About 1 and a quarter seconds / About 8 minutes / It returns instantly  
-   **Answer:** About 2 and a half seconds. *Why:* The light has to go there and come back, so it is twice the trip. 1 and a quarter plus 1 and a quarter is 2 and a half seconds. Picking 1 and a quarter forgets the return trip. Picking 8 minutes mixes the Moon up with the Sun.
-4. (mcq) You are on Mars. You send a radio message home. Radio travels at the speed of light. It takes 12 minutes. When does your family hear you?  
-   Options: 12 minutes after you speak / At the moment you speak / 12 hours later / They can never hear it  
-   **Answer:** 12 minutes after you speak. *Why:* Radio waves are the same kind of wave as light and travel at the same speed. If Mars is 12 light-minutes away, the message arrives 12 minutes later. A reply takes another 12 minutes. That is why you cannot have a normal phone chat with Mars. Picking 'at the moment' means thinking radio is instant.
-5. (mcq) A star is 600 light-years away. Tonight, it explodes. When could people on Earth see the explosion?  
-   Options: In about 600 years / Tonight / In 600 days / Never  
-   **Answer:** In about 600 years. *Why:* The light from the explosion must travel 600 light-years to reach us. That takes 600 years. Picking 'tonight' means thinking light is instant over any distance. Picking '600 days' mixes up years and days.
-6. (mcq) Light from a galaxy 25 lakh light-years away shows us that galaxy as it was 25 lakh years ago. What does this mean for astronomers?  
-   Options: Looking further away is like looking further back in time / Astronomers can see the future / Old light is fake light / The galaxy must be gone now  
-   **Answer:** Looking further away is like looking further back in time. *Why:* Light from far away is old news. So the further away a galaxy is, the further back in time we see it. Picking 'the galaxy must be gone' is a common worry, but most galaxies last billions of years. Picking 'fake' misses that old news is still true news about the past.
-7. (mcq) In 1919, astronomers photographed stars near the Sun during a total eclipse. The stars seemed slightly out of place. Why?  
-   Options: The Sun's gravity bent the stars' light a tiny bit / The Moon's shadow moved the stars / The camera was broken / The stars really moved  
-   **Answer:** The Sun's gravity bent the stars' light a tiny bit. *Why:* Einstein said heavy things curve space, so light passing near the Sun bends. The measurements agreed with him. Picking 'the stars really moved' misses that the stars returned to their usual places when the Sun moved on.
-8. (mcq) Labs can send light through two slits one photon at a time. Each photon makes one dot on a screen. What appears after thousands of dots?  
-   Options: Wave stripes, bright and dark / Two plain stripes, one for each slit / One dot in the middle / Nothing  
-   **Answer:** Wave stripes, bright and dark. *Why:* Each photon lands as one dot, like a particle. But together the dots build up the stripes that only waves make. This is why scientists say light behaves like both. Picking 'two plain stripes' is what you would expect from tiny marbles, and it is not what happens.
-9. (truefalse) In quantum physics, the 'observer' that changes the result must be a person watching.  
-   **Answer:** False. *Why:* False. In physics, 'observer' means anything that measures, such as a detector or a camera. No person needs to watch. The stripes vanish whenever any detector records which slit the photon used.
-10. (truefalse) Scientists agree completely on what a photon really is between leaving a lamp and landing on a detector.  
-   **Answer:** False. *Why:* False. The sums of quantum physics predict light's behaviour extremely well. But what a photon is really like on its journey is still argued about.
-11. (match) Match each person to what they found about light.  
-   **Answer:** Ole Rømer, 1676 → light takes time to travel, from Jupiter's moon Io; Thomas Young, about 1803 → light makes wave stripes through two slits; James Clerk Maxwell, 1865 → light is a wave of electricity and magnetism; Albert Einstein, 1905 → light comes in packets, later called photons; Lene Hau, 1999 → light slowed to about 17 metres a second. *Why:* Each of them added one piece to what we know about light, over more than 300 years.
-12. (count) The fastest spacecraft goes about 190 kilometres each second. Light goes about 3 lakh kilometres each second. Light is about how many times faster? Choose: 15, 150 or 1,500.  
-   **Answer:** 1500. *Why:* 300,000 divided by 190 is about 1,579. The nearest choice is 1,500. Even our fastest spacecraft is very slow compared with light.
-13. (write) We cannot visit the stars, yet we know a lot about them. How? Give two things light tells us about stars.  
-   **Answer:** We cannot visit the stars, so almost everything we know about them comes from their light. Light tells us where a star is, how bright and hot it is, and even what it is made of. It also tells us how the star was in the past, when the light left it.. *Why:* Cecilia Payne used starlight in 1925 to show that stars are mostly hydrogen. Meghnad Saha, from India, worked out in 1920 how a star's light shows how hot it is.
-14. (write) Light behaves like a wave and also comes in packets. Describe one piece of evidence for each.  
-   **Answer:** Wave: light through two slits, or through fine cloth, makes a pattern of bright and dark spots, like crossing ripples. Packets: a glow star glows after a blue screen but not after a red one, because what matters is each photon's energy. Very sensitive cameras also record light arriving as single dots.. *Why:* Physicists call light a quantum object. It travels like a wave and arrives as packets.
-15. (write) If you could ride on a beam of light from the Sun, describe your trip to the Earth. How long would it take? What would you pass?  
-   **Answer:** I would leave the Sun's surface and fly in a straight line. I would pass Mercury after about 3 minutes and Venus after about 6. After about 8 minutes and 20 seconds I would reach the Earth.. *Why:* Einstein wondered about riding a light beam when he was 16. Thinking like this helped him find his ideas about space and time.
-16. (draw) Draw light as a wave and as photons, in one picture. Label which part is which.  
-   **Answer:** A wavy line from a lamp, with small dots along it, each labelled photon, and the wave labelled wave.. *Why:* Light travels like a wave and arrives as photons. A drawing like this is a model, a picture that helps us think.
+3. (mcq) The Moon is about one and a quarter light-seconds away. Astronauts left mirrors on the Moon. A laser flash is sent there from Earth and bounces back. About how long until the flash returns?  
+   Options: About 1 and a quarter seconds / About 2 and a half seconds / About 8 minutes  
+   **Answer:** About 2 and a half seconds. *Why:* The flash goes there and comes back, so it makes the trip twice. One and a quarter plus one and a quarter is two and a half seconds. Scientists use this to measure the Moon's distance very exactly.
+4. (mcq) Thenmozhi is an astronaut on Mars. She sends a radio message home. Radio travels at the speed of light, and the trip takes 12 minutes. When does her family hear her?  
+   Options: At the same moment she speaks / 12 minutes after she speaks / 12 hours after she speaks  
+   **Answer:** 12 minutes after she speaks. *Why:* Radio is a kind of light. It needs 12 minutes to cross the distance. So a chat with Mars is slow: a question and its answer take at least 24 minutes.
+5. (mcq) Astronomers see a star explode tonight. The star is 600 light-years away. When did the explosion really happen?  
+   Options: Tonight / About 600 years ago / It will happen in 600 years  
+   **Answer:** About 600 years ago. *Why:* The light from the explosion has been travelling for 600 years. So we see it 600 years after it happened. Looking far away is looking back in time.
+6. (write) Galileo's lantern test could not find light's speed, but Rømer's moon test could. What did Rømer have that the lanterns did not?  
+   **Answer:** A huge distance. Rømer used the width of the Earth's path round the Sun, hundreds of millions of kilometres, so the delay was minutes long. Galileo's lanterns were about a mile apart, so the delay was a few millionths of a second, too short to notice. Rømer also had a steady clock: Io's regular trips round Jupiter.. *Why:* A strong answer says that to time something very fast, you need a very long distance or a very exact clock.
+7. (mcq) Scientists can send light through two slits one photon at a time. Each photon makes one dot on a screen. What appears after thousands of dots?  
+   Options: Just two bright lines / The same bright and dark stripes that waves make / Nothing, because single photons cannot be seen  
+   **Answer:** The same bright and dark stripes that waves make. *Why:* Each photon lands as one dot, like a particle. But together the dots build up the striped pattern of a wave. This is why scientists say light travels like a wave and arrives in packets.
+8. (truefalse) In quantum physics, the 'observer' that changes what light does must be a person watching.  
+   **Answer:** False. *Why:* False. The 'observer' is any measuring machine, or anything the light interacts with that keeps a record. No person needs to be watching. This is a common mistake in films and books.
+9. (perspective) Scientists agree on the sums that predict what light does. They do not agree on what is really happening to a photon between a lamp and a screen.  
+   **Answer:** A strong answer picks a view and links it to evidence, for example that single photons land as dots but build up stripes. It then states another view fairly: Bohr's view is careful not to claim more than we can measure, and de Broglie's view keeps a real path for each photon. The best answers say that this is a real open question and that the evidence so far fits all three.. *Why:* There is no agreed answer. All three views predict the same results, so experiments have not yet decided between them.
+10. (match) Match each real person to what they found out about light.  
+   **Answer:** Ole Rømer, 1676 → light takes time to travel, from the timing of Jupiter's moon Io; Hippolyte Fizeau, 1849 → measured the speed of light on Earth with a spinning toothed wheel; Thomas Young, about 1803 → showed light makes wave stripes through two slits; Albert Einstein, 1905 → said light's energy comes in tiny packets, later called photons. *Why:* Each person added one piece. Together they showed that light has a speed, acts like a wave, and comes in packets.
+11. (count) The fastest spacecraft goes about 190 kilometres each second. Light goes about 3 lakh kilometres each second. Light is about how many times faster? Choose 15, 150 or 1,500.  
+   **Answer:** 1500. *Why:* 300,000 divided by 190 is about 1,579. The nearest choice is 1,500. Even our fastest spacecraft is very slow next to light.
+12. (write) Nobody has ever visited a star, yet we know a lot about stars. How? Give two things that light tells us about them.  
+   **Answer:** Light from a star travels to us and carries information. Its colour tells us how hot the star is. Its brightness and other measurements help tell us how far away the star is. Splitting its light into colours tells us what it is made of.. *Why:* A strong answer explains that all we know about stars comes from the light that reaches us, and gives two real examples.
+13. (write) Light behaves like a wave, and its energy also comes in packets. Describe one piece of evidence for each.  
+   **Answer:** Wave: light through two slits, or through a fine cloth, makes a pattern of bright and dark, which only waves make. Packets: in the Glow Star Test, a little blue light worked but a lot of red light did not, because each packet of blue carries more energy.. *Why:* A strong answer gives a different piece of evidence for each side, and at least one from the child's own activities.
+14. (write) Imagine you could ride on a beam of light from the Sun to the Earth. Describe your trip. How long would it take? What would you pass?  
+   **Answer:** I would leave the Sun's surface and cross empty space, with no air and no sound. I might pass the orbits of Mercury and Venus. After about 8 minutes I would reach the Earth, pass through the air and land on someone's face.. *Why:* A strong answer uses real facts: the 8-minute trip, empty space, and the order of the planets. Einstein wondered about riding a light beam when he was 16, and thinking like this helped him find his ideas about space and time.
+15. (draw) Draw light as a wave and as photons in one picture. Label which part shows which idea.  
+   **Answer:** For example: a wavy line going across the page, with small dots placed along it, labelled 'travels like a wave' and 'arrives as packets (photons)'.. *Why:* A strong drawing shows both ideas together, because light is both at once, not one or the other.
+16. (truefalse) Scientists agree completely about what a photon is doing between leaving a lamp and landing on a screen.  
+   **Answer:** False. *Why:* False. The sums that predict what light does work extremely well. But what a photon is doing between being made and being measured is still argued about. This is one of the big open questions in physics.
 
 ## Videos
 - **Why No One Has Measured The Speed Of Light** (Veritasium, 9 min) id `pTn6Ewhb27k`: For the parent and curious older children: how the speed of light is measured, and the surprising puzzle of whether its speed is the same going and coming back. *Check:* Video id recalled, not opened from here: a parent should check it plays and is the Veritasium video of this title before showing.
@@ -789,49 +784,48 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
 - **Speed of light illustrated by Dr. James O'Donoghue** (Space Enthusiast (animation by James O'Donoghue, a planetary scientist), 9 min) id `wUKwAdeaQnY`: An animation that travels at the real speed of light, so the child can feel how long the 8-minute trip from the Sun takes and how slow it looks across the solar system. *Check:* Found by YouTube search: "Speed of light illustrated by Dr. James O'Donoghue" by Space Enthusiast. Title checked automatically; a parent may still preview it.
 
 ## Quiz
-1. (mcq) What is light?  
-   Options: Energy that travels, even through empty space / A kind of air / A sound you can see / Something that only bulbs make  
-   **Answer:** Energy that travels, even through empty space. *Why:* Light is energy that travels outwards from light sources. It crosses empty space. Picking 'a kind of air' mixes up light with what it shines through.
-2. (mcq) Which of these needs air to travel, while light does not?  
-   Options: Sound / Sunlight / Starlight / Radio waves  
-   **Answer:** Sound. *Why:* Sound needs air or something else to pass it along. Light, and waves like it such as radio waves, cross empty space. Picking 'radio waves' usually means thinking radio is a kind of sound, but it is the same kind of wave as light.
-3. (mcq) About how fast does light travel in empty space?  
-   Options: About 3 lakh kilometres a second / About 300 kilometres an hour / About 1 kilometre in 3 seconds / No speed at all, it is instant  
-   **Answer:** About 3 lakh kilometres a second. *Why:* Light goes about 3 lakh kilometres every second. '1 kilometre in 3 seconds' is the speed of sound. 'Instant' is the old idea that Rømer showed was wrong.
-4. (mcq) Sunlight takes about 8 minutes to reach us. What does that mean when you see the sunrise?  
-   Options: You see the Sun as it was about 8 minutes ago / You see the Sun as it will be in 8 minutes / The Sun rose 8 hours ago / The Sun is 8 kilometres away  
-   **Answer:** You see the Sun as it was about 8 minutes ago. *Why:* The light took about 8 minutes to travel to you. So you see the Sun as it was when that light left. Picking 'will be' means thinking light shows the future. Picking '8 kilometres' mixes up time and distance.
-5. (mcq) In the Flash and Bang experiment, which arrived first from 200 steps away?  
-   Options: The flash, the sight of the plates meeting / The bang / Both at exactly the same moment  
-   **Answer:** The flash, the sight of the plates meeting. *Why:* Light is almost a million times faster than sound. From 200 steps, light arrives almost at once and sound a moment later. Picking 'the same moment' is true only when you stand very close.
-6. (count) You count 12 seconds between a lightning flash and its thunder. About how many kilometres away is the lightning?  
-   **Answer:** 4. *Why:* Sound travels about 1 kilometre every 3 seconds. 12 divided by 3 is 4. So it is about 4 kilometres away.
-7. (mcq) Ole Rømer found in 1676 that Jupiter's moon Io seemed late when the Earth was far from Jupiter. Why?  
-   Options: The light carrying the news had further to travel / Io slowed down / Jupiter's shadow grew / His telescope was faulty  
-   **Answer:** The light carrying the news had further to travel. *Why:* Io was never late. Its light simply had a longer trip. Picking 'Io slowed down' is the first idea most people have, but Rømer showed it was the light that took time.
-8. (mcq) Galileo's lantern test, with two people far apart, did not show any delay. Why?  
-   Options: Light was far too fast for people to time it over that distance / Light cannot travel that far / The lanterns were too far apart / Galileo's lanterns were too dim  
-   **Answer:** Light was far too fast for people to time it over that distance. *Why:* Light crosses a few kilometres in a tiny fraction of a second. People react far more slowly. So the test only measured reactions. Picking 'too dim' misses that dim light travels just as fast as bright light.
-9. (mcq) What is a photon?  
-   Options: A single tiny packet of light / A wave of sound / A kind of atom / A camera  
-   **Answer:** A single tiny packet of light. *Why:* Light comes in tiny packets called photons. Picking 'a kind of atom' mixes up photons with the atoms that give them out.
-10. (mcq) Thomas Young saw bright and dark stripes when light went through two slits. Isaac Newton thought light was tiny particles. Who was right?  
-   Options: Both, in a way: light travels like a wave and arrives in packets / Only Newton / Only Young / Neither, light is just air  
-   **Answer:** Both, in a way: light travels like a wave and arrives in packets. *Why:* Light makes wave stripes, as Young showed. It also arrives as tiny packets, the photons. Picking only one of them misses that light behaves like both.
-11. (mcq) In the Glow Star Test, the red screen did not make the star glow, even for 2 minutes, but the blue screen did. What does this show?  
-   Options: Light comes in packets, and each blue packet has more energy than each red one / Red light is too bright / Blue light is faster than red light / Glow stars only like blue  
-   **Answer:** Light comes in packets, and each blue packet has more energy than each red one. *Why:* Each blue photon carries enough energy to make the star glow, and each red photon does not. Picking 'blue is faster' is a common mix-up. All colours travel at the same speed in empty space.
-12. (mcq) What is a light-year?  
-   Options: The distance light travels in one year / A year that is very bright / The time it takes to make light / A year with no night  
-   **Answer:** The distance light travels in one year. *Why:* A light-year is a distance, about 9 and a half lakh crore kilometres. Picking a time is a very common mix-up, because the word 'year' is in it.
-13. (mcq) You look at a star 50 light-years away. What are you seeing?  
-   Options: The star as it was about 50 years ago / The star as it is right now / The star as it will be in 50 years / Only a picture painted on the sky  
-   **Answer:** The star as it was about 50 years ago. *Why:* Its light took 50 years to reach you. So you see the star as it was when that light set out. Looking far away is looking back in time.
-14. (mcq) Which of these do scientists still NOT know?  
-   Options: What a photon is really like between leaving a lamp and being detected / How fast light travels / How long sunlight takes to reach us / Whether light can cross empty space  
-   **Answer:** What a photon is really like between leaving a lamp and being detected. *Why:* Light's speed and travel times are measured very exactly, and we know it crosses space. But what a photon really is on its journey is still argued about. That is one of the big open questions in physics.
-15. (truefalse) In quantum physics, an 'observer' must be a person.  
-   **Answer:** False. *Why:* False. In physics, an observer is anything that measures, like a detector or a camera. A person does not need to be watching.
+1. (mcq) Which of these is a light source, making its own light?  
+   Options: The Moon / A candle flame / A mirror  
+   **Answer:** A candle flame. *Why:* A candle flame makes its own light. The Moon and a mirror only bounce back light that comes from somewhere else, like the Sun.
+2. (mcq) We can see the Sun across empty space, but we can never hear it. Why?  
+   Options: Light can cross empty space, but sound needs air or something else to travel through / The Sun is silent / Sound is faster than light  
+   **Answer:** Light can cross empty space, but sound needs air or something else to travel through. *Why:* Light needs nothing to travel through. Sound is a shaking of air, water or a solid, so it cannot cross empty space.
+3. (mcq) About how long does light from the Sun take to reach the Earth?  
+   Options: No time at all / About 8 minutes / About 8 days  
+   **Answer:** About 8 minutes. *Why:* The Sun is about 15 crore kilometres away. Light, at 3 lakh kilometres a second, takes about 8 minutes to cross that gap.
+4. (mcq) Riya sees the sunrise at exactly 6 o'clock. When did that light leave the Sun?  
+   Options: At exactly 6 o'clock / About 8 minutes before 6 o'clock / The day before  
+   **Answer:** About 8 minutes before 6 o'clock. *Why:* The light took about 8 minutes to travel. So it left the Sun about 8 minutes before Riya saw it.
+5. (mcq) In the Flash and Bang experiment, what was the one thing you changed between tries?  
+   Options: How far you stood from the helper / The kind of plates / How hard the helper banged  
+   **Answer:** How far you stood from the helper. *Why:* A fair test changes only one thing. Changing only the distance shows that the gap between seeing and hearing grows with distance.
+6. (mcq) You count 15 seconds between a lightning flash and its thunder. About how far away is the lightning?  
+   Options: About 5 kilometres / About 15 kilometres / About 45 kilometres  
+   **Answer:** About 5 kilometres. *Why:* Sound takes about 3 seconds to travel 1 kilometre. 15 divided by 3 is 5. So the lightning is about 5 kilometres away.
+7. (mcq) Ole Rømer showed in 1676 that light takes time to travel. What did he use as his clock?  
+   Options: Jupiter's moon Io, which goes round Jupiter at a steady pace / A candle that burned down / The tides of the sea  
+   **Answer:** Jupiter's moon Io, which goes round Jupiter at a steady pace. *Why:* Io disappears into Jupiter's shadow at steady times. When those times seemed late, Rømer worked out that the light had further to travel.
+8. (mcq) In 1849, Hippolyte Fizeau measured the speed of light on Earth for the first time. What did he use?  
+   Options: A fast-spinning wheel with teeth, and a mirror far away / Two lanterns on hills / A glow star  
+   **Answer:** A fast-spinning wheel with teeth, and a mirror far away. *Why:* Light went through a gap between two teeth, bounced off a mirror about 8 kilometres away and came back. At the right speed of spin, a tooth blocked it on the way back. From that he worked out light's speed.
+9. (mcq) Light travels like a wave. What else is true about it?  
+   Options: Its energy comes in tiny packets called photons / It needs air to travel / It is slower than sound  
+   **Answer:** Its energy comes in tiny packets called photons. *Why:* Light spreads like a wave, but its energy arrives in tiny packets called photons. Both are true at once.
+10. (mcq) Why can one blue photon make a glow star glow, when many red photons cannot?  
+   Options: Each blue photon carries more energy than each red photon / Blue photons are bigger / Red light is too dim  
+   **Answer:** Each blue photon carries more energy than each red photon. *Why:* The glow star needs a big enough kick from each single photon. Blue photons have enough energy, red ones do not, however many there are.
+11. (mcq) A light-year measures…  
+   Options: a distance: how far light goes in one year / a time: how long a year lasts / how bright a star is  
+   **Answer:** a distance: how far light goes in one year. *Why:* Despite the word 'year', a light-year is a distance, about 95 lakh crore kilometres.
+12. (mcq) The Andromeda galaxy is about 25 lakh light-years away. When you see it, you see it as it was…  
+   Options: tonight / about 25 lakh years ago / 25 lakh years in the future  
+   **Answer:** about 25 lakh years ago. *Why:* Its light has been travelling for about 25 lakh years. So looking at it is looking back in time.
+13. (mcq) Which question about light is still open, with no agreed answer?  
+   Options: How fast light goes in empty space / What a single photon is really doing between a lamp and a screen / Whether light is faster than sound  
+   **Answer:** What a single photon is really doing between a lamp and a screen. *Why:* Light's speed is known exactly, and it is far faster than sound. But what a photon is doing before it is measured is still argued about.
+14. (mcq) Who or what counts as an 'observer' in quantum physics?  
+   Options: Only a person who is watching / Any measuring machine, or anything that records what the light did / Only a scientist with a telescope  
+   **Answer:** Any measuring machine, or anything that records what the light did. *Why:* A machine that records the light is enough. No person needs to watch.
 
 ## Applications
 - The internet travels between countries as flashes of light inside thin glass threads under the sea.
@@ -853,7 +847,7 @@ At home she took out Luc's letter and read it again. 'The sea is calm,' he had w
 - Fireworks at Diwali: you see the burst before you hear the bang.
 - A rooftop solar panel turning sunlight into electricity.
 - A dish antenna on a building, catching signals sent at light-speed from a satellite.
-- A long cricket ground: from the far stands, you see the bat hit the ball a moment before you hear it.
+- A long cricket ground: from the far stands, you see the bat hit the ball a moment before you hear the knock.
 - A lighthouse on the coast, like the one at Marina Beach in Chennai, flashing its own pattern at night.
 - Sunbeams through a dusty window, showing light travels in straight lines.
 - The Moon at night. Its light is about 1 second old when it reaches you.

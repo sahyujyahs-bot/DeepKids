@@ -101,7 +101,7 @@ Cotton, paper and sponge are full of tiny gaps between fibres. Water is pulled i
 ### Surface tension: why water forms round drops · *defined*
 **Definition:** Surface tension is a pull between the particles at the top of water. It makes the surface act like a stretchy skin.
 
-Look at a drop on a leaf. Its surface holds together like a thin skin. That is why a needle can float on still water, and why a pond insect can walk on it. About 135 years ago, a woman called Agnes Pockels, who lived in Germany, measured this skin in her kitchen. Women in Germany were not allowed to study at university then. She used a tin tray, a balance and a small button. She found that a drop of oil or soap on the water changes its skin. In 1891 she wrote to Lord Rayleigh, a famous British physicist. He helped her get her work printed in the journal Nature. Later, the American scientist Irving Langmuir built on her kind of tray, and he won a Nobel Prize in 1932. She did not. The unit Testing materials tells more of her story.
+Look at a drop on a leaf. Its surface holds together like a thin skin. That is why a needle can float on still water, and why a pond insect can walk on the water. About 135 years ago, a woman called Agnes Pockels, who lived in Germany, measured this skin in her kitchen. Women in Germany were not allowed to study at university then. She used a tin tray, a balance and a small button. She found that a drop of oil or soap on the water changes its skin. In 1891 she wrote to Lord Rayleigh, a famous British physicist. He helped her get her work printed in the journal Nature. Later, the American scientist Irving Langmuir built on her kind of tray, and he won a Nobel Prize in 1932. She did not. The unit Testing materials tells more of her story.
 - e.g. A water strider insect stands on a pond without sinking.
 - e.g. A drop of dish soap makes the skin weaker, so pepper sprinkled on the water rushes away from it.
 - e.g. Soap lets water soak into cloth, because it weakens the skin.
@@ -153,7 +153,7 @@ Scientists agree on how to measure strength. They do not agree on the winner, be
 - e.g. A spider's dragline silk is thinner than a hair and tough enough to stop a flying insect.
 - e.g. Graphene is one atom thick.
 - **Engineers:** For building things, the best material is the one that does the job cheaply and safely. So steel and concrete still win.
-- **Biologists and material scientists studying spider silk:** Weight for weight, spider silk is among the toughest fibres known. A spider makes it at room temperature from a fly's meal. People still cannot copy it exactly.
+- **Biologists and material scientists studying spider silk:** Weight for weight, spider silk is among the toughest fibres known. A spider makes this silk at room temperature from a fly's meal. People still cannot copy it exactly.
 - **Physicists who measured graphene in 2008:** They poked a single sheet of graphene with a tiny diamond tip. They found it was the strongest material ever measured, for its thickness. Sheets this perfect are very hard to make large.
 - **Astrophysicists using computer models, in 2018:** Deep inside a dead star there may be a material called nuclear pasta. Their simulations say it could be billions of times stronger than steel. Nobody has ever touched it, and nobody can.
 ### Materials that grow: bone, wood and shell · *defined*
@@ -253,7 +253,7 @@ The village had opinions. 'The cotton is bad,' said the neighbour. 'Her hands ar
 
 That night, Shefali could not sleep. She thought about it the way you pull at a knot. If the cotton was bad, it would have been bad at dawn. If the hands were tired, they would have been tired at dawn. Same cotton. Same hands. So something else had changed between the morning and the noon. What?
 
-She did not know. But she knew one way to find out. Her father was a trader, and he had taught her to count with cowrie shells. People in Bengal used the little white shells as money. Shefali kept a basket of them, all picked out to be the same size.
+She did not know. But she knew one way to find out. Her mother was a trader, and she had taught her to count with cowrie shells. People in Bengal used the little white shells as money. Shefali kept a basket of them, all picked out to be the same size.
 
 Before sunrise, she got up. She cut a piece of thread as long as her forearm. She tied a small cup made of leaf to the bottom, and she hung the thread from a bamboo pole. Then she dropped shells into the cup, one at a time, and counted out loud. At ten shells, the thread shivered. At thirteen, it was still there. At fourteen, it snapped. She wrote the number in the dust. Then she did it with a second thread, and a third. Fourteen, thirteen, fourteen.
 
@@ -635,7 +635,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Parent does:* Swap. Your child calls the words and you dance. Talk about what changed.  
   *Parent says:* Now you call, and I will dance. Which veil is best for hiding? Which is best for watching?  
   *Child mode:* Swap places. You call the words now.
-  - Check: Early morning fog is thin. You can see a tree through it, but the tree looks blurry. Fog is… → **Translucent**
+  - Check: Early morning fog is thin. You can see a tree through the fog, but the tree looks blurry. Fog is… → **Translucent**
 - **s4 (3 min)**  
   *Parent does:* Draw the three veils and write transparent, translucent or opaque under each.  
   *Parent says:* Draw the three veils. Write a word under each one.  
@@ -752,126 +752,119 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 
 ## Worksheets
 ### Property Detective (core) (core, 16 questions)
-1. (mcq) What is a property of a material?  
-   Options: A word that tells what the material is like / The name of the object it makes / The shop where it is sold / How much it costs  
-   **Answer:** A word that tells what the material is like. *Why:* A property is a word like hard, shiny or waterproof. It tells what the material is like. Picking 'the name of the object' mixes up object and material. A spoon is an object. Steel is the material. Picking 'how much it costs' is about price, which is not what the material is like.
-2. (mcq) A steel tumbler and a steel spoon are two different objects. What is the same about them?  
-   Options: Their shape / Their material / Their size / Their use  
-   **Answer:** Their material. *Why:* Both are made of steel. The material is the same, so its properties, like hard and shiny, are the same. Picking shape, size or use mixes up the object and the material. Objects can have different shapes and uses even when the material is the same.
-3. (sort) Sort these into hard and soft. Hard means hard to scratch.  
-   **Answer:** Steel nail → Hard; Chalk → Soft; Granite stone → Hard; Bar of soap → Soft; Glass tumbler → Hard; Candle wax → Soft. *Why:* A nail, granite and glass are hard to scratch. Chalk, soap and wax are easy to scratch with a fingernail. People also call cotton wool soft, but that is a different meaning of soft, which is squashy. In science, hard and soft are about scratching.
-4. (fill) A material that lets no light through is ____.  
-   **Answer:** ['opaque']. *Why:* Opaque means no light comes through. Transparent lets light through clearly. Translucent lets light through, but blurred.
-5. (match) Match each property to a simple test.  
+1. (mcq) Meenakshi, a girl in Class 3, says four things about her steel lunch box. Which one is about the box, and not about the steel?  
+   Options: It is shaped like a rectangle / It is shiny / It keeps water out / It rings when I tap it  
+   **Answer:** It is shaped like a rectangle. *Why:* Shape belongs to the object. The same steel could be made into a round tumbler or a flat spoon. Shiny, waterproof and ringing stay true of steel in any shape, so they are properties of the material. A strong answer says why: change the shape and these three stay the same.
+2. (sort) Which words tell you what a material is like? Sort them.  
+   **Answer:** Bends easily → Tells what the material is like; Soaks up water → Tells what the material is like; Easy to scratch → Tells what the material is like; Lets light through → Tells what the material is like; Costs 50 rupees → Does not; Bought in Kochi → Does not; My favourite → Does not. *Why:* A property is something you can find out by looking, touching or testing the material itself. Price, where it was bought and whether you like it tell you about you or the shop, not about the material.
+3. (match) Match each property to a simple test.  
    **Answer:** Hard → Try to scratch it; Flexible → Try to bend it; Waterproof → Drip water on it; Transparent → Look through it; Strong → Hang weights from it. *Why:* Each property has a test that shows it. Hard is about scratching. Flexible is about bending. Waterproof is about water staying out. Transparent is about seeing through. Strong is about how much weight it holds before breaking.
-6. (truefalse) In a room, a steel spoon is colder than a wooden spoon.  
-   **Answer:** False. *Why:* False. Both are the same temperature as the room. The steel spoon only feels colder, because it carries heat away from your hand faster. A thermometer would show the same number for both.
-7. (mcq) Which property makes a cotton towel good for drying you?  
-   Options: It is waterproof / It is absorbent / It is shiny / It is rigid  
-   **Answer:** It is absorbent. *Why:* Absorbent means it soaks up water into its tiny gaps. Picking waterproof is the opposite, because a waterproof towel would push the water around on your skin. Picking shiny or rigid has nothing to do with drying.
-8. (order) Put these in order from MOST flexible to LEAST flexible. A cotton cloth, a sheet of paper, a thin cardboard, a wooden stick.  
-   **Answer:** order shown. *Why:* Cloth bends in any direction with the lightest touch. Paper bends easily but holds a fold. Cardboard is stiffer. The wooden stick hardly bends at all. This is an example of comparing materials in a ladder from most to least.
-9. (mcq) A glass tumbler is hard to scratch, but it breaks when dropped. What does this tell you?  
-   Options: Glass is hard and also brittle / Glass is soft / Glass is strong / Hard things never break  
-   **Answer:** Glass is hard and also brittle. *Why:* Hard is about scratching. Brittle is about snapping or shattering. Glass is both hard and brittle. Picking 'glass is strong' mixes up hard and strong. Many people think hard means unbreakable, but a hard thing can still shatter.
-10. (truefalse) One sheet of butter paper and a tall stack of butter paper let through the same amount of light.  
-   **Answer:** False. *Why:* False. One sheet lets a lot of light through. A tall stack lets almost none. So a material's property can change with its thickness.
-11. (mcq) You want to compare how strong a paper strip and a cloth strip are. What is the fairest way?  
-   Options: Cut both the same width and length, and pour water one cup at a time into a bag hanging from each / Pull the paper hard and the cloth gently / Use a wide paper strip and a thin cloth strip / Look at which one seems stronger  
-   **Answer:** Cut both the same width and length, and pour water one cup at a time into a bag hanging from each. *Why:* To compare fairly, change only the material. Keep the width, length and method the same. Picking different widths changes more than one thing. Picking 'looks stronger' is a guess, not a test.
-12. (fill) A material that snaps or shatters instead of bending is called ____.  
-   **Answer:** ['brittle']. *Why:* Brittle things, like glass bangles, dry biscuits and chalk, break into pieces when pushed too far. They do not bend first.
-13. (write) Choose one object at home. Write four properties of its material. For each one, say how you found out.  
-   **Answer:** Any object with four right properties and a way to test each. For example, a steel tumbler. It is shiny, because I can see my face in it. It is hard, because my fingernail cannot scratch it. It is waterproof, because water stays inside. It rings when I tap it with a spoon.. *Why:* Each property should come with a way of finding it out, by looking, touching, listening or testing.
-14. (mcq) In the dry or damp test, a newspaper strip held 6 cups of water when dry and 1 cup when damp. What can you say?  
-   Options: The damp strip held 5 cups less, so water made it much weaker / Water made the paper stronger / Dry and damp paper are the same / You cannot say anything from numbers  
-   **Answer:** The damp strip held 5 cups less, so water made it much weaker. *Why:* 6 take away 1 is 5. So the damp strip held 5 cups less than the dry one. Water gets between the paper fibres and loosens the joins that hold them together. Picking 'stronger' usually means thinking that wet things must be tougher because they feel heavy.
-15. (write) The handle of a tawa or a frying pan is often made of wood or plastic. Why not steel?  
-   **Answer:** Steel carries heat very well, so a steel handle would get too hot to hold. Wood and plastic carry heat slowly. They are insulators. So the handle stays cool enough to hold.. *Why:* Steel is a conductor of heat and wood or plastic is an insulator. The pan needs the first and the handle needs the second.
-16. (draw) Draw a ladder with four rungs. Put four things on it, from the hardest at the top to the softest at the bottom.  
-   **Answer:** Any four things in a sensible order. For example, from top to bottom: diamond, steel nail, fingernail, chalk.. *Why:* A ladder puts things in order. A child can check each step: does the upper one scratch the lower one?
+4. (fill) A rubber band stretches when you pull it and goes back to its old shape when you let go. This property is called ____.  
+   **Answer:** ['elastic']. *Why:* Elastic means it springs back after being stretched or bent. A paper clip that stays bent is not elastic.
+5. (truefalse) A coir rope is soft, so it must be weak.  
+   **Answer:** False. *Why:* False. A coir rope is soft to touch, yet it can lift a full bucket from a well. Soft is about scratching or squashing. Strong is about how much weight it holds before it breaks. They are different properties, so one does not tell you the other.
+6. (mcq) Kavya leaves a steel spoon and a wooden spoon standing in a pot of hot rasam. After two minutes she touches the top of each handle. What will she feel?  
+   Options: The steel handle is hot, the wooden one is only warm / Both are equally hot / The wooden handle is hotter / Both are still cold  
+   **Answer:** The steel handle is hot, the wooden one is only warm. *Why:* Steel is a conductor of heat: heat travels through it quickly, all the way up the handle. Wood is an insulator: heat moves through it slowly. A strong answer names the property and says what it does to the heat.
+7. (order) Put these in order, from the one that lets MOST light through to the one that lets LEAST through: a wooden door, a clear glass window, a thin cotton dupatta held up to the window, a folded bedsheet.  
+   **Answer:** order shown. *Why:* Clear glass is transparent: you see clearly through it. A thin dupatta is translucent: light gets through, but blurred. A folded bedsheet lets only a little light through, because there are more layers. A wooden door is opaque: no light at all.
+8. (write) A bath towel and an umbrella are both made of cloth. The towel soaks up water. The umbrella keeps water out. How can two cloths behave in opposite ways? Use what you saw in the vanishing drop test.  
+   **Answer:** A strong answer says the two cloths are different materials, or are made differently. Towel cotton has loose loops with many tiny gaps, so water creeps in and the drop vanishes fast. Umbrella cloth is woven very tightly and often coated with plastic, so the drop sits on top, like on the plastic bag.. *Why:* The word 'cloth' does not tell you the properties. What the fibres are and how tightly they are packed decide whether water gets in.
+9. (mcq) Divya says, 'My pencil is made of wood. So wood is one of its properties.' What is her mistake?  
+   Options: Wood is the material. A property would be a word like light or easy to sharpen / There is no mistake / Pencils are not made of anything / Wood is the object  
+   **Answer:** Wood is the material. A property would be a word like light or easy to sharpen. *Why:* The material is what a thing is made of. A property says what that material is like. Divya mixed up the two. Picking 'wood is the object' mixes it up the other way, because the pencil is the object.
+10. (draw) Draw one object from your kitchen. Write its material next to it. Then label three properties of that material, and how you found each one out.  
+   **Answer:** Any kitchen object with its correct material and three true properties. For example, a steel tumbler: shiny (I see my face in it), hard (my fingernail cannot scratch it), waterproof (water stays inside).. *Why:* This checks that the child can tell object, material and property apart, and that each property comes from looking, touching or testing.
+11. (perspective) Lakshmi needs a new water bottle for school. Three people in her family give advice.  
+   **Answer:** A strong answer picks one bottle and names the properties that matter for a child at school: strong and not brittle, light, transparent, or no taste. It then admits a fair point from another side, for example that glass is transparent but brittle, or that steel is strong but heavier and opaque.. *Why:* No material wins on every property. The job, and who does it, decides which properties matter most. Here a dropped bottle is a real risk, so many children choose steel, but there is no single right answer.
+12. (mcq) Revathi pushes three strips over the edge of a table, the same length each: a steel ruler, a plastic ruler and a strip of cotton cloth. Which tip will droop the most?  
+   Options: The cloth / The steel ruler / The plastic ruler / All the same, because they are the same length  
+   **Answer:** The cloth. *Why:* Cloth is the most flexible, so it hangs straight down. The steel ruler is the most rigid and hardly droops. Picking 'all the same' forgets that the material changed, and the material decides how flexible the strip is.
+13. (truefalse) Big, heavy things always sink in water.  
+   **Answer:** False. *Why:* False. A big wooden log floats, and a tiny steel pin sinks. What matters is how tightly packed the material is compared with water, not how big or heavy the object is. Many people believe this, so it is worth testing with things from the kitchen.
+14. (write) In the snap, bend or spring back test, you pushed things past their limit. Pick one thing that snapped, one that stayed bent and one that sprang back. Name the property each one showed.  
+   **Answer:** For example: the chalk snapped, so it is brittle. The paper clip stayed bent, so it is flexible but not elastic. The plastic ruler sprang back, so it is elastic. A strong answer uses the child's own results.. *Why:* Brittle, flexible and elastic are three different ways a material can answer a push. The child's own test is the evidence.
+15. (fill) A sponge soaks up water into its tiny holes. A material that soaks up water is called ____.  
+   **Answer:** ['absorbent']. *Why:* Absorbent means it takes water into its gaps. The opposite is waterproof.
+16. (mcq) Rani wants a cover for her notebook that will not be spoiled when she walks home in the rain. Which property matters most?  
+   Options: Waterproof / Absorbent / Transparent / Brittle  
+   **Answer:** Waterproof. *Why:* The job is to keep rain off the pages, so the cover must keep water out. An absorbent cover would soak up the rain and wet the book.
 ### Measure and Reason (stretch) (stretch, 16 questions)
-1. (order) Chalk scratches soap. A fingernail scratches chalk. A steel nail scratches a fingernail. Put them in order from SOFTEST to HARDEST: steel nail, soap, fingernail, chalk.  
-   **Answer:** order shown. *Why:* If A scratches B, then A is harder than B. So soap is below chalk, chalk is below the fingernail and the fingernail is below the nail. Putting several things in order from clues is how Friedrich Mohs built his ladder of hardness.
-2. (mcq) A steel nail scratches a piece of copper. A fingernail cannot. What does this tell you about the copper?  
-   Options: It is harder than a fingernail, and softer than the nail / It is softer than a fingernail / It is harder than the nail / Nothing, because scratching tells us nothing  
-   **Answer:** It is harder than a fingernail, and softer than the nail. *Why:* The nail scratched the copper, so the copper is softer than the nail. The fingernail could not scratch the copper, so the copper is harder than the fingernail. That places it between the two. Picking 'softer than a fingernail' reverses the clue.
-3. (mcq) A steel ship floats, but a steel nail sinks. Why?  
+1. (order) Read the clues. A steel key scratches a copper coin. The coin scratches a wooden pencil. The pencil's wood makes a groove in candle wax. Put them in order from SOFTEST to HARDEST.  
+   **Answer:** order shown. *Why:* If one thing scratches another, the first is harder. So wax is below wood, wood is below copper, and copper is below steel. Putting things in order from clues like these is how the Mohs scale of hardness was built.
+2. (mcq) A steel ship floats, but a steel nail sinks. Why?  
    Options: The ship is hollow, so on average it is less packed than water / The ship is lighter than the nail / The sea pushes harder on big things / Ships are made of a special steel  
    **Answer:** The ship is hollow, so on average it is less packed than water. *Why:* A ship has a huge space inside, full of air. Counting steel and air together, a ship is less packed than the water it pushes aside, so it floats. A nail is solid steel, which is more packed than water. Picking 'lighter' is the common mistake. A ship weighs thousands of tonnes.
-4. (truefalse) A diamond and the black lead of a pencil are made of the same kind of atom.  
-   **Answer:** True. *Why:* True. Both are only carbon. The difference is how the atoms are joined. In diamond they are locked in all directions. In graphite they lie in sheets that slide.
-5. (mcq) A steel plate and a plastic plate come out of the same freezer. The steel plate feels colder. Why?  
-   Options: Steel carries heat out of your hand faster / Steel holds more cold inside / Plastic is warmer in the middle / Steel is shinier  
-   **Answer:** Steel carries heat out of your hand faster. *Why:* Both plates are at the same temperature. Steel is a conductor, so it pulls heat out of your fingers quickly, and your skin feels that as cold. Plastic is an insulator, so heat leaves your hand slowly. Picking 'steel holds more cold' is the common idea that cold is something stored inside things.
-6. (fill) Water climbing up through the tiny gaps in a paper towel is called ____.  
-   **Answer:** ['wicking']. *Why:* Wicking is water creeping up through tiny gaps, even upwards against gravity. It is how a diya wick lifts oil and how a towel soaks up a spill.
-7. (mcq) In the story, cotton thread held 14 shells in the damp dawn and only 11 at dry noon. What is the best explanation?  
-   Options: Cotton thread is stronger when it is damp / The shells were heavier at noon / The thread was tired / The cotton changed into another material  
-   **Answer:** Cotton thread is stronger when it is damp. *Why:* Shefali used the same thread, the same length and the same shells. Only the dampness of the air changed. Then she made a noon thread damp, and it held 14. So damp makes cotton a little stronger. Picking 'tired' does not fit the test, because a damp thread at noon held as much as a dawn thread.
-8. (match) Match each material to what is happening inside it.  
-   **Answer:** Diamond → Each atom is locked to four neighbours; Graphite → Atoms lie in flat sheets that slide; Metal → Some electrons roam between the atoms; Rubber → Long tangled chains that straighten when pulled. *Why:* These pictures explain properties. Locked atoms make diamond hard. Sliding sheets make graphite soft. Roaming electrons make metals shiny and good at carrying heat. Tangled chains make rubber stretchy.
-9. (sort) Sort these into conductors and insulators of heat.  
-   **Answer:** Base of a steel pan → Conductor of heat; Wooden spoon handle → Insulator of heat; Woollen shawl → Insulator of heat; Aluminium foil → Conductor of heat; Plastic tiffin lid → Insulator of heat; Copper vessel → Conductor of heat. *Why:* Metals carry heat quickly. Wood, wool and plastic carry it slowly. A woollen shawl keeps you warm because it traps air, and air is a poor conductor. It does not make heat.
-10. (mcq) You want to know whether a rubber band or a thread stretches more. Which is the fairest test?  
-   Options: Start both at the same length and hang the same weight. Measure the stretch in centimetres / Pull the thread harder than the rubber band / Start with a long thread and a short rubber band / Pull both and see which feels stretchier  
-   **Answer:** Start both at the same length and hang the same weight. Measure the stretch in centimetres. *Why:* A fair test changes only the material. The starting length and the weight must be the same, and the stretch measured with a ruler. Picking different lengths or pulls changes more than one thing.
-11. (truefalse) On the Mohs scale, diamond at 10 is exactly 10 times as hard as talc at 1.  
-   **Answer:** False. *Why:* False. The numbers only give the order. Diamond is far harder than the next mineral, corundum at 9, not just a little harder. A ladder tells you who is above whom, not by how much.
-12. (mcq) Look at the table. Which material is the most rigid?  
-   Options: Corrugated card / Thin card / Paper / Cloth  
-   **Answer:** Corrugated card. *Why:* In the droop test, the more rigid a strip is, the less its end droops. The corrugated card drooped just 1 centimetre, the least. Picking cloth is the common mistake of reading a big number as 'more'. Here a big droop means more flexible, not more rigid.
-13. (mcq) A strip held 6, 5 and 6 cups of water in three tries. Another strip held 2, 7 and 4. Which result can you trust more?  
+3. (write) Malini rolls a sheet of kitchen foil into a tight ball and drops it into a bucket of water. It sinks. Then she flattens the same foil into a little boat. What do you predict will happen, and why?  
+   **Answer:** The boat floats. A strong answer says the material is the same, but the shape has changed. The boat is hollow and full of air, so all together it is less tightly packed than the water it pushes aside. The ball is solid foil, which is more tightly packed than water.. *Why:* Sinking and floating depend on the object's shape as well as its material. This is why a steel ship floats.
+4. (mcq) A strip held 6, 5 and 6 cups of water in three tries. Another strip held 2, 7 and 4. Which result can you trust more?  
    Options: The first, because the three numbers are close / The second, because it reached 7 / Neither, because tests are never reliable / They are equally reliable  
    **Answer:** The first, because the three numbers are close. *Why:* When repeated tries give close numbers, the result is reliable. When they are far apart, something changed between tries, such as the method. Picking the second because of the biggest number would be trusting the luckiest try.
-14. (write) Name one property that matters most for school shoes, and one for a school bag. Explain your choices.  
+5. (mcq) Look at the table. Foil and cloth both drooped 10 centimetres, which is the whole way down. How could you find out which of the two is more flexible?  
+   Options: Make both strips stick out only 5 centimetres, so neither hangs straight down / Use a longer strip of cloth / Measure them again in the same way / You cannot ever find out  
+   **Answer:** Make both strips stick out only 5 centimetres, so neither hangs straight down. *Why:* When both strips hang straight down, the test has reached its limit and cannot tell them apart. A shorter overhang makes a gentler test. Measuring again in the same way gives the same tie. Changing only one strip's length is not fair.
+6. (match) Match each material to what is happening inside it.  
+   **Answer:** Diamond → Each atom is locked to four neighbours; Graphite → Atoms lie in flat sheets that slide; Metal → Some electrons roam between the atoms; Rubber → Long tangled chains that straighten when pulled. *Why:* These pictures explain properties. Locked atoms make diamond hard. Sliding sheets make graphite soft. Roaming electrons make metals shiny and good at carrying heat. Tangled chains make rubber stretchy.
+7. (sort) Sort these into conductors and insulators of heat.  
+   **Answer:** Base of a steel pan → Conductor of heat; Wooden spoon handle → Insulator of heat; Woollen shawl → Insulator of heat; Aluminium foil → Conductor of heat; Plastic tiffin lid → Insulator of heat; Copper vessel → Conductor of heat. *Why:* Metals carry heat quickly. Wood, wool and plastic carry it slowly. A woollen shawl keeps you warm because it traps air, and air is a poor conductor. It does not make heat.
+8. (mcq) You want to know whether a rubber band or a thread stretches more. Which is the fairest test?  
+   Options: Start both at the same length and hang the same weight. Measure the stretch in centimetres / Pull the thread harder than the rubber band / Start with a long thread and a short rubber band / Pull both and see which feels stretchier  
+   **Answer:** Start both at the same length and hang the same weight. Measure the stretch in centimetres. *Why:* A fair test changes only the material. The starting length and the weight must be the same, and the stretch measured with a ruler. Picking different lengths or pulls changes more than one thing.
+9. (truefalse) On the Mohs scale, diamond at 10 is exactly 10 times as hard as talc at 1.  
+   **Answer:** False. *Why:* False. The numbers only give the order. Diamond is far harder than the next mineral, corundum at 9, not just a little harder. A ladder tells you who is above whom, not by how much.
+10. (fill) Water climbing up through the tiny gaps in a paper towel is called ____.  
+   **Answer:** ['wicking']. *Why:* Wicking is water creeping up through tiny gaps, even upwards against gravity. It is how a diya wick lifts oil and how a towel soaks up a spill.
+11. (write) Name one property that matters most for school shoes, and one for a school bag. Explain your choices.  
    **Answer:** For shoes, grip or strong and flexible, because shoes must bend with the foot and not slip. For a bag, strong and waterproof, because it holds heavy books and must survive rain. Any sensible choice with a reason is right.. *Why:* The job decides which property matters. A good answer says what the object must do, then names the property that does it.
-15. (draw) Draw a torch beam meeting three materials: clear glass, butter paper and a steel plate. Show what the light does in each.  
+12. (draw) Draw a torch beam meeting three materials: clear glass, butter paper and a steel plate. Show what the light does in each.  
    **Answer:** Clear glass: the beam goes straight through. Butter paper: the beam goes in but spreads out in all directions. Steel plate: the beam stops or bounces back.. *Why:* Transparent materials let the light pass straight. Translucent ones scatter it. Opaque ones soak it up or bounce it back.
-16. (mcq) Look at the table. Which surface is the most absorbent?  
-   Options: Paper towel / Printer paper / Butter paper / Plastic bag  
-   **Answer:** Paper towel. *Why:* The drop vanished fastest on the paper towel, in 2 seconds, so it is the most absorbent. Picking the plastic bag mixes up a long time with a good result. A long time means the water stayed on top, which means waterproof.
-### Think Like a Materials Scientist (challenge) (challenge, 17 questions)
+13. (perspective) Is glass a strong material or a weak one? Three people disagree.  
+   **Answer:** A strong answer picks a side and uses the right words: strong (holds a big load), brittle (snaps instead of bending). It may say that Sumathi and Ananya are both right about different things: glass holds a steady load well but cannot take a sudden knock. The scientist's view joins the two.. *Why:* Strong and brittle are different properties. However strong a material is, a small crack can grow and break it. That is why the answer depends on what the glass has to do.
+14. (mcq) Nisha tests a dry newspaper strip at noon and a damp cotton thread at dawn. The thread holds more. She says, 'Damp makes things stronger.' What is wrong with her test?  
+   Options: She changed two things at once: the material and the dampness / Nothing, it is a fair test / She should have tested at night / Newspaper and thread cannot be tested  
+   **Answer:** She changed two things at once: the material and the dampness. *Why:* A fair test changes only one thing. Nisha changed the material and the dampness together, so she cannot tell which one made the difference. To test dampness, she must test the same material dry and damp.
+15. (write) Look at your own dry or damp results. Which material lost the most strength when it was damp? Use your numbers to show it. Then say why water did that.  
+   **Answer:** A strong answer names the material, gives the dry and damp numbers and the difference. For example, newspaper held 6 cups dry and 1 cup damp, so it lost 5 cups. It explains that water gets between the paper fibres and loosens the joins that hold them together.. *Why:* Evidence means your own numbers. A reason says what happens inside the material.
+16. (truefalse) A strip of kitchen foil folded into three layers bends more easily than a single layer of the same foil.  
+   **Answer:** False. *Why:* False. Three layers are thicker, so the strip is stiffer and droops less. The material is the same, but its thickness changes how flexible it is.
+### Think Like a Materials Scientist (challenge) (challenge, 16 questions)
 1. (write) It is easy to measure how long a rope is. Why is it harder to measure how hard a stone is?  
    **Answer:** Length has one clear way to measure it, with a ruler. 'Hard' could mean hard to scratch, hard to dent or hard to break, and these tests give different orders. So scientists use several hardness scales.. *Why:* Hardness is really a family of properties. Scientists must say which test they used before they give a number.
-2. (mcq) Diamond and graphite are both pure carbon. What makes diamond hard and graphite soft?  
-   Options: How the carbon atoms are joined / Diamond has more atoms / Graphite is made of a different atom / Diamond is colder  
-   **Answer:** How the carbon atoms are joined. *Why:* In diamond every atom is locked to four others in all directions. In graphite the atoms lie in flat sheets that slide over each other. Picking 'different atom' is a natural guess, because they look so unlike. But they are the same atom. The pattern is the difference.
-3. (mcq) Why do metals feel cold and look shiny?  
+2. (mcq) Why do metals feel cold and look shiny?  
    Options: Some of their electrons roam freely, carrying heat and bouncing light / Metals are always colder than other things / Metal atoms are bigger / Metals have no atoms in them  
    **Answer:** Some of their electrons roam freely, carrying heat and bouncing light. *Why:* In a metal, some electrons are not tied to one atom. They carry heat away from your hand quickly, so metal feels cold. They also bounce light back, which makes metals shiny. Picking 'always colder' is the idea this unit tested and rejected.
-4. (write) Invent a test for a property we have not tested, such as how sticky a tape is. Say what you would measure, what you would keep the same, and the unit.  
+3. (write) Invent a test for a property we have not tested, such as how sticky a tape is. Say what you would measure, what you would keep the same, and the unit.  
    **Answer:** For stickiness: stick the same length of tape to the same smooth table. Hang a small bag from the free end. Pour in water one spoon at a time until the tape peels off. Keep the tape length, the table and the way I press it the same. The unit is spoons of water.. *Why:* A good test measures one thing, keeps everything else the same, and gives a number with a unit. This is what the testing-materials unit is all about.
-5. (sort) Which property matters most for each job?  
+4. (sort) Which property matters most for each job?  
    **Answer:** A bus window → See-through; A rope for lifting a bucket from a well → Strong; A cloth for wiping a spill → Absorbent; A tea cosy → Insulator of heat; A rubber band → Elastic. *Why:* The job decides the property. The window must let you see out. The rope must not snap. The cloth must soak up water. The tea cosy must keep heat in. The band must stretch and spring back.
-6. (sort) What happens to each material when it gets damp?  
+5. (sort) What happens to each material when it gets damp?  
    **Answer:** Newspaper → Weaker; Toilet paper → Weaker; Plastic carry bag → About the same; Cotton thread → A little stronger. *Why:* Paper loses strength because water loosens the joins between its fibres. Plastic does not take in water, so it stays about the same. Cotton fibres hold together a little better when damp, so cotton gets a little stronger. That is why the spinners in the story worked in the damp morning air.
-7. (write) Long ago, traders in different towns used different weights for a 'kilogram'. Why does science use the same units everywhere?  
-   **Answer:** If each person uses a different size of a unit, the same measure gives different numbers, and nobody can check or trust results. A shared unit means anyone can repeat the test and get the same answer. It is also fair for buyers and sellers.. *Why:* Shared units make results comparable and honest.
-8. (mcq) A probe on the Moon measured the soil. It was about 70 degrees Celsius on top. It was about 10 degrees below zero just eight centimetres down. What does this show about Moon soil?  
+6. (mcq) A probe on the Moon measured the soil. It was about 70 degrees Celsius on top. It was about 10 degrees below zero just eight centimetres down. What does this show about Moon soil?  
    Options: It is a very good insulator of heat / It is a very good conductor of heat / It is a transparent material / It is hard to scratch  
    **Answer:** It is a very good insulator of heat. *Why:* If heat flowed easily through it, the top and the deeper layer would soon be about the same temperature. A huge difference in a few centimetres means heat flows very slowly. That is an insulator. Picking 'conductor' reverses it.
-9. (truefalse) A hard material can never be flexible.  
+7. (truefalse) A hard material can never be flexible.  
    **Answer:** False. *Why:* False. A steel spring is hard to scratch, and it is also elastic. A thin plastic ruler is fairly hard and flexible. Hard means hard to scratch. Flexible means it bends without breaking. They are different properties, so a material can have any mix.
-10. (write) In the story, why was Shefali's test fair? Name two things she kept the same.  
-   **Answer:** She cut every thread to the same length, her forearm's length. She used the same kind of shells, all the same size, one at a time. She used threads from the same ball of cotton. Only the time of day changed.. *Why:* A fair test changes only one thing. Here it was the dampness of the air.
-11. (mcq) A scientist says, 'Cotton thread is strong.' What should she add to be more accurate?  
+8. (mcq) A scientist says, 'Cotton thread is strong.' What should she add to be more accurate?  
    Options: How long and how thick the thread was, and how damp the air was / How old the scientist is / What colour the thread is / Nothing, because it is always true  
    **Answer:** How long and how thick the thread was, and how damp the air was. *Why:* A thread's strength depends on its thickness and on the dampness of the air. The same words 'cotton thread' could describe very different results. Picking 'nothing' is the idea that properties never change, which the story showed is wrong.
-12. (write) Agnes Pockels was not allowed to go to university. She measured water in her kitchen anyway. Why do you think she kept going, and what might the world have missed if she had stopped?  
-   **Answer:** She was curious and she noticed something real, so she wanted to find out. If she had stopped, the study of how surfaces work might have started later. Soap, oils and the skins of cells all depend on it. Her letter to Lord Rayleigh also shows that asking an expert can open a door.. *Why:* There is no single right answer. A good answer gives a reason from her story. It also says what the world loses when people are kept out.
-13. (mcq) Nobody can touch nuclear pasta, a material that may exist inside a dead star. How can scientists say anything about it?  
-   Options: They use computer models built on rules tested on Earth / They guess / They have a sample in a laboratory / They saw it through a telescope  
-   **Answer:** They use computer models built on rules tested on Earth. *Why:* Scientists use well-tested rules about atoms and forces and run them on powerful computers. This gives a prediction, not a proof. That is why it is marked as an idea. Picking 'a sample' is wrong, because no one has one.
-14. (draw) Draw a zoom-in: a cotton thread, then one fibre, then a pattern of atoms joined together. Label the three pictures.  
+9. (draw) Draw a zoom-in: a cotton thread, then one fibre, then a pattern of atoms joined together. Label the three pictures.  
    **Answer:** A thread made of many fibres twisted together. One fibre as a long thin strand. At the smallest scale, tiny balls joined in chains.. *Why:* Properties come from small things joined in patterns. Each zoom-in shows a smaller building block.
-15. (mcq) Which one is a property of the material, and not just of the object?  
-   Options: It is hard to scratch / It is shaped like a bowl / It is in my kitchen / It was bought last year  
-   **Answer:** It is hard to scratch. *Why:* Hard to scratch is true of the steel itself, in any shape. Being shaped like a bowl, being in a kitchen and being bought last year describe the one object only. Picking shape is the common mix-up between a material and an object.
-16. (write) A glass bangle is hard and brittle. A steel spoon is hard and strong. Which would you choose for a bridge, and why? Which would you choose for a window, and why?  
-   **Answer:** For a bridge, steel, because it must not snap when heavy things pass. For a window, glass, because it is see-through. Steel is not see-through, and glass would shatter on a bridge.. *Why:* Each job needs a different set of properties. A good answer names the property for each job.
-17. (write) Invent a new material for a school bag. List three properties it should have and say how you would test each one.  
-   **Answer:** Strong: hang a bag from a strip and pour in water cup by cup until it tears. Waterproof: drip water on it and see if it stays dry underneath after five minutes. Light: weigh the same size piece on a kitchen scale. Any three properties with a sensible test are right.. *Why:* Inventing a material means knowing the properties you want and being able to test for them.
+10. (write) Invent a material for the roof of an auto-rickshaw. List three properties it must have. For each one, say how you would test it at home.  
+   **Answer:** For example: waterproof (drip water on it and check the underside after five minutes), strong (hang a bag from a strip and add water cup by cup until it tears), and an insulator of heat (put two pieces in the sun and feel the underside after ten minutes). Light and flexible are good answers too. Any three properties that the job needs, each with a fair test, are right.. *Why:* Inventing a material means knowing which properties the job needs, and being able to test for them.
+11. (perspective) Graphene is a sheet of carbon only one atom thick. It is the strongest material ever measured. People disagree about what it means for the future.  
+   **Answer:** A strong answer uses the unit's idea that the job decides which properties matter. It weighs strength against cost, how easy the material is to make, and how well we know it. It admits a fair point from another side, for example that the strongest material is not always the best choice.. *Why:* This is a real debate. Graphene was first made in 2004, and it is used in a few products, but steel, concrete and plastic still do most jobs. Being the strongest is only one property.
+12. (mcq) Ghee is solid on a cold winter morning in Delhi. It is runny on a hot afternoon in Chennai. What does this show?  
+   Options: A property can change with temperature / It is two different materials / Ghee in Chennai is not real ghee / Ghee has no properties  
+   **Answer:** A property can change with temperature. *Why:* The ghee is the same material. Heat changes whether it is solid or runny. This is why a test must say the temperature, just as it must say how damp or thick the material was.
+13. (write) What if every material in your home were waterproof, even towels, paper and clay pots? Name two things that would stop working, and explain why.  
+   **Answer:** A strong answer names jobs that need absorbent materials and says why. For example, a towel could not dry you. Paper could not take ink. A clay pot, a matka, keeps water cool because a little water soaks through its walls and dries away outside. A waterproof pot could not do that.. *Why:* No property is good or bad by itself. Being waterproof helps an umbrella, but many jobs need the opposite.
+14. (mcq) Ishaan says, 'Rubber is a good material and glass is a bad one.' Which reply is best?  
+   Options: Each is good for some jobs: rubber for a tyre, glass for spectacles / He is right, because glass breaks / He is wrong, because glass is always better / Materials cannot be compared  
+   **Answer:** Each is good for some jobs: rubber for a tyre, glass for spectacles. *Why:* A material is good or bad only for a job. Glass is transparent, so it is right for spectacles, where rubber would be useless. Rubber is elastic and tough, so it is right for a tyre.
+15. (fill) Hard means hard to scratch. A material that takes a knock without cracking, like leather or rubber, is called ____.  
+   **Answer:** ['tough']. *Why:* Tough means it soaks up a knock without cracking. Glass is hard but not tough. Leather is soft but tough. Scientists test hard, strong, stiff and tough separately, because one does not tell you the others.
+16. (write) Look back at every test you did in this unit. Which result surprised you most? Write what you guessed, what really happened, and what you think now.  
+   **Answer:** A strong answer names a real test, gives the guess and the result honestly, and says what changed in the child's thinking. For example: 'I guessed the damp thread would break first. It held more shells. Now I think water weakens paper but helps cotton.'. *Why:* Changing your mind because of evidence is what scientists do. A guess that turns out wrong is useful, because it shows you what you did not know.
 
 ## Videos
 - **Why is glass transparent?** (TED-Ed (Mark Miodownik), 5 min) id `VwRLIt6jgdM`: A materials scientist explains why light passes through glass but not through most other materials. Good for curious older children and the parent, after the card on why glass is clear. *Check:* Found by YouTube search: "Why is glass transparent? - Mark Miodownik" by TED-Ed. Title checked automatically. Length is a guess. A parent should preview it.
@@ -879,9 +872,9 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - **Textile hub Bangladesh revives muslin, the forgotten elite fabric** (Al Jazeera English, 4 min) id `VhIzcIiwZo4`: A short news report on the fine cotton cloth of Bengal that the story is about. It also shows the people trying to bring it back. Not made for children. *Check:* Found by YouTube search: "Textile hub Bangladesh revives muslin, the forgotten elite fabric" by Al Jazeera English. Title checked automatically. Length is a guess. A parent should preview it.
 
 ## Quiz
-1. (mcq) Which of these is a property of a material?  
-   Options: Waterproof / A spoon / A kitchen / A shop  
-   **Answer:** Waterproof. *Why:* A property tells what a material is like, and waterproof does that. A spoon is an object. A kitchen and a shop are places. Picking 'a spoon' mixes up the object with the material it is made of.
+1. (mcq) Lakshmi writes four words about her steel tumbler. Which one is NOT a property of steel?  
+   Options: Bought in Madurai / Shiny / Hard / Waterproof  
+   **Answer:** Bought in Madurai. *Why:* Where something was bought tells you about the shop, not the material. Shiny, hard and waterproof tell what steel is like, so they are properties. Picking 'hard' may come from thinking a property must be something you see.
 2. (mcq) A steel spoon and a steel tumbler are different objects. What is the same about them?  
    Options: The material, so the properties / The shape / The use / The size  
    **Answer:** The material, so the properties. *Why:* Both are steel, so both are hard, shiny and cold to touch. Picking shape, use or size mixes up the object and the material. Those are properties of the object, not of the steel.
@@ -900,9 +893,9 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 7. (mcq) In the story, cotton thread held 14 shells in the damp dawn and 11 at noon. What did Shefali find out?  
    Options: Cotton thread is stronger when it is damp / The shells were heavier at noon / The thread was tired / The river was angry  
    **Answer:** Cotton thread is stronger when it is damp. *Why:* She kept the thread, the length and the shells the same. Only the dampness changed. A noon thread made damp held 14. So damp makes cotton a little stronger. 'Angry river' and 'tired thread' are guesses with no test behind them.
-8. (mcq) A glass bangle is hard to scratch but breaks when dropped. It is…  
-   Options: Hard and brittle / Soft and strong / Soft and brittle / Hard and flexible  
-   **Answer:** Hard and brittle. *Why:* Hard is about scratching. Brittle is about snapping. Glass is both hard and brittle. Picking 'strong' mixes up hard and strong.
+8. (mcq) A coir rope holds a full bucket of water. A stick of chalk is harder than the rope, but it snaps when you bend it. What does this show?  
+   Options: Hard and strong are different properties / Chalk is stronger than rope / Rope is harder than chalk / Hard things never break  
+   **Answer:** Hard and strong are different properties. *Why:* Hard is about scratching. Strong is about how much it holds before breaking. The rope is soft but strong. The chalk is harder but weak and brittle. Many people think hard means strong, but one does not tell you the other.
 9. (mcq) A paper clip stays bent. A plastic ruler springs back. A dry spaghetti stick snaps. Which one is brittle?  
    Options: The spaghetti / The paper clip / The ruler / All three  
    **Answer:** The spaghetti. *Why:* Brittle means it snaps or shatters instead of bending. The spaghetti snaps. The paper clip bends but stays bent, and the ruler springs back, which is called elastic. Picking the paper clip mixes up 'bends and stays bent' with 'breaks'.

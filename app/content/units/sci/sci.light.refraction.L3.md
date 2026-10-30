@@ -793,7 +793,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 - A straw in a glass of lemon juice or buttermilk, broken at the top of the drink.
 - Your legs looking short and stumpy in a swimming pool or a river.
 - The steps of a temple tank looking shallower under the water.
-- Rain or dew drops on the leaf of a potted plant, each one making the leaf under it look bigger.
+- Rain or dew drops on the leaf of a potted plant, each drop making the leaf under the drop look bigger.
 - A watch-repair woman in the market with a small lens held against one eye.
 - The fish in a round fish bowl looking fat and moving strangely as they swim.
 - The air shimmering above a hot road in May, bending the light from things behind it.

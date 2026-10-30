@@ -285,7 +285,7 @@
    "concept": "Surface tension: why water forms round drops",
    "status": "defined",
    "definition": "Surface tension is a pull between the particles at the top of water. It makes the surface act like a stretchy skin.",
-   "description": "Look at a drop on a leaf. Its surface holds together like a thin skin. That is why a needle can float on still water, and why a pond insect can walk on it. About 135 years ago, a woman called Agnes Pockels, who lived in Germany, measured this skin in her kitchen. Women in Germany were not allowed to study at university then. She used a tin tray, a balance and a small button. She found that a drop of oil or soap on the water changes its skin. In 1891 she wrote to Lord Rayleigh, a famous British physicist. He helped her get her work printed in the journal Nature. Later, the American scientist Irving Langmuir built on her kind of tray, and he won a Nobel Prize in 1932. She did not. The unit Testing materials tells more of her story.",
+   "description": "Look at a drop on a leaf. Its surface holds together like a thin skin. That is why a needle can float on still water, and why a pond insect can walk on the water. About 135 years ago, a woman called Agnes Pockels, who lived in Germany, measured this skin in her kitchen. Women in Germany were not allowed to study at university then. She used a tin tray, a balance and a small button. She found that a drop of oil or soap on the water changes its skin. In 1891 she wrote to Lord Rayleigh, a famous British physicist. He helped her get her work printed in the journal Nature. Later, the American scientist Irving Langmuir built on her kind of tray, and he won a Nobel Prize in 1932. She did not. The unit Testing materials tells more of her story.",
    "examples": [
     "A water strider insect stands on a pond without sinking.",
     "A drop of dish soap makes the skin weaker, so pepper sprinkled on the water rushes away from it.",
@@ -395,7 +395,7 @@
     },
     {
      "who": "Biologists and material scientists studying spider silk",
-     "explanation": "Weight for weight, spider silk is among the toughest fibres known. A spider makes it at room temperature from a fly's meal. People still cannot copy it exactly."
+     "explanation": "Weight for weight, spider silk is among the toughest fibres known. A spider makes this silk at room temperature from a fly's meal. People still cannot copy it exactly."
     },
     {
      "who": "Physicists who measured graphene in 2008",
@@ -583,7 +583,7 @@
    "Pishi began at once. In the first grey light, the thread came out like a hair of mist and held. Shefali watched it with her breath held too. But as the sun climbed, something went wrong. The thread began to snap. It snapped on the spindle. It snapped on the loom. Pishi tied it, spun again, and it snapped again. By noon, the mat was covered in little broken ends, like white hairs.",
    "The village had opinions. 'The cotton is bad,' said the neighbour. 'Her hands are tired,' said another. 'The river is angry,' said a third. Pishi said nothing. But Shefali saw her hands shake, and she knew they were not tired hands. They were the same hands that had spun the dawn thread.",
    "That night, Shefali could not sleep. She thought about it the way you pull at a knot. If the cotton was bad, it would have been bad at dawn. If the hands were tired, they would have been tired at dawn. Same cotton. Same hands. So something else had changed between the morning and the noon. What?",
-   "She did not know. But she knew one way to find out. Her father was a trader, and he had taught her to count with cowrie shells. People in Bengal used the little white shells as money. Shefali kept a basket of them, all picked out to be the same size.",
+   "She did not know. But she knew one way to find out. Her mother was a trader, and she had taught her to count with cowrie shells. People in Bengal used the little white shells as money. Shefali kept a basket of them, all picked out to be the same size.",
    "Before sunrise, she got up. She cut a piece of thread as long as her forearm. She tied a small cup made of leaf to the bottom, and she hung the thread from a bamboo pole. Then she dropped shells into the cup, one at a time, and counted out loud. At ten shells, the thread shivered. At thirteen, it was still there. At fourteen, it snapped. She wrote the number in the dust. Then she did it with a second thread, and a third. Fourteen, thirteen, fourteen.",
    "At noon, she did it all again, with threads from the same ball of cotton, each cut to the same forearm's length. The first one snapped at eleven shells. The second, at twelve. The third, at eleven. Every dawn thread had held more than every noon thread.",
    "Shefali ran to Pishi. 'Count with me,' she said. 'The thread is stronger at dawn.' Pishi had never counted a thread before. She watched the white shells fall, one by one, and her face slowly changed. 'It is the air,' said Shefali. 'In the morning the air by the river is damp. At noon it is dry. Maybe the thread needs the damp.' She ran a wet finger along a noon thread and tested it again. It held until fourteen.",
@@ -892,72 +892,55 @@
    "items": [
     {
      "t": "mcq",
-     "p": "What is a property of a material?",
+     "p": "Meenakshi, a girl in Class 3, says four things about her steel lunch box. Which one is about the box, and not about the steel?",
      "opts": [
-      "A word that tells what the material is like",
-      "The name of the object it makes",
-      "The shop where it is sold",
-      "How much it costs"
+      "It is shaped like a rectangle",
+      "It is shiny",
+      "It keeps water out",
+      "It rings when I tap it"
      ],
      "a": 0,
-     "why": "A property is a word like hard, shiny or waterproof. It tells what the material is like. Picking 'the name of the object' mixes up object and material. A spoon is an object. Steel is the material. Picking 'how much it costs' is about price, which is not what the material is like.",
-     "art": "A steel spoon with three labels: hard, shiny, heavy."
-    },
-    {
-     "t": "mcq",
-     "p": "A steel tumbler and a steel spoon are two different objects. What is the same about them?",
-     "opts": [
-      "Their shape",
-      "Their material",
-      "Their size",
-      "Their use"
-     ],
-     "a": 1,
-     "why": "Both are made of steel. The material is the same, so its properties, like hard and shiny, are the same. Picking shape, size or use mixes up the object and the material. Objects can have different shapes and uses even when the material is the same."
+     "why": "Shape belongs to the object. The same steel could be made into a round tumbler or a flat spoon. Shiny, waterproof and ringing stay true of steel in any shape, so they are properties of the material. A strong answer says why: change the shape and these three stay the same."
     },
     {
      "t": "sort",
-     "p": "Sort these into hard and soft. Hard means hard to scratch.",
+     "p": "Which words tell you what a material is like? Sort them.",
      "cats": [
-      "Hard",
-      "Soft"
+      "Tells what the material is like",
+      "Does not"
      ],
      "items": [
       [
-       "Steel nail",
-       "Hard"
+       "Bends easily",
+       "Tells what the material is like"
       ],
       [
-       "Chalk",
-       "Soft"
+       "Soaks up water",
+       "Tells what the material is like"
       ],
       [
-       "Granite stone",
-       "Hard"
+       "Easy to scratch",
+       "Tells what the material is like"
       ],
       [
-       "Bar of soap",
-       "Soft"
+       "Lets light through",
+       "Tells what the material is like"
       ],
       [
-       "Glass tumbler",
-       "Hard"
+       "Costs 50 rupees",
+       "Does not"
       ],
       [
-       "Candle wax",
-       "Soft"
+       "Bought in Kochi",
+       "Does not"
+      ],
+      [
+       "My favourite",
+       "Does not"
       ]
      ],
      "a": "see items",
-     "why": "A nail, granite and glass are hard to scratch. Chalk, soap and wax are easy to scratch with a fingernail. People also call cotton wool soft, but that is a different meaning of soft, which is squashy. In science, hard and soft are about scratching."
-    },
-    {
-     "t": "fill",
-     "p": "A material that lets no light through is ____.",
-     "a": [
-      "opaque"
-     ],
-     "why": "Opaque means no light comes through. Transparent lets light through clearly. Translucent lets light through, but blurred."
+     "why": "A property is something you can find out by looking, touching or testing the material itself. Price, where it was bought and whether you like it tell you about you or the shop, not about the material."
     },
     {
      "t": "match",
@@ -988,111 +971,138 @@
      "why": "Each property has a test that shows it. Hard is about scratching. Flexible is about bending. Waterproof is about water staying out. Transparent is about seeing through. Strong is about how much weight it holds before breaking."
     },
     {
+     "t": "fill",
+     "p": "A rubber band stretches when you pull it and goes back to its old shape when you let go. This property is called ____.",
+     "a": [
+      "elastic"
+     ],
+     "why": "Elastic means it springs back after being stretched or bent. A paper clip that stays bent is not elastic."
+    },
+    {
      "t": "truefalse",
-     "p": "In a room, a steel spoon is colder than a wooden spoon.",
+     "p": "A coir rope is soft, so it must be weak.",
      "a": false,
-     "why": "False. Both are the same temperature as the room. The steel spoon only feels colder, because it carries heat away from your hand faster. A thermometer would show the same number for both."
+     "why": "False. A coir rope is soft to touch, yet it can lift a full bucket from a well. Soft is about scratching or squashing. Strong is about how much weight it holds before it breaks. They are different properties, so one does not tell you the other."
     },
     {
      "t": "mcq",
-     "p": "Which property makes a cotton towel good for drying you?",
+     "p": "Kavya leaves a steel spoon and a wooden spoon standing in a pot of hot rasam. After two minutes she touches the top of each handle. What will she feel?",
      "opts": [
-      "It is waterproof",
-      "It is absorbent",
-      "It is shiny",
-      "It is rigid"
+      "The steel handle is hot, the wooden one is only warm",
+      "Both are equally hot",
+      "The wooden handle is hotter",
+      "Both are still cold"
      ],
-     "a": 1,
-     "why": "Absorbent means it soaks up water into its tiny gaps. Picking waterproof is the opposite, because a waterproof towel would push the water around on your skin. Picking shiny or rigid has nothing to do with drying."
+     "a": 0,
+     "why": "Steel is a conductor of heat: heat travels through it quickly, all the way up the handle. Wood is an insulator: heat moves through it slowly. A strong answer names the property and says what it does to the heat."
     },
     {
      "t": "order",
-     "p": "Put these in order from MOST flexible to LEAST flexible. A cotton cloth, a sheet of paper, a thin cardboard, a wooden stick.",
+     "p": "Put these in order, from the one that lets MOST light through to the one that lets LEAST through: a wooden door, a clear glass window, a thin cotton dupatta held up to the window, a folded bedsheet.",
      "items": [
-      "Cotton cloth",
-      "Sheet of paper",
-      "Thin cardboard",
-      "Wooden stick"
+      "Clear glass window",
+      "Thin cotton dupatta",
+      "Folded bedsheet",
+      "Wooden door"
      ],
      "a": "order shown",
-     "why": "Cloth bends in any direction with the lightest touch. Paper bends easily but holds a fold. Cardboard is stiffer. The wooden stick hardly bends at all. This is an example of comparing materials in a ladder from most to least."
-    },
-    {
-     "t": "mcq",
-     "p": "A glass tumbler is hard to scratch, but it breaks when dropped. What does this tell you?",
-     "opts": [
-      "Glass is hard and also brittle",
-      "Glass is soft",
-      "Glass is strong",
-      "Hard things never break"
-     ],
-     "a": 0,
-     "why": "Hard is about scratching. Brittle is about snapping or shattering. Glass is both hard and brittle. Picking 'glass is strong' mixes up hard and strong. Many people think hard means unbreakable, but a hard thing can still shatter."
-    },
-    {
-     "t": "truefalse",
-     "p": "One sheet of butter paper and a tall stack of butter paper let through the same amount of light.",
-     "a": false,
-     "why": "False. One sheet lets a lot of light through. A tall stack lets almost none. So a material's property can change with its thickness.",
-     "how": "e5",
-     "context": "Butter paper is thin, greaseproof paper used in kitchens. Light passes through it, but blurred."
-    },
-    {
-     "t": "mcq",
-     "p": "You want to compare how strong a paper strip and a cloth strip are. What is the fairest way?",
-     "opts": [
-      "Cut both the same width and length, and pour water one cup at a time into a bag hanging from each",
-      "Pull the paper hard and the cloth gently",
-      "Use a wide paper strip and a thin cloth strip",
-      "Look at which one seems stronger"
-     ],
-     "a": 0,
-     "why": "To compare fairly, change only the material. Keep the width, length and method the same. Picking different widths changes more than one thing. Picking 'looks stronger' is a guess, not a test.",
-     "how": "e3",
-     "context": "In the dry or damp test, you hang a bag from a strip. You pour in water, one cup at a time, until the strip tears."
-    },
-    {
-     "t": "fill",
-     "p": "A material that snaps or shatters instead of bending is called ____.",
-     "a": [
-      "brittle"
-     ],
-     "why": "Brittle things, like glass bangles, dry biscuits and chalk, break into pieces when pushed too far. They do not bend first."
+     "why": "Clear glass is transparent: you see clearly through it. A thin dupatta is translucent: light gets through, but blurred. A folded bedsheet lets only a little light through, because there are more layers. A wooden door is opaque: no light at all."
     },
     {
      "t": "write",
-     "p": "Choose one object at home. Write four properties of its material. For each one, say how you found out.",
-     "lines": 5,
-     "a": "Any object with four right properties and a way to test each. For example, a steel tumbler. It is shiny, because I can see my face in it. It is hard, because my fingernail cannot scratch it. It is waterproof, because water stays inside. It rings when I tap it with a spoon.",
-     "why": "Each property should come with a way of finding it out, by looking, touching, listening or testing."
+     "p": "A bath towel and an umbrella are both made of cloth. The towel soaks up water. The umbrella keeps water out. How can two cloths behave in opposite ways? Use what you saw in the vanishing drop test.",
+     "lines": 4,
+     "how": "e4",
+     "a": "A strong answer says the two cloths are different materials, or are made differently. Towel cotton has loose loops with many tiny gaps, so water creeps in and the drop vanishes fast. Umbrella cloth is woven very tightly and often coated with plastic, so the drop sits on top, like on the plastic bag.",
+     "why": "The word 'cloth' does not tell you the properties. What the fibres are and how tightly they are packed decide whether water gets in."
     },
     {
      "t": "mcq",
-     "p": "In the dry or damp test, a newspaper strip held 6 cups of water when dry and 1 cup when damp. What can you say?",
+     "p": "Divya says, 'My pencil is made of wood. So wood is one of its properties.' What is her mistake?",
      "opts": [
-      "The damp strip held 5 cups less, so water made it much weaker",
-      "Water made the paper stronger",
-      "Dry and damp paper are the same",
-      "You cannot say anything from numbers"
+      "Wood is the material. A property would be a word like light or easy to sharpen",
+      "There is no mistake",
+      "Pencils are not made of anything",
+      "Wood is the object"
      ],
      "a": 0,
-     "why": "6 take away 1 is 5. So the damp strip held 5 cups less than the dry one. Water gets between the paper fibres and loosens the joins that hold them together. Picking 'stronger' usually means thinking that wet things must be tougher because they feel heavy.",
-     "how": "e3",
-     "context": "In the dry or damp test, you hang a bag from a strip and pour in water, one cup at a time, until the strip tears. You do it once with a dry strip and once with a damp strip."
-    },
-    {
-     "t": "write",
-     "p": "The handle of a tawa or a frying pan is often made of wood or plastic. Why not steel?",
-     "lines": 3,
-     "a": "Steel carries heat very well, so a steel handle would get too hot to hold. Wood and plastic carry heat slowly. They are insulators. So the handle stays cool enough to hold.",
-     "why": "Steel is a conductor of heat and wood or plastic is an insulator. The pan needs the first and the handle needs the second."
+     "why": "The material is what a thing is made of. A property says what that material is like. Divya mixed up the two. Picking 'wood is the object' mixes it up the other way, because the pencil is the object."
     },
     {
      "t": "draw",
-     "p": "Draw a ladder with four rungs. Put four things on it, from the hardest at the top to the softest at the bottom.",
-     "a": "Any four things in a sensible order. For example, from top to bottom: diamond, steel nail, fingernail, chalk.",
-     "why": "A ladder puts things in order. A child can check each step: does the upper one scratch the lower one?",
-     "art": "A blank ladder with four rungs and space to draw."
+     "p": "Draw one object from your kitchen. Write its material next to it. Then label three properties of that material, and how you found each one out.",
+     "a": "Any kitchen object with its correct material and three true properties. For example, a steel tumbler: shiny (I see my face in it), hard (my fingernail cannot scratch it), waterproof (water stays inside).",
+     "why": "This checks that the child can tell object, material and property apart, and that each property comes from looking, touching or testing.",
+     "art": "A blank box with three label lines around it."
+    },
+    {
+     "t": "perspective",
+     "p": "Lakshmi needs a new water bottle for school. Three people in her family give advice.",
+     "views": [
+      {
+       "who": "Lakshmi, in Class 3",
+       "says": "Steel is best. It does not break when I drop it, and it does not leak."
+      },
+      {
+       "who": "Farhana, her older sister",
+       "says": "Plastic is best. It is much lighter in the school bag, and it is cheap."
+      },
+      {
+       "who": "Ammamma, their grandmother",
+       "says": "Glass is best. You can see how much water is left, and it gives no taste to the water."
+      }
+     ],
+     "ask": "Which bottle would you choose? Give a reason using properties. Then say one thing that another person has right.",
+     "lines": 5,
+     "a": "A strong answer picks one bottle and names the properties that matter for a child at school: strong and not brittle, light, transparent, or no taste. It then admits a fair point from another side, for example that glass is transparent but brittle, or that steel is strong but heavier and opaque.",
+     "why": "No material wins on every property. The job, and who does it, decides which properties matter most. Here a dropped bottle is a real risk, so many children choose steel, but there is no single right answer."
+    },
+    {
+     "t": "mcq",
+     "p": "Revathi pushes three strips over the edge of a table, the same length each: a steel ruler, a plastic ruler and a strip of cotton cloth. Which tip will droop the most?",
+     "opts": [
+      "The cloth",
+      "The steel ruler",
+      "The plastic ruler",
+      "All the same, because they are the same length"
+     ],
+     "a": 0,
+     "how": "e2",
+     "why": "Cloth is the most flexible, so it hangs straight down. The steel ruler is the most rigid and hardly droops. Picking 'all the same' forgets that the material changed, and the material decides how flexible the strip is."
+    },
+    {
+     "t": "truefalse",
+     "p": "Big, heavy things always sink in water.",
+     "a": false,
+     "why": "False. A big wooden log floats, and a tiny steel pin sinks. What matters is how tightly packed the material is compared with water, not how big or heavy the object is. Many people believe this, so it is worth testing with things from the kitchen."
+    },
+    {
+     "t": "write",
+     "p": "In the snap, bend or spring back test, you pushed things past their limit. Pick one thing that snapped, one that stayed bent and one that sprang back. Name the property each one showed.",
+     "lines": 4,
+     "how": "e1",
+     "a": "For example: the chalk snapped, so it is brittle. The paper clip stayed bent, so it is flexible but not elastic. The plastic ruler sprang back, so it is elastic. A strong answer uses the child's own results.",
+     "why": "Brittle, flexible and elastic are three different ways a material can answer a push. The child's own test is the evidence."
+    },
+    {
+     "t": "fill",
+     "p": "A sponge soaks up water into its tiny holes. A material that soaks up water is called ____.",
+     "a": [
+      "absorbent"
+     ],
+     "why": "Absorbent means it takes water into its gaps. The opposite is waterproof."
+    },
+    {
+     "t": "mcq",
+     "p": "Rani wants a cover for her notebook that will not be spoiled when she walks home in the rain. Which property matters most?",
+     "opts": [
+      "Waterproof",
+      "Absorbent",
+      "Transparent",
+      "Brittle"
+     ],
+     "a": 0,
+     "why": "The job is to keep rain off the pages, so the cover must keep water out. An absorbent cover would soak up the rain and wet the book."
     }
    ]
   },
@@ -1104,27 +1114,15 @@
    "items": [
     {
      "t": "order",
-     "p": "Chalk scratches soap. A fingernail scratches chalk. A steel nail scratches a fingernail. Put them in order from SOFTEST to HARDEST: steel nail, soap, fingernail, chalk.",
+     "p": "Read the clues. A steel key scratches a copper coin. The coin scratches a wooden pencil. The pencil's wood makes a groove in candle wax. Put them in order from SOFTEST to HARDEST.",
      "items": [
-      "Soap",
-      "Chalk",
-      "Fingernail",
-      "Steel nail"
+      "Candle wax",
+      "Wooden pencil",
+      "Copper coin",
+      "Steel key"
      ],
      "a": "order shown",
-     "why": "If A scratches B, then A is harder than B. So soap is below chalk, chalk is below the fingernail and the fingernail is below the nail. Putting several things in order from clues is how Friedrich Mohs built his ladder of hardness."
-    },
-    {
-     "t": "mcq",
-     "p": "A steel nail scratches a piece of copper. A fingernail cannot. What does this tell you about the copper?",
-     "opts": [
-      "It is harder than a fingernail, and softer than the nail",
-      "It is softer than a fingernail",
-      "It is harder than the nail",
-      "Nothing, because scratching tells us nothing"
-     ],
-     "a": 0,
-     "why": "The nail scratched the copper, so the copper is softer than the nail. The fingernail could not scratch the copper, so the copper is harder than the fingernail. That places it between the two. Picking 'softer than a fingernail' reverses the clue.",
+     "why": "If one thing scratches another, the first is harder. So wax is below wood, wood is below copper, and copper is below steel. Putting things in order from clues like these is how the Mohs scale of hardness was built.",
      "context": "This is about the scratch test. If one thing scratches another, the first is harder."
     },
     {
@@ -1140,43 +1138,69 @@
      "why": "A ship has a huge space inside, full of air. Counting steel and air together, a ship is less packed than the water it pushes aside, so it floats. A nail is solid steel, which is more packed than water. Picking 'lighter' is the common mistake. A ship weighs thousands of tonnes."
     },
     {
-     "t": "truefalse",
-     "p": "A diamond and the black lead of a pencil are made of the same kind of atom.",
-     "a": true,
-     "why": "True. Both are only carbon. The difference is how the atoms are joined. In diamond they are locked in all directions. In graphite they lie in sheets that slide."
+     "t": "write",
+     "p": "Malini rolls a sheet of kitchen foil into a tight ball and drops it into a bucket of water. It sinks. Then she flattens the same foil into a little boat. What do you predict will happen, and why?",
+     "lines": 4,
+     "a": "The boat floats. A strong answer says the material is the same, but the shape has changed. The boat is hollow and full of air, so all together it is less tightly packed than the water it pushes aside. The ball is solid foil, which is more tightly packed than water.",
+     "why": "Sinking and floating depend on the object's shape as well as its material. This is why a steel ship floats."
     },
     {
      "t": "mcq",
-     "p": "A steel plate and a plastic plate come out of the same freezer. The steel plate feels colder. Why?",
+     "p": "A strip held 6, 5 and 6 cups of water in three tries. Another strip held 2, 7 and 4. Which result can you trust more?",
      "opts": [
-      "Steel carries heat out of your hand faster",
-      "Steel holds more cold inside",
-      "Plastic is warmer in the middle",
-      "Steel is shinier"
+      "The first, because the three numbers are close",
+      "The second, because it reached 7",
+      "Neither, because tests are never reliable",
+      "They are equally reliable"
      ],
      "a": 0,
-     "why": "Both plates are at the same temperature. Steel is a conductor, so it pulls heat out of your fingers quickly, and your skin feels that as cold. Plastic is an insulator, so heat leaves your hand slowly. Picking 'steel holds more cold' is the common idea that cold is something stored inside things."
-    },
-    {
-     "t": "fill",
-     "p": "Water climbing up through the tiny gaps in a paper towel is called ____.",
-     "a": [
-      "wicking"
-     ],
-     "why": "Wicking is water creeping up through tiny gaps, even upwards against gravity. It is how a diya wick lifts oil and how a towel soaks up a spill."
+     "why": "When repeated tries give close numbers, the result is reliable. When they are far apart, something changed between tries, such as the method. Picking the second because of the biggest number would be trusting the luckiest try.",
+     "how": "e3",
+     "context": "In the dry or damp test, you hang a bag from a strip and pour in water until the strip tears. You repeat the test to see whether the results are reliable."
     },
     {
      "t": "mcq",
-     "p": "In the story, cotton thread held 14 shells in the damp dawn and only 11 at dry noon. What is the best explanation?",
+     "p": "Look at the table. Foil and cloth both drooped 10 centimetres, which is the whole way down. How could you find out which of the two is more flexible?",
      "opts": [
-      "Cotton thread is stronger when it is damp",
-      "The shells were heavier at noon",
-      "The thread was tired",
-      "The cotton changed into another material"
+      "Make both strips stick out only 5 centimetres, so neither hangs straight down",
+      "Use a longer strip of cloth",
+      "Measure them again in the same way",
+      "You cannot ever find out"
      ],
      "a": 0,
-     "why": "Shefali used the same thread, the same length and the same shells. Only the dampness of the air changed. Then she made a noon thread damp, and it held 14. So damp makes cotton a little stronger. Picking 'tired' does not fit the test, because a damp thread at noon held as much as a dawn thread.",
-     "context": "In the story The Thread That Held at Dawn, a girl called Shefali hung threads from a pole. She added white cowrie shells one by one until each thread snapped."
+     "chart": {
+      "type": "table",
+      "title": "Made-up example: how far each strip drooped over the table edge",
+      "cols": [
+       "Material",
+       "Droop (cm)"
+      ],
+      "rows": [
+       [
+        "Corrugated card",
+        "1"
+       ],
+       [
+        "Thin card",
+        "3"
+       ],
+       [
+        "Printer paper",
+        "8"
+       ],
+       [
+        "Foil strip",
+        "10"
+       ],
+       [
+        "Cloth",
+        "10"
+       ]
+      ]
+     },
+     "how": "e2",
+     "context": "In the droop test, you push a strip over a table edge. You measure how far its tip bends down.",
+     "why": "When both strips hang straight down, the test has reached its limit and cannot tell them apart. A shorter overhang makes a gentler test. Measuring again in the same way gives the same tie. Changing only one strip's length is not fair."
     },
     {
      "t": "match",
@@ -1255,65 +1279,16 @@
      "t": "truefalse",
      "p": "On the Mohs scale, diamond at 10 is exactly 10 times as hard as talc at 1.",
      "a": false,
-     "why": "False. The numbers only give the order. Diamond is far harder than the next mineral, corundum at 9, not just a little harder. A ladder tells you who is above whom, not by how much."
+     "why": "False. The numbers only give the order. Diamond is far harder than the next mineral, corundum at 9, not just a little harder. A ladder tells you who is above whom, not by how much.",
+     "context": "The Mohs scale puts minerals in order of hardness, from talc at 1, the softest, to diamond at 10, the hardest."
     },
     {
-     "t": "mcq",
-     "p": "Look at the table. Which material is the most rigid?",
-     "opts": [
-      "Corrugated card",
-      "Thin card",
-      "Paper",
-      "Cloth"
+     "t": "fill",
+     "p": "Water climbing up through the tiny gaps in a paper towel is called ____.",
+     "a": [
+      "wicking"
      ],
-     "a": 0,
-     "chart": {
-      "type": "table",
-      "title": "Made-up example: how far each strip drooped over the table edge",
-      "cols": [
-       "Material",
-       "Droop (cm)"
-      ],
-      "rows": [
-       [
-        "Corrugated card",
-        "1"
-       ],
-       [
-        "Thin card",
-        "3"
-       ],
-       [
-        "Printer paper",
-        "8"
-       ],
-       [
-        "Foil strip",
-        "10"
-       ],
-       [
-        "Cloth",
-        "10"
-       ]
-      ]
-     },
-     "how": "e2",
-     "why": "In the droop test, the more rigid a strip is, the less its end droops. The corrugated card drooped just 1 centimetre, the least. Picking cloth is the common mistake of reading a big number as 'more'. Here a big droop means more flexible, not more rigid.",
-     "context": "In the droop test, you push a strip over a table edge. You measure how far its tip bends down."
-    },
-    {
-     "t": "mcq",
-     "p": "A strip held 6, 5 and 6 cups of water in three tries. Another strip held 2, 7 and 4. Which result can you trust more?",
-     "opts": [
-      "The first, because the three numbers are close",
-      "The second, because it reached 7",
-      "Neither, because tests are never reliable",
-      "They are equally reliable"
-     ],
-     "a": 0,
-     "why": "When repeated tries give close numbers, the result is reliable. When they are far apart, something changed between tries, such as the method. Picking the second because of the biggest number would be trusting the luckiest try.",
-     "how": "e3",
-     "context": "In the dry or damp test, you hang a bag from a strip and pour in water until the strip tears. You repeat the test to see whether the results are reliable."
+     "why": "Wicking is water creeping up through tiny gaps, even upwards against gravity. It is how a diya wick lifts oil and how a towel soaks up a spill."
     },
     {
      "t": "write",
@@ -1330,44 +1305,56 @@
      "art": "Three blank boxes, each with a torch on the left."
     },
     {
+     "t": "perspective",
+     "p": "Is glass a strong material or a weak one? Three people disagree.",
+     "views": [
+      {
+       "who": "Sumathi, who fits windows in Madurai",
+       "says": "Glass is strong. My windows stand up to wind and rain for twenty years."
+      },
+      {
+       "who": "Ananya, in Class 3, whose glass bangle broke",
+       "says": "Glass is weak. My bangle fell on the floor and broke into pieces."
+      },
+      {
+       "who": "A scientist who studies materials",
+       "says": "Glass can hold a huge push or pull. But it is brittle. One tiny scratch lets a crack run right through it."
+      }
+     ],
+     "ask": "Which person do you agree with most? Use a property word and an example. Then say what another person has right.",
+     "lines": 5,
+     "a": "A strong answer picks a side and uses the right words: strong (holds a big load), brittle (snaps instead of bending). It may say that Sumathi and Ananya are both right about different things: glass holds a steady load well but cannot take a sudden knock. The scientist's view joins the two.",
+     "why": "Strong and brittle are different properties. However strong a material is, a small crack can grow and break it. That is why the answer depends on what the glass has to do."
+    },
+    {
      "t": "mcq",
-     "p": "Look at the table. Which surface is the most absorbent?",
+     "p": "Nisha tests a dry newspaper strip at noon and a damp cotton thread at dawn. The thread holds more. She says, 'Damp makes things stronger.' What is wrong with her test?",
      "opts": [
-      "Paper towel",
-      "Printer paper",
-      "Butter paper",
-      "Plastic bag"
+      "She changed two things at once: the material and the dampness",
+      "Nothing, it is a fair test",
+      "She should have tested at night",
+      "Newspaper and thread cannot be tested"
      ],
      "a": 0,
-     "chart": {
-      "type": "table",
-      "title": "Made-up example: seconds for one drop to vanish",
-      "cols": [
-       "Surface",
-       "Seconds"
-      ],
-      "rows": [
-       [
-        "Paper towel",
-        "2"
-       ],
-       [
-        "Printer paper",
-        "70"
-       ],
-       [
-        "Butter paper",
-        "120 or more"
-       ],
-       [
-        "Plastic bag",
-        "120 or more"
-       ]
-      ]
-     },
-     "how": "e4",
-     "why": "The drop vanished fastest on the paper towel, in 2 seconds, so it is the most absorbent. Picking the plastic bag mixes up a long time with a good result. A long time means the water stayed on top, which means waterproof.",
-     "context": "In the vanishing drop test, you put one drop of water on each surface. You time how long it takes to vanish."
+     "how": "e3",
+     "context": "In the dry or damp test, you hang a bag from a strip or a thread. You pour in water, one cup at a time, until it tears.",
+     "why": "A fair test changes only one thing. Nisha changed the material and the dampness together, so she cannot tell which one made the difference. To test dampness, she must test the same material dry and damp."
+    },
+    {
+     "t": "write",
+     "p": "Look at your own dry or damp results. Which material lost the most strength when it was damp? Use your numbers to show it. Then say why water did that.",
+     "lines": 4,
+     "how": "e3",
+     "context": "In the dry or damp test, you hang a bag from a strip or a thread. You pour in water, one cup at a time, until it tears.",
+     "a": "A strong answer names the material, gives the dry and damp numbers and the difference. For example, newspaper held 6 cups dry and 1 cup damp, so it lost 5 cups. It explains that water gets between the paper fibres and loosens the joins that hold them together.",
+     "why": "Evidence means your own numbers. A reason says what happens inside the material."
+    },
+    {
+     "t": "truefalse",
+     "p": "A strip of kitchen foil folded into three layers bends more easily than a single layer of the same foil.",
+     "a": false,
+     "how": "e2",
+     "why": "False. Three layers are thicker, so the strip is stiffer and droops less. The material is the same, but its thickness changes how flexible it is."
     }
    ]
   },
@@ -1383,18 +1370,6 @@
      "lines": 3,
      "a": "Length has one clear way to measure it, with a ruler. 'Hard' could mean hard to scratch, hard to dent or hard to break, and these tests give different orders. So scientists use several hardness scales.",
      "why": "Hardness is really a family of properties. Scientists must say which test they used before they give a number."
-    },
-    {
-     "t": "mcq",
-     "p": "Diamond and graphite are both pure carbon. What makes diamond hard and graphite soft?",
-     "opts": [
-      "How the carbon atoms are joined",
-      "Diamond has more atoms",
-      "Graphite is made of a different atom",
-      "Diamond is colder"
-     ],
-     "a": 0,
-     "why": "In diamond every atom is locked to four others in all directions. In graphite the atoms lie in flat sheets that slide over each other. Picking 'different atom' is a natural guess, because they look so unlike. But they are the same atom. The pattern is the difference."
     },
     {
      "t": "mcq",
@@ -1483,13 +1458,6 @@
      "context": "In the dry or damp test, you hang a bag from a strip or a thread and pour in water until it breaks. You compare dry and damp."
     },
     {
-     "t": "write",
-     "p": "Long ago, traders in different towns used different weights for a 'kilogram'. Why does science use the same units everywhere?",
-     "lines": 3,
-     "a": "If each person uses a different size of a unit, the same measure gives different numbers, and nobody can check or trust results. A shared unit means anyone can repeat the test and get the same answer. It is also fair for buyers and sellers.",
-     "why": "Shared units make results comparable and honest."
-    },
-    {
      "t": "mcq",
      "p": "A probe on the Moon measured the soil. It was about 70 degrees Celsius on top. It was about 10 degrees below zero just eight centimetres down. What does this show about Moon soil?",
      "opts": [
@@ -1509,14 +1477,6 @@
      "why": "False. A steel spring is hard to scratch, and it is also elastic. A thin plastic ruler is fairly hard and flexible. Hard means hard to scratch. Flexible means it bends without breaking. They are different properties, so a material can have any mix."
     },
     {
-     "t": "write",
-     "p": "In the story, why was Shefali's test fair? Name two things she kept the same.",
-     "lines": 3,
-     "a": "She cut every thread to the same length, her forearm's length. She used the same kind of shells, all the same size, one at a time. She used threads from the same ball of cotton. Only the time of day changed.",
-     "why": "A fair test changes only one thing. Here it was the dampness of the air.",
-     "context": "In the story The Thread That Held at Dawn, a girl hung threads and added cowrie shells until they broke. She did this at dawn and at noon."
-    },
-    {
      "t": "mcq",
      "p": "A scientist says, 'Cotton thread is strong.' What should she add to be more accurate?",
      "opts": [
@@ -1529,25 +1489,6 @@
      "why": "A thread's strength depends on its thickness and on the dampness of the air. The same words 'cotton thread' could describe very different results. Picking 'nothing' is the idea that properties never change, which the story showed is wrong."
     },
     {
-     "t": "write",
-     "p": "Agnes Pockels was not allowed to go to university. She measured water in her kitchen anyway. Why do you think she kept going, and what might the world have missed if she had stopped?",
-     "lines": 4,
-     "a": "She was curious and she noticed something real, so she wanted to find out. If she had stopped, the study of how surfaces work might have started later. Soap, oils and the skins of cells all depend on it. Her letter to Lord Rayleigh also shows that asking an expert can open a door.",
-     "why": "There is no single right answer. A good answer gives a reason from her story. It also says what the world loses when people are kept out."
-    },
-    {
-     "t": "mcq",
-     "p": "Nobody can touch nuclear pasta, a material that may exist inside a dead star. How can scientists say anything about it?",
-     "opts": [
-      "They use computer models built on rules tested on Earth",
-      "They guess",
-      "They have a sample in a laboratory",
-      "They saw it through a telescope"
-     ],
-     "a": 0,
-     "why": "Scientists use well-tested rules about atoms and forces and run them on powerful computers. This gives a prediction, not a proof. That is why it is marked as an idea. Picking 'a sample' is wrong, because no one has one."
-    },
-    {
      "t": "draw",
      "p": "Draw a zoom-in: a cotton thread, then one fibre, then a pattern of atoms joined together. Label the three pictures.",
      "a": "A thread made of many fibres twisted together. One fibre as a long thin strand. At the smallest scale, tiny balls joined in chains.",
@@ -1555,31 +1496,79 @@
      "art": "Three blank circles joined by arrows."
     },
     {
+     "t": "write",
+     "p": "Invent a material for the roof of an auto-rickshaw. List three properties it must have. For each one, say how you would test it at home.",
+     "lines": 5,
+     "a": "For example: waterproof (drip water on it and check the underside after five minutes), strong (hang a bag from a strip and add water cup by cup until it tears), and an insulator of heat (put two pieces in the sun and feel the underside after ten minutes). Light and flexible are good answers too. Any three properties that the job needs, each with a fair test, are right.",
+     "why": "Inventing a material means knowing which properties the job needs, and being able to test for them."
+    },
+    {
+     "t": "perspective",
+     "p": "Graphene is a sheet of carbon only one atom thick. It is the strongest material ever measured. People disagree about what it means for the future.",
+     "views": [
+      {
+       "who": "Dr Priya, a scientist who makes graphene",
+       "says": "Graphene will change everything. Phones, buildings and cars will all be made with it."
+      },
+      {
+       "who": "Hema, an engineer who builds bridges in Hyderabad",
+       "says": "Steel is cheap, and we know exactly how it behaves. Graphene is hard to make in big pieces, so I will keep using steel."
+      },
+      {
+       "who": "Leela, a teacher",
+       "says": "Both may be right. A new material wins only the jobs where its properties matter most and its cost is worth paying."
+      }
+     ],
+     "ask": "Which view do you agree with most? Give a reason. Then say one fair point from another view.",
+     "lines": 5,
+     "a": "A strong answer uses the unit's idea that the job decides which properties matter. It weighs strength against cost, how easy the material is to make, and how well we know it. It admits a fair point from another side, for example that the strongest material is not always the best choice.",
+     "why": "This is a real debate. Graphene was first made in 2004, and it is used in a few products, but steel, concrete and plastic still do most jobs. Being the strongest is only one property."
+    },
+    {
      "t": "mcq",
-     "p": "Which one is a property of the material, and not just of the object?",
+     "p": "Ghee is solid on a cold winter morning in Delhi. It is runny on a hot afternoon in Chennai. What does this show?",
      "opts": [
-      "It is hard to scratch",
-      "It is shaped like a bowl",
-      "It is in my kitchen",
-      "It was bought last year"
+      "A property can change with temperature",
+      "It is two different materials",
+      "Ghee in Chennai is not real ghee",
+      "Ghee has no properties"
      ],
      "a": 0,
-     "why": "Hard to scratch is true of the steel itself, in any shape. Being shaped like a bowl, being in a kitchen and being bought last year describe the one object only. Picking shape is the common mix-up between a material and an object.",
-     "context": "A material is what a thing is made of. An object is one thing with a shape and a use."
+     "why": "The ghee is the same material. Heat changes whether it is solid or runny. This is why a test must say the temperature, just as it must say how damp or thick the material was."
     },
     {
      "t": "write",
-     "p": "A glass bangle is hard and brittle. A steel spoon is hard and strong. Which would you choose for a bridge, and why? Which would you choose for a window, and why?",
+     "p": "What if every material in your home were waterproof, even towels, paper and clay pots? Name two things that would stop working, and explain why.",
      "lines": 4,
-     "a": "For a bridge, steel, because it must not snap when heavy things pass. For a window, glass, because it is see-through. Steel is not see-through, and glass would shatter on a bridge.",
-     "why": "Each job needs a different set of properties. A good answer names the property for each job."
+     "a": "A strong answer names jobs that need absorbent materials and says why. For example, a towel could not dry you. Paper could not take ink. A clay pot, a matka, keeps water cool because a little water soaks through its walls and dries away outside. A waterproof pot could not do that.",
+     "why": "No property is good or bad by itself. Being waterproof helps an umbrella, but many jobs need the opposite."
+    },
+    {
+     "t": "mcq",
+     "p": "Ishaan says, 'Rubber is a good material and glass is a bad one.' Which reply is best?",
+     "opts": [
+      "Each is good for some jobs: rubber for a tyre, glass for spectacles",
+      "He is right, because glass breaks",
+      "He is wrong, because glass is always better",
+      "Materials cannot be compared"
+     ],
+     "a": 0,
+     "why": "A material is good or bad only for a job. Glass is transparent, so it is right for spectacles, where rubber would be useless. Rubber is elastic and tough, so it is right for a tyre."
+    },
+    {
+     "t": "fill",
+     "p": "Hard means hard to scratch. A material that takes a knock without cracking, like leather or rubber, is called ____.",
+     "a": [
+      "tough"
+     ],
+     "why": "Tough means it soaks up a knock without cracking. Glass is hard but not tough. Leather is soft but tough. Scientists test hard, strong, stiff and tough separately, because one does not tell you the others."
     },
     {
      "t": "write",
-     "p": "Invent a new material for a school bag. List three properties it should have and say how you would test each one.",
+     "p": "Look back at every test you did in this unit. Which result surprised you most? Write what you guessed, what really happened, and what you think now.",
      "lines": 5,
-     "a": "Strong: hang a bag from a strip and pour in water cup by cup until it tears. Waterproof: drip water on it and see if it stays dry underneath after five minutes. Light: weigh the same size piece on a kitchen scale. Any three properties with a sensible test are right.",
-     "why": "Inventing a material means knowing the properties you want and being able to test for them."
+     "a": "A strong answer names a real test, gives the guess and the result honestly, and says what changed in the child's thinking. For example: 'I guessed the damp thread would break first. It held more shells. Now I think water weakens paper but helps cotton.'",
+     "why": "Changing your mind because of evidence is what scientists do. A guess that turns out wrong is useful, because it shows you what you did not know."
     }
    ]
   }
@@ -3166,7 +3155,7 @@
      "kid": "Swap places. You call the words now.",
      "check": {
       "t": "mcq",
-      "q": "Early morning fog is thin. You can see a tree through it, but the tree looks blurry. Fog is…",
+      "q": "Early morning fog is thin. You can see a tree through the fog, but the tree looks blurry. Fog is…",
       "options": [
        "Translucent",
        "Transparent",
@@ -3648,16 +3637,16 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Which of these is a property of a material?",
+   "p": "Lakshmi writes four words about her steel tumbler. Which one is NOT a property of steel?",
    "opts": [
-    "Waterproof",
-    "A spoon",
-    "A kitchen",
-    "A shop"
+    "Bought in Madurai",
+    "Shiny",
+    "Hard",
+    "Waterproof"
    ],
    "a": 0,
    "outcome": 0,
-   "why": "A property tells what a material is like, and waterproof does that. A spoon is an object. A kitchen and a shop are places. Picking 'a spoon' mixes up the object with the material it is made of."
+   "why": "Where something was bought tells you about the shop, not the material. Shiny, hard and waterproof tell what steel is like, so they are properties. Picking 'hard' may come from thinking a property must be something you see."
   },
   {
    "t": "mcq",
@@ -3741,16 +3730,16 @@
   },
   {
    "t": "mcq",
-   "p": "A glass bangle is hard to scratch but breaks when dropped. It is…",
+   "p": "A coir rope holds a full bucket of water. A stick of chalk is harder than the rope, but it snaps when you bend it. What does this show?",
    "opts": [
-    "Hard and brittle",
-    "Soft and strong",
-    "Soft and brittle",
-    "Hard and flexible"
+    "Hard and strong are different properties",
+    "Chalk is stronger than rope",
+    "Rope is harder than chalk",
+    "Hard things never break"
    ],
    "a": 0,
    "outcome": 0,
-   "why": "Hard is about scratching. Brittle is about snapping. Glass is both hard and brittle. Picking 'strong' mixes up hard and strong."
+   "why": "Hard is about scratching. Strong is about how much it holds before breaking. The rope is soft but strong. The chalk is harder but weak and brittle. Many people think hard means strong, but one does not tell you the other."
   },
   {
    "t": "mcq",

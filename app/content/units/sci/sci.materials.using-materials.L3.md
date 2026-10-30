@@ -204,25 +204,25 @@ A clay pot, a sweater and a flask look like solid things. But each one works bec
 - *big:* Some 'wonder materials' turn out not to work when others test them. Why do scientists test each other's claims? (hint: In 2023, some scientists said they had made an amazing new material. What happened when others tried to make it too?)
 
 ## Story: The Winter the Ink Did Not Freeze
-*Made up. Dolma, her mother, Stanzin Sir, Abi-le and the village are imagined. The science is real. Ladakh's winters are long and very cold. Sun-warmed buildings like this really exist there, built of thick mud walls with big south-facing windows, for example the SECMOL school campus near Leh.*
+*Made up. Dolma, her mother, Stanzin Ma'am, Abi-le and the village are imagined. The science is real. Ladakh's winters are long and very cold. Sun-warmed buildings like this really exist there, built of thick mud walls with big south-facing windows, for example the SECMOL school campus near Leh.*
 
 In our village in Ladakh, the winter is so cold that the river freezes and the yaks grow coats like carpets. That winter, the ink froze in my inkpot every morning. I had to hold it in my armpit for ten minutes before I could write my name.
 
 Our school was one room with concrete walls and a tin roof. The concrete was always cold, like a stone pulled out of the river. The tin roof was the worst. When I touched the nail heads on the ceiling beam, they bit my fingers with cold. We kept on our caps, our gloves, two sweaters each and our long woollen gonchas, and still our noses ran.
 
-Our teacher was Stanzin Sir. He was new, and young, and he came from Leh, where people have heaters. He lit the kerosene stove each morning. It filled the room with smoke and made a small warm circle around itself. The children nearest the stove coughed. The children by the window shivered. Nobody learned anything except how to be cold.
+Our teacher was Stanzin Ma'am. She was new, and young, and she came from Leh, where people have heaters. She lit the kerosene stove each morning. It filled the room with smoke and made a small warm circle around itself. The children nearest the stove coughed. The children by the window shivered. Nobody learned anything except how to be cold.
 
 My mother's kitchen was different. It was the warmest room I knew. Its walls were thick mud bricks, as thick as my arm is long. In the afternoon the sun came through the small window and lay across the wall like a sleeping cat. In the evening, after the sun had gone, I would lean my back on that wall. It was still warm. 'How does the wall remember the sun?' I asked my mother. She laughed and said, 'Mud is slow. It takes the heat slowly and gives it back slowly.'
 
 On the bus to the market in Leh, I noticed something else. The windows were shut and the sun poured in. My gloves came off. My cap came off. Outside, the wind was sharp as a knife. Inside the bus, behind the glass, it was almost like summer.
 
-I told Stanzin Sir. I told him about the mud wall that remembered the sun, and about the warm bus. He listened with his head on one side. Then he said, 'Let's test it.' We took two of my mother's steel cups and filled them with the same cold water. We put both on a dark flat stone in the sun. Over one cup, we put an upside-down glass jar. After the morning, the water under the jar was much warmer. The water in the open cup was barely warmer at all. 'The glass lets the sunlight in,' said Stanzin Sir, 'and stops the warm air from blowing away.'
+I told Stanzin Ma'am. I told her about the mud wall that remembered the sun, and about the warm bus. She listened with her head on one side. Then she said, 'Let's test it.' We took two of my mother's steel cups and filled them with the same cold water. We put both on a dark flat stone in the sun. Over one cup, we put an upside-down glass jar. After the morning, the water under the jar was much warmer. The water in the open cup was barely warmer at all. 'The glass lets the sunlight in,' said Stanzin Ma'am, 'and stops the warm air from blowing away.'
 
 So we made a plan. It was the biggest plan our village had ever made for a classroom. On the sunny south wall, we would put a big window of glass. Behind it, a thick mud wall, painted dark, to drink the sunlight and store its heat, like my mother's kitchen. And under the tin roof, a deep layer of straw and sawdust.
 
 Old Abi-le, who had lived through seventy winters, shook her head. 'Glass is cold,' she said. 'Touch a window in January. It burns your hand like ice.' She was right. I touched the bus window that week and it was freezing. But the sunlight still came through it. Glass is cold to touch, but it is clear. That was the job we needed it for.
 
-'And straw?' said Abi-le. 'Straw is for the dzo to eat.' Stanzin Sir explained that straw is full of air, and still air is like a blanket for a house. 'Like your goncha,' he said to her. 'Your goncha is not hot. It keeps your own heat in.' Abi-le looked down at her thick woollen robe for a long time. Then she said, 'Hm.' In our village, that means yes.
+'And straw?' said Abi-le. 'Straw is for the dzo to eat.' Stanzin Ma'am explained that straw is full of air, and still air is like a blanket for a house. 'Like your goncha,' she said to Abi-le. 'Your goncha is not hot. It keeps your own heat in.' Abi-le looked down at her thick woollen robe for a long time. Then she said, 'Hm.' In our village, that means yes.
 
 The whole village came to help. Grown-ups mixed mud and straw with their feet. Others carried the bricks in a long line. We children packed sawdust into sacks for the roof. The glass came from Leh on the roof of the bus, wrapped in old blankets. We all held our breath as it was lifted down.
 
@@ -230,7 +230,7 @@ The first sunny morning after it was finished, I came early. The air outside was
 
 But that night, a problem came. In the morning the room was colder than we hoped. Glass lets sunlight in, but it also lets warmth slip out in the dark. So my mother and the neighbours sewed thick curtains from old woollen blankets. At sunset, we pulled them across the glass. At sunrise, we pulled them open. Each material did its own job. The glass let the sun in. The mud kept the heat. The straw kept it from leaking up through the roof. The wool shut the window at night like an eyelid.
 
-That February, on the coldest morning of the year, I opened my inkpot. The ink was blue and liquid and ready. I wrote my whole name, Dolma Angmo, without warming it first. Stanzin Sir did not light the stove. Nobody coughed. By the window, where I sat, the sun lay across my desk like a sleeping cat.
+That February, on the coldest morning of the year, I opened my inkpot. The ink was blue and liquid and ready. I wrote my whole name, Dolma Angmo, without warming it first. Stanzin Ma'am did not light the stove. Nobody coughed. By the window, where I sat, the sun lay across my desk like a sleeping cat.
 
 Abi-le came to see it. She put her old hand flat on the dark wall and held it there. 'This wall remembers the sun,' she said, as if it were her own idea. I did not mind. It was a good idea. It was everyone's.
 
@@ -586,129 +586,118 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 
 ## Worksheets
 ### Why Is It Made of That? (core) (core, 16 questions)
-1. (mcq) A raincoat must keep you dry. Which property does its material need most?  
-   Options: Absorbent / Waterproof / Transparent / Brittle  
-   **Answer:** Waterproof. *Why:* Waterproof means it does not let water through, so the rain stays outside. Picking 'absorbent' usually means mixing up the two words. Absorbent means it soaks water up, like a towel. That is the opposite of what a raincoat needs.
-2. (mcq) Why are windows made of glass?  
-   Options: Glass is soft / Glass is transparent, so light comes in and we can see out / Glass is absorbent / Glass is bendy  
-   **Answer:** Glass is transparent, so light comes in and we can see out. *Why:* Transparent means you can see clearly through it. Glass lets light in, and it is waterproof too. Picking 'soft' or 'bendy' usually means the child is not yet thinking about what glass is like. Glass is hard and brittle.
-3. (fill) A material that lets heat pass through it quickly, like a steel spoon, is called a conductor of ____.  
-   **Answer:** ['heat']. *Why:* Metals are good conductors of heat. That is why a steel spoon in hot coffee gets hot all the way up.
-4. (mcq) Why is the handle of a pressure cooker usually made of plastic?  
-   Options: Plastic is shiny / Plastic does not carry heat well, so the handle stays cool / Plastic is heavy / Plastic melts easily  
-   **Answer:** Plastic does not carry heat well, so the handle stays cool. *Why:* The plastic used for handles is an insulator of heat. It stops the heat of the pot from reaching your hand. Picking 'melts easily' is a sensible worry. That is why handles use special hard plastics that can stand some heat.
-5. (sort) Sort these materials. Which are good conductors of heat, and which are good insulators?  
-   **Answer:** steel → Good conductor; wood → Good insulator; copper → Good conductor; wool → Good insulator; aluminium → Good conductor; plastic → Good insulator. *Why:* Metals, like steel, copper and aluminium, carry heat well. Wood, wool and plastic carry heat slowly, so they are insulators.
-6. (match) Match each object to the property that makes its material right for the job.  
-   **Answer:** towel → absorbent; rubber ball → bouncy and stretchy; bridge → strong; window → transparent; woollen shawl → traps air. *Why:* Each object's job needs one main property. A towel must soak up water. A ball must bounce. A bridge must hold up heavy loads. A window must let light through. A shawl must keep your heat in.
-7. (truefalse) One material can be used for many different jobs.  
-   **Answer:** True. *Why:* True. Steel makes spoons, almirahs, bridges and cycle frames. Cotton makes saris, veshtis, towels and diya wicks.
-8. (truefalse) There is only one material that can make a good spoon.  
-   **Answer:** False. *Why:* False. Spoons can be made of steel, wood, plastic, silver, bamboo or coconut shell. They all work because they are rigid and can be shaped.
-9. (mcq) A chocolate kadai would be a silly idea. Why?  
-   Options: Chocolate melts when it is warm / Chocolate is too strong / Chocolate is see-through / Chocolate is waterproof  
-   **Answer:** Chocolate melts when it is warm. *Why:* A kadai sits on a flame. Chocolate melts when it gets warm, so the kadai would melt. Picking 'too strong' or 'waterproof' means the property chosen does not cause any problem here. Always find the property that stops the job.
-10. (mcq) Why does a clay pot keep water cool?  
-   Options: Clay is cold inside / Water seeps through its tiny holes and evaporates, taking heat away / The clay pot has ice hidden in it / Clay makes the water heavier  
-   **Answer:** Water seeps through its tiny holes and evaporates, taking heat away. *Why:* Clay is porous. A little water seeps to the outside and evaporates. Evaporation takes heat away, so the water inside stays cooler. Picking 'clay is cold inside' usually means the child thinks materials have their own coldness. Clay is only cooled by the evaporating water.
-11. (fill) A material with tiny holes that water can seep through is called ____.  
-   **Answer:** ['porous']. *Why:* Baked clay, sponge and bread are porous. Glass and plastic are not.
-12. (mcq) An umbrella is made of waterproof cloth, steel ribs and a plastic handle. Why use three materials?  
-   Options: To make it cost more / Each material does a different job / Because one material ran out / To make it heavier  
-   **Answer:** Each material does a different job. *Why:* The cloth keeps off the rain. The springy steel ribs hold the cloth open. The handle is comfortable to hold. No single material does all three jobs well. Picking 'one ran out' usually means thinking the mix is an accident. Designers choose the mix on purpose.
-13. (write) Why are cooking pots usually made of metal? Use the word heat in your answer.  
-   **Answer:** Metal is a good conductor of heat. It carries the heat from the flame to the food quickly. It is also strong and does not melt on the gas.. *Why:* A good answer names the property, carries heat well, and links it to the job, cooking food.
-14. (write) Name two things in your home and the material each is made of. For each one, write one property that makes it right for the job.  
-   **Answer:** Any two good examples. For example: my bucket is plastic, because plastic is waterproof and light. My bedsheet is cotton, because cotton is soft and soaks up sweat.. *Why:* Any two real objects, with a true property linked to the job, are right.
-15. (draw) Draw a kadai on a gas flame. Label the part made of metal and the part made of wood or plastic. Write why each part is that material.  
-   **Answer:** The pan part is labelled metal, because metal carries heat to the food. The handle is labelled wood or plastic, because it does not carry heat to your hand.. *Why:* This shows two materials in one object, each chosen for a different property.
-16. (mcq) Which is the best material for a diya wick?  
-   Options: Cotton thread, because it soaks up oil / Plastic thread, because it is waterproof / Steel wire, because it is strong / Glass thread, because it is see-through  
-   **Answer:** Cotton thread, because it soaks up oil. *Why:* A wick must soak up oil and carry it up to the flame. Cotton is absorbent, so it does this well. Picking plastic usually means waterproof was taken to mean 'good'. Here waterproof is the wrong property, and plastic would also melt.
+1. (mcq) Meenakshi, a girl in Class 3, makes two boats. One is folded from newspaper. The other is a plastic box lid. She floats both in a bucket of water. Which boat will still float tomorrow?  
+   Options: The plastic lid, because plastic is waterproof / The paper boat, because paper is lighter / Both, because both float at first / Neither, because all boats sink in the end  
+   **Answer:** The plastic lid, because plastic is waterproof. *Why:* A strong answer uses a property. Paper is absorbent. It slowly soaks up water, goes soft and sinks. Plastic is waterproof, so it stays dry and keeps floating. Picking 'paper is lighter' is a sensible first guess, but being light only helps until the paper fills with water.
+2. (fill) A material that slows heat down, like the wood of a ladle handle, is called an ____ of heat.  
+   **Answer:** ['insulator']. *Why:* Wood, wool, plastic and still air are insulators of heat. Metals are the opposite: they are conductors, which let heat pass through quickly.
+3. (truefalse) Every material is either a good material or a bad material.  
+   **Answer:** False. *Why:* False. A material is only good or bad for a job. Glass is perfect for a window, because it is transparent. It is a terrible choice for a cricket ball, because it is brittle. A strong answer gives one job where the material is right and one where it is wrong.
+4. (sort) What does each object's material need to do most? Sort them.  
+   **Answer:** a window pane → Let light through; a spectacle lens → Let light through; a sponge → Soak up water; a floor mop → Soak up water; a bucket → Keep water in or out; a tent → Keep water in or out. *Why:* Start from the job, not the material. A window and a lens must be transparent. A sponge and a mop must be absorbent. A bucket and a tent must be waterproof.
+5. (match) Each of these went wrong. Match each problem to the property that caused it.  
+   **Answer:** A paper plate goes soggy under hot sambar → absorbent; A glass tumbler breaks on the floor → brittle; A steel spoon in hot payasam burns your fingers → good conductor of heat; A plastic bucket left by the stove goes out of shape → softens when hot. *Why:* When an object fails, ask which property let it down. Then you know what property the new material needs.
+6. (mcq) A cricket bat is made of willow wood, not steel. What is the main reason?  
+   Options: A steel bat of that size would be far too heavy to swing / Wood is waterproof / Steel cannot be shaped / Wood carries heat well  
+   **Answer:** A steel bat of that size would be far too heavy to swing. *Why:* Steel is strong, but it is very heavy for its size. A bat must be strong and light enough to swing fast. Willow is both. Picking 'steel cannot be shaped' is not right, because steel is shaped into cars and spoons. A strong answer weighs strength against weight.
+7. (mcq) Arjun says, 'A clay pot cools water because clay is a cold material.' Which test would show whether he is right?  
+   Options: Wrap the wet clay pot in a plastic bag, so no water can evaporate, and see if the water still cools / Paint the pot a nicer colour / Use a bigger pot / Leave the pot in the fridge  
+   **Answer:** Wrap the wet clay pot in a plastic bag, so no water can evaporate, and see if the water still cools. *Why:* If clay itself were cold, the pot would cool water even inside a plastic bag. It does not. The water only cools when it can seep out and evaporate. A strong answer changes one thing that would tell the two ideas apart.
+8. (write) An old, flat blanket keeps you less warm than a new, fluffy one made of the same cotton. Why?  
+   **Answer:** A strong answer says the fluffy blanket has more air trapped between its threads. Still air is an insulator, so it slows your body's heat from leaving. The flat blanket has lost most of its trapped air.. *Why:* Both blankets are the same material. The difference is the trapped air, and that is what does most of the work.
+9. (truefalse) Cotton is a good choice for a diya wick and a bad choice for an umbrella. Both are true because of the same property.  
+   **Answer:** True. *Why:* True. Cotton is absorbent. That is right for a wick, which must soak up oil and carry it to the flame. It is wrong for an umbrella, which must keep water out. One property can be good for one job and bad for another.
+10. (order) Put these in order to explain how a clay pot cools the water inside it.  
+   **Answer:** order shown. *Why:* Clay is porous: it has tiny holes. Water reaches the outside and evaporates. Evaporation takes heat away with it. A strong answer gets the evaporation step before the cooling step.
+11. (write) Look around the room you are in. Find one object made of two or more materials. Name each material and the job it does.  
+   **Answer:** Any real object, with each material linked to a job. For example: my water bottle has a steel body, because steel is strong and easy to clean. It has a plastic lid, because plastic can be made to fit tightly and bend a little.. *Why:* A strong answer names a real object, every material in it, and a property that fits each job.
+12. (draw) Draw your school bag. Label three materials it is made of. Next to each label, write the job that material does.  
+   **Answer:** For example: cloth or nylon for the body, because it is strong and light. A plastic or metal zip, because it is stiff and slides. Foam in the straps, because it is soft on the shoulders.. *Why:* A strong drawing shows that one object uses several materials, each chosen for one job.
+13. (perspective) Three people in Madurai argue about the best pot for keeping drinking water at home in summer.  
+   **Answer:** Any choice can be strong. A strong answer uses evidence, for example: the clay pot water was cooler after three hours because water evaporated from its outside. It then admits a real point from another side, for example: clay is brittle and can crack, or plastic is easiest to carry.. *Why:* Each pot is good at something. Clay cools, steel lasts, plastic is light. There is no single right answer, but a strong answer uses the test results and is fair to the other side.
+14. (mcq) Glass is very hard. Yet a glass tumbler breaks when it falls, and a steel tumbler only dents. Why?  
+   Options: Glass is brittle: it cracks instead of bending / Glass is soft / Glass is heavier than steel / Glass is transparent  
+   **Answer:** Glass is brittle: it cracks instead of bending. *Why:* Hard means difficult to scratch. Brittle means it cracks instead of bending. Glass is both. Steel can bend a little and soak up the bump. Picking 'glass is soft' mixes up breaking with softness. A strong answer says hard is not the same as strong.
+15. (write) After the Hot Spoon Race, write three sentences. What did you guess before? What did you see? Why do you think it happened?  
+   **Answer:** For example: I guessed the plastic spoon would get hot first. I saw the butter on the steel spoon melt first, after about 4 minutes. I think it happened because steel is a metal, and metals are good conductors of heat.. *Why:* A strong answer is honest about the guess, gives what was seen with a number, and gives a reason using the word conductor.
+16. (mcq) Kavya puts a steel bowl of hot payasam on the wooden table. Which mat will protect the table best?  
+   Options: A thick, folded cotton cloth / A thin steel plate / A copper sheet / No mat  
+   **Answer:** A thick, folded cotton cloth. *Why:* The folded cloth is an insulator. It has air trapped between its folds, so it slows heat moving down into the table. Steel and copper are conductors, so they pass the heat straight through. Picking the steel plate is a common guess, because it looks strong. But this job needs an insulator, not strength.
 ### Testing and Choosing (stretch) (stretch, 16 questions)
-1. (mcq) Look at the chart from the Hot Spoon Race. Which spoon carried heat fastest?  
-   Options: The steel spoon / The plastic spoon / The wooden spoon / They were all the same  
-   **Answer:** The steel spoon. *Why:* The butter on the steel spoon melted first, after only 4 minutes. So steel carried heat up the spoon fastest. Steel is a metal, and metals are good conductors. Picking 'wooden' usually means the tallest bar was read as fastest. Here a taller bar means a longer wait, so the tallest bar is the slowest.
-2. (mcq) In the Hot Spoon Race, why must the butter blobs be the same size and at the same height on each spoon?  
-   Options: To make it a fair test, so only the spoon's material changes / To use less butter / So the spoons look neat / It does not matter  
-   **Answer:** To make it a fair test, so only the spoon's material changes. *Why:* In a fair test, you change only one thing, here the material. A bigger blob, or one lower down, would melt at a different time, even on the same spoon. Picking 'it does not matter' means the test could not tell us which material really carries heat best.
-3. (truefalse) A woollen sock makes heat, so an ice cube wrapped in it melts faster.  
-   **Answer:** False. *Why:* False. Wool makes no heat. It traps still air, which slows heat down. So it keeps the room's warmth away from the ice, and the ice melts more slowly.
-4. (mcq) Look at the chart. The ice cube in the woollen sock lasted longest. What does this show?  
-   Options: Wool is cold / Wool slows heat down, so the room's warmth reached the ice slowly / Wool makes heat / The sock was wet  
-   **Answer:** Wool slows heat down, so the room's warmth reached the ice slowly. *Why:* Wool is an insulator. It slows heat from the room reaching the ice. The same wool slows your body's heat leaving you in winter. Picking 'wool is cold' is a natural guess. But wool is not cold or hot. It only slows heat down.
-5. (mcq) On a winter morning, a steel railing feels colder than a wooden bench next to it. Why?  
-   Options: The steel really is much colder / Steel carries heat away from your hand faster / Wood makes its own heat / Steel is wet  
-   **Answer:** Steel carries heat away from your hand faster. *Why:* Both have been out all night, so they are the same temperature. Steel is a good conductor, so it pulls heat out of your warm hand quickly. That makes it feel colder. Picking 'really colder' trusts the feeling, not a thermometer. A thermometer would show them the same.
-6. (mcq) Why do the water in a clay pot and the water in a plastic bottle end up different, even in the same room?  
-   Options: Clay is porous, so water evaporates from its outside and cools it / Plastic makes heat / Clay is heavier / The plastic bottle is transparent  
-   **Answer:** Clay is porous, so water evaporates from its outside and cools it. *Why:* Water seeps through the clay's tiny holes and evaporates, which takes heat away. Plastic has no holes, so the water inside cannot evaporate through it. Picking 'plastic makes heat' is not right. Plastic does not make heat. It just cannot cool the water.
-7. (fill) When a liquid slowly turns into a gas and goes into the air, it is called ____.  
-   **Answer:** ['evaporation', 'evaporating']. *Why:* Evaporation takes heat away. That is why wet skin feels cool in a breeze, and why a clay pot cools water.
-8. (sort) Sort these jobs by the property their material needs most.  
-   **Answer:** a tent → Waterproof; a mop → Absorbent; a tea cosy → Insulator of heat; a bucket → Waterproof; a kitchen cloth → Absorbent; oven gloves → Insulator of heat. *Why:* A tent and a bucket must keep water in or out. A mop and a cloth must soak water up. A tea cosy and oven gloves must slow heat down.
-9. (mcq) Spectacles for a small child are often made of plastic instead of glass. Why?  
-   Options: Plastic is lighter and does not shatter if they fall / Plastic is more transparent than any glass / Plastic is heavier, so they stay on / Glass cannot be shaped  
-   **Answer:** Plastic is lighter and does not shatter if they fall. *Why:* Glass is clear but brittle. A small child might drop them. Plastic is clear enough, lighter and safer. This is a trade-off. Picking 'more transparent' is a common guess. Good glass is actually just as clear. The reason is safety and weight.
-10. (mcq) A banana leaf and a steel plate can both be plates. When is the banana leaf a better choice?  
-   Options: For a big feast, because it is cheap and rots away after / For every meal for twenty years / For cooking on the gas / For carrying hot sambar on a train  
-   **Answer:** For a big feast, because it is cheap and rots away after. *Why:* A banana leaf is waterproof on top, cheap and rots away after use. That suits a feast for hundreds of people. A steel plate is durable, so it suits everyday meals at home for years. Picking 'cooking on the gas' means mixing up a plate's job with a pan's job.
-11. (match) Match each material in a bicycle to its job.  
-   **Answer:** steel frame → strong, holds the rider up; rubber tyres → grip the road and soften bumps; oil on the chain → helps parts slide smoothly; plastic reflectors → shine back the light of cars at night. *Why:* A bicycle is made of several materials. Each one does a job that suits its properties.
-12. (write) Charles Macintosh made the first rubber raincoat cloth in 1823. He put rubber between two layers of cloth. Why not just use rubber on its own, or cloth on its own?  
-   **Answer:** Cloth on its own soaks up rain, so you get wet. Rubber on its own is waterproof but sticky, and uncomfortable on skin. Together, the rubber keeps the water out and the cloth makes it soft and strong.. *Why:* A good answer gives one weak point of each material, and says how joining them fixes both.
-13. (write) Your friend says 'Plastic is the best material, because it is waterproof and cheap.' Give two jobs where plastic would be a bad choice, and say why.  
-   **Answer:** For example: the bottom of a cooking pot, because plastic would melt on the gas. A winter blanket, because a plastic sheet traps no air and does not let sweat out. A wedding plate in a field, because plastic does not rot away.. *Why:* Any two jobs where a property of plastic causes a problem are right.
-14. (order) Put these in order, from the best conductor of heat to the worst: wood, copper, wool, steel.  
-   **Answer:** order shown. *Why:* Copper carries heat best of the four. Steel is a good conductor too, but not as good as copper. Wood is an insulator. Fluffy wool, with its trapped air, is an even better insulator.
-15. (draw) Design a lunch box that keeps food warm until lunchtime. Label at least three materials, and say what each one does.  
-   **Answer:** For example: a steel box inside, which is easy to clean. A thick layer of foam or wool around it, to trap air and slow heat leaving. A cloth bag outside, with a plastic zip.. *Why:* A good design uses an insulator around the food, and says the job of each material.
-16. (write) After the Matka Mystery test, write three sentences. What I think. What I saw. Why I think it happened.  
-   **Answer:** What I think: a clay pot keeps water cooler than a plastic bottle. What I saw: after three hours, the clay pot water was 24 degrees and the bottle water was 29 degrees. Why: water seeped through the clay and evaporated, and that took heat away.. *Why:* A full answer has a claim, evidence with numbers, and a reason using the word evaporation.
-### Materials Puzzles and Big Ideas (challenge) (challenge, 17 questions)
-1. (mcq) Why are metals good conductors of heat?  
-   Options: Some of their electrons can move freely and carry energy fast / Metals are always hot inside / Metals are heavy / Metals have air inside them  
-   **Answer:** Some of their electrons can move freely and carry energy fast. *Why:* In metals, some electrons are not stuck to one atom. They wander through the metal and carry energy along quickly. Picking 'always hot inside' means thinking a material can have its own heat. A spoon left in a cold room is cold.
-2. (mcq) Diamond and pencil lead are both made of carbon atoms. Why is diamond so hard, and pencil lead so soft?  
-   Options: Their carbon atoms are joined together in different ways / Diamond has more carbon / Pencil lead is mixed with butter / Diamond is colder  
-   **Answer:** Their carbon atoms are joined together in different ways. *Why:* In diamond, each carbon atom holds tightly to others in every direction. In pencil lead, called graphite, the atoms make flat sheets that slide over each other. The same atoms, joined differently, give very different properties. Picking 'more carbon' usually means thinking properties depend only on amount.
-3. (mcq) In very damp, sticky weather, a clay pot cools water less well. Why?  
-   Options: When the air is already full of water, water evaporates slowly / Clay melts in the rain / Damp weather is always cold / The pores close up  
-   **Answer:** When the air is already full of water, water evaporates slowly. *Why:* Evaporation is slow when the air already holds lots of water. Less evaporation means less cooling. Picking 'damp weather is cold' is a guess about the weather, but sticky monsoon days are often hot. The clay pot needs dry, moving air to work best.
-4. (mcq) A space blanket on the Chandrayaan-3 lander is shiny, with many thin layers and gaps between them. What does it do?  
-   Options: The shiny layers reflect the Sun's heat, and the gaps stop heat passing through / It makes the lander heavier, so it does not float away / It is only for decoration / It makes heat to keep the lander warm  
-   **Answer:** The shiny layers reflect the Sun's heat, and the gaps stop heat passing through. *Why:* Shiny surfaces bounce heat away. The empty gaps between layers slow heat down, a bit like the trapped air in a sweater. Picking 'makes heat' is the same mix-up as the sweater idea. The blanket makes no heat. It slows heat down.
-5. (truefalse) Bone is a natural composite: a bendy material and a hard mineral working together.  
-   **Answer:** True. *Why:* True. The mineral alone would be brittle, like chalk. The bendy collagen alone would bend like rubber. Together they make bone hard and tough.
-6. (mcq) Water rolls off a lotus leaf in balls and carries dirt away. What is the leaf's secret?  
-   Options: Tiny waxy bumps on its surface / The leaf is made of plastic / The leaf is always hot / The leaf is magnetic  
-   **Answer:** Tiny waxy bumps on its surface. *Why:* The leaf is covered in tiny waxy bumps. Water touches only the tips of the bumps, so it cannot spread out. It beads up and rolls away. Scientists copied this to make self-cleaning paint. Picking 'plastic' is a fair guess because plastic is waterproof. But the secret is the bumpy waxy surface.
-7. (fill) Copying the clever designs of living things to make new materials is called ____.  
-   **Answer:** ['biomimicry']. *Why:* Velcro, self-cleaning paint and some swimsuits all copy living things.
-8. (mcq) In 2023, some scientists said they had made LK-99, a material that carries electricity with no loss at room temperature. What happened?  
-   Options: Other scientists tested it, and it did not work as claimed / It is now in every phone / Nobody ever tested it / It was banned  
-   **Answer:** Other scientists tested it, and it did not work as claimed. *Why:* Scientists around the world tried to make it and test it. It did not carry electricity with no loss. This is how science checks itself. Picking 'nobody tested it' misses the most important part of science: others must be able to repeat a result.
-9. (write) Abi-le, in the story, said 'Glass is cold'. She was right. Why did the village still choose glass for the classroom wall?  
-   **Answer:** Glass feels cold to touch, but it is transparent. It lets the sunlight in, which warms the dark mud wall. Its job was to let light in, not to feel warm.. *Why:* A good answer separates how glass feels from the job it does: letting sunlight in.
-10. (write) Glass lets sunlight in by day, but lets warmth out at night. How did the village in the story solve this? Which property of wool helped?  
-   **Answer:** They hung thick woollen curtains over the glass at night. Wool traps air, so it is an insulator. It slowed the warmth leaking out through the glass.. *Why:* The village used several materials, and each one covered another one's weak point.
-11. (mcq) Which question would help an engineer most when choosing a material for a bridge?  
-   Options: What does it need to do, and which properties does that need? / Which material is the prettiest colour? / Which material is newest? / Which material did my friend choose?  
-   **Answer:** What does it need to do, and which properties does that need?. *Why:* Engineers start with the job. Then they find materials with the right properties, and weigh up cost, weight and safety. Picking 'newest' is tempting. But new materials are not always better, or tested enough.
-12. (write) Most plastic ever thrown away has not been recycled. Should plastic be banned? Give one reason for and one reason against.  
-   **Answer:** A balanced answer. For example: for, thrown-away plastic lasts for hundreds of years and blocks drains and harms animals. Against, plastic does jobs nothing else does as well, like clean syringes in hospitals.. *Why:* There is no single right answer. What counts is a reason for each side.
-13. (mcq) People kept water cool in clay pots for thousands of years before scientists explained evaporation. What does this tell us?  
-   Options: People can find out what works by trying and noticing, before anyone explains why / The old pots did not really work / Science was not needed / Clay pots were magic  
-   **Answer:** People can find out what works by trying and noticing, before anyone explains why. *Why:* Careful noticing and testing, over many generations, found that clay pots cool water. Later, science explained why. Both kinds of knowing matter. Picking 'science was not needed' misses that science lets us improve the idea, as in the Mitticool clay fridge.
-14. (write) Who should get the credit for an invention: the person who first had the idea, the person who made it work, or the person who patented it? Use stainless steel or aluminium as your example.  
-   **Answer:** Any thoughtful answer. For example: many people in different countries made stainless steel at about the same time, so the credit should be shared. Julia Hall helped her brother with aluminium, so her name should be remembered too.. *Why:* This links the science to fairness. There is no single right answer, but the answer should give a reason.
-15. (mcq) Most of the iron in your steel spoon was first made where?  
-   Options: Inside stars, long before the Earth formed / In a steel factory / In the Earth's oceans / Inside volcanoes  
-   **Answer:** Inside stars, long before the Earth formed. *Why:* Iron atoms were made in stars and in exploding stars, and the explosions scattered them into space. The Earth later formed from that dust. A factory only melts and mixes iron that was already here. Picking 'steel factory' is fair, because that is where the spoon was made. But the iron atoms are far older.
-16. (draw) Draw a zoom-in of a steel spoon, as if you had a super microscope. Show the atoms, and the free electrons that carry heat.  
-   **Answer:** Neat rows of round atoms, with tiny dots moving freely between them, and arrows showing heat moving along.. *Why:* This shows why metals carry heat well: their free electrons move energy along quickly.
-17. (write) Invent a new material for a school uniform in a hot, rainy Indian city. List three properties it must have, and how you would test each one.  
-   **Answer:** For example: it must be absorbent to soak up sweat, so drip water on it and time how fast it soaks in. It must dry quickly, so hang it wet and time it. It must be strong, so pull it with weights until it tears.. *Why:* A good answer links each property to the job, and gives a fair test for each one.
+1. (mcq) Look at the chart from the Hot Spoon Race. The plastic spoon's butter melted after 14 minutes. The wooden spoon's butter had not melted by 15 minutes. What does this tell you?  
+   Options: Plastic is an insulator, but here it let heat through a little faster than wood / Plastic is a conductor, like steel / Plastic makes its own heat / The plastic spoon had more butter  
+   **Answer:** Plastic is an insulator, but here it let heat through a little faster than wood. *Why:* Plastic took more than three times as long as steel, so it is an insulator. But it was a little quicker than wood, so it is a slightly weaker one. Picking 'a conductor, like steel' misses how big the gap is: 4 minutes against 14. A strong answer compares the numbers.
+2. (write) Suppose you added a copper spoon to the Hot Spoon Race. Where would you expect its bar on the chart to be? Explain your guess.  
+   **Answer:** A strong answer says the copper bar would be the shortest, under 4 minutes. Copper is a metal and an even better conductor of heat than steel. So heat would reach the butter even faster.. *Why:* This uses the result to predict a new case. The child has not tested copper, so the answer should be a reasoned guess, and say how to check it.
+3. (mcq) Two clay pots are filled with the same water. One stands in the breeze of a fan. The other stands in a still corner. Which water will be cooler after two hours?  
+   Options: The pot in the fan's breeze / The pot in the still corner / Both the same, because they are the same pot / Neither will cool  
+   **Answer:** The pot in the fan's breeze. *Why:* Moving air carries away the water that has evaporated, so more water can evaporate. More evaporation takes away more heat. Picking 'both the same' forgets that the air around the pot matters, not just the clay.
+4. (truefalse) A clay pot cools water best on a hot, dry, windy day, and worst on a sticky, damp day.  
+   **Answer:** True. *Why:* True. Water evaporates fast into dry, moving air. On a sticky monsoon day, the air already holds lots of water, so evaporation is slow and the pot cools less. A strong answer links the weather to how fast water can evaporate.
+5. (write) Some steel cooking pots have a layer of copper on the bottom. Why would a cook want copper there?  
+   **Answer:** A strong answer says copper is an even better conductor of heat than steel. It spreads the flame's heat quickly across the whole bottom of the pot. So the food cooks evenly and does not burn in one spot.. *Why:* This is two materials in one object, each doing a job. Steel is strong and easy to clean. Copper spreads the heat.
+6. (fill) Wet clothes on a line dry because the water slowly turns into a gas and goes into the air. This is called ____.  
+   **Answer:** ['evaporation', 'evaporating']. *Why:* Evaporation takes heat away from whatever the water leaves. That is why the same idea dries clothes and cools a clay pot.
+7. (match) Match each part of a pressure cooker to the property it needs.  
+   **Answer:** the metal body → conducts heat from the flame to the food; the handle → insulator, stays cool to hold; the rubber ring in the lid → stretchy, seals the steam in; the heavy weight on top → heavy, holds the steam in until it is very hot. *Why:* A pressure cooker is four materials doing four jobs. A strong answer sees that no single material could do all of them.
+8. (sort) Some of these keep heat in with trapped air. Others cool things down by evaporation. Sort them.  
+   **Answer:** a woollen shawl → Trapped air keeps heat in; a fluffy quilt → Trapped air keeps heat in; a crow fluffing up their feathers on a cold morning → Trapped air keeps heat in; a wet cloth on a hot forehead → Evaporation cools; sweat on your skin → Evaporation cools; a clay pot of water → Evaporation cools. *Why:* These are the two big ideas of the unit. Trapped still air slows heat leaving. Evaporating water takes heat away.
+9. (perspective) A school in Madurai, where summers are very hot, needs a new roof. Three people each want a different material.  
+   **Answer:** Any choice can be strong. A strong answer names a property, for example: tin is a good conductor, so it gets very hot in the Sun and heats the room below. Then it is fair to another side, for example: clay tiles can crack, or concrete costs more but lasts much longer.. *Why:* Cost, strength, how long it lasts and how hot the room gets all matter. Real builders weigh them up. There is no single right answer.
+10. (mcq) Kavya tests which cloth makes the best tea cosy. She wraps one tumbler in wool and one in cotton. She fills the wool one with boiling water and the cotton one with warm water. What is wrong with her test?  
+   Options: The water should start at the same temperature in both / She should use only one tumbler / Cotton cannot be tested / Nothing is wrong  
+   **Answer:** The water should start at the same temperature in both. *Why:* In a fair test, only the cloth should change. If one tumbler starts hotter, it may end hotter whatever it is wrapped in. A strong answer names the one thing that should stay the same.
+11. (write) Farhan says, 'A steel bottle keeps water colder than a clay pot, because steel feels colder when I touch it.' What would you tell him? How could he find out?  
+   **Answer:** A strong answer says steel feels cold because it takes heat from your hand quickly, not because it is colder. The way to find out is to test: fill a steel bottle and a clay pot with the same water, leave them side by side, and measure both with a thermometer after three hours.. *Why:* How a material feels is not the same as its temperature. The Matka Mystery test is the fair way to answer the question.
+12. (draw) A fruit seller in a hot market wants to keep her grapes cool all day, with no electricity. Design a cooler for her. Draw it, and label each material and its job.  
+   **Answer:** For example: a big clay pot with a smaller clay pot inside it. Wet sand fills the gap. A wet cloth covers the top. Labels say the clay is porous, the water in the sand evaporates and takes heat away, and the cooler stands in the shade where air can move.. *Why:* A strong design uses evaporation and a porous material, and keeps the cooler in moving air.
+13. (truefalse) Adding a second material to an object always makes it better.  
+   **Answer:** False. *Why:* False. A second material can fix a weak point, like a wooden handle on a steel pan. But it can also add cost and weight, and objects made of glued-together materials are hard to recycle. A strong answer gives one case where adding helps and one where it does not.
+14. (mcq) A cricket helmet is hard plastic on the outside and soft foam on the inside. Why use two materials?  
+   Options: The hard shell spreads out the hit, and the foam squashes to slow it down / Foam makes the helmet look bigger / Plastic keeps the head warm / Two materials are cheaper than one  
+   **Answer:** The hard shell spreads out the hit, and the foam squashes to slow it down. *Why:* The hard shell stops the ball from poking through and spreads the force. The soft foam squashes, so the head stops more gently. Picking 'keeps the head warm' gives a real property of foam, but that is not this job.
+15. (write) Suppose the water in the clay pot and the plastic bottle were the same temperature at the end of the Matka Mystery. Give two reasons this might have happened.  
+   **Answer:** Any two sensible reasons. For example: the pot was painted or glazed, so water could not seep out. The day was very damp, so little water evaporated. The pot was not soaked first, so no water reached the outside. They were put in a still corner with no moving air.. *Why:* A strong answer uses the idea of evaporation to explain an odd result, instead of deciding the idea is wrong.
+16. (order) Put these in order from the best insulator of heat to the worst: steel, wool, still air, wood, copper.  
+   **Answer:** order shown. *Why:* Still air is an excellent insulator. Wool works mainly because it traps still air. Wood is an insulator too, but less good. Steel and copper are conductors, and copper is the better conductor, so it is the worst insulator.
+### Materials Puzzles and Big Ideas (challenge) (challenge, 16 questions)
+1. (write) Many people say, 'Only metals are good conductors of heat.' But diamond carries heat even better than copper, and diamond is not a metal. What does this tell you about the rule?  
+   **Answer:** A strong answer says the rule is not complete. Metals carry heat well because some of their electrons move freely. Diamond has no free electrons, but its atoms are held so tightly that a shake at one end passes along very fast. So there is more than one way to be a good conductor.. *Why:* This tests a popular belief against one surprising case. One clear exception is enough to show a rule needs changing.
+2. (mcq) A diamond and a pencil lead are both made only of carbon atoms. What makes one very hard and the other soft enough to write with?  
+   Options: The carbon atoms are joined together in different ways / Diamond has more carbon atoms / The pencil lead is mixed with butter / Diamond is kept colder  
+   **Answer:** The carbon atoms are joined together in different ways. *Why:* In diamond, each carbon atom holds tightly to others in every direction. In pencil lead, called graphite, the atoms make flat sheets that slide over each other. Picking 'more carbon' means thinking properties depend only on how much there is. A strong answer says arrangement matters.
+3. (perspective) Should plastic bags and plastic straws be banned in your city? Three people see it differently.  
+   **Answer:** A strong answer makes a clear choice, for example: ban plastic bags but not hospital plastics. It uses a property, for example: plastic is durable, so thrown-away plastic stays in the sea for hundreds of years. Then it argues fairly from another side, for example: cloth bags cost more at first.. *Why:* Plastic's best property, lasting a long time, is also its biggest problem once it is thrown away. People who depend on it in different ways see different sides. There is no single right answer.
+4. (mcq) India's Chandrayaan-3 lander was wrapped in a shiny blanket with many thin layers and gaps between them. What does the blanket do?  
+   Options: The shiny layers reflect the Sun's heat, and the gaps slow heat passing through / It makes heat to keep the lander warm / It makes the lander heavier, so it does not float away / It is only for decoration  
+   **Answer:** The shiny layers reflect the Sun's heat, and the gaps slow heat passing through. *Why:* Shiny surfaces send heat back. The gaps between the layers slow heat down, a bit like the trapped air in a sweater. Picking 'makes heat' is the same mistake as thinking a sweater makes heat. A strong answer says the blanket slows heat, in both directions.
+5. (write) In the story, the villagers mixed straw into the mud for their bricks. However strong dried mud is, a small crack can grow and break the brick. How does straw help?  
+   **Answer:** A strong answer says the straw strands run through the brick. When a crack starts, it reaches a strand of straw and cannot easily get past it. So the crack stops growing, and the brick holds together.. *Why:* A material is only as strong as its biggest crack. Mud and straw together make a composite: the mud is hard, and the straw stops cracks spreading.
+6. (mcq) To cut a sheet of glass, a glass cutter scratches a line on it, then bends the sheet. The glass snaps cleanly along the line. Why?  
+   Options: The scratch is a tiny crack, and the crack grows along the line when the glass is bent / The scratch makes the glass softer / The scratch heats the glass / The glass was already broken there  
+   **Answer:** The scratch is a tiny crack, and the crack grows along the line when the glass is bent. *Why:* Glass is brittle. A small crack is its weak point. When the sheet bends, the crack grows along the scratch and the glass splits there. A strong answer links this to the idea that a crack grows and breaks a brittle material.
+7. (fill) A material made by joining two or more materials, so that each one covers another's weak point, is called a ____.  
+   **Answer:** ['composite']. *Why:* Mud with straw, bone, plywood and concrete with steel rods inside are all composites.
+8. (write) In the Lotus Leaf activity, water also rolled off the paper you rubbed with candle wax. What does this tell you about where the leaf's waterproof power comes from?  
+   **Answer:** A strong answer says it comes from the waxy surface, not from the leaf being green or alive. Wax on paper did the same job. So the property belongs to the outside layer.. *Why:* Changing one thing, the surface, gave the same result on a different material. That is good evidence.
+9. (write) In the story, the glass window let the warmth out at night. The village used woollen curtains. Suggest a different fix, and say which property it uses.  
+   **Answer:** Any fix that slows heat. For example: wooden shutters, because wood is an insulator. Or a second pane of glass with still air between the two, because still air is an insulator. Or straw mats, because they trap air.. *Why:* A strong answer names a new material and the property that slows heat leaving.
+10. (mcq) In 2023, some scientists said they had made LK-99, a wonder material that carries electricity with no loss at room temperature. What should other scientists do first?  
+   Options: Try to make it themselves and test it / Believe it, because scientists said so / Start selling it in phones / Ignore it  
+   **Answer:** Try to make it themselves and test it. *Why:* Scientists around the world tried. Their LK-99 did not work as claimed. A result counts only when others can repeat it. Picking 'believe it' trusts who said it instead of what a test shows.
+11. (write) Mansukhbhai Prajapati, a potter in Gujarat, made a clay fridge called the Mitticool. It needs no electricity. Would it work better in dry Ahmedabad in May, or in damp Kochi in the monsoon? Explain.  
+   **Answer:** A strong answer says dry Ahmedabad. The Mitticool cools by evaporation. Water evaporates fast into dry air and slowly into damp air. So it cools more in dry weather.. *Why:* This applies the clay pot idea to a real invention and a real place.
+12. (draw) Draw two zoom-ins side by side, as if you had a super microscope. One shows the atoms in a steel spoon. The other shows the atoms in a wooden spoon. Show why heat moves faster through steel.  
+   **Answer:** The steel side shows neat rows of atoms, with tiny dots, the free electrons, moving between them, and long arrows for heat. The wooden side shows atoms with no free dots, and short arrows for heat creeping slowly.. *Why:* A strong drawing shows the free electrons in the metal, because they carry energy along quickly.
+13. (mcq) An engineer is choosing a material for a new bridge over the Kaveri river. Which pair of properties matters most?  
+   Options: Strong, and lasts for years in rain and river water / Shiny, and light / Transparent, and soft / Absorbent, and colourful  
+   **Answer:** Strong, and lasts for years in rain and river water. *Why:* A bridge must hold up heavy loads for many years, out in the weather. So it needs strength and durability. Then the engineer weighs cost and weight. A strong answer starts from the job.
+14. (match) Each of these is a composite. Match each one to the two materials it joins.  
+   **Answer:** a mud brick → mud and straw; reinforced concrete → concrete and steel rods; plywood → thin sheets of wood glued crosswise; the first raincoat cloth, made by Charles Macintosh → rubber between two layers of cloth. *Why:* In each composite, one material covers another's weak point. Concrete cracks when stretched, and steel rods hold it. Rubber is sticky, and cloth makes it comfortable.
+15. (truefalse) Wood is an insulator, so a wooden spoon left in a pot of hot sambar for an hour will never get warm at all.  
+   **Answer:** False. *Why:* False. An insulator slows heat down. It does not stop it completely. After a long time, the wooden spoon will get warm too. A strong answer says insulators are slow, not perfect.
+16. (write) Plan a test to find which of three cloths is best for a school uniform on a hot, sticky day in Chennai. Say what you will change, what you will keep the same, and what you will measure.  
+   **Answer:** For example: I will change only the cloth: cotton, polyester and a mix. I will keep the same size of each piece, the same amount of water and the same place to dry. I will drip 10 drops of water on each and time how fast it soaks in. Then I will hang them and time how long each takes to dry.. *Why:* A strong plan links the job, soaking up sweat and drying fast, to what is measured, and keeps everything else the same.
 
 ## Videos
 - **Mark Miodownik: Stuff Matters, the materials of everyday life** (The Royal Society, 15 min) id `zCzLDln5VGM`: For the parent: a materials scientist shows why everyday materials, like steel, glass and plastic, have the properties they have, and how we choose them. *Check:* Found by YouTube search: "Stuff Matters by Mark Miodownik" by The Royal Society. Title checked automatically; a parent may still preview it.
@@ -719,9 +708,9 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 1. (mcq) Why do we choose a particular material for a job?  
    Options: Because its properties suit the job / Because it is the newest material / Because it is the most colourful / Because it is always the cheapest  
    **Answer:** Because its properties suit the job. *Why:* We look at what the job needs, then find a material with those properties. Picking 'cheapest' is a real thing people think about. But a cheap material that cannot do the job is no use.
-2. (mcq) Which material is best for a bath towel?  
-   Options: Cotton, because it is absorbent / Plastic, because it is waterproof / Glass, because it is smooth / Steel, because it is strong  
-   **Answer:** Cotton, because it is absorbent. *Why:* A towel must soak up water, so it needs an absorbent material. Picking plastic means waterproof was taken to mean 'good with water'. A plastic towel would just push the water around.
+2. (mcq) Selvi spills a glass of water on the floor. She has a plastic sheet and an old cotton towel. Which will clean it up, and why?  
+   Options: The cotton towel, because cotton is absorbent / The plastic sheet, because plastic is waterproof / Both work equally well / Neither, because water cannot be picked up  
+   **Answer:** The cotton towel, because cotton is absorbent. *Why:* Cotton soaks up the water. Plastic is waterproof, so it only pushes the water around. Picking plastic means thinking 'waterproof' means 'good with water'. For this job it is the wrong property.
 3. (mcq) A kadai is metal, but its handle is wood. Why?  
    Options: Metal carries heat to the food. Wood does not carry heat to your hand. / Wood is stronger than metal / Metal is cheaper than wood / Wood looks nicer  
    **Answer:** Metal carries heat to the food. Wood does not carry heat to your hand.. *Why:* Metal is a conductor of heat, which is right for cooking. Wood is an insulator, which is right for holding. Picking 'wood is stronger' misses the job. The handle is about staying cool, not strength.
@@ -734,18 +723,18 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 6. (mcq) Does a woollen sweater make heat?  
    Options: No. It traps air, which keeps your own heat in. / Yes, wool is always warm. / Yes, but only in winter. / No, it makes cold.  
    **Answer:** No. It traps air, which keeps your own heat in.. *Why:* Wool traps still air, an insulator, which slows your body's heat from escaping. Picking 'wool is always warm' is very common. But an ice cube in a woollen sock melts more slowly, which shows wool makes no heat.
-7. (mcq) Why does a clay pot keep water cool?  
-   Options: Water seeps through it and evaporates, taking heat away / Clay is always cold / The water is heavier in clay / Clay keeps the sunlight in  
-   **Answer:** Water seeps through it and evaporates, taking heat away. *Why:* Clay is porous, so water reaches the outside and evaporates. Evaporation takes heat away. Picking 'clay is always cold' means thinking a material has its own coldness. A dry clay pot does not cool water.
+7. (mcq) In the Matka Mystery, the water in the clay pot ended up cooler than the water in the plastic bottle. What made the difference?  
+   Options: Water seeped through the clay and evaporated, taking heat away / Clay is always cold / The water is heavier in clay / Clay keeps the sunlight in  
+   **Answer:** Water seeped through the clay and evaporated, taking heat away. *Why:* Clay is porous, so water reaches the outside and evaporates. Evaporation takes heat away. Picking 'clay is always cold' means thinking a material has its own coldness. A dry clay pot does not cool water.
 8. (mcq) Why is an umbrella made of several materials?  
    Options: Each material does a different job / To make it heavier / Because one material ran out at the factory / To make it more colourful  
    **Answer:** Each material does a different job. *Why:* Waterproof cloth keeps off rain, springy steel ribs hold it open, and a handle is comfortable to grip. Picking 'one ran out' means thinking the mix is an accident. Designers mix materials on purpose.
 9. (mcq) Bone is made of a bendy material and a hard mineral. Why is this a good design?  
    Options: Together they make bone hard and tough, not brittle and not floppy / It makes bone heavier / It makes bone see-through / It makes bone soft like jelly  
    **Answer:** Together they make bone hard and tough, not brittle and not floppy. *Why:* The mineral alone would snap like chalk. The bendy collagen alone would flop. Joined, they make a strong composite. Picking 'heavier' misses the point. The mix is about toughness.
-10. (mcq) Which is a silly choice of material?  
-   Options: A paper umbrella / A rubber chappal / A glass window / A cotton towel  
-   **Answer:** A paper umbrella. *Why:* Paper is absorbent and weak when wet, so a paper umbrella would go soggy and tear. Picking 'glass window' might mean worrying that glass breaks. But for a window, being transparent matters most, and glass does that well.
+10. (mcq) Divya says, 'Steel is the strongest material in our house, so it is the best material for every job.' Which job shows she is wrong?  
+   Options: A window, because steel does not let light through / A bridge / A spoon / A pressure cooker  
+   **Answer:** A window, because steel does not let light through. *Why:* Steel is strong, but it is not transparent. A window's job is to let light in, and glass does that. Picking 'a bridge' or 'a spoon' gives a job steel does well. The best material depends on the job.
 11. (mcq) Spectacles for a small child are often plastic, not glass. Why?  
    Options: Plastic is lighter and does not shatter if dropped / Plastic is always clearer than glass / Glass is too cheap / Plastic is magnetic  
    **Answer:** Plastic is lighter and does not shatter if dropped. *Why:* This is a trade-off. Glass is clear but brittle. Plastic is clear enough, lighter and safer. Picking 'clearer' is a common guess, but good glass is just as clear.
@@ -764,9 +753,9 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 16. (mcq) Where were the iron atoms in your steel spoon first made?  
    Options: Inside stars, long ago / In a factory in India / In the sea / In a volcano last year  
    **Answer:** Inside stars, long ago. *Why:* Iron atoms were made in stars and in exploding stars, and the explosions scattered them into space. The Earth formed later from that dust. Picking 'factory' is fair, since the spoon was made there. But the factory only shaped iron that was already here.
-17. (mcq) Scientists copied a lotus leaf to make self-cleaning paint. What is copying nature called?  
-   Options: Biomimicry / Evaporation / Recycling / Conducting  
-   **Answer:** Biomimicry. *Why:* Biomimicry means copying the clever designs of living things. Picking 'evaporation' mixes it with another word from this unit, which means a liquid turning into a gas.
+17. (mcq) Scientists copied a lotus leaf to make paint that washes itself clean in the rain. What did they copy?  
+   Options: The tiny waxy bumps that make water bead up and roll away / The leaf's green colour / The leaf's smell / The way the leaf grows towards the light  
+   **Answer:** The tiny waxy bumps that make water bead up and roll away. *Why:* The lotus leaf's surface has tiny waxy bumps. Water cannot spread on them, so it rolls off and carries dirt with it. Copying a living being's design like this is called biomimicry. Picking 'green colour' copies how the leaf looks, not how it works.
 
 ## Applications
 - Cooking pots, tawas and pressure cookers are metal, because metal carries heat to the food.

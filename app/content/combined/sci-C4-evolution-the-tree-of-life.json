@@ -1,0 +1,1348 @@
+{
+ "key": "combined|sci|4|evolution-the-tree-of-life",
+ "board": "combined",
+ "subj": "sci",
+ "level": 4,
+ "n": "evolution-the-tree-of-life",
+ "title": "Evolution: how one family of life branched into millions of kinds",
+ "source": "DeepKids Combined, a DeepKids-only topic that no board teaches in Class 4. Class 4: variation and copy changes in DNA, natural selection, selective breeding by farmers, how new species form, the branching tree of life, fossils, same bones in different animals, DNA comparisons, the big steps of life's history, partnerships between living things, extinction and evolution happening today. No textbook needed.",
+ "summary": "A crow, a mushroom, a mango tree and you are all relatives on one branching tree of life. Your child builds a tree from shared features, plays a copying game with DNA letters in which small changes pile up and split one line into three, and sprouts moong seeds to see that no two are the same. They measure grains of the rice in your kitchen to see what farmers chose, dig down a pile of old newspapers to learn how rock layers tell time, walk 3.5 billion years down a corridor, and feel the same bones in their arm that a bat has in a wing. They meet a new species of finch that formed in three generations, two birds of the Western Ghats split by a gap in the hills, an Indian fossil that shows whales once walked on land, and real arguments about what ended the dinosaurs and which animals came first.",
+ "subconcepts": [
+  "evolution: living things change slowly over many generations",
+  "variation: no two living things of one kind are exactly alike",
+  "inheritance: features pass from parents to young in DNA",
+  "mutations: copies of DNA are never perfect, most changes do nothing, and changes add up",
+  "natural selection: those that fit their surroundings leave more young",
+  "'fittest' means best fitted to the surroundings, not strongest",
+  "selective breeding: farmers and breeders choose which ones have young (rice, cattle, dogs, sugarcane)",
+  "new species form when groups are kept apart (the sholakili birds of the Western Ghats, the Big Bird finches)",
+  "common ancestry: every living thing is related, and the tree of life branches, it is not a ladder",
+  "fossils and rock layers: lower layers are older, and most living things never become fossils",
+  "evidence from bodies: the same bones doing different jobs (homologous bones)",
+  "evidence from DNA: fewer differences mean a more recent shared ancestor",
+  "the big steps in deep time: cells with a nucleus, many-celled life, animals, life on land, four legs, dinosaurs and birds, mammals, humans",
+  "partnerships in evolution: mitochondria were once free-living bacteria, and a lichen is a fungus and an alga living as one",
+  "extinction and evolution today: the end of the dinosaurs, and germs that resist antibiotics"
+ ],
+ "builds_on": "Class 2 'Evolution: how living things change' showed variation, the beak test, paper moths, the copying fish, the cabbage family, the tree of life, fossil prints and the day clock of life. Class 3 'How life began on Earth' showed deep time and that every living thing shares one ancestor. This Class 4 rung goes further: building a tree from shared features, DNA changes that count time, how new species form, what farmers chose in rice, how rock layers tell order, homologous bones, an Indian whale fossil, and live debates about extinction and the first animals. Class 4 'Where humans came from' follows our own branch. In Class 5, 'How life began' goes deeper into partnerships inside cells and the genetic code that almost all life shares.",
+ "goals": [
+  "By the end your child can explain natural selection in three steps: living things vary, the young inherit features, and those that fit their surroundings leave more young.",
+  "By the end your child can explain how farmers changed rice by choosing which plants gave seed, and how this is like and unlike natural selection.",
+  "By the end your child can say why the tree of life is a branching tree and not a ladder, and why every living line is equally old.",
+  "By the end your child can give three kinds of evidence for evolution: fossils, the same bones in different animals, and DNA.",
+  "By the end your child can put six big steps of life's history in order and say roughly when they happened.",
+  "By the end your child can explain how a new species forms, and give one example of evolution happening today."
+ ],
+ "words": [
+  [
+   "evolution",
+   "the slow change in living things over many generations. Each generation is a little different from the one before."
+  ],
+  [
+   "generation",
+   "one step in a family line. You are one generation, your mother is the one before, and her mother the one before that."
+  ],
+  [
+   "variation",
+   "the differences between living things of the same kind. No two moong seedlings, mangoes or children are exactly alike."
+  ],
+  [
+   "mutation",
+   "a small change in DNA that happens when it is copied. Most do nothing, some cause harm and a few help."
+  ],
+  [
+   "natural selection",
+   "living things whose features suit their surroundings survive and have more young, so those features become more common over generations"
+  ],
+  [
+   "selective breeding",
+   "people choosing which plants or animals have young, so the features people like become more common. Farmers have done this for thousands of years."
+  ],
+  [
+   "species",
+   "one kind of living thing. Members of a species can have young together. House crows are one species. When two groups can no longer have young together, they have become two species."
+  ],
+  [
+   "ancestor",
+   "a living thing from long ago that later living things came from. Your great-grandmother is one of your ancestors."
+  ],
+  [
+   "fossil",
+   "the remains or print of a living thing from long ago, kept in rock: a bone, a shell, a leaf print, a footprint"
+  ],
+  [
+   "homologous bones",
+   "the same set of bones found in different animals, because they came from a shared ancestor, even when they do different jobs"
+  ],
+  [
+   "extinct",
+   "when every member of a species has died, so that kind of living thing is gone for ever"
+  ],
+  [
+   "mitochondria",
+   "tiny parts inside your cells that release energy from food. They were once free-living bacteria."
+  ]
+ ],
+ "day_mins": 45,
+ "days": [
+  {
+   "n": 1,
+   "title": "A crow, a mushroom and you are family",
+   "goal": "Recall what earlier classes found, then see that all living things are relatives on one branching tree.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "What do we already know?",
+     "mins": 8,
+     "do": "Ask these one at a time and wait for each answer. 'In Class 2 you lined up groundnuts. Were any two the same?' (No. Every one was a little different.) 'In the beak test, which beak ate when the small seeds ran out?' (The one that could pick up the big seeds.) 'What is evolution?' (Living things changing slowly over many generations.) 'Is the tree of life a ladder?' (No. It branches, and every branch alive today is still growing.) 'How old is life on Earth?' (At least 3.5 billion years.) If your child did not do the Class 2 lesson, explain each answer in one sentence. Then write at the top of a big sheet: 'How do scientists know who is related to whom?' Write down every idea your child gives, without correcting any. Keep the sheet for Day 8."
+    },
+    {
+     "kind": "act",
+     "title": "Build a tree from shared features",
+     "mins": 17,
+     "ref": "a1",
+     "do": "Do Activity a1. Before you start, ask: 'Who do you think is a closer cousin of a crow: a crocodile or a cow?' Wait for a guess and a reason. When the tree is built, say: 'Scientists build trees in just this way. Beings who share more features came from a more recent shared ancestor. You and a cow share hair and milk, so your shared ancestor is recent. You and a mushroom share only cells with a nucleus, so your shared ancestor lived over a billion years ago.' Ask: 'Was your guess about the crow right?' (The crow is closer to the crocodile. Both lay eggs with hard shells, both have a gizzard, and both guard their nests.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Reading a tree",
+     "mins": 7,
+     "do": "Point to two tips on the tree from a1 and run your finger down to where their branches join. Say: 'This joining point is their last shared ancestor. To see who is closer, do not look at how alike two beings look. Look at how recently their branches joined.' Ask: 'Which joined more recently: crow and crocodile, or crow and frog?' (Crow and crocodile.) Then tape a big sheet to a wall for the project and draw a trunk at the bottom labelled 'the first cells'. Copy the tree from a1 onto it."
+    },
+    {
+     "kind": "game",
+     "title": "Who is closer? (first round)",
+     "mins": 13,
+     "ref": "g1",
+     "do": "Play the card game g1 with the first 12 cards only. Read the rules aloud first. Before each answer, ask your child why they chose. After each card, read the reason on the back. Expect surprises: most children say a whale is closer to a shark, and are amazed to hear the hippo. Say: 'Looks can fool you. A whale and a shark both have a body shaped for fast swimming, but the whale breathes air and feeds her baby milk, like a hippo.' Keep the other 12 cards for Day 7."
+    }
+   ],
+   "need": [
+    "a big sheet of paper and a pencil",
+    "the 8 picture cards for a1 (drawn, printed or on a phone)",
+    "2 more big sheets (or newspaper) taped together for the wall tree",
+    "tape and coloured pencils",
+    "the printed cards for game g1"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Copies are never perfect",
+   "goal": "See how tiny copy changes pile up over generations and split one line into separate branches.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "One question from yesterday",
+     "mins": 4,
+     "do": "Ask: 'Is a bacterium alive today more primitive than you?' (No. Their line has been changing for as long as ours.) Then ask: 'How do you think one kind of living thing could slowly become two kinds?' Wait for a guess and a reason. Do not answer yet. Say: 'Today we play a game that shows one way.'"
+    },
+    {
+     "kind": "exp",
+     "title": "Copy, change, branch",
+     "mins": 24,
+     "ref": "e1",
+     "do": "Do Experiment e1. Say first: 'In Class 2 you copied a drawing of a fish again and again until it changed. Today we copy DNA letters, and we split the line into branches.' Before you roll the dice, ask: 'At the end, which two lines will be most alike? Why?' Write the guess down. When the counting is done, say: 'Each copy had at most one small change. But over many copies the changes added up. Lines that split apart long ago had more time to change, so they are more different. Scientists do exactly this with real DNA, with millions of letters, to find out who is related to whom and roughly when they split.' If the result came out the other way, say: 'Chance can do that with only 12 letters. That is why scientists compare millions of letters, not 12.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Voice v1: changes that do nothing",
+     "mins": 10,
+     "ref": "v1",
+     "do": "Say: 'Every cell carries instructions called DNA, written in four chemical letters: A, C, G and T. Each time a cell copies their DNA, they make almost no mistakes, but almost no is not zero. A small change is called a mutation.' Ask: 'What do you think most mutations do: help, harm or nothing?' Wait for a guess and a reason. Read voice v1 aloud. Then say: 'So most changes do nothing at all. Some cause harm. A very few help. Changes that do nothing still pile up, steadily, like the letters in our game. That is why counting differences works like a clock.' Ask the voice's question."
+    },
+    {
+     "kind": "exp",
+     "title": "Set out 20 moong seeds",
+     "mins": 7,
+     "ref": "e3",
+     "do": "Start Experiment e3 with the moong you soaked last night. Ask: 'All 20 seeds come from one packet and get the same water. Will they all grow the same?' Wait for a guess and a reason. Write it on the wall tree sheet, in a corner. Set the seeds on the wet cloth as the steps say. You will measure them on Day 4."
+    }
+   ],
+   "need": [
+    "2 dice",
+    "pencil and paper with 3 columns",
+    "20 moong seeds, soaked overnight",
+    "a steel plate and a clean cotton cloth or 3 layers of tissue",
+    "a ruler"
+   ],
+   "prep": [
+    {
+     "task": "Soak 20 whole green moong seeds in a cup of water",
+     "when": "night before"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Who leaves more young? Natural selection",
+   "goal": "Understand natural selection through the story, and see how one species becomes two.",
+   "steps": [
+    {
+     "kind": "warmup",
+     "title": "Moong check",
+     "mins": 3,
+     "ref": "e3",
+     "do": "Look at the moong seeds from Experiment e3 together. Ask: 'Are they all the same?' (Some have split their skin, some have a short white root, some have not changed.) Sprinkle a little water if the cloth is drying."
+    },
+    {
+     "kind": "read",
+     "title": "Story: Forty Pots of Rice",
+     "mins": 12,
+     "do": "Read the story 'Forty Pots of Rice' aloud. It is told by a kudhir, a grain store made of mud. Do not explain anything before you read. Afterwards ask the story questions one by one and wait for full answers. The most important one: 'Why did some of the red rice live when all of Murugan's rice died?' (Chellamma's rice plants were all a little different. A few could stand the salt water. Murugan's plants were all the same, so they all had the same weakness.)"
+    },
+    {
+     "kind": "talk",
+     "title": "A new kind of finch in three generations",
+     "mins": 10,
+     "do": "Say: 'In Class 2 you heard about Rosemary and Peter Grant, who measured finch beaks on Daphne Major, a tiny island in the Galapagos, every year from 1973. In 1981 they saw a stranger: a big male finch of another species, who had flown from an island about 100 kilometres away. He paired with a female of the island's own medium ground finches. Their young had big beaks and sang his unusual song.' Ask: 'Who do you think their grandchildren chose as mates?' Wait for a guess. Say: 'After a few generations, the family mated only with each other, because the other finches did not answer their song. The Grants called them the Big Bird family. A study of their DNA, published in 2017, showed they had begun to act as a new species in just three generations.' Ask: 'What kept this family apart from the other finches?' (Their song and their size. No wall or sea was needed.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Two birds split by a gap in the hills",
+     "mins": 12,
+     "do": "Say: 'The Western Ghats are a long line of hills in South India. Near Palakkad in Kerala there is a low gap in them, about 40 kilometres wide, called the Palghat Gap. Small dark birds called shortwings live in the cool shola forests high on the hills on both sides. They do not fly across the hot, low gap.' Ask: 'What do you think happens to two groups of one bird kept apart for a very long time?' Wait for a guess and a reason. Say: 'Each group gets its own mutations, and its own surroundings shape it. In 2017 scientists including V. V. Robin, an Indian bird scientist, compared their DNA, songs and feathers. The two groups had been apart so long that they are now two species. They named them the Nilgiri sholakili, north of the gap, and the white-bellied sholakili, south of it.' Draw a line with a gap on paper and two birds, one on each side. Ask: 'How is this like the copying game?' (The two groups are like two lines that were copied separately. Their differences piled up.)"
+    },
+    {
+     "kind": "think",
+     "title": "Survival of the strongest?",
+     "mins": 8,
+     "do": "Ask: 'People say evolution is the survival of the fittest. What do you think fittest means?' Wait for the answer. Most children say strongest. Say: 'The words were first used by Herbert Spencer in 1864, and Darwin used them later. Fittest means best fitted to the surroundings, the way a key fits a lock. In the drought, a finch with a deep beak was the best fit. In the salty field, the rice that could stand salt was the best fit. Sometimes the best fit is the smallest, the slowest, or the one that cooperates with others.' Ask: 'Can you think of an animal that survives by working with others, not by being strong?' (Ants, bees, elephants in a herd, crows in a group chasing away a kite.)"
+    }
+   ],
+   "need": [
+    "the story 'Forty Pots of Rice'",
+    "the wall tree sheet and a marker",
+    "the moong plate from Day 2"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Farmers choose too: selective breeding",
+   "goal": "Measure variation in the moong seeds, and see how people bred many vegetables from one wild plant.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "Measure the moong",
+     "mins": 10,
+     "ref": "e3",
+     "do": "Finish Experiment e3. Measure each sprout with a ruler and make the bar chart as the steps say. Ask: 'Were they all the same?' (No. Some sprouts were long, some short, some seeds did not sprout.) Ask: 'Imagine a hot dry week came and only seeds with long roots could reach water. Which would survive? What would their young be like?' (The long-rooted ones. If root length is partly inherited, more of the next generation would have long roots.)"
+    },
+    {
+     "kind": "act",
+     "title": "Rice detectives",
+     "mins": 15,
+     "ref": "a2",
+     "do": "Say: 'In Class 2 you found that cabbage, cauliflower and knol-khol were bred from one wild plant. Today we look at a plant you eat every day.' Do Activity a2. Before you measure, ask: 'Which rice do you think has the longest grains? Why would farmers want long grains, or short ones?' Wait for a guess and a reason. Afterwards say: 'Wild rice still grows in ponds and marshes in India. Wild plants drop their grains as soon as they are ripe, so the grains scatter on the water. Farmers could only gather grains from the odd plants that held on to theirs. They sowed those grains. So, over many generations, farmed rice came to hold its grains until harvest.' Ask: 'How is this like the story of Chellamma's red rice? How is it different?' (Like: the plants varied and the young inherited features. Different: in the story the sea did the choosing, and here the farmers did.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Dogs, rice and sugarcane",
+     "mins": 8,
+     "do": "Say: 'Every dog, from a tiny Pomeranian to a tall Rajapalayam from Tamil Nadu, is one species, bred from wolves over thousands of years. Farmers bred Ongole cattle in Andhra Pradesh, Kangayam cattle in Tamil Nadu and Gir cattle in Gujarat, each suited to their own land. And in Coimbatore in the 1930s, Janaki Ammal, a scientist from Thalassery in Kerala, crossed sugarcane with other grasses to breed sugarcane that grew well in India.' Ask: 'The farmers who bred our rice and cattle did not get their names in books. Who do you think owns a rice that thousands of farmers bred over thousands of years?' Listen. Then say: 'Many farmers still save seeds and swap them, as Chellamma did in the story.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Core worksheet",
+     "mins": 12,
+     "ref": "ws1",
+     "do": "Your child does the core worksheet ws1 alone. Read any question aloud if asked. Then go through it together. For the two written answers, ask your child to read theirs aloud and check: did they say that the differences were there first, and that the surroundings decided who left young?"
+    }
+   ],
+   "need": [
+    "the moong plate from Day 2",
+    "a ruler",
+    "squared paper or a notebook",
+    "2 to 4 kinds of raw rice from your kitchen or a neighbour (for example sona masoori, ponni, idli rice, basmati, red matta rice)",
+    "a dark cloth or dark paper",
+    "the core worksheet ws1"
+   ],
+   "prep": [
+    {
+     "task": "Collect 2 to 4 kinds of raw rice, a spoonful of each, from your kitchen or a neighbour",
+     "when": "2 days before"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Reading the rocks",
+   "goal": "Make fossils, walk through deep time, and hear how a fossil was found by prediction.",
+   "steps": [
+    {
+     "kind": "exp",
+     "title": "The raddi pile",
+     "mins": 15,
+     "ref": "e2",
+     "do": "Do Experiment e2. Before you lift any paper, ask: 'Which newspaper will be at the very bottom: the oldest or the newest? Why?' Write down the guess. At the end, say: 'Mud and sand settle in layers, like newspapers on a pile. Unless something has turned them over, the lowest layers are the oldest. That is how scientists know which fossils are older, even before they measure exact ages.'"
+    },
+    {
+     "kind": "act",
+     "title": "The timeline walk",
+     "mins": 15,
+     "ref": "a4",
+     "do": "Do Activity a4 in a corridor, the stairs of your building or along the walls of your flat. At each card, read it aloud and ask one question: at 'animals', ask 'What was on land then?' (No plants or animals, only microbes and maybe thin crusts of green.) At 'dinosaurs end', ask 'Did all dinosaurs die out?' (No. Birds are the dinosaurs that survived.) At 'humans', hold up one grain of rice and say: 'All of human history fits in a step the thickness of this grain.' Ask: 'What does this walk tell you about how long humans have been here?' (A very short time. Most of life's story happened without us.)"
+    },
+    {
+     "kind": "talk",
+     "title": "The fish with a neck",
+     "mins": 10,
+     "do": "Say: 'Fish fossils are found in rocks older than about 385 million years. Fossils of four-legged animals are found in rocks younger than about 365 million years. In the 1990s three scientists, Neil Shubin, Ted Daeschler and Farish Jenkins, made a prediction. If four-legged animals came from fish, there should be an in-between animal in rocks about 375 million years old, made in shallow streams.' Ask: 'How would you find rocks of the right age?' Wait. Say: 'They used a geology map and found rocks of that age in the far north of Canada, in the Arctic. They searched for several summers. In 2004 they found Tiktaalik, a fish with a flat head, a neck, lungs as well as gills, and fins with wrist-like bones inside.' Ask: 'Why does a correct prediction make scientists trust an idea more?' (Because the idea said where to look and what would be there, before anyone had seen it.) Draw Tiktaalik on the wall tree, where fish meet four-legged animals."
+    },
+    {
+     "kind": "review",
+     "title": "Add to the wall tree",
+     "mins": 5,
+     "do": "Your child adds three branches to the wall tree: 'plants on land', 'fish', and 'four legs on land', with the dates from the timeline walk. Ask: 'Which branch is the oldest of the three?' (Fish.)"
+    }
+   ],
+   "need": [
+    "a pile of old newspapers (raddi) that has not been sorted, or 10 sheets you number yourself",
+    "6 small picture cards: fish, Tiktaalik, frog, dinosaur, bird, mammal",
+    "8 cards for the timeline walk, written beforehand",
+    "a measuring tape or ruler",
+    "one grain of rice",
+    "the wall tree and a marker"
+   ],
+   "prep": [
+    {
+     "task": "Write the 8 cards for the timeline walk (Activity a4) and draw the 6 picture cards for Experiment e2",
+     "when": "morning"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Same bones, different jobs",
+   "goal": "Find the evidence for evolution in our own bones and in an Indian fossil.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Why fossils are rare",
+     "mins": 6,
+     "do": "Ask: 'In Class 2 you pressed things into dough to make fossil prints. Which left clear prints?' (Hard things, like a shell or a key, and leaves with veins.) If your child did not do it, ask: 'Would a jellyfish or a snail shell be more likely to last a million years in mud?' Wait for a reason. Say: 'A fossil forms when a living thing is buried quickly in mud or sand and the shape is kept as the mud turns to rock. Most living things are soft, and they rot or get eaten before they are buried. So most never become fossils. That is why the fossil record has gaps, and why each fossil we find is a lucky one.'"
+    },
+    {
+     "kind": "act",
+     "title": "Same bones, different jobs",
+     "mins": 15,
+     "ref": "a3",
+     "do": "Do Activity a3. When the drawings are coloured, ask: 'A bat flies, a whale swims, you hold a pencil. Why would such different jobs use the same set of bones?' Wait for a guess and a reason. Say: 'These are called homologous bones. Homologous means the same because of a shared ancestor. A four-legged animal who lived over 300 million years ago had one upper arm bone, two lower arm bones, wrist bones and finger bones. Her great-great-grandchildren changed the shapes, but kept the plan.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Voice v2: the whale who walked, from Kashmir",
+     "mins": 10,
+     "ref": "v2",
+     "do": "Say: 'Whales breathe air and feed their babies milk, so they are mammals. But all other mammals came from land animals. So where did whales come from?' Wait for a guess. Read voice v2 aloud. Ask: 'Indohyus was the size of a raccoon and had four thin legs, like a little deer. What does the ear tell us?' (That whales are related to small land animals like Indohyus, and that whales came from land mammals.) Then ask the voice's question."
+    },
+    {
+     "kind": "ws",
+     "title": "Stretch worksheet",
+     "mins": 14,
+     "ref": "ws2",
+     "do": "Your child does the stretch worksheet ws2. Help with reading if needed, but not with answers. For the 'pick a side' question, ask your child to argue for one side out loud first, then answer back as one of the other speakers."
+    }
+   ],
+   "need": [
+    "a phone or book with pictures of a bat's wing bones, a whale's flipper bones and a bird's wing bones",
+    "paper and 5 coloured pencils",
+    "the stretch worksheet ws2"
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Partners and endings",
+   "goal": "Meet evolution by partnership, the big extinction, and an open question about the first animals.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Partners: the lichen on the wall",
+     "mins": 9,
+     "do": "Ask: 'In Class 2 you heard that the mitochondria in your cells were once bacteria. Who found that out?' (Lynn Margulis.) Say: 'Mitochondria still have their own small loop of DNA, like bacteria do. Here is another partnership. A lichen is a fungus and an alga living as one being. The fungus gives shelter and holds water. The alga makes food from sunlight.' If you can, look for lichen together: grey-green or orange crusts on old walls, rocks or tree bark. Ask: 'Lichens grow badly where the air is dirty. What could lichens tell us about the air of a city?' Then ask: 'Is evolution only about competing?' (No. Partnerships made our own cells, and lichens, and the fungi that help plant roots.)"
+    },
+    {
+     "kind": "act",
+     "title": "Draw the shared ancestor",
+     "mins": 10,
+     "ref": "a5",
+     "do": "Do Activity a5. When the drawing is done, ask: 'Why can we not know exactly what she looked like?' (Few fossils are found, and soft parts like skin colour are rarely kept. We can only work out the features both living cousins share.)"
+    },
+    {
+     "kind": "talk",
+     "title": "Voice v3: what ended the dinosaurs?",
+     "mins": 12,
+     "ref": "v3",
+     "do": "Say: 'Almost all the species that ever lived are now extinct. Extinct means every one of them has died, so that kind is gone for ever. About 66 million years ago, about three in every four species died out, including all the big dinosaurs.' Read voice v3 aloud. Ask: 'What evidence would help you decide?' Then ask: 'After the big dinosaurs were gone, which animals got their chance?' (Mammals, which grew bigger and spread into many new kinds, and birds.) Say: 'Each extinction closes some branches, and the survivors branch out into the space left behind.'"
+    },
+    {
+     "kind": "talk",
+     "title": "Voice v4: sponge or comb jelly?",
+     "mins": 7,
+     "ref": "v4",
+     "do": "Read voice v4 aloud. Show pictures of a sponge and a comb jelly on a phone if you can. Say: 'A sponge has no nerves at all. Yet she senses the water, closes her pores, and keeps out cells that are not her own. She is aware of her world without a brain.' Ask the voice's question. Then ask: 'Does thinking need a brain? Scientists argue about what to call what a sponge does. What do you think?'"
+    },
+    {
+     "kind": "game",
+     "title": "Who is closer? (second round)",
+     "mins": 7,
+     "ref": "g1",
+     "do": "Play game g1 with the other 12 cards. After each card, your child adds the pair to the wall tree as two tips joined close together."
+    }
+   ],
+   "need": [
+    "a phone or book with pictures of a sponge, a comb jelly and lichen",
+    "paper and coloured pencils",
+    "the cards for game g1",
+    "the wall tree and a marker"
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Evolution is happening now, and teach it back",
+   "goal": "See evolution happening today, then show what your child has learned.",
+   "steps": [
+    {
+     "kind": "talk",
+     "title": "Germs that fight back",
+     "mins": 8,
+     "do": "Say: 'Antibiotics are medicines that kill bacteria. When a person takes an antibiotic, almost all the harmful bacteria die. But bacteria vary too. A few may carry a mutation that lets them survive.' Ask: 'What happens next?' Wait for an answer and a reason. (The survivors multiply. Bacteria can split every hour or less, so soon most of them resist the medicine.) Say: 'That is natural selection, happening right now, in hospitals. This is why antibiotics should be taken only when a doctor gives them, and exactly as the doctor says. Since 1988, Richard Lenski and his team in the United States have grown bacteria in flasks and frozen a sample every few hundred generations. After about 31,000 generations, one group had evolved a new way to use a food called citrate.'"
+    },
+    {
+     "kind": "ws",
+     "title": "Challenge worksheet",
+     "mins": 12,
+     "ref": "ws3",
+     "do": "Your child does the challenge worksheet ws3. These questions are hard. It is fine to talk them through together. Ask 'How do you know?' after each answer."
+    },
+    {
+     "kind": "check",
+     "title": "End questions",
+     "mins": 10,
+     "do": "Ask the end-of-lesson check questions aloud, one at a time. Let your child answer in full sentences. Compare with the answers given. For any they find hard, go back to the day it was taught and look at the wall tree together."
+    },
+    {
+     "kind": "review",
+     "title": "Teach it back with the wall tree",
+     "mins": 15,
+     "do": "Your child finishes the project and uses the wall tree to teach someone at home how one kind of cell became millions of kinds. They should explain three things: how small copy changes and natural selection make living things change, one piece of evidence, and one partnership. Then read out the ideas from the Day 1 sheet together. Ask: 'Which of your first ideas were right? Which would you change now?'"
+    }
+   ],
+   "need": [
+    "the challenge worksheet ws3",
+    "the wall tree",
+    "the Day 1 sheet of ideas"
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws1",
+   "tier": "core",
+   "title": "Change, copies and choosing",
+   "day": 4,
+   "sections": [
+    [
+     "A. The words",
+     [
+      {
+       "t": "mcq",
+       "p": "What does evolution mean?",
+       "opts": [
+        "living things slowly change over many generations",
+        "one animal changes their body during their own life",
+        "animals try hard to become humans"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "A small change in DNA that happens when it is copied is called a ____.",
+       "a": [
+        "mutation"
+       ]
+      },
+      {
+       "t": "match",
+       "p": "Match each word to what it means.",
+       "pairs": [
+        [
+         "variation",
+         "no two living things of a kind are exactly alike"
+        ],
+        [
+         "inheritance",
+         "young get features from their parents"
+        ],
+        [
+         "natural selection",
+         "those that fit their surroundings leave more young"
+        ],
+        [
+         "selective breeding",
+         "people choose which plants or animals have young"
+        ]
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Nature or people?",
+     [
+      {
+       "t": "sort",
+       "p": "Who did the choosing in each case: nature or people?",
+       "items": [
+        "rice that holds its grains until harvest",
+        "deeper beaks in finches after a drought",
+        "Rajapalayam hunting dogs",
+        "sweeter sugarcane from Coimbatore",
+        "thick fur on snow leopards",
+        "two kinds of sholakili on two sides of the Palghat Gap"
+       ],
+       "cats": [
+        "nature chose",
+        "people chose"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Diya, a girl in Class 4, sprouted 20 moong seeds on one wet cloth for two days. What did she most likely find?",
+       "opts": [
+        "the sprouts were all different lengths",
+        "all the sprouts were exactly the same length",
+        "no seed sprouted"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "In the copying game, which two lines had the fewest differences?",
+       "opts": [
+        "the two that split apart most recently",
+        "the two that split apart first",
+        "every pair had the same number"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Explain",
+     [
+      {
+       "t": "write",
+       "p": "In a drought on Daphne Major island, finches with deeper beaks lived more often than finches with shallow beaks. Why did the next year's finches have deeper beaks on average? Use the words 'inherit' and 'survive'.",
+       "lines": 4,
+       "a": "A strong answer says the beaks were already different before the drought, that deep-beaked finches could crack the hard seeds and so survived more often, and that their young inherited deep beaks."
+      },
+      {
+       "t": "write",
+       "p": "Anjali, a girl in Class 4, says: 'The finches grew bigger beaks because they needed them.' What is wrong with her idea?",
+       "lines": 3,
+       "a": "A strong answer says no finch could grow a deeper beak by needing it. The differences were there first, and the drought decided which finches lived and had young. Evolution has no plan."
+      },
+      {
+       "t": "write",
+       "p": "In the story, Murugan's rice plants were all the same and all died in the salt water. Chellamma's red rice plants were all a little different, and a few lived. Why did the differences matter?",
+       "lines": 3,
+       "a": "A strong answer says that when the field changed, plants that were all the same had the same weakness, but among plants that varied, a few happened to stand the salt. Without variation there is nothing for selection to keep."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws2",
+   "tier": "stretch",
+   "title": "Reading the evidence",
+   "day": 6,
+   "sections": [
+    [
+     "A. Fossils",
+     [
+      {
+       "t": "mcq",
+       "p": "Nobody has moved a pile of old newspapers for a month. Where is the oldest paper?",
+       "opts": [
+        "at the bottom",
+        "at the top",
+        "in the middle"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Why are fossils of jellyfish very rare?",
+       "opts": [
+        "jellyfish have no hard parts, so they usually rot before they are kept in rock",
+        "jellyfish did not live long ago",
+        "jellyfish live only in rivers"
+       ],
+       "a": 0
+      },
+      {
+       "t": "sort",
+       "p": "Sort these by how likely they are to become a fossil.",
+       "items": [
+        "a shark's tooth",
+        "a snail shell",
+        "a bone buried quickly in mud",
+        "an earthworm",
+        "a jasmine flower",
+        "a mushroom"
+       ],
+       "cats": [
+        "more likely",
+        "less likely"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "Neil Shubin's team looked for Tiktaalik in rocks about 375 million years old. Why those rocks?",
+       "opts": [
+        "fish fossils are in older rocks and four-legged animals in younger rocks, so an in-between animal should be in rocks in between",
+        "those rocks were the easiest to dig",
+        "an old map showed where the fossil was"
+       ],
+       "a": 0
+      },
+      {
+       "t": "fill",
+       "p": "In the timeline walk, one step stood for 100 million years. Animals appeared about 6 steps back. That is about ____ million years ago.",
+       "a": [
+        "600",
+        "600 million",
+        "six hundred"
+       ]
+      }
+     ]
+    ],
+    [
+     "B. Bones and DNA",
+     [
+      {
+       "t": "match",
+       "p": "Each of these has the same set of bones. Match each one to the job it does.",
+       "pairs": [
+        [
+         "a human arm",
+         "holding and lifting"
+        ],
+        [
+         "a bat's wing",
+         "flying"
+        ],
+        [
+         "a whale's flipper",
+         "steering in water"
+        ],
+        [
+         "a cat's front leg",
+         "walking and pouncing"
+        ]
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Bones that are the same in different animals because they came from a shared ancestor are called ____ bones.",
+       "a": [
+        "homologous"
+       ]
+      },
+      {
+       "t": "mcq",
+       "p": "The fossil Indohyus, from Kashmir, had a thick shell of bone around the ear, like a whale's. What does this tell us?",
+       "opts": [
+        "whales are related to small land animals like Indohyus",
+        "Indohyus was a kind of fish",
+        "whales came before all land animals"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "C. Think it through",
+     [
+      {
+       "t": "write",
+       "p": "Revathi, a girl in Class 5, says: 'If evolution really happened, we would find a fossil of every in-between animal.' Use what you know about how fossils form to answer her.",
+       "lines": 4,
+       "a": "A strong answer says most living things are soft and rot or are eaten before they are buried, so most never become fossils. Fossils are rare and lucky, so there will always be gaps. It may also say that some in-between animals, like Tiktaalik and Indohyus, have been found."
+      },
+      {
+       "t": "write",
+       "p": "Your arm, a bat's wing and a whale's flipper do very different jobs. Why do they have the same set of bones?",
+       "lines": 3,
+       "a": "A strong answer says all three animals came from one four-legged ancestor who had that set of bones. Over many generations the shapes changed for each job, but the plan stayed the same."
+      },
+      {
+       "t": "write",
+       "p": "Pick a side. Who is the most evolved? Meenakshi, a girl in Class 4: 'Humans are the most evolved. We build cities, write books and fly to space.' A bacterium in a bowl of curd: 'My family line is about 4 billion years old, exactly as old as yours. Bacteria live almost everywhere on Earth, even in boiling springs.' A house crow at the window: 'I am a dinosaur. My line survived the asteroid that ended the big dinosaurs. I can solve puzzles and remember faces.' Pick one speaker and argue for them with evidence from this lesson. Then answer back as one of the other two.",
+       "lines": 5,
+       "a": "A strong answer uses evidence, such as the tree drawing where every tip is equally old, or how long bacteria have survived. It also says what 'most evolved' would have to mean, and notices that each speaker picks the feature they are best at. Each speaker judges by their own strengths. Every living line has been evolving for the same length of time."
+      }
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ws3",
+   "tier": "challenge",
+   "title": "Thinking like an evolution scientist",
+   "day": 8,
+   "sections": [
+    [
+     "A. Evolution now and long ago",
+     [
+      {
+       "t": "mcq",
+       "p": "Doctors say antibiotics should be taken only when a doctor gives them. Why?",
+       "opts": [
+        "each use gives the few bacteria that can resist the medicine a chance to survive and multiply",
+        "antibiotics get weaker in the bottle",
+        "the body gets bored of them"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "In Richard Lenski's lab, bacteria have been grown since 1988. After about 31,000 generations, one group could use a food called citrate. What does this show?",
+       "opts": [
+        "new abilities can evolve, and we can watch it happen",
+        "bacteria never change",
+        "the scientists taught the bacteria"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Here are made-up pieces of DNA from three trees. Mango: ACGTTAGC. Cashew: ACGTTAGG. Neem: ACCTGAGG. Which two are the closest relatives?",
+       "opts": [
+        "mango and cashew (1 difference)",
+        "cashew and neem (2 differences)",
+        "mango and neem (3 differences)"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "p": "Which sentence about the tree of life is true?",
+       "opts": [
+        "every living line today has been evolving for the same length of time",
+        "bacteria stopped evolving long ago",
+        "humans are at the top of the tree"
+       ],
+       "a": 0
+      }
+     ]
+    ],
+    [
+     "B. Partners and endings",
+     [
+      {
+       "t": "match",
+       "p": "Match each one to what it is.",
+       "pairs": [
+        [
+         "mitochondria",
+         "parts of your cells that were once free-living bacteria"
+        ],
+        [
+         "a lichen",
+         "a fungus and an alga living as one"
+        ],
+        [
+         "the Deccan Traps",
+         "huge lava flows in western India about 66 million years ago"
+        ],
+        [
+         "Tiktaalik",
+         "a fish with a neck and wrist-like bones in the fins"
+        ]
+       ]
+      },
+      {
+       "t": "sort",
+       "p": "Is this kind of living thing extinct, or still alive today?",
+       "items": [
+        "Tiktaalik",
+        "Indohyus",
+        "comb jellies",
+        "sponges",
+        "Tyrannosaurus",
+        "house crows"
+       ],
+       "cats": [
+        "extinct",
+        "still alive today"
+       ]
+      },
+      {
+       "t": "fill",
+       "p": "Lynn Margulis showed that cells with a nucleus began as a ____ between different kinds of microbes.",
+       "a": [
+        "partnership",
+        "merger",
+        "union",
+        "joining"
+       ]
+      }
+     ]
+    ],
+    [
+     "C. Big thinking",
+     [
+      {
+       "t": "write",
+       "p": "Almost every species that ever lived is now extinct. Does that mean they failed? Give a reason.",
+       "lines": 4,
+       "a": "A strong answer says a species can live for millions of years, which is not failure, and that extinction is the normal end of species. Their descendants may live on as new branches, as birds did from dinosaurs."
+      },
+      {
+       "t": "write",
+       "p": "One kind of snail lives on both sides of a high mountain. The snails can never cross it. What do you think will happen to the two groups over a million years? Why?",
+       "lines": 4,
+       "a": "A strong answer says each group will gather its own mutations and be shaped by its own surroundings, so the two groups will slowly become different. After a very long time they may be two species that can no longer have young together."
+      },
+      {
+       "t": "write",
+       "p": "Pick a side. What ended the big dinosaurs 66 million years ago? Most scientists: 'A rock from space about 10 kilometres wide hit Mexico. Dust and smoke blocked the sunlight, and plants and animals died.' Gerta Keller, a geologist: 'The Deccan Traps in India poured out lava and gas for thousands of years. The climate was already changing badly before the rock hit.' Some other scientists: 'Both happened. The lava weakened life, and the rock from space finished the job.' Pick the view you find strongest and give your evidence. Then say what new evidence would change your mind.",
+       "lines": 5,
+       "a": "A strong answer uses real evidence: the crater in Mexico and the thin layer of rare metal found worldwide for the rock from space, and the timing of the lava flows for the Deccan view. It names a test, such as dating the lava layers very exactly. Most scientists think the rock from space was the main cause, but the role of the Deccan Traps is still argued about."
+      }
+     ]
+    ]
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Copy, change, branch",
+   "day": 2,
+   "question": "If small copying mistakes pile up, can one line of living things split into branches that become different?",
+   "need": [
+    "2 dice",
+    "a pencil",
+    "a sheet of paper with 3 columns, headed 'Line X', 'Line Y1' and 'Line Y2'"
+   ],
+   "steps": [
+    "Write the ancestor's DNA at the very top of the sheet: A C G T T A G C A T G C. These are 12 letters.",
+    "Copy the ancestor's row at the top of the X column and at the top of the Y1 column. From now on, the two lines are copied separately.",
+    "For each new copy, roll one die. On 1, 2, 3 or 4, copy the row exactly. On 5 or 6, there is a mutation: roll both dice, add them, and change the letter at that place (2 means the 2nd letter, 12 means the 12th). Your child chooses the new letter from the other three. The 1st letter never changes, as some parts of real DNA almost never change.",
+    "Make 4 copies down the X column and 4 copies down the Y1 column, one under the other. Each copy is made from the row just above it.",
+    "Now Line Y splits into two. Copy the last Y1 row into the Y2 column, so Y1 and Y2 start the same.",
+    "Make 4 more copies in each of the three columns: X, Y1 and Y2.",
+    "Take the last row of each column. Count the letters that differ between X and Y1, between X and Y2, and between Y1 and Y2. Write the three numbers down.",
+    "Draw a tree: the ancestor at the bottom, X branching off first, and Y1 and Y2 branching later."
+   ],
+   "predict": "Ask your child to guess first: 'At the end, which two lines will be most alike? Why do you think so?'",
+   "observe": "Usually Y1 and Y2 have the fewest differences, because they split apart most recently. X usually differs most from both. Each copy changed at most one letter, yet after many generations the lines are clearly different.",
+   "why": "Each time DNA is copied there is a small chance of a mutation. Changes in different lines are separate, so the longer two lines have been apart, the more differences pile up. Scientists compare real DNA, with millions of letters, in exactly this way to work out who is related to whom and roughly how long ago they split. With only 12 letters, chance can sometimes give an odd result, which is why real studies use far more.",
+   "safety": "",
+   "time": "25 min"
+  },
+  {
+   "id": "e2",
+   "title": "The raddi pile: which layer is oldest?",
+   "day": 5,
+   "question": "In a pile that builds up over time, where are the oldest layers, and how can that tell us which fossils are older?",
+   "need": [
+    "a pile of old newspapers that nobody has sorted (if you have none, take 10 sheets and write 'day 1' to 'day 10' on them as you stack them, day 1 first)",
+    "6 small picture cards: fish, Tiktaalik, frog, dinosaur, bird, mammal",
+    "paper and pencil"
+   ],
+   "steps": [
+    "Look at the pile without moving it. Ask your child where the oldest paper will be.",
+    "Lift the papers off one at a time, from the top. Lay them in a row on the floor in the order they come off, and read the date on each.",
+    "Write down whether the dates get older or newer as you go down.",
+    "Now restack the papers in date order, oldest at the bottom. While your child looks away, slip the picture cards between the papers, from the bottom up: fish, Tiktaalik, frog, dinosaur, mammal, bird. Leave a few papers between each card.",
+    "Your child digs down from the top and writes down each card and the date of the paper just above it.",
+    "Ask: 'Which animal is the oldest in your pile? Which is the youngest?'",
+    "Now take the Tiktaalik card out and put the papers back. Ask your child to say between which two cards it should be found, and why."
+   ],
+   "predict": "Ask your child to guess first: 'Will the newspaper at the bottom be the oldest or the newest? Why do you think so?'",
+   "observe": "The dates get older as you go down, because each day's paper was put on top. The fish card comes out from deepest, so it is the oldest. Your child should say that Tiktaalik belongs between the fish and the frog.",
+   "why": "Mud and sand settle in layers over time, and new layers form on top of old ones. So in rock that has not been turned over, lower layers are older. Nicolas Steno, a Danish scientist, wrote this down in 1669. Fossils in lower layers are older than fossils in higher ones. This is how Neil Shubin's team knew which age of rock to search for Tiktaalik. Real layers can be folded or turned over by moving rock, and geologists check for this.",
+   "safety": "",
+   "time": "15 min"
+  },
+  {
+   "id": "e3",
+   "title": "Twenty moong seeds: are they all the same?",
+   "day": 2,
+   "question": "If seeds from one packet get the same water and warmth, do they all grow the same?",
+   "need": [
+    "20 whole green moong seeds, soaked overnight",
+    "a steel plate",
+    "a clean cotton cloth or 3 layers of tissue",
+    "water",
+    "a ruler",
+    "squared paper or a notebook"
+   ],
+   "steps": [
+    "Wet the cloth and lay it flat on the plate.",
+    "Set the 20 soaked seeds on the cloth in 4 rows of 5, with a little space between them. Number the rows on a paper slip.",
+    "Keep the plate indoors, away from direct sun. Sprinkle a little water each morning and evening so the cloth stays damp, not flooded.",
+    "On Day 4, measure each sprout's root from the seed to the tip, to the nearest half centimetre. Write 0 for a seed that did not sprout.",
+    "Make a bar chart: put the lengths along the bottom (0, half, 1, one and a half, 2 cm and so on) and draw a bar showing how many seeds had each length."
+   ],
+   "predict": "Ask your child to guess first: 'Will all 20 sprouts be the same length? Why do you think so?'",
+   "observe": "The sprouts are different lengths. Many cluster around a middle length, a few are much longer or shorter, and one or two seeds may not sprout at all.",
+   "why": "Even seeds from one packet differ a little, in their genes and in how they were stored. This is variation. Variation is in every group of living things, and it is what natural selection works on. If the surroundings change, such as a dry spell, the ones whose differences happen to suit the change are more likely to survive and leave young.",
+   "safety": "",
+   "time": "7 min to set up, 2 days of sprinkling, 10 min to measure"
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Build a tree from shared features",
+   "day": 1,
+   "mins": 17,
+   "need": [
+    "8 picture cards: mushroom, earthworm, rohu fish, frog, crocodile, crow, cow, and your child (draw them, print them or show them on a phone)",
+    "a big sheet of paper",
+    "a pencil and coloured pencils"
+   ],
+   "steps": [
+    "Lay the 8 cards in a row at the top of the sheet.",
+    "Ask about each feature in turn, and draw a ring around the cards that have it. Feature 1: 'made of cells with a nucleus' (all 8). Feature 2: 'eats food and moves their body' (all except the mushroom).",
+    "Feature 3: 'has a backbone' (fish, frog, crocodile, crow, cow, child). Feature 4: 'has four limbs' (frog, crocodile, crow, cow, child). A crow's wings are their front limbs.",
+    "Feature 5: 'eggs with a shell, or babies grown inside the mother' (crocodile, crow, cow, child). Feature 6: 'hair and milk' (cow, child). Feature 7: 'a gizzard, eggs with hard shells and parents who guard the nest' (crocodile, crow).",
+    "Look at the rings: they sit inside each other, and never cross. Now turn them into a tree. Draw a trunk. The mushroom branches off first. Then the earthworm, then the fish, then the frog. Then the branch splits in two: one side for crocodile and crow, the other for cow and child.",
+    "Your child writes the feature on each branch where it first appears, for example 'backbone' just above where the earthworm branches off."
+   ],
+   "outcome": "A tree of eight living beings, built from shared features, showing that beings who share more features share a more recent ancestor."
+  },
+  {
+   "id": "a2",
+   "title": "Rice detectives",
+   "day": 4,
+   "mins": 15,
+   "need": [
+    "2 to 4 kinds of raw rice, a spoonful of each (for example sona masoori, ponni, idli rice, basmati, red matta rice)",
+    "a ruler",
+    "a dark cloth or dark paper",
+    "paper and pencil"
+   ],
+   "steps": [
+    "Spread a few grains of each kind on the dark cloth, in separate heaps. Look closely at colour, shape and size. Smell each one.",
+    "For one kind, lay 10 grains end to end along the ruler, touching. Read the total length in millimetres. Divide by 10 to find the average length of one grain.",
+    "Do the same for each kind. Write the averages in a table.",
+    "Now look closely at the 10 grains of one kind. Ask: 'Are they all exactly the same length?' (No. There is variation inside one kind too.)",
+    "Next to each kind, your child writes what farmers may have chosen it for: long thin grains that stay separate for biryani, short fat grains that grind into soft idli batter, red rice with the bran left on.",
+    "Draw a wild rice plant at the bottom of the page, with arrows up to each kind."
+   ],
+   "outcome": "A table of grain lengths and a drawing that show how farmers bred very different rices from one wild plant, and that every kind still varies."
+  },
+  {
+   "id": "a3",
+   "title": "Same bones, different jobs",
+   "day": 6,
+   "mins": 15,
+   "need": [
+    "a phone or book with pictures of the bones in a bat's wing, a whale's flipper and a bird's wing",
+    "paper",
+    "5 coloured pencils: red, blue, green, yellow and purple"
+   ],
+   "steps": [
+    "Your child feels their own arm from shoulder to fingertips. Find the one bone in the upper arm, the two bones in the lower arm (twist the wrist and feel them turn), the small wrist bones, and the finger bones.",
+    "Draw your child's arm bones on paper. Colour the upper arm bone red, the two lower arm bones blue, the wrist bones green, the hand bones yellow and the finger bones purple.",
+    "Look at the picture of the bat's wing. Draw it next to the arm and use the same colours for the same bones. The bat's finger bones are very long, and the skin of the wing stretches between them.",
+    "Do the same for the whale's flipper (short, flat bones packed together) and the bird's wing (some finger and wrist bones are joined together).",
+    "Under each drawing, write the job: holding, flying, steering in water, flying.",
+    "If your family eats chicken, look at a cooked chicken wing after a meal: find the one bone, then the two bones, then the small joined bones at the tip."
+   ],
+   "outcome": "Four drawings in matching colours that show the same set of bones doing four different jobs."
+  },
+  {
+   "id": "a4",
+   "title": "The timeline walk",
+   "day": 5,
+   "mins": 15,
+   "need": [
+    "8 cards written beforehand",
+    "a long corridor, a staircase or the walls of your flat",
+    "one grain of rice",
+    "a measuring tape or ruler (to check a step)"
+   ],
+   "steps": [
+    "Agree that one big step stands for 100 million years. Your child stands at the start and puts down a card: 'Today'.",
+    "Walk backwards in time, counting steps, and put down each card at its place. Half a step back: 'Whales still had legs, like Indohyus (about 50 million years ago)'.",
+    "Two-thirds of a step from the start: 'The big dinosaurs end (66 million years ago)'. 2 steps: 'The first mammals (a little over 200 million years ago)'. 3 and three-quarter steps: 'Tiktaalik, a fish with a neck (375 million years ago)'.",
+    "About 4 and a half steps: 'Plants on land (about 470 million years ago, maybe earlier)'. 6 steps: 'Animals in the sea (about 600 million years ago)'.",
+    "16 steps: 'Many-celled life: probable red algae fossils from Chitrakoot in India, about 1.6 billion years old'. If your corridor runs out, turn and walk back.",
+    "About 35 steps: 'The first life (at least 3.5 billion years ago)'. Look back at the 'Today' card from here.",
+    "Go back to 'Today'. Hold up the grain of rice. Say: 'All of human history, about 300,000 years, is a sliver of a step about as thick as this grain.'"
+   ],
+   "outcome": "A walk your child can feel in their legs, showing that life was tiny single cells for most of its history, and that humans arrived only at the very end."
+  },
+  {
+   "id": "a5",
+   "title": "Draw the shared ancestor",
+   "day": 7,
+   "mins": 10,
+   "need": [
+    "two cards from game g1: the bat and cow card, and the crow and crocodile card",
+    "paper and coloured pencils"
+   ],
+   "steps": [
+    "Take the bat and the cow. Make a list of features both have: hair, milk for the babies, four limbs, a backbone, teeth of different shapes, lungs.",
+    "Say: 'Features that two cousins share were probably there in their shared ancestor.'",
+    "Your child draws an animal with only those shared features. Leave out wings, hooves and horns, which only one of them has. Scientists think this ancestor was small and furry, a little like a shrew.",
+    "Do the same for the crow and the crocodile: four limbs, scaly skin on the legs, eggs with hard shells, a gizzard, parents who guard the nest. Leave out feathers and wings, and the crocodile's long snout.",
+    "Write under each drawing: 'Last shared ancestor of the bat and the cow' and 'Last shared ancestor of the crow and the crocodile'."
+   ],
+   "outcome": "Two drawings of shared ancestors, worked out from the features their living descendants share, the way scientists do it."
+  }
+ ],
+ "project": {
+  "title": "The tree of life on our wall",
+  "days": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "steps": [
+   "On Day 1, tape a big sheet of paper (or newspaper sheets taped together) to a wall. Draw a trunk at the bottom and label it 'the first cells'.",
+   "On Day 2, draw the three-line tree from the copying game in a corner, with the number of differences on each branch.",
+   "On Day 3, write the three lines of natural selection at the top, and draw the Palghat Gap with a sholakili on each side.",
+   "On Day 4, glue the moong bar chart and the rice table onto the plant branch.",
+   "On Day 5, add branches for plants on land, fish and four-legged animals, with dates. Draw Tiktaalik where fish meet four legs.",
+   "On Day 6, draw the arm, bat wing and flipper bones on the mammal branch, and Indohyus next to the whale twig.",
+   "On Day 7, add the pairs from the card game and the two shared-ancestor drawings. Draw a lichen where the fungus and alga branches touch, and a cross where the big dinosaurs ended, with the bird twig carrying on.",
+   "On Day 8, your child uses the wall tree to teach the whole story to someone at home."
+  ],
+  "outcome": "A large tree of life, made by your child over eight days, showing how one family of cells branched into millions of kinds and how we know."
+ },
+ "game": {
+  "id": "g1",
+  "title": "Who is closer?",
+  "kind": "cards",
+  "players": "2–4",
+  "need": [
+   "the 24 printed cards, cut out",
+   "paper and pencil for the score"
+  ],
+  "rules": [
+   "Print the page and cut out the 24 cards. Put them in a pile, question side up.",
+   "The reader takes the top card and reads the question aloud.",
+   "Every other player says their answer and one reason, before the card is turned over.",
+   "The reader turns the card and reads the answer and the reason aloud.",
+   "Each player who got it right, with a reason, scores 1 point. A right answer without a reason scores nothing.",
+   "The player on the left becomes the reader for the next card.",
+   "At the end, look at the cards everyone got wrong. Talk about why looks fooled you."
+  ],
+  "cards": [
+   {
+    "front": "Is a whale a closer cousin of a hippo or of a shark?",
+    "back": "A hippo. Whales are mammals, and their closest living relatives are hippos. A shark is a fish."
+   },
+   {
+    "front": "Is an elephant closer to a dugong (sea cow) or to a rhino?",
+    "back": "A dugong. Elephants, dugongs and small animals called hyraxes share an ancestor who lived in Africa."
+   },
+   {
+    "front": "Is a crow closer to a crocodile or to a lizard?",
+    "back": "A crocodile. Birds and crocodiles are the two living branches of the group that includes dinosaurs."
+   },
+   {
+    "front": "Is a mushroom closer to you or to a mango tree?",
+    "back": "To you. Fungi and animals share an ancestor more recent than the one either shares with plants."
+   },
+   {
+    "front": "Is a bat closer to a cow or to a sparrow?",
+    "back": "A cow. Bats are mammals with fur and milk. Their wings evolved separately from bird wings."
+   },
+   {
+    "front": "Is an octopus closer to a snail or to a fish?",
+    "back": "A snail. Octopuses and snails are both molluscs."
+   },
+   {
+    "front": "Is a spider closer to a scorpion or to an ant?",
+    "back": "A scorpion. Spiders and scorpions both have eight legs and belong to the arachnids."
+   },
+   {
+    "front": "Is a termite closer to a cockroach or to an ant?",
+    "back": "A cockroach. Termites are a branch of the cockroach family that took up living in big colonies."
+   },
+   {
+    "front": "Is a starfish closer to you or to a jellyfish?",
+    "back": "To you. Starfish and animals with backbones share an ancestor who lived after the jellyfish line had branched off."
+   },
+   {
+    "front": "Is bhindi (okra) closer to brinjal or to the hibiscus (shoe-flower)?",
+    "back": "The hibiscus. Look at a bhindi flower: it looks like a small hibiscus. Cotton is in the same family."
+   },
+   {
+    "front": "Is a tomato closer to a potato or to an apple?",
+    "back": "A potato. Tomato, potato, brinjal and chilli are one plant family."
+   },
+   {
+    "front": "Is a coconut palm closer to grass or to a neem tree?",
+    "back": "Grass. Both have one seed leaf and long leaves with veins running side by side."
+   },
+   {
+    "front": "Is a banana plant closer to ginger or to a mango tree?",
+    "back": "Ginger. Banana, ginger and turmeric belong to one group of plants."
+   },
+   {
+    "front": "Is a peanut closer to a pea or to a walnut?",
+    "back": "A pea. Peanuts are legumes, like peas and dal. Their pods grow underground."
+   },
+   {
+    "front": "Is a pangolin closer to a cat or to an anteater?",
+    "back": "A cat. Pangolins look like anteaters because both eat ants, but their closest relatives are the meat-eating mammals."
+   },
+   {
+    "front": "Is a dolphin closer to a deer or to a shark?",
+    "back": "A deer. Dolphins belong to the same big group as deer, cows and hippos."
+   },
+   {
+    "front": "Is a seahorse closer to a horse or to a fish?",
+    "back": "A fish. Seahorses breathe with gills. Only the head looks like a horse."
+   },
+   {
+    "front": "Is a tortoise closer to a crow or to a frog?",
+    "back": "A crow. Tortoises, birds, crocodiles and lizards are all reptiles in the wide sense. Frogs are amphibians."
+   },
+   {
+    "front": "Is a lion-tailed macaque closer to a lion or to you?",
+    "back": "To you. Macaques and humans are both primates. Only the tuft on the tail looks like a lion's."
+   },
+   {
+    "front": "Is a rabbit closer to a rat or to a cat?",
+    "back": "A rat. Rabbits and rodents share an ancestor, and both have front teeth that never stop growing."
+   },
+   {
+    "front": "Is a mushroom closer to yeast or to moss?",
+    "back": "Yeast. Both are fungi. Moss is a plant."
+   },
+   {
+    "front": "Is a coral closer to a jellyfish or to a rock?",
+    "back": "A jellyfish. Corals are animals with stinging tentacles. They build a hard skeleton that forms reefs."
+   },
+   {
+    "front": "Is a hyena closer to a dog or to a cat?",
+    "back": "A cat. Hyenas look like dogs but belong to the cat side of the meat-eating mammals."
+   },
+   {
+    "front": "Is a red panda closer to a giant panda or to a raccoon?",
+    "back": "A raccoon. Red pandas live in the Himalaya, in Sikkim and Arunachal Pradesh. Giant pandas are bears."
+   }
+  ]
+ },
+ "big": [
+  "Every tip of the tree of life has been evolving for the same 4 billion years. So what could 'more evolved' mean, if anything?",
+  "Mitochondria were once free-living bacteria and now live inside you. Where do 'you' end and other beings begin?",
+  "A sponge has no brain, yet senses the water and keeps out cells that are not her own. Does thinking need a brain?",
+  "Farmers bred thousands of kinds of rice over thousands of years. Who should own a seed?",
+  "Almost every species that ever lived is extinct. Will humans be one day? What would we leave behind?"
+ ],
+ "challenge": [
+  {
+   "q": "'Survival of the fittest means the strongest survive.' True?",
+   "hint": "Herbert Spencer first used the words 'survival of the fittest' in 1864, and Darwin used them from 1869. 'Fittest' means best fitted to the surroundings, not strongest. Often the ones who leave more young are those who cooperate: ants in a colony, elephants in a herd, a fungus and an alga in a lichen. Your own cells began as a partnership. Why do you think the 'strongest' version of the story is so popular?"
+  },
+  {
+   "q": "'Giraffes got long necks by stretching to reach leaves, and passed the stretch on to their young.' True?",
+   "hint": "This was the idea of Jean-Baptiste Lamarck, a French scientist, in 1809. A neck stretched during one life is not written into the DNA of the egg or sperm, just as a wrestler's big muscles do not pass to their baby. Giraffes with slightly longer necks, born that way, reached more leaves and left more young. Some scientists study small effects of the surroundings that can pass to the young for a generation or two, and how much these matter is still argued about. What test could tell the two ideas apart?"
+  },
+  {
+   "q": "'Dinosaurs all died out 66 million years ago.' True?",
+   "hint": "The big dinosaurs did. But birds are dinosaurs: they come from small feathered dinosaurs, and many dinosaur fossils with feathers have been found in China since 1996. So about 11,000 species of dinosaur are alive today, including the crow at your window. Does that change how you see a crow?"
+  },
+  {
+   "q": "'Bacteria are simple, primitive life, and humans are the most advanced.' True?",
+   "hint": "Bacteria alive today have been evolving for as long as we have. Cyanobacteria filled the air with oxygen billions of years before humans, and bacteria live in boiling springs, deep rock and your gut. They also evolve fast enough to beat our medicines. 'Advanced' depends on what you measure. Who decides what counts?"
+  }
+ ],
+ "perspectives": [
+  {
+   "who": "A house crow at your window",
+   "view": "'My ancestors were dinosaurs. When the rock from space hit, my small feathered family survived and the giants did not. I can remember the face of a person who threw a stone at me.' Ask: if a crow wrote the story of evolution, who would be the hero?"
+  },
+  {
+   "who": "A seed-keeper farmer in Tamil Nadu",
+   "view": "'I sow a little of every old rice each year and keep the best grain. One kind stands floods, one ripens fast, one grows where the water is salty. One kind for everyone is fine until the year it fails.' Ask: why might a field of plants that are all the same be risky?"
+  },
+  {
+   "who": "A bacterium in your gut",
+   "view": "'My line split from yours about 4 billion years ago, and we have both been changing ever since. My kind can split into two in under an hour, so we can evolve in weeks what takes you thousands of years.' Ask: whose evolution is easier to watch, and why?"
+  },
+  {
+   "who": "Families with creation stories",
+   "view": "Many families in India and around the world have old stories of how living things came to be. These stories carry questions about who we are and how to live. Science asks a different question: what does the evidence in rocks, bones and DNA show happened? Ask: how can a family keep its stories and also look at the evidence?"
+  }
+ ],
+ "voices": [
+  {
+   "id": "v1",
+   "who": "Motoo Kimura (1924–1994) and Tomoko Ohta (born 1933), Japan",
+   "idea": "In 1968 Kimura argued that most changes in DNA that spread through a species are neutral: they neither help nor harm, and they spread or vanish by chance. From 1973 Tomoko Ohta, who had worked with him, added that many changes are nearly neutral, so slightly harmful ones can spread by chance in small groups. Because neutral changes pile up at a fairly steady rate, they can be counted like the ticks of a clock.",
+   "then": "Many scientists of the time thought natural selection shaped almost every change. They argued hard against Kimura for years. Ohta was one of very few women in genetics in Japan then, and her idea was taken seriously only slowly.",
+   "now": "Accepted, with arguments about how far it goes. Scientists agree that many DNA changes are neutral and spread by chance, and DNA clocks built on this idea are used every day to date splits in the tree of life. How much of evolution is chance and how much is selection is still argued about. Ohta won the Crafoord Prize, one of the top prizes in biology, in 2015.",
+   "status": "accepted",
+   "ask": "In the copying game, did any of your letter changes help or harm the line? What does that tell you about how lines become different?",
+   "day": 2
+  },
+  {
+   "id": "v2",
+   "who": "A. Ranga Rao, an Indian geologist, Dr Friedlinde Obergfell, and Hans Thewissen, United States: Indohyus",
+   "idea": "In the early 1970s Ranga Rao collected rocks with fossils near Kalakot in Jammu and Kashmir and named a small animal in them Indohyus. After he died in 1999, his wife, Dr Friedlinde Obergfell, a scientist herself, kept the rocks safe and gave them to Hans Thewissen to study. While the bones were being cleaned out of the rock, one skull broke by accident. Inside was a thick, heavy shell of bone around the ear. Among living animals, only whales and dolphins have this.",
+   "then": "Scientists already had fossils from Pakistan and India of early whales with legs. But nobody knew which land animals whales came from. Thewissen's team described Indohyus in 2007. Some scientists argued about exactly where Indohyus sits on the tree.",
+   "now": "Accepted that whales came from land mammals, and that Indohyus was a close relative of whales. DNA shows that the closest living relatives of whales are hippos. Indohyus probably waded into water to escape danger, with heavy bones that helped them stay under.",
+   "status": "accepted",
+   "ask": "Without Dr Obergfell keeping the rocks safe, and without the broken skull, the find might never have been made. Who else might have helped this discovery whose names we do not know?",
+   "day": 6
+  },
+  {
+   "id": "v3",
+   "who": "Gerta Keller (born 1945), a geologist at Princeton University, United States, and the Deccan Traps of India",
+   "idea": "About 66 million years ago, huge volcanic cracks in western India poured out lava again and again, building layers of rock more than a kilometre thick, called the Deccan Traps. You can see them as the flat-topped hills of the Western Ghats near Mumbai and Pune. Keller argues that the gases from these eruptions changed the climate so badly that they were the main cause of the dinosaurs' end.",
+   "then": "In 1980 Luis and Walter Alvarez and their team found a thin layer of a rare metal called iridium in rocks of that age around the world, and said a rock from space had hit the Earth. In 1991 the crater, about 180 kilometres wide, was identified under Mexico. Most scientists accepted the rock from space as the cause. Keller's view was strongly attacked.",
+   "now": "Debated. Most scientists think the rock from space was the main cause. But new dating shows the Deccan eruptions happened at the same time, and many scientists now think both played a part. How much each mattered is still argued about.",
+   "status": "debated",
+   "ask": "If you could measure one thing in the rocks to settle this, what would it be?",
+   "day": 7
+  },
+  {
+   "id": "v4",
+   "who": "The first-animal debate: sponges or comb jellies?",
+   "idea": "All animals share one ancestor. The first branch to split off from all the other animals was either the sponges, who have no nerves or muscles, or the comb jellies, who swim with rows of tiny beating hairs and do have nerves. If comb jellies came first, then either nerves evolved twice, or sponges once had nerves and lost them.",
+   "then": "For most of the last century, scientists assumed sponges came first, because their bodies are the simplest. From 2008, some DNA studies put comb jellies first, and a long argument began.",
+   "now": "Debated. A 2023 study that compared how genes are arranged on chromosomes supported comb jellies as the first branch. Other scientists still favour sponges. The answer changes what we think about how nerves began.",
+   "status": "debated",
+   "ask": "Scientists once thought 'simplest' meant 'first'. Why might a simple body not be the oldest?",
+   "day": 7
+  }
+ ],
+ "story": {
+  "title": "Forty Pots of Rice",
+  "text": [
+   "I am a kudhir, a grain store made of river mud and straw. I stand in the back room of a house near Nagapattinam, where the Kaveri reaches the sea. I am as tall as a girl of ten, and my belly is cool and dark. Chellamma's grandmother shaped me with her hands, and I have held rice through more monsoons than anyone can count.",
+   "Inside me there is not one rice but forty. Chellamma keeps each kind in its own small pot, with a cloth tied over the mouth. There is a red rice with long whiskers on every grain. There is a black rice that turns the cooking water purple. There is a short fat rice that grows tall enough to stand above a flood, and a thin one that ripens fast, before the hot months. Every year Chellamma sows a small patch of each kind, saves the best grain, and pours it back into me.",
+   "Kavya came for the Deepavali holidays, from Bengaluru. She was nine, and she wrote everything down in a notebook with a green cover. On the first evening she lifted my lid and counted the pots. 'Paati, why do you keep so many?' she asked. 'Murugan mama grows only one kind, and his field gives much more.'",
+   "That was true. Murugan was Chellamma's son. He grew one new rice across all his land. It was a good rice. Every plant was the same height, and every plant ripened on the same day. The traders who bought it liked that.",
+   "Chellamma lifted a pot and let the grains run through her fingers. 'Each of these was a gift,' she said. 'This one came from my aunt in Thanjavur. This one I swapped with a woman from Vedaranyam for two coconuts and a song.' Kavya laughed. 'And this one,' said Chellamma, holding up the red whiskered rice, 'my mother grew in the field nearest the sea.'",
+   "'Why that one, near the sea?' asked Kavya.",
+   "'Because it did not die there,' said Chellamma. 'Others did.'",
+   "Kavya wrote that down. She did not understand it yet. Neither did I. I am only a pot.",
+   "Every evening after that, Kavya drew the grains in her notebook: long, short, red, white, whiskered, bald. She made a tree. At the bottom of the trunk she wrote 'wild rice', and on each branch she stuck one grain with a dab of cooked rice. 'They all came from one wild grass, long ago,' she told her grandmother. 'My teacher said so. People picked the seeds they liked and planted them, again and again, for thousands of years.'",
+   "Chellamma nodded. 'People picked,' she said. 'And the fields picked too.'",
+   "Ten days later the storm came. All night the wind pulled tiles off the roof, and rain came through the gaps and ran down my sides. I held my lid tight. In the morning the house was standing, but the sea had come in over the low fields and gone back out, leaving the water in them salty.",
+   "Within a week Murugan's field turned brown, from one end to the other. He walked along the edge of it with his hands on his head. Every plant had been the same, and every plant died in the same way.",
+   "Most of Chellamma's patches were brown too. Kavya walked along the narrow mud banks between them with her notebook, her chappals sinking at every step. Then she stopped. 'Paati!' she shouted. 'Paati, come and see!'",
+   "In the patch nearest the sea, some of the red whiskered rice was still green. Not all of it. About one plant in five. But those plants were standing straight, with their heads full.",
+   "Chellamma told me this later, the way she tells me everything when she pours in new grain. Kavya looked at the green plants for a long time. Then she looked across at Murugan's field, all one colour. 'Murugan mama's plants were all the same,' she said slowly. 'So they all had the same problem.'",
+   "That evening Kavya opened her notebook and drew a new branch on her tree. She coloured only one grain on it green.",
+   "They cut the green plants by hand. There was only a small basket of grain, thin and damp, and Chellamma dried it on a mat for three days before she poured it into me. 'These are the strongest of the strong ones,' she said. 'Next year we sow them near the sea again, and the year after. The sea will choose, and we will choose after it.'",
+   "On Kavya's last morning, Murugan came into my room. He stood in the doorway, a big man suddenly shy. 'Amma,' he said. 'Will you give me some of the red rice? For the low corner, by the sea.' Chellamma untied the pot. She poured a measure into his towel, and then she sat him down and told him how her mother had grown it: when to sow, how deep to keep the water, which plants to keep for seed. He listened the way Kavya had listened.",
+   "Kavya asked for something too. She wanted a handful of every kind, to grow in pots on her balcony in Bengaluru. Chellamma tied forty small bundles in forty scraps of cloth, and wrote a name on each one with a stub of pencil. Kavya packed them in her bag, between her clothes.",
+   "I am lighter now by forty handfuls. Chellamma says a kudhir should never be too full and never empty. Somewhere in a city I will never see, on a fourth-floor balcony, forty kinds of rice are growing in old paint tins, each one a little different from the others."
+  ],
+  "epiphany": "For the parent: the story hides natural selection and why variation matters. Murugan's field had no variation, so when salt water came every plant had the same weakness and all died. Chellamma's red rice plants all differed a little, and a few happened to stand the salt. The turn comes when Kavya sees the green plants and says Murugan's plants were all the same, so they all had the same problem. Chellamma's line 'The sea will choose, and we will choose after it' joins natural selection and selective breeding. The story also carries seed-sharing, and a woman teaching her grown son.",
+  "ask": [
+   "Why did some of the red rice live when all of Murugan's rice died?",
+   "Chellamma said, 'People picked, and the fields picked too.' What did she mean?",
+   "Why will Chellamma sow the surviving red rice near the sea again next year?",
+   "Murugan's one kind of rice gave more grain in a normal year. Was he wrong to grow it? What would you do?",
+   "Chellamma got her rice as gifts and swaps. Should seeds be shared freely, or owned? Why?"
+  ]
+ },
+ "ideas": [
+  {
+   "idea": "Every living thing is related, on one branching tree.",
+   "more": "Every living thing alive today comes from the same very old family of single cells. You share an ancestor with a crow, a mushroom and a mango tree. The tree branches, it is not a ladder, and every tip is equally old. Use the wall tree and the card game to show it."
+  },
+  {
+   "idea": "Small copy changes plus choosing by the surroundings make living things change.",
+   "more": "Copies of DNA are never perfect, so living things vary. The young inherit features. Those whose features fit their surroundings leave more young. Over many generations the changes add up, and groups kept apart become new species. Nobody plans it. Use the copying game, the moong seeds and the finches."
+  },
+  {
+   "idea": "Partnership built the cells you are made of.",
+   "more": "Mitochondria in your cells were once free-living bacteria. A lichen is a fungus and an alga living as one. Evolution works through cooperation as well as competition."
+  },
+  {
+   "idea": "Three kinds of evidence agree.",
+   "more": "Fossils show the order of life in the rocks. The same bones in arms, wings and flippers show a shared ancestor. DNA differences show who split from whom, and they match the fossils and the bones. A whale's ear bone in an Indian fossil and Tiktaalik found by prediction are two strong examples."
+  }
+ ],
+ "unknowns": [
+  "Which animals branched off first, sponges or comb jellies? DNA studies disagree, and the answer changes what we think about how nerves began.",
+  "How much did the Deccan Traps eruptions, and how much did the rock from space, cause the end of the dinosaurs? Scientists still argue.",
+  "Where did viruses come from? Some scientists think they escaped from cells, some think they are older than cells. Nobody knows.",
+  "Single cells and sponges sense, choose and respond with no brain. What should we call this, and how is it like our own thinking? Scientists are still working it out."
+ ],
+ "books": [
+  {
+   "title": "Life on Earth: The Story of Evolution",
+   "author": "Steve Jenkins",
+   "for": "read together",
+   "age": "6–10",
+   "why": "Clear paper-collage pictures and short text explain variation, natural selection and deep time, matching Days 2 to 5."
+  },
+  {
+   "title": "The Tree of Life",
+   "author": "Peter Sís",
+   "for": "read together",
+   "age": "7–12",
+   "why": "A richly drawn picture biography of Charles Darwin, including his notebook sketch of the branching tree."
+  },
+  {
+   "title": "Evolution: How We and All Living Things Came to Be",
+   "author": "Daniel Loxton",
+   "for": "read alone",
+   "age": "8–12",
+   "why": "Answers children's real questions about evolution in plain words, with good pictures. A child in Class 4 can read parts alone."
+  },
+  {
+   "title": "Your Inner Fish",
+   "author": "Neil Shubin",
+   "for": "parent reads",
+   "age": "adult book, parent reads short parts aloud",
+   "why": "The true story of finding Tiktaalik, and how our own bodies carry traces of fish ancestors. Read the Tiktaalik chapter aloud after Day 5."
+  }
+ ],
+ "check": [
+  {
+   "q": "What three things together make natural selection work?",
+   "a": "Living things of one kind vary. The young inherit features from their parents. Those whose features fit their surroundings survive more often and leave more young, so those features become more common."
+  },
+  {
+   "q": "How did farmers change wild rice into the rice we eat, and how is that like natural selection?",
+   "a": "Wild rice plants vary. Farmers sowed grains from the plants they liked, such as plants that held their grains until harvest, or had long or short grains. The young inherited those features, so over many generations farmed rice changed. This is selective breeding. It is like natural selection because it needs variation and inheritance, but people do the choosing instead of the surroundings."
+  },
+  {
+   "q": "Why is the tree of life a tree and not a ladder?",
+   "a": "Life branched from one ancestor into many lines, and every line alive today has been evolving for the same time. Bacteria are not a lower step. They are another tip of the tree."
+  },
+  {
+   "q": "Give three kinds of evidence for evolution.",
+   "a": "Fossils in rock layers, such as Tiktaalik between fish and four-legged animals. The same bones in a human arm, a bat wing and a whale flipper. DNA comparisons, where closer relatives have fewer differences."
+  },
+  {
+   "q": "Put these in order, oldest first: animals in the sea, first life, the end of the big dinosaurs, Tiktaalik, many-celled red algae.",
+   "a": "First life (at least 3.5 billion years ago), many-celled red algae (about 1.6 billion), animals in the sea (about 600 million), Tiktaalik (375 million), the end of the big dinosaurs (66 million)."
+  },
+  {
+   "q": "How did one kind of shortwing bird become two species in the Western Ghats?",
+   "a": "The birds on the two sides of the Palghat Gap could not cross it, so the two groups were kept apart for a very long time. Each group gathered its own mutations and was shaped by its own surroundings, until they became two species: the Nilgiri sholakili and the white-bellied sholakili."
+  },
+  {
+   "q": "What did Lynn Margulis show about mitochondria?",
+   "a": "That they were once free-living bacteria that came to live inside a bigger cell as partners. They still have their own DNA, like bacteria."
+  },
+  {
+   "q": "How is evolution happening today in hospitals?",
+   "a": "When antibiotics are used, the few bacteria that can resist them survive and multiply. Over time more of the bacteria resist the medicine. That is natural selection happening now."
+  }
+ ]
+}
