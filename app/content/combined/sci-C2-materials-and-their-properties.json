@@ -6,8 +6,8 @@
  "n": "materials-and-their-properties",
  "title": "Natural, made and tested: choosing materials like a scientist",
  "source": "DeepKids Combined. Covers Cambridge Stage 2 Chemistry: Unit 3.1 'Natural and made materials', Unit 3.2 'Properties of materials', Unit 3.3 'Using the right material' and Unit 3.4 'Testing materials'. No textbook needed.",
- "summary": "Last year your child learned that every object is made of a material. Now they find out which materials are natural and which people make, and follow the journeys that turn cotton into cloth, sand into glass and clay into bricks. They learn the scientist's property words (rigid, flexible, absorbent, waterproof, transparent), sort with a Venn diagram, and run real fair tests with measurements, a table and a block graph. They meet the cloudy liquid that became one of the strongest fibres ever made, and they bury materials to see which ones the Earth can take back.",
- "builds_on": "Class 1: object and material; hard, soft, rough, smooth, bendy, stretchy, see-through, waterproof; simple tests; where materials come from. Next: Changing materials (Class 2) heats, cools and burns them; Class 3 adds transparent, translucent and opaque, magnetic metals and branching keys; Making things (Classes 3–5) follows materials into houses, paper and cloth.",
+ "summary": "Glass is made from sand, and a cotton kurta began as a fluffy plant. Your child sorts materials into natural ones and ones people make, and follows how cotton becomes cloth, sand becomes glass and clay becomes brick. They learn the property words rigid, flexible, absorbent, waterproof and transparent, sort with a Venn diagram, and run fair tests with a ruler, coins, a table and a block graph. They hear the true story of a cloudy liquid that became one of the strongest fibres ever made, and they bury materials in soil to see which ones break down.",
+ "builds_on": "Class 1: object and material, the property words hard, soft, rough, smooth, bendy, stretchy, see-through and waterproof, simple tests, and where materials come from. Next: Changing materials (Class 2) heats, cools and burns them. Class 3 adds transparent, translucent and opaque, magnetic metals and branching keys.",
  "subconcepts": [
   "natural materials and made (manufactured) materials",
   "raw materials and how people change them",
@@ -21,7 +21,7 @@
   "inventing new materials",
   "biodegradable and non-biodegradable materials",
   "the cost of a material to the Earth",
-  "texture and sound: each material's signature"
+  "texture and sound: how a material feels and how it carries or absorbs sound"
  ],
  "goals": [
   "By the end your child can sort materials into natural and made, and explain that made materials are changed from natural ones.",
@@ -42,11 +42,11 @@
   ],
   [
    "raw material",
-   "the natural stuff a made material starts from, like sand for glass"
+   "the natural material a made material starts from, like sand for glass"
   ],
   [
    "rigid",
-   "stiff; it keeps its shape and does not bend"
+   "stiff: it keeps its shape and does not bend"
   ],
   [
    "flexible",
@@ -78,7 +78,7 @@
   ],
   [
    "biodegradable",
-   "it can be broken down by tiny living things into soil and air"
+   "it can be broken down by tiny living things, such as bacteria and fungi, into soil, water and gases"
   ]
  ],
  "day_mins": 35,
@@ -92,20 +92,20 @@
      "kind": "warmup",
      "title": "Remember the crow?",
      "mins": 7,
-     "do": "Ask: 'Last year a crow built a nest of wire, twigs, coir, cotton and wool. What is the difference between an object and a material?' (the object is the thing, the material is the stuff). 'Why did the crow use wire on the outside?' (strong and bendy). Then hand your child a steel spoon and a wooden spoon: 'Same object, two materials. Which one would you stir hot dal with, and why?' (wood, because steel gets hot)."
+     "do": "Ask: 'Last year a crow built a nest of wire, twigs, coir, cotton and wool. What is the difference between an object and a material?' (the object is the thing, the material is what it is made of). 'Why did the crow use wire on the outside?' (strong and bendy). Then hand your child a steel spoon and a wooden spoon: 'Same object, two materials. Which one would you stir hot dal with, and why?' (wood, because steel gets hot)."
     },
     {
      "kind": "outdoor",
      "title": "Natural or made hunt",
      "mins": 15,
-     "do": "Do Activity a1. Go round the house and outside. Your child finds 6 natural materials (a stone, a leaf, a twig, wool, a shell, soil or clay) and 6 made materials (a plastic bucket, a glass bottle, a steel plate, a paper bag, a brick, a nylon rope). Put them in two heaps on a mat. Ask about each one: 'Did a person change this from something else?'",
+     "do": "Do Activity a1. Go round the house, and the balcony or compound if you can. Your child finds 6 natural materials (a stone, a leaf from a potted plant, a twig, wool, a shell, soil or clay) and 6 made materials (a plastic bucket, a glass bottle, a steel plate, a paper bag, a floor tile, a nylon rope). Put them in two heaps on a mat. Ask about each one: 'Did a person change this from something else?'",
      "ref": "a1"
     },
     {
      "kind": "think",
      "title": "The tricky ones",
      "mins": 13,
-     "do": "Hold up a cotton kurta. Ask: 'Natural or made?' Let your child argue. The answer: cotton is a natural material, but the cloth was made by people who spun and wove it. Then a wooden chair (natural wood, shaped by people), paper (made, from wood), a brick (made, from clay). Say: 'Every made material started as a natural one. People changed it.' Write the rule on a card for the wall."
+     "do": "Hold up a cotton kurta. Ask: 'Natural or made?' Let your child argue. The answer: cotton is a natural material, but the cloth was made by people who spun and wove it. Then a wooden chair (natural wood, shaped by people), paper (made, from wood), a floor tile (made, from baked clay). Say: 'Every made material started as a natural one. People changed it.' Write the rule on a card for the wall."
     }
    ],
    "need": [
@@ -131,20 +131,20 @@
      "kind": "talk",
      "title": "The steel the world wanted",
      "mins": 10,
-     "do": "Tell voice v1: more than 2,000 years ago, ironworkers in South India melted iron with plant material in small clay pots and made a steel the rest of the world wanted, called wootz. Traders carried it across the sea to make the famous 'Damascus' swords. Ask the voice's question.",
+     "do": "Tell voice v1: about 2,000 years ago, ironworkers in South India and Sri Lanka heated iron with plant material in small sealed clay pots. They made a very good steel, called wootz. Traders carried it across the sea, and smiths in the Middle East made it into famous swords with wavy patterns. Ask the voice's question.",
      "ref": "v1"
     },
     {
      "kind": "exp",
      "title": "Start the burial test",
      "mins": 12,
-     "do": "Set up Experiment e3. Bury, in a pot of damp garden soil, small labelled pieces of: a banana peel, a cotton rag, a piece of newspaper, a plastic bag, a piece of foil and a leaf. Push a lolly stick next to each. Ask your child to predict which will be gone in two weeks. Write the predictions down and keep the soil damp.",
+     "do": "Set up Experiment e3. Bury, in a pot of damp soil (from a potted plant or a nursery bag), small labelled pieces of: a banana peel, a cotton rag, a piece of newspaper, a plastic bag, a piece of foil and a leaf. Push a lolly stick next to each. Ask your child to predict which will be gone in two weeks. Write the predictions down and keep the soil damp.",
      "ref": "e3"
     }
    ],
    "need": [
     "paper and crayons",
-    "a pot of garden soil",
+    "a pot of soil from a plant pot or a nursery bag",
     "banana peel, cotton rag, newspaper, plastic bag, foil, a leaf",
     "6 lolly sticks and a marker"
    ]
@@ -152,7 +152,7 @@
   {
    "n": 3,
    "title": "The scientist's property words",
-   "goal": "Learn the precise words for properties, and meet the cloudy liquid.",
+   "goal": "Learn the exact words for properties, and hear the true story of a cloudy liquid.",
    "steps": [
     {
      "kind": "do",
@@ -164,7 +164,7 @@
      "kind": "read",
      "title": "Story: The Cloudy Liquid",
      "mins": 13,
-     "do": "Read the story aloud. Don't explain. Ask: 'Why did the other scientists think the liquid was no good?' (it was cloudy and thin, not clear and syrupy like the good ones). 'How did Stephanie find out what it could do?' (she tested it: they spun it into a fibre). Then tell voice v2 and ask its question.",
+     "do": "Read the story aloud. Don't explain. Ask: 'Why did people think the liquid was no good?' (it was cloudy and runny, not clear and thick like the good ones). 'How did Stephanie find out what it could do?' (she tested it: it was spun into a thread and pulled). Then tell voice v2 and ask its question.",
      "ref": "v2"
     },
     {
@@ -183,53 +183,53 @@
   },
   {
    "n": 4,
-   "title": "The thirsty test",
+   "title": "The climbing water test",
    "goal": "Run a fair test with measuring, a table and a block graph.",
    "steps": [
     {
      "kind": "talk",
      "title": "What makes a test fair?",
      "mins": 7,
-     "do": "Ask: 'If I race you, but I start halfway down the road, is it fair?' (no). 'In a science test, what must be the same?' Explain: we change ONE thing (the material) and keep everything else the same (the size of the piece, the amount of water, the time). We MEASURE what happens. Ask: 'Can we answer \"which is the prettiest towel?\" with a test?' (no, people disagree). 'What about \"which towel soaks up most water?\"' (yes, we can measure it)."
+     "do": "Ask: 'If I race you, but I start halfway down the road, is it fair?' (no). 'In a science test, what must be the same?' Explain: we change ONE thing (the material) and keep everything else the same (the size of the strip, the water, the time). Then we MEASURE what happens. Ask: 'Can we answer \"which is the prettiest towel?\" with a test?' (no, people disagree). 'What about \"which material soaks up water fastest?\"' (yes, we can measure it)."
     },
     {
      "kind": "exp",
-     "title": "Which material is most absorbent?",
+     "title": "Which material soaks up water fastest?",
      "mins": 20,
-     "do": "Do Experiment e1. Your child dips same-sized squares of five materials into water for 10 seconds, lets each drip for 5 seconds, then squeezes it out into a small cup and counts how many spoons of water come out. Record in the table on Worksheet ws1's back or a sheet: material, spoons of water.",
+     "do": "Do Experiment e1. Cut strips 2 cm wide and 15 cm long of five materials. Hang them side by side so each dips 1 cm into coloured water at the same moment. After 5 minutes, your child measures with a ruler how high the colour has climbed up each strip, and you write it in a table: material, centimetres climbed.",
      "ref": "e1"
     },
     {
      "kind": "do",
      "title": "Make a block graph",
      "mins": 8,
-     "do": "On squared paper, your child colours one square for each spoon of water, one column per material. Ask: 'Which column is tallest? Which material is most absorbent? Which would you choose for a towel, and which for a raincoat?' (most absorbent for the towel, least absorbent for the raincoat)."
+     "do": "On squared paper, your child colours one square for each centimetre the water climbed, one column per material. Ask: 'Which column is tallest? Which material is most absorbent? Which would you choose for a towel, and which for a raincoat?' (the most absorbent for the towel, the one the water did not climb for the raincoat)."
     }
    ],
    "need": [
-    "5 squares (10 cm) of: cotton cloth, paper towel, newspaper, plastic sheet, woollen cloth or sponge cloth",
-    "a bowl of water",
-    "a teaspoon and a small cup",
-    "squared paper and crayons"
+    "strips 2 cm wide and 15 cm long of kitchen towel, newspaper, printer paper, cotton cloth and a plastic bag",
+    "a pencil or stick, 5 clothes pegs or tape, and two piles of books",
+    "a tray or wide bowl of water with a few drops of food colour or ink",
+    "a ruler, a timer, squared paper and crayons"
    ]
   },
   {
    "n": 5,
-   "title": "The strongest bag",
+   "title": "The strongest paper",
    "goal": "Test strength fairly and learn that one result is not enough.",
    "steps": [
     {
      "kind": "exp",
-     "title": "Which paper makes the strongest bag?",
+     "title": "Which paper is strongest?",
      "mins": 22,
-     "do": "Do Experiment e2. Make three small bags of the same size, the same way, from three papers: newspaper, printer paper and a brown paper bag or kraft paper. Hang each by a string handle from a door knob and add coins one by one until it tears. Count the coins. Do it twice for each paper if you have enough paper. Ask: 'Why did we make the bags the same size?'",
+     "do": "Do Experiment e2. Cut strips 2 cm wide and 15 cm long from toilet paper, a paper napkin and a kitchen towel. Hang one strip from the table edge under a heavy book, with a small plastic bag hooked on the bottom. Your child adds one-rupee coins one at a time, gently, until the strip tears. Count the coins. Test two strips of each paper. Ask: 'Why did we cut every strip the same size?'",
      "ref": "e2"
     },
     {
      "kind": "think",
      "title": "Why test twice?",
      "mins": 7,
-     "do": "If the two tries gave different numbers, ask: 'Why might that be?' (a bag was glued badly, a coin was dropped hard). Say: 'Scientists repeat tests so one accident doesn't fool them.' Ask: 'What else could change how strong a bag is, besides the paper?' (the shape, the glue, how the handle is fixed, folding the paper double)."
+     "do": "If the two tries gave different numbers, ask: 'Why might that be?' (a strip had a tiny tear, a coin was dropped hard). Say: 'Scientists repeat tests so one accident doesn't fool them.' Ask: 'What else could change how strong a strip is, besides the paper?' (how wide it is, a small cut at the edge, folding it double)."
     },
     {
      "kind": "review",
@@ -239,14 +239,14 @@
     }
    ],
    "need": [
-    "3 kinds of paper",
-    "glue and string",
-    "50 one-rupee coins or marbles",
+    "strips of toilet paper, a paper napkin and a kitchen towel",
+    "a heavy book, a paper clip bent into a hook, tape and a small plastic bag",
+    "about 80 one-rupee coins of the same design (or a cup of dry rice and a tablespoon)",
     "the burial pot"
    ],
    "prep": [
     {
-     "task": "Collect 50 one-rupee coins or marbles of the same size",
+     "task": "Collect about 80 one-rupee coins of the same design, or keep a cup of dry rice and a tablespoon",
      "when": "2 days before"
     }
    ]
@@ -267,7 +267,7 @@
      "kind": "think",
      "title": "Design challenges",
      "mins": 10,
-     "do": "Ask your child to choose materials for: a raincoat for a cat (waterproof, flexible, light), a window for a submarine (transparent, very strong, waterproof), a mop (absorbent, flexible), a bridge for ants across a bucket (rigid, light, strong). For each, they must name the properties first, then the material. There are several good answers."
+     "do": "Ask your child to choose materials for: a raincoat for a pet dog (waterproof, flexible, light), a window for a submarine (transparent, very strong, waterproof), a mop (absorbent, flexible), a bridge for ants across a bucket (rigid, light, strong). For each, they must name the properties first, then the material. There are several good answers."
     },
     {
      "kind": "ws",
@@ -292,38 +292,38 @@
      "kind": "act",
      "title": "The great audition",
      "mins": 12,
-     "do": "Do Activity a4. You are the director of a film called 'The Umbrella'. Your child plays, one at a time, Paper, Plastic, Wool and Steel, auditioning for the job of umbrella. Each must boast about its properties and admit one weakness: Paper: 'I'm light and cheap!' (but I go soggy); Plastic: 'I'm waterproof and flexible!' (but I last for ever in the sea); Wool: 'I'm warm and soft!' (but I soak up rain); Steel: 'I'm strong!' (but too heavy and rigid to fold). You, the director, ask each one a hard question. Then your child chooses who gets the job and gives the reason. Swap: now the job is 'towel', and the winner changes. Ask: 'Is any material good or bad, or only good or bad for a job?'",
+     "do": "Do Activity a4. You are the director of a film called 'The Umbrella'. Your child plays, one at a time, Paper, Plastic, Wool and Steel, trying out for the job of umbrella. Each one boasts about a property and admits a weakness. Paper: 'I'm light and cheap!' (but I go soggy). Plastic: 'I'm waterproof and flexible!' (but I last for hundreds of years if thrown away). Wool: 'I'm warm and soft!' (but I soak up rain). Steel: 'I'm strong!' (but too heavy and rigid to fold). You, the director, ask each one a hard question. Then your child chooses who gets the job and gives the reason. Now the job is 'towel', and the winner changes. Ask: 'Is any material good or bad, or only good or bad for a job?'",
      "ref": "a4"
     },
     {
      "kind": "do",
      "title": "Texture rubbings",
      "mins": 13,
-     "do": "Your child lays thin paper over surfaces around the house and rubs the side of a peeled crayon over them: a jute mat, a coin, a leaf, a tile, a wooden table, a cane chair, a brick wall, a steel grater. Each rubbing gets a label: material, natural or made, rough or smooth. Ask: 'Could you tell what the material is from its rubbing alone?' Mix the rubbings up and test each other. Say: 'Texture is a material's signature. Scientists use microscopes to read the same signature much more closely.'"
+     "do": "Your child lays thin paper over surfaces around the house and rubs the side of a peeled crayon over them: a jute mat, a coin, a leaf, a tile, a wooden table, a cane chair, a brick wall, a steel grater. Each rubbing gets a label: material, natural or made, rough or smooth. Ask: 'Could you tell what the material is from its rubbing alone?' Mix the rubbings up and test each other. Say: 'Texture is how a surface feels: rough, smooth or bumpy. Scientists look at textures much more closely with microscopes.'"
     },
     {
      "kind": "think",
-     "title": "Hum and listen",
+     "title": "Listen through the table",
      "mins": 10,
-     "do": "A quiet listening game. Your child sits comfortably, closes their eyes and breathes slowly five times. Then they place one palm on a wooden table and hum a long 'mmm'; then on a steel almirah; then on a folded blanket. Ask after each: 'What did your hand feel?' Good answers: the wood and steel tingle or buzz (they carry the sound's shaking), the blanket feels still (it soaks up the shaking). Say: 'Hard materials pass sound along; soft, fluffy ones swallow it. That's why recording studios have soft walls.'"
+     "do": "Your child puts one ear flat on a wooden table and covers the other ear with a hand. You tap the far end of the table gently with a fingernail. Then your child lifts their head and listens to the same tap through the air. Ask: 'Which was louder?' (through the table). Now lay a folded blanket on the table, put the ear on the blanket and tap again. Ask: 'What changed?' (the tap is much quieter). Say: 'Sound travels well through hard materials like wood and steel. Soft, fluffy materials absorb sound. That's why recording studios have soft walls.' Try the side of a steel almirah too."
     }
    ],
    "need": [
     "paper hats or dupattas for costumes (optional)",
     "thin paper and peeled crayons",
-    "a wooden table, a steel almirah, a folded blanket"
+    "a wooden table, a folded blanket, a steel almirah if you have one"
    ]
   },
   {
    "n": 8,
-   "title": "What can the Earth take back?",
-   "goal": "Dig up the burial test and think about materials that don't go back.",
+   "title": "What breaks down in soil?",
+   "goal": "Dig up the burial test and think about materials that do not break down.",
    "steps": [
     {
      "kind": "exp",
      "title": "Dig it up",
      "mins": 12,
-     "do": "Dig up everything in Experiment e3 on a newspaper. Compare with the predictions. Your child sorts the pieces: CHANGED A LOT (banana peel, leaf), CHANGED A LITTLE (newspaper, cotton), NOT CHANGED (plastic, foil). Say the word biodegradable: broken down by tiny living things, bacteria and fungi, back into soil and air. Ask: 'Which made materials did the Earth take back? Which did it not?'",
+     "do": "Dig up everything in Experiment e3 on a newspaper. Compare with the predictions. Your child sorts the pieces: CHANGED A LOT (banana peel, leaf), CHANGED A LITTLE (newspaper, cotton), NOT CHANGED (plastic, foil). If you have waited only a week, the newspaper and cotton may not have changed yet. Say the word biodegradable: it can be broken down by tiny living things, such as bacteria and fungi, into soil, water and gases. Ask: 'Which made materials broke down? Which did not?'",
      "ref": "e3"
     },
     {
@@ -337,7 +337,7 @@
      "kind": "game",
      "title": "Material Journey board game",
      "mins": 15,
-     "do": "Play the board game g1. Each player is a material on its journey from the Earth and back again. Read each square aloud and say whether it helps or slows the material.",
+     "do": "Play the board game g1. Each player is a material on a journey from the Earth and back again. Read each square aloud and say whether it helps or slows the material.",
      "ref": "g1"
     }
    ],
@@ -362,7 +362,7 @@
      "kind": "ws",
      "title": "Challenge worksheet",
      "mins": 8,
-     "do": "Do Worksheet ws3. The last questions have no single answer; ask your child to give reasons and to say how they would test their idea.",
+     "do": "Do Worksheet ws3. The last questions have no single answer. Ask your child to give reasons and to say how they would test their idea.",
      "ref": "ws3"
     },
     {
@@ -503,10 +503,10 @@
      [
       {
        "t": "mcq",
-       "p": "Ravi tests which cloth soaks up most water. Which must he keep the same?",
+       "p": "Kavya tests which cloth soaks up water fastest. Which must she keep the same?",
        "opts": [
-        "the material",
-        "the size of each piece",
+        "the cloth",
+        "the size of each strip",
         "the result"
        ],
        "a": 1
@@ -515,9 +515,9 @@
        "t": "mcq",
        "p": "Which question can you answer with a test?",
        "opts": [
-        "Which towel is prettiest?",
-        "Which towel soaks up most water?",
-        "Which towel does Dadi love?"
+        "Which towel is the prettiest?",
+        "Which towel soaks up water fastest?",
+        "Which towel does Paati like best?"
        ],
        "a": 1
       },
@@ -531,10 +531,10 @@
       },
       {
        "t": "table",
-       "p": "Copy your thirsty-test results here.",
+       "p": "Copy your climbing water results here.",
        "cols": [
         "Material",
-        "Spoons of water squeezed out"
+        "How high the water climbed (cm)"
        ],
        "rows": 5
       }
@@ -590,12 +590,12 @@
       },
       {
        "t": "write",
-       "p": "Your bag test gave 12 coins one time and 20 coins the next. What would you do, and why?",
+       "p": "In your paper test, one kitchen towel strip held 12 coins and the next held 20. What would you do, and why?",
        "lines": 3
       },
       {
        "t": "write",
-       "p": "Design a raincoat for a cat. Which properties does it need? Which material would you pick?",
+       "p": "Design a raincoat for a pet dog. Which properties does it need? Which material would you pick?",
        "lines": 3
       }
      ]
@@ -605,7 +605,7 @@
   {
    "id": "ws3",
    "tier": "challenge",
-   "title": "Think like Stephanie",
+   "title": "Think like Stephanie Kwolek",
    "day": 9,
    "sections": [
     [
@@ -633,7 +633,7 @@
       },
       {
        "t": "mcq",
-       "p": "Stephanie's liquid looked cloudy. What did the test show?",
+       "p": "Stephanie Kwolek, a chemist, made a liquid that looked cloudy. What did the test show?",
        "opts": [
         "it was spoiled",
         "it made a very strong fibre",
@@ -650,7 +650,7 @@
       },
       {
        "t": "sort",
-       "p": "Which can the Earth take back quickly, and which slowly or hardly at all?",
+       "p": "Which break down in soil quickly, and which slowly or hardly at all?",
        "items": [
         "banana peel",
         "cotton rag",
@@ -689,7 +689,7 @@
      [
       {
        "t": "write",
-       "p": "Stephanie's liquid looked wrong, but turned out to be amazing. Can you always tell what a material can do by looking at it? How do you find out?",
+       "p": "Stephanie Kwolek's liquid looked wrong, but it made a very strong thread. Can you always tell what a material can do by looking at it? How do you find out?",
        "lines": 3
       },
       {
@@ -710,54 +710,56 @@
  "experiments": [
   {
    "id": "e1",
-   "title": "The thirsty test: which material is most absorbent?",
+   "title": "The climbing water test: which material is most absorbent?",
    "day": 4,
-   "question": "Which material soaks up the most water?",
+   "question": "Which material soaks up water fastest, so the water climbs highest up it in 5 minutes?",
    "need": [
-    "5 squares, 10 cm by 10 cm, of cotton cloth, paper towel, newspaper, plastic sheet and woollen cloth or a sponge cloth",
-    "a bowl of water",
-    "a teaspoon",
-    "a small cup",
+    "strips 2 cm wide and 15 cm long of kitchen towel, newspaper, printer paper, cotton cloth and a plastic bag",
+    "a pencil or stick and 5 clothes pegs or tape",
+    "two piles of books",
+    "a tray or wide bowl with water about 2 cm deep, with a few drops of food colour or ink",
+    "a ruler",
     "a timer"
    ],
    "steps": [
-    "Dip the first square in the bowl for 10 seconds.",
-    "Lift it and let it drip over the bowl for 5 seconds.",
-    "Squeeze it out into the small cup.",
-    "Count how many teaspoons of water you can scoop from the cup.",
-    "Empty the cup and repeat for each material.",
+    "Draw a pencil line 1 cm from the bottom of each strip.",
+    "Peg or tape the strips along the stick so they hang down side by side.",
+    "Rest the stick on the two piles of books, over the empty tray. Add or remove a book until each strip's line is at the height of the water you will pour.",
+    "Lift the stick off. Pour the coloured water into the tray.",
+    "Put the stick back, so every strip dips in up to its line at the same moment. Start the timer.",
+    "After 5 minutes, measure how high the colour has climbed above the line on each strip, in centimetres.",
     "Write each result in a table, then draw a block graph."
    ],
-   "predict": "Ask your child to put the five squares in order from 'will soak up most' to 'will soak up least' before you start.",
-   "observe": "The number of spoons from each material. Plastic gives almost none; paper towel and cotton give the most.",
-   "why": "Absorbent materials are made of tiny fibres with spaces between them. Water creeps into the spaces and is held there, like water in a sponge's holes. Plastic has no spaces, so water just runs off. Keeping the size, dipping time and drip time the same makes the test fair, so the material is the only thing that changes.",
-   "safety": "Wipe up spills so nobody slips.",
+   "predict": "Ask your child to put the five strips in order, from the one the water will climb highest to the one it will climb least, and to say why.",
+   "observe": "The colour climbs highest up the kitchen towel, often 8 cm or more. It climbs less up the newspaper and the cotton, and only 2 or 3 cm up printer paper. It does not climb the plastic at all.",
+   "why": "Absorbent materials are made of tiny fibres with narrow gaps between them. Water clings to the fibres and is pulled up the gaps. Kitchen towel is loose and fluffy, with many fine gaps. Printer paper is pressed flat, so it has fewer. Plastic has no gaps, so water cannot climb it. Keeping the strip size, the depth and the time the same makes the test fair, so the material is the only thing that changes.",
+   "safety": "Wipe up spills so nobody slips. Food colour can stain, so use an old tray.",
    "time": "20 min"
   },
   {
    "id": "e2",
-   "title": "Which paper makes the strongest bag?",
+   "title": "Which paper is strongest?",
    "day": 5,
-   "question": "Which kind of paper makes the strongest bag?",
+   "question": "Which paper holds the most coins before it tears?",
    "need": [
-    "newspaper, printer paper and brown kraft paper",
-    "glue or tape",
-    "string",
-    "about 50 one-rupee coins or marbles",
-    "a door knob or hook"
+    "strips 2 cm wide and 15 cm long of toilet paper, a paper napkin and a kitchen towel, two of each",
+    "a heavy book",
+    "a paper clip bent into a hook, and tape",
+    "a small plastic bag with handles",
+    "about 80 one-rupee coins of the same design, or a cup of dry rice and a tablespoon"
    ],
    "steps": [
-    "Make three bags the same size (about 15 cm by 10 cm) and the same way, one from each paper.",
-    "Fix a string handle to each in the same way.",
-    "Hang the first bag from the door knob.",
-    "Drop in coins one at a time, gently, counting, until the bag tears.",
-    "Write down the number of coins.",
-    "Repeat with the other bags. If you can, make a second set and test again."
+    "Check each strip for tiny tears. Use only strips with none.",
+    "Lay the top 3 cm of a strip on the table and put the heavy book on it, so the strip hangs over the edge.",
+    "Fold the bottom 2 cm round the paper clip hook and tape it. Hang the bag on the hook.",
+    "Add coins one at a time, gently, counting out loud, until the strip tears. (With rice, add one level tablespoon at a time.)",
+    "Write down the number.",
+    "Test the second strip of the same paper, then the other papers."
    ],
-   "predict": "Ask: 'Which bag will hold the most coins? How many?'",
-   "observe": "How many coins each bag holds before tearing, and where it tears (often at the handle or the glued edge).",
-   "why": "Paper is a mat of tangled plant fibres. Brown kraft paper has long, strong fibres pressed tightly together, so it holds more. Newspaper has short fibres and is thin. A test repeated gives more reliable results: if one bag tore early because of a bad glue joint, the second try shows it.",
-   "safety": "Drop coins gently and keep feet clear.",
+   "predict": "Ask: 'Which strip will hold the most coins? About how many?'",
+   "observe": "Toilet paper strips tear first, often after about 15 coins. Paper napkin strips hold more, and kitchen towel strips hold the most, often about 60. Two strips of the same paper usually hold slightly different numbers.",
+   "why": "Paper is a mat of tangled plant fibres. A thicker paper, like kitchen towel, has more fibres across the strip to share the pull, so it holds more. A strip tears at its weakest spot, and every strip has a different weakest spot. That is why two strips of one paper give different numbers, and why we test more than once.",
+   "safety": "Add coins gently and keep feet clear of the bag.",
    "time": "25 min"
   },
   {
@@ -766,7 +768,7 @@
    "day": 2,
    "question": "Which materials can the soil break down?",
    "need": [
-    "a large pot or tub of damp garden soil",
+    "a large pot or tub of damp soil, from a potted plant or a nursery bag",
     "small pieces of banana peel, cotton rag, newspaper, plastic bag, foil and a leaf",
     "6 lolly sticks and a marker",
     "a spoon"
@@ -776,12 +778,12 @@
     "Mark each with a labelled lolly stick.",
     "Keep the soil damp, not soaking, in a shady place.",
     "On Day 5, check only the banana peel.",
-    "On Day 8 (about two weeks later if you can wait), dig everything up and compare."
+    "On Day 8, dig everything up and compare. If you can, wait until two weeks have passed since you buried them."
    ],
    "predict": "Write your child's prediction for each piece: gone, changed, or the same.",
-   "observe": "The banana peel and leaf turn brown, soft and broken; the newspaper and cotton go soft and start to fall apart; the plastic and foil look almost the same.",
-   "why": "Bacteria, fungi and small animals like worms eat materials that came from living things recently: peel, leaves, paper and cotton. These are biodegradable. Most plastics are made of long chains that these tiny living things cannot easily eat, so they stay for a very long time and break only into smaller pieces. Foil is a metal and does not rot at all.",
-   "safety": "Wash hands after handling soil. Use garden soil, not soil from a drain or dump.",
+   "observe": "The banana peel and leaf turn brown, soft and broken. The newspaper and cotton go soft and may start to fall apart. The plastic and foil look almost the same.",
+   "why": "Bacteria, fungi and small animals like worms feed on materials made from living things: peel, leaves, paper and cotton. These are biodegradable. Most plastics are made of long chains that these living things cannot easily break down, so they stay for a very long time and only break into smaller pieces. Foil is a metal and does not rot.",
+   "safety": "Wash hands after handling soil. Use soil from a plant pot or a nursery, not from a drain or a dump.",
    "time": "15 min to set up + 2 weeks"
   }
  ],
@@ -843,7 +845,7 @@
    ],
    "steps": [
     "The grown-up is the director.",
-    "The child plays each material auditioning for a job, boasting a property and admitting a weakness.",
+    "The child plays each material trying out for a job, boasting about a property and admitting a weakness.",
     "The director asks a hard question.",
     "The child chooses the winner and gives a reason.",
     "Change the job and see if the winner changes."
@@ -860,7 +862,7 @@
    "Get three bags: a cloth bag, a paper bag, and a jute or plastic bag.",
    "Decide what a good vegetable bag needs: strong, doesn't leak when vegetables are wet, can be reused.",
    "Test strength: add potatoes one at a time and count how many before it tears or stretches badly.",
-   "Test waterproofness: pour one spoon of water inside and look underneath.",
+   "Test whether it leaks: pour one spoon of water inside and look underneath.",
    "Fill in a table and choose a winner, with reasons.",
    "Talk about how many times each bag could be used again."
   ],
@@ -888,7 +890,7 @@
    "Carried on a truck: roll again",
    "Too wet! Back 1",
    "Spun, melted or baked",
-   "A furnace: go forward 2 (glass and brick only; others back 1)",
+   "A furnace: sand and clay go forward 2, the others go back 1",
    "Shaped into an object",
    "Tested: is it strong? Say a property",
    "Sold in a shop",
@@ -898,13 +900,13 @@
    "Given to a kabadiwala",
    "Recycled: forward 3",
    "Thrown in a river: miss a turn",
-   "Eaten by bacteria (cotton and wood only: forward 2)",
+   "Broken down by bacteria and fungi: cotton and wood go forward 2",
    "Buried for a long time",
    "BACK TO THE EARTH"
   ]
  },
  "big": [
-  "If every made material started as a natural one, is anything really 'unnatural'?",
+  "Every made material started as a natural one. So is anything really unnatural?",
   "Is a material that lasts for ever a good thing or a problem?",
   "Can you tell what something can do just by looking at it?",
   "Who should test whether a company's product does what it says?",
@@ -913,25 +915,25 @@
  "challenge": [
   {
    "q": "People say paper bags are always better for the Earth than plastic bags. Is that true?",
-   "hint": "It depends on how many times a bag is used. A study for England's Environment Agency (2011) found that making a paper bag uses more energy than a thin plastic one, so a paper bag must be reused a few times to do better, and a cotton bag many times more. But paper rots and thin plastic doesn't. Ask: what matters more, how it is made or where it ends up?"
+   "hint": "It depends on how many times a bag is used. A 2011 study for England's Environment Agency found that making a paper bag harms the climate more than making a thin plastic one. So a paper bag must be used about 3 times to do better, and a cotton bag more than 100 times. But paper rots and thin plastic doesn't. Ask: what matters more, how a bag is made or where it ends up?"
   },
   {
    "q": "Some packets say 'biodegradable'. Does that mean they will vanish in your garden?",
-   "hint": "Not always. Some only break down in very hot factory compost. A large study in Britain in 2022 found that many plastics labelled 'home compostable' had not fully broken down in people's home compost heaps. Ask: what should a label have to prove?"
+   "hint": "Not always. Some only break down in very hot compost at a factory. A large study in Britain in 2022 found that many plastics labelled 'home compostable' had not fully broken down in people's home compost. Ask: what should a label have to prove?"
   },
   {
    "q": "Is glass a natural or a made material?",
-   "hint": "People make glass by melting sand. But glass also forms naturally: obsidian is glass made by volcanoes, and lightning hitting sand can make glass tubes. So the line between natural and made is fuzzier than it looks."
+   "hint": "People make glass by melting sand. But glass also forms in nature. Obsidian is a black glass made when lava from a volcano cools quickly, and lightning striking sand can make glass tubes. So the line between natural and made is not always sharp."
   }
  ],
  "perspectives": [
   {
-   "who": "A cotton farmer in Vidarbha",
-   "view": "Before a kurta reaches a shop, a farmer grew the cotton, often in hard heat, and was paid only a small part of what the kurta costs. Ask: who in the journey of a material gets the most money, and who does the most work?"
+   "who": "A cotton farmer in Telangana",
+   "view": "Before a kurta reaches a shop, a farmer grew the cotton, often in great heat, and was paid only a small part of what the kurta costs. Ask: in the journey of a material, who gets the most money, and who does the most work?"
   },
   {
    "who": "An earthworm",
-   "view": "To a worm, a banana peel is dinner and a plastic bag is a wall. Ask: if worms could choose our materials, what would they choose?"
+   "view": "Earthworms feed on dead leaves and peel in the soil. To a worm, a banana peel is food and a plastic bag is a wall they cannot get through. Ask: if worms could choose our materials, what would they choose?"
   },
   {
    "who": "An engineer designing a bridge",
@@ -942,8 +944,8 @@
   {
    "id": "v1",
    "who": "The wootz steel makers of ancient South India and Sri Lanka",
-   "idea": "More than 2,000 years ago, ironworkers in South India and Sri Lanka melted iron with plant material inside small sealed clay pots (crucibles) to make a high-quality steel. It was traded across the Arabian Sea and forged in the Middle East into famous 'Damascus' blades with wavy patterns.",
-   "then": "Travellers and traders admired the steel; for a long time European smiths could not copy it.",
+   "idea": "About 2,000 years ago, ironworkers in South India and Sri Lanka heated iron with plant material inside small sealed clay pots, called crucibles, to make a high-quality steel. It was traded across the Arabian Sea, and smiths in the Middle East made it into famous 'Damascus' blades with wavy patterns.",
+   "then": "Travellers and traders admired the steel. For a long time European smiths could not copy it.",
    "now": "Archaeologists have found crucible steel sites in South India and Sri Lanka, and metallurgists have studied the blades and accept their Indian and Sri Lankan origin. The makers' names are lost, and the skill died out by the 1800s.",
    "status": "accepted",
    "ask": "The makers of wootz wrote no books, but their steel travelled the world. How do we know what people knew, if they didn't write it down?",
@@ -952,7 +954,7 @@
   {
    "id": "v2",
    "who": "Stephanie Kwolek (1923–2014) and Charles Smullen, DuPont, USA",
-   "idea": "In 1964–65, Kwolek was looking for a light, strong fibre. She made a polymer liquid that was cloudy and thin, when good ones were usually clear and thick. Instead of throwing it away, she asked Smullen, who ran the spinning machine, to spin it. The fibre turned out, for its weight, far stronger than steel. It became Kevlar, used in protective vests, gloves and ropes.",
+   "idea": "In 1964 and 1965, Kwolek was looking for a light, strong fibre. She made a liquid that was cloudy and runny, when good ones were usually clear and thick. Instead of throwing it away, she asked Smullen, who ran the spinning machine, to spin it. The thread was, for its weight, far stronger than steel. It became Kevlar, used in protective vests, gloves and ropes.",
    "then": "Smullen at first did not want to spin it, worried it would clog the machine. Once tested, the fibre amazed the company.",
    "now": "Kwolek is honoured as a great inventor and was inducted into the US National Inventors Hall of Fame. Smullen's part is less often told.",
    "status": "accepted",
@@ -963,7 +965,7 @@
    "id": "v3",
    "who": "Danielle Purkiss and colleagues, University College London, 'The Big Compost Experiment' (2022)",
    "idea": "Thousands of people in Britain tested packaging labelled 'compostable' or 'home compostable' in their own compost heaps. Many of the items had not fully broken down when people checked.",
-   "then": "Companies selling the packaging said it was tested under standard conditions; the scientists said home compost heaps are often cooler and different from test conditions.",
+   "then": "Packaging is labelled home compostable after tests in controlled conditions. Real home compost heaps are often cooler and less even than those tests.",
    "now": "Scientists are still arguing about which labels are trustworthy and how they should be tested. Many agree that 'compostable' plastic needs the right conditions, which most homes don't have.",
    "status": "debated",
    "ask": "The company tested its packet, and ordinary people tested it too, and they got different answers. Whose test would you trust more, and why?",
@@ -974,24 +976,24 @@
   "title": "The Cloudy Liquid",
   "text": [
    "I was born in a glass bottle on a hot afternoon in 1965, in a laboratory in Delaware, in America. My mother was a chemist called Stephanie Kwolek. That is how I think of her, anyway, though she would have laughed at being called the mother of a bottle of liquid.",
-   "Stephanie was looking for something that did not exist yet. Her company wanted a new fibre for car tyres: a thread lighter than steel wire, but just as strong, so cars could be lighter and use less fuel. For months she had been mixing long chain-like molecules into liquids and sending them to be spun into threads. Most of the threads were weak. Some fell apart. None was the one.",
+   "Stephanie was looking for something that did not exist yet. Her company wanted a new fibre for car tyres: a thread lighter than steel wire, but just as strong, so cars could be lighter and use less fuel. For months she had been mixing long, chain-like molecules into liquids and sending them to be spun into threads. Most of the threads were weak. None was the one she wanted.",
    "Then she made me.",
-   "I was not what anyone expected. A good liquid for spinning, everybody knew, was clear and thick, like honey. I was thin and runny, like buttermilk. And I was cloudy. When Stephanie stirred me, I shimmered, opal-grey, as if there were clouds moving inside me.",
-   "A chemist walking past the bench looked over her shoulder. 'That's spoiled,' he said. 'You've got bits of something stuck in it. Throw it out and start again.'",
-   "Stephanie held me up to the window. The light came through me, broken into soft shining streaks. She did not throw me out.",
+   "I was not what anyone expected. A good liquid for spinning, everybody knew, was clear and thick, like honey. I was thin and runny, like buttermilk. And I was cloudy. When Stephanie stirred me, I shimmered, grey and pearly.",
+   "Most chemists would have thrown me out. They would have thought tiny bits of dirt were floating in me, and started again.",
+   "Stephanie held me up to the window and looked at me for a long time. She did not throw me out.",
    "Instead, she did something careful. She filtered me, pouring me slowly through a fine filter to catch any bits of dirt. If I were cloudy because of rubbish, the rubbish would stay in the filter and I would come out clear. I went through. Nothing was left behind. I came out just as cloudy as before.",
    "So the cloudiness was not dirt. It was me. It was the way my long molecules had lined up together, side by side, like matchsticks in a box all pointing the same way.",
-   "The next step was the spinneret: a machine with a metal plate full of tiny holes, which pushed liquid through to make threads, like the holes of a sev maker pushing out dough. It was run by a man called Charles Smullen. Stephanie carried me to him.",
+   "The next step was the spinning machine. It pushed liquid through a metal plate full of tiny holes to make threads, like an idiyappam press pushing out strings of dough. It was run by a man called Charles Smullen. Stephanie carried me to him.",
    "Charles looked at me and shook his head. 'I'm not putting that in my machine,' he said. 'It's cloudy. It's got particles in it. It'll block all the holes and I'll spend a week cleaning it.'",
-   "Stephanie told him about the filter. She asked again. He said no again. She asked a third time, and kept asking, politely and stubbornly, for days. I sat in my bottle on her bench and waited.",
+   "Stephanie told him about the filter. He still said no. She kept asking, politely and stubbornly. I sat in my bottle on her bench and waited.",
    "At last Charles sighed and said, 'All right. Once.'",
-   "He poured me into the machine. I remember the squeeze of the tiny holes, the long fall into the bath below, and the strange feeling of becoming something new: not a liquid any more, but a thread, fine and golden-yellow, wound round and round a spool.",
-   "Then they tested me. They pulled me in a machine that measures how hard you must pull before a thread snaps. They pulled, and pulled, and I did not snap. They checked the machine to see if it was broken. It wasn't. They tested me again. For my weight, I was about five times stronger than steel. And I was stiff, so stiff that I hardly stretched at all.",
+   "He poured me into the machine. I remember the squeeze of the tiny holes, and the strange feeling of becoming something new: not a liquid any more, but a thread, fine and golden-yellow, wound round and round a spool.",
+   "Then they tested me. They pulled me in a machine that measures how hard you must pull before a thread snaps. They pulled, and pulled, and I did not snap. They checked the machine to see if it was broken. It wasn't. They tested me again. For my weight, I was about five times stronger than steel. And I was stiff: I hardly stretched at all.",
    "Nobody said 'spoiled' any more.",
    "Stephanie and her colleagues kept working on me and my cousins, and the family of threads that grew from me became known as Kevlar. Today it is woven into vests that protect police officers and soldiers, into gloves that keep cooks' and glassworkers' fingers safe from sharp edges, into ropes that hold ships, and into the skins of spacecraft. Many people are alive because of it.",
-   "But I like to remember the bottle on the bench, and the window, and the cloudy light. Everybody who looked at me saw something wrong. Only one person asked what I could do. And only one more person, after saying no three times, was willing to find out."
+   "But I like to remember the bottle on the bench, and the window, and the cloudy light. Most people would have seen something wrong. Stephanie asked what I could do. And Charles, after first saying no, was willing to find out."
   ],
-  "epiphany": "You cannot know a material's properties by looking; you find out by testing. The cloudy, runny liquid looked 'wrong' against everyone's rule, but when it was filtered (a test), and then spun and pulled (more tests), it proved to be one of the strongest fibres ever made. The turn is the pulling machine: the material speaks for itself. Underneath: a woman scientist trusting her own careful observation, and a technician whose help made the discovery possible.",
+  "epiphany": "You cannot know a material's properties by looking. You find out by testing. The cloudy, runny liquid broke everyone's rule, but when it was filtered (a test), and then spun and pulled (more tests), it proved to be one of the strongest fibres ever made. The turn is the pulling machine. Underneath: a woman scientist trusting her own careful checking, and a technician whose help made the discovery possible.",
   "ask": [
    "Why did people think the liquid was spoiled?",
    "What did Stephanie do to check whether the cloudiness was dirt? What did it show?",
@@ -1003,21 +1005,21 @@
  "ideas": [
   {
    "idea": "Every 'made' material began as a natural one.",
-   "more": "Glass is melted sand, steel is changed rock, plastic is changed oil, paper is mashed wood. People don't make materials from nothing; they transform what the Earth gives."
+   "more": "Glass is melted sand. Steel is made from iron, which comes from rock. Plastic is made from oil, and paper from mashed wood. People don't make materials from nothing. They change what the Earth gives."
   },
   {
    "idea": "You find out what a material can do by testing it fairly, not by how it looks.",
    "more": "Change one thing, keep the rest the same, measure, repeat. The cloudy liquid looked useless and was one of the strongest fibres ever made."
   },
   {
-   "idea": "Some materials the Earth can take back, and some it can't, for a very long time.",
-   "more": "Bacteria and fungi recycle peel, leaves, cotton and paper. Most plastics, glass and metals stay. Choosing a material also chooses where it ends up."
+   "idea": "Tiny living things break down some materials quickly. Others last a very long time.",
+   "more": "Bacteria and fungi break down peel, leaves, cotton and paper. Most plastics, glass and metals stay for a very long time. Choosing a material also chooses where it ends up."
   }
  ],
  "unknowns": [
-  "Nobody knows for sure how the old Indian and Sri Lankan smiths controlled every step of wootz steel; metallurgists have made similar steel, but whether they have matched every secret is still argued about.",
+  "Nobody knows for sure how the old smiths of South India and Sri Lanka controlled every step of making wootz steel. Metallurgists have made similar steel, but whether they have matched it exactly is still argued about.",
   "How long do the tiny broken bits of plastic stay in soil and sea, and what do they do to living things? Scientists are still measuring.",
-  "What undiscovered materials are waiting in mixtures nobody has tried yet? Chemists find new ones every year, and many good ones, like Kevlar, were surprises."
+  "What new materials will chemists find next? Many good ones, like Kevlar, were surprises found by testing something that looked useless."
  ],
  "books": [
   {
@@ -1052,24 +1054,24 @@
    "a": "Glass: sand is melted in a very hot furnace and shaped. Brick: clay is dug, shaped, dried and baked in a kiln."
   },
   {
-   "q": "What does absorbent mean? Which material in our test was most absorbent?",
-   "a": "It soaks up water. Usually the paper towel or cotton."
+   "q": "What does absorbent mean? Which material in our climbing water test was most absorbent?",
+   "a": "It soaks up water. Usually the kitchen towel: the water climbed highest up it."
   },
   {
-   "q": "How did we make the thirsty test fair?",
-   "a": "Same size pieces, same dipping time, same dripping time; only the material changed."
+   "q": "How did we make the climbing water test fair?",
+   "a": "Every strip was the same size, dipped the same depth and timed for the same 5 minutes. Only the material changed."
   },
   {
    "q": "Why do scientists repeat a test?",
-   "a": "So one mistake or accident doesn't fool them; repeated results are more reliable."
+   "a": "So one mistake or accident doesn't fool them. Results that agree are more reliable."
   },
   {
    "q": "What happened to the plastic and the banana peel in the burial test? Why?",
-   "a": "The peel rotted because tiny living things ate it (biodegradable); the plastic hardly changed because they can't eat it easily."
+   "a": "The peel rotted because tiny living things broke it down (it is biodegradable). The plastic hardly changed because they cannot easily break it down."
   },
   {
    "q": "How did Stephanie Kwolek find out her cloudy liquid was special?",
-   "a": "She tested it: filtered it, then had it spun into a thread and pulled, and it was very strong."
+   "a": "She tested it. She filtered it, then had it spun into a thread and pulled, and the thread was very strong."
   }
  ]
 }

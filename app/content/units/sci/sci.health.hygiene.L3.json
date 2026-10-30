@@ -831,11 +831,9 @@
     },
     {
      "t": "truefalse",
-     "p": "If your hands look clean, there are no germs on them.",
-     "a": false,
-     "why": "False. Germs are far too small to see. In the bread test, hands that looked clean still left more mould than hands washed with soap. Looking is not a test for germs.",
-     "context": "In the bread test, slices of bread were touched by unwashed hands, by hands rinsed in water, and by hands washed with soap. Each slice was sealed in a bag for a week.",
-     "how": "e4"
+     "p": "A small cut or scrape on your skin can let germs into your body.",
+     "a": true,
+     "why": "True. Dry, unbroken skin is a strong wall against germs. A cut is a gap in that wall. That is why we wash a scrape with clean water and cover it until it heals."
     },
     {
      "t": "mcq",
@@ -896,10 +894,12 @@
     },
     {
      "t": "write",
-     "p": "Kavya, a girl in Class 3, always washes her hands after reading a book, but forgets before eating lunch. What would you tell her? Give your reason.",
+     "p": "Kavya, a girl in Class 3, says: 'I will just stop touching my face. Then I won't need to wash my hands before eating.' What would you tell her? Use what you found in the face-touch count.",
      "lines": 3,
-     "a": "A strong answer tells Kavya to wash before eating, because her hands carry germs from everything she touched straight to her mouth. It says that books rarely carry germs that make us ill, so washing after reading matters much less.",
-     "why": "Washing matters most at the moments when germs can travel to the mouth, or from waste to other people: before food and after the toilet."
+     "a": "A strong answer says that people touch their faces many times an hour without noticing, so Kavya cannot simply stop. It adds that eating puts her fingers in her mouth anyway, so germs on her hands would get in. Washing before food is the sure way.",
+     "why": "In a 2015 study, students touched their faces about 23 times an hour. Most touches happen without our noticing, so washing at the key moments works better than trying not to touch.",
+     "context": "In the face-touch count, you and a grown-up secretly counted how often each of you touched your face in 10 minutes.",
+     "how": "a1"
     },
     {
      "t": "mcq",
@@ -941,9 +941,9 @@
     },
     {
      "t": "odd",
-     "p": "Which one is the odd one out? The flu virus, the cholera germ, the bacteria that make curd, the malaria germ. Say why.",
-     "a": "the bacteria that make curd",
-     "why": "The bacteria that make curd are helpful. The other three are germs that can make us ill. Most microbes are like the curd bacteria: harmless or helpful."
+     "p": "Which one is the odd one out? Covering cut fruit, boiling drinking water, spraying room freshener, sneezing into your elbow. Say why.",
+     "a": "spraying room freshener",
+     "why": "The other three each block a road that germs travel on: flies, water and sneeze drops. A room freshener only changes the smell. Long ago people thought bad smells caused illness, but germs, not smells, make us ill."
     },
     {
      "t": "mcq",
@@ -1119,11 +1119,11 @@
      "views": [
       {
        "who": "Priya, a mother of a child at the school",
-       "says": "Buy antibacterial soap. It says on the bottle that it kills 99 out of 100 germs, so it must be safer."
+       "says": "Antibacterial soap kills germs as well as washing them off. Children often rinse in a hurry, so killing the germs that are left gives extra safety."
       },
       {
        "who": "A scientist who studies hygiene",
-       "says": "Tests at home found antibacterial soap cleans hands about as well as plain soap. Plain soap works by lifting germs off, not by killing them."
+       "says": "Studies in homes found antibacterial soap prevents about as much illness as plain soap. Plain soap lifts germs off. Some germ-killing chemicals were banned from hand soap in the USA in 2016, because they gave no extra benefit."
       },
       {
        "who": "Selvi, the school's head teacher",
@@ -1132,7 +1132,7 @@
      ],
      "ask": "Which soap would you choose for the school? Give your reason from this unit. Then say one thing another person has right.",
      "lines": 5,
-     "a": "A strong answer picks a side and gives evidence, for example that soap lifts oil and germs off and the rinse carries them away, so killing is not needed. It admits a fair point from another side, for example that Priya wants the children safe. It may say that soap at every tap, used for 20 seconds, matters most.",
+     "a": "A strong answer picks a side and gives evidence, for example that soap lifts oil and germs off and the rinse carries them away, so killing is not needed. It admits a fair point from another side, for example that Priya is right that children often wash in a hurry. It may say that soap at every tap, used for 20 seconds, matters most.",
      "why": "Many families believe killing germs is what makes soap work. The evidence says lifting them off does the job. The real choice is about cost, and about how many children wash well."
     },
     {
@@ -1372,20 +1372,20 @@
     },
     {
      "t": "order",
-     "p": "Put these discoveries in the order they happened, earliest first.",
+     "p": "Put these steps in order, to show how soap cleans an oily hand.",
      "items": [
-      "Fracastoro writes about invisible seeds of disease",
-      "Leeuwenhoek sees 'little animals' through his lenses",
-      "Semmelweis puts a hand-washing basin by the ward door",
-      "Koch grows the cholera germ in his laboratory"
+      "The soap tails push into the oil on your skin",
+      "Rubbing breaks the oil into tiny drops",
+      "Soap molecules wrap each drop, heads facing out to the water",
+      "The rinse water carries the wrapped drops, and the germs in them, down the drain"
      ],
      "a": [
-      "Fracastoro writes about invisible seeds of disease",
-      "Leeuwenhoek sees 'little animals' through his lenses",
-      "Semmelweis puts a hand-washing basin by the ward door",
-      "Koch grows the cholera germ in his laboratory"
+      "The soap tails push into the oil on your skin",
+      "Rubbing breaks the oil into tiny drops",
+      "Soap molecules wrap each drop, heads facing out to the water",
+      "The rinse water carries the wrapped drops, and the germs in them, down the drain"
      ],
-     "why": "1546, then the 1670s, then 1847, then 1884. Germ theory grew slowly over more than 300 years, each person building on others."
+     "why": "Each step needs the one before. That is why rubbing for 20 seconds matters: without it, the oil stays in big patches that the soap cannot wrap."
     },
     {
      "t": "write",
@@ -1420,12 +1420,10 @@
     },
     {
      "t": "write",
-     "p": "In the turmeric test, where did the yellow go when you washed with soap? What does that tell you about where germs go when you wash?",
+     "p": "Ammu says: 'Hand sanitiser kills germs, and soap only washes them off. So sanitiser is always better.' After eating a greasy vada, which would you use, and why? Then say when Ammu's sanitiser is a good choice.",
      "lines": 4,
-     "how": "e1",
-     "a": "A strong answer says the yellow went down the drain with the rinse water. Germs on hands mostly go the same way: the soap lifts them off and the water carries them away, mostly still alive.",
-     "why": "This is why the drain and the toilet need to be kept apart from drinking water. The germs are moved, not destroyed.",
-     "context": "In the turmeric test, you rub oil and turmeric on your hands as pretend germs, then wash them in different ways."
+     "a": "A strong answer chooses soap and water for greasy hands, because soap lifts the oil the germs sit in, and sanitiser does not remove oil or dirt. It adds that some tummy viruses are not killed well by sanitiser. It then gives Ammu a fair point: sanitiser is useful when hands look clean and there is no soap or water, such as on a bus.",
+     "why": "Health experts say to wash with soap and water when you can, and use sanitiser when you cannot. Killing is not always better than removing."
     }
    ]
   }

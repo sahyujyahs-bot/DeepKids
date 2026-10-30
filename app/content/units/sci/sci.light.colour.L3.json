@@ -816,17 +816,15 @@
    "items": [
     {
      "t": "mcq",
-     "p": "You put a full glass of water on a sunny windowsill. Colours appear on the floor. Where did the colours come from?",
+     "p": "Look at a white part of a phone screen through a magnifying glass. You see tiny red, green and blue dots, but no white dots. Why does the screen look white from far away?",
      "opts": [
-      "They were in the sunlight all along",
-      "The glass was painted",
-      "The floor",
-      "The water is coloured"
+      "Red, green and blue light reaching your eye together look white",
+      "The glass of the screen is white",
+      "The dots turn white when you step back",
+      "White dots hide behind the coloured ones"
      ],
      "a": 0,
-     "why": "The glass and the water are clear. The water only spread out colours that were already in the sunlight. Picking 'the water is coloured' is a common first idea. Pour the water into a white cup to check.",
-     "context": "Remember Catch a Rainbow on the Floor, where you stood a full glass of water on a sunny sill and found colours on white paper?",
-     "how": "a1"
+     "why": "From far away, the light from many tiny dots arrives in your eye together. Red, green and blue light added together look white, just like the spinning rainbow wheel. Picking 'the glass is white' forgets that the glass is clear: switch the phone off and it looks black."
     },
     {
      "t": "fill",
@@ -894,11 +892,11 @@
     },
     {
      "t": "fill",
-     "p": "A green leaf looks green because it reflects ____ light to our eyes and absorbs most of the other colours.",
+     "p": "A blue school bag looks blue because it reflects ____ light to our eyes and absorbs most of the other colours.",
      "a": [
-      "green"
+      "blue"
      ],
-     "why": "Sunlight has all the colours. The leaf absorbs most of the red and blue light and reflects the green to our eyes."
+     "why": "Sunlight has all the colours. The bag's dye absorbs most of them and sends the blue back to our eyes. In red light, the same bag would look almost black."
     },
     {
      "t": "mcq",
@@ -939,16 +937,10 @@
      "why": "Splitting, mixing and filtering are three things we can do with the colours in light."
     },
     {
-     "t": "mcq",
-     "p": "When is the best time to look for a rainbow in India?",
-     "opts": [
-      "In the early morning or late afternoon, after a monsoon shower",
-      "At noon on a dry summer day",
-      "At midnight",
-      "In the middle of a dust storm"
-     ],
-     "a": 0,
-     "why": "You need the Sun low and behind you, and rain in front of you. At noon the Sun is too high. At midnight there is no sunlight."
+     "t": "truefalse",
+     "p": "Moonlight is sunlight that has bounced off the Moon. True or false: a rainbow can only ever form in the daytime.",
+     "a": false,
+     "why": "False. Bright moonlight shining on rain can make a faint 'moonbow' at night, because moonlight still has all the colours of sunlight. It usually looks pale or white to us, because our eyes see very little colour in dim light."
     },
     {
      "t": "draw",
@@ -1089,8 +1081,7 @@
       "Our eyes stop working"
      ],
      "a": 0,
-     "why": "A leaf looks green by reflecting green light. The red light has almost no green in it, so the leaf reflects very little and looks dark. Picking 'the leaf changes colour' forgets that it is green again in sunlight.",
-     "how": "a1"
+     "why": "A leaf looks green by reflecting green light. The red light has almost no green in it, so the leaf reflects very little and looks dark. Picking 'the leaf changes colour' forgets that it is green again in sunlight."
     },
     {
      "t": "perspective",
@@ -1125,12 +1116,40 @@
      "why": "Infra means below: it is below red. William Herschel found it in 1800 with a thermometer, just past the red end of a spectrum."
     },
     {
-     "t": "fill",
-     "p": "Light just past the violet end of the rainbow, which bees can see and we cannot, is called ____.",
-     "a": [
-      "ultraviolet"
+     "t": "sort",
+     "p": "Sort these. Is light of different colours being added together, or are some colours being taken away?",
+     "cats": [
+      "Colours of light added together",
+      "Some colours taken away"
      ],
-     "why": "Ultra means beyond: it is beyond violet. Johann Ritter found it in 1801. Many flowers have ultraviolet patterns that guide bees to nectar."
+     "items": [
+      [
+       "a red torch and a green torch shining on one spot of a white wall",
+       "Colours of light added together"
+      ],
+      [
+       "a rainbow disc spinning fast",
+       "Colours of light added together"
+      ],
+      [
+       "red cellophane held in a sunbeam",
+       "Some colours taken away"
+      ],
+      [
+       "mixing yellow and blue paint",
+       "Some colours taken away"
+      ],
+      [
+       "a green leaf in sunlight",
+       "Some colours taken away"
+      ],
+      [
+       "a blue shirt in sunlight",
+       "Some colours taken away"
+      ]
+     ],
+     "a": "see items",
+     "why": "Adding lights makes things brighter, and all the colours together look white. Red and green light together even look yellow. Filters, paints, leaves and cloth all absorb some colours, so less light comes back. This is why mixing paints gives mud, while mixing lights gives white."
     },
     {
      "t": "mcq",
@@ -1182,11 +1201,10 @@
     },
     {
      "t": "write",
-     "p": "In the story The Glass Raindrop, Zainab said, \"It is not in the ball. It is where you put your eye.\" What did she mean? Use what you know about rainbows.",
+     "p": "In a sari shop, the shopkeeper often carries a sari to the door to show a customer the colour in daylight. Why might the colour look different under the shop's tube lights?",
      "lines": 4,
-     "a": "A strong answer says that each drop sends a different colour in each direction. So the colour you see depends on where your eye is. When Zainab moved her head, she caught a different colour from the same ball.",
-     "why": "One drop gives one colour to one place. That is why every person sees their own rainbow.",
-     "context": "The Glass Raindrop is this unit's story. Zainab, a glassblower's daughter, holds a glass ball of water in a sunbeam for a scholar."
+     "a": "A strong answer says that a thing's colour comes from the light it reflects. Sunlight has all the colours in it, but a tube light gives out more of some colours and less of others. So the cloth has different light to reflect, and can look a little different. Daylight shows the colour the cloth has in the sun.",
+     "why": "Colour is not only in the thing. It depends on the light falling on the thing too. That is also why a green leaf looks dark under red light."
     },
     {
      "t": "draw",
@@ -1298,25 +1316,15 @@
      "t": "write",
      "p": "Kamal al-Din al-Farisi used a glass ball of water as a model raindrop. Why was a big model useful? What is one thing a model cannot tell you?",
      "lines": 4,
-     "a": "A strong answer says that a real drop is tiny and falls in a moment, while a big glass ball holds still, so you can study where each colour comes out. It then says that a model can be wrong in some way, for example the glass might bend light a little, so you must check it against real rainbows.",
+     "a": "A strong answer says that a real drop is tiny and falls in a moment, while a big glass ball holds still, so you can study where each colour comes out. It then says that a model can be wrong in some way, for example real raindrops are tiny and get squashed out of round as they fall, so you must check the model against real rainbows.",
      "why": "Models let scientists study what is too small, too fast or too far. But a model must be checked against the real thing."
     },
     {
-     "t": "order",
-     "p": "Put these discoveries about colour in order, earliest first.",
-     "items": [
-      "Herschel finds infrared",
-      "al-Farisi explains the rainbow with a glass ball",
-      "Cecilia Payne shows stars are mostly hydrogen and helium",
-      "Newton splits sunlight with a prism"
-     ],
-     "a": [
-      "al-Farisi explains the rainbow with a glass ball",
-      "Newton splits sunlight with a prism",
-      "Herschel finds infrared",
-      "Cecilia Payne shows stars are mostly hydrogen and helium"
-     ],
-     "why": "About 1300, then the 1660s, then 1800, then 1925. Discovery builds over centuries, in many countries."
+     "t": "draw",
+     "p": "Draw a big raindrop with a ray of sunlight going in. Show the light bending as it enters, bouncing off the back of the drop, and bending again as it comes out. Show red and violet coming out at different angles.",
+     "a": "The ray enters the upper part of the drop and bends. It bounces off the back inside the drop. It comes out lower down, bending again, and spreads into colours. Red and violet leave at slightly different angles, so they go to different places.",
+     "why": "Bend in, bounce off the back, bend out. Because each colour bends by its own amount, they leave the drop at different angles. That is why a viewer sees red from higher drops and violet from lower ones.",
+     "art": "A large empty circle for a raindrop, with a small Sun in the top left corner."
     },
     {
      "t": "fill",
@@ -1340,7 +1348,7 @@
     },
     {
      "t": "write",
-     "p": "Karthik, a boy in Class 4, says: 'The rainbow is out there in the sky, in one place, and everyone sees the same one.' Give two pieces of evidence against this.",
+     "p": "Anjali, a girl in Class 4, says: 'The rainbow is out there in the sky, in one place, and everyone sees the same one.' Give two pieces of evidence against this.",
      "lines": 5,
      "a": "A strong answer gives two pieces of evidence. First, when you walk towards a rainbow, it moves with you, so it is not in one place. Second, in the spray rainbow test, when I took two steps sideways, the rainbow moved too. It explains why: each drop sends each colour in only one direction, so a person standing somewhere else gets colours from different drops.",
      "why": "A rainbow depends on where the viewer stands. Each person sees their own.",
@@ -1354,7 +1362,7 @@
      "a": "A strong answer changes only the water: a full glass, then half full. It keeps the same glass, the same spot on the sill and nearly the same time of day. It tries each one at least twice, because one try can be a fluke. It says what it will look at, such as how wide the strip is.",
      "why": "A fair test changes only one thing. Changing the glass or the time too would mix up the causes.",
      "context": "Remember Catch a Rainbow on the Floor, where you stood a full glass of water on a sunny sill and found colours on white paper?",
-     "how": "e1"
+     "how": "a1"
     },
     {
      "t": "perspective",

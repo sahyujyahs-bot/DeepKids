@@ -1352,8 +1352,8 @@
        "a stretchy silk web that catches flies without breaking"
       ],
       [
-       "You",
-       "the tendon at the back of your ankle"
+       "A cheetah",
+       "a springy backbone that bends and springs back as they run"
       ]
      ],
      "a": "pairs as given",
@@ -1560,7 +1560,7 @@
     },
     {
      "t": "mcq",
-     "p": "Robert Hooke said every springy thing follows his rule, however far you stretch it: double the pull, double the stretch. Which result from a coin test would show this is not always true?",
+     "p": "Robert Hooke wrote that every springy thing follows one rule: double the pull, double the stretch. Which result from a coin test shows the rule does not hold for big stretches?",
      "opts": [
       "Near the end, each 5 coins stretched the band much more than before",
       "Every 5 coins added exactly 1 cm",
@@ -3411,14 +3411,14 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Which of these is hard but still elastic?",
+   "p": "You hold a steel ruler flat on a table, bend its free end down a little and let go. It flicks straight again. What does this show?",
    "opts": [
-    "The steel spring in a clothes peg",
-    "A lump of wet clay",
-    "A cotton ball"
+    "A hard thing can still be elastic",
+    "Only soft things are elastic",
+    "The ruler has stayed changed"
    ],
    "a": 0,
-   "why": "The peg's steel spring is hard, but it springs back every time you squeeze the peg. Clay stays changed. A cotton ball is soft, and squashed cotton mostly stays squashed.",
+   "why": "The steel ruler is hard, but it went back to its old shape, so it is elastic. Elastic means springing back, not being soft. 'Stayed changed' is the opposite of what the ruler did.",
    "outcome": 0
   },
   {
@@ -3463,14 +3463,14 @@
   },
   {
    "t": "mcq",
-   "p": "A spring sprang back after a gentle pull. After a very hard pull, it stays long. What did the hard pull do?",
+   "p": "A rubber band held 30 coins. You take the coins off, and now the band is 2 cm longer than before. What does this tell you?",
    "opts": [
-    "It went past the spring's elastic limit",
-    "It made the spring more elastic",
-    "It made the spring heavier"
+    "The coins pulled it past its elastic limit",
+    "The band has become more elastic",
+    "The coins added some rubber to it"
    ],
    "a": 0,
-   "why": "Past the elastic limit, a spring stays stretched. It is now less elastic, not more.",
+   "why": "An elastic band goes all the way back. This one stayed longer, so the coins pulled it past its elastic limit. It is now less elastic, not more.",
    "outcome": 2
   },
   {
@@ -3560,14 +3560,14 @@
   },
   {
    "t": "mcq",
-   "p": "A pen spring was pulled too far and now rests at a new, longer length. Were any of its atoms lost?",
+   "p": "Why does a spring that was pulled past its elastic limit stay long?",
    "opts": [
-    "No. Rows of atoms slipped and settled in new places",
-    "Yes, some atoms fell out",
-    "Yes, some atoms were used up"
+    "Rows of its atoms slipped into new places and stay there",
+    "Some of its atoms fell out",
+    "It got colder and shrank back the wrong way"
    ],
    "a": 0,
-   "why": "Past the limit, rows of atoms slip and rest beside new neighbours. Every atom is still there, just in a new place.",
+   "why": "Past the limit, rows of atoms slip and settle beside new neighbours. Every atom is still there, just in a new place, so the new shape stays.",
    "outcome": 5
   },
   {

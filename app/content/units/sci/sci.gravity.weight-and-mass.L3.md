@@ -746,13 +746,13 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
    **Answer:** A strong answer picks a side and gives a reason: newtons tell the truth about what the scale measures, while kilograms are easy and match what we really want to know, the mass. It answers back fairly, for example that a kilogram scale would be wrong on the Moon, or that newtons would confuse shoppers.. *Why:* There is no single right answer. A scale measures a push, but it is built to show mass, because on Earth one tells you the other.
 16. (write) A bathroom scale shows kilograms, but it really measures how hard you press on it. Describe one way to make it show more than your real mass without adding anything.  
    **Answer:** Any way that changes the push. For example: jump on the scale and watch the number shoot up as I land. Or stand on it in a lift that is starting to go up. Or push down on a table beside me.. *Why:* The scale shows the push on it, not gravity directly. Anything that changes the push changes the reading, even though your mass is the same.
-17. (draw) Draw a leaky bottle of water held still, and the same bottle falling. Show the water in each picture.  
-   **Answer:** Held still: jets of water squirt out of the holes. Falling: no water comes out of the holes.. *Why:* While the bottle falls, the water falls with it, so the water no longer presses on the bottom and sides.
+17. (draw) Draw yourself standing in a lift that is just starting to go up. Draw one arrow for gravity's pull on you and one arrow for the floor's push on you. Make the bigger force the longer arrow.  
+   **Answer:** The gravity arrow points down. The floor's arrow points up from the feet, and it is a little longer than the gravity arrow.. *Why:* To start you moving up, the floor must push up harder than gravity pulls down. That extra push is why you feel heavier as the lift starts.
 ### Weight, Mass and the Universe (challenge) (challenge, 17 questions)
 1. (mcq) A bag hangs from a forcemeter. Where would the forcemeter read zero?  
    Options: Falling freely, with the bag / On top of Mount Everest / At the bottom of a deep well / On the Moon  
    **Answer:** Falling freely, with the bag. *Why:* When the forcemeter and the bag fall together, the spring has nothing to hold. On Everest, in a well or on the Moon, gravity still pulls, so the spring still holds the bag. Picking 'the Moon' forgets that the Moon pulls too, just less.
-2. (truefalse) A child in Chennai, near the Earth's middle, called the equator, weighs a tiny bit less than she would at the North Pole.  
+2. (truefalse) A child in Chennai, near the equator, weighs a tiny bit less than she would at the North Pole. The equator is the line round the fattest part of the Earth.  
    **Answer:** True. *Why:* True. The Earth bulges a little round the equator, so you are further from its centre, and the Earth's spin flings you outwards a little. Together, these make you weigh about half a percent less. Your mass is just the same.
 3. (mcq) Light has no mass. Yet in 1919, astronomers saw starlight bend as it passed close to the Sun. What does that tell us?  
    Options: Gravity acts on energy, not only on mass / The astronomers made a mistake / Light has a hidden mass / The Sun is made of glass  
@@ -811,12 +811,12 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 5. (mcq) What does a bathroom scale really measure?  
    Options: How hard you press down on it / How hard gravity pulls you, directly / How tall you are  
    **Answer:** How hard you press down on it. *Why:* Inside is a spring, or a sensor, that measures the push on it. On a still floor, that push equals your weight. Jump on it and the number changes.
-6. (mcq) Why don't you sink through the floor?  
-   Options: The floor's atoms push your atoms away / Gravity is switched off indoors / Air holds you up  
-   **Answer:** The floor's atoms push your atoms away. *Why:* The outsides of atoms repel each other. So when you press on the floor, it pushes back just as hard.
-7. (mcq) A stone reads 3 newtons in the air and 2 newtons under water. Why?  
-   Options: The water pushes up on it / It lost some stone / Gravity is weaker in water  
-   **Answer:** The water pushes up on it. *Why:* Water pushes up on the stone, so the spring holds less. Lift it out and it reads 3 again. Gravity is just the same.
+6. (mcq) A heavy book lies still on a table. Gravity pulls it down. What is the table doing?  
+   Options: Pushing up on the book just as hard as gravity pulls down / Nothing. It just stands there / Pulling the book down too  
+   **Answer:** Pushing up on the book just as hard as gravity pulls down. *Why:* The book presses on the table, and the table's atoms push back. This support force is exactly as big as the book's weight, so the book stays still.
+7. (mcq) Lakshmi pulls a full bucket up from a well. It feels easy while it is still under the water, then suddenly heavy as it comes out. Why?  
+   Options: Under the water, the water pushes up on the bucket / The bucket loses some water as it rises / Gravity is weaker under water  
+   **Answer:** Under the water, the water pushes up on the bucket. *Why:* While the bucket is under the water, the water pushes up on it and holds up most of its weight. Out of the water, nothing helps, so the rope must hold all of it. Gravity pulls the same the whole time.
 8. (mcq) A lift starts going up. How do you feel?  
    Options: A little heavier / A little lighter / Exactly the same  
    **Answer:** A little heavier. *Why:* To start you moving up, the floor pushes up harder than gravity pulls down. You feel that extra push in your knees.

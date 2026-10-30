@@ -739,7 +739,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
    **Answer:** Gravity pulls the feather too. The air just slows the feather down. *Why:* The feather does come down, so something pulls it down. That is gravity, which pulls on everything with mass. The air pushes up on the wide, soft feather, so it falls slowly. Picking 'the wind' is a fair guess, but a feather falls indoors too, where there is no wind.
 2. (draw) Draw the round Earth with four people standing on it: one on top, one at the bottom and one on each side. Draw an arrow from each person to show which way is down for them.  
    **Answer:** Four people round a circle, each with their feet on the Earth. Four arrows, all pointing to the middle of the circle.. *Why:* Down always means towards the middle of the Earth, wherever you stand. Nobody on the Earth is really upside down.
-3. (mcq) Lakshmi lives in Chennai. Her pen friend Sofia lives in Argentina, on the other side of the Earth. Why does Sofia not fall off into space?  
+3. (mcq) Lakshmi lives in Chennai. Her pen friend Sofia lives in Argentina, far round the other side of the Earth. Why does Sofia not fall off into space?  
    Options: Gravity pulls Sofia towards the middle of the Earth, just as it pulls Lakshmi / Sofia holds on to the ground / Gravity only works in India / The air presses Sofia down  
    **Answer:** Gravity pulls Sofia towards the middle of the Earth, just as it pulls Lakshmi. *Why:* For both girls, down means towards the middle of the Earth. So Sofia stands on the ground just as Lakshmi does. Picking 'the air presses her down' is a common idea, but the air presses equally from all sides.
 4. (mcq) Before the Drop Race, Meenakshi holds a full water bottle and an almost empty one. The full one feels much heavier. She lets them fall together from the same height. What should she expect to hear?  
@@ -886,9 +886,9 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 9. (mcq) Did Galileo really drop balls from the Leaning Tower of Pisa?  
    Options: Historians are not sure. It may be a legend / Yes, everyone saw it and wrote about it / No, he lived nowhere near Pisa  
    **Answer:** Historians are not sure. It may be a legend. *Why:* The story comes from his student, written years later. Galileo himself never wrote about it.
-10. (mcq) When you jump, you pull the Earth up towards you. Why don't you notice the Earth move?  
-   Options: The Earth has so much more mass that it moves far too little to see / Only the Earth pulls, not you / The Earth is tied down  
-   **Answer:** The Earth has so much more mass that it moves far too little to see. *Why:* Everything pulls everything. The pull is shared, but the huge Earth hardly moves.
+10. (mcq) The Earth pulls on the Moon. Does the Moon pull on the Earth too?  
+   Options: Yes, just as hard. The Moon's pull lifts the seas into tides / No. A small thing cannot pull a big thing / Only when the Moon is full  
+   **Answer:** Yes, just as hard. The Moon's pull lifts the seas into tides. *Why:* Every pull between two things is shared, so the Moon pulls the Earth just as hard as the Earth pulls the Moon. The Earth has much more mass, so it hardly moves. But the Moon's pull is enough to lift the seas a little, and that makes the tides.
 11. (mcq) In the space blanket, why did marbles roll towards the heavy ball?  
    Options: They rolled down into the dent it made in the sheet / The ball pulled them with a rope / The marbles were magnetic  
    **Answer:** They rolled down into the dent it made in the sheet. *Why:* The heavy ball bends the sheet. This is a model of Einstein's idea that mass bends space.

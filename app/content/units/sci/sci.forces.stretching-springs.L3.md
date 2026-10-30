@@ -767,7 +767,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
    Options: The note goes higher / The note goes lower / The note stays the same / It makes no sound  
    **Answer:** The note goes higher. *Why:* A tighter band pulls back harder, so it springs back and forth faster. Faster shaking, called vibrating, makes a higher note. A veena or guitar player tightens a string to make it higher in the same way.
 11. (match) Match each living being to the springy part they use.  
-   **Answer:** A flea → a springy pad that flings them into a jump; A kangaroo → long tendons that stretch and spring back as they hop; A spider → a stretchy silk web that catches flies without breaking; You → the tendon at the back of your ankle. *Why:* Living beings store energy in springy parts and get it back. This saves effort when they jump, hop or run.
+   **Answer:** A flea → a springy pad that flings them into a jump; A kangaroo → long tendons that stretch and spring back as they hop; A spider → a stretchy silk web that catches flies without breaking; A cheetah → a springy backbone that bends and springs back as they run. *Why:* Living beings store energy in springy parts and get it back. This saves effort when they jump, hop or run.
 12. (write) After a storm in Mysuru, a clump of bamboo is still standing. But an old, dry branch nearby has snapped. Explain why one bent and one broke.  
    **Answer:** A strong answer says the green bamboo is elastic. It bends in the wind, stores the push for a moment, and springs back. The dry branch is brittle. It cannot bend much, so the push breaks it.. *Why:* Bending lets a thing soak up a sudden push. This is why green twigs bend and dry twigs snap in the Bend or Snap activity.
 13. (write) A hanging luggage scale has a spring inside. Why does a heavier bag move the pointer further? And why would a far too heavy bag ruin the scale?  
@@ -810,7 +810,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
    **Answer:** Each extra band adds 10 cm. 8 bands is 4 more than 4 bands, so 40 cm more: 50 + 40 = 90 cm. A real test might not match because bands are not all the same, and near their limit they stretch more than the pattern says.. *Why:* The pattern goes up by the same amount each time, like the spring rule. Real bands can bend the line near their limit.
 13. (perspective) Long ago, the Greek thinker Aristotle had an idea about why things keep their shape. Scientists today explain it differently. A girl who did the pen spring test adds her own view.  
    **Answer:** A strong answer picks a view and uses real evidence: the spring came back after gentle pulls, but stayed long after a hard pull, and a hairpin stays bent. It answers back fairly, for example that a spring does seem to 'want' its shape, or that the atoms explain exactly where the limit comes from.. *Why:* Scientists explain springing back with balanced pulls between atoms. Some thinkers today still find Aristotle's idea useful. Kavya's view shows the evidence both sides must explain.
-14. (mcq) Robert Hooke said every springy thing follows his rule, however far you stretch it: double the pull, double the stretch. Which result from a coin test would show this is not always true?  
+14. (mcq) Robert Hooke wrote that every springy thing follows one rule: double the pull, double the stretch. Which result from a coin test shows the rule does not hold for big stretches?  
    Options: Near the end, each 5 coins stretched the band much more than before / Every 5 coins added exactly 1 cm / The band was 10 cm with no coins / The cup was made of paper  
    **Answer:** Near the end, each 5 coins stretched the band much more than before. *Why:* If the steps of stretch suddenly get bigger, the band no longer follows the rule. Later tests showed the rule works only for small stretches, below the elastic limit. Picking 'exactly 1 cm each time' is evidence for the rule, not against it.
 15. (draw) Draw a model of the atoms in a spring, as balls joined by tiny springs. Then draw it again when the spring is stretched.  
@@ -824,9 +824,9 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 - **Tapping a rubber tree for latex** (Thai Sabai, 5 min) id `ami3xanZjPI`: Shows the real work from the story: tapping rubber trees, collecting latex, rolling it into sheets and smoking them. (Filmed in Thailand; tapping in Kerala works the same way.) *Check:* Found by YouTube search: "Tapping rubber tree" by Thai Sabai. Title checked automatically; a parent may still preview it.
 
 ## Quiz
-1. (mcq) Which of these is hard but still elastic?  
-   Options: The steel spring in a clothes peg / A lump of wet clay / A cotton ball  
-   **Answer:** The steel spring in a clothes peg. *Why:* The peg's steel spring is hard, but it springs back every time you squeeze the peg. Clay stays changed. A cotton ball is soft, and squashed cotton mostly stays squashed.
+1. (mcq) You hold a steel ruler flat on a table, bend its free end down a little and let go. It flicks straight again. What does this show?  
+   Options: A hard thing can still be elastic / Only soft things are elastic / The ruler has stayed changed  
+   **Answer:** A hard thing can still be elastic. *Why:* The steel ruler is hard, but it went back to its old shape, so it is elastic. Elastic means springing back, not being soft. 'Stayed changed' is the opposite of what the ruler did.
 2. (mcq) You squeeze a sponge and let go. It puffs back up. What word fits the sponge?  
    Options: Elastic / Brittle / Stays changed  
    **Answer:** Elastic. *Why:* It changed shape and went back, so it is elastic. Brittle things snap. 'Stays changed' is the opposite of what the sponge did.
@@ -836,9 +836,9 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 4. (mcq) A band is 10 cm long with no coins. Each 5 coins make it 1 cm longer. How many coins make it 13 cm long?  
    Options: 15 coins / 13 coins / 3 coins  
    **Answer:** 15 coins. *Why:* 13 cm is 3 cm longer than 10 cm. Each 1 cm needs 5 coins. 3 times 5 is 15 coins. Picking 3 coins counts the centimetres, not the coins.
-5. (mcq) A spring sprang back after a gentle pull. After a very hard pull, it stays long. What did the hard pull do?  
-   Options: It went past the spring's elastic limit / It made the spring more elastic / It made the spring heavier  
-   **Answer:** It went past the spring's elastic limit. *Why:* Past the elastic limit, a spring stays stretched. It is now less elastic, not more.
+5. (mcq) A rubber band held 30 coins. You take the coins off, and now the band is 2 cm longer than before. What does this tell you?  
+   Options: The coins pulled it past its elastic limit / The band has become more elastic / The coins added some rubber to it  
+   **Answer:** The coins pulled it past its elastic limit. *Why:* An elastic band goes all the way back. This one stayed longer, so the coins pulled it past its elastic limit. It is now less elastic, not more.
 6. (mcq) What is a warning sign that something is near its elastic limit?  
    Options: It no longer goes all the way back to its old shape / It springs back very quickly / It feels cold  
    **Answer:** It no longer goes all the way back to its old shape. *Why:* When a thing stays a little stretched or bent, it is near its limit and may soon break. This is what Ammu saw in the swing branch in the story.
@@ -860,9 +860,9 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 12. (mcq) Three of the same rubber bands are joined in a chain. The same coins hang from it. Compared with one band, about how far does the chain stretch?  
    Options: About three times as far / About a third as far / The same  
    **Answer:** About three times as far. *Why:* Each band in the chain carries all the coins, so each stretches as much as one band alone. Three stretches add up. Picking 'a third' mixes it up with bands side by side, which share the pull.
-13. (mcq) A pen spring was pulled too far and now rests at a new, longer length. Were any of its atoms lost?  
-   Options: No. Rows of atoms slipped and settled in new places / Yes, some atoms fell out / Yes, some atoms were used up  
-   **Answer:** No. Rows of atoms slipped and settled in new places. *Why:* Past the limit, rows of atoms slip and rest beside new neighbours. Every atom is still there, just in a new place.
+13. (mcq) Why does a spring that was pulled past its elastic limit stay long?  
+   Options: Rows of its atoms slipped into new places and stay there / Some of its atoms fell out / It got colder and shrank back the wrong way  
+   **Answer:** Rows of its atoms slipped into new places and stay there. *Why:* Past the limit, rows of atoms slip and settle beside new neighbours. Every atom is still there, just in a new place, so the new shape stays.
 14. (mcq) For hundreds of years before an earthquake, what is the rock deep underground doing?  
    Options: Slowly bending and storing energy / Slowly melting / Staying perfectly still  
    **Answer:** Slowly bending and storing energy. *Why:* Giant pieces of the Earth push on each other, so the rock bends slowly, like a pressed ruler. Then it slips all at once, and the ground shakes.

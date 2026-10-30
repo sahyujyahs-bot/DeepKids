@@ -3167,11 +3167,10 @@
     },
     {
      "t": "draw",
-     "p": "Draw a leaky bottle of water held still, and the same bottle falling. Show the water in each picture.",
-     "a": "Held still: jets of water squirt out of the holes. Falling: no water comes out of the holes.",
-     "why": "While the bottle falls, the water falls with it, so the water no longer presses on the bottom and sides.",
-     "how": "e4",
-     "context": "In the Drop It experiment, you make holes near the bottom of a plastic bottle of water and drop it onto a pillow while the water squirts out."
+     "p": "Draw yourself standing in a lift that is just starting to go up. Draw one arrow for gravity's pull on you and one arrow for the floor's push on you. Make the bigger force the longer arrow.",
+     "a": "The gravity arrow points down. The floor's arrow points up from the feet, and it is a little longer than the gravity arrow.",
+     "why": "To start you moving up, the floor must push up harder than gravity pulls down. That extra push is why you feel heavier as the lift starts.",
+     "how": "e3"
     }
    ]
   },
@@ -3196,7 +3195,7 @@
     },
     {
      "t": "truefalse",
-     "p": "A child in Chennai, near the Earth's middle, called the equator, weighs a tiny bit less than she would at the North Pole.",
+     "p": "A child in Chennai, near the equator, weighs a tiny bit less than she would at the North Pole. The equator is the line round the fattest part of the Earth.",
      "a": true,
      "why": "True. The Earth bulges a little round the equator, so you are further from its centre, and the Earth's spin flings you outwards a little. Together, these make you weigh about half a percent less. Your mass is just the same."
     },
@@ -3425,29 +3424,27 @@
   },
   {
    "t": "mcq",
-   "p": "Why don't you sink through the floor?",
+   "p": "A heavy book lies still on a table. Gravity pulls it down. What is the table doing?",
    "opts": [
-    "The floor's atoms push your atoms away",
-    "Gravity is switched off indoors",
-    "Air holds you up"
+    "Pushing up on the book just as hard as gravity pulls down",
+    "Nothing. It just stands there",
+    "Pulling the book down too"
    ],
    "a": 0,
-   "why": "The outsides of atoms repel each other. So when you press on the floor, it pushes back just as hard.",
+   "why": "The book presses on the table, and the table's atoms push back. This support force is exactly as big as the book's weight, so the book stays still.",
    "outcome": 2
   },
   {
    "t": "mcq",
-   "p": "A stone reads 3 newtons in the air and 2 newtons under water. Why?",
+   "p": "Lakshmi pulls a full bucket up from a well. It feels easy while it is still under the water, then suddenly heavy as it comes out. Why?",
    "opts": [
-    "The water pushes up on it",
-    "It lost some stone",
-    "Gravity is weaker in water"
+    "Under the water, the water pushes up on the bucket",
+    "The bucket loses some water as it rises",
+    "Gravity is weaker under water"
    ],
    "a": 0,
-   "why": "Water pushes up on the stone, so the spring holds less. Lift it out and it reads 3 again. Gravity is just the same.",
-   "outcome": 3,
-   "how": "e2",
-   "context": "In the stone experiment, you hang a stone from a forcemeter and lower it into a bucket of water. Then you let it rest on the bottom."
+   "why": "While the bucket is under the water, the water pushes up on it and holds up most of its weight. Out of the water, nothing helps, so the rope must hold all of it. Gravity pulls the same the whole time.",
+   "outcome": 3
   },
   {
    "t": "mcq",

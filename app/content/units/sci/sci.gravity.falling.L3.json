@@ -1012,7 +1012,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi lives in Chennai. Her pen friend Sofia lives in Argentina, on the other side of the Earth. Why does Sofia not fall off into space?",
+     "p": "Lakshmi lives in Chennai. Her pen friend Sofia lives in Argentina, far round the other side of the Earth. Why does Sofia not fall off into space?",
      "opts": [
       "Gravity pulls Sofia towards the middle of the Earth, just as it pulls Lakshmi",
       "Sofia holds on to the ground",
@@ -1022,7 +1022,7 @@
      "a": 0,
      "why": "For both girls, down means towards the middle of the Earth. So Sofia stands on the ground just as Lakshmi does. Picking 'the air presses her down' is a common idea, but the air presses equally from all sides.",
      "how": "a4",
-     "context": "Argentina is a country in South America. It is almost exactly on the opposite side of the Earth from India."
+     "context": "Argentina is a country in South America. It is on the other side of the Earth from India. When it is bedtime in Chennai, it is lunchtime there."
     },
     {
      "t": "mcq",
@@ -3563,14 +3563,14 @@
   },
   {
    "t": "mcq",
-   "p": "When you jump, you pull the Earth up towards you. Why don't you notice the Earth move?",
+   "p": "The Earth pulls on the Moon. Does the Moon pull on the Earth too?",
    "opts": [
-    "The Earth has so much more mass that it moves far too little to see",
-    "Only the Earth pulls, not you",
-    "The Earth is tied down"
+    "Yes, just as hard. The Moon's pull lifts the seas into tides",
+    "No. A small thing cannot pull a big thing",
+    "Only when the Moon is full"
    ],
    "a": 0,
-   "why": "Everything pulls everything. The pull is shared, but the huge Earth hardly moves.",
+   "why": "Every pull between two things is shared, so the Moon pulls the Earth just as hard as the Earth pulls the Moon. The Earth has much more mass, so it hardly moves. But the Moon's pull is enough to lift the seas a little, and that makes the tides.",
    "outcome": 4
   },
   {

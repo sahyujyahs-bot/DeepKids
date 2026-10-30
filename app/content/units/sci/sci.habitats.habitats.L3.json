@@ -2257,21 +2257,21 @@
      "t": "write",
      "p": "Choose one animal you can see from your window or balcony, such as a crow, a pigeon or a gecko. Where do they find food, water and shelter? Which of these was hardest to spot?",
      "lines": 4,
-     "a": "A strong answer names a real animal and a real place for each need, from watching, not guessing. For example: a crow eats scraps from the bins, drinks from the water tank on the roof and nests in the neem tree. The hardest to spot was water, because I never saw them drinking until the second day.",
+     "a": "A strong answer names a real animal and a real place for each need, from watching, not guessing. For example: a pigeon eats grain that a neighbour throws down, drinks from a dripping AC pipe and sleeps on the ledge under the water tank. The hardest to spot was water, because I never saw them drinking until the second day.",
      "why": "A habitat is often more than one spot. An animal may eat in one place, drink in another and sleep in a third.",
      "how": "a2"
     },
     {
      "t": "mcq",
-     "p": "Frogs are common near ponds in Kerala, but you will not find them on the hot sand of the Thar Desert. What is the main reason?",
+     "p": "Olive ridley turtles spend most of their lives far out at sea. Yet each winter, thousands crawl onto beaches in Odisha at night. Why do they come ashore?",
      "opts": [
-      "A frog's thin skin must stay damp, and their eggs need water to hatch",
-      "Frogs do not like sand",
-      "The desert is too far from Kerala",
-      "Camels chase the frogs away"
+      "To lay their eggs in warm, dry sand, which the sea cannot give",
+      "To find food on the beach",
+      "To rest, because swimming tires them",
+      "To get away from the cold sea"
      ],
      "a": 0,
-     "why": "A frog breathes partly through damp skin, and dries out fast in hot, dry air. Their eggs and tadpoles need water too. So a pond gives a frog what they need, and open desert sand does not. Picking 'do not like sand' gives a feeling, not a need."
+     "why": "The sea gives a turtle food and space to swim. But turtle eggs must sit in sand to hatch, and only a beach gives that. So a turtle's habitat is two places: the open sea and one beach. A strong answer notices that one living thing can need different places at different times of life."
     },
     {
      "t": "match",
@@ -2314,7 +2314,7 @@
     },
     {
      "t": "odd",
-     "p": "Which one is the odd one out? These are things that might help curd bacteria grow: warm milk, the right warmth, sunlight, time. Which do they not need, and why?",
+     "p": "Which one is the odd one out? These are things that might help curd bacteria grow: milk, warmth, sunlight, time. Which do they not need, and why?",
      "a": "sunlight",
      "why": "The warm bowl in the three bowls test was wrapped in a towel, in the dark, and it still set first. So curd bacteria need food, water and warmth, but not sunlight. Plants need sunlight. Many living things do not.",
      "context": "Remember the three bowls experiment, where you stirred curd into warm milk and kept one bowl warm, one on the counter and one in the fridge?",
@@ -2341,16 +2341,16 @@
     },
     {
      "t": "truefalse",
-     "p": "Most of the bacteria living in your tummy are harmful germs.",
+     "p": "A fish lives under water, so a fish does not need air.",
      "a": false,
-     "why": "False. Most of the microbes in your tummy are harmless or helpful. They help break down food and keep harmful germs from settling in. Many people believe all bacteria are bad, but only a few kinds make us ill."
+     "why": "False. Water holds a little air mixed into it, and fish take it in through their gills. That is why a fish tank has a pump that bubbles air into the water. Air is one of the needs of a habitat, even under water."
     },
     {
      "t": "write",
-     "p": "On a balcony, the soil under an upturned flowerpot is dark and damp. The open floor next to it is hot and dry in the afternoon. Predict where you are more likely to find an earthworm or a woodlouse, and explain why.",
+     "p": "House sparrows used to nest in holes in old walls and under tiled roofs. Many Indian cities now have new buildings with smooth walls and glass. In many of these cities, sparrows have become rare. Which need of a habitat could be missing? Explain.",
      "lines": 3,
-     "a": "A strong answer predicts under the pot. It explains that these small animals dry out quickly, so they need the damp, cool shelter the pot gives. The open floor gives no shelter and the wrong warmth.",
-     "why": "Even two spots a few centimetres apart can be very different microhabitats. Small animals choose the one that meets their needs."
+     "a": "A strong answer names shelter: smooth new walls give no holes for a nest. It explains that a bird with food and water still cannot raise chicks without a safe nesting place. It may add one more possible cause, such as fewer insects to feed the chicks.",
+     "why": "Scientists think the loss of nesting places is one reason, along with fewer insects for chicks. A habitat must meet every need. If one is missing, the living thing cannot stay, however much of the others there is."
     },
     {
      "t": "mcq",
@@ -2374,7 +2374,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Look at the chart from the five worlds test. An earthworm needs cool, damp soil. Which place would suit her best?",
+     "p": "Look at the chart from the five worlds test. An earthworm needs cool, damp soil. Which place would suit them best?",
      "opts": [
       "Under the leaves",
       "The sunny path",
@@ -2626,9 +2626,9 @@
     },
     {
      "t": "write",
-     "p": "Some animals live in the forest canopy, and others on the forest floor below. Choose one need of a habitat. Explain how the canopy and the floor give that need differently.",
+     "p": "Some animals live in the forest canopy, and others on the forest floor below. Choose one need of a habitat other than light. Explain how the canopy and the floor give that need differently.",
      "lines": 4,
-     "a": "A strong answer picks one need and compares both layers. For example, light: the canopy gets bright sunlight, so leaves and fruit grow there for hornbills and monkeys. The floor is dark and damp, which suits frogs, worms and fungi.",
+     "a": "A strong answer picks one need and compares both layers. For example, water: the canopy is hot, windy and dries fast after rain, so canopy animals drink from rain caught in leaves and tree holes. The floor stays damp for days, which suits frogs, worms and fungi that dry out easily.",
      "why": "One forest holds several habitats on top of each other. The same need is met in different ways at each level."
     }
    ]
@@ -2666,9 +2666,9 @@
        "says": "Each kind of plant spreads out on their own, wherever their needs are met. Habitats blend into each other with no sharp edges."
       }
      ],
-     "ask": "Which idea fits what you have seen, for example at the edge of a pond, or where a park meets a road? Give your evidence. Then say why the other idea once seemed sensible.",
+     "ask": "Which idea fits what you have seen, for example at the edge of a pond, or where a park meets a road? Give your evidence. Then say what the other idea gets right.",
      "lines": 5,
-     "a": "A strong answer picks a side and uses something real as evidence. For example: at the edge of a pond, the plants change slowly from water plants to grass, which fits Gleason. It also admits why Clements made sense: from far away, a forest and a grassland look like two separate things with an edge.",
+     "a": "A strong answer picks a side and uses something real as evidence. For example: at the edge of a pond, the plants change slowly from water plants to grass, which fits Gleason. It also says what Clements gets right: from far away, a forest and a grassland look like two separate things with an edge.",
      "why": "Most scientists now side mostly with Gleason, because careful counts of plants along slopes showed each kind spreading out on their own. But maps still draw edges, because they are useful. Scientists still argue about how much plants depend on each other."
     },
     {
@@ -2717,7 +2717,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Square Metre Safari, a lawn had 6 kinds of living things and a square under a tree had 14. Karthik, a boy in Class 4, says: 'Under trees there are always more kinds.' Is that a fair conclusion from one test?",
+     "p": "In the Square Metre Safari, a lawn had 6 kinds of living things and a square under a tree had 14. Kavya, a girl in Class 4, says: 'Under trees there are always more kinds.' Is that a fair conclusion from one test?",
      "opts": [
       "No. One test in one garden is a start, but we need to test more places",
       "Yes, one test is always enough",
@@ -2750,12 +2750,12 @@
     },
     {
      "t": "write",
-     "p": "In the story 'What the Sandbar Learned to Give', the river says: 'I am no longer sure where the river ends and the forest begins.' Using the tree water test, explain what the river might mean.",
+     "p": "As curd bacteria grow in milk, they make the milk sour. That sourness stops many other germs from growing in it. Explain how the curd bacteria have changed their own habitat, and how that helps them.",
      "lines": 4,
-     "a": "A strong answer follows the water. The trees take up river water through their roots and give it off from their leaves, as the bag test showed. It rises, makes clouds, falls as rain on the hills and runs back into the river. So the river's water passes through the forest, and the forest's water becomes the river.",
-     "why": "Living things and the non-living parts of their habitat are joined. Water moves through both.",
-     "how": "e3",
-     "context": "In the story, Jadav Payeng planted a forest on a sandbar in the Brahmaputra river, and the river tells what it saw."
+     "a": "A strong answer says the bacteria turned sweet milk into sour curd, so their habitat is now different from what they started in. Most other germs cannot grow in sour milk, so the curd bacteria have the food and space to themselves. It may add that this is why curd keeps longer than milk.",
+     "why": "Living things change their habitats, and sometimes the change helps them. Trees make shade for their own seedlings in the same way.",
+     "context": "Remember the three bowls experiment, where you stirred curd into warm milk and kept one bowl warm, one on the counter and one in the fridge?",
+     "how": "e4"
     },
     {
      "t": "sort",
@@ -2833,10 +2833,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Before 1977, scientists expected the deep sea floor near warm vents to be almost empty of life.",
-     "a": true,
-     "why": "True. They thought nearly all food chains begin with sunlight, so the dark deep sea could hold only a little life. Instead they found crowds of tube worms, clams and crabs. A strong answer notices that a careful look changed what scientists believed.",
-     "context": "Hydrothermal vents are cracks in the deep sea floor where water heated inside the rock comes out."
+     "p": "When a forest is cut down, the animals can simply move to the next forest.",
+     "a": false,
+     "why": "False. The next forest already has animals using its food, water and space, so there is not enough for newcomers. Many animals also cannot cross the farms and roads in between. This is why losing habitats is the biggest danger to wild living things."
     },
     {
      "t": "write",
