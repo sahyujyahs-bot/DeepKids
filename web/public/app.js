@@ -8503,7 +8503,7 @@ function topicRow(u) {
     return `<div class="topic ${SC(u.subj)}"><button class="plain trow" data-act="chapter" data-k="${u.k}"><span class="no">✦</span><span style="min-width:0;flex:1;overflow-wrap:anywhere"><b>${esc(u.title)}</b><br><span class="xs muted">${SUBJ[u.subj]} · Class ${u.level} · Covers ${esc(B || u.c?.topic || "")}</span></span>${pillS(coverage(u))}</button></div>`;
   }
   const T = tagsOf(u)[0];
-  return `<div class="topic ${SC(u.subj)}"><button class="plain trow" data-act="chapter" data-k="${u.k}"><span class="no">${/^\d+$/.test(u.n) ? u.n : esc(u.n)}</span><span style="min-width:0"><b>${esc(u.title)}</b><br><span class="xs muted">${SUBJ[u.subj]} · ${u.board === "gen" ? "DeepKids topic" + (u.gen.reviewed ? "" : " · not yet reviewed") : u.board === "dk" ? "DeepKids Plus" : esc(T?.txt || u.book)}</span></span>${pillS(coverage(u))}</button></div>`;
+  return `<div class="topic ${SC(u.subj)}"><button class="plain trow" data-act="chapter" data-k="${u.k}"><span class="no">${/^\d+$/.test(u.n) ? u.n : esc((u.title || "?")[0])}</span><span style="min-width:0"><b>${esc(u.title)}</b><br><span class="xs muted">${SUBJ[u.subj]} · ${u.board === "gen" ? "DeepKids topic" + (u.gen.reviewed ? "" : " · not yet reviewed") : u.board === "dk" ? "DeepKids Plus" : esc(T?.txt || u.book)}</span></span>${pillS(coverage(u))}</button></div>`;
 }
 function topicsTab() {
   const q = ui.libq || "",
@@ -8676,10 +8676,10 @@ function swapView() {
   });
   return `<p class="sm muted">${s === "math" ? "Maths builds on itself, so a chapter opens once the chapters before it are done." : s === "sci" && S.plus ? "Each big question opens with its first topic. After that, its topics can go in any order." : "These chapters don't depend on each other, so any order works."}</p>
    <section class="card" style="gap:0">${rows
-     .map(({ u, need }) => {
+     .map(({ u, need }, i) => {
        const isCur = cur && cur.u.k === u.k,
          ok = !need.length;
-       return `<div class="taskrow ${SC(u.subj)}"><span class="unit" style="all:unset"><span class="no" style="width:40px;height:40px;border-radius:13px;display:grid;place-items:center;font:700 15px var(--display);background:var(--c)">${/^\d+$/.test(u.n) ? u.n : esc(u.n)}</span></span><div><b style="font:600 16px var(--display)">${esc(u.title)}</b><p class="xs muted">${coverage(u) === "learning" ? `In progress · Part ${done(u.k)} of ${sessionsFor(u)}` : `${sessionsFor(u)} lesson days`}${
+       return `<div class="taskrow ${SC(u.subj)}"><span class="unit" style="all:unset"><span class="no" style="width:40px;height:40px;border-radius:13px;display:grid;place-items:center;font:700 15px var(--display);background:var(--c)">${/^\d+$/.test(u.n) ? u.n : i + 1}</span></span><div><b style="font:600 16px var(--display)">${esc(u.title)}</b><p class="xs muted">${coverage(u) === "learning" ? `In progress · Part ${done(u.k)} of ${sessionsFor(u)}` : `${sessionsFor(u)} lesson days`}${
          ok
            ? ""
            : ` · first: ${need
@@ -9485,7 +9485,7 @@ function itemDetail(it, date) {
       prep = prepFor(it.u, it.n, it.tot).filter((p) => p.lead === 0);
     return `<div class="sm muted" style="font-weight:700">${esc(it.u.book)}${chNo(it.u) ? " · " + chNo(it.u) : ""} · Part ${it.n} of ${it.tot}</div>
     <ol class="dsteps">${st.map((x) => `<li class="${x.ok ? "ok" : ""}"><span>${esc(x.label)}</span><b>${esc(x.title)}</b><i>${mins(x.mins)}</i></li>`).join("")}</ol>
-    ${prep.length ? `<div class="sm"><b style="font-family:var(--display)">Have ready:</b> ${prep.map((p) => esc(p.task.replace(/^(Gather|Get) /, ""))).join(" · ")}</div>` : ""}
+    ${prep.length ? `<div class="sm"><b style="font-family:var(--display)">Have ready</b><ul class="haveready">${prep.map((p) => `<li>${esc(p.task.replace(/^(Gather|Get):? /, "").replace(/ \(\d+\)$/, ""))}</li>`).join("")}</ul></div>` : ""}
     <div class="row">${isT && !it.done ? `<button class="btn" data-act="play" data-id="${it.id}">${icon("play")}${st.some((x) => x.ok) ? "Keep going" : "Start the lesson"}</button>` : ""}${!isT || it.done ? `<button class="btn soft sm" data-act="chapter" data-k="${it.u.k}">Everything for this chapter</button>` : ""}${!it.done && !it.bonus ? `<button class="btn soft sm" data-act="swap" data-s="${it.s}">Swap topic</button>` : ""}${isT && !it.done ? (it.bonus ? `<button class="btn line sm" data-act="less" data-s="${it.s}">Not now</button>` : `<button class="btn line sm" data-act="skip" data-s="${it.s}">Not today</button>`) : ""}</div>${lessonExtras(it.u)}`;
   }
   if (it.kind === "prep") {
