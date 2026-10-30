@@ -1072,11 +1072,11 @@
      ],
      "items": [
       [
-       "gur",
+       "jaggery",
        "Sweet"
       ],
       [
-       "imli",
+       "tamarind",
        "Sour"
       ],
       [
@@ -1315,8 +1315,8 @@
        "feels the warmth of a mouse in the dark"
       ],
       [
-       "Bat",
-       "hears echoes of their squeaks"
+       "Shark",
+       "feels tiny electric signals from fish hidden in the sand"
       ],
       [
        "Catfish",
@@ -1385,7 +1385,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Johannes Müller noticed that pressing on the eye's nerve makes people see flashes of light. What does this tell us?",
+     "p": "Johannes Müller, a scientist in Germany about 200 years ago, noticed something odd. A knock on the head, or a gentle push on a closed eye, makes people see flashes of light, even in the dark. What does this tell us?",
      "opts": [
       "The eye makes its own light",
       "A nerve from the eye can only say 'light', whatever starts its signal",
@@ -1415,7 +1415,7 @@
     },
     {
      "t": "write",
-     "p": "The tongue map was wrong, but it stayed in school books for about 30 years. Why do you think a wrong idea can last so long? What should you do when a book and your own careful test disagree?",
+     "p": "The tongue map was wrong, but it stayed in school books for many years, and some books still show it. Why do you think a wrong idea can last so long? What should you do when a book and your own careful test disagree?",
      "lines": 4,
      "a": "Books copy from other books, and people trust what is printed, so nobody checks. When a book and my careful test disagree, I should do my test again, make sure it is fair, and ask others to try it too. If it still disagrees, the book may be wrong.",
      "why": "A strong answer gives a real reason, such as copying or trusting famous books, and says what to do: repeat the test fairly and share it. That is what the scientist Virginia Collings did in 1974, when she showed the tongue map was wrong."
@@ -1476,9 +1476,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Two people tasting the same chutney always taste exactly the same thing.",
+     "p": "A dog whistle makes no sound, because you cannot hear it.",
      "a": false,
-     "why": "False. People's tongues and noses differ. For example, some people find dhania tastes like soap, partly because of their genes."
+     "why": "False. The whistle really does shake the air, but so fast that the shaking is too high for human ears. Dogs can hear that high sound. Each animal's ears catch only some of the sounds that are there."
     },
     {
      "t": "write",
@@ -1529,7 +1529,7 @@
      ],
      "items": [
       [
-       "the sweetness of gur",
+       "the sweetness of jaggery",
        "A taste from taste buds"
       ],
       [
@@ -1537,7 +1537,7 @@
        "A feeling from touch, heat, cold or pain nerves"
       ],
       [
-       "the sourness of imli",
+       "the sourness of tamarind",
        "A taste from taste buds"
       ],
       [
@@ -3031,15 +3031,15 @@
   },
   {
    "t": "mcq",
-   "p": "Sound shakes parts of your ear one after another. Which part shakes straight after the eardrum?",
+   "p": "Cup your hand behind your ear, and a far-away sound gets louder. Why?",
    "opts": [
-    "The cochlea",
-    "The three tiny bones",
-    "The ear flap",
-    "The nerve"
+    "Your hand makes a bigger ear flap, so it collects more of the shaking air into your ear",
+    "Your hand makes its own sound",
+    "Your hand warms the ear",
+    "Your hand blocks the sound"
    ],
-   "a": 1,
-   "why": "The eardrum passes its shaking to three tiny bones, and they pass it to the cochlea. Picking the cochlea skips the bones.",
+   "a": 0,
+   "why": "The ear flap's job is to collect sound and send it down the ear canal. A cupped hand works like a bigger flap. Picking 'blocks the sound' is a fair guess, but the hand is behind the ear, so it catches sound coming from the front.",
    "outcome": 1
   },
   {
@@ -3058,15 +3058,15 @@
   },
   {
    "t": "mcq",
-   "p": "Why can very loud music cause hearing loss that never gets better?",
+   "p": "Arjun has hard wax packed deep in his ear canal, and he hears less in that ear. Why?",
    "opts": [
-    "It makes the ear canal smaller",
-    "It can break hair cells in the cochlea, and in people they do not grow back",
-    "It wears out the eardrum, which always grows back",
-    "It is only a problem for grown-ups"
+    "Less of the shaking air reaches his eardrum, so the eardrum shakes less",
+    "The wax eats the sound",
+    "His cochlea has stopped working",
+    "Wax makes sounds louder"
    ],
-   "a": 1,
-   "why": "Broken hair cells in people do not grow back, so the loss lasts. Children's hair cells can break too.",
+   "a": 0,
+   "why": "Sound has to travel down the ear canal and shake the eardrum. A plug of wax gets in the way. When a doctor clears the wax, his hearing comes back, because nothing deeper was harmed. Picking 'cochlea stopped' skips the first steps of the path.",
    "outcome": 1
   },
   {
@@ -3098,29 +3098,28 @@
   },
   {
    "t": "mcq",
-   "p": "Where on your tongue can you taste bitter karela?",
+   "p": "Dry the tip of your tongue with a clean cloth, then put a few grains of sugar on it. At first you taste almost nothing. Why?",
    "opts": [
-    "Only at the very back",
-    "Anywhere on the tongue that has taste buds",
-    "Only at the tip",
-    "Only on the sides"
+    "Taste buds detect sugar only when it dissolves in spit and reaches them",
+    "Sugar has no taste until it is cooked",
+    "The cloth wiped off your taste buds",
+    "The tip of the tongue cannot taste sweet"
    ],
-   "a": 1,
-   "why": "Taste buds for every taste are spread across the tongue. Picking 'only at the back' is the old tongue map, which is wrong.",
+   "a": 0,
+   "why": "Taste buds detect molecules that are dissolved in spit. Dry sugar grains cannot reach them. As spit wets the sugar, the sweetness comes. Picking 'the tip cannot taste sweet' is the old tongue map idea, which is wrong.",
    "outcome": 3
   },
   {
    "t": "mcq",
-   "p": "With your nose pinched, elaichi sugar tastes only sweet. Why?",
-   "how": "e1",
+   "p": "You chew a mint leaf with your mouth shut. How do the smell molecules from the mint reach the smell receptors high in your nose?",
    "opts": [
-    "Elaichi's flavour is a smell, and pinching stops it reaching your nose",
-    "Pinching makes the tongue numb",
-    "Elaichi has no flavour",
-    "Sugar hides all spices"
+    "They float up a passage at the back of your mouth that leads into your nose",
+    "They travel through your teeth",
+    "They go down into your stomach first",
+    "They cannot. You only taste mint with your tongue"
    ],
    "a": 0,
-   "why": "Most flavour is smell. The elaichi molecules float from your mouth into your nose, unless your nose is pinched. Picking 'tongue numb' is wrong, because you still tasted the sweetness.",
+   "why": "The back of your mouth opens into your nose. Smells from food float up that way while you chew, and this is how smell becomes part of flavour. Picking 'you only taste mint with your tongue' forgets that most flavour is smell.",
    "outcome": 4
   },
   {
@@ -3138,28 +3137,28 @@
   },
   {
    "t": "mcq",
-   "p": "Which cells in your eye let you see colours in bright light?",
+   "p": "A cat can walk about in a room that is too dark for you. What is the best reason?",
    "opts": [
-    "Rods",
-    "Cones",
-    "Hair cells",
-    "Taste cells"
+    "Cats have far more rods, the eye cells that work in dim light",
+    "A cat's eyes make their own light",
+    "Cats have more cones, so they see colour better",
+    "Cats see with their whiskers only"
    ],
-   "a": 1,
-   "why": "Cones see colour, but need bright light. Rods work in dim light and see no colour. Hair cells are in the ear.",
+   "a": 0,
+   "why": "Rods work in dim light. A cat's eyes have many more rods than ours, and a shiny layer behind them that sends light back through them. The glow of a cat's eyes at night is reflected light, not light they make. Picking 'more cones' swaps the two kinds of cell.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "Which animal can see ultraviolet stripes on flowers that we cannot see?",
+   "p": "A mosquito finds you in a dark bedroom. Which is the best explanation?",
    "opts": [
-    "A honeybee",
-    "A dog",
-    "A cat",
-    "A catfish"
+    "She senses the carbon dioxide in your breath and the warmth of your skin",
+    "She sees you clearly in the dark",
+    "She hears your heartbeat",
+    "She finds you by luck"
    ],
    "a": 0,
-   "why": "Honeybees see ultraviolet. Many flowers have ultraviolet patterns that guide bees to the nectar. Dogs and cats cannot see ultraviolet the way bees do.",
+   "why": "Only female mosquitoes bite. They sense the carbon dioxide gas we breathe out, the smells of our skin and our warmth. These are senses people do not have in the same way. Picking 'luck' misses that she flies straight to you.",
    "outcome": 6
   },
   {
@@ -3190,15 +3189,15 @@
   },
   {
    "t": "mcq",
-   "p": "How many senses do people have?",
+   "p": "After playing in the sun, you feel thirsty. What is thirst?",
    "opts": [
-    "Exactly five",
-    "Many more than five, such as balance, body position, warmth and cold, and thirst",
-    "Only one",
-    "Three"
+    "A sense: sensors inside your body notice that you are low on water and tell your brain",
+    "A taste on your tongue",
+    "A sound inside your ears",
+    "Not a sense, just a habit"
    ],
-   "a": 1,
-   "why": "Five is an old count, from Aristotle more than 2,300 years ago. Scientists count many more, each with its own receptors, though they do not agree on the exact number.",
+   "a": 0,
+   "why": "Thirst is one of the senses not on the old list of five. Sensors in your brain check how much water is in your blood. Picking 'a taste' is natural, because you feel thirst in your mouth. But the sensors are inside your body.",
    "outcome": 7
   },
   {

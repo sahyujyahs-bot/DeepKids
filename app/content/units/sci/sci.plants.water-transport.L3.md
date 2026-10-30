@@ -669,18 +669,18 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
 ### Follow the Drop (core) (core, 16 questions)
 1. (order) Put the path of water through a plant in order, from start to end: stem, air, root hairs, leaf, root.  
    **Answer:** order shown. *Why:* Root hairs soak up the water, and it moves into the root. It climbs the stem and spreads through the leaf. Then it leaves into the air as vapour.
-2. (mcq) Which part of a plant soaks up water from the soil?  
-   Options: The leaves / The roots / The flowers / The bark  
-   **Answer:** The roots. *Why:* Roots, and especially their tiny root hairs, soak up water from the soil. Picking 'leaves' usually comes from seeing people water plants from above. Leaves let water out. They do not take much in.
-3. (fill) The tiny water tubes inside a stem are called ____.  
-   **Answer:** ['xylem']. *Why:* Xylem tubes carry water from the roots up to the leaves and flowers.
+2. (mcq) Each root hair is thinner than a sewing thread. Why does a root have thousands of root hairs, not a few thick roots?  
+   Options: Thousands of thin hairs touch much more soil, so they soak up more water / Thin hairs are stronger than thick roots / Root hairs catch light under the soil / Thick roots cannot hold water  
+   **Answer:** Thousands of thin hairs touch much more soil, so they soak up more water. *Why:* Water gets in wherever a root touches wet soil. Thousands of thin hairs squeeze between the soil grains and touch far more soil than a few fat roots could. Picking 'stronger' mixes up the job of soaking with the job of holding on.
+3. (truefalse) If you pull a seedling out roughly and plant them again, they may wilt, even though their main roots are still there.  
+   **Answer:** True. *Why:* True. Pulling roughly tears off the tiny root hairs, and the root hairs do most of the soaking. Until new hairs grow, the seedling cannot drink enough. That is why gardeners move seedlings with a ball of soil round their roots.
 4. (mcq) A white flower stood in blue water for a day. Then its petals had blue edges. What does this show?  
    Options: The flower made blue paint / Water travelled up the stem into the petals / The blue soaked through the air / The flower was ill  
    **Answer:** Water travelled up the stem into the petals. *Why:* The colour can only reach the petals by travelling with the water, up the stem. Picking 'soaked through the air' usually means not noticing that the petals never touched the blue water.
 5. (truefalse) Most of the water a plant takes in leaves again through tiny holes in their leaves.  
    **Answer:** True. *Why:* True. More than 90 out of every 100 drops go back into the air as vapour. This is called transpiration.
-6. (fill) Water leaving a plant's leaves as invisible vapour is called ____.  
-   **Answer:** ['transpiration']. *Why:* Transpiration is water leaving the leaves. It pulls more water up the stem.
+6. (write) Kavya, a girl in Class 3, says, 'Plants are wasteful. They let most of their water escape into the air.' What would you tell her?  
+   **Answer:** I would tell her the escaping water is not wasted. As water leaves the leaves, it pulls more water up the stem, and that water brings minerals up from the soil. The escaping water also cools the leaves. And the holes must be open to let air in, so the leaf can make food.. *Why:* A strong answer says what transpiration does for the plant: it pulls water and minerals up, and cools the leaves. Losing water is the cost of keeping the holes open for air.
 7. (mcq) In the Sweating Branch test, which bag collected more water?  
    Options: The bag in the sun / The bag in the shade / Neither bag got any water  
    **Answer:** The bag in the sun. *Why:* Sun warms the leaves and they let out more water vapour, which turns back into drops on the bag. Picking 'the shade' usually means thinking cool places are wetter. But these drops came out of the plant.
@@ -691,14 +691,15 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
    **Answer:** They are losing water from their leaves faster than their roots can drink. *Why:* Wilting means the plant is losing water faster than they can take it in, so their cells go soft. Picking 'sleeping' is a fun idea. Some plants do fold their leaves at night, but that is different from wilting in the heat.
 10. (sort) Sort these. Do they make a plant lose water FASTER or SLOWER?  
    **Answer:** hot sun → Faster; a cool night → Slower; a strong dry wind → Faster; a damp misty morning → Slower; lots of leaves → Faster; the leaf holes closed → Slower. *Why:* Sun, warmth, wind, dry air and many leaves all speed up water loss. Cool, still, damp air and closed holes slow it down. It is like drying clothes.
-11. (truefalse) The roots push water all the way to the top of a tall tree.  
-   **Answer:** False. *Why:* False. Roots push only a little. Most of the lift comes from the leaves letting water evaporate, which pulls the water up.
+11. (mcq) Hold a leaf up to the light. You see a net of veins reaching every corner. Why does a leaf need veins everywhere?  
+   Options: So every part of the leaf gets water / To make the leaf look pretty / To catch insects / To keep the leaf green  
+   **Answer:** So every part of the leaf gets water. *Why:* The water tubes run inside the veins. A part of the leaf with no vein nearby would dry out and could not make food. Veins also stiffen the leaf, like the ribs of an umbrella. Picking 'to keep the leaf green' mixes up veins with chlorophyll.
 12. (truefalse) A plant that has wilted and gone floppy is dead.  
    **Answer:** False. *Why:* False. A wilted plant has lost water, so their cells have gone soft. Give them water in time and the cells fill up and go firm again. In Bring Back the Wilted Coriander, a floppy bunch stood in water and became crisp within an hour. Only a plant left dry for too long dies.
 13. (write) Tell the story of one drop of water, from the soil to the sky. Use the words root, stem and leaf.  
    **Answer:** My drop was in the wet soil. A root hair soaked it up into the root. It climbed up the stem through a tiny tube. It went along a vein in a leaf. Then it went out of a tiny hole and floated into the air as vapour.. *Why:* A full answer has the parts in the right order: root, stem, leaf, air.
 14. (write) Divya, a girl in Class 3, says, 'I water my plant by spraying the leaves.' What would you tell her, and why?  
-   **Answer:** I would tell them to water the soil, near the roots. Plants drink through their roots, not their leaves. Most of the water on the leaves just runs off or dries away.. *Why:* Any answer that says to water the soil, because roots do the drinking, is right.
+   **Answer:** I would tell her to water the soil, near the roots. Plants drink mostly through their roots, not their leaves. Most of the water on the leaves just runs off or dries away.. *Why:* Any answer that says to water the soil, because roots do the drinking, is right.
 15. (perspective) Lakshmi's family in Madurai waters the tulsi pot once a day. They disagree about the best time.  
    **Answer:** A strong answer uses the science. For the morning: leaves lose water fastest in hot sun and wind, so the plant needs water ready before the hot part of the day. For the evening: the soil loses less water to the air when it is cool, so more of it stays for the roots. A strong answer then admits the other side's point. Many gardeners say both work, as long as the soil is watered, not the leaves.. *Why:* Both are real gardeners' habits, and each has a good reason. What makes an answer strong is linking the time of day to how fast water leaves the plant and the soil.
 16. (draw) Draw a plant in a pot. Draw blue arrows to show the path of water from the soil to the air. Label root, stem, leaf and air.  
@@ -712,19 +713,20 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
 3. (mcq) In the Leafy or Bare test, the leafy stem's water dropped 18 mm and the bare stem's dropped 3 mm. How many times more did the leafy stem drink?  
    Options: 3 times / 6 times / 15 times / 21 times  
    **Answer:** 6 times. *Why:* 18 divided by 3 is 6. So the leafy stem drank 6 times as much. Picking 15 means taking away instead of dividing. 18 take away 3 is 15 mm more, which is also true, but it does not say how many times.
-4. (mcq) Water molecules hold on to each other. What is this called?  
-   Options: Cohesion / Evaporation / Absorption / Melting  
-   **Answer:** Cohesion. *Why:* Cohesion means water sticking to itself. It lets a thread of water be pulled up a tube without snapping. Picking 'evaporation' mixes up the pull at the top with what holds the thread together.
-5. (truefalse) A tree can lift water much higher than any suction pump can.  
-   **Answer:** True. *Why:* True. Suction can lift water only about 10 metres. The tallest tree is about 116 metres. The tree pulls from the top using cohesion, not air pushing.
+4. (mcq) Fill a steel tumbler to the brim. Then add a few more drops, gently. The water bulges above the rim without spilling. Which idea from this unit does this show?  
+   Options: Water molecules hold on to each other / Leaves pull water up / Steel soaks up water / Water is lighter at the top  
+   **Answer:** Water molecules hold on to each other. *Why:* The water at the top holds on to the water around it, so it bulges instead of spilling. This holding on is called cohesion. It is the same pull that keeps a thread of water in a tree from snapping. Picking 'leaves pull water up' names a true idea, but there are no leaves here.
+5. (mcq) Plants need minerals, tiny bits from the soil like nitrogen, to grow. The minerals are dissolved in the soil water. How do they reach the leaves?  
+   Options: They travel up with the water in the xylem tubes / The leaves catch them from the air / Insects carry them up / They never leave the roots  
+   **Answer:** They travel up with the water in the xylem tubes. *Why:* Dissolved minerals ride along with the water, like sugar dissolved in tea. When water is pulled up the xylem, the minerals come too. Picking 'from the air' mixes up minerals with the carbon dioxide that leaves take in.
 6. (write) A grown-up splits the bottom of a white flower's stem into two halves. One half stands in blue water and the other in red. Predict what the flower will look like the next day, and explain why.  
    **Answer:** One side of the flower will go blue and the other side red. Each half of the stem has its own tubes, and each tube carries water to its own part of the flower. The tubes do not mix, so the colours stay apart.. *Why:* A strong answer makes a clear guess and gives the reason: the stem is a bundle of separate tubes. Many people first guess purple, because the stem looks like one pipe.
 7. (match) Match each person to their idea about how water climbs.  
    **Answer:** Stephen Hales, 1727 → weighed plants and showed leaves lose lots of water; Eduard Strasburger, 1891 → showed water climbs even when stem cells are killed; Dixon and Joly, 1894 → water is pulled up from the top and holds together; J. C. Bose, 1923 → living cells pump water up, like tiny hearts. *Why:* These four scientists each added a piece to the puzzle. Today, the pulling idea of Dixon and Joly is accepted.
 8. (sort) Is the water drop from INSIDE the plant or from the AIR?  
    **Answer:** one round drop at the tip of a grass blade at dawn → From inside the plant; tiny drops all over a leaf on a cold morning → From the air; drops inside a bag tied over a branch → From inside the plant; drops on the outside of a cold steel tumbler → From the air. *Why:* Drops at grass tips are pushed out by the roots, and drops in the bag came out of the leaves. Dew and drops on a cold tumbler form from water vapour in the air.
-9. (fill) A plant goes floppy when their cells lose water. This is called ____.  
-   **Answer:** ['wilting', 'wilt', 'wilts']. *Why:* Wilting happens when water leaves faster than it comes in, and the cells go soft.
+9. (fill) Water creeping up a paper towel or a thin cloth wick is called ____ action.  
+   **Answer:** ['capillary']. *Why:* In capillary action, water clings to the thin fibres and to itself, so it creeps up the narrow gaps. It lifts water only a few centimetres, far less than a tree does.
 10. (mcq) In the Water Chain play, one person in the middle let go of hands. Why did the people below them stop moving up?  
    Options: They were tired / Nothing was pulling them any more, like a broken thread of water / The roots stopped pushing / The sun went down  
    **Answer:** Nothing was pulling them any more, like a broken thread of water. *Why:* The pull from the top only travels along joined hands. An air bubble breaks a real water thread in the same way. Picking 'the roots stopped pushing' means thinking roots do the main work.
@@ -750,13 +752,13 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
    **Answer:** About 12 times. *Why:* 116 divided by 10 is 11.6, which is nearly 12. So the tree is about 12 times taller than the suction limit. Picking 100 times would need a tree about 1,000 metres tall.
 3. (perspective) In 2023, Lilach Hadany's team in Tel Aviv recorded thirsty tomato and tobacco plants making tiny clicks, too high for people to hear. Scientists disagree about what the clicks mean.  
    **Answer:** A strong answer picks a side and names a test. For the listening idea: the clicks are real and loud enough for some animals. Against it: so far no one has seen an animal act on them. Evidence that would decide it: for example, moths choosing not to lay eggs on clicking plants. A strong answer agrees with both sides that the clicks come from the stretched water threads in the tubes.. *Why:* This is a live question. What makes an answer strong is knowing the difference between what has been recorded and what is still only an idea to test.
-4. (truefalse) Scientists all agree on exactly how much of the rain over land comes from water that plants send up.  
+4. (truefalse) Scientists all agree on exactly how much of the water rising from land into the air comes out of plants.  
    **Answer:** False. *Why:* False. One study in 2013 said plants send up about 80 to 90 out of every 100 drops rising from land. Later studies said about 60. They agree it is a big share, but not on the exact amount.
 5. (mcq) A redwood's leaves at the very top are much smaller than their lower leaves. What might that tell scientists?  
    Options: Water barely reaches the top, so the top leaves stay small and thirsty / The top leaves are younger / The top gets less light / The tree is ill  
    **Answer:** Water barely reaches the top, so the top leaves stay small and thirsty. *Why:* George Koch's team found the top leaves of the tallest redwoods were small and thirsty. It was as if water could barely be pulled that high. This helped them estimate how tall a tree can grow. Picking 'less light' is wrong, because the top gets the most light of all.
-6. (order) Put these in order, from the one that lifts water LEAST high to the one that lifts it MOST high: a tall tree, a suction pump, a paper towel.  
-   **Answer:** order shown. *Why:* A paper towel lifts water a few centimetres by capillary action. A suction pump lifts it up to about 10 metres. A tall tree lifts it over 100 metres, by pulling from the top.
+6. (write) A plant's xylem tubes are very narrow, far thinner than a hair, and there are thousands of them. Why might many narrow tubes work better than one wide pipe?  
+   **Answer:** If an air bubble gets into one tube, the water thread there snaps. With thousands of tubes, the others keep carrying water, so the plant does not dry out. In a narrow tube, water also clings to the walls and to itself, so the thread holds together better.. *Why:* A strong answer sees that many tubes are back-ups for each other. One broken thread does not stop the whole plant.
 7. (mcq) Astronauts on the space station grow plants in small pillows with wicks. Why?  
    Options: In space, water does not drip down into the soil, so wicks bring it to the roots / Plants in space do not need water / The pillows keep the plants warm / To stop the plants floating off  
    **Answer:** In space, water does not drip down into the soil, so wicks bring it to the roots. *Why:* On Earth, gravity pulls water down around the roots. In space, water floats in clumps. A wick moves water by capillary action, which works without gravity. Picking 'to stop floating off' is partly true for the plants, but the wicks are for the water.
@@ -814,7 +816,7 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
 9. (mcq) Why do flower sellers cut stems again under water?  
    Options: To stop air bubbles blocking the water tubes / To clean the knife / To make the flowers smell nice  
    **Answer:** To stop air bubbles blocking the water tubes. *Why:* An air bubble breaks the thread of water in a tube. Cutting under water keeps air out. Picking 'clean the knife' misses that the water is for the stem.
-10. (mcq) In Be Stephen Hales, the plant lost 32 grams of water on a sunny day and 14 grams on a cloudy day. Which other result in this unit agrees with this?  
+10. (mcq) In Be Stephen Hales, the plant lost more weight on a sunny day than on a cloudy day. Which other result in this unit agrees with this?  
    Options: In the Sweating Branch test, the bag in the sun collected more water / In the Blue Climb, the plain-water flower stayed white / In the Two-Colour Flower, each side took a different colour  
    **Answer:** In the Sweating Branch test, the bag in the sun collected more water. *Why:* Both results show that leaves let out more water in the sun. When two different tests agree, we can trust the idea more. The other two results are true, but they are about the tubes, not about sun and shade.
 11. (mcq) In the Sweating Branch test, what should be different between the two branches?  

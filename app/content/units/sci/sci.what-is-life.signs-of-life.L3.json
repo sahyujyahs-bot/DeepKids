@@ -2323,7 +2323,7 @@
        "Never alive"
       ],
       [
-       "a dry fallen neem leaf",
+       "a woollen shawl",
        "Once alive"
       ],
       [
@@ -2332,7 +2332,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Alive things do the signs of life now. Once-alive things were part of a living thing, like a shell from a coconut palm or cotton from a cotton plant. Never-alive things were never part of a living thing."
+     "why": "Alive things do the signs of life now. Once-alive things were part of a living thing, like a shell from a coconut palm, cotton from a cotton plant or wool from a sheep. Never-alive things were never part of a living thing."
     },
     {
      "t": "mcq",
@@ -2362,10 +2362,9 @@
     },
     {
      "t": "truefalse",
-     "p": "A dry moong seed in a packet is dead, because they show no signs of life.",
-     "a": false,
-     "why": "False. A dry seed is dormant, which means alive but resting. In the seed test, the dry seeds in cup B sprouted once they got water.",
-     "how": "e2"
+     "p": "A child grows taller because her body builds new cells out of the food she eats.",
+     "a": true,
+     "why": "True. Living things grow from inside. Cells use food to build new cells, so the body gets bigger. A cloud or a crystal only gets bigger when more stuff is added to the outside."
     },
     {
      "t": "fill",
@@ -2439,7 +2438,7 @@
       },
       {
        "who": "Farhan, Meera's classmate",
-       "says": "Curd is food, like rice. Food on a plate is not alive."
+       "says": "Curd is not alive. Most of a bowl of curd is milk that has changed, and milk is not alive. It is food, like rice."
       },
       {
        "who": "Paati, Meera's grandmother",
@@ -2448,7 +2447,7 @@
      ],
      "ask": "Who do you agree with most? Give a reason. Then say one thing another person has right.",
      "lines": 5,
-     "a": "A strong answer uses a sign of life. Amma's point is reproduction: the bacteria in curd make more of themselves in warm milk. Paati's point is the most exact. Answering back, Farhan is right that curd is food, but food can still hold living things.",
+     "a": "A strong answer uses a sign of life. For Amma: the bacteria in curd make more of themselves in warm milk, which is reproduction. For Paati: the living part is the bacteria, not the whole bowl. For Farhan: most of the curd really is changed milk. Answering back, a strong answer says what is true in another view.",
      "why": "Each person sees something true. A strong answer gives evidence, like setting curd from milk, and is fair to another side."
     }
    ]
@@ -2771,9 +2770,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Some of the carbon atoms in your body were part of the air a year or two ago.",
+     "p": "A single bacterium, made of just one cell, feeds, respires, gets rid of waste and makes more of themselves, all on their own.",
      "a": true,
-     "why": "True. Plants take carbon dioxide from the air and build it into sugar and starch. You eat the plants, or animals that ate them. So the carbon in your dal was recently in the air."
+     "why": "True. One cell can be a whole living being. The bacteria in curd each do all the life processes, and they make more of themselves by splitting in two."
     },
     {
      "t": "sort",
@@ -2901,15 +2900,15 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Your body turns your lunch into energy, using oxygen, inside every cell. Which sign of life is this?",
+   "p": "A dog hears her name, pricks up her ears and runs to the door. Which two signs of life is she showing?",
    "opts": [
-    "Excretion",
-    "Movement",
-    "Reproduction",
-    "Respiration"
+    "Growth and excretion",
+    "Nutrition and reproduction",
+    "Sensing and movement",
+    "Respiration and growth"
    ],
-   "a": 3,
-   "why": "Respiration is getting energy out of food inside cells. Breathing brings in the oxygen that respiration uses.",
+   "a": 2,
+   "why": "Hearing her name is sensing. Running to the door is movement. Respiration is going on too, inside her cells, but you cannot see it here.",
    "outcome": 0
   },
   {
@@ -2974,15 +2973,15 @@
   },
   {
    "t": "mcq",
-   "p": "In the seed test, the beads on wet cotton never changed. Why were the beads there?",
+   "p": "In the seed test, every cup got the same amount of water and sat in the same warm place. Why?",
    "opts": [
-    "To feed the seeds",
-    "To keep the cotton wet",
-    "Because beads are a kind of seed",
-    "To show that wet cotton and water alone do not make things grow"
+    "So that the cups look neat",
+    "So that the only difference between the cups was what was in them: soaked, dry or boiled seeds, or beads",
+    "Because seeds only grow in a row",
+    "So the cotton does not dry out"
    ],
-   "a": 3,
-   "why": "The beads are a comparison. They got the same water, but they were never alive, so they never grew.",
+   "a": 1,
+   "why": "A fair test keeps everything the same except the one thing you are testing. Then any difference must come from that one thing.",
    "outcome": 3,
    "how": "e2"
   },

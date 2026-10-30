@@ -1074,7 +1074,7 @@
      "t": "truefalse",
      "p": "Every kind of bird that dives into water has a long, pointed beak like a kingfisher's.",
      "a": false,
-     "why": "False. Pelicans and gannets dive too, with different beaks and bodies. The kingfisher's long, slowly widening beak is one good answer to the splash problem, not the only one. A strong answer names another diving bird or says what else could help, such as folding the wings back."
+     "why": "False. Brown pelicans plunge into the sea with a huge pouched beak. Cormorants and ducks dive from the surface with hooked or flat beaks. The kingfisher's long, slowly widening beak is one good answer to the splash problem, not the only one. A strong answer names another diving bird or says what else could help, such as folding the wings back."
     }
    ]
   },
@@ -1162,9 +1162,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Termite mounds are cooled by fans that the termites build.",
+     "p": "A termite mound needs air moving through it only to keep cool.",
      "a": false,
-     "why": "False. There are no fans. Thick earth walls slow the heat. Air moves through tiny holes because the walls warm and cool with day and night, and because of the wind."
+     "why": "False. Millions of termites, and the fungus they grow inside, breathe out carbon dioxide. It must get out, and fresh air must get in, or they would suffocate. So the moving air does two jobs: it lets the mound breathe, and it helps keep it from getting too hot. A strong answer names both jobs."
     },
     {
      "t": "fill",
@@ -1195,10 +1195,10 @@
     },
     {
      "t": "write",
-     "p": "Your water bottle gets warm in the sun on the way to school. Use an idea from nature to make a cover for it. Say how you would test it fairly.",
+     "p": "Scientists have made gecko tape with tiny hairs. It grips glass well, but after some uses it gets dusty and grips less. A real gecko's toes clean themselves as the gecko walks. What does this tell you about copying nature? Say what an inventor could try next.",
      "lines": 4,
-     "a": "I would copy the termite mound's thick walls. I would make a thick cotton cover. To test it, I would put two bottles of the same water in the sun, one with the cover and one without, and feel which is cooler after an hour.",
-     "why": "A strong answer names an idea from nature, explains how the cover uses it, and describes a test where only the cover changes."
+     "a": "It tells me a copy often takes only part of the design. The gecko's toes do two jobs, gripping and staying clean, and the tape copied only the gripping. An inventor could study how the gecko's toes shed dust as they walk, and try to copy that part too.",
+     "why": "A strong answer sees that the living design solves more than one problem, and that a good copy has to find and copy each part that matters."
     },
     {
      "t": "perspective",
@@ -1346,7 +1346,7 @@
        "Copies how it works"
       ],
       [
-       "a lamp shaped like a lotus flower",
+       "a peacock-feather pattern printed on a sari",
        "Copies only the look"
       ],
       [
@@ -1408,22 +1408,20 @@
     },
     {
      "t": "order",
-     "p": "Put these in order, to show how burrs came to have such good hooks.",
+     "p": "Put these in order, to show why a blunt-nosed train made a boom coming out of a tunnel.",
      "items": [
-      "More of their seeds grow into new plants",
-      "Some burdock plants have slightly better hooks than others",
-      "Over many generations, the hooks get better and better",
-      "Their burrs get carried further by animals",
-      "Their young plants have good hooks too"
+      "The squeezed air bursts out of the far end with a loud boom",
+      "A blunt-nosed train rushes into the tunnel",
+      "The air inside cannot get out of the way fast enough",
+      "A wave of squeezed air races ahead of the train along the tunnel"
      ],
      "a": [
-      "Some burdock plants have slightly better hooks than others",
-      "Their burrs get carried further by animals",
-      "More of their seeds grow into new plants",
-      "Their young plants have good hooks too",
-      "Over many generations, the hooks get better and better"
+      "A blunt-nosed train rushes into the tunnel",
+      "The air inside cannot get out of the way fast enough",
+      "A wave of squeezed air races ahead of the train along the tunnel",
+      "The squeezed air bursts out of the far end with a loud boom"
      ],
-     "why": "Each step causes the next. This is how evolution shapes living things, a little at a time, over many generations."
+     "why": "Each step causes the next. A long nose that widens slowly squeezes the air a little at a time, so the wave is weaker and the boom is much quieter."
     },
     {
      "t": "fill",
@@ -2916,15 +2914,15 @@
   },
   {
    "t": "mcq",
-   "p": "Who invented Velcro?",
+   "p": "Velcro's hooks hold tight when you press the two strips together. Why can you still peel them apart easily?",
    "opts": [
-    "NASA, the American space agency",
-    "Leonardo da Vinci",
-    "Eiji Nakatsu",
-    "George de Mestral, a Swiss engineer"
+    "The hooks melt when you pull",
+    "Peeling pulls only a few bendy hooks at a time, and each one bends open and slips out of its loop",
+    "The loops disappear",
+    "Velcro has glue that dries out"
    ],
-   "a": 3,
-   "why": "George de Mestral had the idea after studying burrs in 1941, and applied for a patent in 1951. Picking NASA is a famous mistake. NASA used Velcro in spacecraft later, but did not invent it.",
+   "a": 1,
+   "why": "Peeling makes only a few hooks let go at once, so each pull is small. Pulling the whole strip straight off is much harder, because every hook must let go together. Burrs come off fur the same way, a few hooks at a time. Picking 'glue' means thinking the grip is sticky. It is hooks and loops.",
    "outcome": 1
   },
   {
@@ -2936,7 +2934,7 @@
     "Dirt would block the sunlight the leaf uses to make food"
    ],
    "a": 2,
-   "why": "A leaf makes food from sunlight, so dirt on it means less food. Germs and spores left on a leaf can also make it sick. Picking 'so people think it looks pretty' looks at the lotus from our side. The lotus keeps clean for their own life.",
+   "why": "A leaf makes food from sunlight, so dirt on it means less food. Germs and spores left on a leaf can also make the plant sick. Picking 'so people think it looks pretty' looks at the lotus from our side. The lotus keeps clean for their own life.",
    "outcome": 2
   },
   {
@@ -3012,8 +3010,8 @@
    "p": "How does a gecko stick to a glass window?",
    "opts": [
     "Millions of tiny hairs get so close that their atoms pull on the glass",
-    "Sticky glue on its toes",
-    "Suction cups on its feet",
+    "Sticky glue on their toes",
+    "Suction cups on their feet",
     "Tiny claws that dig into the glass"
    ],
    "a": 0,

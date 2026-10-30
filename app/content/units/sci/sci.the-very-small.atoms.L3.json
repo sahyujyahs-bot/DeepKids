@@ -882,8 +882,8 @@
      "t": "write",
      "p": "Lakshmi, a girl in Class 4, cuts a 24 cm strip of paper in half, again and again. After 8 cuts, the piece is too small to cut. Her little brother says, \"Now you have one atom!\" Explain to him why he is wrong.",
      "lines": 3,
-     "a": "The last piece is about 1 millimetre long. You can still see it and pick it up, so it is far bigger than an atom. It still has millions of atoms across it. To get a piece only one atom wide, you would have to halve it about 31 times, so 23 more cuts.",
-     "why": "A strong answer says the piece can still be seen, and that it would take about 23 more halvings to reach one atom.",
+     "a": "The last piece is about 1 millimetre long. You can still see it and pick it up, but you can never see a single atom, so this piece is far bigger than one. Millions of atoms would still fit in a row across it.",
+     "why": "A strong answer uses evidence: the piece can still be seen, and atoms are far too small to see, so the piece must still be made of a huge number of atoms.",
      "context": "This question is about the paper-cutting experiment. You cut a 24 cm strip of paper in half, then cut one half in half, again and again.",
      "how": "e1"
     },
@@ -931,7 +931,7 @@
      "t": "truefalse",
      "p": "A grain of salt is made of only a few atoms.",
      "a": false,
-     "why": "False. One grain of salt has more than a billion billion atoms in it. Atoms are so small that even the tiniest thing you can see is made of a huge number of them."
+     "why": "False. One grain of salt has about a billion billion atoms in it. Atoms are so small that even the tiniest thing you can see is made of a huge number of them."
     },
     {
      "t": "order",
@@ -1042,9 +1042,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Electrons go round the centre of an atom on neat tracks, like planets round the Sun.",
+     "p": "When water boils into steam, each water molecule swells up and becomes bigger.",
      "a": false,
-     "why": "False. That picture was drawn in 1913, and it is still in many books and logos. Experiments show that electrons have no tracks. We can only say where they are likely to be."
+     "why": "False. The molecules stay the same size. In steam they move much faster and spread far apart, so the same water takes up much more space. Many people think the molecules themselves grow, but only the gaps between them do."
     },
     {
      "t": "mcq",
@@ -1213,10 +1213,11 @@
      "how": "a6"
     },
     {
-     "t": "truefalse",
-     "p": "An electron in an atom can have any amount of energy at all, like a ball that can stop anywhere on a ramp.",
-     "a": false,
-     "why": "False. An electron can only have certain amounts of energy, like standing on the steps of a staircase, never in between. These steps are called energy levels. This is one way the very small does not behave like the things we see.",
+     "t": "write",
+     "p": "Fireworks get their colours from different kinds of atoms: sodium gives yellow, copper gives blue-green and strontium gives red. Using the staircase game, explain why each kind of atom gives its own colour.",
+     "lines": 4,
+     "a": "Each kind of atom has its own staircase of energy steps. When heat lifts an electron up and it drops back down, it gives out light. The colour depends on how big the drop is. Sodium, copper and strontium have different steps, so their drops are different sizes and their colours are different.",
+     "why": "A strong answer says that the energy steps belong to each kind of atom, and that the size of the drop decides the colour.",
      "context": "This question is about the staircase game, where you act as an electron jumping up and down steps.",
      "how": "a6"
     },
@@ -1405,12 +1406,12 @@
      "t": "mcq",
      "p": "Ritu, a girl in Class 5, says, \"One day, better microscopes will show exactly where an electron is and exactly how fast it is going, both at once.\" What would a physicist tell her?",
      "opts": [
-      "No tool can ever do this. An electron does not have an exact place and an exact speed at the same time",
+      "No tool can ever do this. Nature sets a limit: the more exactly anyone knows where an electron is, the less exactly they can know its speed",
       "She is right. Our tools just need to get better",
       "Electrons are invisible, so we can never measure them at all"
      ],
      "a": 0,
-     "why": "Werner Heisenberg showed this in 1927. It is a rule of nature, not a problem with our tools. Electrons can be measured, but the more exactly we know where one is, the less exactly we can know its speed."
+     "why": "Werner Heisenberg showed this in 1927. It is a rule of nature, not a problem with our tools. Electrons can be measured, but never both their exact place and their exact speed at once. Physicists still argue about what this means the electron is really like."
     },
     {
      "t": "match",

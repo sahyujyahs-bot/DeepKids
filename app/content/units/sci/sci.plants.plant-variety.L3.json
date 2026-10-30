@@ -2390,9 +2390,9 @@
     },
     {
      "t": "odd",
-     "p": "Which one is the odd one out, and why? Neem, mango, rose, peepal.",
-     "a": "Rose, because they are a shrub. The others are trees.",
-     "why": "Rose has many woody stems from near the ground. Neem, mango and peepal each have one big trunk."
+     "p": "Which one is the odd one out, and why? Coriander, spinach, mint, guava.",
+     "a": "Guava, because a guava is a tree with one woody trunk. Coriander, spinach and mint are herbs with soft green stems.",
+     "why": "The stem is the clue. Press a coriander or mint stem and they dent and bend. A guava trunk is hard wood."
     },
     {
      "t": "perspective",
@@ -2413,7 +2413,7 @@
      ],
      "ask": "Which plant would you choose? Give a reason that uses the kind of plant they are and how people use it. Then say one good point another person made.",
      "lines": 5,
-     "a": "A strong answer links the choice to the plant's kind. A curry leaf shrub has woody stems and grows big, so it needs a deep pot, but it gives leaves for years. A tulsi is a herb that grows fast in a small pot and is used as a home remedy. A money plant is a climber, so it needs the grill as a support, and it can shade a window. A strong answer then admits another person's good point.",
+     "a": "A strong answer links the choice to the plant's kind. A curry leaf shrub has woody stems and grows big, so they need a deep pot, but they give leaves for years. A tulsi is a herb. They grow fast in a small pot, and people use their leaves as a home remedy. A money plant is a climber, so they need the grill as a support, and they can shade a window. A strong answer then admits another person's good point.",
      "why": "Each choice is sensible. They trade off food, medicine, shade and space. What matters is using the plant's kind to say how it will grow in one small pot."
     },
     {
@@ -2503,10 +2503,11 @@
      "how": "e2"
     },
     {
-     "t": "truefalse",
-     "p": "A banana plant is a tree, because they are tall.",
-     "a": false,
-     "why": "False. Their trunk has no wood. It is made of rolled-up leaf bottoms. So botanists call the banana a giant herb."
+     "t": "write",
+     "p": "A watermelon plant creeps over the hot sand of a riverbank. Their big leaves lie spread out on the ground. How might creeping help them there? What danger does it bring?",
+     "lines": 4,
+     "a": "Creeping helps because the plant does not spend food on a stem strong enough to stand up. They can spread fast over the open sand and catch lots of sunlight. Their leaves also shade the sand, which keeps it a little damp. The danger is that animals and people can step on them or eat them, and taller plants nearby can shade them.",
+     "why": "A strong answer gives a good point and a bad point. Every way of growing has a cost as well as a gain."
     },
     {
      "t": "mcq",
@@ -2521,10 +2522,16 @@
      "why": "A tree trunk adds a new layer of wood every year, so it grows fatter. A bamboo stem is hollow and jointed, like a wheat stalk, and stays the same thickness. Picking 'very tall' is the mistake this question tests. Height does not tell you the kind."
     },
     {
-     "t": "truefalse",
-     "p": "If a plant is natural, they are always safe to eat.",
-     "a": false,
-     "why": "False. Kaner, datura and castor seeds are natural, but very poisonous. Never taste a plant unless a grown-up who truly knows them says they are safe."
+     "t": "mcq",
+     "p": "Rice, wheat and ragi are all herbs. Why do farmers grow herbs, not trees, to get grain?",
+     "opts": [
+      "A herb grows from seed to grain in a few months, so a field gives a crop every season",
+      "Trees cannot make seeds",
+      "Herbs need no water",
+      "Trees grow only in forests"
+     ],
+     "a": 0,
+     "why": "A herb does not spend years building a woody trunk. They put their food into seeds quickly, often within four months. So farmers can sow and harvest again and again. Picking 'trees cannot make seeds' is wrong: mango and tamarind trees make plenty of seeds, but only after many years."
     },
     {
      "t": "mcq",
@@ -2552,10 +2559,10 @@
     },
     {
      "t": "write",
-     "p": "Why does a climber not need a thick trunk? Use the words 'support' and 'light' in your answer.",
+     "p": "Teak wood is used for doors. Coriander is used for chutney. Why do we take wood from trees, but never from herbs?",
      "lines": 3,
-     "a": "A climber holds on to a support, like a tree or a wall. They climb up the support towards the light. So they do not need to spend food building their own thick trunk.",
-     "why": "Climbers borrow someone else's trunk to reach the light."
+     "a": "A tree builds a hard, woody trunk, year after year. A herb's stem stays soft and green, with very little wood in it. So there is no wood in a coriander plant to make a door from.",
+     "why": "A strong answer links the use to the kind of stem. The kind of plant tells us what we can use them for."
     },
     {
      "t": "order",
@@ -2568,16 +2575,13 @@
      "why": "The bigger the plant and the more leaves high above you, the more shade they give."
     },
     {
-     "t": "mcq",
-     "p": "In Hug a Tree, the trunk measured 50 cm around. With the rough rule of 2 and a half cm a year, about how old is the tree?",
-     "opts": [
-      "About 20 years",
-      "About 50 years",
-      "About 125 years"
+     "t": "fill",
+     "p": "In Hug a Tree, the trunk measured 50 cm around. With the rough rule of 2 and a half cm a year, the tree is about ____ years old.",
+     "a": [
+      "20",
+      "twenty"
      ],
-     "a": 0,
      "why": "50 divided by 2 and a half is 20. Check: 20 times 2 and a half is 50. So the tree is roughly 20 years old. Remember the rule is only a rough guess.",
-     "how": "a3",
      "context": "In Hug a Tree, you measured around a tree trunk with string to guess the tree's age."
     },
     {
@@ -2592,24 +2596,24 @@
      "p": "Match each thing to the part of the plant it is made from.",
      "pairs": [
       [
-       "Cotton cloth",
-       "the fluffy hairs on cotton seeds"
-      ],
-      [
        "Jute sack",
        "the stem of the jute plant"
       ],
       [
-       "Coir rope",
-       "the husk round a coconut"
+       "Turmeric powder",
+       "the underground stem of turmeric"
       ],
       [
-       "Paper",
-       "wood from tree trunks"
+       "Cinnamon",
+       "the bark of the cinnamon tree"
       ],
       [
-       "Sugar",
-       "the juicy stem of sugarcane"
+       "Coconut oil",
+       "the white flesh inside a coconut"
+      ],
+      [
+       "Tamarind in rasam",
+       "the fruit of the tamarind tree"
       ]
      ],
      "a": "pairs as given",
@@ -2708,15 +2712,11 @@
      "why": "Plants change as they grow. Our kinds are useful guides, not walls."
     },
     {
-     "t": "mcq",
-     "p": "Scientists have named more than 350,000 kinds of plants. About how many new ones are named each year?",
-     "opts": [
-      "None, they have found them all",
-      "About 2,000",
-      "About 2 million"
-     ],
-     "a": 1,
-     "why": "About 2,000 new plant species are named every year. Many places, like rainforest treetops and remote hills, are still little explored."
+     "t": "write",
+     "p": "Many people think climbers are lazy, because they use other plants to hold them up. A climber still has hard work to do. Name two things a climber must do that a tree does not.",
+     "lines": 4,
+     "a": "For example: a climber must find a support, so their tip circles slowly, searching. They must grab and hold on, with tendrils that coil, little roots that grip, or a stem that twists. They must also grow long very fast, to reach the light before other plants shade them.",
+     "why": "A strong answer names real work, like searching, gripping or growing fast. Climbers do not build a trunk, but they spend their food and effort in other ways."
     },
     {
      "t": "write",

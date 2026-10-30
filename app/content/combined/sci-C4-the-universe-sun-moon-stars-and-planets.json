@@ -6,11 +6,11 @@
  "n": "the-universe-sun-moon-stars-and-planets",
  "title": "Light, shadows and the sky's calendar",
  "source": "DeepKids Combined. Covers NCERT Class 4 'Our Sky' (Sun, Moon and stars; festivals and practices linked to the sky; shadows at different times of day and why their length changes) and Cambridge Primary Science Stage 4, Unit 5.4 'Light in the solar system' (the Sun as the light source; planets, moons, asteroids and comets). No textbook needed.",
- "summary": "Everything we see in space, except the stars, is lit by one lamp: the Sun. Your child measures how shadows change with the Sun's height, finds true north from the shortest shadow, makes an eclipse with a lamp and a bead, keeps a month-long Moon diary, and learns how the Sun and Moon set India's calendars and festivals. They meet comets, asteroids, the moons of other planets, Chandrayaan-3, and a woman who did the sums that predicted the return of Halley's comet.",
+ "summary": "Apart from the stars, everything we see in space shines with sunlight. Your child measures how shadows change with the Sun's height, finds the north-south line from the shortest shadow, makes an eclipse with a lamp and a bead, and keeps a month-long Moon diary. They learn how the Sun and the Moon set India's calendars and festivals. They meet comets, asteroids, the moons of other planets, Chandrayaan-3, and a woman who did the sums that predicted the return of Halley's comet.",
  "builds_on": "In Class 3 your child learned that the Sun is a star, the planets and the Moon reflect its light, and the Moon's phases come from how much of its lit half we see. In Class 2 (Day, night and rhythms of nature) they tracked a shadow stick. Next, in Class 5, they will use latitude and longitude, explain time zones and compare natural and artificial satellites.",
  "goals": [
   "By the end your child can explain that the Sun lights the whole solar system, and that we see the Moon and planets by reflected sunlight.",
-  "By the end your child can measure shadows and explain why they are longest when the Sun is low, and use the shortest shadow to find north.",
+  "By the end your child can measure shadows, explain why they are longest when the Sun is low, and use the shortest shadow to find north.",
   "By the end your child can show with a model how solar and lunar eclipses are made by shadows in space.",
   "By the end your child can keep a Moon diary and describe the pattern of phases across a month.",
   "By the end your child can give examples of festivals and calendars set by the Sun and by the Moon.",
@@ -22,11 +22,11 @@
   "earthshine",
   "light travels in straight lines, so shadows have sharp shapes",
   "shadow length depends on the Sun's height",
-  "the shortest shadow of the day points north (in most of India)",
+  "the shortest shadow of the day lies on the north-south line",
   "sundials and Jantar Mantar",
   "Zero Shadow Day",
   "eclipses are shadows in space",
-  "a month of Moon phases; the Moon rises later each night",
+  "a month of Moon phases, and the Moon rising later each night",
   "solar and lunar calendars and festivals",
   "nakshatras and star patterns",
   "asteroids, comets and moons of other planets",
@@ -79,7 +79,7 @@
   ],
   [
    "nakshatra",
-   "one of 27 star groups along the Moon's path used in Indian calendars"
+   "one of 27 star groups along the Moon's path, used in Indian calendars"
   ]
  ],
  "day_mins": 45,
@@ -93,19 +93,19 @@
      "kind": "warmup",
      "title": "What lights the sky?",
      "mins": 7,
-     "do": "Recall Class 3: ask 'Which things in the sky make their own light? Which only reflect it? Why does the Moon change shape?' Good answers: 'the Sun and stars make light; the Moon and planets reflect it'; 'we see different amounts of the Moon's sunlit half'. Say: 'This year we follow the light: where it comes from, what it lights and where it can't reach.'"
+     "do": "Recall Class 3. Ask: 'Which things in the sky make their own light? Which only reflect it? Why does the Moon change shape?' Good answers: 'The Sun and the stars make light. The Moon and the planets reflect it.' 'We see different amounts of the Moon's sunlit half.' Say: 'This year we follow sunlight: what it lights up, and where its shadows fall.'"
     },
     {
      "kind": "talk",
      "title": "Sky from morning to night",
      "mins": 8,
-     "do": "Ask your child to describe the sky at dawn, midday, sunset and midnight: colours, brightness, what animals and people are doing. Make a quick four-box drawing. Ask: 'What changes? What is the cause of every change?' (Where the Sun is.)"
+     "do": "Ask your child to describe the sky at dawn, at midday, at sunset and at midnight: the colours, how bright it is, and what animals and people are doing. Make a quick drawing in four boxes. Ask: 'What changes? What causes every one of these changes?' (Where the Sun is.)"
     },
     {
      "kind": "act",
      "title": "Start the Moon diary",
      "mins": 10,
-     "do": "Start Activity a1, the Moon diary. Today, look up the Moon's phase (in a panchang or calendar, or by looking). If the Moon is up tonight, draw it, write the date, the time and where in the sky it was (east, high, west). Set a daily reminder for the next 30 days.",
+     "do": "Start Activity a1, the Moon diary. Today, look up the Moon's phase in a panchang or calendar. If the Moon is up tonight, look from a window, balcony or terrace. Draw it, and write the date, the time and where in the sky it was (east, high, west). Set a daily reminder for the next 30 days.",
      "ref": "a1"
     },
     {
@@ -118,7 +118,7 @@
      "kind": "review",
      "title": "Make a prediction",
      "mins": 5,
-     "do": "Ask: 'Will the Moon rise at the same time every night?' Write the prediction inside the diary cover. We will check in a week."
+     "do": "Ask: 'Will the Moon rise at the same time every night? Why do you think so?' Write the guess inside the diary cover. You will check it on Day 5."
     }
    ],
    "need": [
@@ -150,23 +150,23 @@
      "kind": "talk",
      "title": "Earthshine",
      "mins": 8,
-     "do": "Say: 'Look at a thin crescent Moon a few days after Amavasya and you can often see the rest of the Moon glowing faintly. That is earthshine: sunlight bounced off the Earth onto the Moon, then back to us. Leonardo da Vinci explained it in his notebooks 500 years ago.' Ask: 'So the Earth shines too. What would the Earth look like from the Moon?' (A big bright ball with phases.)"
+     "do": "Say: 'Look at a thin crescent Moon a few days after Amavasya. You can often see the rest of the Moon glowing faintly. That is earthshine: sunlight bounces off the Earth onto the Moon, then back to us. Leonardo da Vinci explained it in his notebook about 500 years ago.' Ask: 'So the Earth shines too. What would the Earth look like from the Moon?' (A big bright ball, with phases.)"
     },
     {
      "kind": "do",
      "title": "Draw the rays",
      "mins": 13,
-     "do": "On a sheet, draw the Sun on the left, the Moon in the middle and an eye on the right. Your child uses a ruler to draw straight rays from the Sun to the Moon, and from the Moon to the eye, with arrows. Ask: 'Why is it a straight line?' (Light travels in straight lines.) Then draw a planet and the eye. Ask: 'Why can we see Venus but not a planet round another star?' (It is too far and faint; it reflects only a little light, and is lost in its star's glare.)"
+     "do": "On a sheet, draw the Sun on the left, the Moon in the middle and an eye on the right. Your child uses a ruler to draw straight rays, with arrows, from the Sun to the Moon and from the Moon to the eye. Ask: 'Why is it a straight line?' (Light travels in straight lines.) Then ask: 'We can see Venus. Why can't we see a planet going round another star?' (It is very far away and reflects only a little light, so it is lost in its star's glare.)"
     },
     {
      "kind": "review",
      "title": "One sentence",
      "mins": 5,
-     "do": "Your child finishes: 'Apart from the stars, everything I see in the night sky is lit by ____.' (the Sun)"
+     "do": "Your child finishes the sentence: 'The Moon and the planets I see at night are lit by ____.' (the Sun)"
     }
    ],
    "need": [
-    "a lamp without a shade",
+    "a lamp with the shade taken off",
     "a white ball and a dark ball",
     "a ruler",
     "paper"
@@ -179,34 +179,34 @@
    "steps": [
     {
      "kind": "warmup",
-     "title": "Moon diary and a shadow riddle",
+     "title": "Moon diary and a guess",
      "mins": 5,
-     "do": "Check the diary. Then ask: 'I follow you in the morning and lead you in the evening. At noon I almost disappear. What am I?' (Your shadow.)",
+     "do": "Check the diary. Then ask: 'When is your shadow longest: in the morning, at noon or in the evening? Why do you think so?' Today's test will check the guess.",
      "ref": "a1"
     },
     {
      "kind": "exp",
      "title": "Torch height and shadow length",
      "mins": 22,
-     "do": "Do Experiment e2 with a torch, a pencil in clay and a ruler. Your child fills in the table and draws a bar chart.",
+     "do": "Do Experiment e2 with a torch, a crayon standing in clay and a ruler. Your child fills in the table and draws a bar chart.",
      "ref": "e2"
     },
     {
      "kind": "think",
      "title": "Why do shadows have sharp edges?",
      "mins": 8,
-     "do": "Shine a torch past a pencil onto a wall. Ask: 'Why is the shadow the same shape as the pencil?' Good answer: 'Light goes in straight lines; it can't bend round the pencil.' Now hold a tube light or a big window light and see a fuzzier shadow. Ask: 'Why fuzzy?' (Light comes from many places on a big source.)"
+     "do": "Shine a torch past a pencil onto a wall. Ask: 'Why is the shadow the same shape as the pencil?' Good answer: 'Light goes in straight lines. It can't bend round the pencil.' Now hold the pencil near a tube light or a bright window. Ask: 'Why is this shadow fuzzy?' (A big light shines from many places at once.)"
     },
     {
      "kind": "review",
      "title": "Predict the real Sun",
      "mins": 10,
-     "do": "Ask: 'Using your chart, when in the day will your shadow be longest? Shortest?' Then go outside at 10 minutes to the nearest hour, measure your child's shadow with a measuring tape and write it down. Repeat whenever you can today."
+     "do": "Ask: 'Using your chart, when in the day will your shadow be longest? When will it be shortest?' Then measure your child's shadow with a measuring tape on a sunny balcony, terrace or the building compound, at about 9 am, 12 noon and 4 pm today. Write each length down."
     }
    ],
    "need": [
     "a torch",
-    "a pencil and clay",
+    "a crayon and some clay or atta dough",
     "a ruler",
     "a measuring tape",
     "squared paper"
@@ -221,7 +221,7 @@
      "kind": "outdoor",
      "title": "The noon line",
      "mins": 15,
-     "do": "Do Activity a2. Set up the stick at 11 am and mark the shadow tip every 15 minutes until 1:30 pm.",
+     "do": "Do Activity a2. Set up the stick at 11 am. Then go back every 15 minutes until 1:30 pm to mark the tip of the shadow.",
      "ref": "a2"
     },
     {
@@ -235,26 +235,27 @@
      "kind": "talk",
      "title": "Zero Shadow Day",
      "mins": 6,
-     "do": "Say: 'In the part of India south of the Tropic of Cancer (Bhopal, Mumbai, Chennai, Bengaluru), the noon Sun is exactly overhead on two days a year. For a moment, an upright pole has no shadow. In Bengaluru this happens around late April and mid August.' Look up your city's dates and put them on the family calendar. Ask: 'Why can't Delhi or Srinagar ever have a Zero Shadow Day?' (They are north of the Tropic; the Sun is never overhead there.)"
+     "do": "Say: 'In the part of India south of the Tropic of Cancer (Chennai, Bengaluru, Hyderabad, Mumbai, Bhopal), the noon Sun is straight overhead on two days a year. For a moment, an upright pole has no shadow. In Bengaluru this happens around 24 April and 18 August.' Look up your city's dates and put them on the family calendar. Ask: 'Why can't Delhi or Srinagar ever have a Zero Shadow Day?' (They are north of the Tropic, so the Sun is never overhead there.)"
     },
     {
      "kind": "act",
      "title": "Check the noon line",
      "mins": 8,
-     "do": "Look at the a2 marks. The shortest one is local noon. Ask: 'What time did your clock say? Was it exactly 12?' (In most of India, local noon is not 12:00 because the whole country uses one clock time; in Gujarat it comes later, in the Northeast earlier.) Mark N on the line. Find east, south and west from it.",
+     "do": "Look at the a2 marks. The shortest shadow shows local noon. Ask: 'What time did the clock say? Was it exactly 12?' Usually not. The whole of India uses one clock time, set for a line near Mirzapur in Uttar Pradesh. Local noon comes at about 12:10 in Chennai, 12:25 in Kochi, 12:40 in Mumbai and 11:35 in Kolkata, give or take a quarter of an hour with the season. Mark N on the line, then find east, south and west.",
      "ref": "a2"
     },
     {
      "kind": "act",
      "title": "Sun-path circle dance",
      "mins": 4,
-     "do": "Stand on the noon line. Your child faces south and slowly 'draws' the Sun's path with both arms: rising from the east on their left, lifting high (but, in most of India, a little to the south) at noon, sinking to the west on their right. Then they crouch and stretch their arms along the ground the opposite way to show where the shadow points at each moment."
+     "do": "Stand on the noon line. Your child faces south and slowly draws the Sun's path with both arms: rising in the east on their left, highest at noon, sinking in the west on their right. Then they crouch and stretch their arms along the ground the opposite way, to show where the shadow points at each moment."
     }
    ],
    "need": [
-    "a straight stick 50 cm long",
-    "a flat sunny spot",
-    "chalk or stones",
+    "a straight stick or ruler, about 30 cm long",
+    "a lump of clay, or a heavy bottle and tape",
+    "a flat spot that gets sun from 11 am to 1:30 pm",
+    "chalk, or small pieces of paper and tape",
     "a watch"
    ]
   },
@@ -267,7 +268,7 @@
      "kind": "warmup",
      "title": "Moon diary check",
      "mins": 5,
-     "do": "Look at the diary. Ask: 'Did the Moon rise at the same time each night?' (No, it rises later, about 50 minutes later each day.) Compare with the prediction from Day 1.",
+     "do": "Look at the diary. Ask: 'Did the Moon rise at the same time each night?' (No. It rises about 50 minutes later each day.) Compare with the guess from Day 1.",
      "ref": "a1"
     },
     {
@@ -281,27 +282,27 @@
      "kind": "talk",
      "title": "Aryabhata and the shadows",
      "mins": 9,
-     "do": "Tell your child about Voice v2, Aryabhata, who explained eclipses as shadows. Talk gently about the old story of Rahu swallowing the Sun: 'People everywhere made stories for things they could not yet explain. Aryabhata looked at where the shadows fall and found the reason.' Ask the voice question.",
+     "do": "Tell your child about Voice v2, Aryabhata, who explained eclipses as shadows. Talk gently about the old story of Rahu swallowing the Sun: 'People everywhere made up stories for things they could not yet explain. Aryabhata looked at where the shadows fall and found the reason.' Ask the voice question.",
      "ref": "v2"
     },
     {
      "kind": "talk",
      "title": "Wang Zhenyi's garden eclipse",
      "mins": 7,
-     "do": "Tell your child about Voice v4, Wang Zhenyi, who in 18th-century China made eclipses in her garden pavilion with a round table, a hanging lamp and a mirror, just as you did with the football and bead. Ask the voice question.",
+     "do": "Tell your child about Voice v4, Wang Zhenyi, who explained lunar eclipses in China over 200 years ago. The story told about her is that she made one with a round table, a hanging lamp and a mirror, just as you did with the football and the bead. Ask the voice question.",
      "ref": "v4"
     },
     {
      "kind": "talk",
      "title": "Safe eclipse watching",
      "mins": 5,
-     "do": "Say: 'Never look at a solar eclipse directly, even when the Sun is mostly covered: it can burn the eye without any pain. Use a pinhole: a hole in a card throws a small image of the Sun onto paper.' Make a pinhole card now and try it on the normal Sun, looking only at the paper."
+     "do": "Say: 'Never look at the Sun, even during an eclipse when most of it is covered. It can burn your eye without any pain. Use a pinhole instead.' Make a pinhole in a card. On a sunny balcony, stand with your back to the Sun and hold the card so its shadow falls on white paper. The small bright circle inside the shadow is a picture of the Sun. Look only at the paper."
     },
     {
      "kind": "review",
      "title": "Sort the eclipses",
      "mins": 4,
-     "do": "Ask: 'In a solar eclipse, whose shadow falls on whom? In a lunar eclipse?' (Moon's shadow on the Earth; Earth's shadow on the Moon.) Ask: 'Which phase must the Moon be in for each?' (New Moon for solar; full Moon for lunar.)"
+     "do": "Ask: 'In a solar eclipse, whose shadow falls on whom? In a lunar eclipse?' (The Moon's shadow falls on the Earth. The Earth's shadow falls on the Moon.) Ask: 'Which phase must the Moon be in for each?' (New Moon for a solar eclipse, full Moon for a lunar eclipse.)"
     }
    ],
    "need": [
@@ -328,7 +329,7 @@
      "kind": "talk",
      "title": "Sun calendars and Moon calendars",
      "mins": 10,
-     "do": "Say: 'A year is set by the Sun: one trip round it. A month is set by the Moon: about 29 and a half days from one Amavasya to the next. Twelve Moon months make only about 354 days, so a Moon calendar slips about 11 days a year against the seasons.' Ask: 'Why does Eid come about 11 days earlier every year?' (The Islamic calendar follows only the Moon.) 'Why does Diwali stay in October or November?' (Hindu calendars add an extra month, Adhik Maas, every two or three years to keep up with the Sun.)"
+     "do": "Say: 'A year is set by the Sun: one trip round it. A month is set by the Moon: about 29 and a half days from one Amavasya to the next. Twelve Moon months make only about 354 days. So a calendar that follows only the Moon slips about 11 days a year against the seasons.' Ask: 'Why does Eid come about 11 days earlier every year?' (The Islamic calendar follows only the Moon.) Ask: 'Why does Deepavali always come in October or November?' (Hindu calendars add an extra month, Adhik Maas, every two or three years, to keep step with the Sun.)"
     },
     {
      "kind": "act",
@@ -341,7 +342,7 @@
      "kind": "talk",
      "title": "The nakshatras",
      "mins": 8,
-     "do": "Say: 'Indian sky-watchers divided the Moon's path into 27 star groups, the nakshatras, because the Moon spends about one day in each. Names like Rohini, Krittika (the Pleiades) and Chitra are nakshatras; many people's names come from them.' If someone in the family knows their birth nakshatra, find out which it is. On a clear night, look for Krittika, a tiny misty cluster of stars."
+     "do": "Say: 'Indian sky-watchers divided the Moon's path into 27 star groups, the nakshatras. The Moon spends about one day in each. Rohini, Krittika and Chitra are nakshatras, and many people are named after them.' If someone in the family knows their birth nakshatra, find out which it is. On a clear night, look for Krittika, also called the Pleiades: a tiny, misty group of stars."
     },
     {
      "kind": "ws",
@@ -372,7 +373,7 @@
      "kind": "talk",
      "title": "Rocks and snowballs",
      "mins": 10,
-     "do": "Say: 'Between Mars and Jupiter is a belt of millions of rocky lumps, the asteroids. Far beyond Neptune are icy ones. A comet is a dirty snowball of ice and dust. When it comes near the Sun, the ice turns to gas and the sunlight and the Sun's wind push the gas and dust out into a glowing tail, so the tail always points away from the Sun, even when the comet is moving away.' Ask: 'Which is the comet's front, the head or the tail?' (The head; the tail can even go in front when it moves away from the Sun.)"
+     "do": "Say: 'Between Mars and Jupiter is a belt of millions of rocky lumps, the asteroids. Far beyond Neptune there are icy ones. A comet is a ball of ice and dust. When it comes near the Sun, some ice turns to gas. Sunlight and the solar wind, a stream of tiny particles from the Sun, push the gas and dust out into a glowing tail. So the tail always points away from the Sun.' Ask: 'When a comet is moving away from the Sun, which goes first, the head or the tail?' (The tail, because it still points away from the Sun.)"
     },
     {
      "kind": "talk",
@@ -385,7 +386,7 @@
      "kind": "talk",
      "title": "Chandrayaan-3",
      "mins": 9,
-     "do": "Say: 'On 23 August 2023, India's Chandrayaan-3 lander, Vikram, landed near the Moon's south pole, the first spacecraft to land so close to it. The little rover Pragyan rolled out and studied the soil, finding sulphur and other elements. Scientists are interested in the south pole because some of its craters never see sunlight and may hold ice.' Ask: 'Why would a crater never get sunlight?' (The Sun stays low near the pole, so deep crater floors stay in shadow.)"
+     "do": "Say: 'On 23 August 2023, India's Chandrayaan-3 lander, Vikram, landed near the Moon's south pole. No spacecraft had landed so close to it before. The small rover Pragyan rolled out and studied the soil, and found sulphur. Scientists are interested in the south pole because some of its craters never get sunlight and may hold ice.' Ask: 'Why would a crater never get sunlight?' (Near the pole the Sun stays low, so the floors of deep craters stay in shadow.)"
     },
     {
      "kind": "ws",
@@ -429,7 +430,7 @@
      "kind": "review",
      "title": "Teach it back",
      "mins": 12,
-     "do": "Your child teaches a family member, using the lamp, ball and bead: 'The Sun lights everything. Shadows are long when the Sun is low. An eclipse is a shadow in space. The Moon's phases make our months.' Then they show the Moon diary so far and predict tonight's shape. Keep the diary going to finish the month (the project)."
+     "do": "Your child teaches a family member, using the lamp, the ball and the bead: 'The Sun lights the Moon and the planets. Shadows are long when the Sun is low. An eclipse is a shadow in space. The Moon's phases make our months.' Then they show the Moon diary so far and predict tonight's shape. Keep the diary going to finish the month for the project."
     }
    ],
    "need": [
@@ -452,12 +453,12 @@
      [
       {
        "t": "sort",
-       "p": "Sort them.",
+       "p": "Sort these into things that make their own light and things we see only because they reflect sunlight.",
        "items": [
         "the Sun",
         "the Moon",
         "Mars",
-        "a comet's tail",
+        "Venus",
         "Sirius (a star)",
         "a candle"
        ],
@@ -480,7 +481,7 @@
      [
       {
        "t": "mcq",
-       "p": "Your shadow is 4 metres long. The Sun is most likely...",
+       "p": "Your shadow is 4 metres long. Where is the Sun most likely to be?",
        "opts": [
         "high in the sky",
         "low in the sky",
@@ -490,7 +491,7 @@
       },
       {
        "t": "mcq",
-       "p": "In Pune, the shortest shadow of the day points...",
+       "p": "It is December in Chennai. Which way does the shortest shadow of the day point?",
        "opts": [
         "north",
         "south",
@@ -518,7 +519,7 @@
      [
       {
        "t": "match",
-       "p": "Match.",
+       "p": "Match each word to what it means.",
        "pairs": [
         [
          "Amavasya",
@@ -540,7 +541,7 @@
       },
       {
        "t": "mcq",
-       "p": "A Moon month (Amavasya to Amavasya) is about...",
+       "p": "How long is a Moon month, from one Amavasya to the next?",
        "opts": [
         "7 days",
         "29 and a half days",
@@ -568,7 +569,7 @@
      [
       {
        "t": "match",
-       "p": "Match.",
+       "p": "Match each one to what is true about it.",
        "pairs": [
         [
          "solar eclipse",
@@ -592,8 +593,8 @@
        "t": "mcq",
        "p": "Why don't we have an eclipse every month?",
        "opts": [
-        "the Moon's path is slightly tilted, so its shadow usually misses",
-        "the Sun is switched off",
+        "the Moon's path is slightly tilted, so the shadow usually misses",
+        "the Moon is too small to make a shadow",
         "clouds hide them"
        ],
        "a": 0
@@ -610,7 +611,7 @@
      [
       {
        "t": "mcq",
-       "p": "A comet's tail always points...",
+       "p": "Which way does a comet's tail always point?",
        "opts": [
         "the way the comet is going",
         "away from the Sun",
@@ -620,14 +621,14 @@
       },
       {
        "t": "sort",
-       "p": "Sort them.",
+       "p": "A moon goes round a planet. An asteroid or a comet goes round the Sun. Sort these.",
        "items": [
-        "Ceres",
+        "Ganymede, which goes round Jupiter",
         "Halley's comet",
-        "Ganymede",
-        "Titan",
-        "the asteroid belt",
-        "Phobos"
+        "Titan, which goes round Saturn",
+        "Vesta, a big rock in the belt between Mars and Jupiter",
+        "Phobos, which goes round Mars",
+        "a ball of ice and dust that grows a tail near the Sun"
        ],
        "cats": [
         "moon",
@@ -653,7 +654,7 @@
       },
       {
        "t": "write",
-       "p": "The Moon rises about 50 minutes later each night. Using a lamp and ball, explain why.",
+       "p": "The Moon rises about 50 minutes later each night. Use a lamp and a ball to explain why.",
        "lines": 3
       }
      ]
@@ -671,12 +672,12 @@
      [
       {
        "t": "write",
-       "p": "You see a lunar eclipse. Your cousin in the USA, where it is also night, sees it too. But a solar eclipse is seen only by people in a narrow strip of land. Why the difference?",
+       "p": "Kavya in Chennai watches a lunar eclipse at night. Her cousin Farhan in Dubai, where it is also night, sees it at the same time. But a total solar eclipse can be seen only from a narrow strip of land. Why the difference?",
        "lines": 3
       },
       {
        "t": "mcq",
-       "p": "At the Equator, at noon on 21 March, an upright stick's shadow is...",
+       "p": "On 21 March, at noon, Revathi stands a stick upright on the Equator. What does its shadow look like?",
        "opts": [
         "very long",
         "almost nothing",
@@ -696,23 +697,18 @@
       },
       {
        "t": "write",
-       "p": "Some families avoid cooking or eating during an eclipse. What could you test to find out whether eclipse light changes food? What is the one real danger of an eclipse?",
+       "p": "Some families avoid cooking or eating during an eclipse. What test could you do to find out whether eclipse light changes food? What is the one real danger of an eclipse?",
        "lines": 3
       }
      ]
     ],
     [
-     "B. Credit and calendars",
+     "B. Calendars and credit",
      [
       {
-       "t": "mcq",
-       "p": "Who did much of the long calculation that predicted when Halley's comet would return in 1759?",
-       "opts": [
-        "Isaac Newton alone",
-        "Nicole-Reine Lepaute, with Clairaut and Lalande",
-        "Galileo"
-       ],
-       "a": 1
+       "t": "write",
+       "p": "Two groups decide when Eid begins. Ayesha's group waits until someone has really seen the thin new Moon. Hafsa's group works out in advance, with calculations, when it can be seen. Pick one side and give a reason. Then say one good point of the other side.",
+       "lines": 4
       },
       {
        "t": "fill",
@@ -727,9 +723,9 @@
        "t": "sort",
        "p": "Set by the Sun or by the Moon?",
        "items": [
-        "Makar Sankranti",
+        "Puthandu",
         "Eid al-Fitr",
-        "Diwali (Amavasya)",
+        "Karthigai Deepam",
         "Pongal",
         "Buddha Purnima",
         "Vishu"
@@ -741,7 +737,7 @@
       },
       {
        "t": "write",
-       "p": "Is it fair that a famous name gets the credit for work done by a team? How could we make sure helpers are remembered?",
+       "p": "Alexis Clairaut published the sums that predicted the return of Halley's comet, and left out Nicole-Reine Lepaute's name. His helper Jérôme Lalande later wrote that the work could not have been done without her. If you were a historian today, what evidence would you look for to find out who did the work?",
        "lines": 3
       }
      ]
@@ -756,19 +752,19 @@
    "day": 2,
    "question": "Why does every planet and moon have a bright side and a dark side?",
    "need": [
-    "a lamp without a shade (the Sun)",
+    "a lamp with the shade taken off (the Sun)",
     "a white ball and a dark ball",
     "a dark room"
    ],
    "steps": [
-    "Put the lamp in the middle of the dark room.",
-    "Hold the white ball a metre away. Walk all the way round the lamp, looking at the ball. Ask: 'Which side is bright?'",
-    "Stand behind the ball and look at it from the dark side. Then stand beside it.",
-    "Try the dark ball. Which is easier to see?"
+    "Put the lamp on a table in the middle of a dark room.",
+    "You hold the white ball about a metre from the lamp. Your child walks slowly in a circle round the ball, looking at it all the time.",
+    "Ask: 'Which side of the ball is bright? Which side is dark?'",
+    "Try the dark ball the same way. Ask: 'Which ball is easier to see?'"
    ],
-   "predict": "Ask: 'Will the ball ever be bright all over?'",
-   "observe": "The side facing the lamp is always bright; the far side is always dark. From the side you see half bright, half dark. The white ball is easier to see than the dark one.",
-   "why": "Planets and moons have no light of their own. The Sun lights the half facing it, which is day on that world. How bright a planet looks to us depends on how much sunlight reaches it and how much its surface reflects: icy, cloudy Venus is very bright; the Moon, made of dark grey rock, reflects only about a tenth of the light that hits it, yet looks bright because it is so close.",
+   "predict": "Ask: 'Will you ever see the ball bright all over? Why do you think so?'",
+   "observe": "The side facing the lamp is always bright and the far side is always dark. From beside the ball you see half bright and half dark. The white ball is easier to see than the dark one.",
+   "why": "Planets and moons make no light of their own. The Sun lights the half facing it, and that half has day. How bright a planet looks depends on how much sunlight reaches it and how much its surface reflects. Venus is wrapped in white clouds, so it looks very bright. The Moon is dark grey rock and reflects only about a tenth of the light that hits it. It looks bright to us because it is so close.",
    "safety": "Don't touch the hot bulb.",
    "time": "15 min"
   },
@@ -779,22 +775,22 @@
    "question": "How does the height of the light change the length of a shadow?",
    "need": [
     "a torch",
-    "a pencil standing in clay",
+    "a crayon, about 5 cm tall, standing in a lump of clay or atta dough",
     "a ruler",
     "books to rest the torch on",
     "squared paper"
    ],
    "steps": [
-    "Stand the pencil upright in clay on a table in a dim room.",
-    "Put the torch 30 cm from the pencil, resting on the table (very low, like sunrise). Measure the shadow.",
-    "Raise the torch on books: 5 cm, 10 cm, 20 cm, 30 cm high, always 30 cm away. Measure the shadow each time.",
-    "Record in a table: height of torch / length of shadow.",
-    "Draw a bar chart."
+    "In a dim room, stand the crayon upright on a table.",
+    "Put the torch on the table, 30 cm from the crayon, shining at it. This is like the Sun at sunrise. Look: the shadow runs right off the table.",
+    "Now raise the torch on books, so the bulb is 10 cm, 15 cm, 20 cm, 30 cm and 40 cm above the table. Keep it 30 cm away and pointing at the crayon. Measure the shadow each time.",
+    "Write a table with two columns: how high the torch is, and how long the shadow is.",
+    "Draw a bar for each height."
    ],
-   "predict": "Ask: 'When the torch is higher, will the shadow be longer or shorter? By how much?'",
-   "observe": "Low torch: very long shadow. As the torch rises the shadow shrinks quickly at first, then slowly.",
-   "why": "The pencil blocks straight rays of light. When the light comes in low, it skims past the top of the pencil and hits the table far away, so the shadow is long. When it comes from high up, it hits the table close to the pencil. The real Sun is low at sunrise and sunset and highest around noon, so shadows are longest morning and evening.",
-   "safety": "",
+   "predict": "Ask: 'When the torch is higher, will the shadow be longer or shorter? Why do you think so?'",
+   "observe": "With the torch on the table, the shadow is longer than the table. At 10 cm high it is about 30 cm long, at 15 cm about 15 cm, at 20 cm about 10 cm, and at 40 cm only about 4 cm. It shrinks fast at first, then slowly.",
+   "why": "The crayon blocks straight rays of light. When the light comes in low, the rays skim past the top of the crayon and hit the table far away, so the shadow is long. When the light comes from high up, the rays hit the table close to the crayon. The real Sun is low at sunrise and sunset and highest around noon, so shadows are longest in the morning and evening.",
+   "safety": "Don't shine the torch into anyone's eyes.",
    "time": "20 min"
   },
   {
@@ -810,13 +806,13 @@
    ],
    "steps": [
     "Put the lamp on a table and the football 1–2 metres away.",
-    "Move the bead between the lamp and the football until its shadow falls on the football. Look at the tiny dark spot: that is where people see a total solar eclipse.",
+    "Hold the bead between the lamp and the football, close to the football, until its shadow falls on it. Look at the small dark spot. People standing there would see a total solar eclipse.",
     "Now move the bead to the far side of the football, into the football's shadow. The bead goes dark: a lunar eclipse.",
-    "Move the bead slightly above or below the line. Ask: 'Does the shadow still fall?'"
+    "Move the bead a little above or below the line. Ask: 'Does the shadow still fall on the other ball?'"
    ],
-   "predict": "Ask: 'Which shadow will be bigger, the Moon's on the Earth or the Earth's on the Moon?'",
-   "observe": "The bead's shadow on the football is tiny; the football's shadow swallows the whole bead. When the bead is a little above or below the line, there is no eclipse.",
-   "why": "In a solar eclipse, the Moon passes between the Sun and the Earth and its shadow falls on a small patch of Earth; only people there see the Sun covered. In a lunar eclipse, the Earth passes between the Sun and the Moon; everyone on the night side can see the Moon go dark and often coppery red, because a little sunlight bends through Earth's air. The Moon's path is tilted slightly, so most months the shadows miss and there is no eclipse.",
+   "predict": "Ask: 'Which shadow will be bigger, the Moon's shadow on the Earth or the Earth's shadow on the Moon? Why?'",
+   "observe": "The bead's shadow on the football is tiny. The football's shadow covers the whole bead. When the bead is a little above or below the line, there is no eclipse.",
+   "why": "In a solar eclipse, the Moon passes between the Sun and the Earth. Its shadow falls on a small patch of Earth, and only people there see the Sun covered. In a lunar eclipse, the Earth is between the Sun and the Moon. Everyone on the night side can see the Moon go dark, often a coppery red, because a little sunlight bends through the Earth's air. The Moon's path is tilted slightly, so in most months the shadows miss and there is no eclipse.",
    "safety": "Never look at the real Sun during an eclipse. Don't touch the hot bulb.",
    "time": "15 min"
   }
@@ -833,9 +829,9 @@
     "a watch"
    ],
    "steps": [
-    "Every evening (and early morning if the Moon isn't up in the evening), look for the Moon.",
+    "Every evening, look for the Moon from a window, balcony or terrace. If it isn't up in the evening, look in the early morning.",
     "Draw its shape, and write the date, the time and where it is (low east, high, low west).",
-    "Write which Paksha it is from the calendar.",
+    "From the calendar, write whether it is Shukla Paksha (growing) or Krishna Paksha (shrinking).",
     "After a week, compare: is it rising later? Is it growing or shrinking?",
     "After a month, cut out the drawings and arrange them in a circle."
    ],
@@ -843,24 +839,25 @@
   },
   {
    "id": "a2",
-   "title": "The noon line: find true north",
+   "title": "The noon line: find north from a shadow",
    "day": 4,
    "mins": 25,
    "need": [
-    "a straight stick 50 cm long",
-    "a flat sunny spot",
-    "chalk or small stones",
+    "a straight stick or ruler, about 30 cm long",
+    "a lump of clay, or a heavy bottle and tape",
+    "a flat spot on a terrace, balcony or compound that gets sun from 11 am to 1:30 pm",
+    "chalk, or small pieces of paper and tape",
     "a watch",
-    "string"
+    "a thread with a small weight tied on"
    ],
    "steps": [
-    "At 11 am, push the stick straight into the ground (use a set-square or a hanging stone on a string to check it is upright).",
-    "Mark the tip of the shadow every 15 minutes until about 1:30 pm, writing the time.",
-    "Find the shortest shadow. Draw a line from the stick through that mark: this is the noon line.",
-    "In most of India the noon line points to true north. Mark N, then E, S and W.",
-    "Note the clock time of the shortest shadow."
+    "At 11 am, stand the stick upright on the flat spot in the clay, or tape it to the bottle. Hang the weighted thread beside it to check it is straight up.",
+    "Every 15 minutes until about 1:30 pm, mark the tip of the shadow and write the time.",
+    "Find the shortest shadow. Draw a line from the foot of the stick through that mark. This is the noon line. It runs exactly north and south.",
+    "For most of the year, the shortest shadow points north. South of the Tropic of Cancer, between the two Zero Shadow Days (about May to July), it points south instead. Mark N, then E, S and W.",
+    "Write down the clock time of the shortest shadow."
    ],
-   "outcome": "A north line on the ground, found from the Sun alone, and the local noon time for your home."
+   "outcome": "A north-south line found from the Sun alone, and the time of local noon at your home."
   },
   {
    "id": "a3",
@@ -871,10 +868,10 @@
     "12 slips of paper"
    ],
    "steps": [
-    "Write one festival on each slip: Makar Sankranti, Pongal, Lohri, Vishu, Baisakhi, Diwali, Holi, Eid al-Fitr, Buddha Purnima, Guru Purnima, Raksha Bandhan, Chhath.",
-    "Your child sorts them into 'set by the Sun's position' and 'set by the Moon's phase', with your help.",
-    "For each Moon festival, find whether it falls on Purnima, Amavasya or a set day of a Paksha. (Holi, Buddha Purnima, Guru Purnima and Raksha Bandhan on Purnima; Diwali on Amavasya; Eid on the first day after the new crescent is seen; Chhath on the sixth day of Shukla Paksha with prayers to the setting and rising Sun.)",
-    "Ask: 'Which festivals fall on almost the same date every year? Why?' (Sun festivals, like Makar Sankranti around 14 January.)"
+    "Write one festival on each slip: Pongal, Vishu, Puthandu (Tamil New Year), Makar Sankranti, Baisakhi, Ugadi, Karthigai Deepam, Ganesh Chaturthi, Deepavali, Holi, Eid al-Fitr, Buddha Purnima.",
+    "With your help, your child sorts them into two piles: 'set by the Sun's position' and 'set by the Moon's phase'.",
+    "For each Moon festival, find out whether it falls on Purnima, on Amavasya or on a set day of a Paksha. (Karthigai Deepam, Holi and Buddha Purnima are on a full Moon. Deepavali is around Amavasya. Ugadi is the day after Amavasya. Ganesh Chaturthi is the fourth day of Shukla Paksha. Eid starts when the new crescent is seen.)",
+    "Ask: 'Which festivals fall on almost the same date every year? Why?' (The Sun festivals. Pongal and Makar Sankranti come around 14 January, and Vishu, Puthandu and Baisakhi around 14 April.)"
    ],
    "outcome": "A sorted set of festival slips and an understanding that our calendars come from the sky."
   }
@@ -937,7 +934,7 @@
    "Name a moon of Jupiter",
    "Sky question",
    "Vikram lands: move on 1",
-   "Pragyan rolls out",
+   "Pragyan rolls out: move on 1",
    "Sky question",
    "THE MOON"
   ]
@@ -951,21 +948,21 @@
  "challenge": [
   {
    "q": "'The far side of the Moon is the dark side.' Is it?",
-   "hint": "The Moon always shows us the same face, so the far side is hidden from us, not dark. It gets just as much sunlight; at new Moon, when our side is dark, the far side is fully lit. What would be a better name for it?"
+   "hint": "The Moon always shows us the same face, so the far side is hidden from us. It is not dark. It gets just as much sunlight, and at new Moon, when our side is dark, the far side is fully lit. What would be a better name for it?"
   },
   {
    "q": "'The Moon is bigger when it is rising.' Is it?",
-   "hint": "Hold a coin at arm's length and see how much of the rising Moon it covers; check again when the Moon is high. It covers the same amount. This 'Moon illusion' is in our brains, and scientists still argue about exactly why it happens."
+   "hint": "Hold a coin at arm's length and see how much of the rising Moon it covers. Check again when the Moon is high. It covers the same amount. This 'Moon illusion' happens in our brains, and scientists still argue about exactly why."
   },
   {
    "q": "'Eclipses are harmful to food and people.' Are they?",
-   "hint": "There is no evidence that eclipse light changes food or harms anyone who stays indoors or outdoors. The one real danger is looking at the Sun, which can burn the eye. Many families keep eclipse customs for respect and tradition; that is a different question from what is harmful."
+   "hint": "There is no evidence that eclipse light changes food or harms anyone, indoors or outdoors. The one real danger is looking at the Sun, which can burn the eye. Many families keep eclipse customs out of respect and tradition. That is a different question from what is harmful."
   }
  ],
  "perspectives": [
   {
    "who": "Moon-sighting committees",
-   "view": "Many Muslim communities begin Eid only when the new crescent has actually been seen; others use calculations to decide in advance. Both groups know the science. Ask: why might some people prefer seeing for themselves, even when calculation is possible?"
+   "view": "Many Muslim communities begin Eid only when someone has really seen the new crescent. Others use calculations to decide in advance. Both groups know the science. Ask: why might some people prefer to see it for themselves, even when calculation is possible?"
   },
   {
    "who": "Corals",
@@ -973,7 +970,7 @@
   },
   {
    "who": "Homing pigeons",
-   "view": "Pigeons can find their way home using the position of the Sun together with their own body clock, like a living sundial. Ask: what would happen to a pigeon's 'sun compass' if its body clock were wrong?"
+   "view": "Pigeons can find their way home using the position of the Sun together with their own body clock. Ask: what would happen to a pigeon's sun compass if their body clock were wrong?"
   }
  ],
  "voices": [
@@ -992,7 +989,7 @@
    "who": "Aryabhata (476–about 550 CE), Kusumapura, India",
    "idea": "In the Aryabhatiya (499 CE) he explained that a lunar eclipse happens when the Moon enters the Earth's shadow, and a solar eclipse when the Moon covers the Sun, and he worked out how to calculate them.",
    "then": "Some later astronomers, including Brahmagupta, criticised parts of his work, and the popular story of the demon Rahu swallowing the Sun stayed alive for centuries.",
-   "now": "His explanation is exactly what scientists accept today. Eclipses can now be predicted to the second, thousands of years ahead.",
+   "now": "His explanation is the one scientists accept today. Eclipses can now be predicted to within seconds for centuries ahead.",
    "status": "accepted",
    "ask": "Aryabhata could not fly into space to check. What clues on the ground could tell him that a lunar eclipse is the Earth's shadow? (Hint: what shape is the shadow's edge?)",
    "day": 5
@@ -1010,8 +1007,8 @@
   {
    "id": "v4",
    "who": "Wang Zhenyi (1768–1797), China",
-   "idea": "In Qing-dynasty China, where most girls were not taught to read, she studied astronomy and mathematics from her grandfather's library. In an essay on lunar eclipses she explained them correctly as the Earth's shadow falling on the Moon, and the story told of her is that she showed it with a round table as the Earth, a lamp hanging from the roof as the Sun and a mirror as the Moon. She wrote books making mathematics easier for ordinary readers and a poem asking whether daughters could not also be heroes.",
-   "then": "Women's scholarship was rarely published or honoured; she died at 29 and much of her work survived only because a friend kept her manuscripts.",
+   "idea": "In Qing-dynasty China, where few girls were taught science, she studied astronomy and mathematics from her grandfather's library. In an essay on lunar eclipses she explained them correctly as the Earth's shadow falling on the Moon. The story told of her is that she showed it with a round table as the Earth, a lamp hanging from the roof as the Sun and a mirror as the Moon. She wrote books to make mathematics easier for ordinary readers, and a poem asking whether daughters could not also be heroes.",
+   "then": "Women's scholarship was rarely published or honoured. She died at 29, and much of her work survived only because a friend kept her manuscripts.",
    "now": "Her explanation of eclipses is the accepted one. A crater on Venus is named after her. Historians note that some details of the garden model come from later retellings.",
    "status": "accepted",
    "ask": "Wang Zhenyi and Aryabhata, over a thousand years and thousands of kilometres apart, both explained eclipses as shadows. What does that tell you about whether science belongs to one country?",
@@ -1031,7 +1028,7 @@
    "author": "Gail Gibbons",
    "for": "read together",
    "age": "5–9",
-   "why": "Phases, eclipses and Moon landings in clear pictures; a good companion to the Moon diary."
+   "why": "Phases, eclipses and Moon landings in clear pictures. A good companion to the Moon diary."
   },
   {
    "title": "Find the Constellations",
@@ -1059,7 +1056,7 @@
   },
   {
    "q": "How can you find north using a stick and the Sun?",
-   "a": "Mark the shadow tip around midday; the shortest shadow points north (in most of India)."
+   "a": "Mark the tip of a stick's shadow around midday. The shortest shadow lies on the north-south line. For most of the year in India it points north."
   },
   {
    "q": "What is a solar eclipse? A lunar eclipse?",
@@ -1067,11 +1064,11 @@
   },
   {
    "q": "Does the Moon rise at the same time every night?",
-   "a": "No, about 50 minutes later each night, because it moves along its orbit while the Earth spins."
+   "a": "No. It rises about 50 minutes later each night, because the Moon moves along its orbit while the Earth spins."
   },
   {
    "q": "Name one festival set by the Sun and one set by the Moon.",
-   "a": "Sun: Makar Sankranti, Pongal, Vishu, Baisakhi. Moon: Diwali, Holi, Eid, Buddha Purnima."
+   "a": "Sun: Pongal, Vishu, Puthandu, Makar Sankranti. Moon: Deepavali, Karthigai Deepam, Ugadi, Eid, Buddha Purnima."
   },
   {
    "q": "Why does a comet's tail point away from the Sun?",
@@ -1085,31 +1082,31 @@
  "story": {
   "title": "The Pigeon Who Watched for the Moon",
   "text": [
-   "My name is Badshah, and I am a pigeon. Not a common pigeon of the station roof, you understand, but a pigeon of the old house in Aminabad, Lucknow, where Zoya's grandfather has kept pigeons in a wooden loft on the roof for fifty years. Every evening he waves his long bamboo pole with the red cloth on the end, and we rise together into the sky, round and round, and come home when he whistles.",
+   "My name is Badshah, and I am a pigeon. Not a common pigeon of the station roof, you understand, but a pigeon of an old house near the Charminar in Hyderabad, where Zoya's grandfather has kept pigeons in a wooden loft on the roof for fifty years. Every evening he waves his long bamboo pole with the red cloth on the end, and we rise together into the sky, round and round, and come home when he whistles.",
    "I know the sky better than any human. I know where the Sun is at every hour, because that is how I find my way. When I am taken far away in a basket and let go, I feel for the Sun, and I feel for the time in my own body, and from the two together I know which way home lies. The Sun is my compass. I never think about it. I just know.",
    "But that evening, the humans were thinking only about the Moon.",
    "It was the twenty-ninth day of Ramzan. All month the family had fasted from before dawn until sunset, and now everyone wanted to know one thing: would the new Moon be seen tonight? If it was, Eid would be tomorrow. If not, there would be one more day of fasting.",
-   "So at sunset, the whole roof filled with people. Zoya's grandfather in his white kurta. Her mother, with the youngest on her hip. Her cousins, pushing and pointing. And from the roof next door, separated only by a low wall, came Gopal, Zoya's best friend, and his grandmother, who climbed the stairs slowly with one hand on her knee. Gopal's family did not keep Ramzan, but they always came up for chand raat. \"It is the same Moon,\" Gopal's grandmother said, \"that tells me when Diwali is.\"",
+   "So at sunset, the whole roof filled with people. Zoya's grandfather in his white kurta. Her mother, with the youngest on her hip. Her cousins, pushing and pointing. And from the roof next door, separated only by a low wall, came Sravya, Zoya's best friend, and her grandmother, who climbed the stairs slowly with one hand on her knee. Sravya's family did not keep Ramzan, but they always came up for chand raat. \"It is the same Moon,\" Sravya's grandmother said, \"that tells me when Deepavali is.\"",
    "Everyone stared at the sky. And everyone, I noticed, was staring the wrong way.",
-   "The cousins looked straight up, where the full Moon sails. Gopal looked east, where the big orange Moon of Purnima rises. Zoya's grandfather, whose eyes were not what they had been, looked everywhere at once. The sky darkened from gold to pink to violet. The azaan for maghrib rang out from the mosque. Still nobody saw anything, and their faces began to fall.",
+   "The cousins looked straight up, where the full Moon sails. Sravya looked east, where the big orange Moon of Purnima rises. Zoya's grandfather, whose eyes were not what they had been, looked everywhere at once. The sky darkened from gold to pink to violet. The azaan for maghrib rang out from the mosque. Still nobody saw anything, and their faces began to fall.",
    "Zoya had been very quiet. For the last month she had been keeping a Moon diary for school, drawing the Moon every evening in a little notebook with a cover of blue paper. I had seen her up here every night, peering, scribbling, frowning. She had drawn the full Moon rising in the east like a lamp. She had drawn it getting thinner, night after night, coming up later and later until she had to get up before dawn to see it, a thin silver curve low in the east just before the Sun came up. And then for a day or two she had drawn nothing at all, because there was nothing to draw.",
-   "She opened the notebook now and looked at it for a long time. Then she looked at the place where the Sun had just gone down, behind the dome of the Bara Imambara, where the sky was still glowing.",
+   "She opened the notebook now and looked at it for a long time. Then she looked at the place where the Sun had just gone down, behind the domes and minarets of the old city, where the sky was still glowing.",
    "\"The Moon is lit by the Sun,\" she said, to nobody in particular. \"The bright side always faces the Sun. When it's new, it's right next to the Sun, so you can't see it at all. And the day after, it's moved a tiny bit away.\" She pointed. \"So it has to be there. Low down. Just above where the Sun went. And the bright edge will be at the bottom, facing the Sun.\"",
-   "Gopal looked at her. Then he turned round. Then everyone turned round.",
-   "I flew up, because I wanted to see it first. I rose over the roofs of Aminabad, over the kites and the water tanks and the washing lines, and I looked west, into the last of the light.",
-   "And there it was. So thin it was hardly there at all. A silver eyelash, a fingernail paring of light, lying almost on its back just above the glow where the Sun had set, with its bright curve turned down towards the hidden Sun, exactly as Zoya had said.",
+   "Sravya looked at her. Then she turned round. Then everyone turned round.",
+   "I flew up, because I wanted to see it first. I rose over the roofs of the old city, over the kites and the water tanks and the washing lines, and I looked west, into the last of the light.",
+   "And there it was, so thin it was hardly there at all. A silver eyelash of light, lying almost on its back just above the glow where the Sun had set, with its bright curve turned down towards the hidden Sun, exactly as Zoya had said.",
    "\"Chand!\" shouted one of the cousins. \"Chand dikh gaya!\" And then everybody was shouting, and hugging, and Zoya's grandfather was saying a prayer, and from roofs all across the old city came cheers and the bang of crackers, and people were calling \"Eid Mubarak!\" over the walls.",
-   "Gopal's grandmother held Zoya's face in her hands and kissed her forehead. \"Sharp eyes,\" she said.",
+   "Sravya's grandmother held Zoya's face in her hands and kissed her forehead. \"Sharp eyes,\" she said.",
    "\"Not sharp eyes,\" said Zoya, a little embarrassed. \"Just a diary.\"",
-   "I came down to the loft as the grandfather whistled. In a few minutes the thin Moon followed the Sun down behind the dome, and was gone. The humans would sleep tonight and celebrate tomorrow, and Gopal and his grandmother would come to eat sheer khurma, as they did every year.",
-   "I settled on my perch. Humans are strange. They need notebooks to know what we pigeons feel in our bones: that everything in the sky is tied to the Sun, and that if you know where the Sun is, you know where to look for everything else. But I will say this for Zoya. She found the Moon with a pencil, and I found it with wings, and we were looking at the same thin light."
+   "I came down to the loft as the grandfather whistled. In a few minutes the thin Moon followed the Sun down behind the minarets, and was gone. The humans would sleep tonight and celebrate tomorrow, and Sravya and her grandmother would come to eat sheer khurma, as they did every year.",
+   "I settled on my perch. Humans are strange. They need notebooks to know what we pigeons feel in our bones: everything in the sky is tied to the Sun, and if you know where the Sun is, you know where to look for everything else. But Zoya found the Moon with a pencil, and I found it with wings, and we were looking at the same thin light."
   ],
-  "epiphany": "The Moon is lit by the Sun, so its bright side always faces the Sun; a new crescent sits close to the Sun in the sky, low in the west just after sunset, with its bright edge towards where the Sun went down. The turn comes when Zoya, using her Moon diary, works out where to look while everyone else is searching the wrong part of the sky. Underneath: two families with different festivals share one Moon, and careful, patient records can find what eager eyes miss.",
+  "epiphany": "The Moon is lit by the Sun, so its bright side always faces the Sun. A new crescent sits close to the Sun in the sky, low in the west just after sunset, with its bright edge towards where the Sun went down. The turn comes when Zoya uses her Moon diary to work out where to look, while everyone else searches the wrong part of the sky. Two families with different festivals share one Moon, and a careful record finds what eager eyes miss.",
   "ask": [
    "Why was everyone looking in the wrong place?",
    "How did Zoya's Moon diary help her know where to look?",
    "Why is the bright edge of the crescent turned towards where the Sun set?",
-   "Gopal's grandmother said it was the same Moon that tells her when Diwali is. What did she mean?",
+   "Sravya's grandmother said it was the same Moon that tells her when Deepavali is. What did she mean?",
    "Badshah finds his way using the Sun. Zoya finds the Moon using the Sun. What does that tell you about the Sun?"
   ]
  },
@@ -1120,16 +1117,16 @@
   },
   {
    "idea": "A shadow is information.",
-   "more": "From a shadow's length you can tell the Sun's height; from its direction, north and the time; from its shape on the Moon in an eclipse, that the Earth is round."
+   "more": "A shadow's length tells you how high the Sun is. Its direction tells you north and the time. The round edge of the Earth's shadow on the Moon in an eclipse shows that the Earth is round."
   },
   {
-   "idea": "Our calendars and festivals were written by the sky.",
+   "idea": "Our calendars and festivals are set by the Sun and the Moon.",
    "more": "The day comes from the Earth's spin, the month from the Moon, and the year from the trip round the Sun. People all over India still time their lives by them."
   }
  ],
  "unknowns": [
   "How much ice is hidden in the Moon's dark polar craters, and how did it get there? Missions including India's Chandrayaan-1 found signs of water, but nobody yet knows how much there is.",
   "Why does the rising Moon look bigger? Scientists have argued about the Moon illusion for over 2,000 years and still don't fully agree.",
-  "Where did the Earth's own water come from? Some may have come from comets or asteroids, some may have been here from the start; scientists are still arguing."
+  "Where did the Earth's water come from? Some may have come from comets or asteroids, and some may have been here from the start. Scientists are still arguing."
  ]
 }

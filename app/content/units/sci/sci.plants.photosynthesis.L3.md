@@ -705,8 +705,8 @@ Next summer, she thought, a little bit of me will be a mango.
    **Answer:** For example: I guessed the discs in the dark would float too. I saw all 10 discs float in the sunny baking-soda cup, and none in the other two. I think the leaf needs light and carbon dioxide to make oxygen, and the oxygen bubbles lifted the discs.. *Why:* A strong answer is honest about the guess, gives what was seen with a number, and gives a reason using light and carbon dioxide.
 12. (draw) Draw a leaf. Draw arrows for what goes in and what comes out. Then draw where the sugar goes.  
    **Answer:** Arrows in for sunlight, water and carbon dioxide. An arrow out for oxygen. An arrow from the leaf down the stem to the roots, fruit or a growing tip, labelled sugar.. *Why:* A strong drawing shows the sugar staying inside the plant, because the plant uses it to live and grow.
-13. (perspective) Three people in Chennai argue about keeping plants in a bedroom at night.  
-   **Answer:** A strong answer uses the science. For example: I agree with Dr Revathi, because plants only respire in the dark and use very little oxygen. Then it is fair to another view, for example: Paati is right that plants give out carbon dioxide at night.. *Why:* Each person is partly right. Plants do respire at night, and they do give out oxygen in the day. The amounts in a bedroom are small either way.
+13. (perspective) Kavya's family in Chennai argue about keeping potted plants in the bedroom at night.  
+   **Answer:** Any choice can be strong. A strong answer uses the science, for example: in the dark a plant only respires, but a few pots use far less oxygen than one sleeping person, so Paati's worry is very small. In the day they give out oxygen, but too little to change a room much, so Kavya's reason is small too. Then it is fair to another side, for example: Amma is right that mosquitoes are a real problem.. *Why:* Paati is right that plants give out carbon dioxide at night. Kavya is right that they give out oxygen in the day. The amounts in a bedroom are small either way, so other things, like mosquitoes or how the plants make you feel, can decide it. There is no single right answer.
 14. (truefalse) A leaf can make food only while light falls on it.  
    **Answer:** True. *Why:* True. Light gives the energy to join carbon dioxide and water into sugar. In the dark, the leaf stops making food, though the plant keeps using the food already made.
 15. (write) Name three foods you ate today. For each one, say how it began with a leaf in the sunlight.  
@@ -726,7 +726,7 @@ Next summer, she thought, a little bit of me will be a mango.
    **Answer:** Any two. For example: Van Helmont's willow gained about 75 kilograms while the soil lost only about 60 grams. Burning twigs leaves only a tiny heap of ash. In the story, the soil in the tulsi pot stayed on the scratched line for nine years. In my own pot, the plants got heavier but the soil did not get lighter.. *Why:* A strong answer gives real evidence, with numbers where it can, and says what each one shows.
 5. (mcq) Scientists once thought the oxygen a leaf gives out comes from carbon dioxide. In 1941, a test with a special kind of oxygen showed where it really comes from. Where?  
    Options: From water, split by light's energy / From the soil / From the sunlight itself / From the leaf's own body  
-   **Answer:** From water, split by light's energy. *Why:* The leaf uses light's energy to split water. It keeps the hydrogen to build sugar, and lets the oxygen go. Picking 'carbon dioxide' was a sensible guess, and scientists believed it for years. A test settled it.
+   **Answer:** From water, split by light's energy. *Why:* The leaf uses light's energy to split water. It keeps the hydrogen to build sugar, and lets the oxygen go. Scientists had believed it came from carbon dioxide, which was a sensible guess. A test settled it.
 6. (truefalse) A plant uses oxygen only at night.  
    **Answer:** False. *Why:* False. A plant respires all the time, day and night, using oxygen to get energy from sugar. In daylight they make much more oxygen than they use, so we only notice the using at night.
 7. (sort) Sort these living beings. Who makes their own food from light, and who must eat?  
@@ -789,7 +789,7 @@ Next summer, she thought, a little bit of me will be a mango.
 15. (truefalse) Every food chain on Earth begins with sunlight.  
    **Answer:** False. *Why:* False, though nearly all do. Near hot springs on the deep sea floor, bacteria make food using energy from chemicals in the water, with no light at all. Worms, crabs and fish live on them. A strong answer says 'nearly all' and names the exception.
 16. (mcq) Dry wood is about half carbon. Most of the rest is oxygen, with a little hydrogen. Scientists say a tree is built mostly from air, not mostly from water. Why?  
-   Options: Most of the dry wood's weight is carbon and oxygen that came from carbon dioxide / Trees drink very little water / Water is too heavy to build with / The pie chart is only a guess  
+   Options: Most of the dry wood's weight is carbon and oxygen that came from carbon dioxide / Trees drink very little water / Water is too heavy to build with / Air is too light to build anything  
    **Answer:** Most of the dry wood's weight is carbon and oxygen that came from carbon dioxide. *Why:* Dry wood is about half carbon, and most of the rest is oxygen, and both came from carbon dioxide in the air. Water gives the hydrogen, which is light. Picking 'trees drink very little water' is not right. Trees take up huge amounts of water, but most of it goes out of the leaves again.
 
 ## Videos
@@ -828,9 +828,9 @@ Next summer, she thought, a little bit of me will be a mango.
 10. (mcq) Moong sprouts grown in a dark cupboard are pale yellow. Why?  
    Options: Moong makes green chlorophyll only in light / The cupboard is too cold / They are a different kind of moong / They have too much water  
    **Answer:** Moong makes green chlorophyll only in light. *Why:* Without light, the sprouts do not make green chlorophyll. Picking 'too cold' is a sensible guess about cupboards. But warm dark sprouts are pale too.
-11. (mcq) Do plants use oxygen?  
-   Options: Yes, all the time, to get energy from sugar / No, never / Only when they are sick / Only in the daytime  
-   **Answer:** Yes, all the time, to get energy from sugar. *Why:* Every plant cell respires, day and night. In light, plants make more oxygen than they use. Picking 'never' is the half-true idea that plants only give oxygen.
+11. (mcq) A potato is kept in a dark cupboard for a month. They grow long white shoots, and the potato gets lighter. Where did the food for the shoots come from?  
+   Options: The starch stored in the potato, which they use up / Light in the cupboard / Soil stuck to the skin / Nowhere, shoots need no food  
+   **Answer:** The starch stored in the potato, which they use up. *Why:* In the dark, the potato cannot photosynthesise. So they live on the starch their leaves made last season. They use oxygen to get energy from it, and that is why they get lighter. Picking 'light in the cupboard' forgets that a dark cupboard has almost none.
 12. (mcq) A leopard eats a goat. Where did the leopard's energy first come from?  
    Options: The Sun, caught by the grass the goat ate / The goat only / The leopard's own body / The soil  
    **Answer:** The Sun, caught by the grass the goat ate. *Why:* Energy passes along a food chain. It starts as sunlight caught by a plant. Picking 'the goat only' stops one step too soon.

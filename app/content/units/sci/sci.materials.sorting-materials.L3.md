@@ -725,8 +725,8 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 15. (mcq) Gowri has a heap of old clothes to give away. Some will go to a baby, and some to grown-ups. Which rule fits this job?  
    Options: Is it small enough for a baby? / Is it red? / Is it cotton? / Is it folded?  
    **Answer:** Is it small enough for a baby?. *Why:* The job is to send each piece of clothing to someone it fits, so the rule must be about size. Colour and cloth are real rules, but they do not help with this job.
-16. (truefalse) If two things look exactly the same, they must be made of the same material.  
-   **Answer:** False. *Why:* False. A brass bowl and a kansa bowl can look exactly the same. Tap them, and the kansa bowl rings for a long time while the brass one stops quickly. Looks are only one rule. A test like sound can show a difference that looks miss.
+16. (truefalse) If two things look almost the same, they must be made of the same material.  
+   **Answer:** False. *Why:* False. A brass bowl and a kansa bowl can look almost the same. Tap them, and the kansa bowl rings for much longer than the brass one. Looks are only one rule. A test like sound can show a difference that looks miss.
 ### Sorting in the Real World (stretch) (stretch, 16 questions)
 1. (fill) In the Carroll table, 3 + 3 + 1 + 5 = ____ things were sorted altogether.  
    **Answer:** ['12', 'twelve']. *Why:* 3 plus 3 is 6. 6 plus 1 is 7. 7 plus 5 is 12. Every thing goes in exactly one box, so the boxes add up to the whole heap.
@@ -738,8 +738,9 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 4. (mcq) Key A asks 'Is it hard?' first and then splits each half again. Key B asks about one thing at a time. For eight things, which key never needs more than three questions?  
    Options: Key A / Key B / Both  
    **Answer:** Key A. *Why:* Key A halves the group each time: 8, 4, 2, 1. So it needs at most three questions. Key B can need seven. Picking Key B usually means counting the lucky first guess and forgetting the unlucky ones.
-5. (fill) Each good question doubles the number of things a key can tell apart. With four questions, a key can tell apart ____ things.  
-   **Answer:** ['16', 'sixteen']. *Why:* One question tells 2 apart, two tell 4, three tell 8 and four tell 16. Doubling each time.
+5. (mcq) Zainab writes a key with the question 'Is it shiny or hard?'. Why is this a bad question for a key?  
+   Options: It asks two things at once, so a thing that is shiny but soft has no clear yes or no / It is too short / A key may only ask about colour / Nothing is wrong with it  
+   **Answer:** It asks two things at once, so a thing that is shiny but soft has no clear yes or no. *Why:* Each question in a key must ask about one property, so every thing gets one clear answer. A foil ball is shiny but soft: is that a yes or a no? Splitting it into 'Is it shiny?' and then 'Is it hard?' fixes the key.
 6. (truefalse) Rice pours like water, so rice is a liquid.  
    **Answer:** False. *Why:* False. Each grain is a hard solid. A pile of grains can flow because the grains slide over each other, but each one keeps its shape.
 7. (match) Match each person to what they sorted.  
@@ -800,8 +801,8 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
    **Answer:** A strong answer says both are fair first steps. Scientists should check the strange thing carefully, again and again, and in other laboratories. If it is still there, the groups should change. That is what happened: other scientists made the same solid, and in 1992 the meaning of 'crystal' was changed.. *Why:* A thing that does not fit is either a mistake or a discovery. Careful checking tells which.
 14. (truefalse) There is only one right way to sort any heap of things.  
    **Answer:** False. *Why:* False. The same heap can be sorted by material, by use, by size or by sound, and each sort is right for some job. A sort is wrong only if the rule is unclear or a thing is put in the wrong group.
-15. (match) Match each sort to the discovery it led to.  
-   **Answer:** Sorting starlight by its pattern of lines → Stars are made mostly of hydrogen and helium; Sorting elements by how they behave → Gaps for elements nobody had found yet; Sorting animals by their families → A whale is a mammal, not a fish; Sorting solids by their patterns → A new kind of solid, the quasicrystal. *Why:* A good sort does more than tidy. Cecilia Payne used the star types to find what stars are made of. Mendeleev's gaps predicted new elements. Sorting by family put whales with mammals. Shechtman's strange pattern made scientists add a new kind of solid.
+15. (match) Match each sort to what it led to.  
+   **Answer:** Sorting starlight by its pattern of lines → Stars are made mostly of hydrogen and helium; Sorting elements by how they behave → Gaps for elements nobody had found yet; Sorting fingerprints by their patterns of loops and whorls → Police could quickly find whose fingerprint it was; Sorting solids by their patterns → A new kind of solid, the quasicrystal. *Why:* A good sort does more than tidy. Cecilia Payne used the star types to find what stars are made of. Mendeleev's gaps predicted new elements. In Bengal in the 1890s, Azizul Haque and Hem Chandra Bose worked out a way to sort fingerprints, so a matching card could be found fast. Shechtman's strange pattern made scientists add a new kind of solid.
 16. (sort) Is the rule clear enough that everyone gets the same answer? Sort the rules.  
    **Answer:** Is it longer than 10 centimetres? → Clear rule; Does a magnet attract it? → Clear rule; Does it float in water? → Clear rule; Is it heavy? → Unclear rule; Is it old? → Unclear rule; Is it beautiful? → Unclear rule. *Why:* A clear rule can be checked with a ruler, a magnet or a bowl of water, so everyone gets the same answer. 'Heavy', 'old' and 'beautiful' depend on who is asked. Each can be made clear, for example 'Is it heavier than a full water bottle?'.
 
@@ -829,9 +830,9 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 6. (mcq) Which of these is a good way to deal with a tricky middle thing?  
    Options: Add a middle group / Hide it / Pretend it fits  
    **Answer:** Add a middle group. *Why:* A middle group gives honest room to a thing that is truly between. Hiding or pretending makes the sort less true.
-7. (mcq) In a Venn diagram of Shiny and Hard, where does a glass bangle go?  
-   Options: In the overlap / Outside both circles / In the Soft circle  
-   **Answer:** In the overlap. *Why:* A glass bangle is shiny and hard, so it fits both rules and goes in the overlap. Picking 'outside' means one rule was missed.
+7. (mcq) In a Venn diagram of Soft and Waterproof, where does a cotton hanky go?  
+   Options: In the Soft circle only / In the overlap / In the Waterproof circle only / Outside both circles  
+   **Answer:** In the Soft circle only. *Why:* A cotton hanky is soft, but water soaks into it, so it is not waterproof. It fits one rule, so it goes in that circle only. Picking the overlap means the second rule was not checked.
 8. (mcq) In the Carroll table, what do the four boxes show?  
    Options: Both, only the first, only the second, and neither / Four kinds of metal / Four sizes  
    **Answer:** Both, only the first, only the second, and neither. *Why:* Two yes or no rules make four combinations. Each thing goes in exactly one box.
@@ -844,15 +845,15 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 11. (mcq) Selvi is a kabadiwala. She buys old things and sells them on. She keeps paper, glass and iron in separate piles. Why?  
    Options: Each material is recycled in its own way / She likes colours / It looks tidy  
    **Answer:** Each material is recycled in its own way. *Why:* The sort has a job: selling each material to a different buyer. Picking 'it looks tidy' misses the purpose.
-12. (mcq) Winnowing sorts grain from husk. Which rule does the wind use?  
-   Options: Weight / Colour / Taste  
-   **Answer:** Weight. *Why:* The wind moves light husk more than heavy grain. Picking 'colour' is a common guess, but colour does not change how hard the wind pushes.
+12. (mcq) Bhavani sorts the laundry before washing: white clothes in one bucket, coloured clothes in another. What is the job of this sort?  
+   Options: To stop dye from coloured clothes staining the white ones / To make the buckets equally heavy / Because white clothes are a different material / To make the clothes dry faster  
+   **Answer:** To stop dye from coloured clothes staining the white ones. *Why:* Some coloured cloth lets out dye in water, and the dye can stain white cloth. So the rule is colour, because that is what the job needs. Sorting by material would not help here: a white shirt and a red shirt can both be cotton.
 13. (mcq) Why did Mendeleev leave gaps in his table?  
    Options: He expected undiscovered elements to fill them / He lost some cards / He ran out of ideas  
    **Answer:** He expected undiscovered elements to fill them. *Why:* The pattern pointed to elements nobody had found. Three of them, gallium, scandium and germanium, were found and matched his predictions.
 14. (mcq) What do the star letters O, B, A, F, G, K, M show?  
    Options: How hot the surface of the star is / How old the star is / How far away it is  
-   **Answer:** How hot the surface of the star is. *Why:* Annie Jump Cannon sorted the stars into these types by their light, and Cecilia Payne showed that the types tell temperature. Picking 'how far' is a common guess, but the letters here tell heat.
+   **Answer:** How hot the surface of the star is. *Why:* Annie Jump Cannon sorted the stars into these types by their light. In 1920 Meghnad Saha, an Indian physicist, showed that the types follow the temperature of the star's surface. Picking 'how far' is a common guess, but the letters tell heat.
 15. (mcq) Which star is hotter on its surface?  
    Options: A blue star / A red star / They are the same  
    **Answer:** A blue star. *Why:* For stars, blue means hotter. Picking red is very common because we link red with fire.

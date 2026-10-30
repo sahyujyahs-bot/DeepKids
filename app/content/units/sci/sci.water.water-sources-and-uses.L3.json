@@ -1446,10 +1446,10 @@
     },
     {
      "t": "write",
-     "p": "Your friend Divya says, 'Our well water is crystal clear, so we don't need to test it.' What would you tell her?",
-     "lines": 3,
-     "a": "Clear water can still carry germs, and dissolved things like arsenic or too much fluoride. These have no colour, and often no taste. Only a test can show if the water is safe.",
-     "why": "A strong answer explains that the dangerous things in water can be invisible, and suggests a test."
+     "p": "Arjun's family boils their drinking water every morning. Then they keep it in an open bucket on the floor and dip a tumbler in to drink. By evening, is the water still safe? What would you tell him to change?",
+     "lines": 4,
+     "a": "It may not be safe any more. Germs can get back in from dust, flies, and hands or tumblers dipped into the bucket. Keep the boiled water covered, up off the floor, and pour it out with a ladle or a tap instead of dipping in.",
+     "why": "A strong answer sees that boiling only kills the germs that are there at that moment. Germs can come back in, so clean water must also be stored safely."
     },
     {
      "t": "write",
@@ -1560,7 +1560,7 @@
     },
     {
      "t": "mcq",
-     "p": "John Snow was a doctor in London in 1854. A widow in Hampstead, far away on a hill, drank water brought from the Broad Street pump, and died of cholera. Nobody else near her was ill. Why was this strong evidence?",
+     "p": "John Snow was a doctor in London in 1854. A widow called Susannah Eley lived in Hampstead, far away on a hill. She liked the water from the Broad Street pump, so it was carried to her house. She drank it and died of cholera. Nobody else near her was ill. Why was this strong evidence?",
      "opts": [
       "She was old",
       "Hampstead had bad air",
@@ -3471,38 +3471,38 @@
   },
   {
    "t": "mcq",
-   "p": "Which of these does boiling NOT remove from water?",
+   "p": "Why does muddy water come out clearer after it trickles through a thick layer of sand?",
    "opts": [
-    "Germs",
-    "Dissolved salt or arsenic",
-    "Neither: boiling removes everything"
+    "The bits of mud get stuck in the tiny gaps between the sand grains, and the water slips through",
+    "The sand turns the mud into water",
+    "The sand kills all the germs"
    ],
-   "a": 1,
-   "why": "Boiling kills germs. But dissolved substances like salt, arsenic and fluoride stay behind. 'Boiling removes everything' is a very common belief.",
+   "a": 0,
+   "why": "Sand grains have tiny gaps between them, like the ground that holds groundwater. Water fits through, but most bits of mud do not. A sand filter does not kill germs, so the water must still be boiled or purified.",
    "outcome": 4
   },
   {
    "t": "mcq",
-   "p": "About how much water does one person drink in a day?",
+   "p": "Meenakshi counted her family's water on a Sunday, when everyone was home and all the clothes were washed. Why might one Sunday not show how much they usually use?",
    "opts": [
-    "About 2 or 3 litres",
-    "About 20 litres",
-    "About 200 litres"
+    "Different days use different amounts, so it is better to count on a few days",
+    "Water is heavier on Sundays",
+    "Tally marks only work on school days"
    ],
    "a": 0,
-   "why": "Each person drinks only about 2 or 3 litres a day. Most of a home's water goes on bathing, flushing and washing.",
+   "why": "One day can be unusual. Counting on a few different days and comparing gives a fairer picture of what a family usually uses.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "A bucket holds 15 litres. A family uses 10 buckets of water in a day. How many litres is that?",
+   "p": "A shower uses about 10 litres of water each minute. Kavya's shower takes 8 minutes. A bucket bath uses one 15-litre bucket. How much water does the bucket bath save?",
    "opts": [
-    "25 litres",
-    "150 litres",
-    "1,500 litres"
+    "65 litres",
+    "80 litres",
+    "7 litres"
    ],
-   "a": 1,
-   "why": "10 lots of 15 is 10 × 15 = 150 litres. Picking 25 means adding instead of multiplying.",
+   "a": 0,
+   "why": "The shower uses 8 × 10 = 80 litres. The bucket uses 15 litres. 80 − 15 = 65 litres saved. Picking 80 means forgetting that the bucket bath uses some water too.",
    "outcome": 5
   },
   {

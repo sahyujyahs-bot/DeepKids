@@ -2150,10 +2150,10 @@
     },
     {
      "t": "draw",
-     "p": "Draw a torch shining at clear glass, butter paper and a wooden board, one at a time. Draw what you would see on the wall behind each one.",
-     "a": "Behind the glass, a bright, sharp patch of light. Behind the butter paper, a soft, pale glow. Behind the wood, a dark shadow.",
-     "why": "A strong drawing shows three different results: light straight through, light scattered, light blocked.",
-     "art": "A torch on the left, three empty boxes for materials, and a blank wall on the right."
+     "p": "Draw a house with three windows. Make one window transparent, one translucent and one opaque. Draw what a person standing outside would see through each window.",
+     "a": "Through the transparent window, the person sees the room inside clearly. Through the translucent window, only a soft glow and blurry shapes. Through the opaque window, nothing at all.",
+     "why": "A strong drawing shows a clear picture, a blur, and nothing, and labels each window with the right word.",
+     "art": "An outline of a house with three empty window frames."
     },
     {
      "t": "perspective",
@@ -2230,15 +2230,15 @@
     },
     {
      "t": "mcq",
-     "p": "Farida crushes a clear ice cube into many tiny bits. Predict the colour of the heap.",
+     "p": "Farida puts a drop of water and a drop of coconut oil side by side on butter paper. Both spots turn clearer. The next day, the water spot is cloudy again, but the oil spot is still clear. Why?",
      "opts": [
-      "Clear, just like the cube",
-      "White",
-      "Black"
+      "The water dried up, so air filled the gaps again",
+      "The oil made the paper thinner",
+      "The water spot got dirty"
      ],
-     "a": 1,
-     "why": "Each bit of ice has edges where light bounces. So many edges scatter light in every direction, and the heap looks white. Snow is white for the same reason.",
-     "how": "a3"
+     "a": 0,
+     "why": "Water and oil both fill the air gaps between the paper's threads, so light scatters less. Water dries up and air comes back into the gaps. Oil does not dry, so its spot stays clear. A strong answer says what fills the gaps each time.",
+     "how": "e2"
     },
     {
      "t": "truefalse",
@@ -2299,8 +2299,8 @@
        "trapped air bubbles"
       ],
       [
-       "a heap of salt",
-       "many tiny grains"
+       "a white cloud",
+       "millions of tiny drops of water"
       ]
      ],
      "a": "pairs as given",
@@ -2379,35 +2379,36 @@
     },
     {
      "t": "sort",
-     "p": "Will a few drops of water make each of these clearer to see through, or make no difference?",
+     "p": "How see-through a thing seems can change. Sort each moment by what made the change.",
      "cats": [
-      "Gets clearer",
-      "No difference"
+      "Its thickness",
+      "The kind of light",
+      "Which side is brighter"
      ],
      "items": [
       [
-       "a sheet of white paper",
-       "Gets clearer"
+       "a thin slice of cucumber lets light through, but a whole cucumber does not",
+       "Its thickness"
       ],
       [
-       "a thin cotton cloth",
-       "Gets clearer"
+       "an X-ray photo shows the bones inside a hand",
+       "The kind of light"
       ],
       [
-       "the rough side of a frosted glass window",
-       "Gets clearer"
+       "fingers glow red over a torch, but not blue or green",
+       "The kind of light"
       ],
       [
-       "a steel plate",
-       "No difference"
+       "one sheet of tissue glows, a thick pad of tissue looks dark",
+       "Its thickness"
       ],
       [
-       "a wooden board",
-       "No difference"
+       "in the day, a thin curtain hides you from the street",
+       "Which side is brighter"
       ]
      ],
      "a": "see items",
-     "why": "Water helps only when the material scatters light at tiny air gaps or a rough surface: it fills them. Steel and wood soak up or bounce back the light, so filling gaps cannot help."
+     "why": "Being see-through is not fixed. It depends on how thick a thing is, on which kind of light we use, and on which side has more light. A strong sorter can say which of the three changed in each moment."
     }
    ]
   },
@@ -2646,26 +2647,26 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Through which of these could you read a newspaper clearly?",
+   "p": "Farhan looks through a glass of water at a poster on the wall. He can read it clearly. Then he stirs in a spoon of milk. What happens?",
    "opts": [
-    "A clear plastic file cover",
-    "A sheet of butter paper",
-    "A piece of cardboard"
+    "He can still read the poster clearly",
+    "The water turns translucent, and the poster goes blurry",
+    "The water turns completely opaque at once"
    ],
-   "a": 0,
-   "why": "The clear plastic cover is transparent, so the picture of the words comes through. Butter paper scatters the light, so the words blur. Cardboard blocks the light.",
+   "a": 1,
+   "why": "Milk has many tiny drops of fat floating in it. Each drop has an edge that scatters light. So light still gets through, but the picture is lost. A strong answer uses the word translucent.",
    "outcome": 0
   },
   {
    "t": "mcq",
-   "p": "A paper lantern glows when the bulb inside is on, but you cannot see the shape of the bulb. The paper is…",
+   "p": "Lalitha holds a steel plate, a sheet of butter paper and a clear glass in front of a lamp, one at a time. Which one lets light through, but no clear picture?",
    "opts": [
-    "transparent",
-    "translucent",
-    "opaque"
+    "The steel plate",
+    "The butter paper",
+    "The clear glass"
    ],
    "a": 1,
-   "why": "Light comes through the paper, but scattered, so the picture of the bulb is lost. That is translucent.",
+   "why": "Butter paper is translucent. Light gets through, but it is scattered in many directions, so no clear picture comes through. Steel blocks the light, and clear glass lets the picture through.",
    "outcome": 0
   },
   {
@@ -2726,16 +2727,15 @@
   },
   {
    "t": "mcq",
-   "p": "Why does wet paper let more light through than dry paper?",
+   "p": "Water splashes on the rough side of a frosted bathroom window. What happens to the wet patch?",
    "opts": [
-    "Water fills the air gaps between the threads, so light bounces less",
-    "Water makes the paper thinner",
-    "Water gives out light"
+    "It becomes clearer, because water fills the tiny bumps and light scatters less",
+    "It becomes darker, because water blocks light",
+    "Nothing changes"
    ],
    "a": 0,
-   "why": "Light scatters at every edge between paper and air. Water fills those gaps, so more light goes straight through.",
-   "outcome": 2,
-   "how": "e2"
+   "why": "The rough surface has many tiny bumps with air between them, and each edge scatters light. Water fills the gaps, so light goes through more straightly and the patch looks clearer.",
+   "outcome": 2
   },
   {
    "t": "mcq",
@@ -2775,27 +2775,26 @@
   },
   {
    "t": "mcq",
-   "p": "In the daytime, Meenu sits in her dim room behind a thin curtain. The lane outside is bright. Who can see whom?",
+   "p": "At night, Meenu's room is lit and the street outside is dark. She looks at her closed glass window. What does she mostly see?",
    "opts": [
-    "Meenu can see the lane, but the lane cannot see her",
-    "The lane can see Meenu, but she cannot see out",
-    "Nobody can see anybody"
+    "The dark street, very clearly",
+    "Her own room reflected, like in a mirror",
+    "Nothing, the glass turns black"
    ],
-   "a": 0,
-   "why": "Through a thin curtain, you can see from the dim side into the bright side. By day the lane is the bright side, so Meenu sees out and stays hidden.",
-   "outcome": 4,
-   "how": "a4"
+   "a": 1,
+   "why": "Glass lets most light through but bounces a little back. At night the room is the bright side, so the little light bounced back from the room is much more than the light coming in from the dark street.",
+   "outcome": 4
   },
   {
    "t": "mcq",
-   "p": "One sheet of tissue paper is translucent. What happens if you stack twenty sheets?",
+   "p": "Divya holds one page of her notebook up to the window, and light glows through it. Then she holds up the whole closed notebook. What happens?",
    "opts": [
-    "The stack becomes nearly opaque",
-    "The stack becomes transparent",
-    "Nothing changes"
+    "Light glows through just the same",
+    "Almost no light gets through, so the notebook is nearly opaque",
+    "The notebook becomes transparent"
    ],
-   "a": 0,
-   "why": "Each sheet scatters and soaks up some light. With twenty sheets, almost no light gets through. Being see-through depends on thickness.",
+   "a": 1,
+   "why": "Each page scatters and soaks up some of the light. With many pages, almost none is left at the other side. So how see-through a thing is depends on how thick it is.",
    "outcome": 4
   },
   {

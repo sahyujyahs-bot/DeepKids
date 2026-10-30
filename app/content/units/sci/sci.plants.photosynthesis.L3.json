@@ -1119,7 +1119,7 @@
     },
     {
      "t": "perspective",
-     "p": "Three people in Chennai argue about keeping plants in a bedroom at night.",
+     "p": "Kavya's family in Chennai argue about keeping potted plants in the bedroom at night.",
      "views": [
       {
        "who": "Paati, Kavya's grandmother",
@@ -1130,14 +1130,14 @@
        "says": "Keep lots of plants. Plants give us oxygen, so they make the bedroom healthier."
       },
       {
-       "who": "Dr Revathi, who studies plants",
-       "says": "At night a plant uses a tiny bit of oxygen, far less than a sleeping person. In the day a few pots add only a little. They are safe, but they are not a fresh-air machine."
+       "who": "Amma, Kavya's mother",
+       "says": "One plant is enough. Plants make the room calm and pretty, but water left in their saucers breeds mosquitoes."
       }
      ],
-     "ask": "Who do you agree with most? Use what you learned about what plants do in the light and in the dark. Then say one fair point from another person.",
+     "ask": "How many plants would you keep in the bedroom? Use what you learned about what plants do in the light and in the dark. Then say one fair point from someone you disagree with.",
      "lines": 5,
-     "a": "A strong answer uses the science. For example: I agree with Dr Revathi, because plants only respire in the dark and use very little oxygen. Then it is fair to another view, for example: Paati is right that plants give out carbon dioxide at night.",
-     "why": "Each person is partly right. Plants do respire at night, and they do give out oxygen in the day. The amounts in a bedroom are small either way."
+     "a": "Any choice can be strong. A strong answer uses the science, for example: in the dark a plant only respires, but a few pots use far less oxygen than one sleeping person, so Paati's worry is very small. In the day they give out oxygen, but too little to change a room much, so Kavya's reason is small too. Then it is fair to another side, for example: Amma is right that mosquitoes are a real problem.",
+     "why": "Paati is right that plants give out carbon dioxide at night. Kavya is right that they give out oxygen in the day. The amounts in a bedroom are small either way, so other things, like mosquitoes or how the plants make you feel, can decide it. There is no single right answer."
     },
     {
      "t": "truefalse",
@@ -1259,7 +1259,7 @@
       "From the leaf's own body"
      ],
      "a": 0,
-     "why": "The leaf uses light's energy to split water. It keeps the hydrogen to build sugar, and lets the oxygen go. Picking 'carbon dioxide' was a sensible guess, and scientists believed it for years. A test settled it."
+     "why": "The leaf uses light's energy to split water. It keeps the hydrogen to build sugar, and lets the oxygen go. Scientists had believed it came from carbon dioxide, which was a sensible guess. A test settled it."
     },
     {
      "t": "truefalse",
@@ -1615,7 +1615,7 @@
       "Most of the dry wood's weight is carbon and oxygen that came from carbon dioxide",
       "Trees drink very little water",
       "Water is too heavy to build with",
-      "The pie chart is only a guess"
+      "Air is too light to build anything"
      ],
      "a": 0,
      "why": "Dry wood is about half carbon, and most of the rest is oxygen, and both came from carbon dioxide in the air. Water gives the hydrogen, which is light. Picking 'trees drink very little water' is not right. Trees take up huge amounts of water, but most of it goes out of the leaves again.",
@@ -3311,15 +3311,15 @@
   },
   {
    "t": "mcq",
-   "p": "Do plants use oxygen?",
+   "p": "A potato is kept in a dark cupboard for a month. They grow long white shoots, and the potato gets lighter. Where did the food for the shoots come from?",
    "opts": [
-    "Yes, all the time, to get energy from sugar",
-    "No, never",
-    "Only when they are sick",
-    "Only in the daytime"
+    "The starch stored in the potato, which they use up",
+    "Light in the cupboard",
+    "Soil stuck to the skin",
+    "Nowhere, shoots need no food"
    ],
    "a": 0,
-   "why": "Every plant cell respires, day and night. In light, plants make more oxygen than they use. Picking 'never' is the half-true idea that plants only give oxygen.",
+   "why": "In the dark, the potato cannot photosynthesise. So they live on the starch their leaves made last season. They use oxygen to get energy from it, and that is why they get lighter. Picking 'light in the cupboard' forgets that a dark cupboard has almost none.",
    "outcome": 5
   },
   {

@@ -656,7 +656,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 ### Inside the Iron (stretch) (stretch, 16 questions)
 1. (mcq) Every electron is a tiny magnet, and copper has plenty of electrons. So why does a magnet not attract copper?  
    Options: Copper has no electrons / Copper is too heavy / In copper, the electrons' tiny magnets cancel each other out / Copper is too shiny  
-   **Answer:** In copper, the electrons' tiny magnets cancel each other out. *Why:* In copper, the electrons are in pairs, and the two in each pair point opposite ways, so their tiny magnets cancel. Iron has some electrons with no partner, so its tiny magnets do not cancel. 'No electrons' is wrong, because every atom has electrons.
+   **Answer:** In copper, the electrons' tiny magnets cancel each other out. *Why:* In copper, the electrons' tiny magnets cancel out. Most of copper's electrons are in pairs that point opposite ways. Copper's few spare electrons never line up together. In iron, many spare electrons line up with their neighbours, so their tiny magnets add up. 'No electrons' is wrong, because every atom has electrons.
 2. (write) A plain steel nail is full of tiny magnets, but on its own it cannot pick up a pin. Explain why. Then explain why the same nail can pick up a pin while a magnet is touching it.  
    **Answer:** In a plain nail, the tiny magnets are in patches called domains, and the domains point different ways, so their forces cancel. When a magnet touches the nail, many of the domains turn to line up with the magnet's field. Now their forces add up, and the nail is a magnet for as long as the magnet stays.. *Why:* A strong answer explains both halves: jumbled domains cancel, lined-up domains add up. It may mention the paper clip chain, where each clip becomes a magnet in the same way.
 3. (truefalse) When you turn a needle into a magnet by stroking it, some of the magnet's magnetism moves into the needle, so the magnet gets weaker.  
@@ -748,9 +748,9 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 4. (mcq) A floating magnetised needle always turns to point north and south. Why?  
    Options: The Pole Star attracts it / The Earth's magnetic field turns it / Water flows towards the north / The bowl is magnetic  
    **Answer:** The Earth's magnetic field turns it. *Why:* The needle is a magnet, and the Earth's magnetic field turns it to line up north and south. Picking the Pole Star comes from an old idea. Stars have no effect on compasses, and a compass works in a closed room.
-5. (mcq) In the paper clip chain test, a tiny magnet held 12 clips and a big fridge magnet held 1. What can you say?  
-   Options: The tiny magnet is stronger / The big magnet is stronger, because it is bigger / They are the same / The test was not fair, because the magnets were different sizes  
-   **Answer:** The tiny magnet is stronger. *Why:* More clips in the chain means a stronger magnet. Size is not what makes a magnet strong. What it is made of matters, and how well its tiny magnets are lined up. Picking 'not fair' is a thoughtful idea, but here the size is part of what we are comparing, not something we must keep the same.
+5. (mcq) Meera does the paper clip chain test. Her magnet holds 5 clips on the first try. Why should she test it two more times?  
+   Options: The magnet gets stronger each time / One try can be a fluke, for example if a clip is bent or the chain is knocked / Three is a lucky number / To tire the magnet out  
+   **Answer:** One try can be a fluke, for example if a clip is bent or the chain is knocked. *Why:* One result can be wrong by bad luck. If three tries give about the same number, she can trust it. If one try is very different, she knows to look for what went wrong. Picking 'gets stronger each time' means thinking testing changes the magnet. It does not.
 6. (mcq) In a fair test of which magnet is strongest, what should stay the same?  
    Options: The magnet / The kind and size of paper clips / The number of clips each magnet holds / Nothing needs to stay the same  
    **Answer:** The kind and size of paper clips. *Why:* Everything except the magnet should stay the same, including the clips. If one magnet got smaller clips, it could hold more, and the test would not be fair. The number of clips is what we measure, so it changes.
@@ -774,7 +774,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
    **Answer:** Liquid iron moving in the Earth's outer core. *Why:* Liquid iron churns slowly in the outer core, which starts about 2,900 kilometres down. Electric currents flow in the moving iron, and electric currents make a magnetic field. Picking 'a giant bar magnet' is a common picture, but the core is far too hot for a solid magnet. Above about 770 degrees Celsius, iron cannot stay magnetised.
 13. (truefalse) The Earth's magnetic field has flipped many times. After a flip, a compass would point south.  
    **Answer:** True. *Why:* True. Old lava rocks are magnetised in both directions. The last flip was about 780,000 years ago. Motonori Matuyama showed this in 1929, from rocks in Japan, Korea and China.
-14. (mcq) Which of these living things has been shown to use the Earth's magnetic field to find its way?  
+14. (mcq) Which of these living things has been shown to use the Earth's magnetic field to find their way?  
    Options: Young loggerhead sea turtles / Mango trees / Rocks / Nobody: only compasses can  
    **Answer:** Young loggerhead sea turtles. *Why:* Experiments by Kenneth and Catherine Lohmann show that young loggerhead turtles change direction when the magnetic field around them is changed. Robins and some bacteria use the field too. Picking 'only compasses can' is wrong, because animals sensed the Earth's magnetic field long before people made compasses.
 15. (mcq) Do scientists know exactly how birds sense the Earth's magnetic field?  

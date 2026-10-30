@@ -885,7 +885,7 @@
       "The new flame is smaller than the old one",
       "Flames are too hot to have young",
       "The new flame is a different colour",
-      "The chick gets a copy of the hen's instructions from her cells. The new flame gets no instructions at all"
+      "A chick gets instructions from the hen's cells. A new flame gets none"
      ],
      "a": 3,
      "why": "Every living thing passes a copy of their instructions, inside their cells, to their young. A flame has no cells and no instructions. Any spark would light the second candle just as well. Picking 'too hot' mixes up heat with life.",
@@ -1022,15 +1022,15 @@
     },
     {
      "t": "mcq",
-     "p": "Ishita, a girl in Class 3, says: 'My robot vacuum cleaner is alive. It senses the wall and moves away from it.' What has Ishita forgotten?",
+     "p": "Ishita, a girl in Class 3, says: 'A coconut palm cannot walk or run, so the palm is not alive.' What has Ishita forgotten?",
      "opts": [
-      "Robots are too noisy to be alive",
-      "Living things show many signs together, like being made of cells, growing from inside and making young",
-      "Moving is never a sign of life",
-      "Living things must be green"
+      "Palms are too tall to be alive",
+      "The palm takes in water, grows from inside and makes coconuts that grow into new palms",
+      "Only things with legs can be alive",
+      "Palms are alive only when it rains"
      ],
      "a": 1,
-     "why": "Sensing and moving are only two signs. The robot has no cells, takes in no food, does not grow and cannot make a young robot. Picking 'moving is never a sign of life' goes too far: living things do move. Moving is just not enough on its own."
+     "why": "Moving about is only one sign, and plants move by growing. The palm feeds, grows, respires and makes young. A strong answer names several signs the palm does show."
     },
     {
      "t": "order",
@@ -1293,7 +1293,7 @@
      "p": "Many people think the fridge kills the germs on food. Why does food really last longer in the fridge?",
      "opts": [
       "The cold kills every germ on the food",
-      "Food stops being once alive in the cold",
+      "The cold dries the food out completely",
       "The cold slows down the tiny living things that spoil food",
       "The fridge light is off"
      ],
@@ -1375,7 +1375,7 @@
       "A steel spoon in a drawer"
      ],
      "a": 2,
-     "why": "A flame and a living body both keep their shape while new stuff flows through them. Erwin Schrödinger, a physicist, wrote about this in 1944. It is exactly why fire is such a tricky case. A stone keeps its shape with nothing flowing through it."
+     "why": "A flame and a living body both keep their shape while new stuff flows through them. That is part of why fire is such a tricky case. A stone keeps its shape with nothing flowing through it."
     },
     {
      "t": "mcq",
@@ -1505,17 +1505,17 @@
     },
     {
      "t": "write",
-     "p": "Imagine a robot that could find its own food, repair itself and build copies of itself from scraps. Would that robot be alive? Use at least two signs of life in your answer.",
-     "lines": 4,
-     "a": "Any reasoned answer. For example: 'It would show feeding, growing back and making copies, which are signs of life. But it would still have no cells, and its instructions came from people. I think it would be a new kind of thing, close to alive.'",
-     "why": "A strong answer tests the robot against several signs, says which it now passes and which it still fails, then gives a verdict."
+     "p": "A forest fire spreads, uses up dry leaves and leaves ash behind. A goat walking through the same forest also eats dry leaves and leaves droppings behind. Write two ways the fire and the goat are alike, and two ways they are different.",
+     "lines": 5,
+     "a": "Alike: both use up leaves as fuel or food, and both join it with oxygen and give out carbon dioxide and waste. Different: the goat is made of cells and the fire is not. The goat releases energy slowly in controlled steps, and the fire all at once. The goat can have a kid who gets her instructions, but a new fire gets no instructions from the old one.",
+     "why": "A strong answer finds real likenesses in the chemistry, then names differences that are signs of life: cells, control, and instructions passed on to young."
     },
     {
      "t": "write",
-     "p": "Design a test, with things from home, to find out whether pot soil holds tiny living things. Say what you would compare it with, and what result would convince you.",
+     "p": "A scientist finds a tiny new speck in a hot spring. Nobody knows whether the speck is alive. Choose three tests from this unit to try first. For each one, say what result would make you think 'alive'.",
      "lines": 5,
-     "a": "Put a spoon of pot soil in a cup with warm sugar water and stretch a balloon over it. Do the same with a spoon of the same soil that a grown-up has baked hot in a pan, then cooled. If the fresh soil makes gas slowly over a day and the baked soil does not, something living was in it. One fizz at the start would not convince me.",
-     "why": "A strong test has a comparison that kills living things but leaves the chemicals, like baking. It also says what result would count, and what would not."
+     "a": "For example: 1. Look under a microscope for cells; alive if I see cells. 2. Give the specks warm sugar water; alive if gas starts slowly and keeps growing, and stops if the specks were boiled first. 3. Put a few in fresh water with food; alive if there are more of them the next day, made by the specks themselves and not only inside other cells.",
+     "why": "A strong answer uses tests from the unit (cells, feeding with a boiled comparison, making copies), says what result would count, and does not trust a single sign alone."
     },
     {
      "t": "write",
@@ -2896,17 +2896,16 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Ammu, a girl in Class 3, has a pebble and a dry moong seed. Both look still. Which test would show her which one is alive?",
+   "p": "Ammu, a girl in Class 3, says: 'A mushroom has no legs and no eyes, and stays in one place. So a mushroom is not alive.' Which fact shows that Ammu is wrong?",
    "opts": [
-    "Weigh them on a scale",
-    "Compare their colours",
-    "Put both on wet cotton for a few days and see which one grows a root",
-    "Tap them and listen"
+    "The mushroom is soft",
+    "The mushroom grows from inside and makes spores that grow into new mushrooms",
+    "The mushroom is a different colour from the soil",
+    "The mushroom grows near trees"
    ],
-   "a": 2,
-   "why": "Only a living seed can grow when given water. The pebble is the comparison. Weight, colour and sound tell you nothing about life.",
-   "outcome": 0,
-   "how": "e1"
+   "a": 1,
+   "why": "Growing from inside and making young are strong signs of life. Softness, colour and place tell you nothing. A strong answer tests the mushroom against several signs, not just moving.",
+   "outcome": 0
   },
   {
    "t": "mcq",
@@ -2971,15 +2970,15 @@
   },
   {
    "t": "mcq",
-   "p": "A cold virus lands on a doorknob. What can the virus do there?",
+   "p": "A flu virus gets inside a cell in your nose. Then many new flu viruses come out. Who did the work of building the new viruses?",
    "opts": [
-    "Nothing much. A virus cannot feed, grow or make copies until they get inside a living cell",
-    "Make copies all over the doorknob",
-    "Grow bigger by eating the metal",
-    "Lay eggs"
+    "The virus, using food they carried with them",
+    "The cell, which followed the virus's instructions",
+    "The air in your nose",
+    "Nobody. The new viruses grew by themselves, like a crystal"
    ],
-   "a": 0,
-   "why": "A virus does nothing on their own. Only inside a living cell can they make copies, and even then the cell does the work. This is why hand washing helps: it removes viruses before they reach your cells.",
+   "a": 1,
+   "why": "A virus carries instructions but has no cell of their own. The cell they get into reads those instructions and builds the copies. This is why scientists argue about whether viruses are alive.",
    "outcome": 3
   },
   {

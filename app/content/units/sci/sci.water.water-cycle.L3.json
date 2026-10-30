@@ -1295,19 +1295,19 @@
     },
     {
      "t": "write",
-     "p": "Sara, a girl in Class 4, says: 'The Sun dries up some of the sea every day. One day the sea will be empty.' What has she forgotten?",
+     "p": "Arjun, a boy in Class 4, says: 'The Sun dries up some of the sea every day. One day the sea will be empty.' What has he forgotten?",
      "lines": 3,
      "a": "The water that evaporates does not leave the Earth. It condenses into clouds and falls as rain. Rivers carry it back to the sea. So the sea gets back about as much water as it loses.",
      "why": "A strong answer follows the water all the way round, back to the sea."
     },
     {
      "t": "write",
-     "p": "Your solar still made fresh water from salty water. Explain how it worked, using the words evaporate and condense.",
-     "lines": 4,
-     "a": "The Sun warmed the salty water, and some of the water evaporated into the air inside the bowl. The salt stayed behind. The vapour touched the cooler cling film and condensed into fresh drops. They ran down to the low point under the pebble and dripped into the cup.",
-     "why": "A strong answer says that only the water rose, and that it turned back into drops on the cool film.",
-     "context": "This question is about Sea in a Bowl. You put salty water in a bowl with a small cup in the middle, covered it with cling film and left it in the sun.",
-     "how": "e1"
+     "p": "Guess first: in A Cloud in a Jar, what would happen if you used cold tap water in the jar instead of hot water? Why?",
+     "lines": 3,
+     "a": "Almost no cloud would form. Cold water evaporates slowly, so there would be very little vapour in the jar. With little vapour, there is little to condense under the icy plate.",
+     "why": "A strong answer links warm water to more evaporation, and more vapour to a thicker cloud. It is the same reason most clouds form over warm seas.",
+     "context": "This question is about A Cloud in a Jar. You made a cloud with warm water and an icy plate, with and without a little smoke.",
+     "how": "e2"
     },
     {
      "t": "write",
@@ -3093,14 +3093,14 @@
   },
   {
    "t": "mcq",
-   "p": "Your school uniform is drying on a line. Which change would make it dry more slowly?",
+   "p": "On a sticky, humid day in Chennai, wet clothes on the line take all day to dry, even in the sun. Why?",
    "opts": [
-    "Spreading it out wider",
-    "Moving it into a closed room with no breeze",
-    "Moving it into the sun"
+    "The air already holds a lot of water vapour, so water evaporates into it slowly",
+    "The Sun gives no heat on humid days",
+    "The clothes soak up water from the air as fast as they dry"
    ],
-   "a": 1,
-   "why": "Still air fills up with vapour near the cloth, so evaporation slows down. Sun, wind and a wide surface all make water evaporate faster.",
+   "a": 0,
+   "why": "Humid air has a lot of water vapour in it already, so it takes up more vapour slowly. Dry air takes up vapour fast. Sun, wind and a wide surface help, but humid air slows everything down.",
    "outcome": 1
   },
   {

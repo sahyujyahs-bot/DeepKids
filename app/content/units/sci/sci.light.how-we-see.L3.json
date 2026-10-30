@@ -1044,7 +1044,7 @@
       "The board makes its own light"
      ],
      "a": 0,
-     "why": "Matt surfaces like a blackboard spray light in all directions. So some light from the board reaches every seat. Picking 'eyes send a ray' is the old eye-rays idea. Picking 'makes its own light' mixes up a lit object and a light source."
+     "why": "Dull, slightly rough surfaces like a blackboard scatter light in all directions. So some light from the board reaches every seat. Picking 'eyes send a ray' is the old eye-rays idea. Picking 'makes its own light' mixes up a lit object and a light source."
     },
     {
      "t": "write",
@@ -1076,7 +1076,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the Ibn al-Haytham's lamps activity, three torches shone through one pinhole and made three spots. You covered one torch with your hand. What happened?",
+     "p": "In the activity called Ibn al-Haytham's Lamps, three torches shone through one pinhole and made three spots. You covered one torch with your hand. What happened?",
      "opts": [
       "All three spots went out",
       "Only that torch's spot went out",
@@ -1088,14 +1088,14 @@
     },
     {
      "t": "mcq",
-     "p": "Which part of the eye turns light into signals for the brain?",
+     "p": "Light from a lamp goes into an eye. The lens and the retina of that eye work well. But the optic nerve behind it has been badly hurt. Can that eye see the lamp?",
      "opts": [
-      "The iris",
-      "The retina",
-      "The eyelid"
+      "No, because the signals cannot reach the brain",
+      "Yes, because the light got into the eye",
+      "Yes, but only in dim light"
      ],
-     "a": 1,
-     "why": "The retina at the back of the eye has millions of light-catching cells, the rods and the cones. They turn light into signals. The iris only changes the size of the pupil, and the eyelid protects the eye."
+     "a": 0,
+     "why": "The light still lands on the retina, and the retina still makes signals. But the optic nerve is the road that carries them to the brain. With the road broken, the brain gets nothing, so there is no seeing. Picking 'yes, because the light got in' forgets that seeing is finished in the brain. Picking 'only in dim light' mixes this up with the rod cells."
     },
     {
      "t": "match",
@@ -1307,20 +1307,20 @@
        "Scientists agree"
       ],
       [
-       "The pupil shrinks in bright light.",
-       "Scientists agree"
-      ],
-      [
-       "Exactly how the brain turns signals into what we experience.",
-       "Still argued about or unknown"
-      ],
-      [
-       "Whether a person can notice one single photon.",
-       "Still argued about or unknown"
-      ],
-      [
        "Rod cells work best in dim light.",
        "Scientists agree"
+      ],
+      [
+       "The brain fills in the blind spot.",
+       "Scientists agree"
+      ],
+      [
+       "Whether the red you see looks the same as the red your friend sees.",
+       "Still argued about or unknown"
+      ],
+      [
+       "What a bee experiences when she looks at a flower.",
+       "Still argued about or unknown"
       ],
       [
        "Whether we see the world as it really is.",
@@ -1328,7 +1328,7 @@
       ]
      ],
      "a": "see items",
-     "why": "The path of light and the parts of the eye are well tested. How brains make experience, and the very edge of how sensitive we are, are still open."
+     "why": "The path of light, the rod cells and the blind spot have all been tested many times. What seeing feels like from the inside, for you, a friend or a bee, is still an open question. Scientists can measure the signals, but not yet the experience."
     },
     {
      "t": "mcq",
@@ -1356,7 +1356,7 @@
     },
     {
      "t": "draw",
-     "p": "In the story The Lamp-Seller's Daughter, a man in Cairo makes a small hole in the shutter of a dark room. A donkey stands outside in the sunlight. Draw the room, the hole and the donkey. Draw arrows to show how the picture of the donkey got onto the wall.",
+     "p": "In the story The Lamp-Seller's Daughter, the scholar Ibn al-Haytham, who lived in Cairo, makes a small hole in the shutter of a dark room. A donkey stands outside in the sunlight. Draw the room, the hole and the donkey. Draw arrows to show how the picture of the donkey got onto the wall.",
      "a": "An arrow from the Sun to the donkey, then arrows from the donkey, through the hole, to the wall.",
      "why": "Light from the Sun bounced off the donkey. Some of it came through the hole and landed on the wall. A strong drawing has every arrow pointing away from the Sun and towards the wall.",
      "art": "An outline of a dark room with a small hole, and a donkey in a sunny street outside."
@@ -2808,14 +2808,14 @@
   },
   {
    "t": "mcq",
-   "p": "What does the iris, the coloured ring in your eye, do?",
+   "p": "A doctor shines a small torch into your eye, and your pupil gets smaller. Which part of your eye made the pupil smaller?",
    "opts": [
-    "Makes the pupil bigger or smaller",
-    "Catches light at the back of the eye",
-    "Carries signals to the brain"
+    "The iris, the coloured ring around the pupil",
+    "The retina, at the back of the eye",
+    "The optic nerve"
    ],
    "a": 0,
-   "why": "The iris is a ring of muscle around the pupil. It opens and closes the pupil. The retina catches light, and the optic nerve carries signals.",
+   "why": "The iris is a ring of muscle around the pupil. In bright light it closes the pupil, so less light gets in. The retina catches the light, and the optic nerve carries the signals to the brain.",
    "outcome": 3
   },
   {

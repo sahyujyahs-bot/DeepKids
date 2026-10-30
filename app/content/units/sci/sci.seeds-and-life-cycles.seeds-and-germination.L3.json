@@ -873,12 +873,12 @@
      "t": "mcq",
      "p": "You split a soaked bean in two. What is the tiny thing at one edge, with a little root and two small leaves?",
      "opts": [
-      "The baby plant",
       "A worm",
       "The food store",
+      "The baby plant",
       "A bit of the coat"
      ],
-     "a": 0,
+     "a": 2,
      "why": "That is the baby plant, which scientists call the embryo. They were already inside before you soaked the seed. Picking 'food store' is close, but the food store is the two big halves around them.",
      "how": "a1"
     },
@@ -886,12 +886,12 @@
      "t": "mcq",
      "p": "In the five-cup test, you put 10 moong seeds in each of 5 cups: dry, damp, damp in the fridge, under water with oil on top, and damp in the light. In which cup did the most seeds sprout?",
      "opts": [
-      "Dry",
       "Damp and warm",
+      "Dry",
       "In the fridge",
       "Under water with oil"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The damp, warm cup had water, warmth and air together. Picking 'under water' usually means thinking more water is always better. Those seeds could not get enough air.",
      "how": "e1",
      "context": "In the five-cup test, you put 10 moong seeds in each of 5 cups: dry, damp, damp in the fridge, under water with oil on top, and damp in the light."
@@ -915,12 +915,12 @@
      "t": "mcq",
      "p": "Which part comes out of a sprouting seed first?",
      "opts": [
-      "The root",
       "The leaves",
       "The flower",
-      "The fruit"
+      "The fruit",
+      "The root"
      ],
-     "a": 0,
+     "a": 3,
      "why": "The root comes out first, so the seedling can hold on and drink. Picking 'leaves' is common, because leaves are what we see first above the soil.",
      "how": "a4"
     },
@@ -997,11 +997,11 @@
      "t": "mcq",
      "p": "Why does a bean seed have two fat halves full of food?",
      "opts": [
-      "To feed the baby plant until their leaves can make food",
       "To make the seed heavy so they don't blow away",
+      "To feed the baby plant until their leaves can make food",
       "So animals can eat them"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The food store feeds the baby plant while they are still underground, with no light. Animals do eat seeds, but that is not why the seed has food. The food is for the baby plant."
     },
     {
@@ -1063,11 +1063,11 @@
      "t": "mcq",
      "p": "In the warm flask test, why did we use boiled seeds in the second flask?",
      "opts": [
-      "So the only difference between the flasks was whether the seeds were alive",
       "To cook them for dinner",
-      "Because boiled seeds sprout faster"
+      "Because boiled seeds sprout faster",
+      "So the only difference between the flasks was whether the seeds were alive"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A fair test changes only one thing. Both flasks had the same wet seeds, but only one lot was alive. So any difference in warmth must come from being alive. Picking 'sprout faster' is wrong. Boiled seeds never sprout.",
      "how": "e2"
     },
@@ -1083,12 +1083,12 @@
      "t": "mcq",
      "p": "In the swelling test, 50 grams of dry chana weighed about 100 grams after soaking. How many times heavier were they?",
      "opts": [
-      "2 times",
       "50 times",
       "100 times",
-      "They weighed the same"
+      "They weighed the same",
+      "2 times"
      ],
-     "a": 0,
+     "a": 3,
      "why": "100 is 2 lots of 50. So the soaked chana was 2 times as heavy. The extra 50 grams is water inside the seeds.",
      "how": "e3"
     },
@@ -1136,12 +1136,12 @@
      "t": "mcq",
      "p": "A root always grows down, even if the seed is upside down. How does the root know which way is down?",
      "opts": [
-      "Its tip feels gravity, using tiny heavy grains that settle at the bottom of its cells",
       "It can see the ground",
+      "Its tip feels gravity, using tiny heavy grains that settle at the bottom of its cells",
       "It follows the smell of soil",
       "It doesn't know, it just grows any way"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Cells in the root tip hold tiny heavy grains of starch. They sink to the bottom, like sand in a bottle, so the root can tell which way is down. Picking 'see' is not right. A root has no eyes, and it turns down even in a dark jar.",
      "how": "a4"
     },
@@ -1149,11 +1149,11 @@
      "t": "mcq",
      "p": "Why do sprouts taste a little sweet?",
      "opts": [
-      "The seed has turned some of their starch into sugar",
       "Someone added sugar",
-      "The water was sweet"
+      "The water was sweet",
+      "The seed has turned some of their starch into sugar"
      ],
-     "a": 0,
+     "a": 2,
      "why": "As a seed sprouts, enzymes, helpers made by their cells, cut starch into sugar the baby plant can use. That's why ragi malt is made from sprouted ragi.",
      "how": "a3"
     },
@@ -1161,11 +1161,11 @@
      "t": "mcq",
      "p": "Rice seeds are unusual. What can they do that most seeds can't?",
      "opts": [
-      "Start to sprout under water, sending a shoot up like a snorkel",
       "Sprout without any water",
+      "Start to sprout under water, sending a shoot up like a snorkel",
       "Sprout in a freezer"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Rice comes from wet places. Under water, their first shoot grows up to the air like a snorkel, so air can reach the rest of the seedling. Most seeds would drown."
     },
     {
@@ -1248,23 +1248,23 @@
      "t": "mcq",
      "p": "Deep down, where did the energy in a seed's food store come from?",
      "opts": [
-      "From sunlight, captured by the parent plant's leaves",
       "From the soil",
+      "From sunlight, captured by the parent plant's leaves",
       "From the water the seed drinks",
       "From the seed coat"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The parent plant used the energy of sunlight to make starch from air and water, and packed it into the seed. Picking 'soil' is a very old idea. Soil gives a plant water and small amounts of minerals, but not their food energy."
     },
     {
      "t": "mcq",
      "p": "You sprout 50 moong seeds in the dark for a week, then dry them. Do they weigh more or less than 50 dry seeds that were never sprouted?",
      "opts": [
-      "Less, because they used up some of their stored food by breathing",
       "More, because they grew",
+      "Less, because they used up some of their stored food by breathing",
       "Exactly the same"
      ],
-     "a": 0,
+     "a": 1,
      "why": "In the dark, sprouts cannot make new food. They use up their stored food by breathing, and the carbon goes into the air. So once the water is dried out, they weigh less. Picking 'more' is the usual guess, because sprouts look bigger. Most of that size is water."
     },
     {
@@ -1312,11 +1312,11 @@
      "t": "mcq",
      "p": "A heap of sprouting seeds warms up. A heap of boiled seeds stays cool for a day, then starts to warm and smell. Why does the boiled heap start to warm?",
      "opts": [
-      "Tiny living things called bacteria start feeding on it, and they breathe too",
       "The boiled seeds come back to life",
-      "The sun shines on it"
+      "The sun shines on it",
+      "Tiny living things called bacteria start feeding on it, and they breathe too"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Boiled seeds are dead, but bacteria can feed on them. Bacteria breathe, so they make warmth too. That is why we stop the warm flask test after 2 days.",
      "how": "e2"
     },
@@ -1336,11 +1336,11 @@
      "t": "mcq",
      "p": "Rahibai Soma Popere, a farmer in Maharashtra, saves the seeds of many old local kinds of crops. Why does keeping many kinds matter?",
      "opts": [
-      "If a disease or drought kills one kind, other kinds may survive",
       "Old seeds always taste better",
+      "If a disease or drought kills one kind, other kinds may survive",
       "It makes the seeds sprout faster"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Different kinds of the same crop cope with different problems. If every farmer grew just one kind, one disease could wipe out the whole harvest. For this work, she was given the Padma Shri in 2020."
     },
     {
@@ -2789,7 +2789,7 @@
     "A baby plant and their food store",
     "Only water",
     "A tiny flower",
-    "Nothing, it is solid"
+    "Nothing, the seed is solid all through"
    ],
    "a": 0,
    "why": "Every seed holds a living baby plant and a store of food for them. Picking 'nothing' is an easy mistake, because the baby plant is tiny. Soak a bean, split them and look closely. They are there.",
@@ -2799,12 +2799,12 @@
    "t": "mcq",
    "p": "What are the two big halves of a split chana?",
    "opts": [
-    "The food store, in their two seed leaves",
     "The roots",
     "Two baby plants",
-    "The seed coat"
+    "The seed coat",
+    "The food store, in their two seed leaves"
    ],
-   "a": 0,
+   "a": 3,
    "why": "They are seed leaves packed with food. The thin seed coat is outside them, and the tiny baby plant sits between them. Picking 'two baby plants' mixes up the food store with the plant it feeds.",
    "outcome": 0
   },
@@ -2812,26 +2812,27 @@
    "t": "mcq",
    "p": "Which three things do most seeds need to sprout?",
    "opts": [
-    "Water, warmth and air",
     "Sunlight, soil and water",
+    "Water, warmth and air",
     "Soil, fertiliser and sunlight",
     "Only water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Water wakes the seed, warmth makes them work faster and air lets them breathe. Picking 'sunlight and soil' is the most common mistake. A seed carries their own food.",
    "outcome": 1
   },
   {
    "t": "mcq",
-   "p": "Does a moong seed need light to sprout?",
+   "p": "When a bean shoot pushes up through the soil, the top is bent over like a hook. Why does the shoot grow bent, not straight?",
    "opts": [
-    "No, they sprout in the dark too",
-    "Yes, they can't sprout without light",
-    "Only red light"
+    "The shoot is too weak to stand up",
+    "The shoot is looking for water",
+    "The bend pushes through the soil first, so the soft tip and tiny leaves are not scraped",
+    "The bend makes the shoot grow faster"
    ],
-   "a": 0,
-   "why": "Moong sprouts in a dark tiffin. Grown plants need light, which is why many people guess 'yes'. A few tiny seeds, like some lettuce, do need light. Moong does not.",
-   "outcome": 1
+   "a": 2,
+   "why": "Soil is rough and gritty. The bent part of the stem goes first and clears the way, and the soft growing tip is tucked behind it. Once the shoot reaches the light, the hook straightens and the leaves open. Picking 'too weak' is a fair guess, but the same shoot stands straight once they are in the light.",
+   "outcome": 5
   },
   {
    "t": "mcq",
@@ -2864,12 +2865,12 @@
    "t": "mcq",
    "p": "In the five-cup test, you put 10 moong seeds in each of 5 cups: dry, damp, damp in the fridge, under water with oil on top, and damp in the light. Look at the chart. How many more seeds sprouted in the damp warm cup than in the fridge cup?",
    "opts": [
-    "8 more",
     "9 more",
+    "8 more",
     "10 more",
     "1 more"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The damp, warm cup had 9 and the fridge cup had 1. 9 take away 1 is 8. Picking 9 means reading just the damp cup's bar, not the difference.",
    "outcome": 3,
    "how": "e1",
@@ -2897,12 +2898,12 @@
    "t": "mcq",
    "p": "You soaked moong at 8 o'clock in the evening. The first roots appeared at 8 o'clock the next evening. How long did that take?",
    "opts": [
-    "24 hours, one whole day",
     "12 hours",
     "8 hours",
+    "24 hours, one whole day",
     "2 days"
    ],
-   "a": 0,
+   "a": 2,
    "why": "From 8 in the evening to 8 the next evening is a full day, 24 hours. Picking 12 hours means counting only from evening to morning.",
    "outcome": 3
   },
@@ -2924,11 +2925,11 @@
    "t": "mcq",
    "p": "Why do seeds sealed under water often go sour and fail to sprout?",
    "opts": [
-    "They cannot get enough air to breathe",
     "They have too much food",
-    "Water is poisonous to seeds"
+    "Water is poisonous to seeds",
+    "They cannot get enough air to breathe"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Water holds only a little oxygen. Seeds sealed under it cannot breathe well, so they fail and go sour. Picking 'poisonous' is wrong. Seeds need water, just not too much of it.",
    "outcome": 4
   },
@@ -2936,11 +2937,11 @@
    "t": "mcq",
    "p": "What happens to a seed's food store as the seedling grows?",
    "opts": [
-    "It gets used up, so the seed halves shrink",
     "It grows bigger",
+    "It gets used up, so the seed halves shrink",
     "It turns into roots"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The baby plant lives on their stored food until their green leaves can make food. So the seed halves shrink. Picking 'grows bigger' is a natural guess, but the food is being eaten, not made.",
    "outcome": 4
   },
@@ -2948,38 +2949,38 @@
    "t": "mcq",
    "p": "What is the first thing that happens when a dry seed gets wet?",
    "opts": [
-    "They drink water and swell",
     "Their leaves open",
     "They grow a flower",
+    "They drink water and swell",
     "They turn green"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The seed soaks up water and swells, often to about twice their weight. Then their coat splits and the root comes out.",
    "outcome": 5
   },
   {
    "t": "mcq",
-   "p": "A seed is planted upside down. Which way will their root grow?",
+   "p": "Lotus seeds have very hard coats. Before soaking them, gardeners rub a little of the coat away on a rough stone. Why?",
    "opts": [
-    "Down, towards the ground",
-    "Up, the way the seed was pointing",
-    "It will not grow"
+    "So water can get in and wake the baby plant",
+    "To make the seeds lighter",
+    "So light can reach the food store",
+    "To clean the seeds"
    ],
    "a": 0,
-   "why": "Root tips feel gravity, so roots always turn to grow down. Picking 'up' means thinking the root just follows the way the seed points.",
-   "outcome": 5,
-   "how": "a4"
+   "why": "A hard coat keeps water out, so a lotus seed can wait for years without sprouting. Rubbing a small patch thin lets water in, and then the seed swells and sprouts in days. Picking 'so light can reach' misses that seeds wake with water, warmth and air, not light.",
+   "outcome": 0
   },
   {
    "t": "mcq",
    "p": "How long can a seed stay alive?",
    "opts": [
-    "It depends on the seed. Some last a year or two, and a few have sprouted after hundreds of years. Nobody knows the limit.",
     "Only one week",
     "For ever, always",
-    "Exactly 100 years"
+    "Exactly 100 years",
+    "It depends on the seed. Some last a year or two, and a few have sprouted after hundreds of years. Nobody knows the limit."
    ],
-   "a": 0,
+   "a": 3,
    "why": "A date palm seed about 2,000 years old sprouted in 2005. Most seeds last far less. Scientists still do not know the longest a seed can live.",
    "outcome": 6
   },

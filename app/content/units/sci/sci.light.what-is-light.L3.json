@@ -880,14 +880,14 @@
     },
     {
      "t": "mcq",
-     "p": "Astronauts on the Moon, where there is no air, switch on a torch. What happens to the light?",
+     "p": "On a sunny day, Meenakshi's shadow on the floor has sharp edges. What does this show about how light travels?",
      "opts": [
-      "It shines out across the Moon",
-      "It cannot travel, because there is no air",
-      "It only glows inside the torch"
+      "Light travels in straight lines, so it cannot curl round her body",
+      "Light travels in curves round her body",
+      "Light travels only slowly near people"
      ],
      "a": 0,
-     "why": "Light needs nothing to travel through. It crosses empty space, which is how sunlight reaches us across 15 crore kilometres of nothing. Sound is different: it needs air, water or a solid."
+     "why": "Light goes in straight lines. Where her body is in the way, the light is blocked, and the lines just past her edges carry on. So the edge of the shadow is sharp. A strong answer says 'straight lines'."
     },
     {
      "t": "mcq",
@@ -918,9 +918,9 @@
     },
     {
      "t": "truefalse",
-     "p": "The sunlight on your face right now left the Sun about 8 minutes ago.",
-     "a": true,
-     "why": "True. The Sun is about 15 crore kilometres away. At 3 lakh kilometres a second, light takes about 500 seconds, a little over 8 minutes, to cross that gap."
+     "p": "Many people think a brighter torch sends out faster light. True or false: light from a bright torch travels faster than light from a dim one.",
+     "a": false,
+     "why": "False. A bright torch sends out more light, not faster light. All light travels at the same speed in empty space, about 3 lakh kilometres every second. A strong answer says brightness is about how much light, not how fast."
     },
     {
      "t": "mcq",
@@ -1014,10 +1014,10 @@
     },
     {
      "t": "draw",
-     "p": "Draw the Sun, the Earth and a beam of light between them. Write on the beam how long the light takes to arrive.",
-     "a": "A Sun on one side, a small Earth on the other, a straight beam joining them, labelled 'about 8 minutes'.",
-     "why": "A strong drawing shows light travelling in a straight line across empty space, and gives the time.",
-     "art": "A blank strip of paper with a small circle at each end."
+     "p": "Draw a torch, a piece of card with a small hole in the middle, and a wall behind it. Draw the path of the light from the torch, through the hole, to the wall.",
+     "a": "Straight lines go from the torch to the hole and carry on straight to the wall, making a small spot of light. Light that hits the card is blocked.",
+     "why": "A strong drawing uses straight lines with a ruler and shows that only light lined up with the hole reaches the wall.",
+     "art": "A torch on the left, an empty card in the middle and a wall on the right."
     },
     {
      "t": "perspective",
@@ -1238,9 +1238,9 @@
    "items": [
     {
      "t": "count",
-     "p": "Light travels about 3 lakh kilometres every second. How many lakh kilometres does it travel in 2 seconds?",
-     "a": 6,
-     "why": "3 lakh kilometres each second, for 2 seconds, is 3 + 3 = 6 lakh kilometres."
+     "p": "Sunlight takes about 8 minutes to reach the Earth. It takes about 43 minutes to reach Jupiter. About how many times further from the Sun is Jupiter than the Earth? Choose 2, 5 or 40.",
+     "a": 5,
+     "why": "Light goes at a steady speed, so the time tells the distance. 43 minutes is a little more than 5 times 8 minutes, so Jupiter is about 5 times further from the Sun. A strong answer divides the times and explains why that works."
     },
     {
      "t": "count",
@@ -1271,15 +1271,11 @@
      "why": "Radio is a kind of light. It needs 12 minutes to cross the distance. So a chat with Mars is slow: a question and its answer take at least 24 minutes."
     },
     {
-     "t": "mcq",
-     "p": "Astronomers see a star explode tonight. The star is 600 light-years away. When did the explosion really happen?",
-     "opts": [
-      "Tonight",
-      "About 600 years ago",
-      "It will happen in 600 years"
-     ],
-     "a": 1,
-     "why": "The light from the explosion has been travelling for 600 years. So we see it 600 years after it happened. Looking far away is looking back in time."
+     "t": "write",
+     "p": "Two stars look the same tonight. One is 10 light-years away. The other is 1,000 light-years away. Which star's light is older, and by how many years? Explain.",
+     "lines": 3,
+     "a": "The light from the far star is older, by about 990 years. Its light left about 1,000 years ago. The near star's light left about 10 years ago. 1,000 minus 10 is 990.",
+     "why": "A strong answer uses the light-year: light from a star so many light-years away left that many years ago."
     },
     {
      "t": "write",
@@ -1301,10 +1297,15 @@
      "why": "Each photon lands as one dot, like a particle. But together the dots build up the striped pattern of a wave. This is why scientists say light travels like a wave and arrives in packets."
     },
     {
-     "t": "truefalse",
-     "p": "In quantum physics, the 'observer' that changes what light does must be a person watching.",
-     "a": false,
-     "why": "False. The 'observer' is any measuring machine, or anything the light interacts with that keeps a record. No person needs to be watching. This is a common mistake in films and books."
+     "t": "mcq",
+     "p": "In 1849, Hippolyte Fizeau sent light through a gap in a spinning toothed wheel, to a mirror far away and back. When the wheel spun just fast enough, the next tooth blocked the light coming back. How did this tell him light's speed?",
+     "opts": [
+      "He knew how far the light went, and how long the next tooth took to move into its path",
+      "The wheel slowed the light down until he could see it move",
+      "The teeth made the light brighter at one speed"
+     ],
+     "a": 0,
+     "why": "Speed is distance divided by time. Fizeau knew the distance to the mirror and back. The spinning speed of the wheel told him the time for one tooth to move into place. A strong answer names both the distance and the time."
     },
     {
      "t": "perspective",
@@ -1387,10 +1388,11 @@
      "art": "A blank page with a small lamp on the left and a screen on the right."
     },
     {
-     "t": "truefalse",
-     "p": "Scientists agree completely about what a photon is doing between leaving a lamp and landing on a screen.",
-     "a": false,
-     "why": "False. The sums that predict what light does work extremely well. But what a photon is doing between being made and being measured is still argued about. This is one of the big open questions in physics."
+     "t": "write",
+     "p": "Light is energy. Name two things at home that light makes happen. For each, say what the light's energy does.",
+     "lines": 3,
+     "a": "For example: sunlight on the floor makes it warm, because the energy turns into heat. A potted plant uses sunlight's energy to make their food. A glow star soaks up the energy of blue light and gives it out later as a glow.",
+     "why": "A strong answer gives two real cases and says where the energy goes each time."
     }
    ]
   }
@@ -2870,14 +2872,14 @@
   },
   {
    "t": "mcq",
-   "p": "Riya sees the sunrise at exactly 6 o'clock. When did that light leave the Sun?",
+   "p": "Arjun learns that moonlight takes about 1 second to reach us, and sunlight about 8 minutes. What does this tell him?",
    "opts": [
-    "At exactly 6 o'clock",
-    "About 8 minutes before 6 o'clock",
-    "The day before"
+    "The Sun is much further away than the Moon",
+    "Moonlight travels faster than sunlight",
+    "The Moon is bigger than the Sun"
    ],
-   "a": 1,
-   "why": "The light took about 8 minutes to travel. So it left the Sun about 8 minutes before Riya saw it.",
+   "a": 0,
+   "why": "All light travels at the same speed. So light that takes longer has come further. The Sun is about 400 times further away than the Moon.",
    "outcome": 1
   },
   {
@@ -2945,16 +2947,15 @@
   },
   {
    "t": "mcq",
-   "p": "Why can one blue photon make a glow star glow, when many red photons cannot?",
+   "p": "Photons are tiny packets of light energy. Which colour of light carries the most energy in each photon?",
    "opts": [
-    "Each blue photon carries more energy than each red photon",
-    "Blue photons are bigger",
-    "Red light is too dim"
+    "Red",
+    "Yellow",
+    "Blue"
    ],
-   "a": 0,
-   "why": "The glow star needs a big enough kick from each single photon. Blue photons have enough energy, red ones do not, however many there are.",
-   "outcome": 4,
-   "how": "e2"
+   "a": 2,
+   "why": "Blue photons carry more energy than yellow, and yellow more than red. That is why blue light could make the glow star glow and red light could not.",
+   "outcome": 4
   },
   {
    "t": "mcq",

@@ -600,11 +600,11 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 ## Worksheets
 ### Atom Detective (core) (core, 16 questions)
 1. (write) Lakshmi, a girl in Class 4, cuts a 24 cm strip of paper in half, again and again. After 8 cuts, the piece is too small to cut. Her little brother says, "Now you have one atom!" Explain to him why he is wrong.  
-   **Answer:** The last piece is about 1 millimetre long. You can still see it and pick it up, so it is far bigger than an atom. It still has millions of atoms across it. To get a piece only one atom wide, you would have to halve it about 31 times, so 23 more cuts.. *Why:* A strong answer says the piece can still be seen, and that it would take about 23 more halvings to reach one atom.
+   **Answer:** The last piece is about 1 millimetre long. You can still see it and pick it up, but you can never see a single atom, so this piece is far bigger than one. Millions of atoms would still fit in a row across it.. *Why:* A strong answer uses evidence: the piece can still be seen, and atoms are far too small to see, so the piece must still be made of a huge number of atoms.
 2. (sort) Sort these. Is each one made of atoms, or is it light or the lack of light?  
    **Answer:** steam from a pressure cooker → Made of atoms; a shadow on the wall → Light, or the lack of light; the smell of jasmine flowers → Made of atoms; sunlight on the floor → Light, or the lack of light; a steel tumbler → Made of atoms; your own hair → Made of atoms; a rainbow → Light, or the lack of light. *Why:* Steam, a smell, steel and hair are all matter, so they are made of atoms. A smell is tiny molecules reaching your nose. Sunlight and a rainbow are light, which is not made of atoms. A shadow is just a place where light is blocked.
 3. (truefalse) A grain of salt is made of only a few atoms.  
-   **Answer:** False. *Why:* False. One grain of salt has more than a billion billion atoms in it. Atoms are so small that even the tiniest thing you can see is made of a huge number of them.
+   **Answer:** False. *Why:* False. One grain of salt has about a billion billion atoms in it. Atoms are so small that even the tiniest thing you can see is made of a huge number of them.
 4. (order) Put these things in order of size, from BIGGEST to SMALLEST.  
    **Answer:** ['a coconut', 'a grain of rice', 'the width of a hair', 'an atom']. *Why:* A coconut is about 15 cm across, a grain of rice about 6 millimetres long, and a hair about a tenth of a millimetre wide. An atom is about a million times thinner than the hair.
 5. (match) Match each part of an atom to what it is.  
@@ -626,8 +626,8 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 12. (mcq) In the Pencil Dots activity, Sowmya closed her eyes and tried to dot a target 50 times. Most dots landed near the target, and fewer further out. How is her dot picture like the way scientists draw an electron?  
    Options: Each dot is like one place where the electron was found, and the thick part shows where it is most likely to be / Each dot is a real electron / The dots show that electrons are soft and fluffy  
    **Answer:** Each dot is like one place where the electron was found, and the thick part shows where it is most likely to be. *Why:* Scientists cannot follow an electron along a path. They can only say how likely it is to be found in each place. Many findings together make a cloud, thick where the electron is often found and thin where it is rarely found.
-13. (truefalse) Electrons go round the centre of an atom on neat tracks, like planets round the Sun.  
-   **Answer:** False. *Why:* False. That picture was drawn in 1913, and it is still in many books and logos. Experiments show that electrons have no tracks. We can only say where they are likely to be.
+13. (truefalse) When water boils into steam, each water molecule swells up and becomes bigger.  
+   **Answer:** False. *Why:* False. The molecules stay the same size. In steam they move much faster and spread far apart, so the same water takes up much more space. Many people think the molecules themselves grow, but only the gaps between them do.
 14. (mcq) Nithya's grandmother fries mustard seeds in the kitchen. A minute later, Nithya smells them in the bedroom. What travelled to her nose?  
    Options: Molecules from the hot seeds and oil, far too small to see / Nothing. A smell is just an idea in the head / Light from the frying pan  
    **Answer:** Molecules from the hot seeds and oil, far too small to see. *Why:* Heat makes molecules float off the seeds and the oil. They spread through the air, bumping into air molecules, until some reach Nithya's nose. You can only smell something when its molecules arrive.
@@ -658,8 +658,8 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 9. (mcq) A pot of rasam boils over onto the gas flame, and the flame flashes bright yellow. Why?  
    Options: Heat lifts electrons in the sodium atoms of the salt up an energy step. When they drop back, they give out yellow light / The salt is burning like wood / Rasam is yellow, so the flame turns yellow  
    **Answer:** Heat lifts electrons in the sodium atoms of the salt up an energy step. When they drop back, they give out yellow light. *Why:* The salt in rasam is made of sodium and chlorine. Heat lifts the sodium atoms' electrons up an energy step, and when each one drops back, it gives out light of one exact colour: yellow. Street lamps that glow orange-yellow use the same atoms.
-10. (truefalse) An electron in an atom can have any amount of energy at all, like a ball that can stop anywhere on a ramp.  
-   **Answer:** False. *Why:* False. An electron can only have certain amounts of energy, like standing on the steps of a staircase, never in between. These steps are called energy levels. This is one way the very small does not behave like the things we see.
+10. (write) Fireworks get their colours from different kinds of atoms: sodium gives yellow, copper gives blue-green and strontium gives red. Using the staircase game, explain why each kind of atom gives its own colour.  
+   **Answer:** Each kind of atom has its own staircase of energy steps. When heat lifts an electron up and it drops back down, it gives out light. The colour depends on how big the drop is. Sodium, copper and strontium have different steps, so their drops are different sizes and their colours are different.. *Why:* A strong answer says that the energy steps belong to each kind of atom, and that the size of the drop decides the colour.
 11. (order) Each of these fits inside the one before. Put them in order, from BIGGEST to SMALLEST.  
    **Answer:** ['an atom', 'a nucleus', 'a proton', 'a quark']. *Why:* The nucleus is inside the atom, protons are inside the nucleus, and quarks are inside protons. Nobody has measured any size for a quark at all.
 12. (fill) Each kind of atom has its own number of ____ in its nucleus. Carbon has 6, oxygen has 8 and gold has 79.  
@@ -688,8 +688,8 @@ But on rainy evenings, in his old age, Marsden would sometimes sit in a dark roo
 5. (fill) Protons and neutrons are each made mainly of three even smaller particles called ____.  
    **Answer:** ['quarks', 'quark']. *Why:* Murray Gell-Mann and George Zweig imagined quarks in 1964. Experiments found signs of them in 1968.
 6. (mcq) Ritu, a girl in Class 5, says, "One day, better microscopes will show exactly where an electron is and exactly how fast it is going, both at once." What would a physicist tell her?  
-   Options: No tool can ever do this. An electron does not have an exact place and an exact speed at the same time / She is right. Our tools just need to get better / Electrons are invisible, so we can never measure them at all  
-   **Answer:** No tool can ever do this. An electron does not have an exact place and an exact speed at the same time. *Why:* Werner Heisenberg showed this in 1927. It is a rule of nature, not a problem with our tools. Electrons can be measured, but the more exactly we know where one is, the less exactly we can know its speed.
+   Options: No tool can ever do this. Nature sets a limit: the more exactly anyone knows where an electron is, the less exactly they can know its speed / She is right. Our tools just need to get better / Electrons are invisible, so we can never measure them at all  
+   **Answer:** No tool can ever do this. Nature sets a limit: the more exactly anyone knows where an electron is, the less exactly they can know its speed. *Why:* Werner Heisenberg showed this in 1927. It is a rule of nature, not a problem with our tools. Electrons can be measured, but never both their exact place and their exact speed at once. Physicists still argue about what this means the electron is really like.
 7. (match) Match each scientist to their idea about electrons between measurements.  
    **Answer:** Niels Bohr and Werner Heisenberg → it has no exact place until it is measured; David Bohm → it always has an exact place, guided by a hidden wave; Hugh Everett → every possible result happens, in different branches. *Why:* These are three of the main ideas. None of them needs a human mind to do the measuring.
 8. (truefalse) Nearly all the atoms in your body, apart from most of the hydrogen, were made inside stars.  

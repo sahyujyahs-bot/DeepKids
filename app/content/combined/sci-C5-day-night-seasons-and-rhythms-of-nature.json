@@ -4,10 +4,10 @@
  "subj": "sci",
  "level": 5,
  "n": "day-night-seasons-and-rhythms-of-nature",
- "title": "The tilted year: seasons and the rhythms of life",
- "source": "DeepKids Combined. Covers NCERT Class 5 'Rhythms of Nature' (day and night, seasons, how plants, animals, people and places change; nature journaling) and Cambridge Primary Science Stage 5, Units 6.1 'The Earth moves around the Sun' and 6.2 'Seasonal changes'. No textbook needed.",
- "summary": "Your child walks the Earth's slightly squashed orbit with a tilted pencil axis and discovers that the tilt, not the distance from the Sun, makes the seasons and the changing length of days. They graph day length for Srinagar, Delhi and Chennai, find out why Kerala's winter is not Kashmir's and why the monsoon floods Assam and spares Rajasthan, and learn India's six ritus. Then they follow the rhythms of living things: trees that drop their leaves, falcons that chase an endless summer across the world, bears that sleep, and the clock that ticks inside every cell, keeping a nature journal of their own.",
- "builds_on": "In Class 2 your child tracked the Sun's daily walk; in Class 4 they spun a globe to see day and night, found evidence for the Earth's spin and met nocturnal animals. In Class 3 (The universe) they first tried the slanting-torch test for seasons. In middle school they will meet climate, weather systems and the slow wobbles of the Earth that bring ice ages.",
+ "title": "Seasons: the Earth's tilt and the rhythms of life",
+ "source": "DeepKids Combined. Covers NCERT Class 5 'Rhythms of Nature' (day and night, seasons, how plants, animals, people and places change, and nature journaling) and Cambridge Primary Science Stage 5, Units 6.1 'The Earth moves around the Sun' and 6.2 'Seasonal changes'. No textbook needed.",
+ "summary": "The Earth is nearest the Sun in early January, during India's winter. So distance cannot be what makes summer. Your child walks the Earth's orbit holding a tilted pencil as the axis, and finds that the tilt causes the seasons and the changing length of days. They graph day length for Srinagar, Delhi and Chennai, find out why Kerala's winter is not Kashmir's and why the monsoon soaks Meghalaya but not western Rajasthan, and learn India's six ritus. Then they follow the rhythms of living things: trees that drop their leaves, Amur falcons that fly from Siberia to Africa, frogs that wait underground for rain, and the body clock inside every child, all recorded in a nature journal of their own.",
+ "builds_on": "In Class 2 your child tracked the Sun's daily walk across the sky. In Class 3 they first saw, with a ball, a torch and a tilted pencil, that the tilt makes seasons. In Class 4 they spun a globe to see day and night, found evidence for the Earth's spin and met nocturnal animals. In middle school they will meet climate, weather systems, and the slow changes in the Earth's orbit and tilt that bring ice ages.",
  "goals": [
   "By the end your child can describe the Earth's orbit (about 365¼ days, a slightly squashed circle) and explain leap years.",
   "By the end your child can explain how the Earth's tilt causes seasons and changing day length, and why the two hemispheres have opposite seasons.",
@@ -64,7 +64,7 @@
   ],
   [
    "ritu",
-   "a season in the Indian calendar; there are six"
+   "a season in the old Indian calendar, which has six"
   ],
   [
    "monsoon",
@@ -98,7 +98,7 @@
      "kind": "warmup",
      "title": "Spin and journey",
      "mins": 6,
-     "do": "Recall Class 4: ask 'What makes day and night? How do we know the Earth spins?' Good answers: 'the Earth spins on its axis'; 'stars circle the Pole Star, Foucault's pendulum'. Then ask: 'What does the Earth's other movement, its trip round the Sun, give us?' (A year, and seasons.)"
+     "do": "Recall Class 4. Ask: 'What makes day and night? How do we know the Earth spins?' Good answers: 'The Earth spins on its axis.' 'The stars circle the Pole Star, and a Foucault pendulum turns its swing.' Then ask: 'The Earth also travels round the Sun. What does that trip give us?' (A year. Together with the tilt from Class 3, it also gives the seasons.)"
     },
     {
      "kind": "talk",
@@ -110,20 +110,20 @@
      "kind": "read",
      "title": "Story: The Falcon Who Chased the Summer",
      "mins": 15,
-     "do": "Read the story aloud. Stop when the young falcon realises the days are growing shorter and asks, 'Where does the summer go?' Let your child guess. Finish and ask the story questions."
+     "do": "Read the story aloud. Stop when the young falcon notices the days growing shorter and asks, 'Where is the summer going?' Let your child guess, with a reason. Finish and ask the story questions."
     },
     {
      "kind": "act",
      "title": "Start the nature journal and season tree",
      "mins": 10,
-     "do": "Start Activity a1. Choose one tree you can see every week. Your child draws or photographs it, notes leaves, flowers, fruit, birds and insects on it, the date, the weather and the time of sunrise and sunset (from a weather app or newspaper).",
+     "do": "Start Activity a1. Choose one tree you can see every week, from a window, a balcony or the street. A potted plant works too. Your child draws or photographs it and notes leaves, flowers, fruit, birds and insects, the date, the weather, and the time of sunrise and sunset (from a weather app or the newspaper).",
      "ref": "a1"
     },
     {
      "kind": "exp",
      "title": "Start the body-clock record",
      "mins": 6,
-     "do": "Start Experiment e3. Explain the record sheet; your child fills in the first row now.",
+     "do": "Start Experiment e3. Explain the record sheet. Your child fills in the first row now, and the next rows at the times on the sheet.",
      "ref": "e3"
     }
    ],
@@ -156,19 +156,19 @@
      "kind": "talk",
      "title": "Nearest in January!",
      "mins": 8,
-     "do": "Say: 'The Earth's orbit is only very slightly squashed: we are about 147 million km from the Sun in early January and about 152 million km in early July.' Ask: 'When is India's winter?' (December–January.) 'So are we nearest the Sun in summer or winter?' (Winter!) 'So can distance be the reason for seasons?' (No.) Write: 'Distance is not the reason' at the top of today's journal page."
+     "do": "Say: 'The Earth's orbit is only very slightly squashed. We are about 147 million km from the Sun in early January and about 152 million km in early July.' Ask: 'When is India's winter?' (December and January.) 'So are we nearest the Sun in summer or in winter?' (In winter.) 'So can distance be what causes the seasons?' (No.) Write 'Distance is not the reason' at the top of today's journal page."
     },
     {
      "kind": "talk",
      "title": "Why leap years?",
      "mins": 8,
-     "do": "Say: 'One trip round the Sun takes about 365 days and 6 hours. Calendars need whole days, so we use 365, and every four years the extra quarter days add up to one whole day: 29 February.' Ask: 'Someone born on 29 February: how often do they get a real birthday?' (Every four years.) 'What would happen to the seasons if we never added leap days?' (They would slowly drift through the calendar, about a day every four years.)"
+     "do": "Say: 'One trip round the Sun takes about 365 days and 6 hours. Calendars need whole days, so we use 365. Every four years the four extra quarter days add up to one whole day: 29 February.' Ask: 'Someone born on 29 February: how often do they get a real birthday?' (Once every four years.) 'What would happen to the seasons if we never added leap days?' (They would slowly drift through the calendar, by about one day every four years.)"
     },
     {
      "kind": "act",
      "title": "Dance the orbit",
      "mins": 13,
-     "do": "Put a lamp in the middle of the room. Your child is the Earth, holding a pencil tilted towards one fixed wall as the axis. They dance slowly round the lamp in an ellipse, spinning gently as they go (365 spins for one trip, but let them do a few!) and keeping the pencil pointing at the same wall all the way round. Stop at four places and ask: 'Is the top of the pencil leaning towards the lamp, away, or sideways?' Mark the four places with paper labels: June, September, December, March."
+     "do": "Put a lamp in the middle of the room. Your child is the Earth, holding a pencil tilted towards one fixed wall as the axis. They walk slowly round the lamp, turning gently as they go (365 turns for one trip, but a few will do), and keep the pencil pointing at the same wall all the way round. Stop at four places and ask: 'Is the top of the pencil leaning towards the lamp, away from it, or sideways?' Mark the four places with paper labels: June, September, December, March."
     }
    ],
    "need": [
@@ -195,27 +195,26 @@
      "kind": "exp",
      "title": "Tilted globe, long days and short days",
      "mins": 22,
-     "do": "Do Experiment e1 in a dark room. Your child spins the tilted ball, counts the seconds India spends in light and dark in the June and December positions, and writes the four numbers in the journal.",
+     "do": "Do Experiment e1 in a dark room. Your child looks at how much of India's ring is lit in the June and December positions, does the same for Australia, and writes what they see in the journal.",
      "ref": "e1"
     },
     {
      "kind": "talk",
      "title": "Opposite seasons",
      "mins": 10,
-     "do": "Using the tilted globe, ask: 'When the north half leans towards the Sun, what is happening to the south half?' (It leans away: winter.) Say: 'So when it is May and hot in Delhi, it is getting cold in Sydney, Cape Town and Buenos Aires. Families there have Christmas on the beach.' Ask: 'Which half of the Earth is India in?' (Northern.)"
+     "do": "Using the tilted ball, ask: 'When the north half leans towards the Sun, what is happening to the south half?' (It leans away, so it has winter.) Say: 'So in May, when Chennai is at its hottest, it is getting cold in Sydney, Cape Town and Buenos Aires. In those cities Christmas comes in summer, and many families have picnics on the beach.' Ask: 'Which half of the Earth is India in?' (The northern half.)"
     },
     {
      "kind": "act",
      "title": "Drama: the Sun and the Earth argue",
      "mins": 10,
-     "do": "Act a short play. Your child plays the Earth and you play the Sun. The Sun says: 'Summer happens because I come closer to you!' The Earth must disagree and give two reasons, using what they found (we are nearest in January; Australia has summer when we have winter). Then swap: the child plays the Sun and gets the last word explaining the tilt."
+     "do": "Act a short play. Your child plays the Earth and you play the Sun. The Sun says: 'Summer happens because I come closer to you!' The Earth must disagree and give two reasons from what they found: we are nearest the Sun in January, and Australia has summer when India has winter. Then swap. The child plays the Sun and gets the last word, explaining the tilt."
     }
    ],
    "need": [
-    "a globe or ball with a pencil through it",
-    "a torch",
-    "a sticker for India and one for Australia",
-    "a watch"
+    "a ball with a pencil pushed through it",
+    "a marker",
+    "a torch, or a lamp with the shade taken off"
    ]
   },
   {
@@ -241,13 +240,13 @@
      "kind": "talk",
      "title": "Solstices and equinoxes",
      "mins": 10,
-     "do": "Point to the graph. Say: 'The highest point, around 21 June, is the summer solstice: the longest day in the north. The lowest, around 21 December, is the winter solstice. Halfway, around 20 March and 23 September, are the equinoxes: day and night are about equal everywhere.' Ask: 'Which festival marks the Sun turning north again?' (Makar Sankranti and Uttarayan, around 14 January.) Say: 'About 1,700 years ago Makar Sankranti fell close to the winter solstice. Now it is three weeks later. Why? Because the Earth's axis wobbles very slowly.'"
+     "do": "Point to the graph. Say: 'The highest point, around 21 June, is the summer solstice, the longest day in the north. The lowest, around 21 December, is the winter solstice. Halfway between, around 20 March and 23 September, are the equinoxes, when day and night are about equal everywhere.' Ask: 'Which January festival celebrates the Sun's journey north?' (Makar Sankranti, called Pongal in Tamil Nadu and Uttarayan in Gujarat, around 14 January.) Say: 'About 1,700 years ago Makar Sankranti fell close to the winter solstice. Now it comes about three weeks later, because the Earth's axis wobbles very slowly.'"
     },
     {
      "kind": "exp",
      "title": "The wobbling top",
      "mins": 12,
-     "do": "Spin a lattu or a top on a plate and watch its axis slowly circle round as it spins. Say: 'The Earth's axis does this too, but one wobble takes about 26,000 years. This is called precession. In about 12,000 years the axis will point near the bright star Vega, and Dhruva Tara will no longer be the Pole Star.' Ask: 'So is the Pole Star always the Pole Star?' (No; it's just our turn.) Ask your child to draw the top with a dotted circle showing the wobble in the journal."
+     "do": "Spin a lattu or a top on a plate and watch the top of its axis slowly circle round as it spins. Say: 'The Earth's axis does this too, but one wobble takes about 26,000 years. This is called precession. In about 12,000 years the axis will point near the bright star Vega, and Dhruva Tara will no longer be the Pole Star.' Ask: 'So is the Pole Star always the Pole Star?' (No. It is only the Pole Star for now.) Your child draws the top in the journal, with a dotted circle showing the wobble."
     }
    ],
    "need": [
@@ -274,19 +273,19 @@
      "kind": "talk",
      "title": "The six ritus",
      "mins": 10,
-     "do": "Draw a circle split into six and name the ritus: Vasanta (spring, about mid-March to mid-May), Grishma (summer, mid-May to mid-July), Varsha (monsoon, mid-July to mid-September), Sharad (autumn, mid-September to mid-November), Hemanta (pre-winter, mid-November to mid-January) and Shishira (winter, mid-January to mid-March). Ask your child to draw a sign of each: mango blossom, hot loo wind, rain, clear skies and kaash grass, morning mist, cold. Ask: 'Do your local seasons really match these six? Which ones blur together where you live?'"
+     "do": "Draw a circle split into six and name the ritus: Vasanta (spring, about mid-March to mid-May), Grishma (summer, mid-May to mid-July), Varsha (rains, mid-July to mid-September), Sharad (autumn, mid-September to mid-November), Hemanta (early winter, mid-November to mid-January) and Shishira (late winter, mid-January to mid-March). Your child draws a sign of each: mango blossom, the hot summer wind, rain, clear skies, morning mist, cold nights. Say: 'Old Tamil poems also divide the year into six seasons. Kaar, for example, is the rainy season.' Ask: 'Do your local seasons really match these six? Which ones blur together where you live?' In Chennai, for example, the heaviest rain comes in October and November, not in July."
     },
     {
      "kind": "talk",
      "title": "Kerala and Kashmir, Assam and Rajasthan",
      "mins": 10,
-     "do": "Ask: 'Why does Kashmir have snowy winters and Kerala almost none?' (Kashmir is further north, so winter sunlight is more slanting and days shorter; it is also high in the mountains.) 'Why does the monsoon soak Assam and Meghalaya but bring little rain to western Rajasthan?' (The monsoon winds bring wet air from the sea; mountains force it up to make rain; by the time winds reach western Rajasthan, they have lost most of their moisture, and no high mountains lift them.) Say: 'Mawsynram in Meghalaya is one of the wettest places on Earth.'"
+     "do": "Ask: 'Why does Kashmir have snowy winters and Kerala almost none?' (Kashmir is further north, so its winter sunlight is more slanting and its days shorter. It is also high in the mountains.) Ask: 'Why does the monsoon soak Assam and Meghalaya but bring little rain to western Rajasthan?' (The monsoon winds carry wet air from the sea. Where mountains force the air up, it cools and rains. The Meghalaya hills do this. Western Rajasthan has no high mountains across the wind's path, and by the time the winds get there they have lost much of their water.) Say: 'Mawsynram in Meghalaya is one of the wettest places on Earth.'"
     },
     {
      "kind": "act",
-     "title": "Drama: East Wind meets West Wind",
+     "title": "Drama: the two monsoon winds",
      "mins": 8,
-     "do": "Act out a scene with your child: two winds argue about who brings the rains. The south-west monsoon wind (from the Arabian Sea and Bay of Bengal) says, 'I bring the June rains to Kerala and all of India!' The north-east wind says, 'But I bring the winter rains to Tamil Nadu in October and November!' Both are right: Chennai gets most of its rain from the north-east monsoon. End with a handshake: they take turns."
+     "do": "Act out a scene with your child: two winds argue about who brings the rains. The south-west monsoon wind, from the Arabian Sea and the Bay of Bengal, says: 'I bring the June rains to Kerala, and then to most of India!' The north-east monsoon wind says: 'But I bring the October and November rains to Tamil Nadu!' Both are right. Chennai gets most of its rain from the north-east monsoon. End with a handshake: they take turns through the year."
     },
     {
      "kind": "ws",
@@ -318,20 +317,20 @@
      "kind": "talk",
      "title": "Trees through the year",
      "mins": 10,
-     "do": "Say: 'Many Indian trees, like teak, sal, palash and the silk-cotton tree (semal), drop their leaves in the dry months before summer, not in the cold. Without leaves they lose less water. Then palash and semal burst into red flowers on bare branches, and amaltas hangs out its yellow chains in May. Neem renews its leaves around Ugadi and Gudi Padwa.' Ask: 'What does your season tree do? Is it evergreen or does it shed?' Collect three fallen leaves and press them in the journal."
+     "do": "Say: 'Many Indian trees, like teak, sal, palash and the silk-cotton tree (semal), drop their leaves in the dry months before summer, not in the cold. Trees lose water through their leaves, and in the dry months there is little water in the soil. Without leaves, they lose much less. Then palash and semal flower red on bare branches. Amaltas, called konrai in Tamil and kani konna in Malayalam, hangs out yellow chains in April and May, and in Kerala the flowers are part of Vishu. Neem grows new leaves around Ugadi.' Ask: 'What does your season tree do? Is it evergreen, or does it shed?' Collect three fallen leaves and press them in the journal."
     },
     {
      "kind": "talk",
      "title": "Falcons that chase the summer",
      "mins": 12,
-     "do": "Tell your child about Voice v4, the people of Pangti and the Amur falcons. Show the route on a world map: from Mongolia, China and eastern Russia, to Nagaland, across the Arabian Sea, to southern Africa, and back. Ask the voice question.",
+     "do": "Tell your child about Voice v4, the people of Pangti and the Amur falcons. Show the route on a world map: from south-east Russia and north-east China, to Nagaland, across the Arabian Sea, to southern Africa, and back. Ask the voice question.",
      "ref": "v4"
     },
     {
      "kind": "talk",
      "title": "Sleeping through it",
      "mins": 6,
-     "do": "Say: 'Some animals sleep through the hard season. Himalayan black bears in the high mountains sleep through much of winter in dens. Some frogs and snails do the opposite: in the hot, dry summer they bury themselves in mud and wait for rain, which is called aestivation. The Indian purple frog lives underground almost all year and comes up for a few weeks in the monsoon to breed.' Ask: 'Would you rather migrate or hibernate?'"
+     "do": "Say: 'Some animals sleep through the season when food is hard to find. Himalayan black bears in the high mountains sleep through much of the winter in dens. Some frogs and snails do the same in the hot, dry months: they bury themselves in mud and wait for rain. This is called aestivation. The Indian purple frog of the Western Ghats lives underground almost all year, eating termites, and comes up for a few weeks in the monsoon to breed.' Ask: 'Would you rather migrate or hibernate? Why?'"
     },
     {
      "kind": "act",
@@ -362,7 +361,7 @@
      "kind": "talk",
      "title": "The clock in every cell",
      "mins": 12,
-     "do": "Tell your child about Voice v2, the mimosa in the dark cupboard and the fruit-fly clock genes. Say: 'Your body has a master clock in the brain and little clocks in almost every cell. Morning light resets them each day. That's why flying to London gives you jet lag: your clock is still on India time.' Ask the voice question.",
+     "do": "Tell your child about Voice v2: the mimosa in a dark cupboard and the clock genes of fruit flies. Say: 'Your body has a master clock in the brain, and smaller clocks in almost every cell. Morning light resets them each day. If you fly to London, your clock stays on India time for a few days. That is called jet lag.' Ask the voice question.",
      "ref": "v2"
     },
     {
@@ -392,7 +391,7 @@
    "goal": "Put the year together and teach it back.",
    "steps": [
     {
-     "kind": "act",
+     "kind": "talk",
      "title": "Changing rhythms",
      "mins": 8,
      "do": "Tell your child about Voice v3, Roxy Mathew Koll and the changing monsoon. Ask the voice question. Then ask: 'What might change on your season tree if summers start earlier?'",
@@ -565,7 +564,7 @@
      [
       {
        "t": "match",
-       "p": "Match the animal or plant to its seasonal trick.",
+       "p": "Match each animal or plant to what they do as the seasons change.",
        "pairs": [
         [
          "Amur falcon",
@@ -711,7 +710,7 @@
        "p": "Who notices seasonal change first?",
        "items": [
         "a farmer sowing kharif crops",
-        "a fisher waiting for the monsoon ban to end",
+        "a fisher in Kerala waiting for the monsoon fishing ban to end",
         "a beekeeper",
         "an office worker in an air-conditioned building"
        ],
@@ -747,23 +746,22 @@
    "day": 3,
    "question": "How does the Earth's tilt change how long a place has daylight, and how strong the sunlight is?",
    "need": [
-    "a globe or ball with a pencil pushed through as the axis",
-    "a torch or lamp",
-    "stickers: India (about a third of the way from the equator to the North Pole) and Australia (south)",
-    "a watch",
+    "a ball with a pencil or knitting needle pushed through it as the axis",
+    "a marker",
+    "a torch, or a lamp with the shade taken off",
     "a dark room"
    ],
    "steps": [
-    "Hold the ball with the pencil tilted towards the torch (June position). Spin it slowly and steadily, counting how many seconds the India sticker stays in the light during one turn.",
-    "Count the seconds it spends in the dark.",
-    "Now walk to the opposite side of the torch, keeping the pencil leaning the same way (it now leans away from the torch: December). Repeat the counts.",
-    "Repeat for the Australia sticker in both positions.",
-    "Look at where the brightest, most direct light falls in each position."
+    "Mark India on the ball, about a quarter of the way from the equator to the top. Mark Australia the same distance below the equator. With the marker, draw a ring round the ball through each mark. Each ring is the path that place travels in one day as the Earth spins.",
+    "Put the light on a table. Hold the ball about 1 metre away, with the top of the axis leaning towards the light. This is the June position.",
+    "Look at India's ring. Is more of it in the light or in the dark? Turn the ball slowly once to check. Do the same for Australia's ring.",
+    "Now walk to the other side of the light. Keep the axis leaning the same way, towards the same wall. Now it leans away from the light. This is the December position. Look at both rings again.",
+    "In each position, see where the brightest spot of light falls: nearer India or nearer Australia."
    ],
-   "predict": "Ask: 'In June, will India spend longer in the light or in the dark? What about Australia?'",
-   "observe": "In June, India spends longer in the light than in the dark (long days) and gets the most direct beam; Australia has short days. In December it is the other way round.",
-   "why": "Because the axis stays tilted the same way as the Earth goes round the Sun, for half the year the northern half leans towards the Sun: its days are long and the sunlight strikes more directly, packing more energy into each patch of ground. That is summer. Half a year later the north leans away: short days and slanting light, so winter. The south has the opposite seasons. Near the equator, day length hardly changes.",
-   "safety": "Don't touch the hot bulb.",
+   "predict": "Ask: 'In June, will more of India's ring be in the light or in the dark? What about Australia's? Why do you think so?'",
+   "observe": "In the June position, more of India's ring is in the light, so India's days are longer than its nights, and the brightest spot is nearer India. More of Australia's ring is in the dark. In December it is the other way round. A ring round the middle, the equator, is always half lit.",
+   "why": "The axis stays tilted the same way as the Earth goes round the Sun. So for half the year the northern half leans towards the Sun. Its days are long and the sunlight strikes more directly, packing more energy into each patch of ground. That is summer. Half a year later the north leans away, with short days and slanting light, so it has winter. The south has the opposite seasons. Near the equator, day length hardly changes.",
+   "safety": "If you use a lamp, don't touch the hot bulb.",
    "time": "20 min"
   },
   {
@@ -781,9 +779,9 @@
     "On Day 7, draw a line graph of alertness through the day."
    ],
    "predict": "Ask: 'When do you think you'll feel most awake? Most sleepy?'",
-   "observe": "Most children find a pattern that repeats each day: alert in the late morning, a dip after lunch, sleepy at night, whatever they did that day.",
-   "why": "Your body has a clock that runs on a roughly 24-hour rhythm (circadian means 'about a day'). A small part of the brain acts as the master clock, set each morning by light reaching your eyes. It controls when you feel sleepy, hungry and even when your body temperature rises and falls. It keeps running even without clocks or sunlight, which is how scientists know it is inside you.",
-   "safety": "",
+   "observe": "Many children find a pattern that repeats each day, whatever they did that day: alert in the late morning, a dip after lunch, sleepy at night.",
+   "why": "Your body has a clock that runs on a roughly 24-hour rhythm. Circadian comes from Latin words meaning 'about a day'. A small part of the brain acts as the master clock, set each morning by light reaching your eyes. It controls when you feel sleepy and hungry, and when your body temperature rises and falls. It keeps running even without clocks or sunlight, which is how scientists know it is inside you.",
+   "safety": "No safety risks.",
    "time": "2 min at each time, for 4 days"
   }
  ],
@@ -799,7 +797,7 @@
     "a phone camera if you have one"
    ],
    "steps": [
-    "Choose one tree you can see every week.",
+    "Choose one tree you can see every week, from a window, a balcony or the street. A potted plant works too.",
     "Each week, draw or photograph it from the same spot.",
     "Write the date, sunrise and sunset times, the weather, and what you see: new leaves, falling leaves, flowers, fruit, birds, insects.",
     "Add one thing you hear and one thing you smell.",
@@ -839,9 +837,9 @@
    ],
    "steps": [
     "Draw a line graph with months along the bottom and hours of daylight up the side (9 to 15 hours).",
-    "Plot these rounded day lengths (hours of daylight, middle of each month): Srinagar: Jan 10, Mar 11.9, May 14, Jun 14.6, Jul 14.4, Sep 12.5, Nov 10.4, Dec 9.8. Delhi: Jan 10.4, Mar 11.9, May 13.6, Jun 14, Jul 13.9, Sep 12.4, Nov 10.7, Dec 10.2. Chennai: Jan 11.4, Mar 12, May 12.7, Jun 12.9, Jul 12.8, Sep 12.2, Nov 11.6, Dec 11.4.",
+    "Plot these rounded day lengths (hours of daylight, middle of each month). Srinagar: Jan 10.1, Mar 11.9, May 13.9, Jun 14.4, Jul 14.2, Sep 12.3, Nov 10.3, Dec 9.9. Delhi: Jan 10.5, Mar 11.9, May 13.6, Jun 14, Jul 13.8, Sep 12.3, Nov 10.7, Dec 10.3. Chennai: Jan 11.4, Mar 12, May 12.7, Jun 12.9, Jul 12.8, Sep 12.2, Nov 11.5, Dec 11.4.",
     "Join each city's points in its own colour.",
-    "Compare: which line is flattest? Which has the biggest hill? (Chennai flattest, Srinagar biggest: the further from the equator, the more the tilt changes day length.)",
+    "Compare: which line is flattest? Which has the biggest hill? (Chennai's line is flattest and Srinagar's has the biggest hill. The further a place is from the equator, the more the tilt changes its day length.)",
     "Add your own town's sunrise and sunset from your journal."
    ],
    "outcome": "A graph showing the summer and winter solstices and that day length changes more further north."
@@ -877,7 +875,7 @@
    "Lay out the six ritu cards (marked as category cards) face up in a circle.",
    "Shuffle the event cards and deal them out.",
    "Take turns to place an event card next to the ritu it belongs to and say why.",
-   "If others agree, keep your turn; if it is wrong, take the card back.",
+   "If the others agree, keep your turn. If the card is in the wrong place, take it back.",
    "First to place all their cards wins."
   ],
   "cards": [
@@ -910,7 +908,7 @@
     "back": "Vasanta"
    },
    {
-    "front": "Neem renews its leaves; Ugadi",
+    "front": "Neem grows new leaves at Ugadi",
     "back": "Vasanta"
    },
    {
@@ -918,19 +916,19 @@
     "back": "Grishma"
    },
    {
-    "front": "Amaltas hangs out yellow chains",
-    "back": "Grishma"
+    "front": "Amaltas (kani konna) flowers for Vishu in Kerala",
+    "back": "Vasanta"
    },
    {
     "front": "Kharif seeds like rice are sown",
-    "back": "Varsha"
+    "back": "Varsha (when the rains come)"
    },
    {
     "front": "Indian purple frogs come up to breed",
     "back": "Varsha"
    },
    {
-    "front": "Clear blue skies; kaash grass flowers",
+    "front": "Clear blue skies, and kaash grass flowers in Bengal",
     "back": "Sharad"
    },
    {
@@ -939,7 +937,7 @@
    },
    {
     "front": "Rabi seeds like wheat are sown",
-    "back": "Hemanta"
+    "back": "Sharad or Hemanta"
    },
    {
     "front": "Chennai's north-east monsoon rains",
@@ -950,7 +948,7 @@
     "back": "Hemanta or Shishira"
    },
    {
-    "front": "Makar Sankranti kites",
+    "front": "Makar Sankranti kites and Pongal",
     "back": "Shishira"
    },
    {
@@ -966,7 +964,7 @@
     "back": "Vasanta"
    },
    {
-    "front": "Wheat harvest, Baisakhi",
+    "front": "Wheat harvest and Baisakhi in Punjab",
     "back": "Vasanta"
    },
    {
@@ -974,8 +972,8 @@
     "back": "Shishira"
    },
    {
-    "front": "Holi",
-    "back": "Vasanta (at its start)"
+    "front": "Onam in Kerala",
+    "back": "Varsha"
    }
   ]
  },
@@ -992,7 +990,7 @@
   },
   {
    "q": "'India has four seasons: summer, monsoon, autumn and winter.' Does it?",
-   "hint": "It depends who is counting and where. The old Indian calendar has six ritus; the India Meteorological Department uses four seasons (winter, pre-monsoon or summer, south-west monsoon, and post-monsoon). Kerala, Ladakh and Rajasthan each experience the year very differently. Which seasons does your own journal show?"
+   "hint": "It depends who is counting and where. The old Indian calendar has six ritus. The India Meteorological Department uses four seasons (winter, pre-monsoon or summer, south-west monsoon, and post-monsoon). Kerala, Ladakh and Rajasthan each experience the year very differently. Which seasons does your own journal show?"
   },
   {
    "q": "'Animals hibernate because they get cold.' Do they?",
@@ -1006,30 +1004,30 @@
   },
   {
    "who": "Fishing communities",
-   "view": "On India's coasts, a fishing ban of about two months during the monsoon breeding season lets fish stocks recover. Ask: why might people agree to stop earning for two months? Who benefits?"
+   "view": "India bans most sea fishing for about two months every year, in the main breeding season of fish: from mid-April on the east coast and from June on the west coast. This lets fish stocks recover. Ask: why might people agree to stop earning for two months? Who benefits?"
   },
   {
-   "who": "The Earth's axis",
-   "view": "If the axis could speak, it might say: 'I have leaned the same way for as long as you have lived, and every season you have ever known is because of my lean.' Ask: what small, steady things in your life shape everything else?"
+   "who": "A child in Ladakh and a child in Kochi",
+   "view": "In January a child in Leh may see parts of the river freeze, with nights far below zero. A child in Kochi in January has warm, sunny days of about 30 degrees. Both live in India, in the same month. Ask: what does 'winter' mean to each of them, and why?"
   }
  ],
  "voices": [
   {
    "id": "v1",
-   "who": "Khana (perhaps around 800–1200 CE; dates debated), Bengal",
+   "who": "Khana (perhaps between 800 and 1200 CE, dates debated), Bengal",
    "idea": "Khanar Bachan, the 'Sayings of Khana', are short rhyming verses about weather, sowing, rainfall and harvests, linked to the Sun, Moon and seasons. Farmers in Bengal and Assam still quote them.",
-   "then": "Tradition says Khana was a gifted astronomer whose forecasts were better than those of the famous men of the court, and that her tongue was cut out to silence her. This story is a legend; there is no record that proves it, and historians debate whether Khana was one woman, a legend, or a name given to many farmers' sayings.",
-   "now": "The sayings are real and still used. Whether Khana herself was a real person is debated. Some sayings match what scientists know about weather; others don't. Bangladesh and West Bengal remember her today.",
+   "then": "Tradition says Khana was a gifted astronomer whose forecasts were better than those of the famous men of the court, and that her tongue was cut out to silence her. This story is a legend. There is no record that proves it, and historians debate whether Khana was one woman, a legend, or a name given to many farmers' sayings.",
+   "now": "The sayings are real and still used. Whether Khana herself was a real person is debated. Some sayings match what scientists know about weather. Others don't. Bangladesh and West Bengal remember her today.",
    "status": "debated",
    "ask": "If a saying works for farmers for hundreds of years, does it matter who said it? How could you test whether a weather saying is true?",
    "day": 7
   },
   {
    "id": "v2",
-   "who": "Jean-Jacques d'Ortous de Mairan (1678–1771), France; Jeffrey Hall, Michael Rosbash and Michael Young, USA (Nobel Prize 2017)",
-   "idea": "In 1729 de Mairan put a mimosa plant in a dark cupboard and found that its leaves still opened in the day and closed at night: the plant had its own clock. In the 1980s, Hall, Rosbash and Young found the genes in fruit flies that make the clock tick, a loop of proteins that builds up and breaks down about every 24 hours.",
+   "who": "Jean-Jacques d'Ortous de Mairan (1678–1771), France, and Jeffrey Hall, Michael Rosbash and Michael Young, USA (Nobel Prize 2017)",
+   "idea": "In 1729 de Mairan put a mimosa plant in a dark cupboard. Their leaves still opened in the day and closed at night, so the plant had their own clock. In the 1980s Hall, Rosbash and Young worked out how a gene in fruit flies, called period, makes the clock tick. The gene makes a protein that builds up at night and breaks down in the day, in a loop that repeats about every 24 hours.",
    "then": "For a long time many scientists thought daily rhythms simply followed light and temperature. The idea of an inner clock was slow to be accepted.",
-   "now": "It is now known that nearly every living thing, from bacteria to bears to people, has a circadian clock. The three Americans received the Nobel Prize in 2017.",
+   "now": "It is now known that most living things, including plants, animals, fungi and some bacteria, have a circadian clock. Hall, Rosbash and Young received the Nobel Prize in Physiology or Medicine in 2017.",
    "status": "accepted",
    "ask": "De Mairan used just a plant and a cupboard. What simple test could you do to find out whether something you notice follows the Sun or its own clock?",
    "day": 7
@@ -1038,7 +1036,7 @@
    "id": "v3",
    "who": "Roxy Mathew Koll and colleagues, Indian Institute of Tropical Meteorology, Pune",
    "idea": "In a 2017 study they found that extreme rain events over central India, single days of very heavy rain, became about three times more common between 1950 and 2015, while the total monsoon rain in many areas did not rise, linking this to the warming of the Arabian Sea.",
-   "then": "Other scientists agree heavy rain events are rising; some debate how much is caused by warming and how much by natural ups and downs of the monsoon.",
+   "then": "Other scientists agree heavy rain events are rising. Some debate how much is caused by warming and how much by natural ups and downs of the monsoon.",
    "now": "Most climate scientists accept that India's monsoon is becoming more patchy and extreme as the oceans warm, though how it will change in future is still argued.",
    "status": "debated",
    "ask": "If the same amount of rain falls but in fewer, heavier bursts, what changes for a farmer, a city and a river?",
@@ -1048,7 +1046,7 @@
    "id": "v4",
    "who": "The villagers of Pangti and Nagaland's Amur falcon protectors (from 2012)",
    "idea": "Every October and November, perhaps a million Amur falcons rest around the Doyang reservoir in Nagaland on their journey from eastern Asia to southern Africa, one of the longest migrations of any bird of prey. In 2012, conservationists filmed that well over a hundred thousand were being trapped and killed there each year for food.",
-   "then": "The news shocked people across India. Rather than only punishing the villagers, conservation groups, church leaders, the government and the village councils worked together; the communities chose to stop the hunting and began protecting and counting the falcons.",
+   "then": "The news shocked people across India. Rather than only punishing the villagers, conservation groups, church leaders, the government and the village councils worked together. The communities chose to stop the hunting and began protecting and counting the falcons.",
    "now": "Since 2013 the killing has almost stopped. Pangti calls itself the 'falcon capital of the world', and satellite-tagged falcons have shown their route across the Arabian Sea. It is often held up as a success story of a community choosing to change.",
    "status": "accepted",
    "ask": "The villagers changed what they had always done. What do you think helped them change: punishment, pride, or something else? Is it easier to change when you are part of the decision?",
@@ -1081,7 +1079,7 @@
  "check": [
   {
    "q": "How long does the Earth take to go round the Sun, and why do we have leap years?",
-   "a": "About 365¼ days; the extra quarter days add up to a whole day every four years."
+   "a": "About 365¼ days. The extra quarter days add up to a whole day every four years, so every fourth year has 29 February."
   },
   {
    "q": "What causes the seasons?",
@@ -1105,7 +1103,7 @@
   },
   {
    "q": "Give an example of an animal that migrates and one that hibernates or aestivates.",
-   "a": "Amur falcon migrates; Himalayan black bear sleeps through winter; some frogs aestivate in hot, dry months."
+   "a": "The Amur falcon migrates. The Himalayan black bear sleeps through the winter. Some frogs aestivate in the hot, dry months."
   },
   {
    "q": "What is a circadian rhythm?",
@@ -1115,7 +1113,7 @@
  "story": {
   "title": "The Falcon Who Chased the Summer",
   "text": [
-   "I hatched in a nest of sticks high in a larch tree in the far east of Asia, near the great Amur river, where the summers are short and green and loud with insects. My mother brought me crickets. My father brought me beetles. The days were so long that the Sun hardly seemed to sleep, and I grew fat and strong, and my feathers came in grey and soft, and I learned to hover over the grass on quick wings and drop on whatever moved.",
+   "I hatched in a nest of sticks high in a larch tree in the far east of Asia, near the great Amur river, where the summers are short and green and loud with insects. My mother brought me crickets. My father brought me beetles. The days were long and the Sun set late, and I grew fat and strong. My feathers came in grey and soft, and I learned to hover over the grass on quick wings and drop on whatever moved.",
    "I thought it would always be like this. Why wouldn't it? The world was warm and full of food, and the Sun rose early and set late, and that was simply how the world was.",
    "Then something began to change.",
    "At first it was so slight I hardly noticed. The Sun came up a little later. It went down a little sooner. The evenings, which had stretched out gold and endless, began to close in. Each day was a few minutes shorter than the last. I felt it before I understood it: a restlessness, deep in my body, that would not let me sit still. My wings itched. I could not stop looking south.",
@@ -1124,23 +1122,23 @@
    "One morning, when the first cold had touched the grass, thousands of us rose into the air together, falcons from all over the forests and grasslands, and turned south.",
    "We flew for weeks. Over mountains and rivers and wide brown plains, over the edges of China, over the high hills of the east. And then, in the green hills of a place the humans call Nagaland, we came down to rest by a great lake, the Doyang. There were so many of us that when we flew up together at dusk the sky turned dark and roared.",
    "The humans of the villages watched us. A few years before I was born, my mother told me, they had stretched nets between the trees and caught falcons by the tens of thousands, for food and to sell. So many died that people across the world heard of it and wept. But my mother said something had changed. The people of the villages had talked together, in their councils and their churches, and decided that we were to be guests, not food. Now the nets were gone. A boy from the village of Pangti, who once carried a catapult, now carried a notebook and climbed the hill every evening to count us.",
-   "I liked him. He sat very still. One evening, as I perched on a bamboo near him, he spoke to the old man beside him.",
+   "I liked him. He sat very still. One evening, as I perched on a bamboo near him, he spoke to his grandmother beside him.",
    "\"Where do they go next?\" asked the boy.",
-   "\"Africa,\" said the old man. \"Across the sea. All the way to the south of Africa.\"",
+   "\"Africa,\" said his grandmother. \"Across the sea. All the way to the south of Africa.\"",
    "\"But why? Isn't it summer here? Why not stay?\"",
-   "The old man picked up a round green orange from the basket beside him and pushed a twig through it, and tipped the twig to one side. \"The Earth is tilted, like this,\" he said, \"and it goes round the Sun, always leaning the same way. Now, our half is starting to lean away from the Sun. The days get shorter. Winter will come, even here, and the insects will go. But the bottom half of the world is leaning towards the Sun now. Down there, in the south of Africa, it is just becoming summer.\"",
+   "His grandmother picked up a round orange from the basket beside her, pushed a twig through it, and tipped the twig to one side. \"The Earth is tilted, like this,\" she said, \"and it goes round the Sun, always leaning the same way. Now our half is starting to lean away from the Sun. The days get shorter. Winter will come, even here, and the insects will go. But the bottom half of the world is leaning towards the Sun now. Down there, in the south of Africa, summer is just beginning.\"",
    "The boy stared at the orange. \"So when it's winter here, it's summer there?\"",
-   "\"Always,\" said the old man. \"And these falcons have worked it out. They never have to live through a winter at all. They spend our summer in the north, and the southern summer in Africa. They chase the summer round the world.\"",
+   "\"Always,\" said his grandmother. \"And these falcons have worked it out. They never have to live through a winter at all. They spend our summer in the north, and the southern summer in Africa. They follow the summer round the world.\"",
    "I did not understand the orange. But I understood the boy's face when he understood it, and I understood the restlessness in my wings. The days here were getting shorter, as they had in the north. And somewhere far to the south, they were getting longer.",
    "A few nights later we rose again, all of us together, into a strong wind blowing from the north-east, and flew out over the edge of India and on over the open sea. For days there was nothing below us but grey water. No land, no trees, nowhere to rest. Only the wind, and the dragonflies that were crossing the sea with us, millions of them, which we caught and ate on the wing.",
    "And then, at last, there was Africa, brown and green and wide. And as we flew on south, the days began to grow longer again, and the air grew warm, and the grasslands were alive with crickets. Summer. Our second summer of the year.",
    "My mother had been right. The summer had not ended. It had only moved to the other half of the world, the way it always does, because the Earth leans.",
    "When the days down there begin to shorten, I will feel the itch in my wings again, and I will turn north, back across the sea, to rest by the lake in Nagaland. I hope the boy is still there, with his notebook, counting."
   ],
-  "epiphany": "The tilted Earth gives the two halves of the world opposite seasons: when the north leans away from the Sun and its days shorten, the south leans towards it and its summer begins. The turn comes when the old man tips a twig through an orange and the boy, and the falcon, understand that the summer has not ended but moved, and that the falcons chase it round the world. The falcons feel the shortening days as their signal to fly. Underneath is a real change: a community that once trapped falcons chose to protect them.",
+  "epiphany": "The tilted Earth gives the two halves of the world opposite seasons. When the north leans away from the Sun and its days shorten, the south leans towards it and its summer begins. The turn comes when the boy's grandmother tips a twig through an orange, and the boy, and the falcon, understand that the summer has not ended but moved, and that the falcons follow it round the world. The falcons feel the shortening days as their signal to fly. Underneath is a real change: a community that once trapped falcons chose to protect them.",
   "ask": [
    "What made the young falcon restless?",
-   "Why does the old man tip the twig through the orange?",
+   "Why does the grandmother tip the twig through the orange?",
    "How can falcons live in summer all year round?",
    "What changed in the villages, and why do you think it changed?",
    "The boy once carried a catapult and now carries a notebook. What else might change if people watched animals instead of trapping them?"
@@ -1148,16 +1146,16 @@
  },
  "ideas": [
   {
-   "idea": "The seasons come from a lean, not a distance.",
-   "more": "The Earth's axis stays tilted the same way as it goes round the Sun. Whichever half leans towards the Sun has long days and direct light: summer. We are actually nearest the Sun in January."
+   "idea": "The Earth's tilt causes the seasons.",
+   "more": "The axis stays tilted the same way as the Earth goes round the Sun. The half that leans towards the Sun has long days and more direct light, so it has summer. We are actually nearest the Sun in January."
   },
   {
-   "idea": "Every living thing keeps time.",
-   "more": "Trees shed and flower, falcons migrate, bears sleep, frogs wait underground, and a clock ticks in nearly every cell of your body. Most of them read the same signal: the length of the day, set by the tilted Earth."
+   "idea": "Living things keep time.",
+   "more": "Trees shed and flower, falcons migrate, bears sleep, frogs wait underground, and a clock ticks in nearly every cell of your body. Many of them use the length of the day as their signal, and the length of the day is set by the tilt."
   },
   {
-   "idea": "Rhythms inside rhythms.",
-   "more": "The heartbeat inside the breath inside the day inside the Moon's month inside the year inside a 26,000-year wobble of the axis. Time is not only a line; it is also circles within circles."
+   "idea": "Nature has rhythms of many lengths.",
+   "more": "A heartbeat takes about a second. A day takes 24 hours, the Moon's cycle of phases about 29½ days, a year about 365¼ days, and one wobble of the Earth's axis about 26,000 years."
   }
  ],
  "unknowns": [

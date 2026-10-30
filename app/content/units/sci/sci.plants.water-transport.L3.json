@@ -906,24 +906,21 @@
     },
     {
      "t": "mcq",
-     "p": "Which part of a plant soaks up water from the soil?",
+     "p": "Each root hair is thinner than a sewing thread. Why does a root have thousands of root hairs, not a few thick roots?",
      "opts": [
-      "The leaves",
-      "The roots",
-      "The flowers",
-      "The bark"
+      "Thousands of thin hairs touch much more soil, so they soak up more water",
+      "Thin hairs are stronger than thick roots",
+      "Root hairs catch light under the soil",
+      "Thick roots cannot hold water"
      ],
-     "a": 1,
-     "why": "Roots, and especially their tiny root hairs, soak up water from the soil. Picking 'leaves' usually comes from seeing people water plants from above. Leaves let water out. They do not take much in.",
-     "art": "A plant pulled up gently, their fuzzy roots dripping."
+     "a": 0,
+     "why": "Water gets in wherever a root touches wet soil. Thousands of thin hairs squeeze between the soil grains and touch far more soil than a few fat roots could. Picking 'stronger' mixes up the job of soaking with the job of holding on."
     },
     {
-     "t": "fill",
-     "p": "The tiny water tubes inside a stem are called ____.",
-     "a": [
-      "xylem"
-     ],
-     "why": "Xylem tubes carry water from the roots up to the leaves and flowers."
+     "t": "truefalse",
+     "p": "If you pull a seedling out roughly and plant them again, they may wilt, even though their main roots are still there.",
+     "a": true,
+     "why": "True. Pulling roughly tears off the tiny root hairs, and the root hairs do most of the soaking. Until new hairs grow, the seedling cannot drink enough. That is why gardeners move seedlings with a ball of soil round their roots."
     },
     {
      "t": "mcq",
@@ -946,12 +943,11 @@
      "why": "True. More than 90 out of every 100 drops go back into the air as vapour. This is called transpiration."
     },
     {
-     "t": "fill",
-     "p": "Water leaving a plant's leaves as invisible vapour is called ____.",
-     "a": [
-      "transpiration"
-     ],
-     "why": "Transpiration is water leaving the leaves. It pulls more water up the stem."
+     "t": "write",
+     "p": "Kavya, a girl in Class 3, says, 'Plants are wasteful. They let most of their water escape into the air.' What would you tell her?",
+     "lines": 4,
+     "a": "I would tell her the escaping water is not wasted. As water leaves the leaves, it pulls more water up the stem, and that water brings minerals up from the soil. The escaping water also cools the leaves. And the holes must be open to let air in, so the leaf can make food.",
+     "why": "A strong answer says what transpiration does for the plant: it pulls water and minerals up, and cools the leaves. Losing water is the cost of keeping the holes open for air."
     },
     {
      "t": "mcq",
@@ -1039,10 +1035,16 @@
      "why": "Sun, warmth, wind, dry air and many leaves all speed up water loss. Cool, still, damp air and closed holes slow it down. It is like drying clothes."
     },
     {
-     "t": "truefalse",
-     "p": "The roots push water all the way to the top of a tall tree.",
-     "a": false,
-     "why": "False. Roots push only a little. Most of the lift comes from the leaves letting water evaporate, which pulls the water up."
+     "t": "mcq",
+     "p": "Hold a leaf up to the light. You see a net of veins reaching every corner. Why does a leaf need veins everywhere?",
+     "opts": [
+      "So every part of the leaf gets water",
+      "To make the leaf look pretty",
+      "To catch insects",
+      "To keep the leaf green"
+     ],
+     "a": 0,
+     "why": "The water tubes run inside the veins. A part of the leaf with no vein nearby would dry out and could not make food. Veins also stiffen the leaf, like the ribs of an umbrella. Picking 'to keep the leaf green' mixes up veins with chlorophyll."
     },
     {
      "t": "truefalse",
@@ -1063,7 +1065,7 @@
      "t": "write",
      "p": "Divya, a girl in Class 3, says, 'I water my plant by spraying the leaves.' What would you tell her, and why?",
      "lines": 3,
-     "a": "I would tell them to water the soil, near the roots. Plants drink through their roots, not their leaves. Most of the water on the leaves just runs off or dries away.",
+     "a": "I would tell her to water the soil, near the roots. Plants drink mostly through their roots, not their leaves. Most of the water on the leaves just runs off or dries away.",
      "why": "Any answer that says to water the soil, because roots do the drinking, is right."
     },
     {
@@ -1155,21 +1157,27 @@
     },
     {
      "t": "mcq",
-     "p": "Water molecules hold on to each other. What is this called?",
+     "p": "Fill a steel tumbler to the brim. Then add a few more drops, gently. The water bulges above the rim without spilling. Which idea from this unit does this show?",
      "opts": [
-      "Cohesion",
-      "Evaporation",
-      "Absorption",
-      "Melting"
+      "Water molecules hold on to each other",
+      "Leaves pull water up",
+      "Steel soaks up water",
+      "Water is lighter at the top"
      ],
      "a": 0,
-     "why": "Cohesion means water sticking to itself. It lets a thread of water be pulled up a tube without snapping. Picking 'evaporation' mixes up the pull at the top with what holds the thread together."
+     "why": "The water at the top holds on to the water around it, so it bulges instead of spilling. This holding on is called cohesion. It is the same pull that keeps a thread of water in a tree from snapping. Picking 'leaves pull water up' names a true idea, but there are no leaves here."
     },
     {
-     "t": "truefalse",
-     "p": "A tree can lift water much higher than any suction pump can.",
-     "a": true,
-     "why": "True. Suction can lift water only about 10 metres. The tallest tree is about 116 metres. The tree pulls from the top using cohesion, not air pushing."
+     "t": "mcq",
+     "p": "Plants need minerals, tiny bits from the soil like nitrogen, to grow. The minerals are dissolved in the soil water. How do they reach the leaves?",
+     "opts": [
+      "They travel up with the water in the xylem tubes",
+      "The leaves catch them from the air",
+      "Insects carry them up",
+      "They never leave the roots"
+     ],
+     "a": 0,
+     "why": "Dissolved minerals ride along with the water, like sugar dissolved in tea. When water is pulled up the xylem, the minerals come too. Picking 'from the air' mixes up minerals with the carbon dioxide that leaves take in."
     },
     {
      "t": "write",
@@ -1234,13 +1242,11 @@
     },
     {
      "t": "fill",
-     "p": "A plant goes floppy when their cells lose water. This is called ____.",
+     "p": "Water creeping up a paper towel or a thin cloth wick is called ____ action.",
      "a": [
-      "wilting",
-      "wilt",
-      "wilts"
+      "capillary"
      ],
-     "why": "Wilting happens when water leaves faster than it comes in, and the cells go soft."
+     "why": "In capillary action, water clings to the thin fibres and to itself, so it creeps up the narrow gaps. It lifts water only a few centimetres, far less than a tree does."
     },
     {
      "t": "mcq",
@@ -1368,7 +1374,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Scientists all agree on exactly how much of the rain over land comes from water that plants send up.",
+     "p": "Scientists all agree on exactly how much of the water rising from land into the air comes out of plants.",
      "a": false,
      "why": "False. One study in 2013 said plants send up about 80 to 90 out of every 100 drops rising from land. Later studies said about 60. They agree it is a big share, but not on the exact amount."
     },
@@ -1385,15 +1391,11 @@
      "why": "George Koch's team found the top leaves of the tallest redwoods were small and thirsty. It was as if water could barely be pulled that high. This helped them estimate how tall a tree can grow. Picking 'less light' is wrong, because the top gets the most light of all."
     },
     {
-     "t": "order",
-     "p": "Put these in order, from the one that lifts water LEAST high to the one that lifts it MOST high: a tall tree, a suction pump, a paper towel.",
-     "items": [
-      "a paper towel",
-      "a suction pump",
-      "a tall tree"
-     ],
-     "a": "order shown",
-     "why": "A paper towel lifts water a few centimetres by capillary action. A suction pump lifts it up to about 10 metres. A tall tree lifts it over 100 metres, by pulling from the top."
+     "t": "write",
+     "p": "A plant's xylem tubes are very narrow, far thinner than a hair, and there are thousands of them. Why might many narrow tubes work better than one wide pipe?",
+     "lines": 4,
+     "a": "If an air bubble gets into one tube, the water thread there snaps. With thousands of tubes, the others keep carrying water, so the plant does not dry out. In a narrow tube, water also clings to the walls and to itself, so the thread holds together better.",
+     "why": "A strong answer sees that many tubes are back-ups for each other. One broken thread does not stop the whole plant."
     },
     {
      "t": "mcq",
@@ -3109,7 +3111,7 @@
   },
   {
    "t": "mcq",
-   "p": "In Be Stephen Hales, the plant lost 32 grams of water on a sunny day and 14 grams on a cloudy day. Which other result in this unit agrees with this?",
+   "p": "In Be Stephen Hales, the plant lost more weight on a sunny day than on a cloudy day. Which other result in this unit agrees with this?",
    "opts": [
     "In the Sweating Branch test, the bag in the sun collected more water",
     "In the Blue Climb, the plain-water flower stayed white",

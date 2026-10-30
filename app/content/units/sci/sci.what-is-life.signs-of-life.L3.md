@@ -655,15 +655,15 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 5. (truefalse) A tulsi plant on the balcony shows movement, even though the plant never walks anywhere.  
    **Answer:** True. *Why:* True. Plants move by growing. Their leaves turn to the light and their roots grow down. A touch-me-not plant can even fold their leaves in a second.
 6. (sort) Sort these into Alive, Once alive and Never alive.  
-   **Answer:** an ant → Alive; a coconut shell → Once alive; a steel spoon → Never alive; a curry leaf plant → Alive; a cotton saree → Once alive; a glass bangle → Never alive; a dry fallen neem leaf → Once alive; a plastic bucket → Never alive. *Why:* Alive things do the signs of life now. Once-alive things were part of a living thing, like a shell from a coconut palm or cotton from a cotton plant. Never-alive things were never part of a living thing.
+   **Answer:** an ant → Alive; a coconut shell → Once alive; a steel spoon → Never alive; a curry leaf plant → Alive; a cotton saree → Once alive; a glass bangle → Never alive; a woollen shawl → Once alive; a plastic bucket → Never alive. *Why:* Alive things do the signs of life now. Once-alive things were part of a living thing, like a shell from a coconut palm, cotton from a cotton plant or wool from a sheep. Never-alive things were never part of a living thing.
 7. (mcq) In the seed test, cup C had boiled seeds on wet cotton. What did cup C help you find out?  
    Options: That boiling makes seeds grow faster / That water alone does not make a seed grow. The seed must be alive too / That cotton is alive / That seeds do not need water  
    **Answer:** That water alone does not make a seed grow. The seed must be alive too. *Why:* The boiled seeds got the same water as the soaked seeds, but never grew. So water was not the difference. Life was. A strong answer says what cup C was compared with: cup A.
 8. (mcq) In the balloon test, bottle B had yeast and warm water, but no sugar. Before you try it, predict what bottle B's balloon will do.  
    Options: Grow the most of all three / Burst / Grow only a little, because the yeast have almost no food / Get smaller  
    **Answer:** Grow only a little, because the yeast have almost no food. *Why:* Yeast are alive and need food to give out gas. Sugar is their food. Without sugar, they make very little gas. Picking 'grow the most' forgets that living things need food.
-9. (truefalse) A dry moong seed in a packet is dead, because they show no signs of life.  
-   **Answer:** False. *Why:* False. A dry seed is dormant, which means alive but resting. In the seed test, the dry seeds in cup B sprouted once they got water.
+9. (truefalse) A child grows taller because her body builds new cells out of the food she eats.  
+   **Answer:** True. *Why:* True. Living things grow from inside. Cells use food to build new cells, so the body gets bigger. A cloud or a crystal only gets bigger when more stuff is added to the outside.
 10. (fill) Breathing out carbon dioxide, sweating and passing wee all get rid of waste from inside the body. This sign of life is called ____.  
    **Answer:** ['excretion']. *Why:* Excretion is getting rid of waste that the body made. Plants excrete too, through tiny holes in their leaves.
 11. (mcq) A dry neem leaf lies on the ground. Which is the best evidence that the leaf is no longer alive?  
@@ -678,7 +678,7 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 15. (order) A moong seed grows into a plant that makes new seeds. Put these in order, from first to last.  
    **Answer:** [0, 1, 2, 3, 4, 5]. *Why:* The seed wakes, grows a root, then a shoot and leaves. Later the plant flowers and makes pods with new seeds. Then the circle starts again.
 16. (perspective) Meera, a girl in Class 3, asks her family: 'Is curd alive?'  
-   **Answer:** A strong answer uses a sign of life. Amma's point is reproduction: the bacteria in curd make more of themselves in warm milk. Paati's point is the most exact. Answering back, Farhan is right that curd is food, but food can still hold living things.. *Why:* Each person sees something true. A strong answer gives evidence, like setting curd from milk, and is fair to another side.
+   **Answer:** A strong answer uses a sign of life. For Amma: the bacteria in curd make more of themselves in warm milk, which is reproduction. For Paati: the living part is the bacteria, not the whole bowl. For Farhan: most of the curd really is changed milk. Answering back, a strong answer says what is true in another view.. *Why:* Each person sees something true. A strong answer gives evidence, like setting curd from milk, and is fair to another side.
 ### Life on Trial (stretch) (stretch, 16 questions)
 1. (mcq) A tulsi plant sits in a closed jar world, in the dark, for one whole night. What is the plant doing?  
    Options: Nothing at all until the morning / Making food from moonlight / Respiring: using sugar and oxygen for energy, and giving out carbon dioxide / Breathing with tiny lungs  
@@ -732,8 +732,8 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 5. (mcq) All living things on Earth, from bacteria to banyan trees to you, use the same kind of instructions, called DNA. What do most scientists think this shows?  
    Options: People put DNA into living things / Only animals have DNA / All life on Earth is related, from one shared ancestor long ago / All living things are the same size  
    **Answer:** All life on Earth is related, from one shared ancestor long ago. *Why:* Sharing one code is strong evidence that all living things are one big family. Plants, fungi and bacteria have DNA too.
-6. (truefalse) Some of the carbon atoms in your body were part of the air a year or two ago.  
-   **Answer:** True. *Why:* True. Plants take carbon dioxide from the air and build it into sugar and starch. You eat the plants, or animals that ate them. So the carbon in your dal was recently in the air.
+6. (truefalse) A single bacterium, made of just one cell, feeds, respires, gets rid of waste and makes more of themselves, all on their own.  
+   **Answer:** True. *Why:* True. One cell can be a whole living being. The bacteria in curd each do all the life processes, and they make more of themselves by splitting in two.
 7. (sort) In the life detector challenge, a grown-up made three mystery cups of atta. Sort each result: does it point to something living, or could ordinary chemistry do it?  
    **Answer:** fizzes at once, then stops within two minutes → Ordinary chemistry could do this; starts slowly, then keeps getting puffier for 30 minutes → Points to something living; still fizzes after the powder was boiled and cooled → Ordinary chemistry could do this; stops bubbling after the powder was boiled and cooled → Points to something living. *Why:* Living things start slowly and keep going, because they feed and multiply. Boiling kills them. A chemical reaction is fast, stops when used up, and still works after boiling.
 8. (write) In the life detector challenge, the baking soda cup fizzed as soon as the sugar water with lemon went in. Why could that cup trick a robot life detector? Which extra test caught the trick?  
@@ -764,9 +764,9 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 - **What Is Life? Is Death Real?** (Kurzgesagt, In a Nutshell, 10 min) id `QOCaacO8wus`: For the parent: a beautifully animated look at why the line between living and non-living is so hard to draw. Watch first, then share parts with older children. *Check:* Found by YouTube search: "What Is Life? Is Death Real?" by Kurzgesagt – In a Nutshell. Title checked automatically; a parent may still preview it.
 
 ## Quiz
-1. (mcq) Your body turns your lunch into energy, using oxygen, inside every cell. Which sign of life is this?  
-   Options: Excretion / Movement / Reproduction / Respiration  
-   **Answer:** Respiration. *Why:* Respiration is getting energy out of food inside cells. Breathing brings in the oxygen that respiration uses.
+1. (mcq) A dog hears her name, pricks up her ears and runs to the door. Which two signs of life is she showing?  
+   Options: Growth and excretion / Nutrition and reproduction / Sensing and movement / Respiration and growth  
+   **Answer:** Sensing and movement. *Why:* Hearing her name is sensing. Running to the door is movement. Respiration is going on too, inside her cells, but you cannot see it here.
 2. (mcq) A hen's eggs hatch into chicks. Which sign of life is this?  
    Options: Growth / Reproduction / Nutrition / Sensing  
    **Answer:** Reproduction. *Why:* Reproduction is making young of your own kind. The chicks will grow up into hens and roosters.
@@ -781,9 +781,9 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 6. (mcq) Bhavana, a girl in Class 4, tests yeast in two bottles of warm water. She adds sugar to one bottle and not to the other. What is she testing?  
    Options: Whether yeast need warmth / Whether the bottles are alive / Whether water is alive / Whether yeast need sugar, their food, to make gas  
    **Answer:** Whether yeast need sugar, their food, to make gas. *Why:* She changed only one thing, the sugar. So any difference in the balloons must come from the sugar. That makes it a fair test.
-7. (mcq) In the seed test, the beads on wet cotton never changed. Why were the beads there?  
-   Options: To feed the seeds / To keep the cotton wet / Because beads are a kind of seed / To show that wet cotton and water alone do not make things grow  
-   **Answer:** To show that wet cotton and water alone do not make things grow. *Why:* The beads are a comparison. They got the same water, but they were never alive, so they never grew.
+7. (mcq) In the seed test, every cup got the same amount of water and sat in the same warm place. Why?  
+   Options: So that the cups look neat / So that the only difference between the cups was what was in them: soaked, dry or boiled seeds, or beads / Because seeds only grow in a row / So the cotton does not dry out  
+   **Answer:** So that the only difference between the cups was what was in them: soaked, dry or boiled seeds, or beads. *Why:* A fair test keeps everything the same except the one thing you are testing. Then any difference must come from that one thing.
 8. (mcq) On a sunny day, which gas does a green plant give out more of than they take in?  
    Options: Carbon dioxide / Smoke / Oxygen / Steam  
    **Answer:** Oxygen. *Why:* In sunlight, plants make food and give out oxygen. They also respire and use some oxygen, but they make more than they use.

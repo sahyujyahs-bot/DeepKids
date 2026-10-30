@@ -752,8 +752,8 @@ Today, on that same street in London, there is a copy of the old pump. It has no
    **Answer:** Bathing. *Why:* Bathing has the tallest bar, at 150 litres. The toilet is second, at 120 litres. Picking drinking means guessing from what we think matters most, not reading the chart.
 13. (perspective) In a village near Kolar, in Karnataka, the wells are drying up. Three people disagree about what to do.  
    **Answer:** A strong answer picks a side and uses the jar well as evidence: pumping lowered the water for the whole jar, not just near the straw. It answers back fairly from another side, for example Selvi: a limit must still let farmers earn a living.. *Why:* This is a real problem in many parts of India. Groundwater is shared, but each farmer needs it. There is no single right answer, so listen for evidence and fairness.
-14. (write) Your friend Divya says, 'Our well water is crystal clear, so we don't need to test it.' What would you tell her?  
-   **Answer:** Clear water can still carry germs, and dissolved things like arsenic or too much fluoride. These have no colour, and often no taste. Only a test can show if the water is safe.. *Why:* A strong answer explains that the dangerous things in water can be invisible, and suggests a test.
+14. (write) Arjun's family boils their drinking water every morning. Then they keep it in an open bucket on the floor and dip a tumbler in to drink. By evening, is the water still safe? What would you tell him to change?  
+   **Answer:** It may not be safe any more. Germs can get back in from dust, flies, and hands or tumblers dipped into the bucket. Keep the boiled water covered, up off the floor, and pour it out with a ladle or a tap instead of dipping in.. *Why:* A strong answer sees that boiling only kills the germs that are there at that moment. Germs can come back in, so clean water must also be stored safely.
 15. (write) In the Invisible Ring, even the tap water left a faint ring on the dark plate. Does that mean the tap water is unsafe? Explain.  
    **Answer:** Not by itself. The ring shows that the tap water has some dissolved minerals, such as calcium. Small amounts of these are normal and harmless. The ring tells you something is dissolved, but not what it is or whether it is harmful. Only a proper test can tell that.. *Why:* A strong answer separates 'something is dissolved' from 'something harmful is dissolved'. Almost all water has some minerals in it.
 16. (write) Choose one job that uses lots of water in your home. Write two ways your family could use less for that job.  
@@ -779,7 +779,7 @@ Today, on that same street in London, there is a copy of the old pump. It has no
    **Answer:** order shown. *Why:* Mawsynram gets nearly 12 metres. Mumbai gets about 2 metres. Delhi gets about 80 centimetres. Jaisalmer gets about 20 centimetres.
 8. (write) Sohra, also called Cherrapunji, in Meghalaya, is one of the wettest places on Earth. Yet in winter many families there run short of drinking water. How can that be?  
    **Answer:** Almost all the rain falls in a few monsoon months. The hills are steep and much of the land is bare rock or thin soil, so the rain runs off fast instead of soaking in. Little is stored in tanks or in the ground. So in the dry winter months the springs and streams run low.. *Why:* A strong answer says that how much rain falls matters less than whether it soaks in or is stored. It challenges the idea that lots of rain always means lots of water.
-9. (mcq) John Snow was a doctor in London in 1854. A widow in Hampstead, far away on a hill, drank water brought from the Broad Street pump, and died of cholera. Nobody else near her was ill. Why was this strong evidence?  
+9. (mcq) John Snow was a doctor in London in 1854. A widow called Susannah Eley lived in Hampstead, far away on a hill. She liked the water from the Broad Street pump, so it was carried to her house. She drank it and died of cholera. Nobody else near her was ill. Why was this strong evidence?  
    Options: She was old / Hampstead had bad air / She shared none of the Broad Street air, only its water, so the water must carry the illness  
    **Answer:** She shared none of the Broad Street air, only its water, so the water must carry the illness. *Why:* If cholera came from bad air, she should have been safe on the fresh hill. The one thing from Broad Street in her house was the water. 'She was old' does not explain why nobody else around her got ill.
 10. (sort) A family boils all their drinking water. Which problems does boiling fix, and which does it not fix?  
@@ -828,15 +828,15 @@ Today, on that same street in London, there is a copy of the old pump. It has no
 8. (mcq) Muddy water was settled and poured through a cloth. It now looks clear. What should you do before drinking it?  
    Options: Nothing, it is clean now / Boil it, or purify it, to kill germs / Add salt  
    **Answer:** Boil it, or purify it, to kill germs. *Why:* Settling and a cloth remove the mud you can see. Germs slip through. Boiling or a proper purifier kills them.
-9. (mcq) Which of these does boiling NOT remove from water?  
-   Options: Germs / Dissolved salt or arsenic / Neither: boiling removes everything  
-   **Answer:** Dissolved salt or arsenic. *Why:* Boiling kills germs. But dissolved substances like salt, arsenic and fluoride stay behind. 'Boiling removes everything' is a very common belief.
-10. (mcq) About how much water does one person drink in a day?  
-   Options: About 2 or 3 litres / About 20 litres / About 200 litres  
-   **Answer:** About 2 or 3 litres. *Why:* Each person drinks only about 2 or 3 litres a day. Most of a home's water goes on bathing, flushing and washing.
-11. (mcq) A bucket holds 15 litres. A family uses 10 buckets of water in a day. How many litres is that?  
-   Options: 25 litres / 150 litres / 1,500 litres  
-   **Answer:** 150 litres. *Why:* 10 lots of 15 is 10 × 15 = 150 litres. Picking 25 means adding instead of multiplying.
+9. (mcq) Why does muddy water come out clearer after it trickles through a thick layer of sand?  
+   Options: The bits of mud get stuck in the tiny gaps between the sand grains, and the water slips through / The sand turns the mud into water / The sand kills all the germs  
+   **Answer:** The bits of mud get stuck in the tiny gaps between the sand grains, and the water slips through. *Why:* Sand grains have tiny gaps between them, like the ground that holds groundwater. Water fits through, but most bits of mud do not. A sand filter does not kill germs, so the water must still be boiled or purified.
+10. (mcq) Meenakshi counted her family's water on a Sunday, when everyone was home and all the clothes were washed. Why might one Sunday not show how much they usually use?  
+   Options: Different days use different amounts, so it is better to count on a few days / Water is heavier on Sundays / Tally marks only work on school days  
+   **Answer:** Different days use different amounts, so it is better to count on a few days. *Why:* One day can be unusual. Counting on a few different days and comparing gives a fairer picture of what a family usually uses.
+11. (mcq) A shower uses about 10 litres of water each minute. Kavya's shower takes 8 minutes. A bucket bath uses one 15-litre bucket. How much water does the bucket bath save?  
+   Options: 65 litres / 80 litres / 7 litres  
+   **Answer:** 65 litres. *Why:* The shower uses 8 × 10 = 80 litres. The bucket uses 15 litres. 80 − 15 = 65 litres saved. Picking 80 means forgetting that the bucket bath uses some water too.
 12. (mcq) Why do wells and borewells in many parts of India go dry?  
    Options: People pump out groundwater faster than rain refills it / It never rains in India / The water sinks too deep to be found  
    **Answer:** People pump out groundwater faster than rain refills it. *Why:* When pumping is faster than refilling, the water level falls. India pumps more groundwater than any other country. India gets a lot of rain, but unevenly.

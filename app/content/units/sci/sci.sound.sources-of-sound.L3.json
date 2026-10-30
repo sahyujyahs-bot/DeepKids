@@ -912,7 +912,7 @@
      "pairs": [
       [
        "A crow cawing at the window",
-       "the voice box in her throat"
+       "the voice box deep in the crow’s chest"
       ],
       [
        "Rain drumming on a tin roof",
@@ -928,7 +928,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Every sound has a source that vibrates. Sometimes it is part of a body, sometimes a solid thing, and sometimes the air itself."
+     "why": "Every sound has a source that vibrates. Sometimes it is part of a body, sometimes a solid thing, and sometimes the air itself. A bird’s voice box, called the syrinx, sits deep in the chest, not in the throat as ours does."
     },
     {
      "t": "truefalse",
@@ -1035,9 +1035,9 @@
        "says": "The ticking faded as the air went out, and came back when the air came in. So sound needs air, or something else, to travel through."
       }
      ],
-     "ask": "Which scientist do you side with? Use their evidence. Then say why the other scientist's test could have fooled him.",
+     "ask": "Which test do you trust more? Use the evidence. Then say what Kircher could fairly answer back.",
      "lines": 5,
-     "a": "A strong answer sides with Boyle, because his ticking faded and then came back, which shows the change was caused by the air. It is also fair to Kircher: his result was real, and he drew a sensible conclusion from it. But Berti's bell was fixed to the tube, so the vibration could travel through the solid metal and glass, and some air was probably left inside.",
+     "a": "A strong answer chooses with a reason. Boyle's test is stronger because he took the air away and put it back while changing nothing else, and the ticking followed the air. Kircher could fairly answer that Boyle's pump never took out all the air, and the ticking never fully stopped. A strong answer also spots the weakness in Berti's test: the bell was fixed to the tube, so the vibration could travel through the solid metal and glass.",
      "why": "Each scientist reasoned honestly from what he saw. Boyle's test was more careful, because he could take the air away and put it back while changing nothing else."
     },
     {
@@ -1079,9 +1079,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Sound travels faster along a steel railway track than through the air.",
+     "p": "Your ear is pressed to one end of a long iron railing. Your friend taps the far end once with a stone. You may hear the tap twice.",
      "a": true,
-     "why": "True. Sound moves through steel at about 5,000 metres every second, and through air at about 343 metres every second. In a solid, the particles are packed close and held tightly together, so each one passes the push on very quickly."
+     "why": "True. Sound travels through iron about 15 times faster than through air. So the tap arrives first through the railing, and a moment later through the air. In a solid, the particles are packed close and held tightly together, so each one passes the push on very quickly."
     },
     {
      "t": "write",
@@ -1104,11 +1104,11 @@
     },
     {
      "t": "mcq",
-     "p": "A bat flies around a dark room without bumping into the walls. How does she know where the walls are?",
+     "p": "A bat flies around a dark room without bumping into the walls. How do they know where the walls are?",
      "opts": [
-      "She listens to the echoes of her own high squeaks bouncing back",
-      "She can see perfectly in the dark",
-      "She smells the paint on the walls"
+      "They listen to the echoes of their own high squeaks bouncing back",
+      "They can see perfectly in the dark",
+      "They smell the paint on the walls"
      ],
      "a": 0,
      "why": "Many bats send out squeaks too high for people to hear, and listen for the echoes. A quick echo means a wall is close. This is called echolocation. Bats can see too, but in the dark, sound tells them more."
@@ -1164,12 +1164,6 @@
      ],
      "a": 1,
      "why": "Every 3 seconds is about 1 kilometre, and 6 seconds is two lots of 3 seconds, so about 2 kilometres. The flash reaches her almost at once, because light is far faster than sound."
-    },
-    {
-     "t": "truefalse",
-     "p": "An astronaut on the Moon drops a hammer onto a rock. A second astronaut standing nearby hears the clang through the air.",
-     "a": false,
-     "why": "False. The Moon has almost no air, so there is nothing to carry the clang from the rock to the second astronaut. The astronauts talked to each other by radio."
     },
     {
      "t": "draw",

@@ -767,10 +767,10 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
    **Answer:** A strong answer picks a side and gives a reason from the water cycle. For example: Farida is right, because cement and tar cannot soak up rain, so it all runs into the street at once. It then answers back from another side, for example Lakshmi: the same rain refills groundwater that the city also drinks.. *Why:* There is no single right answer. The same rain helps or hurts depending on the ground it falls on and how fast it comes.
 13. (write) In Cloud Watch, a small puffy cloud shrank and vanished in 10 minutes. Did it rain? Where did its water go?  
    **Answer:** No, it did not rain. The tiny drops at the edges of the cloud evaporated back into the air as invisible vapour. They evaporated faster than new drops formed, so the cloud vanished.. *Why:* Many people think every cloud must rain. Most clouds never do. A strong answer uses the word evaporated.
-14. (write) Sara, a girl in Class 4, says: 'The Sun dries up some of the sea every day. One day the sea will be empty.' What has she forgotten?  
+14. (write) Arjun, a boy in Class 4, says: 'The Sun dries up some of the sea every day. One day the sea will be empty.' What has he forgotten?  
    **Answer:** The water that evaporates does not leave the Earth. It condenses into clouds and falls as rain. Rivers carry it back to the sea. So the sea gets back about as much water as it loses.. *Why:* A strong answer follows the water all the way round, back to the sea.
-15. (write) Your solar still made fresh water from salty water. Explain how it worked, using the words evaporate and condense.  
-   **Answer:** The Sun warmed the salty water, and some of the water evaporated into the air inside the bowl. The salt stayed behind. The vapour touched the cooler cling film and condensed into fresh drops. They ran down to the low point under the pebble and dripped into the cup.. *Why:* A strong answer says that only the water rose, and that it turned back into drops on the cool film.
+15. (write) Guess first: in A Cloud in a Jar, what would happen if you used cold tap water in the jar instead of hot water? Why?  
+   **Answer:** Almost no cloud would form. Cold water evaporates slowly, so there would be very little vapour in the jar. With little vapour, there is little to condense under the icy plate.. *Why:* A strong answer links warm water to more evaporation, and more vapour to a thicker cloud. It is the same reason most clouds form over warm seas.
 16. (write) Guess first: what would happen if you put a few ice cubes on top of the cling film of your solar still? Why?  
    **Answer:** More drops would form and more fresh water would drip into the cup. The ice makes the cling film colder, and vapour condenses faster on a colder surface. (The bowl must still be in the sun, so water keeps evaporating.). *Why:* A strong answer links 'colder lid' to 'more condensation'. It is the same reason a cold tumbler gets wet and a warm one does not.
 ### Water Cycle Puzzles and Big Ideas (challenge) (challenge, 16 questions)
@@ -822,9 +822,9 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 1. (mcq) Is the rain falling today new water?  
    Options: Yes, clouds make new water every day / No. It is old water that has gone round the water cycle many times. / Yes, the Sun makes new water  
    **Answer:** No. It is old water that has gone round the water cycle many times.. *Why:* Almost no new water is made. The same water keeps rising, falling and flowing back. The rain today may once have been in the sea, a river, a tree or a dinosaur's drink.
-2. (mcq) Your school uniform is drying on a line. Which change would make it dry more slowly?  
-   Options: Spreading it out wider / Moving it into a closed room with no breeze / Moving it into the sun  
-   **Answer:** Moving it into a closed room with no breeze. *Why:* Still air fills up with vapour near the cloth, so evaporation slows down. Sun, wind and a wide surface all make water evaporate faster.
+2. (mcq) On a sticky, humid day in Chennai, wet clothes on the line take all day to dry, even in the sun. Why?  
+   Options: The air already holds a lot of water vapour, so water evaporates into it slowly / The Sun gives no heat on humid days / The clothes soak up water from the air as fast as they dry  
+   **Answer:** The air already holds a lot of water vapour, so water evaporates into it slowly. *Why:* Humid air has a lot of water vapour in it already, so it takes up more vapour slowly. Dry air takes up vapour fast. Sun, wind and a wide surface help, but humid air slows everything down.
 3. (mcq) Steam from a pot of boiling water touches a cold steel lid. What happens?  
    Options: The steam condenses into drops of water / The steam turns into salt / The steam is destroyed  
    **Answer:** The steam condenses into drops of water. *Why:* The cold lid cools the vapour, and it condenses into drops. That is why the inside of a lid is wet when you lift it.

@@ -1008,7 +1008,7 @@
       "Glass is transparent"
      ],
      "a": 0,
-     "why": "Hard means difficult to scratch. Brittle means it cracks instead of bending. Glass is both. Steel can bend a little and soak up the bump. Picking 'glass is soft' mixes up breaking with softness. A strong answer says hard is not the same as strong."
+     "why": "Hard means difficult to scratch. Brittle means it cracks instead of bending. Glass is both. Steel can bend a little and soak up the bump. Picking 'glass is soft' mixes up breaking with softness. A strong answer says being hard is not the same as being hard to break."
     },
     {
      "t": "write",
@@ -1245,7 +1245,7 @@
      "opts": [
       "The hard shell spreads out the hit, and the foam squashes to slow it down",
       "Foam makes the helmet look bigger",
-      "Plastic keeps the head warm",
+      "The foam keeps the head warm",
       "Two materials are cheaper than one"
      ],
      "a": 0,
@@ -1290,15 +1290,15 @@
     },
     {
      "t": "mcq",
-     "p": "A diamond and a pencil lead are both made only of carbon atoms. What makes one very hard and the other soft enough to write with?",
+     "p": "A diamond and graphite, the soft black stuff in a pencil, are both made only of carbon atoms. What makes diamond very hard and graphite soft enough to write with?",
      "opts": [
       "The carbon atoms are joined together in different ways",
       "Diamond has more carbon atoms",
-      "The pencil lead is mixed with butter",
+      "Graphite is mixed with butter",
       "Diamond is kept colder"
      ],
      "a": 0,
-     "why": "In diamond, each carbon atom holds tightly to others in every direction. In pencil lead, called graphite, the atoms make flat sheets that slide over each other. Picking 'more carbon' means thinking properties depend only on how much there is. A strong answer says arrangement matters."
+     "why": "In diamond, each carbon atom holds tightly to others in every direction. In graphite, the atoms make flat sheets that slide over each other. Picking 'more carbon' means thinking properties depend only on how much there is. A strong answer says arrangement matters."
     },
     {
      "t": "perspective",
@@ -1310,7 +1310,7 @@
       },
       {
        "who": "Dr Anitha, a doctor in Hyderabad",
-       "says": "Be careful. Plastic syringes and gloves keep my patients safe from germs. Nothing else does that job as well."
+       "says": "Be careful with straws. Some of my patients cannot lift a cup. A bendy plastic straw is the safest way for them to drink."
       },
       {
        "who": "Ravi, who runs a small shop",
@@ -1319,7 +1319,7 @@
      ],
      "ask": "What would you decide? Use at least one property of plastic in your answer. Then answer back from one other person's side.",
      "lines": 6,
-     "a": "A strong answer makes a clear choice, for example: ban plastic bags but not hospital plastics. It uses a property, for example: plastic is durable, so thrown-away plastic stays in the sea for hundreds of years. Then it argues fairly from another side, for example: cloth bags cost more at first.",
+     "a": "A strong answer makes a clear choice, for example: ban plastic bags, but let people who need straws still get them. It uses a property, for example: plastic is durable, so thrown-away plastic stays in the sea for hundreds of years. Then it argues fairly from another side, for example: cloth bags cost more at first, or paper straws go soggy, which is hard for a patient who drinks slowly.",
      "why": "Plastic's best property, lasting a long time, is also its biggest problem once it is thrown away. People who depend on it in different ways see different sides. There is no single right answer."
     },
     {

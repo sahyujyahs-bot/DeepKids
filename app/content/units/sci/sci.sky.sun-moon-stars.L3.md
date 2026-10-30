@@ -650,15 +650,15 @@ Karthik opened his mouth to say something about sparks. Then he closed it again.
    **Answer:** About the size of a football. *Why:* A peppercorn is about 2 millimetres wide. 109 peppercorns in a row make about 22 centimetres, about as wide as a football. Picking a lemon is a common guess, because the Sun looks small in the sky. But a lemon is only about 30 peppercorns wide.
 3. (fill) Sunlight takes about 8 minutes to reach the Earth. If the Sun suddenly stopped shining, we would keep seeing it for about ____ minutes.  
    **Answer:** ['8', 'eight']. *Why:* The light that already left the Sun would still be on its way to us. It takes about 8 minutes to cross the 15 crore kilometres, so we would see the Sun for about 8 more minutes. A strong answer explains that we always see the Sun as it was 8 minutes ago.
-4. (mcq) Light from the nearest star after the Sun takes about how long to reach us?  
-   Options: About 4 years / About 8 minutes / About 1 second / About 1 day  
-   **Answer:** About 4 years. *Why:* The nearest star after the Sun is about 4 light-years away, so its light takes about 4 years. Picking 8 minutes mixes it up with the Sun, which is our nearest star of all.
+4. (mcq) Through the night, the stars slowly move across the sky in circles. One star, the Pole Star, called Dhruva Tara, hardly moves at all. Why?  
+   Options: It is almost straight above the Earth's North Pole, the point the Earth spins round / It is the nearest star to us / It is the brightest star, so it is held still / It is fixed to the sky, and the other stars are not  
+   **Answer:** It is almost straight above the Earth's North Pole, the point the Earth spins round. *Why:* The stars do not really circle. The Earth spins, so the whole sky seems to turn. A star in line with the Earth's spin seems to stay still, like the middle of a spinning plate. Picking 'the brightest' is a common guess, but many stars are brighter than the Pole Star.
 5. (sort) Sort these. Does each one go round the Sun, or round a planet?  
    **Answer:** the Earth → Goes round the Sun; the Moon → Goes round a planet; Mars → Goes round the Sun; Ganymede, one of Jupiter's moons → Goes round a planet; Venus → Goes round the Sun; Titan, Saturn's biggest moon → Goes round a planet. *Why:* Planets go round the Sun. Moons go round planets. Of course, moons travel round the Sun too, carried along with their planet.
 6. (write) Stars low down near the horizon twinkle much more than stars high overhead. Twinkling is caused by moving air bending starlight. Explain why stars near the horizon twinkle more.  
    **Answer:** Light from a star low down passes through much more air to reach me than light from a star overhead. More air means more moving warm and cool patches to bend the light, so it twinkles more.. *Why:* A strong answer uses the cause of twinkling, moving air, and adds the key fact: a star near the horizon is seen through a much thicker slice of air. This is also why astronauts above the air see no twinkling at all.
-7. (truefalse) From space, astronauts see the stars shining steadily, without twinkling.  
-   **Answer:** True. *Why:* True. Above the air, there is nothing to shake the starlight, so stars do not twinkle.
+7. (truefalse) A planet low down near the horizon can twinkle a little too.  
+   **Answer:** True. *Why:* True. Planets look like tiny discs, not points, so they usually shine steadily. But low near the horizon their light passes through so much moving air that they can twinkle a little. So steady light is a good clue for a planet, not a perfect rule.
 8. (mcq) What makes the Sun shine?  
    Options: Burning coal and wood / Hydrogen joining up to make helium, deep inside it / Reflecting light from other stars / Electricity  
    **Answer:** Hydrogen joining up to make helium, deep inside it. *Why:* Deep in the Sun, hydrogen atoms are squeezed so hard they join into helium, and that gives out huge energy. This is called fusion. Picking 'reflecting light from other stars' mixes the Sun up with the Moon, which only reflects light. The Sun is a light source.
@@ -684,7 +684,7 @@ Karthik opened his mouth to say something about sparks. Then he closed it again.
 1. (truefalse) The Sun and the Moon look about the same size in our sky because they really are about the same size.  
    **Answer:** False. *Why:* False. The Sun is about 400 times wider than the Moon, but it is also about 400 times further away. The two cancel out, so they look the same size. That is why the Moon can just cover the Sun in a total eclipse.
 2. (truefalse) The iron in your blood was made inside stars.  
-   **Answer:** True. *Why:* True. Iron is made deep inside big stars. When those stars exploded, long before the Sun was born, they scattered it into space. Some of it ended up in the Earth, in food and in you.
+   **Answer:** True. *Why:* True. Iron is made inside stars. When some of those stars exploded, long before the Sun was born, they scattered it into space. Some of it ended up in the Earth, in food and in you.
 3. (write) In 1995, Michel Mayor and Didier Queloz found the first planet going round a star like the Sun. They never saw the planet. They saw the star wobble a tiny bit, back and forth. How could a planet you cannot see make its star wobble?  
    **Answer:** The planet and the star pull on each other with gravity. As the planet goes round, it tugs the star a little towards it, first one way and then the other. So the star wobbles in time with the planet going round.. *Why:* A strong answer uses gravity working both ways: the star pulls the planet, and the planet pulls the star. The wobble repeats every time the planet goes round. Mayor and Queloz won a Nobel Prize for this in 2019.
 4. (fill) A ____ is the distance light travels in one year.  
@@ -726,36 +726,36 @@ Karthik opened his mouth to say something about sparks. Then he closed it again.
 - **Carl Sagan's Pale Blue Dot OFFICIAL** (carlsagandotcom, 4 min) id `GO5FwsblpT8`: For the parent and older children. In 1990 the Voyager 1 spacecraft looked back and photographed the Earth as a tiny dot in a sunbeam. From far enough away, our whole world is a speck, just as every star is a sun seen from far away. *Check:* Id checked with YouTube's oEmbed service: the title and the channel, the official Carl Sagan channel, match. The words are thoughtful and slow, best watched together. Length is approximate.
 
 ## Quiz
-1. (mcq) Which of these lights in the night sky makes its own light?  
-   Options: A star / The Moon / A planet  
-   **Answer:** A star. *Why:* Stars, including the Sun, make their own light. Picking the Moon is very common, because it is so bright at night. But the Moon and the planets only reflect sunlight.
-2. (mcq) What is the Moon?  
-   Options: A small star / The Earth's satellite, which goes round the Earth / A planet that goes round the Sun on its own  
-   **Answer:** The Earth's satellite, which goes round the Earth. *Why:* The Moon goes round the Earth about once a month. Picking 'a small star' usually means the Moon is still being thought of as a light source. It makes no light. Picking 'a planet' misses that it goes round the Earth, not the Sun on its own.
+1. (mcq) A bicycle reflector glows brightly when a car's headlights shine on it, and is dark otherwise. Which object in the sky is it most like?  
+   Options: The Moon, which shines only when sunlight falls on it / The Sun / A star  
+   **Answer:** The Moon, which shines only when sunlight falls on it. *Why:* A reflector makes no light. It sends back light that falls on it, just as the Moon and the planets send back sunlight. The Sun and other stars make their own light. Picking 'a star' fits how bright the reflector looks, but not where its light comes from.
+2. (mcq) Titan, one of Saturn's moons, is bigger than the planet Mercury. So why is Titan called a moon and not a planet?  
+   Options: Titan goes round a planet, Saturn. Mercury goes round the Sun / Titan is made of ice / Moons are always bigger than planets  
+   **Answer:** Titan goes round a planet, Saturn. Mercury goes round the Sun. *Why:* What makes a moon is what it goes round, not its size. A moon goes round a planet. A planet goes round the Sun. Picking 'made of ice' is a fair guess, but some moons, like ours, are rock.
 3. (mcq) In the near lamp, far lamp test, the torch looked tiny and dim at 40 steps. What does this tell us about stars?  
    Options: Stars could be huge suns that look tiny because they are very far away / Stars are tiny, like sparks / Stars are torches  
    **Answer:** Stars could be huge suns that look tiny because they are very far away. *Why:* The torch did not change. Only its distance did. So a tiny-looking star could be a giant sun, very far away. Picking 'stars are tiny' means trusting how big something looks, without asking how far away it is.
-4. (mcq) Why does the Sun look much bigger and brighter than any other star?  
-   Options: It is much nearer to us than any other star / It is the biggest star there is / It burns hotter than every other star  
-   **Answer:** It is much nearer to us than any other star. *Why:* The Sun is our nearest star. Picking 'the biggest' or 'the hottest' is a common guess. In fact many stars are bigger and hotter than the Sun. They just look tiny because they are so far away.
-5. (mcq) A bright dot in the evening sky shines steadily, without twinkling. Over a week, it moves a little past the stars around it. What is it?  
-   Options: A planet / A star / A cloud  
-   **Answer:** A planet. *Why:* Planets usually shine steadily, and they wander among the stars. Picking 'a star' is natural, because planets look like bright stars. But stars twinkle, and they keep their places in their patterns.
+4. (mcq) Your friend says, 'The Sun must be the biggest star, because it looks the biggest.' Which test from this unit best shows why this reasoning is not enough?  
+   Options: The near lamp, far lamp test: the same torch looked smaller when it was further away / The Own Light or Reflected Light test / The pinhole Sun experiment  
+   **Answer:** The near lamp, far lamp test: the same torch looked smaller when it was further away. *Why:* The torch never changed, yet it looked smaller far away. So how big a light looks depends on how far away it is, not only on how big it is. The Sun looks biggest because it is nearest. Many stars are bigger.
+5. (mcq) Every night for two weeks, you draw a bright dot and the stars around it. The stars keep the same pattern, but the dot slowly moves past them. What is the dot?  
+   Options: A planet / A star / An aeroplane  
+   **Answer:** A planet. *Why:* Planets go round the Sun much nearer to us than the stars, so night by night they wander past the far-away stars. That is why the Greeks called them wanderers. An aeroplane would cross the sky in minutes, not keep coming back.
 6. (mcq) Where does a star's twinkle happen?  
    Options: In our moving air / Inside the star / In your eye  
    **Answer:** In our moving air. *Why:* The twinkle is made in our air, which bends the thin beam of starlight this way and that. Above the air, astronauts see stars shine steadily. Picking 'inside the star' is natural, because that is just what it looks like.
-7. (mcq) Which of these is a planet?  
-   Options: The Earth / The Sun / The Moon  
-   **Answer:** The Earth. *Why:* The Earth is one of the eight planets going round the Sun. Picking the Moon is a common mix-up. The Moon goes round the Earth, so it is a moon. The Sun is a star.
+7. (mcq) How many planets go round our Sun?  
+   Options: Eight / Nine / Five  
+   **Answer:** Eight. *Why:* There are eight: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune. Picking nine comes from the years when Pluto was counted. Picking five comes from the planets you can see without a telescope.
 8. (mcq) What keeps the Earth going round the Sun?  
    Options: The Sun's gravity / Wind blowing in space / The Moon pushing it  
    **Answer:** The Sun's gravity. *Why:* The Earth is always moving forwards, and the Sun's gravity keeps bending its path into a loop. Picking 'wind' is a creative guess, but space has no air, so there is no wind.
-9. (mcq) Deep inside the Sun, hydrogen joins up to make helium and gives out huge energy. What is this called?  
-   Options: Fusion / Burning / Reflecting  
-   **Answer:** Fusion. *Why:* Fusion means atoms joining together. It is what makes the Sun and every star shine. Picking 'burning' is a sensible guess, because the Sun looks like a fire. But burning needs oxygen, and a burning Sun would have gone out long ago.
-10. (mcq) What are stars made of, mostly?  
-   Options: Hydrogen and helium / Rock and iron, like the Earth / Fire  
-   **Answer:** Hydrogen and helium. *Why:* Cecilia Payne found this in 1925. Picking 'rock and iron, like the Earth' is exactly what most astronomers believed before her. That is why her result surprised them.
+9. (mcq) Where in the Sun does fusion, hydrogen joining up to make helium, happen?  
+   Options: Deep in the centre, where it is hottest and most squeezed / On the outside, in flames / All over the surface, like a fire  
+   **Answer:** Deep in the centre, where it is hottest and most squeezed. *Why:* Atoms only join when they are squeezed very hard and very hot. That happens only in the Sun's centre, at about 15 million degrees. The energy then takes a very long time to work its way out to the surface. Picking 'flames' imagines the Sun as a fire, but there is no burning.
+10. (mcq) The Sun has been shining for about four and a half billion years. What has been happening to the hydrogen in its centre all that time?  
+   Options: Slowly turning into helium, so there is less hydrogen and more helium / Burning away into smoke / Staying exactly the same  
+   **Answer:** Slowly turning into helium, so there is less hydrogen and more helium. *Why:* Every second, fusion turns a huge amount of hydrogen into helium. The Sun is so big that it has enough hydrogen for about 5 billion more years. Picking 'smoke' imagines burning, but fusion makes helium, not smoke.
 11. (mcq) Who found out, in 1925, that stars are mostly hydrogen, even though a famous astronomer said it was impossible?  
    Options: Cecilia Payne / Galileo / Isaac Newton  
    **Answer:** Cecilia Payne. *Why:* Cecilia Payne used Meghnad Saha's idea to read the lines in starlight. Picking Galileo is a common guess, because he is famous for the sky. But he lived about 300 years earlier.
@@ -768,9 +768,9 @@ Karthik opened his mouth to say something about sparks. Then he closed it again.
 14. (mcq) Do other stars have planets?  
    Options: Yes. Scientists have found more than 6,000 of them / No. Only the Sun has planets / Nobody can ever know  
    **Answer:** Yes. Scientists have found more than 6,000 of them. *Why:* Since 1992, astronomers have found more than 6,000 planets round other stars. Picking 'nobody can ever know' was a fair answer before then. Now we have the evidence.
-15. (mcq) What is the safe way to see the Sun?  
-   Options: Catch its picture through a pinhole onto white paper, with your back to the Sun / Look at it quickly through sunglasses / Look at it through binoculars  
-   **Answer:** Catch its picture through a pinhole onto white paper, with your back to the Sun. *Why:* A pinhole viewer lets you see the Sun's picture without looking at the Sun. Sunglasses are far too weak to protect your eyes, and binoculars would burn them in a moment. Never look at the Sun.
+15. (mcq) In a solar eclipse, the Moon covers most of the Sun. Is it safe to look straight at the Sun then?  
+   Options: No. The small part still showing is bright enough to burn your eyes, and you would not feel it happening / Yes, because most of the Sun is hidden / Yes, if you look for less than a minute  
+   **Answer:** No. The small part still showing is bright enough to burn your eyes, and you would not feel it happening. *Why:* Even a thin edge of the Sun is far too bright for eyes. The back of the eye has no pain sensors, so the harm happens without hurting. Watch an eclipse with a pinhole viewer instead, with your back to the Sun.
 
 ## Applications
 - Sunlight powers almost all life on Earth. Plants catch it to make food, and animals eat the plants.

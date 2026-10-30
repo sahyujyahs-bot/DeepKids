@@ -970,21 +970,21 @@
     },
     {
      "t": "fill",
-     "p": "A test where you change only one thing and keep everything else the same is called a ____ test.",
+     "p": "The green stuff in a leaf that catches light, so the plant can make food, is called ____.",
      "a": [
-      "fair"
+      "chlorophyll"
      ],
-     "why": "In a fair test only one thing is different, so you know that this one thing caused the result."
+     "why": "Chlorophyll is made only in light. That is why the seedlings under the box stayed pale yellow until they came back into the light."
     },
     {
      "t": "mcq",
      "p": "Look at the chart from the water test. The SOAKED cups got the most water. Why did they grow less than the JUST RIGHT cups?",
      "opts": [
-      "They had too little water",
       "Their soil was full of water, so the roots could not get air",
+      "They had too little water",
       "They got too much light"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Wet soil still has tiny air spaces. Soaked soil has none, because water fills them all. Roots need air, so they start to rot. Picking 'too little water' is a mix-up: these cups had the most water of all.",
      "context": "This question is about the water test. Three cups of moong get no water. Three get 1 tablespoon of water every morning. Three stand in a dish of water all the time.",
      "chart": {
@@ -1077,10 +1077,10 @@
      "p": "Nandini keeps one bowl of moong sprouts in the fridge and one in a kitchen cupboard. Both are covered with plates. After 3 days, which sprouts will have grown more?",
      "opts": [
       "The fridge sprouts",
-      "The cupboard sprouts",
-      "Both the same"
+      "Both the same",
+      "The cupboard sprouts"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Cold slows down the work of growing. The fridge is about 5 °C and a kitchen cupboard is about 27 °C, so the cupboard sprouts grow much more. Picking 'both the same' means thinking that only light and water matter.",
      "context": "This question is about the warmth test. Moong sprouts are kept in the dark in a fridge, a room cupboard and a warm spot, and measured each day.",
      "how": "e3"
@@ -1129,11 +1129,11 @@
      "t": "mcq",
      "p": "Farida measures her moong seedling from the rim of the cup, not from the soil. What goes wrong?",
      "opts": [
-      "Her numbers are too small, because she misses the part of the stem inside the cup",
       "Her numbers are too big",
+      "Her numbers are too small, because she misses the part of the stem inside the cup",
       "Nothing goes wrong"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The soil is lower than the rim. Measuring from the rim leaves out the bottom of the stem, so every height is too small. A plant's height is measured from the soil to their highest point."
     },
     {
@@ -1191,11 +1191,11 @@
      "p": "Kavya wants to test if plants need light. Which test is fair?",
      "opts": [
       "One pot in the sun with water, and one pot in a cupboard with no water",
-      "Two pots of the same seedlings and soil, both watered the same, one in the sun and one in a cupboard",
-      "A big plant in the sun and a tiny plant in the cupboard"
+      "A big plant in the sun and a tiny plant in the cupboard",
+      "Two pots of the same seedlings and soil, both watered the same, one in the sun and one in a cupboard"
      ],
-     "a": 1,
-     "why": "Only the light is different in this test. Picking the first one means missing that water changed too. Picking the third means missing that the plants were different sizes."
+     "a": 2,
+     "why": "Only the light is different in this test. The sun-and-no-water choice misses that water changed too. The big-and-tiny choice misses that the plants were different sizes."
     },
     {
      "t": "mcq",
@@ -1210,13 +1210,13 @@
     },
     {
      "t": "mcq",
-     "p": "Selvi waters her cactus every day, like her other plants. After a few weeks, the cactus stem goes soft and black at the bottom. What happened?",
+     "p": "Selvan waters his cactus every day, like his other plants. After a few weeks, the cactus stem goes soft and black at the bottom. What happened?",
      "opts": [
-      "The cactus got too little water",
       "The roots rotted from too much water, because a cactus needs very little",
+      "The cactus got too little water",
       "The cactus needed more sun"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A cactus comes from dry places and needs only a little water. Daily watering drowns their roots. Picking 'too little water' means using one rule for every plant. Each kind of plant has their own just right."
     },
     {
@@ -1240,10 +1240,10 @@
      "p": "Usha says: 'My plant grows well because I talk to them every day.' What is the best question to ask her?",
      "opts": [
       "What do you say to your plant?",
-      "Do you also water and check that plant more than your other plants?",
-      "Is it a big plant?"
+      "Is it a big plant?",
+      "Do you also water and check that plant more than your other plants?"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Talking to a plant usually comes with more care, so more than one thing changes. Picking 'what do you say' takes it for granted that talking is the cause, before anyone has tested it."
     },
     {
@@ -1259,8 +1259,8 @@
        "A need"
       ],
       [
-       "soil itself",
-       "Can live without"
+       "warmth",
+       "A need"
       ],
       [
        "water",
@@ -1275,22 +1275,22 @@
        "A need"
       ],
       [
-       "minerals",
-       "A need"
+       "fertiliser from a shop",
+       "Can live without"
       ]
      ],
      "a": "see items",
-     "why": "Plants need light, water, air and minerals. They do not need soil itself, only what it gives them. Music has not been shown to help plants grow."
+     "why": "Plants need light, warmth, water, air and minerals. Minerals can come from soil or compost, so shop fertiliser is a help, not a need. Music has not been shown to help plants grow."
     },
     {
      "t": "mcq",
-     "p": "Josna measured her three cups in the light: 8 cm, 9 cm and 8 cm. What is the middle value?",
+     "p": "Karthik measured his three cups in the light: 8 cm, 9 cm and 8 cm. What is the middle value?",
      "opts": [
-      "8 cm",
       "9 cm",
+      "8 cm",
       "25 cm"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Put them in order: 8, 8, 9. The middle one is 8. Picking 25 means adding them all up. The middle value is one of the numbers, not their total.",
      "context": "This question is about the light test. You grow moong seedlings in 6 cups. Three get light and three are kept under a box, with everything else the same.",
      "how": "e1"
@@ -1299,11 +1299,11 @@
      "t": "mcq",
      "p": "In Ooty, high up in the Nilgiri hills, farmers grow lots of carrots and cabbages. In hot Chennai, few people grow them. Why?",
      "opts": [
-      "Ooty soil is the only soil carrots like",
       "Carrots and cabbages grow best in cool weather, and Ooty is cool because it is high up",
+      "Ooty soil is the only soil carrots like",
       "Chennai has no water for farms"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Each kind of plant has their own just-right warmth. High places are cooler, so the Nilgiris suit cool-weather crops. Picking 'soil' misses that warmth is one of a plant's needs."
     },
     {
@@ -1331,7 +1331,7 @@
     },
     {
      "t": "write",
-     "p": "Meera's money plant sits in a dark corner of the hall. The plant grows long, thin stems with small leaves far apart. Which need is in short supply? What would you change?",
+     "p": "Anand's money plant sits in a dark corner of the hall. The plant grows long, thin stems with small leaves far apart. Which need is in short supply? What would you change?",
      "lines": 3,
      "a": "Light is in short supply. The plant is stretching towards light, like the dark seedlings. I would move the plant near a bright window, or bounce light onto them with a mirror or a steel plate, like Zoya's thali.",
      "why": "Long, thin stems with leaves far apart are the clue of too little light. A strong answer names the need and gives a cure that adds light."
@@ -1419,10 +1419,10 @@
      "p": "In the warmth test, the warm spot at 33 °C gave the most growth. Can you say that moong grows best in the hottest place possible?",
      "opts": [
       "Yes, the hotter the better",
-      "No. We only tested three temperatures, and above a certain point heat harms plants",
-      "Yes, because the warm bar was the tallest"
+      "Yes, because the warm bar was the tallest",
+      "No. We only tested three temperatures, and above a certain point heat harms plants"
      ],
-     "a": 1,
+     "a": 2,
      "why": "We did not test hotter places, so we cannot say what happens there. Other experiments show that great heat harms plants. Good scientists claim only what their test showed.",
      "context": "This question is about the warmth test. Moong sprouts are kept in the dark in a fridge, a room cupboard and a warm spot, and measured each day.",
      "chart": {
@@ -1467,11 +1467,11 @@
      "t": "mcq",
      "p": "Deepa's plant stands in a dark corner. She gives the plant extra fertiliser, but they grow no better. What does this show?",
      "opts": [
-      "Fertiliser never works",
       "Light was the need in shortest supply, so more minerals could not help",
+      "Fertiliser never works",
       "The plant was dead"
      ],
-     "a": 1,
+     "a": 0,
      "why": "This is the idea of the shortest plank. Extra of one need does not help if another need is in short supply. Picking 'fertiliser never works' stretches one result to every case."
     },
     {
@@ -1496,11 +1496,11 @@
      "t": "mcq",
      "p": "In the light test, what shows that seedlings can sense light, even though they have no eyes?",
      "opts": [
-      "The seedlings in the dark grew in a different way: tall, pale, with folded leaves",
       "The seedlings in the dark were wetter",
-      "Nothing shows it"
+      "Nothing shows it",
+      "The seedlings in the dark grew in a different way: tall, pale, with folded leaves"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The dark seedlings changed how they grew, so they must have sensed the dark. Plants sense light with special molecules called photoreceptors, which change when light falls on them.",
      "context": "This question is about the light test. You grow moong seedlings in 6 cups. Three get light and three are kept under a box, with everything else the same.",
      "how": "e1"
@@ -1536,9 +1536,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Very great heat can harm a plant, even when they have plenty of water.",
+     "p": "A plant in a pot on a hot, sunny terrace can droop at midday, even when their soil is still damp.",
      "a": true,
-     "why": "True. Enzymes, the plant's helper molecules, are folded into special shapes. Too much heat shakes them out of shape, like egg white turning solid when cooked. Then they stop working."
+     "why": "True. On a hot afternoon, leaves lose water into the air faster than the roots can drink it. The plant droops, then stands up again in the cool evening. Check the soil before watering: damp soil means wait, not pour."
     },
     {
      "t": "match",
@@ -3638,11 +3638,11 @@
    "t": "mcq",
    "p": "Which list shows what a plant needs to grow well?",
    "opts": [
-    "Light, water, air, warmth and minerals",
     "Only soil and water",
-    "Darkness, water and soil"
+    "Darkness, water and soil",
+    "Light, water, air, warmth and minerals"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Plants need light, water, air, warmth and minerals. Picking 'only soil and water' leaves out light, which plants use to make food, and air for their roots and leaves.",
    "outcome": 0
   },
@@ -3662,11 +3662,11 @@
    "t": "mcq",
    "p": "In the light test, you forget to water the dark cups. What is wrong with the test?",
    "opts": [
-    "Nothing",
     "Two things changed, light and water, so you can't tell which caused the result",
+    "Nothing",
     "The cups were too small"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A fair test changes only one thing. Picking 'nothing' means noticing the planned change but not the accidental one.",
    "outcome": 1,
    "context": "This question is about the light test. You grow moong seedlings in 6 cups. Three get light and three are kept under a box, with everything else the same.",
@@ -3674,25 +3674,25 @@
   },
   {
    "t": "mcq",
-   "p": "Where does the 0 on the ruler go when you measure a plant's height?",
+   "p": "Jaya measures her moong seedlings at 7 in the morning one day, and at 9 at night the next day. Why is it better to measure at the same time every day?",
    "opts": [
-    "At the soil",
-    "At the top of the cup",
-    "At the top of the plant"
+    "Plants grow only in the morning",
+    "Rulers are easier to read in the morning",
+    "So the gap between measurements is always one whole day, and the numbers can be compared fairly"
    ],
-   "a": 0,
-   "why": "Height is measured from the soil up. Picking 'top of the cup' leaves out the part of the stem inside the cup.",
+   "a": 2,
+   "why": "Seedlings grow all day and all night. If the gaps are different lengths, a bigger number may only mean a longer gap. Picking 'plants grow only in the morning' is not right: Bose's crescograph showed plants growing at night too.",
    "outcome": 2
   },
   {
    "t": "mcq",
    "p": "A seedling is 6 centimetres and 5 millimetres tall. How many millimetres is that?",
    "opts": [
-    "65 millimetres",
     "11 millimetres",
+    "65 millimetres",
     "6.5 millimetres"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each centimetre is 10 millimetres. So 6 centimetres is 60 millimetres, and 5 more makes 65. Picking 11 means adding 6 and 5 without changing the units.",
    "outcome": 2
   },
@@ -3700,11 +3700,11 @@
    "t": "mcq",
    "p": "Look at the chart. Which cup's seedlings grew taller?",
    "opts": [
-    "LIGHT",
     "DARK",
+    "LIGHT",
     "They were the same"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The DARK bar is taller: 14 cm against 8 cm. But remember, the dark ones were pale and weak. Picking LIGHT means answering 'which was healthier' instead of 'which was taller'.",
    "outcome": 3,
    "context": "This question is about the light test. You grow moong seedlings in 6 cups. Three get light and three are kept under a box, with everything else the same.",
@@ -3733,10 +3733,10 @@
    "p": "Which sentence is a good conclusion for the water test?",
    "opts": [
     "Plants are nice.",
-    "We found that the JUST RIGHT seedlings grew tallest, at 13 cm. This shows moong needs some water, but not too much.",
-    "I watered the plants."
+    "I watered the plants.",
+    "We found that the JUST RIGHT seedlings grew tallest, at 13 cm. This shows moong needs some water, but not too much."
    ],
-   "a": 1,
+   "a": 2,
    "why": "A good conclusion says what was found, uses a number as proof, and says what it shows. Picking 'I watered the plants' describes what you did, not what you found.",
    "outcome": 3,
    "context": "This question is about the water test. Three cups of moong get no water. Three get 1 tablespoon of water every morning. Three stand in a dish of water all the time.",
@@ -3744,26 +3744,26 @@
   },
   {
    "t": "mcq",
-   "p": "A plant is tall, thin, pale and leaning towards the window. Which need is missing?",
+   "p": "It is the monsoon in Kochi, with weeks of thick grey cloud. Anu's seedlings on a windowsill get water and warmth, but they grow slowly and lean towards the glass. Which need is in short supply?",
    "opts": [
     "Water",
     "Light",
-    "Space"
+    "Minerals"
    ],
    "a": 1,
-   "why": "Leaning and pale are clues of too little light. Picking 'water' is common, but thirsty plants droop in dry soil.",
+   "why": "Thick cloud blocks much of the sunlight, so the seedlings lean towards the brightest place. Picking 'water' misses that the monsoon gives plenty of water. It is the light that is short.",
    "outcome": 4
   },
   {
    "t": "mcq",
-   "p": "A plant has yellow leaves and their soil is always soggy and smells bad. What is wrong?",
+   "p": "Anjali's tulsi has lived in the same small pot of soil for three years. She gets good light and the right amount of water. But her new leaves are small and pale. What might help?",
    "opts": [
-    "Too little water",
-    "Too much water, so the roots can't get air",
-    "Too much light"
+    "Fresh soil or a little compost, because the old soil's minerals are used up",
+    "Moving her to a dark corner",
+    "Watering her twice as much"
    ],
-   "a": 1,
-   "why": "Yellow leaves can come from too little water or too much. Here the soil is soggy and smells bad, so the roots are getting too much water and no air. Picking 'too little water' means looking at the leaves but not at the soil.",
+   "a": 0,
+   "why": "Each year the roots take minerals out of the soil, and in a small pot nothing puts them back. Pale, small new leaves are a clue that minerals are short. Picking 'twice as much water' would soak the soil and take away the roots' air.",
    "outcome": 4
   },
   {
@@ -3782,10 +3782,10 @@
    "p": "Which is true about warmth and plants?",
    "opts": [
     "The hotter, the faster they grow, with no limit",
-    "Warmth speeds up growth, but too much heat harms plants",
-    "Plants grow fastest in the fridge"
+    "Plants grow fastest in the fridge",
+    "Warmth speeds up growth, but too much heat harms plants"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Each plant has a just-right range. Picking 'no limit' misses that great heat harms the plant's helper molecules.",
    "outcome": 5
   },
@@ -3793,35 +3793,35 @@
    "t": "mcq",
    "p": "Why is wheat sown in the cool winter in Punjab?",
    "opts": [
-    "Wheat grows best in cool weather",
     "Wheat needs a flooded field",
+    "Wheat grows best in cool weather",
     "Wheat cannot grow in sunlight"
    ],
-   "a": 0,
-   "why": "Each crop has its own just right. Wheat likes it cool. Picking 'a flooded field' describes rice, not wheat.",
+   "a": 1,
+   "why": "Each crop has their own just right. Wheat likes it cool. Picking 'a flooded field' describes rice, not wheat.",
    "outcome": 5
   },
   {
    "t": "mcq",
    "p": "How does a seedling in the dark sense that it is dark?",
    "opts": [
-    "With tiny eyes on their leaves",
     "With special light-sensing molecules, such as phytochrome",
+    "With tiny eyes on their leaves",
     "They cannot sense light"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Plants have photoreceptor molecules that change in light. Picking 'eyes' gives plants an animal body part they don't have.",
    "outcome": 6
   },
   {
    "t": "mcq",
-   "p": "Astronauts grow lettuce on the International Space Station, far from the Sun's light through a window. Which need do the station's pink-purple lamps give the plants?",
+   "p": "Astronauts grow lettuce on the International Space Station, inside a closed box. Which need do the box's pink-purple lamps give the plants?",
    "opts": [
-    "Light",
     "Water",
-    "Minerals"
+    "Minerals",
+    "Light"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The lamps give light, mostly red and blue, the colours leaves use most. Water and minerals come from a pillow of soil-like material. Picking 'water' mixes up what a lamp gives with what a watering can gives.",
    "outcome": 6
   },
@@ -3829,11 +3829,11 @@
    "t": "mcq",
    "p": "Jagadish Chandra Bose built the crescograph, a machine that made a plant's growth look thousands of times bigger. What did it show?",
    "opts": [
-    "That a plant's growth speeds up and slows down from minute to minute",
     "That plants never grow at night",
+    "That a plant's growth speeds up and slows down from minute to minute",
     "That plants grow only when someone is watching"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Bose saw a plant's growth change within minutes, for example when they were touched or warmed. Plants respond to what is around them all the time. Picking 'never at night' is wrong: plants grow at night too.",
    "outcome": 6
   }

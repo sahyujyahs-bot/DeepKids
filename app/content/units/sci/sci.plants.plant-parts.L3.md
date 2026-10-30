@@ -673,8 +673,8 @@ When her father came home for Baisakhi, she showed him both. She did not explain
    **Answer:** False. *Why:* False. Potato, ginger, turmeric and chembu grow under the ground, but they are stems. They have buds and rings. An onion's layers are leaves.
 4. (sort) Sort these into tap root or fibrous roots.  
    **Answer:** carrot → Tap root; grass → Fibrous roots; mustard → Tap root; wheat → Fibrous roots; radish → Tap root; onion → Fibrous roots. *Why:* A tap root is one thick main root going down. Fibrous roots are a beard of thin roots, all about the same size.
-5. (odd) Which one is the odd one out, and why? Carrot, radish, potato, sweet potato.  
-   **Answer:** Potato, because a potato is a stem. Carrot, radish and sweet potato are roots.. *Why:* All four grow under the ground and store food. But only the potato has eyes, and the eyes are buds. Buds grow on stems, so the potato is the odd one out.
+5. (odd) Which one is the odd one out, and why? Mango, tomato, bhindi, carrot.  
+   **Answer:** Carrot, because a carrot is a root. Mango, tomato and bhindi are fruits. Each one grew from a flower and holds seeds.. *Why:* A fruit is the part that grows from a flower and carries the seeds. Cut a tomato or a bhindi open and you see the seeds. A carrot has no seeds inside, because a carrot is a root that stores food.
 6. (mcq) Why are most leaves thin and flat?  
    Options: To spread out and catch lots of sunlight / To be light enough to blow away / To hold the plant in the ground / To store water  
    **Answer:** To spread out and catch lots of sunlight. *Why:* A thin, flat leaf works like a solar panel. It spreads out to catch light, and light can reach every cell inside it. Picking 'to store water' mixes up ordinary leaves with thick, juicy leaves like aloe, which are a special case.
@@ -684,8 +684,8 @@ When her father came home for Baisakhi, she showed him both. She did not explain
    Options: The carrot top / The carrot middle slice / The onion / The radish top  
    **Answer:** The carrot middle slice. *Why:* The carrot middle has stored food but no buds. New shoots grow from buds, and a carrot's buds are at its top. Picking the onion is a surprise guess. Onions usually grow first and fastest.
 9. (mcq) Meenakshi, a girl in Class 3, puts a money plant cutting in a glass of water. After a week, white roots grow from the stem. What does this show?  
-   Options: A cut-off part can grow the parts they are missing / Money plants never need roots / The roots came from the water / The stem has turned into a root  
-   **Answer:** A cut-off part can grow the parts they are missing. *Why:* The cutting had a stem and leaves but no roots. A plant needs roots to soak up water and hold on, so the cutting grew new ones. Picking 'never need roots' gets it backwards. The cutting grew roots because roots are needed.
+   Options: A cutting can grow the parts they are missing / Money plants never need roots / The roots came from the water / The stem has turned into a root  
+   **Answer:** A cutting can grow the parts they are missing. *Why:* The cutting had a stem and leaves but no roots. A plant needs roots to soak up water and hold on, so the cutting grew new ones. Picking 'never need roots' gets it backwards. The cutting grew roots because roots are needed.
 10. (write) Name one root and one stem that store food. Say one clue that tells you each is a root or a stem.  
    **Answer:** For example: a carrot is a root, because it has no eyes or rings along its sides. A potato is a stem, because it has eyes, which are buds.. *Why:* Any correct pair with a clue for each is right. Clues for stems are buds, eyes and rings. Roots usually have none of these.
 11. (write) Why do you think a climbing plant has a thin stem, not a thick trunk like a tree?  
@@ -717,16 +717,16 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 6. (mcq) A lotus leaf floats on a pond. Where are its stomata, the tiny holes that let air in?  
    Options: On the top side, facing the air / On the bottom side, in the water / There are none / On the stem only  
    **Answer:** On the top side, facing the air. *Why:* On most land leaves, stomata are mostly underneath. A floating lotus leaf has them on top, where the air is. Its shape and its holes both fit its life on water. Picking 'bottom side' means using the rule for land leaves. The lotus breaks that rule for a good reason.
-7. (truefalse) A tendril coiled round a stick twists one way at one end and the other way at the other end.  
+7. (truefalse) A gourd tendril has grabbed a stick. The coiled part between the stem and the stick twists one way at one end and the other way at the other end.  
    **Answer:** True. *Why:* True. Both ends are held, so it cannot twist all one way. It makes a spring with a switch point in the middle. Darwin described it, and scientists explained it in 2012.
 8. (fill) A stem that grows sideways under the ground, like ginger or turmeric, is called a ____.  
    **Answer:** ['rhizome']. *Why:* Ginger and turmeric are rhizomes. Their rings are nodes, and their buds can grow new shoots.
 9. (mcq) Why does an old carrot that has flowered taste woody and not sweet?  
    Options: Their stored sugar was used up to grow the flower stalk and seeds / It got too much sun / Carrots always taste woody / Insects ate the sugar  
    **Answer:** Their stored sugar was used up to grow the flower stalk and seeds. *Why:* The carrot stored sugar for the next stage of their life. When they flowered, they used that food to grow a tall stalk and seeds. Picking 'insects ate it' is a reasonable guess. But the root is not damaged, it is just emptied out.
-10. (mcq) Banyan trees send down roots from their branches. What happens when they reach the ground?  
-   Options: They grow thick and hold up the branches like pillars / They dry up and fall off / They turn into new leaves / They become fruits  
-   **Answer:** They grow thick and hold up the branches like pillars. *Why:* These are prop roots. Once they reach the ground, they grow thick and woody, and hold up the heavy branches. That is how a banyan can spread so wide. Picking 'dry up' is a fair guess, but they become some of the strongest parts of the tree.
+10. (mcq) A jasmine (malli) flower is white and smells strongest in the evening. Who is the flower most likely calling?  
+   Options: Moths that fly at dusk and at night / Bees that fly at noon / The wind / Birds that fly in the morning  
+   **Answer:** Moths that fly at dusk and at night. *Why:* A flower's job is to make seeds, and for that pollen must be carried from flower to flower. White shows up in dim light, and a strong smell carries in the dark. Night-flying moths follow both. Picking bees is a fair guess, because bees visit many flowers, but bees mostly fly in the daytime.
 11. (truefalse) A rose's sharp points are thorns, just like the thorns of bougainvillea.  
    **Answer:** False. *Why:* False. A bougainvillea thorn is a changed branch, and it grows from the point where a bud would be. A rose's sharp points grow only from the skin of the stem. You can snap one off cleanly, and there is no bud near it. Botanists call them prickles. In everyday talk, calling them thorns is fine.
 12. (write) Chembu leaves and lotus leaves make raindrops roll off in balls. How might that help a plant?  
@@ -741,7 +741,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 1. (mcq) A sweet potato is a root, but it can sprout shoots. Does that break the rule 'buds grow on stems'?  
    Options: It shows that rules in biology have exceptions, so botanists use several clues together / It proves a sweet potato is a stem / It proves the rule is useless / Sweet potatoes cannot really sprout  
    **Answer:** It shows that rules in biology have exceptions, so botanists use several clues together. *Why:* Most roots have no buds, but a few, like sweet potato, can grow shoots. Botanists look at many clues, like how it grew and what it is joined to. Picking 'the rule is useless' throws away a rule that works for most plants.
-2. (write) Cactuses grow in America. Some euphorbias grow in Africa. Both have fat, green, spiny stems, but they are not close relatives. Explain how two plants that are not related could end up with the same shape.  
+2. (write) Cactuses grow in the Americas. Some euphorbias grow in Africa. Both have fat, green, spiny stems, but they are not close relatives. Explain how two plants that are not related could end up with the same shape.  
    **Answer:** Both live in hot, dry places. There, wide leaves would lose too much water, so spines and a fat stem that stores water help a plant survive. Over a very long time, the plants with those shapes survived best in both places. So the same problem gave the same answer twice.. *Why:* A strong answer links the shape to the job in that place: saving and storing water. It says the shape helped each plant survive, not that one copied the other.
 3. (write) In the Wake the Store test, the carrot middle grew nothing. Is that a failure? What did it teach us?  
    **Answer:** No, it was our check. It had food but no buds, and it grew nothing. So it showed that new shoots need a bud, not only food.. *Why:* A check that stays the same is as useful as a result that changes. It tells you what made the difference.

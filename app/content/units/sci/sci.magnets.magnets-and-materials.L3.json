@@ -2313,15 +2313,15 @@
   },
   {
    "t": "mcq",
-   "p": "In the paper clip chain test, a tiny magnet held 12 clips and a big fridge magnet held 1. What can you say?",
+   "p": "Meera does the paper clip chain test. Her magnet holds 5 clips on the first try. Why should she test it two more times?",
    "opts": [
-    "The tiny magnet is stronger",
-    "The big magnet is stronger, because it is bigger",
-    "They are the same",
-    "The test was not fair, because the magnets were different sizes"
+    "The magnet gets stronger each time",
+    "One try can be a fluke, for example if a clip is bent or the chain is knocked",
+    "Three is a lucky number",
+    "To tire the magnet out"
    ],
-   "a": 0,
-   "why": "More clips in the chain means a stronger magnet. Size is not what makes a magnet strong. What it is made of matters, and how well its tiny magnets are lined up. Picking 'not fair' is a thoughtful idea, but here the size is part of what we are comparing, not something we must keep the same.",
+   "a": 1,
+   "why": "One result can be wrong by bad luck. If three tries give about the same number, she can trust it. If one try is very different, she knows to look for what went wrong. Picking 'gets stronger each time' means thinking testing changes the magnet. It does not.",
    "outcome": 2,
    "how": "e2"
   },
@@ -2427,7 +2427,7 @@
   },
   {
    "t": "mcq",
-   "p": "Which of these living things has been shown to use the Earth's magnetic field to find its way?",
+   "p": "Which of these living things has been shown to use the Earth's magnetic field to find their way?",
    "opts": [
     "Young loggerhead sea turtles",
     "Mango trees",
@@ -2702,7 +2702,7 @@
       "Copper is too shiny"
      ],
      "a": 2,
-     "why": "In copper, the electrons are in pairs, and the two in each pair point opposite ways, so their tiny magnets cancel. Iron has some electrons with no partner, so its tiny magnets do not cancel. 'No electrons' is wrong, because every atom has electrons."
+     "why": "In copper, the electrons' tiny magnets cancel out. Most of copper's electrons are in pairs that point opposite ways. Copper's few spare electrons never line up together. In iron, many spare electrons line up with their neighbours, so their tiny magnets add up. 'No electrons' is wrong, because every atom has electrons."
     },
     {
      "t": "write",

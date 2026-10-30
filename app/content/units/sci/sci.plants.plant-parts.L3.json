@@ -1026,9 +1026,9 @@
     },
     {
      "t": "odd",
-     "p": "Which one is the odd one out, and why? Carrot, radish, potato, sweet potato.",
-     "a": "Potato, because a potato is a stem. Carrot, radish and sweet potato are roots.",
-     "why": "All four grow under the ground and store food. But only the potato has eyes, and the eyes are buds. Buds grow on stems, so the potato is the odd one out."
+     "p": "Which one is the odd one out, and why? Mango, tomato, bhindi, carrot.",
+     "a": "Carrot, because a carrot is a root. Mango, tomato and bhindi are fruits. Each one grew from a flower and holds seeds.",
+     "why": "A fruit is the part that grows from a flower and carries the seeds. Cut a tomato or a bhindi open and you see the seeds. A carrot has no seeds inside, because a carrot is a root that stores food."
     },
     {
      "t": "mcq",
@@ -1068,7 +1068,7 @@
      "t": "mcq",
      "p": "Meenakshi, a girl in Class 3, puts a money plant cutting in a glass of water. After a week, white roots grow from the stem. What does this show?",
      "opts": [
-      "A cut-off part can grow the parts they are missing",
+      "A cutting can grow the parts they are missing",
       "Money plants never need roots",
       "The roots came from the water",
       "The stem has turned into a root"
@@ -1287,7 +1287,7 @@
     },
     {
      "t": "truefalse",
-     "p": "A tendril coiled round a stick twists one way at one end and the other way at the other end.",
+     "p": "A gourd tendril has grabbed a stick. The coiled part between the stem and the stick twists one way at one end and the other way at the other end.",
      "a": true,
      "why": "True. Both ends are held, so it cannot twist all one way. It makes a spring with a switch point in the middle. Darwin described it, and scientists explained it in 2012.",
      "context": "In the Tickle a Tendril activity, you look closely at the coiled tendrils of a gourd or pea plant.",
@@ -1316,15 +1316,15 @@
     },
     {
      "t": "mcq",
-     "p": "Banyan trees send down roots from their branches. What happens when they reach the ground?",
+     "p": "A jasmine (malli) flower is white and smells strongest in the evening. Who is the flower most likely calling?",
      "opts": [
-      "They grow thick and hold up the branches like pillars",
-      "They dry up and fall off",
-      "They turn into new leaves",
-      "They become fruits"
+      "Moths that fly at dusk and at night",
+      "Bees that fly at noon",
+      "The wind",
+      "Birds that fly in the morning"
      ],
      "a": 0,
-     "why": "These are prop roots. Once they reach the ground, they grow thick and woody, and hold up the heavy branches. That is how a banyan can spread so wide. Picking 'dry up' is a fair guess, but they become some of the strongest parts of the tree."
+     "why": "A flower's job is to make seeds, and for that pollen must be carried from flower to flower. White shows up in dim light, and a strong smell carries in the dark. Night-flying moths follow both. Picking bees is a fair guess, because bees visit many flowers, but bees mostly fly in the daytime."
     },
     {
      "t": "truefalse",
@@ -1394,7 +1394,7 @@
     },
     {
      "t": "write",
-     "p": "Cactuses grow in America. Some euphorbias grow in Africa. Both have fat, green, spiny stems, but they are not close relatives. Explain how two plants that are not related could end up with the same shape.",
+     "p": "Cactuses grow in the Americas. Some euphorbias grow in Africa. Both have fat, green, spiny stems, but they are not close relatives. Explain how two plants that are not related could end up with the same shape.",
      "lines": 4,
      "a": "Both live in hot, dry places. There, wide leaves would lose too much water, so spines and a fat stem that stores water help a plant survive. Over a very long time, the plants with those shapes survived best in both places. So the same problem gave the same answer twice.",
      "why": "A strong answer links the shape to the job in that place: saving and storing water. It says the shape helped each plant survive, not that one copied the other."

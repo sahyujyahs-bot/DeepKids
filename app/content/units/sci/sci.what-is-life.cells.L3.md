@@ -676,14 +676,14 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 10. (mcq) Which is the fairest way to compare three magnifiers?  
    Options: Use a new onion for each magnifier / Use the same onion skin and the same light for every magnifier / Use the best light for the weakest magnifier / Look for a different time with each one  
    **Answer:** Use the same onion skin and the same light for every magnifier. *Why:* To be fair, change only one thing: the magnifier. Keep the onion skin, the light and the looking time the same. Otherwise you do not know which change made the difference.
-11. (write) In the story, Kavya's cousin Rohan said cells are like bricks that don't do anything. Give one example from this unit that shows a cell doing something.  
-   **Answer:** A Stentor cell bent away, reversed their hairs, shrank and swam off when chalk specks landed on them. Or: a bacterium swims towards food by comparing smells. Or: a slime mould found the shortest path in a maze.. *Why:* A strong answer gives a real example and says what the cell did. Bricks do nothing. Cells sense and respond.
+11. (write) A tulsi plant droops on a hot afternoon. An hour after watering, they stand up straight again. Use what you know about plant cells to explain why.  
+   **Answer:** Each plant cell has a stiff wall. When the cells are full of water, they press out against their walls, like a full balloon squeezed in a box. That makes the stem and leaves firm. When the cells lose water, they go soft and the plant droops. Watering fills them up again.. *Why:* A strong answer uses the cell wall and says that the cells, full of water, push against it. Animals like us stay up with bones instead.
 12. (write) A dry bean seed and a small pebble both look dead. How could you test which one has living cells?  
    **Answer:** Put both on wet cotton or in damp soil, side by side, for a few days. The bean will swell and send out a root, because their cells are alive and start to split. The pebble will not change. A dry seed's cells are alive but resting.. *Why:* A strong answer uses a fair test: same water, same place, same time. Growing is a sign of living cells, because cells grow by splitting.
 13. (write) Sometimes bowl B, with no curd added, sets a little after two days. Does that prove that bacteria can appear in milk from nothing? What else could explain it?  
    **Answer:** No. A few bacteria could have come in from the air, the bowl, the spoon or the milk itself if it was not boiled. Given two days, those few bacteria split again and again until there were enough to set the milk. To check, you could boil the milk and the bowl, cover it, and try again.. *Why:* A strong answer looks for where living bacteria could have come from, and suggests a test. People once believed life appeared by itself for exactly this kind of reason.
-14. (draw) Draw a size ladder with 4 steps: you, a big ant, a mustard seed and an onion cell. Write how big each is.  
-   **Answer:** You: about 1 metre. Big ant: about 1 centimetre. Mustard seed: about 1 millimetre. Onion cell: about one tenth of a millimetre.. *Why:* Drawing the ladder shows how many times smaller each step is.
+14. (draw) One curd bacterium is put in warm milk. They split into two every 20 minutes, and every new bacterium does the same. Draw the bacteria after 20, 40 and 60 minutes. How many are there after 2 hours?  
+   **Answer:** The drawing shows 2, then 4, then 8 bacteria. After 2 hours there have been 6 splits: 2, 4, 8, 16, 32, 64. So there are 64.. *Why:* A strong answer doubles each time rather than adding 2. This is why a single spoon of curd can set a whole bowl of milk overnight.
 15. (perspective) Three people are arguing about what a cell is most like.  
    **Answer:** A strong answer picks a comparison and backs it, for example: Kavya, because the Stentor tried four different responses, which bricks never do. It then gives another side its due, for example: Rohan is right that onion cells fit together like bricks to build the onion.. *Why:* Each comparison catches something true. Cells do build bodies, do run on chemistry, and do sense and respond. A brick catches the least, because a brick is not alive.
 16. (write) You look at a drop of curd with your water-drop magnifier and see no bacteria at all. Does that mean there are none? Explain.  
@@ -697,8 +697,8 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 3. (mcq) A slime mould had to cross a bridge covered in a harmless bitter taste to reach food. At first they crossed slowly. After a few days, they crossed quickly. What does this show?  
    Options: They grew a brain / They got tired / They learned to ignore something harmless, a simple kind of memory / The taste disappeared by itself  
    **Answer:** They learned to ignore something harmless, a simple kind of memory. *Why:* In 2016, Romain Boisseau, David Vogel and Audrey Dussutour showed slime moulds get used to a harmless bitter taste. Getting used to something is called habituation. It is one of the simplest kinds of learning. They could not have grown a brain: they stayed one cell.
-4. (truefalse) Scientists agree that a bacterium thinks in the same way you do.  
-   **Answer:** False. *Why:* False. Scientists agree on what bacteria do: they sense, choose and remember for a few seconds. They argue about whether to call it thinking, and nobody knows yet what a bacterium feels.
+4. (truefalse) Many people think all bacteria are harmful. All bacteria make people ill.  
+   **Answer:** False. *Why:* False. Most bacteria do us no harm, and many help. Curd bacteria turn milk into curd, and bacteria in your gut help you digest food. Only a few kinds cause illness.
 5. (write) Antonie van Leeuwenhoek was a cloth-seller in Delft with no university degree. People doubted the tiny creatures he said he saw. What did he do so others would believe him? What would you do?  
    **Answer:** He wrote very careful descriptions and drawings, looked again many times, and sent signed letters from respected people who had seen the creatures too. Later the Royal Society saw them for themselves. I would show other people how to repeat my test, so they could see it with their own eyes.. *Why:* Science trusts things that other people can check for themselves. A strong answer says how others could repeat what he saw.
 6. (mcq) A spoon of curd sets warm milk in about 8 hours in summer. In a cold winter kitchen it takes much longer. Why?  
@@ -713,7 +713,7 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
    Options: Being pushed by the water / Doing exactly one thing for ever / Trying different responses, one after another / Sleeping  
    **Answer:** Trying different responses, one after another. *Why:* Stentor tried a series of different responses. In 2019, scientists repeated this experiment and found that most Stentors did try different things, though not always in the same order. Being pushed by the water would not explain why they changed what they did.
 10. (perspective) Scientists watch a bacterium smell food, remember for a few seconds and turn towards the food. They disagree about what to call it.  
-   **Answer:** A strong answer picks a view and uses evidence, for example: the bacterium in Run and Tumble had to remember the smell a moment ago and compare, which is more than a switch does. It then answers back fairly, for example from the brain scientists: a thermostat also senses and acts, and nobody says it thinks.. *Why:* This is a real, open argument. Everyone agrees on what the bacterium does. They disagree about the word 'thinking'. Listen for evidence, not for one right answer.
+   **Answer:** A strong answer picks a view and uses evidence, for example: the bacterium in Run and Tumble had to remember the smell a moment ago and compare, which is more than a switch does. It then answers back fairly, for example from the brain scientists: the turn could come from a simple chemical switch inside the cell, with no choosing at all.. *Why:* This is a real, open argument. Everyone agrees on what the bacterium does. They disagree about the word 'thinking'. Listen for evidence, not for one right answer.
 11. (write) A thermostat is the switch that turns off a water heater when the water is hot. It senses heat and acts. How is it different from a bacterium who senses food?  
    **Answer:** A thermostat was built by people, does not eat, grow or make more of itself, and always does the same one thing. A bacterium is alive, takes in food, compares now with a moment ago, and splits to make more bacteria.. *Why:* A strong answer compares carefully and names more than one difference. Whether either one 'thinks' depends on what we mean by thinking.
 12. (order) Put these discoveries in time order, earliest first.  
@@ -731,15 +731,15 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 - **Slime mould solves a maze or designs a railway** (to find, 4 min) id `to find`: Shows a one-celled slime mould growing over oat flakes and finding short paths, from the experiments by Nakagaki and Tero. *Check:* Not verified from here. Search YouTube for 'slime mold Tokyo rail network' and choose a clip from a science museum, university or science channel. Check it matches the 2010 Science paper.
 
 ## Quiz
-1. (mcq) What is the smallest piece of a living thing that is alive by itself?  
-   Options: An atom / A cell / A drop of blood  
-   **Answer:** A cell. *Why:* A cell is the smallest living piece of a living thing. An atom is far smaller, but an atom is not alive. A drop of blood holds millions of cells.
-2. (mcq) Which is NOT made of cells?  
-   Options: A neem leaf / Your skin / A glass marble / A mushroom  
-   **Answer:** A glass marble. *Why:* Glass was never alive, so it has no cells. The leaf, your skin and the mushroom are parts of living things. Mushrooms are fungi, and fungi are made of cells.
-3. (mcq) Every cell in your body came from…  
-   Options: the food you ate, turning into cells by itself / another cell that split in two / the air you breathe  
-   **Answer:** another cell that split in two. *Why:* Every cell comes from a cell. You began as one cell, which split again and again. Food gives cells what they need to grow and split, but food never becomes a cell by itself.
+1. (mcq) In 1665, Robert Hooke saw tiny empty boxes in a thin slice of cork. Why were the boxes empty?  
+   Options: The cork cells had died, and only their walls were left / All cells are empty inside / His lens was broken  
+   **Answer:** The cork cells had died, and only their walls were left. *Why:* Cork is bark from a cork oak tree. The cork cells had died. Living cells are full of a busy, jelly-like inside with a nucleus. Hooke saw only the walls.
+2. (mcq) A tiny bacterium and a huge banyan tree are both alive. What do they share?  
+   Options: Both are made of cells: the bacterium of one, the tree of billions / Both have a brain / Both are made of wood  
+   **Answer:** Both are made of cells: the bacterium of one, the tree of billions. *Why:* Every living thing is made of one or more cells. A bacterium is one cell. A banyan tree is made of billions of cells working together.
+3. (mcq) Long ago, people saw maggots on old meat and thought the meat made them. In 1668, Francesco Redi covered some jars of meat with cloth and left others open. What did he find?  
+   Options: Maggots grew only on the meat that flies could reach / Maggots grew on all the meat / The covered meat turned into flies  
+   **Answer:** Maggots grew only on the meat that flies could reach. *Why:* Maggots hatch from eggs laid by flies. The cloth kept the flies off, so no maggots grew on that meat. Life comes only from life, just as cells come only from cells.
 4. (mcq) The thin skin from inside an onion looked like long boxes under the magnifier. What were the boxes?  
    Options: Air bubbles / Onion cells / Scratches / Dust  
    **Answer:** Onion cells. *Why:* The boxes are cells, fitted together like bricks. Air bubbles are round, with thick dark edges.
@@ -749,27 +749,27 @@ Rohan held out his hand for the paper microscope. Kavya gave it to him. He put h
 6. (mcq) How do you make a water-drop magnifier?  
    Options: Fill a bucket with water and look in / Put one small drop of water on clear plastic, and hold it just above what you want to see / Freeze a drop of water  
    **Answer:** Put one small drop of water on clear plastic, and hold it just above what you want to see. *Why:* A small round drop bends light like a lens, so things under it look bigger. The smaller and rounder the drop, the more it magnifies.
-7. (mcq) How are cheek cells different from onion cells?  
-   Options: Cheek cells are boxes too / Cheek cells have no stiff wall, so they are floppy and roundish / Cheek cells are not alive / Cheek cells have no nucleus  
-   **Answer:** Cheek cells have no stiff wall, so they are floppy and roundish. *Why:* Animal cells have no cell wall. Both kinds have a nucleus. If you could not see the nucleus, the stain was probably too faint.
-8. (mcq) A cotton kurta is made of…  
-   Options: living cells / cells that were once alive / something that was never made of cells / tiny bacteria  
-   **Answer:** cells that were once alive. *Why:* Cotton fibres are long single cells from a cotton plant. They are dead now. Cloth was never alive itself, but its fibres were once living cells.
+7. (mcq) When you stained them, both the onion cells and the cheek cells showed one dark dot. What is that dot?  
+   Options: The nucleus, which both plant and animal cells have / A speck of dirt / An air bubble  
+   **Answer:** The nucleus, which both plant and animal cells have. *Why:* Both plant cells and animal cells have a nucleus. The stain makes it darker than the rest of the cell. This is one way the two kinds are alike.
+8. (mcq) Which of these is made of living cells right now?  
+   Options: A sprouting moong seed / A paper notebook / A leather chappal / A steel tumbler  
+   **Answer:** A sprouting moong seed. *Why:* A sprouting seed is alive and growing. Paper is made from the cells of trees that died, and leather from an animal's skin cells that died. Steel was never made of cells.
 9. (mcq) A mustard seed is about 1 millimetre across. An onion cell is about a tenth of a millimetre. About how many onion cells fit across a mustard seed?  
    Options: 1 / 10 / 100 / 1,000  
    **Answer:** 10. *Why:* A tenth of a millimetre, ten times over, makes one millimetre. So about 10. About 1,000 bacteria would fit across the seed.
-10. (mcq) How does a bacterium, with no eyes, find food?  
-   Options: They see it with tiny eyes / They compare the smell now with a few seconds ago, and turn if it is getting weaker / They ask other bacteria for a map / They wait for food to come  
-   **Answer:** They compare the smell now with a few seconds ago, and turn if it is getting weaker. *Why:* A bacterium has no eyes. They remember the smell for a few seconds and compare. If it is getting stronger, they keep going. If weaker, they tumble and try another way.
-11. (mcq) A slime mould was put in a maze with food at two ends. What did the slime mould do?  
-   Options: Stayed in one place / Ate the walls of the maze / Ended up as one tube along the shortest path between the two foods  
-   **Answer:** Ended up as one tube along the shortest path between the two foods. *Why:* In 2000, Toshiyuki Nakagaki and his team found that the slime mould pulled back from dead ends and kept the shortest path. One cell with no brain solved the maze.
+10. (mcq) What do scientists still argue about when it comes to bacteria?  
+   Options: Whether bacteria are made of cells / Whether sensing, remembering and choosing, as bacteria do, should be called thinking / Whether bacteria can swim  
+   **Answer:** Whether sensing, remembering and choosing, as bacteria do, should be called thinking. *Why:* Everyone agrees that a bacterium is one cell, and that many bacteria swim. They agree on what bacteria do. They argue about what to call it.
+11. (mcq) A bacterium swims towards food. Which of these do all scientists agree that the bacterium does?  
+   Options: They sense the smell, remember it for a few seconds and change direction / They see the food with an eye / They plan the whole route like a map  
+   **Answer:** They sense the smell, remember it for a few seconds and change direction. *Why:* A bacterium has no eyes and no map. They compare the smell now with a few seconds ago, and keep going or tumble. That much is settled. Whether it counts as thinking is still argued.
 12. (mcq) Who first saw living single cells, in a drop of lake water, in 1674?  
    Options: Isaac Newton / Robert Hooke / Antonie van Leeuwenhoek, a cloth-seller in Delft / Charles Darwin  
    **Answer:** Antonie van Leeuwenhoek, a cloth-seller in Delft. *Why:* Leeuwenhoek made his own tiny lenses. Hooke named cells earlier, but he looked at dead cork.
-13. (mcq) Why does boiled curd not turn warm milk into curd?  
-   Options: Boiling killed the curd bacteria, so there were no living cells to multiply / Boiled curd is too thick / Boiled curd stays hot for ever  
-   **Answer:** Boiling killed the curd bacteria, so there were no living cells to multiply. *Why:* New cells come only from living cells. Boiling kills the curd bacteria. Even after the curd cools down, there are no living bacteria left to split and set the milk.
+13. (mcq) When you set curd, why must the milk cool to warm before you add the spoon of curd?  
+   Options: Very hot milk would kill the curd bacteria, so none would be left to split / Hot milk is too thin to set / Curd bacteria only grow in fridge-cold milk  
+   **Answer:** Very hot milk would kill the curd bacteria, so none would be left to split. *Why:* Curd bacteria are living cells. Very hot milk kills them, just like boiling the curd does. Warm milk lets them split fast. Fridge-cold milk slows them right down.
 
 ## Applications
 - Doctors count blood cells under a microscope, in a blood test, to find out if someone is ill.

@@ -2503,7 +2503,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Revathi drops an old flower pot and it breaks into small pieces. What are the pieces made of?",
+     "p": "Revathi drops an old brown clay flower pot and it breaks into small pieces. What are the pieces made of?",
      "opts": [
       "Baked clay",
       "Flower pot",
@@ -2724,13 +2724,13 @@
      "t": "mcq",
      "p": "Look at the chart from the salt experiment. Suppose you put a third plate of the same salty water in the shade, under a fan. When would it dry?",
      "opts": [
-      "Between 1 and 3 days, because moving air helps water leave",
+      "Sooner than the plate in still shade, because moving air helps water leave",
       "After more than 3 days",
       "Never",
       "Exactly 1 day, because it is the same water"
      ],
      "a": 0,
-     "why": "Moving air carries away the water that has gone into the air, so more can leave. But the fan does not warm it like the sun. So it would probably dry faster than the shady plate, but maybe not as fast as the sunny one. A strong answer is a reasoned guess, then a test.",
+     "why": "Moving air carries away the water that has gone into the air, so more can leave. But the fan does not warm it like the sun. So it would dry sooner than the plate in still shade. Whether it beats the sunny plate is harder to say, so you would test it. A strong answer is a reasoned guess, then a test.",
      "how": "e2",
      "context": "In the salt experiment, you put the same salty water on two plates. One plate went in the sun and one in the shade. You waited for each to dry.",
      "chart": {
@@ -2763,7 +2763,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the paper experiment, Meenakshi mixed dried grass into one sheet. That sheet was rougher and tore more easily. How can she be sure the grass caused this?",
+     "p": "In the paper experiment, Arjun mixed dried grass into one sheet. That sheet was rougher and tore more easily. How can he be sure the grass caused this?",
      "opts": [
       "Use the same amount of pulp, press and dry both sheets the same way, and change only the grass",
       "Make the grass sheet bigger",
@@ -2992,10 +2992,10 @@
     },
     {
      "t": "write",
-     "p": "Wood and plastic are both built mostly from carbon and hydrogen atoms. So why is a wooden spoon so different from a plastic spoon?",
+     "p": "Sugar and the wood of a spoon are both built from the same three kinds of atom: carbon, hydrogen and oxygen. So why is sugar sweet and crumbly, while wood is hard?",
      "lines": 4,
-     "a": "A strong answer says the atoms are the same kinds, but they are joined in different patterns. Different patterns make different materials, with different properties. A tree builds one pattern, and a factory builds another.",
-     "why": "There are no 'wood atoms' or 'plastic atoms'. The pattern is what makes the difference.",
+     "a": "A strong answer says the atoms are the same kinds, but they are joined in different patterns. Different patterns make different materials, with different properties. A sugarcane plant builds sugar in one pattern, and a tree builds wood in another.",
+     "why": "There are no 'sugar atoms' or 'wood atoms'. The pattern is what makes the difference.",
      "how": "a6",
      "context": "In Same Beads, Different Things, you build different 'materials' from the same three kinds of bead."
     },
@@ -3030,7 +3030,7 @@
        "says": "The people who do the hard work of collecting it. I stand in the hot salt pans all day."
       },
       {
-       "who": "Priya, a government officer",
+       "who": "Ravi, a government officer",
        "says": "The government should look after it, so that it is clean, safe and shared fairly."
       }
      ],
@@ -3103,15 +3103,15 @@
     },
     {
      "t": "mcq",
-     "p": "Divya says, 'Plastic has nothing to do with nature.' Which fact shows she is not quite right?",
+     "p": "Divya says, 'Natural things are always safe, and things made by people are always harmful.' Which pair shows she is wrong both ways?",
      "opts": [
-      "Plastic is made from petroleum, which formed from tiny living beings long ago",
-      "Plastic is shiny",
-      "Plastic is made in factories",
-      "Plastic comes in many colours"
+      "Snake venom is natural and harmful. A steel spoon is made by people and safe.",
+      "Honey is natural and safe. Plastic waste is made by people and harmful.",
+      "A neem leaf is natural. A brick is made by people.",
+      "Rain is natural and safe."
      ],
      "a": 0,
-     "why": "Plastic is made by people, but from a natural raw material. Picking 'made in factories' agrees with Divya instead of answering her. A strong answer follows the journey past the factory."
+     "why": "Venom is natural but can kill. A steel spoon was made by people and is safe to eat with. Picking honey and plastic agrees with Divya instead of testing her rule. A strong answer judges each material by what it does, not by where it came from."
     },
     {
      "t": "draw",
@@ -3173,7 +3173,7 @@
       ]
      ],
      "a": "see items",
-     "why": "Wind piles up sand, and the sky makes rain. Bees, termites and silkworms make their own materials and homes. People made the road and the rubber band, from natural materials."
+     "why": "Wind piles up sand, and rain forms when water vapour in the air cools into drops. Bees, termites and silkworms make their own materials and homes. People made the road and the rubber band, from natural materials."
     }
    ]
   }
@@ -3233,14 +3233,14 @@
   },
   {
    "t": "mcq",
-   "p": "A potted tulsi plant. Which is right?",
+   "p": "Look at a tulsi plant growing in a clay pot. Which is right?",
    "opts": [
     "The plant is natural and the pot is made by people",
     "Both are made by people",
     "Both are natural"
    ],
    "a": 0,
-   "why": "The tulsi grew from a seed all on their own, so they are natural. The pot was made by people. Picking 'both made by people' usually means thinking that whatever people look after is made by them.",
+   "why": "The tulsi grew themself from a seed. People may water them, but the plant did the growing, so we call them natural. The pot was made by people. Picking 'both made by people' usually means thinking that whatever people look after is made by them.",
    "outcome": 1
   },
   {
@@ -3362,15 +3362,15 @@
   },
   {
    "t": "mcq",
-   "p": "Who helped to make your cotton shirt, even though you never see them?",
+   "p": "Who dug up the iron ore that became your steel kadai?",
    "opts": [
-    "A farmer, a spinner and a weaver",
-    "Only the shopkeeper",
-    "Nobody, because machines do it all",
-    "Only the tailor"
+    "Miners, in places like Odisha and Jharkhand",
+    "Nobody, because steel is found ready-made",
+    "The shopkeeper who sold it",
+    "Only machines, with no people"
    ],
    "a": 0,
-   "why": "Many hidden people grow, pick, spin, weave and stitch the cotton. Picking 'only the tailor' or 'only the shopkeeper' starts the journey too late. Even machines need people to run them.",
+   "why": "Most of India's iron ore is dug in Odisha, Jharkhand, Chhattisgarh and Karnataka, by miners we never see. Picking 'only machines' forgets that people drive and fix the machines. Picking 'ready-made' forgets that iron must be melted out of rock.",
    "outcome": 6
   }
  ],

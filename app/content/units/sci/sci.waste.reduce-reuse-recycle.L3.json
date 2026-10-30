@@ -1260,9 +1260,9 @@
     },
     {
      "t": "truefalse",
-     "p": "A bag labelled 'biodegradable' always rots away quickly in soil.",
+     "p": "Melting down a glass bottle and making a new one uses less energy than washing the old bottle and filling it again.",
      "a": false,
-     "why": "False. In a 2019 test, some 'biodegradable' bags could still carry shopping after three years in soil or the sea."
+     "why": "False. Melting glass needs a furnace hotter than 1,000 degrees. Washing a bottle needs only water and a little heat. That is why reusing comes before recycling: the thing is used again as it is, and nothing has to be made again."
     },
     {
      "t": "match",
@@ -1407,16 +1407,10 @@
      "why": "True. Scientists found these bacteria in 2016 near a recycling plant in Sakai, Japan. Living beings often turn up where their food is. Over the years, some microbes there had found a way to feed on PET."
     },
     {
-     "t": "mcq",
-     "p": "Why can't plastic-eating bacteria clean up the ocean soon?",
-     "opts": [
-      "They only work in warm tanks on clean, shredded plastic of mostly one kind",
-      "They are too big",
-      "The ocean is too salty for all life",
-      "They prefer chocolate"
-     ],
-     "a": 0,
-     "why": "The enzymes work best in warm, controlled conditions on PET, one plastic among many. The sea is cold and huge, and its plastic is scattered and mixed. Picking 'too salty for all life' is not right, because the sea is full of microbes."
+     "t": "truefalse",
+     "p": "Glass is made from sand, so a glass bottle thrown in the dump soon turns back into sand.",
+     "a": false,
+     "why": "False. No microbe can feed on glass, so glass does not rot. It can break into sharp pieces, but each piece is still glass. Only waves rolling it on a beach for many years slowly wear it smooth. Being made from something natural does not mean a thing goes back to nature quickly."
     },
     {
      "t": "write",
@@ -1482,7 +1476,7 @@
      "p": "Waste is sometimes called 'matter out of place'. Give one example of something that is waste in one place and useful in another.",
      "lines": 3,
      "a": "Cow dung is waste on a road, but fuel and fertiliser in a village. A broken bangle is waste in a dustbin, but art in Nek Chand's garden.",
-     "why": "This idea comes from the thinker Mary Douglas, 1966. Any real example where place changes usefulness is right."
+     "why": "The saying is old. The thinker Mary Douglas made it famous in 1966. Any real example where place changes usefulness is right."
     },
     {
      "t": "mcq",
@@ -2943,15 +2937,14 @@
   },
   {
    "t": "mcq",
-   "p": "A plastic bottle cracks into tiny pieces in the sun. What are the tiny pieces called?",
+   "p": "Nandini bakes a tray of damp soil in a hot oven, so that every microbe in the soil dies. When it cools, she buries a banana peel in it and seals the jar. What will happen to the peel?",
    "opts": [
-    "Compost",
-    "Microplastics",
-    "Microbes",
-    "Methane"
+    "It will hardly rot, because there are no microbes to feed on it",
+    "It will rot faster, because the soil is warm",
+    "It will rot just as fast as in garden soil"
    ],
-   "a": 1,
-   "why": "Tiny pieces of plastic are still plastic, and are called microplastics. Picking 'microbes' mixes up two words that sound alike. Microbes are alive, and microplastics are not.",
+   "a": 0,
+   "why": "Rotting is microbes feeding. With no microbes, the peel stays almost whole for a long time. Picking 'just as fast' means thinking the soil itself does the rotting. This is how people keep food from rotting: heating and sealing it, as in a jar of pickle or a sealed tin.",
    "outcome": 2
   },
   {

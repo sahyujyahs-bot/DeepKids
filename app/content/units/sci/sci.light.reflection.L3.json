@@ -853,9 +853,9 @@
     },
     {
      "t": "truefalse",
-     "p": "A flat mirror makes things look upside down.",
+     "p": "A mirror reflects light only from bright things, like lamps. It does not reflect light from dull things, like a brown chair.",
      "a": false,
-     "why": "False. A flat mirror keeps up as up. Only a curved mirror, like the hollow side of a spoon, can show an image upside down."
+     "why": "False. Light bounces off the brown chair too, and some of it reaches the mirror. The mirror sends that light on to your eyes in neat order. That is why you can see the chair in the mirror. A mirror reflects whatever light reaches it, bright or dull."
     },
     {
      "t": "mcq",
@@ -878,22 +878,25 @@
     },
     {
      "t": "perspective",
-     "p": "Priya and her cousin Anu are playing Mirror Twins. Priya raises her right hand. They argue about which hand Anu should raise to copy her like a mirror.",
+     "p": "A new office block in Chennai will be covered in mirror glass, glass that reflects like a mirror. Three people disagree about it.",
      "views": [
       {
-       "who": "Priya, in Class 4",
-       "says": "You should raise your left hand. It is on the same side of the room as my right hand. That is what a mirror does."
+       "who": "Revathi, the architect who designed the building",
+       "says": "Mirror glass reflects a lot of sunlight away. The rooms stay cooler, so less electricity is used for fans and air conditioners."
       },
       {
-       "who": "Anu, in Class 3",
-       "says": "I should raise my right hand. You raised your right, so copying means I raise my right too."
+       "who": "Shalini, who counts birds for a nature club",
+       "says": "Birds see the trees and sky reflected in the glass. They think it is open air, fly into it and get hurt."
+      },
+      {
+       "who": "Selvi, who lives in a flat across the road",
+       "says": "The sunlight that bounces off that glass comes straight into my flat. My rooms get hot and the glare hurts my eyes."
       }
      ],
-     "ask": "Who is copying like a mirror? Give a reason. Then say what the other one has right.",
+     "ask": "Should the building use mirror glass? Pick a side and give a reason that uses what you know about how mirrors reflect light. Then answer back from one of the other sides.",
      "lines": 5,
-     "a": "A strong answer says Priya is right about mirrors: in a real mirror, the image raises the hand on the same side of the room. It then gives Anu a fair point: when one person copies another, raising the same-named hand is also a kind of copying. It just is not what a mirror does.",
-     "why": "Both are copying, in two different ways. A mirror keeps each side of the room the same and turns front and back round.",
-     "how": "a2"
+     "a": "A strong answer uses mirror science. For Revathi: a smooth, shiny surface sends most sunlight back, so less heat gets in. For Shalini: smooth glass shows a clear image, so birds see trees where there is only glass. For Selvi: light leaves a mirror at the same angle it came in, so at some times of day the reflected sunlight is aimed at her windows. It then answers back fairly, and may suggest a middle way, like patterned glass that birds can see or glass that is less shiny.",
+     "why": "This is a real argument in many cities. Each person is right about one thing that mirror glass really does. There is no answer that suits everyone."
     },
     {
      "t": "order",
@@ -910,11 +913,13 @@
     },
     {
      "t": "fill",
-     "p": "Writing that runs backwards, so that it reads properly in a mirror, is called ____ writing.",
+     "p": "You stand 2 metres in front of a big mirror. Your image seems to be ____ metres away from you.",
      "a": [
-      "mirror"
+      "4",
+      "four"
      ],
-     "why": "Mirror writing runs from right to left, with each letter turned round. A mirror turns it the right way again."
+     "why": "Your image seems as far behind the mirror as you are in front of it, so 2 metres behind the glass. From you to the glass is 2 metres, and from the glass to your image is another 2. 2 add 2 is 4 metres.",
+     "how": "a6"
     }
    ]
   },
@@ -1031,6 +1036,10 @@
        "Has mirror-like parts"
       ],
       [
+       "a dog (eyes)",
+       "Has mirror-like parts"
+      ],
+      [
        "a scallop, a kind of shellfish (eyes)",
        "Has mirror-like parts"
       ],
@@ -1041,10 +1050,14 @@
       [
        "a human (eyes)",
        "Does not"
+      ],
+      [
+       "an earthworm (skin)",
+       "Does not"
       ]
      ],
      "a": "see items",
-     "why": "Cats have a reflecting layer at the back of their eyes. Scallops have tiny mirror eyes. Silvery fish have mirror scales. Human eyes have no reflecting layer, which is why they do not shine in headlights."
+     "why": "Cats and dogs have a reflecting layer at the back of their eyes. Scallops have tiny mirror eyes. Silvery fish have mirror scales. Human eyes have no reflecting layer, which is why they do not shine in headlights. An earthworm's skin is soft and damp, with no mirror parts."
     },
     {
      "t": "draw",

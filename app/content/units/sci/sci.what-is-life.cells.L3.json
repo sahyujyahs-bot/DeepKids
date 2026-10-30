@@ -2275,10 +2275,10 @@
     },
     {
      "t": "write",
-     "p": "In the story, Kavya's cousin Rohan said cells are like bricks that don't do anything. Give one example from this unit that shows a cell doing something.",
-     "lines": 3,
-     "a": "A Stentor cell bent away, reversed their hairs, shrank and swam off when chalk specks landed on them. Or: a bacterium swims towards food by comparing smells. Or: a slime mould found the shortest path in a maze.",
-     "why": "A strong answer gives a real example and says what the cell did. Bricks do nothing. Cells sense and respond."
+     "p": "A tulsi plant droops on a hot afternoon. An hour after watering, they stand up straight again. Use what you know about plant cells to explain why.",
+     "lines": 4,
+     "a": "Each plant cell has a stiff wall. When the cells are full of water, they press out against their walls, like a full balloon squeezed in a box. That makes the stem and leaves firm. When the cells lose water, they go soft and the plant droops. Watering fills them up again.",
+     "why": "A strong answer uses the cell wall and says that the cells, full of water, push against it. Animals like us stay up with bones instead."
     },
     {
      "t": "write",
@@ -2298,12 +2298,10 @@
     },
     {
      "t": "draw",
-     "p": "Draw a size ladder with 4 steps: you, a big ant, a mustard seed and an onion cell. Write how big each is.",
-     "a": "You: about 1 metre. Big ant: about 1 centimetre. Mustard seed: about 1 millimetre. Onion cell: about one tenth of a millimetre.",
-     "why": "Drawing the ladder shows how many times smaller each step is.",
-     "art": "Four empty boxes going down like stairs.",
-     "context": "Remember the Size Ladder, where each step was 10 times smaller than the one before?",
-     "how": "a3"
+     "p": "One curd bacterium is put in warm milk. They split into two every 20 minutes, and every new bacterium does the same. Draw the bacteria after 20, 40 and 60 minutes. How many are there after 2 hours?",
+     "a": "The drawing shows 2, then 4, then 8 bacteria. After 2 hours there have been 6 splits: 2, 4, 8, 16, 32, 64. So there are 64.",
+     "why": "A strong answer doubles each time rather than adding 2. This is why a single spoon of curd can set a whole bowl of milk overnight.",
+     "art": "Four empty boxes in a row, labelled 0, 20, 40 and 60 minutes."
     },
     {
      "t": "perspective",
@@ -2377,9 +2375,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Scientists agree that a bacterium thinks in the same way you do.",
-     "a": false,
-     "why": "False. Scientists agree on what bacteria do: they sense, choose and remember for a few seconds. They argue about whether to call it thinking, and nobody knows yet what a bacterium feels."
+     "p": "Many people think all bacteria are harmful. All bacteria make people ill.",
+     "a": "False",
+     "why": "False. Most bacteria do us no harm, and many help. Curd bacteria turn milk into curd, and bacteria in your gut help you digest food. Only a few kinds cause illness."
     },
     {
      "t": "write",
@@ -2452,7 +2450,7 @@
      ],
      "ask": "Which view do you agree with most? Give a reason from Run and Tumble or the Stentor story. Then say what one of the others would say back to you.",
      "lines": 6,
-     "a": "A strong answer picks a view and uses evidence, for example: the bacterium in Run and Tumble had to remember the smell a moment ago and compare, which is more than a switch does. It then answers back fairly, for example from the brain scientists: a thermostat also senses and acts, and nobody says it thinks.",
+     "a": "A strong answer picks a view and uses evidence, for example: the bacterium in Run and Tumble had to remember the smell a moment ago and compare, which is more than a switch does. It then answers back fairly, for example from the brain scientists: the turn could come from a simple chemical switch inside the cell, with no choosing at all.",
      "why": "This is a real, open argument. Everyone agrees on what the bacterium does. They disagree about the word 'thinking'. Listen for evidence, not for one right answer.",
      "context": "Remember Run and Tumble, the game where you played a bacterium finding food with your eyes shut?",
      "how": "g2"
@@ -2504,39 +2502,38 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "What is the smallest piece of a living thing that is alive by itself?",
+   "p": "In 1665, Robert Hooke saw tiny empty boxes in a thin slice of cork. Why were the boxes empty?",
    "opts": [
-    "An atom",
-    "A cell",
-    "A drop of blood"
+    "The cork cells had died, and only their walls were left",
+    "All cells are empty inside",
+    "His lens was broken"
    ],
-   "a": 1,
-   "why": "A cell is the smallest living piece of a living thing. An atom is far smaller, but an atom is not alive. A drop of blood holds millions of cells.",
+   "a": 0,
+   "why": "Cork is bark from a cork oak tree. The cork cells had died. Living cells are full of a busy, jelly-like inside with a nucleus. Hooke saw only the walls.",
    "outcome": 0
   },
   {
    "t": "mcq",
-   "p": "Which is NOT made of cells?",
+   "p": "A tiny bacterium and a huge banyan tree are both alive. What do they share?",
    "opts": [
-    "A neem leaf",
-    "Your skin",
-    "A glass marble",
-    "A mushroom"
+    "Both are made of cells: the bacterium of one, the tree of billions",
+    "Both have a brain",
+    "Both are made of wood"
    ],
-   "a": 2,
-   "why": "Glass was never alive, so it has no cells. The leaf, your skin and the mushroom are parts of living things. Mushrooms are fungi, and fungi are made of cells.",
+   "a": 0,
+   "why": "Every living thing is made of one or more cells. A bacterium is one cell. A banyan tree is made of billions of cells working together.",
    "outcome": 1
   },
   {
    "t": "mcq",
-   "p": "Every cell in your body came from…",
+   "p": "Long ago, people saw maggots on old meat and thought the meat made them. In 1668, Francesco Redi covered some jars of meat with cloth and left others open. What did he find?",
    "opts": [
-    "the food you ate, turning into cells by itself",
-    "another cell that split in two",
-    "the air you breathe"
+    "Maggots grew only on the meat that flies could reach",
+    "Maggots grew on all the meat",
+    "The covered meat turned into flies"
    ],
-   "a": 1,
-   "why": "Every cell comes from a cell. You began as one cell, which split again and again. Food gives cells what they need to grow and split, but food never becomes a cell by itself.",
+   "a": 0,
+   "why": "Maggots hatch from eggs laid by flies. The cloth kept the flies off, so no maggots grew on that meat. Life comes only from life, just as cells come only from cells.",
    "outcome": 1
   },
   {
@@ -2584,30 +2581,27 @@
   },
   {
    "t": "mcq",
-   "p": "How are cheek cells different from onion cells?",
+   "p": "When you stained them, both the onion cells and the cheek cells showed one dark dot. What is that dot?",
    "opts": [
-    "Cheek cells are boxes too",
-    "Cheek cells have no stiff wall, so they are floppy and roundish",
-    "Cheek cells are not alive",
-    "Cheek cells have no nucleus"
+    "The nucleus, which both plant and animal cells have",
+    "A speck of dirt",
+    "An air bubble"
    ],
-   "a": 1,
-   "why": "Animal cells have no cell wall. Both kinds have a nucleus. If you could not see the nucleus, the stain was probably too faint.",
-   "outcome": 3,
-   "context": "Remember the cheek cell experiment, where you scraped the inside of your cheek and looked at the cells?",
-   "how": "e2"
+   "a": 0,
+   "why": "Both plant cells and animal cells have a nucleus. The stain makes it darker than the rest of the cell. This is one way the two kinds are alike.",
+   "outcome": 3
   },
   {
    "t": "mcq",
-   "p": "A cotton kurta is made of…",
+   "p": "Which of these is made of living cells right now?",
    "opts": [
-    "living cells",
-    "cells that were once alive",
-    "something that was never made of cells",
-    "tiny bacteria"
+    "A sprouting moong seed",
+    "A paper notebook",
+    "A leather chappal",
+    "A steel tumbler"
    ],
-   "a": 1,
-   "why": "Cotton fibres are long single cells from a cotton plant. They are dead now. Cloth was never alive itself, but its fibres were once living cells.",
+   "a": 0,
+   "why": "A sprouting seed is alive and growing. Paper is made from the cells of trees that died, and leather from an animal's skin cells that died. Steel was never made of cells.",
    "outcome": 4
   },
   {
@@ -2627,29 +2621,26 @@
   },
   {
    "t": "mcq",
-   "p": "How does a bacterium, with no eyes, find food?",
+   "p": "What do scientists still argue about when it comes to bacteria?",
    "opts": [
-    "They see it with tiny eyes",
-    "They compare the smell now with a few seconds ago, and turn if it is getting weaker",
-    "They ask other bacteria for a map",
-    "They wait for food to come"
+    "Whether bacteria are made of cells",
+    "Whether sensing, remembering and choosing, as bacteria do, should be called thinking",
+    "Whether bacteria can swim"
    ],
    "a": 1,
-   "why": "A bacterium has no eyes. They remember the smell for a few seconds and compare. If it is getting stronger, they keep going. If weaker, they tumble and try another way.",
-   "outcome": 6,
-   "how": "g2",
-   "context": "Remember Run and Tumble, the game where you played a bacterium finding food with your eyes shut?"
+   "why": "Everyone agrees that a bacterium is one cell, and that many bacteria swim. They agree on what bacteria do. They argue about what to call it.",
+   "outcome": 6
   },
   {
    "t": "mcq",
-   "p": "A slime mould was put in a maze with food at two ends. What did the slime mould do?",
+   "p": "A bacterium swims towards food. Which of these do all scientists agree that the bacterium does?",
    "opts": [
-    "Stayed in one place",
-    "Ate the walls of the maze",
-    "Ended up as one tube along the shortest path between the two foods"
+    "They sense the smell, remember it for a few seconds and change direction",
+    "They see the food with an eye",
+    "They plan the whole route like a map"
    ],
-   "a": 2,
-   "why": "In 2000, Toshiyuki Nakagaki and his team found that the slime mould pulled back from dead ends and kept the shortest path. One cell with no brain solved the maze.",
+   "a": 0,
+   "why": "A bacterium has no eyes and no map. They compare the smell now with a few seconds ago, and keep going or tumble. That much is settled. Whether it counts as thinking is still argued.",
    "outcome": 6
   },
   {
@@ -2667,17 +2658,15 @@
   },
   {
    "t": "mcq",
-   "p": "Why does boiled curd not turn warm milk into curd?",
+   "p": "When you set curd, why must the milk cool to warm before you add the spoon of curd?",
    "opts": [
-    "Boiling killed the curd bacteria, so there were no living cells to multiply",
-    "Boiled curd is too thick",
-    "Boiled curd stays hot for ever"
+    "Very hot milk would kill the curd bacteria, so none would be left to split",
+    "Hot milk is too thin to set",
+    "Curd bacteria only grow in fridge-cold milk"
    ],
    "a": 0,
-   "why": "New cells come only from living cells. Boiling kills the curd bacteria. Even after the curd cools down, there are no living bacteria left to split and set the milk.",
-   "outcome": 7,
-   "context": "Remember the curd bowls experiment, where you set three bowls of warm milk overnight?",
-   "how": "e3"
+   "why": "Curd bacteria are living cells. Very hot milk kills them, just like boiling the curd does. Warm milk lets them split fast. Fridge-cold milk slows them right down.",
+   "outcome": 7
   }
  ],
  "videos": [

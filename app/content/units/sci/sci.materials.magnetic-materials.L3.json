@@ -1138,25 +1138,25 @@
     },
     {
      "t": "perspective",
-     "p": "Selvi runs a scrap shop, a kabadi shop, in Madurai. She is sorting a heap of iron nails, copper wire, aluminium cans and brass taps. Her family has ideas.",
+     "p": "Selvi runs a scrap shop, a kabadi shop, in Madurai. She has a heap of iron nails, copper wire, aluminium cans, brass taps and old steel tumblers. Her family argue about how to sort it.",
      "views": [
       {
        "who": "Selvi, the shop owner",
-       "says": "I pull out the iron with a big magnet first, because it is fast. Then I sort the rest by hand. Copper and brass pay the most."
+       "says": "Pull out the iron with a big magnet first. Then pick out only the copper by hand, because copper pays the most. Sell the rest as one mixed heap."
       },
       {
        "who": "Priya, her daughter, aged 10",
-       "says": "Use the magnet for everything. It is much faster than sorting by hand."
+       "says": "Sort every piece: copper, brass, aluminium, and the steel tumblers that do not stick. Each pile sells for more on its own."
       },
       {
        "who": "Anil, their neighbour",
-       "says": "A magnet cannot tell copper from aluminium. So sorting by hand is the only way to be sure."
+       "says": "Just pull out the iron with the magnet and sell everything else mixed. Hand sorting takes hours, and time is money too."
       }
      ],
-     "ask": "How would you sort the heap? Pick the idea you agree with most, and give a reason. Then say what another person has right.",
+     "ask": "Whose plan would you choose? Give a reason. Then say what another person has right.",
      "lines": 5,
-     "a": "A strong answer uses what a magnet can and cannot do. The magnet quickly lifts out the iron and steel, so Priya is right that it saves time. But it does not attract copper, aluminium or brass, so it cannot tell them apart, and Anil is right that hands and eyes are needed for those. Selvi's way uses both.",
-     "why": "A magnet is a fast, sure test for iron and steel. It says nothing about which non-magnetic metal is which. Real scrap shops use a magnet first and then sort by colour and weight."
+     "a": "A strong answer uses what a magnet can and cannot do. Everyone uses the magnet first, because it lifts out iron and steel fast and surely. But it cannot tell copper, brass, aluminium and steel that does not stick apart, so those need eyes, colour and weight. Then it weighs time against money: Priya's plan gets the best price but takes longest, Anil's is fastest but sells cheap, and Selvi's is in between.",
+     "why": "There is no single right answer. It depends on how much time the shop has and how much each metal sells for. Real scrap shops use a magnet first and then sort by colour and weight."
     },
     {
      "t": "mcq",
@@ -1181,15 +1181,15 @@
     },
     {
      "t": "odd",
-     "p": "A magnet attracts three of these metals. Which one is the odd one out?",
+     "p": "Three of these are magnets. Which one is magnetic but is not a magnet?",
      "opts": [
-      "Iron",
-      "Cobalt",
-      "Copper",
-      "Nickel"
+      "A fridge magnet",
+      "A lodestone",
+      "A plain iron nail",
+      "A compass needle"
      ],
      "a": 2,
-     "why": "Iron, nickel and cobalt are the three magnetic metals. Copper is a metal too, but a magnet does not attract it. That is why a magnet cannot pick up a copper wire."
+     "why": "A fridge magnet, a lodestone and a compass needle are all magnets. Each one has a north and a south pole and can pick up a pin by itself. A plain iron nail is magnetic, which means a magnet attracts it. But on its own it cannot pick up a pin. A strong answer explains the difference between 'magnetic' and 'a magnet'."
     }
    ]
   },
@@ -1387,7 +1387,7 @@
     },
     {
      "t": "match",
-     "p": "Match each magnet material to where it is used.",
+     "p": "Match each magnet material to where you find it.",
      "pairs": [
       [
        "Ferrite",
@@ -1439,7 +1439,7 @@
       "Frogs are lighter than air"
      ],
      "a": 2,
-     "why": "A magnet repels almost everything very weakly, including water. A huge magnet repels a frog strongly enough to hold them up. Here the magnet repels the frog, so iron is not the reason. The frog was unharmed."
+     "why": "A magnet very weakly repels water and many other things. A huge magnet repels a frog strongly enough to hold them up. Here the magnet repels the frog, so iron is not the reason. The frog was unharmed."
     },
     {
      "t": "write",
@@ -1452,14 +1452,14 @@
      "t": "write",
      "p": "Explain why a magnet attracts a steel nail but not a copper wire. Use the words 'tiny magnets'.",
      "lines": 4,
-     "a": "Every electron is a tiny magnet. In copper, the electrons are in pairs that point opposite ways, so they cancel out, and there is nothing for a magnet to turn. In iron, some electrons have no partner, so each atom is a tiny magnet, and neighbouring atoms point the same way, in domains. A magnet turns the domains to point its way, and attracts the nail.",
+     "a": "Every electron is a tiny magnet. In copper, the tiny magnets cancel out. Most electrons are in pairs that point opposite ways, and the few spare ones never line up together. In iron, some electrons have no partner, so each atom is a tiny magnet, and neighbouring atoms point the same way, in domains. A magnet turns the domains to point its way, and attracts the nail.",
      "why": "The difference is not colour or hardness. It is how the tiny magnets inside are arranged."
     },
     {
      "t": "truefalse",
-     "p": "The iron in an almirah was made in stars.",
-     "a": true,
-     "why": "True. Iron is made in big stars and in the explosions of stars. It was thrown into space long before our Sun was born, and became part of the Earth."
+     "p": "A coin with nickel in it must stick to a magnet.",
+     "a": false,
+     "why": "False. What matters is the whole mixture. Cupronickel, copper with about a quarter nickel, is used for coins in many countries, and a magnet does not attract it. Many newer Indian coins are made of a steel that does stick. Test the coins in your purse to find out."
     },
     {
      "t": "mcq",
@@ -1530,7 +1530,7 @@
     },
     {
      "t": "write",
-     "p": "Imagine that in iron, every electron had a partner pointing the opposite way, as in copper. What would happen to fridge magnets, compasses and scrap sorting? Explain.",
+     "p": "Imagine that in iron, every electron had a partner pointing the opposite way, as in wood. What would happen to fridge magnets, compasses and scrap sorting? Explain.",
      "lines": 4,
      "a": "Iron would not be magnetic. Fridge magnets made with iron would stop working, a compass needle would not point north, and a scrap dealer's magnet could not lift iron out of a heap.",
      "why": "A strong answer uses the tiny-magnet idea and follows it through to several everyday things."
@@ -3436,16 +3436,16 @@
   },
   {
    "t": "mcq",
-   "p": "A magnet attracts a paper clip through a sheet of paper. What does this show?",
+   "p": "Revathi puts a pin on her open palm and holds a magnet under her hand. When she moves the magnet, the pin moves too. What does this show?",
    "opts": [
-    "Paper is magnetic",
-    "Paper does not block the magnetic force",
-    "The clip is a magnet",
-    "The magnet has to touch"
+    "Her hand is magnetic",
+    "The magnetic force acts through her hand",
+    "The pin is stuck to her skin",
+    "The magnet has to touch the pin"
    ],
    "a": 1,
    "outcome": 4,
-   "why": "Non-magnetic materials like paper let the magnetic force through. Picking 'paper is magnetic' mixes up two things: a material the force acts through, and a material the magnet attracts."
+   "why": "A hand, like paper, glass and water, is not magnetic, so the magnetic force acts through it. Picking 'her hand is magnetic' mixes up two things: a material the force acts through, and a material the magnet attracts."
   },
   {
    "t": "mcq",

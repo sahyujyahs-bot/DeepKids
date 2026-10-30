@@ -661,7 +661,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 
 ## Worksheets
 ### Material Detective (core) (core, 16 questions)
-1. (mcq) Revathi drops an old flower pot and it breaks into small pieces. What are the pieces made of?  
+1. (mcq) Revathi drops an old brown clay flower pot and it breaks into small pieces. What are the pieces made of?  
    Options: Baked clay / Flower pot / Small pots / Soil and seeds  
    **Answer:** Baked clay. *Why:* The flower pot is the object. Baked clay is the material, what it is made of. Breaking an object changes its shape, not its material. A strong answer names the material, not the object's name.
 2. (sort) On the Three-Heap Walk, you sort what you find into three heaps. Sort these.  
@@ -700,11 +700,11 @@ She did not sell it. She gave a pinch to everyone who passed.
    **Answer:** For example: a cotton plant makes cotton fluff, which people spin into thread for clothes. Silkworms make silk, which people weave into saris.. *Why:* A strong answer gives a real material, the living being who made it, and a real use.
 ### Journeys and Makers (stretch) (stretch, 16 questions)
 1. (mcq) Look at the chart from the salt experiment. Suppose you put a third plate of the same salty water in the shade, under a fan. When would it dry?  
-   Options: Between 1 and 3 days, because moving air helps water leave / After more than 3 days / Never / Exactly 1 day, because it is the same water  
-   **Answer:** Between 1 and 3 days, because moving air helps water leave. *Why:* Moving air carries away the water that has gone into the air, so more can leave. But the fan does not warm it like the sun. So it would probably dry faster than the shady plate, but maybe not as fast as the sunny one. A strong answer is a reasoned guess, then a test.
+   Options: Sooner than the plate in still shade, because moving air helps water leave / After more than 3 days / Never / Exactly 1 day, because it is the same water  
+   **Answer:** Sooner than the plate in still shade, because moving air helps water leave. *Why:* Moving air carries away the water that has gone into the air, so more can leave. But the fan does not warm it like the sun. So it would dry sooner than the plate in still shade. Whether it beats the sunny plate is harder to say, so you would test it. A strong answer is a reasoned guess, then a test.
 2. (write) In the paper experiment, you looked closely at the torn edge of a newspaper. What did you see? What does it tell you paper is made of?  
    **Answer:** A strong answer says the torn edge was hairy, with tiny threads sticking out. These are plant fibres, usually from trees. So paper is a flat mat of tangled plant fibres.. *Why:* The child's own look is the evidence. The answer should link what they saw to the plant the paper came from.
-3. (mcq) In the paper experiment, Meenakshi mixed dried grass into one sheet. That sheet was rougher and tore more easily. How can she be sure the grass caused this?  
+3. (mcq) In the paper experiment, Arjun mixed dried grass into one sheet. That sheet was rougher and tore more easily. How can he be sure the grass caused this?  
    Options: Use the same amount of pulp, press and dry both sheets the same way, and change only the grass / Make the grass sheet bigger / Dry the grass sheet in the sun and the other in the shade / Make only one sheet  
    **Answer:** Use the same amount of pulp, press and dry both sheets the same way, and change only the grass. *Why:* In a fair test, only one thing changes. If the sheets were pressed or dried differently, that could cause the roughness instead. A strong answer names what stays the same.
 4. (mcq) Lakshmi heats two cups of the same milk. She adds 1 teaspoon of vinegar to one and 4 teaspoons to the other. What will she probably see?  
@@ -741,8 +741,8 @@ She did not sell it. She gave a pinch to everyone who passed.
 1. (mcq) On a pearl farm, a worker puts a tiny bead inside an oyster. Over two years, the oyster covers the bead with layer after layer of pearl. Who made the pearl?  
    Options: Both the oyster and the worker / Only the worker / Only the oyster  
    **Answer:** Both the oyster and the worker. *Why:* The oyster made every layer of pearl, but the worker started it and looked after the oyster. Picking only one leaves out the other's part. A strong answer says the line between natural and made is not always sharp.
-2. (write) Wood and plastic are both built mostly from carbon and hydrogen atoms. So why is a wooden spoon so different from a plastic spoon?  
-   **Answer:** A strong answer says the atoms are the same kinds, but they are joined in different patterns. Different patterns make different materials, with different properties. A tree builds one pattern, and a factory builds another.. *Why:* There are no 'wood atoms' or 'plastic atoms'. The pattern is what makes the difference.
+2. (write) Sugar and the wood of a spoon are both built from the same three kinds of atom: carbon, hydrogen and oxygen. So why is sugar sweet and crumbly, while wood is hard?  
+   **Answer:** A strong answer says the atoms are the same kinds, but they are joined in different patterns. Different patterns make different materials, with different properties. A sugarcane plant builds sugar in one pattern, and a tree builds wood in another.. *Why:* There are no 'sugar atoms' or 'wood atoms'. The pattern is what makes the difference.
 3. (truefalse) When you cook a dosa, the atoms in the batter are destroyed and new atoms are made.  
    **Answer:** False. *Why:* False. Cooking joins the same atoms in new patterns, so the batter turns into a crisp dosa. No atoms are destroyed and none are made. New atoms are made in stars, not in kitchens.
 4. (mcq) A jeweller in Surat shows two diamonds that look the same. One was dug from a mine. The other was grown in a laboratory. Which one is real diamond?  
@@ -765,9 +765,9 @@ She did not sell it. She gave a pinch to everyone who passed.
    **Answer:** Made materials are now mixing into the Earth itself. *Why:* The rock, called plastiglomerate, is part natural and part made. A strong answer says our made materials do not disappear. They end up in the land and the sea.
 11. (write) In 1897, factory indigo began to be sold, much cheaper than plant indigo. Imagine you are an indigo farmer in Bihar who was forced to grow it. Would you be glad? What might worry you?  
    **Answer:** A strong answer gives both sides. Glad: I would no longer be forced to grow indigo, and could grow food for my family. Worried: people who earned money from making plant indigo would lose their work.. *Why:* A made copy of a natural material changes the lives of the people who grew it. There is no single right answer.
-12. (mcq) Divya says, 'Plastic has nothing to do with nature.' Which fact shows she is not quite right?  
-   Options: Plastic is made from petroleum, which formed from tiny living beings long ago / Plastic is shiny / Plastic is made in factories / Plastic comes in many colours  
-   **Answer:** Plastic is made from petroleum, which formed from tiny living beings long ago. *Why:* Plastic is made by people, but from a natural raw material. Picking 'made in factories' agrees with Divya instead of answering her. A strong answer follows the journey past the factory.
+12. (mcq) Divya says, 'Natural things are always safe, and things made by people are always harmful.' Which pair shows she is wrong both ways?  
+   Options: Snake venom is natural and harmful. A steel spoon is made by people and safe. / Honey is natural and safe. Plastic waste is made by people and harmful. / A neem leaf is natural. A brick is made by people. / Rain is natural and safe.  
+   **Answer:** Snake venom is natural and harmful. A steel spoon is made by people and safe.. *Why:* Venom is natural but can kill. A steel spoon was made by people and is safe to eat with. Picking honey and plastic agrees with Divya instead of testing her rule. A strong answer judges each material by what it does, not by where it came from.
 13. (draw) Draw the journey of one iron atom in four pictures: made inside a star, thrown into space, part of the young Earth, and now in your steel kadai.  
    **Answer:** Four boxes with arrows: a bright star, an explosion scattering dust, a rocky young Earth, and a kadai on a stove, with a dot for the same atom in each.. *Why:* A strong drawing shows the same atom all the way through. Atoms are not made in the kadai factory.
 14. (write) Nothing is made from nothing. So where did the material in your own body come from? Trace it back at least two steps.  
@@ -775,7 +775,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 15. (truefalse) When a plastic bottle is recycled, the plastic disappears.  
    **Answer:** False. *Why:* False. Recycling melts and reshapes the plastic into something new. It does not disappear. And most plastic ever thrown away has never been recycled at all. A strong answer says materials change shape but do not vanish.
 16. (sort) Who made each of these? Sort them.  
-   **Answer:** a sand dune → Nature, with no animal or person; rain → Nature, with no animal or person; a honeycomb → An animal; a termite mound → An animal; a silk cocoon → An animal; a concrete road → People; a rubber band → People. *Why:* Wind piles up sand, and the sky makes rain. Bees, termites and silkworms make their own materials and homes. People made the road and the rubber band, from natural materials.
+   **Answer:** a sand dune → Nature, with no animal or person; rain → Nature, with no animal or person; a honeycomb → An animal; a termite mound → An animal; a silk cocoon → An animal; a concrete road → People; a rubber band → People. *Why:* Wind piles up sand, and rain forms when water vapour in the air cools into drops. Bees, termites and silkworms make their own materials and homes. People made the road and the rubber band, from natural materials.
 
 ## Videos
 - **What really happens to the plastic you throw away** (TED-Ed (Emma Bryce), 5 min) id `_6xlNyWPpB8`: An animated story of three plastic bottles: one buried, one burned and one in the sea. It shows that a made material has to go somewhere when we are done with it. Best watched with a grown-up, after the Swap the Plastic challenge. *Check:* Found by web search: "What really happens to the plastic you throw away - Emma Bryce" on YouTube. Title checked, not watched from here. A parent should preview it.
@@ -795,9 +795,9 @@ She did not sell it. She gave a pinch to everyone who passed.
 4. (mcq) Which of these is natural?  
    Options: A neem tree / A brick / A plastic bottle / A steel gate  
    **Answer:** A neem tree. *Why:* Nature made the neem tree. People made the others from natural materials. Picking 'a brick' means remembering that clay is natural, but forgetting that people baked it.
-5. (mcq) A potted tulsi plant. Which is right?  
+5. (mcq) Look at a tulsi plant growing in a clay pot. Which is right?  
    Options: The plant is natural and the pot is made by people / Both are made by people / Both are natural  
-   **Answer:** The plant is natural and the pot is made by people. *Why:* The tulsi grew from a seed all on their own, so they are natural. The pot was made by people. Picking 'both made by people' usually means thinking that whatever people look after is made by them.
+   **Answer:** The plant is natural and the pot is made by people. *Why:* The tulsi grew themself from a seed. People may water them, but the plant did the growing, so we call them natural. The pot was made by people. Picking 'both made by people' usually means thinking that whatever people look after is made by them.
 6. (mcq) How do people get glass from sand?  
    Options: Melt it in a furnace / Spin it / Dry it in the sun / Soak it in water  
    **Answer:** Melt it in a furnace. *Why:* Sand must be melted at a very high heat in a furnace. Picking 'dry it in the sun' mixes glass up with salt. The sun is far too cool to melt sand.
@@ -825,9 +825,9 @@ She did not sell it. She gave a pinch to everyone who passed.
 14. (mcq) Do scientists fully agree on where gold atoms were made?  
    Options: No. Many think neutron star crashes, others think exploding stars too / Yes, gold is made in mines / Yes, gold is made in volcanoes  
    **Answer:** No. Many think neutron star crashes, others think exploding stars too. *Why:* It is still being worked out. Picking 'in mines' confuses where we find gold with where its atoms were made.
-15. (mcq) Who helped to make your cotton shirt, even though you never see them?  
-   Options: A farmer, a spinner and a weaver / Only the shopkeeper / Nobody, because machines do it all / Only the tailor  
-   **Answer:** A farmer, a spinner and a weaver. *Why:* Many hidden people grow, pick, spin, weave and stitch the cotton. Picking 'only the tailor' or 'only the shopkeeper' starts the journey too late. Even machines need people to run them.
+15. (mcq) Who dug up the iron ore that became your steel kadai?  
+   Options: Miners, in places like Odisha and Jharkhand / Nobody, because steel is found ready-made / The shopkeeper who sold it / Only machines, with no people  
+   **Answer:** Miners, in places like Odisha and Jharkhand. *Why:* Most of India's iron ore is dug in Odisha, Jharkhand, Chhattisgarh and Karnataka, by miners we never see. Picking 'only machines' forgets that people drive and fix the machines. Picking 'ready-made' forgets that iron must be melted out of rock.
 
 ## Applications
 - Farmers grow cotton, jute and silk for cloth, and rubber trees for tyres and chappals.

@@ -941,7 +941,7 @@
     },
     {
      "t": "mcq",
-     "p": "You shine a torch on a glow-in-the-dark star, then switch off the light. The star glows. Is it making their own light, like a firefly?",
+     "p": "You shine a torch on a glow-in-the-dark star, then switch off the light. The star glows. Is it making its own light, like a firefly?",
      "opts": [
       "No, it is giving back light it soaked up from the torch",
       "Yes, just like a firefly",
@@ -1233,9 +1233,9 @@
     },
     {
      "t": "truefalse",
-     "p": "Scientists think living light began only once, in one ancient animal, and was passed down to all glowing beings.",
+     "p": "A glowing mushroom and a firefly use exactly the same chemicals to make their light.",
      "a": false,
-     "why": "False. Fireflies, fungi, jellyfish and bacteria use different chemicals. Scientists think living light began separately at least 94 times."
+     "why": "False. Both use a luciferin and oxygen, but the luciferins are different chemicals. Fungi, fireflies, jellyfish and bacteria each found their own way to make light."
     },
     {
      "t": "write",
@@ -1322,15 +1322,14 @@
     },
     {
      "t": "mcq",
-     "p": "On a cool night, many fireflies flash more slowly than on a warm night. Which idea from the glow stick test explains this best?",
+     "p": "Most deep-sea animals cannot see red light. A black dragonfish shines a red light from under their eyes, and they can see red. How might that help the dragonfish?",
      "opts": [
-      "Cold slows down the chemical reactions in their bodies",
-      "Fireflies save their light for summer",
-      "Cold air has no oxygen in it"
+      "They can light up small animals to eat, without being seen",
+      "Red light keeps them warm in the cold sea",
+      "Red light tells other animals to stay away"
      ],
      "a": 0,
-     "why": "Just as the glow stick in icy water reacted slowly, the chemistry inside a firefly runs slower in the cold. Picking 'cold air has no oxygen' is wrong: cold air has just as much oxygen.",
-     "how": "e1"
+     "why": "The red light works like a secret torch. The dragonfish sees the small animals in their red light, but those animals cannot see the light, so they do not swim away. Picking 'stay away' would only work if the others could see red. Picking 'keeps them warm' misses that living light is cold."
     },
     {
      "t": "perspective",
@@ -2628,14 +2627,14 @@
   },
   {
    "t": "mcq",
-   "p": "A leaf shines in the sunshine. Is that living light?",
+   "p": "A jellyfish glows in a fish tank in a room with every light switched off. Is that living light?",
    "opts": [
-    "No, the leaf is only sending back sunlight",
-    "Yes, because the leaf is alive",
-    "Yes, but only at noon"
+    "Yes, because there is no other light for the jellyfish to send back",
+    "No, the jellyfish is only sending back light",
+    "No, the water in the tank is glowing"
    ],
    "a": 0,
-   "why": "Being alive is not enough. Living light is light a being makes themself, with chemistry. In the dark, the leaf shows nothing.",
+   "why": "In a fully dark room there is no light to bounce back. So any glow must be made by the jellyfish themself, with chemistry. That is living light. Picking 'sending back light' forgets that the room is dark.",
    "outcome": 0
   },
   {
@@ -2676,14 +2675,14 @@
   },
   {
    "t": "mcq",
-   "p": "What does a firefly need from the air to make light?",
+   "p": "A scientist mixes luciferin and luciferase, the two firefly chemicals, in a sealed tube with no air in it. What happens?",
    "opts": [
-    "Oxygen",
-    "Smoke",
-    "Sunlight"
+    "No light, because there is no oxygen",
+    "A bright flash, because both chemicals are there",
+    "A slow glow that gets hot"
    ],
    "a": 0,
-   "why": "Luciferin reacts with oxygen to make light. Picking 'sunlight' mixes the firefly up with glow-in-the-dark stars, which need light first.",
+   "why": "Luciferin needs oxygen to react. The luciferase only speeds the reaction up. With no oxygen, nothing reacts, so no light comes out. Let air in, and the tube glows. Picking 'a bright flash' forgets the oxygen.",
    "outcome": 2
   },
   {
@@ -2763,14 +2762,14 @@
   },
   {
    "t": "mcq",
-   "p": "Which is true?",
+   "p": "A glow-in-the-dark star and a living firefly both spend a whole day in a dark cupboard. Then you open the door at night. Which one can still glow?",
    "opts": [
-    "A firefly makes new light, but a glow-in-the-dark star only gives back stored light",
-    "Both make brand-new light",
-    "Both only give back stored light"
+    "Only the firefly",
+    "Only the star",
+    "Both of them"
    ],
    "a": 0,
-   "why": "The firefly uses a chemical reaction. The star stores light from a torch or the Sun. Picking 'both make new light' mixes up glowing and making light.",
+   "why": "The star can only give back light it soaked up, and it got none in the cupboard. The firefly makes new light with chemistry, so they can flash after a day in the dark. Picking 'only the star' gets the two the wrong way round.",
    "outcome": 5
   },
   {

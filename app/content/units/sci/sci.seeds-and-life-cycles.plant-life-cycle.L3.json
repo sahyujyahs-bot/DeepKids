@@ -1102,7 +1102,7 @@
     },
     {
      "t": "mcq",
-     "p": "Thenmozhi finds a pumpkin flower with no tiny green ball behind the petals. Will this flower turn into a pumpkin?",
+     "p": "Murali finds a pumpkin flower with no tiny green ball behind the petals. Will this flower turn into a pumpkin?",
      "opts": [
       "Yes, if a bee visits",
       "No. It is a male flower: it makes pollen, but no fruit",
@@ -1321,7 +1321,7 @@
     },
     {
      "t": "mcq",
-     "p": "Indu does the Floating Leaves test again, but forgets the pinch of baking soda. In bright light, hardly any leaf circles float. Why?",
+     "p": "Arun does the Floating Leaves test again, but forgets the pinch of baking soda. In bright light, hardly any leaf circles float. Why?",
      "opts": [
       "Baking soda gives the water carbon dioxide, which the leaf needs to make food and oxygen",
       "Baking soda makes leaves lighter",
@@ -1362,9 +1362,9 @@
     },
     {
      "t": "truefalse",
-     "p": "A moong plant dies after their pods ripen.",
-     "a": true,
-     "why": "True. Moong is an annual. They finish their life cycle in two to three months. Their seeds carry the cycle on."
+     "p": "A coconut palm dies after their first coconuts ripen.",
+     "a": false,
+     "why": "False. A coconut palm is a perennial. They keep flowering and making coconuts every year, often for 60 years or more. Moong is different: an annual dies once their pods ripen."
     },
     {
      "t": "mcq",
@@ -1471,7 +1471,7 @@
      "t": "write",
      "p": "When a big tree burns, only a small heap of ash is left. Where did the rest of the tree go? What does this tell you about what the tree was made of?",
      "lines": 4,
-     "a": "Most of the tree went back into the air, as carbon dioxide and water vapour. The ash is the small part that came from the soil, the minerals. This shows the tree was built mostly from air and water, and burning sends it back there.",
+     "a": "Most of the tree went back into the air, as carbon dioxide and water vapour. The ash is the small part that came from the soil, the minerals. This shows the tree was built mostly from air and water, and burning sends that matter back there.",
      "why": "A strong answer says the wood did not vanish. The wood changed into gases. Matter cannot disappear. It changes form."
     },
     {
@@ -3271,16 +3271,16 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Which is the right order for a flowering plant's life cycle?",
+   "p": "A moong seedling must grow many leaves before they can flower. Why?",
    "opts": [
-    "Seed, seedling, grown plant, flower, fruit, new seeds",
-    "Seed, flower, seedling, fruit",
-    "Flower, seed, fruit, seedling",
-    "Seedling, seed, fruit, flower"
+    "Flowers grow out of old leaves",
+    "Leaves keep the flowers warm",
+    "The leaves make the food the plant needs to build flowers, pods and seeds",
+    "Bees visit only plants with many leaves"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 0,
-   "why": "A seed sprouts into a seedling, grows into a grown plant, makes flowers, and each flower can become a fruit holding new seeds. Picking 'seed, flower, seedling' puts the flower too early. A plant must grow big before they can flower."
+   "why": "Flowers, pods and seeds cost a lot of food. The leaves make that food from air and water, using sunlight. A tiny seedling has too few leaves to pay for them. Picking 'flowers grow out of old leaves' comes from seeing flowers among the leaves. But flowers grow from buds on the stem."
   },
   {
    "t": "mcq",
@@ -3297,16 +3297,16 @@
   },
   {
    "t": "mcq",
-   "p": "A fruit grows from which part of a plant?",
+   "p": "Kalyani pinches off every brinjal flower on her plant as soon as they open. What will happen?",
    "opts": [
-    "The leaf",
-    "The seed leaves",
-    "The flower",
-    "The root"
+    "The plant makes bigger brinjals",
+    "The plant makes no brinjals",
+    "The flowers grow back as brinjals",
+    "Nothing changes"
    ],
-   "a": 2,
+   "a": 1,
    "outcome": 1,
-   "why": "After pollen reaches the middle of a flower, the flower's base swells into the fruit. Picking 'the leaf' is a guess some children make because fruits hang among the leaves. But each fruit is where a flower was."
+   "why": "Each brinjal grows from a flower. Take away every flower, and there is nothing left to swell into a fruit. Picking 'bigger brinjals' is a guess that the plant saves food. But with no flowers, there are no fruits to put that food into."
   },
   {
    "t": "mcq",
@@ -3323,16 +3323,16 @@
   },
   {
    "t": "mcq",
-   "p": "To a scientist, which of these is a fruit?",
+   "p": "Peanuts grow under the ground. Did they grow from a flower?",
    "opts": [
-    "Bhindi",
-    "Potato",
-    "Carrot",
-    "Palak"
+    "No, they grow from the roots, like a carrot",
+    "No, they are swollen stems, like a potato",
+    "Yes. After a flower gets pollen, a stalk grows down and pushes the young pod into the soil",
+    "No, peanuts grow from leaves"
    ],
-   "a": 0,
+   "a": 2,
    "outcome": 1,
-   "why": "Bhindi grows from a flower and has seeds inside, so it is a fruit. A potato is a swollen stem, a carrot is a root and palak is a leaf. Picking potato is common, because we eat both potatoes and bhindi as vegetables. But a potato has no seeds and did not grow from a flower."
+   "why": "A peanut shell is a pod with seeds inside, so it is a fruit. The yellow flowers open above the ground. After pollination, a stalk grows down and pushes the young pod into the soil, where they ripen. Picking 'from the roots' is a natural guess, because we dig peanuts up. But roots do not hold seeds."
   },
   {
    "t": "mcq",
@@ -3464,7 +3464,7 @@
    ],
    "a": 1,
    "outcome": 5,
-   "why": "Leaves build sugar from carbon dioxide and water, using sunlight, and the tree builds their wood from that sugar. Picking 'the soil' is what almost everyone guesses. But a famous test showed a willow gained about 75 kilograms while their soil lost only about 60 grams."
+   "why": "Leaves build sugar from carbon dioxide and water, using sunlight, and the tree builds their wood from that sugar. Picking 'the soil' is what almost everyone guesses. But a famous test showed a willow gained about 74 kilograms while their soil lost only about 57 grams."
   },
   {
    "t": "mcq",
@@ -3511,7 +3511,7 @@
    ],
    "a": 3,
    "outcome": 5,
-   "why": "Fungi, bacteria and small animals eat the dead plant. Its carbon goes back into the air and its minerals into the soil, where new plants use them. Picking 'it vanishes' usually means thinking matter can disappear. It cannot. It changes form."
+   "why": "Fungi, bacteria and small animals eat the dead plant. Their carbon goes back into the air and its minerals into the soil, where new plants use them. Picking 'it vanishes' usually means thinking matter can disappear. It cannot. It changes form."
   },
   {
    "t": "mcq",

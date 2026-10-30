@@ -1127,15 +1127,15 @@
     },
     {
      "t": "mcq",
-     "p": "A steel ship floats, but a steel nail sinks. Why?",
+     "p": "A pressure cooker has a steel body and a black plastic handle. Why did the makers use two different materials?",
      "opts": [
-      "The ship is hollow, so on average it is less packed than water",
-      "The ship is lighter than the nail",
-      "The sea pushes harder on big things",
-      "Ships are made of a special steel"
+      "Each part has a different job: the steel carries heat to the food, the plastic keeps heat away from your hand",
+      "Plastic is stronger than steel",
+      "Steel is too costly for a handle",
+      "The plastic handle only makes the cooker look nice"
      ],
      "a": 0,
-     "why": "A ship has a huge space inside, full of air. Counting steel and air together, a ship is less packed than the water it pushes aside, so it floats. A nail is solid steel, which is more packed than water. Picking 'lighter' is the common mistake. A ship weighs thousands of tonnes."
+     "why": "The body must carry heat from the flame to the food, so it needs a conductor of heat. The handle must stop heat reaching your hand, so it needs an insulator. One object can use several materials, each chosen for the property its part needs. Picking 'stronger' misses the point: the handle's job is about heat."
     },
     {
      "t": "write",
@@ -1567,7 +1567,7 @@
      "t": "write",
      "p": "Look back at every test you did in this unit. Which result surprised you most? Write what you guessed, what really happened, and what you think now.",
      "lines": 5,
-     "a": "A strong answer names a real test, gives the guess and the result honestly, and says what changed in the child's thinking. For example: 'I guessed the damp thread would break first. It held more shells. Now I think water weakens paper but helps cotton.'",
+     "a": "A strong answer names a real test, gives the guess and the result honestly, and says what changed in the child's thinking. For example: 'I guessed the damp thread would break first. It held more cups of water. Now I think water weakens paper but helps cotton.'",
      "why": "Changing your mind because of evidence is what scientists do. A guess that turns out wrong is useful, because it shows you what you did not know."
     }
    ]
@@ -3725,7 +3725,7 @@
    ],
    "a": 0,
    "outcome": 5,
-   "why": "She kept the thread, the length and the shells the same. Only the dampness changed. A noon thread made damp held 14. So damp makes cotton a little stronger. 'Angry river' and 'tired thread' are guesses with no test behind them.",
+   "why": "She kept the thread, the length and the shells the same. Only the dampness changed. When she wet a noon thread, it held 14. So damp makes cotton a little stronger. 'Angry river' and 'tired thread' are guesses with no test behind them.",
    "context": "In The Thread That Held at Dawn, a girl dropped cowrie shells into a cup hung from threads, at dawn and at noon."
   },
   {

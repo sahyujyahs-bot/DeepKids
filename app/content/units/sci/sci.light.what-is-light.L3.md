@@ -671,9 +671,9 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
    **Answer:** It takes a tiny time, far too short to notice. *Why:* Light has a speed: about 3 lakh kilometres every second. Across a room, that takes about one hundred-millionth of a second, far too short to notice. So it feels instant, but it is not. A strong answer separates 'too fast to notice' from 'no time'.
 2. (fill) In empty space, light travels about 3 ____ kilometres every second.  
    **Answer:** ['lakh']. *Why:* 3 lakh kilometres is 300,000 kilometres. In one second, light could go round the Earth about seven and a half times.
-3. (mcq) Astronauts on the Moon, where there is no air, switch on a torch. What happens to the light?  
-   Options: It shines out across the Moon / It cannot travel, because there is no air / It only glows inside the torch  
-   **Answer:** It shines out across the Moon. *Why:* Light needs nothing to travel through. It crosses empty space, which is how sunlight reaches us across 15 crore kilometres of nothing. Sound is different: it needs air, water or a solid.
+3. (mcq) On a sunny day, Meenakshi's shadow on the floor has sharp edges. What does this show about how light travels?  
+   Options: Light travels in straight lines, so it cannot curl round her body / Light travels in curves round her body / Light travels only slowly near people  
+   **Answer:** Light travels in straight lines, so it cannot curl round her body. *Why:* Light goes in straight lines. Where her body is in the way, the light is blocked, and the lines just past her edges carry on. So the edge of the shadow is sharp. A strong answer says 'straight lines'.
 4. (mcq) In the Flash and Bang experiment, you stood 200 big steps from the helper. What did you notice, and what does it show?  
    Options: I saw the plates meet before I heard the bang, so light travels faster than sound / I heard the bang before I saw the plates meet, so sound is faster / I saw and heard them at the same moment, so they travel at the same speed  
    **Answer:** I saw the plates meet before I heard the bang, so light travels faster than sound. *Why:* From far away there is a gap: the sight arrives first, the sound later. Light crosses 200 steps in almost no time. Sound takes about half a second. A strong answer gives what was seen and what it shows.
@@ -681,8 +681,8 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
    **Answer:** 2. *Why:* Sound travels about 1 kilometre every 3 seconds. The light arrived almost at once. 6 seconds divided by 3 is 2. So the lightning was about 2 kilometres away.
 6. (write) In the Flash and Bang experiment, you first stood 100 big steps away, then 200. Predict what happened to the gap between seeing and hearing. Explain why.  
    **Answer:** The gap got bigger, about twice as long. The sound had twice as far to travel, so it took twice as long. The light still arrived almost at once, because it is so fast.. *Why:* A strong answer says the gap comes from the trip the sound makes, not from the helper, and links double the distance to double the gap.
-7. (truefalse) The sunlight on your face right now left the Sun about 8 minutes ago.  
-   **Answer:** True. *Why:* True. The Sun is about 15 crore kilometres away. At 3 lakh kilometres a second, light takes about 500 seconds, a little over 8 minutes, to cross that gap.
+7. (truefalse) Many people think a brighter torch sends out faster light. True or false: light from a bright torch travels faster than light from a dim one.  
+   **Answer:** False. *Why:* False. A bright torch sends out more light, not faster light. All light travels at the same speed in empty space, about 3 lakh kilometres every second. A strong answer says brightness is about how much light, not how fast.
 8. (mcq) Imagine the Sun suddenly stopped shining. When would people on Earth notice?  
    Options: At that very moment / About 8 minutes later / The next day  
    **Answer:** About 8 minutes later. *Why:* The last light the Sun gave out would still be on its way. For about 8 minutes, we would go on seeing the Sun as if nothing had happened. A strong answer uses the 8-minute trip to predict.
@@ -695,8 +695,8 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
    **Answer:** sunlight → Can cross empty space; starlight → Can cross empty space; radio signals from a spacecraft → Can cross empty space; the sound of thunder → Needs something to travel through; the bang of two steel plates → Needs something to travel through; a ripple in an uruli of water → Needs something to travel through. *Why:* Light and radio, which is a kind of light we cannot see, cross empty space. Sound and water ripples are movements of air or water, so where there is nothing, they cannot travel.
 12. (write) Divya says, 'When I watch the sunrise, I am seeing the Sun exactly as it is at this moment.' What is not quite right about this?  
    **Answer:** The light I see left the Sun about 8 minutes ago. So I am seeing the Sun as it was 8 minutes ago, not as it is now. The Sun has moved on and changed a tiny bit since then.. *Why:* A strong answer finds the mistake (seeing now) and uses the 8-minute trip to correct it.
-13. (draw) Draw the Sun, the Earth and a beam of light between them. Write on the beam how long the light takes to arrive.  
-   **Answer:** A Sun on one side, a small Earth on the other, a straight beam joining them, labelled 'about 8 minutes'.. *Why:* A strong drawing shows light travelling in a straight line across empty space, and gives the time.
+13. (draw) Draw a torch, a piece of card with a small hole in the middle, and a wall behind it. Draw the path of the light from the torch, through the hole, to the wall.  
+   **Answer:** Straight lines go from the torch to the hole and carry on straight to the wall, making a small spot of light. Light that hits the card is blocked.. *Why:* A strong drawing uses straight lines with a ruler and shows that only light lined up with the hole reaches the wall.
 14. (perspective) Three people each have a picture in their head of what light is like.  
    **Answer:** A strong answer picks a picture and backs it with evidence: sharp shadows and the glow star fit the tiny balls, and the dots seen through a cloth fit the ripples. It then gives another picture its due. The best answers notice that scientists today use both the ball picture and the ripple picture, because light acts like both.. *Why:* There is no single right answer. Each picture explains some things about light and not others. Scientists argued about this for hundreds of years.
 15. (write) An astronaut outside the space station bangs two spanners together. Another astronaut floating nearby sees the spanners meet, but hears nothing. Why?  
@@ -741,8 +741,8 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 16. (write) Sound travels about 1 kilometre in 3 seconds. Light travels 3 lakh kilometres in 1 second. Use these numbers to explain why counting the seconds after lightning works, even though light takes some time too.  
    **Answer:** For lightning a few kilometres away, light takes only about a hundred-thousandth of a second, which is almost nothing. So nearly all the gap is the time the sound takes. That is why dividing the seconds by 3 gives the distance in kilometres.. *Why:* A strong answer compares the two speeds and says that the light's time is so small that it can be ignored.
 ### Light Across Space (challenge) (challenge, 16 questions)
-1. (count) Light travels about 3 lakh kilometres every second. How many lakh kilometres does it travel in 2 seconds?  
-   **Answer:** 6. *Why:* 3 lakh kilometres each second, for 2 seconds, is 3 + 3 = 6 lakh kilometres.
+1. (count) Sunlight takes about 8 minutes to reach the Earth. It takes about 43 minutes to reach Jupiter. About how many times further from the Sun is Jupiter than the Earth? Choose 2, 5 or 40.  
+   **Answer:** 5. *Why:* Light goes at a steady speed, so the time tells the distance. 43 minutes is a little more than 5 times 8 minutes, so Jupiter is about 5 times further from the Sun. A strong answer divides the times and explains why that works.
 2. (count) Light from the Sun takes 8 minutes and 20 seconds to reach us. How many seconds is that?  
    **Answer:** 500. *Why:* 1 minute is 60 seconds. 8 minutes is 8 × 60 = 480 seconds. 480 + 20 = 500 seconds.
 3. (mcq) The Moon is about one and a quarter light-seconds away. Astronauts left mirrors on the Moon. A laser flash is sent there from Earth and bounces back. About how long until the flash returns?  
@@ -751,16 +751,16 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 4. (mcq) Thenmozhi is an astronaut on Mars. She sends a radio message home. Radio travels at the speed of light, and the trip takes 12 minutes. When does her family hear her?  
    Options: At the same moment she speaks / 12 minutes after she speaks / 12 hours after she speaks  
    **Answer:** 12 minutes after she speaks. *Why:* Radio is a kind of light. It needs 12 minutes to cross the distance. So a chat with Mars is slow: a question and its answer take at least 24 minutes.
-5. (mcq) Astronomers see a star explode tonight. The star is 600 light-years away. When did the explosion really happen?  
-   Options: Tonight / About 600 years ago / It will happen in 600 years  
-   **Answer:** About 600 years ago. *Why:* The light from the explosion has been travelling for 600 years. So we see it 600 years after it happened. Looking far away is looking back in time.
+5. (write) Two stars look the same tonight. One is 10 light-years away. The other is 1,000 light-years away. Which star's light is older, and by how many years? Explain.  
+   **Answer:** The light from the far star is older, by about 990 years. Its light left about 1,000 years ago. The near star's light left about 10 years ago. 1,000 minus 10 is 990.. *Why:* A strong answer uses the light-year: light from a star so many light-years away left that many years ago.
 6. (write) Galileo's lantern test could not find light's speed, but Rømer's moon test could. What did Rømer have that the lanterns did not?  
    **Answer:** A huge distance. Rømer used the width of the Earth's path round the Sun, hundreds of millions of kilometres, so the delay was minutes long. Galileo's lanterns were about a mile apart, so the delay was a few millionths of a second, too short to notice. Rømer also had a steady clock: Io's regular trips round Jupiter.. *Why:* A strong answer says that to time something very fast, you need a very long distance or a very exact clock.
 7. (mcq) Scientists can send light through two slits one photon at a time. Each photon makes one dot on a screen. What appears after thousands of dots?  
    Options: Just two bright lines / The same bright and dark stripes that waves make / Nothing, because single photons cannot be seen  
    **Answer:** The same bright and dark stripes that waves make. *Why:* Each photon lands as one dot, like a particle. But together the dots build up the striped pattern of a wave. This is why scientists say light travels like a wave and arrives in packets.
-8. (truefalse) In quantum physics, the 'observer' that changes what light does must be a person watching.  
-   **Answer:** False. *Why:* False. The 'observer' is any measuring machine, or anything the light interacts with that keeps a record. No person needs to be watching. This is a common mistake in films and books.
+8. (mcq) In 1849, Hippolyte Fizeau sent light through a gap in a spinning toothed wheel, to a mirror far away and back. When the wheel spun just fast enough, the next tooth blocked the light coming back. How did this tell him light's speed?  
+   Options: He knew how far the light went, and how long the next tooth took to move into its path / The wheel slowed the light down until he could see it move / The teeth made the light brighter at one speed  
+   **Answer:** He knew how far the light went, and how long the next tooth took to move into its path. *Why:* Speed is distance divided by time. Fizeau knew the distance to the mirror and back. The spinning speed of the wheel told him the time for one tooth to move into place. A strong answer names both the distance and the time.
 9. (perspective) Scientists agree on the sums that predict what light does. They do not agree on what is really happening to a photon between a lamp and a screen.  
    **Answer:** A strong answer picks a view and links it to evidence, for example that single photons land as dots but build up stripes. It then states another view fairly: Bohr's view is careful not to claim more than we can measure, and de Broglie's view keeps a real path for each photon. The best answers say that this is a real open question and that the evidence so far fits all three.. *Why:* There is no agreed answer. All three views predict the same results, so experiments have not yet decided between them.
 10. (match) Match each real person to what they found out about light.  
@@ -775,8 +775,8 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
    **Answer:** I would leave the Sun's surface and cross empty space, with no air and no sound. I might pass the orbits of Mercury and Venus. After about 8 minutes I would reach the Earth, pass through the air and land on someone's face.. *Why:* A strong answer uses real facts: the 8-minute trip, empty space, and the order of the planets. Einstein wondered about riding a light beam when he was 16, and thinking like this helped him find his ideas about space and time.
 15. (draw) Draw light as a wave and as photons in one picture. Label which part shows which idea.  
    **Answer:** For example: a wavy line going across the page, with small dots placed along it, labelled 'travels like a wave' and 'arrives as packets (photons)'.. *Why:* A strong drawing shows both ideas together, because light is both at once, not one or the other.
-16. (truefalse) Scientists agree completely about what a photon is doing between leaving a lamp and landing on a screen.  
-   **Answer:** False. *Why:* False. The sums that predict what light does work extremely well. But what a photon is doing between being made and being measured is still argued about. This is one of the big open questions in physics.
+16. (write) Light is energy. Name two things at home that light makes happen. For each, say what the light's energy does.  
+   **Answer:** For example: sunlight on the floor makes it warm, because the energy turns into heat. A potted plant uses sunlight's energy to make their food. A glow star soaks up the energy of blue light and gives it out later as a glow.. *Why:* A strong answer gives two real cases and says where the energy goes each time.
 
 ## Videos
 - **Why No One Has Measured The Speed Of Light** (Veritasium, 9 min) id `pTn6Ewhb27k`: For the parent and curious older children: how the speed of light is measured, and the surprising puzzle of whether its speed is the same going and coming back. *Check:* Video id recalled, not opened from here: a parent should check it plays and is the Veritasium video of this title before showing.
@@ -793,9 +793,9 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 3. (mcq) About how long does light from the Sun take to reach the Earth?  
    Options: No time at all / About 8 minutes / About 8 days  
    **Answer:** About 8 minutes. *Why:* The Sun is about 15 crore kilometres away. Light, at 3 lakh kilometres a second, takes about 8 minutes to cross that gap.
-4. (mcq) Riya sees the sunrise at exactly 6 o'clock. When did that light leave the Sun?  
-   Options: At exactly 6 o'clock / About 8 minutes before 6 o'clock / The day before  
-   **Answer:** About 8 minutes before 6 o'clock. *Why:* The light took about 8 minutes to travel. So it left the Sun about 8 minutes before Riya saw it.
+4. (mcq) Arjun learns that moonlight takes about 1 second to reach us, and sunlight about 8 minutes. What does this tell him?  
+   Options: The Sun is much further away than the Moon / Moonlight travels faster than sunlight / The Moon is bigger than the Sun  
+   **Answer:** The Sun is much further away than the Moon. *Why:* All light travels at the same speed. So light that takes longer has come further. The Sun is about 400 times further away than the Moon.
 5. (mcq) In the Flash and Bang experiment, what was the one thing you changed between tries?  
    Options: How far you stood from the helper / The kind of plates / How hard the helper banged  
    **Answer:** How far you stood from the helper. *Why:* A fair test changes only one thing. Changing only the distance shows that the gap between seeing and hearing grows with distance.
@@ -811,9 +811,9 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 9. (mcq) Light travels like a wave. What else is true about it?  
    Options: Its energy comes in tiny packets called photons / It needs air to travel / It is slower than sound  
    **Answer:** Its energy comes in tiny packets called photons. *Why:* Light spreads like a wave, but its energy arrives in tiny packets called photons. Both are true at once.
-10. (mcq) Why can one blue photon make a glow star glow, when many red photons cannot?  
-   Options: Each blue photon carries more energy than each red photon / Blue photons are bigger / Red light is too dim  
-   **Answer:** Each blue photon carries more energy than each red photon. *Why:* The glow star needs a big enough kick from each single photon. Blue photons have enough energy, red ones do not, however many there are.
+10. (mcq) Photons are tiny packets of light energy. Which colour of light carries the most energy in each photon?  
+   Options: Red / Yellow / Blue  
+   **Answer:** Blue. *Why:* Blue photons carry more energy than yellow, and yellow more than red. That is why blue light could make the glow star glow and red light could not.
 11. (mcq) A light-year measures…  
    Options: a distance: how far light goes in one year / a time: how long a year lasts / how bright a star is  
    **Answer:** a distance: how far light goes in one year. *Why:* Despite the word 'year', a light-year is a distance, about 95 lakh crore kilometres.

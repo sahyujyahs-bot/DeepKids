@@ -1070,7 +1070,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the evening, a growing Moon seen from India is lit on which side?",
+     "p": "In the evening, a growing half Moon seen from India is lit on which side?",
      "opts": [
       "The right side, towards where the Sun set",
       "The left side",
@@ -1421,10 +1421,10 @@
     },
     {
      "t": "write",
-     "p": "Wang Zhenyi was not supposed to study, because she was a girl. She explained eclipses anyway. Why do you think it matters who is allowed to do science?",
+     "p": "A picture book shows a thin crescent Moon with a star shining between its two horns, inside the dark part of the Moon's circle. Could you ever really see this? Explain.",
      "lines": 4,
-     "a": "Any thoughtful answer. For example: if only some people may ask questions, many good answers are never found. Everyone notices different things.",
-     "why": "There is no single right answer. A good answer gives a reason."
+     "a": "No. The dark part is still the Moon. It is only the half of the Moon that is not lit, so it blocks any star behind it. A real star can only shine outside the Moon's whole circle.",
+     "why": "A strong answer says the unlit part of the Moon is still solid Moon, just in shadow, so it hides the stars behind it. Earthshine shows that the whole circle is there. The child can check this by watching a crescent Moon pass a bright star."
     },
     {
      "t": "write",
@@ -2717,17 +2717,17 @@
   },
   {
    "t": "mcq",
-   "p": "Remember the ball and lamp experiment. When the ball was between you and the lamp, what did you see?",
+   "p": "Remember the ball and lamp experiment. You held the ball out to your side, a quarter turn away from the lamp. What did you see?",
    "opts": [
-    "A dark ball: a new Moon",
+    "A half Moon: one half of the face you could see was lit",
     "A full Moon",
-    "A half Moon"
+    "A dark ball: a new Moon"
    ],
    "a": 0,
    "outcome": 0,
    "context": "This question is about the ball and lamp experiment. A lamp is the Sun, a pale ball on a pencil is the Moon, and your head is the Earth. You turn slowly and watch the ball's lit part.",
    "how": "e1",
-   "why": "The lit side faced the lamp, away from you, so you saw a dark ball. That is the new Moon, Amavasya. Picking 'full Moon' usually means thinking the Moon is brightest when nearest the Sun."
+   "why": "From the side, you see half of the ball's lit half: a half Moon. The real Moon is a half Moon when it is a quarter of the way round the Earth. Picking 'full Moon' means thinking any lit ball looks full, but you only see the whole lit face with the lamp behind you."
   },
   {
    "t": "mcq",
@@ -2769,27 +2769,27 @@
   },
   {
    "t": "mcq",
-   "p": "Why do we always see the same face of the Moon?",
+   "p": "Imagine the Moon spun round twice for every trip round the Earth. What would we see over one month?",
    "opts": [
-    "It spins once for each trip round the Earth",
-    "It does not spin at all",
-    "The far side is always dark"
+    "Every side of the Moon, including the side we never see now",
+    "Always the same face, just as now",
+    "No Moon at all"
    ],
    "a": 0,
    "outcome": 2,
-   "why": "The Moon spins exactly once each trip round us, so its face stays towards us. Picking 'does not spin' is the most common idea. But walking round a chair while facing it shows you turn once."
+   "why": "We see one face only because the Moon spins exactly once for each trip round us. Spinning twice, it would turn all its sides towards us in a month. Picking 'the same face' forgets that the match between spin and trip is what keeps one face towards us."
   },
   {
    "t": "mcq",
-   "p": "Long, long ago, did the Moon always show us the same face?",
+   "p": "Is anything still being slowed down by the pull between the Earth and the Moon today?",
    "opts": [
-    "No. It spun faster, and the Earth's pull slowed it down until it matched",
-    "Yes, it has always been like this",
-    "No. It used to spin backwards"
+    "Yes. The Moon's pull is slowly slowing the Earth's spin, so our days get very slightly longer",
+    "No. Everything stopped changing long ago",
+    "Yes. The Moon will soon stop spinning"
    ],
    "a": 0,
    "outcome": 2,
-   "why": "The young Moon spun faster. The Earth's pull on a slight bulge in the Moon's rock acted like a brake, until one spin took exactly one trip round us. This is called tidal locking."
+   "why": "The Earth's pull already slowed the Moon until one face stayed towards us, so that has finished. But the Moon's pull on our seas acts like a gentle brake on the Earth's spin. Days get longer by about 2 thousandths of a second every hundred years."
   },
   {
    "t": "mcq",
@@ -2805,29 +2805,29 @@
   },
   {
    "t": "mcq",
-   "p": "Remember the shadow experiment. Why can everyone who can see the Moon watch a lunar eclipse?",
+   "p": "A total lunar eclipse can last more than an hour. A total solar eclipse lasts only a few minutes at any one place. Why?",
    "opts": [
-    "The Earth's big shadow covers the whole Moon",
-    "The Moon's shadow covers the whole Earth",
-    "Eclipses happen everywhere at once"
+    "The Earth's shadow is big, so the Moon takes a long time to cross it. The Moon's shadow is small, so it passes over one place quickly",
+    "The Sun moves faster than the Moon",
+    "Solar eclipses happen at night"
    ],
    "a": 0,
    "outcome": 3,
+   "why": "In the shadow experiment, the football's big shadow could swallow the whole lime, but the lime made only a small spot. The Moon needs a long time to pass through the Earth's wide shadow. The Moon's small shadow sweeps across the Earth, so it covers one town for only minutes.",
    "context": "This question is about the shadow experiment. A torch is the Sun, a football is the Earth and a lime is the Moon.",
-   "how": "e2",
-   "why": "The football's shadow swallowed the whole lime. The Earth's shadow is big enough to cover the whole Moon, so anyone who can see the Moon sees it go dark. Picking 'the Moon's shadow covers the whole Earth' is backwards: the Moon's shadow is small."
+   "how": "e2"
   },
   {
    "t": "mcq",
-   "p": "Why isn't there a lunar eclipse every Purnima?",
+   "p": "Meera says, 'There is no lunar eclipse most months because the Earth's shadow is too short to reach the Moon.' What is wrong with her idea?",
    "opts": [
-    "The Moon's path is tilted, so it usually misses the Earth's shadow",
-    "Rahu only eats the Moon sometimes",
-    "The Earth has no shadow on some nights"
+    "The shadow does reach that far. The Moon's tilted path usually takes it just above or below the shadow",
+    "Nothing. She is right",
+    "The Earth has no shadow"
    ],
    "a": 0,
    "outcome": 3,
-   "why": "The Moon's path is tilted a little, so most months it passes above or below the shadow. Picking 'Rahu' comes from an old story. Astronomers kept the name Rahu for one of the two crossing points of the paths."
+   "why": "The Earth's shadow stretches far past the Moon, so it is long enough. What usually happens is a near miss: the Moon's path is tilted about 5 degrees. Only when a full Moon falls where the paths cross does it pass through the shadow."
   },
   {
    "t": "mcq",
@@ -2843,27 +2843,27 @@
   },
   {
    "t": "mcq",
-   "p": "Diwali falls on…",
+   "p": "Eid al-Fitr starts when people see something in the evening sky. What do they look for?",
    "opts": [
-    "Amavasya, the new Moon",
-    "Purnima, the full Moon",
-    "The same date every year"
+    "The first thin crescent Moon after the new Moon",
+    "A full Moon",
+    "A lunar eclipse"
    ],
    "a": 0,
    "outcome": 4,
-   "why": "Diwali falls on an Amavasya, so the sky is dark. Its date changes every year because it follows the Moon. Picking 'Purnima' mixes it up with festivals like Holi and Guru Purnima."
+   "why": "Eid begins a new Moon month, and the Islamic calendar starts each month with the first sighting of the new crescent just after sunset. That is why Eid's date moves about 11 days earlier each year. Picking 'full Moon' mixes it up with Purnima festivals."
   },
   {
    "t": "mcq",
-   "p": "What do most scientists think made the Moon?",
+   "p": "The Earth has a big iron centre. The Moon has only a tiny one. How does the giant crash idea explain this?",
    "opts": [
-    "A planet about the size of Mars crashed into the young Earth",
-    "The Earth caught a passing Moon",
-    "It has always been there, since the universe began"
+    "The crash splashed out mostly the Earth's outer rock, and the iron stayed deep inside the Earth",
+    "The Moon's iron melted away",
+    "The Moon was made of iron, and it rusted"
    ],
    "a": 0,
    "outcome": 5,
-   "why": "Moon rocks are very like the Earth's outer rock, and the Moon has a tiny iron centre. A giant crash explains both. Picking 'caught a passing Moon' was an old idea, but a captured Moon would probably be made of different rock."
+   "why": "Iron is heavy, so in the young Earth it had sunk to the centre. A crash that splashed out the outer rock would make a Moon with very little iron. A captured Moon from somewhere else would have no reason to be so poor in iron."
   },
   {
    "t": "mcq",
@@ -2903,15 +2903,15 @@
   },
   {
    "t": "mcq",
-   "p": "Which of these keeps time by the Moon?",
+   "p": "Which of these living beings really time their lives by the Moon?",
    "opts": [
-    "Corals that release their eggs together after a full Moon",
-    "Pebbles on a riverbank",
-    "Plastic toys"
+    "Red crabs on Christmas Island, who release their eggs into the sea at a set phase of the Moon",
+    "Mango trees, who flower on every full Moon",
+    "Sunflowers, who turn to face the Moon at night"
    ],
    "a": 0,
    "outcome": 6,
-   "why": "Many corals spawn together on a few nights after a full Moon each year. Dung beetles also steer by moonlight. Pebbles and toys have no body clock that follows the Moon."
+   "why": "Millions of red crabs walk to the sea and release their eggs when the Moon is in its last quarter, when the tides change least. Many corals also release eggs together after a full Moon. Mango trees and sunflowers do not follow the Moon in these ways."
   }
  ],
  "applications": [

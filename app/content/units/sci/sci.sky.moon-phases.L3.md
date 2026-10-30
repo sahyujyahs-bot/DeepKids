@@ -639,7 +639,7 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 11. (mcq) A lunar eclipse is when the Earth's shadow falls on the Moon. On which night can it happen?  
    Options: A full Moon night / A new Moon night / Any night  
    **Answer:** A full Moon night. *Why:* In a lunar eclipse, the Earth's shadow falls on the Moon. That needs the Earth to be between the Sun and the Moon, which only happens at full Moon. Picking 'new Moon' means mixing it up with a solar eclipse, which happens at new Moon.
-12. (mcq) In the evening, a growing Moon seen from India is lit on which side?  
+12. (mcq) In the evening, a growing half Moon seen from India is lit on which side?  
    Options: The right side, towards where the Sun set / The left side / The top  
    **Answer:** The right side, towards where the Sun set. *Why:* The lit side always faces the Sun. In the evening, the Sun has set in the west, which is to the right of the Moon when you face it. Picking 'the left' gives a shrinking Moon, which is best seen late at night or in the morning.
 13. (write) Your cousin Nila says, 'The Moon only comes out at night.' What would you tell her? Give an example from your Moon diary, or from a time you saw the Moon.  
@@ -713,8 +713,8 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 10. (mcq) The Sun is about 400 times wider than the Moon and about 400 times further away. What does this mean?  
    Options: They look about the same size in our sky, so the Moon can just cover the Sun / The Sun is smaller than the Moon / Eclipses happen every day  
    **Answer:** They look about the same size in our sky, so the Moon can just cover the Sun. *Why:* Something 400 times wider but also 400 times further away looks the same size. So in a total solar eclipse, the Moon just covers the Sun. As the Moon drifts away, this perfect fit will not last for ever.
-11. (write) Wang Zhenyi was not supposed to study, because she was a girl. She explained eclipses anyway. Why do you think it matters who is allowed to do science?  
-   **Answer:** Any thoughtful answer. For example: if only some people may ask questions, many good answers are never found. Everyone notices different things.. *Why:* There is no single right answer. A good answer gives a reason.
+11. (write) A picture book shows a thin crescent Moon with a star shining between its two horns, inside the dark part of the Moon's circle. Could you ever really see this? Explain.  
+   **Answer:** No. The dark part is still the Moon. It is only the half of the Moon that is not lit, so it blocks any star behind it. A real star can only shine outside the Moon's whole circle.. *Why:* A strong answer says the unlit part of the Moon is still solid Moon, just in shadow, so it hides the stars behind it. Earthshine shows that the whole circle is there. The child can check this by watching a crescent Moon pass a bright star.
 12. (write) The Earth's pull slowed the Moon's spin, and the Moon's pull is slowing the Earth's spin. Is the Earth in charge of the Moon, or are they partners? Explain.  
    **Answer:** Any thoughtful answer. For example: they are partners, because each changes the other. The Earth locked the Moon's face, and the Moon makes our tides and slows our days. They both go round a point between them.. *Why:* A good answer uses at least one way each one changes the other.
 13. (draw) Design a Moon base on the far side of the Moon. Show how it would talk to the Earth.  
@@ -734,9 +734,9 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 1. (mcq) Half of the Moon is always lit by the Sun. So why do we see only a thin crescent on some nights?  
    Options: The Moon is nearly between us and the Sun, so we see only a sliver of its lit half / Clouds cover the rest / The Earth's shadow covers the rest / The Moon has shrunk  
    **Answer:** The Moon is nearly between us and the Sun, so we see only a sliver of its lit half. *Why:* Near new Moon, the lit half faces mostly towards the Sun and away from us. We see only its edge. Picking 'the Earth's shadow' is the most common wrong answer. The Earth's shadow only reaches the Moon in a lunar eclipse.
-2. (mcq) Remember the ball and lamp experiment. When the ball was between you and the lamp, what did you see?  
-   Options: A dark ball: a new Moon / A full Moon / A half Moon  
-   **Answer:** A dark ball: a new Moon. *Why:* The lit side faced the lamp, away from you, so you saw a dark ball. That is the new Moon, Amavasya. Picking 'full Moon' usually means thinking the Moon is brightest when nearest the Sun.
+2. (mcq) Remember the ball and lamp experiment. You held the ball out to your side, a quarter turn away from the lamp. What did you see?  
+   Options: A half Moon: one half of the face you could see was lit / A full Moon / A dark ball: a new Moon  
+   **Answer:** A half Moon: one half of the face you could see was lit. *Why:* From the side, you see half of the ball's lit half: a half Moon. The real Moon is a half Moon when it is a quarter of the way round the Earth. Picking 'full Moon' means thinking any lit ball looks full, but you only see the whole lit face with the lamp behind you.
 3. (mcq) Which comes straight after the full Moon?  
    Options: A shrinking gibbous Moon / A thin crescent / A new Moon  
    **Answer:** A shrinking gibbous Moon. *Why:* After Purnima, the Moon shrinks a little at a time: gibbous, then half, then crescent, then new. Picking 'new Moon' skips the two weeks of shrinking in between.
@@ -746,30 +746,30 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 5. (mcq) You see the full Moon rising in the east. Where is the Sun?  
    Options: Setting in the west, on the opposite side of the sky / High overhead / Rising next to the Moon  
    **Answer:** Setting in the west, on the opposite side of the sky. *Why:* The full Moon is opposite the Sun. So as it rises in the east, the Sun is setting in the west. Picking 'rising next to the Moon' describes the new Moon, which we cannot see.
-6. (mcq) Why do we always see the same face of the Moon?  
-   Options: It spins once for each trip round the Earth / It does not spin at all / The far side is always dark  
-   **Answer:** It spins once for each trip round the Earth. *Why:* The Moon spins exactly once each trip round us, so its face stays towards us. Picking 'does not spin' is the most common idea. But walking round a chair while facing it shows you turn once.
-7. (mcq) Long, long ago, did the Moon always show us the same face?  
-   Options: No. It spun faster, and the Earth's pull slowed it down until it matched / Yes, it has always been like this / No. It used to spin backwards  
-   **Answer:** No. It spun faster, and the Earth's pull slowed it down until it matched. *Why:* The young Moon spun faster. The Earth's pull on a slight bulge in the Moon's rock acted like a brake, until one spin took exactly one trip round us. This is called tidal locking.
+6. (mcq) Imagine the Moon spun round twice for every trip round the Earth. What would we see over one month?  
+   Options: Every side of the Moon, including the side we never see now / Always the same face, just as now / No Moon at all  
+   **Answer:** Every side of the Moon, including the side we never see now. *Why:* We see one face only because the Moon spins exactly once for each trip round us. Spinning twice, it would turn all its sides towards us in a month. Picking 'the same face' forgets that the match between spin and trip is what keeps one face towards us.
+7. (mcq) Is anything still being slowed down by the pull between the Earth and the Moon today?  
+   Options: Yes. The Moon's pull is slowly slowing the Earth's spin, so our days get very slightly longer / No. Everything stopped changing long ago / Yes. The Moon will soon stop spinning  
+   **Answer:** Yes. The Moon's pull is slowly slowing the Earth's spin, so our days get very slightly longer. *Why:* The Earth's pull already slowed the Moon until one face stayed towards us, so that has finished. But the Moon's pull on our seas acts like a gentle brake on the Earth's spin. Days get longer by about 2 thousandths of a second every hundred years.
 8. (mcq) A solar eclipse can only happen at…  
    Options: New Moon / Full Moon / Half Moon  
    **Answer:** New Moon. *Why:* In a solar eclipse the Moon passes between the Sun and the Earth. That is where it is at new Moon. Picking 'full Moon' mixes it up with a lunar eclipse.
-9. (mcq) Remember the shadow experiment. Why can everyone who can see the Moon watch a lunar eclipse?  
-   Options: The Earth's big shadow covers the whole Moon / The Moon's shadow covers the whole Earth / Eclipses happen everywhere at once  
-   **Answer:** The Earth's big shadow covers the whole Moon. *Why:* The football's shadow swallowed the whole lime. The Earth's shadow is big enough to cover the whole Moon, so anyone who can see the Moon sees it go dark. Picking 'the Moon's shadow covers the whole Earth' is backwards: the Moon's shadow is small.
-10. (mcq) Why isn't there a lunar eclipse every Purnima?  
-   Options: The Moon's path is tilted, so it usually misses the Earth's shadow / Rahu only eats the Moon sometimes / The Earth has no shadow on some nights  
-   **Answer:** The Moon's path is tilted, so it usually misses the Earth's shadow. *Why:* The Moon's path is tilted a little, so most months it passes above or below the shadow. Picking 'Rahu' comes from an old story. Astronomers kept the name Rahu for one of the two crossing points of the paths.
+9. (mcq) A total lunar eclipse can last more than an hour. A total solar eclipse lasts only a few minutes at any one place. Why?  
+   Options: The Earth's shadow is big, so the Moon takes a long time to cross it. The Moon's shadow is small, so it passes over one place quickly / The Sun moves faster than the Moon / Solar eclipses happen at night  
+   **Answer:** The Earth's shadow is big, so the Moon takes a long time to cross it. The Moon's shadow is small, so it passes over one place quickly. *Why:* In the shadow experiment, the football's big shadow could swallow the whole lime, but the lime made only a small spot. The Moon needs a long time to pass through the Earth's wide shadow. The Moon's small shadow sweeps across the Earth, so it covers one town for only minutes.
+10. (mcq) Meera says, 'There is no lunar eclipse most months because the Earth's shadow is too short to reach the Moon.' What is wrong with her idea?  
+   Options: The shadow does reach that far. The Moon's tilted path usually takes it just above or below the shadow / Nothing. She is right / The Earth has no shadow  
+   **Answer:** The shadow does reach that far. The Moon's tilted path usually takes it just above or below the shadow. *Why:* The Earth's shadow stretches far past the Moon, so it is long enough. What usually happens is a near miss: the Moon's path is tilted about 5 degrees. Only when a full Moon falls where the paths cross does it pass through the shadow.
 11. (mcq) How many tithis are there in one lunar month?  
    Options: 30 / 7 / 365  
    **Answer:** 30. *Why:* Each lunar month has 30 tithis, 15 in the bright half and 15 in the dark half. Picking 7 mixes it up with the days of a week.
-12. (mcq) Diwali falls on…  
-   Options: Amavasya, the new Moon / Purnima, the full Moon / The same date every year  
-   **Answer:** Amavasya, the new Moon. *Why:* Diwali falls on an Amavasya, so the sky is dark. Its date changes every year because it follows the Moon. Picking 'Purnima' mixes it up with festivals like Holi and Guru Purnima.
-13. (mcq) What do most scientists think made the Moon?  
-   Options: A planet about the size of Mars crashed into the young Earth / The Earth caught a passing Moon / It has always been there, since the universe began  
-   **Answer:** A planet about the size of Mars crashed into the young Earth. *Why:* Moon rocks are very like the Earth's outer rock, and the Moon has a tiny iron centre. A giant crash explains both. Picking 'caught a passing Moon' was an old idea, but a captured Moon would probably be made of different rock.
+12. (mcq) Eid al-Fitr starts when people see something in the evening sky. What do they look for?  
+   Options: The first thin crescent Moon after the new Moon / A full Moon / A lunar eclipse  
+   **Answer:** The first thin crescent Moon after the new Moon. *Why:* Eid begins a new Moon month, and the Islamic calendar starts each month with the first sighting of the new crescent just after sunset. That is why Eid's date moves about 11 days earlier each year. Picking 'full Moon' mixes it up with Purnima festivals.
+13. (mcq) The Earth has a big iron centre. The Moon has only a tiny one. How does the giant crash idea explain this?  
+   Options: The crash splashed out mostly the Earth's outer rock, and the iron stayed deep inside the Earth / The Moon's iron melted away / The Moon was made of iron, and it rusted  
+   **Answer:** The crash splashed out mostly the Earth's outer rock, and the iron stayed deep inside the Earth. *Why:* Iron is heavy, so in the young Earth it had sunk to the centre. A crash that splashed out the outer rock would make a Moon with very little iron. A captured Moon from somewhere else would have no reason to be so poor in iron.
 14. (mcq) What do scientists still argue about?  
    Options: Whether the Moon formed in years or in hours, from one crash or many / Whether the Moon goes round the Earth / Whether moonlight is sunlight  
    **Answer:** Whether the Moon formed in years or in hours, from one crash or many. *Why:* The Moon going round us, and moonlight being sunlight, are settled. The details of the Moon's birth are still argued about, using computer models and rock clues.
@@ -779,9 +779,9 @@ Slowly, the shadow slid away, exactly as it had slid across the bronze mirror in
 16. (mcq) Wang Zhenyi explained lunar eclipses with a model. What did she use for the Earth?  
    Options: A round table / A mirror / A lamp  
    **Answer:** A round table. *Why:* The round table was the Earth, the lamp was the Sun and the mirror was the Moon. The table's round shadow fell on the mirror, as the Earth's shadow falls on the Moon.
-17. (mcq) Which of these keeps time by the Moon?  
-   Options: Corals that release their eggs together after a full Moon / Pebbles on a riverbank / Plastic toys  
-   **Answer:** Corals that release their eggs together after a full Moon. *Why:* Many corals spawn together on a few nights after a full Moon each year. Dung beetles also steer by moonlight. Pebbles and toys have no body clock that follows the Moon.
+17. (mcq) Which of these living beings really time their lives by the Moon?  
+   Options: Red crabs on Christmas Island, who release their eggs into the sea at a set phase of the Moon / Mango trees, who flower on every full Moon / Sunflowers, who turn to face the Moon at night  
+   **Answer:** Red crabs on Christmas Island, who release their eggs into the sea at a set phase of the Moon. *Why:* Millions of red crabs walk to the sea and release their eggs when the Moon is in its last quarter, when the tides change least. Many corals also release eggs together after a full Moon. Mango trees and sunflowers do not follow the Moon in these ways.
 
 ## Applications
 - Calendars in India and many other places count months by the Moon, and set festival dates by its tithis.

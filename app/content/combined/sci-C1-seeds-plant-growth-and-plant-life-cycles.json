@@ -4,14 +4,14 @@
  "subj": "sci",
  "level": 1,
  "n": "seeds-plant-growth-and-plant-life-cycles",
- "title": "Seeds wake up: water, roots first, and the circle of life",
+ "title": "How a seed sprouts and grows into a plant",
  "source": "DeepKids Combined. Covers Cambridge Stage 1 Biology, Growing seeds (Unit 2.2): seeds grow into plants, seeds need water to grow, the root grows first. Goes wider: what is inside a seed, seeds resting for years, small seeds and big trees, saving seeds. No textbook needed.",
- "summary": "Your child finds that the dal and rajma in the kitchen are alive, resting inside their coats with a packed lunch. They open a soaked bean to find the baby plant, test whether seeds need water, watch the root push out first through a glass jar window, line up seeds from a mustard grain to a mango stone, plant their own, and close the circle: seed, seedling, plant, flower, fruit, seed again.",
- "builds_on": "This is the first seeds rung. It sits beside the Class 1 plants rung (parts of a plant, plants and light, roots growing down). In Class 3 your child finds out how warmth and cold change how fast seeds sprout and plants grow. In Class 5 they follow the whole life cycle of a flowering plant: pollination, fruits, how seeds travel and exactly what a seed needs to germinate.",
+ "summary": "A dry moong seed looks like a tiny stone, but they are alive. Inside the coat is a baby plant and a store of food. Your child opens a soaked bean, tests whether seeds need water, watches the root come out first through the side of a glass jar, lines up seeds from a mustard seed to a mango stone, plants their own, and draws the life cycle: seed, seedling, plant, flower, fruit, seed again.",
+ "builds_on": "This is the first seeds lesson. It sits beside the Class 1 plants lesson (parts of a plant, plants and light, roots growing down). In Class 3 your child finds out how warmth and cold change how fast seeds sprout. In Class 5 they follow the whole life cycle of a flowering plant: pollination, fruits and how seeds travel.",
  "goals": [
-  "By the end your child can say that a seed is alive and holds a baby plant, its food and a coat.",
+  "By the end your child can say that a seed is alive and holds a baby plant and a food store, inside a coat.",
   "By the end your child can show, with their own test, that seeds need water to start growing.",
-  "By the end your child can say that the root comes out of the seed first, and why that helps.",
+  "By the end your child can say that the root comes out of the seed first, and why that helps the seedling.",
   "By the end your child can match five seeds to the plants they grow into, and say that a tiny seed can make a huge tree.",
   "By the end your child can plant a seed and look after the seedling for two weeks.",
   "By the end your child can draw the circle: seed, seedling, plant, flower, fruit, seed."
@@ -19,7 +19,7 @@
  "words": [
   [
    "seed",
-   "a baby plant with its packed lunch, inside a coat, waiting to grow"
+   "a baby plant with a store of food, inside a tough coat"
   ],
   [
    "seed coat",
@@ -27,11 +27,11 @@
   ],
   [
    "germinate",
-   "when a seed wakes up and starts to grow"
+   "to start growing: the seed swells, splits the coat and sends out a root"
   ],
   [
    "root",
-   "the first part to come out of a seed; it holds on and drinks"
+   "the first part to come out of a seed. The root holds the plant in place and takes in water."
   ],
   [
    "shoot",
@@ -39,19 +39,19 @@
   ],
   [
    "seedling",
-   "a very young plant just out of its seed"
+   "a very young plant just out of the seed"
   ],
   [
    "seed leaves",
-   "the first fat leaves, which are the seed's packed lunch"
+   "the two thick halves inside a bean. They hold the food the baby plant uses first."
   ],
   [
    "dormant",
-   "resting, alive but asleep, waiting for the right time"
+   "resting: alive, but waiting for the right time to grow"
   ],
   [
    "life cycle",
-   "the circle a living thing goes round: born, grows, makes babies"
+   "the stages a living being goes through, from a start to making young, again and again"
   ]
  ],
  "subconcepts": [
@@ -59,9 +59,9 @@
   "seeds are alive but resting (dormant)",
   "seeds drink water and swell",
   "seeds need water to germinate",
-  "seeds need air too: drowned seeds do badly",
+  "seeds need air too: seeds kept under water do badly",
   "the root comes out first, then the shoot",
-  "the seedling lives on its packed lunch until its leaves make food",
+  "the seedling lives on the food in the seed leaves until the green leaves make food",
   "seeds come from fruits",
   "a tiny seed can grow into a huge tree",
   "many of our foods are seeds",
@@ -80,29 +80,29 @@
      "kind": "warmup",
      "title": "Kitchen seed hunt",
      "mins": 8,
-     "do": "Give your child a plate and 5 minutes to find seeds in the kitchen: moong, rajma, chana, rice, wheat, jeera, rai (mustard), methi, saunf, a peanut, a seed from a fruit. Put a pinch of each on the plate. Ask: 'Are these alive? They don't move or eat or grow. How could we find out?' Accept every answer; say: 'Let's be scientists and test it.'"
+     "do": "Give your child a plate and 5 minutes to find seeds in the kitchen: moong, rajma, chana, rice, wheat, jeera, mustard seeds, methi, a raw peanut, a seed from a fruit. Put a pinch of each on the plate. Ask: 'Are these alive? They don't move or eat or grow. How could we find out?' Accept every answer. Say: 'Let us test it.'"
     },
     {
      "kind": "exp",
      "title": "Set up the water test",
      "mins": 15,
-     "do": "Do Experiment e1 with your child: three cups of moong seeds, one on dry cotton, one on damp cotton, one with the seeds completely under water. Your child puts a sticker on each cup: DRY, DAMP, DROWNED. Ask: 'Which cup do you think will grow? Why?' Draw a smiley or a sad face on each sticker for the guess.",
+     "do": "Do Experiment e1 with your child: three cups of moong seeds, one on dry cotton, one on damp cotton, and one with the seeds completely under water. Your child puts a label on each cup: DRY, DAMP, UNDER WATER. Ask: 'Which cup do you think will grow? Why?' Draw a smiley or a sad face on each label for the guess.",
      "ref": "e1"
     },
     {
      "kind": "talk",
      "title": "What is a seed?",
      "mins": 7,
-     "do": "Hold up one rajma bean. Say: 'Inside this coat is a baby plant, curled up, and its packed lunch. It is alive, but it is resting. Scientists call that dormant. It can wait like this for months, or even years.' Ask: 'What do you think will wake it up?' (Listen; tomorrow you'll open one.)"
+     "do": "Hold up one rajma bean. Say: 'Inside this coat is a baby plant, curled up, with a store of food. The bean is alive, but resting. Scientists call this dormant. Seeds can rest like this for months, or even years.' Ask: 'What do you think will start the seed growing?' Listen. Tomorrow you will open one."
     }
    ],
    "need": [
     "a plate",
     "seeds from the kitchen",
     "30 moong seeds",
-    "3 small cups or katoris",
+    "3 small cups or steel bowls",
     "cotton wool",
-    "stickers or tape and a pen"
+    "labels or tape and a pen"
    ],
    "prep": [
     {
@@ -114,32 +114,32 @@
   {
    "n": 2,
    "title": "Open a seed",
-   "goal": "See the baby plant and the packed lunch inside a seed, and meet the story.",
+   "goal": "See the baby plant and the food store inside a seed, and read the story.",
    "steps": [
     {
      "kind": "warmup",
      "title": "Fat and thin",
      "mins": 5,
-     "do": "Put a dry rajma next to a soaked one. Ask: 'What changed?' (The soaked one is bigger, smoother and softer; its skin may be wrinkly.) 'Where did the extra come from?' (It drank water.) Measure them both against a ruler or a strip of paper."
+     "do": "Put a dry rajma next to a soaked one. Ask: 'What changed?' (The soaked one is bigger, smoother and softer.) 'Why is the soaked bean bigger?' (The bean took in water.) Measure both beans against a strip of paper."
     },
     {
      "kind": "act",
      "title": "Inside a bean",
      "mins": 12,
-     "do": "Do Activity a1: your child peels the coat off a soaked rajma and splits it gently into two halves with a fingernail. With a hand lens if you have one, find the tiny baby plant tucked at one edge: a little root that looks like a beak and two tiny folded leaves. Say: 'The two big halves are the packed lunch. The baby plant will eat it while it grows, until it has its own green leaves.' Your child draws it and labels coat, lunch, baby plant.",
+     "do": "Do Activity a1: your child peels the coat off a soaked rajma and gently splits the bean into two halves with a fingernail. With a hand lens if you have one, find the tiny baby plant tucked at one edge: a little pointed root and two tiny folded leaves. Say: 'The two big halves are the seed leaves. They hold the food store. The baby plant uses this food to grow, until the green leaves can make food.' Your child draws the bean and labels coat, food store, baby plant.",
      "ref": "a1"
     },
     {
      "kind": "read",
      "title": "Story: The Ant Who Carried Seeds to the Sun",
      "mins": 10,
-     "do": "Read the story aloud. Don't explain it. Ask the story's questions, especially: 'Why did the old ant carry the wet seeds out into the sun?' and 'What came out of the forgotten seed first?'"
+     "do": "Read the story aloud. Don't explain it. Then ask the story's questions, especially: 'Why did the old ant carry the wet seeds out into the sun?' and 'What came out of the forgotten seed first?'"
     },
     {
      "kind": "review",
      "title": "Check the cups",
      "mins": 3,
-     "do": "Look at the three cups from Experiment e1. Add a few drops of water to the DAMP cup if the cotton is drying. Ask: 'Has anything changed yet?' (The damp and drowned seeds may already look fatter.)"
+     "do": "Look at the three cups from Experiment e1. Add a few drops of water to the DAMP cup if the cotton is drying. Ask: 'Has anything changed yet?' (The damp seeds and the seeds under water may already look fatter.)"
     }
    ],
    "need": [
@@ -152,32 +152,32 @@
   {
    "n": 3,
    "title": "The root comes first",
-   "goal": "Watch through glass as seeds wake up, root first.",
+   "goal": "Watch through glass as seeds start to grow, root first.",
    "steps": [
     {
      "kind": "review",
      "title": "Cup check",
      "mins": 5,
-     "do": "Look closely at the three cups of Experiment e1. Ask: 'Which seeds have split their coats? What is poking out?' (A small white tail: the root.) Your child draws one seed from each cup."
+     "do": "Look closely at the three cups of Experiment e1. Ask: 'Which seeds have split their coats? What is poking out?' (A small white tip: the root.) Your child draws one seed from each cup."
     },
     {
      "kind": "exp",
      "title": "The seed window",
      "mins": 10,
-     "do": "Set up Experiment e2: push 4 soaked rajma or chana between wet paper towel and the side of a clear jar so you can watch them. Ask: 'When this seed wakes up, which part do you think will come out first: the root or the shoot? Why?' Write the guess on a strip of tape on the jar.",
+     "do": "Set up Experiment e2: push 4 soaked rajma or chana between wet paper towel and the side of a clear jar, so you can watch them. Ask: 'When the seed starts to grow, which part will come out first: the root or the shoot? Why?' Write the guess on a strip of tape on the jar.",
      "ref": "e2"
     },
     {
      "kind": "talk",
      "title": "Why the root goes first",
      "mins": 5,
-     "do": "Ask: 'If you were a baby plant just waking up, what would you need first?' Help with: 'Something to hold on with, so the rain doesn't wash you away, and something to drink with.' Say: 'That's why the root comes out first. It holds on and starts drinking. Only then does the shoot go up to find the light.'"
+     "do": "Ask: 'If you were a baby plant just starting to grow, what would you need first?' Help with: 'Something to hold on with, so the rain doesn't wash you away, and something to take in water.' Say: 'That is why the root comes out first. The root holds on and takes in water. Then the shoot grows up to find the light.'"
     },
     {
      "kind": "ws",
-     "title": "Seeds wake up",
+     "title": "Seeds start to grow",
      "mins": 10,
-     "do": "Do Worksheet ws1 together. Read each question aloud. Your child points or says the answer; you write the 'why' answers in their words.",
+     "do": "Do Worksheet ws1 together. Read each question aloud. Your child points to or says the answer, and you write the 'why' answers in their words.",
      "ref": "ws1"
     }
    ],
@@ -202,27 +202,27 @@
      "kind": "review",
      "title": "Jar window",
      "mins": 4,
-     "do": "Look at the jar from Experiment e2. Was your guess right? Ask: 'Which way is the root growing? Which way is the shoot?' (Root down, shoot up, even though nobody told them.) Draw the jar."
+     "do": "Look at the jar from Experiment e2. Was your guess right? Ask: 'Which way is the root growing? Which way is the shoot?' (Root down, shoot up, whichever way the seed was lying.) Draw the jar."
     },
     {
      "kind": "act",
      "title": "Seed line-up",
      "mins": 10,
-     "do": "Do Activity a2: line up seeds from smallest to biggest: rai, jeera, methi, moong, chana, rajma, a peanut, a tamarind seed, a jamun or mango stone, and a coconut if you have one. Then say: 'A banyan tree, the biggest tree in the lane, grows from a seed smaller than a rai grain. Where does all that tree come from, if not from the seed?' (From water, air and sunlight, cooked in its leaves, over many years. The seed is only the start.)",
+     "do": "Do Activity a2: line up seeds from smallest to biggest: mustard, jeera, methi, moong, chana, rajma, a peanut, a tamarind seed, a jamun or mango stone, and a coconut if you have one. Then say: 'A banyan tree grows from a seed smaller than a mustard seed.' Ask: 'Where does all that tree come from, if not from the seed?' Listen. (Mostly from air and water. The leaves join them into food using sunlight, over many years. The seed is only the start.)",
      "ref": "a2"
     },
     {
      "kind": "game",
      "title": "Play Seed to Seed",
      "mins": 13,
-     "do": "Play the board game (g1). On each square your child says what is happening to the plant. When you land on 'Flower makes fruit', ask: 'What is inside the fruit?' (New seeds.)",
+     "do": "Play the board game g1. On each square your child says what is happening to the plant. When you land on 'Flower makes fruit', ask: 'What is inside the fruit?' (New seeds.)",
      "ref": "g1"
     },
     {
      "kind": "talk",
      "title": "Seeds that slept for 140 years",
      "mins": 3,
-     "do": "Tell your child about voice v1: a scientist buried bottles of seeds in 1879, and some still sprouted more than 140 years later. Ask the voice's question.",
+     "do": "Tell your child about voice v1: a scientist buried bottles of seeds in 1879, and some seeds still sprouted more than 140 years later. Ask the voice's question.",
      "ref": "v1"
     }
    ],
@@ -241,25 +241,25 @@
      "kind": "review",
      "title": "Water test results",
      "mins": 6,
-     "do": "Look at the three cups of Experiment e1 together and count how many seeds sprouted in each. Write the numbers on the stickers. Ask: 'Which cup grew? Which didn't?' (DRY: none; DAMP: most, with roots and shoots; DROWNED: some swelled, but fewer grew well, and some may smell.) 'So what do seeds need to wake up?' (Water. And air too: the drowned seeds couldn't breathe.)"
+     "do": "Look at the three cups of Experiment e1 together and count how many seeds sprouted in each. Write the numbers on the labels. Ask: 'Which cup grew? Which didn't?' (DRY: none. DAMP: most, with roots and shoots. UNDER WATER: the seeds swelled, but fewer grew well, and some may smell.) 'So what do seeds need to start growing?' (Water. And air too: seeds under water get very little air.)"
     },
     {
      "kind": "do",
      "title": "Project: grow your own",
      "mins": 12,
-     "do": "Start the project: your child fills two small pots or cut-open milk packets (with a hole poked in the bottom) with soil, makes a hole as deep as the top of their finger, drops in 3 methi or mustard seeds, covers them, and waters gently. Label with name and date. Ask: 'Does the seed need light to wake up?' (Most don't: they are under the soil in the dark. The seedling needs light once it pokes out.)"
+     "do": "Start the project: your child fills two small pots or cut-open milk packets (with a hole poked in the bottom) with soil. They make a hole as deep as the top of their finger, drop in 3 methi or mustard seeds, cover them and water gently. Label each pot with name and date. Ask: 'Does the seed need light to start growing?' (Most seeds don't. They sprout under the soil, in the dark. The seedling needs light once the shoot comes up.)"
     },
     {
      "kind": "act",
      "title": "Seeds from fruit",
      "mins": 7,
-     "do": "Cut a tomato and a papaya or a lemon. Your child scoops out the seeds and counts them roughly. Ask: 'Where do seeds come from?' (From fruits, which grow from flowers.) 'One tomato has so many seeds. Why do plants make so many?' (Many will be eaten or land in the wrong place; a few will grow.) Spread some tomato seeds on paper to dry for saving."
+     "do": "A grown-up cuts a tomato and a papaya or a lemon. Your child scoops out the seeds and counts them roughly. Ask: 'Where do seeds come from?' (From fruits, which grow from flowers.) 'One tomato has so many seeds. Why does a plant make so many?' (Many seeds are eaten or land in the wrong place. Only a few grow.) Spread some tomato seeds on paper to dry for saving."
     },
     {
      "kind": "talk",
      "title": "The seed mother",
      "mins": 5,
-     "do": "Tell your child about voice v2, Rahibai Soma Popere, a farmer in Maharashtra who saves and shares old kinds of seeds. Ask: 'Why save your own seeds when you could buy new ones?'",
+     "do": "Tell your child about voice v2: Rahibai Soma Popere, a farmer in Maharashtra who saves and shares old kinds of seeds. Ask: 'Why save your own seeds when you could buy new ones?'",
      "ref": "v2"
     }
    ],
@@ -280,20 +280,20 @@
      "kind": "review",
      "title": "Pot check",
      "mins": 5,
-     "do": "Look at the planted pots. Has anything come up? Look at the seedlings in the jar: the two fat halves of the rajma are shrinking and going wrinkly. Ask: 'Why are the halves getting smaller?' (The baby plant is eating its packed lunch.) 'What will it eat when the lunch is finished?' (Its green leaves will make food from sunlight.)"
+     "do": "Look at the planted pots. Has anything come up? Look at the seedlings in the jar: the two thick halves of the rajma are shrinking and going wrinkly. Ask: 'Why are the halves getting smaller?' (The baby plant is using up the food store.) 'What will the plant live on when the food is used up?' (Food the green leaves make from sunlight.)"
     },
     {
      "kind": "act",
      "title": "Life cycle wheel",
      "mins": 12,
-     "do": "Do Activity a3: make a paper-plate wheel with five pictures: seed, seedling, young plant, flowering plant, fruit with seeds, and an arrow back to the seed. Your child turns the wheel and tells the story of a plant's life. Ask: 'Where does the circle start?' (Anywhere: it is a circle. Which came first, the seed or the plant, is a fun puzzle.)",
+     "do": "Do Activity a3: make a paper-plate wheel with five pictures: seed, seedling, young plant, flowering plant, and fruit with seeds, with an arrow back to the seed. Your child turns the wheel and tells the story of a plant's life. Ask: 'Where does the circle start?' (Anywhere, because it is a circle.)",
      "ref": "a3"
     },
     {
      "kind": "think",
      "title": "Can roots hear?",
      "mins": 5,
-     "do": "Tell your child about voice v3: a scientist found pea roots grew towards the sound of water running in a pipe. Ask: 'Do you believe roots can hear? What would you need to see to be sure?'",
+     "do": "Tell your child about voice v3: scientists found that pea roots grew towards the sound of water running in a pipe. Ask: 'Do you believe roots can hear? What would you need to see to be sure?'",
      "ref": "v3"
     },
     {
@@ -319,13 +319,13 @@
      "kind": "review",
      "title": "Seedling show",
      "mins": 6,
-     "do": "Put out everything: the three water-test cups, the jar of seedlings, the planted pots, the seed line-up and the life cycle wheel. Your child measures the tallest seedling in a pot with a paper strip and sticks it in their notebook. Ask: 'What did the seeds teach us?'"
+     "do": "Put out everything: the three water-test cups, the jar of seedlings, the planted pots, the seed line-up and the life cycle wheel. Your child measures the tallest seedling in a pot with a paper strip and sticks the strip in their notebook. Ask: 'What did the seeds teach us?'"
     },
     {
      "kind": "think",
      "title": "Big questions",
      "mins": 6,
-     "do": "Ask one challenge question: 'People say seeds need sunlight to sprout. Did ours?' (Ours sprouted in a jar and under soil; most seeds sprout in the dark and need light only once they are seedlings.) Then a big question: 'Is a seed in a packet alive? How can you tell?'"
+     "do": "Ask: 'People say seeds need sunlight to sprout. Did ours?' (Ours sprouted in a jar and under soil. Most seeds sprout in the dark and need light only once they are seedlings.) Then ask: 'Is a seed in a packet alive? How can you tell?'"
     },
     {
      "kind": "check",
@@ -351,7 +351,7 @@
   {
    "id": "ws1",
    "tier": "core",
-   "title": "Seeds wake up",
+   "title": "Seeds start to grow",
    "day": 3,
    "sections": [
     [
@@ -370,7 +370,7 @@
          "grows into a new plant"
         ],
         [
-         "packed lunch (the two halves)",
+         "seed leaves (the two halves)",
          "food for the baby plant"
         ]
        ]
@@ -379,15 +379,15 @@
        "t": "mcq",
        "p": "What happened when we soaked a rajma bean?",
        "opts": [
-        "it got smaller",
-        "it got bigger and softer",
-        "it turned green"
+        "the bean got smaller",
+        "the bean got bigger and softer",
+        "the bean turned green"
        ],
        "a": 1
       },
       {
        "t": "fill",
-       "p": "When a seed wakes up and starts to grow, we say it ____.",
+       "p": "When a seed starts to grow, we say the seed ____.",
        "a": [
         "germinates",
         "germinate",
@@ -398,9 +398,9 @@
        "t": "mcq",
        "p": "Is a dry moong seed alive?",
        "opts": [
-        "yes, it is resting",
-        "no, it is like a stone",
-        "only if it is green"
+        "yes, the seed is resting",
+        "no, the seed is like a stone",
+        "only if the seed is green"
        ],
        "a": 0
       }
@@ -457,7 +457,7 @@
       },
       {
        "t": "write",
-       "p": "Which cup do you think will grow best, and why?",
+       "p": "Look at the three cups: dry, damp and under water. Which cup do you think will grow best? Why?",
        "lines": 2
       }
      ]
@@ -486,24 +486,24 @@
          "most seeds grew roots and shoots"
         ],
         [
-         "DROWNED",
-         "fewer grew; they had no air"
+         "UNDER WATER",
+         "fewer grew, because they got very little air"
         ]
        ]
       },
       {
        "t": "mcq",
-       "p": "What do seeds need to wake up?",
+       "p": "What do seeds need to start growing?",
        "opts": [
         "water and air",
-        "sweets",
-        "loud music"
+        "only bright sunlight",
+        "nothing at all"
        ],
        "a": 0
       },
       {
        "t": "mcq",
-       "p": "Our seeds sprouted in a dark jar and under soil. So to wake up, most seeds…",
+       "p": "Our methi seeds sprouted under the soil, where it is dark. So to start growing, most seeds…",
        "opts": [
         "need bright sunlight",
         "don't need light yet",
@@ -518,7 +518,7 @@
      [
       {
        "t": "match",
-       "p": "Match the seed to the plant it grows into.",
+       "p": "Match each seed to the plant that grows from them.",
        "pairs": [
         [
          "mango stone",
@@ -529,7 +529,7 @@
          "coconut palm"
         ],
         [
-         "rai (mustard)",
+         "mustard seed",
          "mustard plant"
         ],
         [
@@ -551,10 +551,10 @@
       },
       {
        "t": "mcq",
-       "p": "Why did the two halves of the rajma shrink as it grew?",
+       "p": "Why did the two halves of the rajma shrink as the seedling grew?",
        "opts": [
-        "the baby plant was eating its packed lunch",
-        "it was cold",
+        "the baby plant was using up the food store",
+        "the room was cold",
         "an ant ate them"
        ],
        "a": 0
@@ -593,17 +593,17 @@
      [
       {
        "t": "write",
-       "p": "Your friend says a seed is dead because it doesn't move or eat. What would you show her to change her mind?",
+       "p": "Lakshmi, a girl in Class 1, says a seed is dead because the seed doesn't move or eat. What would you show Lakshmi to change her mind?",
        "lines": 2
       },
       {
        "t": "write",
-       "p": "Dadi keeps her seeds in a dry tin with neem leaves. Why do you think she keeps them dry?",
+       "p": "Kavya's Paati keeps her seeds in a dry tin with dried neem leaves. Why do you think Paati keeps the seeds dry?",
        "lines": 2
       },
       {
        "t": "write",
-       "p": "How could you find out if a seed needs light to wake up? What would you put where?",
+       "p": "How could you find out if a seed needs light to start growing? What would you put where?",
        "lines": 3
       }
      ]
@@ -633,13 +633,13 @@
       },
       {
        "t": "mcq",
-       "p": "Which grows into the biggest plant?",
+       "p": "Which seed grows into the biggest plant?",
        "opts": [
         "a big rajma bean",
         "a tiny banyan seed",
-        "you can't tell from the size of the seed"
+        "both grow the same size"
        ],
-       "a": 2
+       "a": 1
       }
      ]
     ],
@@ -648,7 +648,7 @@
      [
       {
        "t": "sort",
-       "p": "Will it sprout?",
+       "p": "Will the seed sprout?",
        "items": [
         "moong on damp cotton",
         "moong in a dry tin",
@@ -664,7 +664,7 @@
       },
       {
        "t": "match",
-       "p": "Put the story in order: match the step to its number.",
+       "p": "Put the story of a seed in order: match each step to its number.",
        "pairs": [
         [
          "1",
@@ -687,6 +687,11 @@
          "the first green leaves open"
         ]
        ]
+      },
+      {
+       "t": "write",
+       "p": "Farhan sells bags of new seeds to farmers. Selvi, a farmer, saves her own seeds and shares them. Farhan says: 'My seeds give bigger harvests.' Selvi says: 'My old seeds can survive a dry year.' Who do you agree with? Why? Then say one good reason for the other side.",
+       "lines": 3
       }
      ]
     ]
@@ -696,35 +701,35 @@
  "experiments": [
   {
    "id": "e1",
-   "title": "Dry, damp or drowned?",
+   "title": "Dry, damp or under water?",
    "day": 1,
    "question": "Do seeds need water to start growing? Can they have too much?",
    "need": [
     "30 moong seeds",
-    "3 small cups or katoris",
+    "3 small cups or steel bowls",
     "cotton wool",
     "water",
-    "stickers and a pen"
+    "labels and a pen"
    ],
    "steps": [
     "Put a layer of cotton in each cup and 10 moong seeds on top.",
     "Cup 1, DRY: no water at all.",
     "Cup 2, DAMP: wet the cotton so it is damp but not swimming.",
-    "Cup 3, DROWNED: fill the cup with water so the seeds are completely covered.",
+    "Cup 3, UNDER WATER: fill the cup with water so the seeds are completely covered.",
     "Keep all three cups side by side in the same place.",
     "Look every day for 4 days. Keep cup 2 damp. Count the seeds that have a root."
    ],
-   "predict": "Ask: 'Which cup will grow? Will the drowned cup grow best because it has the most water?'",
+   "predict": "Ask: 'Which cup will grow? Will the cup under water grow best, because the seeds have the most water?'",
    "observe": "How many seeds in each cup swell, split their coats and grow a root and a shoot.",
-   "why": "A seed needs water to wake up: water softens the coat and lets the baby plant start using its packed lunch. Dry seeds stay asleep. But a seed also needs air (oxygen) to get energy from its food, just as we do. Seeds kept under water get very little air, so fewer grow well and some rot. Damp is just right.",
-   "safety": "Throw away any smelly seeds; don't eat seeds used in experiments.",
+   "why": "A seed needs water to start growing. Water softens the coat and lets the baby plant start using the food store. Dry seeds stay resting. A seed also needs air (oxygen) to get energy from the food, just as we do. Seeds under water get very little air, so fewer grow well and some rot. Damp is best.",
+   "safety": "Throw away any smelly seeds. Don't eat seeds used in experiments.",
    "time": "15 min + 4 days"
   },
   {
    "id": "e2",
    "title": "The seed window",
    "day": 3,
-   "question": "Which part comes out of a seed first, and which way does it grow?",
+   "question": "Which part comes out of a seed first, and which way does the root grow?",
    "need": [
     "a clear jar or glass",
     "paper towel",
@@ -733,13 +738,13 @@
    ],
    "steps": [
     "Fold paper towel and line the inside of the jar with it.",
-    "Push the seeds between the towel and the glass, halfway up, in different positions: one lying flat, one on its side, one upside down.",
+    "Push the seeds between the towel and the glass, halfway up, in different positions: one lying flat, one standing up, one upside down.",
     "Pour 2 cm of water into the bottom so the towel stays wet.",
     "Look every day for a week and draw the seeds."
    ],
-   "predict": "Ask: 'Root or shoot first? If a seed is upside down, which way will its root go?'",
-   "observe": "The root comes out first and bends to grow down, whichever way the seed was lying. The shoot comes later and grows up. Watch the two halves shrink as the seedling grows.",
-   "why": "The root comes first so the seedling can hold on and drink before it grows up. Root tips feel gravity and grow towards it; shoots grow away from it. The seedling lives on the food in its seed leaves until its first green leaves can make food from sunlight.",
+   "predict": "Ask: 'Root or shoot first? If a seed is upside down, which way will the root go?'",
+   "observe": "The root comes out first and bends to grow down, whichever way the seed was lying. The shoot comes later and grows up. The two halves shrink as the seedling grows.",
+   "why": "The root comes first, so the seedling can hold on and take in water before the shoot grows up. Root tips sense gravity and grow towards it. Shoots grow away from it. The seedling lives on the food in the seed leaves until the first green leaves can make food from sunlight.",
    "safety": "",
    "time": "10 min + 1 week"
   }
@@ -758,9 +763,9 @@
    ],
    "steps": [
     "Rub a soaked bean between your fingers until the coat slips off.",
-    "Find the line along the bean and gently split it into two halves with a fingernail.",
+    "Find the line along the bean and gently split the bean into two halves with a fingernail.",
     "Look at the edge of one half for the tiny baby plant: a little pointed root and two tiny folded leaves.",
-    "Draw what you see, big, and label: coat, packed lunch, baby plant.",
+    "Draw what you see, big, and label: coat, food store, baby plant.",
     "Try a soaked peanut too: the baby plant is easy to see at the tip."
    ],
    "outcome": "A labelled drawing of the inside of a seed."
@@ -771,14 +776,14 @@
    "day": 4,
    "mins": 10,
    "need": [
-    "seeds of many sizes: rai, jeera, methi, moong, chana, rajma, peanut, tamarind seed, a mango or jamun stone, a coconut if you have one",
+    "seeds of many sizes: mustard, jeera, methi, moong, chana, rajma, peanut, tamarind seed, a mango or jamun stone, a coconut if you have one",
     "a long strip of paper"
    ],
    "steps": [
     "Lay the paper strip on the floor.",
     "Your child lines the seeds up from smallest to biggest.",
-    "Next to each seed, draw or name the plant it grows into.",
-    "Talk about the surprise: the size of the seed does not tell you the size of the plant. A banyan or peepal seed is smaller than a rai grain."
+    "Next to each seed, draw or name the plant that grows from that seed.",
+    "Talk about the surprise: the size of the seed does not tell you the size of the plant. A banyan or peepal seed is smaller than a mustard seed."
    ],
    "outcome": "A seed line-up from smallest to biggest, with the plants they grow into."
   },
@@ -798,7 +803,7 @@
     "In each part draw: a seed, a seedling with two seed leaves, a young plant, a plant with a flower, a fruit with seeds inside.",
     "Cut a window the size of one part out of the second plate.",
     "Pin the plates together through the middle so the top plate turns.",
-    "Turn the wheel and tell the story; after the fruit, the wheel comes back to the seed."
+    "Turn the wheel and tell the story. After the fruit, the wheel comes back to the seed."
    ],
    "outcome": "A turning wheel that shows a plant's life cycle as a circle."
   }
@@ -833,7 +838,7 @@
    "Roll the die and move.",
    "Read the square aloud and say what is happening to the plant and why.",
    "Do what the square says.",
-   "The first player to reach NEW SEEDS wins, and then starts again: it's a circle!"
+   "The first player to reach NEW SEEDS wins. Then everyone starts again, because a life cycle is a circle."
   ],
   "squares": [
    "START: a dry seed in a tin",
@@ -845,7 +850,7 @@
    "Planted too deep, can't reach the light: miss a turn",
    "The shoot pokes up: +1",
    "A bird pecks you: back 2",
-   "Using your packed lunch: +1",
+   "Using the food store: +1",
    "Soil is soggy, no air: back 1",
    "First green leaves open in the sun: +2",
    "A goat nibbles you: back 3",
@@ -860,36 +865,36 @@
  },
  "big": [
   "Is a seed in a packet alive? How can you tell?",
-  "How does a seed know when it's time to wake up?",
+  "How does a seed know when the time has come to start growing?",
   "Which came first, the seed or the plant?",
   "Who should own seeds: the farmer who saves them, the company that sells them, or everyone?"
  ],
  "challenge": [
   {
    "q": "People often say seeds need sunlight to sprout. Is that true?",
-   "hint": "Most seeds sprout in the dark, under the soil, using their packed lunch; ours sprouted in a jar and under soil. They need light only once the seedling comes up and must make its own food. A few kinds, like lettuce, do need a little light to wake. Ask: how could you test one kind of seed?"
+   "hint": "Most seeds sprout in the dark, under the soil, using their food store. Ours sprouted in a jar and under soil. They need light only once the seedling comes up and must make food. A few kinds, like lettuce, need a little light to start. Ask: how could you test one kind of seed?"
   },
   {
    "q": "A bigger seed makes a bigger plant. Right?",
-   "hint": "No. A banyan or peepal seed is tiny, yet the tree can be enormous; a big bean grows into a small plant. The seed is only the start: the plant builds itself over years from water, air and sunlight."
+   "hint": "No. A banyan or peepal seed is tiny, yet the tree can be enormous. A big bean grows into a small plant. The seed is only the start: the plant builds their body over years from water, air and sunlight."
   },
   {
-   "q": "A seed doesn't move, eat or breathe, so it must be dead.",
-   "hint": "A resting seed breathes very, very slowly, and wakes up when it gets water and warmth. Seeds buried in bottles in 1879 still sprouted over 140 years later. Ask: what does 'alive' really mean?"
+   "q": "A seed doesn't move, eat or breathe, so a seed must be dead. Is that true?",
+   "hint": "A resting seed breathes very, very slowly, and starts growing when they get water and warmth. Seeds buried in bottles in 1879 still sprouted over 140 years later. Ask: what does 'alive' really mean?"
   }
  ],
  "perspectives": [
   {
    "who": "A harvester ant",
-   "view": "Some ants collect seeds and store them in their underground nests as food for the dry season. To an ant, a seed is a store of food; to a farmer it is next year's crop; to the seed it is its whole life. Ask: who is right about what a seed is for?"
+   "view": "Some ants collect seeds and store them in their underground nests as food for the dry season. To an ant, a seed is food. To a farmer, a seed is next year's crop. To the seed, the seed is a whole life. Ask: who is right about what a seed is for?"
   },
   {
    "who": "A woman farmer who saves seeds",
-   "view": "In many Indian villages, women choose the best seeds from each harvest and keep them in clay pots or tins, often with dried neem leaves to keep insects away, then share them with neighbours. Ask: why might sharing seeds be better than keeping them all for yourself?"
+   "view": "In many Indian villages, women choose the best seeds from each harvest and keep them in clay pots or tins, often with dried neem leaves to keep insects away. They share them with neighbours. Ask: why might sharing seeds be better than keeping them all for yourself?"
   },
   {
    "who": "A bulbul eating a ripe fruit",
-   "view": "The bird gets a sweet meal and drops the seed far away, where it may grow into a new tree. Ask: is the bird stealing the fruit, or being paid for a job?"
+   "view": "The bird gets a sweet meal and drops the seed far away, where the seed may grow into a new tree. Ask: is the bird taking the fruit, or doing the tree a service?"
   }
  ],
  "voices": [
@@ -906,7 +911,7 @@
   {
    "id": "v2",
    "who": "Rahibai Soma Popere, a farmer in Ahmednagar district, Maharashtra, India",
-   "idea": "A farmer from a tribal community who did not go to school, she began collecting, growing and sharing old local kinds of seeds, worried that her community's old crops were disappearing as people switched to bought seeds. She built a seed bank with many local kinds of rice, beans and vegetables, and teaches other farmers to save seeds.",
+   "idea": "She is from a tribal community and did not go to school. She began collecting, growing and sharing old local kinds of seeds, because her community's old crops were disappearing as people switched to bought seeds. She built a seed bank with many local kinds of rice, beans and vegetables, and teaches other farmers to save seeds.",
    "then": "Many farmers around her had switched to bought seeds that gave bigger harvests, and old varieties were being lost.",
    "now": "She is called the 'Seed Mother' and received the Padma Shri, one of India's highest awards, in 2020. Scientists agree that keeping many kinds of seeds alive matters, because some may survive droughts, floods or diseases that others can't. People still debate how much farmers should rely on bought seeds and how much on saved ones.",
    "status": "accepted",
@@ -915,9 +920,9 @@
   },
   {
    "id": "v3",
-   "who": "Monica Gagliano and colleagues, University of Western Australia (study published 2017)",
+   "who": "Monica Gagliano and colleagues, University of Western Australia (study published in 2017)",
    "idea": "They grew pea seedlings in Y-shaped pots. When water ran through a pipe under one arm (so the soil stayed dry, but the sound of water was there), more roots grew towards that side. They suggested roots may 'hear' water.",
-   "then": "Some scientists found it exciting; others said one study is not enough and that something other than sound might explain it.",
+   "then": "Some scientists found the study exciting. Others said one study is not enough, and that something other than sound might explain it.",
    "now": "Roots certainly sense moisture and grow towards it. Whether they really use sound is still being tested and argued about.",
    "status": "debated",
    "ask": "What would you need to see, again and again, before you believed that roots can hear?",
@@ -927,8 +932,8 @@
  "story": {
   "title": "The Ant Who Carried Seeds to the Sun",
   "text": [
-   "Under the dry red earth at the edge of a millet field in Rajasthan, there is a city with no lights. Its streets are tunnels, its houses are little round rooms, and its people are ants. I am one of them. My name is Thread, because I am thin and quick, and this is the story of the summer I learned what a seed is.",
-   "Our city lives on seeds. All through the cool months, the oldest ants march out across the field and come home carrying them: millet seeds like tiny pearls, grass seeds like specks of gold, now and then a fat bean that takes four of us to roll. We carry them down to the granaries, the deepest rooms of all, and stack them in heaps. When the hot months come and nothing grows, we eat them, one by one, and we live.",
+   "Under the dry red earth at the edge of a ragi field in Karnataka, there is a city with no lights. Its streets are tunnels, its houses are little round rooms, and its people are ants. I am one of them. My name is Thread, because I am thin and quick, and this is the story of the summer I learned what a seed is.",
+   "Our city lives on seeds. All through the cool months, the oldest ants march out across the field and come home carrying them: ragi seeds like tiny red-brown beads, grass seeds like specks of gold, now and then a fat bean that takes four of us to roll. We carry them down to the granaries, the deepest rooms of all, and stack them in heaps. When the hot months come and nothing grows, we eat them, one by one, and we live.",
    "I had a job that summer. I was a granary ant. I had to keep the heaps tidy and count them, which I did badly, because there were more seeds than I had numbers.",
    "The oldest ant in our granary was called Grandmother Dust. She had a missing leg and a cracked shell and she moved very slowly, but nothing happened in the granary that she did not know about.",
    "One night the rain came. It was the first rain of the year, and it came all at once, roaring on the earth above us like a thousand drums. Water trickled down the tunnels. It seeped into the granary walls. By morning, the heaps of seeds near the wall were dark and damp.",
@@ -938,24 +943,24 @@
    "So we carried. All morning we hauled the damp seeds up the tunnels and laid them out on the warm earth near the entrance, in rows, in the sunshine, while the birds watched us from the thorn bushes. When the seeds were dry, we carried them all back down again. My legs ached. I was cross.",
    "\"Why?\" I asked her that evening. \"They were only a little bit wet.\"",
    "Grandmother Dust looked at me for a long time with her dim old eyes. \"You think a seed is a crumb of food,\" she said. \"Like a grain of sugar. Like a stone.\"",
-   "\"It is food,\" I said.",
-   "\"It is food,\" she agreed. \"And it is asleep.\" And she would not say any more.",
+   "\"A seed is food,\" I said.",
+   "\"Yes, food,\" she agreed. \"And a sleeping plant.\" And she would not say any more.",
    "I thought she was getting muddled, because she was very old.",
-   "But a few days later, in a corner of the granary that we had missed, behind a fallen lump of earth, I found one seed that had not been carried out. It was a bean, a big one, and it had been lying in the damp all that time.",
-   "It had changed. It was fat, much fatter than before, and smooth, as though it had been drinking. Its coat had split down one side. And out of the split, something was coming. Something white and pointed, like a tiny tusk, pushing out into the dark.",
-   "I touched it with my feeler. It was soft and cool, and it was moving. Not fast. Not so you could see it moving, but when I came back an hour later, it was longer. And it had turned. It had bent round, all by itself, and it was pushing its point down, down, into the floor of our granary, as if it knew exactly where it wanted to go.",
-   "I stayed with the bean all night. By morning, the white root was as long as I was, and fine hairs grew from it, and it gripped the earth. Then, from the other end of the bean, a pale hook began to rise, pushing up, up, towards the roof, towards a sky it had never seen.",
-   "I ran to Grandmother Dust. I couldn't make the words come out properly. \"The bean,\" I said. \"It's growing. It's alive. It was alive the whole time. All of them, all the seeds, they're all...\"",
+   "But a few days later, in a corner of the granary that we had missed, behind a fallen lump of earth, I found one seed that had not been carried out. A bean, a big one, who had been lying in the damp all that time.",
+   "The bean had changed. They were fat, much fatter than before, and smooth, as though they had been drinking. Their coat had split down one side. And out of the split, something was coming. Something white and pointed, like a tiny tusk, pushing out into the dark.",
+   "I touched the white tip with my feeler. It was soft and cool, and it was moving. Not so you could see it move, but when I came back an hour later, it was longer. And it had turned. It had bent round, all by itself, and was pushing its point down, down, into the floor of our granary.",
+   "I stayed with the bean all night. By morning, the white root was as long as I was. Fine hairs grew from the root, and gripped the earth. Then, from the other end of the bean, a pale hook began to rise, pushing up, towards the roof, towards a sky the bean had never seen.",
+   "I ran to Grandmother Dust. I couldn't make the words come out properly. \"The bean,\" I said. \"Growing. Alive. Alive the whole time. All of them, all the seeds, they're all...\"",
    "\"Asleep,\" said Grandmother Dust. \"Yes.\"",
-   "\"And water wakes them,\" I said slowly. \"That's why we carry them into the sun. If they stay wet, they wake up. And then they're not food any more. They're plants.\"",
+   "\"And water starts them growing,\" I said slowly. \"That's why we carry them into the sun. If they stay wet, they start to grow. And then they're not food any more. They're plants.\"",
    "Grandmother Dust touched her feeler to mine, gently, the way ants do. \"Now you know what you are carrying,\" she said.",
-   "We could not keep the bean. It was too big and it was growing too fast, and its root was already cracking our granary floor. So that night we dug a tunnel up to the surface beside it, and the shoot found the tunnel and climbed. In the morning, two green leaves opened in the sunlight at the edge of the millet field, right above our city.",
-   "It is a bean plant now, taller than a hundred ants. Its flowers are purple. When its pods dry and split, the beans fall onto the red earth, and we carry them down into the dark, carefully, carefully, because now I know. Every one of them is asleep. Every one of them is waiting for the rain."
+   "We could not keep the bean. The bean was too big and growing too fast, and the root was already cracking our granary floor. So that night we dug a tunnel up to the surface beside the bean, and the shoot found the tunnel and climbed. In the morning, two green leaves opened in the sunlight at the edge of the ragi field, right above our city.",
+   "The bean is a bean plant now, taller than a hundred ants. Their flowers are purple. When their pods dry and split, the beans fall onto the red earth, and we carry them down into the dark, carefully, carefully, because now I know. Every one of them is asleep. Every one of them is waiting for the rain."
   ],
-  "epiphany": "A seed is not a crumb of food or a stone: it is a living baby plant, asleep (dormant), and water wakes it. When it wakes, it swells, splits its coat, and the root comes out first and turns to grow down; then the shoot rises. The turn is Thread finding the forgotten wet bean pushing out its root, and suddenly understanding why Grandmother Dust carried the wet seeds into the sun. Underneath: the same seed is food, a life and a future, depending on who is looking.",
+  "epiphany": "A seed is a living baby plant, resting (dormant), and water starts them growing. The seed swells, splits the coat, and the root comes out first and turns to grow down. Then the shoot rises. The turn is Thread finding the forgotten wet bean pushing out a root, and understanding why Grandmother Dust carried the wet seeds into the sun.",
   "ask": [
    "Why did Grandmother Dust make the ants carry the wet seeds into the sun?",
-   "What came out of the forgotten bean first? Which way did it grow?",
+   "What came out of the forgotten bean first? Which way did the root grow?",
    "What did Thread think a seed was at the start? What did he think at the end?",
    "How is our DAMP cup like the forgotten bean?",
    "Was the bean plant a gift to the ants, or a problem?"
@@ -964,21 +969,21 @@
  "ideas": [
   {
    "idea": "A seed is alive, asleep, and waiting.",
-   "more": "Inside the coat is a whole baby plant with its packed lunch. It breathes so slowly you can't tell. Water wakes it. Show it with the DRY and DAMP cups, side by side."
+   "more": "Inside the coat is a whole baby plant with a food store. A resting seed breathes so slowly you can't tell. Water starts the seed growing. Show this with the DRY and DAMP cups, side by side."
   },
   {
-   "idea": "Roots first, then up to the light.",
-   "more": "A waking seed sends its root out first, to hold on and drink, and the root always turns to grow down. Only then does the shoot rise. Show it in the seed window jar."
+   "idea": "The root comes first, then the shoot.",
+   "more": "A growing seed sends the root out first, to hold on and take in water, and the root always turns to grow down. Then the shoot rises. Show this in the seed window jar."
   },
   {
    "idea": "A plant's life is a circle.",
-   "more": "Seed, seedling, plant, flower, fruit, seed. Every grain of rice on your plate is a seed from that circle, and so is every mango stone. The circle has been turning for hundreds of millions of years."
+   "more": "Seed, seedling, plant, flower, fruit, seed. Every grain of rice on your plate is a seed from this circle, and so is every mango stone. Plants with flowers and fruits have gone round this circle for more than 100 million years."
   }
  ],
  "unknowns": [
-  "How exactly does a seed 'know' the right time to wake? Scientists know it senses water, warmth and sometimes light, but not every detail of how it decides.",
-  "How long can seeds stay alive? Some have sprouted after 140 years in Beal's bottles, and much older ones have been grown too. Nobody knows the real limit, and it is different for every kind of seed.",
-  "Why do some seeds wake up the moment they get wet, while others of the very same plant wait for years? Scientists think it spreads the risk, like not putting all your eggs in one basket, but they are still finding out how it works."
+  "How exactly does a seed sense the right time to start growing? Scientists know seeds sense water, warmth and sometimes light, but not every detail of how they decide.",
+  "How long can seeds stay alive? Some sprouted after more than 140 years in Beal's bottles, and a date palm seed about 2,000 years old was grown in Israel. Nobody knows the real limit, and it is different for every kind of seed.",
+  "Why do some seeds start growing the moment they get wet, while others from the same plant wait for years? Scientists think this means a few seeds are still waiting if one year is bad. They are still finding out how it works."
  ],
  "books": [
   {
@@ -993,14 +998,14 @@
    "author": "Eric Carle",
    "for": "read together",
    "age": "3–7",
-   "why": "One small seed's journey through danger to a giant flower, and its own seeds setting off again: the life cycle as a circle."
+   "why": "One small seed's journey through danger to a giant flower, and their own seeds setting off again: the life cycle as a circle."
   },
   {
    "title": "The Carrot Seed",
    "author": "Ruth Krauss, illustrated by Crockett Johnson",
    "for": "read alone",
    "age": "3–6",
-   "why": "A tiny classic about a child who keeps watering a seed when everyone says it won't come up. About patience and believing in what you can't yet see."
+   "why": "A short classic about a boy who keeps watering a seed when everyone says nothing will come up."
   },
   {
    "title": "Plant the Tiny Seed",
@@ -1013,19 +1018,19 @@
  "check": [
   {
    "q": "What is inside a seed?",
-   "a": "A baby plant and its packed lunch (food), inside a seed coat."
+   "a": "A baby plant and a food store, inside a seed coat."
   },
   {
    "q": "Is a dry moong seed alive? How do you know?",
-   "a": "Yes, it is resting; when we gave it water, it woke up and grew."
+   "a": "Yes, the seed is resting. When we gave the seeds water, they started to grow."
   },
   {
-   "q": "What do seeds need to wake up?",
-   "a": "Water, and air too; most don't need light until they are seedlings."
+   "q": "What do seeds need to start growing?",
+   "a": "Water, and air too. Most seeds don't need light until they are seedlings."
   },
   {
-   "q": "Which part comes out of a seed first? Which way does it grow?",
-   "a": "The root, and it grows down."
+   "q": "Which part comes out of a seed first? Which way does that part grow?",
+   "a": "The root comes out first, and the root grows down."
   },
   {
    "q": "Where do seeds come from?",

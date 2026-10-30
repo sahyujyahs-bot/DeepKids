@@ -693,8 +693,8 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
    **Answer:** a steel tumbler → Again and again, without getting weaker; an aluminium can → Again and again, without getting weaker; a glass bottle → Again and again, without getting weaker; a newspaper → Only a few times; a PET water bottle → Only a few times; a chips packet made of plastic and foil layers stuck together → Hardly at all. *Why:* Metal and glass can be melted and remade almost for ever. Paper fibres get shorter each time, and recycled PET usually becomes fibre that is hard to recycle again. A chips packet has layers of plastic and metal that cannot easily be pulled apart.
 11. (truefalse) Waste pickers do a large part of India's recycling.  
    **Answer:** True. *Why:* True. Waste pickers, many of them women, collect and sort huge amounts of paper, plastic, glass and metal that others threw out.
-12. (truefalse) A bag labelled 'biodegradable' always rots away quickly in soil.  
-   **Answer:** False. *Why:* False. In a 2019 test, some 'biodegradable' bags could still carry shopping after three years in soil or the sea.
+12. (truefalse) Melting down a glass bottle and making a new one uses less energy than washing the old bottle and filling it again.  
+   **Answer:** False. *Why:* False. Melting glass needs a furnace hotter than 1,000 degrees. Washing a bottle needs only water and a little heat. That is why reusing comes before recycling: the thing is used again as it is, and nothing has to be made again.
 13. (match) Match each old way of reuse or repair to what it is.  
    **Answer:** Kantha → a quilt made from old saris; Rafoogar → a mender who weaves thread into holes; Kulhad → a clay cup that goes back to the earth; Kintsugi → mending pots with gold in Japan. *Why:* These are old ways of making things last, or making things that return to the soil.
 14. (write) Your family's dry waste bag is full of chips packets and thin wrappers. The kabadiwala won't buy them. What could your family do?  
@@ -719,9 +719,8 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
    **Answer:** ['downcycling', 'downcycle']. *Why:* A PET bottle that becomes polyester fibre has been downcycled.
 6. (truefalse) Ideonella sakaiensis, a bacterium that eats PET bottle plastic, was found near a bottle recycling plant in Japan, where there was plenty of PET to feed on.  
    **Answer:** True. *Why:* True. Scientists found these bacteria in 2016 near a recycling plant in Sakai, Japan. Living beings often turn up where their food is. Over the years, some microbes there had found a way to feed on PET.
-7. (mcq) Why can't plastic-eating bacteria clean up the ocean soon?  
-   Options: They only work in warm tanks on clean, shredded plastic of mostly one kind / They are too big / The ocean is too salty for all life / They prefer chocolate  
-   **Answer:** They only work in warm tanks on clean, shredded plastic of mostly one kind. *Why:* The enzymes work best in warm, controlled conditions on PET, one plastic among many. The sea is cold and huge, and its plastic is scattered and mixed. Picking 'too salty for all life' is not right, because the sea is full of microbes.
+7. (truefalse) Glass is made from sand, so a glass bottle thrown in the dump soon turns back into sand.  
+   **Answer:** False. *Why:* False. No microbe can feed on glass, so glass does not rot. It can break into sharp pieces, but each piece is still glass. Only waves rolling it on a beach for many years slowly wear it smooth. Being made from something natural does not mean a thing goes back to nature quickly.
 8. (write) Kamla asked the officer, 'Cleared away where?' Explain the science behind her question.  
    **Answer:** Glass and tile don't rot, because no microbes can eat them, and their atoms are never destroyed. So taking them away would only move them to the dump, where they would stay for hundreds of years. In the garden, the same pieces were useful and beautiful.. *Why:* Her question works because there is no away. Things only move or change form.
 9. (mcq) Half of a city's waste is wet waste. If every home composted its wet waste, about how much less would go to the dump?  
@@ -739,7 +738,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 14. (write) Design a better chips packet. It must keep chips crisp, and it must not end up in the dump. Describe or draw it.  
    **Answer:** A refillable steel or glass jar that the shop fills from a big tin. Or a paper packet lined with a thin coat that compost microbes can eat.. *Why:* Real engineers are working on this problem. Any idea that keeps chips dry and can be reused, recycled or composted is a good answer.
 15. (write) Waste is sometimes called 'matter out of place'. Give one example of something that is waste in one place and useful in another.  
-   **Answer:** Cow dung is waste on a road, but fuel and fertiliser in a village. A broken bangle is waste in a dustbin, but art in Nek Chand's garden.. *Why:* This idea comes from the thinker Mary Douglas, 1966. Any real example where place changes usefulness is right.
+   **Answer:** Cow dung is waste on a road, but fuel and fertiliser in a village. A broken bangle is waste in a dustbin, but art in Nek Chand's garden.. *Why:* The saying is old. The thinker Mary Douglas made it famous in 1966. Any real example where place changes usefulness is right.
 16. (mcq) Fathima's family in Kochi puts all their peels into a compost pot. After three months, the compost weighs much less than all the peels that went in. Atoms are never destroyed, so where did the missing weight go?  
    Options: Into the air, as carbon dioxide gas and water vapour given off by the microbes as they fed / It disappeared / Into the pot itself  
    **Answer:** Into the air, as carbon dioxide gas and water vapour given off by the microbes as they fed. *Why:* As microbes feed on peels, they breathe out carbon dioxide and give off water, just as we do. These float away as gas and vapour. The atoms are not destroyed. They have moved into the air, and plants can take them in again.
@@ -768,9 +767,9 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 6. (mcq) A wooden spoon and a plastic spoon are buried side by side in damp soil. After a year, the wooden spoon is soft and crumbling, but the plastic spoon looks the same. Why?  
    Options: Soil microbes have enzymes that fit wood, but almost none that fit plastic / The plastic spoon was buried deeper / The wooden spoon was older  
    **Answer:** Soil microbes have enzymes that fit wood, but almost none that fit plastic. *Why:* Microbes have fed on wood for millions of years, so they have enzymes that fit it. Plastic is new, and almost no microbe has an enzyme for plastic. Both spoons were in the same soil, so the material made the difference.
-7. (mcq) A plastic bottle cracks into tiny pieces in the sun. What are the tiny pieces called?  
-   Options: Compost / Microplastics / Microbes / Methane  
-   **Answer:** Microplastics. *Why:* Tiny pieces of plastic are still plastic, and are called microplastics. Picking 'microbes' mixes up two words that sound alike. Microbes are alive, and microplastics are not.
+7. (mcq) Nandini bakes a tray of damp soil in a hot oven, so that every microbe in the soil dies. When it cools, she buries a banana peel in it and seals the jar. What will happen to the peel?  
+   Options: It will hardly rot, because there are no microbes to feed on it / It will rot faster, because the soil is warm / It will rot just as fast as in garden soil  
+   **Answer:** It will hardly rot, because there are no microbes to feed on it. *Why:* Rotting is microbes feeding. With no microbes, the peel stays almost whole for a long time. Picking 'just as fast' means thinking the soil itself does the rotting. This is how people keep food from rotting: heating and sealing it, as in a jar of pickle or a sealed tin.
 8. (mcq) Why should a family keep wet waste and dry waste in separate bins?  
    Options: So the wet waste can be composted and the dry waste stays clean enough to recycle / So the bins look tidy / Because wet waste is heavier  
    **Answer:** So the wet waste can be composted and the dry waste stays clean enough to recycle. *Why:* Peels in their own bin can go to compost. Paper, metal and plastic kept dry and clean can be sold to the kabadiwala. Mixed together, both are spoilt, and most of it goes to the dump.

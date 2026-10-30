@@ -1389,9 +1389,9 @@
     },
     {
      "t": "truefalse",
-     "p": "If two things look exactly the same, they must be made of the same material.",
+     "p": "If two things look almost the same, they must be made of the same material.",
      "a": false,
-     "why": "False. A brass bowl and a kansa bowl can look exactly the same. Tap them, and the kansa bowl rings for a long time while the brass one stops quickly. Looks are only one rule. A test like sound can show a difference that looks miss.",
+     "why": "False. A brass bowl and a kansa bowl can look almost the same. Tap them, and the kansa bowl rings for much longer than the brass one. Looks are only one rule. A test like sound can show a difference that looks miss.",
      "context": "Brass and kansa, also called bell metal, are both yellow metals made mostly of copper."
     }
    ]
@@ -1500,13 +1500,16 @@
      "how": "e3"
     },
     {
-     "t": "fill",
-     "p": "Each good question doubles the number of things a key can tell apart. With four questions, a key can tell apart ____ things.",
-     "a": [
-      "16",
-      "sixteen"
+     "t": "mcq",
+     "p": "Zainab writes a key with the question 'Is it shiny or hard?'. Why is this a bad question for a key?",
+     "opts": [
+      "It asks two things at once, so a thing that is shiny but soft has no clear yes or no",
+      "It is too short",
+      "A key may only ask about colour",
+      "Nothing is wrong with it"
      ],
-     "why": "One question tells 2 apart, two tell 4, three tell 8 and four tell 16. Doubling each time.",
+     "a": 0,
+     "why": "Each question in a key must ask about one property, so every thing gets one clear answer. A foil ball is shiny but soft: is that a yes or a no? Splitting it into 'Is it shiny?' and then 'Is it hard?' fixes the key.",
      "how": "e3",
      "context": "In the Twenty Questions Race, you count how many questions a key needs. Each good question cuts the number of possibilities in half."
     },
@@ -1807,7 +1810,7 @@
     },
     {
      "t": "match",
-     "p": "Match each sort to the discovery it led to.",
+     "p": "Match each sort to what it led to.",
      "pairs": [
       [
        "Sorting starlight by its pattern of lines",
@@ -1818,8 +1821,8 @@
        "Gaps for elements nobody had found yet"
       ],
       [
-       "Sorting animals by their families",
-       "A whale is a mammal, not a fish"
+       "Sorting fingerprints by their patterns of loops and whorls",
+       "Police could quickly find whose fingerprint it was"
       ],
       [
        "Sorting solids by their patterns",
@@ -1827,7 +1830,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "A good sort does more than tidy. Cecilia Payne used the star types to find what stars are made of. Mendeleev's gaps predicted new elements. Sorting by family put whales with mammals. Shechtman's strange pattern made scientists add a new kind of solid."
+     "why": "A good sort does more than tidy. Cecilia Payne used the star types to find what stars are made of. Mendeleev's gaps predicted new elements. In Bengal in the 1890s, Azizul Haque and Hem Chandra Bose worked out a way to sort fingerprints, so a matching card could be found fast. Shechtman's strange pattern made scientists add a new kind of solid."
     },
     {
      "t": "sort",
@@ -3548,14 +3551,15 @@
   },
   {
    "t": "mcq",
-   "p": "In a Venn diagram of Shiny and Hard, where does a glass bangle go?",
+   "p": "In a Venn diagram of Soft and Waterproof, where does a cotton hanky go?",
    "opts": [
+    "In the Soft circle only",
     "In the overlap",
-    "Outside both circles",
-    "In the Soft circle"
+    "In the Waterproof circle only",
+    "Outside both circles"
    ],
    "a": 0,
-   "why": "A glass bangle is shiny and hard, so it fits both rules and goes in the overlap. Picking 'outside' means one rule was missed.",
+   "why": "A cotton hanky is soft, but water soaks into it, so it is not waterproof. It fits one rule, so it goes in that circle only. Picking the overlap means the second rule was not checked.",
    "outcome": 3
   },
   {
@@ -3610,14 +3614,15 @@
   },
   {
    "t": "mcq",
-   "p": "Winnowing sorts grain from husk. Which rule does the wind use?",
+   "p": "Bhavani sorts the laundry before washing: white clothes in one bucket, coloured clothes in another. What is the job of this sort?",
    "opts": [
-    "Weight",
-    "Colour",
-    "Taste"
+    "To stop dye from coloured clothes staining the white ones",
+    "To make the buckets equally heavy",
+    "Because white clothes are a different material",
+    "To make the clothes dry faster"
    ],
    "a": 0,
-   "why": "The wind moves light husk more than heavy grain. Picking 'colour' is a common guess, but colour does not change how hard the wind pushes.",
+   "why": "Some coloured cloth lets out dye in water, and the dye can stain white cloth. So the rule is colour, because that is what the job needs. Sorting by material would not help here: a white shirt and a red shirt can both be cotton.",
    "outcome": 5
   },
   {
@@ -3641,7 +3646,7 @@
     "How far away it is"
    ],
    "a": 0,
-   "why": "Annie Jump Cannon sorted the stars into these types by their light, and Cecilia Payne showed that the types tell temperature. Picking 'how far' is a common guess, but the letters here tell heat.",
+   "why": "Annie Jump Cannon sorted the stars into these types by their light. In 1920 Meghnad Saha, an Indian physicist, showed that the types follow the temperature of the star's surface. Picking 'how far' is a common guess, but the letters tell heat.",
    "outcome": 6
   },
   {

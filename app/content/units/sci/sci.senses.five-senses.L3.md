@@ -710,7 +710,7 @@ He lay very still and listened. The room was not empty after all. It never had b
    Options: The skin on your back is too thick to feel anything / Your fingertip has touch receptors packed much closer together / Your back is further from your brain / You were not paying attention when the back was tested  
    **Answer:** Your fingertip has touch receptors packed much closer together. *Why:* A strong answer links the result to receptors: two points feel like two only when each touches a different receptor. On the fingertip they are packed close, on the back they are far apart. Picking 'too thick to feel' is wrong, because your back did feel the touch. It just could not tell one point from two.
 8. (sort) Sort these foods by their main basic taste.  
-   **Answer:** gur → Sweet; imli → Sour; papad → Salty; karela → Bitter; ripe tomato → Umami; lemon → Sour; honey → Sweet; neem leaf → Bitter. *Why:* Sweet foods have sugars. Sour foods have acids. Salty foods have salt. Bitter foods, like karela and neem, have bitter molecules. Ripe tomatoes have glutamate, which gives umami.
+   **Answer:** jaggery → Sweet; tamarind → Sour; papad → Salty; karela → Bitter; ripe tomato → Umami; lemon → Sour; honey → Sweet; neem leaf → Bitter. *Why:* Sweet foods have sugars. Sour foods have acids. Salty foods have salt. Bitter foods, like karela and neem, have bitter molecules. Ripe tomatoes have glutamate, which gives umami.
 9. (write) Many old school books show a 'tongue map', with sweet only at the tip and bitter only at the back. You put a drop of sugar water on the back of your tongue. Predict what you will taste, and say why.  
    **Answer:** I will taste sweet. The tongue map is wrong. Every part of the tongue that has taste buds can taste all five basic tastes, so the back tastes sweet too.. *Why:* A strong answer makes a clear prediction and gives the reason: taste buds for every taste are spread all over the tongue. The best answers add that you could check it yourself with a cotton bud.
 10. (mcq) Why does food taste flat when you have a blocked nose?  
@@ -756,7 +756,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 10. (write) You walk into the kitchen and smell the sambar. A few minutes later you can hardly smell it. Then your sister comes in from outside and says, 'What a smell!' Use what you found in the Fading Coin activity to explain this.  
    **Answer:** My smell receptors stopped sending so many signals because the smell stayed the same, just like the still coin. My sister's nose had not got used to it yet, so to her it was strong. Senses mostly notice changes.. *Why:* A strong answer joins the two cases: touch and smell both go quiet when nothing changes. The sambar smell is still there. A fresh nose notices it, because for that nose it is a change.
 11. (match) Match each animal to their super-sense.  
-   **Answer:** Honeybee → sees ultraviolet; Pit viper → feels the warmth of a mouse in the dark; Bat → hears echoes of their squeaks; Catfish → tastes with their whole skin; Elephant → hears very low rumbles. *Why:* Each animal lives in their own sense-world, called their Umwelt. These animals detect things humans cannot.
+   **Answer:** Honeybee → sees ultraviolet; Pit viper → feels the warmth of a mouse in the dark; Shark → feels tiny electric signals from fish hidden in the sand; Catfish → tastes with their whole skin; Elephant → hears very low rumbles. *Why:* Each animal lives in their own sense-world, called their Umwelt. These animals detect things humans cannot.
 12. (mcq) In the McGurk experiment, people watch a face saying 'ga' while the sound says 'ba'. Many hear 'da'. What does this show?  
    Options: Their ears are broken / The brain mixes what the eyes see with what the ears hear / Sound travels slower than light / Everyone hears differently  
    **Answer:** The brain mixes what the eyes see with what the ears hear. *Why:* The brain makes its best guess using all the senses together, so the moving lips change what you hear. Picking 'ears are broken' is wrong. Close your eyes, and you hear 'ba' correctly.
@@ -770,7 +770,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 16. (truefalse) Many people think blind people are born with better ears than everyone else. True or false?  
    **Answer:** False. *Why:* False. Their ears are like everyone's. Their brains learn, with practice, to get much more out of what the ears hear. Scans show that the brain's 'seeing' parts can even help with hearing.
 ### Senses, Animals and Big Mysteries (challenge) (challenge, 15 questions)
-1. (mcq) Johannes Müller noticed that pressing on the eye's nerve makes people see flashes of light. What does this tell us?  
+1. (mcq) Johannes Müller, a scientist in Germany about 200 years ago, noticed something odd. A knock on the head, or a gentle push on a closed eye, makes people see flashes of light, even in the dark. What does this tell us?  
    Options: The eye makes its own light / A nerve from the eye can only say 'light', whatever starts its signal / Pressing the eye is good for it / Light is inside the nerve  
    **Answer:** A nerve from the eye can only say 'light', whatever starts its signal. *Why:* A signal on the seeing pathway is read as light, whatever caused it. So the kind of sense depends on where the signal goes. Picking 'the eye makes its own light' is a natural guess, but there is no light. It is just a signal.
 2. (truefalse) Light reaches your brain through your eyes.  
@@ -778,7 +778,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 3. (mcq) A barn owl's two ears are at different heights on their head. How does this help them?  
    Options: They can hear only high sounds / They can tell whether a sound is above or below, not just left or right / They look more frightening / They hear through their feathers  
    **Answer:** They can tell whether a sound is above or below, not just left or right. *Why:* With ears at different heights, a sound from below reaches one ear slightly differently from the other. So the owl's brain can work out up and down too, and catch a mouse in the dark.
-4. (write) The tongue map was wrong, but it stayed in school books for about 30 years. Why do you think a wrong idea can last so long? What should you do when a book and your own careful test disagree?  
+4. (write) The tongue map was wrong, but it stayed in school books for many years, and some books still show it. Why do you think a wrong idea can last so long? What should you do when a book and your own careful test disagree?  
    **Answer:** Books copy from other books, and people trust what is printed, so nobody checks. When a book and my careful test disagree, I should do my test again, make sure it is fair, and ask others to try it too. If it still disagrees, the book may be wrong.. *Why:* A strong answer gives a real reason, such as copying or trusting famous books, and says what to do: repeat the test fairly and share it. That is what the scientist Virginia Collings did in 1974, when she showed the tongue map was wrong.
 5. (perspective) Are people bad at smelling? Scientists have argued about this for more than 100 years.  
    **Answer:** A strong answer picks a side with evidence, for example the Jahai people or the Train Your Nose results for Majid and Dhanya. It then admits what Broca has right: dogs really do smell many things far better than we do, so our smell is not as strong as theirs in every way.. *Why:* Today many scientists think the idea that people smell badly was overdone, and that practice and words matter a lot. But dogs really do beat us at many smells. Both sides have part of the truth.
@@ -790,8 +790,8 @@ He lay very still and listened. The room was not empty after all. It never had b
    **Answer:** To compare, so you know if practice made the difference and not luck. *Why:* Comparing with someone who did not practise helps show whether the practice really made the difference. Scientists call this a comparison or a control.
 8. (write) In 1996, Norihiro Sadato, a scientist from Japan, scanned the brains of people who had been blind from birth while they read Braille with their fingertips. The part of the brain usually used for seeing was busy. What does this tell you about brains?  
    **Answer:** Brains can change with use. When the seeing part of the brain gets no signals from the eyes, it can take on a new job, like helping with touch.. *Why:* A strong answer says what the scan showed and what follows: the brain is not fixed, and parts of it can learn new work. This is part of why blind people get so good at reading Braille and at using echoes.
-9. (truefalse) Two people tasting the same chutney always taste exactly the same thing.  
-   **Answer:** False. *Why:* False. People's tongues and noses differ. For example, some people find dhania tastes like soap, partly because of their genes.
+9. (truefalse) A dog whistle makes no sound, because you cannot hear it.  
+   **Answer:** False. *Why:* False. The whistle really does shake the air, but so fast that the shaking is too high for human ears. Dogs can hear that high sound. Each animal's ears catch only some of the sounds that are there.
 10. (write) A bee sees ultraviolet stripes on a flower that you cannot see. Which is the 'real' flower: the one you see or the one the bee sees? Explain what you think.  
    **Answer:** Any thoughtful answer is good. For example: both are real. Each animal senses a different part of what is there. Nobody sees the whole flower.. *Why:* This is an open question. Every animal has their own Umwelt, or sense-world. No animal senses everything.
 11. (mcq) Scientists can follow the signal from your tongue all the way into your brain. Which question can they still not answer?  
@@ -804,7 +804,7 @@ He lay very still and listened. The room was not empty after all. It never had b
 14. (write) An astronaut is floating inside the Space Station. There is no 'down' she can feel, because she and everything around her are falling together. The balance organs in her inner ears sense which way is down. Predict which of her senses will be most confused. What could help her know which way is 'up'?  
    **Answer:** Her balance sense will be most confused, because her inner ears cannot feel a 'down'. Her eyes can help, by seeing the floor and the ceiling. Touch can help too, when she straps her feet to the floor.. *Why:* A strong answer uses the idea that balance uses three senses together: eyes, inner ears and muscle sensors. When one gives wrong or no messages, the brain leans on the others. Real astronauts often feel sick for the first few days, until their brains learn this.
 15. (sort) Some things we notice when we eat come from taste buds. Others come from nerves for touch, heat, cold or pain. Sort these.  
-   **Answer:** the sweetness of gur → A taste from taste buds; the burn of green chilli → A feeling from touch, heat, cold or pain nerves; the sourness of imli → A taste from taste buds; the coolness of mint → A feeling from touch, heat, cold or pain nerves; the dry feeling of raw banana → A feeling from touch, heat, cold or pain nerves; the saltiness of papad → A taste from taste buds; the bitterness of karela → A taste from taste buds; the tingle of black pepper → A feeling from touch, heat, cold or pain nerves. *Why:* Sweet, sour, salty and bitter come from taste buds. Chilli and black pepper open the heat nerve gate, and mint opens a cold one, so they feel hot or cool. The dry feeling of raw banana is touch. These feelings are real, but they are not taste-bud tastes.
+   **Answer:** the sweetness of jaggery → A taste from taste buds; the burn of green chilli → A feeling from touch, heat, cold or pain nerves; the sourness of tamarind → A taste from taste buds; the coolness of mint → A feeling from touch, heat, cold or pain nerves; the dry feeling of raw banana → A feeling from touch, heat, cold or pain nerves; the saltiness of papad → A taste from taste buds; the bitterness of karela → A taste from taste buds; the tingle of black pepper → A feeling from touch, heat, cold or pain nerves. *Why:* Sweet, sour, salty and bitter come from taste buds. Chilli and black pepper open the heat nerve gate, and mint opens a cold one, so they feel hot or cool. The dry feeling of raw banana is touch. These feelings are real, but they are not taste-bud tastes.
 
 ## Videos
 - **How do we smell? - Rose Eveleth** (TED-Ed, 4 min) id `snJnO6OpjCs`: A short cartoon that follows smell molecules up the nose to the receptors and the brain, and explains why smells bring back memories. *Check:* Video id checked with YouTube's oembed service: it returns this title from TED-Ed. A parent may still preview it.
@@ -818,45 +818,45 @@ He lay very still and listened. The room was not empty after all. It never had b
 2. (mcq) A doctor listens in on the nerve that runs from your ear to your brain while you hear music. What would she find travelling along it?  
    Options: Tiny copies of the music / Tiny electric signals / Tiny pictures of the singers / Shaking air  
    **Answer:** Tiny electric signals. *Why:* The shaking stops in the cochlea. From there, only electric signals travel to the brain. Picking 'shaking air' forgets that hair cells turn the shaking into signals.
-3. (mcq) Sound shakes parts of your ear one after another. Which part shakes straight after the eardrum?  
-   Options: The cochlea / The three tiny bones / The ear flap / The nerve  
-   **Answer:** The three tiny bones. *Why:* The eardrum passes its shaking to three tiny bones, and they pass it to the cochlea. Picking the cochlea skips the bones.
+3. (mcq) Cup your hand behind your ear, and a far-away sound gets louder. Why?  
+   Options: Your hand makes a bigger ear flap, so it collects more of the shaking air into your ear / Your hand makes its own sound / Your hand warms the ear / Your hand blocks the sound  
+   **Answer:** Your hand makes a bigger ear flap, so it collects more of the shaking air into your ear. *Why:* The ear flap's job is to collect sound and send it down the ear canal. A cupped hand works like a bigger flap. Picking 'blocks the sound' is a fair guess, but the hand is behind the ear, so it catches sound coming from the front.
 4. (mcq) Your friend calls your name from your left side. How does your brain know the sound came from the left?  
    Options: Your left ear is the better ear / The sound reaches your left ear a tiny bit sooner and louder / Your brain guesses / You hear twice as much with two ears  
    **Answer:** The sound reaches your left ear a tiny bit sooner and louder. *Why:* The brain compares the two ears. The nearer ear hears the sound a little sooner and a little louder. Picking 'twice as much' misses that the clue is the difference between the ears.
-5. (mcq) Why can very loud music cause hearing loss that never gets better?  
-   Options: It makes the ear canal smaller / It can break hair cells in the cochlea, and in people they do not grow back / It wears out the eardrum, which always grows back / It is only a problem for grown-ups  
-   **Answer:** It can break hair cells in the cochlea, and in people they do not grow back. *Why:* Broken hair cells in people do not grow back, so the loss lasts. Children's hair cells can break too.
+5. (mcq) Arjun has hard wax packed deep in his ear canal, and he hears less in that ear. Why?  
+   Options: Less of the shaking air reaches his eardrum, so the eardrum shakes less / The wax eats the sound / His cochlea has stopped working / Wax makes sounds louder  
+   **Answer:** Less of the shaking air reaches his eardrum, so the eardrum shakes less. *Why:* Sound has to travel down the ear canal and shake the eardrum. A plug of wax gets in the way. When a doctor clears the wax, his hearing comes back, because nothing deeper was harmed. Picking 'cochlea stopped' skips the first steps of the path.
 6. (mcq) A Braille reader reads with her fingertips, not with the back of her hand. Why?  
    Options: Fingertips are cleaner / Fingertips have touch receptors packed closest together / The back of the hand cannot feel anything / Fingertips are warmer  
    **Answer:** Fingertips have touch receptors packed closest together. *Why:* Close-packed receptors let fingertips feel tiny dots as separate. The back of the hand feels touch, but not that much detail. The Two-Point Test shows this.
 7. (mcq) Which of these is NOT one of the five basic tastes?  
    Options: Sweet / Umami / Chilli hot / Bitter  
    **Answer:** Chilli hot. *Why:* Chilli 'heat' is detected by nerve endings that warn of burning, not by taste buds. Picking umami is common, because it is the least known of the five tastes.
-8. (mcq) Where on your tongue can you taste bitter karela?  
-   Options: Only at the very back / Anywhere on the tongue that has taste buds / Only at the tip / Only on the sides  
-   **Answer:** Anywhere on the tongue that has taste buds. *Why:* Taste buds for every taste are spread across the tongue. Picking 'only at the back' is the old tongue map, which is wrong.
-9. (mcq) With your nose pinched, elaichi sugar tastes only sweet. Why?  
-   Options: Elaichi's flavour is a smell, and pinching stops it reaching your nose / Pinching makes the tongue numb / Elaichi has no flavour / Sugar hides all spices  
-   **Answer:** Elaichi's flavour is a smell, and pinching stops it reaching your nose. *Why:* Most flavour is smell. The elaichi molecules float from your mouth into your nose, unless your nose is pinched. Picking 'tongue numb' is wrong, because you still tasted the sweetness.
+8. (mcq) Dry the tip of your tongue with a clean cloth, then put a few grains of sugar on it. At first you taste almost nothing. Why?  
+   Options: Taste buds detect sugar only when it dissolves in spit and reaches them / Sugar has no taste until it is cooked / The cloth wiped off your taste buds / The tip of the tongue cannot taste sweet  
+   **Answer:** Taste buds detect sugar only when it dissolves in spit and reaches them. *Why:* Taste buds detect molecules that are dissolved in spit. Dry sugar grains cannot reach them. As spit wets the sugar, the sweetness comes. Picking 'the tip cannot taste sweet' is the old tongue map idea, which is wrong.
+9. (mcq) You chew a mint leaf with your mouth shut. How do the smell molecules from the mint reach the smell receptors high in your nose?  
+   Options: They float up a passage at the back of your mouth that leads into your nose / They travel through your teeth / They go down into your stomach first / They cannot. You only taste mint with your tongue  
+   **Answer:** They float up a passage at the back of your mouth that leads into your nose. *Why:* The back of your mouth opens into your nose. Smells from food float up that way while you chew, and this is how smell becomes part of flavour. Picking 'you only taste mint with your tongue' forgets that most flavour is smell.
 10. (mcq) Hot rasam smells much stronger than the same rasam straight from the fridge. Why?  
    Options: Hot rasam has more salt / Heat sends more smell molecules into the air, so more reach your nose / Cold rasam has no smell at all / Your nose works better when it is warm  
    **Answer:** Heat sends more smell molecules into the air, so more reach your nose. *Why:* Smells are molecules floating in the air. Warm food sends many more of them up, so more reach the smell receptors high in your nose. Cold rasam still smells, just less.
-11. (mcq) Which cells in your eye let you see colours in bright light?  
-   Options: Rods / Cones / Hair cells / Taste cells  
-   **Answer:** Cones. *Why:* Cones see colour, but need bright light. Rods work in dim light and see no colour. Hair cells are in the ear.
-12. (mcq) Which animal can see ultraviolet stripes on flowers that we cannot see?  
-   Options: A honeybee / A dog / A cat / A catfish  
-   **Answer:** A honeybee. *Why:* Honeybees see ultraviolet. Many flowers have ultraviolet patterns that guide bees to the nectar. Dogs and cats cannot see ultraviolet the way bees do.
+11. (mcq) A cat can walk about in a room that is too dark for you. What is the best reason?  
+   Options: Cats have far more rods, the eye cells that work in dim light / A cat's eyes make their own light / Cats have more cones, so they see colour better / Cats see with their whiskers only  
+   **Answer:** Cats have far more rods, the eye cells that work in dim light. *Why:* Rods work in dim light. A cat's eyes have many more rods than ours, and a shiny layer behind them that sends light back through them. The glow of a cat's eyes at night is reflected light, not light they make. Picking 'more cones' swaps the two kinds of cell.
+12. (mcq) A mosquito finds you in a dark bedroom. Which is the best explanation?  
+   Options: She senses the carbon dioxide in your breath and the warmth of your skin / She sees you clearly in the dark / She hears your heartbeat / She finds you by luck  
+   **Answer:** She senses the carbon dioxide in your breath and the warmth of your skin. *Why:* Only female mosquitoes bite. They sense the carbon dioxide gas we breathe out, the smells of our skin and our warmth. These are senses people do not have in the same way. Picking 'luck' misses that she flies straight to you.
 13. (mcq) How do bats find moths in the dark?  
    Options: By smell only / By squeaking and listening for echoes / By seeing ultraviolet / By tasting the air  
    **Answer:** By squeaking and listening for echoes. *Why:* Bats use echolocation. They squeak and hear the echoes bounce back from moths. Some blind people use tongue clicks in the same way.
 14. (mcq) A bat and a girl stand in the same dark room. Which is true?  
    Options: They both sense exactly the same room / Each senses a different part of what is there, so each lives in a different sense-world / Only the girl senses the real room / Neither of them senses anything  
    **Answer:** Each senses a different part of what is there, so each lives in a different sense-world. *Why:* The bat senses echoes the girl cannot hear. The girl senses things the bat cannot. Scientists call each animal's sense-world their Umwelt. No animal senses everything.
-15. (mcq) How many senses do people have?  
-   Options: Exactly five / Many more than five, such as balance, body position, warmth and cold, and thirst / Only one / Three  
-   **Answer:** Many more than five, such as balance, body position, warmth and cold, and thirst. *Why:* Five is an old count, from Aristotle more than 2,300 years ago. Scientists count many more, each with its own receptors, though they do not agree on the exact number.
+15. (mcq) After playing in the sun, you feel thirsty. What is thirst?  
+   Options: A sense: sensors inside your body notice that you are low on water and tell your brain / A taste on your tongue / A sound inside your ears / Not a sense, just a habit  
+   **Answer:** A sense: sensors inside your body notice that you are low on water and tell your brain. *Why:* Thirst is one of the senses not on the old list of five. Sensors in your brain check how much water is in your blood. Picking 'a taste' is natural, because you feel thirst in your mouth. But the sensors are inside your body.
 16. (mcq) With your eyes shut, you can still touch the tip of your nose with one finger. Which sense lets you do this?  
    Options: Hearing / Your body position sense, from sensors in your muscles / Smell / Taste  
    **Answer:** Your body position sense, from sensors in your muscles. *Why:* Stretch sensors in your muscles tell your brain where every part of your body is, even in the dark. It is one of the senses that is not on the list of five.

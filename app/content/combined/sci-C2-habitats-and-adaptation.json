@@ -4,22 +4,22 @@
  "subj": "sci",
  "level": 2,
  "n": "habitats-and-adaptation",
- "title": "Habitats: why the lotus lives in the pond and the cactus in the sand",
+ "title": "Habitats: how plants and animals are suited to their homes",
  "source": "DeepKids Combined. Covers Cambridge Stage 2 Biology, Unit 1.1 'Habitats', Unit 1.2 'Plants in different habitats' and Unit 1.3 'Animals in different habitats'. No textbook needed.",
- "summary": "Last year your child found that every place near home is somebody's home. Now they learn the word habitat properly and travel, in imagination and with their hands, to ponds, deserts, forests, seashores and snowy mountains. They find out how the bodies of plants and animals fit their habitats (a cactus's water-storing stem, a lotus leaf that water runs off, a fish's gills, a camel's feet), build a sealed bottle garden that makes its own rain, hunt for animal signs, and argue about whether a zoo can ever be a real habitat.",
- "builds_on": "Class 1: every place is somebody's home; living things live where they find food, water and shelter; woodlice choose dark, damp places. Next: Class 3 looks at how plants and animals share one place and help each other; Class 4 studies India's deserts, mountains, plains and coasts and how people live there; Class 5 learns the word adaptation fully, endemic species, and predators and prey.",
+ "summary": "A cactus would rot in a pond, and a lotus would dry up in the desert. Why? Your child learns the word habitat and meets ponds, deserts, forests, seashores and snowy mountains. They find out how each body solves a problem of its home: a cactus stem stores water, water rolls off a lotus leaf, a fish has gills, a camel has wide feet. They build a sealed bottle garden that makes its own rain, look for signs of hidden animals, and argue about whether a zoo can be a real habitat.",
+ "builds_on": "Class 1: every place is somebody's home. Living things live where they find food, water and shelter. Mould grew only on damp bread, and seedlings in the dark grew pale. Next: Class 3 looks at how plants and animals share one tree and its soil. Class 4 studies India's deserts, mountains, plains and coasts and how people live there. Class 5 learns the word adaptation fully, endemic species, and predators and prey.",
  "goals": [
   "By the end your child can say what a habitat is and name five different habitats.",
   "By the end your child can explain how a cactus, a lotus and a pine tree are each suited to where they grow.",
   "By the end your child can explain how a fish, a camel and a polar bear are each suited to where they live.",
   "By the end your child can find and read signs that an animal lives nearby (tracks, droppings, nests, holes, chewed leaves).",
-  "By the end your child can describe how a sealed bottle garden keeps its own water going round.",
+  "By the end your child can describe how water keeps going round inside a sealed bottle garden.",
   "By the end your child can give one reason for and one against keeping wild animals in zoos."
  ],
  "words": [
   [
    "habitat",
-   "the natural home of a plant or animal, which gives it food, water, shelter, space and the right temperature"
+   "the natural home of a plant or animal, which gives them food, water, shelter, space and the right temperature"
   ],
   [
    "microhabitat",
@@ -27,11 +27,11 @@
   ],
   [
    "suited",
-   "having a body that fits its home well (scientists say adapted)"
+   "having a body that fits their home well (scientists say adapted)"
   ],
   [
    "desert",
-   "a place that gets very little rain; it can be hot or cold"
+   "a place that gets very little rain. It can be hot or cold."
   ],
   [
    "pond",
@@ -47,7 +47,7 @@
   ],
   [
    "spines",
-   "the sharp points on a cactus; they are its leaves, changed"
+   "the sharp points on a cactus. They are the cactus's leaves, changed in shape."
   ],
   [
    "evidence",
@@ -67,7 +67,7 @@
   "plants in cold places: pine needles and sloping branches",
   "animals in water: gills, fins and webbed feet",
   "animals in deserts and snow: camel, polar bear, snow leopard",
-  "suited to its home: the beginning of the idea of adaptation",
+  "suited to a home: the beginning of the idea of adaptation",
   "animal signs: tracks, droppings, nests, holes and nibbles",
   "a sealed bottle garden: water going round and round",
   "people change habitats, for harm and for care",
@@ -82,40 +82,41 @@
    "steps": [
     {
      "kind": "warmup",
-     "title": "Remember the woodlice?",
+     "title": "Remember Class 1",
      "mins": 5,
-     "do": "Ask: 'Last year we lifted a stone. Who lived underneath? Why did they like it there?' (Woodlice, worms, ants; dark, damp, safe, rotting leaves to eat.) Say: 'Scientists have a special word for a living thing's natural home. It is habitat.' Say it together, clapping the three beats: ha-bi-tat."
+     "do": "Ask: 'Last year we found who lives in our house. Where did the mould grow? Who lived under the pot?' (Mould on the damp bread, ants or woodlice under the pot, because it was dark, damp and safe.) Say: 'Scientists have a word for a living thing's natural home. It is habitat.' Say it together, clapping the three beats: ha-bi-tat."
     },
     {
      "kind": "talk",
      "title": "Five things a habitat gives",
      "mins": 8,
-     "do": "Hold up one hand and name one thing per finger: food, water, shelter, space, the right temperature. For each, ask your child to think of an animal that would be in trouble without it: a fish with no water, a tiger with no space to hunt, a polar bear in Chennai heat. Then ask: 'Is our home a habitat? Which of the five does it give us?'"
+     "do": "Hold up one hand and name one thing per finger: food, water, shelter, space, the right temperature. For each, ask your child to think of an animal who would be in trouble without it: a fish with no water, a tiger with no space to hunt, a polar bear in the Chennai heat. Then ask: 'Is our home a habitat for us? Which of the five does it give us?'"
     },
     {
      "kind": "do",
      "title": "Habitat sort",
      "mins": 14,
-     "do": "Do Activity a1. Draw six big circles on paper and label them: pond, forest, desert, seashore, grassland, snowy mountain. Your child draws or cuts out pictures (old magazines, or quick drawings) and places each living thing in its habitat: frog and lotus (pond), tiger and hornbill (forest), camel and cactus (desert), crab and coconut palm (seashore), blackbuck and grass (grassland), snow leopard and pine (snowy mountain). For each one ask: 'What does this habitat give it?' Some can go in two places; let them argue it.",
+     "do": "Do Activity a1. Draw six big circles on paper and label them: pond, forest, desert, seashore, grassland, snowy mountain. Your child draws living things, or cuts pictures from old magazines, and puts each one in their habitat: frog and lotus (pond), tiger and hornbill (forest), camel and cactus (desert), crab and coconut palm (seashore), blackbuck and grass (grassland), snow leopard and pine (snowy mountain). For each one ask: 'What does this habitat give them?' Some can go in two places. Let your child argue it.",
      "ref": "a1"
     },
     {
      "kind": "talk",
      "title": "A habitat inside a habitat",
      "mins": 6,
-     "do": "Pick up a fallen log or a big leaf (or think of one). Say: 'A forest is a big habitat. But the underside of one leaf is a tiny habitat too, for an aphid or a spider. A tiny habitat inside a big one is called a microhabitat.' Ask: 'Can you find a microhabitat in this room?' (a crack in the wall, the soil in a pot, the corner of the window)."
+     "do": "Hold a leaf from a potted plant. Say: 'A forest is a big habitat. But the underside of one leaf is a tiny habitat too, for an aphid or a small spider. A tiny habitat inside a big one is called a microhabitat.' Ask: 'Can you find a microhabitat in this room?' (a crack in the wall, the soil in a pot, the corner of the window)."
     },
     {
      "kind": "review",
      "title": "Say it back",
      "mins": 2,
-     "do": "Your child finishes: 'A habitat is…' (the natural home of a living thing, which gives it food, water, shelter, space and the right temperature)."
+     "do": "Your child finishes: 'A habitat is…' (the natural home of a living thing, which gives them food, water, shelter, space and the right temperature)."
     }
    ],
    "need": [
     "a big sheet of paper",
     "old magazines or drawing paper",
-    "scissors, glue, crayons"
+    "scissors, glue and crayons",
+    "a leaf from a potted plant"
    ]
   },
   {
@@ -127,42 +128,36 @@
      "kind": "exp",
      "title": "Build the bottle garden",
      "mins": 15,
-     "do": "Do Experiment e1. Build the sealed bottle garden together. Your child chooses where to put each plant, waters it lightly and you close it. Ask them to predict: 'If we never open it and never water it again, will the plants live or die? Why?' Write down the answer and put the bottle in bright light but not direct sun.",
+     "do": "Do Experiment e1. Build the sealed bottle garden together. Your child chooses where to put each plant and waters lightly, and you close the lid. Ask: 'If we never open it and never water it again, will the plants live or die? Why do you think so?' Write down the answer. Put the bottle in bright light but not direct sun.",
      "ref": "e1"
     },
     {
      "kind": "read",
      "title": "Story: The Glass Garden",
-     "mins": 12,
-     "do": "Read the story 'The Glass Garden' aloud. Don't explain it. Ask the story questions. Linger on the question: 'Why did the seedlings in the glass boxes live, when the ones in baskets died?'"
+     "mins": 10,
+     "do": "Read the story 'The Glass Garden' aloud. A boy carries tea plants on a ship from China to India. Don't explain it. Ask the story questions, especially: 'Why did the seedlings in the glass boxes live, when the ones in baskets died?'"
     },
     {
      "kind": "talk",
      "title": "Dr Ward's accident",
-     "mins": 8,
-     "do": "Tell your child about voice v1: a London doctor, Nathaniel Ward, couldn't grow ferns in his smoky garden. One day he found a tiny fern growing all by itself inside a sealed glass bottle where he had put a moth's cocoon in damp soil. The bottle kept its own clean, damp air. Ask the voice question. Then look at your own bottle: is there any mist on the glass yet?",
+     "mins": 6,
+     "do": "Tell your child about voice v1. Nathaniel Ward, a doctor in London, could not grow ferns in his smoky garden. One day he found a tiny fern growing by itself inside a sealed glass bottle, where he had put a moth's cocoon in damp soil. The bottle kept its own clean, damp air. Ask the voice question. Then look at your own bottle: is there any mist on the glass yet?",
      "ref": "v1"
     },
     {
      "kind": "act",
      "title": "Dance the bottle's rain",
      "mins": 4,
-     "do": "Dance the water inside the bottle garden. Your child starts curled on the floor as a drop of water in the soil. Slowly rise on tiptoe, arms floating up (evaporating into the air). Touch the 'cold glass' (a wall) and freeze, shivering (condensing into a drop). Slide slowly down the wall back to the floor (running back to the soil). Do it three times, getting slower and dreamier. Ask: 'Did the water go away, or did it come back?'"
-    },
-    {
-     "kind": "act",
-     "title": "Dance the bottle's rain",
-     "mins": 4,
-     "do": "Dance the water inside the bottle garden. Your child starts curled on the floor as a drop of water in the soil. Slowly rise on tiptoe, arms floating up (evaporating into the air). Touch the 'cold glass' (a wall) and freeze, shivering (condensing into a drop). Slide slowly down the wall back to the floor (running back to the soil). Do it three times, getting slower and dreamier. Ask: 'Did the water go away, or did it come back?'"
+     "do": "Dance the water inside the bottle garden. Your child starts curled on the floor as a drop of water in the soil. They rise slowly on tiptoe, arms floating up: the water evaporates into the air. They touch the 'cold glass' (a wall) and freeze: the water condenses into a drop. They slide slowly down the wall to the floor: the drop runs back to the soil. Do it three times. Ask: 'Did the water go away, or did it come back?'"
     }
    ],
    "need": [
     "a big clean transparent bottle or jar with a lid",
     "small pebbles",
-    "a handful of charcoal pieces if you have them",
-    "garden soil",
-    "2–3 small plants that like shade and damp (small ferns, moss, money plant cuttings, small creeping plants)",
-    "a spoon and a stick"
+    "a handful of charcoal pieces, if you have them",
+    "soil from a pot, or a small bag of potting soil from a nursery",
+    "2 or 3 small plants that like shade and damp, such as money plant cuttings or small ferns from a nursery",
+    "a spoon and a long stick"
    ]
   },
   {
@@ -174,43 +169,42 @@
      "kind": "warmup",
      "title": "Check the bottle",
      "mins": 3,
-     "do": "Look at the bottle garden. Is there mist or drops on the inside of the glass? Where did they come from? (Water from the soil and the leaves went into the air and turned back into drops on the cool glass: condensation.) Tell your child the drops will run back down: the bottle makes its own rain."
+     "do": "Look at the bottle garden. Is there mist or drops on the inside of the glass? Ask: 'Where did they come from?' Then explain: water from the soil and the leaves went into the air, and turned back into drops on the cool glass. This is called condensation. The drops run back down, so the bottle makes its own rain."
     },
     {
      "kind": "exp",
      "title": "The leaf that water can't wet",
      "mins": 10,
-     "do": "Do Experiment e2. Drip water on a lotus or colocasia (arbi) leaf, a cabbage leaf and a sheet of paper. Watch the drops. Your child rolls a drop around the leaf like a marble. Ask: 'Why would a plant that lives in a pond want its leaves to stay dry on top?' (So they don't get soaked and sink, so dirt and germs wash off, and so the tiny holes for breathing stay open to the air.)",
+     "do": "Do Experiment e2. Drip water on a colocasia leaf (chembu or arbi), a cabbage leaf and a sheet of paper. Watch the drops. Your child rolls a drop around the leaf like a marble. Ask: 'A lotus lives in a pond, with leaves lying on the water. Why would it help the lotus if water rolls off the leaf?' (The leaf stays clean and dry, and its tiny breathing holes, which are on the top of the leaf, stay open to the air.)",
      "ref": "e2"
     },
     {
      "kind": "do",
      "title": "The cactus and the sponge",
      "mins": 12,
-     "do": "Wet two equal sponges or folded cloths. Wrap one in cling film (or a plastic bag) with just one small hole; leave the other open. Put both in the sun. Ask: 'Which will stay wet longer?' Check at the end of the day. Then look at a real cactus or aloe vera (carefully) or a picture: a thick, fat stem full of water, a waxy skin, and spines instead of leaves. Explain: big flat leaves lose water into the air; spines lose almost none, and they stop thirsty animals biting the water-filled stem. Ask: 'Which sponge is like a cactus?'"
+     "do": "First the problem: a cactus lives where it rains very little, so she must not lose the water she has. Wet two equal sponges or folded cloths. Wrap one in a plastic bag with one small hole, and leave the other open. Put both in the sun. Ask: 'Which will stay wet longer?' Check at the end of the day. Then look at an aloe vera or a cactus in a pot, carefully, or a picture. The fat stem is full of water and has a waxy skin. Instead of leaves it has spines. Big flat leaves lose water into the air. Spines lose almost none, and they stop thirsty animals biting the water-filled stem. Ask: 'Which sponge is like a cactus?'"
     },
     {
      "kind": "talk",
      "title": "Humboldt climbs a mountain",
      "mins": 8,
-     "do": "Tell your child about voice v2: over 200 years ago, Alexander von Humboldt and the botanist Aimé Bonpland climbed a huge mountain in South America and wrote down the plants at each height. Near the bottom: hot forest. Higher: grass and shrubs. Near the snow: only tiny tough plants and lichens. Ask: 'Why would different plants live at the top and the bottom of one mountain?' (It gets colder higher up, like going towards the North Pole.) Ask the voice question.",
+     "do": "Tell your child about voice v2. In 1802, Alexander von Humboldt and the plant scientist Aimé Bonpland climbed a huge mountain in South America. They wrote down the plants at each height. Near the bottom there was hot forest. Higher up, grass and bushes. Near the snow, only tiny tough plants and lichens. Ask: 'Why would different plants live at the top and the bottom of one mountain?' (It is colder higher up.) Then ask the voice question.",
      "ref": "v2"
     },
     {
      "kind": "review",
      "title": "Two plants, two homes",
      "mins": 2,
-     "do": "Ask: 'Could a cactus live in a pond? Could a lotus live in the desert? Why not?' Listen for: the cactus's roots would rot and it has no floating leaves; the lotus would dry up and has no way to store water."
+     "do": "Ask: 'Could a cactus live in a pond? Could a lotus live in the desert? Why not?' Listen for: the cactus's roots would rot in the water, and the lotus would dry up because she cannot store water."
     }
    ],
    "need": [
-    "a lotus, colocasia (arbi) or nasturtium leaf",
+    "a colocasia (chembu or arbi) leaf, or a lotus leaf",
     "a cabbage leaf",
     "paper",
-    "a dropper or spoon",
-    "2 sponges or cloths",
-    "cling film",
-    "a cactus or aloe vera plant, or a picture of one"
+    "a spoon of water",
+    "2 sponges or cloths and a plastic bag",
+    "an aloe vera or cactus in a pot, or a picture of one"
    ]
   },
   {
@@ -222,13 +216,13 @@
      "kind": "warmup",
      "title": "Snow on a roof",
      "mins": 6,
-     "do": "Hold a flat plate and a cone made of paper side by side. Sprinkle rice or salt ('snow') on both. Ask: 'Which one holds the snow? Which one lets it slide off?' Show a picture of a pine or deodar tree (Shimla, Kashmir, Darjeeling). Its branches slope down like a cone and its leaves are thin needles. Ask: 'Why would that help in snow?' (Heavy snow slides off instead of breaking branches; thin waxy needles lose little water when the ground is frozen.)"
+     "do": "Hold a flat plate next to a cone made of paper. Sprinkle rice or salt on both, as 'snow'. Ask: 'Which one holds the snow? Which one lets it slide off?' Show a picture of a pine or deodar tree. Pines grow in Kashmir and Shimla, and there is a pine forest at Kodaikanal. Their branches slope down like a cone, and their leaves are thin needles. Ask: 'How would that help in snow?' (Heavy snow slides off instead of breaking the branches. Thin, waxy needles lose little water when the ground is frozen and roots cannot drink.)"
     },
     {
      "kind": "outdoor",
      "title": "Where can plants grow?",
      "mins": 17,
-     "do": "Walk around your building or street with Worksheet ws1, Section A. Find plants in surprising places: in a crack in the pavement, on top of a wall, on a roof, in a drain, on a tree's bark (moss, ferns, peepal seedlings). Also find places with NO plants: under a parked car, on a busy path, in a dark stairwell. At each, ask: 'What is missing here: light, water, soil, or peace from feet?' Your child records a few in the worksheet.",
+     "do": "Walk around your building or street with Worksheet ws1, Section A. Find plants in surprising places: in a crack in the pavement, on top of a wall, on a terrace, near a drain, on a tree's bark (moss, ferns, peepal seedlings). Also find places with NO plants: under a parked car, on a busy path, in a dark stairwell. At each, ask: 'What is missing here: light, water, soil, or peace from feet?' Your child writes or draws a few in the worksheet.",
      "ref": "ws1"
     },
     {
@@ -242,7 +236,7 @@
      "kind": "review",
      "title": "The peepal on the wall",
      "mins": 2,
-     "do": "Ask: 'A peepal seedling growing on a wall: how did its seed get up there?' (A bird ate a fig and left the seed in its droppings.) 'Do you think it will grow big? What does it need that the wall can't give?'"
+     "do": "Ask: 'A peepal seedling is growing on top of a wall. How did the seed get up there?' (A bird ate a peepal fig and left the seed in their droppings.) 'Do you think the peepal will grow big? What does she need that the wall can't give?'"
     }
    ],
    "need": [
@@ -262,26 +256,26 @@
      "kind": "warmup",
      "title": "Check the bottle",
      "mins": 3,
-     "do": "Look at the bottle garden again. Is it still misty? Are the plants alive? Ask: 'We haven't watered it for three days. Where is their water coming from?' (The same water goes round: soil, plant, air, glass, soil.)"
+     "do": "Look at the bottle garden again. Is it still misty? Are the plants alive? Ask: 'We haven't watered it for days. Where is their water coming from?' (The same water goes round: soil, plant, air, glass, soil.)"
     },
     {
      "kind": "talk",
      "title": "Body parts and habitats",
      "mins": 12,
-     "do": "Use pictures or a phone. Go through five animals. For each, point at one body part and ask: 'How does this help it in its habitat?' Fish: gills take oxygen from water; fins and a smooth shape for swimming. Duck: webbed feet like paddles; oily feathers that stay dry. Camel: wide padded feet that don't sink in sand; long eyelashes and closable nostrils against sandstorms; a hump of fat that is food stored for hard times (it is NOT water). Polar bear: thick fur and a layer of fat; white for hiding in snow. Frog: lives in water AND on land, so it has lungs and also breathes through its wet skin. Ask: 'Which of these animals would be in trouble in the others' homes?'"
+     "do": "Use pictures or a phone. Go through five animals. For each, first say the problem, then point at the body part and ask: 'How does this help them?' Fish: they must get air from water. Gills take oxygen out of the water. Duck: they swim on ponds. Webbed feet push water like paddles, and oiled feathers stay dry. Camel: they walk on soft sand with little food. Wide padded feet don't sink, long eyelashes and nostrils that close keep sand out, and the hump is fat, stored food (not water). Polar bear: they live on ice. Thick fur and a layer of fat keep them warm, and white fur hides them on snow. Frog: they live in water and on land. They have lungs, and also breathe through their wet skin. Ask: 'Which of these animals would be in trouble in another one's home?'"
     },
     {
      "kind": "act",
      "title": "Design a creature",
      "mins": 15,
-     "do": "Do Activity a2. Your child picks one habitat (pond, desert, snowy mountain, seashore or forest) and invents a new animal that would live there well. They draw it and label three body parts with what each one is for. Ask questions: 'Where does it find water? How does it stay warm, or cool? Where does it hide?' A good design gives a reason for every part.",
+     "do": "Do Activity a2. Your child picks one habitat (pond, desert, snowy mountain, seashore or forest) and invents a new animal who would live there well. They draw the animal and label three body parts with what each one is for. Ask: 'Where does your animal find water? How do they stay warm, or cool? Where do they hide?' A good design gives a reason for every part.",
      "ref": "a2"
     },
     {
      "kind": "act",
      "title": "Swap the homes",
-     "mins": 7,
-     "do": "Ask: 'Could your creature live in a different habitat? What would go wrong?' Then do two yoga poses named after animals that fit their homes: camel pose (ustrasana: kneel, hands on heels, chest up, like a camel's proud neck in the desert) and fish pose (matsyasana: lie back, chest lifted, as if floating). Breathe three times in each. Say the grown-up word: scientists say an animal is adapted to its habitat when its body and ways of living fit it."
+     "mins": 5,
+     "do": "Ask: 'Could your animal live in a different habitat? What would go wrong?' Then do two yoga poses named after animals: camel pose (ustrasana: kneel, hands on heels, chest up) and fish pose (matsyasana: lie back with the chest lifted). Breathe three times in each. Say the word scientists use: an animal is adapted to their habitat when their body and way of living fit it."
     }
    ],
    "need": [
@@ -298,13 +292,13 @@
      "kind": "outdoor",
      "title": "Animal clue hunt",
      "mins": 18,
-     "do": "Go to a park, garden or field edge. Say: 'Animals often hide. We will be detectives and find evidence that they are here.' Look for: footprints in mud or dust (birds, dogs, cats, cows), holes in the ground (rats, crabs, ants), droppings, feathers, a shed snake skin, spider webs, cocoons, nests in trees, leaves with holes or zigzag tunnels (caterpillars, leaf miners), trails of slime (snails), a broken snail shell near a stone (a bird's 'anvil'). For each clue, your child draws it and guesses who left it. Ask: 'How sure are you? What other clue would make you more sure?'"
+     "do": "Say: 'Animals often hide. We will be detectives and find evidence that they are here.' Look around your building: the stairs, the terrace, the parking area, the balcony pots. If you have a park or garden nearby, go there too. Look for: footprints in dust or mud (birds, dogs, cats), holes in the ground (rats, ants), droppings, feathers, spider webs, nests, leaves with holes or wiggly tunnels (caterpillars), silvery slime trails (snails). For each clue, your child draws it and guesses who left it. Ask: 'How sure are you? What other clue would make you more sure?'"
     },
     {
      "kind": "talk",
      "title": "Is a zoo a habitat?",
      "mins": 12,
-     "do": "Talk about voice v3. Ask first: 'Have you been to a zoo? Did the animals look happy?' Then give the evidence on both sides: zoos have saved some animals from dying out and help people care about wild animals, but many big animals, like elephants, live much shorter lives in zoos than in the wild, and some walk up and down the same path over and over. Ask the voice question. Let your child decide, and give a reason.",
+     "do": "Talk about voice v3. Ask first: 'Have you been to a zoo? Did the animals look happy?' Then give the evidence on both sides. Zoos have saved some animals from dying out and help people care about wild animals. But many big animals, like elephants, live much shorter lives in zoos than in the wild, and some walk up and down the same path over and over. Ask the voice question. Let your child decide and give a reason.",
      "ref": "v3"
     },
     {
@@ -316,8 +310,7 @@
    ],
    "need": [
     "a notebook and pencil",
-    "a magnifying glass if you have one",
-    "a park, garden or field"
+    "a magnifying glass, if you have one"
    ]
   },
   {
@@ -329,13 +322,13 @@
      "kind": "talk",
      "title": "Harm and care",
      "mins": 7,
-     "do": "Ask: 'What happens to a pond's habitat if someone fills it with plastic? If a forest is cut for a road?' Then ask: 'What can people do to make a habitat better?' Good answers: plant trees, leave a corner wild, put out water bowls in summer, clean a pond, keep lights off at night for moths and turtles. Look at your bottle garden: 'What would happen if we left it in hot sun? If we opened it and dropped in a sweet wrapper?'"
+     "do": "Ask: 'What happens to a pond if someone throws plastic in it? To a forest if it is cut for a road?' Then ask: 'What can people do to make a habitat better?' Good answers: plant trees, leave a corner wild, put out water bowls for birds in summer, clean a pond, keep beach lights off at night so baby turtles find the sea. Look at your bottle garden: 'What would happen if we left it in hot sun? If we opened it and dropped in a sweet wrapper?'"
     },
     {
      "kind": "game",
      "title": "Habitat Hop board game",
      "mins": 12,
-     "do": "Play the board game g1. When a player lands on a habitat square, they must name one plant or animal that lives there and one body part that helps it.",
+     "do": "Play the board game g1. When a player lands on a habitat square, they must name one plant or animal that lives there and one body part that helps them.",
      "ref": "g1"
     },
     {
@@ -349,7 +342,7 @@
      "kind": "check",
      "title": "Teach it back",
      "mins": 8,
-     "do": "Your child shows the bottle garden and the creature design to the family and explains: what a habitat gives, how a cactus and a lotus fit their homes, how a camel or fish fits its home, and how the bottle makes its own rain. Then ask the check questions. Challenge thinkers can try Worksheet ws3.",
+     "do": "Your child shows the bottle garden and the animal design to the family and explains: what a habitat gives, how a cactus and a lotus fit their homes, how a camel or a fish fits their home, and how the bottle makes its own rain. Then ask the check questions. If your child enjoys thinking hard, do Worksheet ws3.",
      "ref": "ws3"
     }
    ],
@@ -382,11 +375,11 @@
       },
       {
        "t": "mcq",
-       "p": "A peepal seedling on top of a wall probably got there because…",
+       "p": "A peepal seedling is growing on top of a wall. How did the seed probably get there?",
        "opts": [
-        "someone planted it",
+        "someone planted the seed",
         "a bird dropped the seed",
-        "it walked there"
+        "the wind blew a peepal tree up there"
        ],
        "a": 1
       }
@@ -397,7 +390,7 @@
      [
       {
        "t": "match",
-       "p": "Match the plant to its habitat.",
+       "p": "Match each plant to their habitat.",
        "pairs": [
         [
          "cactus",
@@ -426,8 +419,8 @@
        "p": "A cactus has spines instead of big flat leaves because…",
        "opts": [
         "spines lose very little water",
-        "spines are pretty",
-        "it is angry"
+        "spines help the cactus grow taller",
+        "spines catch rain"
        ],
        "a": 0
       },
@@ -443,7 +436,7 @@
       },
       {
        "t": "fill",
-       "p": "The natural home of a plant or animal is called its ____.",
+       "p": "The natural home of a plant or animal is called their ____.",
        "a": [
         "habitat"
        ]
@@ -498,7 +491,7 @@
      [
       {
        "t": "mcq",
-       "p": "A bird with long thin legs and a long sharp beak probably lives…",
+       "p": "A bird has long thin legs and a long sharp beak. Where does this bird probably live?",
        "opts": [
         "in a snowy forest",
         "at the edge of a pond, catching fish",
@@ -508,7 +501,7 @@
       },
       {
        "t": "mcq",
-       "p": "A camel's hump is full of…",
+       "p": "What is in a camel's hump?",
        "opts": [
         "water",
         "fat, stored food",
@@ -518,7 +511,7 @@
       },
       {
        "t": "mcq",
-       "p": "A white fox would be best hidden in…",
+       "p": "Where would a white fox be best hidden?",
        "opts": [
         "a green forest",
         "snow",
@@ -601,8 +594,8 @@
          "a bird"
         ],
         [
-         "a broken shell beside a stone",
-         "a bird that cracks snails"
+         "a grey feather on the terrace",
+         "a pigeon"
         ]
        ]
       },
@@ -626,7 +619,7 @@
      [
       {
        "t": "mcq",
-       "p": "Ladakh is very cold and gets very little rain. It is…",
+       "p": "Ladakh, in the far north of India, is very cold and gets very little rain. What is Ladakh?",
        "opts": [
         "not a desert, because it is cold",
         "a cold desert",
@@ -636,7 +629,7 @@
       },
       {
        "t": "mcq",
-       "p": "On a tall mountain, as you climb higher you usually find…",
+       "p": "You climb a tall mountain. As you go higher, what plants do you usually find?",
        "opts": [
         "more and bigger trees",
         "fewer, smaller, tougher plants",
@@ -662,7 +655,7 @@
       },
       {
        "t": "mcq",
-       "p": "A frog is suited to…",
+       "p": "Where is a frog suited to live?",
        "opts": [
         "only water",
         "only land",
@@ -672,7 +665,7 @@
       },
       {
        "t": "fill",
-       "p": "When an animal's body fits its home well, scientists say it is ____ to its habitat.",
+       "p": "When an animal's body fits their home well, scientists say the animal is ____ to their habitat.",
        "a": [
         "adapted",
         "suited"
@@ -690,7 +683,7 @@
       },
       {
        "t": "write",
-       "p": "The tea seedlings in the story lived because the glass box kept their habitat with them. What would you need to take with you to live on the Moon?",
+       "p": "In the story 'The Glass Garden', tea seedlings lived on a long sea journey because their glass box kept their habitat with them. What would you need to take with you to live on the Moon?",
        "lines": 3
       },
       {
@@ -710,15 +703,15 @@
    "day": 2,
    "question": "Can plants live in a sealed bottle without being watered?",
    "need": [
-    "a big transparent bottle or jar with a lid (a 5-litre water bottle cut and taped, or a big jar)",
+    "a big transparent bottle or jar with a lid (a 5-litre water bottle that a grown-up cuts and tapes, or a big jar)",
     "small pebbles",
-    "charcoal pieces (optional)",
-    "garden soil",
-    "2–3 small shade-loving plants: moss, small ferns, money plant cuttings",
+    "charcoal pieces, if you have them",
+    "soil from a pot, or potting soil from a nursery",
+    "2 or 3 small plants that like shade: money plant cuttings or small ferns from a nursery",
     "a spoon and a long stick"
    ],
    "steps": [
-    "Put a layer of pebbles at the bottom (for drainage), then a little charcoal if you have it (it keeps the soil fresh), then a thick layer of damp soil.",
+    "Put a layer of pebbles at the bottom, so extra water can drain. Add a little charcoal if you have it, which keeps the soil fresh. Then add a thick layer of damp soil.",
     "Make holes with the stick and plant the plants. Press the soil around them.",
     "Spray or spoon in a little water: damp, not muddy.",
     "Close the lid tightly.",
@@ -726,8 +719,8 @@
     "Look at it every day for two weeks. Draw it on day 1, day 3, day 7 and day 14."
    ],
    "predict": "Ask: 'If we never water it again, will the plants live? Why do you think so?'",
-   "observe": "Mist and drops form on the inside of the glass, usually in the morning, and run back down. The plants stay green. If it gets too wet and mouldy, open the lid for a day; if it dries out, add a spoon of water.",
-   "why": "Water from the soil and the leaves goes into the air as invisible water vapour. When it touches the cooler glass it turns back into drops (condensation) and runs down into the soil, where the roots drink it again. The same water goes round and round, like a tiny version of the rain on Earth. The plants also use the air inside: in light they take in carbon dioxide and give out oxygen, and at night they use some oxygen back. The bottle carries a whole small habitat inside it: light from outside, and water, air and soil inside. One bottle garden in England, planted by David Latimer in 1960, was opened only once, in 1972, to add water, and was still growing decades later.",
+   "observe": "Mist and drops form on the inside of the glass, usually in the morning, and run back down. The plants stay green. If it gets too wet and mouldy, open the lid for a day. If it dries out, add a spoon of water.",
+   "why": "Water from the soil and the leaves goes into the air as invisible water vapour. When it touches the cooler glass, it turns back into drops (condensation). The drops run down into the soil, and the roots drink the water again. The same water goes round and round, like a tiny version of rain on Earth. In light, the plants also take in carbon dioxide from the air inside and give out oxygen. The bottle holds a whole small habitat: light comes from outside, and water, air and soil are inside. One bottle garden in England, planted by David Latimer in 1960, was opened only once, in 1972, to add water, and kept growing for decades.",
    "safety": "A grown-up cuts any plastic bottle. Wash hands after handling soil.",
    "time": "20 min + 2 weeks of looking"
   },
@@ -737,22 +730,22 @@
    "day": 3,
    "question": "Why do drops roll off some leaves?",
    "need": [
-    "a lotus, colocasia (arbi) or nasturtium leaf",
+    "a colocasia (chembu or arbi) leaf, or a lotus leaf",
     "a cabbage or other leaf",
     "a sheet of paper",
     "a dropper or spoon of water",
-    "a pinch of dust or chalk powder"
+    "a pinch of chalk powder"
    ],
    "steps": [
     "Lay the three things side by side.",
     "Drop a few drops of water on each.",
     "Watch the shape of the drops. Tilt each one slowly.",
-    "Sprinkle a little dust on the lotus or colocasia leaf, then drip water and roll a drop across it."
+    "Sprinkle a little chalk powder on the colocasia or lotus leaf, then drip water and roll a drop across it."
    ],
    "predict": "Ask: 'What will the water do on each one?'",
-   "observe": "On the lotus or colocasia leaf the drop sits up like a silver ball and rolls off, picking up the dust as it goes. On paper it soaks in. On cabbage it may sit or spread a little.",
-   "why": "The lotus leaf is covered with tiny bumps topped with wax. Water can't spread out on it, so it forms balls that roll off and carry dirt with them. Scientists call this the lotus effect, and engineers copy it to make self-cleaning paints and cloth. For a plant that lives in a pond, it keeps the leaf dry, clean and floating, and keeps its breathing holes, on the top of the leaf, open to the air.",
-   "safety": "",
+   "observe": "On the colocasia or lotus leaf, the drop sits up like a silver ball and rolls off, picking up the chalk as it goes. On paper the water soaks in. On cabbage the drop may sit or spread a little.",
+   "why": "The lotus leaf and the colocasia leaf are covered with tiny bumps topped with wax. Water cannot spread out on them, so it forms balls that roll off and carry dirt away. Scientists call this the lotus effect, and engineers copy it to make paints and cloth that clean themselves. For a plant in a pond, it keeps the leaf clean and dry, and keeps the breathing holes on the top of the leaf open to the air.",
+   "safety": "No danger. Wipe up spilled water so nobody slips.",
    "time": "10 min"
   }
  ],
@@ -770,7 +763,7 @@
    "steps": [
     "Draw six big circles: pond, forest, desert, seashore, grassland, snowy mountain.",
     "Draw or cut out at least 12 living things.",
-    "Place each one in its habitat and say what the habitat gives it.",
+    "Put each one in their habitat and say what the habitat gives them.",
     "Put any living thing that fits two habitats on the line between them and explain why."
    ],
    "outcome": "A habitat poster with at least 12 living things, each with a reason."
@@ -787,10 +780,10 @@
     "Choose a habitat: pond, desert, snowy mountain, seashore or forest.",
     "Think: what is hard about living there? (too hot, too cold, no water, waves, hungry hunters)",
     "Invent an animal whose body solves those problems.",
-    "Draw it and label three body parts with what each is for.",
-    "Give it a name and say what it eats and where it shelters."
+    "Draw the animal and label three body parts with what each is for.",
+    "Give the animal a name and say what they eat and where they shelter."
    ],
-   "outcome": "An invented animal with three labelled body parts, each explained by its habitat."
+   "outcome": "An invented animal with three labelled body parts, each explained by their habitat."
   }
  ],
  "project": {
@@ -819,7 +812,7 @@
   ],
   "rules": [
    "Put all counters on START. Take turns to roll the die and move.",
-   "On a habitat square (POND, DESERT, FOREST, SEASHORE, SNOW, GRASSLAND), name one living thing that lives there and one body part that helps it. Right? Move 1 extra square.",
+   "On a habitat square (POND, DESERT, FOREST, SEASHORE, SNOW, GRASSLAND), name one living thing who lives there and one body part that helps them. If you are right, move 1 extra square.",
    "On a trouble square, follow what it says.",
    "On a care square, move forward as it says.",
    "First to HOME wins."
@@ -836,7 +829,7 @@
    "SNOW",
    "A polar bear in the hot sun: miss a turn",
    "GRASSLAND",
-   "You left a stone where you found it: forward 1",
+   "You put a pot back where you found it: forward 1",
    "POND",
    "Plastic in the pond: back 2",
    "DESERT",
@@ -857,42 +850,38 @@
  "challenge": [
   {
    "q": "Many people think a camel's hump is full of water. Is it?",
-   "hint": "No. The hump is mostly fat, stored food for hard times. Camels survive without water for a long time because their bodies lose very little: they make very dry droppings, sweat little, and can let their body temperature rise during the day. Why do you think the 'water hump' story is so popular?"
+   "hint": "No. The hump is mostly fat, which is stored food for hard times. Camels can go a long time without water because their bodies lose very little: their droppings are very dry, they sweat little, and they let their body get hotter during the day. Why do you think the 'water hump' story is so popular?"
   },
   {
    "q": "People often say deserts are hot and sandy. Are all deserts hot?",
-   "hint": "A desert is a place with very little rain, not a hot place. Ladakh in India, the Gobi in Mongolia and even Antarctica are cold deserts. Antarctica is the biggest desert in the world. What makes a desert hard to live in, then? In 1983 Aditi Pant, an oceanographer from Pune, and Sudipta Sengupta, a geologist, became the first Indian women to work in Antarctica, on India's third Antarctic expedition, studying its waters and rocks. In 1983 Aditi Pant, an oceanographer from Pune, and Sudipta Sengupta, a geologist, became the first Indian women to work in Antarctica, on India's third Antarctic expedition, studying its waters and rocks."
+   "hint": "A desert is a place with very little rain, not a hot place. Ladakh in India, the Gobi in Mongolia and Antarctica are cold deserts. Antarctica is the biggest desert in the world. So what makes a desert hard to live in? In 1983, Aditi Pant, a sea scientist from Pune, and Sudipta Sengupta, a rock scientist, became the first Indian women to work in Antarctica, on India's third expedition there."
   }
  ],
  "perspectives": [
   {
    "who": "A camel herder of the Raika (Rebari) community in Rajasthan",
-   "view": "Raika families have kept camels in the Thar for many generations and know which desert plants each camel needs and where the hidden water is. Ask: who knows more about the desert habitat, a scientist who visits for a month or a family who has lived there for 500 years? What could each learn from the other?"
+   "view": "Raika families have kept camels in the Thar desert for many generations. They know which desert plants each camel needs and where the hidden water is. Ask: who knows more about the desert habitat, a scientist who visits for a month or a family who has lived there for hundreds of years? What could each learn from the other?"
   },
   {
    "who": "A fish in a fish tank",
-   "view": "It has water, food and a little plastic plant. It does not have a river, rain, a muddy bottom, other kinds of fish or space to swim far. Ask: what is missing from its habitat? Does it know?"
+   "view": "The fish has water, food and a little plastic plant. The fish does not have a river, rain, a muddy bottom, other kinds of fish or space to swim far. Ask: what is missing from this habitat? Does the fish know?"
   },
   {
    "who": "A child in Leh, Ladakh",
-   "view": "Winters reach far below freezing and rain is rare, yet barley, apricots and yaks thrive, and houses are built thick, with flat roofs for drying food. Ask: is a cold, dry place a harsh habitat, or just a different one?"
+   "view": "Winters in Leh are far below freezing and rain is rare. Yet barley, apricots and yaks do well there, and houses are built with thick walls and flat roofs for drying food. Ask: is a cold, dry place a hard habitat, or just a different one?"
   },
   {
-   "who": "A sea turtle and a blind cave fish",
-   "view": "A turtle needs both sea and beach; a fish in a dark cave has lost its eyes over many generations, because in the dark, eyes are not needed. Ask: is a body that fits its home 'better', or only 'better here'?"
-  },
-  {
-   "who": "A sea turtle and a blind cave fish",
-   "view": "A turtle needs both sea and beach; a fish in a dark cave has lost its eyes over many generations, because in the dark, eyes are not needed. Ask: is a body that fits its home 'better', or only 'better here'?"
+   "who": "A sea turtle on a Chennai beach, and a fish in a dark cave",
+   "view": "Olive ridley turtles live in the sea but come onto beaches, such as those near Chennai, to lay their eggs. Some fish that live in dark caves have no working eyes. Over many generations, their family lost them. Ask: is a body that fits one home 'better', or only better for that home?"
   }
  ],
  "voices": [
   {
    "id": "v1",
    "who": "Nathaniel Bagshaw Ward (1791–1868), England",
-   "idea": "Ward was a London doctor who could not grow ferns in his garden because of the city's smoke. Around 1829 he noticed a fern and some grass sprouting in a sealed glass bottle where he had put a moth chrysalis in damp soil. The plants lived inside for years without new water. He designed sealed glass cases ('Wardian cases') and showed that plants could survive long sea voyages inside them.",
-   "then": "Plant collectors quickly took up the cases. Plants that used to die on ships now arrived alive. The cases were used to move tea from China to India, rubber from South America to Asia, and many other plants around the world, often to make money for empires rather than for the people whose plants they were.",
-   "now": "His discovery is accepted: a sealed case keeps its own water cycling and its own moist air. The terrariums and bottle gardens people keep today are his invention.",
+   "idea": "Ward was a London doctor who could not grow ferns in his garden because of the city's smoke. Around 1829 he noticed a fern and some grass sprouting in a sealed glass bottle where he had put a moth chrysalis in damp soil. The plants lived inside for years without new water. He designed sealed glass cases, called Wardian cases, and showed that plants could survive long sea journeys inside them.",
+   "then": "Plant collectors quickly took up the cases, and plants that used to die on ships now arrived alive. The cases carried tea from China to India, rubber from South America to Asia, and many other plants around the world. Often this made money for empires rather than for the people whose plants they were.",
+   "now": "His discovery is accepted: a sealed case keeps its water going round and keeps its air moist. The bottle gardens people keep today come from his idea.",
    "status": "accepted",
    "ask": "Ward found his discovery by accident, because he noticed something odd in a bottle. What would you need to do to notice an accident like that?",
    "day": 2
@@ -900,9 +889,9 @@
   {
    "id": "v2",
    "who": "Alexander von Humboldt (1769–1859), Germany, and Aimé Bonpland (1773–1858), France",
-   "idea": "In 1802, travelling in South America, Humboldt and the botanist Bonpland climbed high up the volcano Chimborazo with local guides. They noted that plants change in bands as you go up: hot forest at the bottom, then cooler forests, then grassland, then only mosses and lichens near the snow. Humboldt drew a famous picture showing which plants live at which height, and saw that climbing a mountain is like travelling towards the cold poles.",
-   "then": "His books made him famous across Europe. Bonpland, who did much of the plant collecting and describing, became much less famous, and the local guides and Indigenous people who knew the mountains were hardly named at all.",
-   "now": "The idea that plants and animals live in zones set by temperature and rain is accepted. Scientists today are watching many mountain plants creep higher up as the climate warms.",
+   "idea": "In 1802, travelling in South America, Humboldt and the plant scientist Bonpland climbed high up the volcano Chimborazo with local guides. They noted that plants change in bands as you go up: hot forest at the bottom, then cooler forest, then grassland, then only mosses and lichens near the snow. Humboldt drew a famous picture showing which plants live at which height. He saw that climbing a mountain is like travelling towards the cold poles.",
+   "then": "His books made him famous across Europe. Bonpland, who did much of the plant collecting and describing, became much less famous. The local guides and Indigenous people who knew the mountains were hardly named at all.",
+   "now": "Scientists accept that plants and animals live in zones set by temperature and rain. Today they are watching many mountain plants move higher up as the climate warms.",
    "status": "accepted",
    "ask": "If plants are moving up mountains as the Earth warms, what happens to the plants that already live at the very top?",
    "day": 3
@@ -910,11 +899,11 @@
   {
    "id": "v3",
    "who": "Zoo scientists and their critics today",
-   "idea": "Supporters say good zoos breed animals that are dying out in the wild and have helped return some, like the Arabian oryx, back to the wild. They say zoos help people, especially children, care about wild animals.",
-   "then": "Critics point to research such as a 2008 study by Ros Clubb and colleagues, which found that elephants in European zoos lived much shorter lives than elephants in a national park in Kenya or working elephants in Myanmar. Many big, wide-ranging animals pace up and down in enclosures, a sign of stress.",
-   "now": "Scientists agree that some animals do well in zoos and some do badly, and that big, far-roaming, clever animals like elephants suffer most. Whether zoos should exist, and for which animals, is still argued.",
+   "idea": "Supporters say good zoos breed animals who are dying out in the wild, and have helped return some, like the Arabian oryx, to the wild. They say zoos help people, especially children, care about wild animals.",
+   "then": "Critics point to research such as a 2008 study by Ros Clubb and others. It found that elephants in European zoos lived much shorter lives than elephants in a national park in Kenya or working elephants in Myanmar. Many big animals who roam far in the wild pace up and down in enclosures, a sign of stress.",
+   "now": "Scientists agree that some animals do well in zoos and some do badly, and that big, clever animals who roam far, like elephants, suffer most. Whether zoos should exist, and for which animals, is still argued.",
    "status": "debated",
-   "ask": "What would you need to see to decide if an animal in a zoo is well? How could you tell, if it cannot speak?",
+   "ask": "How could you tell if an animal in a zoo is well, when the animal cannot tell you?",
    "day": 6
   }
  ],
@@ -939,35 +928,35 @@
    "When his father came up on deck, Ah-Lin took his hand and showed him, without a word. His father looked for a long time too. Then he nodded slowly, the way he nodded when tea was ready.",
    "Weeks later, the ship came up a wide brown river to a city of noise and heat, and then they travelled for many days to the north, up into mountains. The Englishman was disappointed with the first places he was shown. Too hot, said Ah-Lin's father. Too flat. Too dry. Then, one morning, they came to a steep green slope where a white mist was climbing up out of the valley, and Ah-Lin's father stopped, and breathed in, and smiled.",
    "They opened the glass boxes there. The seedlings went into the ground on a cool grey morning, with the mist around their shoulders. They did not seem to notice that they had crossed an ocean.",
-   "Many years later, people would drink tea from those hills all over the world, and the papers would say that an Englishman had brought tea to India. Ah-Lin was an old man by then. He knew whose hands had rolled the first leaves. But mostly, when he thought of that journey, he thought of the drop of water sliding down the glass, and the little green leaf, and the moment he understood that a home is not a place. It is everything a place gives you."
+   "Many years later, people would drink tea from those hills all over the world, and the papers would say that an Englishman had brought tea to India. Ah-Lin was an old man by then. He knew whose hands had rolled the first leaves. But mostly, when he thought of that journey, he thought of the drop of water sliding down the glass, and the little green leaf, and the moment he understood why the seedlings had lived. The glass had kept the mist, the still air and the wet soil of home around them."
   ],
-  "epiphany": "A habitat is not just a spot on a map: it is the conditions a living thing needs (moisture, still air, the right temperature, soil, light). The seedlings in open baskets died because the salt wind took away their habitat; the ones in sealed glass cases lived because the case carried their habitat with them, with water cycling inside (condensation). The turn is Ah-Lin seeing the 'rain' inside the glass. The story is fiction built on real events: in 1851 the plant collector Robert Fortune shipped tea seedlings from China to India in Wardian cases, with Chinese tea workers whose skill made Indian tea possible but who are rarely named.",
+  "epiphany": "A habitat is the conditions a living thing needs: moisture, still air, the right temperature, soil and light. The seedlings in open baskets died because the salt wind took those away. The ones in sealed glass cases lived because the case kept those conditions, with water going round inside (condensation). The turn is Ah-Lin seeing the 'rain' inside the glass. The story is fiction built on real events: in 1851 the plant collector Robert Fortune shipped tea plants from China to India in Wardian cases, with Chinese tea workers whose skill helped start Indian tea but who are rarely named.",
   "ask": [
    "Why did the seedlings in the baskets die?",
    "What did Ah-Lin see inside the glass box? Where did the 'rain' come from?",
-   "What did Ah-Lin mean when he thought the plants had 'brought their home with them'?",
+   "What did Ah-Lin mean when he thought the plants in the glass 'had brought their home with them'?",
    "Why did his father smile at the misty green slope?",
    "Who do the papers say brought tea to India? Who else should be remembered?"
   ]
  },
  "ideas": [
   {
-   "idea": "A habitat is everything a place gives, not just the place.",
-   "more": "Water, air, warmth, shelter, food, light and space together. The bottle garden shows that if you can carry those, a habitat can travel."
+   "idea": "A habitat is everything a place gives a living thing.",
+   "more": "Water, air, warmth, shelter, food, light and space together. The bottle garden shows that if you can keep these together, a habitat can travel."
   },
   {
    "idea": "Bodies fit their homes.",
-   "more": "A cactus's water-storing stem, a lotus's waxy leaf, a fish's gills and a camel's wide feet each solve a problem their habitat sets. Scientists call this being adapted."
+   "more": "Each body solves a problem of its home. A cactus must save water, so her stem stores it. A fish must breathe in water, so they have gills. A camel walks on soft sand, so they have wide feet. Scientists call this being adapted."
   },
   {
    "idea": "The same water goes round and round.",
-   "more": "In the bottle and on the whole Earth, water rises as vapour, turns to drops and falls again. The rain on your window has been through clouds, seas, plants and animals many times."
+   "more": "In the bottle and on the whole Earth, water rises as vapour, turns to drops and falls again. The same water has been in clouds, seas, plants and animals many times."
   }
  ],
  "unknowns": [
   "As the Earth warms, plants and animals are moving up mountains and towards the poles. Nobody knows which ones will manage to move in time, and what will happen to those already at the top.",
-  "How long can a sealed bottle garden survive? Some have lived more than 50 years, and nobody knows the limit.",
-  "Can a zoo ever give a big, wide-roaming animal like an elephant everything its habitat gives? Scientists still argue."
+  "How long can a sealed bottle garden survive? One has lived more than 60 years, and nobody knows the limit.",
+  "Can a zoo ever give a big animal who roams far, like an elephant, everything their habitat gives? Scientists still argue."
  ],
  "books": [
   {
@@ -982,21 +971,21 @@
    "author": "Kate Messner",
    "for": "read together",
    "age": "4–8",
-   "why": "Above the snow a girl skis; below it, small animals stay warm in hidden tunnels. A lovely way into cold habitats."
+   "why": "Above the snow a girl skis. Below it, small animals stay warm in hidden tunnels. A gentle way into cold habitats."
   },
   {
    "title": "Desert Giant: The World of the Saguaro Cactus",
    "author": "Barbara Bash",
    "for": "read together",
    "age": "6–9",
-   "why": "The life of one huge cactus and all the animals that depend on it, beautifully drawn."
+   "why": "The life of one huge cactus and all the animals who depend on her, beautifully drawn."
   },
   {
    "title": "Island: A Story of the Galápagos",
    "author": "Jason Chin",
    "for": "read together",
    "age": "6–10",
-   "why": "An island rises from the sea and plants and animals arrive and change to fit it. A first look at how living things become suited to a place."
+   "why": "An island rises from the sea, and plants and animals arrive and change to fit it. A first look at how living things become suited to a place."
   }
  ],
  "check": [
@@ -1006,15 +995,15 @@
   },
   {
    "q": "How is a cactus suited to the desert?",
-   "a": "Its thick stem stores water, its waxy skin and spines (changed leaves) lose very little water, and the spines keep thirsty animals away."
+   "a": "Her thick stem stores water. Her waxy skin and spines (changed leaves) lose very little water, and the spines keep thirsty animals away."
   },
   {
    "q": "How is a lotus suited to a pond?",
-   "a": "Its big leaves float and are waxy, so water rolls off; its roots grow in the mud at the bottom."
+   "a": "Her big leaves lie on the water and are waxy, so water rolls off and the breathing holes on top stay open. Her roots grow in the mud at the bottom."
   },
   {
-   "q": "Name an animal and one body part that helps it in its habitat.",
-   "a": "For example: fish, gills for breathing underwater; camel, wide feet for sand; polar bear, thick fur and fat for cold; duck, webbed feet for paddling."
+   "q": "Name an animal and one body part that helps them in their habitat.",
+   "a": "For example: a fish has gills to breathe underwater. A camel has wide feet for sand. A polar bear has thick fur and fat for the cold. A duck has webbed feet for paddling."
   },
   {
    "q": "Why doesn't our bottle garden need watering?",
