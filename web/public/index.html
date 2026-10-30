@@ -5198,6 +5198,14 @@ dialog .fxfab {
   box-shadow: 0 6px 16px #0003;
   border-color: var(--tang);
 }
+.fxpc .pcf img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 6px;
+}
 .fxpc.two .pcb,
 .fxpc.two.on .pcf {
   display: none;
@@ -6324,6 +6332,15 @@ body {
   font-size: 12.5px;
   color: var(--muted);
 }
+/* a side remark, like a safety tip, kept apart from the main point of the card */
+.rsnote {
+  font-size: 15px !important;
+  color: var(--muted);
+  padding: 8px 12px;
+  border-left: 3px solid var(--sun);
+  background: var(--sunk);
+  border-radius: var(--r);
+}
 .rswords {
   display: grid;
   grid-template-columns: auto 1fr;
@@ -6384,9 +6401,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="e593ab9aa636593342";window.DK_APPV="e593ab9aa6";window.DK_DATAV="36594b1a5b"</script>
-<script src="/config.js?v=e593ab9aa636593342"></script>
+<script>window.DK_BUILD="280819f4bd07d03342";window.DK_APPV="280819f4bd";window.DK_DATAV="07d04c6c9c"</script>
+<script src="/config.js?v=280819f4bd07d03342"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=e593ab9aa636593342"></script>
+<script src="/platform.js?v=280819f4bd07d03342"></script>
 </body>
 </html>

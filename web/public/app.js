@@ -7402,14 +7402,14 @@ function fxWsPrintDoc(u, w) {
 /* A game piece is text, or a card with a front and a back ({f, b}); on screen a two-sided card turns over when tapped */
 function fxPiece(it, j, kind) {
   const two = typeof it === "object";
-  return `<div class="fxpc${two ? " two" : ""}" data-fx="flip" style="--h:${(j * 47) % 360}">${kind === "tokens" ? "💡" : two ? `<span class="pcf">${esc(it.f)}</span><span class="pcb">${esc(it.b)}</span>` : esc(it)}</div>`;
+  return `<div class="fxpc${two ? " two" : ""}" data-fx="flip" style="--h:${(j * 47) % 360}">${kind === "tokens" ? "💡" : two ? `<span class="pcf">${it.img ? `<img src="${esc(it.img.src)}" alt="">` : ""}${esc(it.f)}</span><span class="pcb">${esc(it.b)}</span>` : esc(it)}</div>`;
 }
 /* The game's print-out. Two-sided cards come first, a page of fronts then a page of their backs, each row mirrored so a
    back lands behind its own front when the sheet is printed on both sides (or turned over and fed in again);
    the rules and the one-sided pieces follow */
 function fxGamePrintDoc(g) {
   const PER = 20,
-    cell = (t) => `<div class="pc">${esc(t)}</div>`,
+    cell = (t, img) => `<div class="pc">${img ? `<img src="${esc(img.src)}" alt="">` : ""}${esc(t)}</div>`,
     two = g.printables.filter((p) => p.items.some((it) => typeof it === "object")),
     one = g.printables.filter((p) => !two.includes(p));
   let sheets = "";
@@ -7418,7 +7418,7 @@ function fxGamePrintDoc(g) {
       const L = p.items.slice(i, i + PER),
         rows = [];
       for (let r = 0; r < L.length; r += 4) rows.push(L.slice(r, r + 4));
-      sheets += `<section class="sheet"><p class="tag">${esc(p.title)} · fronts</p><div class="grid">${L.map((x) => cell(x.f ?? x)).join("")}</div></section>`;
+      sheets += `<section class="sheet"><p class="tag">${esc(p.title)} · fronts</p><div class="grid">${L.map((x) => cell(x.f ?? x, x.img)).join("")}</div></section>`;
       sheets += `<section class="sheet"><p class="tag">${esc(p.title)} · backs (print on the other side)</p><div class="grid">${rows
         .map((R) =>
           [...R, ...Array(4 - R.length).fill(null)]
@@ -7432,8 +7432,9 @@ function fxGamePrintDoc(g) {
   const tip = two.length
     ? `<div class="tip"><b>Two-sided cards.</b> Print the card pages on both sides of the paper, flipping on the long edge. No two-sided printing? Print the first card page, put the sheet back in the printer turned over, then print the next page. Or print both pages, glue them back to back, then cut.</div>`
     : "";
-  const rest = `<section><h1>${esc(g.title)}</h1>${tip}<h3>Rules</h3><ol>${g.rules.map((r) => `<li>${esc(r)}</li>`).join("")}</ol>${one.map((p) => `<h3>${esc(p.title)}</h3><div class="grid loose">${p.items.map(cell).join("")}</div>`).join("")}</section>`;
-  return `<!doctype html><meta charset="utf-8"><title>DeepKids</title><style>@page{size:A4;margin:12mm}body{font:15px/1.5 Nunito,system-ui,sans-serif;margin:0}li{margin:10px 0}.sheet{page-break-after:always}.tag{font:700 12px sans-serif;color:#666;margin:0 0 6px}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:3mm}.sheet .pc{height:48mm}.pc{border:2px dashed #999;border-radius:10px;padding:8px;min-height:90px;font:600 14px sans-serif;display:flex;align-items:center;justify-content:center;text-align:center;box-sizing:border-box}.pc.blank{border-color:transparent}.loose .pc{display:block;text-align:left}.tip{border:2px solid #e8a317;border-radius:10px;padding:10px;margin:10px 0}</style>${sheets}${rest}`;
+  const credits = [...new Set(two.flatMap((p) => p.items.map((x) => x.img?.credit).filter(Boolean)))],
+    rest = `<section><h1>${esc(g.title)}</h1>${tip}<h3>Rules</h3><ol>${g.rules.map((r) => `<li>${esc(r)}</li>`).join("")}</ol>${one.map((p) => `<h3>${esc(p.title)}</h3><div class="grid loose">${p.items.map(cell).join("")}</div>`).join("")}${credits.length ? `<p class="credit">Pictures: ${credits.map(esc).join(" · ")}</p>` : ""}</section>`;
+  return `<!doctype html><meta charset="utf-8"><title>DeepKids</title><style>@page{size:A4;margin:12mm}body{font:15px/1.5 Nunito,system-ui,sans-serif;margin:0}li{margin:10px 0}.sheet{page-break-after:always}.tag{font:700 12px sans-serif;color:#666;margin:0 0 6px}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:3mm}.sheet .pc{height:48mm}.pc{border:2px dashed #999;border-radius:10px;padding:8px;min-height:90px;font:600 14px sans-serif;display:flex;align-items:center;justify-content:center;text-align:center;box-sizing:border-box}.pc.blank{border-color:transparent}.sheet .pc{flex-direction:column;gap:4px}.pc img{width:100%;height:30mm;object-fit:cover;border-radius:6px}.credit{font-size:10px;color:#777}.loose .pc{display:block;text-align:left}.tip{border:2px solid #e8a317;border-radius:10px;padding:10px;margin:10px 0}</style>${sheets}${rest}`;
 }
 function fxPrint(id) {
   const u = FXU,
@@ -9281,7 +9282,7 @@ function paperView() {
         .map((x) => esc(x.credit))
         .filter((x, k, a) => a.indexOf(x) === k)
         .join(" · ")}</p>`
-    : `<span class="rsk">${RS_KIND[c.k] || "✨"}</span><h3>${esc(c.t)}</h3>${c.img ? `<figure><img src="${esc(c.img.src)}" alt="${esc(c.img.alt || "")}"><figcaption>${esc(c.img.credit)}</figcaption></figure>` : ""}${c.b ? `<p>${esc(c.b)}</p>` : ""}${c.words ? `<dl class="rswords">${c.words.map((w) => `<dt>${esc(w.w)}</dt><dd>${esc(w.m)}</dd>`).join("")}</dl>` : ""}`;
+    : `<span class="rsk">${RS_KIND[c.k] || "✨"}</span><h3>${esc(c.t)}</h3>${c.img ? `<figure><img src="${esc(c.img.src)}" alt="${esc(c.img.alt || "")}"><figcaption>${esc(c.img.credit)}</figcaption></figure>` : ""}${c.b ? `<p>${esc(c.b)}</p>` : ""}${c.note ? `<p class="rsnote">${esc(c.note)}</p>` : ""}${c.words ? `<dl class="rswords">${c.words.map((w) => `<dt>${esc(w.w)}</dt><dd>${esc(w.m)}</dd>`).join("")}</dl>` : ""}`;
   return `<section class="sec"><div class="rstop">${i ? "" : `<img src="${esc(p.cover.src)}" alt="${esc(p.cover.alt || "")}">`}<span class="eyebrow">${esc(p.source.name)} · ${p.year || p.source.year}</span><h2>${esc(p.title)}</h2></div>${nav}<div class="card rsflash rs-${last ? "src" : c.k}">${body}</div>${last ? `<div class="row rsend"><button class="btn" data-act="rsdone" data-p="${esc(p.id)}" ${st.read[p.id] ? "disabled" : ""}>${st.read[p.id] ? "✓ Marked as read" : "Mark this paper as read"}</button><button class="btn soft" data-act="rslike" data-p="${esc(p.id)}" aria-pressed="${!!st.like[p.id]}">${st.like[p.id] ? "❤️ Liked" : "🤍 Like it"}</button></div>` : ""}</section>`;
 }
 
