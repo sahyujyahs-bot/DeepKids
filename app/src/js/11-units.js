@@ -1668,26 +1668,6 @@ function fxPrep(u, n) {
   );
   return out;
 }
-function fxWeekList() {
-  const until = addDays(today, 7),
-    seen = new Set(),
-    buy = [],
-    home = [];
-  upcoming()
-    .filter((x) => x.date >= today && x.date <= until && x.u.board === "unit")
-    .forEach((x) =>
-      fxPrep(x.u, x.n).forEach((p) => {
-        const key = p.task;
-        if (seen.has(key)) return;
-        seen.add(key);
-        (p.url ? buy : home).push({ ...p, date: x.date, lesson: x.u.title });
-      }),
-    );
-  const row = (p) =>
-    `<label class="row" style="gap:8px"><input type="checkbox" data-fxtick="${esc(p.id)}" ${S.prep[p.id] ? "checked" : ""}><span class="sm">${esc(p.task.replace(/^(Get|Gather): /, ""))} <span class="xs muted">· ${fmt(p.date)} · ${esc(p.lesson)}</span>${p.url ? ` <a target="_blank" rel="noopener" href="${esc(p.url)}">🛒</a>` : ""}</span></label>`;
-  if (!buy.length && !home.length) return "";
-  return `<section class="sec"><div class="sech"><h3>This week: buy and gather</h3></div>${buy.length ? `<p class="xs"><b>To buy</b></p>${buy.map(row).join("")}` : ""}${home.length ? `<p class="xs"><b>From home</b></p>${home.map(row).join("")}` : ""}<p class="xs muted">Each item also shows in the morning or evening prep the day it is needed.</p></section>`;
-}
 /* Practise again: every finished unit and chapter, plus every question answered wrongly anywhere */
 function fxPractiseAll() {
   const U = fxRefs(),

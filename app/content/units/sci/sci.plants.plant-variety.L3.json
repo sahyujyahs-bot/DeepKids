@@ -655,32 +655,104 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "24 plant cards to cut out (front: plant and kind, back: its uses)",
+     "title": "24 plant cards to cut out (front: plant and kind, back: what the plant is used for). Print the backs on the other side of the fronts.",
      "items": [
-      "Neem: tree. Uses: shade, datun twigs, wood",
-      "Mango: tree. Uses: fruit, shade, wood",
-      "Peepal: tree. Uses: shade",
-      "Coconut: tree (a palm). Uses: food, oil, coir rope",
-      "Teak: tree. Uses: wood for doors and furniture",
-      "Rubber tree: tree. Uses: rubber from their sap",
-      "Hibiscus: shrub. Uses: flowers",
-      "Rose: shrub. Uses: flowers, rose water",
-      "Cotton: shrub. Uses: cloth",
-      "Mehendi: shrub. Uses: colour for hands",
-      "Lemon: shrub. Uses: fruit",
-      "Tulsi: herb that becomes a shrub. Uses: tea, medicine",
-      "Coriander: herb. Uses: food",
-      "Mint: herb. Uses: food, medicine",
-      "Rice: herb (a grass). Uses: food",
-      "Wheat: herb (a grass). Uses: food",
-      "Sugarcane: herb (a grass). Uses: sugar",
-      "Bamboo: a giant grass. Uses: building, baskets",
-      "Money plant: climber. Uses: decoration",
-      "Pepper: climber. Uses: spice",
-      "Bitter gourd: climber. Uses: food",
-      "Pumpkin: creeper. Uses: food",
-      "Watermelon: creeper. Uses: fruit",
-      "Sweet potato: creeper. Uses: food"
+      {
+       "f": "Neem: tree",
+       "b": "Uses: shade, datun twigs, wood"
+      },
+      {
+       "f": "Mango: tree",
+       "b": "Uses: fruit, shade, wood"
+      },
+      {
+       "f": "Peepal: tree",
+       "b": "Uses: shade"
+      },
+      {
+       "f": "Coconut: tree (a palm)",
+       "b": "Uses: food, oil, coir rope"
+      },
+      {
+       "f": "Teak: tree",
+       "b": "Uses: wood for doors and furniture"
+      },
+      {
+       "f": "Rubber tree: tree",
+       "b": "Uses: rubber from their sap"
+      },
+      {
+       "f": "Hibiscus: shrub",
+       "b": "Uses: flowers"
+      },
+      {
+       "f": "Rose: shrub",
+       "b": "Uses: flowers, rose water"
+      },
+      {
+       "f": "Cotton: shrub",
+       "b": "Uses: cloth"
+      },
+      {
+       "f": "Mehendi: shrub",
+       "b": "Uses: colour for hands"
+      },
+      {
+       "f": "Lemon: shrub",
+       "b": "Uses: fruit"
+      },
+      {
+       "f": "Tulsi: herb that becomes a shrub",
+       "b": "Uses: tea, medicine"
+      },
+      {
+       "f": "Coriander: herb",
+       "b": "Uses: food"
+      },
+      {
+       "f": "Mint: herb",
+       "b": "Uses: food, medicine"
+      },
+      {
+       "f": "Rice: herb (a grass)",
+       "b": "Uses: food"
+      },
+      {
+       "f": "Wheat: herb (a grass)",
+       "b": "Uses: food"
+      },
+      {
+       "f": "Sugarcane: herb (a grass)",
+       "b": "Uses: sugar"
+      },
+      {
+       "f": "Bamboo: a giant grass",
+       "b": "Uses: building, baskets"
+      },
+      {
+       "f": "Money plant: climber",
+       "b": "Uses: decoration"
+      },
+      {
+       "f": "Pepper: climber",
+       "b": "Uses: spice"
+      },
+      {
+       "f": "Bitter gourd: climber",
+       "b": "Uses: food"
+      },
+      {
+       "f": "Pumpkin: creeper",
+       "b": "Uses: food"
+      },
+      {
+       "f": "Watermelon: creeper",
+       "b": "Uses: fruit"
+      },
+      {
+       "f": "Sweet potato: creeper",
+       "b": "Uses: food"
+      }
      ]
     },
     {

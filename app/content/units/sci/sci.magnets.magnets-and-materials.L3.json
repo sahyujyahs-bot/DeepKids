@@ -609,32 +609,104 @@
     },
     {
      "kind": "cards",
-     "title": "24 question cards to cut out",
+     "title": "24 question cards to cut out (the answer is on the back)",
      "items": [
-      "Will a magnet attract a brass key? (No)",
-      "Will a magnet attract a steel safety pin? (Yes)",
-      "Name one metal a magnet attracts. (Iron, steel, nickel or cobalt)",
-      "Will a magnet attract aluminium foil? (No)",
-      "Can a magnet attract a pin through a page of paper? (Yes)",
-      "What do you rub a needle with to make it a magnet? (A magnet)",
-      "Rub the needle back and forth, or always one way? (Always one way)",
-      "Which way does a compass point? (North and south)",
-      "What is a natural magnet stone called? (A lodestone)",
-      "What is the black magnet mineral in sand called? (Magnetite)",
-      "What tiny particle in every atom is a tiny magnet? (The electron)",
-      "Inside iron, the regions where the tiny magnets point the same way have a name. What is it? (Domains)",
-      "Does heating a magnet red-hot make it stronger, or stop it being a magnet? (It stops it being a magnet)",
-      "What makes the Earth a magnet? (Moving liquid iron deep inside it)",
-      "Has the Earth's magnetic field ever flipped? (Yes, many times)",
-      "Name an animal that senses the Earth's magnetic field. (Turtle, robin or magnetic bacteria)",
-      "What are the coloured lights near the poles called? (Auroras)",
-      "What does 'chumbaka' mean? (The one that kisses)",
-      "Who first said the Earth is a magnet, in 1600? (William Gilbert)",
-      "Who found that the Earth's centre is solid, in 1936? (Inge Lehmann)",
-      "TEST IT: does a magnet stick to your spoon? Guess first, then test.",
-      "TEST IT: how many paper clips can your magnet hold in a chain?",
-      "TEST IT: can a magnet attract a pin through your hand? Guess first.",
-      "TEST IT: put a coin on the table. Does a magnet attract it?"
+      {
+       "f": "Will a magnet attract a brass key?",
+       "b": "No"
+      },
+      {
+       "f": "Will a magnet attract a steel safety pin?",
+       "b": "Yes"
+      },
+      {
+       "f": "Name one metal a magnet attracts.",
+       "b": "Iron, steel, nickel or cobalt"
+      },
+      {
+       "f": "Will a magnet attract aluminium foil?",
+       "b": "No"
+      },
+      {
+       "f": "Can a magnet attract a pin through a page of paper?",
+       "b": "Yes"
+      },
+      {
+       "f": "What do you rub a needle with to make it a magnet?",
+       "b": "A magnet"
+      },
+      {
+       "f": "Rub the needle back and forth, or always one way?",
+       "b": "Always one way"
+      },
+      {
+       "f": "Which way does a compass point?",
+       "b": "North and south"
+      },
+      {
+       "f": "What is a natural magnet stone called?",
+       "b": "A lodestone"
+      },
+      {
+       "f": "What is the black magnet mineral in sand called?",
+       "b": "Magnetite"
+      },
+      {
+       "f": "What tiny particle in every atom is a tiny magnet?",
+       "b": "The electron"
+      },
+      {
+       "f": "Inside iron, the regions where the tiny magnets point the same way have a name. What is it?",
+       "b": "Domains"
+      },
+      {
+       "f": "Does heating a magnet red-hot make it stronger, or stop it being a magnet?",
+       "b": "It stops it being a magnet"
+      },
+      {
+       "f": "What makes the Earth a magnet?",
+       "b": "Moving liquid iron deep inside it"
+      },
+      {
+       "f": "Has the Earth's magnetic field ever flipped?",
+       "b": "Yes, many times"
+      },
+      {
+       "f": "Name an animal that senses the Earth's magnetic field.",
+       "b": "Turtle, robin or magnetic bacteria"
+      },
+      {
+       "f": "What are the coloured lights near the poles called?",
+       "b": "Auroras"
+      },
+      {
+       "f": "What does 'chumbaka' mean?",
+       "b": "The one that kisses"
+      },
+      {
+       "f": "Who first said the Earth is a magnet, in 1600?",
+       "b": "William Gilbert"
+      },
+      {
+       "f": "Who found that the Earth's centre is solid, in 1936?",
+       "b": "Inge Lehmann"
+      },
+      {
+       "f": "TEST IT: does a magnet stick to your spoon? Guess first, then test.",
+       "b": "Do the test and see what happens."
+      },
+      {
+       "f": "TEST IT: how many paper clips can your magnet hold in a chain?",
+       "b": "Count and tell everyone what you found."
+      },
+      {
+       "f": "TEST IT: can a magnet attract a pin through your hand? Guess first.",
+       "b": "Do the test and see what happens."
+      },
+      {
+       "f": "TEST IT: put a coin on the table. Does a magnet attract it?",
+       "b": "Do the test and see what happens."
+      }
      ]
     },
     {
@@ -648,7 +720,7 @@
    ],
    "rules": [
     "Put every ship on Khambhat, square 0. Put the storm cloud on Khambhat too.",
-    "On your turn, another player reads you the top question card. Playing alone? Read it yourself and check the answer in the brackets.",
+    "On your turn, another player reads you the front of the top question card. Playing alone? Read it yourself and check the answer on the back.",
     "Answer right, and roll the dice and move that many squares. Answer wrong, and move just 1 square.",
     "On a TEST IT card, do the test. Everyone who guessed right moves 2 squares.",
     "CLOUDY NIGHT square: no stars to steer by. Say how a compass helps, then move on 1 square.",

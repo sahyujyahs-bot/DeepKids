@@ -1501,6 +1501,29 @@ function onAct(e) {
       render();
       break;
     }
+    case "shopr": {
+      ui.shopr = b.dataset.r;
+      sfx("tap");
+      render();
+      break;
+    }
+    case "shoptick": {
+      const ids = b.dataset.ids.split("~"),
+        got = b.getAttribute("aria-pressed") === "true";
+      S.prep = { ...S.prep, ...Object.fromEntries(ids.map((id) => [id, got ? 0 : today])) };
+      sfx(got ? "tap" : "tick");
+      commit();
+      break;
+    }
+    case "shopcopy": {
+      const L = shopItems(b.dataset.r).filter((g) => !g.got),
+        txt = `${SHOPR[b.dataset.r][0]}, for ${S.child || "our"} lessons:\n` + L.map((g) => "• " + g.name).join("\n");
+      navigator.clipboard?.writeText(txt).then(
+        () => toast("Copied. Paste it anywhere."),
+        () => toast("Couldn't copy here"),
+      );
+      break;
+    }
     case "wk1exp": {
       const u = wk1Lessons().find((x) => x.subj === "sci");
       if (u?.board === "unit") fxOpen(u.c.unit);

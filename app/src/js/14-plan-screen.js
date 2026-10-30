@@ -1226,6 +1226,57 @@ function planPart(k) {
   if (k === "pending") return newView();
   return goingView();
 }
+/* Shopping: everything the planned lessons need, for tomorrow, the week, the month or the year. The same thing needed by
+   several lessons is one line. Ticking it ticks it in the prep lists too. */
+const SHOPR = {
+  tomorrow: ["Tomorrow", 1],
+  week: ["This week", 7],
+  month: ["This month", 31],
+  year: ["This year", 366],
+};
+// steps rather than things: no shop button for these
+const SHOPNOT = /^(keep|read|find|ask|write|clear|charge|choose|plan|check|watch|look|make|set|put|cut|draw|fill)\b/i;
+function shopItems(r) {
+  const [, days] = SHOPR[r],
+    from = r === "tomorrow" ? addDays(today, 1) : today,
+    to = addDays(today, days),
+    G = new Map();
+  S.subjects.forEach((s) =>
+    schedule(s, days + 1).forEach((x) => {
+      if (x.date < from || x.date > to) return;
+      prepFor(x.u, x.n, x.tot).forEach((p) => {
+        if (LEARNK.has(p.kind) || p.kind === "print") return;
+        const name = p.task.replace(/^(Get|Gather):? /, ""),
+          g = G.get(name.toLowerCase()) || { name, url: p.url, buy: false, ids: [], first: x.date, lessons: new Set() };
+        g.ids.push(p.id);
+        g.buy = g.buy || p.kind === "buy";
+        g.lessons.add(chT(x.u));
+        G.set(name.toLowerCase(), g);
+      });
+    }),
+  );
+  return [...G.values()].map((g) => ({ ...g, got: g.ids.every((id) => S.prep[id]) }));
+}
+function shopView() {
+  const r = SHOPR[ui.shopr] ? ui.shopr : "week",
+    L = shopItems(r),
+    row = (g) =>
+      `<div class="shoprow ${g.got ? "done" : ""}"><button class="ckb" data-act="shoptick" data-ids="${esc(g.ids.join("~"))}" aria-pressed="${g.got}" aria-label="${g.got ? "Got it" : "Mark as got"}: ${esc(g.name)}">${icon("check")}</button><div><b>${esc(g.name)}</b><p class="xs muted">${fmt(g.first)} · ${esc([...g.lessons].slice(0, 2).join(", "))}${g.lessons.size > 2 ? ` and ${g.lessons.size - 2} more` : ""}</p></div>${g.buy || !SHOPNOT.test(g.name) ? `<a class="btn soft xs" href="${esc(g.url || AZ(g.name.replace(/\s*\(.*\)$/, "")))}" target="_blank" rel="noopener">🛒 Shop</a>` : ""}</div>`,
+    buy = L.filter((g) => g.buy),
+    home = L.filter((g) => !g.buy),
+    left = L.filter((g) => !g.got);
+  return `<section class="sec"><p class="sm muted">Everything your lessons need, so you can shop once. Tick what you have; it ticks off in the daily prep too.</p><div class="seg">${Object.entries(
+    SHOPR,
+  )
+    .map(([k, [n]]) => `<button aria-pressed="${r === k}" data-act="shopr" data-r="${k}">${n}</button>`)
+    .join("")}</div></section>
+   <section class="sec">${
+     L.length
+       ? `${buy.length ? `<h3>To buy · ${buy.filter((g) => !g.got).length} left</h3><div class="card" style="gap:0">${buy.map(row).join("")}</div>` : ""}${home.length ? `<h3>From home · ${home.filter((g) => !g.got).length} left</h3><div class="card" style="gap:0">${home.map(row).join("")}</div>` : ""}
+   ${left.length ? `<div class="row"><button class="btn sm" data-act="shopcopy" data-r="${r}">Copy the list</button></div><p class="xs muted">Paste it into WhatsApp, BigBasket or Amazon. Each 🛒 opens that item on Amazon, to add to your cart.</p>` : `<p class="sm">You have everything for ${SHOPR[r][0].toLowerCase()}.</p>`}`
+       : `<p class="sm muted">Nothing to buy or gather for ${SHOPR[r][0].toLowerCase()}.</p>`
+   }</section>`;
+}
 // Plan: Calendar, Up next, To finish, Refresher and Settings
 function viewPlanner() {
   const k = seg("week"),
@@ -1241,13 +1292,12 @@ function viewPlanner() {
     );
   }
   // Up next: two folded boxes, each shown only when it has something in it, then the order of what comes next
+  if (k === "shop") return head + shopView();
   if (k === "next") {
     const fold = (t, body) =>
         body ? `<details class="sec fxfold"><summary><b>${t}</b></summary>${body}</details>` : "",
       track = combinedNote() + fxCoverageNote();
-    return (
-      head + fold("Are we on track this year?", track) + fold("This week's shopping", fxWeekList()) + planPart("queue")
-    );
+    return head + fold("Are we on track this year?", track) + planPart("queue");
   }
   // To finish: one subject filter, then the two lists one after the other
   if (k === "finish")

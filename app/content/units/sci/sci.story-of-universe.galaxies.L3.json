@@ -1,0 +1,2392 @@
+{
+ "id": "sci.story-of-universe.galaxies.L3",
+ "title": "Galaxies: cities of stars, and our home in the Milky Way",
+ "level": 3,
+ "summary": {
+  "text": "On a dark night far from city lights, a pale band of light stretches across the sky. It is the Milky Way, and it is made of billions of stars too faint and too close together for our eyes to tell apart. The Milky Way is our galaxy: a huge flat disc of stars, gas and dust, held together by gravity. The Sun is one of its stars, and we see the disc from inside, as a band. Beyond it are hundreds of billions of other galaxies, each a city of stars. A hundred years ago, most astronomers thought the Milky Way was the whole universe.",
+  "art": "A child on a village rooftop at night looking up at a pale band of stars across the sky. In a circle beside it, the same band seen through binoculars, broken into countless tiny stars."
+ },
+ "intro": {
+  "hook": "Look at a photo of the night sky taken far from any city. A pale strip runs across it, like a long thin cloud. It does not move like a cloud, and it is there every clear night. What is it made of?",
+  "text": "In this unit you make a card of pinhole lights and find out how far away two lights must be before your eyes see them as one. That is the secret of the Milky Way's milky glow. You find out why it is a band and not spread all over the sky, where the Sun sits in it, and what is at its centre. You also meet Henrietta Leavitt, whose careful work showed that other galaxies are far outside our own.",
+  "art": "A dark room with a small card on a pile of books, lit from behind by a torch, showing a few tiny points of light. A child stands far back across the room, looking at it."
+ },
+ "outcomes": [
+  "I can explain that a galaxy is a huge group of stars, gas and dust held together by gravity, and that the Milky Way is our galaxy.",
+  "I can explain why the Milky Way looks like a pale band across the sky: we live inside its flat disc.",
+  "I can show with the pinhole test why many far lights blur into one glow, and say how Galileo found that the Milky Way is made of stars.",
+  "I can name the three main shapes of galaxies, spiral, elliptical and irregular, and say what each looks like.",
+  "I can tell how Henrietta Leavitt and Edwin Hubble showed that the Andromeda galaxy is far outside the Milky Way.",
+  "I can say where the Sun is in the Milky Way, how long it takes to go round, and what lies at the centre."
+ ],
+ "cards_mins": 15,
+ "terms": [
+  {
+   "term": "Galaxy",
+   "meaning": "A huge group of stars, gas and dust that gravity holds together. A galaxy can have billions of stars. It is like a city of stars, with a lot of empty space between them.",
+   "example": "The Milky Way is a galaxy. So is Andromeda, the nearest big galaxy to ours.",
+   "art": "A spiral of countless tiny stars with a bright middle, against black space."
+  },
+  {
+   "term": "The Milky Way",
+   "meaning": "Our own galaxy. The Sun and every star you can see at night belong to it. The name also means the pale band of light it makes across our night sky.",
+   "example": "In many Indian languages the band is called Akashganga, the Ganga of the sky.",
+   "art": "A pale band of stars across a night sky above a row of hills."
+  },
+  {
+   "term": "Light-year",
+   "meaning": "The distance light travels in one year, about 9 and a half lakh crore kilometres. Astronomers use it because distances in space are so big.",
+   "example": "The Milky Way is about 100,000 light-years across. Light takes 100,000 years to cross it.",
+   "art": "A beam of light running along a very long road, with a calendar showing one year at the end."
+  },
+  {
+   "term": "Gravity",
+   "meaning": "The force that pulls things towards each other. The more stuff something has, the stronger it pulls. Gravity keeps your feet on the ground, and keeps the stars of a galaxy together.",
+   "example": "A mango falls to the ground because of gravity. The Sun goes round the middle of the Milky Way because of gravity too.",
+   "art": "A mango falling from a tree beside a drawing of stars curving round the bright middle of a galaxy."
+  },
+  {
+   "term": "Spiral galaxy",
+   "meaning": "A galaxy shaped like a flat disc with curved arms winding out from a bright middle. The arms are full of young blue stars, gas and dust.",
+   "example": "The Milky Way and Andromeda are both spiral galaxies.",
+   "art": "A flat pinwheel of stars with two curving arms and a bright yellow middle."
+  },
+  {
+   "term": "Elliptical galaxy",
+   "meaning": "A galaxy shaped like a smooth ball or an egg, with no arms. Most of its stars are old, and it has little gas left to make new ones.",
+   "example": "Some of the biggest galaxies known are elliptical.",
+   "art": "A smooth, glowing oval of stars, brightest in the middle, with no arms."
+  },
+  {
+   "term": "Irregular galaxy",
+   "meaning": "A galaxy with no clear shape, neither a disc nor a ball. Many are small, and some were pulled out of shape by a bigger galaxy nearby.",
+   "example": "The Large and Small Magellanic Clouds, seen from the southern half of the Earth, are irregular galaxies near ours.",
+   "art": "A patchy, uneven cloud of stars and pink gas with no clear shape."
+  },
+  {
+   "term": "Black hole",
+   "meaning": "A place where so much stuff is squeezed into so small a space that its gravity lets nothing escape, not even light.",
+   "example": "At the centre of the Milky Way is a black hole called Sagittarius A star, about 4 million times as heavy as the Sun.",
+   "art": "A dark circle with a glowing orange ring of hot gas round it."
+  }
+ ],
+ "explanations": [
+  {
+   "concept": "What a galaxy is",
+   "status": "defined",
+   "definition": "A galaxy is a huge group of stars, gas, dust and dark matter held together by gravity.",
+   "description": "Stars are not scattered evenly through space. They live in huge groups called galaxies, the way people live in cities with empty countryside between. A galaxy can have millions of stars, or many hundreds of billions. Between the galaxies there is far more empty space, with very few stars. The stars in a galaxy are very far apart from each other. Gravity holds them together, and they all go round the galaxy's centre. Astronomers think there are hundreds of billions of galaxies in the part of the universe we can see, and they still argue about the exact number.",
+   "examples": [
+    "The Milky Way, our own galaxy, has somewhere between 100 billion and 400 billion stars. Nobody has counted them all.",
+    "Andromeda, the nearest big galaxy, is about 2 and a half million light-years away.",
+    "Some tiny galaxies near ours have only a few thousand stars."
+   ],
+   "perspectives": [],
+   "art": "A dark sky full of small glowing galaxies of different shapes, like lit cities seen from a plane at night."
+  },
+  {
+   "concept": "Why the Milky Way looks like a band",
+   "status": "defined",
+   "definition": "The Milky Way is a flat disc of stars about 100,000 light-years across and only about 1,000 light-years thick. We live inside the disc, so we see it edge-on, as a band round the sky.",
+   "description": "Imagine standing in the middle of a big paddy field. Look across the field, and you see rows and rows of plants, one behind another. Look straight up, and you see only sky. The Milky Way is like that field, but made of stars. Its disc is flat, like a huge round dosa. When we look along the disc, we see stars piled behind stars, so the sky glows. That glow is the band. When we look up or down out of the disc, there are far fewer stars in the way. Dark patches in the band are clouds of dust that block the light of stars behind them.",
+   "examples": [
+    "In the Rice Galaxy experiment, the thread pointing to the middle of the circle crossed the most grains.",
+    "The brightest part of the band is towards the constellations Scorpius and Sagittarius, where the centre of the galaxy lies.",
+    "From a dark place, dark lanes of dust can be seen splitting the band in two."
+   ],
+   "perspectives": [],
+   "art": "A side view of a flat disc of stars with a bulge in the middle, a small yellow dot marked 'Sun' inside it, and arrows: along the disc 'many stars', out of it 'few stars'."
+  },
+  {
+   "concept": "Why the band looks milky, not starry",
+   "status": "defined",
+   "definition": "Two lights look like one when they are so close together, as seen from where you are, that your eye cannot tell them apart.",
+   "description": "Your eye can tell two lights apart only if the gap between them looks big enough. Move further away, and the gap looks smaller, until the two lights join into one. The Milky Way's stars are so far away that, to our eyes, many of them sit almost on top of each other. Each one is also too faint to see on its own. Together their light adds up to a soft glow. A telescope or binoculars make the gaps look bigger, so the glow breaks into stars. In 1610 Galileo looked at the Milky Way through his telescope and found that it is made of countless stars.",
+   "examples": [
+    "In the Pinhole Galaxy experiment, the two holes 2 millimetres apart joined into one light at fewer steps than the holes 6 millimetres apart.",
+    "The headlights of a far-away car on a highway at night look like one light. As the car comes closer, they split into two.",
+    "The Andromeda galaxy looks like one faint smudge to the eye, though it has hundreds of billions of stars."
+   ],
+   "perspectives": [],
+   "art": "Three views of the same patch of sky: a soft milky glow to the eye, many stars through binoculars, and even more stars through a big telescope."
+  },
+  {
+   "concept": "The shapes of galaxies",
+   "status": "defined",
+   "definition": "Most galaxies are one of three main shapes: spiral, elliptical or irregular. Edwin Hubble sorted them this way in 1926.",
+   "description": "Spiral galaxies are flat discs with curved arms, like a pinwheel. Their arms have lots of gas and dust, and new stars are born there. Elliptical galaxies are smooth balls or eggs of stars, mostly old ones, with little gas left. Irregular galaxies have no clear shape. Many astronomers think galaxies change shape over billions of years. When two spiral galaxies crash together and join, they can become one elliptical galaxy. Some galaxies fit between the types, so the sorting is a helpful guide, not a strict rule.",
+   "examples": [
+    "The Milky Way is a spiral, with a bar of stars across its middle.",
+    "Messier 87, a giant elliptical galaxy, is the one whose central black hole was photographed in 2019.",
+    "The Large Magellanic Cloud, a small galaxy close to ours, is irregular."
+   ],
+   "perspectives": [],
+   "art": "Three galaxy pictures side by side: a pinwheel spiral, a smooth glowing egg, and a patchy shapeless cloud."
+  },
+  {
+   "concept": "What holds a galaxy together",
+   "status": "debated",
+   "definition": "",
+   "description": "Gravity holds a galaxy together. The stars near the edge of a galaxy should go round more slowly than the stars nearer the middle, the way far planets go round the Sun more slowly. In the 1970s, Vera Rubin and Kent Ford measured how fast stars and gas go round in many spiral galaxies. The outer stars were going round much too fast for the stars and gas that we can see to hold them. So something more is pulling, or our idea of gravity needs fixing at these huge sizes.",
+   "examples": [
+    "Vera Rubin measured spiral galaxies, including Andromeda, in the 1970s.",
+    "Astronomers have searched for dark matter particles for over 30 years and have not yet caught one."
+   ],
+   "perspectives": [
+    {
+     "who": "Most astronomers",
+     "explanation": "Each galaxy sits inside a huge cloud of dark matter, stuff that has gravity but gives out no light. There seems to be about five times as much dark matter as ordinary matter."
+    },
+    {
+     "who": "A smaller group of astronomers, following Mordehai Milgrom's idea from 1983",
+     "explanation": "There is no dark matter. Gravity works a little differently when it is very weak, far out in a galaxy, and that explains the fast outer stars."
+    }
+   ],
+   "art": "A spiral galaxy inside a faint, dotted, invisible-looking cloud labelled 'dark matter?'."
+  },
+  {
+   "concept": "Where we are, and what is at the centre",
+   "status": "defined",
+   "definition": "The Sun is about 26,000 light-years from the centre of the Milky Way, in a small arm of the disc called the Orion Arm. At the centre is a black hole called Sagittarius A star.",
+   "description": "The Sun is not in the middle of our galaxy. It is about a quarter of the way in from the edge, between two big spiral arms. The Sun, with the Earth and all the planets, goes round the centre of the galaxy. One trip round takes about 230 million years. The last time the Sun was in this part of its path, dinosaurs were just starting to appear on Earth. At the very centre is a black hole about 4 million times as heavy as the Sun. In 2022, the Event Horizon Telescope, made of radio telescopes across the world, showed a picture of the glowing gas round it.",
+   "examples": [
+    "The centre of the galaxy is in the direction of the constellation Sagittarius, called Dhanu in India.",
+    "Astronomers found the black hole by watching stars race round an unseen object. Andrea Ghez and Reinhard Genzel shared the 2020 Nobel Prize in Physics for this."
+   ],
+   "perspectives": [],
+   "art": "A view from above of a barred spiral galaxy with a small arrow pointing to 'You are here', about halfway out, and a dark dot at the centre."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "The Milky Way band is made of billions of stars.",
+   "evidence": "Galileo saw it break into stars through his telescope in 1610. Today the Gaia spacecraft has measured the positions of nearly 2 billion of its stars."
+  },
+  {
+   "text": "The Milky Way is a flat spiral disc, and the Sun is far from its centre.",
+   "evidence": "Star counts, radio maps of its gas, and the positions of old star clusters all show a disc. Harlow Shapley showed in 1918 that the old clusters are centred on a point far away, towards Sagittarius."
+  },
+  {
+   "text": "There are many galaxies outside the Milky Way.",
+   "evidence": "In 1923 Edwin Hubble found a pulsing star in Andromeda, used Henrietta Leavitt's rule to work out its distance, and found it far beyond our galaxy."
+  },
+  {
+   "text": "A black hole about 4 million times as heavy as the Sun sits at the centre of the Milky Way.",
+   "evidence": "For over 25 years astronomers tracked stars racing round one unseen point. In 2022 the Event Horizon Telescope made a picture of the gas glowing round it."
+  },
+  {
+   "text": "The Sun goes round the centre of the Milky Way.",
+   "evidence": "Measurements of the movements of nearby stars and gas show that the Sun moves at about 230 kilometres every second round the centre."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "The Milky Way is the whole universe, and the fuzzy spiral clouds in the sky are inside it.",
+   "who": "Many astronomers until the 1920s, including Harlow Shapley",
+   "for": "The spirals looked like clouds of gas, and nobody could measure how far away they were.",
+   "against": "In 1923 Edwin Hubble used Henrietta Leavitt's pulsing stars to show that Andromeda is far outside the Milky Way.",
+   "status": "rejected",
+   "context": "This card is about how big people once thought the universe was."
+  },
+  {
+   "claim": "The Sun is at the centre of the Milky Way.",
+   "who": "William Herschel in 1785, and Jacobus Kapteyn in the 1920s",
+   "for": "When they counted stars, they found about the same number in every direction along the band.",
+   "against": "Dust hides faraway stars, so they could only count nearby ones. Harlow Shapley showed in 1918 that the centre is far away, towards Sagittarius.",
+   "status": "rejected",
+   "context": "This card is about where we live in our galaxy."
+  },
+  {
+   "claim": "Galaxies are held together by huge clouds of invisible dark matter.",
+   "who": "Most astronomers today",
+   "for": "The outer stars of galaxies go round too fast to be held by the stars and gas we can see. Many other measurements point the same way.",
+   "against": "Nobody has yet caught a particle of dark matter, and a few astronomers think gravity itself works differently at these sizes.",
+   "status": "debated",
+   "context": "This card is about what holds galaxies together."
+  },
+  {
+   "claim": "The Milky Way and Andromeda will certainly crash together in about 4 to 5 billion years.",
+   "who": "Many astronomers, after a 2012 study using the Hubble Space Telescope",
+   "for": "Andromeda is moving towards us at about 110 kilometres every second.",
+   "against": "A 2025 study that included the pull of other nearby galaxies found only about an even chance of a crash in the next 10 billion years.",
+   "status": "debated",
+   "context": "This card is about the future of our galaxy."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "Is the Milky Way one thing, or billions of things?",
+   "kind": "deep",
+   "hint": "Think about your pinhole card. From far away it looked like one light. Up close it was many. Which was the real card?"
+  },
+  {
+   "q": "If we live inside the Milky Way, how can anyone know its shape? Nobody has ever seen it from outside.",
+   "kind": "deep",
+   "hint": "Think about the Rice Galaxy experiment. What could you learn by counting from inside the circle?"
+  },
+  {
+   "q": "Your body has more cells than the Milky Way has stars. Are you more like one person or like a galaxy?",
+   "kind": "big",
+   "hint": "Each cell is alive on its own. Together they make you. Is the same true of stars in a galaxy?"
+  },
+  {
+   "q": "When you see Andromeda, you see light that left it 2 and a half million years ago. Are you seeing Andromeda, or Andromeda's past?",
+   "kind": "deep",
+   "hint": "Think about how long the light took to reach you."
+  },
+  {
+   "q": "Most people today live under skies too bright to see the Milky Way. Does it matter that a child has never seen it?",
+   "kind": "big",
+   "hint": "Think about what people in the past learned and imagined from it."
+  },
+  {
+   "q": "There are hundreds of billions of galaxies. Does that make the Earth less special, or more special?",
+   "kind": "big",
+   "hint": "There is no wrong answer. Give your reason."
+  }
+ ],
+ "story": {
+  "title": "The Cloud That Did Not Move",
+  "mins": 12,
+  "read_aloud": true,
+  "text": [
+   "In the December holidays, Meenakshi and her cousin Arjun went to stay with their Athai Selvi in a village in the Javadhu Hills, in Tamil Nadu. Meenakshi was nine and Arjun was seven. In Chennai, Meenakshi could count the stars from her balcony on her fingers. Athai's village had only a few houses, a ragi field and a long view of the hills.",
+   "On the first night, after dinner, Athai switched off the bulb in the yard. The three of them climbed up to the flat roof and lay on a mat. 'Wait,' said Athai. 'Your eyes need time.' Slowly, more and more stars came out, until the sky was crowded with them.",
+   "'There's a cloud,' said Arjun, pointing. A pale strip ran right across the sky, from the hills on one side to the hills on the other. It was soft and grey-white, like a long thin cloud.",
+   "'Clouds move,' said Athai. 'Keep watching it.' They watched. A real cloud drifted in from the east. It slid across some stars and hid them, then moved on. The pale strip stayed exactly where it was.",
+   "'Then what is it?' asked Meenakshi. 'That is the Milky Way,' said Athai. 'In many Indian languages it is called Akashganga, the Ganga of the sky. People here have always seen it. In Chennai the streetlights hide it.'",
+   "'Is it milk? Is it water?' asked Arjun. Athai laughed and went downstairs. She came back with a pair of old binoculars in a brown leather case. 'These were my father's,' she said. 'Look at the pale strip with these. Turn the little wheel until it is sharp.'",
+   "Meenakshi went first. At first everything was a blur. She turned the wheel slowly. Suddenly the pale strip broke into stars. There were tiny stars everywhere, hundreds of them, packed together like grains of sugar spilled on a black cloth. 'It's stars!' she said. 'The whole strip is stars!'",
+   "Arjun took his turn. He was quiet for a long time. Then he lowered the binoculars and looked again with his own eyes. 'Why can't I see them without these?' he asked.",
+   "'Each of those stars is very faint and very far away,' said Athai. 'From here they look so close together that your eyes cannot tell them apart. So their light blurs into one pale glow. The binoculars make the gaps between them look bigger, so you can see each star. More than 400 years ago, Galileo looked at the Milky Way through his telescope and found the very same thing.'",
+   "The next morning, Meenakshi helped Athai draw the Margazhi kolam in front of the house. She was still thinking about the strip. 'Athai,' she said, 'why is it a strip? Why aren't the stars spread evenly all over the sky?'",
+   "Athai took her to the middle of the ragi field. 'Look across the field. What do you see?' 'Plants,' said Meenakshi. 'Rows and rows of plants, all the way to the edge.' 'Now look straight up.' 'Only sky.' 'Our galaxy is shaped like a huge flat round dosa, made of stars,' said Athai. 'The Sun is one of its stars, and we live inside the dosa. When we look along it, we see stars behind stars behind stars. That makes the strip. When we look up out of it, there are fewer stars in the way.'",
+   "That evening Arjun still looked puzzled, so Meenakshi showed him. She sprinkled a handful of rice on a big steel plate and spread it out flat. She put a mustard seed in the rice. 'This mustard seed is us,' she said. 'Put your eye at the edge of the plate and look along it. Lots of rice, right? That's the strip. There's no rice above the plate. That's why the rest of the sky has fewer stars.' Arjun bent down, looked along the plate, and grinned.",
+   "On the second night they saw dark gaps in the strip, like holes torn in a cloth. 'Those are clouds of dust between the stars,' said Athai. 'The dust blocks the light of the stars behind it.'",
+   "Before bed, Athai helped them find a tiny, faint smudge high in the northern sky. Through the binoculars it was a soft oval of light. This time it did not break into stars. 'That is the Andromeda galaxy,' said Athai. 'It is another city of stars, with hundreds of billions of them, much further away than any star in our sky. The light you are seeing left it about two and a half million years ago.'",
+   "Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 'and that smudge isn't a smudge. It's a whole galaxy, and it looks like one tiny light because it is so far away.' Arjun yawned. 'And we live in a dosa,' he said. Athai and Meenakshi laughed all the way down the stairs."
+  ],
+  "epiphany": "For the parent: the pale band of the Milky Way is made of countless faint stars too close together, as seen from Earth, for our eyes to tell apart. Binoculars split the glow into stars, just as Galileo's telescope did in 1610. The band is a band because our galaxy is a flat disc and we live inside it. Meenakshi then sees the bigger idea herself: Andromeda looks like one faint smudge because it is a whole galaxy, very far away. A smudge of light can be a city of hundreds of billions of stars.",
+  "ask": [
+   "How did Athai show that the pale strip was not a cloud?",
+   "What did Meenakshi see when she looked at the strip through the binoculars?",
+   "Why can't our eyes see the separate stars in the Milky Way?",
+   "How did Meenakshi use a steel plate of rice to explain the strip to Arjun?",
+   "Why did Andromeda stay a smudge, even through the binoculars?"
+  ],
+  "art": [
+   "Meenakshi, Arjun and their Athai lying on a mat on a flat village roof, looking up at a sky full of stars, with dark hills around.",
+   "A pale band of light across the sky, with a small grey cloud drifting past it and hiding a few stars.",
+   "Meenakshi holding old binoculars to her eyes, and in a circle the band broken into countless tiny stars.",
+   "Athai and Meenakshi standing in the middle of a ragi field, Meenakshi looking across the rows of plants.",
+   "Meenakshi showing Arjun a steel plate of rice with one mustard seed among the grains, Arjun bent down with his eye at the edge of the plate.",
+   "A tiny faint oval smudge of light high in a starry sky, above the roof where the three of them stand."
+  ],
+  "note": "Meenakshi, Arjun and Athai Selvi are made up. The Javadhu Hills are real: India's Vainu Bappu Observatory is at Kavalur, in these hills, because the skies there are dark. The Milky Way and the Andromeda galaxy can both be seen by eye from a dark place on clear December evenings. Through ordinary binoculars Andromeda stays a smudge, because its stars are too far away to split."
+ },
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The Pinhole Galaxy: when do two lights become one?",
+   "mins": 35,
+   "days": 1,
+   "question": "How far away must two tiny lights be before your eyes see them as one light? Does it depend on how close together they are?",
+   "predict": "Before you test it, guess. Which pair of lights will join into one first as you walk away: the pair 2 millimetres apart, 4 millimetres or 6 millimetres? Why do you think so?",
+   "fair_test": "Use the same card, the same torch and the same dark room for every pair. Take steps of the same size. Change only one thing: which pair you look at. Do each pair twice.",
+   "results_table": [
+    "Pair of holes",
+    "Gap between the holes",
+    "Steps when they became one light (try 1)",
+    "Steps (try 2)"
+   ],
+   "materials": [
+    {
+     "item": "a piece of thin cardboard from a biscuit or cereal box, about the size of a postcard",
+     "qty": 1
+    },
+    {
+     "item": "a sewing needle",
+     "qty": 1
+    },
+    {
+     "item": "a ruler with millimetre marks, and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "an eraser or a folded cloth to push the needle into",
+     "qty": 1
+    },
+    {
+     "item": "a torch, or a phone with a torch",
+     "qty": 1
+    },
+    {
+     "item": "a pile of books on a table",
+     "qty": 1
+    },
+    {
+     "item": "binoculars or a phone with a zoom camera (only if you have them)",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up pokes the holes with the needle, pushing into an eraser or cloth, and puts the needle away straight after. Clear the floor before walking backwards in the dark, and keep a hand on the wall or a grown-up beside the child.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 35,
+     "what": "Guess. Make the pinhole card. Light it from behind in a dark room. Walk back from each pair until it looks like one light, twice. Look at the bunch of holes from far and near."
+    }
+   ],
+   "record": "Fill in the results table. Draw the card as it looks up close, and as it looks from the far end of the room.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Show your child the photo of the Milky Way in the app. 2. Ask the guess question below. 3. Wait for a guess and a reason.",
+     "say": "In this photo the Milky Way looks like a milky cloud. But it is made of stars. Why do you think we see a glow instead of separate stars?",
+     "kid": "The Milky Way looks like a cloud. But it is made of stars. Why do we see a glow? Guess. Say why.",
+     "ask": [
+      {
+       "q": "Why do you think we see a glow, not separate stars?",
+       "good": [
+        "The stars are too far away.",
+        "They are too close together to see one by one.",
+        "Each star is too faint."
+       ]
+      }
+     ],
+     "parent": "Accept any guess with a reason. Do not explain yet. The test will show it.",
+     "context": "This is the first step of the Pinhole Galaxy experiment. You make tiny lights with a needle and find out when two lights look like one."
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "do": "1. On the cardboard, draw three short lines with a pencil, about 3 centimetres apart. 2. On the first line, mark two dots 2 millimetres apart, using the ruler. 3. On the second line, two dots 4 millimetres apart. 4. On the third line, two dots 6 millimetres apart. 5. A grown-up pushes the needle through each dot. 6. Below them, the grown-up pokes about 15 holes close together inside a circle as big as a little fingernail.",
+     "say": "We are making tiny stars. Each pair of holes will be two stars. The bunch of holes at the bottom is a tiny galaxy.",
+     "kid": "Mark three pairs of dots with the ruler. A grown-up makes the holes with a needle. Then a bunch of holes for a galaxy.",
+     "adult": true,
+     "parent": "Push the needle in only as far as its tip, so the holes are small and all about the same size. Push into an eraser or a folded cloth behind the card, never towards a hand. Write 2, 4 and 6 next to the pairs, and G next to the bunch."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Stand the card upright against a pile of books on a table. 2. Put a torch, or a phone with its torch on, about 10 centimetres behind it, shining at the holes. 3. Switch off the room lights and close the curtains. 4. Check that light comes only through the holes.",
+     "say": "Now switch off the lights. Can you see the tiny stars shining through the card?",
+     "kid": "Stand the card on the books. Put the torch behind it. Turn off the lights. Look at your tiny stars!",
+     "parent": "If light spills round the edges of the card, use a bigger card or tape paper round it. The holes should look like sharp, tiny points of light. Do this in the evening, when the room is easier to make dark."
+    },
+    {
+     "id": "s4",
+     "mins": 8,
+     "do": "1. Your child stands close to the card, about 2 steps away, and looks at the 2 millimetre pair. 2. They step backwards one step at a time, counting. 3. They stop as soon as the two lights look like one light, and say the number. 4. Write it in the table. 5. Do the same for the 4 and 6 millimetre pairs.",
+     "say": "Look only at the pair marked 2. Walk backwards one step at a time. Stop the moment the two lights become one. How many steps?",
+     "kid": "Look at the pair marked 2. Step back slowly and count. Stop when two lights look like one. Now do the other pairs.",
+     "ask": [
+      {
+       "q": "Which pair do you think will join up first? Why?",
+       "good": [
+        "The 2 one, because its holes are closest.",
+        "The 6 one will be last, because its gap is biggest."
+       ]
+      }
+     ],
+     "parent": "Your child should take steps of the same size each time, heel to toe if your room is small. If a pair still looks like two lights at the far wall, write 'still two at' and the number of steps. That is a result too. Distances differ from child to child, so there is no right number. What matters is which pair joins first."
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "1. Do the whole walk again for each pair, so you have two tries. 2. Stand at the far end of the room and look at the bunch marked G. 3. Walk towards it until you can see separate lights.",
+     "say": "Let's do every pair again, because one try can be a fluke. Then stand far back and look at the little galaxy. Walk towards it slowly. When do you see separate stars?",
+     "kid": "Do each pair one more time. Then look at the galaxy from far away. Walk closer. When can you see separate stars?",
+     "parent": "From far away, the bunch of holes should look like one soft, fuzzy light. As your child walks closer, it breaks into separate points. This is what Galileo saw when he looked at the Milky Way through a telescope.",
+     "check": {
+      "t": "mcq",
+      "q": "From far away, the bunch of 15 holes looked like:",
+      "options": [
+       "15 sharp lights",
+       "one soft, fuzzy light",
+       "nothing at all"
+      ],
+      "a": 1,
+      "why": "From far away the gaps between the holes look too small for your eyes, so the lights blur into one glow. If you saw 15 sharp lights, walk further back, or make the holes closer together."
+     }
+    },
+    {
+     "id": "s6",
+     "mins": 2,
+     "do": "If you have binoculars, or a phone with a zoom camera, stand where the bunch looks like one light. Look at it through the binoculars, or zoom in on it with the phone.",
+     "say": "Now be Galileo. Look at the fuzzy light through the binoculars. What happens?",
+     "kid": "If you have binoculars, look at the fuzzy light. Does it split into stars?",
+     "parent": "This step is a bonus. Binoculars or a zoom lens make the gaps look bigger, so the glow splits into points again. If you have neither, skip it."
+    },
+    {
+     "id": "s7",
+     "mins": 4,
+     "do": "Ask your child to say or write three things. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "say": "Tell me three things. What do you think now? What did you see that shows it? And why does it happen?",
+     "kid": "Say or write three things. What I think. What I saw. Why I think it happened.",
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: lights that are close together look like one light from far away. What I saw: the 2 millimetre pair joined into one light first, and the 6 millimetre pair last. The bunch looked like one glow from far away. Why: from further away the gap looks smaller, until my eyes cannot tell the lights apart. Now explain: the Milky Way's stars are so far away that they blur into one glow in the same way."
+    }
+   ],
+   "setup": [
+    {
+     "art": "A postcard-sized card with three pairs of tiny dots marked with a ruler, and a bunch of dots in a small circle below.",
+     "caption": "1. Mark three pairs of dots and a small bunch."
+    },
+    {
+     "art": "A grown-up's hand pushing a needle through a dot, with an eraser behind the card.",
+     "caption": "2. A grown-up pokes the holes with a needle."
+    },
+    {
+     "art": "The card standing against a pile of books, a torch shining from behind, tiny points of light in a dark room.",
+     "caption": "3. Light the card from behind in a dark room."
+    },
+    {
+     "art": "A child walking backwards across a dark room, counting steps, looking at the tiny lights.",
+     "caption": "4. Walk back until two lights look like one."
+    }
+   ],
+   "context": "This is the Pinhole Galaxy experiment. You make tiny lights with a needle and a torch, and find out how far away two lights must be before they look like one."
+  },
+  {
+   "id": "e2",
+   "title": "The Rice Galaxy: can counting stars show where the middle is?",
+   "mins": 30,
+   "days": 1,
+   "question": "If you live inside a flat galaxy, can counting stars in different directions show you where its middle is? What happens if dust hides the faraway stars?",
+   "predict": "Before you count, guess. From the paper Sun, which way will the thread cross the most rice grains? Will it still work if you can only see a short way? Why do you think so?",
+   "fair_test": "Keep the rice and the paper Sun in the same place the whole time. Count the same way each time: every grain the thread touches or that lies within one finger-width of it. Change only the direction of the thread, and then its length.",
+   "results_table": [
+    "Direction of the thread",
+    "Grains counted with the long thread",
+    "Grains counted with the short thread"
+   ],
+   "materials": [
+    {
+     "item": "a large newspaper sheet",
+     "qty": 1
+    },
+    {
+     "item": "one heaped tablespoon of raw rice",
+     "qty": 1
+    },
+    {
+     "item": "a 25 centimetre piece of thread tied to a pencil",
+     "qty": 1
+    },
+    {
+     "item": "a second thread, about 40 centimetres long",
+     "qty": 1
+    },
+    {
+     "item": "a small paper circle for the Sun, and scissors",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep the rice away from very young children. Pick up the grains afterwards and use them in cooking after washing, or feed them to birds.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 30,
+     "what": "Guess. Make a rice galaxy on newspaper. Count grains from the paper Sun in four directions with a long thread, then with a short one."
+    }
+   ],
+   "record": "Fill in the results table. Draw the circle with the Sun and four arrows, and write each count on its arrow.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Tell your child about William and Caroline Herschel, who counted stars to find the shape of the Milky Way. 2. Ask the guess question below.",
+     "say": "Over 200 years ago, Caroline Herschel and her brother William counted stars in hundreds of patches of sky. They wanted to find the shape of our galaxy from inside it. If you live inside a galaxy, could counting stars tell you where its middle is? Why do you think so?",
+     "kid": "Long ago, Caroline and William Herschel counted stars. They wanted to find our galaxy's shape. Could counting stars show where the middle is? Guess. Say why.",
+     "ask": [
+      {
+       "q": "Which way do you think you would count the most stars?",
+       "good": [
+        "Towards the middle, because there is more galaxy that way.",
+        "The same everywhere, if we are in the middle."
+       ]
+      }
+     ],
+     "parent": "Accept any guess with a reason. Do not explain yet.",
+     "context": "This is the first step of the Rice Galaxy experiment. You count rice grains from inside a paper galaxy to find where its middle is."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "1. Spread a large newspaper sheet on the floor. 2. Tie a pencil to a 25 centimetre thread. Hold the other end in the middle of the sheet and draw a circle. 3. Sprinkle one heaped tablespoon of raw rice, a pinch at a time, all over the circle. 4. Spread the grains with your fingertips so they do not touch.",
+     "say": "This circle is our galaxy, seen from above. Each grain of rice is a star. Spread them out evenly, like stars in a disc.",
+     "kid": "Draw a big circle with the pencil and thread. Sprinkle rice all over it. Spread the grains out.",
+     "parent": "Try to get the grains about the same distance apart everywhere. A few clumps do not matter. Do this where nobody will walk."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Put a small paper circle, the Sun, halfway between the middle of the circle and the edge. Mark the middle with a small pencil cross.",
+     "say": "This little paper circle is the Sun. Like the real Sun, it is not in the middle of the galaxy. It is about halfway out.",
+     "kid": "Put the paper Sun halfway between the middle and the edge.",
+     "parent": "The paper Sun should be about 12 centimetres from the middle."
+    },
+    {
+     "id": "s4",
+     "mins": 10,
+     "do": "1. Lay a thread from the Sun straight to the edge of the circle, pointing at the middle. 2. Your child counts the grains that the thread touches or that lie within one finger-width of it. 3. Do the same pointing away from the middle, and in the two directions sideways. 4. Write each count in the table.",
+     "say": "Now you are an astronomer like Caroline Herschel. Count every star within one finger of the thread. Which way has the most?",
+     "kid": "Lay the thread from the Sun to the edge. Count the grains next to it. Do it four ways. Write each count.",
+     "ask": [
+      {
+       "q": "Which direction had the most grains? Why?",
+       "good": [
+        "Towards the middle, because the galaxy goes on longest that way.",
+        "Away from the middle had the fewest, because the edge is close."
+       ]
+      }
+     ],
+     "parent": "Expect the most grains towards the middle, the fewest away from it, and in-between counts sideways. The thread towards the middle crosses about three times as much galaxy as the thread away from it."
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "1. Now pretend space is full of dust, so you can only see stars close by. 2. Cut the thread to the length of your child's hand, about 12 centimetres. 3. Count again in the same four directions, using only the short thread.",
+     "say": "Real space has dust that hides faraway stars. Let's pretend we can only see as far as this short thread. Count again. What do you find now?",
+     "kid": "Now pretend there is dust. You can only see a short way. Count again with the short thread.",
+     "check": {
+      "t": "mcq",
+      "q": "With the short thread, the counts in the four directions were:",
+      "options": [
+       "much bigger towards the middle",
+       "about the same in every direction",
+       "zero everywhere"
+      ],
+      "a": 1,
+      "why": "Close to the Sun, the grains are spread about evenly, so every direction gives a similar count. The counts look as if the Sun is in the middle. That is exactly the mistake the Herschels made, because dust hid the faraway stars from them."
+     }
+    },
+    {
+     "id": "s6",
+     "mins": 2,
+     "do": "Ask your child to say or write what they think, what they saw, and why.",
+     "say": "What did the long thread show? What did the short thread show? Why could dust fool an astronomer?",
+     "kid": "Say what the long thread showed. Say what the short thread showed. Why can dust fool you?",
+     "parent": "A good answer: with the long thread, the most grains were towards the middle, so counting can find the middle. With the short thread, every direction looked the same, so the Sun seemed to be in the middle. Dust hides faraway stars, so the Herschels thought the Sun was near the centre. In 1918 Harlow Shapley found the true centre by looking at bright old star clusters, which can be seen from much further away."
+    }
+   ],
+   "setup": [
+    {
+     "art": "A big pencil circle on a newspaper sheet, drawn with a pencil tied to a thread held at the middle.",
+     "caption": "1. Draw a big circle with a pencil and thread."
+    },
+    {
+     "art": "Grains of rice spread evenly inside the circle, with a small paper Sun halfway between the middle and the edge.",
+     "caption": "2. Spread rice, and put the paper Sun halfway out."
+    },
+    {
+     "art": "A thread stretched from the paper Sun to the edge of the circle, a child's finger counting grains beside it.",
+     "caption": "3. Count the grains next to the thread, four ways."
+    },
+    {
+     "art": "A short thread from the paper Sun, the length of a child's hand, with grains being counted beside it.",
+     "caption": "4. Count again with a short thread."
+    }
+   ],
+   "context": "This is the Rice Galaxy experiment. You count rice grains from inside a paper galaxy, as the Herschels counted stars, and find out how dust fooled them."
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "What Is That Pale Band? Notice and wonder",
+   "mins": 10,
+   "days": 1,
+   "materials": [
+    {
+     "item": "the photo of the Milky Way in the app, on a phone or tablet",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "None.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Look at a photo of the Milky Way. Say what you notice and what you wonder. Zoom in on it."
+    }
+   ],
+   "record": "Write two things you noticed and two things you wonder about the pale band.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "Show your child the photo of the Milky Way over the hills. Do not say what it is. Ask what they notice.",
+     "say": "This photo was taken at night, far from any city. What do you notice? What do you wonder?",
+     "kid": "Look at this night photo. What do you notice? What do you wonder?",
+     "ask": [
+      {
+       "q": "What do you notice about the pale band?",
+       "good": [
+        "It goes right across the sky.",
+        "It looks like a cloud.",
+        "It has dark patches in it."
+       ]
+      }
+     ],
+     "parent": "Write down every 'I wonder' question. The unit will answer most of them.",
+     "context": "This is the first step of the Notice and Wonder activity. You look at a photo of the night sky before learning what is in it."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Zoom in on the pale band with two fingers on the screen.",
+     "say": "Let's zoom in on the band. What is it made of?",
+     "kid": "Zoom in on the band with two fingers. What do you see?",
+     "parent": "The band breaks into countless tiny stars. Most photos of the Milky Way are good enough to show this.",
+     "check": {
+      "t": "mcq",
+      "q": "When you zoomed in, the pale band was made of:",
+      "options": [
+       "clouds of water",
+       "milk",
+       "countless tiny stars"
+      ],
+      "a": 2,
+      "why": "The pale band is made of stars. They are too close together for your eyes to see one by one, so from far they blur into a glow."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Tell your child the name of the band, and ask why they think we cannot see it from home.",
+     "say": "This is the Milky Way. In many Indian languages it is called Akashganga, the Ganga of the sky. Why do you think we can't see it from our balcony?",
+     "kid": "This band is the Milky Way, or Akashganga. Why can't we see it from home?",
+     "ask": [
+      {
+       "q": "Why can't we see the Milky Way from the city?",
+       "good": [
+        "The city lights are too bright.",
+        "The sky glows orange at night."
+       ]
+      }
+     ],
+     "parent": "City lights make the sky glow, and that glow drowns out faint light. Most people in big cities have never seen the Milky Way."
+    }
+   ],
+   "setup": [
+    {
+     "art": "A phone showing a night photo of a pale band of stars over dark hills.",
+     "caption": "1. Look at the photo. What do you notice?"
+    },
+    {
+     "art": "Two fingers zooming in on the band on a phone screen, showing many tiny stars.",
+     "caption": "2. Zoom in on the band."
+    }
+   ],
+   "context": "This is the Notice and Wonder activity. You look at a photo of the Milky Way and ask questions about it."
+  },
+  {
+   "id": "a2",
+   "title": "If the Solar System Were a Coin: how big is the Milky Way?",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a 1 rupee coin",
+     "qty": 1
+    },
+    {
+     "item": "a map of India, in an atlas or on a phone",
+     "qty": 1
+    }
+   ],
+   "safety": "None.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Use a coin as the whole solar system. Find how far away the nearest star and the edge of the galaxy would be."
+    }
+   ],
+   "record": "Draw the coin, and write how far the nearest star and the Milky Way would stretch at this size.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "Put a 1 rupee coin on the table.",
+     "say": "Imagine this coin is our whole solar system: the Sun, the Earth and all the planets out to Neptune. Guess how far away the next nearest star would be.",
+     "kid": "This coin is the whole solar system. The Sun and all eight planets. How far is the next star? Guess.",
+     "ask": [
+      {
+       "q": "How far away do you think the nearest star would be at this size?",
+       "good": [
+        "In the next room.",
+        "Down the road.",
+        "Any guess with a reason is good."
+       ]
+      }
+     ],
+     "context": "This is the first step of the Coin activity. You use a coin to picture how big our galaxy is."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "Tell your child the answer, and find something about 90 metres away from your home.",
+     "say": "At this size the nearest star would be about 90 metres away. That is about the length of a football field, or a row of 10 to 15 houses. In between, there would be almost nothing.",
+     "kid": "The nearest star would be about 90 metres away. That's a football field! Almost nothing is in between.",
+     "parent": "The coin is 2 centimetres across and stands for the solar system out to Neptune's path. The nearest star, Proxima Centauri, is about 4,500 times further than that, about 90 metres at this size."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Open the map of India. Find Kanyakumari and Delhi.",
+     "say": "And the whole Milky Way? At this size it would stretch from Kanyakumari to Delhi. Full of coins, each about 90 metres from the next.",
+     "kid": "Find Kanyakumari and Delhi on the map. At this size, the galaxy would reach from one to the other!",
+     "check": {
+      "t": "mcq",
+      "q": "If our solar system were a coin, the Milky Way would be about as big as:",
+      "options": [
+       "a room",
+       "a city",
+       "the distance from Kanyakumari to Delhi"
+      ],
+      "a": 2,
+      "why": "The Milky Way is about 100,000 light-years across. At coin size, that is about 2,000 kilometres, close to the distance from Kanyakumari to Delhi."
+     }
+    },
+    {
+     "id": "s4",
+     "mins": 2,
+     "do": "Ask the last question and let your child think.",
+     "say": "Andromeda, the nearest big galaxy, is about 25 times as far as the width of the Milky Way. What does that tell you about the space between galaxies?",
+     "kid": "Andromeda is 25 Milky Ways away. Is there a lot of space between galaxies?",
+     "parent": "Galaxies are far apart compared with stars, but close compared with their own size. Stars inside a galaxy are much further apart, compared with their size."
+    }
+   ],
+   "setup": [
+    {
+     "art": "A 1 rupee coin on a table labelled 'the solar system'.",
+     "caption": "1. A coin stands for the whole solar system."
+    },
+    {
+     "art": "A map of India with a line from Kanyakumari to Delhi labelled 'the Milky Way at coin size'.",
+     "caption": "2. At this size, the galaxy reaches from Kanyakumari to Delhi."
+    }
+   ],
+   "context": "This is the Coin activity. You picture the size of the Milky Way using a coin and a map of India."
+  },
+  {
+   "id": "a3",
+   "title": "Point to the Centre of the Galaxy: find Jyeshtha and Mula",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a clear evening between May and August, about 8 o'clock",
+     "qty": 1
+    },
+    {
+     "item": "a free sky map such as Stellarium Web, used by a grown-up with the screen dimmed",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up stays with the child at night. Keep away from the edge of a terrace without a wall.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "On a clear evening, find the red star Jyeshtha and the curved tail of stars beside it. Point towards the centre of the Milky Way."
+    }
+   ],
+   "record": "Draw the stars you found, with an arrow labelled 'towards the centre of our galaxy'.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "On a clear evening between May and August, go to a balcony or terrace that faces south. Turn off the lights behind you and wait 10 minutes.",
+     "say": "Let's find the direction of the centre of our galaxy. First, our eyes need to get used to the dark.",
+     "kid": "Go out on a clear evening. Face south. Wait for your eyes to get used to the dark.",
+     "adult": true,
+     "context": "This is the first step of the Centre of the Galaxy activity. You find the stars that lie in the direction of the middle of the Milky Way."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Find a bright red-orange star low in the south-east or south. This is Antares, the nakshatra Jyeshtha, in the constellation Scorpius. Follow the curved line of stars below and to the left of it, like a scorpion's tail.",
+     "say": "Can you see a bright red star? That is Jyeshtha. The curl of stars beside it is the scorpion's tail. The end of the tail is the nakshatra Mula.",
+     "kid": "Find a bright red star. That is Jyeshtha. Follow the curly tail of stars. The end is Mula.",
+     "adult": true,
+     "parent": "Use the sky map to check. From a city you will see Antares and perhaps a few tail stars. Mula is the group of stars at the end of the tail."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Point just past the end of the tail, a little further to the left.",
+     "say": "Point just past the tail. The centre of our galaxy is in this direction, about 26,000 light-years away. We can't see it, because dust hides it, and the city lights hide the Milky Way.",
+     "kid": "Point just past the tail. The middle of our galaxy is that way. It is very, very far.",
+     "adult": true,
+     "check": {
+      "t": "mcq",
+      "q": "Why can't we see the centre of the galaxy, even from a dark place?",
+      "options": [
+       "It is behind the Moon",
+       "Clouds of dust between the stars block its light",
+       "It is too small"
+      ],
+      "a": 1,
+      "why": "Thick clouds of dust lie between us and the centre, and they block its light. Astronomers study the centre with radio waves and infrared light, which pass through dust."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A child on a terrace facing south at night, pointing at a bright red star low above the buildings.",
+     "caption": "1. Find the red star Jyeshtha."
+    },
+    {
+     "art": "The stars of Scorpius drawn as a scorpion, with an arrow just past the tail labelled 'centre of the galaxy'.",
+     "caption": "2. Point just past the tail, towards Mula."
+    }
+   ],
+   "context": "This is the Centre of the Galaxy activity. If the sky is clear, you find the stars that lie towards the middle of the Milky Way."
+  },
+  {
+   "id": "a4",
+   "title": "Sort the Galaxies: spiral, elliptical or irregular?",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "the 12 galaxy picture cards in the app, printed or on screen",
+     "qty": 1
+    },
+    {
+     "item": "three sheets of paper labelled spiral, elliptical and irregular",
+     "qty": 1
+    }
+   ],
+   "safety": "None.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Sort 12 galaxy pictures by shape. Then try Galaxy Zoo, where children and adults sort real galaxy photos for scientists."
+    }
+   ],
+   "record": "Draw one galaxy of each shape, and write one way to tell each shape apart.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "Lay out the three labelled sheets. Give your child the 12 cards. Ask them to sort the galaxies by shape.",
+     "say": "These are photos of real galaxies taken by big telescopes. Sort them by shape. Put each one on a sheet.",
+     "kid": "These are real galaxies. Sort them by shape. Put each on a sheet.",
+     "parent": "Spiral galaxies have curved arms. Elliptical ones are smooth ovals. Irregular ones have no clear shape. A spiral seen edge-on looks like a thin line with a bulge. Children often put it with the ellipticals, which is a good thing to talk about.",
+     "context": "This is the first step of the Sort the Galaxies activity. You sort photos of real galaxies by shape."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "Look at the cards your child found hard to sort. Talk about why.",
+     "say": "Which ones were hard to sort? Why? Could a spiral look different if we saw it from the side?",
+     "kid": "Which were hard to sort? Why? Could a spiral look like a line from the side?",
+     "check": {
+      "t": "mcq",
+      "q": "A spiral galaxy seen from its edge looks like:",
+      "options": [
+       "a thin line of light with a bulge in the middle",
+       "a smooth round ball",
+       "a pinwheel"
+      ],
+      "a": 0,
+      "why": "A spiral is a flat disc. From the edge you see it like a plate held side-on: a thin line, with the bulge of the middle sticking out. The Milky Way looks like this from inside, as a band."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "If you like, open Galaxy Zoo on a computer and sort a few real galaxy photos together.",
+     "say": "Scientists have millions of galaxy photos, too many to sort themselves. People all over the world help on a website called Galaxy Zoo. Let's sort a few.",
+     "kid": "People everywhere help scientists sort galaxies online. Let's try a few.",
+     "parent": "Galaxy Zoo is a free citizen science project. A grown-up should sign in and stay with the child."
+    }
+   ],
+   "setup": [
+    {
+     "art": "Twelve galaxy photo cards spread on a floor beside three labelled sheets: spiral, elliptical, irregular.",
+     "caption": "1. Sort the galaxy cards by shape."
+    },
+    {
+     "art": "A child holding up a card of an edge-on spiral that looks like a thin line with a bulge.",
+     "caption": "2. Talk about the hard ones."
+    }
+   ],
+   "context": "This is the Sort the Galaxies activity. You sort photos of real galaxies into spiral, elliptical and irregular."
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "A Kolam of the Milky Way: our galaxy from above and from the side",
+   "mins": 40,
+   "days": 2,
+   "materials": [
+    {
+     "item": "a large sheet of dark chart paper, or the floor outside your door",
+     "qty": 1
+    },
+    {
+     "item": "white chalk, or rice flour or kolam powder",
+     "qty": 1
+    },
+    {
+     "item": "a small yellow paper circle for the Sun",
+     "qty": 1
+    }
+   ],
+   "safety": "Kolam powder can make the floor slippery. Sweep it up when you are done.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Draw the Milky Way from above as a kolam of dots: a bright middle, a bar across it, and arms winding out. Mark where the Sun is."
+    },
+    {
+     "day": 2,
+     "mins": 15,
+     "what": "Draw the Milky Way from the side, as a thin disc with a bulge. Mark the Sun again, and label the centre."
+    }
+   ],
+   "record": "A photo of your kolam, with the Sun and the centre labelled.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 25,
+     "do": "1. In the middle of the paper, make a thick oval of dots for the centre. 2. Add a short bar of dots across it. 3. From each end of the bar, draw a curved arm of dots winding outwards. 4. Add two more arms between them. 5. Put the yellow Sun about halfway from the middle to the edge, between two arms.",
+     "say": "Let's draw our galaxy as if we flew far above it. The middle is crowded with stars. The arms curl out. Where does the Sun go?",
+     "kid": "Make a thick bunch of dots in the middle. Add a bar. Curl four arms out. Put the Sun halfway out.",
+     "ask": [
+      {
+       "q": "Why do you put the Sun halfway out, and not in the middle?",
+       "good": [
+        "Because the Sun is about halfway between the centre and the edge.",
+        "The middle is far away, towards Dhanu."
+       ]
+      }
+     ],
+     "parent": "Real photos of the Milky Way from above do not exist. Every picture is a drawing made from measurements, like your kolam.",
+     "context": "This is the first step of the Kolam of the Milky Way project. You draw our galaxy from above as a kolam of dots."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "1. Next day, below the first kolam, draw a long, thin line of dots, with a round bulge in the middle. 2. Put the Sun about halfway along, inside the line. 3. Draw arrows from the Sun along the line, and up out of it.",
+     "say": "Now draw our galaxy from the side. It is very thin, like a dosa. Draw arrows from the Sun. Which arrow goes through more stars?",
+     "kid": "Draw the galaxy from the side. Very thin, with a bulge. Put the Sun in it. Draw arrows. Which arrow crosses more stars?",
+     "wait": "Do this on day 2.",
+     "check": {
+      "t": "mcq",
+      "q": "Looking from the Sun, which way would you see more stars?",
+      "options": [
+       "Along the disc",
+       "Up out of the disc",
+       "The same both ways"
+      ],
+      "a": 0,
+      "why": "The disc is thin, so looking up you soon come out of it. Looking along it, there are stars behind stars for thousands of light-years. That crowded direction is the pale band we call the Milky Way."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A kolam of white dots on dark paper making a barred spiral galaxy, with a yellow paper Sun halfway out.",
+     "caption": "1. Day 1: the galaxy from above."
+    },
+    {
+     "art": "A long thin line of dots with a bulge in the middle, a yellow Sun inside it, and two arrows, one along the line and one up.",
+     "caption": "2. Day 2: the galaxy from the side."
+    }
+   ],
+   "context": "This is the Kolam of the Milky Way project, over two days. You draw our galaxy from above and from the side."
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Count a Katori of Rice Without Counting Every Grain",
+   "mins": 30,
+   "problem": "Nobody can count all the stars in the Milky Way one by one. Astronomers count a small part and work out the rest. Find a way to tell how many grains are in a katori of rice without counting them all. Then check how close you got.",
+   "constraints": [
+    "You may count only one small spoonful of grains one by one.",
+    "You may use a spoon, a plate and a pencil.",
+    "Finish within 30 minutes."
+   ],
+   "materials": [
+    "a katori of raw rice",
+    "a teaspoon",
+    "a steel plate",
+    "paper and pencil"
+   ],
+   "general": [
+    "Count the grains in one level teaspoon. Count how many teaspoons fill the katori. Multiply.",
+    "Spread the rice flat on a plate, count the grains in one small square, count how many squares the rice covers, and multiply.",
+    "Do the small count twice and take the middle answer, because one count can be a fluke."
+   ],
+   "creative": [
+    "If you have a kitchen scale, weigh 100 grains, then weigh the whole katori.",
+    "Ask each family member to count one spoonful and compare. Whose spoonfuls were biggest?",
+    "Count the grains in a quarter of the plate and multiply by 4."
+   ],
+   "your_turn": "Now use your method on something else: the grains in a packet of sugar, or the dots in a newspaper photo. Explain your method to someone in your family.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Show your child the katori of rice. Ask for a guess.",
+     "say": "How many grains of rice do you think are in this katori? How could we find out without counting every grain?",
+     "kid": "How many grains are in this katori? Guess. How could you find out without counting them all?",
+     "context": "This is the first step of the Katori of Rice challenge. You find a smart way to count, as astronomers count stars."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "Let your child try one of their own ideas first. If they are stuck, suggest the teaspoon method.",
+     "say": "Try your idea. If you are stuck, count one teaspoon, then count how many teaspoons fill the katori.",
+     "kid": "Try your idea. Stuck? Count one teaspoon. Then count teaspoons in the katori.",
+     "parent": "A level teaspoon of raw rice usually holds a few hundred grains, and a katori many thousands. Any careful method is good."
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "Compare the answer with the first guess. Ask how astronomers might do the same with stars.",
+     "say": "How close was your first guess? Astronomers count stars in small patches of sky, then multiply. Why might their answer still be uncertain?",
+     "kid": "Was your guess close? Astronomers count small patches of sky too. Why could they still be a bit wrong?",
+     "ask": [
+      {
+       "q": "Why is the number of stars in the Milky Way still uncertain?",
+       "good": [
+        "Dust hides some stars.",
+        "Some stars are too faint to see.",
+        "The patches might not be the same everywhere."
+       ]
+      }
+     ]
+    }
+   ],
+   "setup": [
+    {
+     "art": "A katori of rice beside a teaspoon and a steel plate with a small pile of grains being counted.",
+     "caption": "1. Count one teaspoon of grains."
+    },
+    {
+     "art": "A child filling the katori one teaspoon at a time, keeping tally marks on paper.",
+     "caption": "2. Count the teaspoons, then multiply."
+    }
+   ],
+   "context": "This is the Katori of Rice challenge. You estimate a big number by counting a small part, as astronomers do with stars."
+  }
+ ],
+ "games": [
+  {
+   "id": "g1",
+   "title": "My Cosmic Address",
+   "mins": 20,
+   "players": "2 to 4 players, or one child playing against the app",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "12 address cards, from smallest to biggest",
+     "items": [
+      "My room",
+      "My home",
+      "My street",
+      "My city",
+      "My state",
+      "India",
+      "The Earth",
+      "The solar system",
+      "The Orion Arm of the Milky Way",
+      "The Milky Way galaxy",
+      "The Local Group of galaxies",
+      "The universe"
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "12 fact cards, one for each address card",
+     "items": [
+      "Where you sleep.",
+      "Where your family lives.",
+      "Where your neighbours live.",
+      "Where lakhs of people live.",
+      "Part of India.",
+      "A country of over 140 crore people.",
+      "A planet going round the Sun.",
+      "The Sun and its eight planets.",
+      "A small arm of our galaxy, where the Sun is.",
+      "Between 100 and 400 billion stars, in a flat spiral disc.",
+      "More than 30 galaxies, including the Milky Way and Andromeda.",
+      "Hundreds of billions of galaxies, and more."
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "Score sheet",
+     "items": [
+      "Player name",
+      "Cards placed correctly",
+      "Fact cards matched"
+     ]
+    }
+   ],
+   "rules": [
+    "Shuffle the address cards and deal them out.",
+    "Players take turns to put one card on the table, building a line from smallest to biggest.",
+    "A card in the right place scores one point. A card in the wrong place goes back to the player.",
+    "When the line is finished, take turns to match each fact card to its address card. Each right match scores one point.",
+    "At the end, read the whole address aloud, smallest to biggest. The player with the most points wins."
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Shuffle the 12 address cards and deal them. 2. Keep the fact cards to one side.",
+     "say": "Your address tells someone how to find you. Let's make the biggest address ever, from your room out to the whole universe.",
+     "kid": "Your address helps people find you. Let's make the biggest address ever!",
+     "context": "This is the first step of the Cosmic Address game. You build your address from your room out to the universe."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "Players take turns to place cards in order from smallest to biggest.",
+     "say": "Put down a card where it belongs. Is the solar system bigger or smaller than the Milky Way?",
+     "kid": "Put your card in the line. Smallest to biggest. Think hard!",
+     "check": {
+      "t": "mcq",
+      "q": "Which is bigger?",
+      "options": [
+       "The solar system",
+       "The Milky Way"
+      ],
+      "a": 1,
+      "why": "The solar system is the Sun and its planets. The Milky Way is a galaxy of billions of stars, and the Sun is only one of them."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "Players match the fact cards to the address cards.",
+     "say": "Now match each fact to its place. Which card says 'between 100 and 400 billion stars'?",
+     "kid": "Match each fact to its place. Read each one carefully.",
+     "ask": [
+      {
+       "q": "Where in the Milky Way is the solar system?",
+       "good": [
+        "In the Orion Arm.",
+        "About halfway out from the centre."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "Read the whole address aloud together, from the room to the universe. Count up the points.",
+     "say": "Let's read your whole address. Room, home, street, all the way to the universe.",
+     "kid": "Read your whole address out loud. Who won?",
+     "parent": "Use your real street, city and state names when you read it aloud."
+    }
+   ],
+   "setup": [
+    {
+     "art": "Twelve cards laid in a line on a floor, from 'My room' to 'The universe', each card a little bigger than the last.",
+     "caption": "1. Put the address cards in order."
+    },
+    {
+     "art": "Fact cards being matched to the address cards in the line.",
+     "caption": "2. Match each fact to its place."
+    }
+   ],
+   "context": "This is the Cosmic Address game. You put places in order from your room to the universe."
+  }
+ ],
+ "videos": [
+  {
+   "title": "Hubblecast 116: Henrietta Leavitt, ahead of her time",
+   "channel": "HubbleWebbESA (ESA/Hubble)",
+   "youtube": "XQv03YqEPNM",
+   "mins": 5,
+   "why": "A short film about Henrietta Leavitt and how her pulsing stars let astronomers measure the distance to other galaxies.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup and the ESA/Hubble video page. Not watched from here: a parent should preview it."
+  },
+  {
+   "title": "Video tour of Hubble's panoramic view of the Andromeda Galaxy",
+   "channel": "HubbleWebbESA (ESA/Hubble)",
+   "youtube": "rqZGt97rGo8",
+   "mins": 3,
+   "why": "A tour of the biggest Hubble photo of Andromeda. The soft glow seen by eye breaks into hundreds of millions of separate stars, just like the pinhole bunch up close.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup and the ESA/Hubble video page (January 2025). Not watched from here: a parent should preview it."
+  },
+  {
+   "title": "Edwin Hubble: VAR! Plate 100th Anniversary",
+   "channel": "Carnegie Science",
+   "youtube": "e9hILyTc0kw",
+   "mins": 5,
+   "why": "About the 1923 photographic plate on which Hubble found a pulsing star in Andromeda and wrote 'VAR!', showing Andromeda is a galaxy far outside ours.",
+   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup and the Carnegie Science page. Length not checked. Not watched from here: a parent should preview it."
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "What is a galaxy?",
+   "opts": [
+    "One very big star",
+    "A huge group of stars, gas and dust held together by gravity",
+    "A planet with many moons"
+   ],
+   "a": 1,
+   "outcome": 0,
+   "why": "A galaxy is a huge group of stars, gas and dust that gravity holds together. Picking 'one very big star' mixes up a galaxy with a star. The Sun is one star in our galaxy."
+  },
+  {
+   "t": "mcq",
+   "p": "The Sun is:",
+   "opts": [
+    "one of the stars of the Milky Way",
+    "outside every galaxy",
+    "the centre of the Milky Way"
+   ],
+   "a": 0,
+   "outcome": 5,
+   "why": "The Sun is one of between 100 and 400 billion stars in the Milky Way, about halfway out from the centre. People once thought it was at the centre, but dust had fooled them."
+  },
+  {
+   "t": "mcq",
+   "p": "Why does the Milky Way look like a band across the sky?",
+   "opts": [
+    "The stars are arranged in a long straight line",
+    "Our galaxy is a flat disc and we see it from inside",
+    "It is a cloud of water high above the Earth"
+   ],
+   "a": 1,
+   "outcome": 1,
+   "why": "Looking along the flat disc, we see stars behind stars, so the sky glows in a band. Looking up out of the disc, there are fewer stars. A line of stars would look like a line only from one place, and a cloud would move."
+  },
+  {
+   "t": "mcq",
+   "p": "Selvi makes a card with two tiny holes 2 millimetres apart and lights it from behind. She walks away from it. What happens?",
+   "opts": [
+    "The two lights get further apart",
+    "At some distance the two lights look like one",
+    "The lights change colour"
+   ],
+   "a": 1,
+   "outcome": 2,
+   "why": "From further away the gap looks smaller, until her eyes cannot tell the two lights apart. The Milky Way's stars blur together in the same way."
+  },
+  {
+   "t": "mcq",
+   "p": "In 1610, Galileo looked at the Milky Way through his telescope. What did he find?",
+   "opts": [
+    "It is a river of water",
+    "It is made of countless stars",
+    "It is a cloud of gas"
+   ],
+   "a": 1,
+   "outcome": 2,
+   "why": "His telescope made the gaps between the stars look bigger, so the glow broke into stars. Our eyes alone see only the glow."
+  },
+  {
+   "t": "mcq",
+   "p": "A galaxy shaped like a flat pinwheel with curved arms is called:",
+   "opts": [
+    "an elliptical galaxy",
+    "an irregular galaxy",
+    "a spiral galaxy"
+   ],
+   "a": 2,
+   "outcome": 3,
+   "why": "Spiral galaxies have curved arms winding out from a bright middle. Elliptical ones are smooth ovals, and irregular ones have no clear shape."
+  },
+  {
+   "t": "mcq",
+   "p": "A galaxy that looks like a smooth, glowing egg with no arms is:",
+   "opts": [
+    "elliptical",
+    "spiral",
+    "irregular"
+   ],
+   "a": 0,
+   "outcome": 3,
+   "why": "Elliptical galaxies are smooth balls or eggs of mostly old stars. If you picked spiral, look for arms: an elliptical has none."
+  },
+  {
+   "t": "mcq",
+   "p": "Henrietta Leavitt worked at Harvard, studying photos of stars. What did she find?",
+   "opts": [
+    "The first planet round another star",
+    "That brighter pulsing stars pulse more slowly, which lets us measure distances",
+    "The black hole at the centre of the galaxy"
+   ],
+   "a": 1,
+   "outcome": 4,
+   "why": "Leavitt found that the brighter a certain kind of pulsing star really is, the more slowly it pulses. So its pulse tells how bright it really is, and how faint it looks tells how far away it is."
+  },
+  {
+   "t": "mcq",
+   "p": "In 1923, Edwin Hubble found a pulsing star in the Andromeda nebula. What did it show?",
+   "opts": [
+    "Andromeda is a cloud of gas inside the Milky Way",
+    "Andromeda is a galaxy far outside the Milky Way",
+    "Andromeda is a planet"
+   ],
+   "a": 1,
+   "outcome": 4,
+   "why": "Using Leavitt's rule, Hubble worked out that the star was far beyond the edge of our galaxy. So Andromeda is a whole galaxy of its own, and the Milky Way is not the whole universe."
+  },
+  {
+   "t": "mcq",
+   "p": "What is at the very centre of the Milky Way?",
+   "opts": [
+    "The Sun",
+    "A black hole about 4 million times as heavy as the Sun",
+    "Nothing at all"
+   ],
+   "a": 1,
+   "outcome": 5,
+   "why": "Astronomers watched stars racing round an unseen object at the centre. It is a black hole called Sagittarius A star. The Sun is about 26,000 light-years away from it."
+  },
+  {
+   "t": "mcq",
+   "p": "About how long does the Sun take to go once round the centre of the Milky Way?",
+   "opts": [
+    "One year",
+    "About 230 million years",
+    "About 100 years"
+   ],
+   "a": 1,
+   "outcome": 5,
+   "why": "One year is how long the Earth takes to go round the Sun. The Sun's trip round the galaxy is far longer, about 230 million years."
+  },
+  {
+   "t": "mcq",
+   "p": "Why can't most people in Chennai see the Milky Way from home?",
+   "opts": [
+    "It is only in the sky in other countries",
+    "City lights make the sky glow and drown out its faint light",
+    "It only comes out in the daytime"
+   ],
+   "a": 1,
+   "outcome": 1,
+   "why": "The Milky Way is in the sky over every country, but its light is faint. Street and building lights make the city sky glow, and that glow hides it. From a dark place, far from cities, it is easy to see."
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Our Galaxy (core)",
+   "tier": "core",
+   "mins": 20,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "The Milky Way is:",
+     "opts": [
+      "our galaxy",
+      "a planet",
+      "a constellation"
+     ],
+     "a": 0,
+     "why": "The Milky Way is the galaxy we live in. A constellation is a pattern of stars seen from Earth, and all those stars are inside the Milky Way."
+    },
+    {
+     "t": "truefalse",
+     "p": "The stars in a galaxy are packed so close that they touch each other.",
+     "a": false,
+     "why": "False. Stars in a galaxy are very far apart. Between the Sun and the nearest star there are about 4 light-years of almost empty space."
+    },
+    {
+     "t": "fill",
+     "p": "The force that holds the stars of a galaxy together is called ____.",
+     "a": [
+      "gravity"
+     ],
+     "why": "Gravity pulls things towards each other. It holds the stars of a galaxy together, as it holds the planets round the Sun."
+    },
+    {
+     "t": "match",
+     "p": "Match each galaxy shape to what it looks like.",
+     "pairs": [
+      [
+       "Spiral",
+       "a flat pinwheel with curved arms"
+      ],
+      [
+       "Elliptical",
+       "a smooth glowing egg"
+      ],
+      [
+       "Irregular",
+       "no clear shape"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "These are the three main shapes Edwin Hubble used to sort galaxies in 1926."
+    },
+    {
+     "t": "write",
+     "p": "In the Pinhole Galaxy experiment, which pair of holes looked like one light first as you walked back? Why?",
+     "lines": 3,
+     "how": "e1",
+     "context": "In the Pinhole Galaxy experiment, a card with pairs of needle holes is lit from behind by a torch in a dark room. The child walks back step by step until each pair of lights looks like one light.",
+     "a": "The pair 2 millimetres apart, because its gap was smallest. The further away I was, the smaller the gap looked, so the closest pair blurred first.",
+     "why": "A strong answer names the pair from the child's own results and links it to the size of the gap."
+    },
+    {
+     "t": "mcq",
+     "p": "From far away, the bunch of 15 pinholes looked like one fuzzy light. Which real thing in the sky does this explain?",
+     "how": "e1",
+     "context": "In the Pinhole Galaxy experiment, a card with pairs of needle holes is lit from behind by a torch in a dark room. The child walks back step by step until each pair of lights looks like one light.",
+     "opts": [
+      "Why the Moon changes shape",
+      "Why the Milky Way looks like a pale glow",
+      "Why the Sun is hot"
+     ],
+     "a": 1,
+     "why": "Many faint stars, close together as seen from Earth, blur into one glow, like the bunch of pinholes from far away."
+    },
+    {
+     "t": "draw",
+     "p": "Draw the Milky Way from the side: a thin disc with a bulge in the middle. Mark the Sun. Draw one arrow along the disc and one arrow up out of it.",
+     "a": "A thin line with a bulge in the middle, the Sun about halfway along inside the line, an arrow along the line and an arrow pointing up.",
+     "why": "The arrow along the disc crosses many more stars. That direction is the band we see.",
+     "art": "An empty box labelled 'Our galaxy from the side'."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these. Is each one inside the Milky Way, or outside it?",
+     "cats": [
+      "Inside the Milky Way",
+      "Outside the Milky Way"
+     ],
+     "items": [
+      [
+       "the Sun",
+       "Inside the Milky Way"
+      ],
+      [
+       "the Moon",
+       "Inside the Milky Way"
+      ],
+      [
+       "the Andromeda galaxy",
+       "Outside the Milky Way"
+      ],
+      [
+       "the stars of the Saptarishi",
+       "Inside the Milky Way"
+      ],
+      [
+       "the Large Magellanic Cloud",
+       "Outside the Milky Way"
+      ],
+      [
+       "Jupiter",
+       "Inside the Milky Way"
+      ]
+     ],
+     "a": "see items",
+     "why": "Everything in the solar system, and every single star we can see by eye, is inside the Milky Way. Andromeda and the Magellanic Clouds are other galaxies."
+    },
+    {
+     "t": "truefalse",
+     "p": "The Sun is at the very centre of the Milky Way.",
+     "a": false,
+     "why": "False. The Sun is about 26,000 light-years from the centre, about halfway out. The centre is in the direction of Sagittarius."
+    },
+    {
+     "t": "label",
+     "p": "Label the drawing of the Milky Way from above: the centre, a spiral arm, and the Sun.",
+     "a": "The centre is the bright bulge in the middle. A spiral arm is one of the curved bands of stars. The Sun is a small dot about halfway out, between two big arms.",
+     "why": "Knowing these three parts is the start of knowing our address in the galaxy.",
+     "art": "A drawing of a barred spiral galaxy from above with three blank label lines pointing to the centre, an arm, and a small dot halfway out."
+    },
+    {
+     "t": "fill",
+     "p": "In many Indian languages, the Milky Way is called ____, the Ganga of the sky.",
+     "a": [
+      "Akashganga",
+      "Akash Ganga",
+      "Akasha Ganga"
+     ],
+     "why": "People saw the band as a river flowing across the sky. The English name and the Greek word 'galaxy' both come from milk."
+    },
+    {
+     "t": "odd",
+     "p": "Which one is the odd one out?",
+     "opts": [
+      "Spiral",
+      "Elliptical",
+      "Irregular",
+      "Crescent"
+     ],
+     "a": 3,
+     "why": "Spiral, elliptical and irregular are shapes of galaxies. Crescent is a shape of the Moon."
+    },
+    {
+     "t": "write",
+     "p": "Kavya, a girl in Class 3, says the Milky Way is a long cloud. Tell her one way to check whether it is a cloud.",
+     "lines": 3,
+     "a": "Watch it for a while. Clouds move and change shape, but the Milky Way stays in the same place among the stars. Or look at it through binoculars: it breaks into stars.",
+     "why": "A strong answer suggests a real test, such as watching for movement or using binoculars, and says what the result would show."
+    },
+    {
+     "t": "order",
+     "p": "Put these in order, from smallest to biggest.",
+     "items": [
+      "The Earth",
+      "The solar system",
+      "The Milky Way",
+      "The Local Group of galaxies"
+     ],
+     "a": "order shown",
+     "why": "The Earth is one planet of the solar system. The solar system is one small part of the Milky Way. The Milky Way is one galaxy of the Local Group."
+    },
+    {
+     "t": "perspective",
+     "p": "Lakshmi, a girl in Class 3, and her friend Farhan look at a photo of the Milky Way. They disagree about what it is.",
+     "views": [
+      {
+       "who": "Lakshmi, aged 8",
+       "says": "The Milky Way is one thing. It has one name, and gravity holds it together."
+      },
+      {
+       "who": "Farhan, aged 8",
+       "says": "The Milky Way is billions of things. It is just stars that happen to be together."
+      }
+     ],
+     "ask": "Who do you agree with more? Give a reason from the pinhole test or from this unit. Then say one thing the other person has right.",
+     "lines": 5,
+     "a": "A strong answer picks a side with evidence. For Lakshmi: the stars all go round one centre together, held by gravity, so the galaxy acts as one. For Farhan: up close, the pinhole glow was many separate lights. Then it gives the other side its due.",
+     "why": "Both are partly right. A galaxy is many stars, and it is also one system moving together. A strong answer uses evidence for both."
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Inside the Disc (stretch)",
+   "tier": "stretch",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "In the Rice Galaxy experiment, the paper Sun was halfway out. Which thread crossed the most grains?",
+     "how": "e2",
+     "context": "In the Rice Galaxy experiment, rice grains spread on a big paper circle stand for the stars of the Milky Way. A paper Sun sits halfway between the middle and the edge, and the child counts grains along threads in different directions.",
+     "opts": [
+      "The thread pointing away from the middle",
+      "The thread pointing towards the middle",
+      "All threads crossed the same number"
+     ],
+     "a": 1,
+     "why": "Towards the middle, the galaxy goes on for longest, so the thread crosses the most grains. This is how counting can point to the centre."
+    },
+    {
+     "t": "write",
+     "p": "In the Rice Galaxy experiment, the short thread gave about the same count in every direction. Why did this fool the Herschels into thinking the Sun was near the centre?",
+     "lines": 4,
+     "how": "e2",
+     "context": "In the Rice Galaxy experiment, rice grains spread on a big paper circle stand for the stars of the Milky Way. A paper Sun sits halfway between the middle and the edge, and the child counts grains along threads in different directions.",
+     "a": "With the short thread, you only count stars close to the Sun, and they are spread about evenly. So every direction looks the same, as if the Sun were in the middle. Dust in space hid the faraway stars from the Herschels in the same way.",
+     "why": "A strong answer links the short thread to dust and explains why equal counts suggested the middle."
+    },
+    {
+     "t": "truefalse",
+     "p": "Binoculars make faraway stars bigger, so the Milky Way breaks into stars.",
+     "a": false,
+     "why": "False, almost. Stars are so far away that they stay tiny points even in binoculars. What binoculars make bigger is the gap between stars, so your eyes can tell them apart. They also gather more light, so fainter stars show."
+    },
+    {
+     "t": "mcq",
+     "p": "Andromeda has hundreds of billions of stars. Why does it look like one faint smudge to our eyes?",
+     "opts": [
+      "It is very small",
+      "It is so far away that its stars blur together",
+      "It has no stars, only gas"
+     ],
+     "a": 1,
+     "why": "Andromeda is about 2 and a half million light-years away. From here its stars are far too close together, as we see them, and too faint, for our eyes to split. It is the pinhole bunch seen from very far away."
+    },
+    {
+     "t": "fill",
+     "p": "The black hole at the centre of the Milky Way is called Sagittarius A ____.",
+     "a": [
+      "star",
+      "*"
+     ],
+     "why": "Its name is written Sagittarius A* and said 'Sagittarius A star'. It is in the direction of the constellation Sagittarius."
+    },
+    {
+     "t": "write",
+     "p": "Arjun, a boy in Class 3, says: 'If the Milky Way is a disc, we should see it as a round shape, not a band.' What would you tell him?",
+     "lines": 4,
+     "a": "We are inside the disc, not looking at it from outside. From inside a flat disc, the stars around us make a band all the way round the sky, like the rows of a field you stand in.",
+     "why": "A strong answer explains that a disc looks round only from outside, above or below it. From inside, it looks like a band."
+    },
+    {
+     "t": "match",
+     "p": "Match each person to what they found.",
+     "pairs": [
+      [
+       "Galileo, 1610",
+       "the Milky Way is made of countless stars"
+      ],
+      [
+       "Henrietta Leavitt, 1912",
+       "a way to tell how far away a pulsing star is"
+      ],
+      [
+       "Edwin Hubble, 1923",
+       "Andromeda is far outside the Milky Way"
+      ],
+      [
+       "Harlow Shapley, 1918",
+       "the Sun is far from the centre of the Milky Way"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each step changed our picture: the glow is stars, the Sun is not in the middle, and our galaxy is one of many."
+    },
+    {
+     "t": "draw",
+     "p": "Draw what the pinhole bunch looked like from close up, and from the far end of the room.",
+     "how": "e1",
+     "context": "In the Pinhole Galaxy experiment, a card with pairs of needle holes is lit from behind by a torch in a dark room. The child walks back step by step until each pair of lights looks like one light.",
+     "a": "Close up: about 15 separate tiny points. From far: one soft, fuzzy patch of light.",
+     "why": "The two drawings show the same card. Only the distance changed, and with it what the eye could tell apart.",
+     "art": "Two empty boxes labelled 'close up' and 'from far away'."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these. Do they help you see the Milky Way, or hide it?",
+     "cats": [
+      "Helps you see it",
+      "Hides it"
+     ],
+     "items": [
+      [
+       "a dark village far from towns",
+       "Helps you see it"
+      ],
+      [
+       "streetlights",
+       "Hides it"
+      ],
+      [
+       "a bright full Moon",
+       "Hides it"
+      ],
+      [
+       "waiting 15 minutes in the dark",
+       "Helps you see it"
+      ],
+      [
+       "binoculars",
+       "Helps you see it"
+      ],
+      [
+       "clouds of the monsoon",
+       "Hides it"
+      ]
+     ],
+     "a": "see items",
+     "why": "The Milky Way is faint. Anything that brightens the sky, or blocks it, hides it. Darkness, dark-adapted eyes and binoculars help."
+    },
+    {
+     "t": "mcq",
+     "p": "In the Coin activity, the whole solar system was a 1 rupee coin. At that size, how far away was the nearest star?",
+     "how": "a2",
+     "context": "In the Coin activity, a 1 rupee coin stands for the whole solar system, out to Neptune.",
+     "opts": [
+      "About 1 metre",
+      "About 90 metres",
+      "About 2,000 kilometres"
+     ],
+     "a": 1,
+     "why": "The nearest star would be about 90 metres away, a football field. 2,000 kilometres is the size of the whole Milky Way at that scale."
+    },
+    {
+     "t": "odd",
+     "p": "Which one is not a galaxy?",
+     "opts": [
+      "The Milky Way",
+      "Andromeda",
+      "The Large Magellanic Cloud",
+      "Jyeshtha"
+     ],
+     "a": 3,
+     "why": "Jyeshtha is one star, the red star Antares in Scorpius. The other three are galaxies."
+    },
+    {
+     "t": "label",
+     "p": "On the drawing of the stars of Scorpius, label the red star Jyeshtha, the tail stars of Mula, and the direction of the centre of our galaxy.",
+     "how": "a3",
+     "context": "In the Centre of the Galaxy activity, the child finds the red star Jyeshtha and the scorpion's tail, and points just past it.",
+     "a": "Jyeshtha is the bright red star in the body. Mula is the group at the end of the curled tail. The centre of the galaxy is just past the tail, a little to the left.",
+     "why": "The centre of our galaxy is in the direction of Sagittarius, just beside the tail of Scorpius.",
+     "art": "The stars of Scorpius drawn as dots with a curled tail, with three blank label lines."
+    },
+    {
+     "t": "truefalse",
+     "p": "All the stars you can see by eye at night are in the Milky Way.",
+     "a": true,
+     "why": "True. Every single star you can see by eye is in our galaxy. Other galaxies, like Andromeda, show only as faint smudges, not as separate stars."
+    },
+    {
+     "t": "write",
+     "p": "A spiral galaxy seen from its edge looks like a thin line with a bulge. Why might children sorting galaxy photos put it in the wrong group?",
+     "lines": 3,
+     "how": "a4",
+     "context": "In the Sort the Galaxies activity, the child sorts 12 photos of real galaxies into spiral, elliptical and irregular.",
+     "a": "From the edge you cannot see the arms, so it does not look like a pinwheel. It may look like a stretched elliptical galaxy.",
+     "why": "A strong answer explains that a galaxy's shape in a photo depends on the angle it is seen from."
+    },
+    {
+     "t": "perspective",
+     "p": "In 1920, two astronomers argued about the fuzzy spiral clouds in the sky. Harlow Shapley and Heber Curtis each had evidence.",
+     "views": [
+      {
+       "who": "Harlow Shapley",
+       "says": "The Milky Way is so big that it must be the whole universe. The spirals are clouds inside it."
+      },
+      {
+       "who": "Heber Curtis",
+       "says": "The spirals are other galaxies like ours, far outside it. They are 'island universes'."
+      }
+     ],
+     "ask": "Imagine it is 1920 and nobody can measure how far away the spirals are. Whose side would you take, and why? Then say what Hubble found in 1923, and whether that settles it.",
+     "lines": 5,
+     "a": "A strong answer gives a reason that made sense in 1920, for either side. Then it says that in 1923 Hubble measured a pulsing star in Andromeda and found it far outside the Milky Way, so Curtis was right about the spirals. Shapley was right that the Sun is far from our galaxy's centre.",
+     "why": "Both astronomers were partly right. Real science moves forward when a new measurement settles a fair argument."
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Many Galaxies (challenge)",
+   "tier": "challenge",
+   "mins": 30,
+   "items": [
+    {
+     "t": "write",
+     "p": "In the pinhole test, the pair 6 millimetres apart stayed two lights for longer than the pair 2 millimetres apart. If you made a pair 12 millimetres apart, about how far could you walk before it looked like one light? Explain your thinking.",
+     "lines": 4,
+     "how": "e1",
+     "context": "In the Pinhole Galaxy experiment, a card with pairs of needle holes is lit from behind by a torch in a dark room. The child walks back step by step until each pair of lights looks like one light.",
+     "a": "About twice as far as the 6 millimetre pair, and about six times as far as the 2 millimetre pair, because the gap is twice and six times as big.",
+     "why": "A strong answer spots the pattern: double the gap, and you can walk about double the distance. This is why bigger telescopes, which split smaller gaps, show more stars."
+    },
+    {
+     "t": "perspective",
+     "p": "Three people talk about why the Milky Way matters.",
+     "views": [
+      {
+       "who": "Revathi, a farmer in the Javadhu Hills",
+       "says": "My grandparents used the Akashganga and the stars to tell the time of night and the season. It belongs to everyone who can see it."
+      },
+      {
+       "who": "Dr Asha, an astronomer",
+       "says": "The Milky Way shows us our place in a galaxy of billions of stars. City lights should be dimmed so that people can see it again."
+      },
+      {
+       "who": "Mr Rao, who runs a shop in Hyderabad",
+       "says": "Bright streetlights keep the roads safe at night. People can see the Milky Way in photos."
+      }
+     ],
+     "ask": "Who do you agree with most? Give a reason. Then say what one of the others has right, and suggest a way to keep roads safe and still see the stars.",
+     "lines": 6,
+     "a": "A strong answer picks a side with a reason, gives another view its due, and suggests a fair idea, such as streetlights that shine only downwards or turn off late at night.",
+     "why": "This is a real trade-off. Safety, money, nature and culture all matter, and several places in the world now protect dark skies, including Hanle in Ladakh."
+    },
+    {
+     "t": "write",
+     "p": "Nobody has ever been outside the Milky Way to look at it. So how do astronomers know it is a flat spiral? Give two kinds of evidence.",
+     "lines": 5,
+     "a": "We see it as a band all round the sky, which is what a flat disc looks like from inside. Star counts in different directions show where it goes on longest. Maps of its gas made with radio telescopes show spiral arms. Other galaxies we can see from outside have the same shape.",
+     "why": "A strong answer gives two different pieces of evidence and says what each shows. It may mention that every picture of our galaxy from above is a drawing."
+    },
+    {
+     "t": "mcq",
+     "p": "Light from Andromeda takes about 2 and a half million years to reach us. When you look at Andromeda tonight, what are you seeing?",
+     "opts": [
+      "Andromeda as it is tonight",
+      "Andromeda as it was 2 and a half million years ago",
+      "Andromeda as it will be in the future"
+     ],
+     "a": 1,
+     "why": "The light set off 2 and a half million years ago. You see Andromeda as it was then, long before there were any humans to look."
+    },
+    {
+     "t": "draw",
+     "p": "Design a better streetlight for a city that wants its children to see the Milky Way. Draw it and label how it keeps light out of the sky.",
+     "a": "Any design that points light downwards, with a cover or shade on top, uses warm, dim light, or switches off late at night.",
+     "why": "Light that shines upwards or sideways makes the sky glow. A strong design sends the light only where it is needed.",
+     "art": "An empty box labelled 'My dark-sky streetlight'."
+    },
+    {
+     "t": "truefalse",
+     "p": "Gravity can hold a galaxy together even though its stars are very far apart.",
+     "a": true,
+     "why": "True. Gravity reaches across any distance, though it gets weaker. The pull of all the stars, gas and dark matter together keeps the galaxy's stars going round its centre."
+    },
+    {
+     "t": "write",
+     "p": "Vera Rubin found that the outer stars of spiral galaxies go round too fast. Explain in your own words why that was a puzzle.",
+     "lines": 4,
+     "a": "The stars we can see do not have enough gravity to hold stars going that fast. They should fly away, but they don't. So either there is extra unseen stuff pulling, or gravity works differently far out.",
+     "why": "A strong answer says that speed needs pull to hold it, and that the visible stars do not give enough pull."
+    },
+    {
+     "t": "mcq",
+     "p": "Henrietta Leavitt studied pulsing stars in the Small Magellanic Cloud. Why was it useful that all those stars are about the same distance from us?",
+     "opts": [
+      "So she could see them with her own eyes",
+      "So that a star that looked brighter really was brighter",
+      "So they all pulsed at the same speed"
+     ],
+     "a": 1,
+     "why": "If the stars are all about the same distance away, the brighter-looking ones really are brighter. That let her see that the brighter ones pulse more slowly."
+    },
+    {
+     "t": "match",
+     "p": "Match each galaxy to a fact about it.",
+     "pairs": [
+      [
+       "The Milky Way",
+       "a barred spiral with the Sun in it"
+      ],
+      [
+       "Andromeda",
+       "the nearest big spiral galaxy, moving towards us"
+      ],
+      [
+       "The Large Magellanic Cloud",
+       "a small irregular galaxy near ours"
+      ],
+      [
+       "Messier 87",
+       "a giant elliptical whose black hole was photographed in 2019"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each galaxy shows a different shape or story. Together they show that the Milky Way is one galaxy among many."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these statements. Is each one known for sure, or still argued about?",
+     "cats": [
+      "Known for sure",
+      "Still argued about"
+     ],
+     "items": [
+      [
+       "The Milky Way is made of stars",
+       "Known for sure"
+      ],
+      [
+       "There is a black hole at the centre of the Milky Way",
+       "Known for sure"
+      ],
+      [
+       "Galaxies are held together by dark matter",
+       "Still argued about"
+      ],
+      [
+       "Andromeda will crash into the Milky Way",
+       "Still argued about"
+      ],
+      [
+       "Andromeda is outside the Milky Way",
+       "Known for sure"
+      ],
+      [
+       "The exact number of galaxies in the universe",
+       "Still argued about"
+      ]
+     ],
+     "a": "see items",
+     "why": "Some things have been measured many ways. Others are still being tested, and scientists disagree."
+    },
+    {
+     "t": "order",
+     "p": "Put these discoveries in the order they happened.",
+     "items": [
+      "Galileo sees that the Milky Way is made of stars",
+      "Caroline and William Herschel count stars to map the galaxy",
+      "Henrietta Leavitt finds her rule for pulsing stars",
+      "Edwin Hubble shows Andromeda is outside the Milky Way",
+      "A picture of the black hole at our galaxy's centre is shown"
+     ],
+     "a": "order shown",
+     "why": "1610, 1785, 1912, 1923 and 2022. Each discovery used the ones before it."
+    },
+    {
+     "t": "write",
+     "p": "Your body has about 30 trillion cells. The Milky Way has a few hundred billion stars. In what ways is your body like a galaxy? In what ways is it different?",
+     "lines": 5,
+     "a": "Alike: both are made of a huge number of parts that work together and make one whole. Different: your cells touch each other and share food and signals, while stars are very far apart and are held together by gravity.",
+     "why": "A strong answer gives at least one likeness and one difference, each with a reason."
+    },
+    {
+     "t": "fill",
+     "p": "The Milky Way is about 100,000 light-years across but only about ____ light-years thick.",
+     "a": [
+      "1,000",
+      "1000",
+      "one thousand"
+     ],
+     "why": "The disc is about 100 times wider than it is thick, flatter than a dosa. That is why we see it as a band."
+    },
+    {
+     "t": "label",
+     "p": "On the side-view drawing of the Milky Way, label the bulge, the disc, the Sun, and a dark dust lane.",
+     "a": "The bulge is the round swelling in the middle. The disc is the long thin part. The Sun is a dot about halfway out, inside the disc. The dust lane is a dark stripe along the middle of the disc.",
+     "why": "Knowing these parts explains what we see from Earth: a bright band with a dark stripe, brightest towards the bulge.",
+     "art": "A side view of a thin disc of stars with a bulge in the middle and a dark stripe along it, with four blank label lines."
+    },
+    {
+     "t": "odd",
+     "p": "Which of these could you NOT do from a city flat?",
+     "opts": [
+      "Make a pinhole galaxy card",
+      "Count rice grains in a paper galaxy",
+      "See the Milky Way band by eye on a clear night",
+      "Find the red star Jyeshtha in summer"
+     ],
+     "a": 2,
+     "why": "The other three work from a city. The Milky Way band is too faint to see through city light. You need a dark place far from towns."
+    }
+   ]
+  }
+ ],
+ "applications": [
+  "Astronomers use maps of the Milky Way's stars, made by the Gaia spacecraft, to plan where to point telescopes.",
+  "Ships and spacecraft have used star maps to find their way and to keep pointing the right way.",
+  "India's Hanle Dark Sky Reserve in Ladakh protects its night sky, so astronomers and visitors can see the Milky Way.",
+  "Leavitt's pulsing stars are still used today to measure distances to other galaxies.",
+  "Radio telescopes, like the Giant Metrewave Radio Telescope near Pune, study gas in faraway galaxies.",
+  "The way astronomers count stars in a small patch and multiply is used to estimate crowds, trees in a forest and fish in the sea."
+ ],
+ "spotted": [
+  {
+   "text": "The pale band of the Milky Way, on a clear moonless night far from city lights, in the hills or by the sea.",
+   "art": "A pale band of stars above a dark hill road."
+  },
+  {
+   "text": "Far headlights on a highway at night that look like one light, and split into two as the vehicle comes closer.",
+   "art": "A highway at night with a single light far away and a pair of headlights close."
+  },
+  {
+   "text": "The red star Jyeshtha, low in the south-east on summer evenings, near the direction of our galaxy's centre.",
+   "art": "A bright red star low above city rooftops."
+  },
+  {
+   "text": "A rangoli or kolam of white dots that looks like a smooth line from across the street.",
+   "art": "A dotted kolam on a doorstep, seen from far away as smooth lines."
+  },
+  {
+   "text": "The word 'galaxy' on phones and shops: it comes from the Greek word for milk.",
+   "art": "A shop sign with the word 'Galaxy' and a small glass of milk beside it."
+  },
+  {
+   "text": "Planetarium shows in Chennai, Bengaluru, Hyderabad and other cities that show the Milky Way as it looks from a dark sky.",
+   "art": "Children in a dome looking up at a projected band of stars."
+  }
+ ],
+ "open_questions": [
+  {
+   "q": "What is dark matter made of?",
+   "why_open": "Galaxies seem to need much more gravity than their stars give. Nobody has yet found the particles that might make dark matter, or shown for certain that it is there."
+  },
+  {
+   "q": "How did the first galaxies form?",
+   "why_open": "The James Webb Space Telescope has found bright galaxies from very early in the universe, earlier than many astronomers expected. Scientists are still working out how they grew so fast."
+  },
+  {
+   "q": "How many galaxies are there?",
+   "why_open": "Estimates range from a few hundred billion to about 2 trillion in the part of the universe we can see. Faint and far ones are hard to count."
+  },
+  {
+   "q": "Will the Milky Way and Andromeda crash together?",
+   "why_open": "They are moving towards each other, but a 2025 study found only about an even chance of a crash in the next 10 billion years. Better measurements of their movements will help."
+  },
+  {
+   "q": "How did the black holes at the centres of galaxies get so big?",
+   "why_open": "Some giant black holes already existed when the universe was young. Priyamvada Natarajan, an astronomer who grew up in India, proposed that some formed when huge gas clouds collapsed straight into black holes. Astronomers are testing this."
+  }
+ ],
+ "ask_kids": [
+  "If you could fly above the Milky Way, what would you see?",
+  "What is our full address, from our home out to the universe?",
+  "Which do you think has more: stars in the Milky Way, or grains of rice in a big rice sack?",
+  "Why do far-away headlights look like one light?",
+  "Is it fair that city children can't see the Milky Way?",
+  "If there are billions of galaxies, do you think anyone in another galaxy is looking back at us?",
+  "What would you name a new galaxy if you found one?",
+  "Why do you think the Greeks called it milk, and India called it a river?"
+ ],
+ "jokes": [
+  {
+   "j": "Why did the star go to school?",
+   "a": "To get a little brighter."
+  },
+  {
+   "j": "What did the Milky Way say to Andromeda?",
+   "a": "Don't come any closer, I need my space!"
+  },
+  {
+   "j": "Why is the Milky Way never lonely?",
+   "a": "It has billions of stars for company."
+  },
+  {
+   "j": "Where do galaxies keep their spare stars?",
+   "a": "In their spiral arms."
+  },
+  {
+   "j": "What kind of music do galaxies like?",
+   "a": "Something with a good spin."
+  },
+  {
+   "j": "Why did the elliptical galaxy feel calm?",
+   "a": "It had no arms to wave about."
+  },
+  {
+   "j": "How do you organise a party in space?",
+   "a": "You planet, then you galaxy-vite everyone."
+  },
+  {
+   "j": "Why couldn't Arjun see the Milky Way in Chennai?",
+   "a": "The streetlights wanted all the attention."
+  },
+  {
+   "j": "What is a galaxy's favourite snack?",
+   "a": "A Milky Way, of course."
+  },
+  {
+   "j": "Why did the black hole skip lunch?",
+   "a": "It had already swallowed everything."
+  },
+  {
+   "j": "How did the astronomer count the stars?",
+   "a": "She counted a few and multiplied."
+  },
+  {
+   "j": "What did the Sun say after 230 million years?",
+   "a": "I'm back where I started!"
+  },
+  {
+   "j": "Why was the rice galaxy so tidy?",
+   "a": "Every grain knew its place."
+  },
+  {
+   "j": "What do you call a galaxy that tells stories?",
+   "a": "A spiral of tales."
+  },
+  {
+   "j": "Why did the pinhole star get a prize?",
+   "a": "It was a real bright spark."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "In the Rice Galaxy experiment, Meenakshi counted 24 grains along the thread towards the middle and 8 grains along the thread away from the middle. How many times as many grains were towards the middle?",
+   "answer": "3 times as many.",
+   "explain": "24 divided by 8 is 3. So there were 3 times as many grains towards the middle. This shows the paper Sun is not in the middle.",
+   "math_unit": "math.division.sharing-and-grouping.L3",
+   "how": "e2",
+   "context": "In the Rice Galaxy experiment, rice grains spread on a big paper circle stand for the stars of the Milky Way. A paper Sun sits halfway between the middle and the edge, and the child counts grains along threads in different directions.",
+   "why_maths": "Dividing one count by the other tells how much bigger it is, which shows how far off-centre the Sun is."
+  },
+  {
+   "problem": "In the Pinhole Galaxy experiment, Kavya's 2 millimetre pair became one light at 4 steps, and her 4 millimetre pair at 8 steps. Guess at how many steps her 6 millimetre pair will become one light. Explain your guess.",
+   "answer": "About 12 steps.",
+   "explain": "When the gap doubled from 2 to 4 millimetres, the steps doubled from 4 to 8. So each millimetre of gap adds about 2 steps. 6 millimetres times 2 is 12 steps.",
+   "math_unit": "math.patterns.number-patterns.L3",
+   "how": "e1",
+   "context": "In the Pinhole Galaxy experiment, a card with pairs of needle holes is lit from behind by a torch in a dark room. The child walks back step by step until each pair of lights looks like one light.",
+   "why_maths": "Spotting the pattern in your results lets you predict a result before you test it."
+  },
+  {
+   "problem": "In the Katori of Rice challenge, one teaspoon held 300 grains, and the katori held 12 teaspoons. About how many grains were in the katori?",
+   "answer": "About 3,600 grains.",
+   "explain": "12 times 300 is 3,600. This is an estimate, because each teaspoon holds a slightly different number.",
+   "math_unit": "math.multiplication.equal-groups.L3",
+   "how": "c1",
+   "context": "In the Katori of Rice challenge, the child counts the grains in one teaspoon, then counts how many teaspoons fill a katori.",
+   "why_maths": "Multiplying a small count is how astronomers estimate the number of stars without counting every one."
+  },
+  {
+   "problem": "The Sun takes about 230 million years to go once round the galaxy. The Earth is about 4,600 million years old. About how many times has the Earth gone round the galaxy with the Sun?",
+   "answer": "About 20 times.",
+   "explain": "230 times 20 is 4,600. So in 4,600 million years the Sun and Earth have gone round about 20 times.",
+   "math_unit": "math.multiplication.multiplication-facts.L3",
+   "why_maths": "Comparing two huge times by dividing tells how many galaxy trips the Earth has made."
+  },
+  {
+   "problem": "The Milky Way is about 100,000 light-years across and about 1,000 light-years thick. How many times wider is it than it is thick? A dosa is 20 centimetres across. How thick would it be if it were as flat as the Milky Way?",
+   "answer": "100 times wider. The dosa would be 2 millimetres thick.",
+   "explain": "100,000 divided by 1,000 is 100. 20 centimetres is 200 millimetres. 200 divided by 100 is 2 millimetres, about as thin as a real thin dosa.",
+   "math_unit": "math.division.division-facts.L3",
+   "why_maths": "Turning the galaxy's huge sizes into the size of a dosa shows just how flat it is."
+  },
+  {
+   "problem": "In the Rice Galaxy experiment, Lakshmi's counts with the long thread were: towards the middle 22, away 7, left side 14, right side 13. Draw a bar chart of her counts. Which bar is tallest, and what does it tell you?",
+   "answer": "The bar for 'towards the middle' is tallest, at 22. It shows the most stars lie in that direction, so that is where the middle of the galaxy is.",
+   "explain": "Draw four bars: 22, 7, 14 and 13. The two side bars are nearly the same, because the middle is neither left nor right.",
+   "math_unit": "math.data.bar-charts.L3",
+   "how": "e2",
+   "context": "In the Rice Galaxy experiment, rice grains spread on a big paper circle stand for the stars of the Milky Way. A paper Sun sits halfway between the middle and the edge, and the child counts grains along threads in different directions.",
+   "why_maths": "A bar chart shows at a glance which direction has the most stars.",
+   "chart": {
+    "type": "bar",
+    "title": "Rice grains counted along each thread",
+    "x": "Direction",
+    "y": "Grains",
+    "data": [
+     {
+      "label": "Towards the middle",
+      "value": 22
+     },
+     {
+      "label": "Away",
+      "value": 7
+     },
+     {
+      "label": "Left",
+      "value": 14
+     },
+     {
+      "label": "Right",
+      "value": 13
+     }
+    ]
+   }
+  }
+ ],
+ "song": {
+  "topic_level": "sci.story-of-universe.L3",
+  "title": "City of Stars",
+  "note": "Topic-level song for The story of the universe L3 (still to be written)"
+ },
+ "links": [
+  {
+   "title": "Stellarium Web",
+   "url": "https://stellarium-web.org",
+   "kind": "simulation",
+   "why": "A free sky map in your web browser. Set your town and time to find Jyeshtha, Mula and the band of the Milky Way."
+  },
+  {
+   "title": "Galaxy Zoo",
+   "url": "https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/",
+   "kind": "interactive",
+   "why": "A free citizen science project where people sort real galaxy photos by shape, to help astronomers."
+  },
+  {
+   "title": "ESA Gaia: mapping the Milky Way",
+   "url": "https://www.esa.int/Science_Exploration/Space_Science/Gaia",
+   "kind": "interactive",
+   "why": "The European Space Agency's pages on Gaia, the spacecraft that has mapped nearly 2 billion stars of our galaxy."
+  },
+  {
+   "title": "B. M. Birla Planetarium, Chennai",
+   "url": "https://en.wikipedia.org/wiki/Birla_Planetarium,_Chennai",
+   "kind": "place",
+   "where": "Chennai",
+   "why": "A planetarium at the Periyar Science and Technology Centre, with sky shows. Check show times before visiting."
+  },
+  {
+   "title": "Hanle Dark Sky Reserve",
+   "url": "https://www.iiap.res.in/",
+   "kind": "place",
+   "where": "Hanle, Ladakh",
+   "why": "India's first dark sky reserve, round the Indian Astronomical Observatory, where the Milky Way is bright. Run with the Indian Institute of Astrophysics."
+  },
+  {
+   "title": "Vainu Bappu Observatory",
+   "url": "https://www.iiap.res.in/",
+   "kind": "place",
+   "where": "Kavalur, Tamil Nadu",
+   "why": "An observatory of the Indian Institute of Astrophysics in the Javadhu Hills. It has held public viewing nights. Check before visiting."
+  }
+ ],
+ "buy": [],
+ "warmup": [
+  {
+   "q": "What is our galaxy called?",
+   "a": "The Milky Way."
+  },
+  {
+   "q": "What holds the stars of a galaxy together?",
+   "a": "Gravity."
+  },
+  {
+   "q": "Name the three main shapes of galaxies.",
+   "a": "Spiral, elliptical and irregular."
+  },
+  {
+   "q": "Why does the Milky Way look like a band?",
+   "a": "It is a flat disc and we see it from inside."
+  },
+  {
+   "q": "What is the nearest big galaxy to ours?",
+   "a": "Andromeda."
+  },
+  {
+   "q": "Is the Sun at the centre of the Milky Way?",
+   "a": "No, it is about halfway out."
+  },
+  {
+   "q": "What is at the centre of the Milky Way?",
+   "a": "A huge black hole."
+  },
+  {
+   "q": "Who found a way to measure how far away pulsing stars are?",
+   "a": "Henrietta Leavitt."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "story",
+   "a1",
+   "e1",
+   "big_questions",
+   "cards",
+   "g1",
+   "a2"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "e1",
+   "summary",
+   "terms",
+   "explanations",
+   "story",
+   "a2",
+   "g1",
+   "e2",
+   "videos",
+   "ws-core",
+   "a4",
+   "p1",
+   "agreed",
+   "challenging",
+   "ws-stretch",
+   "a3",
+   "c1",
+   "big_questions",
+   "ws-challenge",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "a2",
+   "g1",
+   "e2",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "sources": {
+  "founder": [
+   "ideas/by_topic/story-of-the-universe.md: 'Galaxies are cities of stars' and the three galaxy shapes (Types of galaxies grid, Grade 1), used for the explanations and the Sort the Galaxies activity",
+   "ideas/by_topic/story-of-the-universe.md: SCI Cards for Henrietta Leavitt, Vera Rubin and Priyamvada Natarajan, used for How we found out, the dark matter card and the open questions",
+   "ideas/by_topic/story-of-the-universe.md: science journal page 'Galaxy Map', used for the Kolam of the Milky Way project"
+  ],
+  "science": [
+   "Galilei, G., Sidereus Nuncius, Venice, 1610 (the Milky Way resolved into stars)",
+   "Herschel, W., 'On the Construction of the Heavens', Philosophical Transactions of the Royal Society 75, 1785",
+   "Shapley, H., 'Globular clusters and the structure of the galactic system', Publications of the Astronomical Society of the Pacific 30, 1918",
+   "Leavitt, H. S. and Pickering, E. C., 'Periods of 25 Variable Stars in the Small Magellanic Cloud', Harvard College Observatory Circular 173, 1912",
+   "Hubble, E. P., 'Cepheids in spiral nebulae', The Observatory 48, 1925",
+   "Trumpler, R. J., 'Absorption of light in the galactic system', Publications of the Astronomical Society of the Pacific 42, 1930",
+   "Rubin, V. C. and Ford, W. K., 'Rotation of the Andromeda Nebula from a Spectroscopic Survey of Emission Regions', Astrophysical Journal 159, 1970",
+   "Event Horizon Telescope Collaboration, 'First Sagittarius A* Event Horizon Telescope Results. I.', Astrophysical Journal Letters 930, 2022",
+   "Gaia Collaboration, 'Gaia Data Release 3: Summary of the content and survey properties', Astronomy and Astrophysics 674, 2023",
+   "Sawala, T. and others, 'No certainty of a Milky Way-Andromeda collision', Nature Astronomy, 2025",
+   "Dacke, M. and others, 'Dung beetles use the Milky Way for orientation', Current Biology 23, 2013",
+   "Sender, R., Fuchs, S. and Milo, R., 'Revised estimates for the number of human and bacteria cells in the body', PLOS Biology 14, 2016"
+  ]
+ },
+ "roots": {
+  "context": "We have been learning that the Milky Way is a galaxy of billions of stars, which our eyes see as one pale glow. Now we ask what that tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "Up close, your pinholes were separate lights, and from across the room they made one soft glow. The holes had not changed. Your eyes could no longer tell them apart. The Milky Way's pale band is billions of stars, blurred into one glow by distance in this way.",
+   "habit": "We take what we see as one thing to be one thing: a cloud, a smudge, a glow. Whether we see one or many often depends on how far away we are and how fine our eyes are.",
+   "evidence": "In the Pinhole Galaxy experiment, the bunch of holes looked like one fuzzy light from far away and like separate points up close. Galileo's telescope did the same to the Milky Way in 1610."
+  },
+  "three": {
+   "who_am_i": "Your body is made of about 30 trillion cells, more than the stars in the Milky Way. From across the room, you look like one person.",
+   "what_is_life": "A dung beetle must roll their ball of dung away in a straight line, before other beetles steal it. On moonless nights, they steer by the bright band of the Milky Way.",
+   "what_is_this_world": "The Sun is one star in a galaxy of billions, and our galaxy is one of hundreds of billions. All the stars we can see by eye belong to just one of them."
+  },
+  "thread": "A galaxy is many and one at the same time. It is billions of separate suns, each with its own light. Gravity holds them all, so they all go round one centre together. From far away their lights join into one glow. Each star is fully itself, and each is also part of something bigger that it cannot leave.",
+  "teachings": [
+   {
+    "source": "Milindapanha (The Questions of King Milinda), Book 2, the simile of the chariot",
+    "teaching": "King Milinda asks the monk Nagasena what a chariot is. Is it the wheels, the axle or the pole? None of them alone. 'Chariot' is the name we give to all the parts together.",
+    "link": "'Milky Way' is the name we give to billions of stars, gas and dust together. The glow you see is not any one star, and it is not something extra on top of them."
+   },
+   {
+    "source": "Bhagavad Gita 11.12",
+    "teaching": "If the light of a thousand suns blazed out together in the sky, it might be like the splendour of that great being.",
+    "link": "The pale band of the Milky Way really is the light of countless suns shining together. Each is too far and too faint to see alone. Together they make a glow you can see from a dark hill."
+   }
+  ],
+  "science": [
+   {
+    "text": "There are hundreds of billions of galaxies in the part of the universe we can see. The exact number is still argued about.",
+    "status": "settled"
+   },
+   {
+    "text": "Most of the matter holding galaxies together seems to be dark matter that gives out no light. Nobody has yet found what it is made of.",
+    "status": "debated"
+   }
+  ],
+  "other_view": {
+   "who": "Many scientists and philosophers",
+   "view": "A galaxy is only a word for stars that gravity keeps near each other. Only the stars, the gas and the dust are real things. Calling it 'one' is just a handy way of speaking, the way we call many trees a forest."
+  },
+  "practice": {
+   "title": "Many lights, one glow",
+   "mins": 3,
+   "say": "Let's sit quietly and look at the lights of the street or the buildings outside. Look at one light far away. Now half close your eyes. Do the lights start to blur together? Open them wide again. Now close your eyes and breathe slowly six times. Feel your whole body breathing as one. Your body is made of trillions of tiny cells, each one alive. Open your eyes slowly.",
+   "kid": "Look at the far lights outside. Half close your eyes. Do they blur? Now close your eyes. Breathe slowly six times. Your body is trillions of cells, breathing as one."
+  },
+  "ask": [
+   "Is the Milky Way one thing or billions of things? Can it be both?",
+   "When the pinhole lights blurred into one glow, was the glow in the card or in your eyes?",
+   "Could your cells feel as if they each live alone, the way each star shines alone?"
+  ],
+  "art": "A child on a rooftop looking up at the pale band of the Milky Way. In a circle, the band zoomed in to show countless separate stars. In another circle, the child's hand zoomed in to show countless separate cells."
+ },
+ "playtest": "Every experiment, activity, game, project and challenge was walked through as if in a city flat, with the materials listed. Pinhole card: holes made with a needle tip are well under a millimetre wide, so pairs 2, 4 and 6 millimetres apart stay separate up close. Our eyes can split two points only when their gap looks bigger than about one sixtieth of a degree, and bright points in the dark blur sooner. So a 2 millimetre pair should join within a few metres, and the 6 millimetre pair may stay two across a small flat. The step tells the parent that 'still two at the far wall' is a result too, and the pattern, not the number, is what matters. Rice galaxy: one heaped tablespoon of raw rice is several hundred grains, so a 50 centimetre circle gives roughly 20 grains along the thread towards the middle and under 10 away from it, a clear difference to count. The night activity is outside the spine, because clouds, the season and city light decide what can be seen.",
+ "how_we_found_out": {
+  "story": "A hundred years ago, most astronomers thought the Milky Way was the whole universe. Telescopes showed faint spiral clouds, called nebulae. Many thought they were clouds of gas inside our galaxy. Others said they were separate galaxies, far outside. Nobody could measure how far away they were. The answer came from Henrietta Leavitt, who worked at Harvard College Observatory studying photographs of stars. She looked at stars that grow brighter and dimmer again and again, called Cepheids. In 1912 she showed that the brighter a Cepheid really is, the more slowly it pulses. So a Cepheid's pulse tells how bright it really is, and how faint it looks tells how far away it is. In October 1923, Edwin Hubble photographed the Andromeda nebula with the big telescope on Mount Wilson in California and found a Cepheid in it. Using Leavitt's rule, he worked out that it was nearly a million light-years away, far outside the Milky Way. Today we know Andromeda is about 2 and a half million light-years away. Andromeda was a whole galaxy, and the Milky Way was one of many. Leavitt had died in 1921, so she never knew.",
+  "who": "Henrietta Swan Leavitt, an American astronomer at Harvard College Observatory, and Edwin Hubble, an American astronomer at Mount Wilson Observatory",
+  "when": "1912 (Leavitt's rule) and 1923 (Hubble's Cepheid in Andromeda), announced in 1925",
+  "wrong_idea": "Most astronomers thought the Milky Way was the whole universe and the spiral nebulae were clouds inside it. Hubble used Leavitt's pulsing stars to show that Andromeda is far outside the Milky Way, a galaxy of its own."
+ }
+}

@@ -422,20 +422,56 @@
     },
     {
      "kind": "cards",
-     "title": "12 question cards",
+     "title": "12 question cards (the answer is on the back)",
      "items": [
-      "Name a conductor in this room. (Any metal thing, such as a spoon or a key)",
-      "Name an insulator in this room. (Plastic, wood, rubber, glass, paper or cloth)",
-      "Why are wires covered in plastic? (Plastic is an insulator. It keeps the electricity in.)",
-      "How many volts is a wall socket in India? (230 volts)",
-      "How many volts is an AA cell? (1.5 volts)",
-      "Who is allowed to plug things in? (Only grown-ups)",
-      "Why never touch a switch with wet hands? (Water lets electricity through your skin)",
-      "What does a switch do? (Opens and closes a gap in the circuit)",
-      "What tiny particles move in a wire? (Electrons)",
-      "Who made the first battery? (Alessandro Volta)",
-      "Do the electrons get used up in the bulb? (No, they go round and come back)",
-      "A gap is after the bulb. Does the bulb light? (No)"
+      {
+       "f": "Name a conductor in this room.",
+       "b": "Any metal thing, such as a spoon or a key"
+      },
+      {
+       "f": "Name an insulator in this room.",
+       "b": "Plastic, wood, rubber, glass, paper or cloth"
+      },
+      {
+       "f": "Why are wires covered in plastic?",
+       "b": "Plastic is an insulator. It keeps the electricity in."
+      },
+      {
+       "f": "How many volts is a wall socket in India?",
+       "b": "230 volts"
+      },
+      {
+       "f": "How many volts is an AA cell?",
+       "b": "1.5 volts"
+      },
+      {
+       "f": "Who is allowed to plug things in?",
+       "b": "Only grown-ups"
+      },
+      {
+       "f": "Why never touch a switch with wet hands?",
+       "b": "Water lets electricity through your skin"
+      },
+      {
+       "f": "What does a switch do?",
+       "b": "Opens and closes a gap in the circuit"
+      },
+      {
+       "f": "What tiny particles move in a wire?",
+       "b": "Electrons"
+      },
+      {
+       "f": "Who made the first battery?",
+       "b": "Alessandro Volta"
+      },
+      {
+       "f": "Do the electrons get used up in the bulb?",
+       "b": "No, they go round and come back"
+      },
+      {
+       "f": "A gap is after the bulb. Does the bulb light?",
+       "b": "No"
+      }
      ]
     },
     {
@@ -454,7 +490,7 @@
     "On your turn, take one card. Then play one card on your circuit, or play a GAP! card on someone else's.",
     "WIRE and CONDUCTOR cards join your loop. An INSULATOR card cannot be used as a wire. If you have to play one, put it aside.",
     "A GAP! card breaks a circuit. That player must play a FIX IT card, or take the broken card out and replace it.",
-    "When your loop is complete, answer a question card. Right? Your bulb lights: score 1 bulb and start a new circuit. Wrong? Try again on your next turn.",
+    "When your loop is complete, read the front of a question card and answer it. Turn the card over to check. Right? Your bulb lights: score 1 bulb and start a new circuit. Wrong? Try again on your next turn.",
     "A SWITCH card in your loop protects it: a GAP! card played on you only opens the switch, and you can close it again on your next turn.",
     "The first player to light 2 bulbs wins. Playing alone, try to light 2 bulbs in 15 turns."
    ],

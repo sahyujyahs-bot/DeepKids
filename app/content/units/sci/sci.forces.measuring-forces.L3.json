@@ -891,32 +891,104 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "24 force cards to cut out",
+     "title": "24 force cards to cut out (the number is on the back)",
      "items": [
-      "One molecule walking inside your cell: about 6 millionths of a millionth of a newton",
-      "The gravity pull between the lead balls in Cavendish's experiment: about the weight of a fine grain of sand",
-      "A mosquito landing on your arm: far less than 1 newton",
-      "A sheet of paper resting on your hand: about one twentieth of a newton",
-      "A one-rupee coin resting on your hand: about three hundredths of a newton",
-      "Tapping a phone screen: about 1 newton",
-      "A small apple on your hand: about 1 newton",
-      "A cricket ball on your hand: about 1.6 newtons",
-      "Opening a kitchen drawer: about 5 newtons",
-      "A 1 litre water bottle on your hand: about 10 newtons",
-      "Opening a fridge door: about 20 newtons",
-      "A full school bag on your back: about 30 newtons",
-      "A pet cat sitting on your lap: about 40 newtons",
-      "A Class 3 child standing on the floor: about 250 newtons",
-      "A grown-up standing on the floor: about 600 newtons",
-      "A grown-up's hardest bite with the back teeth: several hundred newtons",
-      "A scooter standing on its wheels: about 1,000 newtons",
-      "A small car resting on the road: about 10,000 newtons",
-      "A big saltwater crocodile's bite: about 16,000 newtons",
-      "An Asian elephant standing: about 40,000 newtons",
-      "A blue whale's weight: about 1,500,000 newtons",
-      "The Saturn V rocket lifting off: about 34,000,000 newtons",
-      "The Earth and the Moon pulling on each other: about 200 million million million newtons",
-      "MYSTERY: hang something from home on a forcemeter and write its newtons here"
+      {
+       "f": "One molecule walking inside your cell",
+       "b": "About 6 millionths of a millionth of a newton"
+      },
+      {
+       "f": "The gravity pull between the lead balls in Cavendish's experiment",
+       "b": "About the weight of a fine grain of sand"
+      },
+      {
+       "f": "A mosquito landing on your arm",
+       "b": "Far less than 1 newton"
+      },
+      {
+       "f": "A sheet of paper resting on your hand",
+       "b": "About one twentieth of a newton"
+      },
+      {
+       "f": "A one-rupee coin resting on your hand",
+       "b": "About three hundredths of a newton"
+      },
+      {
+       "f": "Tapping a phone screen",
+       "b": "About 1 newton"
+      },
+      {
+       "f": "A small apple on your hand",
+       "b": "About 1 newton"
+      },
+      {
+       "f": "A cricket ball on your hand",
+       "b": "About 1.6 newtons"
+      },
+      {
+       "f": "Opening a kitchen drawer",
+       "b": "About 5 newtons"
+      },
+      {
+       "f": "A 1 litre water bottle on your hand",
+       "b": "About 10 newtons"
+      },
+      {
+       "f": "Opening a fridge door",
+       "b": "About 20 newtons"
+      },
+      {
+       "f": "A full school bag on your back",
+       "b": "About 30 newtons"
+      },
+      {
+       "f": "A pet cat sitting on your lap",
+       "b": "About 40 newtons"
+      },
+      {
+       "f": "A Class 3 child standing on the floor",
+       "b": "About 250 newtons"
+      },
+      {
+       "f": "A grown-up standing on the floor",
+       "b": "About 600 newtons"
+      },
+      {
+       "f": "A grown-up's hardest bite with the back teeth",
+       "b": "Several hundred newtons"
+      },
+      {
+       "f": "A scooter standing on its wheels",
+       "b": "About 1,000 newtons"
+      },
+      {
+       "f": "A small car resting on the road",
+       "b": "About 10,000 newtons"
+      },
+      {
+       "f": "A big saltwater crocodile's bite",
+       "b": "About 16,000 newtons"
+      },
+      {
+       "f": "An Asian elephant standing",
+       "b": "About 40,000 newtons"
+      },
+      {
+       "f": "A blue whale's weight",
+       "b": "About 1,500,000 newtons"
+      },
+      {
+       "f": "The Saturn V rocket lifting off",
+       "b": "About 34,000,000 newtons"
+      },
+      {
+       "f": "The Earth and the Moon pulling on each other",
+       "b": "About 200 million million million newtons"
+      },
+      {
+       "f": "MYSTERY",
+       "b": "Hang something from home on a forcemeter and write its newtons here"
+      }
      ]
     },
     {
@@ -931,10 +1003,10 @@
     }
    ],
    "rules": [
-    "Cut out the force cards. Hide the numbers by folding the bottom of each card under.",
+    "Cut out the force cards. The number is on the back, so keep it hidden.",
     "Lay the ladder on the floor, TINY at the bottom and HUGE at the top.",
-    "On your turn, take a card and read only the top part out loud.",
-    "Guess which rung it belongs on. Put it there. Then unfold the number and check.",
+    "On your turn, take a card and read only the front out loud.",
+    "Guess which rung it belongs on. Put it there. Then turn the card over and check.",
     "A right guess wins 1 point. If it is on the wrong rung, move it to the right one.",
     "When all the cards are placed, put the cards on each rung in order, smallest to biggest."
    ],

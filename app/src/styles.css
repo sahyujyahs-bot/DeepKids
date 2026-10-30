@@ -1022,6 +1022,25 @@ dialog.sheet::backdrop {
   padding: 14px 0;
   border-top: 2px dashed var(--line);
 }
+.shoprow {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 12px;
+  align-items: center;
+  padding: 12px 0;
+  border-top: 2px dashed var(--line);
+}
+.shoprow:first-child {
+  border-top: 0;
+}
+.shoprow > div {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+.shoprow.done b {
+  text-decoration: line-through;
+  color: var(--muted);
+}
 .taskrow:first-child {
   border-top: 0;
 }

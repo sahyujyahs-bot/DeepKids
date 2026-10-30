@@ -589,32 +589,104 @@
     },
     {
      "kind": "cards",
-     "title": "24 clue cards to cut out",
+     "title": "24 clue cards to cut out (the answer is on the back)",
      "items": [
-      "I sit inside a bony helmet. Who am I?",
-      "I am about the size of your fist. I squeeze all day and all night. Who am I?",
-      "There are two of us. We are soft and spongy, and we are full of air. Who are we?",
-      "I am shaped like a J. I sit under your ribs on the left. Who am I?",
-      "I float in a clear liquid that stops me banging on bone. Who am I?",
-      "I am smaller than my twin, because I leave room for the heart. Who am I?",
-      "I am a stretchy bag. I make a strong acid. Who am I?",
-      "I am a long, coiled tube. Most of your tummy below the belly button is me. Who am I?",
-      "I carry food from your mouth down to the stomach. Who am I?",
-      "I carry air from your nose down to the lungs. Who am I?",
-      "I have about 86 billion nerve cells. Who am I?",
-      "I sit in the middle of your chest, tipped a little to the left. Who am I?",
-      "I keep you breathing even when you are fast asleep. Who am I?",
-      "I churn your food like hands kneading dough. Who am I?",
-      "I have four chambers, or rooms, inside me, and blood flows through them. Who am I?",
-      "Oxygen passes through my hundreds of millions of tiny air bags into your blood. Who am I?",
-      "TEAM CARD: You are running for the bus. Point to the two organs that speed up.",
-      "TEAM CARD: You just ate a big lunch. Point to the organ that is stretched wide.",
-      "TEAM CARD: You are doing a hard puzzle. Which organ is using a lot of energy?",
-      "TEAM CARD: You hold your breath. Which organ is telling you to breathe again?",
-      "FEEL IT: Everyone puts a hand on the middle of their chest. What can you feel?",
-      "FEEL IT: Everyone breathes in deeply with hands on their ribs. What moves?",
-      "FEEL IT: Everyone knocks gently on their head. What is the hard part called?",
-      "FEEL IT: Everyone swallows a sip of water. Where does it go?"
+      {
+       "f": "I sit inside a bony helmet. Who am I?",
+       "b": "Brain: in the head, inside the skull"
+      },
+      {
+       "f": "I am about the size of your fist. I squeeze all day and all night. Who am I?",
+       "b": "Heart: in the middle of the chest"
+      },
+      {
+       "f": "There are two of us. We are soft and spongy, and we are full of air. Who are we?",
+       "b": "Lungs: in the chest, one on each side of the heart"
+      },
+      {
+       "f": "I am shaped like a J. I sit under your ribs on the left. Who am I?",
+       "b": "Stomach: under the ribs, on the left"
+      },
+      {
+       "f": "I float in a clear liquid that stops me banging on bone. Who am I?",
+       "b": "Brain: in the head, inside the skull"
+      },
+      {
+       "f": "I am smaller than my twin, because I leave room for the heart. Who am I?",
+       "b": "Left lung: on the left side of the chest"
+      },
+      {
+       "f": "I am a stretchy bag. I make a strong acid. Who am I?",
+       "b": "Stomach: under the ribs, on the left"
+      },
+      {
+       "f": "I am a long, coiled tube. Most of your tummy below the belly button is me. Who am I?",
+       "b": "Intestines: in the belly, below the belly button"
+      },
+      {
+       "f": "I carry food from your mouth down to the stomach. Who am I?",
+       "b": "Food pipe: from the mouth down to the stomach"
+      },
+      {
+       "f": "I carry air from your nose down to the lungs. Who am I?",
+       "b": "Windpipe: from the nose and throat down to the lungs"
+      },
+      {
+       "f": "I have about 86 billion nerve cells. Who am I?",
+       "b": "Brain: in the head, inside the skull"
+      },
+      {
+       "f": "I sit in the middle of your chest, tipped a little to the left. Who am I?",
+       "b": "Heart: in the middle of the chest, tipped a little to the left"
+      },
+      {
+       "f": "I keep you breathing even when you are fast asleep. Who am I?",
+       "b": "Lungs: in the chest. The brain tells them to keep going."
+      },
+      {
+       "f": "I churn your food like hands kneading dough. Who am I?",
+       "b": "Stomach: under the ribs, on the left"
+      },
+      {
+       "f": "I have four chambers, or rooms, inside me, and blood flows through them. Who am I?",
+       "b": "Heart: in the middle of the chest"
+      },
+      {
+       "f": "Oxygen passes through my hundreds of millions of tiny air bags into your blood. Who am I?",
+       "b": "Lungs: in the chest"
+      },
+      {
+       "f": "TEAM CARD: You are running for the bus. Point to the two organs that speed up.",
+       "b": "The heart and the lungs"
+      },
+      {
+       "f": "TEAM CARD: You just ate a big lunch. Point to the organ that is stretched wide.",
+       "b": "The stomach"
+      },
+      {
+       "f": "TEAM CARD: You are doing a hard puzzle. Which organ is using a lot of energy?",
+       "b": "The brain"
+      },
+      {
+       "f": "TEAM CARD: You hold your breath. Which organ is telling you to breathe again?",
+       "b": "The brain"
+      },
+      {
+       "f": "FEEL IT: Everyone puts a hand on the middle of their chest. What can you feel?",
+       "b": "Your heartbeat, from the heart"
+      },
+      {
+       "f": "FEEL IT: Everyone breathes in deeply with hands on their ribs. What moves?",
+       "b": "Your ribs and chest move, as the lungs fill with air"
+      },
+      {
+       "f": "FEEL IT: Everyone knocks gently on their head. What is the hard part called?",
+       "b": "The skull"
+      },
+      {
+       "f": "FEEL IT: Everyone swallows a sip of water. Where does it go?",
+       "b": "Down the food pipe to the stomach"
+      }
      ]
     },
     {
@@ -631,9 +703,9 @@
    "rules": [
     "Lay the body board in the middle. Give each player a set of organ tokens.",
     "Shuffle the clue cards and put them face down.",
-    "One player reads the top card out loud.",
+    "One player reads the front of the top card out loud. The back has the answer.",
     "Everyone races to put the right token in the right place on their own board outline, or points to it on the shared board.",
-    "The first player to get both the organ and the place right wins the card.",
+    "The first player to get both the organ and the place right wins the card. Check the back.",
     "On a TEAM card, everyone answers together and each right answer wins a card. On a FEEL IT card, everyone does it together, then says what they felt.",
     "When the cards run out, the player with the most cards wins."
    ],

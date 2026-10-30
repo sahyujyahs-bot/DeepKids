@@ -29,6 +29,11 @@ const SEGS = {
     ["cal", "Calendar", "Your plan by day, week, month or year, and where you add classes, trips and to-dos."],
     ["next", "Up next", "What comes next in each subject. Drag to change the order."],
     ["finish", "To finish", "What your child started, and what is still to try."],
+    [
+      "shop",
+      "Shopping",
+      "Everything to buy or gather for the lessons ahead: tomorrow, this week, this month or this year.",
+    ],
     ["refresh", "Refresher", "Past topics your child goes back over, so they stick."],
     [
       "family",

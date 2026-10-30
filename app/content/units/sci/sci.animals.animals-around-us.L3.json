@@ -631,32 +631,104 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "24 animal calling cards",
+     "title": "24 animal calling cards (the answer is on the back)",
      "items": [
-      "Crow",
-      "Owl",
-      "Fruit bat",
-      "Palm squirrel",
-      "House gecko",
-      "Butterfly",
-      "Mosquito",
-      "Firefly",
-      "Pigeon",
-      "Cockroach",
-      "Honey bee",
-      "Jackal",
-      "Myna",
-      "Moth",
-      "Frog",
-      "Kingfisher",
-      "Tiger",
-      "Leopard",
-      "Deer",
-      "Earthworm",
-      "Rooster",
-      "Bulbul",
-      "Rat",
-      "Night heron"
+      {
+       "f": "Crow",
+       "b": "SUN: a day animal"
+      },
+      {
+       "f": "Owl",
+       "b": "MOON: a night animal"
+      },
+      {
+       "f": "Fruit bat",
+       "b": "MOON: a night animal"
+      },
+      {
+       "f": "Palm squirrel",
+       "b": "SUN: a day animal"
+      },
+      {
+       "f": "House gecko",
+       "b": "MOON: a night animal"
+      },
+      {
+       "f": "Butterfly",
+       "b": "SUN: a day animal"
+      },
+      {
+       "f": "Mosquito",
+       "b": "SUNSET LINE: a dawn and dusk animal"
+      },
+      {
+       "f": "Firefly",
+       "b": "MOON: a night animal"
+      },
+      {
+       "f": "Pigeon",
+       "b": "SUN: a day animal"
+      },
+      {
+       "f": "Cockroach",
+       "b": "MOON: a night animal"
+      },
+      {
+       "f": "Honey bee",
+       "b": "SUN: a day animal"
+      },
+      {
+       "f": "Jackal",
+       "b": "MOON: a night animal"
+      },
+      {
+       "f": "Myna",
+       "b": "SUN: a day animal"
+      },
+      {
+       "f": "Moth",
+       "b": "MOON: a night animal"
+      },
+      {
+       "f": "Frog",
+       "b": "MOON: a night animal. Most frogs call after dark."
+      },
+      {
+       "f": "Kingfisher",
+       "b": "SUN: a day animal"
+      },
+      {
+       "f": "Tiger",
+       "b": "MOON or SUNSET LINE: hunts at night and at dawn and dusk"
+      },
+      {
+       "f": "Leopard",
+       "b": "MOON or SUNSET LINE: hunts at night and at dawn and dusk"
+      },
+      {
+       "f": "Deer",
+       "b": "SUNSET LINE: a dawn and dusk animal"
+      },
+      {
+       "f": "Earthworm",
+       "b": "MOON: a night animal. Earthworms come up when the ground is cool and damp."
+      },
+      {
+       "f": "Rooster",
+       "b": "SUN: a day animal"
+      },
+      {
+       "f": "Bulbul",
+       "b": "SUN: a day animal"
+      },
+      {
+       "f": "Rat",
+       "b": "MOON: a night animal"
+      },
+      {
+       "f": "Night heron",
+       "b": "MOON: a night animal"
+      }
      ]
     },
     {
@@ -671,7 +743,7 @@
    ],
    "rules": [
     "Put the SUN sign at one end of the room and the MOON sign at the other end. Put the SUNSET LINE in the middle, on a strip of tape or an old sari.",
-    "The caller reads one animal card aloud.",
+    "The caller reads the animal on the front of one card aloud.",
     "Everyone runs to the sign for when that animal is busiest: SUN, MOON or the SUNSET LINE.",
     "The caller reads the answer on the back. Everyone who was right scores a point.",
     "Anyone who can say why that animal is busy at that time scores a bonus point.",

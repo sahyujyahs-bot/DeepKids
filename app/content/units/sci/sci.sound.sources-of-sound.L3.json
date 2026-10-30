@@ -550,32 +550,104 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "24 sound cards to cut out (answer on the back)",
+     "title": "24 sound cards to cut out (the answer is on the back)",
      "items": [
-      "A veena being played (back: STRING)",
-      "A tabla (back: SKIN)",
-      "A bansuri flute (back: AIR)",
-      "A temple bell (back: SOLID)",
-      "You singing (back: BODY, your vocal folds)",
-      "A dhol at a wedding (back: SKIN)",
-      "A pressure cooker whistle (back: AIR)",
-      "A conch shell being blown (back: AIR)",
-      "A cricket chirping at night (back: BODY, their wings rubbing)",
-      "A frog calling in the rain (back: BODY, vocal folds and throat pouch)",
-      "A steel tumbler tapped with a spoon (back: SOLID)",
-      "A sitar (back: STRING)",
-      "A ghatam clay pot drum (back: SOLID, and the air inside)",
-      "A mosquito whining (back: BODY, their wings)",
-      "A shehnai (back: AIR, made to vibrate by a reed)",
-      "A guitar (back: STRING)",
-      "A damru (back: SKIN)",
-      "A dog barking (back: BODY, vocal folds)",
-      "Manjira cymbals (back: SOLID)",
-      "An elephant rumbling (back: BODY, vocal folds)",
-      "TEST IT: hum with your fingers on your throat, then whisper. When do you feel a buzz?",
-      "TEST IT: tap a steel plate with a spoon, then hold the plate. What happens to the sound?",
-      "TEST IT: stretch a rubber band and pluck it. Look closely. What do you see?",
-      "TEST IT: blow across the top of an empty bottle. What is vibrating?"
+      {
+       "f": "A veena being played",
+       "b": "STRING"
+      },
+      {
+       "f": "A tabla",
+       "b": "SKIN"
+      },
+      {
+       "f": "A bansuri flute",
+       "b": "AIR"
+      },
+      {
+       "f": "A temple bell",
+       "b": "SOLID"
+      },
+      {
+       "f": "You singing",
+       "b": "BODY, your vocal folds"
+      },
+      {
+       "f": "A dhol at a wedding",
+       "b": "SKIN"
+      },
+      {
+       "f": "A pressure cooker whistle",
+       "b": "AIR"
+      },
+      {
+       "f": "A conch shell being blown",
+       "b": "AIR"
+      },
+      {
+       "f": "A cricket chirping at night",
+       "b": "BODY, their wings rubbing"
+      },
+      {
+       "f": "A frog calling in the rain",
+       "b": "BODY, vocal folds and throat pouch"
+      },
+      {
+       "f": "A steel tumbler tapped with a spoon",
+       "b": "SOLID"
+      },
+      {
+       "f": "A sitar",
+       "b": "STRING"
+      },
+      {
+       "f": "A ghatam clay pot drum",
+       "b": "SOLID, and the air inside"
+      },
+      {
+       "f": "A mosquito whining",
+       "b": "BODY, their wings"
+      },
+      {
+       "f": "A shehnai",
+       "b": "AIR, made to vibrate by a reed"
+      },
+      {
+       "f": "A guitar",
+       "b": "STRING"
+      },
+      {
+       "f": "A damru",
+       "b": "SKIN"
+      },
+      {
+       "f": "A dog barking",
+       "b": "BODY, vocal folds"
+      },
+      {
+       "f": "Manjira cymbals",
+       "b": "SOLID"
+      },
+      {
+       "f": "An elephant rumbling",
+       "b": "BODY, vocal folds"
+      },
+      {
+       "f": "TEST IT: hum with your fingers on your throat, then whisper. When do you feel a buzz?",
+       "b": "When you hum, you feel a buzz. When you whisper, you hardly do. The buzz is your vocal folds vibrating."
+      },
+      {
+       "f": "TEST IT: tap a steel plate with a spoon, then hold the plate. What happens to the sound?",
+       "b": "The sound stops when you hold the plate. You stopped the plate vibrating."
+      },
+      {
+       "f": "TEST IT: stretch a rubber band and pluck it. Look closely. What do you see?",
+       "b": "The rubber band blurs. It is vibrating."
+      },
+      {
+       "f": "TEST IT: blow across the top of an empty bottle. What is vibrating?",
+       "b": "The air inside the bottle is vibrating."
+      }
      ]
     },
     {

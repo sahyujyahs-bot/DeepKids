@@ -649,32 +649,104 @@
    "printables": [
     {
      "kind": "cards",
-     "title": "24 disguise cards to cut out",
+     "title": "24 disguise cards to cut out (the answer is on the back)",
      "items": [
-      "Carrot: fat and orange, under the ground",
-      "Potato: has eyes that sprout in a dark basket",
-      "Ginger: knobbly, with rings, grows sideways underground",
-      "Onion: made of juicy layers on a flat bottom",
-      "Sugarcane: tall and sweet, with rings",
-      "Radish (mullangi): long, white, under the ground, with no eyes",
-      "Pea tendril: curly thread at the end of a leaf",
-      "Cactus spine: sharp point on a desert plant",
-      "Cactus pad: fat, green and juicy, with spines",
-      "Banyan pillar: hangs down from a branch, then grows thick",
-      "Mangrove pencil: pokes up out of salty mud",
-      "Money plant grip: little brown fingers clinging to a wall",
-      "Bean spiral: winds round and round a stick",
-      "Bougainvillea hook: sharp and woody, near a bud",
-      "Lotus plate: round, flat and floating",
-      "Pitcher jug: a trap full of water that catches insects",
-      "Aloe: thick, juicy and full of water",
-      "Turmeric: orange inside, with rings, underground",
-      "Sweet potato: fat and sweet, underground",
-      "Chembu: round, hairy, underground, with a bud on top",
-      "TEST IT: find a potato in the kitchen. Count its eyes.",
-      "TEST IT: peel one layer of an onion. Is it like a leaf?",
-      "TEST IT: look down on a pot plant from above. Do the leaves overlap much?",
-      "TEST IT: hold a leaf up to the window. Find its veins."
+      {
+       "f": "Carrot: fat and orange, under the ground",
+       "b": "ROOT"
+      },
+      {
+       "f": "Potato: has eyes that sprout in a dark basket",
+       "b": "STEM"
+      },
+      {
+       "f": "Ginger: knobbly, with rings, grows sideways underground",
+       "b": "STEM"
+      },
+      {
+       "f": "Onion: made of juicy layers on a flat bottom",
+       "b": "LEAF"
+      },
+      {
+       "f": "Sugarcane: tall and sweet, with rings",
+       "b": "STEM"
+      },
+      {
+       "f": "Radish (mullangi): long, white, under the ground, with no eyes",
+       "b": "ROOT"
+      },
+      {
+       "f": "Pea tendril: curly thread at the end of a leaf",
+       "b": "LEAF"
+      },
+      {
+       "f": "Cactus spine: sharp point on a desert plant",
+       "b": "LEAF"
+      },
+      {
+       "f": "Cactus pad: fat, green and juicy, with spines",
+       "b": "STEM"
+      },
+      {
+       "f": "Banyan pillar: hangs down from a branch, then grows thick",
+       "b": "ROOT"
+      },
+      {
+       "f": "Mangrove pencil: pokes up out of salty mud",
+       "b": "ROOT"
+      },
+      {
+       "f": "Money plant grip: little brown fingers clinging to a wall",
+       "b": "ROOT"
+      },
+      {
+       "f": "Bean spiral: winds round and round a stick",
+       "b": "STEM"
+      },
+      {
+       "f": "Bougainvillea hook: sharp and woody, near a bud",
+       "b": "STEM"
+      },
+      {
+       "f": "Lotus plate: round, flat and floating",
+       "b": "LEAF"
+      },
+      {
+       "f": "Pitcher jug: a trap full of water that catches insects",
+       "b": "LEAF"
+      },
+      {
+       "f": "Aloe: thick, juicy and full of water",
+       "b": "LEAF"
+      },
+      {
+       "f": "Turmeric: orange inside, with rings, underground",
+       "b": "STEM"
+      },
+      {
+       "f": "Sweet potato: fat and sweet, underground",
+       "b": "ROOT"
+      },
+      {
+       "f": "Chembu: round, hairy, underground, with a bud on top",
+       "b": "STEM"
+      },
+      {
+       "f": "TEST IT: find a potato in the kitchen. Count its eyes.",
+       "b": "A potato is a STEM. The eyes of a potato are buds."
+      },
+      {
+       "f": "TEST IT: peel one layer of an onion. Is it like a leaf?",
+       "b": "Yes. The layers of an onion are leaves."
+      },
+      {
+       "f": "TEST IT: look down on a pot plant from above. Do the leaves overlap much?",
+       "b": "Look and see. Leaves grow in different places so each one can catch light."
+      },
+      {
+       "f": "TEST IT: hold a leaf up to the window. Find its veins.",
+       "b": "Veins are the thin lines that carry water and food."
+      }
      ]
     },
     {
@@ -703,7 +775,7 @@
    "rules": [
     "Cut out the 24 cards. Shuffle them and put them face down in a pile.",
     "On your turn, take the top card and read it out loud.",
-    "Decide what the part really is: a root, a stem or a leaf in disguise. Put it in that column on the mat.",
+    "Decide what the part really is: a root, a stem or a leaf in disguise. Put it in that column on the mat. Then turn the card over to check.",
     "Then pick the job token that fits: stores food, climbs, catches light, holds on, protects, stores water or breathes. Say how the shape helps with that job. A good reason wins the card.",
     "If you draw a TEST IT card, everyone does the test. The first person to explain the result wins two cards.",
     "When the pile runs out, the player with the most cards wins."
