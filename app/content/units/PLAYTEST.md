@@ -66,5 +66,9 @@ mistake the founder or a reviewer found in a live unit.
 32. **Lead times are in the plan.** A plant that must grow for two weeks first appears in the schedule two weeks before.
 33. **Story evidence isn't reused as fact** when the story itself says it's made up or unlikely.
 
+35. **Every "read" points to something that exists.** "Read the story", "read the book", "read the chapter" names exactly what:
+    this unit's own story, a named book with the page or chapter, the textbook chapter and page (board track), or a working
+    link. Never "read a story about…" with nothing to read.
+
 ## H. Proofread
 34. Grammar and agreement ("they take in… and give out"), and every sentence says what it means.
