@@ -425,7 +425,7 @@
      "title": "16 problem cards to cut out (the answer is on the back)",
      "items": [
       {
-       "f": "Meena, aged 6, wants to join Class 1. The school says she must pass a test first.",
+       "f": "Revathi, aged 6, wants to join Class 1. The school says she must pass a test first.",
        "b": "Right to Education. A school may not test a small child before giving a seat."
       },
       {
@@ -437,7 +437,7 @@
        "b": "Right to Education. No child may be turned away for having no birth certificate."
       },
       {
-       "f": "Lakshmi, aged 9, is kept at home to look after her baby brother.",
+       "f": "Nandini, aged 9, is kept at home to look after her baby brother.",
        "b": "Right to Education. Every child aged 6 to 14 has a right to go to school."
       },
       {
@@ -457,7 +457,7 @@
        "b": "Right to Information. Nobody has to give a reason for asking."
       },
       {
-       "f": "Ratnamma, in a village, has had no work since the harvest ended.",
+       "f": "Kamakshi, in a village, has had no work since the harvest ended.",
        "b": "Rural job guarantee. Ask the Gram Panchayat for work, in writing, and keep the receipt."
       },
       {
@@ -653,10 +653,10 @@
     },
     {
      "kind": "tokens",
-     "title": "20 coins or buttons for each player, and one steel bowl as the shared pot",
+     "title": "Coins and the shared pot",
      "items": [
-      "🪙",
-      "🥣"
+      "🪙 20 coins or buttons for each player",
+      "🥣 one steel bowl, the shared pot"
      ]
     }
    ],
@@ -741,7 +741,6 @@
      "qty": 1
     }
    ],
-   "safety": "Bills are safe to handle. Many shop bills are printed on paper with a chemical coating, so wash hands afterwards. Cover any card numbers or phone numbers printed on the bills.",
    "schedule": [
     {
      "day": 1,
@@ -1145,7 +1144,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety concerns.",
    "schedule": [
     {
      "day": 1,
@@ -1226,7 +1224,6 @@
      "qty": 1
     }
    ],
-   "safety": "No safety concerns.",
    "schedule": [
     {
      "day": 1,
@@ -1239,7 +1236,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Copy this muster roll onto paper. Pond work, 5 days, Monday to Friday. Selvi: 5 days. Ratnamma: 3 days. Kamala: 5 days. Ravi: 5 days. Parvathi: 4 days. Muthu: 5 days. 2. Hand it to your child and ask if anything looks wrong.",
+     "do": "1. Copy this muster roll onto paper. Pond work, 5 days, Monday to Friday. Pushpa: 5 days. Gowri: 3 days. Kamala: 5 days. Suresh: 5 days. Saroja: 4 days. Muthu: 5 days. 2. Hand it to your child and ask if anything looks wrong.",
      "say": "This is the attendance register from a pond-digging site. Read it. Does anything look wrong to you?",
      "kid": "Read the register. Five days of pond digging. Does anything look wrong?",
      "parent": "On its own, the register looks fine. Every number is between 0 and 5. That is the point: a record can look perfect and still be false.",
@@ -1248,10 +1245,10 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Now give the job cards. Selvi: 5 days. Ratnamma: 5 days. Kamala: 5 days. Parvathi: 4 days. Muthu: 5 days. There is no job card for Ravi. 2. Give the villagers' notes: 'Kamala was at her sister's wedding on Thursday and Friday.' 'Nobody in the village knows a worker called Ravi.'",
+     "do": "1. Now give the job cards. Pushpa: 5 days. Gowri: 5 days. Kamala: 5 days. Saroja: 4 days. Muthu: 5 days. There is no job card for Suresh. 2. Give the villagers' two notes. Note 1 says Kamala was at her sister's wedding on Thursday and Friday. Note 2 says nobody in the village knows a worker called Suresh.",
      "say": "Now you have more evidence: the job cards, and what the villagers say. Compare them with the register, name by name.",
      "kid": "Now check each name. Compare the register, the job cards and the villagers' notes.",
-     "parent": "Your child should find three problems. Ratnamma worked 5 days but the register shows 3, so she is owed 2 days. Kamala is marked for 5 days but was away for 2. Ravi has no job card and nobody knows him, so he may be a fake worker."
+     "parent": "Your child should find three problems. Gowri worked 5 days but the register shows 3, so she is owed 2 days. Kamala is marked for 5 days but was away for 2. Suresh has no job card and nobody knows him, so he may be a fake worker."
     },
     {
      "id": "s3",
@@ -1261,7 +1258,7 @@
      "kid": "Mark each mistake in red. Write what is wrong. Write what should happen.",
      "check": {
       "t": "mcq",
-      "q": "How did you find that Ravi might be a fake worker?",
+      "q": "How did you find that Suresh might be a fake worker?",
       "options": [
        "The register said so",
        "He had no job card, and nobody in the village knew him",
@@ -1389,7 +1386,6 @@
      "qty": 1
     }
    ],
-   "safety": "Talk to someone the family knows, with a parent present or on the family phone.",
    "schedule": [
     {
      "day": 1,
@@ -1403,7 +1399,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Write five questions together. 1. How far was your school? 2. Did you pay fees? 3. Was there lunch at school? 4. Did all the children you knew go to school? 5. Did girls and boys go the same number of years?",
-     "say": "Let's ask Ammamma, or another elder, what school was like when they were your age. Let's write the questions first.",
+     "say": "Let's ask a grandparent, an older relative or a neighbour what school was like when they were your age. Let's write the questions first.",
      "kid": "Write five questions for an elder. How far was school? Did you pay? Was there lunch?",
      "context": "This is the first step of an interview. You ask a grandparent or older neighbour about going to school when they were small."
     },
@@ -1440,7 +1436,7 @@
      "caption": "1. Call or visit an elder with your questions."
     },
     {
-     "art": "A notebook page with two columns: 'Ammamma at 8' and 'Me at 8'.",
+     "art": "A notebook page with two columns: 'An elder at 8' and 'Me at 8'.",
      "caption": "2. Write their answers, and compare them with your school today."
     }
    ],
@@ -1468,7 +1464,6 @@
      "qty": 1
     }
    ],
-   "safety": "Cover any card numbers on the bills before your child handles them.",
    "schedule": [
     {
      "day": 1,
@@ -1582,7 +1577,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Read the problem together, and ask what a person who cannot read needs.",
-     "say": "Imagine Ammamma, who cannot read, walks past the pond. How could a board tell her what is going on?",
+     "say": "Imagine a grandmother in the village who cannot read walks past the pond. How could a board tell her what is going on?",
      "kid": "Imagine someone who can't read. How could a board tell them about the pond?",
      "context": "This is the first step of a design challenge. You make a notice board about public work that everyone can understand."
     },
@@ -1651,8 +1646,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Remind your child how the cheating worked in the Muster Roll Check.",
-     "say": "Remember the pretend register with a worker called Ravi, whom nobody knew? How did the cheat get in?",
-     "kid": "Remember the fake worker Ravi? How did the cheat get into the register?",
+     "say": "Remember the pretend register with a worker called Suresh, whom nobody knew? How did the cheat get in?",
+     "kid": "Remember the fake worker Suresh? How did the cheat get into the register?",
      "context": "This is the first step of a design challenge. You invent a work register that is hard to fake."
     },
     {
@@ -1765,7 +1760,7 @@
   },
   {
    "t": "mcq",
-   "p": "Meena is 6 and wants to join Class 1. A school says she must pass a test first. Is that allowed?",
+   "p": "Revathi is 6 and wants to join Class 1. A school says she must pass a test first. Is that allowed?",
    "a": 1,
    "why": "No. The Right to Education Act bans tests for small children before admission.",
    "opts": [
@@ -1890,7 +1885,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Meena, a girl in Class 3 in Coimbatore, sees 'GST' on her family's supermarket bill. What is GST?",
+     "p": "Jaya, a girl in Class 3 in Coimbatore, sees 'GST' on her family's supermarket bill. What is GST?",
      "a": 1,
      "why": "GST is the Goods and Services Tax, added to the price of most things we buy. The shop passes it on to the government. A strong answer knows it is tax, not a shop charge or a discount.",
      "opts": [
@@ -1902,7 +1897,7 @@
     },
     {
      "t": "truefalse",
-     "p": "Arjun says, 'Only rich people pay tax.' Is Arjun right?",
+     "p": "Arjun, a boy in Class 3 in Vijayawada, says, 'Only rich people pay tax.' Is Arjun right?",
      "a": false,
      "why": "False. GST is in the price of most things anyone buys, so a family buying soap and oil pays tax too. Rich people also pay income tax, but almost everyone pays GST."
     },
@@ -1986,7 +1981,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi, aged 9, is kept at home to look after her baby brother instead of going to school. Which law says she has a right to go?",
+     "p": "Nandini, aged 9, is kept at home to look after her baby brother instead of going to school. Which law says she has a right to go?",
      "a": 0,
      "why": "The Right to Education Act gives every child aged 6 to 14 the right to free school. The other laws are about information and work.",
      "opts": [
@@ -2117,7 +2112,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Farhan's new phone box says 'Assembled in India'. What does that tell him?",
+     "p": "Imran, a boy in Class 4 in Kochi, reads 'Assembled in India' on his family's new phone box. What does that tell him?",
      "a": 2,
      "why": "Assembled means put together. The parts may have been made in other countries, then joined in a factory in India.",
      "opts": [
@@ -2273,7 +2268,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw Ratnamma's job card. Show that she worked 15 days in April, and the wages she was paid.",
+     "p": "In the story The Name on the List, Ratnamma is a grandmother who digs a farm pond. Draw her job card. Show that she worked 15 days in April, and the wages she was paid.",
      "a": "A drawing of a small booklet with her name, a table of dates or days, and a wage column.",
      "why": "A job card is the worker's own record. A strong drawing shows the days worked, so it can be compared with the register.",
      "how": "a3"
@@ -2364,7 +2359,7 @@
     },
     {
      "t": "mcq",
-     "p": "Parvathi was paid for 12 days but worked 15. Which record would help her most at the social audit?",
+     "p": "Parvathi, a woman who works on a village pond, was paid for 12 days but worked 15. Which record would help her most at the social audit?",
      "a": 1,
      "why": "Her own job card shows the days she really worked. Comparing it with the register shows the mistake.",
      "opts": [
@@ -2403,7 +2398,7 @@
     },
     {
      "t": "write",
-     "p": "Find the mistake in Arjun's thinking: 'The government pays for the road with its own money, not ours.'",
+     "p": "Arjun, the boy in Class 3 from Vijayawada, says something else. Find the mistake in his thinking: 'The government pays for the road with its own money, not ours.'",
      "a": "A strong answer: the government's money comes mostly from tax that people pay, so the road was paid for with our money.",
      "why": "The government holds public money for everyone. It does not make its own money from nothing.",
      "lines": 3
@@ -2471,9 +2466,9 @@
     },
     {
      "t": "mcq",
-     "p": "Selvi asks the Gram Panchayat for work and gets a dated receipt. Why does the receipt matter?",
+     "p": "Muniyamma, a woman in a village in Tamil Nadu, asks the Gram Panchayat for work and gets a dated receipt. Why does the receipt matter?",
      "a": 0,
-     "why": "If no work comes within 15 days, the receipt proves when she asked, so she can claim the allowance.",
+     "why": "If no work comes within 15 days, the receipt proves when she asked, so Muniyamma can claim the allowance.",
      "opts": [
       "It proves when she asked, so she can claim the allowance if no work comes",
       "It is her wage",
@@ -2596,7 +2591,7 @@
   "Where do you think this was made? Let's check the label.",
   "Who paid for the lunch you ate at school?",
   "If you could ask the city office one question, what would it be?",
-  "What did school cost when Ammamma was your age?",
+  "What did school cost when your grandparents or an older neighbour were your age?",
   "Is anything you use every day made in another country?",
   "Why do you think it helps to read records aloud?",
   "What is the difference between a right and a gift?",
@@ -2606,10 +2601,6 @@
   {
    "j": "Why did the bill go to school?",
    "a": "To learn its tax tables."
-  },
-  {
-   "j": "What did the street light say to the road?",
-   "a": "We were both paid for by everyone, so let's both stay working."
   },
   {
    "j": "Why was the RTI letter so calm?",
@@ -2640,20 +2631,12 @@
    "a": "It always told where it came from."
   },
   {
-   "j": "What kind of tree does a social auditor sit under?",
-   "a": "A checking tree. Well, usually a neem tree."
-  },
-  {
    "j": "Why did the coin feel important?",
    "a": "It was going to help pay for a school."
   },
   {
    "j": "What did the pond say after the audit?",
    "a": "Now everything is clear as water."
-  },
-  {
-   "j": "Why did the calculator love GST?",
-   "a": "There was always something to add."
   },
   {
    "j": "What did the textbook say when someone called it free?",

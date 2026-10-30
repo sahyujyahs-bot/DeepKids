@@ -91,7 +91,7 @@
   },
   {
    "term": "Blowhole",
-   "meaning": "The nostril on top of the head of a dolphin or a whale. The animal breathes air through it when they come up to the surface.",
+   "meaning": "The nostril on top of the head of a dolphin or a whale. When they come up to the surface, they breathe air in and out through this nostril.",
    "example": "The Ganges river dolphin comes up to breathe through their blowhole every minute or two.",
    "art": "A Ganges river dolphin breaking the brown river surface, a small puff of spray rising from their blowhole."
   },
@@ -197,7 +197,7 @@
    "concept": "How gills work",
    "status": "defined",
    "definition": "Gills take oxygen out of water. A fish gulps water in through their mouth. The water flows over the gills and out under the gill covers.",
-   "description": "Water holds far less oxygen than air, about thirty times less in the same space. So a fish must be very good at catching it. Their gills are rows of thin red threads, each covered in even thinner folds. Blood flows through them the opposite way to the water. Because of this, the blood keeps meeting water that has more oxygen than it has. So a fish can take most of the oxygen out of the water that passes over it. Out of water, the soft gill threads stick together, like a wet paintbrush pulled out of a jar. Then there is too little surface, and the fish cannot breathe. That is why most fish die in air, even though air has more oxygen than water.",
+   "description": "Water holds far less oxygen than air, about thirty times less in the same space. So a fish must be very good at catching oxygen. Their gills are rows of thin red threads, each covered in even thinner folds. Blood flows through them the opposite way to the water. Because of this, the blood keeps meeting water that has more oxygen than it has. So a fish can take most of the oxygen out of the water that passes over it. Out of water, the soft gill threads stick together, like a wet paintbrush pulled out of a jar. Then there is too little surface, and the fish cannot breathe. That is why most fish die in air, even though air has more oxygen than water.",
    "examples": [
     "Rohu, catla and goldfish breathe with gills.",
     "Tadpoles breathe with gills. Most grow lungs when they become frogs.",
@@ -267,7 +267,7 @@
    "concept": "Ways animals get their food",
    "status": "defined",
    "definition": "Animals get food in many different ways. Some graze, some hunt, some wait, some sieve, some build traps and some clean up the dead.",
-   "description": "A cow grazes. She walks slowly and eats grass for hours. A cheetah hunts. They chase their prey at great speed. A crocodile waits. They lie still in the river until an animal comes close. A flamingo filters. They sieve tiny shrimps and algae out of lake water. A spider builds a trap. Their sticky web catches flying insects. A vulture scavenges. They eat animals that have already died, and so cleans up the land. Each way of eating goes with a body that fits it. A cow has flat teeth for grinding. A cheetah has long legs and a flexible back for running fast. A flamingo has a beak that works like a sieve.",
+   "description": "A cow grazes. She walks slowly and eats grass for hours. A cheetah hunts. They chase their prey at great speed. A crocodile waits. They lie still in the river until an animal comes close. A flamingo filters. They sieve tiny shrimps and algae out of lake water. A spider builds a trap. Their sticky web catches flying insects. A vulture scavenges. They eat animals that have already died, and so they clean up the land. Each way of eating goes with a body that fits it. A cow has flat teeth for grinding. A cheetah has long legs and a flexible back for running fast. A flamingo has a beak that works like a sieve.",
    "examples": [
     "A sunbird sips nectar from flowers with their long, thin, curved beak.",
     "A whale shark, the biggest fish, filters tiny food out of seawater.",
@@ -444,7 +444,7 @@
    "hint": "Think of all the senses other animals have that we do not."
   },
   {
-   "q": "Part of the lunch you ate today will leave in your breath as carbon dioxide. A plant may then take it in. Is that leaf then partly made from your lunch?",
+   "q": "Part of the lunch you ate today will leave in your breath as carbon dioxide. A plant may then take in that gas. Is that leaf then partly made from your lunch?",
    "kind": "big",
    "hint": "Plants build their leaves from carbon dioxide, water and light. Where does the carbon dioxide come from?"
   },
@@ -504,7 +504,7 @@
    "'They breathe the air,' Selvi said in Tamil, slowly, so he would understand. 'Not only water. Keep them damp, and they live. Paati finds them in the dry tank every day.'",
    "He listened for a long time. Then he looked up at the top of the palm, where the kite had gone. Selvi pointed at the sky, flapped her arms like a kite, opened her fingers and let an invisible fish drop. He watched her. She could not tell if he believed her.",
    "He kept the fish alive in the pot for six days. Every evening Selvi came to sprinkle them, and every evening they gulped their little gulps of air. He drew them many times. He wrote pages and pages. Then the rains came properly, and the tank began to fill, and Selvi carried the pot down the stone steps and tipped the fish into the brown water.",
-   "They sank. Then they rose. At the surface, they took one more bubble of air, and was gone.",
+   "They sank. Then they rose. At the surface, they took one more bubble of air, and were gone.",
    "Years later, Selvi heard that the leaf man had sent his writing across the sea, to scientists in London. Later still, a scientist in France gave the fish the name Anabas, which means the one that climbs. Nobody wrote down a girl, a pot of wet mud, or a kite.",
    "Selvi did not mind very much. On summer evenings, she still went down the steps of the dry tank with a digging stick, and knelt, and tapped, and listened for the click."
   ],
@@ -527,7 +527,7 @@
    "id": "g1",
    "title": "Lungs, Gills or Skin?",
    "mins": 20,
-   "players": "2 to 5 players, or one child playing against the app",
+   "players": "2 to 5 players",
    "printables": [
     {
      "kind": "cards",
@@ -578,8 +578,8 @@
        "b": "GILLS and SKIN"
       },
       {
-       "f": "Climbing perch",
-       "b": "GILLS and a labyrinth organ that takes oxygen from air"
+       "f": "Mosquito",
+       "b": "AIR PIPES"
       },
       {
        "f": "Elephant",
@@ -681,20 +681,39 @@
     },
     {
      "kind": "tokens",
-     "title": "20 breath tokens (small paper circles)",
+     "title": "20 breath tokens (small paper circles to cut out)",
      "items": [
+      "🫧",
+      "🫧",
+      "🫧",
+      "🫧",
+      "🫧",
+      "🫧",
+      "🫧",
+      "🫧",
+      "🫧",
+      "🫧",
+      "🫧",
+      "🫧",
+      "🫧",
+      "🫧",
+      "🫧",
+      "🫧",
+      "🫧",
+      "🫧",
+      "🫧",
       "🫧"
      ]
     }
    ],
    "rules": [
-    "Cut out the animal cards and the bonus cards. Shuffle the animal cards and put them face down.",
+    "Cut out the 24 animal cards, the 8 bonus cards and the 20 breath tokens. Shuffle the animal cards and put them face down. Put the bonus cards in a second face-down pile.",
     "Lay the four breathing mats in a row: LUNGS, GILLS, SKIN and AIR PIPES.",
-    "On your turn, take the top card and read the animal's name on the front.",
-    "Put it on the mat that shows how they breathe, and say one reason. Some animals use two ways. Then put the card between two mats.",
-    "A right mat with a good reason wins one breath token. If someone thinks it is wrong, turn the card over to check.",
-    "After every fifth card, turn over a bonus card and read the front. The first player to act out how that animal finds food wins two tokens. Check the back.",
-    "When the cards run out, the player with the most tokens wins."
+    "On your turn, take the top animal card and read the animal's name on the front. Do not look at the back.",
+    "Put the card on the mat that shows how the animal breathes, and say one reason. If you think the animal uses two ways, put the card between the two mats.",
+    "Another player turns the card over and checks the back. A right mat with a good reason wins one breath token. A wrong mat wins nothing, and the card is moved to the right mat.",
+    "After every third animal card, turn over a bonus card. Read the front aloud and give your answer. Check the back. A right answer wins two tokens. If you are wrong, the next player may answer for the two tokens. Then everyone acts out how that animal finds food.",
+    "If the tokens run out, keep score with tally marks on paper. When the animal cards run out, the player with the most tokens wins. If two players have the same, they both win."
    ],
    "context": "Lungs, Gills or Skin? is a card game. You sort animals by how they breathe, and act out how some of them find food.",
    "setup": [
@@ -715,7 +734,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay out the four mats. 2. Shuffle the animal cards. 3. Put the tokens in a bowl.",
+     "do": "1. Cut out the cards and tokens. 2. Lay out the four mats. 3. Shuffle the animal cards. 4. Put the tokens in a bowl.",
      "say": "Almost every animal needs oxygen. But they get it in different ways: lungs, gills, damp skin, or tiny air pipes. Let's sort animals by how they breathe.",
      "kid": "Lay out the four mats. Mix up the animal cards. Animals need oxygen. How does each one get it?",
      "context": "This is the first step of Lungs, Gills or Skin? Here you set up the game."
@@ -723,7 +742,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play the card 'Frog' together as a practice round.",
+     "do": "Take out the frog card and play that card together as a practice round. Then shuffle it back into the pile.",
      "say": "Practice card: frog. Where does it go? Careful, this one is tricky.",
      "kid": "Practice card: frog. Which mat? It might be two!",
      "check": {
@@ -742,10 +761,10 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "Take turns until all cards are played. After every fifth card, turn over a bonus card. Use the answer list in the parent note when anyone disagrees.",
-     "say": "Your turn. Read the animal, put it on a mat, and give one reason. Every fifth card, we act out how an animal finds food.",
-     "kid": "Take a card. Put it on a mat. Say why. Every fifth card, act out a bonus card!",
-     "parent": "Answers. Lungs: cow, Ganges river dolphin, crow, python, elephant, sea turtle, bar-headed goose, bat, human baby, whale. Gills: rohu fish, tadpole, crab, prawn, shark, goldfish. Skin: earthworm, lungless salamander. Two ways: frog (lungs and skin), mudskipper (gills and skin), climbing perch (gills and a labyrinth organ that takes oxygen from air). Air pipes: grasshopper, butterfly, ant.",
+     "do": "Take turns until all the animal cards are played. After every third animal card, turn over a bonus card. The back of each card shows the answer.",
+     "say": "Your turn. Read the animal's name, put the card on a mat, and give one reason. After every third card, we answer a bonus card and act out how that animal finds food.",
+     "kid": "Take a card. Put it on a mat. Say why. After every third card, answer a bonus card and act it out!",
+     "parent": "Answers. Lungs: cow, Ganges river dolphin, crow, python, elephant, sea turtle, bar-headed goose, bat, human baby, whale. Gills: rohu fish, tadpole, crab, prawn, shark, goldfish. Skin: earthworm, lungless salamander. Two ways: frog (lungs and skin), mudskipper (gills and skin). Air pipes: grasshopper, butterfly, ant, mosquito.",
      "check": {
       "t": "mcq",
       "q": "Card: Ganges river dolphin. They live in water all their life. Where does the card go?",
@@ -774,7 +793,7 @@
    "id": "g2",
    "title": "Bat and Moth",
    "mins": 15,
-   "players": "3 or more players, in a cleared room",
+   "players": "2 or more players, in a cleared room",
    "printables": [
     {
      "kind": "cards",
@@ -782,25 +801,27 @@
      "items": [
       "BAT (wears the blindfold, calls 'Bat!')",
       "MOTH (answers 'Moth!' every time)",
-      "TREE (stands still, says 'Tree!' if the bat comes close)"
+      "TREE (only with 3 or more players: stands still, says 'Tree!' if the bat comes within two steps)"
      ]
     },
     {
      "kind": "score sheet",
-     "title": "Catch timer sheet",
+     "title": "Catch timer sheet: one line for each round",
      "items": [
-      "Round",
-      "Bat",
-      "Seconds to catch the moth"
+      "Round 1: bat ______  seconds to catch the moth ______",
+      "Round 2: bat ______  seconds to catch the moth ______",
+      "Round 3: bat ______  seconds to catch the moth ______",
+      "Round 4: bat ______  seconds to catch the moth ______"
      ]
     }
    ],
    "rules": [
     "Clear a space in a room. Its walls, or a ring of chairs and cushions, are the cave wall.",
-    "One player is the bat and wears a blindfold. One is the moth. Any other players are trees, who stand still inside the space.",
-    "The bat calls 'Bat!'. The moth must answer 'Moth!' straight away. Trees answer 'Tree!' if the bat is within two steps of them.",
-    "The moth's answer stands for the echo a real bat hears. The bat follows the answers to find and tag the moth, without touching a tree.",
-    "Time each round. Swap roles. The fastest bat wins."
+    "One player is the bat and wears a blindfold. One is the moth. Any other players are trees, who stand still inside the space. With two players there are no trees.",
+    "The bat calls 'Bat!'. The moth must answer 'Moth!' straight away, then may take one slow step. Trees answer 'Tree!' if the bat is within two steps of them.",
+    "The moth's answer stands for the echo a real bat hears. The bat follows the answers to find and tag the moth. Each time the bat touches a tree, add 10 seconds.",
+    "A round ends when the bat tags the moth, or after one minute. If the moth is not caught, the round counts as 60 seconds. Write the seconds on the sheet.",
+    "Swap roles until everyone has been the bat once. The bat with the fewest seconds wins."
    ],
    "context": "Bat and Moth is a blindfold game. It shows how bats find insects in the dark by echolocation.",
    "setup": [
@@ -821,7 +842,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Clear a space and ring it with chairs or cushions. 2. Hand out the role cards. 3. Tie the blindfold on the bat.",
+     "do": "1. Clear a space and ring it with chairs or cushions. 2. Hand out the role cards (with two players, only bat and moth). 3. Tie the blindfold on the bat.",
      "say": "Bats hunt moths at night. Many bats can see, but in the dark they mostly listen. They make very high sounds and listen for the echo. Our bat will shout 'Bat!' and listen for 'Moth!'.",
      "kid": "Clear a space. The bat wears a blindfold. The bat calls 'Bat!'. The moth must answer 'Moth!'.",
      "adult": true,
@@ -831,7 +852,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Play rounds of about a minute each. Time each round. Swap roles so everyone is the bat once.",
+     "do": "Play rounds of about a minute each. Write the seconds on the sheet. Swap roles so everyone is the bat once.",
      "say": "Bat, call as often as you like. Moth, you must answer every time. Trees, warn the bat if they come close.",
      "kid": "Bat: call and listen. Moth: always answer. Trees: say 'Tree!' if the bat comes near.",
      "check": {
@@ -875,7 +896,7 @@
       "Only when they jump out of the water"
      ],
      "a": 0,
-     "why": "Many people think fish do not breathe. But water has oxygen dissolved in it, and a fish's gills take it out. A rohu's cells use that oxygen to get energy from food, just as yours do."
+     "why": "Many people think fish do not breathe. But water has oxygen dissolved in it, and a fish's gills take the oxygen out. A rohu's cells use that oxygen to get energy from food, just as yours do."
     },
     {
      "t": "fill",
@@ -1052,25 +1073,25 @@
     },
     {
      "t": "perspective",
-     "p": "Three friends argue about which way of breathing is best.",
+     "p": "Three girls argue about which way of breathing is best.",
      "views": [
       {
        "who": "Meenakshi, in Class 3",
        "says": "Lungs are best. Air has about 30 times more oxygen than water."
       },
       {
-       "who": "Farida, her friend",
+       "who": "Farida, Meenakshi's friend",
        "says": "Gills are best for a fish. Lungs would fill with water and be useless in a river."
       },
       {
-       "who": "Lakshmi, her cousin",
+       "who": "Lakshmi, Meenakshi's cousin",
        "says": "Having two ways is best, like a frog. Lungs work on land, and damp skin works in the pond."
       }
      ],
      "ask": "Which way do you think is best? Give a reason from this unit. Then say one thing another friend has right.",
      "lines": 5,
      "a": "A strong answer picks a side and gives a reason, for example that air holds much more oxygen. It then admits a fair point from another side, for example that a breathing part is best only where the animal lives. It may say that all three are thin, damp and close to blood.",
-     "why": "There is no single winner. Each breathing part suits the place the animal lives. Lungs suit air, gills suit water, and a frog's skin helps in both, as long as it stays damp."
+     "why": "There is no single winner. Each breathing part suits the place the animal lives. Lungs suit air, gills suit water, and a frog's skin helps in both, as long as the skin stays damp."
     }
    ]
   },
@@ -1207,7 +1228,7 @@
     },
     {
      "t": "match",
-     "p": "Match each way of getting food to an animal that uses it.",
+     "p": "Match each way of getting food to an animal that gets food this way.",
      "pairs": [
       [
        "grazing",
@@ -1260,13 +1281,6 @@
      "why": "Scientists still argue about this, and more than one reason may be true. Testing one idea at a time is how they find out."
     },
     {
-     "t": "write",
-     "p": "In the story 'The Fish in the Palm Tree', Selvi's grandmother keeps climbing perch in a pot of wet mud and wet leaves. The fish live for days. Why must the mud stay damp, even for a fish that breathes air?",
-     "lines": 3,
-     "a": "The climbing perch gulps air, but oxygen still has to pass through a thin, damp surface into the blood. If the fish dries out, their gills and labyrinth organ stop working, and they cannot breathe.",
-     "why": "Every breathing surface must be damp, because oxygen has to dissolve in water before it can pass into blood."
-    },
-    {
      "t": "mcq",
      "p": "When you hold your breath, the need to breathe grows stronger and stronger. What mostly causes that strong need?",
      "opts": [
@@ -1282,6 +1296,13 @@
      "p": "A crab who walks on the beach breathes with gills.",
      "a": true,
      "why": "True. Crabs breathe with gills, even on land. They keep their gills damp inside a covered space on each side of their body. If the gills dry out, the crab cannot breathe."
+    },
+    {
+     "t": "write",
+     "p": "On a hot day, all the fish in a small pond swim to the surface and gulp with their mouths open. Why might this happen, and what could help them?",
+     "lines": 3,
+     "a": "Warm water holds less oxygen, and many fish in a small pond use up the oxygen. At the surface the water has a little more oxygen, so the fish gulp there. Bubbling air into the pond or moving the water adds oxygen.",
+     "why": "Fish need oxygen dissolved in water. Warm, crowded, still water runs short of it, which is why fish farmers and aquarium pumps bubble in air."
     }
    ]
   },
@@ -1431,7 +1452,7 @@
     },
     {
      "t": "mcq",
-     "p": "Karthik, a boy in Class 4, says, 'We breathe in oxygen and breathe out carbon dioxide instead.' His sister Divya has done the Limewater Test and read about breath. What should Divya tell him?",
+     "p": "Karthik, a boy in Class 4, says, 'We breathe in oxygen and we breathe out carbon dioxide, nothing else.' His sister Divya has done the Limewater Test and read about breath. What should Divya tell him?",
      "opts": [
       "Breathed-out air still has a lot of oxygen. It also has much more carbon dioxide than room air",
       "He is completely right",
@@ -1512,7 +1533,6 @@
      "qty": 1
     }
    ],
-   "safety": "Jump on a flat, non-slippery floor, away from furniture. Stop if you feel dizzy or unwell. Children with asthma can skip the jumping and count a grown-up's breaths instead.",
    "schedule": [
     {
      "day": 1,
@@ -1597,7 +1617,7 @@
      "say": "Now jump on the spot for one whole minute, as fast as is comfortable. The second I say stop, sit down, hand on chest, and we count straight away.",
      "kid": "Jump on the spot for one minute. Then sit down fast. Hand on your chest. Count your breaths for one minute. Write the number.",
      "adult": true,
-     "parent": "Watch for dizziness and let your child stop early if needed. Count straight away, because breathing slows back down within a few minutes. Wait until breathing feels normal before the next jump.",
+     "parent": "Watch for dizziness and let your child stop early if needed. A child with asthma can skip the jumping and count a grown-up's breaths after the grown-up jumps. Count straight away, because breathing slows back down within a few minutes. Wait until breathing feels normal before the next jump.",
      "context": "This is the step where you jump for one minute and then count your breaths again."
     },
     {
@@ -1665,17 +1685,6 @@
        ]
       }
      ],
-     "check": {
-      "t": "mcq",
-      "q": "Why do we breathe faster after jumping?",
-      "options": [
-       "Our muscles need more oxygen to get energy from food",
-       "Our lungs get tired and slow down",
-       "Jumping shakes extra air into our nose"
-      ],
-      "a": 0,
-      "why": "Working muscles do more respiration, which means they use more oxygen to unlock energy from food. Breathing faster brings that oxygen in and takes the extra carbon dioxide out. Picking 'lungs get tired' mixes up breathing with tiredness. Picking 'shakes air in' means thinking air gets in by itself, but our muscles pull it in."
-     },
      "think": "A cheetah after a chase pants very hard. A sleeping python breathes only a few times a minute. Why might that be?",
      "context": "This is the last step of the Breath Count experiment. You explain what you found, using claim, evidence and reasoning."
     }
@@ -1736,7 +1745,7 @@
     }
    ],
    "record": "Draw the two glasses after 2 minutes. Write which one turned milky first. Then write your claim, evidence and reasoning.",
-   "context": "In this experiment you use clear limewater, which turns milky when carbon dioxide bubbles through it. If you did the milky breath test in the Heart, blood and breath unit, this is the same test with a new question. There you found that breath is different from room air. Here you also ask where the carbon dioxide in your breath came from. You find out whether breathed-out air has more carbon dioxide than room air, and where that carbon dioxide comes from.",
+   "context": "In this experiment you use clear limewater, which turns milky when carbon dioxide bubbles through it. You find out whether breathed-out air has more carbon dioxide than room air, and where that carbon dioxide comes from.",
    "setup": [
     {
      "art": "A grown-up stirring a spoon of white chuna paste into a steel jug of water, then the jug resting overnight with white powder settled at the bottom.",
@@ -1784,7 +1793,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Your child blows gently out through the straw in glass 1 for one minute, breathing in through the nose. 2. At the same time, a grown-up puts the bottle's straw into glass 2 and squeezes the bottle, so room air bubbles out. Lift the straw out of the water before letting go, so the bottle refills with room air, not limewater. Do this about 20 times in the minute. 3. Check both glasses at 30 seconds, 1 minute and 2 minutes.",
+     "do": "1. Your child blows gently out through the straw in glass 1, breathing in through the nose. Blow for up to 2 minutes, and rest whenever needed. 2. At the same time, a grown-up puts the bottle's straw into glass 2 and squeezes the bottle, so room air bubbles out. Lift the straw out of the water before letting go, so the bottle refills with room air, not limewater. Do this about 20 times a minute. 3. Check both glasses at 30 seconds, 1 minute and 2 minutes.",
      "say": "Blow out gently through the straw, in slow bubbles. Breathe in through your nose, never through the straw. I'll squeeze room air from the bottle into the other glass at the same time.",
      "kid": "Breathe in through your nose. Blow out gently through the straw. Never suck. Watch the bubbles. A grown-up squeezes air into the other glass.",
      "adult": true,
@@ -1814,14 +1823,6 @@
        "q": "Reasoning?",
        "good": [
         "My cells use oxygen and make carbon dioxide. My blood carries it to my lungs, and I breathe it out."
-       ]
-      },
-      {
-       "q": "Where do you think the carbon dioxide in your breath came from?",
-       "good": [
-        "From my body.",
-        "My cells made it from the food I ate, when they used oxygen to get energy.",
-        "From my lunch."
        ]
       }
      ],
@@ -1861,7 +1862,7 @@
      "qty": 3
     },
     {
-     "item": "a pinch of sugar, a pinch of salt, a crumb of biscuit",
+     "item": "a pinch of sugar, a pinch of salt and a pinch of crushed biscuit, each about the size of a lentil",
      "qty": 1
     },
     {
@@ -1901,7 +1902,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Find a line of small black ants: in the kitchen, on a window sill or on the balcony. 2. Put the three paper squares about one hand-length from the line, side by side, a hand-length apart. 3. Put the sugar, salt and biscuit crumb on them.",
+     "do": "1. Find a line of small black ants: in the kitchen, on a window sill or on the balcony. 2. Put the three paper squares in a row beside the line, each one a hand-length from it and a hand-length apart. 3. Put the sugar, salt and biscuit crumbs on them, one on each.",
      "say": "Ants have no noses, but they smell with their feelers, the two thin antennae on their heads. Let's see if they can find our food. Which one do you think they'll find first?",
      "kid": "Find a line of ants. Put three papers near it. Put sugar on one, salt on one, biscuit on one. Which will ants find first?",
      "adult": true,
@@ -1921,7 +1922,7 @@
     {
      "id": "s2",
      "mins": 30,
-     "do": "1. Start the timer. 2. Watch quietly. Note which bait the first ant reaches, and how long it took. 3. At 10, 20 and 30 minutes, count the ants on each bait and write the numbers in the table. 4. In between, watch one ant leave the food and follow them.",
+     "do": "1. Start the timer. 2. Watch quietly. Note which bait the first ant reaches, and the time taken. 3. At 10, 20 and 30 minutes, count the ants on each bait and write the numbers in the table. 4. In between, watch one ant leave the food and follow them.",
      "say": "Look, one ant found the sugar. Watch what they do next. Do they go home? Do they touch other ants? Let's count every ten minutes.",
      "kid": "Watch quietly. Which food did the first ant find? Count the ants on each paper every ten minutes. Follow one ant with your eyes.",
      "parent": "Usually one scout ant finds the sugar or biscuit by smell, wanders back towards the nest, and soon a trail of ants arrives. The scout leaves a smell trail, called a pheromone trail, on the way home. Salt usually gets few or no ants. Results vary with the kind of ant, so whatever happens is real data.",
@@ -1974,7 +1975,7 @@
       {
        "q": "Reasoning?",
        "good": [
-        "Sugar is energy food. The first ant smelled it and left a smell trail home. The others followed the trail."
+        "Sugar is energy food. The first ant smelled the sugar and left a smell trail home. The others followed the trail."
        ]
       }
      ],
@@ -1987,7 +1988,7 @@
        "They heard the sugar"
       ],
       "a": 0,
-      "why": "Ants that find food leave a trail of smell on the way back to the nest. Other ants follow it with their antennae. Most small ants see poorly, so picking 'see' is a good guess but not how they do it. Try this: rub a finger across the trail. Watch the ants get confused where the smell is wiped away."
+      "why": "Ants that find food leave a trail of smell on the way back to the nest. Other ants follow it with their antennae. Most small ants see poorly, so picking 'see' is a good guess but not how they do it."
      },
      "think": "If you wipe your finger across the ant trail, what will the ants do? Try it gently and see.",
      "context": "This is the last step of Ant Detectives. You explain how the ants found the food."
@@ -2015,12 +2016,11 @@
      "qty": 1
     }
    ],
-   "safety": "Nothing in this activity is unsafe.",
    "schedule": [
     {
      "day": 1,
      "mins": 10,
-     "what": "Breath on a Steel Tumbler"
+     "what": "Breathe on a steel tumbler, a mirror and a tissue, then feel your chest and belly move."
     }
    ],
    "record": "Draw what you saw on the tumbler and the tissue. Write one thing you noticed and one thing you wonder.",
@@ -2064,7 +2064,7 @@
        ]
       }
      ],
-     "parent": "The mist is water. Breath is warm and full of water vapour, a gas. On the cooler steel, the vapour condenses: it turns into tiny drops. If the steel does not mist on a very hot day, cool it under the tap for a minute and dry it. Don't explain more yet. The unit will answer the child's wonders.",
+     "parent": "The mist is water. Breath is warm and full of water vapour, a gas. On the cooler steel, the vapour condenses: it turns into tiny drops. If the steel does not mist on a very hot day, cool it under the tap for a minute and dry it. Don't explain more yet.",
      "context": "This is the first step of Breath on a Steel Tumbler. You breathe on steel and a tissue and notice what happens."
     },
     {
@@ -2122,7 +2122,7 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Make a Bottle Lung"
+     "what": "Build the bottle lung, pull the bottom balloon, and compare the model with your own lungs."
     }
    ],
    "record": "Draw your bottle lung. Label the balloon lung, the windpipe and the diaphragm. Draw arrows showing which way air goes when you pull down.",
@@ -2145,7 +2145,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. A grown-up cuts off the bottom third of the bottle and tapes the edge. 2. Push one balloon into the bottle neck, stretching its mouth over the outside of the neck. 3. Tie a knot in the second balloon and cut off its wide top half. Stretch the knotted part over the open bottom of the bottle. 4. Tape it so it is airtight.",
+     "do": "1. A grown-up cuts off the bottom third of the bottle and tapes the cut edge. 2. Push one balloon into the bottle neck, stretching its mouth over the outside of the neck. 3. Cut the second balloon across its middle and keep the half with the narrow neck. Tie a knot in that neck. 4. Stretch the cut, wide end over the open bottom of the bottle. Hold it with the rubber band, then tape it so it is airtight.",
      "say": "We're going to build a lung. The balloon inside is the lung. The bottle neck is the windpipe. The stretchy balloon at the bottom is the diaphragm, the muscle under your lungs.",
      "kid": "A grown-up cuts the bottle. Put one balloon inside the neck. Stretch the other over the bottom. That one is your diaphragm.",
      "adult": true,
@@ -2227,12 +2227,12 @@
      "qty": 1
     }
    ],
-   "safety": "Stay with a grown-up near ponds and tanks. Do not tap on aquarium glass. At a fish market, only look, and wash hands if you touch anything.",
+   "safety": "Stay with a grown-up near ponds and tanks. At a fish market, only look, and wash hands if you touch anything.",
    "schedule": [
     {
      "day": 1,
      "mins": 20,
-     "what": "Gill Watch: count a fish's breaths"
+     "what": "Count how many times a fish opens their gill covers in a minute, and compare with your own breaths."
     }
    ],
    "record": "Write how many times the fish's gill covers opened in one minute. Draw the fish and colour their gills.",
@@ -2334,12 +2334,11 @@
      "qty": 1
     }
    ],
-   "safety": "Use child-safe scissors. Wipe up any spilled water.",
    "schedule": [
     {
      "day": 1,
      "mins": 20,
-     "what": "Flat or Frilly? The gill shape test"
+     "what": "Wet a crumpled towel and a frilly cut towel, hang them up, and check which dries first."
     }
    ],
    "record": "Write which towel dried first and how long each took. Draw both and label which is like a gill.",
@@ -2382,7 +2381,7 @@
      "do": "Every 10 minutes, for about 40 minutes, gently touch both towels and note how they feel: wet, damp or dry. Each check takes a minute, so do something else in between.",
      "say": "Let's check. Touch them gently. Which feels drier? The water is leaving through the surface, just as oxygen enters through the surface of a gill.",
      "kid": "Every 10 minutes, touch both towels. Wet, damp or dry? Write it down.",
-     "parent": "The frilly towel usually dries much faster, often in half the time or less. Same paper, same dip in water. Only the shape changed. That's why it's a fair test.",
+     "parent": "The frilly towel usually dries much faster, often in half the time or less. The crumpled ball may still be damp at the end. That is the result. Same paper, same dip in water. Only the shape changed. That's why it's a fair test.",
      "context": "This is the step where you check the two towels every 10 minutes to see which dries first."
     },
     {
@@ -2426,12 +2425,11 @@
      "qty": 1
     }
    ],
-   "safety": "Walk slowly when blindfolded, on a clear floor. A grown-up guides.",
    "schedule": [
     {
      "day": 1,
      "mins": 15,
-     "what": "Follow Your Nose: find the snack by smell"
+     "what": "Find a hidden snack by smell alone, then talk about animal noses."
     }
    ],
    "record": "Write how many tries it took to find the snack by smell. Write which animal you would like to have the nose of, and why.",
@@ -2473,7 +2471,7 @@
      "mins": 5,
      "do": "Talk about animal noses and other senses.",
      "say": "A dog's nose is far, far better than ours. It can follow a smell trail days old. A mosquito finds you by the carbon dioxide you breathe out. A bat finds a moth by the echo. Which sense would help you most to find food in the dark?",
-     "kid": "A dog could find it at once. A mosquito smells your breath. A bat hears echoes. Which sense would you pick?",
+     "kid": "A dog could find the snack at once. A mosquito smells your breath. A bat hears echoes. Which sense would you pick?",
      "check": {
       "t": "mcq",
       "q": "A mosquito finds people in a dark room. Which of these helps them most?",
@@ -2504,12 +2502,12 @@
      "qty": 1
     }
    ],
-   "safety": "Do this sitting down, on dry land, never in water. Hold only as long as is comfortable, never until it hurts. Stop at once if you feel dizzy. Children with asthma or heart problems should skip the holding and just do the timing for others.",
+   "safety": "Never hold your breath in water. Hold only as long as is comfortable, and stop at once if you feel dizzy. Children with asthma or heart problems should skip the holding and just time others.",
    "schedule": [
     {
      "day": 1,
      "mins": 15,
-     "what": "How Long Can a Breath Last?"
+     "what": "Time a comfortable breath-hold, then compare with animals that hold their breath."
     }
    ],
    "record": "Write your comfortable breath-hold time and the times of others in the family. Compare them with the animal times on the chart.",
@@ -2520,8 +2518,8 @@
      "caption": "1. Sit down. Take a normal breath. Hold it, comfortably."
     },
     {
-     "art": "The grown-up writing times in a notebook while a grandparent takes a turn.",
-     "caption": "2. Time everyone in the family. Write down the times."
+     "art": "The grown-up writing times in a notebook while another person takes a turn.",
+     "caption": "2. Time anyone else who wants to try. Write down the times."
     },
     {
      "art": "A picture chart comparing a child, a Ganges river dolphin, a sea turtle and a sperm whale, each with a clock.",
@@ -2532,7 +2530,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Your child sits cross-legged. 2. They take one normal breath, not a huge one, and hold it. 3. Time how long they hold it comfortably. 4. Stop the moment it feels uncomfortable. 5. Time each family member.",
+     "do": "1. Your child sits cross-legged. 2. They take one normal breath, not a huge one, and hold it. 3. Time how long they hold it comfortably. 4. Stop the moment it feels uncomfortable. 5. Time anyone else at home who wants to try.",
      "say": "Sit tall. Take a normal breath, and hold it gently. Don't push yourself. The moment you want to breathe, breathe. It's not a race to hurt. It's to notice.",
      "kid": "Sit tall. Take a normal breath. Hold it gently. Breathe the moment you want to. Never push.",
      "adult": true,
@@ -2542,7 +2540,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Show the chart of animal breath-holds and talk about it.",
+     "do": "Look at the chart of animal breath-holds together.",
      "say": "The Ganges river dolphin comes up every minute or two. Some whales stay down for over an hour. How do they do it? They store extra oxygen in their blood and muscles, and slow their hearts down.",
      "kid": "Look at the animals. A river dolphin holds their breath for one or two minutes. Some whales hold for over an hour!",
      "chart": {
@@ -2573,14 +2571,14 @@
      },
      "check": {
       "t": "mcq",
-      "q": "Ganges river dolphins live in rivers all their lives. Why must they keep coming up?",
+      "q": "A sea turtle can rest under water for hours, but a Ganges river dolphin must come up every minute or two. Why can a resting turtle stay down so long?",
       "options": [
-       "They breathe air with lungs, through a blowhole",
-       "They come up to look around",
-       "They come up to drink rain"
+       "A resting body uses very little oxygen, so one breath lasts a long time",
+       "Turtles have gills as well as lungs",
+       "A turtle's shell stores air like a tank"
       ],
       "a": 0,
-      "why": "Dolphins have lungs, not gills. They can only get oxygen from air, through the blowhole on top of the head. Picking 'look around' is a fair guess, because many animals pop up to look. But Ganges river dolphins are nearly blind and find food by echoes. They come up to breathe."
+      "why": "Sea turtles have lungs and breathe air, like dolphins. A resting turtle's body uses very little oxygen, so one breath lasts for hours. A dolphin that is hunting uses much more oxygen. Picking 'gills' is the mix-up of living in water with breathing water."
      },
      "context": "This is the step where you compare your breath-hold with animals that hold their breath to hunt underwater."
     }
@@ -2605,12 +2603,11 @@
      "qty": 1
     }
    ],
-   "safety": "Use clean tools if you plan to eat any food. Don't run with the tweezers or sticks.",
    "schedule": [
     {
      "day": 1,
      "mins": 20,
-     "what": "Mouth Tools Buffet"
+     "what": "Try five kitchen tools as animal mouths on four foods, then match each tool to an animal."
     }
    ],
    "record": "Make a table: tool, which food it was best at, and which animal has a mouth like that tool.",
@@ -2655,7 +2652,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Match each tool to an animal and talk about it.",
+     "do": "Match each tool to an animal with a mouth like that tool.",
      "say": "Your straw is like a butterfly's long tongue, sipping nectar. The strainer is like a flamingo's beak, sieving tiny food. The tweezers are like a heron's long beak, picking up food. The peg is like a parrot's strong beak, gripping a nut.",
      "kid": "Straw: butterfly. Strainer: flamingo. Tweezers: heron. Peg: parrot. Which was your favourite?",
      "check": {
@@ -2694,7 +2691,6 @@
      "qty": 1
     }
    ],
-   "safety": "Count breaths only. Never hold the breath for this project.",
    "schedule": [
     {
      "day": 1,
@@ -2704,7 +2700,7 @@
     {
      "day": 2,
      "mins": 8,
-     "what": "Count breaths on waking, after playing outside, and before bed."
+     "what": "Count breaths on waking, after running about, and before bed."
     },
     {
      "day": 3,
@@ -2714,7 +2710,7 @@
     {
      "day": 4,
      "mins": 8,
-     "what": "Count the breaths of a pet, a sleeping sibling or a grandparent, with permission."
+     "what": "Count the breaths of a pet or of another person at home, with permission."
     },
     {
      "day": 5,
@@ -2750,7 +2746,7 @@
     {
      "id": "s2",
      "mins": 24,
-     "do": "Days 2 to 4. Do the day's counts and write them in. On day 3, a grown-up counts the child's breaths while asleep. On day 4, count a pet or another family member.",
+     "do": "Days 2 to 4. Do the day's counts and write them in. On day 3, a grown-up counts the child's breaths while asleep. On day 4, count a pet or another person at home, with permission.",
      "say": "Today's counts are in the diary plan. Remember, sit the same way each time, and count for one whole minute.",
      "kid": "Do today's counts. Write each one in your table. Count for one whole minute.",
      "wait": "Do the next count tomorrow.",
@@ -2792,17 +2788,6 @@
        }
       ]
      },
-     "check": {
-      "t": "mcq",
-      "q": "In the breath diary chart, the line is highest just after climbing stairs. Why?",
-      "options": [
-       "Leg muscles were working hard and needed more oxygen",
-       "Stairs have less air",
-       "We breathe faster when we are bored"
-      ],
-      "a": 0,
-      "why": "Hard-working muscles use more oxygen, so you breathe faster to bring more in. Picking 'stairs have less air' mixes this up with high mountains, where air really is thinner. A few stairs make no difference to the air."
-     },
      "context": "This is the last day of My Breath Diary. You draw a line chart and explain it."
     }
    ]
@@ -2830,7 +2815,7 @@
     "Give them whiskers that feel and taste, like a catfish, or echolocation clicks like a dolphin."
    ],
    "creative": [
-    "The Ganges river dolphin is nearly blind. They swim on their side, sweeping their long beak through the mud, and finds fish with clicks.",
+    "The Ganges river dolphin is nearly blind. They swim on their side, sweeping their long beak through the mud, and find fish with clicks.",
     "Some fish make weak electricity around their bodies and feel when something disturbs it. Could your animal do that?",
     "Could your animal carry an air bubble with them, like the water spiders that live in silk bubbles underwater?"
    ],
@@ -2846,7 +2831,7 @@
      "caption": "2. Draw your animal. Label their breathing and food-finding parts."
     },
     {
-     "art": "The child holding up the drawing and explaining it to a grandparent.",
+     "art": "The child holding up the drawing and explaining it to a relative.",
      "caption": "3. Explain your design to someone."
     }
    ],
@@ -2900,7 +2885,7 @@
      "id": "s3",
      "mins": 7,
      "do": "Your child explains the design to someone in the family.",
-     "say": "Tell Paati or a friend about your animal. How do they breathe? How do they find food? What would happen to them if the river got dirtier?",
+     "say": "Tell someone at home or a friend about your animal. How do they breathe? How do they find food? What would happen to them if the river got dirtier?",
      "kid": "Show your drawing to someone. Explain how they breathe and find food.",
      "think": "Real Ganges river dolphins are in danger. The water is dirtier, and dams block their way. How could people help them?",
      "context": "This is the last step of Design a River-Bottom Hunter. You explain your design to someone."
@@ -2997,7 +2982,7 @@
    "youtube": "zj5v3n6Nlm8",
    "mins": 3,
    "why": "A short, clear video for children on how gills take oxygen out of water.",
-   "check": "Found by YouTube search for 'how do fish breathe gills'. Title and channel checked automatically. A parent may still preview it."
+   "check": "Title and channel matched by YouTube. A parent should still preview it."
   },
   {
    "title": "This Titicaca Water Frog Breathes Oxygen Through its Skin",
@@ -3005,7 +2990,7 @@
    "youtube": "VosMbumTzIg",
    "mins": 2,
    "why": "Shows a real frog that lives in a cold lake and breathes almost only through their huge, baggy skin. Good for the skin breathing card.",
-   "check": "Found by YouTube search for 'frog breathing through skin'. Title and channel checked automatically. A parent may still preview it."
+   "check": "Title and channel matched by YouTube. A parent should still preview it."
   },
   {
    "title": "Gangetic River Dolphin communication through ultrasound clicks",
@@ -3013,7 +2998,7 @@
    "youtube": "hXVkH_2Y2WM",
    "mins": 1,
    "why": "A one-minute clip from an Indian conservation group about the clicks the Ganges river dolphin uses. They breathe air and find food by echoes.",
-   "check": "Found by YouTube search for 'ganges river dolphin echolocation'. Title and channel checked automatically. A parent should preview it, as it is short and may need explaining."
+   "check": "Title and channel matched by YouTube. A parent should still preview it."
   }
  ],
  "quiz": [
@@ -3296,8 +3281,8 @@
  ],
  "ask_kids": [
   "Where is your breath going right now?",
-  "Can you see this dog breathing? How many breaths in one minute?",
-  "How do you think that crow found the food you dropped?",
+  "Watch a dog or a cat. How many breaths does she take in one minute?",
+  "How do you think a crow finds food that you drop?",
   "Why do you think the fish at the market have such red gills?",
   "If you could have one animal's sense for a day, which would you pick?",
   "Why do you breathe so hard after running?",
@@ -3313,16 +3298,8 @@
    "a": "A starfish."
   },
   {
-   "j": "What do you call a fish with no eyes?",
-   "a": "A fsh."
-  },
-  {
    "j": "Why don't fish play cricket?",
    "a": "They're scared of getting caught in the net."
-  },
-  {
-   "j": "What did the lung say to the other lung?",
-   "a": "We make a great pair."
   },
   {
    "j": "Why did the frog take the bus to work?",
@@ -3333,28 +3310,8 @@
    "a": "So they can hang out with their friends."
   },
   {
-   "j": "What did the earthworm say when they came up after the rain?",
-   "a": "Phew, I needed some fresh air!"
-  },
-  {
-   "j": "How does a dog find the remote control?",
-   "a": "They just follow their nose."
-  },
-  {
    "j": "Why are fish so clever?",
    "a": "Because they swim in schools."
-  },
-  {
-   "j": "What did the ant say to the sugar?",
-   "a": "I'll tell all my friends about you."
-  },
-  {
-   "j": "Why did the dolphin cross the river?",
-   "a": "To get to the other tide."
-  },
-  {
-   "j": "What is a frog's favourite drink?",
-   "a": "Croak-a-cola."
   },
   {
    "j": "Why couldn't the whale keep a secret?",
@@ -3365,14 +3322,6 @@
    "a": "A bulldozer."
   },
   {
-   "j": "Why did the bat go to the doctor?",
-   "a": "They had a bad echo in their ears."
-  },
-  {
-   "j": "Why do flamingos stand on one leg?",
-   "a": "If they lifted both, they'd fall over."
-  },
-  {
    "j": "What is a crab's favourite game?",
    "a": "Pinch the parcel."
   },
@@ -3381,16 +3330,8 @@
    "a": "They gave a hoot about their lessons."
   },
   {
-   "j": "What did the mosquito say when they found a person?",
-   "a": "Lunch is served."
-  },
-  {
    "j": "How do you make a goldfish old?",
    "a": "Take away the g."
-  },
-  {
-   "j": "Why did the climbing perch walk to the next pond?",
-   "a": "Their old pond went dry, and they were fed up with mud."
   }
  ],
  "maths": [
@@ -3509,7 +3450,7 @@
    "why_maths": "Finding the difference shows how much your body changes its breathing to match what you are doing."
   },
   {
-   "problem": "In 10,000 drops of room air, about 4 are carbon dioxide. In 10,000 drops of breathed-out air, about 400 are carbon dioxide. How many times as much carbon dioxide is in your breath? Does that fit what you saw in the limewater test?",
+   "problem": "In 10,000 parts of room air, about 4 are carbon dioxide. In 10,000 parts of breathed-out air, about 400 are carbon dioxide. How many times as much carbon dioxide is in your breath? Does that fit what you saw in the limewater test?",
    "answer": "100 times as much. Yes: the breath glass turned milky fast, and the room-air glass stayed almost clear.",
    "explain": "400 divided by 4 is 100, because 4 times 100 is 400. With 100 times as much carbon dioxide, breath turns limewater milky much faster than room air does.",
    "math_unit": "math.division.division-facts.L3",
@@ -3589,13 +3530,6 @@
    "kind": "place",
    "where": "Bharatpur, Rajasthan",
    "why": "A wetland where many birds, including some bar-headed geese, spend the winter. Watch herons, storks and kingfishers finding food."
-  },
-  {
-   "title": "A fish market, a pond or a garden near you",
-   "url": "",
-   "kind": "place",
-   "where": "anywhere",
-   "why": "Look at gills at the market, frogs and fish at a pond, and ants and earthworms in the garden."
   }
  ],
  "buy": [
@@ -3603,34 +3537,33 @@
    "id": "b-chuna",
    "item": "Edible chuna (lime paste), a small tub",
    "kind": "material",
-   "why": "Used to make limewater for the breath test. Paan shops sell it too.",
    "url": "https://www.amazon.in/s?k=edible+chuna+lime+paste",
    "used_in": [
     "e2"
-   ]
+   ],
+   "why": "Used to make limewater for the breath test. Paan shops sell it too."
   },
   {
    "id": "b-balloons",
    "item": "A pack of balloons",
    "kind": "material",
-   "why": "For the bottle lung model.",
    "url": "https://www.amazon.in/s?k=balloons+pack",
    "used_in": [
     "a2"
-   ]
+   ],
+   "why": "For the bottle lung model."
   },
   {
    "id": "b-book-tail",
    "item": "What Do You Do with a Tail Like This? by Steve Jenkins and Robin Page",
    "kind": "book",
-   "why": "A beautiful picture book about how animals use noses, ears, eyes, mouths, feet and tails, many of them to find food.",
    "url": "https://www.amazon.in/s?k=What+Do+You+Do+with+a+Tail+Like+This+Steve+Jenkins",
    "used_in": [
     "a5",
     "a7",
     "c1"
    ],
-   "plan": "Read a few pages after Follow Your Nose or the Mouth Tools Buffet, and guess each animal before turning the page."
+   "why": "A beautiful picture book about how animals use noses, ears, eyes, mouths, feet and tails, many of them to find food."
   }
  ],
  "warmup": [
@@ -3722,7 +3655,6 @@
    "a1",
    "e1",
    "a2",
-   "a3",
    "g1",
    "ws-core",
    "e2",

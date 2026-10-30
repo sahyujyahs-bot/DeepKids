@@ -27,7 +27,7 @@
 - **Gill cover**: The hard flap that covers a fish's gills. It opens and closes as water flows out. *e.g.* Watch a goldfish closely. The flaps behind their eyes open and shut all the time.
 - **Skin breathing**: Taking in oxygen straight through the skin. It only works if the skin is thin and kept damp. *e.g.* An earthworm has no lungs and no gills. They breathe only through their damp skin.
 - **Spiracles**: Tiny holes along the sides of an insect's body. Air goes in through them, into thin pipes that reach every part of the insect. *e.g.* A grasshopper has a row of spiracles along each side.
-- **Blowhole**: The nostril on top of the head of a dolphin or a whale. The animal breathes air through it when they come up to the surface. *e.g.* The Ganges river dolphin comes up to breathe through their blowhole every minute or two.
+- **Blowhole**: The nostril on top of the head of a dolphin or a whale. When they come up to the surface, they breathe air in and out through this nostril. *e.g.* The Ganges river dolphin comes up to breathe through their blowhole every minute or two.
 - **Senses**: The ways a body learns about the world: seeing, hearing, smelling, tasting and touching. Some animals have extra senses that people do not have. *e.g.* A dog finds a hidden biscuit by smell.
 - **Echolocation**: Finding things by sending out sounds and listening for the echoes that bounce back. *e.g.* Bats and dolphins find insects and fish in the dark this way.
 - **Predator**: An animal that hunts and eats other animals. *e.g.* A kingfisher is a predator. They dive to catch small fish.
@@ -63,7 +63,7 @@ Air goes in through your nose or mouth and down a pipe called the windpipe. The 
 ### How gills work · *defined*
 **Definition:** Gills take oxygen out of water. A fish gulps water in through their mouth. The water flows over the gills and out under the gill covers.
 
-Water holds far less oxygen than air, about thirty times less in the same space. So a fish must be very good at catching it. Their gills are rows of thin red threads, each covered in even thinner folds. Blood flows through them the opposite way to the water. Because of this, the blood keeps meeting water that has more oxygen than it has. So a fish can take most of the oxygen out of the water that passes over it. Out of water, the soft gill threads stick together, like a wet paintbrush pulled out of a jar. Then there is too little surface, and the fish cannot breathe. That is why most fish die in air, even though air has more oxygen than water.
+Water holds far less oxygen than air, about thirty times less in the same space. So a fish must be very good at catching oxygen. Their gills are rows of thin red threads, each covered in even thinner folds. Blood flows through them the opposite way to the water. Because of this, the blood keeps meeting water that has more oxygen than it has. So a fish can take most of the oxygen out of the water that passes over it. Out of water, the soft gill threads stick together, like a wet paintbrush pulled out of a jar. Then there is too little surface, and the fish cannot breathe. That is why most fish die in air, even though air has more oxygen than water.
 - e.g. Rohu, catla and goldfish breathe with gills.
 - e.g. Tadpoles breathe with gills. Most grow lungs when they become frogs.
 - e.g. Crabs and prawns breathe with gills too, tucked under their hard shells.
@@ -98,7 +98,7 @@ A dog finds food mostly by smell. Their nose has many times more smell cells tha
 ### Ways animals get their food · *defined*
 **Definition:** Animals get food in many different ways. Some graze, some hunt, some wait, some sieve, some build traps and some clean up the dead.
 
-A cow grazes. She walks slowly and eats grass for hours. A cheetah hunts. They chase their prey at great speed. A crocodile waits. They lie still in the river until an animal comes close. A flamingo filters. They sieve tiny shrimps and algae out of lake water. A spider builds a trap. Their sticky web catches flying insects. A vulture scavenges. They eat animals that have already died, and so cleans up the land. Each way of eating goes with a body that fits it. A cow has flat teeth for grinding. A cheetah has long legs and a flexible back for running fast. A flamingo has a beak that works like a sieve.
+A cow grazes. She walks slowly and eats grass for hours. A cheetah hunts. They chase their prey at great speed. A crocodile waits. They lie still in the river until an animal comes close. A flamingo filters. They sieve tiny shrimps and algae out of lake water. A spider builds a trap. Their sticky web catches flying insects. A vulture scavenges. They eat animals that have already died, and so they clean up the land. Each way of eating goes with a body that fits it. A cow has flat teeth for grinding. A cheetah has long legs and a flexible back for running fast. A flamingo has a beak that works like a sieve.
 - e.g. A sunbird sips nectar from flowers with their long, thin, curved beak.
 - e.g. A whale shark, the biggest fish, filters tiny food out of seawater.
 - e.g. An antlion digs a pit in dry sand and waits at the bottom for ants to fall in.
@@ -184,7 +184,7 @@ Plants use the Sun's light to join carbon dioxide and water into food, and they 
 - *deep:* Where was the oxygen in your last breath a week ago? (hint: Who puts oxygen into the air? Think of trees, grass and the green algae in ponds and seas.)
 - *deep:* If almost every cell in you uses oxygen, which part of you is really doing the breathing: your nose, your lungs or your cells? (hint: Your nose and lungs are like doors. Where does the oxygen finally go?)
 - *big:* A dog smells a world we cannot smell. A bat hears echoes we cannot hear. Is the world we see the whole world? (hint: Think of all the senses other animals have that we do not.)
-- *big:* Part of the lunch you ate today will leave in your breath as carbon dioxide. A plant may then take it in. Is that leaf then partly made from your lunch? (hint: Plants build their leaves from carbon dioxide, water and light. Where does the carbon dioxide come from?)
+- *big:* Part of the lunch you ate today will leave in your breath as carbon dioxide. A plant may then take in that gas. Is that leaf then partly made from your lunch? (hint: Plants build their leaves from carbon dioxide, water and light. Where does the carbon dioxide come from?)
 - *big:* Is it fair for one animal to eat another? (hint: What would happen to the forest if there were no hunters at all? What if there were no vultures?)
 - *deep:* Why does breathing slowly make you feel calm? (hint: Try it. Breathe in for four counts, out for six. What changes in your body?)
 - *deep:* Could an animal live on a planet with no oxygen at all? (hint: In 2020, scientists found a tiny animal that lives inside fish muscle and does not use oxygen at all. Some bacteria on Earth also live with no oxygen. How might they get energy?)
@@ -242,7 +242,7 @@ He listened for a long time. Then he looked up at the top of the palm, where the
 
 He kept the fish alive in the pot for six days. Every evening Selvi came to sprinkle them, and every evening they gulped their little gulps of air. He drew them many times. He wrote pages and pages. Then the rains came properly, and the tank began to fill, and Selvi carried the pot down the stone steps and tipped the fish into the brown water.
 
-They sank. Then they rose. At the surface, they took one more bubble of air, and was gone.
+They sank. Then they rose. At the surface, they took one more bubble of air, and were gone.
 
 Years later, Selvi heard that the leaf man had sent his writing across the sea, to scientists in London. Later still, a scientist in France gave the fish the name Anabas, which means the one that climbs. Nobody wrote down a girl, a pot of wet mud, or a kite.
 
@@ -257,25 +257,25 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 
 ## Games
 ### g1 · Lungs, Gills or Skin? (20 min)
-- **rules:** Cut out the animal cards and the bonus cards. Shuffle the animal cards and put them face down.; Lay the four breathing mats in a row: LUNGS, GILLS, SKIN and AIR PIPES.; On your turn, take the top card and read the animal's name on the front.; Put it on the mat that shows how they breathe, and say one reason. Some animals use two ways. Then put the card between two mats.; A right mat with a good reason wins one breath token. If someone thinks it is wrong, turn the card over to check.; After every fifth card, turn over a bonus card and read the front. The first player to act out how that animal finds food wins two tokens. Check the back.; When the cards run out, the player with the most tokens wins.
-- **Printable cards: 24 animal cards to cut out (how they breathe is on the back):** Cow (back: LUNGS); Rohu fish (back: GILLS); Earthworm (back: SKIN); Frog (back: LUNGS and SKIN); Tadpole (back: GILLS); Ganges river dolphin (back: LUNGS); Crow (back: LUNGS); Crab (back: GILLS); Python (back: LUNGS); Grasshopper (back: AIR PIPES); Mudskipper (back: GILLS and SKIN); Climbing perch (back: GILLS and a labyrinth organ that takes oxygen from air); Elephant (back: LUNGS); Prawn (back: GILLS); Butterfly (back: AIR PIPES); Sea turtle (back: LUNGS); Lungless salamander (back: SKIN); Bar-headed goose (back: LUNGS); Shark (back: GILLS); Bat (back: LUNGS); Ant (back: AIR PIPES); Goldfish (back: GILLS); Human baby (back: LUNGS); Whale (back: LUNGS)
+- **rules:** Cut out the 24 animal cards, the 8 bonus cards and the 20 breath tokens. Shuffle the animal cards and put them face down. Put the bonus cards in a second face-down pile.; Lay the four breathing mats in a row: LUNGS, GILLS, SKIN and AIR PIPES.; On your turn, take the top animal card and read the animal's name on the front. Do not look at the back.; Put the card on the mat that shows how the animal breathes, and say one reason. If you think the animal uses two ways, put the card between the two mats.; Another player turns the card over and checks the back. A right mat with a good reason wins one breath token. A wrong mat wins nothing, and the card is moved to the right mat.; After every third animal card, turn over a bonus card. Read the front aloud and give your answer. Check the back. A right answer wins two tokens. If you are wrong, the next player may answer for the two tokens. Then everyone acts out how that animal finds food.; If the tokens run out, keep score with tally marks on paper. When the animal cards run out, the player with the most tokens wins. If two players have the same, they both win.
+- **Printable cards: 24 animal cards to cut out (how they breathe is on the back):** Cow (back: LUNGS); Rohu fish (back: GILLS); Earthworm (back: SKIN); Frog (back: LUNGS and SKIN); Tadpole (back: GILLS); Ganges river dolphin (back: LUNGS); Crow (back: LUNGS); Crab (back: GILLS); Python (back: LUNGS); Grasshopper (back: AIR PIPES); Mudskipper (back: GILLS and SKIN); Mosquito (back: AIR PIPES); Elephant (back: LUNGS); Prawn (back: GILLS); Butterfly (back: AIR PIPES); Sea turtle (back: LUNGS); Lungless salamander (back: SKIN); Bar-headed goose (back: LUNGS); Shark (back: GILLS); Bat (back: LUNGS); Ant (back: AIR PIPES); Goldfish (back: GILLS); Human baby (back: LUNGS); Whale (back: LUNGS)
 - **Printable board: Four breathing mats:** LUNGS; GILLS; SKIN; AIR PIPES (insects)
 - **Printable cards: 8 food-finder bonus cards (the answer is on the back):** How does a bat find food? (back: Echoes); How does a dog find food? (back: Smell); How does an eagle find food? (back: Sight); How does an owl find food? (back: Hearing); How does a shark find food? (back: Feeling electricity); How does a pit viper find food? (back: Sensing heat); How does an ant find food? (back: Smell trails); How does a flamingo find food? (back: Sieving water)
-- **Printable tokens: 20 breath tokens (small paper circles):** 🫧
+- **Printable tokens: 20 breath tokens (small paper circles to cut out):** 🫧; 🫧; 🫧; 🫧; 🫧; 🫧; 🫧; 🫧; 🫧; 🫧; 🫧; 🫧; 🫧; 🫧; 🫧; 🫧; 🫧; 🫧; 🫧; 🫧
 - **s1 (3 min)**  
-  *Parent does:* 1. Lay out the four mats. 2. Shuffle the animal cards. 3. Put the tokens in a bowl.  
+  *Parent does:* 1. Cut out the cards and tokens. 2. Lay out the four mats. 3. Shuffle the animal cards. 4. Put the tokens in a bowl.  
   *Parent says:* Almost every animal needs oxygen. But they get it in different ways: lungs, gills, damp skin, or tiny air pipes. Let's sort animals by how they breathe.  
   *Child mode:* Lay out the four mats. Mix up the animal cards. Animals need oxygen. How does each one get it?
 - **s2 (3 min)**  
-  *Parent does:* Play the card 'Frog' together as a practice round.  
+  *Parent does:* Take out the frog card and play that card together as a practice round. Then shuffle it back into the pile.  
   *Parent says:* Practice card: frog. Where does it go? Careful, this one is tricky.  
   *Child mode:* Practice card: frog. Which mat? It might be two!
   - Check: Practice card: frog. Where does it go? → **Between LUNGS and SKIN**
 - **s3 (12 min)**  
-  *Parent does:* Take turns until all cards are played. After every fifth card, turn over a bonus card. Use the answer list in the parent note when anyone disagrees.  
-  *Parent says:* Your turn. Read the animal, put it on a mat, and give one reason. Every fifth card, we act out how an animal finds food.  
-  *Child mode:* Take a card. Put it on a mat. Say why. Every fifth card, act out a bonus card!
-  - Note: Answers. Lungs: cow, Ganges river dolphin, crow, python, elephant, sea turtle, bar-headed goose, bat, human baby, whale. Gills: rohu fish, tadpole, crab, prawn, shark, goldfish. Skin: earthworm, lungless salamander. Two ways: frog (lungs and skin), mudskipper (gills and skin), climbing perch (gills and a labyrinth organ that takes oxygen from air). Air pipes: grasshopper, butterfly, ant.
+  *Parent does:* Take turns until all the animal cards are played. After every third animal card, turn over a bonus card. The back of each card shows the answer.  
+  *Parent says:* Your turn. Read the animal's name, put the card on a mat, and give one reason. After every third card, we answer a bonus card and act out how that animal finds food.  
+  *Child mode:* Take a card. Put it on a mat. Say why. After every third card, answer a bonus card and act it out!
+  - Note: Answers. Lungs: cow, Ganges river dolphin, crow, python, elephant, sea turtle, bar-headed goose, bat, human baby, whale. Gills: rohu fish, tadpole, crab, prawn, shark, goldfish. Skin: earthworm, lungless salamander. Two ways: frog (lungs and skin), mudskipper (gills and skin). Air pipes: grasshopper, butterfly, ant, mosquito.
   - Check: Card: Ganges river dolphin. They live in water all their life. Where does the card go? → **LUNGS**
 - **s4 (2 min)**  
   *Parent does:* Count the tokens. Then each player names one animal from the game that surprised them.  
@@ -283,16 +283,16 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   *Child mode:* Count your tokens. Which animal surprised you most? Why?
   - Think: Can you think of an animal that breathes in a way none of our mats show?
 ### g2 · Bat and Moth (15 min)
-- **rules:** Clear a space in a room. Its walls, or a ring of chairs and cushions, are the cave wall.; One player is the bat and wears a blindfold. One is the moth. Any other players are trees, who stand still inside the space.; The bat calls 'Bat!'. The moth must answer 'Moth!' straight away. Trees answer 'Tree!' if the bat is within two steps of them.; The moth's answer stands for the echo a real bat hears. The bat follows the answers to find and tag the moth, without touching a tree.; Time each round. Swap roles. The fastest bat wins.
-- **Printable cards: Role cards:** BAT (wears the blindfold, calls 'Bat!'); MOTH (answers 'Moth!' every time); TREE (stands still, says 'Tree!' if the bat comes close)
-- **Printable score sheet: Catch timer sheet:** Round; Bat; Seconds to catch the moth
+- **rules:** Clear a space in a room. Its walls, or a ring of chairs and cushions, are the cave wall.; One player is the bat and wears a blindfold. One is the moth. Any other players are trees, who stand still inside the space. With two players there are no trees.; The bat calls 'Bat!'. The moth must answer 'Moth!' straight away, then may take one slow step. Trees answer 'Tree!' if the bat is within two steps of them.; The moth's answer stands for the echo a real bat hears. The bat follows the answers to find and tag the moth. Each time the bat touches a tree, add 10 seconds.; A round ends when the bat tags the moth, or after one minute. If the moth is not caught, the round counts as 60 seconds. Write the seconds on the sheet.; Swap roles until everyone has been the bat once. The bat with the fewest seconds wins.
+- **Printable cards: Role cards:** BAT (wears the blindfold, calls 'Bat!'); MOTH (answers 'Moth!' every time); TREE (only with 3 or more players: stands still, says 'Tree!' if the bat comes within two steps)
+- **Printable score sheet: Catch timer sheet: one line for each round:** Round 1: bat ______  seconds to catch the moth ______; Round 2: bat ______  seconds to catch the moth ______; Round 3: bat ______  seconds to catch the moth ______; Round 4: bat ______  seconds to catch the moth ______
 - **s1 (3 min) · grown-up needed**  
-  *Parent does:* 1. Clear a space and ring it with chairs or cushions. 2. Hand out the role cards. 3. Tie the blindfold on the bat.  
+  *Parent does:* 1. Clear a space and ring it with chairs or cushions. 2. Hand out the role cards (with two players, only bat and moth). 3. Tie the blindfold on the bat.  
   *Parent says:* Bats hunt moths at night. Many bats can see, but in the dark they mostly listen. They make very high sounds and listen for the echo. Our bat will shout 'Bat!' and listen for 'Moth!'.  
   *Child mode:* Clear a space. The bat wears a blindfold. The bat calls 'Bat!'. The moth must answer 'Moth!'.
   - Note: Clear the floor of anything sharp or breakable. Walk beside the bat to keep them safe. Bats are not blind. Many see well, but they use sound in the dark.
 - **s2 (10 min)**  
-  *Parent does:* Play rounds of about a minute each. Time each round. Swap roles so everyone is the bat once.  
+  *Parent does:* Play rounds of about a minute each. Write the seconds on the sheet. Swap roles so everyone is the bat once.  
   *Parent says:* Bat, call as often as you like. Moth, you must answer every time. Trees, warn the bat if they come close.  
   *Child mode:* Bat: call and listen. Moth: always answer. Trees: say 'Tree!' if the bat comes near.
   - Check: In Bat and Moth, the blindfolded bat found the moth by listening. What does a real bat listen for? → **Echoes of their own high sounds bouncing off insects**
@@ -307,7 +307,6 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 - **question:** Do we breathe faster after exercise? How much faster?
 - **predict:** Before you start, guess. How many breaths do you take in one minute while sitting still? Will the number go up, go down or stay the same after one minute of jumping? Why do you think so?
 - **fair test:** To make it fair, count in the same way every time: sit in the same chair, and count for the same time. Only one thing changes: resting or just after jumping. Count 3 times for each, because one count can be a fluke.
-- **safety:** Jump on a flat, non-slippery floor, away from furniture. Stop if you feel dizzy or unwell. Children with asthma can skip the jumping and count a grown-up's breaths instead.
 - **record:** Fill in the table. Draw two bars: one for resting, one for after jumping. Then write a claim, your evidence and your reasoning.
 - **results table:** When I counted | Count 1: breaths in 1 minute | Count 2 | Count 3 | Middle value
 - **s1 (3 min)**  
@@ -324,7 +323,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   *Parent does:* 1. Your child jumps on the spot for one full minute. 2. The moment the minute ends, they sit down. 3. Start the timer straight away and count breaths for one minute. 4. Write the number. 5. Rest three minutes, then repeat twice more.  
   *Parent says:* Now jump on the spot for one whole minute, as fast as is comfortable. The second I say stop, sit down, hand on chest, and we count straight away.  
   *Child mode:* Jump on the spot for one minute. Then sit down fast. Hand on your chest. Count your breaths for one minute. Write the number.
-  - Note: Watch for dizziness and let your child stop early if needed. Count straight away, because breathing slows back down within a few minutes. Wait until breathing feels normal before the next jump.
+  - Note: Watch for dizziness and let your child stop early if needed. A child with asthma can skip the jumping and count a grown-up's breaths after the grown-up jumps. Count straight away, because breathing slows back down within a few minutes. Wait until breathing feels normal before the next jump.
 - **s4 (5 min)**  
   *Parent does:* 1. Find the middle value of each set of three counts: put them in order and take the middle one. 2. Draw two bars, one for sitting still and one for after jumping.  
   *Parent says:* Let's turn our numbers into a picture. One bar for resting. One bar for after jumping. The taller the bar, the more breaths in a minute.  
@@ -337,7 +336,6 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   - Ask: Claim: what happens to breathing after exercise? (good: We breathe faster after exercise.)
   - Ask: Evidence: what did your numbers show? (good: Sitting still I took 20 breaths a minute. After jumping I took 40.)
   - Ask: Reasoning: why? (good: My leg muscles were working hard. They needed more oxygen, so I breathed faster to get more air in.; My muscles made more carbon dioxide, and I had to breathe it out.)
-  - Check: Why do we breathe faster after jumping? → **Our muscles need more oxygen to get energy from food**
   - Think: A cheetah after a chase pants very hard. A sleeping python breathes only a few times a minute. Why might that be?
 ### e2 · The Limewater Test: what is in your breath? (25 min, 2 days)
 - **question:** Is the air we breathe out different from the air in the room?
@@ -359,7 +357,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   *Child mode:* Look at the two glasses. Both are clear. Guess. Which will turn milky: your breath or room air?
   - Ask: Which glass do you think will turn milky first? Why? (good: The breath one, because we breathe out carbon dioxide.; The breath one, because our body puts used air out.)
 - **s3 (6 min) · grown-up needed**  
-  *Parent does:* 1. Your child blows gently out through the straw in glass 1 for one minute, breathing in through the nose. 2. At the same time, a grown-up puts the bottle's straw into glass 2 and squeezes the bottle, so room air bubbles out. Lift the straw out of the water before letting go, so the bottle refills with room air, not limewater. Do this about 20 times in the minute. 3. Check both glasses at 30 seconds, 1 minute and 2 minutes.  
+  *Parent does:* 1. Your child blows gently out through the straw in glass 1, breathing in through the nose. Blow for up to 2 minutes, and rest whenever needed. 2. At the same time, a grown-up puts the bottle's straw into glass 2 and squeezes the bottle, so room air bubbles out. Lift the straw out of the water before letting go, so the bottle refills with room air, not limewater. Do this about 20 times a minute. 3. Check both glasses at 30 seconds, 1 minute and 2 minutes.  
   *Parent says:* Blow out gently through the straw, in slow bubbles. Breathe in through your nose, never through the straw. I'll squeeze room air from the bottle into the other glass at the same time.  
   *Child mode:* Breathe in through your nose. Blow out gently through the straw. Never suck. Watch the bubbles. A grown-up squeezes air into the other glass.
   - Note: The breath glass usually goes cloudy within 30 seconds to a minute. The room-air glass stays nearly clear, because room air has only a tiny bit of carbon dioxide. Stop at 2 minutes: if you keep blowing for many minutes, the milkiness can clear again. If your child sucks by mistake, rinse their mouth with plenty of water. A bicycle pump works instead of the bottle, if you have one.
@@ -370,7 +368,6 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   - Ask: Claim: is breathed-out air different from room air? (good: Yes. Breathed-out air has more carbon dioxide.)
   - Ask: Evidence? (good: The breath glass went milky in under a minute. The room-air glass stayed clear.)
   - Ask: Reasoning? (good: My cells use oxygen and make carbon dioxide. My blood carries it to my lungs, and I breathe it out.)
-  - Ask: Where do you think the carbon dioxide in your breath came from? (good: From my body.; My cells made it from the food I ate, when they used oxygen to get energy.; From my lunch.)
   - Note: Let your child guess first. Then explain: the milky colour is tiny bits of calcium carbonate, the same material as chalk and eggshell. It forms when carbon dioxide meets limewater. Your cells use oxygen to get energy from food. The carbon in the food comes out as carbon dioxide, and the blood carries it to the lungs. So part of every meal leaves the body in the breath. This is the idea behind the unit's deep truth.
   - Check: The limewater with breath turned milky. The one with room air stayed clear. Why? → **Breathed-out air has much more carbon dioxide than room air**
 ### e3 · Ant Detectives: which food do ants find first? (40 min)
@@ -381,13 +378,13 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 - **record:** Fill in the table. Draw a bar chart of ants at 30 minutes. Draw a map of the ant trail you saw.
 - **results table:** Bait | Ants at 10 minutes | Ants at 20 minutes | Ants at 30 minutes
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* 1. Find a line of small black ants: in the kitchen, on a window sill or on the balcony. 2. Put the three paper squares about one hand-length from the line, side by side, a hand-length apart. 3. Put the sugar, salt and biscuit crumb on them.  
+  *Parent does:* 1. Find a line of small black ants: in the kitchen, on a window sill or on the balcony. 2. Put the three paper squares in a row beside the line, each one a hand-length from it and a hand-length apart. 3. Put the sugar, salt and biscuit crumbs on them, one on each.  
   *Parent says:* Ants have no noses, but they smell with their feelers, the two thin antennae on their heads. Let's see if they can find our food. Which one do you think they'll find first?  
   *Child mode:* Find a line of ants. Put three papers near it. Put sugar on one, salt on one, biscuit on one. Which will ants find first?
   - Ask: How do you think an ant knows where food is? (good: They smell it.; They feel it with their feelers.; Other ants show them the way.)
   - Note: Most Indian homes have small ants somewhere. If you cannot see any, put a pinch of sugar on a paper near a window or balcony crack the day before. Ants usually find it within a day, and you can start the test where they come.
 - **s2 (30 min)**  
-  *Parent does:* 1. Start the timer. 2. Watch quietly. Note which bait the first ant reaches, and how long it took. 3. At 10, 20 and 30 minutes, count the ants on each bait and write the numbers in the table. 4. In between, watch one ant leave the food and follow them.  
+  *Parent does:* 1. Start the timer. 2. Watch quietly. Note which bait the first ant reaches, and the time taken. 3. At 10, 20 and 30 minutes, count the ants on each bait and write the numbers in the table. 4. In between, watch one ant leave the food and follow them.  
   *Parent says:* Look, one ant found the sugar. Watch what they do next. Do they go home? Do they touch other ants? Let's count every ten minutes.  
   *Child mode:* Watch quietly. Which food did the first ant find? Count the ants on each paper every ten minutes. Follow one ant with your eyes.
   - Note: Usually one scout ant finds the sugar or biscuit by smell, wanders back towards the nest, and soon a trail of ants arrives. The scout leaves a smell trail, called a pheromone trail, on the way home. Salt usually gets few or no ants. Results vary with the kind of ant, so whatever happens is real data.
@@ -397,13 +394,12 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   *Child mode:* Say what you found. What numbers show it? Why did the ants walk in a line?
   - Ask: Claim? (good: Ants find sweet food by smell, and they find sugar faster than salt.)
   - Ask: Evidence? (good: After 30 minutes there were 24 ants on the sugar and only 1 on the salt.; The ants walked in a line from the sugar to their nest.)
-  - Ask: Reasoning? (good: Sugar is energy food. The first ant smelled it and left a smell trail home. The others followed the trail.)
+  - Ask: Reasoning? (good: Sugar is energy food. The first ant smelled the sugar and left a smell trail home. The others followed the trail.)
   - Check: Ants arrived at the sugar in a long line. How did they know the way? → **They followed a smell trail left by the first ant**
   - Think: If you wipe your finger across the ant trail, what will the ants do? Try it gently and see.
 
 ## Activities
 ### a1 · Breath on a Steel Tumbler (10 min)
-- **safety:** Nothing in this activity is unsafe.
 - **record:** Draw what you saw on the tumbler and the tissue. Write one thing you noticed and one thing you wonder.
 - **s1 (4 min)**  
   *Parent does:* 1. Hold the steel tumbler close to your child's mouth. 2. Your child breathes out slowly onto it, three times. 3. Then onto the mirror. 4. Then they hold a tissue strip under their nose and breathe in and out.  
@@ -411,7 +407,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   *Child mode:* Breathe out on the steel. What do you see? Hold the tissue under your nose. Watch it move.
   - Ask: What do you notice? (good: The steel goes misty.; Little drops of water appear.; The tissue blows away when I breathe out and comes closer when I breathe in.)
   - Ask: What do you wonder? (good: Where does the water come from?; Does a fish breathe like this?; What is in my breath?)
-  - Note: The mist is water. Breath is warm and full of water vapour, a gas. On the cooler steel, the vapour condenses: it turns into tiny drops. If the steel does not mist on a very hot day, cool it under the tap for a minute and dry it. Don't explain more yet. The unit will answer the child's wonders.
+  - Note: The mist is water. Breath is warm and full of water vapour, a gas. On the cooler steel, the vapour condenses: it turns into tiny drops. If the steel does not mist on a very hot day, cool it under the tap for a minute and dry it. Don't explain more yet.
 - **s2 (6 min)**  
   *Parent does:* 1. Your child sits still, one hand on the chest and one on the belly. 2. They breathe normally for ten breaths and notice which hand moves. 3. Then they take three big slow breaths.  
   *Parent says:* Close your eyes. One hand on your chest, one on your belly. Just notice. Which hand moves? Now take a big slow breath in. Where does the air go?  
@@ -422,7 +418,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 - **safety:** Only a grown-up cuts the bottle. Cover the cut edge with tape so it isn't sharp.
 - **record:** Draw your bottle lung. Label the balloon lung, the windpipe and the diaphragm. Draw arrows showing which way air goes when you pull down.
 - **s1 (8 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up cuts off the bottom third of the bottle and tapes the edge. 2. Push one balloon into the bottle neck, stretching its mouth over the outside of the neck. 3. Tie a knot in the second balloon and cut off its wide top half. Stretch the knotted part over the open bottom of the bottle. 4. Tape it so it is airtight.  
+  *Parent does:* 1. A grown-up cuts off the bottom third of the bottle and tapes the cut edge. 2. Push one balloon into the bottle neck, stretching its mouth over the outside of the neck. 3. Cut the second balloon across its middle and keep the half with the narrow neck. Tie a knot in that neck. 4. Stretch the cut, wide end over the open bottom of the bottle. Hold it with the rubber band, then tape it so it is airtight.  
   *Parent says:* We're going to build a lung. The balloon inside is the lung. The bottle neck is the windpipe. The stretchy balloon at the bottom is the diaphragm, the muscle under your lungs.  
   *Child mode:* A grown-up cuts the bottle. Put one balloon inside the neck. Stretch the other over the bottom. That one is your diaphragm.
 - **s2 (8 min)**  
@@ -440,7 +436,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   - Note: Children love finding what's wrong with a model. It's real science thinking: a model shows one idea, not everything.
   - Think: A fish has no diaphragm. How do they move water over their gills?
 ### a3 · Gill Watch: count a fish's breaths (20 min)
-- **safety:** Stay with a grown-up near ponds and tanks. Do not tap on aquarium glass. At a fish market, only look, and wash hands if you touch anything.
+- **safety:** Stay with a grown-up near ponds and tanks. At a fish market, only look, and wash hands if you touch anything.
 - **record:** Write how many times the fish's gill covers opened in one minute. Draw the fish and colour their gills.
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. Find one fish that is calm. 2. Look just behind their eyes at the gill covers, the flaps on each side. 3. Watch their mouth open and shut. 4. Count each time the gill covers open, for one minute, making a tally mark each time.  
@@ -459,7 +455,6 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   *Child mode:* Was the fish's number bigger or smaller than yours? Why might a fish breathe so fast?
   - Check: A small fish opened their gill covers 80 times a minute. You took 20 breaths. Why might the fish need so many? → **Water has much less oxygen than air, so the fish moves lots of water**
 ### a4 · Flat or Frilly? The gill shape test (20 min)
-- **safety:** Use child-safe scissors. Wipe up any spilled water.
 - **record:** Write which towel dried first and how long each took. Draw both and label which is like a gill.
 - **s1 (8 min)**  
   *Parent does:* 1. Take two paper towels the same size. 2. Crumple one tightly into a ball. 3. Cut the other into thin strips, like a comb, leaving the top edge joined. 4. Dip both in water for 5 seconds. Lift them out and let them drip for 10 seconds. Don't squeeze them, or the strips will tear. 5. Hang them side by side, under a fan if you have one.  
@@ -470,7 +465,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   *Parent does:* Every 10 minutes, for about 40 minutes, gently touch both towels and note how they feel: wet, damp or dry. Each check takes a minute, so do something else in between.  
   *Parent says:* Let's check. Touch them gently. Which feels drier? The water is leaving through the surface, just as oxygen enters through the surface of a gill.  
   *Child mode:* Every 10 minutes, touch both towels. Wet, damp or dry? Write it down.
-  - Note: The frilly towel usually dries much faster, often in half the time or less. Same paper, same dip in water. Only the shape changed. That's why it's a fair test.
+  - Note: The frilly towel usually dries much faster, often in half the time or less. The crumpled ball may still be damp at the end. That is the result. Same paper, same dip in water. Only the shape changed. That's why it's a fair test.
 - **s3 (7 min)**  
   *Parent does:* Talk about what the result means for gills and lungs.  
   *Parent says:* Same paper, same water, but the frilly one let the water out much faster. Gills are frilly. Lungs have millions of tiny bubbles. What's the trick?  
@@ -478,7 +473,6 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   - Check: In the towel test, the frilly towel dried faster than the crumpled ball. What does this tell us about gills? → **Gills are frilly so that lots of surface can take in oxygen fast**
   - Think: Out of water, a fish's gill threads stick together, like the crumpled towel. What happens to their surface then?
 ### a5 · Follow Your Nose: find the snack by smell (15 min)
-- **safety:** Walk slowly when blindfolded, on a clear floor. A grown-up guides.
 - **record:** Write how many tries it took to find the snack by smell. Write which animal you would like to have the nose of, and why.
 - **s1 (10 min)**  
   *Parent does:* 1. While your child is out of the room, put the snack in one bowl and cover all five. 2. Blindfold your child. 3. They sniff each bowl and choose one. 4. Try 3 rounds with different snacks.  
@@ -488,23 +482,22 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 - **s2 (5 min)**  
   *Parent does:* Talk about animal noses and other senses.  
   *Parent says:* A dog's nose is far, far better than ours. It can follow a smell trail days old. A mosquito finds you by the carbon dioxide you breathe out. A bat finds a moth by the echo. Which sense would help you most to find food in the dark?  
-  *Child mode:* A dog could find it at once. A mosquito smells your breath. A bat hears echoes. Which sense would you pick?
+  *Child mode:* A dog could find the snack at once. A mosquito smells your breath. A bat hears echoes. Which sense would you pick?
   - Check: A mosquito finds people in a dark room. Which of these helps them most? → **Smelling the carbon dioxide we breathe out, and sensing our warmth**
 ### a6 · How Long Can a Breath Last? (15 min)
-- **safety:** Do this sitting down, on dry land, never in water. Hold only as long as is comfortable, never until it hurts. Stop at once if you feel dizzy. Children with asthma or heart problems should skip the holding and just do the timing for others.
+- **safety:** Never hold your breath in water. Hold only as long as is comfortable, and stop at once if you feel dizzy. Children with asthma or heart problems should skip the holding and just time others.
 - **record:** Write your comfortable breath-hold time and the times of others in the family. Compare them with the animal times on the chart.
 - **s1 (8 min) · grown-up needed**  
-  *Parent does:* 1. Your child sits cross-legged. 2. They take one normal breath, not a huge one, and hold it. 3. Time how long they hold it comfortably. 4. Stop the moment it feels uncomfortable. 5. Time each family member.  
+  *Parent does:* 1. Your child sits cross-legged. 2. They take one normal breath, not a huge one, and hold it. 3. Time how long they hold it comfortably. 4. Stop the moment it feels uncomfortable. 5. Time anyone else at home who wants to try.  
   *Parent says:* Sit tall. Take a normal breath, and hold it gently. Don't push yourself. The moment you want to breathe, breathe. It's not a race to hurt. It's to notice.  
   *Child mode:* Sit tall. Take a normal breath. Hold it gently. Breathe the moment you want to. Never push.
   - Note: Most children can comfortably hold for 15 to 40 seconds. The urge to breathe comes mostly from carbon dioxide building up in the blood, not from running out of oxygen. Never let this become a contest to hold too long, and never do it in water.
 - **s2 (7 min)**  
-  *Parent does:* Show the chart of animal breath-holds and talk about it.  
+  *Parent does:* Look at the chart of animal breath-holds together.  
   *Parent says:* The Ganges river dolphin comes up every minute or two. Some whales stay down for over an hour. How do they do it? They store extra oxygen in their blood and muscles, and slow their hearts down.  
   *Child mode:* Look at the animals. A river dolphin holds their breath for one or two minutes. Some whales hold for over an hour!
-  - Check: Ganges river dolphins live in rivers all their lives. Why must they keep coming up? → **They breathe air with lungs, through a blowhole**
+  - Check: A sea turtle can rest under water for hours, but a Ganges river dolphin must come up every minute or two. Why can a resting turtle stay down so long? → **A resting body uses very little oxygen, so one breath lasts a long time**
 ### a7 · Mouth Tools Buffet (20 min)
-- **safety:** Use clean tools if you plan to eat any food. Don't run with the tweezers or sticks.
 - **record:** Make a table: tool, which food it was best at, and which animal has a mouth like that tool.
 - **s1 (14 min)**  
   *Parent does:* 1. Set out the foods. 2. Your child tries each tool on each food for 30 seconds. 3. Count how many pieces they collect, or how much juice they drink. 4. Write the best tool for each food.  
@@ -513,22 +506,21 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   - Ask: Which tool was best at the noodles in the atta? (good: The tweezers or sticks, like a long beak poking in mud.)
   - Ask: Which was best at the floating puffed rice? (good: The tea strainer, because the water runs out and the food stays.)
 - **s2 (6 min)**  
-  *Parent does:* Match each tool to an animal and talk about it.  
+  *Parent does:* Match each tool to an animal with a mouth like that tool.  
   *Parent says:* Your straw is like a butterfly's long tongue, sipping nectar. The strainer is like a flamingo's beak, sieving tiny food. The tweezers are like a heron's long beak, picking up food. The peg is like a parrot's strong beak, gripping a nut.  
   *Child mode:* Straw: butterfly. Strainer: flamingo. Tweezers: heron. Peg: parrot. Which was your favourite?
   - Check: A flamingo eats tiny shrimps floating in lake water. In the buffet, which tool worked like their beak? → **The tea strainer**
 
 ## Projects
 ### p1 · My Breath Diary (50 min, 5 days)
-- **safety:** Count breaths only. Never hold the breath for this project.
 - **record:** A table of breath counts at different times of day, and a line chart. Write when you breathed fastest and slowest, and why.
-- **schedule:** day 1: Make the diary table. Count breaths for one minute on waking and before bed. (10 min); day 2: Count breaths on waking, after playing outside, and before bed. (8 min); day 3: Count breaths while reading, after climbing stairs, and while a grown-up counts yours while you sleep. (8 min); day 4: Count the breaths of a pet, a sleeping sibling or a grandparent, with permission. (8 min); day 5: Draw a line chart of your breaths at each time. Write what you found. (16 min)
+- **schedule:** day 1: Make the diary table. Count breaths for one minute on waking and before bed. (10 min); day 2: Count breaths on waking, after running about, and before bed. (8 min); day 3: Count breaths while reading, after climbing stairs, and while a grown-up counts yours while you sleep. (8 min); day 4: Count the breaths of a pet or of another person at home, with permission. (8 min); day 5: Draw a line chart of your breaths at each time. Write what you found. (16 min)
 - **s1 (10 min)**  
   *Parent does:* Day 1. 1. Draw a table with columns: day, time, what I was doing, breaths in one minute. 2. Count on waking and before bed.  
   *Parent says:* For five days, you'll be a breath scientist. Each day we'll count your breaths at different times. At the end we'll see when you breathe fastest and slowest.  
   *Child mode:* Draw your diary table. Count your breaths when you wake up. Count again before bed.
 - **s2 (24 min)**  
-  *Parent does:* Days 2 to 4. Do the day's counts and write them in. On day 3, a grown-up counts the child's breaths while asleep. On day 4, count a pet or another family member.  
+  *Parent does:* Days 2 to 4. Do the day's counts and write them in. On day 3, a grown-up counts the child's breaths while asleep. On day 4, count a pet or another person at home, with permission.  
   *Parent says:* Today's counts are in the diary plan. Remember, sit the same way each time, and count for one whole minute.  
   *Child mode:* Do today's counts. Write each one in your table. Count for one whole minute.
   - Note: Sleeping breaths are usually slowest. A cat or dog at rest often breathes 20 to 30 times a minute. Small animals breathe faster than big ones.
@@ -537,7 +529,6 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   *Parent does:* Day 5. 1. Draw a line chart with the times along the bottom and breaths up the side. 2. Write a claim, evidence and reasoning.  
   *Parent says:* Let's draw a line chart. Each dot is one count. When was the line highest? When was it lowest? Why?  
   *Child mode:* Draw a dot for each count. Join the dots. When was the line highest? Why?
-  - Check: In the breath diary chart, the line is highest just after climbing stairs. Why? → **Leg muscles were working hard and needed more oxygen**
 
 ## Challenges
 ### c1 · Design a River-Bottom Hunter (30 min)
@@ -545,7 +536,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 - **your turn:** Now design your own river-bottom hunter. Give them a name. Draw them, label them, and explain to your family how they breathe and how they find food.
 - **constraints:** Your animal must get enough oxygen, even in summer.; It must find food in water too muddy to see through.; Draw it, label every special part, and say what it eats and how.
 - **general:** Give them lungs and let them come up to breathe, like the Ganges river dolphin.; Give them gills plus a way to gulp air, like the climbing perch and magur catfish.; Give them whiskers that feel and taste, like a catfish, or echolocation clicks like a dolphin.
-- **creative:** The Ganges river dolphin is nearly blind. They swim on their side, sweeping their long beak through the mud, and finds fish with clicks.; Some fish make weak electricity around their bodies and feel when something disturbs it. Could your animal do that?; Could your animal carry an air bubble with them, like the water spiders that live in silk bubbles underwater?
+- **creative:** The Ganges river dolphin is nearly blind. They swim on their side, sweeping their long beak through the mud, and find fish with clicks.; Some fish make weak electricity around their bodies and feel when something disturbs it. Could your animal do that?; Could your animal carry an air bubble with them, like the water spiders that live in silk bubbles underwater?
 - **s1 (8 min)**  
   *Parent does:* Read the problem with your child and talk about the two problems: little oxygen, and no light.  
   *Parent says:* Two problems. One: there isn't much oxygen in the water. Two: it's too dark and muddy to see. What could a body do about each one?  
@@ -559,7 +550,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   - Check: In a dark, muddy river, which sense would help an animal least to find food? → **Sharp eyesight**
 - **s3 (7 min)**  
   *Parent does:* Your child explains the design to someone in the family.  
-  *Parent says:* Tell Paati or a friend about your animal. How do they breathe? How do they find food? What would happen to them if the river got dirtier?  
+  *Parent says:* Tell someone at home or a friend about your animal. How do they breathe? How do they find food? What would happen to them if the river got dirtier?  
   *Child mode:* Show your drawing to someone. Explain how they breathe and find food.
   - Think: Real Ganges river dolphins are in danger. The water is dirtier, and dams block their way. How could people help them?
 ### c2 · Build a Filter-Feeder's Sieve (30 min)
@@ -587,7 +578,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 ### Breathing and finding food: the basics (core, 15 questions)
 1. (mcq) A rohu is a river fish who never leaves the water. Does a rohu need oxygen?  
    Options: Yes. Every cell in their body needs oxygen, and their gills take it out of the water / No. Fish live in water, so they do not need oxygen / Only when they jump out of the water  
-   **Answer:** Yes. Every cell in their body needs oxygen, and their gills take it out of the water. *Why:* Many people think fish do not breathe. But water has oxygen dissolved in it, and a fish's gills take it out. A rohu's cells use that oxygen to get energy from food, just as yours do.
+   **Answer:** Yes. Every cell in their body needs oxygen, and their gills take it out of the water. *Why:* Many people think fish do not breathe. But water has oxygen dissolved in it, and a fish's gills take the oxygen out. A rohu's cells use that oxygen to get energy from food, just as yours do.
 2. (fill) Fish take oxygen out of water with their ____.  
    **Answer:** ['gills']. *Why:* Gills are the feathery red parts under the flaps on a fish's head. Water flows over them and they take oxygen out.
 3. (sort) Sort these animals by how they mainly breathe.  
@@ -618,8 +609,8 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
    **Answer:** False. *Why:* False. All bats can see, and many see well. Many bats that hunt insects at night also use echolocation: they make high sounds and listen for the echoes. 'As blind as a bat' is an old saying, not a fact.
 14. (write) In the Mouth Tools Buffet, you tried kitchen tools as animal mouths. A flamingo's beak works like a sieve. A cow has wide, flat teeth. What does each mouth tell you about how that animal gets food?  
    **Answer:** The flamingo's sieve beak lets water out and keeps tiny shrimps and algae in, so she is a filter feeder. The cow's flat teeth grind grass, so she is a grazer who chews plants for hours.. *Why:* An animal's mouth fits the way they get food. A strong answer links each mouth shape to the food and how it is eaten.
-15. (perspective) Three friends argue about which way of breathing is best.  
-   **Answer:** A strong answer picks a side and gives a reason, for example that air holds much more oxygen. It then admits a fair point from another side, for example that a breathing part is best only where the animal lives. It may say that all three are thin, damp and close to blood.. *Why:* There is no single winner. Each breathing part suits the place the animal lives. Lungs suit air, gills suit water, and a frog's skin helps in both, as long as it stays damp.
+15. (perspective) Three girls argue about which way of breathing is best.  
+   **Answer:** A strong answer picks a side and gives a reason, for example that air holds much more oxygen. It then admits a fair point from another side, for example that a breathing part is best only where the animal lives. It may say that all three are thin, damp and close to blood.. *Why:* There is no single winner. Each breathing part suits the place the animal lives. Lungs suit air, gills suit water, and a frog's skin helps in both, as long as the skin stays damp.
 ### Breathing and finding food: think further (stretch, 15 questions)
 1. (mcq) A fish has gills full of blood. Out of water, they usually die, even though air has more oxygen than water. Why?  
    Options: Their soft gill threads stick together and dry out, so there is too little surface / Air is poisonous to fish / Fish get cold in air  
@@ -646,17 +637,17 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
    **Answer:** The cheetah. Chasing at high speed uses a lot of muscle, and working muscles need a lot of oxygen. A crocodile waiting still uses very little oxygen.. *Why:* Breathing rate goes with how hard the muscles are working.
 10. (label) Label the parts on the drawing of the breathing system: nose, windpipe, lungs, diaphragm.  
    **Answer:** ['nose', 'windpipe', 'lungs', 'diaphragm']. *Why:* Air goes in through the nose, down the windpipe, into the lungs. The diaphragm under the lungs pulls down to bring air in.
-11. (match) Match each way of getting food to an animal that uses it.  
+11. (match) Match each way of getting food to an animal that gets food this way.  
    **Answer:** grazing → cow; chasing → cheetah; waiting still → crocodile; filtering water → flamingo; trapping → spider; scavenging → vulture. *Why:* Each animal's body fits their way of eating: flat teeth for grazing, long legs for chasing, stillness for waiting, a sieve beak for filtering, a web for trapping, and a strong stomach for scavenging.
 12. (perspective) Earthworms often lie on wet roads after heavy rain. People explain this in different ways.  
    **Answer:** A strong answer picks one idea and gives evidence, for example that worms breathe through damp skin. It plans a fair test, for example drumming on damp soil with no rain to see if worms come up. It also says what is good about another idea.. *Why:* Scientists still argue about this, and more than one reason may be true. Testing one idea at a time is how they find out.
-13. (write) In the story 'The Fish in the Palm Tree', Selvi's grandmother keeps climbing perch in a pot of wet mud and wet leaves. The fish live for days. Why must the mud stay damp, even for a fish that breathes air?  
-   **Answer:** The climbing perch gulps air, but oxygen still has to pass through a thin, damp surface into the blood. If the fish dries out, their gills and labyrinth organ stop working, and they cannot breathe.. *Why:* Every breathing surface must be damp, because oxygen has to dissolve in water before it can pass into blood.
-14. (mcq) When you hold your breath, the need to breathe grows stronger and stronger. What mostly causes that strong need?  
+13. (mcq) When you hold your breath, the need to breathe grows stronger and stronger. What mostly causes that strong need?  
    Options: Carbon dioxide building up in your blood / Your lungs running completely out of oxygen / Your nose getting dry  
    **Answer:** Carbon dioxide building up in your blood. *Why:* Your body watches carbon dioxide most closely. Long before your blood runs low on oxygen, rising carbon dioxide makes you want to breathe. Picking 'out of oxygen' is a natural guess, but your blood still holds plenty of oxygen when the need begins.
-15. (truefalse) A crab who walks on the beach breathes with gills.  
+14. (truefalse) A crab who walks on the beach breathes with gills.  
    **Answer:** True. *Why:* True. Crabs breathe with gills, even on land. They keep their gills damp inside a covered space on each side of their body. If the gills dry out, the crab cannot breathe.
+15. (write) On a hot day, all the fish in a small pond swim to the surface and gulp with their mouths open. Why might this happen, and what could help them?  
+   **Answer:** Warm water holds less oxygen, and many fish in a small pond use up the oxygen. At the surface the water has a little more oxygen, so the fish gulp there. Bubbling air into the pond or moving the water adds oxygen.. *Why:* Fish need oxygen dissolved in water. Warm, crowded, still water runs short of it, which is why fish farmers and aquarium pumps bubble in air.
 ### Breathing and finding food: big thinking (challenge, 15 questions)
 1. (write) A plastic bag is very thin, but dry. A thick wet towel is damp, but not thin. Would either make a good breathing part for an animal? Explain, using what lungs, gills and frog skin all have in common.  
    **Answer:** Neither would work well. A breathing part must be thin, damp, have lots of surface and have blood flowing just underneath. The plastic bag is dry and has no blood, and the towel is too thick for oxygen to pass through quickly.. *Why:* Oxygen must dissolve in a wet layer and then pass through a very thin wall into blood. A strong answer names all the shared features and shows which one each object is missing.
@@ -686,7 +677,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
    **Answer:** smell and taste → Would work well; echolocation → Would work well; seeing colours → Would hardly work; feeling with whiskers → Would work well; spotting prey from far away by sight → Would hardly work; feeling electricity in the water → Would work well. *Why:* Light hardly reaches muddy water, so eyes help little. Smell, taste, touch, echoes and electricity all work in the dark. The Ganges river dolphin uses echoes, and catfish taste the water with their whiskers.
 12. (write) Design a breathing part for an animal that lives in thick mud with almost no oxygen. Draw it and explain why it would work.  
    **Answer:** For example: a long tube like a snorkel reaching up to the air, or skin with many folds to give lots of surface, or a mouth that gulps air like the climbing perch.. *Why:* Good designs give lots of surface, stay damp, or reach air.
-13. (mcq) Karthik, a boy in Class 4, says, 'We breathe in oxygen and breathe out carbon dioxide instead.' His sister Divya has done the Limewater Test and read about breath. What should Divya tell him?  
+13. (mcq) Karthik, a boy in Class 4, says, 'We breathe in oxygen and we breathe out carbon dioxide, nothing else.' His sister Divya has done the Limewater Test and read about breath. What should Divya tell him?  
    Options: Breathed-out air still has a lot of oxygen. It also has much more carbon dioxide than room air / He is completely right / We breathe out only water  
    **Answer:** Breathed-out air still has a lot of oxygen. It also has much more carbon dioxide than room air. *Why:* Room air has about 21 parts in 100 oxygen, and breathed-out air still has about 16. Your body takes only a small part of the oxygen in each breath. Breath also carries about 100 times more carbon dioxide than room air.
 14. (write) In the limewater test, your breath turned the water milky. The carbon dioxide in your breath was made in your cells. Where did the carbon in it come from?  
@@ -695,9 +686,9 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
    **Answer:** mudskipper, a fish who spends hours out on the mud → water kept inside big gill chambers, and damp skin that takes in oxygen; diving bell spider, who lives under water → a bubble of air held under water, like a tiny tent; earthworm, living in soil → thin, damp skin that takes in oxygen; grasshopper, whose muscles need air → air pipes that reach every part of the body. *Why:* Each body solves the same problem, getting oxygen to the cells, in a way that fits where the animal lives.
 
 ## Videos
-- **How Do Fish Breathe? Animal Science for Kids** (SciShow Kids, 3 min) id `zj5v3n6Nlm8`: A short, clear video for children on how gills take oxygen out of water. *Check:* Found by YouTube search for 'how do fish breathe gills'. Title and channel checked automatically. A parent may still preview it.
-- **This Titicaca Water Frog Breathes Oxygen Through its Skin** (Smithsonian Channel, 2 min) id `VosMbumTzIg`: Shows a real frog that lives in a cold lake and breathes almost only through their huge, baggy skin. Good for the skin breathing card. *Check:* Found by YouTube search for 'frog breathing through skin'. Title and channel checked automatically. A parent may still preview it.
-- **Gangetic River Dolphin communication through ultrasound clicks** (Wildlife Conservation Trust, 1 min) id `hXVkH_2Y2WM`: A one-minute clip from an Indian conservation group about the clicks the Ganges river dolphin uses. They breathe air and find food by echoes. *Check:* Found by YouTube search for 'ganges river dolphin echolocation'. Title and channel checked automatically. A parent should preview it, as it is short and may need explaining.
+- **How Do Fish Breathe? Animal Science for Kids** (SciShow Kids, 3 min) id `zj5v3n6Nlm8`: A short, clear video for children on how gills take oxygen out of water. *Check:* Title and channel matched by YouTube. A parent should still preview it.
+- **This Titicaca Water Frog Breathes Oxygen Through its Skin** (Smithsonian Channel, 2 min) id `VosMbumTzIg`: Shows a real frog that lives in a cold lake and breathes almost only through their huge, baggy skin. Good for the skin breathing card. *Check:* Title and channel matched by YouTube. A parent should still preview it.
+- **Gangetic River Dolphin communication through ultrasound clicks** (Wildlife Conservation Trust, 1 min) id `hXVkH_2Y2WM`: A one-minute clip from an Indian conservation group about the clicks the Ganges river dolphin uses. They breathe air and find food by echoes. *Check:* Title and channel matched by YouTube. A parent should still preview it.
 
 ## Quiz
 1. (mcq) A dog is fast asleep and not moving at all. Why does she still breathe?  
@@ -780,8 +771,8 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 
 ## Questions to ask kids
 - Where is your breath going right now?
-- Can you see this dog breathing? How many breaths in one minute?
-- How do you think that crow found the food you dropped?
+- Watch a dog or a cat. How many breaths does she take in one minute?
+- How do you think a crow finds food that you drop?
 - Why do you think the fish at the market have such red gills?
 - If you could have one animal's sense for a day, which would you pick?
 - Why do you breathe so hard after running?
@@ -793,26 +784,15 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 
 ## Jokes
 - Which fish comes out only at night? *A starfish.*
-- What do you call a fish with no eyes? *A fsh.*
 - Why don't fish play cricket? *They're scared of getting caught in the net.*
-- What did the lung say to the other lung? *We make a great pair.*
 - Why did the frog take the bus to work? *His car got toad away.*
 - Why do bats sleep upside down? *So they can hang out with their friends.*
-- What did the earthworm say when they came up after the rain? *Phew, I needed some fresh air!*
-- How does a dog find the remote control? *They just follow their nose.*
 - Why are fish so clever? *Because they swim in schools.*
-- What did the ant say to the sugar? *I'll tell all my friends about you.*
-- Why did the dolphin cross the river? *To get to the other tide.*
-- What is a frog's favourite drink? *Croak-a-cola.*
 - Why couldn't the whale keep a secret? *They always had to come up and blow it.*
 - What do you call a sleeping bull? *A bulldozer.*
-- Why did the bat go to the doctor? *They had a bad echo in their ears.*
-- Why do flamingos stand on one leg? *If they lifted both, they'd fall over.*
 - What is a crab's favourite game? *Pinch the parcel.*
 - Why was the owl so good at school? *They gave a hoot about their lessons.*
-- What did the mosquito say when they found a person? *Lunch is served.*
 - How do you make a goldfish old? *Take away the g.*
-- Why did the climbing perch walk to the next pond? *Their old pond went dry, and they were fed up with mud.*
 
 ## Connected maths
 - You counted your breaths for 15 seconds and got 5. A minute has four lots of 15 seconds. How many breaths would that be in one minute? **20 breaths in one minute.**. One minute is 15 + 15 + 15 + 15 seconds, so four lots of 15 seconds. You took 5 breaths in each lot. 5 + 5 + 5 + 5 = 20. Or 4 times 5 is 20. (queues `math.multiplication.equal-groups.L3`)
@@ -820,7 +800,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 - A small fish opened their gill covers 40 times in 30 seconds. How many times would that be in one minute? **80 times in one minute.**. One minute is two lots of 30 seconds. 40 + 40 = 80. So the fish opened their gill covers 80 times a minute. That is 4 times as many as a child's 20 breaths. (queues `math.multiplication.equal-groups.L3`)
 - Look at the ant chart. How many ants came to the three baits altogether after 30 minutes? How many more ants were on the sugar than on the salt? **40 ants altogether. 23 more on the sugar than on the salt.**. Sugar 24, biscuit 15 and salt 1. 24 + 15 = 39, and 39 + 1 = 40 altogether. Sugar minus salt is 24 take away 1, which is 23. (queues `math.data.bar-charts.L3`)
 - In the breath diary, you breathed 16 times a minute asleep and 34 times a minute after climbing stairs. What is the difference? **18 breaths a minute.**. 34 take away 16. 34 take away 10 is 24. 24 take away 6 is 18. So you breathed 18 more times a minute after the stairs. (queues `math.addition-subtraction.mental-strategies.L3`)
-- In 10,000 drops of room air, about 4 are carbon dioxide. In 10,000 drops of breathed-out air, about 400 are carbon dioxide. How many times as much carbon dioxide is in your breath? Does that fit what you saw in the limewater test? **100 times as much. Yes: the breath glass turned milky fast, and the room-air glass stayed almost clear.**. 400 divided by 4 is 100, because 4 times 100 is 400. With 100 times as much carbon dioxide, breath turns limewater milky much faster than room air does. (queues `math.division.division-facts.L3`)
+- In 10,000 parts of room air, about 4 are carbon dioxide. In 10,000 parts of breathed-out air, about 400 are carbon dioxide. How many times as much carbon dioxide is in your breath? Does that fit what you saw in the limewater test? **100 times as much. Yes: the breath glass turned milky fast, and the room-air glass stayed almost clear.**. 400 divided by 4 is 100, because 4 times 100 is 400. With 100 times as much carbon dioxide, breath turns limewater milky much faster than room air does. (queues `math.division.division-facts.L3`)
 
 ## Song
 Every Creature Counts (sci.animals.L3): Topic-level song
@@ -836,12 +816,11 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 - [Taraporewala Aquarium]() · place · Mumbai: One of India's oldest public aquariums. Count gill beats of different fish and compare them.
 - [Vikramshila Gangetic Dolphin Sanctuary]() · place · Bhagalpur, Bihar: A stretch of the Ganga protected for river dolphins. With luck you can see them come up to breathe.
 - [Keoladeo National Park]() · place · Bharatpur, Rajasthan: A wetland where many birds, including some bar-headed geese, spend the winter. Watch herons, storks and kingfishers finding food.
-- [A fish market, a pond or a garden near you]() · place · anywhere: Look at gills at the market, frogs and fish at a pond, and ants and earthworms in the garden.
 
 ## Things to buy
 - [Edible chuna (lime paste), a small tub](https://www.amazon.in/s?k=edible+chuna+lime+paste) (material): Used to make limewater for the breath test. Paan shops sell it too. Used in e2. 
 - [A pack of balloons](https://www.amazon.in/s?k=balloons+pack) (material): For the bottle lung model. Used in a2. 
-- [What Do You Do with a Tail Like This? by Steve Jenkins and Robin Page](https://www.amazon.in/s?k=What+Do+You+Do+with+a+Tail+Like+This+Steve+Jenkins) (book): A beautiful picture book about how animals use noses, ears, eyes, mouths, feet and tails, many of them to find food. Used in a5, a7, c1. Read a few pages after Follow Your Nose or the Mouth Tools Buffet, and guess each animal before turning the page.
+- [What Do You Do with a Tail Like This? by Steve Jenkins and Robin Page](https://www.amazon.in/s?k=What+Do+You+Do+with+a+Tail+Like+This+Steve+Jenkins) (book): A beautiful picture book about how animals use noses, ears, eyes, mouths, feet and tails, many of them to find food. Used in a5, a7, c1. 
 
 ## Warm-up
 - Fish breathe with ____. → gills
@@ -858,7 +837,7 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 ## Plan
 - Start options: intro, a1, story, e2, e1, g1, big_questions, cards
 - Default order: intro → a1 → e1 → summary → terms → explanations → story → a2 → a3 → a4 → g1 → videos → ws-core → e2 → a5 → e3 → g2 → a6 → a7 → agreed → challenging → big_questions → ws-stretch → c1 → c2 → p1 → ws-challenge → open_questions → roots → quiz
-- Core: a1, e1, a2, a3, g1, ws-core, e2, a5, e3
+- Core: a1, e1, a2, g1, ws-core, e2, a5, e3
 
 ## Sources
 - DeepKids V0.1 Activity Box: Yoga Week, the breath-hold challenge (adapted as How Long Can a Breath Last?, kept gentle and comfortable)
