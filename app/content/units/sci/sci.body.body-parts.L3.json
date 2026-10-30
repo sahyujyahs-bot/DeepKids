@@ -891,7 +891,7 @@
     },
     {
      "t": "mcq",
-     "p": "Dust blows into Meenakshi's eye at the bus stop. What should she do first?",
+     "p": "Dust blows into your eye at the bus stop. What should you do first?",
      "opts": [
       "Blink a lot, and rinse with clean water if the dust stays",
       "Rub the eye hard",
@@ -910,7 +910,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi rubs oil and turmeric on her hands, like in the oily hands activity. Then she rinses them in plain water for 20 seconds. What will she most likely see?",
+     "p": "A girl rubs oil and turmeric on her hands, like in the oily hands activity. Then she rinses them in plain water for 20 seconds. What will she most likely see?",
      "how": "a3",
      "opts": [
       "Most of the turmeric is still stuck, because water slides over the oil",
@@ -957,7 +957,7 @@
     },
     {
      "t": "mcq",
-     "p": "Divya's little brother asks, 'What are the parts under my underwear called?' What is the best answer for Divya to give?",
+     "p": "A girl's little brother asks, 'What are the parts under my underwear called?' What is the best answer for her to give?",
      "opts": [
       "They are private parts. A boy has a penis, a girl has a vulva, and everyone has a bottom.",
       "Those are rude words. Don't ask.",
@@ -1030,7 +1030,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "In the bread test, Sana forgot to seal the untouched slice. She left it open on the kitchen shelf for 6 days. What will probably happen?",
+     "p": "In the bread test, a girl forgot to seal the untouched slice. She left it open on the kitchen shelf for 6 days. What will probably happen?",
      "how": "e1",
      "opts": [
       "It grows spots too, because mould spores from the air land on the bread",
@@ -1039,11 +1039,11 @@
       "It grows fewer spots than ever"
      ],
      "a": 0,
-     "why": "Mould spores float in the air everywhere. The sealed untouched slice shows what bread does with no hands and no air. Without the seal, Sana can't tell if spots came from hands or from the air, so the test is no longer fair."
+     "why": "Mould spores float in the air everywhere. The sealed untouched slice shows what bread does with no hands and no air. Without the seal, she can't tell if spots came from hands or from the air, so the test is no longer fair."
     },
     {
      "t": "mcq",
-     "p": "Revathi marks her thumbnail for the nail tracker. In 10 days the mark moves 1 millimetre. If her nail keeps growing at the same speed, about how far will the mark move in 30 days?",
+     "p": "You mark your thumbnail for the nail tracker. In 10 days the mark moves 1 millimetre. If your nail keeps growing at the same speed, about how far will the mark move in 30 days?",
      "how": "p1",
      "opts": [
       "1 millimetre",
@@ -1070,7 +1070,7 @@
     },
     {
      "t": "mcq",
-     "p": "Divya says, 'My egg in vinegar made lots of bubbles. Bubbles mean cleaning, so vinegar must be good for washing teeth.' What is wrong with her thinking?",
+     "p": "Divya, a girl in Class 4, says, 'My egg in vinegar made lots of bubbles. Bubbles mean cleaning, so vinegar must be good for washing teeth.' What is wrong with her thinking?",
      "how": "e3",
      "opts": [
       "The bubbles show the acid eating the shell. Acid eats tooth enamel too, so it would harm teeth.",
@@ -1206,7 +1206,7 @@
     },
     {
      "t": "mcq",
-     "p": "Anjali walks barefoot on wet soil near a drain. What is the main health reason she should wear chappals?",
+     "p": "A girl walks barefoot on wet soil near a drain. What is the main health reason she should wear chappals?",
      "opts": [
       "Tiny hookworms in damp, dirty soil can get in through bare skin",
       "Chappals make her taller",
@@ -1309,7 +1309,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi does a new bread test. She touches one slice after washing with soap for 2 seconds, and another after washing with soap for 20 seconds. What do you predict?",
+     "p": "A girl does a new bread test. She touches one slice after washing with soap for 2 seconds, and another after washing with soap for 20 seconds. What do you predict?",
      "how": "e1",
      "opts": [
       "The 20-second slice grows fewer spots, because longer rubbing loosens more oil and germs",
@@ -1382,7 +1382,7 @@
     },
     {
      "t": "mcq",
-     "p": "When Kavya has a cold, her nose runs much more than usual. Why does her nose make so much extra mucus?",
+     "p": "When you have a cold, your nose runs much more than usual. Why does your nose make so much extra mucus?",
      "opts": [
       "To trap the cold germs and wash them out",
       "Because the nose is full of dirt",
@@ -2775,7 +2775,7 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Kavya looks at herself in the mirror. Which organ can she see?",
+   "p": "You look at yourself in the mirror. Which organ can you see?",
    "opts": [
     "Skin",
     "Heart",
@@ -2788,7 +2788,7 @@
   },
   {
    "t": "mcq",
-   "p": "Anjali has a cold, and her nose is blocked. Her favourite dosa suddenly tastes dull. Why?",
+   "p": "You have a cold, and your nose is blocked. Your favourite dosa suddenly tastes dull. Why?",
    "opts": [
     "Much of what we call taste is really smell, and her blocked nose can't smell the food",
     "Colds make the dosa go bad",
@@ -2801,7 +2801,7 @@
   },
   {
    "t": "mcq",
-   "p": "Revathi bathes every day, but her ears still make yellow wax. What does that show?",
+   "p": "A girl bathes every day, but her ears still make yellow wax. What does that show?",
    "opts": [
     "Wax is a guard the ear makes on purpose, not a sign of dirt",
     "Her ears are very dirty",
@@ -2840,7 +2840,7 @@
   },
   {
    "t": "mcq",
-   "p": "Meenakshi scrapes her knee. A week later, new skin covers it. Where did the new skin come from?",
+   "p": "A girl scrapes her knee. A week later, new skin covers it. Where did the new skin come from?",
    "opts": [
     "Living cells underneath, which keep making new skin cells",
     "The scab turned into skin",
@@ -2867,7 +2867,7 @@
   },
   {
    "t": "mcq",
-   "p": "Kavya's bread test gave these spots on day 6. Dirty hands: 11. Washed with water only: 6. Washed with soap: 2. Untouched: 1. What can she say?",
+   "p": "A girl's bread test gave these spots on day 6. Dirty hands: 11. Washed with water only: 6. Washed with soap: 2. Untouched: 1. What can she say?",
    "opts": [
     "Soap took away far more germs than water alone, but not quite every one",
     "Water works just as well as soap",

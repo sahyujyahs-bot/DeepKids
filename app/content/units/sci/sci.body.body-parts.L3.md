@@ -659,12 +659,12 @@ Many years later, the government gave her uncle a reward and an honour for his w
    **Answer:** Eyes → see; Ears → hear; Nose → breathe in air and smell; Skin → keep germs out and feel touch; Teeth → bite and chew food; Feet → carry the body's weight. *Why:* Each external organ has a job. Some do more than one: the nose breathes and smells, and the skin guards and feels.
 3. (sort) Some things on the body look like dirt but are really guards. Sort these into GUARD and DIRT TO WASH OFF.  
    **Answer:** earwax → Guard; mucus in the nose → Guard; tears → Guard; eyelashes → Guard; mud on your knees → Dirt to wash off; oil on your hands after eating vada → Dirt to wash off. *Why:* Wax, mucus, tears and lashes are made by the body to trap or wash away dust and germs. Mud and food oil come from outside, and germs can stick in them, so we wash them off.
-4. (mcq) Dust blows into Meenakshi's eye at the bus stop. What should she do first?  
+4. (mcq) Dust blows into your eye at the bus stop. What should you do first?  
    Options: Blink a lot, and rinse with clean water if the dust stays / Rub the eye hard / Pull out her eyelashes / Put in any eye drops from the cupboard  
    **Answer:** Blink a lot, and rinse with clean water if the dust stays. *Why:* Blinking spreads tears, and tears wash dust to the corner of the eye. Clean water helps if it stays. Rubbing hard can scratch the eye, and only a doctor should choose eye drops.
 5. (truefalse) If you can't see any dirt on your hands, they are clean.  
    **Answer:** False. *Why:* False. Germs and mould spores are far too small to see. In the bread test, hands that looked clean still left spots on the bread. Looking is not enough. Washing with soap is the safe way.
-6. (mcq) Lakshmi rubs oil and turmeric on her hands, like in the oily hands activity. Then she rinses them in plain water for 20 seconds. What will she most likely see?  
+6. (mcq) A girl rubs oil and turmeric on her hands, like in the oily hands activity. Then she rinses them in plain water for 20 seconds. What will she most likely see?  
    Options: Most of the turmeric is still stuck, because water slides over the oil / All the turmeric is gone / The turmeric turns into soap / Her hands turn blue  
    **Answer:** Most of the turmeric is still stuck, because water slides over the oil. *Why:* Turmeric sticks in the oil, the way germs stick in the oil on our skin. Water and oil do not mix, so water slides over. Soap grabs the oil, so water can then carry it away.
 7. (write) Think about your bread test. Which slice grew the most spots by day 6? Say why you think that slice grew the most.  
@@ -676,7 +676,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
 10. (mcq) Farhan, a boy in Class 2, sneezes into his hand. Then he opens the fridge door. Why is this a problem?  
    Options: Germs from his sneeze are now on the handle, and the next person can pick them up / The fridge gets warm / Sneezing makes the food go bad at once / There is no problem  
    **Answer:** Germs from his sneeze are now on the handle, and the next person can pick them up. *Why:* Hands touch everything, so they spread germs to door handles, food and people. Sneezing into the elbow is better, because the elbow touches far less afterwards.
-11. (mcq) Divya's little brother asks, 'What are the parts under my underwear called?' What is the best answer for Divya to give?  
+11. (mcq) A girl's little brother asks, 'What are the parts under my underwear called?' What is the best answer for her to give?  
    Options: They are private parts. A boy has a penis, a girl has a vulva, and everyone has a bottom. / Those are rude words. Don't ask. / They don't have names. / Only doctors can say.  
    **Answer:** They are private parts. A boy has a penis, a girl has a vulva, and everyone has a bottom.. *Why:* These are correct body words, like elbow or knee. A child who knows the right words can tell a doctor or a trusted grown-up clearly if something hurts or feels wrong.
 12. (write) Someone you know says, 'This touch is our secret. Don't tell anyone.' What do you do? Why is it never your fault?  
@@ -690,17 +690,17 @@ Many years later, the government gave her uncle a reward and an honour for his w
 16. (perspective) Three people at home argue about whether hair is alive.  
    **Answer:** A strong answer picks a side and backs it with evidence, such as 'a haircut does not hurt, so the part we cut has no living nerves' or 'my nail tracker mark moved, so something is still growing'. It then admits a fair point from another side.. *Why:* This is a real puzzle about what 'alive' means. The hair shaft is dead keratin. The root is living and keeps adding cells. So hair is a dead thing made by a living body.
 ### Guards and Growing (stretch) (stretch, 16 questions)
-1. (mcq) In the bread test, Sana forgot to seal the untouched slice. She left it open on the kitchen shelf for 6 days. What will probably happen?  
+1. (mcq) In the bread test, a girl forgot to seal the untouched slice. She left it open on the kitchen shelf for 6 days. What will probably happen?  
    Options: It grows spots too, because mould spores from the air land on the bread / It stays perfectly clean, because no hands touched it / It turns into toast / It grows fewer spots than ever  
-   **Answer:** It grows spots too, because mould spores from the air land on the bread. *Why:* Mould spores float in the air everywhere. The sealed untouched slice shows what bread does with no hands and no air. Without the seal, Sana can't tell if spots came from hands or from the air, so the test is no longer fair.
-2. (mcq) Revathi marks her thumbnail for the nail tracker. In 10 days the mark moves 1 millimetre. If her nail keeps growing at the same speed, about how far will the mark move in 30 days?  
+   **Answer:** It grows spots too, because mould spores from the air land on the bread. *Why:* Mould spores float in the air everywhere. The sealed untouched slice shows what bread does with no hands and no air. Without the seal, she can't tell if spots came from hands or from the air, so the test is no longer fair.
+2. (mcq) You mark your thumbnail for the nail tracker. In 10 days the mark moves 1 millimetre. If your nail keeps growing at the same speed, about how far will the mark move in 30 days?  
    Options: 1 millimetre / 3 millimetres / 10 millimetres / 30 millimetres  
    **Answer:** 3 millimetres. *Why:* 30 days is three lots of 10 days. 1 + 1 + 1 = 3 millimetres. Picking 30 mixes up the number of days with the length.
 3. (write) In the sticky tape skin test, which place on your body gave the most flakes? Why do you think so? What does this tell you about your outer skin?  
    **Answer:** For example: the elbow gave the most flakes. The elbow skin is dry and rubs on things, so more dead cells come loose. It tells me my outer skin is dead cells that keep flaking off while new ones grow underneath.. *Why:* A strong answer uses the child's own strips, compares places, and explains the flakes as old skin being replaced.
 4. (truefalse) Shaving hair makes it grow back thicker.  
    **Answer:** False. *Why:* False. Cutting removes only the dead part. The root does not change. Mildred Trotter, an American scientist, tested this in 1928, and the hair grew back the same. New short hair only feels rough because its cut end is blunt.
-5. (mcq) Divya says, 'My egg in vinegar made lots of bubbles. Bubbles mean cleaning, so vinegar must be good for washing teeth.' What is wrong with her thinking?  
+5. (mcq) Divya, a girl in Class 4, says, 'My egg in vinegar made lots of bubbles. Bubbles mean cleaning, so vinegar must be good for washing teeth.' What is wrong with her thinking?  
    Options: The bubbles show the acid eating the shell. Acid eats tooth enamel too, so it would harm teeth. / Nothing is wrong. Vinegar cleans teeth well. / The bubbles came from the egg breathing. / Vinegar only works on brown eggs.  
    **Answer:** The bubbles show the acid eating the shell. Acid eats tooth enamel too, so it would harm teeth.. *Why:* Vinegar is an acid. It dissolves the chalky eggshell and gives off a gas, which makes the bubbles. Tooth enamel is also hard and made with calcium, so acid wears it away. Germs in the mouth make acid from sugar in the same way.
 6. (mcq) In the egg test, one egg was covered in toothpaste for an hour before both went into vinegar. Which shell usually feels smoother the next day?  
@@ -719,7 +719,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
    **Answer:** A strong answer picks an idea and gives evidence, such as 'I could feel a single grain of rice with my fingertip but not with my elbow'. It then admits a fair point from another side, for example that ridges may help grip on wet or rough things.. *Why:* Scientists still argue about this. Ridges may help us feel, may help grip on wet or rough surfaces, and may do several jobs at once.
 12. (write) Nails grow about 3 millimetres a month. How often do you think you should cut them? Why do germs collect under long nails?  
    **Answer:** About every one or two weeks, so they never grow long. Under a long nail there is a gap where dirt and food collect. Soap and water can't reach in well, so germs stay there and get onto food.. *Why:* A strong answer uses the growth speed to choose how often, and explains the gap under the nail.
-13. (mcq) Anjali walks barefoot on wet soil near a drain. What is the main health reason she should wear chappals?  
+13. (mcq) A girl walks barefoot on wet soil near a drain. What is the main health reason she should wear chappals?  
    Options: Tiny hookworms in damp, dirty soil can get in through bare skin / Chappals make her taller / Bare feet make her run slower / Feet look nicer in chappals  
    **Answer:** Tiny hookworms in damp, dirty soil can get in through bare skin. *Why:* Young hookworms live in damp, dirty soil and can get in through the skin of bare feet. Chappals also protect from glass and hot roads.
 14. (draw) Draw yourself after running on a hot day. Show where the sweat comes out of your skin. Draw arrows to show what happens to your body's heat as the sweat dries.  
@@ -740,7 +740,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
    **Answer:** Any thoughtful answer. For example: I thought I ended at my skin. But my old skin flakes off and becomes dust, and I leave fingerprints on everything I touch. So it is hard to say exactly where I stop.. *Why:* This is a big question with no single answer. A strong answer uses what the child saw in the sticky tape test.
 5. (write) In 1847, a doctor called Ignaz Semmelweis made doctors in his hospital wash their hands in chlorine water. Deaths of mothers in his ward fell from about 1 in 10 to 1 or 2 in 100. Many doctors still refused to believe him for years. Why do you think they found it hard to believe?  
    **Answer:** Germs are too small to see, so the doctors could not see anything on their hands. They also did not like being told that their own hands had made mothers ill. But the fall in deaths was big and clear evidence.. *Why:* A strong answer gives a reason people resist an idea, and says what evidence should have changed their minds.
-6. (mcq) Lakshmi does a new bread test. She touches one slice after washing with soap for 2 seconds, and another after washing with soap for 20 seconds. What do you predict?  
+6. (mcq) A girl does a new bread test. She touches one slice after washing with soap for 2 seconds, and another after washing with soap for 20 seconds. What do you predict?  
    Options: The 20-second slice grows fewer spots, because longer rubbing loosens more oil and germs / Both grow the same, because soap is soap / The 2-second slice grows fewer spots / Neither grows any spots  
    **Answer:** The 20-second slice grows fewer spots, because longer rubbing loosens more oil and germs. *Why:* Soap needs time and rubbing to grab the oil that germs stick in, all over the hand. A quick splash misses most of it. That is why we rub for about 20 seconds.
 7. (write) In the blink counter, you counted a grown-up's blinks in one minute while chatting. Why might a long time staring at a screen make your eyes dry and tired? How could you test it?  
@@ -759,7 +759,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
    **Answer:** 3. *Why:* The first three take away only dead cells, so they do not hurt or bleed. A cut on the finger goes down to living cells, nerves and blood, so it hurts and bleeds.
 13. (truefalse) Soap that says 'antibacterial' on the box cleans hands much better at home than ordinary soap.  
    **Answer:** False. *Why:* False. Many people believe this because of advertisements. Studies found ordinary soap, rubbed for 20 seconds, works just as well for everyday handwashing. What matters most is the rubbing and rinsing.
-14. (mcq) When Kavya has a cold, her nose runs much more than usual. Why does her nose make so much extra mucus?  
+14. (mcq) When you have a cold, your nose runs much more than usual. Why does your nose make so much extra mucus?  
    Options: To trap the cold germs and wash them out / Because the nose is full of dirt / Because the brain is leaking / Because she drank too much water  
    **Answer:** To trap the cold germs and wash them out. *Why:* Mucus is one of the nose's guards. When germs get in, the nose makes more of it to trap them and carry them out. That is why we blow the nose into a tissue and then wash hands.
 15. (sort) Sort these into what SCIENTISTS AGREE ON and what SCIENTISTS STILL ARGUE ABOUT.  
@@ -774,13 +774,13 @@ Many years later, the government gave her uncle a reward and an honour for his w
 - **Body safety for children: my body belongs to me** (a trusted child safety organisation, 4 min) id `to find`: A calm, child-friendly video on private parts, safe and unsafe touch, and telling a trusted adult. *Check:* Not checked: a parent should watch it first, and choose one that uses correct body names and a calm tone.
 
 ## Quiz
-1. (mcq) Kavya looks at herself in the mirror. Which organ can she see?  
+1. (mcq) You look at yourself in the mirror. Which organ can you see?  
    Options: Skin / Heart / Lungs / Stomach  
    **Answer:** Skin. *Why:* Skin is an external organ, on the outside, and it is the biggest one. The heart, lungs and stomach are internal organs, inside the body.
-2. (mcq) Anjali has a cold, and her nose is blocked. Her favourite dosa suddenly tastes dull. Why?  
+2. (mcq) You have a cold, and your nose is blocked. Your favourite dosa suddenly tastes dull. Why?  
    Options: Much of what we call taste is really smell, and her blocked nose can't smell the food / Colds make the dosa go bad / Her tongue has stopped working for ever / Dosa only tastes good on sunny days  
    **Answer:** Much of what we call taste is really smell, and her blocked nose can't smell the food. *Why:* The tongue tastes only sweet, salty, sour, bitter and savoury. The nose picks up all the rest of the flavour. External organs work as a team, so when one is blocked, another seems to stop working too.
-3. (mcq) Revathi bathes every day, but her ears still make yellow wax. What does that show?  
+3. (mcq) A girl bathes every day, but her ears still make yellow wax. What does that show?  
    Options: Wax is a guard the ear makes on purpose, not a sign of dirt / Her ears are very dirty / She is not washing properly / Wax only grows in dirty ears  
    **Answer:** Wax is a guard the ear makes on purpose, not a sign of dirt. *Why:* Clean ears make wax too. Wax traps dust and germs and moves out by itself. Picking 'very dirty' is the most common idea, and it is wrong.
 4. (mcq) What do eyelashes and eyebrows have in common?  
@@ -789,13 +789,13 @@ Many years later, the government gave her uncle a reward and an honour for his w
 5. (mcq) A haircut does not hurt, but pulling out one hair does. Why?  
    Options: The hair we see is dead, but the root is alive and has nerves around it / Pulling is always harder than cutting / The barber is more careful / Hair is made of bone  
    **Answer:** The hair we see is dead, but the root is alive and has nerves around it. *Why:* The part we cut is dead keratin. The root sits in living skin with nerves, so pulling it hurts.
-6. (mcq) Meenakshi scrapes her knee. A week later, new skin covers it. Where did the new skin come from?  
+6. (mcq) A girl scrapes her knee. A week later, new skin covers it. Where did the new skin come from?  
    Options: Living cells underneath, which keep making new skin cells / The scab turned into skin / Skin from the other knee moved over / The plaster made it  
    **Answer:** Living cells underneath, which keep making new skin cells. *Why:* Living cells under the top layer keep dividing and pushing up new cells. That is how the outer skin renews itself, and how a scrape heals.
 7. (mcq) In the bread test, why was one slice slid into its bag with a spoon and never touched?  
    Options: To compare: it shows how much the bread grows with no hands at all / Because there were not enough hands / To make it go bad faster / It was the slice for eating  
    **Answer:** To compare: it shows how much the bread grows with no hands at all. *Why:* The untouched slice is the comparison. If the hand slices grew more spots than it, the extra spots came from the hands.
-8. (mcq) Kavya's bread test gave these spots on day 6. Dirty hands: 11. Washed with water only: 6. Washed with soap: 2. Untouched: 1. What can she say?  
+8. (mcq) A girl's bread test gave these spots on day 6. Dirty hands: 11. Washed with water only: 6. Washed with soap: 2. Untouched: 1. What can she say?  
    Options: Soap took away far more germs than water alone, but not quite every one / Water works just as well as soap / Soap made the bread grow spots / Washing makes no difference  
    **Answer:** Soap took away far more germs than water alone, but not quite every one. *Why:* The soap slice had 2 spots, much closer to the untouched slice than the water-only slice with 6. So soap removes most germs and spores. It does not remove every single one, and nothing needs to.
 9. (mcq) Why is brushing at night most important?  
