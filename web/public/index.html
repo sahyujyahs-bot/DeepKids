@@ -1040,6 +1040,25 @@ dialog.sheet::backdrop {
   padding: 14px 0;
   border-top: 2px dashed var(--line);
 }
+.shoprow {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 12px;
+  align-items: center;
+  padding: 12px 0;
+  border-top: 2px dashed var(--line);
+}
+.shoprow:first-child {
+  border-top: 0;
+}
+.shoprow > div {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+.shoprow.done b {
+  text-decoration: line-through;
+  color: var(--muted);
+}
 .taskrow:first-child {
   border-top: 0;
 }
@@ -5179,6 +5198,13 @@ dialog .fxfab {
   box-shadow: 0 6px 16px #0003;
   border-color: var(--tang);
 }
+.fxpc.two .pcb,
+.fxpc.two.on .pcf {
+  display: none;
+}
+.fxpc.two.on .pcb {
+  display: block;
+}
 .fxpieces.tokens .fxpc {
   min-height: 44px;
   border-radius: 50%;
@@ -6358,9 +6384,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="4eb1cb6cc348c13342";window.DK_APPV="4eb1cb6cc3";window.DK_DATAV="48c1196894"</script>
-<script src="/config.js?v=4eb1cb6cc348c13342"></script>
+<script>window.DK_BUILD="e593ab9aa636593342";window.DK_APPV="e593ab9aa6";window.DK_DATAV="36594b1a5b"</script>
+<script src="/config.js?v=e593ab9aa636593342"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=4eb1cb6cc348c13342"></script>
+<script src="/platform.js?v=e593ab9aa636593342"></script>
 </body>
 </html>
