@@ -693,7 +693,13 @@
         "credit": "S.MORE, CC0, via iNaturalist"
        }
       },
-      "Earthworm",
+      {
+       "f": "Earthworm",
+       "img": {
+        "src": "media/cards/habitats-g1-0-17.jpg",
+        "credit": "R K, CC BY, via iNaturalist"
+       }
+      },
       "Tube worm at a deep sea vent",
       "Bacteria in your tummy",
       "TWIST: a mudskipper, a fish that walks on mud. Where do they go?",
