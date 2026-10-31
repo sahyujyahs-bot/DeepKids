@@ -568,11 +568,23 @@
      "kind": "cards",
      "title": "24 food cards to cut out (each shows what it gives the body)",
      "items": [
-      "Rice: 2 energy",
+      {
+       "f": "Rice: 2 energy",
+       "img": {
+        "src": "media/cards/balanced-diet-g1-0-00.jpg",
+        "credit": "Utain Pummarin, CC BY, via iNaturalist"
+       }
+      },
       "Chapati: 2 energy, 1 fibre",
       "Ragi mudde: 2 energy, 1 calcium, 1 fibre",
       "Poha with peanuts: 2 energy, 1 protein",
-      "Banana: 1 energy, 1 fibre",
+      {
+       "f": "Banana: 1 energy, 1 fibre",
+       "img": {
+        "src": "media/cards/balanced-diet-g1-0-04.jpg",
+        "credit": "Nautilus 211, CC0, via iNaturalist"
+       }
+      },
       "Moong dal: 2 protein, 1 iron, 1 fibre",
       "Chana sundal: 2 protein, 1 iron, 1 fibre",
       "Sprouts chaat: 1 protein, 1 vitamin C, 1 fibre",
@@ -585,8 +597,20 @@
       "Handful of peanuts: 1 protein, 1 fat, 1 energy",
       "Keerai poriyal (spinach): 1 iron, 1 vitamin A, 1 fibre",
       "Carrot sticks: 1 vitamin A, 1 fibre",
-      "Amla: 1 vitamin C",
-      "Guava: 1 vitamin C, 1 fibre",
+      {
+       "f": "Amla: 1 vitamin C",
+       "img": {
+        "src": "media/cards/balanced-diet-g1-0-17.jpg",
+        "credit": "rajesh rocky, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Guava: 1 vitamin C, 1 fibre",
+       "img": {
+        "src": "media/cards/balanced-diet-g1-0-18.jpg",
+        "credit": "Ashwin A, CC BY, via iNaturalist"
+       }
+      },
       "Mango: 1 energy, 1 vitamin A, 1 vitamin C",
       "Spoon of ghee: 1 fat",
       "Jalebi (festival treat): 2 energy",

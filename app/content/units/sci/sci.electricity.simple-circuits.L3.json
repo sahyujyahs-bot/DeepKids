@@ -433,10 +433,34 @@
         "credit": "Asim18, CC BY 3.0, via Wikimedia Commons"
        }
       },
-      "BULB: a torch bulb",
-      "BULB: a torch bulb",
-      "BULB: a torch bulb",
-      "BULB: a torch bulb",
+      {
+       "f": "BULB: a torch bulb",
+       "img": {
+        "src": "media/cards/simple-circuits-g1-0-04.jpg",
+        "credit": "Juliancolton, Public domain, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "BULB: a torch bulb",
+       "img": {
+        "src": "media/cards/simple-circuits-g1-0-05.jpg",
+        "credit": "Juliancolton, Public domain, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "BULB: a torch bulb",
+       "img": {
+        "src": "media/cards/simple-circuits-g1-0-06.jpg",
+        "credit": "Juliancolton, Public domain, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "BULB: a torch bulb",
+       "img": {
+        "src": "media/cards/simple-circuits-g1-0-07.jpg",
+        "credit": "Juliancolton, Public domain, via Wikimedia Commons"
+       }
+      },
       "WIRE: copper wire in plastic",
       "WIRE: copper wire in plastic",
       "WIRE: copper wire in plastic",
