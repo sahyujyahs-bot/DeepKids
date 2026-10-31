@@ -675,7 +675,13 @@
         "credit": "Diogo Luiz, CC BY, via iNaturalist"
        }
       },
-      "Mustard flower",
+      {
+       "f": "Mustard flower",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g1-0-09.jpg",
+        "credit": "Sergey Basalaev, CC BY, via iNaturalist"
+       }
+      },
       {
        "f": "Coconut palm",
        "img": {
@@ -706,7 +712,13 @@
         "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
        }
       },
-      "Honeybee",
+      {
+       "f": "Honeybee",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g1-0-16.jpg",
+        "credit": "Suhel Quader, CC BY, via iNaturalist"
+       }
+      },
       "Small fish",
       "Big fish",
       "Milk",
