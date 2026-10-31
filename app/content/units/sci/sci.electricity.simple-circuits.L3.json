@@ -475,7 +475,13 @@
       "WIRE: copper wire in plastic",
       "WIRE: copper wire in plastic",
       "WIRE: copper wire in plastic",
-      "CONDUCTOR: a steel spoon. Works like a wire.",
+      {
+       "f": "CONDUCTOR: a steel spoon. Works like a wire.",
+       "img": {
+        "src": "media/cards/simple-circuits-g1-0-22.jpg",
+        "credit": "MKFI, Public domain, via Wikimedia Commons"
+       }
+      },
       "CONDUCTOR: a coin. Works like a wire.",
       "CONDUCTOR: aluminium foil. Works like a wire.",
       "CONDUCTOR: a steel key. Works like a wire.",
