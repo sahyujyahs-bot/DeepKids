@@ -752,34 +752,190 @@
      "kind": "cards",
      "title": "28 living-thing cards to cut out (each card says what that living thing eats)",
      "items": [
-      "SUN: the start of everything. Goes in the middle.",
-      "Grass: a producer. Needs the SUN.",
-      "Neem tree: a producer. Needs the SUN.",
-      "Rice plant: a producer. Needs the SUN.",
-      "Mango tree: a producer. Needs the SUN.",
-      "Pond algae: a producer. Needs the SUN.",
-      "Flowers: a producer. Needs the SUN.",
-      "Grasshopper: eats grass, rice plant.",
-      "Caterpillar: eats mango tree leaves, rice plant, flowers.",
-      "Chital deer: eats grass, neem tree leaves, mango tree leaves.",
-      "Rat: eats rice plant, grass seeds, mango.",
-      "Honeybee: eats flowers (nectar and pollen).",
+      {
+       "f": "SUN: the start of everything. Goes in the middle.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-00.jpg",
+        "credit": "NASA/SDO/AIA, public domain"
+       }
+      },
+      {
+       "f": "Grass: a producer. Needs the SUN.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-01.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "Neem tree: a producer. Needs the SUN.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-02.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Rice plant: a producer. Needs the SUN.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-03.jpg",
+        "credit": "Aditya Rao, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Mango tree: a producer. Needs the SUN.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-04.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Pond algae: a producer. Needs the SUN.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-05.jpg",
+        "credit": "Cristian Riquelme, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Flowers: a producer. Needs the SUN.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-06.jpg",
+        "credit": "Parth Kansara, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Grasshopper: eats grass, rice plant.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-07.jpg",
+        "credit": "Christopher, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Caterpillar: eats mango tree leaves, rice plant, flowers.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-08.jpg",
+        "credit": "Mitul and Vijul Singh, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Chital deer: eats grass, neem tree leaves, mango tree leaves.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-09.jpg",
+        "credit": "Aditya Rao, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Rat: eats rice plant, grass seeds, mango.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-10.jpg",
+        "credit": "Ansil B.R., CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Honeybee: eats flowers (nectar and pollen).",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-11.jpg",
+        "credit": "Dr. Alexey Yakovlev, CC BY, via iNaturalist"
+       }
+      },
       "Mosquito larva: eats pond algae.",
-      "Parrot: eats mango, rice plant, neem tree fruit.",
-      "Frog: eats grasshopper, caterpillar, honeybee, mosquito larva.",
-      "Spider: eats grasshopper, honeybee, caterpillar.",
-      "Small fish: eats mosquito larva, pond algae.",
-      "Rat snake: eats rat, frog.",
-      "Kingfisher: eats small fish, frog.",
-      "Owl: eats rat, frog.",
-      "Crested serpent eagle: eats rat snake, frog.",
-      "Tiger: eats chital deer.",
-      "Crow: eats rice plant, mango, caterpillar, frog, rat.",
-      "Mongoose: eats rat, rat snake, frog, grasshopper.",
+      {
+       "f": "Parrot: eats mango, rice plant, neem tree fruit.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-13.jpg",
+        "credit": "sunnyjosef, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Frog: eats grasshopper, caterpillar, honeybee, mosquito larva.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-14.jpg",
+        "credit": "Haneesh K M, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "Spider: eats grasshopper, honeybee, caterpillar.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-15.jpg",
+        "credit": "Aparna Shyam, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Small fish: eats mosquito larva, pond algae.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-16.jpg",
+        "credit": "James-LaFontaine, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Rat snake: eats rat, frog.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-17.jpg",
+        "credit": "Surabhi Srivastava, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Kingfisher: eats small fish, frog.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-18.jpg",
+        "credit": "white_cheeked_barbet, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Owl: eats rat, frog.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-19.jpg",
+        "credit": "white_cheeked_barbet, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Crested serpent eagle: eats rat snake, frog.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-20.jpg",
+        "credit": "Naman Kaji, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Tiger: eats chital deer.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-21.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Crow: eats rice plant, mango, caterpillar, frog, rat.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-22.jpg",
+        "credit": "avocat, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Mongoose: eats rat, rat snake, frog, grasshopper.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-23.jpg",
+        "credit": "sunnyjosef, CC BY, via iNaturalist"
+       }
+      },
       "Human: eats rice plant, mango, small fish, honeybee's honey.",
-      "CLEAN-UP Vulture: eats any dead animal. Join to up to 3 animals.",
-      "CLEAN-UP Mushroom: eats any dead plant or animal. Join to up to 3 cards.",
-      "CLEAN-UP Earthworm: eats dead leaves. Join to up to 3 plants."
+      {
+       "f": "CLEAN-UP Vulture: eats any dead animal. Join to up to 3 animals.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-25.jpg",
+        "credit": "Wolfgang Ahlmer, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "CLEAN-UP Mushroom: eats any dead plant or animal. Join to up to 3 cards.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-26.jpg",
+        "credit": "Surya, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "CLEAN-UP Earthworm: eats dead leaves. Join to up to 3 plants.",
+       "img": {
+        "src": "media/cards/food-chains-g1-0-27.jpg",
+        "credit": "R K, CC BY, via iNaturalist"
+       }
+      }
      ]
     },
     {

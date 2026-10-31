@@ -794,7 +794,13 @@
         "credit": "Courtesy of NIAID Ryan Kissinger, Public domain, via Wikimedia Commons"
        }
       },
-      "STOMACH: you churn food",
+      {
+       "f": "STOMACH: you churn food",
+       "img": {
+        "src": "media/cards/organs-inside-g2-0-02.jpg",
+        "credit": "NIH / National Cancer Institute, Public domain, via Wikimedia Commons"
+       }
+      },
       "BRAIN: you send and receive messages"
      ]
     },

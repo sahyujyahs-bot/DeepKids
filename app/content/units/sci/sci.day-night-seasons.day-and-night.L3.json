@@ -831,18 +831,60 @@
      "title": "16 action cards",
      "items": [
       "DAY: a farmer ploughing a field",
-      "DAY: a sunbird sipping from a flower",
+      {
+       "f": "DAY: a sunbird sipping from a flower",
+       "img": {
+        "src": "media/cards/day-and-night-g2-0-01.jpg",
+        "credit": "Shiva Shenoy, CC BY, via iNaturalist"
+       }
+      },
       "DAY: children playing cricket",
-      "DAY: a lotus flower opening in the morning",
+      {
+       "f": "DAY: a lotus flower opening in the morning",
+       "img": {
+        "src": "media/cards/day-and-night-g2-0-03.jpg",
+        "credit": "Sindhu Haridas, CC BY, via iNaturalist"
+       }
+      },
       "DAY: a vendor selling vegetables",
-      "DAY: a butterfly visiting flowers",
-      "DAY: a squirrel running along a wall",
+      {
+       "f": "DAY: a butterfly visiting flowers",
+       "img": {
+        "src": "media/cards/day-and-night-g2-0-05.jpg",
+        "credit": "Ravuri Krishna Chaitanya, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "DAY: a squirrel running along a wall",
+       "img": {
+        "src": "media/cards/day-and-night-g2-0-06.jpg",
+        "credit": "Paulmathi Vinod, CC BY, via iNaturalist"
+       }
+      },
       "DAY: drying clothes on a line",
-      "NIGHT: an owl hunting",
-      "NIGHT: a bat catching moths",
+      {
+       "f": "NIGHT: an owl hunting",
+       "img": {
+        "src": "media/cards/day-and-night-g2-0-08.jpg",
+        "credit": "Kishore, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "NIGHT: a bat catching moths",
+       "img": {
+        "src": "media/cards/day-and-night-g2-0-09.jpg",
+        "credit": "Tejas M, CC BY, via iNaturalist"
+       }
+      },
       "NIGHT: a baker making bread for morning",
       "NIGHT: a nurse looking after patients",
-      "NIGHT: a gecko catching insects by a lamp",
+      {
+       "f": "NIGHT: a gecko catching insects by a lamp",
+       "img": {
+        "src": "media/cards/day-and-night-g2-0-12.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
+      },
       "NIGHT: a firefly flashing",
       "NIGHT: a family sleeping",
       "NIGHT: an astronomer looking through a telescope"
