@@ -82,7 +82,7 @@ In 1820, a Danish scientist, Hans Christian Oersted, noticed that a compass need
 ### Lodestone: the stone that finds iron · *defined*
 **Definition:** A lodestone is a natural magnet. It is a piece of a black mineral called magnetite, which is made of iron and oxygen. Many cultures found lodestones long ago.
 
-In Greece, about 2,600 years ago, the thinker Thales said that a lodestone has a soul, because it can move iron. We know this from Aristotle, who wrote about it later. In China, a book from about 240 BCE, the Lüshi Chunqiu, says 'the loving stone calls the iron to it'. In India, the magnet was called ayaskanta, which means 'beloved of iron', and chumbaka, which means 'the one that kisses'. The Sushruta Samhita, an old Indian book of surgery, describes using a magnet to draw a smooth iron arrowhead out of a wound. Later, people learned to find directions with magnets. A Chinese military book from 1044, the Wujing Zongyao, describes an iron 'south-pointing fish' floated in water. The fish was made into a magnet by heating it red-hot and letting it cool while it pointed north and south. In 1088, the Chinese scholar Shen Kuo described a needle made into a magnet by rubbing it on a lodestone. He also noticed that it does not point exactly north. Around 1232, Muhammad al-Awfi, a writer at the court of Delhi, described sailors who floated an iron fish rubbed with a magnet to find their way. In Europe, Petrus Peregrinus described a magnet's two poles in 1269.
+In Greece, about 2,600 years ago, the thinker Thales said that a lodestone has a soul, because it can move iron. We know this from Aristotle, who wrote about it later. In China, a book from about 240 BCE, the Lüshi Chunqiu, says 'the loving stone calls the iron to it'. In India, the magnet was called ayaskanta, which means 'beloved of iron', and chumbaka, which means 'the one that kisses'. The Sushruta Samhita, an old Indian book of surgery, describes using a magnet to draw a smooth iron arrowhead out of a wound. Later, people learned to find directions with magnets. A Chinese military book from 1044, the Wujing Zongyao, describes an iron 'south-pointing fish' floated in water. Heated red-hot and left to cool while pointing north and south, the iron fish became a magnet. In 1088, the Chinese scholar Shen Kuo described a needle made into a magnet by rubbing it on a lodestone. He also noticed that it does not point exactly north. Around 1232, Muhammad al-Awfi, a writer at the court of Delhi, described sailors who floated an iron fish rubbed with a magnet to find their way. In Europe, Petrus Peregrinus described a magnet's two poles in 1269.
 - e.g. Lodestones were set in brass or silver caps, so people could carry them and rub needles with them.
 - e.g. Iron fish compasses floated in a bowl of water, like the needle compass in this unit's experiment.
 ### How did lodestones become magnets? · *debated*
@@ -204,7 +204,7 @@ Amina's favourite person on the ship, after her mother, was the pilot, old Maria
 
 But Mariam had a second way of finding the way. It lived in a wooden box near the back of the ship. Inside the box was a small brass bowl. Inside a silk bag was a lumpy black stone. And inside a fold of cloth was a fish, no longer than Amina's finger, cut from a thin sheet of iron.
 
-On the fourth night, Mariam had let her watch. She poured water into the brass bowl. She took out the black stone and rubbed it along the iron fish, from tail to nose. She lifted it away, and rubbed again, from tail to nose. Never back and forth. Always the same way. She counted under her breath, all the way to fifty. Then she laid the fish gently on the water, where it floated like a leaf.
+On the fourth night, Mariam had let her watch. She poured water into the brass bowl. She took out the black stone and rubbed it along the iron fish, from tail to nose. She lifted it away, and rubbed again, from tail to nose. Never back and forth. Always the same way. She counted under her breath, all the way to fifty. Then she laid the fish gently on the water. It floated like a leaf.
 
 The fish shivered. It turned slowly, as if it were sniffing the air, and then it stopped. Its nose pointed to the south. Amina turned the bowl. The fish turned back. She turned the bowl the other way. The fish turned back again, to the south, every time.
 
@@ -218,9 +218,9 @@ They came low and grey, and then black. The wind rose and the rain hit the deck 
 
 Mariam brought out the brass bowl. She floated the iron fish. Its nose swung round and settled. She called her direction to the helmsman, and the ship turned.
 
-For a long time, nobody spoke. Amina sat wrapped in a blanket, watching the fish by the light of a little oil lamp. Something was wrong, and it took her a while to see what it was. The fish was not pointing where it had pointed on the fourth night. It was pointing at the back wall of the ship. It was pointing at the deg.
+For a long time, nobody spoke. Amina sat wrapped in a blanket, watching the fish by the light of a little oil lamp. Something was wrong, and it took her a while to see what it was. On the fourth night the fish had pointed south. Now it did not. It was pointing at the back wall of the ship. It was pointing at the deg.
 
-Her heart thumped. She thought of the ladle leaping to the stone. The stone attracted iron. The fish had been rubbed with the stone. Did the fish attract iron too? She took the lamp and crept to the back wall. The big iron pot was tied right beside the box. Then she held her mother's iron ladle near the bowl. The fish swung towards the ladle as if it had been called.
+Her heart thumped. She thought of the ladle leaping to the stone. The stone attracted iron. The fish had been rubbed with the stone. Did the fish attract iron too? She took the lamp and crept to the back wall. The big iron pot was tied right beside the box. Then she held her mother's iron ladle near the bowl. The fish swung towards the ladle, as though called.
 
 'Mariam,' she whispered. Then louder, 'Mariam! The fish is looking at the pot!'
 
@@ -230,7 +230,7 @@ When the pot was gone, the fish shivered. It turned, slowly, slowly, nearly a qu
 
 Mariam looked at it for a long time. 'We have been steering towards a cooking pot,' she said at last. 'For half the night.' She called the new direction to the helmsman. The Swift Gazelle leaned, creaked and turned.
 
-But now the fish turned slowly, and it wandered. For hours the storm had thrown the box about, and the knocks had weakened the fish's magnet. Mariam's hands were shaking with cold. So Amina opened the silk bag and took out the black stone. From tail to nose. Lift away. From tail to nose. Never back and forth. She counted to fifty, as she had heard Mariam count. When she floated the fish again, it swung round at once, quick and sure.
+But now the fish turned slowly and wandered. For hours the storm had thrown the box about, and the knocks had weakened the fish's magnet. Mariam's hands were shaking with cold. So Amina opened the silk bag and took out the black stone. From tail to nose. Lift away. From tail to nose. Never back and forth. She counted to fifty, as she had heard Mariam count. She floated the fish again. It swung round at once, quick and sure.
 
 In the grey morning, the rain stopped. The sailors leaned over the rail and pointed. Beside the ship, in the dark water, swam three sea turtles, heading the same way the ship was going. They had no bowl, no stone and no iron fish. They swam steadily on, as if they had never been lost at all.
 
@@ -240,7 +240,7 @@ Mariam watched them go. 'I have sailed for forty years,' she said, 'and I have n
 
 Two days later they saw the brown mountains behind Aden. After that, on every voyage, the big iron deg travelled at the front of the ship. And every night, in the fold of cloth beside the brass bowl, the black stone and the iron fish lay waiting for a girl who knew the way to rub them.
 
-**For the parent:** For the parent: the iron fish is a magnet, and a magnet and iron attract each other. So the big iron cooking pot turned the fish's nose towards it, and the ship steered towards the pot instead of south. Once the pot was moved away, the Earth's magnetic field could turn the fish to point south again. The knocks of the storm had weakened the fish's magnetism. Stroking it with the lodestone, always in one direction, lined up the tiny magnets inside the iron again, so it turned quickly and surely. The turtles at the end need no iron fish, because their own bodies sense the Earth's magnetic field. Nobody yet fully knows how.
+**For the parent:** For the parent: the iron fish is a magnet, and a magnet and iron attract each other. So the big iron cooking pot turned the nose of the fish towards the pot, and the ship steered towards the pot instead of south. Once the pot was moved away, the Earth's magnetic field could turn the fish to point south again. The knocks of the storm had weakened the fish's magnetism. Stroking it with the lodestone, always in one direction, lined up the tiny magnets inside the iron again, so it turned quickly and surely. The turtles at the end need no iron fish, because their own bodies sense the Earth's magnetic field. Nobody yet fully knows how.
 
 - Ask: Why did the iron fish point the wrong way during the storm?
 - Ask: How did Amina work out what was wrong? What had she seen in the galley?
@@ -250,10 +250,10 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 
 ## Games
 ### g1 · Monsoon Voyage: sail by the iron fish (20 min)
-- **rules:** Put every ship on Khambhat, square 0. Put the storm cloud on Khambhat too.; On your turn, another player reads you the front of the top question card. Playing alone? Read it yourself and check the answer on the back.; Answer right, and roll the dice and move that many squares. Answer wrong, and move just 1 square.; On a TEST IT card, do the test. Everyone who guessed right moves 2 squares.; CLOUDY NIGHT square: no stars to steer by. Say how a compass helps, then move on 1 square.; IRON ANCHOR square: the iron attracts your compass needle, so the compass points the wrong way. Go back 2 squares, unless you can say what to do. The answer is: move the iron away from the compass.; After everyone has had a turn, the storm cloud moves 2 squares.; Reach Aden first to win. If the storm cloud lands on your ship or passes it, you must stop and shelter: miss one turn. Playing alone, try to reach Aden before the storm does.
-- **Printable board: A sea board with 20 squares, from Khambhat to Aden:** Square 0: Khambhat, the start; Squares 4, 9 and 15: CLOUDY NIGHT, no stars; Squares 6 and 13: IRON ANCHOR next to your compass; Square 11: TURTLES! Swim with them, move 2 squares; Square 20: Aden, the finish
-- **Printable cards: 24 question cards to cut out (the answer is on the back):** Will a magnet attract a brass key? (back: No); Will a magnet attract a steel safety pin? (back: Yes); Name one metal a magnet attracts. (back: Iron, steel, nickel or cobalt); Will a magnet attract aluminium foil? (back: No); Can a magnet attract a pin through a page of paper? (back: Yes); What do you rub a needle with to make it a magnet? (back: A magnet); Rub the needle back and forth, or always one way? (back: Always one way); Which way does a compass point? (back: North and south); What is a natural magnet stone called? (back: A lodestone); What is the black magnet mineral in sand called? (back: Magnetite); What tiny particle in every atom is a tiny magnet? (back: The electron); Inside iron, the regions where the tiny magnets point the same way have a name. What is it? (back: Domains); Does heating a magnet red-hot make it stronger, or stop it being a magnet? (back: It stops it being a magnet); What makes the Earth a magnet? (back: Moving liquid iron deep inside it); Has the Earth's magnetic field ever flipped? (back: Yes, many times); Name an animal that senses the Earth's magnetic field. (back: Turtle, robin or magnetic bacteria); What are the coloured lights near the poles called? (back: Auroras); What does 'chumbaka' mean? (back: The one that kisses); Who first said the Earth is a magnet, in 1600? (back: William Gilbert); Who found that the Earth's centre is solid, in 1936? (back: Inge Lehmann); TEST IT: does a magnet stick to your spoon? Guess first, then test. (back: Do the test and see what happens.); TEST IT: how many paper clips can your magnet hold in a chain? (back: Count and tell everyone what you found.); TEST IT: can a magnet attract a pin through your hand? Guess first. (back: Do the test and see what happens.); TEST IT: put a coin on the table. Does a magnet attract it? (back: Do the test and see what happens.)
-- **Printable tokens: One paper ship for each player, and one black storm cloud:** ⛵; 🌩️
+- **rules:** You need the board, the cards, one dice and one paper ship for each player. Put every ship and the storm cloud on Khambhat, square 0.; On your turn, another player reads you the front of the top question card. Playing alone? Read it yourself, say your answer, then turn the card over to check. When the cards run out, shuffle them and use them again.; Answer right, and roll the dice and move that many squares. Answer wrong, and move just 1 square.; On a TEST IT card, everyone says a guess first. Then everyone does the test. Everyone who guessed right moves 2 squares.; CLOUDY NIGHT square: no stars to steer by. Say how a compass helps, then move on 1 square.; IRON ANCHOR square: the iron attracts your compass needle, so the compass points the wrong way. Go back 2 squares, unless you can say what to do. The answer is: move the iron away from the compass.; Squares you are sent to by CLOUDY NIGHT, IRON ANCHOR or TURTLES do nothing more. Only the square you land on by your own move counts.; After everyone has had a turn, move the storm cloud 2 squares.; The first time the storm cloud lands on your ship or passes it, you must shelter: miss one turn.; Reach Aden (square 20), or go past it, to win. If the storm cloud reaches Aden first, the storm wins the sea: the ship furthest along wins. Playing alone, try to reach Aden before the storm does.
+- **Printable board: A sea board with 20 squares, from Khambhat to Aden:** Square 0: Khambhat, the start; Square 1: open sea, nothing happens; Square 2: open sea, nothing happens; Square 3: open sea, nothing happens; Square 4: CLOUDY NIGHT, no stars to steer by; Square 5: open sea, nothing happens; Square 6: IRON ANCHOR next to your compass; Square 7: open sea, nothing happens; Square 8: open sea, nothing happens; Square 9: CLOUDY NIGHT, no stars to steer by; Square 10: open sea, nothing happens; Square 11: TURTLES! Swim with them, move on 2 squares; Square 12: open sea, nothing happens; Square 13: IRON ANCHOR next to your compass; Square 14: open sea, nothing happens; Square 15: CLOUDY NIGHT, no stars to steer by; Square 16: open sea, nothing happens; Square 17: open sea, nothing happens; Square 18: open sea, nothing happens; Square 19: open sea, nothing happens; Square 20: Aden, the finish
+- **Printable cards: 24 question cards to cut out (the answer is on the back):** Will a magnet attract a steel nail? (back: Yes); Will a magnet attract a steel safety pin? (back: Yes); Name one metal a magnet attracts. (back: Iron, steel, nickel or cobalt); Will a magnet attract aluminium foil? (back: No); Can a magnet attract a pin through a page of paper? (back: Yes); What do you rub a needle with to make it a magnet? (back: A magnet); Rub the needle back and forth, or always one way? (back: Always one way); Which way does a compass point? (back: North and south); What is a natural magnet stone called? (back: A lodestone); What is the black magnet mineral in sand called? (back: Magnetite); What tiny particle in every atom is a tiny magnet? (back: The electron); Inside iron, the regions where the tiny magnets point the same way have a name. What is it? (back: Domains); Does heating a magnet red-hot make it stronger, or stop it being a magnet? (back: It stops it being a magnet); What makes the Earth a magnet? (back: Moving liquid iron deep inside it); Has the Earth's magnetic field ever flipped? (back: Yes, many times); Name an animal that senses the Earth's magnetic field. (back: Turtle, robin or magnetic bacteria); What are the coloured lights near the poles called? (back: Auroras); What does 'chumbaka' mean? (back: The one that kisses); Who first said the Earth is a magnet, in 1600? (back: William Gilbert); Who showed in 1936 that the Earth has a solid inner core? (back: Inge Lehmann); TEST IT: say a guess, then try it. Does a magnet stick to your steel spoon? (back: Do the test and see what happens.); TEST IT: say a guess, then try it. How many paper clips can your magnet hold in a chain? (back: Count and tell everyone what you found.); TEST IT: say a guess, then try it. Can a magnet pick up a pin through a plastic plate? (back: Do the test and see what happens.); TEST IT: say a guess, then try it. Put a coin on the table. Does a magnet attract it? (back: Do the test and see what happens.)
+- **Printable tokens: Up to four paper ships (one for each player) and one black storm cloud:** ⛵ Ship 1; ⛵ Ship 2; ⛵ Ship 3; ⛵ Ship 4; 🌩️ Storm cloud
 - **s1 (3 min)**  
   *Parent does:* 1. Lay out the sea board. 2. Put each ship and the storm cloud on Khambhat. 3. Shuffle the question cards and put them face down.  
   *Parent says:* Long ago, ships sailed from Khambhat in Gujarat across the Arabian Sea to Aden. On cloudy nights there were no stars to steer by. Sailors used an iron fish rubbed with a magnet stone, floating in water. Let's sail.  
@@ -261,18 +261,17 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 - **s2 (3 min)**  
   *Parent does:* Play the card 'Will a magnet attract a brass key?' as a practice round.  
   *Parent says:* Practice card. Will a magnet attract a brass key?  
-  *Child mode:* Practice card. Will a magnet attract a brass key? Tap your answer.
+  *Child mode:* Practice card. Will a magnet attract a brass key? Say your answer.
   - Check: Will a magnet attract a brass key? → **No, brass has no iron in it**
 - **s3 (10 min)**  
-  *Parent does:* 1. Take turns: read a card, answer, then move. 2. Move the storm cloud 2 squares after each round. 3. Do the TEST IT cards together.  
+  *Parent does:* 1. Take turns: read a card, answer, then move. 2. Move the storm cloud 2 squares after everyone has had a turn. 3. Do the TEST IT cards together.  
   *Parent says:* Answer your card, then roll. Watch out for the iron anchor squares.  
-  *Child mode:* Answer your card. Right? Roll the dice and sail on. Wrong? Move one square. Then the storm moves 2.
+  *Child mode:* Answer your card. Right? Roll the dice and sail on. Wrong? Move one square. After everyone's turn, the storm moves 2.
   - Note: The game is balanced so that a player who answers most cards right reaches Aden before the storm. If your child is getting many wrong, read the answer aloud after each card and let them try again next round. On the TEST IT card about a coin, the answer depends on the coin. Some Indian coins are made of a kind of stainless steel that a magnet attracts. Others are not. That is a good surprise.
 - **s4 (2 min)**  
   *Parent does:* When someone lands on an IRON ANCHOR square, stop and talk about it.  
   *Parent says:* Why does an iron anchor near the compass make it point the wrong way?  
   *Child mode:* Iron anchor! Your compass points the wrong way. Why? How do you fix it?
-  - Ask: Why does iron near a compass make it point the wrong way? (good: The compass needle is a magnet, and a magnet attracts iron.; The needle turns towards the iron instead of north.)
   - Check: Your compass points at an iron anchor instead of north. What do you do? → **Move the iron far away from the compass**
 - **s5 (2 min)**  
   *Parent does:* Finish the game and talk about the turtles square.  
@@ -280,9 +279,9 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Child mode:* Who reached Aden? On square 11, turtles helped you. Real turtles cross oceans with no compass. How?
   - Think: Sailors needed an iron fish to find the way. Turtles need nothing but their own bodies. Who is better at finding the way?
 ### g2 · Magnet Says: be the tiny magnets (15 min)
-- **rules:** One person is the caller. Everyone else is a tiny magnet, an atom of iron. Stand around the room, facing any way.; The caller reads a card out loud. The tiny magnets must do what it says, fast.; Trick cards, like WOOD, mean do nothing at all. Anyone who moves is out for one round.; Anyone who does the wrong thing is out for one round. They can come back next round.; Playing alone: lay 12 paper arrows on the table, pointing every which way. Draw a card and turn the arrows to match it, as fast as you can. Count how many cards you get right out of 12.
-- **Printable cards: 12 caller cards:** MAGNET COMING! (everyone turns to face the caller); MAGNET GONE, SOFT IRON! (everyone turns any way they like); MAGNET GONE, HARD STEEL! (everyone stays facing the same way); HEAT! RED-HOT! (everyone jiggles, then faces any way); COPPER! (find a partner and stand back to back, frozen); WOOD! (trick card: nothing happens, stand still); PLASTIC! (trick card: nothing happens); STROKE! (the caller walks past slowly, and each player turns to face the same way as the caller walks); HAMMER! (everyone wobbles, and half turn around); COMPASS! (everyone points to north); BRASS! (trick card: nothing happens); EARTH FLIP! (everyone points to south)
-- **Printable board: For one child alone: a grid of 12 paper arrows to turn on a table:** 12 arrows cut from card, each as long as a finger
+- **rules:** One person is the caller. Everyone else, even just one child, is a tiny magnet, an atom of iron. Stand around the room, facing any way.; The caller reads a card out loud. The tiny magnets must do what it says within three seconds.; On trick cards (WOOD, PLASTIC, BRASS) nothing happens, so stand still. Anyone who moves on a trick card, or does the wrong thing on any card, sits out the next card and then comes back.; The game ends after the 12th card. The player who sat out least wins. With one child and a caller, count how many of the 12 cards the child got right, and try to beat that next time.; Playing alone: lay the 12 paper arrows on the table, pointing every which way. Shuffle the caller cards and draw one at a time. Turn the arrows to match: MAGNET COMING or STROKE, all arrows point one way; HEAT, scramble them; COPPER, lay them in pairs pointing opposite ways; WOOD, PLASTIC or BRASS, leave them alone. Count how many cards you got right out of 12.
+- **Printable cards: 12 caller cards:** MAGNET COMING! (everyone turns to face the caller); MAGNET GONE, SOFT IRON! (everyone turns any way they like); MAGNET GONE, HARD STEEL! (everyone stays facing the same way); HEAT! RED-HOT! (everyone jiggles, then faces any way); COPPER! (the tiny magnets cancel in pairs: with a partner, stand back to back and freeze; with no partner, fold your arms and freeze); WOOD! (trick card: nothing happens, stand still); PLASTIC! (trick card: nothing happens); STROKE! (the caller walks past slowly, and each player turns to face the same way as the caller walks); HAMMER! (everyone wobbles, then turns a quarter turn); COMPASS! (everyone points to north); BRASS! (trick card: nothing happens); EARTH FLIP! (everyone points to south)
+- **Printable tokens: For one child playing alone: 12 paper arrows to turn on a table:** Cut 12 arrows from card, each as long as a finger, with a point at one end.
 - **s1 (2 min)**  
   *Parent does:* 1. Choose a caller. 2. Everyone else stands around the room facing any way. 3. Shuffle the caller cards.  
   *Parent says:* Inside iron, every atom is a tiny magnet. Right now you're facing every which way, like the atoms in a plain nail. So your magnetic forces cancel out. The nail is not a magnet.  
@@ -307,22 +306,22 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 ### e1 · The Floating Needle Compass (30 min)
 - **question:** Can we turn a sewing needle into a magnet, and will it point north?
 - **predict:** Guess first. Will a plain needle, floated on water, point in any special direction? What about the same needle after you stroke it with a magnet? Why do you think so?
-- **fair test:** Float the needle before stroking it, and after. Use the same bowl, the same water and the same place both times. Only the stroking changes. Turn the bowl 3 times each time, because one try can be a fluke.
+- **fair test:** Float the needle before stroking it, and after. Use the same bowl, the same water and the same place both times. Only the stroking changes. For each needle, turn the bowl a quarter turn 3 times, because one try can be a fluke.
 - **safety:** Needles are sharp. A grown-up hands over the needle and puts it away afterwards. Never put magnets in your mouth.
 - **record:** Fill in the table. Draw the bowl from above, with an arrow for where the needle pointed, and write N where north is.
 - **results table:** Needle | Does it pick up a pin? (yes or no) | Where it points after turn 1 | After turn 2 | After turn 3
-- **s1 (4 min) · grown-up needed**  
-  *Parent does:* 1. Fill the bowl with water. 2. Put it on a table at least one metre from the gas stove, the fridge and any steel almirah. Keep phones and other magnets a metre away too. 3. Lay the plain needle on the paper square and float it in the middle.  
+- **s1 (6 min) · grown-up needed**  
+  *Parent does:* 1. Fill the bowl with water. 2. Put it on a table at least one metre from the gas stove, the fridge and any steel almirah. Keep phones and other magnets a metre away too. 3. Lay the plain needle on the paper square and float it in the middle. 4. Wait until it stops, and see where it points. Turn the bowl a quarter turn, wait, and look again. Do this 3 times and write each answer in the table.  
   *Parent says:* Let's see where a plain needle points. Iron things and phones nearby could turn it, so we keep it far away from them.  
-  *Child mode:* Fill the bowl. Put it far from the fridge, the stove and phones. Lay the needle on the paper. Float it in the middle. Where does it point?
+  *Child mode:* Fill the bowl. Put it far from the fridge, the stove and phones. Lay the needle on the paper. Float it in the middle. Where does it point? Turn the bowl a little and wait. Do this 3 times.
   - Note: Hand your child the needle, and keep a pin cushion or a piece of soap to stick it in when not in use. A steel bowl can attract the needle to its side, so use plastic, glass or clay. The plain needle may point any way, or it may slowly turn a little, because a steel needle can already be slightly magnetised. That's fine. Note what it does.
-- **s2 (3 min)**  
+- **s2 (2 min)**  
   *Parent does:* 1. Touch the plain needle to a pin. Does it pick the pin up? 2. Write the answer in the table.  
   *Parent says:* Is the needle a magnet yet? Let's test it on a pin.  
   *Child mode:* Touch the needle to a pin. Does the pin stick? Write yes or no.
   - Ask: Why does the plain needle not pick up the pin? (good: It isn't a magnet yet.; Its tiny magnets point in different directions, so they cancel out.)
 - **s3 (5 min) · grown-up needed**  
-  *Parent does:* 1. Lay the needle on the table. 2. Hold one end of the magnet. 3. Slide the magnet along the needle from the eye to the point. 4. Lift the magnet high in a loop and bring it back to the eye. 5. Repeat 50 times, always from eye to point, never back and forth.  
+  *Parent does:* 1. Lay the needle on the table. 2. Hold the magnet by one end, and use that same end for every stroke. 3. Slide the magnet along the needle from the eye to the point. 4. Lift the magnet high in a loop and bring it back to the eye. 5. Repeat 50 times, always from eye to point, never back and forth.  
   *Parent says:* Every stroke turns more of the tiny magnets inside the needle to point the same way. Rubbing back the other way would turn them back. So we always stroke one way, and lift the magnet high to come back.  
   *Child mode:* Stroke the magnet along the needle, from the eye to the point. Lift it high. Go back to the eye. Again. Count to 50. Always the same way!
   - Note: Hold the needle down at the eye end with one finger, and stroke away from your finger, so nobody gets poked. Counting in fives or tens helps. 5 rounds of 10 strokes is 50.
@@ -332,11 +331,11 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Child mode:* Touch the needle to the pin again. Does the pin stick now?
   - Note: If the pin does not stick, your magnet is probably weak. Try 50 more strokes, or a stronger magnet. A small staple or a short piece of thin wire is lighter than a pin and easier to lift.
   - Check: After 50 strokes, the needle picks up a pin. What changed inside the needle? → **The tiny magnets inside the needle now point the same way**
-- **s5 (6 min)**  
+- **s5 (5 min)**  
   *Parent does:* 1. Float the stroked needle on its paper in the middle of the bowl. 2. Wait about 30 seconds, until it stops turning. 3. Gently turn the bowl a quarter turn, and wait again. 4. Do this 3 times, writing where it points each time.  
   *Parent says:* Let's float it and wait. Then we'll turn the bowl and see if the needle turns back.  
   *Child mode:* Float the needle again. Wait until it stops. Turn the bowl a little. Wait. Does the needle turn back the same way? Try 3 times.
-  - Note: The needle often drifts to the edge of the bowl and sticks there, because water climbs up the side. Gently push the paper back to the middle with a pencil, without touching the needle. A wider bowl helps. It should settle pointing roughly north and south each time.
+  - Note: The needle often drifts to the edge of the bowl and sticks there, because water climbs up the side. Gently push the paper back to the middle with a pencil, without touching the needle. A wider bowl helps. It should settle pointing roughly north and south each time. Sometimes the needle is slow and just drifts. Move the bowl further from the fridge or almirah and try again, and write down honestly what you saw.
 - **s6 (4 min)**  
   *Parent does:* 1. Check north with a phone compass app or a real compass. Keep the phone at least half a metre from the bowl, because phones have magnets. 2. No phone? In the morning, stand facing the Sun. North is roughly to your left.  
   *Parent says:* Which end points north? Let's check with the phone, from a little way away.  
@@ -346,7 +345,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a needle stroked with a magnet becomes a magnet, and a floating magnet points north and south. What I saw: the plain needle did not pick up the pin. After 50 strokes it did. When I floated it and turned the bowl, it turned back to north and south three times. Why: stroking lined up the tiny magnets inside the needle, and the Earth's magnetic field turns the needle to point north and south.
+  - Note: Any honest answer with all three parts is good. A good answer sounds like this. What I think: a needle stroked with a magnet becomes a magnet, and a floating magnet points north and south. What I saw: the plain needle did not pick up the pin. After 50 strokes it did. When I floated it and turned the bowl, it turned back to north and south three times. Why: stroking lined up the tiny magnets inside the needle, and the Earth's magnetic field turns the needle to point north and south.
 ### e2 · The Paper Clip Chain: which magnet is strongest? (25 min)
 - **question:** Which of our magnets is strongest?
 - **predict:** Before you test, line up your magnets, from the one you think is strongest to the one you think is weakest. Is the biggest one the strongest? Why do you think so?
@@ -370,16 +369,17 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Child mode:* Draw one bar for each magnet. Make it as tall as its middle number. A taller bar means a stronger magnet.
   - Check: A big fridge magnet held 1 clip. A tiny silver magnet held 12 clips. What does this show? → **A small magnet can be much stronger than a big one**
 - **s4 (3 min)**  
-  *Parent does:* 1. Hang a chain of 3 clips from the strongest magnet. 2. Hold the top clip with your fingers. 3. Slowly move the magnet away from the top clip. Watch the chain.  
+  *Parent does:* 1. Hang a chain of 3 clips from the strongest magnet. 2. Pinch the top clip between finger and thumb. 3. Slowly move the magnet away from the top clip. Watch the chain.  
   *Parent says:* What happens to the chain when the magnet leaves?  
   *Child mode:* Hold the top clip. Move the magnet away slowly. What happens to the other clips?
   - Ask: Why did the clips fall apart when the magnet left? (good: They were only magnets while the magnet was there.; Their tiny magnets went back to pointing in different directions.)
+  - Note: Clips are made of steel, so they may keep a tiny bit of magnetism, and one clip may still cling for a moment. Most of the chain falls apart.
   - Think: A clip was a magnet only while a magnet was near. A stroked needle stays a magnet afterwards. What could be different inside the needle?
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the small neodymium magnet is the strongest, even though it is the smallest. What I saw: it held 12 clips in a chain, and the big fridge magnet held only 1. Why: strength comes from what a magnet is made of and how its tiny magnets are lined up, not from its size.
+  - Note: Any honest answer with all three parts is good. A good answer sounds like this. What I think: the strongest magnet is not the biggest. For example, a small neodymium magnet may be strongest. What I saw: it held 12 clips in a chain, and the big fridge magnet held only 1. Why: strength comes from what a magnet is made of and how its tiny magnets are lined up, not from its size.
 ### e3 · Black Sand: find the magnet stone in your soil (25 min)
 - **question:** Is there magnetic iron hiding in ordinary sand and soil?
 - **predict:** Guess first. If you drag a magnet through sand or soil, will anything stick to it? What colour will it be? Why do you think so?
@@ -388,14 +388,14 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 - **record:** Fill in the table. Draw what the grains looked like under the magnifying glass.
 - **results table:** Where the sand or soil came from | How much stuck? (none, a little, a lot) | What colour were the grains?
 - **s1 (6 min) · grown-up needed**  
-  *Parent does:* 1. With a grown-up, collect a cup of dry sand or soil from 2 or 3 different places. 2. If it is wet, spread it on newspaper in the sun for an hour first.  
+  *Parent does:* 1. With a grown-up, collect a cup of dry sand or soil from 2 or 3 different places. 2. Choose samples that are already dry. If one is wet, spread it on newspaper by a sunny window and test it another day.  
   *Parent says:* We're going to look for magnetite. Natural magnet stones are made of this mineral. It might be hiding in ordinary sand.  
-  *Child mode:* Collect a cup of dry sand from 2 or 3 places. Wet? Dry it in the sun first. You are looking for magnetite!
+  *Child mode:* Collect a cup of dry sand or soil from 2 or 3 places. Pick dry ones. Wet? Dry it by a window and test it another day. You are looking for magnetite!
 - **s2 (6 min)**  
   *Parent does:* 1. Put the magnet inside the zip bag. 2. Pour the first sample onto a plate. 3. Drag the wrapped magnet slowly through it 10 times. 4. Lift it up and look.  
   *Parent says:* Wrap the magnet first, so we can get the grains off later. Now drag it through slowly.  
   *Child mode:* Put the magnet in the bag. Drag it through the sand 10 times, slowly. Lift it up. What is stuck to it?
-  - Note: Most Indian sand and soil has some magnetite, which shows as a fuzzy black beard on the bag. River sand used for building, and dark beach sand, especially in Kerala and Tamil Nadu, usually have a lot. Red soil from the garden may give only a few grains. If nothing sticks, try a stronger magnet, drier sand, or sand from a building site or a drain edge.
+  - Note: Many sands and soils have some magnetite, which shows as a fuzzy black beard on the bag. River sand used for building, and dark beach sand, for example on parts of the Kerala and Tamil Nadu coasts, often have a lot. Pot-plant soil may give only a few grains. If nothing sticks, try a stronger magnet or drier sand. If still nothing sticks, write 'none': that is an honest result too.
 - **s3 (5 min)**  
   *Parent does:* 1. Hold the bag over the white paper. 2. Pull the magnet out of the bag. 3. The black grains drop onto the paper.  
   *Parent says:* Watch what happens when the magnet leaves the bag.  
@@ -410,17 +410,17 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: ordinary sand has tiny grains of a magnetic mineral in it. What I saw: black grains stuck to the wrapped magnet, but the light-coloured sand fell off. The building-site sand gave the most. Why: the black grains are magnetite, which contains iron, and magnets attract iron.
+  - Note: Any honest answer with all three parts is good. A good answer sounds like this. What I think: ordinary sand has tiny grains of a magnetic mineral in it. What I saw: black grains stuck to the wrapped magnet, but the light-coloured sand fell off. The building-site sand gave the most. Why: the black grains are magnetite, which contains iron, and magnets attract iron.
 
 ## Activities
 ### a1 · Guess, Then Test: what does a magnet attract? (8 min)
-- **safety:** Keep pins in a small bowl so they don't get lost on the floor.
+- **safety:** Pins are sharp. Keep them in a small bowl and count them back in at the end.
 - **record:** Put a tick next to each guess that was right.
 - **s1 (3 min)**  
   *Parent does:* 1. Lay the 8 things on the table. 2. Ask your child to put them in two piles: 'I think it will stick' and 'I think it won't'.  
   *Parent says:* Before we test anything, let's guess. Which of these will a magnet attract?  
   *Child mode:* Look at the 8 things. Make two piles. Will stick. Won't stick. Just guess!
-  - Ask: Why did you put the metal things in the 'will stick' pile? (good: Because magnets stick to metal.; Because they are shiny.)
+  - Ask: Why did you put the metal things in the 'will stick' pile? (good: Because magnets stick to metal.; Because I have seen a magnet pick up a metal thing.)
 - **s2 (4 min)**  
   *Parent does:* Test each thing with the magnet, one at a time.  
   *Parent says:* Now test each one. Were you right?  
@@ -444,11 +444,11 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Parent says:* Tap gently. What shape are the grains making?  
   *Child mode:* Tap the paper gently. Keep tapping. Watch the grains. What shape do they make?
   - Ask: Where do the grains bunch up most? (good: At the two ends of the magnet.; At the poles.)
-  - Note: Black sand gives a rougher pattern than filings, but you can still see the grains bunch at the two ends and make curved lines. Use only a thin layer. If the grains clump into a ball, there are too many. Tip some off and try again.
+  - Note: Black sand gives a rougher pattern than filings, but you can still see the grains bunch at the two ends and make curved lines. Use only a thin layer. If the grains clump into a ball, there are too many. Tip some off and try again. Black sand is the weaker choice. It may bunch at the two ends without making clear lines, and that is still a real result. Iron filings show the lines best.
 - **s3 (7 min)**  
-  *Parent does:* Help your child draw the pattern with a pencil, then compare it to a picture of the Earth's magnetic field.  
+  *Parent does:* Help your child draw the pattern, then compare it with the picture on the 'The Earth is a giant magnet' card.  
   *Parent says:* Scientists call this the magnetic field. The Earth's magnetic field has this same shape, but it is as big as the planet.  
-  *Child mode:* Draw the lines you see. Now look at a picture of the Earth's magnetic field. Do they look alike?
+  *Child mode:* Draw the lines you see. Now look at the picture on the 'The Earth is a giant magnet' card. Do they look alike?
   - Check: In the pattern, the grains crowd most at the two ends of the magnet. Why? → **The magnetic force is strongest at the ends, the poles**
 - **s4 (2 min)**  
   *Parent does:* Tip the grains back into their jar using the paper as a funnel.  
@@ -456,10 +456,9 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Child mode:* Fold the paper into a funnel. Tip the grains back into the jar.
   - Think: The magnetic field was there before we sprinkled the grains. Is something real if we can't see it?
 ### a3 · The Magnet Timeline on a String (25 min)
-- **safety:** Tie the string low, below a child's shoulder, so nobody walks into it.
 - **record:** Take a photo of the finished timeline, or draw it.
 - **s1 (10 min)**  
-  *Parent does:* Help your child write and draw one card for each event: about 600 BCE Thales and the lodestone in Greece. About 240 BCE the Chinese 'loving stone'. The Sushruta Samhita's magnet for arrowheads in India. 1044 the Chinese south-pointing iron fish. 1088 Shen Kuo's needle. About 1232 al-Awfi in Delhi describes the floating fish. 1269 Peregrinus and the two poles. 1600 Gilbert says the Earth is a magnet. 1820 Oersted's compass moves near a wire. 1894 Marie Curie begins studying magnets in steel. 1936 Inge Lehmann finds the solid core. 1975 magnetic bacteria described.  
+  *Parent does:* Help your child write and draw one card for each event: about 600 BCE Thales and the lodestone in Greece. About 240 BCE the Chinese 'loving stone'. The Sushruta Samhita's magnet for arrowheads in India. 1044 the Chinese south-pointing iron fish. 1088 Shen Kuo's needle. About 1232 al-Awfi in Delhi describes the floating fish. 1269 Peregrinus and the two poles. 1600 Gilbert says the Earth is a magnet. 1820 Oersted's compass moves near a wire. 1894 Marie Curie begins studying magnets in steel. 1936 Inge Lehmann finds the solid inner core. 1975 magnetic bacteria described.  
   *Parent says:* Let's make a timeline of how people learned about magnets. One card for each discovery, with a little drawing.  
   *Child mode:* Make 12 cards. Each one is a magnet discovery. Write the year and draw a little picture.
   - Note: The Sushruta Samhita is hard to date exactly. It was written down over many centuries, and the version we have is more than 1,500 years old. Put it between 240 BCE and 1044 with a question mark. BCE years count backwards: 600 BCE is earlier than 240 BCE.
@@ -474,31 +473,32 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Child mode:* Look at all the places on your cards. Did one country find out everything?
   - Think: Two women are on our timeline. Can you find out about other women who studied magnets?
 ### a4 · Gilbert's Little Earth: a needle on a thread (20 min)
-- **safety:** A grown-up ties the thread to the needle.
+- **safety:** Needles are sharp. A grown-up ties the thread, and puts the needle away afterwards.
 - **record:** Draw the magnet in the middle of the paper, and an arrow at each place for where the needle pointed.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Tie the thread around the middle of the needle. 2. Slide the knot until the needle hangs level. 3. Hold the thread up, far from any iron. Watch the needle settle.  
   *Parent says:* This hanging needle is a compass. Watch it settle north and south.  
   *Child mode:* Hang the needle on its thread. Keep it far from iron. Wait. Which way does it settle?
+  - Note: Tie the thread around the middle with a loose knot, and slide it until the needle hangs level. A tiny piece of tape over the knot stops it slipping.
 - **s2 (10 min)**  
   *Parent does:* 1. Put the magnet in the middle of the paper. 2. Hold the hanging needle about a hand's width from the magnet, at 8 places around it, like the numbers on a clock. 3. At each place, wait for it to settle and draw an arrow the way it points.  
   *Parent says:* Move the needle around the magnet slowly. Each time, draw which way it points.  
   *Child mode:* Hold the needle near the magnet. Move it around, like the hands of a clock. At each place, draw an arrow for where it points.
   - Note: Closer than a hand's width, the needle may jump onto the magnet. Further away, it starts to point north again, because there the Earth's magnetic field is stronger than the magnet's. Your arrows should curve around the magnet, from one end to the other, like the black sand lines.
 - **s3 (5 min)**  
-  *Parent does:* Compare the drawing to a picture of the Earth with a compass on it.  
+  *Parent does:* Compare the drawing to the picture of the Earth on the 'The Earth is a giant magnet' explanation card.  
   *Parent says:* Gilbert saw this and thought: a compass on the Earth behaves just like this. So the Earth must be a magnet.  
   *Child mode:* Your needle pointed along curved lines around the magnet. A compass on the Earth does the same. What did Gilbert decide?
   - Check: William Gilbert's tiny compass behaved the same around his magnet ball as compasses do on the real Earth. What did he decide? → **The Earth is a giant magnet**
 ### a5 · Find Your Beach: be a sea turtle (15 min)
-- **safety:** Play in a clear room or on grass. A grown-up walks beside the blindfolded child.
+- **safety:** Play in a clear room. A grown-up walks beside the blindfolded child.
 - **record:** Draw the path the turtle took.
 - **s1 (3 min)**  
   *Parent does:* 1. Put a cushion at one end of the room. This is the beach. 2. Lay the 4 cards on the floor in a line leading to it. Put WEAK furthest away and VERY STRONG next to the beach.  
   *Parent says:* A young sea turtle has no map. But the Earth's magnetic field is a little different in every part of the ocean. Its strength changes, and so does the angle at which it dips into the Earth. Turtles can sense both.  
   *Child mode:* The cushion is your home beach. Each card says how strong the Earth's magnetic field is there. You are a baby turtle. Can you find home?
 - **s2 (8 min) · grown-up needed**  
-  *Parent does:* 1. Blindfold your child at the far end. 2. Walk beside them. Each time they step near a card, whisper what it says. 3. Let them choose which way to go by whether it gets stronger or weaker.  
+  *Parent does:* 1. Blindfold your child and stand them at the WEAK end. 2. Walk beside them. Each time they take a step, whisper the card nearest to them: weak, medium, strong, very strong. 3. They choose which way to step. If it gets weaker, they turn round. They stop when they reach the cushion.  
   *Parent says:* Weak. Medium. Getting stronger. Which way is home?  
   *Child mode:* Walk slowly. Listen to how strong the field is. Stronger means you are getting closer. Find your beach!
   - Note: This is a simple model. Real turtles seem to sense both the strength of the Earth's magnetic field and the angle at which it dips into the Earth. Together these work like a map. Kenneth and Catherine Lohmann showed this with loggerhead turtles. Each beach has its own magnetic 'address'.
@@ -507,11 +507,10 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Parent says:* Olive ridley turtles nest on beaches in Odisha, at Gahirmatha and Rushikulya. They come back after years at sea. Scientists think they may find their beaches using the Earth's magnetic field.  
   *Child mode:* You found home without seeing! Real olive ridley turtles cross the sea to Odisha's beaches. How do you think it feels to know the way?
   - Check: How do scientists think young sea turtles find their way across the ocean? → **They sense the strength and the angle of the Earth's magnetic field**
-### a6 · Paint an Aurora (20 min)
-- **safety:** None.
+### a6 · Draw an Aurora (20 min)
 - **record:** Write one sentence under your picture about what makes auroras.
 - **s1 (3 min)**  
-  *Parent does:* Look together at a photo of an aurora, and the picture of the Earth's magnetic field.  
+  *Parent does:* Look together at an aurora photo (search 'aurora' on a phone, or find one in a book), and at the picture on the explanation card about the Earth's magnetic field.  
   *Parent says:* The Sun blows out tiny charged particles. The Earth's magnetic field steers them towards the poles. They hit the air high up and make it glow.  
   *Child mode:* Look at the aurora. Tiny particles from the Sun hit the air. The Earth's magnetic field steers them to the poles. The air glows.
 - **s2 (14 min)**  
@@ -524,7 +523,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Child mode:* Write one sentence. What makes an aurora?
   - Check: Why are auroras seen mostly near the North and South Poles? → **Because the Earth's magnetic field steers the Sun's tiny charged particles towards the poles**
 ### a7 · Heat Takes the Magnet Away (15 min)
-- **safety:** Only a grown-up does the heating. Hold the needle with tongs or pliers, never fingers. The needle stays hot for a minute after it stops glowing. No gas stove? Watch the grown-up do it on a friend's stove, or skip to the last step.
+- **safety:** Only a grown-up does the heating. Hold the needle with tongs or pliers, never fingers. The needle stays hot for a minute after it stops glowing. No gas stove? Skip this activity.
 - **record:** Write yes or no: picks up a pin before heating, after heating, and after stroking again.
 - **s1 (2 min)**  
   *Parent does:* Test the magnetised needle on a pin first.  
@@ -534,7 +533,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Parent does:* 1. Hold the needle by one end with tongs. 2. Put the other half in the hottest part of the gas flame, near the tip of the blue part. 3. Keep it there until it glows orange-red, about 30 seconds. 4. Lay it on the steel plate to cool for 2 minutes.  
   *Parent says:* Watch it glow. Heat makes the atoms jiggle. Will the tiny magnets stay lined up?  
   *Child mode:* Stand back and watch the grown-up. The needle glows red! Heat makes its atoms jiggle hard. Wait 2 minutes for it to cool.
-  - Note: Iron loses its magnetism at about 770 degrees Celsius, when it glows dull red. A thin needle reaches this in a gas flame within a minute. Only the part that glowed loses its magnetism. So test the heated end against the pin.
+  - Note: Iron loses its magnetism at about 770 degrees Celsius, when it glows dull red. A thin needle reaches this in a gas flame within a minute. Only the part that glowed loses its magnetism. So test the heated end against the pin. The half you did not heat is still a magnet, so a pin may still cling a little to that end. Test the end that glowed.
 - **s3 (4 min)**  
   *Parent does:* 1. When the needle is cool, touch its heated end to the pin. 2. Then stroke it 50 times with the magnet and test again.  
   *Parent says:* Is it still a magnet? And can we make it one again?  
@@ -548,18 +547,18 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 
 ## Projects
 ### p1 · My Compass Diary (50 min, 3 days)
-- **safety:** A grown-up handles the needle. Keep the compass bowl where nobody will knock it over.
+- **safety:** Needles are sharp. A grown-up handles the needle, and sticks it in a pincushion or a bar of soap between checks.
 - **record:** Write the date, the time, whether the needle picked up a pin, and where it pointed, each time you check. On day 3, draw your map.
 - **schedule:** day 1: Set up a compass station. Mark north. Test the needle on a pin and write it in the diary. (20 min); day 2: Check the compass in the morning and evening. Is the needle still a magnet? Does it still point north? (10 min); day 3: Use the compass to draw a map of your home with N, E, S and W. Find which way your front door faces. (20 min)
 - **s1 (20 min) · grown-up needed**  
-  *Parent does:* 1. Choose a spot for the compass, far from iron, the fridge and phones. 2. Float the needle and let it settle. 3. Stick a paper label marked N on the table where the needle's north end points. 4. Write the first diary entry.  
+  *Parent does:* 1. Choose a spot for the compass, far from iron, the fridge and phones. 2. Test the needle on a pin and write the result in the diary. 3. Float the needle on a fresh paper square and let it settle. 4. Stick a paper label marked N on the table where the needle's north end points. 5. Write the first diary entry.  
   *Parent says:* Let's set up a compass station. The observatory in Alibag has measured the Earth's magnetic field like this for over a hundred years.  
   *Child mode:* Pick a spot far from iron. Float your needle. Put a label N where it points. Write today's date and what you see.
 - **s2 (10 min)**  
-  *Parent does:* On day 2, check the compass twice and write what you see.  
+  *Parent does:* On day 2, float the needle again on a fresh paper square, twice (morning and evening), and write what you see.  
   *Parent says:* Does the needle still point to our N label? Is it still a magnet?  
-  *Child mode:* Check your compass in the morning and in the evening. Still pointing at N? Still a magnet? Write it down.
-  - Note: A steel needle usually stays magnetised for days or weeks, though it may get a little weaker. If it stops working, stroke it again and note that in the diary.
+  *Child mode:* Float your needle in the morning and again in the evening. Still pointing at N? Still picks up a pin? Write it down.
+  - Note: A steel needle usually stays magnetised for days or weeks, though it may get a little weaker. If it stops working, stroke it again and note that in the diary. The paper square gets soggy and sinks after a while, so use a fresh one each time and put the needle away between checks.
   - Wait: Come back tomorrow, and again the day after.
 - **s3 (20 min)**  
   *Parent does:* 1. On the big sheet, draw a simple plan of your home from above. 2. Use the compass to mark N, E, S and W on it. 3. Find which way the front door faces.  
@@ -572,7 +571,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 - **problem:** A floating needle compass works well on a table, but it sloshes about on a moving bus, a boat or in your hand. Design a compass that still points north while you walk around with it.
 - **your turn:** Now invent your own steady compass. Draw it, build it, and walk across the room with it. Does it still point north?
 - **constraints:** You may use only things from home.; Your compass must work while you walk slowly across the room holding it.; Test it with a phone compass, held at least half a metre away.
-- **general:** Hang the needle on a thread inside a clear bottle, so the wind can't move it.; Balance the needle on the point of a pin stuck upright in an eraser. This is a dry compass, like the ones on ships.; Use a small closed jar filled almost to the top with water, so the water can't slosh.
+- **general:** Hang the needle on a thread inside a clear bottle, so air in the room can't move it.; Balance the needle on the point of a pin stuck upright in an eraser. This is a dry compass, like the ones on ships.; Use a small closed jar filled almost to the top with water, so the water can't slosh.
 - **creative:** Glue the needle under a paper arrow and balance the arrow on a pin, so it is easier to read.; Sailors in the Arabian Sea floated iron fish in bowls. Later, ship compasses hung in rings that tilt, so they stay level when the ship rolls. Can you make a swinging holder?; Float the needle on a slice of cork in a small closed jar of cooking oil. Oil is thicker than water, so the needle swings less.
 - **s1 (5 min)**  
   *Parent does:* 1. Float the needle compass in a bowl. 2. Pick the bowl up and walk slowly across the room. 3. Watch what the needle does.  
@@ -591,7 +590,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Parent does:* Read the usual and creative solutions together, then invent one more.  
   *Parent says:* Here's what compass makers usually do, and some creative ideas. Can you beat them?  
   *Child mode:* Look at the usual ways and some creative ideas. Now invent your own. Can you beat them?
-  - Think: Turtles and robins carry their compass inside them. It never sloshes. How might a body do that?
+  - Think: Turtles and robins may sense the Earth's magnetic field with their own bodies. Nothing sloshes. How might a body do that?
 ### c2 · Iron-Proof: how far from iron must a compass be? (30 min)
 - **problem:** In the story, a big iron pot made the ship's compass point the wrong way. Find out how close iron things at home must be before they turn your compass needle. Then choose the best spot in your home for a compass station.
 - **your turn:** Now find the safest spot in your home for a compass station, and explain why you chose it.
@@ -606,16 +605,16 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
   *Parent does:* 1. Hold the compass right next to an iron thing. 2. Move back 10 cm at a time. 3. Stop when it points the normal way again. 4. Write down the distance. 5. Do this for 3 things.  
   *Parent says:* Move back 10 centimetres at a time. When does the needle go back to pointing the normal way?  
   *Child mode:* Start next to the iron thing. Step back 10 cm at a time. When does the needle point the normal way again? Write the distance.
-  - Note: Big iron things turn a compass needle from further away. A steel almirah or a fridge can turn it from 50 cm to a metre away. A small iron dosa tawa, perhaps from 20 to 30 cm. Your numbers will differ.
+  - Note: Big steel things usually turn a compass needle from further away than small ones. Expect distances of tens of centimetres. Your numbers will differ.
 - **s3 (10 min)**  
   *Parent does:* Draw a map with danger zones, and choose a safe spot.  
   *Parent says:* Where in our home is the safest spot for a compass?  
   *Child mode:* Draw your home. Colour a danger zone around each iron thing. Where is the safe spot?
-  - Check: A steel almirah turns the compass needle from up to 80 cm away. An iron dosa tawa turns it from up to 25 cm away. Why the difference? → **The almirah has much more iron, so its effect on the needle reaches further**
+  - Check: In one home, a steel almirah turned the compass needle from up to 80 cm away. An iron dosa tawa turned it from up to 25 cm away. Why the difference? → **The almirah has much more iron, so its effect on the needle reaches further**
 
 ## Worksheets
 ### Magnet Detective (core) (core, 16 questions)
-1. (sort) Kavya, a girl in Class 3 in Madurai, empties her pencil box and her mother's sewing tin onto the table. Sort each thing: will a magnet attract it?  
+1. (sort) Kavya, a girl in Class 3 in Madurai, empties her pencil box and a tin of sewing things onto the table. Sort each thing: will a magnet attract it?  
    **Answer:** a steel safety pin → Attracted; a brass key → Not attracted; aluminium foil → Not attracted; an iron nail → Attracted; a copper wire → Not attracted; a steel paper clip → Attracted; a rubber eraser → Not attracted; a steel sewing needle → Attracted. *Why:* The pin, nail, clip and needle are attracted, because they are iron or steel, and steel is mostly iron. Brass, aluminium and copper are metals too, but they have no iron, nickel or cobalt in them. Rubber is not a metal at all. A strong answer sorts by what the thing is made of, not by whether it is shiny or hard.
 2. (truefalse) A friend says, 'Every metal sticks to a magnet.' Is your friend right?  
    **Answer:** False. *Why:* False. Copper, brass, aluminium, gold and silver are all metals, and a magnet does not attract any of them. A magnet attracts iron, most steel, nickel and cobalt. A strong answer names one metal that does not stick, such as a brass key.
@@ -648,7 +647,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
    Options: Using the same kind of clips for both magnets / Using big clips for one magnet and small clips for the other / Counting the clips carefully / Testing each magnet three times  
    **Answer:** Using big clips for one magnet and small clips for the other. *Why:* In a fair test, only one thing changes: the magnet. Small clips are lighter, so a magnet could hold more of them. Then we could not tell if the magnet or the clips made the difference.
 14. (perspective) Two sisters in Chennai have a big flat fridge magnet and a tiny round magnet. They argue about which one is stronger.  
-   **Answer:** A strong answer uses evidence, such as the number of clips each magnet held. It sees that size is not the whole story: a tiny magnet made of a strong material can beat a big flexible one. It also gives the other sister her due. Kavya is right that, of two magnets made the same way, the bigger one is usually stronger. Divya is right that how hard it is to pull off is a real clue, but counting clips is fairer than feeling.. *Why:* There is no single right answer without a test. Strength depends on what the magnet is made of and how well its tiny magnets line up, as well as its size.
+   **Answer:** A strong answer uses evidence, such as the number of clips each magnet held. It sees that size is not the whole story: a tiny magnet made of a strong material can beat a big flexible one. It also gives the other sister her due. Meena is right that, of two magnets made the same way, the bigger one is usually stronger. Divya is right that how hard it is to pull off is a real clue, but counting clips is fairer than feeling.. *Why:* There is no single right answer without a test. Strength depends on what the magnet is made of and how well its tiny magnets line up, as well as its size.
 15. (write) Many people think a magnet attracts anything shiny. Plan a quick test at home to check this. Say which things you would test.  
    **Answer:** I would test shiny things that are not iron, such as aluminium foil, a brass diya and a steel tumbler, and dull things that are iron, such as an old rusty nail. If the shiny foil does not stick but the dull nail does, the idea is wrong.. *Why:* A strong plan tests both shiny things that are not iron and dull things that are, so it can really show whether shininess matters.
 16. (order) Put the steps for making a needle compass in order.  
@@ -681,7 +680,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 11. (write) In the story 'The Iron Fish', Amina, a ten-year-old girl on a sailing ship, rubbed the iron fish with the black stone 'from tail to nose, never back and forth'. Explain why, using the words 'tiny magnets'.  
    **Answer:** Each stroke in one direction turns more of the tiny magnets inside the iron to point the same way. Rubbing back and forth would turn some of them back again, so they would stay jumbled.. *Why:* A strong answer says that strokes in one direction line the tiny magnets up, and back-and-forth undoes the work.
 12. (write) In the black sand experiment, which of your samples gave the most black grains? Give a reason why that sample might have more.  
-   **Answer:** For example: the sand from the building site gave the most. Building sand comes from rivers that wash it out of rocks, and some rocks have lots of magnetite. The pot plant soil gave almost none, because it is mostly old leaves and compost.. *Why:* A strong answer uses the child's own result, and gives a reason about where that sand or soil came from and what it was made of.
+   **Answer:** For example: the sand from the building site gave the most. Building sand comes from rivers that wash it out of rocks, and some rocks have lots of magnetite. The soil from the flower pot gave almost none, because it is mostly old leaves and compost.. *Why:* A strong answer uses the child's own result, and gives a reason about where that sand or soil came from and what it was made of.
 13. (perspective) Rukmini, a grandmother in Mysuru, wears a magnet bracelet for her sore knee. Her family talks about it.  
    **Answer:** A strong answer uses the evidence: in tests where people did not know if their bracelet was real or fake, both groups felt about the same, so the magnet itself is not easing the pain. It also takes Paati seriously, because the pain she feels is real and feeling better is real too. And it sees the doctor's point about not skipping real treatment.. *Why:* This is a real trade-off. The science says magnet bracelets do not work by magnetism. But expecting to feel better can really make people feel better, and that is not nothing.
 14. (draw) Draw two squares of iron as if you were looking from very, very close. In the first square, draw the tiny magnets as arrows for a plain nail. In the second, draw them for a magnet.  
@@ -731,9 +730,9 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
    **Answer:** ['Liquid iron moves slowly in the outer core', 'Electric currents flow in the moving iron', 'The currents make a magnetic field around the whole Earth', 'Your compass needle lines up with the field']. *Why:* Each step causes the next. The field starts about 2,900 kilometres under your feet and reaches the needle in your bowl.
 
 ## Videos
-- **MAGNETS: How Do They Work?** (minutephysics, 3 min) id `hFAOXdXZ5TM`: For the parent and curious older children: a short, clear cartoon of how electron spins add up to make a magnet. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'MAGNETS: How Do They Work?', channel minutephysics). Not watched from here: a parent should preview it.
-- **How Earth Creates Its Magnetic Field** (2veritasium (Veritasium's second channel), 6 min) id `lWHxmJf6U3M`: Shows how moving liquid iron in the core makes the Earth into a magnet. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'How Earth Creates Its Magnetic Field', channel 2veritasium). Not watched from here: a parent should preview it and check its length.
-- **How quantum mechanics help birds find their way** (Nature (nature video), 5 min) id `0SPD2r0xV8k`: From the journal Nature: the idea that robins sense the Earth's magnetic field with their eyes, and why it is still being tested. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (title 'How quantum mechanics help birds find their way', channel nature video). Not watched from here: a parent should preview it and check its length.
+- **MAGNETS: How Do They Work?** (minutephysics, 3 min) id `hFAOXdXZ5TM`: For the parent and curious older children: a short, clear cartoon of how electron spins add up to make a magnet. *Check:* Preview it yourself before your child watches.
+- **How Earth Creates Its Magnetic Field** (2veritasium (Veritasium's second channel), 6 min) id `lWHxmJf6U3M`: Shows how moving liquid iron in the core makes the Earth into a magnet. *Check:* Preview it yourself before your child watches.
+- **How quantum mechanics help birds find their way** (Nature (nature video), 5 min) id `0SPD2r0xV8k`: From the journal Nature: the idea that robins sense the Earth's magnetic field with their eyes, and why it is still being tested. *Check:* Preview it yourself before your child watches.
 
 ## Quiz
 1. (mcq) A brass diya and an iron kadai are both made of metal. A magnet attracts the kadai but not the diya. Why?  
@@ -822,7 +821,7 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 - Is our steel tumbler magnetic? Why might some steel be and some not?
 - If every electron is a tiny magnet, why don't spoons stick to you?
 - Which way is north from where we're sitting? How could we check?
-- What would the iron fish in the story do if you put it next to the gas cylinder?
+- What would the iron fish in the story do beside a gas cylinder?
 - Is a magnet's magnetic field there even when there is nothing near it to attract?
 - How do you think a turtle senses their way home?
 - Which do you think stays a magnet longer: a stroked needle or a stroked nail? Why?
@@ -834,27 +833,13 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 - What did one magnet say to the other? *I find you very attractive.*
 - Why did the paper clip go to the magnet's party? *It couldn't resist the attraction.*
 - Why was the brass key sad at the magnet show? *Nobody was attracted to it.*
-- What do you call a magnet that tells the truth? *A compass. It always points the right way.*
-- Why did the compass go to school? *To find its direction in life.*
-- Why did the needle feel important after being stroked? *It finally had its act together, all its tiny magnets lined up.*
-- What is a magnet's favourite subject? *Attraction-matics.*
-- Why don't magnets ever get lost? *They always know which way is north.*
-- What did the steel nail say to the magnet? *I'm drawn to you.*
 - Why did the magnet walk straight past the aluminium can? *It just wasn't its type.*
-- Why did the electron refuse to pair up? *It wanted to make a magnet of itself.*
-- What did the domain say to its neighbours? *Let's all face the same way for once.*
 - Why was the red-hot needle so confused? *It completely lost its sense of direction.*
-- What does a turtle use to find their way? *Their shell-phone? No, the Earth's magnetic field!*
-- Why did the robin take a compass on holiday? *It didn't. Scientists think it may have one in its eyes.*
 - What is the Earth's favourite music? *Heavy metal, from its iron core.*
-- Why did the cooking pot get moved to the front of the ship? *It kept trying to steer.*
 - Why was the lodestone so popular? *It had a magnetic personality.*
-- How do magnets say goodbye? *I'll be drawn back soon.*
-- Why did the fridge magnet fall off the wooden door? *It had nothing to hold on to.*
 - What do you call a cow that follows a compass? *Moo-th and south.*
 - Why did the black sand stick to the magnet? *It had iron will.*
 - What do you call a magnet with only one pole? *Lonely, and nobody has ever met one.*
-- Why did the aurora get invited to every party? *It always lit up the sky.*
 
 ## Connected maths
 - In the paper clip chain test, the neodymium magnet held 12 clips. The ceramic magnet held 4 clips. How many times as many clips did the neodymium magnet hold? **3 times as many.**. The neodymium magnet held 12 clips and the ceramic magnet held 4. 12 divided by 4 is 3. So it held 3 times as many. Check: 4 + 4 + 4 = 12. (queues `math.division.sharing-and-grouping.L3`)
@@ -880,13 +865,12 @@ Tiny Magnets, All in Line (sci.magnets.L3): Topic-level song for Magnets L3
 - [NOAA Space Weather: Aurora forecast](https://www.swpc.noaa.gov/products/aurora-30-minute-forecast) · interactive: A live map of where auroras are glowing right now, made by watching the Sun and the Earth's magnetic field.
 
 ## Things to buy
-- [A set of school magnets: bar magnets and round ceramic magnets](https://www.amazon.in/s?k=bar+magnet+set+school) (tool): Bendy fridge magnets are often too weak to magnetise a needle. A bar or ceramic magnet works well for every experiment in this unit. Used in e1, e2, e3, a1, a2, a4. Used again in the Poles unit (sci.magnets.poles.L3).
+- [A set of school magnets: bar magnets and round ceramic magnets](https://www.amazon.in/s?k=bar+magnet+set+school) (tool): Bendy fridge magnets are often too weak to magnetise a needle. A bar or ceramic magnet works well for every experiment in this unit. Used in e1, e2, e3, a1, a2, a4. 
 - [Small neodymium disc magnets, about 10 mm across](https://www.amazon.in/s?k=neodymium+disc+magnet+10mm) (tool): Very strong for their size. They show in the paper clip chain test that a small magnet can be the strongest. Keep away from children under 5 and never let them near the mouth: two swallowed magnets can pinch the gut. Used in e2, e3. 
 - [A small magnetic compass](https://www.amazon.in/s?k=magnetic+compass+kids) (tool): To check your homemade needle compass and to make the map of your home. Used in e1, p1, c2. 
 - [A box of plain steel paper clips](https://www.amazon.in/s?k=steel+paper+clips) (material): For the paper clip chain test. Plastic-coated clips grip less well, so get plain metal ones. Used in e2. 
 - [Iron filings in a shaker](https://www.amazon.in/s?k=iron+filings+for+magnet+experiment) (material): Show a magnet's field more clearly than black sand. Keep them on paper and away from eyes. Used in a2. 
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+kids) (tool): To look closely at the black magnetite grains from sand. Used in e3. 
-- [What Makes a Magnet?, by Franklyn M. Branley (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=What+Makes+a+Magnet+Franklyn+Branley) (book): A clear picture book for ages 5 to 9 about magnets, including how to make a compass. Used in e1. If bought, read it on day 1 after the story. Its compass pages can come just before the floating needle compass.
 
 ## Warm-up
 - Name one metal a magnet attracts. → Iron, steel, nickel or cobalt.

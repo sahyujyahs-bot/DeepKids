@@ -6570,3 +6570,30 @@ body {
     transform: scale(1);
   }
 }
+
+/* learning from life: the topics a moment links to */
+.lifelinks {
+  gap: 0;
+}
+.lifelink {
+  display: flex;
+  gap: 12px;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 10px 0;
+  border-bottom: 1px dashed var(--line);
+}
+.lifelink:last-child {
+  border-bottom: 0;
+}
+.lifelink > div {
+  min-width: 0;
+}
+.lifelink p {
+  margin: 4px 0 0;
+}
+.lifeskill {
+  padding: 8px 12px;
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--pist) 16%, var(--surface));
+}

@@ -491,7 +491,7 @@
    "claim": "Water always makes things weaker.",
    "who": "A guess many people make, because wet paper and wet cardboard fall apart.",
    "for": "Wet paper tears. Wet cardboard goes soft. Wet mud is weak.",
-   "against": "Wet cotton thread is stronger than dry. In the story of this unit, damp air saved the muslin spinners. Damp sand is firmer than dry sand. Egyptians poured water on sand to slide heavy stone on sledges. Water can help or harm, depending on the material.",
+   "against": "Wet cotton thread is stronger than dry. Textile scientists have measured this. Damp sand is firmer than dry sand. Egyptians poured water on sand to slide heavy stone on sledges. Water can help or harm, depending on the material.",
    "status": "rejected",
    "context": "This card looks at the idea that water is always a problem for materials."
   },
@@ -516,11 +516,6 @@
    "hint": "Think of the same bricks. You can build a strong wall, or just pile them in a heap. What changes?"
   },
   {
-   "q": "A steel spoon and a wooden spoon are the same temperature, but the steel spoon feels colder. What is your hand really feeling?",
-   "kind": "deep",
-   "hint": "Your hand is warmer than the spoon. Which spoon takes the warmth away faster?"
-  },
-  {
    "q": "Glass and wood are both made of atoms. Why can light go through glass but not through a wooden door?",
    "kind": "deep",
    "hint": "Light has to get past the tiny electrons. In glass they are held tight. In wood, they and the fibres soak up and scatter the light."
@@ -529,11 +524,6 @@
    "q": "If nobody ever scratched a stone, would it still be hard?",
    "kind": "deep",
    "hint": "A property is what would happen if you tested it. Is that the same as what is happening right now?"
-  },
-  {
-   "q": "Toilet paper falls apart when it gets wet. Is that a bad property or a good one?",
-   "kind": "deep",
-   "hint": "Think about where toilet paper goes after it is used. What would happen in the pipes if it stayed strong?"
   },
   {
    "q": "Long ago, traders in different towns had different weights. Why is it fairer when everyone uses the same units?",
@@ -556,19 +546,9 @@
    "hint": "Wood, cotton, wool, silk, leather, bamboo, shell, pearl. Which ones do you wear or use?"
   },
   {
-   "q": "In the story, was the thread's strength in the thread, in the air, or in the two together?",
-   "kind": "deep",
-   "hint": "The same thread held more shells at dawn than at noon. What changed between dawn and noon, and what stayed the same?"
-  },
-  {
    "q": "Diamond, pencil lead and soot are all carbon. Could every material be just a few kinds of atom, joined in different patterns?",
    "kind": "big",
    "hint": "Think of the same 26 letters making every word in a book. Is the meaning in the letters or in the order?"
-  },
-  {
-   "q": "In our story, a ten-year-old found out why the thread broke when the grown-ups blamed the cotton. Why do you think nobody asked her sooner?",
-   "kind": "big",
-   "hint": "Think about who gets listened to. Who can see things that others miss?"
   }
  ],
  "story": {
@@ -593,7 +573,7 @@
    "Nobody wrote down Pishi's name, or Shefali's. The cloth got a name, and a price, and an owner far away. But in the village the new hours stayed. The mothers said to their daughters, 'Spin while the air is wet.' They did not say why, because by then nobody remembered who had counted.",
    "That kind of muslin is no longer made. The last masters grew old, the special cotton nearly vanished, and the world changed. Today, weavers and scientists are trying to bring it back, and the first thing they have to learn is what Shefali learned. A thread has a strength. But the strength depends on the air it lives in."
   ],
-  "epiphany": "For the parent: a property is not a fixed fact. The strength of cotton thread changes with the dampness of the air. The grown-ups guessed, and blamed the cotton, the hands and the river. Shefali counted. She used the same length, the same shells and the same method every time. So the numbers could be compared. Only then could the real cause show up. The story also quietly asks who gets heard, and who gets named.",
+  "epiphany": "For the parent: a property is not a fixed fact. The strength of cotton thread changes with the dampness of the air. The grown-ups guessed, and blamed the cotton, the hands and the river. Shefali counted. She used the same length, the same shells and the same method every time. So the numbers could be compared. Only then could the real cause show up.",
   "ask": [
    "In the story, the thread snapped at noon but not at dawn. What did Shefali think had changed?",
    "How did Shefali make her test fair? Why did she cut every thread to the same length?",
@@ -676,17 +656,37 @@
      "kind": "tokens",
      "title": "20 score tokens (small paper circles)",
      "items": [
-      "star"
+      "Star token",
+      "Star token",
+      "Star token",
+      "Star token",
+      "Star token",
+      "Star token",
+      "Star token",
+      "Star token",
+      "Star token",
+      "Star token",
+      "Star token",
+      "Star token",
+      "Star token",
+      "Star token",
+      "Star token",
+      "Star token",
+      "Star token",
+      "Star token",
+      "Star token",
+      "Star token"
      ]
     }
    ],
    "rules": [
-    "Shuffle the 36 cards. Deal 5 to each player. Put the rest face down in a pile.",
+    "Shuffle the 36 property cards. Deal 5 to each player. Put the rest face down in a pile. Put the 6 challenge cards face down in a second pile.",
     "A set is three cards for the same property: its WORD, its TEST and its EXAMPLE.",
-    "On your turn, ask one player for a card. You must name the property and the kind. For example, 'Do you have the TEST for brittle?'",
-    "If they have it, they give it to you and you ask again. If not, you draw a card and your turn ends.",
-    "When you have a complete set, lay it down. Read all three cards out loud. Take a score token.",
-    "If you get a challenge card, answer it. A good answer wins a bonus token. When all the sets are laid down, the player with the most tokens wins."
+    "On your turn, ask one player for a card. You must already hold a card of that property, and you must name the property and the kind. For example, 'Do you have the TEST for brittle?'",
+    "If they have it, they give it to you and you ask again. If not, you draw a card from the pile and your turn ends. If the pile is empty, your turn just ends. If you have no cards on your turn, draw up to 5.",
+    "As soon as you hold a complete set, even after drawing, lay it down. Read all three cards out loud and say whether the test and the example really fit. Take a star token.",
+    "Then draw a challenge card and answer it. A good answer wins a bonus star token. When the challenge pile is empty, skip this part.",
+    "The game ends when all 12 sets are laid down. The player with the most star tokens wins. If you tie, you share the win."
    ],
    "flow": [
     {
@@ -702,7 +702,7 @@
      "mins": 3,
      "do": "Play one practice turn together. Ask: which TEST goes with 'translucent'?",
      "say": "Let's practise. Here is one card: 'Hold it in front of a torch. A blurry glow shows on the wall.' Which property does it test?",
-     "kid": "Read the test card. Which property does it show? Tap your answer.",
+     "kid": "Read the test card. Which property does it show? Choose your answer.",
      "check": {
       "t": "mcq",
       "q": "Hold it in front of a torch. A blurry glow shows on the wall. Which property is that?",
@@ -717,8 +717,8 @@
     },
     {
      "id": "s3",
-     "mins": 10,
-     "do": "Play the game. When you lay down a set, read all three cards aloud. Say whether the test and the example really fit.",
+     "mins": 7,
+     "do": "Play the game. When you lay down a set, read all three cards aloud and say whether the test and the example really fit. Then draw a challenge card and answer it.",
      "say": "Remember to say the property and the kind of card you are asking for. If you disagree with a match, say why.",
      "kid": "Take turns. Ask for a card by name and kind. Lay down each complete set and read it aloud.",
      "parent": "Good habit: when a set is laid down, ask 'Does that test really show that property?' This is the heart of the game."
@@ -726,7 +726,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Take a challenge card. Read it aloud and let the table discuss the answer before anyone reveals it.",
+     "do": "Take any challenge cards that are still unused. Read one aloud and let the table discuss the answer before anyone reveals it.",
      "say": "Here is a tricky card. Talk about it together first. Then someone can say the answer.",
      "kid": "A challenge card! Talk about it together. Then answer.",
      "ask": [
@@ -739,7 +739,7 @@
        ]
       }
      ],
-     "parent": "Key answers. Hard means hard to scratch, and brittle means it snaps, so glass is hard and brittle. A rubber band is elastic because it springs back, and cloth is only flexible because it stays bent. Test waterproof by dripping water on it. Butter paper turns opaque in a tall stack."
+     "parent": "Key answers. Hard means hard to scratch, and brittle means it snaps, so glass is hard and brittle. A rubber band is elastic because it springs back, and cloth is only flexible because it stays bent. Test waterproof by dripping water on it. Butter paper turns opaque in a tall stack. A rope is soft but strong, and chalk is rigid but weak. Glass is rigid and brittle, and a steel plate is rigid and not brittle."
     },
     {
      "id": "s5",
@@ -791,27 +791,17 @@
       "Granite: hard 5, flexible 0, transparent 0, absorbent 0, strong 2",
       "Brick: hard 4, flexible 0, transparent 0, absorbent 3, strong 2",
       "Clay pot: hard 3, flexible 0, transparent 0, absorbent 3, strong 1",
-      "Diamond (joker): hard 5, flexible 0, transparent 5, absorbent 0, strong 4"
-     ]
-    },
-    {
-     "kind": "score sheet",
-     "title": "A score sheet with a column for each player and a row for each round",
-     "items": [
-      "Round",
-      "Property chosen",
-      "Winner",
-      "Why that material scores high or low"
+      "Diamond: hard 5, flexible 0, transparent 5, absorbent 0, strong 4"
      ]
     }
    ],
    "rules": [
-    "Deal all the cards. Each player holds their pile face up, so they see only the top card.",
+    "Deal all the cards one at a time. If some are left over, put them aside. Each player keeps a face-down pile and looks only at the top card.",
     "The first player picks one property from their top card and reads out its score. They must say why the material scores high or low. For example, 'Steel, hard 5, because a nail cannot scratch it.'",
-    "Everyone else reads out the same property from their top card. The highest score wins all the top cards.",
-    "If there is a tie, put the cards in the middle. The next winner takes them too.",
+    "Everyone else reads out the same property from their top card. The highest score wins all the top cards. The winner puts them at the bottom of their pile and picks the property for the next round.",
+    "If there is a tie, put the cards in the middle. The winner of the next round takes them too.",
     "The scores on these cards are rough guesses, for fun. You will make a better set from real measurements in the project.",
-    "The player with the most cards after 15 minutes wins."
+    "The game ends when one player has no cards left, or after 15 minutes. The player with the most cards wins."
    ],
    "flow": [
     {
@@ -827,7 +817,7 @@
      "mins": 3,
      "do": "Play one practice round. Show the top cards. Ask: 'If I chose absorbent, who would win?'",
      "say": "Let's practise with one round. Look at your top cards. If I pick 'absorbent', who wins?",
-     "kid": "Look at your top cards. If we pick 'absorbent', who wins? Tap your answer.",
+     "kid": "Look at your top cards. If we pick 'absorbent', who wins? Choose your answer.",
      "check": {
       "t": "mcq",
       "q": "Cotton cloth is absorbent 5. Clear plastic is absorbent 0. In a round on 'absorbent', who wins?",
@@ -842,11 +832,11 @@
     },
     {
      "id": "s3",
-     "mins": 10,
+     "mins": 12,
      "do": "Play the game. Before each round, the chooser says why their material scores high or low. If anyone disagrees with a score, test it for real if you can.",
      "say": "Remember to say why. Why is steel strong 5? Why is glass flexible 0? If you disagree with a score, say what you would change.",
      "kid": "Take turns. Choose a property. Say why your material scores high or low.",
-     "parent": "Good reasons for scores: Steel is hard 5, because a nail cannot scratch it. Glass is flexible 0, because it snaps. Cotton is absorbent 5, because it soaks up water. Diamond is the joker. It scores high for almost everything, because it is the hardest natural material and is clear."
+     "parent": "Good reasons for scores: Steel is hard 5, because a nail cannot scratch it. Glass is flexible 0, because it snaps. Cotton is absorbent 5, because it soaks up water. Diamond scores high for hard, transparent and strong, because it is the hardest natural material and is clear."
     },
     {
      "id": "s4",
@@ -1388,7 +1378,7 @@
      "p": "Invent a test for a property we have not tested, such as how sticky a tape is. Say what you would measure, what you would keep the same, and the unit.",
      "lines": 5,
      "a": "For stickiness: stick the same length of tape to the same smooth table. Hang a small bag from the free end. Pour in water one spoon at a time until the tape peels off. Keep the tape length, the table and the way I press it the same. The unit is spoons of water.",
-     "why": "A good test measures one thing, keeps everything else the same, and gives a number with a unit. This is what the testing-materials unit is all about."
+     "why": "A good test measures one thing, keeps everything else the same, and gives a number with a unit."
     },
     {
      "t": "sort",
@@ -1545,11 +1535,11 @@
     },
     {
      "t": "mcq",
-     "p": "A classmate says, 'Rubber is a good material and glass is a bad one.' Which reply is best?",
+     "p": "A boy in your class says, 'Rubber is a good material and glass is a bad one.' Which reply is best?",
      "opts": [
       "Each is good for some jobs: rubber for a tyre, glass for spectacles",
-      "He is right, because glass breaks",
-      "He is wrong, because glass is always better",
+      "The boy is right, because glass breaks",
+      "The boy is wrong, because glass is always better",
       "Materials cannot be compared"
      ],
      "a": 0,
@@ -1581,7 +1571,7 @@
    "days": 1,
    "question": "When we push a thing past its limit, does it snap, stay bent, or spring back?",
    "predict": "Before you test anything, put the eight things into three piles: SNAPS, STAYS BENT and SPRINGS BACK. Which pile does each one go in, and why do you think so?",
-   "fair_test": "To make it fair, bend every thing slowly, with two hands, the same way each time. Use a new piece each time, because a bent piece is not the same any more. Do each test twice.",
+   "fair_test": "To make it fair, bend every thing slowly, with two hands, the same way each time. Do each test twice. Things that snap need a spare piece for the second go. Straighten the others and bend them again.",
    "results_table": [
     "Thing",
     "Bend a little: does it spring back?",
@@ -1670,7 +1660,7 @@
     },
     {
      "id": "s3",
-     "mins": 10,
+     "mins": 9,
      "do": "Test each of the eight things. Do each one twice, with a new piece if the first one broke. Write what happens in the table.",
      "say": "Test all eight. Do each twice. Write down what you see. For the spaghetti, count the pieces.",
      "kid": "Test all eight things, twice each. Write what happens. Count the pieces of the spaghetti.",
@@ -1840,7 +1830,7 @@
      "qty": 1
     }
    ],
-   "safety": "Cut the strips with child scissors, or ask a grown-up to cut the card. Do not use anything sharp or splintery.",
+   "safety": "A grown-up cuts the corrugated card, which is hard to cut with child scissors.",
    "schedule": [
     {
      "day": 1,
@@ -1869,7 +1859,7 @@
     },
     {
      "id": "s3",
-     "mins": 10,
+     "mins": 8,
      "do": "1. Hold the ruler upright, just beside the tip of the strip. 2. Put its 0 mark level with the table top. 3. Bend down so your eyes are level with the tip. 4. Read how far the tip has dropped. 5. Do this 3 times for each strip. If a strip hangs straight down, write 10.",
      "say": "The drop is how far the tip goes down from the table top. A small drop means rigid. A big drop means flexible.",
      "kid": "Hold the ruler upright by the tip. Read how far it dropped. Do it 3 times.",
@@ -2033,7 +2023,7 @@
      "qty": 4
     },
     {
-     "item": "newspaper: 4 strips, each 1 centimetre wide and 25 centimetres long, all cut in the same direction, down the length of the page",
+     "item": "newspaper: 4 strips, each 3 centimetres wide and 25 centimetres long, all cut in the same direction, down the length of the page",
      "qty": 4
     },
     {
@@ -2073,7 +2063,7 @@
      "qty": 1
     }
    ],
-   "safety": "Stand the bucket under the bag, so the water falls into it. Wipe up any spills at once, so no one slips. Keep the bag away from babies and toddlers.",
+   "safety": "Keep the plastic bag away from babies and toddlers.",
    "schedule": [
     {
      "day": 1,
@@ -2114,7 +2104,7 @@
     },
     {
      "id": "s3",
-     "mins": 12,
+     "mins": 15,
      "do": "1. Fill the cup to the brim and pour it gently into the bag. Count out loud. 2. Keep adding one cup at a time. 3. When the strip tears, write down how many cups were in the bag. 4. Empty the bag and test the second dry strip. 5. Then test the dry newspaper and the dry thread the same way, twice each.",
      "say": "Pour gently, so the bag does not swing. Count each cup out loud. When the strip tears, write down the number.",
      "kid": "Pour one cup at a time and count. Write the number when it tears.",
@@ -2124,7 +2114,7 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "1. Hang a new dry strip with the empty bag, as before. 2. Dip a fingertip in the bowl of water. 3. Dab the middle of the strip, right across from edge to edge. Stop when a band about 3 centimetres tall looks dark and damp. For the thread, run a wet finger along the middle of both strands. 4. Wait one minute. 5. Pour in water, one cup at a time, and write the number when it tears. 6. Do each material twice.",
+     "do": "1. Hang a new dry strip with the empty bag, as before. 2. Dip a fingertip in the bowl of water. 3. Dab the middle of the strip, right across from edge to edge. Stop when a band about 3 centimetres tall (the whole width of the newspaper strip) looks dark and damp. For the thread, run a wet finger along the middle of both strands. 4. Wait one minute. 5. Pour in water, one cup at a time, and write the number when it tears. 6. Do each material twice.",
      "say": "Now we make the middle of each strip damp, not dripping. Then we pour, just like before. Watch what happens.",
      "kid": "Wet your fingertip. Touch the middle of the strip. Then pour and count.",
      "parent": "Make the damp band go right across the strip. If one edge stays dry, the dry part still holds the bag. If a damp toilet paper strip tears before any water goes in, write 0. That is a real result. We hang the strip first and dampen it after, because a damp strip is hard to hang without tearing.",
@@ -2136,7 +2126,7 @@
      "do": "Help your child fill in the last column, then compare the changes.",
      "say": "For each material, look at dry and damp. Write weaker, stronger or about the same. Which one changed the most?",
      "kid": "Look at dry and damp for each one. Write weaker, stronger or the same.",
-     "parent": "Your numbers depend on your paper, your thread and your cup, so they will not match anyone else's. With a cup of about 200 millilitres, expect roughly this. Dry toilet paper holds about 1 to 6 cups, and dry newspaper about 2 to 10. Both damp papers usually tear before the second cup, often before the first. Paper is held together by joins where its fibres touch, and water loosens these joins. The doubled thread usually holds about 2 to 7 cups, dry or damp. Textile scientists find damp cotton is about one tenth to one fifth stronger. A change that small may not show when you count whole cups, so 'about the same' is an honest result.",
+     "parent": "Your numbers depend on your paper, your thread and your cup, so they will not match anyone else's. With a cup of about 200 millilitres, expect roughly this. Dry toilet paper holds about 1 to 6 cups, and dry newspaper about 2 to 8. Both damp papers usually tear before the second cup, often before the first. Paper is held together by joins where its fibres touch, and water loosens these joins. The doubled thread usually holds about 2 to 7 cups, dry or damp. Textile scientists find damp cotton is about one tenth to one fifth stronger. A change that small may not show when you count whole cups, so 'about the same' is an honest result.",
      "check": {
       "t": "mcq",
       "q": "A newspaper strip held 6 cups of water when dry and 1 cup when damp. What can you say?",
@@ -2242,7 +2232,7 @@
    "days": 1,
    "question": "How many seconds does one drop of water take to vanish on each surface? Which surfaces never let it in?",
    "predict": "Line up the six surfaces. Put the one you think soaks up a drop fastest first, and the one that never soaks it up last. Why do you think so?",
-   "fair_test": "To make it fair, make every drop the same size, using the same dropper or the same spoon tip. Place each drop in a fresh spot. Stop at 120 seconds if the drop is still there. Test each surface 3 times.",
+   "fair_test": "To make it fair, make every drop the same size, using the same dropper or the same spoon tip. Put one drop on every piece at the same time, and time all six together. Do three rounds, each time on a fresh spot. Stop a round at 120 seconds if a drop is still there.",
    "results_table": [
     "Surface",
     "Try 1: seconds",
@@ -2264,7 +2254,7 @@
      "qty": 1
     },
     {
-     "item": "a plate to rest the pieces on",
+     "item": "a plate or tray to rest the pieces on",
      "qty": 1
     },
     {
@@ -2284,7 +2274,6 @@
      "qty": 1
     }
    ],
-   "safety": "Wipe up spilt water so no one slips.",
    "schedule": [
     {
      "day": 1,
@@ -2306,17 +2295,17 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Lay the first piece flat on the plate. 2. Make one drop from the dropper. 3. Start the timer the moment the drop touches. 4. Look from the side. 5. Stop the timer when the shiny drop is gone.",
-     "say": "Put one drop on the surface and start the timer at once. Watch from the side. Stop when the shiny drop has gone into the material.",
-     "kid": "Put one drop on a piece. Start the timer. Stop when the shiny drop is gone.",
+     "do": "1. Lay the six pieces flat on the tray, a few centimetres apart. 2. Fill the dropper with water. 3. Put one drop on each piece, one after the other, quickly. 4. Start the timer when the last drop lands. 5. Look from the side. When a drop's shiny top is gone, write the seconds beside that piece.",
+     "say": "Put one drop on each surface, then start the timer. Watch from the side. Stop when a shiny drop has gone into the material, and write down the seconds.",
+     "kid": "Put one drop on each piece. Start the timer. Write the seconds when each shiny drop is gone.",
      "parent": "If the drop is still sitting there after 120 seconds, stop and write 120. That is a result, and it means the surface is waterproof. Use a fresh spot for each try."
     },
     {
      "id": "s3",
-     "mins": 10,
-     "do": "Test each surface 3 times, in fresh places. Write down the seconds each time.",
-     "say": "Do all six surfaces, three tries each. Write the seconds. For the plastic, write 120 if the drop is still there.",
-     "kid": "Test each surface three times. Write the seconds. If the drop is still there after 120, write 120.",
+     "mins": 7,
+     "do": "Do two more rounds. Put each new drop on a fresh spot of the same piece. Write down the seconds each time.",
+     "say": "Do two more rounds, six drops each time. Write the seconds. For the plastic, write 120 if the drop is still there.",
+     "kid": "Do two more rounds. Write the seconds. If a drop is still there after 120, write 120.",
      "parent": "To find the middle value, put the three numbers in order and take the middle one. If one try is very different, check that the drop was the same size."
     },
     {
@@ -2382,7 +2371,7 @@
      "do": "Fill a plate with water. Shake pepper onto it. Dip a finger in dish soap and touch the middle. Also look at a drop on a colocasia leaf, if you have one.",
      "say": "Pepper floats on the water. Now touch the middle with a soapy finger. What happens? The surface of water acts like a thin, stretchy skin. Soap weakens it.",
      "kid": "Sprinkle pepper on a plate of water. Touch the middle with a soapy finger. Watch the pepper!",
-     "parent": "The pepper rushes to the edge. The skin of water, called surface tension, is weaker where the soap touches. The stronger skin around pulls the pepper away. The same skin is why a drop is round on the colocasia leaf. The leaf is covered with tiny wax bumps, so the water cannot spread. The testing-materials unit tells the story of Agnes Pockels, who studied this skin in her kitchen."
+     "parent": "The pepper rushes to the edge. The skin of water, called surface tension, is weaker where the soap touches. The stronger skin around pulls the pepper away. The same skin is why a drop is round on the colocasia leaf. The leaf is covered with tiny wax bumps, so the water cannot spread. Agnes Pockels, a woman in Germany, studied this skin in her kitchen."
     },
     {
      "id": "s6",
@@ -2683,7 +2672,7 @@
      "qty": 1
     }
    ],
-   "safety": "Use nothing sharp or breakable. Keep the small things away from babies and toddlers.",
+   "safety": "Keep the small things away from babies and toddlers.",
    "schedule": [
     {
      "day": 1,
@@ -2692,7 +2681,7 @@
     }
    ],
    "record": "Write down the three property words that gave the best clue for each thing.",
-   "context": "In this game you feel things you cannot see, inside a bag, and describe them with property words only. A friend then guesses what they are.",
+   "context": "In this game you feel things you cannot see, inside a bag, and describe them with property words only. Another player then guesses what they are.",
    "flow": [
     {
      "id": "s1",
@@ -2808,10 +2797,10 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Fill in the passport with these questions. Hard or soft? Rigid or flexible? Shiny or dull? Rough or smooth? See-through or not? Waterproof or absorbent? Cold to touch or not? Does it ring when tapped? Does it float? Write one answer for each.",
+     "do": "Fill in the passport with these questions. Hard or soft? Rigid or flexible? Shiny or dull? Rough or smooth? See-through or not? Waterproof or absorbent? Cold to touch or not? Does it ring when tapped? Write one answer for each.",
      "say": "Let's ask the tumbler these questions one by one. For each, look, touch or try it. Then write the answer.",
      "kid": "Ask the tumbler each question. Look, touch or try it. Write the answers in the passport.",
-     "parent": "Expected answers for steel: hard, rigid, shiny, smooth, opaque and waterproof. It feels cold and rings when tapped. An empty tumbler floats if you set it down gently, upright, on a bucket of water. A solid lump of steel would sink."
+     "parent": "Expected answers for steel: hard, rigid, shiny, smooth, opaque and waterproof. It feels cold and rings when tapped."
     },
     {
      "id": "s3",
@@ -2911,7 +2900,7 @@
      "kid": "Stretch the string. One end is hardest. The other is softest. Try your fingernail on each thing.",
      "adult": true,
      "context": "This is the first step of the Property Ladder. You put things in order on a line, from most to least of one property. Here the property is hardness.",
-     "parent": "This is a small version of the Scratch Ladder in the unit Sorting materials, which does the full test. Here we only need three groups: scratched by a fingernail, scratched only by a nail, and not scratched by either."
+     "parent": "Here we only need three groups: scratched by a fingernail, scratched only by a nail, and not scratched by either."
     },
     {
      "id": "s2",
@@ -3001,7 +2990,7 @@
      "qty": 1
     },
     {
-     "item": "a picture with red, green and blue things, such as a flower, a leaf and a toy",
+     "item": "a picture or some objects with red, green and blue in them, such as a flower, a leaf and a toy",
      "qty": 1
     },
     {
@@ -3009,7 +2998,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not shine the torch into anyone's eyes. Never look at the Sun through anything.",
+   "safety": "Do not shine the torch into anyone's eyes.",
    "schedule": [
     {
      "day": 1,
@@ -3212,7 +3201,7 @@
      "qty": 1
     }
    ],
-   "safety": "Wipe up spilt water. A child should never be left alone near a bucket of water.",
+   "safety": "A child should never be left alone near a bucket of water.",
    "schedule": [
     {
      "day": 1,
@@ -3346,12 +3335,12 @@
     },
     {
      "day": 2,
-     "mins": 30,
+     "mins": 35,
      "what": "Turn your results into scores from 0 to 5. Make the cards."
     },
     {
      "day": 3,
-     "mins": 25,
+     "mins": 20,
      "what": "Play your deck. Compare it with the rough deck and find where they differ."
     }
    ],
@@ -3361,7 +3350,7 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "1. Gather your results from five tests. 2. The Property Ladder gives hard. 3. The droop test gives flexible. 4. The layers test gives transparent. 5. The vanishing drop gives absorbent. 6. The dry results of the Dry or Damp test give strong. 7. Choose 8 materials that appear in several tests. 8. Write their numbers in one big table, with a row for each material.",
+     "do": "1. Gather your results from five tests. 2. The Property Ladder gives hard: count each material's place from the soft end, with the softest as 1. 3. The droop test gives flexible: the drop in centimetres. 4. The layers test gives transparent: the number of layers until it is dark. 5. The vanishing drop gives absorbent: the seconds. 6. The dry results of the Dry or Damp test give strong: the cups. 7. Choose 8 materials that appear in several tests. 8. Write their numbers in one big table, with a row for each material.",
      "say": "You have done many tests. Let's collect the numbers in one big table. One row for each material, one column for each property.",
      "kid": "Look at your results. Choose 8 materials. Put their numbers in one big table.",
      "context": "This is the first step of the Property Trumps project. You gather all your measurements into one table, one row for each material.",
@@ -3447,7 +3436,7 @@
    ],
    "materials": [
     "three samples in paper bags, such as aluminium foil, waxed paper and a piece of thin plastic",
-    "a cup of water, a torch, a fridge magnet, a spoon, a small fork",
+    "a cup of water, a torch, a fridge magnet, a spoon",
     "paper and a pencil"
    ],
    "general": [
@@ -3535,7 +3524,7 @@
     "a cardboard frame with a square hole about 20 centimetres wide, as a model window",
     "butter paper, tissue paper, thin cotton, a plastic sheet, newspaper, a sheet of foil",
     "scissors, sticky tape, a torch, a pencil",
-    "a friend to stand on the other side"
+    "someone to stand on the other side"
    ],
    "general": [
     "Stick butter paper or tracing paper over the hole. It is translucent, so it lets in light but blurs the picture.",
@@ -3553,7 +3542,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Make the cardboard frame with a square hole. 2. Ask your friend to stand on the other side and hold up a picture or a face. 3. Look through the empty frame. Everything is clear.",
+     "do": "1. Make the cardboard frame with a square hole. 2. Ask someone to stand on the other side and hold up a picture or a face. 3. Look through the empty frame. Everything is clear.",
      "say": "This is our window. Look through the empty frame. You can see everything. How can we hide the person but keep the light?",
      "kid": "This is your model window. Look through it. You can see everything. How can you hide the person and keep the light?",
      "context": "This is the first step of The Privacy Window. It is a design challenge. You find a material that lets light in but hides what is behind it."
@@ -3615,7 +3604,7 @@
    "youtube": "VwRLIt6jgdM",
    "mins": 5,
    "why": "A materials scientist explains why light passes through glass but not through most other materials. Good for curious older children and the parent, after the card on why glass is clear.",
-   "check": "Found by YouTube search: \"Why is glass transparent? - Mark Miodownik\" by TED-Ed. Title checked automatically. Length is a guess. A parent should preview it."
+   "check": "Watch it first, then decide if it suits your child."
   },
   {
    "title": "The Mohs Scale of Hardness Explained",
@@ -3623,7 +3612,7 @@
    "youtube": "xZUgWzRpA-4",
    "mins": 4,
    "why": "Shows minerals being scratched against each other and put on the ladder from talc to diamond. It uses the same idea as the Property Ladder.",
-   "check": "Found by YouTube search: \"The Mohs Scale of Hardness Explained\" by MooMooMath and Science. Title checked automatically. Length is a guess. A parent should preview it."
+   "check": "Watch it first, then decide if it suits your child."
   },
   {
    "title": "Textile hub Bangladesh revives muslin, the forgotten elite fabric",
@@ -3631,7 +3620,7 @@
    "youtube": "VhIzcIiwZo4",
    "mins": 4,
    "why": "A short news report on the fine cotton cloth of Bengal that the story is about. It also shows the people trying to bring it back. Not made for children.",
-   "check": "Found by YouTube search: \"Textile hub Bangladesh revives muslin, the forgotten elite fabric\" by Al Jazeera English. Title checked automatically. Length is a guess. A parent should preview it."
+   "check": "Watch it first, then decide if it suits your child."
   }
  ],
  "quiz": [
@@ -3716,30 +3705,17 @@
   },
   {
    "t": "mcq",
-   "p": "In the story, cotton thread held 14 shells in the damp dawn and 11 at noon. What did Shefali find out?",
+   "p": "In the story, Shefali cut every thread to the same length and used shells of the same size. Why?",
    "opts": [
-    "Cotton thread is stronger when it is damp",
-    "The shells were heavier at noon",
-    "The thread was tired",
-    "The river was angry"
+    "So that only the dampness changed, and the numbers could be compared",
+    "So that the shells would not fall out",
+    "So that the thread would look neat",
+    "Because the village told her to"
    ],
    "a": 0,
    "outcome": 5,
-   "why": "She kept the thread, the length and the shells the same. Only the dampness changed. When she wet a noon thread, it held 14. So damp makes cotton a little stronger. 'Angry river' and 'tired thread' are guesses with no test behind them.",
+   "why": "A fair test changes one thing. Same length and same shells meant that any difference in the count came from the dampness. 'Neat' and 'the village' are not reasons that make numbers comparable.",
    "context": "In The Thread That Held at Dawn, a girl dropped cowrie shells into a cup hung from threads, at dawn and at noon."
-  },
-  {
-   "t": "mcq",
-   "p": "A coir rope holds a full bucket of water. A stick of chalk is harder than the rope, but it snaps when you bend it. What does this show?",
-   "opts": [
-    "Hard and strong are different properties",
-    "Chalk is stronger than rope",
-    "Rope is harder than chalk",
-    "Hard things never break"
-   ],
-   "a": 0,
-   "outcome": 0,
-   "why": "Hard is about scratching. Strong is about how much it holds before breaking. The rope is soft but strong. The chalk is harder but weak and brittle. Many people think hard means strong, but one does not tell you the other."
   },
   {
    "t": "mcq",
@@ -3771,33 +3747,6 @@
   },
   {
    "t": "mcq",
-   "p": "Diamond and pencil lead are both made of carbon. Why is diamond so much harder?",
-   "opts": [
-    "The atoms are joined in a different pattern",
-    "Diamond has bigger atoms",
-    "Diamond is colder",
-    "Pencil lead has no atoms"
-   ],
-   "a": 0,
-   "outcome": 6,
-   "why": "The pattern of joins decides the property. In diamond every atom is locked to four neighbours. In graphite the atoms are in flat sheets that slide. Picking 'bigger atoms' is a natural guess, but the atoms are the same."
-  },
-  {
-   "t": "mcq",
-   "p": "One sheet of butter paper is translucent. A tall stack of butter paper is opaque. What does this show?",
-   "opts": [
-    "A property can change with thickness",
-    "Butter paper is two materials",
-    "The torch got weaker",
-    "Translucent and opaque mean the same"
-   ],
-   "a": 0,
-   "outcome": 5,
-   "how": "e5",
-   "why": "Each layer scatters and soaks up some light. With more layers, less comes through. So thickness changes the property. Picking 'two materials' is not true, because it is the same paper."
-  },
-  {
-   "t": "mcq",
    "p": "Which of these do scientists still not fully understand?",
    "opts": [
     "What exactly glass is, and why a liquid turns into glass",
@@ -3821,19 +3770,6 @@
    "a": 0,
    "outcome": 4,
    "why": "Toilet paper that falls apart in water does not block the pipes, so for its job that is useful. Weak is only bad when the job needs strong. Picking 'always bad' treats a property as good or bad on its own."
-  },
-  {
-   "t": "mcq",
-   "p": "A steel spoon feels colder than a wooden spoon in the same room. What is the best explanation?",
-   "opts": [
-    "Steel takes heat from your hand faster",
-    "Steel is a lower temperature",
-    "Wood makes heat",
-    "Steel is shinier"
-   ],
-   "a": 0,
-   "outcome": 3,
-   "why": "Both are at room temperature. Your skin feels how fast heat leaves your hand, and steel pulls it away faster. Picking 'steel is a lower temperature' is the common idea. A thermometer would show the same number for both."
   }
  ],
  "applications": [
@@ -3926,7 +3862,6 @@
   }
  ],
  "ask_kids": [
-  "Which feels colder, the steel tap or the plastic bucket? Are they really different temperatures?",
   "What property makes a towel good for drying you? What property makes it bad for a raincoat?",
   "Which is harder, your fingernail or a pencil? How could you find out?",
   "Can you find something in this room that is hard but not strong?",
@@ -3941,10 +3876,6 @@
   {
    "j": "Why was the rubber band such a good friend?",
    "a": "It always stretched to help."
-  },
-  {
-   "j": "What did the paper towel say to the spill?",
-   "a": "'Don't worry, I've got you soaked up.'"
   },
   {
    "j": "Why could the glass window never keep a secret?",
@@ -3967,14 +3898,6 @@
    "a": "It was just too hard to beat."
   },
   {
-   "j": "Why did the bendy ruler go to yoga class?",
-   "a": "It wanted to be even more flexible."
-  },
-  {
-   "j": "Why did the brick refuse to dance?",
-   "a": "It was far too rigid."
-  },
-  {
    "j": "Why did the chalk lose the contest to the nail?",
    "a": "It crumbled under pressure."
   },
@@ -3983,68 +3906,12 @@
    "a": "It did all its sweating on the outside."
   },
   {
-   "j": "What do you call a band of steel spoons?",
-   "a": "A steel orchestra."
-  },
-  {
-   "j": "Why did the wool sweater feel so confident?",
-   "a": "It knew how to keep things warm."
-  },
-  {
-   "j": "Why did the paper cup feel weak?",
-   "a": "It got soggy at the first sign of trouble."
-  },
-  {
-   "j": "Why did the bamboo never lose a fight?",
-   "a": "It bends, but it never breaks."
-  },
-  {
-   "j": "Why was the glass bangle always nervous?",
-   "a": "It knew it was brittle."
-  },
-  {
-   "j": "Why did the candle fail the strength test?",
-   "a": "It melted under pressure."
-  },
-  {
    "j": "Why did the ruler get promoted?",
    "a": "It measured up."
   },
   {
-   "j": "Why did the detective love materials?",
-   "a": "Every one of them left clues."
-  },
-  {
-   "j": "Why did the raincoat stay so calm in the storm?",
-   "a": "Nothing could get through to it."
-  },
-  {
-   "j": "What did the hard stone say to the soft pillow?",
-   "a": "'Don't take it so hard.'"
-  },
-  {
-   "j": "Why did the foil boat float, when the foil ball sank?",
-   "a": "It had plenty of air in its head."
-  },
-  {
-   "j": "Why was the thread so proud?",
-   "a": "It held on to the very end."
-  },
-  {
-   "j": "Why do materials make poor liars?",
-   "a": "Their properties always show."
-  },
-  {
    "j": "Why did the plastic ruler fail drama class?",
    "a": "It could only play flat characters."
-  },
-  {
-   "j": "Why did the steel spoon feel cold in the morning?",
-   "a": "It was taking heat away from you, not being unfriendly."
-  },
-  {
-   "j": "What did the thermometer say to the steel spoon?",
-   "a": "'You're not colder. You're just quicker at taking heat.'"
   }
  ],
  "maths": [
@@ -4124,7 +3991,7 @@
    "why_maths": "Saying 'less than a quarter as strong' tells us how much water changed the paper. Finding a quarter is the maths that turns 'weaker' into a number."
   },
   {
-   "problem": "You tested 12 things in the Kitchen Float Lab. 7 floated. How many sank? Of the 7 that floated, 3 were wooden. How many floaters were not wooden?",
+   "problem": "A family tests 12 things in the Kitchen Float Lab. 7 floated. How many sank? Of the 7 that floated, 3 were wooden. How many floaters were not wooden?",
    "answer": "5 sank, and 4 floaters were not wooden.",
    "explain": "12 things in all, and 7 floated. 12 take away 7 leaves 5 that sank. Of the 7 floaters, 3 were wooden. 7 take away 3 leaves 4 floaters that were not wooden. You can check: 7 + 5 = 12, and 3 + 4 = 7.",
    "math_unit": "math.data.sorting-and-tallies.L3",
@@ -4230,13 +4097,6 @@
    "kind": "place",
    "where": "New Delhi",
    "why": "A tall iron pillar about 1,600 years old that has stayed remarkably free of rust. Look closely at its surface and think about the property of the iron that has kept it standing."
-  },
-  {
-   "title": "A handloom shop or weaver's cooperative near you",
-   "url": "",
-   "kind": "place",
-   "where": "anywhere",
-   "why": "Feel cotton, silk, wool and jute side by side. Ask the weaver which cloth is the most absorbent, the strongest and the lightest. Ask how they test their thread."
   }
  ],
  "buy": [
@@ -4271,39 +4131,6 @@
     "a4",
     "c2"
    ]
-  },
-  {
-   "id": "b-mohs",
-   "item": "Mohs hardness test kit (set of ten minerals)",
-   "kind": "material",
-   "why": "A real set of minerals from talc to corundum, to scratch against each other and place on the ladder.",
-   "url": "https://www.amazon.in/s?k=mohs+hardness+test+kit",
-   "used_in": [
-    "a3"
-   ],
-   "plan": "If bought, add a 10-minute mineral scratch test after the Property Ladder."
-  },
-  {
-   "id": "b-stuff",
-   "item": "Stuff Matters, by Mark Miodownik",
-   "kind": "book",
-   "why": "A book for parents about the materials all around us, with chapters on steel, glass and graphite.",
-   "url": "https://www.amazon.in/s?k=Stuff+Matters+Mark+Miodownik",
-   "used_in": [
-    "p1"
-   ],
-   "plan": "If bought, read the chapters on steel, glass and graphite aloud in pieces, one for each day of the project."
-  },
-  {
-   "id": "b-iggy",
-   "item": "Iggy Peck, Architect, by Andrea Beaty",
-   "kind": "book",
-   "why": "A picture book about a boy who builds with whatever materials he can find. Good for ages 5 to 8.",
-   "url": "https://www.amazon.in/s?k=Iggy+Peck+Architect+Andrea+Beaty",
-   "used_in": [
-    "a2"
-   ],
-   "plan": "If bought, read it aloud after the Property Passport and ask which material Iggy used for each job."
   }
  ],
  "warmup": [
@@ -4332,10 +4159,6 @@
    "a": "Absorbent: cotton or sponge. Waterproof: plastic or rubber."
   },
   {
-   "q": "Diamond and pencil lead are made of the same atoms. What is the difference?",
-   "a": "The atoms are joined in a different pattern."
-  },
-  {
    "q": "To compare strength fairly, what must you keep the same?",
    "a": "The size and shape of the strip, and the way you test it."
   },
@@ -4361,14 +4184,14 @@
   "deep_truth": {
    "truth": "A dry strip of toilet paper can hold up a bag with water in it. Wet its middle with a fingertip, and the same strip tears with almost no water in the bag. Damp cotton thread holds as much, or a little more. So to know whether paper or thread will hold, you must also know whether it will get wet.",
    "habit": "We say 'paper is strong enough' or 'cotton is strong' as if strength were part of the material's name. But the same strip goes from strong to weak with a few drops of water, so a property needs a 'when' and a 'where'.",
-   "evidence": "In the Dry or Damp test, a dry toilet paper strip held a bag with one or more cups of water, and a damp one tore with almost none. Cotton thread held about as much, or a little more, when damp. In the story, threads held more shells in the damp dawn than at dry noon."
+   "evidence": "In the Dry or Damp test, a dry toilet paper strip held a bag with one or more cups of water, and a damp one tore with almost none. Cotton thread held about as much, or a little more, when damp."
   },
   "three": {
    "who_am_i": "Your body is made of materials too. Your skin stretches easily when it is damp, and can crack when it is very dry.",
    "what_is_life": "Life makes its own materials. Your body grows bone, hair and the clear lens of your eye, and mends them.",
    "what_is_this_world": "The world is full of materials whose properties change with heat, cold and water. A path that is firm today can be mud after rain."
   },
-  "thread": "One source shows up as everything there is. In materials you can see a small part of how this works. Diamond and pencil lead are both only carbon atoms, joined in two different patterns. Paper and cotton thread are both made mostly of cellulose, the substance of plant fibres. Yet water weakens paper and not thread, because their fibres are held together in different ways. The many materials around us are a few kinds of atom, arranged and joined in many ways.",
+  "thread": "Diamond and pencil lead are both only carbon atoms, joined in two different patterns. Paper and cotton thread are both made mostly of cellulose, the substance of plant fibres. Yet water weakens paper and not thread, because their fibres are held together in different ways. So the many materials around us come from a few kinds of atom, arranged and joined in many ways.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.13",
@@ -4402,7 +4225,7 @@
   ],
   "other_view": {
    "who": "Madhva, a philosopher of the Dvaita school in India about 700 years ago, and many scientists",
-   "view": "The differences between things are real and lasting. A stone is hard in itself, even in a dark cupboard. Paper and cotton are two different things, even though both are made of the same plant fibre. In this view, the world is many real things, not one source showing up in many shapes."
+   "view": "The differences between things are real and lasting. A stone is hard in itself, even in a dark cupboard. Paper and cotton are two different things, even though both are made of the same plant fibre. In this view, the world is made of many real things, each with its own nature."
   },
   "practice": {
    "title": "Watching one drop",

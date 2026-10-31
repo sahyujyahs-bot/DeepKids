@@ -120,7 +120,7 @@ If white light can be split into colours, can the colours be put back into white
 ### Is colour in the light or in us? · *debated*
 Light has wavelengths, but the light itself is not 'red'. Red is what happens when that light reaches an eye and a brain. Most people have three kinds of colour-sensing cells in their eyes. Each kind is best at a different part of the rainbow. The brain compares them and makes the colours we feel. Some people have only two kinds working. They mix up some colours, like red and green. The pink-purple called magenta is not in the rainbow at all. Your brain makes it when red and blue light arrive together, with no green.
 - e.g. Magenta, the colour of many bougainvillea flowers, has no place of its own in the rainbow.
-- e.g. A mantis shrimp has 12 kinds of colour cells, but tests show they are worse than us at telling close colours apart.
+- e.g. Mantis shrimps have 12 kinds of colour cells, but tests show they are worse than us at telling close colours apart.
 - e.g. John Dalton, an English scientist, described his own colour blindness in 1794.
 - **Many physicists:** Colour is wavelength. Red light is light with long waves. The rest is just how eyes report it.
 - **Many brain scientists:** Colour is made by the brain. The same light can look different colours depending on what is around it. Magenta exists only in brains.
@@ -189,14 +189,14 @@ We have learned that sunlight holds many colours, and that things look coloured 
 - *what is life:* Life is fed by the colours in sunlight. A leaf absorbs red and blue light and uses its energy to make food.
 - *what is this world:* The world is full of light we cannot see, beyond both ends of the rainbow. Bees see some of it.
 
-Sunlight comes to us as one white light. A glass of water spreads it into many colours, and a spinning wheel mixes them back into white. The water adds no colour of its own. A leaf, a tomato and a shirt each send back a different part of the same sunlight. So every colour around us is one light, met by different things. The many things of the world come from one source in the same way: different on the outside, one underneath.
+Sunlight comes to us as one white light. A glass of water spreads it into many colours, and a spinning wheel mixes them back into white. The water adds no colour of its own. A leaf, a tomato and a shirt each send back a different part of the same sunlight. So every colour around us is one light, met by different things.
 
 - **Chandogya Upanishad 6.4.1:** The teacher Uddalaka tells his son that the red colour of a fire belongs to heat, its white to water, and its dark to food. 'Fire' is only a name, he says. The three colours underneath are what is real. (Uddalaka looked under one name and found a mix of colours. A prism does the same with sunlight: under the one name 'white' are all the colours of the rainbow. His three colours are not the rainbow's, but the way of looking is the same.)
 - **Avatamsaka Sutra, the image of Indra's net:** Over the palace of the god Indra hangs a great net with a jewel at every knot. Each jewel reflects every other jewel, so each one holds all the rest. (Things around us do this with colour. Put a red cloth next to a white wall in sunlight, and the wall near it glows faintly red. So the light from the wall carries a little of the cloth too, as each jewel holds the others.)
 - **Jain teaching of anekantavada, many-sidedness, and the story of the blind men and the elephant:** Each blind man touches one part of the elephant and says what the elephant is like. Each is partly right. No one view holds the whole truth. (Each person sees their own rainbow from their own place. No one sees the rainbow from everywhere at once.)
 - Science (settled): White light is a mixture of all the colours we can see, and the colours can be split apart and joined back together.
 - Science (open): Colour as we feel it is made by eyes and brains working together. Whether your red feels like my red is unknown.
-- Other view, Many physicists: White light is a mixture of waves of different lengths, and a rainbow is geometry in raindrops. They say this explains it fully, with no need for one source behind everything. That is an honest view.
+- Other view, Many physicists: White light is a mixture of waves of different lengths, and a rainbow is geometry in raindrops. They say this explains it fully, with nothing more to add. That is an honest view.
 - Practice, Colours with closed eyes (3 min): Let's sit facing a bright window or the open sky, but not the Sun itself. Close your eyes gently. Notice that it is not black behind your eyelids. What colour is it? Maybe orange or red. That is sunlight coming through your eyelids. Your skin and blood absorb most of the other colours and let mostly red through. Now cup your hands over your eyes. Did the colour change? Take three slow breaths. Then open your eyes and look at a white wall. Remember, all the colours are in that white light.
 - Ask: A bee's eyes do not sense red, so a red tomato looks dark to a bee. You see it red. Are you seeing the tomato differently, or are you seeing different things?
 - Ask: If white light is all the colours together, is it one thing or many things?
@@ -213,7 +213,7 @@ Sunlight comes to us as one white light. A glass of water spreads it into many c
 - *deep:* How can a star's light tell us what the star is made of, from so far away? (hint: Each kind of atom draws its own lines in the rainbow, like a fingerprint.)
 - *deep:* Mixing coloured lights makes white, but mixing paints makes a dark brown. Why would mixing do opposite things? (hint: Coloured lights each add colours that reach your eye. What does each pigment in a paint do to the light?)
 - *deep:* A leaf absorbs red and blue light and reflects green. So is green the colour the leaf keeps, or the colour it gives away? (hint: Think of the leaf in red light. With almost no green light to reflect, how did it look?)
-- *big:* Kamal al-Din al-Farisi explained the rainbow 350 years before Newton. Why do so many books tell only Newton's story? (hint: Think about which books were read in which countries, and which languages they were written in.)
+- *big:* Kamal al-Din al-Farisi explained the rainbow more than 350 years before Newton. Why do so many books tell only Newton's story? (hint: Think about which books were read in which countries, and which languages they were written in.)
 
 ## Story: The Glass Raindrop
 *Kamal al-Din al-Farisi was a real Persian scientist. Around 1300 he explained the rainbow using a glass ball filled with water inside a dark room, in his book Tanqih al-Manazir, a revision of Ibn al-Haytham's Book of Optics. Zainab, the glassblower's daughter, her friend Maryam, and everything that happens to them are made up.*
@@ -272,7 +272,7 @@ Zainab looked at Maryam. Then she looked at the rainbow. She thought of the mill
 
 Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood very still, so that her rainbow would not move.
 
-**For the parent:** For the parent: the colours were never in the glass, the water or the sky. They were in the sunlight all along, and the drop only spread them apart. Each drop sends each colour off at its own angle, so one drop gives one colour to one eye, and every person sees a rainbow made by different drops. The story also quietly asks who gets written into the history books.
+**For the parent:** For the parent: the colours were never in the glass, the water or the sky. They were in the sunlight all along, and the drop only spread them apart. Each drop sends each colour off at its own angle, so one drop gives one colour to one eye, and every person sees a rainbow made by different drops.
 
 - Ask: Zainab helped to make the glass ball, and the water was clear. So where did the red come from?
 - Ask: When Zainab moved her head, the colour changed. Why?
@@ -282,24 +282,24 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 
 ## Games
 ### g1 · Rainbow Line-Up (20 min)
-- **rules:** Shuffle the colour cards and deal 3 to each player. Put the rest face down in a pile.; On your turn, take the top question card. Answer it out loud. If your answer is right, take a colour card from the pile.; Put colour cards on your rainbow strip only in order, starting from red. You cannot put green down until you have red, orange and yellow.; A white light card can be split into any colour you need, because white light holds all the colours.; If you get a TEST IT card, everyone does the test. The first person to explain the result gets two colour cards.; The first player to complete a whole rainbow, red to violet, wins.
-- **Printable cards: 36 colour cards: 5 each of red, orange, yellow, green, blue and violet, plus 6 white light cards:** RED; ORANGE; YELLOW; GREEN; BLUE; VIOLET; WHITE LIGHT: swap this for any colour you need
-- **Printable cards: 20 question cards:** Which colour bends the most in a prism?; Which colour bends the least?; Where must the Sun be for you to see a rainbow?; What is sunlight made of?; What colour does a rainbow wheel look like when it spins fast?; In the main rainbow, which colour is on the outside?; Name one way to make a rainbow at home.; What colour does a green leaf look under red light?; Why is the sky blue?; Why are sunsets red?; What is the light past red that we cannot see?; What is the light past violet that bees can see?; Who explained the rainbow with a glass ball of water, around 1300?; Who split sunlight with a prism in the 1660s?; Why can you never reach the end of a rainbow?; Name a colour that is not in the rainbow.; What is a double rainbow?; Which gas was found in the Sun's rainbow before it was found on Earth?; TEST IT: hold red cellophane over a torch. What colour comes out?; TEST IT: spin a coloured disc on a pencil. What do you see?
-- **Printable board: A rainbow strip for each player, with six empty boxes:** Box 1 red; Box 2 orange; Box 3 yellow; Box 4 green; Box 5 blue; Box 6 violet
+- **rules:** Give each player a rainbow strip. Shuffle the colour cards, deal 3 to each player, and put the rest face down in a pile. Put the question cards in a second pile, question side up.; On your turn, the player on your left (in a game for two, the other player) reads the top question card aloud. Keep the back hidden. You answer.; If your answer is right, take the top colour card. If it is wrong, the reader reads the answer on the back, your turn ends, and the question card goes to the bottom of the question pile. You will meet it again.; Then put down any colour cards you can. Fill your strip in order, starting from red. You cannot put down green until red, orange and yellow are down.; A white light card can be used as any colour you need, because white light holds all the colours.; A spare card is one you cannot use because you have that colour on your strip already, or two of it in your hand. Put spares at the bottom of the colour pile, so nobody gets stuck holding a full hand.; If the colour pile or the question pile runs out, shuffle the cards under it and start again.; The first player to fill all six boxes, red to violet, wins.
+- **Printable cards: 36 colour cards: 5 each of red, orange, yellow, green, blue and violet, plus 6 white light cards:** RED; RED; RED; RED; RED; ORANGE; ORANGE; ORANGE; ORANGE; ORANGE; YELLOW; YELLOW; YELLOW; YELLOW; YELLOW; GREEN; GREEN; GREEN; GREEN; GREEN; BLUE; BLUE; BLUE; BLUE; BLUE; VIOLET; VIOLET; VIOLET; VIOLET; VIOLET; WHITE LIGHT: use as any colour you need; WHITE LIGHT: use as any colour you need; WHITE LIGHT: use as any colour you need; WHITE LIGHT: use as any colour you need; WHITE LIGHT: use as any colour you need; WHITE LIGHT: use as any colour you need
+- **Printable cards: 20 question cards (question on the front, answer on the back):** Which colour bends the most in a prism? (back: Violet. Red bends the least.); Which colour bends the least in a prism? (back: Red.); Where must the Sun be for you to see a rainbow? (back: Behind you.); What is sunlight made of? (back: Many colours mixed together.); What does a rainbow wheel look like when it spins fast? (back: Pale grey, nearly white.); In the main rainbow, which colour is on the outside? (back: Red.); Name one way to make a rainbow at home. (back: A glass of water in a sunny window, a mirror in a tray of water, or a plant spray in sunshine with the Sun behind you.); What colour does a green leaf look under red light? (back: Very dark, almost black. There is no green light for it to reflect.); Why is the sky blue? (back: Air scatters blue light all over the sky.); Why are sunsets red? (back: The light crosses so much air that most of the blue is scattered away. Red and orange are left.); What is the light just past red, which we cannot see? (back: Infrared. We feel it as warmth.); What is the light just past violet, which bees can see? (back: Ultraviolet.); Who explained the rainbow with a glass ball of water, around 1300? (back: Kamal al-Din al-Farisi.); Who split sunlight with a prism in the 1660s? (back: Isaac Newton.); Why can you never reach the end of a rainbow? (back: Each person sees colours from different drops, so when you move, your rainbow moves with you.); Name a colour that is not in the rainbow. (back: Magenta (pink-purple). Brown, black and white are not in it either.); What is a double rainbow? (back: A second, fainter bow outside the main one, with the colours in the opposite order.); Which gas was found in the Sun's light before it was found on Earth? (back: Helium.); You hold red cellophane over a torch. What colour comes out? (back: Red. The cellophane absorbs most of the other colours.); Why does a blue school bag look blue? (back: It reflects blue light to your eyes and absorbs most of the other colours.)
+- **Printable board: A rainbow strip for each player, with six empty boxes (print one for each player):** Box 1 red; Box 2 orange; Box 3 yellow; Box 4 green; Box 5 blue; Box 6 violet
 - **s1 (3 min)**  
-  *Parent does:* 1. Give each player a rainbow strip. 2. Shuffle the colour cards and deal 3 to each player. 3. Put the question cards in a pile.  
+  *Parent does:* 1. Give each player a rainbow strip. 2. Shuffle the colour cards and deal 3 to each player. 3. Put the question cards in a pile, question side up.  
   *Parent says:* Each of us is building a rainbow, in the right order, red first. You win colours by answering questions about light.  
   *Child mode:* Get your rainbow strip. You get 3 colour cards. Win more by answering questions. Build red to violet, in order.
 - **s2 (3 min)**  
-  *Parent does:* Play a practice round with the question card 'Which colour bends the most in a prism?'.  
+  *Parent does:* Play a practice turn with the question card 'Which colour bends the most in a prism?'.  
   *Parent says:* Practice question. Which colour bends the most in a prism?  
-  *Child mode:* Practice question. Which colour bends the most in a prism? Tap your answer.
+  *Child mode:* Practice question. Which colour bends the most in a prism? Say your answer.
   - Check: Rainbow Line-Up practice round: which colour bends the most in a prism? → **Violet**
 - **s3 (12 min)**  
-  *Parent does:* Play the game until someone completes a rainbow. Read each question aloud for younger players.  
+  *Parent does:* Play until someone fills a whole rainbow strip. The player who reads the question also reads the answer on the back.  
   *Parent says:* Your turn. Read the card. If you're right, take a colour.  
-  *Child mode:* Take a question card. Answer it. If you are right, take a colour card.
-  - Note: Good answers sound like this. The Sun must be behind you. Sunlight is all colours mixed. A spinning rainbow wheel looks pale grey, nearly white. Red is on the outside of the main bow. Magenta is not in the rainbow. Helium was found in the Sun's light first.
+  *Child mode:* The reader asks you a question. Answer it. If you are right, take a colour card.
+  - Note: The answers are on the back of each card. Accept an answer that has the main idea, even in different words. A younger player can ask for the question to be read twice.
   - Check: Rainbow Line-Up: you need violet, and you have a white light card. Can you use it? → **Yes, because white light holds all the colours, including violet**
 - **s4 (2 min)**  
   *Parent does:* When someone wins, ask everyone to say the colours of their strip aloud, in order.  
@@ -307,28 +307,26 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
   *Child mode:* Say your rainbow aloud: red, orange, yellow, green, blue, violet.
   - Think: Why must the colours go in this order, and never another?
 ### g2 · The Bending Race (20 min)
-- **rules:** Draw a start line, a big triangle for the glass, and a finish wall beyond it.; Each player pins on a colour badge. All the colours stand together on the start line, holding hands, as white light.; On 'Go', everyone walks together in a straight line to the glass.; Inside the glass, everyone lets go and walks slowly. Each colour turns a little to one side, by the number of small turns on its badge.; When you come out of the glass, walk straight to the finish wall.; Mark where each colour lands. Did the colours spread into a rainbow, in the right order?
-- **Printable cards: 7 colour badges to pin on:** RED: take 1 small turn; ORANGE: take 2 small turns; YELLOW: take 3 small turns; GREEN: take 4 small turns; BLUE: take 5 small turns; VIOLET: take 6 small turns; WHITE: the Sun, who starts the race
-- **Printable board: A chalk court:** Start line: the Sun; Glass zone: a big chalk triangle; Finish wall: the white screen
-- **Printable score sheet: Where did each colour land?:** Colour; Where it reached the finish wall; Was the order right?
+- **rules:** Mark the court on the floor with chalk or tape. Draw a start line. About 1 metre ahead, draw a square about 1 metre wide for the glass. About 2 metres past it, draw a finish line.; Put all six colour badges in one pile on the start line. Together they are white light.; Take turns. On your turn, take one badge from the pile and walk straight to the glass. Everyone else watches. In a game for two, each of you walks three times.; Inside the glass, walk slowly, because light slows down in glass. Take the number of sideways steps to the left that is on your badge.; Come out of the glass and walk straight to the finish line. Drop your badge on the floor where you stop.; When all six badges are down, look at the line of badges. Did the colours spread into a rainbow, in the right order?
+- **Printable cards: 6 colour badges:** RED: take 1 sideways step in the glass; ORANGE: take 2 sideways steps in the glass; YELLOW: take 3 sideways steps in the glass; GREEN: take 4 sideways steps in the glass; BLUE: take 5 sideways steps in the glass; VIOLET: take 6 sideways steps in the glass
 - **s1 (4 min)**  
-  *Parent does:* 1. Draw the court in chalk. 2. Give each player a colour badge. 3. Line up the colours on the start line, holding hands.  
-  *Parent says:* Holding hands, all together, you are white light. Let's see what happens when white light goes through glass.  
-  *Child mode:* Pin on your colour badge. Hold hands with the others. Together, you are white light.
+  *Parent does:* 1. Mark the court with chalk or tape. 2. Cut out the six colour badges. 3. Put them in one pile on the start line.  
+  *Parent says:* This pile of badges is white light, all the colours together. Let's see what happens when white light goes through glass.  
+  *Child mode:* Mark the court. Put all six colour badges in a pile on the start line. Together they are white light.
 - **s2 (8 min)**  
-  *Parent does:* 1. Say 'Go'. 2. Everyone walks to the glass. 3. In the glass, each colour makes its number of small turns to one side. 4. Then each walks straight to the finish wall.  
-  *Parent says:* Into the glass! Slow down. Red, one small turn. Violet, six. Now out, and walk straight!  
-  *Child mode:* Walk to the glass. Let go of hands. Turn your number of small turns. Walk straight to the wall.
+  *Parent does:* 1. Take turns. Take one badge, walk to the glass and walk slowly through it. 2. Take your number of sideways steps to the left. 3. Walk straight to the finish line and drop the badge. 4. Repeat until all six badges are down.  
+  *Parent says:* Into the glass! Slow down. Red, one sideways step. Violet, six. Now out, and walk straight!  
+  *Child mode:* Take a badge. Walk slowly through the glass. Take your sideways steps. Walk straight to the finish line and drop your badge.
   - Note: The game is a picture, not the full science. Real light slows down in glass, and each colour slows a slightly different amount, which makes each colour bend differently. Violet bends most.
 - **s3 (5 min)**  
-  *Parent does:* Mark where each colour landed on the finish wall. Read the order aloud.  
+  *Parent does:* Look at where the six badges landed. Read the colours aloud from one end.  
   *Parent says:* Who landed where? Read the order from one end. Is it a rainbow?  
-  *Child mode:* Where did you land? Say the order of colours from one end.
+  *Child mode:* Where did the badges land? Say the colours in order from one end.
   - Check: In the Bending Race, the colours started together but landed spread out. Why? → **Each colour turned by a different amount in the glass**
 - **s4 (3 min)**  
-  *Parent does:* Play once more, but this time make every colour take the same number of turns.  
+  *Parent does:* Play once more, but this time make every colour take the same number of sideways steps.  
   *Parent says:* What if every colour turned the same amount? Let's try.  
-  *Child mode:* Play again. This time everyone takes 3 turns. What happens?
+  *Child mode:* Play again. This time every badge takes 3 sideways steps. Where do they land?
   - Think: If all colours bent the same, would we ever see a rainbow?
 
 ## Experiments
@@ -337,10 +335,10 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 - **predict:** Before you start, guess. Will the colours come in a different order with the mirror in water? Will red ever be in the middle? Why do you think so?
 - **fair test:** To make it fair, use the same sunlight, at the same time of day, and the same white paper. Only change the thing that splits the light. Look at each one twice, because a quick look can fool you.
 - **safety:** Never look straight at the Sun, or at its reflection in the mirror. Point the mirror's light at the wall, never at anyone's face. A glass mirror's edges can be sharp, so a grown-up handles it.
-- **record:** Fill in the table. Draw the three strips of colours, one under the other, with red on the left each time.
+- **record:** Fill in the table. Draw the strips of colours, one under the other, with red on the left each time.
 - **results table:** What split the light | Colour at one end | Colours in the middle, in order | Colour at the other end | How many colours I counted
 - **s1 (3 min)**  
-  *Parent does:* 1. Show your child the glass, the mirror in the tray of water and the prism. 2. Ask them to guess whether the colours will come in the same order every time.  
+  *Parent does:* 1. Show your child the glass, the mirror in the tray of water and the prism, if you have one. 2. Ask them to guess whether the colours will come in the same order every time.  
   *Parent says:* We're going to split sunlight in three different ways. Do you think the colours will always come in the same order? Could red ever be in the middle?  
   *Child mode:* You will split sunlight three ways. Guess first. Will the colours always be in the same order?
   - Ask: Why do you think that? (good: The colours are inside the sunlight, so they might always be the same.; The mirror is different, so maybe it will be different.)
@@ -348,6 +346,7 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
   *Parent does:* 1. Stand the full glass at the edge of the sunny sill. 2. Catch the colours on white paper on the floor. 3. Write the colour at each end and the colours between them in the table.  
   *Parent says:* Which colour is at one end? Which is at the other? Let's write down the order, colour by colour.  
   *Child mode:* Catch the colours on paper. Which colour is at each end? Write the order in the table.
+  - Note: The strip from a glass of water is small and can be faint. If you cannot make out every colour, write down what you can see and carry on. The mirror in water in the next step gives a brighter, wider strip. This needs a window or a sill with direct sunshine.
 - **s3 (7 min) · grown-up needed**  
   *Parent does:* 1. Fill a tray with water and put it in direct sunlight. 2. Lean the mirror inside it at a slant, facing the Sun, so the sunlight hits the mirror under the water. 3. Move the mirror slowly until a rainbow strip lands on a white wall or card. 4. Record the order.  
   *Parent says:* This time the light goes into the water, bounces off the mirror, and comes back out. That's a little like what happens inside a raindrop. Let's see the order.  
@@ -361,7 +360,7 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
   *Parent does:* Compare the three rows of the table together.  
   *Parent says:* Look at all three rows. Did the order ever change?  
   *Child mode:* Look at your table. Did the order ever change?
-  - Check: In the water prism test, the glass, the mirror in water and the prism all gave red at one end and violet at the other. What does this tell us? → **The colours and their order come from the sunlight itself**
+  - Check: In the water prism test, everything you tried gave red at one end and violet at the other. What does this tell us? → **The colours and their order come from the sunlight itself**
 - **cer (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
@@ -387,7 +386,7 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
   *Parent does:* 1. Turn so the Sun is right behind you. 2. Spray the mist in front of you, a little higher than your head. 3. Look for the rainbow. Find the shadow of your head on the ground. Notice that the bow curves around it.  
   *Parent says:* Now the Sun is behind us. Spray up high. What do you see? Look down at your shadow. Where is your shadow's head?  
   *Child mode:* Turn your back to the Sun. Spray high. Do you see the rainbow now? Find your shadow's head.
-  - Note: With the Sun behind you, a bow appears in the spray. It is part of a circle centred on the shadow of your head. Stretch out your arm: the bow is about two hand-spans from your shadow's head. Red is on the outside of the bow. If you see nothing, make the mist finer, spray in a different spot, or try a darker background.
+  - Note: With the Sun behind you, a bow appears in the spray. It is part of a circle centred on the shadow of your head. Stretch out your arm: the bow is about two hand-spans from your shadow's head. Red is on the outside of the bow. If you see nothing, make the mist finer, spray in a different spot, or try a darker background. It can fail on a cloudy or hazy day, so try another sunny morning or evening.
   - Check: In the spray rainbow test, when did you see the rainbow best? → **With the Sun behind me**
 - **s4 (2 min)**  
   *Parent does:* Ask your child to walk two steps to the side and look again.  
@@ -403,7 +402,7 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 - **question:** If we spin all the rainbow colours together, will they look white?
 - **predict:** Before you start, guess what colour each disc will look while spinning: the rainbow disc, the half-red half-green disc, and the all-red disc. Why do you think so?
 - **fair test:** To make it fair, make all the discs the same size, and spin them the same way and just as fast. Only change the colours on them. Spin each one three times.
-- **safety:** A grown-up makes the hole in the middle of each disc. Spin the discs on a table, away from faces.
+- **safety:** A grown-up makes the hole in the middle of each disc with the point of a sharp pencil.
 - **record:** Fill in the table. Stick your three discs on a page and write what each looked like while spinning.
 - **results table:** Disc | My guess: colour while spinning | Colour I saw while spinning | Same as my guess? (yes or no)
 - **s1 (10 min) · grown-up needed**  
@@ -434,7 +433,7 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 
 ## Activities
 ### a1 · Catch a Rainbow on the Floor (14 min)
-- **safety:** Never look straight at the Sun. Look only at the paper on the floor. Wipe up any spilt water.
+- **safety:** Never look straight at the Sun. Look only at the paper on the floor.
 - **record:** Draw what you see on the paper. Colour it in the right order. Draw the leaf in red light and in room light. Write one thing you notice and one thing you wonder.
 - **s1 (3 min)**  
   *Parent does:* 1. Fill a clear glass to the very top with water. 2. Stand it at the edge of a sunny windowsill or table, so sunlight shines through it and down to the floor.  
@@ -486,7 +485,7 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
   *Child mode:* Now say three things. Say what you think. Say what you saw. Say why it happened.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the red sheet only lets red light through. What I saw: with the red sheet, the green and blue disappeared from the paper. Why: sunlight has all the colours, and the red sheet absorbed most colours except red.
 ### a3 · Bubble and CD Rainbows (15 min)
-- **safety:** Do not drink the soap water. Do not look straight at the Sun or the torch.
+- **safety:** Do not drink the soap water.
 - **record:** Draw a bubble with its colours. Draw the CD's rainbow. Write which one looks most like a prism's rainbow.
 - **s1 (6 min)**  
   *Parent does:* Blow a big soap bubble slowly. Hold it on the straw if you can. Look at its colours from close up.  
@@ -497,10 +496,10 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
   *Parent does:* In a dim room, shine a torch on the shiny side of a CD. Tilt it slowly.  
   *Parent says:* Now tilt the CD. What happens to the colours?  
   *Child mode:* Shine a torch on a CD. Tilt it slowly. Watch the colours slide.
-  - Note: A CD has a tiny spiral groove, with thousands of lines in every centimetre. Light bouncing off the lines spreads into colours. This is called diffraction. It gives the same order of colours as a prism, but in a different way. Here red is spread out the most, the opposite of a prism.
+  - Note: A CD has a tiny spiral groove, with thousands of lines in every centimetre. Light bouncing off the lines spreads into colours. This is called diffraction. Here red is turned the most, the opposite of a prism.
   - Check: A CD has no water and no prism. It still makes rainbow colours. What does this tell us? → **There is more than one way to spread white light into its colours**
 - **s3 (3 min)**  
-  *Parent does:* Look for these colours around the house: on an oily puddle, a peacock feather, or the inside of a shell.  
+  *Parent does:* Look around for colours that move when you move. Try an oily puddle, a peacock feather or the inside of a shell.  
   *Parent says:* Where else have you seen colours that move when you move?  
   *Child mode:* Where else have you seen colours that change when you move? Make a list.
   - Think: A peacock feather is brown underneath. Why does it look blue and green?
@@ -508,9 +507,9 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 - **safety:** Do not look straight at the Sun.
 - **record:** Write how many colours each person counted. Draw a bar for each person.
 - **s1 (5 min)**  
-  *Parent does:* Give each person a copy of the strip, or take turns marking the real one on paper. Ask them not to look at each other's.  
+  *Parent does:* Tape the strip of colours down. Each person lays a sheet of thin paper over it, one at a time. Draw a small line where one colour stops and the next begins. Do not look at each other's sheets.  
   *Parent says:* Draw a small line wherever you think one colour stops and the next begins. Don't peek at anyone else's!  
-  *Child mode:* Look at the colours. Draw a line where each colour stops. Do not peek at anyone else.
+  *Child mode:* Lay the thin paper over the colours. Draw a line where each colour stops. Do not peek at anyone else's sheet.
 - **s2 (6 min)**  
   *Parent does:* 1. Count the colours each person marked. 2. Put the strips side by side. 3. Make a bar chart: one bar per person, as tall as the number they counted.  
   *Parent says:* How many colours did each of us count? Did we draw our lines in the same places?  
@@ -526,10 +525,10 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Now say three things. Say what you think. Say what you saw. Say why it happened.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the rainbow does not have an exact number of colours. What I saw: we counted 5, 6 and 7 on the same strip. Why: the colours fade into each other with no edges, so we each drew our lines in different places.
-### a5 · Sky Colour Diary (20 min, 5 days)
+### a5 · Sky Colour Diary (23 min, 5 days)
 - **safety:** Never look straight at the Sun, even at sunset. Look at the sky beside it. Go to the terrace only with a grown-up.
 - **record:** Each day, colour a square for the noon sky and a square for the sunset sky. Write the time and the weather.
-- **schedule:** day 1: Draw the noon sky and the sunset sky. (6 min); day 2: Draw the sunset sky again. (3 min); day 3: Draw the sunset sky again. (3 min); day 4: Draw the sunset sky again. (3 min); day 5: Compare all the drawings and explain the colours. (5 min)
+- **schedule:** day 1: Draw the noon sky and the sunset sky. (6 min); day 2: Draw the sunset sky again. (3 min); day 3: Draw the sunset sky again. (3 min); day 4: Draw the sunset sky again. (3 min); day 5: Compare all the drawings and explain the colours. (8 min)
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* At noon, go outside and look up, away from the Sun. Colour a square for the sky. At sunset, look at the sky near the Sun, never at the Sun itself, and colour a second square.  
   *Parent says:* Let's be sky scientists for five days. What colour is the sky now? Let's match it with a pencil.  
@@ -551,21 +550,21 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the sunset is red because the blue light is scattered away. What I saw: every noon square was blue and every sunset square was orange or red. Why: sunlight has all colours, and at sunset it travels through so much air that mostly red and orange are left.
 
 ## Projects
-### p1 · Shoebox Spectroscope: the rainbows of lamps (60 min, 3 days)
+### p1 · Shoebox Spectroscope: the rainbows of lamps (63 min, 3 days)
 - **safety:** A grown-up cuts the CD, because the edges can be sharp. Never point the spectroscope at the Sun. Point it at a white wall lit by daylight. A grown-up lights and watches the candle.
 - **record:** Draw the rainbow of each light. Write whether it was smooth, or had bright lines or gaps.
-- **schedule:** day 1: Build the spectroscope. Test it on a white wall in daylight. (25 min); day 2: Look at a tubelight, an LED bulb and a candle. Draw each rainbow. (20 min); day 3: Compare the drawings and give a short 'rainbow show' to the family. (15 min)
+- **schedule:** day 1: Build the spectroscope. Test it on a white wall in daylight. (25 min); day 2: Look at an LED bulb and a candle, and a tubelight or CFL if you can find one. Draw each rainbow. (20 min); day 3: Compare the drawings and give a short 'rainbow show' to the family. (18 min)
 - **s1 (25 min) · grown-up needed**  
   *Parent does:* 1. At one end of the box, a grown-up cuts a hole about 3 cm square. 2. Tape two pieces of card across it, leaving a slit as thin as a coin's edge. 3. At the other end, cut a viewing hole. 4. Tape the CD quarter inside at a slant, shiny side towards the slit. 5. Point the slit at a white sunlit wall and look at the CD.  
   *Parent says:* We're building a light-splitting box. The thin slit lets in a thin line of light, and the CD spreads it into its rainbow.  
   *Child mode:* With a grown-up, cut a thin slit at one end. Fix the CD piece inside the other end. Point the slit at a bright wall. Look!
-  - Note: If you see no colours, tilt the box or the CD. The thinner the slit, the sharper the rainbow. A CD's tiny grooves spread light into colours in a different way from a prism, but you see the same order of colours.
+  - Note: If you see no colours, tilt the box or the CD. The thinner the slit, the sharper the rainbow. A CD's tiny grooves spread light into colours in a different way from a prism, and red is turned the most.
 - **s2 (20 min) · grown-up needed**  
-  *Parent does:* Look through the spectroscope at a tubelight, an LED bulb and a candle flame. Draw each rainbow in its own box in the notebook.  
-  *Parent says:* Is the tubelight's rainbow smooth like daylight? Or does it have bright lines?  
-  *Child mode:* Look at a tubelight. Then a bulb. Then a candle, with a grown-up. Draw each rainbow.
-  - Note: Daylight gives a smooth rainbow. An old-style tubelight or CFL gives a rainbow with a few sharp bright lines, often green, orange-red and blue, because of the mercury vapour and the coating inside it. Many homes now have only LED lights. Look for a tubelight or CFL at a shop, a school or a relative's home. Rainbow glasses, if you buy them, do the same job as the box. An LED bulb or LED tube gives a smooth rainbow with an extra-bright blue part. A candle gives a smooth rainbow that is mostly red, orange and yellow, with little blue.
-  - Check: Through the spectroscope, a tubelight shows a few bright coloured lines instead of a smooth rainbow. What might that tell a scientist? → **The light comes from a particular kind of atom, which makes its own lines**
+  *Parent does:* Look through the spectroscope at an LED bulb and a candle flame. Add a tubelight or CFL if you can find one. Draw each rainbow in its own box in the notebook.  
+  *Parent says:* Is the bulb's rainbow smooth like daylight? Does any lamp show bright lines?  
+  *Child mode:* Look at a bulb. Then a candle, with a grown-up. Then a tubelight if you can find one. Draw each rainbow.
+  - Note: Daylight gives a smooth rainbow. An LED bulb or LED tube gives a smooth rainbow with an extra-bright blue part. A candle gives a smooth rainbow that is mostly red, orange and yellow, with little blue. An old-style tubelight or CFL gives a rainbow with a few sharp bright lines, often green, orange-red and blue, because of the mercury vapour and the coating inside it. Many homes now have only LED lights, so the tubelight may not be at home. Look for one at a shop, a school or a relative's home, or skip it.
+  - Check: Through a spectroscope, a tubelight or CFL shows a few bright coloured lines instead of a smooth rainbow. What might that tell a scientist? → **The light comes from a particular kind of atom, which makes its own lines**
   - Wait: Come back tomorrow, in the evening, when the lamps are on
 - **s3 (15 min)**  
   *Parent does:* Lay out the drawings. Ask your child to explain each one to the family in a short 'rainbow show'.  
@@ -580,11 +579,11 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 
 ## Challenges
 ### c1 · The Biggest Rainbow Indoors (30 min)
-- **problem:** Your little cousin is coming to visit, and it is not raining. Make the biggest, brightest rainbow you can on a wall indoors, so they can stand in it.
+- **problem:** A small child wants to stand inside a rainbow, and it is not raining. Make the biggest, brightest rainbow you can on a wall indoors.
 - **your turn:** Now invent your own way. Draw it, try it, and measure your rainbow. Is it bigger than the others?
 - **constraints:** Use only things you find at home.; No paints, crayons or screens. The rainbow must be made of real light.; Measure your rainbow's width with a ruler each time you try a new idea.
 - **general:** Darken the room and let in just one strip of sunlight, so the rainbow stands out.; Put the white wall or paper further away from the water. The colours spread wider as they travel.; Use a mirror in a tray of water facing the Sun, and aim the colours at the wall.
-- **creative:** Make a slit in a piece of card, like the hole in Newton's shutter. A thin beam gives cleaner colours.; Try a round glass bowl full of water, like al-Farisi's model raindrop.; Try an old CD in a torch beam in a dark room. Its tiny grooves spread light into colours too.
+- **creative:** Make a slit in a piece of card, like the small hole Newton cut in his window shutter. A thin beam gives cleaner colours.; Try a round glass bowl full of water, like the glass ball of water that Kamal al-Din al-Farisi used as a model raindrop.; Try an old CD in a torch beam in a dark room. Its tiny grooves spread light into colours too.
 - **s1 (5 min)**  
   *Parent does:* Read the challenge together. Look at the materials you have.  
   *Parent says:* Here's our job. Make the biggest rainbow you can, indoors, with real light. What do you think will make it bigger?  
@@ -596,7 +595,7 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
   - Note: Changing one thing at a time keeps the test fair. The rainbow usually gets wider, but dimmer, as the wall gets further away. Keep children's eyes away from the mirror's reflected sunlight.
   - Check: You moved the wall further from the water. The rainbow got wider but dimmer. Why? → **The colours keep spreading apart as they travel, so the same light covers more wall**
 - **s3 (10 min)**  
-  *Parent does:* Show your cousin or family the best rainbow. Explain how it works in three sentences.  
+  *Parent does:* Show someone at home the best rainbow. Explain how it works in three sentences.  
   *Parent says:* Can you explain our rainbow to someone else? Where did the colours come from?  
   *Child mode:* Show someone your rainbow. Tell them where the colours came from.
   - Think: Which idea surprised you most? Why did it work?
@@ -605,7 +604,7 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 - **your turn:** Make your own forecast card. Stick it near a window. When you next see a rainbow, write the date and time on the card.
 - **constraints:** Your card must say the time of day and the direction to look.; It must work for morning and evening rain.; Use a drawing, not only words, so a small child can use it.
 - **general:** The Sun must be behind you, so in the morning look west, and in the evening look east.; The Sun must be low, so look before about 9 in the morning or after about 4 in the afternoon.; You need rain or spray in front of you, and sunshine behind you, at the same time.
-- **creative:** Draw a little clock face with the rainbow times shaded in.; Mark the rainbow side on a map of your home, like 'look out of the kitchen window in the evening'.; Add a monsoon reminder: in India, the best rainbows come with afternoon showers in the rainy season.
+- **creative:** Draw a little clock face with the rainbow times shaded in.; Mark the rainbow side on a map of your home, like 'look out of the kitchen window in the evening'.; Add a monsoon reminder: you need sun and rain at the same time, so look when a shower is ending and the Sun comes out.
 - **s1 (8 min)**  
   *Parent does:* Find out which side of your home faces east, where the Sun rises, and which faces west, where it sets.  
   *Parent says:* Where does the Sun rise at our house? Where does it set? Remember, for a rainbow the Sun must be behind you.  
@@ -642,7 +641,7 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
    **Answer:** Mostly red. *Why:* A red filter lets red light through and absorbs most of the others. Picking 'all the colours' means thinking the cellophane is just clear. Picking 'mostly green' mixes up which colour passes.
 8. (match) Match each thing to what it does to light.  
    **Answer:** Prism → splits white light into colours; Spinning rainbow wheel → mixes the colours back into white; Red cellophane → lets mostly red light through; Raindrop → sends one colour to your eye, as one tiny part of a rainbow. *Why:* Splitting, mixing and filtering are three things we can do with the colours in light.
-9. (truefalse) Moonlight is sunlight that has bounced off the Moon. True or false: a rainbow can only ever form in the daytime.  
+9. (truefalse) A rainbow can only ever form in the daytime.  
    **Answer:** False. *Why:* False. Bright moonlight shining on rain can make a faint 'moonbow' at night, because moonlight still has all the colours of sunlight. It usually looks pale or white to us, because our eyes see very little colour in dim light.
 10. (draw) Draw yourself seeing a rainbow. Draw the Sun, the rain and the rainbow in the right places.  
    **Answer:** The Sun is behind the person. The rain and the rainbow are in front of them. Red is on the outside of the bow. A strong drawing also shows the person's shadow pointing towards the rainbow.. *Why:* To see a rainbow, the Sun must be behind you and the rain in front.
@@ -713,7 +712,7 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
    **Answer:** A yellow line in the Sun's split light did not match any element known on Earth. *Why:* In 1868, during an eclipse seen from Guntur in India, Pierre Janssen and other astronomers saw a yellow line in the Sun's spectrum. It matched no element known on Earth. Helium was found on Earth in 1895. Balloons came much later.
 5. (truefalse) Magenta, the pink-purple of a bougainvillea flower, has its own place in the rainbow.  
    **Answer:** False. *Why:* False. Magenta is not in the rainbow. Your brain makes it when red and blue light arrive together, with no green in between.
-6. (mcq) A mantis shrimp has 12 kinds of colour cells in their eyes. Humans have 3. What did scientists find in 2014?  
+6. (mcq) Mantis shrimps have 12 kinds of colour cells in their eyes. Humans have 3. What did scientists find in 2014?  
    Options: Mantis shrimp were worse than us at telling close colours apart / Mantis shrimp see every colour much better than us / Mantis shrimp are colour-blind / Humans have 12 too  
    **Answer:** Mantis shrimp were worse than us at telling close colours apart. *Why:* Hanne Thoen and her team found that mantis shrimp seem to recognise colours quickly, but are poor at telling close shades apart. More colour cells does not always mean seeing more colours. Picking 'see every colour much better' is what most people guess.
 7. (write) Is your red the same as my red? Write what we could test, and what we might never be able to test.  
@@ -737,12 +736,12 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 15. (perspective) For over 2,000 years, people argued about where the colours of a rainbow come from.  
    **Answer:** A strong answer names an experiment, such as Newton's Wheel, where the rainbow disc spun back into pale white, or the water prism, which split sunlight into the same order every time. It then gives the other side a fair point, for example that Goethe was right that colours appear at the edges of dark shapes through a prism.. *Why:* Scientists today agree with Newton about light. But Goethe noticed real things about how we see colour, and those still interest scientists who study the eye and brain.
 16. (write) Make up a question about colour or rainbows that nobody in your family can answer. How could you try to find out?  
-   **Answer:** A strong answer asks a real question and gives a sensible way to find out. For example: do dogs see rainbows? I could read about which colour cells dogs have, or test whether our dog can find a red ball on green grass.. *Why:* Good scientists collect questions they cannot yet answer, and then look for a way to test them.
+   **Answer:** A strong answer asks a real question and gives a sensible way to find out. For example: do dogs see rainbows? I could read about which colour cells dogs have, or test whether a dog can find a red ball on green grass.. *Why:* Good scientists collect questions they cannot yet answer, and then look for a way to test them.
 
 ## Videos
-- **How Rainbows Form** (Physics Girl, 5 min) id `xkDhQGXqwCM`: For the parent and older children: how drops bend and bounce light, why the bow is round, and why it sits opposite the Sun. *Check:* Found by YouTube search: "How Rainbows Form" by Physics Girl. Title and channel checked automatically; a parent should preview it before showing.
-- **Can You Turn a Rainbow Back into White Light?** (Steve Mould, 10 min) id `RaQfGqsB30o`: Shows splitting light into colours and putting the colours back together, as Newton did, and as in Newton's Wheel. *Check:* Found by YouTube search: "Can You Turn a Rainbow Back into White Light?" by Steve Mould. Title and channel checked automatically; the length is a guess, and a parent should preview it.
-- **What does the mantis shrimp see?** (Science Magazine, 3 min) id `IiVKwpWXDic`: The 2014 finding that an animal with 12 kinds of colour cells is worse than us at telling close colours apart. Good for the question 'is colour in the light or in us?'. *Check:* Found by YouTube search: "What does the mantis shrimp see?" by Science Magazine. Title and channel checked automatically; a parent should preview it.
+- **How Rainbows Form** (Physics Girl, 5 min) id `xkDhQGXqwCM`: For the parent and older children: how drops bend and bounce light, why the bow is round, and why it sits opposite the Sun. *Check:* Watch it first, then decide whether to show it to your child.
+- **Can You Turn a Rainbow Back into White Light?** (Steve Mould, 10 min) id `RaQfGqsB30o`: Shows splitting light into colours and putting the colours back together, as Newton did, and as in Newton's Wheel. *Check:* Watch it first, then decide whether to show it to your child.
+- **What does the mantis shrimp see?** (Science Magazine, 3 min) id `IiVKwpWXDic`: The 2014 finding that an animal with 12 kinds of colour cells is worse than us at telling close colours apart. Good for the question 'is colour in the light or in us?'. *Check:* Watch it first, then decide whether to show it to your child.
 
 ## Quiz
 1. (mcq) What is white sunlight made of?  
@@ -774,7 +773,7 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 10. (mcq) Which of these do scientists NOT know yet?  
    Options: That sunlight is many colours / Whether your red looks the same to you as my red does to me / That rainbows are made by raindrops / That violet bends more than red  
    **Answer:** Whether your red looks the same to you as my red does to me. *Why:* The other three are settled by experiments. What a colour feels like inside someone is still an open question.
-11. (mcq) A bee looks at a flower. What can they see that we cannot?  
+11. (mcq) A bee looks at a flower. What can a bee see that we cannot?  
    Options: Infrared heat / Ultraviolet patterns / Nothing at all / Radio waves  
    **Answer:** Ultraviolet patterns. *Why:* Bees see ultraviolet, just past violet. Many flowers have ultraviolet patterns that guide bees to nectar. Picking 'infrared' mixes up the two ends of the rainbow.
 12. (mcq) How do astronomers know what stars are made of?  
@@ -814,8 +813,8 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 ## Open questions
 - **Is the red you see the same as the red I see?** We can measure light and eyes. But nobody knows how to measure what a colour feels like inside another person.
 - **Why do colours feel like anything at all?** Scientists know a lot about eyes and brains. But how brain signals become the feeling of red is one of the biggest puzzles in science, called the hard problem of consciousness.
-- **How many women can see extra colours, and how much more do they see?** A few people may have four kinds of colour cells. They are rare and hard to find, and tests are difficult.
-- **How does the mantis shrimp's colour vision really work?** They have 12 kinds of colour cells but are poor at telling close colours apart. Scientists have ideas but are not sure.
+- **Can some people see more colours than others?** A few people, mostly women, may have four kinds of colour cells instead of three. They are rare and hard to find, and tests are difficult.
+- **How does a mantis shrimp's colour vision really work?** Mantis shrimps have 12 kinds of colour cells but are poor at telling close colours apart. Scientists have ideas but are not sure.
 - **Do our colour words change what we see?** Some studies find small effects. Others find none. Scientists still argue.
 - **What colours would we see if our eyes had more kinds of colour cells?** Most people find they cannot imagine a truly new colour. We can only guess from animals that see more.
 - **What is light, really, if it acts like a wave and also like tiny packets?** Physicists can predict what light does very well. But what it is underneath is still argued about.
@@ -837,25 +836,17 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 ## Jokes
 - Why did the rainbow go to school? *To get a little brighter.*
 - What did the prism say to the sunbeam? *Come in and show your true colours.*
-- Why was the rainbow never lonely? *It always had six or seven friends with it.*
-- What do you call a rainbow that loves to cook? *A spectrum of flavours.*
-- Why did the raindrop smile at the Sun? *Because together they made something beautiful.*
 - Why did violet always win the bending race? *It was the most flexible colour.*
 - What did the red light say to the violet light? *Don't bend over backwards for me.*
 - Why did the sky turn blue? *It was feeling a little scattered.*
 - What is a rainbow's favourite game? *Hide and seek. It only comes out when the Sun is behind you.*
 - Why couldn't the girl reach the end of the rainbow? *Every time she moved, it moved too. It was a very shy rainbow.*
-- Why did the white light go to the prism party? *To let all its colours out.*
 - What did the green leaf say to the red light? *Sorry, I've got nothing green to give you.*
-- Why was the spinning wheel so calm? *It had mixed all its feelings into white.*
 - What do you call a sad rainbow? *A bit blue.*
 - Why did Newton make a hole in his shutter? *He wanted to see the light.*
-- Why did the bee think the flower was showing off? *It had ultraviolet stripes nobody else could see.*
-- What did one raindrop say to the other? *Two's company, but millions make a rainbow.*
-- Why are sunsets so good at keeping secrets? *They let the blue go and keep only the red.*
 
 ## Connected maths
-- In the Where Does Green End? activity, Amma counted 7 colours, Appa counted 5, the child counted 6 and Akka counted 6. Look at the chart. How many more colours did Amma count than Appa? Which number did most people count? **Amma counted 2 more than Appa. Most people counted 6.**. Amma counted 7 and Appa counted 5. 7 take away 5 is 2. So Amma counted 2 more. Two people counted 6, and only one person counted each of the other numbers. So 6 is the number most people counted. (queues `math.data.bar-charts.L3`)
+- Four friends marked the same strip of colours in the Where Does Green End? activity. Lakshmi counted 7 colours, Rohan counted 5, Divya counted 6 and Tara counted 6. Look at the chart. How many more colours did Lakshmi count than Rohan? Which number did most people count? **Lakshmi counted 2 more than Rohan. Most people counted 6.**. Lakshmi counted 7 and Rohan counted 5. 7 take away 5 is 2. So Lakshmi counted 2 more. Two people counted 6, and only one person counted each of the other numbers. So 6 is the number most people counted. (queues `math.data.bar-charts.L3`)
 - In Newton's Wheel, you divided a disc into 6 equal slices, one for each colour. What fraction of the disc is red? If you made the wheel with Newton's 7 colours instead, would each slice be bigger or smaller? **Red is one sixth of the disc. With 7 colours, each slice would be smaller, one seventh.**. The disc is cut into 6 equal parts, and red is 1 of them. So red is one sixth. If the same disc is shared between 7 colours, there are more slices, so each slice must be smaller. One seventh is smaller than one sixth. (queues `math.fractions.fractions-of-a-whole.L3`)
 - Rainbows only appear when the Sun is low. On one monsoon day, the Sun was low enough from 6 o'clock to 9 o'clock in the morning, and from 4 o'clock to 6:30 in the evening. How many hours in all could you have seen a rainbow, if it rained? **5 and a half hours.**. From 6 to 9 in the morning is 3 hours. From 4 to 6:30 in the evening is 2 and a half hours. 3 hours and 2 and a half hours make 5 and a half hours. (queues `math.time.duration.L3`)
 - In the Biggest Rainbow Indoors challenge, a family measured their rainbow on the wall three times. With the wall 1 metre away, it was 4 cm wide. At 2 metres, it was 8 cm. At 3 metres, it was 12 cm. Look at the table. What is the pattern? How wide might it be at 4 metres? **It gets 4 cm wider for every extra metre. At 4 metres it might be about 16 cm wide.**. 4, 8, 12. Each time the wall is 1 metre further away, the rainbow is 4 cm wider. 12 + 4 = 16. So at 4 metres it might be about 16 cm. It would also be dimmer, because the same light is spread wider. (queues `math.patterns.number-patterns.L3`)
@@ -877,12 +868,11 @@ Follow the Light (sci.light.L3): Topic-level song
 - [Jog Falls](https://www.karnatakatourism.org/) · place · Shivamogga district, Karnataka: A high waterfall whose spray often holds rainbows on sunny days after the monsoon.
 
 ## Things to buy
-- [Glass triangular prism, about 5 to 10 cm long](https://www.amazon.in/s?k=glass+prism+for+kids+science) (tool): Splits sunlight into a clear, bright spectrum, for the water prism test and Colour Filters. Used in e1, a2. Used again in the bending light unit.
+- [Glass triangular prism, about 5 to 10 cm long](https://www.amazon.in/s?k=glass+prism+for+kids+science) (tool): Splits sunlight into a clear, bright spectrum, for the water prism test and Colour Filters. Used in e1, a2. 
 - [Coloured cellophane sheets: red, green and blue](https://www.amazon.in/s?k=coloured+cellophane+sheets) (material): Colour filters for the leaf in red light and the Colour Filters activity. Red cellophane from gift wrap or a red see-through sweet wrapper works too. Used in a1, a2. 
 - [Plant spray bottle with a fine mist](https://www.amazon.in/s?k=plant+mist+spray+bottle) (tool): Makes a fine mist for a rainbow on a balcony or terrace. Any clean spray bottle with a mist setting works. Used in e2. 
 - [Diffraction grating glasses, also called rainbow glasses](https://www.amazon.in/s?k=diffraction+grating+glasses) (tool): Turn every light into a rainbow. Good for comparing lamps in the spectroscope project. Used in p1. 
-- [A Rainbow of My Own, by Don Freeman](https://www.amazon.in/s?k=A+Rainbow+of+My+Own+Don+Freeman) (book): A gentle picture book about a boy who chases a rainbow and in the end finds one in his own room, made by sunlight and water. Used in a1. Read it before or after Catch a Rainbow on the Floor.
-- [A plain spinning top](https://www.amazon.in/s?k=wooden+spinning+top) (game): Stick a rainbow disc on top for a longer, faster spin in Newton's Wheel. Used in e3. Use it in Newton's Wheel instead of a pencil stub.
+- [A Rainbow of My Own, by Don Freeman](https://www.amazon.in/s?k=A+Rainbow+of+My+Own+Don+Freeman) (book): A gentle picture book about a boy who chases rainbows and ends up with one of his own. Used in a1. 
 
 ## Warm-up
 - Sunlight is made of many ____ mixed together. → colours
@@ -897,9 +887,9 @@ Follow the Light (sci.light.L3): Topic-level song
 - Can two people see exactly the same rainbow? → No. Each person sees light from different drops.
 
 ## Plan
-- Start options: a1, story, e2, big_questions, cards, g1, e3
-- Default order: intro → a1 → story → summary → terms → e1 → explanations → g1 → a2 → e2 → videos → ws-core → e3 → a4 → g2 → agreed → challenging → c1 → a3 → big_questions → ws-stretch → p1 → a5 → c2 → ws-challenge → roots → open_questions → quiz
-- Core: a1, e1, e2, e3, a2, a4, g1, ws-core
+- Start options: a1, story, e1, big_questions, cards, g1, e3
+- Default order: intro → a1 → story → summary → terms → e1 → explanations → a5 → g1 → a2 → e2 → videos → ws-core → e3 → a4 → g2 → agreed → challenging → c1 → a3 → big_questions → ws-stretch → p1 → c2 → ws-challenge → roots → open_questions → quiz
+- Core: a1, e1, e3, a2, a4, g1, ws-core
 
 ## Sources
 - Founder notes, ideas/by_topic/light-seeing-and-shadows.md: Reflection, Shadow, Refraction, Rainbows, Prism (glass of water prism, homemade prism, story of a raindrop birthing a rainbow, skit of a rainbow forming); Theory of Colours (prism spectrum, spinning colour wheel to white, coloured plastics); CD rainbow spectra; card game collecting colours to build a rainbow

@@ -232,7 +232,7 @@
    "definition": "People choose transparent, translucent or opaque materials depending on whether they want to see through, to let light in privately, or to block light.",
    "description": "Windows are transparent, so we can see out and let sunlight in. Bathroom windows are often translucent, so light comes in but nobody can see in. Thin curtains soften bright light. Thick curtains are opaque, so a baby can sleep in the afternoon. Sunglasses are tinted. They let only part of the light through, so bright sunshine is less dazzling. Good sunglasses also block ultraviolet light. Never look at the Sun, even with sunglasses. They do not make it safe.",
    "examples": [
-    "Milk often comes in opaque packets, and medicine in brown bottles,, because light can spoil them.",
+    "Milk often comes in opaque packets, and medicine in brown bottles, because light can spoil them.",
     "A paper lantern, called a kandil, makes a bulb's light soft and spread out.",
     "A stone jaali lets light and air in but keeps a room private and cool."
    ],
@@ -420,16 +420,6 @@
    "hint": "What is in the tiny gaps between the paper threads before, and after?"
   },
   {
-   "q": "If a material let every kind of light through and bounced none back, could you see it at all?",
-   "kind": "deep",
-   "hint": "How do you see a clean glass of water on the table?"
-  },
-  {
-   "q": "A thin curtain hides you by day but not at night. Is privacy something a material has, or something the light makes?",
-   "kind": "big",
-   "hint": "In the story, Meenu's thin curtain hid her by day but showed her at night. What changed: the cloth, or the light?"
-  },
-  {
    "q": "When is it good to let people see through, and when is it good to hide? Think of homes, schools and governments.",
    "kind": "big",
    "hint": "Some people say a fair government should be 'transparent'. What do you think they mean?"
@@ -482,7 +472,7 @@
    "Abba looked up. The window glowed red, like a coal. In the middle glowed the lantern itself, brightest of all, with its gold edges showing as dark lines. And all around it, dark against the red light, bloomed Ammi's flowers. There were hundreds of them, every one she had stitched in all those quiet hours. People in the lane stopped and looked up too. The jalebi woman said, \"Wah.\" Ammi came out of the shop with a needle still in her hand. She stood beside them and said nothing at all for a long while.",
    "Later, Abba carried the kandil down and hung it over the shop door, where it belonged. But every evening of that Diwali, Meenu switched on a bulb behind the curtain, so that the lane could see the garden that had been there all along."
   ],
-  "epiphany": "For the parent: thin muslin is translucent. Through it, you can see from the dim side into the bright side, but not the other way. By day the lane is bright, so Meenu sees out and is hidden. At night her lamp makes her room the bright side, so the lane sees her. The thick stitches block more light than the thin cloth. So they look white when light falls on them from the front, and dark when light comes from behind. The quilt is opaque and hides everything. Meenu solves her problem by understanding the light, not by finding a better curtain. The story also quietly asks whose patient work goes unseen until someone looks from the right side.",
+  "epiphany": "For the parent: thin muslin is translucent. Through it, you can see from the dim side into the bright side, but not the other way. By day the lane is bright, so Meenu sees out and is hidden. At night her lamp makes her room the bright side, so the lane sees her. The thick stitches block more light than the thin cloth. So they look white when light falls on them from the front, and dark when light comes from behind. The quilt is opaque and hides everything. Meenu solves her problem by understanding the light, not by finding a better curtain.",
   "ask": [
    "In the daytime, why could Meenu see the lane, but Mrs. Rizvi could not see her?",
    "Why could Zoya see Meenu's shadow at night, through the same curtain?",
@@ -503,7 +493,7 @@
    "id": "g1",
    "title": "Clear, Cloudy or Blocked?",
    "mins": 20,
-   "players": "2 to 5 players, or one child playing against the app",
+   "players": "2 to 5 players",
    "context": "This is a card game about choosing materials. For each job on a card, players decide whether it needs a transparent material (clear), a translucent one (cloudy) or an opaque one (blocked), and say why.",
    "printables": [
     {
@@ -531,9 +521,9 @@
       "An umbrella that keeps you shady",
       "A kitchen door",
       "A sheet for drawing over a picture, to trace it",
-      "TRY IT: hold your hand over a torch in the dark. Which group is a hand in?",
-      "TRY IT: look at a printed word through a plastic carry bag, touching the page and then 5 cm above. What changes?",
-      "TRY IT: put a drop of oil on a scrap of paper. Hold it up to the light. What happens?"
+      "Swimming goggles",
+      "A cupboard door that hides the mess inside",
+      "A sunshade for the front window of a parked car"
      ]
     },
     {
@@ -547,20 +537,42 @@
     },
     {
      "kind": "tokens",
-     "title": "20 lamp tokens (small paper circles)",
+     "title": "24 lamp tokens (small paper circles)",
      "items": [
+      "🪔",
+      "🪔",
+      "🪔",
+      "🪔",
+      "🪔",
+      "🪔",
+      "🪔",
+      "🪔",
+      "🪔",
+      "🪔",
+      "🪔",
+      "🪔",
+      "🪔",
+      "🪔",
+      "🪔",
+      "🪔",
+      "🪔",
+      "🪔",
+      "🪔",
+      "🪔",
+      "🪔",
+      "🪔",
+      "🪔",
       "🪔"
      ]
     }
    ],
    "rules": [
-    "Cut out the 24 cards. Shuffle them and put them face down in a pile.",
+    "Cut out the 24 job cards and the 24 lamp tokens. Shuffle the cards and put them face down in a pile.",
     "On your turn, take the top card and read it out loud.",
     "Decide which kind of material the job needs. Put the card on the CLEAR, CLOUDY or BLOCKED mat.",
-    "Say why, and name one real material that would work. A good reason wins one lamp token.",
-    "If you draw a TRY IT card, everyone does it together. The first to explain the result wins two tokens.",
-    "Some cards can go on two mats. If you can argue well for your choice, you still win the token.",
-    "When the cards run out, the player with the most tokens wins."
+    "Say why, and name one real material that would work. If the other players agree it is a good reason, you take one lamp token.",
+    "Some cards can go on two mats. If you argue well for your choice, you still take the token.",
+    "When the cards run out, the player with the most tokens wins. If players are tied, they share the win."
    ],
    "setup": [
     {
@@ -580,7 +592,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Lay the three mats on the floor. 2. Shuffle the 24 job cards and put them face down. 3. Put the lamp tokens in a bowl.",
+     "do": "1. Lay the three mats on the floor. 2. Shuffle the 24 job cards and put them face down. 3. Put the 24 lamp tokens in a bowl.",
      "say": "Every card is a job. For each job, we choose a material. Should it be transparent, so we see straight through? Translucent, so light comes in but no picture? Or opaque, so no light gets through?",
      "kid": "Put out the three mats. Mix up the cards. For each job, pick a mat.",
      "context": "This is the first step of Clear, Cloudy or Blocked?, a card game about choosing materials for jobs. Here you set up the game."
@@ -590,7 +602,7 @@
      "mins": 3,
      "do": "Find the card 'A bathroom window'. Play it together as a practice round.",
      "say": "Let's practise with one card. 'A bathroom window.' Which mat does it go on?",
-     "kid": "Practice card: a bathroom window. Clear, cloudy or blocked? Tap your answer.",
+     "kid": "Practice card: a bathroom window. Clear, cloudy or blocked? Say your answer.",
      "ask": [
       {
        "q": "Why not clear glass?",
@@ -615,33 +627,15 @@
     },
     {
      "id": "s3",
-     "mins": 10,
-     "do": "1. Take turns. Each player draws a card, reads it out and puts it on a mat. 2. They say why. 3. They name one real material that would work. 4. Give a lamp token for each good reason.",
+     "mins": 13,
+     "do": "1. Take turns. Each player draws a card, reads it out and puts it on a mat. 2. They say why. 3. They name one real material that would work. 4. The other players decide if the reason is good. If it is, the player takes a lamp token.",
      "say": "When you put your card down, tell me why, and tell me one real material that would do the job.",
-     "kid": "Take turns. Read your card. Put it on a mat. Say why. Name a material. A good reason wins a 🪔 token.",
-     "parent": "Some cards are tricky on purpose. A greenhouse needs a transparent or translucent cover, because plants need light. A kite that glows needs translucent paper. A medicine bottle and a milk packet need opaque or dark material, because light spoils what is inside. A tracing sheet must be translucent, but thin enough to show the picture when it lies on top. A bird cage cover can be opaque, or thick translucent cloth. Accept any choice with a good reason.",
+     "kid": "Take turns. Read your card. Put it on a mat. Say why. Name a material. If the others agree it is a good reason, take a 🪔 token.",
+     "parent": "Some cards are tricky on purpose. A greenhouse needs a transparent or translucent cover, because plants need light. A kite that glows needs translucent paper. A medicine bottle and a milk packet need opaque or dark material, because light spoils what is inside. A tracing sheet must be translucent, but thin enough to show the picture when it lies on top. A bird cage cover can be opaque, or thick translucent cloth. Accept any choice with a good reason. Swimming goggles need a transparent lens. A cupboard door and a car sunshade are opaque.",
      "context": "This is the main part of the game Clear, Cloudy or Blocked?. Players choose materials for everyday jobs and explain why."
     },
     {
      "id": "s4",
-     "mins": 3,
-     "do": "When a TRY IT card comes up, stop and do it together. Everyone guesses first.",
-     "say": "Before we try it, everyone guess what will happen. Then we'll see who was right.",
-     "kid": "A TRY IT card! Guess first. Then try it. Were you right?",
-     "ask": [
-      {
-       "q": "Why did the oil spot on the paper go see-through?",
-       "good": [
-        "The oil filled the little gaps in the paper.",
-        "Light did not scatter so much."
-       ]
-      }
-     ],
-     "think": "Your hand lets a little red light through. So which mat does a hand belong on?",
-     "context": "This step of the game Clear, Cloudy or Blocked? is for the TRY IT cards, where everyone does a quick test with light."
-    },
-    {
-     "id": "s5",
      "mins": 2,
      "do": "1. Count everyone's tokens to find the winner. 2. Look at the three piles together.",
      "say": "Look at the three piles. Were there any cards we argued about? Why could they go in two places?",
@@ -655,7 +649,7 @@
    "id": "g2",
    "title": "Guess Behind the Sheet",
    "mins": 15,
-   "players": "2 or more players, with a grown-up to work the torch",
+   "players": "2 or more players",
    "context": "This is a guessing game. A torch shines on things from behind a white bedsheet. Players guess each thing from the shadow it makes. Opaque things make dark shadows, translucent things make pale ones, and transparent things make almost none. The bedsheet itself is translucent: light comes through it, but no clear picture.",
    "printables": [
     {
@@ -672,7 +666,7 @@
       "a toy car",
       "a pair of sunglasses",
       "an onion",
-      "a cling film sheet on a frame",
+      "a cling film sheet in a cardboard frame",
       "a hand making a bird shape"
      ]
     },
@@ -689,12 +683,12 @@
     }
    ],
    "rules": [
-    "Hang a white bedsheet across a doorway, or hold it up between two chairs.",
-    "The hider stands behind the sheet with the torch and the objects. The guessers sit in front, in the dark.",
-    "The hider holds one object close to the sheet, with the torch about 2 metres behind it.",
+    "Hang a thin white bedsheet across a doorway, or hold it up between two chairs.",
+    "The hider stands behind the sheet with the objects. A torch stands on a stool or a pile of books about 2 metres behind the sheet, switched on and pointing at it. The guessers sit in front, in the dark.",
+    "The hider holds one object close to the sheet, between the torch and the sheet.",
     "Guessers say what it is, and whether its shadow is dark, pale or almost none.",
     "One point for the right object. One more for the right group: opaque, translucent or transparent.",
-    "Swap hiders after six objects."
+    "Swap hiders after six objects. When all 12 have been guessed, the player with the most points wins."
    ],
    "setup": [
     {
@@ -715,10 +709,10 @@
      "id": "s1",
      "mins": 3,
      "adult": true,
-     "do": "1. Hang a white bedsheet across a doorway, or between two chairs. 2. Switch off the lights. 3. Stand behind the sheet with the torch, about 2 metres back. 4. Put the objects on a stool beside you.",
-     "say": "I'll hold something behind the sheet, with the torch behind it. You'll only see its shadow. Guess what it is. Then tell me if its shadow is dark, pale or hardly there.",
+     "do": "1. Hang a thin white bedsheet across a doorway, or between two chairs. 2. Switch off the lights. 3. Stand the torch on a stool or a pile of books, about 2 metres behind the sheet, pointing at it. 4. Put the objects on another stool beside you.",
+     "say": "I'll hold something close to the sheet, with the torch behind it. You'll only see its shadow. Guess what it is. Then tell me if its shadow is dark, pale or hardly there.",
      "kid": "Sit in front of the sheet. A grown-up will hold things behind it. Guess each thing from its shadow.",
-     "parent": "Hold each object close to the sheet and keep the torch steady, about 2 metres back. Then the shadows are sharp. Never let a child stand on chairs to hang the sheet.",
+     "parent": "Hold each object close to the sheet, between the sheet and the torch. Then the shadows are sharp. Never let a child stand on chairs to hang the sheet.",
      "context": "This is the first step of Guess Behind the Sheet, a shadow-guessing game with a bedsheet and a torch. Here you set it up."
     },
     {
@@ -789,8 +783,7 @@
     },
     {
      "item": "a ruler",
-     "qty": 1,
-     "buy": "b-ruler"
+     "qty": 1
     },
     {
      "item": "a stack of books about 30 cm high, put right beside the card, to rest your chin on",
@@ -801,7 +794,6 @@
      "qty": 1
     }
    ],
-   "safety": "This test is safe. Do it in daylight by a window, or under a bright room light. Never use the Sun directly.",
    "schedule": [
     {
      "day": 1,
@@ -999,7 +991,7 @@
   {
    "id": "e2",
    "title": "The Oil Spot Window",
-   "mins": 25,
+   "mins": 21,
    "days": 1,
    "question": "Can a drop of oil or water make paper more see-through? Does it last?",
    "predict": "Guess first. Will a drop of water make paper more see-through, less see-through, or the same? What about a drop of oil? Which will last longer? Why do you think so?",
@@ -1035,12 +1027,11 @@
      "qty": 1
     }
    ],
-   "safety": "Use a little oil only, and wipe up any spills so nobody slips. Wash your hands after.",
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
-     "what": "Make a dry spot, a water spot and an oil spot. Score them. Wait one hour and score them again."
+     "mins": 21,
+     "what": "Make a dry spot, a water spot and an oil spot. Score them. Wait one hour (do something else) and score them again."
     }
    ],
    "record": "Fill in the table with a score for each spot. 0 means you see nothing of the print. 1 means grey smudges where the print is. 2 means you see the shapes of words but cannot read them. 3 means you can read the words.",
@@ -1197,7 +1188,7 @@
      "id": "s2",
      "mins": 7,
      "adult": true,
-     "do": "1. Go to a bright balcony, terrace or courtyard in the late morning. 2. Hold the chart where the sunlight falls on it. 3. Your child stands 3 big steps away, with their back to the Sun. 4. They read the smallest row they can, without sunglasses, then with.",
+     "do": "1. Go to a bright balcony, terrace or courtyard in the late morning, or stand by a sunny window. 2. Hold the chart where the sunlight falls on it. 3. Your child stands 3 big steps away, with their back to the Sun. 4. They read the smallest row they can, without sunglasses, then with.",
      "say": "Keep your back to the Sun. Never look at it. Read me the smallest row you can. Now put on the sunglasses and try again.",
      "kid": "Turn your back to the Sun. Never look at it. Read the smallest row. Now try with sunglasses.",
      "parent": "White paper in sunshine causes glare. Some children read one row smaller with sunglasses. Others see no difference outside. Both are honest results.",
@@ -1260,7 +1251,6 @@
      "qty": 3
     }
    ],
-   "safety": "Never shine a torch into anyone's eyes. Only touch things you are allowed to carry.",
    "schedule": [
     {
      "day": 1,
@@ -1327,9 +1317,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Look at the three trays together.",
-     "say": "Was anything hard to put on a tray? Where would your hand go?",
-     "kid": "Look at your trays. Which thing was hardest to sort? Where does your hand go?",
-     "think": "Is your hand translucent or opaque? Does it depend on the light?",
+     "say": "Was anything hard to put on a tray? Why?",
+     "kid": "Look at your trays. Which thing was hardest to sort? Why?",
      "context": "This is the last step of the hunt. You look back at the trays and the tricky things."
     }
    ]
@@ -1357,7 +1346,6 @@
      "qty": 1
     }
    ],
-   "safety": "This is safe. Plain tap water works. The sugar needs a minute or two of stirring to dissolve.",
    "schedule": [
     {
      "day": 1,
@@ -1453,7 +1441,7 @@
     {
      "day": 1,
      "mins": 5,
-     "what": "Fill one bowl with tap water and one with boiled, cooled water. Freeze them overnight."
+     "what": "In the morning a grown-up boils water to cool. In the evening, fill one bowl with tap water and one with the boiled, cooled water. Freeze them overnight."
     },
     {
      "day": 2,
@@ -1482,7 +1470,7 @@
      "id": "s1",
      "mins": 5,
      "adult": true,
-     "do": "1. A grown-up boils some water and lets it cool completely. 2. Fill one bowl with tap water and label it TAP. 3. Fill the other with the cooled boiled water and label it BOILED. 4. Put both in the freezer.",
+     "do": "1. Early in the day, a grown-up boils some water and leaves it to cool completely, with a lid on. 2. In the evening, fill one bowl with tap water and label it TAP. 3. Fill the other with the cooled boiled water and label it BOILED. 4. Put both in the freezer.",
      "say": "Boiling pushes out some of the air hidden in water. Will that change the ice?",
      "kid": "Fill one bowl with tap water. A grown-up gives you boiled, cooled water for the other. Freeze both.",
      "wait": "Leave them in the freezer overnight",
@@ -1491,7 +1479,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Take out both ices and put them on a plate. 2. Hold each up to a window. 3. Look for tiny bubbles and cloudy parts.",
+     "do": "1. Hold each bowl under a running tap for a few seconds, then tip the ice onto a plate. 2. Hold each ice up to a window. 3. Look for tiny bubbles and cloudy parts.",
      "say": "Look through each ice. Where is it clear? Where is it cloudy? What makes the cloudy parts?",
      "kid": "Hold each ice up to the window. Where is it clear? Where is it cloudy? Look for bubbles.",
      "parent": "The cloudy part is usually in the middle. Water freezes from the outside in, and pushes air into the middle, where it gets trapped as tiny bubbles. Boiled water often makes clearer ice, but it may still be cloudy in the middle. Either result is honest.",
@@ -1527,7 +1515,7 @@
    "days": 2,
    "materials": [
     {
-     "item": "a window with a thin curtain, or a thin cotton saree hung over a window or a doorway",
+     "item": "a thin curtain, or a thin white cotton saree or dupatta, hung in a doorway between two rooms",
      "qty": 1
     },
     {
@@ -1539,80 +1527,77 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up goes outside with the child. Stay near the house, and only look into your own home.",
    "schedule": [
     {
      "day": 1,
      "mins": 10,
-     "what": "In the daytime, look at the window from inside and from outside."
+     "what": "In the daytime, hang the thin curtain in a doorway between a bright room and a dim room. Look through it from each side."
     },
     {
      "day": 2,
      "mins": 10,
-     "what": "At night, with a lamp on inside, look again from outside. Then try a thick quilt."
+     "what": "In the evening, switch the lights round so the other room is the bright one. Look again. Then hang a thick quilt."
     }
    ],
-   "record": "Draw the window four times: day from inside, day from outside, night from outside, and night with the quilt.",
-   "context": "In this 2-day activity you test a thin curtain by day and by night. You find out that it hides whoever is on the dim side, and shows whoever is on the bright side.",
+   "record": "Draw the curtain four times: daytime seen from the dim room, daytime seen from the bright room, evening seen from the room that is now dark, and with the thick quilt.",
+   "context": "In this 2-day activity you hang a thin curtain in a doorway between a bright room and a dim room. You find out that it hides whoever is on the dim side, and shows whoever is on the bright side.",
    "setup": [
     {
-     "art": "A child inside a room behind a thin curtain in daytime, looking out at a bright street.",
-     "caption": "1. In the day, sit behind a thin curtain and look out."
+     "art": "A child standing in a dim room in front of a thin curtain hung in a doorway, looking at a bright room where someone stands close to the curtain and waves.",
+     "caption": "1. Hang a thin curtain in a doorway. Make one room bright and the other dim."
     },
     {
-     "art": "A grown-up and child outside in daylight looking up at the same window, which shows only bright white cloth.",
-     "caption": "2. Then go outside and look in. What can you see?"
+     "art": "From the dim room, a bright glowing curtain with the dark shape of a person waving close behind it.",
+     "caption": "2. Stand close to the curtain and wave. Look from each side in turn."
     },
     {
-     "art": "The same window at night from outside, glowing, with a dark shape of a person moving behind the curtain.",
-     "caption": "3. At night, with the lamp on inside, look in again."
+     "art": "Evening: the lamp is now on in the room that was dim, and the other room is dark. A dark shape shows on the glowing curtain.",
+     "caption": "3. In the evening, swap the lights. Look from each side again."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. In the daytime, your child sits inside behind a thin curtain. 2. They look out and say what they can see.",
-     "say": "What can you see outside through the curtain? Do you think anyone outside can see you?",
-     "kid": "Sit behind the thin curtain. What can you see outside? Can people see you?",
-     "context": "This is the first step of the day and night curtain activity. You look out through a thin curtain in the daytime."
+     "do": "1. In the daytime, hang the thin curtain in a doorway between two rooms. 2. Make one room bright (curtains open, lights on) and the other dim (curtains closed, lights off). 3. One person stands in the bright room, close to the curtain, and waves. The other stands in the dim room and looks.",
+     "say": "Stand close to the curtain and wave. What can you see from the dim room? Can you see me?",
+     "kid": "Stand in the dim room and look at the curtain. Can you see the person waving in the bright room?",
+     "context": "This is the first step of the day and night curtain activity. You look through a thin curtain from the dim side to the bright side."
     },
     {
      "id": "s2",
      "mins": 5,
-     "adult": true,
-     "do": "1. One person stays inside behind the curtain and waves. 2. The other goes outside and looks at the window. 3. Swap.",
-     "say": "Can you see me waving? What does the curtain look like from out here?",
-     "kid": "Go outside with a grown-up. Look at the window. Can you see the person waving?",
-     "parent": "In the day, the person inside is usually hidden. The curtain looks bright from outside, because daylight bounces off it. If you live high up and cannot look in from outside, hang the saree in a doorway between two rooms. Light one room brightly and keep the other dim.",
-     "context": "This step of the curtain activity checks from outside, in the daytime, whether you can see in."
+     "do": "1. Swap places. 2. Now the person in the dim room stands close to the curtain and waves. 3. The person in the bright room looks.",
+     "say": "Now I wave from the dim room. Can you see me from the bright room? What does the curtain look like?",
+     "kid": "Now you are in the bright room. Can you see the person waving in the dim room?",
+     "parent": "You usually see a dark shape on the glowing cloth from the dim room, and only bright cloth from the bright room. If you see little either way, make the dim room darker. A window works the same way. In the day the street is the bright side, so you see out and nobody sees in.",
+     "context": "This step of the curtain activity swaps sides, to see who can be seen from which room."
     },
     {
      "id": "s3",
      "mins": 6,
-     "adult": true,
-     "do": "1. At night, switch on a lamp inside the room. 2. One person moves about behind the curtain. 3. The other goes outside and looks.",
-     "say": "It's the same curtain. Can you see in now? What changed?",
-     "kid": "Now it is night. The lamp is on inside. Look from outside. Can you see in?",
+     "do": "1. In the evening, switch on a lamp in the room that was dim by day. 2. Switch off all the lights in the other room. 3. One person moves about close to the curtain, on the lamp side. 4. The other looks from the dark side.",
+     "say": "It's the same curtain. Can you see me now? What changed?",
+     "kid": "Now the lamp is on in the other room. Look from the dark room. Can you see the person?",
      "check": {
       "t": "mcq",
-      "q": "At night, with the lamp on inside, people outside can see in. Why?",
+      "q": "In the evening, the room that was dim by day has a lamp on. Someone in it can now be seen from the other room. Why?",
       "options": [
-       "The curtain gets thinner at night",
-       "Now the room is the bright side",
+       "The curtain gets thinner in the evening",
+       "Now that room is the bright side",
        "Curtains only work in the day"
       ],
       "a": 1,
-      "why": "A thin curtain lets a little light through both ways. Whoever is on the bright side shows up to whoever is on the dark side. At night the room is the bright side. Picking 'thinner' usually means thinking the material changed. It is the light that changed."
+      "why": "A thin curtain lets a little light through both ways. Whoever is on the bright side shows up to whoever is on the dark side. Now the lamp room is the bright side. Picking 'thinner' usually means thinking the material changed. It is the light that changed."
      },
-     "context": "This step of the curtain activity looks at the window from outside at night, with a lamp on inside."
+     "context": "This step of the curtain activity swaps which room is bright, using a lamp in the evening."
     },
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. Hang a thick quilt or bedsheet over the window. 2. Look from outside again.",
+     "do": "1. Hang a thick quilt or bedsheet in the doorway, in front of the thin curtain. 2. Look from the dark side again.",
      "say": "Now with the thick quilt. Can you see anything?",
-     "kid": "Hang a thick quilt over the window. Look again. What can you see?",
+     "kid": "Hang a thick quilt in front of the curtain. Look again. What can you see?",
      "think": "Why do many homes have two curtains, one thin and one thick?",
      "context": "This is the last step of the curtain activity. You add a thick, opaque quilt and look again."
     }
@@ -1633,7 +1618,6 @@
      "qty": 3
     }
    ],
-   "safety": "Walk, don't run, so nobody bumps heads.",
    "schedule": [
     {
      "day": 1,
@@ -1661,7 +1645,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Hold up the GLASS sign. 2. Three people stand still, a step apart, with arms folded. 3. The 'light' walks straight past them from one side of the room to the other.",
+     "do": "1. Hold up the GLASS sign. 2. One person is the 'light'. Everyone else is an 'atom' and stands still, a step apart, with arms folded. If there are only two of you, one atom is enough: the light walks past it again and again. 3. The light walks straight past the atoms from one side of the room to the other.",
      "say": "This is glass. Its atoms cannot catch the light we see, so they keep their arms folded. The light walks straight through. Where does it come out?",
      "kid": "You are light. Walk straight through the glass atoms. Don't turn. Where do you come out?",
      "context": "This is the first step of the Light Party drama. You act out light going straight through glass.",
@@ -1723,12 +1707,12 @@
      "qty": 1
     },
     {
-     "item": "a battery LED tealight, or a small torch lying on its side inside the box, pointing at the window you are testing",
+     "item": "a battery LED tealight",
      "qty": 1,
      "buy": "b-ledtealight"
     }
    ],
-   "safety": "Use only a battery LED light inside the lantern, never a real flame or diya, because paper burns. A grown-up helps with cutting the windows.",
+   "safety": "Use only a battery LED light inside the lantern, never a real flame or diya, because paper burns.",
    "schedule": [
     {
      "day": 1,
@@ -1819,7 +1803,7 @@
    ],
    "materials": [
     "an empty clear plastic bottle",
-    "black paper, foil, card, cloth and tape",
+    "black paper, foil, card, cloth and tape (any kind)",
     "a torch, or a phone torch",
     "water"
    ],
@@ -1878,12 +1862,12 @@
       "t": "mcq",
       "q": "Light gets in where two pieces of black paper meet. What is the best fix?",
       "options": [
-       "Use a clear tape over the gap",
-       "Overlap the paper and cover the join with black tape",
+       "Cover the gap with clear tape",
+       "Overlap the paper so no gap is left, and tape it down",
        "Leave a small gap so air can get in"
       ],
       "a": 1,
-      "why": "Overlapping the paper and covering the join with black tape makes the whole cover opaque. Clear tape is transparent, so light would pass straight through it. Picking clear tape usually means thinking tape always seals light, but only opaque tape does."
+      "why": "Overlapping the paper leaves no gap, so the whole cover is opaque. Clear tape is transparent, so light would pass straight through it. Picking clear tape usually means thinking tape always seals light, but only opaque material does."
      },
      "context": "This step of the container challenge tests the container in the dark with a torch."
     },
@@ -1901,7 +1885,7 @@
   {
    "id": "c2",
    "title": "The Soft Night-Light",
-   "problem": "A little cousin is scared of the dark, but a bare torch is too bright and hurts their eyes. Make a shade for an LED light that lights the whole room softly, with no bright spot you can see.",
+   "problem": "A young child is scared of the dark, but a bare torch is too bright and hurts their eyes. Make a shade for an LED light that lights the whole room softly, with no bright spot you can see.",
    "constraints": [
     "Use only an LED tealight or a torch, never a flame.",
     "From across the room, nobody should see the bright point of the light.",
@@ -2123,14 +2107,6 @@
      "why": "Choose by what the job needs: a clear view (transparent), light without a picture (translucent), or no light at all (opaque)."
     },
     {
-     "t": "write",
-     "p": "In the Glowing Hands activity, you pressed a torch under your fingers in a dark room. What did you see? What does it tell you about your hand?",
-     "lines": 3,
-     "a": "My fingers glowed red at the edges. So some light, mostly red light, can pass through my hand. No picture comes through, so my hand is a little translucent, not completely opaque.",
-     "why": "A strong answer uses what the child really saw, and uses it to say which group the hand belongs in.",
-     "how": "a1"
-    },
-    {
      "t": "odd",
      "p": "Which one is the odd one out: a glass of clean water, a steel spoon, a wooden spoon, a brick?",
      "opts": [
@@ -2187,6 +2163,14 @@
      ],
      "a": 1,
      "why": "Sunglasses are tinted: they let part of the light through. The Sun is so bright that even that part can harm the eyes. Never look straight at the Sun."
+    },
+    {
+     "t": "fill",
+     "p": "A material that lets light through but scatters it, so you see a glow and no clear picture, is called ____.",
+     "a": [
+      "translucent"
+     ],
+     "why": "Translucent means light gets through but is scattered. Transparent means a clear picture gets through. Opaque means no light gets through."
     }
    ]
   },
@@ -2198,7 +2182,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "A drop of coconut oil is put on a piece of white paper. The spot becomes see-through. What did the oil do?",
+     "p": "A drop of cooking oil is put on a piece of white paper. The spot becomes see-through. What did the oil do?",
      "opts": [
       "It turned the paper into glass",
       "It filled the air gaps between the paper's threads, so light bounced less",
@@ -2227,18 +2211,6 @@
      "a": 1,
      "why": "A heap of sugar looks white because light bounces off the edges of every grain. Stirred in, the sugar splits into molecules far too small to scatter light, so the water looks clear. Tasting shows the sugar is still there.",
      "how": "a2"
-    },
-    {
-     "t": "mcq",
-     "p": "A drop of water and a drop of coconut oil are put side by side on butter paper. Both spots turn clearer. The next day, the water spot is cloudy again, but the oil spot is still clear. Why?",
-     "opts": [
-      "The water dried up, so air filled the gaps again",
-      "The oil made the paper thinner",
-      "The water spot got dirty"
-     ],
-     "a": 0,
-     "why": "Water and oil both fill the air gaps between the paper's threads, so light scatters less. Water dries up and air comes back into the gaps. Oil does not dry, so its spot stays clear. A strong answer says what fills the gaps each time.",
-     "how": "e2"
     },
     {
      "t": "truefalse",
@@ -2359,17 +2331,6 @@
      "how": "a4"
     },
     {
-     "t": "mcq",
-     "p": "Which pair of sunglasses protects your eyes better on a sunny beach in Chennai?",
-     "opts": [
-      "Very dark ones with no label",
-      "Lighter ones with a 'UV400' label",
-      "Both the same, because darker is always safer"
-     ],
-     "a": 1,
-     "why": "Ultraviolet light from the Sun can harm the eyes, and we cannot see it. A UV400 label means the lenses block it. Very dark lenses without it can be worse, because the pupils open wide in the dark and let more ultraviolet light in. Darker is not always safer."
-    },
-    {
      "t": "write",
      "p": "Arjun, a boy in Class 4, says, 'Snow is white because it is made of a white kind of ice.' What is wrong with his idea? How could you show it at home?",
      "lines": 3,
@@ -2409,6 +2370,12 @@
      ],
      "a": "see items",
      "why": "Being see-through is not fixed. It depends on how thick a thing is, on which kind of light we use, and on which side has more light. A strong sorter can say which of the three changed in each moment."
+    },
+    {
+     "t": "truefalse",
+     "p": "A wet white T-shirt is more see-through than a dry one.",
+     "a": true,
+     "why": "True. Cloth is threads with air between them. Water fills the air gaps, so light scatters less and more of it goes straight through, as with the oil spot on paper."
     }
    ]
   },
@@ -2470,12 +2437,6 @@
     },
     {
      "t": "truefalse",
-     "p": "Many people say old church windows are thicker at the bottom because glass slowly flows downwards over hundreds of years. Is this true?",
-     "a": false,
-     "why": "False. Old glass was made unevenly, and builders often put the thick edge at the bottom. Some old panes have the thick edge at the top. Scientists worked out that glass at room temperature would take far longer than the age of the universe to sag enough to see."
-    },
-    {
-     "t": "truefalse",
      "p": "Light made deep in the centre of the Sun reaches the Sun's surface within a few seconds.",
      "a": false,
      "why": "False. The inside of the Sun is so crowded that light keeps bumping into particles and changing direction, like a person trying to cross a packed crowd. Estimates for how long it takes range from about 10,000 to 170,000 years."
@@ -2486,28 +2447,6 @@
      "lines": 3,
      "a": "It is not fixed. The same gold is opaque when it is thick and lets light through when it is very thin. So being opaque depends on thickness, not only on what a thing is made of.",
      "why": "A strong answer uses the gold example to make a general rule, and may add another example, like many sheets of butter paper."
-    },
-    {
-     "t": "perspective",
-     "p": "Scientists have argued about what glass really is.",
-     "views": [
-      {
-       "who": "Some scientists",
-       "says": "Glass is a solid. It is stiff, and windows keep their shape for hundreds of years."
-      },
-      {
-       "who": "Some other scientists",
-       "says": "Glass is more like a liquid that has got stuck. Its atoms are jumbled in no neat order, like the atoms of a liquid."
-      },
-      {
-       "who": "Many scientists today",
-       "says": "Glass is its own kind of material, in between, and how it becomes stiff as it cools is still being studied."
-      }
-     ],
-     "ask": "Which view do you find most convincing? Give your reason. Then say what evidence the other side would point to.",
-     "lines": 5,
-     "a": "A strong answer picks a view and gives evidence, for example that window glass does not sag or flow, so it acts like a solid. It then states the other side fairly: inside, its atoms are jumbled like a liquid's, unlike the neat rows in salt or ice. The best answers say both facts are true, which is why the question is hard.",
-     "why": "This is a real open question. Glass acts like a solid but is arranged like a liquid, so each side points to true evidence."
     },
     {
      "t": "write",
@@ -2529,52 +2468,11 @@
      "why": "Ordinary glass bounces back a little light at each surface, which makes a faint shine and reflections. Her coating stopped most of that bounce, so more light went through. Coatings like hers are used on camera lenses and spectacles today."
     },
     {
-     "t": "sort",
-     "p": "For each thing, do we want it transparent, translucent or opaque?",
-     "cats": [
-      "Transparent",
-      "Translucent",
-      "Opaque"
-     ],
-     "items": [
-      [
-       "spectacle lenses",
-       "Transparent"
-      ],
-      [
-       "the front of a fish tank",
-       "Transparent"
-      ],
-      [
-       "a lampshade for a reading lamp",
-       "Translucent"
-      ],
-      [
-       "a cover for a bird cage at night",
-       "Opaque"
-      ],
-      [
-       "a blackout curtain for sleep",
-       "Opaque"
-      ],
-      [
-       "a car windscreen",
-       "Transparent"
-      ]
-     ],
-     "a": "see items",
-     "why": "We choose a material by what the job needs: a clear view, soft light without glare, or darkness. A strong sorter can say the job behind each choice."
-    },
-    {
-     "t": "mcq",
-     "p": "Why do birds sometimes fly into a clean glass window?",
-     "opts": [
-      "The glass is transparent, so the bird sees the trees through the glass and not the glass itself",
-      "Birds like the shine on glass",
-      "The glass is opaque to birds"
-     ],
-     "a": 0,
-     "why": "Clean glass lets most light straight through, so the view behind the glass looks like open space. Sticking patterns or stickers on windows helps birds see that the glass is there."
+     "t": "write",
+     "p": "Birds sometimes fly into a clean glass window. Why? Give one way to help them see that the glass is there.",
+     "lines": 3,
+     "a": "Clean glass lets most light straight through, so the view behind the glass looks like open space, and the bird does not see the glass. Stickers or patterns on the window help birds see that it is there.",
+     "why": "A strong answer says the glass is transparent, so the view behind it looks like open space, and gives a fix that makes the glass easier to notice."
     },
     {
      "t": "write",
@@ -2614,6 +2512,45 @@
      ],
      "a": "pairs as given",
      "why": "Light that meets a material can pass straight through, be scattered, be absorbed or bounce back. Most materials do a mix. The biggest part decides how the material looks."
+    },
+    {
+     "t": "perspective",
+     "p": "A school is deciding what to put in the walls between its classrooms and the corridor.",
+     "views": [
+      {
+       "who": "Mrs Lakshmi, the school principal",
+       "says": "Clear glass. I can see that every class is safe without opening a door."
+      },
+      {
+       "who": "Bharati, a teacher",
+       "says": "Frosted glass. Light comes in, but children are not distracted by people walking past."
+      },
+      {
+       "who": "Anjali, a girl in Class 4",
+       "says": "A solid wall, with one big clear window onto the garden. I can only think when nobody can see me."
+      }
+     ],
+     "ask": "Which wall would you choose? Use the words transparent, translucent or opaque in your reason. Then say what the other choices do better.",
+     "lines": 5,
+     "a": "A strong answer picks one wall and explains it by how the material treats light: clear glass shows everything, frosted glass lets light in but hides detail, a solid wall blocks light and view. It then gives a fair point for another choice. Each choice gives up something: safety and view, or privacy.",
+     "why": "There is no single right answer. Each material is a trade-off between light, view and privacy."
+    },
+    {
+     "t": "order",
+     "p": "Put these in order, from the most light getting through to the least: a brick wall, a thin cotton saree, a clear glass window, a thick blackout curtain.",
+     "items": [
+      "a clear glass window",
+      "a thin cotton saree",
+      "a thick blackout curtain",
+      "a brick wall"
+     ],
+     "a": [
+      0,
+      1,
+      2,
+      3
+     ],
+     "why": "Clear glass lets most light through. A thin saree lets light through but scatters it. A thick blackout curtain lets almost none through. A brick wall lets none through."
     }
    ]
   }
@@ -2625,15 +2562,15 @@
    "youtube": "VwRLIt6jgdM",
    "mins": 4,
    "why": "For the parent and older children: why light passes through glass but not through wood, told with clear animation.",
-   "check": "Found by YouTube search: \"Why is glass transparent? - Mark Miodownik\" by TED-Ed. Title checked automatically; a parent may still preview it."
+   "check": "Opened on YouTube: the title and channel match."
   },
   {
-   "title": "Glass frogs hide their blood to become transparent",
+   "title": "How Glass Frogs Hide Their Red Blood Cells",
    "channel": "Being Curious: Explore & Learn",
    "youtube": "XCAv261dv4w",
    "mins": 3,
    "why": "Shows a sleeping glass frog becoming more see-through, from the 2022 study by Carlos Taboada and colleagues.",
-   "check": "Found by YouTube search: \"How Glass Frogs Hide Their Red Blood Cells\" by Being Curious: Explore & Learn. Title checked automatically; a parent may still preview it."
+   "check": "Opened on YouTube: the title and channel match."
   },
   {
    "title": "The cosmic microwave background explained",
@@ -2641,7 +2578,7 @@
    "youtube": "AYFDN2DSVgc",
    "mins": 6,
    "why": "For the parent: the oldest light, from when the universe became transparent.",
-   "check": "Found by YouTube search: \"What is the Cosmic Microwave Background?\" by Fermilab. Title checked automatically; a parent may still preview it."
+   "check": "Opened on YouTube: the title and channel match."
   }
  ],
  "quiz": [
@@ -2696,37 +2633,6 @@
   },
   {
    "t": "mcq",
-   "p": "In the gap test, the plastic bag could be lifted 6 cm before the word blurred, and the butter paper only 2 cm. How many times higher was the plastic bag?",
-   "opts": [
-    "3 times",
-    "4 times",
-    "8 times"
-   ],
-   "a": 0,
-   "how": "e1",
-   "why": "6 divided by 2 is 3. So the plastic bag could be lifted 3 times as high. Picking 4 usually means subtracting, 6 take away 2, instead of dividing.",
-   "outcome": 1,
-   "answer_chart": {
-    "type": "bar",
-    "title": "Gap when the words blurred",
-    "x": "Material",
-    "y": "Gap (cm)",
-    "data": [
-     {
-      "label": "Plastic bag",
-      "value": 6,
-      "emoji": "🛍️"
-     },
-     {
-      "label": "Butter paper",
-      "value": 2,
-      "emoji": "📜"
-     }
-    ]
-   }
-  },
-  {
-   "t": "mcq",
    "p": "Water splashes on the rough side of a frosted bathroom window. What happens to the wet patch?",
    "opts": [
     "It becomes clearer, because water fills the tiny bumps and light scatters less",
@@ -2775,7 +2681,7 @@
   },
   {
    "t": "mcq",
-   "p": "At night, A girl's room is lit and the street outside is dark. She looks at her closed glass window. What does she mostly see?",
+   "p": "At night, a girl's room is lit and the street outside is dark. She looks at her closed glass window. What does she mostly see?",
    "opts": [
     "The dark street, very clearly",
     "Her own room reflected, like in a mirror",
@@ -2906,7 +2812,7 @@
  "ask_kids": [
   "Which windows in our home are clear, and which are cloudy? Why do you think so?",
   "Can you find something in this room that is translucent?",
-  "Why is this milk packet not see-through?",
+  "Why is a milk packet not see-through?",
   "If our windows were opaque, what would our home be like?",
   "At night, can people outside see into our home? How could we check?",
   "Why does a glass of water still show on the table, if it is see-through?",
@@ -2933,72 +2839,24 @@
    "a": "I'm not clear on that."
   },
   {
-   "j": "Why did the brick wall never tell secrets?",
-   "a": "Nothing gets through it."
-  },
-  {
-   "j": "What do you call a frog you can see through?",
-   "a": "A glass act."
-  },
-  {
-   "j": "Why would fog make a good bodyguard?",
-   "a": "It is very good at hiding people."
-  },
-  {
-   "j": "Why do sunglasses never get lost?",
-   "a": "They always know where the shade is."
-  },
-  {
-   "j": "Why was the lampshade so calm?",
-   "a": "It never let things get too bright."
-  },
-  {
-   "j": "What did one pane of glass say to the other?",
-   "a": "I'll see you around."
-  },
-  {
-   "j": "Why couldn't the steel plate play hide and seek with the window?",
-   "a": "The window always saw through its plans."
-  },
-  {
    "j": "What is a ghost's favourite kind of material?",
    "a": "Transparent, of course."
-  },
-  {
-   "j": "What did the snowflake say to the ice cube?",
-   "a": "We're made of the same ice. I just have more edges."
   },
   {
    "j": "Why did the oil spot get top marks?",
    "a": "It made everything clear."
   },
   {
-   "j": "What did the night curtain say to the day curtain?",
-   "a": "You go and rest. I'll take the dark shift."
-  },
-  {
    "j": "Why did the sugar disappear in the water?",
    "a": "It wanted to blend in."
-  },
-  {
-   "j": "Why was the opaque box so mysterious?",
-   "a": "You could never see what it was thinking."
   },
   {
    "j": "What did the torch say to the hand?",
    "a": "You're glowing today!"
   },
   {
-   "j": "Why did the cloud make a shadow on the playground?",
-   "a": "It was standing in the Sun's way."
-  },
-  {
    "j": "Which glass can you never see through?",
    "a": "A glass of milk."
-  },
-  {
-   "j": "Why was the jaali always cheerful?",
-   "a": "It always let a little light in."
   }
  ],
  "maths": [
@@ -3171,8 +3029,7 @@
     "a1",
     "g2",
     "c1"
-   ],
-   "plan": "Used again in other Light units."
+   ]
   },
   {
    "id": "b-butterpaper",
@@ -3187,16 +3044,6 @@
    ]
   },
   {
-   "id": "b-ruler",
-   "item": "30 cm ruler",
-   "kind": "tool",
-   "why": "Measures the gap in the gap test.",
-   "url": "https://www.amazon.in/s?k=30+cm+ruler",
-   "used_in": [
-    "e1"
-   ]
-  },
-  {
    "id": "b-ledtealight",
    "item": "Battery LED tealights",
    "kind": "tool",
@@ -3205,8 +3052,7 @@
    "used_in": [
     "p1",
     "c2"
-   ],
-   "plan": "Also useful for Diwali lanterns and Christmas stars."
+   ]
   }
  ],
  "warmup": [
@@ -3309,8 +3155,7 @@
   "founder": [
    "DeepKids HomeSchooling Track: Physics (row 'Transparent, Translucent, Opaque': holding glass, frosted plastic and cardboard against a flashlight, photographing backlit objects; philosophy 'Clarity and obscurity both shape understanding; sometimes light must be filtered to reveal truth', used in Roots)",
    "Founder's notebook, Light, seeing and shadows: polarising sunglasses, drama and mime of light, trataka-style quiet looking, Narinder Singh Kapany and fibre glass, C.V. Raman and light in transparent materials",
-   "DeepKids Combined lesson sci-C4-light-seeing-and-shadows (lesson 4 'Let it through?' materials list, the bathroom window question, and tholu bommalata translucent leather puppets), improved and extended here",
-   "Kept clear of sci.materials.properties.L3 (its layers test, coloured plastic, veil dance and privacy window challenge are not repeated)"
+   "DeepKids Combined lesson sci-C4-light-seeing-and-shadows (lesson 4 'Let it through?' materials list, the bathroom window question, and tholu bommalata translucent leather puppets)"
   ],
   "science": [
    "Taboada, Delia and others, Science 2022 (glass frogs hide red blood cells in the liver to become transparent)",
@@ -3326,16 +3171,16 @@
  "roots": {
   "context": "We have been learning how light goes straight through some things, is scattered by others, and is stopped by the rest. Now we ask what this tells us about seeing, and about the world.",
   "deep_truth": {
-   "truth": "Butter paper lying on a word lets you read it. Lift it 2 cm, and the paper still glows, but the word is gone. The paper scatters the light from each letter in every direction, mixing it with light from the others. So a frosted window lets in light but shows no view: it mixes up the light from everything outside.",
+   "truth": "Butter paper lying on a word lets you read it. Lift it a centimetre or two, and the paper still glows, but the word is gone. The paper scatters the light from each letter in every direction, mixing it with light from the others. So a frosted window lets in light but shows no view: it mixes up the light from everything outside.",
    "habit": "We think we can see through something whenever light gets through it. A frosted bathroom window is bright, yet it shows no view, so light alone is not enough.",
-   "evidence": "In the gap test, butter paper lying on the card let you read the word. Lifted 2 cm, it still glowed with light, but the word was gone."
+   "evidence": "In the gap test, butter paper lying on the card let you read the word. Lifted a centimetre or two, it still glowed with light, but the word was gone."
   },
   "three": {
    "who_am_i": "Your hand looks opaque, yet red light passes through your fingers. Even you are a little translucent.",
    "what_is_life": "Some animals hide by being almost transparent. A sleeping glass frog even packs most of their red blood cells into their liver while they sleep.",
    "what_is_this_world": "The whole universe was once like a thick fog. Then it cleared, and light could travel. We still see that first clear light today."
   },
-  "thread": "Everything comes from one source and is connected. In this unit, the same torch light met glass, butter paper and a steel plate. Glass let it pass, butter paper scattered it, and steel sent it back or absorbed it. The light did not change, and neither did the materials. Transparent, translucent and opaque name what happens when the two meet.",
+  "thread": "In this unit, the same torch light met glass, butter paper and a steel plate. Glass let it pass, butter paper scattered it, and steel sent it back or absorbed it. The light stayed the same, and what happened depended on the material. Transparent, translucent and opaque name what happens when light meets a material.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.13",
@@ -3376,7 +3221,6 @@
   "ask": [
    "Butter paper let the light through, but not the word. Where did the picture of the word go?",
    "When you look through clean glass, are you seeing the glass, or only what is behind it?",
-   "Is the sugar in the water still sugar, if you can't see it?",
    "What might be all around us, like dark matter, that we cannot see at all?"
   ],
   "art": "A child at a window, half the glass showing a smudge in sharp focus, half fading away to show a far-off tree, with soft light glowing at the edges of the child's raised hand."

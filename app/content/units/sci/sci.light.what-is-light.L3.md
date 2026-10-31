@@ -76,7 +76,7 @@ Lightning makes its flash and its thunder at the same moment. The flash reaches 
 **Definition:** Light takes time to travel. Ole Rømer first showed this in 1676, by timing one of Jupiter's moons.
 
 For a very long time, people argued about whether light takes any time at all. It is so fast that no ordinary test could tell. Here are the main steps in the argument, in order. Today the question is settled. Light has a speed, and we know it exactly.
-- e.g. In 1638 Galileo described a test with two people flashing lanterns at each other from far apart. Tried over about a mile, it showed no delay.
+- e.g. In 1638 Galileo described a test with two people flashing lanterns at each other from far apart.
 - e.g. In 1676 Ole Rømer saw Jupiter's moon Io seem late when the Earth was further from Jupiter.
 - e.g. In 1849 Hippolyte Fizeau measured it on Earth, with a spinning toothed wheel and a mirror about 8 kilometres away.
 - **Aristotle, a Greek thinker, about 2,300 years ago, and René Descartes, a French thinker, in the 1600s:** Light is instant. It needs no time at all. Descartes said that if light took time, we would see eclipses of the Moon happen at the wrong moment.
@@ -160,7 +160,7 @@ We can predict what light will do extremely well. But what a photon is between l
 - Very heavy things bend the path of light. *How we know:* Stars near the Sun looked shifted during the 1919 eclipse, and today we photograph many galaxies bent into arcs and rings.
 
 ## How we found out
-**Ole Rømer, then James Bradley and Hippolyte Fizeau, 1676, 1729 and 1849.** For about two thousand years, most thinkers believed that light takes no time at all to travel. Aristotle said so, and in the 1600s René Descartes agreed. In 1638 Galileo described a test with two people flashing lanterns at each other from far apart. Tried over about a mile, it showed no delay. In the 1670s, Ole Rømer, a young Danish astronomer at the Paris Observatory, was timing Io, one of Jupiter's moons. Io passes into Jupiter's shadow every 42 and a half hours, as regularly as a clock. But Rømer found that Io came out of the shadow later when the Earth was far from Jupiter, and earlier when it was near. He said the moon kept perfect time. It was the light that needed longer to cross the extra distance. In 1676 he predicted that Io would appear about 10 minutes late on 9 November, and it did. Cassini, the head of the observatory, still did not accept it. In 1729, James Bradley found another effect of starlight that could only happen if light has a speed, and most astronomers then agreed. In 1849, Hippolyte Fizeau measured the speed on Earth, with a spinning toothed wheel and a mirror 8 kilometres away.  
+**Ole Rømer, then James Bradley and Hippolyte Fizeau, 1676, 1729 and 1849.** For about two thousand years, most thinkers believed that light takes no time at all to travel. Aristotle said so, and in the 1600s René Descartes agreed. In 1638 Galileo described a test with two people flashing lanterns at each other from far apart. Tried later over about a mile, it showed no delay. In the 1670s, Ole Rømer, a young Danish astronomer at the Paris Observatory, was timing Io, one of Jupiter's moons. Io passes into Jupiter's shadow every 42 and a half hours, as regularly as a clock. But Rømer found that Io came out of the shadow later when the Earth was far from Jupiter, and earlier when it was near. He said the moon kept perfect time. It was the light that needed longer to cross the extra distance. In 1676 he predicted that Io would appear about 10 minutes late on 9 November, and it did. Cassini, the head of the observatory, still did not accept it. In 1729, James Bradley found another effect of starlight that could only happen if light has a speed, and most astronomers then agreed. In 1849, Hippolyte Fizeau measured the speed on Earth, with a spinning toothed wheel and a mirror 8 kilometres away.  
 *What people believed before:* Light is instant and takes no time to travel. Rømer showed that Io's light arrived later when the Earth was further from Jupiter, so light must take time to cross space.
 
 ## Challenging perspectives
@@ -194,7 +194,7 @@ We have been learning what light is, how fast it travels and how it comes in pac
 - *what is life:* Almost all life runs on sunlight. A leaf catches photons, and their energy ends up in the food every animal eats.
 - *what is this world:* Starlight left the stars long ago. When you look up at night, you see the sky as it was, not as it is now.
 
-Radio waves, microwaves, the light we see and X-rays seem like very different things. Underneath, they are one kind of wave, with different wavelengths. In 1865 Maxwell showed that light is a wave of electricity and magnetism. And every one of these waves comes in photons. The many things we see come from one source. Light is one place where science itself finds many things turning out to be one.
+Radio waves, microwaves, the light we see and X-rays seem like very different things. Underneath, they are one kind of wave, with different wavelengths. In 1865 Maxwell showed that light is a wave of electricity and magnetism. And every one of these waves comes in photons.
 
 - **Brihadaranyaka Upanishad 4.3.2 to 4.3.6:** King Janaka asks the sage Yajnavalkya: what light does a person live by? The Sun, says the sage. And when the Sun has set? The Moon. And when the Moon has set? Fire. And when the fire goes out? Speech. And when speech is silent? Then the self is his light. (This unit follows light from a lamp to your eye, photon by photon. Science can follow the photons all the way in. The sage asks something science has not answered: who is it that sees?)
 - **Udana 6.4, the Buddha's story of the blind men and the elephant (also told in Jain teaching on anekantavada, many-sidedness):** Some blind men each touch one part of an elephant. One feels the trunk and says it is a snake. One feels a leg and says it is a pillar. Each is partly right, and they quarrel. (Young's two slits showed light acting as a wave. Einstein's packets showed it acting as particles. Each experiment touched one side of light, and neither word describes all of it.)
@@ -281,7 +281,7 @@ Many astronomers did not believe Rømer. Cassini never did. It took about fifty 
 
 At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,' she had written. It was old news now. But it was still Aunt Isabelle's voice, still true for the moment he wrote it. She held it near the candle and read it slowly, the way you might look at a star.
 
-**For the parent:** For the parent: Io was never late. Its eclipses happened on time, but the light carrying the news needed extra minutes to cross the extra distance when the Earth was further from Jupiter. Light is very fast, but it is not instant. So everything we see, especially in the sky, is a message from the past. Marthe's aunt's letters, older the further she sailed, are the same idea at the speed of a ship. The story also quietly asks why a true idea from a young unknown man was doubted, and what it takes to believe evidence over a famous name.
+**For the parent:** For the parent: Io was never late. Its eclipses happened on time, but the light carrying the news needed extra minutes to cross the extra distance when the Earth was further from Jupiter. Light is very fast, but it is not instant. So everything we see, especially in the sky, is a message from the past. Marthe's aunt's letters, older the further she sailed, are the same idea at the speed of a ship.
 
 - Ask: Rømer said Io was not late at all. Then why did it seem late?
 - Ask: How were Aunt Isabelle's letters like the light from Io?
@@ -291,42 +291,42 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 
 ## Games
 ### g1 · How Old Is This Light? (20 min)
-- **rules:** Cut out the 16 light cards and the 16 time cards. Keep the time cards in a separate pile, face down.; Lay the Light-Age Line on the floor. 'NOW' is on the left, the oldest light on the right.; On your turn, take a light card. Put it on the line where you think it belongs, from youngest light to oldest.; Say why you put it there. A good reason wins a star token, even if the place is wrong.; When all the light cards are down, turn over the time cards one by one and match each to its light card.; Move any card that was in the wrong place. Each card that was already right wins its player a star token.; The player with the most star tokens wins.
+- **rules:** Cut out the 16 light cards and the 16 time cards, and cut the Light-Age Line into its 8 sections. Lay the sections on the floor in order, with NOW on the left and the billions of years on the right.; Shuffle the light cards and make a face-down pile. Keep the time cards in a separate face-down pile.; On your turn, take the top light card. Put it in the section where you think its light belongs. Say why. A good reason wins a star token, even if the section is wrong.; When the light cards are all down, turn over the time cards one by one. Each names its light card. If that light card is in the right section, its player wins a star token. If not, move it to the right section. No star.; The player with the most star tokens wins. If you tie, you share the win.
 - **Printable cards: 16 light cards to cut out:** A phone screen in your hand; A bulb on the ceiling; A street light at the end of the road; A lighthouse 20 kilometres out at sea; Lightning in a storm 5 kilometres away; The Moon; The Sun; Venus, the bright 'evening star'; Mars; Jupiter; Saturn; Sirius, the brightest star; Betelgeuse, the red star in Orion; The Orion Nebula, a glowing cloud in Orion's sword; The Andromeda galaxy; The oldest light: the glow left over from the young universe
 - **Printable cards: 16 matching time cards:** Less than a millionth of a second (phone); Less than a millionth of a second (bulb); About a millionth of a second (street light); About one fifteen-thousandth of a second (lighthouse); About one sixty-thousandth of a second (lightning); About 1 and a quarter seconds (Moon); About 8 minutes (Sun); Between about 2 and 14 minutes (Venus); Between about 3 and 22 minutes (Mars); Between about 33 and 54 minutes (Jupiter); About 1 hour 7 minutes to 1 hour 32 minutes (Saturn); About 8 and a half years (Sirius); About 500 to 700 years, still being measured (Betelgeuse); About 1,300 years (Orion Nebula); About 25 lakh years (Andromeda); About 13.8 billion years (oldest light)
-- **Printable board: A long strip: the Light-Age Line:** NOW (left end); seconds; minutes; hours; years; thousands of years; millions of years; billions of years (right end)
-- **Printable tokens: 15 star tokens:** ⭐
+- **Printable board: The Light-Age Line: 8 sections:** NOW: less than a second (left end); A few seconds; Minutes; Hours; Years; Hundreds or thousands of years; Millions of years; Billions of years (right end)
+- **Printable tokens: Star tokens (paper stars, buttons or coins):** Cut out 30 small paper stars, or use buttons or coins
 - **s1 (3 min)**  
-  *Parent does:* 1. Lay the Light-Age Line on the floor. 2. Shuffle the 16 light cards. 3. Keep the time cards face down in a separate pile.  
+  *Parent does:* 1. Lay the 8 sections of the Light-Age Line on the floor, in order. 2. Shuffle the 16 light cards into a face-down pile. 3. Keep the time cards face down in a separate pile.  
   *Parent says:* Every card shows something that gives out light. Light takes time to travel. So the light from each thing is a little bit old when it reaches us. We are going to line them up, from the youngest light to the oldest.  
-  *Child mode:* Lay the long strip on the floor. NOW is on the left. Very old light is on the right. Mix up the light cards.
+  *Child mode:* Lay the 8 sections on the floor. NOW is on the left. The oldest light is on the right. Mix up the light cards.
 - **s2 (3 min)**  
   *Parent does:* Play the Moon card and the Sun card together as a practice round.  
   *Parent says:* Let's practise. Which light is older when it reaches us, the Moon's or the Sun's?  
-  *Child mode:* Practice round. Which light took longer to reach you, the Moon's or the Sun's? Tap your answer.
+  *Child mode:* Practice round. Which light took longer to reach you, the Moon's or the Sun's? Say your answer.
   - Ask: Why is the Sun's light older? (good: The Sun is much further away.; Light needs more time for a longer trip.)
   - Check: Which light took longer to reach your eye? → **The Sun's light**
 - **s3 (10 min)**  
-  *Parent does:* 1. Take turns. Each player places one light card on the line. 2. They say why they put it there. 3. Give a star token for a good reason.  
+  *Parent does:* 1. Take turns. Each player takes the top light card and puts it in a section. 2. They say why they put it there. 3. Give a star token for a good reason.  
   *Parent says:* When you put your card down, tell us why. Is it near or far? Is it on Earth, in the solar system, or out among the stars?  
   *Child mode:* Take turns. Put your card on the line. Say why. A good reason wins a star!
-  - Note: Good reasons: things on Earth are nearest, so their light is youngest. Planets come next. Stars are much further, so their light is years old. Galaxies are further still. Planets move, so their times change. Mars and Venus can be near or far, depending on where they are in their orbits. That is why their cards show a range.
+  - Note: Good reasons: things on Earth are nearest, so their light is youngest. Planets come next. Stars are much further, so their light is years old. Galaxies are further still. Planets move, so their times change: Mars and Venus can be near or far, depending on where they are in their orbits. That is why their time cards show a range.
 - **s4 (4 min)**  
-  *Parent does:* Turn over the time cards one by one. Match each one to its light card. Move any light card that was in the wrong place.  
+  *Parent does:* Turn over the time cards one by one. Each one names its light card. Check the section. Move any light card that was in the wrong section. Give a star token for each one that was right.  
   *Parent says:* Now let's check. Some of these numbers will surprise you.  
-  *Child mode:* Turn over the time cards. Match each one. Were you right? Move any that were wrong.
+  *Child mode:* Turn over the time cards. Each one names its light card. Was it in the right section? Move any that were wrong.
   - Check: Lightning is 5 kilometres away. How long does its light take to reach you? → **Much less than a second**
   - Think: Someone on a planet 13 light-years away looks at the Earth tonight. The light they see left the Earth 13 years ago. What would they see?
 ### g2 · Photon Tag (15 min)
-- **rules:** One player is the caller. Everyone else is a photon.; Photons may only run in straight lines. To turn, you must stop, plant your feet, then set off in a new straight line.; The caller holds up a call card and shouts it. Everyone must do what it says.; If a photon curves while running, it is out for one round.; Swap the caller after every 4 cards.
-- **Printable cards: 8 call cards for the caller:** PHOTON: run in straight lines only; FREEZE: you hit something and it absorbed you, so stop; WAVE: link arms and move in a long wavy line; PARTICLE: break apart, each person is one dot; SUN: everyone starts from the middle and runs outwards; WATER: slow down to three quarters of your speed; GLASS: slow down to two thirds of your speed; SPACE: full speed, nothing in your way
+- **rules:** One player is the caller. Everyone else is a photon. With two players, one is the caller and one is the photon.; Photons may only run in straight lines. To turn, you must stop, plant your feet, then set off in a new straight line.; The caller holds up a call card and shouts it. Everyone must do what it says.; Each photon scores 1 point for every card it follows. If a photon curves while running, the caller shouts 'Curved!'. That card scores nothing, and the photon runs back to the Sun circle to start again.; Swap the caller after every 4 cards. The game ends when everyone has been the caller once. The most points wins.
+- **Printable cards: 8 call cards for the caller:** PHOTON: run in straight lines only; FREEZE: you hit something and it absorbed you, so stop; WAVE: link arms and move in a long wavy line; PARTICLE: spread out, each person is a separate dot; SUN: everyone starts from the middle and runs outwards; WATER: slow down to three quarters of your speed; GLASS: slow down to two thirds of your speed; SPACE: full speed, nothing in your way
 - **s1 (3 min) · grown-up needed**  
-  *Parent does:* 1. Draw a circle, the Sun, in the middle of the play area. 2. Everyone stands inside it. 3. Choose a caller.  
+  *Parent does:* 1. Draw a circle with chalk, the Sun, in the middle of the play area. 2. Everyone stands inside it. 3. Choose a caller.  
   *Parent says:* Light leaves the Sun in straight lines, in every direction. You are all photons, tiny packets of light. When I say go, run out of the Sun in a straight line.  
   *Child mode:* You are a photon! Stand in the Sun circle. When the caller says go, run out in a straight line.
   - Note: Play somewhere safe and open. Watch that straight-line runners do not crash into each other.
 - **s2 (8 min)**  
-  *Parent does:* The caller holds up call cards one at a time. Everyone acts them out.  
+  *Parent does:* The caller holds up call cards one at a time. Everyone acts them out. Count your points.  
   *Parent says:* Listen to the caller! Photon means straight lines. Wave means link arms and move together. Particle means break apart.  
   *Child mode:* Listen to the caller. Do what each card says. Remember: no curving!
   - Ask: Why do we have to stop to turn? (good: Light goes in straight lines.; Light only changes direction when it hits something.)
@@ -342,7 +342,7 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 - **question:** When a flash and a bang happen at the same moment far away, which reaches me first, and does the gap grow when I am further away?
 - **predict:** Before you start, guess. Will you see the plates meet and hear the bang together, or will one come first? Will the gap be bigger from 200 steps away than from 100 steps? Why do you think so?
 - **fair test:** To make it fair, the helper makes the flash and the bang at exactly the same moment, every time. Only the distance changes. Do 3 tries at each distance, because one try can be a fluke.
-- **safety:** A grown-up must come. Choose a safe place away from traffic. Do not bang the plates near anyone's ears.
+- **safety:** A grown-up must come. Choose a safe place away from traffic.
 - **record:** Fill in the table. Then draw the helper far away, with an arrow for the light and an arrow for the sound. Draw the light arrow arriving first.
 - **results table:** Distance (big steps) | Try 1: what came first? | Try 2 | Try 3 | Was there a gap? Tiny, small or big?
 - **s1 (4 min) · grown-up needed**  
@@ -359,6 +359,7 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
   *Parent does:* 1. Walk on to 200 big steps away, about 140 metres. 2. Repeat 3 bangs. 3. Write down the results. 4. If you have room, try 300 big steps too.  
   *Parent says:* Further away now. Is the gap bigger, smaller or the same?  
   *Child mode:* Walk to 200 big steps. Watch again. Is the gap bigger now?
+  - Note: From far away, the plates are small. If you cannot see them meet, ask the helper to clap hands high above their head, or to hit a pan with a spoon, and watch the moving arms. A result that is doubtful is still worth writing down honestly.
   - Check: You moved twice as far from the helper. What happened to the gap between seeing and hearing? → **It got bigger**
 - **s4 (5 min)**  
   *Parent does:* Come back together. Talk about why the flash arrived first.  
@@ -380,7 +381,7 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 - **question:** Which makes a glow-in-the-dark star glow, red light or blue light? And if one colour does not work, does shining it for longer help?
 - **predict:** Before you test, guess. Will the red screen make the star glow? Will the blue screen? If one of them does not work, will shining it for 4 times as long help? Why do you think so?
 - **fair test:** To make it fair, use the same kind of glow star each time. Hold each screen 2 centimetres away, at full brightness, for 30 seconds. Keep the room dark. Keep the stars in a closed box from the night before, or for at least 1 hour, so they start with no glow. Glow stars can keep a faint glow for a long time, so a few minutes in the dark is not enough.
-- **safety:** Do not shine any light straight into anyone's eyes. If you use a UV torch, a grown-up holds it, and nobody looks into it.
+- **safety:** If you use a UV torch, a grown-up holds it, and nobody looks into it.
 - **record:** Fill in the table. Then draw star 1 after the red screen and star 2 after the blue screen. Draw blue light as a few big dots, because each blue photon carries more energy. Draw red light as many small dots.
 - **results table:** Light used | How bright it looked | How long it shone | Did the star glow afterwards? None, faint or bright
 - **s1 (4 min)**  
@@ -398,7 +399,7 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
   *Parent does:* 1. Show the plain blue picture. 2. Hold the screen 2 centimetres above star 2 for 30 seconds. 3. Switch the screen off and look.  
   *Parent says:* Now blue light. To our eyes, the blue screen probably looks dimmer than the red one. Let's see what happens.  
   *Child mode:* Now hold the blue screen over star 2. Count to 30. Switch it off. What do you see?
-  - Note: Star 2 should glow softly. The glow is faint, so look in a fully dark room, with your hands cupped round the star. If it hardly glows, hold the blue screen there for a full minute, or use the phone's torch with blue cellophane over it.
+  - Note: Star 2 should glow softly. The glow is faint, so look in a fully dark room, with your hands cupped round the star. Phone screens differ, and the result is not certain. If it hardly glows, hold the blue screen there for a full minute, or use the phone's torch with blue cellophane over it. If star 2 still stays dark, say so honestly and go on to the white torch in the last step.
   - Check: The red screen did not make star 1 glow. The blue screen made star 2 glow. Why? → **Each blue photon carries enough energy, and each red photon does not**
 - **s4 (6 min)**  
   *Parent does:* 1. Hold the red screen over star 1 again, this time for 2 whole minutes. 2. Switch off and look.  
@@ -432,7 +433,7 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
   *Parent does:* 1. The grown-up takes out the turning plate and its ring. 2. Put the chocolate in the middle on a flat microwave-safe plate. 3. Heat for 15 seconds. 4. Take it out and look for melted, shiny spots.  
   *Parent says:* The waves inside a microwave make a pattern of hot spots and cold spots. Without the turning plate, the chocolate stays still. So it melts only at the hot spots.  
   *Child mode:* A grown-up heats the chocolate for 15 seconds. Look closely. Can you see shiny melted spots?
-  - Note: If no spots have melted, heat it for 5 more seconds and look again. Don't let the whole bar melt. If your bar is too small, use a plate of cheese slices or a layer of grated chocolate.
+  - Note: If no spots have melted, heat it for 5 more seconds at a time, up to 40 seconds in all. Don't let the whole bar melt. If your bar is too small, use a plate of cheese slices or a layer of grated chocolate. Not every oven gives clear spots. If you see none, skip this experiment.
 - **s3 (6 min) · grown-up needed**  
   *Parent does:* 1. Find two melted spots next to each other. 2. Measure from the middle of one to the middle of the other. 3. Write it down. 4. Measure another pair, too.  
   *Parent says:* The hot spots are half a wave apart. So a whole wave is twice the gap. Let's measure carefully.  
@@ -451,7 +452,6 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 
 ## Activities
 ### a1 · Switch On the Dark: what do you notice about light? (10 min)
-- **safety:** Never shine the torch into anyone's eyes.
 - **record:** Write or draw one thing you noticed and one thing you wonder about light.
 - **s1 (3 min)**  
   *Parent does:* 1. Close the curtains and switch off the lights. 2. Give your child the torch. 3. Ask them to switch it on and off, pointing at the far wall.  
@@ -477,12 +477,12 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
   *Parent does:* 1. Find a patch of sunlight indoors, on the floor or a bed. 2. Sit in it with your child. 3. Feel the warmth on your arm.  
   *Parent says:* This warm light on your arm has come all the way from the Sun. The Sun is 15 crore kilometres away. Light is the fastest thing there is. Even so, it took about 8 minutes to get here.  
   *Child mode:* Sit in a patch of sunlight. Feel it on your arm. This light came from the Sun. It took about 8 minutes to get here.
-  - Note: Sunlight through a window is safe to sit in. Never let your child look at the Sun itself.
+  - Note: Sunlight through a window is safe to sit in. Never let your child look at the Sun itself. No sunlight today, or a flat that gets none? Sit by the brightest window and carry on. The 8 minutes are the same.
 - **s2 (9 min)**  
   *Parent does:* 1. Set a timer for 8 minutes and 20 seconds. 2. Start it. 3. While it runs, your child draws the Sun on one side of a page. 4. They draw themselves on the other side, with a beam between. 5. When it rings, stop.  
   *Parent says:* The sunlight landing on you now left the Sun about 8 minutes ago. The light leaving the Sun right now, as we press start, will reach you when the timer rings. That's how long its journey takes.  
   *Child mode:* Start a timer for 8 minutes and 20 seconds. While you wait, draw the Sun, you, and the light between. When it rings, that is how long sunlight takes!
-  - Check: If the Sun suddenly went dark, when would we find out? → **About 8 minutes later**
+  - Check: The timer rings after 8 minutes 20 seconds. What has just happened? → **Light that left the Sun when you pressed start has just reached you**
 - **s3 (8 min)**  
   *Parent does:* 1. Lay the string straight on the floor. 2. Put a peg at one end. That is the Sun. 3. Measure 8 centimetres along and put the Earth peg there. 4. Put a Mars peg at about 13 centimetres. 5. Put a Jupiter peg at 43 centimetres.  
   *Parent says:* Let's make the string a light-clock. Every centimetre is one minute of light travel from the Sun. Earth is 8 minutes away, so it goes at 8 centimetres.  
@@ -491,11 +491,10 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
   - Note: These are average light-times from the Sun. Mars is about 13 light-minutes from the Sun, Jupiter about 43, Saturn about 80. If your string is long enough, Saturn goes at 80 centimetres. The Moon is only about 1 and a quarter light-seconds from Earth, so its peg sits right on top of the Earth peg.
 - **s4 (5 min)**  
   *Parent does:* Talk about how far the nearest star would be on the same string.  
-  *Parent says:* The nearest star after the Sun is called Proxima Centauri. Its light takes over 4 years to reach us. On our string, where every centimetre is a minute, it would be about 22 kilometres away. That is like a long drive across a big city!  
-  *Child mode:* On this string, the nearest star would be 22 kilometres away. That is a long drive across a big city!
+  *Parent says:* The nearest star after the Sun is called Proxima Centauri. Its light takes over 4 years to reach us. That is more than 20 lakh minutes. Our string is far too short to show it. The Light-Minute String project shows how far it would be.  
+  *Child mode:* The nearest star's light takes over 4 years to reach us. That is more than 20 lakh minutes. Our string is far too short for it!
   - Think: When you see a star tonight, how old is the light you are seeing?
 ### a3 · Ripples in an Uruli: what is a wave? (20 min)
-- **safety:** Mop up spilt water so nobody slips.
 - **record:** Draw the ripples from one coin. Then draw the ripples from two coins crossing each other.
 - **s1 (5 min)**  
   *Parent does:* 1. Put the uruli on the floor and pour in water about 1 centimetre deep. 2. Wait until it is still. 3. Drop one marble or coin in the middle.  
@@ -518,21 +517,20 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
   *Child mode:* Dance! Wave means flowing arms. Particle means sharp little jumps. Light is both.
   - Think: Is light really a wave and really a particle, or are these just our words for it?
 ### a4 · The Late Moon: act out Rømer's discovery (20 min)
-- **safety:** Walk, do not run, in a small room.
-- **record:** Draw the Sun, the Earth near Jupiter and the Earth far from Jupiter. Write which time Io seemed late.
+- **record:** Draw the Sun, the Earth near Jupiter and the Earth far from Jupiter. Write which time Io seemed more late.
 - **s1 (4 min)**  
-  *Parent does:* 1. Put the chair at one end of the corridor. It is Jupiter. 2. One child stands by it holding a torch. They are Io, Jupiter's moon. 3. Every time you clap 10 times, Io flashes the torch, to show it coming out of Jupiter's shadow.  
-  *Parent says:* Io goes round Jupiter like clockwork. Every 42 and a half hours, it comes out of Jupiter's shadow. In our game, it comes out every 10 claps.  
-  *Child mode:* You are Io, Jupiter's moon. Every 10 claps, flash the torch. That means you have come out of Jupiter's shadow.
+  *Parent does:* 1. Put the chair at one end of the corridor. It is Jupiter. 2. The grown-up plays Io, Jupiter's moon, and stands by the chair with the torch and the paper star. 3. The child is the observer. They stand with their back turned and count aloud, steadily, 1, 2, 3, up to 10. At 10, Io flashes the torch, to show the moon coming out of Jupiter's shadow.  
+  *Parent says:* Io goes round Jupiter like clockwork. Every 42 and a half hours, it comes out of Jupiter's shadow. In our game, it comes out every time the count reaches 10. The observer cannot see the flash. The news comes only with the messenger.  
+  *Child mode:* The grown-up is Io, Jupiter's moon. Stand with your back turned. Count 1 to 10 aloud, steadily. At 10, Io flashes the torch.
 - **s2 (5 min)**  
-  *Parent does:* 1. The observer stands 3 steps from Jupiter. 2. Each time Io flashes, the messenger picks up a paper star and walks it to the observer at a slow, steady pace. 3. The observer says 'Now!' when the star arrives.  
-  *Parent says:* In our game, the light from Io is a slow messenger. Close up, the message arrives quickly after the flash.  
-  *Child mode:* Stand close to Jupiter. When Io flashes, the messenger walks the star to you. Say 'Now!' when it arrives.
-  - Note: The messenger stands for light. Walking makes the delay big enough to see. Real light is enormously faster, but Jupiter is enormously far away.
+  *Parent does:* 1. The observer stands 3 steps from Jupiter, back turned, and counts aloud from 1. 2. At 10, Io flashes the torch, picks up the paper star and walks it to the observer at a slow, steady pace. 3. The observer says 'Now!' when the star arrives, and writes down the number they had reached.  
+  *Parent says:* In our game, the light from Io is a slow messenger. Close up, the news arrives soon after the flash.  
+  *Child mode:* Stand close to Jupiter, back turned. Count 1 to 10 aloud. Io flashes at 10 and walks the star to you. Say 'Now!' when it arrives. Which number were you on?
+  - Note: The messenger stands for light. Walking makes the delay big enough to see. Real light is enormously faster, but Jupiter is enormously far away. Count at the same steady pace each time, and walk at the same pace each time.
 - **s3 (6 min)**  
-  *Parent does:* 1. The observer moves to the far end of the corridor. 2. Repeat. The messenger walks the same slow pace. 3. Count claps between Io's flash and the observer's 'Now!'.  
+  *Parent does:* 1. The observer moves to the far end of the corridor. 2. Repeat the same count to 10 and the same slow walk. 3. Write down the number the observer had reached at 'Now!', and compare it with the first time.  
   *Parent says:* Now the Earth is far from Jupiter. Io flashes on time, but the message takes longer to arrive. So to the observer, Io seems late!  
-  *Child mode:* Now stand far away. When Io flashes, wait for the messenger. It takes longer. Io seems late!
+  *Child mode:* Now stand far away. Count to 10 again. Io flashes and walks the star over. Which number were you on at 'Now!'? Is it bigger? Io seems late!
   - Check: When the Earth was far from Jupiter, Io seemed late. Why? → **The light carrying the news had further to travel**
 - **s4 (5 min)**  
   *Parent does:* Tell the real story in a few sentences.  
@@ -543,12 +541,12 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 - **safety:** A grown-up must come. Stay in a safe, known place. Use a dim red torch so you do not trip.
 - **record:** Make a table: the thing I saw, and how long ago its light left it.
 - **s1 (8 min) · grown-up needed**  
-  *Parent does:* 1. Go somewhere dark and safe, away from bright lights. 2. Wait 10 minutes for your eyes to get used to the dark. Use only the red torch. 3. Find the Moon if it is up.  
+  *Parent does:* 1. Go somewhere dark and safe, away from bright lights. 2. Wait about 5 minutes for your eyes to get used to the dark. Use only the red torch. 3. Find the Moon if it is up. If it is not up tonight, go on to the next step.  
   *Parent says:* Our eyes need time to get used to the dark. While we wait, look at the Moon. Its light left it about one second ago.  
   *Child mode:* Go outside with a grown-up. Wait for your eyes to get used to the dark. Find the Moon. Its light is about one second old.
   - Note: Moonlight is sunlight that bounced off the Moon. So it took 8 minutes to reach the Moon, then about 1 and a quarter seconds to reach us.
 - **s2 (7 min) · grown-up needed**  
-  *Parent does:* 1. Look for a very bright 'star' that does not twinkle much. It is probably a planet, like Venus or Jupiter. 2. Use the sky map app to check its name.  
+  *Parent does:* 1. Look for a very bright 'star' that does not twinkle much. It is probably a planet, like Venus or Jupiter. 2. Use the sky map app to check its name. No planet up tonight? Go on to the next step.  
   *Parent says:* Planets shine with sunlight bouncing off them. Their light takes minutes to reach us. Jupiter's light takes between about 33 and 54 minutes.  
   *Child mode:* Find a very bright dot that does not twinkle much. It may be a planet. Its light took minutes to get here.
 - **s3 (10 min) · grown-up needed**  
@@ -581,7 +579,6 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
   *Child mode:* This pattern shows light is a wave. But light also comes in tiny packets. It is both!
   - Think: If light is a wave, what is doing the waving?
 ### a7 · Draw What Light Is: before and after (15 min)
-- **safety:** No safety worries.
 - **record:** Keep both drawings. Write one sentence under each: what I thought light was.
 - **s1 (7 min)**  
   *Parent does:* 1. Ask your child to draw a lamp on one side of the page and a wall on the other. 2. Ask them to draw what light looks like on its way, if we could zoom in and slow it down.  
@@ -714,8 +711,8 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
    **Answer:** It slows down, to about three quarters of its speed in air. *Why:* Light is fastest in empty space. In water it goes about three quarters as fast. It speeds up again when it comes back out into air. That change of speed is why a straw in water looks bent.
 5. (fill) The distance that light travels in one year is called a ____.  
    **Answer:** ['light-year', 'light year']. *Why:* A light-year is a distance, not a time. It is about 95 lakh crore kilometres. Astronomers use it because the distances to stars are so huge.
-6. (count) In the Chocolate in the Microwave experiment, the melted spots were 6 centimetres apart. Melted spots are half a wave apart. How long is one whole wave, in centimetres?  
-   **Answer:** 12. *Why:* Half a wave is 6 centimetres, so a whole wave is 2 times 6, which is 12 centimetres. Microwaves are a kind of light we cannot see, so this is a light wave you have measured.
+6. (count) In the Chocolate in the Microwave experiment, a different oven's melted spots were 7 centimetres apart. Melted spots are half a wave apart. How long is one whole wave, in centimetres?  
+   **Answer:** 14. *Why:* Half a wave is 7 centimetres, so a whole wave is 2 times 7, which is 14 centimetres. Microwaves are a kind of light we cannot see, so this is a light wave you have measured.
 7. (mcq) Around 1803, Thomas Young shone light through two thin slits close together. On the wall he saw bright and dark stripes. What did the stripes show?  
    Options: Light is a wave: where two sets of ripples meet, they add up in some places and cancel in others / The slits were dirty / Light is made of stripes  
    **Answer:** Light is a wave: where two sets of ripples meet, they add up in some places and cancel in others. *Why:* Only waves make a pattern like that. In the uruli, two sets of ripples crossed and made a pattern too. Particles flying in straight lines would just make two bright lines.
@@ -743,8 +740,8 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 ### Light Across Space (challenge) (challenge, 16 questions)
 1. (count) Sunlight takes about 8 minutes to reach the Earth. It takes about 43 minutes to reach Jupiter. About how many times further from the Sun is Jupiter than the Earth? Choose 2, 5 or 40.  
    **Answer:** 5. *Why:* Light goes at a steady speed, so the time tells the distance. 43 minutes is a little more than 5 times 8 minutes, so Jupiter is about 5 times further from the Sun. A strong answer divides the times and explains why that works.
-2. (count) Light from the Sun takes 8 minutes and 20 seconds to reach us. How many seconds is that?  
-   **Answer:** 500. *Why:* 1 minute is 60 seconds. 8 minutes is 8 × 60 = 480 seconds. 480 + 20 = 500 seconds.
+2. (count) Sunlight takes about 500 seconds to reach the Earth. Moonlight takes about 1 and a quarter seconds. About how many times longer does sunlight take? Choose 40, 400 or 4,000.  
+   **Answer:** 400. *Why:* 500 divided by 1 and a quarter is 400. So sunlight takes about 400 times as long as moonlight, because the Sun is about 400 times further away than the Moon. A strong answer divides the times and says why that tells the distances.
 3. (mcq) The Moon is about one and a quarter light-seconds away. Astronauts left mirrors on the Moon. A laser flash is sent there from Earth and bounces back. About how long until the flash returns?  
    Options: About 1 and a quarter seconds / About 2 and a half seconds / About 8 minutes  
    **Answer:** About 2 and a half seconds. *Why:* The flash goes there and comes back, so it makes the trip twice. One and a quarter plus one and a quarter is two and a half seconds. Scientists use this to measure the Moon's distance very exactly.
@@ -776,12 +773,12 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 15. (draw) Draw light as a wave and as photons in one picture. Label which part shows which idea.  
    **Answer:** For example: a wavy line going across the page, with small dots placed along it, labelled 'travels like a wave' and 'arrives as packets (photons)'.. *Why:* A strong drawing shows both ideas together, because light is both at once, not one or the other.
 16. (write) Light is energy. Name two things at home that light makes happen. For each, say what the light's energy does.  
-   **Answer:** For example: sunlight on the floor makes it warm, because the energy turns into heat. A potted plant uses sunlight's energy to make their food. A glow star soaks up the energy of blue light and gives it out later as a glow.. *Why:* A strong answer gives two real cases and says where the energy goes each time.
+   **Answer:** For example: sunlight on the floor makes it warm, because the energy turns into heat. A potted plant uses sunlight's energy to make food. A glow star soaks up the energy of blue light and gives it out later as a glow.. *Why:* A strong answer gives two real cases and says where the energy goes each time.
 
 ## Videos
-- **Why No One Has Measured The Speed Of Light** (Veritasium, 9 min) id `pTn6Ewhb27k`: For the parent and curious older children: how the speed of light is measured, and the surprising puzzle of whether its speed is the same going and coming back. *Check:* Video id recalled, not opened from here: a parent should check it plays and is the Veritasium video of this title before showing.
-- **Double Slit Experiment explained! by Jim Al-Khalili** (The Royal Institution, 9 min) id `A9tKncAdlHQ`: A physicist explains, clearly and honestly, how light and tiny particles make wave stripes even when sent one at a time. Best watched with a grown-up. *Check:* Video id recalled, not opened from here: a parent should check it plays and is the Royal Institution video with Jim Al-Khalili before showing.
-- **Speed of light illustrated by Dr. James O'Donoghue** (Space Enthusiast (animation by James O'Donoghue, a planetary scientist), 9 min) id `wUKwAdeaQnY`: An animation that travels at the real speed of light, so the child can feel how long the 8-minute trip from the Sun takes and how slow it looks across the solar system. *Check:* Found by YouTube search: "Speed of light illustrated by Dr. James O'Donoghue" by Space Enthusiast. Title checked automatically; a parent may still preview it.
+- **Why No One Has Measured The Speed Of Light** (Veritasium, 9 min) id `pTn6Ewhb27k`: For the parent and curious older children: how the speed of light is measured, and the surprising puzzle of whether its speed is the same going and coming back. *Check:* Opened and checked: it plays and is the Veritasium video of this title.
+- **Why reality changes when you look at it | The Double Slit Experiment | with Jim Al-Khalili** (The Royal Institution, 9 min) id `A9tKncAdlHQ`: A physicist explains, clearly and honestly, how light and tiny particles make wave stripes even when sent one at a time. Best watched with a grown-up. *Check:* Opened and checked: it plays and is the Royal Institution video with Jim Al-Khalili.
+- **Speed of light illustrated by Dr. James O'Donoghue** (Space Enthusiast (animation by James O'Donoghue, a planetary scientist), 9 min) id `wUKwAdeaQnY`: An animation that travels at the real speed of light, so the child can feel how long the 8-minute trip from the Sun takes and how slow it looks across the solar system. *Check:* Opened and checked: it plays and is the Space Enthusiast animation by Dr. James O'Donoghue.
 
 ## Quiz
 1. (mcq) Which of these is a light source, making its own light?  
@@ -867,7 +864,7 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 - When you see lightning, how will you find out how far away it is?
 - If the Moon disappeared, how long would it take us to notice?
 - Is light a wave, or a stream of tiny packets? Can it be both?
-- Why can't you hear the Sun, even though it is very loud?
+- Why can't you hear the Sun?
 - If you could ride a beam of light, where would you go first?
 - That star there: when did its light set out?
 - Who else in history did not believe a true idea at first?
@@ -877,39 +874,22 @@ At home she took out Aunt Isabelle's letter and read it again. 'The sea is calm,
 
 ## Jokes
 - Why did the photon not need a suitcase? *It was travelling light.*
-- Why is the Sun so clever? *It has over five thousand degrees.*
 - What did the light say to the snail? *See you in a few million years.*
 - Why was the thunder always late for school? *It could never catch up with the lightning.*
 - How does the Moon cut its hair? *Eclipse it.*
-- Why don't photons ever get lost? *They always go straight.*
-- What did Jupiter's moon Io say to Rømer? *I'm not late. Your light is.*
-- Why did the star go to school? *To get a little brighter.*
-- What did the thunder say to the lightning? *Wait for me! You're almost a million times faster.*
-- Why did the light beam do so well in the race? *It had nothing to slow it down in space.*
-- What is a photon's favourite sport? *The relay race, from the Sun to your eye.*
-- Why did the glow star ignore the red torch? *Its photons just didn't have the energy.*
 - Why is sunlight like a postcard? *It's always a little old by the time it arrives.*
 - Why couldn't the astronaut hear the joke in space? *There was no air to carry it. He had to see it written down.*
 - What did one light-year say to the other? *We go a long way back.*
-- Why was the photon so calm? *It never had any mass to worry about.*
 - What is a light wave's favourite snack? *Microwave popcorn.*
-- Why did Galileo's lantern test fail? *The light was too quick, and Galileo was too human.*
-- What did the wave say to the particle? *Stop being so dotty.*
-- What did the particle say back? *Stop being so wishy-washy.*
 - Why did the Sun refuse to go to university? *It already had millions of degrees.*
-- What do you call a slow photon in Lene Hau's lab? *A light-walker.*
-- How do you know light is a good friend? *It always shows up for you.*
 - Why did the student bring a torch to the maths test? *To make it light work.*
-- Where do photons go to learn? *The School of Bright Ideas.*
-- What did the Moon say to the Sun? *Thanks for lending me your light.*
-- Why can't you play hide and seek with the Sun? *It always shines a light on you.*
 
 ## Connected maths
-- In the monsoon, you saw a flash of lightning. You counted 15 seconds until the thunder. Sound goes about 1 kilometre every 3 seconds. How far away was the lightning? **About 5 kilometres.**. Sound needs 3 seconds for each kilometre. 15 seconds divided into groups of 3 makes 5 groups. 15 ÷ 3 = 5. So the lightning was about 5 kilometres away. Check: 3 + 3 + 3 + 3 + 3 = 15. (queues `math.division.sharing-and-grouping.L3`)
+- In the monsoon, you saw a flash of lightning. You counted 12 seconds until the thunder. Sound goes about 1 kilometre every 3 seconds. How far away was the lightning? **About 4 kilometres.**. Sound needs 3 seconds for each kilometre. 12 seconds divided into groups of 3 makes 4 groups. 12 ÷ 3 = 4. So the lightning was about 4 kilometres away. Check: 3 + 3 + 3 + 3 = 12. (queues `math.division.sharing-and-grouping.L3`)
 - In the 8-Minute Wait, you set a timer for 8 minutes and 20 seconds, the time sunlight takes to reach us. How many seconds is that altogether? **500 seconds.**. Each minute has 60 seconds. 8 minutes is 8 × 60 = 480 seconds. Add the 20 extra seconds. 480 + 20 = 500. So sunlight takes about 500 seconds. (queues `math.time.duration.L3`)
 - On the Light-Minute String, Earth is at 8 centimetres and Jupiter is at 43 centimetres. Each centimetre is one minute of light travel from the Sun. How many more minutes does sunlight take to reach Jupiter than to reach Earth? **35 minutes more.**. 43 − 8 = 35. So sunlight takes about 35 minutes longer to reach Jupiter. Check: 8 + 35 = 43. (queues `math.addition-subtraction.mental-strategies.L3`)
 - Light can go round the Earth about 7 and a half times in one second. How many times could it go round in 2 seconds? In 4 seconds? **15 times in 2 seconds, and 30 times in 4 seconds.**. In 1 second, 7 and a half times. In 2 seconds, double that: 7 and a half + 7 and a half = 15. In 4 seconds, double again: 15 + 15 = 30. (queues `math.multiplication.equal-groups.L3`)
-- In the Chocolate experiment, the melted spots were 6 centimetres apart. The spots are half a wave apart. How long is one whole wave? If the spots were 5 centimetres apart, how long would the wave be? **12 centimetres. And 10 centimetres for spots 5 centimetres apart.**. A whole wave is two halves. 6 + 6 = 12 centimetres. For spots 5 centimetres apart, 5 + 5 = 10 centimetres. (queues `math.length.standard-units-length.L3`)
+- In the Chocolate experiment, a different oven's melted spots were 5 centimetres apart. The spots are half a wave apart. How long is one whole wave? If a whole wave were 14 centimetres long, how far apart would the spots be? **10 centimetres. And 7 centimetres for a 14 centimetre wave.**. A whole wave is two halves. 5 + 5 = 10 centimetres. For a 14 centimetre wave, half is 14 ÷ 2 = 7 centimetres. (queues `math.length.standard-units-length.L3`)
 - In the Flash and Bang experiment, you stood 100 big steps away and then 200 big steps away. Sound takes about 1 second for every 500 big steps. Roughly how long did the bang take from 200 big steps? Is it more or less than half a second? **About 2 fifths of a second, which is less than half a second.**. 500 big steps take about 1 second. 200 big steps is less than half of 500, because half of 500 is 250. So the bang took less than half a second. The flash took almost no time at all. (queues `math.fractions.halves-and-quarters.L3`)
 
 ## Song
@@ -923,18 +903,17 @@ Follow the Light (sci.light.L3): Topic-level song
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a famous science museum. Search for light and waves.
 - [Nehru Planetarium](https://nehruplanetarium.org/) · place · New Delhi: Sky shows about the Sun, stars and galaxies. Ask how old the light of each star is.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on light exhibits. Next door is the Nehru Planetarium in Worli.
-- [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with galleries on light and physics. The Birla Planetarium is nearby too.
+- [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum with galleries on light and physics. Kolkata also has the Birla Planetarium.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum with hands-on exhibits about light and space.
 - [Hanle Dark Sky Reserve]() · place · Hanle, Ladakh: One of the darkest skies in India, near the Indian Astronomical Observatory. From here you can see the Milky Way and the Andromeda galaxy, light that is 25 lakh years old.
-- [A rooftop or field away from city lights]() · place · anywhere: For the Old Starlight Walk. The darker the sky, the older the light you can see.
 
 ## Things to buy
 - [Glow-in-the-dark star stickers](https://www.amazon.in/s?k=glow+in+the+dark+stars) (material): Used in the Glow Star Test, to show that blue photons carry more energy than red ones. Sold cheaply in toy and stationery shops. Any glow-in-the-dark toy you already have works too. Used in e2. 
 - [Coloured cellophane sheets, red and blue](https://www.amazon.in/s?k=coloured+cellophane+sheets) (material): Only needed if your phone screen's red or blue does not work in the Glow Star Test. It also makes a red night torch for the Old Starlight Walk. Used in e2, a5. 
 - [Small UV torch (black light), for a grown-up to use](https://www.amazon.in/s?k=uv+torch+395nm) (tool): Charges the glow stars brightest of all, because ultraviolet photons carry even more energy than blue ones. A grown-up handles it and nobody looks into it. Used in e2. 
 - [Planisphere, a turning star map](https://www.amazon.in/s?k=planisphere+star+map) (tool): Helps you find stars on the Old Starlight Walk without a phone. Used in a5, p1. 
-- [Book: E=mc² by David Bodanis, for the parent](https://www.amazon.in/s?k=David+Bodanis+E%3Dmc2) (book): A lively history of the speed of light and Einstein's ideas, with the people behind them. Used in a4. The parent reads the chapter on the speed of light, then tells the stories of Rømer and Maxwell during The Late Moon.
-- [Book: Albert Einstein and Relativity for Kids by Jerome Pohlen](https://www.amazon.in/s?k=Jerome+Pohlen+Einstein+Relativity+for+Kids) (book): Activities and stories about light and relativity for children. Used in c1. Pick one activity a week after the unit, as a Go deeper weekend project.
+- [Book: E=mc² by David Bodanis, for the parent](https://www.amazon.in/s?k=David+Bodanis+E%3Dmc2) (book): A lively history of the speed of light and Einstein's ideas, with the people behind them. Used in a4. 
+- [Book: Albert Einstein and Relativity for Kids by Jerome Pohlen](https://www.amazon.in/s?k=Jerome+Pohlen+Einstein+Relativity+for+Kids) (book): Activities and stories about light and relativity for children. Used in c1. 
 
 ## Warm-up
 - About how fast does light go? → About 3 lakh kilometres every second.
@@ -952,7 +931,7 @@ Follow the Light (sci.light.L3): Topic-level song
 ## Plan
 - Start options: intro, a1, story, e1, big_questions, cards, g1, e2
 - Default order: intro → a1 → summary → terms → a2 → explanations → story → e1 → g1 → a4 → videos → ws-core → e2 → a3 → a6 → agreed → challenging → g2 → c1 → big_questions → ws-stretch → a5 → p1 → e3 → c2 → a7 → ws-challenge → open_questions → roots → quiz
-- Core: a1, e2, a2, e1, g1, ws-core, a4
+- Core: a1, e2, a2, g1, ws-core, a4
 
 ## Sources
 - Founder's notebook, Light, seeing and shadows: 'Light, Photon, Speed of Light' row (microwave and chocolate measurement, lightning versus thunder, timing sunrise, photon tag, straight-line photon dances, wave and particle dance, poem of a photon's 8-minute trip, David Bodanis and Relativity for Kids). Philosophy column 'Light is the universe's ultimate messenger; limits define possibility' and 'Duality of existence: two truths at once'

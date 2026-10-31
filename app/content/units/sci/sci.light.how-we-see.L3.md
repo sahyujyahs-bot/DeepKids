@@ -25,7 +25,7 @@
 - **Cornea**: The clear, curved window at the very front of the eye. Light passes through it first, and it starts bending the light to make a sharp picture. *e.g.* The cornea has more nerve endings than almost any other part of the body. That is why a speck of dust on it hurts so much.
 - **Pupil**: The black circle in the middle of your eye. It is not a black spot. It is a hole that lets light into the eye. *e.g.* Look in a mirror. The pupil is the round black circle in the middle of your eye.
 - **Iris**: The coloured ring around the pupil. Tiny muscles inside it make the pupil bigger or smaller. *e.g.* Brown, black, hazel, green and blue eyes are different coloured irises.
-- **Lens**: A clear, curved part just behind the pupil. It bends the light so that a sharp picture forms on the retina. Another unit explains how lenses bend light. *e.g.* When an older person has a cataract, the lens has become cloudy, so everything looks misty.
+- **Lens**: A clear, curved part just behind the pupil. It bends the light so that a sharp picture forms on the retina. *e.g.* When an older person has a cataract, the lens has become cloudy, so everything looks misty.
 - **Retina**: A thin layer at the back of the inside of the eye. It catches the light that comes in and turns it into signals. *e.g.* The retina is only about as thick as two or three pages of a notebook, but it holds more than a hundred million light-catching cells.
 - **Optic nerve**: A thick bundle of nerve threads, like a cable. It carries signals from the eye to the brain. *e.g.* Each eye has its own optic nerve. They meet behind the eyes on the way to the back of the brain.
 - **Blind spot**: One small place at the back of each eye that cannot catch light, because the optic nerve leaves the eye there. Everyone has two. *e.g.* You can find your blind spot with a card, a dot and a cross. The dot vanishes!
@@ -46,7 +46,7 @@ Your eyes do not see by themselves. They catch light, and when there is no light
 ### Light sources and lit objects · *defined*
 **Definition:** A light source makes its own light. A lit object makes no light. We see a lit object only when light from a source lands on it and bounces off into our eyes.
 
-Look around the room. Almost everything you can see is a lit object. The table, the curtains, your little sister and the cat make no light at all. The only light sources may be a bulb, a window with the Sun outside, or a screen. Everything else is borrowing their light. The Moon looks bright at night, but it is a lit object too. It is a grey rock with sunlight bouncing off it.
+Look around the room. Almost everything you can see is a lit object. The table, the curtains, the people and the cat make no light at all. The only light sources may be a bulb, a window with the Sun outside, or a screen. Everything else is borrowing their light. The Moon looks bright at night, but it is a lit object too. It is a grey rock with sunlight bouncing off it.
 - e.g. A diya flame is a light source. The brass plate under it is a lit object that shines with the flame's light.
 - e.g. A phone screen is a light source. Turn it off, and you see the black glass only because the room's light bounces off it.
 - e.g. The Sun is a light source. The Moon is a lit object.
@@ -184,7 +184,7 @@ By day, one Sun lights almost everything we see. The mango, the road and your fr
 - *deep:* When you look at a mango, is the mango coming into you, or are you going out to the mango? (hint: Think about what travels. Where did the light start, and where did it end up?)
 - *deep:* If nobody is in the room and the light is on, is the chair still being seen? (hint: Light is still bouncing off the chair. Is bouncing the same as seeing?)
 - *deep:* Why can't you see your own eyes without a mirror or a photo? (hint: For you to see something, its light has to travel into your eyes. Where would the light from your eye have to go?)
-- *deep:* Is a colour in the mango, in the light, or in your brain? (hint: In a dark room, does the mango still have a colour? Ask again after the colour unit.)
+- *deep:* Is a colour in the mango, in the light, or in your brain? (hint: In a dark room, does the mango still have a colour? What do you think?)
 - *big:* Your brain fills in your blind spot. What else might your brain be filling in without telling you? (hint: Remember the vanishing dot. You saw plain card where there was really a dot.)
 - *big:* People who are blind know the world through sound, touch and smell. Is their world smaller than yours, or just different? (hint: Think of what a blind person might notice that you miss.)
 - *big:* Ibn al-Haytham said do not just believe famous books. Test them. Is there something everyone believes that you would like to test? (hint: He tested what Euclid and Ptolemy wrote, even though they were famous.)
@@ -192,7 +192,7 @@ By day, one Sun lights almost everything we see. The mango, the road and your fr
 - *big:* When you look at someone and they look at you, what is travelling between you? (hint: Light bounces off your face into their eyes, and off their face into yours.)
 
 ## Story: The Lamp-Seller's Daughter
-*Ibn al-Haytham was real. He lived in Cairo and wrote the Book of Optics, the Kitab al-Manazir. In it he describes lamps placed outside a small hole into a dark room, and how covering one lamp makes its spot of light on the wall vanish. Later writers tell two stories about him: that he promised the Caliph al-Hakim he could control the floods of the Nile, and that, when he could not, he pretended to be mad and was kept in his house until the Caliph died in 1021. Historians are not sure these stories are true. Zaynab, her mother and their conversations are made up.*
+*Ibn al-Haytham was real. He lived in Cairo and wrote the Book of Optics, the Kitab al-Manazir. In it he describes lamps placed outside a small hole into a dark room, and how covering one lamp makes its spot of light on the wall vanish. Later writers tell two stories about him: that he promised the Caliph al-Hakim he could control the floods of the Nile, and that, when he could not, he pretended to be mad and was kept in his house until the Caliph died in 1021. Historians are not sure these stories are true. Zaynab, her mother, her grandmother and their conversations are made up.*
 
 In the city of Cairo, a thousand years ago, there was a house that everybody walked past quickly. The shutters were always closed. People said a madman lived inside. They said he had once been a great scholar. He had promised the Caliph he could tame the river Nile. Then he had failed, and his mind had broken.
 
@@ -224,11 +224,11 @@ Zaynab had no answer. She waited for her eyes to work. They did not.
 
 And something happened that Zaynab never forgot.
 
-On the white wall opposite the hole, a picture appeared. It was faint and soft, as if painted in smoke. But it was the street outside. There was the fruit seller's yellow awning. There was a donkey, and a woman leading them. They were upside down, and they were moving. The donkey walked slowly across the wall on their head.
+On the white wall opposite the hole, a picture appeared. It was faint and soft, as if painted in smoke. But it was the street outside. There was the fruit seller's yellow awning. There was a donkey, and a woman leading him. They were upside down, and they were moving. The donkey walked slowly across the wall on his head.
 
 Zaynab cried out. "Is it magic?"
 
-"It is light," said the man. Now she could see him a little, by the glow from the wall. He was thin, with ink on his fingers and a gentle face. "The sun lands on the donkey. From every part of the donkey, light bounces off and spreads out in all directions. A little of that light comes through my hole and lands on my wall. The light comes from the donkey to us. Nothing goes from us to the donkey."
+"It is light," said the man. Now she could see him a little, by the glow from the wall. He was thin, with ink on his fingers and a gentle face. "The Sun lands on the donkey. From every part of the donkey, light bounces off and spreads out in all directions. A little of that light comes through my hole and lands on my wall. The light comes from the donkey to us. Nothing goes from us to the donkey."
 
 "But the old books say..."
 
@@ -258,7 +258,7 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
 
 "Tell me," she would say. "When you look at this flame, who is doing the reaching? You, or the light?"
 
-**For the parent:** For the parent: the turn of the story is a dark room. With her eyes wide open, Zaynab sees nothing, so eyes cannot be sending out rays. When a small hole lets light in, the street appears on the wall, because light bounced off the donkey and travelled in. Covering one lamp makes only its spot vanish, which shows that each light travels separately from its source to where it lands. Seeing is catching light that comes in, not reaching out. The story also asks whether to trust a famous book or a test, and it quietly turns the 'madman' everyone avoided into the person who knew most.
+**For the parent:** For the parent: the turn of the story is a dark room. With her eyes wide open, Zaynab sees nothing, so eyes cannot be sending out rays. When a small hole lets light in, the street appears on the wall, because light bounced off the donkey and travelled in. Covering one lamp makes only its spot vanish, which shows that each light travels separately from its source to where it lands. Seeing is catching light that comes in, not reaching out.
 
 - Ask: In the dark room, Zaynab's eyes were wide open. Why couldn't she see anything?
 - Ask: What made the picture of the street appear on the wall?
@@ -268,27 +268,27 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
 
 ## Games
 ### g1 · Light Chain (20 min)
-- **rules:** Cut out all the cards. Shuffle the SOURCE, OBJECT and EYE cards into one pile. Keep the BLOCKER cards in a separate pile.; Each player takes 5 cards from the main pile.; On your turn, take one more card. If you can, lay down a full chain: one SOURCE, one OBJECT and one EYE, in that order, on the chain mat.; Say the chain out loud: 'Light goes from the torch to the cat, and bounces off the cat into Paati's eye. So Paati sees the cat.' A correct chain wins 2 seeing tokens.; After a chain is laid, the next player can take a BLOCKER card and put it on one arrow. They say how it breaks the chain. A good reason wins 1 token, and the chain is out.; A SOURCE card can also be laid straight to an EYE, with no OBJECT. Then you are seeing the light source itself. This wins 1 token.; When the main pile runs out, the player with the most tokens wins.
+- **rules:** Cut out all the cards. Shuffle the SOURCE, OBJECT and EYE cards into one pile. Keep the BLOCKER cards in a second pile. Each player takes 5 cards from the main pile and 2 BLOCKER cards.; On your turn, take one card from the main pile. Then, if you can, lay down a full chain on the chain mat: one SOURCE, one OBJECT and one EYE, in that order. If you cannot, pass. Keep your cards.; Say the chain out loud: 'Light goes from the torch to the cat, and bounces off the cat into a grandparent's eye. So the grandparent sees the cat.' A correct chain wins 2 seeing tokens.; After a chain is laid, the next player may put one BLOCKER card from their hand on one arrow and say how it breaks the chain. A good reason wins 1 token and the chain is out: its cards go in a discard pile. The BLOCKER also goes in the discard pile, and the player takes a new BLOCKER card from the BLOCKER pile if any are left. A BLOCKER that does not fit the chain (a cloud over the Sun when the chain starts with a torch) does nothing and goes back to the hand.; A SOURCE card can also be laid straight next to an EYE card, with no OBJECT. Then you are seeing the light source itself. This wins 1 token.; The game ends when the main pile runs out. The player with the most tokens wins. If two players have the same number, they share the win.
 - **Printable cards: 12 SOURCE cards to cut out:** The Sun; A tubelight; A diya flame; A torch; A phone screen; A candle; Lightning; A bonfire; A street lamp; A firefly; A car's headlights; A matchstick flame
 - **Printable cards: 12 OBJECT cards to cut out:** A mango; Your friend's face; The Moon; A cow on the road; A book; A white wall; A cat; Your hand; A steel tumbler; A leaf; A carrom board; A sari on a washing line
-- **Printable cards: 8 EYE cards and 10 BLOCKER cards:** EYE: your eye; EYE: a cat's eye; EYE: an owl's eye; EYE: Paati's eye; EYE: a bee's eye; EYE: a fish's eye; EYE: a baby's eye; EYE: a camera; BLOCKER: a closed door; BLOCKER: a power cut; BLOCKER: a hand over the eyes; BLOCKER: a thick curtain; BLOCKER: a cardboard box; BLOCKER: closed eyelids; BLOCKER: night with no moon; BLOCKER: a wall; BLOCKER: a blanket over your head; BLOCKER: a cloud over the Sun
+- **Printable cards: 8 EYE cards and 10 BLOCKER cards:** EYE: your eye; EYE: a cat's eye; EYE: an owl's eye; EYE: a grandparent's eye; EYE: a bee's eye; EYE: a fish's eye; EYE: a baby's eye; EYE: a camera; BLOCKER: a closed door; BLOCKER: a power cut; BLOCKER: a hand over the eyes; BLOCKER: a thick curtain; BLOCKER: a cardboard box; BLOCKER: closed eyelids; BLOCKER: night with no moon; BLOCKER: a wall; BLOCKER: a blanket over your head; BLOCKER: a cloud over the Sun
 - **Printable board: A chain mat with three boxes and two arrows:** SOURCE; arrow; OBJECT; arrow; EYE
-- **Printable tokens: 20 seeing tokens (small paper eyes):** 👁️
+- **Printable tokens: 20 seeing tokens (small paper eyes):** Seeing token: a small paper eye; Seeing token: a small paper eye; Seeing token: a small paper eye; Seeing token: a small paper eye; Seeing token: a small paper eye; Seeing token: a small paper eye; Seeing token: a small paper eye; Seeing token: a small paper eye; Seeing token: a small paper eye; Seeing token: a small paper eye; Seeing token: a small paper eye; Seeing token: a small paper eye; Seeing token: a small paper eye; Seeing token: a small paper eye; Seeing token: a small paper eye; Seeing token: a small paper eye; Seeing token: a small paper eye; Seeing token: a small paper eye; Seeing token: a small paper eye; Seeing token: a small paper eye
 - **s1 (2 min)**  
-  *Parent does:* 1. Lay the chain mat on the floor. 2. Shuffle the SOURCE, OBJECT and EYE cards into one pile. 3. Put the BLOCKER cards in their own pile. 4. Deal 5 cards to each player.  
+  *Parent does:* 1. Lay the chain mat on the table. 2. Shuffle the SOURCE, OBJECT and EYE cards into one pile. 3. Put the BLOCKER cards in their own pile. 4. Deal 5 cards from the main pile and 2 BLOCKER cards to each player.  
   *Parent says:* To see something, light has to make a journey. It starts at a light source, bounces off the thing, and ends in an eye. In this game you build those journeys with cards.  
-  *Child mode:* Put the chain mat on the floor. Mix the cards, but keep the BLOCKER cards apart. Take 5 cards each. You will build light's journey: source, thing, eye.
+  *Child mode:* Put the chain mat on the table. Mix the cards, but keep the BLOCKER cards apart. Take 5 cards and 2 BLOCKER cards each. You will build light's journey: source, thing, eye.
 - **s2 (3 min)**  
-  *Parent does:* Play one practice chain together. Lay down 'A torch', then 'A cat', then 'Paati's eye'. Point along the arrows as you say it.  
-  *Parent says:* Here is a practice chain. The torch makes light. The light lands on the cat and bounces off them. Some of it goes into Paati's eye. So Paati sees the cat.  
-  *Child mode:* Practice chain: a torch, a cat, Paati's eye. Light goes from the torch to the cat. It bounces into Paati's eye. Which way do the arrows point?
-  - Check: In the chain 'torch, cat, Paati's eye', which way does the light go between the cat and Paati? → **From the cat into Paati's eye**
+  *Parent does:* Play one practice chain together. Lay down 'A torch', then 'A cat', then 'Your eye'. Point along the arrows as you say it.  
+  *Parent says:* Here is a practice chain. The torch makes light. The light lands on the cat and bounces off the cat. Some of it goes into your eye. So you see the cat.  
+  *Child mode:* Practice chain: a torch, a cat, your eye. Light goes from the torch to the cat. It bounces into your eye. Which way do the arrows point?
+  - Check: In the chain 'torch, cat, your eye', which way does the light go between the cat and your eye? → **From the cat into your eye**
 - **s3 (10 min)**  
   *Parent does:* 1. Take turns. Each player takes a card and lays a chain if they can. 2. They say the chain out loud. 3. Give 2 tokens for a correct chain.  
   *Parent says:* When you lay a chain, say where the light starts, what it bounces off, and whose eye it ends in.  
   *Child mode:* Take a card. Can you make a chain? Say it out loud. Where does the light start? What does it bounce off? Whose eye does it go into?
   - Ask: Why is the Moon an OBJECT card and not a SOURCE card? (good: The Moon makes no light of its own.; Sunlight bounces off the Moon.)
-  - Note: Watch for chains in the wrong order, like OBJECT first. Ask: 'Does a mango make its own light?' Watch the Moon card too. The Moon is an OBJECT, not a SOURCE, because it only bounces sunlight. The firefly is a SOURCE. They make their own light. The camera works like an eye: light comes in and is caught.
+  - Note: Watch for chains in the wrong order, like OBJECT first. Ask: 'Does a mango make its own light?' Watch the Moon card too. The Moon is an OBJECT, not a SOURCE, because it only bounces sunlight. A firefly is a SOURCE because she makes light in her own body. The camera works like an eye: light comes in and is caught.
 - **s4 (3 min)**  
   *Parent does:* When a chain is laid, let the next player put a BLOCKER card on one of its arrows. They say which part of the journey is broken.  
   *Parent says:* Blocker time. Put your blocker on an arrow. Tell us which part of the light's journey it breaks.  
@@ -301,28 +301,28 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
   - Note: Every arrow points towards an eye. That is the big idea of the unit. Seeing is light arriving.
   - Think: Can you think of anything you can see that is not at the end of a chain like this?
 ### g2 · Photon Relay (15 min)
-- **rules:** One player is the SUN, one is the MANGO, one is the EYE and one is the BRAIN. Others can be CLOUDS.; The SUN holds a basket of balls or rolled-up yellow socks. Each one stands for a tiny packet of light, a photon.; The SUN throws light balls gently towards the MANGO. The MANGO catches them and throws them on in any direction. This is bouncing.; The EYE stands with a basket held in front of them. They cannot move their feet. They only catch the balls that come their way.; Each ball that lands in the EYE's basket is passed back to the BRAIN, who stands behind the EYE with closed eyes. The MANGO whispers one clue word with each ball, like 'yellow' or 'round'. The BRAIN guesses what the thing is.; CLOUDS can step between the SUN and the MANGO to block light. Then nothing reaches the EYE.
-- **Printable cards: Role cards to wear on a string:** SUN (the light source); MANGO (a lit object); EYE; BRAIN; CLOUD (a blocker)
-- **Printable score sheet: Relay record:** Round; How many light balls reached the EYE; Did the BRAIN guess the thing?
+- **rules:** With 2 players, one is the SUN and one is the MANGO. A basket or bowl on a chair is the EYE. With 3 players, the third holds the EYE basket and cannot move their feet. With 4, the fourth is the BRAIN, who stands behind the EYE.; The SUN holds a basket of rolled-up yellow socks. Each sock ball stands for a tiny packet of light, a photon.; The SUN throws sock balls gently towards the MANGO. The MANGO catches each one and throws it on in any direction, without aiming. This is bouncing.; The EYE (the basket or bowl) stays still. It only catches the balls that happen to come its way.; Count the balls in the EYE basket and the balls that missed. A BRAIN, if you have one, listens to a clue word the MANGO calls with each ball, like 'yellow' or 'round', and guesses what the thing is.; For a CLOUD, an extra player (or the MANGO, with a big book or cushion) steps between the SUN and the MANGO to block the light. Then nothing reaches the EYE.
+- **Printable cards: Role cards to wear on a string:** SUN (the light source); MANGO (a lit object); EYE (a basket or bowl); BRAIN (extra player); CLOUD (extra player)
+- **Printable score sheet: Relay record:** Round; How many sock balls the SUN threw; How many sock balls reached the EYE; Did the BRAIN guess the thing? (if you have a BRAIN)
 - **s1 (3 min)**  
-  *Parent does:* 1. Give out the role cards. 2. Put the SUN at one end of the room and the MANGO in the middle. 3. Put the EYE to one side of the MANGO. 4. The BRAIN stands behind the EYE.  
+  *Parent does:* 1. Give out the role cards. 2. Put the SUN at one end of the room and the MANGO in the middle. 3. Put the EYE basket on a chair to one side of the MANGO. 4. If you have a BRAIN, they stand behind the EYE.  
   *Parent says:* We are going to act out how you see a mango. Each sock ball is a tiny packet of light. Scientists call one tiny packet of light a photon.  
-  *Child mode:* Pick a role: SUN, MANGO, EYE or BRAIN. The socks are packets of light. Get in your places.
+  *Child mode:* Pick a role: SUN or MANGO (and EYE or BRAIN if you have more people). The socks are packets of light. Get in your places.
 - **s2 (4 min)**  
-  *Parent does:* 1. The SUN throws sock balls gently to the MANGO, one at a time. 2. The MANGO throws each one on in any direction, without aiming. 3. The EYE catches what they can and passes it to the BRAIN.  
-  *Parent says:* SUN, send your light. MANGO, bounce it anywhere, don't aim. EYE, you can only catch what comes to you. You cannot reach out.  
-  *Child mode:* SUN, throw the light gently. MANGO, bounce it any way at all. EYE, stand still and catch. Pass what you catch to the BRAIN.
+  *Parent does:* 1. The SUN throws sock balls gently to the MANGO, one at a time. 2. The MANGO throws each one on in any direction, without aiming. 3. Count the balls that land in the EYE basket.  
+  *Parent says:* SUN, send your light. MANGO, bounce it anywhere, don't aim. The EYE can only catch what comes to it. It cannot reach out.  
+  *Child mode:* SUN, throw the light gently. MANGO, bounce it any way at all. The EYE stays still and catches. How many balls land in the basket?
   - Note: Throw softly, with socks, not hard balls. The point is that the EYE catches only a few of the bounced balls. Most go off in other directions, which is why everyone in a room can see the same mango.
 - **s3 (3 min)**  
-  *Parent does:* Ask the BRAIN to guess what the thing is from the clue words that came with each caught ball.  
-  *Parent says:* BRAIN, you only know what the EYE caught. What do you think the thing is?  
-  *Child mode:* BRAIN, listen to the clues that came with your balls. What is the thing?
+  *Parent does:* Count the balls in the EYE basket. If you have a BRAIN, ask them to guess what the thing is from the clue words.  
+  *Parent says:* How many balls did the EYE catch, and how many missed? BRAIN, if you are playing, what do you think the thing is?  
+  *Child mode:* Count the balls in the basket. How many missed? BRAIN, listen to the clues. What is the thing?
   - Ask: Why did the EYE not catch every ball? (good: The mango bounced them every way.; The eye only catches what comes towards it.)
   - Check: In Photon Relay, what does the EYE do? → **It catches the balls that come to it**
 - **s4 (3 min)**  
-  *Parent does:* Play one more round. This time a CLOUD steps between the SUN and the MANGO halfway through.  
+  *Parent does:* Play one more round. This time a CLOUD (an extra player, or a big book on a chair) goes between the SUN and the MANGO halfway through.  
   *Parent says:* Now the CLOUD comes. What happens to the light reaching the EYE?  
-  *Child mode:* CLOUD, step in front of the SUN. What happens now? Does the EYE still get any light?
+  *Child mode:* CLOUD, go in front of the SUN. What happens now? Does the EYE still get any light?
   - Think: The MANGO is still there when the cloud comes. Why can't the EYE see it?
 - **s5 (2 min)**  
   *Parent does:* Sit down together and ask your child to say what they think, what they saw, and why.  
@@ -375,22 +375,22 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
 - **safety:** Never shine the lamp or a torch straight into anyone's eyes. Never use the Sun. Point the lamp at the wall beside your face, not at your eyes.
 - **record:** Fill in the table. Draw a bar chart with one bar for each kind of light. Make each bar as tall as the middle pupil size.
 - **results table:** How bright is it? | Look 1: pupil size (mm) | Look 2 (mm) | Look 3 (mm) | Middle value (mm)
-- **s1 (4 min)**  
+- **s1 (3 min)**  
   *Parent does:* 1. On a strip of paper, draw a row of filled black circles. Make them 2, 3, 4, 5, 6, 7 and 8 mm across, using a ruler. Help your child with the small ones. 2. Write the size under each one. This is the pupil card.  
   *Parent says:* We're going to measure your pupil, the black circle in the middle of your eye. This card is our ruler. We'll hold it next to your eye and find the circle that matches.  
   *Child mode:* Draw seven black circles in a row. Make them 2 to 8 mm wide. Write the size under each one. This is your pupil card.
-- **s2 (5 min)**  
-  *Parent does:* 1. Make the room dim. Close the curtains and switch off the lights. Leave a door open to a lit room, so you can still see a face. 2. Wait one full minute. 3. Hold the pupil card just under one of your child's eyes and find the circle that matches the pupil. Write the size. Do this three times. 4. Swap, so your child measures your pupil too.  
+- **s2 (6 min)**  
+  *Parent does:* 1. Make the room dim. Close the curtains and switch off the lights. Leave a door open to a lit room, so you can still see a face. 2. Wait one full minute. 3. Hold the pupil card just under your child's left eye (measure this same eye every time) and find the circle that matches the pupil. Write the size. Do this three times. 4. Swap, so your child measures your pupil too.  
   *Parent says:* Wait one minute for your eyes to settle. Now look straight ahead at the wall. Which circle on the card is the same size as your pupil?  
   *Child mode:* You need a grown-up for this. Sit in the dim room for one minute. Look at the far wall, not at the card. The grown-up holds the card under your eye. They find the circle that matches your pupil. Then you measure theirs.
-  - Note: Look closely, from about a hand's width away. Your child must look at the far wall, because looking at something close makes the pupil smaller. Dark brown eyes make the pupil harder to tell apart from the iris. Turn your child's face a little towards the open door, so some light falls on the eye. If you still cannot see the pupil, take a close photo of the eye and the card together, without flash, and zoom in. In dim light many children's pupils are 6 or 7 mm.
-- **s3 (5 min)**  
-  *Parent does:* 1. Turn on the normal room light and wait one minute. Measure three times. 2. Then switch on the lamp, pointing at the wall right beside your child's face, not into the eye. Wait one minute. Measure three times. 3. Last, your child looks into a mirror in the lamp light. They cover one eye with a hand for 10 seconds. Then they take the hand away and watch that pupil.  
+  - Note: Look closely, from about a hand's width away. Your child must look at the far wall, because looking at something close makes the pupil smaller. Dark brown eyes make the pupil harder to tell apart from the iris. Turn your child's face a little towards the open door, so some light falls on the eye. If you still cannot see the pupil, take a close photo of the eye and the card together, without flash, and zoom in. In dim light many children's pupils are 6 or 7 mm. Dark brown eyes can make the pupil hard to tell from the iris. If you are not sure, write the nearer size and say 'about'; a rough result still shows the pattern.
+- **s3 (6 min)**  
+  *Parent does:* 1. Turn on the normal room light and wait one minute. Measure the same eye three times. 2. Then switch on the lamp, pointing at the wall right beside your child's face, not into the eye. Wait one minute. Measure three times. 3. Last, your child looks into a mirror in the lamp light. They cover one eye with a hand for 10 seconds. Then they take the hand away and watch that pupil.  
   *Parent says:* Now the light is brighter. Keep looking at the far wall while I measure. Then look in the mirror. Cover one eye for ten seconds, take your hand away, and watch that pupil. What happens?  
   *Child mode:* Now the lamp comes on beside your face. Wait a minute. The grown-up measures your pupil three times. Then look in a mirror. Cover one eye with your hand and count to 10. Take your hand away and watch that pupil. What happens?
   - Note: When the hand comes away, the pupil is big for a moment, then shrinks in less than a second. This works even with dark brown eyes, because the change is easy to see in bright light.
   - Check: When the lamp came on, your pupil got smaller. Why does the eye do this? → **To let in less light and protect the inside of the eye**
-- **s4 (4 min)**  
+- **s4 (3 min)**  
   *Parent does:* Help your child find the middle value for each light. Then draw a bar chart, with one bar for each kind of light.  
   *Parent says:* Let's turn the numbers into a picture. Each kind of light gets one bar. A taller bar means a bigger pupil.  
   *Child mode:* Put your three numbers in order. The middle one is your middle value. Draw one bar for each light. A taller bar means a bigger pupil.
@@ -453,7 +453,6 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
   - Note: A good answer: each drop of mist reflects a little light sideways, into my eyes. Without the drops, the light went straight past me to the wall.
   - Think: Sunbeams in a dusty room, or through trees on a misty morning, work the same way. Where else have you seen a beam of light?
 ### a2 · Find Your Blind Spot (10 min)
-- **safety:** No safety worries. Take a break if your eye feels tired.
 - **record:** Write how far the card was from your eye when the dot vanished, for your right eye and your left eye. Ask a family member to try too.
 - **s1 (2 min)**  
   *Parent does:* On the card, draw a small cross on the left. Draw a filled dot, about as big as a pea, on the right. Put them about 8 cm apart, on the same line.  
@@ -471,17 +470,17 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
   - Check: When the dot vanished, you saw plain white card, not a hole. Why? → **Your brain filled in the gap with what is around it**
   - Think: You have a blind spot in each eye all day long, and you never notice it. What else might your brain be filling in?
 ### a3 · Night Eyes: 20 minutes in the dark (30 min)
-- **safety:** A grown-up must be with the child on a balcony, terrace or roof at night. Stay well away from the edge.
-- **record:** Write the number of stars you counted through the tube at the start, after 10 minutes and after 20 minutes. Draw a bar chart.
+- **safety:** If you go out on a balcony, terrace or roof at night, a grown-up must be with the child. Stay well away from the edge.
+- **record:** Write the number you counted at the start, after 10 minutes and after 20 minutes. Draw a bar chart.
 - **s1 (4 min) · grown-up needed**  
-  *Parent does:* 1. On a clear night, go with your child to the darkest place you can reach, like a balcony or a terrace. 2. Turn off any lights you can. 3. Pick one patch of sky. Look at it through the cardboard tube, and count the stars you see.  
-  *Parent says:* Look through the tube at this patch of sky. Count every star you can see. We'll count again in a while and see if anything changes.  
-  *Child mode:* With a grown-up, go somewhere dark at night. Look at the sky through the tube. Count the stars you see. Write the number.
-  - Note: In a big city you may see only a few stars, or none. Then do it indoors instead. Put 10 small objects, like coins, buttons and a white paper, on the floor of a dark room at night, with only a little light from under the door. Count how many you can see at the start, after 10 minutes and after 20 minutes.
+  *Parent does:* 1. At night, go with your child to the darkest place you can reach, like a balcony or a dark room. 2. Turn off any lights you can. 3. If you can see stars, pick one patch of sky. Count the stars you see through the cardboard tube. 4. If you cannot see stars (common in a big city), use a dark room. Put 10 small things on the floor, like coins, buttons and a white paper. Leave only a little light from under the door. Count how many you can see.  
+  *Parent says:* Count every star you can see through the tube, or every small thing in the room. We'll count again in a while and see if anything changes.  
+  *Child mode:* With a grown-up, go somewhere dark at night. Look at the sky through the tube and count the stars. Or, in a dark room, count the small things you can see. Write the number.
+  - Note: In the room version, keep the same 10 things in the same places each time.
 - **s2 (20 min) · grown-up needed**  
-  *Parent does:* 1. Sit quietly for 10 minutes. Do not look at a phone or a white light. If you need to see your notebook, use the red torch. 2. Count the stars in the same patch again. 3. Wait 10 more minutes and count once more.  
+  *Parent does:* 1. Sit quietly for 10 minutes. Do not look at a phone or a white light. If you need to see your notebook, use the red torch. 2. Count again, in the same patch of sky or the same room. 3. Wait 10 more minutes and count once more.  
   *Parent says:* No bright lights now, not even a phone. A bright light would spoil your night eyes. We'll use only the red torch. Let's count again.  
-  *Child mode:* Sit still for 10 minutes. No phone, no bright light. Use only the red torch. Then count the stars again. Wait 10 more minutes. Count again.
+  *Child mode:* Sit still for 10 minutes. No phone, no bright light. Use only the red torch. Then count again. Wait 10 more minutes. Count again.
   - Note: Most people count more stars at 10 minutes and even more at 20. The pupils open wide in a few seconds, but the bigger change is the rod cells building up their light-catching chemical. Rod cells hardly respond to red light, so a dim red torch does not undo their work. While you wait, tell your child about Ibn al-Haytham, or play a quiet guessing game about night sounds.
 - **s3 (6 min)**  
   *Parent does:* Back inside, help your child draw a bar chart of the three counts. Then ask what they think, what they saw, and why.  
@@ -492,14 +491,14 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
 - **safety:** A grown-up makes the holes. Never shine the torches into anyone's eyes.
 - **record:** Draw the three spots on the screen. Then draw what happened when you covered each torch.
 - **s1 (6 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up cuts a square hole, about 3 cm wide, in one short end of the shoebox, and tapes foil over it. 2. They make one small hole in the foil with a pin or pencil tip. 3. Cut away the other short end and tape tracing paper over it. This is the screen.  
+  *Parent does:* 1. A grown-up cuts a square hole, about 3 cm wide, in one short end of the shoebox, and tapes foil over it. 2. They make one small hole in the foil with a pin or pencil tip. 3. Cut a big window in the other short end and tape tracing paper over it. This is the screen. 4. Put the lid on the box.  
   *Parent says:* We're going to make a little dark room, like Ibn al-Haytham's. Light can only get in through one tiny hole.  
   *Child mode:* A grown-up makes a small hole in foil on the box. Tape tracing paper over the other end. That is your screen.
 - **s2 (5 min)**  
-  *Parent does:* 1. Make the room dark. 2. Stand three torches in a row on a table, about one hand apart, all pointing at the pinhole. 3. Put the box about half a metre away. 4. Your child looks at the tracing-paper screen, with the dark cloth over their head and the end of the box.  
+  *Parent does:* 1. Make the room dark. 2. Stand three torches in a row on a table, about one hand apart, all pointing at the pinhole. Lean phones against books if you use them. 3. Put the box about half a metre away, with the pinhole facing the torches. 4. Your child puts the dark cloth over their head and the screen end of the box, and looks at the tracing-paper screen.  
   *Parent says:* Look at the screen. How many spots of light can you see?  
   *Child mode:* Turn on three torches in a row. Point them at the hole. Put the cloth over your head. Look at the screen. How many spots?
-  - Note: You should see three small spots of light on the screen, one for each torch. Notice that the order is swapped. The left torch makes the right spot. That is because light travels in straight lines through the hole, which another unit explains. Today we only need this: each torch makes its own spot. If the spots are too faint, make the pinhole a little bigger, or move the torches closer.
+  - Note: You should see three small spots of light on the screen, one for each torch. Notice that the order is swapped. The left torch makes the right spot. That is because light travels in straight lines through the hole. Today we only need this: each torch makes its own spot. If the spots are too faint, make the pinhole a little bigger, or move the torches closer.
 - **s3 (5 min)**  
   *Parent does:* Cover one torch with your hand. Your child watches the screen and says which spot vanished. Then try the other torches.  
   *Parent says:* I'm covering one torch now. What happened on the screen?  
@@ -512,24 +511,23 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
   - Note: A good answer: What I think: light goes from each torch into the box. What I saw: when one torch was covered, only its spot vanished. Why: each torch sends its own light, and blocking it stops that light arriving. Your eye works the same way: it is a dark room with a small hole, the pupil.
   - Think: Your eye is a small dark room with a hole at the front. What is the 'screen' inside your eye called?
 ### a5 · Eyeshine and Red Eyes (15 min)
-- **safety:** A grown-up comes on the evening walk. Stay far from street dogs and never disturb an animal. Never shine a torch into a person's eyes.
-- **record:** Draw an animal with eyeshine. Draw an arrow from the torch to the eye, and an arrow bouncing back to you.
-- **s1 (8 min) · grown-up needed**  
-  *Parent does:* 1. On an evening walk, hold the torch right beside your own eyes, pointing ahead. 2. Look for a pair of glowing dots in the dark, from a cat, a dog or a cow. 3. Stay far away from the animal and keep walking calmly.  
-  *Parent says:* Hold the torch right next to your eyes. If an animal's eyes are out there, they will flash back at us. Do the eyes glow when we turn the torch off?  
-  *Child mode:* Go on an evening walk with a grown-up. Hold the torch next to your eyes. Look for glowing eyes. Turn the torch off. Do they still glow?
-- **s2 (4 min)**  
-  *Parent does:* 1. At home, dim the room. 2. Take a flash photo of a family member looking straight at the phone. 3. Look at their eyes in the photo.  
+- **safety:** A grown-up comes on any evening walk. Stay far from street dogs and never disturb an animal. Never shine a torch into a person's eyes.
+- **record:** Draw an animal with eyeshine (or a face with red eyes). Draw an arrow from the torch or flash to the eye, and an arrow bouncing back to you.
+- **s1 (4 min)**  
+  *Parent does:* 1. Dim the room. 2. Take a flash photo of a family member looking straight at the phone. 3. Look at their eyes in the photo.  
   *Parent says:* Look at the eyes in the photo. Are they red? The flash went in through the pupil and reflected off the back of the eye.  
   *Child mode:* Take a flash photo of someone in a dim room. Look at their eyes. Are they red?
-  - Note: Many phones now remove red eye by themselves, so you may need a few tries, or an older phone. If you see no animal on the walk, that is fine: the photo works at home. Red eye happens because the back of the eye, behind the retina, is full of tiny blood vessels. The flash reflects off it, straight back to the camera.
+  - Note: Many phones remove red eye by themselves, so you may need a few tries, or an older phone. If your photo shows no red eyes, that is fine; it is not a mistake. Red eye happens because the back of the eye, behind the retina, is full of tiny blood vessels. The flash reflects off it, straight back to the camera.
+- **s2 (8 min) · grown-up needed**  
+  *Parent does:* Optional, if you can go out safely or have a pet cat or dog at home: 1. On an evening walk, or in a dim room with a pet, hold the torch right beside your own eyes, pointing ahead. 2. Look for a pair of glowing dots in the dark, from a cat, a dog or a cow. 3. Stay far away from any animal you do not know, and keep walking calmly. If you see none, that is fine: it is not always possible.  
+  *Parent says:* Hold the torch right next to your eyes. If an animal's eyes are out there, they will flash back at us. Do the eyes glow when we turn the torch off?  
+  *Child mode:* Optional: go on an evening walk with a grown-up. Hold the torch next to your eyes. Look for glowing eyes. Turn the torch off. Do they still glow?
 - **s3 (3 min)**  
-  *Parent does:* Ask what the glowing eyes and the red eyes have in common.  
-  *Parent says:* When you turned off the torch, did the eyes still glow? So were they making light, or bouncing it?  
-  *Child mode:* Did the eyes glow with the torch off? So do eyes make light, or bounce it?
+  *Parent does:* Ask what the glowing eyes and the red eyes have in common. If you saw eyeshine, turn the torch off and see if the eyes still glow.  
+  *Parent says:* When the torch or flash is off, do the eyes glow? So are they making light, or bouncing it?  
+  *Child mode:* With the torch off, did the eyes still glow? So do eyes make light, or bounce it?
   - Check: A cat's eyes glow in your torch beam. Where does the glow come from? → **Your torch's light bounces off a shiny layer at the back of the cat's eye**
 ### a6 · Draw How You See (10 min)
-- **safety:** No safety worries.
 - **record:** Keep both drawings side by side. Write one sentence on what changed.
 - **s1 (4 min)**  
   *Parent does:* Before teaching anything, ask your child to draw themselves looking at a ball, with a lamp in the room. Ask them to add arrows to show how they see the ball.  
@@ -553,7 +551,7 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
 - **record:** Draw what you saw on the retina screen with the small, middle and big pupil. Label the parts of your box eye.
 - **schedule:** day 1: Build the box eye: the cornea window, the iris slider with three pupil sizes, and the retina screen. Paint the iris. (30 min); day 2: Test the eye in a dark room with a lamp. Try each pupil size. Label the parts and show the family how it works. (20 min)
 - **s1 (15 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up cuts a 3 cm square window in one short end of the box. Leave it open, or tape a piece of clear plastic from a packet over it. This is the cornea. 2. Cut away the other short end and tape tracing paper over it. This is the retina screen. 3. Cut two slits above and below the front window, so the card strip can slide across it.  
+  *Parent does:* 1. A grown-up cuts a 3 cm square window in one short end of the box. Leave it open, or tape a piece of clear plastic from a packet over it. This is the cornea. 2. Cut away the other short end and tape tracing paper over it. This is the retina screen. 3. Cut two slits above and below the front window, so the card strip can slide across it. 4. Put the lid on the box.  
   *Parent says:* We're building an eye. The front window is the cornea. The paper at the back is the retina, where the light lands.  
   *Child mode:* A grown-up cuts a window in the front of the box. Tape tracing paper over the back. That is the retina. Cut slits so a card strip can slide across the front.
 - **s2 (15 min) · grown-up needed**  
@@ -564,7 +562,7 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
   *Parent does:* 1. On day 2, make the room dark and switch on a lamp at one end. 2. Your child holds the box with the front pointing at the lamp, and looks at the retina screen. 3. Slide the strip to try each pupil size. Draw what you see each time.  
   *Parent says:* Try the tiny pupil first. What's on the retina? Now the big pupil. What's different?  
   *Child mode:* Point the front of the box at the lamp. Look at the screen at the back. Try the tiny hole, then the middle, then the big one. What changes?
-  - Note: With the tiny hole, your child may see a dim but sharp glowing picture of the lamp. With the big hole, it is brighter but blurry. A real eye has a lens behind the pupil, which keeps the picture sharp even when the pupil is big. Another unit explains how lenses work.
+  - Note: With the tiny hole, your child may see a dim but sharp glowing picture of the lamp. With the big hole, it is brighter but blurry. A real eye has a lens behind the pupil, which keeps the picture sharp even when the pupil is big. You can find out more about lenses later.
   - Check: In your box eye, which pupil lets the most light land on the retina? → **The big hole**
   - Wait: Leave the paint to dry until tomorrow.
 - **s4 (8 min)**  
@@ -594,15 +592,15 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
   *Parent says:* Which idea worked best? Tell me the path the light took, from the window all the way into your eyes.  
   *Child mode:* Which idea worked best? Say the path the light took. Start at the window and end in your eyes.
   - Check: A white sheet near the window made the corner brighter. Why? → **Daylight bounces off the white sheet in every direction, some of it into the corner**
-### c2 · A Night Path for Paati (30 min)
-- **problem:** Paati gets up at night to go to the bathroom. When the light is switched on, everyone wakes up, and her eyes are dazzled. With the light off, she cannot see the step or the door. Design a way for her to see the path safely.
+### c2 · A Night Path to the Bathroom (30 min)
+- **problem:** A person gets up at night to go to the bathroom. When the light is switched on, everyone wakes up, and their eyes are dazzled. With the light off, they cannot see the step or the door. Design a way for them to see the path safely.
 - **your turn:** Now design your own night path. Draw a map of the room with your ideas on it. Test it at night with a grown-up. Can someone walk the path with only your design to see by?
-- **constraints:** It must not wake people sleeping in the room.; It must not dazzle Paati's eyes when she has been asleep.; Use things that are safe, cheap and easy to find.
-- **general:** Put a small dim night-light low down near the floor. A dim light keeps her night eyes working, and does not dazzle.; Stick white tape along the edge of the step and around the door frame. Pale things bounce the most of what little light there is, so they show up first in the dark.; Clear the path of things she could trip on.
+- **constraints:** It must not wake people sleeping in the room.; It must not dazzle the eyes of someone who has been asleep.; Use things that are safe, cheap and easy to find.
+- **general:** Put a small dim night-light low down near the floor. A dim light keeps night eyes working, and does not dazzle.; Stick white tape along the edge of the step and around the door frame. Pale things bounce back the most of what little light there is, so they show up first in the dark.; Clear the path of things that could be tripped on.
 - **creative:** Use a dim red or orange night-light. Our night eyes are less disturbed by red light, which is why astronomers use red torches.; A light that switches on by itself when someone walks past, then turns off again.; Glow-in-the-dark stickers along the wall, at hand height, like a trail of stars.
 - **s1 (8 min) · grown-up needed**  
-  *Parent does:* 1. At night, with the lights off, stand at Paati's bed with your child. 2. Wait a minute. 3. Ask what they can see along the path, and what they can't.  
-  *Parent says:* Let's see the room the way Paati sees it at night. What can you see? What's invisible?  
+  *Parent does:* 1. At night, with the lights off, stand by the bed with your child. 2. Wait a minute. 3. Ask what they can see along the path to the bathroom, and what they can't.  
+  *Parent says:* Let's see the room the way a person getting up at night sees it. What can you see? What's invisible?  
   *Child mode:* At night, stand by the bed with a grown-up. Turn the lights off. Wait a minute. What can you see? What can't you see?
 - **s2 (14 min)**  
   *Parent does:* 1. Your child draws a map of the room and marks their ideas. 2. Try one idea at a time, like white tape on the step. 3. Check it again in the dark.  
@@ -611,8 +609,8 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
   - Note: Remind your child of the dark box test. The white paper showed up first in dim light. The same is true of white tape on a step. Older people often need more light to see than children do, because their lenses let less light through.
 - **s3 (8 min)**  
   *Parent does:* Ask your child to explain why their best idea works, using what they know about light and eyes.  
-  *Parent says:* Why does your idea work? Tell me what the light does, and what Paati's eyes do.  
-  *Child mode:* Why does your idea work? Say what the light does. Say what Paati's eyes do.
+  *Parent says:* Why does your idea work? Tell me what the light does, and what the eyes do.  
+  *Child mode:* Why does your idea work? Say what the light does. Say what the eyes do.
   - Check: Why does white tape on the edge of a step help someone see it at night? → **White tape bounces back more of the little light there is**
 
 ## Worksheets
@@ -638,8 +636,8 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
    **Answer:** It is a hole, and very little light comes back out of it. *Why:* The pupil is a hole into the dark inside of the eye. Light goes in and hardly any comes back out, so it looks black. Picking 'painted black' is a common idea, but there is no paint. Picking 'darkest part of the iris' mixes up the coloured ring with the hole in the middle.
 9. (write) Revathi, a girl in Class 4, walks from a sunny balcony into a dark storeroom. What will her pupils do in the next minute? How does that help her?  
    **Answer:** Her pupils will slowly get bigger. A bigger hole lets more light into her eyes. So after a minute she can see more of the storeroom than when she first walked in.. *Why:* A strong answer predicts the change (bigger), says why it helps (more light gets in), and notices that it takes a little time. In the pupil test, the pupils were biggest in the dim room.
-10. (draw) Draw a lamp, a ball and an eye. Draw arrows to show how the eye sees the ball.  
-   **Answer:** One arrow goes from the lamp to the ball. Another arrow goes from the ball into the eye.. *Why:* Light goes from the source to the thing, then bounces into the eye. A strong drawing has no arrow coming out of the eye.
+10. (truefalse) A camera works a bit like an eye: light goes in through a hole and is caught at the back.  
+   **Answer:** True. *Why:* True. Both let light in through a hole and catch it on a layer at the back. The eye is different in one big way: the brain builds what we see from the signals.
 11. (perspective) For more than a thousand years, thinkers argued about how we see. Here are two of them.  
    **Answer:** A strong answer picks a side and backs it with evidence, for example the dark box: with no light, open eyes saw nothing. It then gives Euclid a fair point: we do see only what our eyes point towards, and his straight lines between eye and thing were right. Only the direction was wrong.. *Why:* Euclid's idea was sensible for his time, and his straight-line drawings still work. Ibn al-Haytham tested which way the light goes, and the tests showed it comes into the eye.
 12. (write) Lakshmi, a girl in Class 4, drew how she sees a ball. Her drawing has one arrow, from her eye to the ball. There is no lamp. What two things would you change, and why?  
@@ -700,9 +698,8 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
 5. (mcq) Why do photos taken with a flash sometimes show red eyes?  
    Options: The flash reflects off the back of the eye, which is full of blood vessels / The eyes make red light / The camera is broken  
    **Answer:** The flash reflects off the back of the eye, which is full of blood vessels. *Why:* The flash goes in through the wide-open pupil, reflects off the back of the eye, which is rich in blood, and comes straight back to the camera. Picking 'the eyes make red light' mixes up eyes and light sources. Picking 'the camera is broken' does not fit, because the same camera takes normal photos in daylight.
-6. (mcq) Why can't you see your own eyes without a mirror?  
-   Options: Light from your eyes goes away from you, and nothing bounces it back / Your eyes are too close to see / Eyes are invisible  
-   **Answer:** Light from your eyes goes away from you, and nothing bounces it back. *Why:* To see something, light from it must reach your eyes. Light from the front of your eye goes away from you, out into the room. A mirror reflects it back to you. Picking 'too close' does not fit, because you can see your nose, which is just as close. Picking 'invisible' is wrong, because other people can see your eyes.
+6. (truefalse) A single photon is far too small to see on its own, as a speck of light.  
+   **Answer:** True. *Why:* True. Light comes in packets far too small to see one by one. A torch sends out billions of billions every second.
 7. (write) Light from a faint star travels a very long way and enters your eye. Explain, using the word 'photon', what happens when it reaches your retina.  
    **Answer:** A photon from the star comes in through my pupil and lands on a rod cell in my retina. It hits a tiny molecule and makes it change shape. That starts a signal that goes along the optic nerve to my brain.. *Why:* A strong answer follows the photon all the way: pupil, retina, molecule, signal, optic nerve, brain. Every act of seeing starts with photons changing the shape of molecules in the retina.
 8. (sort) Sort these statements about seeing.  
@@ -716,7 +713,7 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
 11. (draw) In the story The Lamp-Seller's Daughter, the scholar Ibn al-Haytham, who lived in Cairo, makes a small hole in the shutter of a dark room. A donkey stands outside in the sunlight. Draw the room, the hole and the donkey. Draw arrows to show how the picture of the donkey got onto the wall.  
    **Answer:** An arrow from the Sun to the donkey, then arrows from the donkey, through the hole, to the wall.. *Why:* Light from the Sun bounced off the donkey. Some of it came through the hole and landed on the wall. A strong drawing has every arrow pointing away from the Sun and towards the wall.
 12. (write) Light bounces off everything in a room. So why isn't a white wall covered in pictures of everything, all mixed up?  
-   **Answer:** Light from every point of every thing spreads out in all directions, and it all mixes on the wall. So the wall just looks bright. A small hole, or the pupil and lens of an eye, lets in light from each point in only one direction. So each point lands in one place, and that makes a picture.. *Why:* This is the puzzle Ibn al-Haytham worked on. A strong answer says the light is mixed on a plain wall, and that a small hole sorts it. Another unit explains how a small hole makes a picture.
+   **Answer:** Light from every point of every thing spreads out in all directions, and it all mixes on the wall. So the wall just looks bright. A small hole, or the pupil and lens of an eye, lets in light from each point in only one direction. So each point lands in one place, and that makes a picture.. *Why:* This is the puzzle Ibn al-Haytham worked on. A strong answer says the light is mixed on a plain wall, and that a small hole sorts it.
 13. (mcq) Why do many older people need more light to read?  
    Options: Their lenses let less light through, and their pupils get smaller with age / They send out weaker rays / Books were printed smaller long ago  
    **Answer:** Their lenses let less light through, and their pupils get smaller with age. *Why:* As we grow old, the lens gets a little cloudy and yellow, and the pupil gets smaller. So less light reaches the retina. Picking 'weaker rays' is the old eye-rays idea.
@@ -726,9 +723,9 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
    **Answer:** Cornea at the very front, iris as the coloured ring, pupil as the hole in the middle, lens just behind it, retina lining the back, optic nerve leaving the back.. *Why:* Light passes through these parts in order from front to back, and the optic nerve carries the signal on.
 
 ## Videos
-- **How Eyes Let Us See The World** (SciShow Kids, 4 min) id `r2xP7heE0wk`: For the child: a short, clear explanation of light bouncing off things and entering the eye. *Check:* Found by YouTube search: "How Eyes Let Us See The World | SciShow Kids" by SciShow Kids. Title checked automatically; a parent may still preview it.
-- **1001 Inventions and the World of Ibn Al Haytham** (1001 Inventions, 6 min) id `MmPTTFff44k`: Brings the story of Ibn al-Haytham, his dark room and his tests to life. *Check:* Found by YouTube search: "[FILM] 1001 Inventions and the World of Ibn Al Haytham (English Version)" by 1001Inventions. Title checked automatically; a parent may still preview it.
-- **Camera or eye: Which sees better?** (TED-Ed, 5 min) id `OGqAM2Mykng`: For the parent: how the eye compares with a camera, including the retina, the rods and cones and the blind spot. *Check:* Found by YouTube search: "Camera or eye: Which sees better? - Michael Mauser" by TED-Ed. Title checked automatically; a parent may still preview it.
+- **How Eyes Let Us See The World** (SciShow Kids, 4 min) id `r2xP7heE0wk`: For the child: a short, clear explanation of light bouncing off things and entering the eye. *Check:* Preview it first, then watch together.
+- **1001 Inventions and the World of Ibn Al Haytham** (1001 Inventions, 6 min) id `MmPTTFff44k`: Brings the story of Ibn al-Haytham, his dark room and his tests to life. *Check:* Preview it first, then watch together.
+- **Camera or eye: Which sees better?** (TED-Ed, 5 min) id `OGqAM2Mykng`: For the parent: how the eye compares with a camera, including the retina, the rods and cones and the blind spot. *Check:* Preview it first, then watch together.
 
 ## Quiz
 1. (mcq) You sit in a dark cinema hall. The film ends and the screen goes black. You cannot see your friend in the next seat. Why not?  
@@ -736,7 +733,7 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
    **Answer:** No light is bouncing off your friend into your eyes. *Why:* Your friend is still there, and your eyes are fine. But with the screen dark, no light lands on your friend, so none bounces into your eyes. Picking 'your eyes stopped working' forgets that eyes need light to catch.
 2. (mcq) Which of these is a light source?  
    Options: A glowing firefly / A shiny steel tumbler / The full Moon  
-   **Answer:** A glowing firefly. *Why:* A firefly makes their own light. A steel tumbler only shines because light bounces off it. The full Moon is a rock lit by the Sun. Picking the Moon is very common, because it looks so bright.
+   **Answer:** A glowing firefly. *Why:* A firefly makes light in her own body. A steel tumbler only shines because light bounces off it. The full Moon is a rock lit by the Sun. Picking the Moon is very common, because it looks so bright.
 3. (mcq) A white wall looks bright on a sunny afternoon. Why?  
    Options: It bounces a lot of sunlight into our eyes / It makes its own light / White paint stores up light  
    **Answer:** It bounces a lot of sunlight into our eyes. *Why:* A white wall is a lit object. It bounces back most of the light that lands on it. Picking 'makes its own light' mixes up a lit object and a light source.
@@ -819,28 +816,14 @@ Zaynab never saw him again. But she sold lamp oil all her life. And whenever a c
 ## Jokes
 - Why did the student put on sunglasses in the classroom? *Her ideas were too bright.*
 - What did the left eye say to the right eye? *Between you and me, something smells.*
-- Why did the pupil get bigger at night? *It wanted to catch every last bit of light.*
 - What do you call a deer with no eyes? *No idea.*
-- Why was the Moon sad? *Everyone said it was bright, but it was only borrowing light.*
 - Why did the torch never win at hide-and-seek? *Everyone could see where it was coming from.*
-- What did the retina say to the photon? *I've caught you at last!*
-- Why don't owls go to the cinema in the afternoon? *They prefer the night show.*
 - Why did the mango feel famous? *Light kept bouncing off it to everyone's eyes.*
 - Why did the blind spot never get invited to parties? *Nobody ever noticed it.*
 - What does a lazy eye doctor say? *I'll see you later.*
-- Why did the shy mango switch off the lamp? *It didn't want any light bouncing off it into your eyes.*
-- Why did the cat's eyes glow? *They were just giving your torchlight back.*
-- What did the iris say to the bright sunshine? *Hold on, let me close the door a little.*
-- Why did the old Greek thinker bump into the wall at night? *His eye-rays were switched off.*
 - What do you call a dinosaur with only one eye? *A do-you-think-he-saw-us.*
-- Why did the photon travel so far to reach your eye? *It wanted to be seen.*
-- Why did the white paper win the dark box race? *It bounced back first.*
 - What do eyes do on holiday? *Sight-seeing.*
-- Why did the optic nerve feel important? *It carried all the big news to the brain.*
 - Why couldn't the shoebox see anything? *It kept its lid on.*
-- What did the brain say about the blind spot? *Don't worry, I'll fill it in.*
-- Why are eyes such good catchers? *They catch light all day without ever using their hands.*
-- Why do astronomers make good friends? *They're happy to wait in the dark with you.*
 
 ## Connected maths
 - In the pupil test, a child's pupil was 7 mm in the dim room and 3 mm next to the lamp. How many millimetres smaller did it get? **4 mm smaller.**. The pupil started at 7 mm in dim light. Next to the lamp it was 3 mm. 7 take away 3 is 4. So it shrank by 4 mm. You can check: 3 + 4 = 7. (queues `math.addition-subtraction.mental-strategies.L3`)
@@ -862,8 +845,8 @@ Follow the Light (sci.light.L3): Topic-level song
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru, Karnataka: A science museum with hands-on exhibits about light and seeing.
 
 ## Things to buy
-- [A bright LED torch](https://www.amazon.in/s?k=led+torch+for+kids) (tool): Shines light on objects in the light's journey test, the invisible beam, the lamps activity and the eyeshine walk. A phone torch works too. Used in e3, a1, a3, a4, a5. Used again in the reflection and shadows units.
-- [Book: Ibn al-Haytham: The Man Who Discovered How We See, by Libby Romero (National Geographic Kids)](https://www.amazon.in/s?k=Ibn+al-Haytham+The+Man+Who+Discovered+How+We+See) (book): A picture biography of Ibn al-Haytham for children, to read alongside the story. Used in a4. Read it over two evenings after the story and the lamps activity. Ask which of his tests the child has now done themselves.
+- [A bright LED torch](https://www.amazon.in/s?k=led+torch+for+kids) (tool): For the light's journey test, the invisible beam, the night eyes, the lamps and the eyeshine activities. A phone torch works too. Used in e3, a1, a3, a4, a5. 
+- [Book: Ibn al-Haytham: The Man Who Discovered How We See, by Libby Romero (National Geographic Kids)](https://www.amazon.in/s?k=Ibn+al-Haytham+The+Man+Who+Discovered+How+We+See) (book): A picture biography of Ibn al-Haytham for children, to read alongside the story. Read it over two evenings after the story and the lamps activity, and ask which of his tests your child has now done. Used in a4. 
 
 ## Warm-up
 - Does the Moon make its own light? → No. Sunlight bounces off it.

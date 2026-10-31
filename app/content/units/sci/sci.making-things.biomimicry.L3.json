@@ -2,7 +2,7 @@
  "id": "sci.making-things.biomimicry.L3",
  "title": "Biomimicry: copying how living things solve their problems",
  "level": 3,
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home today, with the materials listed. Fixes made. Leaves must be held by the stalk, because touching rubs off the wax (old or bruised leaves work less well, so pick a fresh one, and use an outer cabbage leaf if no chembu or lotus leaf can be found). The splash test counts wet spots on newspaper, because splash height is too hard to measure; the water must be 3 cm below the rim, and a beak that tumbles is dropped again from 20 cm. The ice test uses lidded cups and checks every 10 minutes. A bare cup's ice lasts about 20 to 40 minutes in strong sun. Wet cloth works less well on humid monsoon days. The Sock Walk works best from September to February and only on short weeds with a grown-up, because of snakes. Paperclip hooks must be small, and a grown-up bends them if the ends are sharp. Candle soot and the flame are grown-up steps, with a 2-minute cooling time. Cling film also holds partly by static, which the activity says honestly. Both games have rules for playing alone. Parents should know that the ice test needs about an hour, mostly waiting, so play the matching game in the shade meanwhile.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if done at home today, with the materials listed. Leaves are held by the stalk, because touching rubs off the wax (use a fresh leaf, or an outer cabbage leaf if no chembu or lotus leaf can be found). The splash test counts wet spots on fresh newspaper after every drop, with the water 2 cm below the rim; a beak that tumbles is dropped again from 20 cm. The ice test uses lidded cups, checked every 10 minutes, and needs a sunny balcony or windowsill and about 75 minutes, mostly waiting; the matching game fills the wait. The Sock Walk is outdoors, works best from September to February, and is not in the core path. Candle soot and the flame are grown-up steps. Cling film also holds partly by static, which the activity says honestly.",
  "summary": {
   "text": "Every plant and animal has problems to solve in their own life. A burdock plant must send their seeds far away, so their burrs carry hooks that catch on animal fur. A lotus leaf must stay clean in a muddy pond, so tiny waxy bumps make rain roll off and take the dirt with it. A kingfisher must dive without a splash that warns the fish, so their beak widens very slowly. These designs got better over many generations. People who studied them closely copied them, and made Velcro, self-cleaning paint and a quieter bullet train. Copying how a living thing solves a problem is called biomimicry.",
   "art": "A child's notebook page: on the left a burr, a lotus leaf, a kingfisher, a gecko and a termite mound, and on the right, joined by dotted arrows, a Velcro strap, a raindrop rolling off a wall, a bullet train, a robot hand and a cool building."
@@ -243,7 +243,7 @@
   {
    "concept": "How a gecko sticks to a wall",
    "status": "debated",
-   "description": "A house gecko hunts insects on walls, windows and ceilings, often near a light at night. They must run up smooth glass, hang upside down and not fall. Its feet have no glue and no suckers. Each toe has rows of tiny hairs called setae. Each hair splits into hundreds of even tinier tips. The tips are so small and bendy that they get extremely close to the wall, even into its tiny dips. When atoms get that close, they pull on each other very slightly. One tip's pull is tiny. But a gecko has millions of hairs and hundreds of millions of tips. All those tiny pulls add up. Geckos whose feet gripped better caught more insects and escaped more snakes, so over many generations their feet became the grippers we see today. Scientists agree on this much. They argue about one part: does water help?",
+   "description": "A house gecko hunts insects on walls, windows and ceilings, often near a light at night. They must run up smooth glass, hang upside down and not fall. Their feet have no glue and no suckers. Each toe has rows of tiny hairs called setae. Each hair splits into hundreds of even tinier tips. The tips are so small and bendy that they get extremely close to the wall, even into its tiny dips. When atoms get that close, they pull on each other very slightly. One tip's pull is tiny. But a gecko has millions of hairs and hundreds of millions of tips. All those tiny pulls add up. Geckos whose feet gripped better caught more insects and escaped more snakes, so over many generations their feet became the grippers we see today. Scientists agree on this much. They argue about one part: does water help?",
    "examples": [
     "A house gecko walks upside down on the ceiling near the tube light.",
     "Geckos find it hard to grip Teflon, the very slippery coating on non-stick pans."
@@ -266,7 +266,7 @@
    "context": "A gecko can hang from a ceiling by one toe, with no glue. This card explains how their tiny hairs grip, and what scientists still argue about."
   },
   {
-   "concept": "How a gecko lets go, and the inventions it inspired",
+   "concept": "How a gecko lets go, and the inventions their feet inspired",
    "status": "defined",
    "definition": "A gecko lets go by peeling their toes up from the tip, like peeling sticky tape. Engineers have copied gecko hairs to make dry tape and robot grippers that need no glue.",
    "description": "Holding on is only half of the gecko's problem. A gecko running up a wall must stick and unstick each foot many times every second. If you pull tape straight off a wall, it holds hard. If you peel it from one corner, it comes off easily. Gecko toes peel from the tip, a few hairs at a time. So letting go takes almost no effort. Gecko feet also stay clean. Dirt falls off the tiny tips as the gecko walks. In 2003, a team in Manchester, England, led by Andre Geim made a small patch of 'gecko tape' from plastic hairs. At Stanford University in the USA, engineers built a climbing robot called Stickybot in 2006. NASA engineers have built gecko-style grippers to grab things in space, where glue and suckers do not work well.",
@@ -390,7 +390,7 @@
     }
    ],
    "art": "A burr, a lotus and a turmeric root sitting in a courtroom's witness box, while people argue over a paper with a big stamp.",
-   "context": "When someone copies a plant's idea, who should own it? This card is about patents, turmeric and fairness."
+   "context": "When someone copies a plant's idea, who should own the idea? This card is about patents, turmeric and fairness."
   },
   {
    "concept": "What engineers are copying now",
@@ -559,7 +559,7 @@
    "Later that day she sat on the bank and drew in her notebook again. She drew the new train. Next to it, she drew me, diving. She was careful to make the beak and the nose exactly the same shape. For once, I sat still until she had finished.",
    "People tell this story now in many countries. They say that a train copied a kingfisher. I am not sure it is quite like that. The water taught my family its lesson over millions of years. The air taught the man the same lesson in a few. We were both listening to the same teacher. I just heard it first."
   ],
-  "epiphany": "For the parent: the train's boom and the kingfisher's splash are the same problem. A fast thing pushes into something that cannot easily get out of its way: water for the bird, the air inside a tunnel for the train. Hitting it with a blunt front shoves it all at once, which makes a slap or a boom. A long, slowly widening front pushes it aside a little at a time. The engineer did not copy the bird's look. He copied how the beak works. The story also quietly asks who teaches whom, and whether 'natural' and 'man-made' are really separate.",
+  "epiphany": "For the parent: the train's boom and the kingfisher's splash are the same problem. A fast thing pushes into something that cannot easily get out of its way: water for the bird, the air inside a tunnel for the train. Hitting it with a blunt front shoves it all at once, which makes a slap or a boom. A long, slowly widening front pushes it aside a little at a time. The engineer did not copy the bird's look. He copied how the beak works.",
   "ask": [
    "Why did the tunnel boom when the old trains came out?",
    "How does the kingfisher dive without a big splash? What is special about the shape of their beak?",
@@ -593,7 +593,7 @@
      "items": [
       "Burdock burr: hooked spines that catch on fur, so animals carry its seeds away",
       "Lotus leaf: tiny waxy bumps that make rain roll off and wash the leaf clean",
-      "Kingfisher: a long beak that widens slowly, so they dive without warning the fish",
+      "Kingfisher: a long beak that widens slowly, so they dive without a splash that warns the fish",
       "Owl: soft, fringed feather edges, so they fly almost silently to their prey",
       "Gecko: millions of tiny toe hairs, so they can run up walls to catch insects",
       "Termite mound: thick earth walls and air passages that keep the nest fresh and cool",
@@ -734,7 +734,7 @@
       "3 My name label gets muddy in the rain",
       "4 My paper boat sinks and gets soggy",
       "5 My toy car is slow and noisy",
-      "6 Thatha's chappal slips on the wet bathroom floor"
+      "6 My chappal slips on the wet bathroom floor"
      ]
     },
     {
@@ -826,7 +826,7 @@
    ],
    "setup": [
     {
-     "art": "A die, two printed lists with small pictures of problems and living things, and a score sheet on a table.",
+     "art": "A die, two printed lists and a score sheet on a table.",
      "caption": "1. Roll once for a problem and once for a living thing."
     },
     {
@@ -997,7 +997,7 @@
      "t": "truefalse",
      "p": "To copy a living thing well, an invention must look like that living thing.",
      "a": false,
-     "why": "False. Good biomimicry copies how something works, not how it looks. Velcro looks nothing like a burdock plant, but it uses the same hooks. Many people guess 'true' at first."
+     "why": "False. Good biomimicry copies how something works, not how it looks. Velcro looks nothing like a burdock plant, but Velcro uses the same hooks. Many people guess 'true' at first."
     },
     {
      "t": "mcq",
@@ -1473,7 +1473,7 @@
      "qty": 1
     },
     {
-     "item": "a pinch of chalk dust (rub chalk on rough paper) or a pinch of haldi powder",
+     "item": "a pinch of chalk dust (rub chalk on rough paper) or a pinch of haldi powder (haldi stains clothes and fingers yellow)",
      "qty": 1
     },
     {
@@ -1486,7 +1486,6 @@
      "buy": "b-lens"
     }
    ],
-   "safety": "Haldi stains clothes and fingers yellow. Use chalk dust if you prefer. Wash your hands after touching leaves from outside.",
    "schedule": [
     {
      "day": 1,
@@ -1521,7 +1520,7 @@
        ]
       }
      ],
-     "parent": "On a good chembu or lotus leaf, the drops look like silver balls or beads of mercury. On steel, they are low domes. On paper, they soak in within a minute. On an ordinary leaf, they spread into flat puddles. On a cabbage leaf, the drops bead up well but are a little flatter than on chembu."
+     "parent": "On a good chembu or lotus leaf, the drops look like silver balls or beads of mercury. On steel, they are low domes. On paper, they soak in within a minute. On an ordinary leaf, they sit as low domes or spread into flat puddles. On a cabbage leaf, the drops bead up well but are a little flatter than on chembu."
     },
     {
      "id": "s3",
@@ -1621,7 +1620,7 @@
    "context": "In this unit's story, a kingfisher dives with hardly a splash, and a bullet train copies their beak. In this experiment you drop dough shapes into a bucket of water and count the splash drops.",
    "question": "Which shape goes into water with the smallest splash: a flat pancake, a round ball, or a long pointed beak?",
    "predict": "Guess first. Put the three shapes in order, from the one you think will splash most to the one you think will splash least. Why do you think so?",
-   "fair_test": "Keep everything the same except the shape. Use the same amount of dough for each shape. Drop each one from the same height, 30 cm above the water, measured with a ruler. Keep the water at the same level, 3 cm below the rim. Use a dry sheet of newspaper each time. Drop each shape 3 times.",
+   "fair_test": "Keep everything the same except the shape. Use the same amount of dough for each shape. Drop each one from the same height, 30 cm above the water, measured with a ruler. Keep the water at the same level, 2 cm below the rim. Lay a fresh dry sheet of newspaper over the wet ones before every drop. Drop each shape 3 times.",
    "results_table": [
     "Shape",
     "Try 1: splash spots",
@@ -1632,7 +1631,7 @@
    ],
    "materials": [
     {
-     "item": "a bucket, filled with water to about 3 cm below the rim",
+     "item": "a bucket, filled with water to about 2 cm below the rim",
      "qty": 1
     },
     {
@@ -1640,7 +1639,7 @@
      "qty": 1
     },
     {
-     "item": "4 or 5 sheets of old newspaper, to lay around the bucket",
+     "item": "a bucket, filled with water to about 2 cm below the rim",
      "qty": 5
     },
     {
@@ -1652,7 +1651,6 @@
      "qty": 1
     }
    ],
-   "safety": "Do this outside, in the bathroom, or on a floor you can mop. Wipe up spilled water straight away, so nobody slips. Throw the used dough away. Don't eat it.",
    "schedule": [
     {
      "day": 1,
@@ -1673,7 +1671,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Put the bucket in the middle of the newspaper sheets, so the paper covers the floor all around it. 2. Check the water is 3 cm below the rim. 3. Hold the ruler upright from the water, to find 30 cm above it.",
+     "do": "1. Put the bucket in the middle of the newspaper sheets, so the paper covers the floor all around it. Do this in the bathroom or on a floor you can mop, and keep a cloth to wipe up spills. 2. Check the water is 2 cm below the rim. 3. Hold the ruler upright from the water, to find 30 cm above it.",
      "say": "Any splash that jumps out of the bucket will land on the newspaper and leave a wet spot. We'll count the spots.",
      "kid": "Put newspaper all around the bucket. Splashes will make wet spots on it. Find 30 cm above the water with your ruler.",
      "adult": true
@@ -1681,10 +1679,10 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Hold the pancake flat, 30 cm above the water, and let go. 2. Count the wet spots on the newspaper. 3. Write the number down. 4. Lift out the dough and change to dry newspaper. 5. Do the same with the ball, then the beak. Hold the beak by its wide end, point down. 6. Do 3 tries for each shape.",
+     "do": "1. Hold the pancake flat, 30 cm above the water, and let go. 2. Count the wet spots on the newspaper. 3. Write the number down. 4. Lift out the dough and lay a fresh dry sheet of newspaper over the wet ones. 5. Do the same with the ball, then the beak. Hold the beak by its wide end, point down. 6. Do 3 tries for each shape.",
      "say": "Let go, don't throw. Listen as it hits the water. Then let's count the spots.",
      "kid": "Let go from 30 cm, don't throw. Listen! Count the wet spots on fresh newspaper. Do each shape 3 times.",
-     "parent": "The flat pancake usually slaps the water loudly and throws out many drops, often 15 or more. The ball splashes less. The beak, if it falls point first, goes in with a quiet 'ploop' and few or no spots. If the beak tumbles and lands on its side, that try doesn't count. If it keeps tumbling, do all three shapes again from 20 cm, to keep the test fair. If no shape throws spots out of the bucket, fill the bucket a little fuller.",
+     "parent": "The flat pancake usually slaps the water loudly and throws out many drops, often 15 or more. The ball splashes less. The beak, if it falls point first, goes in with a quiet 'ploop' and few or no spots. If the beak tumbles and lands on its side, that try doesn't count. If it keeps tumbling, do all three shapes again from 20 cm, to keep the test fair. If no shape throws spots out of the bucket, fill the bucket a little fuller, to about 1 cm below the rim. The spot counts change a lot from try to try, which is why you do three tries.",
      "chart": {
       "type": "table",
       "title": "Made-up example: how to fill in the table",
@@ -1723,7 +1721,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Find the middle value for each shape. 2. Draw a bar chart, one bar for each shape.",
+     "do": "1. Find the middle value for each shape: put its three numbers in order and take the middle one. 2. Draw a bar chart, one bar for each shape.",
      "say": "Each shape gets one bar. The taller the bar, the bigger the splash.",
      "kid": "Draw one bar for each shape. A taller bar means a bigger splash. Which shape is most like a kingfisher?",
      "check": {
@@ -1813,7 +1811,7 @@
   {
    "id": "e3",
    "title": "Keep the Ice: Walls Like a Termite Mound",
-   "mins": 60,
+   "mins": 75,
    "days": 1,
    "context": "Termite mounds stay cool inside on hot days, partly because their thick earth walls slow the heat down. In this experiment you build little houses with different walls, put an ice cube in each, and see which keeps its ice longest in the sun.",
    "question": "Which walls keep a little house coolest in the sun: thin walls, thick dry walls, or thick wet walls?",
@@ -1853,11 +1851,11 @@
      "qty": 1
     }
    ],
-   "safety": "Don't stay out in strong midday sun while you wait. Put the cups in the sun and wait in the shade. Drink some water.",
+   "safety": "Wait in the shade, not in strong midday sun, and drink some water.",
    "schedule": [
     {
      "day": 1,
-     "mins": 60,
+     "mins": 75,
      "what": "Build the cup houses, put the ice in, and check every 10 minutes until the ice is gone."
     }
    ],
@@ -1869,24 +1867,24 @@
      "do": "1. House A: leave one cup bare. These are thin walls. 2. House B: wrap one cup round and round in 3 sheets of newspaper, to make a thick wall. Hold it with a rubber band. These are thick dry walls, like a mound's earth. 3. House C: wrap one cup in a cotton cloth folded 4 times, soaked in water and squeezed so it does not drip. These are thick wet walls. 4. House D is your own design, if you want one.",
      "say": "Termite mounds have thick earth walls. Let's see if thick walls really keep the heat out. Each cup is a little house.",
      "kid": "Make three cup houses. Leave one bare. Wrap one in thick newspaper, and one in a wet cloth. Want to invent a fourth?",
-     "parent": "Here are good ideas for a fourth house. Cover a cup in white paper, or in black paper. Or stand a cup in a bowl of damp soil. Use the same size of cup.",
+     "parent": "Good ideas for a fourth house. For a purer test of thickness, wrap a cup in just one sheet of newspaper and compare it with House B's three sheets. Or cover a cup in white paper, or in black paper. Use the same size of cup. Note that the newspaper also shades the cup a little, and the wet cloth also cools by drying, so Houses B and C show more than thick walls alone.",
      "context": "This is the first step of Keep the Ice. You build little cup houses with different walls, to see which keeps an ice cube longest."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Put one ice cube in each cup. 2. Cover each cup with a card lid. 3. Put all the cups side by side in the sun. 4. Start the timer.",
+     "do": "1. Put one ice cube in each cup. 2. Cover each cup with a card lid. 3. Put all the cups side by side in the sun, on a sunny balcony or windowsill. 4. Start the timer.",
      "say": "All the cups go in the same sunny spot at the same time. That keeps the test fair.",
      "kid": "Put one ice cube in each cup. Put on the lids. Put all the cups in the sun together. Start the timer!"
     },
     {
      "id": "s3",
-     "mins": 35,
+     "mins": 50,
      "do": "1. Every 10 minutes, lift each lid and look at the ice. 2. Write 'big', 'small' or 'gone' in the table. 3. Write the time when each cube has fully melted.",
      "say": "Let's peek every ten minutes. Lift the lid, look, and put it back quickly.",
      "kid": "Every 10 minutes, peek under each lid. Is the ice big, small or gone? Write it down.",
-     "wait": "Check every 10 minutes until the ice in House A has melted. Leave the others until they melt too, if you can.",
-     "parent": "In strong Indian sun, the ice in a bare paper cup with a lid usually melts in about 20 to 40 minutes. While you wait, you can play Nature's Idea Match in the shade. The newspaper and wet-cloth houses often last twice as long or more. On a hot, dry day, the wet cloth often wins, because drying water takes heat away, like a clay water pot. On a humid monsoon day, the wet cloth works less well. On a cloudy day, do the test indoors by a window. It will take about an hour, so check every 15 minutes."
+     "wait": "Check every 10 minutes until the ice in House A has melted. Leave the others until they melt too, which can take up to an hour.",
+     "parent": "In strong Indian sun, the ice in a bare paper cup with a lid usually melts in about 20 to 40 minutes. While you wait, you can play Nature's Idea Match in the shade. The newspaper and wet-cloth houses often last twice as long or more. On a hot, dry day, the wet cloth often wins, because drying water takes heat away, like a clay water pot. On a humid monsoon day, the wet cloth works less well. On a cloudy day the ice melts slowly and the cups differ much less, so wait for a sunny day."
     },
     {
      "id": "s4",
@@ -1979,9 +1977,13 @@
      "item": "a paper bag or envelope for the seeds, and a magnifying glass if you have one",
      "qty": 1,
      "buy": "b-lens"
+    },
+    {
+     "item": "a Velcro strap from a shoe or bag, for the last step",
+     "qty": 1
     }
    ],
-   "safety": "Go only with a grown-up, in daylight. Walk on short weeds at the edge of a park, a field or an empty plot, not in long grass where snakes may hide. Stamp your feet as you walk. Wash your hands afterwards and never put seeds in your mouth.",
+   "safety": "Go only with a grown-up, in daylight. Walk on short weeds at the edge of a park, a field or an empty plot, not in long grass where snakes may hide. Stamp your feet as you walk. Never put seeds in your mouth.",
    "schedule": [
     {
      "day": 1,
@@ -2072,9 +2074,8 @@
      "buy": "b-lens"
     },
     {
-     "item": "a Velcro strap, a burr or sticky seed, a leaf, a feather, and a piece of fluffy wool",
-     "qty": 1,
-     "buy": "b-velcro"
+     "item": "a Velcro strap (from a shoe or bag), a burr or sticky seed if you have one, a leaf, a feather, and a piece of fluffy wool",
+     "qty": 1
     },
     {
      "item": "paper and a pencil",
@@ -2094,7 +2095,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Put the five things on a table near a window, in good light. 2. Look at the hook side and the loop side of the Velcro. 3. Then look at the burr or sticky seed.",
+     "do": "1. Put the five things on a table near a window, in good light. 2. Look at the hook side and the loop side of the Velcro. 3. Then look at the burr or sticky seed, if you have one.",
      "say": "Inventors notice tiny things. Look at both sides of the Velcro. Now look at the seed. What is the same?",
      "kid": "Look at the Velcro up close. Then look at the seed. Can you see hooks on both?",
      "context": "This is the first step of Zoom In Like an Inventor. You look at Velcro and a seed very closely, to find their hooks."
@@ -2156,7 +2157,6 @@
      "qty": 1
     }
    ],
-   "safety": "Cover the table with newspaper. Wash the brush afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -2169,7 +2169,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Peel the top paper off one corner of the cardboard, so the wavy layer shows. 2. Dab paint on the flat eraser or sponge. 3. Press it straight down onto the wavy part, then lift it.",
+     "do": "1. Spread newspaper on the table. Peel the top paper off one whole side of the cardboard, so the wavy layer shows. 2. Dab paint on the flat eraser or sponge. 3. Press it straight down onto the wavy part, then lift it.",
      "say": "This flat pad is like a hard, flat foot. Look at the print it leaves. Where did the paint go?",
      "kid": "Paint the flat eraser. Press it straight down on the wavy cardboard. Lift it. Where is the paint?",
      "context": "This is the first step of Gecko Toe Prints. You press a flat painted pad onto bumpy cardboard to see how much it touches."
@@ -2238,11 +2238,11 @@
      "buy": "b-cling"
     },
     {
-     "item": "a steel plate, a mirror or a window, a plastic box, a wooden table, a towel, and a cement or brick wall",
+     "item": "a steel plate, a mirror or a window, a plastic box, a wooden chopping board, a towel, and a cement or brick wall",
      "qty": 1
     }
    ],
-   "safety": "Never put cling film near your mouth or nose, or over anyone's face. Throw used pieces in the bin.",
+   "safety": "Never put cling film near your mouth or nose, or over anyone's face.",
    "schedule": [
     {
      "day": 1,
@@ -2255,7 +2255,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Tear off six pieces of cling film, each about the size of your palm. 2. Press one flat onto each surface, smoothing it with dry fingers. 3. Turn the plate or box upside down, or wait 10 seconds on the wall, and see if it stays.",
+     "do": "1. Tear off six pieces of cling film, each about the size of your palm. 2. Press one flat onto each surface, smoothing it with dry fingers. 3. Turn the plate, box, chopping board and towel upside down. The mirror or window and the wall are already upright, so wait 10 seconds. See if the film stays.",
      "say": "Cling film has no glue. Let's see which surfaces it will hold on to by itself.",
      "kid": "Press cling film onto each surface. Smooth it flat. Turn it upside down. Does the film stay on?",
      "context": "This is the first step of How Close Is Close? You test which surfaces cling film holds on to without any glue."
@@ -2266,7 +2266,7 @@
      "do": "Compare the lists. Talk about why smooth, hard surfaces worked best.",
      "say": "On smooth steel and glass, the film can get extremely close. Then the atoms of the film and the plate pull on each other. On a towel or a rough wall, the film touches only a few tips, so it falls off. Static electricity helps the film cling too.",
      "kid": "The film clings to smooth glass and steel. It falls off towels and rough walls. Why? It can't get close enough to them.",
-     "parent": "Cling film holds on partly by getting very close to smooth surfaces, where atoms attract, and partly by static electricity. A gecko's feet get close even to rough surfaces, using millions of bendy hair tips. Expect the film to cling to the steel, the mirror and usually the plastic box. It falls off the towel and the wall.",
+     "parent": "Cling film holds on partly by getting very close to smooth surfaces, where atoms attract, and partly by static electricity. A gecko's feet get close even to rough surfaces, using millions of bendy hair tips. Expect the film to cling to the steel, the mirror and usually the plastic box. It falls off the towel and the wall. Results vary with the brand of film and how clean the surface is. The chopping board may hold the film a little.",
      "check": {
       "t": "mcq",
       "q": "Cling film stuck to the steel plate but fell off the towel. Why?",
@@ -2362,7 +2362,7 @@
      "do": "Slowly dip the sooty back of the spoon into the glass of water, and look at it from the side.",
      "say": "Dip it slowly into the water. Look closely. Does the black spoon still look black?",
      "kid": "Dip the sooty spoon slowly into the water. Look from the side. What colour does it look now?",
-     "think": "The spoon looks silver under water. That silver is a thin skin of air, trapped between the bumps. Could the air be what keeps it dry?",
+     "think": "Lift the spoon out. Is the sooty side wet or dry? Look, but don't touch it.",
      "check": {
       "t": "mcq",
       "q": "Under water, the sooty spoon looks shiny silver. What is the silver?",
@@ -2403,7 +2403,6 @@
      "qty": 1
     }
    ],
-   "safety": "Do this outside or in the bathroom. Wipe up spills so nobody slips.",
    "schedule": [
     {
      "day": 1,
@@ -2416,7 +2415,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Put your hand in the water with the palm facing forward, like a wall. 2. Sweep it quickly from one side of the bucket to the other.",
+     "do": "1. Do this in the bathroom or the kitchen, and wipe up spills. 2. Put your hand in the water with the palm facing forward, like a wall. 3. Sweep it quickly from one side of the bucket to the other.",
      "say": "Sweep your flat hand through the water. Feel how hard the water pushes back. Look at the splash.",
      "kid": "Put your hand in the water, palm forward like a wall. Sweep it fast. Feel the water push back?",
      "context": "This is the first step of Beak Hand, Flat Hand. You feel how hard water pushes back on a flat hand."
@@ -2497,7 +2496,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up does any cutting with a sharp knife and anything with a flame. Use round-tipped scissors. Test inventions somewhere safe, away from stairs.",
+   "safety": "A grown-up does any cutting with a sharp knife and anything with a flame. Use round-tipped scissors.",
    "schedule": [
     {
      "day": 1,
@@ -2528,7 +2527,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Choose one problem. Then ask: which living thing has a problem like this, and how does it solve it? Use the cards from Nature's Idea Match if you made them.",
+     "do": "Choose one problem. Then ask: which living thing has a problem like this, and how does it solve it? Use the green nature cards from Nature's Idea Match if you made them.",
      "say": "Pick one problem. Now ask the inventor's question. Which living thing has a problem like this in its own life? How does it solve it?",
      "kid": "Pick one problem. Which plant or animal has this problem too? How do they solve it?",
      "parent": "Helpful pairs. Things slipping: burr hooks, gecko hairs, tree frog toe pads. Getting dirty or wet: the lotus leaf. Getting hot: the termite mound and the clay water pot. Moving through air or water: the kingfisher. Let the child choose, even if their idea seems odd. The test will show what works.",
@@ -2683,7 +2682,7 @@
      "kid": "Hook the towel on. Hang the bag from the towel. Add coins one at a time. Count until it falls!",
      "ask": [
       {
-       "q": "What happens if you try smooth cotton instead of towel?",
+       "q": "Guess: what will happen if you try smooth cotton instead of towel?",
        "good": [
         "It hardly holds, because there are no loops to catch.",
         "The hooks slide off the smooth cloth."
@@ -2699,7 +2698,7 @@
      "kid": "Add 4 more hooks and test again. Does it hold more coins? Now try smooth cotton. What happens?",
      "check": {
       "t": "mcq",
-      "q": "With 4 hooks the towel held 6 coins. With 8 hooks it held about 12. What does this show?",
+      "q": "Say that with 4 hooks the towel held 6 coins, and with 8 hooks it held about 12. What does this show?",
       "options": [
        "Each hook holds a little, and the holds add up",
        "Hooks don't matter, only the towel matters",
@@ -2738,29 +2737,29 @@
    "id": "c2",
    "title": "The Rain-Proof Name Tag",
    "mins": 30,
-   "context": "This is a design challenge about the lotus effect. You design a name tag for a school bag or a plant pot that stays clean and readable when it is dusty and wet.",
+   "context": "This is a design challenge about the lotus effect. You design a paper name tag for a school bag or a plant pot, and test whether the tag stays clean and readable when it is dusty and wet.",
    "problem": "Design a paper name tag that stays clean and readable when dust and rain land on it. Copy the lotus leaf's design.",
    "constraints": [
     "It must start as ordinary paper.",
     "Your name must still be readable at the end.",
-    "Test it fairly: the same pinch of dust and the same 10 sprinkles of water on every tag."
+    "Test it fairly: the same pinch of dust and the same 10 drops of water on every tag."
    ],
    "materials": [
     "4 small squares of paper and a pencil",
     "a candle (not lit), and wax crayons",
-    "a strip of sticky tape",
+    "a strip of clear sticky tape",
     "a pinch of chalk dust or dry soil",
-    "a cup of water"
+    "a cup of water and a spoon"
    ],
    "general": [
     "Rub candle wax thickly all over the tag. Water will bead up and roll off.",
     "Colour the tag hard all over with wax crayons, pressing firmly.",
-    "Cover the tag with clear sticky tape, so water can't soak in."
+    "Cover the tag with clear sticky tape, so water can't soak in. Test whether it stays clean too."
    ],
    "creative": [
     "Crumple the paper and flatten it before waxing, to give it tiny bumps like a lotus leaf.",
     "Ask a grown-up to make a sooty Lotus Spoon, and compare how drops roll on it and on your tag.",
-    "Use a real chembu leaf as the tag, and scratch your name into it."
+    "Stick your name tag on a real chembu leaf and compare how drops roll on the leaf and on your tag."
    ],
    "your_turn": "Now design your own rain-proof tag. Draw it, make it, and test it against the plain paper tag.",
    "flow": [
@@ -2775,9 +2774,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Lean the tags on a book, tilted. 2. Sprinkle the same thin pinch of dust on each. 3. Dip your fingers in water and flick 10 sprinkles onto each tag. 4. Wait 1 minute and look.",
+     "do": "1. Lean the tags on a book, tilted. 2. Sprinkle the same thin pinch of dust on each. 3. With the spoon, drip 10 drops of water onto the top of each tag. 4. Wait 1 minute and look.",
      "say": "Same dust, same water, same tilt for every tag. That makes it fair. Now watch what the drops do.",
-     "kid": "Tilt the tags on a book. Sprinkle a little dust on each. Flick 10 sprinkles of water. Watch the drops!",
+     "kid": "Tilt the tags on a book. Sprinkle a little dust on each. Drip 10 drops of water onto the top of each. Watch the drops!",
      "ask": [
       {
        "q": "On which tag did the drops roll off and take the dust?",
@@ -2810,9 +2809,9 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Make a final tag with your best idea and tie it on a school bag or a plant pot. Check it after the next rain.",
-     "say": "Real inventions get tested in the real world. Let's check your tag after the next rain.",
-     "kid": "Make your best tag. Put it on your bag or a plant pot. Check it after it rains!",
+     "do": "Make a final tag with your best idea and tape it to a school bag or a plant pot. If it rains, check it afterwards.",
+     "say": "Real inventions get tested in the real world. Let's check your tag after the next rain, if it rains.",
+     "kid": "Make your best tag. Tape it on your bag or a plant pot. If it rains, check it afterwards!",
      "think": "The lotus leaf uses wax and tiny bumps. Your tag only has wax. What could give it bumps?"
     }
    ],
@@ -2838,8 +2837,8 @@
    "channel": "Harvard University",
    "youtube": "ngSLWpckhks",
    "mins": 4,
-   "why": "Shows scientists measuring air inside termite mounds, and how mounds breathe with the day, for the termite mound cards and the ice experiment.",
-   "check": "Id copied from the Animals around us unit (sci.animals.animals-around-us.L3), where it was found by YouTube search and its title checked automatically. Not opened from here: a parent should preview it."
+   "why": "Shows scientists studying termite mounds, and how the mounds inspired buildings that stay cooler, for the termite mound cards and the ice experiment.",
+   "check": "Title and channel confirmed on YouTube."
   },
   {
    "title": "How a kingfisher helped reshape Japan's bullet train",
@@ -2847,7 +2846,7 @@
    "youtube": "YVU6YBPaaB8",
    "mins": 5,
    "why": "Shows a kingfisher diving in slow motion next to the 500 Series Shinkansen nose, for the story and the splash experiment.",
-   "check": "Found by YouTube search: \"How a kingfisher helped reshape Japan's bullet train - BBC News\" by BBC News. Title checked automatically; a parent may still preview it."
+   "check": "Title and channel confirmed on YouTube."
   },
   {
    "title": "How Do Geckos Stick to Walls? The Science of Van der Waals Forces",
@@ -2855,7 +2854,7 @@
    "youtube": "6K7_qx4aRUI",
    "mins": 5,
    "why": "Shows gecko toes up close, the tiny hairs under a microscope, and gecko-inspired grippers, which children cannot see at home.",
-   "check": "Found by YouTube search: \"How Do Geckos Stick to Walls? The Science of Van der Waals Forces\" by Clear Cut, Big Science. Title checked automatically; a parent may still preview it."
+   "check": "Title and channel confirmed on YouTube."
   }
  ],
  "quiz": [
@@ -3179,7 +3178,7 @@
    "art": "An earthen pot with a damp outside, beads of water on it."
   },
   {
-   "text": "A honeycomb on a tree or under a balcony, with its six-sided cells.",
+   "text": "A honeycomb hanging from a tree or under a balcony, with six-sided cells.",
    "art": "A honeycomb hanging from a branch."
   }
  ],
@@ -3225,8 +3224,6 @@
   "If you could copy one animal's design for your school bag, which would it be?",
   "Why are the noses of fast trains so long and pointed?",
   "How does a clay water pot keep water cool, without electricity?",
-  "Is a bullet train natural or man-made?",
-  "Who should get the credit for Velcro: the burr, the dog or the inventor?",
   "Which problem in our home could nature help us solve?",
   "What would you have to look at very closely to find nature's next design?"
  ],
@@ -3240,80 +3237,24 @@
    "a": "I'm so attached to you."
   },
   {
-   "j": "Why are lotus leaves never embarrassed?",
-   "a": "Nothing ever sticks to them."
-  },
-  {
    "j": "Why did the gecko never fall off the ceiling?",
-   "a": "It had a good grip on the situation."
-  },
-  {
-   "j": "What is a kingfisher's favourite train?",
-   "a": "The beak-express."
+   "a": "She had a good grip on things."
   },
   {
    "j": "Why did the termite mound stay so calm?",
    "a": "It always kept its cool."
   },
   {
-   "j": "What did the inventor say to the burr?",
-   "a": "Thanks for the hooks!"
-  },
-  {
    "j": "Why did the raindrop leave the lotus leaf?",
    "a": "It was on a roll."
-  },
-  {
-   "j": "Why do geckos love climbing walls?",
-   "a": "They are always up for it."
-  },
-  {
-   "j": "Why did the bullet train go to bird school?",
-   "a": "To learn how to make a quiet entrance."
-  },
-  {
-   "j": "Why don't burrs get lost?",
-   "a": "They always stick with the group."
   },
   {
    "j": "What did the owl say to the noisy train?",
    "a": "Whooo needs all that noise?"
   },
   {
-   "j": "Why was the Velcro so good at football?",
-   "a": "The ball always stuck to its feet."
-  },
-  {
-   "j": "What did one honeybee say to the other about their home?",
-   "a": "It's six-sided, and it's sweet."
-  },
-  {
-   "j": "Why did the gecko become a teacher?",
-   "a": "It was great at sticking to the plan."
-  },
-  {
-   "j": "How does a lotus leaf take a bath?",
-   "a": "It just lets the rain roll by."
-  },
-  {
-   "j": "Why are termites good builders?",
-   "a": "They really dig their work."
-  },
-  {
-   "j": "What did the dough beak say to the dough pancake?",
-   "a": "You make such a splash."
-  },
-  {
-   "j": "Why did the inventor copy the kingfisher?",
+   "j": "Why did the inventor copy the kingfisher's beak?",
    "a": "It had a very good point."
-  },
-  {
-   "j": "What's a gecko's favourite type of music?",
-   "a": "Anything with a good hook."
-  },
-  {
-   "j": "Why did the clay pot never get angry in summer?",
-   "a": "It knew how to stay cool."
   },
   {
    "j": "Why did the sock come home from the walk so proud?",
@@ -3321,7 +3262,7 @@
   },
   {
    "j": "Why did the kingfisher get such good marks?",
-   "a": "It always dived straight into its work."
+   "a": "They always dived straight into their work."
   },
   {
    "j": "Why did the paperclip become a hook?",
@@ -3555,18 +3496,6 @@
     "a1",
     "a2",
     "e1"
-   ],
-   "plan": "Used again in the plant, animal and materials units."
-  },
-  {
-   "id": "b-velcro",
-   "item": "Velcro (hook and loop) strips",
-   "kind": "material",
-   "why": "To look at hooks and loops up close, and to use in your own inventions.",
-   "url": "https://www.amazon.in/s?k=hook+and+loop+tape+strips",
-   "used_in": [
-    "a2",
-    "p1"
    ]
   },
   {
@@ -3599,28 +3528,6 @@
    "used_in": [
     "a4"
    ]
-  },
-  {
-   "id": "b-book1",
-   "item": "Nature Did It First: Engineering Through Biomimicry, by Karen Ansberry, illustrated by Jennifer DiRubbio",
-   "kind": "book",
-   "why": "A picture book that pairs poems about animals with the inventions they inspired, for ages 6 to 10.",
-   "url": "https://www.amazon.in/s?k=Nature+Did+It+First+Karen+Ansberry",
-   "used_in": [
-    "g1"
-   ],
-   "plan": "If bought, read one animal and invention pair at the start of each day of the unit, before the warm-up game."
-  },
-  {
-   "id": "b-book2",
-   "item": "Biomimicry: Inventions Inspired by Nature, by Dora Lee, illustrated by Margot Thompson",
-   "kind": "book",
-   "why": "A clear book with many real examples of biomimicry, for ages 8 to 12.",
-   "url": "https://www.amazon.in/s?k=Biomimicry+Inventions+Inspired+by+Nature+Dora+Lee",
-   "used_in": [
-    "p1"
-   ],
-   "plan": "If bought, use it on day 1 of the My Nature Invention project to find a living thing with the right design."
   }
  ],
  "warmup": [
@@ -3721,7 +3628,7 @@
    "e1",
    "e2",
    "e3",
-   "a1",
+   "a2",
    "a6",
    "c1"
   ],
@@ -3791,7 +3698,7 @@
    },
    {
     "source": "Thich Nhat Hanh, The Heart of Understanding (1988), on 'interbeing'",
-    "teaching": "Look deeply at a sheet of paper and you can see the cloud, the rain and the tree inside it. Nothing exists all by itself.",
+    "teaching": "Look deeply at a sheet of paper and you can see the cloud, the rain and the tree inside the paper. Nothing exists all by itself.",
     "link": "Look deeply at a Velcro strap and you can see the burdock plant, the dog that carried their burrs, and the engineer who looked closely. The invention is made of all of them."
    }
   ],
@@ -3816,8 +3723,8 @@
    "kid": "Put one drop on a leaf. Hold still and breathe in. Tilt it slowly and breathe out as the drop rolls. Is the leaf still dry?"
   },
   "ask": [
-   "Is a bullet train natural or man-made? Where would you draw the line?",
-   "If a burdock plant gave us Velcro, who should get the credit: the plant, the dog or the engineer?",
+   "Nobody wiped the chembu leaf, yet the rolling drops cleaned it. What did the cleaning?",
+   "A kingfisher's answer to a problem also worked for a train. Why can one answer work for two such different things?",
    "A burdock never saw a microscope, yet their hooks work very well. Is knowing why something works the same as being able to do it?"
   ],
   "art": "A child holding a lotus leaf with one silver drop rolling across it, a kingfisher and a bullet train reflected in the drop."

@@ -108,7 +108,7 @@ In 1915, Albert Einstein worked out that gravity bends the paths of light. Light
 ### Living lenses: eyes, fish and archerfish · *defined*
 **Definition:** Animal eyes use lenses to bend light into a sharp picture. Animals that hunt across the water's surface have ways to deal with the bend.
 
-The clear front of your eye, the cornea, does most of the bending. The lens inside your eye does the fine focusing, by getting fatter or thinner. Under water, the cornea hardly bends light, because the eye and the water slow light by about the same amount. So fish have almost perfectly round lenses, which bend light strongly. The four-eyed fish of South America swims with their eyes half in and half out of the water. Each eye has two pupils, one looking up into the air and one looking down into the water. Each lens is shaped like an egg, so it can focus both views at once. The archerfish, found in mangroves including the Sundarbans, spits a jet of water at insects on leaves above the water. Scientists found that they aim correctly even though the bend at the surface moves the insect's picture. Pied kingfishers often hover and then dive almost straight down. Seen from straight above, the fish is right below where they seem to be, only a little deeper.
+The clear front of your eye, the cornea, does most of the bending. The lens inside your eye does the fine focusing, by getting fatter or thinner. Under water, the cornea hardly bends light, because the eye and the water slow light by about the same amount. So fish have almost perfectly round lenses, which bend light strongly. The four-eyed fish of South America swims with their eyes half in and half out of the water. Each eye has two pupils, one looking up into the air and one looking down into the water. Each lens is shaped like an egg, so it can focus both views at once. The archerfish, found in mangroves including the Sundarbans, spits a jet of water at insects on leaves above the water. Scientists found that they aim correctly even though the bend at the surface moves the insect's picture. Pied kingfishers often hover and then dive almost straight down. Seen from straight above, the fish is right below the spot the kingfisher sees, only a little deeper.
 - e.g. When you go swimming without goggles, everything looks blurry. Your cornea cannot bend light properly when water touches it.
 - e.g. An archerfish can knock an insect off a leaf with a jet of water from below the surface.
 - e.g. A kingfisher on a wire over a paddy field dives almost straight down onto a fish.
@@ -185,21 +185,18 @@ One straight pencil looks broken from the side, almost straight from above, and 
 - Science (settled): Gravity bends light from far galaxies, so astronomers see some galaxies stretched, doubled or in rings, not as they would look without the bend.
 - Other view, The Nyaya school of Indian philosophy, and many scientists today: The world is real, just as it is, and our senses really can know it. The broken pencil is only a mistake of the senses, which we can find and fix by checking. Nothing deeper is hiding behind it. That is an honest view, and it is how science works too.
 - Practice, Two ways at once (3 min): Put your finger into a glass of water and look at it from the side. It looks fat and broken. Now close your eyes. Feel your finger in the water. It feels whole. Breathe in slowly, and out slowly, three times. Open your eyes and look again. It still looks broken. But you know it is whole. Just notice both, at the same time, without choosing.
-- Ask: If your eyes can be fooled by water, what else might they be fooling you about?
 - Ask: Is the broken pencil you see 'false', or is it a true picture of the light?
 - Ask: Can two people see the same thing differently, and both be right?
 - Ask: Is the break in the pencil, in the light, or in your eyes?
 
 ## Deep and big questions
-- *deep:* If your eyes say the pencil is broken and your hands say it is straight, how do you decide which to believe? (hint: What happens when you use more than one sense, or look from a different place?)
 - *deep:* Why does light slow down in water? Does it get tired? (hint: Think about the marching line stepping onto the mattress. What is inside water that light has to pass through?)
-- *deep:* A fish under the water looks up at you. Do they see you where you really are? (hint: Light from you bends too, as it goes into the water.)
+- *deep:* A fish under the water looks up at you. Does the fish see you where you really are? (hint: Light from you bends too, as it goes into the water.)
 - *big:* Does a magnifying glass show you more of the truth, or does it trick you? (hint: The ant looks bigger than in real life. But you can see their legs that you could not see before.)
 - *big:* We see the Sun after it has set. What else might we be seeing that is not quite where it looks? (hint: Think about the stars, and the far galaxies bent by gravity.)
 - *big:* Is a picture of you in a phone camera really you? (hint: The lens only bends light that came from you. What is the picture made of?)
 - *big:* If everyone in the world wore the same tinted lens all their lives, would they ever know the world looked different? (hint: How do you find out about something that is always there?)
 - *big:* Spectacles help millions of people read and work. Who do you think gets spectacles easily, and who does not? (hint: Think about cost, and how far away an eye doctor might be.)
-- *deep:* Why does a small, round drop magnify more than a big, flat puddle? (hint: Which one is more curved? What does the curve do to the light?)
 
 ## Story: The Kingfisher Who Kept Missing
 *Pied kingfishers are real. They live across India, and they really do hover over water and dive almost straight down. Fishers really do learn to aim below where a fish appears. The kingfisher Chhaya, the girl Mitali, her grandmother and everything that happens to them are made up. Scientists are still studying how much diving birds learn about the bend, and how much they are born knowing.*
@@ -210,13 +207,13 @@ My mother could hang in the air above the water as if the sky were holding her u
 
 My name is Chhaya. It means shadow. I think my mother chose it because I was always close behind her. But that summer, the summer I had to learn to feed myself, I did not feel like her shadow. I felt like her opposite.
 
-Here is what I did. I sat on the wire, low over the water, where I could see the fish quite well. I chose one. The fish hung there, close to the top, slow and silver, so easy. I looked at them with both eyes and I dived, a long, beautiful slanting dive, like an arrow from a bow.
+Here is what I did. I sat on the wire, low over the water, where I could see the fish quite well. I chose one. The fish hung there, close to the top, slow and silver, so easy. I looked at the fish with both eyes and I dived, a long, beautiful slanting dive, like an arrow from a bow.
 
-And I hit the water, and I opened my beak, and there was nothing. Every time. The fish was always a little lower than I aimed, and a little further away. They would flick their tail and vanish into the green. I would come up with water up my nose and river weed on my head, and the crows on the bank would laugh their ugly laugh.
+And I hit the water, and I opened my beak, and there was nothing. Every time. The fish was always a little lower than I aimed, and a little further away. With a flick of the tail, the fish would vanish into the green. I would come up with water up my nose and river weed on my head, and the crows on the bank would laugh their ugly laugh.
 
 On the ghat steps below my wire, a girl came every morning with her grandmother. The girl was called Mitali, and she had a small net on a bamboo pole. The grandmother had a very old basket and very sharp eyes. They fished for little puti fish for the evening curry. And I saw that Mitali missed too.
 
-She would see a fish, swing her net at them, and catch only water. She stamped her foot on the wet step. 'They move,' she said. 'They see me coming and they move.'
+She would see a fish, swing her net at the fish, and catch only water. She stamped her foot on the wet step. 'They move,' she said. 'They see me coming and they move.'
 
 Her grandmother laughed, not unkindly. 'They do not move, Mitali. They were never there.'
 
@@ -230,7 +227,7 @@ The grandmother pulled it out. It was straight. She put it in again. Broken. Out
 
 'Then how do you ever catch anything?' said Mitali.
 
-'Two ways,' said the grandmother. 'When you are looking at a slant, aim lower than the fish, below where they seem to be. Your hands learn it, slowly. Or else...' and she leaned right out over the step, and looked down, straight down, at her own feet in the water. 'Look from straight above. When you look straight down, the light comes straight up and does not turn its corner. The fish is right below you, where they seem to be, only a little deeper.'
+'Two ways,' said the grandmother. 'When you are looking at a slant, aim lower than the fish, below the spot where the fish seems to be. Your hands learn it, slowly. Or else...' and she leaned right out over the step, and looked down, straight down, at her own feet in the water. 'Look from straight above. When you look straight down, the light comes straight up and does not turn its corner. The fish is right below you, only a little deeper than the water shows.'
 
 She stood the stick upright in the water, right under her eyes. 'Come and look from here,' she said. Mitali leaned over and looked straight down along it. This time it did not look broken at all. It went into the water like a finger into milk, straight all the way.
 
@@ -242,11 +239,11 @@ I had thought her hovering was showing off. It was the whole secret.
 
 The next morning I did not sit on the wire. I flew out over the deep water and I tried to hover. It is very hard. You must beat your wings fast enough to stay still, which sounds impossible, but it is not. I wobbled. I sank. I flapped harder and rose too high. The crows laughed. Mitali, on the step, pointed up at me and laughed too, but it was a different laugh. Her grandmother shaded her eyes and watched me.
 
-At last I found the trick of it. The wind came up the river, and I leaned into it, and my head stayed still. Below me, a fish hung in the green. I did not dive at a slant. I waited until I was right above them. Then I folded, and dropped, straight as a stone down a well.
+At last I found the trick of it. The wind came up the river, and I leaned into it, and my head stayed still. Below me, a fish hung in the green. I did not dive at a slant. I waited until I was right above the fish. Then I folded, and dropped, straight as a stone down a well.
 
 Cold water. A flick of silver. And then a weight in my beak, wriggling, real.
 
-I flew back to the wire with my first fish. I banged my fish on the wire, the way my mother does, and I gulped them down. It was the best meal I have ever eaten, and it was very small.
+I flew back to the wire with my first fish. I banged my fish on the wire, the way my mother does, and I gulped the fish down. It was the best meal I have ever eaten, and it was very small.
 
 On the step below, Mitali was standing very still, right on the edge, looking straight down at her feet. She lowered her net slowly, straight down, upright, beside her toes. When she lifted the net, a puti fish was jumping inside, bright as a coin.
 
@@ -254,7 +251,7 @@ Her grandmother did not say anything. She just tapped her stick twice on the ste
 
 Mitali looked up at me. I looked down at her. We had both learned the same thing in the same morning, and neither of us could have told the other about it. Then she laughed, and I flew up into the wind to hover again.
 
-**For the parent:** For the parent: the fish is never where they seem to be when you look at a slant, because light bends as it leaves the water. Your eyes follow the light straight back and see the fish higher and nearer than they really are. But light that leaves the water straight up does not bend. So looking from straight above, the fish is right below where they seem to be, only a little deeper. This may be one reason pied kingfishers hover and dive almost straight down. The grandmother's stick shows refraction: it looks broken when you look at it at a slant, and straight when you look down along it from above. The story also quietly honours knowledge carried by ordinary people, like a grandmother who fishes, long before anyone wrote it down.
+**For the parent:** For the parent: the fish is never where the fish seems to be when you look at a slant, because light bends as it leaves the water. Your eyes follow the light straight back and see the fish higher and nearer than the fish really is. But light that leaves the water straight up does not bend. So looking from straight above, the fish is right below the spot you see, only a little deeper. This may be one reason pied kingfishers hover and dive almost straight down. The grandmother's stick shows refraction: it looks broken when you look at it at a slant, and straight when you look down along it from above.
 
 - Ask: Why did Chhaya keep missing the fish when she dived from the wire at a slant?
 - Ask: What happened to the grandmother's stick when she pushed it into the water at a slant? And when she pushed it in straight down?
@@ -264,44 +261,44 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 
 ## Games
 ### g1 · Bent, Big or Neither? (20 min)
-- **rules:** Cut out the 24 cards. Shuffle them and put them in a pile, face down.; On your turn, take the top card and read it out loud.; Decide: is light being bent here, so things look moved or broken? Is it being bent to make things look bigger? Or is light not bending at all? Put the card on the BENT, BIG or NEITHER mat.; Then say why, using the word 'bend' or 'straight'. A good reason wins one lens token.; If you draw a TEST IT card, everyone does the test together. The first person to explain the result wins two tokens.; When the cards run out, the player with the most tokens wins.
-- **Printable cards: 24 situation cards to cut out:** A straw in a glass of nimbu pani looks broken; A fish in the pond is not where they seem to be; Paati's reading spectacles make letters clear; Your legs look short in the swimming pool; A dew drop on a leaf makes its veins look big; A watch-repair woman's eye lens; A coin in a bucket looks closer to the top; A phone camera takes a photo; The setting Sun looks squashed at the bottom; A shadow of your hand on the wall; Your face in a steel plate; Stars twinkle at night; A glass marble on a newspaper; A round fish bowl makes the fish look fat; A torch beam in a dark room; The temple tank looks shallow, but is deep; A microscope shows onion cells; A water bottle stretches a word; A kingfisher dives straight down; Galaxies bent into rings in space photos; TEST IT: put a spoon in a glass of water. Look from the side. What happens?; TEST IT: lay a clear plastic bag over a newspaper word. Put one drop of water on it. Look at the word.; TEST IT: look at your fingertip through a glass of water. Is it bigger or smaller?; TEST IT: put a pencil straight down into water, upright. Does it look broken?
+- **rules:** Cut out the 24 cards. Shuffle them and put them in a pile, face down. Have a glass of water, a spoon, a pencil, a clear plastic bag and a newspaper ready for the TEST IT cards.; On your turn, take the top card and read it out loud.; Decide: is light being bent here, so things look moved or broken? Is it being bent to make things look bigger? Or is light not bending at all? Put the card on the BENT, BIG or NEITHER mat.; Then say why, using the word 'bend' or 'straight'. If the others agree it is a good reason, you win one lens token. With two players, the grown-up decides.; If you draw a TEST IT card, everyone does the test together first. The first person to explain the result wins two tokens. Then put the card on a mat.; If the bowl of tokens runs out, keep score on paper.; When the cards run out, the player with the most tokens wins. If two players have the same number, they share the win.
+- **Printable cards: 24 situation cards to cut out:** A straw in a glass of nimbu pani looks broken; A fish in a pond is deeper and further away than the fish looks; Reading spectacles make letters clear; Your legs look short in the swimming pool; A dew drop on a leaf makes its veins look big; A watch repairer's small eye lens shows tiny screws; A coin in a bucket looks closer to the top; A magnifying glass makes an ant look big; The setting Sun looks squashed at the bottom; A shadow of your hand on the wall; Your face in a steel plate; Stars twinkle at night; A glass marble on a newspaper; A round fish bowl makes the fish look fat; A torch beam in a dark room; The temple tank looks shallow, but is deep; A microscope shows onion cells; A water bottle makes a word look stretched; A clean, flat window shows the garden just as it is; Galaxies bent into rings in space photos; TEST IT: put a spoon in a glass of water. Look from the side. What happens?; TEST IT: lay a clear plastic bag over a newspaper word. Put one drop of water on it. Look at the word.; TEST IT: look at your fingertip through a glass of water. Is it bigger or smaller?; TEST IT: put a pencil straight down into water, upright. Look from above. Does it look broken?
 - **Printable board: Three playing mats:** BENT: light bends, so things look moved or broken; BIG: a lens or drop bends light, so things look bigger; NEITHER: no bending of light here
-- **Printable tokens: 20 lens tokens (small paper circles):** 🔍
+- **Printable tokens: 20 lens tokens (small paper circles):** 🔍; 🔍; 🔍; 🔍; 🔍; 🔍; 🔍; 🔍; 🔍; 🔍; 🔍; 🔍; 🔍; 🔍; 🔍; 🔍; 🔍; 🔍; 🔍; 🔍
 - **s1 (2 min)**  
-  *Parent does:* 1. Lay the three mats on the floor: BENT, BIG and NEITHER. 2. Shuffle the 24 cards and put them face down. 3. Put the lens tokens in a bowl.  
+  *Parent does:* 1. Lay the three mats on the floor: BENT, BIG and NEITHER. 2. Shuffle the 24 cards and put them face down. 3. Put the lens tokens in a bowl. 4. Put the glass of water, spoon, pencil, plastic bag and newspaper where everyone can reach them.  
   *Parent says:* Every card shows a moment where we see something. For each one, we decide. Is light bending to make things look moved? Bending to make them look big? Or not bending at all?  
   *Child mode:* Put the three mats on the floor: BENT, BIG and NEITHER. Mix the cards. Put them face down.
 - **s2 (3 min)**  
   *Parent does:* Find the card 'A straw in a glass of nimbu pani looks broken'. Play it together as a practice round.  
   *Parent says:* Let's practise. 'A straw in a glass of nimbu pani looks broken.' Which mat?  
-  *Child mode:* Practice card: a straw in nimbu pani looks broken. Which mat? Tap your answer.
+  *Child mode:* Practice card: a straw in nimbu pani looks broken. Which mat?
   - Check: Practice card: a straw in a glass of nimbu pani looks broken. Which mat? → **BENT**
 - **s3 (10 min)**  
   *Parent does:* 1. Take turns. Each player draws a card, reads it and puts it on a mat. 2. They say why, using 'bend' or 'straight'. 3. Give one token for each good reason.  
   *Parent says:* When you put your card down, tell me why, using the word bend or straight.  
   *Child mode:* Take turns. Read your card. Put it on BENT, BIG or NEITHER. Say why. Each good reason wins a 🔍 token.
-  - Note: Tricky cards: the shadow, the face in a steel plate and the torch beam are NEITHER. A shadow is light blocked, and a steel plate bounces light back. Those belong to other units. Twinkling stars and the squashed Sun are BENT, by the air. The camera, microscope, spectacles, dew drop, marble, bottle and watch-repair lens are BIG, though the camera makes a small picture. The coin, the fish, the legs in the pool and the temple tank are BENT. The kingfisher card can go on BENT or NEITHER if the reason is good: they dive straight down, where the bend cannot fool them. Galaxies in rings are bent by gravity, not glass, so give a bonus token to anyone who says so.
+  - Note: Answers. BENT: the straw, the pond fish, the legs in the pool, the coin, the temple tank, the setting Sun and the twinkling stars (the air bends their light). The galaxies in rings also go on BENT, but gravity bends their light, not glass: give a bonus token to anyone who says so. BIG: spectacles, the dew drop, the watch repairer's lens, the magnifying glass, the microscope, the marble, the fish bowl and the bottle. NEITHER: the shadow (light blocked), the face in a steel plate (light bounces back), the torch beam and the flat window. TEST IT: the spoon is BENT, the drop on the bag is BIG, the fingertip is BIG, and the upright pencil is NEITHER, because from straight above the light hardly bends.
 - **s4 (3 min)**  
   *Parent does:* When a TEST IT card comes up, stop and do the test together. Everyone guesses first.  
   *Parent says:* Before we test it, everyone guess what will happen. Then we'll try it.  
   *Child mode:* A TEST IT card! First, guess what will happen. Then do the test. Were you right?
-  - Ask: One TEST IT card asks you to put a pencil straight down into water, upright. Why didn't it look broken? (good: The water makes the part under water look higher, straight up. An upright pencil still lines up, so it only looks shorter.; Looking from straight above, the light comes straight up and does not bend.)
+  - Ask: The last TEST IT card asks you to put a pencil straight down into water, upright, and look from above. Why didn't it look broken? (good: Looking from straight above, the light comes straight up and does not bend.; An upright pencil lines up with where you look, so it only looks a little shorter.)
 - **s5 (2 min)**  
   *Parent does:* Count tokens to find the winner. Then look at the BIG pile together.  
   *Parent says:* Look at the BIG pile. What do all of these have in common?  
   *Child mode:* Count your tokens. Who won? Look at the BIG pile. What shape are all those things?
   - Think: Every BIG thing is curved and see-through. Is there anything curved and see-through that does not magnify?
 ### g2 · Zoom Detective (20 min)
-- **rules:** The zoom master secretly picks a mystery card and finds that thing.; The zoom master covers the thing with a sheet of paper that has a small hole in it, so only a small part shows.; Players look only through the magnifying glass, one at a time. They may not touch.; Each player says one clue they see, then guesses what it is.; A right guess from the first clue wins 3 points, the second clue 2 points, the third clue 1 point.; After 4 rounds, the player with the most points wins.
-- **Printable cards: 16 mystery cards: things to look at closely:** a grain of salt; a grain of sugar; a strand of hair; a piece of cloth; a leaf; a fingertip; a currency note; a newspaper photo; a postage stamp; a sesame seed; a mustard seed; a feather; a piece of sponge; a grain of rice; a matchstick head; a piece of orange peel
+- **rules:** Cut out the 16 cards. Put aside the cards for things you do not have at home. Put the rest in a pile, face down.; One person is the zoom master. The zoom master picks a card in secret, finds that thing, and covers it with a sheet of paper that has a small hole in it, so only a small part shows.; The other players look through the magnifying glass at the small part, one at a time. They may not touch.; On your look, say one clue you see, then guess what it is. A right guess on the first look wins 3 points, on the second look 2 points, and on the third look 1 point.; After three looks, the zoom master shows the thing. If nobody guessed it, nobody scores.; The next person becomes the zoom master. Play 4 rounds. With two people, take turns being the zoom master. The most points wins. If you tie, you share the win.
+- **Printable cards: 16 mystery cards: things to look at closely:** a grain of salt; a grain of sugar; a strand of hair; a piece of cloth; a leaf; a fingertip; a currency note; a newspaper photo; a postage stamp; a sesame seed; a mustard seed; a feather; a piece of sponge; a grain of rice; a rubber band; a piece of orange peel
 - **Printable score sheet: Score sheet:** Player; Round 1; Round 2; Round 3; Round 4; Total
-- **s1 (3 min) · grown-up needed**  
-  *Parent does:* 1. Secretly choose a mystery card and find the thing. 2. Cover it with a paper that has a small hole in it, so only a small part shows. 3. Give players the magnifying glass.  
+- **s1 (3 min)**  
+  *Parent does:* 1. Cut out the cards and put them face down. 2. The zoom master secretly chooses a card and finds the thing. 3. Cover it with a paper that has a small hole in it, so only a small part shows. 4. Give the other players the magnifying glass.  
   *Parent says:* I've hidden a mystery thing. You can only look at it through the magnifying glass. Tell me what you see before you guess.  
   *Child mode:* A mystery thing is hidden. Look only through the lens. Say what you see. Then guess.
 - **s2 (12 min)**  
-  *Parent does:* Play 4 rounds. Each player looks, says a clue and guesses. Score on the sheet.  
+  *Parent does:* Play 4 rounds. Each round, the players look, say a clue and guess. Score on the sheet. Then the next person is zoom master.  
   *Parent says:* What can you see? Bumps, lines, colours, holes? Now guess.  
   *Child mode:* Look closely. Say one clue: bumps, lines, colours or holes. Then guess what it is.
   - Note: Good clues: 'tiny cubes' for salt, 'woven threads' for cloth, 'ridges' for a fingertip, 'tiny coloured dots' for a colour newspaper photo. Praise clear clues as much as right guesses.
@@ -309,31 +306,30 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   *Parent does:* At the end, look at one thing without the lens, then with it.  
   *Parent says:* Here is the salt grain without the lens. And now with it. Did the salt grain change?  
   *Child mode:* Look at the salt without the lens. Then with it. Did the salt change size?
-  - Check: In Zoom Detective, the salt grain looked much bigger through the magnifying glass. Why? → **The lens bent the light from the salt, so it looked bigger**
 
 ## Experiments
 ### e1 · The Broken Pencil: is it really bent? (25 min)
 - **question:** Does a pencil in water really bend, or does it only look bent? And does where you look from change how broken it looks?
 - **predict:** Before you start, guess. Will the pencil look broken from the side? From a slant? From straight above? Will it feel broken if you touch it under the water? Why do you think so?
 - **fair test:** To make it fair, use the same glass, the same pencil and the same amount of water each time. Only change one thing: where you look from. Then change only the liquid: no water, then water.
-- **safety:** If you use a glass tumbler, keep it in the middle of the table so it cannot be knocked off. Wipe up spills, so nobody slips.
+- **safety:** A glass tumbler can break, and the pieces are sharp. A plastic or steel tumbler is safer if you have one that is see-through.
 - **record:** Fill in the table. Then draw the pencil as it looked from the side, and as it really is.
 - **results table:** Where I looked from | Empty glass: broken or straight? | Glass of water: broken or straight? | How big was the jump? (none, small, big)
-- **s1 (3 min)**  
-  *Parent does:* 1. Put an empty clear glass on the table. 2. Stand a pencil in it, leaning against the side. 3. Ask your child to look from the side, at the level of the glass.  
+- **s1 (4 min)**  
+  *Parent does:* 1. Put an empty clear glass on the table. 2. Stand a pencil in it, leaning against the side. 3. Ask your child to look from the side, then from a slant, then from straight above. 4. Write each result in the empty-glass column of the table.  
   *Parent says:* Here is a pencil in an empty glass. Look at it from the side. Is it straight or broken?  
-  *Child mode:* Put a pencil in an empty glass. Let it lean. Look from the side. Is it straight?
+  *Child mode:* Put a pencil in an empty glass. Let it lean. Look from the side, from a slant and from above. Write what you see.
   - Ask: What do you see? (good: It looks straight.; It looks normal, the same as outside the glass.)
-- **s2 (3 min)**  
+- **s2 (2 min)**  
   *Parent does:* 1. Without moving the pencil, pour water into the glass until it is about three quarters full. 2. Ask your child to guess first, before looking.  
   *Parent says:* Now I'll pour in water. Before you look, guess. Will the pencil still look straight?  
   *Child mode:* Now pour water into the glass, about three quarters full. Guess first. Will the pencil still look straight?
 - **s3 (5 min)**  
-  *Parent does:* 1. Look from the side, at the level of the water. 2. Then look from a little above, at a slant. 3. Then look from straight above, down into the glass. 4. Write each result in the table.  
+  *Parent does:* 1. Look from the side, at the level of the water. 2. Then look from a little above, at a slant. 3. Then look from straight above, down into the glass. 4. Write each result in the water column of the table.  
   *Parent says:* Look from the side. Now from a slant. Now straight down from the top. Where does the pencil look most broken?  
   *Child mode:* Look from the side. Then from a slant. Then straight down from the top. Where does it look most broken? Write it in the table.
-  - Note: From the side, through the curved glass, the underwater part often looks fatter and jumps sideways. From a slant above the water, it looks bent upwards at the surface. From straight above, the break almost disappears. All three results are interesting. There is no wrong result.
-  - Check: In the broken-pencil test, where did the pencil look least broken? → **From straight above**
+  - Note: From the side, through the curved glass, the underwater part often looks fatter and jumps sideways. From a slant above the water, it looks bent upwards at the surface. From straight above, the break usually almost disappears. How big the jump is depends on your glass, so write down what you really see.
+  - Check: In the broken-pencil test, where does the pencil usually look least broken? → **From straight above**
 - **s4 (4 min)**  
   *Parent does:* 1. Ask your child to put a finger into the water and run it down the pencil. 2. Then pull the pencil out and look at it.  
   *Parent says:* Run your finger down the pencil, under the water. Does it feel broken? Now pull it out. Is it broken?  
@@ -354,7 +350,6 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 - **question:** Does a small drop of water or a big drop of water make letters look bigger?
 - **predict:** Before you start, guess. Will a tiny drop, a medium drop or a big drop make the letters under it look biggest? Why do you think so?
 - **fair test:** To make it fair, put all three drops on the same clear ruler, lying on the same newspaper. Only change the size of the drop. Make fresh drops and look 3 times, because one look can be a fluke.
-- **safety:** Water and plastic only. Wipe up spills so nobody slips.
 - **record:** Fill in the table for the tiny, medium and big drop. Then draw a bar for each drop, as tall as how many times taller it made the letters look.
 - **results table:** Drop | Try 1: how much bigger did the letters look? | Try 2 | Try 3 | About how many times taller (1, 1 and a half, or 2)
 - **s1 (4 min)**  
@@ -363,12 +358,12 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   *Child mode:* Lay the newspaper flat. Put the clear ruler on a line of small letters.
   - Note: The ruler holds each drop about 2 millimetres above the letters. That small gap lets a tiny drop magnify well. If the drops soak into paper, they stop being lenses, so always put them on the plastic.
 - **s2 (4 min)**  
-  *Parent does:* 1. Dip the tip of a toothpick in the water and touch it to the ruler. This leaves one tiny drop, about the size of a mustard seed. 2. Dip a straw in the water and put a finger over its top end. Lift your finger a little to let out one drop the size of a pea. 3. Let out several drops in one place to make a big drop, as wide as a one-rupee coin. Keep the drops well apart along the ruler.  
-  *Parent says:* Let's make three drops. A tiny one like a mustard seed, a medium one like a pea, and a big one like a coin. Which do you think will make the letters look biggest? Why do you think so?  
-  *Child mode:* Make three drops on the ruler. One tiny, like a mustard seed. One like a pea. One big, like a coin. Guess first.
+  *Parent does:* 1. Dip the tip of a toothpick in the water and touch it to the ruler. This leaves one tiny drop, about the size of a mustard seed. 2. Dip a straw in the water and put a finger over its top end. Lift your finger a little to let out one drop the size of a pea. 3. Let out several drops in one place to make a big drop, as wide as your little fingernail. Keep the drops well apart along the ruler.  
+  *Parent says:* Let's make three drops. One is tiny, like a mustard seed. One is like a pea. One is big, as wide as your little fingernail. Which will make the letters look biggest? Why do you think so?  
+  *Child mode:* Make three drops on the ruler. One tiny, like a mustard seed. One like a pea. One big, as wide as your little fingernail. Guess first.
   - Ask: Why did you choose that drop? (good: The big one, because it has more water.; The tiny one, because it is rounder.)
   - Note: Most children guess the big drop, because it has more water. That is a good guess to test. Write the guess and the reason down before you look.
-- **s3 (12 min)**  
+- **s3 (10 min)**  
   *Parent does:* 1. Look straight down through each drop, one at a time. 2. Compare a letter inside the drop with the same size of letter just beside it. 3. Decide: does it look the same, a bit bigger, or about twice as tall? 4. Write it in the table. 5. Wipe the ruler, make three fresh drops and look again. Do this 3 times.  
   *Parent says:* Look through the tiny drop. Now look at the letters just beside it. Does the letter inside look the same, a bit bigger, or twice as tall?  
   *Child mode:* Look through each drop. Look at the letters beside it too. Which look bigger? Write it down.
@@ -387,12 +382,11 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Now say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: small, round drops magnify more than big, flat drops. What I saw: through the tiny drop, the letters looked about twice as tall, all 3 times. Through the big drop they looked almost the same. Why: the tiny drop is more curved, so it bends the light more.
+  - Note: What I think: small, round drops magnify more than big, flat drops. What I saw: through the tiny drop, the letters looked about twice as tall, all 3 times. Through the big drop they looked almost the same. Why: the tiny drop is more curved, so it bends the light more.
 ### e3 · The Appearing Coin (20 min)
 - **question:** Can water make a hidden coin appear, without moving the coin or your eyes?
 - **predict:** Before you start, guess. When water is poured into the cup, will the hidden coin stay hidden, or will you see it? Why do you think so?
 - **fair test:** To make it fair, keep the coin, the cup and your head exactly where they are. Rest your chin on a pile of books so your head does not move. Only change one thing: water or no water.
-- **safety:** Water only. Pour slowly so the coin does not move. Wipe up spills.
 - **record:** Fill in the table. Draw the cup from the side, with the path of the light from the coin to your eye, with and without water.
 - **results table:** What was in the cup | Could I see the coin? (yes, no, a little)
 - **s1 (4 min)**  
@@ -418,11 +412,10 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Now say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: water can make a hidden coin appear by bending its light. What I saw: with no water I could not see the coin. With water, the coin came into view, but it had not moved. Why: light from the coin bends at the top of the water, over the edge of the cup, and into my eye.
+  - Note: What I think: water can make a hidden coin appear by bending its light. What I saw: with no water I could not see the coin. With water, the coin came into view, but it had not moved. Why: light from the coin bends at the top of the water, over the edge of the cup, and into my eye.
 
 ## Activities
 ### a1 · Look Through Water: three strange things (10 min)
-- **safety:** Keep the glass in the middle of the table. Wipe up spills.
 - **record:** Draw the strangest thing you saw. Write one thing you wonder about it.
 - **s1 (3 min)**  
   *Parent does:* 1. Draw a fat arrow pointing left on a paper. 2. Hold it behind the glass of water, close to the glass. 3. Then slowly move the paper back, away from the glass, while your child watches through the glass.  
@@ -477,7 +470,6 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   - Ask: What is strange about the picture? (good: It is upside down.; It is small.; Left and right are swapped too.)
   - Check: When you caught a picture of a bright window on paper with a magnifying glass, which way up was it? → **Upside down**
 ### a4 · March Like Light (act it out) (15 min)
-- **safety:** Walk slowly and do not pull each other over. Clear the floor of toys first.
 - **record:** Draw the line of people from above, before and after the mattress, with arrows showing which way they walked.
 - **s1 (4 min)**  
   *Parent does:* 1. Stand in a line, side by side, holding hands. 2. Face the mattress straight on. 3. March forward, taking big quick steps on the floor and tiny slow steps once on the mattress.  
@@ -488,7 +480,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   *Parent does:* 1. Go back. This time, face the mattress at a slant, so the person at one end will reach it first. 2. March again: fast on the floor, slow on the mattress. 3. Keep holding hands.  
   *Parent says:* Now let's march at the mattress at a slant. The person at this end will reach it first. Watch what happens to our line.  
   *Child mode:* Now march at the mattress at a slant. One end reaches it first. Keep holding hands. What happens to the line?
-  - Note: The first person on the mattress slows down, while the others are still fast. So the line swings round and changes direction. That is exactly how light turns at the edge of water. If you have no helpers, roll two toy cars, joined by a taped pencil, at a slant from the floor onto a towel. The first wheel to hit the towel slows, and the cars turn.
+  - Note: The first person on the mattress slows down, while the others are still fast. So the line swings round and changes direction. That is exactly how light turns at the edge of water. With only two people, hold hands and walk side by side: one of you reaches the mattress first. Or roll two toy cars, joined by a taped pencil, at a slant from the floor onto a towel. The first wheel to hit the towel slows, and the cars turn.
   - Check: In the 'march like light' game, why did the line turn when it marched onto the mattress at a slant? → **One end slowed down first, so the line swung round**
 - **s3 (6 min)**  
   *Parent does:* Ask your child to draw the march from above: the floor, the mattress edge, the line before and after, with arrows.  
@@ -504,13 +496,13 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   *Child mode:* Lay the bottle down. Look at your name through it. A grown-up moves the card back slowly. What happens?
   - Note: Close up, the word looks tall, stretched up and down. Further away, it flips upside down. A bottle lying down bends light only up and down, not side to side. So the letters flip top to bottom, but not left to right.
 - **s2 (6 min)**  
-  *Parent does:* 1. Do the same with the words KID, BOX and CHOICE, written in capital letters. 2. Hold the bottle standing upright this time, and look again.  
+  *Parent does:* 1. With the bottle lying down, look at the words KID, BOX and CHOICE, written in capital letters. 2. Then stand the bottle upright and look again.  
   *Parent says:* Try the word BOX. Then KID. Which ones look the same when they flip? Why do you think that is?  
   *Child mode:* Try BOX, KID and CHOICE. Which words look the same after they flip? Try the bottle standing up too.
   - Ask: Why does BOX look the same when the bottle flips it? (good: Because B, O and X look the same flipped top to bottom.; The top half and bottom half of those letters match.)
   - Note: With the bottle lying down, it flips words top to bottom. Words like BOX, CHOICE and KID look the same flipped top to bottom, because B, O, X, C, H, I, E, K and D are the same top and bottom. With the bottle standing up, it flips left to right, and other words survive, like TOOT. Let your child explore. This is a puzzle, not a test.
 - **s3 (5 min)**  
-  *Parent does:* Put a glass marble on a newspaper. Look at the words under it from above.  
+  *Parent does:* If you have a glass marble, put it on a newspaper. Look at the words under it from above. If you have no marble, skip this step.  
   *Parent says:* This marble is a tiny round lens. Look at the newspaper through it. Is it a stronger or weaker magnifier than the bottle?  
   *Child mode:* Put a marble on the newspaper. Look through it. Does it make letters bigger than the bottle does?
   - Check: A round glass marble and a big round water bottle are both lenses. Which one bends light more sharply? → **The small marble, because it is more curved**
@@ -526,18 +518,18 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   *Parent says:* When the light is exactly behind the middle of the glass, what shape does it make? And when it is a little to one side?  
   *Child mode:* Watch closely. When the light is behind the middle, what shape do you see? And when it is to one side?
   - Ask: What shapes did you see? (good: A ring of light.; Curved lines, like bananas or eyebrows.; Two little lights instead of one.)
-  - Note: Exactly in line, the light spreads into a bright ring. A little to one side, it becomes one or two bright curved arcs. Space telescopes photograph exactly these shapes. They are called Einstein rings and arcs. In space, the 'glass' is the gravity of a huge galaxy or cluster of galaxies, bending light from galaxies far behind it.
+  - Note: Exactly in line, the light spreads into a bright ring. A little to one side, it becomes one or two bright curved arcs. How clear the ring is depends on your glass. If you only see a smudge, go on to the next step. Space telescopes photograph exactly these shapes. They are called Einstein rings and arcs. In space, the 'glass' is the gravity of a huge galaxy or cluster of galaxies, bending light from galaxies far behind it.
 - **s3 (5 min)**  
-  *Parent does:* Show your child a photograph of a gravitational lens, for example from the Hubble or James Webb telescope websites, and compare.  
+  *Parent does:* Show your child a photograph of a gravitational lens, from the NASA Hubble link in this unit or the Einstein ring video. Compare it with the glass.  
   *Parent says:* This is a real photo from a space telescope. The bright arcs are a galaxy far behind. Its light was bent by the gravity of the galaxies in front. Do you see the same shapes as in our glass?  
   *Child mode:* Look at the space photo. Find the bright arcs. Do they look like your glass shapes? In space, gravity bends the light.
   - Check: The wine glass bent the torch light into rings and arcs. In space, what bends the light of far galaxies into rings and arcs? → **The gravity of huge clusters of galaxies**
 
 ## Projects
 ### p1 · Make a Leeuwenhoek Drop Microscope (60 min, 2 days)
-- **safety:** A grown-up cuts the card and makes the hole in the foil. Look at things near a window or a lamp, never at the Sun. Wash hands after touching old vase water.
-- **record:** Draw a hair, the onion skin and the vase water as you saw them through the drop. Under each, write which showed more: the tiny drop or the magnifying glass.
-- **schedule:** day 1: Make the drop microscope. Test it on a hair and on newspaper print. (30 min); day 2: Look at onion skin and a drop of old flower-vase water. Draw what you see and compare it with the magnifying glass. (30 min)
+- **safety:** A grown-up cuts the card and makes the hole in the foil. Look at things near a window or a lamp, never at the Sun.
+- **record:** Draw a hair and the onion skin as you saw them through the drop. Under each, write which showed more: the tiny drop or the magnifying glass.
+- **schedule:** day 1: Make the drop microscope. Test it on a hair and on newspaper print. (30 min); day 2: Look at onion skin under the drop. Draw what you see and compare it with the magnifying glass. (30 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Cut a hole about 1 cm wide near one end of the card strip. 2. Tape a piece of foil over the hole. 3. Push the sharp pencil point through the middle of the foil, to make a round hole about 2 to 3 millimetres wide.  
   *Parent says:* We are going to make a microscope like Antonie van Leeuwenhoek's, about 350 years ago. His lenses were tiny glass beads. Ours will be a tiny drop of water.  
@@ -553,51 +545,50 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
   - Note: The view is small and wobbly, but strongly magnified. A tiny drop may make things look 5 to 10 times bigger. Patience helps. Rest your elbows on the table.
   - Wait: Do the next steps tomorrow.
 - **s4 (15 min)**  
-  *Parent does:* 1. Next day, peel a thin skin from inside an onion layer. 2. Lay it under the drop. 3. Then put a drop of old flower-vase water on a clear plastic sheet, and look at it under the drop.  
+  *Parent does:* 1. Next day, peel a thin skin from inside an onion layer. 2. Lay it under the drop. 3. Look closely.  
   *Parent says:* Yesterday we tested our microscope. Today let's look at a living thing's skin, from an onion. Can you see small boxes? Those are cells.  
   *Child mode:* Put a thin onion skin under the drop. Look closely. Can you see tiny boxes? Those are called cells.
-  - Note: Onion skin cells look like a wall of tiny bricks. In old vase water, you may see small green specks or moving dots. A water-drop microscope may not show them clearly, so a phone camera held to the drop sometimes helps. Do not worry if they are hard to see. Leeuwenhoek's best glass beads were much stronger than a water drop.
+  - Note: Onion skin cells look like a wall of tiny bricks. A thin skin and a bright window help. A water-drop microscope is too weak to show living things in pond water. Leeuwenhoek's glass beads were much stronger.
 - **s5 (5 min)**  
   *Parent does:* Ask your child to compare the drop with the magnifying glass on the same onion skin.  
   *Parent says:* Look at the onion skin with the magnifying glass. Then with our drop. Which shows more? Which is easier to use?  
   *Child mode:* Look with the magnifying glass. Then with your drop. Which shows more? Which is easier?
-  - Check: In the drop microscope project, why did the tiny water drop magnify more than the big magnifying glass? → **The drop is much more curved, so it bends light more**
+  - Check: In the drop microscope project, why can a tiny water drop magnify more than a big magnifying glass? → **The drop is much more curved, so it bends light more**
 - **s6 (10 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Now say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a tiny drop of water can work as a strong microscope. What I saw: through the drop, a hair looked as thick as a string, and onion skin looked like tiny bricks. Why: the tiny drop is very round, so it bends light sharply, like Leeuwenhoek's glass beads.
+  - Note: What I think: a tiny drop of water can work as a strong microscope. What I saw: through the drop, a hair looked as thick as a string, and onion skin looked like tiny bricks. Why: the tiny drop is very round, so it bends light sharply, like Leeuwenhoek's glass beads.
 
 ## Challenges
 ### c1 · Read the Tiny Print (25 min)
-- **problem:** Paati has lost her reading spectacles, and the medicine bottle has tiny writing. Your job is to make something that helps her read it, without using a magnifying glass or spectacles.
+- **problem:** Someone has lost their reading spectacles, and the medicine bottle has tiny writing. Your job is to make something that helps them read it, without using a magnifying glass or spectacles.
 - **your turn:** Now invent your own magnifier. Draw it, and test it on the tiny print. Can you read every word now? Is it better than the others?
-- **constraints:** You cannot use a magnifying glass, spectacles or a phone camera.; You can only use things you find at home.; It must make the letters look clearly bigger, so Paati can read them.
+- **constraints:** You cannot use a magnifying glass, spectacles or a phone camera.; You can only use things you find at home.; It must make the letters look clearly bigger, so the reader can read them.
 - **general:** Put a drop of water on a piece of clear plastic and hold it over the words.; Look through a round glass or bottle of water.; Place a clear glass marble right on the print.
-- **creative:** Stretch cling film over the top of a clear glass tumbler. Press the middle down a little and pour a spoon of water into the dip. Put the tiny print under the glass and look down through the water. The curved pool of water works like a lens.; Try a drop of cooking oil instead of water. Oil bends light a little more than water.; Make a tiny pinhole in a card and look at the print through it, very close. It works without bending light at all. Why does it help a little?
+- **creative:** Stretch cling film over the top of a clear glass tumbler. Press the middle down a little and pour a spoon of water into the dip. Put the tiny print under the glass and look down through the water. The curved pool of water works like a lens.; Try a drop of cooking oil instead of water. Oil bends light a little more than water.; Make a tiny pinhole in a card and look at the print through it, very close. It works without bending light. The hole lets through only a thin beam from each letter, so the blur is small and the print looks sharper.
 - **s1 (5 min)**  
   *Parent does:* 1. Show your child the tiny print. 2. Read out the challenge and the rules.  
-  *Parent says:* Here's a real problem. These words are too small for Paati to read. How could you make them look bigger, with no magnifying glass?  
+  *Parent says:* Here's a real problem. These words are too small to read. How could you make them look bigger, with no magnifying glass?  
   *Child mode:* These words are tiny. Make them look bigger. You can't use a magnifying glass. Think first.
 - **s2 (10 min)**  
   *Parent does:* Help your child test the usual ideas: a drop on plastic, a bottle of water, a marble.  
-  *Parent says:* Let's test some ideas. Which one makes the letters biggest? Which is easiest for Paati to use?  
+  *Parent says:* Let's test some ideas. Which one makes the letters biggest? Which is easiest for the reader to use?  
   *Child mode:* Test a water drop, a bottle and a marble. Which makes letters biggest? Which is easiest to hold?
 - **s3 (5 min)**  
   *Parent does:* Let your child try a creative idea, or invent one.  
   *Parent says:* Now let's try a surprising idea. Or invent your own.  
   *Child mode:* Try a creative idea. Or invent your own. Test it on the tiny print.
-  - Check: In the Read the Tiny Print challenge, which home-made magnifier would most likely make letters look biggest? → **A small, round drop of water on clear plastic**
 - **s4 (5 min)**  
-  *Parent does:* Ask your child which design they would give to Paati, and why.  
-  *Parent says:* Which design would you give Paati? Tell me why, using the word bend.  
-  *Child mode:* Which design would you give Paati? Say why. Use the word 'bend'.
+  *Parent does:* Ask your child which design they would give to the reader, and why.  
+  *Parent says:* Which design would you give the reader? Tell me why, using the word bend.  
+  *Child mode:* Which design would you give the reader? Say why. Use the word 'bend'.
 ### c2 · Spear the Coin (25 min)
 - **problem:** A coin lies at the bottom of a bucket of water. Like a fisher with a spear, you must aim a stick at it from one side, then push it in with your eyes closed. Then work out how to aim better.
 - **your turn:** Now invent your own way of aiming. Try it 5 times. Count your hits. Is it better than the others?
 - **constraints:** You must kneel to one side of the bucket and look at the coin at a slant, not from straight above.; Hold the stick just above the water, pointing along your line of sight, straight at the coin, like a spear. Then close your eyes and push it in the same direction until it touches the bottom.; You get 5 tries with an empty bucket, then 5 tries with water, before you change your way of aiming.
 - **general:** Aim a little below where the coin seems to be, so the stick goes in more steeply. The real coin is deeper than it looks.; Lean over and look from straight above before you aim, then push the stick straight down. Light that comes straight up does not bend.; Put the stick in with your eyes open, and slide it along the bottom until you see it touch the coin. The stick's tip and the coin are at the same depth, so the water moves both pictures in the same way.
-- **creative:** Make a 'water telescope': a cut plastic bottle with cling film over one end, pushed just into the water. You now look through a flat, still surface, with no ripples.; Stand a ruler upright in the bucket. Look down at it at a slant and see how the markings under the water look squashed together.; Ask a friend to look from straight above and say 'steeper' or 'flatter' while you aim the stick.
+- **creative:** Make a 'water telescope': a cut plastic bottle with cling film over one end, pushed just into the water. You now look through a flat, still surface, with no ripples.; Stand a ruler upright in the bucket. Look down at it at a slant and see how the markings under the water look squashed together.; Ask someone to look from straight above and say 'steeper' or 'flatter' while you aim the stick.
 - **s1 (6 min)**  
   *Parent does:* 1. Put a coin at the bottom of an empty bucket, in the bathroom or on a towel. 2. Ask your child to kneel a step away, to one side. 3. Let them try 5 times. Each time, they point the stick at the coin like a spear and close their eyes. Then they push it in the same direction until it touches the bottom. Count the hits.  
   *Parent says:* Here's a fishing challenge. Point the stick at the coin like a spear. Close your eyes and push it in the same direction. How many hits out of 5?  
@@ -627,15 +618,15 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 3. (mcq) A girl wants the pencil in her glass of water to look as straight as possible. Where should she put her eye?  
    Options: Low down at the side, looking at a slant / Straight above the glass, looking down along the pencil / Anywhere. It looks broken from everywhere.  
    **Answer:** Straight above the glass, looking down along the pencil. *Why:* Light that comes straight up out of the water hardly bends. So from straight above, the break almost vanishes. At a slant the light bends the most, so the pencil looks most broken. A strong answer links where you look to how much the light bends.
-4. (truefalse) Many people think the water really bends a pencil a little, the way hot water bends a plastic straw. True or false: the pencil in the water is really bent.  
+4. (truefalse) Many people think the pencil in the water is really bent under the water. True or false: the pencil in the water is really bent.  
    **Answer:** False. *Why:* False. Run a finger along the pencil under the water: it is straight. Pull it out: still straight. Only the light from it changed direction. A strong answer gives the touch test as evidence.
 5. (write) In the broken-pencil test, your eyes told you the pencil was broken. What did you do to check, and what did you find?  
    **Answer:** I felt along the pencil under the water and it was straight. I pulled it out and it was whole. I looked from straight above and it looked almost straight. So the pencil was never broken. Only the light from it bent.. *Why:* A strong answer uses the child's own test: at least one check that is not just looking from the side, and what it showed.
-6. (mcq) A girl puts a coin in an empty cup and moves her head back until the rim just hides the coin. She keeps her head still while her sister slowly pours in water. What will she see?  
+6. (mcq) A girl puts a coin in an empty cup and moves her head back until the rim just hides the coin. She keeps her head still while someone slowly pours in water. What will she see?  
    Options: Nothing changes. The coin stays hidden. / The coin comes into view over the rim. / The coin looks smaller and sinks lower.  
    **Answer:** The coin comes into view over the rim.. *Why:* Light from the coin bends as it leaves the water, to a flatter slant. Now it can pass over the rim and reach her eye. The coin has not moved, but it looks higher than it is. A strong answer says the light bent, not the coin moving.
 7. (sort) Sort these moments. Is light being bent as it passes through water, glass or a lens, or not?  
-   **Answer:** your legs look short in a swimming pool → Light bends; a dew drop makes a leaf's veins look big → Light bends; your hand makes a shadow on the wall → Light does not bend; Paati's reading spectacles make letters clear → Light bends; a torch beam goes straight across a dark room → Light does not bend; a round fish bowl makes the goldfish look fat → Light bends. *Why:* Light bends when it passes at a slant through water, glass or a lens. A shadow is light being blocked, and a torch beam in plain air goes straight. A strong sorter asks: is the light passing from one see-through material into another?
+   **Answer:** your legs look short in a swimming pool → Light bends; a dew drop makes a leaf's veins look big → Light bends; your hand makes a shadow on the wall → Light does not bend; reading spectacles make letters clear → Light bends; a torch beam goes straight across a dark room → Light does not bend; a round fish bowl makes the goldfish look fat → Light bends. *Why:* Light bends when it passes at a slant through water, glass or a lens. A shadow is light being blocked, and a torch beam in plain air goes straight. A strong sorter asks: is the light passing from one see-through material into another?
 8. (mcq) A girl puts two drops of water on a clear ruler lying on a newspaper. One is a tiny round drop. One is a big flat puddle. Which drop will make the letters look bigger?  
    Options: The big flat puddle, because it has more water / The tiny round drop, because it is more curved / Both the same, because water is water  
    **Answer:** The tiny round drop, because it is more curved. *Why:* It is the curve that matters, not how much water there is. A tiny drop is very round on top, so it bends light the most and magnifies the most. Many children first guess the big puddle. The test shows the opposite.
@@ -648,8 +639,8 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
    **Answer:** [0, 1, 2, 3, 4]. *Why:* First see the pencil straight with no water, so you have something to compare with. Then add water and look from three places. Then check with touch. Last, explain like a scientist.
 12. (match) All of these are lenses. Match each lens to the job it does.  
    **Answer:** the lens inside your eye → makes a sharp picture at the back of your eye; spectacles → bend light before it enters the eye, so the picture is sharp; a magnifying glass → makes a small thing look bigger; a phone camera lens → makes a small picture of the world on the camera chip. *Why:* Every lens is a curved, see-through piece that bends light on purpose. Each one bends light to do a different job.
-13. (draw) Draw a pencil leaning in a glass of water, and your eye above the glass, off to one side. Draw a dotted line for the light going from the bottom of the pencil to your eye.  
-   **Answer:** The dotted line goes up through the water at a slant. At the water's surface it bends to a new direction, then goes straight to the eye. The pencil looks broken at the water line.. *Why:* A strong drawing puts the bend in the light line exactly at the surface, where water meets air, and keeps the pencil itself straight.
+13. (draw) Draw a kingfisher hovering straight above a fish in the water. Draw the light from the fish to the bird's eye. Is the light bent?  
+   **Answer:** The light goes straight up from the fish to the bird's eye, with no bend. So the fish is almost exactly below the spot the bird sees, only a little deeper.. *Why:* A strong drawing shows a straight line going straight up, because light that leaves the water straight up does not bend.
 14. (perspective) After the broken-pencil test, three people in one family argue about how to find out whether the pencil is really bent.  
    **Answer:** A strong answer picks one way and backs it with what the child saw or felt. For example, the hand is good because touch is not fooled by bending light. It then admits a fair point from another side: hands can be fooled too, for example by very cold water, and looking from above is a real check with the eyes. The best answers say that using two checks is better than one.. *Why:* There is no single right answer. Eyes can be fooled by bending light, but they are still useful when you look from the right place. Scientists check with more than one sense and more than one test.
 15. (write) A temple tank looks shallow from the steps. Why can it be deeper than it looks? Why does this matter?  
@@ -665,16 +656,16 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
    **Answer:** Bigger. Light slows down more in glass, so it turns more sharply at the edge. More turning means the hidden part looks more out of place, so the break looks bigger.. *Why:* A strong answer links more slowing to more bending, and more bending to a bigger break. It uses the slowing idea to predict, not just to describe.
 4. (mcq) A girl stands on the bank of a pond with a net. She sees a fish at a slant through the water. Where should she aim the net?  
    Options: Exactly at the fish she sees / A little below where the fish seems to be / A little above where the fish seems to be  
-   **Answer:** A little below where the fish seems to be. *Why:* The light coming from the fish bends at the surface, so the fish looks higher and nearer than they really are. The real fish is lower and further away. A strong answer aims below the picture, because the picture is lifted.
+   **Answer:** A little below where the fish seems to be. *Why:* The light coming from the fish bends at the surface, so the fish looks higher and nearer than the fish really is. The real fish is lower and further away. A strong answer aims below the picture, because the picture is lifted.
 5. (perspective) Three hunters catch fish that they see through the water. Each has a different way to deal with the bend in the light.  
    **Answer:** A strong answer picks a way and explains it with bending light. For example, the kingfisher's way removes the bend completely, because light coming straight up does not bend. But it needs wings to hover. The grandmother's way works from the bank, but how much lower to aim changes with the slant and the depth, so it takes years of practice. The archerfish must allow for the bend from below. The best answers see that each way fits the hunter's body and place.. *Why:* There is no single winner. Each hunter has a real trade-off between how easy the way is and how well it removes the bend.
 6. (fill) A magnifying glass held between a bright window and a sheet of white paper can make a small picture of the window on the paper. The picture is upside ____.  
    **Answer:** ['down']. *Why:* The lens brings light from the top of the window down to the bottom of the picture, and light from the bottom up to the top. So the picture is upside down, as in a camera.
-7. (truefalse) A big round water bottle magnifies more strongly than a small glass marble, because the bottle holds much more.  
-   **Answer:** False. *Why:* False. The small marble is much more curved, so it bends light more sharply and magnifies more. The curve decides how strongly a lens magnifies, not the amount of glass or water.
+7. (truefalse) True or false: if the Earth had no air, we would see the Sun for about two minutes longer each evening.  
+   **Answer:** False. *Why:* False. The air bends sunlight, so we see the Sun for about two minutes after it has really set. With no air, there would be no bending, and the Sun would seem to set about two minutes earlier.
 8. (write) When you open your eyes under water without goggles, everything looks blurry. Why? And why do goggles make it clear again?  
    **Answer:** The clear front of my eye does most of the bending, but only when light comes into it from air. Water and my eye slow light by nearly the same amount, so in water the light hardly bends there, and the picture is blurry. Goggles put a pocket of air in front of my eyes, so the bending works again.. *Why:* A strong answer says that bending needs a change in how fast light goes, and that goggles bring back the air.
-9. (match) Some animals hunt across the surface of water. Match each animal to how they deal with bending light.  
+9. (match) Some animals hunt across the surface of water. Match each animal to the trick that helps with the bend in the light.  
    **Answer:** pied kingfisher → hovers and dives almost straight down; archerfish → aims a jet of water correctly at insects above the surface; four-eyed fish → has eyes that look into the air and the water at the same time. *Why:* Animals that hunt across the surface have found different ways around the bend.
 10. (order) Put these lenses in order, from the weakest magnifier to the strongest.  
    **Answer:** [0, 1, 2, 3]. *Why:* The more curved the lens, the more sharply it bends light, and the stronger it magnifies. A flat pane has no curve. A tiny drop is the most curved of all, which is why Leeuwenhoek's microscopes used tiny lenses.
@@ -685,8 +676,8 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 13. (mcq) A girl holds a magnifying glass just above a page and keeps her eye well back. She slowly lifts the lens higher. At first the words look bigger. What happens if she lifts it much further?  
    Options: The words keep getting bigger and bigger / The words go blurry, then look smaller and upside down / The words vanish and the page looks empty  
    **Answer:** The words go blurry, then look smaller and upside down. *Why:* Close to the page, the lens bends the light so the words look bigger. Further away, the lens brings the light together into a small upside-down picture, like the window picture on paper. A strong answer links this to the Catch the Window activity.
-14. (draw) Draw the March Like Light act-out seen from above. Show the floor, the edge of the mattress and the line of people turning. Add arrows for where they walk.  
-   **Answer:** The line walks at a slant towards the mattress. The first person to step on slows down. The line swings round and walks on in a new direction, closer to straight across the edge.. *Why:* A strong drawing shows the turn happening at the edge, and the slower side being the one that stepped on first.
+14. (draw) Draw the March Like Light line walking from the mattress back onto the floor at a slant, seen from above. Add arrows for where they walk.  
+   **Answer:** The first person to step onto the floor speeds up, while the others are still slow. So the line swings round the other way, and walks on in a new direction, further from straight across the edge.. *Why:* A strong drawing shows the turn at the edge and the fast side being the one that stepped off first. Light leaving water into air bends this way, so the underwater part of a pencil looks lifted.
 15. (write) In the bottle-lens activity, words seen through a round bottle lying on its side looked stretched up and down, but not side to side. Use the shape of the bottle to explain why.  
    **Answer:** The bottle is curved up and down, round its middle, but it is straight along its length. Light only bends where there is a curve. So the words are stretched only in the direction the bottle curves.. *Why:* A strong answer connects the curve to the direction of magnifying: no curve, no bending.
 ### Lenses from Eyes to Galaxies (challenge) (challenge, 15 questions)
@@ -709,8 +700,8 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
    **Answer:** Higher above the water than the beetle really is. *Why:* The bend works both ways. To us on the bank, a fish looks lifted towards the surface. To a fish looking up, a beetle in the air looks lifted further from the surface. Scientists found that archerfish still aim correctly, so they allow for the bend.
 8. (write) The Nimrud lens is a polished piece of rock crystal, about 2,700 years old, found in Iraq. Some experts say people used it to magnify. Others say it was only a decoration. What evidence could help you decide?  
    **Answer:** I could check whether it is shaped evenly, like a good lens, and how clearly it magnifies. I could look for old writings or pictures of people using lenses at that time. I could check whether other lenses were found in the same place.. *Why:* A strong answer suggests evidence, not opinions. Experts still disagree about this.
-9. (draw) Draw a cup with a coin stuck at the bottom, and your eye just too low to see the coin over the rim. Then draw water in the cup, and the path of light from the coin to your eye.  
-   **Answer:** Without water, the straight line from coin to eye hits the rim. With water, the light goes up from the coin through the water. At the surface it bends to a flatter slant, passes over the rim and reaches the eye.. *Why:* A strong drawing puts the bend at the water's surface and shows that the coin has not moved.
+9. (draw) Draw a ray of light going at a slant into a thick block of clear glass and coming out of the other side. Show where it bends.  
+   **Answer:** The ray bends at the first edge, going in. It travels straight through the glass. It bends back at the second edge, coming out, and goes on in the same direction as before, only shifted sideways.. *Why:* A strong drawing puts a bend at each edge and no bend inside the glass.
 10. (write) The lens inside your eye bulges more to see close things. As people grow old, this lens gets stiff and cannot bulge enough. Saroja Paati, a grandmother, cannot read small print. What job must her reading spectacles do, and what shape must they be? Explain why.  
    **Answer:** Her eye lens can no longer bend the light enough for close things. So her spectacles must add the missing bending before the light reaches her eye. They must be bulging lenses, fatter in the middle than at the edges, because that shape bends light inwards.. *Why:* A strong answer uses the idea that the eye is a lens, says the spectacles add bending, and picks the bulging shape for a reason.
 11. (mcq) Stars twinkle because moving pockets of warm and cool air bend their light a little this way and that. Would stars twinkle for an astronaut standing on the Moon?  
@@ -722,8 +713,8 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
    **Answer:** For example: my feet look close to the top when I stand in a pool, or the road far ahead looks wet on a hot day. I could check by touching, by measuring with a stick, or by looking from straight above or walking closer.. *Why:* A strong answer gives a real example of bending light and a check that does not rely on the same view. That is how science tests the senses.
 14. (sort) Light can change direction in different ways. Sort each moment by what changes the light's path.  
    **Answer:** a straw looks broken in a glass of nimbu pani → Bent by passing into another material; a far galaxy looks stretched into an arc → Bent by gravity; you see your face in a steel plate → Bounced back; the air above a hot road shimmers → Bent by passing into another material; stars near the eclipsed Sun look shifted → Bent by gravity; the Moon shines with sunlight → Bounced back. *Why:* Refraction is bending as light passes into a different material, like water, glass or warmer air. Gravity bends light near huge masses. Bouncing back is reflection. A strong sorter asks what the light passed through or near.
-15. (write) From straight above, water looks only about three quarters as deep as it really is. A temple tank looks 90 centimetres deep. About how deep is it really? Show how you worked it out.  
-   **Answer:** About 120 centimetres. 90 is three quarters of the real depth, so one quarter is 90 divided by 3, which is 30. Four quarters is 4 times 30, which is 120 centimetres. That is deeper than many children are tall.. *Why:* A strong answer reasons with the fraction backwards, from the part to the whole, and notices why it matters for safety.
+15. (write) In the wine-glass test, a bright ring appeared when the torch was exactly behind the middle of the glass foot. What do you see when the torch is a little to one side? What does that tell you about the photos of galaxies bent by gravity?  
+   **Answer:** One or two bright curved arcs, not a full ring. In space, a full ring needs the far galaxy to be exactly behind the cluster. If it is a little off to one side, we see arcs, which is why most space photos show arcs.. *Why:* A strong answer uses the wine-glass model to explain the shapes in the space photos.
 
 ## Videos
 - **Refraction of light: the bent pencil and the appearing coin** (physics with Sajid, 4 min) id `FPgw9jaSkfg`: Shows the pencil and coin tricks clearly, with a slowed-down beam of light bending at the water's surface. *Check:* Found by YouTube search: "Why does the coin in water appears at less depth? | Refraction | Class 9" by physics with Sajid. Title checked automatically; a parent may still preview it.
@@ -737,37 +728,31 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 2. (mcq) Rani, a girl in Class 4, stands in a swimming pool. Her legs look short and bent at the water line. What is true?  
    Options: Her legs really bend in the water / Light from her legs bends at the surface, so she sees them in the wrong place / The water squeezes her legs  
    **Answer:** Light from her legs bends at the surface, so she sees them in the wrong place. *Why:* Her legs stay the same. Light from them bends as it leaves the water, and her eyes follow it straight back. So she sees her legs higher and shorter than they are.
-3. (mcq) A girl sees a coin at the bottom of a bucket of water. She reaches in for it, but her hand has to go deeper than she expected. Why?  
-   Options: Light from the coin bends as it leaves the water, so the coin looks higher than it really is / The water pushed the coin down while she reached / Her arm got shorter in the water  
-   **Answer:** Light from the coin bends as it leaves the water, so the coin looks higher than it really is. *Why:* The coin never moved. Light from the coin bends at the surface, and her eyes follow the light straight back. So she sees the coin higher than it really is.
-4. (mcq) A girl wants her water-drop test to be fair. Which one thing should she change from drop to drop?  
+3. (mcq) A girl wants her water-drop test to be fair. Which one thing should she change from drop to drop?  
    Options: The size of the drop / The newspaper / Both the ruler and the size of the drop  
    **Answer:** The size of the drop. *Why:* A fair test changes only one thing. If only the drop size changes, any difference in the letters must come from the drop size.
-5. (mcq) Remember the water-drop test on a clear ruler over a newspaper. A girl leaves a round drop there, and it slowly dries and gets flatter. What happens to the letters under it?  
+4. (mcq) Remember the water-drop test on a clear ruler over a newspaper. A girl leaves a round drop there, and it slowly dries and gets flatter. What happens to the letters under it?  
    Options: They look bigger and bigger / They look less and less big / They stay just as big until the drop is gone  
    **Answer:** They look less and less big. *Why:* The curve decides how strongly a drop bends light. As the drop dries it gets flatter, so it bends light less, and the letters look less big.
-6. (mcq) A girl looks at a grain of salt through a magnifying glass. Then she looks at it through a flat piece of window glass. How does the grain look through the flat glass?  
+5. (mcq) A girl looks at a grain of salt through a magnifying glass. Then she looks at it through a flat piece of window glass. How does the grain look through the flat glass?  
    Options: Just as big as through the magnifying glass / About its normal size / Much smaller than normal  
    **Answer:** About its normal size. *Why:* A magnifying glass bulges in the middle, so it bends light inwards and things look bigger. Flat glass hardly changes the light's path, so the grain looks its normal size.
-7. (mcq) Why does a magnifying glass make things look bigger?  
+6. (mcq) Why does a magnifying glass make things look bigger?  
    Options: It adds extra light to them / It bends the light coming from them / It stretches them  
    **Answer:** It bends the light coming from them. *Why:* A magnifying glass is a bulging lens. It bends the light from a thing so the light reaches your eye as if from a bigger thing.
-8. (mcq) After the appearing-coin test, which answer explains it like a scientist?  
+7. (mcq) After the appearing-coin test, which answer explains it like a scientist?  
    Options: I think the water lifted the coin. / I think light bends at the water. I saw the coin appear when water was poured in, but the coin was stuck down. So light from the coin bent over the rim to my eye. / It was magic.  
    **Answer:** I think light bends at the water. I saw the coin appear when water was poured in, but the coin was stuck down. So light from the coin bent over the rim to my eye.. *Why:* A scientist's answer has three parts: what I think, what I saw, and why. The second answer has all three and uses evidence: the coin was stuck down.
-9. (mcq) Which of these is NOT a lens?  
+8. (mcq) Which of these is NOT a lens?  
    Options: A dew drop on a leaf / The glass at the front of a camera / A mirror / The clear lens inside your eye  
    **Answer:** A mirror. *Why:* A mirror bounces light back. It does not bend light passing through it. A dew drop, a camera's glass and your eye's lens all bend light.
-10. (mcq) Paati, a grandmother, cannot read small print without her reading spectacles. What do the spectacles do?  
-   Options: Bend the light before it enters her eyes, so the picture is sharp / Make the newspaper bigger / Make the room brighter  
-   **Answer:** Bend the light before it enters her eyes, so the picture is sharp. *Why:* Spectacles are lenses. They bend light a little before it reaches the eye's own lens, so the picture inside her eye is sharp.
-11. (mcq) At Kanyakumari, the setting Sun seems to sit on the sea. Where is the real Sun at that moment?  
+9. (mcq) At Kanyakumari, the setting Sun seems to sit on the sea. Where is the real Sun at that moment?  
    Options: Exactly where it seems to be / Already a little below the horizon, while the air bends its light up to us / Higher up than it seems  
    **Answer:** Already a little below the horizon, while the air bends its light up to us. *Why:* The air bends sunlight down around the curve of the Earth, so the Sun looks higher than it really is. We see the Sun for about two minutes after it has set.
-12. (mcq) A space telescope photographs a far galaxy stretched into an arc. What bent the light from that galaxy?  
+10. (mcq) A space telescope photographs a far galaxy stretched into an arc. What bent the light from that galaxy?  
    Options: A giant glass lens in space / The gravity of a huge cluster of galaxies in front of it / Clouds of water in space  
    **Answer:** The gravity of a huge cluster of galaxies in front of it. *Why:* Gravity bends light passing near huge masses, as Einstein predicted in 1915. There is no glass in space doing it.
-13. (mcq) Archerfish spit jets of water at insects sitting above the surface. What have scientists found about their aim?  
+11. (mcq) Archerfish spit jets of water at insects sitting above the surface. What have scientists found about their aim?  
    Options: They always miss, because of the bend / They aim correctly, allowing for the bend in the light / They only spit straight up  
    **Answer:** They aim correctly, allowing for the bend in the light. *Why:* The light coming from the insect bends at the surface, so the insect seems to be in the wrong place. Archerfish still hit their target, so they allow for the bend.
 
@@ -792,7 +777,7 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 - The steps of a temple tank looking shallower under the water.
 - Rain or dew drops on the leaf of a potted plant, each drop making the leaf under the drop look bigger.
 - A watch-repair woman in the market with a small lens held against one eye.
-- The fish in a round fish bowl looking fat and moving strangely as they swim.
+- The fish in a round fish bowl looking fat and moving strangely as the fish swims.
 - The air shimmering above a hot road in May, bending the light from things behind it.
 - A big, squashed orange Sun setting over the sea at Kanyakumari, or rising over the sea at Puri.
 - A pied kingfisher hovering, then diving straight down into a pond.
@@ -807,36 +792,25 @@ Mitali looked up at me. I looked down at her. We had both learned the same thing
 
 ## Questions to ask kids
 - Look at your glass of water at dinner. Can you find something that looks bent or big through it?
-- Is a fish in an aquarium or a river really where they seem to be?
-- Why do you think Paati's reading glasses make words look big?
+- Look at a fish in an aquarium or a river. Are the fish really where you see them?
+- Why do you think reading glasses make words look big?
 - If you were a kingfisher, where would you dive from?
-- Which is stronger: a tiny drop or a big drop?
 - Can you make a word flip with a water bottle?
 - Did the Sun really set when we saw it touch the sea?
 - Why should we never jump into a pond because it looks shallow?
-- Your eyes and your hands disagreed about the pencil. Who won? How did you decide?
-- What would the world look like to a fish looking up at you?
 - Which lens did you use today without even noticing?
 
 ## Jokes
-- Why did the pencil go to the swimming pool? *It wanted to look broken without getting hurt.*
 - What did the magnifying glass say to the ant? *You look great today. Really big.*
 - Why was the fish never on time? *It was never where it said it was.*
 - What did one lens say to the other? *Let's focus.*
-- Why did the light slow down in the water? *It was trying to be careful at the swimming pool.*
-- Why was the water drop so proud? *Everyone looked bigger when they were with it.*
 - Why did the kingfisher hover? *It wanted to get to the point. Straight down.*
 - What do you call a lens that tells jokes? *A magnifunny glass.*
-- Why did the straw in the buttermilk feel fine? *It only looked broken. Inside, it was straight.*
-- Why did the coin hide in the cup? *It was waiting for someone to pour it a drink.*
 - Why did the spectacles go to school? *To help everyone see the point.*
-- What did the Sun say at sunset? *I have already gone. The air is just showing you my picture.*
 - Why do galaxies love gravity? *It always bends over backwards for them.*
 - Why did the marble get the job at the newspaper? *It made every story look bigger.*
-- What do you call a bottle that makes words flip? *A topsy-turvy bottle.*
 - Why didn't the microscope get angry? *It never blew things out of proportion. Only up.*
 - Why did the pond lie about its depth? *It wasn't lying. Light just bent the truth.*
-- What did the eye say to the lens? *I couldn't see this without you.*
 
 ## Connected maths
 - In the water-drop test, a girl looked at a newspaper letter 2 millimetres tall. Through the tiny drop, it looked as tall as 4 millimetres on the ruler beside it. How many times taller did the drop make the letter look? **2 times taller.**. The letter is really 2 millimetres tall. Through the drop, it looked 4 millimetres tall. 4 divided by 2 is 2. So the drop made the letter look 2 times taller. You can check: 2 + 2 = 4. The letter itself is still 2 millimetres tall. (queues `math.division.sharing-and-grouping.L3`)
@@ -850,14 +824,14 @@ Follow the Light (sci.light.L3): Topic-level song
 
 ## Links
 - [PhET Bending Light](https://phet.colorado.edu/en/simulations/bending-light) · simulation: A free online game. Shine a laser from air into water or glass and watch it bend. Try different materials and slants.
-- [PhET Geometric Optics: Basics](https://phet.colorado.edu/en/simulations/geometric-optics-basics) · simulation: A free online game. Move a pencil and a lens and watch the upside-down picture it makes, as in Catch the Window.
-- [Foldscope, the paper microscope](https://foldscope.com) · interactive: A folding paper microscope with a tiny ball lens, invented by Manu Prakash, who grew up in Meerut, and his team at Stanford. Many Indian schools use it.
-- [NASA Hubble: gravitational lensing pictures](https://science.nasa.gov/mission/hubble/) · interactive: Real space photos of galaxies bent into arcs and rings, for the Galaxy in a Wine Glass activity.
+- [PhET Geometric Optics: Basics](https://phet.colorado.edu/en/simulations/geometric-optics-basics) · simulation: A free online game. Move a pencil and a lens and watch the upside-down picture the lens makes.
+- [Foldscope, the paper microscope](https://foldscope.com) · interactive: A folding paper microscope with a tiny ball lens, invented by Manu Prakash, who grew up in Meerut, and his team at Stanford.
+- [NASA Hubble: gravitational lensing pictures](https://science.nasa.gov/mission/hubble/) · interactive: Real space photos of galaxies bent into arcs and rings.
 - [National Council of Science Museums](https://ncsm.gov.in) · place · Kolkata, Delhi, Mumbai, Bengaluru and other cities: Science centres across India, many with light and optics galleries, mirrors and lenses to play with.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum. Look for exhibits about lenses, light and seeing.
 
 ## Things to buy
-- [Magnifying glass for children, about 75 to 90 mm wide, glass or acrylic](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): Used in the magnifier safari, Catch the Window, the drop microscope project and Zoom Detective. Used in a2, a3, p1, g2. Used again in the Plants and Materials units for looking closely.
+- [Magnifying glass for children, about 75 to 90 mm wide, glass or acrylic](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): For looking closely at small things, throwing a picture of a window onto paper, and making the drop microscope. Used in a2, a3, p1, g2. 
 
 ## Warm-up
 - Light bending as it goes from water into air is called ____. → refraction
@@ -870,7 +844,7 @@ Follow the Light (sci.light.L3): Topic-level song
 - Light slows down in water. Faster or slower in glass? → Slower still.
 - Can we see the Sun after it has really set? → Yes, for about two minutes, because the air bends its light.
 - What bends light from far galaxies into rings? → The gravity of huge clusters of galaxies.
-- Why does a kingfisher dive straight down? → From straight above, the fish is right below where they seem to be, only a little deeper.
+- Why does a kingfisher dive straight down? → From straight above, the light does not bend, so the fish is right below the spot you see, only a little deeper.
 
 ## Plan
 - Start options: a1, story, e1, big_questions, cards, g1, e2

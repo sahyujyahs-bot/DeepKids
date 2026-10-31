@@ -487,7 +487,7 @@ function viewToday() {
     const oc = openCount(),
       tile = (act, ic, label, sub, extra = "") =>
         `<button class="qtile" data-act="${act}" ${extra}><span class="qi">${icon(ic)}</span><b>${label}</b><span class="xs muted">${sub}</span></button>`;
-    h += `<div class="qtiles">${tile("gotab", "prep", "Unfinished", oc ? oc + " open" : "All caught up", 'data-tab="week" data-seg="finish"')}${tile("gotab", "play", "Up next", "Next chapters", 'data-tab="week" data-seg="next"')}${tile("quizgo", "spark", "Quick quiz", "Ask a few questions")}${tile("uploads", "plus", "Add photos", "Work samples")}</div>`;
+    h += `<div class="qtiles">${tile("gotab", "prep", "Unfinished", oc ? oc + " open" : "All caught up", 'data-tab="week" data-seg="finish"')}${tile("gotab", "play", "Up next", "Next chapters", 'data-tab="week" data-seg="next"')}${tile("quizgo", "spark", "Quick quiz", "Ask a few questions")}${tile("uploads", "plus", "Add photos", "Work samples")}${tile("lifeadd", "plus", "Something they did", "a class, cooking, a question")}</div>`;
   }
   h += `</section><button class="morebtn" data-act="moresheet">${icon("grid")}<span>More for today</span><span class="xs muted">jokes, games, experiments, your reading</span></button>`;
   return h;

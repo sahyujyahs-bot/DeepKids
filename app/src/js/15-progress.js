@@ -229,6 +229,7 @@ function viewJourneyTabs() {
     );
   } else if (k === "time")
     h += `<section class="sec"><button class="menurow" data-act="hist">${blob("var(--pist)", 9, "happy", "", 'width="40" height="40"')}<span><b>History</b><br><span class="xs muted">Each lesson your child finished, newest first, by date</span></span>${icon("next")}</button>${trackView()}</section>`;
+  else if (k === "life") h += lifeTab();
   else if (k === "work")
     h += `<section class="sec">${uploadsView()}</section><section class="sec"><button class="menurow" data-act="tofinish">${blob("var(--tang)", 11, "calm", "", 'width="40" height="40"')}<span><b>Still to do</b><br><span class="xs muted">What your child started and hasn't finished, and what's not tried yet</span></span>${icon("next")}</button><button class="menurow" data-act="folder">${blob("var(--leaf)", 14, "wow", "", 'width="40" height="40"')}<span><b>Worksheets and quizzes, with answers</b><br><span class="xs muted">Everything finished in the app, to save or print</span></span>${icon("next")}</button></section>`;
   else h += `<section class="sec">${schoolView()}</section>`;
@@ -927,7 +928,7 @@ function addMins(subj, sec) {
 }
 function trackData() {
   const D = {},
-    day = (d) => (D[d] = D[d] || { m: {}, e: {}, did: [] }),
+    day = (d) => (D[d] = D[d] || { m: {}, e: {}, l: 0, did: [] }),
     add = (d, s, f, m) => {
       const x = day(d);
       x[f][s] = (x[f][s] || 0) + m;
@@ -1005,9 +1006,14 @@ function trackData() {
     day(k.slice(0, j)).did.push({ t: "ev", title: e?.title || "Class", r });
   });
   (S.exps || []).forEach((e) => (e.checks || []).forEach((d) => day(d).did.push({ t: "check", title: e.title })));
+  lifeSt().forEach((m) => {
+    day(m.date).l += +m.mins || 0;
+    day(m.date).did.push({ t: "life", title: m.title, m });
+  });
   return D;
 }
-const dTot = (x) => Object.values(x.m).reduce((a, b) => a + b, 0) + Object.values(x.e).reduce((a, b) => a + b, 0);
+const dTot = (x) =>
+  Object.values(x.m).reduce((a, b) => a + b, 0) + Object.values(x.e).reduce((a, b) => a + b, 0) + (x.l || 0);
 function didLine(x) {
   const ch = x.u ? esc(chT(x.u)) : "";
   return x.t === "lesson"
@@ -1024,9 +1030,11 @@ function didLine(x) {
               ? evLogLine(x)
               : x.t === "check"
                 ? `<li>Checked on: ${esc(x.title)}</li>`
-                : x.t === "part"
-                  ? `<li>${esc(x.title)} <span class="xs muted">${ch}</span></li>`
-                  : "";
+                : x.t === "life"
+                  ? `<li>${LIFEK[x.m.kind][0]} ${esc(x.title)}${x.m.mins ? ` <span class="xs muted">${hmin(x.m.mins)}</span>` : ""}</li>`
+                  : x.t === "part"
+                    ? `<li>${esc(x.title)} <span class="xs muted">${ch}</span></li>`
+                    : "";
 }
 function trackChart(T, days) {
   const subs = SUBJ_KEYS.filter((s) => days.some((d) => T[d] && (T[d].m[s] || 0) + (T[d].e[s] || 0) > 0)),
@@ -1447,7 +1455,7 @@ function transcriptDoc() {
     )
     .join("")}</table>
   ${I.note ? `<h2>Note from the parent</h2><p>${esc(I.note).replace(/\n/g, "<br>")}</p>` : ""}
-  ${quizTranscript()}${testTranscript()}<h2>How scores are worked out</h2><p class="sm">${SCORE_NOTE}</p><p class="sm">Study time is measured while lessons are open in the app; days without timing use the planned lesson length and are included in totals.</p>
+  ${lifeTranscript()}${quizTranscript()}${testTranscript()}<h2>How scores are worked out</h2><p class="sm">${SCORE_NOTE}</p><p class="sm">Study time is measured while lessons are open in the app; days without timing use the planned lesson length and are included in totals.</p>
   <h2>Declaration</h2><p class="sm">I confirm that this record reflects my child's home learning.</p><div class="sig"><div>Parent / guardian signature</div><div>Date</div></div></body></html>`;
 }
 async function saveDoc(html, name) {

@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Take a fridge magnet into your kitchen. Touch it to a steel spoon, then to a steel tumbler. Both are grey, shiny and called steel. Will the magnet stick to both?",
-  "text": "In many kitchens, the magnet sticks to the spoon but not to the tumbler. It also sticks to the fridge door, but falls off the wooden cupboard door right beside it. Colour and shine do not decide whether a magnet sticks. So what does? You will test more than thirty things and look for the pattern. Then you will find out what is different inside the things a magnet attracts.",
+  "text": "In many kitchens, the magnet sticks to the spoon but not to the tumbler. It also sticks to the fridge door, but falls off the wooden cupboard door right beside it. Colour and shine do not decide whether a magnet sticks. So what does? You will test sixteen things and look for the pattern. Then you will find out what is different inside the things a magnet attracts.",
   "art": "A kitchen counter: a hand holding a fridge magnet over a steel spoon that jumps up to it, and over a steel tumbler that does not move, with a question mark between them."
  },
  "outcomes": [
@@ -541,7 +541,7 @@
    "hint": "Scientists say the magnet's magnetic field fills the gap. A magnetic field is the space around a magnet where its force acts. Is a field a real thing, or a way of describing what we see?"
   },
   {
-   "q": "A magnet repels a frog very weakly, and a strong enough magnet can float them. So is anything truly non-magnetic?",
+   "q": "A magnet repels a frog very weakly, and a strong enough magnet can float the frog. So is anything truly non-magnetic?",
    "kind": "deep",
    "hint": "Maybe 'non-magnetic' means 'too weak for us to notice'. What other words do we use that way?"
   },
@@ -616,11 +616,11 @@
    "The next morning her grandmother did not flick any sheets. She held out her hand, palm up, and said, 'Teach me to use the fish.'",
    "So Zainab taught her. She guided her grandmother's fingers until Dadi could feel the little tug on the string, or no tug at all. The new sheets, the real ones, came a week later from a different trader. One by one they went under the magnet in her old hands. Each time, the little fish hung there, calm and still, and did not stick at all."
   ],
-  "epiphany": "For the parent: a magnet attracts iron and steel, but not brass, which is made of copper and zinc. So when a magnet sticks to a sheet that is meant to be brass, the sheet must have steel underneath. A magnet cannot tell you what a thing is made of. It can only tell you whether it contains iron, nickel or cobalt. Zainab's grandmother also teaches something about tests. When the magnet sticks, it gives a clear no to the question 'is this solid brass?' When it does not stick, it gives only a maybe. The story also asks who is trusted to know. In a noisy room, the expert's ears could not be sure. The child who swept the floor, with a simple tool, found the answer.",
+  "epiphany": "For the parent: a magnet attracts iron and steel, but not brass, which is made of copper and zinc. So when a magnet sticks to a sheet that is meant to be brass, the sheet must have steel underneath. A magnet cannot tell you what a thing is made of. It can only tell you whether it contains iron, nickel or cobalt. Zainab's grandmother also teaches something about tests. When the magnet sticks, it gives a clear no to the question 'is this solid brass?' When it does not stick, it gives only a maybe. In a noisy room, the expert's ears could not be sure. The child who swept the floor, with a simple tool, found the answer.",
   "ask": [
    "Why did the magnet stick to the sheets but not to the old diya?",
    "What was underneath the thin layer of brass on the sheets?",
-   "Zainab's grandmother said a magnet could tell him what a thing is not, but not what it is. What do you think he meant?",
+   "Zainab's grandmother said a magnet could tell her what a thing is not, but not what it is. What do you think he meant?",
    "Why did the trader call the magnet a toy? Why did it still matter?",
    "Who in your home or school notices small things that others miss?"
   ],
@@ -637,7 +637,7 @@
    "id": "g1",
    "title": "Stick or Skip?",
    "mins": 20,
-   "players": "2 to 5 players, or one child playing against the app",
+   "players": "2 to 5 players",
    "printables": [
     {
      "kind": "cards",
@@ -687,19 +687,20 @@
     },
     {
      "kind": "tokens",
-     "title": "30 star tokens (small paper stars)",
+     "title": "Star tokens: cut out 30 small paper stars",
      "items": [
-      "⭐"
+      "Cut out 30 small paper stars"
      ]
     }
    ],
    "rules": [
-    "Cut out the 32 cards. Shuffle them and put them in a pile, face down. Put the two mats on the table.",
+    "Cut out the 32 cards. Shuffle them and put them in a pile, face down. Put the two mats on the table and the star tokens in a bowl.",
     "On your turn, take the top card and read it out loud.",
-    "Decide: will a magnet stick to it or skip it? Put the card on the STICK mat or the SKIP mat, and say one reason. A good reason wins one star.",
+    "Decide: will a magnet stick to it or skip it? Put the card on the STICK mat or the SKIP mat, and say one reason. If the other players agree it is a good reason, you win one star.",
     "If you have a magnet, test it. A correct guess wins one more star.",
-    "STAR cards show things that may or may not stick, depending on exactly what they are made of. If you draw one, you may say 'test it' instead of guessing, and win two stars. If you guess on a STAR card and are wrong, you lose one star.",
-    "When the cards run out, the player with the most stars wins."
+    "STAR cards show things that may or may not stick, depending on exactly what they are made of. If you draw one, you may say 'test it' instead of guessing. Test it with the magnet and win two stars. If you guess on a STAR card and are wrong, you lose one star (if you have none, you lose nothing). If you have no magnet, you must guess.",
+    "If the bowl of stars runs out, keep score with tally marks on paper.",
+    "When the cards run out, the player with the most stars wins. If two players tie, they share the win."
    ],
    "flow": [
     {
@@ -715,7 +716,7 @@
      "mins": 3,
      "do": "Play a practice round with the card 'Steel nail'.",
      "say": "Let's practise with one card. 'Steel nail.' Will a magnet stick to it or skip it?",
-     "kid": "Practice card: steel nail. Stick or skip? Tap your answer.",
+     "kid": "Practice card: steel nail. Stick or skip? Say your answer.",
      "ask": [
       {
        "q": "What is your reason?",
@@ -846,16 +847,16 @@
     "Shuffle the 13 case cards and put them face down.",
     "One player is the judge. The judge reads a case out loud.",
     "Everyone else raises a verdict paddle: PROVED, NOT PROVED or WRONG. They say why in one sentence.",
-    "The judge says what they think, and talks it over with the lawyers. A correct verdict with a good reason wins two points. A correct verdict alone wins one.",
-    "Swap the judge after each case. After six cases, the player with the most points wins."
+    "The judge gives the verdict, using the parent's notes, and talks it over with the lawyers. A lawyer whose paddle matches the verdict wins one point, or two points with a good reason.",
+    "Swap the judge after each case. Play as many cases as you have time for, about six. The player with the most points wins. If you are only two, you swap judge each case."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Make the three paddles from paper. 2. Shuffle the case cards. 3. Choose a judge.",
+     "do": "1. Cut out the three paddles. 2. Shuffle the case cards. 3. Choose a judge.",
      "say": "A magnet test gives us evidence. But does the evidence prove what people say it proves? Today we are a court. We decide each case.",
-     "kid": "Make three paddles: PROVED, NOT PROVED, WRONG. Pick a judge. Mix the cases. We will test what people claim.",
+     "kid": "Cut out the three paddles: PROVED, NOT PROVED, WRONG. Pick a judge. Mix the cases. We will test what people claim.",
      "context": "This is the first step of The Magnet Court. In this game, you decide whether a claim about a magnet test is proved, not proved, or wrong."
     },
     {
@@ -888,7 +889,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Play the cases one by one. Let each lawyer give a reason before the judge decides. Write each verdict on the court record.",
+     "do": "Play the cases one by one, about six in all. Let each lawyer give a reason before the judge decides. Write each verdict on the court record.",
      "say": "Take a case. Read it. Raise your paddle. Say why in one sentence. Then the judge decides.",
      "kid": "Take turns as judge. Read a case. Everyone raises a paddle and says why. The judge decides.",
      "parent": "Verdicts: Card 1 PROVED. Card 2 NOT PROVED, because aluminium and copper do not stick either. Card 3 WRONG, because some steels do not stick. Card 4 NOT PROVED, because brass and aluminium do not stick either. Card 5 WRONG, because foil is not magnetic, so it never sticks. Test the magnet on a nail to check it. Card 6 WRONG, because one nail does not tell us about other metals. Card 7 PROVED. Card 8 WRONG, because tin is not magnetic. The can is steel with a thin coat of tin. Card 9 NOT PROVED, because the car may be plastic with a steel axle. Card 10 PROVED for the bottom. Card 11 WRONG, because a magnet's force acts through non-magnetic plates. Card 12 NOT PROVED, because silver, brass and aluminium do not stick either. Card 13 WRONG, because a magnet repels a frog very weakly. It does not attract them like iron.",
@@ -1015,46 +1016,6 @@
      ],
      "a": 0,
      "why": "A magnet attracts what a thing is made of, not how light it is. Aluminium is not magnetic, so even a tiny scrap does not move. A heavy iron nail does. A strong answer says that weight is not what matters."
-    },
-    {
-     "t": "mcq",
-     "p": "In this table from a magnet test, one iron or steel thing did not stick. What is the most likely reason?",
-     "opts": [
-      "The magnet got tired",
-      "It was a kind of steel with a lot of nickel in it, like many steel tumblers",
-      "It was too shiny",
-      "Iron never sticks to a magnet"
-     ],
-     "a": 1,
-     "why": "Steel is a mixture, and some steels, with a lot of nickel added, are not magnetic. Many kitchen tumblers and bowls are made of this steel. A strong answer looks at the odd result instead of ignoring it.",
-     "context": "In the Great Magnet Test, you test 16 objects with a magnet and group the results. Here are some made-up results.",
-     "chart": {
-      "type": "table",
-      "title": "Made-up example: sticks and skips, by what things are made of",
-      "cols": [
-       "Made of",
-       "Stuck",
-       "Did not stick"
-      ],
-      "rows": [
-       [
-        "Iron or steel things",
-        "5",
-        "1"
-       ],
-       [
-        "Other metals",
-        "0",
-        "4"
-       ],
-       [
-        "Wood, plastic, glass, cloth, stone",
-        "0",
-        "6"
-       ]
-      ]
-     },
-     "how": "e1"
     },
     {
      "t": "write",
@@ -1275,18 +1236,6 @@
      "why": "A domain holds billions of atoms, with their tiny magnets all pointing the same way. A plain nail is full of domains that point in different directions."
     },
     {
-     "t": "mcq",
-     "p": "Every electron in a wooden spoon is a tiny magnet, but the spoon is not magnetic. Why?",
-     "opts": [
-      "Its electrons are in pairs that point opposite ways and cancel out",
-      "Wood has no atoms",
-      "A wooden spoon is too light",
-      "Wood is too hot"
-     ],
-     "a": 0,
-     "why": "In wood, the electrons come in pairs that point opposite ways, so each pair cancels out. In iron, some electrons have no partner, and the tiny magnets of neighbouring atoms point the same way. Everything is made of atoms, not only metals."
-    },
-    {
      "t": "truefalse",
      "p": "After you take a nail away from a magnet, the nail soon loses most of its magnetism.",
      "a": true,
@@ -1295,7 +1244,7 @@
     },
     {
      "t": "write",
-     "p": "Your aunt's new induction stove will not heat her aluminium pan. Explain why. Then say how she could check a pan in the shop before buying it.",
+     "p": "A neighbour's new induction stove will not heat her aluminium pan. Explain why. Then say how she could check a pan in the shop before buying it.",
      "lines": 4,
      "a": "An induction stove works with a changing magnetic field, which heats a pan well only if the pan is magnetic. Aluminium is not magnetic, so the pan stays cold. In the shop, she could hold a fridge magnet to the bottom of the pan. If it sticks firmly, the pan will work.",
      "why": "A strong answer links the stove to magnetism and gives a quick magnet test in the shop."
@@ -1306,50 +1255,6 @@
      "lines": 3,
      "a": "I can say it has iron, nickel or cobalt inside, so it is not pure brass or pure gold. I cannot say exactly what it is made of. It might be steel with a thin gold-coloured coat.",
      "why": "A strong answer separates what the test proves from what it leaves open."
-    },
-    {
-     "t": "sort",
-     "p": "Will a magnet stick? Sort these.",
-     "cats": [
-      "Sticks",
-      "Does not stick",
-      "Depends on the kind"
-     ],
-     "items": [
-      [
-       "an iron nail",
-       "Sticks"
-      ],
-      [
-       "aluminium foil",
-       "Does not stick"
-      ],
-      [
-       "a steel tumbler",
-       "Depends on the kind"
-      ],
-      [
-       "a steel spoon",
-       "Depends on the kind"
-      ],
-      [
-       "a wooden spoon",
-       "Does not stick"
-      ],
-      [
-       "a steel bowl",
-       "Depends on the kind"
-      ]
-     ],
-     "a": "see items",
-     "why": "A magnet always attracts iron, and never attracts aluminium or wood. Steel tumblers, spoons and bowls depend on exactly which mixture they are made of, so we test them."
-    },
-    {
-     "t": "write",
-     "p": "In the story 'What the Magnet Said No To', Zainab, a ten-year-old girl in a brass workshop, held her magnet over the new metal sheets and over an old brass diya. Why did the magnet stick to the new sheets but not to the old diya?",
-     "lines": 3,
-     "a": "The old diya was real brass, which is copper and zinc, so a magnet does not stick to it. The new sheets only had a thin coat of brass, with steel underneath, and a magnet sticks to steel.",
-     "why": "A strong answer says what each thing was made of, and that the magnet answers one question: is there iron inside?"
     },
     {
      "t": "mcq",
@@ -1420,6 +1325,19 @@
      ],
      "a": 2,
      "why": "Glass and water are not magnetic, so the magnetic force acts through them. The pin follows the magnet up the inside of the glass. A strong answer says that the force needs no gap of air."
+    },
+    {
+     "t": "truefalse",
+     "p": "A strong magnet held under a thin plastic tray can move a paper clip lying on top of the tray.",
+     "a": true,
+     "why": "True. Plastic is not magnetic, so the magnetic force acts through it. If the tray is thick, the clip is too far away and does not move."
+    },
+    {
+     "t": "write",
+     "p": "Dev, a boy in Class 3, compares two magnets. He lifts a big paper clip with one and a small paper clip with the other. Why is his test unfair? How can he fix it?",
+     "lines": 3,
+     "a": "He changed two things: the magnet and the clip. He should use the same clip, the same paper and the same way of holding each magnet, and change only the magnet. Then he should repeat each try.",
+     "why": "A strong answer says that only one thing may change in a fair test."
     }
    ]
   },
@@ -1439,7 +1357,7 @@
       "Frogs are lighter than air"
      ],
      "a": 2,
-     "why": "A magnet very weakly repels water and many other things. A huge magnet repels a frog strongly enough to hold them up. Here the magnet repels the frog, so iron is not the reason. The frog was unharmed."
+     "why": "A magnet very weakly repels water and many other things. A huge magnet repels a frog strongly enough to hold the frog up. Here the magnet repels the frog, so iron is not the reason. The frog was unharmed."
     },
     {
      "t": "write",
@@ -1479,19 +1397,6 @@
      "lines": 4,
      "a": "I will change only the magnet. I will keep the same paper clip, the same kind of paper and the same table. I will count how many sheets each magnet can attract the clip through. I will try each magnet three times, in case one try is a fluke.",
      "why": "A fair test changes one thing, keeps everything else the same, and repeats each try."
-    },
-    {
-     "t": "write",
-     "p": "In the story 'What the Magnet Said No To', Zainab's grandmother says, 'A good test is a small honest voice. It says one true thing.' What true thing did the magnet say about the new sheets? What could it not have said?",
-     "lines": 4,
-     "a": "The magnet said the sheets had steel inside, because it stuck, so they were not solid brass. If it had not stuck, it could not have said what they were made of. They might have been brass, or aluminium with yellow paint.",
-     "why": "A strong answer sees that a 'stick' gives a sure no to 'is this solid brass?', while a 'no stick' is only a maybe."
-    },
-    {
-     "t": "truefalse",
-     "p": "If a magnet does not stick to a thing, the thing cannot be a metal.",
-     "a": false,
-     "why": "False. Aluminium, copper, brass, gold and silver are metals, and a magnet does not stick to any of them."
     },
     {
      "t": "perspective",
@@ -1534,19 +1439,6 @@
      "lines": 4,
      "a": "Iron would not be magnetic. Fridge magnets made with iron would stop working, a compass needle would not point north, and a scrap dealer's magnet could not lift iron out of a heap.",
      "why": "A strong answer uses the tiny-magnet idea and follows it through to several everyday things."
-    },
-    {
-     "t": "mcq",
-     "p": "In the Star Dust on the Terrace activity, you swept roof dust and picked out black specks with a magnet. Why can't you be sure that every speck came from space?",
-     "opts": [
-      "Many magnetic specks come from rust, roads, factories and soil, not from space",
-      "Dust from space is never magnetic",
-      "A magnet only picks up plastic",
-      "The terrace is too high for space dust"
-     ],
-     "a": 0,
-     "why": "A magnet picks up anything magnetic, wherever it came from. Scientists who found real space dust on city roofs, in 2017, looked for tiny round, smooth beads and checked each one under a powerful microscope. A strong answer says what extra evidence is needed.",
-     "how": "a4"
     },
     {
      "t": "mcq",
@@ -1614,6 +1506,24 @@
       "Most domains turn back, and the nail stops being a magnet"
      ],
      "why": "Each step causes the next. This is why a magnet attracts a nail that is not a magnet itself."
+    },
+    {
+     "t": "truefalse",
+     "p": "A magnet left on a hot stove becomes stronger.",
+     "a": false,
+     "why": "False. Heat weakens a magnet, and enough heat ruins it for good. That is why a magnet is never heated."
+    },
+    {
+     "t": "mcq",
+     "p": "Michael Faraday hung a bar of heavy glass between the two ends of a very strong electromagnet. When he switched it on, the glass turned to lie across the gap. An iron bar would have turned the other way. What does this show?",
+     "opts": [
+      "Glass is a magnet",
+      "Glass contains iron",
+      "Glass is pushed away very weakly by a magnet, unlike iron",
+      "The electromagnet was broken"
+     ],
+     "a": 2,
+     "why": "Iron is drawn in towards the magnet's ends, so an iron bar points along the gap. The glass was pushed away from both ends, so it lay across the gap. Faraday found that almost every material responds to a magnet, in one way or the other."
     }
    ]
   }
@@ -1646,16 +1556,16 @@
      "qty": 4
     },
     {
-     "item": "a steel bowl or tumbler, and a coin",
-     "qty": 2
+     "item": "a steel bowl, a steel tumbler and a coin",
+     "qty": 3
     },
     {
      "item": "a ball of aluminium foil, a copper wire or copper water pot, and a brass key or diya",
      "qty": 3
     },
     {
-     "item": "a plastic spoon, a wooden pencil, a glass bangle, a piece of cotton cloth and a stone",
-     "qty": 5
+     "item": "a plastic spoon, a wooden pencil, a glass bangle, a piece of cotton cloth, a rubber band and a stone",
+     "qty": 6
     },
     {
      "item": "two sheets of paper, one marked STICK and one marked SKIP",
@@ -1788,7 +1698,7 @@
        ]
       }
      ],
-     "think": "Is it the shine that makes a thing stick? Compare the shiny brass key with the nail. Shine is one property of a material, and the unit Properties of Materials looks at many more."
+     "think": "Is it the shine that makes a thing stick? Compare the shiny brass key with the nail."
     },
     {
      "id": "s5",
@@ -1806,7 +1716,7 @@
        "Heavy"
       ],
       "a": 1,
-      "why": "The nail, pin, paper clip and steel spoon all contain iron. A shiny brass key and a shiny foil ball did not stick, so shine is not what matters. Picking 'any metal' often means thinking all metals are the same. The foil, copper and brass were all metals, and none of them stuck. A heavy stone did not stick either."
+      "why": "The nail, pin and paper clip all contain iron. A shiny brass key and a shiny foil ball did not stick, so shine is not what matters. Picking 'any metal' often means thinking all metals are the same. The foil, copper and brass were all metals, and none of them stuck. A heavy stone did not stick either."
      },
      "chart": {
       "type": "table",
@@ -1889,7 +1799,7 @@
   {
    "id": "e2",
    "title": "Through the Paper: does a magnet work through things?",
-   "mins": 25,
+   "mins": 30,
    "days": 1,
    "question": "Does a magnet's force act through other materials, and how many sheets of paper can it work through?",
    "predict": "Guess first. Will a magnet still attract a paper clip through one sheet of paper? Through ten sheets? Through a glass of water? Why do you think so?",
@@ -1926,11 +1836,11 @@
      "qty": 1
     }
    ],
-   "safety": "Keep magnets away from phones and cards. Mop up any spilled water.",
+   "safety": "Keep magnets away from phones and cards.",
    "schedule": [
     {
      "day": 1,
-     "mins": 25,
+     "mins": 30,
      "what": "Test different materials between the magnet and the clip. Then count how many sheets of paper the magnet can work through."
     }
    ],
@@ -1978,7 +1888,18 @@
      "do": "1. Lay the clip on the table. 2. Stack 5 sheets over it, then bring the magnet down on top. 3. Add 5 more sheets and try again. 4. Keep adding until the clip no longer jumps. 5. Write the biggest stack where it still jumped.",
      "say": "Now we find the limit. Add five sheets at a time. At some point, the clip will not jump. Write down the last stack where it did.",
      "kid": "Stack 5 sheets over the clip and try the magnet. Add 5 more sheets and try again. Keep going until the clip stays put. Write the last number.",
-     "parent": "Many fridge magnets reach through 10 to 25 thin sheets. Weaker ones reach less. The result depends on the magnet, the paper and the clip. Your numbers may differ a lot from the example."
+     "parent": "Many fridge magnets reach through 10 to 25 thin sheets. Weaker ones reach less. The result depends on the magnet, the paper and the clip. Your numbers may differ a lot from the example.",
+     "check": {
+      "t": "mcq",
+      "q": "Why does the clip stop jumping when the stack gets too thick?",
+      "options": [
+       "The paper blocks the magnetic force completely",
+       "The magnet is now too far away to attract the clip",
+       "The clip becomes non-magnetic"
+      ],
+      "a": 1,
+      "why": "A magnet's force gets weaker very quickly as the gap grows. A thick stack of paper only keeps the magnet further from the clip. Picking 'paper blocks it' often means picturing paper as a wall. But one sheet did not stop it, and a stronger magnet worked through more sheets."
+     }
     },
     {
      "id": "s4",
@@ -2017,18 +1938,7 @@
      "do": "Test the steel plate. 1. Check whether a magnet sticks to the plate. 2. Put the clip on one side of the plate and the magnet on the other side. See if the clip moves. Then say or write what you think, what you saw and why.",
      "say": "Does the magnet attract the clip through the plate? What do you think, what did you see, and why?",
      "kid": "Try the steel plate. Put the clip on the far side. Does it move? Say what you think, what you saw, and why.",
-     "parent": "This depends on the steel. If a magnet sticks to your plate, the plate carries the magnetic field inside itself, and the clip on the far side hardly moves. If a magnet does not stick to your plate, the force passes through, as with paper. Both results are correct. They show again that the exact steel matters.",
-     "check": {
-      "t": "mcq",
-      "q": "Why does the clip stop jumping when the stack gets too thick?",
-      "options": [
-       "The paper blocks the magnetic force completely",
-       "The magnet is now too far away to attract the clip",
-       "The clip becomes non-magnetic"
-      ],
-      "a": 1,
-      "why": "A magnet's force gets weaker very quickly as the gap grows. A thick stack of paper only keeps the magnet further from the clip. Picking 'paper blocks it' often means picturing paper as a wall. But one sheet did not stop it, and a stronger magnet worked through more sheets."
-     }
+     "parent": "This depends on the steel. If a magnet sticks to your plate, the plate carries the magnetic field inside itself, and the clip on the far side hardly moves. If a magnet does not stick to your plate, the force passes through, as with paper. Both results are correct. They show again that the exact steel matters."
     }
    ],
    "context": "This experiment asks whether a magnet's force acts through paper, cloth, plastic, wood and water. It also asks how far away from a clip a magnet still works.",
@@ -2113,7 +2023,7 @@
     {
      "day": 1,
      "mins": 30,
-     "what": "Hang a chain of clips from the magnet. Touch different objects to the magnet and see which ones become magnets. Magnetise a needle."
+     "what": "Hang a chain of clips from the magnet. Touch different objects to the magnet and see which ones become magnets. Optional: magnetise a needle."
     }
    ],
    "record": "Fill in the table. Then write one sentence about which materials could become magnets.",
@@ -2133,7 +2043,7 @@
        ]
       }
      ],
-     "parent": "Each clip in the chain becomes a weak magnet while it is near the magnet. This is the idea of the whole experiment. A chain of 3 to 6 is typical for a fridge magnet.",
+     "parent": "Each clip in the chain becomes a weak magnet while it is near the magnet. This is the idea of the whole experiment. A chain of 2 to 4 is typical for a fridge magnet. A weak one may hold only 1 or 2.",
      "context": "This is the first step of the experiment about turning things into magnets. A magnet can turn a magnetic thing into a magnet for a short time."
     },
     {
@@ -2157,10 +2067,10 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Do the same with the steel bolt, the steel spoon, the copper wire, the foil strip and the brass key. 2. For each one, touch it to the magnet for five seconds. 3. Count the clips it can pick up. 4. Write the numbers in the table.",
+     "do": "1. Do the same with the steel bolt, the steel spoon, the copper wire, the foil strip and the brass key. 2. For each one, touch it to the magnet for five seconds. 3. Count the clips it picks up while touching the magnet. 4. Pull it away from the magnet and count how many clips are still held. 5. Do each one three times, take the middle number, and write it in the table.",
      "say": "Now try the other things. Which ones become magnets? Which do not?",
      "kid": "Try the bolt, spoon, copper wire, foil and brass key. Count the clips each can pick up. Write the numbers.",
-     "parent": "Expect clips on the nail and the bolt, and maybe a few on the steel spoon. Expect none on the copper, aluminium and brass. If your fridge magnet is weak, put the clips closer.",
+     "parent": "Expect a few clips on the nail and the bolt, and maybe one on the steel spoon. Expect none on the copper, aluminium and brass. The example numbers come from a strong magnet. If your fridge magnet is weak, you may get only one or two clips, which is a real result. After the object leaves the magnet, it usually holds none.",
      "chart": {
       "type": "bar",
       "title": "Made-up example results: clips each object picked up while touching the magnet",
@@ -2204,11 +2114,11 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "A grown-up does this step. 1. Hold a steel sewing needle. 2. Stroke it 30 times along one end of the magnet, always in the same direction. 3. At the end of each stroke, lift the needle away through the air. 4. Test if the needle can pick up a paper clip. 5. Do the same with a steel nail, and compare how long each stays a magnet.",
-     "say": "Now we try to make a lasting magnet. Stroke the needle many times in the same direction. Always lift it away at the end of each stroke.",
-     "kid": "Ask a grown-up to hold the needle. Stroke it 30 times with the magnet, the same way each time. Does it pick up a clip?",
+     "do": "Optional extra. A grown-up does this step. 1. Hold a steel sewing needle. 2. Stroke it 30 times along one end of the magnet, always in the same direction. 3. At the end of each stroke, lift the needle away through the air. 4. Test if the needle can pick up a pin or a paper clip. 5. Do the same with a steel nail, and compare how long each stays a magnet.",
+     "say": "Now we try to make a lasting magnet. This step is an extra, and it may not work with a weak magnet. Stroke the needle many times in the same direction. Always lift it away at the end of each stroke.",
+     "kid": "Ask a grown-up to hold the needle. Stroke it 30 times with the magnet, the same way each time. Does it pick up a pin or a clip?",
      "adult": true,
-     "parent": "The needle should pick up a clip or two, and keep doing so for hours or days. The nail may stop being a magnet within minutes. Results vary a lot. Steel with more carbon stays magnetised better than soft iron. Scientists call steel that stays magnetised a hard magnetic material, and iron that soon loses it a soft magnetic material.",
+     "parent": "This step is doubtful with a fridge magnet. The needle may pick up only a pin, or nothing. If it picks up nothing, that is a real result: a weak magnet makes a weak needle magnet. If it works, it can keep working for hours or days, and the nail may stop within minutes. Steel with more carbon stays magnetised better than soft iron. Scientists call steel that stays magnetised a hard magnetic material, and iron that soon loses it a soft magnetic material.",
      "think": "A fridge magnet stays a magnet for years. A nail loses its magnetism in minutes. What might be different inside them?"
     },
     {
@@ -2217,7 +2127,7 @@
      "do": "Ask your child to say or write three short sentences. What I think, what I saw, and why.",
      "say": "Now tell me three things. What do you think now? What did you see? Why do you think it happened?",
      "kid": "Say or write three things: what you think, what you saw, and why.",
-     "parent": "A good answer sounds like this. What I think: only magnetic materials can become magnets. What I saw: the nail and bolt picked up clips, but copper, foil and brass did not. Why: the big magnet can line up the domains inside the nail. Copper and brass have no domains to line up."
+     "parent": "A good answer sounds like this. What I think: only magnetic materials can become magnets. What I saw: the nail and bolt picked up clips, but copper, foil and brass did not. Why: the magnet can line up the domains inside the nail. Copper and brass have no domains to line up."
     }
    ],
    "context": "A magnet can turn a nail into a magnet for a short time. This experiment finds out which materials can become magnets this way.",
@@ -2293,12 +2203,12 @@
      "qty": 1
     }
    ],
-   "safety": "Go outdoors only with a grown-up. Keep the magnet away from phones, cards and the TV screen.",
+   "safety": "Keep the magnet away from phones and cards.",
    "schedule": [
     {
      "day": 1,
      "mins": 25,
-     "what": "Hunt for 15 places a magnet sticks, indoors and then outside."
+     "what": "Hunt for 15 places a magnet sticks, indoors first. Go outside only with a grown-up."
     }
    ],
    "record": "Write a list of 15 places. Next to each one, write STICK or SKIP.",
@@ -2314,7 +2224,7 @@
     {
      "id": "s2",
      "mins": 18,
-     "do": "Hunt around the home, then outside. Try the fridge door, almirah, pressure cooker, tawa and window grill. Outside, try a metal roof sheet, a gate, a cycle frame and a school bag zip.",
+     "do": "Hunt around the home. Try the fridge door, almirah, pressure cooker, tawa and window grill. Outside, with a grown-up, try a roof sheet, a gate, a cycle frame and a bag zip.",
      "say": "For each place, guess first. Then touch the magnet to it. Does it stick? Write STICK or SKIP.",
      "kid": "For each place, guess first. Then test it. Write STICK or SKIP.",
      "adult": true,
@@ -2352,7 +2262,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "3 or more people, including the grown-up",
+     "item": "2 or more people to be atoms, and a grown-up to hold the big arrow",
      "qty": 3
     },
     {
@@ -2391,7 +2301,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Now the group is iron. Everyone points both arms forward, the same way. 2. Split into two or three small groups. In each group, everyone points the same way. These are domains. 3. Different groups point different ways. 4. The grown-up walks past with the big arrow. Each group slowly turns to point the same way as the arrow.",
+     "do": "1. Now the group is iron. Everyone points both arms forward, the same way. 2. Split into two or three small groups. In each group, everyone points the same way. These are domains. If there are only two atoms, each one is its own group. 3. Different groups point different ways. 4. The grown-up walks past with the big arrow. Each group slowly turns to point the same way as the arrow.",
      "say": "Now we are iron. In iron, some electrons have no partner, and each atom points the same way as its neighbours. Stand in small groups, all pointing one way. When the big arrow comes, turn to match it.",
      "kid": "Now you are iron. Point both arms forward. Your group points the same way. When the big arrow comes, turn to match it.",
      "check": {
@@ -2455,8 +2365,8 @@
      "buy": "b-magnets"
     },
     {
-     "item": "three bowls or sheets of paper",
-     "qty": 3
+     "item": "four bowls or sheets of paper",
+     "qty": 4
     }
    ],
    "safety": "Do not include sharp metal or broken glass. Wash hands after handling old metal.",
@@ -2473,7 +2383,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Mix everything in the tray to make a heap of scrap. 2. Ask your child to guess how many things the magnet will pick out. 3. Write the guess on the paper.",
-     "say": "A kabadiwala gets a huge heap of mixed scrap. How could a magnet help him? Guess how many things the magnet will pick out of this heap.",
+     "say": "A kabadiwala gets a huge heap of mixed scrap. How could a magnet help the dealer? Guess how many things the magnet will pick out of this heap.",
      "kid": "This tray is a heap of scrap. Guess how many things the magnet will pick out. Write your number.",
      "context": "This is the first step of the Kabadiwala's Heap. You sort a heap of mixed junk with a magnet, the way a scrap dealer does."
     },
@@ -2483,7 +2393,7 @@
      "do": "1. Move the bagged magnet just above the heap. 2. Lift off whatever sticks. 3. Hold the bag over a bowl marked MAGNETIC, and pull the magnet out of the bag, so the things drop in. 4. Repeat until nothing else sticks.",
      "say": "The magnet is the first sorter. Everything that sticks goes into the MAGNETIC bowl. The bag lets you drop them in easily.",
      "kid": "Move the magnet over the heap. Everything that sticks goes into the MAGNETIC bowl. Pull the magnet out of the bag to drop them.",
-     "parent": "The bag keeps the magnet clean. When you pull the magnet out of the bag, the things drop. Expect clips, pins, steel caps and the steel spoon.",
+     "parent": "The bag keeps the magnet clean. When you pull the magnet out of the bag, the things drop. Expect clips, pins, steel caps and the steel spoon, if that steel is magnetic.",
      "check": {
       "t": "mcq",
       "q": "After the magnet is done, what is left in the tray?",
@@ -2499,10 +2409,10 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Look at what is left. Ask how you could separate the aluminium, copper and brass from the plastic and rice. 2. Try some ideas: tap each to hear the ring, float in water, look at the colour. 3. Put them in two or three more bowls.",
+     "do": "1. Look at what is left. Ask how you could separate the aluminium, copper and brass from the plastic and rice. 2. Try some ideas: tap each to hear the ring, float in water, look at the colour. 3. Put them in the other bowls.",
      "say": "Now the magnet cannot help. How can we sort the rest? What does each thing feel, sound or look like?",
      "kid": "The magnet is done. How can you sort the rest? Try colour, ringing sound, floating in water.",
-     "parent": "Good ideas: copper is reddish, brass is yellow, and foil is silvery and bends easily. Metal pieces ring when tapped, but rice and plastic make a dull sound. This links to the Sorting Materials unit.",
+     "parent": "Good ideas: copper is reddish, brass is yellow, and foil is silvery and bends easily. Metal pieces ring when tapped, but rice and plastic make a dull sound.",
      "think": "In a real scrap yard, the metals worth the most, such as copper and brass, are not magnetic. Why do you think a magnet is still used first?"
     },
     {
@@ -2537,12 +2447,12 @@
    "days": 1,
    "materials": [
     {
-     "item": "a magnet inside a clear plastic bag, or a magnetic pick-up wand",
+     "item": "a magnet inside a clear plastic bag",
      "qty": 1,
-     "buy": "b-wand"
+     "buy": "b-magnets"
     },
     {
-     "item": "a small tray of fine dust and grit swept from a terrace, rain gutter or drain cover",
+     "item": "a small tray of fine dust and grit swept from a windowsill, balcony, terrace or rain gutter",
      "qty": 1
     },
     {
@@ -2555,7 +2465,7 @@
      "buy": "b-lens"
     }
    ],
-   "safety": "A grown-up must come with you on a terrace or roof. Stay away from edges. Wash your hands after touching dust.",
+   "safety": "A grown-up must come with you on a terrace or roof. Stay away from edges.",
    "schedule": [
     {
      "day": 1,
@@ -2577,11 +2487,11 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. With a grown-up, sweep dust from a flat roof, a gutter or a drain cover into a tray. 2. Spread it thinly on white paper. 3. Drag the bagged magnet through it slowly. 4. Wipe whatever sticks onto a clean white sheet by pulling the magnet out of the bag.",
+     "do": "1. Sweep dust from a windowsill, a balcony floor or, with a grown-up, a flat roof or gutter into a tray. 2. Spread it thinly on white paper. 3. Drag the bagged magnet through it slowly. 4. Wipe whatever sticks onto a clean white sheet by pulling the magnet out of the bag.",
      "say": "Drag the magnet through the dust slowly. Little dark specks will cling to the bag. Wipe them off onto the white paper.",
      "kid": "Spread the dust thinly. Drag the magnet through it slowly. Little dark specks will cling to the bag. Wipe them onto white paper.",
      "adult": true,
-     "parent": "Expect many dark specks. Most are iron from Earth: flakes of rust, dust from vehicle brakes, and sparks from welding. Some of these are round black beads too. A tiny few may be micrometeorites, which means space dust. Only an expert with a microscope can be sure, so be honest about that."
+     "parent": "Expect some dark specks. If you find none, try dust from another place. Most are iron from Earth: flakes of rust, dust from vehicle brakes, and sparks from welding. Some are round black beads too. A tiny few may be micrometeorites, which means space dust. Only an expert with a microscope can be sure, so be honest about that."
     },
     {
      "id": "s3",
@@ -2655,7 +2565,7 @@
      "qty": 1
     }
    ],
-   "safety": "Keep the magnet wrapped in the bag, so the specks don't stick to it for good. Keep the magnet away from phones and cards. Wash your hands after touching soil.",
+   "safety": "Keep the magnet away from phones and cards. Wash your hands after touching soil.",
    "schedule": [
     {
      "day": 1,
@@ -2672,7 +2582,7 @@
      "say": "Soil and sand look like they have no metal in them. But many have tiny grains of a black mineral called magnetite, which is made of iron and oxygen. A magnet attracts magnetite. Do you think we will find some? Why?",
      "kid": "Wrap the magnet in the bag. Spread the soil on the plate. Guess: will the magnet find iron? Why do you think so?",
      "context": "This is the first step of Hidden Iron. You use a magnet to find tiny grains of magnetite, a mineral made of iron and oxygen, hidden in soil or sand.",
-     "parent": "Most soil and sand in India has some magnetite in it. River and beach sand often has a lot. Potting mix made only of cocopeat may have none, so use real soil if you can."
+     "parent": "Many soils and sands in India have some magnetite in them. River and beach sand often has a lot. Potting mix made only of cocopeat may have none, so use real soil if you can."
     },
     {
      "id": "s2",
@@ -2729,7 +2639,7 @@
      "qty": 1
     },
     {
-     "item": "six small things: a clip, a pin, a foil ball, a cap, a peg and a steel spoon",
+     "item": "six small things: a steel paper clip, a steel nut, a foil ball, a plastic cap, a wooden peg and a steel nail",
      "qty": 6
     },
     {
@@ -2738,7 +2648,7 @@
      "buy": "b-magnets"
     }
    ],
-   "safety": "Keep magnets away from phones and cards. Do not put sharp things in the bag.",
+   "safety": "Keep magnets away from phones and cards.",
    "schedule": [
     {
      "day": 1,
@@ -2764,7 +2674,7 @@
      "kid": "Sweep the magnet inside the bag. What clings to it? Guess what they are. Then look.",
      "check": {
       "t": "mcq",
-      "q": "The magnet picked up the clip, pin and spoon, but not the other three. What do we know about the other three?",
+      "q": "The magnet picked up the clip, nut and nail, but not the other three. What do we know about the other three?",
       "options": [
        "A magnet does not attract them, but we do not know what they are made of",
        "They are all plastic",
@@ -2818,7 +2728,7 @@
      "qty": 1
     }
    ],
-   "safety": "Play on a flat, clear space. No pushing. Walk fast, do not run on slippery floors.",
+   "safety": "Play on a clear floor. No pushing.",
    "schedule": [
     {
      "day": 1,
@@ -2831,7 +2741,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Give each player a face-down card. They look at it in secret. 2. One player is the MAGNET. 3. Explain the rules. If the MAGNET tags a player holding a magnetic thing, that player is STUCK and must freeze.",
+     "do": "1. Give each player a face-down card. They look at it in secret. 2. One player is the MAGNET. 3. Explain the rules. If the MAGNET tags a player holding a magnetic thing, that player is STUCK and must freeze. With two players, the grown-up is the MAGNET. A stuck child counts slowly to twenty to get free.",
      "say": "One of you is the magnet. The rest of you each secretly hold a card. If the magnet tags you and your card is magnetic, you freeze. If it is not magnetic, nothing happens.",
      "kid": "One player is the MAGNET. Everyone else holds a secret card. If you are tagged and your card is magnetic, you freeze!",
      "context": "This is the first step of Magnet Tag. It is a tag game where only the players holding magnetic things get stuck."
@@ -2839,7 +2749,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Play for five minutes. 2. Stuck players stay frozen until a player holding a non-magnetic card touches them. 3. After the game, everyone shows their card. 4. Swap cards and play again.",
+     "do": "1. Play for five minutes. 2. Stuck players stay frozen until a player holding a non-magnetic card touches them. If everyone is frozen, the round ends. 3. After the game, everyone shows their card. 4. Swap cards and play again.",
      "say": "Frozen players are freed by a friend who is holding a non-magnetic card. Play for five minutes, then show your cards.",
      "kid": "Frozen? Wait for a friend with a non-magnetic card to free you. Play for five minutes, then show your cards.",
      "ask": [
@@ -2953,7 +2863,7 @@
      "do": "Let the painting dry. Talk about what happened, and why a clip painted, but a plastic cap would not.",
      "say": "Why did the clip move, but a plastic button would not? Which pictures would you like to make next?",
      "kid": "Why did the clip move? Would a plastic button move? Let the painting dry.",
-     "think": "Artists have used iron dust and magnets to make pictures for many years. What other pictures can you paint?"
+     "think": "What other pictures could you paint with a magnet?"
     }
    ],
    "context": "This is an art activity. You use a magnet under the paper to move a paint-covered paper clip and make a painting.",
@@ -3003,7 +2913,7 @@
      "qty": 2
     }
    ],
-   "safety": "Keep magnets away from phones, cards and small children. Sweep up any dropped clips so nobody steps on them.",
+   "safety": "Keep magnets away from phones and cards.",
    "schedule": [
     {
      "day": 1,
@@ -3012,13 +2922,13 @@
     },
     {
      "day": 2,
-     "mins": 25,
+     "mins": 12,
      "what": "Test the ramp with 20 clips mixed with 20 other bits. Count and record."
     },
     {
      "day": 3,
-     "mins": 15,
-     "what": "Change one thing. Test again. Compare the three designs."
+     "mins": 28,
+     "what": "Change one thing. Test again, twice. Draw a bar chart and compare the three designs."
     }
    ],
    "record": "Write how many of the 20 clips your ramp caught in each test. Draw a bar for each design. Write what you changed.",
@@ -3037,7 +2947,7 @@
      "do": "1. Prop one end of the cardboard on a stack of books, about 20 centimetres high. 2. Tape a magnet under the middle of the ramp, so it holds the clips from below. 3. Put one bowl at the bottom to catch what slides.",
      "say": "Prop up the ramp. Tape the magnet under the middle. Place a bowl at the bottom. The clips should stop at the magnet. The rice should slide down.",
      "kid": "Prop up the ramp on books. Tape the magnet under the middle. Put a bowl at the bottom.",
-     "parent": "If the magnet is too weak, clips slide past it. If the cardboard is too thick, the magnet is too far from the clips. Both are useful things to find out.",
+     "parent": "If the magnet is too weak, clips slide past it. If the cardboard is too thick, the magnet is too far from the clips. Both are useful things to find out. If the rice does not slide, use plastic beads or make the ramp steeper.",
      "check": {
       "t": "mcq",
       "q": "Why does the magnet go under the ramp, not on top?",
@@ -3056,7 +2966,7 @@
      "do": "1. Mix 20 clips with 20 non-magnetic bits. 2. Pour the mix at the top of the ramp, slowly. 3. Count how many clips stayed on the ramp and how many slid into the bowl. 4. Write the numbers down.",
      "say": "Pour the mixture slowly at the top. Count the clips that stayed on the ramp, and the clips that slid down. How well did your ramp work?",
      "kid": "Pour the mix at the top. Count the clips that stayed. Count the clips that slid down. Write the numbers.",
-     "parent": "Do the test in a tray to catch any bouncing clips. A typical first try catches 8 to 14 of the 20 clips. That is fine. The next step is to improve it."
+     "parent": "Do the test in a tray to catch any bouncing clips. The first try may catch only some of the 20 clips, and that is fine. The next step is to improve it."
     },
     {
      "id": "s4",
@@ -3096,7 +3006,7 @@
      "do": "1. Draw a bar chart of the three results. 2. Talk about which change helped most and why. 3. Say what you would change next.",
      "say": "Which design caught the most clips? Why do you think it worked? What would you try next?",
      "kid": "Draw a bar for each design. Which caught the most? Why? What would you try next?",
-     "parent": "Good reasons: a gentler slope gives the magnet more time to hold the clips. Two magnets cover more of the ramp. A thinner card puts the magnet closer to the clips. Notice the link to the Through the Paper experiment."
+     "parent": "Good reasons: a gentler slope gives the magnet more time to hold the clips. Two magnets cover more of the ramp. A thinner card puts the magnet closer to the clips. This is the same idea as the Through the Paper experiment: the nearer the magnet, the stronger the hold."
     }
    ],
    "context": "This is a build project over three days. You build a ramp with a magnet underneath that sorts steel paper clips from rice and other bits.",
@@ -3125,7 +3035,7 @@
    "constraints": [
     "No fingers in the bowl.",
     "You can only use a magnet and things you find at home.",
-    "The rice must stay in the bowl."
+    "Do not throw any rice away."
    ],
    "materials": [
     "a bowl of rice with a steel pin hidden in it",
@@ -3255,7 +3165,7 @@
      "do": "Look at the usual ideas and the creative ideas. Ask your child to invent a new one and test it.",
      "say": "Here are the usual ways and some clever ones. Can you invent a new one?",
      "kid": "Look at the usual ways and the clever ones. Now invent your own and test it.",
-     "think": "Why are fridge doors made of steel and not wood? What does the magnetic strip around a fridge door do? The unit Using Materials looks at how to choose the right material for a job."
+     "think": "Why are fridge doors made of steel and not wood? What does the magnetic strip around a fridge door do?"
     }
    ],
    "context": "This is an engineering challenge. You must make a fridge magnet stay on a wooden board, which it would not stick to as it is.",
@@ -3282,23 +3192,23 @@
    "youtube": "Q1lL-hXO27Q",
    "mins": 7,
    "why": "For the parent and curious older children. The physicist Richard Feynman is asked why magnets attract and repel each other. He shows how hard that question is, because every answer to 'why' leads to another 'why'.",
-   "check": "Found by YouTube search: \"Feynman: Magnets (and Why?)  FUN TO IMAGINE  4/ higher quality version!\" by Christopher Sykes. Title checked automatically; a parent may still preview it."
+   "check": "A parent should preview it first."
   },
   {
-   "title": "The levitating frog",
+   "title": "The High Field Magnet Laboratory, Radboud University",
    "channel": "Radboud University High Field Magnet Laboratory, Nijmegen",
    "youtube": "9lfvK4-LVwE",
    "mins": 3,
-   "why": "Shows a live frog floating in a very strong magnet. The magnet repels the water in the frog's body very weakly, but strongly enough to hold the frog up.",
-   "check": "Found by YouTube search: \"The High Field Magnet Laboratory (HFML) at Radboud University\" by Radboud University. Title checked automatically; a parent may still preview it."
+   "why": "A film about the strong-magnet laboratory in Nijmegen, the Netherlands, where a live frog was floated in a magnet. A parent should preview it first, because the frog may be shown only briefly.",
+   "check": "A parent should preview it first."
   },
   {
    "title": "A scrap yard magnet crane sorting steel",
-   "channel": "to find",
+   "channel": "Steel Magnetism",
    "youtube": "ARvLxpDZfos",
    "mins": 3,
    "why": "Shows how a giant magnet lifts iron and steel out of a mixed heap, the way our small magnet did.",
-   "check": "Found by YouTube search: \"Real Scrapyard Sounds — Magnet Crane at Work\" by Steel Magnetism. Title checked automatically; a parent may still preview it."
+   "check": "A parent should preview it first."
   }
  ],
  "quiz": [
@@ -3327,19 +3237,6 @@
    "a": 2,
    "outcome": 1,
    "why": "A surprise teaches us something. We write down what happened, and change our idea. Picking 'test again until it sticks' means wanting to be right more than wanting to learn."
-  },
-  {
-   "t": "mcq",
-   "p": "Why do we test each object twice with a magnet?",
-   "opts": [
-    "A magnet needs two touches to work",
-    "It makes the test longer",
-    "Objects get tired",
-    "One try could be a fluke"
-   ],
-   "a": 3,
-   "outcome": 1,
-   "why": "A repeat tells us whether we can trust a result. Picking 'a magnet needs two touches' often means thinking a magnet needs time to charge up. It attracts at once."
   },
   {
    "t": "mcq",
@@ -3633,7 +3530,7 @@
   "Look at a coin. What do you think it is made of? How could we find out?",
   "If you had a very strong magnet, what would you try to pick up?",
   "A magnet works through paper. What else do you think it could work through?",
-  "Where does the kabadiwala put the metal he buys from us? Where does it go next?",
+  "Where does the kabadiwala put the metal bought from us? Where does it go next?",
   "The iron in this nail was made in an exploding star. What do you think about that?",
   "If every metal were magnetic, what would be difficult in our home?"
  ],
@@ -3659,76 +3556,20 @@
    "a": "It really stuck at its work."
   },
   {
-   "j": "Why did the kabadiwala bring a magnet to work?",
-   "a": "He wanted to attract more business."
-  },
-  {
-   "j": "Why did the aluminium foil stay so calm around the magnet?",
-   "a": "It was not the least bit attracted."
-  },
-  {
-   "j": "What do you call a magnet that tells jokes?",
-   "a": "A real attraction."
-  },
-  {
-   "j": "Why did the cupboard door feel left out?",
-   "a": "All the magnets stuck to the fridge."
-  },
-  {
-   "j": "How did the nail get into the magnet's club?",
-   "a": "It stuck around."
-  },
-  {
-   "j": "Why was the steel tumbler so hard to catch?",
-   "a": "It would not get attached to anyone."
-  },
-  {
    "j": "What did one magnet say to the other at the wedding?",
    "a": "I feel a connection."
-  },
-  {
-   "j": "Why did the magnet go to the scrap yard?",
-   "a": "To meet some steel friends."
-  },
-  {
-   "j": "Why did the frog float in the big magnet?",
-   "a": "It was having a levitating time."
-  },
-  {
-   "j": "What do you call an iron joke?",
-   "a": "One that sticks."
   },
   {
    "j": "Why did the magnet do so well in the maths test?",
    "a": "It was attracted to all the right answers."
   },
   {
-   "j": "Why did the iron tawa love the fridge magnet?",
-   "a": "They had great chemistry."
-  },
-  {
    "j": "What did the wooden spoon say to the magnet?",
    "a": "Sorry, I am just not into you."
   },
   {
-   "j": "Why did the compass needle always look so sure?",
-   "a": "It knew which way to point."
-  },
-  {
-   "j": "Why was the copper wire never afraid of magnets?",
-   "a": "It was never attracted to them."
-  },
-  {
-   "j": "Why did the safety pin run to the magnet?",
-   "a": "It felt it was pinned to a good cause."
-  },
-  {
    "j": "What did the scrap heap say after the magnet left?",
    "a": "Now I feel so sorted."
-  },
-  {
-   "j": "Why did the magnet go to the beach?",
-   "a": "To find some sand with a bit of attraction."
   },
   {
    "j": "What did the magnet say to the tired nail?",
@@ -3931,14 +3772,14 @@
    "url": "https://nehruplanetarium.org/",
    "kind": "place",
    "where": "New Delhi",
-   "why": "Shows about the Sun, the Earth and the sky. Good for the part of this unit about the Earth's iron core and the stars that made iron."
+   "why": "Shows about the Sun, the Earth and the sky. Good for learning about the Earth's iron core and the stars that made iron."
   },
   {
    "title": "A kabadiwala, a hardware shop and a steel utensil shop near you",
    "url": "",
    "kind": "place",
    "where": "anywhere",
-   "why": "Bring a magnet and ask the shopkeeper's permission. At the utensil shop, test which steel vessels stick. At the kabadiwala's, ask how he sorts his metal."
+   "why": "Bring a magnet and ask the shopkeeper's permission. At the utensil shop, test which steel vessels stick. At the kabadiwala's, ask how they sort their metal."
   },
   {
    "title": "A beach or riverbank with dark sand",
@@ -3965,25 +3806,13 @@
     "a6",
     "a8",
     "p1"
-   ],
-   "plan": "Used again in Poles and Magnets, Compass and Earth, and Electromagnets."
-  },
-  {
-   "id": "b-wand",
-   "item": "Telescopic magnetic pick-up wand",
-   "kind": "tool",
-   "why": "A long handle lets you sweep a magnet over a heap or through dust, without touching it. It is used in the star dust hunt.",
-   "url": "https://www.amazon.in/s?k=telescopic+magnetic+pick+up+tool",
-   "used_in": [
-    "a4"
-   ],
-   "plan": "If bought, use it for the Kabadiwala's Heap and again for the star dust hunt."
+   ]
   },
   {
    "id": "b-lens",
    "item": "Magnifying glass",
    "kind": "tool",
-   "why": "Lets you look at the tiny specks of star dust.",
+   "why": "Lets you look at the tiny specks in the star dust hunt.",
    "url": "https://www.amazon.in/s?k=magnifying+glass+for+kids",
    "used_in": [
     "a4"
@@ -4011,8 +3840,7 @@
    "url": "https://www.amazon.in/s?k=Mickey%27s+Magnet+Franklyn+Branley",
    "used_in": [
     "e1"
-   ],
-   "plan": "If bought, read it after the story, before the Great Magnet Test."
+   ]
   },
   {
    "id": "b-book2",
@@ -4022,8 +3850,7 @@
    "url": "https://www.amazon.in/s?k=Stuff+Matters+Mark+Miodownik",
    "used_in": [
     "g1"
-   ],
-   "plan": "If bought, read the steel chapter on the day of the Stick or Skip game."
+   ]
   }
  ],
  "warmup": [
@@ -4077,14 +3904,14 @@
   "deep_truth": {
    "truth": "In the magnet test, only things made with iron, like steel, stuck. In iron, the atoms' tiny magnets line up and add together into a strong pull. Water, wood and you are pushed away instead, but far too weakly to feel. So a very strong magnet can float a drop of water, or even a live frog.",
    "habit": "We sort materials into two boxes, magnetic and non-magnetic, as if a magnet acts on one box and leaves the other alone. The science shows one scale instead: strong attraction, weak attraction and weak repulsion. The line between the two boxes is drawn by what our hands can feel.",
-   "evidence": "In 1997, Andre Geim and Michael Berry floated a live frog in a very strong magnet, because the magnet repels the water in their body. A drop of water can be floated the same way. In 1845, Michael Faraday found that every material he tested moved a little near a strong magnet."
+   "evidence": "In 1997, Andre Geim and Michael Berry floated a live frog in a very strong magnet, because the magnet repels the water in the frog's body. A drop of water can be floated the same way. In 1845, Michael Faraday found that every material he tested moved a little near a strong magnet."
   },
   "three": {
    "who_am_i": "You are made of atoms, and every electron in them is a tiny magnet. In your body they cancel out, so a strong enough magnet would repel you very weakly, as it repels a frog.",
-   "what_is_life": "Life uses magnetic materials too. Some bacteria grow a chain of tiny magnets and use it to find their way, and many animals sense the Earth's magnetic field.",
+   "what_is_life": "Life uses magnetic materials too. Some bacteria grow tiny magnets in a chain and use the chain to find their way, and many animals sense the Earth's magnetic field.",
    "what_is_this_world": "Every material in the world responds to a magnet, strongly or very weakly. Our hands notice only the strongest cases."
   },
-  "thread": "Every electron is a tiny magnet. In wood and copper, the electrons come in pairs that cancel out to zero. In iron, the same kind of electrons add up, and strong magnetism appears. So wood and iron are not two separate kinds of thing for a magnet. They sit at two ends of one scale. The whole world comes from one source, and many of the differences we see are differences of amount, not of kind.",
+  "thread": "Every electron is a tiny magnet. In wood and copper, the electrons come in pairs that cancel out to zero. In iron, the same kind of electrons add up, and strong magnetism appears. So wood and iron are not two separate kinds of thing for a magnet. They sit at two ends of one scale. Many of the differences we see are differences of amount, not of kind.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.13",

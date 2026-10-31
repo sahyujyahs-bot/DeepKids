@@ -1432,6 +1432,35 @@ function onAct(e) {
       render();
       break;
     }
+    case "lifeadd":
+      ui.lf = { kind: "did" };
+      openSheet({ mode: "lifeadd" });
+      break;
+    case "lifekind":
+      ui.lf = {
+        ...ui.lf,
+        kind: b.dataset.k,
+        title: document.getElementById("lfTitle")?.value,
+        text: document.getElementById("lfText")?.value,
+      };
+      renderSheet();
+      break;
+    case "lifesave":
+      lifeSave();
+      break;
+    case "lifeopen":
+      openSheet({ mode: "moment", id: b.dataset.id });
+      break;
+    case "lifeq":
+      lifeQueue(b.dataset.id);
+      break;
+    case "lifex": {
+      const m = lifeBy(b.dataset.id);
+      if (m) m.links.splice(+b.dataset.i, 1);
+      commit();
+      renderSheet();
+      break;
+    }
     case "evsave": {
       evSave(!!b.dataset.quick);
       break;

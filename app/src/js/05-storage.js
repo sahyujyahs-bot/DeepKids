@@ -137,6 +137,15 @@ async function openAccount(acct, name) {
   lsSet("dk-known", JSON.stringify(k.slice(0, 5)));
   render();
 }
+// two copies of a list of records with ids (work photos, moments): every record, the newer copy's fields winning
+function mergeById(a, b) {
+  if (!Array.isArray(a) && !Array.isArray(b)) return a;
+  const m = new Map();
+  [...(Array.isArray(b) ? b : []), ...(Array.isArray(a) ? a : [])].forEach(
+    (w) => w && w.id && m.set(w.id, { ...(m.get(w.id) || {}), ...w }),
+  );
+  return [...m.values()];
+}
 function mergeIn(a, b) {
   const key = (l) => l.date + "|" + l.key + "|" + l.kind,
     seen = new Set((a.log || []).map(key));
@@ -161,16 +170,8 @@ function mergeIn(a, b) {
     games: { ...(b.games || {}), ...(a.games || {}) },
     wk: { ...(b.wk || {}), ...(a.wk || {}) },
     quiz: { ...(b.quiz || {}), ...(a.quiz || {}) },
-    work:
-      Array.isArray(a.work) || Array.isArray(b.work)
-        ? (() => {
-            const m = new Map();
-            [...(Array.isArray(b.work) ? b.work : []), ...(Array.isArray(a.work) ? a.work : [])].forEach(
-              (w) => w && w.id && m.set(w.id, { ...(m.get(w.id) || {}), ...w }),
-            );
-            return [...m.values()];
-          })()
-        : a.work,
+    work: mergeById(a.work, b.work),
+    moments: mergeById(a.moments, b.moments),
     mins: (() => {
       const m = { ...(b.mins || {}) };
       Object.entries(a.mins || {}).forEach(([k, v]) => {

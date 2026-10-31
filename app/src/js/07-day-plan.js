@@ -1295,8 +1295,21 @@ function evSave(quick) {
   ui.evf = null;
   sfx(rec.went ? "ok" : "flip");
   toast(rec.went ? (rec.hw ? "Saved · homework added for tomorrow" : "Saved") : "Marked as missed");
-  goBack();
+  if (!rec.went || quick) goBack();
   commit();
+  // a class or outing is learning too: it counts in hours and skills, linked to the topics it teaches
+  if (rec.went)
+    lifeRecord(
+      {
+        kind: e.kind === "outing" ? "went" : "class",
+        title: e.title,
+        text: [rec.covered, rec.note].filter(Boolean).join(". "),
+        date,
+        mins: e.start && e.end ? Math.max(15, hm(e.end) - hm(e.start)) : 60,
+        ev: id,
+      },
+      quick,
+    );
 }
 function cancelNote(d) {
   const C = [...(S.events || []), ...(S.cal?.ev || [])].filter((e) => S.evoff?.[d + "|" + e.id]);

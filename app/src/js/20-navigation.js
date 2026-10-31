@@ -49,6 +49,7 @@ const SEGS = {
   journey: [
     ["overview", "Overview", "How each subject is going, chapter by chapter"],
     ["time", "Hours spent learning", "How many hours of learning, by day, week or month, and everything done"],
+    ["life", "Skills and life", "Classes, sports, music, art, and everything learned outside lessons"],
     ["work", "Photos and files", "Photos, videos and files of what your child made, and what's still to do"],
     ["school", "School", "Report, entrance test and a folder to send to a school"],
   ],
@@ -240,6 +241,8 @@ function renderSheetBody(top) {
     told: toldView,
     uploads: uploadsView,
     paper: paperView,
+    moment: momentView,
+    lifeadd: lifeAddView,
     track: trackView,
     school: schoolView,
     hist: historyView,

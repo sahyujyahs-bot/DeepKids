@@ -80,7 +80,7 @@
    "term": "Symmetry",
    "meaning": "A shape has symmetry when one half is the mirror image of the other half.",
    "example": "A butterfly, a leaf and the letter A are symmetrical.",
-   "art": "A butterfly with a dotted line down their middle."
+   "art": "A butterfly with a dotted line down the middle."
   },
   {
    "term": "Line of symmetry",
@@ -257,17 +257,17 @@
     "The colours of shiny beetles and peacock feathers come from thin layers that reflect light, not from a coloured dye."
    ],
    "perspectives": [],
-   "art": "A cat's eyes glowing in torchlight beside a scallop with a row of tiny blue eyes along their shell.",
+   "art": "A cat's eyes glowing in torchlight beside a scallop with a row of tiny blue eyes along the edge of the shell.",
    "context": "This card is about animals that carry real mirrors in their bodies. These animals do not make light. They reflect it."
   },
   {
    "concept": "Do animals know their own reflection?",
    "status": "debated",
-   "description": "When you look in a mirror, you know the face is you. Most animals do not seem to. They bark at it, or try to play with it. Scientists test this with a mark. They put a small dot on an animal where they can only see it in a mirror. If the animal touches the dot on their own body, they seem to know that the image is themself.",
+   "description": "When you look in a mirror, you know the face is you. Most animals do not seem to. They bark at it, or try to play with it. Scientists test this with a mark. They put a small dot on the animal's body, in a place the animal can see only with a mirror. If the animal touches the dot on their own body, they seem to know that the image is themself.",
    "examples": [
     "Babies start to pass the mark test at about 18 months old.",
     "Chimpanzees passed it in 1970, in tests by the American scientist Gordon Gallup.",
-    "An elephant in a zoo passed it in 2006, and magpies, a kind of bird, in 2008."
+    "An elephant in a zoo passed the mark test in 2006, and magpies, a kind of bird, in 2008."
    ],
    "perspectives": [
     {
@@ -283,7 +283,7 @@
      "explanation": "The test favours animals that use their eyes most. A dog knows the world by smell, so a mirror may just not interest them. Failing the test does not prove an animal has no sense of self."
     }
    ],
-   "art": "A chimpanzee touching a coloured dot on their own forehead while looking in a mirror.",
+   "art": "A chimpanzee touching a coloured dot on the chimpanzee's own forehead while looking in a mirror.",
    "context": "This card is about the mirror test, which asks whether an animal knows the face in the mirror is their own. Scientists disagree about what it shows."
   },
   {
@@ -354,14 +354,6 @@
    "context": "This card is about a famous old story of mirrors used as a weapon. Is it true?"
   },
   {
-   "claim": "A mirror swaps left and right.",
-   "who": "What almost everyone says",
-   "for": "Writing looks backwards, and a right hand seems to become a left hand.",
-   "against": "A mirror really swaps front and back. Your raised hand stays on the same side of the room. The left-right feeling may come from imagining yourself turned round to stand where the image is.",
-   "status": "debated",
-   "context": "This card is about the common saying that mirrors swap left and right."
-  },
-  {
    "claim": "Writing backwards means a child is doing something wrong.",
    "who": "An old way of thinking in many schools",
    "for": "Backwards letters are harder for others to read.",
@@ -406,11 +398,6 @@
    "hint": "Zoom in. What does steel have that wood does not?"
   },
   {
-   "q": "Could you build a mirror that reflects every bit of light?",
-   "kind": "deep",
-   "hint": "The best mirrors scientists make lose less than one part in ten thousand. Is zero possible?"
-  },
-  {
    "q": "Why does almost all of life use only one of the two mirror forms of some molecules?",
    "kind": "deep",
    "hint": "Nobody knows. Was it luck, or did something tip the balance?"
@@ -419,16 +406,6 @@
    "q": "When we say someone is 'reflecting', we mean they are thinking about themselves. Why do you think we use the same word as for mirrors?",
    "kind": "big",
    "hint": "What comes back to you when you think about what you did today?"
-  },
-  {
-   "q": "A mirror swaps front and back. So why does almost everyone say it swaps left and right?",
-   "kind": "deep",
-   "hint": "Play Mirror Twins. Which hand does your twin raise, and which side of the room is it on?"
-  },
-  {
-   "q": "One lamp in a hall of tiny mirrors looks like hundreds of lights. How many lights are really there?",
-   "kind": "big",
-   "hint": "Think of two mirrors and one toy. What is one, and what is many?"
   }
  ],
  "story": {
@@ -465,7 +442,7 @@
    "Jiba walked down to the stall at sunset with a strip of cloth over her arm. It was covered in tiny mirrors. She tied it along the top of the window. When the low sun hit it, each little mirror threw a bright spot across the dusty road, a row of small suns, there and gone as the cloth moved.",
    "The next morning, in class, Noor wrote slowly, the way Miss Thakkar wrote on the board. At the very bottom of her page, she added one more line. She wrote it fast, from right to left, every letter turned round. It was for anyone who had a mirror."
   ],
-  "epiphany": "For the parent: a mirror turns things round from front to back. So does looking at something from behind, like writing seen through the back of a window or a thin page. Noor's fast writing was already the mirror's way round. The sign painter's skill was the wrong one for painting on the inside of the glass, and Noor's 'mistake' was exactly right. Mirror writing is not broken writing. It is writing made for the other side. The ambulance shows the same idea in real life. The story also quietly asks whether different is the same as wrong.",
+  "epiphany": "For the parent: a mirror turns things round from front to back. So does looking at something from behind, like writing seen through the back of a window or a thin page. Noor's fast writing was already the mirror's way round. The sign painter's skill was the wrong one for painting on the inside of the glass, and Noor's 'mistake' was exactly right. Mirror writing is not broken writing. It is writing made for the other side. The ambulance shows the same idea in real life.",
   "ask": [
    "Why did the sign look backwards from the road when Bhimji painted it the normal way?",
    "What did Jiba's little mirror do to Noor's backward writing?",
@@ -486,7 +463,7 @@
    "id": "g1",
    "title": "Mirror or Not?",
    "mins": 20,
-   "players": "2 to 5 players, or one child playing against the app",
+   "players": "2 to 4 players",
    "printables": [
     {
      "kind": "cards",
@@ -513,7 +490,7 @@
       "YAY",
       "HAH",
       "TEST IT: hold the mirror under the word BOX. What happens?",
-      "TEST IT: write your name in mirror writing. Can the mirror read it?",
+      "TEST IT: write your name in mirror writing. Can you read it in the mirror?",
       "TEST IT: draw half a heart. Can the mirror finish it?",
       "TEST IT: stand the mirror beside the word ECNALUBMA. What word do you see? What looks odd about the letters?"
      ]
@@ -528,19 +505,20 @@
     },
     {
      "kind": "tokens",
-     "title": "20 star tokens (small paper stars)",
+     "title": "Star tokens: cut out 30 small paper stars (or use 30 coins or buttons)",
      "items": [
-      "⭐"
+      "Cut out 30 small stars from scrap paper, or use 30 coins or buttons."
      ]
     }
    ],
    "rules": [
-    "Cut out the 24 cards. Shuffle them and put them face down in a pile.",
+    "Cut out the 24 cards and the two mats. Take out the card A for a practice round. Shuffle the other 23 cards and put them face down in a pile.",
+    "Put the SAME mat and the CHANGES mat side by side. Put a mirror and the stars within reach.",
     "On your turn, take the top card and read it out loud.",
-    "Decide: will this look the SAME when a mirror stands beside it, or will it CHANGE? Put the card on that mat.",
-    "Then test it with a mirror stood upright beside the card. If you were right, win one star.",
-    "If you draw a TEST IT card, everyone does the test together. The first person to explain what happened wins two stars.",
-    "When the cards run out, the player with the most stars wins."
+    "For a letter or word card, guess: will it look the SAME when a mirror stands beside it, or will it CHANGE? Put the card on that mat.",
+    "Then stand the mirror upright beside the card. If your guess was right, win one star. If it was wrong, no star, and move the card to the right mat.",
+    "For a TEST IT card, put it aside and everyone does the test together. The first person to explain what happened wins two stars.",
+    "When the pile runs out, count your stars. The most stars wins. If two players tie, they share the win."
    ],
    "context": "Mirror or Not? is a card game about what a mirror does to letters and words. For each card, players guess whether it will look the same in a mirror stood beside it, then test it.",
    "setup": [
@@ -557,7 +535,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Lay out the two mats. 2. Shuffle the cards and put them face down. 3. Put the mirror and the star tokens in the middle.",
+     "do": "1. Lay out the two mats side by side. 2. Take out the card A. Shuffle the other cards and put them face down in a pile. 3. Put the mirror and the stars in the middle.",
      "say": "Each card has a letter or a word. Guess: will it look the same in a mirror, or will it change? Then we test it.",
      "kid": "Put out the two mats. Mix up the cards. For each card, guess: SAME or CHANGES in a mirror? Then test it!",
      "context": "This is the first step of Mirror or Not?, a card game about what a mirror does to letters. Here you set up the game."
@@ -565,9 +543,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play the card 'A' together as a practice round.",
+     "do": "Play the card A together as a practice round. No stars for this one.",
      "say": "Practice card: the letter A. Same or changes?",
-     "kid": "Practice card: the letter A. Same or changes? Tap, then test it.",
+     "kid": "Practice card: the letter A. Same or changes? Choose, then test it.",
      "check": {
       "t": "mcq",
       "q": "Stand a mirror beside the letter A. What will you see?",
@@ -584,10 +562,10 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Take turns. Each player draws a card, guesses, then tests with the mirror. 2. Give a star for each right guess.",
+     "do": "1. Take turns. Each player takes a card, guesses, then tests with the mirror. 2. Give a star for each right guess. 3. For a TEST IT card, everyone tests together.",
      "say": "Say why you think it will stay the same or change, before you test.",
      "kid": "Take turns. Guess SAME or CHANGES. Say why. Test it. A right guess wins a star.",
-     "parent": "Letters that stay the same in a mirror stood beside them: A, H, I, M, O, T, U, V, W, X, Y. Words stay the same only if every letter is one of these, and the word reads the same backwards, like MOM, WOW, TOOT, OTTO and YAY. DAD and NOON change, because D and N turn round. The BOX card is a surprise: with the mirror under the word, B, O and X each have a line of symmetry across the middle, so BOX stays BOX. The ECNALUBMA card shows AMBULANCE, but with letters like B, N, C and E turned round. That is why a real ambulance turns every letter round too."
+     "parent": "Letters that stay the same in a mirror stood beside them: A, H, I, M, O, T, U, V, W, X, Y. Words stay the same only if every letter is one of these, and the word reads the same backwards, like MOM, WOW, TOOT, OTTO and YAY. DAD and NOON change, because D and N turn round. The BOX card is a surprise: with the mirror under the word, B, O and X each have a line of symmetry across the middle, so BOX stays BOX. On the ECNALUBMA card, the mirror shows AMBULANCE in the right order, but with B, N, C, E and L turned round. A real ambulance has its letters turned round as well as reversed, so the driver's mirror shows them the right way."
     },
     {
      "id": "s4",
@@ -622,36 +600,31 @@
    "id": "g2",
    "title": "Bounce Relay",
    "mins": 20,
-   "players": "3 or more players, best with a family or group of friends",
+   "players": "2 or more players. With 2 players, a parent and child each hold a mirror and the third stands on books.",
    "printables": [
-    {
-     "kind": "board",
-     "title": "A target poster to stick on the wall",
-     "items": [
-      "A big paper target with three rings: 1 point, 2 points, 3 points"
-     ]
-    },
     {
      "kind": "score sheet",
      "title": "Bounce Relay score sheet",
      "items": [
-      "Round",
-      "Number of mirrors",
-      "Did the light reach the target?",
-      "Points"
+      "Round 1, one mirror. Points: ____",
+      "Round 2, two mirrors. Points: ____",
+      "Round 3, three mirrors (points count double). Points: ____",
+      "Total: ____"
      ]
     }
    ],
    "rules": [
-    "Stick the target on a wall in a dim room. Put the torch on a pile of books, aimed away from the target.",
-    "Each player holds one mirror.",
-    "Round 1: one player must bounce the torch beam onto the target with their mirror.",
-    "Round 2: two players. The light must reflect off both mirrors before it reaches the target.",
-    "Round 3: three players, three bounces.",
-    "Score the ring the light lands in. More bounces is harder, so points in round 3 count double.",
+    "Everyone is on one team. Play together and add up the points.",
+    "Draw a target on a big sheet of paper: a small circle in the middle (3 points), a ring around it (2 points), and a wider ring around that (1 point). Write the points in the rings and stick the target on a wall.",
+    "Dim the room. Put the torch on a pile of books about 2 metres from the wall, aimed away from the target.",
+    "Each player holds one mirror. If you have only two players, stand a third mirror on a pile of books or plasticine.",
+    "Round 1: use one mirror to send the torch beam onto the target.",
+    "Round 2: the light must bounce off two mirrors, one after the other, before it reaches the target.",
+    "Round 3: the light must bounce off three mirrors. Points in this round count double.",
+    "Score the ring the middle of the light spot lands in. Outside the target scores 0. Play again and try to beat your total.",
     "Never let the beam shine into anyone's eyes. If it does, that round scores zero."
    ],
-   "context": "Bounce Relay is a team game. Players hold mirrors and pass a torch beam from one mirror to the next until it lands on a target. It comes from the DeepKids idea of a relay where each step must bounce light with a mirror.",
+   "context": "Bounce Relay is a team game. Players hold mirrors and pass a torch beam from one mirror to the next until it lands on a target.",
    "setup": [
     {
      "art": "A torch on a pile of books in a dim room, its beam hitting a mirror held by one child, then bouncing to a second child's mirror, then onto a paper target on the wall.",
@@ -666,7 +639,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Stick the target on a wall. 2. Put the torch on books so its beam points away from the target. 3. Dim the room.",
+     "do": "1. Draw the target and stick it on a wall. 2. Put the torch on books so its beam points away from the target. 3. Dim the room.",
      "say": "The torch is pointing the wrong way. We must use mirrors to send its light to the target.",
      "kid": "The torch points away from the target. Use mirrors to send the light there!",
      "adult": true,
@@ -678,7 +651,7 @@
      "mins": 5,
      "do": "Round 1: one player tilts their mirror to land the beam on the target.",
      "say": "Where must you stand, and how must you tilt the mirror?",
-     "kid": "Round 1. Stand in the beam. Tilt your mirror. Land the light on the target!",
+     "kid": "Round 1. Hold your mirror in the beam. Tilt it. Land the light on the target!",
      "check": {
       "t": "mcq",
       "q": "The beam lands too far to the left of the target. What should you do?",
@@ -695,8 +668,8 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Rounds 2 and 3: add a second and a third mirror.",
-     "say": "Now the light must visit two mirrors. Who should stand where?",
+     "do": "Rounds 2 and 3: add a second and a third mirror. With two players, the third mirror stands on books.",
+     "say": "Now the light must visit two mirrors, then three. Who should stand where?",
      "kid": "Round 2: two mirrors. Round 3: three mirrors. Plan where everyone stands first!",
      "parent": "Players will find it easier to plan from the target backwards. Each mirror must face halfway between where the light comes from and where it must go."
     },
@@ -815,26 +788,20 @@
     },
     {
      "t": "mcq",
-     "p": "Stand one big step in front of a mirror. Where does your image seem to be?",
+     "p": "Calm water shows the trees clearly. When the wind makes ripples, what happens to the image?",
      "opts": [
-      "One big step behind the glass",
-      "On the surface of the glass",
-      "Two big steps behind the glass"
+      "It breaks up, because the rippled surface sends light in many directions",
+      "It gets brighter",
+      "It stays the same"
      ],
      "a": 0,
-     "why": "Your image seems as far behind the mirror as you are in front. Picking 'on the surface' is a very common guess. But try to touch your image: it always seems to be further away than the glass.",
-     "how": "a6"
+     "why": "Ripples make the surface rough, so the rays no longer leave in neat order. When the water goes still, the image comes back."
     },
     {
-     "t": "mcq",
-     "p": "Why is the word AMBULANCE written backwards on the front of an ambulance?",
-     "opts": [
-      "So drivers in front can read it in their rear-view mirrors",
-      "Because of a printing mistake",
-      "So people behind the ambulance can read it"
-     ],
-     "a": 0,
-     "why": "A rear-view mirror turns writing round. So the word is painted backwards, and the mirror turns it the right way for the driver in front. Picking 'people behind' gets it the wrong way: they see the back of the ambulance."
+     "t": "truefalse",
+     "p": "The Moon makes its own light, like the Sun.",
+     "a": false,
+     "why": "False. The Moon makes no light. It shines because it reflects sunlight, the way a mirror reflects a torch."
     },
     {
      "t": "draw",
@@ -870,11 +837,10 @@
      "how": "a4"
     },
     {
-     "t": "write",
-     "p": "Farhan, a boy in Class 3, says, 'A mirror swaps my left and right. So it must swap my top and bottom too.' Is he right? Try it with a mirror, then explain.",
-     "lines": 3,
-     "a": "He is not right. In a flat mirror, my head stays at the top and my feet stay at the bottom. Up stays up. And my raised hand stays on the same side of the room too.",
-     "why": "A strong answer tests the idea with a real mirror and reports what happened. It may notice that left and right do not really swap either. What a mirror turns round is front and back."
+     "t": "truefalse",
+     "p": "An old steel plate covered in scratches shows your face as clearly as a new one.",
+     "a": false,
+     "why": "False. The scratches scatter the light in many directions, so the image becomes a blur. A smooth surface keeps the rays in order."
     },
     {
      "t": "perspective",
@@ -918,8 +884,7 @@
       "4",
       "four"
      ],
-     "why": "Your image seems as far behind the mirror as you are in front of it, so 2 metres behind the glass. From you to the glass is 2 metres, and from the glass to your image is another 2. 2 add 2 is 4 metres.",
-     "how": "a6"
+     "why": "Your image seems as far behind the mirror as you are in front of it, so 2 metres behind the glass. From you to the glass is 2 metres, and from the glass to your image is another 2. 2 add 2 is 4 metres."
     }
    ]
   },
@@ -942,10 +907,9 @@
     },
     {
      "t": "truefalse",
-     "p": "To see your whole body in a mirror, you need a mirror at least as tall as you.",
-     "a": false,
-     "why": "False, though most grown-ups think so. You only need a mirror half as tall as you, wherever you stand. The sticky notes on the mirror show this.",
-     "how": "a6"
+     "p": "The James Webb Space Telescope collects starlight with 18 mirrors coated in gold.",
+     "a": true,
+     "why": "True. Its 18 six-sided mirrors are coated in a thin layer of gold, and together they are 6.5 metres wide."
     },
     {
      "t": "fill",
@@ -967,15 +931,14 @@
     },
     {
      "t": "mcq",
-     "p": "When two mirrors face each other, you see a long row of images. Why do the far ones fade?",
+     "p": "Why does a torch have a curved mirror behind the bulb?",
      "opts": [
-      "Each bounce loses a little light",
-      "Light slows down and stops",
-      "The images move away too fast"
+      "To send the light forward in a strong beam",
+      "To make the bulb hotter",
+      "To keep the light inside"
      ],
      "a": 0,
-     "why": "No mirror sends back every bit of light. After many bounces, very little is left. Picking 'light slows down' is a common idea. Light does not slow down when it bounces, but the mirror keeps a little of it each time.",
-     "how": "a7"
+     "why": "The curved mirror catches light going backwards and sends it forward, so the beam is stronger."
     },
     {
      "t": "match",
@@ -1068,15 +1031,14 @@
     },
     {
      "t": "mcq",
-     "p": "Which word looks exactly the same when you stand a mirror beside it?",
+     "p": "The Taj Mahal's image in its long water pool is upside down. Why?",
      "opts": [
-      "WOW",
-      "NOON",
-      "BOB"
+      "Still water works as a flat mirror lying below the building, so the top is at the bottom of the image",
+      "The water turns the light upside down",
+      "The pool is a curved mirror"
      ],
      "a": 0,
-     "why": "W and O are symmetrical down the middle, and WOW reads the same backwards. NOON and BOB also read the same backwards, but N and B turn round in a mirror.",
-     "how": "g1"
+     "why": "Still water is a flat mirror. It lies below the building, so the image of the top of the building is at the bottom, closest to the water."
     },
     {
      "t": "write",
@@ -1105,11 +1067,10 @@
     },
     {
      "t": "write",
-     "p": "In the Mirror Drawing Race, you traced a star while you could only see your hand in a mirror. Which way was hardest to move the pencil: side to side, or towards and away from you? Why do you think so?",
-     "lines": 4,
-     "a": "Towards and away from me was hardest. The mirror turns front and back round. So when I moved my hand away from me, it looked as if it came towards me, and my hand went the wrong way.",
-     "why": "A strong answer uses what happened in the race, and links it to what a mirror really turns round: front and back. Most people get better with practice, as their brain learns the mirror's way.",
-     "how": "e2"
+     "p": "Soldiers once sent messages over many kilometres by flashing sunlight with mirrors, a tool called a heliograph. Why would it not work at night or under thick clouds?",
+     "lines": 3,
+     "a": "A mirror makes no light. It only sends back light that reaches it. At night, or under thick clouds, there is not enough strong sunlight to reflect, so there is no bright flash to send.",
+     "why": "A strong answer says that a mirror is not a light source, so it needs light to reflect."
     },
     {
      "t": "truefalse",
@@ -1149,15 +1110,14 @@
     },
     {
      "t": "mcq",
-     "p": "You look at a word through two mirrors, so the light bounces off one and then the other. How does the word look?",
+     "p": "Ibn al-Haytham argued that light travels into our eyes, not out of them. Which fact did he use?",
      "opts": [
-      "The right way round",
-      "Backwards",
-      "Upside down"
+      "Looking at the Sun hurts your eyes and leaves a bright patch, so light must come into the eye",
+      "Mirrors are made of glass",
+      "Eyes are too small to send out light"
      ],
      "a": 0,
-     "why": "Each mirror turns the word round once. Two turns put it back the right way. Picking 'backwards' is right for one mirror only.",
-     "how": "c2"
+     "why": "If rays only went out of the eye, bright light could not hurt it. The pain and the bright patch show that light comes in."
     },
     {
      "t": "mcq",
@@ -1277,10 +1237,11 @@
     },
     {
      "t": "write",
-     "p": "Is the face in the mirror really you? Give a reason for your answer.",
+     "p": "Ibn al-Haytham used narrow tubes to let through only a thin beam of light. How is your slit card in Catch the Beam like his tubes?",
      "lines": 3,
-     "a": "Any honest answer with a reason is good. For example: 'Yes, because it moves exactly when I move.' Or: 'No, it is only light that reflected off me, and it faces the other way.'",
-     "why": "This is a big question with no single right answer. A strong answer gives a reason that uses what a mirror really does with light."
+     "a": "Both make a thin beam, so you can follow exactly where the light goes. A wide beam would make a wide patch that is hard to measure.",
+     "why": "A strong answer says the thin beam lets you follow one ray and measure its angle.",
+     "how": "e1"
     }
    ]
   }
@@ -1385,7 +1346,7 @@
      "say": "We need a thin beam of light, like a pencil line. Then we can see exactly where it goes.",
      "kid": "Tape the card with the slit over your torch. Close the curtains. Lay the torch flat on the paper. Switch it on. See the thin line of light?",
      "adult": true,
-     "parent": "A grown-up cuts the slit with scissors: about 2 mm wide and 3 cm long. A comb also works. It makes several thin beams.",
+     "parent": "A grown-up cuts the slit with scissors: about 2 mm wide and 3 cm long. A comb also works. It makes several thin beams. Hold the slit upright, so the light spreads over the paper as a thin line. The line is faint, so make the room as dark as you can.",
      "context": "This is the first step of the torch-and-mirror experiment. Here you make a thin beam of light so you can follow it."
     },
     {
@@ -1402,18 +1363,6 @@
      "do": "Ask your child to guess where the bounced beam will land if the torch starts at the 10 cm mark. Write the guess down.",
      "say": "Before we try it, guess. If the torch starts 10 centimetres to the left, where will the light go after the mirror? Why do you think so?",
      "kid": "Guess first! The torch starts 10 cm left. Where will the light go? Why?",
-     "check": {
-      "t": "mcq",
-      "q": "The torch starts 10 cm to the left of the middle line. It aims at the middle of the mirror. Where will the reflected beam go?",
-      "options": [
-       "Straight back to the torch",
-       "To the right side",
-       "Further to the left",
-       "It will spread all over the room"
-      ],
-      "a": 1,
-      "why": "It goes to the right, because light leaves a mirror at the same angle it came in, on the other side. Picking 'straight back' usually means thinking a mirror always sends light back where it came from. That only happens when you shine straight at it. Picking 'all over the room' mixes a mirror up with a white wall, which scatters light. This is only a guess. Now test it."
-     },
      "context": "In the torch-and-mirror experiment, a torch beam hits a mirror at an angle. Here you guess where the reflected light will go."
     },
     {
@@ -1498,7 +1447,6 @@
      "qty": 1
     }
    ],
-   "safety": "Keep a glass mirror steady and in its frame.",
    "schedule": [
     {
      "day": 1,
@@ -1608,16 +1556,16 @@
      "qty": 1
     },
     {
-     "item": "the printed gap guide: a circle cut into 2, 4, 6 and 8 equal slices (the app prints it)",
+     "item": "a sheet of paper, a pencil and a protractor from a geometry box, to draw the gap guide",
      "qty": 1
     }
    ],
-   "safety": "A grown-up tapes the mirrors together, and covers any sharp edges with tape.",
+   "safety": "Acrylic mirror edges can be sharp. A grown-up tapes the mirrors together and covers the edges with tape.",
    "schedule": [
     {
      "day": 1,
      "mins": 20,
-     "what": "Tape two mirrors like a book. Stand them on the gap guide. Count the images of a toy at 4 gaps."
+     "what": "Tape two mirrors like a book. Draw the gap guide. Count the images of a toy at 4 gaps."
     }
    ],
    "record": "Fill in the table. Look for a pattern between the slices and the images.",
@@ -1657,8 +1605,8 @@
      "caption": "1. Tape two mirrors along one edge, like a book."
     },
     {
-     "art": "The joined mirrors standing on a paper circle divided into four slices, opened to fit exactly one quarter slice, with a toy elephant in the middle of the slice.",
-     "caption": "2. Stand them on the gap guide. Put the toy in the middle."
+     "art": "The joined mirrors standing on a sheet of paper with lines drawn from one point, opened to fit the 90 degree gap, with a toy elephant in the middle of the gap.",
+     "caption": "2. Draw the gap guide. Stand the mirrors on it. Put the toy in the middle."
     },
     {
      "art": "Looking into the two mirrors at a right angle, the toy elephant appears four times in a ring: the real one and three images.",
@@ -1677,19 +1625,19 @@
     },
     {
      "id": "s2",
-     "mins": 4,
-     "do": "1. Stand the mirror book on the gap guide, opened to a quarter slice. 2. Put the toy in the middle of the slice. 3. Look in from the open side and count the images of the toy.",
+     "mins": 6,
+     "do": "1. Draw the gap guide: on the paper, mark a point and draw a straight line from it. With the protractor, draw more lines from the same point at 90, 60 and 45 degrees to the first line. 2. Stand the mirror book on the point, one mirror along the first line and the other along the 90 degree line. 3. Put the toy in the middle of the gap. 4. Look in from the open side and count the images of the toy.",
      "say": "How many elephants can you see? Count only the images, not the real one.",
-     "kid": "Open the mirrors to fit one quarter slice. Put your toy in the middle. Count the images. Don't count the real toy.",
+     "kid": "Draw the gap guide. Open the mirrors to the 90 degree gap, a quarter of a circle. Put your toy in the middle. Count the images. Don't count the real toy.",
      "parent": "At a right angle you should count 3 images. Some children count the real toy too, and say 4. That is fine, as long as they say which they mean.",
      "context": "In the two-mirrors experiment, two mirrors stand like an open book with a toy between them. Here you count the images at a right angle."
     },
     {
      "id": "s3",
-     "mins": 6,
-     "do": "1. Close the mirrors to a sixth slice and count. 2. Then an eighth slice and count. 3. Then open them flat, to half the circle, and count. 4. Write each number in the table.",
+     "mins": 7,
+     "do": "1. Close the mirrors to the 60 degree gap, a sixth of a circle, and count. 2. Then the 45 degree gap, an eighth, and count. 3. Then open them flat, to 180 degrees, half the circle, and count. 4. Write each number in the table.",
      "say": "Now let's make the gap smaller. What happens to the number of images?",
-     "kid": "Close the gap to a sixth slice. Count. Then an eighth. Count. Then open them flat. Count.",
+     "kid": "Close the gap to 60 degrees. Count. Then 45 degrees. Count. Then open them flat. Count.",
      "check": {
       "t": "mcq",
       "q": "With the mirrors opened to a quarter of a circle you saw 3 images. At a sixth of a circle you saw 5. What will happen at an eighth of a circle?",
@@ -1733,7 +1681,6 @@
      "qty": 1
     }
    ],
-   "safety": "Handle glass and phones gently.",
    "schedule": [
     {
      "day": 1,
@@ -1809,11 +1756,10 @@
    "days": 1,
    "materials": [
     {
-     "item": "a partner: a grown-up, brother, sister or friend",
+     "item": "a partner: a grown-up or a friend",
      "qty": 1
     }
    ],
-   "safety": "Clear a space so nobody bumps into furniture.",
    "schedule": [
     {
      "day": 1,
@@ -1881,7 +1827,6 @@
      "buy": "b-mirror"
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -1932,7 +1877,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Show a picture of an ambulance, or look out for one. Point at the backwards word on its front.",
+     "do": "Look out for an ambulance, or look up a picture of one. Point at the backwards word on its front.",
      "say": "Why do you think AMBULANCE is written backwards on the front?",
      "kid": "Look at the front of an ambulance. The word is backwards! Why?",
      "check": {
@@ -1965,7 +1910,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "the printed half-pictures: half a butterfly, half a face, half a leaf, half a house, half a letter A",
+     "item": "paper. A grown-up draws half a butterfly, half a face, half a leaf and half a house, each with its straight middle edge on the edge of the page",
      "qty": 1
     },
     {
@@ -1978,7 +1923,6 @@
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -2002,7 +1946,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Lay out the half-pictures. 2. Stand the mirror on the straight edge of the half butterfly. 3. Look into the mirror from the drawing's side.",
+     "do": "1. Lay out the four half-pictures. 2. Stand the mirror on the straight edge of the half butterfly. 3. Look into the mirror from the drawing's side.",
      "say": "Look, a whole butterfly! The mirror made the other half. Shapes whose two halves match like this have symmetry.",
      "kid": "Stand the mirror on the straight edge. Look! A whole butterfly. Try the other half-pictures.",
      "context": "This is the first step of the half-picture activity. A mirror on the edge of half a picture makes it look whole."
@@ -2053,7 +1997,7 @@
      "qty": 1
     },
     {
-     "item": "a window or balcony where the sun shines in",
+     "item": "a window or balcony where the sun shines in (or a torch in a dim room, if the sun does not reach)",
      "qty": 1
     }
    ],
@@ -2085,7 +2029,7 @@
      "say": "The mirror catches sunlight and sends it on, like a postman. Can you deliver the spot to the first target?",
      "kid": "Stand in the sun with a grown-up. Tilt your mirror. Find the bright spot on the wall. Can you move it to a target?",
      "adult": true,
-     "parent": "Watch that the spot never goes near anyone's face. The spot moves twice as fast as the mirror turns, so small tilts are best.",
+     "parent": "Watch that the spot never goes near anyone's face. The spot moves twice as far as the mirror turns, so small tilts are best. No sun at your window? Do the same in a dim room with a torch or phone light on a pile of books.",
      "context": "This is the first step of the Sunlight Postman. You use a mirror to bounce a bright spot of sunlight onto targets on a wall."
     },
     {
@@ -2133,7 +2077,6 @@
      "qty": 1
     }
    ],
-   "safety": "Stand on a dry floor.",
    "schedule": [
     {
      "day": 1,
@@ -2179,9 +2122,9 @@
        "You need a bigger mirror when you are further away"
       ],
       "a": 0,
-      "why": "The image of your face looks smaller as you step back, but the patch of mirror it uses stays the same. You always need a mirror half as tall as you to see all of you. Picking 'you need a bigger mirror' is what most grown-ups guess. Your test shows it is not true."
+      "why": "The image of your face looks smaller as you step back, but the patch of mirror it uses stays the same. You always need a mirror half as tall as you to see all of you. Picking 'you need a bigger mirror' is a common guess. Your test shows it is not true."
      },
-     "parent": "This surprises most grown-ups. To see your whole body, you need a mirror only half your height, at any distance."
+     "parent": "This surprises many grown-ups. To see your whole body, you need a mirror only half your height, at any distance."
     },
     {
      "id": "s3",
@@ -2207,7 +2150,6 @@
      "qty": 1
     }
    ],
-   "safety": "Hold glass mirrors by their frames.",
    "schedule": [
     {
      "day": 1,
@@ -2216,7 +2158,7 @@
     }
    ],
    "record": "Write the biggest number of images you could count. Draw how the far ones looked.",
-   "context": "In the Endless Corridor you hold two mirrors face to face and look at the images going on and on. It comes from the DeepKids Zero and Infinity game.",
+   "context": "In the Endless Corridor you hold two mirrors face to face and look at the images going on and on.",
    "setup": [
     {
      "art": "A child holding a hand mirror facing a wall mirror, with a long tunnel of smaller and smaller copies of the mirror stretching away.",
@@ -2253,9 +2195,8 @@
        "Light gets tired and stops"
       ],
       "a": 0,
-      "why": "Every time light bounces, the mirror keeps a little of it. After many bounces, so little light is left that the images fade. The glass also soaks up a little red light, so the far images look greenish. Picking 'light gets tired' is close in spirit. Light does not slow down, but it does lose a bit at each bounce."
-     },
-     "think": "If a mirror lost no light at all, would the corridor really go on for ever?"
+      "why": "Every time light bounces, the mirror keeps a little of it. After many bounces, so little light is left that the images fade. Ordinary glass lets green light through a little more easily than other colours, so the far images can look greenish. Light does not get tired and it does not slow down, but it does lose a bit at each bounce."
+     }
     }
    ]
   },
@@ -2274,7 +2215,6 @@
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -2299,8 +2239,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Your child looks at their face in the mirror for one quiet minute.",
-     "say": "Look at your face for one minute. Just look. You have never seen your own face without a mirror or a photo.",
-     "kid": "Look at your face in the mirror. Just look, for one minute. Light from your face is coming back to your eyes.",
+     "say": "Look at your face for one minute. Just look.",
+     "kid": "Look at your face in the mirror. Just look, for one minute. Light that bounced off your face and off the mirror is reaching your eyes.",
      "context": "This is the first step of an art activity. You look quietly at your face in a mirror before you draw."
     },
     {
@@ -2309,7 +2249,7 @@
      "do": "1. Draw a big mirror frame on the paper. 2. Inside it, your child draws themselves the way they feel inside, not only how they look.",
      "say": "The mirror shows the outside of you. Now draw what the mirror cannot show: how you feel, what you love, what you dream about.",
      "kid": "Draw a big mirror frame. Inside it, draw you. Not only your face. Draw how you feel inside.",
-     "parent": "There is no right answer. Ask: what does your drawing show that the real mirror can't?",
+     "parent": "There is no right answer. Ask: what does your drawing show that the real mirror can't? For a quiet extra, read Mirror, a wordless picture book by Jeannie Baker, and look at how its two families mirror each other.",
      "think": "What does a mirror show about you? What can it never show?"
     }
    ]
@@ -2329,7 +2269,6 @@
      "qty": 1
     }
    ],
-   "safety": "Use a soft ball, away from windows.",
    "schedule": [
     {
      "day": 1,
@@ -2338,7 +2277,7 @@
     }
    ],
    "record": "Draw the path of the ball, and the path of a child acting as light, as V shapes.",
-   "context": "In this act-it-out activity, children pretend to be light and reflect off a wall like a mirror. It comes from the DeepKids idea of miming light bouncing between mirrors.",
+   "context": "In this act-it-out activity, you pretend to be light and reflect off a wall like a mirror.",
    "setup": [
     {
      "art": "A child rolling a soft ball at an angle towards a wall, and the ball bouncing away at the same angle.",
@@ -2361,7 +2300,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Your child walks at an angle to the tape mark, touches the wall and walks away at the same angle. 2. Another family member acts as an eye, and stands where the light should go.",
+     "do": "1. Your child walks at an angle to the tape mark, touches the wall and walks away at the same angle. 2. You act as an eye, and stand where the light should go.",
      "say": "You are a beam of light! Walk in at an angle. Bounce off the mirror wall. Walk out at the same angle, straight to the eye.",
      "kid": "You are light! Walk in at an angle. Touch the wall. Walk out at the same angle. Can you reach the person being the eye?",
      "check": {
@@ -2413,7 +2352,7 @@
      "qty": 1
     }
    ],
-   "safety": "Use mirror card or plastic mirror sheet, never glass. A grown-up cuts the strips. Small beads are a choking risk for babies, so keep them away from little brothers and sisters.",
+   "safety": "Use mirror card or plastic mirror sheet, never glass. A grown-up cuts the strips. Small beads are a choking risk for small children, so keep them away from toddlers.",
    "schedule": [
     {
      "day": 1,
@@ -2483,7 +2422,7 @@
      "id": "s4",
      "mins": 10,
      "do": "1. Your child looks through the open end towards a window, and slowly turns the tube. 2. They draw three patterns. 3. They count the copies of one bead.",
-     "say": "Turn it slowly. Every turn makes a new pattern. Can a pattern ever come back exactly the same?",
+     "say": "Turn it slowly. Every turn makes a new pattern.",
      "kid": "Look towards the window. Turn the tube slowly. Draw three patterns. Count the copies of one bead.",
      "parent": "The kaleidoscope was invented by the Scottish scientist David Brewster in 1816. He named it from Greek words meaning 'looking at beautiful shapes'. With three mirrors you usually see the same bead about 6 times in the middle flower.",
      "think": "If you shake the beads, will the same pattern ever come back?"
@@ -2578,7 +2517,7 @@
    "id": "c2",
    "title": "See the Back of Your Own Head",
    "mins": 15,
-   "problem": "You have never seen the back of your own head. Find a way to see it, using mirrors.",
+   "problem": "You cannot see the back of your own head directly. Find a way to see it, using mirrors.",
    "constraints": [
     "You may not use a phone camera.",
     "Use only mirrors you have at home."
@@ -2620,9 +2559,9 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Hold up a word on paper and look at it through both mirrors.",
+     "do": "Hold up a word on paper behind your head, writing towards the wall mirror. Look at it through both mirrors.",
      "say": "With two mirrors, does the writing look backwards?",
-     "kid": "Hold up a word behind your head. Look in the small mirror. Is it backwards?",
+     "kid": "Hold up a word behind your head, with the writing facing the big mirror. Look in the small mirror. Is it backwards?",
      "check": {
       "t": "mcq",
       "q": "You look at a word through two mirrors, one bounce after another. How does the word look?",
@@ -2653,7 +2592,7 @@
    "youtube": "znIkwlvnte0",
    "mins": 5,
    "why": "A first look at how mirrors reflect light. Watch it yourself first, to check it suits your child.",
-   "check": "Found by YouTube search: \"Mirrors and Reflections (Elementary Science Class 6: Light, Shadows and Reflections)\" by Ethos Academy - Ethospedia. Title checked automatically; a parent may still preview it."
+   "check": "Title and channel confirmed on YouTube."
   },
   {
    "title": "Why Do Mirrors Flip Left & Right (but not up & down)?",
@@ -2661,7 +2600,7 @@
    "youtube": "1t4dOPxKgrY",
    "mins": 6,
    "why": "For the parent and curious older children: the front-to-back flip, told well.",
-   "check": "Found by YouTube search: \"Why Do Mirrors Flip Left & Right (but not up & down)?\" by minutephysics. Title checked automatically; a parent may still preview it."
+   "check": "Title and channel confirmed on YouTube."
   },
   {
    "title": "Which Animals Recognize Themselves In Mirrors?",
@@ -2669,7 +2608,7 @@
    "youtube": "cKs_iW0QVNY",
    "mins": 5,
    "why": "About the mirror test with real animals, and the argument about what passing it means.",
-   "check": "Found by YouTube search: \"Which Animals Recognize Themselves In Mirrors?\" by Seeker. Title checked automatically; a parent may still preview it."
+   "check": "Title and channel confirmed on YouTube."
   }
  ],
  "quiz": [
@@ -2820,18 +2759,6 @@
    "a": 0,
    "why": "Apes, elephants and magpies pass. In 2019 a small fish did too. Scientists still argue about what passing really means.",
    "outcome": 6
-  },
-  {
-   "t": "mcq",
-   "p": "Which of these animals have passed the mirror test?",
-   "opts": [
-    "Chimpanzees, an elephant and magpies",
-    "No animal, only humans",
-    "Every animal ever tested"
-   ],
-   "a": 0,
-   "why": "Chimpanzees passed in 1970, an elephant in a zoo in 2006, and magpies after that. Many other animals tested have not passed, which is part of why scientists argue about the test.",
-   "outcome": 6
   }
  ],
  "applications": [
@@ -2890,7 +2817,7 @@
  "open_questions": [
   {
    "q": "Why do only some animals seem to know their own face in a mirror?",
-   "why_open": "Scientists disagree about what the mirror test measures. A small fish passing it in 2019 made the argument bigger."
+   "why_open": "Scientists disagree about what the mirror test measures. A small fish passing the test in 2019 made the argument bigger."
   },
   {
    "q": "Why did Leonardo da Vinci write in mirror writing?",
@@ -2936,28 +2863,8 @@
    "a": "It always reflected on its work."
   },
   {
-   "j": "What did the window say to the mirror?",
-   "a": "I let light through. You send it back. We make a great team."
-  },
-  {
    "j": "Why did the mirror never win at hide and seek?",
    "a": "It always gave itself away."
-  },
-  {
-   "j": "Why did the child bring a mirror to the maths test?",
-   "a": "To check the answers twice."
-  },
-  {
-   "j": "Why did the light bounce off the mirror?",
-   "a": "It wasn't allowed in."
-  },
-  {
-   "j": "What did one mirror say to the other?",
-   "a": "Looks like we see eye to eye."
-  },
-  {
-   "j": "Why was the mirror so calm?",
-   "a": "It never took anything personally. It just sent it back."
   },
   {
    "j": "What does a mirror do when it is happy?",
@@ -2968,52 +2875,28 @@
    "a": "It needed some reflection."
   },
   {
-   "j": "What did Noor's backwards writing say to the mirror?",
-   "a": "Finally, someone who understands me!"
-  },
-  {
-   "j": "Why don't mirrors ever tell lies?",
-   "a": "They only send back what they get."
-  },
-  {
-   "j": "What is a kaleidoscope's favourite game?",
-   "a": "Copy, copy, copy."
-  },
-  {
-   "j": "Why did the pond think it was a mirror?",
-   "a": "Because it was so still and reflective."
-  },
-  {
    "j": "How does a mirror say goodbye?",
    "a": "!eybdooG"
+  },
+  {
+   "j": "What did the backwards writing say to the mirror?",
+   "a": "Finally, someone who understands me!"
   },
   {
    "j": "Why did the spoon look so worried?",
    "a": "Its reflection was upside down."
   },
   {
-   "j": "What do you call a mirror at the end of a dark corridor?",
-   "a": "Lonely. No light ever visits."
-  },
-  {
-   "j": "Why was the cat's eye so bright?",
-   "a": "It had a mirror on the inside."
-  },
-  {
-   "j": "What did the ambulance say to the car's mirror?",
-   "a": "Read me the right way, please!"
+   "j": "What did one mirror say to the other?",
+   "a": "Looks like we see eye to eye."
   },
   {
    "j": "Why did the two facing mirrors never finish talking?",
    "a": "They kept repeating each other for ever."
   },
   {
-   "j": "Why did the bathroom mirror go to school?",
-   "a": "To brush up on its reflections."
-  },
-  {
-   "j": "What did the white wall say to the mirror?",
-   "a": "I reflect too. I'm just not so picture-perfect."
+   "j": "What did the ambulance say to the car's mirror?",
+   "a": "Read me the right way, please!"
   }
  ],
  "maths": [
@@ -3086,7 +2969,7 @@
    "answer": "60 cm.",
    "explain": "Half of 120 is 60. You can check: 60 + 60 = 120. So a 60 cm mirror, hung at the right height, shows all of Anjali, wherever she stands.",
    "math_unit": "math.fractions.halves-and-quarters.L3",
-   "context": "This is about the mirror-size activity. You stick notes on a mirror at the top of your head and your chin, and find the mirror only needs to be half as tall as your face.",
+   "context": "This is about the mirror-size activity. You stick notes on a mirror at the top of your head and your chin, and find that the patch of mirror your face uses is half as tall as your face.",
    "how": "a6",
    "why_maths": "Halving turns what we found with the sticky notes into a rule we can use, for example when buying a mirror for a bedroom wall."
   },
@@ -3259,8 +3142,7 @@
    "url": "https://www.amazon.in/s?k=Mirror+Jeannie+Baker",
    "used_in": [
     "a8"
-   ],
-   "plan": "Read it before the drawing activity Mirror Mirror on the Wall, and ask how the two families mirror each other."
+   ]
   }
  ],
  "warmup": [
@@ -3403,7 +3285,7 @@
    "what_is_life": "Living things use reflection too. A cat has a mirror layer at the back of their eyes that helps them see in dim light.",
    "what_is_this_world": "Almost everything you see is reflected light. A book makes no light of its own, and neither does a tree, yet you see both."
   },
-  "thread": "One lamp in the Sheesh Mahal shows up as hundreds of sparkles. Two mirrors turn one toy into many images. Nothing new is made: it is light from one source, sent different ways. The whole world is like this: one source, showing up in many forms. A mirror is a small, real example you can hold in your hand.",
+  "thread": "One lamp in the Sheesh Mahal shows up as hundreds of sparkles. Two mirrors turn one toy into many images. Nothing new is made. Each sparkle and each image is the same light from one lamp or one toy, sent along different paths. A mirror is a small, real example you can hold in your hand.",
   "teachings": [
    {
     "source": "Avatamsaka Sutra, the image of Indra's net",
@@ -3442,7 +3324,7 @@
    "kid": "Sit in front of a mirror. Look at your eyes. Breathe slowly for ten counts. Raise your right hand. Which side is the image's hand on? Close your eyes. Can you still feel your face?"
   },
   "ask": [
-   "Is the face in the mirror you, or light that came from you?",
+   "Which things you can see right now make their own light, and which only reflect it?",
    "If nobody and nothing ever reflected you, would you still know what you look like?",
    "If left and right depend on which way you face, what other words change when you turn round?"
   ],

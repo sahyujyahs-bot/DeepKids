@@ -501,7 +501,7 @@
   {
    "concept": "Sorting living things: where does the platypus go?",
    "status": "debated",
-   "description": "Living things need sorting too. In the 1700s, a Swedish scientist, Carl Linnaeus, sorted plants and animals into groups inside groups. At first people sorted by looks. Whales were put with fish, because they live in water and have fins. But a whale breathes air, and a mother whale feeds her babies on milk. So whales belong with mammals. DNA shows that the whale's closest living relative is the hippo. Then came the platypus, an animal in Australia with fur and a duck-like bill, which lays eggs. In 1799 a British scientist, George Shaw, described a platypus skin sent from Australia. He wrote that it was hard to believe it was real, and he is said to have looked for stitches. But the platypus is real: a mammal who lays eggs. Biologists still argue about the most basic group of all, the species. They have written more than twenty different definitions. A tomato is a puzzle too. To a botanist it is a fruit. To a cook it is a vegetable. In 1893, the highest court in America decided that, for a tax on vegetables, a tomato counts as a vegetable. Each person used the rule that fit their job.",
+   "description": "Living things need sorting too. In the 1700s, a Swedish scientist, Carl Linnaeus, sorted plants and animals into groups inside groups. At first people sorted by looks. Whales were put with fish, because they live in water and have fins. But a whale breathes air, and a mother whale feeds her babies on milk. So whales belong with mammals. DNA shows that the whale's closest living relative is the hippo. Then came the platypus, an animal in Australia with fur and a duck-like bill, which lays eggs. In 1799 a British scientist, George Shaw, described a platypus skin sent from Australia. He wrote that he could hardly believe the animal was real, and he is said to have looked for stitches. But the platypus is real: a mammal who lays eggs. Biologists still argue about the most basic group of all, the species. They have written more than twenty different definitions. A tomato is a puzzle too. To a botanist it is a fruit. To a cook it is a vegetable. In 1893, the highest court in America decided that, for a tax on vegetables, a tomato counts as a vegetable. Each person used the rule that fit their job.",
    "examples": [
     "Whales are mammals, not fish.",
     "The platypus is a mammal that lays eggs.",
@@ -767,7 +767,7 @@
    "what_is_life": "Living things are sorters. Your kidneys sort your blood and your ear sorts sounds. A living body keeps what it needs and lets the rest go.",
    "what_is_this_world": "The world is made of about a hundred kinds of atom, joined in endless ways. Sorting is how we find the order inside all that variety."
   },
-  "thread": "Behind the many things in the world there is one source. Sorting points the same way. A heap of spoons, bangles and socks is many different things. Sort them by what they are made of, and they fall into a few materials. Sort the materials, and they come down to about a hundred kinds of atom. All of those atoms are built from just three kinds of tiny part: protons, neutrons and electrons.",
+  "thread": "A heap of spoons, bangles and socks is many different things. Sort them by what they are made of, and they fall into a few materials. Those materials come down to about a hundred kinds of atom. All of those atoms are built from just three kinds of tiny part: protons, neutrons and electrons.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.1.4 to 6.1.6",
@@ -782,7 +782,7 @@
    {
     "source": "Tao Te Ching 1",
     "teaching": "The way that can be spoken is not the eternal way. The name that can be named is not the eternal name.",
-    "link": "Groups are names we give. They are useful, but the world does not have to fit them. The platypus did not fit the old groups, so biologists made a new group for it."
+    "link": "Groups are names we give. They are useful, but the world does not have to fit them. The platypus did not fit the old groups, so biologists gave egg-laying mammals their own group, the monotremes."
    }
   ],
   "science": [
@@ -832,7 +832,7 @@
    "She struck me once. I rang. It was not a clank. It was a note so clear and so long that it climbed the foundry roof and made the tin hum. It rolled out over the lane, where a dog lifted their head and the vegetable seller stopped weighing. It went on and on, thinning out like a thread drawn from a spool. When at last it ended, the lane was quiet for a moment, as if it were listening for more.",
    "I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pulls my rope, and my voice goes out across the fields. Children come running from three villages. On my rim, in raised letters, is the name of the foundry. Nobody wrote Hema's name there. But stand underneath me and look up into the dark inside my rim. There you can find one small scratched letter. It was cut with a chisel by an old man who could no longer hear high notes. It is an H."
   ],
-  "epiphany": "For the parent: the pieces of metal never changed. Only the rule for sorting them changed. Sorted by colour, the heap hid the difference that mattered. Sorted by sound, the heap split into two piles, and the bell sang. A rule is only good when it fits the job. The story also asks who notices what. The old man trusted his eyes because his ears had changed. The girl's ears, and her willingness to speak, made the difference.",
+  "epiphany": "For the parent: the pieces of metal never changed. Only the rule for sorting them changed. Sorted by colour, the heap hid the difference that mattered. Sorted by sound, the heap split into two piles, and the bell sang. A rule is only good when it fits the job. The old man trusted his eyes because his ears had changed. The girl's ears, and her willingness to speak, made the difference.",
   "ask": [
    "Thatha sorted the metal by colour. Why did it not work for a bell?",
    "Hema sorted the metal by sound. Why did that rule fit the job better?",
@@ -853,11 +853,11 @@
    "id": "g1",
    "title": "Rule Detective",
    "mins": 20,
-   "players": "2 to 5 players, or one child playing against a grown-up",
+   "players": "2 to 5 players. A parent and a child is enough.",
    "printables": [
     {
      "kind": "cards",
-     "title": "24 thing cards to cut out, each with a picture and a name",
+     "title": "24 thing cards to cut out, each with a name",
      "items": [
       "steel spoon",
       "wooden spoon",
@@ -915,25 +915,55 @@
      "kind": "tokens",
      "title": "30 guess tokens (small paper circles)",
      "items": [
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
+      "🔍",
       "🔍"
      ]
     }
    ],
    "rules": [
-    "Cut out the 24 thing cards and the 12 rule cards. Put the rule cards in a pile, face down.",
+    "Cut out the 24 thing cards and the 12 rule cards. Lay the thing cards face up in rows, where everyone can see them. Put the rule cards in a pile, face down.",
     "One player is the Sorter. The Sorter secretly takes a rule card and does not show it.",
-    "The Sorter turns over thing cards one at a time. Each goes on the YES mat or the NO mat, by the secret rule. The Sorter says nothing about the rule.",
-    "After each card, the other players may guess the rule. A right guess after 3 cards wins 3 tokens. After 4 or 5 cards it wins 2 tokens. After 6 or more cards it wins 1 token. A wrong guess costs 1 token.",
-    "Any player may say 'Test it!'. Then the Sorter must show how they decided about that card. If you have the real thing at home, test it together. If the card was put in the wrong place, the Sorter loses a token.",
-    "When the rule is guessed, or after 8 cards, swap roles. Everyone should be the Sorter twice. The player with the most tokens wins."
+    "The Sorter picks one thing card at a time and puts it on the YES mat or the NO mat, by the secret rule. The Sorter says nothing about the rule. A good Sorter picks cards that give clues, so both mats get cards.",
+    "When 3 cards are on the mats, the other players may guess the rule after each new card. A right guess with 3 cards on the mats wins 3 tokens. With 4 or 5 cards it wins 2 tokens. With 6 to 8 cards it wins 1 token. A wrong guess costs 1 token, if you have one.",
+    "Any player may say 'Test it!' about a card. Then the Sorter must show how they decided about that card. If you have the real thing at home, test it together. If the card was in the wrong place, the Sorter moves it, and the player who said 'Test it!' wins 1 token.",
+    "The round ends when someone guesses the rule, or when 8 cards are on the mats. If nobody guessed, the Sorter shows the rule card and nobody wins tokens. The Sorter wins 1 token if the rule was guessed with 5 to 8 cards.",
+    "Put the thing cards back and swap roles. With 2 or 3 players, everyone is the Sorter twice. With 4 or 5 players, everyone is the Sorter once. Then the player with the most tokens wins. If there is a tie, the tied players share the win."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Cut out the thing cards and the rule cards. 2. Lay the YES and NO mats side by side. 3. Put the rule cards face down in a pile. 4. Choose who is the Sorter first.",
+     "do": "1. Cut out the thing cards, the rule cards and the 30 tokens. 2. Lay the thing cards face up. 3. Lay the YES and NO mats side by side. 4. Put the rule cards face down in a pile. 5. Choose who is the Sorter first.",
      "say": "Today we are detectives. One of us secretly picks a rule. The rest must work out the rule, just by watching where things go.",
-     "kid": "Cut out the cards. Put the YES and NO mats down. One player is the Sorter. The others are detectives.",
+     "kid": "Cut out the cards and tokens. Lay the cards face up. Put the YES and NO mats down. One player is the Sorter. The others are detectives.",
      "context": "This is the first step of Rule Detective. It is a card game about sorting. One player sorts things by a secret rule, and the others guess the rule."
     },
     {
@@ -941,7 +971,7 @@
      "mins": 4,
      "do": "Play a practice round with everyone watching. Put the steel spoon, glass bangle, foil ball and brass kindi on the YES mat. Put the wooden spoon, rubber band and woollen sock on the NO mat. Ask what the rule is.",
      "say": "Look at the YES mat and the NO mat. Can you work out the secret rule?",
-     "kid": "Look at what is on the YES mat. Look at what is on the NO mat. What is the secret rule? Tap your answer.",
+     "kid": "Look at what is on the YES mat. Look at what is on the NO mat. What is the secret rule? Say your answer.",
      "ask": [
       {
        "q": "How did you work out the rule?",
@@ -966,7 +996,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. The Sorter takes a rule card in secret and starts turning over thing cards, one at a time. 2. After each card, the detectives may guess. 3. Count tokens as in the rules. 4. When a rule is guessed, swap roles.",
+     "do": "1. The Sorter takes a rule card in secret and starts picking thing cards, one at a time. 2. After each card from the third on, the detectives may guess. 3. Count tokens as in the rules. 4. When the round ends, swap roles.",
      "say": "Sorter, put each card where it belongs by your secret rule. Detectives, think about each card before you guess.",
      "kid": "Sorter, pick a secret rule. Put cards on YES or NO. Detectives, watch carefully. Guess the rule when you are ready.",
      "parent": "Let the Sorter be a child, so they think hard about their own rule. If the Sorter is unsure about a card, say 'Test it!' and do the test together. Rules with an exact test, like the fingernail test, are the fairest."
@@ -1001,7 +1031,7 @@
    "context": "This is a card game about sorting. One player secretly picks a rule and sorts things by it. The other players watch and try to work out the rule.",
    "setup": [
     {
-     "art": "A table with 24 picture cards in a pile, two paper mats marked YES and NO, and a pile of face-down rule cards.",
+     "art": "A table with 24 name cards laid face up, two paper mats marked YES and NO, and a pile of face-down rule cards.",
      "caption": "1. Lay out the YES and NO mats. Put the cards beside them."
     },
     {
@@ -1018,7 +1048,7 @@
    "id": "g2",
    "title": "Find the Missing Card",
    "mins": 20,
-   "players": "1 to 4 players, one of them the Keeper",
+   "players": "2 to 4 players: one Keeper and one or more guessers",
    "printables": [
     {
      "kind": "cards",
@@ -1064,7 +1094,7 @@
     "The other players put the 9 cards that are left in number order, in rows of four. They leave a gap wherever a number is missing.",
     "Look down each column. What is the same? What changes as you go down?",
     "For each gap, write a guess on the guess sheet. Guess the border colour and the bounce number of the missing Zib.",
-    "The Keeper turns over the hidden cards. Score 1 point for each correct colour and 1 point for each correct bounce number. The player with the most points wins."
+    "The Keeper turns over the hidden cards. Each guesser scores 1 point for each correct colour and 1 point for each correct bounce number, up to 6 points. The guesser with the most points wins. A single guesser tries to score all 6."
    ],
    "flow": [
     {
@@ -1122,8 +1152,8 @@
      "id": "s5",
      "mins": 2,
      "do": "Talk about what a good pattern lets you do.",
-     "say": "A good sort does more than tidy things up. It lets you guess what you have not found. Where else could a pattern tell you what is missing?",
-     "kid": "A good sort lets you guess what you have not found yet. Where else could a pattern help you?",
+     "say": "A pattern can tell you what is missing before you find it. Where else could a pattern tell you what is missing?",
+     "kid": "A pattern can tell you what is missing before you find it. Where else could a pattern help you?",
      "think": "Think of a times table with one number missing, or a row of beads with one bead gone."
     }
    ],
@@ -1258,17 +1288,6 @@
     },
     {
      "t": "mcq",
-     "p": "In a Venn diagram of Shiny and Hard, where does a woollen sock go?",
-     "opts": [
-      "In the overlap",
-      "In the Shiny circle only",
-      "Outside both circles"
-     ],
-     "a": 2,
-     "why": "A woollen sock is soft and dull. It fits neither rule, so it goes outside both circles. Picking the overlap is common. Some children think the overlap is the place for odd things, but it is for things that fit both."
-    },
-    {
-     "t": "mcq",
      "p": "Look at the Carroll table. How many things are dull and soft?",
      "opts": [
       "1",
@@ -1342,7 +1361,7 @@
     },
     {
      "t": "perspective",
-     "p": "Amma asks three girls to sort the kitchen drawer so that things are easy to find. Each girl has a different rule.",
+     "p": "A grown-up asks three girls to sort the kitchen drawer so that things are easy to find. Each girl has a different rule.",
      "views": [
       {
        "who": "Meena, in Class 3",
@@ -1364,19 +1383,6 @@
     },
     {
      "t": "mcq",
-     "p": "A girl hangs a steel tumbler and a plastic tumbler of the same shape from threads. She taps each one with a pencil. Which will ring for longer?",
-     "opts": [
-      "The steel tumbler",
-      "The plastic tumbler",
-      "Both the same, because the shape is the same"
-     ],
-     "a": 0,
-     "how": "e4",
-     "context": "In the experiment Sort by Sound, you hang things on a thread and tap them lightly. You listen to how long they ring.",
-     "why": "Steel rings for a long time when tapped. Plastic gives a short, dull tap. The shape is the same, so the difference comes from the material. Picking 'both the same' trusts the shape and forgets the material."
-    },
-    {
-     "t": "mcq",
      "p": "A family has a heap of old clothes to give away. Some will go to a baby, and some to grown-ups. Which rule fits this job?",
      "opts": [
       "Is it small enough for a baby?",
@@ -1393,6 +1399,27 @@
      "a": false,
      "why": "False. A brass bowl and a kansa bowl can look almost the same. Tap them, and the kansa bowl rings for much longer than the brass one. Looks are only one rule. A test like sound can show a difference that looks miss.",
      "context": "Brass and kansa, also called bell metal, are both yellow metals made mostly of copper."
+    },
+    {
+     "t": "fill",
+     "p": "A Carroll table sorts things by two yes or no rules, and it has ____ boxes.",
+     "a": [
+      "four",
+      "4"
+     ],
+     "why": "Two yes or no rules give four pairs of answers: yes and yes, yes and no, no and yes, no and no. Each pair has its own box."
+    },
+    {
+     "t": "mcq",
+     "p": "One child sorts a heap of spoons by what they are made of. Another sorts the same spoons by length. Both groupings are fine. Why?",
+     "opts": [
+      "Each child used a different rule, and the rule decides the groups",
+      "One child must have made a mistake",
+      "Spoons can only be sorted one way",
+      "The spoons changed between the two sorts"
+     ],
+     "a": 0,
+     "why": "The spoons stay the same. Material and length are two different questions, so they give two different sets of groups. Both are right for a job: material for recycling, length for fitting in a drawer."
     }
    ]
   },
@@ -1402,38 +1429,6 @@
    "tier": "stretch",
    "mins": 25,
    "items": [
-    {
-     "t": "fill",
-     "p": "In the Carroll table, 3 + 3 + 1 + 5 = ____ things were sorted altogether.",
-     "a": [
-      "12",
-      "twelve"
-     ],
-     "why": "3 plus 3 is 6. 6 plus 1 is 7. 7 plus 5 is 12. Every thing goes in exactly one box, so the boxes add up to the whole heap.",
-     "context": "In the experiment One Heap, Three Rules, you sort twelve things by hard or soft and then by shiny or dull. A Carroll table has four boxes, one for each pair of answers.",
-     "chart": {
-      "type": "table",
-      "title": "A made-up Carroll table of twelve things",
-      "cols": [
-       "",
-       "Hard",
-       "Soft"
-      ],
-      "rows": [
-       [
-        "Shiny",
-        "steel spoon, glass bangle, plastic comb",
-        "foil ball"
-       ],
-       [
-        "Dull",
-        "wooden spoon, clay diya, pebble",
-        "rubber band, woollen sock, cotton hanky, candle, paper cup"
-       ]
-      ]
-     },
-     "how": "e1"
-    },
     {
      "t": "mcq",
      "p": "In the Scratch Ladder, a fingernail marks soap but not a plastic comb. A steel nail marks the comb. Which is harder?",
@@ -1485,19 +1480,6 @@
      "why": "Soap and candle are marked by a fingernail. Wood and plastic need the steel nail. The glaze on a ceramic mug and a glass jar resist even that.",
      "how": "e2",
      "context": "In the Scratch Ladder, three rungs show how hard a thing is. The first rung is softest and the third is hardest."
-    },
-    {
-     "t": "mcq",
-     "p": "Key A asks 'Is it hard?' first and then splits each half again. Key B asks about one thing at a time. For eight things, which key never needs more than three questions?",
-     "opts": [
-      "Key A",
-      "Key B",
-      "Both"
-     ],
-     "a": 0,
-     "why": "Key A halves the group each time: 8, 4, 2, 1. So it needs at most three questions. Key B can need seven. Picking Key B usually means counting the lucky first guess and forgetting the unlucky ones.",
-     "context": "In the Twenty Questions Race, Key A splits eight things in half each time. Key B picks out one thing at a time.",
-     "how": "e3"
     },
     {
      "t": "mcq",
@@ -1654,6 +1636,29 @@
      "p": "A sieve sorts things by how heavy they are.",
      "a": false,
      "why": "False. A sieve sorts by size. A small heavy stone falls through the holes, and a big light leaf stays on top. Many people mix up size and weight."
+    },
+    {
+     "t": "order",
+     "p": "Put these stars in order, from the hottest surface to the coolest.",
+     "items": [
+      "A blue-white star",
+      "A white star",
+      "A yellow star like the Sun",
+      "An orange star",
+      "A red star"
+     ],
+     "a": "order shown",
+     "why": "For stars, the bluer the light, the hotter the surface. The order runs blue-white, white, yellow, orange, red."
+    },
+    {
+     "t": "fill",
+     "p": "Sorting by sound found a difference between two bowls that sorting by ____ missed.",
+     "a": [
+      "looks",
+      "look",
+      "appearance"
+     ],
+     "why": "Two bowls can look the same and ring differently, because they are made of different materials. A test like sound can show what looks hide."
     }
    ]
   },
@@ -1701,14 +1706,6 @@
      "lines": 4,
      "a": "A person has many parts to them, and one rule hides most of them. People can feel hurt or left out. A sort can also be used unfairly.",
      "why": "Good answers say that people belong to many groups at once, and that a single rule hides the rest. They may also mention fairness or feelings."
-    },
-    {
-     "t": "write",
-     "p": "In the story The Bell That Would Not Sing, Thatha sorted the metal by colour and Hema sorted it by sound. Why did the bell sing only after the second sort?",
-     "lines": 4,
-     "a": "Colour showed what the metal looked like, but not what it would sound like. A bell needs bell metal, which rings. Hema's sort used the property the bell needed.",
-     "why": "The rule must fit the job. A bell is for sound, so sorting by sound fits.",
-     "context": "In the story The Bell That Would Not Sing, Thatha, an old bell maker, sorted scrap metal by colour, and his bell went 'clank'. His granddaughter Hema then sorted it by how long each piece rang."
     },
     {
      "t": "mcq",
@@ -1830,7 +1827,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "A good sort does more than tidy. Cecilia Payne used the star types to find what stars are made of. Mendeleev's gaps predicted new elements. In Bengal in the 1890s, Azizul Haque and Hem Chandra Bose worked out a way to sort fingerprints, so a matching card could be found fast. Shechtman's strange pattern made scientists add a new kind of solid."
+     "why": "Cecilia Payne used the star types to find what stars are made of. Mendeleev's gaps predicted new elements. In Bengal in the 1890s, Azizul Haque and Hem Chandra Bose worked out a way to sort fingerprints, so a matching card could be found fast. Shechtman's strange pattern made scientists add a new kind of solid."
     },
     {
      "t": "sort",
@@ -1904,7 +1901,7 @@
      "qty": 1
     }
    ],
-   "safety": "Choose things with no sharp edges. Keep glass things low, over a soft rug.",
+   "safety": "Choose things with no sharp edges.",
    "schedule": [
     {
      "day": 1,
@@ -1934,9 +1931,9 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Write the rule 'Is it hard?' on a sheet. Explain the test: press a fingernail into each thing. If it leaves a mark, it is soft. 2. Test each thing. 3. Put the hard things on one sheet and the soft ones on the other. 4. Photograph the groups and write them in the results table.",
-     "say": "Here is a fair test for hard and soft. Press a fingernail into it. If it leaves a mark, it is soft. We will use the same test on every single thing.",
-     "kid": "Rule 1: hard or soft. Press your fingernail into each thing. A mark means soft. No mark means hard. Make two groups.",
+     "do": "1. Write the rule 'Is it hard?' on a sheet. Explain the test: press a fingernail into each thing. If it leaves a mark or sinks in, it is soft. If it does neither, it is hard. 2. Test each thing. 3. Put the hard things on one sheet and the soft ones on the other. 4. Photograph the groups and write them in the results table.",
+     "say": "Here is a fair test for hard and soft. Press a fingernail into it. If it leaves a mark or sinks in, it is soft. If it does neither, it is hard. We will use the same test on every single thing.",
+     "kid": "Rule 1: hard or soft. Press your fingernail into each thing. A mark or a dent means soft. No mark and no dent means hard. Make two groups.",
      "parent": "Some things are tricky. A candle takes a fingernail mark, so it is soft by this test, even though it feels solid. A foil ball may surprise you too: it is shiny, but it takes a fingernail mark. Let the test decide, not the guess.",
      "check": {
       "t": "mcq",
@@ -2091,7 +2088,7 @@
      "qty": 8
     },
     {
-     "item": "a steel nail, held only by a grown-up or with a grown-up watching",
+     "item": "a steel nail, held by a grown-up",
      "qty": 1
     },
     {
@@ -2124,7 +2121,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Press a fingernail firmly into each thing and drag it a short way. 2. Look closely for a mark, or zoom in with a phone camera. 3. Write yes or no in the table.",
+     "do": "1. Press a fingernail firmly into each thing and drag it a short way. 2. Look closely for a mark, or zoom in with a phone camera. 3. Do it twice on each thing. 4. Write yes in the table only if it was marked both times.",
      "say": "First test: your fingernail. Press and drag it a little way. Look closely. Is there a mark?",
      "kid": "Test one: your fingernail. Press and drag it over each thing. Look closely. Is there a mark? Write yes or no.",
      "parent": "A scratch is a groove. Chalk and soap leave powder, but they are still marked. The mug may show a faint line from your fingernail. Wipe it with a finger. If it wipes off, it is not a scratch.",
@@ -2140,7 +2137,7 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "1. A grown-up holds the steel nail. 2. Use the nail on only the things that the fingernail did not mark. 3. Press and drag the same way. 4. Look closely, or zoom in with a phone camera, and write yes or no.",
+     "do": "1. A grown-up holds the steel nail. 2. Use the nail on only the things that the fingernail did not mark. 3. Press and drag the same way, twice on each thing. 4. Look closely, or zoom in with a phone camera, and write yes or no.",
      "say": "Second test: a steel nail. We use it only on the things that the fingernail could not mark. A grown-up holds the nail.",
      "kid": "Test two: a steel nail. A grown-up holds it. Use it on the things your fingernail could not mark. Look for a scratch.",
      "adult": true,
@@ -2221,7 +2218,7 @@
    "title": "Twenty Questions Race: which key is fastest?",
    "mins": 25,
    "days": 1,
-   "question": "Which first question makes the fastest branching key?",
+   "question": "Which makes a faster branching key: a first question that splits the eight things four and four, or one question for each thing?",
    "predict": "Before you play, guess, and say why you think so. Which key finds a secret object in fewer questions? One key splits eight things into four and four. The other picks out one thing at a time.",
    "fair_test": "Use the same eight things for both keys. Each thing is picked once for each key. The same person answers all the questions. Change only the key.",
    "results_table": [
@@ -2247,7 +2244,6 @@
      "qty": 1
     }
    ],
-   "safety": "Nothing special. Keep glass things low over a soft rug.",
    "schedule": [
     {
      "day": 1,
@@ -2442,7 +2438,7 @@
      "qty": 1
     }
    ],
-   "safety": "Tap lightly, especially on the ceramic mug. Do the test over a soft rug or a folded towel, in case something falls.",
+   "safety": "Tap lightly, especially on the ceramic mug, which can crack.",
    "schedule": [
     {
      "day": 1,
@@ -2463,9 +2459,9 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Tie a loop of thread round the handle of each spoon and the mug. Hold the other end so the thing hangs free. 2. Rest the bowl, the tumbler and the foil container, open side up, on three fingertips of a flat hand. 3. Tap it lightly with a pencil and start timing. 4. Listen until you cannot hear it any more. 5. Write the seconds in the table. 6. Do it three times for each thing.",
+     "do": "1. Tie a loop of thread round the handle of each spoon and the mug. Hold the other end so the thing hangs free. 2. Rest the bowl, the tumbler and the foil container, open side up, on three fingertips of a flat hand. 3. Tap it lightly with a pencil and start timing. 4. Listen until you cannot hear it any more. 5. Write the seconds in the table. 6. Do it three times for each thing. 7. Pick the middle of the three numbers and write it in the last column.",
      "say": "Hold the thing so almost nothing touches it. Tap it once, gently. Listen. Count the seconds until the ring has completely faded.",
-     "kid": "Hang the spoon by its thread. Rest a bowl on your fingertips. Tap it once, lightly, with the pencil. Count how many seconds it rings. Write it down.",
+     "kid": "Hang the spoon by its thread. Rest a bowl on your fingertips. Tap it once, lightly, with the pencil. Count how many seconds it rings. Write it down. Do this three times for each thing. Then write the middle of the three numbers in the last column.",
      "parent": "A hand wrapped round a thing stops the ringing, so hold it by a thread or on fingertips. It is quiet work, so turn off any fan or TV. Ring times are rough, and this is fine. Look at the differences, which are big. Try three times because one try may be a fluke. Expect the bowl and the tumbler to ring for several seconds, and the foil container and plastic spoon hardly at all.",
      "adult": false
     },
@@ -2484,7 +2480,7 @@
        "One bowl is broken"
       ],
       "a": 0,
-      "why": "Looking alike does not mean sounding alike. The two bowls may be made of different materials, such as bell metal and brass. Sorting by sound found a difference that sorting by looks missed. Picking 'the same material' usually means the child trusts looks too much. A crack can also stop a bowl ringing, so check for one. But a crack is not the only reason."
+      "why": "Looking alike does not mean sounding alike. The two bowls may be made of different materials, such as bell metal and brass. Sorting by sound found a difference that sorting by looks missed. Picking 'the same material' usually means the child trusts looks too much. A crack can also stop a bowl ringing, so check for one."
      },
      "chart": {
       "type": "bar",
@@ -2663,11 +2659,10 @@
      "qty": 2
     },
     {
-     "item": "ten things made of different materials, and two paper labels",
+     "item": "ten things made of different materials, for example a steel spoon, a wooden spoon, a rubber band, a glass bangle, a woollen sock, a foil ball, a pencil, a plastic comb, a clay diya and a coin, and two paper labels",
      "qty": 10
     }
    ],
-   "safety": "Keep glass things low. Place them, do not throw them.",
    "schedule": [
     {
      "day": 1,
@@ -2760,7 +2755,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up mixes in the stones or salt. Work on a balcony or by an open window, with newspaper underneath. Do not cook this dal afterwards.",
+   "safety": "A grown-up mixes in the stones or salt. Do not cook this dal afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -2856,7 +2851,7 @@
      "qty": 3
     }
    ],
-   "safety": "Keep the magnet away from phones and bank cards. Keep paper clips and small bits away from babies. Work over newspaper.",
+   "safety": "Keep the magnet away from phones and bank cards. Keep paper clips and small bits away from children under five.",
    "schedule": [
     {
      "day": 1,
@@ -2877,11 +2872,11 @@
     {
      "id": "s2",
      "mins": 14,
-     "do": "1. Blow gently over the tray to move the light paper into a bowl. 2. Run the magnet over the rest. The steel clips jump to it. Drop them in a bowl. 3. Tip what is left into the water. Scoop off what floats. 4. What sinks stays at the bottom. Dry it on a towel.",
+     "do": "1. Tilt the tray over a bowl and blow gently across it, so the light paper scraps drift into the bowl. Flick away any that stick. 2. Run the magnet over the rest. The steel clips jump to it. Drop them in a bowl. 3. Tip what is left into the water. Scoop off what floats. 4. What sinks stays at the bottom. Dry it on a towel.",
      "say": "Step one, blow away the lightest bits. Step two, the magnet picks up the steel. Step three, water: what floats and what sinks? Each step has its own rule.",
      "kid": "Blow the paper away. Use the magnet on the clips. Put the rest in water. What floats? What sinks?",
      "adult": false,
-     "parent": "Expect paper to blow away and clips to jump to the magnet. Expect caps to float, and the chana or beans to sink. A magnet attracts iron and most steel, but not aluminium, copper or plastic. If your fridge magnet is too weak to lift a clip, use any stronger magnet you have.",
+     "parent": "Expect paper to blow away (a bottle cap that blows over too can go back on the tray) and clips to jump to the magnet. Expect caps to float, and the chana or beans to sink. A magnet attracts iron and most steel, but not aluminium, copper or plastic. If your fridge magnet is too weak to lift a clip, use any stronger magnet you have.",
      "check": {
       "t": "mcq",
       "q": "Why should the blowing step come before the water step?",
@@ -2934,7 +2929,7 @@
      "qty": 1
     }
    ],
-   "safety": "For the sky watch, go to a window, a balcony or a terrace with a grown-up.",
+   "safety": "Stay away from the edge of a balcony or terrace.",
    "schedule": [
     {
      "day": 1,
@@ -2983,7 +2978,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "If the sky is clear, go outside or to a window with a grown-up after dark. Look for a reddish star and a blue-white star in Orion. Orion is easy to see in the evening sky from about December to March. Both stars are bright enough to see from a city.",
+     "do": "Extra, for a clear winter evening: if the sky is clear, go outside or to a window with a grown-up after dark. Look for a reddish star and a blue-white star in Orion. Orion is easy to see in the evening sky from about December to March. Both stars are bright enough to see from a city.",
      "say": "Orion is easy to find on winter evenings. Look for three stars in a row: that is Orion's belt. Above the belt is a red-orange star called Betelgeuse. Below it, on the other side, is a blue-white star called Rigel. Can you see the different colours?",
      "kid": "Go out with a grown-up after dark. Find Orion. Look at the red star and the blue-white star. Can you see the colours?",
      "adult": true,
@@ -3017,11 +3012,10 @@
      "qty": 2
     },
     {
-     "item": "family members or friends",
-     "qty": 3
+     "item": "at least two people, for example you and a grown-up",
+     "qty": 2
     }
    ],
-   "safety": "Use only friendly rules about clothes, favourite things and what we like to do. Never sort people by their bodies, skin, religion, caste or how rich they are.",
    "schedule": [
     {
      "day": 1,
@@ -3037,7 +3031,8 @@
      "do": "1. Lay two overlapping circles on the floor. 2. Label them with friendly rules, such as 'Wearing blue' and 'Likes mango'. 3. Explain that everyone will stand in the right place.",
      "say": "Today we are the things being sorted. Let's use two friendly rules. Wearing something blue. And, likes mango. Where will you stand?",
      "kid": "Make two circles on the floor. One is Wearing blue. One is Likes mango. Stand where you belong.",
-     "context": "This is the first step of Which Circles Are You In? You become the things in a Venn diagram, using friendly rules."
+     "context": "This is the first step of Which Circles Are You In? You become the things in a Venn diagram, using friendly rules.",
+     "parent": "Use only friendly rules about clothes, favourite things and what we like to do. Never sort people by their bodies, skin, religion, caste or how rich they are."
     },
     {
      "id": "s2",
@@ -3124,7 +3119,7 @@
     },
     {
      "id": "s2",
-     "mins": 8,
+     "mins": 10,
      "do": "1. Move your fingers slowly through it. 2. Now punch it, or press it hard. 3. Scoop some up and roll it quickly in your hands. 4. Stop rolling and watch it.",
      "say": "Poke it slowly. Now press it hard and fast. Roll it between your palms. Then stop. What does it do each time?",
      "kid": "Poke it slowly. Punch it. Roll it in your hands. Then stop. What does it do each time?",
@@ -3201,7 +3196,7 @@
      "qty": 1
     }
    ],
-   "safety": "Choose things that are safe to handle. Keep sharp things out.",
+   "safety": "Keep sharp and breakable things out.",
    "schedule": [
     {
      "day": 1,
@@ -3345,7 +3340,7 @@
      "do": "1. Try the plan. 2. Time it. 3. Count the steps. 4. Try one change and time it again.",
      "say": "Try your plan and time it. Then change one thing and try again. Which version is faster?",
      "kid": "Try your plan. Time it. Change one thing. Try again. Which is faster?",
-     "parent": "A magnet first is usually best. Then blow or toss for the leaves. Then shake the rest in a colander or a sieve with big holes: rice falls through, and the chana and beads stay. If the rice will not pass, tilt the tray and tap it, so the round beads roll away. Pick out the rajma, or try water if your beads float. If a step does not work, look for one property where the two kinds differ, such as size, weight or floating, and use a tool that sorts by it."
+     "parent": "A magnet first is usually best. Then blow or toss for the leaves. Then shake the rest in a colander or a sieve with big holes: rice falls through, and the chana and beads stay. Put the chana and beads in water. Chana sinks, and many plastic beads float, so test one bead first. If your beads sink too, tilt the tray and tap it, so the round beads roll away from the chana. If a step does not work, look for one property where the two kinds differ, such as size, weight or floating, and use a tool that sorts by it."
     },
     {
      "id": "s4",
@@ -3396,7 +3391,7 @@
     "Make a key you can feel. Questions such as 'Is it rough?' or 'Is it cold?' use touch instead of sight.",
     "Use sound. Tap each thing. 'Does it ring?' is a question a blind person can answer.",
     "Use colour and shape symbols that match the questions, so that a child learns the symbols as they go.",
-    "Make a key in another language that your family speaks, and ask a grandparent to check it."
+    "Make a key in another language that your family speaks, and ask an older relative who speaks it, if you have one, to check it."
    ],
    "your_turn": "Now invent your own way. Draw it, make it, and test it on someone. What did they find easy? What confused them?",
    "flow": [
@@ -3457,15 +3452,15 @@
    "youtube": "fPnwBITSmgU",
    "mins": 5,
    "why": "A short, clear story of how Mendeleev sorted the elements, left gaps and predicted new elements. Good for older children and for the parent.",
-   "check": "Found by YouTube search: \"The genius of Mendeleev's periodic table - Lou Serico\" by TED-Ed. Title checked automatically; a parent may still preview it."
+   "check": "Opened on YouTube; the title matches."
   },
   {
-   "title": "Dan Shechtman, Nobel Prize in Chemistry 2011: Nobel Lecture",
+   "title": "2011 Nobel Prize in Chemistry",
    "channel": "Nobel Prize",
    "youtube": "z3oKhYhOVSk",
    "mins": 10,
-   "why": "The scientist who found the 'impossible' quasicrystal tells his own story. It is long and aimed at adults. Watch only the first ten minutes, which cover the discovery and how colleagues reacted.",
-   "check": "Found by YouTube search: \"2011 Nobel Prize in Chemistry\" by Nobel Prize. Title checked automatically; a parent may still preview it."
+   "why": "The Nobel Prize video for the 2011 chemistry prize, given to Dan Shechtman for the quasicrystal that scientists thought was impossible. It is made for adults, so a parent should watch it first and choose what to show.",
+   "check": "Opened on YouTube; the title matches."
   },
   {
    "title": "The Big Sort: An Insider's Tour of a Recycling Plant",
@@ -3473,7 +3468,7 @@
    "youtube": "nUrBBBs7yzQ",
    "mins": 6,
    "why": "Shows layered sorting on a big scale. Magnets take steel, machines take aluminium cans, and cameras with air jets sort plastics.",
-   "check": "Found by YouTube search: \"The Big Sort: An Insider's Tour of a Recycling Plant\" by SciFri. Title checked automatically; a parent may still preview it."
+   "check": "Opened on YouTube; the title matches."
   }
  ],
  "quiz": [
@@ -3590,18 +3585,6 @@
   },
   {
    "t": "mcq",
-   "p": "Which first question makes the fastest key for eight things, four hard and four soft?",
-   "opts": [
-    "Is it hard?",
-    "Is it the steel spoon?",
-    "Is it the candle?"
-   ],
-   "a": 0,
-   "why": "'Is it hard?' splits the eight things four and four. Asking about one thing at a time is slow.",
-   "outcome": 4
-  },
-  {
-   "t": "mcq",
    "p": "Selvi is a kabadiwala. She buys old things and sells them on. She keeps paper, glass and iron in separate piles. Why?",
    "opts": [
     "Each material is recycled in its own way",
@@ -3651,18 +3634,6 @@
   },
   {
    "t": "mcq",
-   "p": "Which star is hotter on its surface?",
-   "opts": [
-    "A blue star",
-    "A red star",
-    "They are the same"
-   ],
-   "a": 0,
-   "why": "For stars, blue means hotter. Picking red is very common because we link red with fire.",
-   "outcome": 6
-  },
-  {
-   "t": "mcq",
    "p": "Do scientists agree on exactly what a species is?",
    "opts": [
     "No, there are over twenty different definitions",
@@ -3683,18 +3654,6 @@
    ],
    "a": 0,
    "why": "The rule changed, not Pluto. Some astronomers still disagree with the new rule. Picking 'Pluto got smaller' is a common guess, but Pluto did not change.",
-   "outcome": 7
-  },
-  {
-   "t": "mcq",
-   "p": "Dan Shechtman found a pattern that scientists thought was impossible. What happened to the definition of a crystal?",
-   "opts": [
-    "It was changed in 1992",
-    "It stayed the same",
-    "It was thrown away"
-   ],
-   "a": 0,
-   "why": "Other scientists checked his work, and the boxes were changed to fit what was found. Picking 'stayed the same' ignores that science can correct itself.",
    "outcome": 7
   },
   {
@@ -3825,10 +3784,6 @@
    "a": "I'll stretch a point for you."
   },
   {
-   "j": "Why did the Venn diagram go to the party?",
-   "a": "It loved to overlap with friends."
-  },
-  {
    "j": "Why did the steel clips sit next to the magnet?",
    "a": "They found it very attractive."
   },
@@ -3837,75 +3792,23 @@
    "a": "Pile and seek."
   },
   {
-   "j": "Why was the key so good at its job?",
-   "a": "It always asked the right questions."
-  },
-  {
    "j": "Why did the sock refuse to go in the shiny group?",
    "a": "It was feeling dull."
-  },
-  {
-   "j": "What did the glass bangle say when it was sorted with the metal?",
-   "a": "I'm clearly in the wrong group."
-  },
-  {
-   "j": "What did the dal say to the little stone?",
-   "a": "Sorry, you are not one of us. Off you rock!"
-  },
-  {
-   "j": "Why was the candle so hard to sort?",
-   "a": "It was always in the middle of things."
-  },
-  {
-   "j": "Why do stars get sorted by colour?",
-   "a": "They are always in a good light."
   },
   {
    "j": "Is a tomato a fruit or a vegetable?",
    "a": "Ask a botanist and a cook together, then stand well back."
   },
   {
-   "j": "What did the sieve say to the flour?",
-   "a": "You may pass. The stones must stay."
-  },
-  {
-   "j": "Why is a tidy drawer so happy?",
-   "a": "Everything is in its place, and it can relax."
-  },
-  {
-   "j": "Why did the question mark join the branching key?",
-   "a": "It wanted to be asked."
-  },
-  {
-   "j": "Which group did the plastic spoon join in Sort by Sound?",
-   "a": "The quiet group. It had nothing to say."
-  },
-  {
-   "j": "Why was the sieve so calm?",
-   "a": "It let the small things go."
-  },
-  {
-   "j": "Why is a Carroll table never lonely?",
-   "a": "It always has four boxes of friends."
-  },
-  {
    "j": "Why did Mendeleev leave gaps in his table?",
    "a": "He was saving seats for elements who were late."
-  },
-  {
-   "j": "Why don't red stars boast about how hot they are?",
-   "a": "The blue stars would laugh at them."
-  },
-  {
-   "j": "Why was the lentil proud?",
-   "a": "It was dal-ightful."
   },
   {
    "j": "What did the platypus say when asked to choose a box?",
    "a": "None of the above."
   },
   {
-   "j": "Why did everyone like Hema's bell?",
+   "j": "Why did everyone like the new school bell?",
    "a": "It had a lovely ring to it."
   }
  ],
@@ -4112,7 +4015,7 @@
    "title": "PhET States of Matter",
    "url": "https://phet.colorado.edu/en/simulations/states-of-matter",
    "kind": "simulation",
-   "why": "A free online game. Heat and cool atoms, and watch them move between solid, liquid and gas. Good for the card about the fuzzy edges of states."
+   "why": "A free online game. Heat and cool atoms, and watch them move between solid, liquid and gas."
   },
   {
    "title": "PhET Build an Atom",
@@ -4155,7 +4058,7 @@
    "url": "https://nehruplanetarium.org/",
    "kind": "place",
    "where": "New Delhi",
-   "why": "Sky shows about stars and the Moon. Good for the part of this unit about sorting stars by colour."
+   "why": "Sky shows about stars and the Moon, including how stars differ in colour."
   },
   {
    "title": "Nehru Science Centre",
@@ -4195,8 +4098,7 @@
    "url": "https://www.amazon.in/s?k=bar+magnet+kids",
    "used_in": [
     "a4"
-   ],
-   "plan": "Also useful in the units on magnets."
+   ]
   },
   {
    "id": "b-women",
@@ -4247,24 +4149,12 @@
    "a": "Each has a yes or no answer."
   },
   {
-   "q": "How many things can three good yes or no questions tell apart?",
-   "a": "Eight."
-  },
-  {
-   "q": "Which is hotter, a blue star or a red star?",
-   "a": "A blue star."
-  },
-  {
    "q": "Who sorted the elements and left gaps in 1869?",
    "a": "Dmitri Mendeleev."
   },
   {
    "q": "How does a farmer winnow grain?",
    "a": "The farmer tosses it in a flat basket, and the wind blows the light husk away."
-  },
-  {
-   "q": "Is a tomato a fruit or a vegetable?",
-   "a": "Both. A botanist says fruit and a cook says vegetable. The rule decides."
   }
  ],
  "plan": {
