@@ -58,9 +58,9 @@ const e1_1 = (c: Ctx) => {
 };
 // setup.e1.2
 const e1_2 = (c: Ctx) => {
-  leverScene(c, 540, 15, 0, 1.1, -120, 540, () => { coins(c, -6 * PX, -52, 2); coins(c, 12 * PX, -52, 1); bracket(c, -6 * PX, 0, -135, "6 cm"); bracket(c, 0, 12 * PX, -135, "12 cm"); }, () => {
-    hand(c, 12 * PX + 540 + 36, 470, Math.PI / 2, 1.3, SKIN.child, CLOTH.child, true);
-    arrow(c, [[920, 655], [985, 655]]);
+  leverScene(c, 540, 15, 0, 1.1, -120, 540, () => { coins(c, -6 * PX, -52, 2); coins(c, 12 * PX, -52, 1); bracket(c, -6 * PX, 0, -200, "6 cm"); bracket(c, 0, 12 * PX, -200, "12 cm"); }, () => {
+    hand(c, 711, 652, 0, 0.91, SKIN.child, CLOTH.child, true);
+    arrow(c, [[900, 612], [985, 612]]);
   });
 };
 // setup.e1.3

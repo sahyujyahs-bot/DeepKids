@@ -135,7 +135,9 @@ const e2_0 = (c: Ctx) => {
   c.fillStyle = "#e4d2ac"; c.fillRect(0, 880, D, 200); line(c, [[0, 880], [D, 880]], 6);
   sun(c, 930, 340, 80);
   railing(c, 700, 880);
-  shadow(c, 330, 890, 150, 24);
+  // the sun is in front: its light falls on the child's face and the shadow lies behind, away from the sun
+  poly(c, [[860, 290], [860, 400], [400, 380], [400, 280]], BEAM);
+  c.fillStyle = "rgba(43,35,64,0.30)"; c.beginPath(); polyP(c, [[250, 895], [340, 895], [150, 990], [80, 950]]); c.fill(); c.beginPath(); ell(c, 100, 975, 48, 40, -0.3); c.fill();
   person(c, 300, 880, 640, { armR: [-0.05, 0.0], armL: [Math.PI * 0.55, Math.PI * 0.5] });
   sprayBottle(c, 600, 400);
   hand(c, 520, 430, 0, 1.0);
@@ -163,17 +165,16 @@ const e2_2 = (c: Ctx) => {
   ground(c, "#fde9b8");
   c.fillStyle = "#e4d2ac"; c.fillRect(0, 720, D, 360); line(c, [[0, 720], [D, 720]], 6);
   sun(c, 90, 190, 60);
-  const hx = 800, hy = 900;
-  // rainbow and the circle round it, centred on the shadow's head
-  rainbowArc(c, hx, hy, 340, 26, 0.95);
-  c.setLineDash([22, 18]); c.beginPath(); c.arc(hx, hy, 372, 0, Math.PI * 2); c.strokeStyle = INK; c.lineWidth = 7; c.stroke(); c.setLineDash([]);
-  // shadows of the grown-up and the child, long, to the right
-  c.fillStyle = "rgba(43,35,64,0.30)";
-  c.beginPath(); polyP(c, [[360, 830], [440, 830], [hx - 10, hy + 18], [hx - 30, hy - 30]]); c.fill();
-  c.beginPath(); ell(c, hx, hy, 52, 46, 0.2); c.fill();
-  shape(c, () => ell(c, hx, hy, 11, 11), RED, 4);
-  person(c, 150, 790, 560, { sit: true, adult: true, armR: [0.5, 0.2] });
-  person(c, 340, 830, 420, { sit: true, armR: [0.55, 0.45] });
+  const hx = 770, hy = 770;
+  // the rainbow and the dashed circle round the head of the child's shadow
+  rainbowArc(c, hx, hy, 205, 19, 0.95);
+  c.setLineDash([22, 18]); c.beginPath(); c.arc(hx, hy, 232, 0, Math.PI * 2); c.strokeStyle = INK; c.lineWidth = 7; c.stroke(); c.setLineDash([]);
+  // the child's shadow: a long person shape lying away from the sun, its head at the circle's centre
+  c.fillStyle = "rgba(43,35,64,0.38)";
+  c.beginPath(); polyP(c, [[290, 850], [330, 800], [hx - 30, hy - 20], [hx - 30, hy + 28], [400, 880]]); c.fill();
+  c.beginPath(); ell(c, hx + 14, hy + 4, 50, 42, 0.1); c.fill();
+  shape(c, () => ell(c, hx + 14, hy + 4, 17, 17), RED, 5);
+  person(c, 220, 850, 520, { sit: true, armR: [0.15, 0.55] });
 };
 
 // ---------------------------------------------------------------- the colour disc
@@ -199,9 +200,9 @@ const pencil = (c: Ctx, x1: number, y1: number, x2: number, y2: number, w = 34) 
 // setup.e3.0
 const e3_0 = (c: Ctx) => {
   ground(c);
-  disc(c, 500, 470, 320, SP);
-  pencil(c, 916, 1049, 722, 783, 36);
-  hand(c, 880, 1000, -2.2, 1.7);
+  disc(c, 500, 470, 320, [SP[0], SP[1], SP[2], WHITE, WHITE, WHITE]);
+  pencil(c, 580, 919, 427, 725, 36);
+  hand(c, 564, 907, -2.21, 1.4);
 };
 
 // a spinning top: pencil with the disc on it, seen from the side; fill = how the blur looks

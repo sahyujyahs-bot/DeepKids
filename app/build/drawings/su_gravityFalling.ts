@@ -149,16 +149,21 @@ const thumbFront = (c: Ctx, wx: number, wy: number, rulerX: number, closed: bool
 // setup.e1.0
 const e1_0 = (c: Ctx) => {
   ground(c);
-  standBottle(c, 250, 800, 140, 380, 1);
-  standBottle(c, 830, 800, 140, 380, 0.14);
-  hnd(c, 124, 650, 1.8);
-  hnd(c, 956, 650, 1.8, { mirror: true });
-  // the guess on a sheet: two little bottles and a tick under the one guessed to land first
-  c.save(); c.translate(540, 730); c.rotate(-0.05);
+  // the full bottle drags its hand low, the nearly empty one floats high: heavier vs lighter
+  standBottle(c, 250, 860, 140, 380, 1);
+  standBottle(c, 830, 760, 140, 380, 0.14);
+  hnd(c, 124, 710, 1.8);
+  hnd(c, 956, 610, 1.8, { mirror: true });
+  arrow(c, [[250, 330], [250, 440]], RED, 12);
+  // the guess on a sheet: two little bottles, a pencil ticking the one guessed to land first
+  c.save(); c.translate(540, 760); c.rotate(-0.05);
   shape(c, () => rrect(c, -135, -150, 270, 300, 8), COL.paper, 6);
   c.restore();
-  standBottle(c, 480, 790, 56, 140, 1, 4); standBottle(c, 600, 790, 56, 140, 0.14, 4);
-  line(c, [[455, 640], [480, 666], [530, 610]], 11, RED);
+  standBottle(c, 480, 850, 56, 140, 1, 4); standBottle(c, 600, 850, 56, 140, 0.14, 4);
+  line(c, [[455, 680], [480, 706], [530, 650]], 11, RED);
+  line(c, [[535, 645], [680, 500]], 34, INK); line(c, [[535, 645], [680, 500]], 22, COL.yellow);
+  shape(c, () => polyP(c, [[535, 645], [514, 666], [548, 660]]), COL.wood, 4);
+  line(c, [[680, 500], [706, 474]], 34, INK); line(c, [[680, 500], [706, 474]], 22, COL.pink);
 };
 
 // setup.e1.1

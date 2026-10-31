@@ -105,15 +105,16 @@ const e1_2 = (c: Ctx) => {
 // setup.e2.0
 const e2_0 = (c: Ctx) => {
   ground(c, TABLE);
-  // the clip lies on the table; one sheet of paper over it, the clip showing faintly through
-  shape(c, () => polyP(c, [[200, 680], [880, 680], [980, 860], [100, 860]]), COL.paper, 6);
-  clip(c, 540, 770, 190, 1.2);
-  c.globalAlpha = 0.5; shape(c, () => polyP(c, [[200, 680], [880, 680], [980, 860], [100, 860]]), COL.paper, 0); c.globalAlpha = 1;
-  line(c, [[200, 680], [880, 680], [980, 860], [100, 860], [200, 680]], 6);
-  shadow(c, 540, 890, 450, 22);
-  magnet(c, 540, 250, 130, 340, Math.PI / 2);
-  hand(c, 540, 90, Math.PI / 2, 2.2);
-  arrow(c, [[830, 360], [830, 600]]);
+  tableTop(c, 800);
+  // side view: the clip lies on the table, ONE sheet of paper is laid over it (a bump), the magnet comes down from above
+  clip(c, 540, 752, 220, Math.PI / 2);
+  const pts: number[][] = [];
+  for (let x = 40; x <= 1040; x += 20) pts.push([x, 792 - 108 * Math.exp(-(((x - 540) / 120) ** 2))]);
+  line(c, pts, 24, INK); line(c, pts, 12, COL.paper);
+  shadow(c, 540, 830, 420, 20);
+  magnet(c, 540, 480, 130, 340, Math.PI / 2);
+  hand(c, 540, 326, Math.PI / 2, 2.2);
+  arrow(c, [[860, 400], [860, 600]]);
 };
 // setup.e2.1
 const e2_1 = (c: Ctx) => {
@@ -164,15 +165,16 @@ const e3_1 = (c: Ctx) => {
 const e3_2 = (c: Ctx) => {
   ground(c);
   tableTop(c, 860);
-  magnet(c, 345, 270, 110, 300, 0);
-  hand(c, 190, 270, 0, 2.2);
+  // the magnet is pulled away to the left; the nail hangs free and its clips fall in a heap
+  magnet(c, 245, 270, 110, 300, 0);
+  hand(c, 90, 270, 0, 2.2);
+  arrow(c, [[610, 150], [440, 150]]);
   nail(c, 746, 90, 340, Math.PI / 2);
   hand(c, 900, 270, Math.PI, 2.2);
-  arrow(c, [[440, 150], [630, 150]]);
-  shadow(c, 560, 960, 200, 24);
-  clip(c, 450, 600, 170, 0.5); clip(c, 640, 730, 170, -0.8);
-  line(c, [[390, 500], [390, 540]], 5, COL.steelDk); line(c, [[700, 620], [700, 660]], 5, COL.steelDk);
-  clip(c, 480, 950, 170, 1.4); clip(c, 660, 970, 170, 0.3); clip(c, 570, 920, 170, -0.6);
+  shadow(c, 760, 960, 200, 24);
+  line(c, [[700, 470], [700, 510]], 5, COL.steelDk); line(c, [[800, 560], [800, 600]], 5, COL.steelDk);
+  clip(c, 746, 520, 170, 0.3); clip(c, 790, 700, 170, -0.8);
+  clip(c, 700, 950, 170, 1.4); clip(c, 840, 970, 170, 0.3); clip(c, 770, 920, 170, -0.6);
 };
 
 export const su_materialsMagneticMaterials = cards("sci.materials.magnetic-materials.L3 set-up", [e1_0, e1_1, e1_2, e2_0, e2_1, e2_2, e3_0, e3_1, e3_2]);

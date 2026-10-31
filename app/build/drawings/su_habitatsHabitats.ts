@@ -155,7 +155,7 @@ const su_e4_1 = (c: Ctx) => {
 };
 
 // a cut-open bowl tilted by ang; its contents are runny (level), thick (half way) or set (tilt with the bowl)
-const tiltBowl = (c: Ctx, x: number, y: number, r: number, ang: number, kind: "set" | "thick" | "runny", tag: string) => {
+const tiltBowl = (c: Ctx, x: number, y: number, r: number, ang: number, kind: "set" | "thick" | "runny") => {
   c.save(); c.translate(x, y); c.rotate(ang);
   const d = r * 0.9, p = () => { c.moveTo(-r, 0); c.bezierCurveTo(-r * 0.95, d * 1.3, r * 0.95, d * 1.3, r, 0); c.closePath(); };
   shape(c, p, COL.steel); shade(c, p, COL.steelDk, -r * 0.2, -r * 0.1);
@@ -171,12 +171,11 @@ const tiltBowl = (c: Ctx, x: number, y: number, r: number, ang: number, kind: "s
   c.restore();
   c.save(); c.translate(x, y); c.rotate(ang);
   shape(c, p, "rgba(0,0,0,0)", 7);
-  shape(c, () => ell(c, -r * 0.5, d * 0.62, 20, 20), tag, 5);
   c.restore();
   if (kind === "runny") {
     const rx = x + qx, ry = y + qy;
-    shape(c, () => { c.moveTo(rx - 14, ry - 4); c.quadraticCurveTo(rx + 36, ry - 8, rx + 42, ry + 50); c.lineTo(rx + 42, 700); c.lineTo(rx + 18, 700); c.lineTo(rx + 20, ry + 50); c.quadraticCurveTo(rx + 12, ry + 14, rx - 14, ry + 14); c.closePath(); }, MILK, 5);
-    shape(c, () => ell(c, rx + 32, 706, 62, 14), MILK, 5);
+    shape(c, () => { c.moveTo(rx - 14, ry - 4); c.quadraticCurveTo(rx + 36, ry - 8, rx + 42, ry + 50); c.lineTo(rx + 42, 840); c.lineTo(rx + 18, 840); c.lineTo(rx + 20, ry + 50); c.quadraticCurveTo(rx + 12, ry + 14, rx - 14, ry + 14); c.closePath(); }, MILK, 5);
+    shape(c, () => ell(c, rx + 32, 846, 62, 14), MILK, 5);
   }
 };
 
@@ -184,31 +183,51 @@ const tiltBowl = (c: Ctx, x: number, y: number, r: number, ang: number, kind: "s
 // setup.e4.2
 const su_e4_2 = (c: Ctx) => {
   ground(c);
-  const a = 0.5, r = 135, y = 440;
-  ([[165, "set", TAG.warm], [505, "thick", TAG.room], [835, "runny", TAG.cold]] as [number, "set" | "thick" | "runny", string][]).forEach(([x, k, tag]) => {
-    tiltBowl(c, x, y, r, a, k, tag);
-    arrow(c, [[x - 70, 285], [x + 10, 245], [x + 100, 280]]);
-    childHand(c, x - 92, 705, -1.3, 1.7);
+  const a = 0.5, r = 135, y = 500;
+  ([[215, "set", "waves"], [525, "thick", "dot"], [835, "runny", "snow"]] as [number, "set" | "thick" | "runny", "waves" | "dot" | "snow"][]).forEach(([x, k, ic]) => {
+    tiltBowl(c, x, y, r, a, k);
+    tentCard(c, x + 10, 240, ic === "waves" ? TAG.warm : ic === "dot" ? TAG.room : TAG.cold, ic);
+    arrow(c, [[x - 70, 335], [x + 10, 295], [x + 100, 330]]);
+    childHand(c, x - 112, 705, -0.8, 1.8);
   });
+};
+
+// the blue "fridge" paper label stuck on the bowl
+const sticker = (c: Ctx, x: number, y: number) => {
+  shape(c, () => rrect(c, x - 34, y - 24, 68, 48, 8), WHITE, 4);
+  for (let k = 0; k < 3; k++) { const a = (k * Math.PI) / 3; line(c, [[x - Math.cos(a) * 17, y - Math.sin(a) * 17], [x + Math.cos(a) * 17, y + Math.sin(a) * 17]], 5, COL.blue); }
 };
 
 // e4 step 3: put the fridge bowl in the warm casserole; evening, set curd on a tilted spoon
 // setup.e4.3
 const su_e4_3 = (c: Ctx) => {
   const y0 = 700;
-  c.fillStyle = "#f8dfb0"; c.fillRect(0, 0, 540, 1080); c.fillStyle = "#f9d3b4"; c.fillRect(540, 0, 540, 1080);
-  c.fillStyle = "#e6c07a"; c.fillRect(0, y0, 540, 380); c.fillStyle = "#e9b98f"; c.fillRect(540, y0, 540, 380);
+  c.fillStyle = "#f8dfb0"; c.fillRect(0, 0, 540, 1080); c.fillStyle = "#5d6aa6"; c.fillRect(540, 0, 540, 1080);
+  c.fillStyle = "#e6c07a"; c.fillRect(0, y0, 540, 380); c.fillStyle = "#3f4a85"; c.fillRect(540, y0, 540, 380);
   line(c, [[0, y0], [1080, y0]], 6); line(c, [[540, 0], [540, 1080]], 10);
-  for (const dx of [-60, 0, 60]) line(c, [[270 + dx, 330], [262 + dx, 300], [278 + dx, 270], [262 + dx, 240], [270 + dx, 210]], 12, COL.red);
-  casserole(c, 270, 560, 1.15);
-  tentCard(c, 270, 900, TAG.cold, "snow");
-  sun(c, 640, 160, 46, COL.orange);
-  bowl(c, 790, 650, 175, CURD);
-  shape(c, () => ell(c, 740, 652, 70, 11), "#e9e3cf", 0);
-  shape(c, () => ell(c, 700, 700, 22, 22), TAG.cold, 5);
-  spoon(c, 940, 262, 690, 480, "lump");
-  childHand(c, 935, 262, 2.4, 1.4);
-  arrow(c, [[400, 940], [700, 940]]);
+  // left: the bowl goes down into the warm casserole, towel round it
+  for (const dx of [-60, 0, 60]) line(c, [[330 + dx, 200], [322 + dx, 175], [338 + dx, 150], [322 + dx, 125], [330 + dx, 100]], 12, COL.red);
+  shadow(c, 300, 960, 230, 24);
+  for (const sx of [-1, 1]) shape(c, () => rrect(c, 300 + sx * 200 - 30, 730, 60, 36, 12), COL.teal);
+  const pb = () => rrect(c, 120, 640, 360, 300, 40);
+  shape(c, pb, COL.teal); shade(c, pb, COL.tealDk, -16, -16);
+  shape(c, () => ell(c, 300, 640, 190, 46), TOWEL, 6);
+  c.save(); c.beginPath(); ell(c, 300, 640, 190, 46); c.clip(); for (let k = -6; k <= 6; k++) line(c, [[300 + k * 32, 590], [300 + k * 32, 690]], 6, COL.red); c.restore();
+  shape(c, () => ell(c, 300, 640, 190, 46), "rgba(0,0,0,0)", 6);
+  shape(c, () => ell(c, 300, 644, 118, 26), TOWEL, 5);
+  bowl(c, 300, 420, 125, MILK);
+  sticker(c, 300, 472);
+  arrow(c, [[300, 560], [300, 610]], RED, 10);
+  childHand(c, 70, 330, 0.3, 1.6);
+  // right: evening, the curd stays on the tilted spoon
+  shape(c, () => ell(c, 900, 150, 62, 62), COL.yellow, 6);
+  shape(c, () => ell(c, 925, 135, 56, 56), "#5d6aa6", 0);
+  for (const [sx, sy] of [[700, 110], [780, 220], [1010, 260], [640, 260]]) { line(c, [[sx - 14, sy], [sx + 14, sy]], 7, COL.yellow); line(c, [[sx, sy - 14], [sx, sy + 14]], 7, COL.yellow); }
+  bowl(c, 780, 800, 190, CURD);
+  shape(c, () => ell(c, 780, 794, 120, 24), "#e9e3cf", 0);
+  sticker(c, 780, 868);
+  spoon(c, 960, 380, 760, 600, "lump");
+  childHand(c, 955, 375, 2.4, 1.5);
 };
 
 // ---- garden cards
@@ -324,12 +343,15 @@ const su_e3_0 = (c: Ctx) => {
   sun(c, 940, 110, 46);
   pot(c, 540);
   branch(c, 540, 300);
-  const p = () => { c.moveTo(350, 560); c.bezierCurveTo(330, 300, 420, 130, 540, 130); c.bezierCurveTo(660, 130, 750, 300, 730, 560); c.quadraticCurveTo(540, 610, 350, 560); c.closePath(); };
-  shape(c, p, COL.glass, 5);
-  shape(c, () => ell(c, 540, 562, 190, 34), "rgba(214,236,250,0.5)", 5);
-  shine(c, [[400, 250], [380, 420]], 11);
-  arrow(c, [[860, 250], [860, 450]]);
-  childHand(c, 299, 210, 0.2, 1.4);
+  // an open clear bag, held by its mouth and pulled down over the leafy stem
+  const wave = (y: number) => { for (let k = 0; k < 6; k++) { const xa = 700 - k * 55, xb = xa - 55; c.quadraticCurveTo(xa - 27, y + (k % 2 ? -22 : 22), xb, y); } };
+  const body = () => { c.moveTo(410, 150); c.lineTo(670, 150); c.quadraticCurveTo(735, 380, 700, 600); wave(600); c.quadraticCurveTo(345, 380, 410, 150); c.closePath(); };
+  shape(c, body, "rgba(214,236,250,0.5)", 5);
+  line(c, [[420, 178], [660, 178]], 4);
+  for (const [x1, y1, x2, y2] of [[440, 230, 500, 330], [620, 250, 580, 380], [450, 480, 520, 560], [640, 470, 600, 540]]) line(c, [[x1, y1], [x2, y2]], 5, "rgba(255,255,255,0.85)");
+  shine(c, [[400, 300], [395, 470]], 11);
+  arrow(c, [[830, 300], [830, 560]]);
+  childHand(c, 250, 560, 0.35, 1.6);
 };
 
 // e3 step 1: tie the bag at the stem; a second bag over a bare stick

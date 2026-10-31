@@ -67,27 +67,35 @@ const ring = (c: Ctx, x: number, y: number) => shape(c, () => ell(c, x, y, 54, 1
 // ---------------------------------------------------------------- foods, seen from above
 const peanut = (c: Ctx, x: number, y: number, k: number, rot: number) => {
   c.save(); c.translate(x, y); c.rotate(rot);
-  blob(c, () => { ell(c, -k * 0.38, 0, k * 0.62, k * 0.46); c.moveTo(k * 0.95, 0); ell(c, k * 0.4, 0, k * 0.55, k * 0.42); }, "#e2b97c", 5);
-  for (const [dx, dy] of [[-0.6, -0.1], [-0.3, 0.15], [0.4, -0.15], [0.7, 0.1], [0.1, -0.05]]) shape(c, () => ell(c, dx * k, dy * k, k * 0.06, k * 0.06), "#b98550", 0);
-  c.restore();
+  const b = () => { ell(c, -k * 0.42, 0, k * 0.62, k * 0.5); c.moveTo(k * 0.98, 0); ell(c, k * 0.4, 0, k * 0.6, k * 0.46); };
+  blob(c, b, "#d9a566", 5);
+  c.save(); c.beginPath(); b(); c.clip();
+  for (let i = -5; i <= 5; i++) { line(c, [[i * k * 0.22 - k * 0.5, -k], [i * k * 0.22 + k * 0.5, k]], 3, "#a8743a"); line(c, [[i * k * 0.22 + k * 0.5, -k], [i * k * 0.22 - k * 0.5, k]], 3, "#a8743a"); }
+  c.restore(); c.restore();
 };
 const coconut = (c: Ctx, x: number, y: number, k: number) => {
   shape(c, () => ell(c, x, y, k, k * 0.82), "#7a4a2a"); shape(c, () => ell(c, x, y - 2, k * 0.78, k * 0.62), WHITE, 4); shape(c, () => ell(c, x, y - 2, k * 0.36, k * 0.27), "#dcd6c6", 3);
 };
 const paneer = (c: Ctx, x: number, y: number, k: number) => {
-  shape(c, () => polyP(c, [[x - k * 0.8, y - k * 0.25], [x, y + k * 0.1], [x, y + k * 0.9], [x - k * 0.8, y + k * 0.55]]), "#efe3c0");
-  shape(c, () => polyP(c, [[x + k * 0.8, y - k * 0.25], [x, y + k * 0.1], [x, y + k * 0.9], [x + k * 0.8, y + k * 0.55]]), "#d9c9a0");
-  shape(c, () => polyP(c, [[x, y - k * 0.6], [x + k * 0.8, y - k * 0.25], [x, y + k * 0.1], [x - k * 0.8, y - k * 0.25]]), "#fffaf0");
+  shape(c, () => polyP(c, [[x - k * 1.0, y - k * 0.1], [x, y + k * 0.2], [x, y + k * 0.85], [x - k * 1.0, y + k * 0.5]]), "#f3e6bf");
+  shape(c, () => polyP(c, [[x + k * 1.0, y - k * 0.1], [x, y + k * 0.2], [x, y + k * 0.85], [x + k * 1.0, y + k * 0.5]]), "#d9c9a0");
+  shape(c, () => polyP(c, [[x, y - k * 0.5], [x + k * 1.0, y - k * 0.1], [x, y + k * 0.2], [x - k * 1.0, y - k * 0.1]]), "#fffaf0");
+  for (const [dx, dy, r] of [[0, -0.15, 0.07], [-0.4, -0.12, 0.05], [0.4, -0.12, 0.05], [-0.55, 0.3, 0.06], [-0.25, 0.5, 0.05], [0.3, 0.45, 0.06], [0.65, 0.25, 0.05], [-0.15, 0.05, 0.04]]) shape(c, () => ell(c, x + dx * k, y + dy * k, k * r, k * r * 0.7), "#cdbb8e", 0);
 };
 const chip = (c: Ctx, x: number, y: number, k: number) => {
-  const b = () => { for (let i = 0; i <= 56; i++) { const a = (i / 56) * Math.PI * 2, r = k * (1 + 0.07 * Math.sin(a * 7)); (i ? c.lineTo : c.moveTo).call(c, x + Math.cos(a) * r, y + Math.sin(a) * r * 0.85); } c.closePath(); };
-  shape(c, b, COL.yellow); shade(c, b, COL.orange, -k * 0.25, -k * 0.2, 0.5);
-  const r = rnd(5); for (let i = 0; i < 6; i++) shape(c, () => ell(c, x + (r() - 0.5) * k * 1.1, y + (r() - 0.5) * k * 0.8, k * 0.08, k * 0.06), COL.orange, 0);
+  const one = (cx: number, cy: number, kk: number) => {
+    const b = () => { for (let i = 0; i <= 56; i++) { const a = (i / 56) * Math.PI * 2, r = kk * (1 + 0.06 * Math.sin(a * 6)); (i ? c.lineTo : c.moveTo).call(c, cx + Math.cos(a) * r, cy + Math.sin(a) * r * 0.85); } c.closePath(); };
+    shape(c, b, "#f2c14a"); shade(c, b, COL.orange, -kk * 0.25, -kk * 0.2, 0.45);
+    c.save(); c.beginPath(); b(); c.clip();
+    for (let j = -3; j <= 3; j++) { c.beginPath(); c.moveTo(cx - kk * 1.1, cy + j * kk * 0.28); c.bezierCurveTo(cx - kk * 0.4, cy + j * kk * 0.28 - kk * 0.25, cx + kk * 0.4, cy + j * kk * 0.28 + kk * 0.25, cx + kk * 1.1, cy + j * kk * 0.28); c.strokeStyle = "#b9742a"; c.lineWidth = 4; c.stroke(); }
+    c.restore();
+  };
+  one(x + k * 0.25, y - k * 0.12, k * 0.92); one(x - k * 0.15, y + k * 0.18, k * 0.92);
 };
 const chapati = (c: Ctx, x: number, y: number, k: number) => {
-  const b = () => ell(c, x, y, k * 1.05, k * 0.9);
-  shape(c, b, "#ecc690"); shade(c, b, "#c99660", -k * 0.2, -k * 0.2, 0.5);
-  const r = rnd(9); for (let i = 0; i < 7; i++) shape(c, () => ell(c, x + (r() - 0.5) * k * 1.3, y + (r() - 0.5) * k * 1.1, k * 0.14, k * 0.1, r() * 3), "#b9803c", 0);
+  const disc = (cy: number, fill: string) => { shape(c, () => { c.moveTo(x - k * 1.2, cy); c.lineTo(x - k * 1.2, cy + 16); c.bezierCurveTo(x - k * 1.2, cy + 16 + k * 0.7, x + k * 1.2, cy + 16 + k * 0.7, x + k * 1.2, cy + 16); c.lineTo(x + k * 1.2, cy); c.closePath(); }, "#d3a266"); shape(c, () => ell(c, x, cy, k * 1.2, k * 0.62), fill); };
+  disc(y + 26, "#ecc690"); disc(y - 4, "#f3d4a0");
+  for (const [dx, dy, r, rot] of [[-0.6, 0.08, 0.22, 0.2], [0.05, -0.15, 0.26, -0.3], [0.62, 0.1, 0.2, 0.4], [-0.2, 0.25, 0.14, 0]]) shape(c, () => ell(c, x + dx * k, y - 4 + dy * k, k * r, k * r * 0.5, rot), "#9a5a22", 0);
 };
 const appleSlice = (c: Ctx, x: number, y: number, k: number) => {
   const half = (r: number) => () => { c.moveTo(x + r, y); c.arc(x, y, r, 0, Math.PI); c.closePath(); };
@@ -96,10 +104,18 @@ const appleSlice = (c: Ctx, x: number, y: number, k: number) => {
 // a fruit for each juice
 const fruit = (c: Ctx, kind: string, x: number, y: number, k: number) => {
   shadow(c, x + k * 0.1, y + k * 0.85, k * 0.9, k * 0.16);
-  if (kind === "amla") { const b = () => ell(c, x, y, k * 0.85, k * 0.85); shape(c, b, "#b9d46a"); shade(c, b, "#7a9a3a", -k * 0.3, -k * 0.2, 0.5); for (const d of [-0.4, 0, 0.4]) line(c, [[x + d * k * 0.9, y - k * 0.6], [x + d * k * 1.1, y], [x + d * k * 0.9, y + k * 0.6]], 3.5, "#6b8a30"); }
-  if (kind === "guava") { const b = () => ell(c, x, y, k, k * 0.9); shape(c, b, "#a8d35a"); shade(c, b, "#6aa53f", -k * 0.3, -k * 0.2, 0.5); shape(c, () => polyP(c, [[x - 14, y - k * 0.82], [x, y - k * 1.0], [x + 14, y - k * 0.82], [x, y - k * 0.72]]), COL.greenDk, 4); }
+  if (kind === "amla") for (const [dx, dy] of [[-0.75, 0.1], [0.75, 0.1], [0, -0.5]]) { const b = () => ell(c, x + dx * k, y + dy * k, k * 0.62, k * 0.62); shape(c, b, "#c7dc78"); shade(c, b, "#7a9a3a", -k * 0.2, -k * 0.15, 0.5); for (const d of [-0.3, 0, 0.3]) line(c, [[x + (dx + d) * k, y + (dy - 0.5) * k], [x + (dx + d * 1.4) * k, y + dy * k], [x + (dx + d) * k, y + (dy + 0.5) * k]], 3, "#6b8a30"); }
+  if (kind === "guava") {
+    const b = () => ell(c, x - k * 0.8, y + k * 0.1, k * 0.8, k * 0.75); shape(c, b, "#a8d35a"); shade(c, b, "#6aa53f", -k * 0.2, -k * 0.2, 0.5);
+    shape(c, () => ell(c, x + k * 0.85, y + k * 0.1, k * 0.8, k * 0.75), "#a8d35a"); shape(c, () => ell(c, x + k * 0.85, y + k * 0.1, k * 0.62, k * 0.57), "#f4a0a0", 4);
+    for (const [dx, dy] of [[-0.25, -0.15], [0.2, -0.2], [0, 0.1], [-0.3, 0.25], [0.3, 0.2]]) shape(c, () => ell(c, x + (0.85 + dx) * k, y + (0.1 + dy) * k, k * 0.07, k * 0.07), "#f7e9b8", 0);
+  }
   if (kind === "lemon") { const b = () => ell(c, x, y, k * 1.05, k * 0.75, -0.25); shape(c, b, COL.yellow); shade(c, b, COL.orange, -k * 0.2, -k * 0.2, 0.45); shape(c, () => ell(c, x - k * 1.0, y + k * 0.22, k * 0.12, k * 0.1), COL.yellow, 4); shape(c, () => ell(c, x + k * 1.0, y - k * 0.22, k * 0.12, k * 0.1), COL.yellow, 4); }
-  if (kind === "mosambi") { const b = () => ell(c, x, y, k * 1.0, k * 0.95); shape(c, b, "#d3df68"); shade(c, b, "#9db23c", -k * 0.3, -k * 0.2, 0.5); leaf(c, x, y - k * 0.9, k * 0.5, -0.9); shape(c, () => ell(c, x, y - k * 0.85, k * 0.14, k * 0.07), "#9db23c", 3); }
+  if (kind === "mosambi") {
+    const b = () => ell(c, x - k * 0.8, y + k * 0.1, k * 0.8, k * 0.78); shape(c, b, "#d9e070"); shade(c, b, "#a3b53c", -k * 0.2, -k * 0.2, 0.5); shape(c, () => ell(c, x - k * 0.8, y - k * 0.68, k * 0.12, k * 0.06), "#a3b53c", 3);
+    shape(c, () => ell(c, x + k * 0.85, y + k * 0.1, k * 0.8, k * 0.78), "#d9e070"); shape(c, () => ell(c, x + k * 0.85, y + k * 0.1, k * 0.66, k * 0.64), "#ffd34d", 4);
+    for (let a = 0; a < 6; a++) line(c, [[x + k * 0.85, y + k * 0.1], [x + k * 0.85 + Math.cos(a * 1.047) * k * 0.64, y + k * 0.1 + Math.sin(a * 1.047) * k * 0.62]], 3, "#fff3c0");
+  }
   if (kind === "pack") {
     shape(c, () => polyP(c, [[x + k * 0.5, y - k * 0.8], [x + k * 0.85, y - k * 0.6], [x + k * 0.85, y + k * 0.85], [x + k * 0.5, y + k * 0.95]]), "#c9712a");
     shape(c, () => polyP(c, [[x - k * 0.5, y - k * 0.8], [x + k * 0.5, y - k * 0.8], [x + k * 0.85, y - k * 0.6], [x - k * 0.15, y - k * 0.6]]), "#f9c78a");
@@ -134,13 +150,15 @@ const e1_0 = (c: Ctx) => {
 // setup.e1.1
 const e1_1 = (c: Ctx) => {
   ground(c);
-  const pp = () => polyP(c, [[170, 500], [700, 470], [730, 930], [200, 960]]);
+  const pp = () => polyP(c, [[110, 380], [700, 360], [730, 930], [140, 960]]);
   c.save(); c.translate(12, 14); c.beginPath(); pp(); c.fillStyle = "rgba(43,35,64,0.16)"; c.fill(); c.restore();
   shape(c, pp, PAPER); shade(c, pp, PAPERDK, -26, -26, 0.6);
-  line(c, [[300, 745], [520, 735]], 74, "rgba(110,70,35,0.45)");
-  arrow(c, [[520, 880], [310, 884]]); arrow(c, [[310, 925], [520, 921]]);
-  peanut(c, 540, 700, 80, 0.25);
-  handR(c, 751, 585, 0.5, 2.4);
+  // the greasy smear the rubbing leaves behind
+  line(c, [[260, 650], [560, 640]], 96, "rgba(110,70,35,0.4)"); line(c, [[280, 650], [540, 640]], 44, "rgba(90,55,25,0.35)");
+  arrow(c, [[560, 800], [250, 806]], RED, 14); arrow(c, [[250, 860], [560, 854]], RED, 14);
+  // the hand holds one peanut and presses it on the paper
+  handR(c, 860, 450, 0.45, 2.6);
+  peanut(c, 600, 650, 105, 0.12);
 };
 
 // setup.e1.2
@@ -160,7 +178,6 @@ const e1_2 = (c: Ctx) => {
   // the oily spot lets the light through: a bright glowing round patch
   shape(c, () => ell(c, 500, 350, 150, 145), "rgba(255,246,190,0.5)", 0);
   shape(c, () => ell(c, 500, 350, 112, 106), "#fffbe0", 5);
-  shape(c, () => ell(c, 640, 520, 46, 44), "#fff1b0", 4);
   hand(c, 540, 770, -Math.PI / 2, 2.3);
 };
 
@@ -229,6 +246,8 @@ const e3_1 = (c: Ctx) => {
   ground(c);
   const yb = 1010, H = 380, NH = 100, W = 230, top = bottleTop(yb, H, NH);
   bottle(c, 445, yb, H, NH, 0.2, COL.water, W); bottle(c, 810, yb, H, NH, 0, TAN, W);
+  // a little yeast lies at the bottom of both bottles
+  for (const x of [445, 810]) shape(c, () => ell(c, x, yb - 14, 70, 16), YEAST, 0);
   c.save(); c.translate(25, 0);
   // warm water falling from a steel tumbler tilted by the adult
   const sx = (t: number) => 372 + 48 * t * t, sy = (t: number) => 418 + t * (top + 20 - 418);
@@ -239,17 +258,17 @@ const e3_1 = (c: Ctx) => {
   shape(c, tb, COL.steel, 6); shade(c, tb, COL.steelDk, -20, 0, 0.6);
   shape(c, () => ell(c, 0, 0, 85, 28), COL.steelIn, 6); shape(c, () => ell(c, 0, 2, 68, 18), COL.water, 0);
   c.restore();
-  for (const x of [480, 530, 580]) line(c, [[x, 480], [x + 16, 440], [x - 12, 400], [x + 8, 360]], 10, "rgba(120,114,105,0.6)");
+  // steam curling up from the warm water
+  for (const x of [500, 545, 590]) { c.beginPath(); c.moveTo(x, 440); c.bezierCurveTo(x - 36, 405, x + 36, 370, x, 335); c.bezierCurveTo(x - 30, 300, x + 30, 275, x, 240); c.strokeStyle = "#a79f93"; c.lineWidth = 12; c.lineCap = "round"; c.stroke(); }
   adultHand(c, 146, 274, 0.23, 1.8);
   c.restore();
-  // the child's hand stretching a balloon mouth over the other bottle
-  c.save(); c.translate(10, top - 580);
-  const bl = () => { c.moveTo(765, 560); c.quadraticCurveTo(690, 545, 650, 600); c.quadraticCurveTo(590, 690, 640, 770); c.quadraticCurveTo(700, 810, 730, 730); c.quadraticCurveTo(760, 650, 805, 570); c.closePath(); };
+  // the child's hand pulls the mouth of a balloon down over the neck of the other bottle
+  const ny = top + 10;
+  const bl = () => { c.moveTo(838, ny - 8); c.quadraticCurveTo(700, ny - 40, 680, ny + 90); c.quadraticCurveTo(690, ny + 200, 760, ny + 160); c.quadraticCurveTo(820, ny + 110, 838, ny + 20); c.closePath(); };
   shape(c, bl, PINK, 5); shade(c, bl, PINKDK, -30, -10, 0.5);
-  ring(c, 800, 562);
-  line(c, [[845, 566], [905, 540]], 22, INK); line(c, [[845, 566], [905, 540]], 12, PINK);
-  handR(c, 925, 500, 0.5, 1.6);
-  c.restore();
+  ring(c, 810, ny - 4);
+  handR(c, 925, 400, 0.9, 1.9);
+  arrow(c, [[690, 370], [740, 480]], RED, 12);
 };
 
 // setup.e3.2

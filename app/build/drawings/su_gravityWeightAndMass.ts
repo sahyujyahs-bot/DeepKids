@@ -155,7 +155,7 @@ const e2_0 = (c: Ctx) => {
 // setup.e2.1
 const e2_1 = (c: Ctx) => {
   ground(c);
-  const h = holdFm(c, 850, 2);
+  const h = holdFm(c, 885, 2);
   tub(c, () => h.string());
   h.hold();
 };
@@ -197,7 +197,6 @@ const liftRoom = (c: Ctx) => {
   line(c, [[530, 160], [530, 960]], 6);
   shape(c, () => rrect(c, 330, 40, 400, 90, 10), "#22303a", 5);
   write(c, "4", 500, 54, 62, "#c9f06b", 8);
-  shape(c, () => polyP(c, [[600, 112], [640, 112], [620, 70]]), RED, 4);
   shape(c, () => rrect(c, 940, 300, 110, 300, 12), COL.steelDk, 5);
   for (let i = 0; i < 4; i++) shape(c, () => ell(c, 995, 350 + i * 65, 22, 22), i === 1 ? COL.yellow : COL.steel, 5);
   thick(c, [[130, 640], [930, 640]], 14, COL.steel);
@@ -207,28 +206,33 @@ const wristOf = (x: number, y: number, h: number, a: [number, number]) => {
   return [ex + Math.cos(a[1]) * h * 0.16, ey + Math.sin(a[1]) * h * 0.16];
 };
 const LF: FM = { s: 0.62, max: 12, step: 22, lab: 2 };
+// a close-up of a hand holding the forcemeter with the bottle: pointer at val
+const liftHold = (c: Ctx, x: number, top: number, val: number, s: number, o: FM = {}) => {
+  const FS: FM = { s, max: 12, step: 24, lab: 2, ...o };
+  const k = fm(c, x, top, val, FS);
+  hand(c, x, top - 100 * s, Math.PI / 2, s, SKIN.child, CLOTH.child);
+  hangBottle(c, k.hx, k.hy, 100 * s, 150 * s);
+};
+// a lift floor display: a number, and up arrows when the lift is going up
+const floorSign = (c: Ctx, x: number, y: number, w: number, n: string, ups: number) => {
+  shape(c, () => rrect(c, x, y, w, w * 0.6, 14), "#22303a", 6);
+  write(c, n, x + w * 0.22, y + w * 0.1, w * 0.4, "#c9f06b", 10);
+  for (let i = 0; i < ups; i++) shape(c, () => polyP(c, [[x + w * 0.66, y + w * 0.5 - i * w * 0.24], [x + w * 0.9, y + w * 0.5 - i * w * 0.24], [x + w * 0.78, y + w * 0.3 - i * w * 0.24]]), RED, 4);
+};
 // setup.e3.0
 const e3_0 = (c: Ctx) => {
   liftRoom(c);
-  person(c, 790, 1000, 830, { adult: true });
-  const arm: [number, number] = [Math.PI * 0.45, -Math.PI * 0.35], H = 700;
-  const [wx, wy] = wristOf(300, 1000, H, arm);
-  const k = fm(c, wx, wy + 14, 6, LF);
-  hangBottle(c, k.hx, k.hy, 80, 125);
-  person(c, 300, 1000, H, { armR: arm });
+  liftHold(c, 330, 255, 6, 0.95);
 };
-// setup.e3.1
+// setup.e3.1: at rest on the left, the lift speeding up on the right: the pointer is lower
 const e3_1 = (c: Ctx) => {
   ground(c, "#cfd6de");
-  const s = 1.1, FS: FM = { s, max: 12, step: 28, lab: 2, ghost: 6 };
-  const k = fm(c, 360, 201, 11, FS);
-  hand(c, 360, 100, Math.PI / 2, s, SKIN.adult, CLOTH.adult);
-  hangBottle(c, k.hx, k.hy, 90, 140);
-  shape(c, () => rrect(c, 660, 180, 340, 340, 24), "#22303a", 6);
-  write(c, "5", 770, 230, 180, "#c9f06b", 18);
-  shape(c, () => polyP(c, [[925, 400], [985, 400], [955, 330]]), RED, 5);
-  shape(c, () => polyP(c, [[925, 290], [985, 290], [955, 220]]), RED, 5);
-  arrow(c, [[570, 417], [570, 560]], RED, 10);
+  liftHold(c, 270, 190, 6, 0.9);
+  liftHold(c, 770, 190, 11, 0.9);
+  floorSign(c, 170, 860, 200, "4", 0);
+  floorSign(c, 670, 860, 200, "5", 2);
+  line(c, [[540, 150], [540, 1000]], 5, COL.grey);
+  arrow(c, [[920, 600], [920, 740]], RED, 12);
 };
 // setup.e3.2
 const e3_2 = (c: Ctx) => {
@@ -293,15 +297,16 @@ const pillow = (c: Ctx, x: number, y: number, w: number, h: number) => {
   shape(c, () => ell(c, x, y, 12, 9), "#d97597", 4);
   line(c, [[x - w * 0.32, y - 6], [x - 18, y]], 4, "#d97597"); line(c, [[x + w * 0.32, y - 6], [x + 18, y]], 4, "#d97597");
 };
-// the rubber band holding a stack of taped coins, hanging inside a bottle from its cap at (x, topY)
+// the rubber band holding a stack of taped coins, hanging inside a bottle from its cap at (x, topY).
+// len = how far the coins hang below the cap: long = the band is stretched thin, short = it is slack
 const bandCoins = (c: Ctx, x: number, topY: number, len: number) => {
-  const rx = len > 150 ? 9 : 34;
-  c.beginPath(); ell(c, x, topY + len / 2, rx, len / 2); c.strokeStyle = INK; c.lineWidth = 22; c.stroke();
-  c.beginPath(); ell(c, x, topY + len / 2, rx, len / 2); c.strokeStyle = COL.orange; c.lineWidth = 11; c.stroke();
-  const y0 = topY + len - 4;
-  for (let i = 0; i < 3; i++) { const y = y0 + i * 26; shape(c, () => rrect(c, x - 44, y, 88, 28, 12), COL.steel, 5); line(c, [[x - 24, y + 13], [x + 24, y + 13]], 3, COL.steelDk); }
-  shape(c, () => rrect(c, x - 48, y0 + 22, 96, 32, 6), "#fff6b0", 5);
-  shape(c, () => ell(c, x, y0, 44, 10), COL.steelIn, 5);
+  const rx = len > 150 ? 24 : 52;
+  c.beginPath(); ell(c, x, topY + len / 2, rx, len / 2); c.strokeStyle = INK; c.lineWidth = 26; c.stroke();
+  c.beginPath(); ell(c, x, topY + len / 2, rx, len / 2); c.strokeStyle = COL.orange; c.lineWidth = 14; c.stroke();
+  const y0 = topY + len - 6;
+  for (let i = 0; i < 5; i++) { const y = y0 + 6 + i * 20; shape(c, () => rrect(c, x - 50, y, 100, 24, 12), COL.steel, 5); line(c, [[x - 28, y + 12], [x + 28, y + 12]], 3, COL.steelDk); }
+  shape(c, () => rrect(c, x - 54, y0 + 40, 108, 34, 6), "#ffe27a", 5);
+  shape(c, () => ell(c, x, y0 + 6, 50, 12), COL.steelIn, 5);
 };
 // setup.e4.2
 const e4_2 = (c: Ctx) => {
@@ -311,12 +316,12 @@ const e4_2 = (c: Ctx) => {
   const x1 = 280, yb1 = 800, capTop1 = yb1 - Hh;
   pbottle(c, x1, yb1, W, Hh, 0);
   bandCoins(c, x1, capTop1 + Hh * 0.07 + 6, 280);
-  hand(c, x1, capTop1 - 52, Math.PI / 2, 1, SKIN.adult, CLOTH.adult);
+  hand(c, x1, capTop1 - 56, Math.PI / 2, 1.3, SKIN.adult, CLOTH.adult);
   // falling onto the pillow
   const x2 = 760, yb2 = 690, capTop2 = yb2 - Hh;
   pillow(c, 760, 905, 360, 110);
   pbottle(c, x2, yb2, W, Hh, 0);
-  bandCoins(c, x2, capTop2 + Hh * 0.07 + 6, 105);
+  bandCoins(c, x2, capTop2 + Hh * 0.07 + 6, 90);
   for (const dx of [-170, 170]) line(c, [[x2 + dx, 130], [x2 + dx, 230]], 7, COL.grey);
   arrow(c, [[990, 160], [990, 520]], RED, 14);
 };

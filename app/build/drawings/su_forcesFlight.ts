@@ -163,19 +163,28 @@ const e1_4 = (c: Ctx) => {
 // setup.e2.0
 const e2_0 = (c: Ctx) => {
   tableTop(c);
-  shadow(c, 560, 950, 190, 28);
-  const cx = 540, s = 2.2, top = 150;
-  c.save(); c.translate(cx, top); c.scale(s, s);
-  shape(c, () => rrect(c, -50, 0, 46, 160, 4), COL.paper);
-  shape(c, () => rrect(c, 4, 0, 46, 160, 4), PAPER2);
-  shape(c, () => rrect(c, -50, 150, 100, 150, 4), COL.paper);
-  shape(c, () => rrect(c, -50, 220, 100, 80, 4), "#ffffff");
-  c.lineWidth = 12; c.strokeStyle = INK; c.beginPath(); rrect(c, -34, 210, 68, 50, 14); c.stroke();
-  c.lineWidth = 6; c.strokeStyle = COL.steel; c.beginPath(); rrect(c, -34, 210, 68, 50, 14); c.stroke();
+  const L = 440, R = 640, T = 130, B = 960, cutEnd = 430, px = 540, py = 640;
+  shadow(c, 560, 975, 190, 28);
+  shape(c, () => rrect(c, L, T, R - L, B - T, 4), COL.paper);
+  shade(c, () => rrect(c, L, T, R - L, B - T, 4), "#b9ae93", 16, 0, 0.4);
+  shape(c, () => rrect(c, L, 800, R - L, B - 800, 4), "#ffffff");
+  c.lineWidth = 14; c.strokeStyle = INK; c.beginPath(); rrect(c, L + 36, 830, R - L - 72, 100, 22); c.stroke();
+  c.lineWidth = 8; c.strokeStyle = COL.steel; c.beginPath(); rrect(c, L + 36, 830, R - L - 72, 100, 22); c.stroke();
+  // the cut: a dark slit from the top down to cutEnd, the two halves a little apart
+  shape(c, () => polyP(c, [[px - 7, T], [px + 7, T], [px + 7, cutEnd - 20], [px, cutEnd], [px - 7, cutEnd - 20]]), WOOD, 5);
+  // scissors: two blades closing on the end of the cut, orange handle loops below
+  c.save(); c.translate(px, py);
+  for (const sd of [-1, 1]) {
+    shape(c, () => polyP(c, [[0, 0], [sd * 26, 0], [sd * 8, -(py - cutEnd) - 10], [sd * 2, -(py - cutEnd) - 10]]), COL.steel, 6);
+    shape(c, () => ell(c, sd * 40, 112, 36, 46, sd * 0.25), COL.orange, 6);
+    shape(c, () => ell(c, sd * 40, 112, 18, 26, sd * 0.25), "#e0d2b2", 5);
+    line(c, [[0, 0], [sd * 34, 70]], 18, INK); line(c, [[0, 0], [sd * 34, 70]], 8, COL.orange);
+  }
+  shape(c, () => ell(c, 0, 0, 14, 14), COL.steelDk, 5);
   c.restore();
-  arrow(c, [[cx - 40, top - 60], [cx - 110, top - 90]], RED, 14);
-  arrow(c, [[cx + 40, top - 60], [cx + 110, top - 90]], RED, 14);
-  arrow(c, [[cx + 190, top + 620], [cx + 190, top + 470]], RED, 14);
+  sleeve(c, 745, 770, Math.PI + 0.2, 1.8, CLOTH.child);
+  hand(c, 745, 770, Math.PI + 0.2, 1.8, SKIN.child, CLOTH.child);
+  arrow(c, [[350, 170], [350, 400]], RED, 14);
 };
 // setup.e2.1
 const e2_1 = (c: Ctx) => {
@@ -262,12 +271,16 @@ const e3_2 = (c: Ctx) => {
 // setup.e3.3
 const e3_3 = (c: Ctx) => {
   sideScene(c); fanSide(c);
-  for (const y of [300, 370]) windLine(c, [[690, y], [480, y], [440, y - 60]]);
-  for (const y of [640, 710]) windLine(c, [[690, y], [500, y]]);
-  sleeve(c, 170, 700, -1.15, 1.8);
-  hand(c, 170, 700, -1.15, 1.8, SKIN.child, CLOTH.child, true);
-  arrow(c, [[620, 540], [400, 540]], RED, 18);
-  for (const x of [130, 330]) line(c, [[x, 400], [x + 20, 430], [x - 10, 460], [x + 20, 490], [x - 10, 520]], 7, COL.greyDk);
+  // wind meets the steep hand, piles up on its palm and tumbles over the top
+  for (const y of [640, 700, 760]) windLine(c, [[690, y], [560, y]]);
+  windLine(c, [[690, 580], [590, 580], [540, 500], [440, 500]]);
+  windLine(c, [[690, 520], [600, 520], [560, 440], [500, 440]]);
+  for (const [x, y] of [[360, 400], [270, 330]]) {
+    c.beginPath(); c.arc(x, y, 34, 0.3, 5.2); c.lineWidth = 8; c.strokeStyle = WIND; c.globalAlpha = 0.9; c.stroke(); c.globalAlpha = 1;
+  }
+  sleeve(c, 400, 920, -1.25, 3, CLOTH.child);
+  hand(c, 400, 920, -1.25, 3, SKIN.child, CLOTH.child, true);
+  arrow(c, [[380, 560], [150, 560]], RED, 18);
 };
 
 export const su_forcesFlight = cards("sci.forces.flight.L3 set-up", [e1_0, e1_1, e1_2, e1_3, e1_4, e2_0, e2_1, e2_2, e2_3, e2_4, e3_0, e3_1, e3_2, e3_3]);

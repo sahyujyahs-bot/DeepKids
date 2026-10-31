@@ -81,10 +81,11 @@ const card0 = (c: Ctx) => {
   hand(c, 330, 720, -0.15, 3.8, SKIN.child, CLOTH.child, true);
   c.save(); c.translate(330, 720); c.rotate(-0.15); c.scale(3.8, 3.8);
   shape(c, () => ell(c, 4, 0, 24, 15), OIL, 1.6); shine(c, [[-8, -3], [6, -8]], 3);
-  shape(c, () => polyP(c, [[28, 12], [41, -14], [55, 12]]), TURM, 1.6);
-  shape(c, () => ell(c, 41, 12, 19, 6), TURM, 1.6);
-  shade(c, () => polyP(c, [[28, 12], [41, -14], [55, 12]]), "#b87408", 4, 0, 0.5);
-  const r = rnd(5); for (let i = 0; i < 14; i++) shape(c, () => ell(c, 28 + r() * 26, 11 + r() * 6, 1.2, 1), TURM, 0);
+  const heap = () => { c.moveTo(24, 10); c.bezierCurveTo(28, 0, 34, -9, 42, -9); c.bezierCurveTo(50, -9, 56, 0, 60, 10); c.quadraticCurveTo(42, 20, 24, 10); c.closePath(); };
+  shape(c, heap, "#d9780f", 1.8);
+  shade(c, heap, "#a85708", 5, 0, 0.5);
+  const r = rnd(5); for (let i = 0; i < 16; i++) shape(c, () => ell(c, 31 + r() * 24, -2 + r() * 13, 1.1, 0.9), "#f2b04a", 0);
+  for (let i = 0; i < 9; i++) shape(c, () => ell(c, 20 + r() * 46, 14 + r() * 7, 1.3, 1), "#d9780f", 0);
   c.restore();
 };
 // setup.e1.1
@@ -92,7 +93,10 @@ const card1 = (c: Ctx) => {
   ground(c);
   tap(c, 520, 120);
   shape(c, () => rrect(c, 492, 200, 56, 480, 10), COL.water, 5); shine(c, [[506, 230], [506, 600]], 8);
-  hand(c, 330, 840, -0.35, 3, "#e8b03a", CLOTH.child, true);
+  hand(c, 330, 840, -0.35, 3, SKIN.child, CLOTH.child, true);
+  c.save(); c.translate(330, 840); c.rotate(-0.35); c.scale(3, 3);
+  [[8, 0, 20, 13], [60, -21, 17, 6], [58, -4, 16, 6], [56, 13, 15, 6], [10, -22, 12, 7]].forEach(([x, y, rx, ry]) => shape(c, () => ell(c, x, y, rx, ry), "#e8a417", 0));
+  c.restore();
   [[360, 745], [445, 725], [530, 710]].forEach(([x, y]) => shape(c, () => ell(c, x, y, 18, 12), COL.drop, 4));
   [[580, 700, 1], [620, 650, 1], [555, 800, 1], [605, 870, 1]].forEach(([x, y]) => drop(c, x, y, 22));
   clock(c, 800, 500, 150, 20);

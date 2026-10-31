@@ -37,16 +37,22 @@ const handLeft = (c: Ctx, wx: number, wy: number, s: number, skin: string, sleev
 };
 
 // setup.e1.0
+const plateFace = (c: Ctx, x: number, y: number, r: number) => {
+  shadow(c, x + r * 0.15, y + r * 1.05, r * 0.9, r * 0.12);
+  shape(c, () => ell(c, x, y, r, r), COL.steel);
+  shade(c, () => ell(c, x, y, r, r), COL.steelDk, r * 0.3, r * 0.3);
+  shape(c, () => ell(c, x, y, r * 0.72, r * 0.72), COL.steelIn, 5);
+  shine(c, [[x - r * 0.5, y - r * 0.3], [x - r * 0.3, y - r * 0.55]], 8);
+};
 const e1s0 = (c: Ctx) => {
   ground(c); grass(c, 930);
   shadow(c, 330, 940, 150, 22); shadow(c, 880, 940, 90, 16);
-  const aL: [number, number] = [-1.75, -1.5], aR: [number, number] = [-1.39, -1.64], h = 640, x = 300, y = 930;
+  const aL: [number, number] = [-1.9, -1.2], aR: [number, number] = [-1.25, -1.9], h = 640, x = 300, y = 930;
   person(c, 880, y, 470);
   const [lx, ly] = wrist(x, y, h, -1, aL), [rx, ry] = wrist(x, y, h, 1, aR);
   person(c, x, y, h, { adult: true, armL: aL, armR: aR });
-  plateEdge(c, lx - 8, ly - 80, 34, 100); plateEdge(c, rx + 8, ry - 80, 34, 100);
-  c.beginPath(); ell(c, lx, ly, 22, 22); c.fillStyle = SKIN.adult; c.fill(); c.lineWidth = 5; c.strokeStyle = INK; c.stroke();
-  c.beginPath(); ell(c, rx, ry, 22, 22); c.fill(); c.stroke();
+  plateFace(c, lx - 55, ly - 140, 92); plateFace(c, rx + 55, ry - 140, 92);
+  hand(c, lx, ly + 10, -Math.PI / 2 - 0.1, 0.8, SKIN.adult, CLOTH.adult); hand(c, rx, ry + 10, -Math.PI / 2 + 0.1, 0.8, SKIN.adult, CLOTH.adult);
   feet(c, 450, 740, 1005, 7); write(c, "20", 535, 835, 72, INK, 9);
   line(c, [[455, 905], [455, 925]], 5); line(c, [[745, 905], [745, 925]], 5); line(c, [[455, 915], [745, 915]], 5);
 };
@@ -54,15 +60,15 @@ const e1s0 = (c: Ctx) => {
 // setup.e1.1
 const e1s1 = (c: Ctx) => {
   ground(c); grass(c, 900);
-  shadow(c, 810, 910, 130, 20); shadow(c, 120, 906, 30, 6);
+  shadow(c, 700, 910, 120, 20); shadow(c, 120, 906, 30, 6);
   // the helper, small and far away, plates held up
   person(c, 120, 900, 190, { adult: true, armL: [-1.75, -1.5], armR: [-1.39, -1.64] });
   plateEdge(c, 95, 735, 10, 30); plateEdge(c, 145, 735, 10, 30);
-  person(c, 830, 900, 560);
-  feet(c, 230, 690, 945, 9);
-  write(c, "100", 335, 1015, 48, INK, 7); write(c, "200", 595, 1015, 48, INK, 7);
-  line(c, [[380, 975], [380, 995]], 5); line(c, [[640, 975], [640, 995]], 5);
-  arrow(c, [[260, 800], [600, 800]], RED, 12);
+  // the child walking away: arms swinging, steps behind, arrow ahead
+  person(c, 700, 900, 520);
+  feet(c, 230, 620, 945, 8);
+  write(c, "100", 300, 1015, 48, INK, 7); write(c, "200", 520, 1015, 48, INK, 7);
+  arrow(c, [[820, 700], [1030, 700]], RED, 14);
 };
 
 // setup.e1.2
@@ -90,16 +96,16 @@ const e1s2 = (c: Ctx) => {
 // setup.e2.0
 const e2s0 = (c: Ctx) => {
   ground(c, NIGHT);
-  shape(c, () => rrect(c, 90, 110, 900, 860, 24), COL.wood);
-  shape(c, () => rrect(c, 150, 170, 780, 740, 12), "#121530", 6);
-  shape(c, () => polyP(c, [[150, 520], [930, 520], [930, 910], [150, 910]]), CLOTHN, 5);
-  line(c, [[150, 520], [930, 520]], 6);
-  // three stickers lying on the cloth, with no glow
-  const sx = [300, 540, 780]; sx.forEach((x, i) => { { shadow(c, x + 14, 800 + (i % 2 ? 40 : 0), 100, 20); star(c, x, 690 + (i % 2 ? 40 : 0), 115, STARDIM, STARDIMDK); }; });
-  // the door swinging shut, a red arrow showing it close
-  shape(c, () => polyP(c, [[930, 170], [1040, 130], [1040, 950], [930, 910]]), COL.woodDk);
-  shape(c, () => ell(c, 1010, 540, 14, 14), COL.steel, 5);
-  arrow(c, [[1010, 300], [905, 360]], RED, 12);
+  // an open box seen from above: three stars lying on the cloth inside, the lid held over it
+  shape(c, () => rrect(c, 120, 640, 840, 240, 20), COL.wood); shade(c, () => rrect(c, 120, 640, 840, 240, 20), COL.woodDk, 22, 0, 0.5);
+  shape(c, () => polyP(c, [[120, 640], [960, 640], [890, 370], [190, 370]]), CLOTHN, 6);
+  line(c, [[120, 640], [960, 640], [890, 370], [190, 370], [120, 640]], 7);
+  [300, 540, 780].forEach((x) => { c.save(); c.translate(x, 530); c.scale(1, 0.62); star(c, 0, 0, 100, STARDIM, STARDIMDK); c.restore(); });
+  // the lid
+  shape(c, () => polyP(c, [[210, 110], [800, 110], [880, 190], [130, 190]]), COL.wood); shade(c, () => polyP(c, [[210, 110], [800, 110], [880, 190], [130, 190]]), COL.woodDk, 0, 26, 0.5);
+  shape(c, () => rrect(c, 130, 190, 750, 36, 8), COL.woodDk);
+  handLeft(c, 880, 150, 1.3, SKIN.child, CLOTH.child);
+  arrow(c, [[500, 250], [500, 350]], RED, 14);
 };
 
 // setup.e2.1

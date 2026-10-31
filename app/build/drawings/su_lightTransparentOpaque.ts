@@ -241,14 +241,18 @@ const e3_2 = (c: Ctx) => {
   shape(c, () => rrect(c, 180, 120, 170, 570, 10), COL.purple, 6);
   for (let k = 0; k < 4; k++) { line(c, [[65 + k * 40, 130], [65 + k * 40, 680]], 4, "#6a4fa6"); line(c, [[215 + k * 40, 130], [215 + k * 40, 680]], 4, "#6a4fa6"); }
   line(c, [[10, 110], [370, 110]], 10, COL.brown);
-  // the chart on the wall, the child with sunglasses in front, squinting
-  chartPaper(c, 690, 220, 330, 480, "#e5e0ee", true);
-  person(c, 500, 960, 540);
-  shades(c, 500, 960, 540);
-  const head = 540 * 0.13, hy = 960 - 540 * 0.74 - head * 1.05;
-  line(c, [[500 - head * 0.8, hy - head * 0.45], [500 - head * 0.1, hy - head * 0.25]], 6);
-  line(c, [[500 + head * 0.8, hy - head * 0.45], [500 + head * 0.1, hy - head * 0.25]], 6);
-  c.fillStyle = "rgba(20,16,50,0.28)"; c.fillRect(0, 0, D, D);
+  // the chart on the wall, the child with sunglasses three steps in front, squinting
+  chartPaper(c, 640, 190, 390, 550, "#d9d4e4", true);
+  person(c, 330, 960, 600);
+  shades(c, 330, 960, 600);
+  const head = 600 * 0.13, hy = 960 - 600 * 0.74 - head * 1.05;
+  line(c, [[330 - head * 0.8, hy - head * 0.45], [330 - head * 0.1, hy - head * 0.25]], 6);
+  line(c, [[330 + head * 0.8, hy - head * 0.45], [330 + head * 0.1, hy - head * 0.25]], 6);
+  c.fillStyle = "rgba(20,16,50,0.2)"; c.fillRect(0, 0, D, D);
+  // glints on the dark lenses, and the same three steps as outside
+  [-1, 1].forEach((sg) => line(c, [[330 + sg * head * 0.4 - head * 0.15, hy - head * 0.05], [330 + sg * head * 0.4, hy - head * 0.1]], 5, WHITE));
+  [470, 540, 610].forEach((x, i) => shape(c, () => ell(c, x, i % 2 ? 1020 : 1000, 30, 15), "#6b6590", 4));
+  write(c, "3", 525, 870, 80, WHITE, 10);
 };
 
 export const su_lightTransparentOpaque = cards("sci.light.transparent-opaque.L3 set-up", [e1_0, e1_1, e1_2, e2_0, e2_1, e2_2, e3_0, e3_1, e3_2]);

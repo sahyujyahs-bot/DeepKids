@@ -115,22 +115,40 @@ const cloth = (c: Ctx) => {
 const e2_0 = (c: Ctx) => {
   ground(c);
   cloth(c);
-  shadow(c, 560, 660, 360, 34); shadow(c, 560, 880, 360, 34);
-  stick(c, 540, 440, 720, 0, 1, 76);
-  stick(c, 540, 660, 720, 0, 0, 76);
+  shadow(c, 560, 880, 360, 34);
+  stick(c, 540, 840, 720, 0, 0, 76);
+  // one stick is bent until it clicks, and glows; the other lies whole beside it
+  const P0 = [170, 560], C = [540, 400], P2 = [910, 560];
+  const arc = () => { c.beginPath(); c.moveTo(P0[0], P0[1]); c.quadraticCurveTo(C[0], C[1], P2[0], P2[1]); };
+  halo(c, 540, 520, 380, GLOW, 0.55);
+  arc(); c.strokeStyle = INK; c.lineWidth = 88; c.lineCap = "round"; c.stroke();
+  arc(); c.strokeStyle = STICK_LIT; c.lineWidth = 76; c.stroke();
+  c.save(); c.translate(0, -16); arc(); c.strokeStyle = "#fbffd0"; c.lineWidth = 10; c.stroke(); c.restore();
+  for (const a of [-1.95, -1.57, -1.19]) line(c, [[540 + Math.cos(a) * 80, 480 + Math.sin(a) * 80], [540 + Math.cos(a) * 150, 480 + Math.sin(a) * 150]], 10);
+  hand(c, 215, 330, 1.0, 2.2);
+  hand(c, 865, 330, Math.PI - 1.0, 2.2);
+  arrow(c, [[40, 640], [140, 590]], RED, 12); arrow(c, [[1040, 640], [940, 590]], RED, 12);
 };
 // setup.e2.1
 const e2_1 = (c: Ctx) => {
   ground(c);
-  shape(c, () => rrect(c, -60, 350, 360, 210, 60), CLOTH.child, 6);
-  shade(c, () => rrect(c, -60, 350, 360, 210, 60), CLOTH.childDk, 0, -40, 0.6);
-  shape(c, () => rrect(c, 240, 375, 420, 150, 60), SKIN.child, 6);
-  shade(c, () => rrect(c, 240, 375, 420, 150, 60), SKIN.childDk, 0, -30, 0.5);
-  line(c, [[395, 455], [395, 495]], 4, SKIN.childDk); line(c, [[560, 455], [560, 495]], 4, SKIN.childDk);
-  hand(c, 650, 450, 0, 1.8, SKIN.child, SKIN.child, true);
-  stick(c, 470, 420, 480, Math.PI / 2, 1, 52, 0.55);
-  hand(c, 470, 115, Math.PI / 2, 1.4);
-  arrow(c, [[640, 190], [640, 320]], RED, 12);
+  // a forearm, palm up, with an open hand; the glowing stick lies across the inside of the wrist
+  const arm = () => rrect(c, 120, 360, 560, 190, 70);
+  shape(c, () => rrect(c, -80, 330, 320, 250, 60), CLOTH.child, 6);
+  shade(c, () => rrect(c, -80, 330, 320, 250, 60), CLOTH.childDk, 0, -40, 0.6);
+  shadow(c, 520, 600, 380, 26);
+  for (let k = 0; k < 4; k++) shape(c, () => rrect(c, 700, 360 + k * 46, 200 - Math.abs(k - 1.4) * 22, 40, 20), SKIN.child, 6);
+  shape(c, arm, SKIN.child, 6);
+  shade(c, arm, SKIN.childDk, 0, -40, 0.5);
+  shape(c, () => ell(c, 690, 460, 100, 108), SKIN.child, 6);
+  shape(c, () => ell(c, 690, 460, 82, 90), "#c98d63", 0);
+  shape(c, () => { c.moveTo(640, 560); c.quadraticCurveTo(690, 620, 760, 540); c.quadraticCurveTo(720, 560, 700, 520); c.closePath(); }, SKIN.child, 6);
+  line(c, [[300, 400], [300, 440]], 4, SKIN.childDk); line(c, [[300, 480], [300, 520]], 4, SKIN.childDk);
+  halo(c, 470, 455, 150, GLOW, 0.55);
+  stick(c, 470, 440, 520, Math.PI / 2, 1, 52, 0.4);
+  hand(c, 470, 70, Math.PI / 2, 1.4);
+  arrow(c, [[600, 160], [600, 300]], RED, 12);
+  write(c, "20", 750, 130, 120, INK, 12);
   shadow(c, 560, 925, 330, 26);
   stick(c, 540, 860, 640, 0, 0, 52);
 };
@@ -181,17 +199,17 @@ const phone = (c: Ctx, x: number, y: number, w: number, h: number, txt: string, 
 const e3_0 = (c: Ctx) => {
   ground(c);
   tableTop(c, 690, COL.wood);
-  const T = [560, 800], bx = 230, by = 790, br = 190;
+  const T = [560, 800], bx = 220, by = 850, br = 135;
   // star B lit by the torch
   star(c, T[0], T[1], 130, 0.35);
-  // star A under the upturned steel bowl
+  // star A under the upturned steel bowl, one tip showing
+  star(c, bx + 120, by - 20, 100, 0, false);
   shadow(c, bx + 25, by + 14, br * 0.95, br * 0.2);
   shape(c, () => ell(c, bx, by, br, br * 0.2), COL.steelDk, 5);
   const dome = () => { c.moveTo(bx - br, by); c.bezierCurveTo(bx - br, by - br * 1.2, bx + br, by - br * 1.2, bx + br, by); c.ellipse(bx, by, br, br * 0.2, 0, 0, Math.PI); c.closePath(); };
   shape(c, dome, COL.steel, 6);
   shade(c, dome, COL.steelDk, -br * 0.4, -br * 0.05, 0.6);
   shine(c, [[bx - br * 0.7, by - br * 0.5], [bx - br * 0.4, by - br * 0.8]], 10);
-  arrow(c, [[bx, 330], [bx, 490]], RED, 12);
   // the torch, held in a hand, its beam on star B
   const G = [820, 300], ang = Math.atan2(T[1] - G[1], T[0] - G[0]), dir = [Math.cos(ang), Math.sin(ang)], p = [-dir[1], dir[0]], len = 280;
   const L = [G[0] + dir[0] * (len / 2 + 50), G[1] + dir[1] * (len / 2 + 50)];
@@ -215,9 +233,12 @@ const darkRoom = (c: Ctx, childPoint?: [number, number]) => {
 };
 // setup.e3.1
 const e3_1 = (c: Ctx) => {
-  darkRoom(c);
+  ground(c, NIGHT);
+  tableTop(c, 730, "#4a3a50");
   star(c, 540, 880, 120, 1);
-  star(c, 840, 880, 120, 0.15);
+  star(c, 840, 880, 120, 0);
+  phone(c, 100, 470, 240, 400, "0", 0);
+  hand(c, 110, 290, 1.15, 2.4);
 };
 // setup.e3.2
 const e3_2 = (c: Ctx) => {

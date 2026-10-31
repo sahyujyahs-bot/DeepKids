@@ -48,11 +48,19 @@ const spoonsInMug = (c: Ctx, cx: number, rimY: number, slid = false) => {
   SPOONS.forEach(([kind, dx, lean]) => {
     const x = cx + dx, y = rimY + 16, ang = -Math.PI / 2 - lean, L = 440;
     spoon(c, x, y, ang, L, kind);
-    const falls = slid && kind === "steel", d = 175;
+    const falls = slid && kind === "steel", d = slid ? 190 / Math.cos(lean) : 175;
     if (falls) {
-      butter(c, alongX(x, ang, d), alongY(y, ang, d), 32, 14, ang);
-      pea(c, alongX(x, ang, d - 85), alongY(y, ang, d - 85) - 4);
-      arrow(c, [[alongX(x, ang, d - 85) + 52, alongY(y, ang, d - 85) - 50], [alongX(x, ang, d - 85) + 52, alongY(y, ang, d - 85) + 30]]);
+      // the butter has melted: a yellow streak down the handle, the pea slid down with it, a drip falling
+      const e = 60 / Math.cos(lean);
+      line(c, [[alongX(x, ang, d), alongY(y, ang, d)], [alongX(x, ang, e + 20), alongY(y, ang, e + 20)]], 36, INK);
+      line(c, [[alongX(x, ang, d), alongY(y, ang, d)], [alongX(x, ang, e + 20), alongY(y, ang, e + 20)]], 22, BUTTER);
+      pea(c, alongX(x, ang, e + 30), alongY(y, ang, e + 30), 20);
+      const px = alongX(x, ang, e + 30) + 36, py = alongY(y, ang, e + 30) - 30;
+      shape(c, () => { c.moveTo(px, py - 24); c.quadraticCurveTo(px + 18, py + 4, px, py + 14); c.quadraticCurveTo(px - 18, py + 4, px, py - 24); c.closePath(); }, BUTTER, 4);
+      arrow(c, [[alongX(x, ang, d) + 70, alongY(y, ang, d) - 20], [alongX(x, ang, e + 30) + 70, alongY(y, ang, e + 30) - 40]], RED, 12);
+    } else if (slid) {
+      butter(c, alongX(x, ang, d), alongY(y, ang, d), 40, 28, ang + Math.PI / 2);
+      pea(c, alongX(x, ang, d), alongY(y, ang, d) - 26, 20);
     } else {
       butter(c, alongX(x, ang, d), alongY(y, ang, d));
       pea(c, alongX(x, ang, d), alongY(y, ang, d) - 18);
@@ -101,11 +109,11 @@ const tumbler = (c: Ctx) => {
   shine(c, [[-62, -165], [-50, -30]], 10);
 };
 // a woollen sock standing on its heel, cuff open at the top with an ice cube peeping out; origin = floor under the leg
-const sock = (c: Ctx, withIce = true) => {
+const sock = (c: Ctx, withIce = true, iceS = 90) => {
   const p = () => { c.moveTo(-80, -130); c.lineTo(-80, -30); c.quadraticCurveTo(-80, 0, -50, 0); c.lineTo(85, 0); c.quadraticCurveTo(125, 0, 125, -38); c.quadraticCurveTo(125, -78, 85, -80); c.lineTo(80, -80); c.lineTo(80, -130); c.closePath(); };
   shadow(c, 20, 8, 120, 14);
   shape(c, () => ell(c, 0, -170, 84, 26), "#6e1f17", 6);
-  if (withIce) at(c, 0, -156, 0.62, (cc) => ice(cc, 90));
+  if (withIce) at(c, 0, -156, 0.62, (cc) => ice(cc, iceS));
   shape(c, p, WOOL, 6); side(c, p, 30, -180, 120, 190, WOOL_DK, 0.55);
   const cuff = () => { c.moveTo(-84, -170); c.ellipse(0, -170, 84, 26, 0, Math.PI, 0, true); c.lineTo(84, -118); c.lineTo(-84, -118); c.closePath(); };
   shape(c, cuff, WHITE, 6);
@@ -224,13 +232,13 @@ const e2_0 = (c: Ctx) => {
 // setup.e2.1
 const e2_1 = (c: Ctx) => {
   ground(c);
-  at(c, 340, 930, 2.1, (cc) => sock(cc));
-  hand(c, 600, 640, Math.PI, 1.4, SKIN.child, CLOTH.child);
+  saucer(c, 370, 905, 270);
+  at(c, 330, 905, 1.8, (cc) => sock(cc, true, 130));
+  hand(c, 580, 645, Math.PI, 1.4, SKIN.child, CLOTH.child);
   phone(c, 720, 60, 240, 380, 30);
-  saucer(c, 830, 900, 170);
-  shape(c, () => ell(c, 830, 900, 130, 46), COL.water, 4);
-  c.beginPath(); ell(c, 800, 890, 50, 8); c.fillStyle = COL.drop; c.fill();
-  at(c, 860, 905, 1, (cc) => ice(cc, 34));
+  saucer(c, 830, 880, 190);
+  shape(c, () => ell(c, 830, 880, 150, 52), COL.water, 4);
+  c.beginPath(); ell(c, 790, 868, 55, 9); c.fillStyle = COL.drop; c.fill();
 };
 // setup.e2.2
 const e2_2 = (c: Ctx) => {

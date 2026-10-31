@@ -201,18 +201,16 @@ const e1_3 = (c: Ctx) => {
 
 // setup.e2.0
 const e2_0 = (c: Ctx) => {
-  room(c, 780);
-  // grout lines of the floor, and the tape start line
-  for (const y of [800, 850, 925, 1030]) line(c, [[0, y], [D, y]], 3, FLOORLN);
-  for (let k = -2; k < 9; k++) line(c, [[k * 190, 785], [k * 190 + 100, 1080]], 3, FLOORLN);
-  shape(c, () => polyP(c, [[580, 786], [622, 786], [706, 1080], [650, 1080]]), COL.teal, 5);
-  const sit = { sit: true, armL: [0.1, 0.0] as [number, number], armR: [0.15, 0.0] as [number, number] };
-  person(c, 170, 930, 620, sit);
-  // the ruler held flat, level; the band hooked over the 0 end
-  const [wx, wy] = wristOf(170, 930, 620, 1, sit.armR, true);
-  rulerH(c, 310, wy - 33, 600, 66, 900, 20, 30, 10, -1, 24);
-  hand(c, wx - 20, wy + 4, 0, 1.15, SKIN.child, CLOTH.child, false);
-  for (const [col, lw] of [[INK, 22], [BAND, 12]] as [string, number][]) { c.beginPath(); ell(c, 906, wy, 26, 52); c.strokeStyle = col; c.lineWidth = lw; c.stroke(); }
+  room(c, 700);
+  // the tape start line on the floor
+  shape(c, () => polyP(c, [[250, 704], [320, 704], [380, 1080], [290, 1080]]), COL.teal, 5);
+  // the ruler held flat and level in a hand; the band hooked over the 0 end
+  rulerH(c, 110, 520, 860, 120, 900, 66, 12, 2, -1, 34);
+  const band = () => rrect(c, 700, 500, 262, 160, 80);
+  c.beginPath(); band(); c.strokeStyle = INK; c.lineWidth = 23; c.stroke();
+  c.beginPath(); band(); c.strokeStyle = BAND; c.lineWidth = 14; c.stroke();
+  shape(c, () => rrect(c, 892, 520, 22, 120, 6), COL.wood, 5);
+  hand(c, 90, 580, 0, 1.7, SKIN.child, CLOTH.child, false);
 };
 
 // setup.e2.1
@@ -234,13 +232,15 @@ const e2_1 = (c: Ctx) => {
 // setup.e2.2
 const e2_2 = (c: Ctx) => {
   c.fillStyle = TILE; c.fillRect(0, 0, D, D);
-  for (let k = 0; k < 7; k++) { line(c, [[150 + k * 190, 0], [150 + k * 190, D]], 5, FLOORLN); line(c, [[0, 90 + k * 190], [D, 90 + k * 190]], 5, FLOORLN); }
-  shape(c, () => rrect(c, 100, -10, 54, 1100, 0), COL.teal, 5);
-  const num = (t: string, x: number) => write(c, t, x, 515, 100, "#a58f62", 12);
-  num("1", 213); num("2", 403); num("3", 593);
-  bandFlat(c, 755, 520, 150, 72, 15);
-  coin(c, 960, 640, 36);
-  hand(c, 330, 735, -1.0, 1.7, SKIN.child, CLOTH.child, true);
+  for (let k = 0; k < 8; k++) { line(c, [[140 + k * 170, 0], [140 + k * 170, D]], 6, FLOORLN); }
+  for (let k = 0; k < 7; k++) line(c, [[0, 380 + (k - 2) * 190], [D, 380 + (k - 2) * 190]], 6, FLOORLN);
+  shape(c, () => rrect(c, 90, -10, 54, 1100, 0), COL.teal, 5);
+  // tiles counted from the start line: 1, 2, 3
+  for (const [t, x] of [["1", 225], ["2", 395], ["3", 565]] as [string, number][]) { shape(c, () => ell(c, x, 475, 52, 52), WHITE, 5); write(c, t, x - 16, 445, 60, INK, 9); }
+  arrow(c, [[170, 330], [800, 330]]);
+  bandFlat(c, 668, 430, 150, 90, 16);
+  coin(c, 910, 475, 44);
+  hand(c, 395, 790, -Math.PI / 2, 1.7, SKIN.child, CLOTH.child, true);
 };
 
 // setup.e3.0
@@ -349,12 +349,17 @@ const e4_2 = (c: Ctx) => {
 const e4_3 = (c: Ctx) => {
   room(c);
   stripV(c, 700);
-  dash(c, [12, 10], () => { c.beginPath(); ell(c, 480, 352, 52, 50); c.strokeStyle = "rgba(43,35,64,0.55)"; c.lineWidth = 6; c.stroke(); });
-  arrow(c, [[480, 430], [480, 800]]);
-  shadow(c, 500, 944, 175, 16);
-  shape(c, () => ell(c, 480, 915, 165, 36), DOUGH, 6);
-  shade(c, () => ell(c, 480, 915, 165, 36), DOUGHDK, 40, 14, 0.8);
-  line(c, [[370, 900], [470, 890]], 6, WHITE);
+  shadow(c, 494, 340, 70, 12);
+  doughBall(c, 480, 300, 80);
+  arrow(c, [[480, 410], [480, 820]]);
+  const blob = () => { c.moveTo(300, 915); c.bezierCurveTo(300, 880, 400, 872, 480, 876); c.bezierCurveTo(570, 872, 660, 882, 665, 912); c.bezierCurveTo(670, 945, 560, 952, 480, 950); c.bezierCurveTo(390, 952, 305, 945, 300, 915); c.closePath(); };
+  shadow(c, 500, 952, 190, 16);
+  shape(c, blob, DOUGH, 6);
+  shade(c, blob, DOUGHDK, 40, 14, 0.8);
+  line(c, [[370, 900], [470, 892]], 6, WHITE);
+  // no bounce: the up arrow is crossed out
+  dash(c, [12, 10], () => arrow(c, [[590, 850], [590, 650]], RED, 8));
+  line(c, [[550, 720], [630, 780]], 10, RED); line(c, [[630, 720], [550, 780]], 10, RED);
 };
 
 export const su_forcesStretchingSprings = cards("sci.forces.stretching-springs.L3 set-up", [

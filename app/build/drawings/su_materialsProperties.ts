@@ -43,11 +43,11 @@ const pencil = (c: Ctx, x: number, y: number, len: number) => {
 // a plastic carry bag hanging from handles over a pencil at (x, y): body below, handles up, water 0..1
 const bag = (c: Ctx, x: number, y: number, w: number, h: number, water = 0) => {
   const body = () => { c.moveTo(x - w * 0.4, y + 10); c.lineTo(x + w * 0.4, y + 10); c.quadraticCurveTo(x + w * 0.56, y + h * 0.5, x + w * 0.5, y + h); c.lineTo(x - w * 0.5, y + h); c.quadraticCurveTo(x - w * 0.56, y + h * 0.5, x - w * 0.4, y + 10); c.closePath(); };
-  [-1, 1].forEach((s) => { line(c, [[x + s * w * 0.3, y + 14], [x + s * w * 0.22, y - 2], [x + s * w * 0.1, y - 10]], 16, INK); line(c, [[x + s * w * 0.3, y + 14], [x + s * w * 0.22, y - 2], [x + s * w * 0.1, y - 10]], 7, "#dceaf2"); });
-  shape(c, body, "rgba(205,228,240,0.9)", 6);
+  [-1, 1].forEach((s) => { c.beginPath(); ell(c, x + s * w * 0.22, y - 6, w * 0.15, 46); c.strokeStyle = INK; c.lineWidth = 20; c.stroke(); c.strokeStyle = "#dceaf2"; c.lineWidth = 9; c.stroke(); });
+  shape(c, body, "rgba(205,228,240,0.95)", 6);
+  [-0.3, -0.12, 0.08, 0.26].forEach((f, i) => line(c, [[x + w * f, y + 18], [x + w * (f * 1.15 + (i % 2 ? 0.03 : -0.03)), y + h * 0.5]], 3, "rgba(43,35,64,0.3)"));
   if (water > 0) { c.save(); c.beginPath(); body(); c.clip(); const wy = y + h - (h - 30) * water; c.fillStyle = COL.water; c.fillRect(x - w, wy, w * 2, h); c.fillStyle = COL.drop; c.beginPath(); ell(c, x, wy, w * 0.52, 12); c.fill(); c.restore(); shape(c, body, "rgba(0,0,0,0)", 6); }
   shine(c, [[x - w * 0.3, y + 50], [x - w * 0.34, y + h * 0.7]], 9);
-  line(c, [[x - w * 0.15, y + 20], [x - w * 0.1, y + h * 0.45]], 3, "rgba(43,35,64,0.25)");
 };
 const bucket = (c: Ctx, x: number, yBase: number, w: number, h: number) => {
   shadow(c, x + w * 0.1, yBase + 4, w * 0.62, w * 0.1);
@@ -103,9 +103,16 @@ const paperTag = (c: Ctx, cx: number, cy: number, w: number, h: number, kind: nu
 };
 
 // ---------------------------------------------------------------- the eight things of e1
-const spaghetti = (c: Ctx, x: number, y: number, len: number, rot: number) => at(c, x, y, rot, () => { [-12, 0, 12].forEach((o, i) => stick(c, [[-len / 2, o + i * 2], [len / 2, o - i * 3]], 9, "#f2d58e")); });
+const SPAG = "#f2d58e";
+// a dry spaghetti bundle: five thin straight strands tied with a red band
+const spaghetti = (c: Ctx, x: number, y: number, len: number, rot: number) => at(c, x, y, rot, () => {
+  [-26, -13, 0, 13, 26].forEach((o, i) => stick(c, [[-len / 2, o * 0.6 + i], [len / 2, o * 1.2 - i * 2]], 8, SPAG));
+  shape(c, () => rrect(c, -14, -38, 28, 76, 6), RED, 5);
+});
+// one strand of spaghetti
+const strand = (c: Ctx, x: number, y: number, len: number, rot: number) => at(c, x, y, rot, () => { stick(c, [[-len / 2, 0], [len / 2, 0]], 12, SPAG); });
 const chalk = (c: Ctx, x: number, y: number, len: number, rot: number) => at(c, x, y, rot, () => { shape(c, () => rrect(c, -len / 2, -22, len, 44, 14), "#fbfbf4"); shade(c, () => rrect(c, -len / 2, -22, len, 44, 14), "#cfcfc4", 0, 14, 0.7); });
-const iceStick = (c: Ctx, x: number, y: number, len: number, rot: number) => at(c, x, y, rot, () => { shape(c, () => rrect(c, -len / 2, -22, len, 44, 22), COL.wood); shade(c, () => rrect(c, -len / 2, -22, len, 44, 22), COL.woodDk, 0, 14, 0.6); line(c, [[-len * 0.3, -4], [len * 0.2, -4]], 3, COL.woodDk); });
+const iceStick = (c: Ctx, x: number, y: number, len: number, rot: number) => at(c, x, y, rot, () => { shape(c, () => rrect(c, -len / 2, -30, len, 60, 30), COL.wood); shade(c, () => rrect(c, -len / 2, -30, len, 60, 30), COL.woodDk, 0, 18, 0.6); line(c, [[-len * 0.3, -8], [len * 0.25, -8]], 3, COL.woodDk); line(c, [[-len * 0.2, 6], [len * 0.35, 6]], 3, COL.woodDk); });
 const ruler = (c: Ctx, x: number, y: number, len: number, rot: number) => at(c, x, y, rot, () => {
   shape(c, () => rrect(c, -len / 2, -28, len, 56, 6), "rgba(147,200,236,0.95)");
   for (let i = 0; i <= 10; i++) line(c, [[-len / 2 + 14 + i * ((len - 28) / 10), -28], [-len / 2 + 14 + i * ((len - 28) / 10), i % 5 === 0 ? -8 : -17]], 3);
@@ -161,7 +168,7 @@ const coin = (c: Ctx, x: number, y: number, rot: number) => at(c, x, y, rot, () 
 const e1_0 = (c: Ctx) => {
   ground(c);
   const xs = [140, 410, 680, 950];
-  spaghetti(c, xs[0], 150, 240, -0.08); chalk(c, xs[1], 150, 230, 0.12); iceStick(c, xs[2], 150, 240, -0.1); ruler(c, xs[3] - 10, 150, 240, 0.06);
+  spaghetti(c, xs[0], 150, 250, -0.06); chalk(c, xs[1], 150, 230, 0.12); iceStick(c, xs[2], 150, 240, -0.1); ruler(c, xs[3] - 10, 150, 240, 0.06);
   clip(c, xs[0], 400, 1.9, 0.1); foil(c, xs[1], 400, 250, -0.05); plasticine(c, xs[2], 410, 105); band(c, xs[3] - 10, 400, 100, 60);
   [SNAP, BENT, SPRING].forEach((k, i) => paperTag(c, 200 + i * 340, 790, 290, 270, k));
 };
@@ -189,9 +196,9 @@ const e1_2 = (c: Ctx) => {
     line(c, [[x - 110, 400], [x + 110, 400]], 4, "rgba(43,35,64,0.3)");
   });
   // snapped spaghetti: three pieces
-  spaghetti(c, 190, 560, 150, 0.5); spaghetti(c, 175, 700, 130, -0.35); spaghetti(c, 210, 830, 110, 0.15);
+  strand(c, 190, 560, 190, 0.5); strand(c, 175, 700, 150, -0.35); strand(c, 210, 830, 110, 0.15);
   // bent paper clip
-  clip(c, 548, 720, 2.9, 0.2, true);
+  clip(c, 540, 640, 2.0, 0.2, true);
   // flat straight ruler
   shadow(c, 905, 720, 130, 18);
   ruler(c, 890, 700, 270, 0);
@@ -291,15 +298,27 @@ const e3_2 = (c: Ctx) => {
   shape(c, () => rrect(c, -20, 40, D + 40, 30, 15), COL.brown, 6);
   shade(c, () => rrect(c, -20, 40, D + 40, 30, 15), "#80522a", 0, 14, 0.7);
   paperStrip(c, 480, 70, 960, 250);
-  // the damp patch
+  // the damp patch across the middle of the strip: dark, with a wet shine
   c.save(); c.beginPath(); rrect(c, 480 - 125, 70, 250, 890, 3); c.clip();
-  c.beginPath(); c.moveTo(380, 470); c.bezierCurveTo(380, 380, 580, 370, 590, 470); c.bezierCurveTo(600, 560, 400, 580, 380, 470); c.fillStyle = "rgba(95,150,200,0.55)"; c.fill();
-  c.beginPath(); c.moveTo(395, 470); c.bezierCurveTo(400, 400, 570, 395, 575, 470); c.bezierCurveTo(580, 540, 410, 550, 395, 470); c.fillStyle = "rgba(60,100,160,0.4)"; c.fill();
+  c.beginPath(); c.moveTo(355, 450); c.bezierCurveTo(355, 330, 610, 320, 610, 450); c.bezierCurveTo(610, 570, 355, 580, 355, 450); c.fillStyle = "rgba(70,115,175,0.75)"; c.fill();
+  c.beginPath(); c.moveTo(390, 450); c.bezierCurveTo(395, 365, 575, 360, 580, 450); c.bezierCurveTo(580, 535, 395, 540, 390, 450); c.fillStyle = "rgba(40,75,140,0.65)"; c.fill();
   c.restore();
   shape(c, () => rrect(c, 480 - 125, 70, 250, 890, 3), "rgba(0,0,0,0)", 6);
-  // a wet fingertip touching the strip
-  arm(c, 720, 640, Math.PI + 0.6, 1.8, true, true);
-  dropShape(c, 572, 580, 15);
+  // a wet fingertip touching the strip: fist with the index finger out, a drop on the strip
+  pointArm(c, 500, 470, -0.75, 2.0);
+  dropShape(c, 430, 560, 17); dropShape(c, 560, 600, 12);
+};
+// a right hand coming in from the right with the index finger pointing, its tip at (tx, ty)
+const pointArm = (c: Ctx, tx: number, ty: number, an: number, s: number) => {
+  const dx = s * (Math.cos(an) * 160 + Math.sin(an) * 24), dy = s * (Math.sin(an) * 160 - Math.cos(an) * 24), x = tx + dx, y = ty - dy;
+  c.save(); c.translate(x, 0); c.scale(-1, 1); c.translate(-x, 0); c.translate(x, y); c.rotate(an); c.scale(s, s);
+  shape(c, () => rrect(c, -1500, -31, 1450, 62, 8), CLOTH.child, 6);
+  shape(c, () => rrect(c, -78, -36, 56, 72, 14), CLOTH.child, 6);
+  shape(c, () => { c.moveTo(-26, -32); c.quadraticCurveTo(20, -42, 46, -30); c.lineTo(52, 30); c.quadraticCurveTo(10, 40, -26, 32); c.closePath(); }, SKIN.child, 6);
+  for (let k = 1; k < 4; k++) shape(c, () => rrect(c, 38, -30 + k * 17, 40, 17, 8.5), SKIN.child, 5);
+  shape(c, () => rrect(c, 34, -32, 128, 17, 8.5), SKIN.child, 5);
+  shape(c, () => { c.moveTo(-4, -30); c.quadraticCurveTo(22, -60, 52, -50); c.quadraticCurveTo(64, -44, 50, -34); c.quadraticCurveTo(26, -32, 12, -18); c.closePath(); }, SKIN.child, 5);
+  c.restore();
 };
 
 // ---------------------------------------------------------------- e4: six surfaces

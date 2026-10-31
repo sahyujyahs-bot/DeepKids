@@ -65,11 +65,18 @@ const e1_0 = (c: Ctx) => {
 // setup.e1.1
 const e1_1 = (c: Ctx) => {
   ground(c);
-  lay(c, candleLying, 350, 720, 0, 2.6, 95, 22);
-  shape(c, () => { c.moveTo(290, 663); c.quadraticCurveTo(340, 735, 400, 663); c.closePath(); }, "#bfa86c", 5);
-  lay(c, pebble, 830, 700, 0, 2.2, 60, 44);
-  hand(c, 440, 520, Math.PI / 2 + 0.5, 1.7, SKIN.child, CLOTH.child, true);
-  arrow(c, [[650, 400], [600, 520]]);
+  // the candle with a dent, a thumbnail-tipped finger pressing into it, a pebble with no mark
+  lay(c, candleLying, 350, 760, 0, 2.6, 95, 22);
+  shape(c, () => { c.moveTo(280, 703); c.quadraticCurveTo(350, 830, 420, 703); c.closePath(); }, "#bfa86c", 6);
+  lay(c, pebble, 830, 760, 0, 2.2, 60, 44);
+  cross(c, 830, 600, 4);
+  shape(c, () => rrect(c, 250, 20, 200, 190, 24), CLOTH.child, 6);
+  shape(c, () => rrect(c, 240, 200, 220, 170, 50), SKIN.child, 6);
+  for (let k = 0; k < 3; k++) line(c, [[270 + k * 64, 330], [270 + k * 64, 365]], 5, SKIN.childDk);
+  shape(c, () => rrect(c, 318, 340, 64, 380, 32), SKIN.child, 6);
+  shade(c, () => rrect(c, 318, 340, 64, 380, 32), SKIN.childDk, 16, 0, 0.5);
+  shape(c, () => rrect(c, 340, 660, 28, 60, 12), "#f6d9d0", 5);
+  arrow(c, [[520, 400], [520, 610]]);
 };
 
 // setup.e1.2
@@ -78,14 +85,13 @@ const e1_2 = (c: Ctx) => {
   ground(c);
   sheet(c, 70, 520, 440, 440, -0.03); sheet(c, 570, 520, 440, 440, 0.03);
   // shiny sun
-  for (let i = 0; i < 10; i++) { const a = (i * Math.PI) / 5; line(c, [[290 + Math.cos(a) * 75, 760 + Math.sin(a) * 75], [290 + Math.cos(a) * 105, 760 + Math.sin(a) * 105]], 9, COL.orange); }
-  shape(c, () => ell(c, 290, 760, 62, 62), COL.yellow, 6);
-  // dull cloud
-  shape(c, () => { c.moveTo(690, 700); c.arc(720, 670, 36, Math.PI, Math.PI * 1.9); c.arc(790, 650, 52, Math.PI * 1.1, Math.PI * 1.95); c.arc(860, 690, 38, Math.PI * 1.45, Math.PI * 0.5); c.lineTo(690, 728); c.arc(690, 714, 14, Math.PI * 0.5, Math.PI * 1.5); c.closePath(); }, COL.grey, 6);
+  star(c, 270, 810, 105);
+  // dull: the same star, crossed out
+  star(c, 790, 690, 80); cross(c, 790, 690, 4.5);
   lay(c, woodSpoon, 790, 840, 0, 1.2, 100, 20);
-  at(c, 309, 379, 0.85, 1.6, () => steelSpoon(c));
-  hand(c, 230, 290, 0.85, 1.7, SKIN.child, CLOTH.child, false);
-  arrow(c, [[520, 380], [490, 500]]);
+  at(c, 340, 520, 0.85, 1.6, () => steelSpoon(c));
+  hand(c, 260, 430, 0.85, 1.7, SKIN.child, CLOTH.child, false);
+  arrow(c, [[560, 400], [520, 540]]);
 };
 
 // ---------------------------------------------------------------- e2

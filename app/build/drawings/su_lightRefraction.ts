@@ -165,7 +165,6 @@ const drop = (c: Ctx, x: number, y: number, r: number, k: number, print: (c: Ctx
   shape(c, path, "rgba(190,225,250,0.2)", 5);
   line(c, [[x - r * 0.6, y - r * 0.4], [x - r * 0.4, y - r * 0.72]], Math.max(3, r * 0.09), "rgba(255,255,255,0.85)");
 };
-const dropPrint = (c: Ctx) => { for (let i = 0; i < 10; i++) printRow(c, -20, D + 20, 470 + i * 60, 30, 40 + i); };
 
 // ================================================================ e1 · the pencil in water
 // setup.e1.0
@@ -216,33 +215,40 @@ const e2s0 = (c: Ctx) => {
   ruler(c, 80, 500, 150, 43, 15);
   glass(c, 915, 950, 210, 360, 0.72);
 };
+// the three drops always sit on one line of print, same places on both cards: tiny, medium, big
+const DROP_X = [250, 540, 830], DROP_R = [50, 78, 115], DROP_K = [2.4, 1.9, 1.5], PIV = 800;
+// lines of small print, one line centred on PIV, only below the paper's top edge
+const printPage = (c: Ctx, top: number) => {
+  c.fillStyle = NEWS; c.fillRect(0, top, D, D - top); line(c, [[0, top], [D, top]], 6);
+  c.save(); c.beginPath(); c.rect(0, top + 3, D, D); c.clip(); dropRows(c); c.restore();
+};
+const dropRows = (c: Ctx) => { for (let k = -14; k <= 14; k++) printRow(c, -20, D + 20, PIV - 11 + k * 44, 22, 40 + k + 14); };
+const threeDrops = (c: Ctx) => { for (let i = 0; i < 3; i++) drop(c, DROP_X[i], PIV + 0.3 * DROP_R[i], DROP_R[i], DROP_K[i], dropRows, NEWS); };
 // setup.e2.1
 const e2s1 = (c: Ctx) => {
   ground(c);
-  c.fillStyle = NEWS; c.fillRect(0, 430, D, 650); line(c, [[0, 430], [D, 430]], 6);
-  for (let i = 0; i < 10; i++) printRow(c, 20, D - 20, 470 + i * 60, 30, 40 + i);
-  ruler(c, 40, 610, 190, 66, 15);
+  printPage(c, 380);
+  ruler(c, 40, 560, 120, 40, 15);
+  threeDrops(c);
   const tx = 830, hx = 830 - 58 * 1.7, hy = 260;
   arm(c, hx - 78 * 1.7, hy, -40, hy, 72 * 1.7);
-  // the straw, red and white
-  const straw = () => rrect(c, tx - 15, -20, 30, 700, 6);
+  // the straw, red and white, its open end just above the big drop with a new drop hanging from it
+  const straw = () => rrect(c, tx - 15, -20, 30, 580, 6);
   shape(c, straw, WHITE, 5);
   c.save(); c.beginPath(); straw(); c.clip();
-  for (let y = -20; y < 700; y += 64) { c.beginPath(); c.moveTo(tx - 15, y + 20); c.lineTo(tx + 15, y); c.lineTo(tx + 15, y + 22); c.lineTo(tx - 15, y + 42); c.closePath(); c.fillStyle = RED; c.fill(); }
+  for (let y = -20; y < 560; y += 64) { c.beginPath(); c.moveTo(tx - 15, y + 20); c.lineTo(tx + 15, y); c.lineTo(tx + 15, y + 22); c.lineTo(tx - 15, y + 42); c.closePath(); c.fillStyle = RED; c.fill(); }
   c.restore(); shape(c, straw, "rgba(0,0,0,0)", 5);
-  drop(c, 190, 800, 44, 2.5, dropPrint, NEWS);
-  drop(c, 450, 800, 72, 2, dropPrint, NEWS);
-  drop(c, 830, 800, 125, 1.6, dropPrint, NEWS);
+  shape(c, () => ell(c, tx, 560, 15, 6), COL.black, 4);
+  shape(c, () => { c.moveTo(tx - 10, 562); c.bezierCurveTo(tx - 10, 600, tx - 24, 625, tx, 640); c.bezierCurveTo(tx + 24, 625, tx + 10, 600, tx + 10, 562); c.closePath(); }, COL.water, 5);
+  line(c, [[tx - 4, 590], [tx - 8, 616]], 5, WHITE);
+  arrow(c, [[930, 450], [930, 650]], RED, 12);
   hand(c, hx, hy, 0, 1.7);
 };
 // setup.e2.2
 const e2s2 = (c: Ctx) => {
   ground(c);
-  c.fillStyle = NEWS; c.fillRect(0, 470, D, 610); line(c, [[0, 470], [D, 470]], 6);
-  for (let i = 0; i < 8; i++) printRow(c, 20, D - 20, 530 + i * 60, 30, 40 + i);
-  drop(c, 250, 800, 44, 2.5, dropPrint, NEWS);
-  drop(c, 540, 800, 72, 2, dropPrint, NEWS);
-  drop(c, 860, 800, 125, 1.6, dropPrint, NEWS);
+  printPage(c, 470);
+  threeDrops(c);
   // a big eye above the tiny drop, looking straight down at it
   shape(c, () => ell(c, 250, 215, 225, 165), SKIN.child);
   line(c, [[110, 95], [180, 62], [320, 62], [390, 95]], 16, CLOTH.hair);
@@ -251,7 +257,7 @@ const e2s2 = (c: Ctx) => {
   c.save(); c.beginPath(); eye(); c.clip();
   shape(c, () => ell(c, 250, 280, 78, 78), COL.brown, 6); shape(c, () => ell(c, 250, 285, 36, 36), INK, 0); shape(c, () => ell(c, 228, 262, 12, 12), WHITE, 0);
   c.restore(); shape(c, () => { c.moveTo(100, 220); c.quadraticCurveTo(250, 90, 400, 220); }, "rgba(0,0,0,0)", 8);
-  sight(c, [[250, 360], [250, 690]]);
+  sight(c, [[250, 360], [250, 750]]);
 };
 
 // ================================================================ e3 · the coin that appears
@@ -268,12 +274,15 @@ const childAtBooks = (c: Ctx, mood: "calm" | "wide") => {
 // setup.e3.0
 const e3s0 = (c: Ctx) => {
   ground(c);
-  const s = 1.9, ox = 227, oy = 520;
+  const s = 1.9, ox = 227, oy = 520, cx = ox + 62 * s, cy = oy + 106 * s;
   cup(c, ox, oy, s);
-  const an = 1.35, sh = 1.2, dir = [-Math.cos(an), Math.sin(an)], tipX = 190 * sh, wx = 372 - dir[0] * tipX, wy = 712 - dir[1] * tipX;
-  arm(c, wx - dir[0] * 78 * sh, wy - dir[1] * 78 * sh, wx - dir[0] * 78 * sh - 100, wy - dir[1] * 78 * sh - 440, 72 * sh);
-  pointHand(c, wx, wy, an, sh, true);
-  arrow(c, [[560, 570], [500, 700]], RED, 12);
+  // dough squeezed out round the coin where it is pressed down
+  for (const d of [-1, 1]) shape(c, () => ell(c, cx + d * 70 * s * 0.62, cy + 12 * s, 16 * s, 8 * s), "#efe2c4", 4);
+  // a flat hand pressing down on the coin, fingers straight; the arm comes from above
+  const sh = 1.6, an = PI / 2, wy = cy - 13 * s - 98 * sh;
+  arm(c, cx, wy - 78 * sh, cx, -40, 72 * sh);
+  hand(c, cx, wy, an, sh, SKIN.child, CLOTH.child, true);
+  arrow(c, [[640, 470], [520, 690]], RED, 12);
 };
 // setup.e3.1
 const e3s1 = (c: Ctx) => {

@@ -30,9 +30,17 @@ const tulsi = (c: Ctx, x: number, y: number, s: number, rot: number) => {
 const bead = (c: Ctx, x: number, y: number, rx: number, h: number) => {
   shadow(c, x + rx * 0.35, y + 4, rx * 1.05, 8);
   const body = () => { c.moveTo(x - rx, y); c.bezierCurveTo(x - rx * 1.05, y - h * 1.3, x + rx * 1.05, y - h * 1.3, x + rx, y); c.closePath(); };
-  shape(c, body, COL.drop, 5);
-  shade(c, body, COL.water, rx * 0.35, -h * 0.05, 0.7);
+  shape(c, body, COL.water, 5);
+  shade(c, body, COL.waterDk, rx * 0.35, -h * 0.05, 0.7);
   shine(c, [[x - rx * 0.55, y - h * 0.55], [x - rx * 0.3, y - h * 0.85]], Math.max(6, rx * 0.12));
+};
+
+// a round ball of water resting on a surface: bottom centre (x, y), radius r
+const ballDrop = (c: Ctx, x: number, y: number, r: number) => {
+  shadow(c, x + r * 0.35, y + 4, r * 1.05, 8);
+  shape(c, () => ell(c, x, y - r, r, r), COL.water, 5);
+  shade(c, () => ell(c, x, y - r, r, r), COL.waterDk, r * 0.3, r * 0.3, 0.7);
+  shine(c, [[x - r * 0.55, y - r * 1.2], [x - r * 0.3, y - r * 1.6]], Math.max(6, r * 0.12));
 };
 
 // dough shapes (atta): pancake, ball, cone. (x, y) is where each rests on the plate (bottom centre)
@@ -97,25 +105,30 @@ const e1_0 = (c: Ctx) => {
 // setup.e1.1
 const e1_1 = (c: Ctx) => {
   ground(c, TABLE);
-  const ty = 800;
+  const ty = 840;
   c.fillStyle = "#d9c39c"; c.fillRect(0, ty, D, D - ty);
   line(c, [[0, ty], [D, ty]], 6);
-  const xs = [180, 540, 900];
-  for (const x of xs) shadow(c, x + 40, ty + 14, 150, 14);
-  // chembu leaf, side on: a green slab with a bead of water
-  const leafP = () => { c.moveTo(40, ty); c.lineTo(40, ty - 22); c.quadraticCurveTo(180, ty - 50, 320, ty - 22); c.lineTo(320, ty); c.closePath(); };
+  for (const x of [200, 540, 900]) shadow(c, x + 40, ty + 14, 150, 14);
+  // chembu leaf, side on: a green slab with its stalk, and a round ball of water on it
+  const leafP = () => { c.moveTo(70, ty); c.lineTo(70, ty - 26); c.quadraticCurveTo(200, ty - 56, 330, ty - 26); c.lineTo(330, ty); c.closePath(); };
+  shape(c, () => rrect(c, 8, ty - 20, 70, 14, 6), COL.greenDk, 5);
   shape(c, leafP, COL.leaf, 6); shade(c, leafP, COL.leafDk, 0, 10, 0.5);
-  bead(c, 180, ty - 36, 90, 150);
-  // steel plate slab with a low dome
-  const stP = () => rrect(c, 395, ty - 34, 290, 34, 10);
+  ballDrop(c, 200, ty - 41, 62);
+  // steel plate slab with a low dome of water
+  const stP = () => rrect(c, 395, ty - 30, 290, 30, 10);
   shape(c, stP, COL.steel, 6); shade(c, stP, COL.steelDk, 0, 12, 0.5);
-  const dome = () => { c.moveTo(430, ty - 34); c.bezierCurveTo(450, ty - 140, 630, ty - 140, 650, ty - 34); c.closePath(); };
-  shape(c, dome, COL.drop, 5); shade(c, dome, COL.water, 26, -4, 0.7);
-  shine(c, [[468, ty - 70], [490, ty - 95]], 10);
-  // paper slab with a soaked flat patch
-  shape(c, () => rrect(c, 760, ty - 14, 290, 14, 3), WHITE, 6);
-  shape(c, () => rrect(c, 820, ty - 14, 160, 14, 3), COL.waterDk, 0);
-  shape(c, () => ell(c, 900, ty - 18, 82, 10), COL.drop, 5);
+  bead(c, 540, ty - 30, 110, 58);
+  // paper slab with a flat wet patch
+  shape(c, () => rrect(c, 760, ty - 12, 290, 12, 3), WHITE, 6);
+  shape(c, () => ell(c, 905, ty - 13, 112, 7), COL.waterDk, 4);
+  // the dropper squeezed by a hand, a drop falling onto the leaf
+  shape(c, () => ell(c, 200, 215, 38, 62), COL.purple, 5);
+  shape(c, () => rrect(c, 185, 270, 30, 230, 12), COL.glass, 5);
+  shape(c, () => rrect(c, 190, 390, 20, 110, 8), COL.water, 0);
+  shape(c, () => polyP(c, [[186, 495], [214, 495], [207, 555], [193, 555]]), COL.glass, 5);
+  shape(c, () => { c.moveTo(200, 575); c.quadraticCurveTo(222, 612, 200, 622); c.quadraticCurveTo(178, 612, 200, 575); }, COL.water, 5);
+  hand(c, 200, 130, Math.PI / 2, 1.6);
+  arrow(c, [[300, 540], [300, 640]]);
 };
 
 // setup.e1.2
@@ -129,19 +142,19 @@ const e1_2 = (c: Ctx) => {
   shade(c, () => rrect(c, -380, -240, 740, 500, 14), COL.tealDk, 16, 16, 0.5);
   shape(c, () => rrect(c, -366, 252, 712, 54, 6), WHITE, 5);
   for (const k of [270, 286, 300]) line(c, [[-350, k], [330, k]], 2.5, COL.grey);
-  // the chembu leaf with chalk dust everywhere except the clean stripe the drop has left behind it
+  // the chembu leaf with yellow haldi dust everywhere except the clean stripe the drop has left behind it
   // (dust is drawn in the heart's own frame: tip towards +y, the drop sits 55 along)
   const dust = (cc: Ctx) => {
     const r = rnd(5);
-    for (let i = 0; i < 900; i++) {
+    for (let i = 0; i < 2600; i++) {
       const px = -150 + r() * 300, py = -130 + r() * 295;
-      if (Math.abs(px) < 32 && py < 62) continue;
-      cc.beginPath(); ell(cc, px, py, 2.6 + r() * 2.4, 2 + r() * 1.8); cc.fillStyle = r() < 0.6 ? WHITE : "#e4e2dc"; cc.fill();
+      if (Math.abs(px) < 40 && py < 62) continue;
+      cc.beginPath(); ell(cc, px, py, 2.4 + r() * 2.2, 2 + r() * 1.6); cc.fillStyle = r() < 0.6 ? "#f2c230" : "#d9a21c"; cc.fill();
     }
   };
   chembu(c, 10, 0, 1.8, 0, dust);
   // the drop, rolling on down its stripe
-  bead(c, 10 + 55 * 1.8, 38, 46, 80);
+  ballDrop(c, 10 + 55 * 1.8, 80, 40);
   arrow(c, [[-50, 135], [150, 135]], "#d7372b", 12);
   c.restore();
 };
@@ -279,24 +292,26 @@ const ice = (c: Ctx, x: number, y: number, s: number) => {
 const e3_1 = (c: Ctx) => {
   ground(c, COL.sky);
   // the sun with rays
-  c.beginPath(); ell(c, 150, 130, 80, 80); c.fillStyle = COL.yellow; c.fill(); c.lineWidth = 6; c.strokeStyle = INK; c.stroke();
-  for (let k = 0; k < 12; k++) { const a = (k / 12) * Math.PI * 2; line(c, [[150 + Math.cos(a) * 105, 130 + Math.sin(a) * 105], [150 + Math.cos(a) * 150, 130 + Math.sin(a) * 150]], 9, COL.orange); }
+  c.beginPath(); ell(c, 900, 130, 80, 80); c.fillStyle = COL.yellow; c.fill(); c.lineWidth = 6; c.strokeStyle = INK; c.stroke();
+  for (let k = 0; k < 12; k++) { const a = (k / 12) * Math.PI * 2; line(c, [[900 + Math.cos(a) * 105, 130 + Math.sin(a) * 105], [900 + Math.cos(a) * 150, 130 + Math.sin(a) * 150]], 9, COL.orange); }
   // the terrace floor with tile lines
   c.fillStyle = "#e3b48b"; c.fillRect(0, 690, D, D - 690); line(c, [[0, 690], [D, 690]], 6);
   for (let x = -80; x < D + 200; x += 170) line(c, [[x + 60, 690], [x - 60, D]], 3, "#c18f66");
   line(c, [[0, 850], [D, 850]], 3, "#c18f66");
   const cx = [330, 610, 890], yb = 850, w = 210, h = 270;
-  const first = cup(c, cx[0], yb, w, h, 0);
-  // ice cube in the first cup, its lip drawn over the cube's foot
-  ice(c, cx[0] + 4, first.yt - 8, 96);
-  const lip = () => { c.moveTo(cx[0] - w / 2, first.yt); c.ellipse(cx[0], first.yt, w / 2, first.ry, 0, 0, Math.PI); c.lineTo(cx[0] + w * 0.5 - 8, first.yt + 20); c.ellipse(cx[0], first.yt + 20, w / 2 - 8, first.ry, 0, Math.PI, 0, true); c.closePath(); };
-  shape(c, lip, WHITE, 5);
-  cup(c, cx[1], yb, w, h, 1); cup(c, cx[2], yb, w, h, 2);
-  lid(c, cx[1], 560 + 0, 112, 0); lid(c, cx[2], 560, 112, 0);
-  // lift the lid off the first cup with a hand
-  lid(c, cx[0], 400, 112, -0.12);
-  hand(c, 150, 400, 0, 1.7, SKIN.child, CLOTH.child);
-  arrow(c, [[cx[0] + 150, 450], [cx[0] + 150, 330]]);
+  // an ice cube sits in the second and third cups, sunk below the front rim
+  cup(c, cx[0], yb, w, h, 0);
+  for (const k of [1, 2]) {
+    const q = cup(c, cx[k], yb, w, h, k);
+    c.save(); c.beginPath(); c.rect(0, 0, D, q.yt); c.ellipse(cx[k], q.yt, w / 2 - 6, q.ry, 0, 0, Math.PI); c.clip();
+    ice(c, cx[k], q.yt - 14, 100);
+    c.restore();
+    c.beginPath(); c.ellipse(cx[k], q.yt, w / 2, q.ry, 0, 0, Math.PI); c.lineWidth = 6; c.strokeStyle = INK; c.stroke();
+  }
+  // a hand drops an ice cube into the first, empty cup
+  ice(c, cx[0] + 4, 345, 80);
+  hand(c, cx[0], 190, Math.PI / 2, 1.7, SKIN.child, CLOTH.child);
+  arrow(c, [[cx[0] + 140, 340], [cx[0] + 140, 480]]);
 };
 
 // a clock face, centre (x, y), radius r, minute hand at the 2 (ten minutes past)

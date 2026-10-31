@@ -109,7 +109,8 @@ const su_e1_2 = (c: Ctx) => {
 };
 
 // the pupil card: black circles 2 to 8 mm on a paper strip
-const pupilCard = (c: Ctx, x0: number, y0: number, w: number, h: number, mmPx: number, labels: boolean) => {
+const pupilCard = (c: Ctx, x0: number, y0: number, w: number, h: number, mmPx: number, labels: boolean): number[] => {
+  const centres: number[] = [];
   shape(c, () => rrect(c, x0 + 10, y0 + 14, w, h, 18), "rgba(43,35,64,0.16)", 0);
   shape(c, () => rrect(c, x0, y0, w, h, 18), COL.paper);
   const gap = (w - 35 * mmPx) / 8; let x = x0 + gap;
@@ -117,8 +118,10 @@ const pupilCard = (c: Ctx, x0: number, y0: number, w: number, h: number, mmPx: n
     const d = mm * mmPx; x += d / 2;
     shape(c, () => ell(c, x, y0 + h * (labels ? 0.42 : 0.5), d / 2, d / 2), DARK, 4);
     if (labels) write(c, `${mm}mm`, x - 30, y0 + h * 0.74, 30, INK, 5);
+    centres.push(x);
     x += d / 2 + gap;
   }
+  return centres;
 };
 
 // setup.e2.0
@@ -167,21 +170,21 @@ const kidFace = (c: Ctx, cx: number, cy: number, pupil: number, look: [number, n
 // setup.e2.1
 const su_e2_1 = (c: Ctx) => {
   c.fillStyle = "#2a2848"; c.fillRect(0, 0, 1080, 1080);
-  kidFace(c, 680, 390, 31);
+  kidFace(c, 680, 390, 33);
   c.fillStyle = "rgba(20,20,60,0.3)"; c.fillRect(0, 0, 1080, 1080);
-  // the grown-up's hand holds the card under the eye: the matching circle sits under the left eye
-  arm(c, 150, 515, -1, 0);
-  pupilCard(c, 232, 470, 654, 90, 10, false);
-  hand(c, 150, 515, 0, 1.4, SKIN.adult, CLOTH.adult);
-  arrow(c, [[772, 415], [772, 462]], RED, 9);
+  // the grown-up's hand holds the card right under the left eye; the circle that matches the pupil is ringed
+  arm(c, 150, 480, -1, 0);
+  const x0 = 267, mm = 11;
+  const dots = pupilCard(c, x0, 410, 600, 140, mm, false);
+  c.beginPath(); ell(c, dots[4], 480, 6 * mm / 2 + 16, 6 * mm / 2 + 16); c.strokeStyle = RED; c.lineWidth = 10; c.stroke();
+  hand(c, 150, 480, 0, 1.4, SKIN.adult, CLOTH.adult);
 };
 
 // setup.e2.2
 const su_e2_2 = (c: Ctx) => {
   c.fillStyle = "#fff0b8"; c.fillRect(0, 0, 1080, 1080);
   c.beginPath(); ell(c, 940, 390, 150, 190); c.fillStyle = "rgba(255,230,120,0.35)"; c.fill();
-  kidFace(c, 560, 400, 11, [-8, 6]);
-  // the lamp beside them, on, with rays
+  // the lamp beside, on, rays towards the wall
   shadow(c, 1000, 905, 80, 16);
   shape(c, () => ell(c, 990, 880, 70, 20), COL.tealDk);
   shape(c, () => rrect(c, 980, 500, 22, 380, 8), COL.teal);
@@ -189,19 +192,20 @@ const su_e2_2 = (c: Ctx) => {
   shade(c, () => polyP(c, [[1050, 300], [1050, 470], [930, 520], [930, 250]]), COL.tealDk, -14, -10, 0.55);
   shape(c, () => ell(c, 930, 385, 24, 135), COL.yellow);
   for (const y of [300, 385, 470]) line(c, [[900, y], [858, y]], 8, COL.orange);
-  // the hand mirror at the lower left, the small pupil in it
-  line(c, [[190, 820], [190, 900]], 40, INK); line(c, [[190, 820], [190, 900]], 26, COL.steel);
-  shape(c, () => ell(c, 190, 700, 140, 140), COL.steel);
-  shape(c, () => ell(c, 190, 700, 112, 112), COL.sky, 5);
-  c.save(); c.beginPath(); ell(c, 190, 700, 112, 112); c.clip();
-  const lid = () => { c.moveTo(120, 705); c.quadraticCurveTo(190, 630, 260, 705); c.quadraticCurveTo(190, 780, 120, 705); c.closePath(); };
-  shape(c, lid, WHITE, 5);
-  c.save(); c.beginPath(); lid(); c.clip(); shape(c, () => ell(c, 190, 705, 36, 36), COL.soil, 0); shape(c, () => ell(c, 190, 705, 11, 11), DARK, 0); c.restore();
-  shape(c, lid, "rgba(0,0,0,0)", 5);
-  shine(c, [[110, 640], [150, 612]], 9);
+  // the hand mirror held up, the child's own face in it with small pupils
+  const MX = 420, MY = 400, mrx = 270, mry = 310;
+  line(c, [[MX, MY + mry - 10], [MX, 880]], 54, INK); line(c, [[MX, MY + mry - 10], [MX, 880]], 40, COL.steel);
+  shape(c, () => ell(c, MX, MY, mrx, mry), COL.teal, 8);
+  shape(c, () => ell(c, MX, MY, mrx - 28, mry - 28), COL.sky, 6);
+  c.save(); c.beginPath(); ell(c, MX, MY, mrx - 28, mry - 28); c.clip();
+  c.translate(MX, MY + 40); c.scale(0.8, 0.8); kidFace(c, 0, 0, 9, [0, 4]);
   c.restore();
-  arm(c, 190, 970, 0, 1, CLOTH.child);
-  hand(c, 190, 970, -Math.PI / 2, 1.25);
+  c.save(); c.beginPath(); ell(c, MX, MY, mrx - 28, mry - 28); c.clip();
+  line(c, [[MX - 190, MY - 150], [MX - 60, MY - 270]], 22, "rgba(255,255,255,0.45)"); line(c, [[MX - 215, MY - 70], [MX - 150, MY - 140]], 12, "rgba(255,255,255,0.45)");
+  c.restore();
+  shape(c, () => ell(c, MX, MY, mrx - 28, mry - 28), "rgba(0,0,0,0)", 6);
+  arm(c, MX, 960, 0, 1, CLOTH.child);
+  hand(c, MX, 960, -Math.PI / 2, 1.5);
 };
 
 // ------------------------------------------------------------- the dark room with the toy elephant
@@ -277,9 +281,9 @@ const su_e3_1 = (c: Ctx) => {
   beam(c, [LENS, ray(AN + HALF), ray(AN - HALF)]);
   elephant(c, true);
   torchAndHand(c);
-  arm(c, 793, 495, 0, -1);
-  sheet(c, [760, 590], [760, 820], [80, -40]);
-  hand(c, 793, 495, Math.PI / 2, 1.2, SKIN.adult, CLOTH.adult);
+  arm(c, 790, 440, 0, -1);
+  sheet(c, [730, 540], [730, 860], [130, -25]);
+  hand(c, 790, 440, Math.PI / 2, 1.3, SKIN.adult, CLOTH.adult);
 };
 
 // setup.e3.2

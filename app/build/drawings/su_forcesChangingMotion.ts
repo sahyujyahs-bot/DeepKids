@@ -63,16 +63,19 @@ const item = (c: Ctx, kind: Kind, x: number, y: number, s: number) => {
     shadow(c, 12, 4, 108, 24); shape(c, p, "#f1dcae"); sh(c, p, "#c9ad74", 14, 0.55); shape(c, p, "rgba(0,0,0,0)", 6);
     if (sq) shape(c, () => ell(c, 0, -22, 62, 12), "#e0c78e", 3); else { shape(c, () => ell(c, -14, -62, 16, 10), "#d9bf86", 3); }
   } else if (kind === "raw" || kind === "rawCracked") {
-    shadow(c, 12, 4, 100, 24);
-    puck(c, 88, 34, 10, "#b07b45", "#8a5a2c");
-    shape(c, () => ell(c, 0, -10, 78, 28), "#f3ecc9", 0);
-    c.save(); c.beginPath(); ell(c, 0, -10, 52, 17); c.strokeStyle = "#e0d6a4"; c.lineWidth = 3; c.stroke(); c.restore();
-    if (kind === "rawCracked") line(c, [[-40, -24], [-14, -12], [-26, 0], [10, 8], [0, 18]], 5);
+    shadow(c, 12, 4, 104, 26);
+    puck(c, 92, 36, 24, "#b07b45", "#8a5a2c");
+    shape(c, () => ell(c, 0, -24, 80, 28), "#f3ecc9", 0);
+    c.save(); c.beginPath(); ell(c, 0, -24, 52, 17); c.strokeStyle = "#e0d6a4"; c.lineWidth = 3; c.stroke(); c.restore();
+    for (const [dx, dy] of [[-30, -28], [24, -20], [4, -34], [-8, -16]]) shape(c, () => ell(c, dx, dy, 4, 2.5), "#d8cc9a", 0);
+    if (kind === "rawCracked") line(c, [[-44, -40], [-16, -26], [-30, -14], [10, -8], [0, 2]], 5);
   } else if (kind === "boiled" || kind === "boiledSquashed") {
     const sq = kind === "boiledSquashed";
     const p = () => { if (sq) { c.moveTo(-100, -2); c.bezierCurveTo(-108, -34, -50, -44, 0, -42); c.bezierCurveTo(60, -44, 108, -34, 100, -2); c.bezierCurveTo(50, 10, -50, 10, -100, -2); } else { c.moveTo(-78, -4); c.bezierCurveTo(-94, -50, -50, -92, 4, -90); c.bezierCurveTo(60, -92, 96, -50, 74, -4); c.bezierCurveTo(30, 8, -40, 6, -78, -4); } c.closePath(); };
-    shadow(c, 12, 4, 108, 24); shape(c, p, "#f0d58a"); sh(c, p, "#c9a45a", 14, 0.5); shape(c, p, "rgba(0,0,0,0)", 6);
-    shape(c, () => ell(c, -30, sq ? -22 : -52, 14, 8), "#caa05e", 3); shape(c, () => ell(c, 34, sq ? -18 : -40, 10, 6), "#caa05e", 3);
+    shadow(c, 12, 4, 108, 24); shape(c, p, "#e2bd6e"); sh(c, p, "#b8903f", 14, 0.5); shape(c, p, "rgba(0,0,0,0)", 6);
+    shape(c, () => ell(c, -26, sq ? -24 : -50, sq ? 46 : 34, sq ? 12 : 24, sq ? 0 : -0.3), "#f7e9a8", 4);
+    shape(c, () => ell(c, 40, sq ? -18 : -36, 6, 4), "#8a6a30", 0); shape(c, () => ell(c, 58, sq ? -14 : -24, 5, 3.5), "#8a6a30", 0);
+    if (!sq) for (const sx of [-6, 34]) line(c, [[sx, -108], [sx + 10, -122], [sx, -136], [sx + 10, -150]], 6, COL.grey);
   } else if (kind === "sponge") {
     shadow(c, 14, 4, 112, 24);
     const front = () => rrect(c, -80, -64, 150, 64, 8);
@@ -82,9 +85,11 @@ const item = (c: Ctx, kind: Kind, x: number, y: number, s: number) => {
     shape(c, () => { c.moveTo(-80, -16); c.lineTo(70, -16); c.lineTo(70, -8); c.arcTo(70, 0, 62, 0, 8); c.lineTo(-72, 0); c.arcTo(-80, 0, -80, -8, 8); c.closePath(); }, COL.green, 5);
     for (const [dx, dy, r] of [[-50, -44, 7], [-10, -36, 9], [30, -46, 6], [50, -30, 8], [-30, -26, 5], [10, -52, 5]]) shape(c, () => ell(c, dx, dy, r, r * 0.7), "#c9a02c", 3);
   } else {
-    const p = () => { c.moveTo(-72, -4); c.bezierCurveTo(-90, -40, -52, -80, -4, -78); c.bezierCurveTo(46, -84, 88, -46, 74, -6); c.bezierCurveTo(30, 8, -40, 6, -72, -4); c.closePath(); };
-    shadow(c, 12, 4, 96, 22); shape(c, p, COL.grey); sh(c, p, COL.greyDk, 14, 0.6); shape(c, p, "rgba(0,0,0,0)", 6);
-    for (const [dx, dy] of [[-30, -42], [20, -26], [36, -56], [-8, -62]]) shape(c, () => ell(c, dx, dy, 5, 3.5), COL.greyDk, 0);
+    const p = () => polyP(c, [[-76, -4], [-86, -34], [-52, -72], [0, -86], [52, -68], [84, -32], [74, -4], [20, 6], [-40, 4]]);
+    shadow(c, 12, 4, 100, 22); shape(c, p, COL.grey); sh(c, p, COL.greyDk, 14, 0.6);
+    shape(c, () => polyP(c, [[-52, -72], [0, -86], [-8, -40], [-60, -34]]), "#d6d1c8", 0);
+    line(c, [[-8, -40], [34, -30], [74, -4]], 4, INK); line(c, [[-8, -40], [-60, -34], [-86, -34]], 4, INK); line(c, [[-8, -40], [0, -86]], 4, INK);
+    shape(c, p, "rgba(0,0,0,0)", 6);
   }
   c.restore();
 };
@@ -126,7 +131,7 @@ const e1_1 = (c: Ctx) => {
   shape(c, () => rrect(c, x0 + w, y0 - 600, 16, 600, 3), COL.woodDk, 6);
   shape(c, () => rrect(c, x0, y0 - 600, w, 600, 3), COL.wood, 6);
   for (let cm = 0; cm <= 12; cm++) { const y = y0 - cm * per, l = cm % 5 === 0 ? 46 : 28; line(c, [[x0 + w, y], [x0 + w - l, y]], cm % 5 === 0 ? 5 : 3.5); }
-  write(c, "5", x0 + 20, y0 - 5 * per - 20, 34); write(c, "10", x0 + 14, y0 - 10 * per - 36, 34);
+  write(c, "5", x0 + 20, y0 - 5 * per - 20, 34); write(c, "10 cm", x0 + 6, y0 - 10 * per - 46, 28);
   const markY = y0 - 10 * per, r = 78, bx = 620;
   line(c, [[x0 + w, markY], [bx + r, markY]], 5, RED);
   clayBall(c, bx, markY - r, r);
@@ -137,22 +142,16 @@ const e1_1 = (c: Ctx) => {
 // setup.e1.2
 const e1_2 = (c: Ctx) => {
   ground(c);
-  // the clay ball on its side: the flat patch faces us
-  shadow(c, 520, 860, 300, 40);
-  shape(c, () => ell(c, 500, 520, 300, 300), CLAY, 6);
-  sh(c, () => ell(c, 500, 520, 300, 300), CLAYDK, 40, 0.55);
-  shape(c, () => ell(c, 500, 520, 300, 300), "rgba(0,0,0,0)", 6);
-  shape(c, () => ell(c, 500, 500, 120, 150), "#dfa078", 6);
-  sh(c, () => ell(c, 500, 500, 120, 150), "#c88862", 10, 0.5);
-  shape(c, () => ell(c, 500, 500, 120, 150), "rgba(0,0,0,0)", 6);
-  // the ruler lies across the patch, 0 at its left edge
-  const rx0 = 380, rt = 560;
-  shadow(c, 620, rt + 100, 330, 18);
-  shape(c, () => rrect(c, rx0 - 50, rt, 520, 90, 6), COL.wood, 6);
-  for (let cm = 0; cm <= 7; cm++) { const x = rx0 + cm * 60; line(c, [[x, rt], [x, rt + (cm % 5 === 0 ? 42 : 30)]], 4); write(c, String(cm), x - 10, rt + 46, 30, INK, 5); }
-  line(c, [[rx0, 320], [rx0, rt + 90]], 5, RED); line(c, [[rx0 + 240, 320], [rx0 + 240, rt + 90]], 5, RED);
-  arrow(c, [[rx0 + 120, 300], [rx0 + 4, 300]], RED, 8); arrow(c, [[rx0 + 120, 300], [rx0 + 236, 300]], RED, 8);
-  handArm(c, 950, rt + 45, 0, 1.4, "R", false, 300);
+  // the squashed ball sits on the plate: its flat bottom is the patch, the ruler lies along it, 0 at the left edge (120 px to the cm)
+  plate(c, 540, 745, 500, 130);
+  clayDome(c, 500, 700, 480, 320);
+  const rx0 = 260, rt = 730;
+  shadow(c, 560, rt + 100, 360, 16);
+  shape(c, () => rrect(c, rx0 - 50, rt, 620, 90, 6), COL.wood, 6);
+  for (let k = 0; k <= 8; k++) { const x = rx0 + k * 60, whole = k % 2 === 0; line(c, [[x, rt], [x, rt + (whole ? 42 : 28)]], 4); if (whole) write(c, String(k / 2), x - 10, rt + 46, 30, INK, 5); }
+  line(c, [[rx0, 330], [rx0, rt + 90]], 5, RED); line(c, [[rx0 + 480, 330], [rx0 + 480, rt + 90]], 5, RED);
+  arrow(c, [[rx0 + 240, 330], [rx0 + 6, 330]], RED, 9); arrow(c, [[rx0 + 240, 330], [rx0 + 474, 330]], RED, 9);
+  handArm(c, 930, rt + 45, 0, 1.4, "R", false, 300);
 };
 
 // setup.e1.3
@@ -221,28 +220,28 @@ const e2_2 = (c: Ctx) => {
 // setup.e3.0
 const e3_0 = (c: Ctx) => {
   ground(c);
-  const rimY = 540, wl = 720, bx = 520, br = 115, by = wl;
+  const rimY = 600, wl = 740, bx = 540, br = 105;
   // the steel bowl in cross-section, water inside up to wl
-  shadow(c, 560, 925, 420, 36);
-  const outer = () => { c.moveTo(110, rimY); c.lineTo(970, rimY); c.bezierCurveTo(960, 890, 740, 920, 540, 920); c.bezierCurveTo(340, 920, 120, 890, 110, rimY); c.closePath(); };
+  shadow(c, 560, 940, 400, 34);
+  const outer = () => { c.moveTo(130, rimY); c.lineTo(950, rimY); c.bezierCurveTo(940, 905, 740, 930, 540, 930); c.bezierCurveTo(340, 930, 140, 905, 130, rimY); c.closePath(); };
   shape(c, outer, COL.steel, 6); sh(c, outer, COL.steelDk, 40, 0.6); shape(c, outer, "rgba(0,0,0,0)", 6);
-  const inner = () => { c.moveTo(150, rimY + 18); c.lineTo(930, rimY + 18); c.bezierCurveTo(920, 860, 730, 888, 540, 888); c.bezierCurveTo(350, 888, 160, 860, 150, rimY + 18); c.closePath(); };
+  const inner = () => { c.moveTo(170, rimY + 18); c.lineTo(910, rimY + 18); c.bezierCurveTo(900, 870, 730, 898, 540, 898); c.bezierCurveTo(350, 898, 180, 870, 170, rimY + 18); c.closePath(); };
   shape(c, inner, COL.steelIn, 5);
   // the ball, dipped halfway
-  shape(c, () => ell(c, bx, by, br, br), COL.blue, 6);
-  sh(c, () => ell(c, bx, by, br, br), COL.blueDk, 26, 0.6);
-  line(c, [[bx - br * 0.95, by - br * 0.7], [bx - br * 0.4, by - br * 0.6], [bx + br * 0.4, by - br * 0.6], [bx + br * 0.95, by - br * 0.7]], 5, WHITE);
-  shape(c, () => ell(c, bx, by, br, br), "rgba(0,0,0,0)", 6);
-  shine(c, [[bx - br * 0.6, by - br * 0.55], [bx - br * 0.4, by - br * 0.85]], 8);
-  // the water, drawn over the lower half of the ball
+  shape(c, () => ell(c, bx, wl, br, br), COL.blue, 6);
+  sh(c, () => ell(c, bx, wl, br, br), COL.blueDk, 24, 0.6);
+  line(c, [[bx - br * 0.95, wl - br * 0.4], [bx - br * 0.4, wl - br * 0.3], [bx + br * 0.4, wl - br * 0.3], [bx + br * 0.95, wl - br * 0.4]], 5, WHITE);
+  shine(c, [[bx - br * 0.6, wl - br * 0.55], [bx - br * 0.4, wl - br * 0.85]], 8);
+  // the water, over the lower half of the ball: that half is wet
   c.save(); c.beginPath(); inner(); c.clip();
-  c.fillStyle = "rgba(143,195,234,0.72)"; c.fillRect(0, wl, D, 400);
+  c.fillStyle = "rgba(143,195,234,0.7)"; c.fillRect(0, wl, D, 400);
   c.restore();
-  line(c, [[150, wl], [bx - br - 8, wl]], 5, COL.waterDk); line(c, [[bx + br + 8, wl], [930, wl]], 5, COL.waterDk);
-  line(c, [[bx - br - 40, wl + 22], [bx + br + 40, wl + 22]], 4, WHITE);
-  shape(c, () => ell(c, bx, by, br, br), "rgba(0,0,0,0)", 6);
-  handArm(c, 640, 640, 2.25, 1.9, "L", false, 700);
-  arrow(c, [[330, 560], [330, 680]], RED, 12);
+  line(c, [[170, wl], [bx - br - 6, wl]], 5, COL.waterDk); line(c, [[bx + br + 6, wl], [910, wl]], 5, COL.waterDk);
+  line(c, [[bx - br - 50, wl + 20], [bx - br - 14, wl + 20]], 4, WHITE); line(c, [[bx + br + 14, wl + 20], [bx + br + 50, wl + 20]], 4, WHITE);
+  shape(c, () => ell(c, bx, wl, br, br), "rgba(0,0,0,0)", 6);
+  // a hand holds the ball from above and lowers it
+  handArm(c, bx, 548, Math.PI / 2, 2, "L", false, 700);
+  arrow(c, [[800, 580], [800, 690]], RED, 12);
 };
 
 // setup.e3.1

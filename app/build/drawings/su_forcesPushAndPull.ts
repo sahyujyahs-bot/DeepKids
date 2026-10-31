@@ -117,9 +117,13 @@ const sitter = (c: Ctx, hx: number, fy: number, straight: boolean) => {
 
 // setup.e1.1.1
 const e1_1 = (c: Ctx) => e1Scene(c, (fy) => {
-  line(c, [[350, fy + 14], [350, fy + 96]], 16, WHITE); line(c, [[350, fy + 14], [350, fy + 96]], 6, "#d9d2c0");
-  sitter(c, 400, fy, true);
-  arrow(c, [[325, fy + 150], [215, fy + 150]], RED, 13);
+  // where the towel started: dashed ghost and a chalk mark on the floor at its back edge
+  c.save(); c.setLineDash([16, 12]); c.beginPath(); rrect(c, 330, fy - 34, 270, 34, 8); c.lineWidth = 5; c.strokeStyle = INK; c.stroke(); c.restore();
+  line(c, [[330, fy + 14], [330, fy + 96]], 16, WHITE); line(c, [[330, fy + 14], [330, fy + 96]], 6, "#d9d2c0");
+  sitter(c, 345, fy, true);
+  // the push on the wall, and the slide away from it
+  arrow(c, [[670, fy - 110], [785, fy - 110]], RED, 13);
+  arrow(c, [[300, fy + 150], [190, fy + 150]], RED, 13);
 });
 
 // setup.e1.2.2

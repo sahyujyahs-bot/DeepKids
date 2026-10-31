@@ -108,7 +108,7 @@ const s_e4_2 = (c: Ctx) => zoomed(c, 1.25, 495, () => {
   cushion(c, cx);
   arrow(c, [[540, 512], [740, 512]]);
   for (const sx of [-1, 1]) line(c, [[cx + sx * 80, 700], [cx + sx * 80, 735]], 5);
-  handW(c, 520, 880, -0.55, 1.4, { open: true });
+  for (const y of [560, 576, 592]) line(c, [[385, y], [440, y]], 5);
 });
 
 // setup.e4.3
@@ -151,12 +151,17 @@ const s_e1_0 = (c: Ctx) => {
 // setup.e1.1
 const s_e1_1 = (c: Ctx) => {
   ground(c);
-  const dx = 70, dw = 430, dt = 280, dh = 480;
-  shadow(c, dx + dw / 2 + 14, dt + dh + 10, dw / 2, 20);
+  const dx = 70, dw = 430, dt = 190, dh = 600, hy = 490, hx = 285;
+  shadow(c, dx + dw / 2 + 14, dt + dh + 60, dw / 2, 20);
+  for (const lx of [dx + 20, dx + dw - 70]) shape(c, () => rrect(c, lx, dt + dh - 10, 50, 70, 6), COL.brown);
   shape(c, () => rrect(c, dx, dt, dw, dh, 12), COL.wood);
   shade(c, () => rrect(c, dx, dt, dw, dh, 12), COL.woodDk, 20, 20, 0.5);
-  shape(c, () => rrect(c, dx + 30, dt + 30, dw - 60, dh - 60, 8), COL.woodDk, 4);
-  const hy = 520, hx = 285;
+  for (let i = 0; i < 3; i++) {
+    const ty = dt + 24 + i * 190;
+    shape(c, () => rrect(c, dx + 28, ty, dw - 56, 166, 8), COL.wood, 5);
+    shape(c, () => rrect(c, dx + 44, ty + 16, dw - 88, 134, 6), COL.woodDk, 3);
+    if (i !== 1) shape(c, () => rrect(c, hx - 30, ty + 70, 60, 14, 7), COL.steelDk, 4);
+  }
   for (const sx of [-60, 60]) shape(c, () => rrect(c, hx + sx - 9, hy - 6, 18, 40, 4), COL.steelDk, 4);
   shape(c, () => rrect(c, hx - 90, hy - 18, 180, 28, 14), COL.steel);
   shine(c, hx - 70, hy - 11);
@@ -313,22 +318,21 @@ const s_e2_3 = (c: Ctx) => {
 const s_e3_2 = (c: Ctx) => {
   room(c, 960);
   const x = 540, y = 960, h = 700, sxL = x - h * 0.11, sxR = x + h * 0.11, sy = y - h * 0.74 + h * 0.03;
-  const tl = [262, 560], tr = [818, 560];
+  const tl = [300, 500], tr = [780, 500];
   const al = reach2(sxL, sy, tl, h, 1), ar = reach2(sxR, sy, tr, h, -1);
   shadow(c, x + 20, y + 8, 130, 12);
   person(c, x, y, h, { adult: true, armL: al, armR: ar });
-  const fist = (t: number[], a: number) => { handW(c, t[0], t[1], a, 0.85, { skin: SKIN.adult, sleeve: CLOTH.adult }); return [t[0] + Math.cos(a) * 60, t[1] + Math.sin(a) * 60 + 16]; };
-  const [lx, ly] = fist(tl, Math.PI - 0.7), [rx, ry] = fist(tr, 0.7);
-  const bigW = 230, bigH = 180, bigD = 60, smW = 120, smH = 96, smD = 36;
-  twine(c, [[lx, ly], [lx, 700]]); twine(c, [[rx, ry], [rx, 660]]);
+  const bigW = 230, bigH = 180, bigD = 60, smW = 120, smH = 96, smD = 36, boxTop = 720;
   const cardboard = (bx: number, by: number, w: number, hh: number, d: number) => {
     box3d(c, bx, by, w, hh, d, BOXT, BOXC, BOXS);
-    shade(c, () => polyP(c, [[bx, by], [bx + w, by], [bx + w, by + hh], [bx, by + hh]]), "#8a5a2c", 0, 0, 0);
     shape(c, () => polyP(c, [[bx + w / 2 - 9, by], [bx + w / 2 + 9, by], [bx + w / 2 + 9, by + hh], [bx + w / 2 - 9, by + hh]]), "rgba(255,236,150,0.85)", 3);
   };
-  cardboard(lx - (smW + smD) / 2, 700, smW, smH, smD);
-  cardboard(rx - (bigW + bigD) / 2, 660, bigW, bigH, bigD);
-  shadow(c, lx + 20, 966, 70, 10); shadow(c, rx + 25, 966, 120, 12);
+  twine(c, [[tl[0], tl[1] + 77], [tl[0], boxTop]]); twine(c, [[tr[0], tr[1] + 77], [tr[0], boxTop]]);
+  cardboard(tl[0] - (smW + smD) / 2, boxTop, smW, smH, smD);
+  cardboard(tr[0] - (bigW + bigD) / 2, boxTop, bigW, bigH, bigD);
+  for (const t of [tl, tr]) handW(c, t[0], t[1], Math.PI / 2, 1.1, { skin: SKIN.adult, sleeve: CLOTH.adult });
+  shadow(c, tl[0] + 20, 966, 70, 10); shadow(c, tr[0] + 25, 966, 120, 12);
+  arrow(c, [[150, 700], [150, 600]]); arrow(c, [[960, 700], [960, 600]]);
 };
 const reach2 = (sx: number, sy: number, t: number[], h: number, bend: 1 | -1): [number, number] => {
   const l1 = h * 0.17, l2 = h * 0.16;

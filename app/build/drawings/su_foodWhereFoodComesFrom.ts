@@ -54,11 +54,25 @@ const table = (c: Ctx, y: number) => { c.fillStyle = "#e6d6b8"; c.fillRect(0, y,
 
 // ---------------------------------------------------------------- curd (e1)
 // setup.e1.0
+// a steel tumbler of warm milk held by a hand, tilted to pour (mouth to the lower left)
+const tumblerPour = (c: Ctx, x: number, y: number, th: number) => {
+  c.save(); c.translate(x, y); c.rotate(th);
+  const body = () => { c.moveTo(-66, -105); c.lineTo(66, -105); c.lineTo(52, 105); c.lineTo(-52, 105); c.closePath(); };
+  shape(c, body, COL.steel, 6); shade(c, body, COL.steelDk, 26, 0, 0.55);
+  shape(c, () => ell(c, 0, -105, 66, 20), COL.steelIn, 6);
+  shape(c, () => ell(c, 0, -102, 56, 14), MILK, 3);
+  line(c, [[-34, 20], [-30, 80]], 7, WHITE);
+  c.restore();
+};
 const e1_0 = (c: Ctx) => {
   ground(c);
-  [185, 540, 895].forEach((x, i) => { steam(c, x, 250, 150); milkKatori(c, x, 360, 150); tag(c, x, 610, "ABC"[i]); });
-  katoriOfCurd(c, 330, 860, 135);
-  spoon(c, 650, 900, 960, 820, true);
+  [190, 540, 890].forEach((x, i) => { if (i !== 1) steam(c, x, 600, 90); milkKatori(c, x, 700, 140); tag(c, x, 930, "ABC"[i], 0.9); });
+  // milk poured into B from the tumbler
+  const pour = () => { c.moveTo(626, 300); c.bezierCurveTo(578, 400, 570, 520, 574, 706); c.lineTo(538, 706); c.bezierCurveTo(536, 540, 556, 420, 640, 346); c.closePath(); };
+  shape(c, pour, MILK, 5);
+  tumblerPour(c, 700, 225, -2.2);
+  hand(c, 792, 317, 3.9, 1.8, SKIN.child, CLOTH.child);
+  arrow(c, [[440, 340], [470, 520]], RED, 12);
 };
 
 // setup.e1.1
@@ -105,20 +119,27 @@ const e1_2 = (c: Ctx) => {
   line(c, [[580, 40], [580, 1040]], 8, INK);
 };
 
-// a katori tilted by th (clockwise), milk stays level; curd keeps its heap
+// a katori cut in half and tilted by th (clockwise) around the middle of its rim: milk pours over the lip, curd stays
 const tilted = (c: Ctx, cx: number, cy: number, r: number, th: number, curd: boolean) => {
-  const body = () => { c.moveTo(-r, 0); c.bezierCurveTo(-r * 0.9, r * 0.75, r * 0.9, r * 0.75, r, 0); c.closePath(); };
-  const ry = r * 0.42;
+  const d = r * 1.05, wall = r * 0.1;
+  const outer = () => { c.moveTo(-r, 0); c.bezierCurveTo(-r * 0.9, d, r * 0.9, d, r, 0); c.closePath(); };
+  const inner = () => { c.moveTo(-r + wall, 0); c.bezierCurveTo(-r * 0.9 + wall, d - wall * 1.6, r * 0.9 - wall, d - wall * 1.6, r - wall, 0); c.closePath(); };
   c.save(); c.translate(cx, cy); c.rotate(th);
-  shape(c, body, COL.steel); shade(c, body, COL.steelDk, r * 0.35, -r * 0.05);
-  shape(c, () => ell(c, 0, 0, r, ry), COL.steelDk, 5);
+  shape(c, outer, COL.steel, 0); shade(c, outer, COL.steelDk, r * 0.3, -r * 0.05);
+  shape(c, inner, COL.steelIn, 0);
+  c.save(); c.beginPath(); inner(); c.clip();
+  if (curd) { c.fillStyle = CURD; c.fillRect(-r, -r, 2 * r, 3 * r); }
+  else { c.rotate(-th); c.fillStyle = MILK; c.fillRect(-500, r * Math.sin(th) * 0.97, 1000, 800); c.rotate(th); }
+  c.restore();
   if (curd) {
-    const heap = () => { c.moveTo(-r * 0.88, 0); c.bezierCurveTo(-r * 0.75, -r * 0.62, r * 0.75, -r * 0.62, r * 0.88, 0); c.quadraticCurveTo(0, ry * 0.9, -r * 0.88, 0); c.closePath(); };
-    shape(c, heap, CURD, 5); shade(c, heap, CURDDK, r * 0.18, r * 0.06, 0.7);
-  } else {
-    c.save(); c.beginPath(); ell(c, 0, 0, r * 0.95, ry * 0.92); c.clip(); c.rotate(-th); c.fillStyle = MILK; c.fillRect(-500, r * 0.12, 1000, 500); c.restore();
-    c.beginPath(); ell(c, 0, 0, r, ry); c.strokeStyle = INK; c.lineWidth = 5; c.stroke();
+    const heap = () => { c.moveTo(-r + wall, 0); c.bezierCurveTo(-r * 0.7, -r * 0.62, r * 0.7, -r * 0.62, r - wall, 0); c.closePath(); };
+    shape(c, heap, CURD, 0); shade(c, heap, CURDDK, r * 0.14, r * 0.05, 0.7);
+    c.beginPath(); c.moveTo(-r + wall, 0); c.bezierCurveTo(-r * 0.7, -r * 0.62, r * 0.7, -r * 0.62, r - wall, 0); c.strokeStyle = INK; c.lineWidth = 5; c.stroke();
+    line(c, [[-r * 0.3, -r * 0.2], [-r * 0.1, -r * 0.1]], 5, CURDDK); line(c, [[r * 0.15, -r * 0.3], [r * 0.4, -r * 0.18]], 5, CURDDK);
   }
+  line(c, [[-r, 0], [-r + wall, 0]], 7); line(c, [[r, 0], [r - wall, 0]], 7);
+  c.beginPath(); c.moveTo(-r, 0); c.bezierCurveTo(-r * 0.9, d, r * 0.9, d, r, 0); c.strokeStyle = INK; c.lineWidth = 7; c.stroke();
+  c.beginPath(); c.moveTo(-r + wall, 0); c.bezierCurveTo(-r * 0.9 + wall, d - wall * 1.6, r * 0.9 - wall, d - wall * 1.6, r - wall, 0); c.lineWidth = 4; c.stroke();
   c.restore();
 };
 
@@ -126,16 +147,19 @@ const tilted = (c: Ctx, cx: number, cy: number, r: number, th: number, curd: boo
 const e1_3 = (c: Ctx) => {
   ground(c);
   table(c, 905);
-  const th = 0.72, r = 165, cy = 380, lx = 330, rx = 800;
-  const mx = lx + Math.cos(th) * r * 0.98, my = cy + Math.sin(th) * r * 0.98;
-  // runny milk on the left: a stream out of the lip and a puddle
-  c.beginPath(); ell(c, mx + 40, 960, 200, 34); c.fillStyle = MILK; c.fill(); c.lineWidth = 5; c.strokeStyle = INK; c.stroke();
-  shape(c, () => { c.moveTo(mx - 10, my - 12); c.bezierCurveTo(mx + 50, my - 6, mx + 62, my + 80, mx + 56, 950); c.lineTo(mx + 22, 950); c.bezierCurveTo(mx + 26, my + 100, mx + 20, my + 40, mx - 14, my + 22); c.closePath(); }, MILK, 5);
+  const th = 0.5, r = 170, cy = 400, lx = 300, rx = 790;
+  const lip = [lx + Math.cos(th) * r, cy + Math.sin(th) * r], bot = (x: number) => [x - Math.sin(th) * r * 0.8, cy + Math.cos(th) * r * 0.8];
+  // runny milk on the left: a stream over the lip and a puddle
+  c.beginPath(); ell(c, lip[0] + 30, 955, 200, 34); c.fillStyle = MILK; c.fill(); c.lineWidth = 5; c.strokeStyle = INK; c.stroke();
+  shape(c, () => { c.moveTo(lip[0] - 8, lip[1] - 16); c.bezierCurveTo(lip[0] + 50, lip[1] - 10, lip[0] + 64, lip[1] + 80, lip[0] + 58, 950); c.lineTo(lip[0] + 18, 950); c.bezierCurveTo(lip[0] + 26, lip[1] + 100, lip[0] + 10, lip[1] + 40, lip[0] - 16, lip[1] + 24); c.closePath(); }, MILK, 5);
   tilted(c, lx, cy, r, th, false);
-  hand(c, 194, 608, -1.0, 2, SKIN.child, CLOTH.child);
   // set curd on the right: the heap stays, nothing falls
   tilted(c, rx, cy, r, th, true);
-  hand(c, 704, 608, -1.0, 2, SKIN.child, CLOTH.child);
+  for (const x of [lx, rx]) {
+    const [bx, by] = bot(x);
+    hand(c, bx - 76, by + 118, -1.0, 2, SKIN.child, CLOTH.child);
+    arrow(c, Array.from({ length: 6 }, (_, k) => { const a = -2.2 + k * 0.2; return [x + Math.cos(a) * (r + 80), cy + Math.sin(a) * (r + 80)]; }), RED, 12);
+  }
 };
 
 // ---------------------------------------------------------------- iodine on foods (e3)
@@ -149,22 +173,30 @@ const pile = (c: Ctx, rx: number, ry: number, base: string, dot: string, seedN: 
   }
 };
 const potato = (c: Ctx) => {
-  shape(c, () => ell(c, 0, 0, 90, 62, -0.1), "#b98a4e", 5);
-  shape(c, () => ell(c, 0, -2, 77, 50, -0.1), "#f6e3ae", 3);
-  shade(c, () => ell(c, 0, 0, 90, 62, -0.1), "#a07838", 18, 12, 0.35);
-  for (const [x, y] of [[-30, -12], [24, 10], [-6, 24], [34, -22]]) shape(c, () => ell(c, x, y, 5, 3.5), "#d7bb7c", 0);
+  const skin = () => ell(c, -12, 0, 88, 60, -0.15);
+  shape(c, skin, "#b98a4e", 5);
+  shade(c, skin, "#8f6532", 18, 14, 0.4);
+  for (const [x, y] of [[-60, -14], [-30, 18], [-8, -26], [14, 24]]) shape(c, () => ell(c, x, y, 6, 4, 0.4), "#6a4a22", 0);
+  // a cut slice in front: cream flesh inside a brown skin ring
+  shape(c, () => ell(c, 44, 18, 44, 34, -0.15), "#b98a4e", 5);
+  shape(c, () => ell(c, 44, 18, 34, 25, -0.15), "#f6e3ae", 3);
 };
-const rice = (c: Ctx) => pile(c, 88, 52, "#f3efe6", WHITE, 5, 26, true);
+// a heap of grains or powder in a small steel katori
+const katoriHeap = (c: Ctx, base: string, dot: string, seedN: number, n: number, rot = false) => {
+  bowl(c, 0, 18, 86); c.save(); c.translate(0, 12); pile(c, 76, 52, base, dot, seedN, n, rot); c.restore();
+};
+const rice = (c: Ctx) => katoriHeap(c, "#f3efe6", WHITE, 5, 22, true);
 const chapati = (c: Ctx) => {
   shape(c, () => ell(c, 0, 0, 94, 64), "#e8b87a", 5);
   shade(c, () => ell(c, 0, 0, 94, 64), "#c88b4c", 18, 14, 0.4);
   for (const [x, y, s] of [[-40, -14, 11], [20, -24, 9], [38, 12, 12], [-14, 18, 10], [-58, 14, 7]]) shape(c, () => ell(c, x, y, s, s * 0.7), "#9a5b2a", 0);
 };
 const banana = (c: Ctx) => {
-  const p = () => { c.moveTo(0, -62); c.bezierCurveTo(30, -62, 86, 30, 70, 50); c.bezierCurveTo(60, 62, -60, 62, -70, 50); c.bezierCurveTo(-86, 30, -30, -62, 0, -62); c.closePath(); };
-  shape(c, p, "#7fae4a", 5);
-  shape(c, () => { c.save(); c.translate(0, 8); c.scale(0.78, 0.76); p(); c.restore(); }, "#f4efc4", 3);
-  for (const [x, y] of [[-14, 14], [0, 24], [14, 14]]) shape(c, () => ell(c, x, y, 4, 4), "#9a8a54", 0);
+  const p = () => { c.moveTo(-88, -34); c.bezierCurveTo(-70, 56, 70, 56, 90, -40); c.lineTo(104, -52); c.lineTo(112, -44); c.bezierCurveTo(112, 40, 50, 84, -10, 84); c.bezierCurveTo(-70, 84, -108, 40, -100, -28); c.closePath(); };
+  shape(c, p, "#8dbb4f", 5);
+  shade(c, p, "#5f8f33", 12, 14, 0.45);
+  line(c, [[-70, 8], [-30, 48], [30, 50], [78, 14]], 4, "#b4d67e");
+  shape(c, () => rrect(c, 92, -66, 24, 22, 5), "#6a4a22", 4);
 };
 const cucumber = (c: Ctx) => {
   shape(c, () => ell(c, 0, 0, 80, 60), "#4a8a3a", 5);
@@ -179,9 +211,9 @@ const paneer = (c: Ctx) => {
   };
   cube(-30, -8, 44); cube(40, 8, 40);
 };
-const sugar = (c: Ctx) => pile(c, 80, 48, "#fff6e0", "#d9c7a0", 9, 40);
-const salt = (c: Ctx) => pile(c, 80, 48, "#eaf0f8", "#8e9bb0", 13, 40);
-const besan = (c: Ctx) => pile(c, 86, 54, "#f2c94c", "#c79a1c", 21, 40);
+const sugar = (c: Ctx) => katoriHeap(c, "#fff6e0", "#d9c7a0", 9, 40);
+const salt = (c: Ctx) => katoriHeap(c, "#eaf0f8", "#8e9bb0", 13, 40);
+const besan = (c: Ctx) => katoriHeap(c, "#f2c94c", "#c79a1c", 21, 14);
 
 const FOODS: { draw: (c: Ctx) => void; starch: boolean }[] = [
   { draw: potato, starch: true }, { draw: rice, starch: true }, { draw: chapati, starch: true },
@@ -214,11 +246,18 @@ const e3_0 = (c: Ctx) => {
 const e3_1 = (c: Ctx) => {
   ground(c);
   plate(c, 540, 860, 520, 175);
-  c.save(); c.translate(540, 830); c.scale(2.9, 2.6); potato(c); c.restore();
+  // a whole potato beside the plate's middle, and the cut slice under the dropper
+  c.save(); c.translate(190, 880); c.scale(1.5, 1.5); shadow(c, 8, 50, 90, 14); potato(c); c.restore();
+  shadow(c, 560, 905, 250, 40);
+  shape(c, () => ell(c, 540, 862, 250, 86), "#b98a4e", 6);
+  c.fillStyle = "#b98a4e"; c.fillRect(290, 830, 500, 32);
+  line(c, [[290, 830], [290, 862]], 6); line(c, [[790, 830], [790, 862]], 6);
+  shape(c, () => ell(c, 540, 830, 250, 86), "#b98a4e", 6);
+  shape(c, () => ell(c, 540, 830, 228, 70), "#f6e3ae", 3);
   // the spot: blue-black in the middle, an orange rim of fresh iodine
-  c.save(); c.translate(540, 820);
-  shape(c, () => ell(c, 0, 0, 150, 78), IODINE, 4);
-  shape(c, () => ell(c, 0, 0, 112, 56), BLUEBLACK, 0);
+  c.save(); c.translate(540, 828);
+  shape(c, () => ell(c, 0, 0, 90, 44), IODINE, 4);
+  shape(c, () => ell(c, 0, 0, 60, 28), BLUEBLACK, 0);
   c.restore();
   // the dropper
   shape(c, () => ell(c, 540, 150, 62, 74), "#3a3540", 6);
@@ -240,7 +279,7 @@ const e3_2 = (c: Ctx) => {
   FOODS.forEach((f, i) => {
     const [x, y] = foodSpot(i);
     putFood(c, i);
-    blotch(c, x, y, f.starch ? BLUEBLACK : NOSTARCH, 0.95);
+    blotch(c, x, y + (f.draw === banana ? 56 : f.draw === potato || f.draw === chapati || f.draw === cucumber || f.draw === paneer ? 0 : -30), f.starch ? BLUEBLACK : NOSTARCH, 0.75);
   });
 };
 
