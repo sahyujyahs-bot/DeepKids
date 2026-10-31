@@ -597,7 +597,9 @@ function buildDayPlan(date) {
   });
   return items.sort((a, b) => a.at - b.at || (a.kind === "prep" ? -1 : 1));
 }
-// A day's plan; today, snoozed items move to their new time
+// what a parent can drag into a different order on Today (classes, outings and prep keep their own times)
+const DAYMOVE = new Set(["lesson", "warm", "refresh", "paper", "exps", "dkt", "mynote", "finish"]);
+// A day's plan; today, snoozed items move to their new time, and a dragged order swaps the time slots
 function dayPlan(date) {
   const L = buildDayPlan(date);
   if (date !== today) return L;
@@ -608,6 +610,15 @@ function dayPlan(date) {
       i.sub = "Moved to later · " + (i.sub || "");
     }
   });
+  const O = S.dayOrder?.[date];
+  if (O) {
+    const M = L.filter((i) => !i.done && !i.anytime && DAYMOVE.has(i.kind)),
+      slots = M.map((i) => i.at).sort((a, b) => a - b),
+      pos = (i) => (O.includes(i.id) ? O.indexOf(i.id) : O.length + M.indexOf(i));
+    M.slice()
+      .sort((a, b) => pos(a) - pos(b))
+      .forEach((i, k) => (i.at = slots[k]));
+  }
   return L.sort((a, b) => a.at - b.at);
 }
 const MONTHS = {

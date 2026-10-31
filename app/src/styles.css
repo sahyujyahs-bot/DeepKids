@@ -4059,6 +4059,16 @@ a.btn {
   z-index: 2;
   opacity: 0.95;
 }
+.daydrag .t .dh {
+  display: block;
+  font-size: 18px;
+  line-height: 1;
+  margin-bottom: 4px;
+}
+.daydrag .tr.drag {
+  opacity: 0.85;
+  transform: scale(1.02);
+}
 .dh {
   touch-action: none;
   cursor: grab;

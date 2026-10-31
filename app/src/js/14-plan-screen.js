@@ -523,7 +523,6 @@ function qPick(ty, s, r, label, cls) {
   return `<button class="${cls || "btn sm"}" data-act="qpick" data-r="${esc(r)}">${label}</button>`;
 }
 function viewTasks() {
-  initDrag();
   const k = seg("tasks");
   let h = pageHead("To do") + segBar("tasks") + `</section>`;
   return h + (k === "going" ? goingView() : k === "new" ? newView() : queuesView());
@@ -628,9 +627,9 @@ function initDrag() {
   window._dkDrag = 1;
   let D = null;
   document.addEventListener("pointerdown", (e) => {
-    const h = e.target.closest(".qlist .dh");
+    const h = e.target.closest(".qlist .dh, .daydrag .dh");
     if (!h) return;
-    const row = h.closest(".qrow2");
+    const row = h.closest(".qrow2, .tr");
     D = { row, list: row.parentElement, id: e.pointerId, moved: false };
     row.classList.add("drag");
     try {
@@ -663,6 +662,11 @@ function initDrag() {
     d.row.classList.remove("drag");
     if (!d.moved) return;
     sfx("flip");
+    if (d.list.classList.contains("daydrag")) {
+      S.dayOrder = { [today]: [...d.list.children].map((r) => r.dataset.r) };
+      _sess = null;
+      return commit();
+    }
     setOrder(
       d.list.dataset.ty,
       d.list.dataset.s,
@@ -1320,7 +1324,6 @@ function shopView() {
 function viewPlanner() {
   const k = seg("week"),
     head = pageHead("Plan") + segBar("week") + `</section>`;
-  initDrag();
   if (k === "cal") {
     ui.pv = ui.pv || "week";
     return (

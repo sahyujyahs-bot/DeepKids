@@ -128,7 +128,7 @@ const storyHtml = (st) =>
   `<article class="story"><h2>${esc(st.title)}</h2>${st.text.map((p, i) => `<p${i ? "" : ' class="first"'}>${esc(p)}</p>`).join("")}<div class="storyask"><b>Talk about it</b><ol>${st.ask.map((q) => `<li>${esc(q)}</li>`).join("")}</ol></div></article>`;
 const LIBT = [
   ["topics", "Syllabus", "Every chapter of every board, by subject and class"],
-  ["research", "Research", "Real research papers, retold for children as flashcards"],
+  ["research", "Research Papers", "Real research papers, retold for children as flashcards"],
   ["science", "Resources", "Free activities, simulations and videos, tagged to chapters"],
   [
     "have",

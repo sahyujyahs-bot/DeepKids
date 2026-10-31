@@ -165,13 +165,31 @@ function doneHistory() {
        : `<p class="note">Nothing finished here yet. Things you finish show up here, newest first. What's in progress is under Plan → Ongoing.</p>`
    }</section>`;
 }
-/* Are we on track? For each subject: how much of the year has gone, how much of this year's syllabus is done, so how far
-   ahead or behind, which topics would catch up, and the extras done beyond the syllabus. */
+/* The school year as schools count it: it starts on the 1st of a month (April unless the parent says otherwise) */
+function schoolYear() {
+  const m0 = S.yearStartMonth ?? 3,
+    t = parse(today),
+    y = t.getMonth() >= m0 ? t.getFullYear() : t.getFullYear() - 1,
+    start = new Date(y, m0, 1),
+    end = new Date(y + 1, m0, 1);
+  return {
+    start: iso(start),
+    end: iso(new Date(y + 1, m0, 0)),
+    gone: Math.min(1, Math.max(0, (t - start) / (end - start))),
+  };
+}
+function yearStartChange(e) {
+  const y = e.target.closest?.("[data-yearstart]");
+  if (!y) return;
+  S.yearStartMonth = +y.value;
+  commit();
+}
+/* Are we on track? For each subject: a school spreads this year's syllabus over the school year, so by now it would have
+   covered the same share of topics as the share of the year gone. Compare that with what's done, list what would catch
+   up, and the extras done beyond the syllabus. */
 function onTrackView() {
-  const start = S.start || today,
-    end = fxYearEnd(),
-    span = Math.max(1, parse(end) - parse(start)),
-    gone = Math.min(1, Math.max(0, (parse(today) - parse(start)) / span));
+  const Y = schoolYear(),
+    MN = [...Array(12)].map((_, i) => new Date(2000, i, 1).toLocaleString("en-IN", { month: "long" }));
   const rows = S.subjects
     .map((s) => {
       const all = plannedUnits(s),
@@ -179,22 +197,19 @@ function onTrackView() {
       if (!U.length) return "";
       const isDone = (u) => rank[coverage(u)] >= 2,
         done = U.filter(isDone).length,
-        pct = done / U.length,
-        diff = Math.round((pct - gone) * 100),
-        owed = Math.max(0, Math.round(gone * U.length) - done),
-        catchUp = U.filter((u) => !isDone(u)).slice(0, owed),
-        extras = all.filter((u) => isDone(u) && !U.includes(u)),
-        sc = schedule(s, 800).filter((x) => U.includes(x.u)),
-        last = sc.length ? sc[sc.length - 1].date : today;
-      return `<div class="trow2 ${SC(s)}"><div class="row" style="justify-content:space-between"><b>${SUBJ[s]}</b><span class="sm ${diff < -5 ? "behind" : diff > 5 ? "ahead" : ""}">${diff < -5 ? `${-diff}% behind` : diff > 5 ? `${diff}% ahead` : "On track"}</span></div>
-       <div class="trkbar" role="img" aria-label="${Math.round(pct * 100)}% of this year's ${SUBJ[s]} done; ${Math.round(gone * 100)}% of the year gone"><i style="width:${Math.round(pct * 100)}%"></i><b style="left:${Math.round(gone * 100)}%"></b></div>
-       <p class="xs muted">${done} of ${U.length} topics done (${Math.round(pct * 100)}%) · at this pace, finished by ${fmt(last)}${last > end ? " ⚠️ after the year ends" : ""}</p>
+        exp = Math.round(Y.gone * U.length),
+        gap = done - exp,
+        catchUp = U.filter((u) => !isDone(u)).slice(0, Math.max(0, -gap)),
+        extras = all.filter((u) => isDone(u) && !U.includes(u));
+      return `<div class="trow2 ${SC(s)}"><div class="row" style="justify-content:space-between"><b>${SUBJ[s]}</b><span class="sm ${gap < 0 ? "behind" : gap > 0 ? "ahead" : ""}">${gap < 0 ? `${-gap} topic${gap < -1 ? "s" : ""} behind` : gap > 0 ? `${gap} topic${gap > 1 ? "s" : ""} ahead` : "On track"}</span></div>
+       <div class="trkbar" role="img" aria-label="${done} of ${U.length} topics done; a school would have covered ${exp} by now"><i style="width:${Math.round((100 * done) / U.length)}%"></i><b style="left:${Math.round(Y.gone * 100)}%"></b></div>
+       <p class="xs muted">By now a school would have covered about <b>${exp} of ${U.length}</b> topics (${Math.round(Y.gone * 100)}%). Done: <b>${done}</b> (${Math.round((100 * done) / U.length)}%).</p>
        ${catchUp.length ? `<details><summary class="sm">To catch up: ${catchUp.length} topic${catchUp.length > 1 ? "s" : ""}</summary>${catchUp.map((u) => `<div class="row catchrow"><button class="plain ylrow" data-act="chapter" data-k="${u.k}">${esc(chT(u))}</button><button class="btn xs soft" data-act="catchup" data-s="${s}" data-ks="${u.k}">Do next</button></div>`).join("")}<button class="btn sm" data-act="catchup" data-s="${s}" data-ks="${esc(catchUp.map((u) => u.k).join("~"))}">Put all ${catchUp.length} at the front of the queue</button></details>` : ""}
        ${extras.length ? `<details><summary class="sm">Extra topics done: ${extras.length}</summary>${extras.map((u) => `<button class="plain ylrow" data-act="chapter" data-k="${u.k}">✓ ${esc(chT(u))}</button>`).join("")}</details>` : ""}</div>`;
     })
     .join("");
   return rows
-    ? `<section class="sec"><div class="sech"><h3>Are we on track?</h3></div><div class="card ontrack"><p class="sm">${Math.round(gone * 100)}% of the school year has gone (${fmt(start)} to ${fmt(end)}). Each bar is this year's syllabus: the filled part is done, the line is where you'd be by now.</p>${rows}</div></section>`
+    ? `<section class="sec"><div class="sech"><h3>Are we on track?</h3></div><div class="card ontrack"><p class="sm"><b>${Math.round(Y.gone * 100)}% of the school year has gone</b> (${fmt(Y.start)} to ${fmt(Y.end)}). The filled bar is the topics done; the line is where a school would be by now.</p><label class="xs muted">School year starts in <select class="inp" style="width:auto" data-yearstart="1">${MN.map((n, i) => `<option value="${i}" ${(S.yearStartMonth ?? 3) === i ? "selected" : ""}>${n}</option>`).join("")}</select></label>${rows}</div></section>`
     : "";
 }
 function viewJourneyTabs() {
