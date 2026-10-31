@@ -9,7 +9,7 @@
  "intro": {
   "hook": "Sit down and take a normal breath. Now hold it and count slowly. Stop as soon as you want to. Soon your body makes you breathe again. You can save a snack for later. Why can't you save up a breath?",
   "text": "Your body uses air every few seconds, water every few hours and food a few times a day. In this unit you find out why. You test whether your dry hand is giving out water. You find out whether a ring of water can keep hungry ants away from sugar. You sort needs from wants, and argue about the hard ones. And you learn the simple ways families in India keep air, water, food, clothes and homes clean and safe.",
-  "art": "A girl sitting cross-legged on a mat, cheeks puffed, holding her breath, with a clock on the wall behind her and her mother counting on her fingers."
+  "art": "A girl sitting cross-legged on a mat, cheeks puffed, holding her breath, with a clock on the wall behind her and a parent counting on her fingers."
  },
  "outcomes": [
   "I can name the five basic needs, and say which three we cannot live without at all, and why.",
@@ -157,7 +157,7 @@
    "description": "Your cells use food for energy all the time, even while you sleep. Your heart beats, your brain thinks and your body stays at about 37 degrees Celsius, and all of that needs energy. Food also gives building materials. A child grows taller because food becomes new bone and muscle. The body can store some food as fat, so a person can live for weeks without eating. But they become weak and ill, and a growing child stops growing well.",
    "examples": [
     "A cut on your knee heals in a week. The new skin is built from food you ate.",
-    "Ragi, rice and wheat give energy. Dal, eggs, fish and milk give materials for growing.",
+    "Ragi, rice, bajra and wheat give energy. Dal, eggs, fish and milk give materials for growing.",
     "When you are ill and cannot eat much, you feel weak, because your body is short of energy."
    ],
    "perspectives": [],
@@ -235,11 +235,11 @@
   {
    "concept": "Other living beings have needs too",
    "status": "defined",
-   "definition": "Plants and animals need air, water and food too, and many need shelter. A plant also needs light, because they make their own food from air, water and sunlight.",
-   "description": "An ant colony must feed their queen and their young, so worker ants search for food all day. They come into kitchens because sugar and crumbs are easy food. A house gecko lives behind a picture frame, because the wall is a shelter and the light brings insects to eat. A tulsi plant in a pot needs water every day in summer. A crow drinks from a bowl on a balcony in May. Our homes meet the needs of many others, as well as our own.",
+   "definition": "Plants and animals need air, water and food too, and many need shelter. Plants also need light, because they make their own food from air, water and sunlight.",
+   "description": "Ants live in colonies that must feed a queen and young ants, so worker ants search for food all day. They come into kitchens because sugar and crumbs are easy food. A house gecko lives behind a picture frame, because the wall is a shelter and the light brings insects to eat. A tulsi plant in a pot needs water every day in summer. A crow drinks from a bowl on a balcony in May. Our homes meet the needs of many others, as well as our own.",
    "examples": [
     "A pigeon builds a nest on the ledge of a flat, because the ledge is a shelter from rain and cats.",
-    "A money plant on a windowsill turns their leaves towards the light.",
+    "Money plants on a windowsill turn their leaves towards the light.",
     "Ants carry sugar home inside their body and share it with the ants in the nest."
    ],
    "perspectives": [],
@@ -382,7 +382,7 @@
   "ask": [
    "Arjun said he had not lost any water because his arms were dry. What did Meenakshi show him?",
    "Which things did the family put on the NEED side? Which went on the WANT side?",
-   "Paati said the water was a want for the family but a need for the tulsi. What did she mean?",
+   "Paati said the tulsi plant was maybe a want for the family but a need for the plant. What did she mean?",
    "Why did Paati get a headache, and what made it go away?",
    "If your family had only one drum of water for a day, what would you use it for first?"
   ],
@@ -403,49 +403,123 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game. Each player packs a small boat for a three-day trip to an island. You can pack only 8 cards. Then the weather cards show whether you packed what you need.",
+   "context": "This is a card game. Each player packs a small boat for a three-day trip to an island. You can pack only 8 cards. Then the weather and event cards show whether you packed what you need.",
    "printables": [
     {
      "kind": "cards",
      "title": "24 packing cards to cut out",
      "items": [
-      "Bottle of drinking water (water)",
-      "Big can of drinking water (water)",
-      "Rice and dal (food)",
-      "Bananas and groundnuts (food)",
-      "Idli and chutney (food)",
-      "Cotton shirt (clothes)",
-      "Woollen shawl (clothes)",
-      "Raincoat (clothes)",
-      "Small tent (shelter)",
-      "Plastic sheet and rope (shelter)",
-      "Mosquito net (shelter)",
-      "Soap (keeping clean)",
-      "Water filter bottle (keeping water safe)",
-      "Torch (helpful)",
-      "First-aid box (helpful)",
-      "Cooking pot (helpful)",
-      "Mobile phone (want)",
-      "Video game (want)",
-      "Chocolates (want)",
-      "Cricket bat (want)",
-      "Comic books (want)",
-      "Teddy bear (want, but it may comfort you)",
-      "Sunglasses (want)",
-      "Fancy shoes (want)"
+      {
+       "f": "Bottle of drinking water",
+       "b": "Need: water"
+      },
+      {
+       "f": "Big can of drinking water",
+       "b": "Need: water"
+      },
+      {
+       "f": "Rice and dal",
+       "b": "Need: food"
+      },
+      {
+       "f": "Bananas and groundnuts",
+       "b": "Need: food"
+      },
+      {
+       "f": "Idli and chutney",
+       "b": "Need: food"
+      },
+      {
+       "f": "Cotton shirt",
+       "b": "Need: clothes"
+      },
+      {
+       "f": "Woollen shawl",
+       "b": "Need: clothes"
+      },
+      {
+       "f": "Raincoat",
+       "b": "Need: clothes"
+      },
+      {
+       "f": "Small tent",
+       "b": "Need: shelter"
+      },
+      {
+       "f": "Plastic sheet and rope",
+       "b": "Need: shelter"
+      },
+      {
+       "f": "Mosquito net",
+       "b": "Need: shelter (keeps mosquitoes off)"
+      },
+      {
+       "f": "Soap",
+       "b": "Helps you stay clean and well, but is not one of the five needs"
+      },
+      {
+       "f": "Water filter bottle",
+       "b": "Helps keep water safe to drink"
+      },
+      {
+       "f": "Torch",
+       "b": "Helpful, but not one of the five needs"
+      },
+      {
+       "f": "First-aid box",
+       "b": "Helpful: keeps you well if you are hurt"
+      },
+      {
+       "f": "Cooking pot",
+       "b": "Helpful: rice and dal need it"
+      },
+      {
+       "f": "Mobile phone",
+       "b": "Want"
+      },
+      {
+       "f": "Video game",
+       "b": "Want"
+      },
+      {
+       "f": "Chocolates",
+       "b": "Want"
+      },
+      {
+       "f": "Cricket bat",
+       "b": "Want"
+      },
+      {
+       "f": "Comic books",
+       "b": "Want"
+      },
+      {
+       "f": "Teddy bear",
+       "b": "Want, but comfort can matter"
+      },
+      {
+       "f": "Sunglasses",
+       "b": "Want"
+      },
+      {
+       "f": "Fancy shoes",
+       "b": "Want"
+      }
      ]
     },
     {
      "kind": "cards",
-     "title": "8 weather and event cards",
+     "title": "10 weather and event cards",
      "items": [
-      "Hot sun all day. Did you pack water? If not, lose 2 points.",
-      "Heavy rain at night. Did you pack shelter? If not, lose 2 points.",
-      "A cold wind. Did you pack a shawl or tent? If not, lose 1 point.",
-      "Mosquitoes at dusk. Did you pack a net or long sleeves? If not, lose 1 point.",
-      "The well water is muddy. Did you pack a filter or enough water? If not, lose 2 points.",
-      "You are hungry. Did you pack food? If not, lose 2 points.",
+      "Hot sun all day. Did you pack drinking water? If not, lose 2 points.",
+      "Heavy rain at night. Did you pack a tent, a plastic sheet and rope, or a raincoat? If not, lose 2 points.",
+      "A cold wind. Did you pack a woollen shawl or a tent? If not, lose 1 point.",
+      "Mosquitoes at dusk. Did you pack a mosquito net or a tent? If not, lose 1 point.",
+      "The well water is muddy. Did you pack a water filter bottle, or both water cards? If not, lose 2 points.",
+      "You are hungry. Did you pack food you can eat? Rice and dal count only if you also packed the cooking pot. If not, lose 2 points.",
       "You cut your foot. Did you pack a first-aid box? If not, lose 1 point.",
+      "Night falls and the island is dark. Did you pack a torch? If not, lose 1 point.",
+      "Time to wash before you eat. Did you pack soap? If not, lose 1 point.",
       "A quiet evening. If you packed a want card, gain 1 point for fun."
      ]
     },
@@ -471,13 +545,13 @@
     }
    ],
    "rules": [
-    "Lay all 24 packing cards face up.",
-    "Each player picks 8 cards for their boat. Two players may pick the same thing, so write it on your score sheet instead of taking the card.",
+    "Lay all 24 packing cards face up, with the names showing. The backs say what kind of card each one is. Do not turn them over yet.",
+    "Each player picks 8 cards for their boat. If another player has already taken a card, write its name on your score sheet instead of taking the card.",
     "Everyone starts with 10 points.",
-    "Shuffle the event cards. Turn them over one by one and read each aloud.",
+    "Shuffle the 10 event cards. Turn them over one by one and read each aloud.",
     "Each player checks their 8 cards and changes their points.",
-    "After all 8 events, the player with the most points wins.",
-    "Playing alone: try to finish with 10 points or more."
+    "After all 10 events, turn your 8 cards over and count how many were wants. The player with the most points wins. If points are equal, the players share the win.",
+    "Playing alone: try to finish with 10 points or more, which means you lost no points."
    ],
    "flow": [
     {
@@ -505,9 +579,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Add up the points and talk about it.",
+     "do": "Add up the points. Turn your 8 cards over and count the wants. Then talk about it.",
      "say": "Who did best? What would you pack differently next time? Was any want card useful?",
-     "kid": "Add up your points. What would you change next time?",
+     "kid": "Add up your points. Turn your cards over. How many were wants? What would you change next time?",
      "think": "The teddy bear is a want. Could comfort ever be a need?"
     }
    ]
@@ -648,7 +722,7 @@
      "say": "Sit still and rest your hand. We will look every 5 minutes. Tell me exactly what you see on the plastic.",
      "kid": "Sit still. Look at both bags every 5 minutes. What do you see?",
      "adult": true,
-     "parent": "By 5 minutes the hand bag usually looks a little misty near the fingers. By 10 to 15 minutes there are tiny drops, and the hand feels damp. The tumbler bag stays clear. In an AC room or on a cold day it can take 20 minutes. While you wait, read the five needs cards together."
+     "parent": "By 5 minutes the hand bag usually looks a little misty near the fingers. By 10 to 15 minutes there are tiny drops, and the hand feels damp. The tumbler bag stays clear. In an AC room or on a cold day it can take 20 minutes, so if both bags are still clear at 15 minutes, keep watching until 20. While you wait, read the five needs cards together."
     },
     {
      "id": "s5",
@@ -791,14 +865,6 @@
     },
     {
      "id": "s2",
-     "mins": 5,
-     "do": "1. Put half a teaspoon of sugar in each cap. 2. Put one cap on a dry plate. 3. Turn the katori upside down in the middle of the other plate. 4. Pour water round it, about 1 cm deep. 5. Put the second cap on top of the katori.",
-     "say": "This sugar sits on a dry plate. This one sits on an island with a moat of water round it, like a fort. Make sure nothing touches the island.",
-     "kid": "Put sugar in both caps. One on a dry plate. One on the island in water.",
-     "parent": "Check that the island is dry on top and that no spoon, cloth or wall touches it. Put the two plates about 30 cm apart, both near the ant path."
-    },
-    {
-     "id": "s3",
      "mins": 3,
      "do": "Ask for a guess and a reason, and write it down.",
      "say": "Which sugar will the ants reach first? Will they reach the island at all? Why do you think so?",
@@ -814,6 +880,14 @@
       }
      ],
      "parent": "Do not say what will happen. A child who thinks the ants will get across is making a fair guess. Some ants can cross water if there is a bridge."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Put half a teaspoon of sugar in each cap. 2. Put one cap on a dry plate. 3. Turn the katori upside down in the middle of the other plate. 4. Pour water round it, about 1 cm deep. 5. Put the second cap on top of the katori.",
+     "say": "This sugar sits on a dry plate. This one sits on an island with a moat of water round it, like a fort. Make sure nothing touches the island.",
+     "kid": "Put sugar in both caps. One on a dry plate. One on the island in water.",
+     "parent": "Check that the island is dry on top and that no spoon, cloth or wall touches it. Put the two plates about 30 cm apart, both near the ant path."
     },
     {
      "id": "s4",
@@ -839,7 +913,8 @@
       ],
       "a": 1,
       "why": "Both caps held the same sugar, so the only difference was the water. Most house ants will not cross water, and a small ant can get stuck on the water's surface. Picking 'did not smell sweet' is a fair idea, but it was the same sugar in the same kind of cap."
-     }
+     },
+     "parent": "If no ants have come to either cap after 2 hours, this test shows nothing. Try again in another spot, or leave it overnight."
     },
     {
      "id": "s6",
@@ -881,7 +956,7 @@
    "record": "Write how many seconds you held your breath. Write one sentence: why do I have to keep breathing?",
    "setup": [
     {
-     "art": "A girl sitting on a mat, holding her breath with puffed cheeks, while her mother watches a phone timer.",
+     "art": "A girl sitting on a mat, holding her breath with puffed cheeks, while a parent watches a phone timer.",
      "caption": "1. Sit down. Take a normal breath and hold it."
     },
     {
@@ -936,7 +1011,6 @@
      "qty": 2
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -1035,7 +1109,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Search together: flower-pot plates, the tray under the fridge, buckets, a cooler, old bottles and tins on the balcony, a blocked drain.",
+     "do": "Search together: flower-pot plates, trays under coolers, buckets, old bottles and tins, and blocked drains.",
      "say": "Mosquitoes lay their eggs in still water. The young ones grow there in about a week. Let's hunt for any still water in our home.",
      "kid": "Hunt for still water. Look in plates, trays and buckets.",
      "adult": true,
@@ -1116,8 +1190,8 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Talk about the kitchen: where can smoke and steam get out?",
-     "say": "Where does the smoke from cooking go in our kitchen? Is there a way in and a way out for the air?",
+     "do": "Talk about the kitchen: where can smoke and steam get out? Then ask why a room with windows on two sides gets fresher air.",
+     "say": "Where does the smoke from cooking go in our kitchen? Is there a way in and a way out for the air? Why would a room with windows on two sides get fresher air?",
      "kid": "Look at the kitchen. How does smoke get out?",
      "check": {
       "t": "mcq",
@@ -1149,12 +1223,11 @@
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
      "mins": 15,
-     "what": "Feel three kinds of clothes. Draw a child dressed for Chennai in May, Ooty in December and Kochi in the monsoon."
+     "what": "Feel three kinds of clothes. Draw a child dressed for Jaipur in May, Darjeeling in December and Kochi in the monsoon."
     }
    ],
    "record": "Under each drawing, write one reason for the clothes you chose.",
@@ -1180,7 +1253,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Your child draws a child in Chennai in May, Ooty in December and Kochi in the monsoon. They write a reason under each.",
+     "do": "Your child draws a child in Jaipur in May, Darjeeling in December and Kochi in the monsoon. They write a reason under each.",
      "say": "Draw a child in each place. What would keep them comfortable and safe? Write why.",
      "kid": "Draw a child in each place. Write why you chose those clothes.",
      "parent": "Good reasons: cotton soaks up sweat and lets air pass, so the body cools. Wool traps still air, which slows heat leaving the body. A raincoat stops rain soaking the clothes, because wet clothes make you cold."
@@ -1247,7 +1320,7 @@
    "id": "p1",
    "title": "Our Home Care Week: one need each day",
    "days": 5,
-   "mins": 50,
+   "mins": 55,
    "context": "This is a 5-day project. Each day you check how well your home takes care of one basic need, and fix one thing.",
    "materials": [
     {
@@ -1273,7 +1346,7 @@
     {
      "day": 2,
      "mins": 10,
-     "what": "Water day: check that drinking water is covered and taken out with a ladle or tap. Empty any still water."
+     "what": "Water day: check that drinking water is covered and taken out with a ladle or tap."
     },
     {
      "day": 3,
@@ -1287,7 +1360,7 @@
     },
     {
      "day": 5,
-     "mins": 10,
+     "mins": 15,
      "what": "Home day: check the drains and the bin. Then make a poster of the five needs and how our family cares for each."
     }
    ],
@@ -1314,9 +1387,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Water day. Check the drinking water: is it covered? Do people dip tumblers in with their hands? Empty any still water.",
-     "say": "Today is water day. Is our drinking water covered? How do we take it out? Is there any still water for mosquitoes?",
-     "kid": "Water day. Is the drinking water covered? Any still water?",
+     "do": "Water day. Check the drinking water: is it covered? Do people dip tumblers in with their hands?",
+     "say": "Today is water day. Is our drinking water covered? How do we take it out?",
+     "kid": "Water day. Is the drinking water covered? How do we take it out?",
      "parent": "A ladle with a long handle, or a pot with a tap, keeps hands out of the water."
     },
     {
@@ -1336,7 +1409,7 @@
     },
     {
      "id": "s5",
-     "mins": 10,
+     "mins": 15,
      "do": "Home day. Check the drains and the bin together. Then make a poster with the five needs and how your family cares for each one.",
      "say": "Today is home day. Is the bin covered? Does water drain away? Now let's make our poster.",
      "kid": "Home day. Check the bin and the drain. Make the poster."
@@ -1423,11 +1496,11 @@
    ],
    "materials": [
     "paper and pencil",
-    "the needs-and-wants slips from earlier",
+    "the 16 need-or-want slips from the Need or Want activity",
     "a school bag, to see how much fits"
    ],
    "general": [
-    "Bottles of drinking water, dry food such as chivda, groundnuts and biscuits, a torch with spare cells, a change of clothes, a plastic sheet, a first-aid box and everyday medicines.",
+    "Bottles of drinking water, dry food such as chivda, roasted chana, groundnuts and biscuits, a torch with spare cells, a change of clothes, a plastic sheet, a first-aid box and everyday medicines.",
     "A copy of important papers in a waterproof bag."
    ],
    "creative": [
@@ -1450,7 +1523,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem together. Talk about cyclones in Chennai and floods in Kerala, when families lost water and power for days.",
+     "do": "Read the problem together. Talk about cyclones in Odisha and Chennai and floods in Kerala and Assam, when families lost water and power for days.",
      "say": "Sometimes a cyclone or a flood cuts off water and power for days. What would our family need?",
      "kid": "A flood cuts off water and power. What do we need?",
      "context": "This is a planning challenge. You plan a bag for three days without water, power or shops."
@@ -1531,14 +1604,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the Hidden Water Test, the bag on the dry hand misted up. What did that show?",
+   "p": "Why should you drink water even on a cool day, when you are not sweating?",
    "opts": [
-    "The plastic makes water",
-    "The skin gives out water even when it feels dry",
-    "Room air always makes bags misty"
+    "Water keeps leaving through your skin and breath, even without sweat",
+    "The body only loses water when it sweats",
+    "Cool air makes the body use up food faster"
    ],
-   "a": 1,
-   "why": "The tumbler bag in the same room stayed clear, so the water came from the skin. Picking 'room air' is a sensible guess, but then both bags would have misted.",
+   "a": 0,
+   "why": "In the Hidden Water Test, a dry hand misted a bag. Water leaves unseen through the skin and breath all day, so we must drink every day.",
    "outcome": 1,
    "how": "e1"
   },
@@ -1592,14 +1665,14 @@
   },
   {
    "t": "mcq",
-   "p": "In the Water Ring test, the ants reached the sugar on the dry plate but not on the island. Why?",
+   "p": "A family stands their sugar dabba in a plate of water. Why does this keep ants out?",
    "opts": [
-    "The island sugar was a different kind",
     "Most ants will not cross water",
-    "Ants do not like bottle caps"
+    "Water hides the smell of sugar",
+    "Ants only like dry sugar"
    ],
-   "a": 1,
-   "why": "Both caps had the same sugar. Only the water was different, and most house ants turn back at water.",
+   "a": 0,
+   "why": "Most house ants turn back at water, and a small ant can get stuck on the water's surface. As long as nothing makes a bridge, they cannot reach the dabba.",
    "outcome": 4,
    "how": "e2"
   },
@@ -1617,14 +1690,14 @@
   },
   {
    "t": "mcq",
-   "p": "What makes a room have good ventilation?",
+   "p": "A kitchen has only one small window. What would make the air in it flow better?",
    "opts": [
-    "Keeping every window shut",
-    "Openings on different sides, so air can come in and go out",
-    "A bright light"
+    "Open a door or window on another side, or fit an exhaust fan",
+    "Keep the window shut so the smoke stays in one place",
+    "Switch on a bright light"
    ],
-   "a": 1,
-   "why": "Air keeps flowing only when it has a way in and a way out. Windows on two sides, or an exhaust fan, let used air leave.",
+   "a": 0,
+   "why": "Air keeps flowing only when it has a way in and a way out. A second opening or an exhaust fan lets used air leave.",
    "outcome": 4,
    "how": "a4"
   },
@@ -1689,77 +1762,6 @@
      "why": "Each need has its own main job. A strong answer can say the job in their own words, not only match it."
     },
     {
-     "t": "mcq",
-     "p": "Without which of these can a person live for the shortest time?",
-     "opts": [
-      "Food",
-      "Water",
-      "Air",
-      "A home"
-     ],
-     "a": 2,
-     "why": "A person can live only a few minutes without air, a few days without water and a few weeks without food. The body stores some food and water, but almost no oxygen. That is why you could not save up a breath."
-    },
-    {
-     "t": "sort",
-     "p": "Sort these into needs and wants for a child living in Chennai.",
-     "cats": [
-      "Need",
-      "Want"
-     ],
-     "items": [
-      [
-       "drinking water",
-       "Need"
-      ],
-      [
-       "rice and dal",
-       "Need"
-      ],
-      [
-       "a cotton shirt",
-       "Need"
-      ],
-      [
-       "a roof",
-       "Need"
-      ],
-      [
-       "a video game",
-       "Want"
-      ],
-      [
-       "chocolate",
-       "Want"
-      ],
-      [
-       "a cricket bat",
-       "Want"
-      ],
-      [
-       "a woollen sweater",
-       "Want"
-      ]
-     ],
-     "a": "see items",
-     "why": "Water, food, clothes and a roof keep the child alive and well. The game, chocolate and bat are nice but not needed. A sweater is a want in Chennai's warm weather, though it would be a need in Shimla in winter."
-    },
-    {
-     "t": "write",
-     "p": "Remember the Hidden Water Test, where one plastic bag went over a dry hand and another over an empty tumbler. Why did we use a tumbler bag at all?",
-     "lines": 3,
-     "a": "The tumbler bag had the same air and the same plastic, but no hand. It stayed clear. That showed the mist did not come from the room's air or the plastic, so it must have come from the hand.",
-     "why": "A strong answer says the tumbler bag is the comparison: everything the same except the hand.",
-     "how": "e1"
-    },
-    {
-     "t": "truefalse",
-     "p": "If your skin feels dry, your body is not losing any water.",
-     "a": false,
-     "why": "False. In the Hidden Water Test, a dry hand misted up a plastic bag within minutes. Skin and breath let water out all the time, even when you cannot feel it.",
-     "how": "e1"
-    },
-    {
      "t": "fill",
      "p": "We breathe in air for the gas called ____, and we breathe out ____.",
      "a": [
@@ -1781,7 +1783,7 @@
     },
     {
      "t": "write",
-     "p": "Arjun says, \"I don't need to drink water today, because I'm not sweating.\" What would you tell him? Use your own test.",
+     "p": "A boy says, \"I don't need to drink water today, because I'm not sweating.\" What would you tell him? Use your own test.",
      "lines": 4,
      "a": "I would tell him his body loses water even without sweating. In my test, a bag on my dry hand turned misty and dripped. Water also leaves in every breath and in urine. So he needs to drink every day.",
      "why": "A strong answer uses evidence from the bag test, not only a rule.",
@@ -1836,13 +1838,6 @@
      "why": "Air goes in through the nose to the lungs. Oxygen passes into the blood, and the blood carries it to every cell."
     },
     {
-     "t": "truefalse",
-     "p": "Ants in a kitchen are a sign that the home must be dirty.",
-     "a": false,
-     "why": "False. Ants search for food all day, because their colony needs it. One grain of sugar in a very clean kitchen is enough to bring them.",
-     "how": "e2"
-    },
-    {
      "t": "label",
      "p": "Label this kitchen to show how each need is cared for: covered water pot, ladle, food dabba in a plate of water, open window, covered bin.",
      "a": "The covered water pot with the ladle beside it. The dabba standing in a plate of water. The window open for air. The bin with a lid.",
@@ -1850,11 +1845,91 @@
      "art": "An unlabelled drawing of a small Indian kitchen with five blank label lines."
     },
     {
-     "t": "write",
-     "p": "Name one thing that is a need in Ooty in December but a want in Chennai in May. Explain why.",
-     "lines": 3,
-     "a": "A woollen sweater. In Ooty in December it is cold, and the sweater traps still air and slows heat leaving the body. In Chennai in May it is hot, so a sweater is not needed.",
-     "why": "A strong answer names the thing and gives the reason from the weather."
+     "t": "truefalse",
+     "p": "Clothes and a home are basic needs because they keep us safe and well.",
+     "a": true,
+     "why": "True. Clothes protect the skin from sun, cold, rain, insects and dirt. A home protects us from heat, cold, rain, wind and animals."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these ways the body loses water by whether we usually notice them.",
+     "cats": [
+      "We notice it",
+      "We do not notice it"
+     ],
+     "items": [
+      [
+       "urine",
+       "We notice it"
+      ],
+      [
+       "sweat on a hot day",
+       "We notice it"
+      ],
+      [
+       "breath",
+       "We do not notice it"
+      ],
+      [
+       "a dry-looking hand",
+       "We do not notice it"
+      ]
+     ],
+     "a": "see items",
+     "why": "Urine and a lot of sweat are easy to notice. Water leaving in every breath and through dry-looking skin goes on all day without us noticing."
+    },
+    {
+     "t": "fill",
+     "p": "A home is also called a ____, because it protects us from heat, cold, rain and wind.",
+     "a": [
+      "shelter"
+     ],
+     "why": "Shelter means a place that protects us. A home is the shelter we use every day."
+    },
+    {
+     "t": "mcq",
+     "p": "Why do we cover food on the table?",
+     "opts": [
+      "Flies, ants and dust can bring germs onto it",
+      "The food will get too much air and go hard",
+      "The food needs to be kept in the dark to cook"
+     ],
+     "a": 0,
+     "why": "Flies, ants and dust can carry germs. A cover keeps them off the food, so it stays safe to eat."
+    },
+    {
+     "t": "match",
+     "p": "Match each word to what it means.",
+     "pairs": [
+      [
+       "Oxygen",
+       "the gas in air that our cells need"
+      ],
+      [
+       "Lungs",
+       "soft organs in the chest that fill with air"
+      ],
+      [
+       "Ventilation",
+       "fresh air coming in and used air going out"
+      ],
+      [
+       "Stagnant water",
+       "water that stays still for days"
+      ],
+      [
+       "Shelter",
+       "a place that protects us from weather and animals"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each word names one idea from the unit. A strong answer can use the word in a sentence of its own."
+    },
+    {
+     "t": "truefalse",
+     "p": "Sweat cools the body as it dries on the skin.",
+     "a": true,
+     "why": "True. As sweat dries, it takes heat from the skin. This is why loose cotton, which soaks up sweat and lets air pass, helps on a hot day."
     }
    ]
   },
@@ -1887,41 +1962,11 @@
      "why": "This is a real question with no single answer. Whether something is a need can depend on the person, the place and the weather."
     },
     {
-     "t": "mcq",
-     "p": "Kavya puts a bag over her hand. After 10 minutes she sees drops inside. Then she does 20 jumps and tries again. What will most likely happen?",
-     "opts": [
-      "No mist at all, because she is tired",
-      "The mist comes faster, because a warm, working body loses more water",
-      "The mist comes exactly as fast as before"
-     ],
-     "a": 1,
-     "why": "When you exercise, your body warms up and sweats to cool down, so more water leaves the skin. The bag mists faster. This is why you need to drink more after playing.",
-     "how": "e1"
-    },
-    {
      "t": "write",
-     "p": "In the Water Ring test, Meera's ants reached the sugar on the island. She finds a long thread lying from the floor up onto the katori. What happened, and how should she fix her test?",
+     "p": "Meera, a girl in Class 3, does the Water Ring test, and her ants reach the sugar on the island. She finds a long thread lying from the floor up onto the katori. What happened, and how should she fix her test?",
      "lines": 4,
      "a": "The thread made a bridge over the water, so the ants walked across it. She should remove the thread, check that nothing touches the island, and try again.",
      "why": "A strong answer spots the bridge and says how to make the test fair again: only the water should differ.",
-     "how": "e2"
-    },
-    {
-     "t": "count",
-     "p": "A child at rest breathes about 20 times a minute. About how many times does a child breathe in one hour?",
-     "a": 1200,
-     "why": "There are 60 minutes in an hour. 20 breaths times 60 minutes is 1,200 breaths. You do this every hour, awake or asleep, without thinking."
-    },
-    {
-     "t": "mcq",
-     "p": "Ayesha's family keeps the sugar tin standing in a plate of water. Why does this work?",
-     "opts": [
-      "The water makes the sugar taste bad to ants",
-      "Most ants will not cross water, so they cannot reach the tin",
-      "The water cools the sugar so ants can't smell it"
-     ],
-     "a": 1,
-     "why": "Most house ants turn back at water, and a small ant can be trapped on the water's surface. As long as nothing makes a bridge, the ants cannot reach the tin.",
      "how": "e2"
     },
     {
@@ -1976,12 +2021,6 @@
      "art": "A blank outline of a child's body."
     },
     {
-     "t": "truefalse",
-     "p": "A cool room with the AC on and the windows shut always has fresh air.",
-     "a": false,
-     "why": "False. Most home ACs cool the same room air again and again. With the windows shut, the carbon dioxide from everyone's breath builds up. Opening a window for a while lets fresh air in."
-    },
-    {
      "t": "fill",
      "p": "Water that stays still for days, where mosquitoes can lay eggs, is called ____ water.",
      "a": [
@@ -1991,7 +2030,7 @@
     },
     {
      "t": "mcq",
-     "p": "Paati, an old woman, has a headache on a hot afternoon. Her water bottle is still full. What is the most likely reason?",
+     "p": "An old woman in Chennai has a headache on a hot afternoon. Her water bottle is still full. What is the most likely reason?",
      "opts": [
       "She drank too much water",
       "She has not drunk enough, and her body is short of water",
@@ -2049,6 +2088,46 @@
      "lines": 3,
      "a": "She is hot and probably needs water. Birds pant to lose heat, and that also loses water. I could put out a shallow bowl of clean water and change it every day.",
      "why": "A strong answer names the need and a kind, safe way to help. Changing the water daily stops mosquitoes breeding in it."
+    },
+    {
+     "t": "order",
+     "p": "Put these in the order they happen when still water is left in a flower-pot plate.",
+     "items": [
+      "A grown mosquito flies out and bites",
+      "A mosquito lays eggs in the still water",
+      "Wrigglers swim and grow in the water for about a week"
+     ],
+     "a": [
+      "A mosquito lays eggs in the still water",
+      "Wrigglers swim and grow in the water for about a week",
+      "A grown mosquito flies out and bites"
+     ],
+     "why": "Eggs hatch into wrigglers in the water, and after about a week they become flying mosquitoes. Emptying the plate every week breaks the chain."
+    },
+    {
+     "t": "mcq",
+     "p": "Why does a woollen sweater keep you warm?",
+     "opts": [
+      "It traps still air, which slows heat leaving the body",
+      "It makes heat of its own",
+      "It lets cold air pass through easily"
+     ],
+     "a": 0,
+     "why": "Wool traps still air, and still air slows heat leaving the body. The sweater does not make heat. Your body does."
+    },
+    {
+     "t": "truefalse",
+     "p": "The air you breathe out has no oxygen left in it.",
+     "a": false,
+     "why": "False. Breathed-out air has less oxygen and more carbon dioxide than room air, but some oxygen is still in it."
+    },
+    {
+     "t": "fill",
+     "p": "Clothes made from the fibre called ____ soak up sweat and let air pass.",
+     "a": [
+      "cotton"
+     ],
+     "why": "Cotton soaks up sweat and lets air move past the skin, so the body can cool on a hot day."
     }
    ]
   },
@@ -2086,7 +2165,7 @@
     },
     {
      "t": "mcq",
-     "p": "Farhan wants to test whether ants will cross a ring of salty water as well as plain water. Which test is fair?",
+     "p": "Farhan, a boy in Class 3, wants to test whether ants will cross a ring of salty water as well as plain water. Which test is fair?",
      "opts": [
       "One plate with salty water and one with plain water, the same sugar on both islands, side by side",
       "Salty water today, plain water next week in a different room",
@@ -2102,12 +2181,6 @@
      "lines": 4,
      "a": "Flood water is mixed with mud, sewage and germs, so it is not safe to drink. It can spread cholera and diarrhoea. The family needs clean drinking water, boiled or bottled, even though water is all around.",
      "why": "A strong answer says the difference between water and safe drinking water, and why flood water is unsafe."
-    },
-    {
-     "t": "count",
-     "p": "Santorio wrote that if a person takes in 8 pounds of food and drink in a day, about 5 pounds leave unseen. How many pounds leave in ways you can see?",
-     "a": 3,
-     "why": "8 minus 5 is 3. So about 3 pounds leave as urine and stools, and more than half leaves unseen through the skin and breath. A pound is an old unit of weight, a little less than half a kilogram."
     },
     {
      "t": "draw",
@@ -2143,31 +2216,6 @@
      "why": "A strong answer names what falls in each place and what the slope does to it."
     },
     {
-     "t": "sort",
-     "p": "Sort these by how long a person can live without them.",
-     "cats": [
-      "A few minutes",
-      "A few days",
-      "A few weeks"
-     ],
-     "items": [
-      [
-       "air",
-       "A few minutes"
-      ],
-      [
-       "water",
-       "A few days"
-      ],
-      [
-       "food",
-       "A few weeks"
-      ]
-     ],
-     "a": "see items",
-     "why": "The body stores almost no oxygen, a little water and quite a lot of energy as fat. The less of a need the body can store, the sooner it must be met."
-    },
-    {
      "t": "label",
      "p": "Label where this body takes in its needs and where it lets things out: nose and mouth, skin, stomach, lungs.",
      "a": "Nose and mouth: air in, used air and water out. Lungs: oxygen in, carbon dioxide out. Stomach: food and drink in. Skin: water out all the time.",
@@ -2201,6 +2249,23 @@
      "lines": 4,
      "a": "It goes into the air as water vapour. Later it may cool and become part of a cloud, fall as rain, run into a lake or the ground, and be drunk by a plant, an animal or another person.",
      "why": "A strong answer follows the water out of the body and round the water cycle, back to another living thing."
+    },
+    {
+     "t": "mcq",
+     "p": "After playing in the May sun, Ritu has a headache and dark yellow urine. What should she do first?",
+     "opts": [
+      "Drink water and rest in the shade",
+      "Play more, to sweat it out",
+      "Put on a woollen sweater"
+     ],
+     "a": 0,
+     "why": "A headache and dark yellow urine can be signs of dehydration. She has lost more water than she has taken in, so she should drink and cool down."
+    },
+    {
+     "t": "truefalse",
+     "p": "The water you drank this morning will stay inside your body all week.",
+     "a": false,
+     "why": "False. Water leaves through urine, sweat, breath and skin every day. A grown-up's body replaces about a tenth of its water each day."
     }
    ]
   }
@@ -2212,8 +2277,7 @@
   "Architects put windows on two sides of rooms and exhaust fans in kitchens for ventilation.",
   "Disaster teams pack water, dry food, sheets and clothes for families in cyclones and floods.",
   "Sports coaches tell players to drink before and after a match, because a working body loses more water.",
-  "Clothes makers choose cotton for summer school uniforms and wool for winter wear.",
-  "Many families stand food cupboards or sugar dabbas in plates of water to keep ants out."
+  "Clothes makers choose cotton for summer school uniforms and wool for winter wear."
  ],
  "spotted": [
   {
@@ -2277,10 +2341,6 @@
  ],
  "jokes": [
   {
-   "j": "Why did the water bottle go to school?",
-   "a": "To get a little more refreshed."
-  },
-  {
    "j": "What did one lung say to the other?",
    "a": "Take a deep breath, I've got your back."
   },
@@ -2289,16 +2349,12 @@
    "a": "She forgot her swimming lessons."
   },
   {
-   "j": "What did the plate of idli say to the hungry child?",
-   "a": "I'm just what you knead."
-  },
-  {
    "j": "Why did the sweater stay in the cupboard in Chennai?",
    "a": "It wasn't needed, just wanted."
   },
   {
-   "j": "What do you call a house that is always out of breath?",
-   "a": "A room with no windows."
+   "j": "What is wrong with a room that has no windows?",
+   "a": "It can't catch its breath."
   },
   {
    "j": "Why was the mosquito sad on Sunday?",
@@ -2317,20 +2373,8 @@
    "a": "Anything that evaporates."
   },
   {
-   "j": "Why did the roof go to the doctor?",
-   "a": "It had a bad leak."
-  },
-  {
    "j": "What did the cotton shirt say on a hot day?",
    "a": "Don't worry, I'll soak it up."
-  },
-  {
-   "j": "Why did the boy bring a ladder to the kitchen?",
-   "a": "He heard the water was on a higher shelf."
-  },
-  {
-   "j": "What kind of room has no walls, no roof and no door?",
-   "a": "A mushroom. But it still needs water."
   },
   {
    "j": "Why did the tulsi plant say thank you?",
@@ -2393,7 +2437,7 @@
    }
   },
   {
-   "problem": "Kavya sat still with a bag on her hand, and saw mist after 6 minutes. Another day, she did 20 jumps first, and saw mist after 2 minutes. How many times faster did the mist come after jumping? Why?",
+   "problem": "Kavya, a girl in Class 3, sat still with a bag on her hand, and saw mist after 6 minutes. Another day, she did 20 jumps first, and saw mist after 2 minutes. How many times faster did the mist come after jumping? Why?",
    "answer": "3 times faster.",
    "explain": "6 divided by 2 is 3. After jumping, her body was warmer and sweating to cool down, so more water left her skin.",
    "math_unit": "math.division.division-facts.L3",
@@ -2411,22 +2455,19 @@
   {
    "title": "National Disaster Management Authority: what to do in a cyclone or flood",
    "url": "https://ndma.gov.in",
-   "kind": "interactive",
-   "why": "India's official advice for families on getting ready for cyclones and floods, including what to keep in an emergency kit."
+   "kind": "interactive"
   },
   {
    "title": "Visvesvaraya Industrial and Technological Museum",
    "url": "https://www.vismuseum.gov.in",
    "kind": "place",
-   "where": "Bengaluru",
-   "why": "A science museum with galleries on the human body and on how science helps everyday life."
+   "where": "Bengaluru"
   },
   {
    "title": "Regional Science Centre, Chennai (Tamil Nadu Science and Technology Centre)",
    "url": "https://www.tnstc.gov.in",
    "kind": "place",
-   "where": "Chennai",
-   "why": "Science galleries, including on the human body, for a day out."
+   "where": "Chennai"
   }
  ],
  "buy": [],
@@ -2545,7 +2586,7 @@
    "what_is_life": "A living being keeps taking in and giving out. An ant, a crow, a tulsi plant and you all need air and water every day.",
    "what_is_this_world": "The water that leaves your skin goes into the air, and may fall as rain somewhere else. Another living being will drink it."
   },
-  "thread": "Air goes in and out of you about 20 times a minute. Water leaves your skin, your breath and your body all day, and comes back in drinks and food. The same air and water pass through plants, ants, crows and people in turn. A tulsi plant gives out water from their leaves, and a crow drinks from a bowl. Our needs are the places where the world's air and water flow into us and out again.",
+  "thread": "Air goes in and out of you about 20 times a minute. Water leaves your skin, your breath and your body all day, and comes back in drinks and food. The same air and water pass through plants, ants, crows and people in turn. A tulsi plant gives out water from her leaves, and a crow drinks from a bowl. Our needs are the places where the world's air and water flow into us and out again.",
   "teachings": [
    {
     "source": "Taittiriya Upanishad 3.2 (Bhrigu Valli)",
@@ -2590,7 +2631,7 @@
   ],
   "art": "A child on a balcony at dawn holding a tumbler of water, faint mist rising from their hand and breath towards a small cloud, with a crow, a tulsi plant and a line of ants nearby."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home in a city flat. The Hidden Water Test needs only see-through bags, a tumbler and loose hair bands. A dry hand mists a bag within about 5 to 10 minutes in a normal room, and drops form by 15 minutes, while the tumbler bag stays clear. In an AC room it can take 20 minutes, so the step says so. Bags are only ever for hands, and the band stays loose. The Water Ring test uses sugar in bottle caps near an ant path. Ants are found in nearly every Indian home, but they may take an hour or two, so the test is checked at 30 minutes and again at 1 to 2 hours, with an overnight fallback. A bridge such as a thread or crumb can let ants cross, so the steps check for one. No ants are harmed, and the trail is wiped at the end. The Breeze Path depends on some breeze, so it suggests the evening on a still day. Hold and Wait is done sitting down, never in water, and never as a contest. Nothing needs to be bought. The spine is the breath-holding start, the Hidden Water Test, the explanation cards, roots and the quiz, about 85 minutes.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home in a city flat. The Hidden Water Test needs only see-through bags, a tumbler and loose hair bands. A dry hand mists a bag within about 5 to 10 minutes in a normal room, and drops form by 15 minutes, while the tumbler bag stays clear. In an AC room it can take 20 minutes, so the step says so. Bags are only ever for hands, and the band stays loose. The Water Ring test uses sugar in bottle caps near an ant path. Ants are found in nearly every Indian home, but they may take an hour or two, so the test is checked at 30 minutes and again at 1 to 2 hours, with an overnight fallback. A bridge such as a thread or crumb can let ants cross, so the steps check for one. No ants are harmed, and the trail is wiped at the end. The Breeze Path depends on some breeze, so it suggests the evening on a still day. Hold and Wait is done sitting down, never in water, and never as a contest. Nothing needs to be bought. Pack the Boat has 24 packing cards and 10 event cards, and every card is used by at least one event. The spine is the breath-holding start, the Hidden Water Test, the explanation cards, roots and the quiz, about 85 minutes.",
  "how_we_found_out": {
   "story": "Santorio Santorio was a doctor and a professor in Padua, in Italy. He wanted to measure the body, not only guess about it. So he hung a chair from a big balance and sat in it to eat his meals, watching the scale. For about thirty years he weighed himself, everything he ate and drank, and everything that came out of him as urine and stools. The numbers did not add up. The waste he could see weighed much less than the food and drink that went in, yet his own weight stayed about the same. So a large part must have been leaving his body where nobody could see it, through the skin and in the breath. In 1614 he published his results in a short book. He wrote that if a person takes in 8 pounds of food and drink in a day, about 5 pounds leave unseen. He called this insensible perspiration, meaning sweat that cannot be sensed. About 175 years later in Paris, Armand Seguin sat sealed in an airtight suit of varnished silk, breathing through a tube, while Antoine Lavoisier weighed him. They showed that both the skin and the breath carry water out.",
   "who": "Santorio Santorio, a doctor in Padua, Italy, and later Antoine Lavoisier and Armand Seguin in Paris",

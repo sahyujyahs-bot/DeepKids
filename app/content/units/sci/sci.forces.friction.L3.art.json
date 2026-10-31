@@ -54,6 +54,22 @@
  "maths": "media/img/sci.forces.friction.L3/maths.jpg",
  "open": "media/img/sci.forces.friction.L3/open.jpg",
  "quiz": "media/img/sci.forces.friction.L3/quiz.jpg",
+ "setup.e2.0": {
+  "src": "media/img/sci.forces.friction.L3/setup.e2.0.jpg",
+  "drawn": true
+ },
+ "setup.e2.1": {
+  "src": "media/img/sci.forces.friction.L3/setup.e2.1.jpg",
+  "drawn": true
+ },
+ "setup.e2.2": {
+  "src": "media/img/sci.forces.friction.L3/setup.e2.2.jpg",
+  "drawn": true
+ },
+ "setup.e3.1": {
+  "src": "media/img/sci.forces.friction.L3/setup.e3.1.jpg",
+  "drawn": true
+ },
  "song": "media/img/sci.forces.friction.L3/song.jpg",
  "spot.0": "media/img/sci.forces.friction.L3/spot.0.jpg",
  "spot.1": "media/img/sci.forces.friction.L3/spot.1.jpg",

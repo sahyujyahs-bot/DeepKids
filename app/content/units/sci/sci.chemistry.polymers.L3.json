@@ -410,7 +410,7 @@
       },
       {
        "f": "A glass tumbler",
-       "b": "Not a polymer: glass is not made of chains"
+       "b": "Not a polymer: glass is melted sand, not long chain molecules like plastic or silk"
       },
       {
        "f": "A copper wire",
@@ -436,8 +436,8 @@
     "Lay the three heading cards in a row. Shuffle the thing cards and put them face down.",
     "On your turn, turn over the top card and read it out.",
     "Put it under the heading you think is right, and say why.",
-    "Turn it over to check the back. Right, and you keep the card. Wrong, and it goes to the bottom of the pile.",
-    "When the pile is gone, the player with most cards wins. Playing alone, try to keep 20 or more."
+    "Turn it over to check the back. If you were right, you keep the card. If you were wrong, it goes to the bottom of the pile.",
+    "When the pile is gone, the player with the most cards wins. Playing alone, try to keep 20 or more."
    ],
    "flow": [
     {
@@ -451,7 +451,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play the card 'A rubber band' as a practice round.",
+     "do": "Take out the card 'A rubber band' and play it as a practice round. Then put it back in the pile.",
      "say": "Practice card: a rubber band. Where does it go?",
      "kid": "Practice card: a rubber band. Where does it go?",
      "check": {
@@ -521,8 +521,8 @@
        "b": "The ties break before they can join again"
       },
       {
-       "f": "Why does a silkworm spin a cocoon?",
-       "b": "To keep safe while their body changes into a moth"
+       "f": "What is a monomer?",
+       "b": "One of the small pieces that join up to make a polymer"
       },
       {
        "f": "Why does a rubber tree make latex?",
@@ -570,31 +570,32 @@
      "kind": "tokens",
      "title": "Links: paper clips, or paper strips looped into a paper chain, ten for each player",
      "items": [
-      "🔗"
+      "Paper clips: 10 for each player. If you have none, cut 10 small paper squares for each player and lay them in a row as your chain."
      ]
     }
    ],
    "rules": [
-    "Each player starts with no links. Shuffle the question cards face down.",
+    "Each player starts with no links. Shuffle the question cards and put them face down in a pile.",
     "On your turn, another player reads you a card. Playing alone, read it yourself and check the back.",
-    "Answer right, and add one link to your chain.",
-    "If you get two right in a row, you may add a cross-link: hook your chain to another player's. Then you both get one extra link.",
-    "The first chain with 10 links is a polymer, and that player wins. Playing alone, try to make 10 links before the cards run out."
+    "Answer right, and add one link to your chain. Answer wrong, and the turn passes on.",
+    "Put each used card in a discard pile. If the pile of cards runs out, shuffle the discard pile and carry on.",
+    "If you get two right in a row, you may make a cross-link: choose another player, and you both add one extra link. Playing alone, there are no cross-links.",
+    "The first chain with 10 links is a polymer, and that player wins. Playing alone, try to make 10 links before you have gone through the cards twice."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Give each player a pile of paper clips. 2. Shuffle the cards face down.",
+     "do": "1. Give each player 10 paper clips or paper squares to take from, and keep the pile in the middle. 2. Shuffle the cards face down.",
      "say": "Each right answer adds one small piece to your chain, the way monomers join to make a polymer.",
-     "kid": "Take your paper clips. Mix up the cards. Each right answer adds a link.",
+     "kid": "Take your paper clips. Mix up the cards. Each right answer adds a link to your chain.",
      "context": "This is the first step of Link Up, a chain-building game. Here you set it up."
     },
     {
      "id": "s2",
      "mins": 18,
      "do": "Play until someone reaches 10 links.",
-     "say": "Read the card and answer. Right? Add a link. Two right in a row? You may make a cross-link.",
+     "say": "Read the card and answer. Right? Add a link. Two right in a row? You may make a cross-link with another player.",
      "kid": "Answer the card. Right? Add a link to your chain.",
      "check": {
       "t": "mcq",
@@ -605,7 +606,7 @@
        "Makes a chain shorter"
       ],
       "a": 0,
-      "why": "A cross-link is a tie between two chains. In slime, borax makes cross-links. In the game, a cross-link hooks two players' chains into one."
+      "why": "A cross-link is a tie between two chains. In slime, borax makes cross-links. In the game, a cross-link gives you and another player one extra link each."
      }
     }
    ],
@@ -615,8 +616,8 @@
      "caption": "1. Each right answer adds a paper clip."
     },
     {
-     "art": "Two paper clip chains hooked together in the middle by one extra clip.",
-     "caption": "2. Two right in a row? Make a cross-link."
+     "art": "Two paper clip chains side by side, each with one extra clip added at the end.",
+     "caption": "2. Two right in a row? Make a cross-link: you both add one extra link."
     }
    ]
   }
@@ -939,18 +940,18 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Dip the skewer point in oil. 2. Hold the balloon gently. 3. Push the point into the thick rubber near the knot, twisting slowly as you push. 4. Keep going and push it out through the dark spot at the top.",
+     "do": "1. Dip the skewer point in oil. 2. Hold the balloon gently. 3. Push the point into the thick rubber near the knot, twisting slowly as you push. 4. Keep going and push it out through the dark spot at the top. 5. If the balloon stays up, repeat on a second new balloon.",
      "say": "We twist the skewer in slowly, near the knot. Let's see if the rubber stretches around it.",
-     "kid": "A grown-up twists the oily skewer in near the knot. Watch closely. Does it pop?",
+     "kid": "A grown-up twists the oily skewer in near the knot. Watch closely. Does it pop? Try once more on a new balloon.",
      "adult": true,
-     "parent": "Twist gently and slowly. Most of the time the skewer goes through both ends and the balloon stays up, leaking only a little air. If it pops, blow up a new balloon a little less full and try again."
+     "parent": "Twist gently and slowly. Most of the time the skewer goes through both ends and the balloon stays up, leaking only a little air. If it pops, write that down and carry on with the next balloon. You have 4 balloons: two for the knot end, two for the side."
     },
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. Blow up a new balloon to the same size. 2. Touch the oiled skewer point to the pale side and push gently.",
+     "do": "1. Blow up a new balloon to the same size. 2. Touch the oiled skewer point to the pale side and push gently. 3. Repeat on the last balloon.",
      "say": "Now the side, where the rubber is stretched thin. What do you think will happen?",
-     "kid": "Now a grown-up pushes the skewer into the side. What happens?",
+     "kid": "Now a grown-up pushes the skewer into the side. What happens? Try once more on a new balloon.",
      "adult": true,
      "ask": [
       {
@@ -1059,7 +1060,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Hold one end of the strip in each hand. 2. Pull your hands apart very slowly, over about half a minute. 3. Stop when one part has gone narrow and grown long. 4. Keep pulling slowly and watch the narrow part.",
+     "do": "1. Hold one end of the strip in each hand. 2. Pull your hands apart very slowly, over about half a minute. 3. When one part goes narrow and long, keep pulling slowly and watch that narrow part grow along the strip.",
      "say": "Pull very slowly and watch closely. Does the strip stretch all over, or in one place?",
      "kid": "Hold both ends. Pull very slowly. Watch the squares. Which ones change?",
      "ask": [
@@ -1072,7 +1073,7 @@
        ]
       }
      ],
-     "parent": "One spot goes narrow, often looking a little whiter. This narrow part grows along the strip as you keep pulling, while the wide parts hardly change."
+     "parent": "One spot goes narrow, often looking a little whiter. This narrow part grows along the strip as you keep pulling, while the wide parts hardly change. Some packets stretch more evenly. If yours does, write that down as a result, and try a curd or oil packet."
     },
     {
      "id": "s4",
@@ -1195,9 +1196,9 @@
   },
   {
    "id": "a2",
-   "title": "Isabgol Slime: a slime a plant made",
+   "title": "Isabgol Jelly: a slime a plant made",
    "mins": 20,
-   "context": "In this activity you heat isabgol husk in water to make a gooey slime. Isabgol is the seed coat of the Plantago plant. Isabgol slime is a natural polymer.",
+   "context": "In this activity you heat isabgol husk in water to make a gooey jelly. The husk is the seed coat of the Plantago plant, and the jelly is a natural polymer.",
    "materials": [
     {
      "item": "isabgol (psyllium husk), from a chemist or grocery shop",
@@ -1256,7 +1257,7 @@
        ]
       }
      ],
-     "parent": "Isabgol slime is wetter and less bouncy than borax slime, but it stretches into threads. Throw it in the dustbin after a day."
+     "parent": "Isabgol slime is a wobbly, wet jelly. It is less bouncy than borax slime and may only make short strings when pulled slowly. Throw it in the dustbin after a day."
     }
    ],
    "setup": [
@@ -1267,68 +1268,6 @@
     {
      "art": "A child's hands pulling a clear brown slime into a thread over a plate.",
      "caption": "2. Cool it, then stretch it."
-    }
-   ]
-  },
-  {
-   "id": "a3",
-   "title": "Polymer Hunt: which things at home are long chains?",
-   "mins": 15,
-   "context": "In this activity you collect things from around the home and sort them into polymers made by living beings, polymers people made, and things that are not polymers.",
-   "materials": [
-    {
-     "item": "about 15 things from around the home, such as a cotton towel, a woollen sock, a rubber band, a steel spoon, a plastic bottle, salt, a sheet of paper",
-     "qty": 15
-    },
-    {
-     "item": "three sheets of paper as labels: 'Made by living beings', 'Made by people', 'Not a polymer'",
-     "qty": 3
-    }
-   ],
-   "flow": [
-    {
-     "id": "s1",
-     "mins": 5,
-     "do": "1. Put the three labels on the floor. 2. Collect about 15 things from the home.",
-     "say": "Polymers are long chain molecules. Some are made by plants and animals, and some by people in factories. Let's find some.",
-     "kid": "Put down the three labels. Collect 15 things from home.",
-     "context": "This is the first step of the polymer hunt. You collect things to sort."
-    },
-    {
-     "id": "s2",
-     "mins": 7,
-     "do": "Sort each thing onto a label. Say why.",
-     "say": "Where does each thing go? Why do you think so?",
-     "kid": "Put each thing on a label. Say why.",
-     "parent": "Made by living beings: cotton, wool, silk, paper, wood, jute, rubber bands, rice, hair. Made by people: plastic, nylon, polyester, thermocol. Not polymers: steel, salt, sugar, glass, water, copper.",
-     "check": {
-      "t": "mcq",
-      "q": "Where does a cotton towel go?",
-      "options": [
-       "Made by living beings",
-       "Made by people",
-       "Not a polymer"
-      ],
-      "a": 0,
-      "why": "Cotton is cellulose, a polymer made by the cotton plant. People spin and weave it, but the long chains were made by the plant."
-     }
-    },
-    {
-     "id": "s3",
-     "mins": 3,
-     "do": "Count each heap.",
-     "say": "Which heap is biggest? Are you surprised?",
-     "kid": "Count each heap. Which is biggest?"
-    }
-   ],
-   "setup": [
-    {
-     "art": "Three paper labels on a floor with a towel, a sock and a rubber band on one, a bottle and a toothbrush on another, a spoon and a salt jar on the third.",
-     "caption": "1. Sort each thing onto one of three labels."
-    },
-    {
-     "art": "A child counting things in three heaps on the floor.",
-     "caption": "2. Count each heap."
     }
    ]
   },
@@ -1347,12 +1286,16 @@
      "qty": 1
     },
     {
-     "item": "metal tweezers or tongs",
+     "item": "metal tongs or long tweezers",
      "qty": 1
     },
     {
-     "item": "a steel plate with a little water on it",
+     "item": "a steel plate with a little water on it, for dropping the threads on",
      "qty": 1
+    },
+    {
+     "item": "a second, dry steel plate to stand the diya or candle on",
+     "qty": "1"
     }
    ],
    "safety": "Only a grown-up holds the thread in the flame, with tongs, over the wet plate, near an open window. Tie back long hair. Melted plastic is very hot and sticks to skin: never touch it until it has cooled. Keep the threads tiny.",
@@ -1360,7 +1303,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Light the diya on a steel plate near an open window. 2. Lay out the threads and name each one.",
+     "do": "1. Stand the diya on the dry plate near an open window and light it. 2. Lay out the threads and name each one.",
      "say": "Silk and wool are proteins, like your hair. Cotton is made by a plant. Polyester and nylon are plastics. Do you think they will burn the same way?",
      "kid": "Look at the threads. Which do you think burns fastest? Why?",
      "adult": true,
@@ -1407,7 +1350,7 @@
    "id": "a5",
    "title": "The Number in the Triangle: which plastic is it?",
    "mins": 15,
-   "context": "In this activity you look for the small triangle with a number on plastic things at home. The number tells you which plastic, which is which polymer, the thing is made of.",
+   "context": "In this activity you look for the small triangle with a number on plastic things at home. The number tells you which plastic, which means which polymer, the thing is made of.",
    "materials": [
     {
      "item": "about 10 plastic things from the kitchen and bathroom: bottles, tubs, packets, a bucket, a mug",
@@ -1467,8 +1410,7 @@
    "materials": [
     {
      "item": "slime from the borax test (cup 3), split into two equal balls",
-     "qty": 2,
-     "buy": "b-glue"
+     "qty": 2
     },
     {
      "item": "a small box with a lid",
@@ -1492,7 +1434,7 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Split the slime into two balls. Put one in a closed box and one on an open saucer. Measure and feel both."
+     "what": "Split the slime into two balls. Put one in a closed box and one on an open saucer. Feel both and write how each feels."
     },
     {
      "day": 2,
@@ -1510,7 +1452,7 @@
      "what": "Compare them. Knead a few drops of water into the dry one. Does it soften?"
     }
    ],
-   "record": "Each day, write how each ball feels, how far it stretches before it breaks, and draw it.",
+   "record": "Each day, write how each ball feels and how far it stretches before it breaks, and draw it.",
    "flow": [
     {
      "id": "s1",
@@ -1605,7 +1547,7 @@
      "say": "What will you change, and why do you think it will bounce higher?",
      "kid": "Change one thing in your recipe. Make it. Drop it three times.",
      "adult": true,
-     "parent": "A grown-up adds the borax water. A firmer slime with more borax usually bounces higher, but too much makes it crumbly."
+     "parent": "A grown-up adds the borax water. A firmer slime with more borax usually bounces a little higher, but a slime ball bounces only a few centimetres at best. Too much borax makes it crumbly."
     },
     {
      "id": "s3",
@@ -1923,7 +1865,7 @@
        "Not a polymer"
       ],
       [
-       "a cotton dhoti",
+       "a cotton gamosa",
        "Polymer"
       ],
       [
@@ -2110,47 +2052,23 @@
      "why": "Sulfur makes cross-links between rubber chains, as borax does in slime. The tied chains cannot slide past each other, so the rubber stays springy in heat."
     },
     {
+     "t": "mcq",
+     "p": "A blob of slime slowly spreads out on a plate, but a rubber band keeps its shape. Both have ties between their chains. What is different about the ties?",
+     "opts": [
+      "The ties in slime keep breaking and joining again, but the ties in vulcanised rubber stay",
+      "Slime has no ties at all",
+      "The rubber band has no chains",
+      "Slime has more sulfur"
+     ],
+     "a": 0,
+     "why": "In slime, the borax ties let go and join again, so the chains slowly slide and the slime flows. In vulcanised rubber, sulfur makes ties that stay, so a tyre or a band keeps its shape."
+    },
+    {
      "t": "write",
      "p": "Borax was only a few teaspoons in a cup of glue, but it changed the whole cup into slime. Explain how so little could change so much.",
      "lines": 4,
      "a": "Each tie joins two long chains. Because every chain is so long, a few ties along each one are enough to join every chain to others. Then the whole cup is one net.",
      "why": "A strong answer uses the length of the chains: long chains need only a few ties each to make one net."
-    },
-    {
-     "t": "sort",
-     "p": "Sort these by who made the polymer.",
-     "cats": [
-      "Living beings",
-      "People in factories"
-     ],
-     "items": [
-      [
-       "nylon rope",
-       "People in factories"
-      ],
-      [
-       "silk thread",
-       "Living beings"
-      ],
-      [
-       "polyester shirt",
-       "People in factories"
-      ],
-      [
-       "jute sack",
-       "Living beings"
-      ],
-      [
-       "thermocol box",
-       "People in factories"
-      ],
-      [
-       "starch in rice",
-       "Living beings"
-      ]
-     ],
-     "a": "see items",
-     "why": "Silk, jute and starch are made by a silkworm and plants. Nylon, polyester and thermocol are plastics made from oil or gas."
     },
     {
      "t": "mcq",
@@ -2196,7 +2114,7 @@
     },
     {
      "t": "perspective",
-     "p": "A family in Kochi is choosing a school bag.",
+     "p": "Rani, aged 10, and her family in Kochi are choosing a school bag.",
      "views": [
       {
        "who": "Amma",
@@ -2497,7 +2415,7 @@
   "Clothes from cotton, silk, wool, polyester and nylon.",
   "Milk packets, water bottles, buckets and pipes are different plastics.",
   "Paper and cardboard are cellulose, a plant polymer.",
-  "Starch thickens sambar, kheer and payasam when it cooks.",
+  "Starch thickens payasam, kheer and kadhi when it cooks.",
   "Nappies hold a lot of water because of a polymer that swells into a gel.",
   "Doctors use plastic syringes, drip bags and gloves once, to stop germs spreading.",
   "Ropes, fishing nets and tennis racket strings are polymer fibres."
@@ -2508,7 +2426,7 @@
    "art": "Rows of rubber trees with small cups tied to their trunks."
   },
   {
-   "text": "Silk sarees in a Kanchipuram or Mysuru silk shop.",
+   "text": "Silk sarees in a silk shop: Kanchipuram, Banaras or Assam silk.",
    "art": "Bright silk sarees folded in stacks on shop shelves."
   },
   {
@@ -2588,10 +2506,6 @@
   {
    "j": "Why don't slime balls ever win races?",
    "a": "They keep spreading themselves too thin."
-  },
-  {
-   "j": "What did the silkworm say to the moth?",
-   "a": "I spun my way to the top."
   }
  ],
  "maths": [
@@ -2630,7 +2544,7 @@
    "why_maths": "Doubling the amount each time is a quick way to see whether more ties keep making a difference."
   },
   {
-   "problem": "Lakshmi marked a milk packet strip in squares 1 cm long. After she pulled it, square 5 was 4 cm long. How many times longer did square 5 become? If three squares each grew to 4 cm and the other seven stayed 1 cm, how long is the marked part now?",
+   "problem": "Lakshmi, a girl in Class 3, marked a milk packet strip in squares 1 cm long. After she pulled it, square 5 was 4 cm long. How many times longer did square 5 become? If three squares each grew to 4 cm and the other seven stayed 1 cm, how long is the marked part now?",
    "answer": "4 times longer. The marked part is now 19 cm long.",
    "explain": "4 cm divided by 1 cm is 4, so square 5 became 4 times longer. Three squares of 4 cm make 12 cm. Seven squares of 1 cm make 7 cm. 12 plus 7 is 19 cm.",
    "math_unit": "math.length.standard-units-length.L3",
@@ -2639,9 +2553,9 @@
    "why_maths": "Adding up the squares one by one shows that the whole strip grew because a few squares stretched a lot, not because all stretched a little."
   },
   {
-   "problem": "In the Link Up game, each player needs 10 links to win. Divya has 4 links and Kavya has 7. If Divya answers two right in a row and makes a cross-link with Kavya, they both get one extra link, and Divya gets one link for each right answer. How many links does each have now?",
-   "answer": "Divya has 7 links and Kavya has 8.",
-   "explain": "Divya gets 2 links for her two right answers: 4 plus 2 is 6. The cross-link gives her 1 more: 6 plus 1 is 7. Kavya gets 1 extra from the cross-link: 7 plus 1 is 8.",
+   "problem": "Two friends, Mitali and Aaliya, play Link Up, where each player needs 10 links to win. Mitali has 4 links and Aaliya has 7. Mitali answers two right in a row and makes a cross-link with Aaliya, so they both get one extra link. Mitali also gets one link for each right answer. How many links does each have now?",
+   "answer": "Mitali has 7 links and Aaliya has 8.",
+   "explain": "Mitali gets 2 links for her two right answers: 4 plus 2 is 6. The cross-link gives her 1 more: 6 plus 1 is 7. Aaliya gets 1 extra from the cross-link: 7 plus 1 is 8.",
    "math_unit": "math.addition-subtraction.mental-strategies.L3",
    "context": "This is about Link Up, the chain-building game. Each right answer adds a link, and a cross-link gives both players one extra.",
    "how": "g2",
@@ -2691,7 +2605,6 @@
    "url": "https://www.amazon.in/s?k=white+pva+craft+glue",
    "used_in": [
     "e1",
-    "p1",
     "c1"
    ]
   },
@@ -2785,7 +2698,6 @@
    "g1",
    "ws-core",
    "e2",
-   "a3",
    "a5",
    "videos",
    "agreed",
@@ -2806,8 +2718,7 @@
    "e1",
    "e3",
    "g1",
-   "ws-core",
-   "a3"
+   "ws-core"
   ],
   "spine": [
    "intro",
@@ -2848,7 +2759,7 @@
    "what_is_life": "A silkworm, a spider and a rubber tree each make a polymer to solve a problem in their life: a safe cocoon, a web to catch food, a seal for a cut.",
    "what_is_this_world": "Plastic is a polymer that people made. It lasts a very long time, because few living beings can yet break its chains."
   },
-  "thread": "A polymer is many small, identical pieces joined into one long molecule. One piece alone is a tiny thing that slips about like water. Thousands joined in a row become a silk thread or a strand of hair. Tie those chains to each other, and a whole cup of them acts as one piece. This is the many becoming one, and the one acting as a whole: in your slime, in a silkworm's cocoon, and in you.",
+  "thread": "A polymer is many small pieces joined into one long molecule. One small piece alone slips about like water. Thousands joined in a row make a silk thread or a strand of hair. Tie those chains to each other, and a whole cup of them moves as one piece, as in your slime.",
   "teachings": [
    {
     "source": "Avatamsaka Sutra, the image of Indra's net",
@@ -2888,7 +2799,7 @@
   ],
   "art": "A family standing in a line holding hands on a balcony, with a faint drawing of long tied chains over them like a net."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home, with the materials listed. Choices made: the slime uses runny white PVA craft glue, which most Indian homes keep for school projects, and borax (suhaga), sold at ayurvedic and pansari shops; a contact lens solution with boric acid and a pinch of baking soda is given as a fallback. The borax water is strong (1 level teaspoon in half a cup) so that 1, 3 and 6 teaspoons give clearly different slimes: cup 1 may stay stringy, which is a result, not a failure. A grown-up mixes and spoons out the borax water, and slime goes in the dustbin, not the sink. The skewer test needs an oiled bamboo skewer, a balloon three-quarters full, and twisting slowly near the knot; a spare balloon is listed because one may pop. The plastic stretch uses a washed milk packet, which every city flat has; it necks and the neck travels, which is easy to see on 1 cm marks. The isabgol slime and burn test need a grown-up at the flame. Oobleck, milk plastic and rubber band tests are in other units, so they are not repeated here. Both games work for one child alone. The spine (intro, noodles and rice, the borax test, explanations, roots and quiz) fits about 85 minutes.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home, with the materials listed. Choices made: the slime uses runny white PVA craft glue, which most Indian homes keep for school projects, and borax (suhaga), sold at ayurvedic and pansari shops; a contact lens solution with boric acid and a pinch of baking soda is given as a fallback. The borax water is strong (1 level teaspoon in half a cup) so that 1, 3 and 6 teaspoons give clearly different slimes: cup 1 may stay stringy, which is a result, not a failure. A grown-up mixes and spoons out the borax water, and slime goes in the dustbin, not the sink. The skewer test needs an oiled bamboo skewer, a balloon three-quarters full, and twisting slowly near the knot; four balloons are listed so each place can be tried twice. The plastic stretch uses a washed milk packet, which every city flat has; it necks and the neck travels, which is easy to see on 1 cm marks. The isabgol slime and burn test need a grown-up at the flame. Oobleck, milk plastic and rubber band tests are in other units, so they are not repeated here. The home sorting hunt was removed because the card game Chain or Not does the same sorting. Both games work for one child alone and for two players. The spine (intro, noodles and rice, the borax test, explanations, roots and quiz) fits about 85 minutes.",
  "how_we_found_out": {
   "story": "About a hundred years ago, chemists were puzzled by rubber, starch and cotton. Their molecules seemed enormous. Most chemists thought this was a trick. They said these materials were clumps of small molecules stuck loosely together, like grains in a ball of wet sand. In 1920 Hermann Staudinger, a German chemist, said the opposite. He said rubber is made of giant molecules: very long chains of atoms, held by the same strong bonds as small molecules. Many chemists laughed at him. One told him to purify his rubber properly, and it would turn out to be small molecules. Staudinger tested the clump idea. If rubber were a loose clump, changing its chemistry should break it into small pieces. He added hydrogen to rubber, and it stayed made of giant molecules. In the 1930s, Wallace Carothers, an American chemist, built long chains on purpose by joining small molecules one after another. That is how nylon was made. Staudinger won the Nobel Prize in Chemistry in 1953. His wife, Magda Staudinger, a plant scientist, worked with him on giant molecules.",
   "who": "Hermann Staudinger, a German chemist, with Magda Staudinger, a plant scientist; and Wallace Carothers, an American chemist",

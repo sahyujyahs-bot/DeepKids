@@ -48,14 +48,14 @@ Pull back the plunger of a syringe to fill it with air. Hold a finger tight over
 ### Air has weight · *defined*
 **Definition:** Air has weight. Near the ground, one litre of air weighs about 1.2 grams.
 
-Air feels like nothing, but the Earth's gravity pulls on it, just as it pulls on you. One litre of air, the size of a big water bottle, weighs about 1.2 grams, about as much as one paper clip. That is very light. But there is a lot of air. A small bedroom, 3 metres long, 3 metres wide and 3 metres high, holds about 32 kilograms of air. That is about as heavy as a child of 9 or 10. We don't feel the weight of the air because it pushes on us equally from every side, and our bodies push back.
+Air feels like nothing, but the Earth's gravity pulls on it, just as it pulls on you. One litre of air, the size of a big water bottle, weighs about 1.2 grams, about as much as one paper clip. That is very light. But there is a lot of air. A small bedroom, 3 metres long, 3 metres wide and 3 metres high, holds about 32 kilograms of air. That is about as heavy as a child of 9 or 10. We do not notice the weight of the air because it pushes on us equally from every side, and our bodies push back.
 - e.g. A football gets a few grams heavier when you pump more air into it.
 - e.g. A bottle of soda water gets a few grams lighter after it goes flat, because the gas has escaped.
 - e.g. The air above every square centimetre of the ground weighs about 1 kilogram, all the way to the top of the sky.
 ### What air is made of · *defined*
 **Definition:** Air is a mixture of gases. About four-fifths is nitrogen and about one-fifth is oxygen. The rest is a little argon, carbon dioxide and water vapour.
 
-Air is not one thing. It is a mixture of gases, all invisible. If you could sort 100 particles of dry air, about 78 would be nitrogen and about 21 would be oxygen. Almost all of the last one would be a gas called argon. Carbon dioxide is only about 4 out of every 10,000 particles, but plants depend on it. Air also carries water vapour, which is water as a gas. On a sticky monsoon day in Chennai there is much more water vapour in the air than on a dry winter day in Delhi. Air also carries dust, pollen and smoke, which are not gases.
+Air is not one thing. It is a mixture of gases, all invisible. If you could sort 100 particles of dry air, about 78 would be nitrogen and about 21 would be oxygen. The last one would almost always be a gas called argon. Carbon dioxide is only about 4 out of every 10,000 particles, but plants depend on it. Air also carries water vapour, which is water as a gas. On a sticky monsoon day in Chennai there is much more water vapour in the air than on a dry winter day in Delhi. Air also carries dust, pollen and smoke, which are not gases.
 - e.g. A cold steel tumbler from the fridge gets wet on the outside, because water vapour from the air turns back into drops on it.
 - e.g. On a smoky day after Deepavali crackers, the air carries tiny bits of smoke as well as its gases.
 - e.g. Divers carry air in tanks because they need its oxygen under water.
@@ -102,7 +102,7 @@ When the Earth was young, its air had almost no oxygen. Scientists agree that th
   For: We cannot see, smell or feel anything inside an empty bottle.  
   Against: A sealed bottle stops a balloon growing, and pouring water into it makes bubbles. The bottle is full of air.
 - **Air weighs nothing.** (A common idea, because air feels weightless; *rejected*)  
-  For: We never feel the air pressing down on our heads, and a blown-up balloon floats about easily.  
+  For: We cannot sense the air pressing down on our heads, and a blown-up balloon floats about easily.  
   Against: Weigh a football before and after pumping, and it gets a little heavier. Careful scales show that one litre of air weighs about 1.2 grams.
 - **Plants breathe in carbon dioxide and animals breathe in oxygen. Plants don't need oxygen.** (A common idea, even in some school books; *rejected*)  
   For: In sunlight, plants clearly take in carbon dioxide and give out oxygen.  
@@ -222,9 +222,9 @@ Kavya laughed, and went to fetch the sugarcane.
 
 ## Games
 ### g1 · Where Is the Air Hiding? a card game (20 min)
-- **rules:** Shuffle the thing cards and put them face down. Shuffle the challenge cards and put them in a second pile.; On your turn, turn over a thing card. Say whether air or another gas is hiding in it, and where. The words in brackets are the answer.; If you are right, keep the card. If you are wrong, put it at the bottom of the pile.; If you can also say how to test it at home, take a challenge card too and answer it for a bonus point.; When all the thing cards are won, the player with the most cards and points wins.; Playing alone: try to win all 24 cards in 30 turns.
-- **Printable cards: 24 thing cards to cut out:** A kitchen sponge (air in its holes); A slice of bread (air in its holes); A football (compressed air inside); A pot of dry soil (air between the grains); A steel tumbler of rice (air between the grains); An 'empty' water bottle (full of air); Your lungs (air in tiny air bags); A lotus stem (air in its canals); A woollen sweater (air between the fibres); Bubble wrap (air in each bubble); A fluffy idli (gas in its holes); A glass of water (a little air dissolved in it, which fish use); A steel spoon (no air inside); A glass marble (no air inside); A brick (air in tiny holes); A pillow (air between the cotton); A cycle tyre (compressed air inside); A mangrove breathing root (air going down to the roots); A leaf (air inside, coming in through stomata); A balloon (air inside); A packet of chips (gas inside, to stop the chips breaking); A mattress (air in the foam or coir); A coconut, before you shake it (air above the water inside); A stone (very little or no air)
-- **Printable cards: 8 challenge cards:** Show with your hands how to prove a bottle is full of air.; Say one way to show that air has weight.; Name the gas we need from air.; Name the gas we breathe out more of.; Why does a lotus need air canals?; Why can air be squashed but water can't?; Why do plant pots have holes in the bottom?; What do plants give to the air in sunlight?
+- **rules:** Shuffle the 24 thing cards and put them face down in a pile. Shuffle the 8 challenge cards and put them face down in a second pile.; On your turn, turn over the top thing card. Say whether air is hiding in it, and where.; The other player turns the card over and reads the answer on the back. If you were right, keep the card. If you were wrong, put it at the bottom of the pile.; If you were right, you may also take a challenge card. The other player reads it out, and you answer it. A right answer is one bonus point. Then put the challenge card at the bottom of its pile.; The game ends when all the thing cards are won. Each card is one point. The player with the most points wins. If you tie, you both win.; Playing alone: check the back yourself, and try to win all 24 cards in 30 turns.
+- **Printable cards: 24 thing cards to cut out:** A kitchen sponge (back: Air is in its many small holes.) [picture]; A slice of bread (back: Air is in the many small holes of the bread.) [picture]; A football (back: Compressed air is inside, which is why it bounces.) [picture]; A pot of dry soil (back: Air is between the grains of soil.) [picture]; A steel tumbler of rice (back: Air is between the grains of rice.) [picture]; An 'empty' water bottle (back: It is full of air. Only air, not water, is inside.) [picture]; Your lungs (back: Air is in the tiny air bags of the lungs.) [picture]; A lotus stem (back: Air is in its long hollow canals.); A woollen sweater (back: Air is trapped between the woollen fibres.); Bubble wrap (back: Air is in each bubble.); A fluffy idli (back: Gas is in its many holes. That is why it is fluffy.); A glass of water (back: A little air is dissolved in the water. Fish take oxygen from that air.); A steel spoon (back: No air inside. Air is only around it.); A glass marble (back: No air inside. Air is only around it.); A brick (back: Air is in its tiny holes.); A pillow (back: Air is between the cotton fibres.); A cycle tyre (back: Compressed air is inside.); A mangrove breathing root (back: Air goes down the breathing root to the roots in the mud.); A leaf (back: Air is inside the leaf and comes in through the stomata.); A balloon (back: Air is inside.); A packet of chips (back: Gas is inside, so the chips do not break.); A mattress (back: Air is in the foam or coir.); A coconut, before you shake it (back: Air is above the water inside, which is why it sloshes when you shake it.); A stone (back: Very little or no air inside.)
+- **Printable cards: 8 challenge cards:** Say or show how to prove that a bottle is full of air. (back: Push a balloon into the bottle and stretch its mouth over the neck. Try to blow it up. It hardly grows, because the air in the bottle has nowhere to go.); Say one way to show that air has weight. (back: Weigh a bottle of soda water, let the gas fizz out, and weigh it again. It is lighter. Or work out the weight of the air in a room.); Name the gas that our cells need from the air. (back: Oxygen.); Name the gas that we breathe out more of than we breathe in. (back: Carbon dioxide. Breathed-out air has about 100 times more of it.); Why does a lotus need air canals? (back: Its roots and stem are in airless mud. The canals carry air down from the leaves.); Why can air be squashed but water can't? (back: Air particles are far apart, so they can be pushed closer. Water particles already touch.); Why do plant pots have holes in the bottom? (back: Extra water drains out and air gets back into the soil, so the roots get oxygen.); What do plants give to the air in sunlight? (back: Oxygen, made by photosynthesis.)
 - **Printable score sheet: Score sheet:** Player name; Cards won; Challenge cards answered
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Make the two piles. 3. Read the rules together.  
@@ -236,9 +236,9 @@ Kavya laughed, and went to fetch the sugarcane.
   *Child mode:* Practice turn. Is there air in a sponge?
   - Check: Where is the air in a kitchen sponge? → **In its many small holes**
 - **s3 (12 min)**  
-  *Parent does:* 1. Take turns. 2. Check each answer with the words in brackets. 3. Keep score.  
-  *Parent says:* Your turn. Where is the air? Can you think of a way to test it at home for a bonus card?  
-  *Child mode:* Your turn. Where is the air? Can you test it at home?
+  *Parent does:* 1. Take turns. 2. Check each answer on the back of the card. 3. Keep score.  
+  *Parent says:* Your turn. Where is the air hiding? How could you test it?  
+  *Child mode:* Your turn. Where is the air hiding? How could you test it?
   - Note: Ask for a test whenever you can, such as squeezing it under water. The spoon, marble and stone are tricky ones. A strong answer says 'no air inside, only around it'.
 - **s4 (2 min)**  
   *Parent does:* Finish and talk about the trickiest card.  
@@ -249,11 +249,10 @@ Kavya laughed, and went to fetch the sugarcane.
 ## Experiments
 ### e1 · The Full Glass: how much of a glass of chana is air? (30 min)
 - **question:** A glass filled to the top with chana looks full. How much water can still go in? Do big grains leave more room for air than small ones?
-- **predict:** Look at the glass of chana and the glass of mustard seeds. Which one do you think will take in more water before it is full: big chana, middle-sized moong, or tiny mustard seeds? Why do you think so?
-- **fair test:** Use the same glass for every grain, filled to the same tape line. Use the same second glass of water, filled to the same line each time. Pour slowly and stop when the water just reaches the tape line. Only the kind of grain changes. Do each grain twice, because one try can be a fluke.
-- **safety:** Mop up spills so nobody slips. Don't eat the grains raw. The soaked chana and moong can be cooked later.
+- **predict:** Look at the three grains: big chana, middle-sized moong and tiny mustard seeds. Which one do you think will take in the most water before it is full? Why do you think so?
+- **fair test:** Use the same glass for every grain, filled to the same tape line. Tap each glass the same way so the grains settle. Fill glass B with water to the same line each time. Pour slowly and stop when the water just reaches the tape line on glass A. Only the kind of grain changes.
 - **record:** Fill in the table. Then draw the glass of chana with water in it, and draw where the air was before the water came.
-- **results table:** Grain | My guess: lots of water, some, or a little? | Try 1: how far the water dropped in glass B (cm) | Try 2: how far it dropped (cm) | Did I see bubbles?
+- **results table:** Grain | My guess: lots of water, some, or a little? | How far the water dropped in glass B (cm) | Did I see bubbles?
 - **s1 (5 min)**  
   *Parent does:* 1. Stick a strip of tape round both glasses, at the same height, about 2 cm below the rim. 2. Fill glass A with dry chana up to the tape line. 3. Tap the glass gently on the table so the grains settle, then top it up to the line. 4. Fill glass B with water up to its tape line.  
   *Parent says:* Glass A is full of chana, right up to the line. Is there any room left in it? If we pour in water, what will happen?  
@@ -264,7 +263,7 @@ Kavya laughed, and went to fetch the sugarcane.
   *Parent does:* Show your child the three grains: chana, moong and mustard seeds. Ask them to guess which glass will take in the most water, and why. Write the guesses in the table.  
   *Parent says:* We'll do this with big chana, middle-sized moong and tiny mustard seeds. Which glass will take in the most water? Why do you think so?  
   *Child mode:* Look at the three grains. Which glass will take the most water? Why?
-  - Ask: Why do you think the chana will take the most water? (good: Big grains leave big gaps.; Small seeds pack tight, so there's less room.)
+  - Ask: Which grain will take in the most water, and why? (good: Big grains leave big gaps.; Small seeds pack tight, so there's less room.)
   - Note: Most children and many grown-ups guess that big chana leave the most room, because their gaps are bigger. Don't say what will happen. Let the test answer it.
 - **s3 (6 min)**  
   *Parent does:* 1. Hold glass A over the tray. 2. Pour water slowly from glass B into glass A. 3. Stop when the water just reaches the tape line on glass A. 4. Measure, in centimetres, how far the water in glass B has dropped below its line.  
@@ -273,7 +272,7 @@ Kavya laughed, and went to fetch the sugarcane.
   - Note: Small bubbles should rise between the grains and pop at the top. That is the air being pushed out. In most kitchen glasses, the water in glass B drops by about one-third of its height, sometimes more. If water stays on top without soaking in, tap the glass gently to let the bubbles out.
   - Check: Bubbles came up as the water went into the chana. What were they? → **Air that was in the gaps between the grains**
 - **s4 (10 min)**  
-  *Parent does:* 1. Tip the wet chana into a bowl. 2. Dry glass A. 3. Fill it with moong to the line, and fill glass B with water to its line again. 4. Pour and measure as before. 5. Do the same with mustard seeds. 6. Do each grain a second time if there is time.  
+  *Parent does:* 1. Tip the wet chana into a bowl. 2. Dry glass A. 3. Fill it with moong to the line, tap it, and fill glass B with water to its line again. 4. Pour and measure as before. 5. Do the same with mustard seeds.  
   *Parent says:* Now the same test with moong, then with mustard seeds. Everything stays the same except the grain. Which glass will take in the most?  
   *Child mode:* Now try moong, then mustard seeds. Same glasses, same lines. Pour, stop, measure.
   - Note: Mustard seeds are small, so the water soaks in slowly. Pour slowly and give it a minute. Most families find the three numbers are close. Big chana leave big gaps, but there are fewer of them. Tiny seeds leave tiny gaps, but many more of them. If your numbers are very different, check that each glass was filled to the line and tapped down the same way.
@@ -288,7 +287,7 @@ Kavya laughed, and went to fetch the sugarcane.
 - **question:** If you block the end of a syringe and push the plunger, how far will it go in with air inside? How far with water inside?
 - **predict:** Will the plunger go in further with air or with water inside, or not at all with either? Why do you think so?
 - **fair test:** Use the same syringe each time. Start with the plunger at the same mark. Block the tip with the same finger, pressed hard. Push as hard as you can each time. Only what is inside changes: air, then water, then half and half.
-- **safety:** Never use a syringe with a needle. A grown-up takes off and throws away any needle first. Don't point the syringe at anyone's face.
+- **safety:** Never use a syringe with a needle.
 - **record:** Fill in the table. Then draw two syringes. In one, draw dots for air particles far apart. In the other, draw dots for water particles touching.
 - **results table:** What is inside | Start mark (ml) | Smallest mark when I push (ml) | What happens when I let go?
 - **s1 (3 min) · grown-up needed**  
@@ -303,7 +302,7 @@ Kavya laughed, and went to fetch the sugarcane.
   - Note: Most children can push a 10 ml syringe of air to about 5 or 6 ml, and grown-ups further. When you let go, the plunger springs back almost to 10. If it does not spring back, air is leaking past the finger. Press harder.
   - Check: You let go, and the plunger springs back. Why? → **The squashed air pushes back and spreads out again**
 - **s3 (6 min)**  
-  *Parent does:* 1. Over the bowl, suck water into the syringe up to the 10 ml mark. 2. Point the tip up and push out any bubbles, then top up to 10. 3. Block the tip hard and push.  
+  *Parent does:* 1. Over the bowl, suck water into the syringe up to the 10 ml mark. 2. Point the tip up and push out any bubbles, then top up to 10. 3. Block the tip hard and push. 4. If you like, try 5 ml of water and 5 ml of air together.  
   *Parent says:* Now the syringe is full of water. Will it squash like the air did? Push as hard as you did before.  
   *Child mode:* Now fill it with water to 10. Push out the bubbles. Block the tip and push hard. Does it move?
   - Note: The plunger should hardly move, perhaps a fraction of a millilitre, because of a tiny bubble or the rubber bending. Some water may squirt past the finger. That is fine. Then try 5 ml of water and 5 ml of air: it squashes only about as much as 5 ml of air would.
@@ -336,7 +335,6 @@ Kavya laughed, and went to fetch the sugarcane.
   - Check: Why could you blow up the balloon only after the hole was made? → **The hole let the air in the bottle get out, so the balloon had room**
   - Think: The bottle looked empty. Was it?
 ### a2 · The Straw Water Thief: catch water with air (8 min)
-- **safety:** Do this over a sink or a tray.
 - **record:** Draw the straw in the water two ways: with the top open and with the top closed.
 - **s1 (3 min)**  
   *Parent does:* 1. Dip the straw into the water. 2. Put a finger tightly over the top. 3. Lift the straw out and hold it over the glass. 4. Lift the finger.  
@@ -354,7 +352,6 @@ Kavya laughed, and went to fetch the sugarcane.
   *Child mode:* People in ancient Greece did this with a metal jar. What did it show about air?
   - Check: You cover the top of a straw and push it into water. Why does hardly any water go in? → **The air in the straw is in the way, and it can't get out**
 ### a3 · The String Round Your Chest: how much bigger does a breath make you? (10 min)
-- **safety:** Don't hold your breath for long. Stop if you feel dizzy.
 - **record:** Write down both measurements and the difference. Do the same for a grown-up if they agree.
 - **s1 (4 min)**  
   *Parent does:* 1. Ask your child to breathe out fully. 2. Wrap the string round their chest, just under the arms. 3. Pinch it where the end meets. 4. Measure the string against a ruler.  
@@ -365,38 +362,38 @@ Kavya laughed, and went to fetch the sugarcane.
   *Parent does:* 1. Ask your child to take the deepest breath they can and hold it for a moment. 2. Measure round the chest again in the same place. 3. Work out the difference.  
   *Parent says:* Now breathe in as deeply as you can, and hold it. Let's measure again. How much bigger is your chest?  
   *Child mode:* Take a huge breath in. Hold it. Measure again. How much bigger is your chest?
-  - Note: Children's chests often grow by about 3 to 6 centimetres, but it varies a lot. The air going into the lungs takes up space, so the chest must grow to make room for it.
+  - Note: A chest often grows by a few centimetres, but it varies a lot. The air going into the lungs takes up space, so the chest must grow to make room for it.
 - **s3 (2 min)**  
   *Parent does:* Talk about it.  
   *Parent says:* Why does your chest get bigger when you breathe in?  
   *Child mode:* Why does your chest get bigger when you breathe in?
   - Check: Why does your chest grow when you breathe in? → **Your lungs fill with air, and air takes up space**
 ### a4 · The Flat Soda Test: does a gas have weight? (15 min, 2 days)
-- **safety:** A grown-up opens the bottle slowly, pointing it away from faces, because the gas can make it fizz out.
+- **safety:** A grown-up opens the bottle slowly, pointing it away from faces, because the fizz can spray.
 - **record:** Write the weight before and after, and work out the difference.
-- **schedule:** day 1: Weigh the closed bottle and its cap. Open it slowly, put the cap beside it, and shake it gently to let the gas out. (10 min); day 2: Shake the bottle again until it stops fizzing. Weigh the bottle and its cap together again. (5 min)
+- **schedule:** day 1: Weigh the closed bottle. A grown-up opens it slowly. Swirl it gently for about ten minutes, then leave it open overnight with its cap beside it. (10 min); day 2: Swirl the bottle until it stops fizzing. Weigh the bottle and its cap together again. (5 min)
 - **s1 (10 min) · grown-up needed**  
-  *Parent does:* 1. Weigh the closed bottle and write the number. 2. A grown-up opens it slowly over the sink. 3. Put the cap on the scale with the bottle each time you weigh. 4. Leave the bottle open, and swirl it gently every few minutes.  
-  *Parent says:* The bubbles in soda are a gas called carbon dioxide. When it fizzes out, does the bottle get lighter? Why do you think so?  
+  *Parent does:* 1. Weigh the closed bottle and write the number. 2. A grown-up opens it slowly over the sink. 3. Put the cap down beside the bottle, and swirl the bottle gently every few minutes for about ten minutes. 4. Leave the bottle open overnight, with its cap beside it.  
+  *Parent says:* The bubbles in soda are a gas called carbon dioxide. When it fizzes out, will the bottle get lighter? Why do you think so?  
   *Child mode:* Weigh the closed bottle. Your grown-up opens it. Will it get lighter as it fizzes? Why?
-  - Note: Catch any fizz that spills, because spilled water would also make the bottle lighter. Keep the cap and weigh it with the bottle every time.
+  - Note: Wipe up any fizz that spills, because spilled water would also make the bottle lighter.
 - **s2 (5 min)**  
-  *Parent does:* 1. Next day, swirl the bottle until no more bubbles come. 2. Weigh the bottle and cap again. 3. Work out the difference.  
+  *Parent does:* 1. Next day, swirl the bottle until no more bubbles come. 2. Put the bottle and its cap on the scale together. 3. Work out the difference from yesterday's number.  
   *Parent says:* Now weigh it again. How many grams lighter is it? What went away?  
   *Child mode:* Weigh it again. Is it lighter? What went away?
-  - Note: The bottle is usually a few grams lighter, because the carbon dioxide gas has gone into the air. Very little water evaporates from a narrow bottle in a day. If your scale shows no change, use a bigger bottle, or try a football before and after pumping it hard.
+  - Note: The loss is small, only a few grams, and some of it may be water that dried off. A scale that shows single grams can see it. If your scale shows no change, the loss was too small for it. Write that down honestly.
   - Check: The soda bottle got a few grams lighter after it went flat. Why? → **The gas that fizzed out had weight**
   - Wait: Day 2: weigh the bottle again.
 ### a5 · Air Canals in a Lotus Stem (if you can buy lotus stem) (10 min)
 - **safety:** A grown-up does the cutting.
 - **record:** Draw the cut slice, with its holes. Write what the holes are for.
 - **s1 (4 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up cuts a thin slice across the lotus stem. 2. Hold it up to the light. 3. Count the big holes.  
+  *Parent does:* 1. A grown-up cuts a thin slice off one end of the lotus stem. 2. Hold the slice up to the light. 3. Count the big holes.  
   *Parent says:* A lotus grows with its roots and this stem deep in the mud at the bottom of a pond. What is the problem with living in mud?  
   *Child mode:* Look at the slice. Count the holes. Why might a mud plant need holes?
   - Note: Most slices show a ring of large holes round a middle one. Mud under a pond has almost no air. The lotus's stem and roots still need oxygen to live.
 - **s2 (4 min)**  
-  *Parent does:* 1. Hold the longer piece of stem under water in the bowl. 2. Your child blows gently into one end through a straw held against a hole.  
+  *Parent does:* 1. Hold the rest of the stem under water in the bowl. 2. Your child blows gently into one end through a straw held against a hole.  
   *Parent says:* Blow gently into one hole. Watch the other end under water. What comes out?  
   *Child mode:* Hold the stem under water. Blow gently into a hole with a straw. What comes out?
   - Note: Bubbles should come out of the other end, which shows the holes are open tubes that air can travel along. If nothing comes out, a grown-up cuts off both ends, because the joints of the stem can block the holes.
@@ -406,7 +403,6 @@ Kavya laughed, and went to fetch the sugarcane.
   *Child mode:* The leaves are in the air. The stem is in mud. How do the tubes help?
   - Check: Why does a lotus stem have big holes running along it? → **To carry air down to the parts stuck in airless mud**
 ### a6 · Air Hunt at Home: where is the air hiding? (12 min)
-- **safety:** Do this in the bathroom or on a tray. Throw away the wet bread.
 - **record:** Make two lists: 'Air was hiding inside' and 'No bubbles'.
 - **s1 (3 min)**  
   *Parent does:* Lay out the things. Ask your child to guess which ones have air hiding inside them, and why.  
@@ -427,17 +423,17 @@ Kavya laughed, and went to fetch the sugarcane.
 ### p1 · How Heavy Is the Air in Our Room? (40 min, 2 days)
 - **safety:** A grown-up holds the tape for the height of the room. Don't climb on furniture.
 - **record:** Draw the room as a box and write its length, width and height. Write the number of cubic metres and the weight of the air in kilograms.
-- **schedule:** day 1: Measure the length, width and height of one room in metres. Draw a plan. (20 min); day 2: Work out the room's volume and the weight of its air. Compare it with the weight of people in the family. (20 min)
+- **schedule:** day 1: Measure the length, width and height of one room in metres. Draw a plan. (20 min); day 2: Work out the room's volume and the weight of its air. Compare it with the weight of a person. (20 min)
 - **s1 (20 min) · grown-up needed**  
   *Parent does:* 1. Choose a room, such as a bedroom. 2. Measure its length and width along the floor, to the nearest half metre. 3. A grown-up measures the height from floor to ceiling. 4. Draw the room as a box and write the three numbers.  
   *Parent says:* We're going to weigh the air in this room without a scale. First we need to know how big the room is. Let's measure.  
   *Child mode:* Measure the room: how long, how wide, how high. Write each number in metres.
   - Note: Rounding to the nearest half metre is fine. A small bedroom is often about 3 metres by 3 metres, and about 3 metres high.
 - **s2 (20 min)**  
-  *Parent does:* 1. Multiply length by width by height to get the volume in cubic metres. 2. A cubic metre of air weighs about 1.2 kilograms. Multiply the volume by 1.2. 3. Compare the answer with a family member's weight.  
+  *Parent does:* 1. Multiply length by width by height to get the volume in cubic metres. 2. A cubic metre of air weighs about 1.2 kilograms. Multiply the volume by 1.2. 3. Compare the answer with the weight of a person you know.  
   *Parent says:* Each cubic metre is a box one metre on every side. The air in one of those boxes weighs about 1.2 kilograms. How heavy is all the air in our room?  
   *Child mode:* Multiply length by width by height. Then multiply by 1.2. That is the air's weight in kilograms!
-  - Note: For a room 3 by 3 by 3 metres: 27 cubic metres, and 27 times 1.2 is about 32 kilograms, about as heavy as a child of 9 or 10. Rounding 1.2 to 1 gives 27 kilograms, which is close enough to compare. Lift a few 1-litre water bottles to feel how heavy that is.
+  - Note: For a room 3 by 3 by 3 metres: 27 cubic metres, and 27 times 1.2 is about 32 kilograms, about as heavy as a child of 9 or 10. Rounding 1.2 to 1 gives 27 kilograms, which is close enough to compare. Lift the 5 bottles to feel 5 kilograms. The air in the room weighs more than six times that.
   - Check: Why don't we feel the weight of all the air in a room? → **Air pushes on us equally from every side, and our bodies push back**
   - Wait: Day 2: work out the weight of the air.
 
@@ -445,7 +441,7 @@ Kavya laughed, and went to fetch the sugarcane.
 ### c1 · Lift the Books With One Breath (25 min)
 - **problem:** Use only your breath to lift a pile of books off the table. How many books can your breath lift?
 - **your turn:** Now design your own breath lifter. Draw it, build it, and see how many books it can lift.
-- **constraints:** You may use a plastic bag, a straw, tape and books.; You may not touch the books with your hands while they rise.; Blow only with your mouth, not with a pump.
+- **constraints:** You may use a plastic bag, a straw, tape, books, and a flat board or tray.; You may not touch the books with your hands while they rise.; Blow only with your mouth, not with a pump.
 - **general:** Tape the straw into the mouth of the bag and seal the rest of the mouth with tape. Lay the bag flat under one book. Blow into the straw. The air fills the bag and pushes the book up.; Use a bigger, flat bag so the air pushes on more of the book.
 - **creative:** Put a flat board or a tray on the bag and stack the books on that, so the weight spreads out.; Pinch the straw between breaths, so the air you have blown in cannot escape.; Use two bags and two straws, and blow with a friend.
 - **s1 (5 min)**  
@@ -476,7 +472,7 @@ Kavya laughed, and went to fetch the sugarcane.
   *Parent does:* 1. Ask your child why it glugs. 2. Let them try other ways. 3. Then try swirling the bottle as you turn it over. 4. Time each way.  
   *Parent says:* Every glug is a bubble of air going in. How could we let air in more easily?  
   *Child mode:* Each glug is air going in. Can you let air in more easily? Try it.
-  - Note: Swirling usually empties the bottle much faster than plain glugging, often in about half the time, because the spinning water leaves an open path in the middle for air. Wet floors are slippery, so work in the bathroom.
+  - Note: Swirling usually empties the bottle much faster than plain glugging, often in about half the time, because the spinning water leaves an open path in the middle for air. Work over a bucket in the bathroom.
 - **s3 (5 min)**  
   *Parent does:* Compare the times together.  
   *Parent says:* Which way was fastest? Why?  
@@ -485,152 +481,143 @@ Kavya laughed, and went to fetch the sugarcane.
 
 ## Worksheets
 ### Air Is Real (core) (core, 15 questions)
-1. (mcq) Meena, a girl in Class 3, fills a glass to the top with dry chana. Then she pours in water. What happens?  
-   Options: The water spills over at once / A lot of water goes in, and bubbles come up / The chana floats out of the glass  
-   **Answer:** A lot of water goes in, and bubbles come up. *Why:* The gaps between the grains are full of air. The water pushes the air out, so bubbles rise, and the water fills the gaps. A strong answer says where the water went: into the spaces the air had filled.
-2. (write) Arjun says, "An empty bottle has nothing in it." Describe a test that shows him he is wrong.  
+1. (write) In the story, Arjun says, "An empty bottle has nothing in it." Describe a test that shows him he is wrong.  
    **Answer:** Push a balloon into the bottle and stretch its mouth over the neck. Try to blow it up. It hardly grows, because the bottle is full of air, and the air has nowhere to go.. *Why:* A strong answer names a real test and says what you would see, and why it shows air is there.
-3. (truefalse) Air has no weight.  
-   **Answer:** False. *Why:* False. One litre of air weighs about 1.2 grams. The air in a small bedroom weighs about 32 kilograms.
-4. (fill) Squashing something into less space is called ____ it.  
+2. (fill) Squashing something into less space is called ____ it.  
    **Answer:** ['compressing']. *Why:* To compress means to squash into less space. Air can be compressed. Water hardly at all.
-5. (match) Match each gas to what it does.  
+3. (match) Match each gas to what it does.  
    **Answer:** Oxygen → our cells need it to get energy from food; Carbon dioxide → we breathe out more of it, and plants use it to make food; Nitrogen → makes up most of the air; Water vapour → water as a gas in the air. *Why:* These four gases are the ones that matter most in this unit. Knowing what each does explains breathing and plants.
-6. (draw) Draw a glass full of chana. Use dots to show where the air is.  
+4. (draw) Draw a glass full of chana. Use dots to show where the air is.  
    **Answer:** A glass with round chana grains, and dots in all the gaps between the grains, right down to the bottom.. *Why:* A strong drawing puts air in every gap, not only at the top, because the bubbles came up from all through the glass.
-7. (sort) Sort these things. Does each one have air hiding inside it, or not?  
+5. (sort) Sort these things. Does each one have air hiding inside it, or not?  
    **Answer:** kitchen sponge → Air inside; slice of bread → Air inside; football → Air inside; dry soil → Air inside; steel spoon → No air inside; glass marble → No air inside. *Why:* Things with holes or gaps hold air. Solid metal and glass have no gaps for air. A strong sorter thinks about gaps, not about whether a thing is soft.
-8. (mcq) Why do we breathe in air?  
-   Options: To cool down our lungs / Our cells need its oxygen to get energy from food / To make our chest bigger  
-   **Answer:** Our cells need its oxygen to get energy from food. *Why:* Our cells use oxygen to get energy from food. Breathing brings oxygen in, and takes carbon dioxide out. The chest grows when we breathe, but that is because of the air, not the reason for breathing.
-9. (write) Lakshmi waters her tulsi plant every hour, so the soil is always soaking wet. After a week, the plant looks sick. Use what you know about air to explain why.  
+6. (write) Lakshmi, a girl in Class 4, waters her tulsi plant every hour, so the soil is always soaking wet. After a week, the plant looks sick. Use what you know about air to explain why.  
    **Answer:** Roots need oxygen from the air in the soil. When the soil is always soaked, water fills all the air spaces, so the roots cannot get oxygen.. *Why:* A strong answer says roots need oxygen and that water pushes the air out of the soil, as it did from the chana.
-10. (truefalse) Plants take in oxygen only at night.  
-   **Answer:** False. *Why:* False. Plants use oxygen day and night. In sunlight they also make much more oxygen than they use, so they give oxygen out in the day.
-11. (order) Put these in order, from the first thing that happens when you breathe in, to the last.  
+7. (order) Put these in order, from the first thing that happens when you breathe in, to the last.  
    **Answer:** ['Air goes down your windpipe', 'Air fills your lungs', 'Oxygen passes into your blood in the lungs', 'Blood carries oxygen to your cells']. *Why:* Air goes in through the windpipe to the lungs. In the lungs, oxygen passes into the blood. The blood carries it all round the body.
-12. (mcq) Farhan blocks the tip of a syringe full of air and pushes the plunger. What happens?  
-   Options: It does not move at all / It goes in part of the way, then springs back when he lets go / It goes in all the way and stays there  
-   **Answer:** It goes in part of the way, then springs back when he lets go. *Why:* The air is squashed into less space, and pushes back. So the plunger goes in part of the way and springs back. Picking 'stays there' misses that squashed air pushes back.
-13. (fill) The tiny holes on a leaf that let air in and out are called ____.  
+8. (fill) The tiny holes on a leaf that let air in and out are called ____.  
    **Answer:** ['stomata']. *Why:* Stomata are tiny holes, mostly on the underside of leaves. Carbon dioxide goes in through them and oxygen comes out.
-14. (write) When Kavya breathes in deeply, the string round her chest gets longer. Why?  
+9. (write) Kavya, the girl in the story, measures round her chest with a string. When she breathes in deeply, the measure gets bigger. Why?  
    **Answer:** Her lungs fill with air, and air takes up space. Her ribs move out to make room, so her chest gets bigger.. *Why:* A strong answer links the bigger chest to air taking up space.
-15. (perspective) Three people talk about the bubbles that came up when water was poured into a glass of chana.  
+10. (perspective) Three people talk about the bubbles that came up when water was poured into a glass of chana.  
    **Answer:** A strong answer picks a side with evidence: most bubbles came at once, from between the grains, as the water reached them. To check Rohan's idea, put one chana grain in water and watch whether it gives bubbles by itself.. *Why:* This is a real question. Dry grains do have a little air in tiny cracks, so Amma's view is fair. The test with a single grain can show how much comes from the grain itself.
+11. (mcq) Raj, a boy in Class 3, puts a dry tissue at the bottom of a steel tumbler. He turns the tumbler upside down and pushes it straight down into a bucket of water. What happens to the tissue?  
+   Options: It stays dry or nearly dry / It gets soaked at once / It floats out of the tumbler  
+   **Answer:** It stays dry or nearly dry. *Why:* The tumbler is full of air, and the air cannot get out. So the water cannot take its place, and the tissue stays dry. Air takes up space.
+12. (mcq) A cycle tyre feels hard after it is pumped up. Why?  
+   Options: The squashed air inside pushes back on the tyre / The pump fills the tyre with water / The rubber gets heavier  
+   **Answer:** The squashed air inside pushes back on the tyre. *Why:* The pump squashes a lot of air into a small space. Squashed air pushes back, so the tyre feels hard.
+13. (truefalse) Air and oxygen are the same thing.  
+   **Answer:** False. *Why:* False. Air is a mixture of gases. About four-fifths of it is nitrogen, and about one-fifth is oxygen.
+14. (truefalse) Water vapour is a gas, and there is some in the air around you.  
+   **Answer:** True. *Why:* True. Water vapour is water as a gas. There is more of it in the air on a sticky monsoon day than on a dry winter day.
+15. (match) Match each part of the body to its job when you breathe.  
+   **Answer:** Windpipe → carries air down to the lungs; Lungs → soft bags where oxygen passes into the blood; Blood → carries oxygen to every cell; Ribs → move outwards to make room as the lungs fill. *Why:* Air travels from the windpipe to the lungs. Oxygen then passes into the blood, which carries it round the body.
 ### Squashing, Weighing and Breathing (stretch) (stretch, 15 questions)
 1. (write) A syringe full of air can be pushed in, but a syringe full of water hardly moves. Explain why, using the word particles.  
    **Answer:** In air, the particles are far apart, with empty space between them, so pushing moves them closer. In water, the particles already touch, so there is no room to push them into.. *Why:* A strong answer compares the spacing of the particles in both, not only says air is 'soft'.
-2. (mcq) In the Full Glass test, Nila used big chana and tiny mustard seeds. Both glasses took in about the same amount of water. Why?  
+2. (mcq) In the Full Glass test, Nila, a girl in Class 3, used big chana and tiny mustard seeds. Both glasses took in about the same amount of water. Why?  
    Options: Mustard seeds soak up water faster / Big grains leave big gaps but fewer of them. Small seeds leave small gaps but many more of them / The water was not poured carefully  
    **Answer:** Big grains leave big gaps but fewer of them. Small seeds leave small gaps but many more of them. *Why:* The size of each gap changes, but so does the number of gaps. For round grains of one size, the share of air comes out about the same. Picking 'soak up faster' is a fair thought, but the seeds take in very little water in a few minutes.
-3. (fill) One litre of air weighs about ____ grams.  
-   **Answer:** ['1.2', 'one point two']. *Why:* One litre of air near the ground weighs about 1.2 grams, about as much as a paper clip.
-4. (truefalse) The air you breathe out has no oxygen left in it.  
+3. (truefalse) The air you breathe out has no oxygen left in it.  
    **Answer:** False. *Why:* False. Breathed-out air still has about 16 parts oxygen in 100, compared with 21 in the air around us. That is why rescue breathing can help someone.
-5. (mcq) A soda water bottle gets a few grams lighter after it goes flat. What does this show?  
-   Options: A gas has weight / Bottles shrink / Water turns into plastic  
-   **Answer:** A gas has weight. *Why:* The fizz is carbon dioxide gas. When it escaped, the bottle lost its weight. So gases have weight.
-6. (sort) Sort these. Is each one taken in or given out by a leaf in bright sunlight?  
+4. (sort) Sort these. Is each one taken in or given out by a leaf in bright sunlight?  
    **Answer:** carbon dioxide → Taken in; oxygen made by photosynthesis → Given out; water from the roots → Taken in; water vapour from the leaf → Given out. *Why:* In sunlight, a leaf takes in carbon dioxide and water, and makes sugar. Oxygen is left over and goes out. Some water also escapes as vapour through the stomata.
-7. (write) A lotus has their roots stuck in mud at the bottom of a pond. What problem does this give the lotus, and how do the holes in the stem help?  
+5. (write) A lotus has their roots stuck in mud at the bottom of a pond. What problem does this give the lotus, and how do the holes in the stem help?  
    **Answer:** Mud under water has almost no air, so the roots and stem can't get oxygen there. The holes are air canals that carry air down from the leaves to the parts in the mud.. *Why:* A strong answer says the problem first, no oxygen in mud, then how the canals solve it.
-8. (mcq) You cover the top of a straw with your finger and push it into a glass of water. What happens?  
-   Options: The straw fills right up / Only a little water gets in, because the air inside is in the way / The water turns into air  
-   **Answer:** Only a little water gets in, because the air inside is in the way. *Why:* The air in the straw can't get out, so the water can't take its place. Lift your finger and the water rushes in.
-9. (order) Put these in order, from the lightest to the heaviest.  
+6. (order) Put these in order, from the lightest to the heaviest.  
    **Answer:** ['one litre of air', 'one litre of water', 'the air in a small bedroom']. *Why:* One litre of air is about 1.2 grams. One litre of water is about 1,000 grams. The air in a 3 by 3 by 3 metre bedroom is about 32,000 grams, or 32 kilograms.
-10. (draw) Draw a plant in a pot in the daytime and at night. Use arrows to show which gases go in and which come out.  
+7. (draw) Draw a plant in a pot in the daytime and at night. Use arrows to show which gases go in and which come out.  
    **Answer:** Day: carbon dioxide arrow going in, a big oxygen arrow coming out, and a small oxygen arrow going in. Night: only an oxygen arrow going in and a carbon dioxide arrow coming out.. *Why:* A strong drawing shows that plants use oxygen day and night, and give out oxygen only when light lets them photosynthesise.
-11. (write) Anjali says, "A football full of air is heavier than a flat one." Shanthi says, "No, air has no weight." How could they find out who is right?  
+8. (write) Anjali and Shanthi are two girls in Class 4. Anjali says, "A football full of air is heavier than a flat one." Shanthi says, "No, air has no weight." How could they find out who is right?  
    **Answer:** Weigh the flat football on a kitchen scale. Pump it up hard and weigh it again. If it is heavier, the extra air has weight. The difference is only a few grams, so the scale must show grams.. *Why:* A strong answer describes a fair test with one change, and says what result would show each girl right.
-12. (truefalse) Bubbles came out of a lump of dry soil under water. This shows that soil has air in it.  
-   **Answer:** True. *Why:* True. Soil has tiny gaps between its grains, and the gaps hold air. Water pushes the air out as it soaks in.
-13. (match) Match each thing to the way it uses compressed air.  
+9. (match) Match each thing to the way it uses compressed air.  
    **Answer:** Cycle tyre → stays firm so the wheel rolls; Football → bounces back when it hits the ground; Bubble wrap → cushions things in a parcel; Diver's tank → carries lots of air in a small space. *Why:* Compressed air pushes back, and lots of it fits in a small space. Each of these uses one of those facts.
-14. (perspective) A family is talking about keeping money plants in the children's bedroom.  
-   **Answer:** A strong answer sides with Sneha and gives reasons: plants do use oxygen at night, as Paati says, but very little, far less than one sleeping person. Plants do give out oxygen in light, as Revathi says, but a few plants hardly change the air of a whole room. An open window changes it far more.. *Why:* Each person has part of the truth. A strong answer gives Paati and Revathi credit for the real facts behind their ideas.
-15. (mcq) Why do plant pots have holes in the bottom?  
+10. (perspective) Sneha, aged 10, and her family are talking about keeping money plants in her bedroom.  
+   **Answer:** A strong answer sides with Sneha and gives reasons: plants do use oxygen at night, as Ammamma says, but very little, far less than one sleeping person. Plants do give out oxygen in light, as Revathi says, but a few plants hardly change the air of a whole room. An open window changes it far more.. *Why:* Each person has part of the truth. A strong answer gives Ammamma and Revathi credit for the real facts behind their ideas.
+11. (mcq) Why do plant pots have holes in the bottom?  
    Options: So extra water drains away and air can get back into the soil / So insects can get in / So the pot is lighter  
    **Answer:** So extra water drains away and air can get back into the soil. *Why:* When extra water drains out, air comes back into the gaps in the soil. Roots need the oxygen in that air.
+12. (mcq) A bean seed is kept deep under water for many days. It does not sprout. What is the best reason?  
+   Options: The seed gets too little air / The seed gets too much light / The water is too cold to be wet  
+   **Answer:** The seed gets too little air. *Why:* Seeds need oxygen from air to sprout. Deep water holds very little air, so the seed cannot get enough.
+13. (write) Many homes have a fish tank with a pump that puts bubbles of air into the water. Use what you know about how fish get oxygen to say why this helps the fish.  
+   **Answer:** Fish take the oxygen that is dissolved in the water through their gills. The bubbles stir the water, so more air dissolves in it and the fish have more oxygen to take.. *Why:* A strong answer says that fish use air dissolved in water, not air in bubbles directly.
+14. (write) Astronauts on the Moon carry their own air in tanks, because the Moon has almost no air. Why do they need it? Why can a lot of air fit in a small tank?  
+   **Answer:** Their cells need oxygen to get energy from food. A lot of air fits in a small tank because air can be squashed: its particles are far apart, so they can be pushed close together.. *Why:* A strong answer uses both ideas from this unit: cells need oxygen, and air can be compressed.
+15. (truefalse) A plant shut in a dark, sealed jar slowly uses up the oxygen inside it.  
+   **Answer:** True. *Why:* True. In the dark there is no light for photosynthesis, so the plant only uses oxygen. Every living part of a plant needs oxygen.
 ### Empty Pots and Ancient Tests (challenge) (challenge, 15 questions)
 1. (perspective) Long ago in ancient Greece, people argued about a pot with nothing you could see inside it.  
    **Answer:** A strong answer agrees with Anaxagoras, with evidence: the balloon in the bottle, the straw water thief and the bubbles from the chana. It also says the first idea made sense because air can't be seen or smelt, and usually feels like nothing.. *Why:* A strong answer gives evidence from the child's own tests, and is fair to the old idea by saying why people believed it.
-2. (write) Hero of Alexandria wrote that air is made of tiny pieces with empty space between them. Which of your tests supports this idea best? Explain.  
+2. (write) Hero of Alexandria, a Greek engineer who lived about 2,000 years ago, wrote that air is made of tiny pieces with empty space between them. Which of your tests supports this idea best? Explain.  
    **Answer:** The syringe test. Air could be squashed into less space, but water could not. If air is tiny pieces with gaps between them, pushing moves the pieces closer and closes the gaps.. *Why:* A strong answer picks the syringe and explains how gaps between particles let air be squashed.
-3. (mcq) Priya pours water into a glass of dry moong until it is full. Then she tips the water out and measures it. She gets 80 ml. Her glass holds 200 ml. What share of the glass of moong was air?  
-   Options: About a quarter / About two-fifths / About four-fifths  
-   **Answer:** About two-fifths. *Why:* 80 out of 200 is the same as 2 out of 5, or two-fifths. A strong answer checks: 2 fifths of 200 is 80.
-4. (truefalse) If you squash the air in a syringe to half the space, the air weighs half as much.  
+3. (truefalse) If you squash the air in a syringe to half the space, the air weighs half as much.  
    **Answer:** False. *Why:* False. The same air is still there, only packed closer. Its weight stays the same. Nothing was taken away.
-5. (write) Revathi poured water into a glass of sand and a glass of chana. The sand took in much less water than she expected, and some sand stayed dry on top. Suggest two reasons.  
+4. (write) Sana, a girl in Class 4, poured water into a glass of sand and a glass of chana. The sand took in much less water than she expected, and some sand stayed dry on top. Suggest two reasons.  
    **Answer:** Wet sand clumps and can trap air, so the water cannot reach all the gaps. She might have poured too fast, so the water sat on top. Fine grains of different sizes also pack tighter, with small grains filling the gaps between big ones.. *Why:* A strong answer thinks about how the test was done, not only about the sand. Spotting a weak test is part of being a scientist.
-6. (mcq) Why does a full bottle of water empty faster when you swirl it as you turn it over?  
+5. (mcq) Why does a full bottle of water empty faster when you swirl it as you turn it over?  
    Options: The water spins and leaves an open path in the middle for air to get in / Swirling makes the water lighter / Swirling warms the water  
    **Answer:** The water spins and leaves an open path in the middle for air to get in. *Why:* The water can only leave if air takes its place. A spinning funnel of water leaves a hole down the middle, so air flows in steadily instead of in glugs.
-7. (order) Put these steps of the Lift the Books challenge in the order they happen.  
+6. (order) Put these steps of the Lift the Books challenge in the order they happen.  
    **Answer:** ['You blow air into the straw', 'Air takes up space inside the bag', 'The bag swells and pushes on the books', 'The books rise']. *Why:* The air must go in and take up space before the bag can push the books up.
-8. (write) Most of the air we breathe in is nitrogen, but our body does not use it. So why do we breathe in so much nitrogen?  
+7. (write) Most of the air we breathe in is nitrogen, but our body does not use it. So why do we breathe in so much nitrogen?  
    **Answer:** Because nitrogen is most of the air around us, about four-fifths. We cannot pick out only the oxygen, so we breathe in the whole mixture and breathe the nitrogen out again unchanged.. *Why:* A strong answer says that air is a mixture and we take it all in, using only the part we need.
-9. (mcq) Mangrove trees at Pichavaram in Tamil Nadu grow in salty mud. Many send up roots that stick out of the mud like pencils. What do these roots do?  
+8. (mcq) Mangrove trees at Pichavaram in Tamil Nadu grow in salty mud. Many send up roots that stick out of the mud like pencils. What do these roots do?  
    Options: Take in air at low tide and pass it down to the roots below / Catch fish / Hold up the tree's branches  
    **Answer:** Take in air at low tide and pass it down to the roots below. *Why:* The mud has almost no air. These breathing roots take in air when the tide is out and carry it to the roots buried in the mud, which need oxygen to live.
-10. (draw) Draw a zoom-in of the air inside a syringe before and after you push the plunger. Use dots for the particles.  
+9. (draw) Draw a zoom-in of the air inside a syringe before and after you push the plunger. Use dots for the particles.  
    **Answer:** Before: a few dots spread far apart in a long space. After: the same number of dots, closer together, in a shorter space.. *Why:* A strong drawing keeps the same number of dots in both pictures, because no air was added or taken away.
-11. (write) Early on, the Earth's air had almost no oxygen. Today about one-fifth of the air is oxygen. Where did it come from, and why does this matter to you?  
+10. (write) Early on, the Earth's air had almost no oxygen. Today about one-fifth of the air is oxygen. Where did it come from, and why does this matter to you?  
    **Answer:** It came from living things that photosynthesise: first tiny beings in the sea called cyanobacteria, later plants and plankton. It matters because every breath I take has oxygen that living things made.. *Why:* A strong answer names living things as the source, and links it to the child's own breathing.
-12. (mcq) In the Full Glass test, Kavya forgot to fill her second glass of water to the same line each time. Why does that matter?  
+11. (mcq) In the Full Glass test, Ishita, a girl in Class 4, forgot to fill her second glass of water to the same line each time. Why does that matter?  
    Options: She can't compare how far the water dropped, because each try started at a different level / It doesn't matter at all / The grains will float  
    **Answer:** She can't compare how far the water dropped, because each try started at a different level. *Why:* Each try must start the same way, so that only the grain changes. Otherwise a bigger drop might come from a fuller glass, not from more air.
-13. (fill) Plants make food from carbon dioxide and water using light. This is called ____.  
+12. (fill) Plants make food from carbon dioxide and water using light. This is called ____.  
    **Answer:** ['photosynthesis']. *Why:* Photosynthesis is how plants make sugar from carbon dioxide and water, using light. Oxygen is left over.
-14. (label) Label the parts of a lotus that help air reach the mud: leaf, leaf stalk, air canals, underground stem in the mud.  
+13. (label) Label the parts of a lotus that help air reach the mud: leaf, leaf stalk, air canals, underground stem in the mud.  
    **Answer:** The leaf floats on top. The leaf stalk runs down from it through the water. The air canals are the hollow tubes inside the stalk and stem. The underground stem lies in the mud at the bottom.. *Why:* Each part is on the path air takes from the open air down to the mud.
-15. (write) A sealed plastic bottle with its cap on is hard to crush. An open one crushes easily. Explain why, using what you know about air.  
+14. (write) A sealed plastic bottle with its cap on is hard to crush. An open one crushes easily. Explain why, using what you know about air.  
    **Answer:** In the sealed bottle the air can't get out. When you squeeze, the air gets squashed and pushes back. In the open bottle, the air just leaves through the neck.. *Why:* A strong answer says the air in the sealed bottle has nowhere to go, so it pushes back.
+15. (write) Raji, a girl in Class 4, fills a plastic bottle with water and makes a tiny hole in its bottom with a pin. With the cap screwed on tight, hardly any water comes out of the hole. When she opens the cap, water pours out. Explain why.  
+   **Answer:** With the cap on, no air can get into the bottle to take the place of the water, so the water stays in. With the cap off, air comes in at the top, and the water can run out of the hole.. *Why:* A strong answer says that water can only leave if air takes its place, as in the balloon in the bottle and the glugging bottle.
 
 ## Videos
-- **What's Matter? - Crash Course Kids #3.1** (Crash Course Kids, 4 min) id `ELchwUIlWa8`: A short, clear video for children on what matter is: anything that takes up space and has mass, including air. *Check:* Id, title and channel confirmed from a YouTube search listing (3 minutes 31 seconds). Not watched from here: a parent should preview it and check that it shows air as matter.
-- **How breathing works - Nirvair Kaur** (TED-Ed, 5 min) id `Kl4cU9sG_08`: For the parent and older children: an animated tour of how air gets into the lungs and how oxygen reaches the blood. *Check:* Id, title and channel confirmed from a YouTube search listing (5 minutes 19 seconds). Not watched from here: a parent should preview it.
-- **How do mangroves survive growing in intertidal zones? Pneumatophores (aerial roots) in mangroves** (Nature Clearly, 4 min) id `D5K47M-ils8`: Shows the breathing roots of mangroves, which take in air at low tide for roots buried in airless mud. *Check:* Id, title and channel confirmed from a YouTube search listing (4 minutes 5 seconds). Not watched from here: a parent should preview it and check its facts.
+- **What's Matter? - Crash Course Kids #3.1** (Crash Course Kids, 4 min) id `ELchwUIlWa8`: A short, clear video for children on what matter is: anything that takes up space and has mass, including air. *Check:* A parent should watch it first.
+- **How breathing works - Nirvair Kaur** (TED-Ed, 5 min) id `Kl4cU9sG_08`: For the parent and older children: an animated tour of how air gets into the lungs and how oxygen reaches the blood. *Check:* A parent should watch it first.
+- **How do mangroves survive growing in intertidal zones? Pneumatophores (aerial roots) in mangroves** (Nature Clearly, 4 min) id `D5K47M-ils8`: Shows the breathing roots of mangroves, which take in air at low tide for roots buried in airless mud. *Check:* A parent should watch it first.
 
 ## Quiz
 1. (mcq) Why did water go into a glass that was already full of dry chana?  
    Options: The chana shrank / The gaps between the grains were full of air, and the water pushed it out / The glass got bigger  
    **Answer:** The gaps between the grains were full of air, and the water pushed it out. *Why:* A full glass of grain is part grain and part air. Water can take the place of the air but not of the grains. Bubbles of air came up as it did.
-2. (mcq) Anu tries to blow up a balloon inside a closed, empty bottle. It hardly grows. Why?  
+2. (mcq) Anu, a girl in Class 3, tries to blow up a balloon inside a closed, empty bottle. It hardly grows. Why?  
    Options: The balloon is broken / The bottle is full of air, and the air has nowhere to go / Her breath is too weak  
    **Answer:** The bottle is full of air, and the air has nowhere to go. *Why:* Air takes up space. The air already in the bottle stops the balloon growing. With a hole in the bottle, it blows up easily.
 3. (mcq) A syringe of air is blocked at the tip. Can you push the plunger in?  
    Options: Yes, part of the way, because air can be squashed / No, not at all / Yes, all the way to zero  
    **Answer:** Yes, part of the way, because air can be squashed. *Why:* Air can be compressed, so the plunger goes in part of the way. It cannot go to zero, because the squashed air pushes back harder and harder.
-4. (mcq) Why can air be squashed, but water hardly at all?  
-   Options: Air particles are far apart. Water particles touch / Water is heavier than air / Air is warmer than water  
-   **Answer:** Air particles are far apart. Water particles touch. *Why:* There is space between air particles, so pushing moves them closer. Water particles already touch. Picking 'heavier' is a fair thought, but weight is not what stops water being squashed.
-5. (mcq) About how much does one litre of air weigh?  
+4. (mcq) About how much does one litre of air weigh?  
    Options: Nothing at all / About 1.2 grams / About 1 kilogram  
    **Answer:** About 1.2 grams. *Why:* One litre of air weighs about 1.2 grams. One litre of water weighs about 1 kilogram, more than 800 times as much.
-6. (mcq) Which gas makes up most of the air?  
+5. (mcq) Which gas makes up most of the air?  
    Options: Oxygen / Nitrogen / Carbon dioxide  
    **Answer:** Nitrogen. *Why:* About four-fifths of air is nitrogen. Oxygen is about one-fifth. Carbon dioxide is only a tiny part. Many people guess oxygen, because it is the one we need.
-7. (mcq) What do our cells need oxygen for?  
+6. (mcq) What do our cells need oxygen for?  
    Options: To get energy from food / To keep our bones hard / To make our hair grow longer  
    **Answer:** To get energy from food. *Why:* Cells use oxygen to get energy from the food we eat. Without it, they stop working in minutes.
-8. (mcq) Compared with the air around us, the air you breathe out has:  
+7. (mcq) Compared with the air around us, the air you breathe out has:  
    Options: more oxygen and less carbon dioxide / less oxygen and more carbon dioxide / exactly the same gases  
    **Answer:** less oxygen and more carbon dioxide. *Why:* Your cells used some oxygen and made carbon dioxide. Breathed-out air has about 16 parts oxygen in 100 instead of 21, and about 100 times more carbon dioxide.
-9. (mcq) In bright sunlight, what does a leaf take in from the air?  
+8. (mcq) In bright sunlight, what does a leaf take in from the air?  
    Options: Oxygen only / Carbon dioxide, to make food / Nitrogen, to make food  
    **Answer:** Carbon dioxide, to make food. *Why:* In light, leaves take in carbon dioxide through their stomata and use it with water to make sugar. They also use a little oxygen, but they give out much more than they use.
-10. (mcq) Do plants need oxygen?  
+9. (mcq) Do plants need oxygen?  
    Options: No, only animals need oxygen / Yes, every living part of a plant needs oxygen, day and night / Only at night  
    **Answer:** Yes, every living part of a plant needs oxygen, day and night. *Why:* Plants use oxygen all the time, in their leaves, stems and roots. In the day they also make oxygen, more than they use. That is why roots in flooded soil can die.
-11. (mcq) A lotus stem is full of holes. How do the holes help the lotus?  
-   Options: They carry air down to the stem and roots stuck in airless mud / They make the lotus float / They store food  
-   **Answer:** They carry air down to the stem and roots stuck in airless mud. *Why:* The mud at the bottom of a pond has almost no oxygen. The holes are air canals that carry air down from the leaves.
-12. (mcq) In ancient Greece, what did the squeezed wine bag and the water thief show?  
+10. (mcq) Thinkers in ancient Greece squeezed a wine bag full of air and felt it push back. What did this show?  
    Options: That a pot that looks empty is full of air / That water is heavier than wine / That air is made of fire  
-   **Answer:** That a pot that looks empty is full of air. *Why:* A squeezed bag full of air pushes back, and a covered water thief keeps water out. Both show air is a real thing that takes up space.
+   **Answer:** That a pot that looks empty is full of air. *Why:* A squeezed bag full of air pushes back. This shows air is a real thing that takes up space. A covered water thief jar keeps water out for the same reason.
 
 ## Applications
 - Cycle, scooter and car tyres are filled with compressed air, so they stay firm and soften the bumps.
@@ -640,17 +627,17 @@ Kavya laughed, and went to fetch the sugarcane.
 - Pressure cookers, pumps and the air brakes on buses and trucks all use the push of squashed or heated air and steam.
 - Doctors give rescue breathing because breathed-out air still has enough oxygen to help someone.
 - Gardeners make holes in pots and loosen soil so roots get air.
-- Rice farmers know their crop can grow in flooded fields because rice plants carry air down to their roots.
+- Rice grows in flooded fields in Kerala, Assam and Punjab, because rice plants carry air down to their roots.
 - Houses are built with windows and ventilators so that stale air goes out and fresh air comes in.
 - Weather scientists measure the weight of the air above us, called air pressure, to forecast rain and storms.
 
 ## Spotted around us
-- The cycle shop pump-wallah filling tyres with compressed air.
+- The cycle repair stall filling tyres with a pump.
 - Bubbles rising when Amma pours water into rice or dal before cooking.
 - A water bottle glugging as you drink from it upside down.
 - Lotus stems in the vegetable market, with their ring of holes.
 - The breathing roots of mangroves at Pichavaram in Tamil Nadu, or in the Sundarbans in West Bengal.
-- Your breath making a cloud on a cold morning in Ooty or Shimla.
+- Your breath making a cloud on a cold morning in Ooty, Shimla or Shillong.
 - Bubbles coming up from the soil when you water a dry plant pot.
 - A packet of chips puffed up with gas to stop the chips breaking.
 
@@ -674,13 +661,10 @@ Kavya laughed, and went to fetch the sugarcane.
 
 ## Jokes
 - Why did the balloon refuse to grow in the bottle? *The air said, 'Sorry, this seat is taken.'*
-- What did the chana say to the water? *Come on in, the air is just leaving.*
 - Why was the syringe so calm? *It knew how to handle pressure.*
 - What do you call a tyre that tells jokes? *Full of hot air.*
 - Why did the lotus do well at school? *They were good at breathing through problems.*
 - What kind of music does air like? *Wind instruments.*
-- Why did the empty bottle get upset? *Everyone said it had nothing inside, but it was full of air.*
-- How does a tulsi plant say good morning? *With a breath of fresh oxygen.*
 - Why couldn't the football keep a secret? *It kept letting the air out.*
 - What did the lungs say to the nose? *Thanks for the air. We'll send it back soon.*
 - Why did the soda bottle go on a diet? *It wanted to lose a few grams of gas.*
@@ -689,8 +673,8 @@ Kavya laughed, and went to fetch the sugarcane.
 ## Connected maths
 - In the Full Glass test, Meenakshi used a 200 ml glass. Water poured in: chana 80 ml, moong 76 ml, mustard seeds 74 ml. Which grain left the most air? How much more than the least? **Chana left the most air. That is 6 ml more than the mustard seeds.**. The biggest number is 80 ml, for chana. The smallest is 74 ml, for mustard seeds. 80 - 74 = 6 ml. 6 ml is small compared with 200 ml, so the three grains left almost the same amount of air. (queues `math.addition-subtraction.word-problems.L3`)
 - A glass holds 200 ml. When it is full of chana, 80 ml of water goes in. What fraction of the glass of chana was air? Give it in its simplest form. **Two-fifths.**. 80 out of 200 is 80/200. Divide both numbers by 40: 2/5. Check: one-fifth of 200 is 40, so two-fifths is 80. (queues `math.fractions.fractions-of-a-whole.L3`)
-- One cubic metre of air weighs about 1.2 kilograms. Arjun's bedroom is 4 metres long, 3 metres wide and 3 metres high. About how much does the air in it weigh? **About 43 kilograms.**. The volume is 4 × 3 × 3 = 36 cubic metres. 36 × 1.2 = 36 + 7.2 = 43.2. So the air weighs about 43 kilograms, more than a 10-year-old child. (queues `math.multiplication.multiplication-facts.L3`)
-- Divya pushed a 10 ml syringe of air in to the 5 ml mark. Her mother pushed it to the 4 ml mark. Their grandmother pushed a 10 ml syringe of water and it moved less than half a ml. What pattern do you see, and what does it tell you? **The harder the push, the more the air squashed, but the water hardly squashed at all.**. Divya halved the space of the air, from 10 to 5. Her mother, pushing harder, got it to 4. But even a strong push hardly moved the water. So air squashes more the harder you push, and water hardly squashes at all. (queues `math.number-sense.comparing-ordering.L3`)
+- One cubic metre of air weighs about 1.2 kilograms. Arjun, a boy in Class 4, has a bedroom that is 4 metres long, 3 metres wide and 3 metres high. About how much does the air in it weigh? **About 43 kilograms.**. The volume is 4 × 3 × 3 = 36 cubic metres. 36 × 1.2 = 36 + 7.2 = 43.2. So the air weighs about 43 kilograms, more than a 10-year-old child. (queues `math.multiplication.multiplication-facts.L3`)
+- Divya, a girl in Class 3, pushed a 10 ml syringe of air in to the 5 ml mark. Her mother pushed it to the 4 ml mark. Divya's grandmother pushed a 10 ml syringe of water and it moved less than half a ml. What pattern do you see, and what does it tell you? **The harder the push, the more the air squashed, but the water hardly squashed at all.**. Divya halved the space of the air, from 10 to 5. Her mother, pushing harder, got it to 4. But even a strong push hardly moved the water. So air squashes more the harder you push, and water hardly squashes at all. (queues `math.number-sense.comparing-ordering.L3`)
 
 ## Song
 Nothing Is Empty (sci.air.L3): Topic-level song for Air L3
@@ -703,11 +687,11 @@ Nothing Is Empty (sci.air.L3): Topic-level song for Air L3
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum with hands-on exhibits about air, pressure and the human body.
 - [Birla Science Centre]() · place · Hyderabad: A science museum with a planetarium. Look for exhibits on air and the body.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with many hands-on exhibits, including ones on air and pressure.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for air and pressure. It is on the founder's list of STEM websites.
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for air and pressure.
 
 ## Things to buy
-- [Two plastic syringes with no needles, 10 ml or 20 ml](https://www.amazon.in/s?k=10ml+syringe+without+needle) (material): For the Squash It experiment. Any chemist sells them for a few rupees. Ask for them without needles. An oral medicine syringe works too. Used in e2. 
-- [A packet of ordinary balloons](https://www.amazon.in/s?k=balloons+pack) (material): For the balloon in the bottle. Any medium-sized balloon works. Throw away burst pieces, because small children can choke on them. Used in a1. 
+- [A plastic syringe with no needle, 10 ml or 20 ml](https://www.amazon.in/s?k=10ml+syringe+without+needle) (material): Any chemist sells them for a few rupees. Ask for one without a needle. An oral medicine syringe works too. Used in e2. 
+- [A packet of ordinary balloons](https://www.amazon.in/s?k=balloons+pack) (material): Any medium-sized balloon works. Used in a1. 
 
 ## Warm-up
 - Is an 'empty' bottle really empty? → No. It is full of air.

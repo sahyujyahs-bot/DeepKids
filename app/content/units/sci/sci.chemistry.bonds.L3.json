@@ -24,8 +24,8 @@
   {
    "term": "Atom",
    "meaning": "The smallest piece of an element. Everything around you is made of atoms, far too small to see.",
-   "example": "A single grain of salt has more atoms than there are grains of sand on a beach.",
-   "art": "A grain of salt with a magnifying circle showing a neat pattern of tiny balls inside."
+   "example": "One drop of water holds more than a thousand billion billion atoms.",
+   "art": "A drop of water on a leaf with a magnifying circle showing a neat pattern of tiny balls inside."
   },
   {
    "term": "Element",
@@ -189,7 +189,7 @@
    "definition": "Water carries the battery's electricity well only when it has charged particles dissolved in it.",
    "description": "Cooking soda and salt are not made of molecules. They are made of particles with electric charges, held together by their opposite charges. In water, these charged particles move apart and can drift towards the battery's wires. That carries the electricity across. Sugar dissolves as whole molecules with no charge. So sugar water carries almost no electricity, and very little water splits.",
    "examples": [
-    "Salt water and soda water make many bubbles in the water-splitting test.",
+    "Soda water makes many bubbles in the water-splitting test. Salt water does too, but it also makes a little chlorine gas, so we do not use it at home.",
     "Pure water, and sugar water, make very few bubbles with a 9-volt battery."
    ],
    "perspectives": [],
@@ -298,7 +298,7 @@
    "hint": "Is a handshake a thing, or two hands doing something?"
   },
   {
-   "q": "The oxygen atoms you breathe out in water vapour were in the air a moment ago. Where does the air end and you begin?",
+   "q": "Some of the oxygen you breathe in ends up inside you as part of water. Where does the air end and you begin?",
    "kind": "big",
    "hint": "Your body uses oxygen from air to get energy from food, and makes water and carbon dioxide."
   },
@@ -317,7 +317,7 @@
   "title": "Bubbles That Were Not Steam",
   "mins": 12,
   "read_aloud": true,
-  "note": "A made-up story. The water-splitting test it describes is the one in this unit, and it works as told.",
+  "note": "A made-up story. The water-splitting test in it is the one in this unit.",
   "text": [
    "It was the morning of Pongal in Madurai. On the balcony of the flat, Paati had tied fresh turmeric leaves round the neck of the new pot. The milk in it was rising. Kavya, who was ten, held her little brother Arjun back from the stove.",
    "The milk frothed over the side. 'Pongalo pongal!' everyone shouted. Paati added the rice and covered the pot with a steel lid.",
@@ -365,7 +365,6 @@
    "title": "Hold Every Hand: an atom card game",
    "mins": 20,
    "players": [
-    "alone",
     "with a parent",
     "with friends"
    ],
@@ -457,12 +456,13 @@
     }
    ],
    "rules": [
-    "Shuffle the atom cards. Each player takes 6.",
-    "On your turn, take one card from the pile.",
-    "If you can build a molecule where every hand is held, lay it down. Score one point for each atom in it.",
-    "Then take cards until you have 6 again.",
-    "If you cannot build one, put one card at the bottom of the pile.",
-    "The game ends when the pile runs out. Most points wins."
+    "Lay the 8 molecule cards in a row with the name side up. Keep the atoms on the back hidden.",
+    "Shuffle the 30 atom cards. Deal 5 to each player. Put the rest face down as the pile.",
+    "On your turn, take the top card of the pile.",
+    "Then you may build one molecule from your cards. Say its name, and lay down the atoms with every hand held. If two atoms hold each other with two or three hands, overlap their cards.",
+    "Turn the molecule card over to check the atoms. If you are right, score the points on the back. If you are wrong, take your cards back and score nothing.",
+    "After building, take cards from the pile until you have 5 again. If you did not build, put one card from your hand face up in a used pile, so you have 5.",
+    "When the pile is empty, finish the round. Most points wins. A tie is a shared win."
    ],
    "setup": [
     {
@@ -471,7 +471,7 @@
     },
     {
      "art": "Three cards laid on a table, an O card in the middle and two H cards touching it, making water.",
-     "caption": "2. Build a molecule where every hand is held. Score its atoms."
+     "caption": "2. Build a molecule where every hand is held. Check the back of its card and score the points."
     }
    ],
    "flow": [
@@ -610,11 +610,12 @@
     }
    ],
    "rules": [
-    "Shuffle the change cards and put them face down.",
-    "Take turns to turn one over and read it out.",
-    "Everyone says 'Same stuff' or 'New stuff'.",
-    "Turn the card to check. Everyone who was right gets a point.",
-    "Whoever reads the card must also say why. A good reason earns an extra point."
+    "Shuffle the 16 change cards and put them face down.",
+    "Take turns to pick the top card. Read the front aloud, and keep the back hidden.",
+    "Everyone except the reader holds up a sign: Same stuff or New stuff.",
+    "The reader turns the card and checks. Everyone who was right gets a point.",
+    "The reader then explains why, using the back. A good reason earns the reader an extra point.",
+    "The game ends when all 16 cards are read. Most points wins. With two players, one reads and the other guesses, then swap."
    ],
    "setup": [
     {
@@ -623,7 +624,7 @@
     },
     {
      "art": "Two family members holding up signs, one saying SAME STUFF and one saying NEW STUFF.",
-     "caption": "2. Everyone calls out Same stuff or New stuff. Then check."
+     "caption": "2. Everyone except the reader holds up a sign. Then check the back."
     }
    ],
    "flow": [
@@ -697,7 +698,7 @@
      "buy": "b-battery"
     },
     {
-     "item": "2 ordinary wooden pencils, sharpened at both ends",
+     "item": "2 ordinary wooden pencils, sharpened at both ends. If a pencil has a rubber on the end, pull it off or ask a grown-up to cut that end off.",
      "qty": 2
     },
     {
@@ -792,7 +793,7 @@
      "do": "1. Watch both tips for a minute. 2. Decide which tip makes more bubbles. 3. Write it in the table, with the colour of its wire.",
      "say": "Do both tips make the same amount of bubbles? Look carefully.",
      "kid": "Watch both tips. Which one makes more bubbles? Which wire is on it? Write it down.",
-     "parent": "The pencil on the black wire, the minus side, usually makes about twice as many bubbles. That is hydrogen. The red side makes oxygen. The oxygen side may also turn the water a little grey, as bits of lead come off. That is normal."
+     "parent": "The pencil on the black wire, the minus side, usually makes about twice as many bubbles. The bubbles are tiny, so the difference can be hard to see. Use the torch and count for 10 seconds on each side. If both look the same, write that down honestly. That is hydrogen. The red side makes oxygen. The oxygen side may also turn the water a little grey, as bits of lead come off. That is normal."
     },
     {
      "id": "s6",
@@ -868,7 +869,7 @@
    "context": "In this experiment a grown-up gently heats candle wax and sugar on spoons. You watch which one turns back into what it was when it cools.",
    "question": "When we heat wax and sugar and let them cool, which one comes back as the same stuff?",
    "predict": "Guess first. Both will melt. When they cool down, will each one be the same as before? Why do you think so?",
-   "fair_test": "Use the same amount of each, the same kind of steel spoon and the same flame. Heat each one until it has melted, then cool both on the same plate for the same time.",
+   "fair_test": "Use the same amount of each, the same kind of steel spoon, the same flame and the same height above it. Wax melts quickly and sugar takes longer, because they are different stuff. Cool both on the same plate for the same time.",
    "results_table": [
     "Thing",
     "What it looked like before",
@@ -914,7 +915,7 @@
    "flow": [
     {
      "id": "s1",
-     "mins": 4,
+     "mins": 3,
      "do": "1. Put the sugar on one spoon and the wax shavings on the other. 2. Let your child look closely, feel and smell each.",
      "say": "Look at both. Feel them. Smell them. What will heat do? Will they come back the same after cooling? Why?",
      "kid": "Look at the sugar and the wax. Feel them. Smell them. Guess what will happen, and say why.",
@@ -922,7 +923,7 @@
     },
     {
      "id": "s2",
-     "mins": 5,
+     "mins": 4,
      "do": "Hold the wax spoon over a low flame, about 10 cm above it. Take it off as soon as all the wax has melted.",
      "say": "Watch the wax. What is it doing?",
      "kid": "Watch the wax spoon from a safe place. What happens?",
@@ -931,8 +932,8 @@
     },
     {
      "id": "s3",
-     "mins": 6,
-     "do": "Hold the sugar spoon over a medium flame. Keep heating after it melts, until it turns golden brown. Then put it on the plate.",
+     "mins": 5,
+     "do": "Hold the sugar spoon over the same low flame at the same height. If the sugar has not melted after 3 minutes, lower the spoon to about 5 cm. Keep heating after it melts, until it turns golden brown. Then put it on the plate.",
      "say": "Now the sugar. Watch the colour, and sniff the air.",
      "kid": "Watch the sugar from a safe place. Does the colour change? What do you smell?",
      "adult": true,
@@ -940,8 +941,8 @@
     },
     {
      "id": "s4",
-     "mins": 6,
-     "do": "1. Wait 10 minutes for both spoons to cool. 2. Look at both, feel them, and let your child taste a tiny bit of the cool caramel.",
+     "mins": 10,
+     "do": "1. Wait 10 minutes for both spoons to cool. 2. Look at both and feel them. 3. Let your child taste a tiny bit of the cool caramel from the sugar spoon. Do not taste the wax.",
      "say": "Is the wax wax again? Is the sugar sugar again?",
      "kid": "When they are cool, look again. Is the wax like before? Is the sugar white and sweet like before?",
      "parent": "The wax is solid white wax again. The sugar is now a hard, brown, glassy lump that tastes slightly bitter. Soak the sugar spoon in hot water to clean it.",
@@ -959,7 +960,7 @@
     },
     {
      "id": "s5",
-     "mins": 4,
+     "mins": 3,
      "do": "Ask for claim, evidence and reasoning.",
      "say": "What do you think now? What did you see? Why did it happen?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
@@ -989,14 +990,14 @@
    "context": "This experiment uses the pencil-and-battery setup from the water-splitting test. You find out which water carries the battery's electricity best, by counting bubbles.",
    "question": "Does plain water, sugar water or cooking soda water make the most bubbles with the battery?",
    "predict": "Guess first. Which glass will bubble the most? Which the least? Why do you think so?",
-   "fair_test": "Use the same amount of water in the same kind of glass. Use the same pencils at the same distance, and the same battery. Watch each for one minute. Rinse the pencils between glasses.",
+   "fair_test": "Use the same amount of water in the same kind of glass, filled to the same level. Use 1 teaspoon of sugar in one glass and 1 teaspoon of soda in another. Use the same pencils at the same distance, and the same battery. Watch each for one minute. Rinse the pencils between glasses.",
    "results_table": [
     "Water",
     "Bubbles: none, few, some or many"
    ],
    "materials": [
     {
-     "item": "the battery, clip and pencils from the water-splitting test",
+     "item": "the battery, clip, pencils and cardboard strip from the water-splitting test",
      "qty": 1,
      "buy": "b-battery"
     },
@@ -1006,7 +1007,7 @@
     },
     {
      "item": "sugar",
-     "qty": "2 teaspoons"
+     "qty": "1 teaspoon"
     },
     {
      "item": "cooking soda",
@@ -1030,7 +1031,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Label three glasses: plain, sugar, soda. 2. Stir 2 teaspoons of sugar into one, and 1 teaspoon of soda into another.",
+     "do": "1. Label three glasses: plain, sugar, soda. 2. Fill each to the same level with tap water. 3. Stir 1 teaspoon of sugar into one, and 1 teaspoon of soda into another.",
      "say": "Which glass do you think will bubble most? Why?",
      "kid": "Label three glasses. Stir sugar into one and soda into one. Guess which will bubble most, and say why.",
      "context": "This is the first step of the three-water test. You make three kinds of water to test with the battery."
@@ -1042,7 +1043,7 @@
      "say": "Watch the tips. Count roughly: none, few, some or many?",
      "kid": "Put the pencils in the first glass. Join the battery. Watch for one minute. Then the next glass.",
      "adult": true,
-     "parent": "Plain tap water makes only a few slow bubbles. Sugar water makes about the same, or fewer. Soda water makes many. Tap water has a few dissolved minerals, which is why it makes any bubbles at all."
+     "parent": "Plain tap water makes very few bubbles, maybe none. Sugar water makes about the same. Soda water makes many. Tap water has a few dissolved minerals, which is why it may make a few bubbles at all."
     },
     {
      "id": "s3",
@@ -1059,7 +1060,7 @@
        "Soda is a gas"
       ],
       "a": 0,
-      "why": "Cooking soda is made of particles with electric charges. In water they move apart and carry the electricity between the pencils. Sugar dissolves as whole molecules with no charge, so it carries almost none. Picking 'too sticky' is a fair guess, but two teaspoons of sugar barely thickens a glass of water."
+      "why": "Cooking soda is made of particles with electric charges. In water they move apart and carry the electricity between the pencils. Sugar dissolves as whole molecules with no charge, so it carries almost none. Picking 'too sticky' is a fair guess, but one teaspoon of sugar barely thickens a glass of water."
      }
     }
    ],
@@ -1084,7 +1085,7 @@
    "context": "This is a quick activity to start the unit. You try to pull apart everyday things, and wonder what holds them together.",
    "materials": [
     {
-     "item": "a steel spoon, a sheet of paper, a ball of atta dough, and an ice cube on a plate",
+     "item": "a steel spoon, a sheet of paper, a ball of wheat or rice-flour dough, and an ice cube on a plate",
      "qty": 4
     }
    ],
@@ -1147,7 +1148,7 @@
      "qty": "10 of each"
     },
     {
-     "item": "toothpicks",
+     "item": "toothpicks (or broken bamboo skewers)",
      "qty": 20,
      "buy": "b-toothpicks"
     },
@@ -1161,7 +1162,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Build water, oxygen gas and carbon dioxide models."
+     "what": "The night before, soak the chana and moong. Then build water, oxygen gas and carbon dioxide models."
     }
    ],
    "record": "Draw each model and write its name and its letters, like H2O.",
@@ -1172,7 +1173,8 @@
      "do": "1. Let each big chana be an oxygen atom. 2. Let each small moong be a hydrogen atom. 3. Build water: one chana with two moong, each on its own toothpick.",
      "say": "Oxygen has two hands, so it gets two toothpicks. Hydrogen has one.",
      "kid": "Big chana is oxygen. Small moong is hydrogen. Push in two toothpicks. Put a moong on each. That is water!",
-     "context": "This is the first step of building molecules. You make a water molecule from chana and moong."
+     "context": "This is the first step of building molecules. You make a water molecule from chana and moong.",
+     "wait": "Soak the chana and moong in water the night before."
     },
     {
      "id": "s2",
@@ -1256,7 +1258,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Now the battery comes. The hydrogens let go of the oxygen. 2. The two hydrogens hold each other's free hand, making hydrogen gas. 3. With a second molecule, the two oxygens hold hands, making oxygen gas.",
+     "do": "1. Now the battery comes. The hydrogens let go of the oxygen. 2. The two hydrogens hold each other's hand, making hydrogen gas. 3. With a second water molecule, the two oxygens hold each other with both hands, making oxygen gas.",
      "say": "The battery pulls the atoms apart. Now what do the hydrogens do?",
      "kid": "The battery pulls you apart! Hydrogens, let go. Now hold each other's hand. You are hydrogen gas!",
      "check": {
@@ -1269,16 +1271,17 @@
       ],
       "a": 0,
       "why": "In boiling, each molecule stays whole, with its hands still held. The molecules only move far apart. Letting go of the oxygen is what the battery does, and it makes new gases."
-     }
+     },
+     "parent": "Oxygen gas needs the oxygens of two water molecules, which takes six people. With only three, act out hydrogen gas, and say that two oxygens would hold each other with both hands."
     }
    ],
    "setup": [
     {
-     "art": "Three family members in a living room: a mother with an O label holding hands with two children with H labels.",
+     "art": "Three people standing in a living room: one with an O label holding both hands out to two others with H labels.",
      "caption": "1. Make a water molecule: O in the middle, H on each side."
     },
     {
-     "art": "The two children holding hands together, away from the mother.",
+     "art": "The two H people holding hands with each other, away from the O person.",
      "caption": "2. Act out the battery splitting water: the H's hold each other."
     }
    ]
@@ -1387,7 +1390,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "While cooking, point out changes: water boiling, onions browning, mustard seeds popping, ghee melting, dosa browning.",
+     "do": "While cooking, point out changes: water boiling, ghee melting, onions browning, dosa browning. Write each one on the Same stuff or New stuff list.",
      "say": "Is this the same stuff or new stuff? How can you tell?",
      "kid": "Watch the cooking from a safe place. For each change, say same stuff or new stuff.",
      "adult": true,
@@ -1429,11 +1432,11 @@
    "title": "My Molecule Book",
    "mins": 40,
    "days": 2,
-   "context": "In this 2-day project you build models of six molecules from your home and your air, and make a small book about them.",
+   "context": "In this 2-day project you build models of methane, ammonia and hydrogen peroxide, and make a small book about six molecules from your home and your air.",
    "materials": [
     {
      "item": "soaked chana and moong, and toothpicks, as in the chana molecule activity",
-     "qty": "20 of each",
+     "qty": "10 of each",
      "buy": "b-toothpicks"
     },
     {
@@ -1454,12 +1457,12 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Build water, oxygen gas, carbon dioxide and methane. Draw or photograph each."
+     "what": "The night before, soak the chana and moong. Then build methane and ammonia. Draw or photograph each."
     },
     {
      "day": 2,
      "mins": 20,
-     "what": "Build ammonia and hydrogen peroxide. Finish the book with one page per molecule."
+     "what": "Build hydrogen peroxide. Finish the book with one page for each of the six molecules."
     }
    ],
    "record": "One page per molecule: its name, its letters, a drawing, and where you find it.",
@@ -1467,19 +1470,12 @@
     {
      "id": "s1",
      "mins": 20,
-     "do": "1. Use plain chana for oxygen, moong for hydrogen, black-marked chana for carbon and blue-marked chana for nitrogen. 2. Build water, oxygen gas, carbon dioxide and methane. 3. Draw each on a page.",
+     "do": "1. Use plain chana for oxygen, moong for hydrogen, black-marked chana for carbon and blue-marked chana for nitrogen. 2. Build methane: a black chana with four moong. 3. Build ammonia: a blue chana with three moong. 4. Draw each on its own page.",
      "say": "Remember the hands: hydrogen 1, oxygen 2, nitrogen 3, carbon 4. Every hand must be held.",
-     "kid": "Build four molecules. Water. Oxygen gas. Carbon dioxide. Methane. Draw each one.",
-     "context": "This is the first day of My Molecule Book. You build four molecules and draw them.",
-     "parent": "Methane is one carbon with four hydrogens. It is the main gas in biogas and in the piped cooking gas some cities have."
-    },
-    {
-     "id": "s2",
-     "mins": 20,
-     "do": "1. Build ammonia: one nitrogen with three hydrogens. 2. Build hydrogen peroxide: a chain of H, O, O, H. 3. Finish the book.",
-     "say": "Ammonia is in some cleaning liquids. Hydrogen peroxide cleans cuts. Can you build them so every hand is held?",
-     "kid": "Build ammonia. One nitrogen, three hydrogens. Then build H, O, O, H. Finish your book.",
-     "wait": "Do this on the second day.",
+     "kid": "Build methane. Then build ammonia. Draw each one on its own page.",
+     "context": "This is the first day of My Molecule Book. You build methane and ammonia and draw them.",
+     "parent": "Methane is the main gas in biogas and in the piped cooking gas some cities have. Ammonia is in some cleaning liquids.",
+     "wait": "Soak the chana and moong in water the night before.",
      "check": {
       "t": "mcq",
       "q": "Nitrogen has three hands. How many hydrogens does it hold in ammonia?",
@@ -1491,12 +1487,20 @@
       "a": 1,
       "why": "Each of nitrogen's three hands holds one hydrogen, so ammonia is NH3. Picking 4 would need four hands, like carbon."
      }
+    },
+    {
+     "id": "s2",
+     "mins": 20,
+     "do": "1. Build hydrogen peroxide: a chain of H, O, O, H. 2. Draw it on its own page. 3. Finish the book with a page for each of the six molecules. Draw water, oxygen gas and carbon dioxide from your chana models in the earlier activity.",
+     "say": "Hydrogen peroxide cleans cuts. Can you build it so every hand is held?",
+     "kid": "Build H, O, O, H. Draw it. Then finish your book with six pages.",
+     "wait": "Do this on the second day."
     }
    ],
    "setup": [
     {
-     "art": "Six small chana-and-toothpick models lined up on a plate, each with a paper name tag.",
-     "caption": "1. Build six molecules over two days."
+     "art": "Three small chana-and-toothpick models lined up on a plate, each with a paper name tag.",
+     "caption": "1. Build methane, ammonia and hydrogen peroxide over two days."
     },
     {
      "art": "A small home-made book open at a page with a drawing of a water molecule and the letters H2O.",
@@ -1518,10 +1522,9 @@
     "Change one thing at a time, and compare with the first setup."
    ],
    "materials": [
-    "the battery, clip and pencils from the water-splitting test",
+    "the battery, clip, pencils and cardboard strip from the water-splitting test",
     "glasses of water",
     "cooking soda",
-    "salt",
     "cardboard strips with holes at different distances"
    ],
    "general": [
@@ -1539,7 +1542,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Set up the plain water-splitting test and watch for one minute.",
+     "do": "Set up the water-splitting test with 1 teaspoon of soda, and watch for one minute.",
      "say": "This is our starting machine. Watch how fast the bubbles come.",
      "kid": "Set up the first machine. Watch for one minute. How fast are the bubbles?",
      "context": "This is the first step of the Faster Bubble Machine challenge. You watch the starting setup, to compare later."
@@ -1551,7 +1554,7 @@
      "say": "Which change made the bubbles come fastest? Why do you think so?",
      "kid": "Change one thing. Watch for one minute. Faster or slower? Then try another change.",
      "adult": true,
-     "parent": "Closer pencils and more soda both help, because the electricity has an easier path. Salt also works well, but it makes a little chlorine at the red side, which smells like a swimming pool. If you smell it, open a window and stop."
+     "parent": "Closer pencils and more soda both help, because the electricity has an easier path. Do not use salt, even though it would work well."
     },
     {
      "id": "s3",
@@ -1570,7 +1573,8 @@
      "art": "Three cardboard strips with pairs of holes at different distances.",
      "caption": "2. Change one thing at a time and compare."
     }
-   ]
+   ],
+   "safety": "Do not add salt to the water. It makes a little chlorine gas, which smells like a swimming pool and is not safe to breathe. Use only a 9-volt battery. Keep the wires apart and flames away."
   },
   {
    "id": "c2",
@@ -1619,7 +1623,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Test with a wrong molecule, such as H-H-O.",
+     "do": "Test with a wrong molecule, such as a chain H, H, O, where the middle hydrogen holds two partners.",
      "say": "Try to make a hydrogen hold two partners. Can you?",
      "kid": "Try to make a wrong molecule. Does your design stop it?"
     }
@@ -1691,34 +1695,6 @@
   },
   {
    "t": "mcq",
-   "p": "Nandini, a girl in Class 3 in Chennai, puts two pencils in soda water and joins a battery. Bubbles rise, but the water stays cool. What are the bubbles?",
-   "opts": [
-    "Hydrogen and oxygen gas, split from water",
-    "Steam",
-    "Air from the pencils",
-    "Soda gas only"
-   ],
-   "a": 0,
-   "why": "The water is not hot, so it is not steam. The battery splits water molecules into hydrogen and oxygen. Air from the pencils would stop after a moment.",
-   "outcome": 3,
-   "how": "e1"
-  },
-  {
-   "t": "mcq",
-   "p": "In the water-splitting test, the pencil on the black wire makes about twice as many bubbles. Why?",
-   "opts": [
-    "Each water molecule has two hydrogen atoms and only one oxygen",
-    "That pencil is longer",
-    "Black wires are stronger",
-    "Oxygen bubbles are invisible"
-   ],
-   "a": 0,
-   "why": "The black, minus side makes hydrogen. Each water molecule has two hydrogens for every oxygen. So there is about twice as much hydrogen gas.",
-   "outcome": 3,
-   "how": "e1"
-  },
-  {
-   "t": "mcq",
    "p": "Steam from a pot drips back off the lid as water. What does this show?",
    "opts": [
     "Boiling only moves water molecules apart. Each one stays whole.",
@@ -1732,16 +1708,16 @@
   },
   {
    "t": "mcq",
-   "p": "Carbon usually makes 4 bonds, and hydrogen makes 1. How many hydrogens can one carbon hold?",
+   "p": "A gas stove flame is hot. Why?",
    "opts": [
-    "4",
-    "1",
-    "2",
-    "8"
+    "The gas atoms make new, strong bonds with oxygen, which gives out energy",
+    "The gas atoms are destroyed",
+    "Water is splitting inside the flame",
+    "The flame is made of hydrogen only"
    ],
    "a": 0,
-   "why": "Each of carbon's four hands holds one hydrogen. That gives CH4, methane, the main gas in biogas.",
-   "outcome": 2
+   "why": "The atoms of the gas bond with oxygen from the air and make carbon dioxide and water. Making strong new bonds gives out energy as heat and light.",
+   "outcome": 4
   },
   {
    "t": "mcq",
@@ -1758,17 +1734,16 @@
   },
   {
    "t": "mcq",
-   "p": "A grown-up melts candle wax and sugar on spoons. When they cool, which one is the same as before?",
+   "p": "A balcony grill has turned brown and flaky. What has happened to the iron?",
    "opts": [
-    "The wax",
-    "The sugar",
-    "Both",
-    "Neither"
+    "Iron atoms have bonded with oxygen, with help from water, and made rust",
+    "Iron atoms have turned into paint",
+    "The iron has melted and set again",
+    "Water has split the iron into hydrogen and oxygen"
    ],
    "a": 0,
-   "why": "Wax melts and sets again as wax, because its molecules stayed whole. The sugar turned into brown caramel, a new substance.",
-   "outcome": 4,
-   "how": "e2"
+   "why": "Rusting makes a new substance. Iron atoms bond with oxygen from the air, and water helps. Melting would only be a change you can undo by cooling.",
+   "outcome": 4
   },
   {
    "t": "mcq",
@@ -1811,7 +1786,7 @@
   },
   {
    "t": "mcq",
-   "p": "Sneha, a girl in Class 4 in Pune, dissolves sugar in one glass and cooking soda in another. With the battery, the soda water bubbles a lot and the sugar water hardly at all. Why?",
+   "p": "Bina, a girl in Class 4 in Guwahati, dissolves sugar in one glass and cooking soda in another. With the battery, the soda water bubbles a lot and the sugar water hardly at all. Why?",
    "opts": [
     "Soda splits into charged particles that carry electricity, but sugar molecules have no charge",
     "Sugar is heavier",
@@ -1853,9 +1828,9 @@
     },
     {
      "t": "truefalse",
-     "p": "When water boils, its molecules break into hydrogen and oxygen.",
+     "p": "Ice, liquid water and steam are made of three different kinds of molecule.",
      "a": false,
-     "why": "False. Boiling moves whole water molecules apart, as steam. That is why steam drips back from a lid as water. Only something like a battery breaks the bonds inside."
+     "why": "False. All three are H2O molecules. Only the spacing and the movement of the molecules change."
     },
     {
      "t": "match",
@@ -2019,15 +1994,27 @@
      "how": "e1"
     },
     {
-     "t": "mcq",
-     "p": "Which of these is the best picture of what holds atoms together?",
-     "a": 2,
-     "why": "Bonds are made by electrons, which both atoms attract. There are no strings, hooks or glue. A strong answer names the electrons.",
-     "opts": [
-      "Tiny strings",
-      "Tiny hooks",
-      "Electrons that both atoms attract",
-      "Air pushing them together"
+     "t": "match",
+     "p": "Match each atom to the number of bonds it usually makes.",
+     "a": "pairs as given",
+     "why": "Hydrogen makes 1 bond, oxygen 2, nitrogen 3 and carbon 4. A strong answer uses these to explain why water is H2O.",
+     "pairs": [
+      [
+       "Hydrogen",
+       "1 bond"
+      ],
+      [
+       "Oxygen",
+       "2 bonds"
+      ],
+      [
+       "Nitrogen",
+       "3 bonds"
+      ],
+      [
+       "Carbon",
+       "4 bonds"
+      ]
      ]
     },
     {
@@ -2155,12 +2142,11 @@
     },
     {
      "t": "fill",
-     "p": "In the water-splitting test, the gas that came off the pencil on the black wire was ____.",
+     "p": "Splitting water with electricity is called ____.",
      "a": [
-      "hydrogen"
+      "electrolysis"
      ],
-     "why": "The black, minus side makes hydrogen. There was about twice as much of it, because each water molecule has two hydrogen atoms.",
-     "how": "e1"
+     "why": "Electro means electricity and lysis means splitting. A 9-volt battery and two pencils can do it."
     },
     {
      "t": "match",
@@ -2228,16 +2214,15 @@
     },
     {
      "t": "mcq",
-     "p": "When a grown-up heated sugar on a spoon, a little steam came off and brown caramel was left. Where did the sugar's atoms go?",
+     "p": "Priya stirs sugar into hot tea and it disappears. How could she get the sugar back?",
      "a": 0,
-     "why": "Some hydrogen and oxygen atoms from the sugar left as water vapour, the steam. The rest are in the caramel. None were destroyed.",
+     "why": "Dissolving only spreads whole sugar molecules among the water molecules. Let the water dry away and the sugar is left. It was never destroyed.",
      "opts": [
-      "Some into the steam, the rest into the caramel",
-      "They were all burnt away",
-      "They all stayed as sugar",
-      "They went into the spoon"
-     ],
-     "how": "e2"
+      "Let the water dry away, and the sugar is left",
+      "She cannot, because dissolving destroys sugar",
+      "Add more tea",
+      "Freeze the tea until the sugar turns to caramel"
+     ]
     },
     {
      "t": "write",
@@ -2325,11 +2310,10 @@
     },
     {
      "t": "write",
-     "p": "A sugar molecule has 12 carbon, 22 hydrogen and 11 oxygen atoms. When sugar was heated to caramel, steam came off. Where could that water have come from?",
-     "a": "From the sugar itself. Some of its hydrogen and oxygen atoms broke away and joined as water molecules, which left as steam.",
-     "why": "A strong answer sees that water can be made from atoms that were part of another molecule.",
-     "lines": 3,
-     "how": "e2"
+     "p": "A candle burns away in a closed jar, and the jar with everything in it weighs the same as before. Where did the wax go, and why does the weight stay the same?",
+     "a": "The wax atoms bonded with oxygen and became carbon dioxide and water vapour inside the jar. No atoms left the jar or were destroyed, so the weight stays the same.",
+     "why": "A strong answer says atoms change partners but are not lost.",
+     "lines": 3
     },
     {
      "t": "truefalse",
@@ -2410,15 +2394,15 @@
      "why": "Opposite electric charges attract. The positive centres of both atoms attract the shared electrons, and that holds the atoms together."
     },
     {
-     "t": "odd",
-     "p": "Three of these changes make new bonds. Which is the odd one out?",
-     "a": 2,
-     "why": "Ghee melting is the odd one out. The others all make new substances.",
+     "t": "mcq",
+     "p": "A rusty nail weighs a little more than the shiny nail did. Why?",
+     "a": 0,
+     "why": "Oxygen atoms from the air have bonded with the iron atoms. No iron is lost, and the extra atoms add weight.",
      "opts": [
-      "A green banana ripening",
-      "An agarbatti burning",
-      "Ghee melting in a pan",
-      "Curd setting from milk"
+      "Oxygen atoms from the air have joined the iron atoms",
+      "New iron atoms were made",
+      "The nail soaked up heat, and heat has weight",
+      "The nail grew bigger holes"
      ]
     },
     {
@@ -2447,14 +2431,14 @@
     },
     {
      "t": "mcq",
-     "p": "Graphite and diamond are both carbon. What makes them so different?",
+     "p": "Why did we use pencil lead in the water-splitting test, and not a wooden stick?",
      "a": 0,
-     "why": "The same atoms bonded in different patterns give different materials. A strong answer names the patterns: sheets and a 3D frame.",
+     "why": "Pencil lead is graphite, a form of carbon that carries electricity. Wood does not carry it well enough.",
      "opts": [
-      "The pattern of bonds between the carbon atoms",
-      "Diamond has more carbon",
-      "Graphite is mixed with water",
-      "Diamond is cold"
+      "Graphite carries electricity",
+      "Graphite is a magnet",
+      "Graphite makes the bubbles",
+      "Graphite is the same as soda"
      ]
     },
     {
@@ -2543,7 +2527,7 @@
   "When the milk boils over, is it still milk? How could you tell?",
   "Is a cooked egg the same stuff as a raw egg?",
   "Where do you think the atoms of the wood go when it burns?",
-  "Why do you think rust forms faster near the sea, in Chennai or Kochi?",
+  "Why do you think rust forms faster near the sea, in Chennai, Kochi or Mumbai?",
   "If you could hold hands with only one person, like hydrogen, who would it be?",
   "Which things in the kitchen could never be turned back after cooking?",
   "What do you think a diamond and a pencil have in common?",
@@ -2563,10 +2547,6 @@
    "a": "It had four hands to hold."
   },
   {
-   "j": "Why did the pencil go to school?",
-   "a": "To learn how to make its mark."
-  },
-  {
    "j": "Why didn't the water molecule fall apart in the kettle?",
    "a": "It kept a tight grip on its hydrogens."
   },
@@ -2581,10 +2561,6 @@
   {
    "j": "What did the ice say to the steam?",
    "a": "Same molecules, you just move faster."
-  },
-  {
-   "j": "Why is the electron invited to every party?",
-   "a": "It's great at making bonds."
   },
   {
    "j": "What did the hydrogen say when the battery split the water?",
@@ -2621,7 +2597,7 @@
   },
   {
    "context": "This is about building molecules with soaked chana for oxygen and moong for hydrogen.",
-   "problem": "Shalini, a girl in Class 3 in Mangaluru, wants to build 3 water molecules with chana and moong. How many chana and how many moong does she need?",
+   "problem": "Shalini, a girl in Class 3 in Bhubaneswar, wants to build 3 water molecules with chana and moong. How many chana and how many moong does she need?",
    "answer": "3 chana and 6 moong.",
    "explain": "Each water molecule is 1 oxygen and 2 hydrogens. 3 groups of 1 is 3 chana. 3 groups of 2 is 6 moong.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -2686,13 +2662,6 @@
    "kind": "place",
    "where": "Mumbai",
    "why": "A science centre with hands-on exhibits and a science park."
-  },
-  {
-   "title": "Your kitchen and balcony",
-   "url": "",
-   "kind": "place",
-   "where": "anywhere",
-   "why": "Bonds break and form every day there: in cooking, in a gas flame, and in rust on a grill."
   }
  ],
  "buy": [
@@ -2700,25 +2669,24 @@
    "id": "b-battery",
    "item": "A 9-volt battery with a snap clip that has a red and a black wire",
    "kind": "material",
-   "why": "Needed to split water. Both are sold cheaply in electrical and hardware shops. The clip saves holding wires by hand.",
    "url": "https://www.amazon.in/s?k=9v+battery+with+snap+connector",
    "used_in": [
     "e1",
     "e3",
     "c1"
    ],
-   "plan": "Keep it for the electricity units too."
+   "why": "Needed to split water. A 9-volt battery and a clip are sold cheaply in electrical and hardware shops. The clip saves holding wires by hand."
   },
   {
    "id": "b-toothpicks",
    "item": "A box of toothpicks",
    "kind": "material",
-   "why": "For chana molecule models. Many homes already have them. Broken bamboo skewers work too.",
    "url": "https://www.amazon.in/s?k=wooden+toothpicks",
    "used_in": [
     "a2",
     "p1"
-   ]
+   ],
+   "why": "For the chana molecule models. Many homes already have them. Broken bamboo skewers work too."
   }
  ],
  "warmup": [

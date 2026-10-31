@@ -114,7 +114,7 @@
   },
   {
    "term": "Fungus",
-   "meaning": "A living thing that is neither a plant nor an animal. They feed on dead or living things around them. Mushrooms, moulds and yeast are fungi.",
+   "meaning": "Living things that are neither plants nor animals. Fungi feed on dead or living things around them. Mushrooms, moulds and yeast are fungi.",
    "example": "The green mould on old bread is a fungus.",
    "art": "A mushroom, a slice of bread with mould and a spoon of yeast, side by side."
   },
@@ -205,7 +205,7 @@
    "status": "defined",
    "context": "This card explains why some living things share features: they are relatives.",
    "definition": "Living things inherit features from their parents. So relatives, who share ancestors, share many features.",
-   "description": "A kitten has whiskers because their parents had whiskers. Their parents got them from their parents, and so on, far back. Tigers, leopards and house cats all came from the same long-ago cat ancestors. So they all have whiskers, claws they can pull in, and rough tongues. Plants work the same way. Tomato, brinjal and chilli plants came from the same ancestor plants. So their fruits share a green cap and small flat seeds. When scientists sort by shared features like these, they find relatives. This sort has a true answer, because it comes from what really happened long ago.",
+   "description": "A kitten has whiskers because their parents had whiskers. Those parents got them from their own parents, and so on, far back. Tigers, leopards and house cats all came from the same long-ago cat ancestors. So they all have whiskers, claws they can pull in, and rough tongues. Plants work the same way. Tomato, brinjal and chilli plants came from the same ancestor plants. So their fruits share a green cap and small flat seeds. When scientists sort by shared features like these, they find relatives. This sort has a true answer, because it comes from what really happened long ago.",
    "examples": [
     "A tiger and a house cat both pull in their claws when they walk.",
     "Tulsi, mint and karpooravalli all have square stems and strong smells. They are in the mint family.",
@@ -226,7 +226,7 @@
     "Watermelon seeds are flat and oval, like cucumber seeds, though the fruits look very different."
    ],
    "perspectives": [],
-   "art": "Four kitchen baskets labelled tomato family, gourd family, bean family and grass family, each holding its vegetables or grains."
+   "art": "Four kitchen baskets labelled tomato family, gourd family, bean family and grass family, each holding their vegetables or grains."
   },
   {
    "concept": "Looks can mislead",
@@ -247,7 +247,7 @@
    "status": "defined",
    "context": "This card is about mushrooms and moulds, which people once sorted with plants.",
    "definition": "Fungi, such as mushrooms, moulds and yeast, are a kingdom of their own. They are neither plants nor animals.",
-   "description": "For a long time, people sorted mushrooms with plants, because they grow in soil and do not walk. But a mushroom has no green leaves and cannot make food from sunlight. They feed by soaking up food from the dead wood, leaves or soil around them. They make spores, not seeds. Most of a fungus is a web of thin threads, hidden in the soil or wood. The mushroom is only the part that makes spores. When scientists compared their DNA, they found that fungi are closer relatives of animals than of plants.",
+   "description": "For a long time, people sorted mushrooms with plants, because they grow in soil and do not walk. But a mushroom has no green leaves and cannot make food from sunlight. Fungi feed by soaking up food from the dead wood, leaves or soil around them. Fungi make spores, not seeds. Most of a fungus is a web of thin threads, hidden in the soil or wood. The mushroom is only the part that makes spores. When scientists compared their DNA, they found that fungi are closer relatives of animals than of plants.",
    "examples": [
     "The mushrooms sold in Indian markets, such as button mushrooms and oyster mushrooms, are fungi.",
     "Yeast, which makes dosa batter and bread dough rise, is a fungus made of one cell.",
@@ -311,7 +311,7 @@
    "status": "defined",
    "context": "This card is about one feature that every group of living things shares, whichever way you sort them.",
    "definition": "All living things sense the world around them and respond, from a person to a neem tree to a curd bacterium.",
-   "description": "Whatever rule you use, one feature is in every group. A crow notices a cat and flies off. A tulsi plant senses light and turns their leaves towards it. A mushroom's threads sense food in the soil and grow towards it. A bacterium senses sugar and swims towards it. Each of them senses, remembers and decides in their own way, with their own body. Some scientists call the responses of plants and bacteria automatic. Either way, sensing and responding is something all living things share.",
+   "description": "Whatever rule you use, one feature is in every group. A crow notices a cat and flies off. A tulsi plant senses light and turns their leaves towards it. A mushroom's threads sense food in the soil and grow towards it. A bacterium senses sugar and swims towards the sugar. Each of them senses, remembers and decides in their own way, with their own body. Some scientists call the responses of plants and bacteria automatic. Either way, sensing and responding is something all living things share.",
    "examples": [
     "A touch-me-not plant folds their leaves when touched.",
     "Ants change their path when you put your finger on their trail.",
@@ -542,13 +542,14 @@
     }
    ],
    "rules": [
-    "Shuffle the 20 food cards. Deal 5 to each player. With 2 players, deal 7 each. Put the rest face down as a pile.",
+    "Shuffle the 20 food cards. Deal 5 to each player. With 2 players, deal 7 each. With 4 players, all 20 cards are dealt. Put any cards left over face down as a pile.",
     "Lay the 4 clue cards face up, so everyone can read them.",
     "On your turn, ask one player for a card: 'Do you have a member of the bean family?' You must already hold one card of that family.",
-    "If they have one, they give it to you and you ask again. If not, they say 'Go to the market', and you take a card from the pile.",
+    "If they have one, they give it to you and you ask again. If not, they say 'Go to the market'. You take the top card of the pile if there is one, and your turn ends. If the pile is empty, your turn just ends.",
     "When you hold all five members of a family, lay them down and read the clue card aloud.",
-    "Playing alone: lay all 20 cards face down. Turn over two at a time. Keep them if they are from the same family. Try to clear the table in as few turns as you can.",
-    "The player with the most families when all cards are laid down wins."
+    "If you run out of cards, take 3 from the pile. If the pile is empty, you are out: skip your turns, but keep the families you have laid down.",
+    "Playing alone: lay all 20 cards face down. Turn over two at a time. If both are from the same family, keep them next to that family's clue card. If not, turn them back. Each family has one card left over at the end: put each one with its family. Try to finish in as few turns as you can.",
+    "The game ends when all 20 cards are laid down. The player with the most families wins. If two players tie, they share the win."
    ],
    "flow": [
     {
@@ -574,7 +575,7 @@
        "The gourd family"
       ],
       "a": 1,
-      "why": "A potato is a stem that grows under the ground, so it has no green cap. But the potato plant has flowers and small green fruits that look like tiny tomatoes. That is one clue that the potato plant is in the tomato family. Picking 'grass family' may come from the potato growing in a field, like rice and wheat."
+      "why": "A potato is a stem that grows under the ground, so it has no green cap. But the potato plant has flowers and small green fruits that look like tiny tomatoes, so it is in the tomato family. Picking 'grass family' may come from the potato growing in a field, like rice and wheat. Growing in a field does not make a plant a grass."
      }
     },
     {
@@ -583,7 +584,7 @@
      "do": "Play the game until all the cards are laid down.",
      "say": "Your turn. Who will you ask, and for which family?",
      "kid": "Your turn. Ask someone for a card from a family you are collecting.",
-     "parent": "Each time someone lays down a family, ask them to read the clue card and name one more food from that family. More examples: bajra and bamboo are grasses, rajma and peas are beans, ridge gourd is a gourd."
+     "parent": "Each time someone lays down a family, ask them to read the clue card and name one more food from that family. More examples: bajra and bamboo are grasses; rajma, peas and horse gram (kollu) are beans; ridge gourd and snake gourd are gourds."
     },
     {
      "id": "s4",
@@ -605,7 +606,7 @@
    ],
    "setup": [
     {
-     "art": "Twenty small cards with pictures of foods, spread on a table, with four clue cards above them.",
+     "art": "Twenty small cards with the name of a food on each, spread on a table, with four clue cards above them.",
      "caption": "1. Cut out the cards and lay out the clue cards."
     },
     {
@@ -666,12 +667,12 @@
    ],
    "rules": [
     "Shuffle the cards and put them face down.",
-    "Turn over three cards.",
+    "Turn over three cards. (Six rounds use 18 of the 24 cards.)",
     "Each player says a rule that puts two cards together and leaves one out. For example: crow, bat and cat. 'Has hair' puts the bat and cat together and leaves out the crow.",
-    "The rule must be true and something anyone can check.",
+    "The rule must be true and something anyone can check. If players disagree, check it together. If it is still unclear, it scores nothing.",
     "Score 1 point for a true rule, and 2 points if nobody else gave the same rule.",
     "Playing alone: find as many different true rules as you can for each set of three. Write them down.",
-    "After 6 rounds, the player with the most points wins."
+    "After 6 rounds, the player with the most points wins. If two players tie, they share the win."
    ],
    "flow": [
     {
@@ -685,7 +686,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play the first round with crow, bat and cat.",
+     "do": "Take the crow, bat and cat cards out of the pile and play the first round with them.",
      "say": "Crow, bat and cat. Can you find two different rules?",
      "kid": "Crow, bat and cat. Find two different rules.",
      "check": {
@@ -782,7 +783,7 @@
      "qty": 1
     }
    ],
-   "safety": "A grown-up does all the cutting. Chilli juice burns the eyes, so do not touch your eyes after touching the chilli. Wash your hands with soap after the chilli. Cook and eat the vegetables afterwards, so nothing is wasted.",
+   "safety": "A grown-up does all the cutting. Chilli juice burns the eyes, so do not touch your eyes after touching the chilli. Wash your hands with soap after the chilli.",
    "schedule": [
     {
      "day": 1,
@@ -790,7 +791,7 @@
      "what": "Sort five vegetables by colour. Look at their caps. Cut them open, compare their seeds, and sort them again by caps and seeds."
     }
    ],
-   "record": "Fill in the table. Draw the two sorts as two pairs of circles: the colour sort and the cap-and-seed sort. Write the names in each circle.",
+   "record": "Fill in the table. Draw the two sorts as two sets of circles: the colour sort and the cap-and-seed sort. Write the names in each circle.",
    "flow": [
     {
      "id": "s1",
@@ -884,7 +885,7 @@
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things. What I think. What I saw. Why.",
-     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: colour and seeds make different groups. What I saw: the chilli and the cucumber are both green, but the chilli has a green cap and small round seeds like the tomato and the brinjal. The cucumber has no cap and long seeds. Why: tomato, brinjal and chilli may be relatives. Now explain that they are. Botanists call them the tomato family, and the cucumber is in the gourd family."
+     "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: colour and seeds make different groups. What I saw: the chilli and the cucumber are both green, but the chilli has a green cap and small round seeds like the tomato and the brinjal. The cucumber has no cap and long seeds. Why: tomato, brinjal and chilli may be relatives. Then tell your child that botanists call them the tomato family, and that the cucumber is in the gourd family."
     }
    ],
    "example_chart": {
@@ -989,7 +990,6 @@
      "qty": 1
     }
    ],
-   "safety": "Use only plants you know are food. Wash your hands afterwards.",
    "schedule": [
     {
      "day": 1,
@@ -1014,7 +1014,7 @@
      "do": "1. Cover your child's eyes with the cloth. 2. Hand them one stem at a time, in a mixed-up order. 3. They say 'square' or 'round'. 4. You write it down.",
      "say": "Now I'll cover your eyes, so only your fingers decide. Square or round?",
      "kid": "Close your eyes. Feel each stem. Is it square or round? Say it out loud.",
-     "parent": "Mint and karpooravalli stems are square, like tulsi. Coriander, curry leaf and spinach stems are round. Give each plant twice, in a different order, to be sure."
+     "parent": "Mint and karpooravalli stems are square, like tulsi. Coriander, curry leaf and spinach stems are round. Coriander stems have fine grooves, but they have no four flat sides, so call them round. Give each plant twice, in a different order, to be sure."
     },
     {
      "id": "s3",
@@ -1116,7 +1116,7 @@
    "days": 2,
    "context": "In this experiment you leave a mushroom cap on paper overnight. In the morning you find a print made of its spores, and you compare it with a seed.",
    "question": "A plant makes seeds. Does a mushroom make seeds too, or something else?",
-   "predict": "Guess first. If we leave a mushroom cap face down on paper overnight, will anything come out of it? What will it look like? Why do you think so?",
+   "predict": "Guess first. If we leave a mushroom cap face down on paper overnight, will anything come out onto the paper? What will it look like? Why do you think so?",
    "fair_test": "Use two caps from the same packet. Put one on white paper and one on dark paper, so the print shows up whatever its colour. Cover both with a bowl, so a breeze cannot blow the spores away.",
    "results_table": [
     "Cap",
@@ -1156,16 +1156,16 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 10,
+     "mins": 8,
      "what": "Cut the stalks off two mushroom caps. Put them face down on white and dark paper, and cover them."
     },
     {
      "day": 2,
-     "mins": 10,
+     "mins": 12,
      "what": "Lift the caps and look at the prints. Compare a spore print with a seed."
     }
    ],
-   "record": "Draw the print. Write what colour it is. Draw a moong seed next to it at the right size.",
+   "record": "Draw the print. Write the colour of the print. Draw a moong seed beside the print at the right size.",
    "flow": [
     {
      "id": "s1",
@@ -1174,7 +1174,7 @@
      "say": "Look under the cap. These thin flaps are called gills. If we leave the cap on paper overnight, will anything come out? Why do you think so?",
      "kid": "Look under the mushroom cap. The thin flaps are called gills. Guess. Will anything come out overnight? Say why.",
      "parent": "Button mushrooms that are still closed underneath may not give a print. Choose ones where the cap has opened and the gills show. Older brown gills work best. Oyster mushrooms also work well.",
-     "context": "This is the first step of the mushroom print test. Here you look under a mushroom cap and guess what it will leave on paper."
+     "context": "This is the first step of the mushroom print test. Here you look under a mushroom cap and guess what will be left on the paper."
     },
     {
      "id": "s2",
@@ -1202,7 +1202,7 @@
       "a": 1,
       "why": "The powder is spores. Each one is a single cell, far too small to see alone. Millions together make the print, in the same pattern as the gills. Picking 'seeds' is a fair guess, because seeds start new plants. But a seed is much bigger and holds a tiny baby plant with a food store. A spore is just one cell."
      },
-     "parent": "Button mushrooms usually give a dark brown print, easier to see on white paper. Oyster mushrooms give a pale print, easier to see on dark paper. If there is no print, the gills were still closed. Try again with a more open cap."
+     "parent": "Button mushrooms usually give a dark brown print, easier to see on white paper. Oyster mushrooms give a pale print, easier to see on dark paper. If there is no print, the gills were still closed. Write 'no print' in your table: that is an honest result. Try again with a more open cap."
     },
     {
      "id": "s4",
@@ -1263,7 +1263,7 @@
      "caption": "2. Put the caps face down and cover them overnight."
     },
     {
-     "art": "A brown star-shaped spore print on white paper, with a single moong seed beside it for size.",
+     "art": "A brown star-shaped spore print on white paper, with a single moong seed for size.",
      "caption": "3. Lift the caps and compare the print with a seed."
     }
    ]
@@ -1290,7 +1290,6 @@
      "qty": 1
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -1377,7 +1376,6 @@
      "qty": 3
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -1398,7 +1396,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Sort the names into 'taller than 120 cm' and 'not taller'. 2. Sort them into 'right hand' and 'left hand'. 3. Sort them into 'born January to June' and 'born July to December'.",
+     "do": "1. Sort the names into 'taller than your child' and 'not taller'. 2. Sort them into 'right hand' and 'left hand'. 3. Sort them into 'born January to June' and 'born July to December'.",
      "say": "Now sort everyone three times. By height, by writing hand, then by birth month. Write the groups each time.",
      "kid": "Sort the people three times. By height. By writing hand. By birth month. Write down the groups.",
      "ask": [
@@ -1406,10 +1404,11 @@
        "q": "Were the same people together every time?",
        "good": [
         "No, the groups changed.",
-        "Amma and I were together for birth month, but not for height."
+        "Two people who were together for birth month were in different groups for height."
        ]
       }
-     ]
+     ],
+     "parent": "If everyone writes with the same hand, that sort makes just one group. That is a result too."
     },
     {
      "id": "s3",
@@ -1432,7 +1431,7 @@
    ],
    "setup": [
     {
-     "art": "A child measuring a grandmother's height against a wall with a measuring tape.",
+     "art": "A child measuring a relative's height against a wall with a measuring tape.",
      "caption": "1. Measure everyone and fill in the table."
     },
     {
@@ -1453,7 +1452,6 @@
      "qty": 4
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -1518,7 +1516,7 @@
      "qty": 1
     }
    ],
-   "safety": "Money plant leaves are not food. Do not eat them, and wash your hands after touching them.",
+   "safety": "Money plant leaves are not food: they can upset the stomach and irritate the skin. Do not eat them, and wash your hands after touching them.",
    "schedule": [
     {
      "day": 1,
@@ -1540,7 +1538,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Draw the key as a branching chart. 2. Hide one leaf from a family member's view, then give it to them with the key.",
+     "do": "1. Draw the key as a branching chart. 2. Give someone else one leaf, without telling them its name, along with the key.",
      "say": "Now let's test your key. Can someone else name this leaf using only your questions?",
      "kid": "Draw your key. Give someone a leaf and your key. Can they find the name?"
     },
@@ -1586,11 +1584,10 @@
      "qty": 1
     },
     {
-     "item": "a few things from the kitchen: rice, moong, a tomato, a chilli, a cucumber, tulsi or mint",
-     "qty": 6
+     "item": "a few things from the kitchen: rice, moong, a tomato, a chilli, a cucumber",
+     "qty": 5
     }
    ],
-   "safety": "None.",
    "schedule": [
     {
      "day": 1,
@@ -1614,7 +1611,7 @@
      "do": "Help your child draw each kitchen plant on the right branch.",
      "say": "Rice, wheat and ragi go on the grass branch. Moong, chana and peanut go on the bean branch. Where do tomato and chilli go? And cucumber?",
      "kid": "Draw each food on its family's branch. Rice on the grass branch. Moong on the bean branch. Where does the tomato go?",
-     "parent": "Grass family: rice, wheat, ragi, maize, sugarcane. Bean family: moong, chana, rajma, peanut, toor dal, methi. Tomato family: tomato, brinjal, chilli, capsicum, potato. Gourd family: cucumber, pumpkin, bottle gourd, bitter gourd, watermelon. Mint and tulsi need a fifth branch."
+     "parent": "Grass family: rice, wheat, ragi, maize, sugarcane. Bean family: moong, chana, rajma, horse gram (kollu), peanut, toor dal, methi. Tomato family: tomato, brinjal, chilli, capsicum, potato. Gourd family: cucumber, pumpkin, bottle gourd, bitter gourd, watermelon. Mint and tulsi need a fifth branch."
     },
     {
      "id": "s3",
@@ -1632,7 +1629,7 @@
     },
     {
      "art": "The finished tree with small drawings of rice, moong, tomato, chilli, cucumber and pumpkin on their branches.",
-     "caption": "2. Put each kitchen plant on their family's branch."
+     "caption": "2. Put each kitchen plant on the right family's branch."
     }
    ]
   },
@@ -1641,7 +1638,7 @@
    "title": "Window Count: sort what you see",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you watch from a window or balcony for 10 minutes, list every living thing you see, and sort the list two ways.",
+   "context": "In this activity you watch from a window or balcony for 8 minutes, list every living thing you see, and sort the list two ways.",
    "materials": [
     {
      "item": "a window or balcony",
@@ -1657,7 +1654,7 @@
     {
      "day": 1,
      "mins": 12,
-     "what": "List every living thing you see from a window in 10 minutes. Sort the list two ways."
+     "what": "List every living thing you see from a window in 8 minutes. Sort the list two ways."
     }
    ],
    "record": "Write the list, and draw the two sorts as circles.",
@@ -1732,9 +1729,9 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "1. Make the book. 2. Walk around the home together. 3. For each living thing, draw them on their own page and write their name.",
+     "do": "1. Make the book. 2. Walk around the home together. 3. For each living thing, draw one page and write the name.",
      "say": "Let's find every living thing in our home. People count. Plants count. Even the curd counts, because it is full of living bacteria.",
-     "kid": "Find every living thing at home. Draw each one on their own page. Write its name.",
+     "kid": "Find every living thing at home. Draw one on each page. Write the name on the page.",
      "context": "This is the first day of the living things book. You find and draw everything alive in your home."
     },
     {
@@ -1757,7 +1754,7 @@
        "q": "Which living thing was the hardest to sort? Why?",
        "good": [
         "The curd, because the bacteria are too small to see.",
-        "The mushroom, because they are not a plant or an animal."
+        "A mushroom or a mould, because neither is a plant or an animal."
        ]
       }
      ]
@@ -1797,9 +1794,9 @@
     "For the shopkeeper: sort by which spoil fastest, so they are sold first."
    ],
    "creative": [
-    "For the cook: sort by which dish they go into, such as sambar, salad or poriyal.",
+    "For the cook: sort by which dish they go into, such as sambar, a salad or a bhaji.",
     "For the farmer: sort by which part of the plant we eat: root, stem, fruit or seed.",
-    "For a child: sort by which ones you like and which you are still learning to like."
+    "For a painter: sort by colour, to make a palette."
    ],
    "your_turn": "Now think of a fourth person who needs these vegetables, and make the best sort for them. Who is it, and what is your rule?",
    "flow": [
@@ -1852,8 +1849,8 @@
    "id": "c2",
    "title": "A Terrace Garden Plan That Stops the Wilt",
    "mins": 25,
-   "context": "In this challenge you plan a garden of four grow bags for three seasons, so that no bag grows the same plant family twice in a row. Farmers call this crop rotation.",
-   "problem": "Kavya has four grow bags. She wants to grow tomato, brinjal, chilli, cucumber, bottle gourd, beans and peas over three seasons. A soil sickness attacks the tomato family. Plan which plant goes in each bag each season, so no bag grows the tomato family twice in a row.",
+   "context": "In this challenge you plan a garden of four grow bags for three seasons, so that no bag grows the same plant family twice in a row. Farmers call this crop rotation. The garden belongs to Kavya, the girl in the story The Terrace Garden Sickness.",
+   "problem": "Kavya, the girl in the story, has four grow bags. She wants to grow tomato, brinjal, chilli, cucumber, bottle gourd, beans and peas over three seasons. A soil sickness attacks the tomato family. Plan which plant goes in each bag each season, so no bag grows the tomato family twice in a row.",
    "constraints": [
     "Four bags, three seasons.",
     "No bag may grow the same family two seasons in a row.",
@@ -1862,7 +1859,7 @@
    "materials": [
     "paper with a table of 4 rows (bags) and 3 columns (seasons)",
     "a pencil",
-    "the family list from the Kitchen Family Tree"
+    "the plants and families you write down in step 1"
    ],
    "general": [
     "Write the family next to each plant first: tomato, brinjal and chilli in the tomato family, cucumber and bottle gourd in the gourd family, beans and peas in the bean family.",
@@ -1899,7 +1896,7 @@
      "kid": "Check each bag. Did any bag grow the same family twice in a row?",
      "check": {
       "t": "mcq",
-      "q": "Bag 1 grew tomatoes last season. Which plant should Kavya not put in it this season?",
+      "q": "Bag 1 grew tomatoes last season. Which plant should Kavya not put in this bag now?",
       "options": [
        "Cucumber",
        "Brinjal",
@@ -1951,7 +1948,7 @@
  "quiz": [
   {
    "t": "mcq",
-   "p": "Meena sorts animals by 'can fly'. Ravi sorts the same animals by 'has hair'. Who is right?",
+   "p": "Meena, a girl in Class 3, sorts animals by 'can fly'. Her friend Ravi sorts the same animals by 'has hair'. Who is right?",
    "opts": [
     "Only Meena",
     "Only Ravi",
@@ -1964,16 +1961,17 @@
   },
   {
    "t": "mcq",
-   "p": "Which is the best sorting question?",
+   "p": "Ananya, a girl in Class 3, uses a key to name a leaf. What does she do at each question in the key?",
    "opts": [
-    "Is it beautiful?",
-    "Does it have a backbone?",
-    "Is it nice?",
-    "Do I like it?"
+    "Answers yes or no, then follows the arrow",
+    "Picks the leaf she likes best",
+    "Guesses the name at once",
+    "Counts the veins"
    ],
-   "a": 1,
-   "why": "Anyone can check for a backbone and get the same answer. The others depend on who you ask.",
-   "outcome": 5
+   "a": 0,
+   "why": "Each question in a key has a yes or no answer, and each answer leads to the next question or to a name. Following the arrows gives everyone the same name.",
+   "outcome": 5,
+   "how": "a4"
   },
   {
    "t": "mcq",
@@ -2106,19 +2104,6 @@
    "a": 1,
    "why": "Two kingdoms in 1735, five in 1969, three domains in 1990, and the argument goes on.",
    "outcome": 6
-  },
-  {
-   "t": "mcq",
-   "p": "Lakshmi sorts her family by height, then by writing hand. The groups change. Why?",
-   "opts": [
-    "The people changed",
-    "Each question makes different groups",
-    "She made a mistake"
-   ],
-   "a": 1,
-   "why": "The people stayed the same. Each rule asks a different question, so the groups are different.",
-   "outcome": 0,
-   "how": "a2"
   }
  ],
  "worksheets": [
@@ -2130,7 +2115,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Meena sorts a crow, a pigeon and a bat into 'can fly'. Which rule would put the bat in a different group from the birds?",
+     "p": "Nandini, a girl in Class 3, sorts a crow, a pigeon and a bat into 'can fly'. Which rule would put the bat in a different group from the birds?",
      "opts": [
       "Lives in the city",
       "Has hair",
@@ -2142,16 +2127,22 @@
      "art": "A crow, a pigeon and a bat flying past a city building."
     },
     {
-     "t": "mcq",
-     "p": "Which of these is a good sorting question that anyone can check?",
-     "opts": [
-      "Is this one cute?",
-      "Does this one have six legs?",
-      "Is this one my favourite?",
-      "Is this a good animal?"
+     "t": "perspective",
+     "p": "Divya and Joseph both have a green chilli. They disagree about where it belongs.",
+     "views": [
+      {
+       "who": "Divya, who is making a salad",
+       "says": "The green chilli goes with the cucumber and the capsicum. They are all green, and I want a green salad box."
+      },
+      {
+       "who": "Joseph, who is growing a garden",
+       "says": "The green chilli goes with the tomato and the brinjal. They have the same green cap and the same small, flat, round seeds, so they are relatives."
+      }
      ],
-     "a": 1,
-     "why": "Anyone can count legs and get the same answer. Cute, favourite and good change from person to person."
+     "ask": "Which idea do you agree with most? Give a reason from the vegetable test. Then say one thing the other person has right.",
+     "lines": 5,
+     "a": "A strong answer says both sorts are right for their own job. Colour suits a salad. Caps and seeds show relatives, which matters for a garden because relatives get the same diseases.",
+     "why": "A sort is right for a job. Only the family sort tells you who is related."
     },
     {
      "t": "truefalse",
@@ -2204,7 +2195,7 @@
     },
     {
      "t": "mcq",
-     "p": "Arjun cuts open a tomato, a brinjal and a cucumber. Which one has seeds that look different from the others?",
+     "p": "Arjun, a boy in Class 3, cuts open a tomato, a brinjal and a cucumber. Which one has seeds that look different from the others?",
      "opts": [
       "Tomato",
       "Brinjal",
@@ -2236,10 +2227,10 @@
      "how": "e2"
     },
     {
-     "t": "truefalse",
-     "p": "People are animals.",
-     "a": true,
-     "why": "True. People breathe, eat, grow and move, have backbones and hair, and mothers make milk for babies. People are mammals and primates."
+     "t": "write",
+     "p": "A friend says, 'People are not animals.' What would you tell your friend? Use two things you know about your own body.",
+     "a": "People are animals. We breathe, eat, grow and move. We have a backbone and hair, and a mother feeds her baby milk. So people are mammals and primates.",
+     "why": "People share the features of animals, so every scientific sort puts people with the other animals."
     },
     {
      "t": "order",
@@ -2332,28 +2323,58 @@
    "mins": 25,
    "items": [
     {
-     "t": "mcq",
-     "p": "Kavya's tomato plants died of a soil sickness. Which plant should she NOT plant in the same soil next?",
-     "opts": [
-      "Cucumber",
-      "Beans",
-      "Brinjal",
-      "Bottle gourd"
+     "t": "perspective",
+     "p": "A dolphin lives in the sea and swims with fins. Is a dolphin a fish?",
+     "views": [
+      {
+       "who": "Selvi, a fisherwoman in Rameswaram",
+       "says": "A dolphin swims in the sea with the fish I catch. For my work, I sort by what lives in the water."
+      },
+      {
+       "who": "Ananya, a girl who reads about animals",
+       "says": "A dolphin breathes air with lungs, and a mother dolphin feeds her baby milk. Fish breathe with gills. So a dolphin is a mammal."
+      }
      ],
-     "a": 2,
-     "why": "Brinjal is in the tomato family, so the same sickness can attack it. The others are from different families."
+     "ask": "Which idea do you agree with most? Give a reason from this unit. Then say one fair point from the other side.",
+     "lines": 5,
+     "a": "A strong answer sees that both sorts have a job. Selvi's sort helps her work at sea. But for finding relatives, the dolphin is a mammal, because she breathes air and feeds her baby milk, like a cow or a bat.",
+     "why": "Many sorts are right for their jobs, but only one answers who is related."
     },
     {
-     "t": "mcq",
-     "p": "A crow, a bat and a butterfly all have wings. What does this show?",
-     "opts": [
-      "They are close relatives",
-      "Different families can solve the same problem in a similar way",
-      "Wings are made of feathers",
-      "All flying things are birds"
+     "t": "sort",
+     "p": "Sort these animals: is each one a mammal?",
+     "cats": [
+      "Mammal",
+      "Not a mammal"
      ],
-     "a": 1,
-     "why": "Their wings are built differently: feathers on an arm, skin on long fingers, and a thin sheet with no bones. Each grew separately."
+     "items": [
+      [
+       "cat",
+       "Mammal"
+      ],
+      [
+       "bat",
+       "Mammal"
+      ],
+      [
+       "dolphin",
+       "Mammal"
+      ],
+      [
+       "crow",
+       "Not a mammal"
+      ],
+      [
+       "butterfly",
+       "Not a mammal"
+      ],
+      [
+       "fish",
+       "Not a mammal"
+      ]
+     ],
+     "a": "see items",
+     "why": "Cats, bats and dolphins have hair or fur at some stage and feed their babies milk. Crows are birds, butterflies are insects and fish breathe with gills."
     },
     {
      "t": "truefalse",
@@ -2363,16 +2384,28 @@
      "how": "e2"
     },
     {
-     "t": "mcq",
-     "p": "A dolphin lives in the sea and has fins. Why is a dolphin a mammal, not a fish?",
-     "opts": [
-      "They are big",
-      "They breathe air and feed their babies milk",
-      "They are clever",
-      "They swim fast"
+     "t": "match",
+     "p": "Match each clue to the plant family that the clue points to.",
+     "pairs": [
+      [
+       "Square stem",
+       "mint family"
+      ],
+      [
+       "Green cap on the fruit",
+       "tomato family"
+      ],
+      [
+       "Seeds in a row inside a pod",
+       "bean family"
+      ],
+      [
+       "Long, narrow leaves with veins side by side",
+       "grass family"
+      ]
      ],
-     "a": 1,
-     "why": "Mammals breathe air with lungs and feed their babies milk. Dolphins do both. Fish breathe with gills."
+     "a": "pairs as given",
+     "why": "Each family has clues you can see: tulsi and mint have square stems, tomato-family fruits keep a green cap, beans grow in pods, and grasses have long narrow leaves."
     },
     {
      "t": "mcq",
@@ -2506,7 +2539,7 @@
     },
     {
      "t": "mcq",
-     "p": "Lakshmi sorts 4 friends by height and then by birth month. Ravi was with her in the height sort but not in the birth month sort. Did Ravi change?",
+     "p": "Lakshmi, a girl in Class 3, sorts 4 friends by height and then by birth month. Her friend Ravi was with her in the height sort but not in the birth month sort. Did Ravi change?",
      "opts": [
       "Yes, he grew",
       "No, only the question changed",
@@ -2559,13 +2592,13 @@
       "Because it is older"
      ],
      "a": 0,
-     "why": "When two separate kinds of clues point to the same family tree, it is very unlikely to be a coincidence."
+     "why": "When two separate kinds of clues point to the same family tree, a coincidence is very unlikely."
     },
     {
      "t": "write",
-     "p": "Is 'has wings' a good rule for finding relatives? Give a reason.",
-     "a": "No. Crows, bats and butterflies have wings, but they are in different families. Their wings are built differently and grew separately.",
-     "why": "Features that do the same job can grow separately in different families."
+     "p": "A kitchen shelf has twenty jars. Describe two different ways to sort them, and say what job each sort is good for.",
+     "a": "For example: sort by size, so tall jars do not fall; or sort by use, so the jars for sambar stand together. Each sort has a clear rule that anyone can check, and each suits a job.",
+     "why": "Any clear rule makes a good sort, and the best sort depends on the job."
     },
     {
      "t": "write",
@@ -2622,11 +2655,16 @@
      "why": "If everyone can check the answer by looking, everyone who uses the key reaches the same name."
     },
     {
-     "t": "write",
-     "p": "Make up a yes-or-no question that splits these four into two pairs: tulsi, mint, coriander, curry leaf.",
-     "a": "'Is the stem square?' Tulsi and mint: yes. Coriander and curry leaf: no.",
-     "why": "The square stem is a family clue for the mint family.",
-     "how": "e2"
+     "t": "mcq",
+     "p": "About two million kinds of living things have names. One estimate says there may be about 8.7 million kinds of plants, animals and fungi. What does this show?",
+     "opts": [
+      "Scientists have named nearly all living things",
+      "Many kinds of living things have not been named yet",
+      "The estimate must be wrong",
+      "Nobody can count anything"
+     ],
+     "a": 1,
+     "why": "Two million is far fewer than 8.7 million, so many kinds are still unnamed. Nobody knows the true number."
     },
     {
      "t": "truefalse",
@@ -2635,7 +2673,7 @@
      "why": "True. A crow notices a cat, a plant senses light, and a bacterium senses sugar. Each responds in their own way."
     },
     {
-     "t": "write",
+     "t": "draw",
      "p": "A mushroom is closer to you than to a tulsi plant. Name one way you and a mushroom are alike that a tulsi plant is not.",
      "a": "Neither of us can make food from sunlight. We both get food from other living things.",
      "why": "Plants make their own food. Fungi and animals take food from around them."
@@ -2674,6 +2712,10 @@
    "art": "A tulsi plant in a clay pot on a balcony."
   },
   {
+   "text": "Bamboo clumps in Assam or Kerala. Bamboo is a giant grass, like rice and sugarcane.",
+   "art": "A tall clump of green bamboo beside a road in Assam."
+  },
+  {
    "text": "Bonnet macaques near temples in South India: primates, like you.",
    "art": "A bonnet macaque sitting on a temple wall in Tamil Nadu."
   },
@@ -2686,11 +2728,11 @@
    "art": "A box of button mushrooms on a supermarket shelf beside vegetables."
   },
   {
-   "text": "A dal shelf in the kitchen: moong, chana, toor and rajma, all from the bean family.",
+   "text": "A dal shelf in the kitchen: moong, chana, toor, urad and rajma, all from the bean family.",
    "art": "A row of steel dabbas of different dals on a kitchen shelf."
   },
   {
-   "text": "Paddy fields seen from a train in Thanjavur or Kerala. Rice is a grass, like the lawn.",
+   "text": "Paddy fields seen from a train in Thanjavur, Kerala or Odisha. Rice is a grass, like the lawn.",
    "art": "Bright green paddy fields seen through a train window."
   }
  ],
@@ -2725,13 +2767,13 @@
   "Is the tulsi stem square? Feel it next time you water it.",
   "What sort does the vegetable seller use for her baskets? Why?",
   "If you were a mushroom, would you rather be called a plant or an animal?",
-  "What is one way you and Amma are similar, and one way you are different?",
+  "What is one way you and someone you live with are similar, and one way you are different?",
   "Rice and sugarcane are both grasses. What else do they share?"
  ],
  "jokes": [
   {
    "j": "Why did the tomato go to the family reunion?",
-   "a": "To see its brinjal cousins."
+   "a": "To meet his brinjal cousins."
   },
   {
    "j": "What did the chilli say to the cucumber?",
@@ -2743,68 +2785,36 @@
   },
   {
    "j": "Why did the bat refuse to sit with the birds?",
-   "a": "They said, 'I'm a mammal, thank you very much.'"
+   "a": "He said, 'I'm a mammal, thank you very much.'"
   },
   {
    "j": "What do you call a sorted pile of socks?",
    "a": "A miracle."
   },
   {
-   "j": "Why was the key always calm?",
-   "a": "It took every question one step at a time."
-  },
-  {
-   "j": "Which plant is best at maths?",
-   "a": "The square-stemmed mint. It knows all its corners."
-  },
-  {
    "j": "Why did the potato hide underground?",
-   "a": "It didn't want anyone to see it wasn't wearing a green cap."
-  },
-  {
-   "j": "What did the sugarcane say to the lawn?",
-   "a": "Hello, little cousin!"
+   "a": "He didn't want anyone to see he wasn't wearing a green cap."
   },
   {
    "j": "Why do cats and tigers never argue about family?",
    "a": "Because they're purr-fectly related."
   },
   {
-   "j": "Why did the peanut join the bean family?",
-   "a": "It was in the pod from the start."
+   "j": "What did the liger say when asked if they were a lion or a tiger?",
+   "a": "Yes."
   },
   {
-   "j": "What did the archaea say to the bacteria?",
-   "a": "We look alike, but deep inside we're very different."
-  },
-  {
-   "j": "Why did the butterfly feel left out?",
-   "a": "Everyone else at the odd-one-out game had a backbone."
-  },
-  {
-   "j": "What did one gourd say to the other?",
-   "a": "Let's hang out on the vine."
-  },
-  {
-   "j": "How does a monkey sort their bananas?",
+   "j": "How does a monkey sort her bananas?",
    "a": "Ripe, almost ripe, and already eaten."
   },
   {
    "j": "Why did the curry leaf fail the square stem test?",
    "a": "It was too well-rounded."
-  },
-  {
-   "j": "Why did the spore never get lost?",
-   "a": "It always left a print."
-  },
-  {
-   "j": "What did the liger say when asked if they were a lion or a tiger?",
-   "a": "Yes."
   }
  ],
  "maths": [
   {
-   "problem": "In the vegetable test, Kavya looked at 5 seeds from each of 5 vegetables. How many seeds did she look at altogether?",
+   "problem": "In the vegetable test, a child looked at 5 seeds from each of 5 vegetables. How many seeds did the child look at altogether?",
    "answer": "25 seeds.",
    "explain": "There were 5 vegetables, with 5 seeds each. 5 groups of 5 is 25. You can count in fives: 5, 10, 15, 20, 25.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -2813,7 +2823,7 @@
    "why_maths": "Counting in equal groups tells you quickly how many seeds you need to lay out and look at."
   },
   {
-   "problem": "Arjun has 12 living-thing cards. 7 can fly and 6 have hair. Only the bat card is in both groups. How many cards are in neither group?",
+   "problem": "Arjun, a boy in Class 3, has 12 living-thing cards. 7 can fly and 6 have hair. Only the bat card is in both groups. How many cards are in neither group?",
    "answer": "0 cards.",
    "explain": "7 can fly and 6 have hair, which makes 13. But the bat was counted twice, so there are 13 - 1 = 12 different cards in the circles. All 12 cards are in at least one group, so 12 - 12 = 0 are in neither.",
    "math_unit": "math.logic.sets-and-venn.L2",
@@ -2844,7 +2854,7 @@
    "why_maths": "A Venn diagram stops you counting a living thing twice when they belong to two groups."
   },
   {
-   "problem": "In the people table, 6 people were measured. 4 were taller than 120 cm. 5 wrote with their right hand. What is the smallest number of people who could be both taller than 120 cm and right-handed?",
+   "problem": "In the people table, 6 people were measured. 4 were taller than the child who measured them. 5 wrote with their right hand. What is the smallest number of people who could be both taller than 120 cm and right-handed?",
    "answer": "3 people.",
    "explain": "There are 6 people. 4 are tall and 5 are right-handed, which makes 9. 9 is 3 more than 6. So at least 3 people must be in both groups.",
    "math_unit": "math.logic.sets-and-venn.L2",
@@ -2853,7 +2863,7 @@
    "why_maths": "Reasoning with the numbers tells you something about the groups even before you look at the names."
   },
   {
-   "problem": "Kavya has 4 grow bags. Each season, the tomato family moves one bag along. In season 1 it is in bag 1. Which bag is it in for season 4?",
+   "problem": "Kavya, the girl in the story, has 4 grow bags. Each season, the tomato family moves one bag along. In season 1 it is in bag 1. Which bag is it in for season 4?",
    "answer": "Bag 4.",
    "explain": "Season 1: bag 1. Season 2: bag 2. Season 3: bag 3. Season 4: bag 4. In season 5 it would go back to bag 1, like a circle.",
    "math_unit": "math.patterns.repeating-patterns.L2",
@@ -2862,7 +2872,7 @@
    "why_maths": "Spotting the repeating pattern lets you plan many seasons ahead without writing each one."
   },
   {
-   "problem": "Each round of Make a Group, Meena finds 3 true rules and Ravi finds 2. After 6 rounds, how many more rules has Meena found than Ravi?",
+   "problem": "Meena and her cousin Ravi play Make a Group. Each round, Meena finds 3 true rules and Ravi finds 2. After 6 rounds, how many more rules has Meena found than Ravi?",
    "answer": "6 more rules.",
    "explain": "Meena finds 1 more rule than Ravi each round. Over 6 rounds that is 6 × 1 = 6 more. Check: Meena 3 × 6 = 18, Ravi 2 × 6 = 12, and 18 - 12 = 6.",
    "math_unit": "math.multiplication.equal-groups.L3",
@@ -2963,8 +2973,7 @@
    "used_in": [
     "e1",
     "e3"
-   ],
-   "plan": "Used again in Plant Parts L3 and Animals Around Us L3."
+   ]
   }
  ],
  "warmup": [
@@ -3097,7 +3106,7 @@
    "what_is_life": "Every living thing came from parents, and they came from theirs. So all of life is one family tree.",
    "what_is_this_world": "The world is full of relatives. A neem tree, a crow, a mushroom and you share ancestors, very long ago."
   },
-  "thread": "Long ago there were only single cells. Over billions of years, their young changed a little in each generation, and the branches split again and again. Today there are millions of kinds of living things, from bacteria to banyan trees. When we sort by shared features, we trace those branches back towards where they join. One beginning became many kinds, and each kind still carries clues to where it came from.",
+  "thread": "Long ago there were only single cells. Over billions of years, their young changed a little in each generation, and the branches split again and again. Today there are millions of kinds of living things, from bacteria to banyan trees. When we sort by shared features, we trace those branches back towards where they join. The clues are in the bodies of living things today.",
   "teachings": [
    {
     "source": "Purananuru 192, a Tamil Sangam poem by Kaniyan Pungundranar",
@@ -3107,7 +3116,7 @@
    {
     "source": "Maha Upanishad 6.71 to 6.72 (the verse is also in the Hitopadesha)",
     "teaching": "'This one is mine, that one is a stranger.' So people with small hearts count. For those with generous hearts, the whole world is one family: vasudhaiva kutumbakam.",
-    "link": "We can sort the world into 'mine' and 'not mine' in many ways. The family tree of life is one sort nobody chose, and it puts everything in one family."
+    "link": "We can sort the world into 'mine' and 'not mine' in many ways. The family tree of life is one sort nobody chose, and that sort puts everything in one family."
    },
    {
     "source": "Charles Darwin, On the Origin of Species (1859), end of chapter 4",
@@ -3146,9 +3155,9 @@
   ],
   "art": "A huge branching tree drawn on a classroom wall, with a child on one twig, a crow, a tulsi plant, a mushroom and a tomato on other twigs, all branches joining one trunk."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. Changes made: the vegetable test uses only vegetables most Indian kitchens have, with a pumpkin or bottle gourd slice if capsicum is missing, and they are cooked afterwards. A grown-up does all the cutting, and the chilli is cut last because its juice burns the eyes. The seeds are looked at five at a time on white paper, so the difference between the small round tomato-family seeds and the oval gourd seeds is easy to see. A tender cucumber still shows its soft white oval seeds. The square stem test is done with eyes closed, so the child judges by feel. Coriander and curry leaves smell strong but have round stems, which is a good lesson that one clue can mislead. Closed button mushrooms often give no spore print, so the step asks for open caps and gives what to do if nothing appears. The people table works with 3 people or with relatives on a video call. Both games work for one child alone. The spine fits about 85 minutes.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. The vegetable test uses only vegetables most Indian kitchens have, with a pumpkin or bottle gourd slice if capsicum is missing. A grown-up does all the cutting, and the chilli is cut last because its juice burns the eyes. The square stem test is done with eyes closed, so the child judges by feel. Closed button mushrooms often give no spore print, so the step asks for open caps and says to write 'no print' honestly if nothing appears. Kitchen Families works for 2, 3 or 4 players, and also alone. The window count is 8 minutes in every place it is mentioned.",
  "how_we_found_out": {
-  "story": "For most of the 1900s, scientists sorted every living thing into two groups. Some had cells with a nucleus, a small packet that holds the cell's DNA. Animals, plants and fungi were in this group. The rest had no nucleus, and they were all called bacteria. Carl Woese, an American scientist, wanted a better clue to who is related to whom. Every cell has a molecule called ribosomal RNA, which they use to build proteins. Woese compared this molecule in many tiny living things. In 1977, he and George Fox found that some 'bacteria' that make methane gas were as different from other bacteria as bacteria are from us. They called them archaebacteria. Later Woese renamed them archaea, and in 1990 he proposed three domains of life. Many biologists did not accept it at first. The famous biologist Ernst Mayr was still arguing against it in 1998. But studies of many more archaea agreed with Woese. Today they live in textbooks, and in the mud of rice fields and in our own guts.",
+  "story": "For most of the 1900s, scientists sorted every living thing into two groups. Some had cells with a nucleus, a small packet that holds the cell's DNA. Animals, plants and fungi were in this group. The rest had no nucleus, and they were all called bacteria. Carl Woese, an American scientist, wanted a better clue to who is related to whom. Every cell has a molecule called ribosomal RNA, which they use to build proteins. Woese compared this molecule in many tiny living things. In 1977, he and George Fox found that some 'bacteria' that make methane gas were as different from other bacteria as bacteria are from us. They called them archaebacteria. Later Woese renamed them archaea, and in 1990 he proposed three domains of life. Many biologists did not accept it at first. The famous biologist Ernst Mayr was still arguing against it in 1998. But studies of many more archaea agreed with Woese. Today archaea are in every textbook, and they are known to live in the mud of rice fields and in our own guts.",
   "who": "Carl Woese, an American microbiologist, with George Fox, and later Otto Kandler and Mark Wheelis",
   "when": "1977 (archaea found) and 1990 (three domains proposed)",
   "wrong_idea": "That every living thing without a nucleus is a kind of bacteria. By comparing ribosomal RNA, Woese and Fox showed that archaea are as different from bacteria as bacteria are from animals and plants.",

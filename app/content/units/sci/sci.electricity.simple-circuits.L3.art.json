@@ -1,4 +1,40 @@
 {
+ "setup.e1.0": {
+  "src": "media/img/sci.electricity.simple-circuits.L3/setup.e1.0.jpg",
+  "drawn": true
+ },
+ "setup.e1.1": {
+  "src": "media/img/sci.electricity.simple-circuits.L3/setup.e1.1.jpg",
+  "drawn": true
+ },
+ "setup.e1.2": {
+  "src": "media/img/sci.electricity.simple-circuits.L3/setup.e1.2.jpg",
+  "drawn": true
+ },
+ "setup.e2.0": {
+  "src": "media/img/sci.electricity.simple-circuits.L3/setup.e2.0.jpg",
+  "drawn": true
+ },
+ "setup.e2.1": {
+  "src": "media/img/sci.electricity.simple-circuits.L3/setup.e2.1.jpg",
+  "drawn": true
+ },
+ "setup.e2.2": {
+  "src": "media/img/sci.electricity.simple-circuits.L3/setup.e2.2.jpg",
+  "drawn": true
+ },
+ "setup.e3.0": {
+  "src": "media/img/sci.electricity.simple-circuits.L3/setup.e3.0.jpg",
+  "drawn": true
+ },
+ "setup.e3.1": {
+  "src": "media/img/sci.electricity.simple-circuits.L3/setup.e3.1.jpg",
+  "drawn": true
+ },
+ "setup.e3.2": {
+  "src": "media/img/sci.electricity.simple-circuits.L3/setup.e3.2.jpg",
+  "drawn": true
+ },
  "term.1": {
   "src": "media/img/sci.electricity.simple-circuits.L3/term.1.jpg",
   "credit": "Joost J. Bakker IJmuiden, CC BY 2.0, via Wikimedia Commons"

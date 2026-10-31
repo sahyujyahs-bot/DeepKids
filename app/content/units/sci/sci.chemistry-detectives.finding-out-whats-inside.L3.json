@@ -48,7 +48,7 @@
   {
    "term": "Dissolve",
    "meaning": "When a substance dissolves, it breaks up into pieces too small to see and spreads all through a liquid.",
-   "example": "Sugar dissolves in tea. The dyes in a sketch pen dissolve in water.",
+   "example": "Sugar dissolves in a cup of Assam tea. The dyes in a sketch pen dissolve in water.",
    "art": "A spoon of sugar disappearing as it is stirred into a tumbler of tea."
   },
   {
@@ -368,13 +368,24 @@
    "printables": [
     {
      "kind": "board",
-     "title": "A path of 15 squares, from the lab door to the answer",
+     "title": "A path of 16 squares, numbered 0 to 15, from the lab door to the answer",
      "items": [
-      "Square 0: Lab door, the start",
-      "Squares 3 and 10: SPILLED WATER. Your dot got wet. Go back 2 squares.",
-      "Squares 6 and 12: FAIR TEST. Say one thing you keep the same in the Which Pen test, then move on 1 square.",
-      "Square 8: FLAME FLASH. Name one element and its flame colour, then move on 2 squares.",
-      "Square 15: Answer found, the finish"
+      "Square 0: Lab door, the start. Everyone's counter begins here.",
+      "Square 1: Lab bench. Rest here. Nothing happens.",
+      "Square 2: CLEAN STRIP. Your strip is neat and dry. Move on 1 square.",
+      "Square 3: SPILLED WATER. Your dot got wet. Go back 2 squares.",
+      "Square 4: Lab bench. Rest here. Nothing happens.",
+      "Square 5: Lab bench. Rest here. Nothing happens.",
+      "Square 6: FAIR TEST. Say one thing you keep the same in the Which Pen test, then move on 1 square. If you cannot, stay.",
+      "Square 7: Lab bench. Rest here. Nothing happens.",
+      "Square 8: FLAME FLASH. Name one element and its flame colour, then move on 2 squares. If you cannot, stay.",
+      "Square 9: Lab bench. Rest here. Nothing happens.",
+      "Square 10: SPILLED WATER. Your dot got wet. Go back 2 squares.",
+      "Square 11: Lab bench. Rest here. Nothing happens.",
+      "Square 12: FAIR TEST. Say one thing you keep the same in the Which Pen test, then move on 1 square. If you cannot, stay.",
+      "Square 13: Lab bench. Rest here. Nothing happens.",
+      "Square 14: Lab bench. Rest here. Nothing happens.",
+      "Square 15: Answer found, the finish. The first counter to reach or pass this square wins."
      ]
     },
     {
@@ -382,67 +393,67 @@
      "title": "16 question cards to cut out (the answer is on the back)",
      "items": [
       {
-       "f": "What is a mixture?",
-       "b": "Two or more substances mixed together, but not joined."
+       "f": "Name one way to separate a mixture, other than paper and water.",
+       "b": "A sieve (by size), a magnet (picks out iron), or letting the water dry up (leaves the salt)."
       },
       {
-       "f": "Is salt water a mixture or a pure substance?",
-       "b": "A mixture: salt and water."
+       "f": "What is a dye?",
+       "b": "A coloured substance that dissolves in a liquid and colours what it touches."
       },
       {
-       "f": "What do you call separating dyes with paper and water?",
-       "b": "Chromatography."
+       "f": "Why must two strips in one tumbler not touch each other?",
+       "b": "The colours would run across from one strip to the other."
       },
       {
-       "f": "What does 'chromatography' mean in Greek?",
-       "b": "Colour writing."
+       "f": "A green pen splits into a yellow band and a blue band. Did the water make the yellow?",
+       "b": "No. The yellow was in the green ink all along. The water only carried each dye a different distance."
       },
       {
-       "f": "Why do we draw the start line in pencil, not pen?",
-       "b": "Pencil does not dissolve in water, so it stays put."
+       "f": "In the flame test, who holds the spoon in the flame, and how far away does the child stand?",
+       "b": "A grown-up holds it. The child stands at least one metre away."
       },
       {
-       "f": "Why must the dot stay above the water?",
-       "b": "Under the water, the ink would just dissolve into the tumbler."
+       "f": "Plain tap water gave a few tiny orange sparks in the flame. Why?",
+       "b": "Tap water has a little salt dissolved in it."
       },
       {
-       "f": "A dot of ballpoint ink does not move in water. Why?",
-       "b": "Ballpoint ink does not dissolve in water."
+       "f": "Which colour does copper give a flame?",
+       "b": "Green or blue."
       },
       {
-       "f": "A green sketch pen splits into two bands. Which colours are they, most often?",
-       "b": "Yellow and blue."
+       "f": "Sugar water does not flash yellow-orange in the flame. Why not?",
+       "b": "Sugar has no sodium in it."
       },
       {
-       "f": "What makes water climb up a paper strip?",
-       "b": "Capillary action: water creeping through tiny gaps between the fibres."
+       "f": "What is an element?",
+       "b": "A substance made of only one kind of atom."
       },
       {
-       "f": "Salt turns a gas flame which colour?",
-       "b": "Yellow-orange."
+       "f": "Two black pens give exactly the same bands on kitchen towel. What can a chemist do next?",
+       "b": "Try another test, such as a different paper or a different liquid."
       },
       {
-       "f": "Which element in salt gives that colour?",
-       "b": "Sodium."
+       "f": "A marker dot did not move at all in water. What does that tell you about its ink?",
+       "b": "It does not dissolve in water, so water cannot carry it."
       },
       {
-       "f": "Which element gives fireworks a red colour?",
-       "b": "Strontium."
+       "f": "Which element gives green fireworks their colour?",
+       "b": "Barium."
       },
       {
-       "f": "Who said, in 1835, that we would never know what stars are made of?",
-       "b": "Auguste Comte."
+       "f": "What did Kirchhoff see in sunlight that showed there is sodium in the Sun?",
+       "b": "Two thin dark lines in exactly the place where sodium gives out its two yellow lines."
       },
       {
-       "f": "Which two scientists showed there is sodium in the Sun?",
-       "b": "Gustav Kirchhoff and Robert Bunsen."
+       "f": "Why do chemists say almost nothing is perfectly pure?",
+       "b": "Nearly every substance has tiny traces of other substances in it."
       },
       {
-       "f": "Name one new element Bunsen and Kirchhoff found by its flame colour.",
-       "b": "Caesium or rubidium."
+       "f": "A strip shows that pen B wrote a note. Does it show who held pen B?",
+       "b": "No. It shows which pen, not whose hand. You need more questions for that."
       },
       {
-       "f": "TEST IT: make a dot with any sketch pen on a wet strip. Guess first: how many colours?",
+       "f": "TEST IT: make a dot with any sketch pen on a dry strip, then run the strip in water. Guess first: how many colours?",
        "b": "Do the test and tell everyone what you found."
       }
      ]
@@ -459,17 +470,18 @@
     }
    ],
    "rules": [
-    "Put every counter on square 0, the lab door.",
-    "On your turn, another player reads you the top card. Answer it.",
-    "Right answer: roll a die and move that many squares. Wrong answer: stay where you are, and read the back aloud.",
-    "If you land on a square with a message, do what it says.",
-    "The first player to reach square 15 wins. Playing alone? Try to reach square 15 in 10 turns or fewer."
+    "Put every counter on square 0, the lab door. You need a die.",
+    "On your turn, another player reads you the top card. Playing alone? Read the card, answer it, then turn it over to check.",
+    "Right answer: roll the die and move that many squares. Wrong answer: stay where you are, and read the back aloud.",
+    "If you land on a square with a message by rolling, do what it says. If a square sends you to another square, do not follow the message there.",
+    "When the cards run out, shuffle them and use them again.",
+    "The first player to reach or pass square 15 wins. Playing alone? Try to reach square 15 in 10 turns or fewer."
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Draw the 15-square path on a sheet of paper, or print it. 2. Cut out the 16 cards. 3. Shuffle them face down.",
+     "do": "1. Draw the 16-square path (squares 0 to 15) on a sheet of paper, or print it. 2. Cut out the 16 cards. 3. Shuffle them face down. 4. Find a die.",
      "say": "We'll race from the lab door to the answer. Each right answer lets you roll the die.",
      "kid": "Make the board. Cut out the cards. Shuffle them.",
      "context": "This is the Lab Race board game. Players answer questions about ink, mixtures and flames to move along a path."
@@ -503,8 +515,8 @@
    ],
    "setup": [
     {
-     "art": "A hand-drawn path of 15 squares on paper, from a door marked START to a star marked ANSWER, with a few squares marked with a water drop and a flame.",
-     "caption": "1. Draw the 15-square path."
+     "art": "A hand-drawn path of 16 squares on paper, from a door marked START to a star marked ANSWER, with a few squares marked with a water drop and a flame.",
+     "caption": "1. Draw the 16-square path."
     },
     {
      "art": "Small paper cards in a pile, one turned over to show an answer on the back.",
@@ -515,7 +527,7 @@
   {
    "id": "g2",
    "title": "Secret Mix: guess the pens from the bands",
-   "mins": 25,
+   "mins": 40,
    "players": [
     "with a parent",
     "with friends"
@@ -524,13 +536,12 @@
    "printables": [
     {
      "kind": "score sheet",
-     "title": "Secret Mix score sheet",
+     "title": "Secret Mix score sheet: 4 rounds",
      "items": [
-      "Round",
-      "Mixer's name",
-      "Pens the mixer used (written secretly and folded over)",
-      "Guesser's guess",
-      "Points (2 for both right, 1 for one right)"
+      "Round 1: Mixer ______  Pens used (write, then fold over) ______  Guesser's guess ______  Points ______",
+      "Round 2: Mixer ______  Pens used (write, then fold over) ______  Guesser's guess ______  Points ______",
+      "Round 3: Mixer ______  Pens used (write, then fold over) ______  Guesser's guess ______  Points ______",
+      "Round 4: Mixer ______  Pens used (write, then fold over) ______  Guesser's guess ______  Points ______"
      ]
     }
    ],
@@ -540,24 +551,24 @@
     "The guesser runs the strip in water and watches the bands.",
     "The guesser says which two pens were used, and why.",
     "Unfold the sheet. Score 2 points if both pens are right, 1 if one is right.",
-    "Swap roles. Play 3 rounds each."
+    "Swap roles. With 2 players, each is the mixer twice (4 rounds). With 3 or 4 players, each is the mixer once and the next player guesses. The most points wins."
    ],
    "flow": [
     {
      "id": "s1",
-     "mins": 5,
-     "do": "1. Cut 6 strips of kitchen towel, 2 cm wide and 12 cm long. 2. Draw a pencil line 2 cm from the bottom of each. 3. On one test strip, make one dot of each of the 4 pens, side by side.",
+     "mins": 8,
+     "do": "1. Cut one test strip 5 cm wide and 4 or 5 secret strips 2 cm wide, all 12 cm long. 2. Draw a pencil line 2 cm from the bottom of each. 3. On the wide strip, make one dot of each of the 4 pens, 1 cm apart. 4. Hang it alone in a tumbler with 1 cm of water.",
      "say": "First let's see what each pen does alone. Then we'll know what to look for.",
-     "kid": "Make a test strip with one dot of each pen. Run it in water.",
+     "kid": "Make a wide test strip with one dot of each pen. Run it in water.",
      "context": "This is the Secret Mix game. You learn what each pen's colours look like, then work out a hidden mix."
     },
     {
      "id": "s2",
-     "mins": 15,
-     "do": "Play the rounds. Run each secret strip in a tumbler with 1 cm of water, until the water is near the top.",
+     "mins": 27,
+     "do": "Play the rounds one at a time. Run each secret strip in a tumbler with 1 cm of water, until the water is near the top.",
      "say": "Look at the bands. Which pens' colours can you see? How do you know?",
      "kid": "Watch your strip. Which colours came out? Which pens made them?",
-     "parent": "Green often splits into yellow and blue. So a green and yellow mix can look like green alone. That is a real puzzle, so let your child argue it out. Leave each strip in the water about 5 to 8 minutes."
+     "parent": "Green often splits into yellow and blue. So a green and yellow mix can look like green alone. That is a real puzzle, so let your child argue it out. Each strip takes about 5 to 8 minutes to run."
     },
     {
      "id": "s3",
@@ -623,19 +634,19 @@
      "qty": 2
     },
     {
-     "item": "a pencil, a ruler and scissors",
+     "item": "two pencils (to write with and to lay across the tumblers), a ruler and scissors",
      "qty": 1
     },
     {
-     "item": "two clothes clips, or sticky tape",
-     "qty": 2
+     "item": "four clothes clips, or sticky tape",
+     "qty": 4
     },
     {
      "item": "a plate, to dry the strips on",
      "qty": 1
     }
    ],
-   "safety": "A grown-up helps with the scissors. Wipe up spilled water so nobody slips.",
+   "safety": "A grown-up helps with the scissors.",
    "schedule": [
     {
      "day": 1,
@@ -789,7 +800,7 @@
      "qty": 3
     },
     {
-     "item": "a pencil, a ruler, scissors and three clothes clips or tape",
+     "item": "three pencils (to write with and to lay across the tumblers), a ruler, scissors and six clothes clips or tape",
      "qty": 1
     }
    ],
@@ -911,7 +922,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. The child turns away. 2. The grown-up stirs half a teaspoon of salt into one cup of water, and half a teaspoon of sugar into another. 3. The third cup is plain water. 4. Write 1, 2 and 3 on paper under the cups, and note secretly which is which.",
+     "do": "1. The child turns away. 2. The grown-up stirs half a teaspoon of salt into one cup of water (about 50 ml). In another cup of the same amount of water, they stir half a teaspoon of sugar. 3. The third cup is plain water. 4. Write 1, 2 and 3 on paper under the cups, and note secretly which is which.",
      "say": "These three cups look the same. One has salt in it, one has sugar, and one is plain water. Can a flame tell them apart? What do you think, and why?",
      "kid": "Three cups look the same. One has salt. Guess: can a flame find it? Why?",
      "adult": true,
@@ -933,7 +944,7 @@
      "say": "Watch the edge of the flame around the spoon. What colour do you see? Does it last?",
      "kid": "Watch the flame by the spoon. What colour? Does it last?",
      "adult": true,
-     "parent": "The salt water gives bright yellow-orange flashes that keep coming as the water boils off. Plain tap water may give a few tiny orange sparks, because tap water has a little salt in it too. Sugar water gives little or no colour. Hold the spoon by its end with a cloth. Never hold your face over the flame."
+     "parent": "The salt water gives bright yellow-orange flashes that keep coming as the water boils off. Plain tap water may give a few tiny orange sparks, because tap water has a little salt in it too. Sugar water gives little or no colour, though the sugar may brown on the spoon. Hold the spoon by its end with a cloth. Never hold your face over the flame."
     },
     {
      "id": "s4",
@@ -1086,7 +1097,6 @@
      "qty": 1
     }
    ],
-   "safety": "Do not eat the chalk.",
    "schedule": [
     {
      "day": 1,
@@ -1110,7 +1120,7 @@
      "do": "1. Stand the chalk upright in the shallow water, ring end down. 2. Make sure the ring is above the water. 3. Watch for about 10 minutes, until the water is near the top.",
      "say": "Watch the ring. Do the colours move the same way as on the paper strip?",
      "kid": "Stand the chalk in the water. The ring stays above the water. Watch.",
-     "parent": "Water climbs chalk quickly. The colours usually spread into bands, like on paper, but they may go to different heights. If the chalk falls over, lean it against the side of the bowl."
+     "parent": "Water climbs chalk quickly. The colours usually spread into bands, like on paper, but they may go to different heights. If the chalk falls over, lean it against the side of the bowl. This is the least certain activity in the unit: ink on chalk can give faint or short bands, and some chalk sticks crumble in water. If you see only one smudge, say so, and try a different pen or chalk."
     },
     {
      "id": "s3",
@@ -1147,7 +1157,7 @@
    "title": "Ink Flowers for a Festival Card",
    "mins": 25,
    "days": 1,
-   "context": "In this art activity you drip water onto a ring of sketch pen dots on a paper circle. The dyes spread outwards into rings of colour, and you make the circle into a flower for a Pongal, Onam or Deepavali card.",
+   "context": "In this art activity you drip water onto a ring of sketch pen dots on a paper circle. The dyes spread outwards into rings of colour, and you make the circle into a flower for a Pongal, Onam, Bihu or Deepavali card.",
    "materials": [
     {
      "item": "a circle of kitchen towel or a white paper napkin, about 12 cm across",
@@ -1248,7 +1258,7 @@
      "qty": 1
     },
     {
-     "item": "a steel spoon and a gas stove, used only by a grown-up",
+     "item": "an old steel spoon you do not mind blackening, a cloth to hold it, and a gas stove, used only by a grown-up",
      "qty": 1
     }
    ],
@@ -1274,7 +1284,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Put a pinch of each powder in its own spoon. 2. Add a few drops of lemon juice to each. 3. Watch for bubbles.",
+     "do": "1. Put a pinch of each powder on its own plate. 2. Add a few drops of lemon juice to each. 3. Watch for bubbles.",
      "say": "Lemon juice is an acid. Watch closely. Does anything fizz?",
      "kid": "Add lemon juice to each powder. Which one fizzes?",
      "parent": "Only the cooking soda fizzes. It makes a gas called carbon dioxide."
@@ -1286,7 +1296,7 @@
      "say": "Watch from back here. What happens to each powder when it is heated?",
      "kid": "Stand back. Watch each powder heat up. What happens?",
      "adult": true,
-     "parent": "Sugar melts and turns brown, then black, and smells of caramel. Salt does not melt on a stove. It may crackle, and the flame near the spoon may flash yellow-orange. Cooking soda does not melt either. It has sodium in it too, so the flame may flash yellow-orange near it as well. Wash the spoon after each powder."
+     "parent": "Sugar melts and turns brown, then black, and smells of caramel. Salt does not melt on a stove. It may crackle, and the flame near the spoon may flash yellow-orange. Cooking soda does not melt either. It has sodium in it too, so the flame may flash yellow-orange near it as well. Wash the spoon after each powder. Hold the spoon by its end with the cloth."
     },
     {
      "id": "s4",
@@ -1353,7 +1363,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Help your child make a spotter page with three columns: where, colour, element.",
-     "say": "This week, let's look out for coloured flames and lights. Watch the stove when milk or rasam boils over. Look at old orange street lights.",
+     "say": "This week, let's look out for coloured flames and lights. Watch the stove when milk or rasam boils over. Look at orange street lights, if your road still has them.",
      "kid": "Make a page. Where? What colour? Which element? Look all week.",
      "context": "This is a week-long spotting activity. You look for coloured flames and lights and guess which element made them."
     },
@@ -1425,7 +1435,7 @@
     {
      "day": 2,
      "mins": 20,
-     "what": "A family member writes a secret word with one pen. Run it and find the pen using your library."
+     "what": "A grown-up writes a secret word with one pen. Run it and find the pen using your library."
     }
    ],
    "record": "The library chart: each strip, the pen's name, and 'moves' or 'does not move'. Then the solved mystery, with your evidence.",
@@ -1433,7 +1443,7 @@
     {
      "id": "s1",
      "mins": 30,
-     "do": "1. Make a strip for each pen, labelled in pencil. 2. Run them in water, two or three at a time. 3. Dry them and glue them on the chart in a row. 4. Under each, write the pen's name and what it did.",
+     "do": "1. Make a strip for each pen, labelled in pencil. 2. Run them in water, two strips to a tumbler, in two or three rounds. 3. Dry them and glue them on the chart in a row. 4. Under each, write the pen's name and what it did.",
      "say": "Let's make a library of every ink in the house. Later, we can compare any mystery ink with it.",
      "kid": "Make a strip for every pen. Run them. Stick them on a chart with names.",
      "parent": "Ballpoint pens, gel pens and permanent markers often do not move in water. Write 'does not move' for those. It is still useful information.",
@@ -1442,7 +1452,7 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "1. A family member writes one short word on a strip's pencil line, with any pen from the library. 2. The child runs it. 3. They compare it with the chart and name the pen.",
+     "do": "1. A grown-up writes one short word on a strip's pencil line, with any pen from the library. 2. The child runs it. 3. They compare it with the chart and name the pen.",
      "say": "Here's a mystery word. Use your library to find the pen. What is your evidence?",
      "kid": "Run the mystery word. Compare it with your chart. Which pen?",
      "check": {
@@ -1563,7 +1573,7 @@
    "youtube": "LbZvnTdkgR4",
    "mins": 4,
    "why": "A science centre shows paper chromatography with felt pens at home, step by step, like the Which Pen test.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it and check its length."
+   "check": "A parent should preview this video first and check its length."
   },
   {
    "title": "Coloured Flames - Periodic Table of Videos",
@@ -1571,7 +1581,7 @@
    "youtube": "O3ZuimXdObE",
    "mins": 6,
    "why": "Chemists put different elements into flames and show their colours. Good for homes with induction cooktops, which cannot do the flame test.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it and check its length."
+   "check": "A parent should preview this video first and check its length."
   },
   {
    "title": "Column chromatography",
@@ -1579,7 +1589,7 @@
    "youtube": "UmWMlKJAdSk",
    "mins": 3,
    "why": "For the parent and curious older children: chromatography in a glass tube packed with powder, the way Mikhail Tsvet first did it.",
-   "check": "Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it and check its length."
+   "check": "A parent should preview this video first and check its length."
   }
  ],
  "quiz": [
@@ -1914,7 +1924,7 @@
     },
     {
      "t": "perspective",
-     "p": "Two friends in Mysuru look at a black sketch pen dot that has split into blue and purple.",
+     "p": "Two friends in Kochi look at a black sketch pen dot that has split into blue and purple.",
      "views": [
       {
        "who": "Lakshmi, aged 8",
@@ -2249,14 +2259,6 @@
      "why": "Each element gives lines in its own exact places. A line that matched no known element had to come from an unknown one. It was named helium, and found on Earth in 1895."
     },
     {
-     "t": "fill",
-     "p": "The Greek words inside 'chromatography' mean ____ writing.",
-     "a": [
-      "colour"
-     ],
-     "why": "'Chroma' means colour and 'graphein' means to write. Mikhail Tsvet chose the name because his first separations were of coloured substances in leaves."
-    },
-    {
      "t": "sort",
      "p": "Sort these tests. Does each one separate a mixture, or show which element is in something?",
      "cats": [
@@ -2311,13 +2313,6 @@
      ],
      "why": "You need the flame's normal colour first, to compare with. A clean spoon each time stops one cup's salt spoiling the next test.",
      "how": "e3"
-    },
-    {
-     "t": "write",
-     "p": "Mikhail Tsvet poured leaf colour through a glass tube packed with chalk powder. Explain how his chalk tube and your paper strip work in the same way.",
-     "lines": 4,
-     "a": "In both, a liquid moves through something with tiny gaps, chalk powder or paper fibres. The liquid carries the substances in the mixture, and the chalk or paper holds them back. Each substance moves at its own speed, so they separate into bands.",
-     "why": "A strong answer names both parts: the moving liquid and the material that holds the substances back."
     },
     {
      "t": "mcq",
@@ -2381,17 +2376,36 @@
     },
     {
      "t": "write",
-     "p": "A spoon of plain tap water gave tiny orange sparks in the flame. Use this to explain why chemists say almost nothing is perfectly pure.",
-     "lines": 4,
-     "a": "Tap water looks pure, but the orange sparks show it has a little sodium in it, from dissolved salts. Most things have small traces of other substances in them. Better tests find smaller and smaller traces, so chemists ask how pure something is, not whether it is pure.",
-     "why": "A strong answer uses the sparks as evidence and links them to traces of other substances."
-    },
-    {
-     "t": "write",
      "p": "Black ink looked like one thing, but water showed it was several dyes. Can you think of something else that looks like one thing but is really a mixture? How could you test it?",
      "lines": 4,
      "a": "For example, air looks like nothing, but it is a mixture of gases. Seawater looks like water, but it has salt in it: let some dry in a plate in the sun and salt is left. Rasam looks like one liquid, but it is many things.",
      "why": "A strong answer gives an example and a real way to test it, such as drying, sieving or a flame test."
+    },
+    {
+     "t": "write",
+     "p": "A friend runs a green pen on a paper strip and sees only one green band. She says, 'So this ink must be one dye.' Is she certain? What could you try next?",
+     "lines": 4,
+     "a": "She is not certain. Two dyes can travel together on one paper and look like one band. A strong answer suggests trying another paper or another liquid, or dotting the pen next to a yellow pen and a blue pen to compare.",
+     "why": "A test that shows one band does not prove the ink is one dye. Chemists try a second test before they decide."
+    },
+    {
+     "t": "fill",
+     "p": "When light from a flame is split by a prism, each element shows its own thin coloured ____.",
+     "a": [
+      "lines"
+     ],
+     "why": "Each element gives out its own set of thin coloured lines. Bunsen and Kirchhoff matched these lines to find elements in the lab and in the Sun."
+    },
+    {
+     "t": "mcq",
+     "p": "A forensic scientist has a strip from a mystery ink. Why does she also run strips from pens she already knows?",
+     "opts": [
+      "To use up the paper",
+      "To compare the mystery bands with known bands",
+      "To make the water climb faster"
+     ],
+     "a": 1,
+     "why": "A strip alone cannot name a pen. Only by comparing it with strips from known pens can she see which one matches. A strong answer says that comparing is how the test gives an answer."
     }
    ]
   }
@@ -2404,7 +2418,6 @@
   "Water labs test drinking water for harmful substances, such as pesticides, with chromatography.",
   "Medicine factories check that every batch of tablets is pure enough.",
   "Firework makers, such as those in Sivakasi in Tamil Nadu, colour their sparks with elements: strontium for red, barium for green, copper for blue and sodium for yellow.",
-  "Old orange street lights glow with sodium's yellow-orange light.",
   "Astronomers read the light of stars and planets to find out what they are made of.",
   "Chemists use a method called Raman spectroscopy, named after C.V. Raman, to identify substances from the light they scatter. Raman found the effect in Kolkata in 1928."
  ],
@@ -2484,8 +2497,8 @@
    "a": "It never got carried away."
   },
   {
-   "j": "What do you call a chemist who solves mysteries?",
-   "a": "Sherlock Ohms. No, wait, that's an electrician."
+   "j": "What did the paper strip say to the water?",
+   "a": "You are really moving me up in the world."
   },
   {
    "j": "Why did the salt go to the gas stove?",
@@ -2734,9 +2747,7 @@
    "e1",
    "e2",
    "g1",
-   "ws-core",
-   "a2",
-   "e3"
+   "ws-core"
   ],
   "spine": [
    "intro",
@@ -2815,7 +2826,7 @@
   ],
   "art": "A child holding a dried paper strip with bands of blue, purple and yellow up to the light of a window, with the Sun outside drawn with faint coloured lines across it."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. Kitchen towel was chosen over coffee filters, which few Indian homes have, with blotting paper from a stationery shop as the better option and a folded paper napkin as a back-up. The Which Pen test asks for black pens from two different makers, because two pens from the same packet give the same pattern. It says what to do if every black stays black, and treats a permanent marker that does not move as a useful result. Strips hang two to a tumbler from a pencil and clips, so they do not touch each other or the sides. Water on kitchen towel climbs 8 to 10 cm in about 5 to 10 minutes, so the timings allow for that. The flame test uses a wet steel spoon held by a grown-up, not salt sprinkled on the burner, and needs a gas stove. Homes with induction cooktops have no flame, so they watch the Periodic Videos flame video instead, and the flame test is outside the spine. The three powders activity uses no tasting, and only the grown-up heats. The spine is One Dot, the Which Pen test, the explanation cards, roots and the quiz: about 85 minutes, all doable in a city flat with sketch pens, kitchen towel, a tumbler and water.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home today, with the materials listed. Kitchen towel was chosen over coffee filters, which few Indian homes have, with blotting paper from a stationery shop as the better option and a folded paper napkin as a back-up. The Which Pen test asks for black pens from two different makers, because two pens from the same packet give the same pattern. It says what to do if every black stays black, and treats a permanent marker that does not move as a useful result. Strips hang two to a tumbler from a pencil and clips, so they do not touch each other or the sides. Water on kitchen towel climbs 8 to 10 cm in about 5 to 10 minutes, so the timings allow for that. The flame test uses a wet steel spoon held by a grown-up, not salt sprinkled on the burner, and needs a gas stove. Homes with induction cooktops have no flame, so they watch the Periodic Videos flame video instead; the flame test and the chalk column (the least certain result) are outside the core path. The board game has 16 listed squares and 16 cards, and the Secret Mix game has 4 listed rounds with strips cut for all of them. The three powders activity uses no tasting, and only the grown-up heats. The spine is One Dot, the Which Pen test, the explanation cards, roots and the quiz: about 85 minutes, all doable in a city flat with sketch pens, kitchen towel, a tumbler and water.",
  "how_we_found_out": {
   "context": "How did people find out what the Sun is made of, when nobody can go there? This card tells the true story.",
   "story": "In 1835, the French philosopher Auguste Comte wrote about the stars. We can measure their shapes, distances and movements, he said, but we will never know what they are made of. It seemed obvious. Nobody can travel to a star. In Heidelberg, in Germany, the chemist Robert Bunsen was studying the colours that substances give to a flame. His new gas burner made a hot flame that was almost colourless, so each colour showed clearly. But some colours looked alike. His friend Gustav Kirchhoff, a physicist, suggested splitting the light with a prism. In 1859 they found that each element gave its own set of thin coloured lines. Sodium always gave two yellow lines, close together. Sunlight split by a prism has thin dark lines in it, and two of them sat exactly where sodium's yellow lines were. Kirchhoff shone sunlight through a flame with sodium in it, and those dark lines grew darker. Sodium takes in the same colour it gives out. So there is sodium in the Sun. In 1860, the two men saw new blue lines in spring water. They had found a new element, and named it caesium, from a Latin word for sky blue. Comte had died two years before he was shown to be wrong.",

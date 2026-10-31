@@ -16,7 +16,7 @@
 
 ## Terms
 - **Chemical reaction**: A change in which substances turn into new substances. You usually cannot get the old substances back easily. *e.g.* When an iron nail rusts, the iron joins with oxygen and water to make rust, a new brown substance.
-- **Fast reaction**: A reaction that is over in seconds or less. *e.g.* A sparkler burns from end to end in less than a minute, with sparks flying all the time.
+- **Fast reaction**: A reaction that is over in seconds or a few minutes. *e.g.* A sparkler burns from end to end in less than a minute, with sparks flying all the time.
 - **Slow reaction**: A reaction that takes hours, days, months or years. *e.g.* A silver anklet slowly turns dark over many months as the silver joins with tiny amounts of sulfur in the air.
 - **Particles**: The tiny bits that every substance is made of. They are far too small to see, and they are always moving. *e.g.* In warm water the particles move faster than in cold water.
 - **Catalyst**: A substance that makes a reaction go faster and is not used up. It comes out of the reaction the same as it went in, so it can work again. *e.g.* Raw potato makes hydrogen peroxide break down fast. Strain the potato out and drop it into fresh peroxide, and it makes that foam too.
@@ -45,7 +45,7 @@ Reactions run at very different speeds. The powder in a cracker reacts in a tiny
 **Definition:** Particles react only when they meet and bump into each other hard enough. Anything that makes them bump more often, or harder, makes the reaction faster.
 
 For two substances to react, their particles must touch. In warm things the particles move faster, so they bump more often and harder. That is why food cooks on the stove and keeps for longer in the fridge. Breaking something into small pieces gives it much more surface, so more particles can meet at once. That is why eggshell powder fizzes in vinegar all at once, while a big piece fizzes slowly for hours. Rust is slow partly because the air touches only the outside of the iron, and partly because iron and oxygen react slowly at room warmth.
-- e.g. Idli batter rises overnight in a warm Chennai kitchen. In a cold north Indian winter it can take much longer.
+- e.g. Idli batter rises overnight in a warm Chennai kitchen. In a cold hill-town winter, such as Shillong or Ooty, it can take much longer.
 - e.g. Milk kept in the fridge stays fresh for longer than milk on the kitchen shelf.
 - e.g. A heap of fine sawdust can burn in a flash, but a thick log of the same wood burns slowly.
 ### A catalyst speeds up a reaction and is not used up · *defined*
@@ -101,7 +101,7 @@ We have timed fast and slow changes, and watched a potato make peroxide foam wit
 - *what is life:* A living being cannot cook their food on a stove inside them. So every living being, from yeast to a potato to you, makes enzymes to make their changes fast.
 - *what is this world:* Everything around you is changing, some things in a second and some over many years. Iron grills, silver anklets and even rocks are changing now, only slowly.
 
-A bottle of peroxide looks still, but it is breaking down a little all the time. Every substance carries changes it is ready for, most of them too slow to see. A catalyst does not add anything new to the world. It lets a change that was already possible happen now, and then it is free again. One small helper can change millions of particles. From one kind of helper, many changes come.
+A bottle of peroxide looks still, but it is breaking down a little all the time. Every substance carries changes it is ready for, most of them too slow to see. It lets a change that was already possible happen now, and then it is free again. One small helper can change millions of particles.
 
 - **Heraclitus, fragment 12 (Diels-Kranz numbering), about 500 BCE:** On those who step into the same rivers, different and different waters flow. (The river looks the same from day to day, but its water is always new. A grill or an anklet also looks the same, but it is always slowly changing.)
 - **The Buddha, Dhammapada 277:** All made things do not last. When one sees this with wisdom, one turns away from suffering. (Rust, fading colours and darkening silver show that made things slowly change. Speed is the only difference between a sparkler and a rusting gate.)
@@ -118,7 +118,7 @@ A bottle of peroxide looks still, but it is breaking down a little all the time.
 - *deep:* The peroxide in the plain cup was ready to break down all along, but it waited for months. What is a change doing while it waits? (hint: Think about the particles. Are they still bumping? Why do so few bumps lead to a change?)
 - *deep:* The potato helped the peroxide change, and came out the same. Did the potato take part in the change, or only watch it? (hint: The catalase holds each peroxide particle while it breaks. Is holding taking part?)
 - *deep:* Your body is warm, never as hot as a stove. How can it break down a whole meal in a few hours? (hint: Think about the enzyme in your saliva, and the rice that turned sweet.)
-- *big:* Rust is slow for us. To a mayfly that lives for one day, would a sparkler seem slow? Is 'fast' and 'slow' in the change, or in the one who watches? (hint: Compare how long the change takes with how long the watcher lives.)
+- *big:* Rust is slow for us. To a mayfly that lives for one day, would a sparkler seem slow? Are 'fast' and 'slow' in the change, or in the one who watches? (hint: Compare how long the change takes with how long the watcher lives.)
 - *big:* People help each other do things faster without being used up, like a teacher who teaches many children. Is a teacher like a catalyst? In what ways not? (hint: A catalyst comes out the same. Does a teacher come out the same after teaching?)
 
 ## Story: Paati's Brown Bottle
@@ -152,7 +152,7 @@ Arjun leaned close. On the raw slice, tiny bubbles appeared, then more and more,
 
 "One was cooked," said Arjun slowly. "The cooked one doesn't work. So there is something in raw potato that cooking spoils."
 
-Paati smiled the smile she used to give her best students. "Its name is catalase. It is an enzyme, a helper that living cells make. Peroxide wants to break into water and oxygen, but on its own it does it very slowly, a little every week. Catalase makes it happen at once. Those bubbles are oxygen."
+Paati smiled the smile she used to give her best students. "Its name is catalase. It is an enzyme, a helper that living cells make. Peroxide breaks into water and oxygen all by itself, but very slowly, a little every week. Catalase makes it happen at once. Those bubbles are oxygen."
 
 "And on your knee, when you were small?"
 
@@ -182,8 +182,8 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 
 ## Games
 ### g1 · Faster Wins: a card game of fast and slow changes (15 min)
-- **rules:** Shuffle the cards and put them in a pile, front side up.; Turn over the top two cards and lay them side by side. Do not look at the backs.; Each player says which change is faster, and why.; Flip both cards to read the times. Everyone who was right gets a point.; If both cards say the same time, everyone gets a point.; Playing alone? Lay all 16 cards in a line from fastest to slowest, then flip them to check. Count how many are in the right place.; The first player to 6 points wins.
-- **Printable cards: 16 change cards to cut out (the time is on the back):** A cracker bangs (back: Less than a second); A match head flares (back: About a second); Baking soda fizzes in lemon juice (back: A few seconds); A papad roasts on a flame (back: About 10 seconds); A sparkler burns from end to end (back: Under a minute); Potato makes peroxide foam (back: About a minute); A dosa browns on the tava (back: About 2 minutes); Eggshell powder stops fizzing in vinegar (back: A few minutes); Idli batter rises (back: 8 to 12 hours); Turmeric yellow fades in the sun (back: 1 to 3 days); A banana skin gets brown spots (back: A few days); A big eggshell piece dissolves in vinegar (back: About 1 to 2 days); An iron balcony grill rusts (back: Months); A silver anklet turns dark (back: Months); A copper pot goes dull and dark (back: Months); A bronze statue turns green (back: Many years)
+- **rules:** Shuffle the 16 cards and put them in a pile with the words facing up. The times are on the backs.; Turn over the top two cards and lay them side by side. Do not look at the backs.; Each player says which change is faster, and why.; Flip both cards to read the times. Everyone who was right gets a point.; If both cards say the same time, everyone gets a point.; The first player to 6 points wins. If the pile runs out first, the player with the most points wins, and a tie is a shared win.; Playing alone? Lay all 16 cards in a line from fastest to slowest, then flip them to check. Count how many are in the right place.
+- **Printable cards: 16 change cards to cut out (the time is on the back):** A cracker bangs (back: Less than a second); A match head flares (back: About a second); Baking soda fizzes in lemon juice (back: A few seconds); A papad roasts on a flame (back: About 10 seconds); A sparkler burns from end to end (back: Under a minute); Raw potato makes hydrogen peroxide foam (back: About a minute); A dosa browns on the tava (back: About 2 minutes); Eggshell powder stops fizzing in vinegar (back: About 5 minutes); Idli batter rises (back: 8 to 12 hours); A big eggshell piece goes soft in vinegar (back: About 1 day); Turmeric yellow fades in the sun (back: 2 to 3 days); A banana skin gets brown spots (back: 4 to 5 days); An iron balcony grill rusts (back: Months); A silver anklet turns dark (back: Months); A copper pot goes dull and dark (back: Months); A bronze statue turns green (back: Many years)
 - **s1 (3 min)**  
   *Parent does:* Cut out the cards and read the rules together.  
   *Parent says:* Each card is a change that makes a new substance. We guess which of two is faster.  
@@ -197,27 +197,26 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
   *Parent does:* End with one question.  
   *Parent says:* Which two cards were hardest to tell apart? Why?  
   *Child mode:* Which two cards were hardest? Why?
-  - Check: Which is faster: an iron grill rusting or a sparkler burning? → **The sparkler**
-### g2 · Catalyst Tag: the helper who is never used up (15 min)
-- **rules:** Each player picks a role card. Without enough players, a parent can be the catalyst and soft toys can be extra particles.; Round 1, no catalyst: an A and a B may join only by walking past each other back to back, slowly, which is hard. Count how many pairs join in 60 seconds.; Round 2, with the catalyst: the catalyst brings an A and a B together, holds their hands for a count of three, and lets go. That pair has joined. Count how many pairs join in 60 seconds.; Joined pairs sit down. Particles that have not joined keep walking.; Compare the two counts. Then check: is the catalyst still standing?
-- **Printable cards: 8 role cards:** CATALYST: you help two particles join by holding both their hands for a count of three, then you let go and go to the next pair.; PARTICLE A; PARTICLE A; PARTICLE A; PARTICLE B; PARTICLE B; PARTICLE B; TIMEKEEPER: count 60 seconds and call STOP.
+### g2 · Catalyst Race: the helper who is never used up (15 min)
+- **rules:** Two people can play: one is the catalyst and the other is the walker. With more people, one is the catalyst and all the others are walkers. Someone also times with a phone.; Put the 6 particle cards (3 A and 3 B) on the floor in different corners of the room, face up. Clear a joined pile space on a table or a mat.; Round 1, no catalyst: a walker carries one card at a time. To join a pair, a walker stands on one foot, holds an A and a B together and counts slowly to 20. If the other foot touches the floor, start the count again. Put the pair in the joined pile. Time how many seconds it takes until all 3 pairs have joined, or stop at 120 seconds and count the pairs.; Put all 6 cards back in their corners.; Round 2, with the catalyst: walkers carry one card at a time to the catalyst in the middle. The catalyst holds an A and a B together for a count of three and puts the pair in the joined pile. Time how long it takes for all 3 pairs to join.; Compare the two times. Then check: has the catalyst changed, or is she or he still standing in the middle, ready to help again?
+- **Printable cards: 7 cards to cut out:** CATALYST: stand in the middle of the room. When a walker brings you an A card and a B card, hold the two together for a count of three, then put them in the joined pile. You never leave the middle.; PARTICLE A: lies on the floor. It joins with one PARTICLE B card to make a pair.; PARTICLE A: lies on the floor. It joins with one PARTICLE B card to make a pair.; PARTICLE A: lies on the floor. It joins with one PARTICLE B card to make a pair.; PARTICLE B: lies on the floor. It joins with one PARTICLE A card to make a pair.; PARTICLE B: lies on the floor. It joins with one PARTICLE A card to make a pair.; PARTICLE B: lies on the floor. It joins with one PARTICLE A card to make a pair.
 - **s1 (3 min)**  
-  *Parent does:* Hand out the role cards and explain the rules.  
-  *Parent says:* Particles A and B want to join and make something new. But joining is hard on their own.  
-  *Child mode:* You are a particle. You want to join a partner.
+  *Parent does:* Cut out the 7 cards and read them. Choose who is the catalyst. Put the particle cards in the corners.  
+  *Parent says:* Two particles, A and B, must join to make something new. Joining is hard on their own. Then a catalyst helps.  
+  *Child mode:* Choose the catalyst. Put the particle cards in the corners.
 - **s2 (4 min)**  
-  *Parent does:* Play Round 1 with no catalyst. Count the pairs that join.  
-  *Parent says:* Go! Join only by walking back to back. How many pairs join in a minute?  
-  *Child mode:* Join only back to back. It is slow!
+  *Parent does:* Play Round 1 with no catalyst. Time how long until all 3 pairs have joined.  
+  *Parent says:* Go! Join the hard way. How many seconds until all three pairs are joined?  
+  *Child mode:* Join each pair on one foot, counting to 20. It is slow!
 - **s3 (4 min)**  
-  *Parent does:* Play Round 2 with the catalyst. Count the pairs again.  
-  *Parent says:* Now the catalyst helps. How many pairs join this time?  
-  *Child mode:* Now the catalyst helps you join. Go!
+  *Parent does:* Put the cards back. Play Round 2 with the catalyst. Time it again.  
+  *Parent says:* Now the catalyst helps. How long does it take this time?  
+  *Child mode:* Carry an A and a B to the catalyst. Go!
 - **s4 (4 min)**  
-  *Parent does:* Compare the counts and talk.  
-  *Parent says:* More pairs joined with the catalyst. Did the catalyst join any pair and sit down? What does that tell us?  
-  *Child mode:* Did more pairs join? Is the catalyst still standing?
-  - Check: At the end of Round 2, the catalyst was still standing. What does that show about a real catalyst? → **It is not used up by the reaction**
+  *Parent does:* Compare the two times and talk.  
+  *Parent says:* Which round was faster? Did the catalyst join any pair and sit down? What does that tell us?  
+  *Child mode:* Which round was faster? Is the catalyst still standing in the middle?
+  - Check: At the end of Round 2, the catalyst was still standing in the middle, ready to help again. What does that show about a real catalyst? → **It is not used up by the reaction**
 
 ## Experiments
 ### e1 · The Potato and the Peroxide: what makes the foam? (30 min)
@@ -228,7 +227,7 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 - **record:** Fill in the table. Then draw the three cups with their foam. Last, write three lines: what I think, what I saw, and why.
 - **results table:** Cup | My guess | Foam height after 2 minutes (mm) | What I saw
 - **s1 (4 min) · grown-up needed**  
-  *Parent does:* 1. Grate about 2 heaped teaspoons of peeled raw potato. 2. Mash 1 heaped teaspoon of cold boiled potato. 3. Label three cups 'Nothing', 'Raw potato' and 'Boiled potato'.  
+  *Parent does:* 1. Grate about 2 heaped teaspoons of peeled raw potato. 2. Mash 2 heaped teaspoons of cold boiled potato. 3. Label three cups 'Nothing', 'Raw potato' and 'Boiled potato'.  
   *Parent says:* We are going to test a clear liquid called hydrogen peroxide. On its own it breaks down into water and oxygen, but very slowly. Let's see if potato changes that.  
   *Child mode:* This clear liquid is hydrogen peroxide. It looks like water. Do not touch it or taste it. Help label three cups.
   - Note: Grate the potato just before the test, because grated potato starts to change colour within a few minutes. Boiled potato from the day's cooking is fine if it has no salt or masala on it.
@@ -320,23 +319,22 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
   - Check: Most of the raw vegetables made some foam. What is the best reason? → **Most living cells make catalase to break down peroxide**
 
 ## Activities
-### a1 · A Second or a Season? Two changes side by side (8 min)
-- **safety:** Only a grown-up strikes the match. Strike it over the steel plate and drop it into the water when done.
+### a1 · A Few Seconds or a Season? Two changes side by side (8 min)
 - **record:** Write how long you think each change took.
-- **s1 (3 min) · grown-up needed**  
-  *Parent does:* 1. Strike one match over the steel plate. 2. Let it burn for a moment, then drop it in the water.  
-  *Parent says:* Watch the head of the match when I strike it. Count how long the big flare lasts.  
-  *Child mode:* Watch the match head. Count how long the flare lasts.
-  - Note: The match head flares for about one second. The stick then burns more slowly.
+- **s1 (3 min)**  
+  *Parent does:* 1. Put half a teaspoon of baking soda on the steel plate. 2. Squeeze lemon juice over it. 3. Count the seconds until the fizzing stops.  
+  *Parent says:* Watch the baking soda when the juice touches it. Count how long the fizz lasts.  
+  *Child mode:* Squeeze the lemon on the baking soda. Count how long it fizzes.
+  - Note: The fizz is bubbles of a new gas, carbon dioxide. It lasts from a few seconds to about half a minute, then stops when one of the two is used up.
 - **s2 (3 min)**  
   *Parent does:* Look closely at the rusty thing together. Touch the rust and look at the colour on your finger.  
-  *Parent says:* The flare and this rust are both chemical reactions. Each one made a new substance. How long do you think this rust took?  
+  *Parent says:* The fizz and this rust are both chemical reactions. Each one made something new. How long do you think this rust took?  
   *Child mode:* Look at the rust. Rub it with a finger. How long did it take to grow?
   - Ask: How long do you think the rust took to grow? (good: Weeks.; Months.; Since the monsoon.)
 - **s3 (2 min)**  
   *Parent does:* Ask the big question of the unit, and leave it open.  
-  *Parent says:* One change took a second. One took months. What do you think makes a change fast or slow?  
-  *Child mode:* One change took a second. One took months. Why?
+  *Parent says:* One change took seconds. One took months. What do you think makes a change fast or slow?  
+  *Child mode:* One change took seconds. One took months. Why?
   - Note: Don't answer yet. Write down your child's ideas. The experiments test them.
 ### a2 · The Change Ribbon: from fastest to slowest (20 min)
 - **record:** Draw the ribbon in your notebook, or stick it on the wall.
@@ -345,15 +343,15 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
   *Parent says:* This ribbon is a clock for changes. Fast changes go at this end. Slow ones go at that end.  
   *Child mode:* Write the marks on the ribbon. A second at one end. Many years at the other.
 - **s2 (8 min)**  
-  *Parent does:* Your child places each of the 12 change cards on the ribbon, saying why.  
+  *Parent does:* Your child places each of the 16 change cards on the ribbon, saying why.  
   *Parent says:* Where does a dosa browning go? Where does a silver anklet turning dark go? Why do you think so?  
   *Child mode:* Put each card on the ribbon. Say why you put it there.
-  - Note: Rough answers: cracker bang, less than a second. Match head flaring, about a second. Sparkler, under a minute. Baking soda in lemon juice, a few seconds of fizz. Papad roasting, about 10 seconds. Dosa browning, about 2 minutes. Idli batter rising, about 8 to 12 hours. Banana going spotty, a few days. Iron grill rusting, months. Silver anklet darkening, months. Copper vessel going dull, months. Bronze statue turning green, many years.
+  - Note: Rough answers: cracker bang, less than a second. Match head flaring, about a second. Baking soda in lemon juice, a few seconds of fizz. Papad roasting, about 10 seconds. Sparkler, under a minute. Raw potato in hydrogen peroxide, about a minute. Dosa browning, about 2 minutes. Eggshell powder in vinegar, about 5 minutes. Idli batter rising, about 8 to 12 hours. Big eggshell piece going soft in vinegar, about a day. Turmeric fading in the sun, 2 to 3 days. Banana going spotty, 4 to 5 days. Iron grill rusting, months. Silver anklet darkening, months. Copper vessel going dull, months. Bronze statue turning green, many years.
 - **s3 (8 min)**  
   *Parent does:* Read out the rough times. Move any card that is in the wrong place. Talk about the surprises.  
   *Parent says:* Which card moved the most? Which change surprised you? Rust and the sparkler both use oxygen from the air. Why is one so slow?  
   *Child mode:* Which card moved most? Which one surprised you?
-  - Check: Which of these is the slowest change? → **An iron gate rusting**
+  - Check: Where does the 'Idli batter rises' card go on the ribbon? → **Between 'an hour' and 'a day'**
 ### a3 · Small Elephant Toothpaste: yeast as a helper (20 min)
 - **safety:** A grown-up opens the bottle and pours the hydrogen peroxide. Use the 3% kind from a chemist's shop. If the label says 6% or '20 volume', mix it half and half with water first. Keep it away from eyes and mouth, and never drink it. If it splashes on skin, wash with plenty of water. Wash hands and cups afterwards, and put the bottle away where small children cannot reach it. The foam is only soap, water, oxygen and yeast. Touch the foam only when a grown-up says so, and wash hands afterwards.
 - **record:** Draw the foam coming out of the bottle. Write what the yeast did.
@@ -378,7 +376,6 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
   *Child mode:* The potato and the yeast both had the helper. Why?
   - Note: A good answer: both use oxygen, both make a little peroxide, and both need to break it down before it harms their cells.
 ### a4 · Chew and Wait: the helper in your mouth (10 min)
-- **safety:** Use only plain, freshly cooked food.
 - **record:** Write how the rice tasted at the start and after 2 minutes.
 - **s1 (2 min)**  
   *Parent does:* Your child takes a spoonful of plain rice and notices the taste.  
@@ -413,7 +410,6 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 
 ## Projects
 ### p1 · Sun or Shade: a 3-day turmeric watch (35 min, 3 days)
-- **safety:** Turmeric stains clothes and hands. Wear old clothes and work on newspaper.
 - **record:** Each day, draw the strips and colour them as bright as they look. Write which part is palest.
 - **schedule:** day 1: Paint two strips with turmeric. Put one on a sunny windowsill, with half of it covered by cardboard. Put the other in a dark drawer. (15 min); day 2: Look at both strips. Lift the cardboard and compare the covered and uncovered halves. (5 min); day 3: Put all three parts side by side. Draw them and say what sunlight did. (15 min)
 - **s1 (15 min)**  
@@ -421,6 +417,7 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
   *Parent says:* Turmeric's yellow colour slowly breaks down in light. Washermen have long dried turmeric stains in the sun to fade them. Will the sun make it faster? Why do you think so?  
   *Child mode:* Paint the strips yellow. Put one in the sun, half covered. Put one in a drawer. Guess what will happen.
   - Ask: Why did we cover half of the sunny strip? (good: So we can compare sun and no sun on the same strip.; Because it is a fair test.)
+  - Note: Turmeric stains clothes and hands, so wear old clothes and work on newspaper.
 - **s2 (5 min)**  
   *Parent does:* Look at both strips. Lift the cardboard gently and look under it, then put it back.  
   *Parent says:* Has anything changed since yesterday? Which part looks palest?  
@@ -442,7 +439,7 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 - **your turn:** Now design your own way. Write down your plan, test it, and measure. Then change one thing and test again.
 - **constraints:** You may use only one heaped tablespoon of raw potato.; You may use only 2 tablespoons of 3% peroxide and one drop of soap.; Measure the foam with a ruler after exactly one minute.
 - **general:** Grate the potato finely instead of cutting it into one cube, so more surface touches the peroxide.; Crush the grated potato in a mortar to break open more cells.; Use a tall, narrow glass so the same foam rises higher.
-- **creative:** Warm the cup a little by standing it in a bowl of warm tap water, not hot, before adding the potato.; Try mixing the potato with the peroxide using a spoon for a few seconds.; Try a different vegetable that did well in your Helper Hunt.
+- **creative:** Warm the cup a little by standing it in a bowl of warm tap water, not hot, before adding the potato.; Try mixing the potato with the peroxide using a spoon for a few seconds.; Cut a fresh potato and grate it just before you start, so the catalase has had no time to change.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together and look at the materials.  
   *Parent says:* Engineers make reactions go the speed they need. How could we make our potato work faster?  
@@ -465,7 +462,7 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 - **your turn:** Now design your own cover. Leave one card uncovered to compare. Check after two days. Which cover kept the yellow brightest?
 - **constraints:** The card must stay on the sunny windowsill.; You must be able to see the card through or around your cover, or lift the cover to check.; Use only things from home.
 - **general:** Cover the card with cardboard, which lets no light through.; Wrap it in aluminium foil, which reflects light away.; Keep it in a closed steel box on the windowsill.
-- **creative:** Try a see-through cover of coloured plastic, and test whether some colours protect better than others.; Make a tiny curtain that you open only to look.; Paint a second card with turmeric mixed with a little oil and see if it fades differently.
+- **creative:** Try a see-through cover of coloured plastic, and test whether some colours protect better than others.; Make a tiny curtain that you open only to look.; Cover half of a card with foil and half with cloth, and see which half stays brighter.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together.  
   *Parent says:* Sunlight speeds up the fading of turmeric yellow. How could we slow it down?  
@@ -487,15 +484,15 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 
 ## Worksheets
 ### Fast, Slow and the Potato Helper (core) (core, 15 questions)
-1. (sort) Farhan, a boy in Hyderabad, writes a list of changes in his home. Sort them: fast (seconds or minutes) or slow (days or more).  
+1. (sort) Farhan, a boy in Kolkata, writes a list of changes in his home. Sort them: fast (seconds or minutes) or slow (hours or longer).  
    **Answer:** a match head flaring → Fast; an iron grill rusting → Slow; a papad roasting → Fast; a banana getting spots → Slow; a sparkler burning → Fast; a silver anklet turning dark → Slow. *Why:* The match, papad and sparkler take seconds. Rust, banana spots and darkening silver take days or months. A strong answer also says what new substance each change makes, such as rust or ash.
 2. (truefalse) A catalyst is used up in the reaction it speeds up.  
    **Answer:** False. *Why:* False. A catalyst comes out the same at the end. The strained potato made fresh peroxide foam again.
-3. (fill) A catalyst made by a living being is called an ____.  
-   **Answer:** ['enzyme']. *Why:* Enzymes are catalysts made by living cells, such as catalase and amylase.
-4. (mcq) In the potato test, which cup was the control, the cup we compare the others with?  
+3. (mcq) In the potato test, which cup was the control, the cup we compare the others with?  
    Options: The cup with nothing added / The raw potato cup / The boiled potato cup  
    **Answer:** The cup with nothing added. *Why:* The cup with no potato shows what the peroxide does on its own. Comparing with it shows what the potato changed.
+4. (fill) When things get warmer, their particles move ____ and bump into each other more often.  
+   **Answer:** ['faster']. *Why:* More bumps, and harder ones, mean a reaction can go faster.
 5. (draw) Draw the three cups from the potato test after 2 minutes: nothing, raw potato and boiled potato. Show the foam in each.  
    **Answer:** Tall foam over the raw potato, little or no foam over the boiled potato, and a clear cup with nothing.. *Why:* A strong drawing shows clear differences in foam height and labels each cup.
 6. (match) Match each word to what it means.  
@@ -537,7 +534,7 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
    **Answer:** Most living cells carry catalase. *Why:* Cells make a little peroxide as they use oxygen, so most cells carry catalase to break it down.
 7. (order) Put the steps of the potato test in order.  
    **Answer:** ['Guess which cup will foam most, and why', 'Pour the same peroxide into three cups', 'Add raw and boiled potato', 'Measure the foam after 2 minutes']. *Why:* First guess, then set up, then add, then measure.
-8. (write) A family in Delhi says their idli batter takes much longer to rise in winter than in summer. Explain why.  
+8. (write) A family in Shillong says their idli batter takes much longer to rise in winter than in summer. Explain why.  
    **Answer:** In winter the kitchen is colder. The microbes and their enzymes work more slowly in the cold, so the batter rises more slowly.. *Why:* A strong answer links cold to slower reactions, and mentions the microbes or enzymes.
 9. (fill) The enzyme in saliva that breaks starch into sugar is called ____.  
    **Answer:** ['amylase']. *Why:* Amylase starts breaking down starch in your mouth.
@@ -546,7 +543,7 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
    **Answer:** Some catalase washed away or wore out. *Why:* A catalyst is not used up by the reaction, but some can be lost when you rinse it, and enzymes slowly wear out.
 11. (label) On a picture of a rusty balcony grill, label: iron, rust, where the air touches, where rain collects.  
    **Answer:** ['iron (the grey bars)', 'rust (orange-brown patches)', 'where the air touches (all the outside)', 'where rain collects (the bottom bar)']. *Why:* Rust grows where iron meets air and water, most of all where water sits.
-12. (write) Arjun says, 'Heat is a catalyst.' Is he right? Explain.  
+12. (write) A boy in your class, Arjun, says, 'Heat is a catalyst.' Is he right? Explain.  
    **Answer:** No. Heat speeds up reactions, but it is not a substance. A catalyst is a substance that speeds up a reaction and is not used up.. *Why:* A strong answer separates heat, which is energy, from a catalyst, which is a substance.
 13. (match) Match each helper to what it speeds up.  
    **Answer:** Catalase → hydrogen peroxide breaking down; Amylase → starch turning into sugar; Heat → a dosa browning; Sunlight → turmeric yellow fading. *Why:* Catalase and amylase are catalysts. Heat and light also speed up reactions, but they are not substances, so they are not catalysts.
@@ -562,25 +559,25 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 3. (mcq) Sneha, a girl in Pune, wants to know whether warmth makes potato catalase work faster. Which test is fair?  
    Options: Two cups with the same peroxide and potato, one in cool water and one in warm water / One cup of warm peroxide with potato and one cup of cold peroxide with carrot / One cup in the sun and one in the shade with different amounts of potato  
    **Answer:** Two cups with the same peroxide and potato, one in cool water and one in warm water. *Why:* Only the warmth changes. The other tests change two things at once.
-4. (write) Iron rusts slowly in Chennai and much more slowly in dry Jaipur. Using what you know about speeding up reactions, suggest why.  
+4. (write) Iron grills rust faster in Chennai, near the sea, than in dry Jaipur. Suggest why.  
    **Answer:** Rust needs water as well as oxygen. In Chennai the air near the sea is damp and salty, so more water touches the iron and rust grows faster.. *Why:* A strong answer names water as something rust needs and links more water to faster rusting.
 5. (draw) Draw a picture that shows why a fine flour dust can burn in a flash but a heap of flour cannot.  
    **Answer:** Dust spread out in the air, with air around every grain, next to a heap where only the top grains touch the air.. *Why:* A strong drawing shows that in the dust every grain touches air, so more surface reacts at once.
-6. (truefalse) A catalyst can make a reaction happen that would never happen at all on its own.  
+6. (write) A cook in Kochi grates a coconut before adding it to the curry, instead of dropping in a big piece. Using what you know about surface, explain why the grated coconut gives its taste faster.  
+   **Answer:** Grating breaks the coconut into many tiny pieces. This gives it much more surface, so more of it touches the hot curry at once and its taste spreads faster.. *Why:* A strong answer uses the word surface and links more surface to a faster change.
+7. (truefalse) A catalyst can make a reaction happen that would never happen at all on its own.  
    **Answer:** False. *Why:* False. A catalyst speeds up a reaction that can already happen, often far too slowly to notice. Peroxide breaks down on its own too, just very slowly.
-7. (mcq) Why do people paint balcony grills?  
+8. (mcq) Why do people paint balcony grills?  
    Options: The paint stops air and water touching the iron, so it rusts much more slowly / The paint is a catalyst / Paint makes the iron warmer  
    **Answer:** The paint stops air and water touching the iron, so it rusts much more slowly. *Why:* Rust needs iron to touch air and water. Paint covers the iron and slows rusting down.
-8. (write) Some scientists think the first living beings used RNA as their catalysts. Explain what a catalyst would do for an early living being.  
+9. (write) Some scientists think the first living beings used RNA as their catalysts. Explain what a catalyst would do for an early living being.  
    **Answer:** It would make the reactions the living being needed happen fast enough, without being used up.. *Why:* A strong answer links catalysts to speed and says that a catalyst is not used up.
-9. (order) Put the steps of Buchner's 1897 test in order.  
+10. (order) Put the steps of Buchner's 1897 test in order.  
    **Answer:** ['Yeast cells were ground with fine sand', 'The ground yeast was squeezed to get juice', 'He added sugar to the juice', 'He saw bubbles of gas']. *Why:* Grind, squeeze, add sugar, then see the gas.
-10. (label) On the drawing of the eggshell test, label: piece, powder, vinegar, bubbles of carbon dioxide.  
+11. (label) On the drawing of the eggshell test, label: piece, powder, vinegar, bubbles of carbon dioxide.  
    **Answer:** ['piece (one glass)', 'powder (the other glass)', 'vinegar (the liquid)', 'bubbles of carbon dioxide (rising)']. *Why:* A strong answer puts each label in place and names the gas.
-11. (match) Match each way of changing a reaction to an example.  
+12. (match) Match each way of changing a reaction to an example.  
    **Answer:** More heat → a dosa browning on a hot tava; Smaller pieces → eggshell powder fizzing fast; A catalyst → potato making peroxide foam; Less light → turmeric staying bright in a drawer. *Why:* Each example shows one thing that changes how fast a reaction goes.
-12. (write) A pharmacist keeps hydrogen peroxide in a brown bottle. A friend says that a clear bottle would be just as good. Plan a test to find out who is right.  
-   **Answer:** Put the same peroxide in a brown bottle and a clear bottle in the same sunny place. After some weeks, test each with the same amount of potato and compare the foam.. *Why:* A strong plan changes only the bottle and measures the result the same way.
 13. (mcq) One catalase can break down millions of peroxide particles every second. What does this tell you about why only a little potato is needed?  
    Options: Each catalase works again and again, so a little goes a long way / Potato is mostly peroxide / The foam is mostly potato  
    **Answer:** Each catalase works again and again, so a little goes a long way. *Why:* A catalyst is not used up, so a small amount can change a large amount of peroxide.
@@ -622,13 +619,10 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 9. (mcq) An enzyme is a catalyst made by…  
    Options: a living being / a factory only / lightning / fire  
    **Answer:** a living being. *Why:* Enzymes are catalysts made by living cells, such as the catalase in potato and the amylase in your saliva.
-10. (mcq) Your cells make a little hydrogen peroxide every day as they use oxygen. Why do they make catalase?  
-   Options: To break down the peroxide quickly before it harms them / To make foam for fun / To store the peroxide for later / To make the cell warm  
-   **Answer:** To break down the peroxide quickly before it harms them. *Why:* Too much hydrogen peroxide harms a cell. Catalase breaks it into harmless water and oxygen at once.
-11. (mcq) In 1897 Eduard Buchner's team ground up yeast cells and squeezed out the juice. The juice held no whole yeast cells. What happened when he added sugar?  
+10. (mcq) In 1897 Eduard Buchner's team ground up yeast cells and squeezed out the juice. The juice held no whole yeast cells. What happened when he added sugar?  
    Options: The juice still changed the sugar, making gas bubbles / Nothing happened / The juice turned into yeast / The sugar turned to salt  
    **Answer:** The juice still changed the sugar, making gas bubbles. *Why:* The juice still turned sugar into gas and alcohol. It showed that the changes are done by enzymes, which still work outside the cell.
-12. (mcq) Divya, a girl in Kochi, says: 'Rust is slow, so it is never a problem.' What is wrong with her idea?  
+11. (mcq) Divya, a girl in Kochi, says: 'Rust is slow, so it is never a problem.' What is wrong with her idea?  
    Options: Over months and years, rust can weaken iron until it breaks / Rust is actually very fast / Rust is a catalyst / Nothing is wrong  
    **Answer:** Over months and years, rust can weaken iron until it breaks. *Why:* Slow does not mean harmless. Rust slowly eats into iron grills, gates and bridges, which is why they are painted.
 
@@ -658,26 +652,25 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 - Which changes in our kitchen today were fast, and which were slow?
 - Why do we keep milk in the fridge? What would happen on the shelf?
 - Do you think the rust on our grill is still growing today, right now?
-- Chew a mouthful of rice slowly at dinner. Does it start to taste sweet?
 - Why does the batter rise faster in summer?
-- Can you think of a person who helps others without being used up, like a catalyst?
 
 ## Jokes
-- Why did the potato win the science prize? *It had a lot of catalase-ma.*
-- Why was the iron gate never on time? *It was too rusty to hurry.*
-- What did the catalyst say after helping all day? *Same as ever, ready for more!*
 - Why did the sparkler finish its homework first? *It always does things in a flash.*
-- What did the hydrogen peroxide say to the potato? *You really bring out the bubbly side of me.*
+- Why was the iron gate always late for school? *It was too rusty to hurry.*
+- What did the hydrogen peroxide say to the potato? *You really bring out my bubbly side.*
 - Why don't slow reactions ever play hide and seek? *By the time they hide, everyone has gone home.*
-- Why did the eggshell powder get ahead of the big shell? *It had more surface to work with.*
-- What is a rusty nail's favourite month? *Any month. It takes a lot of them.*
-- Why did the enzyme never get tired at work? *It never gets used up.*
+- What did the dosa say to the hot tava? *Things are heating up between us!*
+- Why was the idli batter so slow in winter? *It stayed under the blanket and refused to rise.*
+- Why did the eggshell powder beat the big piece in the race? *It brought all its friends along.*
+- What did the iron gate say to the rain? *Please stop. I rust my case!*
+- Why was the cracker invited to every party? *It always arrived with a bang.*
+- Why is a potato good at chemistry? *It has eyes for the details and catalase for the rest.*
 
 ## Connected maths
 - In the potato test, the raw potato cup had 24 mm of foam and the boiled potato cup had 3 mm. How many times as much foam did the raw potato make? **8 times as much.**. The raw cup had 24 mm and the boiled cup had 3 mm. 24 divided by 3 is 8. So the raw potato made 8 times as much foam. Check: 3 + 3 + 3 + 3 + 3 + 3 + 3 + 3 = 24. (queues `math.division.division-facts.L3`)
 - A sparkler burns for 40 seconds. A dosa takes 2 minutes to brown. How many sparklers, one after another, would burn while one dosa browns? **3 sparklers.**. 2 minutes is 120 seconds. 120 divided by 40 is 3. So 3 sparklers burn in the time one dosa browns. (queues `math.time.duration.L3`)
-- Kavya measured foam in the Helper Hunt: potato 20 mm, carrot 12 mm, cucumber 6 mm, ginger 15 mm. Put them in order from most to least. How much more foam did potato make than cucumber? **Potato, ginger, carrot, cucumber. Potato made 14 mm more than cucumber.**. 20 is the biggest, then 15, then 12, then 6. 20 minus 6 is 14. These are made-up example results, and your own may be in a different order. (queues `math.number-sense.comparing-ordering.L3`)
-- In the turmeric watch, Lakshmi gave each part a brightness score from 10 (bright) to 0 (white). Day 1: sunny half 10, covered half 10. Day 3: sunny half 4, covered half 9. Which part changed more, and by how much? **The sunny half changed by 6 points, the covered half by 1 point. The sunny half changed 5 points more.**. Sunny: 10 minus 4 is 6. Covered: 10 minus 9 is 1. 6 minus 1 is 5. These are made-up example scores. (queues `math.addition-subtraction.word-problems.L3`)
+- Kavya, a girl in Class 3, measured foam in the Helper Hunt: potato 20 mm, carrot 12 mm, cucumber 6 mm, ginger 15 mm. Put them in order from most to least. How much more foam did potato make than cucumber? **Potato, ginger, carrot, cucumber. Potato made 14 mm more than cucumber.**. 20 is the biggest, then 15, then 12, then 6. 20 minus 6 is 14. These are made-up example results, and your own may be in a different order. (queues `math.number-sense.comparing-ordering.L3`)
+- In the turmeric watch, Lakshmi, a girl in Mysuru, gave each part a brightness score from 10 (bright) to 0 (white). Day 1: sunny half 10, covered half 10. Day 3: sunny half 4, covered half 9. Which part changed more, and by how much? **The sunny half changed by 6 points, the covered half by 1 point. The sunny half changed 5 points more.**. Sunny: 10 minus 4 is 6. Covered: 10 minus 9 is 1. 6 minus 1 is 5. These are made-up example scores. (queues `math.addition-subtraction.word-problems.L3`)
 - Iron grills in a flat need painting every 3 years to stop rust. How many times will they be painted in 12 years? **4 times.**. 12 divided by 3 is 4. So the grills are painted 4 times in 12 years. (queues `math.division.sharing-and-grouping.L3`)
 
 ## Song
@@ -691,7 +684,7 @@ Hold On Tight (sci.chemistry.L3): Topic-level song for Chemistry L3
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits and science shows.
 
 ## Things to buy
-- [Hydrogen peroxide solution, 3%, from a chemist's shop](https://www.amazon.in/s?k=hydrogen+peroxide+solution+3%25) (material): Needed for the potato test, the Helper Hunt and the yeast foam. Many chemists sell a 6% kind, sometimes labelled '20 volume'. Mix it half and half with water to make about 3%. Used in e1, e3, a3, c1. 
+- [Hydrogen peroxide solution, 3%, from a chemist's shop](https://www.amazon.in/s?k=hydrogen+peroxide+solution+3%25) (material): Weak hydrogen peroxide for the foam experiments. Many chemists sell a 6% kind, sometimes labelled '20 volume'. Mix it half and half with water to make about 3%. Used in e1, e3, a3, c1. 
 - [A small packet of dry yeast](https://www.amazon.in/s?k=dry+yeast) (material): For the yeast foam activity. Sold in grocery and baking shops. Used in a3. 
 
 ## Warm-up

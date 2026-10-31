@@ -30,7 +30,7 @@
   },
   {
    "term": "Fast reaction",
-   "meaning": "A reaction that is over in seconds or less.",
+   "meaning": "A reaction that is over in seconds or a few minutes.",
    "example": "A sparkler burns from end to end in less than a minute, with sparks flying all the time.",
    "art": "A sparkler fizzing with bright sparks in a dark sky."
   },
@@ -118,7 +118,7 @@
    "definition": "Particles react only when they meet and bump into each other hard enough. Anything that makes them bump more often, or harder, makes the reaction faster.",
    "description": "For two substances to react, their particles must touch. In warm things the particles move faster, so they bump more often and harder. That is why food cooks on the stove and keeps for longer in the fridge. Breaking something into small pieces gives it much more surface, so more particles can meet at once. That is why eggshell powder fizzes in vinegar all at once, while a big piece fizzes slowly for hours. Rust is slow partly because the air touches only the outside of the iron, and partly because iron and oxygen react slowly at room warmth.",
    "examples": [
-    "Idli batter rises overnight in a warm Chennai kitchen. In a cold north Indian winter it can take much longer.",
+    "Idli batter rises overnight in a warm Chennai kitchen. In a cold hill-town winter, such as Shillong or Ooty, it can take much longer.",
     "Milk kept in the fridge stays fresh for longer than milk on the kitchen shelf.",
     "A heap of fine sawdust can burn in a flash, but a thick log of the same wood burns slowly."
    ],
@@ -238,7 +238,7 @@
    "hint": "Think about the enzyme in your saliva, and the rice that turned sweet."
   },
   {
-   "q": "Rust is slow for us. To a mayfly that lives for one day, would a sparkler seem slow? Is 'fast' and 'slow' in the change, or in the one who watches?",
+   "q": "Rust is slow for us. To a mayfly that lives for one day, would a sparkler seem slow? Are 'fast' and 'slow' in the change, or in the one who watches?",
    "kind": "big",
    "hint": "Compare how long the change takes with how long the watcher lives."
   },
@@ -268,7 +268,7 @@
    "Arjun leaned close. On the raw slice, tiny bubbles appeared, then more and more, until a white froth covered it. On the cooked piece, almost nothing happened.",
    "\"Both glasses are the same warmth,\" said Paati. \"Both pieces are potato. So what is different?\"",
    "\"One was cooked,\" said Arjun slowly. \"The cooked one doesn't work. So there is something in raw potato that cooking spoils.\"",
-   "Paati smiled the smile she used to give her best students. \"Its name is catalase. It is an enzyme, a helper that living cells make. Peroxide wants to break into water and oxygen, but on its own it does it very slowly, a little every week. Catalase makes it happen at once. Those bubbles are oxygen.\"",
+   "Paati smiled the smile she used to give her best students. \"Its name is catalase. It is an enzyme, a helper that living cells make. Peroxide breaks into water and oxygen all by itself, but very slowly, a little every week. Catalase makes it happen at once. Those bubbles are oxygen.\"",
    "\"And on your knee, when you were small?\"",
    "\"My blood has catalase too. So does yours. Your cells make a little peroxide every day as they use oxygen, and too much of it would harm them. So every cell keeps catalase ready, to break it down quickly.\" She lifted the raw slice out with a spoon and dropped it into a fresh glass of peroxide. It started to froth again.",
    "\"It's not used up!\" said Arjun.",
@@ -320,7 +320,7 @@
      "qty": 1
     },
     {
-     "item": "a small piece of boiled potato, cooled and mashed, about 1 heaped teaspoon",
+     "item": "a small piece of boiled potato, cooled and mashed, about 2 heaped teaspoons",
      "qty": 1
     },
     {
@@ -371,7 +371,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Grate about 2 heaped teaspoons of peeled raw potato. 2. Mash 1 heaped teaspoon of cold boiled potato. 3. Label three cups 'Nothing', 'Raw potato' and 'Boiled potato'.",
+     "do": "1. Grate about 2 heaped teaspoons of peeled raw potato. 2. Mash 2 heaped teaspoons of cold boiled potato. 3. Label three cups 'Nothing', 'Raw potato' and 'Boiled potato'.",
      "say": "We are going to test a clear liquid called hydrogen peroxide. On its own it breaks down into water and oxygen, but very slowly. Let's see if potato changes that.",
      "kid": "This clear liquid is hydrogen peroxide. It looks like water. Do not touch it or taste it. Help label three cups.",
      "adult": true,
@@ -689,12 +689,16 @@
  "activities": [
   {
    "id": "a1",
-   "title": "A Second or a Season? Two changes side by side",
+   "title": "A Few Seconds or a Season? Two changes side by side",
    "mins": 8,
    "days": 1,
    "materials": [
     {
-     "item": "a matchbox",
+     "item": "half a teaspoon of baking soda",
+     "qty": 1
+    },
+    {
+     "item": "half a lemon, or 2 tablespoons of vinegar",
      "qty": 1
     },
     {
@@ -702,23 +706,22 @@
      "qty": 1
     },
     {
-     "item": "a steel plate and a small bowl of water",
+     "item": "a steel plate and a clock or phone",
      "qty": 1
     }
    ],
-   "safety": "Only a grown-up strikes the match. Strike it over the steel plate and drop it into the water when done.",
    "schedule": [
     {
      "day": 1,
      "mins": 8,
-     "what": "Watch a match flare, then look closely at rust. Guess how long each change took."
+     "what": "Watch baking soda fizz in lemon juice, then look closely at rust. Guess how long each change took."
     }
    ],
    "record": "Write how long you think each change took.",
    "setup": [
     {
-     "art": "A grown-up's hand striking a match over a steel plate, with a bowl of water nearby, and a child watching from a safe distance.",
-     "caption": "1. A grown-up strikes a match over a steel plate. Watch the flare."
+     "art": "A child squeezing lemon juice onto a heap of baking soda on a steel plate, with fizzing bubbles.",
+     "caption": "1. Squeeze lemon juice on baking soda. Watch the fizz."
     },
     {
      "art": "A child looking closely at an orange-brown rusty iron hook on a balcony grill.",
@@ -729,18 +732,17 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Strike one match over the steel plate. 2. Let it burn for a moment, then drop it in the water.",
-     "say": "Watch the head of the match when I strike it. Count how long the big flare lasts.",
-     "kid": "Watch the match head. Count how long the flare lasts.",
-     "adult": true,
-     "context": "This is a short first look at a fast change and a slow change. A match head flares in about a second, while rust takes months.",
-     "parent": "The match head flares for about one second. The stick then burns more slowly."
+     "do": "1. Put half a teaspoon of baking soda on the steel plate. 2. Squeeze lemon juice over it. 3. Count the seconds until the fizzing stops.",
+     "say": "Watch the baking soda when the juice touches it. Count how long the fizz lasts.",
+     "kid": "Squeeze the lemon on the baking soda. Count how long it fizzes.",
+     "context": "This is a short first look at a fast change and a slow change. Baking soda fizzes in lemon juice within seconds, while rust takes months.",
+     "parent": "The fizz is bubbles of a new gas, carbon dioxide. It lasts from a few seconds to about half a minute, then stops when one of the two is used up."
     },
     {
      "id": "s2",
      "mins": 3,
      "do": "Look closely at the rusty thing together. Touch the rust and look at the colour on your finger.",
-     "say": "The flare and this rust are both chemical reactions. Each one made a new substance. How long do you think this rust took?",
+     "say": "The fizz and this rust are both chemical reactions. Each one made something new. How long do you think this rust took?",
      "kid": "Look at the rust. Rub it with a finger. How long did it take to grow?",
      "ask": [
       {
@@ -757,8 +759,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the big question of the unit, and leave it open.",
-     "say": "One change took a second. One took months. What do you think makes a change fast or slow?",
-     "kid": "One change took a second. One took months. Why?",
+     "say": "One change took seconds. One took months. What do you think makes a change fast or slow?",
+     "kid": "One change took seconds. One took months. Why?",
      "parent": "Don't answer yet. Write down your child's ideas. The experiments test them."
     }
    ]
@@ -770,12 +772,12 @@
    "days": 1,
    "materials": [
     {
-     "item": "a long strip of paper, about 1 metre, or several sheets taped end to end",
+     "item": "a long strip of paper, about 2 metres, or several sheets taped end to end",
      "qty": 1
     },
     {
-     "item": "the 12 change cards from the Faster Wins game, or 12 slips of paper",
-     "qty": 12
+     "item": "the 16 change cards from the Faster Wins game, or 16 slips of paper with the changes written on them",
+     "qty": 16
     },
     {
      "item": "crayons and tape",
@@ -786,7 +788,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Lay 12 changes along a paper ribbon from fastest to slowest. Check the times and move any that are in the wrong place."
+     "what": "Lay 16 changes along a paper ribbon from fastest to slowest. Check the times and move any that are in the wrong place."
     }
    ],
    "record": "Draw the ribbon in your notebook, or stick it on the wall.",
@@ -812,10 +814,10 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Your child places each of the 12 change cards on the ribbon, saying why.",
+     "do": "Your child places each of the 16 change cards on the ribbon, saying why.",
      "say": "Where does a dosa browning go? Where does a silver anklet turning dark go? Why do you think so?",
      "kid": "Put each card on the ribbon. Say why you put it there.",
-     "parent": "Rough answers: cracker bang, less than a second. Match head flaring, about a second. Sparkler, under a minute. Baking soda in lemon juice, a few seconds of fizz. Papad roasting, about 10 seconds. Dosa browning, about 2 minutes. Idli batter rising, about 8 to 12 hours. Banana going spotty, a few days. Iron grill rusting, months. Silver anklet darkening, months. Copper vessel going dull, months. Bronze statue turning green, many years."
+     "parent": "Rough answers: cracker bang, less than a second. Match head flaring, about a second. Baking soda in lemon juice, a few seconds of fizz. Papad roasting, about 10 seconds. Sparkler, under a minute. Raw potato in hydrogen peroxide, about a minute. Dosa browning, about 2 minutes. Eggshell powder in vinegar, about 5 minutes. Idli batter rising, about 8 to 12 hours. Big eggshell piece going soft in vinegar, about a day. Turmeric fading in the sun, 2 to 3 days. Banana going spotty, 4 to 5 days. Iron grill rusting, months. Silver anklet darkening, months. Copper vessel going dull, months. Bronze statue turning green, many years."
     },
     {
      "id": "s3",
@@ -825,15 +827,14 @@
      "kid": "Which card moved most? Which one surprised you?",
      "check": {
       "t": "mcq",
-      "q": "Which of these is the slowest change?",
+      "q": "Where does the 'Idli batter rises' card go on the ribbon?",
       "options": [
-       "A papad roasting",
-       "A dosa browning",
-       "An iron gate rusting",
-       "A sparkler burning"
+       "Between 'a minute' and 'an hour'",
+       "Between 'an hour' and 'a day'",
+       "Between 'a month' and 'a year'"
       ],
-      "a": 2,
-      "why": "A papad roasts in seconds, a dosa browns in about two minutes and a sparkler burns in under a minute. An iron gate takes months to rust."
+      "a": 1,
+      "why": "Idli batter takes about 8 to 12 hours to rise. That is more than an hour and less than a day."
      }
     }
    ]
@@ -863,7 +864,7 @@
      "qty": 1
     },
     {
-     "item": "an empty clear plastic bottle, about half a litre, standing in a tray or a big steel plate",
+     "item": "an empty clear plastic bottle, about half a litre, standing in a tray or a big steel plate, and a funnel or a rolled sheet of paper",
      "qty": 1
     }
    ],
@@ -955,9 +956,12 @@
     {
      "item": "a spoonful of plain cooked rice, with no salt, or a small piece of plain chapati",
      "qty": 1
+    },
+    {
+     "item": "a clock or phone to time 2 minutes",
+     "qty": 1
     }
    ],
-   "safety": "Use only plain, freshly cooked food.",
    "schedule": [
     {
      "day": 1,
@@ -968,7 +972,7 @@
    "record": "Write how the rice tasted at the start and after 2 minutes.",
    "setup": [
     {
-     "art": "A child holding a spoon of plain white rice, with a small sand timer beside the plate.",
+     "art": "A child holding a spoon of plain white rice, with a clock beside the plate.",
      "caption": "1. Take a spoonful of plain rice. Taste it."
     },
     {
@@ -1108,7 +1112,6 @@
      "qty": 1
     }
    ],
-   "safety": "Turmeric stains clothes and hands. Wear old clothes and work on newspaper.",
    "schedule": [
     {
      "day": 1,
@@ -1157,7 +1160,8 @@
         "Because it is a fair test."
        ]
       }
-     ]
+     ],
+     "parent": "Turmeric stains clothes and hands, so wear old clothes and work on newspaper."
     },
     {
      "id": "s2",
@@ -1216,7 +1220,7 @@
    "creative": [
     "Warm the cup a little by standing it in a bowl of warm tap water, not hot, before adding the potato.",
     "Try mixing the potato with the peroxide using a spoon for a few seconds.",
-    "Try a different vegetable that did well in your Helper Hunt."
+    "Cut a fresh potato and grate it just before you start, so the catalase has had no time to change."
    ],
    "your_turn": "Now design your own way. Write down your plan, test it, and measure. Then change one thing and test again.",
    "safety": "A grown-up opens the bottle and pours the hydrogen peroxide. Use the 3% kind from a chemist's shop. If the label says 6% or '20 volume', mix it half and half with water first. Keep it away from eyes and mouth, and never drink it. If it splashes on skin, wash with plenty of water. Wash hands and cups afterwards, and put the bottle away where small children cannot reach it.",
@@ -1297,7 +1301,7 @@
    "creative": [
     "Try a see-through cover of coloured plastic, and test whether some colours protect better than others.",
     "Make a tiny curtain that you open only to look.",
-    "Paint a second card with turmeric mixed with a little oil and see if it fades differently."
+    "Cover half of a card with foil and half with cloth, and see which half stays brighter."
    ],
    "your_turn": "Now design your own cover. Leave one card uncovered to compare. Check after two days. Which cover kept the yellow brightest?",
    "setup": [
@@ -1365,7 +1369,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game. Each card shows a chemical change from home. Two cards are turned over, and players guess which change is faster.",
+   "context": "This is a card game. Each card names a chemical change from home. Two cards are turned over, and players guess which change is faster.",
    "printables": [
     {
      "kind": "cards",
@@ -1392,7 +1396,7 @@
        "b": "Under a minute"
       },
       {
-       "f": "Potato makes peroxide foam",
+       "f": "Raw potato makes hydrogen peroxide foam",
        "b": "About a minute"
       },
       {
@@ -1401,23 +1405,23 @@
       },
       {
        "f": "Eggshell powder stops fizzing in vinegar",
-       "b": "A few minutes"
+       "b": "About 5 minutes"
       },
       {
        "f": "Idli batter rises",
        "b": "8 to 12 hours"
       },
       {
+       "f": "A big eggshell piece goes soft in vinegar",
+       "b": "About 1 day"
+      },
+      {
        "f": "Turmeric yellow fades in the sun",
-       "b": "1 to 3 days"
+       "b": "2 to 3 days"
       },
       {
        "f": "A banana skin gets brown spots",
-       "b": "A few days"
-      },
-      {
-       "f": "A big eggshell piece dissolves in vinegar",
-       "b": "About 1 to 2 days"
+       "b": "4 to 5 days"
       },
       {
        "f": "An iron balcony grill rusts",
@@ -1439,17 +1443,17 @@
     }
    ],
    "rules": [
-    "Shuffle the cards and put them in a pile, front side up.",
+    "Shuffle the 16 cards and put them in a pile with the words facing up. The times are on the backs.",
     "Turn over the top two cards and lay them side by side. Do not look at the backs.",
     "Each player says which change is faster, and why.",
     "Flip both cards to read the times. Everyone who was right gets a point.",
     "If both cards say the same time, everyone gets a point.",
-    "Playing alone? Lay all 16 cards in a line from fastest to slowest, then flip them to check. Count how many are in the right place.",
-    "The first player to 6 points wins."
+    "The first player to 6 points wins. If the pile runs out first, the player with the most points wins, and a tie is a shared win.",
+    "Playing alone? Lay all 16 cards in a line from fastest to slowest, then flip them to check. Count how many are in the right place."
    ],
    "setup": [
     {
-     "art": "Two cards face up on a table, one showing a sparkler and one showing a rusty grill, with two children pointing.",
+     "art": "Two cards face up on a table, one reading 'A sparkler burns from end to end' and one reading 'An iron balcony grill rusts', with two children pointing.",
      "caption": "1. Turn over two cards. Which change is faster?"
     },
     {
@@ -1479,95 +1483,84 @@
      "mins": 2,
      "do": "End with one question.",
      "say": "Which two cards were hardest to tell apart? Why?",
-     "kid": "Which two cards were hardest? Why?",
-     "check": {
-      "t": "mcq",
-      "q": "Which is faster: an iron grill rusting or a sparkler burning?",
-      "options": [
-       "The sparkler",
-       "The rusting grill",
-       "They take the same time"
-      ],
-      "a": 0,
-      "why": "A sparkler burns in under a minute. An iron grill takes months to rust."
-     }
+     "kid": "Which two cards were hardest? Why?"
     }
    ]
   },
   {
    "id": "g2",
-   "title": "Catalyst Tag: the helper who is never used up",
+   "title": "Catalyst Race: the helper who is never used up",
    "mins": 15,
    "players": [
     "with a parent",
     "with friends"
    ],
-   "context": "This is a running and joining game. Players are particles that need to join in pairs. One player is the catalyst, who helps pairs join and then is free to help again.",
+   "context": "This is a moving game. Particle cards lie spread around a room. Pairs of particles must join. Joining the hard way is slow. A catalyst player makes it quick, and is still there, unchanged, at the end.",
    "printables": [
     {
      "kind": "cards",
-     "title": "8 role cards",
+     "title": "7 cards to cut out",
      "items": [
-      "CATALYST: you help two particles join by holding both their hands for a count of three, then you let go and go to the next pair.",
-      "PARTICLE A",
-      "PARTICLE A",
-      "PARTICLE A",
-      "PARTICLE B",
-      "PARTICLE B",
-      "PARTICLE B",
-      "TIMEKEEPER: count 60 seconds and call STOP."
+      "CATALYST: stand in the middle of the room. When a walker brings you an A card and a B card, hold the two together for a count of three, then put them in the joined pile. You never leave the middle.",
+      "PARTICLE A: lies on the floor. It joins with one PARTICLE B card to make a pair.",
+      "PARTICLE A: lies on the floor. It joins with one PARTICLE B card to make a pair.",
+      "PARTICLE A: lies on the floor. It joins with one PARTICLE B card to make a pair.",
+      "PARTICLE B: lies on the floor. It joins with one PARTICLE A card to make a pair.",
+      "PARTICLE B: lies on the floor. It joins with one PARTICLE A card to make a pair.",
+      "PARTICLE B: lies on the floor. It joins with one PARTICLE A card to make a pair."
      ]
     }
    ],
    "rules": [
-    "Each player picks a role card. Without enough players, a parent can be the catalyst and soft toys can be extra particles.",
-    "Round 1, no catalyst: an A and a B may join only by walking past each other back to back, slowly, which is hard. Count how many pairs join in 60 seconds.",
-    "Round 2, with the catalyst: the catalyst brings an A and a B together, holds their hands for a count of three, and lets go. That pair has joined. Count how many pairs join in 60 seconds.",
-    "Joined pairs sit down. Particles that have not joined keep walking.",
-    "Compare the two counts. Then check: is the catalyst still standing?"
+    "Two people can play: one is the catalyst and the other is the walker. With more people, one is the catalyst and all the others are walkers. Someone also times with a phone.",
+    "Put the 6 particle cards (3 A and 3 B) on the floor in different corners of the room, face up. Clear a joined pile space on a table or a mat.",
+    "Round 1, no catalyst: a walker carries one card at a time. To join a pair, a walker stands on one foot, holds an A and a B together and counts slowly to 20. If the other foot touches the floor, start the count again. Put the pair in the joined pile. Time how many seconds it takes until all 3 pairs have joined, or stop at 120 seconds and count the pairs.",
+    "Put all 6 cards back in their corners.",
+    "Round 2, with the catalyst: walkers carry one card at a time to the catalyst in the middle. The catalyst holds an A and a B together for a count of three and puts the pair in the joined pile. Time how long it takes for all 3 pairs to join.",
+    "Compare the two times. Then check: has the catalyst changed, or is she or he still standing in the middle, ready to help again?"
    ],
    "setup": [
     {
-     "art": "Children walking around a room with A and B cards on their shirts, a few slowly walking back to back.",
-     "caption": "1. Round 1: particles try to join with no helper."
+     "art": "A room with 6 cards on the floor in the corners, and a child on one foot holding two cards together.",
+     "caption": "1. Round 1: join a pair the hard way, on one foot, counting to 20."
     },
     {
-     "art": "A girl with a CATALYST card holding hands with two other children, then letting go as they sit down together.",
-     "caption": "2. Round 2: the catalyst helps pairs join, then moves on."
+     "art": "A girl in the middle of the room holding an A card and a B card together for a count of three, with a child waiting beside her.",
+     "caption": "2. Round 2: the catalyst joins the pair quickly and stays in the middle."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "Hand out the role cards and explain the rules.",
-     "say": "Particles A and B want to join and make something new. But joining is hard on their own.",
-     "kid": "You are a particle. You want to join a partner.",
+     "do": "Cut out the 7 cards and read them. Choose who is the catalyst. Put the particle cards in the corners.",
+     "say": "Two particles, A and B, must join to make something new. Joining is hard on their own. Then a catalyst helps.",
+     "kid": "Choose the catalyst. Put the particle cards in the corners.",
      "context": "This is the start of Catalyst Tag, a game that shows how a catalyst speeds up a reaction without being used up."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "Play Round 1 with no catalyst. Count the pairs that join.",
-     "say": "Go! Join only by walking back to back. How many pairs join in a minute?",
-     "kid": "Join only back to back. It is slow!"
+     "do": "Play Round 1 with no catalyst. Time how long until all 3 pairs have joined.",
+     "say": "Go! Join the hard way. How many seconds until all three pairs are joined?",
+     "kid": "Join each pair on one foot, counting to 20. It is slow!"
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "Play Round 2 with the catalyst. Count the pairs again.",
-     "say": "Now the catalyst helps. How many pairs join this time?",
-     "kid": "Now the catalyst helps you join. Go!"
+     "do": "Put the cards back. Play Round 2 with the catalyst. Time it again.",
+     "say": "Now the catalyst helps. How long does it take this time?",
+     "kid": "Carry an A and a B to the catalyst. Go!"
     },
     {
      "id": "s4",
      "mins": 4,
-     "do": "Compare the counts and talk.",
-     "say": "More pairs joined with the catalyst. Did the catalyst join any pair and sit down? What does that tell us?",
-     "kid": "Did more pairs join? Is the catalyst still standing?",
+     "do": "Compare the two times and talk.",
+     "say": "Which round was faster? Did the catalyst join any pair and sit down? What does that tell us?",
+     "kid": "Which round was faster? Is the catalyst still standing in the middle?",
      "check": {
       "t": "mcq",
-      "q": "At the end of Round 2, the catalyst was still standing. What does that show about a real catalyst?",
+      "q": "At the end of Round 2, the catalyst was still standing in the middle, ready to help again. What does that show about a real catalyst?",
       "options": [
        "It is not used up by the reaction",
        "It is the slowest particle",
@@ -1730,19 +1723,6 @@
   },
   {
    "t": "mcq",
-   "p": "Your cells make a little hydrogen peroxide every day as they use oxygen. Why do they make catalase?",
-   "opts": [
-    "To break down the peroxide quickly before it harms them",
-    "To make foam for fun",
-    "To store the peroxide for later",
-    "To make the cell warm"
-   ],
-   "a": 0,
-   "why": "Too much hydrogen peroxide harms a cell. Catalase breaks it into harmless water and oxygen at once.",
-   "outcome": 5
-  },
-  {
-   "t": "mcq",
    "p": "In 1897 Eduard Buchner's team ground up yeast cells and squeezed out the juice. The juice held no whole yeast cells. What happened when he added sugar?",
    "opts": [
     "The juice still changed the sugar, making gas bubbles",
@@ -1777,7 +1757,7 @@
    "items": [
     {
      "t": "sort",
-     "p": "Farhan, a boy in Hyderabad, writes a list of changes in his home. Sort them: fast (seconds or minutes) or slow (days or more).",
+     "p": "Farhan, a boy in Kolkata, writes a list of changes in his home. Sort them: fast (seconds or minutes) or slow (hours or longer).",
      "cats": [
       "Fast",
       "Slow"
@@ -1818,14 +1798,6 @@
      "why": "False. A catalyst comes out the same at the end. The strained potato made fresh peroxide foam again."
     },
     {
-     "t": "fill",
-     "p": "A catalyst made by a living being is called an ____.",
-     "a": [
-      "enzyme"
-     ],
-     "why": "Enzymes are catalysts made by living cells, such as catalase and amylase."
-    },
-    {
      "t": "mcq",
      "p": "In the potato test, which cup was the control, the cup we compare the others with?",
      "opts": [
@@ -1836,6 +1808,14 @@
      "a": 0,
      "why": "The cup with no potato shows what the peroxide does on its own. Comparing with it shows what the potato changed.",
      "how": "e1"
+    },
+    {
+     "t": "fill",
+     "p": "When things get warmer, their particles move ____ and bump into each other more often.",
+     "a": [
+      "faster"
+     ],
+     "why": "More bumps, and harder ones, mean a reaction can go faster."
     },
     {
      "t": "draw",
@@ -2064,7 +2044,7 @@
     },
     {
      "t": "write",
-     "p": "A family in Delhi says their idli batter takes much longer to rise in winter than in summer. Explain why.",
+     "p": "A family in Shillong says their idli batter takes much longer to rise in winter than in summer. Explain why.",
      "lines": 4,
      "a": "In winter the kitchen is colder. The microbes and their enzymes work more slowly in the cold, so the batter rises more slowly.",
      "why": "A strong answer links cold to slower reactions, and mentions the microbes or enzymes."
@@ -2104,7 +2084,7 @@
     },
     {
      "t": "write",
-     "p": "Arjun says, 'Heat is a catalyst.' Is he right? Explain.",
+     "p": "A boy in your class, Arjun, says, 'Heat is a catalyst.' Is he right? Explain.",
      "lines": 3,
      "a": "No. Heat speeds up reactions, but it is not a substance. A catalyst is a substance that speeds up a reaction and is not used up.",
      "why": "A strong answer separates heat, which is energy, from a catalyst, which is a substance."
@@ -2193,7 +2173,7 @@
     },
     {
      "t": "write",
-     "p": "Iron rusts slowly in Chennai and much more slowly in dry Jaipur. Using what you know about speeding up reactions, suggest why.",
+     "p": "Iron grills rust faster in Chennai, near the sea, than in dry Jaipur. Suggest why.",
      "lines": 4,
      "a": "Rust needs water as well as oxygen. In Chennai the air near the sea is damp and salty, so more water touches the iron and rust grows faster.",
      "why": "A strong answer names water as something rust needs and links more water to faster rusting."
@@ -2203,6 +2183,13 @@
      "p": "Draw a picture that shows why a fine flour dust can burn in a flash but a heap of flour cannot.",
      "a": "Dust spread out in the air, with air around every grain, next to a heap where only the top grains touch the air.",
      "why": "A strong drawing shows that in the dust every grain touches air, so more surface reacts at once."
+    },
+    {
+     "t": "write",
+     "p": "A cook in Kochi grates a coconut before adding it to the curry, instead of dropping in a big piece. Using what you know about surface, explain why the grated coconut gives its taste faster.",
+     "lines": 4,
+     "a": "Grating breaks the coconut into many tiny pieces. This gives it much more surface, so more of it touches the hot curry at once and its taste spreads faster.",
+     "why": "A strong answer uses the word surface and links more surface to a faster change."
     },
     {
      "t": "truefalse",
@@ -2283,13 +2270,6 @@
      "why": "Each example shows one thing that changes how fast a reaction goes."
     },
     {
-     "t": "write",
-     "p": "A pharmacist keeps hydrogen peroxide in a brown bottle. A friend says that a clear bottle would be just as good. Plan a test to find out who is right.",
-     "lines": 5,
-     "a": "Put the same peroxide in a brown bottle and a clear bottle in the same sunny place. After some weeks, test each with the same amount of potato and compare the foam.",
-     "why": "A strong plan changes only the bottle and measures the result the same way."
-    },
-    {
      "t": "mcq",
      "p": "One catalase can break down millions of peroxide particles every second. What does this tell you about why only a little potato is needed?",
      "opts": [
@@ -2368,46 +2348,48 @@
   "Which changes in our kitchen today were fast, and which were slow?",
   "Why do we keep milk in the fridge? What would happen on the shelf?",
   "Do you think the rust on our grill is still growing today, right now?",
-  "Chew a mouthful of rice slowly at dinner. Does it start to taste sweet?",
-  "Why does the batter rise faster in summer?",
-  "Can you think of a person who helps others without being used up, like a catalyst?"
+  "Why does the batter rise faster in summer?"
  ],
  "jokes": [
-  {
-   "j": "Why did the potato win the science prize?",
-   "a": "It had a lot of catalase-ma."
-  },
-  {
-   "j": "Why was the iron gate never on time?",
-   "a": "It was too rusty to hurry."
-  },
-  {
-   "j": "What did the catalyst say after helping all day?",
-   "a": "Same as ever, ready for more!"
-  },
   {
    "j": "Why did the sparkler finish its homework first?",
    "a": "It always does things in a flash."
   },
   {
+   "j": "Why was the iron gate always late for school?",
+   "a": "It was too rusty to hurry."
+  },
+  {
    "j": "What did the hydrogen peroxide say to the potato?",
-   "a": "You really bring out the bubbly side of me."
+   "a": "You really bring out my bubbly side."
   },
   {
    "j": "Why don't slow reactions ever play hide and seek?",
    "a": "By the time they hide, everyone has gone home."
   },
   {
-   "j": "Why did the eggshell powder get ahead of the big shell?",
-   "a": "It had more surface to work with."
+   "j": "What did the dosa say to the hot tava?",
+   "a": "Things are heating up between us!"
   },
   {
-   "j": "What is a rusty nail's favourite month?",
-   "a": "Any month. It takes a lot of them."
+   "j": "Why was the idli batter so slow in winter?",
+   "a": "It stayed under the blanket and refused to rise."
   },
   {
-   "j": "Why did the enzyme never get tired at work?",
-   "a": "It never gets used up."
+   "j": "Why did the eggshell powder beat the big piece in the race?",
+   "a": "It brought all its friends along."
+  },
+  {
+   "j": "What did the iron gate say to the rain?",
+   "a": "Please stop. I rust my case!"
+  },
+  {
+   "j": "Why was the cracker invited to every party?",
+   "a": "It always arrived with a bang."
+  },
+  {
+   "j": "Why is a potato good at chemistry?",
+   "a": "It has eyes for the details and catalase for the rest."
   }
  ],
  "maths": [
@@ -2453,7 +2435,7 @@
    "why_maths": "Changing minutes into seconds lets us compare the speed of two changes in the same unit."
   },
   {
-   "problem": "Kavya measured foam in the Helper Hunt: potato 20 mm, carrot 12 mm, cucumber 6 mm, ginger 15 mm. Put them in order from most to least. How much more foam did potato make than cucumber?",
+   "problem": "Kavya, a girl in Class 3, measured foam in the Helper Hunt: potato 20 mm, carrot 12 mm, cucumber 6 mm, ginger 15 mm. Put them in order from most to least. How much more foam did potato make than cucumber?",
    "answer": "Potato, ginger, carrot, cucumber. Potato made 14 mm more than cucumber.",
    "explain": "20 is the biggest, then 15, then 12, then 6. 20 minus 6 is 14. These are made-up example results, and your own may be in a different order.",
    "math_unit": "math.number-sense.comparing-ordering.L3",
@@ -2462,7 +2444,7 @@
    "why_maths": "Putting numbers in order shows at a glance which vegetable's helper worked fastest."
   },
   {
-   "problem": "In the turmeric watch, Lakshmi gave each part a brightness score from 10 (bright) to 0 (white). Day 1: sunny half 10, covered half 10. Day 3: sunny half 4, covered half 9. Which part changed more, and by how much?",
+   "problem": "In the turmeric watch, Lakshmi, a girl in Mysuru, gave each part a brightness score from 10 (bright) to 0 (white). Day 1: sunny half 10, covered half 10. Day 3: sunny half 4, covered half 9. Which part changed more, and by how much?",
    "answer": "The sunny half changed by 6 points, the covered half by 1 point. The sunny half changed 5 points more.",
    "explain": "Sunny: 10 minus 4 is 6. Covered: 10 minus 9 is 1. 6 minus 1 is 5. These are made-up example scores.",
    "math_unit": "math.addition-subtraction.word-problems.L3",
@@ -2524,7 +2506,7 @@
    "id": "b-perox",
    "item": "Hydrogen peroxide solution, 3%, from a chemist's shop",
    "kind": "material",
-   "why": "Needed for the potato test, the Helper Hunt and the yeast foam. Many chemists sell a 6% kind, sometimes labelled '20 volume'. Mix it half and half with water to make about 3%.",
+   "why": "Weak hydrogen peroxide for the foam experiments. Many chemists sell a 6% kind, sometimes labelled '20 volume'. Mix it half and half with water to make about 3%.",
    "url": "https://www.amazon.in/s?k=hydrogen+peroxide+solution+3%25",
    "used_in": [
     "e1",
@@ -2661,7 +2643,7 @@
    "what_is_life": "A living being cannot cook their food on a stove inside them. So every living being, from yeast to a potato to you, makes enzymes to make their changes fast.",
    "what_is_this_world": "Everything around you is changing, some things in a second and some over many years. Iron grills, silver anklets and even rocks are changing now, only slowly."
   },
-  "thread": "A bottle of peroxide looks still, but it is breaking down a little all the time. Every substance carries changes it is ready for, most of them too slow to see. A catalyst does not add anything new to the world. It lets a change that was already possible happen now, and then it is free again. One small helper can change millions of particles. From one kind of helper, many changes come.",
+  "thread": "A bottle of peroxide looks still, but it is breaking down a little all the time. Every substance carries changes it is ready for, most of them too slow to see. It lets a change that was already possible happen now, and then it is free again. One small helper can change millions of particles.",
   "teachings": [
    {
     "source": "Heraclitus, fragment 12 (Diels-Kranz numbering), about 500 BCE",
@@ -2712,5 +2694,5 @@
   "when": "1897, with the Nobel Prize in 1907",
   "wrong_idea": "Louis Pasteur and many others thought that changing sugar into alcohol needed whole living yeast cells. Buchner's yeast juice, which held no whole cells, changed sugar too, which showed that enzymes made by the cells do the work."
  },
- "playtest": "Every experiment and activity was walked through on paper against its materials list, not tried in a kitchen. The potato test uses 3% hydrogen peroxide. Many Indian chemists sell 6% ('20 volume'), so the steps say to mix it half and half with water. Raw grated potato gives clear foam within a minute with a drop of dishwashing liquid. Boiled potato gives little or none. Old peroxide may give weak foam, so the step says to try a new bottle. The strained potato usually foams again, a little less. The eggshell test gives a vegetarian alternative, a broken seashell. The yeast foam is much smaller than online videos, which use strong peroxide, and the step says so. Turmeric fades fastest in strong sun, so the project says to keep going a day or two longer in cloudy weather. The rice-chewing activity may not taste sweet to every child, and the step says that is fine. Catalyst Tag needs at least three people. Faster Wins works alone. The spine fits about 85 minutes."
+ "playtest": "Every experiment and activity was walked through on paper against its materials list, not tried in a kitchen. The potato test uses 3% hydrogen peroxide. Many Indian chemists sell 6% ('20 volume'), so the steps say to mix it half and half with water. Raw grated potato gives clear foam within a minute with a drop of dishwashing liquid, and the raw and boiled cups get the same amount of potato. Boiled potato gives little or none. Old peroxide may give weak foam, so the step says to try a new bottle. The strained potato usually foams again, a little less. The first activity uses baking soda and lemon, so the core path needs no flame. The eggshell test gives a vegetarian alternative, a broken seashell. The yeast foam is much smaller than online videos, which use strong peroxide, and the step says so. Turmeric fades fastest in strong sun, so the project says to keep going a day or two longer in cloudy weather. The rice-chewing activity may not taste sweet to every child, and the step says that is fine. Faster Wins works alone or with two. Catalyst Race works with two people: a catalyst and a walker."
 }

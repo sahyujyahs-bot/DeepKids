@@ -33,13 +33,15 @@ The word acid comes from the Latin word acidus, which means sour. Many foods we 
 - e.g. Rasam tastes sour because of the tamarind and tomato in it.
 - e.g. Raw mango and amla taste sour because they contain acids.
 - e.g. Toilet cleaners often contain a strong acid. They are kept high up, away from children.
+- e.g. Kokum, which is used in Konkan curries and sol kadhi, tastes sour too.
 ### What a base is · *defined*
 **Definition:** A base is a substance that is the opposite of an acid. Bases turn red cabbage water blue, green or yellow. In water, bases feel slippery. A base that dissolves in water is called an alkali.
 
-Soap, detergent powder and cooking soda are bases. Soapy water feels slippery between your fingers. Bases also taste bitter, but we never taste them to find out. Weak bases like cooking soda are safe in small amounts, and we cook with it. Strong bases burn. Chuna, the white lime paste used on betel leaves and for whitewash, is a strong base. Drain cleaners are strong bases too. A strong base can hurt the eyes even more than an acid, so these stay with grown-ups only. Long ago, people made alkalis by soaking the ashes of burnt plants in water. That is where the word alkali comes from: the Arabic al-qaly, the ashes.
+Soap, detergent powder and cooking soda are bases. Soapy water feels slippery between your fingers. Bases also taste bitter, but we never taste them to find out. Weak bases like cooking soda are safe in small amounts, and we cook with it. Strong bases burn. Chuna, the white lime paste used on betel leaves and for whitewash, is a strong base. Drain cleaners are strong bases too. A strong base can hurt the eyes even more than an acid, so these stay with grown-ups only. Long ago, people made alkalis by soaking the ashes of burnt plants in water. That is where the word alkali comes from: the Arabic al-qaly, the ashes. Cooks in Assam still do this to make khar, a dish of raw papaya and pulses, using water filtered through burnt banana peel.
 - e.g. Cooking soda makes bajji and dhokla batter puff up.
 - e.g. Detergent powder in water feels slippery, because it is a base.
 - e.g. Chuna in a paan shop is a strong base. It can burn the mouth and eyes if it is used carelessly.
+- e.g. In Assam, khar is cooked with the ashy water from burnt banana peel, which is an alkali.
 ### How red cabbage water shows acids and bases · *defined*
 **Definition:** An indicator is a substance whose colour changes with how acidic or basic a liquid is. Red cabbage water is an indicator because of its purple pigment, anthocyanin.
 
@@ -57,7 +59,7 @@ People used to sort liquids into two boxes: acids and alkalis. But liquids are n
 ### When an acid meets a base · *defined*
 **Definition:** When an acid and a base are mixed, they react and use each other up. This is called neutralising. The mixture moves towards neutral, and a salt and water are made.
 
-Drop lemon juice on cooking soda and it fizzes. The acid and the base react, and the bubbles are a gas called carbon dioxide. Now try it in cabbage water. Pink lemony cabbage water turns purple again when you add enough soda water. Add more soda water, and it goes on to blue and then green. So you can move a liquid along the colour line in both directions. The acid particles from the lemon join up with base particles from the soda and make water. Class 4 goes further into this, with antacid tablets and the acid in our stomach.
+Drop lemon juice on cooking soda and it fizzes. The acid and the base react, and the bubbles are a gas called carbon dioxide. Now try it in cabbage water. Pink lemony cabbage water turns purple again when you add enough soda water. Add more soda water, and it goes on to blue and then green. So you can move a liquid along the colour line in both directions. The acid particles from the lemon join up with base particles from the soda and make water. Later units go further into this, with antacid tablets and the acid in our stomach.
 - e.g. Lemon juice dripped on cooking soda fizzes for a few seconds.
 - e.g. Dosa and idli batter sometimes get a pinch of cooking soda. It reacts with the sour batter and makes extra bubbles of gas, so the idlis come out light.
 ### Living beings that make acids · *defined*
@@ -66,7 +68,7 @@ Drop lemon juice on cooking soda and it fizzes. The acid and the base react, and
 The bacteria who turn milk into curd have a problem. Many other microbes want to eat the same milk. So curd bacteria eat the milk sugar and give out lactic acid. The milk turns sour and thick. Many of the microbes that would spoil milk grow badly in sour milk, so the curd bacteria keep the milk for themselves. That is also why curd keeps longer than milk. Weaver ants, the orange-red ants who build nests of leaves in mango trees, must guard their nests against much bigger animals. They bite, and then they squirt formic acid into the bite. It stings, so the attacker goes away. Formic acid is named after ants: formica is the Latin word for ant. Your own stomach makes a strong acid too. It helps break down food and kills many germs that you swallow.
 - e.g. Curd set overnight in a warm kitchen is more sour than curd set for a few hours.
 - e.g. A weaver ant's bite stings because of the formic acid squirted into it.
-- e.g. Idli and dosa batter turns sour as it ferments, because bacteria in it make acid.
+- e.g. Idli, dosa and white dhokla batter turn sour as the batter ferments, because the bacteria in the batter make acid.
 ### Why red cabbage is purple · *idea*
 **Definition:** Scientists think the purple anthocyanin pigments help protect a plant's leaves from strong sunlight and from cold. They are still studying exactly how.
 
@@ -101,12 +103,12 @@ Green cabbage and red cabbage are the same kind of plant. Red cabbage makes a lo
 ## Roots
 We have tested sour and soapy liquids and lined them up by colour. Now we ask what the colour line tells us about ourselves and the world.
 
-**Deep truth.** Your cabbage water turned pink in lemon juice, purple in plain water and green in detergent water. Buttermilk, soda and soap gave the colours in between. So sour and soapy are the two ends of one line. Every watery liquid sits somewhere on that line, and the colour shows where.  
+**Deep truth.** Cabbage water turned pink in lemon juice, purple in plain water and green in detergent water. Buttermilk, soda and soap gave the colours in between. So sour and soapy are two ends of one line. The colour shows where each liquid sits.  
 *Habit it breaks:* We sort things into two boxes, acid or base, as if there were nothing between them. The many in-between colours show a smooth line, and neutral water is just one place on it.  
 *Evidence:* In the Cabbage Colour Line, every liquid found its own place between pink and green. In Lemon or Buttermilk, spoon by spoon of soda water moved the same glass along the line from pink to purple to blue.
 
 - *who am i:* Your tongue can taste where a food sits on the line. Sour foods are near the acid end. Your blood stays at almost the same place on the line all your life.
-- *what is life:* Curd bacteria make milk sour to keep it for themselves. Weaver ants squirt acid to guard their nests. Living beings use acids to live.
+- *what is life:* Curd bacteria make milk sour to keep the milk for themselves. Weaver ants squirt acid to guard their nests. Living beings use acids to live.
 - *what is this world:* Rain is a little acidic and the sea is a little basic. Every pond, river and soil has its own place on the line.
 
 Even plain water holds a tiny number of acid particles and base particles. In pure water there are exactly as many of each, so they balance. An acid tips the balance one way. A base tips it the other way. One balance, tipped by different amounts, gives every liquid its place, from lemon to soap. All the colours on your windowsill came from that one balance and one pigment.
@@ -119,11 +121,11 @@ Even plain water holds a tiny number of acid particles and base particles. In pu
 - Practice, One drop of lemon (3 min): Sit still and close your eyes. I will put one drop of lemon juice on your tongue. Notice where you feel the sourness first. Now notice your mouth filling with water. That is saliva. Keep still and feel the sourness slowly fade. Take three slow breaths. Where did the sourness go?
 - Ask: If sour and soapy are two ends of one line, is plain water a thing of its own, or just the middle of the line?
 - Ask: Your tongue tasted the lemon and the cabbage water showed it. Which one told you more?
-- Ask: Curd bacteria change milk to keep it for themselves. Is that cooking, or is it the bacteria's own way of living?
+- Ask: Curd bacteria change milk to keep the milk for themselves. Is that cooking, or is it the bacteria's own way of living?
 
 ## Deep and big questions
 - *deep:* Cabbage water showed many shades between pink and green. Where exactly does an acid stop and a base begin? (hint: Think about what plain water looked like, and about the in-between colours on each side of it.)
-- *deep:* The cabbage made its purple pigment for their own life, not for us. Why might a pigment that changes colour be useful to a plant? (hint: Think about the sunlight and cold a cabbage leaf meets, and about fruits and flowers with the same pigment.)
+- *deep:* The cabbage made the purple pigment for their own life, not for us. Why might a pigment that changes colour be useful to a plant? (hint: Think about the sunlight and cold a cabbage leaf meets, and about fruits and flowers with the same pigment.)
 - *deep:* Your tongue tastes sour, and the cabbage water shows pink. Are your tongue and the cabbage water noticing the same thing? (hint: Think about lemon, vinegar and curd. Which ones taste most sour, and which turned the water pinkest?)
 - *big:* Your stomach is full of acid, yet the stomach is not burnt by it. How might a body keep a strong acid in one place and not in another? (hint: Think of a pickle jar: what keeps the sour pickle from eating through the jar?)
 - *big:* Rain is a little acidic and the sea is a little basic. If people change the air, could the whole sea move along the line? (hint: Think about what made the rain acidic. The sea takes in that same gas from the air.)
@@ -189,8 +191,8 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
 
 ## Games
 ### g1 · Sour, Soapy or Neutral? a sorting card game (12 min)
-- **rules:** Lay the three heading cards in a row: Sour, Neutral, Soapy.; Shuffle the 18 cards and put them in a pile, front side up.; Take turns. Pick the top card, read it aloud, and place it under a heading. Say why.; Turn the card over to check. A right answer scores 1 point. A good reason scores 1 more point.; Playing alone, sort all 18 cards, then turn them over and count your right answers.; After all 18 cards, the most points wins.
-- **Printable cards: 18 two-sided cards: the thing on the front, the answer and the cabbage colour on the back:** Lemon juice (back: Sour (acid). Cabbage water turns pink or red.); Vinegar (back: Sour (acid). Cabbage water turns pink.); Tamarind water (back: Sour (acid). Cabbage water turns pink.); Curd (back: Sour (acid). Cabbage water turns pink-purple.); Buttermilk (back: Sour (acid), a weak one. Cabbage water turns pink-purple.); Tomato juice (back: Sour (acid). Cabbage water turns pinkish.); Amla juice (back: Sour (acid). Cabbage water turns pink.); Bath soap in water (back: Soapy (base). Cabbage water turns blue-green.); Detergent powder in water (back: Soapy (base). Cabbage water turns green.); Cooking soda in water (back: Soapy (base), a weak one. Cabbage water turns blue.); Washing soda in water (back: Soapy (base). Cabbage water turns green.); Chuna (lime paste) (back: Soapy (base), a strong one. Grown-ups only: it burns.); Toilet cleaner (back: Many are a strong acid. Grown-ups only: it burns.); Plain water (back: Neutral. Cabbage water stays purple.); Sugar water (back: Neutral. Cabbage water stays purple.); Salt water (back: Neutral. Salty is not sour. Cabbage water stays purple.); Milk (back: Almost neutral, a tiny bit acidic. Cabbage water stays purple or lilac.); Rainwater (back: A little sour (a weak acid), because it takes in carbon dioxide from the air.)
+- **rules:** Lay the three heading cards in a row: Sour, Neutral, Soapy.; Shuffle the 18 cards and put them in a pile, front side up.; Take turns. Pick the top card, read it aloud, and place it under a heading. Say why.; Turn the card over to check. A right answer scores 1 point. A good reason scores 1 more point.; Playing alone, sort all 18 cards, then turn them over and count your right answers.; After all 18 cards, the most points wins. A tie is fine: play again.
+- **Printable cards: 18 two-sided cards: the thing on the front, the answer and the cabbage colour on the back:** Lemon juice (back: Sour (acid). Cabbage water turns pink or red.); Vinegar (back: Sour (acid). Cabbage water turns pink.); Tamarind water (back: Sour (acid). Cabbage water turns pink.); Curd (back: Sour (acid). Cabbage water turns pink-purple.); Buttermilk (back: Sour (acid), a weak one. Cabbage water turns pink-purple.); Tomato juice (back: Sour (acid). Cabbage water turns pinkish.); Amla juice (back: Sour (acid). Cabbage water turns pink.); Bath soap in water (back: Soapy (base). Cabbage water turns blue-green.); Detergent powder in water (back: Soapy (base). Cabbage water turns green.); Cooking soda in water (back: Soapy (base), a weak one. Cabbage water turns blue.); Washing soda in water (back: Soapy (base). Cabbage water turns green.); Chuna (lime paste) (back: Soapy (base), a strong one. Grown-ups only: it burns.); Toilet cleaner (back: Sour (acid): many are a strong acid. Grown-ups only: it burns.); Plain water (back: Neutral. Cabbage water stays purple.); Sugar water (back: Neutral. Cabbage water stays purple.); Salt water (back: Neutral. Salty is not sour. Cabbage water stays purple.); Milk (back: Neutral. Milk is almost neutral, only a tiny bit acidic. Cabbage water stays purple or lilac.); Rainwater (back: Sour (acid), but only just. Rainwater takes in carbon dioxide from the air. Cabbage water turns pale pink-purple.)
 - **Printable cards: 3 heading cards:** SOUR (acid); NEUTRAL; SOAPY (base)
 - **s1 (2 min)**  
   *Parent does:* Lay out the heading cards and shuffle the pile.  
@@ -203,15 +205,15 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
   - Check: The card says 'Salt water'. Where does it go? → **Neutral**
 - **s3 (2 min)**  
   *Parent does:* Look at the Grown-ups only cards together.  
-  *Parent says:* Chuna and toilet cleaner go at the two far ends. What do they have in common?  
+  *Parent says:* Chuna is a strong base and toilet cleaner is a strong acid. They sit under different headings. What do they have in common?  
   *Child mode:* Chuna and toilet cleaner. Why are they for grown-ups only?
-  - Note: They are at opposite ends of the line, but both are strong, so both burn. Strength matters more than which side a thing is on.
+  - Note: They are on opposite sides of the line, but both are strong, so both burn. Strength matters more than which side a thing is on.
 ### g2 · Back to Purple: a colour line board game (15 min)
-- **rules:** Each player draws a start card and puts their token on that square.; Shuffle the action cards into a pile, face down.; On your turn, draw an action card, read the front aloud, say which way you think you will move, then read the back and move.; You cannot move past square 1 or square 13. Stop at the end square.; If you land exactly on square 7, purple, you win. If you pass it, keep playing from where you are.; When the pile runs out, shuffle it and use it again.
+- **rules:** Each player draws a start card and puts their token on that square. Two tokens may share a square.; Shuffle the action cards into a pile, face down.; On your turn, draw an action card, read the front aloud, say which way you think you will move, then read the back and move.; You cannot move past square 1 or square 13. Stop at the end square.; If you land exactly on square 7, purple, you win. If a card takes you across square 7, you do not stop there: keep playing from where you land.; When the pile runs out, shuffle it and use it again. If nobody has landed on purple after the pile has been used twice, the player closest to square 7 wins.; Two players can play, and up to four.
 - **Printable board: 13 squares in a row, coloured and numbered from 1 at the pink end to 13 at the green end:** 1: red (strong acid); 2: red-pink; 3: pink; 4: pink; 5: pink-purple; 6: lilac; 7: PURPLE (neutral, the winning square); 8: violet-blue; 9: blue; 10: blue-green; 11: green; 12: green; 13: yellow-green (strong base)
 - **Printable cards: 6 start cards:** Start: lemon juice (back: Put your token on square 2.); Start: vinegar (back: Put your token on square 3.); Start: buttermilk (back: Put your token on square 5.); Start: cooking soda water (back: Put your token on square 9.); Start: soapy water (back: Put your token on square 10.); Start: detergent water (back: Put your token on square 12.)
 - **Printable cards: 24 action cards:** Add a spoon of lemon juice. (back: Move 2 squares towards pink.); Add a spoon of lemon juice. (back: Move 2 squares towards pink.); Add a spoon of lemon juice. (back: Move 2 squares towards pink.); Add a spoon of vinegar. (back: Move 2 squares towards pink.); Add a spoon of vinegar. (back: Move 2 squares towards pink.); Add a spoon of buttermilk. (back: Move 1 square towards pink.); Add a spoon of buttermilk. (back: Move 1 square towards pink.); Add a spoon of buttermilk. (back: Move 1 square towards pink.); Add a spoon of cooking soda water. (back: Move 1 square towards green.); Add a spoon of cooking soda water. (back: Move 1 square towards green.); Add a spoon of cooking soda water. (back: Move 1 square towards green.); Add a spoon of soapy water. (back: Move 2 squares towards green.); Add a spoon of soapy water. (back: Move 2 squares towards green.); Add a spoon of detergent water. (back: Move 2 squares towards green.); Add a spoon of detergent water. (back: Move 2 squares towards green.); Add a spoon of sugar water. (back: Sugar is neutral. Stay where you are.); Add a spoon of sugar water. (back: Sugar is neutral. Stay where you are.); Add a spoon of salt water. (back: Salt is neutral. Stay where you are.); Add a spoon of salt water. (back: Salt is neutral. Stay where you are.); Add a big jug of plain water. (back: Lots of water makes it weaker. Move 1 square towards purple.); Add a big jug of plain water. (back: Lots of water makes it weaker. Move 1 square towards purple.); Add a big jug of plain water. (back: Lots of water makes it weaker. Move 1 square towards purple.); Your choice: lemon or soda. (back: Move 1 square towards pink or 1 square towards green. You choose.); Your choice: lemon or soda. (back: Move 1 square towards pink or 1 square towards green. You choose.)
-- **Printable tokens: 4 player tokens:** token 1; token 2; token 3; token 4
+- **Printable tokens: 4 player tokens (or use coins or buttons):** token 1; token 2; token 3; token 4
 - **s1 (3 min)**  
   *Parent does:* Set out the board and tokens. Each player draws a start card.  
   *Parent says:* You are a glass of cabbage water with something added. Where are you on the line? Your goal is to get back to purple.  
@@ -236,10 +238,10 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
 - **record:** Fill in the table. Then colour a long strip with a box for each liquid in the order of your line, from pinkest to greenest, and write the liquid's name under each box.
 - **results table:** Liquid | My guess: pink, purple or blue-green? | Colour I saw | Acid, neutral or base? | Place in the line (1 = pinkest)
 - **s1 (7 min) · grown-up needed**  
-  *Parent does:* 1. Tear two red cabbage leaves into the mixie jar. 2. Add two cups of water. 3. Blend for about 30 seconds. 4. Pour it through a tea strainer into a jug.  
+  *Parent does:* 1. Tear three red cabbage leaves into the mixie jar. 2. Add three cups of water. 3. Blend for about 30 seconds. 4. Pour it through a tea strainer into a jug.  
   *Parent says:* We are making cabbage water. The purple colour in the leaves will come out into the water. Look how dark it is.  
-  *Child mode:* Tear two cabbage leaves into the mixie jar. Add water. A grown-up blends it. Pour it through the strainer.
-  - Note: The water should come out dark purple. If it looks very dark, add another cup of water, so the colour changes are easier to see. Cabbage water keeps for two or three days in the fridge.
+  *Child mode:* Tear three cabbage leaves into the mixie jar. Add water. A grown-up blends it. Pour it through the strainer.
+  - Note: The water should come out dark purple. If it looks very dark, add another cup of water, so the colour changes are easier to see. Cabbage water keeps for two or three days in the fridge. If you saved some from The Purple Surprise, add it.
 - **s2 (5 min)**  
   *Parent does:* 1. Put nine clear glasses on a white sheet of paper. 2. Pour a quarter cup of cabbage water into each. 3. Put a label in front of each glass with a liquid's name. One label says 'plain water'.  
   *Parent says:* Each glass gets the same amount of cabbage water. Why do you think we keep one glass for plain water?  
@@ -252,10 +254,10 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
   *Child mode:* Guess the colour for each liquid. Pink, purple, or blue-green? Say why.
   - Note: Do not tell them the answers. Children often guess that salt water will change the colour because salt tastes strong. Let the test answer it.
 - **s4 (10 min) · grown-up needed**  
-  *Parent does:* 1. Add two teaspoons of the first liquid to its glass. 2. Stir and look. 3. Write the colour. 4. Rinse the spoon and go on to the next liquid.  
+  *Parent does:* 1. Add two teaspoons of plain water to the plain water glass. 2. Add two teaspoons of the first liquid to its glass. 3. Stir and look. 4. Write the colour. 5. Rinse the spoon and go on to the next liquid.  
   *Parent says:* Add two spoons and watch closely. Compare it with the plain water glass. What colour is it now?  
   *Child mode:* Add two spoons of one liquid. Stir. Compare it with the plain water. Write the colour.
-  - Note: What you should see: lemon juice makes a bright pink or red. Vinegar or amla juice makes pink. Buttermilk makes a soft pink-purple. Sugar water and salt water stay purple, like the plain water. Cooking soda water turns blue or blue-green. Soapy water turns blue-green. Detergent water turns green, sometimes with a yellow tint. If your tap water makes the control glass bluish, that is fine: compare every glass with it. Rinse the spoon each time, or the colours will mix.
+  - Note: What you should see: lemon juice makes a bright pink or red. Vinegar or amla juice makes pink. Buttermilk makes a soft pink-purple, and the change can be faint: compare it with the plain glass. Sugar water and salt water stay purple, like the plain water. Cooking soda water turns blue or blue-green. Soapy water turns blue-green. Detergent water turns green, sometimes with a yellow tint. If your tap water makes the control glass bluish, that is fine: compare every glass with it. Rinse the spoon each time, or the colours will mix.
 - **s5 (4 min)**  
   *Parent does:* Ask your child to move the glasses into one row, from the pinkest to the greenest.  
   *Parent says:* Now make a line. Put the pinkest glass at one end and the greenest at the other. Where does each glass go?  
@@ -270,7 +272,6 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
 - **question:** Pink cabbage water made with lemon juice, and pink cabbage water made with buttermilk: which one needs more spoons of soda water to turn purple again?
 - **predict:** Which glass do you think will need more spoons of soda water to turn purple: the lemon glass or the buttermilk glass? Why do you think so?
 - **fair test:** Both glasses get a quarter cup of cabbage water and one teaspoon of the sour liquid. Both get the same soda water, one teaspoon at a time, stirred each time. Stop counting when the glass is the same purple as a glass of plain cabbage water.
-- **safety:** Taste nothing in this test. Cooking soda and lemon are safe to handle, but keep them out of eyes.
 - **record:** Fill in the table. Draw the two glasses at the start and at the end, and write the number of spoons under each.
 - **results table:** Sour liquid | Colour at the start | My guess: spoons to purple | Spoons of soda water to purple | Colour after 3 more spoons
 - **s1 (5 min)**  
@@ -287,26 +288,26 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
   *Parent does:* 1. Add one teaspoon of soda water to the lemon glass. 2. Stir and compare it with the plain glass. 3. Make a tally mark. 4. Repeat until it matches the purple. 5. Do the same with the buttermilk glass.  
   *Parent says:* One spoon, stir, and look. Is it purple yet? Keep count with tally marks.  
   *Child mode:* Add one spoon of soda water. Stir. Look. Make a tally mark. Keep going until it is purple.
-  - Note: You may see tiny bubbles in the lemon glass. That is carbon dioxide, made as the acid and the soda react. The lemon glass usually needs several spoons, often five or more. The buttermilk glass usually needs only one or two. Your numbers will depend on your lemon and your curd. That is fine: what matters is which needs more.
+  - Note: You may see tiny bubbles in the lemon glass. That is carbon dioxide, made as the acid and the soda react. The lemon glass usually needs several spoons, often five or more. The buttermilk glass usually needs only one or two. Your numbers will depend on your lemon and your curd. That is fine: what matters is which needs more. If the buttermilk glass already looks like the plain glass, write 0 spoons: that is a real result.
 - **s4 (3 min)**  
-  *Parent does:* Add three more spoons of soda water to the lemon glass, and watch.  
-  *Parent says:* It is purple now. What do you think will happen if we keep adding soda water?  
-  *Child mode:* Add three more spoons. What colour does it go now?
-  - Note: It should go on to blue, and perhaps blue-green. The same glass has travelled from the pink end, past the middle, towards the green end.
+  *Parent does:* Add three more spoons of soda water to each glass, and watch.  
+  *Parent says:* Both glasses are purple now. What do you think will happen if we keep adding soda water?  
+  *Child mode:* Add three more spoons to each glass. What colour does each go now?
+  - Note: Both should go on to blue, and perhaps blue-green. Each glass has travelled from the pink end, past the middle, towards the green end.
   - Check: The lemon glass needed more spoons of soda water than the buttermilk glass. What does this show? → **The lemon juice had more acid in it to use up**
 - **s5 (5 min)**  
   *Parent does:* Ask for a claim, the evidence and the reasoning.  
   *Parent says:* What did you find? What did you see that shows it? Why do you think it happened?  
   *Child mode:* What did you find? What did you see? Why?
   - Note: A strong answer: 'Lemon juice has more acid than buttermilk. The lemon glass took six spoons to turn purple and the buttermilk took one. The soda water uses up the acid, so more acid needs more soda.'
-### e3 · Milk to Curd: does the colour change as the curd sets? (20 min, 2 days)
-- **question:** Does milk become more acidic as curd bacteria turn it into curd, and does curd keep getting more acidic the longer it sits?
+### e3 · Milk to Curd: does the colour change as the curd sets? (25 min, 2 days)
+- **question:** Does milk become more acidic as curd bacteria turn the milk into curd, and does curd keep getting more acidic the longer it sits?
 - **predict:** Which will turn cabbage water pinkest: fresh milk, curd set for one day, or curd set for two days? Why do you think so?
 - **fair test:** Use the same milk and the same spoon of starter curd for both katoris. Keep both katoris in the same place in the kitchen, covered. On the test day, put one teaspoon of each into a quarter cup of cabbage water, all at the same time, side by side.
 - **safety:** A grown-up boils the milk and checks it has cooled before the child touches it.
 - **record:** Fill in the table. Draw the three glasses side by side and colour them.
 - **results table:** Sample | How long it sat | My guess: colour | Colour I saw | Order: 1 = pinkest
-- **schedule:** day 1: Morning: set curd in katori A with half a cup of warm milk and half a teaspoon of curd. Cover it. (5 min); day 2: Morning: set curd in katori B the same way. Evening: make cabbage water and test fresh milk, katori B and katori A side by side. (15 min)
+- **schedule:** day 1: Morning: set curd in katori A with half a cup of warm milk and half a teaspoon of curd. Cover it. (5 min); day 2: Morning: set curd in katori B the same way. Evening: make cabbage water and test fresh milk, katori B and katori A side by side. (20 min)
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Pour half a cup of warm milk into katori A. 2. Stir in half a teaspoon of curd. 3. Cover it and label it 'A, Day 1'. 4. Keep it in a warm corner of the kitchen.  
   *Parent says:* The curd we add is full of living bacteria. They will eat the milk sugar. Feel the milk first: is it just warm?  
@@ -316,19 +317,19 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
   *Parent does:* On day 2 in the morning, set katori B the same way, and label it 'B, Day 2'. Look at katori A.  
   *Parent says:* Katori A has set. Smell it. Has it changed since yesterday? Now we start katori B with the same milk.  
   *Child mode:* Set katori B the same way. Look at katori A. Smell it. Is it sour?
-  - Note: Use milk from the same packet if you can, so only the time changes.
+  - Note: Use milk from the same packet if you can, so only the time changes. In a cold room, katori B may not have set by the evening. If so, test it anyway and say so: it is a real result.
   - Wait: Set katori B on the morning of day 2. Test in the evening.
-- **s3 (3 min)**  
-  *Parent does:* In the evening, ask for a guess and a reason before testing.  
+- **s3 (8 min) · grown-up needed**  
+  *Parent does:* 1. Make cabbage water as in the Cabbage Colour Line test: blend two cabbage leaves with two cups of water and strain it. 2. Ask for a guess and a reason before testing.  
   *Parent says:* Fresh milk, katori B and katori A. Which will make the cabbage water pinkest? Why do you think so?  
-  *Child mode:* Which one will be pinkest? Milk, B or A? Why?
+  *Child mode:* A grown-up blends the cabbage and water. Strain it. Which will be pinkest: milk, B or A? Why?
   - Ask: Why do you think so? (good: Katori A has had longest, so the bacteria have made the most acid.; Older curd tastes more sour.)
 - **s4 (5 min)**  
   *Parent does:* 1. Pour a quarter cup of cabbage water into three glasses on white paper. 2. Add one teaspoon of fresh milk to the first, katori B curd to the second, and katori A curd to the third. 3. Stir and compare.  
   *Parent says:* Hold the glasses close together. Which is the most purple? Which is the pinkest?  
   *Child mode:* Add milk to one glass. Add curd B to one. Add curd A to one. Which is pinkest?
   - Note: The milk glass should stay lilac-purple. Both curd glasses turn pinker, and the older curd is often a little pinker still. The milk makes all the colours pale, so look closely side by side. If B and A look the same, say so: that is a real result. It may mean most of the acid was made in the first hours.
-  - Check: The curd glasses were pinker than the milk glass. Where did the acid come from? → **The curd bacteria made it while they ate the milk sugar**
+  - Check: The curd glasses were pinker than the milk glass. Where did the acid come from? → **The curd bacteria made the acid while they ate the milk sugar**
 - **s5 (2 min)**  
   *Parent does:* Talk about why the bacteria make acid.  
   *Parent says:* Many other microbes would like to eat this milk too. Most of them do not grow well in sour milk. How does the acid help the curd bacteria?  
@@ -373,7 +374,6 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
   *Child mode:* Why should we never taste a liquid to test it?
   - Check: Meena, a girl in Class 3, finds a bottle with no label. How should she find out if it is an acid? → **Give it to a grown-up and never taste or smell it**
 ### a3 · The Fizz Test: lemon on cooking soda (10 min)
-- **safety:** Keep the fizz away from eyes. Do not eat the mixture.
 - **record:** Draw the three heaps after the lemon drops, and write which ones fizzed.
 - **s1 (3 min)**  
   *Parent does:* Make three small heaps on the plate: cooking soda, salt and sugar. Ask for a guess.  
@@ -381,7 +381,7 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
   *Child mode:* Three white heaps. What will lemon juice do to each? Guess and say why.
 - **s2 (4 min)**  
   *Parent does:* Drip lemon juice on each heap in turn. Listen and look closely.  
-  *Parent says:* Put your ear close, but not your eyes. What do you hear? What do you see?  
+  *Parent says:* Put your ear close and listen. What do you hear? What do you see?  
   *Child mode:* Drip lemon on each heap. Listen. Look. Which one fizzes?
   - Note: Only the cooking soda fizzes. The bubbles are carbon dioxide gas, made when the acid and the base react. Salt and sugar are neutral, so nothing happens.
 - **s3 (3 min)**  
@@ -410,7 +410,7 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
 
 ## Projects
 ### p1 · Make Your Own Cabbage Test Strips (35 min, 2 days)
-- **safety:** Taste nothing. Wash hands after dabbing soapy water.
+- **safety:** A grown-up runs the mixie.
 - **record:** Stick the tested strips in your notebook in order, from pink to green, and write the liquid under each.
 - **schedule:** day 1: Make strong cabbage water. Soak the paper strips. Hang them to dry overnight away from sunlight. (15 min); day 2: Dab four liquids on the dry strips. Make a colour key. Test two more liquids you choose. (20 min)
 - **s1 (8 min) · grown-up needed**  
@@ -421,7 +421,7 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
   *Parent does:* Hang the strips to dry indoors, away from direct sun.  
   *Parent says:* They need to dry overnight. Strong sun can fade the colour.  
   *Child mode:* Hang the strips up to dry. Leave them till tomorrow.
-  - Note: The dry strips will be pale purple or blue. Kitchen towel works well. Thick paper takes longer to dry.
+  - Note: The dry strips will be pale purple or blue, or a little greyer than the wet ones. Kitchen towel works well. Thick paper takes longer to dry. If a strip dried a different colour, compare every spot with a dab of plain water on a strip.
   - Wait: Leave the strips to dry overnight.
 - **s3 (10 min)**  
   *Parent does:* Next day, dab lemon juice, soda water, soapy water and plain water on four strips, one liquid each.  
@@ -436,11 +436,11 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
 
 ## Challenges
 ### c1 · A Rainbow in Six Glasses (25 min)
-- **problem:** Make a row of six glasses of cabbage water that go from red to pink, purple, blue, green and yellow-green, using only safe things from the kitchen and bathroom.
+- **problem:** Make a row of six glasses of cabbage water: red, pink, purple, blue, green and yellow-green, using only safe things from the kitchen and bathroom.
 - **your turn:** Now plan your own rainbow. Write down what you will put in each glass before you start, then test it and see which glasses you need to fix.
 - **constraints:** Use only cabbage water and safe home liquids: no cleaners, no chuna.; Every glass starts with the same amount of cabbage water.; The six colours must be clearly different when the glasses stand on white paper.
-- **general:** Use lemon juice for red, a little vinegar or buttermilk for pink, plain water for purple, cooking soda for blue, soapy water for blue-green and detergent water for green.; Change how much you add: more lemon makes a deeper red, and more detergent pushes green towards yellow.
-- **creative:** Make the in-between colours by mixing: a pink glass plus a little soda water makes violet.; Pour the colours in layers in one tall glass, very slowly over the back of a spoon, and see how long they stay apart.; Make the rainbow on paper with your cabbage test strips instead of glasses.
+- **general:** Use lemon juice for red, a little vinegar or buttermilk for pink, plain water for purple, soda water for blue, a little detergent water for green and a lot of detergent water for yellow-green.; Change how much you add: more lemon makes a deeper red, and more detergent pushes green towards yellow.
+- **creative:** Make the in-between colours by mixing: a pink glass plus a little soda water makes violet.; Pour a second colour slowly over the back of a spoon into a tall glass. The colours will mix quickly. Why do you think they do not stay in layers?; Make the rainbow on paper with your cabbage test strips instead of glasses.
 - **s1 (6 min)**  
   *Parent does:* Ask your child to write a plan for the six glasses.  
   *Parent says:* What will you add to each glass to get each colour? Use what you found in the Colour Line test.  
@@ -454,7 +454,7 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
   *Parent does:* Look at the row together and talk about what worked.  
   *Parent says:* Which colour was hardest to get? Why do you think so?  
   *Child mode:* Which colour was hardest? Why?
-  - Check: Kavya wants her blue glass to turn green. What should she add? → **More of a base, such as detergent water**
+  - Check: Kavya, a girl in Class 4, wants her blue glass to turn green. What should she add? → **More of a base, such as detergent water**
 ### c2 · Find a Colour Changer Without Cabbage (30 min)
 - **problem:** Find at least one plant or fruit at home, other than red cabbage, whose juice changes colour with lemon juice and with soda water.
 - **your turn:** Choose three plants to test. Guess first which ones will work and why, then test them.
@@ -490,61 +490,62 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
    **Answer:** ['indicator']. *Why:* Red cabbage water and turmeric are both indicators.
 5. (fill) A liquid that is neither an acid nor a base is called ____.  
    **Answer:** ['neutral']. *Why:* Neutral liquids, like plain water and sugar water, leave cabbage water purple.
-6. (truefalse) Salt tastes strong, so salt water turns cabbage water pink.  
-   **Answer:** False. *Why:* False. Salt water is neutral, so the cabbage water stays purple. Salty is a different taste from sour.
-7. (truefalse) In the Cabbage Colour Line test, every glass got the same amount of cabbage water, so that only the added liquid changed.  
+6. (truefalse) In the Cabbage Colour Line test, every glass got the same amount of cabbage water, so that only the added liquid changed.  
    **Answer:** True. *Why:* True. Keeping everything else the same is what makes it a fair test. Then any colour difference comes from the liquid.
-8. (match) Match each food to the acid it contains.  
+7. (match) Match each food to the acid it contains.  
    **Answer:** Lemon → citric acid; Vinegar → acetic acid; Curd → lactic acid; Tamarind → tartaric acid. *Why:* Each of these sour foods has its own weak acid. All of them turn cabbage water pink.
-9. (order) In the Cabbage Colour Line test, put these glasses in order from pinkest to greenest.  
+8. (order) In the Cabbage Colour Line test, put these glasses in order from pinkest to greenest.  
    **Answer:** ['lemon juice', 'buttermilk', 'plain water', 'soapy water']. *Why:* Lemon juice is the strongest acid here, so it is pinkest. Buttermilk is a weak acid, a soft pink-purple. Plain water is neutral and stays purple. Soapy water is a base and turns blue-green.
-10. (write) In the Cabbage Colour Line test, one glass got only plain water. Why was that glass important?  
-   **Answer:** It showed the colour of cabbage water with nothing sour or soapy added. Every other glass could be compared with it, to see if it had changed.. *Why:* A strong answer says the plain glass is for comparing. Scientists call it a control.
-11. (write) Why should you never taste a liquid to find out if it is an acid?  
-   **Answer:** It could be a strong acid or base, like a toilet cleaner or chuna, which can burn the mouth. An indicator like cabbage water tells you safely.. *Why:* A strong answer names the danger, burning, and says what to use instead.
-12. (draw) Draw three glasses of cabbage water: one with lemon juice, one with plain water and one with soapy water. Colour each glass the colour you saw, and label it acid, neutral or base.  
+9. (draw) Draw three glasses of cabbage water: one with lemon juice, one with plain water and one with soapy water. Colour each glass the colour you saw, and label it acid, neutral or base.  
    **Answer:** Lemon glass pink, labelled acid. Plain water glass purple, labelled neutral. Soapy water glass blue-green, labelled base.. *Why:* A strong drawing uses the colours from the child's own test and labels each glass correctly.
-13. (perspective) Lakshmi's family is deciding how to clean the dull brass lamp before Karthigai Deepam.  
+10. (perspective) Lakshmi, a girl aged 9, and her family are deciding how to clean the dull brass lamp before Karthigai Deepam.  
    **Answer:** A strong answer picks one side and backs it with a fact. For example: 'I agree with Lakshmi, because lemon is a weak acid, safe to touch, and a strong cleaner can burn skin.' Then it says what another side has right: 'But Paati is right too, because tamarind also has an acid, and Amma is right that a strong cleaner is faster for a grown-up.'. *Why:* There is no single right answer. Lemon and tamarind both clean brass because their weak acids dissolve the dull coating. A good answer uses what the unit taught: strong acids and bases burn, weak ones are safe to handle.
-14. (write) Cooking soda fizzes when lemon juice drips on it, but salt does not. Why?  
+11. (write) Cooking soda fizzes when lemon juice drips on it, but salt does not. Why?  
    **Answer:** Cooking soda is a base and lemon juice has acid, so they react and make carbon dioxide bubbles. Salt is neutral, so nothing reacts.. *Why:* A strong answer names the acid, the base, and the gas.
-15. (mcq) Why does your hand feel slippery after you rub it in soapy water?  
+12. (mcq) Why does your hand feel slippery after you rub it in soapy water?  
    Options: Soap is a base, and bases in water feel slippery / Soap is an acid / The water is warm  
    **Answer:** Soap is a base, and bases in water feel slippery. *Why:* Bases in water feel slippery. Soap and detergent are bases.
+13. (fill) Strong acids and strong bases can ____ skin and eyes.  
+   **Answer:** ['burn']. *Why:* Weak acids and bases, like lemon and cooking soda, are safe in food. Strong ones burn, so only grown-ups handle them.
+14. (mcq) In The Purple Surprise, a squeeze of lemon turns purple cabbage water pink. What is the pink telling you?  
+   Options: The lemon juice has an acid in it / The lemon juice is a base / The cabbage water has gone off  
+   **Answer:** The lemon juice has an acid in it. *Why:* Pink is the colour of an acid in cabbage water. Lemon tastes sour because of its citric acid.
+15. (write) Name two sour foods and one soapy thing from your home. How would you use cabbage water to check that you are right?  
+   **Answer:** For example: lemon and tamarind are sour, and bath soap is soapy. Put a little of each in its own glass of cabbage water. The sour foods should turn it pink, and the soap should turn it blue or green.. *Why:* A strong answer gives a test for each thing and says which colour would show it is an acid or a base.
 ### Along the Colour Line (stretch) (stretch, 15 questions)
 1. (write) Cabbage water turns pink in lemon juice and only pink-purple in buttermilk. What does that tell you about the two liquids?  
    **Answer:** Both are acids, but lemon juice is a stronger acid than buttermilk. The pinker the colour, the more acidic the liquid.. *Why:* A strong answer says both are acids and compares how strong they are using the colour.
-2. (mcq) In the Lemon or Buttermilk test, the lemon glass needed 6 spoons of soda water to turn purple. The buttermilk glass needed 1. Which had more acid?  
-   Options: The lemon glass / The buttermilk glass / They had the same  
-   **Answer:** The lemon glass. *Why:* Each spoon of soda water uses up some acid. More spoons means more acid was there to use up.
-3. (order) Put these on the pH scale, from the lowest number to the highest.  
+2. (order) Put these on the pH scale, from the lowest number to the highest.  
    **Answer:** ['lemon juice', 'buttermilk', 'pure water', 'cooking soda water', 'soapy water']. *Why:* Lemon is about 2, buttermilk about 4 or 5, pure water 7, cooking soda water about 8, soapy water about 9 or 10. Low numbers are acids and high numbers are bases.
-4. (truefalse) All acids are dangerous to eat.  
+3. (truefalse) All acids are dangerous to eat.  
    **Answer:** False. *Why:* False. Lemon, curd and tamarind contain weak acids, and we eat them every day. Only strong acids burn.
-5. (truefalse) Strong bases, like chuna and drain cleaner, can burn skin and eyes just like strong acids.  
-   **Answer:** True. *Why:* True. Strong bases can hurt eyes even more than strong acids. Strength matters, not which end of the line a thing is at.
-6. (fill) On the pH scale, the number for neutral is ____.  
+4. (fill) On the pH scale, the number for neutral is ____.  
    **Answer:** ['7', 'seven']. *Why:* Numbers below 7 are acids, numbers above 7 are bases.
-7. (match) Match each living being to how acid helps their life.  
+5. (match) Match each living being to how acid helps their life.  
    **Answer:** Curd bacteria → keep the milk for themselves, because many other microbes grow badly in sour milk; Weaver ants → squirt formic acid into a bite to drive attackers away from the nest; Your stomach → uses a strong acid to break down food and kill many germs. *Why:* Each of these living beings makes acid for a reason that helps their own life.
-8. (mcq) Sneha, a girl in Class 3, adds soda water spoon by spoon to pink lemony cabbage water. What colours will she see, in order?  
-   Options: Pink, then purple, then blue / Pink, then red, then yellow / It stays pink  
-   **Answer:** Pink, then purple, then blue. *Why:* Soda water is a base. It uses up the acid, so the colour moves from pink back to purple, and then on towards blue as more base is added.
-9. (draw) Draw a long strip for the colour line. Colour it from pink at one end to green at the other. Put these on it in the right place: lemon, buttermilk, water, soda water, detergent water.  
+6. (draw) Draw a long strip for the colour line. Colour it from pink at one end to green at the other. Put these on it in the right place: lemon, buttermilk, water, soda water, detergent water.  
    **Answer:** Pink end: lemon, then buttermilk a little towards the middle. Purple middle: water. Then soda water in the blue part, and detergent water in the green part near the end.. *Why:* A strong drawing puts the weak acid closer to the middle than the strong one, and the strong base further out than the weak one.
-10. (write) Curd set for two days turned cabbage water a little pinker than curd set for one day. Explain why.  
+7. (write) Curd set for two days turned cabbage water a little pinker than curd set for one day. Explain why.  
    **Answer:** The curd bacteria kept eating milk sugar and giving out lactic acid. After two days they had made more acid, so the curd was more acidic and made the water pinker.. *Why:* A strong answer says the bacteria are alive and keep making acid over time.
-11. (perspective) Two friends argue about Lémery's old idea that acid particles have sharp spikes.  
-   **Answer:** A strong answer picks a side with a reason. For example: 'I agree with Arjun. A good idea must be something you can test. Chemists later tested acids and found they all have hydrogen.' And then: 'But Nila is right that Lémery's idea did explain what people could notice.'. *Why:* Both views have something true. A good scientific idea explains what we see and can also be tested.
-12. (mcq) Rain is a little acidic. Why?  
+8. (perspective) Two friends argue about Lémery's old idea that acid particles have sharp spikes.  
+   **Answer:** A strong answer picks a side with a reason. For example: 'I agree with Joseph. A good idea must be something you can test. Chemists later tested acids and found they all have hydrogen.' And then: 'But Nila is right that Lémery's idea did explain what people could notice.'. *Why:* Both views have something true. A good scientific idea explains what we see and can also be tested.
+9. (mcq) Rain is a little acidic. Why?  
    Options: Rain takes in carbon dioxide from the air / Rain falls on lemons / Clouds are made of vinegar  
    **Answer:** Rain takes in carbon dioxide from the air. *Why:* Carbon dioxide from the air dissolves in rain drops and makes a very weak acid. That is why even clean rain is about 5 to 6 on the pH scale.
-13. (sort) Sort these into safe for children to test with a grown-up nearby, and grown-ups only.  
-   **Answer:** lemon juice → Safe to test; cooking soda water → Safe to test; buttermilk → Safe to test; toilet cleaner → Grown-ups only; chuna → Grown-ups only; drain cleaner → Grown-ups only. *Why:* Weak acids and bases from food are safe. Strong acids and bases burn, so only grown-ups handle them, and never for experiments.
-14. (write) A family cooks red cabbage with a pinch of cooking soda, and it turns blue. What could they add at the end to bring back a pink-purple colour? Why would that work?  
+10. (write) A family cooks red cabbage with a pinch of cooking soda, and it turns blue. What could they add at the end to bring back a pink-purple colour? Why would that work?  
    **Answer:** A squeeze of lemon juice, or a little vinegar. These are acids, so they move the colour back from the base side towards pink.. *Why:* A strong answer names an acid and says it moves the colour back along the line.
-15. (fill) The gas that makes the bubbles when lemon juice drips on cooking soda is called ____ ____.  
+11. (fill) The gas that makes the bubbles when lemon juice drips on cooking soda is called ____ ____.  
    **Answer:** ['carbon dioxide']. *Why:* Acids react with cooking soda and give off carbon dioxide gas.
+12. (mcq) Buttermilk is a weak acid. Which pH number could it have?  
+   Options: About 4 or 5 / About 7 / About 12  
+   **Answer:** About 4 or 5. *Why:* Acids have numbers below 7. Buttermilk is only a weak acid, so its number is a little below 7, not far below like lemon juice.
+13. (truefalse) Tomato juice turns cabbage water pinkish, so tomato juice contains an acid.  
+   **Answer:** True. *Why:* True. Pink in cabbage water means an acid. Tomato has a weak acid, so the pink is soft.
+14. (mcq) On a dry cabbage test strip, a spot of toothpaste mixed with water turns green. What kind of liquid is it?  
+   Options: A base / An acid / Neutral  
+   **Answer:** A base. *Why:* Green means a base. Acids make the strip pink, and neutral liquids leave it as it was.
+15. (fill) The purple pigment in red cabbage is called ____.  
+   **Answer:** ['anthocyanin']. *Why:* Anthocyanin also colours jamun, black grapes and butterfly pea flowers.
 ### Acid Detectives (challenge) (challenge, 15 questions)
 1. (write) Turmeric shows only two colours: yellow in acids and neutral liquids, red in bases. Red cabbage water shows many colours. If you wanted to know which of two sour liquids is more sour, which indicator would you choose, and why?  
    **Answer:** Red cabbage water, because it shows different shades of pink for weaker and stronger acids. Turmeric stays yellow for every acid, so it cannot tell two acids apart.. *Why:* A strong answer explains that you need an indicator with many shades on the acid side.
@@ -553,7 +554,7 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
 3. (mcq) Meenakshi, a girl in Class 4, adds a big jug of plain water to pink lemony cabbage water. What will most likely happen?  
    Options: It becomes a paler pink, a little closer to purple / It turns green / It turns bright red  
    **Answer:** It becomes a paler pink, a little closer to purple. *Why:* Water makes the acid weaker, so the colour moves a little towards neutral and gets paler. Plain water cannot turn an acid into a base, so it will never turn green.
-4. (write) Kavya says: 'Every liquid is either an acid or a base.' Use your Cabbage Colour Line results to say whether you agree.  
+4. (write) Kavya, a girl in Class 4, says: 'Every liquid is either an acid or a base.' Use your Cabbage Colour Line results to say whether you agree.  
    **Answer:** I do not agree. Sugar water and salt water stayed purple, the same as plain water, so they are neutral. And the acids and bases were not all the same: buttermilk was only a little pink and lemon was very pink. So liquids sit along a line, with neutral in the middle.. *Why:* A strong answer uses real results from the test: the neutral glasses and the in-between shades.
 5. (write) Design a fair test to find out whether amla juice or lemon juice is more acidic. Say what you would keep the same and what you would count or look at.  
    **Answer:** Put the same amount of cabbage water in two glasses. Add one teaspoon of amla juice to one and one teaspoon of lemon juice to the other. Compare how pink they turn. Then add soda water spoon by spoon to each and count how many spoons it takes to turn each one purple. More spoons means more acid.. *Why:* A strong answer keeps the amounts the same, changes only the juice, and says how to measure the result.
@@ -561,27 +562,27 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
    **Answer:** ['lemon juice', 'rainwater', 'pure water', 'sea water', 'detergent water']. *Why:* Lemon juice is about 2, rainwater about 5 to 6, pure water 7, sea water about 8, detergent water about 10 or 11.
 7. (truefalse) Drinking lemon water changes the pH of your blood.  
    **Answer:** False. *Why:* False. Your body keeps your blood very close to pH 7.4 all the time. Lemon juice cannot move it. If it moved much, you would be very ill.
-8. (mcq) Beetroot juice is deep red, but it hardly changes colour with lemon or soda. Why is it a poor indicator?  
-   Options: Its red pigment is a kind that hardly changes with acids and bases / It is too sweet / Red things never change colour  
-   **Answer:** Its red pigment is a kind that hardly changes with acids and bases. *Why:* Beetroot's red comes from a different kind of pigment from red cabbage. Anthocyanin pigments, in red cabbage, grapes and butterfly pea, change colour a lot.
-9. (draw) Draw what you think is happening, too small to see, when an acid and a base meet in water. Use one shape for the acid's hydrogen particles and another shape for the base's particles.  
+8. (draw) Draw what you think is happening, too small to see, when an acid and a base meet in water. Use one shape for the acid's hydrogen particles and another shape for the base's particles.  
    **Answer:** Two kinds of shapes moving about, then pairs joining into new shapes labelled water. Fewer free acid and base particles are left.. *Why:* A strong model shows the two kinds of particles joining, which is why the acid and base use each other up.
-10. (write) Weaver ants live in nests made of leaves, high in mango trees. Bigger animals sometimes attack the nest. How does formic acid help the ants?  
+9. (write) Weaver ants live in nests made of leaves, high in mango trees. Bigger animals sometimes attack the nest. How does formic acid help the ants?  
    **Answer:** The ants bite the attacker and squirt formic acid into the bite. It stings, so the attacker goes away and the nest stays safe.. *Why:* A strong answer starts with the ants' problem, attackers, then says how the acid solves it.
-11. (fill) The Danish chemist who gave liquids pH numbers in 1909 was Søren ____.  
+10. (fill) The Danish chemist who gave liquids pH numbers in 1909 was Søren ____.  
    **Answer:** ['Sørensen', 'Sorensen']. *Why:* Søren Sørensen made the pH scale at the Carlsberg Laboratory in Copenhagen.
-12. (match) Match each colour of cabbage water to what it means.  
+11. (match) Match each colour of cabbage water to what it means.  
    **Answer:** Red → a strong acid; Pink → a weaker acid; Purple → neutral; Blue → a weak base; Green → a stronger base. *Why:* The colours run in order along the line, from red at the acid end to green and yellow at the base end.
-13. (write) Dosa batter tastes more sour after a night of fermenting than when it was first ground. What do you think made the change? How could you test it with cabbage water?  
-   **Answer:** Bacteria in the batter ate some of its sugars and made acid overnight. To test it, put a spoon of fresh batter and a spoon of fermented batter into two glasses of cabbage water and compare. The fermented one should be pinker.. *Why:* A strong answer says living bacteria made the acid, and plans a fair comparison.
-14. (sort) Sort these by which way they move cabbage water along the line.  
+12. (write) Dosa batter tastes more sour after a night of fermenting than when it was first ground. What do you think made the change? How could you test it with cabbage water?  
+   **Answer:** Bacteria in the batter ate some of the batter's sugars and made acid overnight. To test it, put a spoon of fresh batter and a spoon of fermented batter into two glasses of cabbage water and compare. The fermented one should be pinker.. *Why:* A strong answer says living bacteria made the acid, and plans a fair comparison.
+13. (sort) Sort these by which way they move cabbage water along the line.  
    **Answer:** amla juice → Towards pink; washing powder → Towards green; tomato juice → Towards pink; cooking soda → Towards green; sugar → Stays the same; salt → Stays the same. *Why:* Acids move it towards pink, bases towards green, and neutral things leave it where it is.
-15. (truefalse) Lémery's spikes were never found, and today chemists explain acids with charged hydrogen particles instead.  
-   **Answer:** True. *Why:* True. Over 200 years after Lémery, chemists found that all acids contain hydrogen, and Arrhenius explained that acids give out charged hydrogen particles in water.
+14. (mcq) Cooks in Assam make khar with water filtered through the ash of burnt banana peel. What kind of liquid is the ashy water?  
+   Options: A base (an alkali) / An acid / Neutral, like plain water  
+   **Answer:** A base (an alkali). *Why:* Ash from burnt plants gives an alkali, which is a base that dissolves in water. That is where the word alkali comes from.
+15. (truefalse) Pure water has no acid particles and no base particles in it at all.  
+   **Answer:** False. *Why:* False. Even pure water holds a tiny number of both, in equal amounts. That balance is why it is neutral, at pH 7.
 
 ## Videos
 - **How To Make Red Cabbage Indicator With Kids At Home** (MEL Science, 4 min) id `xhEKyuY_SCA`: Shows how to make red cabbage water and test liquids with it, much like the Cabbage Colour Line test. Good to watch before you start, or after, to compare colours. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here, so the length is a guess and the liquids used may differ from ours: a parent should preview it.
-- **Color changing Tea** (Reactions, 3 min) id `ORl6EKQI1ws`: Explains why butterfly pea flower tea changes colour when lemon is added: the same kind of pigment as in red cabbage. Useful with the Colour Changer Without Cabbage challenge. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Reactions is the video channel of the American Chemical Society. Not watched from here, so the length is a guess: a parent should preview it.
+- **Color changing Tea** (Reactions, 3 min) id `ORl6EKQI1ws`: Shows butterfly pea flower tea changing colour when lemon juice is added. Useful with the Colour Changer Without Cabbage challenge. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Reactions is the video channel of the American Chemical Society. Not watched from here, so the length is a guess: a parent should preview it.
 - **Acids and Bases for Kids | Learn the difference between an acid and a base** (Learn Bright, 9 min) id `ivRczDkilAI`: A plain explanation for children of what acids and bases are, with everyday examples and the pH scale. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. A search listing gave the length as about 9 minutes. Not watched from here: a parent should preview it.
 
 ## Quiz
@@ -609,16 +610,13 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
 8. (mcq) Which of these is a strong base that only grown-ups should handle?  
    Options: Chuna (lime paste) / Cooking soda / Curd  
    **Answer:** Chuna (lime paste). *Why:* Chuna is a strong base and can burn skin and eyes. Cooking soda is a weak base and curd is a weak acid, both safe in food.
-9. (mcq) Lemon juice drips onto a small heap of cooking soda. What happens?  
-   Options: It fizzes with bubbles of carbon dioxide / Nothing happens / It turns into sugar  
-   **Answer:** It fizzes with bubbles of carbon dioxide. *Why:* The acid in lemon reacts with the base in cooking soda, and carbon dioxide gas makes the fizz.
-10. (mcq) Soda water is added spoon by spoon to pink lemony cabbage water. What happens to the colour?  
+9. (mcq) Soda water is added spoon by spoon to pink lemony cabbage water. What happens to the colour?  
    Options: It turns purple, then blue / It gets pinker / It turns red and stays red  
    **Answer:** It turns purple, then blue. *Why:* The base uses up the acid, so the colour moves back to purple, then on to blue as more base is added.
-11. (mcq) Curd bacteria turn milk sour. How does the sourness help the bacteria?  
+10. (mcq) Curd bacteria turn milk sour. How does the sourness help the bacteria?  
    Options: Many other microbes grow badly in sour milk, so the bacteria keep the milk for themselves / It makes the milk sweeter for them / It keeps the milk warm  
    **Answer:** Many other microbes grow badly in sour milk, so the bacteria keep the milk for themselves. *Why:* The acid keeps many other microbes away, so the curd bacteria have the milk sugar to themselves.
-12. (mcq) In 1675, Nicolas Lémery said acids taste sour because of what?  
+11. (mcq) In 1675, Nicolas Lémery said acids taste sour because of what?  
    Options: Sharp spikes on their particles / Charged hydrogen particles / Tiny living beings  
    **Answer:** Sharp spikes on their particles. *Why:* Lémery imagined spiky acid particles. Later chemists found that all acids give out charged hydrogen particles in water, and the spikes were never found.
 
@@ -633,7 +631,7 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
 - Pickles stay good for months because their acid and salt stop many microbes from growing.
 
 ## Spotted around us
-- The lemon squeezed over poriyal, chaat or a plate of biryani.
+- The lemon squeezed over poriyal, a plate of Mumbai bhel or a plate of biryani.
 - Tamarind soaking in a small bowl, ready for rasam or sambar.
 - A bowl of curd set overnight, a little more sour each day it sits.
 - Weaver ants' leaf nests in a mango or neem tree. Do not touch: their bite stings with formic acid.
@@ -642,7 +640,7 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
 - Red cabbage in the supermarket, and blue butterfly pea flowers on a fence or in a pot.
 
 ## Open questions
-- **Exactly which jobs does anthocyanin do for each plant: shading the leaf, coping with cold, calling insects, or others?** Scientists have found evidence for several jobs. Which one matters most seems to differ from plant to plant, and they are still testing it.
+- **Exactly which jobs does anthocyanin do for each plant: shading the leaf, coping with cold, calling insects, or others?** Scientists have found evidence for several jobs. Which one matters most seems to differ from plant to plant, and scientists are still testing the ideas.
 - **How does a sour taste cell on the tongue sense acid?** In 2019, scientists found a channel in sour taste cells that lets hydrogen particles in. They are still working out how this and other parts together give us the feeling of sourness.
 - **How fast, and how much, will the sea's pH keep changing as carbon dioxide rises?** The sea is slowly becoming less basic. How fast this goes, and how it will affect corals and shellfish, depends on what people do with carbon dioxide.
 
@@ -661,17 +659,16 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
 - What did the purple cabbage water say to the soap? *You make me green with envy.*
 - Why did the lemon go to the doctor? *It wasn't peeling well.*
 - Why was the vinegar so good at arguing? *It always had a sharp answer.*
-- Why did the cooking soda bubble when it met the lemon? *It was too excited to sit still.*
 - Knock knock. Who's there? Lemon. Lemon who? *Lemon in, it's cold out here!*
 - What do you call a soap that tells jokes? *A slippery character.*
 - Why did the curd win the prize? *It was the most cultured one there.*
 - What does purple cabbage water say when nothing is added? *Same old, same old. I'm feeling neutral.*
 
 ## Connected maths
-- Lakshmi tested five liquids. On the pH scale they are: lemon juice 2, buttermilk 5, water 7, cooking soda water 8, detergent water 11. Put them in order from the most basic to the most acidic. Which liquid is furthest from water? **Detergent water 11, cooking soda water 8, water 7, buttermilk 5, lemon juice 2. Lemon juice is furthest from water.**. The biggest number is the most basic, so we start at 11 and go down. Lemon juice is 7 minus 2, which is 5 steps from water. Detergent water is 11 minus 7, which is 4 steps from water. 5 is more than 4, so lemon juice is furthest. (queues `math.number-sense.comparing-ordering.L3`)
-- In the Lemon or Buttermilk test, Divya's lemon glass needed 6 spoons of soda water to turn purple. Her buttermilk glass needed 2 spoons. How many times as many spoons did the lemon glass need? How many spoons would 2 teaspoons of lemon juice need? **3 times as many. 2 teaspoons of lemon juice would need about 12 spoons.**. 6 divided by 2 is 3, so the lemon glass needed 3 times as many spoons. One teaspoon of lemon needed 6 spoons. Twice as much lemon has twice as much acid, so it needs 2 lots of 6, which is 12 spoons. (queues `math.multiplication.equal-groups.L3`)
-- Lakshmi set katori A at 8 in the morning on Monday. She set katori B at 8 in the morning on Tuesday. She tested both at 8 in the evening on Tuesday. How long had each katori been setting? **Katori B had 12 hours. Katori A had 36 hours.**. From 8 in the morning to 8 in the evening is 12 hours, so katori B had 12 hours. Katori A started a whole day earlier, which adds 24 hours. 24 plus 12 is 36 hours. (queues `math.time.duration.L3`)
-- A colour line has 13 squares. Square 7 is purple. Your token is on square 12. A soapy water card moves you 2 squares towards green, and a lemon juice card moves you 2 squares towards pink. What is the fewest number of lemon cards you need to land exactly on square 7? **You cannot land exactly on 7 with lemon cards alone. 2 lemon cards take you to square 8, and a third takes you to square 6.**. From 12, each lemon card takes away 2: 12, 10, 8, 6. You jump over 7, because 12 minus 7 is 5, and 5 is an odd number, so steps of 2 never make it. You need a 1-square card, such as buttermilk or a big jug of water, as well. (queues `math.number-sense.odd-even.L3`)
+- Lakshmi, the girl in the story, tested five liquids. On the pH scale they are: lemon juice 2, buttermilk 5, water 7, cooking soda water 8, detergent water 11. Put them in order from the most basic to the most acidic. Which liquid is furthest from water? **Detergent water 11, cooking soda water 8, water 7, buttermilk 5, lemon juice 2. Lemon juice is furthest from water.**. The biggest number is the most basic, so we start at 11 and go down. Lemon juice is 7 minus 2, which is 5 steps from water. Detergent water is 11 minus 7, which is 4 steps from water. 5 is more than 4, so lemon juice is furthest. (queues `math.number-sense.comparing-ordering.L3`)
+- In the Lemon or Buttermilk test, Divya, a girl in Class 3, did the Lemon or Buttermilk test. Her lemon glass needed 6 spoons of soda water to turn purple. Her buttermilk glass needed 2 spoons. How many times as many spoons did the lemon glass need? How many spoons would 2 teaspoons of lemon juice need? **3 times as many. 2 teaspoons of lemon juice would need about 12 spoons.**. 6 divided by 2 is 3, so the lemon glass needed 3 times as many spoons. One teaspoon of lemon needed 6 spoons. Twice as much lemon has twice as much acid, so it needs 2 lots of 6, which is 12 spoons. (queues `math.multiplication.equal-groups.L3`)
+- Lakshmi, the girl in the story, set katori A at 8 in the morning on Monday. She set katori B at 8 in the morning on Tuesday. She tested both at 8 in the evening on Tuesday. How long had each katori been setting? **Katori B had 12 hours. Katori A had 36 hours.**. From 8 in the morning to 8 in the evening is 12 hours, so katori B had 12 hours. Katori A started a whole day earlier, which adds 24 hours. 24 plus 12 is 36 hours. (queues `math.time.duration.L3`)
+- In Back to Purple, your token is on square 12 and square 7 is purple. A lemon juice card moves you 2 squares towards pink. Can you land exactly on square 7 using lemon cards alone? Which kind of card would you need as well? **No. Lemon cards take you from 12 to 10, 8, then 6. You need a 1-square card, such as buttermilk or a big jug of plain water.**. From 12, each lemon card takes away 2: 12, 10, 8, 6. You jump over 7, because 12 minus 7 is 5, and steps of 2 never add up to an odd number like 5. A 1-square card changes odd to even, so it lets you land on 7. (queues `math.number-sense.odd-even.L3`)
 
 ## Song
 Pink, Purple, Green (sci.chemistry.L3): Topic-level song for Chemistry L3

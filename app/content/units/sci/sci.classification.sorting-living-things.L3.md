@@ -30,7 +30,7 @@
 - **Species**: One kind of living thing. Members of a species can usually have young together. *e.g.* All people are one species. Tigers are another species.
 - **Key**: A list of yes-or-no questions that leads you, step by step, to the name of a living thing. *e.g.* 'Does the leaf smell strong? Yes. Is the stem square? Yes. It is tulsi.'
 - **Venn diagram**: Two circles that overlap. Things that fit both rules go in the middle part. *e.g.* A bat goes in the middle of 'can fly' and 'has hair'.
-- **Fungus**: A living thing that is neither a plant nor an animal. They feed on dead or living things around them. Mushrooms, moulds and yeast are fungi. *e.g.* The green mould on old bread is a fungus.
+- **Fungus**: Living things that are neither plants nor animals. Fungi feed on dead or living things around them. Mushrooms, moulds and yeast are fungi. *e.g.* The green mould on old bread is a fungus.
 - **Spore**: A tiny living cell that a fungus, a fern or a moss makes to start a new one. Spores are much smaller than seeds. *e.g.* A mushroom drops millions of spores from the thin flaps under their cap.
 - **Bacteria**: Living things made of just one tiny cell, too small to see without a microscope. *e.g.* Curd bacteria turn milk into curd.
 - **Archaea**: Living things made of one tiny cell that look like bacteria but are very different inside. They are a big group of their own. *e.g.* Archaea live in hot springs, in the mud of rice fields and in a cow's stomach.
@@ -68,7 +68,7 @@ You are a living thing. Inside that big group, you are an animal. Inside the ani
 ### Why relatives look alike · *defined*
 **Definition:** Living things inherit features from their parents. So relatives, who share ancestors, share many features.
 
-A kitten has whiskers because their parents had whiskers. Their parents got them from their parents, and so on, far back. Tigers, leopards and house cats all came from the same long-ago cat ancestors. So they all have whiskers, claws they can pull in, and rough tongues. Plants work the same way. Tomato, brinjal and chilli plants came from the same ancestor plants. So their fruits share a green cap and small flat seeds. When scientists sort by shared features like these, they find relatives. This sort has a true answer, because it comes from what really happened long ago.
+A kitten has whiskers because their parents had whiskers. Those parents got them from their own parents, and so on, far back. Tigers, leopards and house cats all came from the same long-ago cat ancestors. So they all have whiskers, claws they can pull in, and rough tongues. Plants work the same way. Tomato, brinjal and chilli plants came from the same ancestor plants. So their fruits share a green cap and small flat seeds. When scientists sort by shared features like these, they find relatives. This sort has a true answer, because it comes from what really happened long ago.
 - e.g. A tiger and a house cat both pull in their claws when they walk.
 - e.g. Tulsi, mint and karpooravalli all have square stems and strong smells. They are in the mint family.
 - e.g. Rice, wheat, ragi, maize, sugarcane and bamboo are all in the grass family. Their leaves are long and narrow, with veins running side by side.
@@ -89,7 +89,7 @@ A crow, a bat and a butterfly all have wings. Each of them had the same problem:
 ### Neither plant nor animal: fungi · *defined*
 **Definition:** Fungi, such as mushrooms, moulds and yeast, are a kingdom of their own. They are neither plants nor animals.
 
-For a long time, people sorted mushrooms with plants, because they grow in soil and do not walk. But a mushroom has no green leaves and cannot make food from sunlight. They feed by soaking up food from the dead wood, leaves or soil around them. They make spores, not seeds. Most of a fungus is a web of thin threads, hidden in the soil or wood. The mushroom is only the part that makes spores. When scientists compared their DNA, they found that fungi are closer relatives of animals than of plants.
+For a long time, people sorted mushrooms with plants, because they grow in soil and do not walk. But a mushroom has no green leaves and cannot make food from sunlight. Fungi feed by soaking up food from the dead wood, leaves or soil around them. Fungi make spores, not seeds. Most of a fungus is a web of thin threads, hidden in the soil or wood. The mushroom is only the part that makes spores. When scientists compared their DNA, they found that fungi are closer relatives of animals than of plants.
 - e.g. The mushrooms sold in Indian markets, such as button mushrooms and oyster mushrooms, are fungi.
 - e.g. Yeast, which makes dosa batter and bread dough rise, is a fungus made of one cell.
 - e.g. The white fluff on an old orange is a mould, which is a fungus.
@@ -115,7 +115,7 @@ The usual rule is that members of a species can have young together, and those y
 ### Every living thing senses and decides · *defined*
 **Definition:** All living things sense the world around them and respond, from a person to a neem tree to a curd bacterium.
 
-Whatever rule you use, one feature is in every group. A crow notices a cat and flies off. A tulsi plant senses light and turns their leaves towards it. A mushroom's threads sense food in the soil and grow towards it. A bacterium senses sugar and swims towards it. Each of them senses, remembers and decides in their own way, with their own body. Some scientists call the responses of plants and bacteria automatic. Either way, sensing and responding is something all living things share.
+Whatever rule you use, one feature is in every group. A crow notices a cat and flies off. A tulsi plant senses light and turns their leaves towards it. A mushroom's threads sense food in the soil and grow towards it. A bacterium senses sugar and swims towards the sugar. Each of them senses, remembers and decides in their own way, with their own body. Some scientists call the responses of plants and bacteria automatic. Either way, sensing and responding is something all living things share.
 - e.g. A touch-me-not plant folds their leaves when touched.
 - e.g. Ants change their path when you put your finger on their trail.
 - e.g. A money plant on a windowsill grows towards the light.
@@ -129,7 +129,7 @@ Whatever rule you use, one feature is in every group. A crow notices a cat and f
 - Archaea are a separate big group of one-celled living things, not a kind of bacteria. *How we know:* Carl Woese and George Fox showed this in 1977 by comparing a molecule every cell has, and many later studies agree.
 
 ## How we found out
-**Carl Woese, an American microbiologist, with George Fox, and later Otto Kandler and Mark Wheelis, 1977 (archaea found) and 1990 (three domains proposed).** For most of the 1900s, scientists sorted every living thing into two groups. Some had cells with a nucleus, a small packet that holds the cell's DNA. Animals, plants and fungi were in this group. The rest had no nucleus, and they were all called bacteria. Carl Woese, an American scientist, wanted a better clue to who is related to whom. Every cell has a molecule called ribosomal RNA, which they use to build proteins. Woese compared this molecule in many tiny living things. In 1977, he and George Fox found that some 'bacteria' that make methane gas were as different from other bacteria as bacteria are from us. They called them archaebacteria. Later Woese renamed them archaea, and in 1990 he proposed three domains of life. Many biologists did not accept it at first. The famous biologist Ernst Mayr was still arguing against it in 1998. But studies of many more archaea agreed with Woese. Today they live in textbooks, and in the mud of rice fields and in our own guts.  
+**Carl Woese, an American microbiologist, with George Fox, and later Otto Kandler and Mark Wheelis, 1977 (archaea found) and 1990 (three domains proposed).** For most of the 1900s, scientists sorted every living thing into two groups. Some had cells with a nucleus, a small packet that holds the cell's DNA. Animals, plants and fungi were in this group. The rest had no nucleus, and they were all called bacteria. Carl Woese, an American scientist, wanted a better clue to who is related to whom. Every cell has a molecule called ribosomal RNA, which they use to build proteins. Woese compared this molecule in many tiny living things. In 1977, he and George Fox found that some 'bacteria' that make methane gas were as different from other bacteria as bacteria are from us. They called them archaebacteria. Later Woese renamed them archaea, and in 1990 he proposed three domains of life. Many biologists did not accept it at first. The famous biologist Ernst Mayr was still arguing against it in 1998. But studies of many more archaea agreed with Woese. Today archaea are in every textbook, and they are known to live in the mud of rice fields and in our own guts.  
 *What people believed before:* That every living thing without a nucleus is a kind of bacteria. By comparing ribosomal RNA, Woese and Fox showed that archaea are as different from bacteria as bacteria are from animals and plants.
 
 ## Challenging perspectives
@@ -163,10 +163,10 @@ We have been sorting living things in many ways, and finding which ones are rela
 - *what is life:* Every living thing came from parents, and they came from theirs. So all of life is one family tree.
 - *what is this world:* The world is full of relatives. A neem tree, a crow, a mushroom and you share ancestors, very long ago.
 
-Long ago there were only single cells. Over billions of years, their young changed a little in each generation, and the branches split again and again. Today there are millions of kinds of living things, from bacteria to banyan trees. When we sort by shared features, we trace those branches back towards where they join. One beginning became many kinds, and each kind still carries clues to where it came from.
+Long ago there were only single cells. Over billions of years, their young changed a little in each generation, and the branches split again and again. Today there are millions of kinds of living things, from bacteria to banyan trees. When we sort by shared features, we trace those branches back towards where they join. The clues are in the bodies of living things today.
 
 - **Purananuru 192, a Tamil Sangam poem by Kaniyan Pungundranar:** Every town is our town. Everyone is our kin. (The tree of life shows that every living thing is a relative of every other. The poem says it about people. Biology finds it true of all life.)
-- **Maha Upanishad 6.71 to 6.72 (the verse is also in the Hitopadesha):** 'This one is mine, that one is a stranger.' So people with small hearts count. For those with generous hearts, the whole world is one family: vasudhaiva kutumbakam. (We can sort the world into 'mine' and 'not mine' in many ways. The family tree of life is one sort nobody chose, and it puts everything in one family.)
+- **Maha Upanishad 6.71 to 6.72 (the verse is also in the Hitopadesha):** 'This one is mine, that one is a stranger.' So people with small hearts count. For those with generous hearts, the whole world is one family: vasudhaiva kutumbakam. (We can sort the world into 'mine' and 'not mine' in many ways. The family tree of life is one sort nobody chose, and that sort puts everything in one family.)
 - **Charles Darwin, On the Origin of Species (1859), end of chapter 4:** The likenesses between all living things in one group have sometimes been pictured as a great tree. Its green twigs are the living kinds of today, and its branches the kinds that came before. (When you found that the chilli belongs with the tomato, you found two twigs on the same branch of Darwin's tree.)
 - Science (settled): All living things alive today share ancestors. Their DNA, the instructions in every cell, is written in the same chemical code.
 - Science (debated): How many domains of life there are, two or three, is still being argued.
@@ -251,7 +251,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 
 ## Games
 ### g1 · Kitchen Families: collect a full family (20 min)
-- **rules:** Shuffle the 20 food cards. Deal 5 to each player. With 2 players, deal 7 each. Put the rest face down as a pile.; Lay the 4 clue cards face up, so everyone can read them.; On your turn, ask one player for a card: 'Do you have a member of the bean family?' You must already hold one card of that family.; If they have one, they give it to you and you ask again. If not, they say 'Go to the market', and you take a card from the pile.; When you hold all five members of a family, lay them down and read the clue card aloud.; Playing alone: lay all 20 cards face down. Turn over two at a time. Keep them if they are from the same family. Try to clear the table in as few turns as you can.; The player with the most families when all cards are laid down wins.
+- **rules:** Shuffle the 20 food cards. Deal 5 to each player. With 2 players, deal 7 each. With 4 players, all 20 cards are dealt. Put any cards left over face down as a pile.; Lay the 4 clue cards face up, so everyone can read them.; On your turn, ask one player for a card: 'Do you have a member of the bean family?' You must already hold one card of that family.; If they have one, they give it to you and you ask again. If not, they say 'Go to the market'. You take the top card of the pile if there is one, and your turn ends. If the pile is empty, your turn just ends.; When you hold all five members of a family, lay them down and read the clue card aloud.; If you run out of cards, take 3 from the pile. If the pile is empty, you are out: skip your turns, but keep the families you have laid down.; Playing alone: lay all 20 cards face down. Turn over two at a time. If both are from the same family, keep them next to that family's clue card. If not, turn them back. Each family has one card left over at the end: put each one with its family. Try to finish in as few turns as you can.; The game ends when all 20 cards are laid down. The player with the most families wins. If two players tie, they share the win.
 - **Printable cards: 20 food cards to cut out, five for each family:** Rice (Grass family); Wheat (Grass family); Ragi (Grass family); Maize (Grass family); Sugarcane (Grass family); Moong (Bean family); Chana (Bean family); Peanut (Bean family); Toor dal (Bean family); Methi (Bean family); Tomato (Tomato family); Brinjal (Tomato family); Chilli (Tomato family); Potato (Tomato family); Capsicum (Tomato family); Cucumber (Gourd family); Pumpkin (Gourd family); Watermelon (Gourd family); Bitter gourd (Gourd family); Bottle gourd (Gourd family)
 - **Printable cards: 4 family clue cards:** Grass family: long, narrow leaves with veins running side by side. We eat the grains.; Bean family: seeds grow in a row inside a pod.; Tomato family: the fruit keeps a green cap, and the seeds are small, flat and round.; Gourd family: big fruits on a climbing vine, with flat, oval seeds.
 - **Printable score sheet: A score sheet with a column for each player:** Player name; Families collected; Total
@@ -268,14 +268,14 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   *Parent does:* Play the game until all the cards are laid down.  
   *Parent says:* Your turn. Who will you ask, and for which family?  
   *Child mode:* Your turn. Ask someone for a card from a family you are collecting.
-  - Note: Each time someone lays down a family, ask them to read the clue card and name one more food from that family. More examples: bajra and bamboo are grasses, rajma and peas are beans, ridge gourd is a gourd.
+  - Note: Each time someone lays down a family, ask them to read the clue card and name one more food from that family. More examples: bajra and bamboo are grasses; rajma, peas and horse gram (kollu) are beans; ridge gourd and snake gourd are gourds.
 - **s4 (3 min)**  
   *Parent does:* Count the families and ask one question.  
   *Parent says:* Who has the most families? Now tell me: which family surprised you most?  
   *Child mode:* Count your families. Which family surprised you most?
   - Ask: Which member of a family surprised you? (good: Sugarcane is a grass.; Methi is in the bean family.; Watermelon is a gourd.)
 ### g2 · Make a Group (15 min)
-- **rules:** Shuffle the cards and put them face down.; Turn over three cards.; Each player says a rule that puts two cards together and leaves one out. For example: crow, bat and cat. 'Has hair' puts the bat and cat together and leaves out the crow.; The rule must be true and something anyone can check.; Score 1 point for a true rule, and 2 points if nobody else gave the same rule.; Playing alone: find as many different true rules as you can for each set of three. Write them down.; After 6 rounds, the player with the most points wins.
+- **rules:** Shuffle the cards and put them face down.; Turn over three cards. (Six rounds use 18 of the 24 cards.); Each player says a rule that puts two cards together and leaves one out. For example: crow, bat and cat. 'Has hair' puts the bat and cat together and leaves out the crow.; The rule must be true and something anyone can check. If players disagree, check it together. If it is still unclear, it scores nothing.; Score 1 point for a true rule, and 2 points if nobody else gave the same rule.; Playing alone: find as many different true rules as you can for each set of three. Write them down.; After 6 rounds, the player with the most points wins. If two players tie, they share the win.
 - **Printable cards: 24 living-thing cards to cut out:** crow; cat; bat; butterfly; ant; earthworm; snail; fish; frog; house lizard; cow; child; neem tree; tulsi plant; coconut tree; grass; mushroom; curd bacteria; spider; pigeon; mosquito; dolphin; tortoise; banana plant
 - **Printable score sheet: Points: 1 for a true rule, 2 for a rule nobody else thought of:** Player name; Points
 - **s1 (2 min)**  
@@ -283,7 +283,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   *Parent says:* Here are three living things. Find a rule that puts two together and leaves one out.  
   *Child mode:* Turn over three cards. Find a rule that puts two together and leaves one out.
 - **s2 (3 min)**  
-  *Parent does:* Play the first round with crow, bat and cat.  
+  *Parent does:* Take the crow, bat and cat cards out of the pile and play the first round with them.  
   *Parent says:* Crow, bat and cat. Can you find two different rules?  
   *Child mode:* Crow, bat and cat. Find two different rules.
   - Check: Which rule puts the crow and the bat together, and leaves the cat out? → **Can fly**
@@ -298,8 +298,8 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 - **question:** If we sort vegetables by their colour, and then by their caps and seeds, will we get the same groups?
 - **predict:** Guess first. Look at the tomato, brinjal, green chilli, cucumber and capsicum. Which ones do you think have the same kind of seeds inside? Will the green ones match each other? Why do you think so?
 - **fair test:** Look at every vegetable in the same way: the top first, then the seeds. Cut each one across its middle, so you can compare the insides. Put the seeds from each on white paper, so they are easy to see. Look at least five seeds from each, because one seed can be odd.
-- **safety:** A grown-up does all the cutting. Chilli juice burns the eyes, so do not touch your eyes after touching the chilli. Wash your hands with soap after the chilli. Cook and eat the vegetables afterwards, so nothing is wasted.
-- **record:** Fill in the table. Draw the two sorts as two pairs of circles: the colour sort and the cap-and-seed sort. Write the names in each circle.
+- **safety:** A grown-up does all the cutting. Chilli juice burns the eyes, so do not touch your eyes after touching the chilli. Wash your hands with soap after the chilli.
+- **record:** Fill in the table. Draw the two sorts as two sets of circles: the colour sort and the cap-and-seed sort. Write the names in each circle.
 - **results table:** Vegetable | Colour | Green cap at the top? (yes or no) | Seed shape and size | Drawing of one seed
 - **s1 (4 min)**  
   *Parent does:* 1. Put the five whole vegetables on the plate. 2. Ask your child to sort them into groups by colour.  
@@ -338,12 +338,11 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things. What I think. What I saw. Why.
-  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: colour and seeds make different groups. What I saw: the chilli and the cucumber are both green, but the chilli has a green cap and small round seeds like the tomato and the brinjal. The cucumber has no cap and long seeds. Why: tomato, brinjal and chilli may be relatives. Now explain that they are. Botanists call them the tomato family, and the cucumber is in the gourd family.
+  - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: colour and seeds make different groups. What I saw: the chilli and the cucumber are both green, but the chilli has a green cap and small round seeds like the tomato and the brinjal. The cucumber has no cap and long seeds. Why: tomato, brinjal and chilli may be relatives. Then tell your child that botanists call them the tomato family, and that the cucumber is in the gourd family.
 ### e2 · Square Stems: find the mint family (25 min)
 - **question:** Which of our kitchen herbs have square stems like tulsi, and do those plants share other features too?
 - **predict:** Guess first. Roll a tulsi stem between your finger and thumb. Which of the other herbs do you think will feel the same? Why do you think so?
 - **fair test:** Test every stem the same way: roll a piece about as long as your finger, near the top of the plant, between your finger and thumb. Do it with your eyes closed, so you judge by feel, not by looks. Test two stems of each plant, because one stem can be bent or damaged.
-- **safety:** Use only plants you know are food. Wash your hands afterwards.
 - **record:** Fill in the table. Draw a stem cut across: a square for square stems and a circle for round ones.
 - **results table:** Plant | Stem shape (square or round) | Leaves in pairs facing each other? (yes or no) | Strong smell when rubbed? (yes or no)
 - **s1 (4 min)**  
@@ -355,7 +354,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   *Parent does:* 1. Cover your child's eyes with the cloth. 2. Hand them one stem at a time, in a mixed-up order. 3. They say 'square' or 'round'. 4. You write it down.  
   *Parent says:* Now I'll cover your eyes, so only your fingers decide. Square or round?  
   *Child mode:* Close your eyes. Feel each stem. Is it square or round? Say it out loud.
-  - Note: Mint and karpooravalli stems are square, like tulsi. Coriander, curry leaf and spinach stems are round. Give each plant twice, in a different order, to be sure.
+  - Note: Mint and karpooravalli stems are square, like tulsi. Coriander, curry leaf and spinach stems are round. Coriander stems have fine grooves, but they have no four flat sides, so call them round. Give each plant twice, in a different order, to be sure.
 - **s3 (5 min)**  
   *Parent does:* 1. Take off the cloth. 2. Look at how the leaves join each stem. 3. Write yes if they grow in pairs facing each other.  
   *Parent says:* Now look at where the leaves join the stem. Do they grow in pairs, one on each side, facing each other?  
@@ -374,12 +373,12 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   - Note: A good answer: What I think: tulsi and mint are in the same family. What I saw: both have square stems, leaves in pairs facing each other, and a strong smell. Coriander smells strong but has a round stem. Why: relatives share features they inherited. Botanists call it the mint family. It has thousands of kinds, and most of them have square stems.
 ### e3 · Mushroom Prints: does a mushroom make seeds? (20 min, 2 days)
 - **question:** A plant makes seeds. Does a mushroom make seeds too, or something else?
-- **predict:** Guess first. If we leave a mushroom cap face down on paper overnight, will anything come out of it? What will it look like? Why do you think so?
+- **predict:** Guess first. If we leave a mushroom cap face down on paper overnight, will anything come out onto the paper? What will it look like? Why do you think so?
 - **fair test:** Use two caps from the same packet. Put one on white paper and one on dark paper, so the print shows up whatever its colour. Cover both with a bowl, so a breeze cannot blow the spores away.
 - **safety:** A grown-up cuts the stalks. Never eat a mushroom you find growing outside. Wash your hands after touching the mushrooms. Throw the used caps away afterwards.
-- **record:** Draw the print. Write what colour it is. Draw a moong seed next to it at the right size.
+- **record:** Draw the print. Write the colour of the print. Draw a moong seed beside the print at the right size.
 - **results table:** Cap | Paper colour | What you saw in the morning | Colour of the print
-- **schedule:** day 1: Cut the stalks off two mushroom caps. Put them face down on white and dark paper, and cover them. (10 min); day 2: Lift the caps and look at the prints. Compare a spore print with a seed. (10 min)
+- **schedule:** day 1: Cut the stalks off two mushroom caps. Put them face down on white and dark paper, and cover them. (8 min); day 2: Lift the caps and look at the prints. Compare a spore print with a seed. (12 min)
 - **s1 (3 min)**  
   *Parent does:* 1. Turn a mushroom over. 2. Look at the thin flaps under the cap, called gills, with the magnifying glass. 3. Ask for a guess and a reason.  
   *Parent says:* Look under the cap. These thin flaps are called gills. If we leave the cap on paper overnight, will anything come out? Why do you think so?  
@@ -394,7 +393,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   *Parent does:* 1. Next morning, lift the bowls and the caps gently. 2. Look at the paper.  
   *Parent says:* Let's lift the caps very gently. What do you see?  
   *Child mode:* Lift the bowl. Lift the cap very gently. What is on the paper?
-  - Note: Button mushrooms usually give a dark brown print, easier to see on white paper. Oyster mushrooms give a pale print, easier to see on dark paper. If there is no print, the gills were still closed. Try again with a more open cap.
+  - Note: Button mushrooms usually give a dark brown print, easier to see on white paper. Oyster mushrooms give a pale print, easier to see on dark paper. If there is no print, the gills were still closed. Write 'no print' in your table: that is an honest result. Try again with a more open cap.
   - Check: The mushroom left a print made of fine powder in lines. What is the powder? → **Millions of spores from the gills**
 - **s4 (3 min)**  
   *Parent does:* Put a moong seed next to the print and compare.  
@@ -409,7 +408,6 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 
 ## Activities
 ### a1 · Where Do I Belong? Groups inside groups (10 min)
-- **safety:** None.
 - **record:** Draw the five circles inside each other and write a label in each.
 - **s1 (3 min)**  
   *Parent does:* 1. Lay out the five boxes from biggest to smallest. 2. Ask question 1, then question 2. 3. Write a label for each box as you go.  
@@ -430,17 +428,17 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   *Child mode:* Which boxes would a cat get into? A crow? A monkey?
   - Check: A crow has feathers and a backbone, but no hair. What is the smallest box a crow fits in? → **Backbone animal**
 ### a2 · Same and Different: a table of the people at home (15 min)
-- **safety:** None.
 - **record:** Keep the table. Under it, write the groups for each of the three sorts.
 - **s1 (6 min)**  
   *Parent does:* 1. Draw a table with four columns: name, height in centimetres, writing hand, birth month. 2. Measure each person standing against the wall. 3. Fill in a row for each person.  
   *Parent says:* Let's collect facts about everyone. Stand against the wall, and I'll measure you. Which hand do you write with? Which month were you born in?  
   *Child mode:* Make a table. Measure each person against the wall. Ask which hand they write with. Ask their birth month.
 - **s2 (6 min)**  
-  *Parent does:* 1. Sort the names into 'taller than 120 cm' and 'not taller'. 2. Sort them into 'right hand' and 'left hand'. 3. Sort them into 'born January to June' and 'born July to December'.  
+  *Parent does:* 1. Sort the names into 'taller than your child' and 'not taller'. 2. Sort them into 'right hand' and 'left hand'. 3. Sort them into 'born January to June' and 'born July to December'.  
   *Parent says:* Now sort everyone three times. By height, by writing hand, then by birth month. Write the groups each time.  
   *Child mode:* Sort the people three times. By height. By writing hand. By birth month. Write down the groups.
-  - Ask: Were the same people together every time? (good: No, the groups changed.; Amma and I were together for birth month, but not for height.)
+  - Ask: Were the same people together every time? (good: No, the groups changed.; Two people who were together for birth month were in different groups for height.)
+  - Note: If everyone writes with the same hand, that sort makes just one group. That is a result too.
 - **s3 (3 min)**  
   *Parent does:* Ask what everyone shared, in every sort.  
   *Parent says:* What did every person in the table have, whatever group they were in?  
@@ -448,7 +446,6 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   - Ask: What is the same about everyone? (good: Two arms, two legs, two eyes.; A backbone.; Everyone breathes and eats.)
   - Note: The point is that a sort tells you only how people answered one question. All people share the same body plan. If there are only three people, the groups may change less. That is fine.
 ### a3 · Everyone Can Be the Odd One Out (8 min)
-- **safety:** None.
 - **record:** Write one reason for each animal.
 - **s1 (4 min)**  
   *Parent does:* 1. Lay out the four cards. 2. Ask which one is the odd one out, and why.  
@@ -461,7 +458,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   - Note: Good reasons: the cat is the only one that cannot fly. The crow is the only one with feathers. The butterfly is the only one with no backbone and six legs. The bat is the only one that flies and feeds their babies milk.
   - Check: Why is the butterfly the odd one out? → **The only one with no backbone**
 ### a4 · The Kitchen Leaf Key (15 min)
-- **safety:** Money plant leaves are not food. Do not eat them, and wash your hands after touching them.
+- **safety:** Money plant leaves are not food: they can upset the stomach and irritate the skin. Do not eat them, and wash your hands after touching them.
 - **record:** Draw your key, with yes and no arrows ending in each leaf's name.
 - **s1 (6 min)**  
   *Parent does:* 1. Lay out the five leaves. 2. Help your child find one yes-or-no question that splits them into two groups. 3. Then find a question that splits each group again, until each leaf is alone.  
@@ -469,7 +466,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   *Child mode:* Find a yes-or-no question that splits the leaves into two groups. Keep splitting until each leaf is alone.
   - Note: Good questions: 'Is the leaf made of many small leaflets?' (curry leaf and coriander: yes). 'Does it smell strong when rubbed?' 'Is the leaf shiny and heart-shaped?' A poor question is 'Is it nice?', because people disagree.
 - **s2 (5 min)**  
-  *Parent does:* 1. Draw the key as a branching chart. 2. Hide one leaf from a family member's view, then give it to them with the key.  
+  *Parent does:* 1. Draw the key as a branching chart. 2. Give someone else one leaf, without telling them its name, along with the key.  
   *Parent says:* Now let's test your key. Can someone else name this leaf using only your questions?  
   *Child mode:* Draw your key. Give someone a leaf and your key. Can they find the name?
 - **s3 (4 min)**  
@@ -478,7 +475,6 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   *Child mode:* Did any question confuse them? How can you make it clearer?
   - Check: Which is the best question for a key? → **Is the leaf made of many small leaflets?**
 ### a5 · The Kitchen Family Tree (15 min)
-- **safety:** None.
 - **record:** Keep the tree on the wall. Add new plants as you find their families.
 - **s1 (5 min)**  
   *Parent does:* 1. Draw a trunk and four branches. 2. Label them: grass family, bean family, tomato family, gourd family.  
@@ -488,7 +484,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   *Parent does:* Help your child draw each kitchen plant on the right branch.  
   *Parent says:* Rice, wheat and ragi go on the grass branch. Moong, chana and peanut go on the bean branch. Where do tomato and chilli go? And cucumber?  
   *Child mode:* Draw each food on its family's branch. Rice on the grass branch. Moong on the bean branch. Where does the tomato go?
-  - Note: Grass family: rice, wheat, ragi, maize, sugarcane. Bean family: moong, chana, rajma, peanut, toor dal, methi. Tomato family: tomato, brinjal, chilli, capsicum, potato. Gourd family: cucumber, pumpkin, bottle gourd, bitter gourd, watermelon. Mint and tulsi need a fifth branch.
+  - Note: Grass family: rice, wheat, ragi, maize, sugarcane. Bean family: moong, chana, rajma, horse gram (kollu), peanut, toor dal, methi. Tomato family: tomato, brinjal, chilli, capsicum, potato. Gourd family: cucumber, pumpkin, bottle gourd, bitter gourd, watermelon. Mint and tulsi need a fifth branch.
 - **s3 (3 min)**  
   *Parent does:* Ask where the four branches meet.  
   *Parent says:* All four branches join the same trunk. What could the trunk mean?  
@@ -513,9 +509,9 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 - **record:** The book itself, with group names written at the top of each page.
 - **schedule:** day 1: Find living things indoors: people, potted plants, ants, a house lizard, curd. Draw one on each page. (15 min); day 2: Find living things from the window or balcony: birds, trees, insects. Add a page for each. (15 min); day 3: Sort the pages into piles, then piles inside piles. Write the group names on each page. (15 min)
 - **s1 (15 min)**  
-  *Parent does:* 1. Make the book. 2. Walk around the home together. 3. For each living thing, draw them on their own page and write their name.  
+  *Parent does:* 1. Make the book. 2. Walk around the home together. 3. For each living thing, draw one page and write the name.  
   *Parent says:* Let's find every living thing in our home. People count. Plants count. Even the curd counts, because it is full of living bacteria.  
-  *Child mode:* Find every living thing at home. Draw each one on their own page. Write its name.
+  *Child mode:* Find every living thing at home. Draw one on each page. Write the name on the page.
 - **s2 (15 min)**  
   *Parent does:* Add pages for living things seen from the window or balcony.  
   *Parent says:* Today we look outside. What can we see from the window?  
@@ -525,7 +521,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   *Parent does:* 1. Lay out all the pages. 2. Sort them into plants, animals and others. 3. Sort the animals again by backbone or no backbone. 4. Write the groups at the top of each page.  
   *Parent says:* Now let's sort the pages. First into big groups, then into smaller groups inside them.  
   *Child mode:* Sort your pages into big groups. Then sort each group again. Write the group names at the top.
-  - Ask: Which living thing was the hardest to sort? Why? (good: The curd, because the bacteria are too small to see.; The mushroom, because they are not a plant or an animal.)
+  - Ask: Which living thing was the hardest to sort? Why? (good: The curd, because the bacteria are too small to see.; A mushroom or a mould, because neither is a plant or an animal.)
   - Wait: Do this on day 3.
 
 ## Challenges
@@ -534,7 +530,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 - **your turn:** Now think of a fourth person who needs these vegetables, and make the best sort for them. Who is it, and what is your rule?
 - **constraints:** Use the same ten vegetables, or ten word cards, for all three sorts.; Each sort must have a rule that anyone can check.; Explain why your sort helps that person.
 - **general:** For the cook: sort by how long each takes to cook, or by which ones are eaten raw.; For the farmer: sort by family, because relatives share pests and diseases.; For the shopkeeper: sort by which spoil fastest, so they are sold first.
-- **creative:** For the cook: sort by which dish they go into, such as sambar, salad or poriyal.; For the farmer: sort by which part of the plant we eat: root, stem, fruit or seed.; For a child: sort by which ones you like and which you are still learning to like.
+- **creative:** For the cook: sort by which dish they go into, such as sambar, a salad or a bhaji.; For the farmer: sort by which part of the plant we eat: root, stem, fruit or seed.; For a painter: sort by colour, to make a palette.
 - **s1 (5 min)**  
   *Parent does:* 1. Lay out the vegetables. 2. Read the problem aloud.  
   *Parent says:* A cook, a farmer and a shopkeeper each need these sorted. What does each of them care about most?  
@@ -549,7 +545,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   *Child mode:* Look at your three sorts. Which one is right?
   - Check: Which of the three sorts is the right one? → **Each one is right for its own job**
 ### c2 · A Terrace Garden Plan That Stops the Wilt (25 min)
-- **problem:** Kavya has four grow bags. She wants to grow tomato, brinjal, chilli, cucumber, bottle gourd, beans and peas over three seasons. A soil sickness attacks the tomato family. Plan which plant goes in each bag each season, so no bag grows the tomato family twice in a row.
+- **problem:** Kavya, the girl in the story, has four grow bags. She wants to grow tomato, brinjal, chilli, cucumber, bottle gourd, beans and peas over three seasons. A soil sickness attacks the tomato family. Plan which plant goes in each bag each season, so no bag grows the tomato family twice in a row.
 - **your turn:** Now plan a garden for your own home: a window box, a balcony or a pot. Which families would you grow, and in what order?
 - **constraints:** Four bags, three seasons.; No bag may grow the same family two seasons in a row.; Every plant on the list must be grown at least once.
 - **general:** Write the family next to each plant first: tomato, brinjal and chilli in the tomato family, cucumber and bottle gourd in the gourd family, beans and peas in the bean family.; Move each family one bag along each season, like children changing seats.; Fill the bean family in after a tomato family season.
@@ -566,23 +562,22 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   *Parent does:* Check the plan together.  
   *Parent says:* Let's check each bag, one row at a time.  
   *Child mode:* Check each bag. Did any bag grow the same family twice in a row?
-  - Check: Bag 1 grew tomatoes last season. Which plant should Kavya not put in it this season? → **Brinjal**
+  - Check: Bag 1 grew tomatoes last season. Which plant should Kavya not put in this bag now? → **Brinjal**
 
 ## Worksheets
 ### Sorting living things: core (core, 16 questions)
-1. (mcq) Meena sorts a crow, a pigeon and a bat into 'can fly'. Which rule would put the bat in a different group from the birds?  
+1. (mcq) Nandini, a girl in Class 3, sorts a crow, a pigeon and a bat into 'can fly'. Which rule would put the bat in a different group from the birds?  
    Options: Lives in the city / Has hair / Has two eyes / Is alive  
    **Answer:** Has hair. *Why:* A bat has hair, and the crow and pigeon have feathers. The other rules put all three together.
-2. (mcq) Which of these is a good sorting question that anyone can check?  
-   Options: Is this one cute? / Does this one have six legs? / Is this one my favourite? / Is this a good animal?  
-   **Answer:** Does this one have six legs?. *Why:* Anyone can count legs and get the same answer. Cute, favourite and good change from person to person.
+2. (perspective) Divya and Joseph both have a green chilli. They disagree about where it belongs.  
+   **Answer:** A strong answer says both sorts are right for their own job. Colour suits a salad. Caps and seeds show relatives, which matters for a garden because relatives get the same diseases.. *Why:* A sort is right for a job. Only the family sort tells you who is related.
 3. (truefalse) There is only one right way to sort living things.  
    **Answer:** False. *Why:* False. There are many right ways. Each sort is right for some job, such as cooking, farming or finding relatives.
 4. (truefalse) A bat can belong to the 'can fly' group and the 'has hair' group at the same time.  
    **Answer:** True. *Why:* True. A living thing belongs to many groups at once. Each group comes from a different question.
 5. (sort) Sort these by the green cap at the top. Which have a green cap?  
    **Answer:** tomato → Green cap; brinjal → Green cap; green chilli → Green cap; cucumber → No green cap; capsicum → Green cap; pumpkin → No green cap. *Why:* Tomato, brinjal, chilli and capsicum are in the tomato family, and they all keep a green calyx. Cucumber and pumpkin are in the gourd family.
-6. (mcq) Arjun cuts open a tomato, a brinjal and a cucumber. Which one has seeds that look different from the others?  
+6. (mcq) Arjun, a boy in Class 3, cuts open a tomato, a brinjal and a cucumber. Which one has seeds that look different from the others?  
    Options: Tomato / Brinjal / Cucumber  
    **Answer:** Cucumber. *Why:* Tomato and brinjal seeds are small, flat and round. Cucumber seeds are longer and oval, with a pointed end.
 7. (fill) The green star on top of a tomato is called the ____.  
@@ -590,8 +585,8 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 8. (mcq) Which feature do tulsi and mint share?  
    Options: A round stem / A square stem / No smell / Leaves made of many leaflets  
    **Answer:** A square stem. *Why:* Tulsi and mint both have square stems, leaves in pairs and a strong smell. They are in the mint family.
-9. (truefalse) People are animals.  
-   **Answer:** True. *Why:* True. People breathe, eat, grow and move, have backbones and hair, and mothers make milk for babies. People are mammals and primates.
+9. (write) A friend says, 'People are not animals.' What would you tell your friend? Use two things you know about your own body.  
+   **Answer:** People are animals. We breathe, eat, grow and move. We have a backbone and hair, and a mother feeds her baby milk. So people are mammals and primates.. *Why:* People share the features of animals, so every scientific sort puts people with the other animals.
 10. (order) Put these groups in order, from the biggest group to the smallest: mammal, living thing, primate, animal, backbone animal.  
    **Answer:** order shown. *Why:* Each group sits inside the one before. Every primate is a mammal, every mammal has a backbone, every backbone animal is an animal, and every animal is a living thing.
 11. (mcq) A crow has a backbone and feathers. Which group are they NOT in?  
@@ -609,17 +604,14 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 16. (fill) A living thing from long ago that later living things came from is called an ____.  
    **Answer:** ['ancestor']. *Why:* Your grandmother's grandmother is one of your ancestors. All living things share very old ancestors.
 ### Sorting living things: stretch (stretch, 16 questions)
-1. (mcq) Kavya's tomato plants died of a soil sickness. Which plant should she NOT plant in the same soil next?  
-   Options: Cucumber / Beans / Brinjal / Bottle gourd  
-   **Answer:** Brinjal. *Why:* Brinjal is in the tomato family, so the same sickness can attack it. The others are from different families.
-2. (mcq) A crow, a bat and a butterfly all have wings. What does this show?  
-   Options: They are close relatives / Different families can solve the same problem in a similar way / Wings are made of feathers / All flying things are birds  
-   **Answer:** Different families can solve the same problem in a similar way. *Why:* Their wings are built differently: feathers on an arm, skin on long fingers, and a thin sheet with no bones. Each grew separately.
+1. (perspective) A dolphin lives in the sea and swims with fins. Is a dolphin a fish?  
+   **Answer:** A strong answer sees that both sorts have a job. Selvi's sort helps her work at sea. But for finding relatives, the dolphin is a mammal, because she breathes air and feeds her baby milk, like a cow or a bat.. *Why:* Many sorts are right for their jobs, but only one answers who is related.
+2. (sort) Sort these animals: is each one a mammal?  
+   **Answer:** cat → Mammal; bat → Mammal; dolphin → Mammal; crow → Not a mammal; butterfly → Not a mammal; fish → Not a mammal. *Why:* Cats, bats and dolphins have hair or fur at some stage and feed their babies milk. Crows are birds, butterflies are insects and fish breathe with gills.
 3. (truefalse) Coriander has a strong smell, so it must be in the mint family.  
    **Answer:** False. *Why:* False. Coriander smells strong, but it has a round stem and leaves that come one at a time. One clue alone can mislead.
-4. (mcq) A dolphin lives in the sea and has fins. Why is a dolphin a mammal, not a fish?  
-   Options: They are big / They breathe air and feed their babies milk / They are clever / They swim fast  
-   **Answer:** They breathe air and feed their babies milk. *Why:* Mammals breathe air with lungs and feed their babies milk. Dolphins do both. Fish breathe with gills.
+4. (match) Match each clue to the plant family that the clue points to.  
+   **Answer:** Square stem → mint family; Green cap on the fruit → tomato family; Seeds in a row inside a pod → bean family; Long, narrow leaves with veins side by side → grass family. *Why:* Each family has clues you can see: tulsi and mint have square stems, tomato-family fruits keep a green cap, beans grow in pods, and grasses have long narrow leaves.
 5. (mcq) Which of these is in the grass family?  
    Options: Methi / Sugarcane / Brinjal / Cucumber  
    **Answer:** Sugarcane. *Why:* Sugarcane is a giant grass. Their leaves are long and narrow, with veins running side by side, like rice and wheat leaves.
@@ -647,7 +639,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
    **Answer:** A bonnet macaque. *Why:* A bonnet macaque has gripping hands, flat nails and eyes that face forward. Monkeys, apes and people are primates.
 15. (write) A farmer and a cook sort the same vegetables differently. Give one reason each might sort them.  
    **Answer:** The farmer sorts by family because relatives share pests and diseases. The cook sorts by cooking time or by dish.. *Why:* Each sort is right for its own job.
-16. (mcq) Lakshmi sorts 4 friends by height and then by birth month. Ravi was with her in the height sort but not in the birth month sort. Did Ravi change?  
+16. (mcq) Lakshmi, a girl in Class 3, sorts 4 friends by height and then by birth month. Her friend Ravi was with her in the height sort but not in the birth month sort. Did Ravi change?  
    Options: Yes, he grew / No, only the question changed / Yes, his birthday moved  
    **Answer:** No, only the question changed. *Why:* Ravi stayed the same. Each question makes its own groups.
 ### Sorting living things: challenge (challenge, 15 questions)
@@ -660,9 +652,9 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
    **Answer:** False. *Why:* False. Linnaeus used two kingdoms. Whittaker proposed five in 1969. Woese proposed three domains in 1990. Scientists still argue about them.
 4. (mcq) Why do scientists trust a family sort more when the bodies and the DNA give the same answer?  
    Options: Because two kinds of evidence agree / Because DNA is pretty / Because bodies never mislead / Because it is older  
-   **Answer:** Because two kinds of evidence agree. *Why:* When two separate kinds of clues point to the same family tree, it is very unlikely to be a coincidence.
-5. (write) Is 'has wings' a good rule for finding relatives? Give a reason.  
-   **Answer:** No. Crows, bats and butterflies have wings, but they are in different families. Their wings are built differently and grew separately.. *Why:* Features that do the same job can grow separately in different families.
+   **Answer:** Because two kinds of evidence agree. *Why:* When two separate kinds of clues point to the same family tree, a coincidence is very unlikely.
+5. (write) A kitchen shelf has twenty jars. Describe two different ways to sort them, and say what job each sort is good for.  
+   **Answer:** For example: sort by size, so tall jars do not fall; or sort by use, so the jars for sambar stand together. Each sort has a clear rule that anyone can check, and each suits a job.. *Why:* Any clear rule makes a good sort, and the best sort depends on the job.
 6. (write) Your hand and a bat's wing have the same set of bones. What might this tell us?  
    **Answer:** People and bats are relatives. Both are mammals, and both inherited the same arm and hand bones from shared ancestors.. *Why:* The same bones used for different jobs are a strong clue to shared ancestors.
 7. (mcq) Horses and donkeys can have mules, but mules almost never have young. What do most scientists say?  
@@ -678,11 +670,12 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 11. (mcq) Why does a key use yes-or-no questions about things you can see?  
    Options: So everyone reaches the same answer / Because it is shorter / So nobody can use it / Because animals like it  
    **Answer:** So everyone reaches the same answer. *Why:* If everyone can check the answer by looking, everyone who uses the key reaches the same name.
-12. (write) Make up a yes-or-no question that splits these four into two pairs: tulsi, mint, coriander, curry leaf.  
-   **Answer:** 'Is the stem square?' Tulsi and mint: yes. Coriander and curry leaf: no.. *Why:* The square stem is a family clue for the mint family.
+12. (mcq) About two million kinds of living things have names. One estimate says there may be about 8.7 million kinds of plants, animals and fungi. What does this show?  
+   Options: Scientists have named nearly all living things / Many kinds of living things have not been named yet / The estimate must be wrong / Nobody can count anything  
+   **Answer:** Many kinds of living things have not been named yet. *Why:* Two million is far fewer than 8.7 million, so many kinds are still unnamed. Nobody knows the true number.
 13. (truefalse) All living things sense the world around them and respond.  
    **Answer:** True. *Why:* True. A crow notices a cat, a plant senses light, and a bacterium senses sugar. Each responds in their own way.
-14. (write) A mushroom is closer to you than to a tulsi plant. Name one way you and a mushroom are alike that a tulsi plant is not.  
+14. (draw) A mushroom is closer to you than to a tulsi plant. Name one way you and a mushroom are alike that a tulsi plant is not.  
    **Answer:** Neither of us can make food from sunlight. We both get food from other living things.. *Why:* Plants make their own food. Fungi and animals take food from around them.
 15. (write) Draw a family tree with four kitchen plant families. Put two foods on each branch.  
    **Answer:** Grass: rice, wheat. Bean: moong, chana. Tomato: tomato, chilli. Gourd: cucumber, pumpkin.. *Why:* Each branch is a family of relatives, and all branches join one trunk.
@@ -693,12 +686,12 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 - **Taxonomy: Life's Filing System - Crash Course Biology #19** (CrashCourse, 12 min) id `F38BmgPcZ_I`: For the parent: a fast, lively history of how scientists sort living things, from Linnaeus to domains. *Check:* Id and title confirmed through YouTube's public oEmbed lookup (channel CrashCourse). Made for older students. Length not checked and not watched from here: a parent should preview it.
 
 ## Quiz
-1. (mcq) Meena sorts animals by 'can fly'. Ravi sorts the same animals by 'has hair'. Who is right?  
+1. (mcq) Meena, a girl in Class 3, sorts animals by 'can fly'. Her friend Ravi sorts the same animals by 'has hair'. Who is right?  
    Options: Only Meena / Only Ravi / Both of them, because each rule is clear / Neither of them  
    **Answer:** Both of them, because each rule is clear. *Why:* Both rules are clear and anyone can check them. There are many right ways to sort. Picking only one usually comes from thinking each animal has just one true group.
-2. (mcq) Which is the best sorting question?  
-   Options: Is it beautiful? / Does it have a backbone? / Is it nice? / Do I like it?  
-   **Answer:** Does it have a backbone?. *Why:* Anyone can check for a backbone and get the same answer. The others depend on who you ask.
+2. (mcq) Ananya, a girl in Class 3, uses a key to name a leaf. What does she do at each question in the key?  
+   Options: Answers yes or no, then follows the arrow / Picks the leaf she likes best / Guesses the name at once / Counts the veins  
+   **Answer:** Answers yes or no, then follows the arrow. *Why:* Each question in a key has a yes or no answer, and each answer leads to the next question or to a name. Following the arrows gives everyone the same name.
 3. (mcq) A farmer's tomato plants died of a soil sickness. Which crop should the farmer avoid planting in that soil next?  
    Options: Cucumber / Brinjal / Beans / Rice  
    **Answer:** Brinjal. *Why:* Brinjal is in the tomato family, and relatives often get the same diseases. Farmers sort crops by family for this reason.
@@ -729,9 +722,6 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 12. (mcq) Have scientists always used the same biggest groups of life?  
    Options: Yes, since long ago / No, they have changed them as they found new clues / There are no big groups  
    **Answer:** No, they have changed them as they found new clues. *Why:* Two kingdoms in 1735, five in 1969, three domains in 1990, and the argument goes on.
-13. (mcq) Lakshmi sorts her family by height, then by writing hand. The groups change. Why?  
-   Options: The people changed / Each question makes different groups / She made a mistake  
-   **Answer:** Each question makes different groups. *Why:* The people stayed the same. Each rule asks a different question, so the groups are different.
 
 ## Applications
 - Farmers change crop families from season to season, so soil diseases and pests that attack one family die out.
@@ -747,11 +737,12 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 - A vegetable seller's baskets: greens in one, gourds in another, onions and potatoes in a third.
 - The green cap on every brinjal, tomato and chilli in your kitchen.
 - A tulsi plant in a pot, with their square stem and their leaves in pairs.
+- Bamboo clumps in Assam or Kerala. Bamboo is a giant grass, like rice and sugarcane.
 - Bonnet macaques near temples in South India: primates, like you.
 - Bunches of bananas and banana leaves at a festival. The banana plant is a giant herb, a relative of ginger and turmeric.
 - Mushrooms in a supermarket packet, sorted on the shelf near the vegetables, though they are not plants.
-- A dal shelf in the kitchen: moong, chana, toor and rajma, all from the bean family.
-- Paddy fields seen from a train in Thanjavur or Kerala. Rice is a grass, like the lawn.
+- A dal shelf in the kitchen: moong, chana, toor, urad and rajma, all from the bean family.
+- Paddy fields seen from a train in Thanjavur, Kerala or Odisha. Rice is a grass, like the lawn.
 
 ## Open questions
 - **How many kinds of living things are there on Earth?** About two million have names. One well-known estimate from 2011 says there may be about 8.7 million kinds of plants, animals and fungi, and there may be far more kinds of bacteria and archaea. Nobody knows.
@@ -769,35 +760,27 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 - Is the tulsi stem square? Feel it next time you water it.
 - What sort does the vegetable seller use for her baskets? Why?
 - If you were a mushroom, would you rather be called a plant or an animal?
-- What is one way you and Amma are similar, and one way you are different?
+- What is one way you and someone you live with are similar, and one way you are different?
 - Rice and sugarcane are both grasses. What else do they share?
 
 ## Jokes
-- Why did the tomato go to the family reunion? *To see its brinjal cousins.*
+- Why did the tomato go to the family reunion? *To meet his brinjal cousins.*
 - What did the chilli say to the cucumber? *We may both be green, but we're not related!*
 - Why did the mushroom get invited to every party? *Because he was a fun-gi.*
-- Why did the bat refuse to sit with the birds? *They said, 'I'm a mammal, thank you very much.'*
+- Why did the bat refuse to sit with the birds? *He said, 'I'm a mammal, thank you very much.'*
 - What do you call a sorted pile of socks? *A miracle.*
-- Why was the key always calm? *It took every question one step at a time.*
-- Which plant is best at maths? *The square-stemmed mint. It knows all its corners.*
-- Why did the potato hide underground? *It didn't want anyone to see it wasn't wearing a green cap.*
-- What did the sugarcane say to the lawn? *Hello, little cousin!*
+- Why did the potato hide underground? *He didn't want anyone to see he wasn't wearing a green cap.*
 - Why do cats and tigers never argue about family? *Because they're purr-fectly related.*
-- Why did the peanut join the bean family? *It was in the pod from the start.*
-- What did the archaea say to the bacteria? *We look alike, but deep inside we're very different.*
-- Why did the butterfly feel left out? *Everyone else at the odd-one-out game had a backbone.*
-- What did one gourd say to the other? *Let's hang out on the vine.*
-- How does a monkey sort their bananas? *Ripe, almost ripe, and already eaten.*
-- Why did the curry leaf fail the square stem test? *It was too well-rounded.*
-- Why did the spore never get lost? *It always left a print.*
 - What did the liger say when asked if they were a lion or a tiger? *Yes.*
+- How does a monkey sort her bananas? *Ripe, almost ripe, and already eaten.*
+- Why did the curry leaf fail the square stem test? *It was too well-rounded.*
 
 ## Connected maths
-- In the vegetable test, Kavya looked at 5 seeds from each of 5 vegetables. How many seeds did she look at altogether? **25 seeds.**. There were 5 vegetables, with 5 seeds each. 5 groups of 5 is 25. You can count in fives: 5, 10, 15, 20, 25. (queues `math.multiplication.equal-groups.L3`)
-- Arjun has 12 living-thing cards. 7 can fly and 6 have hair. Only the bat card is in both groups. How many cards are in neither group? **0 cards.**. 7 can fly and 6 have hair, which makes 13. But the bat was counted twice, so there are 13 - 1 = 12 different cards in the circles. All 12 cards are in at least one group, so 12 - 12 = 0 are in neither. (queues `math.logic.sets-and-venn.L2`)
-- In the people table, 6 people were measured. 4 were taller than 120 cm. 5 wrote with their right hand. What is the smallest number of people who could be both taller than 120 cm and right-handed? **3 people.**. There are 6 people. 4 are tall and 5 are right-handed, which makes 9. 9 is 3 more than 6. So at least 3 people must be in both groups. (queues `math.logic.sets-and-venn.L2`)
-- Kavya has 4 grow bags. Each season, the tomato family moves one bag along. In season 1 it is in bag 1. Which bag is it in for season 4? **Bag 4.**. Season 1: bag 1. Season 2: bag 2. Season 3: bag 3. Season 4: bag 4. In season 5 it would go back to bag 1, like a circle. (queues `math.patterns.repeating-patterns.L2`)
-- Each round of Make a Group, Meena finds 3 true rules and Ravi finds 2. After 6 rounds, how many more rules has Meena found than Ravi? **6 more rules.**. Meena finds 1 more rule than Ravi each round. Over 6 rounds that is 6 × 1 = 6 more. Check: Meena 3 × 6 = 18, Ravi 2 × 6 = 12, and 18 - 12 = 6. (queues `math.multiplication.equal-groups.L3`)
+- In the vegetable test, a child looked at 5 seeds from each of 5 vegetables. How many seeds did the child look at altogether? **25 seeds.**. There were 5 vegetables, with 5 seeds each. 5 groups of 5 is 25. You can count in fives: 5, 10, 15, 20, 25. (queues `math.multiplication.equal-groups.L3`)
+- Arjun, a boy in Class 3, has 12 living-thing cards. 7 can fly and 6 have hair. Only the bat card is in both groups. How many cards are in neither group? **0 cards.**. 7 can fly and 6 have hair, which makes 13. But the bat was counted twice, so there are 13 - 1 = 12 different cards in the circles. All 12 cards are in at least one group, so 12 - 12 = 0 are in neither. (queues `math.logic.sets-and-venn.L2`)
+- In the people table, 6 people were measured. 4 were taller than the child who measured them. 5 wrote with their right hand. What is the smallest number of people who could be both taller than 120 cm and right-handed? **3 people.**. There are 6 people. 4 are tall and 5 are right-handed, which makes 9. 9 is 3 more than 6. So at least 3 people must be in both groups. (queues `math.logic.sets-and-venn.L2`)
+- Kavya, the girl in the story, has 4 grow bags. Each season, the tomato family moves one bag along. In season 1 it is in bag 1. Which bag is it in for season 4? **Bag 4.**. Season 1: bag 1. Season 2: bag 2. Season 3: bag 3. Season 4: bag 4. In season 5 it would go back to bag 1, like a circle. (queues `math.patterns.repeating-patterns.L2`)
+- Meena and her cousin Ravi play Make a Group. Each round, Meena finds 3 true rules and Ravi finds 2. After 6 rounds, how many more rules has Meena found than Ravi? **6 more rules.**. Meena finds 1 more rule than Ravi each round. Over 6 rounds that is 6 × 1 = 6 more. Check: Meena 3 × 6 = 18, Ravi 2 × 6 = 12, and 18 - 12 = 6. (queues `math.multiplication.equal-groups.L3`)
 
 ## Song
 Many Ways to Sort, One Family Tree (sci.classification.L3): Topic-level song for Sorting living things L3
@@ -815,7 +798,7 @@ Many Ways to Sort, One Family Tree (sci.classification.L3): Topic-level song for
 ## Things to buy
 - [Vegetables for the family test: a tomato, a small brinjal, a green chilli, a cucumber and a capsicum](https://www.bigbasket.com) (material): Most homes have some of these. Buy any that are missing. They are cooked and eaten afterwards. Used in e1, c1. Use them in the day's cooking after the test, for example in a sambar or a salad.
 - [A packet of fresh button or oyster mushrooms with open caps](https://www.bigbasket.com) (material): For the spore print. Sold in most city supermarkets and vegetable shops. Choose caps that have opened, so the gills show. Used in e3. 
-- [A magnifying glass (optional)](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To see seed shapes and mushroom gills clearly. A phone camera zoomed in also works. Used in e1, e3. Used again in Plant Parts L3 and Animals Around Us L3.
+- [A magnifying glass (optional)](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To see seed shapes and mushroom gills clearly. A phone camera zoomed in also works. Used in e1, e3. 
 
 ## Warm-up
 - Name one rule that puts a crow and a bat together. → Can fly.

@@ -18,7 +18,7 @@
 - **Substance**: A substance is one kind of material, the same all the way through. Water, salt and sugar are each a substance. *e.g.* Salt is one substance. Salt water is two substances, salt and water, mixed together.
 - **Mixture**: A mixture is two or more substances mixed together, but not joined into a new substance. A mixture can often be separated again. *e.g.* Salt water is a mixture. When the water dries up in the sun, the salt is left behind.
 - **Dye**: A dye is a coloured substance that dissolves in a liquid and colours what it touches. *e.g.* Sketch pen inks, food colours and the colours in a cotton saree are made with dyes.
-- **Dissolve**: When a substance dissolves, it breaks up into pieces too small to see and spreads all through a liquid. *e.g.* Sugar dissolves in tea. The dyes in a sketch pen dissolve in water.
+- **Dissolve**: When a substance dissolves, it breaks up into pieces too small to see and spreads all through a liquid. *e.g.* Sugar dissolves in a cup of Assam tea. The dyes in a sketch pen dissolve in water.
 - **Chromatography**: Chromatography is a way of separating a mixture. A liquid moves through paper or powder and carries each substance a different distance. The name comes from Greek words meaning 'colour writing'. *e.g.* A dot of black sketch pen on a wet paper strip spreads into a blue band and a purple band.
 - **Chromatogram**: A chromatogram is the pattern of coloured bands left on the paper after chromatography. *e.g.* Your dried strip, with its bands of colour, is a chromatogram. Each ink makes its own.
 - **Capillary action**: Capillary action is how water creeps up through tiny gaps, such as the gaps between the fibres in paper or cloth. *e.g.* Dip one corner of a towel in a bucket of water. The wet patch slowly climbs up the towel.
@@ -195,12 +195,12 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 
 ## Games
 ### g1 · Lab Race: from question to answer (20 min)
-- **rules:** Put every counter on square 0, the lab door.; On your turn, another player reads you the top card. Answer it.; Right answer: roll a die and move that many squares. Wrong answer: stay where you are, and read the back aloud.; If you land on a square with a message, do what it says.; The first player to reach square 15 wins. Playing alone? Try to reach square 15 in 10 turns or fewer.
-- **Printable board: A path of 15 squares, from the lab door to the answer:** Square 0: Lab door, the start; Squares 3 and 10: SPILLED WATER. Your dot got wet. Go back 2 squares.; Squares 6 and 12: FAIR TEST. Say one thing you keep the same in the Which Pen test, then move on 1 square.; Square 8: FLAME FLASH. Name one element and its flame colour, then move on 2 squares.; Square 15: Answer found, the finish
-- **Printable cards: 16 question cards to cut out (the answer is on the back):** What is a mixture? (back: Two or more substances mixed together, but not joined.); Is salt water a mixture or a pure substance? (back: A mixture: salt and water.); What do you call separating dyes with paper and water? (back: Chromatography.); What does 'chromatography' mean in Greek? (back: Colour writing.); Why do we draw the start line in pencil, not pen? (back: Pencil does not dissolve in water, so it stays put.); Why must the dot stay above the water? (back: Under the water, the ink would just dissolve into the tumbler.); A dot of ballpoint ink does not move in water. Why? (back: Ballpoint ink does not dissolve in water.); A green sketch pen splits into two bands. Which colours are they, most often? (back: Yellow and blue.); What makes water climb up a paper strip? (back: Capillary action: water creeping through tiny gaps between the fibres.); Salt turns a gas flame which colour? (back: Yellow-orange.); Which element in salt gives that colour? (back: Sodium.); Which element gives fireworks a red colour? (back: Strontium.); Who said, in 1835, that we would never know what stars are made of? (back: Auguste Comte.); Which two scientists showed there is sodium in the Sun? (back: Gustav Kirchhoff and Robert Bunsen.); Name one new element Bunsen and Kirchhoff found by its flame colour. (back: Caesium or rubidium.); TEST IT: make a dot with any sketch pen on a wet strip. Guess first: how many colours? (back: Do the test and tell everyone what you found.)
+- **rules:** Put every counter on square 0, the lab door. You need a die.; On your turn, another player reads you the top card. Playing alone? Read the card, answer it, then turn it over to check.; Right answer: roll the die and move that many squares. Wrong answer: stay where you are, and read the back aloud.; If you land on a square with a message by rolling, do what it says. If a square sends you to another square, do not follow the message there.; When the cards run out, shuffle them and use them again.; The first player to reach or pass square 15 wins. Playing alone? Try to reach square 15 in 10 turns or fewer.
+- **Printable board: A path of 16 squares, numbered 0 to 15, from the lab door to the answer:** Square 0: Lab door, the start. Everyone's counter begins here.; Square 1: Lab bench. Rest here. Nothing happens.; Square 2: CLEAN STRIP. Your strip is neat and dry. Move on 1 square.; Square 3: SPILLED WATER. Your dot got wet. Go back 2 squares.; Square 4: Lab bench. Rest here. Nothing happens.; Square 5: Lab bench. Rest here. Nothing happens.; Square 6: FAIR TEST. Say one thing you keep the same in the Which Pen test, then move on 1 square. If you cannot, stay.; Square 7: Lab bench. Rest here. Nothing happens.; Square 8: FLAME FLASH. Name one element and its flame colour, then move on 2 squares. If you cannot, stay.; Square 9: Lab bench. Rest here. Nothing happens.; Square 10: SPILLED WATER. Your dot got wet. Go back 2 squares.; Square 11: Lab bench. Rest here. Nothing happens.; Square 12: FAIR TEST. Say one thing you keep the same in the Which Pen test, then move on 1 square. If you cannot, stay.; Square 13: Lab bench. Rest here. Nothing happens.; Square 14: Lab bench. Rest here. Nothing happens.; Square 15: Answer found, the finish. The first counter to reach or pass this square wins.
+- **Printable cards: 16 question cards to cut out (the answer is on the back):** Name one way to separate a mixture, other than paper and water. (back: A sieve (by size), a magnet (picks out iron), or letting the water dry up (leaves the salt).); What is a dye? (back: A coloured substance that dissolves in a liquid and colours what it touches.); Why must two strips in one tumbler not touch each other? (back: The colours would run across from one strip to the other.); A green pen splits into a yellow band and a blue band. Did the water make the yellow? (back: No. The yellow was in the green ink all along. The water only carried each dye a different distance.); In the flame test, who holds the spoon in the flame, and how far away does the child stand? (back: A grown-up holds it. The child stands at least one metre away.); Plain tap water gave a few tiny orange sparks in the flame. Why? (back: Tap water has a little salt dissolved in it.); Which colour does copper give a flame? (back: Green or blue.); Sugar water does not flash yellow-orange in the flame. Why not? (back: Sugar has no sodium in it.); What is an element? (back: A substance made of only one kind of atom.); Two black pens give exactly the same bands on kitchen towel. What can a chemist do next? (back: Try another test, such as a different paper or a different liquid.); A marker dot did not move at all in water. What does that tell you about its ink? (back: It does not dissolve in water, so water cannot carry it.); Which element gives green fireworks their colour? (back: Barium.); What did Kirchhoff see in sunlight that showed there is sodium in the Sun? (back: Two thin dark lines in exactly the place where sodium gives out its two yellow lines.); Why do chemists say almost nothing is perfectly pure? (back: Nearly every substance has tiny traces of other substances in it.); A strip shows that pen B wrote a note. Does it show who held pen B? (back: No. It shows which pen, not whose hand. You need more questions for that.); TEST IT: make a dot with any sketch pen on a dry strip, then run the strip in water. Guess first: how many colours? (back: Do the test and tell everyone what you found.)
 - **Printable tokens: One counter for each player:** 🧪; 🔬; 🔥; 📏
 - **s1 (3 min)**  
-  *Parent does:* 1. Draw the 15-square path on a sheet of paper, or print it. 2. Cut out the 16 cards. 3. Shuffle them face down.  
+  *Parent does:* 1. Draw the 16-square path (squares 0 to 15) on a sheet of paper, or print it. 2. Cut out the 16 cards. 3. Shuffle them face down. 4. Find a die.  
   *Parent says:* We'll race from the lab door to the answer. Each right answer lets you roll the die.  
   *Child mode:* Make the board. Cut out the cards. Shuffle them.
 - **s2 (15 min)**  
@@ -213,18 +213,18 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
   *Parent says:* Which card was hardest? Let's do the real test for that one.  
   *Child mode:* Which card was hardest? Can you test it for real?
   - Check: A friend says a dot of black sketch pen will stay black on wet paper. What is most likely to happen? → **It spreads into two or more colours**
-### g2 · Secret Mix: guess the pens from the bands (25 min)
-- **rules:** Pick 4 sketch pen colours that look different, for example yellow, blue, pink and green.; The mixer turns away and puts two dots on top of each other on a strip's pencil line, one from each of two pens. They write the two colours on the score sheet and fold it over.; The guesser runs the strip in water and watches the bands.; The guesser says which two pens were used, and why.; Unfold the sheet. Score 2 points if both pens are right, 1 if one is right.; Swap roles. Play 3 rounds each.
-- **Printable score sheet: Secret Mix score sheet:** Round; Mixer's name; Pens the mixer used (written secretly and folded over); Guesser's guess; Points (2 for both right, 1 for one right)
-- **s1 (5 min)**  
-  *Parent does:* 1. Cut 6 strips of kitchen towel, 2 cm wide and 12 cm long. 2. Draw a pencil line 2 cm from the bottom of each. 3. On one test strip, make one dot of each of the 4 pens, side by side.  
+### g2 · Secret Mix: guess the pens from the bands (40 min)
+- **rules:** Pick 4 sketch pen colours that look different, for example yellow, blue, pink and green.; The mixer turns away and puts two dots on top of each other on a strip's pencil line, one from each of two pens. They write the two colours on the score sheet and fold it over.; The guesser runs the strip in water and watches the bands.; The guesser says which two pens were used, and why.; Unfold the sheet. Score 2 points if both pens are right, 1 if one is right.; Swap roles. With 2 players, each is the mixer twice (4 rounds). With 3 or 4 players, each is the mixer once and the next player guesses. The most points wins.
+- **Printable score sheet: Secret Mix score sheet: 4 rounds:** Round 1: Mixer ______  Pens used (write, then fold over) ______  Guesser's guess ______  Points ______; Round 2: Mixer ______  Pens used (write, then fold over) ______  Guesser's guess ______  Points ______; Round 3: Mixer ______  Pens used (write, then fold over) ______  Guesser's guess ______  Points ______; Round 4: Mixer ______  Pens used (write, then fold over) ______  Guesser's guess ______  Points ______
+- **s1 (8 min)**  
+  *Parent does:* 1. Cut one test strip 5 cm wide and 4 or 5 secret strips 2 cm wide, all 12 cm long. 2. Draw a pencil line 2 cm from the bottom of each. 3. On the wide strip, make one dot of each of the 4 pens, 1 cm apart. 4. Hang it alone in a tumbler with 1 cm of water.  
   *Parent says:* First let's see what each pen does alone. Then we'll know what to look for.  
-  *Child mode:* Make a test strip with one dot of each pen. Run it in water.
-- **s2 (15 min)**  
-  *Parent does:* Play the rounds. Run each secret strip in a tumbler with 1 cm of water, until the water is near the top.  
+  *Child mode:* Make a wide test strip with one dot of each pen. Run it in water.
+- **s2 (27 min)**  
+  *Parent does:* Play the rounds one at a time. Run each secret strip in a tumbler with 1 cm of water, until the water is near the top.  
   *Parent says:* Look at the bands. Which pens' colours can you see? How do you know?  
   *Child mode:* Watch your strip. Which colours came out? Which pens made them?
-  - Note: Green often splits into yellow and blue. So a green and yellow mix can look like green alone. That is a real puzzle, so let your child argue it out. Leave each strip in the water about 5 to 8 minutes.
+  - Note: Green often splits into yellow and blue. So a green and yellow mix can look like green alone. That is a real puzzle, so let your child argue it out. Each strip takes about 5 to 8 minutes to run.
 - **s3 (5 min)**  
   *Parent does:* Add up the scores. Ask the question below.  
   *Parent says:* Which mix was hardest to guess? Why was it hard?  
@@ -236,7 +236,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 - **question:** Three dark pens look almost the same. Can water and paper show which one wrote a secret letter?
 - **predict:** Look at the three pens' marks on paper. Do you think their inks are the same? What do you think each ink will do when the water reaches it? Why do you think so?
 - **fair test:** Use the same kind of strip for every pen. Draw every dot on a pencil line 2 cm from the bottom, the same size, gone over 3 times. Dip every strip 1 cm into the same water, for the same time. Only the pen changes.
-- **safety:** A grown-up helps with the scissors. Wipe up spilled water so nobody slips.
+- **safety:** A grown-up helps with the scissors.
 - **record:** Fill in the table. Stick the dried strips into your notebook in a row, and write under them which pen wrote the secret letter and how you know.
 - **results table:** Strip | My guess: what will the ink do? | Colours I saw, from bottom to top | Height of the highest colour (cm) | Does it match the secret letter?
 - **s1 (4 min)**  
@@ -315,7 +315,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 - **record:** Fill in the table. Draw the flame for each cup, with the colour you saw.
 - **results table:** Cup | My guess: what is in it? | Colour of the flame | How long the colour lasted | What I now think is in it
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* 1. The child turns away. 2. The grown-up stirs half a teaspoon of salt into one cup of water, and half a teaspoon of sugar into another. 3. The third cup is plain water. 4. Write 1, 2 and 3 on paper under the cups, and note secretly which is which.  
+  *Parent does:* 1. The child turns away. 2. The grown-up stirs half a teaspoon of salt into one cup of water (about 50 ml). In another cup of the same amount of water, they stir half a teaspoon of sugar. 3. The third cup is plain water. 4. Write 1, 2 and 3 on paper under the cups, and note secretly which is which.  
   *Parent says:* These three cups look the same. One has salt in it, one has sugar, and one is plain water. Can a flame tell them apart? What do you think, and why?  
   *Child mode:* Three cups look the same. One has salt. Guess: can a flame find it? Why?
 - **s2 (4 min) · grown-up needed**  
@@ -327,7 +327,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
   *Parent does:* 1. Dip the bowl of spoon 1 into cup 1. 2. Hold the wet spoon in the edge of the flame for 5 seconds. 3. Watch the colour. 4. Cool the spoon in the sink. 5. Do the same for cups 2 and 3, with a clean spoon each time.  
   *Parent says:* Watch the edge of the flame around the spoon. What colour do you see? Does it last?  
   *Child mode:* Watch the flame by the spoon. What colour? Does it last?
-  - Note: The salt water gives bright yellow-orange flashes that keep coming as the water boils off. Plain tap water may give a few tiny orange sparks, because tap water has a little salt in it too. Sugar water gives little or no colour. Hold the spoon by its end with a cloth. Never hold your face over the flame.
+  - Note: The salt water gives bright yellow-orange flashes that keep coming as the water boils off. Plain tap water may give a few tiny orange sparks, because tap water has a little salt in it too. Sugar water gives little or no colour, though the sugar may brown on the spoon. Hold the spoon by its end with a cloth. Never hold your face over the flame.
 - **s4 (4 min)**  
   *Parent does:* 1. Fill in the table. 2. Ask your child to say which cup has salt, and why. 3. Uncover the secret labels.  
   *Parent says:* Which cup has salt in it? What did you see that tells you? Now let's check the labels.  
@@ -357,7 +357,6 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
   *Child mode:* Lift it out. Keep your question. We will answer it soon.
   - Check: Which of these is the best question to ask next? → **Was the colour already in the black ink?**
 ### a2 · Chalk Column, Like Tsvet (20 min)
-- **safety:** Do not eat the chalk.
 - **record:** Draw the chalk stick with its colour bands. Compare it with a paper strip of the same pen.
 - **s1 (4 min)**  
   *Parent does:* 1. Draw a thick ring all the way round the chalk, about 1.5 cm from the bottom, with a sketch pen. 2. Go round it twice.  
@@ -367,7 +366,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
   *Parent does:* 1. Stand the chalk upright in the shallow water, ring end down. 2. Make sure the ring is above the water. 3. Watch for about 10 minutes, until the water is near the top.  
   *Parent says:* Watch the ring. Do the colours move the same way as on the paper strip?  
   *Child mode:* Stand the chalk in the water. The ring stays above the water. Watch.
-  - Note: Water climbs chalk quickly. The colours usually spread into bands, like on paper, but they may go to different heights. If the chalk falls over, lean it against the side of the bowl.
+  - Note: Water climbs chalk quickly. The colours usually spread into bands, like on paper, but they may go to different heights. If the chalk falls over, lean it against the side of the bowl. This is the least certain activity in the unit: ink on chalk can give faint or short bands, and some chalk sticks crumble in water. If you see only one smudge, say so, and try a different pen or chalk.
 - **s3 (4 min)**  
   *Parent does:* Lift the chalk out and let it dry. Compare it with a paper strip of the same pen.  
   *Parent says:* Are the bands in the same order as on paper? What does that tell you about the chalk?  
@@ -398,7 +397,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
   *Child mode:* Look closely at each powder. What do the grains look like?
   - Note: Salt grains are often small cubes. Sugar grains are a little bigger and shinier. Cooking soda is a fine, soft powder.
 - **s2 (6 min)**  
-  *Parent does:* 1. Put a pinch of each powder in its own spoon. 2. Add a few drops of lemon juice to each. 3. Watch for bubbles.  
+  *Parent does:* 1. Put a pinch of each powder on its own plate. 2. Add a few drops of lemon juice to each. 3. Watch for bubbles.  
   *Parent says:* Lemon juice is an acid. Watch closely. Does anything fizz?  
   *Child mode:* Add lemon juice to each powder. Which one fizzes?
   - Note: Only the cooking soda fizzes. It makes a gas called carbon dioxide.
@@ -406,7 +405,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
   *Parent does:* 1. The child stands back. 2. The grown-up heats a pinch of each powder on a steel spoon over a low flame. 3. Each one gets about 20 seconds. 4. Watch and listen.  
   *Parent says:* Watch from back here. What happens to each powder when it is heated?  
   *Child mode:* Stand back. Watch each powder heat up. What happens?
-  - Note: Sugar melts and turns brown, then black, and smells of caramel. Salt does not melt on a stove. It may crackle, and the flame near the spoon may flash yellow-orange. Cooking soda does not melt either. It has sodium in it too, so the flame may flash yellow-orange near it as well. Wash the spoon after each powder.
+  - Note: Sugar melts and turns brown, then black, and smells of caramel. Salt does not melt on a stove. It may crackle, and the flame near the spoon may flash yellow-orange. Cooking soda does not melt either. It has sodium in it too, so the flame may flash yellow-orange near it as well. Wash the spoon after each powder. Hold the spoon by its end with the cloth.
 - **s4 (6 min)**  
   *Parent does:* 1. The grown-up gives the mystery plate. 2. The child chooses which tests to do. 3. They name the powder and give their evidence.  
   *Parent says:* Here is the mystery powder. Which tests will you use? What is it, and how do you know?  
@@ -418,7 +417,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 - **schedule:** day 1: Make a spotter page with columns: where, colour, which element. (5 min); day 7: Look back at your page. Which colour did you spot most often? (5 min)
 - **s1 (5 min)**  
   *Parent does:* Help your child make a spotter page with three columns: where, colour, element.  
-  *Parent says:* This week, let's look out for coloured flames and lights. Watch the stove when milk or rasam boils over. Look at old orange street lights.  
+  *Parent says:* This week, let's look out for coloured flames and lights. Watch the stove when milk or rasam boils over. Look at orange street lights, if your road still has them.  
   *Child mode:* Make a page. Where? What colour? Which element? Look all week.
 - **s2 (5 min)**  
   *Parent does:* On day 7, read the page together.  
@@ -431,14 +430,14 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 ### p1 · Our Home Ink Library (50 min, 2 days)
 - **safety:** A grown-up helps with the scissors.
 - **record:** The library chart: each strip, the pen's name, and 'moves' or 'does not move'. Then the solved mystery, with your evidence.
-- **schedule:** day 1: Make a strip for every pen at home, run them and stick them on a chart with labels. (30 min); day 2: A family member writes a secret word with one pen. Run it and find the pen using your library. (20 min)
+- **schedule:** day 1: Make a strip for every pen at home, run them and stick them on a chart with labels. (30 min); day 2: A grown-up writes a secret word with one pen. Run it and find the pen using your library. (20 min)
 - **s1 (30 min)**  
-  *Parent does:* 1. Make a strip for each pen, labelled in pencil. 2. Run them in water, two or three at a time. 3. Dry them and glue them on the chart in a row. 4. Under each, write the pen's name and what it did.  
+  *Parent does:* 1. Make a strip for each pen, labelled in pencil. 2. Run them in water, two strips to a tumbler, in two or three rounds. 3. Dry them and glue them on the chart in a row. 4. Under each, write the pen's name and what it did.  
   *Parent says:* Let's make a library of every ink in the house. Later, we can compare any mystery ink with it.  
   *Child mode:* Make a strip for every pen. Run them. Stick them on a chart with names.
   - Note: Ballpoint pens, gel pens and permanent markers often do not move in water. Write 'does not move' for those. It is still useful information.
 - **s2 (20 min)**  
-  *Parent does:* 1. A family member writes one short word on a strip's pencil line, with any pen from the library. 2. The child runs it. 3. They compare it with the chart and name the pen.  
+  *Parent does:* 1. A grown-up writes one short word on a strip's pencil line, with any pen from the library. 2. The child runs it. 3. They compare it with the chart and name the pen.  
   *Parent says:* Here's a mystery word. Use your library to find the pen. What is your evidence?  
   *Child mode:* Run the mystery word. Compare it with your chart. Which pen?
   - Check: The mystery word did not move in water at all. What can you tell from that? → **It was written with an ink that does not dissolve in water, such as a ballpoint or permanent marker**
@@ -494,7 +493,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
    **Answer:** False. *Why:* False. Different pen makers mix different dyes to make black. Two inks can look the same and still split into different colours on a wet strip.
 11. (match) Match each word to what it means.  
    **Answer:** Mixture → two or more substances mixed but not joined; Dye → a coloured substance that dissolves in a liquid; Dissolve → to break into pieces too small to see and spread through a liquid; Chromatogram → the pattern of bands left on the paper; Evidence → what you saw or measured that shows whether an idea is true. *Why:* These words come up all through the unit. A strong answer could also give an example of each.
-12. (perspective) Two friends in Mysuru look at a black sketch pen dot that has split into blue and purple.  
+12. (perspective) Two friends in Kochi look at a black sketch pen dot that has split into blue and purple.  
    **Answer:** A strong answer sees that both have part of it. The ink is a mixture of blue and purple dyes, as the strip shows. Lakshmi is right that the mixture looks black. Farhan is right that blue and purple are in it. The black is not a trick: it is how the dyes look together.. *Why:* This question asks the child to use evidence and to see that 'looks black' and 'is made of blue and purple dyes' can both be true.
 13. (mcq) Rasam boils over onto the gas flame, and the blue flame turns yellow-orange for a moment. What in the rasam makes that colour?  
    Options: The salt / The water / The tamarind's sour taste  
@@ -554,30 +553,31 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 6. (mcq) In 1868, astronomers saw a yellow line in the Sun's light that no known element gave. Why did they decide it was a new element?  
    Options: The line was very bright / Every known element had been tested, and none gave a line in that exact place / The Sun is very hot  
    **Answer:** Every known element had been tested, and none gave a line in that exact place. *Why:* Each element gives lines in its own exact places. A line that matched no known element had to come from an unknown one. It was named helium, and found on Earth in 1895.
-7. (fill) The Greek words inside 'chromatography' mean ____ writing.  
-   **Answer:** ['colour']. *Why:* 'Chroma' means colour and 'graphein' means to write. Mikhail Tsvet chose the name because his first separations were of coloured substances in leaves.
-8. (sort) Sort these tests. Does each one separate a mixture, or show which element is in something?  
+7. (sort) Sort these tests. Does each one separate a mixture, or show which element is in something?  
    **Answer:** a paper strip in water → Separates a mixture; a flame test → Shows which element is there; a sieve → Separates a mixture; splitting starlight with a prism → Shows which element is there; a magnet over iron filings and sand → Separates a mixture; a chalk column → Separates a mixture. *Why:* Paper strips, chalk columns, sieves and magnets pull the parts of a mixture apart. Flame colours and split starlight show which elements are present, from their light.
-9. (order) Put the steps of a fair flame test in order.  
+8. (order) Put the steps of a fair flame test in order.  
    **Answer:** ["Look at the flame's colour before testing anything", 'Dip a clean spoon in the first cup', 'Hold the wet spoon in the edge of the flame for 5 seconds', 'Write down the colour', 'Cool the spoon and use a clean one for the next cup']. *Why:* You need the flame's normal colour first, to compare with. A clean spoon each time stops one cup's salt spoiling the next test.
-10. (write) Mikhail Tsvet poured leaf colour through a glass tube packed with chalk powder. Explain how his chalk tube and your paper strip work in the same way.  
-   **Answer:** In both, a liquid moves through something with tiny gaps, chalk powder or paper fibres. The liquid carries the substances in the mixture, and the chalk or paper holds them back. Each substance moves at its own speed, so they separate into bands.. *Why:* A strong answer names both parts: the moving liquid and the material that holds the substances back.
-11. (mcq) Robert Bunsen made a gas burner whose flame is almost colourless. Why did that help him study flame colours?  
+9. (mcq) Robert Bunsen made a gas burner whose flame is almost colourless. Why did that help him study flame colours?  
    Options: It was cheaper / The colours of the substances showed clearly, without the flame's own colour in the way / It made more smoke  
    **Answer:** The colours of the substances showed clearly, without the flame's own colour in the way. *Why:* A candle flame is already bright yellow, so a yellow from sodium would be hard to see. In an almost colourless flame, each substance's colour stands out.
-12. (label) Here is a drawing of the flame test. Label the parts.  
+10. (label) Here is a drawing of the flame test. Label the parts.  
    **Answer:** ['The blue gas flame is on the burner.', 'The wet steel spoon is held in the edge of the flame.', 'The yellow-orange flash is around the spoon.', "The cloth is in the grown-up's hand, around the spoon's end.", 'The child stands one metre away.']. *Why:* A strong answer shows the safety parts too: the cloth and the child standing back.
-13. (match) Match each job to the chemist's test it uses.  
+11. (match) Match each job to the chemist's test it uses.  
    **Answer:** A food lab checks chilli powder for colours that are not allowed → chromatography; A firework maker wants a red firework → adding an element that gives a red flame; An astronomer finds out what a star is made of → reading the lines in its light; A forensic scientist checks whether a word was added to a cheque → chromatography of the ink; A chemist checks a white powder for sodium → a flame test. *Why:* Chromatography separates mixtures, and light shows which elements are present. A strong answer could say why each test fits its job.
-14. (write) A spoon of plain tap water gave tiny orange sparks in the flame. Use this to explain why chemists say almost nothing is perfectly pure.  
-   **Answer:** Tap water looks pure, but the orange sparks show it has a little sodium in it, from dissolved salts. Most things have small traces of other substances in them. Better tests find smaller and smaller traces, so chemists ask how pure something is, not whether it is pure.. *Why:* A strong answer uses the sparks as evidence and links them to traces of other substances.
-15. (write) Black ink looked like one thing, but water showed it was several dyes. Can you think of something else that looks like one thing but is really a mixture? How could you test it?  
+12. (write) Black ink looked like one thing, but water showed it was several dyes. Can you think of something else that looks like one thing but is really a mixture? How could you test it?  
    **Answer:** For example, air looks like nothing, but it is a mixture of gases. Seawater looks like water, but it has salt in it: let some dry in a plate in the sun and salt is left. Rasam looks like one liquid, but it is many things.. *Why:* A strong answer gives an example and a real way to test it, such as drying, sieving or a flame test.
+13. (write) A friend runs a green pen on a paper strip and sees only one green band. She says, 'So this ink must be one dye.' Is she certain? What could you try next?  
+   **Answer:** She is not certain. Two dyes can travel together on one paper and look like one band. A strong answer suggests trying another paper or another liquid, or dotting the pen next to a yellow pen and a blue pen to compare.. *Why:* A test that shows one band does not prove the ink is one dye. Chemists try a second test before they decide.
+14. (fill) When light from a flame is split by a prism, each element shows its own thin coloured ____.  
+   **Answer:** ['lines']. *Why:* Each element gives out its own set of thin coloured lines. Bunsen and Kirchhoff matched these lines to find elements in the lab and in the Sun.
+15. (mcq) A forensic scientist has a strip from a mystery ink. Why does she also run strips from pens she already knows?  
+   Options: To use up the paper / To compare the mystery bands with known bands / To make the water climb faster  
+   **Answer:** To compare the mystery bands with known bands. *Why:* A strip alone cannot name a pen. Only by comparing it with strips from known pens can she see which one matches. A strong answer says that comparing is how the test gives an answer.
 
 ## Videos
-- **Colourful Chromatography! (Easy At-Home Science for Kids)** (Science World, 4 min) id `LbZvnTdkgR4`: A science centre shows paper chromatography with felt pens at home, step by step, like the Which Pen test. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it and check its length.
-- **Coloured Flames - Periodic Table of Videos** (Periodic Videos (University of Nottingham), 6 min) id `O3ZuimXdObE`: Chemists put different elements into flames and show their colours. Good for homes with induction cooktops, which cannot do the flame test. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it and check its length.
-- **Column chromatography** (Royal Society of Chemistry, 3 min) id `UmWMlKJAdSk`: For the parent and curious older children: chromatography in a glass tube packed with powder, the way Mikhail Tsvet first did it. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it and check its length.
+- **Colourful Chromatography! (Easy At-Home Science for Kids)** (Science World, 4 min) id `LbZvnTdkgR4`: A science centre shows paper chromatography with felt pens at home, step by step, like the Which Pen test. *Check:* A parent should preview this video first and check its length.
+- **Coloured Flames - Periodic Table of Videos** (Periodic Videos (University of Nottingham), 6 min) id `O3ZuimXdObE`: Chemists put different elements into flames and show their colours. Good for homes with induction cooktops, which cannot do the flame test. *Check:* A parent should preview this video first and check its length.
+- **Column chromatography** (Royal Society of Chemistry, 3 min) id `UmWMlKJAdSk`: For the parent and curious older children: chromatography in a glass tube packed with powder, the way Mikhail Tsvet first did it. *Check:* A parent should preview this video first and check its length.
 
 ## Quiz
 1. (mcq) Salt water is made of salt and water mixed together. What kind of material is it?  
@@ -625,7 +625,6 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 - Water labs test drinking water for harmful substances, such as pesticides, with chromatography.
 - Medicine factories check that every batch of tablets is pure enough.
 - Firework makers, such as those in Sivakasi in Tamil Nadu, colour their sparks with elements: strontium for red, barium for green, copper for blue and sodium for yellow.
-- Old orange street lights glow with sodium's yellow-orange light.
 - Astronomers read the light of stars and planets to find out what they are made of.
 - Chemists use a method called Raman spectroscopy, named after C.V. Raman, to identify substances from the light they scatter. Raman found the effect in Kolkata in 1928.
 
@@ -659,7 +658,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 - Why did the black ink go to the paper strip? *It wanted to find out who it really was.*
 - What did the blue dye say to the purple dye on the strip? *See you at the top!*
 - Why was the ballpoint pen so calm in the water test? *It never got carried away.*
-- What do you call a chemist who solves mysteries? *Sherlock Ohms. No, wait, that's an electrician.*
+- What did the paper strip say to the water? *You are really moving me up in the world.*
 - Why did the salt go to the gas stove? *It wanted to light up the room.*
 - Why did the sodium street light get the job? *It had a bright future.*
 - What did the flame say to the salt? *You make me glow.*
@@ -700,7 +699,7 @@ What's Inside? (sci.chemistry-detectives.L3): Topic-level song for Chemistry det
 ## Plan
 - Start options: a1, story, e1, e3, g1, big_questions, cards
 - Default order: intro → a1 → summary → terms → e1 → explanations → story → e2 → g2 → videos → ws-core → a2 → a3 → e3 → a4 → a5 → g1 → agreed → challenging → ws-stretch → p1 → c1 → big_questions → ws-challenge → open_questions → quiz
-- Core: a1, e1, e2, g1, ws-core, a2, e3
+- Core: a1, e1, e2, g1, ws-core
 
 ## Sources
 - ideas/by_topic/changing-materials.md: experiments row ('compare flame colours with salt or copper')

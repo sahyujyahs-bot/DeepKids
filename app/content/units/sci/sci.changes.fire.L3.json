@@ -418,7 +418,7 @@
   "read_aloud": true,
   "note": "The story is made up. Everything about the lamps is true: oil climbs a cotton wick and burns as a gas near the flame, a dry wick burns away quickly, and a steel plate over a small fire puts it out by keeping the air away. Water must never go on burning oil.",
   "text": [
-   "It was the evening of Karthigai Deepam in Madurai, and the whole street was getting ready to glow. Meenakshi was eight. She sat on the balcony floor with a tray of little clay lamps, called agal vilakku. Her cousin Arjun, who was six, sat next to her with a bowl of cotton wicks. Paati, their grandmother, poured sesame oil into each lamp from a steel jug.",
+   "It was the evening of Karthigai Deepam in Madurai, and the whole street was getting ready to glow. Meenakshi was eight. She sat on the balcony floor with a tray of little clay lamps, called agal vilakku. Her cousin Arjun, who was six, sat next to her with a bowl of cotton wicks. Meenakshi's mother, Amma, was cooking in the kitchen nearby. Paati, their grandmother, poured sesame oil into each lamp from a steel jug.",
    "\"Tie your davani back, Meenakshi,\" said Paati. \"Loose cloth and lamps are not friends.\" Meenakshi tucked the end of her davani into her waist, the way Amma did in the kitchen.",
    "Arjun held up a wick and frowned. \"Paati, the lamp burns all evening. Why doesn't the cotton burn away?\"",
    "\"Good question,\" said Paati. \"What do you think?\"",
@@ -467,28 +467,59 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about the fire triangle. You collect fuel, oxygen and heat to make a fire, and other players try to put yours out.",
+   "context": "This is a card game for 2 to 4 players about the fire triangle. You collect fuel, oxygen and heat to light a fire, and other players try to put it out.",
    "printables": [
     {
      "kind": "cards",
      "title": "36 cards",
      "items": [
-      "8 FUEL cards: wax, wood, cooking gas, oil, paper, dry leaves, cloth, coal",
-      "8 OXYGEN cards: fresh air, an open window, a breeze, blowing gently",
-      "8 HEAT cards: a match, a spark, a lighter, friction",
-      "4 LID cards (takes away oxygen)",
-      "4 WATER cards (takes away heat)",
-      "4 TURN OFF THE GAS cards (takes away fuel)"
+      "FUEL: wax",
+      "FUEL: wood",
+      "FUEL: cooking gas",
+      "FUEL: oil",
+      "FUEL: paper",
+      "FUEL: dry leaves",
+      "FUEL: cloth",
+      "FUEL: coal",
+      "OXYGEN: fresh air",
+      "OXYGEN: an open window",
+      "OXYGEN: a breeze",
+      "OXYGEN: gentle blowing",
+      "OXYGEN: an open door",
+      "OXYGEN: a ceiling fan",
+      "OXYGEN: air in a big room",
+      "OXYGEN: a draught from a vent",
+      "HEAT: a match",
+      "HEAT: a spark",
+      "HEAT: a lighter",
+      "HEAT: rubbing two sticks hard",
+      "HEAT: a diya flame",
+      "HEAT: a stove flame",
+      "HEAT: a hot electric coil",
+      "HEAT: a bolt of lightning",
+      "LID: a lid on the kadai",
+      "LID: a steel plate over the fire",
+      "LID: a heavy wet cloth",
+      "LID: a fire blanket",
+      "WATER: a bucket",
+      "WATER: a mug",
+      "WATER: a hose",
+      "WATER: a sprinkler",
+      "TAKE THE FUEL AWAY: turn off the gas",
+      "TAKE THE FUEL AWAY: move the paper away",
+      "TAKE THE FUEL AWAY: clear the dry leaves",
+      "TAKE THE FUEL AWAY: switch off the stove"
      ]
     }
    ],
    "rules": [
-    "Shuffle and deal 5 cards each. Put the rest face down.",
-    "On your turn, pick up one card, then play one card.",
-    "To light a fire, lay down one FUEL, one OXYGEN and one HEAT card in a triangle in front of you.",
-    "You can put out another player's fire with a LID, WATER or TURN OFF THE GAS card. Say which side it takes away, then remove that card.",
-    "A fire that lasts until your next turn scores 1 point. The first to 3 points wins.",
-    "WATER cannot put out an OIL fire. If you try, the fire stays and you miss a turn."
+    "Shuffle the 36 cards and deal 5 to each player. Put the rest face down as the pile, with room beside it for a discard pile.",
+    "On your turn, pick up one card from the pile. Then play one card, or, if none helps you, put one card on the discard pile. You always end your turn with 5 cards.",
+    "To light a fire, lay one FUEL, one OXYGEN and one HEAT card in a triangle in front of you. You can lay them on different turns. The fire is lit when all three are down.",
+    "You can put out another player's lit fire with a LID, WATER or TAKE THE FUEL AWAY card. Say which side of the triangle it takes away. The fire's three cards and your card go on the discard pile.",
+    "WATER cannot put out a fire that has the oil FUEL card. If you try, the fire stays, your WATER card goes on the discard pile, and you miss your next turn.",
+    "At the start of your own turn, if your fire is still lit, score 1 point and put its three cards on the discard pile, so you can build a new fire. The first player to 3 points wins.",
+    "When the pile runs out, shuffle the discard pile and use it as the new pile."
    ],
    "flow": [
     {
@@ -507,14 +538,14 @@
      "kid": "Which side did your card take away?",
      "check": {
       "t": "mcq",
-      "q": "Priya has a fire made of oil, a breeze and a match. Farhan wants to put it out. Which card should he NOT use?",
+      "q": "Priya and Farhan are playing. Priya has a fire made of the oil FUEL card, a breeze and a match. Farhan wants to put it out. Which card should he NOT use?",
       "options": [
        "LID",
        "WATER",
-       "TURN OFF THE GAS"
+       "TAKE THE FUEL AWAY"
       ],
       "a": 1,
-      "why": "Water on burning oil sinks underneath, turns to steam and throws the burning oil out. A lid is the right choice for an oil fire. Turn off the gas is a fine choice if the oil is on a stove."
+      "why": "Water on burning oil sinks underneath, turns to steam and throws the burning oil out. A lid is the right choice for an oil fire. Taking the fuel away, such as switching off the stove under the oil, is also fine."
      }
     },
     {
@@ -527,11 +558,11 @@
    ],
    "setup": [
     {
-     "art": "Three cards laid in a triangle on a table: a candle labelled FUEL, wavy lines labelled OXYGEN and a match labelled HEAT.",
+     "art": "Three cards laid in a triangle on a table: FUEL wax, OXYGEN fresh air and HEAT a match.",
      "caption": "1. Lay fuel, oxygen and heat in a triangle to light a fire."
     },
     {
-     "art": "A hand placing a LID card on top of the OXYGEN card of another player's triangle.",
+     "art": "A hand placing a LID card on top of another player's triangle of three cards.",
      "caption": "2. Put out a fire by taking away one side."
     }
    ]
@@ -545,43 +576,86 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a quick game about fire safety. A grown-up reads a situation, and you say SAFE or SPARK, which means a fire could start, then say why.",
+   "context": "This is a quick game about fire safety. The reader reads a situation, and the other players hold up SAFE or SPARK, which means a fire could start, then say why.",
    "printables": [
     {
      "kind": "cards",
-     "title": "14 situation cards",
+     "title": "14 situation cards (read the front, then turn over for the answer)",
      "items": [
-      "Revathi keeps her pooja lamp on a steel plate, away from the curtain. (Safe)",
-      "Anand plays with a lighter he found on the table. (Spark)",
-      "Amma ties back her davani before cooking. (Safe)",
-      "Divya hangs a paper lantern right above a diya. (Spark)",
-      "Paati turns off the gas regulator at night. (Safe)",
-      "Rahul lights a cracker while holding it in his hand. (Spark)",
-      "Kavya smells gas and switches on the kitchen light to look. (Spark)",
-      "A grown-up lights crackers in an open courtyard with a bucket of water nearby. (Safe)",
-      "Joseph leaves a mosquito coil burning under the bed. (Spark)",
-      "Meenakshi tells a grown-up that the gas pipe looks cracked. (Safe)",
-      "Sanjay pours water on oil that has caught fire in a kadai. (Spark)",
-      "Aisha cools a burn under running water for 20 minutes. (Safe)",
-      "Vikram throws a burnt matchstick into the dustbin while it still glows. (Spark)",
-      "Nila uses the stairs, not the lift, in a fire drill. (Safe)"
+      {
+       "f": "Revathi keeps her pooja lamp on a steel plate, away from the curtain.",
+       "b": "SAFE. The steel plate cannot burn, and the curtain is too far from the flame, so the fuel and the heat stay apart."
+      },
+      {
+       "f": "Anitha plays with a lighter she found on the table.",
+       "b": "SPARK. A lighter makes heat at the touch of a thumb, and paper or cloth nearby is fuel. Lighters stay with grown-ups."
+      },
+      {
+       "f": "Sumathi ties back her davani before cooking.",
+       "b": "SAFE. A tied-back davani cannot swing into the flame, so the cloth, which is fuel, stays away from the heat."
+      },
+      {
+       "f": "Divya hangs a paper lantern right above a diya.",
+       "b": "SPARK. Paper is a fuel, the diya's flame is heat, and there is air all around. The lantern can catch fire."
+      },
+      {
+       "f": "Padma turns off the gas regulator at night.",
+       "b": "SAFE. With the regulator off, no gas can leak, so there is no fuel."
+      },
+      {
+       "f": "Chanu lights a cracker while holding it in her hand.",
+       "b": "SPARK. The burning cracker is heat right against her hand and clothes. A grown-up lights crackers on the ground, from a distance."
+      },
+      {
+       "f": "Kavya smells gas and switches on the kitchen light to look.",
+       "b": "SPARK. Gas in the air is fuel, and a switch can make a tiny spark. Touch no switch, open the windows and tell a grown-up."
+      },
+      {
+       "f": "A grown-up lights crackers in an open courtyard with a bucket of water nearby.",
+       "b": "SAFE. The open space has no fuel close by, and the bucket of water is ready to take away heat."
+      },
+      {
+       "f": "Joseph leaves a mosquito coil burning under the bed.",
+       "b": "SPARK. The glowing tip is hot enough to light sheets and papers, which are fuel, and the air under a bed has plenty of oxygen."
+      },
+      {
+       "f": "Ishani tells a grown-up that the gas pipe looks cracked.",
+       "b": "SAFE. Telling a grown-up early stops a leak, which would be fuel, from ever meeting heat."
+      },
+      {
+       "f": "Sowmya pours water on oil that has caught fire in a kadai.",
+       "b": "SPARK. Water sinks under the oil, turns to steam and throws the burning oil out. Turn off the stove and cover the kadai with a lid."
+      },
+      {
+       "f": "Aisha cools a burn under running water for 20 minutes.",
+       "b": "SAFE. Cool running water takes the heat out of the skin and helps it heal."
+      },
+      {
+       "f": "Vikram throws a burnt matchstick into the dustbin while it still glows.",
+       "b": "SPARK. The glowing head is still hot, and the paper in the dustbin is fuel. Drop used matches in water."
+      },
+      {
+       "f": "Nila uses the stairs, not the lift, in a fire drill.",
+       "b": "SAFE. In a fire the lift can lose power, and smoke can fill the lift shaft. The stairs are the safe way out."
+      }
      ]
     },
     {
      "kind": "cards",
-     "title": "A green SAFE card and an orange SPARK card for each player",
+     "title": "SAFE and SPARK answer cards (cut one set for each player)",
      "items": [
-      "SAFE",
-      "SPARK"
+      "SAFE (green)",
+      "SPARK (orange)"
      ]
     }
    ],
    "rules": [
-    "Each player has a green SAFE card and an orange SPARK card.",
-    "A grown-up reads a situation. Everyone holds up a card at the same time.",
-    "Right answer: 1 point. Say why, using fuel, oxygen or heat: 1 more point.",
-    "Playing alone, read each card and check the answer in the brackets.",
-    "After 14 cards, the most points wins."
+    "One person is the reader and holds the 14 situation cards. Every other player has a green SAFE card and an orange SPARK card.",
+    "The reader reads the front of a card. Everyone holds up SAFE or SPARK at the same time.",
+    "Then the reader turns the card over and reads the answer. A right answer scores 1 point. Saying why, using fuel, oxygen or heat, scores 1 more point.",
+    "The reader does not score. If only one child plays, try to beat your own score next time. The most you can score is 28.",
+    "After 14 cards, the player with the most points wins. A tie is a shared win.",
+    "Playing alone, read the front, say your answer and why, then turn the card over."
    ],
    "flow": [
     {
@@ -623,8 +697,8 @@
      "caption": "1. Listen, then hold up SAFE or SPARK."
     },
     {
-     "art": "A pile of situation cards with small pictures: a lamp on a steel plate, a lighter, a mosquito coil.",
-     "caption": "2. Say why, using fuel, oxygen or heat."
+     "art": "A pile of situation cards, one turned over to show the answer SPARK and a reason.",
+     "caption": "2. Turn the card over. Say why, using fuel, oxygen or heat."
     }
    ]
   }
@@ -633,11 +707,11 @@
   {
    "id": "e1",
    "title": "The Jumping Flame: what really burns in a candle?",
-   "mins": 30,
+   "mins": 35,
    "days": 1,
    "question": "When a candle burns, what is burning: the solid wax, the wick, or something else?",
    "predict": "We will try to light three things: a lump of wax with no wick, a candle's wick, and the white smoke from a candle that has just been blown out. Which ones do you think will catch fire? Why do you think so?",
-   "fair_test": "Use the same kind of candle wax for every test, and the same kind of match. Switch off the fan and close the windows during the smoke test, because a breeze blows the smoke away. In the smoke test, only the height of the match changes: 2 cm, 5 cm and 8 cm above the wick. Try each height three times, because one try can be a fluke.",
+   "fair_test": "Use the same kind of candle wax for every test, and the same kind of match, a new one each try. Switch off the fan and close the windows during the smoke test, because a breeze blows the smoke away. In the smoke test, only the height of the match changes: 2 cm, 5 cm and 8 cm above the wick. Try each height three times, because one try can be a fluke.",
    "results_table": [
     "What we tried to light",
     "My guess: will it catch fire?",
@@ -677,7 +751,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 30,
+     "mins": 35,
      "what": "Guess, then try to light a lump of wax, a wick and candle smoke. Measure how far the flame can jump down the smoke."
     }
    ],
@@ -741,12 +815,12 @@
     },
     {
      "id": "s5",
-     "mins": 10,
-     "do": "1. Switch off the fan. 2. Blow the candle out gently, from the side. 3. At once, hold a lit match in the white smoke, 2 cm above the wick, using the card. 4. Watch whether the flame runs down to the wick. 5. Repeat three times at 2 cm, then at 5 cm, then at 8 cm.",
+     "mins": 15,
+     "do": "1. Switch off the fan. 2. Light a match and hold it ready beside the candle. 3. Blow the candle out gently from the side. 4. At once, move the burning match into the white smoke at the 2 cm line on the card. 5. Watch whether the flame runs down the smoke to the wick. 6. Relight the candle, wait half a minute, and repeat. Do three tries at 2 cm, then three at 5 cm, then three at 8 cm, with a new match each time.",
      "say": "Now the smoke. I will blow the candle out, and quickly hold a match in the smoke. Watch the smoke, not the match. Read me the line on the card.",
      "kid": "Watch the white smoke. The grown-up holds a match in it. Does the flame jump down?",
      "adult": true,
-     "parent": "Have the match already burning before you blow, because the smoke lasts only a second or two. Hold the match flame right inside the white smoke. At 2 cm it usually works every time: a flame runs down the smoke and the wick lights again. At 5 cm it often works. At 8 cm it may work only sometimes, when the smoke is thick and the air is still. Let the candle burn for a minute between tries, so there is a pool of melted wax. Whatever happens, write it down: 'did not jump' is a result too."
+     "parent": "The match must already be burning when you blow, because the smoke lasts only a second or two. Hold the match flame right inside the white smoke. At 2 cm it usually works. At 5 cm it works about half the time. At 8 cm it rarely works. If you see no white smoke, blow more gently and try again. The half minute between tries lets a pool of melted wax form. Whatever happens, write it down: 'did not jump' is a result too."
     },
     {
      "id": "s6",
@@ -897,16 +971,16 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Hold the tea strainer flat, using a cloth on the handle. 2. Lower it slowly onto the flame until it is halfway down the flame. 3. Hold it for 3 seconds. 4. Your child looks from the side, at eye level with the mesh. 5. Lift it away and put it on the steel plate.",
+     "do": "1. Hold the tea strainer flat, using a cloth on the handle. 2. Lower it slowly onto the flame until it is halfway down the flame. 3. Hold it for 3 seconds. 4. Your child looks from the side, at eye level with the mesh. 5. Lift it away and put it on the steel plate. 6. When it is cool, after about a minute, do it a second time.",
      "say": "Look from the side, not from above. Is the flame above the mesh, below it, or both? What is coming through?",
      "kid": "Look from the side. Where is the flame? What comes out of the top?",
      "adult": true,
-     "parent": "The flame flattens out under the mesh, and smoke rises through it. The flame does not come through. If it does, the mesh may be too hot or too coarse. Let it cool and try again. The mesh turns black with soot, which is expected."
+     "parent": "The flame flattens out under the mesh, and smoke rises through it. The flame should not come through. A very coarse strainer may let the flame through. That is a real result: write it down, and try a finer one if you have it. If the flame comes through only the second time, the mesh was probably still hot. The mesh turns black with soot, which is expected."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Let the candle burn steadily again. 2. Now lower the slotted spoon onto the flame in the same way. 3. Hold it for 3 seconds and look from the side.",
+     "do": "1. Let the candle burn steadily again. 2. Lower the slotted spoon onto the flame in the same way, until it is halfway down the flame. 3. Hold it for 3 seconds and look from the side. 4. Let it cool, and do it a second time.",
      "say": "Now the big holes. What do you see this time?",
      "kid": "Now the spoon with big holes. Where is the flame now?",
      "adult": true,
@@ -915,7 +989,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Talk about the results. Then read the explanation on the card about Davy's lamp.",
+     "do": "Talk about the results. Then read the explanation card 'Davy's lamp: cooling stops a flame'.",
      "say": "The fine mesh stopped the flame, but gas and smoke still went through. What do you think the metal did to the flame?",
      "kid": "The fine mesh stopped the flame. What did the metal do?",
      "parent": "Steel carries heat away. Each fine wire touches the flame and takes heat from it, so the gas that gets through is too cool to burn. Big holes have less metal close to the gas, so the flame can get through. This is how Humphry Davy's safety lamp kept miners safe in 1815.",
@@ -989,6 +1063,10 @@
     {
      "item": "a ruler",
      "qty": 1
+    },
+    {
+     "item": "a bowl of water, kept nearby",
+     "qty": 1
     }
    ],
    "safety": "A grown-up lights every match and stays at the table the whole time. Work on a steel plate on a bare kitchen counter or floor, away from curtains, paper and gas cylinders. Tie back long hair, and tuck in a davani or dupatta. Keep a bowl of water nearby. Never lean over a flame. Never use kerosene or petrol, which give off flammable gas even when cold. Use cooking oil or lamp oil only.",
@@ -1017,7 +1095,7 @@
      "say": "Watch the dry wick. Tell me when the flame goes out.",
      "kid": "Watch the dry wick burn. Say stop when the flame goes out.",
      "adult": true,
-     "parent": "The dry wick flares up, turns black and usually goes out within a minute, leaving a black thread and some smoke. It may glow red for a few seconds after the flame goes out."
+     "parent": "The dry wick flares up, turns black and usually goes out within a minute or two, leaving a black thread and some smoke. It may glow red for a few seconds after the flame goes out."
     },
     {
      "id": "s3",
@@ -1034,7 +1112,7 @@
      "do": "Ask your child to say what they think, what they saw and why.",
      "say": "What do you think was the fuel in the diya? What did you see? Why did the cotton last so much longer in oil?",
      "kid": "What was the fuel? What did you see? Why?",
-     "parent": "A strong answer: the oil is the fuel. The dry wick burned out in under a minute, but the oiled wick burned for 10 minutes and hardly got shorter. The oil climbs the wick, turns into gas at the tip and burns. The soaked cotton stays cool enough not to burn itself.",
+     "parent": "A strong answer: the oil is the fuel. The dry wick burned out in a minute or two, but the oiled wick burned for 10 minutes and hardly got shorter. The oil climbs the wick, turns into gas at the tip and burns. The soaked cotton stays cool enough not to burn itself.",
      "check": {
       "t": "mcq",
       "q": "The oiled wick burned for 10 minutes and hardly got shorter. What does that show?",
@@ -1103,6 +1181,10 @@
     },
     {
      "item": "a notebook and coloured pencils",
+     "qty": 1
+    },
+    {
+     "item": "a bowl of water, kept nearby",
      "qty": 1
     }
    ],
@@ -1254,7 +1336,6 @@
      "qty": 1
     }
    ],
-   "safety": "Clear a space with nothing sharp nearby. This is practice only. There is no fire.",
    "schedule": [
     {
      "day": 1,
@@ -1281,7 +1362,7 @@
      "kid": "Smoke rises. Crawl low to the door. Feel the door with your hand first.",
      "check": {
       "t": "mcq",
-      "q": "Arjun's shirt sleeve catches fire from a lamp. What should he do?",
+      "q": "Arjun, a boy of six, has his shirt sleeve catch fire from a lamp. What should he do?",
       "options": [
        "Run to the bathroom for water",
        "Stop, drop to the ground, cover his face and roll",
@@ -1323,7 +1404,7 @@
      "qty": 1
     }
    ],
-   "safety": "This is practice only. For a big burn, a burn on the face, or a burn on a small child, cool it and go to a doctor or call 112 at once.",
+   "safety": "For a big burn, a burn on the face, or a burn on a small child, cool it and go to a doctor or call 112 at once.",
    "schedule": [
     {
      "day": 1,
@@ -1336,7 +1417,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Pretend your child has touched a hot vessel. 2. Hold their hand under cool running tap water, or pour water from a mug over it. 3. Set a timer for 20 minutes and talk about how long that is. Stop after 2 minutes, since this is practice.",
+     "do": "1. Pretend your child has touched a hot vessel. 2. Hold their hand under cool running tap water, or pour water from a mug over it. 3. Set a timer for 2 minutes and keep the hand under the water until it rings. For a real burn, the timer would be set for 20 minutes.",
      "say": "If you touch something hot, the skin keeps cooking even after you pull away. Cool running water takes the heat out. We keep it there for 20 minutes, as long as a whole TV episode.",
      "kid": "Burnt your finger? Hold it under cool running water. Keep it there for 20 minutes.",
      "parent": "Cool tap water, not ice-cold. Take off rings or bangles near the burn before it swells. After cooling, cover it loosely with a clean cloth or cling film.",
@@ -1392,7 +1473,6 @@
      "qty": 1
     }
    ],
-   "safety": "No flames in this activity.",
    "schedule": [
     {
      "day": 1,
@@ -1408,7 +1488,7 @@
      "do": "1. Rub your palms together fast for ten seconds, then touch them to your cheeks. 2. Rub the eraser hard on the paper for ten seconds, then touch the eraser to your lip. 3. Rub the ruler fast on the cloth, then feel it.",
      "say": "Rub your palms hard and fast for ten seconds. Now touch your cheeks. What do you feel? Where did that warmth come from?",
      "kid": "Rub your palms fast. Count to ten. Touch your cheeks. Warm?",
-     "parent": "All three get warm. The faster and harder the rubbing, the warmer. This is friction turning movement into heat.",
+     "parent": "Your palms get clearly warm, and the eraser gets a little warm. The ruler on the cloth may hardly warm at all. If so, say that: rubbing hard and fast gives the most heat. This is friction turning movement into heat.",
      "context": "This activity shows how rubbing makes heat, which is how people first learned to make fire."
     },
     {
@@ -1458,7 +1538,6 @@
      "qty": 1
     }
    ],
-   "safety": "No flames in this activity.",
    "schedule": [
     {
      "day": 1,
@@ -1485,7 +1564,7 @@
      "kid": "Which card was hardest? Could it go in two places?",
      "check": {
       "t": "mcq",
-      "q": "Meera's mother puts a lid on a kadai when the oil catches fire. Which side of the fire triangle does the lid take away?",
+      "q": "A kadai of oil catches fire, and a grown-up puts a lid on it. Which side of the fire triangle does the lid take away?",
       "options": [
        "Fuel",
        "Oxygen",
@@ -1529,7 +1608,7 @@
      "qty": 1
     }
    ],
-   "safety": "This is a plan and a practice. No fire is used. If you live in a flat, use the stairs, never the lift.",
+   "safety": "If you live in a flat, use the stairs, never the lift.",
    "schedule": [
     {
      "day": 1,
@@ -1601,10 +1680,11 @@
     "a steel plate",
     "an empty glass jar, a steel tumbler, aluminium foil",
     "a table fan",
-    "a box of matches, kept by the grown-up"
+    "a box of matches, kept by the grown-up",
+    "a bowl of water, kept nearby"
    ],
    "general": [
-    "Stand a glass jar, open at the top, over the diya. Air comes in from the top, and the glass keeps the wind off the sides.",
+    "Stand a wide, tall glass jar, open at the top, over the diya. Air comes in from the top, and the glass keeps the wind off the sides. A narrow jar can starve the flame.",
     "Wrap a strip of foil around three sides of the diya, leaving the side away from the fan open."
    ],
    "creative": [
@@ -1629,7 +1709,7 @@
      "say": "Let's test it. Watch the flame. Is it blowing sideways? Is it getting smaller, as if it is short of air?",
      "kid": "Test your shield in front of the fan. Does the flame stay lit?",
      "adult": true,
-     "parent": "A closed jar puts the flame out within a minute, because it runs out of oxygen. That is a useful result too. A tall glass jar open at the top usually works well. Keep paper and cloth away."
+     "parent": "A closed jar puts the flame out within a minute, because it runs out of oxygen. That is a useful result too. A wide, tall glass jar open at the top usually works well. Glass and foil get hot: only the grown-up lifts them, after they cool. Keep paper and cloth away."
     },
     {
      "id": "s3",
@@ -1639,7 +1719,7 @@
      "kid": "Look at the other ideas. Can you invent a better one?",
      "check": {
       "t": "mcq",
-      "q": "Nila closes the top of her glass jar with a lid to keep the wind out. The diya goes out. Why?",
+      "q": "Nila, a girl in Class 3, closes the top of her glass jar with a lid to keep the wind out. The diya goes out. Why?",
       "options": [
        "The flame used up the oxygen inside, and no fresh air could come in",
        "The jar got too hot",
@@ -1836,7 +1916,7 @@
   },
   {
    "t": "mcq",
-   "p": "Farhan's kurta catches fire from a lamp. What should he do?",
+   "p": "Farhan, a boy of nine, has his kurta catch fire from a lamp. What should he do?",
    "opts": [
     "Run outside into the wind",
     "Stop, drop to the ground, cover his face and roll",
@@ -1848,14 +1928,14 @@
   },
   {
    "t": "mcq",
-   "p": "Lakshmi, a girl in Class 3, burns her finger on a hot vessel. What is the best first aid?",
+   "p": "In a fire in a tall building, why should you use the stairs and not the lift?",
    "opts": [
-    "Toothpaste",
-    "Cool running water for 20 minutes",
-    "An ice cube"
+    "The power may fail, and smoke can fill the lift shaft",
+    "The lift is too slow to reach the ground",
+    "Lifts cannot go downstairs"
    ],
-   "a": 1,
-   "why": "Cool running water takes the heat out of the skin. Toothpaste and ice feel cool for a moment but do not cool the burn deep down, and can harm the skin.",
+   "a": 0,
+   "why": "In a fire the lift can stop between floors when the power fails, and smoke can fill the lift shaft. The stairs are the safe way out. Picking 'too slow' is a fair thought, but speed is not the main danger.",
    "outcome": 3
   },
   {
@@ -1977,7 +2057,7 @@
     },
     {
      "t": "mcq",
-     "p": "Ranjani blows out a birthday candle. What does her breath do to the flame?",
+     "p": "Ranjani, a girl in Class 3, blows out a birthday candle. What does her breath do to the flame?",
      "a": 0,
      "why": "Her breath pushes the wax gas away from the wick and cools the wick, so the flame has no fuel near enough to keep going. Picking 'adds water' is a guess about breath being damp, but that is not what puts it out.",
      "opts": [
@@ -2026,7 +2106,7 @@
     },
     {
      "t": "write",
-     "p": "Meenakshi's grandmother says, \"Tie back your davani before you light the lamps.\" Give the reason behind this rule.",
+     "p": "In the story The Lamps on the Balcony Wall, Paati, Meenakshi's grandmother, says, \"Tie back your davani before you light the lamps.\" Give the reason behind this rule.",
      "a": "A loose davani is cloth, which is a fuel. If it swings into the flame, the flame's heat can light it, and the air around it lets it burn.",
      "why": "A strong answer names the fire triangle: the cloth is fuel, the lamp gives heat and the air gives oxygen.",
      "lines": 3
@@ -2086,27 +2166,27 @@
     },
     {
      "t": "write",
-     "p": "Arjun says, \"Smoke is just air that has been burnt, so it can't hurt you.\" Is he right? Explain.",
+     "p": "Arjun, a boy of six, says, \"Smoke is just air that has been burnt, so it can't hurt you.\" Is he right? Explain.",
      "a": "No. Smoke carries tiny bits of soot and poisonous gases. In house fires, more people die from breathing smoke than from the flames.",
      "why": "A strong answer says what smoke contains, and why that matters in a fire.",
      "lines": 3
     },
     {
      "t": "perspective",
-     "p": "Farhan's family is deciding whether he, aged 9, may light the pooja lamp.",
+     "p": "Keerthana, aged 9, wants to light the pooja lamp at home. Her family is deciding whether she may.",
      "a": "A strong answer picks a side and backs it with a reason from the unit, such as the fire triangle, the steel plate, or the matches staying with grown-ups. It then gives one fair point from another side.",
      "why": "There is a real trade-off. Children learn care by doing, but matches and loose clothes need a grown-up's control.",
      "views": [
       {
-       "who": "Amma, his mother",
-       "says": "He can light it with a long match, with me beside him. He learns to respect fire by using it carefully."
+       "who": "Amma, her mother",
+       "says": "She can light it with a long match, with me beside her. She learns to respect fire by using it carefully."
       },
       {
-       "who": "Appa, his father",
-       "says": "Not until he is older. Matches are for grown-ups, and one slip can set his kurta on fire."
+       "who": "Appa, her father",
+       "says": "Not until she is older. Matches are for grown-ups, and one slip can set her clothes on fire."
       },
       {
-       "who": "Farhan",
+       "who": "Keerthana",
        "says": "I can put the lamp on the steel plate and fill the oil. A grown-up can do the match."
       }
      ],
@@ -2175,7 +2255,7 @@
     },
     {
      "t": "perspective",
-     "p": "Two cousins are arguing about blowing on fires.",
+     "p": "Two friends in Class 3, Kavya and Dhruv, are arguing about blowing on fires.",
      "a": "A strong answer sees that both are partly right. Blowing on a candle pushes the small amount of wax gas away and cools the wick. Blowing on embers brings more oxygen than it takes heat away, so they burn harder.",
      "why": "This is a real puzzle with two true sides. What blowing does depends on how big the fire is and how much fuel and heat it has.",
      "views": [
@@ -2184,11 +2264,11 @@
        "says": "Blowing puts out fires. I blow out my birthday candles every year."
       },
       {
-       "who": "Arjun",
-       "says": "Blowing makes fires bigger. Paati blows through a pipe to get the chulha going."
+       "who": "Dhruv",
+       "says": "Blowing makes fires bigger. My grandmother blows through a pipe to get the chulha going."
       }
      ],
-     "ask": "Who is right? Use the fire triangle to explain. Then say what the other cousin has right.",
+     "ask": "Who is right? Use the fire triangle to explain. Then say what the other friend has right.",
      "lines": 5
     },
     {
@@ -2320,14 +2400,14 @@
     },
     {
      "t": "mcq",
-     "p": "Divya smells gas when she comes home. What should she NOT do?",
+     "p": "The flame on Divya's gas stove has turned yellow, and her pans get black marks. Divya is a girl in Class 4. What should she do?",
      "a": 1,
-     "why": "A light switch can make a tiny spark that lights the gas. Opening windows and telling a grown-up are both right.",
      "opts": [
-      "Open the windows",
-      "Switch on the light",
-      "Tell a grown-up"
-     ]
+      "Pour water on the burner",
+      "Tell a grown-up that the burner may need cleaning",
+      "Cover the stove with a lid"
+     ],
+     "why": "A blue flame means the gas is mixed with enough air. A yellow flame that leaves black soot on pans often means the burner is blocked or dirty. A grown-up can check and clean it. Picking the lid is a fair thought for a fire, but this is not a fire to put out."
     }
    ]
   },
@@ -2369,14 +2449,14 @@
     },
     {
      "t": "mcq",
-     "p": "Nila closed the lid on the glass jar round her diya, and the flame slowly went out. The diya still had oil. Which side of the triangle was missing?",
+     "p": "Two diyas of the same size burn with the same oil. One is covered with a small closed glass jar and the other with a big closed glass jar. Which diya goes out first?",
      "a": 1,
-     "why": "With the lid on, no fresh air could get in, so the flame ran out of oxygen. It still had oil, and the wick was still hot.",
      "opts": [
-      "Fuel",
-      "Oxygen",
-      "Heat"
+      "The one under the big jar",
+      "The one under the small jar",
+      "They go out together"
      ],
+     "why": "Both have fuel and heat. A small jar holds less air, so its oxygen runs out sooner. Picking 'together' is a fair guess, because the diyas are the same. But the amount of air is different.",
      "how": "c1"
     },
     {
@@ -2524,7 +2604,7 @@
    "art": "A black smudge on a white wall above a brass lamp."
   },
   {
-   "text": "The Bhogi fire on the morning before Pongal, when people burn old things.",
+   "text": "The bonfires of mid-January: Bhogi before Pongal in Tamil Nadu, Lohri in Punjab and Meji for Magh Bihu in Assam.",
    "art": "A small bonfire on a street at dawn, with people standing back from it."
   },
   {
@@ -2556,14 +2636,14 @@
  ],
  "ask_kids": [
   "What fuel is our gas stove burning right now?",
-  "Why does the flame on the stove go out when Amma turns the knob?",
+  "Why does the flame on the stove go out when a grown-up turns the knob?",
   "If you blow gently on the embers of a fire, what happens? Why?",
   "Where is the matchbox kept at home? Why there?",
   "What are our two ways out of the home?",
   "Why is the candle getting shorter? Where is the wax going?",
   "Is the flame on this diya the same flame it was a minute ago?",
   "What could you use to put out a small fire in a kadai?",
-  "Why does Paati keep a bucket of water ready when crackers are lit?",
+  "Why do grown-ups keep a bucket of water ready when crackers are lit?",
   "What do you think early people did before they could make fire?"
  ],
  "jokes": [
@@ -2576,20 +2656,12 @@
    "a": "You really strike me as a friend."
   },
   {
-   "j": "Why was the candle so calm?",
-   "a": "It knew how to keep its cool wax."
-  },
-  {
    "j": "What did one flame say to the other?",
    "a": "We make a hot pair."
   },
   {
    "j": "Why don't candles ever argue for long?",
    "a": "They just blow over."
-  },
-  {
-   "j": "Why did the matchstick get a prize?",
-   "a": "It was a striking success."
   },
   {
    "j": "What did the lid say to the burning kadai?",
@@ -2600,20 +2672,8 @@
    "a": "Light-headed."
   },
   {
-   "j": "What did the oil say to the wick?",
-   "a": "I'll always help you climb up."
-  },
-  {
-   "j": "Why did the fire triangle win the game?",
-   "a": "It always had all its sides covered."
-  },
-  {
    "j": "What did the ember say when it was covered with ash?",
    "a": "Wake me up in the morning."
-  },
-  {
-   "j": "Why did the smoke rise to the top of the room?",
-   "a": "It wanted to get ahead."
   },
   {
    "j": "Why was the gas stove always so cheerful?",
@@ -2630,7 +2690,7 @@
  ],
  "maths": [
   {
-   "problem": "In The Jumping Flame, Meenakshi's family tried each height 3 times. At 2 cm the flame jumped 3 times. At 5 cm it jumped 2 times. At 8 cm it jumped 1 time. How many jumps were there in all? What fraction of the tries at 5 cm worked?",
+   "problem": "In The Jumping Flame, A family tried each height 3 times. At 2 cm the flame jumped 3 times. At 5 cm it jumped 2 times. At 8 cm it jumped 1 time. How many jumps were there in all? What fraction of the tries at 5 cm worked?",
    "answer": "6 jumps in all. At 5 cm, 2 out of 3 tries worked, which is two thirds.",
    "explain": "3 + 2 + 1 = 6 jumps. At 5 cm there were 3 tries, and 2 worked, so the fraction is 2 out of 3, or two thirds. The pattern shows the flame jumps less often the higher the match.",
    "math_unit": "math.fractions.fractions-of-a-whole.L3",
@@ -2671,7 +2731,7 @@
    "how": "e3"
   },
   {
-   "problem": "A tea light burns for about 4 hours. Lakshmi's family lights 6 tea lights at 6 in the evening on Karthigai Deepam. At what time will they go out? If they light one new tea light every 4 hours, how many do they need to keep one burning for a whole day of 24 hours?",
+   "problem": "A tea light burns for about 4 hours. Debjani's family in Kolkata lights 6 tea lights at 6 in the evening on Deepavali. At what time will they go out? If they light one new tea light every 4 hours, how many do they need to keep one burning for a whole day of 24 hours?",
    "answer": "About 10 at night. They need 6 tea lights for 24 hours.",
    "explain": "6 in the evening plus 4 hours is 10 at night. All 6 burn at the same time, so they all go out at about 10. For one light all day: 24 divided by 4 is 6 tea lights, one after the other.",
    "math_unit": "math.time.duration.L3",
@@ -2713,26 +2773,24 @@
    "id": "b-candles",
    "item": "A pack of plain white candles, the kind sold for power cuts",
    "kind": "material",
-   "why": "Plain white wax candles give the clearest white smoke for The Jumping Flame. Most kirana shops sell them.",
+   "why": "Plain white candles give the thickest white smoke. Most kirana shops sell them.",
    "url": "https://www.amazon.in/s?k=white+candles+pack",
    "used_in": [
     "e1",
     "e2",
     "a1"
-   ],
-   "plan": "Keep the rest for power cuts."
+   ]
   },
   {
    "id": "b-diya",
    "item": "Two small clay diyas and a pack of cotton wicks",
    "kind": "material",
-   "why": "Needed for Dry Wick or Oiled Wick? Many homes already have them for pooja or festivals.",
+   "why": "Many homes already have clay diyas and cotton wicks for pooja or festivals.",
    "url": "https://www.amazon.in/s?k=clay+diya+cotton+wicks",
    "used_in": [
     "e3",
     "c1"
-   ],
-   "plan": "Use them again for Karthigai Deepam or Deepavali."
+   ]
   }
  ],
  "warmup": [
@@ -2745,7 +2803,7 @@
    "a": "Wax gas."
   },
   {
-   "q": "What do you call for the fire service in India?",
+   "q": "Which number do you call for the fire service in India?",
    "a": "101, or 112 for any emergency."
   },
   {
@@ -2851,7 +2909,7 @@
   "context": "We have tested what a candle really burns, and found what every fire needs. Now we ask what a flame tells us about ourselves and the world.",
   "deep_truth": {
    "truth": "A match held to a lump of wax only melted it. Yet a flame above a blown-out wick ran down the smoke and relit it. What burns is wax that heat has turned into a gas. A flame keeps going because its own heat makes more gas to burn.",
-   "habit": "We think of fire as eating the solid wax, wood or oil, the way we eat a dosa. But a flame never burns a solid directly. It keeps making its own fuel, by heating the solid into gas.",
+   "habit": "We think of fire as eating the solid wax or the liquid oil, the way we eat a dosa. But in a candle or a lamp, the flame never burns the solid wax or the oil itself. It keeps making its own fuel, by heating the wax or oil into gas.",
    "evidence": "In The Jumping Flame, a match held to a lump of wax for ten seconds only melted it. The same match lit the white smoke of a blown-out candle from a few centimetres above, and the flame ran down to the wick."
   },
   "three": {
@@ -2859,7 +2917,7 @@
    "what_is_life": "Some plants in Australia and South Africa grow where bushfires come often. After a fire the ground is open and sunny, so their seeds wait to sprout until they sense the smoke.",
    "what_is_this_world": "Fire needs oxygen, and nearly all the oxygen in the air was made by plants and tiny sea beings. Before there was enough of it, nothing on Earth could burn."
   },
-  "thread": "Wax, oil, wood and cooking gas look nothing alike. One is a solid, one a liquid, one a gas. Yet in a flame they all do the same thing. Heat turns each into gas, and each gas joins with oxygen and gives out heat and light. So one kind of change shows up as a diya's yellow leaf of light, the blue ring on a stove and a forest fire on a hill.",
+  "thread": "Wax, oil, wood and cooking gas look nothing alike. One is a solid, one a liquid, one a gas. Yet in a flame they all do the same thing. Heat turns each into gas, and each gas joins with oxygen and gives out heat and light. So a diya's yellow light, the blue ring on a stove and a forest fire on a hill are the same change.",
   "teachings": [
    {
     "source": "Heraclitus, a Greek thinker of about 500 BCE, fragment 30 (Diels-Kranz numbering)",
@@ -2903,7 +2961,7 @@
   ],
   "art": "A child sitting quietly an arm's length from a single candle on a steel plate, watching the flame, with faint arrows showing new wax gas flowing up into it."
  },
- "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home, with the materials listed. Choices made: all lighting is done by a grown-up, on a steel plate on a bare counter, with a bowl of water nearby. The Jumping Flame uses plain white wax candles, which give the thickest smoke. The match is lit before the candle is blown out, because the smoke lasts only a second or two, and the fan must be off. The 2 cm height nearly always works, 5 cm often and 8 cm only sometimes, so the step says 'did not jump' is a result too. The wax lump may flicker for a moment from the match's own flame, so the step says to watch what happens when the match is taken away. The tea strainer must be all steel, as plastic rims melt, and is held for 3 seconds only. A slotted spoon with holes about half a centimetre wide lets flame tongues through. Kerosene and petrol are never used. The cup-over-the-candle test and the cold spoon test are left out, because they are in the edge-of-life unit. The water-on-oil danger is explained, never shown. The spine is the flame-watching activity, The Jumping Flame, the explanation cards, the home safety walk, roots and the quiz, about 85 minutes.",
+ "playtest": "Every experiment, activity, game, challenge and project was walked through as if at home, with the materials listed. Choices made: all lighting is done by a grown-up, on a steel plate on a bare counter, with a bowl of water nearby. The Jumping Flame takes 35 minutes for its nine smoke tries and uses plain white wax candles, which give the thickest smoke. The match is lit before the candle is blown out, because the smoke lasts only a second or two, and the fan must be off. The 2 cm height usually works, 5 cm about half the time and 8 cm rarely, so the step says 'did not jump' is a result too. The wax lump may flicker for a moment from the match's own flame, so the step says to watch what happens when the match is taken away. The tea strainer must be all steel, as plastic rims melt, and is held for 3 seconds only. A slotted spoon with holes about half a centimetre wide lets flame tongues through. Kerosene and petrol are never used. The cup-over-the-candle test and the cold spoon test are left out, because they are in the edge-of-life unit. The water-on-oil danger is explained, never shown. The spine is the flame-watching activity, The Jumping Flame, the explanation cards, the home safety walk, roots and the quiz, about 85 minutes.",
  "how_we_found_out": {
   "story": "In the early 1800s, coal mines in England were full of danger. A gas called firedamp seeps out of coal, and a miner's candle could set it off. On 25 May 1812, an explosion at Felling Colliery, near Newcastle, killed 92 men and boys. Miners had tried other lights. A steel mill was a steel wheel spun against a flint, which threw out sparks to see by. It was thought to be safer than a candle, but explosions showed that sparks could light firedamp too. In 1815, the chemist Humphry Davy, helped by young Michael Faraday, studied how flames travel. He found that a flame could not pass through narrow metal tubes or fine wire mesh, because the metal took away its heat. So he put a lamp's flame inside a cylinder of iron mesh. The engineer George Stephenson made a similar lamp at the same time. Many then believed Davy's lamp made mines safe. But in 1835, a committee of the British Parliament found that accidents had gone up. Owners sent men into gassier parts of mines, and a draught or a broken wire could let the flame out.",
   "who": "Humphry Davy, a chemist in London, helped by Michael Faraday, and George Stephenson, a mine engineer in Killingworth",

@@ -15,11 +15,11 @@
 
 ## Terms
 - **Learning**: Learning is changing what you do because of what you saw or what happened to you before. *e.g.* A street dog who was once given biscuits at a tea stall comes back to the same stall every evening.
-- **Instinct**: An instinct is something an animal can do without learning. They are born able to do so. *e.g.* A baby spider spins her first web without ever having seen one made.
-- **Reward**: A reward is something good that comes after an action, so the animal is more likely to do that action again. *e.g.* A dog gets a piece of chapati each time she sits when asked, so she sits more quickly next time.
+- **Instinct**: An instinct is something an animal can do without learning. Animals are born able to do it. *e.g.* A baby spider spins her first web without ever having seen one made.
+- **Reward**: A reward is something good that comes after an action, so the animal is more likely to do that action again. *e.g.* A dog gets a small piece of biscuit each time she sits when asked, so she sits more quickly next time.
 - **Trial and error**: Trial and error means trying different ways until one works, then keeping the way that worked. *e.g.* A crow pecks at a tied plastic bag in different places until one peck tears it open.
 - **Social learning**: Social learning is learning from others: by watching them, listening to them or following them. *e.g.* A young elephant learns which plants to eat by eating what her mother eats.
-- **Imitation**: Imitation is copying the exact actions you saw someone do, step by step. *e.g.* Your little cousin holds a phone to her ear and nods, just the way her mother does.
+- **Imitation**: Imitation is copying the exact actions you saw someone do, step by step. *e.g.* A little girl holds a toy phone to her ear and nods, just the way her mother does on a real phone.
 - **Emulation**: Emulation is copying the goal, not the exact actions. You see what someone got, then find your own way to get it. *e.g.* You see your friend get a mango off a branch with a stick. You get one by climbing a stool instead.
 - **Overimitation**: Overimitation is copying steps that do nothing, even when you could see that they do nothing. *e.g.* A girl watches her uncle tap a jar lid three times before opening it, and taps it three times too.
 - **Tool**: A tool is an object an animal holds or moves to get something done, such as a stick for reaching food. *e.g.* A chimpanzee pokes a grass stem into a termite mound and pulls it out covered in termites.
@@ -29,12 +29,12 @@
 ### Born knowing, or learned? · *defined*
 **Definition:** An instinct is something an animal can do without learning. Learning is changing what you do because of what you saw or what happened before.
 
-A baby sea turtle hatches at night and crawls towards the sea. Nobody showed her the way. That is an instinct. A street dog who runs to the gate when the milk van comes has learned it, because the van has meant food before. Most of what animals do mixes the two. A weaver bird is born able to weave, but young males make messy nests at first and better ones with practice.
+A baby sea turtle hatches at night and crawls towards the sea. Nobody showed her the way. That is an instinct. A street dog who runs to the gate when the milk van comes has learned this, because the van has meant food before. Most of what animals do mixes the two. A weaver bird is born able to weave, but young males make messy nests at first and better ones with practice.
 - e.g. A chick pecks at grains soon after hatching. That is an instinct.
 - e.g. A cat runs to the kitchen at the sound of the fish seller's bicycle bell. That is learned.
 - e.g. A koel chick raised by crows still grows up calling 'koo-oo' like a koel, not like a crow.
 ### Learning from what happened before · *defined*
-**Definition:** When an action brings something good, an animal does it more often. When an action brings something bad, they do it less. The good thing is called a reward.
+**Definition:** When an action brings something good, animals repeat that action more often. When an action brings something bad, they repeat it less. The good thing is called a reward.
 
 This is how most dogs learn tricks. The dog sits, and a treat comes. After a few times, she sits as soon as she hears 'sit'. Trainers reward small steps, one at a time, to build a long trick. Some dogs also learn tricks by watching. Claudia Fugazza and Adam Miklósi, scientists in Hungary, tried another way. The owner did an action with an object, then said 'Do it!'. Dogs taught this way learned some object tricks faster than dogs taught only with rewards.
 - e.g. A dog learns to give her paw because a treat followed each time.
@@ -50,7 +50,7 @@ Chaser was a border collie, a kind of sheepdog, in America. Her owner, John Pill
 ### Learning by watching others · *defined*
 **Definition:** Social learning is learning from others. Animals learn which foods are safe, which places are dangerous and how to use tools by watching others.
 
-At Gombe in Tanzania, young chimpanzees learn to fish for termites. They poke a grass stem into the mound, wait, and pull it out covered in termites. It takes years to learn. In 2004, Elizabeth Lonsdorf and her team found that daughters watched their mothers fish more than sons did. The daughters learned it younger, and they pushed their stems in as deep as their mothers did. Crows learn this way too. In Seattle, crows that had never been caught learned to scold a mask that other crows scolded.
+At Gombe in Tanzania, young chimpanzees learn to fish for termites. They poke a grass stem into the mound, wait, and pull it out covered in termites. Learning takes years. In 2004, Elizabeth Lonsdorf and her team found that daughters watched their mothers fish more than sons did. The daughters learned it younger, and they pushed their stems in as deep as their mothers did. Crows learn this way too. In Seattle, crows that had never been caught learned to scold a mask that other crows scolded.
 - e.g. A young chimpanzee watches her mother fish for termites, then tries with her own stem.
 - e.g. A crow that was never harmed scolds a person whom other crows scold.
 - e.g. A young elephant eats the plants her mother eats.
@@ -97,7 +97,7 @@ In 1953, on the island of Koshima in Japan, a young macaque monkey called Imo be
 ## Roots
 We have learned how animals learn by trying, by watching and by working things out, and we tested how people copy. Now we ask what copying tells us about ourselves and the world.
 
-**Deep truth.** In your test, most people copied the tap, though the clear box showed it did nothing. Chimpanzees shown a clear box mostly skipped such a step. People copy whole ways of doing things before they understand them. So a habit can pass down for generations without anyone knowing why.  
+**Deep truth.** In tests like yours, most people copied the tap, though the clear box showed it did nothing. Chimpanzees shown a clear box mostly skipped such a step. People copy whole ways of doing things before they understand them. So a habit can pass down for generations without anyone knowing why.  
 *Habit it breaks:* We call copying the simple way to learn, and say 'monkey see, monkey do'. But the chimpanzees skipped the useless step, and the people copied it. Copying every step exactly is a strong human way of learning, and it carries reasons we may have forgotten.  
 *Evidence:* In Horner and Whiten's clear box test, most chimpanzees skipped the useless poke and most children copied it. Grown-ups copy useless steps even more. In your own test, count how many people tapped the lid and how many could say why.
 
@@ -108,7 +108,7 @@ We have learned how animals learn by trying, by watching and by working things o
 One great tit in each group was shown one way to open a box. Within weeks, most of the group used that same way. One bird's way became the way of many birds, carried by watching. Every tradition, in a crow family, a chimpanzee group or a home in Madurai, began as one mind's way of doing something and spread into many minds.
 
 - **Taittiriya Upanishad 1.11.2:** The teacher tells the students who are leaving: follow the good things we did, and not the others. (The teacher asks the students to copy only what is good, not every step. That is the choice the chimpanzees made with the clear box, and the one people often skip.)
-- **Kalama Sutta (Anguttara Nikaya 3.65):** The Buddha tells the Kalama people not to accept something only because it has been handed down, or because a teacher said it. Test it for yourself, and keep what you find to be good. (Meenakshi tested the tap and the turn one at a time. She kept the tap, which really called the crows, and dropped the turn.)
+- **Kalama Sutta (Anguttara Nikaya 3.65):** The Buddha tells the Kalama people not to accept something only because it has been handed down, or because a teacher said it. Test it for yourself, and keep what you find to be good. (In the story, Meenakshi tested the tap and the turn one at a time. She kept the tap, which called the crows, and dropped the turn.)
 - Science (settled): Children in many countries, from Scotland to the Kalahari Desert, copy useless steps, and grown-ups copy them even more.
 - Science (debated): Why people overimitate is still argued. Some scientists say we expect every step to have a reason. Others say we copy to fit in.
 - Other view, Harriet Over and Malinda Carpenter, psychologists: Over-copying may not be about learning at all. Children copy useless steps mainly to show they are like the person who showed them, the way friends copy each other's words.
@@ -118,7 +118,7 @@ One great tit in each group was shown one way to open a box. Within weeks, most 
 - Ask: When is it wise to copy everything, and when is it wise to test each step?
 
 ## Deep and big questions
-- *deep:* If you copy a step and never find out why, have you learned it? (hint: Think of the tap in the useless step test. Then think of something your family always does, but nobody knows why.)
+- *deep:* If you copy a step and never find out why, have you learned it? (hint: Think of the tap in the Useless Step Test.)
 - *deep:* The chimpanzees skipped the useless step, and the children copied it. Who was cleverer? (hint: Skipping saves time. Copying keeps steps that might matter. Which would help more in a forest full of new things?)
 - *deep:* Chaser knew the names of 1,022 toys. Did she understand them the way you understand words? (hint: She could fetch a toy by name. Could she tell you about it? What else does knowing a word mean?)
 - *big:* How many things you do each day did you learn by copying someone? (hint: Brushing your teeth, folding your hands, the way you say hello.)
@@ -197,13 +197,13 @@ And the crows? The crows had been learning all along. They had learned that a ti
 
 ## Games
 ### g1 · How Did They Learn? (20 min)
-- **rules:** Shuffle the 20 cards. Put them in a pile with the fronts up. Lay the sorting mat in the middle.; On your turn, read the top card aloud. Say which box you think it goes in, and why.; Turn the card over. If you were right, keep the card. If not, put it in the right box on the mat.; Any player can say 'Challenge!' if they think the card could fit two boxes. If they can give a good reason, they win a card from the mat.; When the pile is finished, the player with the most cards wins. Playing alone, try to keep 15 or more.
+- **rules:** Shuffle the 20 cards. Put them in a pile with the fronts up. Lay the sorting mat in the middle.; On your turn, read the top card aloud. Say which box you think it goes in, and why.; Turn the card over. If you were right, keep the card. If not, put it in the right box on the mat.; Any player can say 'Challenge!' if they think the card could fit two boxes and can give a good reason. If the others agree, that player takes one card from the mat (a card someone guessed wrong).; When the pile is finished, the player with the most cards wins. Playing alone, try to keep 15 or more.
 - **Printable cards: 20 animal cards to cut out (how they learned is on the back):** A baby spider spins her first web without ever seeing one made. (back: Born knowing); A newly hatched sea turtle crawls down the beach to the sea at night. (back: Born knowing); A chick pecks at grains soon after hatching. (back: Born knowing); A koel chick raised by crows grows up calling 'koo-oo' like a koel. (back: Born knowing); A newborn calf stands up and walks within a few hours of birth. (back: Born knowing); A dog sits when asked, because sitting has brought a treat many times. (back: From what happened before); Pigeons fly down to a man who scatters grain at the same spot every morning. (back: From what happened before); A cat runs to the kitchen at the sound of the fish seller's bell. (back: From what happened before); Honeybees go back to the flower colour that gave them the most nectar. (back: From what happened before); A young male weaver bird builds a messy nest at first, and better nests with practice. (back: From what happened before); A young chimpanzee watches her mother fish for termites, then pokes her own stem in just as deep. (back: By watching others); Crows that were never caught scold a mask that other crows scold. (back: By watching others); A great tit opens a puzzle door by sliding it the same way as the rest of her group. (back: By watching others); Imo, a young macaque in Japan, washed sweet potatoes in water. Soon, others in her group did too. (back: By watching others); A young elephant learns which plants to eat by eating what her mother eats. (back: By watching others); Some young dolphins in Australia carry a sea sponge on their snout while digging for fish, as their mothers do. (back: By watching others); Chaser, a dog, heard a toy name she had never heard before. She picked the only new toy. (back: By working it out); A crow uses a short stick to pull out a long stick, then uses the long stick to reach meat. (back: By working it out); A chimpanzee sees through a clear box that one step does nothing, and skips it. (back: By working it out); Rooks dropped stones into a tube of water to raise a floating worm within reach. (back: By working it out)
 - **Printable board: A sorting mat with 4 boxes:** Box 1: Born knowing; Box 2: From what happened before; Box 3: By watching others; Box 4: By working it out
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 20 cards and the sorting mat. 2. Shuffle the cards. 3. Put the pile face up next to the mat.  
-  *Parent says:* Animals learn in different ways. Each card is a true fact about an animal. Your job is to guess how they learned it.  
-  *Child mode:* Cut out the cards. Mix them up. Each card is a true animal fact. Guess how the animal learned it.
+  *Parent says:* Animals learn in different ways. Each card is a true fact about an animal. Your job is to guess how they learned to do this.  
+  *Child mode:* Cut out the cards. Mix them up. Each card is a true animal fact. Guess how the animal learned to do this.
 - **s2 (3 min)**  
   *Parent does:* Play the spider card as a practice round.  
   *Parent says:* A baby spider spins her first web without ever seeing one made. Which box?  
@@ -219,8 +219,8 @@ And the crows? The crows had been learning all along. They had learned that a ti
   *Parent says:* Which box was hardest to guess? Why do you think so?  
   *Child mode:* Count your cards. Which box was hardest to guess?
 ### g2 · Action Telephone (15 min)
-- **rules:** Stand in a line. The first player picks a secret card and reads it alone.; The first player does the four actions for the second player, without words. The others look away.; The second player does what they remember for the third player, and so on to the end of the line.; The last player does the actions for everyone. Then the first player reads the card aloud.; Everyone scores a point if all four actions arrived. With only 2 players, go first player, second player, then back to the first player, who copies the second player's version, not the card.
-- **Printable cards: 8 secret action cards to cut out:** Clap twice. Touch your nose. Turn around once. Wave.; Tap the table three times. Pat your head. Stamp one foot. Bow.; Pretend to pour tea. Blow on it. Sip. Say 'Aaah'.; Fold your arms. Nod twice. Touch both ears. Jump once.; Pretend to draw a kolam dot. Draw a loop round it. Brush your hands. Smile.; Pretend to open a door. Look left. Look right. Tiptoe two steps.; Pretend to roll a dosa on a tawa. Flip it. Sniff it. Give a thumbs up.; Point at the ceiling. Wiggle your fingers. Hug yourself. Sit down.
+- **rules:** Stand in a line. The first player picks a secret card and reads it alone.; The first player does the four actions for the second player, without words. The others look away.; The second player does what they remember for the third player, and so on to the end of the line.; The last player does the actions for everyone. Then the first player reads the card aloud.; Everyone scores a point if all four actions arrived. With only 2 players: the first player shows the card's actions to the second player, the second player does what they remember back to the first player, and the first player checks it against the card.
+- **Printable cards: 8 secret action cards to cut out:** Clap twice. Touch your nose. Turn around once. Wave.; Tap the table three times. Pat your head. Stamp one foot. Bow.; Pretend to ring a bicycle bell. Wave to a neighbour. Pedal fast. Stop.; Fold your arms. Nod twice. Touch both ears. Jump once.; Pretend to draw a kolam dot. Draw a loop round it. Brush your hands. Smile.; Pretend to fly a kite. Pull the string. Look up high. Cheer.; Pretend to roll a dosa on a tawa. Flip it. Sniff it. Give a thumbs up.; Point at the ceiling. Wiggle your fingers. Hug yourself. Sit down.
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the 8 cards and shuffle them. 2. Make a line of players.  
   *Parent says:* We are going to pass actions along a line, without any words. Let's see if they arrive the same.  
@@ -232,7 +232,7 @@ And the crows? The crows had been learning all along. They had learned that a ti
   - Ask: Which actions got lost or changed most often? (good: The small ones, like touching an ear.; The ones in the middle of the list.)
 - **s3 (3 min)**  
   *Parent does:* Talk about why some actions arrived and others did not.  
-  *Parent says:* Young chimpanzees and children were tested in lines like this, with a puzzle box. A way of opening the box passed along a line of six chimpanzees.  
+  *Parent says:* Scientists did this with chimpanzees and a puzzle box. A way of opening the box passed along a chain of six chimpanzees. Why do you think some of our actions got lost?  
   *Child mode:* Scientists tested chimpanzees in lines like this. They passed on a way to open a box.
   - Check: In Action Telephone, why do some actions change along the line? → **Each player copies what the player before them did, not the card**
 
@@ -278,7 +278,7 @@ And the crows? The crows had been learning all along. They had learned that a ti
 ### e2 · Pass It On: does a way of opening a box travel down a chain? (30 min)
 - **question:** If a box can be opened two ways, and each person shows the next, will the way you showed travel down the whole chain?
 - **predict:** Guess first. Will the last person in the chain open the box the same way you showed the first person? Why do you think so?
-- **fair test:** Each person sees only the person just before them. Nobody sees the card that says which way you chose. If you can, one extra person gets the box with no show at all, so you can see which door people pick on their own.
+- **fair test:** Each person sees only the person just before them. Nobody sees the slip that says which way you chose. If you can, one extra person gets the box with no show at all, so you can see which door people pick on their own.
 - **safety:** A grown-up cuts the flaps in the box with scissors or a cutter.
 - **record:** Fill in the table. Draw the chain as a row of stick people, with an arrow from each to the next and the door they used.
 - **results table:** Person in the chain | Who showed them | Door they used (top or side) | Did they also show the next person? (yes or no)
@@ -303,7 +303,7 @@ And the crows? The crows had been learning all along. They had learned that a ti
   *Parent does:* If you have one more person, give them the box with no show. Just say: 'There is a prize inside. Get it out.'  
   *Parent says:* This person had no show. Which door do they pick on their own?  
   *Child mode:* Give the box to one more person. Show them nothing. Which door do they pick?
-  - Note: This is the comparison. If the no-show person picks a door at random, and the chain kept yours, the chain shows copying, not just the easy door.
+  - Note: This person shows which door people pick when nobody has shown them. If this person picks the other door and the chain used yours, the chain was probably copying. One person is a small sample, so it is only a hint.
 - **s6 (4 min)**  
   *Parent does:* Read the secret slip aloud. Compare it with the doors in the table.  
   *Parent says:* In 2006, scientists did this with chimpanzees. The 'lift the door' way travelled down a chain of six chimpanzees.  
@@ -315,8 +315,8 @@ And the crows? The crows had been learning all along. They had learned that a ti
 - **record:** A table with four columns: born knowing, from what happened before, by watching others, by being told.
 - **s1 (4 min)**  
   *Parent does:* 1. Draw four columns on the paper. 2. Label them: born knowing, from what happened before, by watching others, by being told. 3. Ask your child to name 8 things they can do.  
-  *Parent says:* Tell me 8 things you can do. Anything at all: eat with your hand, ride a cycle, whistle, cry, draw a kolam.  
-  *Child mode:* Name 8 things you can do. Anything: eat, cycle, whistle, cry, draw a kolam.
+  *Parent says:* Tell me 8 things you can do. Anything at all: eat with your hand, ride a cycle, whistle, cry, draw a kolam or rangoli.  
+  *Child mode:* Name 8 things you can do. Anything: eat, cycle, whistle, cry, draw a kolam or rangoli.
 - **s2 (4 min)**  
   *Parent does:* Put each thing in a column. Talk about the ones that fit two columns.  
   *Parent says:* Who taught you that? Did you watch someone, or try until it worked, or were you born able to do it?  
@@ -367,10 +367,10 @@ And the crows? The crows had been learning all along. They had learned that a ti
   *Parent does:* Add up the grains before watching and after watching. Clean up the honey.  
   *Parent says:* At Gombe in Tanzania, young chimpanzee daughters watched their mothers fish a lot. They pushed their stems in just as deep as their mothers.  
   *Child mode:* Add up your grains. Did watching help? Chimpanzee daughters copied how deep their mothers went.
-  - Note: Wipe up any honey straight away, or ants will find it.
+  - Note: Your child also had more practice in the second round, so this hints at what watching does; it does not prove it. To be fairer another day, let a friend practise 5 more times without watching and compare. Wipe up any honey straight away, or ants will find it.
   - Check: Young chimpanzees at Gombe learn termite fishing. What did the daughters do that helped them learn younger? → **They watched their mothers fish more**
 ### a4 · What Have They Learned? A window watch (15 min)
-- **record:** A list: the animal, what they did, and how you think they learned it.
+- **record:** A list: the animal, what they did, and how you think they learned to do this.
 - **s1 (10 min)**  
   *Parent does:* Sit at the window for 10 minutes. Write down every animal you see and what they do.  
   *Parent says:* Look for animals doing something they must have learned. A crow waiting near the bins. Pigeons gathering where someone throws grain. A dog at the tea stall.  
@@ -379,13 +379,13 @@ And the crows? The crows had been learning all along. They had learned that a ti
 - **s2 (5 min)**  
   *Parent does:* For each animal, talk about how they might have learned what they did.  
   *Parent says:* Do you think that crow was born knowing the bins have food? Or did they learn it? How?  
-  *Child mode:* Pick one animal. Do you think they learned it? How?
+  *Child mode:* Pick one animal. Do you think they learned this? How?
   - Ask: How could you test whether the pigeons learned the feeding time? (good: Watch the same spot at the same time on a day when nobody feeds them.; See if they come before the grain is thrown.)
 
 ## Projects
 ### p1 · The Plate Lesson: can a bird learn which plate has food? (55 min, 5 days)
 - **record:** A tally chart: day, which plate the first bird went to, and how long they took to come.
-- **schedule:** day 1: Put food only on the red plate. Put the empty blue plate next to it. Watch for 5 minutes. Write which plate the first bird lands at. (10 min); day 2: Same as day 1, but swap the places of the two plates. (10 min); day 3: Same again, plates swapped back. (10 min); day 4: Test day. Put a little food on both plates. Which plate does the first bird go to? (10 min); day 5: Test again. Make a tally chart of all 5 days and say what the birds learned. (15 min)
+- **schedule:** day 1: Put food only on the red plate. Put the empty blue plate next to it. Watch for 5 minutes. Write which plate the first bird lands at. (10 min); day 2: Same as day 1, but swap the places of the two plates. (10 min); day 3: Same again, plates swapped back. (10 min); day 4: Test day. Put a little food on both plates, with the red plate on the side it was not on yesterday. Which plate does the first bird go to? (10 min); day 5: Test again, swapping the sides once more. Make a tally chart of all 5 days and say what the birds learned. (15 min)
 - **s1 (10 min)**  
   *Parent does:* 1. Put a spoonful of rice on the red plate only. 2. Put both plates on the ledge, a hand-width apart. 3. Step back from the window. 4. Watch for up to 5 minutes and write which plate the first bird lands at.  
   *Parent says:* Birds learn from what happened before. Let's see if they learn that red means food.  
@@ -398,16 +398,16 @@ And the crows? The crows had been learning all along. They had learned that a ti
   - Ask: Why swap the plates' places each day? (good: So the birds have to learn the colour, not the place.)
   - Wait: Come back tomorrow at the same time.
 - **s3 (10 min)**  
-  *Parent does:* On day 4, put a little rice on both plates. Write which plate the first bird goes to.  
+  *Parent does:* On day 4, put a little rice on both plates, with the red plate on the side it was not on yesterday. Write which plate the first bird goes to.  
   *Parent says:* Both plates have food today. Which one will the first bird pick?  
   *Child mode:* Put rice on both plates. Which one does the first bird go to?
   - Wait: Come back tomorrow.
 - **s4 (15 min)**  
-  *Parent does:* 1. On day 5, test again with food on both plates. 2. Make a tally chart of all 5 days.  
+  *Parent does:* 1. On day 5, swap the sides once more and test again with food on both plates. 2. Make a tally chart of all 5 days.  
   *Parent says:* What does the chart show? Did the birds learn the red plate?  
   *Child mode:* Test again. Make a tally chart. Did the birds learn the red plate?
   - Note: Birds may not learn in 3 days, or the first bird may be a new one each day. That is still a result. Say what you would change, such as more days.
-  - Check: For 3 days, only the red plate had food. On day 4, both plates had food, and the first bird went straight to the red plate. Why? → **The bird learned that the red plate had food before**
+  - Check: For 3 days, only the red plate had food. On day 4, both plates had food, and the first bird went straight to the red plate. What is the most likely reason? → **The bird learned that the red plate had food before**
 
 ## Challenges
 ### c1 · Build a Two-Door Prize Box (30 min)
@@ -437,8 +437,8 @@ And the crows? The crows had been learning all along. They had learned that a ti
 2. (sort) Sort each one: is it an instinct, or is it learned?  
    **Answer:** A chick pecks at grains soon after hatching → Instinct; A dog sits when asked, for a treat → Learned; A baby turtle crawls to the sea → Instinct; Pigeons gather where a man scatters grain every morning → Learned; A young chimpanzee fishes for termites with a stem → Learned; A baby spider spins her first web → Instinct. *Why:* Instincts need no teaching and no practice. Learned things come from what happened before or from watching others. A strong answer says how each learned thing was learned.
 3. (mcq) Which of these is a reward for a dog learning to sit?  
-   Options: A piece of chapati / A loud noise / Being ignored / A bath  
-   **Answer:** A piece of chapati. *Why:* A reward is something good that comes after an action, so the action happens more. Food is a reward for most dogs. A loud noise would make sitting happen less.
+   Options: A piece of biscuit / A loud noise / Being ignored / A bath  
+   **Answer:** A piece of biscuit. *Why:* A reward is something good that comes after an action, so the action happens more. Food is a reward for most dogs. A loud noise would make sitting happen less.
 4. (truefalse) A friend says: 'Only people can learn. Animals do everything by instinct.' Is your friend right?  
    **Answer:** False. *Why:* False. Dogs learn tricks, crows learn which people are dangerous, and bees learn flower colours. A strong answer gives one example.
 5. (write) Remember the Useless Step Test, where you tapped the lid of a clear box before opening it. What did the people you tested do? Use your results table.  
@@ -451,14 +451,15 @@ And the crows? The crows had been learning all along. They had learned that a ti
 8. (mcq) A young elephant eats the same plants her mother eats. How is she learning?  
    Options: By instinct / By watching others / By a reward from people / She is not learning  
    **Answer:** By watching others. *Why:* She learns which plants are good by following her mother. That is social learning. It also keeps her from eating plants that might harm her.
-9. (draw) Draw a young chimpanzee learning to fish for termites. Show who she is watching and what tool she uses.  
+9. (mcq) A young male weaver bird builds a messy nest at first, and better nests with practice. What does this show?  
+   Options: Weaving mixes instinct and practice / Weaving is only learned from his mother / Weaving is only instinct, so practice does nothing / Practice makes nests worse  
+   **Answer:** Weaving mixes instinct and practice. *Why:* He is born able to weave, which is instinct, and he gets better with practice. Most of what animals do mixes the two.
+10. (draw) Draw a young chimpanzee learning to fish for termites. Show who she is watching and what tool she uses.  
    **Answer:** A young chimpanzee next to her mother at a termite mound, both holding grass stems, the mother's stem covered in termites.. *Why:* A strong drawing shows the mother as the one being watched, and a thin stem or stick as the tool.
-10. (truefalse) Chaser, a sheepdog in America, learned the names of more than 1,000 toys.  
-   **Answer:** True. *Why:* True. Her owner, John Pilley, taught her 1,022 toy names over three years. A strong answer may add that she could also work out a new name.
 11. (fill) Copying a step that does nothing, even when you can see it does nothing, is called ____.  
    **Answer:** ['overimitation']. *Why:* Over means too much. Overimitation is copying more than you need to. People do it far more than chimpanzees.
 12. (perspective) Two sisters in Chennai watched the Useless Step Test. They argue about the tap.  
-   **Answer:** A strong answer uses evidence from the test, such as how many people tapped and why they said they did. It sees both sides. Divya is right that the tap did nothing in a clear box. Kavya is right that copying every step is often useful, because some steps matter in ways we can't see, like Paati's tap that called the crows.. *Why:* Scientists still argue about why people overimitate. Both sisters have part of the answer.
+   **Answer:** A strong answer uses evidence from the test, such as how many people tapped and why they said they did. It sees both sides. Divya is right that the tap did nothing in a clear box. Kavya is right that copying every step is often useful, because some steps matter in ways we can't see.. *Why:* Scientists still argue about why people overimitate. Both sisters have part of the answer.
 13. (order) Put the steps of the Useless Step Test in order.  
    **Answer:** ['Do the show: tap, turn, open', 'Put the prize back and close the lid', "Say 'Now you get the prize out'", 'Ask the person why they tapped the lid']. *Why:* First the show, then reset the box, then let them try, and ask why only at the end, so the question doesn't change what they do.
 14. (mcq) A crow pecks at a tied plastic bag in different places until one peck tears it open. What is this way of learning called?  
@@ -473,34 +474,35 @@ And the crows? The crows had been learning all along. They had learned that a ti
 2. (mcq) Chaser heard a toy name she had never heard. Only one toy in front of her was new to her. She picked it. What did she do?  
    Options: She worked out that a new name must go with a new toy / She picked at random / She smelled the name / She was born knowing the toy  
    **Answer:** She worked out that a new name must go with a new toy. *Why:* She worked it out by leaving out the toys she already had names for. You do the same with a new word. Picking at random would not give the new toy every time.
-3. (write) In the Pass It On test, a box opens by the top door or the side door. Why do both doors need to be equally easy to open?  
-   **Answer:** If one door is easier, people might pick it whatever they saw. Then you couldn't tell whether they copied or just chose the easy one.. *Why:* A strong answer explains that a fair test lets only the show make a difference.
-4. (truefalse) In puzzle box tests, grown-ups copied useless steps less than children did.  
-   **Answer:** False. *Why:* False. In a 2011 study in Scotland, grown-ups copied useless steps even more than children did. Copying exactly seems to grow stronger as people grow up.
-5. (label) Here is a picture of the clear puzzle box from the chimpanzee test. Label the part that did nothing and the part that gave the reward.  
+3. (label) Here is a picture of the clear puzzle box from the chimpanzee test. Label the part that did nothing and the part that gave the reward.  
    **Answer:** ['the hole on top: did nothing', 'the door at the front: gave the reward']. *Why:* The poke into the top hole was the useless step. The reward came out through the front door. Chimpanzees who could see this skipped the top hole.
-6. (mcq) In Termite Fishing, a girl caught 2 grains per dip on her own, and 6 per dip after watching her aunt. What is the best explanation?  
+4. (mcq) In Termite Fishing, a girl caught 2 grains per dip on her own, and 6 per dip after watching her aunt. What is the best explanation?  
    Options: Watching showed her how deep and how slowly to fish / The honey got stickier / She was born knowing / The bottle got bigger  
    **Answer:** Watching showed her how deep and how slowly to fish. *Why:* She copied the way her aunt pushed in deep and pulled out slowly. To be sure, she could try a few more dips without watching, to check it wasn't just practice.
-7. (write) In the story 'The Tap on the Plate', Meenakshi tested the tap one day and the turn the next. Why didn't she change both on the same day?  
-   **Answer:** If she changed both, and the crows came slowly, she wouldn't know which change caused it. Changing one thing at a time shows what each one does.. *Why:* A strong answer explains changing only one thing at a time, which makes a test fair.
-8. (sort) Sort each one by how the animal learned.  
+5. (sort) Sort each one by how the animal learned.  
    **Answer:** A cat runs to the kitchen at the fish seller's bell → From what happened before; Young dolphins carry sponges on their snouts, as their mothers do → By watching others; A crow uses a short stick to get a long stick, then reaches the meat → By working it out; Honeybees return to the colour of flower with most nectar → From what happened before; Imo's group began washing sweet potatoes → By watching others. *Why:* The bell and the flower colour came before food many times. The dolphins and macaques watched others. The crow put two steps together to solve a new problem.
-9. (fill) When a chimpanzee sees what someone got, and finds their own way to get it, this is called ____.  
+6. (fill) When a chimpanzee sees what someone got, and finds their own way to get it, this is called ____.  
    **Answer:** ['emulation']. *Why:* Emulation copies the goal, not the exact actions. The chimpanzees with the clear box emulated.
-10. (perspective) A family in Hyderabad argues about how a child should learn to ride a cycle.  
+7. (perspective) A family in Hyderabad argues about how a girl should learn to ride a cycle.  
    **Answer:** A strong answer names a way, such as trying, and gives a reason, such as 'balance is something you feel, so you must try it'. It then says when another way helps, for example watching first to see where to put your feet, as the chimpanzee daughters watched their mothers.. *Why:* Animals use all three ways. The best one depends on the skill.
-11. (mcq) In the Plate Lesson project, why do you swap the places of the red and blue plates each day?  
+8. (mcq) In the Plate Lesson project, why do you swap the places of the red and blue plates each day?  
    Options: So the birds must learn the colour, not the place / So the plates get the same sun / To confuse the birds / Because birds like change  
    **Answer:** So the birds must learn the colour, not the place. *Why:* If the red plate was always on the left, a bird might learn 'left means food'. Swapping makes the colour the only clue.
-12. (truefalse) A tradition is something an animal is born knowing.  
+9. (truefalse) A tradition is something an animal is born knowing.  
    **Answer:** False. *Why:* False. A tradition is learned from others in the group. Different groups of chimpanzees have different traditions, which shows they are not born with them.
-13. (write) A family in Madurai always turned the crows' plate around, because a plate long ago had a dent. How could you test whether a step like this still matters?  
+10. (write) A family always turns the plate around when they put out rice for crows, because a plate long ago had a dent. How could you test whether a step like this still matters?  
    **Answer:** Do it with the step one day and without it the next, keeping everything else the same. If nothing changes, the step doesn't matter any more.. *Why:* A strong answer describes changing only that step and comparing.
-14. (order) Put the Pass It On test in order.  
+11. (order) Put the Pass It On test in order.  
    **Answer:** ['You show person 1 one door', 'Person 1 shows person 2', 'Person 2 shows person 3', 'Read the secret slip and compare']. *Why:* Each person shows the next, like passing a message along a line. Only at the end do you check whether your door arrived.
-15. (draw) Draw the Pass It On chain as stick people in a row, with an arrow from each person to the next. Write the door each person used.  
+12. (draw) Draw the Pass It On chain as stick people in a row, with an arrow from each person to the next. Write the door each person used.  
    **Answer:** A row of stick people with arrows, each labelled 'side door' or 'top door'.. *Why:* A strong drawing makes it easy to see where the chain kept your door and where it changed.
+13. (truefalse) Emulation means copying every exact step you saw.  
+   **Answer:** False. *Why:* False. Emulation copies the goal, and you find your own way to reach it. Copying every exact step is imitation.
+14. (write) A crow uses a short stick to pull out a long stick, then uses the long stick to reach meat. Why is this working it out, and not only trial and error?  
+   **Answer:** The crow had to join two steps to solve a problem that was new to her. A strong answer says she did not just try things at random until one worked.. *Why:* Working it out puts together what you already know to solve something new.
+15. (mcq) Young dolphins in Shark Bay carry sponges on their snouts, as their mothers do. What is the best sign that this is learned and not an instinct?  
+   Options: Young dolphins learn it mostly from their mothers, and many dolphins elsewhere do not do it / Dolphins like sponges / All dolphins everywhere do it / It happens only in the sea  
+   **Answer:** Young dolphins learn it mostly from their mothers, and many dolphins elsewhere do not do it. *Why:* An instinct would appear in dolphins everywhere. A habit that follows the mothers in one place is learned from them.
 ### Traditions and Tests (challenge) (challenge, 15 questions)
 1. (write) Chimpanzees with a clear box skipped the useless step. Children copied it. Give one reason why copying every step might help a young person learn.  
    **Answer:** A strong answer says that some steps matter in ways you can't see, so copying everything is safer, for example when learning to make a medicine from leaves or to weave a net.. *Why:* Scientists think overimitation helps people learn hard skills whose reasons are hidden.
@@ -514,29 +516,28 @@ And the crows? The crows had been learning all along. They had learned that a ti
    **Answer:** The side door is not the obvious choice, so the chain was copying. *Why:* The no-show person shows what people do on their own. If they pick differently from the chain, the chain's choice came from copying. One person is a small sample, so more no-show people would be better.
 5. (write) Ramya, a girl in Class 3, tested only her mother in the Useless Step Test. Her mother tapped the lid. Ramya says, 'Everybody copies useless steps.' What is wrong with her claim, and what should she do?  
    **Answer:** One person is not enough to say 'everybody'. She should test more people, one at a time, and say 'most of the people I tested' only if most of them copied.. *Why:* A strong answer explains that a claim should be as big as the evidence.
-6. (truefalse) Crows that had never been caught could still learn that a mask was dangerous.  
-   **Answer:** True. *Why:* True. In Seattle, crows that were never caught learned to scold the mask by seeing other crows scold it. A strong answer names this as social learning.
-7. (fill) Changing what you do because of what you saw or what happened to you before is called ____.  
-   **Answer:** ['learning']. *Why:* Learning can come from rewards, from watching or from working things out. It is different from instinct.
-8. (mcq) Claudia Fugazza and Adam Miklósi trained dogs by doing an action and then saying 'Do it!'. What were the dogs learning from?  
-   Options: Watching a person do the action / Smelling the object / Being punished / Instinct  
-   **Answer:** Watching a person do the action. *Why:* This method uses the dog's ability to copy what they saw a person do. For some object tricks, it was quicker than rewards alone.
-9. (write) In the Plate Lesson, the first bird went to the red plate on day 4, but to the blue plate on day 5. Give two reasons this could happen.  
+6. (write) In the Plate Lesson, the first bird went to the red plate on day 4, but to the blue plate on day 5. Give two reasons this could happen.  
    **Answer:** It might be a different bird who never learned the red plate. The bird may not have learned the colour well in only 3 days. A strong answer suggests a fix, such as more days.. *Why:* Odd results are a clue. A strong answer thinks about who the bird was and how much time they had to learn.
-10. (match) Match each scientist to what they found.  
+7. (match) Match each scientist to what they found.  
    **Answer:** Victoria Horner and Andrew Whiten → chimpanzees skipped a useless step that children copied; Elizabeth Lonsdorf → chimpanzee daughters learned termite fishing by watching their mothers; John Pilley → a dog learned the names of 1,022 toys; Lucy Aplin → great tits kept their group's way of opening a puzzle box. *Why:* Each of these scientists found out something about how animals learn from others or from what happened before.
-11. (odd) Three of these are traditions. Which one is the odd one out?  
+8. (odd) Three of these are traditions. Which one is the odd one out?  
    Options: Koshima macaques washing sweet potatoes / Some chimpanzee groups cracking nuts with stones / A great tit group sliding a puzzle door left / A baby turtle crawling to the sea  
    **Answer:** 3. *Why:* The turtle acts by instinct, the same on every beach. The other three were learned from others and differ from group to group.
-12. (draw) Invent a new puzzle box for testing copying. Draw it, and label one useless step and the step that really opens it.  
+9. (draw) Invent a new puzzle box for testing copying. Draw it, and label one useless step and the step that really opens it.  
    **Answer:** Any clear drawing with one labelled useless step, such as a button that does nothing, and one real way in.. *Why:* A strong design makes the useless step easy to see, so the test shows whether people copy what they can see is useless.
-13. (mcq) Meenakshi's crows came quickly after the tap, and slowly without it. What had the crows learned?  
-   Options: That the tap comes before the rice / That tapping is fun / Nothing, it was luck / That the plate is steel  
-   **Answer:** That the tap comes before the rice. *Why:* The tap came before the rice, day after day, so the crows linked the sound with food. That is learning from what happened before. One day each is few, so more days would make it surer.
-14. (truefalse) Children in many countries, including children in the Kalahari Desert in Africa, copy useless steps.  
-   **Answer:** True. *Why:* True. Overimitation has been found in children in many places, not just in one country. That suggests it is a deep part of how people learn.
-15. (write) Think of one thing your family always does in a special way. Is every step needed? How could you find out without upsetting anyone?  
+10. (mcq) Pigeons gather at 7 every morning where a man scatters grain. One morning he does not come, but the pigeons still gather at 7. What had they learned?  
+   Options: That grain comes at that place and time / That the man is not needed / Nothing, it was luck / That pigeons are born knowing the time  
+   **Answer:** That grain comes at that place and time. *Why:* The grain came at that place and time day after day, so the pigeons linked the two. That is learning from what happened before. One missed morning is only one result, so watching more mornings would make it surer.
+11. (write) Think of one thing your family always does in a special way. Is every step needed? How could you find out without upsetting anyone?  
    **Answer:** A strong answer names a real habit, says which step might not be needed, and suggests a gentle, fair test, such as trying it once without that step and comparing.. *Why:* This uses the idea of the unit, that copied steps may or may not still matter, on the child's own life.
+12. (write) Honeybees return to the flower colour that gave them the most nectar. How is this different from the macaques on Koshima washing sweet potatoes?  
+   **Answer:** The bees learn from what happened to them, with no one to watch. The macaques learned by watching others in their group, and the habit spread.. *Why:* A strong answer separates learning from your own experience from learning from others.
+13. (sort) Sort each one: is it imitation, emulation or trial and error?  
+   **Answer:** A child sees a friend get a mango with a stick, so she climbs a stool to reach one → Emulation; A child copies every tap on a box lid, exactly as shown → Imitation; A crow pecks a tied bag in different places until it tears open → Trial and error. *Why:* Imitation copies the exact steps. Emulation copies the goal in your own way. Trial and error tries ways until one works.
+14. (fill) When young animals learn a habit from others and a group keeps it for years, it is called a ____.  
+   **Answer:** ['tradition']. *Why:* A tradition spreads by social learning and lasts in a group, like the great tits' way of opening the puzzle box.
+15. (write) Zoos hide food in puzzle feeders. Which way of learning does a puzzle feeder help an animal use, and why?  
+   **Answer:** Working it out or trial and error: the animal must try and solve a new problem to get the food.. *Why:* A strong answer links the feeder to a way of learning from this unit.
 
 ## Videos
 - **Termite Fishing** (Dr. Jane Goodall & the Jane Goodall Institute USA, 3 min) id `inFkERO30oM`: Wild chimpanzees fishing for termites with grass stems, the tool skill young chimpanzees learn by watching their mothers. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it and check its length.
@@ -545,14 +546,14 @@ And the crows? The crows had been learning all along. They had learned that a ti
 
 ## Quiz
 1. (mcq) A baby sea turtle hatches on a dark beach and crawls straight to the sea. Nobody showed her. How does she know what to do?  
-   Options: She learned it by watching her mother / She was born knowing: it is an instinct / She was rewarded for it / She worked it out from a map  
+   Options: She learned by watching her mother / She was born knowing: it is an instinct / She was rewarded for it / She worked it out from a map  
    **Answer:** She was born knowing: it is an instinct. *Why:* Sea turtle mothers lay their eggs and swim away, so the babies never meet them. Crawling to the sea is an instinct. Picking 'watching her mother' would fit a chimpanzee, but not a turtle.
 2. (mcq) Revathi, a girl in Kochi, gives her dog a biscuit each time he gives his paw. Soon he gives his paw as soon as she holds out her hand. How did he learn?  
    Options: He was born knowing it / From what happened before: the paw brought a biscuit / By watching another dog / By luck  
    **Answer:** From what happened before: the paw brought a biscuit. *Why:* The biscuit is a reward. Actions that bring a reward happen more often. That is how most dogs learn tricks.
 3. (mcq) At Gombe in Tanzania, young chimpanzees learn to fish for termites with grass stems. How do they mostly learn it?  
    Options: They are born knowing how / By watching their mothers, for years / Scientists teach them / They read the termites' smell  
-   **Answer:** By watching their mothers, for years. *Why:* Young chimpanzees watch their mothers fish and practise for years. Daughters who watched more learned it younger. Termite fishing is not an instinct.
+   **Answer:** By watching their mothers, for years. *Why:* Young chimpanzees watch their mothers fish and practise for years. Daughters who watched more learned younger. Termite fishing is not an instinct.
 4. (mcq) Crows in Seattle, in America, scolded a person wearing a certain mask. Some of the scolding crows had never been caught or harmed. How did they learn the mask was dangerous?  
    Options: From other crows scolding the mask / They were born afraid of masks / The mask smelled bad / The person shouted at them  
    **Answer:** From other crows scolding the mask. *Why:* Crows that had never been caught learned from seeing other crows scold the mask. That is social learning. The scolding spread over the years.
@@ -585,10 +586,10 @@ And the crows? The crows had been learning all along. They had learned that a ti
 
 ## Spotted around us
 - Crows waiting on a wall when a family puts out rice before lunch.
-- Pigeons flying down to a grain seller who feeds them at the same spot each morning.
+- Pigeons flying down to a grain seller who feeds them at the same spot each morning, as at the pigeon feeding spots in Mumbai.
 - Street dogs sitting by the tea stall at the time it gets busy.
 - Monkeys at a temple who have learned to snatch bags that may hold food.
-- A younger child copying exactly how an older cousin folds their hands, or draws a kolam.
+- A younger child copying exactly how an older cousin folds their hands, or draws a kolam or rangoli.
 - A pet dog sitting, giving a paw or waiting for a word before eating.
 
 ## Open questions
@@ -598,9 +599,7 @@ And the crows? The crows had been learning all along. They had learned that a ti
 - **How many animals have traditions that we haven't noticed yet?** Finding a tradition takes years of watching many groups. Most animals have never been watched that long.
 
 ## Questions to ask kids
-- Who did you learn to draw a kolam, fold clothes or tie a knot from?
-- Is there something our family always does, but nobody knows why?
-- What do you think the crows on our building have learned about us?
+- What do you think the crows near your home have learned about the people there?
 - If a dog watched you every day, what would they learn about you?
 - Would you rather learn a new game by trying it, by watching it, or by being told the rules?
 - Did you ever copy something and later find out it wasn't needed?
@@ -608,21 +607,21 @@ And the crows? The crows had been learning all along. They had learned that a ti
 - What is something you worked out on your own, with nobody showing you?
 
 ## Jokes
-- Why did the crow tap the plate? *He was taking notes from Paati.*
-- What did the dog say after learning 1,000 words? *Woof. Just kidding, I'll fetch the dictionary.*
+- Which lesson do termites like least? *Fishing class.*
+- How do you know a dog has learned 1,000 words? *She still only comes when you say 'biscuit'.*
 - Why did the chimpanzee bring a stick to the party? *She heard there would be termite snacks.*
 - Why did the great tit open the door to the left? *Because that's how all the birds in her wood do it.*
-- What do you call a dog who copies everything you do? *A copy-cat. She's very confused about it.*
+- What do you call a dog who copies everything you do? *A copy-cat. The cat is very upset.*
 - Why did the student tap the lid three times? *Nobody knows. Not even the student.*
 - What did the macaque say to her sweet potato? *You look a little dirty. Let's go for a swim.*
-- Why did the crow wear a mask? *He didn't. The scientist did, and the crows never forgot.*
+- Why did all the crows shout at the man in the mask? *One crow shouted first, and the rest never asked why.*
 - Why did Chaser pick the new toy? *Because all the old ones already had names.*
 
 ## Connected maths
-- In the Useless Step Test, Nandini tested 4 people in her family. 3 of them tapped the lid. What fraction of the people tapped the lid? **3 out of 4, or three quarters.**. 4 people were tested, so the whole is 4. 3 of them tapped. That is 3 out of 4, which we write as 3/4, three quarters. Only 1 out of 4 did not tap. (queues `math.fractions.fractions-of-a-whole.L3`)
-- In Termite Fishing, Kavya caught 2, 1, 3, 2 and 2 grains in her 5 dips before watching. After watching, she caught 5, 6, 4, 7 and 8. How many grains did she catch before watching, and after? How many times as many did she catch after? **10 before, 30 after. 3 times as many.**. Before: 2 + 1 + 3 + 2 + 2 = 10. After: 5 + 6 + 4 + 7 + 8 = 30. 30 divided by 10 is 3, so she caught 3 times as many after watching. (queues `math.division.sharing-and-grouping.L3`)
-- Chaser learned the names of 1,022 toys. Rico, another dog, learned about 200 names. About how many more names did Chaser learn than Rico? **About 822 more.**. Take the smaller number from the bigger one. 1,022 take away 200 is 822. So Chaser learned about 822 more names. Rico's number is rounded, so the answer is also 'about'. (queues `math.addition-subtraction.word-problems.L3`)
-- In the Plate Lesson, the first bird each day went to: day 1 red, day 2 red, day 3 blue, day 4 red, day 5 red. Make a tally. How many times was it red, and how many blue? Do the results suggest the birds learned red means food? **Red 4 times, blue once. Yes, it suggests they learned, but 5 days is a small test.**. Count the reds: days 1, 2, 4 and 5, so 4. Blue: day 3, so 1. If birds picked at random, you would expect about half red and half blue. 4 out of 5 is more than half, which suggests learning. More days would make it surer. (queues `math.data.sorting-and-tallies.L3`)
+- In the Useless Step Test, Nandini, a girl in Class 3, tested 4 people. 3 of them tapped the lid. What fraction of the people tapped the lid? **3 out of 4, or three quarters.**. 4 people were tested, so the whole is 4. 3 of them tapped. That is 3 out of 4, which we write as 3/4, three quarters. Only 1 out of 4 did not tap. (queues `math.fractions.fractions-of-a-whole.L3`)
+- In Termite Fishing, Anjali, a girl in Class 3, caught 2, 1, 3, 2 and 2 grains in her 5 dips before watching. After watching, she caught 5, 6, 4, 7 and 8. How many grains did she catch before watching, and after? How many times as many did she catch after? **10 before, 30 after. 3 times as many.**. Before: 2 + 1 + 3 + 2 + 2 = 10. After: 5 + 6 + 4 + 7 + 8 = 30. 30 divided by 10 is 3, so she caught 3 times as many after watching. (queues `math.division.sharing-and-grouping.L3`)
+- Chaser, a border collie, learned the names of 1,022 toys. Rico, another border collie, learned about 200 names. About how many more names did Chaser learn than Rico? **About 822 more.**. Take the smaller number from the bigger one. 1,022 take away 200 is 822. So Chaser learned about 822 more names. Rico's number is rounded, so the answer is also 'about'. (queues `math.addition-subtraction.word-problems.L3`)
+- A family kept up the Plate Lesson for 6 test mornings, with food on both plates. The first bird went to: red, red, blue, red, red, red. Make a tally. How many times was it red, and how many blue? Do the results suggest the birds learned that red means food? **Red 5 times, blue once. Yes, it suggests they learned, but 6 mornings is a small test.**. Count the reds: 5. Blue: 1. If birds picked at random, you would expect about 3 of each. 5 out of 6 is well above half, which suggests learning. More mornings would make it surer. (queues `math.data.sorting-and-tallies.L3`)
 
 ## Song
 Watch Me, Then You Try (sci.animal-behaviour.L3): Topic-level song for Animal behaviour L3
@@ -635,7 +634,7 @@ Watch Me, Then You Try (sci.animal-behaviour.L3): Topic-level song for Animal be
 - [Any temple, market or railway station with monkeys or pigeons]() · place · Your own city: Watch from a safe distance. What have the animals learned about people? Never feed monkeys.
 
 ## Things to buy
-- [Chaser: Unlocking the Genius of the Dog Who Knows a Thousand Words, by John W. Pilley with Hilary Hinzmann](https://www.amazon.in/s?k=Chaser+Pilley+dog+who+knows+a+thousand+words) (book): For the parent, or to read aloud in parts. The true story of how Chaser learned her toy names. Used in a2. If bought, read a chapter aloud after Pick the New One.
+- [Chaser: Unlocking the Genius of the Dog Who Knows a Thousand Words, by John W. Pilley with Hilary Hinzmann](https://www.amazon.in/s?k=Chaser+Pilley+dog+who+knows+a+thousand+words) (book): For the parent, or to read aloud in parts. The true story of how Chaser learned her toy names. Used in a2. 
 
 ## Warm-up
 - What is an instinct? → Something an animal can do without learning, from birth.
