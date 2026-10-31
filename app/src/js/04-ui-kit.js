@@ -51,6 +51,11 @@ function sfx(k) {
     SFX[k]();
   } catch (e) {}
 }
+// finishing something: the winning tune and confetti
+function celebrate() {
+  sfx("win");
+  confetti();
+}
 function confetti() {
   if (matchMedia("(prefers-reduced-motion: reduce)").matches) return;
   const c = document.createElement("canvas");
@@ -165,7 +170,7 @@ function streak() {
   return n;
 }
 function dayRing() {
-  const it = dayPlan(today).filter((i) => i.kind !== "brk" && OURS(i)),
+  const it = dayPlan(today).filter((i) => isTask(i) && OURS(i)),
     n = it.length,
     dn = it.filter((i) => i.done).length;
   if (!n) return "";

@@ -97,9 +97,10 @@ def main(a):
         print(json.dumps(c, indent=1, ensure_ascii=False))
     elif a[0] == 'slot':
         uid, key, title = a[1:4]
-        x = fetch(title, os.path.join(APP, 'content', 'media', 'img', uid, key + '.jpg'))
         f = unit_file(uid)[:-5] + '.art.json'
         art = json.load(open(f)) if os.path.exists(f) else {}
+        if key in art: raise SystemExit(f'{key} already has a picture; leave it')
+        x = fetch(title, os.path.join(APP, 'content', 'media', 'img', uid, key + '.jpg'))
         art[key] = {'src': f'media/img/{uid}/{key}.jpg', 'credit': x['credit']}
         json.dump(dict(sorted(art.items())), open(f, 'w'), indent=1, ensure_ascii=False)
         print('ok', key, x['credit'])

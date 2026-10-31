@@ -1288,7 +1288,7 @@ function fxClick(e) {
     D[b.dataset.key] = 1;
     save();
     sec.classList.add("isdone");
-    sfx?.("chime");
+    celebrate();
     const nx = sec.nextElementSibling;
     return nx && setTimeout(() => nx.scrollIntoView({ behavior: "smooth" }), 250);
   }

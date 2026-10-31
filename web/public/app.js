@@ -232,6 +232,11 @@ function sfx(k) {
     SFX[k]();
   } catch (e) {}
 }
+// finishing something: the winning tune and confetti
+function celebrate() {
+  sfx("win");
+  confetti();
+}
 function confetti() {
   if (matchMedia("(prefers-reduced-motion: reduce)").matches) return;
   const c = document.createElement("canvas");
@@ -346,7 +351,7 @@ function streak() {
   return n;
 }
 function dayRing() {
-  const it = dayPlan(today).filter((i) => i.kind !== "brk" && OURS(i)),
+  const it = dayPlan(today).filter((i) => isTask(i) && OURS(i)),
     n = it.length,
     dn = it.filter((i) => i.done).length;
   if (!n) return "";
@@ -1728,11 +1733,14 @@ function buildDayPlan(date) {
     ev = eventsOn(date),
     isT = date === today;
   const am = prepBlock(date, "am"),
-    pm = prepBlock(date, "pm");
+    pm = prepBlock(date, "pm"),
+    wake = hm((S.alarm || {}).time || "06:30");
+  // the parent's first hour after waking is theirs; morning prep starts after it
+  items.push({ id: "me-am", at: wake, dur: 60, who: "you", kind: "rest", title: "Your hour: tea, a walk, quiet" });
   if (am.length)
     items.push({
       id: "am",
-      at: hm(d.prepAt),
+      at: Math.max(hm(d.prepAt), wake + 60),
       dur: prepMins(am),
       who: "you",
       kind: "prep",
@@ -1941,8 +1949,20 @@ function buildDayPlan(date) {
         done: !!S.tl[date + "|refresh"],
       });
   }
-  if (lessons.length)
+  if (lessons.length) {
     items.push({ id: "lunch", at: hm(d.lunch), dur: +d.lunchMin, who: "free", kind: "brk", title: "Lunch" });
+    cur += 15;
+    items.push({
+      id: "rest",
+      at: place(30),
+      dur: 30,
+      who: "both",
+      kind: "rest",
+      title: "Do nothing time, together: no screens, no tasks",
+    });
+  }
+  const me = myQuietTime(date, items, ev, d);
+  if (me) items.push(me);
   ev.forEach((e) =>
     items.push({
       id: "e-" + e.id,
@@ -2018,6 +2038,34 @@ function buildDayPlan(date) {
   });
   return items.sort((a, b) => a.at - b.at || (a.kind === "prep" ? -1 : 1));
 }
+// half an hour for the parent in the afternoon or evening: while the child is at a class, or in the first gap in the
+// parent's own plan and calendar
+function myQuietTime(date, items, ev, d) {
+  const kidClass = ev.find((e) => e.who === "kid" && e.start && e.end && hm(e.end) - hm(e.start) >= 30);
+  if (kidClass)
+    return {
+      id: "me-pm",
+      at: hm(kidClass.start),
+      dur: 30,
+      who: "you",
+      kind: "rest",
+      title: `Time for you, while ${kidClass.title} is on`,
+    };
+  const busy = items
+    .filter((i) => !i.anytime && i.who !== "kid" && i.id !== "me-am")
+    .map((i) => [i.at, i.at + i.dur])
+    .sort((a, b) => a[0] - b[0]);
+  let cur = Math.max(13 * 60, ...busy.filter(([a]) => a < 16 * 60).map(([, b]) => b));
+  const hi = hm(d.eveAt) - 15;
+  for (const [a, b] of [...busy, [hi, hi]]) {
+    if (a - cur >= 30 && cur + 30 <= hi)
+      return { id: "me-pm", at: cur, dur: 30, who: "you", kind: "rest", title: "Time for you: nothing to do" };
+    cur = Math.max(cur, b);
+  }
+  return null;
+}
+// breaks, lunch and rest times are not things to do
+const isTask = (i) => i.kind !== "brk" && i.kind !== "rest";
 // what a parent can drag into a different order on Today (classes, outings and prep keep their own times)
 const DAYMOVE = new Set(["lesson", "warm", "refresh", "paper", "exps", "dkt", "mynote", "finish"]);
 // A day's plan; today, snoozed items move to their new time, and a dragged order swaps the time slots
@@ -2421,9 +2469,7 @@ function pendingWork() {
 function freeNow() {
   const nm = nowMin(),
     d = Dd(today),
-    its = dayPlan(today).filter(
-      (i) => i.kind !== "brk" && !i.anytime && !i.done && !evPast(i, today) && !snzd(i, today),
-    );
+    its = dayPlan(today).filter((i) => isTask(i) && !i.anytime && !i.done && !evPast(i, today) && !snzd(i, today));
   if (its.some((i) => i.at <= nm && nm < i.at + i.dur)) return 0;
   if (its.some((i) => OURS(i) && i.at + i.dur <= nm)) return 0;
   const nx = its.filter((i) => i.at > nm).sort((a, b) => a.at - b.at)[0],
@@ -3183,7 +3229,7 @@ function prepView() {
     g.items.push(p);
   });
   return (
-    `<section class="card r-you"><div class="sech"><h3>${dn} of ${its.length} ready</h3><span class="xs muted">about ${prepMins(its)} min</span></div><div class="bar"><span style="width:${(dn / its.length) * 100}%;background:var(--marigold)"></span></div><p class="xs muted">Set a daily phone alarm for ${clock(hm(D()[when === "am" ? "prepAt" : "eveAt"]))}. The app can't send reminders itself.</p></section>` +
+    `<section class="card r-you"><div class="sech"><h3>${dn} of ${its.length} ready</h3><span class="xs muted">about ${prepMins(its)} min</span></div><div class="bar"><span style="width:${(dn / its.length) * 100}%;background:var(--sun)"></span></div><p class="xs muted">Set a daily phone alarm for ${clock(hm(D()[when === "am" ? "prepAt" : "eveAt"]))}. The app can't send reminders itself.</p></section>` +
     groups
       .map(({ x, items }) => {
         const u = x.u,
@@ -5977,6 +6023,7 @@ function quizRunView() {
   if (over) {
     if (!R.saved) {
       R.saved = true;
+      setTimeout(celebrate, 200);
       delete S.qzopen;
       const items = R.res.map((x) => ({ k: x.q.k, q: x.q.q, a: x.q.a, r: x.r, c: x.c }));
       S.qzr = [
@@ -6357,11 +6404,13 @@ let FXCUR = 0,
   FXCARDS = [],
   FXOBS = null;
 function fxImg(u, key, brief, cls) {
-  const url = u.img?.[key],
+  // a picture is a url, or {src, credit} for a free-licence picture, shown whole with its credit
+  const p = u.img?.[key],
+    url = p?.src || p,
     em = FXE[key.split(".")[0]] || "🎨";
   if (!url && !brief) return "";
   return url
-    ? `<div class="fximg ${cls || ""}" data-e="${em}"><img loading="lazy" alt="${esc(brief || "")}" src="${esc(url)}" onerror="this.parentNode.classList.add('broken')"></div>`
+    ? `<div class="fximg ${cls || ""}${p.credit ? " free" : ""}" data-e="${em}"><img loading="lazy" alt="${esc(brief || "")}" src="${esc(url)}" onerror="this.parentNode.classList.add('broken')">${p.credit ? `<small class="fxcredit">${esc(p.credit)}</small>` : ""}</div>`
     : `<div class="fxph ${cls || ""}"><span>${em}</span>${brief ? `<i>${esc(brief)}</i>` : ""}</div>`;
 }
 const FXPAL = ["#FD8326", "#4CC9C0", "#8C93C7", "#53A373", "#FF8BB4", "#6DB4F2", "#FFD65C", "#B6D693"];
@@ -7448,8 +7497,10 @@ function fxWsPrintDoc(u, w) {
 }
 /* A game piece is text, or a card with a front and a back ({f, b}); on screen a two-sided card turns over when tapped */
 function fxPiece(it, j, kind) {
-  const two = typeof it === "object";
-  return `<div class="fxpc${two ? " two" : ""}" data-fx="flip" style="--h:${(j * 47) % 360}">${two ? `<span class="pcf">${it.img ? `<img src="${esc(it.img.src)}" alt="">` : ""}${esc(it.f)}</span><span class="pcb">${esc(it.b)}</span>` : esc(it)}</div>`;
+  // an item is text, {f, img} for a card with a picture, or {f, b, img?} for a two-sided card
+  const two = it.b != null,
+    front = it.f != null ? `${it.img ? `<img src="${esc(it.img.src)}" alt="">` : ""}${esc(it.f)}` : esc(it);
+  return `<div class="fxpc${two ? " two" : ""}" data-fx="flip" style="--h:${(j * 47) % 360}">${two ? `<span class="pcf">${front}</span><span class="pcb">${esc(it.b)}</span>` : front}</div>`;
 }
 /* The game's print-out. Two-sided cards come first, a page of fronts then a page of their backs, each row mirrored so a
    back lands behind its own front when the sheet is printed on both sides (or turned over and fed in again);
@@ -7457,7 +7508,7 @@ function fxPiece(it, j, kind) {
 function fxGamePrintDoc(g) {
   const PER = 20,
     cell = (t, img) => `<div class="pc">${img ? `<img src="${esc(img.src)}" alt="">` : ""}${esc(t)}</div>`,
-    two = g.printables.filter((p) => p.items.some((it) => typeof it === "object")),
+    two = g.printables.filter((p) => p.items.some((it) => it.b != null)),
     one = g.printables.filter((p) => !two.includes(p));
   let sheets = "";
   two.forEach((p) => {
@@ -7479,8 +7530,8 @@ function fxGamePrintDoc(g) {
   const tip = two.length
     ? `<div class="tip"><b>Two-sided cards.</b> Print the card pages on both sides of the paper, flipping on the long edge. No two-sided printing? Print the first card page, put the sheet back in the printer turned over, then print the next page. Or print both pages, glue them back to back, then cut.</div>`
     : "";
-  const credits = [...new Set(two.flatMap((p) => p.items.map((x) => x.img?.credit).filter(Boolean)))],
-    rest = `<section><h1>${esc(g.title)}</h1>${tip}<h3>Rules</h3><ol>${g.rules.map((r) => `<li>${esc(r)}</li>`).join("")}</ol>${one.map((p) => `<h3>${esc(p.title)}</h3><div class="grid loose">${p.items.map(cell).join("")}</div>`).join("")}${credits.length ? `<p class="credit">Pictures: ${credits.map(esc).join(" · ")}</p>` : ""}</section>`;
+  const credits = [...new Set(g.printables.flatMap((p) => p.items.map((x) => x.img?.credit).filter(Boolean)))],
+    rest = `<section><h1>${esc(g.title)}</h1>${tip}<h3>Rules</h3><ol>${g.rules.map((r) => `<li>${esc(r)}</li>`).join("")}</ol>${one.map((p) => `<h3>${esc(p.title)}</h3><div class="grid loose">${p.items.map((x) => cell(x.f ?? x, x.img)).join("")}</div>`).join("")}${credits.length ? `<p class="credit">Pictures: ${credits.map(esc).join(" · ")}</p>` : ""}</section>`;
   return `<!doctype html><meta charset="utf-8"><title>DeepKids</title><style>@page{size:A4;margin:12mm}body{font:15px/1.5 Nunito,system-ui,sans-serif;margin:0}li{margin:10px 0}.sheet{page-break-after:always}.tag{font:700 12px sans-serif;color:#666;margin:0 0 6px}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:3mm}.sheet .pc{height:48mm}.pc{border:2px dashed #999;border-radius:10px;padding:8px;min-height:90px;font:600 14px sans-serif;display:flex;align-items:center;justify-content:center;text-align:center;box-sizing:border-box}.pc.blank{border-color:transparent}.sheet .pc{flex-direction:column;gap:4px}.pc img{width:100%;height:30mm;object-fit:cover;border-radius:6px}.credit{font-size:10px;color:#777}.loose .pc{display:block;text-align:left}.tip{border:2px solid #e8a317;border-radius:10px;padding:10px;margin:10px 0}</style>${sheets}${rest}`;
 }
 function fxPrint(id) {
@@ -7594,7 +7645,7 @@ function fxClick(e) {
     D[b.dataset.key] = 1;
     save();
     sec.classList.add("isdone");
-    sfx?.("chime");
+    celebrate();
     const nx = sec.nextElementSibling;
     return nx && setTimeout(() => nx.scrollIntoView({ behavior: "smooth" }), 250);
   }
@@ -9402,7 +9453,7 @@ function noLessonNote(d) {
   return `<div class="note"><p><b>No lessons on ${DN[wd]}.</b> It's a free day in your plan.</p><ul class="sm" style="margin:6px 0;padding-left:18px">${S.subjects.map((s) => `<li>${esc(SUBJ[s])}: ${rng(daysOf(s))}</li>`).join("")}</ul>${nx ? `<p class="sm">Next lessons: ${esc(fmt(nx.date))}.</p>` : ""}<button class="link sm" data-act="plsheet" data-p="pace">Change lesson days</button></div>`;
 }
 function otherDay(d) {
-  const items = dayPlan(d).filter((i) => i.kind !== "brk"),
+  const items = dayPlan(d).filter(isTask),
     past = d < today,
     dn = items.filter((i) => i.done).length;
   return `<section class="sec cal">${calHead(d)}<p class="xs muted">${past ? `${dn} of ${items.length} done that day` : `${items.length} thing${items.length === 1 ? "" : "s"} planned`}</p>
@@ -9470,7 +9521,7 @@ function focusOf(items, date) {
   if (date !== today) return null;
   const nm = nowMin(),
     d = Dd(date),
-    real = items.filter((i) => i.kind !== "brk" && !i.done && !snzd(i, date) && !evPast(i, date));
+    real = items.filter((i) => isTask(i) && !i.done && !snzd(i, date) && !evPast(i, date));
   if (!real.length) return null;
   const pm = real.find((i) => i.id === "pm");
   if (pm && nm >= hm(d.eveAt) - 30) return pm;
@@ -9483,13 +9534,7 @@ function focusOf(items, date) {
   return next[0] || missed[0] || R.find((i) => i.anytime && OURS(i)) || R.find((i) => i.anytime) || pm || null;
 }
 const isMissed = (it, date) =>
-  date === today &&
-  !it.done &&
-  !it.anytime &&
-  OURS(it) &&
-  it.kind !== "brk" &&
-  !snzd(it, date) &&
-  it.at + it.dur < nowMin();
+  date === today && !it.done && !it.anytime && OURS(it) && isTask(it) && !snzd(it, date) && it.at + it.dur < nowMin();
 // the main thing to do with an item: [the button's attributes, its label]
 function itemAction(it, a) {
   return (
@@ -9563,8 +9608,8 @@ function itemDetail(it, date) {
 function tRow(it, date, focus) {
   const col = it.kind === "lesson" ? SC(it.s) : "r-" + it.who,
     [hh, ap] = it.anytime ? ["Any", "time"] : it.done && it.doneNoTime ? ["Done", ""] : clock(it.at).split(" ");
-  if (it.kind === "brk")
-    return `<div class="tr brk"><span class="t num">${hh}<small>${ap}</small></span><span class="brkline">${esc(it.title)} · ${mins(it.dur / 60)}</span></div>`;
+  if (it.kind === "brk" || it.kind === "rest")
+    return `<div class="tr brk ${it.kind === "rest" ? "rest " + col : ""}"><span class="t num">${hh}<small>${ap}</small></span><span class="brkline">${esc(it.title)} · ${mins(it.dur / 60)}</span></div>`;
   const open = !!ui.open[it.id],
     missed = isMissed(it, date) && it !== focus,
     a = `data-id="${it.id}" data-date="${date}"`;
@@ -9620,7 +9665,7 @@ function nightView() {
   const tm = tomorrow(),
     its = nightItems(),
     dn = its.filter((p) => S.prep[p.id]).length,
-    tp = dayPlan(tm).filter((i) => i.kind !== "brk"),
+    tp = dayPlan(tm).filter(isTask),
     d = Dd(tm),
     al = S.alarm || { on: false, time: "06:30" };
   document.getElementById("sheetTitle").textContent = "Tomorrow · " + fmt(tm);
@@ -9778,7 +9823,7 @@ function firstWeekCard() {
 }
 function viewToday() {
   const items = dayPlan(today),
-    real = items.filter((i) => i.kind !== "brk"),
+    real = items.filter(isTask),
     dn = real.filter((i) => i.done).length,
     f = focusOf(items, today);
   const lessons = real.filter((i) => i.kind === "lesson"),

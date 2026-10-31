@@ -307,11 +307,14 @@ function buildDayPlan(date) {
     ev = eventsOn(date),
     isT = date === today;
   const am = prepBlock(date, "am"),
-    pm = prepBlock(date, "pm");
+    pm = prepBlock(date, "pm"),
+    wake = hm((S.alarm || {}).time || "06:30");
+  // the parent's first hour after waking is theirs; morning prep starts after it
+  items.push({ id: "me-am", at: wake, dur: 60, who: "you", kind: "rest", title: "Your hour: tea, a walk, quiet" });
   if (am.length)
     items.push({
       id: "am",
-      at: hm(d.prepAt),
+      at: Math.max(hm(d.prepAt), wake + 60),
       dur: prepMins(am),
       who: "you",
       kind: "prep",
@@ -520,8 +523,20 @@ function buildDayPlan(date) {
         done: !!S.tl[date + "|refresh"],
       });
   }
-  if (lessons.length)
+  if (lessons.length) {
     items.push({ id: "lunch", at: hm(d.lunch), dur: +d.lunchMin, who: "free", kind: "brk", title: "Lunch" });
+    cur += 15;
+    items.push({
+      id: "rest",
+      at: place(30),
+      dur: 30,
+      who: "both",
+      kind: "rest",
+      title: "Do nothing time, together: no screens, no tasks",
+    });
+  }
+  const me = myQuietTime(date, items, ev, d);
+  if (me) items.push(me);
   ev.forEach((e) =>
     items.push({
       id: "e-" + e.id,
@@ -597,6 +612,34 @@ function buildDayPlan(date) {
   });
   return items.sort((a, b) => a.at - b.at || (a.kind === "prep" ? -1 : 1));
 }
+// half an hour for the parent in the afternoon or evening: while the child is at a class, or in the first gap in the
+// parent's own plan and calendar
+function myQuietTime(date, items, ev, d) {
+  const kidClass = ev.find((e) => e.who === "kid" && e.start && e.end && hm(e.end) - hm(e.start) >= 30);
+  if (kidClass)
+    return {
+      id: "me-pm",
+      at: hm(kidClass.start),
+      dur: 30,
+      who: "you",
+      kind: "rest",
+      title: `Time for you, while ${kidClass.title} is on`,
+    };
+  const busy = items
+    .filter((i) => !i.anytime && i.who !== "kid" && i.id !== "me-am")
+    .map((i) => [i.at, i.at + i.dur])
+    .sort((a, b) => a[0] - b[0]);
+  let cur = Math.max(13 * 60, ...busy.filter(([a]) => a < 16 * 60).map(([, b]) => b));
+  const hi = hm(d.eveAt) - 15;
+  for (const [a, b] of [...busy, [hi, hi]]) {
+    if (a - cur >= 30 && cur + 30 <= hi)
+      return { id: "me-pm", at: cur, dur: 30, who: "you", kind: "rest", title: "Time for you: nothing to do" };
+    cur = Math.max(cur, b);
+  }
+  return null;
+}
+// breaks, lunch and rest times are not things to do
+const isTask = (i) => i.kind !== "brk" && i.kind !== "rest";
 // what a parent can drag into a different order on Today (classes, outings and prep keep their own times)
 const DAYMOVE = new Set(["lesson", "warm", "refresh", "paper", "exps", "dkt", "mynote", "finish"]);
 // A day's plan; today, snoozed items move to their new time, and a dragged order swaps the time slots
@@ -1000,9 +1043,7 @@ function pendingWork() {
 function freeNow() {
   const nm = nowMin(),
     d = Dd(today),
-    its = dayPlan(today).filter(
-      (i) => i.kind !== "brk" && !i.anytime && !i.done && !evPast(i, today) && !snzd(i, today),
-    );
+    its = dayPlan(today).filter((i) => isTask(i) && !i.anytime && !i.done && !evPast(i, today) && !snzd(i, today));
   if (its.some((i) => i.at <= nm && nm < i.at + i.dur)) return 0;
   if (its.some((i) => OURS(i) && i.at + i.dur <= nm)) return 0;
   const nx = its.filter((i) => i.at > nm).sort((a, b) => a.at - b.at)[0],
@@ -1762,7 +1803,7 @@ function prepView() {
     g.items.push(p);
   });
   return (
-    `<section class="card r-you"><div class="sech"><h3>${dn} of ${its.length} ready</h3><span class="xs muted">about ${prepMins(its)} min</span></div><div class="bar"><span style="width:${(dn / its.length) * 100}%;background:var(--marigold)"></span></div><p class="xs muted">Set a daily phone alarm for ${clock(hm(D()[when === "am" ? "prepAt" : "eveAt"]))}. The app can't send reminders itself.</p></section>` +
+    `<section class="card r-you"><div class="sech"><h3>${dn} of ${its.length} ready</h3><span class="xs muted">about ${prepMins(its)} min</span></div><div class="bar"><span style="width:${(dn / its.length) * 100}%;background:var(--sun)"></span></div><p class="xs muted">Set a daily phone alarm for ${clock(hm(D()[when === "am" ? "prepAt" : "eveAt"]))}. The app can't send reminders itself.</p></section>` +
     groups
       .map(({ x, items }) => {
         const u = x.u,

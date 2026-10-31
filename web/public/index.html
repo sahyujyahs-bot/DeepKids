@@ -583,6 +583,14 @@ main {
 .tr.brk .t {
   opacity: 0.7;
 }
+.tr.rest .brkline {
+  color: var(--ink);
+  border-color: var(--c);
+  background: color-mix(in srgb, var(--c) 14%, var(--surface));
+}
+.tr.rest .brkline::before {
+  content: "🌿 ";
+}
 .brkline {
   font-size: 13px;
   color: var(--muted);
@@ -4539,6 +4547,24 @@ html:has(.fxdlg[open]) {
   width: auto;
   margin: 0 auto;
 }
+.fximg.free {
+  background: #fff;
+}
+.fximg.free img {
+  object-fit: contain;
+}
+.fxcredit {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  max-width: 100%;
+  padding: 2px 8px;
+  font-size: 10px;
+  line-height: 1.4;
+  color: #fff;
+  background: #0008;
+  border-top-left-radius: 8px;
+}
 .fximg.broken img {
   display: none;
 }
@@ -6516,6 +6542,46 @@ body {
   flex: 1;
   justify-content: center;
 }
+
+/* gentle motion: the item for now gives a small wiggle every few seconds; the first-week guide breathes, a finished card pops */
+@media (prefers-reduced-motion: no-preference) {
+  .tr.focus .tcard {
+    animation: jiggle 6s ease-in-out 1s infinite;
+  }
+  .wk1 {
+    animation: breathe 4s ease-in-out infinite;
+  }
+  .fxc.isdone .fxin {
+    animation: donepop 0.5s ease-out;
+  }
+}
+@keyframes jiggle {
+  0%,
+  88%,
+  100% {
+    transform: none;
+  }
+  90% {
+    transform: rotate(-1.2deg);
+  }
+  93% {
+    transform: rotate(1.2deg);
+  }
+  96% {
+    transform: rotate(-0.6deg);
+  }
+}
+@keyframes donepop {
+  0% {
+    transform: scale(1);
+  }
+  40% {
+    transform: scale(1.03);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
 </style>
 <style>html,body{margin:0;background:var(--bg,#FFF6EC)}#dkLoading{position:fixed;inset:0;z-index:100000;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#1F2440;background:#FCFCF8}</style>
 </head>
@@ -6547,9 +6613,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="5cf825838e15a03342";window.DK_APPV="5cf825838e";window.DK_DATAV="15a0faf160"</script>
-<script src="/config.js?v=5cf825838e15a03342"></script>
+<script>window.DK_BUILD="c609ee796315a03342";window.DK_APPV="c609ee7963";window.DK_DATAV="15a0faf160"</script>
+<script src="/config.js?v=c609ee796315a03342"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=5cf825838e15a03342"></script>
+<script src="/platform.js?v=c609ee796315a03342"></script>
 </body>
 </html>

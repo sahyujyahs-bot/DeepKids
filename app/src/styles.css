@@ -565,6 +565,14 @@ main {
 .tr.brk .t {
   opacity: 0.7;
 }
+.tr.rest .brkline {
+  color: var(--ink);
+  border-color: var(--c);
+  background: color-mix(in srgb, var(--c) 14%, var(--surface));
+}
+.tr.rest .brkline::before {
+  content: "🌿 ";
+}
 .brkline {
   font-size: 13px;
   color: var(--muted);
@@ -6515,4 +6523,44 @@ body {
 .rsnav .rsdots {
   flex: 1;
   justify-content: center;
+}
+
+/* gentle motion: the item for now gives a small wiggle every few seconds; the first-week guide breathes, a finished card pops */
+@media (prefers-reduced-motion: no-preference) {
+  .tr.focus .tcard {
+    animation: jiggle 6s ease-in-out 1s infinite;
+  }
+  .wk1 {
+    animation: breathe 4s ease-in-out infinite;
+  }
+  .fxc.isdone .fxin {
+    animation: donepop 0.5s ease-out;
+  }
+}
+@keyframes jiggle {
+  0%,
+  88%,
+  100% {
+    transform: none;
+  }
+  90% {
+    transform: rotate(-1.2deg);
+  }
+  93% {
+    transform: rotate(1.2deg);
+  }
+  96% {
+    transform: rotate(-0.6deg);
+  }
+}
+@keyframes donepop {
+  0% {
+    transform: scale(1);
+  }
+  40% {
+    transform: scale(1.03);
+  }
+  100% {
+    transform: scale(1);
+  }
 }

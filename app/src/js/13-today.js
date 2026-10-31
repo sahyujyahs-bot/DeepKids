@@ -91,7 +91,7 @@ function noLessonNote(d) {
   return `<div class="note"><p><b>No lessons on ${DN[wd]}.</b> It's a free day in your plan.</p><ul class="sm" style="margin:6px 0;padding-left:18px">${S.subjects.map((s) => `<li>${esc(SUBJ[s])}: ${rng(daysOf(s))}</li>`).join("")}</ul>${nx ? `<p class="sm">Next lessons: ${esc(fmt(nx.date))}.</p>` : ""}<button class="link sm" data-act="plsheet" data-p="pace">Change lesson days</button></div>`;
 }
 function otherDay(d) {
-  const items = dayPlan(d).filter((i) => i.kind !== "brk"),
+  const items = dayPlan(d).filter(isTask),
     past = d < today,
     dn = items.filter((i) => i.done).length;
   return `<section class="sec cal">${calHead(d)}<p class="xs muted">${past ? `${dn} of ${items.length} done that day` : `${items.length} thing${items.length === 1 ? "" : "s"} planned`}</p>
@@ -159,7 +159,7 @@ function focusOf(items, date) {
   if (date !== today) return null;
   const nm = nowMin(),
     d = Dd(date),
-    real = items.filter((i) => i.kind !== "brk" && !i.done && !snzd(i, date) && !evPast(i, date));
+    real = items.filter((i) => isTask(i) && !i.done && !snzd(i, date) && !evPast(i, date));
   if (!real.length) return null;
   const pm = real.find((i) => i.id === "pm");
   if (pm && nm >= hm(d.eveAt) - 30) return pm;
@@ -172,13 +172,7 @@ function focusOf(items, date) {
   return next[0] || missed[0] || R.find((i) => i.anytime && OURS(i)) || R.find((i) => i.anytime) || pm || null;
 }
 const isMissed = (it, date) =>
-  date === today &&
-  !it.done &&
-  !it.anytime &&
-  OURS(it) &&
-  it.kind !== "brk" &&
-  !snzd(it, date) &&
-  it.at + it.dur < nowMin();
+  date === today && !it.done && !it.anytime && OURS(it) && isTask(it) && !snzd(it, date) && it.at + it.dur < nowMin();
 // the main thing to do with an item: [the button's attributes, its label]
 function itemAction(it, a) {
   return (
@@ -252,8 +246,8 @@ function itemDetail(it, date) {
 function tRow(it, date, focus) {
   const col = it.kind === "lesson" ? SC(it.s) : "r-" + it.who,
     [hh, ap] = it.anytime ? ["Any", "time"] : it.done && it.doneNoTime ? ["Done", ""] : clock(it.at).split(" ");
-  if (it.kind === "brk")
-    return `<div class="tr brk"><span class="t num">${hh}<small>${ap}</small></span><span class="brkline">${esc(it.title)} · ${mins(it.dur / 60)}</span></div>`;
+  if (it.kind === "brk" || it.kind === "rest")
+    return `<div class="tr brk ${it.kind === "rest" ? "rest " + col : ""}"><span class="t num">${hh}<small>${ap}</small></span><span class="brkline">${esc(it.title)} · ${mins(it.dur / 60)}</span></div>`;
   const open = !!ui.open[it.id],
     missed = isMissed(it, date) && it !== focus,
     a = `data-id="${it.id}" data-date="${date}"`;
@@ -309,7 +303,7 @@ function nightView() {
   const tm = tomorrow(),
     its = nightItems(),
     dn = its.filter((p) => S.prep[p.id]).length,
-    tp = dayPlan(tm).filter((i) => i.kind !== "brk"),
+    tp = dayPlan(tm).filter(isTask),
     d = Dd(tm),
     al = S.alarm || { on: false, time: "06:30" };
   document.getElementById("sheetTitle").textContent = "Tomorrow · " + fmt(tm);
@@ -467,7 +461,7 @@ function firstWeekCard() {
 }
 function viewToday() {
   const items = dayPlan(today),
-    real = items.filter((i) => i.kind !== "brk"),
+    real = items.filter(isTask),
     dn = real.filter((i) => i.done).length,
     f = focusOf(items, today);
   const lessons = real.filter((i) => i.kind === "lesson"),

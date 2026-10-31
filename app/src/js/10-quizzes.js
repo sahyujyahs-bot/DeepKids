@@ -380,6 +380,7 @@ function quizRunView() {
   if (over) {
     if (!R.saved) {
       R.saved = true;
+      setTimeout(celebrate, 200);
       delete S.qzopen;
       const items = R.res.map((x) => ({ k: x.q.k, q: x.q.q, a: x.q.a, r: x.r, c: x.c }));
       S.qzr = [
