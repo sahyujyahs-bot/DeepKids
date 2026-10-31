@@ -2,6 +2,13 @@
 
 Everything she asked for, 19–27 Oct, that is not done or only partly done. Ticked off here as it gets built.
 
+
+## ⏰ Remind the founder when all the content is finished
+When every subject (science, Maths, English, Hindi; all boards) and the new units are written, checked and live, tell her and do these:
+- First-week guide: its lesson and worksheet steps back to today's first lesson in any subject (item 54).
+- Link the activity library, festivals and projects to every unit (items 51 and 50); re-check the 880 activity links waiting for the new units.
+- Library Games section: add games from the new units.
+
 ## 📌 Pinned for the kids app (founder, 29 Oct)
 - **Live AI canvas tutor (IAm on a whiteboard).** The child asks out loud, or snaps a worksheet. IAm talks and draws step by step on a shared board, using our unit's facts. The child draws back and IAm responds. "Save to Progress", with hard bits going to the refresher. Turn-based voice (the phone's own speech), Claude returns speech plus drawing steps, and the app animates them in the notebook style. Daily limit per family (Plus).
 - **AI explainer video maker** (like ToMotion): a prompt or a unit card becomes a script, then code-drawn diagram scenes, voice and music, then an MP4. Same drawing engine as the live canvas. Also gives short explainers for units (helps the reading load).

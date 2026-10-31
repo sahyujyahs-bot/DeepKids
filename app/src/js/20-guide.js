@@ -6,6 +6,12 @@ const GUIDE = {
     [".fxtoday", "This week", "Minutes learned this week, and the units your child is working on."],
     [".calhead", "Today's plan", "Everything planned for today, in time order. Use ‹ and › to look at other days."],
     [".now", "What to do now", "The next thing to do. Tap it to start. When you finish, tap Done and it moves on."],
+    [
+      ".daydrag .tr:has(.dh)",
+      "Change the order",
+      "Want maths before science today? Hold the ⠿ dots, drag the lesson up or down and let go. The lessons swap times.",
+      "drag",
+    ],
     [".morebtn", "For spare moments", "Jokes, games, experiments and reading, whenever you have a few minutes."],
     [
       "#nav",
@@ -22,7 +28,7 @@ const GUIDE = {
     [
       ".segmain",
       "Plan has seven tabs",
-      "Add plans, Calendar, Up next, To finish, Shopping, Refresher and Plan settings. Each is explained when you open it.",
+      "Planner, Calendar, Up next, To finish, Shopping, Refresher and Plan settings. Each is explained when you open it.",
     ],
     [
       ".card.dump",
@@ -121,6 +127,17 @@ function guideShow() {
     <span class="eyebrow">${g.i + 1} of ${L.length}</span><b>${esc(st[1])}</b><p>${esc(st[2])}</p>
     <div class="gbtns"><button class="link sm" data-g="off">Turn off walkthrough</button><span class="row">${g.i ? `<button class="btn soft sm" data-g="back">Back</button>` : ""}<button class="btn sm" data-g="next">${g.i === L.length - 1 ? "Got it" : "Next"}</button></span></div></div>`;
   guidePlace(t);
+  // a finger shows the move: it presses the dots, drags down and lets go, again and again
+  if (st[3] === "drag")
+    requestAnimationFrame(() => {
+      const r = (t.querySelector(".dh") || t).getBoundingClientRect(),
+        f = document.createElement("span");
+      f.className = "gfinger";
+      f.textContent = "👆";
+      f.style.left = r.left + r.width / 2 - 14 + "px";
+      f.style.top = r.top + r.height / 2 - 6 + "px";
+      box.appendChild(f);
+    });
 }
 // put the highlight on the part, and the box wherever it fits whole: below the part, above it, or over it
 function guidePlace(t) {

@@ -1317,7 +1317,7 @@ function shopView() {
 function viewPlanner() {
   const k = seg("week"),
     head = pageHead("Plan") + segBar("week") + `</section>`;
-  // Add plans: tell DeepKids the week, its questions, your classes and to-dos
+  // Planner: tell DeepKids the week, its questions, your classes and to-dos
   if (k === "days")
     return (
       head +

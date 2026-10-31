@@ -6694,6 +6694,41 @@ body {
   border-radius: 12px;
   background: color-mix(in srgb, var(--pist) 16%, var(--surface));
 }
+
+/* the walkthrough's finger, dragging a lesson by its dots */
+.gfinger {
+  position: fixed;
+  z-index: 3;
+  font-size: 34px;
+  pointer-events: none;
+  filter: drop-shadow(0 3px 4px #0005);
+  animation: gdrag 2.4s ease-in-out infinite;
+}
+@keyframes gdrag {
+  0% {
+    transform: translate(0, 10px) scale(1);
+    opacity: 0;
+  }
+  12% {
+    transform: translate(0, 0) scale(1);
+    opacity: 1;
+  }
+  22% {
+    transform: translate(0, 0) scale(0.85);
+  }
+  62% {
+    transform: translate(0, -76px) scale(0.85);
+  }
+  72% {
+    transform: translate(0, -76px) scale(1);
+    opacity: 1;
+  }
+  90%,
+  100% {
+    transform: translate(0, -76px) scale(1);
+    opacity: 0;
+  }
+}
 </style>
 <style>html,body{margin:0;background:var(--bg,#FFF6EC)}#dkLoading{position:fixed;inset:0;z-index:100000;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#1F2440;background:#FCFCF8}</style>
 </head>
@@ -6725,9 +6760,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="9c41228f08c8363342";window.DK_APPV="9c41228f08";window.DK_DATAV="c836f3a9b1"</script>
-<script src="/config.js?v=9c41228f08c8363342"></script>
+<script>window.DK_BUILD="4e6b8ed9bec8363342";window.DK_APPV="4e6b8ed9be";window.DK_DATAV="c836f3a9b1"</script>
+<script src="/config.js?v=4e6b8ed9bec8363342"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=9c41228f08c8363342"></script>
+<script src="/platform.js?v=4e6b8ed9bec8363342"></script>
 </body>
 </html>

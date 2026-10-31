@@ -642,7 +642,13 @@
       "Glass bangle",
       "Strip of thin carry bag",
       "Bouncy ball",
-      "Green bamboo stick",
+      {
+       "f": "Green bamboo stick",
+       "img": {
+        "src": "media/cards/stretching-springs-g1-0-12.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
+      },
       "Wet clay",
       "Pyjama elastic",
       "Biscuit",

@@ -890,7 +890,13 @@
        }
       },
       "Bottle opener",
-      "Sarota, the supari cutter",
+      {
+       "f": "Sarota, the supari cutter",
+       "img": {
+        "src": "media/cards/simple-machines-g2-0-06.jpg",
+        "credit": "Mx. Granger, CC0, via Wikimedia Commons"
+       }
+      },
       "Chimta tongs",
       "Broom",
       "Cricket bat",

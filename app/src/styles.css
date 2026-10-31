@@ -6676,3 +6676,38 @@ body {
   border-radius: 12px;
   background: color-mix(in srgb, var(--pist) 16%, var(--surface));
 }
+
+/* the walkthrough's finger, dragging a lesson by its dots */
+.gfinger {
+  position: fixed;
+  z-index: 3;
+  font-size: 34px;
+  pointer-events: none;
+  filter: drop-shadow(0 3px 4px #0005);
+  animation: gdrag 2.4s ease-in-out infinite;
+}
+@keyframes gdrag {
+  0% {
+    transform: translate(0, 10px) scale(1);
+    opacity: 0;
+  }
+  12% {
+    transform: translate(0, 0) scale(1);
+    opacity: 1;
+  }
+  22% {
+    transform: translate(0, 0) scale(0.85);
+  }
+  62% {
+    transform: translate(0, -76px) scale(0.85);
+  }
+  72% {
+    transform: translate(0, -76px) scale(1);
+    opacity: 1;
+  }
+  90%,
+  100% {
+    transform: translate(0, -76px) scale(1);
+    opacity: 0;
+  }
+}
