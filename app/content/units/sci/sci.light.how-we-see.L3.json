@@ -537,7 +537,13 @@
      "kind": "cards",
      "title": "12 SOURCE cards to cut out",
      "items": [
-      "The Sun",
+      {
+       "f": "The Sun",
+       "img": {
+        "src": "media/cards/how-we-see-g1-0-00.jpg",
+        "credit": "NASA/SDO/AIA, public domain"
+       }
+      },
       "A tubelight",
       "A diya flame",
       "A torch",
@@ -557,14 +563,38 @@
      "items": [
       "A mango",
       "Your friend's face",
-      "The Moon",
-      "A cow on the road",
+      {
+       "f": "The Moon",
+       "img": {
+        "src": "media/cards/how-we-see-g1-1-02.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
+      {
+       "f": "A cow on the road",
+       "img": {
+        "src": "media/cards/how-we-see-g1-1-03.jpg",
+        "credit": "Paul Asman, CC BY, via iNaturalist"
+       }
+      },
       "A book",
       "A white wall",
-      "A cat",
+      {
+       "f": "A cat",
+       "img": {
+        "src": "media/cards/how-we-see-g1-1-06.jpg",
+        "credit": "Siya ul haque, CC BY, via iNaturalist"
+       }
+      },
       "Your hand",
       "A steel tumbler",
-      "A leaf",
+      {
+       "f": "A leaf",
+       "img": {
+        "src": "media/cards/how-we-see-g1-1-09.jpg",
+        "credit": "Kristof Zyskowski, CC BY, via iNaturalist"
+       }
+      },
       "A carrom board",
       "A sari on a washing line"
      ]
@@ -573,12 +603,42 @@
      "kind": "cards",
      "title": "8 EYE cards and 10 BLOCKER cards",
      "items": [
-      "EYE: your eye",
-      "EYE: a cat's eye",
-      "EYE: an owl's eye",
+      {
+       "f": "EYE: your eye",
+       "img": {
+        "src": "media/cards/how-we-see-g1-2-00.jpg",
+        "credit": "Björn Markmann, CC BY 3.0, via Wikimedia Commons"
+       }
+      },
+      {
+       "f": "EYE: a cat's eye",
+       "img": {
+        "src": "media/cards/how-we-see-g1-2-01.jpg",
+        "credit": "Devika M B, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "EYE: an owl's eye",
+       "img": {
+        "src": "media/cards/how-we-see-g1-2-02.jpg",
+        "credit": "Parth Kansara, CC BY, via iNaturalist"
+       }
+      },
       "EYE: a grandparent's eye",
-      "EYE: a bee's eye",
-      "EYE: a fish's eye",
+      {
+       "f": "EYE: a bee's eye",
+       "img": {
+        "src": "media/cards/how-we-see-g1-2-04.jpg",
+        "credit": "renjus box, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "EYE: a fish's eye",
+       "img": {
+        "src": "media/cards/how-we-see-g1-2-05.jpg",
+        "credit": "Rejoice Gassah, CC BY, via iNaturalist"
+       }
+      },
       "EYE: a baby's eye",
       "EYE: a camera",
       "BLOCKER: a closed door",

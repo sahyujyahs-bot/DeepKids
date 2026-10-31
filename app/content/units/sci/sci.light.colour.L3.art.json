@@ -1,7 +1,15 @@
 {
+ "expl.3": {
+  "src": "media/img/sci.light.colour.L3/expl.3.jpg",
+  "credit": "oatsy40, CC BY 2.0, via Wikimedia Commons"
+ },
  "expl.5": {
   "src": "media/img/sci.light.colour.L3/expl.5.jpg",
   "credit": "YG01, CC BY 4.0, via Wikimedia Commons"
+ },
+ "intro": {
+  "src": "media/img/sci.light.colour.L3/intro.jpg",
+  "credit": "Thomas Heins from Friesenheim, Deutschland, CC BY 4.0, via Wikimedia Commons"
  },
  "setup.e1.0": {
   "src": "media/img/sci.light.colour.L3/setup.e1.0.jpg",
@@ -39,8 +47,20 @@
   "src": "media/img/sci.light.colour.L3/setup.e3.2.jpg",
   "drawn": true
  },
+ "summary": {
+  "src": "media/img/sci.light.colour.L3/summary.jpg",
+  "credit": "Fiona Storey, Public domain, via Wikimedia Commons"
+ },
  "term.0": {
   "src": "media/img/sci.light.colour.L3/term.0.jpg",
   "credit": "NASA/SDO/AIA, public domain"
+ },
+ "term.3": {
+  "src": "media/img/sci.light.colour.L3/term.3.jpg",
+  "credit": "Hankwang at English Wikipedia, CC BY 2.5, via Wikimedia Commons"
+ },
+ "term.5": {
+  "src": "media/img/sci.light.colour.L3/term.5.jpg",
+  "credit": "Paul-shy, CC BY 4.0, via Wikimedia Commons"
  }
 }

@@ -701,10 +701,34 @@
      "kind": "cards",
      "title": "14 animal cards to cut out",
      "items": [
-      "Anglerfish: dangles a glowing ball in front of their mouth. (CATCH)",
-      "Hatchetfish: belly lights match the faint light from above. (HIDE)",
-      "Atolla jellyfish: spins a ring of flashes when grabbed. (SCARE)",
-      "Lanternfish: rows of lights in a pattern for their own kind. (TALK)",
+      {
+       "f": "Anglerfish: dangles a glowing ball in front of their mouth. (CATCH)",
+       "img": {
+        "src": "media/cards/living-light-g2-0-00.jpg",
+        "credit": "kbkash, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "Hatchetfish: belly lights match the faint light from above. (HIDE)",
+       "img": {
+        "src": "media/cards/living-light-g2-0-01.jpg",
+        "credit": "Daniel Benák, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Atolla jellyfish: spins a ring of flashes when grabbed. (SCARE)",
+       "img": {
+        "src": "media/cards/living-light-g2-0-02.jpg",
+        "credit": "Leïla Brunner, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Lanternfish: rows of lights in a pattern for their own kind. (TALK)",
+       "img": {
+        "src": "media/cards/living-light-g2-0-03.jpg",
+        "credit": "Isaac Collibee, CC0, via iNaturalist"
+       }
+      },
       "Vampire squid: squirts glowing slime and swims away. (SCARE)",
       "Bobtail squid: keeps glowing bacteria to hide their shadow. (HIDE)",
       "Dragonfish: a glowing whisker on their chin tempts small fish. (CATCH)",

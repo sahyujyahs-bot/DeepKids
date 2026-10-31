@@ -1,4 +1,16 @@
 {
+ "expl.10": {
+  "src": "media/img/sci.light.how-we-see.L3/expl.10.jpg",
+  "credit": "Swarochi Tathagath, CC BY, via iNaturalist"
+ },
+ "flow.e2": {
+  "src": "media/img/sci.light.how-we-see.L3/flow.e2.jpg",
+  "credit": "Kookaaa, CC0, via Wikimedia Commons"
+ },
+ "intro": {
+  "src": "media/img/sci.light.how-we-see.L3/intro.jpg",
+  "credit": "NASA, public domain"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.light.how-we-see.L3/setup.e1.0.jpg",
   "drawn": true
@@ -34,5 +46,13 @@
  "setup.e3.2": {
   "src": "media/img/sci.light.how-we-see.L3/setup.e3.2.jpg",
   "drawn": true
+ },
+ "term.5": {
+  "src": "media/img/sci.light.how-we-see.L3/term.5.jpg",
+  "credit": "Liam Welch lwxlch, CC0, via Wikimedia Commons"
+ },
+ "term.8": {
+  "src": "media/img/sci.light.how-we-see.L3/term.8.jpg",
+  "credit": "Kamil Saitov, CC BY 4.0, via Wikimedia Commons"
  }
 }

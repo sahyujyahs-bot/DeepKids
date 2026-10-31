@@ -1352,7 +1352,8 @@ async function runDump() {
       D_.items && typed && D_.text && !D_.text.includes(typed) ? D_.text + "\n" + typed : typed || D_.text || ""
     ).trim();
   D_.text = text;
-  if (!SAMPLE) {
+  // the phone reads it first, for everyone; AI only for a photo, or a part the phone can't read
+  if (!SAMPLE || (text && !D_.files?.length && !readOnPhone(text).left.length)) {
     if (!text) {
       D_.err = "Type something first.";
       sfx("no");
