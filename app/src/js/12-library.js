@@ -129,6 +129,7 @@ const storyHtml = (st) =>
 const LIBT = [
   ["topics", "Syllabus", "Every chapter of every board, by subject and class"],
   ["research", "Research Papers", "Real research papers, retold for children as flashcards"],
+  ["games", "Games", "Quick games to play now, puzzles to play here, and every card and board game"],
   ["science", "Curated Resources", "Free activities, simulations and videos, tagged to chapters"],
   [
     "have",
@@ -909,6 +910,7 @@ function viewLibrary() {
   let h = `<section class="sec" style="margin-top:8px"><div class="sech"><h1 style="font-size:30px">Library</h1>${blob("var(--gum)", 7, "happy", "", 'width="50" height="50"')}</div><div class="seg">${LIBT.map(([k, n, d]) => `<button aria-pressed="${t === k}" data-act="lt" data-t="${k}" title="${esc(d)}">${n}</button>`).join("")}</div></section>`;
   if (t === "topics") h += topicsTab();
   if (t === "research") h += researchTab();
+  else if (t === "games") h += gamesTab();
   if (t === "science") h += scienceTab();
   if (t === "mine") h += myBooksTab();
   if (t === "have") {

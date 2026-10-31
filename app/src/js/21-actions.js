@@ -1603,6 +1603,21 @@ function onAct(e) {
       }
       break;
     }
+    case "qgame":
+      openSheet({ mode: "qgame", u: b.dataset.u, g: b.dataset.g });
+      break;
+    case "gameopen":
+      gameOpen(b.dataset.u, b.dataset.g);
+      break;
+    case "pzstart":
+      pzStart(b.dataset.k, +(b.dataset.skip || 0));
+      break;
+    case "pzflip":
+      pzFlip(+b.dataset.i);
+      break;
+    case "pzcell":
+      pzCell(+b.dataset.i);
+      break;
     case "wk1unit":
       fxOpen(wk1Unit().c.unit);
       break;

@@ -108,6 +108,17 @@ def unit_parts(u):
         links = [mm['math_unit'] for mm in u.get('maths', []) if mm.get('math_unit')] if o == 'maths' else []
         out.append([o, PLAB[o], o, m, req, 1, pre, links, [], []])
     return out
+# the unit's games for the Library: quick ones (12 cards or fewer, or nothing to print) carry their rules and the
+# words to write on paper slips, so they can be played without printing
+def unit_games(u):
+    out = []
+    for g in u.get('games', []):
+        pr = g.get('printables', []); n = sum(len(p.get('items', [])) for p in pr)
+        q = n <= 12 or {p.get('kind') for p in pr} <= {'score sheet'}
+        x = {'id': g['id'], 't': g['title'], 'mins': g.get('mins'), 'pl': g.get('players', ''), 'n': n, 'quick': q}
+        if q: x.update(rules=g.get('rules', []), slips=[it if isinstance(it, str) else it.get('f', '') for p in pr if p.get('kind') != 'score sheet' for it in p.get('items', [])])
+        out.append(x)
+    return out
 import shutil; shutil.rmtree(os.path.join(APP, 'units'), ignore_errors=True)
 for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json'))):
     if f.endswith(('.art.json', '.photos.json', '.models.json')): continue
@@ -133,7 +144,7 @@ for f in sorted(glob.glob(os.path.join(APP, 'content', 'units', '*', '*.json')))
     os.makedirs(os.path.join(APP, 'units'), exist_ok=True)
     json.dump(u, open(os.path.join(APP, 'units', u['id'] + '.json'), 'w'), ensure_ascii=False, separators=(",", ":"))
     sub0 = SUB.get(u['id'], {})
-    data['units'][u['id']] = {"id": u['id'], "title": u['title'], "topic": t['name'], "subtopic": sub0.get('name', ''), "parts": unit_parts(u), "spine": u["plan"].get("spine", []), "req": bool(sub0.get("chapters")), "jokes": [[j.get("j", ""), j.get("a", ""), j.get("src", "unit")] for j in u.get("jokes", [])], "buy": [{"item": b.get("item", ""), "kind": b.get("kind", ""), "url": b.get("url", ""), "used_in": b.get("used_in", []), "plan": b.get("plan", "")} for b in u.get("buy", [])], "order": SUBI.get(u["id"], 9999), "summary": {"text": u['summary']['text']}, "song": u.get('song', {}),
+    data['units'][u['id']] = {"id": u['id'], "title": u['title'], "topic": t['name'], "subtopic": sub0.get('name', ''), "parts": unit_parts(u), "spine": u["plan"].get("spine", []), "req": bool(sub0.get("chapters")), "jokes": [[j.get("j", ""), j.get("a", ""), j.get("src", "unit")] for j in u.get("jokes", [])], "buy": [{"item": b.get("item", ""), "kind": b.get("kind", ""), "url": b.get("url", ""), "used_in": b.get("used_in", []), "plan": b.get("plan", "")} for b in u.get("buy", [])], "order": SUBI.get(u["id"], 9999), "games": unit_games(u), "summary": {"text": u['summary']['text']}, "song": u.get('song', {}),
                               "img": {"summary": (u.get('img') or {}).get('summary', '')}, "v": hashlib.md5(json.dumps(u, sort_keys=True).encode()).hexdigest()[:10]}
     ref = {"id": u['id'], "title": u['title']}
     # 1. the unit is a lesson like any other: search, browse and related links find it through data['items']

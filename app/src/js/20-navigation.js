@@ -246,6 +246,8 @@ function renderSheetBody(top) {
     told: toldView,
     uploads: uploadsView,
     paper: paperView,
+    qgame: qgameView,
+    puzzle: puzzleView,
     moment: momentView,
     lifeadd: lifeAddView,
     track: trackView,

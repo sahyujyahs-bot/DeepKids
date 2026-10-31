@@ -6711,3 +6711,103 @@ body {
     opacity: 0;
   }
 }
+
+/* Library → Games */
+.pzgrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 10px;
+}
+.pzcard {
+  display: grid;
+  gap: 4px;
+  text-align: left;
+  padding: 14px;
+  border: 1.5px solid var(--ink);
+  border-radius: var(--r-lg);
+  background: var(--surface);
+  box-shadow: 3px 3px 0 var(--ink);
+  color: var(--ink);
+  cursor: pointer;
+}
+.pzcard > span:first-child {
+  font-size: 30px;
+}
+.slips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.slips span {
+  padding: 6px 12px;
+  border: 1.5px dashed var(--ink);
+  border-radius: 8px;
+  background: var(--surface);
+  font-weight: 700;
+}
+.rules li {
+  margin: 6px 0;
+}
+.memgrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+}
+.memcard {
+  min-height: 96px;
+  padding: 8px;
+  border: 2px solid var(--ink);
+  border-radius: 14px;
+  background: var(--peri);
+  color: #fff;
+  font: 400 30px var(--poster);
+  cursor: pointer;
+}
+.memcard.up {
+  background: var(--surface);
+  color: var(--ink);
+  font: 600 13px/1.3 var(--body);
+}
+.memcard.up.word {
+  font: 400 20px/1.1 var(--poster);
+}
+.memcard.got {
+  background: color-mix(in srgb, var(--good) 22%, var(--surface));
+  border-color: var(--good);
+}
+.wsgrid {
+  display: grid;
+  grid-template-columns: repeat(var(--n), 1fr);
+  gap: 3px;
+  max-width: 440px;
+}
+.wsgrid button {
+  aspect-ratio: 1;
+  border: 0;
+  border-radius: 6px;
+  background: var(--sunk);
+  color: var(--ink);
+  font: 800 15px var(--body);
+  cursor: pointer;
+}
+.wsgrid button.hit {
+  background: color-mix(in srgb, var(--sun) 75%, var(--surface));
+}
+.wsgrid button.pick {
+  background: var(--ink);
+  color: var(--surface);
+}
+.wslist {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 14px;
+  font-weight: 800;
+}
+.wslist .got {
+  text-decoration: line-through;
+  color: var(--muted);
+}
+.pzwin {
+  font: 400 26px var(--poster);
+  text-align: center;
+}
