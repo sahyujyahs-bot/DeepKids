@@ -6729,6 +6729,106 @@ body {
     opacity: 0;
   }
 }
+
+/* Library → Games */
+.pzgrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 10px;
+}
+.pzcard {
+  display: grid;
+  gap: 4px;
+  text-align: left;
+  padding: 14px;
+  border: 1.5px solid var(--ink);
+  border-radius: var(--r-lg);
+  background: var(--surface);
+  box-shadow: 3px 3px 0 var(--ink);
+  color: var(--ink);
+  cursor: pointer;
+}
+.pzcard > span:first-child {
+  font-size: 30px;
+}
+.slips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.slips span {
+  padding: 6px 12px;
+  border: 1.5px dashed var(--ink);
+  border-radius: 8px;
+  background: var(--surface);
+  font-weight: 700;
+}
+.rules li {
+  margin: 6px 0;
+}
+.memgrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+}
+.memcard {
+  min-height: 96px;
+  padding: 8px;
+  border: 2px solid var(--ink);
+  border-radius: 14px;
+  background: var(--peri);
+  color: #fff;
+  font: 400 30px var(--poster);
+  cursor: pointer;
+}
+.memcard.up {
+  background: var(--surface);
+  color: var(--ink);
+  font: 600 13px/1.3 var(--body);
+}
+.memcard.up.word {
+  font: 400 20px/1.1 var(--poster);
+}
+.memcard.got {
+  background: color-mix(in srgb, var(--good) 22%, var(--surface));
+  border-color: var(--good);
+}
+.wsgrid {
+  display: grid;
+  grid-template-columns: repeat(var(--n), 1fr);
+  gap: 3px;
+  max-width: 440px;
+}
+.wsgrid button {
+  aspect-ratio: 1;
+  border: 0;
+  border-radius: 6px;
+  background: var(--sunk);
+  color: var(--ink);
+  font: 800 15px var(--body);
+  cursor: pointer;
+}
+.wsgrid button.hit {
+  background: color-mix(in srgb, var(--sun) 75%, var(--surface));
+}
+.wsgrid button.pick {
+  background: var(--ink);
+  color: var(--surface);
+}
+.wslist {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 14px;
+  font-weight: 800;
+}
+.wslist .got {
+  text-decoration: line-through;
+  color: var(--muted);
+}
+.pzwin {
+  font: 400 26px var(--poster);
+  text-align: center;
+}
 </style>
 <style>html,body{margin:0;background:var(--bg,#FFF6EC)}#dkLoading{position:fixed;inset:0;z-index:100000;display:grid;place-items:center;font:600 18px system-ui,sans-serif;color:#1F2440;background:#FCFCF8}</style>
 </head>
@@ -6760,9 +6860,9 @@ body {
 </form></dialog>
 <dialog class="mini" id="pick"><div class="col"><h2 style="font-size:24px">What did you explore?</h2><p class="sm muted">It counts toward the syllabus, and the plan moves around it.</p><div id="pickList" style="display:grid;gap:8px"></div><div class="row" style="justify-content:flex-end"><button class="btn line sm" id="pickClose">Cancel</button></div></div></dialog>
 
-<script>window.DK_BUILD="4e6b8ed9bec8363342";window.DK_APPV="4e6b8ed9be";window.DK_DATAV="c836f3a9b1"</script>
-<script src="/config.js?v=4e6b8ed9bec8363342"></script>
+<script>window.DK_BUILD="4ecf23168971063342";window.DK_APPV="4ecf231689";window.DK_DATAV="7106f690af"</script>
+<script src="/config.js?v=4ecf23168971063342"></script>
 <script src="/vendor/supabase-2.118.0.js"></script>
-<script src="/platform.js?v=4e6b8ed9bec8363342"></script>
+<script src="/platform.js?v=4ecf23168971063342"></script>
 </body>
 </html>

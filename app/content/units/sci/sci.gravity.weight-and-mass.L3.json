@@ -982,19 +982,85 @@
      "items": [
       "A DUST SPECK. Pull number: 0. It pulls you too, but far too weakly to feel.",
       "YOU. Pull number: 0. You pull the Earth too, but far too weakly to feel.",
-      "AN ELEPHANT. Pull number: 0. Still far too small to feel.",
-      "AN ASTEROID. Pull number: 1. So weak that one jump could launch you into space.",
-      "THE HIMALAYAS. Pull number: 1. A plumb line near the mountains leans very slightly towards them.",
-      "THE MOON. Pull number: 2. Your weight there: about one sixth of your Earth weight.",
-      "MARS. Pull number: 3. Your weight there: a bit more than one third of your Earth weight.",
-      "VENUS. Pull number: 4. Solid ground. Your weight there: about nine tenths of your Earth weight.",
-      "THE EARTH. Pull number: 5. Your weight: about 300 newtons, if your mass is 30 kilograms.",
+      {
+       "f": "AN ELEPHANT. Pull number: 0. Still far too small to feel.",
+       "img": {
+        "src": "media/cards/weight-and-mass-g2-0-02.jpg",
+        "credit": "Morten Ross, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "AN ASTEROID. Pull number: 1. So weak that one jump could launch you into space.",
+       "img": {
+        "src": "media/cards/weight-and-mass-g2-0-03.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
+      {
+       "f": "THE HIMALAYAS. Pull number: 1. A plumb line near the mountains leans very slightly towards them.",
+       "img": {
+        "src": "media/cards/weight-and-mass-g2-0-04.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
+      {
+       "f": "THE MOON. Pull number: 2. Your weight there: about one sixth of your Earth weight.",
+       "img": {
+        "src": "media/cards/weight-and-mass-g2-0-05.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
+      {
+       "f": "MARS. Pull number: 3. Your weight there: a bit more than one third of your Earth weight.",
+       "img": {
+        "src": "media/cards/weight-and-mass-g2-0-06.jpg",
+        "credit": "JPL/NASA/STScI, public domain"
+       }
+      },
+      {
+       "f": "VENUS. Pull number: 4. Solid ground. Your weight there: about nine tenths of your Earth weight.",
+       "img": {
+        "src": "media/cards/weight-and-mass-g2-0-07.jpg",
+        "credit": "NASA/JPL, public domain"
+       }
+      },
+      {
+       "f": "THE EARTH. Pull number: 5. Your weight: about 300 newtons, if your mass is 30 kilograms.",
+       "img": {
+        "src": "media/cards/weight-and-mass-g2-0-08.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
       "QUICKSAND. Pull number: 5. The Earth's pull, but wet sand gives way under your feet, so you sink in.",
       "THE OCEAN. Pull number: 5. The Earth's pull, but the water pushes you up, so you feel light.",
-      "JUPITER. Pull number: 6. No ground. Your weight at the cloud tops: about two and a half times your Earth weight.",
-      "THE SUN. Pull number: 7. No ground. Your weight at the surface: about 28 times your Earth weight.",
-      "A SMALL BLACK HOLE. Pull number: 9. The mass of ten Suns, squeezed tiny. Its pull would stretch you like a noodle.",
-      "A GIANT BLACK HOLE. Pull number: 9. The mass of millions of Suns. Even light cannot get out.",
+      {
+       "f": "JUPITER. Pull number: 6. No ground. Your weight at the cloud tops: about two and a half times your Earth weight.",
+       "img": {
+        "src": "media/cards/weight-and-mass-g2-0-11.jpg",
+        "credit": "NASA/JPL/Space Science Institute, public domain"
+       }
+      },
+      {
+       "f": "THE SUN. Pull number: 7. No ground. Your weight at the surface: about 28 times your Earth weight.",
+       "img": {
+        "src": "media/cards/weight-and-mass-g2-0-12.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
+      {
+       "f": "A SMALL BLACK HOLE. Pull number: 9. The mass of ten Suns, squeezed tiny. Its pull would stretch you like a noodle.",
+       "img": {
+        "src": "media/cards/weight-and-mass-g2-0-13.jpg",
+        "credit": "NASA/JPL-Caltech, public domain"
+       }
+      },
+      {
+       "f": "A GIANT BLACK HOLE. Pull number: 9. The mass of millions of Suns. Even light cannot get out.",
+       "img": {
+        "src": "media/cards/weight-and-mass-g2-0-14.jpg",
+        "credit": "NASA, public domain"
+       }
+      },
       "LIGHT. Pull number: 0. Light has no mass, but it has energy. Gravity still bends its path."
      ]
     },

@@ -1,4 +1,16 @@
 {
+ "expl.10": {
+  "src": "media/img/sci.gravity.falling.L3/expl.10.jpg",
+  "credit": "NASA, public domain"
+ },
+ "expl.12": {
+  "src": "media/img/sci.gravity.falling.L3/expl.12.jpg",
+  "credit": "NASA, public domain"
+ },
+ "expl.13": {
+  "src": "media/img/sci.gravity.falling.L3/expl.13.jpg",
+  "credit": "NASA, public domain"
+ },
  "setup.e1.0": {
   "src": "media/img/sci.gravity.falling.L3/setup.e1.0.jpg",
   "drawn": true
@@ -46,5 +58,29 @@
  "setup.e4.2": {
   "src": "media/img/sci.gravity.falling.L3/setup.e4.2.jpg",
   "drawn": true
+ },
+ "summary": {
+  "src": "media/img/sci.gravity.falling.L3/summary.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.1": {
+  "src": "media/img/sci.gravity.falling.L3/term.1.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.12": {
+  "src": "media/img/sci.gravity.falling.L3/term.12.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.15": {
+  "src": "media/img/sci.gravity.falling.L3/term.15.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.16": {
+  "src": "media/img/sci.gravity.falling.L3/term.16.jpg",
+  "credit": "NASA, public domain"
+ },
+ "term.17": {
+  "src": "media/img/sci.gravity.falling.L3/term.17.jpg",
+  "credit": "NASA, public domain"
  }
 }

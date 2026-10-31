@@ -765,7 +765,11 @@
       },
       {
        "f": "A fluffy semal seed and a fruit stone",
-       "b": "HEAVY FIRST. The fruit stone lands first. The fluff catches the air and slows the seed."
+       "b": "HEAVY FIRST. The fruit stone lands first. The fluff catches the air and slows the seed.",
+       "img": {
+        "src": "media/cards/falling-g1-0-15.jpg",
+        "credit": "P Jeganathan, CC BY, via iNaturalist"
+       }
       },
       {
        "f": "A big book and a small book, lying flat",
