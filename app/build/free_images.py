@@ -20,12 +20,12 @@ BAD = re.compile(r'\b(sa|nc|nd)\b|share|noncommercial|no deriv', re.I)
 
 
 def fetch_url(url):
-    """One request to Commons at a time from this machine, at least 1.5 s apart, waiting and retrying when it is busy."""
+    """One request to Commons at a time from this machine, at least 2.5 s apart, waiting and retrying when it is busy."""
     for i in range(8):
         with open('/tmp/dk_commons.lock', 'a+') as lk:
             fcntl.flock(lk, fcntl.LOCK_EX)
             lk.seek(0); last = float(lk.read() or 0)
-            time.sleep(max(0, last + 1.5 - time.time()))
+            time.sleep(max(0, last + 2.5 - time.time()))
             lk.seek(0); lk.truncate(); lk.write(str(time.time())); lk.flush()
         try:
             return urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': UA}), timeout=90).read()
