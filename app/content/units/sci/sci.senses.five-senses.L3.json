@@ -158,9 +158,9 @@
   },
   {
    "term": "Umwelt",
-   "meaning": "A German word scientists use for the world as one kind of animal senses it. Every animal has their own Umwelt.",
+   "meaning": "A German word scientists use for the sense-world of one kind of animal: everything that animal can sense. Every animal has their own Umwelt.",
    "example": "A dog's Umwelt is full of smells. A bat's Umwelt is full of echoes.",
-   "art": "The same garden drawn three ways: as a dog smells it in clouds, as a bee sees it with ultraviolet patterns, and as a person sees it."
+   "art": "The same garden drawn three ways: in clouds of smell for a dog, with ultraviolet patterns for a bee, and as a person sees the garden."
   },
   {
    "term": "Perception",
@@ -255,7 +255,7 @@
    "description": "Your skin is your biggest sense organ. It is packed with nerve endings. Some of them are wrapped in tiny capsules. Some detect the lightest stroke, like a feather. Some detect steady pressure, like a heavy bag on your lap. Some detect vibration, the fast shaking of a phone on silent mode. Some detect your skin stretching when you bend a finger. When the skin is pushed, the receptor gets squashed a tiny bit. That opens tiny gates in it, and it makes a nerve signal. The gate for touch is made of a protein called Piezo2. An American scientist, Ardem Patapoutian, found it, and won a Nobel Prize in 2021. Fingertips, lips and the tongue have touch receptors packed very close together. Your back has them spread far apart. So fingertips feel much more detail. In one test, people could feel the difference between surfaces whose bumps were only about 13 millionths of a millimetre high.",
    "examples": [
     "People who read Braille feel patterns of raised dots with their fingertips, often very fast.",
-    "A star-nosed mole has 22 fleshy fingers around its nose, covered in thousands of touch sensors. It finds food in dark tunnels by touch alone."
+    "A star-nosed mole has 22 fleshy fingers around the nose, covered in thousands of touch sensors. The mole finds food in dark tunnels by touch alone."
    ],
    "perspectives": [],
    "art": "A cut-away of skin showing different little receptor shapes at different depths, each with a tiny icon: a feather, a pressing thumb, a buzzing phone and a bending finger.",
@@ -344,7 +344,7 @@
    "description": "When you open a box of laddoos, molecules float off them into the air. You breathe some in. High up inside your nose is a patch of skin about the size of a postage stamp. It holds millions of smell receptor cells. Each cell has one kind of smell receptor, shaped to detect certain molecules. People have about 400 different kinds. Most smells are made of many molecules, so one smell switches on a pattern of receptors. Your brain reads the pattern, like reading a word from its letters. That is how 400 kinds of receptor can tell apart a huge number of smells. Two American scientists, Linda Buck and Richard Axel, found the smell receptors in 1991. They won the Nobel Prize in 2004. Smell signals go almost straight to the parts of the brain for feelings and memory. That may be why a smell can suddenly bring back a memory from long ago. Smell receptor cells are nerve cells, and they are replaced every month or two. Most nerve cells are never replaced.",
    "examples": [
     "The smell of rain on dry earth has a name: petrichor. Part of it comes from a molecule called geosmin, made by bacteria in the soil. Bacteria are living things made of just one cell.",
-    "The smell of your grandmother's house, or a school classroom, can bring back a whole day in a flash."
+    "The smell of a relative's house, or a school classroom, can bring back a whole day in a flash."
    ],
    "perspectives": [],
    "art": "A cut-away of a nose with smell molecules drifting up to a small patch high inside, and a zoom showing receptor cells catching different molecules, like hands catching different coloured balls.",
@@ -434,7 +434,7 @@
   {
    "concept": "Every animal lives in their own sense-world",
    "status": "defined",
-   "definition": "Each kind of animal senses only some parts of the world. The world as one animal senses it is called their Umwelt. No animal senses everything.",
+   "definition": "Each kind of animal senses only some parts of the world. The part of the world one animal can sense is called their Umwelt. No animal senses everything.",
    "description": "A German scientist, Jakob von Uexküll, gave us the word Umwelt more than 100 years ago. A honeybee sees ultraviolet light, which we cannot see. Many flowers have ultraviolet stripes that lead the bee to their nectar. A bat fills the dark with squeaks too high for us, and hears the echoes. A pit viper has two small pits on their face that feel the warmth of a mouse in total darkness. An elephant hears rumbles far too low for us, and may feel them through their feet. A housefly and a butterfly taste with their feet. A catfish has taste buds all over their skin, so their whole body tastes the water. An octopus tastes with their suckers. A silk moth can smell a female moth from far away. Our own Umwelt is just one of millions. An Indian scientist, Obaid Siddiqi, studied how fruit flies taste and smell. He showed that the genes of a tiny fly can teach us how senses and nerves work.",
    "examples": [
     "Crickets have their ears on their front legs.",
@@ -450,7 +450,7 @@
    "definition": "Different people's senses are not exactly the same. Some people taste bitterness more strongly, some smell certain molecules differently, and some see colours differently.",
    "description": "About 8 in every 100 boys and men, and about 1 in every 200 girls and women, see some colours differently from most people. Usually red and green look alike to them. An American scientist, Linda Bartoshuk, found that some people are 'supertasters'. They have more taste buds and find bitter foods, like karela, much more bitter. For some people, fresh dhania leaves taste like soap. This is partly because of their genes. So when two people taste the same chutney, they may not taste quite the same thing. Neither one is wrong.",
    "examples": [
-    "You might love karela while your sister can hardly eat it. Your tongues may really be different.",
+    "You might love karela while a friend can hardly eat it. Your tongues may really be different.",
     "A colour-blind child may find it hard to tell a ripe red tomato from a green one by colour alone."
    ],
    "perspectives": [],
@@ -669,7 +669,7 @@
    "'Everyone,' said Tara. 'Please stop talking.'",
    "Something in her voice made them do it. One by one, the shouting stopped. Mama switched off his torch. Now there was only the rain, and the dark, and everyone breathing.",
    "Tara stood very still in the middle of the passage. Arjun could just make out her shape. She turned her head slowly to the right, and then slowly to the left, the way a bird does.",
-   "'There,' she whispered. 'He moved in his sleep. Left, and low down.'",
+   "'There,' she whispered. 'She moved in her sleep. Left, and low down.'",
    "Arjun had heard nothing. He strained his ears until they hurt. Nothing but rain.",
    "Tara found his hand in the dark. 'Close your eyes,' she said.",
    "'It's dark anyway. What's the point?'",
@@ -771,7 +771,7 @@
     {
      "id": "s2",
      "mins": 2,
-     "do": "Play one practice turn together. Turn over the Bat card and the echoes card, and read them out.",
+     "do": "Play one practice turn together. Turn over the Bat card and the echoes card, and read them out. Then turn both cards face down again where they were.",
      "say": "Here is a practice pair: a bat, and 'I squeak and listen for echoes'. Which of your senses is that most like?",
      "kid": "Practice pair: a bat, and 'I squeak and listen for echoes'. Which of your senses is it most like?",
      "check": {
@@ -784,7 +784,7 @@
        "Touch"
       ],
       "a": 0,
-      "why": "The bat is using their ears. They send out a squeak and hears it bounce back off a moth. Some blind people do the same with tongue clicks. If you picked touch, that is an interesting thought. Echoes are a bit like touching things from far away with sound."
+      "why": "The bat is using their ears. They send out a squeak and hear it bounce back off a moth. Some blind people do the same with tongue clicks. If you picked touch, that is an interesting thought. Echoes are a bit like touching things from far away with sound."
      }
     },
     {
@@ -811,7 +811,7 @@
      "caption": "1. Lay the 24 cards face down in 4 rows of 6."
     },
     {
-     "art": "A child turning over two cards: a picture of a housefly and a card showing a foot with a tongue.",
+     "art": "Two cards turned face up: one reading \"ANIMAL: Housefly\" and one reading \"SENSE: I taste with my feet.\"",
      "caption": "2. Turn over two cards. Do they match?"
     },
     {
@@ -849,7 +849,7 @@
       "HEARING: Turn your back. Name each kitchen sound.",
       "SMELL: Eyes shut. Waft each katori towards your nose and name the smell.",
       "TOUCH: Put your hand in the bag. Name each thing without looking.",
-      "TASTE: Eyes shut. Name the basic taste: sweet, sour, salty, bitter or umami."
+      "TASTE: Eyes shut. Name the basic taste: sweet, sour, salty or bitter."
      ]
     }
    ],
@@ -857,7 +857,7 @@
     "This game comes from a famous book called Kim, by Rudyard Kipling, published in 1901 and set in India. In it, a boy called Kim is trained to remember things on a tray by looking for one minute.",
     "There are five rounds, one for each sense. One person is the game-master and sets up each round. The others play.",
     "In each round, you score 1 point for each thing you name correctly.",
-    "Players can take turns being the game-master.",
+    "Players can take turns being the game-master. With only two people, play all five rounds, then swap jobs and play again, and compare totals.",
     "Add up the points after all five rounds. The highest total wins. Then talk about which sense was easiest, and which was hardest."
    ],
    "flow": [
@@ -905,8 +905,8 @@
      "id": "s5",
      "mins": 4,
      "do": "1. Taste round: put a few drops of 4 tastes on separate spoons. Use sugar water, salt water, lemon water, and karela juice or very strong tea. 2. Players shut their eyes and name the basic taste of each. 3. Add up all the points.",
-     "say": "Eyes shut. Tell me the basic taste: sweet, sour, salty, bitter or umami?",
-     "kid": "Close your eyes. Taste each spoon. Is it sweet, sour, salty, bitter or umami?",
+     "say": "Eyes shut. Tell me the basic taste: sweet, sour, salty or bitter?",
+     "kid": "Close your eyes. Taste each spoon. Is it sweet, sour, salty or bitter?",
      "check": {
       "t": "mcq",
       "q": "In the taste round, which spoon tastes bitter?",
@@ -947,7 +947,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "Amma rings a steel bell in the kitchen, and you hear it in the next room. What travels from the bell into your ear?",
+     "p": "Someone rings a steel bell in the kitchen, and you hear it in the next room. What travels from the bell into your ear?",
      "opts": [
       "Tiny bits broken off the bell",
       "Shaking air, passed on from the shaking bell",
@@ -970,7 +970,7 @@
      ],
      "a": "order shown",
      "why": "The ear flap collects the sound. It goes down the ear canal and shakes the eardrum. Three tiny bones pass the shaking to the cochlea. Hair cells there make signals, and the nerve carries them to the brain.",
-     "art": "A cut-away ear with the six parts marked by small numbered circles, without labels."
+     "art": "A cut-away ear with six parts marked by small plain circles, without labels or numbers."
     },
     {
      "t": "fill",
@@ -1020,45 +1020,6 @@
      ],
      "a": 2,
      "why": "A sound straight in front or behind reaches both ears at the same moment and loudness. So the brain has no difference to compare. Picking 'left' or 'right' usually means forgetting that the brain uses the difference between the two ears."
-    },
-    {
-     "t": "write",
-     "p": "Look at the chart from the Point at the Sound test. The child found 7 sounds with two ears and 4 with one ear blocked. What does this show?",
-     "how": "e3",
-     "chart": {
-      "type": "bar",
-      "title": "Sounds found correctly, out of 8 (made-up results)",
-      "x": "Ears used",
-      "y": "Sounds found (out of 8)",
-      "data": [
-       {
-        "label": "Two ears",
-        "value": 7,
-        "emoji": "👂"
-       },
-       {
-        "label": "One ear blocked",
-        "value": 4,
-        "emoji": "🤚"
-       }
-      ]
-     },
-     "lines": 3,
-     "a": "Two ears are better for finding where a sound comes from. The child found 3 more sounds with two ears. The brain compares the two ears.",
-     "why": "With one ear blocked, the brain has much less to compare, so pointing gets worse."
-    },
-    {
-     "t": "mcq",
-     "p": "In the Two-Point Test, your fingertip felt two points just 0.5 cm apart. Your back felt only one point, even at 4 cm. What is the best explanation?",
-     "how": "e2",
-     "opts": [
-      "The skin on your back is too thick to feel anything",
-      "Your fingertip has touch receptors packed much closer together",
-      "Your back is further from your brain",
-      "You were not paying attention when the back was tested"
-     ],
-     "a": 1,
-     "why": "A strong answer links the result to receptors: two points feel like two only when each touches a different receptor. On the fingertip they are packed close, on the back they are far apart. Picking 'too thick to feel' is wrong, because your back did feel the touch. It just could not tell one point from two."
     },
     {
      "t": "sort",
@@ -1113,6 +1074,19 @@
      "lines": 3,
      "a": "I will taste sweet. The tongue map is wrong. Every part of the tongue that has taste buds can taste all five basic tastes, so the back tastes sweet too.",
      "why": "A strong answer makes a clear prediction and gives the reason: taste buds for every taste are spread all over the tongue. The best answers add that you could check it yourself with a cotton bud."
+    },
+    {
+     "t": "mcq",
+     "p": "In the Mystery Bag, you could tell a coin by its ridged edge with bare fingers, but not with socks on your hands. Why?",
+     "how": "a3",
+     "opts": [
+      "The socks made the coin colder",
+      "The socks stop the tiny pushes from reaching the touch receptors in your fingertips",
+      "Your fingers forgot the coin",
+      "Coins feel different through socks because they get heavier"
+     ],
+     "a": 1,
+     "why": "Touch receptors in the fingertips feel tiny bumps when the skin touches them. A thick sock sits in between, so the small ridges cannot press on your skin. Picking 'forgot the coin' skips the real reason: the information never arrived."
     },
     {
      "t": "mcq",
@@ -1216,7 +1190,7 @@
     },
     {
      "t": "write",
-     "p": "A girl of 10 She plays music on earphones at full volume for hours every day. Loud sound can break the hair cells in the cochlea, and in people they do not grow back. What could happen to her hearing? What would you tell her?",
+     "p": "A girl of 10 plays music on earphones at full volume for hours every day. Loud sound can break the hair cells in the cochlea, and in people they do not grow back. What could happen to her hearing? What would you tell her?",
      "lines": 4,
      "a": "Over time she could lose some of her hearing, and it would not come back, because broken hair cells do not grow again in people. I would tell her to turn the volume down and take breaks.",
      "why": "A strong answer links cause and effect: loud sound breaks hair cells, and lost hair cells mean lost hearing for good. Birds can grow new hair cells, and scientists are studying how, but people cannot yet."
@@ -1288,18 +1262,11 @@
      "why": "A strong answer uses the same idea as the Blue Mango. Staring tires out the cones that see red. On white paper, the other cones send more signals, so the brain sees the opposite colour, a greenish blue. Picking 'red' means thinking you see what you saw, but the afterimage is made by tired cones."
     },
     {
-     "t": "truefalse",
-     "p": "In the Fading Coin activity, you stopped feeling the still coin because your touch receptors had broken.",
-     "how": "a4",
-     "a": false,
-     "why": "False. When the coin was nudged, you felt it again at once, so nothing was broken. Many receptors send signals when something changes and go quiet when nothing changes."
-    },
-    {
      "t": "write",
-     "p": "You walk into the kitchen and smell the sambar. A few minutes later you can hardly smell it. Then your sister comes in from outside and says, 'What a smell!' Use what you found in the Fading Coin activity to explain this.",
+     "p": "You walk into the kitchen and smell the sambar. A few minutes later you can hardly smell it. Then a visitor comes in from outside and says, 'What a smell!' Use what you found in the Fading Coin activity to explain this.",
      "how": "a4",
      "lines": 4,
-     "a": "My smell receptors stopped sending so many signals because the smell stayed the same, just like the still coin. My sister's nose had not got used to it yet, so to her it was strong. Senses mostly notice changes.",
+     "a": "My smell receptors stopped sending so many signals because the smell stayed the same, just like the still coin. The visitor's nose had not got used to it yet, so to her it was strong. Senses mostly notice changes.",
      "why": "A strong answer joins the two cases: touch and smell both go quiet when nothing changes. The sambar smell is still there. A fresh nose notices it, because for that nose it is a change."
     },
     {
@@ -1364,7 +1331,7 @@
     },
     {
      "t": "write",
-     "p": "Your sister loves karela, but you find it far too bitter. Is one of you wrong? Explain.",
+     "p": "A friend loves karela, but you find it far too bitter. Is one of you wrong? Explain.",
      "lines": 3,
      "a": "Neither of us is wrong. Tongues really differ. Some people, called supertasters, have more taste buds, and bitter food like karela tastes much stronger to them.",
      "why": "A strong answer says both people are telling the truth about what they taste, and gives the reason: tongues differ. Linda Bartoshuk, a scientist in the USA, found that supertasters taste bitterness much more strongly."
@@ -1501,14 +1468,14 @@
     },
     {
      "t": "write",
-     "p": "Thomas Nagel asked, 'What is it like to be a bat?' Try to describe your bedroom the way a bat might sense it.",
+     "p": "Thomas Nagel asked, 'What is it like to be a bat?' Try to describe your bedroom the way a bat would sense the room.",
      "lines": 4,
      "a": "Any imaginative answer that uses echoes is good. For example: the walls give sharp, quick echoes. The bed gives a soft, slow echo. The open window gives no echo at all.",
      "why": "This is a way of imagining another animal's sense-world. Nagel's point is that we can imagine, but we may never truly know."
     },
     {
      "t": "draw",
-     "p": "Draw the same mango three ways: as you see it, as a dog might smell it, and as a fly might taste it with their feet.",
+     "p": "Draw the same mango three ways: as you see it, as a dog might smell the mango, and as a fly might taste it with their feet.",
      "a": "Any drawing that shows the mango in three different sense-worlds: colours for you, smell clouds for the dog, and taste spots under the fly's feet.",
      "why": "Each animal builds their own world from the signals their senses send. The mango is the same, but the worlds are different.",
      "art": "Three empty boxes side by side, each with a small mango outline in the middle."
@@ -1852,7 +1819,7 @@
      "kid": "Which place felt two points closest together? Why might your fingertips need that?",
      "check": {
       "t": "mcq",
-      "q": "Your fingertip felt two points 0.5 cm apart. Your back felt two points 4 cm apart as just one. Why?",
+      "q": "In a typical result, your fingertip feels two points 0.5 cm apart, but your back feels two points 4 cm apart as just one. Why?",
       "options": [
        "The skin on your back is thicker, so the points can't reach",
        "Your fingertip has touch receptors packed much closer together",
@@ -1984,7 +1951,7 @@
      "do": "1. The listener blocks one ear. They hold a small ball of cotton wool at the opening and press their flat palm firmly over that ear. 2. Do all 8 places again, in a new mixed-up order. 3. Write right or wrong for each.",
      "say": "Now block one ear, tightly. Let's see if you can still find the sounds.",
      "kid": "Block one ear. Press your palm over it, tight. Now point to the clicks again.",
-     "parent": "Blocking an ear by hand never stops all the sound, so the difference may be smaller than you expect. If the scores are the same, make the clicks much softer, or rub two fingers together instead. Sounds straight in front or behind are often mixed up, even with two ears."
+     "parent": "Blocking an ear by hand never stops all the sound, so the difference may be smaller than you expect. If the scores are the same, make the clicks much softer, or rub two fingers together instead. Sounds straight in front or behind are often mixed up, even with two ears. Practice can help the second round. If two children are playing, let the second one start with one ear blocked."
     },
     {
      "id": "s4",
@@ -2066,7 +2033,6 @@
      "qty": 1
     }
    ],
-   "safety": "Do this sitting down, somewhere safe.",
    "schedule": [
     {
      "day": 1,
@@ -2173,7 +2139,7 @@
      "say": "This cling film is like your eardrum. Watch the sugar when I bang the plate.",
      "kid": "Stretch cling film over a bowl. Sprinkle sugar on top. Bang a plate near it. Watch the sugar jump!",
      "adult": true,
-     "parent": "The cling film must be tight, like a drum. Hold the plate close, about one hand's length away. Sugar or salt grains jump best because they are light. If they hardly move, bang harder or hold the plate closer. A phone playing a deep bass note held just above the film also works."
+     "parent": "The cling film must be tight, like a drum. Hold the plate close, about one hand's length away. Expect a small result: a few grains shiver or hop. Sugar or salt grains work best because they are light. If they hardly move, bang harder or hold the plate closer. A phone playing a deep bass note held just above the film is more reliable."
     },
     {
      "id": "s3",
@@ -2234,11 +2200,15 @@
      "qty": 8
     },
     {
+     "item": "4 more small things for the second round: a clothes peg, a dry chana, a hair clip and a bangle",
+     "qty": 4
+    },
+    {
      "item": "a pair of thick socks, to wear on the hands",
      "qty": 1
     }
    ],
-   "safety": "Nothing sharp in the bag. Small things are a choking risk for babies, so keep them away from little brothers and sisters.",
+   "safety": "Keep the small things away from children under 5, who could put them in their mouths.",
    "schedule": [
     {
      "day": 1,
@@ -2246,7 +2216,7 @@
      "what": "Name things in a bag by touch, first with bare fingers, then with socks on your hands."
     }
    ],
-   "record": "Write two numbers: how many things you named with bare fingers, and how many with socks on.",
+   "record": "Write two numbers: how many of the 8 things you named with bare fingers, and how many of the 8 with socks on.",
    "flow": [
     {
      "id": "s1",
@@ -2275,7 +2245,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Mix the things up. 2. Your child puts thick socks over both hands. 3. They try again. 4. Count the right guesses.",
+     "do": "1. Swap 4 of the 8 things for the 4 new things, so the first set cannot be remembered. 2. Your child puts thick socks over both hands. 3. They try again. 4. Count the right guesses.",
      "say": "Now put socks on your hands, and try again. Is it easier or harder? Why?",
      "kid": "Put socks on your hands. Try again. Is it harder? Why?",
      "parent": "With socks on, most children can still tell big shapes, but lose small details like the ridges on a coin or the seam of an elaichi pod. The sock stops the tiny pushes from reaching the touch receptors in the fingertips."
@@ -2284,8 +2254,8 @@
      "id": "s4",
      "mins": 2,
      "do": "Talk about the star-nosed mole and Braille.",
-     "say": "A star-nosed mole finds food in dark tunnels with 22 fleshy fingers on its nose. Blind people read Braille with their fingertips. Why fingertips, and not elbows?",
-     "kid": "A star-nosed mole touches with its nose. Blind people read with their fingertips. Why not elbows?",
+     "say": "A star-nosed mole finds food in dark tunnels with the 22 fleshy fingers on the end of the nose. Blind people read Braille with their fingertips. Why fingertips, and not elbows?",
+     "kid": "A star-nosed mole touches with the end of the nose. Blind people read with their fingertips. Why not elbows?",
      "think": "Cold steel feels colder than a cotton ball, even in the same room. Are they really different temperatures?"
     }
    ],
@@ -2308,7 +2278,7 @@
   {
    "id": "a4",
    "title": "The Fading Coin: senses notice changes",
-   "mins": 10,
+   "mins": 12,
    "days": 1,
    "materials": [
     {
@@ -2328,7 +2298,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 10,
+     "mins": 12,
      "what": "Feel a coin on your skin fade away, and score a smell as it fades."
     }
    ],
@@ -2345,7 +2315,7 @@
     },
     {
      "id": "s2",
-     "mins": 4,
+     "mins": 6,
      "do": "1. Your child wafts the smell from the jar towards their nose and gives it a score from 5 (very strong) to 0 (nothing). 2. Keep wafting gently every 15 seconds for 2 minutes, and score each time. 3. Then go into another room for 2 minutes, come back and smell again.",
      "say": "Score the smell from 5 to 0. Keep going every 15 seconds. Does it stay the same?",
      "kid": "Waft the smell. Score it: 5 is very strong, 0 is nothing. Again every 15 seconds.",
@@ -2399,8 +2369,7 @@
     },
     {
      "item": "bright sketch pens or crayons: blue, pink and black",
-     "qty": 3,
-     "buy": "b-sketchpens"
+     "qty": 3
     },
     {
      "item": "a clock or phone with seconds",
@@ -2512,7 +2481,7 @@
      "do": "1. Move your pencil to a new spot. 2. Your child closes one eye. 3. They try 5 times again. 4. Count the hits.",
      "say": "Now close one eye, and try again. Is it easier or harder?",
      "kid": "Close one eye. Try 5 more times. Easier or harder?",
-     "parent": "Most children miss much more often with one eye shut. They overshoot or stop short. Each eye sees from a slightly different place, and the brain compares the two pictures to judge how far away things are."
+     "parent": "Most children miss much more often with one eye shut. They overshoot or stop short. Each eye sees from a slightly different place, and the brain compares the two pictures to judge how far away things are. Hitting gets easier with practice. If the one-eye round goes well, try two eyes once more to check."
     },
     {
      "id": "s3",
@@ -2722,7 +2691,7 @@
     },
     {
      "id": "s3",
-     "mins": 8,
+     "mins": 12,
      "do": "On day 2 and day 3, go through all 6 jars with eyes open. Smell each one, say its name and choose one describing word for it, like 'warm', 'sharp' or 'sweet'.",
      "say": "Smell it, say its name, and give it a describing word. Words help your brain hold on to a smell.",
      "kid": "Smell each jar. Say its name. Give it one describing word, like warm or sharp.",
@@ -2750,11 +2719,11 @@
     },
     {
      "id": "s5",
-     "mins": 12,
+     "mins": 8,
      "do": "Make the bar chart. Then ask your child to say or write three short sentences: what I think, what I saw, and why.",
      "say": "Now tell me three things. Can noses learn? What did you find that shows it? And why do you think it happened?",
      "kid": "Draw two bars: day 1 and day 4. Then say what you think, what you found, and why.",
-     "parent": "A good answer sounds like this. What I think: practice makes me better at naming smells. What I found: I got 3 out of 6 on day 1 and 6 out of 6 on day 4. Akka, who did not practise, got 3. Why: my brain learned to link each smell to its name."
+     "parent": "A good answer sounds like this. What I think: practice makes me better at naming smells. What I found: I got 3 out of 6 on day 1 and 6 out of 6 on day 4. A relative who did not practise got 3. Why: my brain learned to link each smell to its name."
     }
    ],
    "context": "This is Train Your Nose. Over four days you make six smell jars, test yourself, practise, and test again to see if your nose gets better.",
@@ -2808,7 +2777,6 @@
     "newspaper or chart paper",
     "sticky tape",
     "a plastic funnel and a piece of plastic pipe or a rubber tube, if you have them",
-    "a steel tumbler",
     "scissors, used by a grown-up"
    ],
    "general": [
@@ -2898,6 +2866,7 @@
    ],
    "materials": [
     "6 jars or steel dabbas that look the same",
+    "sugar, salt, turmeric, chilli powder, jeera and rice to fill the jars (or any six dry foods from the kitchen)",
     "rubber bands, string, buttons, felt, sandpaper or cardboard",
     "glue, or a glue gun if you have one, used only by a grown-up",
     "a blindfold"
@@ -2928,7 +2897,7 @@
      "do": "Plan a labelling system together on paper.",
      "say": "Your fingertips feel the most detail. How could we make each jar feel different?",
      "kid": "Plan your labels. How can each jar feel different? Remember the Mystery Bag and the Two-Point Test.",
-     "parent": "Remind your child that fingertips can feel dots 0.5 cm apart. Braille dots are only about 2.5 millimetres apart."
+     "parent": "Remind your child that in the Two-Point Test, fingertips felt two points even 0.5 cm apart. Braille dots are only about 2.5 millimetres apart, and fingertips can read them."
     },
     {
      "id": "s3",
@@ -3044,29 +3013,15 @@
   },
   {
    "t": "mcq",
-   "p": "Your friend calls your name from your left side. How does your brain know the sound came from the left?",
-   "how": "e3",
-   "opts": [
-    "Your left ear is the better ear",
-    "The sound reaches your left ear a tiny bit sooner and louder",
-    "Your brain guesses",
-    "You hear twice as much with two ears"
-   ],
-   "a": 1,
-   "why": "The brain compares the two ears. The nearer ear hears the sound a little sooner and a little louder. Picking 'twice as much' misses that the clue is the difference between the ears.",
-   "outcome": 1
-  },
-  {
-   "t": "mcq",
    "p": "A girl has hard wax packed deep in her ear canal, and she hears less in that ear. Why?",
    "opts": [
-    "Less of the shaking air reaches his eardrum, so the eardrum shakes less",
+    "Less of the shaking air reaches her eardrum, so the eardrum shakes less",
     "The wax eats the sound",
-    "His cochlea has stopped working",
+    "Her cochlea has stopped working",
     "Wax makes sounds louder"
    ],
    "a": 0,
-   "why": "Sound has to travel down the ear canal and shake the eardrum. A plug of wax gets in the way. When a doctor clears the wax, his hearing comes back, because nothing deeper was harmed. Picking 'cochlea stopped' skips the first steps of the path.",
+   "why": "Sound has to travel down the ear canal and shake the eardrum. A plug of wax gets in the way. When a doctor clears the wax, her hearing comes back, because nothing deeper was harmed. Picking 'cochlea stopped' skips the first steps of the path.",
    "outcome": 1
   },
   {
@@ -3302,7 +3257,7 @@
   "What does this food taste like if you hold your nose?",
   "Which of your senses woke up first this morning?",
   "Can you smell our house? Why can visitors smell it better than we can?",
-  "If you could borrow one animal's sense for a day, which would it be?",
+  "If you could borrow one animal's sense for a day, which one would you choose?",
   "Where is the sound of that horn coming from? How do you know without looking?",
   "Is your shirt touching you right now? Did you feel it before I asked?",
   "Why does chilli feel hot, even when it's cold?",
@@ -3345,68 +3300,12 @@
    "a": "You're so cool. I'm just hot-headed."
   },
   {
-   "j": "Why did the fly walk all over the mango?",
-   "a": "They wanted a taste, and their feet were their tongue."
-  },
-  {
-   "j": "Why did the coin stop talking to the arm?",
-   "a": "It felt it was being ignored."
-  },
-  {
-   "j": "What did the eardrum say to the loud music?",
-   "a": "Please, don't beat me up."
-  },
-  {
    "j": "Why are fingertips so good at reading?",
    "a": "They always get the point. Sometimes two."
   },
   {
-   "j": "What do you call a sense that tells jokes?",
-   "a": "A sense of humour."
-  },
-  {
-   "j": "Why did the cat refuse the laddoo?",
-   "a": "They couldn't taste the sweet side of life."
-  },
-  {
    "j": "Why do noses run?",
    "a": "Because they can't walk."
-  },
-  {
-   "j": "Why did the blue mango turn yellow?",
-   "a": "Your cones got tired of looking at it."
-  },
-  {
-   "j": "What did the bee say to the flower?",
-   "a": "I can see your secret stripes."
-  },
-  {
-   "j": "Why was the cochlea so good at music?",
-   "a": "It had thousands of tiny hairs, all perfectly in tune."
-  },
-  {
-   "j": "Why did the parrot laugh at the chilli?",
-   "a": "They didn't feel the burn."
-  },
-  {
-   "j": "What is an owl's favourite subject?",
-   "a": "Hoo-man hearing."
-  },
-  {
-   "j": "Why did the smell take the stairs up the nose?",
-   "a": "It was heading for the top floor receptors."
-  },
-  {
-   "j": "Why did the elephant put their feet on the ground to listen?",
-   "a": "They wanted to feel the latest rumbles."
-  },
-  {
-   "j": "Why are taste buds such good friends?",
-   "a": "They're always ready to try something new."
-  },
-  {
-   "j": "Why did the catfish never need a spoon?",
-   "a": "Their whole body was a tongue."
   }
  ],
  "maths": [
@@ -3465,7 +3364,7 @@
    "why_maths": "Two numbers in a table are easy to miss. Two bars side by side show the difference at a glance."
   },
   {
-   "problem": "In the Hold Your Nose test, a family of 4 people each tasted 3 spiced sugars with their noses pinched. Make a tally of how many spices were named correctly: Amma 0, Appa 1, Akka 0, me 0. Then, with noses open: Amma 3, Appa 3, Akka 2, me 3. How many were named correctly in all, with noses pinched and with noses open?",
+   "problem": "In the Hold Your Nose test, a family of 4 people each tasted 3 spiced sugars with their noses pinched. Make a tally of how many spices were named correctly: Lata 0, Vijay 1, Nisha 0, Kiran 0. Then, with noses open: Lata 3, Vijay 3, Nisha 2, Kiran 3. How many were named correctly in all, with noses pinched and with noses open?",
    "answer": "With noses pinched: 1 out of 12. With noses open: 11 out of 12.",
    "explain": "With noses pinched, add 0 + 1 + 0 + 0 = 1. With noses open, add 3 + 3 + 2 + 3 = 11. Each person tasted 3 spices, and there were 4 people, so there were 4 × 3 = 12 tastes in each round. So 1 out of 12 pinched, and 11 out of 12 open.",
    "math_unit": "math.data.sorting-and-tallies.L3",
@@ -3481,28 +3380,28 @@
     ],
     "rows": [
      [
-      "Amma",
+      "Lata",
       "0",
       "3"
      ],
      [
-      "Appa",
+      "Vijay",
       "1",
       "3"
      ],
      [
-      "Akka",
+      "Nisha",
       "0",
       "2"
      ],
      [
-      "Me",
+      "Kiran",
       "0",
       "3"
      ]
     ]
    },
-   "why_maths": "One person's result could be a fluke. Adding up the whole family's results shows whether the pattern is real."
+   "why_maths": "One person's result could be a fluke. Adding up everyone's results shows whether the pattern is real."
   },
   {
    "problem": "In the Fading Coin activity, a child stopped feeling the coin after 25 seconds the first time, 20 seconds the second time and 30 seconds the third time. Put the times in order. What is the middle value?",
@@ -3586,16 +3485,6 @@
  ],
  "buy": [
   {
-   "id": "b-sketchpens",
-   "item": "Bright sketch pens",
-   "kind": "material",
-   "why": "Thick, bright colours make the Blue Mango afterimage work best.",
-   "url": "https://www.amazon.in/s?k=sketch+pens+for+kids",
-   "used_in": [
-    "a5"
-   ]
-  },
-  {
    "id": "b-book-markle",
    "item": "What If You Had Animal Eyes?, by Sandra Markle",
    "kind": "book",
@@ -3603,19 +3492,17 @@
    "url": "https://www.amazon.in/s?k=What+If+You+Had+Animal+Eyes+Sandra+Markle",
    "used_in": [
     "g1"
-   ],
-   "plan": "If bought, read it after Super-Sense Pairs. Add one animal from the book to the game as a new pair."
+   ]
   },
   {
    "id": "b-book-aliki",
    "item": "My Five Senses, by Aliki (Let's-Read-and-Find-Out Science)",
    "kind": "book",
-   "why": "A simple, clear picture book about the five well-known senses, good for younger brothers and sisters too. It keeps to the old count of five, so talk about the other senses after reading it.",
+   "why": "A simple, clear picture book about the five well-known senses, good for younger children too. It keeps to the old count of five, so talk about the other senses after reading it.",
    "url": "https://www.amazon.in/s?k=My+Five+Senses+Aliki",
    "used_in": [
     "a1"
-   ],
-   "plan": "If bought, read it after One Quiet Minute, on day 1."
+   ]
   },
   {
    "id": "b-book-yong",
@@ -3625,8 +3512,7 @@
    "url": "https://www.amazon.in/s?k=An+Immense+World+Ed+Yong",
    "used_in": [
     "g1"
-   ],
-   "plan": "For the parent. Read the chapter on echoes aloud before the story, or on a Go deeper day."
+   ]
   }
  ],
  "warmup": [
@@ -3671,8 +3557,8 @@
    "a": "No. That is why we protect our ears from loud sounds."
   },
   {
-   "q": "What do we call the world as one animal senses it?",
-   "a": "Its Umwelt."
+   "q": "What do we call the sense-world of one kind of animal?",
+   "a": "Their Umwelt."
   },
   {
    "q": "Do we have only five senses?",

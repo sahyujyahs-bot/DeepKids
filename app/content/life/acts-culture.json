@@ -1,0 +1,1828 @@
+{
+ "cat": "culture",
+ "acts": [
+  {
+   "id": "culture-diwali",
+   "name": "Diwali",
+   "words": [
+    "diwali",
+    "deepavali",
+    "diya",
+    "lamps",
+    "rangoli",
+    "crackers"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.community.festivals.L3",
+     "why": "Diwali is a festival people have kept for a very long time, and each home keeps it in its own way."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "The flame of the diya gives out heat as well as light, and you can feel it on your hand if you hold it close."
+    },
+    {
+     "k": "unit|sci.changes.fire.L3",
+     "why": "A diya burns because the wick, the oil and the air are all there, and if you cover it with a glass the flame goes out."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "Look at the rangoli at the door, the left side matches the right side, and that is symmetry."
+    },
+    {
+     "k": "math:money",
+     "why": "When we buy sweets and lamps for Diwali, we can add up the prices and work out the change we get back."
+    }
+   ]
+  },
+  {
+   "id": "culture-firecrackers-sparklers",
+   "name": "Firecrackers and sparklers",
+   "words": [
+    "crackers",
+    "sparkler",
+    "phuljhari",
+    "anar",
+    "fireworks",
+    "patakha"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.changes.fire.L3",
+     "why": "A sparkler burns very hot, so we hold it at arm's length and keep water nearby."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "The bang of a cracker is a sudden push on the air that reaches your ears, and that is why it is so loud."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "Very loud bangs can hurt our ears, so we stand far away and cover them."
+    },
+    {
+     "k": "unit|sci.environment.pollution.L3",
+     "why": "After crackers, smoke hangs in the air, and that smoke is a kind of pollution we breathe in."
+    },
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "The red, green and gold sparks come from different things burning, and each gives its own colour of light."
+    }
+   ]
+  },
+  {
+   "id": "culture-holi",
+   "name": "Holi",
+   "words": [
+    "holi",
+    "gulal",
+    "pichkari",
+    "rang barse",
+    "water balloon",
+    "colour play"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "When yellow and blue colour mix in your hands they make green, because mixing colours makes new colours."
+    },
+    {
+     "k": "unit|sci.community.festivals.L3",
+     "why": "At Holi people gather and play with colour, and the festival comes as winter ends and spring begins."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.seasons.L3",
+     "why": "Holi comes when winter is ending, and you can see trees and flowers waking up around us."
+    },
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "The colour dissolves in water and spreads out, and that is why the water in the bucket turns pink."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "After playing we wash the colour off with soap, because clean skin and hair stay healthy."
+    }
+   ]
+  },
+  {
+   "id": "culture-eid",
+   "name": "Eid",
+   "words": [
+    "eid",
+    "eid mubarak",
+    "sewaiyan",
+    "eidi",
+    "namaz",
+    "ramzan",
+    "ramadan"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sky.moon-phases.L3",
+     "why": "Eid starts when the new crescent Moon is seen, and the Moon changes shape a little every night."
+    },
+    {
+     "k": "unit|sci.sky.history-of-astronomy.L3",
+     "why": "Calendars like the Islamic one are made by watching the Moon, and one month is about one full cycle of the Moon."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "At Eid families wear new clothes, eat together and share with others, and each family has its own ways."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "The Islamic calendar follows the Moon, so Eid falls about ten days earlier each year by our usual calendar."
+    },
+    {
+     "k": "math:money",
+     "why": "When you get eidi, you can count the notes and coins and say how much you have in all."
+    }
+   ]
+  },
+  {
+   "id": "culture-christmas",
+   "name": "Christmas",
+   "words": [
+    "christmas",
+    "xmas",
+    "santa",
+    "carol",
+    "christmas tree",
+    "plum cake",
+    "christmas star"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:festivals-culture",
+     "why": "Christmas is a festival with songs, a tree and a cake, and people keep it in different ways in different parts of India."
+    },
+    {
+     "k": "unit|sci.sky.sun-moon-stars.L3",
+     "why": "The star we hang on the tree reminds us of the stars in the night sky, and each real star is a Sun very far away."
+    },
+    {
+     "k": "unit|sci.changes.fire.L3",
+     "why": "Candles burn only while they have a wick and air, and blowing out the flame takes away its heat."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "When we cut the Christmas cake into equal pieces for everyone, each person gets a fraction of the cake."
+    },
+    {
+     "k": "eng:poems-rhymes",
+     "why": "A carol has words that rhyme, and singing it again and again helps you remember it."
+    }
+   ]
+  },
+  {
+   "id": "culture-pongal-sankranti",
+   "name": "Pongal, Sankranti and harvest festivals",
+   "words": [
+    "pongal",
+    "sankranti",
+    "makar sankranti",
+    "lohri",
+    "bihu",
+    "harvest festival",
+    "til gud"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "Pongal is a thank-you for the harvest, and the rice grew from soil, sun and rain."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "The rice in the pongal pot came from a plant in a field, and the milk came from a cow."
+    },
+    {
+     "k": "unit|sci.sky.history-of-astronomy.L3",
+     "why": "People watched the Sun's path in the sky to know when to hold this festival, and that is how calendars began."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "When the milk boils and rises up in the pot, some of it goes into the air as steam."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.seasons.L3",
+     "why": "Harvest festivals come at the end of the growing season, when the crops are ready."
+    }
+   ]
+  },
+  {
+   "id": "culture-onam",
+   "name": "Onam",
+   "words": [
+    "onam",
+    "pookalam",
+    "sadya",
+    "vallam kali",
+    "thiruvonam"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.patterns-symmetry.symmetry-in-nature.L3",
+     "why": "The pookalam of flowers has the same pattern all the way round, and that is symmetry."
+    },
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "The petals in the pookalam are one part of a flower, and the plant also has a stem, leaves and roots."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "Everything on the banana leaf in the sadya came from a plant or an animal, and many of them from farms in Kerala."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Onam is the festival of Kerala, where people speak Malayalam."
+    },
+    {
+     "k": "math:patterns",
+     "why": "In the pookalam the rings of colours repeat in order, and we can say what comes next."
+    }
+   ]
+  },
+  {
+   "id": "culture-navratri-garba",
+   "name": "Navratri, garba and golu",
+   "words": [
+    "navratri",
+    "garba",
+    "dandiya",
+    "nine nights",
+    "golu",
+    "bommai kolu"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:patterns",
+     "why": "In garba the steps repeat in a pattern and everyone claps together on the same count."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "When dancers stand in a circle, each has a partner exactly opposite, and that is symmetry."
+    },
+    {
+     "k": "unit|sci.motion.spinning.L3",
+     "why": "When you spin round in garba, your body keeps turning for a moment even after you stop pushing."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "The dhol and the dandiya sticks both make sound when they hit something or shake."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Navratri lasts nine nights, and in different places people keep it with dance, dolls or worship."
+    }
+   ]
+  },
+  {
+   "id": "culture-durga-puja",
+   "name": "Durga Puja",
+   "words": [
+    "durga puja",
+    "pandal",
+    "dhunuchi",
+    "dhak",
+    "pujo",
+    "pandal hopping"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:festivals-culture",
+     "why": "In Durga Puja people in Bengal build big pandals, and everyone visits to see the idol and eat together."
+    },
+    {
+     "k": "unit|sci.making-things.houses-and-shelter.L3",
+     "why": "A pandal is a big temporary building, and it stands because the poles and ropes hold each other up."
+    },
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "The idol is made of clay from the river bank, and clay is soil."
+    },
+    {
+     "k": "unit|sci.water.water-sources-and-uses.L3",
+     "why": "The idols are put into the river at the end, so we have to think about keeping the river clean."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "In Bengal people speak Bengali, and they say Shubho Bijoya at the end of the festival."
+    }
+   ]
+  },
+  {
+   "id": "culture-ganesh-chaturthi",
+   "name": "Ganesh Chaturthi",
+   "words": [
+    "ganesh",
+    "ganpati",
+    "chaturthi",
+    "modak",
+    "visarjan",
+    "ganesh idol"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "A Ganesh idol made of clay comes from the earth, but a plaster one is made in a factory."
+    },
+    {
+     "k": "unit|sci.environment.pollution.L3",
+     "why": "Some idols are made of materials that do not melt in the water, so they can pollute the pond or sea."
+    },
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "A clay idol slowly softens in water and the clay spreads into the water."
+    },
+    {
+     "k": "unit|sci.food.nutrients.L3",
+     "why": "Modak has rice flour, coconut and jaggery, and each gives your body something different."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "People bring Ganesh home for a few days and then say goodbye, and in Maharashtra whole streets celebrate together."
+    }
+   ]
+  },
+  {
+   "id": "culture-raksha-bandhan",
+   "name": "Raksha Bandhan",
+   "words": [
+    "rakhi",
+    "raksha bandhan",
+    "tie rakhi",
+    "rakhi thread"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.family.family.L3",
+     "why": "A rakhi is a promise between brothers and sisters to look after each other, which is one way a family works."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "The rakhi thread is soft and bends easily, but a steel wire is hard and stiff."
+    },
+    {
+     "k": "math:money",
+     "why": "If we buy three rakhis that cost ten rupees each, we can multiply to find the total."
+    },
+    {
+     "k": "eng:write-story-letter",
+     "why": "You can write a little card to go with the rakhi and say what you like about your brother or sister."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Raksha Bandhan is a festival of love between brothers and sisters."
+    }
+   ]
+  },
+  {
+   "id": "culture-wedding",
+   "name": "Going to a wedding",
+   "words": [
+    "wedding",
+    "shaadi",
+    "baraat",
+    "haldi",
+    "bride",
+    "groom",
+    "sangeet"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.family.family.L3",
+     "why": "A wedding joins two families, and new people become your aunts, uncles and cousins."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Every region and religion has its own wedding customs, and today you saw some of them."
+    },
+    {
+     "k": "math:money",
+     "why": "Weddings need many things to be bought, so we can add up what each costs to see the total."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The designs on the bride's hands repeat the same shapes again and again, and that is a pattern."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Wedding songs, clothes and food change from one region to another."
+    }
+   ]
+  },
+  {
+   "id": "culture-birthday",
+   "name": "Birthday party",
+   "words": [
+    "birthday",
+    "bday",
+    "cake cutting",
+    "candles",
+    "turned seven",
+    "birthday party"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:count-place-value",
+     "why": "You are one year older than last year, so we can count the candles and say how many years you have lived."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "If we cut the cake into eight equal pieces and eat three, five pieces are left."
+    },
+    {
+     "k": "unit|sci.changes.fire.L3",
+     "why": "When you blow out the candle, you take away the heat the flame needs and the fire goes out."
+    },
+    {
+     "k": "unit|sci.body.growing-old.L3",
+     "why": "Each birthday your body has grown a little more, and we can measure how tall you are now."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Your birthday comes on the same date every year, and we can count how many days are left."
+    }
+   ]
+  },
+  {
+   "id": "culture-grandparent-stories",
+   "name": "Stories from grandparents",
+   "words": [
+    "dadi",
+    "nani",
+    "dada",
+    "nana",
+    "ajji",
+    "patti",
+    "story from grandmother",
+    "grandfather told"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "hin:read-stories",
+     "why": "Dadi and nani's kahani are stories that have been told for many years, and each one has something to learn from."
+    },
+    {
+     "k": "social:history-past",
+     "why": "When grandparents tell you about when they were young, you hear how life used to be."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "When you listen to a story and tell it back in your own words, you practise speaking and listening."
+    },
+    {
+     "k": "unit|sci.body.growing-old.L3",
+     "why": "Your grandparents have lived many more years than you, and their bodies have changed as they grew older."
+    },
+    {
+     "k": "unit|sci.family.family.L3",
+     "why": "Grandparents are part of our family, and they know things about our family that no book has."
+    }
+   ]
+  },
+  {
+   "id": "culture-family-tree",
+   "name": "Family tree and relatives",
+   "words": [
+    "family tree",
+    "relatives",
+    "cousin",
+    "uncle",
+    "aunt",
+    "mama",
+    "chacha",
+    "bua"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.family.family.L3",
+     "why": "A family tree shows who is a parent, a child, a brother or a cousin of whom."
+    },
+    {
+     "k": "unit|sci.genetics.dna-and-rna.L3",
+     "why": "You may have your grandmother's nose or your father's smile because tiny instructions in the body pass from parents to children."
+    },
+    {
+     "k": "social:family-community",
+     "why": "In India we have special names like mama, chacha, bua and masi, and each says exactly how a person is related."
+    },
+    {
+     "k": "math:patterns",
+     "why": "A family tree branches out the same way each time, with each parent having children."
+    },
+    {
+     "k": "hin:describing",
+     "why": "We can use Hindi words like dada, dadi, nana and nani to say who is who in the family."
+    }
+   ]
+  },
+  {
+   "id": "culture-puja-at-home",
+   "name": "Puja at home",
+   "words": [
+    "puja",
+    "pooja",
+    "aarti",
+    "agarbatti",
+    "incense",
+    "prasad",
+    "diya lighting"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.changes.fire.L3",
+     "why": "The lamp in the aarti burns because of the wick, the ghee and the air around it."
+    },
+    {
+     "k": "unit|sci.senses.five-senses.L3",
+     "why": "During puja you smell the incense, see the lamp, hear the bell and taste the prasad, so you use four senses at once."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "When you ring the bell it shakes, and the shaking makes the sound."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Families pray in many ways, and learning how others pray helps us understand each other."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Many families do puja at a special time of day or on a special day of the week."
+    }
+   ]
+  },
+  {
+   "id": "culture-place-of-worship",
+   "name": "Visiting a place of worship",
+   "words": [
+    "gurdwara",
+    "church",
+    "mosque",
+    "masjid",
+    "mandir",
+    "temple visit",
+    "langar",
+    "dargah"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:festivals-culture",
+     "why": "People pray in different places like a mandir, mosque, church or gurdwara, and each place has its own customs."
+    },
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "The sound of a bell or the call to prayer travels through the air to your ears."
+    },
+    {
+     "k": "unit|sci.making-things.houses-and-shelter.L3",
+     "why": "Old temples and mosques have domes, arches and thick walls that hold up a heavy roof."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "The langar or prasad food comes from grain, vegetables and milk grown by farmers."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "Look at the front of the building, the left half matches the right half, and that is symmetry."
+    }
+   ]
+  },
+  {
+   "id": "culture-home-language",
+   "name": "Speaking our home language",
+   "words": [
+    "mother tongue",
+    "home language",
+    "speaks tamil",
+    "speaks bengali",
+    "speaks marathi",
+    "speaks telugu",
+    "speaks punjabi",
+    "speaks malayalam"
+   ],
+   "type": "did",
+   "skill": "Home language",
+   "skillcat": "language",
+   "links": [
+    {
+     "k": "social:regions-languages",
+     "why": "India has many languages, and each one belongs to a place and its people."
+    },
+    {
+     "k": "eng:new-words",
+     "why": "Some words in our home language have no single English word, and finding the closest one is a good way to learn new words."
+    },
+    {
+     "k": "hin:new-words",
+     "why": "Hindi and your home language may share words, and spotting the same word in two languages is fun."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Switching between two languages is good practice for listening carefully."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "You can count in your home language too, and the number names are different but the numbers are the same."
+    }
+   ]
+  },
+  {
+   "id": "culture-script-reading",
+   "name": "Learning to read a script",
+   "words": [
+    "devanagari",
+    "hindi reading",
+    "tamil script",
+    "bengali script",
+    "lipi",
+    "varnamala",
+    "learning script"
+   ],
+   "type": "class",
+   "skill": "Reading a script",
+   "skillcat": "language",
+   "links": [
+    {
+     "k": "hin:read-stories",
+     "why": "Reading a Hindi story helps you sound out each letter and then the whole word."
+    },
+    {
+     "k": "hin:writing",
+     "why": "Writing the letters of the varnamala again and again helps your hand remember the shapes."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "India's languages are written in many scripts, like Devanagari, Tamil and Bengali."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "Some letters look the same on the left and right, and the line down the middle is the line of symmetry."
+    },
+    {
+     "k": "eng:new-words",
+     "why": "Learning a second script shows you that the same sound can be written in different ways."
+    }
+   ]
+  },
+  {
+   "id": "culture-visiting-relatives",
+   "name": "Visiting relatives",
+   "words": [
+    "visited relatives",
+    "nani's house",
+    "grandparents house",
+    "village visit",
+    "relatives came",
+    "guests",
+    "summer holidays at village"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.family.family.L3",
+     "why": "Each person in the family has a name like chacha or mausi that tells us how we are related."
+    },
+    {
+     "k": "unit|sci.community.transport-and-communication.L3",
+     "why": "Going to the relatives' home by train, bus or car shows how people move from place to place."
+    },
+    {
+     "k": "unit|sci.planet-earth.maps-and-directions.L3",
+     "why": "You can draw a map of the way from our house to nani's house, with the turns and landmarks."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "If the journey takes five hours and we leave at eight, we can work out when we will reach."
+    },
+    {
+     "k": "social:family-community",
+     "why": "Meeting family and neighbours is how you get to know the people around you."
+    }
+   ]
+  },
+  {
+   "id": "culture-traditional-games",
+   "name": "Traditional games",
+   "words": [
+    "gilli danda",
+    "kancha",
+    "marbles",
+    "pittu",
+    "lagori",
+    "kho kho",
+    "pallanguzhi",
+    "seven stones"
+   ],
+   "type": "did",
+   "skill": "Traditional games",
+   "skillcat": "movement",
+   "links": [
+    {
+     "k": "unit|sci.motion.physics-of-sport.L3",
+     "why": "In gilli danda, when you hit the gilli with the danda it flies away in a curve and then falls down."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Games like marbles are scored by counting how many you win, so we can count and compare."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "A marble rolls far on a smooth floor but stops soon on rough ground, because the ground grips it."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Hopscotch uses boxes drawn on the ground, and we can name the shapes and count the squares."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Your grandparents played these games when they were small, so they have been passed on for a long time."
+    }
+   ]
+  },
+  {
+   "id": "culture-board-games",
+   "name": "Carrom, ludo and board games",
+   "words": [
+    "carrom",
+    "ludo",
+    "snakes and ladders",
+    "board game",
+    "pachisi",
+    "chaupar",
+    "ashta chamma"
+   ],
+   "type": "did",
+   "skill": "Board games",
+   "skillcat": "mind",
+   "links": [
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "On a carrom board the powder helps the coin slide easily, because less friction means the coin slides farther."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "In ludo, when you roll two dice you add the numbers to see how far to move."
+    },
+    {
+     "k": "math:problem-solving",
+     "why": "Deciding which coin to hit first is a plan, and good players think about their next move."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Snakes and ladders and ludo come from very old Indian games, and people have played them for hundreds of years."
+    },
+    {
+     "k": "unit|sci.forces.changing-motion.L3",
+     "why": "When the striker hits a coin, the push makes the coin move, and a harder flick makes it go faster."
+    }
+   ]
+  },
+  {
+   "id": "culture-rangoli-kolam",
+   "name": "Rangoli or kolam",
+   "words": [
+    "rangoli",
+    "kolam",
+    "alpana",
+    "muggu",
+    "floor design",
+    "rice flour design"
+   ],
+   "type": "did",
+   "skill": "Rangoli",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "unit|sci.patterns-symmetry.symmetry-in-nature.L3",
+     "why": "In a kolam the left side matches the right, and the fold line down the middle is the line of symmetry."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "Imagine folding the rangoli in half, and every dot on one side has a matching dot on the other."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The dots and curves in a kolam repeat in a pattern that you can carry on."
+    },
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "Mixing two colours of powder makes a new colour, like red and yellow make orange."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Look for circles, squares, triangles and stars in the design."
+    }
+   ]
+  },
+  {
+   "id": "culture-mehndi-henna",
+   "name": "Putting on mehndi",
+   "words": [
+    "mehndi",
+    "henna",
+    "mehendi",
+    "applying henna"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "Mehndi comes from the leaves of the henna plant, which are ground into a paste."
+    },
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "The paste starts as plant leaves, which shows us that colours can come from plants."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The designs repeat the same shapes in rows, and you can say what comes next."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "As the paste dries, the water in it goes into the air, and the paste cracks and flakes off."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Mehndi is put on hands for weddings, Eid and many other festive days."
+    }
+   ]
+  },
+  {
+   "id": "culture-festival-sweets",
+   "name": "Making festival sweets",
+   "words": [
+    "ladoo",
+    "laddu",
+    "barfi",
+    "gulab jamun",
+    "jalebi",
+    "mithai",
+    "gujiya",
+    "kheer"
+   ],
+   "type": "did",
+   "skill": "Cooking",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "unit|sci.food.nutrients.L3",
+     "why": "Sweets have a lot of sugar and ghee, which give you energy but are best eaten in small amounts."
+    },
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "When we put sugar in hot water it dissolves and seems to vanish, but we can still taste it."
+    },
+    {
+     "k": "math:weight",
+     "why": "The recipe says 250 grams of sugar and 500 grams of flour, and we weigh each on the scale."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "If we share eight ladoos equally among four people, each gets two."
+    },
+    {
+     "k": "unit|sci.changes.fire.L3",
+     "why": "Heating changes sugar, and it goes from white crystals to a sticky syrup that sets as it cools."
+    }
+   ]
+  },
+  {
+   "id": "culture-fasting",
+   "name": "Fasting or vrat",
+   "words": [
+    "fasting",
+    "vrat",
+    "roza",
+    "upvas",
+    "karwa chauth",
+    "ekadashi",
+    "navratri fast"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.food.balanced-diet.L3",
+     "why": "When someone fasts, the body uses up its stored energy, so people eat well before and after."
+    },
+    {
+     "k": "unit|sci.body.keeping-balance.L3",
+     "why": "The body needs water, so people who fast take care to drink enough when they are allowed."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "If you feel tired when you are hungry, it shows your body needs food for energy."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "A fast from sunrise to sunset lasts many hours, and we can count how many."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "People fast for different reasons in different religions, and each one deserves respect."
+    }
+   ]
+  },
+  {
+   "id": "culture-kite-festival",
+   "name": "Kite flying and Uttarayan",
+   "words": [
+    "kite",
+    "patang",
+    "manja",
+    "uttarayan",
+    "flew a kite",
+    "patangbaazi"
+   ],
+   "type": "did",
+   "skill": "Kite flying",
+   "skillcat": "movement",
+   "links": [
+    {
+     "k": "unit|sci.weather.wind-and-air.L3",
+     "why": "A kite goes up only when the wind blows against it, and with no wind it just falls."
+    },
+    {
+     "k": "unit|sci.forces.flight.L3",
+     "why": "The wind pushes against the tilted kite, which makes it rise, like the lift under a bird's wing."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "A kite has two pairs of equal sides, and the two lines across it cross each other."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "How long is the string? We can measure it and compare it with the height of the building."
+    },
+    {
+     "k": "unit|sci.environment.conservation.L3",
+     "why": "Glass-coated manja can hurt birds, so using plain thread helps keep them safe."
+    }
+   ]
+  },
+  {
+   "id": "culture-diya-clay-making",
+   "name": "Making diyas and clay things",
+   "words": [
+    "diya making",
+    "clay diya",
+    "akash kandil",
+    "painting diyas",
+    "clay work"
+   ],
+   "type": "did",
+   "skill": "Clay work",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Wet clay can be shaped, and when it dries in the sun it becomes hard."
+    },
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "Clay is a kind of soil, and it feels sticky because the grains are very fine."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "A clay diya dries in the sun as the water in it goes into the air."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "A diya is round with a hollow in the middle, and a lantern may be a cylinder or a star."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "The flame heats the diya, so we do not touch it until it has cooled."
+    }
+   ]
+  },
+  {
+   "id": "culture-bhajan-kirtan",
+   "name": "Bhajan, kirtan or qawwali",
+   "words": [
+    "bhajan",
+    "kirtan",
+    "qawwali",
+    "shabad",
+    "hymn",
+    "devotional song",
+    "satsang"
+   ],
+   "type": "did",
+   "skill": "Devotional singing",
+   "skillcat": "music",
+   "links": [
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "The harmonium and the dholak make sound because something inside them shakes."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The chorus comes back again and again, and the clapping repeats on the same count."
+    },
+    {
+     "k": "hin:poems-rhymes",
+     "why": "The lines end in words that sound alike, and we can find the rhymes."
+    },
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "Singing a long line needs lots of air, so you take a deep breath first."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "People sing in temples, gurdwaras, churches and mosques, and each has its own songs."
+    }
+   ]
+  },
+  {
+   "id": "culture-mela-fair",
+   "name": "Going to a mela or fair",
+   "words": [
+    "mela",
+    "fair",
+    "jatra",
+    "carnival",
+    "jhoola",
+    "giant wheel",
+    "fairground",
+    "exhibition"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.community.festivals.L3",
+     "why": "A mela is where a whole town meets to celebrate, shop and eat together."
+    },
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "The giant wheel turns around a centre and the swing goes back and forth, and both are machines that move people."
+    },
+    {
+     "k": "math:money",
+     "why": "At the stalls you pay money and get change back, and we can check if the change is right."
+    },
+    {
+     "k": "math:estimation",
+     "why": "Look at the crowd, about how many people do you think are here?"
+    },
+    {
+     "k": "social:money-markets",
+     "why": "Sellers bring their goods to the mela, and buyers and sellers agree on a price."
+    }
+   ]
+  },
+  {
+   "id": "culture-weekly-market",
+   "name": "Weekly market or haat",
+   "words": [
+    "haat",
+    "weekly market",
+    "sabzi mandi",
+    "bazaar",
+    "vegetable market",
+    "bargaining"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:money-markets",
+     "why": "In a market sellers and buyers agree on a price, and sometimes they bargain."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "The vegetables at the market came from farms, and farmers bring them in the morning."
+    },
+    {
+     "k": "math:money",
+     "why": "If a kilo of onions costs forty rupees, then two kilos cost eighty."
+    },
+    {
+     "k": "math:weight",
+     "why": "The seller weighs the vegetables on a scale, and we can see when it balances."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "Look at all the jobs in the market, like seller, porter, farmer and weighing man."
+    }
+   ]
+  },
+  {
+   "id": "culture-epics-folk-tales",
+   "name": "Ramayana, Mahabharata and folk tales",
+   "words": [
+    "ramayana",
+    "mahabharata",
+    "ramleela",
+    "epic",
+    "krishna",
+    "hanuman",
+    "panchatantra",
+    "jataka"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "hin:read-stories",
+     "why": "These stories are very old, and people have told them for thousands of years."
+    },
+    {
+     "k": "eng:read-stories",
+     "why": "Every story has a beginning, a middle and an end, and you can tell which part is which."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Epics are stories from long ago that tell us what people valued, even if we cannot be sure everything in them happened."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Retelling a story in your own words shows you understood it."
+    },
+    {
+     "k": "unit|sci.sky.stargazing.L3",
+     "why": "In many Indian stories stars are linked with sages, like the Saptarishi stars in the sky."
+    }
+   ]
+  },
+  {
+   "id": "culture-dussehra",
+   "name": "Dussehra and Ravan dahan",
+   "words": [
+    "dussehra",
+    "ravan",
+    "ravan dahan",
+    "vijayadashami",
+    "effigy"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.changes.fire.L3",
+     "why": "Burning the effigy shows how fast paper, bamboo and cloth burn once they catch fire."
+    },
+    {
+     "k": "unit|sci.making-things.design-and-build.L3",
+     "why": "The tall Ravan is built from bamboo sticks tied together, and a good frame holds it up."
+    },
+    {
+     "k": "unit|sci.environment.pollution.L3",
+     "why": "Burning big effigies puts smoke into the air, which is why some towns choose to burn less."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Dussehra marks a story of good winning over bad, told in different ways across India."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "The Ravan is very tall, so we can guess how many of you would have to stand on each other to reach the top."
+    }
+   ]
+  },
+  {
+   "id": "culture-family-ceremony",
+   "name": "Naming, thread or other family ceremony",
+   "words": [
+    "naming ceremony",
+    "annaprashan",
+    "mundan",
+    "upanayana",
+    "aqiqah",
+    "baptism",
+    "namkaran",
+    "first rice"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.family.family.L3",
+     "why": "Families keep ceremonies to mark big steps in a person's life."
+    },
+    {
+     "k": "unit|sci.body.how-babies-grow.L3",
+     "why": "A baby grows from tiny and drinks milk, then starts eating soft food, which is what annaprashan marks."
+    },
+    {
+     "k": "unit|sci.body.growing-old.L3",
+     "why": "From baby to child to adult to elder, a body changes through life."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Different communities keep different ceremonies, and each has its reasons."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Many ceremonies are held on a certain day, like the sixth month or the first birthday."
+    }
+   ]
+  },
+  {
+   "id": "culture-new-year",
+   "name": "New Year celebrations",
+   "words": [
+    "new year",
+    "ugadi",
+    "gudi padwa",
+    "vishu",
+    "baisakhi",
+    "vaisakhi",
+    "puthandu",
+    "navroz"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:time-calendar",
+     "why": "India has many calendars, so the new year starts on different days in different places."
+    },
+    {
+     "k": "unit|sci.sky.history-of-astronomy.L3",
+     "why": "People made calendars by watching the Sun and Moon move through the sky."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.seasons.L3",
+     "why": "Many Indian new years fall in spring, as the weather changes and the crops get ready."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Ugadi, Vishu, Baisakhi and Puthandu are all new years in different languages."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Each new year has its own food, and people greet each other in their own way."
+    }
+   ]
+  },
+  {
+   "id": "culture-traditional-clothes",
+   "name": "Wearing traditional clothes",
+   "words": [
+    "saree",
+    "sari",
+    "kurta",
+    "dhoti",
+    "lehenga",
+    "sherwani",
+    "pagdi",
+    "turban"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "Cotton, silk and wool feel different and suit different weather."
+    },
+    {
+     "k": "unit|sci.chemistry.polymers.L3",
+     "why": "Silk and wool are made of very long molecules that come from a silkworm and a sheep."
+    },
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "The cotton in a kurta came from a plant, and silk came from a silkworm."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The border of a saree has the same shapes again and again."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Clothes differ from state to state, like a mundu in Kerala and a pagdi in Rajasthan."
+    }
+   ]
+  },
+  {
+   "id": "culture-cooking-with-family",
+   "name": "Cooking festival food with family",
+   "words": [
+    "made rotis",
+    "roti",
+    "chapati",
+    "paratha",
+    "puran poli",
+    "puri",
+    "idli",
+    "dosa"
+   ],
+   "type": "did",
+   "skill": "Cooking",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "math:capacity",
+     "why": "The recipe says two cups of flour and one cup of water, and we measure each with the same cup."
+    },
+    {
+     "k": "unit|sci.changes.fire.L3",
+     "why": "Heat changes the dough, and a raw roti is soft and sticky, while a cooked roti puffs up and turns brown."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "Wheat grows in a field, is ground at a mill into atta, and then made into roti."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "If we fold the roti in half and again in half, we get four equal parts."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "The steam coming from the hot pot is water that has turned into a gas."
+    }
+   ]
+  },
+  {
+   "id": "culture-gifts",
+   "name": "Giving and getting gifts",
+   "words": [
+    "gift",
+    "eidi",
+    "festival gift",
+    "diwali gift",
+    "return gift",
+    "shagun",
+    "gift wrapping"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:money",
+     "why": "If a gift costs two hundred rupees and you have five hundred, you can work out how much is left."
+    },
+    {
+     "k": "eng:write-story-letter",
+     "why": "Writing a card with a few kind lines makes a gift special."
+    },
+    {
+     "k": "unit|sci.environment.caring.L3",
+     "why": "We can wrap gifts in cloth or newspaper so there is less waste."
+    },
+    {
+     "k": "social:family-community",
+     "why": "Giving gifts and sweets to neighbours is a way to show we care about each other."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Wrapping a box needs paper cut to fit its faces, and we can count the faces."
+    }
+   ]
+  },
+  {
+   "id": "culture-pilgrimage-yatra",
+   "name": "Pilgrimage or festival trip",
+   "words": [
+    "pilgrimage",
+    "yatra",
+    "kumbh",
+    "tirupati",
+    "vaishno devi",
+    "ajmer",
+    "golden temple",
+    "char dham"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:maps-places",
+     "why": "Look at the map to see where the yatra goes, and which rivers, hills and cities are on the way."
+    },
+    {
+     "k": "unit|sci.planet-earth.maps-and-directions.L3",
+     "why": "Using a compass we can say whether we are going north, south, east or west."
+    },
+    {
+     "k": "social:transport",
+     "why": "People go by train, bus, flight or on foot, and each way takes a different time."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "On a long trip we meet people who speak other languages, and we can learn a few of their words."
+    },
+    {
+     "k": "unit|sci.habitats.habitats.L3",
+     "why": "On a yatra you may see mountains, rivers or forests, and each is a home for different living things."
+    }
+   ]
+  },
+  {
+   "id": "culture-river-festival",
+   "name": "Bathing in a river or river festival",
+   "words": [
+    "ganga",
+    "river bath",
+    "holy dip",
+    "chhath",
+    "chhath puja",
+    "river ghat",
+    "yamuna",
+    "kaveri"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.water.water-sources-and-uses.L3",
+     "why": "Rivers give us water to drink, wash, grow food and pray beside."
+    },
+    {
+     "k": "unit|sci.water.water-cycle.L3",
+     "why": "River water comes from rain and melting snow in the mountains, and flows to the sea, where it can rise again and fall as rain."
+    },
+    {
+     "k": "unit|sci.environment.pollution.L3",
+     "why": "When rubbish, flowers and soap go into the river, the water becomes dirty."
+    },
+    {
+     "k": "unit|sci.sky.the-sun.L3",
+     "why": "At Chhath people stand in the water and pray to the Sun, which gives us light and warmth."
+    },
+    {
+     "k": "unit|sci.water.saving-water.L3",
+     "why": "Taking only the water we need helps keep our rivers healthier."
+    }
+   ]
+  },
+  {
+   "id": "culture-puja-flowers-leaves",
+   "name": "Flowers and leaves for puja",
+   "words": [
+    "tulsi",
+    "marigold",
+    "banana leaf",
+    "mango leaves",
+    "flowers for puja",
+    "bel patra",
+    "toran",
+    "garland"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "The tulsi leaf, the marigold flower and the mango leaf are all plant parts, and each has its own job."
+    },
+    {
+     "k": "unit|sci.plants.what-plants-need.L3",
+     "why": "Tulsi in the courtyard needs sunlight and water every day to stay green."
+    },
+    {
+     "k": "unit|sci.plants.photosynthesis.L3",
+     "why": "A leaf uses sunlight to make food for the plant, and this is why leaves are flat and green."
+    },
+    {
+     "k": "math:patterns",
+     "why": "A garland repeats flowers in a pattern, like red, yellow, red, yellow."
+    },
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "The thread, flowers and leaves in a toran all come from plants."
+    }
+   ]
+  },
+  {
+   "id": "culture-community-meal",
+   "name": "Iftar, langar or community meal",
+   "words": [
+    "iftar",
+    "langar",
+    "community meal",
+    "bhandara",
+    "feast",
+    "potluck",
+    "shared meal"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.food.balanced-diet.L3",
+     "why": "A good meal has grains, pulses, vegetables and something sweet, and this gives the body what it needs."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "When many people eat together the food is shared out equally so everyone gets the same."
+    },
+    {
+     "k": "social:family-community",
+     "why": "Eating together makes a group feel like one family."
+    },
+    {
+     "k": "unit|sci.food.food-safety.L3",
+     "why": "Food cooked in large quantity must be kept covered and eaten soon so it does not go bad."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "If 120 people sit in rows of 10, there are 12 rows."
+    }
+   ]
+  },
+  {
+   "id": "culture-why-festival-question",
+   "name": "Why do we celebrate this?",
+   "words": [
+    "why do we celebrate",
+    "why festival",
+    "why do we do puja",
+    "why do we fast",
+    "why diwali",
+    "why holi"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.community.festivals.L3",
+     "why": "Many festivals began for a good reason, such as harvest, season change or an old story."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Different families celebrate in different ways, and asking why helps us understand each other."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Festivals have been kept for hundreds of years, so asking elders tells us how they used to be."
+    },
+    {
+     "k": "unit|sci.how-we-know.asking-questions.L3",
+     "why": "When we ask a question and find the answer from more than one person, we learn more."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Asking a good question and listening to the answer is a way of learning."
+    }
+   ]
+  },
+  {
+   "id": "culture-moon-night-festival",
+   "name": "Looking for the moon on a festival night",
+   "words": [
+    "moon sighting",
+    "chand raat",
+    "poornima",
+    "full moon",
+    "amavasya",
+    "new moon",
+    "sankashti",
+    "chaand"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sky.moon-phases.L3",
+     "why": "The Moon looks different on different nights because we see more or less of its lit side."
+    },
+    {
+     "k": "unit|sci.sky.history-of-astronomy.L3",
+     "why": "Many festivals are fixed by the Moon, so people watched it carefully to know the date."
+    },
+    {
+     "k": "unit|sci.sky.sun-moon-stars.L3",
+     "why": "The Moon does not make its own light, it shines because the Sun lights it up."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "About thirty days pass between one full moon and the next."
+    },
+    {
+     "k": "unit|sci.sky.stargazing.L3",
+     "why": "On a clear night look for stars near the Moon and see which pattern you can find."
+    }
+   ]
+  },
+  {
+   "id": "culture-heritage-visit",
+   "name": "Temple, fort or monument visit",
+   "words": [
+    "temple",
+    "gopuram",
+    "carvings",
+    "sculpture",
+    "fort",
+    "palace",
+    "monument",
+    "qila"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:history-past",
+     "why": "Old temples, forts and palaces show how people lived many years ago."
+    },
+    {
+     "k": "unit|sci.making-things.houses-and-shelter.L3",
+     "why": "Thick walls, arches and domes help old buildings stand for hundreds of years."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "The front of the temple is the same on both sides, which is symmetry."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Stone is hard and heavy, so it lasts a long time, while wood can rot."
+    },
+    {
+     "k": "social:maps-places",
+     "why": "We can find on a map which city or state the monument is in."
+    }
+   ]
+  },
+  {
+   "id": "culture-folk-dance",
+   "name": "Folk and classical dance",
+   "words": [
+    "folk dance",
+    "bhangra",
+    "giddha",
+    "lavani",
+    "kathak",
+    "bharatanatyam",
+    "dollu kunitha",
+    "ghoomar"
+   ],
+   "type": "class",
+   "skill": "Dance",
+   "skillcat": "movement",
+   "links": [
+    {
+     "k": "math:patterns",
+     "why": "Dance steps repeat in a pattern, and you count the beats to keep in time."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "The dhol and the ghungroo make sound when they are beaten or shaken."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Dancing makes your heart beat faster and your muscles work, so it is good exercise."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Each state has its own dance, like bhangra in Punjab and bihu in Assam."
+    },
+    {
+     "k": "unit|sci.motion.spinning.L3",
+     "why": "When a dancer spins with arms held in she turns faster than with arms held out."
+    }
+   ]
+  },
+  {
+   "id": "culture-annual-day",
+   "name": "Annual day or school programme",
+   "words": [
+    "annual day",
+    "school function",
+    "fancy dress",
+    "skit",
+    "school play",
+    "stage",
+    "cultural programme",
+    "recitation"
+   ],
+   "type": "did",
+   "skill": "Stage performing",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "eng:speak-listen",
+     "why": "Speaking in front of people takes practice, so we speak slowly and loudly."
+    },
+    {
+     "k": "unit|sci.mind.thinking-and-memory.L3",
+     "why": "Learning lines by saying them again and again helps your brain remember."
+    },
+    {
+     "k": "unit|sci.health.feelings-and-wellbeing.L3",
+     "why": "Feeling nervous before going on stage is normal, and the feeling usually fades once you start."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "Your voice travels through the air to the people at the back, so you speak clearly."
+    },
+    {
+     "k": "hin:speak-listen",
+     "why": "You can say a poem or play in Hindi and practise saying each word clearly."
+    }
+   ]
+  },
+  {
+   "id": "culture-seva-daan",
+   "name": "Seva, daan or helping others",
+   "words": [
+    "seva",
+    "daan",
+    "charity",
+    "donate",
+    "donated",
+    "zakat",
+    "food donation",
+    "clothes donation"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.community.community-and-helpers.L3",
+     "why": "People help each other in many ways, and a neighbourhood is stronger when they do."
+    },
+    {
+     "k": "unit|sci.me-and-others.me-and-others.L3",
+     "why": "When we think about what someone else needs, we can choose a gift that really helps."
+    },
+    {
+     "k": "math:money",
+     "why": "If we collect ten rupees from each of twenty children, we can work out the total."
+    },
+    {
+     "k": "unit|sci.waste.reduce-reuse-recycle.L3",
+     "why": "Clothes and toys you have outgrown can be used by someone else instead of being thrown away."
+    },
+    {
+     "k": "social:family-community",
+     "why": "Sharing with people who have less is something most religions teach."
+    }
+   ]
+  },
+  {
+   "id": "culture-national-days",
+   "name": "Independence Day or Republic Day",
+   "words": [
+    "independence day",
+    "republic day",
+    "tiranga",
+    "flag hoisting",
+    "15 august",
+    "26 january",
+    "parade",
+    "gandhi jayanti"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.india.national-identity.L3",
+     "why": "Our flag has three colours and the Ashoka Chakra, and each part means something."
+    },
+    {
+     "k": "unit|sci.india.government-and-rights.L3",
+     "why": "The Constitution promises every person in India their rights, and Republic Day marks the day it began."
+    },
+    {
+     "k": "social:history-past",
+     "why": "On Independence Day we remember the long fight for freedom and the people who took part."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "India became free in 1947, so we can subtract to find how many years ago that was."
+    },
+    {
+     "k": "hin:poems-rhymes",
+     "why": "Songs like Jana Gana Mana and poems about the nation are part of this day."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1907 @@
+{
+ "cat": "nature",
+ "acts": [
+  {
+   "id": "nature-planting-seeds",
+   "name": "Planting seeds",
+   "words": [
+    "planted seeds",
+    "sowed seeds",
+    "seeds",
+    "beej",
+    "sapling"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.seeds-and-life-cycles.seeds-and-germination.L3",
+     "why": "Our seeds are in damp soil, and with water and warmth they will sprout."
+    },
+    {
+     "k": "unit|sci.seeds-and-life-cycles.plant-life-cycle.L3",
+     "why": "This seed will grow into a plant that makes new seeds of its own."
+    },
+    {
+     "k": "unit|sci.plants.what-plants-need.L3",
+     "why": "We can give one pot less light and see if it grows differently from the others."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Measure the little shoot every day and write the number down."
+    },
+    {
+     "k": "eng:write-sentences",
+     "why": "Write one sentence each day about what your seed looks like today."
+    }
+   ]
+  },
+  {
+   "id": "nature-watering-plants",
+   "name": "Watering plants",
+   "words": [
+    "watered plants",
+    "watering the plants",
+    "pouring water on plants",
+    "paudhe"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.plants.water-transport.L3",
+     "why": "The water we pour goes into the roots and climbs up the stem to the leaves."
+    },
+    {
+     "k": "unit|sci.plants.what-plants-need.L3",
+     "why": "Plants need water, and too much or too little both make them unhappy."
+    },
+    {
+     "k": "math:capacity",
+     "why": "Count how many mugs of water it takes to fill the can."
+    },
+    {
+     "k": "unit|sci.water.saving-water.L3",
+     "why": "Using leftover rinse water for plants means we waste less water."
+    }
+   ]
+  },
+  {
+   "id": "nature-composting",
+   "name": "Composting",
+   "words": [
+    "compost",
+    "composting",
+    "kitchen waste",
+    "khad"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.waste.compost-and-disposal.L3",
+     "why": "Peels and leaves in the pot slowly turn into soil that helps plants grow."
+    },
+    {
+     "k": "unit|sci.ecology.cycles-and-decomposers.L3",
+     "why": "Tiny worms and moulds eat the old peels and turn them into soil."
+    },
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "Compost makes soil dark and rich, so plants find food in it."
+    },
+    {
+     "k": "unit|sci.environment.conservation.L3",
+     "why": "Making compost means less rubbish goes to the dump."
+    }
+   ]
+  },
+  {
+   "id": "nature-gardening",
+   "name": "Gardening",
+   "words": [
+    "gardening",
+    "garden",
+    "kitchen garden",
+    "weeding",
+    "digging soil"
+   ],
+   "type": "did",
+   "skill": "Gardening",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "Look at the root, stem, leaf and flower, and think about what job each one does."
+    },
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "The soil we dig is made of broken rock and old plants, with worms mixing it."
+    },
+    {
+     "k": "unit|sci.ecology.interdependence.L3",
+     "why": "Bees visit the flowers, and the flowers need the bees to make fruit."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Plan the bed as a rectangle and count how many plants fit in each row."
+    }
+   ]
+  },
+  {
+   "id": "nature-growing-vegetables",
+   "name": "Growing vegetables",
+   "words": [
+    "grew tomatoes",
+    "growing vegetables",
+    "grew chillies",
+    "tulsi",
+    "palak",
+    "methi"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "The vegetable on our plate started as a seed in soil, just like this one."
+    },
+    {
+     "k": "unit|sci.plants.photosynthesis.L3",
+     "why": "The green leaves use sunlight, air and water to make food for the plant."
+    },
+    {
+     "k": "unit|sci.seeds-and-life-cycles.plant-life-cycle.L3",
+     "why": "We can watch the plant go from seed to flower to vegetable."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Mark on the calendar how many days it took from seed to first leaf."
+    }
+   ]
+  },
+  {
+   "id": "nature-sprouting-beans",
+   "name": "Sprouting moong or chana",
+   "words": [
+    "sprouts",
+    "moong sprouts",
+    "sprouted chana",
+    "beans in cotton",
+    "sprouting"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.seeds-and-life-cycles.seeds-and-germination.L3",
+     "why": "The seed swelled with water and a tiny root pushed out of it."
+    },
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "Look for the first root going down and the shoot going up."
+    },
+    {
+     "k": "unit|sci.food.nutrients.L3",
+     "why": "Sprouts give our body nutrients when we eat them."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "Draw a bar for how tall each sprout is on each day."
+    }
+   ]
+  },
+  {
+   "id": "nature-watching-birds",
+   "name": "Watching birds",
+   "words": [
+    "birds",
+    "bird watching",
+    "watched birds",
+    "sparrow",
+    "crow",
+    "pigeon",
+    "chidiya",
+    "kauwa"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.animals.animals-around-us.L3",
+     "why": "Watch where the bird sits, what it eats and where it goes at night."
+    },
+    {
+     "k": "unit|sci.animals.vertebrate-groups.L3",
+     "why": "A bird has a backbone and feathers, and it keeps itself warm."
+    },
+    {
+     "k": "unit|sci.forces.flight.L3",
+     "why": "The bird pushes air down with its wings, and the air pushes the bird up."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "Tally how many birds of each kind you saw and make a chart."
+    },
+    {
+     "k": "eng:describing",
+     "why": "Say what colour its feathers, beak and tail were."
+    }
+   ]
+  },
+  {
+   "id": "nature-feeding-birds",
+   "name": "Feeding birds and filling a water bowl",
+   "words": [
+    "feeding birds",
+    "bird feeder",
+    "dana",
+    "water for birds",
+    "bird bath",
+    "put out water for birds"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.basic-needs.basic-needs.L3",
+     "why": "Birds need food and water every day, just as we do."
+    },
+    {
+     "k": "unit|sci.habitats.habitats.L3",
+     "why": "A place with food, water and shelter is a good home for birds."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "The water in the bowl gets less on a hot day because it dries into the air."
+    },
+    {
+     "k": "unit|sci.environment.conservation.L3",
+     "why": "Looking after birds in summer is one way of caring for living things."
+    }
+   ]
+  },
+  {
+   "id": "nature-bird-nest",
+   "name": "Finding a nest",
+   "words": [
+    "nest",
+    "bird nest",
+    "eggs in nest",
+    "baby birds"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.animals.animal-life-cycles.L3",
+     "why": "A bird starts as an egg, hatches, and the young grow into adults."
+    },
+    {
+     "k": "unit|sci.habitats.habitats.L3",
+     "why": "The nest is the bird's home where the eggs stay safe and warm."
+    },
+    {
+     "k": "unit|sci.animals.animals-around-us.L3",
+     "why": "Watch how the parents bring food and keep going back to the nest."
+    },
+    {
+     "k": "eng:describing",
+     "why": "Describe what the nest is made of and where it is."
+    }
+   ]
+  },
+  {
+   "id": "nature-watching-ants",
+   "name": "Watching ants",
+   "words": [
+    "ants",
+    "ant",
+    "anthill",
+    "cheenti",
+    "cheeti",
+    "line of ants"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.animals.invertebrates.L3",
+     "why": "An ant has no backbone, and its body is held in a hard outer case."
+    },
+    {
+     "k": "unit|sci.animal-behaviour.animal-learning.L3",
+     "why": "Ants follow the path other ants have walked, and they find food that way."
+    },
+    {
+     "k": "unit|sci.ecology.interdependence.L3",
+     "why": "Ants carry food back to many others in the nest, so they share the work."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Count the ants in the line, in tens if there are many."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "Time how long one ant takes to cross a tile."
+    }
+   ]
+  },
+  {
+   "id": "nature-butterflies",
+   "name": "Watching butterflies",
+   "words": [
+    "butterfly",
+    "butterflies",
+    "titli",
+    "caterpillar",
+    "cocoon"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.animals.animal-life-cycles.L3",
+     "why": "A butterfly was once an egg, then a caterpillar, then a pupa."
+    },
+    {
+     "k": "unit|sci.ecology.interdependence.L3",
+     "why": "The butterfly drinks nectar from the flower and carries pollen to the next flower."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "Both wings look the same, so you can fold the butterfly in half."
+    },
+    {
+     "k": "eng:describing",
+     "why": "Say what colours and patterns are on its wings."
+    },
+    {
+     "k": "unit|sci.animals.invertebrates.L3",
+     "why": "A butterfly has six legs and no backbone."
+    }
+   ]
+  },
+  {
+   "id": "nature-insects-bugs",
+   "name": "Looking at insects and bugs",
+   "words": [
+    "insects",
+    "bugs",
+    "beetle",
+    "grasshopper",
+    "ladybird",
+    "magnifying glass",
+    "keede"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.animals.invertebrates.L3",
+     "why": "Count its legs and body parts, and notice it has no backbone."
+    },
+    {
+     "k": "unit|sci.light.how-we-see.L3",
+     "why": "A magnifying glass bends light so small things look bigger."
+    },
+    {
+     "k": "unit|sci.habitats.habitats.L3",
+     "why": "Look under which stone or leaf you found it, and ask why it likes that place."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Count the legs on every creature you find and compare them."
+    }
+   ]
+  },
+  {
+   "id": "nature-earthworms",
+   "name": "Finding earthworms",
+   "words": [
+    "earthworm",
+    "earthworms",
+    "worms in soil",
+    "kenchua",
+    "kechua"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "Worms mix the soil as they move through it."
+    },
+    {
+     "k": "unit|sci.ecology.cycles-and-decomposers.L3",
+     "why": "Worms eat dead leaves and make them into soil."
+    },
+    {
+     "k": "unit|sci.animals.invertebrates.L3",
+     "why": "A worm has a soft body and no bones."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Measure how long the worm is when it is stretched and when it is squeezed."
+    }
+   ]
+  },
+  {
+   "id": "nature-snails",
+   "name": "Snails and slugs after rain",
+   "words": [
+    "snail",
+    "snails",
+    "slug",
+    "ghonga"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.animals.invertebrates.L3",
+     "why": "A snail has a soft body, and its shell keeps it safe."
+    },
+    {
+     "k": "unit|sci.water.water-cycle.L3",
+     "why": "Snails come out when it has rained, because they need wet places."
+    },
+    {
+     "k": "unit|sci.animals.animal-bodies.L3",
+     "why": "Look at how the snail moves and how it finds its food."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Look at the shell and follow the spiral round and round."
+    }
+   ]
+  },
+  {
+   "id": "nature-spiders-webs",
+   "name": "Spider webs",
+   "words": [
+    "spider",
+    "spiders",
+    "spider web",
+    "cobweb",
+    "makdi",
+    "jala"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.animals.invertebrates.L3",
+     "why": "A spider has eight legs and no backbone."
+    },
+    {
+     "k": "unit|sci.animals.animal-bodies.L3",
+     "why": "A spider spins thread from its own body and uses the web to catch insects."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Look at the web and find the lines and the circles going round."
+    },
+    {
+     "k": "unit|sci.states.liquids-up-close.L3",
+     "why": "Dew drops on a web stay round because water has a thin skin on top."
+    }
+   ]
+  },
+  {
+   "id": "nature-feeding-street-dogs",
+   "name": "Feeding street dogs",
+   "words": [
+    "street dog",
+    "street dogs",
+    "feeding dogs",
+    "feed the dog",
+    "kutta",
+    "stray dog",
+    "biscuits for dogs"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.animals.vertebrate-groups.L3",
+     "why": "A dog has a backbone, fur, and feeds milk to its puppies, so it is a mammal."
+    },
+    {
+     "k": "unit|sci.basic-needs.basic-needs.L3",
+     "why": "Dogs need food, water and a safe place, just as we do."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Do not touch an animal you do not know, and let a grown-up feed it with you."
+    },
+    {
+     "k": "unit|sci.animals.animal-minds.L3",
+     "why": "A dog remembers who feeds it and shows that it is glad."
+    },
+    {
+     "k": "social:family-community",
+     "why": "A street is shared by everyone who lives on it, and that includes animals."
+    }
+   ]
+  },
+  {
+   "id": "nature-feeding-street-cats",
+   "name": "Feeding cats",
+   "words": [
+    "street cat",
+    "feeding cats",
+    "billi",
+    "cat",
+    "milk for cat",
+    "kitten"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.animals.vertebrate-groups.L3",
+     "why": "A cat is a mammal, with a backbone, fur and milk for its kittens."
+    },
+    {
+     "k": "unit|sci.animals.animal-bodies.L3",
+     "why": "Look at how the cat's eyes, whiskers and paws help it find its way and catch food."
+    },
+    {
+     "k": "unit|sci.light.how-we-see.L3",
+     "why": "A cat's eye opens wide in the dark to let in more light."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Wash your hands after touching an animal."
+    }
+   ]
+  },
+  {
+   "id": "nature-pet-care",
+   "name": "Looking after a pet",
+   "words": [
+    "pet",
+    "my pet",
+    "dog at home",
+    "pet dog",
+    "pet cat",
+    "tortoise",
+    "hamster",
+    "rabbit",
+    "parrot"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.basic-needs.basic-needs.L3",
+     "why": "A pet depends on us for its food, water and home."
+    },
+    {
+     "k": "unit|sci.animals.animal-minds.L3",
+     "why": "A pet learns our voice and shows how it feels."
+    },
+    {
+     "k": "unit|sci.food.balanced-diet.L3",
+     "why": "Each kind of animal needs its own right food."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Make a chart of the pet's feeding and walking times."
+    }
+   ]
+  },
+  {
+   "id": "nature-fish-aquarium",
+   "name": "Fish and aquarium",
+   "words": [
+    "fish",
+    "aquarium",
+    "goldfish",
+    "fish tank",
+    "machli"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.habitats.water-habitats.L3",
+     "why": "Fish take in air that is mixed into the water, through their gills."
+    },
+    {
+     "k": "unit|sci.animals.vertebrate-groups.L3",
+     "why": "A fish has a backbone, fins and gills."
+    },
+    {
+     "k": "unit|sci.light.refraction.L3",
+     "why": "The fish looks nearer or bigger through the glass because light bends in water."
+    },
+    {
+     "k": "math:capacity",
+     "why": "Find how many jugs of water the tank holds."
+    }
+   ]
+  },
+  {
+   "id": "nature-pond-visit",
+   "name": "Visiting a pond",
+   "words": [
+    "pond",
+    "talab",
+    "frogs",
+    "tadpoles",
+    "duck",
+    "pond visit",
+    "lake"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.habitats.water-habitats.L3",
+     "why": "A pond is home to fish, frogs, insects and plants that live in or near water."
+    },
+    {
+     "k": "unit|sci.animals.animal-life-cycles.L3",
+     "why": "Tadpoles slowly grow legs and become frogs."
+    },
+    {
+     "k": "unit|sci.ecology.food-chains.L3",
+     "why": "The insects eat the plants, and the fish and frogs eat the insects."
+    },
+    {
+     "k": "social:water-resources",
+     "why": "A pond is a place where a village stores water."
+    },
+    {
+     "k": "unit|sci.light.reflection.L3",
+     "why": "Look at the pond, and you will see the sky and trees in the water."
+    }
+   ]
+  },
+  {
+   "id": "nature-zoo-visit",
+   "name": "Zoo visit",
+   "words": [
+    "zoo",
+    "visited the zoo",
+    "animals at zoo",
+    "safari",
+    "tiger",
+    "elephant",
+    "lion"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.animals.vertebrate-groups.L3",
+     "why": "Sort the animals you see into mammals, birds, reptiles, amphibians and fish."
+    },
+    {
+     "k": "unit|sci.habitats.adaptations.L3",
+     "why": "A camel's feet and a polar bear's fur suit the places they live in."
+    },
+    {
+     "k": "unit|sci.animals.animals-around-us.L3",
+     "why": "See what each animal eats and how it spends the day."
+    },
+    {
+     "k": "social:maps-places",
+     "why": "Use the zoo map to find your way from one cage to another."
+    },
+    {
+     "k": "math:money",
+     "why": "Work out the ticket cost for the whole family."
+    }
+   ]
+  },
+  {
+   "id": "nature-farm-visit",
+   "name": "Farm or village visit",
+   "words": [
+    "farm",
+    "khet",
+    "village",
+    "gaon",
+    "cow",
+    "buffalo",
+    "hens",
+    "goat",
+    "visit to farm"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "Trace the milk, rice or vegetables from the farm to our plate."
+    },
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "See what kind of soil the crops grow in."
+    },
+    {
+     "k": "unit|sci.animals.animals-around-us.L3",
+     "why": "Notice how the farmer looks after the cow, goat or hens."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "A farmer's work goes on all through the year."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.seasons.L3",
+     "why": "Ask the farmer which crop grows in which season."
+    }
+   ]
+  },
+  {
+   "id": "nature-park-walk",
+   "name": "Nature walk or park visit",
+   "words": [
+    "nature walk",
+    "walk in the park",
+    "park",
+    "garden visit",
+    "morning walk",
+    "bagh"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.habitats.habitats.L3",
+     "why": "Look at how many different creatures live in one small park."
+    },
+    {
+     "k": "unit|sci.plants.plant-variety.L3",
+     "why": "Compare a tree, a bush and a grass and see how they differ."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "Stand still and listen, and your ears will pick up many different sounds."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "Make a tally of how many trees, birds and flowers you saw."
+    },
+    {
+     "k": "eng:describing",
+     "why": "Describe one thing you saw using three words."
+    }
+   ]
+  },
+  {
+   "id": "nature-trekking-hill",
+   "name": "Hill trek or forest visit",
+   "words": [
+    "trek",
+    "trekking",
+    "hill",
+    "forest",
+    "jungle",
+    "mountain",
+    "pahad",
+    "sanctuary"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.habitats.adaptations.L3",
+     "why": "Plants and animals on a hill are suited to the cold and the slope."
+    },
+    {
+     "k": "unit|sci.ecology.food-chains.L3",
+     "why": "In a forest, plants make food and animals depend on them."
+    },
+    {
+     "k": "unit|sci.planet-earth.maps-and-directions.L3",
+     "why": "Use a map and a compass to find which direction the path goes."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Hills in different parts of India have different people and different plants."
+    },
+    {
+     "k": "math:estimation",
+     "why": "Guess how many steps it is to the next turn."
+    }
+   ]
+  },
+  {
+   "id": "nature-beach-sea",
+   "name": "Beach or sea visit",
+   "words": [
+    "beach",
+    "samundar",
+    "waves",
+    "shells",
+    "sand castle",
+    "seashore"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "The wave moves along, but the water mostly goes up and down in place."
+    },
+    {
+     "k": "unit|sci.habitats.water-habitats.L3",
+     "why": "Sea creatures live in salty water."
+    },
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "Sea water tastes salty because salt is dissolved in it."
+    },
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "Sand is tiny pieces of broken rock."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Sort shells by their shape and count the spirals."
+    }
+   ]
+  },
+  {
+   "id": "nature-river-visit",
+   "name": "River or ghat visit",
+   "words": [
+    "river",
+    "nadi",
+    "ghat",
+    "ganga",
+    "kaveri",
+    "bridge over river",
+    "boat ride"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.water.water-sources-and-uses.L3",
+     "why": "A river carries water that people drink, farm with and wash with."
+    },
+    {
+     "k": "unit|sci.environment.pollution.L3",
+     "why": "What we throw into a river makes the water dirty for everyone."
+    },
+    {
+     "k": "social:water-resources",
+     "why": "Many cities and villages in India were built along rivers."
+    },
+    {
+     "k": "unit|sci.states.liquids-up-close.L3",
+     "why": "See why a leaf floats down the river but a stone sinks."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Many festivals in India are celebrated by the river."
+    }
+   ]
+  },
+  {
+   "id": "nature-rain-watching",
+   "name": "Watching the rain",
+   "words": [
+    "rain",
+    "raining",
+    "baarish",
+    "barish",
+    "monsoon",
+    "rain watching",
+    "thunder"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.water.water-cycle.L3",
+     "why": "Water went up from the sea as vapour, made clouds, and came down as rain."
+    },
+    {
+     "k": "unit|sci.weather.weather.L3",
+     "why": "A rain gauge shows how much rain fell."
+    },
+    {
+     "k": "unit|sci.electricity.static-and-charge.L3",
+     "why": "Lightning is a huge spark of static electricity in the clouds."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "Record each day in the monsoon as sunny, cloudy or rainy, and make a chart."
+    },
+    {
+     "k": "social:water-resources",
+     "why": "The monsoon rain fills our rivers, ponds and wells."
+    }
+   ]
+  },
+  {
+   "id": "nature-puddles",
+   "name": "Jumping in puddles",
+   "words": [
+    "puddle",
+    "puddles",
+    "splashing",
+    "jumping in puddles",
+    "kichad"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "The puddle shrinks in the sun as the water dries into the air."
+    },
+    {
+     "k": "unit|sci.light.reflection.L3",
+     "why": "The still puddle shows the sky and trees like a mirror."
+    },
+    {
+     "k": "unit|sci.water.saving-water.L3",
+     "why": "Muddy water gets clear when the mud settles to the bottom."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Measure the puddle across in the morning and again in the evening."
+    }
+   ]
+  },
+  {
+   "id": "nature-rainbow",
+   "name": "Seeing a rainbow",
+   "words": [
+    "rainbow",
+    "indradhanush",
+    "rainbow after rain"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "Sunlight is made of many colours, and drops of water split them apart."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The colours always come in the same order."
+    },
+    {
+     "k": "unit|sci.light.what-is-light.L3",
+     "why": "The sun must be behind you and the rain in front of you to see one."
+    },
+    {
+     "k": "eng:poems-rhymes",
+     "why": "Say the seven colours in order as a rhyme."
+    }
+   ]
+  },
+  {
+   "id": "nature-collecting-rainwater",
+   "name": "Collecting rainwater",
+   "words": [
+    "rainwater",
+    "rain water",
+    "harvesting rain",
+    "bucket in rain",
+    "rain gauge",
+    "bucket"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.weather.weather.L3",
+     "why": "A rain gauge is a straight container that measures how much rain fell."
+    },
+    {
+     "k": "unit|sci.water.saving-water.L3",
+     "why": "Rain collected in a bucket can be used for plants and cleaning."
+    },
+    {
+     "k": "math:capacity",
+     "why": "Pour the water into a measuring jug and read how much it is."
+    },
+    {
+     "k": "social:water-resources",
+     "why": "Many places in India have long saved rain in tanks and step wells."
+    }
+   ]
+  },
+  {
+   "id": "nature-clouds",
+   "name": "Watching clouds",
+   "words": [
+    "clouds",
+    "cloud",
+    "badal",
+    "cloud watching",
+    "cloud shapes"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.weather.forecasting.L3",
+     "why": "Dark thick clouds often mean rain is coming."
+    },
+    {
+     "k": "unit|sci.water.water-cycle.L3",
+     "why": "A cloud is made of tiny drops of water gathered high in the sky."
+    },
+    {
+     "k": "eng:describing",
+     "why": "Say what shapes you can see in the clouds."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Which cloud looks like a circle, a line or a triangle?"
+    }
+   ]
+  },
+  {
+   "id": "nature-wind-breeze",
+   "name": "Feeling the wind",
+   "words": [
+    "wind",
+    "breeze",
+    "hawa",
+    "windy",
+    "pinwheel",
+    "windmill",
+    "storm"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.weather.wind-and-air.L3",
+     "why": "Wind is moving air, and it can turn a pinwheel."
+    },
+    {
+     "k": "unit|sci.weather.weather.L3",
+     "why": "A wind vane points the way the wind is blowing."
+    },
+    {
+     "k": "unit|sci.planet-earth.maps-and-directions.L3",
+     "why": "Use north, south, east and west to say where the wind comes from."
+    },
+    {
+     "k": "unit|sci.forces.flight.L3",
+     "why": "Moving air can push a paper plane or a kite up."
+    }
+   ]
+  },
+  {
+   "id": "nature-hot-summer",
+   "name": "Hot summer day",
+   "words": [
+    "garmi",
+    "summer",
+    "heat wave",
+    "loo",
+    "sweating",
+    "summer holidays"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.keeping-balance.L3",
+     "why": "We sweat to cool down, and that is why we need to drink water."
+    },
+    {
+     "k": "unit|sci.sky.the-sun.L3",
+     "why": "The Sun's light warms the ground, and a dark road gets hotter than a white wall."
+    },
+    {
+     "k": "unit|sci.weather.weather.L3",
+     "why": "A thermometer tells us how hot the day is."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.seasons.L3",
+     "why": "In summer the days are longer and hotter."
+    }
+   ]
+  },
+  {
+   "id": "nature-winter-cold",
+   "name": "Cold winter day",
+   "words": [
+    "cold",
+    "winter",
+    "sardi",
+    "fog",
+    "kohra",
+    "sweater",
+    "shivering"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.keeping-balance.L3",
+     "why": "Your body shivers to make heat when it is cold."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.seasons.L3",
+     "why": "In winter the days are shorter and cooler."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "The fog you see is tiny water drops, from water vapour that cooled."
+    },
+    {
+     "k": "unit|sci.energy.energy-around-us.L3",
+     "why": "Wool traps the warmth and keeps it near your body."
+    }
+   ]
+  },
+  {
+   "id": "nature-shadows",
+   "name": "Playing with shadows",
+   "words": [
+    "shadow",
+    "shadows",
+    "chaya",
+    "shadow play",
+    "shadow tag",
+    "hand shadows"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.light.transparent-opaque.L3",
+     "why": "A shadow forms when something that light cannot pass through blocks it."
+    },
+    {
+     "k": "unit|sci.sky.the-sun.L3",
+     "why": "In the morning the shadow is long, and at noon it is short."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.day-and-night.L3",
+     "why": "Shadows move as the Earth spins, so a shadow can tell the time."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Measure your shadow now and again after one hour."
+    },
+    {
+     "k": "unit|sci.sky.history-of-astronomy.L3",
+     "why": "People made sundials from shadows to tell the time before clocks."
+    }
+   ]
+  },
+  {
+   "id": "nature-sunrise-sunset",
+   "name": "Watching sunrise or sunset",
+   "words": [
+    "sunset",
+    "sunrise",
+    "suraj",
+    "sun setting",
+    "evening sky",
+    "dawn"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.day-night-seasons.day-and-night.L3",
+     "why": "The Sun looks like it goes down because our side of Earth turns away from it."
+    },
+    {
+     "k": "unit|sci.sky.sun-moon-stars.L3",
+     "why": "The Sun is a star, and it is very far away."
+    },
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "The sky turns red and orange because of how sunlight comes through the air."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Many Indian families greet the Sun in the morning."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Note the time of sunset on different days and see how it changes."
+    }
+   ]
+  },
+  {
+   "id": "nature-moon-watching",
+   "name": "Watching the moon",
+   "words": [
+    "moon",
+    "chand",
+    "full moon",
+    "poornima",
+    "amavasya",
+    "moon watching",
+    "new moon"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sky.moon-phases.L3",
+     "why": "The Moon only seems to change shape because we see a different lit part each night."
+    },
+    {
+     "k": "unit|sci.sky.sun-moon-stars.L3",
+     "why": "The Moon does not make its own light, it reflects sunlight."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "The Moon goes from new to full in about two weeks."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Many Indian festivals are set by the moon, like Eid, Diwali and Purnima."
+    },
+    {
+     "k": "unit|sci.sky.moons-asteroids-comets.L3",
+     "why": "Look at the dark patches on the Moon, which are old craters and plains."
+    }
+   ]
+  },
+  {
+   "id": "nature-stargazing",
+   "name": "Stargazing at night",
+   "words": [
+    "stars",
+    "stargazing",
+    "tara",
+    "night sky",
+    "constellation",
+    "saptarishi",
+    "dhruv tara",
+    "star gazing"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sky.stargazing.L3",
+     "why": "People have joined stars into patterns for a very long time, such as the Saptarishi."
+    },
+    {
+     "k": "unit|sci.sky.sun-moon-stars.L3",
+     "why": "Stars are far-away suns, which look tiny because they are so far."
+    },
+    {
+     "k": "unit|sci.planet-earth.maps-and-directions.L3",
+     "why": "The Pole Star shows where north is."
+    },
+    {
+     "k": "unit|sci.sky.history-of-astronomy.L3",
+     "why": "Travellers and farmers used the stars to find their way and the seasons."
+    },
+    {
+     "k": "unit|sci.story-of-universe.galaxies.L3",
+     "why": "The pale band across the sky is the Milky Way, made of countless stars."
+    }
+   ]
+  },
+  {
+   "id": "nature-eclipse-planets",
+   "name": "Eclipse or planet spotting",
+   "words": [
+    "eclipse",
+    "grahan",
+    "planet",
+    "venus",
+    "jupiter",
+    "mars",
+    "telescope",
+    "shooting star"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sky.moon-phases.L3",
+     "why": "In an eclipse, the Moon or Earth's shadow falls on the other."
+    },
+    {
+     "k": "unit|sci.sky.solar-system.L3",
+     "why": "The bright dot that does not twinkle may be a planet."
+    },
+    {
+     "k": "unit|sci.sky.moons-asteroids-comets.L3",
+     "why": "A shooting star is a small rock burning up as it falls through the air."
+    },
+    {
+     "k": "unit|sci.light.how-we-see.L3",
+     "why": "Never look straight at the Sun, even in an eclipse, because it can hurt your eyes."
+    },
+    {
+     "k": "unit|sci.light.what-is-light.L3",
+     "why": "Light from the Sun takes about eight minutes to reach us."
+    }
+   ]
+  },
+  {
+   "id": "nature-fireflies",
+   "name": "Seeing fireflies",
+   "words": [
+    "firefly",
+    "fireflies",
+    "jugnu",
+    "glow worm",
+    "glowing insects"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.light.living-light.L3",
+     "why": "A firefly makes its own light inside its body."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.rhythms-of-nature.L3",
+     "why": "Fireflies come out at night when it is dark and warm."
+    },
+    {
+     "k": "unit|sci.animals.invertebrates.L3",
+     "why": "A firefly is an insect, with six legs and no backbone."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The flashes come in a pattern, which the fireflies use to call each other."
+    }
+   ]
+  },
+  {
+   "id": "nature-collecting-leaves",
+   "name": "Collecting leaves",
+   "words": [
+    "leaves",
+    "leaf",
+    "patte",
+    "leaf collection",
+    "leaf rubbing",
+    "pressed leaves",
+    "fallen leaves"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "The leaf takes in light and air for the plant, and its veins carry water."
+    },
+    {
+     "k": "unit|sci.plants.photosynthesis.L3",
+     "why": "Leaves are green because of the colour that helps them make food from light."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "Fold a leaf along the middle vein and see if both halves match."
+    },
+    {
+     "k": "unit|sci.plants.plant-variety.L3",
+     "why": "Sort your leaves by shape and size and see which tree each came from."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.seasons.L3",
+     "why": "Some trees drop their leaves in a season, then grow new ones."
+    }
+   ]
+  },
+  {
+   "id": "nature-collecting-stones",
+   "name": "Collecting stones and shells",
+   "words": [
+    "stones",
+    "pebbles",
+    "rocks",
+    "collecting stones",
+    "patthar",
+    "shells",
+    "kankar"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "Soil is made partly of rock that has broken into tiny pieces."
+    },
+    {
+     "k": "math:weight",
+     "why": "Which feels heavier, a big stone or a small one? Weigh them to check."
+    },
+    {
+     "k": "unit|sci.states.liquids-up-close.L3",
+     "why": "A stone sinks in water but a dry leaf floats."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "Sort the stones by colour, size or smoothness and count each group."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Measure the longest and the shortest stone."
+    }
+   ]
+  },
+  {
+   "id": "nature-flowers",
+   "name": "Looking at flowers",
+   "words": [
+    "flower",
+    "flowers",
+    "phool",
+    "rose",
+    "marigold",
+    "genda",
+    "jasmine",
+    "mogra",
+    "hibiscus",
+    "flower picking"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "A flower has petals, and inside it makes seeds."
+    },
+    {
+     "k": "unit|sci.ecology.interdependence.L3",
+     "why": "Bees and butterflies carry pollen from one flower to another."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "Count the petals and find how many lines can cut the flower into matching halves."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Flowers are used in puja, in festivals and for celebrations in many homes."
+    },
+    {
+     "k": "eng:describing",
+     "why": "Describe its colour, smell and shape."
+    }
+   ]
+  },
+  {
+   "id": "nature-trees",
+   "name": "Climbing or hugging trees",
+   "words": [
+    "tree",
+    "trees",
+    "ped",
+    "climbing a tree",
+    "banyan",
+    "neem",
+    "mango tree",
+    "peepal",
+    "tree planting"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.plants.plant-variety.L3",
+     "why": "A tree has a strong woody trunk that holds it up for many years."
+    },
+    {
+     "k": "unit|sci.plants.water-transport.L3",
+     "why": "The tree pulls water up from the roots to the high leaves."
+    },
+    {
+     "k": "unit|sci.ecology.interdependence.L3",
+     "why": "Birds, squirrels and insects all live in a tree."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Measure around the trunk with a string and then lay it along a ruler."
+    },
+    {
+     "k": "unit|sci.environment.conservation.L3",
+     "why": "Planting a tree gives shade, homes for birds and cleaner air."
+    }
+   ]
+  },
+  {
+   "id": "nature-mango-fruit",
+   "name": "Eating mangoes and seed saving",
+   "words": [
+    "mango",
+    "aam",
+    "fruit",
+    "guava",
+    "seed of fruit",
+    "jamun",
+    "fruit tree",
+    "eating fruit"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.seeds-and-life-cycles.plant-life-cycle.L3",
+     "why": "The mango seed inside the stone can grow into a new tree."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "The fruit grows on a tree from a flower, and the Sun helps it ripen."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.seasons.L3",
+     "why": "Some fruits are only ripe in one season, like mangoes in summer."
+    },
+    {
+     "k": "unit|sci.food.nutrients.L3",
+     "why": "Fruit gives us vitamins that keep our body healthy."
+    }
+   ]
+  },
+  {
+   "id": "nature-bees-honey",
+   "name": "Bees and honey",
+   "words": [
+    "bee",
+    "bees",
+    "honey",
+    "shahad",
+    "madhumakkhi",
+    "beehive"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.ecology.interdependence.L3",
+     "why": "The bee takes nectar from flowers, and helps the flowers make seeds."
+    },
+    {
+     "k": "unit|sci.animals.invertebrates.L3",
+     "why": "A bee is an insect, with six legs and no backbone."
+    },
+    {
+     "k": "unit|sci.animal-behaviour.animal-learning.L3",
+     "why": "Bees dance to show others where flowers are."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "Honey comes from nectar that bees collect from flowers."
+    }
+   ]
+  },
+  {
+   "id": "nature-cleaning-up-litter",
+   "name": "Cleaning up litter",
+   "words": [
+    "litter",
+    "clean up",
+    "cleaning drive",
+    "plastic",
+    "garbage",
+    "swachh",
+    "plogging",
+    "pick up rubbish"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.environment.pollution.L3",
+     "why": "Rubbish on the ground can harm animals and make the soil and water dirty."
+    },
+    {
+     "k": "unit|sci.waste.compost-and-disposal.L3",
+     "why": "Peels can become compost, but plastic stays for a very long time."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "Count the things you pick up and sort them into groups for a graph."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Wear gloves and do not touch broken glass."
+    }
+   ]
+  },
+  {
+   "id": "nature-kite-weather-play",
+   "name": "Flying a kite or paper plane",
+   "words": [
+    "kite",
+    "patang",
+    "paper plane",
+    "flying a kite",
+    "manja",
+    "kite flying"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.weather.wind-and-air.L3",
+     "why": "The kite goes up because moving air pushes against it."
+    },
+    {
+     "k": "unit|sci.forces.flight.L3",
+     "why": "A kite or plane stays up when air pushes under its wings or body."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "A kite is a shape with two pairs of equal sides."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Many people fly kites on Makar Sankranti."
+    }
+   ]
+  },
+  {
+   "id": "nature-sandbox-mud-play",
+   "name": "Playing in sand and mud",
+   "words": [
+    "sand",
+    "mud play",
+    "clay",
+    "mitti",
+    "sand play",
+    "making mud pies",
+    "building with sand"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "Sand, clay and soil feel different because they are different tiny pieces."
+    },
+    {
+     "k": "unit|sci.states.liquids-up-close.L3",
+     "why": "See how much water the sand takes in before it holds its shape."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Make shapes with a mould and see which ones stand."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "Potters shape wet clay into pots, and builders use sand for houses."
+    }
+   ]
+  },
+  {
+   "id": "nature-shade-heat-exp",
+   "name": "Dew, frost and evaporation",
+   "words": [
+    "dew",
+    "dew drops",
+    "drying clothes",
+    "clothes drying",
+    "evaporation",
+    "wet clothes",
+    "ice melting"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "Wet clothes dry because the water goes into the air."
+    },
+    {
+     "k": "unit|sci.sky.the-sun.L3",
+     "why": "Clothes dry faster in the sun because its heat helps the water to leave."
+    },
+    {
+     "k": "unit|sci.weather.wind-and-air.L3",
+     "why": "Clothes dry faster on a windy day."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Time how long a wet cloth takes to dry on a sunny day and on a cloudy day."
+    }
+   ]
+  },
+  {
+   "id": "nature-animal-sounds-night",
+   "name": "Hearing night sounds",
+   "words": [
+    "night sounds",
+    "crickets",
+    "frog sound",
+    "owl",
+    "bats",
+    "bat",
+    "jhingur",
+    "insects at night"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.day-night-seasons.rhythms-of-nature.L3",
+     "why": "Some animals like owls and bats are awake at night and sleep by day."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "A cricket makes sound by rubbing its wings, and that makes a vibration."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "Some animals can hear sounds that we cannot."
+    },
+    {
+     "k": "eng:new-words",
+     "why": "Learn a new word for each night sound you hear."
+    }
+   ]
+  },
+  {
+   "id": "nature-cow-feeding",
+   "name": "Feeding a cow or cattle",
+   "words": [
+    "cow",
+    "gaay",
+    "gai",
+    "feeding cow",
+    "roti for cow",
+    "bull",
+    "buffalo"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.animals.animal-bodies.L3",
+     "why": "A cow chews grass slowly, and its stomach is made for plants."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "The cow gives us milk, which comes from the grass it eats."
+    },
+    {
+     "k": "unit|sci.ecology.food-chains.L3",
+     "why": "The grass grows from the Sun, the cow eats grass, and we drink the milk."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Many families in India treat the cow with care."
+    }
+   ]
+  },
+  {
+   "id": "nature-squirrels-monkeys",
+   "name": "Watching squirrels and monkeys",
+   "words": [
+    "squirrel",
+    "gilhari",
+    "monkey",
+    "bandar",
+    "langur",
+    "wild animals"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.animals.animal-minds.L3",
+     "why": "Monkeys and squirrels remember where food is and learn from each other."
+    },
+    {
+     "k": "unit|sci.animal-behaviour.animal-learning.L3",
+     "why": "Young animals learn by copying older ones."
+    },
+    {
+     "k": "unit|sci.animals.vertebrate-groups.L3",
+     "why": "Squirrels and monkeys are mammals, and they have a backbone and fur."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Do not feed or go near wild monkeys, because they can bite."
+    }
+   ]
+  },
+  {
+   "id": "nature-weather-diary",
+   "name": "Weather diary",
+   "words": [
+    "weather diary",
+    "weather chart",
+    "temperature",
+    "thermometer",
+    "weather report",
+    "weather"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.weather.weather.L3",
+     "why": "Use a thermometer and a rain gauge to measure the weather."
+    },
+    {
+     "k": "unit|sci.weather.forecasting.L3",
+     "why": "If you read the weather each day, you start to predict tomorrow."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "Draw a graph of the temperature through the week."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Find how much hotter today is than yesterday."
+    }
+   ]
+  },
+  {
+   "id": "nature-why-sky-blue",
+   "name": "Asking about nature",
+   "words": [
+    "why is the sky blue",
+    "why do leaves fall",
+    "why is grass green",
+    "why does it rain",
+    "how do birds fly",
+    "why is sea salty",
+    "why do stars twinkle"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.light.what-is-light.L3",
+     "why": "Ask what light is and how it comes to our eyes from the sky."
+    },
+    {
+     "k": "unit|sci.plants.photosynthesis.L3",
+     "why": "Grass and leaves look green because of the green stuff that makes their food."
+    },
+    {
+     "k": "unit|sci.water.water-cycle.L3",
+     "why": "Rain comes from the water that dried into the air and came back down."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Ask your question aloud, then let each person guess an answer before looking it up."
+    }
+   ]
+  },
+  {
+   "id": "nature-night-day-question",
+   "name": "Asking why night comes",
+   "words": [
+    "why is it dark",
+    "why do we have night",
+    "why is the moon following us",
+    "why do days get long",
+    "does the sun move"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.day-night-seasons.day-and-night.L3",
+     "why": "Day and night happen because the Earth spins."
+    },
+    {
+     "k": "unit|sci.sky.sun-moon-stars.L3",
+     "why": "The Sun is a star, and the Moon only reflects its light."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.seasons.L3",
+     "why": "Summer days are longer because of how the Earth is tilted."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Make a ball and a torch to show your answer."
+    }
+   ]
+  }
+ ]
+}

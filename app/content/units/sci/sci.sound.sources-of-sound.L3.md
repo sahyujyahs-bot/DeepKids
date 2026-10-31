@@ -102,7 +102,7 @@ Deep in your throat are two soft flaps called vocal folds. When you breathe quie
 ### Animals that make sound for their own lives · *defined*
 **Definition:** Many animals make sounds by vibrating a body part, and use sound to find each other, warn, court, hunt and find their way.
 
-Animals are not making sounds for us. Each one is busy with their own life. A cricket rubs a scraper on one wing against a row of tiny teeth on the other. Their ears are on their front legs. A cicada clicks two drum-like plates on their body very fast. A frog pushes air back and forth over their vocal folds, and their throat pouch swells like a balloon to make the call louder. Male and female mosquitoes change their buzz until their two tones fit together. Lauren Cator, Laura Harrington and colleagues found this in 2009. Elephants call with rumbles so low that people can hardly hear them. Katy Payne discovered this in 1984, when she felt a throbbing in the air beside elephants at a zoo. Caitlin O'Connell-Rodwell found that elephants may also feel these rumbles through their feet. In 2015, Angela Freeman and James Hare found that a peacock vibrating his tail makes infrasound too. Peahens may feel it. Bats and dolphins make squeaks or clicks and listen for the echoes. A snapping shrimp shuts their claw so fast that a bubble forms and bursts with a loud crack.
+Animals are not making sounds for us. They are busy with their own lives. A male cricket rubs a scraper on one wing against a row of tiny teeth on the other. Crickets have their ears on their front legs. A male cicada clicks two drum-like plates on his body very fast. A male frog pushes air back and forth over his vocal folds, and his throat pouch swells like a balloon to make the call louder. Male and female mosquitoes change their buzz until their two tones fit together. Lauren Cator, Laura Harrington and colleagues found this in 2009. Elephants call with rumbles so low that people can hardly hear them. Katy Payne discovered this in 1984, when she felt a throbbing in the air beside elephants at a zoo. Caitlin O'Connell-Rodwell found that elephants may also feel these rumbles through their feet. In 2015, Angela Freeman and James Hare found that a peacock vibrating his tail makes infrasound too. Peahens may feel it. Bats and dolphins make squeaks or clicks and listen for the echoes. A snapping shrimp shuts one big claw so fast that a bubble forms and bursts with a loud crack.
 - e.g. On a monsoon night, the loud chorus in a field is often frogs calling to each other.
 - e.g. Woodpeckers drum on dry branches. The branch is the instrument.
 - e.g. Humpback whales sing long songs that slowly change from year to year.
@@ -193,8 +193,6 @@ One tap on a tabla starts one vibration. The air passes it on to billions of mol
 - *deep:* Is there anywhere on Earth that is perfectly silent? (hint: Even in the quietest room ever built, people hear their own heartbeat. What else is always moving?)
 - *deep:* Every atom in a stone is always jiggling. So is anything ever truly still? (hint: What would it mean for something to stop jiggling completely?)
 - *big:* Elephants talk below what we can hear, and bats above it. How much of the world's conversation do you think we are missing? (hint: People hear only from about 20 to 20,000 vibrations a second.)
-- *big:* If a tree falls and only a deer hears, was there a sound? (hint: Who counts as a listener? Does it have to be a person?)
-- *big:* The tabla makers worked out the syahi long before any scientist explained it. Who made the discovery: the makers, or Raman? (hint: Can you discover something without writing it down?)
 - *big:* Many families chant 'Om' and feel it buzz in their chest. Is the buzz you feel the same as what the chant means to them? (hint: Can something be a vibration and also mean something more?)
 - *big:* Is noise from crackers, horns and loudspeakers fair to the birds, dogs and people who live nearby? (hint: Who chooses the noise, and who has to hear it?)
 - *big:* Your voice is your own body vibrating. When it makes the air of a whole room vibrate, where does your voice end? (hint: Hum, and think about where your hum is right now.)
@@ -250,7 +248,7 @@ The man looked at her for a long moment. Then he took out a small notebook. 'Wha
 
 That night, Bela lay on her mat and listened to the lane. A drum was still going somewhere far off, slow and deep. She put her fingertips on her own throat and hummed into the dark. She felt the hum buzzing under her fingers. She felt it in her chest, and in the floor, and very faintly in the whole house around her.
 
-**For the parent:** For the parent: the drum stops ringing not because anything big is wrong, but because one tiny spot of the skin is held still. A sound is a vibration, and a skin that cannot swing freely cannot ring. The rice makes the invisible vibration visible: grains jump where the skin moves and gather where it stays still. Bela, a girl nobody asked, solves the problem by looking closely, and a scientist writes down her name. The story also quietly asks who gets credit: the unnamed drum makers who invented the syahi, or the scientist who explained it.
+**For the parent:** For the parent: the drum stops ringing not because anything big is wrong, but because one tiny spot of the skin is held still. A sound is a vibration, and a skin that cannot swing freely cannot ring. The rice makes the invisible vibration visible: grains jump where the skin moves and gather where it stays still. Bela, a girl nobody asked, solves the problem by looking closely, and a scientist writes down her name.
 
 - Ask: Why did the drum go 'tup' instead of ringing?
 - Ask: How did the rice show Bela where the problem was?
@@ -260,24 +258,24 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 
 ## Games
 ### g1 · What Is Vibrating? (20 min)
-- **rules:** Cut out the 24 cards. Shuffle them and put them face down in a pile.; Lay the five mats in a row: STRING, SKIN, AIR, SOLID, BODY.; On your turn, take the top card and read it aloud.; Say what is vibrating to make that sound. Put the card on the right mat.; Turn the card over to check. If you were right, take a token.; If you draw a TEST IT card, everyone does the test. The first to explain what is vibrating takes two tokens.; Playing alone? Try to finish all 24 cards with as many tokens as you can. Then play again and try to beat your score.; When the cards run out, the player with the most tokens wins.
-- **Printable cards: 24 sound cards to cut out (the answer is on the back):** A veena being played (back: STRING); A tabla (back: SKIN); A bansuri flute (back: AIR); A temple bell (back: SOLID); You singing (back: BODY, your vocal folds); A dhol at a wedding (back: SKIN); A pressure cooker whistle (back: AIR); A conch shell being blown (back: AIR); A cricket chirping at night (back: BODY, their wings rubbing); A frog calling in the rain (back: BODY, vocal folds and throat pouch); A steel tumbler tapped with a spoon (back: SOLID); A sitar (back: STRING); A ghatam clay pot drum (back: SOLID, and the air inside); A mosquito whining (back: BODY, their wings); A shehnai (back: AIR, made to vibrate by a reed); A guitar (back: STRING); A damru (back: SKIN); A dog barking (back: BODY, vocal folds); Manjira cymbals (back: SOLID); An elephant rumbling (back: BODY, vocal folds); TEST IT: hum with your fingers on your throat, then whisper. When do you feel a buzz? (back: When you hum, you feel a buzz. When you whisper, you hardly do. The buzz is your vocal folds vibrating.); TEST IT: tap a steel plate with a spoon, then hold the plate. What happens to the sound? (back: The sound stops when you hold the plate. You stopped the plate vibrating.); TEST IT: stretch a rubber band and pluck it. Look closely. What do you see? (back: The rubber band blurs. It is vibrating.); TEST IT: blow across the top of an empty bottle. What is vibrating? (back: The air inside the bottle is vibrating.)
+- **rules:** Cut out the 24 cards and the 30 tokens. Shuffle the cards and put them face down in a pile. Put the tokens in a bowl.; Lay the five mats in a row: STRING, SKIN, AIR, SOLID, BODY.; On your turn, take the top card and read it aloud.; If it is a sound card, say what is vibrating to make that sound. Put the card on the mat you think is right.; Turn the card over to check. If you were right, take a token. If you were wrong, move the card to the right mat.; If you draw a TEST IT card, everyone does the test. The first to explain what is vibrating takes two tokens. Check the back, then put the card aside.; Playing alone? Try to finish all 24 cards with as many tokens as you can. Then play again and try to beat your score.; When the cards run out, the player with the most tokens wins. If two players have the same number, they share the win.
+- **Printable cards: 24 sound cards to cut out (the answer is on the back):** A veena being played (back: STRING); A tabla (back: SKIN); A bansuri flute (back: AIR); A temple bell (back: SOLID); You singing (back: BODY, your vocal folds); A dhol at a wedding (back: SKIN); A pressure cooker whistle (back: AIR); A conch shell being blown (back: AIR); A cricket chirping at night (back: BODY, his wings rubbing); A frog calling in the rain (back: BODY, vocal folds and throat pouch); A steel tumbler tapped with a spoon (back: SOLID); A sitar (back: STRING); A ghatam clay pot drum (back: SOLID, and the air inside); A mosquito whining (back: BODY, wings beating); A shehnai (back: AIR, made to vibrate by a reed); A guitar (back: STRING); A damru (back: SKIN); A dog barking (back: BODY, vocal folds); Manjira cymbals (back: SOLID); An elephant rumbling (back: BODY, vocal folds); TEST IT: hum with your fingers on your throat, then whisper. When do you feel a buzz? (back: When you hum, you feel a buzz. When you whisper, you hardly do. The buzz is your vocal folds vibrating.); TEST IT: tap a steel plate with a spoon, then hold the plate. What happens to the sound? (back: The sound stops when you hold the plate. You stopped the plate vibrating.); TEST IT: stretch a rubber band and pluck it. Look closely. What do you see? (back: The rubber band blurs. It is vibrating.); TEST IT: blow across the top of an empty bottle. What is vibrating? (back: The air inside the bottle is vibrating.)
 - **Printable board: Five sorting mats:** STRING; SKIN; AIR; SOLID; BODY
-- **Printable tokens: 20 tokens (small paper circles):** 〰️
+- **Printable tokens: 30 tokens (small paper circles):** 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️; 〰️
 - **s1 (2 min)**  
   *Parent does:* 1. Lay out the five mats in a row. 2. Shuffle the 24 cards and put them face down. 3. Put the tokens in a bowl.  
   *Parent says:* Every sound comes from something vibrating. In this game, we find out what is vibrating. Is it a string, a skin, some air, a solid thing, or a body?  
   *Child mode:* Lay out the five mats. Mix up the cards. Put them face down. For each card, find what is vibrating.
 - **s2 (3 min)**  
-  *Parent does:* Find the card 'A tabla'. Play it together as a practice round.  
+  *Parent does:* Find the card 'A tabla'. Play it together as a practice round, then shuffle it back into the pile.  
   *Parent says:* Let's practise. 'A tabla.' When you hit a tabla, what vibrates?  
-  *Child mode:* Practice card: a tabla. What vibrates when you hit it? Tap your answer.
+  *Child mode:* Practice card: a tabla. What vibrates when you hit it? Say your answer.
   - Check: When you hit a tabla, what vibrates to make the sound? → **The stretched skin**
 - **s3 (10 min)**  
   *Parent does:* 1. Take turns drawing a card and reading it out. 2. The player puts it on a mat and says what is vibrating. 3. Turn the card over to check. 4. Give a token for each right answer.  
   *Parent says:* Tell me what is vibrating, and where it is. Then check the back.  
   *Child mode:* Read your card. What is vibrating? Put it on a mat. Turn it over. Right? Take a token!
-  - Note: Tricky cards: the ghatam is a solid clay pot, but the air inside it also vibrates. The shehnai's reed vibrates first, then the air in the tube. Animals are BODY: a cricket rubs their wings, a mosquito beats their wings, a frog and a dog use vocal folds. A pressure cooker whistle is air vibrating as it rushes out.
+  - Note: Tricky cards: the ghatam is a solid clay pot, but the air inside it also vibrates. The shehnai's reed vibrates first, then the air in the tube. Animals are BODY: a male cricket rubs his wings, a mosquito beats her wings, a frog and a dog use vocal folds. A pressure cooker whistle is air vibrating as it rushes out.
 - **s4 (3 min)**  
   *Parent does:* When a TEST IT card comes up, stop and do the test together. Everyone guesses first.  
   *Parent says:* Before we test it, everyone guess. Then let's try it.  
@@ -290,22 +288,22 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
   *Child mode:* Count your tokens. Which pile is biggest? Can you think of a sound that fits no mat?
   - Think: Thunder, rain and wind are sounds too. What is vibrating in them?
 ### g2 · Sound and Pose (15 min)
-- **rules:** One player is the Sound Maker. The others are Posers.; The Sound Maker collects 4 to 6 things to tap: a steel spoon, a wooden spoon, a steel plate, a plastic box, a glass of water, a book.; The Sound Maker taps each thing once, in front of everyone. The Posers invent a pose for each sound, and say what is vibrating.; Now the Posers turn their backs. The Sound Maker taps one thing.; The Posers must strike the right pose without looking. Everyone who gets it right scores a point.; Swap roles after 6 sounds. The player with the most points wins.
-- **Printable score sheet: Pose chart:** Sound 1: what made it, what was vibrating, my pose; Sound 2; Sound 3; Sound 4; Sound 5; Sound 6
+- **rules:** One player is the Sound Maker. The others are Posers.; The Sound Maker collects 4 to 6 things to hit gently: a steel spoon, a wooden spoon, a steel plate, a plastic box, a glass of water, a book.; The Sound Maker hits each thing once, in front of everyone. The Posers invent a pose for each sound, and say what is vibrating.; Now the Posers turn their backs. The Sound Maker hits one thing.; The Posers must strike the right pose without looking. Everyone who gets it right scores a point. Write the points on the Pose chart.; After 6 sounds, the Poser with the most points wins. If there is time, swap: a new player becomes the Sound Maker, and you play 6 more sounds.
+- **Printable score sheet: Pose chart:** Sound 1: what made it / what was vibrating / my pose / point (yes or no); Sound 2: what made it / what was vibrating / my pose / point (yes or no); Sound 3: what made it / what was vibrating / my pose / point (yes or no); Sound 4: what made it / what was vibrating / my pose / point (yes or no); Sound 5: what made it / what was vibrating / my pose / point (yes or no); Sound 6: what made it / what was vibrating / my pose / point (yes or no)
 - **s1 (3 min)**  
-  *Parent does:* 1. Collect 4 to 6 things to tap. 2. Tap each one once, in front of the Posers. 3. The Posers invent a pose for each.  
+  *Parent does:* 1. Collect 4 to 6 things to hit. 2. Hit each one once, in front of the Posers. 3. The Posers invent a pose for each.  
   *Parent says:* Listen to each sound. Make up a pose for it. A steel plate might be a star. A book might be a tortoise. Also tell me what is vibrating.  
   *Child mode:* Listen to each sound. Make up a pose for it. Say what is vibrating.
 - **s2 (9 min)**  
-  *Parent does:* 1. The Posers turn their backs. 2. Tap one thing. 3. The Posers strike the pose. 4. Score a point for each right pose. 5. Play 6 rounds.  
+  *Parent does:* 1. The Posers turn their backs. 2. Hit one thing. 3. The Posers strike the pose. 4. Score a point for each right pose. 5. Play 6 rounds.  
   *Parent says:* Backs turned. Listen carefully. What made that sound?  
   *Child mode:* Turn your back. Listen. Strike the pose for that sound!
   - Ask: How did you know it was the steel plate and not the steel spoon? (good: The plate rang longer.; The plate sounded lower, because it is bigger.)
-  - Note: Steel rings long, wood gives a short knock, plastic a dull tap. Bigger things usually sound lower. That is the clue children learn to use.
+  - Note: Steel rings long, wood gives a short knock, plastic a dull hit. Bigger things usually sound lower. That is the clue children learn to use.
 - **s3 (3 min)**  
-  *Parent does:* Swap roles. Then talk about which sounds were hardest to tell apart.  
+  *Parent does:* Talk about which sounds were hardest to tell apart. If there is time, swap roles and play again.  
   *Parent says:* Which sounds were hardest to tell apart? Why?  
-  *Child mode:* Swap! Now you make the sounds. Which ones were hardest to guess?
+  *Child mode:* Which sounds were hardest to tell apart? If there is time, swap and play again!
   - Check: A steel plate rings for a long time. A wooden spoon gives a short knock. Why? → **Steel keeps vibrating for longer than wood**
 
 ## Experiments
@@ -345,7 +343,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 - **question:** A ringing steel plate looks still. Is it really vibrating? How can we show it?
 - **predict:** Guess first. If a small foil ball on a thread touches a ringing plate, will it stay still or move? Why do you think so?
 - **fair test:** Hit the plate the same way each time. Then compare: the foil ball touching the plate while it rings, and touching it after you have stopped it with your hand. Change only whether the plate is ringing.
-- **safety:** Hit the plate firmly but not so hard it hurts anyone's ears. Keep it away from ears. Wipe up any spilled water so nobody slips.
+- **safety:** Hit the plate firmly but not so hard it hurts anyone's ears. Keep it away from ears.
 - **record:** Fill in the table. Draw the foil ball jumping off the ringing plate.
 - **results table:** What we did | What the foil ball or water did | Could we hear the ring?
 - **s1 (4 min) · grown-up needed**  
@@ -377,24 +375,24 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 ### e3 · The Atta Trick: the mridangam's secret (25 min)
 - **question:** Does putting a blob of dough on a drum skin change its sound, the way a mridangam player does?
 - **predict:** Guess first. With a blob of atta dough in the middle, will the drum sound higher, lower, or the same? Why do you think so?
-- **fair test:** Use the same drum, tapped the same way, in the same place. Change only one thing: the dough. Tap with no dough, then a small blob, then a bigger blob. Listen to each one three times.
+- **fair test:** Use the same drum, tapped the same way, on the same spot. Change only one thing: the dough. Tap with no dough, then a small blob, then a bigger blob. Listen to each one three times.
 - **safety:** A grown-up cuts the balloon. Balloons can choke small children, so keep the pieces away from babies.
-- **record:** Fill in the table. Draw the drum with the dough blob, and the rice grains jumping.
-- **results table:** Dough on the skin | Higher or lower than with no dough? | What did the rice grains do?
+- **record:** Fill in the table. Draw the drum with rice jumping on it, and the drum with the dough blob.
+- **results table:** Dough on the skin | Higher or lower than with no dough?
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts the neck off the balloon. 2. Stretch the balloon tightly over the top of the tumbler or tin. 3. Hold it with the rubber band. 4. Pull the edges down until the skin is smooth and tight, like a drum.  
   *Parent says:* We're making a little drum. Its skin is a balloon. The tighter we pull it, the better it will ring.  
   *Child mode:* Ask a grown-up to cut the balloon. Stretch it over the tumbler. Hold it with a rubber band. Pull it tight and smooth.
 - **s2 (4 min)**  
-  *Parent does:* 1. Tap the middle of the skin with a fingertip or a pencil's rubber end. 2. Listen to the note. 3. Sprinkle a few rice grains on it and tap again near the edge.  
+  *Parent does:* 1. Tap the skin with a fingertip, a thumb's width in from the edge, and listen to the note. 2. Sprinkle a few rice grains on the skin and tap the same spot again.  
   *Parent says:* Listen to the note it makes. Now watch the rice when you tap.  
-  *Child mode:* Tap the middle. Listen to the note. Now put rice on it. Tap near the edge. Watch the rice!
+  *Child mode:* Tap the skin a thumb's width from the edge. Listen to the note. Now put rice on it and tap the same spot. Watch the rice!
   - Ask: Why does the rice jump? (good: The skin is vibrating.; The skin pushes the rice up.)
   - Note: Rice grains make the vibration easy to see: they jump where the skin moves. If the skin is loose, you get a dull thud and no note. Pull it tighter.
 - **s3 (7 min)**  
-  *Parent does:* 1. Brush the rice off. 2. Press a small pea-sized blob of dough in the centre of the skin. Tap and listen. 3. Make it a coin-sized blob. Tap and listen. 4. Take the dough off and tap again to compare.  
+  *Parent does:* 1. Brush the rice off. 2. Press a pea-sized blob of dough in the centre of the skin. Tap the same spot as before and listen. 3. Make it a coin-sized blob. Tap the same spot and listen. 4. Take the dough off and tap that spot again to compare.  
   *Parent says:* A mridangam player presses wet dough on the left side of the drum before playing. Let's find out why.  
-  *Child mode:* Press a tiny blob of dough in the middle. Tap. Make it bigger. Tap. Now take it off. Tap. What changed?
+  *Child mode:* Press a tiny blob of dough in the middle. Tap the same spot. Make the blob bigger. Tap. Now take it off. Tap. What changed?
   - Check: What did the dough blob do to the drum's sound? → **Made it lower and deeper**
 - **s4 (4 min)**  
   *Parent does:* Talk about the tabla and the mridangam together.  
@@ -409,7 +407,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 
 ## Activities
 ### a1 · The Vibration Hunt (15 min)
-- **safety:** Never touch a pressure cooker, a hot pan, a fan, a running mixer or a plug. Just listen to those. The side of a fridge is safe to touch.
+- **safety:** Never touch a pressure cooker, a hot pan, a fan, a running mixer or a plug. Just listen to those.
 - **record:** List 10 sounds. Next to each, write what is vibrating: string, skin, air, solid or body. Make a tally of each kind.
 - **s1 (2 min)**  
   *Parent does:* Give your child the paper and pencil. Explain the hunt.  
@@ -426,7 +424,6 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
   *Child mode:* Count each kind. String, skin, air, solid, body. Which kind did you find most?
   - Think: Is anything in your home completely silent? How could you tell?
 ### a2 · The Coin Line: be the air molecules (15 min)
-- **safety:** In the human line, squeeze shoulders gently. No pushing.
 - **record:** Draw the coin line, with an arrow showing the push travelling. Write one sentence: what travelled, and what stayed?
 - **s1 (4 min)**  
   *Parent does:* 1. Lay 5 coins in a straight line on the table, each one touching the next. 2. Hold the 6th coin a hand's width away, in line. 3. Flick it so it slides into the end of the line.  
@@ -451,7 +448,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
   - Check: In the coin line, what travelled from one end to the other? → **The push, passed from coin to coin**
   - Think: Real air molecules are not in a neat line, and they never stop zooming about. How is the real air different from our coins?
 ### a3 · Kitchen Orchestra and the Jal Tarang (15 min)
-- **safety:** Tap gently. Glass tumblers can crack if hit hard, so use steel tumblers if you have them. Wipe up any spills.
+- **safety:** Tap gently. Glass tumblers can crack if hit hard, so use steel tumblers if you have them.
 - **record:** Write which tumbler was highest and lowest, and how much water was in each.
 - **s1 (4 min)**  
   *Parent does:* 1. Tap each kitchen thing with the steel spoon, then with the wooden spoon. 2. Listen to how long each one rings.  
@@ -462,8 +459,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
   *Parent does:* 1. Line up 5 tumblers. 2. Pour water into them: 0, 50, 100, 150 and 200 ml. 3. Tap each one gently near the rim with the spoon.  
   *Parent says:* A jal tarang is a real Indian instrument, made of bowls with water in them. Let's make ours.  
   *Child mode:* Put water in the tumblers: none, then a little more in each. Tap each one gently. Listen!
-  - Ask: Which tumbler sounds lowest? (good: The one with the most water.; The full one.)
-  - Note: When you tap a tumbler, the tumbler and the water vibrate together. More water means more to vibrate, so it vibrates more slowly and sounds lower. Blowing across a bottle works the other way, which can puzzle children. That belongs to Class 5.
+  - Note: When you tap a tumbler, the tumbler and the water vibrate together. More water means more to vibrate, so it vibrates more slowly and sounds lower. Blowing across a bottle works the other way: more water leaves less air to vibrate, so the note goes higher. Do not worry if this puzzles your child.
 - **s3 (5 min)**  
   *Parent does:* 1. Play the tumblers from emptiest to fullest. 2. Try to play a simple tune you know.  
   *Parent says:* Play them from emptiest to fullest. What happens to the note? Can you play a tune?  
@@ -493,7 +489,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
   *Child mode:* Play a tune on your veena! What is vibrating: the band, the box, or both?
   - Think: The box made the band louder. Your throat, mouth and nose do something like this for your voice. Hum and feel your face and chest buzz.
 ### a5 · Straw Shehnai (10 min)
-- **safety:** A grown-up does all the cutting. Each person uses their own straw. Throw the straws away afterwards, or reuse them for crafts, not for drinking.
+- **safety:** A grown-up does all the cutting. Each person uses their own straw.
 - **record:** Draw your straw shehnai and label the reed. Write what happened when it was cut shorter.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Flatten one end of the straw by pressing it hard with your teeth or fingers, for about 2 cm. 2. A grown-up cuts the flat end into a V shape, like a pointed arrow tip.  
@@ -510,23 +506,22 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
   *Child mode:* Keep blowing! A grown-up will snip the end off. What happens to the note?
   - Check: As the straw shehnai is cut shorter, what happens to its note? → **It goes higher**
 ### a6 · Animal Sound Makers (15 min)
-- **safety:** Blow up the balloon only part way. Rumble gently, never shout into anyone's ears.
-- **record:** Draw one animal making their sound. Label the part that vibrates.
+- **record:** Draw one animal making a sound. Label the part that vibrates.
 - **s1 (4 min)**  
   *Parent does:* 1. Run a fingernail or a card along the teeth of the comb, slowly, then fast. 2. Listen.  
-  *Parent says:* A cricket makes their chirp like this. They rub a hard scraper on one wing across a row of tiny teeth on the other wing.  
-  *Child mode:* Run a fingernail along a comb. Slow, then fast. That's how a cricket chirps, with their wings!
+  *Parent says:* A male cricket makes his chirp like this. He rubs a hard scraper on one wing across a row of tiny teeth on the other wing.  
+  *Child mode:* Run a fingernail along a comb. Slow, then fast. That's how a male cricket chirps, with his wings!
   - Ask: What happened to the sound when you went faster? (good: It got higher.; The clicks joined into a buzz.)
 - **s2 (5 min)**  
   *Parent does:* 1. Blow up a balloon part way and pinch its neck. 2. Stretch the neck sideways so the air squeals out. 3. Try stretching it more and less.  
-  *Parent says:* This squeal is like a frog's call. Air rushing past stretched rubber makes it vibrate. A frog's throat pouch swells like the balloon, which makes their call louder.  
-  *Child mode:* Pinch the balloon neck. Stretch it so it squeals. A frog's throat swells like a balloon when they call!
+  *Parent says:* This squeal is like a frog's call. Air rushing past stretched rubber makes it vibrate. A frog's throat pouch swells like the balloon, which makes the call louder.  
+  *Child mode:* Pinch the balloon neck. Stretch it so it squeals. A frog's throat swells like a balloon when frogs call!
   - Note: Stretching the neck tighter usually makes the squeal higher, like tightening vocal folds.
 - **s3 (4 min)**  
-  *Parent does:* 1. Everyone lies down with a palm or cheek flat on the floor. 2. One person hums the lowest 'mmm' they can, with their chest close to the floor. 3. The others try to feel it through the floor.  
+  *Parent does:* 1. Everyone lies down with a palm and one cheek flat on the floor. 2. One person hums the lowest 'mmm' they can, with their chest close to the floor. 3. The others try to feel it through the floor.  
   *Parent says:* Elephants rumble so low that people can hardly hear it. Other elephants may feel it through their feet, kilometres away. Let's see if we can feel a hum through the floor.  
   *Child mode:* Lie down. Put your hand on the floor. Someone hums very low. Can you feel it through the floor?
-  - Note: On a wooden or tiled floor, you can often feel a low hum faintly. If not, try a palm on a table while someone hums with their chest against it.
+  - Note: Lying with your chest on a wooden or tiled floor, you may faintly feel a low hum. If you feel nothing, that is fine: an elephant's rumble is far stronger and lower than a child's hum.
 - **s4 (2 min)**  
   *Parent does:* Talk about why animals make sounds.  
   *Parent says:* A cricket, a frog and an elephant aren't making sounds for us. Why do you think they do it?  
@@ -551,7 +546,6 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
   *Parent does:* Make one change to improve it. For example, add a box to make it louder, or tighten or shorten something to change the note.  
   *Parent says:* Real instrument makers test and change, again and again. What one change could make yours better?  
   *Child mode:* Make one change. A box for louder? Tighter or shorter for higher? Test it again.
-  - Check: Your rubber-band instrument is too quiet. Which change will help most? → **Stretch the bands over a hollow box**
 - **s4 (20 min)**  
   *Parent does:* 1. Make a poster for the concert. 2. Invite the family. 3. Before playing, explain what vibrates in your instrument. 4. Play.  
   *Parent says:* Welcome to the concert! Before you play, tell us what is vibrating.  
@@ -564,7 +558,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 - **your turn:** Now invent your own way. Draw it, try it, and ask someone to judge which is loudest from across the room.
 - **constraints:** Only one rubber band.; You may use anything else from home to hold it or put it on.; No shouting, no banging, no phones: only the plucked band.
 - **general:** Stretch the band over an open box. The box vibrates with it and pushes more air.; Try a bigger hollow thing, like a bucket or a big tin.; Stretch it tighter, so it springs back harder.
-- **creative:** Press the ends of the stretched band against a table top or a door while you pluck it. The whole table or door becomes a sounding board.; A veena uses a big hollow body, and sometimes a second gourd at the top. Could two boxes help?; Put your ear against the box while someone plucks. Does it sound louder through the box than through the air?
+- **creative:** Press the ends of the stretched band against a table top or a door while you pluck it. The table or door may act as a sounding board.; A veena uses a big hollow body, and sometimes a second gourd at the top. Could two boxes help?; Put your ear against the box while someone plucks. Does it sound louder through the box than through the air?
 - **s1 (4 min)**  
   *Parent does:* 1. Stretch the band between your thumbs and pluck it. 2. Ask someone across the room if they can hear it.  
   *Parent says:* This is how quiet one band is on its own. Your challenge: make it as loud as you can.  
@@ -577,7 +571,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
   *Parent does:* 1. Try each idea. 2. The judge stands across the room and says which is loudest.  
   *Parent says:* Try each idea. Our judge will decide which is loudest.  
   *Child mode:* Try each idea. Ask your judge: which is loudest?
-  - Note: Hollow boxes, tins and buckets help a lot. Pressing the band's ends against a table or a cupboard door often works very well, because the big flat surface pushes lots of air.
+  - Note: Hollow boxes, tins and buckets help a lot. Pressing the band's ends against a table or a cupboard door can work well, because the big flat surface pushes lots of air.
 - **s4 (6 min)**  
   *Parent does:* Read the usual and the creative ideas together. Then invent a new one.  
   *Parent says:* Here are some usual ideas, and some creative ones. Can you beat them?  
@@ -591,7 +585,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 - **creative:** Evelyn Glennie, a great Scottish drummer, is profoundly deaf. She plays barefoot, to feel the music through the floor. Could a knock on the floor work as a doorbell?; Many deaf people use phones that vibrate in their pocket. Could a family use a vibrating phone as a doorbell?; A vibration travels well along a tight string. A string from the door to the person's chair could carry a tug.
 - **s1 (5 min)**  
   *Parent does:* Talk about the problem together.  
-  *Parent says:* Many people can't hear a doorbell. Some were born deaf, and many grandparents slowly lose their hearing. How could they know someone is at the door?  
+  *Parent says:* Many people can't hear a doorbell. Some were born deaf, and many older people slowly lose their hearing. How could they know someone is at the door?  
   *Child mode:* Some people cannot hear a doorbell. How could they know someone has come?
 - **s2 (5 min)**  
   *Parent does:* List three ideas: one you can see, one you can feel, and one other.  
@@ -660,7 +654,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 4. (perspective) Around 1640, in Rome, Gasparo Berti rang a bell inside a glass tube with almost no air at the top. People could still hear the bell. In 1660, in England, Robert Boyle pumped the air out of a jar with a ticking watch inside. The ticking grew fainter, and came back when he let the air in again.  
    **Answer:** A strong answer chooses with a reason. Boyle's test is stronger because he took the air away and put it back while changing nothing else, and the ticking followed the air. Kircher could fairly answer that Boyle's pump never took out all the air, and the ticking never fully stopped. A strong answer also spots the weakness in Berti's test: the bell was fixed to the tube, so the vibration could travel through the solid metal and glass.. *Why:* Each scientist reasoned honestly from what he saw. Boyle's test was more careful, because he could take the air away and put it back while changing nothing else.
 5. (sort) Sort each sound by the medium it travels through to reach the listener.  
-   **Answer:** Your ear on a table while your sister taps the far end → A solid; A whale's song heard by another whale in the sea → A liquid; A temple bell heard across the street → A gas; A voice carried along the tight string of a tin-can telephone → A solid; A boat engine heard while you swim with your head underwater → A liquid; A crow cawing on the balcony → A gas. *Why:* A medium is the material a sound travels through. Wood, string and steel are solids. Sea water and pool water are liquids. Air is a gas. Sound can travel through all three.
+   **Answer:** Your ear on a table while a friend taps the far end → A solid; A whale's song heard by another whale in the sea → A liquid; A temple bell heard across the street → A gas; A voice carried along the tight string of a tin-can telephone → A solid; A boat engine heard while you swim with your head underwater → A liquid; A crow cawing on the balcony → A gas. *Why:* A medium is the material a sound travels through. Wood, string and steel are solids. Sea water and pool water are liquids. Air is a gas. Sound can travel through all three.
 6. (truefalse) Your ear is pressed to one end of a long iron railing. Your friend taps the far end once with a stone. You may hear the tap twice.  
    **Answer:** True. *Why:* True. Sound travels through iron about 15 times faster than through air. So the tap arrives first through the railing, and a moment later through the air. In a solid, the particles are packed close and held tightly together, so each one passes the push on very quickly.
 7. (write) A ghatam is a clay pot played as a drum in Carnatic music. While she plays, a ghatam player sometimes presses the open mouth of the pot against her stomach, then pulls it away. The deep sound changes. What is she changing, and why does it change the sound?  
@@ -698,8 +692,8 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
    **Answer:** Sound is passed along only by molecules bumping into each other, so it cannot outrun them. *Why:* Sound is not a thing of its own. It is a push handed from molecule to molecule. So the push can only travel as fast as the molecules can carry it. Thinking sound is 'heavier' treats it like an object, when it is really a pattern.
 5. (truefalse) In a Mexican wave at a cricket stadium, the wave goes all the way round the ground, but each person stays in their own seat.  
    **Answer:** True. *Why:* True. Each person only stands up and sits down. The pattern moves round, but the people stay. A sound wave in air is the same: the pattern moves, and the molecules stay where they are.
-6. (write) Your aunt gets a message on her phone: "NASA recorded the Sun chanting Om." What is true in this message, and what is not? How could she check?  
-   **Answer:** It is true that the Sun vibrates, and NASA scientists have turned those vibrations into sounds we can hear, by speeding them up thousands of times. The result is a low hum, not a word. Space carries no sound, so nobody recorded the Sun through the air. She could check NASA's own website, or a science news site, instead of trusting a forwarded message.. *Why:* A strong answer separates the true part from the made-up part, and names a trustworthy place to check.
+6. (write) Someone shares a message on a phone: "NASA recorded the Sun chanting Om." What is true in this message, and what is not? How could you check?  
+   **Answer:** It is true that the Sun vibrates, and NASA scientists have turned those vibrations into sounds we can hear, by speeding them up thousands of times. The result is a low hum, not a word. Space carries no sound, so nobody recorded the Sun through the air. You could check NASA's own website, or a science news site, instead of trusting a forwarded message.. *Why:* A strong answer separates the true part from the made-up part, and names a trustworthy place to check.
 7. (mcq) A sound slowly fades away. Where does its energy go?  
    Options: It vanishes completely / It spreads out, and ends up as a tiny amount of warmth in the air / It goes back into the drum  
    **Answer:** It spreads out, and ends up as a tiny amount of warmth in the air. *Why:* Energy never disappears. It only changes from one kind into another. The vibration spreads out wider and wider until it becomes the random jiggling of molecules, which is warmth.
@@ -728,9 +722,9 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
    **Answer:** False. *Why:* False. A louder sound travels at the same speed as a soft one, about 343 metres every second in air. A harder hit pushes the molecules harder, but it does not make them pass the push along any faster.
 
 ## Videos
-- **Why sound can't travel in a vacuum: Christmas Lecture with Charles Taylor** (The Royal Institution, 3 min) id `YxUERaXBAU8`: Shows a ringing bell going silent as the air is pumped out of a jar, the test you can't easily do at home. *Check:* Found by YouTube search; title and channel confirmed with YouTube's oEmbed service. Not watched from here, and length not confirmed: a parent should preview it.
-- **Data Sonification: Black Hole at the Center of the Perseus Galaxy Cluster (X-ray)** (NASA's Marshall Space Flight Center, 2 min) id `ioR5np1fmEc`: Real pressure ripples in hot gas around a black hole, made more than a hundred million billion times higher so we can hear them. Explain first that space between the planets is silent. *Check:* Found by YouTube search; title and channel confirmed with YouTube's oEmbed service. Not watched from here: a parent should preview it.
-- **How to truly listen** (TED (Evelyn Glennie), 12 min) id `IU3V6zNER4g`: For the parent and older children. A great percussionist who is profoundly deaf shows how she feels sound as vibration through her whole body. Watch the first 12 minutes. The full talk is about half an hour. *Check:* Found by YouTube search; title and channel confirmed with YouTube's oEmbed service. Not watched from here: a parent should preview it.
+- **Why sound can't travel in a vacuum: Christmas Lecture with Charles Taylor** (The Royal Institution, 3 min) id `YxUERaXBAU8`: Shows a ringing bell going silent as the air is pumped out of a jar, the test you can't easily do at home. *Check:* Preview it before watching with your child.
+- **Data Sonification: Black Hole at the Center of the Perseus Galaxy Cluster (X-ray)** (NASA's Marshall Space Flight Center, 2 min) id `ioR5np1fmEc`: Real pressure ripples in hot gas around a black hole, made more than a hundred million billion times higher so we can hear them. Explain first that space between the planets is silent. *Check:* Preview it before watching with your child.
+- **How to truly listen** (TED (Evelyn Glennie), 12 min) id `IU3V6zNER4g`: For the parent and older children. A great percussionist who is profoundly deaf shows how she feels sound as vibration through her whole body. Watch the first 12 minutes. The full talk is about half an hour. *Check:* Preview it before watching with your child.
 
 ## Quiz
 1. (mcq) What do all sounds have in common?  
@@ -763,9 +757,9 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 10. (mcq) A sitar has a big round gourd at the bottom. What is the gourd for?  
    Options: It vibrates along with the strings and makes the sound much louder / It keeps the sitar from rolling over / It holds spare strings  
    **Answer:** It vibrates along with the strings and makes the sound much louder. *Why:* The gourd is a resonator, like the hollow body of a veena. A thin string pushes little air, but the big gourd vibrates with it and pushes far more.
-11. (mcq) How does a cricket make their chirp?  
-   Options: By singing with their mouth / By rubbing a scraper on one wing against tiny teeth on the other / By tapping their feet  
-   **Answer:** By rubbing a scraper on one wing against tiny teeth on the other. *Why:* Crickets rub their wings together. The wings vibrate and make the chirp. Picking 'with their mouth' comes from thinking all animal sounds are like our voices.
+11. (mcq) How does a male cricket make his chirp?  
+   Options: By singing with his mouth / By rubbing a scraper on one wing against tiny teeth on the other / By tapping his feet  
+   **Answer:** By rubbing a scraper on one wing against tiny teeth on the other. *Why:* Crickets rub their wings together. The wings vibrate and make the chirp. Picking 'with his mouth' comes from thinking all animal sounds are like our voices.
 12. (mcq) Katy Payne, an American scientist, felt a throbbing in the air near elephants at a zoo, but heard almost nothing. What had she found?  
    Options: Elephants call with sounds too low for people to hear / The zoo's machines were shaking / The wind was blowing hard  
    **Answer:** Elephants call with sounds too low for people to hear. *Why:* In 1984 she guessed that the elephants were making sounds too low for human ears, called infrasound. Recordings proved her right.
@@ -804,7 +798,6 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 - **Why do humpback whales sing, and why do whole groups change their song together?** Scientists have ideas, mostly about finding mates, but nobody knows for sure.
 - **Why do some sounds, like rain or a lullaby, calm us, while a scratch on a board makes us shiver?** Some of it is about the vibrations, some about the brain and what we have learned. How it all fits is not understood.
 - **What did the very first sound in the universe 'sound' like?** Sound waves rang through the young universe, and we see their pattern. What came before them, and whether there was a 'first' sound, is not known.
-- **Is there anywhere truly silent?** Even in empty space, there are a few particles, and everything is always jiggling. Whether perfect silence can exist depends on what we mean by silence.
 
 ## Questions to ask kids
 - What is vibrating to make that sound?
@@ -816,62 +809,47 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 - Where does the sound of the pressure cooker go after it stops?
 - Is the fan making a sound, or the air, or both?
 - If you could hear like a bat or an elephant, what might you hear?
-- Is this room ever completely silent?
 - Which sound in our home would you miss most if it stopped?
 
 ## Jokes
 - Why did the drum take a nap? *It was beat.*
 - What do you call a cow that plays the tabla? *A moo-sician.*
-- Why was the veena so good at fixing problems? *It always knew how to strike the right note.*
-- What is a cricket's favourite instrument? *Their own wings. They never forget to bring them.*
 - Why couldn't the astronaut hear the joke? *There was no air to carry the punchline.*
 - What kind of music do balloons hate? *Pop music.*
-- Why did the tumbler of water win the singing contest? *It had the most depth.*
-- What music do frogs like best? *Hip-hop.*
-- Why did the bell go to school? *To get a little more ring-telligent.*
-- What does an elephant use to call a friend far away? *A rumble phone.*
 - Why did the rubber band get a medal? *It always went the extra stretch.*
 - How does a mosquito say hello? *It just buzzes in.*
 - What do you get if you drop a piano down a well? *A-flat minor.*
 - Why are fish bad at singing? *You can't tuna fish.*
-- Why did the molecule never get lost? *It always passed on the message.*
 - What is a skeleton's favourite instrument? *The trom-bone.*
-- Why did the straw shehnai blush? *Everyone said it was reed-iculously good.*
-- Why do echoes annoy people? *They always want the last word.*
-- What did the tabla say to the syahi? *You're the black spot that makes me sing.*
-- Why do bats always know where the party is? *They just follow the echo.*
-- What did one ear say to the other? *Between us, we've got a brain.*
-- Why did the ruler buzz on the table edge? *It was feeling a little high-strung.*
 - What is the loudest pet? *A trum-pet.*
-- Why did the ghatam go to the doctor? *It had a pot-ache.*
 
 ## Connected maths
 - In the Twanging Ruler experiment, you tested the ruler with 5 cm sticking out, then 10, 15, 20 and 25 cm. How many centimetres did you add each time? How many times longer was the 25 cm piece than the 5 cm piece? **You added 5 cm each time. The 25 cm piece was 5 times as long as the 5 cm piece.**. The lengths go 5, 10, 15, 20, 25. Each one is 5 more than the one before. To compare the longest with the shortest, divide: 25 divided by 5 is 5. You can check: 5 + 5 + 5 + 5 + 5 = 25. The longest piece was 5 times as long, and it shook much more slowly. (queues `math.length.standard-units-length.L3`)
 - For the jal tarang, you poured water into 5 tumblers: 0, 50, 100, 150 and 200 ml. If you added a 6th tumbler following the same pattern, how much water would it need? How much water did all 5 tumblers hold together? **The 6th tumbler would need 250 ml. All 5 held 500 ml together.**. Each tumbler has 50 ml more than the one before. So the next one is 200 + 50 = 250 ml. To find the total, add them: 0 + 50 + 100 + 150 + 200. Pair them up: 50 + 150 = 200, and 0 + 200 = 200. That makes 400, plus the 100 in the middle, which is 500 ml. That is half a litre. (queues `math.patterns.number-patterns.L3`)
 - In the human line, 8 people passed a shoulder squeeze from one end to the other. It took 4 seconds. On average, how long did each person take to pass it on? **Half a second each.**. 4 seconds were shared between 8 people. 4 divided by 8 is a half. Check: two people take one second, because a half and a half make one. So 8 people take 4 seconds. Sound is far faster. In one second it travels about 343 metres through the air. (queues `math.fractions.halves-and-quarters.L3`)
-- In the Vibration Hunt, a child found these sounds: fridge (solid), clock (solid), crow (body), fan (air), steel glass (solid), own voice (body), pressure cooker whistle (air), door creak (solid), sister singing (body), toy guitar (string). Make a tally of each kind. Which kind was found most? **Solid: 4. Body: 3. Air: 2. String: 1. Skin: 0. Solid things were found most.**. Go through the list and make one tally mark for each sound under its kind. Fridge, clock, steel glass and door are solid: 4. Crow, own voice and sister are body: 3. Fan and whistle are air: 2. The toy guitar is string: 1. No drums, so skin is 0. The biggest count is 4, for solid. (queues `math.data.sorting-and-tallies.L3`)
+- In the Vibration Hunt, a child found these sounds: fridge (solid), clock (solid), crow (body), fan (air), steel glass (solid), own voice (body), pressure cooker whistle (air), door creak (solid), friend singing (body), toy guitar (string). Make a tally of each kind. Which kind was found most? **Solid: 4. Body: 3. Air: 2. String: 1. Skin: 0. Solid things were found most.**. Go through the list and make one tally mark for each sound under its kind. Fridge, clock, steel glass and door are solid: 4. Crow, own voice and friend are body: 3. Fan and whistle are air: 2. The toy guitar is string: 1. No drums, so skin is 0. The biggest count is 4, for solid. (queues `math.data.sorting-and-tallies.L3`)
 
 ## Song
 Everything Hums (sci.sound.L3): Topic-level song
 
 ## Links
-- [PhET Sound Waves](https://phet.colorado.edu/en/simulations/sound-waves) · simulation: A free online simulation. Watch a speaker push air molecules into bunches, and see what happens when the air is taken away.
-- [Chrome Music Lab](https://musiclab.chromeexperiments.com/) · interactive: Free music experiments in the browser, including strings you can pluck and a picture of your own voice's vibrations.
-- [NASA Universe of Sound](https://chandra.si.edu/sound/) · interactive: Real space data turned into sounds, including the Perseus black hole ripples. Remember: space between the planets is silent.
-- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for sound and vibration.
-- [Sangeet Natak Akademi](https://www.sangeetnatak.gov.in/) · interactive: India's national academy of music, dance and drama. Look at its pictures and archives of Indian instruments.
-- [National Science Centre](https://www.nscdelhi.org/) · place · New Delhi: A large science centre with hands-on exhibits about sound and vibration.
-- [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum. Look for exhibits about sound, waves and musical instruments.
-- [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: A science museum in the city where C.V. Raman did his work on drums and light.
-- [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with many hands-on exhibits, including ones about sound.
-- [A music class, a temple or a drum maker's shop near you]() · place · anywhere: Ask a tabla or mridangam teacher to show how they tune their drum. Watch the skin, and feel a temple bell buzz after it rings.
+- [PhET Sound Waves](https://phet.colorado.edu/en/simulations/sound-waves) · simulation: 
+- [Chrome Music Lab](https://musiclab.chromeexperiments.com/) · interactive: 
+- [NASA Universe of Sound](https://chandra.si.edu/sound/) · interactive: 
+- [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: 
+- [Sangeet Natak Akademi](https://www.sangeetnatak.gov.in/) · interactive: 
+- [National Science Centre](https://www.nscdelhi.org/) · place · New Delhi: 
+- [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: 
+- [Birla Industrial and Technological Museum](https://www.bitm.gov.in) · place · Kolkata: 
+- [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: 
+- [A music class, a temple or a drum maker's shop near you]() · place · anywhere: 
 
 ## Things to buy
-- [30 cm ruler, plastic or steel](https://www.amazon.in/s?k=30+cm+steel+ruler) (tool): The sound source in the Twanging Ruler experiment. Used in e1. 
-- [Balloons](https://www.amazon.in/s?k=balloons+pack) (material): The drum skin in the Atta Trick, and the frog squeal in Animal Sound Makers. Used in e3, a6, p1. 
-- [Rubber bands of different thicknesses](https://www.amazon.in/s?k=rubber+bands+assorted+sizes) (material): The strings of the Rubber-band Veena and the One Band challenge. Used in a4, c1, p1. 
-- [Sounds All Around, by Wendy Pfeffer (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=Sounds+All+Around+Wendy+Pfeffer) (book): A clear, accurate picture book about vibrations and how animals use sound, for ages 4 to 8. Used in a1. If bought, read it together after the Vibration Hunt.
-- [Good Vibrations, by Evelyn Glennie](https://www.amazon.in/s?k=Good+Vibrations+Evelyn+Glennie) (book): For the parent. The deaf percussionist's own story of feeling music through her body. Read a few pages aloud for the doorbell challenge. Used in c2. If bought, read a short part aloud before the doorbell challenge.
+- [30 cm ruler, plastic or steel](https://www.amazon.in/s?k=30+cm+steel+ruler) (tool):  Used in e1. 
+- [Balloons](https://www.amazon.in/s?k=balloons+pack) (material):  Used in e3, a6, p1. 
+- [Rubber bands of different thicknesses](https://www.amazon.in/s?k=rubber+bands+assorted+sizes) (material):  Used in a4, c1, p1. 
+- [Sounds All Around, by Wendy Pfeffer (Let's-Read-and-Find-Out Science)](https://www.amazon.in/s?k=Sounds+All+Around+Wendy+Pfeffer) (book):  Used in a1. 
+- [Good Vibrations, by Evelyn Glennie](https://www.amazon.in/s?k=Good+Vibrations+Evelyn+Glennie) (book):  Used in c2. 
 
 ## Warm-up
 - Every sound starts with something ____. → Vibrating, which means moving quickly back and forth.
@@ -880,7 +858,7 @@ Everything Hums (sci.sound.L3): Topic-level song
 - Is there sound in space? → No. There is almost no air to pass the vibration along.
 - Does air fly from a drum to your ear? → No. Only a pattern of pushes travels. The air stays where it is.
 - What is the black circle on a tabla called? → The syahi.
-- How does a cricket chirp? → They rub their wings together.
+- How does a cricket chirp? → A male cricket rubs his wings together.
 - Shorter ruler sticking out: higher or lower sound? → Higher. It vibrates faster.
 - Which Indian scientist studied the tabla and the veena? → C.V. Raman.
 - Sound too low for people to hear, like some elephant rumbles, is called… → Infrasound.

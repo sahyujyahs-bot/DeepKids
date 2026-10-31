@@ -1,0 +1,1981 @@
+{
+ "cat": "home",
+ "acts": [
+  {
+   "id": "home-folding-clothes",
+   "name": "Folding clothes",
+   "words": [
+    "folded clothes",
+    "folding clothes",
+    "folding laundry",
+    "folded the clothes",
+    "arranged cupboard"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:shapes-space",
+     "why": "When you fold a shirt in half and then in half again, you are making equal rectangles."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "Folding a cloth in half and then in half again makes quarters, and four quarters make one whole cloth."
+    },
+    {
+     "k": "math:patterns",
+     "why": "When you stack the shirts in the same order every time, you are making a pattern."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Soft cotton folds easily but a stiff cardboard box does not, because materials are different."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "When a towel is folded exactly in half, both sides match, which is symmetry."
+    }
+   ]
+  },
+  {
+   "id": "home-washing-dishes",
+   "name": "Washing dishes",
+   "words": [
+    "washed dishes",
+    "washing dishes",
+    "washing utensils",
+    "bartan",
+    "did the dishes",
+    "washed vessels"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Soap and rubbing lift the oil and germs off a plate so it is clean to eat from."
+    },
+    {
+     "k": "unit|sci.states.liquids-up-close.L3",
+     "why": "Oil and water do not mix, so you need soap to pull the oil off the plate."
+    },
+    {
+     "k": "unit|sci.water.saving-water.L3",
+     "why": "If you turn off the tap while you scrub, you save a lot of water."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "Steel plates, glass and plastic are washed differently because each material behaves differently."
+    },
+    {
+     "k": "math:capacity",
+     "why": "A big vessel holds more water than a small katori, and you can compare how many small ones fill the big one."
+    }
+   ]
+  },
+  {
+   "id": "home-sweeping",
+   "name": "Sweeping and mopping the floor",
+   "words": [
+    "swept",
+    "sweeping",
+    "jhadu",
+    "mopping",
+    "pocha",
+    "swept the floor",
+    "cleaned the floor"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "When you push the broom, the dust moves the way you push it."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Sweeping and mopping remove dust and germs from the floor where we sit and play."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "A wet floor has less friction, so it is easy to slip, which is why we walk carefully after mopping."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "The wet floor dries because the water slowly turns into vapour in the air."
+    }
+   ]
+  },
+  {
+   "id": "home-watering-plants",
+   "name": "Watering plants",
+   "words": [
+    "watered plants",
+    "watering plants",
+    "watering the plants",
+    "paudhe",
+    "water the garden",
+    "tulsi"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.plants.what-plants-need.L3",
+     "why": "Plants need water, light and air, and you gave them the water."
+    },
+    {
+     "k": "unit|sci.plants.water-transport.L3",
+     "why": "The water you pour on the soil climbs up through the roots and stem to the leaves."
+    },
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "Dry soil takes water in, and the roots hold the wet soil together."
+    },
+    {
+     "k": "math:capacity",
+     "why": "You can count how many mugs of water it takes to water all the pots."
+    },
+    {
+     "k": "unit|sci.water.saving-water.L3",
+     "why": "Watering in the morning or evening means less water dries up in the hot sun."
+    }
+   ]
+  },
+  {
+   "id": "home-fixing-tap",
+   "name": "Fixing a leaking tap",
+   "words": [
+    "leaking tap",
+    "dripping tap",
+    "fixed the tap",
+    "plumber",
+    "washer",
+    "tap leak"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.water.saving-water.L3",
+     "why": "A tap that drips even a little can waste many litres of water in a day."
+    },
+    {
+     "k": "math:capacity",
+     "why": "If a tap drips one cup in an hour, you can work out how many cups it wastes in a day."
+    },
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "A tap handle is a lever, and it turns a screw inside that closes the water off."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "Rubber is used for the washer inside a tap because it is soft and squeezes tight to stop water."
+    },
+    {
+     "k": "unit|sci.community.community-and-helpers.L3",
+     "why": "The plumber is a community helper who knows how pipes and taps work."
+    }
+   ]
+  },
+  {
+   "id": "home-cycle-puncture",
+   "name": "Fixing a cycle puncture",
+   "words": [
+    "puncture",
+    "cycle puncture",
+    "cycle repair",
+    "fixed the cycle",
+    "tyre puncture",
+    "cycle tube",
+    "hawa bharna"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.air.air-around-us.L3",
+     "why": "Air fills the tube and takes up space, so it makes the tyre hard and round."
+    },
+    {
+     "k": "unit|sci.making-things.design-and-build.L3",
+     "why": "You found the problem, fixed it, and tested it again, just like a maker does."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Rubber stretches and springs back, which is why it is good for tubes and tyres."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "The grooves on a tyre grip the road with friction so the cycle does not slip."
+    },
+    {
+     "k": "math:problem-solving",
+     "why": "To find the hole you tried one part at a time, and that is how we solve problems."
+    }
+   ]
+  },
+  {
+   "id": "home-changing-bulb",
+   "name": "Changing a bulb",
+   "words": [
+    "changed bulb",
+    "changing bulb",
+    "bulb",
+    "fuse bulb",
+    "led bulb",
+    "tube light",
+    "bulb fused"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.electricity.simple-circuits.L3",
+     "why": "A bulb lights only when the circuit makes a complete loop, so a broken bulb breaks the loop."
+    },
+    {
+     "k": "unit|sci.energy.energy-around-us.L3",
+     "why": "A bulb changes electrical energy into light, and some of it into heat."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "A bulb that has just been on is hot, so we switch it off and let it cool first."
+    },
+    {
+     "k": "unit|sci.community.community-and-helpers.L3",
+     "why": "The electrician is a helper who knows how to work with electricity safely."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "You can compare how long an LED bulb and an old bulb last and put it in a chart."
+    }
+   ]
+  },
+  {
+   "id": "home-sorting-waste",
+   "name": "Sorting waste",
+   "words": [
+    "sorted waste",
+    "waste sorting",
+    "dry waste",
+    "wet waste",
+    "kachra",
+    "dustbin",
+    "segregation",
+    "segregated garbage"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.waste.sorting-waste.L3",
+     "why": "When you put wet and dry waste in different bins, each kind can be used again in the right way."
+    },
+    {
+     "k": "unit|sci.materials.sorting-materials.L3",
+     "why": "You chose a rule, like paper, plastic or peel, and the rule made the groups."
+    },
+    {
+     "k": "unit|sci.waste.compost-and-disposal.L3",
+     "why": "Peels and leftover vegetables in the wet bin can turn into compost for plants."
+    },
+    {
+     "k": "unit|sci.waste.reduce-reuse-recycle.L3",
+     "why": "A peel rots in a few days but a plastic bag stays for years, so we try to use less plastic."
+    },
+    {
+     "k": "unit|sci.environment.pollution.L3",
+     "why": "Waste thrown on the road ends up in drains and rivers and makes them dirty."
+    }
+   ]
+  },
+  {
+   "id": "home-laundry",
+   "name": "Washing and drying clothes",
+   "words": [
+    "laundry",
+    "washing clothes",
+    "washed clothes",
+    "dhobi",
+    "drying clothes",
+    "clothesline",
+    "kapde dhoye",
+    "hung clothes"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "Wet clothes dry because the water turns into vapour and goes into the air."
+    },
+    {
+     "k": "unit|sci.weather.wind-and-air.L3",
+     "why": "Clothes dry faster on a windy day because moving air carries the vapour away."
+    },
+    {
+     "k": "unit|sci.sky.the-sun.L3",
+     "why": "Sunshine warms the wet clothes, and the warmth helps the water leave faster."
+    },
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "Detergent dissolves in water and carries the dirt away from the cloth."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Cotton soaks up a lot of water but nylon does not, so they dry at different speeds."
+    }
+   ]
+  },
+  {
+   "id": "home-packing-bag",
+   "name": "Packing a bag",
+   "words": [
+    "packed bag",
+    "packing bag",
+    "school bag",
+    "packed my bag",
+    "packing for trip",
+    "suitcase",
+    "packed the suitcase"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:weight",
+     "why": "A bag with many books is heavy, and you can compare the weight of different things."
+    },
+    {
+     "k": "math:estimation",
+     "why": "Before packing, you guess if everything will fit, and then you check."
+    },
+    {
+     "k": "math:problem-solving",
+     "why": "Fitting big and small things in a bag so everything fits is a puzzle to solve."
+    },
+    {
+     "k": "unit|sci.gravity.weight-and-mass.L3",
+     "why": "A heavy bag feels heavy because Earth pulls it down more strongly."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Counting your things against a list so nothing is left behind."
+    }
+   ]
+  },
+  {
+   "id": "home-cleaning-room",
+   "name": "Cleaning my room",
+   "words": [
+    "cleaned room",
+    "cleaning room",
+    "tidied",
+    "tidy room",
+    "arranged room",
+    "cleaned my room",
+    "room cleaning"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.materials.sorting-materials.L3",
+     "why": "Putting books, toys and clothes in their own places is sorting by a rule."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Lining up books by size or colour makes a pattern."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "A clean room has less dust and fewer germs, so it is healthier to sleep in."
+    },
+    {
+     "k": "unit|sci.family.family.L3",
+     "why": "Everyone in a family does some work to keep the home going."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "You can tell your parent what you cleaned and where everything is kept."
+    }
+   ]
+  },
+  {
+   "id": "home-using-tools",
+   "name": "Using tools",
+   "words": [
+    "hammer",
+    "screwdriver",
+    "pliers",
+    "spanner",
+    "used a hammer",
+    "toolbox"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "A hammer, a screwdriver and pliers are simple machines that make a small push do a big job."
+    },
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "When you hit a nail, your push is passed through the hammer into the nail."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "Tools are made of steel because it is hard and strong, and handles are wood or plastic so they feel comfortable."
+    },
+    {
+     "k": "unit|sci.making-things.design-and-build.L3",
+     "why": "Each tool is designed for one job, and picking the right tool is part of building."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Measuring before you cut or drill helps you get it right the first time."
+    }
+   ]
+  },
+  {
+   "id": "home-saving-electricity",
+   "name": "Saving electricity",
+   "words": [
+    "switch off",
+    "switched off the fan",
+    "saving electricity",
+    "light off",
+    "electricity bill",
+    "power cut",
+    "switch off lights"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.energy.energy-around-us.L3",
+     "why": "Lights and fans use energy, so switching them off when we leave saves energy."
+    },
+    {
+     "k": "math:money",
+     "why": "The electricity bill is money we pay for the energy we use, so using less costs less."
+    },
+    {
+     "k": "unit|sci.electricity.simple-circuits.L3",
+     "why": "A switch breaks the loop, so electricity stops flowing and the light goes off."
+    },
+    {
+     "k": "unit|sci.environment.conservation.L3",
+     "why": "Using less electricity helps because making electricity uses coal, water and other resources."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "You can note the meter reading each day and see on a graph when you use the most."
+    }
+   ]
+  },
+  {
+   "id": "home-saving-water",
+   "name": "Saving water at home",
+   "words": [
+    "saving water",
+    "bucket bath",
+    "closed the tap",
+    "water saving",
+    "turned off tap",
+    "water tank",
+    "reused water"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.water.saving-water.L3",
+     "why": "Closing the tap while brushing saves many litres of clean water."
+    },
+    {
+     "k": "math:capacity",
+     "why": "One bucket holds more than a mug, and you can count how many mugs fill a bucket."
+    },
+    {
+     "k": "unit|sci.water.water-sources-and-uses.L3",
+     "why": "Our water comes from rivers, wells and rain, and cleaning it takes work, so we should not waste it."
+    },
+    {
+     "k": "social:water-resources",
+     "why": "Many villages and cities have too little water, so every drop saved helps someone."
+    },
+    {
+     "k": "unit|sci.environment.conservation.L3",
+     "why": "Using water carefully means there is enough for later too."
+    }
+   ]
+  },
+  {
+   "id": "home-sewing",
+   "name": "Sewing and stitching",
+   "words": [
+    "sewing",
+    "stitching",
+    "needle and thread",
+    "button",
+    "silai",
+    "sewed a button",
+    "stitched",
+    "embroidery"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "Thread comes from cotton plants, silk worms or sheep's wool, and cloth is made by weaving thread."
+    },
+    {
+     "k": "unit|sci.chemistry.polymers.L3",
+     "why": "Silk, wool and cotton thread are made of very long molecules called polymers."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Stitches in a row make a pattern that repeats."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Measuring the cloth with a tape before you cut it helps the stitches fit."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "A tailor does this work every day to make clothes for others."
+    }
+   ]
+  },
+  {
+   "id": "home-cooking-helping",
+   "name": "Helping in the kitchen",
+   "words": [
+    "helped amma cook",
+    "chopped",
+    "cutting vegetables",
+    "helped cook",
+    "helped in kitchen",
+    "peeled",
+    "rasoi"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "The vegetables you cut came from plants, and their energy came from the Sun."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "Cutting a tomato in half, then quarters, shows halves and quarters."
+    },
+    {
+     "k": "unit|sci.food.nutrients.L3",
+     "why": "Different vegetables give your body different nutrients, like vitamins and fibre."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "We wash our hands and the vegetables first so germs do not get into the food."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "The stove heats the pan, and the heat cooks the food."
+    }
+   ]
+  },
+  {
+   "id": "home-setting-table",
+   "name": "Laying the table or dastarkhan",
+   "words": [
+    "laid the table",
+    "set the table",
+    "lay the table",
+    "plates",
+    "served food",
+    "serving food",
+    "dastarkhan",
+    "thali"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:multiply-divide",
+     "why": "If four people each need two items, you can multiply to count how many to put out."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "You count the plates, spoons and glasses so everyone gets one."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "Sharing the roti equally among everyone is dividing."
+    },
+    {
+     "k": "unit|sci.food.balanced-diet.L3",
+     "why": "A thali with dal, vegetables, rice and roti gives the body many kinds of food."
+    },
+    {
+     "k": "unit|sci.family.family.L3",
+     "why": "Setting the table for everyone is one way a family looks after each other."
+    }
+   ]
+  },
+  {
+   "id": "home-making-bed",
+   "name": "Making the bed",
+   "words": [
+    "made bed",
+    "making bed",
+    "folded blanket",
+    "bedsheet",
+    "spread bedsheet",
+    "changed bedsheet"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:shapes-space",
+     "why": "A bedsheet is a rectangle, and you pull the corners to make it flat."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "When you set the pillows evenly on both sides, they match like a mirror."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "A tidy bed helps you rest, and sleep lets your body and brain recover."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Cotton sheets are soft and soak up sweat, so they are good to sleep on."
+    }
+   ]
+  },
+  {
+   "id": "home-repairing-things",
+   "name": "Repairing broken things",
+   "words": [
+    "repaired",
+    "glue",
+    "glued",
+    "mended",
+    "fix toy",
+    "broken toy"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.making-things.design-and-build.L3",
+     "why": "Finding what is broken, trying a fix and testing it is how makers work."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "Glue works on paper and wood but tape may be better on plastic, so the material decides the fix."
+    },
+    {
+     "k": "unit|sci.how-we-know.fair-tests.L3",
+     "why": "If you try a different fix, change one thing at a time so you know what worked."
+    },
+    {
+     "k": "math:problem-solving",
+     "why": "Working out why something stopped working is a problem to solve step by step."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "The cobbler, the mechanic and the electrician earn their living by fixing things."
+    }
+   ]
+  },
+  {
+   "id": "home-painting-wall",
+   "name": "Painting or whitewashing",
+   "words": [
+    "painting wall",
+    "white wash",
+    "whitewash",
+    "painted the wall",
+    "diwali cleaning",
+    "colour wall"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "Mixing two paint colours gives a new colour, and white makes it lighter."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "Wet paint dries when the water in it turns to vapour and goes into the air."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "To know how much paint you need, you think about how big the wall is."
+    },
+    {
+     "k": "unit|sci.community.festivals.L3",
+     "why": "Many families clean and paint their homes before festivals like Diwali."
+    },
+    {
+     "k": "math:estimation",
+     "why": "You guess how many tins of paint the room needs before buying."
+    }
+   ]
+  },
+  {
+   "id": "home-fan-cooler",
+   "name": "Using a fan or cooler",
+   "words": [
+    "cooler",
+    "ceiling fan",
+    "air cooler",
+    "summer heat",
+    "ac remote"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.weather.wind-and-air.L3",
+     "why": "A fan moves the air, and moving air makes sweat dry quickly so you feel cooler."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "A desert cooler works because water turning into vapour takes heat away."
+    },
+    {
+     "k": "unit|sci.energy.heat-moves.L3",
+     "why": "Heat moves from your warm body to the cooler air around you."
+    },
+    {
+     "k": "unit|sci.motion.spinning.L3",
+     "why": "The blades of a fan spin around a centre and push the air."
+    },
+    {
+     "k": "unit|sci.electricity.simple-circuits.L3",
+     "why": "A fan works because electricity makes a complete loop through its motor."
+    }
+   ]
+  },
+  {
+   "id": "home-rangoli-floor",
+   "name": "Making rangoli or kolam at the door",
+   "words": [
+    "rangoli",
+    "kolam",
+    "muggu",
+    "alpana",
+    "made rangoli",
+    "door design"
+   ],
+   "type": "did",
+   "skill": "Rangoli",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "unit|sci.patterns-symmetry.symmetry-in-nature.L3",
+     "why": "Most rangoli designs match on both sides, which is symmetry."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "If you fold a rangoli down the middle, the two halves would match."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The dots and curves repeat in a pattern, and you can say what comes next."
+    },
+    {
+     "k": "unit|sci.community.festivals.L3",
+     "why": "Families make rangoli at festivals to welcome guests and celebrate."
+    },
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "Mixing coloured powders makes new colours, like red and yellow making orange."
+    }
+   ]
+  },
+  {
+   "id": "home-gardening",
+   "name": "Gardening and planting",
+   "words": [
+    "gardening",
+    "planted",
+    "planting",
+    "sowed seeds",
+    "kitchen garden",
+    "dug soil",
+    "potting",
+    "grew plant"
+   ],
+   "type": "did",
+   "skill": "Gardening",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "unit|sci.seeds-and-life-cycles.seeds-and-germination.L3",
+     "why": "A seed needs water, warmth and air to sprout, and you gave it a place to start."
+    },
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "Soil is made of broken rock and dead plants, and worms mix it."
+    },
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "Roots hold the plant and drink water, the stem carries it, and leaves make food."
+    },
+    {
+     "k": "unit|sci.ecology.cycles-and-decomposers.L3",
+     "why": "Dead leaves and peels rot and turn back into soil that feeds new plants."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "You can measure your plant each week and see how tall it has grown."
+    }
+   ]
+  },
+  {
+   "id": "home-pest-insects",
+   "name": "Spotting insects and ants at home",
+   "words": [
+    "ants",
+    "cockroach",
+    "mosquito",
+    "lizard",
+    "insects at home",
+    "spider",
+    "mosquito net",
+    "flies"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.microorganisms.parasites.L3",
+     "why": "Mosquitoes bite to feed on blood and can carry illness from one person to another."
+    },
+    {
+     "k": "unit|sci.animals.invertebrates.L3",
+     "why": "Ants, spiders and flies have no backbone, and their hard outer cases hold their shape."
+    },
+    {
+     "k": "unit|sci.animals.animals-around-us.L3",
+     "why": "Lizards and ants also live in our homes, and they find food and shelter there."
+    },
+    {
+     "k": "unit|sci.microorganisms.germs.L3",
+     "why": "Flies can carry germs from dirty places to food, so we cover food."
+    },
+    {
+     "k": "unit|sci.ecology.food-chains.L3",
+     "why": "A lizard eats insects, so it keeps the number of insects down."
+    }
+   ]
+  },
+  {
+   "id": "home-cooking-gas-safety",
+   "name": "Kitchen and fire safety",
+   "words": [
+    "gas stove",
+    "matchbox",
+    "lighting diya",
+    "fire safety",
+    "gas cylinder",
+    "agarbatti",
+    "lit lamp"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.changes.fire.L3",
+     "why": "A flame needs fuel, air and heat, and taking away any one puts it out."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "We keep matches and the stove for grown-ups, and keep cloth away from flames."
+    },
+    {
+     "k": "unit|sci.energy.heat-moves.L3",
+     "why": "The handle of a hot pan gets hot because heat moves through metal, so we use a cloth."
+    },
+    {
+     "k": "unit|sci.air.air-around-us.L3",
+     "why": "A candle under a glass goes out when it uses up the air inside."
+    }
+   ]
+  },
+  {
+   "id": "home-ironing-clothes",
+   "name": "Ironing clothes",
+   "words": [
+    "ironing",
+    "pressing clothes",
+    "istri",
+    "press wala"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.energy.energy-around-us.L3",
+     "why": "An iron changes electrical energy into heat that smooths the cloth."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Cotton can take a hot iron but nylon melts, so each cloth needs its own heat."
+    },
+    {
+     "k": "unit|sci.chemistry.polymers.L3",
+     "why": "Cloth is made of long thread molecules, and heat and a press help them lie flat."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "An iron stays hot after it is switched off, so we are careful and ask a grown-up."
+    }
+   ]
+  },
+  {
+   "id": "home-cooking-rotis",
+   "name": "Making rotis or dosa",
+   "words": [
+    "roti",
+    "chapati",
+    "made rotis",
+    "dosa",
+    "paratha",
+    "rolling roti",
+    "dough",
+    "atta"
+   ],
+   "type": "did",
+   "skill": "Cooking",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "math:shapes-space",
+     "why": "You roll a ball of dough into a flat circle."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "Roti comes from wheat grown in a field, ground into atta."
+    },
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "Water mixes with flour to make dough, but the flour does not dissolve like sugar does."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "The hot tawa cooks the roti, and the dough changes and cannot go back."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "Half a roti and a quarter of a roti show fractions you can eat."
+    }
+   ]
+  },
+  {
+   "id": "home-cooking-rice-dal",
+   "name": "Cooking rice and dal",
+   "words": [
+    "rice",
+    "cooker",
+    "pressure cooker",
+    "whistle",
+    "cooked rice",
+    "khichdi",
+    "sambar"
+   ],
+   "type": "did",
+   "skill": "Cooking",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "Heat softens the rice and dal as they cook in water."
+    },
+    {
+     "k": "math:capacity",
+     "why": "Cooks measure water with the rice, often two cups of water to one of rice."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "The cooker whistles when steam builds up and pushes out."
+    },
+    {
+     "k": "unit|sci.food.nutrients.L3",
+     "why": "Dal gives protein and rice gives energy, so together they help the body."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "You count the whistles or the minutes to know when it is ready."
+    }
+   ]
+  },
+  {
+   "id": "home-shopping-sabzi",
+   "name": "Going to the sabzi market or shop",
+   "words": [
+    "sabzi",
+    "vegetable market",
+    "grocery",
+    "kirana",
+    "bought vegetables",
+    "supermarket",
+    "shopping",
+    "mandi"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:money",
+     "why": "You pay money and get change back, which is adding and taking away."
+    },
+    {
+     "k": "math:weight",
+     "why": "Vegetables are weighed in kilos and grams, so you can compare heavy and light."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "The vegetables came from farms and were brought to the market by trucks and carts."
+    },
+    {
+     "k": "social:money-markets",
+     "why": "Sellers and buyers agree on a price, and that is how a market works."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "The farmer, the trader and the shopkeeper all do work that brings food to us."
+    }
+   ]
+  },
+  {
+   "id": "home-budgeting",
+   "name": "Counting pocket money or saving",
+   "words": [
+    "pocket money",
+    "savings",
+    "piggy bank",
+    "gullak",
+    "saved money",
+    "saving",
+    "counting coins"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:money",
+     "why": "Coins and notes add up, and you can count how much you have saved."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "If you have 50 rupees and spend 20, you can subtract to see what is left."
+    },
+    {
+     "k": "math:problem-solving",
+     "why": "Working out how many weeks to save for a toy is a planning problem."
+    },
+    {
+     "k": "social:money-markets",
+     "why": "Money is what we use in markets to swap for things we need."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "You can chart your savings each week and watch it grow."
+    }
+   ]
+  },
+  {
+   "id": "home-power-cut-candle",
+   "name": "Power cut",
+   "words": [
+    "power cut",
+    "load shedding",
+    "inverter",
+    "no electricity",
+    "torch",
+    "candle light",
+    "blackout",
+    "light went"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.electricity.simple-circuits.L3",
+     "why": "When the power goes, the loop is broken somewhere, so the bulb goes dark."
+    },
+    {
+     "k": "unit|sci.energy.stored-energy.L3",
+     "why": "A torch or inverter works because a battery stores energy until you need it."
+    },
+    {
+     "k": "unit|sci.light.how-we-see.L3",
+     "why": "In the dark we cannot see, because no light is coming from things into our eyes."
+    },
+    {
+     "k": "unit|sci.senses.five-senses.L3",
+     "why": "In the dark, your ears and hands notice more to help you find your way."
+    }
+   ]
+  },
+  {
+   "id": "home-recharging",
+   "name": "Charging a phone or battery",
+   "words": [
+    "charging",
+    "charger",
+    "phone charging",
+    "torch cell",
+    "remote cell",
+    "power bank"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.energy.stored-energy.L3",
+     "why": "A battery stores energy that is used later to run a toy or phone."
+    },
+    {
+     "k": "unit|sci.electricity.simple-circuits.L3",
+     "why": "A cell, a wire and a bulb need to form a full loop for the bulb to light."
+    },
+    {
+     "k": "unit|sci.energy.energy-around-us.L3",
+     "why": "Electricity can be changed into light, sound and movement."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "You can read how many hours the battery lasts and compare them."
+    }
+   ]
+  },
+  {
+   "id": "home-cleaning-fan-window",
+   "name": "Dusting and cleaning windows",
+   "words": [
+    "dusting",
+    "cleaned windows",
+    "window cleaning",
+    "cleaned the fan",
+    "wiped",
+    "cobweb",
+    "cleaned glass"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.light.transparent-opaque.L3",
+     "why": "Glass lets light through, but dust makes it less see-through."
+    },
+    {
+     "k": "unit|sci.air.air-around-us.L3",
+     "why": "Dust floats in air, and when you shake a cloth you can see it."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Dust can make us sneeze, so cleaning helps us breathe better."
+    },
+    {
+     "k": "unit|sci.light.reflection.L3",
+     "why": "A clean glass or mirror shows a clearer picture because more light bounces off it."
+    }
+   ]
+  },
+  {
+   "id": "home-pet-care",
+   "name": "Looking after a pet",
+   "words": [
+    "fed the dog",
+    "feeding pet",
+    "walked the dog",
+    "parrot",
+    "fish tank",
+    "aquarium"
+   ],
+   "type": "did",
+   "skill": "Pet care",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "unit|sci.animals.animals-around-us.L3",
+     "why": "Pets need food, water and shelter every day, just as we do."
+    },
+    {
+     "k": "unit|sci.animals.animal-minds.L3",
+     "why": "A dog remembers you and shows when it is happy or scared."
+    },
+    {
+     "k": "unit|sci.basic-needs.basic-needs.L3",
+     "why": "An animal needs air, water, food and a home, the same basic things we need."
+    },
+    {
+     "k": "unit|sci.animal-behaviour.animal-learning.L3",
+     "why": "When you teach a dog to sit, it learns by trying and being rewarded."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "A pet needs food and walks at fixed times each day, so you learn to keep a routine."
+    }
+   ]
+  },
+  {
+   "id": "home-sibling-help",
+   "name": "Looking after a younger sibling or grandparent",
+   "words": [
+    "younger brother",
+    "baby sister",
+    "helped dadi",
+    "grandparent",
+    "helped nani",
+    "took care of",
+    "looked after"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.family.family.L3",
+     "why": "Everyone in a family helps each other, and each person does a different job."
+    },
+    {
+     "k": "unit|sci.body.growing-old.L3",
+     "why": "Grandparents move slowly because their bodies have changed with age, so we are patient."
+    },
+    {
+     "k": "unit|sci.me-and-others.me-and-others.L3",
+     "why": "A small child sees things differently from you, so you can think how they feel."
+    },
+    {
+     "k": "unit|sci.body.how-babies-grow.L3",
+     "why": "A baby grows quickly and needs help with food, sleep and cleaning."
+    },
+    {
+     "k": "social:family-community",
+     "why": "Caring for each other makes a family and a neighbourhood strong."
+    }
+   ]
+  },
+  {
+   "id": "home-guests-visitors",
+   "name": "Welcoming guests",
+   "words": [
+    "guests",
+    "relatives came",
+    "visitors",
+    "served tea",
+    "welcomed",
+    "mehmaan",
+    "atithi"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "eng:speak-listen",
+     "why": "Greeting people politely and listening when they talk are things we practise with guests."
+    },
+    {
+     "k": "social:family-community",
+     "why": "Guests and relatives connect our family with the wider community."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Welcoming guests with food and drink is a part of many Indian cultures."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "Sharing snacks equally among everyone is dividing into equal parts."
+    }
+   ]
+  },
+  {
+   "id": "home-seasonal-cleaning",
+   "name": "Diwali or Eid cleaning and decorating",
+   "words": [
+    "diwali cleaning",
+    "spring cleaning",
+    "decorated the house",
+    "torana",
+    "decorating",
+    "eid cleaning",
+    "christmas tree",
+    "festival preparation"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.community.festivals.L3",
+     "why": "Before a festival, many families clean and decorate the home to welcome it."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Different families decorate with diyas, lights, stars or flowers, and each has its own meaning."
+    },
+    {
+     "k": "math:patterns",
+     "why": "String lights and flower garlands repeat colours in a pattern."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "Many decorations such as stars and torans have matching sides."
+    },
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "Coloured lights and paper make new colours when they are mixed."
+    }
+   ]
+  },
+  {
+   "id": "home-recycling-craft",
+   "name": "Making something from waste",
+   "words": [
+    "craft from waste",
+    "best out of waste",
+    "reused",
+    "reuse",
+    "made from bottle",
+    "junk craft",
+    "recycled",
+    "cardboard craft"
+   ],
+   "type": "did",
+   "skill": "Craft",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "unit|sci.waste.reduce-reuse-recycle.L3",
+     "why": "Making a pen stand from a tin gives it a second life instead of throwing it away."
+    },
+    {
+     "k": "unit|sci.making-things.design-and-build.L3",
+     "why": "You plan it, build it, test it and improve it."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "Cardboard is light and easy to cut, while a tin is strong, so each is chosen for a job."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Bottles, boxes and tins are cylinders, cubes and cuboids."
+    },
+    {
+     "k": "unit|sci.environment.caring.L3",
+     "why": "Reusing things means less rubbish for the Earth."
+    }
+   ]
+  },
+  {
+   "id": "home-rainwater-monsoon",
+   "name": "Collecting rainwater and monsoon chores",
+   "words": [
+    "rainwater",
+    "rain harvesting",
+    "bucket under roof",
+    "monsoon",
+    "leaking roof",
+    "umbrella",
+    "raincoat",
+    "rain came"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.water.water-cycle.L3",
+     "why": "Rain comes from water that rose as vapour, formed clouds and fell down."
+    },
+    {
+     "k": "unit|sci.water.saving-water.L3",
+     "why": "Collecting rainwater means we waste less drinking water."
+    },
+    {
+     "k": "unit|sci.weather.weather.L3",
+     "why": "A rain gauge or a jar outdoors shows how much rain has fallen."
+    },
+    {
+     "k": "math:capacity",
+     "why": "You can measure the water in the bucket by pouring it into a measuring jug."
+    },
+    {
+     "k": "unit|sci.making-things.houses-and-shelter.L3",
+     "why": "A good roof keeps rain out, and a leak shows where the roof needs fixing."
+    }
+   ]
+  },
+  {
+   "id": "home-water-filter",
+   "name": "Filtering and boiling water",
+   "words": [
+    "boiled water",
+    "water filter",
+    "purifier",
+    "drinking water",
+    "filter water",
+    "matka",
+    "pot of water"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.water.water-sources-and-uses.L3",
+     "why": "Water from a tap or well may have germs, so we filter or boil it before drinking."
+    },
+    {
+     "k": "unit|sci.water.saving-water.L3",
+     "why": "Mud sinks to the bottom, and a cloth or filter catches the rest."
+    },
+    {
+     "k": "unit|sci.microorganisms.germs.L3",
+     "why": "Boiling kills the tiny germs that can make us ill."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "The water that rises as steam from the pot turns to drops on a lid."
+    },
+    {
+     "k": "unit|sci.energy.heat-moves.L3",
+     "why": "A matka stays cool because water seeping out evaporates and takes heat away."
+    }
+   ]
+  },
+  {
+   "id": "home-fridge-food",
+   "name": "Storing food and leftovers",
+   "words": [
+    "fridge",
+    "refrigerator",
+    "leftovers",
+    "stored food",
+    "kept in the fridge",
+    "pickle",
+    "tiffin",
+    "food went bad"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.food.food-safety.L3",
+     "why": "Food goes bad when germs grow in it, and the cold in the fridge slows them down."
+    },
+    {
+     "k": "unit|sci.microorganisms.germs.L3",
+     "why": "Mould on bread is a tiny living thing that grows in warm, damp places."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "The fridge takes heat out of the food, so the food stays cold."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "We note the date to know how many days food has been kept."
+    },
+    {
+     "k": "unit|sci.chemistry.reaction-speed.L3",
+     "why": "Food rots slowly in the cold and quickly in the heat, so speed of change depends on temperature."
+    }
+   ]
+  },
+  {
+   "id": "home-car-bike-wash",
+   "name": "Washing the car or bike",
+   "words": [
+    "washed car",
+    "car wash",
+    "bike wash",
+    "washed the bike",
+    "washed scooter",
+    "washing the cycle",
+    "cleaned cycle"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.states.liquids-up-close.L3",
+     "why": "Soapy water makes a skin of bubbles that lifts dirt off."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "Dirt sticks because of friction, and soapy water makes it slide off."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "The water dries off in the sun as it turns into vapour."
+    },
+    {
+     "k": "unit|sci.water.saving-water.L3",
+     "why": "Using a bucket instead of a running pipe saves lots of water."
+    }
+   ]
+  },
+  {
+   "id": "home-cycle-oiling",
+   "name": "Oiling and cleaning a cycle chain",
+   "words": [
+    "chain",
+    "cycle chain",
+    "greased",
+    "grease",
+    "cycle servicing",
+    "cycle service"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "Oil makes the chain slide more easily because it reduces friction."
+    },
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "The pedals, gears and wheels of a cycle are simple machines working together."
+    },
+    {
+     "k": "unit|sci.states.liquids-up-close.L3",
+     "why": "Oil is thick and slippery, so it stays on the chain better than water."
+    },
+    {
+     "k": "unit|sci.making-things.design-and-build.L3",
+     "why": "Looking after a machine keeps it working for longer."
+    }
+   ]
+  },
+  {
+   "id": "home-moving-furniture",
+   "name": "Moving furniture or heavy loads",
+   "words": [
+    "moved furniture",
+    "pushed the table",
+    "carried bucket",
+    "shifting house",
+    "moved the sofa",
+    "carrying load",
+    "rearranged furniture"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "You push or pull to move a heavy thing, and a bigger force moves a bigger load."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "A heavy box is hard to slide on a rough floor because of friction."
+    },
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "A trolley, wheels or a ramp help us move big loads with less effort."
+    },
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "A heavy thing is hard to start moving and hard to stop, because of inertia."
+    },
+    {
+     "k": "unit|sci.gravity.weight-and-mass.L3",
+     "why": "A heavy thing is hard to lift because Earth pulls it down strongly."
+    }
+   ]
+  },
+  {
+   "id": "home-hanging-pictures",
+   "name": "Hanging a picture, nail or shelf",
+   "words": [
+    "hung picture",
+    "shelf",
+    "drill",
+    "wall hook",
+    "put up a shelf",
+    "hung a frame",
+    "wall nail",
+    "made a shelf"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "A nail and a screw are simple machines that hold things in the wall."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "A shelf holds things up against gravity, which pulls them down."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Measuring and marking makes the shelf straight and level."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "Wood, steel and plastic are different in strength, so we choose wall plugs and screws for the weight."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "A level shelf makes a right angle with the wall."
+    }
+   ]
+  },
+  {
+   "id": "home-tailor-visit",
+   "name": "Visiting a tailor, cobbler or electrician",
+   "words": [
+    "tailor",
+    "cobbler",
+    "mochi",
+    "electrician",
+    "mechanic",
+    "carpenter",
+    "barber",
+    "plumber came"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:jobs-people-do",
+     "why": "Tailors, carpenters and electricians do skilled work that helps every home."
+    },
+    {
+     "k": "unit|sci.community.community-and-helpers.L3",
+     "why": "A neighbourhood runs because many helpers do different jobs."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "They choose cloth, wood, leather or wire depending on the job."
+    },
+    {
+     "k": "math:money",
+     "why": "We pay for their work, and they earn a living by it."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "A tailor or carpenter measures first, because a small mistake makes it not fit."
+    }
+   ]
+  },
+  {
+   "id": "home-cleaning-toilet-bath",
+   "name": "Cleaning the bathroom",
+   "words": [
+    "cleaned bathroom",
+    "bathroom",
+    "toilet cleaning",
+    "scrubbing",
+    "phenyl",
+    "cleaned toilet",
+    "bucket and mug"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "A clean bathroom stops germs spreading from person to person."
+    },
+    {
+     "k": "unit|sci.chemistry.acids-and-bases.L3",
+     "why": "Some cleaners are acids and some are bases, and mixing them is dangerous."
+    },
+    {
+     "k": "unit|sci.microorganisms.germs.L3",
+     "why": "Germs grow in wet places, so we scrub and dry the bathroom."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Gloves keep cleaners off our skin, and we never mix cleaners."
+    }
+   ]
+  },
+  {
+   "id": "home-drying-terrace",
+   "name": "Drying papad or grain on the terrace",
+   "words": [
+    "papad",
+    "dried chillies",
+    "dried grain",
+    "terrace",
+    "sun drying",
+    "dry in the sun",
+    "achar",
+    "sukhana"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "The Sun dries papad by turning its water into vapour."
+    },
+    {
+     "k": "unit|sci.sky.the-sun.L3",
+     "why": "The Sun's heat warms things and dries them, which is why we dry foods in summer."
+    },
+    {
+     "k": "unit|sci.food.food-safety.L3",
+     "why": "Drying removes the water that germs need, so dried food lasts for months."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "Chillies, grains and mango all came from plants."
+    }
+   ]
+  },
+  {
+   "id": "home-keeping-time-chores",
+   "name": "Doing a chore chart or daily routine",
+   "words": [
+    "chore chart",
+    "routine",
+    "timetable",
+    "daily chores",
+    "schedule",
+    "job chart",
+    "helped at home"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:time-calendar",
+     "why": "A routine puts jobs in order by the clock, such as bath, school and sleep."
+    },
+    {
+     "k": "unit|sci.family.family.L3",
+     "why": "Everyone doing their part helps the whole home."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "You can tick off chores and count how many you did each week."
+    },
+    {
+     "k": "math:patterns",
+     "why": "A weekly routine repeats the same pattern every seven days."
+    },
+    {
+     "k": "eng:write-sentences",
+     "why": "Writing your chore list in full sentences helps you practise writing."
+    }
+   ]
+  },
+  {
+   "id": "home-compost-bin",
+   "name": "Making compost",
+   "words": [
+    "compost",
+    "compost bin",
+    "vermicompost",
+    "earthworm",
+    "kitchen waste",
+    "khad",
+    "peels in the pit"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.waste.compost-and-disposal.L3",
+     "why": "Kitchen waste in a compost bin turns into soil that feeds plants."
+    },
+    {
+     "k": "unit|sci.ecology.cycles-and-decomposers.L3",
+     "why": "Worms, moulds and bacteria break dead things down into soil."
+    },
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "Compost makes the soil rich so plants can grow well."
+    },
+    {
+     "k": "unit|sci.plants.what-plants-need.L3",
+     "why": "Plants get nutrients from rich soil along with water and light."
+    },
+    {
+     "k": "unit|sci.waste.reduce-reuse-recycle.L3",
+     "why": "Turning peels into compost means less rubbish goes out of the house."
+    }
+   ]
+  },
+  {
+   "id": "home-solar-heater",
+   "name": "Using solar light or a solar heater",
+   "words": [
+    "solar heater",
+    "solar panel",
+    "solar lamp",
+    "geyser",
+    "hot water"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sky.the-sun.L3",
+     "why": "The Sun gives out light and heat, and a solar heater catches its heat."
+    },
+    {
+     "k": "unit|sci.energy.energy-around-us.L3",
+     "why": "A solar panel changes light energy into electrical energy."
+    },
+    {
+     "k": "unit|sci.environment.conservation.L3",
+     "why": "Using the Sun saves coal and electricity, which are used up."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "A black pipe soaks up more heat from the Sun, so the water inside gets hot."
+    },
+    {
+     "k": "unit|sci.light.reflection.L3",
+     "why": "A shiny surface can reflect sunlight, which is why solar cookers use it."
+    }
+   ]
+  },
+  {
+   "id": "home-mosquito-water",
+   "name": "Emptying standing water",
+   "words": [
+    "stagnant water",
+    "standing water",
+    "emptied bucket",
+    "cooler water",
+    "mosquito breeding",
+    "dengue",
+    "empty the pot"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.microorganisms.parasites.L3",
+     "why": "Mosquitoes lay eggs in still water, so emptying it stops more mosquitoes."
+    },
+    {
+     "k": "unit|sci.animals.animal-life-cycles.L3",
+     "why": "A mosquito grows from egg to wriggler to adult in water, so emptying cuts the cycle."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Keeping water covered or changed keeps the family from getting ill."
+    },
+    {
+     "k": "unit|sci.community.community-and-helpers.L3",
+     "why": "The whole neighbourhood must do this together to keep mosquitoes away."
+    }
+   ]
+  },
+  {
+   "id": "home-rubbish-pollution",
+   "name": "Burning, litter and clean-up drive",
+   "words": [
+    "litter",
+    "clean up",
+    "cleanup",
+    "swachh",
+    "cleaned the street",
+    "cleaned the park",
+    "picked up plastic",
+    "garbage on road"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.environment.pollution.L3",
+     "why": "Litter and smoke make land and air dirty, and clean-up helps fix that."
+    },
+    {
+     "k": "unit|sci.waste.reduce-reuse-recycle.L3",
+     "why": "A plastic wrapper stays for years, so picking it up and recycling it helps."
+    },
+    {
+     "k": "unit|sci.community.community-and-helpers.L3",
+     "why": "Sweepers and neighbours keep the place clean, and we can help them."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Throwing rubbish in a bin, not on the road, is a rule that protects everyone."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "You can count the kinds of litter you picked up and make a chart."
+    }
+   ]
+  },
+  {
+   "id": "home-hand-washing",
+   "name": "Washing hands properly",
+   "words": [
+    "washed hands",
+    "hand wash",
+    "handwash",
+    "before eating",
+    "sanitizer",
+    "washing hands"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Soap lifts germs and oil off the skin so the water can wash them away."
+    },
+    {
+     "k": "unit|sci.microorganisms.germs.L3",
+     "why": "Germs travel from hands to food and mouth, so washing breaks the chain."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Scrub for as long as it takes to sing a short song, about twenty seconds."
+    },
+    {
+     "k": "unit|sci.states.liquids-up-close.L3",
+     "why": "Soap bubbles have a thin skin of water, and the soap helps lift dirt."
+    }
+   ]
+  },
+  {
+   "id": "home-lock-key-door",
+   "name": "Locking up and using keys",
+   "words": [
+    "locked the door",
+    "latch",
+    "door lock",
+    "keys",
+    "padlock",
+    "tala"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "A key is a lever that turns the bolt inside the lock."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Locks and keys are made of metal because it is hard and strong."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "We lock our home to keep things safe, and we take care of our keys."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Only a key with the right shape of teeth fits the lock."
+    }
+   ]
+  }
+ ]
+}

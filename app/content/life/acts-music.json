@@ -1,0 +1,1704 @@
+{
+ "cat": "music",
+ "acts": [
+  {
+   "id": "music-singing",
+   "name": "Singing",
+   "words": [
+    "sing",
+    "singing",
+    "sang",
+    "gaana",
+    "song practice"
+   ],
+   "type": "did",
+   "skill": "Singing",
+   "links": [
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "When you take a big breath and sing a long note, you can feel your lungs and tummy working to push the air out."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "Put your fingers on your throat while you sing and feel it buzz, because sound starts with a vibration."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Songs repeat their tune again and again, so a song is a pattern you can clap along to."
+    },
+    {
+     "k": "eng:poems-rhymes",
+     "why": "The words at the end of the lines in your song sound alike, and that is rhyme."
+    },
+    {
+     "k": "hin:poems-rhymes",
+     "why": "Singing a Hindi song helps you feel the rhythm and rhyme of the words."
+    }
+   ],
+   "skillcat": "music"
+  },
+  {
+   "id": "music-carnatic-class",
+   "name": "Carnatic music class",
+   "words": [
+    "carnatic",
+    "sarali varisai",
+    "varnam",
+    "keerthanam",
+    "carnatic class",
+    "saptaswara"
+   ],
+   "type": "class",
+   "skill": "Carnatic singing",
+   "links": [
+    {
+     "k": "math:patterns",
+     "why": "Your teacher keeps a steady tala with hand claps and finger counts, so each cycle is a repeating pattern."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "A tala cycle like adi tala has 8 beats, and counting 8 beats again and again is like counting in groups."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "Your voice makes the swaras because your vocal cords vibrate faster for a high note and slower for a low note."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Many keerthanams are in Telugu, Tamil, Kannada or Sanskrit, so you are singing in the languages of South India."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Carnatic music is sung at temples and at music festivals, and it has been passed from teacher to student for hundreds of years."
+    },
+    {
+     "k": "unit|sci.mind.thinking-and-memory.L3",
+     "why": "You learn a long varnam by repeating small parts again and again until your memory holds them."
+    }
+   ],
+   "skillcat": "music"
+  },
+  {
+   "id": "music-hindustani-class",
+   "name": "Hindustani music class",
+   "words": [
+    "hindustani",
+    "raag",
+    "raga",
+    "riyaz",
+    "sargam",
+    "hindustani class"
+   ],
+   "type": "class",
+   "skill": "Hindustani singing",
+   "links": [
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "Holding one long note in a raag needs slow, steady breathing from your tummy."
+    },
+    {
+     "k": "math:patterns",
+     "why": "A taal like teental has 16 beats in 4 groups, so you can count it as 4 groups of 4."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "When your teacher sings a note and you match it, both your voices vibrate at the same speed."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Hindustani music grew over many centuries in the courts and temples of North India."
+    },
+    {
+     "k": "unit|sci.health.feelings-and-wellbeing.L3",
+     "why": "Each raag is sung at a certain time of day and can make you feel calm, happy or sad."
+    }
+   ],
+   "skillcat": "music"
+  },
+  {
+   "id": "music-tabla",
+   "name": "Tabla",
+   "words": [
+    "tabla",
+    "bols",
+    "dha dhin",
+    "teental",
+    "tabla class"
+   ],
+   "type": "class",
+   "skill": "Tabla",
+   "links": [
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "When you hit the tabla skin it vibrates, and that shaking makes the sound you hear."
+    },
+    {
+     "k": "unit|sci.materials.testing-materials.L3",
+     "why": "The small drum and big drum make different notes because of their size, and you can test it by tapping each one."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "Teental has 16 beats, so you can count them as 4 groups of 4."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Bols like dha dhin dhin dha come back again and again, and that is a pattern."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "The tabla skin is stretched tight and the black spot in the middle is made heavy, and both change the sound."
+    }
+   ],
+   "skillcat": "music"
+  },
+  {
+   "id": "music-mridangam",
+   "name": "Mridangam",
+   "words": [
+    "mridangam",
+    "mrudangam",
+    "konnakol",
+    "thani"
+   ],
+   "type": "class",
+   "skill": "Mridangam",
+   "links": [
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "The skin on both ends of the mridangam shakes when you hit it, and that makes the sound."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "In konnakol you say syllables in groups of 3, 4 or 5, and that is multiplying and counting in groups."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "Mridangam makers pick wood, leather and rice paste for their different jobs, because each material works in its own way."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The beats you play repeat in a cycle, so you can listen for where it starts again."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "The mridangam is played in Carnatic music in South India."
+    }
+   ],
+   "skillcat": "music"
+  },
+  {
+   "id": "music-guitar",
+   "name": "Guitar",
+   "words": [
+    "guitar",
+    "chords",
+    "strumming",
+    "guitar class",
+    "acoustic"
+   ],
+   "type": "class",
+   "skill": "Guitar",
+   "links": [
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "When you pluck a string it shakes, and the hollow wooden body makes the sound louder."
+    },
+    {
+     "k": "math:patterns",
+     "why": "A chord song like G, C, D, G repeats, and you can spot the pattern."
+    },
+    {
+     "k": "unit|sci.energy.energy-around-us.L3",
+     "why": "Your finger pluck gives the string energy, and the string changes it into sound."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Thin strings make high notes and thick strings make low notes, so you can test and feel how the string changes the sound."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "Pressing a fret makes the string shorter, and a string half as long gives a note one octave higher."
+    }
+   ],
+   "skillcat": "music"
+  },
+  {
+   "id": "music-keyboard",
+   "name": "Keyboard or piano",
+   "words": [
+    "keyboard",
+    "piano",
+    "casio",
+    "keys",
+    "harmonium keys",
+    "keyboard class"
+   ],
+   "type": "class",
+   "skill": "Keyboard",
+   "links": [
+    {
+     "k": "math:patterns",
+     "why": "The black keys come in groups of 2 and 3, and this pattern repeats up the keyboard."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Count the keys from one C to the next C, and you will find 8 white keys."
+    },
+    {
+     "k": "unit|sci.electricity.simple-circuits.L3",
+     "why": "An electronic keyboard has circuits inside, and pressing a key completes one to make a sound."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "On a piano a small hammer hits a string when you press a key, and the string shakes to make the note."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "A whole note, half note and quarter note each last a different share of the beat."
+    }
+   ],
+   "skillcat": "music"
+  },
+  {
+   "id": "music-violin",
+   "name": "Violin",
+   "words": [
+    "violin",
+    "fiddle",
+    "violin class"
+   ],
+   "type": "class",
+   "skill": "Violin",
+   "links": [
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "Rubbing the bow on the string makes it shake, and the violin body makes the sound louder."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "A short thin string makes a high note and a long thick string a low note, so you can feel how a string changes sound."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "Violins are made of light, springy wood, while the bow has horsehair, because those materials do those jobs well."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "You have to listen carefully to tune the violin, because it has no frets to help you."
+    },
+    {
+     "k": "social:history-past",
+     "why": "The violin came to India long ago and became part of Carnatic and Hindustani music."
+    }
+   ],
+   "skillcat": "music"
+  },
+  {
+   "id": "music-flute",
+   "name": "Flute or bansuri",
+   "words": [
+    "flute",
+    "bansuri",
+    "basuri",
+    "venu",
+    "flute class"
+   ],
+   "type": "class",
+   "skill": "Flute",
+   "links": [
+    {
+     "k": "unit|sci.air.air-around-us.L3",
+     "why": "When you blow into the flute, the air inside shakes and makes the note."
+    },
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "Playing a long note needs deep breaths from your lungs, so you are training your breathing."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "The air in the pipe vibrates, and covering holes with your fingers changes the note."
+    },
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "A bansuri is often made from bamboo, which is a hollow grass that grows fast."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "The bansuri is linked in stories with Krishna, and it is heard in many folk songs."
+    }
+   ],
+   "skillcat": "music"
+  },
+  {
+   "id": "music-drums",
+   "name": "Drums",
+   "words": [
+    "drums",
+    "drum kit",
+    "drumming",
+    "snare",
+    "drum class"
+   ],
+   "type": "class",
+   "skill": "Drums",
+   "links": [
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "Each drum skin shakes when you hit it, and a bigger drum shakes slower and sounds lower."
+    },
+    {
+     "k": "math:patterns",
+     "why": "A drum beat like boom, clap, boom, clap is a pattern that repeats."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "Playing two taps in one beat splits it in half, and four taps split it into quarters."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "Drums are very loud, so ear plugs help to protect your ears."
+    },
+    {
+     "k": "unit|sci.energy.energy-around-us.L3",
+     "why": "You use your arm's energy to hit the drum, and it turns into sound."
+    }
+   ],
+   "skillcat": "music"
+  },
+  {
+   "id": "music-veena",
+   "name": "Veena",
+   "words": [
+    "veena",
+    "vina",
+    "sitar",
+    "sarod",
+    "string instrument"
+   ],
+   "type": "class",
+   "skill": "Veena",
+   "links": [
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "When you pluck a veena string it shakes, and the big hollow body makes it louder."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "The veena is made of wood and has metal strings, and a hollow wooden body makes sound louder."
+    },
+    {
+     "k": "social:history-past",
+     "why": "The veena is one of India's oldest instruments and is seen in old temple carvings."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "The veena is played in the South and its cousin, the sitar, in the North, so instruments change across India."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "A thin string makes a high note and a thick string makes a low note, which you can test by plucking each one."
+    }
+   ],
+   "skillcat": "music"
+  },
+  {
+   "id": "music-bhajans",
+   "name": "Singing bhajans",
+   "words": [
+    "bhajan",
+    "bhajans",
+    "kirtan",
+    "aarti",
+    "satsang",
+    "devotional songs"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:festivals-culture",
+     "why": "Singing bhajans together at the temple or at home is part of how many families celebrate."
+    },
+    {
+     "k": "hin:poems-rhymes",
+     "why": "Bhajans have lines that repeat and rhyme, so they are easy to learn by singing."
+    },
+    {
+     "k": "unit|sci.mind.thinking-and-memory.L3",
+     "why": "We remember bhajans easily because we sing them again and again, and tunes help us remember words."
+    },
+    {
+     "k": "unit|sci.health.feelings-and-wellbeing.L3",
+     "why": "Singing together can make you feel calm and happy."
+    },
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "In a big hall, sound travels in waves and reaches everyone in the room."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-gurbani",
+   "name": "Kirtan and gurbani",
+   "words": [
+    "gurbani",
+    "shabad",
+    "gurdwara",
+    "kirtan sahib",
+    "harmonium"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:festivals-culture",
+     "why": "Singing shabad in the gurdwara is a way Sikh families share their faith and sing together."
+    },
+    {
+     "k": "hin:poems-rhymes",
+     "why": "Shabads are in Punjabi and Hindi and have lines that rhyme and repeat."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "The harmonium makes sound when air passes over thin metal reeds and makes them shake."
+    },
+    {
+     "k": "unit|sci.air.air-around-us.L3",
+     "why": "On a harmonium, you pump the bellows to push air through, so air has to move to make a sound."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-qawwali",
+   "name": "Qawwali and sufi songs",
+   "words": [
+    "qawwali",
+    "sufi",
+    "ghazal",
+    "dargah",
+    "naat"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:history-past",
+     "why": "Qawwali has been sung at dargahs in India for hundreds of years."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The chorus and clapping repeat, so everyone can join in."
+    },
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "The sound of the big group reaches you as waves moving through the air."
+    },
+    {
+     "k": "hin:poems-rhymes",
+     "why": "Qawwali and ghazals use rhyming lines in Urdu and Hindi."
+    },
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "Singers hold long notes with a lot of breath."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-church-choir",
+   "name": "Church or carol singing",
+   "words": [
+    "church choir",
+    "carols",
+    "hymns",
+    "christmas carols",
+    "sunday school songs"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:festivals-culture",
+     "why": "Carols at Christmas are one way many families in India celebrate together."
+    },
+    {
+     "k": "eng:poems-rhymes",
+     "why": "Hymns and carols have rhyming lines, so you can guess the next word."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "A choir has many voices and each one starts as a vibration in a throat."
+    },
+    {
+     "k": "unit|sci.mind.thinking-and-memory.L3",
+     "why": "Singing every Sunday helps your memory hold the words."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-school-choir",
+   "name": "School choir or assembly song",
+   "words": [
+    "choir",
+    "school choir",
+    "assembly song",
+    "prayer song",
+    "group singing"
+   ],
+   "type": "class",
+   "skill": "Choir singing",
+   "links": [
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "To sing in a choir you must listen to the others so that you all stay together."
+    },
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "All the voices travel across the room as sound waves and mix before they reach your ears."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "In a choir, the group can be split into two or three parts, such as half singing the high part."
+    },
+    {
+     "k": "social:family-community",
+     "why": "A choir works because each person does their own part for the group."
+    },
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "You breathe at the right place in the song, so that your voice lasts."
+    }
+   ],
+   "skillcat": "music"
+  },
+  {
+   "id": "music-lullaby",
+   "name": "Lullabies",
+   "words": [
+    "lullaby",
+    "lori",
+    "thalattu",
+    "sleep song",
+    "jo jo"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "hin:poems-rhymes",
+     "why": "Lullabies like lori are short songs with soft rhyming lines."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Every region and language in India has its own lullabies."
+    },
+    {
+     "k": "unit|sci.health.feelings-and-wellbeing.L3",
+     "why": "A slow, soft song helps a baby feel safe and sleepy."
+    },
+    {
+     "k": "social:family-community",
+     "why": "Grandmothers and mothers pass lullabies down to the next generation."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "Soft songs are gentle on a baby's sensitive ears."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-listening-songs",
+   "name": "Listening to songs",
+   "words": [
+    "listening to songs",
+    "songs on radio",
+    "film songs",
+    "playlist",
+    "music on tv",
+    "heard a song"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "Your ear picks up the sound waves from the speaker, and your brain turns them into music."
+    },
+    {
+     "k": "unit|sci.health.feelings-and-wellbeing.L3",
+     "why": "Fast songs can make you want to dance and slow songs can make you calm."
+    },
+    {
+     "k": "eng:new-words",
+     "why": "Listening to the words of songs can teach you new words."
+    },
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "Music from a speaker moves through the air in waves to reach you."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Listening closely to a song is good practice for listening to people."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-radio",
+   "name": "Listening to the radio",
+   "words": [
+    "radio",
+    "akashvani",
+    "vividh bharati",
+    "transistor"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "The radio picks up invisible waves from the air and turns them into sound."
+    },
+    {
+     "k": "unit|sci.energy.energy-around-us.L3",
+     "why": "A radio changes electrical energy from the battery or plug into sound."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Before TV, families in India gathered around the radio for songs and news."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Listening to the radio is good practice because there are no pictures to help you."
+    },
+    {
+     "k": "hin:speak-listen",
+     "why": "Radio in Hindi gives your ears lots of practice with new words."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-loud-music",
+   "name": "Loud music and headphones",
+   "words": [
+    "headphones",
+    "earphones",
+    "loud music",
+    "speaker",
+    "volume"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "Very loud sounds can hurt the tiny parts of your ear, so keep the volume low."
+    },
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "A louder sound is a bigger wave, which is why it can feel strong in your chest."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Turning the volume down is a safety rule for your ears."
+    },
+    {
+     "k": "unit|sci.electricity.simple-circuits.L3",
+     "why": "A speaker only plays when a circuit is complete from the battery or plug to the speaker."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-making-instruments",
+   "name": "Making an instrument",
+   "words": [
+    "homemade instrument",
+    "made a drum",
+    "rubber band guitar",
+    "diy instrument",
+    "bottle xylophone",
+    "made a flute"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "Your homemade instrument works because something shakes, such as a rubber band, a skin or the air in a tube."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "You tried different materials, such as tin, plastic or wood, to see which sounds best."
+    },
+    {
+     "k": "unit|sci.how-we-know.fair-tests.L3",
+     "why": "If you change just one thing, like the length of the band, you can tell what made the sound different."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "You can measure the length of your rubber band or tube, and a shorter one gives a higher note."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Hard, stiff materials like tin and wood sound different from soft ones like cloth."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-water-glass",
+   "name": "Water glass xylophone",
+   "words": [
+    "glasses with water",
+    "water xylophone",
+    "glass music",
+    "tapped glasses"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "When you tap the glass, it shakes, and more water makes it shake slower and give a lower note."
+    },
+    {
+     "k": "math:capacity",
+     "why": "Pouring a little more water into each glass changes how much each holds and the note it makes."
+    },
+    {
+     "k": "unit|sci.how-we-know.fair-tests.L3",
+     "why": "If you only change the water level and keep the same glass and spoon, you can test fairly."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Lining up the glasses from a little to a lot of water gives a rising pattern of notes."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-rubber-band",
+   "name": "Rubber band and string sounds",
+   "words": [
+    "rubber band",
+    "string telephone",
+    "plucked string",
+    "twang",
+    "thread phone"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "A plucked rubber band shakes and you can see and hear it."
+    },
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "In a string telephone, the sound travels along the stretched string to your friend's ear."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "A shorter, tighter band gives a higher note, so you can measure and compare lengths."
+    },
+    {
+     "k": "unit|sci.how-we-know.fair-tests.L3",
+     "why": "Try different bands one at a time and keep everything else the same."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-clapping",
+   "name": "Clapping and rhythm games",
+   "words": [
+    "clapping",
+    "clap game",
+    "rhythm game",
+    "beat",
+    "tapping rhythm",
+    "taali"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:patterns",
+     "why": "Clapping a rhythm like clap, clap, rest, clap is a pattern you can repeat and change."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "Clapping in groups of 3 or 4 is like skip counting."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "Your hands hit together and shake the air, and that is the sound you hear."
+    },
+    {
+     "k": "unit|sci.mind.thinking-and-memory.L3",
+     "why": "Remembering a clapping pattern and doing it again is a memory game."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Counting the beats out loud helps you count in order."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-antakshari",
+   "name": "Antakshari",
+   "words": [
+    "antakshari",
+    "antyakshari",
+    "song game",
+    "song chain"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "hin:new-words",
+     "why": "You need a word starting with the last letter of the last song, so you learn lots of words."
+    },
+    {
+     "k": "eng:new-words",
+     "why": "Think of the word that starts with the last letter, and your list of words grows."
+    },
+    {
+     "k": "unit|sci.mind.thinking-and-memory.L3",
+     "why": "To play well, you have to remember many songs and words."
+    },
+    {
+     "k": "hin:poems-rhymes",
+     "why": "Many song lines rhyme, and the game helps you hear it."
+    },
+    {
+     "k": "social:family-community",
+     "why": "Antakshari is a game where the whole family or class plays together, such as on a long journey."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-nursery-rhymes",
+   "name": "Nursery rhymes and action songs",
+   "words": [
+    "nursery rhyme",
+    "rhymes",
+    "action song",
+    "twinkle twinkle",
+    "baa baa",
+    "poem song"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "eng:poems-rhymes",
+     "why": "Words like star and far end the same, and that is rhyme."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Singing rhymes helps you say new words clearly."
+    },
+    {
+     "k": "unit|sci.body.body-parts.L3",
+     "why": "Action songs like head, shoulders, knees and toes teach the names of body parts."
+    },
+    {
+     "k": "unit|sci.mind.thinking-and-memory.L3",
+     "why": "Rhyme and tune make words easy to remember."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Counting songs like one, two, buckle my shoe help you count."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-hindi-songs",
+   "name": "Hindi songs and poems",
+   "words": [
+    "hindi song",
+    "hindi geet",
+    "kavita",
+    "balgeet",
+    "hindi rhyme"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "hin:poems-rhymes",
+     "why": "Many Hindi poems have the same end sounds, which you can spot as you sing."
+    },
+    {
+     "k": "hin:new-words",
+     "why": "Songs teach you new Hindi words that you can use when you speak."
+    },
+    {
+     "k": "hin:speak-listen",
+     "why": "Singing along helps you say Hindi sounds clearly."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Each Indian language has its own children's songs."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-folk-songs",
+   "name": "Folk songs",
+   "words": [
+    "folk song",
+    "lok geet",
+    "lavani",
+    "baul",
+    "bihu song",
+    "garba song",
+    "bhangra"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:regions-languages",
+     "why": "Each part of India has its own folk songs in its own language."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Folk songs are sung at harvests, weddings and festivals."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Folk songs pass from grandparents to children, so they carry old stories."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "Some folk songs were sung while working, such as rowing, farming or grinding grain."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Folk songs have a steady beat that repeats."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-dandiya",
+   "name": "Garba and dandiya music",
+   "words": [
+    "dandiya",
+    "garba",
+    "navratri music",
+    "dandiya sticks"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:festivals-culture",
+     "why": "Garba and dandiya are danced to the beat of music during Navratri."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The dancers clap or tap sticks to a steady beat, which is a repeating pattern."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "When the sticks hit, they shake, and the air carries the sound to you."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "The circles of dancers and the matching steps make a symmetrical picture."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-concert",
+   "name": "Going to a concert",
+   "words": [
+    "concert",
+    "music concert",
+    "kutcheri",
+    "live music",
+    "music programme",
+    "sangeet sabha"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "In a big hall, the sound waves from the stage travel to every seat."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "At a concert you hear many instruments at once, and your ears can pick out each one."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Concerts and kutcheris keep music traditions alive."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "At a concert we sit quietly, listen and clap at the right time."
+    },
+    {
+     "k": "eng:describing",
+     "why": "Tell someone how the music sounded, using words like loud, soft, fast, slow."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-street-music",
+   "name": "Street musicians and bands",
+   "words": [
+    "street singer",
+    "baraat band",
+    "band baaja",
+    "dhol",
+    "nadaswaram",
+    "shehnai",
+    "band"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "The dhol skin shakes when it is hit, and the big drum makes a loud, deep sound."
+    },
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "The sound of a band gets quieter as it goes farther away."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "Playing music for weddings and processions is a job for many families."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Bands play at weddings and festivals to make the day cheerful."
+    },
+    {
+     "k": "unit|sci.air.air-around-us.L3",
+     "why": "Wind instruments like the shehnai and nadaswaram need air blown through a reed."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-wedding-music",
+   "name": "Music at a wedding or function",
+   "words": [
+    "wedding music",
+    "sangeet",
+    "function songs",
+    "ladies sangeet",
+    "dj night"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:festivals-culture",
+     "why": "Songs and music are part of weddings and many families' celebrations."
+    },
+    {
+     "k": "social:family-community",
+     "why": "Singing and dancing together brings relatives and neighbours together."
+    },
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "Loud speakers send sound waves out, and the sound is strongest near them."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "Standing far from the speaker is kinder to your ears."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-music-festival",
+   "name": "Music at a festival",
+   "words": [
+    "festival music",
+    "ganesh visarjan",
+    "dussehra",
+    "diwali songs",
+    "pongal music",
+    "bihu"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:festivals-culture",
+     "why": "Each festival has special songs that families have sung for many years."
+    },
+    {
+     "k": "unit|sci.community.festivals.L3",
+     "why": "Festival music, food and lights are all part of how India celebrates."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Festival songs change from place to place and language to language."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "Drums and bells sound out because they vibrate when they are hit."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-temple-bells",
+   "name": "Temple bells and conch",
+   "words": [
+    "temple bell",
+    "bell",
+    "conch",
+    "shankh",
+    "ghanta",
+    "cymbals",
+    "manjira",
+    "jhaal"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "When a bell is struck the metal shakes, and you can feel it hum if you touch it softly."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "Bells are made of metal because metal rings for a long time after it's struck."
+    },
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "The sound of a bell spreads out through the air in all directions."
+    },
+    {
+     "k": "unit|sci.air.air-around-us.L3",
+     "why": "You blow air into a conch, and the air shakes inside the shell to make the sound."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Bells and conch shells are part of puja in many temples."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-music-shop",
+   "name": "Visiting a music shop",
+   "words": [
+    "music shop",
+    "bought a guitar",
+    "instrument shop",
+    "music store",
+    "bought a keyboard"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:money",
+     "why": "Comparing the prices of instruments is a good way to practise money sums."
+    },
+    {
+     "k": "social:money-markets",
+     "why": "The shop buys instruments from makers and sells them to customers."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "Look at what each instrument is made of, such as wood, metal or skin."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "Instrument makers and repairers do special jobs."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-bird-songs",
+   "name": "Listening to bird songs",
+   "words": [
+    "bird song",
+    "koel",
+    "sparrow",
+    "bulbul",
+    "bird sounds",
+    "morning birds",
+    "cuckoo"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.day-night-seasons.rhythms-of-nature.L3",
+     "why": "Many birds sing most at dawn, and that is part of their daily rhythm."
+    },
+    {
+     "k": "unit|sci.animal-behaviour.animal-learning.L3",
+     "why": "Young birds learn their songs by listening to their parents."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "A bird sings when its air tube vibrates, just like your voice does."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "Some birds sing high notes that are hard to hear, and animals hear sounds we can't."
+    },
+    {
+     "k": "eng:describing",
+     "why": "Describe the song using words like sweet, sharp, loud and quick."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-animal-sounds",
+   "name": "Animal sounds",
+   "words": [
+    "animal sounds",
+    "cow moo",
+    "frog croak",
+    "cricket chirp",
+    "cicada",
+    "dog barking"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "Each animal sound begins with something shaking, such as a throat or a leg or wing."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "Dogs and bats can hear sounds that are too high for us."
+    },
+    {
+     "k": "unit|sci.animal-behaviour.animal-learning.L3",
+     "why": "Animals use sounds to call, warn and find each other."
+    },
+    {
+     "k": "eng:describing",
+     "why": "Words like croak, chirp and buzz copy the sounds they name."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-rain-sounds",
+   "name": "Listening to rain and nature sounds",
+   "words": [
+    "rain sound",
+    "thunder",
+    "sound of rain",
+    "wind chimes",
+    "nature sounds",
+    "wind sound"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.weather.wind-and-air.L3",
+     "why": "Wind moving a chime makes it shake and ring."
+    },
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "Thunder travels as sound waves, which is why you see the flash first and hear it later."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "Raindrops hitting a tin roof make it shake and hum."
+    },
+    {
+     "k": "eng:describing",
+     "why": "Describe the sounds with words like pitter-patter, rumble and whoosh."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-echo",
+   "name": "Echo and shouting in a valley",
+   "words": [
+    "echo",
+    "shouted",
+    "well echo",
+    "hall echo",
+    "bounce sound",
+    "cave"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "An echo is sound that bounces back off a hard surface such as a wall or hill."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "Your shout starts at your voice box, travels, hits a wall and comes back to you."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "The farther the wall, the longer you wait for the echo."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "Your ears can hear the sound twice, first your voice and then the echo."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-beatbox-whistle",
+   "name": "Whistling and humming",
+   "words": [
+    "whistle",
+    "whistling",
+    "humming",
+    "beatbox",
+    "vocal sounds"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "When you hum, put a finger on your lips or nose and feel the buzz."
+    },
+    {
+     "k": "unit|sci.air.air-around-us.L3",
+     "why": "A whistle works when you push air through a small shape made by your lips."
+    },
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "Whistling and humming use your breath, so you can feel how long it lasts."
+    },
+    {
+     "k": "unit|sci.body.body-parts.L3",
+     "why": "Your lips, tongue and throat all take part in making sounds."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-music-class-school",
+   "name": "Music period at school",
+   "words": [
+    "music period",
+    "music class",
+    "music teacher",
+    "sa re ga ma",
+    "sargam practice",
+    "do re mi"
+   ],
+   "type": "class",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:patterns",
+     "why": "The seven notes sa re ga ma pa dha ni go up in order, and then it starts again."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Counting 1 to 8 as you move up the notes helps you count in order."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "You must listen carefully to know whether the note is higher or lower."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "Your voice, a harmonium or a drum, every sound starts with something shaking."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Singing along with your class helps you listen and speak clearly together."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-tune-hearing",
+   "name": "Humming a tune",
+   "words": [
+    "tune",
+    "hummed a tune",
+    "remember the tune",
+    "catchy song",
+    "songs stuck in head"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.mind.thinking-and-memory.L3",
+     "why": "A tune can stay in your head because your brain remembers patterns."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Tunes go up and down in a pattern that you can follow."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "Your ear can tell a high note from a low note."
+    },
+    {
+     "k": "unit|sci.health.feelings-and-wellbeing.L3",
+     "why": "A tune that makes you happy can change how your body feels."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-said-sound",
+   "name": "Why does it make a sound?",
+   "words": [
+    "why sound",
+    "how do we hear",
+    "why echo",
+    "what is sound",
+    "how drum works",
+    "why guitar"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "Touch a drum or guitar string while it is sounding and feel it shake, because all sounds start with a shake."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "The sound waves go into your ear and make a tiny part inside shake, and your brain knows it as sound."
+    },
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "Sound travels in waves through the air to reach us."
+    },
+    {
+     "k": "unit|sci.energy.energy-around-us.L3",
+     "why": "Sound is a kind of energy that moves from one place to another."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-said-instrument-made",
+   "name": "What are instruments made of?",
+   "words": [
+    "what is it made of",
+    "why wood",
+    "why strings",
+    "what is a tabla made of",
+    "why bamboo",
+    "how made"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "Instrument makers get their wood, skin and metal from trees, animals and the ground."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "Wood, metal and skin are chosen because they sound good and last."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Hard materials ring for a long time and soft ones sound dull."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "Skilled makers in places like Tanjore, Miraj and Kolkata have made instruments for many generations."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-music-history",
+   "name": "Stories of music and musicians",
+   "words": [
+    "music history",
+    "tansen",
+    "tyagaraja",
+    "musician story",
+    "composer",
+    "great singer",
+    "meera"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:history-past",
+     "why": "Famous musicians like Tansen and Tyagaraja lived long ago, and their music is still sung today."
+    },
+    {
+     "k": "eng:read-stories",
+     "why": "Reading about a musician's life is a good story to read aloud."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Great musicians came from every part of India."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Many old songs are still sung every year at festivals and music events."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-dance-music",
+   "name": "Music for dance",
+   "words": [
+    "bharatanatyam music",
+    "kathak music",
+    "dance beat",
+    "dance music",
+    "nattuvangam",
+    "dance class"
+   ],
+   "type": "class",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:patterns",
+     "why": "Dancers step in time to the beat of the music, which repeats."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "Dance steps in groups of 4 or 8 follow the beat count."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "You must listen closely to the music to know when to turn or stop."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Classical dance and its music both come from old temple and court traditions."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-recording",
+   "name": "Recording a song or voice",
+   "words": [
+    "recorded",
+    "recording",
+    "voice recorder",
+    "recorded my voice",
+    "mic",
+    "karaoke"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "When you hear your own recording, it sounds different, because you normally hear your voice through your head too."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "A microphone catches the shake in the air and turns it into a signal."
+    },
+    {
+     "k": "unit|sci.electricity.simple-circuits.L3",
+     "why": "The microphone and speaker work with electrical circuits."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Listening to your recording helps you hear how clearly you speak."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-tuning",
+   "name": "Tuning an instrument",
+   "words": [
+    "tuning",
+    "tuned",
+    "tanpura",
+    "shruti",
+    "tuner",
+    "out of tune"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "Tightening a string makes it shake faster and gives a higher note."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "Tuning means listening until two sounds match."
+    },
+    {
+     "k": "unit|sci.how-we-know.fair-tests.L3",
+     "why": "Change one peg at a time and listen to the difference to find which string is off."
+    },
+    {
+     "k": "math:patterns",
+     "why": "A tanpura plays the same notes in a steady pattern that your voice follows."
+    }
+   ],
+   "skillcat": null
+  },
+  {
+   "id": "music-practice",
+   "name": "Daily music practice",
+   "words": [
+    "practice",
+    "riyaz",
+    "practised",
+    "music practice",
+    "daily practice"
+   ],
+   "type": "class",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.mind.thinking-and-memory.L3",
+     "why": "Playing the same short piece every day helps your brain and fingers remember."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Practising at the same time each day builds a habit you can mark on a calendar."
+    },
+    {
+     "k": "math:problem-solving",
+     "why": "If a part is hard, play it slowly in small pieces until it works."
+    }
+   ],
+   "skillcat": null
+  }
+ ]
+}

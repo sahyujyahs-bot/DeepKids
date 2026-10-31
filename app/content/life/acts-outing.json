@@ -1,0 +1,1890 @@
+{
+ "cat": "outing",
+ "acts": [
+  {
+   "id": "outing-zoo",
+   "name": "Zoo visit",
+   "words": [
+    "zoo",
+    "zoological park",
+    "saw animals at the zoo",
+    "animal park"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.animals.vertebrate-groups.L3",
+     "why": "Look at the tiger, the parrot and the crocodile: which ones have fur, feathers or scales, and how does each keep warm?"
+    },
+    {
+     "k": "unit|sci.habitats.adaptations.L3",
+     "why": "See how the camel, the polar bear's cousin and the monkey each have a body that suits where they live."
+    },
+    {
+     "k": "unit|sci.ecology.food-chains.L3",
+     "why": "The deer eats grass and the tiger eats the deer, so this is a food chain you can see."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "Let's count how many of each animal we saw and make a tally chart."
+    },
+    {
+     "k": "eng:describing",
+     "why": "Tell me three words that describe your favourite animal."
+    }
+   ]
+  },
+  {
+   "id": "outing-planetarium",
+   "name": "Planetarium visit",
+   "words": [
+    "planetarium",
+    "nehru planetarium",
+    "sky show",
+    "star show"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sky.solar-system.L3",
+     "why": "The eight planets go around the Sun, and Earth is the third one from it."
+    },
+    {
+     "k": "unit|sci.sky.stargazing.L3",
+     "why": "People have seen patterns in the stars for thousands of years, and the nakshatras are one of them."
+    },
+    {
+     "k": "unit|sci.sky.moon-phases.L3",
+     "why": "The Moon only looks like it changes shape because we see a different part of its lit side each night."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.day-and-night.L3",
+     "why": "Day and night happen because Earth spins once around, so our side turns to face the Sun and then away."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Long ago people used the sky to make calendars and know when to sow seeds."
+    }
+   ]
+  },
+  {
+   "id": "outing-science-centre",
+   "name": "Science centre visit",
+   "words": [
+    "science centre",
+    "science center",
+    "science museum",
+    "science city",
+    "hands-on exhibits"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.how-we-know.asking-questions.L3",
+     "why": "Every exhibit starts with a question, so what question could you ask about the one you liked best?"
+    },
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "That lever or pulley lets a small push lift a big load."
+    },
+    {
+     "k": "unit|sci.light.reflection.L3",
+     "why": "The mirror maze works because light bounces off each mirror and comes to your eyes."
+    },
+    {
+     "k": "unit|sci.how-we-know.fair-tests.L3",
+     "why": "If we want to test it, we change one thing and keep everything else the same."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Explain to me one thing you learned there as if I had never been."
+    }
+   ]
+  },
+  {
+   "id": "outing-museum",
+   "name": "Museum visit",
+   "words": [
+    "museum",
+    "exhibition",
+    "gallery",
+    "saw old things in a museum",
+    "sangrahalaya"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:history-past",
+     "why": "These old things show us how people lived long before we were born."
+    },
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "Look at the pot, the coin and the cloth: which material is each made from, and where does it come from?"
+    },
+    {
+     "k": "eng:new-words",
+     "why": "Which new word did you learn on the labels today?"
+    },
+    {
+     "k": "eng:write-sentences",
+     "why": "Write two sentences about the object you liked best."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Objects from different states show how people in each part of India live and speak."
+    }
+   ]
+  },
+  {
+   "id": "outing-fort",
+   "name": "Fort visit",
+   "words": [
+    "fort",
+    "qila",
+    "palace",
+    "visited a fort",
+    "ramparts"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:history-past",
+     "why": "Kings built this fort a long time ago to keep their people safe."
+    },
+    {
+     "k": "unit|sci.making-things.houses-and-shelter.L3",
+     "why": "Thick stone walls keep a building standing for hundreds of years and keep the inside cool."
+    },
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "People used ramps, pulleys and levers to lift heavy stones this high."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Look for arches, domes and circles in the walls and towers."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Let's pace out the wall and see how many steps long it is."
+    }
+   ]
+  },
+  {
+   "id": "outing-temple",
+   "name": "Temple visit",
+   "words": [
+    "temple",
+    "mandir",
+    "darshan",
+    "went to the temple",
+    "prasad"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:festivals-culture",
+     "why": "Temples are places where families come together for prayer and festivals."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "Look at the carvings and the gopuram: both sides match, which is called symmetry."
+    },
+    {
+     "k": "unit|sci.community.festivals.L3",
+     "why": "Flowers, lamps and sweets for a festival all come from people's work and the seasons."
+    },
+    {
+     "k": "unit|sci.light.reflection.L3",
+     "why": "The shiny brass lamp bounces light back at us, which is why it gleams."
+    },
+    {
+     "k": "hin:describing",
+     "why": "मंदिर में जो देखा, उसे हिंदी में बताओ। (Tell me in Hindi what you saw in the temple.)"
+    }
+   ]
+  },
+  {
+   "id": "outing-mosque",
+   "name": "Mosque visit",
+   "words": [
+    "mosque",
+    "masjid",
+    "namaz",
+    "eid prayer",
+    "went to the masjid"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:festivals-culture",
+     "why": "A mosque is where people come together to pray, and Eid is a happy festival they share."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "The arches and the domes match on both sides, which is symmetry."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Look at the tiles and the carvings: the same design repeats again and again."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "The call to prayer carries far because the sound waves travel through the air to us."
+    },
+    {
+     "k": "social:family-community",
+     "why": "People of the neighbourhood meet here and help each other."
+    }
+   ]
+  },
+  {
+   "id": "outing-church",
+   "name": "Church visit",
+   "words": [
+    "church",
+    "christmas mass",
+    "sunday mass",
+    "went to church",
+    "prayer hall"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:festivals-culture",
+     "why": "Christmas and Easter are festivals families celebrate together at church and at home."
+    },
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "Sunlight passes through coloured glass and splits the room into colour."
+    },
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "The church bell rings and its sound spreads out through the air as waves."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Look for arches, circles and triangles in the roof and the windows."
+    },
+    {
+     "k": "eng:poems-rhymes",
+     "why": "A hymn is a song with words that rhyme and a tune that repeats."
+    }
+   ]
+  },
+  {
+   "id": "outing-gurudwara",
+   "name": "Gurudwara visit",
+   "words": [
+    "gurudwara",
+    "langar",
+    "sikh temple",
+    "karah prasad",
+    "gurdwara"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:family-community",
+     "why": "In the langar everyone sits together and shares the same meal, and volunteers help cook and serve."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "If 200 people come and each gets 2 rotis, how many rotis must be made?"
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "The dal, the wheat and the vegetables all began in a field and were grown by farmers."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Baisakhi and Gurpurab are festivals many families celebrate together."
+    },
+    {
+     "k": "hin:speak-listen",
+     "why": "पंजाबी और हिंदी के कौन से शब्द आज सुने? (Which Punjabi and Hindi words did you hear today?)"
+    }
+   ]
+  },
+  {
+   "id": "outing-market",
+   "name": "Market visit",
+   "words": [
+    "market",
+    "bazaar",
+    "sabzi mandi",
+    "went shopping",
+    "haat",
+    "vegetable market"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:money",
+     "why": "If the tomatoes cost 40 rupees and you pay 50, how much change should you get back?"
+    },
+    {
+     "k": "math:weight",
+     "why": "The shopkeeper uses a weighing scale to find how heavy the vegetables are."
+    },
+    {
+     "k": "social:money-markets",
+     "why": "The farmer sells to a trader, the trader sells to the shopkeeper, and then we buy it."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "This brinjal grew on a plant and travelled to this stall."
+    },
+    {
+     "k": "eng:new-words",
+     "why": "What are the names of the vegetables and fruits in English and in our own language?"
+    }
+   ]
+  },
+  {
+   "id": "outing-railway-station",
+   "name": "Railway station visit",
+   "words": [
+    "railway station",
+    "station",
+    "platform",
+    "went to the station",
+    "rail station"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.community.transport-and-communication.L3",
+     "why": "Trains carry thousands of people and goods across the country every day."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "The board says the train comes at 6:45, so how many minutes until then?"
+    },
+    {
+     "k": "math:direction-maps",
+     "why": "The map on the wall shows which way the train goes and which stations come next."
+    },
+    {
+     "k": "social:transport",
+     "why": "Look at all the ways people arrive: bus, auto, taxi and on foot."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "The brakes press on the wheels, and friction stops the heavy train."
+    }
+   ]
+  },
+  {
+   "id": "outing-airport",
+   "name": "Airport visit",
+   "words": [
+    "airport",
+    "aeroplane",
+    "flight",
+    "plane",
+    "took a flight",
+    "airplane"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.flight.L3",
+     "why": "The wings push air down, and the air pushes the plane up."
+    },
+    {
+     "k": "unit|sci.weather.wind-and-air.L3",
+     "why": "Pilots listen to the wind and the weather because air carries the plane."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "The plane leaves at 2:30 and lands at 4:10, so how long is the flight?"
+    },
+    {
+     "k": "unit|sci.planet-earth.maps-and-directions.L3",
+     "why": "The route on the screen shows the way the plane flies from one city to another."
+    },
+    {
+     "k": "unit|sci.sky.exploring-space.L3",
+     "why": "The air gets thinner as you go up, which is why rockets must carry their own air."
+    }
+   ]
+  },
+  {
+   "id": "outing-train-journey",
+   "name": "Train journey",
+   "words": [
+    "train journey",
+    "train",
+    "rail journey",
+    "travelled by train",
+    "sleeper",
+    "railgadi"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:regions-languages",
+     "why": "Outside the window, the land, houses, food and language change as the train goes across states."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "The train started at 9 at night and arrives at 7 in the morning, so how many hours is the journey?"
+    },
+    {
+     "k": "math:direction-maps",
+     "why": "Let's follow the stations on the map with your finger."
+    },
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "When the train starts you lean back, because your body wants to stay where it was."
+    },
+    {
+     "k": "eng:write-story-letter",
+     "why": "Write a short story about who you met on the train."
+    }
+   ]
+  },
+  {
+   "id": "outing-bus-journey",
+   "name": "Bus or road journey",
+   "words": [
+    "bus journey",
+    "bus",
+    "road trip",
+    "car journey",
+    "travelled by bus",
+    "long drive"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.community.transport-and-communication.L3",
+     "why": "Roads, buses and trucks move people and goods from place to place."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "The milestone says 120 km, so how far is it still to go?"
+    },
+    {
+     "k": "math:direction-maps",
+     "why": "Which way are we going: north, south, east or west?"
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Seat belts and traffic lights keep everyone safe on the road."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "Tyres have a pattern of grooves so they grip the road, even in rain."
+    }
+   ]
+  },
+  {
+   "id": "outing-beach",
+   "name": "Beach visit",
+   "words": [
+    "beach",
+    "sea shore",
+    "seashore",
+    "samudra",
+    "went to the sea",
+    "waves"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "The wave moves in towards the shore, but the water itself mostly goes up and down."
+    },
+    {
+     "k": "unit|sci.habitats.water-habitats.L3",
+     "why": "Crabs, shells and seaweed live where the sea meets the land."
+    },
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "Sea water tastes salty because salt has dissolved in it."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "Salt pans use the Sun to dry up sea water and leave the salt behind."
+    },
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "Sand is tiny pieces of broken rock and shell."
+    }
+   ]
+  },
+  {
+   "id": "outing-river",
+   "name": "River visit",
+   "words": [
+    "river",
+    "nadi",
+    "riverbank",
+    "ghat",
+    "went to the river"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.water.water-cycle.L3",
+     "why": "The river's water came from rain and snow far up in the hills, and flows to the sea."
+    },
+    {
+     "k": "unit|sci.habitats.water-habitats.L3",
+     "why": "Fish, frogs and plants all live in or beside the river."
+    },
+    {
+     "k": "unit|sci.water.water-sources-and-uses.L3",
+     "why": "Towns use river water for drinking, farms and washing, so it must be kept clean."
+    },
+    {
+     "k": "unit|sci.environment.pollution.L3",
+     "why": "When people throw rubbish or waste into the river, the water and the animals suffer."
+    },
+    {
+     "k": "social:water-resources",
+     "why": "Many cities in India grew up beside rivers, because people need water."
+    }
+   ]
+  },
+  {
+   "id": "outing-hills",
+   "name": "Hills or mountain trip",
+   "words": [
+    "hills",
+    "mountain",
+    "hill station",
+    "trekking",
+    "trek",
+    "himalaya",
+    "pahad"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.weather.weather.L3",
+     "why": "It is colder on the hill, so let's read the thermometer at the bottom and at the top."
+    },
+    {
+     "k": "unit|sci.habitats.adaptations.L3",
+     "why": "Plants and animals on the mountain have thick coats and small leaves to handle the cold."
+    },
+    {
+     "k": "unit|sci.water.water-cycle.L3",
+     "why": "Clouds rise up the hill, cool down and turn into rain or snow."
+    },
+    {
+     "k": "math:estimation",
+     "why": "How many steps do you think it is to the top?"
+    },
+    {
+     "k": "social:maps-places",
+     "why": "Mountains, plains and rivers are all kinds of land you can find on a map of India."
+    }
+   ]
+  },
+  {
+   "id": "outing-farm",
+   "name": "Farm visit",
+   "words": [
+    "farm",
+    "khet",
+    "field",
+    "farmer",
+    "visited a farm",
+    "kheti"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "The wheat in our roti grew in a field like this one."
+    },
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "Soil is made from broken rock and dead plants, and worms mix it for the crops."
+    },
+    {
+     "k": "unit|sci.seeds-and-life-cycles.seeds-and-germination.L3",
+     "why": "A seed needs water and warmth to sprout."
+    },
+    {
+     "k": "unit|sci.plants.what-plants-need.L3",
+     "why": "Plants need sun, water and air, and the farmer makes sure they get them."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "The farmer works all year, so let's ask what the work is in each season."
+    }
+   ]
+  },
+  {
+   "id": "outing-village-visit",
+   "name": "Village visit",
+   "words": [
+    "village",
+    "gaon",
+    "went to the village",
+    "native place",
+    "grandparents' village",
+    "dehaat"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:family-community",
+     "why": "In a village many families know each other and help one another."
+    },
+    {
+     "k": "unit|sci.animals.animals-around-us.L3",
+     "why": "Cows, goats, hens and dogs live close to people in a village."
+    },
+    {
+     "k": "unit|sci.water.water-sources-and-uses.L3",
+     "why": "Where does the village get its water from: a well, a hand pump or a tap?"
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "A potter, a farmer and a weaver each do a job the village needs."
+    },
+    {
+     "k": "hin:speak-listen",
+     "why": "गाँव के लोग कौन से शब्द बोलते हैं? (Which words did the village people use?)"
+    }
+   ]
+  },
+  {
+   "id": "outing-post-office",
+   "name": "Post office visit",
+   "words": [
+    "post office",
+    "postman",
+    "posted a letter",
+    "speed post",
+    "dak",
+    "stamp"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.community.transport-and-communication.L3",
+     "why": "A letter travels by hand, van, train and plane before it reaches its home."
+    },
+    {
+     "k": "eng:write-story-letter",
+     "why": "A letter has the date, the person's name, your message and your name."
+    },
+    {
+     "k": "hin:writing",
+     "why": "अपने दोस्त को हिंदी में चिट्ठी लिखो। (Write a letter to a friend in Hindi.)"
+    },
+    {
+     "k": "math:money",
+     "why": "A stamp costs some rupees, so how much for three letters?"
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "The postman and the sorting clerk do a job that keeps people in touch."
+    }
+   ]
+  },
+  {
+   "id": "outing-bank",
+   "name": "Bank visit",
+   "words": [
+    "bank",
+    "atm",
+    "saving account",
+    "piggy bank",
+    "passbook",
+    "went to the bank"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:money",
+     "why": "If you save 20 rupees every week, how much will you have after 5 weeks?"
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "The passbook shows money put in and money taken out, so what is left?"
+    },
+    {
+     "k": "social:money-markets",
+     "why": "A bank keeps people's money safe and lends some to others."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Never tell anyone your PIN or password, because it keeps your money safe."
+    },
+    {
+     "k": "math:problem-solving",
+     "why": "If a toy costs 150 and you have 90, how many weeks of saving do you need?"
+    }
+   ]
+  },
+  {
+   "id": "outing-hospital",
+   "name": "Hospital or doctor visit",
+   "words": [
+    "hospital",
+    "doctor",
+    "clinic",
+    "check-up",
+    "vaccine",
+    "injection",
+    "dawakhana"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.immune-system.L3",
+     "why": "A vaccine teaches your body how to fight a germ before the real one comes."
+    },
+    {
+     "k": "unit|sci.body.body-parts.L3",
+     "why": "The doctor looks at your eyes, ears and throat to check each part is working well."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Doctors and nurses wash their hands often so germs do not spread."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "The doctor measured how tall you are and how much you weigh, so how much have you grown?"
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "Doctors, nurses and chemists are helpers who care for our health."
+    }
+   ]
+  },
+  {
+   "id": "outing-library",
+   "name": "Library visit",
+   "words": [
+    "library",
+    "pustakalaya",
+    "borrowed books",
+    "book fair",
+    "reading room",
+    "library card"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "eng:read-stories",
+     "why": "A library lets you borrow many stories and bring them home to read."
+    },
+    {
+     "k": "eng:new-words",
+     "why": "Pick a book and find three new words in it."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "The book is due back in two weeks, so which date is that?"
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "In the library we speak softly and look after the books so others can read them."
+    },
+    {
+     "k": "hin:read-stories",
+     "why": "आज कौन सी हिंदी कहानी पढ़ी? (Which Hindi story did you read today?)"
+    }
+   ]
+  },
+  {
+   "id": "outing-park",
+   "name": "Park visit",
+   "words": [
+    "park",
+    "garden",
+    "playground",
+    "bagh",
+    "went to the park",
+    "swings"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.motion.swings-and-pendulums.L3",
+     "why": "A longer swing takes more time to go back and forth than a shorter one."
+    },
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "You push the swing to start it, and gravity pulls it back."
+    },
+    {
+     "k": "unit|sci.plants.plant-variety.L3",
+     "why": "Let's find a tree, a bush and a grass plant and see how they are different."
+    },
+    {
+     "k": "unit|sci.classification.sorting-living-things.L3",
+     "why": "Sort what you saw in the park into plants, birds and insects."
+    },
+    {
+     "k": "unit|sci.ecology.interdependence.L3",
+     "why": "The bees visit the flowers and the flowers feed the bees."
+    }
+   ]
+  },
+  {
+   "id": "outing-factory-visit",
+   "name": "Factory visit",
+   "words": [
+    "factory",
+    "mill",
+    "industry",
+    "made in a factory",
+    "dairy",
+    "bakery visit",
+    "workshop visit"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "Raw things like milk, cotton or iron are turned into things we use."
+    },
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "Machines in a factory use wheels, levers and gears to do heavy work."
+    },
+    {
+     "k": "unit|sci.energy.energy-around-us.L3",
+     "why": "The machines need energy, such as electricity, to run."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "Many people work together, and each does one part of the job."
+    },
+    {
+     "k": "unit|sci.environment.pollution.L3",
+     "why": "Factories can make smoke and waste, so careful ones clean it before it goes out."
+    }
+   ]
+  },
+  {
+   "id": "outing-fair-mela",
+   "name": "Fair or mela",
+   "words": [
+    "mela",
+    "fair",
+    "jatra",
+    "carnival",
+    "funfair",
+    "jaatre",
+    "ferris wheel",
+    "giant wheel"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.community.festivals.L3",
+     "why": "A mela is a happy gathering with food, games and craft that brings a whole area together."
+    },
+    {
+     "k": "math:money",
+     "why": "You have 100 rupees: if the ride is 30 and a snack is 25, how much is left?"
+    },
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "The giant wheel and the merry-go-round turn on an axle."
+    },
+    {
+     "k": "unit|sci.motion.spinning.L3",
+     "why": "When the ride spins, you feel pushed outward, because things want to move in a straight line."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Folk dance, crafts and food at the mela show the culture of the place."
+    }
+   ]
+  },
+  {
+   "id": "outing-firecrackers-diwali-market",
+   "name": "Diwali shopping and rangoli",
+   "words": [
+    "diwali shopping",
+    "diyas",
+    "rangoli",
+    "diwali",
+    "lamps",
+    "lights for diwali"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:festivals-culture",
+     "why": "Diwali is the festival of lights, and families clean, decorate and share sweets."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "Rangoli patterns are the same on both sides of a line, which is symmetry."
+    },
+    {
+     "k": "unit|sci.changes.fire.L3",
+     "why": "A diya burns because the flame has oil, air and heat."
+    },
+    {
+     "k": "math:money",
+     "why": "How much will five diyas cost if each is 6 rupees?"
+    },
+    {
+     "k": "unit|sci.environment.pollution.L3",
+     "why": "Crackers make smoke and loud noise, which is why many families choose lights instead."
+    }
+   ]
+  },
+  {
+   "id": "outing-wedding",
+   "name": "Wedding or family function",
+   "words": [
+    "wedding",
+    "shaadi",
+    "function",
+    "baraat",
+    "reception",
+    "engagement ceremony"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:family-community",
+     "why": "A wedding brings relatives from many places together, and each has a name for how they are related to us."
+    },
+    {
+     "k": "unit|sci.family.family.L3",
+     "why": "Let's draw the family tree and find who is whose uncle, aunt or cousin."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Each region has its own wedding songs, clothes and food."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "If 150 guests sit at tables of 10, how many tables are needed?"
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "The band is so loud that we should keep our ears safe by standing back."
+    }
+   ]
+  },
+  {
+   "id": "outing-aquarium",
+   "name": "Aquarium visit",
+   "words": [
+    "aquarium",
+    "fish tank",
+    "fish market",
+    "saw fish",
+    "fish pond"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.habitats.water-habitats.L3",
+     "why": "Fish live in water and take the air dissolved in it."
+    },
+    {
+     "k": "unit|sci.animals.animal-bodies.L3",
+     "why": "Fish breathe with gills and find food by smell and sight."
+    },
+    {
+     "k": "unit|sci.light.refraction.L3",
+     "why": "The fish looks bigger or in a different place because light bends in water."
+    },
+    {
+     "k": "unit|sci.classification.sorting-living-things.L3",
+     "why": "Sort the fish by colour, size or shape, and see which ways of sorting work best."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "Count the fish of each kind and draw a bar chart."
+    }
+   ]
+  },
+  {
+   "id": "outing-bird-watching",
+   "name": "Bird watching or sanctuary",
+   "words": [
+    "bird watching",
+    "birdwatching",
+    "sanctuary",
+    "wildlife park",
+    "safari",
+    "national park",
+    "bird sanctuary"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.animals.animals-around-us.L3",
+     "why": "Notice the birds' nests, food and calls: they show how each one lives."
+    },
+    {
+     "k": "unit|sci.animals.vertebrate-groups.L3",
+     "why": "Birds are the animals with feathers and wings, and they lay eggs."
+    },
+    {
+     "k": "unit|sci.ecology.food-chains.L3",
+     "why": "The kingfisher eats fish and the fish eat small water creatures."
+    },
+    {
+     "k": "unit|sci.environment.conservation.L3",
+     "why": "Sanctuaries keep forests and wetlands safe, so animals have a home."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "Make a tally of how many of each bird you saw."
+    }
+   ]
+  },
+  {
+   "id": "outing-botanical-garden",
+   "name": "Botanical garden or nursery",
+   "words": [
+    "botanical garden",
+    "nursery",
+    "plant nursery",
+    "bought plants",
+    "flower show",
+    "herbal garden"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.plants.plant-variety.L3",
+     "why": "Compare a tree, a creeper and a herb and see how their stems differ."
+    },
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "Roots hold, stems carry, leaves make food, and flowers make seeds."
+    },
+    {
+     "k": "unit|sci.seeds-and-life-cycles.plant-life-cycle.L3",
+     "why": "The seed grows into a plant and makes new seeds."
+    },
+    {
+     "k": "unit|sci.plants.photosynthesis.L3",
+     "why": "Leaves use light, air and water to make food for the plant."
+    },
+    {
+     "k": "eng:describing",
+     "why": "Describe a leaf you found: its colour, shape and feel."
+    }
+   ]
+  },
+  {
+   "id": "outing-cave-heritage",
+   "name": "Cave, monument or heritage site",
+   "words": [
+    "cave",
+    "monument",
+    "heritage site",
+    "caves",
+    "ajanta",
+    "ellora",
+    "taj mahal",
+    "ruins"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:history-past",
+     "why": "People made these long ago, and their stone, paint and carvings tell us how they lived."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Stone is hard and lasts a long time, while wood and cloth rot away."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "Look for the pattern and the matching halves in the carvings."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Writing on the walls may be in an old script no longer used today."
+    },
+    {
+     "k": "unit|sci.how-we-know.questioning-evidence.L3",
+     "why": "How do people know how old this is? Let's ask what proof they have."
+    }
+   ]
+  },
+  {
+   "id": "outing-dam-bridge",
+   "name": "Dam, bridge or canal",
+   "words": [
+    "dam",
+    "bridge",
+    "canal",
+    "lake",
+    "reservoir",
+    "bandh",
+    "pul"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.water.water-sources-and-uses.L3",
+     "why": "A dam holds water in a lake so that towns and fields can use it all year."
+    },
+    {
+     "k": "unit|sci.making-things.design-and-build.L3",
+     "why": "Bridges are made of triangles and arches, because those shapes stay strong."
+    },
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "The water pushes on the dam wall, so the wall is thicker at the bottom."
+    },
+    {
+     "k": "social:water-resources",
+     "why": "Canals carry water from the dam to the farms far away."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Count the triangles in the bridge."
+    }
+   ]
+  },
+  {
+   "id": "outing-petrol-pump",
+   "name": "Petrol pump or garage",
+   "words": [
+    "petrol pump",
+    "petrol station",
+    "garage",
+    "mechanic",
+    "filled petrol",
+    "tyre shop",
+    "puncture"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.energy.stored-energy.L3",
+     "why": "Petrol stores energy that the engine uses to move the vehicle."
+    },
+    {
+     "k": "math:capacity",
+     "why": "The pump measures litres, so how many litres fill a 10-litre tank?"
+    },
+    {
+     "k": "math:money",
+     "why": "If petrol costs 100 rupees a litre, how much for 3 litres?"
+    },
+    {
+     "k": "unit|sci.environment.pollution.L3",
+     "why": "Burning petrol makes smoke, so walking or cycling keeps the air cleaner."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "A tyre needs grooves to grip the road."
+    }
+   ]
+  },
+  {
+   "id": "outing-supermarket",
+   "name": "Supermarket or mall",
+   "words": [
+    "supermarket",
+    "mall",
+    "grocery shopping",
+    "kirana",
+    "shopping trip",
+    "big bazaar",
+    "grocery store"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:money",
+     "why": "Add up the prices of three things in the basket and find the total."
+    },
+    {
+     "k": "math:estimation",
+     "why": "Guess how much the basket will cost, then check against the bill."
+    },
+    {
+     "k": "unit|sci.food.nutrients.L3",
+     "why": "Read the label: which foods give us energy and which help us grow?"
+    },
+    {
+     "k": "unit|sci.food.food-safety.L3",
+     "why": "Check the date on the packet, because old food can make us sick."
+    },
+    {
+     "k": "unit|sci.waste.reduce-reuse-recycle.L3",
+     "why": "A cloth bag can be used again and again, but a plastic bag is thrown away."
+    }
+   ]
+  },
+  {
+   "id": "outing-fire-station-police",
+   "name": "Fire station or police station",
+   "words": [
+    "fire station",
+    "police station",
+    "fire engine",
+    "fireman",
+    "police",
+    "helpers visit"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.community.community-and-helpers.L3",
+     "why": "Firefighters and police help the whole neighbourhood stay safe."
+    },
+    {
+     "k": "unit|sci.changes.fire.L3",
+     "why": "Fire needs fuel, air and heat, and taking one away puts it out."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Know the emergency numbers and remember to call a grown-up first."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "Each helper has special clothes and tools for the job."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "Firefighters wear thick suits so heat does not reach their bodies."
+    }
+   ]
+  },
+  {
+   "id": "outing-school-trip",
+   "name": "School trip or picnic",
+   "words": [
+    "school trip",
+    "picnic",
+    "field trip",
+    "excursion",
+    "educational trip",
+    "outing with friends"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "eng:write-story-letter",
+     "why": "Write about the trip: what you saw, who went and what you liked most."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "The bus left at 8 and came back at 4, so how long was the trip?"
+    },
+    {
+     "k": "social:maps-places",
+     "why": "Where did we go? Let's find the place on a map."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "You felt tired from walking, because your muscles used up energy and need rest."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Tell the class about the trip in five sentences."
+    }
+   ]
+  },
+  {
+   "id": "outing-boat-ride",
+   "name": "Boat ride",
+   "words": [
+    "boat",
+    "boat ride",
+    "ferry",
+    "nauka",
+    "shikara",
+    "sailing",
+    "row boat",
+    "canoe"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "The oar pushes the water back, and the water pushes the boat forward."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "Boats are made of wood, fibre or metal, which can float when shaped well."
+    },
+    {
+     "k": "unit|sci.habitats.water-habitats.L3",
+     "why": "Look out for birds, fish and plants that live in the lake or river."
+    },
+    {
+     "k": "unit|sci.community.transport-and-communication.L3",
+     "why": "In many places a boat or a ferry is how people cross the water."
+    },
+    {
+     "k": "social:transport",
+     "why": "Boats, trains and buses are all ways people travel."
+    }
+   ]
+  },
+  {
+   "id": "outing-camping-night-sky",
+   "name": "Night sky outing",
+   "words": [
+    "camping",
+    "star gazing",
+    "stargazing",
+    "night walk",
+    "saw the stars",
+    "night sky",
+    "terrace night"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sky.stargazing.L3",
+     "why": "Find the pole star and the Saptarishi, which people have used to find the way."
+    },
+    {
+     "k": "unit|sci.sky.moon-phases.L3",
+     "why": "Look at the Moon tonight: is it getting bigger or smaller?"
+    },
+    {
+     "k": "unit|sci.sky.sun-moon-stars.L3",
+     "why": "Stars are far-away suns, and the Moon only shines by reflecting sunlight."
+    },
+    {
+     "k": "unit|sci.light.what-is-light.L3",
+     "why": "Star light takes a very long time to reach us, so we see stars as they were long ago."
+    },
+    {
+     "k": "math:direction-maps",
+     "why": "Which direction is the Moon in, and which way is north?"
+    }
+   ]
+  },
+  {
+   "id": "outing-temple-fest-procession",
+   "name": "Procession or rath yatra",
+   "words": [
+    "procession",
+    "rath yatra",
+    "ganpati visarjan",
+    "jaagran",
+    "rally",
+    "parade",
+    "palkhi",
+    "kavad"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:festivals-culture",
+     "why": "Processions are how communities show a festival and share it with everyone."
+    },
+    {
+     "k": "unit|sci.community.festivals.L3",
+     "why": "Festival foods and colours often come from plants and the season."
+    },
+    {
+     "k": "math:estimation",
+     "why": "About how many people do you think are in the crowd?"
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "Big chariots have large wheels and many people pulling, because friction makes them hard to move."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "Drums and horns are loud, so keep a little way back to protect our ears."
+    }
+   ]
+  },
+  {
+   "id": "outing-craft-village",
+   "name": "Handicraft or pottery visit",
+   "words": [
+    "pottery",
+    "potter",
+    "kumhar",
+    "weaver",
+    "handloom",
+    "handicraft",
+    "craft village",
+    "artisan"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "Clay from the ground, cotton from a plant and wool from a sheep become pots and cloth."
+    },
+    {
+     "k": "unit|sci.changes.fire.L3",
+     "why": "A kiln's heat bakes the clay hard so it cannot go back to mud."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "Potters and weavers work with their hands, and the skill passes down in families."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The weaver's cloth has a pattern of threads that repeat."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Each state has its own crafts that tell us about the people of that place."
+    }
+   ]
+  },
+  {
+   "id": "outing-salt-pan-mine",
+   "name": "Salt pan, quarry or mine",
+   "words": [
+    "salt pan",
+    "quarry",
+    "stone quarry",
+    "salt farm",
+    "stone cutting",
+    "coal mine"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.states.crystals.L3",
+     "why": "Salt crystals form flat faces as the water dries up."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "The Sun dries the water and leaves salt behind."
+    },
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "Rocks break slowly into soil over a very long time."
+    },
+    {
+     "k": "unit|sci.environment.conservation.L3",
+     "why": "We take things from the earth, so we must use them carefully so they last."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "The workers do hard jobs in the heat, and their work gives us salt and stone."
+    }
+   ]
+  },
+  {
+   "id": "outing-airshow-rocket",
+   "name": "Space or aviation museum",
+   "words": [
+    "space museum",
+    "isro",
+    "rocket",
+    "air force museum",
+    "aviation museum",
+    "airshow",
+    "aircraft museum"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sky.exploring-space.L3",
+     "why": "Rockets have to carry their own air and fuel, because space has none."
+    },
+    {
+     "k": "unit|sci.forces.flight.L3",
+     "why": "A plane has wings that push air down, and the air pushes the plane up."
+    },
+    {
+     "k": "unit|sci.sky.solar-system.L3",
+     "why": "Rockets go out to the Moon and the planets in our solar system."
+    },
+    {
+     "k": "unit|sci.how-we-know.stories-of-discovery.L3",
+     "why": "Many inventions began with mistakes and trying again."
+    },
+    {
+     "k": "social:history-past",
+     "why": "India sent its own rockets and satellites into space, and people worked hard for years to do it."
+    }
+   ]
+  },
+  {
+   "id": "outing-water-park",
+   "name": "Water park or swimming pool visit",
+   "words": [
+    "water park",
+    "pool",
+    "swimming pool",
+    "water slide",
+    "waterpark",
+    "splash"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "Water on the slide makes it slippery, so you slide faster."
+    },
+    {
+     "k": "unit|sci.gravity.weight-and-mass.L3",
+     "why": "You feel lighter in water, because the water pushes up against you."
+    },
+    {
+     "k": "unit|sci.habitats.water-habitats.L3",
+     "why": "Water pools hold tiny things that live in them if they are not cleaned."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "A shower before and after keeps the pool and our skin clean."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Always swim with a grown-up and follow the lifeguard."
+    }
+   ]
+  },
+  {
+   "id": "outing-construction-site",
+   "name": "Construction site or house building",
+   "words": [
+    "construction site",
+    "building site",
+    "house being built",
+    "mason",
+    "bricks",
+    "new house",
+    "cement"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.making-things.houses-and-shelter.L3",
+     "why": "A house stands up because of its strong foundation and walls."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "Bricks, steel, cement and glass are each chosen for a different job."
+    },
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "A pulley or a crane lifts heavy loads to the top."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "The builders measure every wall to make sure it is straight and the right length."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "Masons, electricians and plumbers all work together on a house."
+    }
+   ]
+  },
+  {
+   "id": "outing-waste-dump-recycling",
+   "name": "Recycling or compost visit",
+   "words": [
+    "recycling centre",
+    "kabadiwala",
+    "scrap shop",
+    "compost pit",
+    "waste segregation visit",
+    "dump yard"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.waste.sorting-waste.L3",
+     "why": "Waste is sorted into types so that each can be reused or recycled."
+    },
+    {
+     "k": "unit|sci.waste.compost-and-disposal.L3",
+     "why": "Kitchen waste turns into soil in the compost pit."
+    },
+    {
+     "k": "unit|sci.waste.reduce-reuse-recycle.L3",
+     "why": "A banana peel rots but plastic stays for years, so we use less plastic."
+    },
+    {
+     "k": "math:weight",
+     "why": "The scrap dealer weighs paper, metal and plastic to give a price per kilo."
+    },
+    {
+     "k": "math:money",
+     "why": "If paper fetches 12 rupees a kilo, how much for 5 kilos?"
+    }
+   ]
+  },
+  {
+   "id": "outing-hotel-restaurant",
+   "name": "Eating out at a restaurant",
+   "words": [
+    "restaurant",
+    "dhaba",
+    "eating out",
+    "hotel",
+    "cafe",
+    "canteen",
+    "ordered food"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:money",
+     "why": "Read the menu: how much will our order cost altogether?"
+    },
+    {
+     "k": "unit|sci.food.balanced-diet.L3",
+     "why": "Try to choose a plate with grain, dal, vegetables and curd."
+    },
+    {
+     "k": "unit|sci.food.food-safety.L3",
+     "why": "Clean hands and fresh food keep us from getting a tummy ache."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Order your own food, and say please and thank you."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Each state has its own food, so what is this dish and where does it come from?"
+    }
+   ]
+  },
+  {
+   "id": "outing-grandparents-visit",
+   "name": "Visiting relatives and grandparents",
+   "words": [
+    "grandparents",
+    "nani",
+    "dadi",
+    "nana",
+    "dada",
+    "relatives",
+    "visited family",
+    "ajji"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.growing-old.L3",
+     "why": "Grandparents were children once, and bodies change from baby to old age."
+    },
+    {
+     "k": "unit|sci.family.family.L3",
+     "why": "Draw how everyone in the family is related to you."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Ask your grandparent what they played and ate when they were your age."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Ask your grandparent three questions and listen to the answers."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "The language or dialect at your grandparents' home may be different from yours."
+    }
+   ]
+  },
+  {
+   "id": "outing-temple-lake-pilgrimage",
+   "name": "Pilgrimage or long yatra",
+   "words": [
+    "pilgrimage",
+    "yatra",
+    "tirth",
+    "char dham",
+    "ziyarat",
+    "haj",
+    "journey to holy place",
+    "dargah"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:festivals-culture",
+     "why": "People travel to holy places to pray, and each faith has its own."
+    },
+    {
+     "k": "social:maps-places",
+     "why": "Find the holy place on the map and trace the route."
+    },
+    {
+     "k": "social:transport",
+     "why": "Pilgrims go by train, bus, boat or on foot, depending on where they are going."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Long walks make muscles tired, so we rest and drink water."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "On the way, notice how food, dress and language change."
+    }
+   ]
+  },
+  {
+   "id": "outing-sports-stadium",
+   "name": "Match or stadium visit",
+   "words": [
+    "stadium",
+    "watched a match",
+    "cricket match",
+    "football match",
+    "match day",
+    "live match",
+    "kabaddi match"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.motion.physics-of-sport.L3",
+     "why": "A ball flies in an arc because gravity pulls it down while it moves forward."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "The scoreboard shows runs and wickets; we can draw a graph of the scores."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "If one team has 120 and the other 98, who is ahead and by how many?"
+    },
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "The roar of the crowd reaches you after you see the shot, because sound is slower than light."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Every game has rules, and fair play means everyone follows them."
+    }
+   ]
+  },
+  {
+   "id": "outing-hospital-blood-camp",
+   "name": "Health camp or eye check",
+   "words": [
+    "health camp",
+    "eye check",
+    "eye test",
+    "dentist",
+    "dental check-up",
+    "blood test",
+    "spectacles"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.light.how-we-see.L3",
+     "why": "We see when light comes into our eyes, and glasses help the eye focus it."
+    },
+    {
+     "k": "unit|sci.light.refraction.L3",
+     "why": "A lens in spectacles bends light so a clear picture forms."
+    },
+    {
+     "k": "unit|sci.body.body-parts.L3",
+     "why": "The dentist checks your teeth, and brushing keeps them strong."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Washing hands and brushing teeth keep germs away."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "Loud sounds can hurt our ears, so we protect our hearing."
+    }
+   ]
+  },
+  {
+   "id": "outing-tribal-forest",
+   "name": "Forest or jungle walk",
+   "words": [
+    "forest",
+    "jungle",
+    "forest walk",
+    "nature walk",
+    "nature trail",
+    "woods"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.habitats.habitats.L3",
+     "why": "A forest gives animals food, water and a place to hide."
+    },
+    {
+     "k": "unit|sci.ecology.interdependence.L3",
+     "why": "Trees give fruit and shade to animals, and animals spread the seeds."
+    },
+    {
+     "k": "unit|sci.ecology.cycles-and-decomposers.L3",
+     "why": "Fallen leaves are turned into soil by worms and moulds."
+    },
+    {
+     "k": "unit|sci.plants.plant-variety.L3",
+     "why": "Look for trees, climbers, shrubs and grass and see how their stems differ."
+    },
+    {
+     "k": "unit|sci.environment.conservation.L3",
+     "why": "Forests give us air, water and wood, so we must keep them safe."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1523 @@
+{
+ "cat": "questions",
+ "acts": [
+  {
+   "id": "questions-sky-blue",
+   "name": "Why is the sky blue",
+   "words": [
+    "sky blue",
+    "why is the sky blue",
+    "blue sky",
+    "sky colour"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "Sunlight looks white but has all the colours in it, and the air scatters the blue the most, so the whole sky looks blue."
+    },
+    {
+     "k": "unit|sci.sky.the-sun.L3",
+     "why": "All that light comes from the Sun, which is why the sky is blue only in the daytime."
+    },
+    {
+     "k": "unit|sci.weather.weather.L3",
+     "why": "Look up and describe the sky today: is it clear, hazy or full of cloud?"
+    },
+    {
+     "k": "eng:describing",
+     "why": "Can you find three words to describe the colour of the sky right now?"
+    }
+   ]
+  },
+  {
+   "id": "questions-sunset-red",
+   "name": "Why the sky turns red at sunset",
+   "words": [
+    "sunset red",
+    "red sky",
+    "why is the sun red",
+    "orange sky evening"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "At sunset the light travels through more air, so the blue is scattered away and the red and orange reach our eyes."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.day-and-night.L3",
+     "why": "The Sun looks low because our part of the spinning Earth is turning away from it."
+    },
+    {
+     "k": "unit|sci.sky.sun-moon-stars.L3",
+     "why": "The Sun has not changed colour, only the path its light takes to reach us has."
+    }
+   ]
+  },
+  {
+   "id": "questions-babies-come-from",
+   "name": "Where babies come from",
+   "words": [
+    "where do babies come from",
+    "how are babies born",
+    "baby in tummy",
+    "new baby",
+    "pregnant"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.how-babies-grow.L3",
+     "why": "A baby starts as one tiny cell inside the mother and grows for about nine months before it is born."
+    },
+    {
+     "k": "unit|sci.animals.animal-life-cycles.L3",
+     "why": "Animals have babies too; some grow inside the mother and some hatch from eggs."
+    },
+    {
+     "k": "unit|sci.body.growing-old.L3",
+     "why": "Every person starts as a baby and slowly grows older, you were a baby once too."
+    },
+    {
+     "k": "social:family-community",
+     "why": "A new baby joins a family, and everyone at home has a part in looking after it."
+    }
+   ]
+  },
+  {
+   "id": "questions-why-we-die",
+   "name": "Why do we die",
+   "words": [
+    "why do we die",
+    "death",
+    "passed away",
+    "grandfather died",
+    "dead",
+    "funeral"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.growing-old.L3",
+     "why": "Bodies change as they grow old, and in the end the body stops working, which is what we call death."
+    },
+    {
+     "k": "unit|sci.what-is-life.signs-of-life.L3",
+     "why": "A living thing breathes, grows and needs food, and when a body stops doing these things it is no longer alive."
+    },
+    {
+     "k": "unit|sci.ecology.cycles-and-decomposers.L3",
+     "why": "When a plant or animal dies, worms and moulds slowly turn it back into soil that helps new plants grow."
+    },
+    {
+     "k": "unit|sci.health.feelings-and-wellbeing.L3",
+     "why": "It is all right to feel sad when someone dies; talking about it helps."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Different families remember people who have died in their own ways, with prayers, flowers or a lamp."
+    }
+   ]
+  },
+  {
+   "id": "questions-moon-follows",
+   "name": "Why the moon follows us",
+   "words": [
+    "moon follows us",
+    "moon follows",
+    "moon following the car",
+    "moon is following"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sky.sun-moon-stars.L3",
+     "why": "The Moon is so far away that it hardly seems to move when we move, so it looks like it is coming along with us."
+    },
+    {
+     "k": "unit|sci.light.how-we-see.L3",
+     "why": "Our eyes see only the angle of far things, and that angle stays almost the same as we ride along."
+    },
+    {
+     "k": "unit|sci.sky.moon-phases.L3",
+     "why": "The Moon really does move across the sky, but slowly, because it goes around the Earth."
+    },
+    {
+     "k": "unit|sci.senses.perception.L3",
+     "why": "Our brain can be fooled about distance, so a faraway thing seems to follow us."
+    }
+   ]
+  },
+  {
+   "id": "questions-planes-fly",
+   "name": "How planes fly",
+   "words": [
+    "how do planes fly",
+    "aeroplane",
+    "airplane",
+    "plane flying",
+    "flight",
+    "jet"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.flight.L3",
+     "why": "The wings push air down, and the air pushes the plane up."
+    },
+    {
+     "k": "unit|sci.air.air-around-us.L3",
+     "why": "Air is made of tiny bits of matter, so it can push on things moving through it."
+    },
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "The engines push the plane forward, and that push makes air rush past the wings."
+    },
+    {
+     "k": "unit|sci.community.transport-and-communication.L3",
+     "why": "Planes carry people and goods across India and the world much faster than trains or buses."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Look at the ticket: how long is the flight, and what time will it land?"
+    }
+   ]
+  },
+  {
+   "id": "questions-sea-salty",
+   "name": "Why the sea is salty",
+   "words": [
+    "why is the sea salty",
+    "salty sea",
+    "sea water salt",
+    "sea salt",
+    "samudra"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "Rivers carry tiny bits of salt out of rocks, and the salt dissolves in the sea water."
+    },
+    {
+     "k": "unit|sci.water.water-cycle.L3",
+     "why": "When sea water evaporates the salt stays behind, so the sea stays salty while rain is fresh."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "In salt pans, people let the sun dry sea water and the white salt is left."
+    },
+    {
+     "k": "unit|sci.habitats.water-habitats.L3",
+     "why": "Fish and plants in the sea are made to live in salty water."
+    }
+   ]
+  },
+  {
+   "id": "questions-inside-earth",
+   "name": "What is inside the earth",
+   "words": [
+    "inside the earth",
+    "centre of the earth",
+    "what is under the ground",
+    "earth inside",
+    "volcano",
+    "earthquake"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "The top layer is soil, made of broken rock and dead plants, and under it is hard rock."
+    },
+    {
+     "k": "unit|sci.sky.solar-system.L3",
+     "why": "Earth is one of the eight planets, and it is a ball of rock going around the Sun."
+    },
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "Rocks and metals dug from under the ground are the materials we use to make many things."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "The earth is very big; how long do you think it would take to walk around it?"
+    }
+   ]
+  },
+  {
+   "id": "questions-why-sleep",
+   "name": "Why do we sleep",
+   "words": [
+    "why do we sleep",
+    "sleep",
+    "sleepy",
+    "cannot sleep",
+    "tired"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "While we sleep, our muscles rest and our body gets ready for the next day."
+    },
+    {
+     "k": "unit|sci.mind.thinking-and-memory.L3",
+     "why": "Sleep helps the brain keep what you learned today."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.rhythms-of-nature.L3",
+     "why": "People, plants and birds all follow a daily rhythm, and ours says sleep at night."
+    },
+    {
+     "k": "unit|sci.body.keeping-balance.L3",
+     "why": "Your body works to keep itself steady, and rest is part of that."
+    }
+   ]
+  },
+  {
+   "id": "questions-who-made-god",
+   "name": "Who made God",
+   "words": [
+    "who made god",
+    "who is god",
+    "bhagwan",
+    "allah",
+    "where does god live"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.how-we-know.questioning-evidence.L3",
+     "why": "Some questions are answered by looking at evidence and some by what a family believes, and it is good to know which is which."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Families around India pray in different ways and celebrate different festivals."
+    },
+    {
+     "k": "social:history-past",
+     "why": "People have asked big questions like this for thousands of years."
+    },
+    {
+     "k": "unit|sci.me-and-others.me-and-others.L3",
+     "why": "Other people may believe something different from us, and we can listen to them kindly."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "You can ask a grown-up what your family believes, and listen to the whole answer."
+    }
+   ]
+  },
+  {
+   "id": "questions-phone-works",
+   "name": "How the phone works",
+   "words": [
+    "how does the phone work",
+    "mobile phone",
+    "phone",
+    "cell phone",
+    "video call",
+    "whatsapp",
+    "smartphone"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "The phone has a tiny part that shakes when you speak, and that shaking is turned into a signal."
+    },
+    {
+     "k": "unit|sci.electricity.simple-circuits.L3",
+     "why": "The phone works because electricity from the battery goes round a circuit inside."
+    },
+    {
+     "k": "unit|sci.community.transport-and-communication.L3",
+     "why": "Phones send messages from one place to another without anyone carrying them."
+    },
+    {
+     "k": "unit|sci.energy.stored-energy.L3",
+     "why": "The battery stores energy, which is why it needs charging when it runs out."
+    },
+    {
+     "k": "math:money",
+     "why": "Phone plans cost money; can you work out what a month of calls costs?"
+    }
+   ]
+  },
+  {
+   "id": "questions-leaves-fall",
+   "name": "Why leaves fall",
+   "words": [
+    "why do leaves fall",
+    "falling leaves",
+    "dry leaves",
+    "autumn",
+    "patjhad",
+    "leaf fall"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.day-night-seasons.seasons.L3",
+     "why": "Some trees drop their leaves in the dry or cold season and grow new ones later."
+    },
+    {
+     "k": "unit|sci.plants.photosynthesis.L3",
+     "why": "Leaves make food from sunlight, and when there is less water or light the tree stops making it."
+    },
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "The leaf is joined to the stem by a small stalk, and it breaks off when the leaf gets dry."
+    },
+    {
+     "k": "unit|sci.waste.compost-and-disposal.L3",
+     "why": "Fallen leaves can be put in a compost heap and turn into soil."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "Once the leaf lets go, gravity pulls it down."
+    }
+   ]
+  },
+  {
+   "id": "questions-bedtime",
+   "name": "Why do I have to go to bed",
+   "words": [
+    "why do i have to go to bed",
+    "bedtime",
+    "go to bed",
+    "sleep time",
+    "lights out"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "A child's body grows and rests a lot at night, so you need enough sleep."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.day-and-night.L3",
+     "why": "Night comes when our side of the Earth turns away from the Sun."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "If you go to bed at nine and wake at six, how many hours do you sleep?"
+    },
+    {
+     "k": "unit|sci.family.family.L3",
+     "why": "Grown-ups also have a bedtime, and families make rules like this to look after everyone."
+    }
+   ]
+  },
+  {
+   "id": "questions-rain-from",
+   "name": "Where rain comes from",
+   "words": [
+    "where does rain come from",
+    "rain",
+    "barish",
+    "monsoon",
+    "baarish",
+    "clouds",
+    "puddle"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.water.water-cycle.L3",
+     "why": "Water goes up as vapour, makes clouds, and comes down again as rain."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "Warm water turns into vapour, and when it cools high up it turns back into drops."
+    },
+    {
+     "k": "unit|sci.weather.weather.L3",
+     "why": "A rain gauge can measure how much rain fell today."
+    },
+    {
+     "k": "unit|sci.weather.forecasting.L3",
+     "why": "Dark clouds and a cool wind can tell us rain is coming."
+    },
+    {
+     "k": "social:water-resources",
+     "why": "Monsoon rain fills rivers, wells and tanks that many families use all year."
+    }
+   ]
+  },
+  {
+   "id": "questions-onions-cry",
+   "name": "Why onions make us cry",
+   "words": [
+    "onion cry",
+    "why do onions make us cry",
+    "cutting onions",
+    "pyaaz",
+    "onion"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.chemistry.reaction-speed.L3",
+     "why": "Cutting the onion lets two things inside mix and change quickly into a gas that stings."
+    },
+    {
+     "k": "unit|sci.senses.five-senses.L3",
+     "why": "The gas reaches the eyes, and the eyes make tears to wash it away."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "An onion is the underground part of a plant that stores food."
+    },
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "The onion is a bulb, a swollen part of the plant under the soil."
+    }
+   ]
+  },
+  {
+   "id": "questions-stars-night",
+   "name": "What are stars",
+   "words": [
+    "what are stars",
+    "stars",
+    "twinkle",
+    "tara",
+    "why do stars twinkle",
+    "night sky"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sky.sun-moon-stars.L3",
+     "why": "The Sun is a star, and the other stars look tiny only because they are so far away."
+    },
+    {
+     "k": "unit|sci.sky.stargazing.L3",
+     "why": "People have joined stars into patterns like the Saptarishi for thousands of years."
+    },
+    {
+     "k": "unit|sci.sky.history-of-astronomy.L3",
+     "why": "People used the sky to tell time and seasons before there were clocks."
+    },
+    {
+     "k": "unit|sci.story-of-universe.galaxies.L3",
+     "why": "Our stars belong to a huge group called a galaxy."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Try counting the stars you can see; there are far more than we can count."
+    }
+   ]
+  },
+  {
+   "id": "questions-moon-shape",
+   "name": "Why the moon changes shape",
+   "words": [
+    "moon changes shape",
+    "phases of the moon",
+    "full moon",
+    "new moon",
+    "chand",
+    "half moon",
+    "amavasya",
+    "purnima"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sky.moon-phases.L3",
+     "why": "The Moon is always round, but we see only the part lit by the Sun."
+    },
+    {
+     "k": "unit|sci.sky.sun-moon-stars.L3",
+     "why": "The Moon does not make light, it reflects the Sun's light."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Many festivals, like Eid and Purnima, follow the Moon."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "The Moon takes about a month to go through all its shapes, which is where calendar months come from."
+    }
+   ]
+  },
+  {
+   "id": "questions-rainbow",
+   "name": "How a rainbow forms",
+   "words": [
+    "rainbow",
+    "indradhanush",
+    "why is there a rainbow",
+    "colours in the sky"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "Sunlight bends and splits into colours inside raindrops."
+    },
+    {
+     "k": "unit|sci.light.refraction.L3",
+     "why": "Light bends when it goes from air into water, and that is the start of a rainbow."
+    },
+    {
+     "k": "unit|sci.weather.weather.L3",
+     "why": "You see a rainbow when the Sun is behind you and rain is in front."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The colours come in the same order every time, and you can say them in order."
+    }
+   ]
+  },
+  {
+   "id": "questions-day-night",
+   "name": "Why day and night happen",
+   "words": [
+    "why is it dark at night",
+    "day and night",
+    "night",
+    "why does the sun go away",
+    "sunrise"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.day-night-seasons.day-and-night.L3",
+     "why": "The Earth spins once a day, so each place faces the Sun and then turns away."
+    },
+    {
+     "k": "unit|sci.sky.the-sun.L3",
+     "why": "The Sun does not move round us, we turn."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "One spin of the Earth is one day, which is twenty-four hours."
+    },
+    {
+     "k": "unit|sci.planet-earth.maps-and-directions.L3",
+     "why": "The Sun rises in the east, which helps us find directions."
+    }
+   ]
+  },
+  {
+   "id": "questions-seasons-why",
+   "name": "Why we have summer and winter",
+   "words": [
+    "why is it hot in summer",
+    "why is it cold in winter",
+    "summer",
+    "winter",
+    "season",
+    "garmi",
+    "sardi"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.day-night-seasons.seasons.L3",
+     "why": "The Earth is tilted, so at different times of the year the Sun's light falls more strongly on our part."
+    },
+    {
+     "k": "unit|sci.sky.the-sun.L3",
+     "why": "The Sun's light warms the ground, and more direct light means more heat."
+    },
+    {
+     "k": "unit|sci.weather.weather.L3",
+     "why": "A thermometer can show how the temperature changes from month to month."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "We can draw a graph of the temperature each month to see the pattern."
+    }
+   ]
+  },
+  {
+   "id": "questions-hot-cold",
+   "name": "Why things feel hot or cold",
+   "words": [
+    "cold",
+    "why is the tea hot",
+    "freezer",
+    "fever"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "Heat always moves from the hotter thing to the colder thing."
+    },
+    {
+     "k": "unit|sci.energy.heat-moves.L3",
+     "why": "A metal spoon in hot tea gets hot because the heat travels along it."
+    },
+    {
+     "k": "unit|sci.senses.more-senses.L3",
+     "why": "We have special feelings in our skin that tell us warm and cold."
+    },
+    {
+     "k": "unit|sci.body.keeping-balance.L3",
+     "why": "When you are hot your body sweats to cool you down, and when you are cold you shiver."
+    }
+   ]
+  },
+  {
+   "id": "questions-gravity-down",
+   "name": "Why things fall down",
+   "words": [
+    "why do things fall",
+    "gravity",
+    "dropped",
+    "fall down",
+    "why do we not fall off the earth"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "The Earth pulls everything towards it, and this pull is called gravity."
+    },
+    {
+     "k": "unit|sci.gravity.weight-and-mass.L3",
+     "why": "Weight is how hard the Earth pulls on a thing."
+    },
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "Gravity is a pull, and so is a magnet."
+    },
+    {
+     "k": "unit|sci.sky.solar-system.L3",
+     "why": "The Sun pulls on the planets too, and that keeps them going round it."
+    }
+   ]
+  },
+  {
+   "id": "questions-magnet-stick",
+   "name": "How magnets stick",
+   "words": [
+    "magnet",
+    "why do magnets stick",
+    "fridge magnet",
+    "magnet sticks"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.magnets.magnets-and-materials.L3",
+     "why": "A magnet pulls iron towards it without touching."
+    },
+    {
+     "k": "unit|sci.magnets.poles.L3",
+     "why": "Two magnets pull together or push apart depending on which ends meet."
+    },
+    {
+     "k": "unit|sci.materials.magnetic-materials.L3",
+     "why": "Only a few materials, like iron, stick to a magnet."
+    },
+    {
+     "k": "math:problem-solving",
+     "why": "Test things at home and sort them into sticks and does not stick."
+    }
+   ]
+  },
+  {
+   "id": "questions-fan-wind",
+   "name": "What is wind",
+   "words": [
+    "wind",
+    "what is wind",
+    "hawa",
+    "breeze",
+    "why does the fan cool us"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.weather.wind-and-air.L3",
+     "why": "Wind is air on the move, from where it is cooler to where it is warmer."
+    },
+    {
+     "k": "unit|sci.air.air-around-us.L3",
+     "why": "We cannot see air, but we can feel it when it moves."
+    },
+    {
+     "k": "unit|sci.energy.energy-around-us.L3",
+     "why": "Wind has energy and can turn windmills and lift kites."
+    },
+    {
+     "k": "unit|sci.weather.weather.L3",
+     "why": "A wind vane shows which way the wind is blowing."
+    }
+   ]
+  },
+  {
+   "id": "questions-birds-fly",
+   "name": "How birds fly",
+   "words": [
+    "how do birds fly",
+    "bird flying",
+    "birds fly",
+    "pigeon",
+    "crow",
+    "sparrow"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.flight.L3",
+     "why": "A bird pushes air down with its wings, and the air pushes the bird up."
+    },
+    {
+     "k": "unit|sci.animals.vertebrate-groups.L3",
+     "why": "Birds are animals with a backbone, feathers and wings."
+    },
+    {
+     "k": "unit|sci.making-things.biomimicry.L3",
+     "why": "People looked at how birds fly when they designed aeroplane wings."
+    },
+    {
+     "k": "unit|sci.animals.animal-bodies.L3",
+     "why": "Birds have light bones and strong chest muscles for flying."
+    }
+   ]
+  },
+  {
+   "id": "questions-fish-water",
+   "name": "How fish breathe underwater",
+   "words": [
+    "how do fish breathe",
+    "fish",
+    "aquarium",
+    "fish in water",
+    "machli"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.animals.animal-bodies.L3",
+     "why": "Fish take the air that is mixed in the water through their gills."
+    },
+    {
+     "k": "unit|sci.habitats.water-habitats.L3",
+     "why": "Water has air dissolved in it, and that is what fish use."
+    },
+    {
+     "k": "unit|sci.animals.vertebrate-groups.L3",
+     "why": "Fish are animals with a backbone that live in water."
+    },
+    {
+     "k": "unit|sci.habitats.adaptations.L3",
+     "why": "A fish's shape and fins are made for moving in water."
+    }
+   ]
+  },
+  {
+   "id": "questions-plants-grow",
+   "name": "How plants grow",
+   "words": [
+    "how do plants grow",
+    "seed",
+    "plant growing",
+    "tree",
+    "sapling",
+    "garden",
+    "bij"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.seeds-and-life-cycles.seeds-and-germination.L3",
+     "why": "A seed needs water and warmth to sprout."
+    },
+    {
+     "k": "unit|sci.plants.what-plants-need.L3",
+     "why": "Plants need light, water and air to grow well."
+    },
+    {
+     "k": "unit|sci.plants.photosynthesis.L3",
+     "why": "Leaves make food using sunlight."
+    },
+    {
+     "k": "unit|sci.plants.water-transport.L3",
+     "why": "Water goes up from the roots to the leaves."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Measure the plant each week and see how much it has grown."
+    }
+   ]
+  },
+  {
+   "id": "questions-food-energy",
+   "name": "Why we need to eat",
+   "words": [
+    "why do we eat",
+    "hungry",
+    "why do we need food",
+    "tummy rumble",
+    "food"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.food.nutrients.L3",
+     "why": "Food gives the body what it needs to grow and have energy."
+    },
+    {
+     "k": "unit|sci.basic-needs.basic-needs.L3",
+     "why": "Food, water and air are things every living body needs."
+    },
+    {
+     "k": "unit|sci.food.balanced-diet.L3",
+     "why": "Different foods do different jobs, so we need many kinds."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "Our food comes from plants and animals, and plants get their energy from the Sun."
+    }
+   ]
+  },
+  {
+   "id": "questions-heartbeat",
+   "name": "Why the heart beats",
+   "words": [
+    "heartbeat",
+    "heart beating",
+    "pulse",
+    "why does my heart beat fast",
+    "heart"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "The heart pumps blood around the body so oxygen can reach every part."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "After running the heart beats faster because the muscles need more oxygen."
+    },
+    {
+     "k": "unit|sci.body.organs-inside.L3",
+     "why": "The heart sits in the chest, slightly to the left, inside your ribs."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Count your pulse for one minute and see how many beats you get."
+    }
+   ]
+  },
+  {
+   "id": "questions-germs-sick",
+   "name": "Why we fall sick",
+   "words": [
+    "why do we get sick",
+    "fever",
+    "cold and cough",
+    "germs",
+    "sick",
+    "doctor",
+    "medicine"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.microorganisms.germs.L3",
+     "why": "Germs are tiny living things that can go from one person to another."
+    },
+    {
+     "k": "unit|sci.body.immune-system.L3",
+     "why": "Your body has a way of fighting germs and getting better."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Washing hands with soap lifts germs off."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "Doctors and nurses help people to get well."
+    }
+   ]
+  },
+  {
+   "id": "questions-hair-nails",
+   "name": "Why hair and nails grow",
+   "words": [
+    "hair grows",
+    "nails grow",
+    "haircut",
+    "nail cutting",
+    "why do we cut hair"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.body-parts.L3",
+     "why": "Hair and nails are parts of the outside of your body that keep growing."
+    },
+    {
+     "k": "unit|sci.what-is-life.cells.L3",
+     "why": "They grow because new cells keep being made."
+    },
+    {
+     "k": "unit|sci.what-is-life.signs-of-life.L3",
+     "why": "Growing is one of the signs that something is alive."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Keeping nails short and clean stops dirt and germs from collecting."
+    }
+   ]
+  },
+  {
+   "id": "questions-dreams",
+   "name": "Why we dream",
+   "words": [
+    "dream",
+    "dreams",
+    "bad dream",
+    "nightmare",
+    "sapna"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "The brain stays busy during sleep and dreams happen then."
+    },
+    {
+     "k": "unit|sci.mind.thinking-and-memory.L3",
+     "why": "Dreams are made from things the brain has seen and remembered."
+    },
+    {
+     "k": "unit|sci.health.feelings-and-wellbeing.L3",
+     "why": "A scary dream can feel real, but you are safe and can tell someone about it."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Tell your dream to someone in the morning, and listen to theirs."
+    },
+    {
+     "k": "eng:write-story-letter",
+     "why": "You can write your dream down as a story."
+    }
+   ]
+  },
+  {
+   "id": "questions-eyes-see",
+   "name": "How we see",
+   "words": [
+    "how do we see",
+    "eyes",
+    "why do we need light to see",
+    "spectacles",
+    "glasses",
+    "dark room"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.light.how-we-see.L3",
+     "why": "We see when light bounces off things and goes into our eyes."
+    },
+    {
+     "k": "unit|sci.light.transparent-opaque.L3",
+     "why": "Light goes through some things, like glass, and not through others."
+    },
+    {
+     "k": "unit|sci.light.refraction.L3",
+     "why": "Spectacles use lenses that bend light to help the eye."
+    },
+    {
+     "k": "unit|sci.senses.five-senses.L3",
+     "why": "Eyes are one of our senses, along with ears, nose, tongue and skin."
+    }
+   ]
+  },
+  {
+   "id": "questions-echo",
+   "name": "Why we hear an echo",
+   "words": [
+    "echo",
+    "shout in a well",
+    "echo in the hills",
+    "voice comes back"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "Sound travels as waves that can bounce back from a wall or hill."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "Every sound starts with something shaking."
+    },
+    {
+     "k": "unit|sci.light.reflection.L3",
+     "why": "Light bounces off a mirror like sound bounces off a wall."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "Our ears catch the sound that comes back."
+    }
+   ]
+  },
+  {
+   "id": "questions-thunder-lightning",
+   "name": "Thunder and lightning",
+   "words": [
+    "thunder",
+    "lightning",
+    "bijli",
+    "why is there thunder",
+    "thunderstorm",
+    "storm"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.electricity.static-and-charge.L3",
+     "why": "Lightning is a huge spark of static electricity in the clouds."
+    },
+    {
+     "k": "unit|sci.light.what-is-light.L3",
+     "why": "We see the flash first because light travels much faster than sound."
+    },
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "Thunder is the sound of the air shaking after the spark."
+    },
+    {
+     "k": "unit|sci.weather.forecasting.L3",
+     "why": "Dark tall clouds can tell us a storm is on its way."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "During a storm it is safer to stay indoors and away from tall trees."
+    }
+   ]
+  },
+  {
+   "id": "questions-boats-float",
+   "name": "Why boats float",
+   "words": [
+    "boat float",
+    "why do boats float",
+    "ship",
+    "sink or float",
+    "float",
+    "nav"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Whether a thing floats depends on what it is made of and its shape."
+    },
+    {
+     "k": "unit|sci.gravity.weight-and-mass.L3",
+     "why": "A heavy ship can float because water pushes up on it."
+    },
+    {
+     "k": "unit|sci.materials.testing-materials.L3",
+     "why": "Put different things in a bucket of water and see which float."
+    },
+    {
+     "k": "social:transport",
+     "why": "Boats and ships carry people and goods over rivers and seas."
+    }
+   ]
+  },
+  {
+   "id": "questions-bicycle-balance",
+   "name": "How a bicycle stays up",
+   "words": [
+    "cycle balance",
+    "how does a cycle stay up",
+    "bicycle",
+    "cycle",
+    "learn cycling",
+    "wheels"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.motion.spinning.L3",
+     "why": "Spinning wheels help a cycle stay upright."
+    },
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "A moving thing keeps moving, which helps you balance when going."
+    },
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "The wheel, pedals and gears make it easier to move."
+    },
+    {
+     "k": "unit|sci.senses.more-senses.L3",
+     "why": "Your body has a sense of balance that tells you when you lean."
+    }
+   ]
+  },
+  {
+   "id": "questions-fire-burn",
+   "name": "Why fire burns",
+   "words": [
+    "fire",
+    "flame",
+    "candle",
+    "diya",
+    "matchstick",
+    "why does fire burn",
+    "agni"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.changes.fire.L3",
+     "why": "A fire needs fuel, air and heat to keep burning."
+    },
+    {
+     "k": "unit|sci.air.air-around-us.L3",
+     "why": "A candle goes out under a glass because the air is used up."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "Fire gives out heat and light."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Fire can hurt, so we only light it with a grown-up."
+    }
+   ]
+  },
+  {
+   "id": "questions-why-number-zero",
+   "name": "Why numbers never end",
+   "words": [
+    "numbers never end",
+    "biggest number",
+    "infinity",
+    "what is zero",
+    "last number",
+    "zero"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.nothing-and-forever.infinity.L3",
+     "why": "You can always add one more to any number, so the numbers never stop."
+    },
+    {
+     "k": "unit|sci.nothing-and-forever.zero.L3",
+     "why": "Zero means none, and it also holds an empty place in a number."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Place value lets us write very big numbers with just ten digits."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Take any number and add one; is it ever the last number?"
+    }
+   ]
+  },
+  {
+   "id": "questions-dinosaurs",
+   "name": "What happened to the dinosaurs",
+   "words": [
+    "dinosaur",
+    "dinosaurs",
+    "fossil",
+    "extinct",
+    "long ago animals"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.evolution.story-of-life.L3",
+     "why": "Life has been on Earth for a very long time and has changed a lot."
+    },
+    {
+     "k": "unit|sci.sky.moons-asteroids-comets.L3",
+     "why": "Many scientists think a huge rock from space hit the Earth and changed the weather."
+    },
+    {
+     "k": "unit|sci.how-we-know.stories-of-discovery.L3",
+     "why": "We know about dinosaurs from bones found in rocks."
+    },
+    {
+     "k": "social:history-past",
+     "why": "The dinosaurs lived long before any people."
+    },
+    {
+     "k": "unit|sci.animals.vertebrate-groups.L3",
+     "why": "Birds are the living relatives of some dinosaurs."
+    }
+   ]
+  },
+  {
+   "id": "questions-why-plastic",
+   "name": "Why plastic does not rot",
+   "words": [
+    "plastic",
+    "why does plastic not rot",
+    "plastic bag",
+    "garbage",
+    "kachra",
+    "litter"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.waste.reduce-reuse-recycle.L3",
+     "why": "A peel rots away, but plastic stays for many years."
+    },
+    {
+     "k": "unit|sci.chemistry.polymers.L3",
+     "why": "Plastic is made of very long molecules that are hard to break down."
+    },
+    {
+     "k": "unit|sci.environment.pollution.L3",
+     "why": "Plastic thrown away can harm animals, rivers and the land."
+    },
+    {
+     "k": "unit|sci.waste.sorting-waste.L3",
+     "why": "Sorting waste helps plastic be reused."
+    }
+   ]
+  },
+  {
+   "id": "questions-why-salt-dissolve",
+   "name": "Where the sugar goes in tea",
+   "words": [
+    "sugar in tea",
+    "sugar dissolve",
+    "where did the sugar go",
+    "stir"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "Sugar breaks into tiny bits that spread through the water."
+    },
+    {
+     "k": "unit|sci.states.particles.L3",
+     "why": "The sugar is still there, in pieces too small to see."
+    },
+    {
+     "k": "unit|sci.states.crystals.L3",
+     "why": "If the water dries up, the sugar comes back as crystals."
+    },
+    {
+     "k": "math:weight",
+     "why": "The tea with sugar weighs the same as the tea and sugar separately."
+    }
+   ]
+  },
+  {
+   "id": "questions-sun-hot",
+   "name": "Why the sun is hot",
+   "words": [
+    "sun hot",
+    "why is the sun hot",
+    "surya",
+    "sunshine",
+    "sunburn"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sky.the-sun.L3",
+     "why": "The Sun is a huge ball of burning gas that gives out heat and light."
+    },
+    {
+     "k": "unit|sci.sky.sun-moon-stars.L3",
+     "why": "The Sun is a star, and it seems big because it is the closest one."
+    },
+    {
+     "k": "unit|sci.energy.energy-around-us.L3",
+     "why": "Sunlight is the energy that plants, weather and our food depend on."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "We never look straight at the Sun, because it can hurt our eyes."
+    }
+   ]
+  },
+  {
+   "id": "questions-why-animals-different",
+   "name": "Why animals look different",
+   "words": [
+    "why do animals look different",
+    "animal",
+    "camel",
+    "elephant",
+    "zoo",
+    "tiger"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.habitats.adaptations.L3",
+     "why": "Each animal's body is suited to the place where it lives."
+    },
+    {
+     "k": "unit|sci.classification.sorting-living-things.L3",
+     "why": "We can sort animals into groups by what they have in common."
+    },
+    {
+     "k": "unit|sci.habitats.habitats.L3",
+     "why": "A habitat gives an animal what it needs."
+    },
+    {
+     "k": "unit|sci.ecology.food-chains.L3",
+     "why": "Animals depend on each other for food."
+    }
+   ]
+  },
+  {
+   "id": "questions-shadows",
+   "name": "How shadows are made",
+   "words": [
+    "shadow",
+    "shadows",
+    "chhaya",
+    "shadow play",
+    "why do we have a shadow"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.light.transparent-opaque.L3",
+     "why": "A shadow forms when something blocks the light."
+    },
+    {
+     "k": "unit|sci.light.what-is-light.L3",
+     "why": "Light travels in straight lines, so it cannot bend around us."
+    },
+    {
+     "k": "unit|sci.sky.history-of-astronomy.L3",
+     "why": "People once told the time by watching shadows move."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Measure your shadow in the morning and at noon and compare."
+    }
+   ]
+  },
+  {
+   "id": "questions-mirror",
+   "name": "Why a mirror shows us",
+   "words": [
+    "mirror",
+    "reflection",
+    "aaina",
+    "why do i see myself"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.light.reflection.L3",
+     "why": "A mirror bounces light back to your eyes, so you see yourself."
+    },
+    {
+     "k": "unit|sci.patterns-symmetry.symmetry-in-nature.L3",
+     "why": "A mirror image is like the other half of a symmetrical shape."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "Hold a mirror to half a picture and see the whole."
+    },
+    {
+     "k": "unit|sci.light.how-we-see.L3",
+     "why": "We see ourselves because light from us goes to the mirror and back."
+    }
+   ]
+  },
+  {
+   "id": "questions-lights-power",
+   "name": "Where electricity comes from",
+   "words": [
+    "electricity",
+    "power cut",
+    "where does electricity come from",
+    "bulb",
+    "switch",
+    "light bulb",
+    "load shedding"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.electricity.simple-circuits.L3",
+     "why": "A bulb lights only when electricity has a full loop to go round."
+    },
+    {
+     "k": "unit|sci.energy.energy-around-us.L3",
+     "why": "Electricity is a kind of energy that can make light, heat and movement."
+    },
+    {
+     "k": "unit|sci.energy.stored-energy.L3",
+     "why": "A battery stores energy until we use it."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Never touch switches with wet hands or put things into sockets."
+    }
+   ]
+  }
+ ]
+}

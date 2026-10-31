@@ -1,0 +1,1691 @@
+{
+ "cat": "games",
+ "acts": [
+  {
+   "id": "games-chess",
+   "name": "Chess",
+   "words": [
+    "chess",
+    "chess class",
+    "chess board",
+    "checkmate",
+    "played chess"
+   ],
+   "type": "did",
+   "skill": "Chess",
+   "skillcat": "mind",
+   "links": [
+    {
+     "k": "math:problem-solving",
+     "why": "Before each move in chess you think what happens next, and that is how you solve problems."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "The chess board is a square grid, and each piece moves in its own shape of path, straight or diagonal."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "In chess each piece is worth some points, so you can add up who is ahead."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Chess began in India long ago, and it was called chaturanga."
+    },
+    {
+     "k": "math:direction-maps",
+     "why": "The rook goes straight and the bishop goes diagonal, so you are using directions on a map."
+    }
+   ]
+  },
+  {
+   "id": "games-chess-class",
+   "name": "Chess class",
+   "words": [
+    "chess class",
+    "chess coaching",
+    "chess academy",
+    "chess tournament"
+   ],
+   "type": "class",
+   "skill": "Chess",
+   "skillcat": "mind",
+   "links": [
+    {
+     "k": "math:problem-solving",
+     "why": "In a chess class you plan a few moves ahead, which is how to solve any hard problem."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Good players spot the same patterns again and again, like a fork or a trap."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Chess started in India as chaturanga, and it travelled across the world."
+    },
+    {
+     "k": "math:direction-maps",
+     "why": "Each piece moves along rows, columns or diagonals, like following directions on a map."
+    }
+   ]
+  },
+  {
+   "id": "games-carrom",
+   "name": "Carrom",
+   "words": [
+    "carrom",
+    "carrom board",
+    "striker",
+    "carom"
+   ],
+   "type": "did",
+   "skill": "Carrom",
+   "skillcat": "mind",
+   "links": [
+    {
+     "k": "unit|sci.motion.physics-of-sport.L3",
+     "why": "When your finger flicks the striker, it pushes the coin and the coin changes direction."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "The powder on the board lets the striker slide far because it reduces friction."
+    },
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "The striker keeps moving until it hits a coin or the edge, because moving things keep moving."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Each coin has points, so you add them up to find the score."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "You aim at angles and bounce off the sides, so you are using shapes and angles."
+    }
+   ]
+  },
+  {
+   "id": "games-ludo",
+   "name": "Ludo",
+   "words": [
+    "ludo",
+    "dice game",
+    "rolled a six",
+    "ludo board"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:count-place-value",
+     "why": "You count each square as you move your token the number the dice shows."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "You add the dice number to your place, so you can say where you will land."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "If you roll the dice many times, you can count how often each number comes and show it as a graph."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Playing together means you listen to the rules and take turns to speak."
+    }
+   ]
+  },
+  {
+   "id": "games-snakes-ladders",
+   "name": "Snakes and ladders",
+   "words": [
+    "snakes and ladders",
+    "saap seedi",
+    "snake and ladder",
+    "moksha patam",
+    "paramapada sopanam"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:count-place-value",
+     "why": "The board has numbers from 1 to 100, so you read them in order as you go."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Each throw you add the dice number, and a ladder adds a jump while a snake takes you back."
+    },
+    {
+     "k": "social:history-past",
+     "why": "This game started in India long ago as a way to teach right and wrong, and it was called Moksha Patam."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The numbers on the board go in rows that change direction, which is a pattern you can see."
+    }
+   ]
+  },
+  {
+   "id": "games-playing-cards",
+   "name": "Playing cards",
+   "words": [
+    "cards",
+    "playing cards",
+    "teen patti",
+    "rummy",
+    "card game",
+    "uno"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:count-place-value",
+     "why": "Each card has a number and you put them in order, from the smallest to the biggest."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "In many card games you add up the numbers in your hand."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "You can sort cards by suit and count each group, then show it in a table."
+    },
+    {
+     "k": "math:problem-solving",
+     "why": "You have to remember which cards were played and guess what the others hold."
+    }
+   ]
+  },
+  {
+   "id": "games-jigsaw",
+   "name": "Jigsaw puzzle",
+   "words": [
+    "jigsaw",
+    "jigsaw puzzle",
+    "puzzle pieces",
+    "completed a puzzle"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:shapes-space",
+     "why": "Each piece fits only where its edges match, so you turn and flip shapes in your head."
+    },
+    {
+     "k": "math:problem-solving",
+     "why": "Finding the edges first and then sorting by colour is a way of solving a big problem in small steps."
+    },
+    {
+     "k": "math:patterns",
+     "why": "You look for a repeating colour or line to know which pieces go next to each other."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "You can count the pieces, then count how many are still left."
+    }
+   ]
+  },
+  {
+   "id": "games-puzzles-riddles",
+   "name": "Puzzles and riddles",
+   "words": [
+    "puzzle",
+    "riddle",
+    "paheli",
+    "brain teaser",
+    "sudoku",
+    "crossword",
+    "maze"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:problem-solving",
+     "why": "A riddle has an answer hidden in it, and you find it by trying ideas one by one."
+    },
+    {
+     "k": "eng:new-words",
+     "why": "Crosswords and riddles make you find the right word for a clue."
+    },
+    {
+     "k": "hin:new-words",
+     "why": "A paheli plays with words, so you learn new Hindi words and what they mean."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Sudoku and number puzzles follow a pattern, and you find which number fits."
+    }
+   ]
+  },
+  {
+   "id": "games-lego",
+   "name": "Lego and building blocks",
+   "words": [
+    "lego",
+    "blocks",
+    "building blocks",
+    "built with blocks",
+    "duplo",
+    "construction toy"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:shapes-space",
+     "why": "Each block has a shape, and you see how they fit together to make a bigger shape."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "You count the studs and the blocks, and you can see two rows of four make eight."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "A block with 2 rows of 4 studs has 2 times 4, which is 8 studs."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "Blocks are made of strong plastic or wood because they must not break when pressed together."
+    },
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "You push the blocks together and pull them apart, and both are forces."
+    }
+   ]
+  },
+  {
+   "id": "games-block-tower",
+   "name": "Building a tower",
+   "words": [
+    "tower",
+    "stacked blocks",
+    "stacking",
+    "built a tower",
+    "jenga"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "The tower falls when it leans too far, because gravity pulls everything down."
+    },
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "Your hand pushes each block into place, and a small push can make the tower fall."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "You can measure how tall the tower is with a ruler or by counting blocks."
+    },
+    {
+     "k": "unit|sci.how-we-know.fair-tests.L3",
+     "why": "Try a wide base and then a narrow base and see which tower stays up longer."
+    }
+   ]
+  },
+  {
+   "id": "games-rubiks-cube",
+   "name": "Rubik's cube",
+   "words": [
+    "rubik",
+    "rubiks cube",
+    "rubik's cube",
+    "cube puzzle",
+    "speedcubing"
+   ],
+   "type": "did",
+   "skill": "Rubik's cube",
+   "skillcat": "mind",
+   "links": [
+    {
+     "k": "math:problem-solving",
+     "why": "You solve the cube by learning small steps in order and repeating them."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "You turn a cube in your mind and picture how it looks from the other sides."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Each move set is a pattern you repeat, and the colours come back in order."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Many children time themselves with a stopwatch and see their seconds go down."
+    }
+   ]
+  },
+  {
+   "id": "games-board-games",
+   "name": "Board games",
+   "words": [
+    "board game",
+    "monopoly",
+    "business game",
+    "family game night",
+    "game night",
+    "scrabble"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:money",
+     "why": "In a game like Business you pay, earn and give change with play money."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "You add the dice and add or take away money as you play."
+    },
+    {
+     "k": "eng:new-words",
+     "why": "Word games like Scrabble help you learn new words and how to spell them."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Every game has rules that everyone follows, so the game is fair."
+    }
+   ]
+  },
+  {
+   "id": "games-seed-games",
+   "name": "Pallanguzhi and mancala",
+   "words": [
+    "pallanguzhi",
+    "mancala",
+    "chowka bhara",
+    "seed game",
+    "pallanguli",
+    "vamana guntalu"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:count-place-value",
+     "why": "You pick up seeds and drop them one by one in each cup, so you count a lot."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "Sharing seeds into cups is like dividing them into equal groups."
+    },
+    {
+     "k": "social:history-past",
+     "why": "These seed games are very old and children have played them in India for hundreds of years."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "The same game has different names in Tamil, Telugu and Kannada, and in other places."
+    }
+   ]
+  },
+  {
+   "id": "games-pretend-play",
+   "name": "Pretend play",
+   "words": [
+    "pretend",
+    "pretend play",
+    "played shop",
+    "playing house",
+    "dress up",
+    "role play",
+    "doctor doctor"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:jobs-people-do",
+     "why": "When you play doctor or teacher, you learn what people in that job do."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "In pretend play you speak in someone else's voice and listen to the others."
+    },
+    {
+     "k": "social:family-community",
+     "why": "Playing house shows how a family shares work and looks after each other."
+    },
+    {
+     "k": "math:money",
+     "why": "Playing shop, you use pretend money and give change."
+    }
+   ]
+  },
+  {
+   "id": "games-shop-play",
+   "name": "Playing shop",
+   "words": [
+    "playing shop",
+    "kirana game",
+    "toy shop",
+    "pretend shop",
+    "shop shop"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:money",
+     "why": "In a toy shop you add prices and give change back."
+    },
+    {
+     "k": "social:money-markets",
+     "why": "A shopkeeper buys things and sells them for a bit more, and that is how a shop earns."
+    },
+    {
+     "k": "math:weight",
+     "why": "A shopkeeper weighs rice and dal in kilos and grams, and you can do it with your toy scale."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "You add up what the customer bought and take away what they paid."
+    }
+   ]
+  },
+  {
+   "id": "games-fort",
+   "name": "Building a fort",
+   "words": [
+    "fort",
+    "cushion fort",
+    "tent",
+    "blanket fort",
+    "bedsheet tent"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "The roof sags and falls without a chair or a stack of books to hold it up, because gravity pulls it down."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "A bedsheet is light and bendy, so it makes a good roof, but a cushion is soft and good for walls."
+    },
+    {
+     "k": "unit|sci.light.transparent-opaque.L3",
+     "why": "Inside a thick blanket fort it is dark, because the blanket blocks the light."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "You think of how to make a room with walls and a roof from flat pieces."
+    }
+   ]
+  },
+  {
+   "id": "games-cardboard-build",
+   "name": "Cardboard building",
+   "words": [
+    "cardboard",
+    "cardboard box",
+    "box house",
+    "built a model",
+    "carton craft"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Cardboard is light, bendable and strong when folded, and you can test that."
+    },
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "Cardboard comes from trees, made of paper that is pressed in layers."
+    },
+    {
+     "k": "unit|sci.environment.conservation.L3",
+     "why": "Using an old box again means less goes to waste."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "You measure and cut the sides so the box fits together."
+    }
+   ]
+  },
+  {
+   "id": "games-story-book",
+   "name": "Reading a story book",
+   "words": [
+    "story book",
+    "storybook",
+    "read a book",
+    "reading",
+    "read a story",
+    "bedtime story",
+    "library book"
+   ],
+   "type": "did",
+   "skill": "Reading",
+   "skillcat": "language",
+   "links": [
+    {
+     "k": "eng:read-stories",
+     "why": "When you read a story, you see who is in it, where it is and what happens."
+    },
+    {
+     "k": "eng:new-words",
+     "why": "A story book has words you do not know yet, and you can guess them from the story."
+    },
+    {
+     "k": "eng:describing",
+     "why": "Writers use words to show how a place looks, sounds and feels."
+    },
+    {
+     "k": "eng:write-story-letter",
+     "why": "After you read, you can tell or write what happened in your own words."
+    }
+   ]
+  },
+  {
+   "id": "games-hindi-reading",
+   "name": "Reading in Hindi",
+   "words": [
+    "hindi book",
+    "hindi story",
+    "kahani",
+    "kahani padhi",
+    "chandamama",
+    "panchatantra",
+    "hindi kahani"
+   ],
+   "type": "did",
+   "skill": "Hindi reading",
+   "skillcat": "language",
+   "links": [
+    {
+     "k": "hin:read-stories",
+     "why": "When you read a Hindi kahani, you see what happens to each character."
+    },
+    {
+     "k": "hin:new-words",
+     "why": "Reading shows you new Hindi words, and you can ask what they mean."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Many old stories from India carry lessons about how to live well."
+    },
+    {
+     "k": "unit|sci.animals.animal-minds.L3",
+     "why": "Panchatantra stories have clever animals, and you can ask what real animals do."
+    }
+   ]
+  },
+  {
+   "id": "games-comics",
+   "name": "Comics",
+   "words": [
+    "comic",
+    "comics",
+    "amar chitra katha",
+    "tinkle",
+    "comic book",
+    "graphic novel",
+    "chacha chaudhary"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "eng:read-stories",
+     "why": "In a comic the story is told by pictures and words together."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "You can read the speech bubbles out loud in different voices."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Amar Chitra Katha tells stories about people from the past, and you can find out when they lived."
+    },
+    {
+     "k": "eng:write-sentences",
+     "why": "You can draw your own comic and write one sentence in each box."
+    }
+   ]
+  },
+  {
+   "id": "games-story-telling",
+   "name": "Telling a story",
+   "words": [
+    "told a story",
+    "storytelling",
+    "story time",
+    "dadi ki kahani",
+    "nani story",
+    "tell me a story"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "eng:speak-listen",
+     "why": "When you tell a story, you plan what comes first, next and last, and say it clearly."
+    },
+    {
+     "k": "hin:speak-listen",
+     "why": "You can tell a story in Hindi or your home language, and others listen."
+    },
+    {
+     "k": "social:family-community",
+     "why": "Grandparents' stories carry what the family remembers from long ago."
+    },
+    {
+     "k": "eng:write-story-letter",
+     "why": "A story told out loud can be written down with a beginning, middle and end."
+    }
+   ]
+  },
+  {
+   "id": "games-rhymes-songs",
+   "name": "Rhymes and word games",
+   "words": [
+    "rhyme",
+    "rhymes",
+    "antakshari",
+    "word game",
+    "i spy",
+    "tongue twister",
+    "shabd khel"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "eng:poems-rhymes",
+     "why": "Rhymes sound alike at the end, like cat and hat."
+    },
+    {
+     "k": "hin:poems-rhymes",
+     "why": "In antakshari you take the last letter of a song and start the next one with it."
+    },
+    {
+     "k": "eng:new-words",
+     "why": "Word games make you think of new words that start with a sound."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "When you say a tongue twister, your voice box vibrates to make the sound."
+    }
+   ]
+  },
+  {
+   "id": "games-documentary",
+   "name": "Watching a documentary",
+   "words": [
+    "documentary",
+    "nature documentary",
+    "watched a documentary",
+    "national geographic",
+    "discovery channel",
+    "science video"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.animals.animals-around-us.L3",
+     "why": "A nature film shows how animals live, eat and look after their young."
+    },
+    {
+     "k": "unit|sci.habitats.adaptations.L3",
+     "why": "In a documentary you can spot how a living thing is made for its place."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "After a film, you can tell someone one new thing you learned."
+    },
+    {
+     "k": "unit|sci.sky.solar-system.L3",
+     "why": "A space film shows the planets and the Sun, as far as telescopes can see."
+    },
+    {
+     "k": "eng:describing",
+     "why": "You can describe what you saw in the film using exact words."
+    }
+   ]
+  },
+  {
+   "id": "games-cartoon",
+   "name": "Watching a cartoon",
+   "words": [
+    "cartoon",
+    "watched tv",
+    "tv show",
+    "chhota bheem",
+    "doraemon",
+    "motu patlu",
+    "animated film",
+    "watching tv"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "eng:speak-listen",
+     "why": "After a cartoon, you can tell what happened and what you thought of it."
+    },
+    {
+     "k": "eng:read-stories",
+     "why": "A cartoon story has a beginning, a problem and an end, like a story book."
+    },
+    {
+     "k": "unit|sci.light.how-we-see.L3",
+     "why": "The screen shows pictures that change fast, and your eyes see them as moving."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Taking breaks from the screen and sitting away from it keeps your eyes safe."
+    }
+   ]
+  },
+  {
+   "id": "games-movie",
+   "name": "Watching a film",
+   "words": [
+    "movie",
+    "film",
+    "cinema",
+    "went to the movies",
+    "watched a movie",
+    "theatre",
+    "multiplex"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "eng:speak-listen",
+     "why": "After a film, you can tell your friends what you liked and why."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "Loud cinema sound can hurt ears, so we sit back and protect our hearing."
+    },
+    {
+     "k": "unit|sci.light.what-is-light.L3",
+     "why": "The cinema is dark so that the light from the screen is the only one we see."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "India makes films in many languages, such as Tamil, Bengali, Marathi and Hindi."
+    }
+   ]
+  },
+  {
+   "id": "games-video-call",
+   "name": "Video call with family",
+   "words": [
+    "video call",
+    "video chat",
+    "whatsapp call",
+    "zoom call",
+    "called nani",
+    "called dadi",
+    "facetime"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:family-community",
+     "why": "A video call keeps you close to family who live far away."
+    },
+    {
+     "k": "social:maps-places",
+     "why": "You can find on a map where your grandparents live and how far away it is."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "When one place is far away, the time can differ, so you check when to call."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "On a call you wait for your turn to speak and listen to the answer."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "Your voice is sent as a signal and a speaker makes the vibration again at the other end."
+    }
+   ]
+  },
+  {
+   "id": "games-coding-toy",
+   "name": "Coding toys and Scratch",
+   "words": [
+    "coding",
+    "scratch",
+    "coding toy",
+    "robot toy",
+    "programming",
+    "bee-bot",
+    "coding class"
+   ],
+   "type": "class",
+   "skill": "Coding",
+   "skillcat": "mind",
+   "links": [
+    {
+     "k": "math:problem-solving",
+     "why": "In coding you break a big job into small steps and test each one."
+    },
+    {
+     "k": "math:direction-maps",
+     "why": "To make a robot turn left or move forward, you give it directions."
+    },
+    {
+     "k": "math:patterns",
+     "why": "A loop repeats the same steps again and again, which is a pattern."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Drawing a square in Scratch uses four equal sides and four turns."
+    },
+    {
+     "k": "unit|sci.electricity.simple-circuits.L3",
+     "why": "A robot toy works because electricity goes round a complete loop inside it."
+    }
+   ]
+  },
+  {
+   "id": "games-magic-tricks",
+   "name": "Magic tricks",
+   "words": [
+    "magic",
+    "magic trick",
+    "magician",
+    "jaadu",
+    "card trick",
+    "coin trick"
+   ],
+   "type": "did",
+   "skill": "Magic",
+   "skillcat": "other",
+   "links": [
+    {
+     "k": "unit|sci.light.how-we-see.L3",
+     "why": "A magician makes you look at one hand while the other does the trick, because our eyes can only focus on one place."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "A good magician talks while performing and keeps the audience interested."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Many number tricks work because of a pattern the magician knows."
+    },
+    {
+     "k": "unit|sci.magnets.magnets-and-materials.L3",
+     "why": "Some tricks use a hidden magnet that pulls iron without touching it."
+    },
+    {
+     "k": "unit|sci.how-we-know.fair-tests.L3",
+     "why": "Once you know how the trick works, you can test it again and again to be sure."
+    }
+   ]
+  },
+  {
+   "id": "games-tabletop-spinner",
+   "name": "Spinning tops and bhaunra",
+   "words": [
+    "spinning top",
+    "bhaunra",
+    "lattu",
+    "bambaram",
+    "spinner",
+    "fidget spinner",
+    "yo-yo"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.motion.spinning.L3",
+     "why": "A spinning top stays up because spinning keeps it from falling over."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "The top slows down because the floor and the air rub against it."
+    },
+    {
+     "k": "unit|sci.energy.energy-around-us.L3",
+     "why": "The pull of your string puts energy into the top, and it spends it as it spins."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "You can time how many seconds the top spins and compare each try."
+    }
+   ]
+  },
+  {
+   "id": "games-marbles",
+   "name": "Marbles and kanche",
+   "words": [
+    "marbles",
+    "kanche",
+    "goli",
+    "gutte",
+    "gilli",
+    "pitthu",
+    "seven stones"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.motion.physics-of-sport.L3",
+     "why": "When your marble hits another, it passes on its push and the other goes away."
+    },
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "A marble rolls on until something stops it, like friction or another marble."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Players measure how far each marble went to see who won."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "You count the marbles you won and the ones you lost."
+    }
+   ]
+  },
+  {
+   "id": "games-gilli-danda",
+   "name": "Gilli danda",
+   "words": [
+    "gilli danda",
+    "gulli danda",
+    "danda",
+    "kitti pul"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.motion.physics-of-sport.L3",
+     "why": "The danda hits the gilli and pushes it up and away."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "The score is how far the gilli flew, which you measure in danda lengths."
+    },
+    {
+     "k": "social:history-past",
+     "why": "This is one of the oldest street games of India, played for hundreds of years."
+    },
+    {
+     "k": "unit|sci.forces.changing-motion.L3",
+     "why": "The hit changes the gilli from still to fast, and gravity then brings it down."
+    }
+   ]
+  },
+  {
+   "id": "games-hide-and-seek",
+   "name": "Hide and seek",
+   "words": [
+    "hide and seek",
+    "chor police",
+    "chhupan chhupai",
+    "lukka chuppi",
+    "catch me",
+    "dog and the bone",
+    "kho kho"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:count-place-value",
+     "why": "The seeker counts to a number out loud while the others hide."
+    },
+    {
+     "k": "math:direction-maps",
+     "why": "You describe where you hid, such as behind, under or next to the door."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Everyone agrees on the limits of the game so no one goes somewhere unsafe."
+    },
+    {
+     "k": "unit|sci.light.transparent-opaque.L3",
+     "why": "You can hide behind something opaque but not behind a glass window."
+    }
+   ]
+  },
+  {
+   "id": "games-paper-games",
+   "name": "Paper and pencil games",
+   "words": [
+    "tic tac toe",
+    "noughts and crosses",
+    "dots and boxes",
+    "hangman",
+    "name place animal thing",
+    "paper game",
+    "antakshari paper"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:shapes-space",
+     "why": "Tic-tac-toe is played on a grid, and you think about which rows can make three in a line."
+    },
+    {
+     "k": "math:problem-solving",
+     "why": "You think what the other player will do next and block them."
+    },
+    {
+     "k": "eng:new-words",
+     "why": "Hangman and name place animal thing need you to think of words and spell them."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "In dots and boxes you count and add the boxes each player has closed."
+    }
+   ]
+  },
+  {
+   "id": "games-origami",
+   "name": "Paper folding games",
+   "words": [
+    "paper plane",
+    "paper boat",
+    "origami",
+    "paper fortune teller",
+    "paper folding",
+    "chatterbox"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.flight.L3",
+     "why": "A paper plane glides because its wings push the air down and the air pushes it up."
+    },
+    {
+     "k": "unit|sci.patterns-symmetry.symmetry-in-nature.L3",
+     "why": "When you fold paper in half, both sides match, which is symmetry."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "A fold line is a line of symmetry and both halves look the same."
+    },
+    {
+     "k": "unit|sci.how-we-know.fair-tests.L3",
+     "why": "Change only the wing shape and see which plane flies farthest."
+    },
+    {
+     "k": "unit|sci.states.liquids-up-close.L3",
+     "why": "A paper boat floats because it is light and water holds it up."
+    }
+   ]
+  },
+  {
+   "id": "games-kite-flying",
+   "name": "Kite flying",
+   "words": [
+    "kite",
+    "patang",
+    "manja",
+    "flew a kite",
+    "kite flying",
+    "uttarayan",
+    "makar sankranti kite"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.weather.wind-and-air.L3",
+     "why": "The wind lifts the kite up, and without wind it comes down."
+    },
+    {
+     "k": "unit|sci.forces.flight.L3",
+     "why": "A kite stays up because the air pushes against its flat face and pushes it up."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Many kites are diamonds with two matching halves."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Kites fill the sky at Makar Sankranti and Uttarayan in Gujarat."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Sharp manja can cut hands and birds, so we use plain thread and fly in open spaces."
+    }
+   ]
+  },
+  {
+   "id": "games-toy-cars",
+   "name": "Toy cars and trains",
+   "words": [
+    "toy car",
+    "toy train",
+    "hot wheels",
+    "car track",
+    "remote control car",
+    "rc car",
+    "train set",
+    "pull back car"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "A car goes farther on a smooth floor than on a rug, because of friction."
+    },
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "You push a car to start it, and the harder you push the faster it goes."
+    },
+    {
+     "k": "unit|sci.how-we-know.fair-tests.L3",
+     "why": "Use the same ramp and change only the floor, and you can compare fairly."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "You can measure how far each car rolled after the ramp."
+    },
+    {
+     "k": "social:transport",
+     "why": "Toy trains and cars show how real vehicles carry people and goods."
+    }
+   ]
+  },
+  {
+   "id": "games-ramp-race",
+   "name": "Ramp and ball rolling",
+   "words": [
+    "ramp",
+    "rolling ball",
+    "rolled down",
+    "slope",
+    "race down",
+    "marble run"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "The ball rolls down because gravity pulls it down the slope."
+    },
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "A ramp is a simple machine, because it helps you lift a load with a small push."
+    },
+    {
+     "k": "unit|sci.how-we-know.fair-tests.L3",
+     "why": "Make the ramp higher and see if the ball goes farther."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "You mark where the ball stopped and measure the distance from the ramp."
+    }
+   ]
+  },
+  {
+   "id": "games-video-games",
+   "name": "Video games",
+   "words": [
+    "video game",
+    "mobile game",
+    "tablet game",
+    "minecraft",
+    "gaming",
+    "playstation",
+    "game on phone",
+    "roblox"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:problem-solving",
+     "why": "Many games set a puzzle and you try different plans until one works."
+    },
+    {
+     "k": "math:direction-maps",
+     "why": "In a game you find your way using a map and directions like left and right."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Setting a timer for game time teaches you how long half an hour is."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "We keep to screen time limits and never share our name or address with strangers online."
+    },
+    {
+     "k": "unit|sci.light.how-we-see.L3",
+     "why": "Looking at a screen for too long makes eyes tired, so we look far away from time to time."
+    }
+   ]
+  },
+  {
+   "id": "games-kids-quiz",
+   "name": "Quiz and general knowledge",
+   "words": [
+    "quiz",
+    "general knowledge",
+    "quiz show",
+    "trivia",
+    "kbc",
+    "spell bee",
+    "spelling bee"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "eng:new-words",
+     "why": "A spelling bee makes you learn how words are made of letters."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "In a quiz you listen carefully to the whole question before you answer."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Quiz questions often ask about states, capitals and languages of India."
+    },
+    {
+     "k": "social:maps-places",
+     "why": "You can find a place from a quiz question on a map."
+    }
+   ]
+  },
+  {
+   "id": "games-treasure-hunt",
+   "name": "Treasure hunt",
+   "words": [
+    "treasure hunt",
+    "scavenger hunt",
+    "clues",
+    "map game",
+    "find the treasure"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:direction-maps",
+     "why": "You follow clues like go ten steps forward and turn left."
+    },
+    {
+     "k": "social:maps-places",
+     "why": "A treasure map shows places and which way to go, like a real map."
+    },
+    {
+     "k": "math:problem-solving",
+     "why": "Each clue leads to the next, so you think step by step."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "You can measure the steps from one place to another."
+    }
+   ]
+  },
+  {
+   "id": "games-balloon-games",
+   "name": "Balloon games",
+   "words": [
+    "balloon",
+    "balloons",
+    "balloon game",
+    "blew a balloon",
+    "blowing balloons",
+    "party balloons"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.air.air-around-us.L3",
+     "why": "A balloon gets big because you fill it with air, and air takes up space."
+    },
+    {
+     "k": "unit|sci.electricity.static-and-charge.L3",
+     "why": "Rub a balloon on your hair and it sticks to the wall, because of static charge."
+    },
+    {
+     "k": "unit|sci.forces.flight.L3",
+     "why": "When you let go of a blown balloon, the air rushes out and pushes the balloon the other way."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "You can count how many balloons for each child and share them equally."
+    }
+   ]
+  },
+  {
+   "id": "games-bubbles",
+   "name": "Blowing bubbles",
+   "words": [
+    "bubbles",
+    "soap bubbles",
+    "blew bubbles",
+    "bubble wand"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.states.liquids-up-close.L3",
+     "why": "A bubble is a thin skin of soapy water holding air inside."
+    },
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "The colours that you see on a bubble come from light bouncing off the thin skin."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Bubbles are always round, no matter what shape the wand is."
+    },
+    {
+     "k": "unit|sci.weather.wind-and-air.L3",
+     "why": "A bubble floats along on the wind, and you can see which way the air moves."
+    }
+   ]
+  },
+  {
+   "id": "games-puppets-shadow",
+   "name": "Shadow play and puppets",
+   "words": [
+    "shadow play",
+    "shadow puppet",
+    "puppet",
+    "puppet show",
+    "hand shadow",
+    "tholu bommalata",
+    "kathputli"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.light.transparent-opaque.L3",
+     "why": "A shadow forms because your hand is opaque and blocks the light."
+    },
+    {
+     "k": "unit|sci.light.what-is-light.L3",
+     "why": "Light moves in straight lines, so the shadow has the same shape as your hand."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Kathputli and Tholu Bommalata are old puppet arts of Rajasthan and Andhra Pradesh."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "In a puppet show you speak in a different voice for each character."
+    }
+   ]
+  },
+  {
+   "id": "games-dominoes",
+   "name": "Marble and domino chains",
+   "words": [
+    "domino",
+    "dominoes",
+    "chain reaction",
+    "domino chain"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "One domino falls and pushes the next, so the push passes along the line."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "The dominoes fall down because gravity pulls them to the floor."
+    },
+    {
+     "k": "math:patterns",
+     "why": "You line them up in a pattern, and you can count in twos or fives."
+    },
+    {
+     "k": "unit|sci.energy.energy-around-us.L3",
+     "why": "Energy is passed from one domino to the next down the line."
+    }
+   ]
+  },
+  {
+   "id": "games-science-kit",
+   "name": "Science kits and experiments",
+   "words": [
+    "science kit",
+    "science toy",
+    "experiment",
+    "stem kit",
+    "tinkering",
+    "microscope toy",
+    "magnifying glass"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.how-we-know.fair-tests.L3",
+     "why": "In an experiment you change one thing and keep everything else the same."
+    },
+    {
+     "k": "unit|sci.light.refraction.L3",
+     "why": "A magnifying glass is a lens, and it bends light to make things look bigger."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "You measure each time so you can compare your results."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "You write down what you saw and draw a graph to compare."
+    }
+   ]
+  },
+  {
+   "id": "games-music-toy",
+   "name": "Toy instruments and music box",
+   "words": [
+    "toy piano",
+    "toy drum",
+    "music box",
+    "xylophone toy",
+    "toy keyboard",
+    "tambourine"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "Hit the drum and the skin shakes, and shaking makes the sound."
+    },
+    {
+     "k": "math:patterns",
+     "why": "A tune has a pattern of long and short notes that repeats."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "Loud toys can hurt your ears, so keep the sound low."
+    }
+   ]
+  },
+  {
+   "id": "games-old-indoor-games",
+   "name": "Indoor games",
+   "words": [
+    "indoor game",
+    "carrom and ludo",
+    "table game",
+    "tabletop",
+    "aadu puli",
+    "chaupar",
+    "pachisi"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:history-past",
+     "why": "Pachisi, chaupar and aadu puli were played in India long ago, and some are still played."
+    },
+    {
+     "k": "math:problem-solving",
+     "why": "In games like aadu puli, you decide which way to move to trap the other."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "You count steps for your tokens around the board."
+    },
+    {
+     "k": "social:family-community",
+     "why": "Playing together with grandparents and cousins brings the family close."
+    }
+   ]
+  },
+  {
+   "id": "games-dice-math-games",
+   "name": "Dice and number games",
+   "words": [
+    "dice",
+    "dice game",
+    "number game",
+    "maths game",
+    "bingo",
+    "housie",
+    "tambola"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:count-place-value",
+     "why": "Housie asks you to hear the number and find it on your ticket."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Add two dice together and you get a number from 2 to 12."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "Roll a dice 30 times and count how many of each number, and see which comes up most."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "Multiply the two dice numbers and see which pairs make the same answer."
+    }
+   ]
+  },
+  {
+   "id": "games-memory-game",
+   "name": "Memory games",
+   "words": [
+    "memory game",
+    "kim's game",
+    "matching game",
+    "find the pair",
+    "what is missing",
+    "memory cards"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:patterns",
+     "why": "You remember where the pairs are by seeing where they were turned over before."
+    },
+    {
+     "k": "unit|sci.senses.more-senses.L3",
+     "why": "Your eyes see the card and your brain keeps it for a while, so the game trains your memory."
+    },
+    {
+     "k": "eng:describing",
+     "why": "You can describe each picture in words to help yourself remember it."
+    },
+    {
+     "k": "math:problem-solving",
+     "why": "A good plan, like going row by row, helps you do better."
+    }
+   ]
+  },
+  {
+   "id": "games-sandcastle-clay",
+   "name": "Playing with clay or sand",
+   "words": [
+    "clay",
+    "playdough",
+    "play dough",
+    "sand castle",
+    "sandcastle",
+    "mud play",
+    "kneaded dough"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Wet sand holds a shape and dry sand does not, so materials behave differently."
+    },
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "Sand does not dissolve in water, but it mixes with it into a muddy mixture."
+    },
+    {
+     "k": "unit|sci.materials.sorting-materials.L3",
+     "why": "You can sort what you find into soft, hard, rough and smooth."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "You mould shapes like balls, cylinders and cubes."
+    }
+   ]
+  },
+  {
+   "id": "games-jump-rope-games",
+   "name": "Skipping rope and hopscotch",
+   "words": [
+    "skipping",
+    "skipping rope",
+    "hopscotch",
+    "stapu",
+    "langdi",
+    "jump rope",
+    "pittu",
+    "lagori"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:count-place-value",
+     "why": "You count your jumps and try to beat your last number."
+    },
+    {
+     "k": "unit|sci.motion.swings-and-pendulums.L3",
+     "why": "A rope swings round again and again, just like a pendulum, in the same time."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Hopscotch has a pattern of single and double squares to hop."
+    },
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "After jumping your heart beats faster and you breathe harder."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1886 @@
+{
+ "cat": "movement",
+ "acts": [
+  {
+   "id": "movement-yoga",
+   "name": "Yoga",
+   "words": [
+    "yoga",
+    "asana",
+    "yoga class",
+    "pranayama",
+    "tree pose"
+   ],
+   "type": "class",
+   "skill": "Yoga",
+   "skillcat": "movement",
+   "links": [
+    {
+     "k": "unit|sci.senses.more-senses.L3",
+     "why": "When you stand on one leg in tree pose and stay steady, that is your sense of balance working."
+    },
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "Slow deep breaths in yoga bring more air into your chest and keep your heart calm."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Stretching and holding a pose makes your muscles work, and resting after helps them recover."
+    },
+    {
+     "k": "unit|sci.health.feelings-and-wellbeing.L3",
+     "why": "When you breathe slowly, you may notice your body feels calmer."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "In poses like the mountain pose, both sides of your body match, like a mirror."
+    }
+   ]
+  },
+  {
+   "id": "movement-surya-namaskar",
+   "name": "Surya namaskar",
+   "words": [
+    "surya namaskar",
+    "sun salutation",
+    "namaskar",
+    "suryanamaskar"
+   ],
+   "type": "did",
+   "skill": "Surya namaskar",
+   "skillcat": "movement",
+   "links": [
+    {
+     "k": "unit|sci.sky.the-sun.L3",
+     "why": "The Sun is the star whose light and warmth we thank in surya namaskar."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.day-and-night.L3",
+     "why": "We face the morning Sun because the spinning Earth turns our side towards it each day."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The twelve poses come in the same order every time, which is a pattern you can learn."
+    },
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "Moving with your breath makes your heart beat a little faster and pumps blood to every muscle."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Counting the rounds, one, two, three up to twelve, is counting in order."
+    }
+   ]
+  },
+  {
+   "id": "movement-bharatanatyam",
+   "name": "Bharatanatyam",
+   "words": [
+    "bharatanatyam",
+    "bharatnatyam",
+    "bharata natyam",
+    "natyam",
+    "mudra",
+    "adavu"
+   ],
+   "type": "class",
+   "skill": "Bharatanatyam",
+   "skillcat": "movement",
+   "links": [
+    {
+     "k": "math:patterns",
+     "why": "An adavu is a short step pattern that repeats, and you count it in beats."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Keeping the tala means counting beats at an even speed, like a clock ticking."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Bharatanatyam is a classical dance from Tamil Nadu that is performed in temples and on stage."
+    },
+    {
+     "k": "eng:describing",
+     "why": "Hand mudras and face expressions tell a story without words, so you can describe what you showed."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "Your feet stamp the floor and the ankle bells ring because both shake and make sound."
+    }
+   ]
+  },
+  {
+   "id": "movement-kathak",
+   "name": "Kathak",
+   "words": [
+    "kathak",
+    "chakkar",
+    "tatkar",
+    "tabla and dance",
+    "ghungroo"
+   ],
+   "type": "class",
+   "skill": "Kathak",
+   "skillcat": "movement",
+   "links": [
+    {
+     "k": "unit|sci.motion.spinning.L3",
+     "why": "When you spin in a chakkar, pulling your arms in makes you spin faster."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "Ghungroo bells ring because they shake, and every sound starts with a shake."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Kathak counts beats in cycles, such as sixteen beats, and you clap to keep them even."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Kathak grew in north India over hundreds of years from storytellers and court dancers."
+    },
+    {
+     "k": "unit|sci.senses.more-senses.L3",
+     "why": "After many spins your sense of balance gets mixed up, which is why spotting one place helps."
+    }
+   ]
+  },
+  {
+   "id": "movement-odissi-kuchipudi",
+   "name": "Odissi, Kuchipudi or Mohiniyattam",
+   "words": [
+    "odissi",
+    "kuchipudi",
+    "mohiniyattam",
+    "manipuri dance",
+    "sattriya",
+    "classical dance"
+   ],
+   "type": "class",
+   "skill": "Classical dance",
+   "skillcat": "movement",
+   "links": [
+    {
+     "k": "social:regions-languages",
+     "why": "Each classical dance comes from a different part of India, such as Odisha, Andhra Pradesh or Kerala."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Dance steps are built from small patterns repeated in a set count."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "The songs that go with the dance are in regional languages, so you hear new words."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "Many poses are balanced on both sides, so one side mirrors the other."
+    },
+    {
+     "k": "unit|sci.senses.more-senses.L3",
+     "why": "Holding a pose on one leg uses your sense of where your body is without looking."
+    }
+   ]
+  },
+  {
+   "id": "movement-contemporary-dance",
+   "name": "Contemporary or free dance",
+   "words": [
+    "contemporary dance",
+    "free dance",
+    "freestyle dance",
+    "dance class",
+    "hip hop",
+    "hiphop",
+    "ballet"
+   ],
+   "type": "class",
+   "skill": "Dance",
+   "skillcat": "movement",
+   "links": [
+    {
+     "k": "unit|sci.energy.energy-around-us.L3",
+     "why": "Dancing uses energy from your food to make your body move."
+    },
+    {
+     "k": "unit|sci.senses.more-senses.L3",
+     "why": "You know where your arms and legs are in a dance without looking at them."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Dance routines repeat moves in an order, which is a pattern."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Moving on the beat means counting an even rhythm."
+    },
+    {
+     "k": "unit|sci.health.feelings-and-wellbeing.L3",
+     "why": "Dancing can show a feeling, like joy or anger, using only your body."
+    }
+   ]
+  },
+  {
+   "id": "movement-garba",
+   "name": "Garba or dandiya",
+   "words": [
+    "garba",
+    "dandiya",
+    "dandiya raas",
+    "navratri dance",
+    "raas"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:festivals-culture",
+     "why": "Garba and dandiya are danced in Gujarat during Navratri to honour the goddess."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "When two dandiya sticks hit, they shake and make a sharp sound."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The circle dance has claps and steps that repeat in a pattern."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Dancers move in a circle, where every dancer is the same distance from the middle."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "You count the claps and steps one, two, three to stay with the group."
+    }
+   ]
+  },
+  {
+   "id": "movement-bhangra",
+   "name": "Bhangra or giddha",
+   "words": [
+    "bhangra",
+    "giddha",
+    "punjabi dance",
+    "dhol dance",
+    "lohri dance"
+   ],
+   "type": "did",
+   "skill": "Bhangra",
+   "skillcat": "movement",
+   "links": [
+    {
+     "k": "social:regions-languages",
+     "why": "Bhangra and giddha come from Punjab, where they are danced at harvest time."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "A dhol makes sound when its skin shakes after being hit."
+    },
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "Bhangra began as a dance of farmers celebrating a good crop."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The steps follow the dhol beat, repeating the same pattern."
+    },
+    {
+     "k": "unit|sci.energy.energy-around-us.L3",
+     "why": "Jumping and leaping uses a lot of energy, which comes from your food."
+    }
+   ]
+  },
+  {
+   "id": "movement-folk-dance",
+   "name": "Folk dance",
+   "words": [
+    "folk dance",
+    "lavani",
+    "dollu kunitha",
+    "ghoomar",
+    "bihu dance",
+    "kalbelia",
+    "chhau"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:regions-languages",
+     "why": "Every state has its own folk dance, in its own clothes, songs and language."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Many folk dances are done at harvests and festivals to share joy together."
+    },
+    {
+     "k": "social:maps-places",
+     "why": "You can find on a map of India where this dance comes from."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Folk dances repeat their steps in a pattern, so everyone can join in."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "Drums, bells and sticks make the beat because they vibrate when hit."
+    }
+   ]
+  },
+  {
+   "id": "movement-zumba",
+   "name": "Zumba or aerobics",
+   "words": [
+    "zumba",
+    "aerobics",
+    "dance fitness",
+    "aerobic class"
+   ],
+   "type": "class",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "After zumba your heart beats faster and you breathe harder because your muscles need more oxygen."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Your muscles get tired from exercise, so a drink of water and rest help them recover."
+    },
+    {
+     "k": "unit|sci.body.keeping-balance.L3",
+     "why": "You sweat and feel warm to cool your body down."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The moves come in sets that repeat to the beat."
+    },
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "The music reaches your ears as sound waves travelling through the air."
+    }
+   ]
+  },
+  {
+   "id": "movement-karate",
+   "name": "Karate",
+   "words": [
+    "karate",
+    "kata",
+    "belt test",
+    "black belt",
+    "dojo",
+    "karate class"
+   ],
+   "type": "class",
+   "skill": "Karate",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.motion.physics-of-sport.L3",
+     "why": "A strong punch pushes from the ground up, so a firm stance helps you push harder."
+    },
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "Every punch and block is a push, and a force needs a direction."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Practice makes muscles stronger, and rest after is when they recover."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Karate began in Okinawa, in Japan, and the words you count in class are Japanese."
+    },
+    {
+     "k": "unit|sci.mind.thinking-and-memory.L3",
+     "why": "A kata is a long set of moves that you remember by practising it again and again."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "You count your kicks and punches out loud in Japanese or in English."
+    }
+   ]
+  },
+  {
+   "id": "movement-taekwondo",
+   "name": "Taekwondo",
+   "words": [
+    "taekwondo",
+    "tae kwon do",
+    "taekwon-do",
+    "poomsae",
+    "taekwondo class"
+   ],
+   "type": "class",
+   "skill": "Taekwondo",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.forces.changing-motion.L3",
+     "why": "A kick makes your foot speed up quickly, and a bigger push gives more speed."
+    },
+    {
+     "k": "unit|sci.senses.more-senses.L3",
+     "why": "Balancing on one leg during a kick uses your sense of balance."
+    },
+    {
+     "k": "unit|sci.body.body-parts.L3",
+     "why": "Taekwondo trains legs and hips to stretch and become stronger."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Taekwondo comes from Korea, and the commands you hear are in Korean."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "How high you kick can be measured with a tape against a wall."
+    }
+   ]
+  },
+  {
+   "id": "movement-judo-wrestling",
+   "name": "Judo, kushti or wrestling",
+   "words": [
+    "judo",
+    "kushti",
+    "wrestling",
+    "akhara",
+    "pehlwan",
+    "kabaddi wrestling"
+   ],
+   "type": "class",
+   "skill": "Judo and wrestling",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "In judo you use the other person's own movement to throw them."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "The mat grips your feet and hands, and that grip helps you push and stay up."
+    },
+    {
+     "k": "unit|sci.gravity.weight-and-mass.L3",
+     "why": "Wrestlers are put in groups by weight because a heavier person is harder to move."
+    },
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "Pushing one way and pulling the other makes a person lose balance."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Strong wrestlers eat well and sleep well so their muscles can grow back stronger."
+    }
+   ]
+  },
+  {
+   "id": "movement-kalaripayattu",
+   "name": "Kalaripayattu or silambam",
+   "words": [
+    "kalaripayattu",
+    "kalari",
+    "silambam",
+    "gatka",
+    "thang-ta",
+    "martial art"
+   ],
+   "type": "class",
+   "skill": "Indian martial arts",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "social:history-past",
+     "why": "Kalaripayattu from Kerala is one of the oldest fighting arts in the world."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Silambam is from Tamil Nadu, gatka from Punjab, and each has its own style and words."
+    },
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "A long stick works like a lever, so a small swing at one end moves the other end fast."
+    },
+    {
+     "k": "unit|sci.senses.more-senses.L3",
+     "why": "Quick turns and jumps use your sense of balance and body position."
+    },
+    {
+     "k": "unit|sci.mind.thinking-and-memory.L3",
+     "why": "The sequences are learned by doing them again and again until your body remembers."
+    }
+   ]
+  },
+  {
+   "id": "movement-gymnastics",
+   "name": "Gymnastics",
+   "words": [
+    "gymnastics",
+    "cartwheel",
+    "somersault",
+    "forward roll",
+    "handstand",
+    "gym class",
+    "balance beam"
+   ],
+   "type": "class",
+   "skill": "Gymnastics",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.senses.more-senses.L3",
+     "why": "In a cartwheel your sense of balance tells you which way is up even upside down."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "When you jump up, gravity pulls you back down, so you always land."
+    },
+    {
+     "k": "unit|sci.motion.spinning.L3",
+     "why": "A tucked somersault spins faster than a stretched one because your body is more compact."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "In a split, the two legs are a mirror of each other."
+    },
+    {
+     "k": "unit|sci.forces.stretching-springs.L3",
+     "why": "A springboard bends when you land on it and springs back, which pushes you up."
+    }
+   ]
+  },
+  {
+   "id": "movement-skipping",
+   "name": "Skipping rope",
+   "words": [
+    "skipping",
+    "skipping rope",
+    "jump rope",
+    "jumping rope",
+    "rassi kood"
+   ],
+   "type": "did",
+   "skill": "Skipping",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "After skipping, your heart beats fast and you breathe hard, because your muscles need more oxygen."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "You jump up, and gravity pulls you down just in time for the rope to pass."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Counting each jump, and counting by tens, is a good way to practise numbers."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The rope swings in a steady rhythm, and you jump on every swing."
+    },
+    {
+     "k": "unit|sci.motion.swings-and-pendulums.L3",
+     "why": "A long rope swings slowly and a short rope swings fast, so the length matters."
+    }
+   ]
+  },
+  {
+   "id": "movement-running",
+   "name": "Running and races",
+   "words": [
+    "running",
+    "race",
+    "sprint",
+    "sports day",
+    "relay",
+    "jogging",
+    "morning run"
+   ],
+   "type": "did",
+   "skill": "Running",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "When you run, your heart beats faster to send more blood and oxygen to your legs."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "Your shoes grip the ground, and that grip is what pushes you forward."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "A stopwatch tells how many seconds a race took, so you can see who was faster."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "Writing down your times each week shows whether you are getting faster."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Your legs feel tired after a long run, and resting helps the muscles get strong again."
+    }
+   ]
+  },
+  {
+   "id": "movement-kho-kho-kabaddi",
+   "name": "Kho kho or kabaddi",
+   "words": [
+    "kho kho",
+    "kho-kho",
+    "kabaddi",
+    "kabbadi",
+    "pro kabaddi"
+   ],
+   "type": "did",
+   "skill": "Kho kho and kabaddi",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.motion.physics-of-sport.L3",
+     "why": "Turning quickly to dodge a chaser means changing your direction, and that needs a good grip on the ground."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Each team adds up points, and the difference tells who is ahead."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "A game works because everyone follows the same rules."
+    },
+    {
+     "k": "social:history-past",
+     "why": "These games were played in villages in India for a very long time."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Holding your breath and running in kabaddi trains your lungs and muscles."
+    }
+   ]
+  },
+  {
+   "id": "movement-playground-tag",
+   "name": "Playground games",
+   "words": [
+    "pakdam pakdi",
+    "chor police",
+    "lock and key",
+    "stapu",
+    "hopscotch",
+    "lagori",
+    "langdi",
+    "playground"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.changing-motion.L3",
+     "why": "When you dodge, you change your direction, and when you stop, you slow down."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Every game has rules, and games are more fun when everyone agrees on them."
+    },
+    {
+     "k": "math:problem-solving",
+     "why": "Working out where to run to avoid being caught is planning ahead."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Running around playing gets your body moving and helps you sleep well at night."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Calling out the rules and the names of players is practice for speaking clearly."
+    }
+   ]
+  },
+  {
+   "id": "movement-swinging",
+   "name": "Swing and slide",
+   "words": [
+    "swing",
+    "swings",
+    "jhoola",
+    "jhula",
+    "seesaw",
+    "see-saw",
+    "merry go round"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.motion.swings-and-pendulums.L3",
+     "why": "A swing goes back and forth in a steady time, and a longer chain makes it slower."
+    },
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "A seesaw is a lever, and a heavier child sitting closer to the middle can balance a lighter one far away."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "A slide is slippery so you go down fast, and your clothes on the metal slow you down if it is rough."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "Gravity is what pulls you down the slide and back down from the top of the swing."
+    },
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "Pushing the swing at the right time makes it go higher."
+    }
+   ]
+  },
+  {
+   "id": "movement-swimming",
+   "name": "Swimming",
+   "words": [
+    "swimming",
+    "swim",
+    "pool",
+    "swimming class",
+    "learned to swim",
+    "floating"
+   ],
+   "type": "class",
+   "skill": "Swimming",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.gravity.weight-and-mass.L3",
+     "why": "Water pushes you up, which is why you feel lighter in the pool."
+    },
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "When you push the water back with your hands, the water pushes you forward."
+    },
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "Breathing out under water and in above it uses your lungs in a steady rhythm."
+    },
+    {
+     "k": "unit|sci.light.refraction.L3",
+     "why": "Your legs look short and bent under water because light bends as it leaves the water."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Never swim without a grown-up watching, because water can be dangerous."
+    }
+   ]
+  },
+  {
+   "id": "movement-cycling",
+   "name": "Cycling",
+   "words": [
+    "cycling",
+    "cycle",
+    "bicycle",
+    "cycle ride",
+    "learned to ride",
+    "bike ride"
+   ],
+   "type": "did",
+   "skill": "Cycling",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "Pedals and gears help your legs turn the wheel, and wheels make heavy loads easy to move."
+    },
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "Once the cycle is moving, it keeps rolling, and you need brakes to stop it."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "Brakes grip the wheel with friction and slow the cycle, and a dry road grips better than a wet one."
+    },
+    {
+     "k": "unit|sci.motion.spinning.L3",
+     "why": "A spinning wheel stays upright, which is part of why a moving cycle does not fall."
+    },
+    {
+     "k": "social:transport",
+     "why": "A cycle moves people with no fuel at all, only the energy of the rider."
+    }
+   ]
+  },
+  {
+   "id": "movement-badminton",
+   "name": "Badminton",
+   "words": [
+    "badminton",
+    "shuttle",
+    "shuttlecock",
+    "badminton class",
+    "racket",
+    "racquet"
+   ],
+   "type": "class",
+   "skill": "Badminton",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "When the shuttle slows in the air and drops, that is gravity pulling it down."
+    },
+    {
+     "k": "unit|sci.forces.flight.L3",
+     "why": "The feathers of the shuttle slow it down in the air so it falls nose first."
+    },
+    {
+     "k": "unit|sci.motion.physics-of-sport.L3",
+     "why": "A hard smash gives the shuttle a big push, so it goes fast."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Keeping the score means adding one point at a time."
+    },
+    {
+     "k": "unit|sci.forces.changing-motion.L3",
+     "why": "Your racket changes the shuttle's direction in an instant."
+    }
+   ]
+  },
+  {
+   "id": "movement-cricket",
+   "name": "Cricket",
+   "words": [
+    "cricket",
+    "bat and ball",
+    "batting",
+    "bowling",
+    "wicket",
+    "gully cricket",
+    "cricket match",
+    "ipl"
+   ],
+   "type": "did",
+   "skill": "Cricket",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.motion.physics-of-sport.L3",
+     "why": "A ball goes further when the bat hits it harder and at the right angle."
+    },
+    {
+     "k": "unit|sci.forces.changing-motion.L3",
+     "why": "The bat changes the ball's speed and direction when it hits."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Adding runs on the scoreboard, ball after ball."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "Players' scores can be put in a table or a bar graph to compare who scored more."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "A spinner makes the ball grip the pitch and turn."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "A run rate is runs divided by overs, which tells how fast a team is scoring."
+    }
+   ]
+  },
+  {
+   "id": "movement-football",
+   "name": "Football",
+   "words": [
+    "football",
+    "soccer",
+    "kicked a ball",
+    "football match",
+    "football class"
+   ],
+   "type": "did",
+   "skill": "Football",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "A kick is a push, and a harder kick makes the ball go faster."
+    },
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "A ball on the ground stays still until someone kicks it, and rolls until friction slows it."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "A ball rolls slower on rough grass than on smooth ground because of friction."
+    },
+    {
+     "k": "unit|sci.air.air-around-us.L3",
+     "why": "A football is filled with air, and the air inside helps it bounce."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "The score is added up goal by goal."
+    }
+   ]
+  },
+  {
+   "id": "movement-basketball-volleyball",
+   "name": "Basketball or volleyball",
+   "words": [
+    "basketball",
+    "volleyball",
+    "netball",
+    "throwball",
+    "dribbling"
+   ],
+   "type": "class",
+   "skill": "Ball games",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "A ball thrown to the hoop goes up and then curves down because gravity pulls on it."
+    },
+    {
+     "k": "unit|sci.forces.stretching-springs.L3",
+     "why": "A ball bounces because it squashes on the floor and springs back."
+    },
+    {
+     "k": "unit|sci.air.air-around-us.L3",
+     "why": "The air pumped inside a ball is what makes it bounce well."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "You add points as the game goes, such as two for a basket and one for a free throw."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "The ball is a sphere, and the hoop is a circle that is just a bit bigger."
+    }
+   ]
+  },
+  {
+   "id": "movement-hockey",
+   "name": "Hockey",
+   "words": [
+    "hockey",
+    "hockey stick",
+    "field hockey",
+    "astro turf"
+   ],
+   "type": "class",
+   "skill": "Hockey",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.forces.changing-motion.L3",
+     "why": "The stick changes the ball's direction and speed with one hit."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "A ball rolls farther on a smooth ground than on rough grass."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Hockey is India's national game, and India won many Olympic medals in it."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Counting goals for each team and finding who is ahead."
+    },
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "A hockey ball keeps rolling until friction or a stick stops it."
+    }
+   ]
+  },
+  {
+   "id": "movement-table-tennis-tennis",
+   "name": "Table tennis or tennis",
+   "words": [
+    "table tennis",
+    "ping pong",
+    "tennis",
+    "tennis class",
+    "squash"
+   ],
+   "type": "class",
+   "skill": "Table tennis and tennis",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.forces.changing-motion.L3",
+     "why": "The bat sends the ball back the way it came, quicker than it arrived."
+    },
+    {
+     "k": "unit|sci.motion.spinning.L3",
+     "why": "A spinning ball curves in the air and jumps in a different direction when it bounces."
+    },
+    {
+     "k": "unit|sci.air.air-around-us.L3",
+     "why": "A table tennis ball is hollow and full of air, so it is very light."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Players count points up to eleven or twenty-one."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "The table is a rectangle, and the net splits it into two equal halves."
+    }
+   ]
+  },
+  {
+   "id": "movement-archery",
+   "name": "Archery",
+   "words": [
+    "archery",
+    "bow and arrow",
+    "arrow",
+    "target shooting",
+    "dhanush"
+   ],
+   "type": "class",
+   "skill": "Archery",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.energy.stored-energy.L3",
+     "why": "A pulled bow stores energy in its bend, and that energy goes into the arrow when you let go."
+    },
+    {
+     "k": "unit|sci.forces.stretching-springs.L3",
+     "why": "The bow springs back to its shape, and the string pushes the arrow forward."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "An arrow aimed at a far target is pointed a little high because gravity pulls it down on its way."
+    },
+    {
+     "k": "math:estimation",
+     "why": "Judging how far the target is and where to aim is a kind of estimate."
+    },
+    {
+     "k": "unit|sci.forces.flight.L3",
+     "why": "The feathers at the back of the arrow keep it flying straight."
+    }
+   ]
+  },
+  {
+   "id": "movement-skating",
+   "name": "Skating or roller blading",
+   "words": [
+    "skating",
+    "roller skating",
+    "roller blades",
+    "rollerblading",
+    "skates",
+    "skateboard"
+   ],
+   "type": "class",
+   "skill": "Skating",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "The wheels roll with very little friction, so you glide a long way."
+    },
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "Once you are rolling you keep moving, and you need a brake to stop."
+    },
+    {
+     "k": "unit|sci.senses.more-senses.L3",
+     "why": "Staying up on wheels uses your sense of balance all the time."
+    },
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "You push the ground backwards, and it pushes you forward."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "Gravity pulls you down the slope and makes you go faster."
+    }
+   ]
+  },
+  {
+   "id": "movement-kite-flying",
+   "name": "Kite flying",
+   "words": [
+    "kite",
+    "patang",
+    "manja",
+    "kite flying",
+    "flew a kite",
+    "uttarayan",
+    "makar sankranti kite"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.weather.wind-and-air.L3",
+     "why": "Moving air lifts the kite, and a kite will not fly if there is no wind."
+    },
+    {
+     "k": "unit|sci.forces.flight.L3",
+     "why": "The wind pushes against the kite's face and pushes it up."
+    },
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "The string pulls the kite one way and the wind pushes it another, so it stays in one place."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "People fly kites on Makar Sankranti to celebrate the Sun moving north."
+    },
+    {
+     "k": "unit|sci.making-things.design-and-build.L3",
+     "why": "If you make a kite yourself, you can test the tail length and the shape to make it fly better."
+    }
+   ]
+  },
+  {
+   "id": "movement-gilli-danda-marbles",
+   "name": "Gilli danda or marbles",
+   "words": [
+    "gilli danda",
+    "gulli danda",
+    "marbles",
+    "kancha",
+    "goli",
+    "pittu",
+    "pitthu",
+    "seven tiles"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.changing-motion.L3",
+     "why": "A short stick hit on the end makes the small gilli spin up and fly."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "A marble rolls farther on a smooth floor than on a rough one."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "You can measure how far your marble or gilli went with a footstep or a tape."
+    },
+    {
+     "k": "math:estimation",
+     "why": "Guessing how far to hit so it lands near the mark is an estimate."
+    },
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "A marble that is hit keeps rolling until friction stops it."
+    }
+   ]
+  },
+  {
+   "id": "movement-tug-of-war",
+   "name": "Tug of war and sack race",
+   "words": [
+    "tug of war",
+    "rassakashi",
+    "sack race",
+    "lemon and spoon",
+    "three legged race",
+    "sports day games"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "In tug of war each team pulls the rope, and the stronger total pull wins."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "Shoes that grip the ground help you pull, which is why bare slippery feet slide."
+    },
+    {
+     "k": "unit|sci.forces.measuring-forces.L3",
+     "why": "We measure a force in newtons, and a team of many children makes a bigger force than one."
+    },
+    {
+     "k": "unit|sci.gravity.weight-and-mass.L3",
+     "why": "Heavier children press harder on the ground, so they grip it better."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Games run well when everyone plays fair and listens to the umpire."
+    }
+   ]
+  },
+  {
+   "id": "movement-trekking",
+   "name": "Trekking and hill walk",
+   "words": [
+    "trek",
+    "trekking",
+    "hiking",
+    "hill walk",
+    "hill climbing",
+    "mountain",
+    "fort climb",
+    "nature walk"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.habitats.habitats.L3",
+     "why": "On a hill walk you may see how plants and animals change as you go higher."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "Boots with grooves grip the rock and soil so you do not slip."
+    },
+    {
+     "k": "unit|sci.planet-earth.maps-and-directions.L3",
+     "why": "A map and a compass tell you where you are and which way to go."
+    },
+    {
+     "k": "math:direction-maps",
+     "why": "You can follow a trail by saying left, right, north and south."
+    },
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "Going uphill makes you breathe faster because your legs need more oxygen."
+    }
+   ]
+  },
+  {
+   "id": "movement-walking-to-school",
+   "name": "Walking or running errands",
+   "words": [
+    "walk",
+    "walking",
+    "walked to school",
+    "walk to market",
+    "evening walk",
+    "morning walk",
+    "went for a walk"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.body-parts.L3",
+     "why": "Your legs and feet carry your whole weight, so looking after them matters."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "You can count steps to measure how far the school or shop is."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "On the road we walk on the side, cross at the zebra crossing and look both ways."
+    },
+    {
+     "k": "unit|sci.planet-earth.maps-and-directions.L3",
+     "why": "You can draw the route from home to school and mark the places you pass."
+    },
+    {
+     "k": "social:family-community",
+     "why": "On a walk you see the people who work in your neighbourhood."
+    }
+   ]
+  },
+  {
+   "id": "movement-wedding-dance",
+   "name": "Dancing at a wedding or party",
+   "words": [
+    "wedding dance",
+    "baraat",
+    "sangeet",
+    "dance at wedding",
+    "birthday dance",
+    "dance party"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:festivals-culture",
+     "why": "Dancing together at weddings and festivals is how families celebrate."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "Very loud music can hurt your ears, so stand away from the speakers."
+    },
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "Music reaches your body as sound waves, and a loud speaker can make your chest shake."
+    },
+    {
+     "k": "math:patterns",
+     "why": "People dance in rows, circles or lines, which makes shapes and patterns."
+    },
+    {
+     "k": "unit|sci.health.feelings-and-wellbeing.L3",
+     "why": "Moving to music with others often makes you feel happy."
+    }
+   ]
+  },
+  {
+   "id": "movement-athletics-jumps-throws",
+   "name": "Long jump, high jump and throws",
+   "words": [
+    "long jump",
+    "high jump",
+    "shot put",
+    "javelin",
+    "discus",
+    "athletics",
+    "throw ball"
+   ],
+   "type": "did",
+   "skill": "Athletics",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.motion.physics-of-sport.L3",
+     "why": "A longer run-up gives you more speed, so you jump or throw farther."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "Whatever you throw goes up and comes down because of gravity."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Jumps and throws are measured in metres and centimetres, and the longest wins."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "You can chart your jumps each week to see how you are improving."
+    },
+    {
+     "k": "unit|sci.gravity.weight-and-mass.L3",
+     "why": "A heavy shot put goes less far than a light ball when thrown with the same effort."
+    }
+   ]
+  },
+  {
+   "id": "movement-climbing",
+   "name": "Climbing and monkey bars",
+   "words": [
+    "climbing",
+    "monkey bars",
+    "rope climbing",
+    "tree climbing",
+    "wall climbing",
+    "climbed a tree",
+    "jungle gym"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "Your hands and shoes grip the rock or rope, so you do not slide down."
+    },
+    {
+     "k": "unit|sci.gravity.weight-and-mass.L3",
+     "why": "Climbing takes strength because you lift your own weight against gravity."
+    },
+    {
+     "k": "unit|sci.body.body-parts.L3",
+     "why": "Your fingers, arms and legs all work together to hold and push you up."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Climb only where a grown-up says it is safe, and never go higher than you can get down from."
+    },
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "Branches that carry your weight are thick near the trunk and thin at the tip."
+    }
+   ]
+  },
+  {
+   "id": "movement-stretching-warmup",
+   "name": "Stretching and warm-up",
+   "words": [
+    "stretching",
+    "warm up",
+    "warm-up",
+    "exercise",
+    "pt class",
+    "drill",
+    "physical training",
+    "pt period"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "A warm-up wakes up the muscles before hard exercise so they work well."
+    },
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "Moving makes your heart beat faster and warms up your body."
+    },
+    {
+     "k": "unit|sci.body.organs-inside.L3",
+     "why": "Your muscles, heart and lungs all join in during exercise."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Counting each stretch to ten helps you hold it for the same time."
+    },
+    {
+     "k": "unit|sci.body.keeping-balance.L3",
+     "why": "You feel warm and sweat when you exercise because your body is staying cool."
+    }
+   ]
+  },
+  {
+   "id": "movement-horse-riding",
+   "name": "Horse riding",
+   "words": [
+    "horse riding",
+    "horse",
+    "pony ride",
+    "camel ride",
+    "elephant ride",
+    "riding class"
+   ],
+   "type": "went",
+   "skill": "Horse riding",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.animals.vertebrate-groups.L3",
+     "why": "A horse is a mammal, and it keeps its body warm and feeds its young milk."
+    },
+    {
+     "k": "unit|sci.animals.animal-minds.L3",
+     "why": "Horses can feel when a rider is nervous, so a calm rider helps a calm horse."
+    },
+    {
+     "k": "unit|sci.senses.more-senses.L3",
+     "why": "Sitting straight on a moving horse uses your sense of balance."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "Horses eat grass, hay and grains, which are plants."
+    },
+    {
+     "k": "social:transport",
+     "why": "Before engines, horses and camels carried people and goods across India."
+    }
+   ]
+  },
+  {
+   "id": "movement-boating",
+   "name": "Boating and rowing",
+   "words": [
+    "boat",
+    "boating",
+    "rowing",
+    "kayak",
+    "canoe",
+    "nauka",
+    "boat ride",
+    "ferry"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "When the oar pushes water back, the water pushes the boat forward."
+    },
+    {
+     "k": "unit|sci.gravity.weight-and-mass.L3",
+     "why": "A boat floats because the water pushes up on it, even if it is heavy."
+    },
+    {
+     "k": "social:transport",
+     "why": "Boats carry people and goods on rivers, lakes and seas."
+    },
+    {
+     "k": "unit|sci.habitats.water-habitats.L3",
+     "why": "From a boat you can see birds, fish and plants that live in the water."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "We wear a life jacket on a boat, even if we can swim."
+    }
+   ]
+  },
+  {
+   "id": "movement-dahi-handi-human-pyramid",
+   "name": "Dahi handi or human pyramid",
+   "words": [
+    "dahi handi",
+    "human pyramid",
+    "govinda",
+    "matki phod",
+    "pyramid"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:festivals-culture",
+     "why": "On Janmashtami teams make a tower to break a pot hanging high, like baby Krishna reaching butter."
+    },
+    {
+     "k": "unit|sci.gravity.weight-and-mass.L3",
+     "why": "Heavy people stand at the bottom because they carry the weight of everyone above."
+    },
+    {
+     "k": "unit|sci.making-things.houses-and-shelter.L3",
+     "why": "A wide base keeps a tall structure standing, just as in buildings."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "The pyramid gets narrower as you go up, like a triangle."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Tall towers are dangerous without mats and helmets, so safety comes first."
+    }
+   ]
+  },
+  {
+   "id": "movement-dance-video",
+   "name": "Dancing to a song or a reel",
+   "words": [
+    "danced to a song",
+    "dance video",
+    "reel",
+    "dance on tv",
+    "just dance",
+    "danced at home",
+    "bollywood dance"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "The song reaches your ears as sound waves moving through the air."
+    },
+    {
+     "k": "math:patterns",
+     "why": "A dance routine is a pattern of steps that you repeat."
+    },
+    {
+     "k": "unit|sci.mind.thinking-and-memory.L3",
+     "why": "Remembering the order of the steps trains your memory."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Dancing on the beat means keeping the time steady, like a clock."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Dancing for ten minutes gets your heart moving, just like running does."
+    }
+   ]
+  },
+  {
+   "id": "movement-parkour-obstacle",
+   "name": "Obstacle course or parkour",
+   "words": [
+    "parkour",
+    "obstacle course",
+    "obstacle race",
+    "jumping over",
+    "hurdles"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.motion.physics-of-sport.L3",
+     "why": "Bending your knees when you land spreads the push over more time and softens the landing."
+    },
+    {
+     "k": "math:problem-solving",
+     "why": "An obstacle course asks you to plan the quickest way through."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "The higher you jump from, the faster you hit the ground."
+    },
+    {
+     "k": "unit|sci.senses.more-senses.L3",
+     "why": "Your body knows where your arms and legs are, even when you are not looking at them."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Timing each try shows if you got faster."
+    }
+   ]
+  },
+  {
+   "id": "movement-pilates-gym",
+   "name": "Gym or strength exercise",
+   "words": [
+    "gym",
+    "push ups",
+    "pushups",
+    "sit ups",
+    "plank",
+    "pull ups",
+    "dumbbells"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "A push-up is pushing the ground away so your body lifts."
+    },
+    {
+     "k": "unit|sci.gravity.weight-and-mass.L3",
+     "why": "Lifting needs force because gravity pulls the weight down."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Muscles grow stronger when you exercise them and then rest."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Counting reps and sets practises counting in order."
+    },
+    {
+     "k": "unit|sci.food.nutrients.L3",
+     "why": "Protein in foods like dal, eggs and paneer helps muscles repair."
+    }
+   ]
+  },
+  {
+   "id": "movement-ball-play-catch",
+   "name": "Throw and catch",
+   "words": [
+    "catch",
+    "throwing ball",
+    "playing catch",
+    "bounce ball",
+    "dodgeball",
+    "dodge ball"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "The ball you throw goes up and then comes down because gravity pulls it."
+    },
+    {
+     "k": "unit|sci.senses.five-senses.L3",
+     "why": "Your eyes follow the ball and tell your hands where to be."
+    },
+    {
+     "k": "unit|sci.forces.stretching-springs.L3",
+     "why": "A rubber ball squashes when it hits the floor and springs back up."
+    },
+    {
+     "k": "math:estimation",
+     "why": "You guess how hard to throw so the ball reaches your friend."
+    },
+    {
+     "k": "unit|sci.forces.changing-motion.L3",
+     "why": "A catch makes the ball slow down and stop in your hands."
+    }
+   ]
+  },
+  {
+   "id": "movement-mirror-dance-game",
+   "name": "Statue and freeze games",
+   "words": [
+    "statue",
+    "freeze dance",
+    "musical chairs",
+    "simon says",
+    "follow the leader",
+    "musical statue",
+    "copy me"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "You must listen carefully to the music to know when it stops."
+    },
+    {
+     "k": "unit|sci.body.body-parts.L3",
+     "why": "To freeze, your muscles hold your body still."
+    },
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "Stopping suddenly is hard because your body wants to keep moving."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Following the instructions of Simon Says is practice in careful listening."
+    },
+    {
+     "k": "math:patterns",
+     "why": "In follow the leader you copy a pattern of moves in the same order."
+    }
+   ]
+  },
+  {
+   "id": "movement-lezim-drill",
+   "name": "Lezim, march past or drill",
+   "words": [
+    "lezim",
+    "march past",
+    "drill",
+    "parade",
+    "scouts",
+    "ncc",
+    "guides"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:patterns",
+     "why": "Everyone moves in the same pattern together, which is how a parade looks neat."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "In a parade the left and right lines mirror each other."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "The lezim's chain jingles and the drum is beaten because both vibrate."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Marching to commands means listening and acting at once."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Working in a team means following the leader and keeping the same pace."
+    }
+   ]
+  },
+  {
+   "id": "movement-rope-climb-swing-water",
+   "name": "Playing in water or rain",
+   "words": [
+    "rain dance",
+    "played in the rain",
+    "splash",
+    "puddle",
+    "water play",
+    "sprinkler",
+    "bucket of water"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.water.water-cycle.L3",
+     "why": "Rain comes from clouds, and a puddle later dries as the water goes back into the air."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "A wet patch on the ground dries because water turns into a gas and goes into the air."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "Wet ground is slippery, so we run carefully."
+    },
+    {
+     "k": "unit|sci.weather.weather.L3",
+     "why": "You can measure the rain by putting a bowl outside and measuring the water."
+    },
+    {
+     "k": "unit|sci.body.keeping-balance.L3",
+     "why": "Getting wet in the rain cools your body, so dry off after."
+    }
+   ]
+  },
+  {
+   "id": "movement-dance-class-recital",
+   "name": "Dance recital or school annual day",
+   "words": [
+    "annual day",
+    "recital",
+    "dance performance",
+    "stage show",
+    "rehearsal",
+    "arangetram",
+    "competition dance"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "eng:speak-listen",
+     "why": "Performing on stage means speaking or moving clearly so people at the back can follow."
+    },
+    {
+     "k": "unit|sci.health.feelings-and-wellbeing.L3",
+     "why": "Feeling nervous before going on stage is normal, and slow breaths help."
+    },
+    {
+     "k": "unit|sci.mind.thinking-and-memory.L3",
+     "why": "Practising many times makes the steps stay in your memory."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Many Indian dances tell stories from old tales and from the seasons."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "A rehearsal schedule means working out how many days are left to practise."
+    }
+   ]
+  },
+  {
+   "id": "movement-tai-chi-meditation",
+   "name": "Meditation or breathing practice",
+   "words": [
+    "meditation",
+    "dhyan",
+    "breathing exercise",
+    "anulom vilom",
+    "om chanting",
+    "tai chi",
+    "mindfulness"
+   ],
+   "type": "did",
+   "skill": "Meditation",
+   "skillcat": "mind",
+   "links": [
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "Slow breaths slow your heart and carry air deep into your lungs."
+    },
+    {
+     "k": "unit|sci.health.feelings-and-wellbeing.L3",
+     "why": "Sitting quietly and noticing your breath can help you feel calmer."
+    },
+    {
+     "k": "unit|sci.mind.thinking-and-memory.L3",
+     "why": "Paying attention to one thing, such as your breath, trains your mind to focus."
+    },
+    {
+     "k": "unit|sci.senses.five-senses.L3",
+     "why": "When you sit quietly you notice sounds, smells and touch you usually miss."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "When you hum Om, put a hand on your throat and feel the vibration."
+    }
+   ]
+  }
+ ]
+}

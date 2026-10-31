@@ -1,0 +1,1688 @@
+{
+ "cat": "kitchen",
+ "acts": [
+  {
+   "id": "kitchen-roti",
+   "name": "Making roti",
+   "words": [
+    "roti",
+    "chapati",
+    "phulka",
+    "rolled rotis",
+    "made rotis"
+   ],
+   "type": "did",
+   "skill": "Cooking",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "Roti starts as wheat grain that was grown in a field, ground into flour, and then rolled by you."
+    },
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "When you add water to the flour and knead, it turns into a soft dough instead of staying dry powder."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "You roll the dough ball out flat into a circle, and a ball and a circle are different shapes."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "The tawa heats the roti, and the heat makes the dough puff up and turn brown."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "If amma makes 8 rotis for 4 people, each person gets 2, and that is sharing equally."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-dal",
+   "name": "Cooking dal",
+   "words": [
+    "dal",
+    "daal",
+    "tadka",
+    "sambar",
+    "cooked dal",
+    "rasam"
+   ],
+   "type": "did",
+   "skill": "Cooking",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "The heat from the flame makes the water bubble, and the hard dal turns soft."
+    },
+    {
+     "k": "unit|sci.food.nutrients.L3",
+     "why": "Dal has protein, which helps your body grow and mend itself."
+    },
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "Dal is the seed of a plant, and the seed holds food for a baby plant."
+    },
+    {
+     "k": "math:capacity",
+     "why": "We measure how much water goes with one cup of dal, and that is capacity."
+    },
+    {
+     "k": "unit|sci.changes.fire.L3",
+     "why": "The gas flame needs air to burn, which is why we keep the burner clear and never leave it alone."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-rice",
+   "name": "Cooking rice",
+   "words": [
+    "rice",
+    "chawal",
+    "bhaat",
+    "cooked rice",
+    "pulao",
+    "khichdi"
+   ],
+   "type": "did",
+   "skill": "Cooking",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "unit|sci.seeds-and-life-cycles.seeds-and-germination.L3",
+     "why": "Each grain of rice is a seed, and a seed with water and warmth can sprout."
+    },
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "Rice soaks up water as it cooks, and the starch from the rice makes the water cloudy."
+    },
+    {
+     "k": "math:capacity",
+     "why": "Cooks often use two cups of water for one cup of rice, and that is measuring by volume."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "Rice grows in flooded fields, and farmers plant and harvest it before it reaches your plate."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "If one cup of rice feeds 2 people, then 3 cups feed 3 times 2, which is 6 people."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-dosa",
+   "name": "Making dosa or idli",
+   "words": [
+    "dosa",
+    "idli",
+    "batter",
+    "uttapam",
+    "made dosa",
+    "appam"
+   ],
+   "type": "did",
+   "skill": "Cooking",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "unit|sci.chemistry.reaction-speed.L3",
+     "why": "The batter rests overnight and slowly rises because tiny living things in it make bubbles."
+    },
+    {
+     "k": "unit|sci.microorganisms.germs.L3",
+     "why": "Not all tiny living things are bad, and the ones in dosa batter are helpful microbes that make it fluffy."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "When the batter touches the hot tawa, it sets and turns crisp and golden."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Idli is round and dosa is a big circle, and you can see how a thin flat shape and a thick one are different."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "Rice and urad dal are grown by farmers, and they become your breakfast."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-poha",
+   "name": "Making poha or upma",
+   "words": [
+    "poha",
+    "upma",
+    "breakfast",
+    "made poha",
+    "sooji",
+    "semolina"
+   ],
+   "type": "did",
+   "skill": "Cooking",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "The mustard seeds pop in hot oil, and that is heat moving from the pan into the seeds."
+    },
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "Poha is washed and softened in water before cooking, and it soaks up the water."
+    },
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "Poha is made by flattening rice grains, so it is the same rice in a new shape."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "You count the spoons of each thing you add, and adding them up tells you the total."
+    },
+    {
+     "k": "eng:write-sentences",
+     "why": "You can write the steps of the recipe in order, with a first, a next and a last."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-chai",
+   "name": "Making chai",
+   "words": [
+    "chai",
+    "tea",
+    "made tea",
+    "kadha",
+    "masala chai"
+   ],
+   "type": "did",
+   "skill": "Cooking",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "unit|sci.energy.heat-moves.L3",
+     "why": "The steel spoon in the hot chai gets hot too, because heat travels along the metal."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "Steam rises from the hot chai, and when it touches a cold lid it turns back into drops of water."
+    },
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "Sugar disappears in the chai because it dissolves into the hot water."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "Hot chai cools down slowly, and a thermometer would show the temperature falling."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Wash your hands before you help in the kitchen, so germs from your hands stay out of the food."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-lemonade",
+   "name": "Making lemonade or nimbu pani",
+   "words": [
+    "lemonade",
+    "nimbu pani",
+    "shikanji",
+    "lemon",
+    "sharbat",
+    "juice"
+   ],
+   "type": "did",
+   "skill": "Cooking",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "unit|sci.chemistry.acids-and-bases.L3",
+     "why": "Lemon juice tastes sour because it is an acid, and a pinch of baking soda makes it fizz."
+    },
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "Sugar and salt disappear in the water because they dissolve, but the taste stays."
+    },
+    {
+     "k": "unit|sci.states.particles.L3",
+     "why": "The sugar breaks into pieces too tiny to see, and they spread all through the water."
+    },
+    {
+     "k": "math:capacity",
+     "why": "You measure lemon juice and water in spoons and glasses, and bigger cups hold more."
+    },
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "A lemon is the fruit of a tree, and the fruit holds the seeds."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-cake",
+   "name": "Baking a cake",
+   "words": [
+    "cake",
+    "baking",
+    "baked",
+    "oven",
+    "cupcake",
+    "muffin",
+    "biscuits",
+    "cookies"
+   ],
+   "type": "did",
+   "skill": "Baking",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "unit|sci.chemistry.reaction-speed.L3",
+     "why": "When baking powder meets the wet batter and heat, it makes tiny bubbles that lift the cake."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "The oven heat turns a runny batter into a firm, soft cake."
+    },
+    {
+     "k": "math:weight",
+     "why": "Recipes use grams of flour and sugar, and a kitchen scale measures weight."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "Cutting the cake into 8 equal slices gives each slice one eighth."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "The cake bakes for 30 minutes, so we watch the clock and the timer."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-ladoo",
+   "name": "Making ladoo or sweets",
+   "words": [
+    "ladoo",
+    "laddu",
+    "mithai",
+    "barfi",
+    "halwa",
+    "sweets",
+    "gulab jamun",
+    "kheer"
+   ],
+   "type": "did",
+   "skill": "Cooking",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "unit|sci.states.crystals.L3",
+     "why": "Sugar is made of tiny crystals, and in sugar syrup you can see them dissolve and grow back."
+    },
+    {
+     "k": "unit|sci.states.liquids-up-close.L3",
+     "why": "Sugar syrup gets thicker as it cooks, and thick liquids flow slowly."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Families make sweets at Diwali, Eid, Christmas and other festivals to share with everyone."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "If you make 12 ladoos for 4 neighbours, each gets 3."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "The ghee melts in the warm pan, and heat turns a solid into a liquid."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-pickle",
+   "name": "Making pickle",
+   "words": [
+    "pickle",
+    "achaar",
+    "aam ka achaar",
+    "preserving",
+    "murabba"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.food.food-safety.L3",
+     "why": "Salt, oil and sun keep germs from growing in pickle, so it stays good for months."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "Mango slices are kept in the sun, and the water in them dries up into the air."
+    },
+    {
+     "k": "unit|sci.microorganisms.germs.L3",
+     "why": "Germs need water to grow, so dry salty pickle stops them."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.seasons.L3",
+     "why": "Raw mangoes come only in summer, so people make pickle to enjoy them in other seasons."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Every region of India has its own pickle, such as mango in the south and lemon in the north."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-curd",
+   "name": "Setting curd or making paneer",
+   "words": [
+    "curd",
+    "dahi",
+    "paneer",
+    "yoghurt",
+    "yogurt",
+    "set curd",
+    "buttermilk",
+    "lassi"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.microorganisms.germs.L3",
+     "why": "A spoon of old curd has friendly microbes that turn warm milk into new curd overnight."
+    },
+    {
+     "k": "unit|sci.chemistry.reaction-speed.L3",
+     "why": "Curd takes many hours to set, and it sets faster in a warm place."
+    },
+    {
+     "k": "unit|sci.chemistry.acids-and-bases.L3",
+     "why": "Curd tastes sour because it is slightly acidic, and lemon juice can split milk into paneer."
+    },
+    {
+     "k": "unit|sci.food.nutrients.L3",
+     "why": "Milk, curd and paneer give calcium, which helps your bones and teeth."
+    },
+    {
+     "k": "unit|sci.animals.animal-bodies.L3",
+     "why": "Milk comes from cows and buffaloes, and a mother animal makes milk for her calf."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-sprouts",
+   "name": "Growing sprouts",
+   "words": [
+    "sprouts",
+    "sprouting",
+    "moong",
+    "matki",
+    "soaked moong",
+    "chana soaking",
+    "germination"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.seeds-and-life-cycles.seeds-and-germination.L3",
+     "why": "A soaked moong seed wakes up and sprouts, because it has water and warmth."
+    },
+    {
+     "k": "unit|sci.plants.what-plants-need.L3",
+     "why": "Try sprouting some seeds in a dark cupboard and some by the window, and compare."
+    },
+    {
+     "k": "unit|sci.how-we-know.fair-tests.L3",
+     "why": "To compare two jars fairly, change only one thing, like water, and keep everything else the same."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Measure how long the little root is each day with a ruler."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "Write each day's length in a table and draw a graph to see how fast it grows."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-salad",
+   "name": "Making salad or cutting vegetables",
+   "words": [
+    "salad",
+    "chopping",
+    "cut vegetables",
+    "cutting veggies",
+    "kachumber",
+    "raita",
+    "chopped"
+   ],
+   "type": "did",
+   "skill": "Cooking",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "unit|sci.food.balanced-diet.L3",
+     "why": "A salad with many colours gives your body many different kinds of goodness."
+    },
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "Carrots are roots, spinach is leaves, and tomatoes are fruits, so a salad has many plant parts."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "Cutting an onion into halves and quarters shows fractions."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Cucumber cut across makes circles, and a cut lengthwise makes long strips."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Wash vegetables and your hands before you eat them, to rinse off dirt and germs."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-sandwich",
+   "name": "Making sandwiches",
+   "words": [
+    "sandwich",
+    "sandwiches",
+    "toast",
+    "bread",
+    "made a sandwich",
+    "paratha roll"
+   ],
+   "type": "did",
+   "skill": "Cooking",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "math:shapes-space",
+     "why": "Cut a square sandwich along the diagonal and you get two triangles."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "Cutting the sandwich into halves and quarters gives equal parts."
+    },
+    {
+     "k": "unit|sci.food.balanced-diet.L3",
+     "why": "A sandwich with bread, vegetables and cheese gives energy, goodness and protein together."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Bread is soft and toast is crisp, so heat changes how a material feels."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Layering bread, chutney, tomato and cucumber in order makes a pattern."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-pakora",
+   "name": "Frying pakoras or puris",
+   "words": [
+    "pakora",
+    "pakoda",
+    "bhajiya",
+    "puri",
+    "poori",
+    "samosa",
+    "frying",
+    "fried"
+   ],
+   "type": "did",
+   "skill": "Cooking",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "Hot oil is much hotter than boiling water, so only a grown-up should do the frying."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "The water inside the batter turns to steam in hot oil, and that is why puris puff up."
+    },
+    {
+     "k": "unit|sci.air.air-around-us.L3",
+     "why": "A puri puffs because steam and air get trapped inside the dough."
+    },
+    {
+     "k": "unit|sci.states.liquids-up-close.L3",
+     "why": "Oil floats on water because it is lighter, and the two do not mix."
+    },
+    {
+     "k": "unit|sci.changes.fire.L3",
+     "why": "Never put water on an oil fire, and a lid on the pan cuts off the air and puts the fire out."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-veg-shopping",
+   "name": "Buying vegetables",
+   "words": [
+    "sabzi",
+    "vegetables",
+    "sabzi mandi",
+    "bought vegetables",
+    "vegetable market",
+    "thela",
+    "subzi wala"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:money",
+     "why": "You pay the sabzi wala and take back change, and that is adding and subtracting money."
+    },
+    {
+     "k": "math:weight",
+     "why": "Vegetables are sold by the kilo, and half a kilo is 500 grams."
+    },
+    {
+     "k": "social:money-markets",
+     "why": "A mandi is a market where farmers and sellers meet buyers, and prices change with what is fresh."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "Each vegetable you buy was grown in a field, and someone picked it and brought it to the market."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.seasons.L3",
+     "why": "Different vegetables come in different seasons, such as peas in winter and lauki in summer."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-grocery",
+   "name": "Grocery shopping",
+   "words": [
+    "grocery",
+    "kirana",
+    "supermarket",
+    "shopping list",
+    "bought groceries",
+    "dukaan",
+    "bazaar"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:money",
+     "why": "Add up the prices of what you buy and check the change you get back."
+    },
+    {
+     "k": "math:estimation",
+     "why": "Guess if the total will be under 500 rupees before the shopkeeper tells you."
+    },
+    {
+     "k": "eng:write-sentences",
+     "why": "Writing a shopping list gives practice in spelling and writing words."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "The kirana owner, the farmer and the truck driver all have jobs that bring food to your home."
+    },
+    {
+     "k": "unit|sci.food.food-safety.L3",
+     "why": "Look at the date on a packet, because old food can make you ill."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-fruit-wash",
+   "name": "Washing and cutting fruit",
+   "words": [
+    "fruit",
+    "fruits",
+    "apple",
+    "banana",
+    "mango",
+    "washed fruit",
+    "fruit chaat",
+    "fruit salad"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Washing fruit under running water rinses off dirt and germs before you eat."
+    },
+    {
+     "k": "unit|sci.seeds-and-life-cycles.plant-life-cycle.L3",
+     "why": "A fruit holds the seeds of a plant, and a seed can grow into a new tree."
+    },
+    {
+     "k": "unit|sci.food.nutrients.L3",
+     "why": "Fruits have vitamins and fibre, which help your body stay healthy and your tummy work well."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "An apple cut in four equal pieces gives each of four friends one quarter."
+    },
+    {
+     "k": "unit|sci.food.food-safety.L3",
+     "why": "A cut apple turns brown in air, and a few drops of lemon juice slow that down."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-measuring",
+   "name": "Measuring ingredients",
+   "words": [
+    "measuring",
+    "measured",
+    "teaspoon",
+    "tablespoon",
+    "weighing",
+    "recipe"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:capacity",
+     "why": "A cup, a spoon and a jug each hold a different amount, so we use them to measure liquids."
+    },
+    {
+     "k": "math:weight",
+     "why": "A kitchen scale tells how heavy flour or sugar is, in grams."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "Half a cup and a quarter cup show fractions you can see and pour."
+    },
+    {
+     "k": "unit|sci.forces.measuring-forces.L3",
+     "why": "A spring scale measures weight as a pull from gravity, in newtons."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "To make a recipe for double the people, multiply every amount by 2."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-table",
+   "name": "Setting the table",
+   "words": [
+    "set the table",
+    "laying the table",
+    "plates",
+    "thali",
+    "serving food",
+    "dinner table",
+    "served food"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:count-place-value",
+     "why": "Count one plate, one glass and one spoon for each person at the table."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "If 5 people each need 3 things, that is 5 times 3, or 15 things."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Placing plate, spoon, glass for each seat makes a pattern that repeats."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "A table laid neatly looks the same on both sides, and that is symmetry."
+    },
+    {
+     "k": "social:family-community",
+     "why": "Sharing a meal together and helping to set it is a way families work as a team."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-washing-up",
+   "name": "Washing dishes",
+   "words": [
+    "dishes",
+    "washing up",
+    "washed dishes",
+    "utensils",
+    "vessels",
+    "clean up",
+    "cleaning kitchen"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Soap pulls grease and germs off the plate so the water can rinse them away."
+    },
+    {
+     "k": "unit|sci.water.saving-water.L3",
+     "why": "Turning off the tap while you scrub saves a lot of water."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "Steel, glass and plastic dishes are each chosen for a job, such as a steel plate that does not break."
+    },
+    {
+     "k": "unit|sci.states.liquids-up-close.L3",
+     "why": "Oil floats in the water as shiny patches, and soap breaks it into tiny bits."
+    },
+    {
+     "k": "unit|sci.environment.pollution.L3",
+     "why": "Used water with soap goes to drains, so using less soap keeps water cleaner."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-compost",
+   "name": "Kitchen waste and compost",
+   "words": [
+    "compost",
+    "peels",
+    "kitchen waste",
+    "vegetable peels",
+    "wet waste",
+    "dry waste",
+    "dustbin",
+    "segregation"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.waste.compost-and-disposal.L3",
+     "why": "Peels and leftovers can turn into compost, which feeds the soil."
+    },
+    {
+     "k": "unit|sci.ecology.cycles-and-decomposers.L3",
+     "why": "Worms and tiny microbes eat the peels and turn them back into soil."
+    },
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "Compost makes soil rich so that plants can grow well."
+    },
+    {
+     "k": "unit|sci.environment.pollution.L3",
+     "why": "Sorting wet and dry waste means less rubbish piles up on land."
+    },
+    {
+     "k": "unit|sci.food.food-safety.L3",
+     "why": "Food left out too long turns mouldy, and mould is a sign that it has gone bad."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-fridge",
+   "name": "Fridge and leftovers",
+   "words": [
+    "fridge",
+    "refrigerator",
+    "leftovers",
+    "kept in fridge",
+    "stale",
+    "spoiled",
+    "mouldy"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.food.food-safety.L3",
+     "why": "A cold fridge slows the growth of germs, so food stays fresh for more days."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "Heat always moves from warm to cold, so a hot dish left in the fridge slowly cools."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "Water drops form on a cold glass because water in the air turns back into liquid."
+    },
+    {
+     "k": "unit|sci.microorganisms.germs.L3",
+     "why": "Mould and bacteria grow on old food and can make you ill."
+    },
+    {
+     "k": "unit|sci.energy.energy-around-us.L3",
+     "why": "The fridge uses electricity to keep cold, which is why we shut the door quickly."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-ice",
+   "name": "Making ice or kulfi",
+   "words": [
+    "ice cubes",
+    "kulfi",
+    "ice cream",
+    "freezer",
+    "frozen",
+    "popsicle",
+    "ice candy"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.states.particles.L3",
+     "why": "In the freezer, the tiny bits of water settle into a fixed shape and make ice."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "Ice melts as heat moves into it from warmer things around it."
+    },
+    {
+     "k": "unit|sci.chemistry.reaction-speed.L3",
+     "why": "Small ice cubes melt faster than a big block, so shape and size change how fast it happens."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Kulfi needs about 6 hours in the freezer, so plan ahead with the clock."
+    },
+    {
+     "k": "unit|sci.how-we-know.fair-tests.L3",
+     "why": "To test which melts first, keep the same amount of ice in each place and change only the place."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-popcorn",
+   "name": "Making popcorn",
+   "words": [
+    "popcorn",
+    "bhutta",
+    "corn",
+    "makai",
+    "roasted corn",
+    "roasted peanuts",
+    "chana roasting"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "Heat turns the little water inside each kernel into steam, which pops it open."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "Water becomes steam when heated, and steam takes up much more room than water."
+    },
+    {
+     "k": "unit|sci.seeds-and-life-cycles.seeds-and-germination.L3",
+     "why": "A corn kernel is a seed, and if planted instead of popped, it could grow into a corn plant."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "The pop you hear is the kernel breaking open and making the air shake."
+    },
+    {
+     "k": "math:estimation",
+     "why": "Guess how many kernels will pop from one spoonful, then count to check."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-boiling",
+   "name": "Boiling water and eggs",
+   "words": [
+    "boil",
+    "boiled",
+    "boiled egg",
+    "egg",
+    "eggs",
+    "boiling water",
+    "kettle",
+    "steam"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "Boiling water turns into steam, and steam turns back to water drops on a cold lid."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "Heat from the stove moves into the pot and then into the water."
+    },
+    {
+     "k": "unit|sci.animals.animal-life-cycles.L3",
+     "why": "An egg can hold a growing chick, and the egg we eat is not fertilised, so no chick grows."
+    },
+    {
+     "k": "unit|sci.energy.heat-moves.L3",
+     "why": "The pot handle gets hot too, because metal carries heat well, so use a cloth."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "A boiled egg takes about 10 minutes, so we watch the clock."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-gas-stove",
+   "name": "Helping at the stove",
+   "words": [
+    "stove",
+    "flame",
+    "burner",
+    "tawa",
+    "pressure cooker",
+    "whistle",
+    "cooker"
+   ],
+   "type": "did",
+   "skill": "Cooking",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "unit|sci.changes.fire.L3",
+     "why": "A flame needs air, fuel and heat, and without any one of them it goes out."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "A cooker whistle comes from steam rushing through a small hole and shaking the air."
+    },
+    {
+     "k": "unit|sci.air.air-around-us.L3",
+     "why": "Steam inside a closed pressure cooker pushes hard on the lid, and that is air pressure in use."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "Heat from the burner moves into the pot and cooks the food."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Keep pot handles turned in and long sleeves away, so the pot cannot be knocked off."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-grinding",
+   "name": "Grinding masala",
+   "words": [
+    "masala",
+    "grinding",
+    "grinder",
+    "mixie",
+    "mixer",
+    "chutney",
+    "sil batta",
+    "pounding"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Hard spices break into powder when ground, and a hard stone grinds softer seeds."
+    },
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "A mortar and pestle or sil batta uses your push to crush things much harder."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "The mixer grinder is loud because its fast spinning blades shake the air."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "Turmeric is a root, cumin is a seed, and pepper is a berry, all grown from plants."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Every region of India has its own masala mix, and the names change with the language."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-kneading",
+   "name": "Kneading dough",
+   "words": [
+    "dough",
+    "kneading",
+    "atta",
+    "knead",
+    "atta gundna",
+    "flour",
+    "maida",
+    "bread making"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "Kneading is pushing and folding, and the force changes the shape of the dough."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Dough is stretchy and soft, and it changes when you add more water or flour."
+    },
+    {
+     "k": "unit|sci.forces.stretching-springs.L3",
+     "why": "Pull the dough and it stretches, and rest it and it springs partly back."
+    },
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "Water joins with flour to make dough, which is not the same as dissolving but shows how a mix changes."
+    },
+    {
+     "k": "unit|sci.food.nutrients.L3",
+     "why": "Wheat flour has carbohydrate, which gives your body energy."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-mixing",
+   "name": "Mixing and stirring",
+   "words": [
+    "mixing",
+    "stirring",
+    "stir",
+    "whisk",
+    "whisking",
+    "mixed",
+    "batter mixing"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "Stirring helps sugar dissolve faster, and warm water dissolves it faster still."
+    },
+    {
+     "k": "unit|sci.states.liquids-up-close.L3",
+     "why": "Thick batter flows slowly and thin milk flows fast."
+    },
+    {
+     "k": "unit|sci.materials.sorting-materials.L3",
+     "why": "Some things mix in water, like salt, and others sink or float, like sand and oil."
+    },
+    {
+     "k": "unit|sci.how-we-know.fair-tests.L3",
+     "why": "Try stirring and not stirring one glass of sugar water to see which dissolves faster."
+    },
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "Stirring is a push in a circle that sets the liquid moving."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-sugar-salt",
+   "name": "Salt and sugar experiments",
+   "words": [
+    "salt",
+    "sugar",
+    "salty",
+    "sweet",
+    "namak",
+    "cheeni",
+    "dissolve",
+    "salt water"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "Stir salt in water and it vanishes, but it is still there because the water tastes salty."
+    },
+    {
+     "k": "unit|sci.states.crystals.L3",
+     "why": "If you leave salty water in the sun, the water dries up and salt crystals are left."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "The water goes up into the air and the salt stays behind."
+    },
+    {
+     "k": "math:capacity",
+     "why": "Count how many spoons of salt a glass of water takes before no more dissolves."
+    },
+    {
+     "k": "unit|sci.water.water-sources-and-uses.L3",
+     "why": "Sea water is salty, so it is not safe to drink."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-rolling",
+   "name": "Rolling and shaping dough",
+   "words": [
+    "rolling pin",
+    "belan",
+    "rolled",
+    "shaped dough",
+    "modak",
+    "gujiya",
+    "momos",
+    "dumplings"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "A rolling pin is a roller, and it turns your push into a smooth flat dough."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Round balls, flat circles and folded half moons show shapes changing."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "Fold a gujiya in half and both sides match, and that is symmetry."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "A little dry flour on the board stops dough from sticking, because it lowers the grip."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Modak at Ganesh Chaturthi and gujiya at Holi are made by hand for the festival."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-juice",
+   "name": "Squeezing juice or milk shake",
+   "words": [
+    "juicer",
+    "squeezed",
+    "orange juice",
+    "sugarcane",
+    "coconut water",
+    "shake",
+    "smoothie",
+    "nariyal pani"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "Squeezing is a push, and it forces the juice out of the fruit."
+    },
+    {
+     "k": "unit|sci.plants.water-transport.L3",
+     "why": "Fruits are full of water that came up from the roots of the plant."
+    },
+    {
+     "k": "unit|sci.food.nutrients.L3",
+     "why": "Fresh fruit juice gives vitamins, but eating the whole fruit also gives fibre."
+    },
+    {
+     "k": "unit|sci.chemistry.acids-and-bases.L3",
+     "why": "Orange and lemon juice taste sour because of the acid in them."
+    },
+    {
+     "k": "unit|sci.light.transparent-opaque.L3",
+     "why": "Clear juice lets light through and thick pulpy juice does not."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-tiffin",
+   "name": "Packing a tiffin",
+   "words": [
+    "tiffin",
+    "lunch box",
+    "dabba",
+    "packed lunch",
+    "lunchbox",
+    "school lunch"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.food.balanced-diet.L3",
+     "why": "A good tiffin has something for energy, for growth and for staying healthy."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "Steel boxes keep food safe and do not break, so the material fits the job."
+    },
+    {
+     "k": "unit|sci.food.food-safety.L3",
+     "why": "Food in a closed box stays fresh for a few hours, but hot weather spoils it faster."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "In Mumbai, dabbawalas carry lakhs of tiffins to offices every day."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Find which lunch box fits best in your bag by checking the shapes and sizes."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-festival-feast",
+   "name": "Cooking for a festival",
+   "words": [
+    "festival food",
+    "prasad",
+    "biryani",
+    "feast",
+    "sevai",
+    "plum cake",
+    "iftar",
+    "langar"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:festivals-culture",
+     "why": "Every festival has special food, like sevai at Eid, plum cake at Christmas and puran poli at Gudi Padwa."
+    },
+    {
+     "k": "social:family-community",
+     "why": "Many hands cook together, and sharing food builds a community."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "To cook for 20 guests, multiply a recipe for 4 people by 5."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "The same festival has different food in different states, and the names change with the language."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "Each dish can be traced back to plants, animals and farmers."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-farm-visit",
+   "name": "Visiting a farm or garden",
+   "words": [
+    "farm",
+    "field",
+    "kheti",
+    "harvest",
+    "kitchen garden",
+    "vegetable garden",
+    "mandi visit",
+    "orchard"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "Food in the kitchen starts as seeds and plants that farmers grow in the field."
+    },
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "Soil gives plants water and minerals, and farmers keep it healthy."
+    },
+    {
+     "k": "unit|sci.seeds-and-life-cycles.plant-life-cycle.L3",
+     "why": "A crop grows from seed to plant, then flower, then fruit, and then new seeds."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "A farmer's work covers ploughing, sowing, watering and harvesting."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.seasons.L3",
+     "why": "Each crop has its own season, such as wheat in winter and rice in the rains."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-water-drinking",
+   "name": "Filling water and drinking",
+   "words": [
+    "drinking water",
+    "water bottle",
+    "matka",
+    "filter",
+    "boiled water",
+    "water filter",
+    "filling water"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.water.water-sources-and-uses.L3",
+     "why": "Water for drinking should be clean, and boiling or filtering makes it safe."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "A matka stays cool because a little water seeps out and dries, taking heat with it."
+    },
+    {
+     "k": "unit|sci.body.keeping-balance.L3",
+     "why": "Your body loses water when you sweat, so you must drink to stay in balance."
+    },
+    {
+     "k": "unit|sci.water.saving-water.L3",
+     "why": "Fill only as much water as you need, and the rest need not be thrown away."
+    },
+    {
+     "k": "math:capacity",
+     "why": "Count how many glasses make a litre, which is about 4 glasses."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-egg-nonveg",
+   "name": "Cooking eggs or fish",
+   "words": [
+    "omelette",
+    "omelet",
+    "fish",
+    "chicken",
+    "egg curry",
+    "non veg",
+    "bhurji",
+    "anda"
+   ],
+   "type": "did",
+   "skill": "Cooking",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "unit|sci.food.nutrients.L3",
+     "why": "Eggs, fish and chicken have protein that helps the body grow and repair."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "Heat turns a runny egg into a solid one, and it cannot be changed back."
+    },
+    {
+     "k": "unit|sci.food.food-safety.L3",
+     "why": "Meat, fish and eggs must be cooked fully and kept cold, because germs grow on them fast."
+    },
+    {
+     "k": "unit|sci.ecology.food-chains.L3",
+     "why": "A fish eats smaller water creatures, and we sit at the end of the chain."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Wash your hands with soap after touching raw egg or meat, so germs do not spread."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-sattu-jaggery",
+   "name": "Jaggery and sugarcane",
+   "words": [
+    "jaggery",
+    "gur",
+    "gud",
+    "sugarcane",
+    "sattu",
+    "khandsari",
+    "gur making"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "Jaggery comes from the juice of sugarcane, which is boiled until it thickens."
+    },
+    {
+     "k": "unit|sci.plants.photosynthesis.L3",
+     "why": "The sugar in sugarcane was made by leaves from sunlight, air and water."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "Boiling the juice drives off water as steam, and what is left is thick and sweet."
+    },
+    {
+     "k": "unit|sci.states.liquids-up-close.L3",
+     "why": "As the juice boils, it gets thicker and flows more slowly."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "Farmers grow the cane, and workers press and boil it to make jaggery."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-family-cooking",
+   "name": "Cooking with the family and talking about food",
+   "words": [
+    "amma",
+    "nani",
+    "dadi",
+    "grandma",
+    "grandmother",
+    "cooking with",
+    "recipe from",
+    "family recipe"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:family-community",
+     "why": "Cooking with a grandparent passes a recipe from one generation to the next."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Ask your grandmother how she cooks and listen to the steps."
+    },
+    {
+     "k": "hin:speak-listen",
+     "why": "Ask in Hindi or your home language what each ingredient is called, and learn new words."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Some dishes are very old, and a recipe can tell you how people lived long ago."
+    },
+    {
+     "k": "eng:write-story-letter",
+     "why": "Write down your family's recipe in your own words, so it is kept safe."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-why-question",
+   "name": "Kitchen why questions",
+   "words": [
+    "why does",
+    "why is the",
+    "how does",
+    "what happens when",
+    "asked why food",
+    "why dough",
+    "why bubbles"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.how-we-know.asking-questions.L3",
+     "why": "A good question is the start of finding out, and you can test it in the kitchen."
+    },
+    {
+     "k": "unit|sci.how-we-know.fair-tests.L3",
+     "why": "To find an answer, change one thing and keep the rest the same."
+    },
+    {
+     "k": "unit|sci.chemistry.reaction-speed.L3",
+     "why": "Some kitchen changes are quick, like toast browning, and some are slow, like dough rising."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Telling someone your question clearly is a skill that helps you learn."
+    },
+    {
+     "k": "unit|sci.energy.stored-energy.L3",
+     "why": "Food holds stored energy, and your body uses it to run, play and think."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-tadka",
+   "name": "Tadka and spices",
+   "words": [
+    "tadka",
+    "tempering",
+    "jeera",
+    "mustard seeds",
+    "hing",
+    "curry leaves",
+    "cloves",
+    "cardamom"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "Whole spices crackle in hot oil because heat makes them release their smell and taste."
+    },
+    {
+     "k": "unit|sci.senses.more-senses.L3",
+     "why": "The smell of tadka reaches your nose before you taste the food, because smell and taste work together."
+    },
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "Cloves are flower buds, cumin is a seed, and curry leaves are leaves, so spices are different plant parts."
+    },
+    {
+     "k": "social:money-markets",
+     "why": "In the past, spices from Kerala were traded across the sea, and people travelled far to buy them."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Mustard oil in the east and coconut oil in the south show how places cook differently."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-coconut",
+   "name": "Grating or breaking a coconut",
+   "words": [
+    "coconut",
+    "nariyal",
+    "grated coconut",
+    "coconut chutney",
+    "breaking coconut",
+    "copra"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "A coconut is the seed of a palm tree, and it holds water and white flesh as food for the baby plant."
+    },
+    {
+     "k": "unit|sci.forces.changing-motion.L3",
+     "why": "A hard hit with force cracks the shell, which shows that force can change shape."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "The shell is hard and rough and the inside is soft, so one thing can have different properties."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Coconut is used a lot in coastal India, such as Kerala, Goa and Tamil Nadu."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "A coconut split into two halves and then four quarters shows fractions."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-roasting",
+   "name": "Roasting and toasting",
+   "words": [
+    "roast",
+    "roasted",
+    "toast",
+    "toasting",
+    "papad",
+    "roasted papad",
+    "tandoor",
+    "bhuna"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "Roasting uses heat to dry out food and change its taste and colour."
+    },
+    {
+     "k": "unit|sci.energy.heat-moves.L3",
+     "why": "Heat moves into the papad from the flame by radiation, and also by hot air that rises."
+    },
+    {
+     "k": "unit|sci.chemistry.reaction-speed.L3",
+     "why": "Browning happens fast with high heat and slowly with low heat."
+    },
+    {
+     "k": "unit|sci.changes.fire.L3",
+     "why": "A papad can catch fire if held too close to the flame, so we use tongs."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "A raw papad is hard and a roasted one is crisp and light, so heat changes a material's properties."
+    }
+   ]
+  },
+  {
+   "id": "kitchen-cutting-safely",
+   "name": "Using a knife safely",
+   "words": [
+    "knife",
+    "cutting",
+    "peeler",
+    "peeling",
+    "chopping board",
+    "grater",
+    "scissors"
+   ],
+   "type": "did",
+   "skill": "Cooking",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "A knife is a wedge, a simple machine that turns a push into a cut."
+    },
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "A sharp knife needs less push than a blunt one, so it is safer."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Cut away from your fingers, keep the board steady, and ask a grown-up for help with sharp tools."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Cubes, strips and slices are shapes you make when you cut vegetables."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "The blade is metal because it is hard and strong, and the handle is wood or plastic so it is comfortable to hold."
+    }
+   ]
+  }
+ ]
+}

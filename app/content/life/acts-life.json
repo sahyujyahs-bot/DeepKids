@@ -1,0 +1,1827 @@
+{
+ "cat": "life",
+ "acts": [
+  {
+   "id": "life-brushing-teeth",
+   "name": "Brushing teeth",
+   "words": [
+    "brush",
+    "brushed",
+    "toothbrush",
+    "toothpaste",
+    "datun",
+    "brushing teeth"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Brushing washes away the sticky film of germs on your teeth before it can make holes."
+    },
+    {
+     "k": "unit|sci.microorganisms.germs.L3",
+     "why": "The tiny germs in your mouth love sugar, and brushing takes them off your teeth."
+    },
+    {
+     "k": "unit|sci.body.body-parts.L3",
+     "why": "Your teeth are parts of your body that you can see, and each kind of tooth has its own job."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Two minutes is 120 seconds, so watch the clock while you brush."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Tell someone why we brush twice a day, in your own words."
+    }
+   ]
+  },
+  {
+   "id": "life-bath",
+   "name": "Bathing",
+   "words": [
+    "bath",
+    "bathed",
+    "nahana",
+    "nahaya",
+    "shower",
+    "took a bath"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Soap pulls the oily dirt and germs off your skin so the water can rinse them away."
+    },
+    {
+     "k": "unit|sci.microorganisms.germs.L3",
+     "why": "Washing your body takes away germs and sweat before they make you itchy or sick."
+    },
+    {
+     "k": "unit|sci.body.keeping-balance.L3",
+     "why": "A warm bath or a cool one changes your body heat, and your body works to keep itself steady."
+    },
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "Soap mixes into the water, and the dirty water carries the dirt away."
+    },
+    {
+     "k": "unit|sci.water.saving-water.L3",
+     "why": "A bucket bath uses much less water than a long shower, so it saves water."
+    }
+   ]
+  },
+  {
+   "id": "life-hand-washing",
+   "name": "Washing hands",
+   "words": [
+    "wash hands",
+    "washed hands",
+    "handwash",
+    "hand wash",
+    "soap"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Soap lifts germs off your hands, and the water rinses them down the drain."
+    },
+    {
+     "k": "unit|sci.microorganisms.germs.L3",
+     "why": "Germs travel on hands, so washing before eating stops them reaching your mouth."
+    },
+    {
+     "k": "unit|sci.body.immune-system.L3",
+     "why": "When germs do get in, your body fights them, but clean hands give it less to fight."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Count 20 seconds while you scrub, about as long as singing a short song twice."
+    }
+   ]
+  },
+  {
+   "id": "life-sleeping",
+   "name": "Sleeping and bedtime",
+   "words": [
+    "sleep",
+    "slept",
+    "bedtime",
+    "woke up",
+    "sleepy",
+    "went to bed"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "While you sleep your muscles rest and your body gets ready for the next day."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.day-and-night.L3",
+     "why": "You sleep when your side of the Earth has turned away from the Sun and it is dark."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.rhythms-of-nature.L3",
+     "why": "Plants and birds also keep time by the light, just like you do."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "If you go to bed at 9 and wake up at 6, you can count how many hours you slept."
+    },
+    {
+     "k": "unit|sci.health.feelings-and-wellbeing.L3",
+     "why": "Being short of sleep can make people cranky, because feelings and sleep are linked."
+    }
+   ]
+  },
+  {
+   "id": "life-falling-sick",
+   "name": "Falling sick with fever or cold",
+   "words": [
+    "fever",
+    "cough",
+    "sick",
+    "not well",
+    "bukhar",
+    "sneeze",
+    "flu"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.immune-system.L3",
+     "why": "When you have a fever, your body is fighting a germ, and it is working hard."
+    },
+    {
+     "k": "unit|sci.microorganisms.germs.L3",
+     "why": "Coughs and sneezes send out tiny drops with germs, so cover your mouth and nose."
+    },
+    {
+     "k": "unit|sci.body.keeping-balance.L3",
+     "why": "Your body is normally steady near 37 degrees, and a fever means it has gone higher."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "A thermometer works because the liquid inside takes more room as it gets warmer."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Tell the doctor or your parent clearly where it hurts and since when."
+    }
+   ]
+  },
+  {
+   "id": "life-doctor-visit",
+   "name": "Visit to the doctor or clinic",
+   "words": [
+    "doctor",
+    "clinic",
+    "hospital",
+    "checkup",
+    "check-up",
+    "medicine",
+    "dispensary"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.body-parts.L3",
+     "why": "The doctor looks at your eyes, throat and ears, which tell about your health."
+    },
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "The stethoscope lets the doctor hear your heartbeat and your breath."
+    },
+    {
+     "k": "unit|sci.body.organs-inside.L3",
+     "why": "Your belly and chest hold organs, and the doctor feels them gently to check each one."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "The doctor measures how tall you are and writes the number down."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "A doctor, a nurse and a pharmacist each have a different job in keeping people well."
+    }
+   ]
+  },
+  {
+   "id": "life-vaccination",
+   "name": "Getting a vaccination",
+   "words": [
+    "vaccine",
+    "vaccination",
+    "injection",
+    "polio drops",
+    "tika",
+    "tikakaran"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.immune-system.L3",
+     "why": "A vaccine teaches your body to recognise a germ, so it can fight it fast if the real germ comes."
+    },
+    {
+     "k": "unit|sci.microorganisms.germs.L3",
+     "why": "Some illnesses spread from person to person, and vaccines help stop them spreading."
+    },
+    {
+     "k": "unit|sci.what-is-life.cells.L3",
+     "why": "Your blood has special cells that fight germs, and they remember what they have met."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Your vaccine card has dates, so you can count how many months until the next one is due."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Health workers keep a record of every child, so the whole community stays safe."
+    }
+   ]
+  },
+  {
+   "id": "life-losing-tooth",
+   "name": "Losing a milk tooth",
+   "words": [
+    "tooth fell",
+    "lost a tooth",
+    "milk tooth",
+    "loose tooth",
+    "tooth came out",
+    "new tooth"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.growing-old.L3",
+     "why": "Milk teeth fall out as you grow, and bigger teeth come up to take their place."
+    },
+    {
+     "k": "unit|sci.body.body-parts.L3",
+     "why": "Different teeth have different jobs: the front ones cut, and the back ones grind food."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Count your teeth, then count how many are still to come."
+    },
+    {
+     "k": "unit|sci.food.nutrients.L3",
+     "why": "The calcium in milk and curd helps make teeth strong."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "Ask friends how many teeth each has lost and draw a chart."
+    }
+   ]
+  },
+  {
+   "id": "life-growing-taller",
+   "name": "Growing taller",
+   "words": [
+    "grew",
+    "taller",
+    "height",
+    "growing",
+    "how tall",
+    "measured height",
+    "outgrown"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.growing-old.L3",
+     "why": "Your body changes as you grow from a baby to a child to an adult."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Stand against a wall, mark your height and measure the mark with a tape."
+    },
+    {
+     "k": "unit|sci.food.nutrients.L3",
+     "why": "Protein in dal, eggs and milk helps your body build itself as it grows."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Find how many centimetres you grew by taking last year's height away from this year's."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "Mark your height each year on a chart and watch the line go up."
+    }
+   ]
+  },
+  {
+   "id": "life-cut-bruise",
+   "name": "A cut, scrape or bruise",
+   "words": [
+    "scratch",
+    "scraped",
+    "bruise",
+    "bleeding",
+    "plaster",
+    "band-aid",
+    "bandage"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.immune-system.L3",
+     "why": "Your body fights germs that enter a cut, and a scab forms to cover it."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Washing a cut with clean water and covering it keeps germs out."
+    },
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "Blood travels all around your body, and when you get a cut it thickens to stop the flow."
+    },
+    {
+     "k": "unit|sci.senses.more-senses.L3",
+     "why": "Pain is a sense too: it tells your body something is wrong."
+    },
+    {
+     "k": "unit|sci.what-is-life.cells.L3",
+     "why": "Your skin is made of tiny cells, and new ones grow to fill the cut."
+    }
+   ]
+  },
+  {
+   "id": "life-exercise-at-home",
+   "name": "Exercise, yoga and stretching",
+   "words": [
+    "exercise",
+    "yoga",
+    "stretching",
+    "surya namaskar",
+    "warm up",
+    "jumping jacks"
+   ],
+   "type": "did",
+   "skill": "Yoga",
+   "skillcat": "movement",
+   "links": [
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Muscles get tired when you use them hard, and rest helps them grow strong."
+    },
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "Feel your heart beat faster when you jump, because your muscles need more oxygen."
+    },
+    {
+     "k": "unit|sci.body.body-parts.L3",
+     "why": "Bending and stretching use the joints and muscles of your body."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Count your jumps or stretches in tens as you go."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Time yourself to see how long you can hold a pose."
+    }
+   ]
+  },
+  {
+   "id": "life-running-race",
+   "name": "Running and races",
+   "words": [
+    "race",
+    "jogging",
+    "sprint",
+    "running",
+    "jogged"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "After you run, your heart beats fast and you breathe hard so your muscles get oxygen."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Your muscles ache after a hard run because they were working a lot and need rest."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "A stopwatch tells you how many seconds you took to run across the ground."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "You can measure the track in metres to see how far you ran."
+    },
+    {
+     "k": "unit|sci.body.keeping-balance.L3",
+     "why": "You feel hot and sweat when you run, and sweating helps your body cool down."
+    }
+   ]
+  },
+  {
+   "id": "life-swimming-lessons",
+   "name": "Swimming",
+   "words": [
+    "swim",
+    "swimming",
+    "swam",
+    "pool",
+    "swimming class",
+    "dived"
+   ],
+   "type": "class",
+   "skill": "Swimming",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "You hold your breath when your head is under water, and breathe in when you come up."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Swimming uses nearly all of your muscles, so it feels tiring afterwards."
+    },
+    {
+     "k": "unit|sci.senses.more-senses.L3",
+     "why": "Even with your eyes shut, you can feel where your arms and legs are in the water."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Showering after swimming washes off the pool water and what it carried."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Count how many seconds you can hold your breath, or how long a lap takes."
+    }
+   ]
+  },
+  {
+   "id": "life-buying-shop",
+   "name": "Buying something at the shop",
+   "words": [
+    "bought",
+    "shop",
+    "shopping",
+    "kirana",
+    "dukan",
+    "store",
+    "market"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:money",
+     "why": "Count out the rupees you give and check the right coins and notes come back."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Add up the price of each thing, then take it away from what you gave to find the change."
+    },
+    {
+     "k": "social:money-markets",
+     "why": "A shop buys things from others and sells them to us for a little more."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "The shopkeeper, the farmer and the driver all do jobs so the thing reaches you."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Ask politely for what you want and say thank you."
+    },
+    {
+     "k": "hin:speak-listen",
+     "why": "Try asking in Hindi at the shop: \"yeh kitne ka hai?\""
+    }
+   ]
+  },
+  {
+   "id": "life-pocket-money",
+   "name": "Saving pocket money",
+   "words": [
+    "pocket money",
+    "savings",
+    "piggy bank",
+    "gullak",
+    "saved",
+    "paise"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:money",
+     "why": "Count your coins and notes to see how much you have saved."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Each week, add what you saved to what you had before."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "Draw a bar chart of how much you saved each week."
+    },
+    {
+     "k": "social:money-markets",
+     "why": "Banks keep people's savings safely and often add a little extra for keeping it there."
+    },
+    {
+     "k": "math:problem-solving",
+     "why": "If a toy costs 200 rupees and you save 20 a week, how many weeks will it take?"
+    }
+   ]
+  },
+  {
+   "id": "life-counting-change",
+   "name": "Counting change",
+   "words": [
+    "change back",
+    "coins",
+    "counted money",
+    "rupees",
+    "loose change"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:money",
+     "why": "There are coins and notes of different values, and you can make the same amount in different ways."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Count up from the price to the amount you gave to find the change."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Money uses place value: a 10 rupee note is ten ones, and a 100 rupee note is ten tens."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "Three 5 rupee coins make 15, which is 3 times 5."
+    },
+    {
+     "k": "math:estimation",
+     "why": "Guess whether 100 rupees will be enough before the bill comes."
+    }
+   ]
+  },
+  {
+   "id": "life-telling-time",
+   "name": "Telling time on a clock",
+   "words": [
+    "clock",
+    "what time",
+    "minutes",
+    "o clock"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:time-calendar",
+     "why": "The short hand shows the hour, and the long hand shows the minutes."
+    },
+    {
+     "k": "unit|sci.sky.history-of-astronomy.L3",
+     "why": "People first made clocks by watching the Sun's shadow move across the ground."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.day-and-night.L3",
+     "why": "A day is how long the Earth takes to turn round once, and a clock splits it into 24 hours."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Find how long until lunch by taking the time now away from lunch time."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Count by fives round the clock face to get the minutes."
+    }
+   ]
+  },
+  {
+   "id": "life-calendar-dates",
+   "name": "Calendars and dates",
+   "words": [
+    "calendar",
+    "day of the week",
+    "panchang",
+    "festival date"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:time-calendar",
+     "why": "There are 7 days in a week and 12 months in a year, and you can count the days in each month."
+    },
+    {
+     "k": "unit|sci.sky.history-of-astronomy.L3",
+     "why": "People made calendars by watching the Moon and the Sun."
+    },
+    {
+     "k": "unit|sci.sky.moon-phases.L3",
+     "why": "Many Indian festival dates follow the Moon, which is why they fall on different days each year."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Find the date of the next festival and count how many days are left."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The days of the week come in a repeating pattern, again and again."
+    }
+   ]
+  },
+  {
+   "id": "life-writing-letter",
+   "name": "Writing a letter or card",
+   "words": [
+    "letter",
+    "wrote a letter",
+    "postcard",
+    "greeting card",
+    "pen friend",
+    "wrote to"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "eng:write-story-letter",
+     "why": "A letter has a greeting, a message and a sign-off, in that order."
+    },
+    {
+     "k": "hin:writing",
+     "why": "You can write the same letter in Hindi or in your own language to a grandparent."
+    },
+    {
+     "k": "eng:grammar-in-use",
+     "why": "Start each sentence with a capital letter and end it with a full stop."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "The postman carries your letter, and sorters and drivers help it travel."
+    },
+    {
+     "k": "social:maps-places",
+     "why": "The address tells exactly where in the town the letter must go."
+    }
+   ]
+  },
+  {
+   "id": "life-talking-shopkeeper",
+   "name": "Talking to a shopkeeper or neighbour",
+   "words": [
+    "spoke to",
+    "shopkeeper",
+    "bargain",
+    "neighbour",
+    "auntie",
+    "uncle"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "eng:speak-listen",
+     "why": "Speak clearly and politely, and wait for the other person to finish before you talk."
+    },
+    {
+     "k": "hin:speak-listen",
+     "why": "Use respectful words such as \"aap\" when you talk to older people."
+    },
+    {
+     "k": "social:family-community",
+     "why": "A neighbourhood is a community where people help each other."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "Each person you meet in the lane or market does a job that helps others."
+    },
+    {
+     "k": "math:money",
+     "why": "Ask for the price, and then work out how much to pay."
+    }
+   ]
+  },
+  {
+   "id": "life-phone-call",
+   "name": "Phone call or video call",
+   "words": [
+    "phone",
+    "video call",
+    "whatsapp",
+    "mobile",
+    "phone call"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "Your voice makes the air shake, and the phone turns that shaking into a signal."
+    },
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "Your ears pick up the sound that the phone speaker makes."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "On a call you cannot always see faces, so say clearly who you are and listen carefully."
+    },
+    {
+     "k": "social:family-community",
+     "why": "Calling grandparents or cousins far away keeps a family close."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Check what time it is where your cousin lives, which may be different from here."
+    }
+   ]
+  },
+  {
+   "id": "life-making-roti",
+   "name": "Making rotis or cooking with family",
+   "words": [
+    "roti",
+    "chapati",
+    "cooking",
+    "cooked",
+    "atta",
+    "helped in kitchen",
+    "amma"
+   ],
+   "type": "did",
+   "skill": "Cooking",
+   "skillcat": "life",
+   "links": [
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "The flat pan gets hot, and the roti cooks and puffs as it heats up."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "Wheat grows in a field, is ground into atta, and ends up as your roti."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Dough is soft and can be shaped, but a cooked roti is firmer."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "Cut a roti in halves or quarters and share it out."
+    },
+    {
+     "k": "math:capacity",
+     "why": "Measure the water and atta in cups to get dough that is just right."
+    },
+    {
+     "k": "unit|sci.food.nutrients.L3",
+     "why": "Wheat gives you energy, and eating it with dal adds protein."
+    }
+   ]
+  },
+  {
+   "id": "life-meals-eating",
+   "name": "Eating meals together",
+   "words": [
+    "lunch",
+    "dinner",
+    "breakfast",
+    "tiffin",
+    "meal",
+    "dal rice",
+    "sabzi",
+    "thali"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.food.balanced-diet.L3",
+     "why": "A thali with dal, rice, vegetables and curd gives your body many kinds of food."
+    },
+    {
+     "k": "unit|sci.food.nutrients.L3",
+     "why": "Different foods give you different things: energy, protein, or help to stay healthy."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "Trace your meal back to the plants, the farmer and the Sun that grew it."
+    },
+    {
+     "k": "unit|sci.food.food-safety.L3",
+     "why": "Food that sits out too long can spoil, so keep it covered and eat it soon."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Wash your hands before you eat so germs do not go into your food."
+    }
+   ]
+  },
+  {
+   "id": "life-drinking-water",
+   "name": "Drinking water",
+   "words": [
+    "thirsty",
+    "drank water",
+    "water bottle",
+    "glass of water",
+    "boiled water",
+    "water filter"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.keeping-balance.L3",
+     "why": "Your body needs water to stay steady, and you lose water when you sweat."
+    },
+    {
+     "k": "unit|sci.water.water-sources-and-uses.L3",
+     "why": "Water comes from rivers, wells or taps, and it must be clean to be safe to drink."
+    },
+    {
+     "k": "unit|sci.microorganisms.germs.L3",
+     "why": "Boiling water kills the germs that can make you ill."
+    },
+    {
+     "k": "unit|sci.water.saving-water.L3",
+     "why": "Pour out only the water you need, and use the rest again."
+    },
+    {
+     "k": "math:capacity",
+     "why": "A glass holds about 200 millilitres, so count how many glasses fill a litre."
+    }
+   ]
+  },
+  {
+   "id": "life-hair-oiling",
+   "name": "Oiling and washing hair",
+   "words": [
+    "shampoo",
+    "combed",
+    "champi",
+    "plait",
+    "haircut",
+    "braid"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.body-parts.L3",
+     "why": "Hair grows from your skin and helps protect your head."
+    },
+    {
+     "k": "unit|sci.states.liquids-up-close.L3",
+     "why": "Oil is thick and slow, and water is runny, so they pour differently."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Washing hair removes the dust and sweat that gather on it each day."
+    },
+    {
+     "k": "math:patterns",
+     "why": "A plait is a pattern of over and under, repeating each time."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Measure how long your hair has grown in a month."
+    }
+   ]
+  },
+  {
+   "id": "life-nail-cutting",
+   "name": "Cutting nails",
+   "words": [
+    "nails",
+    "nail cutter",
+    "cut nails",
+    "trimmed nails"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Dirt and germs hide under long nails, so cutting them keeps your hands clean."
+    },
+    {
+     "k": "unit|sci.body.body-parts.L3",
+     "why": "Nails protect the tips of your fingers, and they grow slowly all the time."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Nails grow only a few millimetres in a month, so you can measure it."
+    },
+    {
+     "k": "unit|sci.microorganisms.germs.L3",
+     "why": "Germs can get into your mouth if you bite dirty nails."
+    }
+   ]
+  },
+  {
+   "id": "life-getting-dressed",
+   "name": "Getting dressed and washing clothes",
+   "words": [
+    "clothes",
+    "dressed",
+    "uniform",
+    "laundry",
+    "washed clothes",
+    "sweater",
+    "jacket"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "Cotton clothes soak up sweat in summer, and wool traps warmth in winter."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "Wet clothes dry because the water in them turns into vapour in the air."
+    },
+    {
+     "k": "unit|sci.body.keeping-balance.L3",
+     "why": "Your clothes help your body stay warm or cool, depending on what you wear."
+    },
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "Detergent mixes into the water and helps lift dirt out of the cloth."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "Cotton clothes come from a plant grown in fields."
+    }
+   ]
+  },
+  {
+   "id": "life-sunshine-playing",
+   "name": "Playing outside in the sun",
+   "words": [
+    "playing outside",
+    "sunny",
+    "playground",
+    "evening play",
+    "played outdoors",
+    "park",
+    "hot day"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sky.the-sun.L3",
+     "why": "The Sun's light warms the Earth, but its rays can burn skin if you stay out too long."
+    },
+    {
+     "k": "unit|sci.body.keeping-balance.L3",
+     "why": "When you get hot, you sweat, and the water on your skin helps you cool down."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Playing is exercise, and your muscles get stronger when you play."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.day-and-night.L3",
+     "why": "Your shadow gets long in the evening and short at noon because the Sun is at a different height."
+    },
+    {
+     "k": "unit|sci.health.feelings-and-wellbeing.L3",
+     "why": "Playing with friends makes most people feel happy."
+    }
+   ]
+  },
+  {
+   "id": "life-feeling-angry-sad",
+   "name": "Feeling angry, sad or scared",
+   "words": [
+    "angry",
+    "crying",
+    "cried",
+    "scared",
+    "worried",
+    "upset",
+    "afraid"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.health.feelings-and-wellbeing.L3",
+     "why": "Your body shows feelings: your heart beats faster when you are scared."
+    },
+    {
+     "k": "unit|sci.health.feelings-and-wellbeing.L3",
+     "why": "You can read how a friend feels by looking at their face and listening to their voice."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Say how you feel in words, and listen when others tell you."
+    },
+    {
+     "k": "eng:describing",
+     "why": "Pick words for feelings that are exact: annoyed, nervous, lonely or proud."
+    },
+    {
+     "k": "social:family-community",
+     "why": "Talk to someone you trust when a feeling is too big to hold alone."
+    }
+   ]
+  },
+  {
+   "id": "life-eye-check",
+   "name": "Eye checkup or glasses",
+   "words": [
+    "glasses",
+    "spectacles",
+    "eye test",
+    "eye doctor",
+    "eyesight"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.light.how-we-see.L3",
+     "why": "We see when light bounces off things and goes into our eyes."
+    },
+    {
+     "k": "unit|sci.light.refraction.L3",
+     "why": "A glass lens bends light, which is how glasses help your eyes focus."
+    },
+    {
+     "k": "unit|sci.body.body-parts.L3",
+     "why": "Your eyes are delicate, so we protect them from dust and from strong light."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "A convex lens is thicker in the middle, and a concave one is thinner in the middle."
+    }
+   ]
+  },
+  {
+   "id": "life-hearing-ear-care",
+   "name": "Ear care and loud noise",
+   "words": [
+    "loud",
+    "earphones",
+    "headphones",
+    "ear pain",
+    "cannot hear"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sound.hearing.L3",
+     "why": "Very loud sounds can hurt your ears, so keep the volume low."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "Every sound starts with something that is shaking."
+    },
+    {
+     "k": "unit|sci.sound.waves.L3",
+     "why": "Sound travels through the air as a wave to reach your ears."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Never put sharp things into your ears."
+    }
+   ]
+  },
+  {
+   "id": "life-morning-routine",
+   "name": "Getting ready for school or class",
+   "words": [
+    "getting ready",
+    "school bag",
+    "packed bag",
+    "alarm",
+    "routine",
+    "timetable"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:time-calendar",
+     "why": "Plan your morning with the clock: when to wake, bathe and leave."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.rhythms-of-nature.L3",
+     "why": "Many animals wake with the light, and so do we."
+    },
+    {
+     "k": "math:problem-solving",
+     "why": "Work out which jobs to do first so you leave on time."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.day-and-night.L3",
+     "why": "Morning is when your part of the Earth turns toward the Sun."
+    },
+    {
+     "k": "math:patterns",
+     "why": "A routine repeats the same steps every day, like a pattern."
+    }
+   ]
+  },
+  {
+   "id": "life-crossing-road",
+   "name": "Crossing the road safely",
+   "words": [
+    "cross the road",
+    "crossing",
+    "traffic",
+    "zebra crossing",
+    "traffic light",
+    "walking to school"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:rules-safety",
+     "why": "Look both ways, use the crossing, and follow the signal."
+    },
+    {
+     "k": "social:transport",
+     "why": "Buses, autos, cycles and cars all share the road in different ways."
+    },
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "A moving vehicle cannot stop at once, so stay back from the road."
+    },
+    {
+     "k": "unit|sci.light.how-we-see.L3",
+     "why": "Bright and reflective colours help drivers see you in dim light."
+    },
+    {
+     "k": "math:direction-maps",
+     "why": "Say whether you will turn left or right to reach your side of the road."
+    }
+   ]
+  },
+  {
+   "id": "life-bus-train-ride",
+   "name": "Bus, auto or train journey",
+   "words": [
+    "train",
+    "metro",
+    "journey",
+    "railway station",
+    "rickshaw"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:transport",
+     "why": "Trains, buses and autos carry many people over long distances."
+    },
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "When the bus brakes, you lean forward because your body wants to keep moving."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Read the train timetable to find when it leaves and when it arrives."
+    },
+    {
+     "k": "social:maps-places",
+     "why": "Follow the route on a map and name the places you pass."
+    },
+    {
+     "k": "math:money",
+     "why": "Work out the ticket cost for the whole family."
+    }
+   ]
+  },
+  {
+   "id": "life-cycling",
+   "name": "Learning to cycle",
+   "words": [
+    "cycle",
+    "cycling",
+    "bicycle",
+    "cycled",
+    "training wheels",
+    "bike"
+   ],
+   "type": "class",
+   "skill": "Cycling",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "When you stop pedalling the cycle keeps rolling, because moving things keep moving."
+    },
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "The pedals, chain and wheels let a small push from your legs turn the wheel."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Cycling makes your leg muscles stronger and your heart beat faster."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "Brakes press on the wheel and friction slows it down."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Wear a helmet and ride away from busy traffic."
+    }
+   ]
+  },
+  {
+   "id": "life-birthday",
+   "name": "Birthday celebration",
+   "words": [
+    "birthday",
+    "candles",
+    "party",
+    "janamdin"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:time-calendar",
+     "why": "Count how many months or days until your next birthday."
+    },
+    {
+     "k": "unit|sci.body.growing-old.L3",
+     "why": "Each year your body changes a little as you grow older."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "Cut the cake into equal pieces so everyone gets the same share."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "If 12 children each get 2 pieces, then 12 times 2 gives the total."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "When you blow on a candle, the flame loses its heat and goes out."
+    }
+   ]
+  },
+  {
+   "id": "life-festival-family",
+   "name": "Festival at home with family",
+   "words": [
+    "festival",
+    "diwali",
+    "eid",
+    "christmas",
+    "pongal",
+    "onam",
+    "holi",
+    "puja",
+    "rangoli",
+    "diya"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:festivals-culture",
+     "why": "People across India celebrate different festivals, each with its own food, dress and songs."
+    },
+    {
+     "k": "unit|sci.sky.moon-phases.L3",
+     "why": "Many festivals follow the Moon, so their dates move from year to year."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "A rangoli often has the same pattern on both sides."
+    },
+    {
+     "k": "math:money",
+     "why": "Plan a small budget for what you need for the festival."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Ask elders how this festival was celebrated when they were small."
+    }
+   ]
+  },
+  {
+   "id": "life-visiting-grandparents",
+   "name": "Visiting grandparents or elders",
+   "words": [
+    "grandparents",
+    "nani",
+    "dadi",
+    "thatha",
+    "patti",
+    "elders"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.growing-old.L3",
+     "why": "Grandparents show how a body changes in old age, and you can talk about it kindly."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Ask what life was like when they were your age, and write it down."
+    },
+    {
+     "k": "social:family-community",
+     "why": "Draw your family tree to show who is related to whom."
+    },
+    {
+     "k": "hin:speak-listen",
+     "why": "Speak with your grandparents in your home language and learn new words."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Work out how many years older they are than you."
+    }
+   ]
+  },
+  {
+   "id": "life-first-aid",
+   "name": "First aid and safety at home",
+   "words": [
+    "first aid",
+    "medicine box",
+    "poison",
+    "electric shock"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:rules-safety",
+     "why": "Keep medicines, knives and matches away from small children."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "Run cool tap water over a small burn to take away the heat."
+    },
+    {
+     "k": "unit|sci.electricity.simple-circuits.L3",
+     "why": "Electricity flows only when a circuit is complete, which is why wet hands near sockets are dangerous."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Clean your hands before you touch a wound."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Know the phone number to call for help and say clearly what has happened."
+    }
+   ]
+  },
+  {
+   "id": "life-new-baby",
+   "name": "New baby in the family",
+   "words": [
+    "new baby",
+    "newborn",
+    "little brother",
+    "little sister",
+    "baby sister",
+    "baby brother"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.how-babies-grow.L3",
+     "why": "A baby grows from a single cell in the mother's body before it is born."
+    },
+    {
+     "k": "unit|sci.body.growing-old.L3",
+     "why": "A baby changes as it grows, learning to sit, crawl and walk."
+    },
+    {
+     "k": "social:family-community",
+     "why": "A family grows when a baby comes and everyone helps care for it."
+    },
+    {
+     "k": "unit|sci.food.nutrients.L3",
+     "why": "A baby's first food is mother's milk, which has what a baby needs."
+    },
+    {
+     "k": "math:weight",
+     "why": "Compare a baby's weight with your own on a scale."
+    }
+   ]
+  },
+  {
+   "id": "life-why-sweat",
+   "name": "Why do I sweat or why is my heart beating",
+   "words": [
+    "why do i sweat",
+    "heartbeat",
+    "pulse",
+    "why breathe",
+    "why hungry"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.keeping-balance.L3",
+     "why": "Sweat dries on your skin and takes heat away, so you cool down."
+    },
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "Put your hand on your chest and feel the heart pump blood around your body."
+    },
+    {
+     "k": "unit|sci.body.organs-inside.L3",
+     "why": "Your stomach, lungs and heart are organs inside you that each do their own job."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Count your pulse for one minute and write the number down."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Your heart beats faster when your muscles are working hard."
+    }
+   ]
+  },
+  {
+   "id": "life-stomach-ache",
+   "name": "Tummy ache or stomach upset",
+   "words": [
+    "tummy ache",
+    "stomach ache",
+    "loose motion",
+    "vomit",
+    "diarrhoea",
+    "indigestion",
+    "upset stomach"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.organs-inside.L3",
+     "why": "Food goes down to your stomach and intestines, where it is broken up for your body to use."
+    },
+    {
+     "k": "unit|sci.food.food-safety.L3",
+     "why": "Food left out can grow germs that give you a tummy ache."
+    },
+    {
+     "k": "unit|sci.water.water-sources-and-uses.L3",
+     "why": "Drink only clean water, especially when you have a stomach upset."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Washing your hands before meals keeps germs away from your food."
+    }
+   ]
+  },
+  {
+   "id": "life-weighing",
+   "name": "Weighing on a scale",
+   "words": [
+    "weighed",
+    "weighing machine",
+    "kilo"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:weight",
+     "why": "A scale shows how heavy you are in kilograms."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Take last year's weight away from this year's to find how much you gained."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "A scale measures the pull of gravity on your body, which pushes down on it."
+    },
+    {
+     "k": "math:estimation",
+     "why": "Guess which of two things is heavier before you weigh them."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "Record your weight every few months in a chart."
+    }
+   ]
+  },
+  {
+   "id": "life-mela-fair",
+   "name": "Mela or fair visit",
+   "words": [
+    "mela",
+    "jatra",
+    "carnival",
+    "funfair",
+    "jhula",
+    "giant wheel"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:money-markets",
+     "why": "At a fair many sellers gather, and buyers go from stall to stall to compare prices."
+    },
+    {
+     "k": "math:money",
+     "why": "Decide how to spend 100 rupees across the things you want."
+    },
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "A giant wheel turns around its centre and lifts people high."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Look for circles, triangles and squares in the rides and stalls."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Fairs often come with festivals and local crafts."
+    }
+   ]
+  },
+  {
+   "id": "life-bank-upi",
+   "name": "Visit to a bank, ATM or UPI payment",
+   "words": [
+    "bank",
+    "atm",
+    "passbook",
+    "cash",
+    "deposit",
+    "withdraw",
+    "upi",
+    "gpay"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:money",
+     "why": "A bank keeps your money safely and writes down how much you have."
+    },
+    {
+     "k": "social:money-markets",
+     "why": "People pay with cash, cards or UPI, and each way moves money from one person to another."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Add what you put in and take away what you took out to find the balance."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "Cashiers, managers and guards all work in a bank."
+    },
+    {
+     "k": "unit|sci.india.government-and-rights.L3",
+     "why": "Some of the money we pay as tax is used by the government for schools, roads and hospitals."
+    }
+   ]
+  },
+  {
+   "id": "life-weather",
+   "name": "Rain, heat and cold weather",
+   "words": [
+    "raining",
+    "monsoon",
+    "summer",
+    "winter",
+    "umbrella",
+    "weather"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.water.water-cycle.L3",
+     "why": "Rain comes from water that rose up as vapour and then cooled and fell again."
+    },
+    {
+     "k": "unit|sci.body.keeping-balance.L3",
+     "why": "Your body shivers in the cold to make heat, and sweats in the heat to cool itself."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "Puddles disappear because the water turns to vapour and goes into the air."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "A thermometer shows how hot or cold the day is in degrees."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "Record the weather each day for a month and make a chart."
+    }
+   ]
+  },
+  {
+   "id": "life-moon-stars",
+   "name": "Looking at the moon and stars",
+   "words": [
+    "moon",
+    "stars",
+    "night sky",
+    "full moon",
+    "chand",
+    "telescope"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.sky.moon-phases.L3",
+     "why": "The Moon looks different on different nights because we see more or less of its lit side."
+    },
+    {
+     "k": "unit|sci.sky.sun-moon-stars.L3",
+     "why": "The Sun is a star, but the Moon only reflects the Sun's light."
+    },
+    {
+     "k": "unit|sci.sky.stargazing.L3",
+     "why": "People joined stars into pictures and named them long ago."
+    },
+    {
+     "k": "unit|sci.sky.history-of-astronomy.L3",
+     "why": "Early people watched the sky to know the seasons and the time."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "Note down the Moon's shape each night and count the days between full moons."
+    }
+   ]
+  },
+  {
+   "id": "life-pet-care",
+   "name": "Taking care of a pet or animal",
+   "words": [
+    "feed the",
+    "goat",
+    "puppy",
+    "kitten"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.basic-needs.basic-needs.L3",
+     "why": "A pet needs food, water, shelter and care, like all living things."
+    },
+    {
+     "k": "unit|sci.animals.animal-bodies.L3",
+     "why": "Dogs smell far better than people, and cats see better in dim light."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Wash your hands after you touch any animal."
+    },
+    {
+     "k": "unit|sci.animals.animal-life-cycles.L3",
+     "why": "A puppy or kitten grows up into an adult, and then it can have young."
+    },
+    {
+     "k": "math:weight",
+     "why": "Measure how much food a pet needs each day."
+    }
+   ]
+  },
+  {
+   "id": "life-plant-watering",
+   "name": "Watering and tending plants",
+   "words": [
+    "watering",
+    "garden",
+    "tulsi",
+    "sapling",
+    "kitchen garden"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.seeds-and-life-cycles.seeds-and-germination.L3",
+     "why": "A seed needs water and warmth to begin to grow."
+    },
+    {
+     "k": "unit|sci.plants.photosynthesis.L3",
+     "why": "Leaves use sunlight, air and water to make food for the plant."
+    },
+    {
+     "k": "unit|sci.plants.water-transport.L3",
+     "why": "The plant draws water up from the roots through its stem."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Measure the plant each week and see how much it has grown."
+    },
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "Plants grow in soil made from broken rock and dead plants."
+    }
+   ]
+  },
+  {
+   "id": "life-sorting-waste",
+   "name": "Sorting waste and recycling",
+   "words": [
+    "waste",
+    "garbage",
+    "dustbin",
+    "recycle",
+    "kachra",
+    "plastic",
+    "segregate"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.waste.compost-and-disposal.L3",
+     "why": "Kitchen scraps turn into soil in a compost pit."
+    },
+    {
+     "k": "unit|sci.environment.pollution.L3",
+     "why": "Waste dumped in the wrong place makes air, water and land dirty."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Paper, plastic and metal are different materials, and we sort them into groups."
+    },
+    {
+     "k": "unit|sci.environment.conservation.L3",
+     "why": "Reusing things means we need to take less from nature."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "Count how much waste your home makes in a week and make a chart."
+    }
+   ]
+  },
+  {
+   "id": "life-switch-lights",
+   "name": "Switching on lights, fan and appliances",
+   "words": [
+    "power cut",
+    "electricity",
+    "bulb",
+    "inverter",
+    "torch"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.electricity.simple-circuits.L3",
+     "why": "The switch closes the circuit, and then electricity can flow and light the bulb."
+    },
+    {
+     "k": "unit|sci.energy.energy-around-us.L3",
+     "why": "Electricity can make light, heat, movement and sound."
+    },
+    {
+     "k": "unit|sci.energy.stored-energy.L3",
+     "why": "A battery stores energy that it gives out when you use it."
+    },
+    {
+     "k": "unit|sci.environment.conservation.L3",
+     "why": "Switching off lights and fans we do not need saves electricity."
+    },
+    {
+     "k": "math:money",
+     "why": "Look at the electricity bill and see what it costs."
+    }
+   ]
+  }
+ ]
+}

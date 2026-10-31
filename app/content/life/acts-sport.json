@@ -1,0 +1,1780 @@
+{
+ "cat": "sport",
+ "acts": [
+  {
+   "id": "sport-cricket",
+   "name": "Cricket",
+   "words": [
+    "cricket",
+    "bat and ball",
+    "batting",
+    "bowling",
+    "wicket",
+    "gully cricket"
+   ],
+   "type": "did",
+   "skill": "Cricket",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.motion.physics-of-sport.L3",
+     "why": "When you hit the ball, the bat pushes it and the ball changes speed and direction."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "The ball spins and grips the pitch because of friction, so it turns after it bounces."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Every run is added to the score, so you can add up how many your team has made."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "We can write down each player's runs and draw a bar for each to see who scored most."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "A ball hit high comes down again because gravity pulls it to the ground."
+    }
+   ]
+  },
+  {
+   "id": "sport-badminton",
+   "name": "Badminton",
+   "words": [
+    "badminton",
+    "shuttle",
+    "shuttlecock",
+    "racket",
+    "racquet"
+   ],
+   "type": "did",
+   "skill": "Badminton",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "When the shuttle stops in the air and drops, that's gravity pulling it down."
+    },
+    {
+     "k": "unit|sci.forces.flight.L3",
+     "why": "The feathers of the shuttle push against the air, so it falls slowly and turns head first."
+    },
+    {
+     "k": "unit|sci.forces.changing-motion.L3",
+     "why": "Your racket pushes the shuttle and changes how fast and which way it goes."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "We add a point each time someone wins a rally, so we can keep the score."
+    },
+    {
+     "k": "unit|sci.forces.stretching-springs.L3",
+     "why": "The strings of the racket stretch a little and spring back, and that sends the shuttle off."
+    }
+   ]
+  },
+  {
+   "id": "sport-football",
+   "name": "Football",
+   "words": [
+    "football",
+    "soccer",
+    "goal",
+    "goalkeeper",
+    "kicked the ball"
+   ],
+   "type": "did",
+   "skill": "Football",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.motion.physics-of-sport.L3",
+     "why": "When you kick the ball, your foot pushes it and it rolls away in the direction you kicked."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "The ball slows down on the grass because friction rubs against it."
+    },
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "A ball keeps rolling until something stops it, like grass, a wall or the goalkeeper."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Each goal adds one to your team's score, so you can say who is ahead."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Look at the ground: the field has lines, rectangles and a circle in the middle."
+    }
+   ]
+  },
+  {
+   "id": "sport-swimming",
+   "name": "Swimming",
+   "words": [
+    "swimming",
+    "swim",
+    "pool",
+    "swimming class",
+    "dived"
+   ],
+   "type": "class",
+   "skill": "Swimming",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.states.liquids-up-close.L3",
+     "why": "Water is runny and pushes back on your hands, so you can pull yourself forward through it."
+    },
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "When you push the water backwards with your arms, the water pushes you forwards."
+    },
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "When you swim hard you breathe faster, because your body needs more air for your muscles."
+    },
+    {
+     "k": "unit|sci.habitats.water-habitats.L3",
+     "why": "Fish live in water all the time, but you must come up to breathe."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "We can count how many seconds it takes to swim one length of the pool."
+    }
+   ]
+  },
+  {
+   "id": "sport-cycling",
+   "name": "Cycling",
+   "words": [
+    "cycling",
+    "cycle",
+    "bicycle",
+    "bike",
+    "rode a cycle",
+    "cycle ride"
+   ],
+   "type": "did",
+   "skill": "Cycling",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "The pedals, chain and wheels are simple machines that turn your leg push into a ride."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "The brakes rub against the wheel, and that friction slows you down."
+    },
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "When you stop pedalling, you keep rolling for a while because moving things keep moving."
+    },
+    {
+     "k": "unit|sci.motion.spinning.L3",
+     "why": "A moving bicycle stays upright because its spinning wheels help it balance."
+    },
+    {
+     "k": "unit|sci.community.transport-and-communication.L3",
+     "why": "A cycle is a way of travelling that needs no petrol, just your own legs."
+    }
+   ]
+  },
+  {
+   "id": "sport-skating",
+   "name": "Skating",
+   "words": [
+    "skating",
+    "roller skates",
+    "skates",
+    "rollerblades",
+    "skating class",
+    "skated"
+   ],
+   "type": "class",
+   "skill": "Skating",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "Skate wheels roll with very little friction, so you glide a long way after one push."
+    },
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "Once you are rolling you keep going until friction or a wall stops you."
+    },
+    {
+     "k": "unit|sci.senses.more-senses.L3",
+     "why": "Your body knows where it is without looking, and that helps you keep your balance on skates."
+    },
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "You push the ground backwards with your foot and it moves you forward."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "When you lose your balance, gravity pulls you down, so we wear pads and helmets."
+    }
+   ]
+  },
+  {
+   "id": "sport-running",
+   "name": "Running and races",
+   "words": [
+    "running",
+    "race",
+    "sprint",
+    "jogging",
+    "sports day"
+   ],
+   "type": "did",
+   "skill": "Running",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "After a run your heart beats faster to carry more oxygen to your legs."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Muscles get tired when they work hard, and rest and sleep help them get strong again."
+    },
+    {
+     "k": "unit|sci.body.keeping-balance.L3",
+     "why": "You get hot and sweaty when you run, and sweat helps your body cool down."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "A stopwatch tells us how many seconds a run took, so we can compare races."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "We can measure the track in metres and see how far we ran."
+    }
+   ]
+  },
+  {
+   "id": "sport-kabaddi",
+   "name": "Kabaddi",
+   "words": [
+    "kabaddi",
+    "raider",
+    "kabbadi",
+    "kabaddi match"
+   ],
+   "type": "did",
+   "skill": "Kabaddi",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "A raider holds one breath while raiding, and then breathes hard afterwards to get oxygen back."
+    },
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "When a raider is moving fast it is hard to stop, because moving things want to keep moving."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Each player touched or tagged gives a point, and we add the points for each team."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Kabaddi has different names in different parts of India and nearby countries."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "The game has rules about the lines and the touch, and they keep it fair and safe."
+    }
+   ]
+  },
+  {
+   "id": "sport-kho-kho",
+   "name": "Kho-kho",
+   "words": [
+    "kho kho",
+    "kho-kho",
+    "khokho",
+    "chaser"
+   ],
+   "type": "did",
+   "skill": "Kho-kho",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.forces.changing-motion.L3",
+     "why": "To dodge a chaser you push on the ground sideways and change your direction quickly."
+    },
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "It is hard to turn when you run fast, because your body wants to keep going straight."
+    },
+    {
+     "k": "math:patterns",
+     "why": "In the game players sit in a line that alternates, and that is a repeating pattern."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "We count how many players are out and how many are left."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Everyone follows the same rules so that the game is fair for both teams."
+    }
+   ]
+  },
+  {
+   "id": "sport-gilli-danda",
+   "name": "Gilli danda",
+   "words": [
+    "gilli danda",
+    "gulli danda",
+    "gilli",
+    "danda",
+    "gillidanda"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.motion.physics-of-sport.L3",
+     "why": "When the danda hits the end of the gilli, it spins up into the air and the second hit sends it far."
+    },
+    {
+     "k": "unit|sci.motion.spinning.L3",
+     "why": "The gilli turns round and round as it flies through the air."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "We measure how far the gilli flew to see who won, using steps or a measuring tape."
+    },
+    {
+     "k": "social:history-past",
+     "why": "This is an old game that children in villages have played for a very long time with simple things."
+    },
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "The danda is a lever, and a long stick gives a stronger hit than your hand alone."
+    }
+   ]
+  },
+  {
+   "id": "sport-hide-and-seek",
+   "name": "Hide and seek",
+   "words": [
+    "hide and seek",
+    "hide-and-seek",
+    "chhupan chhupai",
+    "chupan chupai",
+    "lukka chuppi",
+    "seeker"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:count-place-value",
+     "why": "Counting to 20 or 50 with eyes closed is practice for counting in order."
+    },
+    {
+     "k": "unit|sci.me-and-others.me-and-others.L3",
+     "why": "The seeker cannot see what you see, so a good hider thinks about what the seeker can see."
+    },
+    {
+     "k": "math:direction-maps",
+     "why": "To say where you hid, you use words like behind, under, next to and left."
+    },
+    {
+     "k": "unit|sci.light.transparent-opaque.L3",
+     "why": "You can hide behind a wall or a door because it is opaque, and light cannot pass through it."
+    },
+    {
+     "k": "unit|sci.senses.five-senses.L3",
+     "why": "A seeker listens and looks closely, and uses ears as well as eyes."
+    }
+   ]
+  },
+  {
+   "id": "sport-kite-flying",
+   "name": "Kite flying",
+   "words": [
+    "kite",
+    "patang",
+    "manja",
+    "flew a kite",
+    "kite flying",
+    "patangbazi"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.weather.wind-and-air.L3",
+     "why": "The wind pushes against the kite and lifts it up into the sky."
+    },
+    {
+     "k": "unit|sci.forces.flight.L3",
+     "why": "The kite is tilted, so the air hits it and is pushed down, and the air pushes the kite up."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Look at the shape of the kite: it has two matching halves and four corners."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "The two sides of a kite are the same, so the kite is balanced in the air."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "On Makar Sankranti and Uttarayan, families fly kites together in many places."
+    }
+   ]
+  },
+  {
+   "id": "sport-climbing",
+   "name": "Climbing",
+   "words": [
+    "climbing",
+    "climbed",
+    "rock climbing",
+    "climbed a tree",
+    "monkey bars",
+    "climbing wall"
+   ],
+   "type": "did",
+   "skill": "Climbing",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "Gravity pulls you down all the time, so climbing needs your muscles to lift you up."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "Your hands and shoes grip the surface because of friction, so you don't slip."
+    },
+    {
+     "k": "unit|sci.energy.stored-energy.L3",
+     "why": "The higher you climb, the more stored energy you have, which turns into movement if you come down."
+    },
+    {
+     "k": "unit|sci.body.body-parts.L3",
+     "why": "Climbing uses your hands, arms, legs and feet together."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "We climb with a grown-up near and a safe place to land, so a slip does not hurt."
+    }
+   ]
+  },
+  {
+   "id": "sport-park-play",
+   "name": "Playing in the park",
+   "words": [
+    "park",
+    "playground",
+    "played outside",
+    "played in the park",
+    "garden play",
+    "maidan"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Running and playing makes your body strong and helps you sleep well at night."
+    },
+    {
+     "k": "unit|sci.community.community-and-helpers.L3",
+     "why": "A park is shared by everyone, so we take turns and keep it clean."
+    },
+    {
+     "k": "unit|sci.animals.animals-around-us.L3",
+     "why": "In a park you can often see birds, squirrels, insects and other animals."
+    },
+    {
+     "k": "unit|sci.plants.plant-variety.L3",
+     "why": "Look at the trees, grass and flowers and see how different they are."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "We stay with friends and tell a grown-up where we are going."
+    }
+   ]
+  },
+  {
+   "id": "sport-swing",
+   "name": "Swing",
+   "words": [
+    "swing",
+    "swings",
+    "jhula",
+    "jhoola",
+    "swinging"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.motion.swings-and-pendulums.L3",
+     "why": "A swing is a pendulum, and a longer swing takes more time to go back and forth."
+    },
+    {
+     "k": "unit|sci.energy.stored-energy.L3",
+     "why": "At the highest point the swing has stored energy, and it turns into movement as you come down."
+    },
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "A small push at the right time makes the swing go higher."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The swing moves forward and back again and again, and that is a pattern."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "We can count how many swings happen in ten seconds."
+    }
+   ]
+  },
+  {
+   "id": "sport-slide",
+   "name": "Slide",
+   "words": [
+    "slide",
+    "phisalpatti",
+    "sliding",
+    "went down the slide"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "A smooth slide has little friction, so you slide quickly, and a rough one slows you down."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "Gravity pulls you down the slope of the slide."
+    },
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "A slide is a slope, which is a simple machine, and it makes going down easy."
+    },
+    {
+     "k": "unit|sci.how-we-know.fair-tests.L3",
+     "why": "We can test which things slide fastest by trying them on the same slope."
+    },
+    {
+     "k": "unit|sci.energy.stored-energy.L3",
+     "why": "You have stored energy at the top that turns into movement on the way down."
+    }
+   ]
+  },
+  {
+   "id": "sport-seesaw",
+   "name": "See-saw",
+   "words": [
+    "see-saw",
+    "seesaw",
+    "see saw",
+    "teddy board"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "A see-saw is a lever that turns around the middle, and it lifts someone heavier than you if they sit closer to the middle."
+    },
+    {
+     "k": "unit|sci.gravity.weight-and-mass.L3",
+     "why": "The heavier child goes down, because gravity pulls harder on more mass."
+    },
+    {
+     "k": "math:weight",
+     "why": "If two children weigh the same, the see-saw stays level."
+    },
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "You push on the ground with your feet to send your friend up."
+    },
+    {
+     "k": "unit|sci.me-and-others.me-and-others.L3",
+     "why": "To enjoy a see-saw, you have to think about how your friend feels at the other end."
+    }
+   ]
+  },
+  {
+   "id": "sport-tennis",
+   "name": "Tennis",
+   "words": [
+    "tennis",
+    "tennis class",
+    "tennis racket",
+    "tennis ball"
+   ],
+   "type": "class",
+   "skill": "Tennis",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.forces.stretching-springs.L3",
+     "why": "The strings stretch and spring back, which sends the ball back fast."
+    },
+    {
+     "k": "unit|sci.motion.physics-of-sport.L3",
+     "why": "The ball bounces off the ground and goes up and forward in a curve."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "A ball you toss for a serve rises and slows, then falls back, because of gravity."
+    },
+    {
+     "k": "math:problem-solving",
+     "why": "Tennis scores go 15, 30, 40 and game, and you can work out who is ahead."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Tennis makes your arms, legs and heart work together."
+    }
+   ]
+  },
+  {
+   "id": "sport-table-tennis",
+   "name": "Table tennis",
+   "words": [
+    "table tennis",
+    "ping pong",
+    "tt bat",
+    "tt table"
+   ],
+   "type": "did",
+   "skill": "Table tennis",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.motion.physics-of-sport.L3",
+     "why": "The small light ball bounces off the table and the bat, and it changes direction every time."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "The rubber on the bat grips the ball and makes it spin."
+    },
+    {
+     "k": "unit|sci.motion.spinning.L3",
+     "why": "A ball with spin curves in the air and bounces in a different way."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "We count points one by one, and the first to eleven wins the game."
+    },
+    {
+     "k": "unit|sci.senses.perception.L3",
+     "why": "Your eyes and hands work together very fast to find where the ball will be."
+    }
+   ]
+  },
+  {
+   "id": "sport-volleyball",
+   "name": "Volleyball",
+   "words": [
+    "volleyball",
+    "volley ball",
+    "spiked",
+    "net game"
+   ],
+   "type": "did",
+   "skill": "Volleyball",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.forces.changing-motion.L3",
+     "why": "Every hit pushes the ball and changes its speed and direction."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "The ball keeps coming down because of gravity, so the team must hit it up again."
+    },
+    {
+     "k": "unit|sci.air.air-around-us.L3",
+     "why": "A ball is full of air, and the air inside makes it bounce and stay round."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Each team adds up the points it wins."
+    },
+    {
+     "k": "unit|sci.me-and-others.me-and-others.L3",
+     "why": "In a team game we need to know where our friends are, so the ball goes to the right person."
+    }
+   ]
+  },
+  {
+   "id": "sport-basketball",
+   "name": "Basketball",
+   "words": [
+    "basketball",
+    "basket ball",
+    "hoop",
+    "dribbling"
+   ],
+   "type": "did",
+   "skill": "Basketball",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.motion.physics-of-sport.L3",
+     "why": "A ball you throw goes up and then curves down into the hoop."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "The ball falls because of gravity, so you aim a bit higher than the hoop."
+    },
+    {
+     "k": "unit|sci.air.air-around-us.L3",
+     "why": "The ball bounces because of the air squeezed inside it."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "A basket is worth 2 or 3 points, and we use multiplying to find the total."
+    },
+    {
+     "k": "math:estimation",
+     "why": "You guess how hard to throw it for the distance, and you get better with practice."
+    }
+   ]
+  },
+  {
+   "id": "sport-throwball",
+   "name": "Throwball and dodgeball",
+   "words": [
+    "throwball",
+    "throw ball",
+    "dodgeball",
+    "dodge ball",
+    "catching ball",
+    "played with a ball"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "When you throw, your arm pushes the ball, and a harder push makes it go faster."
+    },
+    {
+     "k": "unit|sci.motion.physics-of-sport.L3",
+     "why": "A thrown ball goes up and forward and then comes down in a curve."
+    },
+    {
+     "k": "math:estimation",
+     "why": "You judge how far your friend is and how hard to throw."
+    },
+    {
+     "k": "unit|sci.senses.perception.L3",
+     "why": "Your eyes watch the ball and your hands move to the right spot to catch it."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "We throw softly and not at faces, so that nobody gets hurt."
+    }
+   ]
+  },
+  {
+   "id": "sport-hockey",
+   "name": "Hockey",
+   "words": [
+    "hockey",
+    "hockey stick",
+    "hockey class",
+    "field hockey"
+   ],
+   "type": "class",
+   "skill": "Hockey",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.motion.physics-of-sport.L3",
+     "why": "The stick pushes the ball and it rolls in the direction you hit."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "The ball slows on grass sooner than on smooth ground because of friction."
+    },
+    {
+     "k": "unit|sci.forces.changing-motion.L3",
+     "why": "A hit from the side makes the ball change direction."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Each goal is one point, and we add up the goals."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Hockey is India's old sporting pride, and India has won Olympic medals in it."
+    }
+   ]
+  },
+  {
+   "id": "sport-skipping",
+   "name": "Skipping rope",
+   "words": [
+    "skipping",
+    "skipping rope",
+    "jump rope",
+    "rope jumping"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "Your heart beats faster when you skip, because your body needs more oxygen."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "We count the jumps, and we can try to beat our own number."
+    },
+    {
+     "k": "unit|sci.motion.swings-and-pendulums.L3",
+     "why": "The rope swings round in a circle at a steady speed that you must match with your jumps."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The jump, swing, jump, swing rhythm is a pattern."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Skipping makes your legs strong and your body fit."
+    }
+   ]
+  },
+  {
+   "id": "sport-lagori",
+   "name": "Lagori (seven stones)",
+   "words": [
+    "lagori",
+    "pitthu",
+    "seven stones",
+    "satoliya",
+    "lagori game"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:patterns",
+     "why": "Seven flat stones stacked from big to small make a tower pattern."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "We count the seven stones and count the players on each team."
+    },
+    {
+     "k": "unit|sci.forces.changing-motion.L3",
+     "why": "A ball hits the tower, the stones scatter, and each moves in a different direction."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "The stones fall to the ground because of gravity once the ball knocks them."
+    },
+    {
+     "k": "unit|sci.me-and-others.me-and-others.L3",
+     "why": "One team builds and the other throws, so each team has to plan against the other."
+    }
+   ]
+  },
+  {
+   "id": "sport-marbles",
+   "name": "Marbles (kanche)",
+   "words": [
+    "marbles",
+    "kanche",
+    "goli",
+    "gutti",
+    "played kanche"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.changing-motion.L3",
+     "why": "When one marble hits another, the second one moves and the first slows down."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "Marbles roll further on smooth, hard ground than on rough ground or sand."
+    },
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "A marble keeps rolling until friction or another marble stops it."
+    },
+    {
+     "k": "math:estimation",
+     "why": "You guess how hard to flick it to reach the one you aim at."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "At the end we count how many marbles each of us has."
+    }
+   ]
+  },
+  {
+   "id": "sport-spinning-top",
+   "name": "Spinning top (lattu)",
+   "words": [
+    "lattu",
+    "spinning top",
+    "bambaram",
+    "bugri"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.motion.spinning.L3",
+     "why": "A fast-spinning top stays up, and it falls over when it slows down."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "The tip rubs against the ground and slowly slows the top down."
+    },
+    {
+     "k": "unit|sci.energy.stored-energy.L3",
+     "why": "Pulling the string gives the top energy, and the energy is used up as it spins."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "We can time how many seconds each top spins to see which lasts longest."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Tops are an old toy that children have played with in many countries for thousands of years."
+    }
+   ]
+  },
+  {
+   "id": "sport-tug-of-war",
+   "name": "Tug of war",
+   "words": [
+    "tug of war",
+    "rassa kashi",
+    "rope pulling",
+    "pulled the rope"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "Both teams pull the rope, and the team that pulls with the bigger force wins."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "Your shoes grip the ground with friction, and without it you would slip."
+    },
+    {
+     "k": "unit|sci.forces.measuring-forces.L3",
+     "why": "We measure a pull in newtons, and a bigger team pulls with more newtons."
+    },
+    {
+     "k": "unit|sci.forces.stretching-springs.L3",
+     "why": "The rope stretches a tiny bit when it is pulled very hard."
+    },
+    {
+     "k": "unit|sci.me-and-others.me-and-others.L3",
+     "why": "Teams win when all of them pull together at the same time."
+    }
+   ]
+  },
+  {
+   "id": "sport-long-jump",
+   "name": "Long jump and high jump",
+   "words": [
+    "long jump",
+    "high jump",
+    "jumped",
+    "jumping",
+    "sack race",
+    "frog jump"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "However high you jump, gravity pulls you back down."
+    },
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "You push the ground down with your feet, and the ground pushes you up."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "We use a tape to measure how far or how high we jumped."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "We can record each child's jump and compare them in a chart."
+    },
+    {
+     "k": "unit|sci.energy.stored-energy.L3",
+     "why": "Bending your knees stores energy in your legs, and you let it go in the jump."
+    }
+   ]
+  },
+  {
+   "id": "sport-throwing",
+   "name": "Javelin, shot put and discus",
+   "words": [
+    "shot put",
+    "javelin",
+    "discus",
+    "throwing event",
+    "neeraj chopra"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.motion.physics-of-sport.L3",
+     "why": "A thrown thing goes furthest when it leaves your hand at an angle, not straight up or flat."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "The throw is measured in metres from the line to where it lands."
+    },
+    {
+     "k": "unit|sci.gravity.weight-and-mass.L3",
+     "why": "A heavy shot put is hard to throw far, but a light ball goes easily."
+    },
+    {
+     "k": "math:data-graphs",
+     "why": "We can write down everyone's throws and put them in order from the shortest to the longest."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Athletes in ancient times also threw spears and discs in their contests."
+    }
+   ]
+  },
+  {
+   "id": "sport-archery",
+   "name": "Archery",
+   "words": [
+    "archery",
+    "bow and arrow",
+    "arrow",
+    "archery class"
+   ],
+   "type": "class",
+   "skill": "Archery",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.forces.stretching-springs.L3",
+     "why": "When you pull the string back, the bow bends, and it springs back to push the arrow."
+    },
+    {
+     "k": "unit|sci.energy.stored-energy.L3",
+     "why": "A pulled bow stores energy, and the energy sends the arrow flying."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "The arrow curves down on the way, so you aim a bit above the target."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "The target is made of circles inside circles, and each ring has its own score."
+    },
+    {
+     "k": "unit|sci.mind.thinking-and-memory.L3",
+     "why": "Archery needs a calm mind, and you must focus on one thing."
+    }
+   ]
+  },
+  {
+   "id": "sport-walking-hiking",
+   "name": "Walking and hiking",
+   "words": [
+    "hike",
+    "hiking",
+    "trek",
+    "trekking",
+    "nature walk",
+    "went for a walk",
+    "evening walk"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.habitats.habitats.L3",
+     "why": "On a walk you can see the different places where plants and animals live."
+    },
+    {
+     "k": "unit|sci.planet-earth.maps-and-directions.L3",
+     "why": "A map helps us to find the way and to see how far we have gone."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Walking is gentle exercise that is good for your legs and heart."
+    },
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "Look at the soil and rocks along the way and see the different colours."
+    },
+    {
+     "k": "math:direction-maps",
+     "why": "We use left, right, north and south to say which way to go."
+    }
+   ]
+  },
+  {
+   "id": "sport-camping",
+   "name": "Camping",
+   "words": [
+    "camping",
+    "tent",
+    "campfire",
+    "scouts",
+    "guides camp"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.changes.fire.L3",
+     "why": "A campfire needs fuel, air and heat, and we keep it safe with a grown-up near."
+    },
+    {
+     "k": "unit|sci.making-things.houses-and-shelter.L3",
+     "why": "A tent keeps off the rain and wind, so it is a shelter that is easy to carry."
+    },
+    {
+     "k": "unit|sci.sky.stargazing.L3",
+     "why": "Away from city lights, you can see many more stars at night."
+    },
+    {
+     "k": "unit|sci.sky.sun-moon-stars.L3",
+     "why": "The Sun, Moon and stars rise and set, and you can see this clearly outdoors."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "In the open we stay together and carry water, and we leave no waste behind."
+    }
+   ]
+  },
+  {
+   "id": "sport-fun-run",
+   "name": "Marathon and fun run",
+   "words": [
+    "marathon",
+    "fun run",
+    "walkathon",
+    "run for fun",
+    "charity run",
+    "5k"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Running with many people is fun, and you have to rest and drink water after."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "A 5k run is five kilometres, which is five thousand metres."
+    },
+    {
+     "k": "math:time-calendar",
+     "why": "The clock shows how long you took, in minutes and seconds."
+    },
+    {
+     "k": "unit|sci.body.keeping-balance.L3",
+     "why": "Your body sweats to keep itself cool, so you need to drink water."
+    },
+    {
+     "k": "social:money-markets",
+     "why": "Some fun runs raise money for a good cause, and each runner helps."
+    }
+   ]
+  },
+  {
+   "id": "sport-mallakhamb",
+   "name": "Rope and pole games",
+   "words": [
+    "pole climbing",
+    "mallakhamb",
+    "rope climbing",
+    "malkhamb"
+   ],
+   "type": "class",
+   "skill": "Mallakhamb",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.body.body-parts.L3",
+     "why": "Your hands, arms, legs and back all work together to hold you on the pole."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "Your skin and the smooth pole grip each other because of friction."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "Gravity pulls you down, so you need strong muscles to hold on."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Mallakhamb is an old Indian sport, and in it people have done gymnastics on a pole for hundreds of years."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "This sport makes your whole body strong and flexible."
+    }
+   ]
+  },
+  {
+   "id": "sport-gymnastics",
+   "name": "Gymnastics",
+   "words": [
+    "gymnastics",
+    "gymnast",
+    "cartwheel",
+    "somersault",
+    "handstand",
+    "gym class"
+   ],
+   "type": "class",
+   "skill": "Gymnastics",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.senses.more-senses.L3",
+     "why": "Your body can feel where its parts are without looking, and that helps you keep balance."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "A good landing bends the knees, so gravity does not hurt your body."
+    },
+    {
+     "k": "unit|sci.motion.spinning.L3",
+     "why": "In a somersault you spin your body in the air, and a tucked-up body spins faster."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "Many poses are the same on the left and the right, and that is symmetry."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Stretching and practice make your body flexible and strong."
+    }
+   ]
+  },
+  {
+   "id": "sport-boating",
+   "name": "Boating and rowing",
+   "words": [
+    "boating",
+    "boat ride",
+    "rowing",
+    "oar",
+    "kayak",
+    "canoe",
+    "nauka"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "When you push the water back with the oar, the water pushes the boat forward."
+    },
+    {
+     "k": "unit|sci.gravity.weight-and-mass.L3",
+     "why": "A boat floats if it pushes away as much water as it weighs, even if it is heavy."
+    },
+    {
+     "k": "unit|sci.water.water-sources-and-uses.L3",
+     "why": "Rivers, lakes and seas are places where people travel by boat."
+    },
+    {
+     "k": "unit|sci.community.transport-and-communication.L3",
+     "why": "Boats have carried people and goods on rivers for a very long time."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "We wear a life jacket on a boat and sit still."
+    }
+   ]
+  },
+  {
+   "id": "sport-water-play",
+   "name": "Playing in the rain and water",
+   "words": [
+    "played in rain",
+    "puddle",
+    "splash",
+    "paper boat",
+    "sprinkler"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.water.water-cycle.L3",
+     "why": "The rain falls from clouds, then flows away to rivers and the sea, and rises up again."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "The puddle disappears in the Sun because the water goes into the air."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "Rain falls down because gravity pulls it to the ground."
+    },
+    {
+     "k": "unit|sci.making-things.design-and-build.L3",
+     "why": "A paper boat floats because of its shape, and a different fold may float better."
+    },
+    {
+     "k": "unit|sci.weather.weather.L3",
+     "why": "We can measure how much rain fell with a rain gauge."
+    }
+   ]
+  },
+  {
+   "id": "sport-wrestling",
+   "name": "Wrestling and kushti",
+   "words": [
+    "kushti",
+    "wrestling",
+    "akhada",
+    "pehlwan",
+    "wrestler"
+   ],
+   "type": "class",
+   "skill": "Wrestling",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.forces.push-and-pull.L3",
+     "why": "Wrestlers push and pull each other, and the one with more force and better balance wins."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "Bare feet and the soft mud or mat grip, so the wrestlers can push."
+    },
+    {
+     "k": "unit|sci.gravity.weight-and-mass.L3",
+     "why": "Wrestlers are put in groups by weight, so that the match is fair."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Wrestlers need good food, exercise and sleep to build strength."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Kushti is an old Indian sport and many villages have an akhada."
+    }
+   ]
+  },
+  {
+   "id": "sport-carrom",
+   "name": "Carrom and board games outdoors",
+   "words": [
+    "carrom",
+    "carom",
+    "striker",
+    "carrom board"
+   ],
+   "type": "did",
+   "skill": "Carrom",
+   "skillcat": "sport",
+   "links": [
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "Powder on the board lets the coins slide easily, because it reduces friction."
+    },
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "A coin stays still until the striker hits it, and then it moves."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "The board is a square, the coins are circles and the pockets are in the corners."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Coins have points, and we add them to know the score."
+    },
+    {
+     "k": "math:estimation",
+     "why": "You judge the angle and the push to send the coin to the pocket."
+    }
+   ]
+  },
+  {
+   "id": "sport-frisbee",
+   "name": "Frisbee and flying disc",
+   "words": [
+    "frisbee",
+    "flying disc",
+    "ultimate frisbee",
+    "disc throw"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.flight.L3",
+     "why": "The air flows over the disc and holds it up so it glides."
+    },
+    {
+     "k": "unit|sci.motion.spinning.L3",
+     "why": "The spin keeps the disc steady, just like a spinning top."
+    },
+    {
+     "k": "unit|sci.weather.wind-and-air.L3",
+     "why": "A disc flies differently with the wind behind it than against it."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "In the end gravity brings the disc down."
+    },
+    {
+     "k": "unit|sci.how-we-know.fair-tests.L3",
+     "why": "To find what makes it fly furthest, change only one thing, like the angle, and keep the rest the same."
+    }
+   ]
+  },
+  {
+   "id": "sport-pt-class",
+   "name": "Warm-up and exercise class",
+   "words": [
+    "exercise",
+    "warm up",
+    "pt class",
+    "physical training",
+    "stretching",
+    "pt period",
+    "drill"
+   ],
+   "type": "class",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Exercise makes our muscles strong, and rest and sleep help them recover."
+    },
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "Your heart beats faster during exercise so that blood carries more oxygen."
+    },
+    {
+     "k": "unit|sci.body.body-parts.L3",
+     "why": "Each exercise uses different parts, like your arms, legs and back."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "We count the exercises in sets, like 10 jumps and 20 claps."
+    },
+    {
+     "k": "unit|sci.body.keeping-balance.L3",
+     "why": "Your body gets warm when you exercise, and you drink water to replace the sweat."
+    }
+   ]
+  },
+  {
+   "id": "sport-sports-day",
+   "name": "Sports day and matches",
+   "words": [
+    "sports day",
+    "school match",
+    "inter school",
+    "tournament",
+    "medal",
+    "trophy",
+    "team won"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:data-graphs",
+     "why": "A table of points shows which team is in first, second and third."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Each house adds up its points to find the total."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Fair play means following the rules, even when nobody is looking."
+    },
+    {
+     "k": "unit|sci.me-and-others.me-and-others.L3",
+     "why": "Winners and losers both have feelings, and a good sport can understand both."
+    }
+   ]
+  },
+  {
+   "id": "sport-watching-cricket",
+   "name": "Watching a sports match",
+   "words": [
+    "watched a match",
+    "ipl",
+    "world cup",
+    "watched cricket",
+    "tv match",
+    "stadium",
+    "watching match"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:data-graphs",
+     "why": "A scoreboard and graph tell us how the match is going, run by run."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "Run rate is runs divided by overs, so we can tell how fast a team is scoring."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Teams are named after cities and states, and fans cheer in different languages."
+    },
+    {
+     "k": "unit|sci.sound.sources-of-sound.L3",
+     "why": "The crowd roar is loud because many voices vibrate the air together."
+    },
+    {
+     "k": "eng:new-words",
+     "why": "Commentators use new words like boundary, over and wicket, and we can learn them."
+    }
+   ]
+  },
+  {
+   "id": "sport-sports-question",
+   "name": "Why does the ball bounce?",
+   "words": [
+    "why does the ball",
+    "why ball bounces",
+    "why do we sweat",
+    "why do we get tired",
+    "why is the ball round"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.air.air-around-us.L3",
+     "why": "A ball bounces because of the air squeezed inside it, which pushes back."
+    },
+    {
+     "k": "unit|sci.forces.stretching-springs.L3",
+     "why": "When the ball hits the ground it squashes a little and then springs back."
+    },
+    {
+     "k": "unit|sci.energy.stored-energy.L3",
+     "why": "The squashed ball stores energy and gives it back as the bounce."
+    },
+    {
+     "k": "unit|sci.how-we-know.fair-tests.L3",
+     "why": "We can drop balls from the same height and see which bounces highest."
+    },
+    {
+     "k": "unit|sci.gravity.falling.L3",
+     "why": "The ball comes down again after each bounce because of gravity."
+    }
+   ]
+  },
+  {
+   "id": "sport-tired-question",
+   "name": "Why do I get tired and breathless?",
+   "words": [
+    "tired after",
+    "out of breath",
+    "breathless",
+    "heart is beating",
+    "panting",
+    "legs hurt"
+   ],
+   "type": "said",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.body.heart-blood-breath.L3",
+     "why": "When you play hard, your body needs more oxygen, so your heart beats and you breathe faster."
+    },
+    {
+     "k": "unit|sci.health.exercise-and-rest.L3",
+     "why": "Muscles get tired when they work hard, and a rest helps them recover."
+    },
+    {
+     "k": "unit|sci.body.keeping-balance.L3",
+     "why": "Your body gets hot when it works, and sweat helps it cool."
+    },
+    {
+     "k": "unit|sci.body.organs-inside.L3",
+     "why": "Your lungs take in air and your heart pumps blood, and both work harder when you run."
+    },
+    {
+     "k": "unit|sci.food.balanced-diet.L3",
+     "why": "Food gives your muscles energy, which is why we eat before we play."
+    }
+   ]
+  },
+  {
+   "id": "sport-hopscotch",
+   "name": "Hopscotch and stapu",
+   "words": [
+    "hopscotch",
+    "stapu",
+    "langdi",
+    "pittu hopping",
+    "chalk game",
+    "hopping game"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:count-place-value",
+     "why": "The squares are numbered, and we hop from one to ten in order."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "We draw squares and rectangles with chalk and use them to play."
+    },
+    {
+     "k": "unit|sci.senses.more-senses.L3",
+     "why": "Your body knows where your foot is without looking, which is how you keep your balance on one leg."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The squares go single, single, double, and the pattern repeats."
+    },
+    {
+     "k": "unit|sci.body.body-parts.L3",
+     "why": "You balance on one leg, and your arms help."
+    }
+   ]
+  },
+  {
+   "id": "sport-tag-games",
+   "name": "Statue, tag and chain games",
+   "words": [
+    "statue",
+    "dog and bone",
+    "pakdam pakdai",
+    "chor police",
+    "catch me",
+    "chain game",
+    "oonch neech",
+    "stappu"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.changing-motion.L3",
+     "why": "To dodge a catcher you quickly change direction and speed."
+    },
+    {
+     "k": "unit|sci.motion.newtons-laws.L3",
+     "why": "It is hard to stop at once because moving things want to keep moving."
+    },
+    {
+     "k": "unit|sci.me-and-others.me-and-others.L3",
+     "why": "You think about where the catcher is going to guess what they will do."
+    },
+    {
+     "k": "social:rules-safety",
+     "why": "Games have rules like safe zones, and they help everyone play fairly."
+    },
+    {
+     "k": "math:problem-solving",
+     "why": "You work out the best way to reach the safe spot without being caught."
+    }
+   ]
+  },
+  {
+   "id": "sport-beach-river",
+   "name": "Playing at the beach or river",
+   "words": [
+    "beach",
+    "sand castle",
+    "sandcastle",
+    "seashore",
+    "river bank",
+    "sand play",
+    "built with sand"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Wet sand holds its shape and dry sand does not, because water helps the grains stick."
+    },
+    {
+     "k": "unit|sci.making-things.design-and-build.L3",
+     "why": "A castle with a wide base and thick walls stays up better than a thin one."
+    },
+    {
+     "k": "unit|sci.water.water-cycle.L3",
+     "why": "Waves come in and go out, and the water of the sea is part of the water cycle."
+    },
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "Sand is tiny pieces of rock worn down by water and wind over a long time."
+    },
+    {
+     "k": "unit|sci.habitats.water-habitats.L3",
+     "why": "On a beach, you can find shells, crabs and other animals that live near water."
+    }
+   ]
+  },
+  {
+   "id": "sport-bird-walk",
+   "name": "Cycling to nature trails and bird walks",
+   "words": [
+    "bird watching",
+    "birdwatching",
+    "bird walk",
+    "nature trail",
+    "saw a bird",
+    "butterfly"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.animals.animals-around-us.L3",
+     "why": "Different birds have their own habits, nests and favourite food."
+    },
+    {
+     "k": "unit|sci.habitats.habitats.L3",
+     "why": "Each bird lives in the place that gives it food, water and shelter."
+    },
+    {
+     "k": "unit|sci.classification.sorting-living-things.L3",
+     "why": "We can sort birds by size, colour, or where they live."
+    },
+    {
+     "k": "eng:describing",
+     "why": "We can describe a bird using colour, size, sound and what it was doing."
+    }
+   ]
+  }
+ ]
+}

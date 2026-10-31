@@ -1,0 +1,1749 @@
+{
+ "cat": "art",
+ "acts": [
+  {
+   "id": "art-drawing",
+   "name": "Drawing",
+   "words": [
+    "drew",
+    "drawing",
+    "sketch",
+    "pencil drawing",
+    "doodle"
+   ],
+   "type": "did",
+   "skill": "Drawing",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "eng:describing",
+     "why": "When you draw the mango, you look closely and find words for its shape and colour."
+    },
+    {
+     "k": "unit|sci.light.how-we-see.L3",
+     "why": "Your eyes take in the light bouncing off the thing you are drawing, and your hand copies what you see."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Every drawing is built from circles, squares and triangles put together."
+    },
+    {
+     "k": "unit|sci.patterns-symmetry.symmetry-in-nature.L3",
+     "why": "Look at a leaf you draw: both halves match, and that is called symmetry."
+    }
+   ]
+  },
+  {
+   "id": "art-painting",
+   "name": "Painting with watercolours",
+   "words": [
+    "painting",
+    "watercolour",
+    "paint",
+    "poster colour",
+    "painted"
+   ],
+   "type": "did",
+   "skill": "Painting",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "When you mix blue and yellow on the page and get green, you are seeing how colours combine."
+    },
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "The paint spreads in the water because the colour has dissolved and moved with it."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "Your painting dries because the water on the paper slowly goes into the air."
+    },
+    {
+     "k": "unit|sci.states.liquids-up-close.L3",
+     "why": "More water makes the paint thin and runny, less water makes it thick."
+    },
+    {
+     "k": "eng:describing",
+     "why": "Tell someone which colours you used and what feeling they give."
+    }
+   ]
+  },
+  {
+   "id": "art-clay-modelling",
+   "name": "Clay modelling",
+   "words": [
+    "clay",
+    "play dough",
+    "playdough",
+    "clay model",
+    "modelling clay"
+   ],
+   "type": "did",
+   "skill": "Clay modelling",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Clay is soft and bends when wet, which is a property that makes it good for shaping."
+    },
+    {
+     "k": "unit|sci.forces.changing-motion.L3",
+     "why": "When you press and roll the clay, your force changes its shape."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Rolling a ball and pressing a cube from clay shows the difference between round and flat shapes."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "We pick clay for pots because it can be shaped wet and then holds its shape when dry."
+    }
+   ]
+  },
+  {
+   "id": "art-pottery",
+   "name": "Pottery and the potter's wheel",
+   "words": [
+    "pottery",
+    "potter",
+    "kumhar",
+    "matka making",
+    "potter's wheel",
+    "diya making"
+   ],
+   "type": "class",
+   "skill": "Pottery",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "unit|sci.motion.spinning.L3",
+     "why": "The wheel keeps spinning in a steady way, so the clay stays centred as the potter shapes it."
+    },
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "The pot is made of clay dug from the ground, which is a material from the earth."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "A clay pot dries as its water goes into the air, and this is also why water in a matka stays cool."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "When the pot is baked in a very hot kiln, the clay changes and becomes hard."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "The potter makes things that many families use every day, like matkas and diyas."
+    }
+   ]
+  },
+  {
+   "id": "art-origami",
+   "name": "Origami paper folding",
+   "words": [
+    "origami",
+    "paper folding",
+    "folded paper",
+    "paper boat",
+    "paper crane"
+   ],
+   "type": "did",
+   "skill": "Origami",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "math:shapes-space",
+     "why": "Folding a square into a triangle shows how shapes can be made from other shapes."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "When you fold paper in half and both sides match, the fold line is a line of symmetry."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "Folding a paper into halves, then quarters, shows how one whole is shared equal parts."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Listen carefully to each step and then explain the folds to a friend in order."
+    }
+   ]
+  },
+  {
+   "id": "art-paper-plane",
+   "name": "Paper aeroplanes",
+   "words": [
+    "paper plane",
+    "paper aeroplane",
+    "paper airplane",
+    "paper jet"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.forces.flight.L3",
+     "why": "A plane flies when its wings push air down and the air pushes the wings up."
+    },
+    {
+     "k": "unit|sci.how-we-know.fair-tests.L3",
+     "why": "Change only one thing, like the fold of the wing, and see whether the plane goes farther."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "Air rubbing on the plane slows it down, so a smooth narrow plane goes farther."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Measure how far each plane went to find out which design is best."
+    },
+    {
+     "k": "unit|sci.making-things.design-and-build.L3",
+     "why": "Make a plane, throw it, see what went wrong and fold it better."
+    }
+   ]
+  },
+  {
+   "id": "art-rangoli",
+   "name": "Rangoli",
+   "words": [
+    "rangoli",
+    "muggu",
+    "alpana",
+    "floor design",
+    "rangoli competition"
+   ],
+   "type": "did",
+   "skill": "Rangoli",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "math:symmetry",
+     "why": "Most rangoli patterns match on both sides, and that is symmetry."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Dots, lines and petals that repeat in order make a pattern you can continue."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Families draw rangoli at the door during Diwali, Onam, Pongal and other festivals to welcome guests."
+    },
+    {
+     "k": "unit|sci.community.festivals.L3",
+     "why": "Rangoli colours often come from rice flour and turmeric, as in a mela or festival."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Count the dots in each row to plan the design before you join them."
+    }
+   ]
+  },
+  {
+   "id": "art-kolam-dots",
+   "name": "Kolam with dots",
+   "words": [
+    "pulli kolam",
+    "dot kolam",
+    "rice flour design",
+    "kolam pattern"
+   ],
+   "type": "did",
+   "skill": "Kolam",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "math:patterns",
+     "why": "The dots form a grid and the lines go over and around them in a repeating pattern."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "If you fold the kolam in your mind, both halves match."
+    },
+    {
+     "k": "unit|sci.patterns-symmetry.fractals-and-spirals.L3",
+     "why": "Some kolams have loops that repeat inside each other, like a spiral."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "A grid of 5 rows with 5 dots each has 5 times 5, which is 25 dots."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Kolam in Tamil Nadu, muggu in Andhra Pradesh and alpana in Bengal are floor art with different names."
+    }
+   ]
+  },
+  {
+   "id": "art-mehendi",
+   "name": "Mehendi and henna",
+   "words": [
+    "mehendi",
+    "mehndi",
+    "henna",
+    "applied henna",
+    "hand design"
+   ],
+   "type": "did",
+   "skill": "Mehendi",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "Henna comes from the leaves of a plant, which are dried and ground to a paste."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The vines, dots and petals on a hand follow a pattern that repeats."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Mehendi is put on hands for Eid, Karva Chauth, Diwali and weddings in many parts of India."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "Look at a mehendi flower, and you can see matching petals around the middle."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "The paste dries as its water leaves, and you scrape it off to see the colour."
+    }
+   ]
+  },
+  {
+   "id": "art-collage",
+   "name": "Collage and paper cutting",
+   "words": [
+    "collage",
+    "paper cutting",
+    "cut and paste",
+    "paper craft",
+    "scrapbook"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.materials.sorting-materials.L3",
+     "why": "You pick leaves, paper and cloth by their kind and colour before sticking them."
+    },
+    {
+     "k": "unit|sci.waste.reduce-reuse-recycle.L3",
+     "why": "Old magazines and cards can become new art, which means they are reused instead of thrown."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Cutting out triangles, circles and squares and fitting them together shows how shapes join."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Thin paper bends and cuts easily, but thick card stays stiff, and each is good for something different."
+    }
+   ]
+  },
+  {
+   "id": "art-block-printing",
+   "name": "Block printing",
+   "words": [
+    "block print",
+    "block printing",
+    "ajrakh",
+    "bagru",
+    "printing with blocks",
+    "potato print",
+    "vegetable print"
+   ],
+   "type": "class",
+   "skill": "Block printing",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "math:patterns",
+     "why": "Pressing the same block again and again in a row makes a repeating pattern."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "Press a block and its print is a mirror of the shape carved in it."
+    },
+    {
+     "k": "unit|sci.light.reflection.L3",
+     "why": "The print comes out reversed compared to the block, like an image in a mirror."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "Craftspeople in Rajasthan and Gujarat carve wooden blocks and print cloth by hand."
+    },
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "Natural dyes for blocks come from plants like indigo and from minerals in the ground."
+    }
+   ]
+  },
+  {
+   "id": "art-warli",
+   "name": "Warli painting",
+   "words": [
+    "warli",
+    "warli art",
+    "warli painting",
+    "tribal art"
+   ],
+   "type": "did",
+   "skill": "Warli",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "math:shapes-space",
+     "why": "In Warli art a person is drawn with just a circle, and two triangles, and lines."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Warli art comes from the Warli people of Maharashtra, who paint on mud walls."
+    },
+    {
+     "k": "social:history-past",
+     "why": "This art has been painted on village walls for a very long time, to show harvests and festivals."
+    },
+    {
+     "k": "math:patterns",
+     "why": "People in a Warli circle dance hold hands, and the figures repeat around the ring."
+    },
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "Traditional Warli paint is white rice paste on a brown wall made of mud and cow dung."
+    }
+   ]
+  },
+  {
+   "id": "art-madhubani",
+   "name": "Madhubani painting",
+   "words": [
+    "madhubani",
+    "mithila",
+    "mithila painting",
+    "madhubani art",
+    "folk painting"
+   ],
+   "type": "class",
+   "skill": "Madhubani",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "social:regions-languages",
+     "why": "Madhubani painting comes from the Mithila region of Bihar, where women painted walls."
+    },
+    {
+     "k": "math:patterns",
+     "why": "The borders are filled with lines, dots and flowers that repeat."
+    },
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "Many natural colours come from plants, like leaves for green and turmeric for yellow."
+    },
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "The bright reds, yellows and blues stand out because they are far apart on the colour wheel."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Madhubani paintings are often made for weddings and festivals."
+    }
+   ]
+  },
+  {
+   "id": "art-gond-art",
+   "name": "Gond and tribal art",
+   "words": [
+    "gond",
+    "gond art",
+    "gond painting",
+    "pattadhar",
+    "dot art",
+    "tribal painting"
+   ],
+   "type": "did",
+   "skill": "Gond art",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "unit|sci.animals.animal-bodies.L3",
+     "why": "Gond artists fill animals with dots and lines, so look at how real animals are built."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Gond art comes from the Gond people of Madhya Pradesh."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Small lines and dots fill each shape in a pattern."
+    },
+    {
+     "k": "unit|sci.ecology.interdependence.L3",
+     "why": "Gond paintings often show trees, birds and animals living together."
+    }
+   ]
+  },
+  {
+   "id": "art-pattachitra",
+   "name": "Pattachitra and scroll painting",
+   "words": [
+    "pattachitra",
+    "patachitra",
+    "scroll painting",
+    "kalamkari",
+    "cloth painting"
+   ],
+   "type": "did",
+   "skill": "Pattachitra",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "social:history-past",
+     "why": "These paintings tell old stories from the epics, and were shown while the story was sung."
+    },
+    {
+     "k": "eng:read-stories",
+     "why": "Follow the pictures from one end of the scroll to the other to read the story."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Pattachitra comes from Odisha and Bengal, and kalamkari from Andhra Pradesh."
+    },
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "Many colours come from natural things like stones, leaves and flowers."
+    }
+   ]
+  },
+  {
+   "id": "art-stitching",
+   "name": "Sewing and stitching",
+   "words": [
+    "sewing",
+    "stitching",
+    "needle and thread",
+    "stitch",
+    "embroidery",
+    "hem"
+   ],
+   "type": "did",
+   "skill": "Sewing",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "unit|sci.chemistry.polymers.L3",
+     "why": "Cotton, silk and wool threads are made of very long molecules twisted together."
+    },
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "Cotton thread comes from a plant, silk from a worm, and wool from sheep."
+    },
+    {
+     "k": "unit|sci.forces.simple-machines.L3",
+     "why": "A needle is a wedge, and its sharp point parts the cloth with a small push."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Running stitches and cross stitches make a pattern that repeats."
+    },
+    {
+     "k": "unit|sci.forces.friction.L3",
+     "why": "Thread stays in the cloth because rough fibres grip each other."
+    }
+   ]
+  },
+  {
+   "id": "art-knitting",
+   "name": "Knitting and crochet",
+   "words": [
+    "knitting",
+    "crochet",
+    "wool",
+    "knit",
+    "sweater making",
+    "crochet hook"
+   ],
+   "type": "did",
+   "skill": "Knitting",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "unit|sci.chemistry.polymers.L3",
+     "why": "Wool is made of very long molecules from sheep, and it can be twisted into yarn."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Knit and purl stitches in a set order make a pattern in the cloth."
+    },
+    {
+     "k": "unit|sci.energy.heat-moves.L3",
+     "why": "A woollen sweater keeps you warm because it traps air, and air does not let heat out easily."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Count the stitches in every row to keep the width the same."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.seasons.L3",
+     "why": "People knit in winter to make warm clothes."
+    }
+   ]
+  },
+  {
+   "id": "art-weaving",
+   "name": "Weaving and handloom",
+   "words": [
+    "weaving",
+    "loom",
+    "handloom",
+    "charkha",
+    "yarn"
+   ],
+   "type": "did",
+   "skill": "Weaving",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "Cloth starts as a plant or animal, like cotton or wool, then becomes thread and then fabric."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Threads that go over and under each other in a set order make a pattern."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "Weavers in many states make cloth by hand, like Banarasi silk and Kanchipuram saris."
+    },
+    {
+     "k": "social:history-past",
+     "why": "The charkha, a spinning wheel, was used by many Indians to make their own cloth long ago."
+    },
+    {
+     "k": "unit|sci.motion.spinning.L3",
+     "why": "The wheel of a charkha spins and twists cotton into thread."
+    }
+   ]
+  },
+  {
+   "id": "art-tie-dye",
+   "name": "Tie and dye (bandhani)",
+   "words": [
+    "tie dye",
+    "bandhani",
+    "tie and dye",
+    "shibori",
+    "leheriya",
+    "dyed cloth"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "The dye spreads in water because the colour dissolves in it."
+    },
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "Blue dye on yellow cloth makes green, because the colours mix."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Bandhani is a craft of Gujarat and Rajasthan, and leheriya makes waves of colour."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Tying the cloth in the same way gives dots or lines that repeat."
+    },
+    {
+     "k": "unit|sci.chemistry.acids-and-bases.L3",
+     "why": "Some natural dyes change colour in sour or soapy water, like red cabbage does."
+    }
+   ]
+  },
+  {
+   "id": "art-greeting-card",
+   "name": "Making cards",
+   "words": [
+    "card making",
+    "greeting card",
+    "made a card",
+    "birthday card",
+    "rakhi card",
+    "handmade card",
+    "pop up card"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "eng:write-story-letter",
+     "why": "A card is a short letter, so you decide what to say to the person who will read it."
+    },
+    {
+     "k": "social:family-community",
+     "why": "You make a card to say thank you or happy birthday to people who matter."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Folding a card makes a front and a back, and a pop-up uses angles."
+    },
+    {
+     "k": "eng:write-sentences",
+     "why": "Write one clear sentence in your best handwriting."
+    }
+   ]
+  },
+  {
+   "id": "art-rakhi-making",
+   "name": "Making rakhi",
+   "words": [
+    "rakhi",
+    "rakhi making",
+    "made rakhi",
+    "raksha bandhan craft",
+    "rakhi craft"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:festivals-culture",
+     "why": "Raksha Bandhan is a day when sisters tie a rakhi to brothers to show love."
+    },
+    {
+     "k": "social:family-community",
+     "why": "A homemade rakhi shows care because you spent time making it."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Beads and threads in a repeating order make a pattern on the rakhi."
+    },
+    {
+     "k": "unit|sci.chemistry.polymers.L3",
+     "why": "Thread is made of long fibres twisted tight so it is strong."
+    }
+   ]
+  },
+  {
+   "id": "art-diwali-diya",
+   "name": "Painting diyas and lanterns",
+   "words": [
+    "diya painting",
+    "painted diyas",
+    "kandil",
+    "akash kandil",
+    "lantern making",
+    "diwali craft"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.changes.fire.L3",
+     "why": "A diya flame needs fuel, air and heat, so oil and a wick keep it burning."
+    },
+    {
+     "k": "unit|sci.light.transparent-opaque.L3",
+     "why": "Paper lanterns let light through, but a clay diya blocks it."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "On Diwali, homes are lit with diyas and lanterns to welcome light."
+    },
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "Paint the diya with bright colours that look good when the flame lights it."
+    },
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "The diya is made of baked clay and the wick of cotton."
+    }
+   ]
+  },
+  {
+   "id": "art-ganesha-idol",
+   "name": "Making a Ganesha idol",
+   "words": [
+    "ganesha idol",
+    "ganpati idol",
+    "eco friendly ganesha",
+    "clay ganesha",
+    "murti making",
+    "ganpati making"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.environment.pollution.L3",
+     "why": "Clay idols dissolve in water safely, but plaster idols and chemical paints pollute the water."
+    },
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "A clay idol breaks down in water, as the clay mixes into it."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "Ganesh Chaturthi is celebrated with an idol at home and in the neighbourhood."
+    },
+    {
+     "k": "unit|sci.environment.conservation.L3",
+     "why": "Choosing clay and natural colours helps keep ponds and rivers clean."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Clay is soft when wet and hard when dry, so it holds the shape of the idol."
+    }
+   ]
+  },
+  {
+   "id": "art-model-building",
+   "name": "Building models with cardboard",
+   "words": [
+    "model making",
+    "cardboard model",
+    "made a model",
+    "school project model",
+    "working model",
+    "craft project"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.making-things.design-and-build.L3",
+     "why": "Build it, test it, find what is weak, then make it better."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Measure each piece before cutting so the parts fit together."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "Card is light and easy to cut, but a thin straw bends, so choose the material by the job."
+    },
+    {
+     "k": "unit|sci.making-things.houses-and-shelter.L3",
+     "why": "A model house stays up when its walls are strong and its base is wide."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Cubes, cylinders and cones are shapes you can build with."
+    }
+   ]
+  },
+  {
+   "id": "art-lego-blocks",
+   "name": "Building with blocks and Lego",
+   "words": [
+    "lego",
+    "building blocks",
+    "blocks",
+    "made a tower",
+    "construction set",
+    "stacking"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.making-things.design-and-build.L3",
+     "why": "Try a design, see it fall, and build it again stronger."
+    },
+    {
+     "k": "unit|sci.making-things.houses-and-shelter.L3",
+     "why": "A tower stays up when it has a wide base and the blocks sit right on each other."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Blocks of different shapes fit together in some ways and not in others."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "A block with 2 rows of 4 studs has 2 times 4, which is 8 studs."
+    },
+    {
+     "k": "math:problem-solving",
+     "why": "If the bridge is too short, think about what to change."
+    }
+   ]
+  },
+  {
+   "id": "art-junk-craft",
+   "name": "Craft from waste (best out of waste)",
+   "words": [
+    "best out of waste",
+    "waste craft",
+    "recycled craft",
+    "made from waste",
+    "bottle craft",
+    "reuse craft"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.waste.reduce-reuse-recycle.L3",
+     "why": "A bottle made into a pen stand is reused, so it does not become waste."
+    },
+    {
+     "k": "unit|sci.waste.sorting-waste.L3",
+     "why": "Sort paper, plastic and metal first to see which can be used for the craft."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Plastic is waterproof but paper is not, so choose which to use for a plant pot."
+    },
+    {
+     "k": "unit|sci.making-things.design-and-build.L3",
+     "why": "Plan what to make, try it, and fix what does not work."
+    },
+    {
+     "k": "unit|sci.environment.pollution.L3",
+     "why": "Reusing things means less rubbish for landfills and rivers."
+    }
+   ]
+  },
+  {
+   "id": "art-papier-mache",
+   "name": "Papier-mache",
+   "words": [
+    "papier mache",
+    "paper mache",
+    "paper pulp",
+    "paper pulp craft",
+    "mask making"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Wet paper and paste dry to a hard shell, which is how the material changes."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "The paste hardens as the water in it goes into the air."
+    },
+    {
+     "k": "unit|sci.waste.reduce-reuse-recycle.L3",
+     "why": "Old newspaper is turned into something new instead of being thrown away."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Cover a balloon in layers of paper to make a sphere."
+    },
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "Paper is made from wood, so papier-mache is a plant material."
+    }
+   ]
+  },
+  {
+   "id": "art-photography",
+   "name": "Photography",
+   "words": [
+    "photo",
+    "photos",
+    "photography",
+    "took pictures",
+    "camera",
+    "clicked pictures",
+    "selfie"
+   ],
+   "type": "did",
+   "skill": "Photography",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "unit|sci.light.how-we-see.L3",
+     "why": "A camera works a bit like your eye, as light comes through a small hole to make a picture."
+    },
+    {
+     "k": "unit|sci.light.refraction.L3",
+     "why": "The glass lens of a camera bends light to make a sharp picture."
+    },
+    {
+     "k": "unit|sci.light.what-is-light.L3",
+     "why": "A photo is made of light, so bright places and dark places look different."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Moving closer or farther changes how big things look in the picture."
+    },
+    {
+     "k": "eng:describing",
+     "why": "Tell the story of the picture in a few words."
+    }
+   ]
+  },
+  {
+   "id": "art-shadow-play",
+   "name": "Shadow puppets",
+   "words": [
+    "shadow puppet",
+    "shadow play",
+    "shadows",
+    "puppet show",
+    "tholu bommalata",
+    "puppets"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.light.transparent-opaque.L3",
+     "why": "A shadow forms where an opaque thing blocks the light."
+    },
+    {
+     "k": "unit|sci.light.what-is-light.L3",
+     "why": "Light travels in straight lines, so the shadow has the same outline as the puppet."
+    },
+    {
+     "k": "social:history-past",
+     "why": "Shadow puppet shows have been done for a long time in Karnataka, Andhra Pradesh and Kerala."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Tell the story aloud in different voices for each puppet."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.day-and-night.L3",
+     "why": "Your own shadow is long in the morning and short at noon because the Sun is in a different place."
+    }
+   ]
+  },
+  {
+   "id": "art-sketching-nature",
+   "name": "Nature sketching",
+   "words": [
+    "nature drawing",
+    "sketching outside",
+    "drew a tree",
+    "drew a flower",
+    "leaf drawing",
+    "nature journal"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "Draw the root, stem and leaves to see how each part has a job."
+    },
+    {
+     "k": "unit|sci.patterns-symmetry.symmetry-in-nature.L3",
+     "why": "Leaves, flowers and butterflies have matching parts on both sides."
+    },
+    {
+     "k": "unit|sci.classification.sorting-living-things.L3",
+     "why": "Sketch two leaves side by side and note how they are the same and different."
+    },
+    {
+     "k": "eng:describing",
+     "why": "Write a few words by your drawing to describe its colour and shape."
+    },
+    {
+     "k": "unit|sci.patterns-symmetry.fractals-and-spirals.L3",
+     "why": "Look at a fern or a shell: the same shape repeats inside itself."
+    }
+   ]
+  },
+  {
+   "id": "art-leaf-printing",
+   "name": "Leaf and flower art",
+   "words": [
+    "leaf print",
+    "leaf printing",
+    "flower art",
+    "pressed flowers",
+    "rubbing",
+    "leaf rubbing",
+    "flower rangoli"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "A leaf has veins that carry water, and a print shows them clearly."
+    },
+    {
+     "k": "unit|sci.plants.water-transport.L3",
+     "why": "The veins in the leaf are the little pipes that carry water from the stem."
+    },
+    {
+     "k": "unit|sci.plants.photosynthesis.L3",
+     "why": "Green leaves are green because they hold the stuff that makes food from sunlight."
+    },
+    {
+     "k": "unit|sci.plants.plant-variety.L3",
+     "why": "Different plants have leaves of different shapes, edges and veins."
+    },
+    {
+     "k": "unit|sci.states.evaporation-and-condensation.L3",
+     "why": "Pressed flowers dry between pages as their water goes out."
+    }
+   ]
+  },
+  {
+   "id": "art-natural-colours",
+   "name": "Making natural colours",
+   "words": [
+    "natural colour",
+    "natural dye",
+    "turmeric colour",
+    "beetroot colour",
+    "homemade colours",
+    "holi colours",
+    "haldi"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.chemistry.acids-and-bases.L3",
+     "why": "Turmeric turns red with soap, which is a base, and goes back with lemon, which is an acid."
+    },
+    {
+     "k": "unit|sci.community.festivals.L3",
+     "why": "Turmeric turns red with soapy water, which is why it can colour a festival."
+    },
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "Beetroot juice colours the water because its colour dissolves in it."
+    },
+    {
+     "k": "unit|sci.food.where-food-comes-from.L3",
+     "why": "Spinach, beetroot and turmeric are plants that give us both food and colour."
+    },
+    {
+     "k": "unit|sci.environment.pollution.L3",
+     "why": "Natural colours wash off safely, but some shop colours have chemicals that harm skin and water."
+    }
+   ]
+  },
+  {
+   "id": "art-colour-mixing",
+   "name": "Colour mixing",
+   "words": [
+    "colour mixing",
+    "mixed colours",
+    "colour wheel",
+    "primary colours",
+    "mixing paint"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "Sunlight splits into many colours in a rainbow, and paint mixes to make new ones."
+    },
+    {
+     "k": "unit|sci.senses.perception.L3",
+     "why": "The same grey looks darker next to white and lighter next to black."
+    },
+    {
+     "k": "unit|sci.light.what-is-light.L3",
+     "why": "A coloured thing looks that colour because it sends that colour of light back to your eyes."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Mix in the same amounts each time to get the same colour again."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "Mixing half a spoon of yellow with half a spoon of blue shows equal parts."
+    }
+   ]
+  },
+  {
+   "id": "art-optical-illusion",
+   "name": "Optical illusion art",
+   "words": [
+    "illusion",
+    "optical illusion",
+    "zentangle",
+    "3d drawing",
+    "trick drawing"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.senses.perception.L3",
+     "why": "Your brain can be fooled by lines and shading, so a flat drawing looks deep."
+    },
+    {
+     "k": "unit|sci.light.how-we-see.L3",
+     "why": "Your eyes see the lines, but your brain decides what they mean."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "In a mandala, the same shapes repeat around the middle."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Zentangle fills a space with repeating little patterns."
+    }
+   ]
+  },
+  {
+   "id": "art-mandala",
+   "name": "Mandala and doodle art",
+   "words": [
+    "doodle art",
+    "circle design",
+    "mandala art",
+    "pattern drawing"
+   ],
+   "type": "did",
+   "skill": "Mandala",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "math:symmetry",
+     "why": "In a mandala, the same shape repeats around the middle."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Each ring repeats a small design all the way around."
+    },
+    {
+     "k": "unit|sci.patterns-symmetry.symmetry-in-nature.L3",
+     "why": "A flower or a snowflake has the same kind of matching parts."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "You draw circles with a compass, then divide them into equal parts."
+    },
+    {
+     "k": "unit|sci.health.feelings-and-wellbeing.L3",
+     "why": "Drawing slowly and calmly can help you feel peaceful."
+    }
+   ]
+  },
+  {
+   "id": "art-kite-making",
+   "name": "Making a kite",
+   "words": [
+    "made a kite",
+    "kite making",
+    "patang banana",
+    "kite craft",
+    "kite design"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.weather.wind-and-air.L3",
+     "why": "A kite goes up because moving air pushes against it and lifts it."
+    },
+    {
+     "k": "unit|sci.forces.flight.L3",
+     "why": "The tilted kite pushes the wind down, and the wind pushes the kite up."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "The kite is a diamond shape, with two pairs of equal sides."
+    },
+    {
+     "k": "unit|sci.making-things.design-and-build.L3",
+     "why": "If the kite spins, change its tail or the strings and fly it again."
+    },
+    {
+     "k": "unit|sci.materials.using-materials.L3",
+     "why": "A kite needs paper that is light and sticks that are stiff yet bendy."
+    }
+   ]
+  },
+  {
+   "id": "art-candle-soap",
+   "name": "Making candles or soap",
+   "words": [
+    "candle making",
+    "soap making",
+    "candle craft",
+    "handmade soap",
+    "wax"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.states.liquids-up-close.L3",
+     "why": "Wax melts when heated and turns hard when it cools."
+    },
+    {
+     "k": "unit|sci.energy.heat.L3",
+     "why": "Heat makes the wax melt, and when it loses heat it becomes solid again."
+    },
+    {
+     "k": "unit|sci.health.hygiene.L3",
+     "why": "Soap lifts dirt and germs off your hands when you wash."
+    },
+    {
+     "k": "unit|sci.changes.fire.L3",
+     "why": "A candle flame needs a wick, wax and air."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Measure the wax or oil carefully to get the same result each time."
+    }
+   ]
+  },
+  {
+   "id": "art-art-class",
+   "name": "Art class",
+   "words": [
+    "art class",
+    "drawing class",
+    "painting class",
+    "art lessons",
+    "art school",
+    "hobby class"
+   ],
+   "type": "class",
+   "skill": "Art",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "unit|sci.light.how-we-see.L3",
+     "why": "Drawing teaches you to look closely at light and shape."
+    },
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "In class you learn which colours go well together."
+    },
+    {
+     "k": "math:shapes-space",
+     "why": "Drawing an object means breaking it into simple shapes."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Talk about your picture with your teacher and listen to ideas on how to improve it."
+    },
+    {
+     "k": "unit|sci.mind.thinking-and-memory.L3",
+     "why": "Practise a little every day and your hand remembers how to draw."
+    }
+   ]
+  },
+  {
+   "id": "art-museum-visit",
+   "name": "Visiting a museum or art gallery",
+   "words": [
+    "museum",
+    "art gallery",
+    "gallery",
+    "exhibition",
+    "art exhibition",
+    "science museum"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:history-past",
+     "why": "Old things in a museum show us how people lived long ago."
+    },
+    {
+     "k": "eng:describing",
+     "why": "Choose one object and describe it so your friend can picture it."
+    },
+    {
+     "k": "unit|sci.how-we-know.questioning-evidence.L3",
+     "why": "Look at a thing and ask who made it, how, and how we know."
+    },
+    {
+     "k": "social:regions-languages",
+     "why": "Art in a museum often comes from different parts of India."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Ask the guide a question and listen to the answer."
+    }
+   ]
+  },
+  {
+   "id": "art-temple-art",
+   "name": "Seeing temple carvings and monuments",
+   "words": [
+    "temple",
+    "temple carving",
+    "fort",
+    "monument",
+    "carvings",
+    "sculpture",
+    "heritage walk"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:history-past",
+     "why": "Look at who built the temple, and how long ago, and what they used."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "Many buildings are the same on the left and the right."
+    },
+    {
+     "k": "unit|sci.materials.what-is-it-made-of.L3",
+     "why": "Stone, brick and wood each have different properties, and builders choose by need."
+    },
+    {
+     "k": "social:festivals-culture",
+     "why": "People of many religions build places of worship with art on them."
+    },
+    {
+     "k": "math:patterns",
+     "why": "Carved borders, windows and domes show patterns that repeat."
+    }
+   ]
+  },
+  {
+   "id": "art-pencil-shading",
+   "name": "Shading and perspective",
+   "words": [
+    "shading",
+    "perspective",
+    "pencil shading",
+    "realistic drawing",
+    "3d sketch"
+   ],
+   "type": "did",
+   "skill": "Shading",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "unit|sci.light.what-is-light.L3",
+     "why": "Light falls on one side of an object, so the other side is darker."
+    },
+    {
+     "k": "unit|sci.light.transparent-opaque.L3",
+     "why": "A shadow is the dark patch made when an opaque object blocks light."
+    },
+    {
+     "k": "unit|sci.senses.perception.L3",
+     "why": "Making things small and close together far away tricks your eyes into seeing depth."
+    },
+    {
+     "k": "math:direction-maps",
+     "why": "A drawing of the road shows lines that meet at one point far away."
+    }
+   ]
+  },
+  {
+   "id": "art-map-drawing",
+   "name": "Drawing a map",
+   "words": [
+    "drew a map",
+    "map drawing",
+    "treasure map",
+    "map of my house",
+    "map of school"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.planet-earth.maps-and-directions.L3",
+     "why": "Draw your home from above, so a friend could find the way."
+    },
+    {
+     "k": "math:direction-maps",
+     "why": "Use left, right, forward and back to tell where things are."
+    },
+    {
+     "k": "social:maps-places",
+     "why": "Mark the shops, the park and the school near your home."
+    },
+    {
+     "k": "math:measure-length",
+     "why": "Use a small scale, like 1 cm for 1 metre, to make the map fit."
+    }
+   ]
+  },
+  {
+   "id": "art-pot-painting",
+   "name": "Painting pots and plants",
+   "words": [
+    "pot painting",
+    "painted pots",
+    "gardening craft",
+    "plant pot",
+    "decorate pot"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.plants.what-plants-need.L3",
+     "why": "Plants in pots still need light, water and soil."
+    },
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "The roots stay inside the pot and the leaves grow up into the light."
+    },
+    {
+     "k": "unit|sci.materials.properties.L3",
+     "why": "Waterproof paint helps protect the clay pot from water."
+    },
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "Bright colours look good against green leaves."
+    }
+   ]
+  },
+  {
+   "id": "art-tangram-puzzles",
+   "name": "Tangram and shape puzzles",
+   "words": [
+    "tangram",
+    "shape puzzle",
+    "jigsaw",
+    "puzzle",
+    "jigsaw puzzle"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:shapes-space",
+     "why": "Seven shapes can be moved around to make a cat, a house, or a bird."
+    },
+    {
+     "k": "math:problem-solving",
+     "why": "Try, turn, and try again until the pieces fit."
+    },
+    {
+     "k": "math:fractions-sharing",
+     "why": "The small triangle is one half of a bigger one, and a quarter of the square."
+    },
+    {
+     "k": "unit|sci.mind.thinking-and-memory.L3",
+     "why": "Remember which pieces you already tried so you do not repeat."
+    }
+   ]
+  },
+  {
+   "id": "art-string-art",
+   "name": "Thread and bead art",
+   "words": [
+    "beads",
+    "beadwork",
+    "bead jewellery",
+    "thread art",
+    "string art",
+    "friendship band",
+    "bracelet"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:patterns",
+     "why": "Pick colours in a set order, like red, blue, red, blue, to make a pattern."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Count the beads you need for one band."
+    },
+    {
+     "k": "math:multiply-divide",
+     "why": "10 beads in each of 4 rows is 4 times 10, which is 40 beads."
+    },
+    {
+     "k": "math:money",
+     "why": "Work out how much beads cost to sell the bracelet for more."
+    },
+    {
+     "k": "unit|sci.chemistry.polymers.L3",
+     "why": "Thread is strong because its long fibres are twisted together."
+    }
+   ]
+  },
+  {
+   "id": "art-cartoon-comic",
+   "name": "Drawing cartoons and comics",
+   "words": [
+    "cartoon",
+    "comic",
+    "comic strip",
+    "drew a cartoon",
+    "animation",
+    "flipbook",
+    "flip book"
+   ],
+   "type": "did",
+   "skill": "Cartoons",
+   "skillcat": "art",
+   "links": [
+    {
+     "k": "eng:write-story-letter",
+     "why": "A comic tells a story in a few pictures and a few words."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Read the speech bubbles aloud, in the voice of each character."
+    },
+    {
+     "k": "unit|sci.health.feelings-and-wellbeing.L3",
+     "why": "A face with eyes, eyebrows and mouth can show happy, sad or angry."
+    },
+    {
+     "k": "unit|sci.light.how-we-see.L3",
+     "why": "A flipbook works because your eye keeps the last picture while the next one shows."
+    },
+    {
+     "k": "hin:writing",
+     "why": "Write the speech bubbles in Hindi or your own language."
+    }
+   ]
+  },
+  {
+   "id": "art-rangoli-colours",
+   "name": "Making a flower carpet (pookalam)",
+   "words": [
+    "pookalam",
+    "flower carpet",
+    "onam pookalam",
+    "flower decoration",
+    "phoolon ki rangoli"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "social:festivals-culture",
+     "why": "During Onam in Kerala, families make a pookalam with flowers outside the house."
+    },
+    {
+     "k": "math:symmetry",
+     "why": "A pookalam is round, with rings that repeat around the middle."
+    },
+    {
+     "k": "unit|sci.plants.plant-parts.L3",
+     "why": "Petals, leaves and buds come from different parts of the plant."
+    },
+    {
+     "k": "unit|sci.day-night-seasons.seasons.L3",
+     "why": "Different flowers are available in different seasons."
+    },
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "Group the petals by colour before you lay them out."
+    }
+   ]
+  },
+  {
+   "id": "art-sand-art",
+   "name": "Sand and salt art",
+   "words": [
+    "sand art",
+    "salt art",
+    "coloured sand",
+    "sand painting",
+    "bottle art"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "unit|sci.states.crystals.L3",
+     "why": "Salt is made of tiny crystals with flat faces."
+    },
+    {
+     "k": "unit|sci.states.dissolving.L3",
+     "why": "Salt vanishes in water, but sand does not, which shows two ways of mixing."
+    },
+    {
+     "k": "unit|sci.planet-earth.soil-and-crops.L3",
+     "why": "Sand is small bits of broken rock, and soil also has dead plants."
+    },
+    {
+     "k": "unit|sci.light.colour.L3",
+     "why": "Mixing chalk with salt gives coloured salt that you can pour in layers."
+    },
+    {
+     "k": "unit|sci.materials.sorting-materials.L3",
+     "why": "Sort sand, salt and sugar by how they look and feel."
+    }
+   ]
+  },
+  {
+   "id": "art-stamp-making",
+   "name": "Printing with stamps and sponges",
+   "words": [
+    "stamp",
+    "stamping",
+    "sponge painting",
+    "finger painting",
+    "hand print",
+    "handprint",
+    "thumb print"
+   ],
+   "type": "did",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:patterns",
+     "why": "Stamp again and again in a row to make a border."
+    },
+    {
+     "k": "unit|sci.senses.five-senses.L3",
+     "why": "Your finger feels the paint, which is cold and wet."
+    },
+    {
+     "k": "unit|sci.body.body-parts.L3",
+     "why": "A fingerprint has lines that are different for every person."
+    },
+    {
+     "k": "math:count-place-value",
+     "why": "Count your handprints in a row, then count in tens."
+    }
+   ]
+  },
+  {
+   "id": "art-art-sale",
+   "name": "Selling your art at a school fair",
+   "words": [
+    "art sale",
+    "craft fair",
+    "sold crafts",
+    "school fair",
+    "craft stall",
+    "mela stall"
+   ],
+   "type": "went",
+   "skill": null,
+   "links": [
+    {
+     "k": "math:money",
+     "why": "Work out the price of each craft and the change to give back."
+    },
+    {
+     "k": "social:money-markets",
+     "why": "People buy things they like, and the maker earns for the work."
+    },
+    {
+     "k": "social:jobs-people-do",
+     "why": "Many artists and craftspeople earn their living by selling what they make."
+    },
+    {
+     "k": "eng:speak-listen",
+     "why": "Tell a customer about your craft in clear words."
+    },
+    {
+     "k": "math:add-subtract",
+     "why": "Add up what you earned and take away what you spent."
+    }
+   ]
+  }
+ ]
+}
