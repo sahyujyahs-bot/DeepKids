@@ -647,17 +647,65 @@
       "SUN",
       "SUN",
       "Grass",
-      "Rice plant",
-      "Wheat plant",
-      "Mango tree",
-      "Sugarcane",
+      {
+       "f": "Rice plant",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g1-0-05.jpg",
+        "credit": "Aditya Rao, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Wheat plant",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g1-0-06.jpg",
+        "credit": "Юлия Медведько, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Mango tree",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g1-0-07.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Sugarcane",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g1-0-08.jpg",
+        "credit": "Diogo Luiz, CC BY, via iNaturalist"
+       }
+      },
       "Mustard flower",
-      "Coconut palm",
+      {
+       "f": "Coconut palm",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g1-0-10.jpg",
+        "credit": "Navaneeth Sini George, CC BY, via iNaturalist"
+       }
+      },
       "Tiny algae in the sea",
       "Toor plant",
-      "Cow",
-      "Hen",
-      "Goat",
+      {
+       "f": "Cow",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g1-0-13.jpg",
+        "credit": "Ashwin Srinivasan, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Hen",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g1-0-14.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
+      },
+      {
+       "f": "Goat",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g1-0-15.jpg",
+        "credit": "Raja Sekhar Chimirala, CC BY, via iNaturalist"
+       }
+      },
       "Honeybee",
       "Small fish",
       "Big fish",
@@ -766,15 +814,33 @@
       "Potato",
       "Carrot",
       "Ginger",
-      "Sugarcane",
+      {
+       "f": "Sugarcane",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g2-0-03.jpg",
+        "credit": "Karthik Thrikkadeeri, CC BY, via iNaturalist"
+       }
+      },
       "Palak",
       "Tea",
       "Cauliflower",
       "Clove",
       "Mango",
       "Tomato",
-      "Bhindi",
-      "Rice",
+      {
+       "f": "Bhindi",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g2-0-10.jpg",
+        "credit": "Sham dattatray chavhan, CC0, via iNaturalist"
+       }
+      },
+      {
+       "f": "Rice",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g2-0-11.jpg",
+        "credit": "Utain Pummarin, CC BY, via iNaturalist"
+       }
+      },
       "Chana",
       "Peanut",
       "Jeera",
@@ -783,10 +849,22 @@
       "Egg",
       "Honey",
       "Fish",
-      "Mushroom",
+      {
+       "f": "Mushroom",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g2-0-20.jpg",
+        "credit": "Lucian Clanet, CC BY, via iNaturalist"
+       }
+      },
       "Curd",
       "Salt",
-      "Chilli"
+      {
+       "f": "Chilli",
+       "img": {
+        "src": "media/cards/where-food-comes-from-g2-0-23.jpg",
+        "credit": "Afsar Nayakkan, CC BY, via iNaturalist"
+       }
+      }
      ]
     },
     {

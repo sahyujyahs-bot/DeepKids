@@ -33,7 +33,9 @@ const plant = (c: Ctx, x: number, y: number, h: number, w: number, stem: string 
 const hookPlant = (c: Ctx, x: number, y: number, h: number) => {
   const T = y - h + 45, pts: number[][] = [[x, y], [x, T]];
   for (let a = Math.PI; a <= Math.PI * 2 + 0.5; a += 0.3) pts.push([x + 32 + 32 * Math.cos(a), T + 32 * Math.sin(a)]);
-  thick(c, pts, 12, "#f3e7a6");
+  thick(c, pts, 15, "#f3e7a6");
+  const ex = x + 32 + 32 * Math.cos(Math.PI * 2 + 0.5), ey = T + 32 * Math.sin(Math.PI * 2 + 0.5);
+  leaf(c, ex, ey - 4, 58, Math.PI * 0.62, "#e9df93"); leaf(c, ex, ey - 4, 58, Math.PI * 0.18, "#e9df93");
 };
 const dropP = (c: Ctx, x: number, y: number, s: number) => { c.moveTo(x, y - s * 1.3); c.bezierCurveTo(x + s * 0.2, y - s * 0.7, x + s * 0.9, y - s * 0.2, x + s * 0.9, y + s * 0.2); c.arc(x, y + s * 0.2, s * 0.9, 0, Math.PI); c.bezierCurveTo(x - s * 0.9, y - s * 0.2, x - s * 0.2, y - s * 0.7, x, y - s * 1.3); c.closePath(); };
 const drop = (c: Ctx, x: number, y: number, s: number) => { shape(c, () => dropP(c, x, y, s), COL.water, 5); shine(c, [[x - s * 0.4, y + s * 0.1], [x - s * 0.35, y + s * 0.45]], 6); };
@@ -160,16 +162,22 @@ const katori = (c: Ctx, x: number, y: number, r: number, ry: number) => {
 const K3 = [190, 540, 890];
 const e3s0 = (c: Ctx) => {
   ground(c);
+  c.translate(0, 150);
   const rr = rnd(3);
-  K3.forEach((x) => {
+  K3.forEach((x, k) => {
     katori(c, x, 520, 145, 62);
-    shape(c, () => ell(c, x, 524, 128, 50), COL.sky, 4);
-    line(c, [[x - 100, 538], [x - 30, 560], [x + 60, 556]], 3, COL.waterDk);
-    line(c, [[x - 90, 508], [x, 490], [x + 90, 508]], 3, COL.waterDk);
-    for (let i = 0; i < 10; i++) { const col = i % 5, row = Math.floor(i / 5); sprout(c, x - 72 + col * 36 + rr() * 6, 506 + row * 36 + rr() * 5, 11, 24, rr() * 6.28); }
+    // a folded wet cloth lying in the bowl
+    shape(c, () => rrect(c, x - 112, 500, 224, 50, 14), "#cfe6f7", 5);
+    shape(c, () => rrect(c, x - 98, 484, 196, 42, 12), COL.sky, 5);
+    line(c, [[x - 80, 505], [x + 70, 505]], 4, COL.waterDk);
+    drop(c, x + 98, 560, 20);
+    const n = k === 1 ? 4 : 10;
+    for (let i = 0; i < n; i++) { const col = i % 5, row = Math.floor(i / 5); sprout(c, x - 72 + col * 36 + rr() * 6, 486 + row * 32 + rr() * 5, 11, 24, rr() * 6.28); }
   });
-  shadow(c, 560, 905, 190, 14);
-  spoon(c, 400, 880, 220, 0, 0.65);
+  // a hand dropping sprouts into the middle bowl
+  hand(c, 540, 80, Math.PI * 0.5, 1.5);
+  sprout(c, 560, 200, 12, 26, 0.6); sprout(c, 520, 250, 12, 26, 2.4); sprout(c, 570, 300, 12, 26, 1.2);
+  arrow(c, [[690, 200], [690, 350]]);
 };
 const covered = (c: Ctx, x: number, y: number, r: number) => {
   shadow(c, x + r * 0.15, y + 6, r * 0.85, r * 0.12);
@@ -253,7 +261,17 @@ const cup4 = (c: Ctx, i: number, hs: number[], w: number, stem: string, lf: stri
   }
 };
 const CONES = ["rgba(235,245,255,0.55)", "rgba(228,82,59,0.5)", "rgba(91,143,214,0.5)", "rgba(106,180,70,0.5)"];
-const e4s0 = (c: Ctx) => { ground(c); [0, 1, 2, 3].forEach((i) => cup4(c, i, [70, 85, 75, 80], 10, COL.greenLt, COL.leaf, undefined, true)); };
+const e4s0 = (c: Ctx) => {
+  ground(c);
+  [1, 2, 3].forEach((i) => cup4(c, i, [70, 85, 75, 80], 10, COL.greenLt, COL.leaf));
+  // first cup: two straws in, the third being pushed into the soil by a hand
+  const [x, y] = E4[0], sy = cup(c, x, y, E4W, E4H);
+  STRAW.slice(0, 2).forEach((s) => straw(c, x, sy, s[0], s[1]));
+  plants4(c, x, sy, [70, 85, 75, 80], 10, COL.greenLt, COL.leaf);
+  thick(c, [[x + 92, 95], [x + 92, sy + 6]], 7, COL.pink);
+  hand(c, x + 178, 130, Math.PI, 1.3);
+  arrow(c, [[x + 52, 70], [x + 52, 150]]);
+};
 const e4s1 = (c: Ctx) => { ground(c); [0, 1, 2, 3].forEach((i) => cup4(c, i, [70, 85, 75, 80], 10, COL.greenLt, COL.leaf, CONES[i])); };
 const e4s2 = (c: Ctx) => {
   ground(c);
@@ -261,6 +279,12 @@ const e4s2 = (c: Ctx) => {
   cup4(c, 1, [150, 160, 154, 158], 7, COL.greenLt, COL.leaf);
   cup4(c, 2, [52, 58, 54, 56], 14, COL.green, COL.leafDk);
   cup4(c, 3, [185, 192, 186, 190], 6, "#d2e2a6", "#bcd78a");
+  // the colour each cup had, shown by a square of cover stuck on the cup
+  ["#f4faff", "#e4523b", "#5b8fd6", "#6ab446"].forEach((col, i) => {
+    const [x, y] = E4[i];
+    shape(c, () => rrect(c, x - 36, y - 118, 72, 72, 10), col, 5);
+    shine(c, [[x - 22, y - 100], [x - 22, y - 76]], 7);
+  });
 };
 
 export const su_plantsWhatPlantsNeed = cards("sci.plants.what-plants-need.L3 set-up", [e1s0, e1s1, e1s2, e2s0, e2s1, e2s2, e3s0, e3s1, e3s2, e4s0, e4s1, e4s2]);

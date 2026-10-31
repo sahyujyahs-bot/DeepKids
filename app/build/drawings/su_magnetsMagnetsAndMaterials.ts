@@ -31,20 +31,22 @@ const e2s0 = (c: Ctx) => {
   hand(c, 540, 250, Math.PI / 2, 2.3);
 };
 
-// e3 step 1: the magnet slides down into a clear zip bag
+// e3 step 1: a hand holds a clear zip bag open; the magnet slides down into it
 const e3s0 = (c: Ctx) => {
   ground(c);
-  shadow(c, 560, 930, 270, 34);
-  const bag = () => { c.moveTo(310, 360); c.lineTo(810, 360); c.lineTo(830, 900); c.quadraticCurveTo(560, 930, 290, 900); c.closePath(); };
-  shape(c, bag, "rgba(214,236,250,0.5)", 0);
-  barMagnet(c, 480, 150, 160, 500);
-  shape(c, () => { bag(); }, "rgba(214,236,250,0.4)", 6);
-  shape(c, () => rrect(c, 300, 340, 520, 40, 12), COL.teal);
-  shade(c, () => rrect(c, 300, 340, 520, 40, 12), COL.tealDk, 0, 12, 0.5);
-  line(c, [[345, 350], [440, 350]], 7, WHITE);
-  line(c, [[300, 840], [300, 450]], 0, WHITE);
-  line(c, [[340, 470], [350, 780]], 10, WHITE);
-  arrow(c, [[800, 130], [800, 290]]);
+  shadow(c, 540, 935, 250, 30);
+  const bag = () => { c.moveTo(340, 400); c.lineTo(740, 400); c.lineTo(760, 900); c.quadraticCurveTo(540, 935, 320, 900); c.closePath(); };
+  shape(c, () => rrect(c, 340, 372, 400, 56, 26), "#3a3540");
+  shape(c, bag, "rgba(214,236,250,0.55)", 0);
+  barMagnet(c, 460, 130, 160, 500);
+  shape(c, bag, "rgba(214,236,250,0.35)", 6);
+  shape(c, () => rrect(c, 330, 420, 420, 34, 12), COL.teal);
+  shade(c, () => rrect(c, 330, 420, 420, 34, 12), COL.tealDk, 0, 10, 0.5);
+  shape(c, () => rrect(c, 690, 408, 78, 22, 10), COL.tealDk, 5);
+  line(c, [[375, 430], [470, 430]], 7, WHITE);
+  line(c, [[375, 500], [385, 840]], 10, WHITE);
+  hand(c, 850, 760, Math.PI, 1.8);
+  arrow(c, [[810, 140], [810, 300]]);
 };
 
 export const su_magnetsMagnetsAndMaterials = cards("sci.magnets.magnets-and-materials.L3 set-up", [e2s0, e3s0]);

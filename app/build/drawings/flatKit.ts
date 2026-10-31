@@ -79,13 +79,22 @@ export const leaf = (c: Ctx, x: number, y: number, len: number, an: number, col:
 };
 
 // ---------------------------------------------------------------- people
-// a hand seen from the side, wrist at (x, y), pointing at angle an; s = size (about 1 = a child's hand on the card)
-export const hand = (c: Ctx, x: number, y: number, an: number, s = 1, skin: string = SKIN.child, sleeve: string = CLOTH.child) => {
+// a hand gripping something, seen from the side: sleeve cuff, palm, four curled fingers stacked one
+// above the other at the front, the thumb over them. Wrist at (x, y), pointing at angle an; s = size
+// (1 is about 150 px long, a child's hand on the card). Put the held object's middle at about (x+70*s, y)
+// along an. open = true: fingers straight out (a flat hand pressing or showing).
+export const hand = (c: Ctx, x: number, y: number, an: number, s = 1, skin: string = SKIN.child, sleeve: string = CLOTH.child, open = false) => {
   c.save(); c.translate(x, y); c.rotate(an); c.scale(s, s);
-  shape(c, () => rrect(c, -90, -34, 70, 68, 18), sleeve);
-  shape(c, () => { c.moveTo(-24, -30); c.quadraticCurveTo(40, -40, 62, -18); c.quadraticCurveTo(70, 0, 62, 16); c.quadraticCurveTo(30, 34, -24, 30); c.closePath(); }, skin);
-  shape(c, () => { c.moveTo(10, -26); c.quadraticCurveTo(30, -58, 44, -52); c.quadraticCurveTo(52, -44, 34, -20); c.closePath(); }, skin, 5);
-  line(c, [[30, -4], [58, -2]], 3, SKIN.childDk); line(c, [[28, 10], [56, 10]], 3, SKIN.childDk);
+  const dk = skin === SKIN.child ? SKIN.childDk : SKIN.adultDk;
+  shape(c, () => rrect(c, -78, -36, 56, 72, 14), sleeve, 6);
+  shape(c, () => { c.moveTo(-26, -32); c.quadraticCurveTo(20, -42, 46, -30); c.lineTo(52, 30); c.quadraticCurveTo(10, 40, -26, 32); c.closePath(); }, skin, 6);
+  for (let k = 0; k < 4; k++) {
+    const fy = -30 + k * 17;
+    if (open) shape(c, () => rrect(c, 34, fy, 64 - Math.abs(k - 1.3) * 8, 16, 8), skin, 5);
+    else shape(c, () => rrect(c, 38, fy, 40, 17, 8.5), skin, 5);
+  }
+  shape(c, () => { c.moveTo(-4, -30); c.quadraticCurveTo(22, -60, 52, -50); c.quadraticCurveTo(64, -44, 50, -34); c.quadraticCurveTo(26, -32, 12, -18); c.closePath(); }, skin, 5);
+  line(c, [[20, 8], [30, 16]], 3, dk);
   c.restore();
 };
 // a person standing or sitting, feet (or seat) at (x, y), height h; arms by joint angles (radians, 0 = pointing right)

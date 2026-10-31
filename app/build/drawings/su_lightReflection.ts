@@ -99,23 +99,26 @@ const e2s0 = (c: Ctx) => {
 };
 const e2s1 = (c: Ctx) => {
   ground(c);
-  c.save(); c.translate(0, -150);
-  person(c, 215, 960, 600, { sit: true, armR: [-0.55, -0.2] });
-  const T: Q = [[330, 750], [1040, 750], [1060, 900], [300, 900]];
+  person(c, 215, 810, 600, { sit: true, armR: [-0.55, -0.2], armL: [1.2, 0.9] });
+  const T: Q = [[330, 600], [1040, 600], [1060, 750], [300, 750]];
   shape(c, () => polyP(c, T), COL.wood, 6);
-  shape(c, () => polyP(c, [[300, 900], [1060, 900], [1060, 935], [300, 935]]), COL.woodDk, 6);
-  shape(c, () => rrect(c, 330, 935, 40, 105, 6), COL.woodDk, 6); shape(c, () => rrect(c, 990, 935, 40, 105, 6), COL.woodDk, 6);
-  shape(c, () => polyP(c, [[565, 770], [865, 770], [885, 890], [545, 890]]), COL.paper, 5);
-  starRace(c, 715, 830, 62, 0.5, -Math.PI / 2, 4);
-  pencil(c, 705, 842, -2.8, 150);
-  hand(c, 590, 800, 0.35, 0.75, SKIN.child, CLOTH.child);
-  standMirror(c, 880, 1010, 470, 760);
-  shape(c, () => rrect(c, 450, 500, 140, 360, 8), COL.purple);
-  shape(c, () => rrect(c, 450, 500, 28, 360, 8), "#6b4fa8");
-  line(c, [[505, 600], [565, 600]], 9, COL.yellow); line(c, [[505, 640], [565, 640]], 9, COL.yellow);
-  shape(c, () => ell(c, 462, 678, 24, 24), SKIN.child, 5);
-  arrow(c, [[300, 560], [450, 430], [690, 420], [850, 520]]);
+  shape(c, () => polyP(c, [[300, 750], [1060, 750], [1060, 785], [300, 785]]), COL.woodDk, 6);
+  shape(c, () => rrect(c, 330, 785, 40, 105, 6), COL.woodDk, 6); shape(c, () => rrect(c, 990, 785, 40, 105, 6), COL.woodDk, 6);
+  shape(c, () => polyP(c, [[565, 620], [865, 620], [885, 740], [545, 740]]), COL.paper, 5);
+  starRace(c, 715, 682, 62, 0.5, -Math.PI / 2, 4);
+  standMirror(c, 885, 1035, 250, 640);
+  c.save(); c.beginPath(); rrect(c, 901, 266, 118, 358, 6); c.clip();
+  starRace(c, 960, 520, 46, 1, Math.PI / 2, 4);
+  line(c, [[930, 500], [944, 510], [940, 526], [956, 520]], 7, COL.purple);
   c.restore();
+  shape(c, () => rrect(c, 400, 430, 120, 175, 8), COL.purple);
+  shape(c, () => rrect(c, 400, 430, 26, 175, 8), "#6b4fa8");
+  line(c, [[448, 490], [498, 490]], 9, COL.yellow); line(c, [[448, 525], [498, 525]], 9, COL.yellow);
+  shape(c, () => ell(c, 462, 560, 24, 24), SKIN.child, 5);
+  line(c, [[275, 600], [380, 650], [490, 676]], 64, INK); line(c, [[275, 600], [380, 650], [490, 676]], 52, CLOTH.child);
+  hand(c, 540, 684, 0.15, 0.95, SKIN.child, CLOTH.child);
+  pencil(c, 690, 694, -2.95, 150);
+  arrow(c, [[300, 440], [420, 350], [700, 330], [860, 400]]);
 };
 const e2s2 = (c: Ctx) => {
   mirrorPaper(c);
@@ -180,7 +183,7 @@ const e3s1 = (c: Ctx) => {
   guideLines(c);
   mirrorPanel(c, QL); mirrorPanel(c, QR);
   write(c, "90°", 488, 636, 40, INK, 6);
-  elephant(c, 540, 905, 0.9);
+  elephant(c, 540, 845, 0.7);
 };
 const e3s2 = (c: Ctx) => {
   ground(c);
@@ -189,7 +192,7 @@ const e3s2 = (c: Ctx) => {
   c.save(); c.beginPath(); polyP(c, facePts(QL)); polyP(c, facePts(QR)); c.clip();
   elephant(c, 405, 740, 0.72, true); elephant(c, 675, 740, 0.72, false); elephant(c, 540, 528, 0.62, true);
   c.restore();
-  elephant(c, 540, 905, 0.9);
+  elephant(c, 540, 845, 0.7);
   shape(c, () => ell(c, 900, 150, 72, 72), COL.yellow);
   write(c, "4", 872, 108, 84, INK, 9);
 };
